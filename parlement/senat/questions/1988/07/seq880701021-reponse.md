@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880701021
+
+- Question : [SEQ880701021](seq880701021.md) — Association In'Ash el Usra en Cisjordanie
+
+## Réponse
+
+*Affaires étrangères, JO du 1988-11-17, page 1282*
+
+Réponse. - Dès l'annonce de la décision de fermeture, par les autorités israéliennes, de l'Association In'Ash el Usra, le ministère des affaires étrangères s'est inquiété de la situation de cette association et a demandé au consul général de France à Jérusalem de lui fournir toutes les indications dont il pourrait disposer. Il ressort de cette enquête que, si le centre de formation professionnelle et les différents centres de production de broderies regroupant près de 4 800 personnes dans différentes localités autour de Ramallah ont effectivement été fermés, en revanche l'orphelinat, qui regroupe 132 jeunes filles, et le dispensaire, qui offre soins, nourriture et éducation à environ 150 enfants, ont été autorisés à poursuivre leurs activités. Le Gouvernement français partage les inquiétudes qu'une telle décision ne peut manquer de susciter, au regard notamment de l'aide que cette association apporte à des familles particulièrement éprouvées. C'est sur l'insistance de la France que les pays membres de la Communauté européenne ont effectué, le 23 septembre dernier, une démarche auprès des autorités israéliennes afin que celles-ci reviennent sur leur décision. Comme le sait en outre l'honorable parlementaire, le Gouvernement français contribue à l'oeuvre de l'Association In'Ash el Usra qui doit bénéficier, dans le cadre d'un programme d'aide d'urgence aux territoires occupés, d'une subvention particulière. La procédure judiciaire menée à l'encontre de Mme Khalil et des activités de la société n'est pas encore terminée. Le ministère des affaires étrangères ne manquera pas d'accorder la plus grande attention aux futurs développements de cette affaire.
