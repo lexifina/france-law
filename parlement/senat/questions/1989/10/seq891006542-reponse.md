@@ -1,0 +1,9 @@
+# Réponse à la question SEQ891006542
+
+- Question : [SEQ891006542](seq891006542.md) — Création d'un tribunal de commerce dans le département du Pas-de-Calais
+
+## Réponse
+
+*Justice, JO du 1990-02-01, page 218*
+
+Réponse. - Le ministère de la justice est conscient de l'intérêt qui s'attacherait à ce que tous les industriels et commerçants du département du Pas-de-Calais puissent être jugés par leurs pairs même si le service rendu en matière commerciale par le tribunal de grande instance de Béthune demeure très satisfaisant. Cela étant observé, il faut souligner qu'au regard des contraintes budgétaires actuelles il n'est plus possible aujourd'hui de créer de nouvelles juridictions consulaires sans envisager la suppression corrélative des plus petites d'entre elles. En effet, l'institution d'un nouveau tribunal de commerce implique des dépenses supplémentaires liées à l'hébergement de la juridiction et aux frais d'équipement et de fonctionnement. Seule une nécessité pressante pourrait, en l'état actuel, motiver la création d'une juridiction. Il convient d'ajouter, au demeurant, que, si la possibilité budgétaire en était offerte, la chancellerie s'attacherait à créer en priorité de nouveaux tribunaux de commerce dans les départements qui en sont totalement dépourvus. Or, le Pas-de-Calais compte déjà quatre tribunaux de commerce qui, d'ailleurs, connaissent tous d'un nombre d'affaires relativement faible. Il est vrai, en revanche, que l'activité commerciale du tribunal de grande instance de Béthune représente un volume d'affaires important qui pourrait justifier la création d'un tribunal de commerce dans cette ville. Mais une telle création ne pourrait être envisagée qu'au prix d'un réexamen d'ensemble de la carte des juridictions commerciales du Pas-de-Calais, réexamen supposant une concertation avec les autorités locales et les milieux consulaires concernés.
