@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980709844
+
+- Question : [SEQ980709844](seq980709844.md) — Fonctionnement des commissions départementales de surendettement
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 1998-11-19, page 3724*
+
+Réponse. - La loi nº 98-657 du 29 juillet 1998 d'orientation relative à la lutte contre les exclusions apporte en effet plusieurs innovations importantes à la procédure instituée en 1990 et accroît l'éventail de mesures à la disposition des commissions de surendettement. Cependant, ces innovations, qui profiteront pour l'essentiel aux personnes surendettées, ne devraient conduire ni à un allongement de la procédure ni à un surcroît de charge de travail pour les secrétariats des commissions de surendettement. Bien au contraire, plusieurs dispositions de la loi précitée devraient avoir, à cet égard, des effets positifs. Ainsi, le soin apporté à l'établissement du passif du débiteur en début de procédure devrait permettre de réduire de manière significative les risques de contestation ultérieure et, par conséquent, les retards de procédure qui en découlent. Par ailleurs, l'allongement de la durée de rééchelonnement, désormais portée à huit ans, et surtout la possibilité pour les commissions de recommander des abandons de créances pour les cas les plus gravement et durablement compromis contribueraient dans une large mesure à modifier la procédure en apportant des solutions plus rapides et plus adaptées à des dossiers qui font souvent l'objet de réexamens. Enfin, il convient de souligner qu'actuellement le traitement du surendettement des particuliers est devenu, pour les succursales de la Banque de France, l'une des activités les plus importantes, en particulier si l'on se réfère au nombre de personnes qui s'y trouvent affectées. En 1997, ce sont près de 1 000 agents de la Banque de France qui ont apporté leur expérience et leur savoir-faire dans les secrétariats des commissions de surendettement.
