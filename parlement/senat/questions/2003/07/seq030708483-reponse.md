@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030708483
+
+- Question : [SEQ030708483](seq030708483.md) — Conseil d'orientation des retraites
+
+## Réponse
+
+*Affaires sociales, JO du 2004-03-18, page 644*
+
+L'honorable parlementaire s'interroge sur la justification de l'existence du Conseil d'orientation des retraites (COR). Les partenaires sociaux ont unanimement salué la qualité des travaux réalisés par le COR. Le premier rapport, paru en décembre 2001, a permis de poser un diagnostic incontestable sur le besoin de financement de nos régimes de retraite. Ce rapport a été ainsi utilisé lors de la réforme réalisée en 2003. Cette réforme ne remet pas en cause l'existence du COR. Toutes les réformes menées par les pays étrangers montrent qu'une instance de suivi s'avère particulièrement utile. Le COR, dont la composition est originale (parlementaires, partenaires sociaux et personnalités qualifiées), reste ainsi nécessaire pour décrire, de manière régulière, les évolutions et les perspectives de financement des régimes de retraite légalement obligatoires. De plus, l'article 6 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites, dont il convient de souligner l'adoption consensuelle lors du débat parlementaire, a confié au COR la mission de formuler un avis sur le décret permettant d'ajuster, avant le 1er juillet 2012 et le 1er juillet 2016, au regard de l'augmentation de l'espérance de vie, la durée de cotisation. S'agissant des moyens financiers, le budget du COR est actuellement inscrit dans le budget des services du Premier ministre. En 2001, les moyens alloués au COR étaient de 1 478 754 euros, dont 585 554 euros au titre des dépenses de personnel. Ces moyens ont été reconduits quasiment à l'identique en 2002 et en 2003. Enfin, le COR a organisé à ce jour deux colloques. Le premier en 2001, " Age et travail ", a coûté 97 749 euros. Le second, portant sur les choix individuels et la solidarité, a représenté une dépense de 67 475 euros.
