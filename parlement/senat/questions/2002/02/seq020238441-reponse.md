@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020238441
+
+- Question : [SEQ020238441](seq020238441.md) — Avenir du 1 % logement
+
+## Réponse
+
+*Logement, JO du 2002-03-28, page 936*
+
+A la suite des conventions signées les 11 octobre et 11 décembre 2001 entre l'Etat et l'Union d'économie sociale du logement (UESL) sur la participation du 1 % logement à la politique de renouvellement urbain, les partenaires sociaux qui gèrent à travers l'UESL, en partenariat avec l'Etat, les grands équilibres de la participation des employeurs à l'effort de construction, ont redéfini les orientations sur l'utilisation des fonds du 1 % logement. Ces orientations s'articulent désormais autour de trois grandes catégories d'emplois : les investissements locatifs, les aides en faveur des ménages et les versements à l'association foncière logement. Sur ces bases, le conseil d'administration de l'UESL, qui s'est tenu le 19 février, a décidé de maintenir pour les trois ans à venir (2002-2004) à hauteur de 1,5 milliard d'euros par an l'ensemble des aides en faveur des ménages, c'est-à-dire les prêts accession, les prêts pass-travaux et les aides loca-pass, et de se donner ainsi les moyens de poursuivre sa mission d'accompagnement des salariés tout au long de leur parcours résidentiel. En particulier, le pass-travaux reste un produit important d'aide à l'amélioration du logement distribué en droit ouvert. De même, les prêts à l'accession à la propriété ne sont en rien remis en cause en ce qui concerne l'accession sociale ou très sociale. En outre, le montant des prêts à personne physiques, si l'on y inclut les pass-travaux, dont la distribution a atteint 686 millions d'euros (4,5 milliards de francs) en 2001, est au contraire en augmentation. Il n'y a donc aucun risque de retrait des comités interprofessionnels du logement (CIL).
