@@ -1,7 +1,7 @@
 # Article 1
 
-1. La présente convention collective nationale, conclue en application de la loi du 11 février 1950 (section II du chapitre IV bis du titre II du livre Ier du code du travail), règle, sur le territoire métropolitain, au sein des établissements régis par la loi du 11 septembre 1941 et les textes subséquents "et adhérant à la chambre syndicale nationale des fabricants de produits pharmaceutiques" (1),les rapports de travail entre, d'une part, les employeurs et, d'autre part, le personnel salarié.
+1. La présente convention collective nationale, conclue en application de la loi du 11 février 1950 (section II du chapitre IV bis du titre II du livre Ier du code du travail), règle, sur le territoire métropolitain, au sein des établissements régis par la loi du 11 septembre 1941 et les textes subséquents les rapports de travail entre, d'une part, les employeurs et, d'autre part, le personnel salarié.
 
-2. Des annexes à la présente convention fixent les conditions particulières de travail des différentes catégories de personnel.
+2. Un avenant n° 1 "Classifications et Salaires" à la présente convention fixe les règles de classification des salariés ainsi que les salaires minima professionnels.
 
-(1) Exclu de l'extension par arrêté du 15 novembre 1956.
+3. Un avenant n° 2 "Dispositions particulières" à la présente convention fixe les règles spécifiques applicables aux salariés en fonction du type d'activité exercée et de leur contenu.
