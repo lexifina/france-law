@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030607822
+
+- Question : [SEQ030607822](seq030607822.md) — Connexion à Internet durant les heures de travail
+
+## Réponse
+
+*Affaires sociales, JO du 2003-07-24, page 2370*
+
+L'honorable parlementaire a bien voulu attirer l'attention de M. le ministre des affaires sociales, du travail et de la solidarité sur l'utilisation sans lien avec l'activité professionnelle d'Internet par les salariés au temps et au lieu de travail. On estime qu'environ 20 % des salariés français, soit approximativement trois millions de personnes, disposent d'un accès à Internet, accès qui peut difficilement être technologiquement réservé à une utilisation professionnelle, alors même que le salarié peut être rapidement tenté d'utiliser les moyens techniques à sa disposition par son employeur à des fins personnelles. Le forum des droits sur l'Internet, dans son rapport du 17 septembre 2002, s'est intéressé à cette question, qui pose le double problème du détournement de l'usage d'un moyen professionnel à des fins personnelles et de l'occupation d'une partie de son temps de travail, qui est rémunéré, à des fins personnelles. Aucune disposition du code du travail ne donne un droit d'accès au réseau Internet au salarié depuis son poste de travail à des fins personnelles, mais aucune ne l'interdit. Il existe de fait une présomption d'utilisation professionnelle d'Internet au travail et le Forum des droits considère qu'il doit être reconnu au salarié une possibilité d'utilisation personnelle d'Internet, à la condition qu'elle demeure dans des limites raisonnables. C'est pourquoi le Forum des droits recommande que l'employeur fixe des règles de bonne conduite et de contrôle, en étroite collaboration avec les institutions représentatives du personnel, et qu'elles soient intégrées en annexe au règlement intérieur de l'entreprise.
