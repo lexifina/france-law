@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931103822
+
+- Question : [SEQ931103822](seq931103822.md) — Situation des inspecteurs de la police nationale
+
+## Réponse
+
+*Intérieur, JO du 1994-02-17, page 386*
+
+Réponse. - La mise en application du protocole Durafour aux personnels actifs de police s'est déjà traduite avec les tranches 90 et 91 par des mesures de revalorisation indiciaire et d'amélioration des possibilités d'avancement (mesures de repyramidage). S'agissant de la tranche 92, deux séries de mesures sont intervenues : des revalorisations indiciaires, sans lien avec les mesures statutaires, intégrées aux salaires de décembre 1992, des mesures statutaires entraînant, notamment, la restructuration du grade d'inspecteur divisionnaire (banalisation de la bonification indiciaire). Par ailleurs, le décret du 27 mars 1993 qui devait, notamment, fusionner les grades d'inspecteur et d'inspecteur principal, a été abrogé (abandon de la " carrière plane " des inspecteurs) dans un souci d'éliminer tout risque de banalisation des fonctions et des rythmes d'avancement, de nature à démotiver les fonctionnaires qui sont prêts à prendre des responsabilités dans des secteurs difficiles. En outre, afin d'adpater la police et son fonctionnement aux exigences légitimes des Français et à l'évolution de la délinquance, une mission de réflexion, de concertation et de propositions a été confiée à M. Pierre Bordry, conseiller du ministre d'Etat. Cette mission se traduira par une loi d'orientation, qui sera déposée lors de la prochaine session parlementaire ordinaire. La place dans la cité de la police et du policier, le statut professionnel et social de celui-ci, la revalorisation de la condition policière et, d'une manière plus générale, l'amélioration de la situation des personnels, donc du corps des inspecteurs, figurent parmi les thèmes qui font l'objet de l'attention de la mission.
