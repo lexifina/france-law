@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000726851
+
+- Question : [SEQ000726851](seq000726851.md) — Analyse statistique des transports en Europe
+
+## Réponse
+
+*Équipement, JO du 2001-05-24, page 1770*
+
+Réponse. - Comme cela a déjà été indiqué à l'honorable parlementaire, la conduite d'une politique européenne des transports multimodale passe par l'amélioration de la qualité du système statistique d'observation des flux de transport. Le conseil des ministres des transports n'a pas été récemment saisi, dans ce domaine, de propositions par la Commission européenne et la présidence française n'a donc pas eu la possibilité de faire avancer de textes législatifs relatifs aux statistiques. L'amélioration de ce système statistique ne passe pas par la création d'un organisme européen d'observation mais par une amélioration de la collecte de données, pour tenir compte, par exemple, de l'évolution du système ferroviaire et par un renforcement de la coopération des services statistiques nationaux entre eux et Eurostat, qui doit développer son système d'information sur les transports. La France souhaite avancer dans la réflexion sur l'harmonisation de la tarification. Elle partage la position de la Commission selon laquelle une meilleure prise en compte des coûts externes est de nature à harmoniser les conditions de concurrence entre les modes ainsi qu'à l'intérieur de chaque mode et de contribuer à une meilleure efficacité du système de transport. Bien que l'harmonisation se fasse pour partie par le rapprochement progressif des niveaux économiques des Etats membres, ces travaux ont montré la difficulté d'arriver à une approche convergente entre pays et entre modes de transport, d'où la nécessité d'un approfondissement en commun de ces notions. Cet approfondissement est en cours, en particulier dans le cadre du comité des experts gouvernementaux chargé de la tarification des infrastructures de transport.
