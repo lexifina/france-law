@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880801144
+
+- Question : [SEQ880801144](seq880801144.md) — Venezuela : échanges extérieurs
+
+## Réponse
+
+*Commerce extérieur, JO du 1988-10-20, page 1167*
+
+Réponse. - En 1986 et 1987 nous observons une contraction de notre volume d'exportation sur le Venezuela. Note : devant les balises 29 ou 30 mettre la balise 150 EXPORTATIONS FRANçAISES (milliards de francs) A N N E E 19852,8 19862,5 19872,2 1988 (1)1,8 (1) Premier semestre. Cette évolution est imputable au tarissement des livraisons liées aux grands contrats passés, notamment le métro de Caracas, et à la raréfaction des nouveaux projets comme conséquence du freinage de la croissance économique. Parallèlement la R.F.A. et l'Italie ont pu conforter leurs positions, leurs exportations vers le Venezuela étant moins liées aux grands contrats. Pour 1988 les chiffres du premier semestre sont favorables puisqu'ils font apparaître une progression de 30 p. 100 par rapport à la même période en 1987 et que nous demeurons le 5e fournisseur du Venezuela avec 4 p. 100 du marché. A l'avenir pour faire progresser notre courant d'échanges et maintenir notre rang de fournisseur privilégié, nous devons nous fixer un double objectif : 1° maintenir et promouvoir nos ventes courantes grâce à nos implantations locales et à l'appui des partenaires français de promotion du commerce extérieur (C.F.C.E., A.C.T.I.M.) ; en 1987 plus de 50 p. 100 de nos ventes correspondent à des courants d'affaires réguliers sous-tendus par nos investissements sur place ; 2° relancer nos flux d'exportations liés aux grands contrats dans des secteurs qui correspondent à la spécialisation du commerce extérieur français : les transports urbains ; le développement de l'industrie de l'aluminium, le Venezuela ayant pour objectif d'être l'un des premiers producteurs mondiaux à l'horizon 1992-1995 ; le secteur des télécommunications (stations terriennes et satellites) ; la production d'énergie hydroélectrique.
