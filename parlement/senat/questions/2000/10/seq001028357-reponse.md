@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001028357
+
+- Question : [SEQ001028357](seq001028357.md) — Situation de la filière agroalimentaire de la Guadeloupe
+
+## Réponse
+
+*Agriculture, JO du 2001-01-18, page 151*
+
+Réponse. - Le dispositif Poséidom dans son volet aide à l'approvisionnement des départements d'Outre-mer en produits céréaliers, prévoit notamment la fourniture de marchandises communautaires à des conditions équivalant, pour l'utilisateur final, à l'avantage résultant de l'exonération des droits à l'importation pour les produits originaires des pays tiers. C'est ainsi que l'aide à l'approvisionnement a progressivement diminué depuis 1993 avec les réductions successives du prix d'intervention ayant eu lieu depuis la réforme de la politique agricole commune. Ce prix a en effet baissé de 40 % ce qui a provoqué une régression corrélative de l'aide spécifique Poséidom. Afin d'assurer une meilleure efficacité au régime d'aide il a cependant été prévu un plancher minimal lorsque les exportations de blé et d'orge au départ de la Communauté vers les pays tiers se réalisent conjoncturellement sans aucune aide. Le projet de réforme du dispositif Poséidom a été adopté par le Collège des Commissaires le 29 novembre 2000. Cette proposition, qui doit être débattue en Conseil des ministres de l'Union européenne, comporte certaines ouvertures significatives concernant le régime d'approvisionnement, notamment la prise en considération des surcoûts d'acheminement vers le marché des départements d'Outre-mer, et non plus seulement les prix pratiqués à l'exportation. En outre, la possibilité de s'approvisionner à partir des pays tiers a été simplifiée. Les préoccupations exprimées par la filière agroalimentaire de la Guadeloupe seront prises en considération par la France à l'occasion des discussions qui auront lieu au niveau communautaire sur la réforme du dispositif Poséidom.
