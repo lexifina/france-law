@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860400339
+
+- Question : [SEQ860400339](seq860400339.md) — Protection sociale des coopérants en cas d'hospitalisation sur place
+
+## Réponse
+
+*Coopération, JO du 1986-07-17, page 1000*
+
+Réponse. -Les agents de coopération, quel que soit leur statut, bénéficient d'un régime de protection sociale obligatoire leur permettant de prétendre aux prestations en nature de la sécurité sociale en cas de maladie. Toutefois, ce régime ne concerne pas les rapatriements sanitaires rendus nécessaires par l'impossibilité d'hospitalisation éventuelle en territoire étranger. Dans ce cas, l'administration intervient au titre de l'obligation qui lui incombe de rapatrier en France les agents qu'elle envoie en mission de coopération à l'étranger ainsi que leur famille. Cependant, les agents peuvent estimer plus sécurisant pour eux-mêmes et surtout leur famille de s'assurer à titre complémentaire afin de pouvoir bénéficier d'un rapatriement sanitaire d'urgence, par avion sanitaire notamment : à cet effet, ils ont la possibilité de s'assurer auprès de compagnies d'assurance ou organismes mutualistes pour ce risque particulier. Parmi les contrats d'assurance existants, qui sont de la responsabilité individuelle de chacun, les agents peuvent opter pour le contrat diffusé par le Ciface et intitulé " coopérants-secours ", qui a été effectivement élaboré plus particulièrement pour les personnels de coopération. Il va de soi cependant qu'il ne s'agit pas là d'une assurance obligatoire et qu'il appartient à chacun de se déterminer sur la souscription à ce type de contrat en fonction de l'appréciation qu'il a des risques susceptibles d'être encourus par une expatriation. A l'occasion de l'examen de l'ensemble des activités du Ciface, que l'inspection générale des finances doit effectuer dans les prochaines semaines à la demande du ministre de la coopération, le contrat en cause fera l'objet d'une vérification particulière.
