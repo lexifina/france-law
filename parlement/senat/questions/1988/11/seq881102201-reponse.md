@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881102201
+
+- Question : [SEQ881102201](seq881102201.md) — Eventuelle création de postes d'assistants techniques en milieu rural
+
+## Réponse
+
+*Commerce et artisanat, JO du 1988-12-29, page 1484*
+
+Réponse. - Les agents d'assistance technique des métiers, en fonction tant auprès des chambres de métiers que des organisations professionnelles, ont une vocation générale d'aide aux artisans : accueil, conseils, formation, et d'aide au secteur artisanal : actions de développement économique, sur la totalité d'un secteur géographique. Les problèmes de l'artisanat en milieu rural sont donc traités par ces agents dans le cadre de leur compétence générale, dans la mesure où les actions à mener ont été jugées prioritaires au niveau local. C'est ainsi que, concernant le département de l'Hérault, la chambre des métiers a lancé plusieurs actions en milieu rural, baptisées " opérations charmes ", ayant pour objectif de rendre plus attractif le tissu commercial et artisanal en zones sensibles, au travers la rénovation des locaux commerciaux et artisanaux, qui devraient permettre notamment une meilleure reprise des fonds de commerce et un soutien accru aux entreprises du bâtiment. Des actions allant dans le même sens sont menées au niveau national au travers des opérations de restructuration de l'artisanat et du commerce (O.R.A.C.), lesquelles devraient trouver leur juste place dans les futurs contrats de plan Etat-région. Il est à signaler par ailleurs qu'une réflexion est présentement menée par le ministère du commerce et de l'artisanat sur le devenir de l'assistance technique. L'une des pistes à privilégier consisterait à compléter la compétence de généraliste de ces agents par une formation spécialisée par branche d'activité ou par domaine d'intervention ; dans cette optique, la spécificité de l'artisanat en milieu rural pourrait faire l'objet d'une sensibilisation accrue.
