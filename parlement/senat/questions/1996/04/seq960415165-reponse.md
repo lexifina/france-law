@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960415165
+
+- Question : [SEQ960415165](seq960415165.md) — Deuxième accord européen sur le numérique
+
+## Réponse
+
+*Culture, JO du 1996-08-29, page 2210*
+
+Réponse. - La Société de télévision européenne de programmes et de services (STEPS) était une préfiguration de la société TPS (Télévision par satellite) dont le capital est réparti comme suit : TF1 (25 p. 100), France Télévision Entreprise (25 p. 100), Métropole Télévision (20 p. 100), Compagnie luxembourgeoise de télévision (20 p. 100), Lyonnaise des eaux (10 p. 100). France Télévision Entreprise est une société holding regroupant France Télécom (66 p. 100) et France Télévision (33 p. 100), soit respectivement pour ces deux sociétés une participation dans TPS de 17 et 8 p. 100. Les moyens financiers à mettre en oeuvre correspondent pour TPS à un investissement de 1 664 MF pour une première tranche au cours de la période 1996-2000 et à la levée en 1998 de 1 000 MF conditionnée, aux termes des accords entre les actionnaires, par l'obtention d'un seuil de 200 000 abonnés et par l'adéquation des résultats aux hypothèses émises dans le plan d'affaires initial. Le coût total de l'opération incluant l'ensemble des investissements et l'offre de programmes s'élève à environ 4 000 MF. Le pôle public ne pourra envisager un retour sur investissement avant plusieurs années. Cependant France Télécom se voit désormais assuré de l'utilisation de son système de contrôle d'accès Viaccess qui permettra la réception du bouquet. La commercialisation de chaînes thématiques rémunérées selon les abonnements souscrits générera quant à elle des ressources dès lors que les objectifs de pénétration du marché seront effectivement remplis. A cet égard, il apparaît nécessaire de permettre à France Télévision Entreprise de développer une offre thématique s'adressant à un large public. L'enjeu que représente l'offre spécifique de programmes de qualité pour la jeunesse en est un exemple.
