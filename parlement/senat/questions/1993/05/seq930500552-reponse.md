@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930500552
+
+- Question : [SEQ930500552](seq930500552.md) — Attributions du conseil départemental de l'Education nationale et de la commission départementale des services publics
+
+## Réponse
+
+*Premier ministre, JO du 1993-07-29, page 1249*
+
+Réponse. - Le conseil de l'éducation nationale institué dans le département (CDEN) est consulté, en application du décret no 85-895 du 21 août 1985, notamment, sur la " répartition des emplois d'instituteurs dans les écoles maternelles et élémentaires publiques ". Dans le cadre de la pérennisation des schémas départementaux de services en milieu rural, le comité interministériel d'aménagement du territoire (CIAT) a décidé, le 23 juillet 1992, que, dans les départements où ce schéma est obligatoire, " la commission départementale d'organisation et d'amélioration des services publics en milieu rural sera saisie des conclusions du CDEN ; elle donnera son avis sous quinze jours. L'inspecteur d'académie ne pourra arrêter la carte scolaire qu'au terme de ce délai ". Le ministre de l'éducation nationale a informé les préfets de ces dispositions par lettre du 4 décembre 1992 dont copie a été adressée aux inspecteurs d'académie, directeurs des services départementaux de l'éducation nationale. Par ailleurs, cette règle figure dans une note du 20 janvier 1993 adressée aux préfets par les principaux ministres concernés, le ministre chargé de l'éducation n'étant, cependant, pas cosignataire de ce document. Sur le fond, il ne paraît pas anormal que la commission départementale des services publics, qui a vocation à connaître du fonctionnement de l'ensemble des services publics, soit saisie des conclusions d'autres organismes à compétence plus spécifique comme le CDEN, afin de pouvoir porter une appréciation globale sur la situation des services publics dans le département.
