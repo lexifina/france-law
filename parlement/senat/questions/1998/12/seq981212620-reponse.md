@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981212620
+
+- Question : [SEQ981212620](seq981212620.md) — Création d'un Mémorial de la France d'outre-mer sur le site du Fort Saint-Jean à Marseille
+
+## Réponse
+
+*Culture, JO du 1999-05-27, page 1763*
+
+Réponse. - 7a décision d'édifier à Marseille un Mémorial des Français d'outre-mer a été envisagée par les pouvoirs publics dès 1982. Dans cette perspective, en 1990, un jury présidé par le ministre chargé des rapatriés avait évoqué comme lieu d'implantation possible les bâtiments du fort Saint-Jean appartenant à l'Etat et dont le ministère de la culture et de la communication est affectataire. Cette hypothèse d'une implantation au fort Saint-Jean n'a pas été retenue, car elle présentait de fortes contraintes en termes budgétaires et des problèmes de conformité avec la réglementation de protection des monuments historiques. Toutefois, la construction d'un centre, musée et lieu de mémoire, est en cours d'étude dans le cadre du projet Euroméditerranée, en liaison avec la ville de Marseille et la délégation interministérielle aux rapatriés, qui a en charge le dossier. Une hypothèse consiste aujourd'hui à installer ce projet dans un bâtiment du port autonome de Marseille, situé dans le périmètre d'Euroméditerranée et à proximité immédiate de la mer. Elle nécessite une étude de faisabilité technique pilotée par la direction départementale de l'équipement des Bouches-du-Rhône. Ce projet de mémorial sera donc étudié dans le cadre plus large des choix stratégiques adaptés à la valorisation de ce site exceptionnel. Compte tenu en effet des enjeux mobilisés par l'opération Euroméditerranée, la ministre de la culture et de la communication et la ministre de l'aménagement du territoire et de l'environnement ont décidé de confier dans les plus brefs délais une mission d'expertise à une personnalité du ministère de la culture et de la communication.
