@@ -1,0 +1,9 @@
+# Réponse à la question SEQ891107303
+
+- Question : [SEQ891107303](seq891107303.md) — Revalorisation des indemnités des officiers de police judiciaire
+
+## Réponse
+
+*Intérieur, JO du 1990-03-01, page 428*
+
+Réponse. - Des mesures tendant à améliorer les conditions de vie et le déroulement de carrière des fonctionnaires des services actifs de police ont été inscrites dans la loi de finances pour 1990 : elles concernent en particulier les membres du corps des inspecteurs de la police qui correspondent très largement à ce que l'honorable parlementaire désigne comme le " corps des officiers de police judiciaire ". Les mesures arrêtées en faveur des inspecteurs de police, et qui sont inscrites dans le projet de finances, visent à rapprocher leur déroulement de carrière avec celui de leurs homologues en tenue, appartenant au corps des commandants et officiers de paix ; elles consistent dans la transformation des premier et deuxième échelons du premier grade en un échelon unique doté de l'indice majoré 355, qui donnera lieu à un gain de 29 points d'indice majoré par rapport à l'actuel premier échelon d'inspecteur de police et de 7 points majorés par rapport au deuxièmeéchelon. Elles consistent également dans la création d'un échelon exceptionnel d'inspecteur principal doté de l'indice 526 majoré, soit 23 points de plus que celui qui correspond aujourd'hui au dernier échelon de ce grade. D'autres dispositions ont été prévues à l'effet d'améliorer le régime indemnitaire des personnels de police. Elles intéressent l'ensemble des corps actifs, et non pas seulement ceux qui sont concernés par l'exercice de la nouvelle qualification d'agent de police judiciaire de l'article 20 du code de procédure pénale : il s'agit de l'indemnité pour services continus et postes difficiles. S'ajoute à cette série de mesures une revalorisation des frais d'enquête et de surveillance alloués aux personnels en civil de la police nationale.
