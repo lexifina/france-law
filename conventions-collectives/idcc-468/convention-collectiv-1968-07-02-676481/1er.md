@@ -1,0 +1,5 @@
+# Article 1
+
+La présente convention règle sur l'ensemble du territoire métropolitain les rapports entre, d'une part, les employeurs et, d'autre part, le personnel employé relevant des activités de distribution des magasins et sièges des entreprises ou groupes d'entreprises spécialisées ou comptant un département spécialisé dans le commerce de détail de la chaussure (activité relevant du n° 6412 de la nomenclature d'activités et de produits) et exploitant sous l'autorité directe d'une même direction un nombre minimum de cinq magasins à l'exception des entreprises qui, du fait de leur affiliation syndicale, appliquent à la date d'entrée en vigueur des présentes dispositions la convention des détaillants indépendants spécialisés dans le commerce de la chaussure.
+
+La situation du personnel des entreprises ou groupes d'entreprises exploitant moins de cinq magasins et qui adhèrent à l'organisation patronale signataire à la date d'entrée en vigueur des présentes dispositions reste régie par la présente convention.
