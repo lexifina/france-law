@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990314762
+
+- Question : [SEQ990314762](seq990314762.md) — Nuisances sonores dues aux vols d'entraînement des élèves pilotes de l'air de Salon-de-Provence
+
+## Réponse
+
+*Défense, JO du 1999-05-13, page 1606*
+
+Réponse. - Soucieuse de réduire les nuisances occasionnées par l'activité aérienne de Salon-de-Provence, l'armée de l'air a adopté diverses mesures, dès 1997, notamment l'élévation des planchers d'évolution à l'altitude de 3 000 mètres, la suppression des vols de nuit en juillet et des vols école au mois d'août. En outre, le nombre d'heures de vol a été réduit de plus de 10 300 heures en cinq ans. Parallèlement à cette diminution, une meilleure répartition des missions a permis de réduire l'activité aérienne au-dessus du Lubéron. Ainsi, depuis l'été 1997, la division des vols effectue certaines missions au-dessus de la mer dans la zone d'Hyères-Toulon, d'une part, et dans la zone maritime d'Istres, où ces vols ont débuté en mars 1998, d'autre part. Le protocole d'accord signé entre la division des vols de Salon-de-Provence et le centre de contrôle militaire d'Istres, en mars 1998, a également permis d'effectuer des missions au-dessus des zones terrestres d'Istres depuis le mois de septembre 1998. Cette répartition de l'activité a ainsi permis d'exporter près de 20 % de l'activité aérienne hors du Lubéron pour l'année 1998. Par ailleurs, des détachements ponctuels sur d'autres sites de l'armée de l'air sont actuellement en cours d'étude. Enfin, la réunion de concertation qui s'est tenue début mars à Salon-de-Provence entre les élus des régions concernées, les associations et l'armée de l'air montre que la voie de la concertation permet de mettre en place des dispositions de nature à réduire les effets des nuisances sonores. Ces efforts seront poursuivis.
