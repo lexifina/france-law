@@ -60,7 +60,7 @@ Educateurs des services déconcentrés de la protection judiciaire de la jeuness
 
 Ministère de la culture, de la communication, des grands travaux et du Bicentenaire
 
-Corps recrutés par la voie de l’Ecole nationale du patrimoine.
+Corps recrutés par la voie de l’Institut nationale du patrimoine.
 
 Inspecteurs de surveillance et de magasinage.
 
