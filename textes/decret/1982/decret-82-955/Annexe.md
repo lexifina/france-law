@@ -152,6 +152,8 @@ a) Entretien de la minuterie, pose, dépose et entretien des tapis ;
 
 b) Menues réparations des appareils d'entretien de propreté tels qu'aspirateur.
 
+3. Entretien de propreté (frais de personnel)
+
 V - Espaces extérieurs au bâtiment ou à l'ensemble des bâtiments d'habitation.
 
 (Voies de circulation, aires de stationnement, abords et espaces verts, aires et équipements de jeux).
@@ -196,6 +198,8 @@ Entretien et vidange des fosses d'aisance.
 
 Entretien des appareils de conditionnement des ordures.
 
+3. Elimination des rejets (frais de personnel)
+
 VII - Equipements divers du bâtiment ou de l'ensemble de bâtiments d'habitation.
 
 1. Fourniture d'énergie nécessaire à la ventilation mécanique.
@@ -221,7 +225,3 @@ Droit de bail ;
 Taxe ou redevance d'enlèvement des ordures ménagères ;
 
 Taxe de balayage.
-
-NOTA :
-
-Le présent décret a été annulé par décision n° 47887 du conseil d' Etat, en date du 1er juillet 1988, en tant qu'il ne fait pas figurer dans la liste qui y est annexée des charges récupérables par les bailleurs du secteur social sur leurs locataires, les charges relatives aux dépenses du personnel chargé du nettoiement des parties communes et de l'enlèvement des déchets.
