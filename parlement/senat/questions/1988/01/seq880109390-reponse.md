@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880109390
+
+- Question : [SEQ880109390](seq880109390.md) — Situation des masseurs-kinésithérapeutes
+
+## Réponse
+
+*Sécurité sociale, JO du 1988-05-05, page 624*
+
+Réponse. -Une proposition commune de revalorisation tarifaire de la lettre clé Amm qui rémunère l'activité des masseurs-kinésithérapeutes négociée entre, d'une part, les caisses nationales d'assurance maladie et, d'autre part, les deux organisations nationales syndicales représentatives des masseurs-kinésithérapeutes a été transmise aux pouvoirs publics. Dans la perspective de la signature prochaine de la convention nationale, le Gouvernement a décidé d'approuver la revalorisation proposée. Ainsi, la valeur de la lettre clé Amm a été fixée à 11,55 francs à compter du 9 mars 1988. L'arrêté du 30 juillet 1987 publié au Journal officiel du 9 août 1987 a modifié l'arrêté du 28 janvier 1986 relatif à la commission permanente de la nomenclature générale des actes professionnels. Il appartient à cette commission, qui peut être saisie, notamment, par les organisations professionnelles les plus représentatives, de faire des propositions au ministre chargé de la sécurité sociale sur les actualisations de la nomenclature qui lui apparaîtront souhaitables. La nouvelle commission, dont la séance inaugurale pour les professions paramédicales s'est tenue le 13 janvier 1988, se réunit sur convocation de son président suivant un calendrier qu'il détermine. Au cours de cette séance, les organisations professionnelles représentatives ont, à la demande du président de la commission, indiqué les aménagements prioritaires à apporter à la nomenclature. Dès que les études techniques nécessaires auront été conduites suivant la procédure prévue par l'arrêté instituant la commission, celle-ci se trouvera en mesure de formuler les propositions qu'elle est chargée de soumettre au ministre.
