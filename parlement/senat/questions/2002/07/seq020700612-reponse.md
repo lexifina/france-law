@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700612
+
+- Question : [SEQ020700612](seq020700612.md) — Compétences des maires pour les mises en fourrière
+
+## Réponse
+
+*Intérieur, JO du 2002-12-05, page 2982*
+
+Comme le fait observer l'honorable parlementaire, le maire a la qualité d'officier de police judiciaire en application de l'article 16 du code de procédure pénale. Par ailleurs, l'article R. 325-15, 1er alinéa, du code de la route précise que le maire, ou, à Paris, le préfet de police, peut prescrire la mise en fourrière d'un véhicule en cas d'infraction aux règlements édictés pour la sauvegarde de l'esthétique des sites et des paysages classés. Cette limitation apportée par la voie réglementaire au pouvoir de prescription du maire dans le domaine de la mise en fourrière des véhicules découle de dispositions légales, les articles L. 325-3 et L. 325-11 du code de la route issus de la loi n° 70-1301 du 31 décembre 1970 relative à la mise en fourrière, à l'aliénation et à la destruction des véhicules terrestres : ces dispositions ayant prévu qu'un décret en Conseil d'Etat détermine les conditions d'application de la loi précitée, le législateur a permis ainsi au pouvoir réglementaire de limiter la compétence du maire en tant que prescripteur de mise en fourrière, ainsi qu'il vient d'être rappelé. Il est à signaler toutefois que l'article R. 325-15 du code de la route ne fait aucunement obstacle à l'exercice par le maire des pouvoirs qu'il peut détenir en qualité d'autorité de fourrière, lorsqu'il a décidé d'instituer et de faire fonctionner une fourrière communale en application de l'article R. 325-20 du code de la route. Dans le cadre du projet de loi pour la sécurité intérieure, il est prévu d'attribuer aux chefs des services de police municipale territorialement compétents le pouvoir de prescrire la mise en fourrière d'un véhicule.
