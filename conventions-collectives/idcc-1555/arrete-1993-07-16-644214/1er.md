@@ -1,0 +1,3 @@
+# Article 1er
+
+Sont rendues obligatoires, pour tous les employeurs et tous les salariés compris dans le champ d'application de la convention collective nationale de la fabrication et commerce des produits à usage pharmaceutique, parapharmaceutique et vétérinaire du 1er juin 1989, à l'exclusion des entreprises de répartition pharmaceutique dont la fonction est définie par l'article R. 5106 du code de la santé publique, les dispositions de l'accord Salaires du 17 mars 1993 (un barème annexé) conclu dans le cadre de la convention collective susvisée, sous réserve de l'application des dispositions réglementaires portant fixation du salaire minimum de croissance.
