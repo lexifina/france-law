@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508477
+
+- Question : [SEQ980508477](seq980508477.md) — Organisation d'événements culturels : plus grande coopération des organisateurs intervenant dans un même domaine
+
+## Réponse
+
+*Culture, JO du 1998-09-17, page 2983*
+
+Réponse. - Dans le domaine de la diffusion du spectacle vivant, spécialement en ce qui concerne les festivals, l'Etat soutient, autant qu'il le peut, les initiatives visant à regrouper les responsables afin de leur permettre de coordonner leur action et de confronter éventuellement leurs difficultés. Dans plusieurs disciplines ou esthétiques artistiques, les festivals jouent un rôle majeur de diffusion. Tel est notamment le cas du jazz. C'est pourquoi l'Etat apporte, par exemple, son aide à l'association des festivals innovants de jazz et musiques actuelles (AFIJMA). Au plan local, les directions régionales des affaires culturelles favorisent également, en partenariat avec les départements, les contacts entre les promoteurs d'événements, notamment à travers les associations départementales de développement musical (ADDM) qui, dans certains cas, initient aussi des actions de formation. En ce sens, l'Etat ne peut donc qu'approuver la recommandation du Conseil économique et social qui souhaite une meilleure coordination et donc une meilleure efficacité dans l'organisation de ces manifestations. Il convient de souligner toutefois que ces activités d'organisation d'événements constituent, la plupart du temps, des initiatives culturelles autonomes, souvent conduites par des responsables à forte personnalité et soutenues par des collectivités locales attachées à un projet spécifique. Le souci de rationalisation de l'économie de ce secteur, en permettant par exemple, par des coproductions systématiques, de réduire le coût des événements, doit donc s'exprimer dans des conditions telles qu'il ménage la liberté des organisateurs, des partenaires et des artistes.
