@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000626432
+
+- Question : [SEQ000626432](seq000626432.md) — Pérennité du programme Trigat moyenne portée
+
+## Réponse
+
+*Défense, JO du 2000-10-12, page 3483*
+
+Réponse. - Le système d'arme à bases missiles antichars de troisième génération de moyenne portée Trigat, appelé à succéder à celui constitué par des missiles Milan, a été développé dans le cadre d'une coopération européenne entre la France, le Royaume-Uni, l'Allemagne, la Belgique et les Pays-Bas. Le développement de ce programme s'est achevé par une évaluation technico-opérationnelle suivie de la qualification du système principal en août 1999. Le lancement de la production a été préparé, mais le marché négocié et signé par la société Aérospatiale Matra Missiles en août 1999 est resté bloqué dans l'attente de la signature par la Belgique et par les Pays-Bas de l'accord intergouvernemental correspondant. A la fin du mois de juillet dernier, alors que la Belgique venait de confirmer officiellement sa participation, le Royaume-Uni a décidé de se retirer du programme en expliquant que les retards pris dans la signature de cet accord conduisaient à des délais et des incertitudes inacceptables en regard de ses propres contraintes opérationnelles. Les Pays-Bas ont à leur tour annoncé début septembre qu'ils ne participeraient pas à la phase d'industrialisation et de production. Le retrait du Royaume-Uni et des Pays-Bas, qui représentaient à eux deux un peu plus de la moitié des quantités à produire, ne permet plus de poursuivre le programme dans les mêmes conditions. Aussi, la France étudie-t-elle, en concertation avec les partenaires du programme et les industriels concernés, les différentes alternatives. Elles devront permettre de satisfaire le besoin des armées dans le respect des moyens budgétaires du ministère.
