@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870305085
+
+- Question : [SEQ870305085](seq870305085.md) — Budget du fonds d'aide à la commande publique
+
+## Réponse
+
+*Culture, JO du 1987-05-21, page 806*
+
+Réponse. -Les sommes inscrites au budget du ministère de la culture et de la communication pour les commandes artistiques et pour l'achat d'oeuvres d'art, dont les décisions d'utilisation relèvent du Centre national des arts plastiques, s'élèvent pour 1987 à 46 453 000 francs. Ce même montant de crédit figurait au budget initial de 1986 avant intervention du plan de redressement de nos finances publiques décidé en cours d'année, lequel avait ramené la dotation disponible à 41 713 000 francs. Cette année, la part du crédit ouverte pour la seule commande publique s'élève à 26 500 000 francs. Plus que dans un passé récent, les crédits disponibles seront consacrés au développement d'une politique de la commande publique dans les régions, associant à la fois les initiatives et les efforts des collectivités territoriales et du Centre national des arts plastiques et mettant en oeuvre un haut niveau de création et de qualité des projets. Cette nouvelle dimension de la commande publique devrait progressivement, au travers notamment de la conjonction de moyens nationaux et locaux, associés chaque fois que possible à l'action du mécénat, donner une nouvelle impulsion à cette politique. Par ailleurs devrait s'affirmer progressivement une action tournée vers des commandes consacrées à l'objet d'art en général, parallèlement à la poursuite de l'action tournée vers la sculpture traditionnelle ou monumentale. Enfin, le Centre national des arts plastiques s'efforcera de promouvoir une diversification des thèmes traités par la commande publique, ceux-ci devant notamment inclure des célébrations importantes telles que le bicentenaire de la révolution ou de la déclaration des Droits de l'homme et du citoyen de 1789.
