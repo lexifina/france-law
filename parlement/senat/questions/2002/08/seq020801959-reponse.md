@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020801959
+
+- Question : [SEQ020801959](seq020801959.md) — Systèmes tarifaires des sociétés de téléphone mobile
+
+## Réponse
+
+*Économie, JO du 2003-06-19, page 2007*
+
+L'honorable parlementaire attire l'attention du ministre de l'économie, des finances et de l'industrie sur la complexité des modalités de facturation des communications téléphoniques passées à partir des terminaux mobiles, et notamment sur la difficulté pour le consommateur d'opérer une comparaison de prix entre les opérateurs. A compter du 1er septembre 2003, sur leurs factures, tous les opérateurs de téléphonie, qu'il s'agisse d'opérateurs de téléphonie fixe ou mobile, auront l'obligation d'indiquer le temps réellement consommé et le temps facturé s'il est différent, de manière à ce que leurs clients soient informés du coût réel de leurs communications. Il y a lieu de noter que les trois principaux opérateurs mobiles proposent d'ailleurs actuellement des forfaits décomptés à la seconde, dès la première seconde, moyennant un supplément de prix pour l'abonné. Cette amélioration de la transparence tarifaire constitue un très net progrès en faveur de l'information du consommateur et de la simplification des tarifs. Toute proposition consistant à imposer des obligations particulières aux opérateurs, au-delà des obligations de droit commun prévues par le code de la consommation, et en restriction du principe de liberté contractuelle, requiert au préalable, une réflexion approfondie, pour appréhender sa faisabilité technique et son incidence sur les opérateurs et les consommateurs. C'est la raison pour laquelle les pouvoirs publics privilégient une démarche incitative auprès des opérateurs de télécommunications en encourageant leur dialogue avec les associations de consommateurs pour favoriser l'émergence d'offres commerciales qui répondent mieux aux attentes des consommateurs, notamment sous l'angle de la lisibilité tarifaire.
