@@ -28,7 +28,7 @@ Lorsque le taux le moins élevé est égal ou supérieur à 90 p. 100 du taux le
 
 b. Lorsque des taux de taxe professionnelle différents du taux du groupement sont appliqués dans les communes déjà membres du groupement, l'écart de taux peut être réduit, chaque année, par parts égales, en proportion du nombre d'années restant à courir jusqu'à l'application d'un taux de taxe professionnelle unique dans le groupement ; l'application de cette disposition ne peut toutefois avoir pour effet de supprimer cet écart dans un délai plus court que celui résultant des dispositions du a.
 
-II. – Pour l'application des dispositions du I, le taux de taxe professionnelle de la commune doit, lorsque celle-ci appartient également à une communauté urbaine, à un district à fiscalité propre ou à une communauté de communes, être majoré du taux de taxe professionnelle voté par ces groupements l'année au cours de laquelle le rattachement est décidé.
+II. – Pour l'application des dispositions du I, le taux de taxe professionnelle de la commune doit, lorsque celle-ci appartient également à une communauté urbaine, à un district, ou à une communauté de communes, être majoré du taux de taxe professionnelle voté par ces groupements l'année au cours de laquelle le rattachement est décidé.
 
 III. – Les dispositions des I et II sont également applicables dans les communes ou parties de communes qui sont incorporées dans une zone d'activités économiques où il est fait application des dispositions du II de l'article 1609 quinquies C.
 
