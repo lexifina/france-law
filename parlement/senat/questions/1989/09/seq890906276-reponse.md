@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890906276
+
+- Question : [SEQ890906276](seq890906276.md) — Légalité de l'exercice de la profession de denturologue et statut des prothésistes dentaires
+
+## Réponse
+
+*Solidarité, JO du 1989-12-28, page 2195*
+
+Réponse. - Le ministre de la solidarité, de la santé et de la protection sociale précise que l'article L. 373 du code de la santé publique définit l'art dentaire comme comportant " le diagnostic et le traitement des maladies de la bouche, des dents et des maxillaires, congénitales ou acquises, réelles ou supposées " et dispose " qu'exerce illégalement l'art dentaire toute personne qui prend part habituellement ou par direction suivie, même en présence d'un praticien, à la pratique de l'art dentaire par consultation, acte personnel ou tous autres procédés, quels qu'ils soient, notamment prothétiques, sans être titulaires d'un diplôme, certificat ou autre titre mentionné à l'article L. 356-2 et exigé pour l'exercice de la profession de médecin ou de chirurgien-dentiste ". Une jurisprudence unanime considère que les prises d'empreinte, les essais, la pose et l'adaptation des prothèses, autrement dit les actes directement effectués sur le patient, relèvent de l'exercice de cet art. Seule la fabrication des dispositifs prothétiques échappe à ce monopole. Elle constitue l'objet de la profession de prothésiste dentaire exercée sous forme artisanale ou salariée. Depuis quelques années, un nombre limité de prothésistes entend étendre ses activités et propose aux patients la pose directe de dispositifs prothétiques. Il en est ainsi des denturologues, qui, de ce fait, exercent illégalement l'art dentaire. Il n'entre pas dans les intentions du Gouvernement d'autoriser une telle pratique, les actes prothétiques en cause nécessitant une formation médicale de haut niveau.
