@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960314371
+
+- Question : [SEQ960314371](seq960314371.md) — Propriétaires bailleurs exerçant la fonction de maire et subvention pour l'amélioration de l'habitat
+
+## Réponse
+
+*Fonction publique, JO du 1996-04-25, page 1020*
+
+Réponse. - L'acte d'ingérence, désormais appelé " prise illégale d'intérêts ", a de tout temps été réprimé afin d'éviter que les personnes investies de prérogatives de puissance publique n'utilisent les pouvoirs qu'elles détiennent à des fins personnelles. Ainsi l'article 432-12 du code pénal interdit aux élus de prendre un intérêt quelconque dans une affaire dont ils assurent, au moment de l'acte, l'administration ou la surveillance. Pour sa part le maire est concerné pour toutes les affaires de la commune dans la mesure où, conformément à l'article L. 2122-18 du code général des collectivités territoriales (ancien article L. 122-11 du code des communes), il " est seul chargé de l'administration ". Il lui appartient en conséquence d'opérer un choix entre l'exercice de son mandat et la faculté, à titre personnel, de contracter avec la collectivité. Au cas d'espèce, l'octroi de la subvention complémentaire de 5 p. 100 dont peuvent bénéficier les propriétaires bailleurs dans le cadre d'opérations programmées d'amélioration de l'habitat, financée par moitié par la commune et le conseil général, résulte d'une instruction du dossier par la commune. Celle-ci dispose en la matière du pouvoir de décision, qui conditionne en outre la décision du conseil général de verser au propriétaire sa part de la subvention. Dans ces conditions et au regard de ses attributions particulières au sein de la commune, en vertu notamment de l'article L. 2122-18 précité, le maire ne peut bénéficier lui-même de ladite subvention communale sans s'exposer au délit de prise illégale d'intérêts.
