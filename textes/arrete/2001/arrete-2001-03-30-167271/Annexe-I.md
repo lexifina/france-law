@@ -1,43 +1,55 @@
-# Article Annexe
+# Article Annexe I
 
-Les montants de cette annexe s'appliquent à la valeur de remplacement telle que définie à l'article 1er.
+L'Etat participe aux frais directement liés au renouvellement du cheptel dans les conditions suivantes :
 
-Les montants plafonnés indiqués dans cette annexe ne peuvent en aucun cas être dépassés, au titre du présent arrêté.
+A. - Animaux de l'espèce bovine.
 
-Pour les espèces caprine et ovine, les valeurs de remplacement qui intègrent les pertes de production laitière doivent être modulées en fonction de la durée séparant la date d'abattage de la fin habituelle de la campagne de production laitière.
+1. Frais sanitaires d'introduction :
 
-1. Grille applicable aux animaux de l'espèce bovine.
+- frais sanitaires liés à l'introduction des animaux réintroduits, dans la limite du nombre d'animaux à éliminer et présents à la date de l'expertise.
 
-Veaux de moins de 1 mois : 115, 173.
+2. Frais d'approche et de transport :
 
-Veaux à l'engrais de 1 à 6 mois : 500, 750.
+- participation forfaitaire de 75 euros par animal réintroduit, dans la limite du nombre d'animaux présents à la date de l'expertise.
 
-Broutards de race allaitante de moins de 12 mois : 600, 900.
+3. Frais de désinfection des bâtiments et équipements d'élevage :
 
-Jeunes bovins destinés à l'engraissement de 6 à 24 mois : 650, 975.
+75 % du coût de la désinfection effectuée par une entreprise agréée.
 
-Femelles d'élevage de 1 à 24 mois : 750, 1 125.
+4. Les besoins supplémentaires en repeuplement :
 
-Femelles de plus de 24 mois : 1 400, 2 100.
+15 % de la valeur marchande objective des femelles reproductrices de plus de 24 mois présentes à la date de l'expertise.
 
-Taureaux reproducteurs de plus de 24 mois : 1 550, 2 325.
+5. Le déficit momentané de production résultant de l'abattage des animaux :
 
-2. Grille applicable aux animaux de l'espèce ovine.
+- pour les élevages laitiers, cette indemnité est basée sur la production commercialisée sur la période de l'année précédente correspondant aux trois mois suivant la date de l'expertise, au prix de vente moyen réalisé sur cette période, diminué du coût des concentrés alimentaires ;
 
-Agneaux de boucherie : 40, 80.
+- pour les élevages allaitants de production de viande, ce déficit sera évalué par différence entre la valeur bouchère attendue au terme de l'engraissement des animaux entretenus pour être abattus pour la boucherie dans un délai maximum d'un an et leur valeur marchande objective à la date de l'expertise, après déduction du coût de leur alimentation.
 
-Agnelles et brebis allaitantes : 115, 145.
+B. - Animaux des espèces ovine et caprine.
 
-Agnelles et brebis laitières : 195, 245.
+1. Frais sanitaires d'introduction :
 
-Béliers reproducteurs : 150, 200.
+- frais sanitaires liés à l'introduction des animaux réintroduits, dans la limite du nombre d'animaux à éliminer et présents à la date de l'expertise ;
 
-3. Grille applicable aux animaux de l'espèce caprine.
+- en ce qui concerne la tremblante ovine, les frais de génotypage concernant le renouvellement des animaux sensibles et très sensibles abattus dans un délai d'un mois après la déclaration du foyer sont pris en charge dans les conditions définies par arrêté conjoint des ministres chargés de l'agriculture et du budget.
 
-Chevreaux : 8, 15.
+2. Frais d'approche et de transport :
 
-Chevrettes destinées à la reproduction : 160, 220.
+- participation forfaitaire de 5 euros par animal réintroduit, dans la limite du nombre d'animaux présents à la date de l'expertise.
 
-Chèvres : 160, 600 (transformation à la ferme), 540 (lait collecté).
+3. Frais de désinfection des bâtiments et équipements d'élevage :
 
-Boucs : 200, 250.
+75 % du coût de la désinfection effectuée par une entreprise agréée.
+
+4. Besoins supplémentaires en repeuplement :
+
+15 % de la valeur marchande objective des femelles reproductrices de plus de 6 mois à éliminer, présentes à la date de l'expertise.
+
+5. Déficit momentané de production résultant de l'abattage des animaux :
+
+- pour les élevages laitiers, cette indemnité est basée sur la production commercialisée sur la période de l'année précédente correspondant aux six mois suivant la date de l'expertise, au prix de vente moyen réalisé sur cette période, diminué du coût des concentrés alimentaires ;
+
+- pour les élevages allaitants de production de viande, ce déficit sera évalué par différence entre la valeur bouchère attendue au terme de l'engraissement des animaux entretenus pour être abattus pour la boucherie dans un délai maximum de six mois et leur valeur marchande objective à la date de l'expertise, après déduction du coût de leur alimentation.
+
+En ce qui concerne la tremblante ovine, l'Etat ne prend pas en charge les frais correspondant aux points 1, 2, 4 et 5 ci-dessus pour le renouvellement des animaux sensibles bénéficiant d'un délai supplémentaire d'abattage à titre dérogatoire dans les conditions définies par arrêté conjoint des ministres chargés de l'agriculture et du budget.
