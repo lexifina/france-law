@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011035592
+
+- Question : [SEQ011035592](seq011035592.md) — Sécurité maritime
+
+## Réponse
+
+*Équipement, JO du 2002-01-24, page 231*
+
+La question de l'obligation de mise à bord de tous les navires de " boîtes noires " techniquement dénommées " enregistreurs de données de voyage " a été débattue à la fois au sein de l'Organisation maritime internationale (OMI) et au sein de l'Union européenne. Les amendements apportés en décembre 2000 à la réglementation maritime internationale, après la refonte du chapitre V de la convention internationale Solas, prévoient, pour les navires à passagers et les navires rouliers à passagers, l'obligation d'être équipés de " boîtes noires " à partir du 1er juillet 2002 pour les navires neufs, et au plus tard le 1er juillet 2004 pour les navires en activité. Cette obligation sera étendue à tous les autres types de navires d'une jauge brute égale ou supérieure à 3 000 UMS (unified measurement system) construits à compter du 1er juillet 2002. L'extension de cette mesure à tous les autres types de navires construits avant cette date, réclamée et votée par le Parlement européen, a été reprise, pour l'essentiel, dans l'approche commune adoptée lors du Conseil des transports de juin 2001, en vue de la poursuite des négociations à l'OMI sur ce thème. Le dispositif proposé prévoit un calendrier d'installation de boîtes noires, à bord des navires construits avant le 1er juillet 2002, au plus tard le 1er janvier 2008. Dans le projet commun de directive sur le contrôle par l'Etat du port, approuvé le 12 novembre dernier par le comité de conciliation et voté par le Parlement européen le 13 décembre, le Conseil et le Parlement européens ont entériné la poursuite des efforts dans le cadre de l'OMI, pour aboutir à une décision internationale et, à défaut, l'application du calendrier défini dans l'approche commune de juin dernier.
