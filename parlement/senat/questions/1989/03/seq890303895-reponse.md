@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890303895
+
+- Question : [SEQ890303895](seq890303895.md) — Liste des maladies à déclaration obligatoire
+
+## Réponse
+
+*Solidarité, JO du 1989-08-24, page 1361*
+
+Réponse. - La déclaration obligatoire de maladie constitue l'une des modalités de la surveillance épidémiologique et n'a de sens que si elle est scrupuleusement respectée par les médecins praticiens. Pendant deux ans, un groupe de travail réunissant d'éminents spécialistes de santé publique commis par le ministère chargé de la santé, s'est penché sur l'opportunité du maintien du système de déclaration obligatoire pour un grand nombre de maladies infectieuses et sur l'étude des moyens qui permettraient de rendre ce système plus effectif. Les conclusions de ce groupe de travail ont abouti à ne retenir que 18 maladies à déclaration obligatoire aux termes du décret n° 86-770 du 10 juin 1986, modifié par le décret n° 87-1012 du 11 décembre 1987, outre les quatre maladies vénériennes visées à l'article L. 254 du code de la santé publique. Pour ce qui la concerne, la déclaration obligatoire de la lèpre était très peu pratiquée par les médecins la diagnostiquant et même contestée dans son principe par bien des médecins du périmètre Antilles-Guyane en raison de l'exclusion qu'impliquait en fait cette déclaration, alors que le caractère contagieux de cette maladie est des plus réduits. Dans la surveillance de la lèpre, l'important réside dans la vigilance des systèmes locaux d'observation, la participation active des médecins concernés et la nécessité d'assurer une recherche bactériologique rigoureuse. Si ces conditions sont correctement remplies, alors est atteint l'objectif de santé publique auquel tous les responsables sanitaires aspirent, sans qu'il soit nécessaire d'exiger la déclaration obligatoire de cette maladie.
