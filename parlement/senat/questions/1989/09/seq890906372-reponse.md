@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890906372
+
+- Question : [SEQ890906372](seq890906372.md) — Incidences de la décentralisation à l'égard de la signalisation routière
+
+## Réponse
+
+*Équipement, JO du 1990-02-08, page 279*
+
+Réponse. - La signalisation routière est fixée, par arrêté conjoint, conformément à l'article R. 44 du code de la route, par le ministre des transports et le ministre de l'intérieur. La nature des signaux, leurs conditions d'implantation ainsi que les règles se rapportant à l'établissement de la signalisation routière, quant à elles, sont fixées, conformément à l'article 1er de l'arrêté interministériel modifié du 24 novembre 1967, dans des instructions interministérielles prises par le ministre des transports et le ministre de l'intérieur. Les prescriptions de ces instructions sont applicables à toutes les catégories de routes ouvertes à la circulation publique quelle que soit l'autorité administrative chargée de leur gestion. Si, comme le prescrit l'article L. 113-1 du code de la voirie routière, le droit de placer en vue du public par tous les moyens appropriés des indications ou signaux concernant, à un titre quelconque, la circulation n'appartient qu'aux autorités nationales, départementales ou communales chargées des services de la voirie, le pouvoir de celles-ci s'exerce dans le strict respect des dispositions du code de la route, notamment de son article R. 44. En ce qui concerne la signalisation de direction, les mentions vertes (signalisation à longue distance), font l'objet d'un schéma directeur approuvé au niveau national, et les mentions blanches dont font partie les mentions touristiques, font l'objet d'un schéma directeur départemental approuvé par le conseil général. L'intégration des mentions touristiques à ce schéma directeur départemental doit se faire dans le cadre d'une concertation avec les organismes de tourisme.
