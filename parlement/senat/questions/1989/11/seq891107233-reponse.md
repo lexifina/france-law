@@ -1,0 +1,9 @@
+# Réponse à la question SEQ891107233
+
+- Question : [SEQ891107233](seq891107233.md) — Situation financière des professeurs expatriés
+
+## Réponse
+
+*Affaires étrangères, JO du 1990-03-15, page 562*
+
+Réponse. - Il n'entre nullement dans les intentions du Gouvernement de supprimer les indemnités de résidence des professeurs exerçant dans nos établissements scolaires à l'étranger. Le projet de rénovation de notre réseau éducatif prévoit en effet : a) Pour les professeurs détachés " au barème ", désormais dénommés " personnels expatriés ", et s'ajoutant au traitement brut qui correspond à l'indice hiérarchique qu'ils détiennent dans leur corps d'origine, le versement d'une indemnité mensuelle d'expatriation dont le montant est fixé par pays et par groupe ; plus, le cas échéant, des majorations familiales pour enfants à charge, attribuées au lieu et place des avantages familiaux accordés aux personnels en service en France. Les modalités de calcul de cette indemnité d'expatriation ont été discutées avec les organisations représentatives. Les principales d'entre elles portent une appréciation positive sur le résultat de ces concertations. b) Pour les personnels titulaires recrutés localement, dits désormais " personnels résidents ", le versement direct et en francs par l'Etat français de leur traitement indiciaire de grade, incluant l'indemnité de résidence et le supplément familial de traitement de Paris. Une indemnité de cherté de vie en monnaie locale pourra leur être en outre servie par l'établissement. Le nouveau cadre prendra également en compte les récentes mesures de revalorisation adoptées en France en faveur des établissements scolaires par le ministère de l'éducation nationale, et notamment, pour tous les personnels titulaires expatriés ou résidents, l'indemnité de suivi et d'orientation instituée par le décret du 6 juillet 1989.
