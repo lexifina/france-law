@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040110455
+
+- Question : [SEQ040110455](seq040110455.md) — Evolution de la justice consulaire
+
+## Réponse
+
+*Justice, JO du 2004-04-01, page 823*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que la réforme de la carte des tribunaux de commerce, qu'il envisage de reprendre, a pour objectif essentiel la qualité de la justice à laquelle nos concitoyens sont attachés. Les juridictions qui ont d'ores et déjà été supprimées à compter du 1er janvier 2000 l'ont été en tenant compte des réalités locales, du souci d'aménagement du territoire mais également d'autres impératifs tels que le renforcement du parquet. Ces suppressions n'ont engendré aucun dysfonctionnement et ont permis, au contraire, de rationaliser la carte judiciaire et l'intervention du juge. Aujourd'hui, si la majorité des juridictions consulaires correspond à un réel besoin local, il n'en demeure pas moins que quelques situations ne sont pas satisfaisantes. La spécificité et la technicité de la matière que traitent les tribunaux de commerce, les exigences de la vie des entreprises fondées sur des données économiques complexes nécessitent une compétence spécifique et une pratique suffisante. Elles exigent par là même un ressort suffisamment étendu pour être pertinent. Un trop faible volume d'affaires risque d'être un handicap à la qualité de la justice rendue. Des anomalies subsistent, telles que des juridictions consulaires qui ont cessé de fonctionner, faute de candidats, ou qui n'ont jamais eu l'occasion de se réunir. Ainsi, il est souhaitable de poursuivre la rationalisation en cours de l'implantation des tribunaux de commerce sur le territoire, et ce avec pragmatisme et en concertation étroite avec les collectivités locales et les autres acteurs, aux niveaux national et local.
