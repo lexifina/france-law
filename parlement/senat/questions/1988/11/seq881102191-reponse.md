@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881102191
+
+- Question : [SEQ881102191](seq881102191.md) — Situation des coopératives d'utilisation de matériel agricole
+
+## Réponse
+
+*Économie, JO du 1989-06-08, page 873*
+
+Réponse. - Le Gouvernement considère que les coopératives d'utilisation de matériel agricole (C.U.M.A.) ont un rôle très important à jouer dans la vie rurale du pays ; c'est pourquoi elles ont bénéficié d'une enveloppe de prêts bonifiés de 450 MF en 1988, abondée de 45 MF en cours d'année. L'enveloppe globale pour 1988 est donc de 495 MF, soit une augmentation de 15 p. 100 par rapport à 1987. Elle a permis de financer une part en forte croissance des investissements de ces organismes. Il faut cependant rappeler que l'esprit de la procédure commande de réserver le bénéfice des prêts bonifiés aux C.U.M.A. qui se créent ou abordent une phase importante de leur développement, et ne doit pas couvrir l'ensemble des crédits d'investissement. C'est en respectant cette orientation que l'enveloppe 1989 des prêts bonifiés pourra être dimensionnée afin de satisfaire au mieux les besoins des C.U.M.A. qui s'inscrivent dans le cadre de la procédure d'octroi des prêts bonifiés et de résorber les retards constatés cette année sur la distribution de prêts spéciaux à ces coopératives. Dans l'attente de la fixation de l'enveloppe 1989, et afin d'assurer la continuité dans la distribution du crédit, deux contingents de 150 MF ont été mis à la disposition des caisses régionales du Crédit agricole au titre des 1er et 2e trimestres 1989. Ces contingents ont été déterminés en retenant non pas, comme pour les autres enveloppes, les montants du quota de base trimestriel de 1988, mais des montants majorés. Cet effort exceptionnel est consenti afin de respecter l'engagement pris envers la fédération des C.U.M.A. et il pourra être poursuivi si les règles d'attribution des prêts sont clarifiées par le groupe de travail constitué avec leurs représentants.
