@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890303806
+
+- Question : [SEQ890303806](seq890303806.md) — Demandes d'ouverture de classes par les maisons rurales d'éducation et d'orientation des Landes
+
+## Réponse
+
+*Agriculture, JO du 1989-06-01, page 836*
+
+Réponse. - Le ministre de l'agriculture et de la forêt fait savoir à l'honorable parlementaire qu'il n'a jamais été dans les attributions du Conseil national de l'enseignement agricole de choisir parmi la totalité des demandes de modifications de structures pédagogiques émanant des établissements d'enseignement agricole. Il précise que c'est à l'échelon central qu'il revient d'établir des listes de propositions à soumettre pour avis à ce conseil sur la base, d'une part, des priorités définies par les directeurs régionaux de l'agriculture et de la forêt après consultation des organisations représentant les parties concernées au plan régional et, d'autre part, des moyens disponibles ; ces moyens étant limités, il a fallu faire des choix. Le ministre fait observer que, malgré la baisse enregistrée dans les effectifs accueillis par les établissements affiliés à l'Union nationale des maisons familiales rurales d'éducation et d'orientation et le nombre parfois extrêmement faible de jeunes dans certaines sections, il a demandé à ses services de proposer au C.N.E.A., réuni le 8 février 1989, d'ouvrir dix-huit formations nouvelles dans ces établissements. Ces formations seront mises effectivement en place à la prochaine rentrée. Enfin, le ministre tient à rappeler son attachement à la concertation, et informe l'honorable parlementaire que le C.N.E.A. a approuvé sans opposition, le 5 avril 1989, le projet de décret instituant les comités régionaux de l'enseignement agricole. Ces instances, indispensables à la concertation, seront en place dans l'année scolaire prochaine et seront consultées pour la préparation des modifications des structures pédagogiques de l'année suivante.
