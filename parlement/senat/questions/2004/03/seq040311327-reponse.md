@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040311327
+
+- Question : [SEQ040311327](seq040311327.md) — Affectation des fonds européens notamment ceux des services essentiels à l'économie rurale
+
+## Réponse
+
+*Agriculture, JO du 2004-08-26, page 1921*
+
+Les coopératives d'utilisation du matériel agricole (CUMA) de la région Midi-Pyrénées bénéficient de mesures de soutien pour l'acquisition de certaines catégories de matériels, au titre du document unique de programmation (DOCUP) objectif 2 soutenu par l'Union européenne (mesure " n "). Les nombreuses demandes enregistrées témoignent du dynamisme du réseau des CUMA en région Midi-Pyrénées. L'enveloppe réservée à cette mesure a fait l'objet d'un abondement significatif à l'automne 2003, toutefois la demande restant forte face à des moyens limités, le recours à une sélectivité renforcée des dossiers est nécessaire. Le volet du DOCUP financé par le Fonds européen d'orientation et de garantie agricole, section garantie (FEOGA-G), est doté d'une enveloppe qui a été déterminée en 1999 pour l'ensemble de la programmation 2000-2006. Il n'est prévu aucune opération de réallocation des montants attribués aux différentes régions en début de programme. Une démarche auprès de la Commission européenne a été entreprise pour qu'une partie des sous-consommations enregistrées en début de période soit compensée avant la fin du programme. Dans cette hypothèse, les arbitrages financiers placés sous la responsabilité du préfet de région pourront éventuellement conduire à un nouvel abondement de la mesure " n ".
