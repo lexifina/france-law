@@ -8,12 +8,10 @@ Ne peut prétendre à l'application de cette majoration :
 
 - le mensuel acceptant un reclassement à l'aide de son employeur ;
 
-- le mensuel âgé de cinquante-cinq ans et trois mois révolus qui peut bénéficier des allocations de base prévues par le règlement annexé à la convention du 19 novembre 1985 sur le régime d'assurance-chômage, puis prétendre à ces mêmes allocations au titre de l'article 20 de ce règlement ;
+- le mensuel âgé de cinquante-cinq ans et trois mois révolus qui peut bénéficier des allocations de base prévues par le règlement annexé à la convention du 1er janvier 1990 sur le régime d'assurance-chômage, puis prétendre à ces mêmes allocations au titre de l'article 20 de ce règlement ;
 
 - le mensuel qui a la possibilité de bénéficier d'une préretraite (F.N.E., C.G.P.S., accord d'entreprise, etc.) ;
 
-- le mensuel qui a au moins 37,5 ans d'assurance au sens de l'ordonnance n° 82-270 du 26 mars 1982 sur l'abaissement de l'âge de la retraite, ou qui peut faire liquider sans abattement d'âge une pension de retraite.
+- le mensuel qui a au moins 37,5 ans d'assurance au sens de l'article L.351-1 du code de la sécurité sociale , ou qui peut faire liquider sans abattement d'âge une pension de retraite.
 
-Les dispositions du présent article seront applicables à l'indemnité conventionnelle de licenciement due à un mensuel âgé d'au moins cinquante ans, ayant accepté une convention de conversion lors d'un licenciement collectif pour motif économique et qui ne peut pas bénéficier des allocations de base prévues par le règlemnt annexé à la convention du 6 janvier 1987 relative à l'assurance-chômage des anciens bénéficiaires de l'assurance conversion, ni prétendre à ces mêmes allocations au titre de l'article 20 de ce règlement.
-
-*NB : (1) Pour la date d'application de l'article 33 bis créé par l'avenant du 1er juillet 1987, voir l'article 14 dudit avenant.*
+Les dispositions du présent article seront applicables à l'indemnité conventionnelle de licenciement due à un mensuel âgé d'au moins cinquante ans, ayant accepté une convention de conversion lors d'un licenciement collectif pour motif économique et qui ne peut pas bénéficier des allocations de base prévues par le règlemnt annexé à la convention du 1er janvier 1990 relative à l'assurance-chômage et par l'avenant n°1 du 6 avril 1990 à l'accord du 7 juillet 1989 relatif aux anciens bénéficiaires de l'assurance conversion, ni prétendre à ces mêmes allocations au titre de l'article 20 de ce règlement.
