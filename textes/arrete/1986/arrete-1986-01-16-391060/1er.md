@@ -40,4 +40,4 @@ Aude... |
 
 100 |
 
-Carcassonne, Castelnaudary, Fleury-d'Aude, Leucate, Limoux, Sigean. |
+Carcassonne, Castelnaudary, Fleury-d'Aude, Leucate, Limoux. |
