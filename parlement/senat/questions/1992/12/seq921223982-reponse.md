@@ -1,0 +1,9 @@
+# Réponse à la question SEQ921223982
+
+- Question : [SEQ921223982](seq921223982.md) — Sanctions des commentaires critiques des décisions de justice
+
+## Réponse
+
+*Justice, JO du 1993-02-04, page 191*
+
+Réponse. - Les rares condamnations prononcées sur le fondement de l'article 226 du code pénal ont été d'une peine en 1988 (de 30 000 francs d'amende), quatre peines en 1989 (dont une d'emprisonnement ferme de trois mois et une d'emprisonnement assortie du sursis), une peine en 1990 (de 5 000 francs d'amende) et aucune peine en 1991. De telles statistiques s'expliquent par le texte même de l'article 226 du code pénal seulement applicable si la critique, au-delà de la décision commentée, est de nature à jeter le discrédit sur l'ensemble de l'autorité judiciaire. La chambre criminelle de la Cour de cassation a considéré en effet, dans un arrêt du 7 mars 1988, que les infractions à l'article 226 ne sont punissables que s'il est porté atteinte à l'intérêt de la justice comme institution fondamentale de l'Etat et non aux magistrats qui concourent à la justice. Le délit de discrédit jeté sur une décision de justice a été maintenu dans le nouveau code pénal en son article 434-22-1. Toutefois, les commentaires techniques, actes, paroles, écrits ou images de toute nature tendant à la réformation, la cassation ou la révision d'une décision échappent désormais expressément à la répression. En tout état de cause, la nécessaire liberté d'expression, constitutionnellement affirmée, s'exerce dans le cadre des textes en vigueur. Ainsi, la loi du 29 juillet 1881 relative à la liberté de la presse punit-elle la diffamation et l'injure envers les fonctionnaires publics, les cours et tribunaux. Le code pénal incrimine l'outrage envers un magistrat. Enfin, déterminé à protéger les magistrats, le garde des sceaux invite régulièrement les parquets compétents à faire engager l'action publique contre les auteurs de telles infractions.
