@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940506171
+
+- Question : [SEQ940506171](seq940506171.md) — Création d'un service régional de police judiciaire à la Réunion
+
+## Réponse
+
+*Intérieur, JO du 1994-06-16, page 1499*
+
+Réponse. - Dans un souci de complémentarité et de meilleure efficacité et afin de tenir compte des situations locales, il a été décidé, en accord avec la chancellerie, de répartir entre les services de la police nationale, les tâches de lutte contre les différentes formes de délinquance ou de criminalité. S'agissant de l'île de la Réunion, en raison, d'une part, du niveau de la délinquance constatée (42,27 crimes et délits pour mille habitants en 1993) comparable à celui enregistré dans le Puy-de-Dôme (41,944) ou l'Aube (42,81), et, d'autre part, des formes qu'elle revêt, la création d'une sûreté départementale à vocation exclusive de police judiciaire au sein de la direction départementale de la sécurité publique a été jugée préférable à celle d'un service régional de police judiciaire. Ce nouveau service, en cours d'installation, comportera à terme une vingtaine de fonctionnaires et disposera notamment d'une unité chargée de la conduite des enquêtes en matière financière. Les deux premiers fonctionnaires issus de la direction centrale de la police judiciaire et spécialisés en matière économique et financière ont d'ores et déjà rejoint leur affectation au sein de cette sûreté départementale. Parallèlement, la direction centrale de la police judiciaire continuera par des actions de formation à transférer son savoir-faire, notamment dans les domaines financiers et de police technique et scientifique. En outre et chaque fois que les nécessités d'une enquête l'exigeront, elle dépêchera une mission de spécialistes à la disposition de l'autorité judiciaire en renfort ou en relais des services locaux, comme elle l'a fait à plusieurs reprises au cours de ces derniers mois.
