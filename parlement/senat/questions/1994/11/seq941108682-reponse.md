@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941108682
+
+- Question : [SEQ941108682](seq941108682.md) — Restructuration des services postaux de la commune de Lamure-sur-Azergues (Rhône)
+
+## Réponse
+
+*Aménagement du territoire, JO du 1995-03-23, page 689*
+
+Réponse. - La Poste n'a nullement décidé de supprimer les établissements postaux de Claveisolles, de Saint-Nizier-d'Azergues ou de Saint-Just-d'Avray sur lesquels l'honorable parlementaire appelle l'attention. D'autre part, le récent rattachement de la distribution postale de ces localités au bureau de Lamure-sur-Azergues n'affecte en rien l'offre de services proposée à la population locale et constitue une mesure d'organisation interne à La Poste, visant seulement à améliorer la qualité du traitement du courrier. En effet, un bureau distributeur est le plus souvent une recette de plein exercice qui en plus de sa fonction de guichet assure une fonction de distribution. La perte de cette fonction de distribution pour les bureaux de poste évoqués ci-dessus n'empêche nullement ceux-ci de continuer à assurer les opérations de guichet auxquelles la clientèle est accoutumée. Par ailleurs, ce souci d'adapter au mieux l'offre de service postal aux besoins réels de la population se trouve confirmé par la mise en place à Saint-Just-d'Avray d'un conseiller financier itinérant qui peut se rendre au domicile de chaque usager qui le souhaite. L'ensemble de ces mesures d'adaptation a été présenté aux élus concernés par le directeur du groupement postal " Rhône-Nord ", qui se tient naturellement à leur disposition pour toute information complémentaire. L'honorable parlementaire peut donc être rassuré sur le souci de La Poste d'agir en concertation avec les élus locaux et les pouvoirs publics, et de respecter les engagements du contrat de plan signé avec l'Etat pour 1995-1997, qui réaffirment la participation de l'entreprise aux politiques d'aménagement du territoire.
