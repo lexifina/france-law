@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970321033
+
+- Question : [SEQ970321033](seq970321033.md) — Dotation supplémentaire de postes d'enseignants dans le département de l'Aude
+
+## Réponse
+
+*Éducation, JO du 1997-05-15, page 1477*
+
+Réponse. - Dans un contexte budgétaire rigoureux, le budget 1997 préserve les moyens nécessaires à la réalisation des objectifs prioritaires de l'éducation nationale, et grâce à une meilleure répartition, respecte les engagements qui ont été pris. Pour le second degré, le budget se traduit par une reconduction des moyens dévolus à l'enseignement, malgré la tendance globale à la diminution des effectifs, amorcée depuis la rentrée 1996. Cette tendance globale traduisant des situations en réalité très contrastées sur l'ensemble du territoire national, les moyens d'enseignement nécessaires à l'accueil d'importants effectifs supplémentaires encore prévus à la rentrée 1997 dans quelques académies ont été financés par redéploiement, des retraits d'emplois étant opérés dans d'autres académies. L'académie de Montpellier connaissant une augmentation de ses effectifs d'élèves du second degré à la rentrée 1997 se voit attribuer 60 emplois et 490 heures supplémentaires soit l'une des plus fortes dotations de la métropole. En tout état de cause, les moyens étant arrêtés globalement par l'administration centrale pour chaque académie, le recteur de l'académie de Montpellier est le mieux à même d'indiquer de quelle façon il a apprécié la situation des établissements de son ressort et plus spécialement ceux du département de l'Aude et quelles conséquences il en a tiré lors des répartitions de moyens. Il convient donc de prendre directement l'attache des services académiques pour obtenir toutes les précisions souhaitées sur les conditions de la préparation de la prochaine rentrée scolaire dans les établissements du département de l'Aude.
