@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000927628
+
+- Question : [SEQ000927628](seq000927628.md) — Enseignement secondaire : initiation aux mécanismes économiques et financiers
+
+## Réponse
+
+*Éducation, JO du 2001-10-04, page 3195*
+
+Même si le programme d'histoire-géographie de la classe de troisième comprend une partie relative à la croissance économique et à l'inégale répartition de la richesse, ce n'est qu'au lycée, à un moment où la maturité des élèves le permet, que sont véritablement abordés les mécanismes économiques et financiers qui régissent les sociétés occidentales. En effet, ces questions sont évoquées auprès de tous les élèves des sections générales, de la seconde à la terminale, dans le cadre d'un enseignement d'éducation civique, juridique et sociale (ECJS) dont le volume annuel est de seize heures, soit l'équivalent d'une demi-heure par semaine. Cet enseignement, qui s'appuie sur des thèmes très larges, permet facilement d'aborder des questions d'actualité. Dès la rentrée 2001, les élèves des classes préparant aux brevets d'études professionnelles et des classes préparant aux baccalauréats professionnels des secteurs des services, de la production, de la restauration et de l'alimentation recevront à leur tour un enseignement d'ECJS. Son extension auprès des élèves de l'enseignement technologique et des classes préparant aux certificats d'aptitude professionnelle est actuellement à l'étude. En outre, les lycéens qui ont choisi l'option de sciences économiques et sociales en classe de seconde générale et technologique, soit près de la moitié des élèves, abordent ces thèmes plus en profondeur. C'est également le cas de ceux qui choisissent de s'orienter en série économique et sociale (SES) dans le cycle terminal. Par exemple, en classe de première, sont étudiés les concepts de monnaie et de marché et, en classe terminale, ceux de libre-échange et de croissance, cette liste n'étant pas exhaustive.
