@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941208909
+
+- Question : [SEQ941208909](seq941208909.md) — Traitement des cérémonies officielles du 11 novembre lors des journaux télévisés
+
+## Réponse
+
+*Anciens combattants, JO du 1995-01-19, page 134*
+
+Réponse. - Le ministre des anciens combattants et victimes de guerre déplore, comme l'honorable parlementaire, certains écarts de langage commis à l'occasion de l'évocation des conflits récents. S'il intervient régulièrement dans les médias, c'est précisément afin que l'image de ceux qui luttèrent pour les libertés de la France et les droits de l'homme soit restituée dignement. Il considère en effet que la conservation et la valorisation de la mémoire historique constituent une priorité essentielle pour assurer la cohésion nationale. C'est ainsi que, cette année, à l'occasion du quatre-vingtième anniversaire de la Première Guerre mondiale au cours de laquelle 1 500 000 soldats français sont morts pour la défense du sol de la patrie, des cérémonies ont été organisées précisément pour le 11 Novembre avec éclat renforcé. En outre, il convient de rappeler que la victoire de la Marne a été commémorée solennellement en particulier à Meaux, à Nanteuil-le-Haudouin, à Mondement, à Vitry-le-François, à Louveciennes, à Paris et à Gagny, tandis qu'un colloque a été réalisé à Reims le 1er octobre. Enfin, le ministère vient de coéditer un ouvrage de photographies de Cartier intitulé " Traces de la Grande Guerre " dont les chaînes de télévision ont rendu compte et qui constitue une remarquable évocation de cette période. Si la célébration du cinquantième anniversaire des débarquements et de la Libération a été jugée prioritaire en 1994 et en 1995, l'héroïsme des soldats français de la Première Guerre mondiale ne manquera pas de continuer à être évoqué largement dans l'avenir.
