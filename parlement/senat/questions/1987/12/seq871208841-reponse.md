@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871208841
+
+- Question : [SEQ871208841](seq871208841.md) — Affiliation des collectivités locales aux Assedic : divergence entre les termes d'une réponse à une question écrite et la loi
+
+## Réponse
+
+*Affaires sociales, JO du 1988-01-21, page 80*
+
+Réponse. -Le stagiaire T.U.C. est, comme le rappelle l'honorable parlementaire, un stagiaire de la formation professionnelle. Si le stage T.U.C., comme tout autre stage de formation professionnelle, est suivi d'une activité professionnelle d'au moins un mois, la période T.U.C. est assimilée en partie à une période d'activité professionnelle et peut permettre une nouvelle ouverture du droit aux allocations d'assurance chômage. En effet, conformément à l'article 6, alinéa 2, du règlement annexé à la convention d'assurance chômage du 19 novembre 1985 (J.O. du 24 janvier 1986), les heures de formation sont assimilées à une période d'activité salariée, dans la limite des deux tiers de la référence de travail recherchée. Dans le cas cité par l'honorable parlementaire la commune devait procéder à l'indemnisation de l'intéressée (art. L. 351-12 du code du travail), qui repose sur le principe de l'auto-assurance. Les employeurs publics ne cotisent pas aux Assedic, mais supportent en contrepartie la charge de l'indemnisation. C'est pour éviter les réelles difficultés relatives à l'indemnisation du chômage dans le secteur public que l'article 65 de la loi n° 87-588 du 30 juillet 1987, portant diverses mesures d'ordre social, modifie l'article L. 351-12 du code du travail et dispose que désormais les collectivités locales ainsi que les établissements publics ont la faculté d'adhérer aux Assedic afin d'assurer par voie de cotisation leurs personnels non titulaires et non statutaires, au taux moyen de 4,58 p. 100 dont 3,58 p. 100 pour la collectivité locale ou l'établissement public et 1 p. 100 pour le salarié.
