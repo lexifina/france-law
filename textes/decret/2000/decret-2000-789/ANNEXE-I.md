@@ -22,7 +22,7 @@ III. - Ministère de l'économie, des finances et de l'industrie
 
 Décret n° 94-1017 du 18 novembre 1994 fixant les dispositions statutaires communes applicables aux corps des secrétaires administratifs des administrations de l'Etat et à certains corps analogues, modifié par les décrets n° 95-49 du 13 janvier 1995 et n° 97-996 du 23 octobre 1997.
 
-Décret n° 98-268 du 3 avril 1998 portant statut particulier du corps des techniciens de l'industrie et des mines.
+Décret n° 98-268 du 3 avril 1998 portant statut particulier du corps des techniciens supérieurs de l'industrie et des mines.
 
 IV. - Ministère de l'équipement, des transports et du logement
 

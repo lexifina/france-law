@@ -10,7 +10,7 @@ CORPS DE FONCTIONNAIRES
 
 I. - Agents contractuels de 1re catégorie (décret n° 75-62 du 28 janvier 1975).
 
-Technicien de l'industrie et des mines.
+Technicien supérieur de l'industrie et des mines.
 
 Technicien de laboratoire.
 
@@ -24,7 +24,7 @@ Programmeur.
 
 Bibliothécaire adjoint.
 
-Technicien de l'industrie et des mines.
+Technicien supérieur de l'industrie et des mines.
 
 Technicien de laboratoire.
 
