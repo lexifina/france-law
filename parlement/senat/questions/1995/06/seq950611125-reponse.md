@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950611125
+
+- Question : [SEQ950611125](seq950611125.md) — Recours à des musiciens étrangers dans les festivals et programmations musicales
+
+## Réponse
+
+*Culture, JO du 1995-08-31, page 1666*
+
+Réponse. - Il convient de confirmer la réponse faite en 1994 à une question similaire. Il arrive, en effet, que des formations symphoniques constituées d'artistes étrangers, venus notamment des pays de l'Europe de l'Est, pratiquent des tarifs notablement moins élevés que les formations françaises. Il faut rappeler, toutefois, que la venue des artistes étrangers n'appartenant pas aux pays de la Communauté économique européenne est subordonnée à une autorisation administrative des services de l'Etat. En outre, l'emploi des artistes étrangers est soumis aux mêmes charges sociales et aux mêmes obligations en matière de législation du travail que les artistes français. A ce propos, un guide des obligations sociales liées à l'organisation de spectacles vivants (festivals, concerts, son et lumière, spectacles historiques, etc.) publié par le ministère alors chargé du travail, de l'emploi et de la formation professionnelle et le ministère chargé de la culture a défini les prescriptions en vigueur au 1er avril 1994. Ce guide précise les différentes marches à suivre pour le cas où les artistes étrangers résident déjà sur le territoire national et pour celui où ils doivent venir en France, à l'occasion de leurs spectacles. Par ces mesures, il s'agit à la fois de prévenir une concurrence déloyale dans un contexte économique difficile et d'empêcher des conditions d'emploi médiocres préjudiciables aux artistes eux-mêmes et, souvent, à la production artistique. Un effort sera fait pour mieux respecter la législation existante et pour sanctionner les organisateurs qui se livreraient à des abus. Des rappels seront faits aux responsables de festivals.
