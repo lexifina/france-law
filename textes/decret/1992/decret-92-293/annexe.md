@@ -1,6 +1,8 @@
-# Article annexe
+# Article Annexe
 
-Fonction exercée pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire
+Fonction exercée pouvant ouvrir droit
+
+au versement d'une nouvelle bonification indiciaire
 
 Gestionnaire utilisateur de la base de données Magistrats, service des T.A. et C.A.A.
 
@@ -30,7 +32,7 @@ Responsable de la gestion des membres du Conseil d'Etat.
 
 travaux documentaires.
 
-Adjoint du chef du bureau Equipement, infrastructure et logistique Responsable du bureau d'aide judiciaire.
+Adjoint du chef du bureau Equipement, inrastructure et logistique. Responsable du bureau d'aide judiciaire.
 
 Responsable du service dactylographique informatisé du contentieux.
 
@@ -45,3 +47,29 @@ Assistant de secrétariat et de greffe à la commission spéciale de cassation d
 Responsable de la préparation informatique des documents de la section du rapport et des études.
 
 Adjoint au responsable du service de reprodiffusion
+
+Responsable des effectifs, des concours et du comité médical.
+
+Assistant du rapporteur général de la section du rapport et des études.
+
+Secrétaire de la commission d'admission des pourvois en cassation.
+
+Secrétaire adjoint des sections administratives.
+
+Aide de bibliothèque.
+
+Assistant d'exploitation au service informatique.
+
+Assistant de secrétariat auprès du responsable du suivi des travaux documentaires.
+
+Assistant de secrétariat au service des tribunaux administratifs et des cours administratives d'appel (pour l'ensemble des juridictions).
+
+Adjoint du responsable du secrétariat particulier du président de la section du contentieux.
+
+Assistant de secrétariat auprès du responsable des services de la bibliothèque.
+
+Assistant du responsable des ordonnancements concernant les greffes des juridictions administratives.
+
+Responsable du bureau du courrier.
+
+Deuxième adjoint au responsable du service de reprographie.
