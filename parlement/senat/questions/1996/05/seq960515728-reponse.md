@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960515728
+
+- Question : [SEQ960515728](seq960515728.md) — Suppression d'exonération de charges sociales
+
+## Réponse
+
+*Premier ministre, JO du 1996-11-07, page 2894*
+
+Réponse. - L'exonération de cotisations patronales de sécurité sociale pour l'embauche d'un deuxième ou d'un troisième salarié par les petites entreprises situées dans les territoires ruraux de développement prioritaire, instituée en 1992, a cessé d'être applicable au 31 décembre 1995. Compte tenu d'une part des résultats modestes en termes d'emploi de cette mesure - 7 000 embauches en 1995 - et de la nouvelle définition des zones rurales prioritaires en termes d'emploi issue de la loi du 4 février 1995 d'orientation pour le développement et l'aménagement du territoire, il n'est pas paru souhaitable de proroger cette exonération. L'incitation à la création d'emplois dans les zones rurales défavorisées demeure cependant une priorité. Il est proposé, dans le cadre du projet de loi portant pacte de relance pour la ville actuellement en cours d'examen au Parlement, d'instaurer une exonération de cotisations patronales de sécurité sociale pour les créations d'emplois jusqu'à 50 salariés par les entreprises du secteur marchand situées ou qui s'implanteront dans les zones de revitalisation rurale, définies par le décret du 14 février 1996, ainsi que dans les zones de redynamisation urbaine qui seront définies après le vote de la loi. Afin de favoriser dès à présent la création d'emplois dans les zones de revitalisation rurale, il a toutefois été décidé d'appliquer à compter du 1er septembre 1966 l'exonération de cotisations patronales de sécurité sociale pour les créations d'emplois portant l'effectif à au moins quatre et au plus cinquante salariés (décret no 96-695 du 7 août 1996). Cette mesure transitoire devrait être remplacée à compter du 1er janvier 1997 par l'exonération jusqu'à 50 salariés prévue par le projet de loi précité.
