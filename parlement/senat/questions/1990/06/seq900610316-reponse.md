@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900610316
+
+- Question : [SEQ900610316](seq900610316.md) — Fixation des prix agricoles pour la campagne 1990-1991
+
+## Réponse
+
+*Agriculture, JO du 1991-10-03, page 2142*
+
+Réponse. - L'accord sur les prix agricoles pour 1991-1992 a considérablement atténué les propositions de la commission. Les ministres ont en effet souhaité reconduire, dans toute la mesure du possible, les réglementations de campagne existantes afin de ne pas préjuger des adaptations à venir de la politique agricole commune. Ils ont néanmoins eu le souci d'aboutir à un accord qui tienne compte de la situation actuelle des productions communautaires. C'est pourquoi il est apparu nécessaire de donner un signal aux producteurs laitiers afin que l'état du marché ne s'aggrave pas davantage. En matière de coresponsabilité céréalière, l'augmentation réelle par rapport à la taxe versée à la campagne précédente demeure mineure. Enfin, les ministres ont souhaité atténuer de moitié les diminutions de primes aux oléagineux que la commission proposait. Quant aux débouchés non-alimentaires, ils sont actuellement aidés par un régime communautaire. En matière d'interprofession, lacommission a reconnu, dans sa communication au conseil, le bien-fondé de ce type d'organisation et s'apprête à présenter des propositions sectorielles. Enfin, l'adaptation de la politique agricole commune sera conduite dans le souci permanent de défense des acquis et d'association de tous les partenaires à la définition des objectifs. Le département de l'Orne a été une nouvelle fois sévèrement touché par la sécheresse et a aussitôt bénéficié du dispositif national d'aides mis en place en faveur des éleveurs. Il n'est cependant pas encore possible de comptabiliser les montants affectés dans ce département en faveur des éleveurs ovins et bovins. Une aide d'urgence de 25,5 MF à l'achat d'aliments pour bétail a été versée dès l'automne 1990.
