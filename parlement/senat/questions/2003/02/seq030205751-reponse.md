@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030205751
+
+- Question : [SEQ030205751](seq030205751.md) — Diagnostic sur l'accès aux soins des personnes en situation  de précarité aux Antilles
+
+## Réponse
+
+*Santé, JO du 2003-04-24, page 1428*
+
+Les trois départements des Antilles françaises ont bénéficié au cours des années 2000, 2001 et 2002 d'un premier programme d'accès à la prévention et aux soins (PRAPS) en faveur des personnes les plus en difficulté. De nombreuses actions, basées sur un diagnostic initial des besoins de ce public au niveau départemental, ont été menées. Les financements de l'Etat ont largement contribué à la mise en oeuvre de ces actions. S'appuyant sur des évaluations locales et nationales des PRAPS de première génération ainsi que sur un nouvel état des lieux départemental des besoins, les PRAPS de deuxième génération vont être élaborés prochainement, pour couvrir la période 2003-2006. S'agissant de la formation et du suivi de médiateurs de santé, il s'agit d'un programme expérimental soutenu par l'Etat (direction générale de la santé et délégation interministérielle à la ville) depuis 2000, développé sur trois régions pilotes : Ile-de-France (quatre-vingts médiateurs formés), PACA (trente-six médiateurs formés) et Guyane (dix-huit médiateurs formés). Un bilan de la mise en oeuvre de ce programme sur les régions Ile-de-France et PACA a débuté en janvier 2003 ; ses conclusions seront rendues en septembre prochain. Par ailleurs, une évaluation de l'impact de l'intervention des médiateurs de santé pour améliorer l'accès à la prévention et aux soins des populations les plus vulnérables doit être conduite en Guyane spécifiquement sur le second semestre 2003. Les conclusions de cette évaluation permettront d'établir des recommandations et des suggestions sur les modalités possibles de développement de la médiation en matière de santé.
