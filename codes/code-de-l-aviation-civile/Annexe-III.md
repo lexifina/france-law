@@ -10,15 +10,15 @@ Cette réglementation est applicable sur l'ensemble du territoire métropolitain
 
 Elle définit :
 
-- les services rendus par les organismes de la circulation aérienne militaire (CAM) ;
+-les services rendus par les organismes de la circulation aérienne militaire (CAM) ;
 
-- le rôle qu'exercent au bénéfice de la circulation aérienne militaire les organismes chargés de cette circulation.
+-le rôle qu'exercent au bénéfice de la circulation aérienne militaire les organismes chargés de cette circulation.
 
-Les procédures d'application prévues dans la présente réglementation font l'objet d'un arrêté (RCAM 3) du ministre chargé des armées et sont publiées par la division information aéronautique de la direction de la circulation aérienne militaire (DIRCAM).
+Les procédures d'application prévues dans la présente réglementation font l'objet d'un arrêté (RCAM 3) du ministre de la défense et sont publiées par la division information aéronautique de la direction de la circulation aérienne militaire (DIRCAM).
 
-Il appartient à chaque état-major ou direction, au centre d'essais en vol et à chaque grand commandement d'arrêter et de diffuser, en tant que de besoin, des instructions, des décisions, des directives et/ou des consignes particulières à l'intention de leurs unités et organismes en conformité avec la présente réglementation.
+Il appartient à chaque état-major ou direction, au centre d'essais en vol et à chaque grand commandement d'arrêter et de diffuser, en tant que de besoin, des instructions, des décisions, des directives et/ ou des consignes particulières à l'intention de leurs unités et organismes en conformité avec la présente réglementation.
 
-Nota. - La présente réglementation se conforme chaque fois que possible, en y faisant référence, à l'annexe II à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D. 131-1 à D. 131-10) relative aux " Services de la circulation aérienne générale " (RCA 2), dont elle s'efforce de suivre le plan.
+Nota.-La présente réglementation se conforme chaque fois que possible, en y faisant référence, à l'annexe II à la section I du chapitre Ier du titre III du livre Ier de la troisième partie du code de l'aviation civile (art. D. 131-1 à D. 131-10) relative aux " Services de la circulation aérienne générale " (RCA 2), dont elle s'efforce de suivre le plan.
 
 LES SERVICES DE LA CIRCULATION AÉRIENNE MILITAIRE
 
@@ -38,13 +38,13 @@ Chapitre II : Généralités
 
 2.1. Bénéficiaires des services de la circulation aérienne militaire
 
-Les services de la circulation aérienne militaire sont assurés au profit des aéronefs relevant du ministre chargé des armées.
+Les services de la circulation aérienne militaire sont assurés au profit des aéronefs relevant du ministre de la défense.
 
 En outre, les aéronefs d'Etat relevant d'autres ministères ou d'autres Etats, après approbation du commandant de la défense aérienne, et les aéronefs en essais ou en réception, avec l'agrément du directeur du centre d'essais en vol, peuvent bénéficier des services de la CAM selon les modalités fixées par des accords particuliers.
 
 2.2. Services de la circulation aérienne militaire
 
-Ils sont assurés par un dispositif composé par l'ensemble des organismes de la circulation aérienne militaire relevant du ministre chargé des armées. Des organismes désignés de la circulation aérienne générale, relevant du ministre chargé de l'aviation civile, peuvent rendre les services de la CAM dans le cadre de l'article D. 131-9 du code de l'aviation civile.
+Ils sont assurés par un dispositif composé par l'ensemble des organismes de la circulation aérienne militaire relevant du ministre de la défense. Des organismes désignés de la circulation aérienne générale, relevant du ministre chargé de l'aviation civile, peuvent rendre les services de la CAM dans le cadre de l'article D. 131-9 du code de l'aviation civile.
 
 Les services de la CAM peuvent être rendus dans l'ensemble de l'espace aérien.
 
@@ -86,13 +86,13 @@ Les services de la CAM ont pour fonction :
 
 Les services de la circulation aérienne militaire sont au nombre de quatre :
 
-- le service du contrôle de la CAM ;
+-le service du contrôle de la CAM ;
 
-- le service d'information de vol ;
+-le service d'information de vol ;
 
-- le service d'alerte ;
+-le service d'alerte ;
 
-- le service d'assistance aux aéronefs en vol.
+-le service d'assistance aux aéronefs en vol.
 
 2.2.3.1. Le service du contrôle de la CAM.
 
@@ -100,19 +100,19 @@ Le service du contrôle de la CAM correspond aux fonctions définies au paragrap
 
 Il se subdivise de la manière suivante :
 
-- contrôle en route et d'activités particulières ;
+-contrôle en route et d'activités particulières ;
 
-- contrôle d'approche ;
+-contrôle d'approche ;
 
-- contrôle d'aérodrome.
+-contrôle d'aérodrome.
 
 Il est rendu sous forme d'espacement ou d'information de trafic à l'aide de l'une des actions suivantes :
 
-- guidage ;
+-guidage ;
 
-- surveillance ;
+-surveillance ;
 
-- protection.
+-protection.
 
 Le guidage consiste à fournir les éléments de vol et de navigation à l'aide d'un ensemble radar ou de tout autre moyen équivalent.
 
@@ -124,7 +124,7 @@ La surveillance consiste à veiller au bon déroulement du vol :
 
 Dans ce cas, la conduite de la mission est assurée par le commandant de bord. La prévention des abordages et des collisions ainsi que la fourniture de l'information de vol incombent à l'organisme du contrôle de la circulation aérienne.
 
-Nota. - Dans le cas de la surveillance non radar, l'organisme du contrôle de la circulation aérienne assure les espacements conformément à des procédures préétablies. Cette surveillance non radar ne s'applique normalement qu'aux seules phases de vol arrivée ou départ, dans le cadre du contrôle d'approche, et sous réserve de l'existence de procédures publiées, d'une part, et d'espaces aériens contrôlés de classe A à D ou de zones réglementées, d'autre part. La conduite de la mission reste assurée par le commandant de bord, lequel a alors la charge de la sécurité par rapport au sol et aux obstacles fixes.
+Nota.-Dans le cas de la surveillance non radar, l'organisme du contrôle de la circulation aérienne assure les espacements conformément à des procédures préétablies. Cette surveillance non radar ne s'applique normalement qu'aux seules phases de vol arrivée ou départ, dans le cadre du contrôle d'approche, et sous réserve de l'existence de procédures publiées, d'une part, et d'espaces aériens contrôlés de classe A à D ou de zones réglementées, d'autre part. La conduite de la mission reste assurée par le commandant de bord, lequel a alors la charge de la sécurité par rapport au sol et aux obstacles fixes.
 
 La sécurité incombe à l'organisme du contrôle qui n'assure la prévention des abordages qu'à l'égard des aéronefs connus ou observés par application des règles prévalant dans le volume dont il a la responsabilité et au pilote par une observation stricte des procédures suivies.
 
@@ -146,9 +146,9 @@ Le service d'information de vol correspond aux fonctions définies au paragraphe
 
 Les informations de vol fournies par l'organisme de la circulation aérienne sont de deux sortes :
 
-- les informations de vol prévues et fixées dans l'arrêté visé au paragraphe 2.2.4.1 ci-après et relatives à la sécurité des vols (aggravation météorologique, altitude de sécurité, calage altimétrique...) ;
+-les informations de vol prévues et fixées dans l'arrêté visé au paragraphe 2.2.4.1 ci-après et relatives à la sécurité des vols (aggravation météorologique, altitude de sécurité, calage altimétrique...) ;
 
-- les informations de vol sur demande du pilote ou à l'initiative du contrôle.
+-les informations de vol sur demande du pilote ou à l'initiative du contrôle.
 
 2.2.3.3. Le service d'alerte.
 
@@ -164,9 +164,9 @@ Cette assistance est fournie, après accord du pilote, sous la forme du service 
 
 2.2.4. Procédures employées par les organismes chargés de rendre les services de la CAM.
 
-2.2.4.1. Les procédures employées par les organismes chargés de rendre les services de la circulation aérienne militaire aux aéronefs appartenant à la circulation aérienne militaire sont fixées par arrêté du ministre chargé des armées.
+2.2.4.1. Les procédures employées par les organismes chargés de rendre les services de la circulation aérienne militaire aux aéronefs appartenant à la circulation aérienne militaire sont fixées par arrêté du ministre de la défense.
 
-2.2.4.2. Des procédures complémentaires employées par les organismes de la circulation aérienne chargés de rendre simultanément des services à des aéronefs relevant de la CAM et à des aéronefs relevant de la CAG peuvent être établies par arrêté conjoint du ministre chargé des armées et du ministre chargé de l'aviation civile.
+2.2.4.2. Des procédures complémentaires employées par les organismes de la circulation aérienne chargés de rendre simultanément des services à des aéronefs relevant de la CAM et à des aéronefs relevant de la CAG peuvent être établies par arrêté conjoint du ministre de la défense et du ministre chargé de l'aviation civile.
 
 2.3. Espaces aériens et aérodromes où sont assurés des services de la CAM
 
@@ -236,15 +236,15 @@ Dans cet espace aérien, les organismes du contrôle de la circulation aérienne
 
 a) Assurent des espacements :
 
-- entre les vols CAM A, B, C ;
+-entre les vols CAM A, B, C ;
 
-- entre les vols CAM A, B, C et les autres vols connus ou détectés ;
+-entre les vols CAM A, B, C et les autres vols connus ou détectés ;
 
-- entre les vols IFR ;
+-entre les vols IFR ;
 
-- entre les vols IFR et les vols VFR et/ou CAM V ;
+-entre les vols IFR et les vols VFR et/ ou CAM V ;
 
-b) Fournissent des informations de trafic aux vols VFR et/ou CAM V sur les autres vols VFR et/ou CAM V.
+b) Fournissent des informations de trafic aux vols VFR et/ ou CAM V sur les autres vols VFR et/ ou CAM V.
 
 2.3.2.1.4. Espace aérien contrôlé spécialisé de classe D.
 
@@ -254,35 +254,35 @@ Dans cet espace aérien, les organismes du contrôle de la circulation aérienne
 
 a) Assurent des espacements :
 
-- entre les vols CAM A, B, C ;
+-entre les vols CAM A, B, C ;
 
-- entre les vols CAM A, B, C et les vols IFR ;
+-entre les vols CAM A, B, C et les vols IFR ;
 
-- entre les vols IFR ;
+-entre les vols IFR ;
 
-- entre les vols CAM A, B, C et tous les vols non connus mais détectés ;
+-entre les vols CAM A, B, C et tous les vols non connus mais détectés ;
 
 b) Fournissent des informations de trafic :
 
-- aux vols CAM A, B, C sur les vols VFR et/ou CAM V ;
+-aux vols CAM A, B, C sur les vols VFR et/ ou CAM V ;
 
-- aux vols IFR sur les vols VFR et/ou CAM V ;
+-aux vols IFR sur les vols VFR et/ ou CAM V ;
 
-- aux vols VFR et/ou CAM V sur tous les vols connus.
+-aux vols VFR et/ ou CAM V sur tous les vols connus.
 
 2.3.2.1.5. Espace aérien contrôlé spécialisé de classe E.
 
-Espace aérien où sont admis les vols IFR et/ou les vols CAM A, B, C ainsi que les vols VFR et/ou CAM V.
+Espace aérien où sont admis les vols IFR et/ ou les vols CAM A, B, C ainsi que les vols VFR et/ ou CAM V.
 
 Dans cet espace aérien, les organismes du contrôle de la circulation aérienne militaire désignés assurent les espacements :
 
-- entre les vols CAM A, B, C ;
+-entre les vols CAM A, B, C ;
 
-- entre les vols CAM A, B, C et tous les autres vols connus ou détectés ;
+-entre les vols CAM A, B, C et tous les autres vols connus ou détectés ;
 
-- entre les vols IFR.
+-entre les vols IFR.
 
-Nota. - Les vols CAM A, B et C sont nécessairement espacés de tous les autres vols connus ou détectés en raison de la perméabilité de l'espace aérien de classe E, qui ne permet pas de connaître en permanence les manoeuvres des aéronefs évoluant à vue.
+Nota.-Les vols CAM A, B et C sont nécessairement espacés de tous les autres vols connus ou détectés en raison de la perméabilité de l'espace aérien de classe E, qui ne permet pas de connaître en permanence les manoeuvres des aéronefs évoluant à vue.
 
 2.3.2.2. Les espaces aériens non contrôlés sont les suivants :
 
@@ -292,11 +292,11 @@ Espace aérien où sont admis tous les vols.
 
 Dans cet espace aérien, les organismes de la circulation aérienne désignés assurent :
 
-- des espacements entre les vols CAM A, B, C ;
+-des espacements entre les vols CAM A, B, C ;
 
-- des espacements entre les vols CAM A, B, C et tous les autres vols connus ou détectés ;
+-des espacements entre les vols CAM A, B, C et tous les autres vols connus ou détectés ;
 
-- le service consultatif de la circulation aérienne.
+-le service consultatif de la circulation aérienne.
 
 2.3.2.2.2. Espace aérien non contrôlé de classe G.
 
@@ -304,19 +304,19 @@ Espace aérien où sont admis tous les vols.
 
 Dans cet espace aérien, les organismes de la circulation aérienne assurent les espacements :
 
-- entre les vols CAM A, B, C ;
+-entre les vols CAM A, B, C ;
 
-- entre les vols CAM A, B, C et tous les autres vols connus ou détectés.
+-entre les vols CAM A, B, C et tous les autres vols connus ou détectés.
 
-Note 1. - Quel que soit le type d'espace aérien, l'organisme désigné chargé de rendre les services du contrôle de la CAM est responsable de la prévention des abordages au profit des aéronefs qu'il contrôle par rapport à tout vol connu ou détecté. Cette prévention est assurée à l'aide des méthodes suivantes : espacement, information de trafic et information de vol.
+Note 1.-Quel que soit le type d'espace aérien, l'organisme désigné chargé de rendre les services du contrôle de la CAM est responsable de la prévention des abordages au profit des aéronefs qu'il contrôle par rapport à tout vol connu ou détecté. Cette prévention est assurée à l'aide des méthodes suivantes : espacement, information de trafic et information de vol.
 
 Les services d'information de vol, d'alerte et d'assistance en vol sont rendus par les organismes du contrôle de la CAM dans tous les espaces aériens.
 
-Note 2. - Les conditions applicables aux vols effectués dans chacune des classes d'espace aérien sont conformes au tableau en appendice.
+Note 2.-Les conditions applicables aux vols effectués dans chacune des classes d'espace aérien sont conformes au tableau en appendice.
 
 Les conditions applicables aux vols effectués sur la limite entre des espaces aériens de classes différentes sont celles de celui de ces espaces aériens qui appartient à la classe qui vient en dernier dans l'ordre alphabétique.
 
-Note 3. - Les conditions particulières à l'espace aérien surjacent à la haute mer sont décrites au paragraphe 2.10.
+Note 3.-Les conditions particulières à l'espace aérien surjacent à la haute mer sont décrites au paragraphe 2.10.
 
 2.3.3. Spécifications relatives aux espaces aériens.
 
@@ -360,7 +360,7 @@ Conforme au RCA 2.
 
 2.3.6. Identification.
 
-Les règles d'identification contenues au RCA 2 s'appliquent aux EACS et aux aérodromes dont le ministre chargé des armées est affectataire principal.
+Les règles d'identification contenues au RCA 2 s'appliquent aux EACS et aux aérodromes dont le ministre de la défense est affectataire principal.
 
 2.4. Organismes assurant les services de la CAM
 
@@ -368,7 +368,7 @@ Les règles d'identification contenues au RCA 2 s'appliquent aux EACS et aux aé
 
 Tous les organismes de la CAM spécifiés au paragraphe 2.4.2 sont chargés de rendre les services de la CAM et de recueillir les renseignements aéronautiques relatifs à leurs installations.
 
-Ils peuvent également rendre les services de la CAG au profit des aéronefs de cette circulation, conformément aux arrêtés conjoints du ministre chargé de l'aviation civile et du ministre chargé des armées (art. D. 131-9 du code de l'aviation civile).
+Ils peuvent également rendre les services de la CAG au profit des aéronefs de cette circulation, conformément aux arrêtés conjoints du ministre chargé de l'aviation civile et du ministre de la défense (art. D. 131-9 du code de l'aviation civile).
 
 2.4.2. Spécifications relatives aux organismes de la CAM.
 
@@ -380,9 +380,9 @@ Le centre de contrôle d'interception (CCI) qui assure le contrôle des missions
 
 Le centre de contrôle et de coordination du trafic (CCT), articulé en deux éléments :
 
-- la section de contrôle et de coordination de la circulation opérationnelle militaire (SCCOM) ;
+-la section de contrôle et de coordination de la circulation opérationnelle militaire (SCCOM) ;
 
-- le bureau d'information de vol (BIV).
+-le bureau d'information de vol (BIV).
 
 Le CDC est chargé d'assurer les services de la CAM dans sa zone d'attribution (voir § 2.10.2.2 ci-après).
 
@@ -394,11 +394,11 @@ Le SDCA peut rendre des services de la CAM de façon identique à celle d'un CDC
 
 Chargés de rendre les services de la CAM aux aéronefs de la circulation d'essais et de réception, les CCER sont implantés :
 
-- sur des aérodromes dont le ministre chargé des armées est affectataire ;
+-sur des aérodromes dont le ministre de la défense est affectataire ;
 
-- dans les centres de la navigation aérienne civile ;
+-dans les centres de la navigation aérienne civile ;
 
-- dans les centres mixtes.
+-dans les centres mixtes.
 
 2.4.2.4. Centre de coordination et de contrôle de la marine (CCMAR).
 
@@ -434,13 +434,13 @@ Mis en place dans certains CRNA, le DMCA rend les services de la CAM et de la CA
 
 2.4.2.9. Les autres organismes de la CAM.
 
-Des organismes de la CAM avancés et/ou mobiles, aéroportés ou embarqués peuvent rendre des services de la CAM et éventuellement assurer les coordinations avec les autres organismes de la circulation aérienne.
+Des organismes de la CAM avancés et/ ou mobiles, aéroportés ou embarqués peuvent rendre des services de la CAM et éventuellement assurer les coordinations avec les autres organismes de la circulation aérienne.
 
 2.4.3. Désignation des organismes.
 
-Les organismes de la circulation aérienne militaire font l'objet d'une désignation par l'autorité compétente concernée relevant du ministre chargé des armées ou par arrêté conjoint du ministre chargé de l'aviation civile et du ministre chargé des armées pour les espaces aériens lorsqu'un organisme unique de la circulation aérienne assure simultanément des services à la circulation aérienne générale et à la circulation aérienne militaire.
+Les organismes de la circulation aérienne militaire font l'objet d'une désignation par l'autorité compétente concernée relevant du ministre de la défense ou par arrêté conjoint du ministre chargé de l'aviation civile et du ministre de la défense pour les espaces aériens lorsqu'un organisme unique de la circulation aérienne assure simultanément des services à la circulation aérienne générale et à la circulation aérienne militaire.
 
-Ils sont publiés par la voie de l'information aéronautique.< RL> 2.4.4. Identification.
+Ils sont publiés par la voie de l'information aéronautique. < RL > 2.4.4. Identification.
 
 Conforme au RCA 2.
 
@@ -466,13 +466,13 @@ Les ITICOM sont normalement inclus en espace aérien supérieur. Ils sont utilis
 
 Tous les renseignements nécessaires aux usagers de la CAM et relatifs, notamment :
 
-- aux espaces aériens ;
+-aux espaces aériens ;
 
-- aux aérodromes ;
+-aux aérodromes ;
 
-- aux moyens de radionavigation et de radiocommunication ;
+-aux moyens de radionavigation et de radiocommunication ;
 
-- aux organismes de la circulation aérienne chargés d'assurer les services de la CAM,
+-aux organismes de la circulation aérienne chargés d'assurer les services de la CAM,
 
 sont portés à leur connaissance par la voie de l'information aéronautique et, en ce qui concerne les renseignements spécifiques à la défense, par la voie de l'information aéronautique militaire.
 
@@ -506,11 +506,11 @@ Les zones d'attribution des CCT (centres de contrôle et de coordination du traf
 
 Dans l'ensemble de l'espace aérien (inférieur et supérieur) qui leur est attribué, les CCT rendent les services de la CAM :
 
-- en dehors des espaces aériens affectés à d'autres organismes de la CAM ;
+-en dehors des espaces aériens affectés à d'autres organismes de la CAM ;
 
-- dans la limite de leur plancher de contrôle pour les vols contrôlés au radar.
+-dans la limite de leur plancher de contrôle pour les vols contrôlés au radar.
 
-Nota. - Certains espaces aériens ou secteurs cités en 2.10.2.1 et 2.10.2.2 peuvent se situer en totalité ou en partie à l'intérieur de l'espace aérien de classe A à D.
+Nota.-Certains espaces aériens ou secteurs cités en 2.10.2.1 et 2.10.2.2 peuvent se situer en totalité ou en partie à l'intérieur de l'espace aérien de classe A à D.
 
 2.10.2.3. Dans les zones dangereuses d'entraînement en Atlantique et en Méditerranée.
 
@@ -518,7 +518,7 @@ Les aéronefs de la défense effectuent des vols CAM dans les parties maritimes 
 
 Ces zones dangereuses ne garantissent pas l'imperméabilité, en particulier pour les vols non contrôlés. En conséquence, la protection des vols CAM évoluant dans celles-ci ne sera assurée par l'organisme chargé d'assurer des services de la circulation aérienne (CCT, CCMAR), vis-à-vis des autres vols, que dans la mesure où ils sont connus ou détectés.
 
-Pour certaines de ces zones dangereuses, les procédures d'utilisation, les conditions de pénétration ainsi que la désignation des organismes chargés de rendre des services (coordination, contrôle, régulation ...) font, si nécessaire, l'objet de publications par la voie de l'information aéronautique militaire.
+Pour certaines de ces zones dangereuses, les procédures d'utilisation, les conditions de pénétration ainsi que la désignation des organismes chargés de rendre des services (coordination, contrôle, régulation...) font, si nécessaire, l'objet de publications par la voie de l'information aéronautique militaire.
 
 Les aéronefs évoluent dans ces zones dangereuses selon l'une des règles suivantes :
 
@@ -532,13 +532,13 @@ La réservation de secteurs dans certaines zones s'effectue suivant des modalit�
 
 Les aéronefs rencontrant des conditions IMC suivent les procédures suivantes :
 
-- rejointe du niveau de sécurité défini dans les ordres de vol ;
+-rejointe du niveau de sécurité défini dans les ordres de vol ;
 
-- recherche des conditions VMC ;
+-recherche des conditions VMC ;
 
-- établissement d'une liaison radio si possible avec le centre de contrôle approprié ;
+-établissement d'une liaison radio si possible avec le centre de contrôle approprié ;
 
-- veille attentive avec les équipements de bord disponibles (radar, transpondeur...).
+-veille attentive avec les équipements de bord disponibles (radar, transpondeur...).
 
 Une circulaire DIRCAM fixe les procédures de coordination des vols CAM dans les zones dangereuses d'entraînement maritimes.
 
@@ -546,9 +546,9 @@ Une circulaire DIRCAM fixe les procédures de coordination des vols CAM dans les
 
 Hors des espaces aériens et secteurs répertoriés ci-dessus, les activités de la CAM s'exercent :
 
-- soit en CAM V selon les règles définies au RCAM 1, chapitre VI ;
+-soit en CAM V selon les règles définies au RCAM 1, chapitre VI ;
 
-- soit sous contrôle d'un organisme de la circulation aérienne.
+-soit sous contrôle d'un organisme de la circulation aérienne.
 
 Le cas échéant, lorsqu'elles présentent un danger potentiel pour les aéronefs civils en vol, ces activités sont coordonnées selon les procédures générales en vigueur applicables au plan national :
 
@@ -560,9 +560,9 @@ Hors des FIR françaises, les activités de la CAM s'exercent selon les mêmes d
 
 Lorsque ces activités sont susceptibles de présenter un danger potentiel pour les aéronefs civils en vol, outre les règles définies au paragraphe 6.3 du RCAM 1, elles sont coordonnées :
 
-- en Europe selon les procédures définies régionalement (coordination via l'AMC compétente) ;
+-en Europe selon les procédures définies régionalement (coordination via l'AMC compétente) ;
 
-- hors de l'Europe avec l'autorité ATS compétente, conformément aux dispositions de l'annexe 11 de la convention relative à l'aviation civile internationale susvisée.
+-hors de l'Europe avec l'autorité ATS compétente, conformément aux dispositions de l'annexe 11 de la convention relative à l'aviation civile internationale susvisée.
 
 Chapitre III
 
@@ -602,7 +602,7 @@ f) Par un détachement militaire de circulation aérienne (DMCA) ;
 
 g) Par un centre de contrôle d'approche (APP) dans certains cas définis ;
 
-h) Par d'autres organismes désignés (unités avancées et/ou mobiles, aéroportées ou embarquées...).
+h) Par d'autres organismes désignés (unités avancées et/ ou mobiles, aéroportées ou embarquées...).
 
 3.2.2. Contrôle d'approche :
 
@@ -634,9 +634,9 @@ c) Délivrer des clairances et des informations afin de prévenir les abordages 
 
 d) Se mettre d'accord avec les autres organismes de la circulation aérienne :
 
-- chaque fois qu'un aéronef risque d'entraver la circulation aérienne placée sous le contrôle de ces autres organismes ;
+-chaque fois qu'un aéronef risque d'entraver la circulation aérienne placée sous le contrôle de ces autres organismes ;
 
-- avant de transférer à ces autres organismes le contrôle d'un aéronef.
+-avant de transférer à ces autres organismes le contrôle d'un aéronef.
 
 3.3.2. Prévention des abordages.
 
@@ -650,17 +650,17 @@ L'espacement.
 
 Les organismes du contrôle de la circulation aérienne désignés fournissent l'information de trafic :
 
-a) Aux vols IFR et/ou CAM A, B, C sur les vols connus évoluant en VFR et/ou en CAM V en espace aérien contrôlé (EAC) ou en espace aérien contrôlé spécialisé (EACS) de classe D ;
+a) Aux vols IFR et/ ou CAM A, B, C sur les vols connus évoluant en VFR et/ ou en CAM V en espace aérien contrôlé (EAC) ou en espace aérien contrôlé spécialisé (EACS) de classe D ;
 
-b) Aux vols VFR et/ou CAM V sur les vols IFR et/ou CAM A, B ou C en EAC ou en EACS de classe D ;
+b) Aux vols VFR et/ ou CAM V sur les vols IFR et/ ou CAM A, B ou C en EAC ou en EACS de classe D ;
 
-c) Aux vols VFR et/ou CAM V sur les autres vols VFR et/ou CAM V en EAC ou en EACS de classe C ou D ;
+c) Aux vols VFR et/ ou CAM V sur les autres vols VFR et/ ou CAM V en EAC ou en EACS de classe C ou D ;
 
-d) Aux vols VFR spécial et/ou CAM V, évoluant sous certaines conditions météorologiques définies, sur les autres vols VFR spécial et/ou CAM V en EAC ou en EACS de classe C, D ou E ;
+d) Aux vols VFR spécial et/ ou CAM V, évoluant sous certaines conditions météorologiques définies, sur les autres vols VFR spécial et/ ou CAM V en EAC ou en EACS de classe C, D ou E ;
 
 e) A tous les vols appartenant à la circulation d'aérodrome des aérodromes contrôlés.
 
-Nota. - Lorsqu'il s'agit, dans un EACS, de fournir une information de trafic sur un dispositif comportant plusieurs aéronefs évoluant dans cet espace aérien selon les règles de la CAM, l'information de trafic fournie aux autres aéronefs concerne l'ensemble du dispositif.
+Nota.-Lorsqu'il s'agit, dans un EACS, de fournir une information de trafic sur un dispositif comportant plusieurs aéronefs évoluant dans cet espace aérien selon les règles de la CAM, l'information de trafic fournie aux autres aéronefs concerne l'ensemble du dispositif.
 
 3.3.2.2. Espacement.
 
@@ -674,9 +674,9 @@ c) Entre les vols IFR dans l'espace aérien contrôlé ;
 
 d) Entre tous les vols dans l'espace aérien contrôlé de classe B ;
 
-e) Entre les vols IFR et les vols VFR et/ou CAM V dans l'espace aérien contrôlé de classe C ;
+e) Entre les vols IFR et les vols VFR et/ ou CAM V dans l'espace aérien contrôlé de classe C ;
 
-f) Entre les vols CAM A, B, C, les vols IFR, les vols VFR spécial et/ou CAM V évoluant sous certaines conditions météorologiques définies ;
+f) Entre les vols CAM A, B, C, les vols IFR, les vols VFR spécial et/ ou CAM V évoluant sous certaines conditions météorologiques définies ;
 
 g) Entre tous les vols sur la piste d'un aérodrome contrôlé.
 
@@ -712,9 +712,9 @@ Le transfert de contrôle entre un organisme chargé de rendre les services de l
 
 Le transfert implique :
 
-- le préavis : le perdant transmet au gagnant les éléments de vol et de contrôle ;
+-le préavis : le perdant transmet au gagnant les éléments de vol et de contrôle ;
 
-- l'identification radar par le gagnant.
+-l'identification radar par le gagnant.
 
 Le transfert est réalisé lorsque le gagnant a donné son accord et a établi la liaison radio avec l'aéronef.
 
@@ -774,9 +774,9 @@ Conforme au RCA 2, paragraphe 4.3.3.
 
 4.3.4. Le service d'information de vol est assuré.
 
-- à la demande du pilote ;
+-à la demande du pilote ;
 
-- spontanément par l'organisme concerné chargé de rendre les services de la CAM.
+-spontanément par l'organisme concerné chargé de rendre les services de la CAM.
 
 4.3.4.1. Parmi les renseignements qui font l'objet du paragraphe 4.2.1, certains doivent être communiqués à l'initiative des organismes chargés de rendre les services de la CAM.
 
@@ -856,13 +856,13 @@ Les pilotes et organismes du contrôle de la CAM sont amenés à opérer une dis
 
 L'opération d'assistance n'est engagée que sur demande du pilote.
 
-L'état d'urgence entraîne le déclenchement de la phase d'alerte - ALERFA.
+L'état d'urgence entraîne le déclenchement de la phase d'alerte-ALERFA.
 
-6.3.1.2. Un aéronef est en état de détresse lorsqu'il court un danger grave et/ou imminent et qu'une assistance immédiate lui est nécessaire.
+6.3.1.2. Un aéronef est en état de détresse lorsqu'il court un danger grave et/ ou imminent et qu'une assistance immédiate lui est nécessaire.
 
 L'opération d'assistance est engagée immédiatement.
 
-L'état de détresse entraîne le déclenchement de la phase de détresse - DETRESFA.
+L'état de détresse entraîne le déclenchement de la phase de détresse-DETRESFA.
 
 6.3.2. Opérations d'assistance.
 
@@ -872,9 +872,9 @@ L'assistance consiste à entreprendre les opérations suivantes :
 
 6.3.2.1. Communiquer à l'aéronef assisté, avec ou sans le concours d'un autre aéronef, des éléments nécessaires à la poursuite ou à l'interruption du vol en l'aidant à effectuer certaines manoeuvres :
 
-- transmission de renseignements relatifs à la sécurité et de consignes appropriées : météo, aides à la navigation, altitude de sécurité, utilisation de manuels de procédures de secours, etc. ;
+-transmission de renseignements relatifs à la sécurité et de consignes appropriées : météo, aides à la navigation, altitude de sécurité, utilisation de manuels de procédures de secours, etc. ;
 
-- localisation suivie éventuellement de guidage, quel que soit le type d'espace aérien.
+-localisation suivie éventuellement de guidage, quel que soit le type d'espace aérien.
 
 6.3.2.2. Faire intercepter l'aéronef assisté par un autre aéronef et le cas échéant le faire assister jusqu'à l'atterrissage en un lieu choisi ou imposé par les circonstances.
 
@@ -916,7 +916,7 @@ IFR
 
 Espacement :
 
-IFR/IFR et CAM A, B, C
+IFR/ IFR et CAM A, B, C
 
 Oui
 
@@ -934,7 +934,7 @@ CAM A, B, C (3)
 
 Espacement :
 
-CAM A, B, C/tous les vols connus ou détectés (3)
+CAM A, B, C/ tous les vols connus ou détectés (3)
 
 B
 
@@ -968,9 +968,9 @@ IFR
 
 Espacement :
 
-IFR/IFR et CAM A, B, C
+IFR/ IFR et CAM A, B, C
 
-IFR/VFR et CAM V
+IFR/ VFR et CAM V
 
 Oui
 
@@ -988,27 +988,27 @@ CAM A, B, C
 
 Espacement :
 
-CAM A, B, C/tous les vols connus ou détectés
+CAM A, B, C/ tous les vols connus ou détectés
 
 VFR
 
 Espacement :
 
-VFR/IFR et CAM A, B, C
+VFR/ IFR et CAM A, B, C
 
 Information de trafic :
 
-VFR/VFR et CAM V
+VFR/ VFR et CAM V
 
 CAM V
 
 Espacement :
 
-CAM V/CAM A, B, C et IFR
+CAM V/ CAM A, B, C et IFR
 
 Information de trafic :
 
-CAM V/CAM V et VFR
+CAM V/ CAM V et VFR
 
 D
 
@@ -1016,11 +1016,11 @@ IFR
 
 Espacement :
 
-IFR/IFR et CAM A, B, C
+IFR/ IFR et CAM A, B, C
 
 Information de trafic :
 
-IFR/VRF et CAM V
+IFR/ VRF et CAM V
 
 Oui
 
@@ -1038,29 +1038,29 @@ CAM A, B, C
 
 Espacement :
 
-CAM A, B, C/CAM A, B, C et IFR
+CAM A, B, C/ CAM A, B, C et IFR
 
-CAM A, B, C/tous les autres vols non connus mais détectés
+CAM A, B, C/ tous les autres vols non connus mais détectés
 
 Information de trafic :
 
-CAM A, B, C/CAM V et VFR
+CAM A, B, C/ CAM V et VFR
 
 VFR
 
 Information de trafic :
 
-VFR/IFR et CAM A, B, C
+VFR/ IFR et CAM A, B, C
 
-VFR/VFR et CAM V
+VFR/ VFR et CAM V
 
 CAM V
 
 Information de trafic :
 
-CAM V/CAM A, B, C et IFR
+CAM V/ CAM A, B, C et IFR
 
-CAM V/CAM V et VFR
+CAM V/ CAM V et VFR
 
 E
 
@@ -1068,7 +1068,7 @@ IFR
 
 Espacement :
 
-IFR/IFR et CAM A, B, C
+IFR/ IFR et CAM A, B, C
 
 Oui
 
@@ -1086,7 +1086,7 @@ CAM A, B, C
 
 Espacement :
 
-CAM A, B, C/tous les vols connus ou détectés
+CAM A, B, C/ tous les vols connus ou détectés
 
 CAM V
 
@@ -1116,7 +1116,7 @@ CAM A, B, C
 
 Espacement :
 
-CAM A, B, C/tous les vols connus ou détectés
+CAM A, B, C/ tous les vols connus ou détectés
 
 Oui
 
@@ -1136,7 +1136,7 @@ Non (service consultatif)
 
 Espacement :
 
-IFR/IFR si possible
+IFR/ IFR si possible
 
 Oui
 
@@ -1174,7 +1174,7 @@ CAM A, B, C
 
 Espacement :
 
-CAM A, B, C/tous les vols connus ou détectés
+CAM A, B, C/ tous les vols connus ou détectés
 
 Oui
 
@@ -1224,13 +1224,13 @@ Non
 
 a) En espace aérien contrôlé de classe A à E, espacement entre :
 
-- IFR et VFR spécial ou CAM V (5) ;
+-IFR et VFR spécial ou CAM V (5) ;
 
-- VFR S ou VFR spécial et CAM V (5) ou CAM V (5) dans des conditions qui peuvent être prescrites par arrêté ou par directives d'état-major ou direction.
+-VFR S ou VFR spécial et CAM V (5) ou CAM V (5) dans des conditions qui peuvent être prescrites par arrêté ou par directives d'état-major ou direction.
 
 b) En espace aérien contrôlé de classe C, D et E, information de trafic entre :
 
-- VFR spécial ou VFR spécial et CAM V (5) ou CAM V (5).
+-VFR spécial ou VFR spécial et CAM V (5) ou CAM V (5).
 
 (5) CAM V évoluant sous certaines conditions météorologiques spécifiées ou sur terrain BLANC ou VERT (voir MILAIP).
 
@@ -1238,4 +1238,4 @@ NOTA :
 
 Décret 2000-385 2000-05-03 art. 2 : les dispositions du présent décret sont applicables en Nouvelle-Calédonie, dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte.
 
-: Loi 2001-616 2001-07-11 art. 75 : dans tous les textes législatifs et réglementaires, la référence à la collectivité territoriale de Mayotte est remplacée par la référence à Mayotte et la référence à la collectivité territoriale est remplacée par la référence à la collectivité départementale.
+Loi 2001-616 2001-07-11 art. 75 : dans tous les textes législatifs et réglementaires, la référence à la collectivité territoriale de Mayotte est remplacée par la référence à Mayotte et la référence à la collectivité territoriale est remplacée par la référence à la collectivité départementale.
