@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860400272
+
+- Question : [SEQ860400272](seq860400272.md) — Carrière des infirmières scolaires et universitaires
+
+## Réponse
+
+*Éducation, JO du 1986-07-10, page 966*
+
+Réponse. - Les infirmières scolaires et universitaires appartiennent au corps particulier d'infirmiers (ères) du ministère de l'éducation nationale prévu à l'article 3 du décret n° 84-99 du 10 février 1984, qui fixe les dispositions statutaires applicables aux infirmiers et infirmières occupant un emploi permanent à temps complet dans les services médicaux des administrations centrales de l'Etat, des services extérieurs qui en dépendent et des établissements publics de l'Etat. Ce corps classé dans la catégorie B comporte deux grades : celui d'infirmier (ère) et celui d'infirmier (ère) en chef. Ces dispositions ne s'appliquent pas aux personnels infirmiers des hôpitaux militaires, des services extérieurs de l'administration pénitentiaire et des hôpitaux psychiatriques, qui sont, eux, régis par des statuts particuliers. Il en résulte que les infirmiers (ères) des autres administrations de l'Etat - dont l'éducation nationale - n'ont pas accès au troisième grade de la catégorie B, contrairement aux infirmiers (ères) des corps précités. Il ne peut être contesté que les infirmiers (ères) placés comme conseillers techniques auprès des recteurs ou des inspecteurs d'académie, directeurs des services départementaux de l'éducation, occupent des responsabilités importantes. Cependant, l'aboutissement de la mesure évoquée concernerait, outre le corps des infirmiers (ères) relevant du ministère de l'éducation nationale, les autres corps d'infirmiers (ères) régis par le décret n° 84-99 du 10 février 1984 précité, et relève par conséquant de la compétence de M. le ministre des affaires sociales et de l'emploi. La concrétisation de cette mesure semble toutefois difficile dans le contexte actuel de réduction des dépenses de l'Etat.
