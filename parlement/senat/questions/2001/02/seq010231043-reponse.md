@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010231043
+
+- Question : [SEQ010231043](seq010231043.md) — Vente d'une partie du patrimoine immobilier d'EDF
+
+## Réponse
+
+*Industrie, JO du 2001-03-15, page 936*
+
+Réponse. - Electricité de France (EDF) a vendu le 15 décembre 2000 sa filiale immobilière Selec, propriétaire de 12 800 logements situés principalement à proximité des centres nucléaires de production d'électricité, des centres de production thermique et en région parisienne. Cette cession s'inscrit dans le cadre de la politique immobilière du groupe EDF, approuvée le 23 décembre 1999 par son conseil d'administration. Le 21 décembre 1999, le président d'EDF avait préalablement présenté au conseil supérieur consultatif des comités mixtes à la production, équivalent du comité d'entreprise dans le cadre du droit propre aux industries électriques et gazières, la politique de financement du développement du groupe, qui repose notamment sur la cession d'actifs immobiliers. Dans le cadre de la vente de Selec, EDF reste le locataire principal du nouveau propriétaire des logements. Les relations vis-à-vis des agents, sous-locataires d'EDF, ne sont donc pas modifiées. De plus, pour chaque logement, à l'expiration du bail actuel, le nouveau propriétaire ne pourra disposer librement du bien mais sera tenu de conclure un nouveau bail avec EDF. Par lettre du 13 octobre 2000, la direction du personnel et des relations sociales d'EDF a informé les fédérations syndicales des modalités retenues pour l'éventuelle vente des logements aux agents locataires. En particulier, le bail conclu par EDF avec le nouveau propriétaire substitue au droit de préemption d'EDF un droit de préférence au bénéfice des agents qui souhaiteraient acquérir un logement qui se libérerait. Cette opération a été tacitement autorisée par le ministre de l'économie, des finances et de l'industrie, au titre de la loi du 6 août 1986, dite de " respiration du secteur public ".
