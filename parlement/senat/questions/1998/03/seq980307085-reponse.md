@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980307085
+
+- Question : [SEQ980307085](seq980307085.md) — Présence de l'avocat dès la première heure de garde à vue
+
+## Réponse
+
+*Justice, JO du 1998-08-20, page 2727*
+
+Réponse. - Le garde des sceaux souhaite tout d'abord rappeler à l'honorable parlementaire qu'elle a présenté, lors du conseil des ministres du 29 octobre 1997, une communication exposant les orientations générales d'une réforme profonde de l'institution judiciaire ayant pour finalité première de restaurer la confiance des citoyens en la justice de la République. Par des déclarations faites respectivement le 15 janvier 1998 devant l'Assemblée nationale, et le 22 janvier 1998 devant le Sénat, elle a indiqué à la représentation nationale que l'une des préoccupations essentielles de cette réforme serait d'assurer un meilleur respect du principe de la présomption d'innocence dont doit bénéficier tout citoyen mis en cause par l'institution judiciaire. A cette fin, et parmi d'autres mesures relatives notamment à la limitation de la détention provisoire, il est envisagé qu'une personne placée en garde à vue puisse bénéficier de l'assistance d'un avocat dès la première heure de survenance de cette mesure privative de liberté. Toutefois, ce principe devrait souffrir quelques exceptions dans la lignée du droit actuel. Ainsi, lorsqu'une personne placée en garde à vue serait soupçonnée d'avoir commis des faits criminels susceptibles d'être qualifiés actes de terrorisme, infractions en matière de trafic de stupéfiants ou en relation avec le crime organisé, le droit d'accès à un avocat ne serait reconnu que lorsqu'un certain délai nécessaire à l'efficacité des investigations se serait écoulé. Un projet de loi en ce sens conciliant respect des droits de la défense et nécessités de la répression des infractions pénales sera soumis dans de très brefs délais à la représentation nationale par le Gouvernement.
