@@ -1,0 +1,9 @@
+# Réponse à la question SEQ921123546
+
+- Question : [SEQ921123546](seq921123546.md) — Paiement de la CSG par une veuve d'un travailleur non salarié non couverte par le régime général de la sécurité sociale
+
+## Réponse
+
+*Affaires sociales, JO du 1993-03-25, page 514*
+
+Réponse. - Il est rappelé que l'assiette de la contribution sociale généralisée n'est pas limitée aux revenus perçus par des personnes bénéficiant des prestations d'un régime de sécurité sociale. Les veuves de travailleurs non salariés peuvent ainsi en être redevables si elles perçoivent des revenus assujettis à cette contribution, alors même que la perception de ces revenus n'entraîne pas affiliation à titre obligatoire à un régime de sécurité sociale et qu'elles ne sont pas ou ne sont plus affiliées à un tel régime à l'issue de la période de maintien du droit aux prestations maladie du régime dont relevait leur époux. Il peut notamment s'agir de revenus de remplacement (rentes viagères constituées à titre onéreux), du patrimoine ou de placements. Il peut également s'agir de la régularisation de la contribution due sur le revenu des deux dernières années de l'activité non salariée du conjoint décédé. Cette régularisation est effectuée comme pour la cotisation personnelle d'allocations familiales lorsque les revenus de deux années sont connus, le plus souvent l'année suivant la cessation de l'activité. Elle permet de proportionner la cotisation et la contribution dues au titre d'une année au revenu effectivement réalisé au cours de cette année et peut être positive (appel complémentaire) ou négative (remboursement). Il n'est pas actuellement envisagé de modifier ces dispositions pour dispenser de contribution les revenus perçus par des personnes ne bénéficiant pas des prestations des régimes de sécurité sociale ou supprimer la régularisation des cotisations personnelles d'allocations familiales des travailleurs indépendants.
