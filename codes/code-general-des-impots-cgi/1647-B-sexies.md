@@ -8,8 +8,6 @@ I bis. Le plafonnement prévu au I s'applique sur la cotisation de taxe professi
 
 Il ne s'applique pas aux taxes visées aux articles 1600 à 1601 B ni aux prélèvements opérés par l'Etat sur ces taxes en application de l'article 1641. Il ne s'applique pas non plus à la cotisation minimum prévue à l'article 1647 D.
 
-Par exception, pour les impositions établies au titre de 1995 , le taux prévu à l'alinéa précédent est porté à 3,8 p. 100 pour les entreprises dont le chiffre d'affaires de cette même année est compris entre 140 millions de francs et 500 millions de francs, et à 4 p. 100 pour celles dont le chiffre d'affaires excède cette dernière limite.
-
 I ter. 1. Pour l'application du plafonnement en fonction de la valeur ajoutée des impositions établies au titre de 1996 et des années suivantes, la cotisation de taxe professionnelle s'entend de la somme des cotisations de chaque établissement calculées en retenant :
 
 D'une part, la base servant au calcul de la cotisation de taxe professionnelle établie au titre de l'année d'imposition au profit de chaque collectivité locale et établissement public de coopération intercommunale doté d'une fiscalité propre ;
@@ -18,7 +16,7 @@ Et, d'autre part, le taux de chaque collectivité ou établissement public de co
 
 Pour les communes membres d'un établissement public de coopération intercommunale à fiscalité additionnelle , la cotisation afférente à la part de la commune et de l'établissement public de coopération intercommunale est calculée en retenant la somme des taux votés par la commune et par l'établissement public de coopération intercommunale en 1995, ou la somme des taux votés par ces collectivités pour l'année d'imposition, si elle est inférieure. Lorsque les bases imposables au profit de l'établissement public de coopération intercommunale et de la commune sont différentes, la cotisation afférente à la part de chacune de ces collectivités est calculée en appliquant le taux qu'elle ont voté pour 1995 ou pour l'année d'imposition si la somme de leurs taux pour cette même année est inférieure à celle de 1995 ; lorsqu'un établissement public de coopération intercommunale à fiscalité additionnelle perçoit, pour la première fois à compter de 1996, la taxe professionnelle, en application des articles 1609 bis, 1609 quinquies et du I de l'article 1609 quinquies C, le taux retenu pour le calcul de la part de la cotisation revenant au établissement public de coopération intercommunale est égal, dans la limite du taux du établissement public de coopération intercommunale pour l'année d'imposition, à la différence si elle est positive entre le taux de la commune pour 1995 et le taux de cette collectivité pour l'année d'imposition, ou au taux de l'établissement public de coopération intercommunale pour l'année d'imposition si la somme des taux de la commune et de l'établissement public de coopération intercommunale pour cette même année est inférieure au taux de la commune pour 1995.
 
-2. Pour l'application des trois premiers alinéas du 1, lorsqu'un établissement public de coopération intercommunale perçoit, pour la première fois, à compter de l'année 2000, la taxe professionnelle au lieu et place des communes conformément à l'article 1609 nonies C, le taux à retenir pour le calcul de la cotisation éligible au plafonnement est le plus faible des deux taux suivants :
+2. Pour l'application du premier alinéa du 1, lorsqu'un établissement public de coopération intercommunale perçoit, pour la première fois, à compter de l'année 2000, la taxe professionnelle au lieu et place des communes conformément à l'article 1609 nonies C, le taux à retenir pour le calcul de la cotisation éligible au plafonnement est le plus faible des deux taux suivants :
 
 a. Le taux retenu pour le calcul des cotisations éligibles au plafonnement l'année précédant la première année où l'établissement public de coopération intercommunale perçoit la taxe professionnelle conformément à l'article 1609 nonies C pour la commune et, le cas échéant, le ou les établissements publics de coopération intercommunale auxquels il s'est substitué pour la perception de cet impôt.
 
@@ -44,8 +42,6 @@ Les consommations de biens et services en provenance de tiers comprennent : les 
 
 Lorsqu'en application du deuxième alinéa sont exclus des consommations de biens et services en provenance de tiers les loyers ou redevances que verse le preneur, les amortissements visés au 2° du 1 de l'article 39, autres que ceux comptabilisés en amortissements dérogatoires et se rapportant aux biens loués, sont déduits de la valeur ajoutée du bailleur.
 
-Lorsqu'en application du deuxième ou troisième alinéa, les loyers sont exclus des consommations de biens et services en provenance de tiers du contribuable qui les verse, les provisions et les amortissements se rapportant aux biens loués sont déduits de la valeur ajoutée du bailleur.
-
 3. La production des établissements de crédit, des entreprises ayant pour activité exclusive la gestion des valeurs mobilières est égale à la différence entre :
 
 D'une part, les produits d'exploitation bancaires et produits accessoires ;
@@ -68,4 +64,4 @@ III. (Abrogé pour les impositions établies au titre de 1993 et des années sui
 
 IV. Les dégrèvements résultant de l'application du présent article sont ordonnancés dans les six mois suivant celui du dépôt de la demande.
 
-V. Le dégrèvement accordé à un contribuable en application du présent article ne peut excéder un milliard de francs pour les impositions établies au titre de 1994 et 500 millions de francs au titre de 1995.
+V. Le dégrèvement accordé à un contribuable en application du présent article ne peut excéder un milliard de francs pour les impositions établies au titre de 1994 et 500 millions de francs au titre de 1995 et des années suivantes.
