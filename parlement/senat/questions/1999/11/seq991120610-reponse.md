@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991120610
+
+- Question : [SEQ991120610](seq991120610.md) — Incidences en France de la décision américaine de renforcer la sécurité des réservoirs d'avions
+
+## Réponse
+
+*Équipement, JO du 2000-05-18, page 1785*
+
+Réponse. - A la suite de l'accident du vol TWA 800, et sur recommandation du National transport safety board, les autorités aéronautiques américaines ont enjoint aux compagnies de procéder à des vérifications des systèmes d'alimentation en carburant de leurs avions moyens et gros porteurs et ont publié, fin octobre 1999, un projet de réglementation de façon à ce que les industriels vérifient la conception des réservoirs de carburant, en fonction de critères de sécurité, et que les exploitants mènent des opérations de maintenance. Ces dispositions s'appliqueront directement aux avions, y compris aux Airbus ou ATR, inscrits au registre d'immatriculation des Etats-Unis. De son côté, la direction générale de l'aviation civile, en coordination avec ses homologues européennes, a pris des mesures comparables vis-à-vis des constructeurs et des exploitants. Dès à présent, des modifications du sytème d'alimentation en carburant ont été définies et rendues obligatoires, aux Etats-Unis et en Europe. Un point est périodiquement fait avec les exploitants français afin de suivre les résultats des inspections. Par ailleurs, une analyse approfondie des incidents à conduit à prendre des mesures spécifiques s'appliquant aux pompes de carburant qui équipent l'Airbus A 300-600R. Pour les avions en cours de certification, tels l'Airbus A 340-500/600, les autorités européennes appliquent des critères d'analyse de la sécurité semblables, dans leur principe, à ceux inclus dans la réglementation américaine, de façon à éliminer les causes potentielles d'explosion des réservoirs.
