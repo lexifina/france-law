@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860601373
+
+- Question : [SEQ860601373](seq860601373.md) — Liquidation du corps des professeurs d'enseignement général de collèges (PEGC)
+
+## Réponse
+
+*Éducation, JO du 1986-10-09, page 1420*
+
+Réponse. -La récente décision de ne plus recruter les enseignants de collège qu'au niveau de la licence et, par voie de conséquence, de ne plus ouvrir les concours de recrutement de professeurs d'enseignement général de collège pour lesquels seul un diplôme de niveau bac + 2 était exigé traduit la volonté du ministre de l'éducation nationale d'élever le niveau de qualification des enseignants, dans le cadre d'une politique générale de renforcement de la qualité du système éducatif, dont les effets ne peuvent qu'être positifs pour les élèves des collèges. Cette décision, qui témoigne aussi de la continuité existant entre les enseignements assurés dans les collèges et ceux dispensés dans les lycées, ne préjudicie pas aux P.E.G.C. puisque leur corps est maintenu et qu'ils continuent à assurer leurs missions telles que celles-ci ont été précédemment définies. Bien au contraire, les possibilités d'accès au corps des professeurs certifiés, soit par le concours interne institué par l'article 9 du décret n° 72-581 du 4 juillet 1972 modifié, soit par voie d'inscription sur une liste d'aptitude prévue par l'article 27 du même décret, qui existent au bénéfice de certains enseignants, et notamment des P.E.G.C. possédant une licence et satisfaisant à certaines conditions d'âge et de service seront développées. Il convient de préciser que, dès cette année, le nombre de postes ouverts au concours interne organisé pour le recrutement de professeurs certifiés est porté de 2 000 à 3 000. Par ailleurs, un effort particulier sera consenti en faveur de la formation des personnels enseignant en collège.
