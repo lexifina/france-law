@@ -674,18 +674,6 @@ Article 11, alinéa 3.
 
 Décret n° 91-739 du 18 juillet 1991 relatif aux chambres de commerce et d'industrie, aux chambres régionales de commerce et d'industrie, à l'assemblée des chambres françaises de commerce et d'industrie et aux groupements interconsulaires
 
-1
-
-|
-
-Homologation des règlements intérieurs des groupements interconsulaires. Décision conjointe avec le ministre chargé du commerce.
-
-|
-
-Article 50.
-
-|
-
 2
 
 |
