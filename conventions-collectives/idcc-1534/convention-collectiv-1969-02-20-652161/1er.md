@@ -1,29 +1,41 @@
 # Article 1
 
-La présente convention règle, sur l'ensemble du territoire métropolitain, les rapports entre employeurs et salariés :
+Article 1er
 
-- travaillant dans les entreprises de l'industrie et des commerces en gros des viandes, dans celles du commerce du porc ainsi que dans celles spécialisées dans le négoce en gros, le traitement et la transformation des abats et de la triperie ;
+En raison de l'entrée en vigueur le 1er janvier 1993 de la nomenclature d'activités française, les parties signataires décident de réécrire le champ d'application de la convention collective nationale des entreprises de l'industrie et des commerces en gros des viandes comme suit :
 
-- et dont l'activité est classée soit sous le numéro 35-01, soit sous le numéro 57-04 de la nomenclature d'activités et de produits de 1973.
+La présente convention collective règle, sur l'ensemble du territoire métropolitain, les rapports entre les employeurs et les salariés des entreprises de l'industrie et des commerces en gros des viandes de boucherie (bovine, porcine, ovine et caprine), des abats de boucherie et de la triperie comestible.
 
-Elle s'applique, pour toutes les catégories d'emploi, à toutes les entreprises du commerce en gros des viandes de boucherie et de porc qu'il y ait abattage ou commercialisation nationale ou internationale, non seulement pour l'activité principale, mais également pour les activités annexes (triperie, cuir, Vè quartier, etc.).
+La présente convention collective s'applique lorsque l'activité principale des entreprises est l'une ou plusieurs des activités suivantes :
 
-Elle s'applique également aux abattoirs industriels privés, aux entreprises de transformation industrielle des viandes ainsi qu'aux entreprises d'exploitation tant des abattoirs publics que des marchés de viandes en gros (sociétés de manutention) lorsque la responsabilité de ces sociétés appartient au commerce en gros des viandes.
+- abattage et dépouille des animaux de boucherie ;
 
-Elle s'applique d'autre part aux entreprises spécialisées dans le négoce en gros et/ou le traitement et/ou la transformation des abats et de la triperie.
+- découpe des carcasses en quartiers, pièces et morceaux ;
 
-Restent en dehors du champ d'application les activités :
+- transformation des viandes de boucherie ;
 
-- de production du bétail ;
+- découpe et préparation des abats de boucherie et/ou fabrication de produits à base d'abats de boucherie et de triperie ;
 
-- de commerce de bétail vivant ;
+- commerce de gros des viandes de boucherie ;
 
-- de boucherie hippophagique en gros ;
+- commerce de gros d'abats de boucherie et de la triperie comestible.
 
-- de salaison ;
+Ces activités sont classées soit sous le code 151-A, soit sous le code 513-C de la nomenclature d'activités française de 1993.
 
-- de commerce de détail ;
+Restent en dehors du champ d'application les activités principales suivantes :
 
-- spécialisé dans le Vè quartier (hors abats en gros et triperie).
+- production du bétail ;
 
-Il est précisé que le champ d'application de cette convention s'entend à l'exclusion des coopératives agricoles, groupements agricoles et S.I.C.A. soumis au régime agricole.
+- commerce de bétail vivant ;
+
+- boucherie hippophagique en gros ;
+
+- boyauderie (boyaux animaux non comestibles) ;
+
+- salaison, charcuterie et conserves de viandes ;
+
+- production, transformation et commerce en gros de la volaille et des gibiers ;
+
+- commerce de détail ;
+
+- quartier autres que les abats de boucherie en gros et la triperie comestible.
