@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508692
+
+- Question : [SEQ980508692](seq980508692.md) — Adaptation des systèmes informatiques aux impératifs liés au passage à l'an 2000
+
+## Réponse
+
+*Industrie, JO du 1998-08-20, page 2717*
+
+Réponse. - La question du passage à l'an 2000 des systèmes électroniques est une des préoccupations prioritaires du gouvernement inscrites dans son programme d'action pour l'entrée de la France dans la société de l'information adopté en janvier 1998. Le ministre de l'économie, des finances et de l'industrie et le secrétaire d'Etat à l'industrie ont pris, le 20 février, la décision de confier à M. Gérard Thery la direction d'une " mission pour le passage informatique à l'an 2000 ". Au cours de sa conférence de presse du 20 mai, M. Christian Pierret a rappelé que l'un des objectifs prioritaires de la mission est de sensibiliser et informer l'ensemble des entreprises, et notamment les PME/PMI, des risques qu'elles encourent. Ainsi, un dispositif intitulé " plate-forme de mobilisation 2000 " est en cours de mise en place et viendra appuyer les actions entreprises par les organismes professionnels et les chambres consulaires auxquels il appartient particulièrement d'informer les petites et moyennes entreprises. Par ailleurs, le ministre de l'économie, des finances et de l'industrie, le secrétaire d'Etat au commerce, à l'artisanat et aux PME, et le secrétaire d'Etat à l'industrie ont adressé une lettre aux responsables des entreprises de moins de 200 salariés pour attirer leur attention sur les enjeux du passage informatique à l'an 2000 en leur proposant dix recommandations pour faire face à cette échéance. La mission de M. Gérard Thery poursuit activement ses travaux d'information et d'enquête. Elle présentera dans le courant de l'automne son rapport d'activité et son analyse de la situation française au ministre de l'économie, des finances et de l'industrie et au secrétaire d'Etat à l'industrie.
