@@ -36,11 +36,15 @@ Aucune canalisation étrangère au service du stockage (conduites d'eau, de gaz,
 
 Les réservoirs doivent être entourés, sur une épaisseur d'au moins 0,30 mètre au niveau de la génératrice médiane, d'au moins 0,50 mètre à la partie supérieure et d'au moins 0,20 mètre à la partie inférieure de matériaux tamisés et inertes (le sable de mer est à exclure) susceptibles d'être enlevés facilement.
 
-Si le stockage est semi-enterré, les génératrices inférieures des réservoirs ne doivent pas dépasser le niveau le plus bas du sol environnant et la partie des réservoirs située au-dessous du sol doit être entourée de matériaux tamisés et inertes dans les mêmes conditions que les réservoirs enterrés.
+Conformément aux schémas 1 et 2 ci-après, les réservoirs doivent être entourés, sur une épaisseur d'au moins 0,30 mètre, au niveau de la génératrice médiane et à la partie supérieure, et d'au moins 0,20 mètre à la partie inférieure, de matériaux tamisés et inertes (le sable de mer est à exclure) susceptibles d'être enlevés facilement. A la partie supérieure, dans l'épaisseur de 0,30 mètre requise, doit être incorporé un grillage avertisseur (plastique ou tout autre matériau d'efficacité équivalente) permettant de signaler la présence du réservoir eu cas de travaux de terrassement intempestifs. Ce grillage devra être situé à l'aplomb du réservoir, à au moins 0,1 mètre de la surface du sol et à au moins 0,1 mètre du sommet du réservoir.
+
+Vous pouvez consulter les shémas à l'adresse suivante :
+
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000353496?datePublication=27%2F02%2F1991&dateSignature=&init=true&nature=mVucbw%3D%3D&page=1&query=stockages&searchField=TITLE&tab_selection=jorf
 
 La partie située au-dessus du sol doit être entourée des mêmes matériaux, latéralement sur une épaisseur d'au moins 1 mètre et, à la partie supérieure, sur une hauteur d'au moins 0,50 mètre.
 
-L'épaisseur latérale de la protection peut être réduite à 0,30 mètre lorsqu'elle est doublée par un mur coupe-feu de degré quatre heures, dont la hauteur dépasse de 0,50 mètre la partie la plus haute du réservoir.
+L'épaisseur latérale de la protection peut être réduite à 0,30 mètre lorsqu'elle est doublée par un mur coupe-feu de degré quatre heures, dont la hauteur dépasse de 0,30 mètre la partie la plus haute du réservoir.
 
 Article 4
 
