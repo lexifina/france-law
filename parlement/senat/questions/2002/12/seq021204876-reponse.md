@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021204876
+
+- Question : [SEQ021204876](seq021204876.md) — Responsabilité d'un maire invalidé dans un Sivom
+
+## Réponse
+
+*Intérieur, JO du 2003-05-08, page 1560*
+
+Lorsqu'une commune est membre d'un syndicat intercommunal, le choix de ses délégués par le conseil municipal peut porter, aux termes de l'article L. 5212-7 du code général des collectivités territoriales, sur tout citoyen réunissant les conditions requises pour faire partie d'un conseil municipal. Il suffit donc, pour siéger valablement au sein d'un comité syndical, d'être éligible dans une quelconque commune. Si un maire ou un conseiller municipal par ailleurs délégué dans un syndicat intercommunal perd sa qualité d'élu communal en raison de l'annulation de son élection par la juridiction administrative, il convient de considérer les motifs de cette annulation. S'il s'agit de sanctionner des irrégularités commises dans le déroulement de la campagne électorale, par exemple, l'éligibilité de la personne concernée à un conseil municipal n'est pas mise en cause et elle garde la qualité qui lui permet d'exercer le mandat de délégué. En revanche, si l'annulation de l'élection repose sur l'inéligibilité du candidat et s'il s'agit d'une inéligibilité absolue qui lui interdit d'être élu à quelque conseil municipal que ce soit, la qualité requise pour être délégué fait défaut et l'inéligibilité entraîne automatiquement la perte du mandat de délégué. En tout état de cause, si le délégué dont l'élection au conseil municipal est invalidée peut poursuivre son mandat s'il reste éligible à un conseil municipal, à l'occasion de l'élection d'un nouveau maire, le conseil municipal devra procéder à une nouvelle désignation de ses délégués dans les organismes extérieurs, et donc au sein du syndicat intercommunal, comme le prévoit l'article L. 2122-10 du code susvisé.
