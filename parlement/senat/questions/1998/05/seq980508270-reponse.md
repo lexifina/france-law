@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508270
+
+- Question : [SEQ980508270](seq980508270.md) — Préoccupations des masseurs-kinésithérapeutes
+
+## Réponse
+
+*Santé, JO du 1999-03-18, page 898*
+
+Réponse. - L'honorable parlementaire appelle l'attention sur la situation des masseurs-kinésithérapeutes libéraux, plus précisément sur la revalorisation tarifaire de leurs actes. Cette revalorisation est intervenue par arrêté du 30 octobre 1998, paru au Journal officiel du 3 novembre 1998. Cet arrêté approuve un avenant à la convention nationale des masseurs-kinésithérapeutes, portant de 13 francs à 13,30 francs la valeur de la lettre clé AMK-AMC, qui rémunère l'essentiel des actes de masso-kinésithérapie. La revalorisation concerne également l'indemnité forfaitaire de déplacement des masseurs-kinésithérapeutes, dont le montant est porté de 11 francs à 12 francs. Enfin, les majorations de nuit et de dimanche, qui correspondent à la dispensation de soins urgents, sont portées respectivement de 40 francs à 60 francs et de 40 francs à 50 francs. Par ailleurs, une concertation particulière avec les représentants des infirmières et infirmiers, des masseurs-kinésithérapeutes, des orthophonistes et des orthoptistes exerçant en ville a été confiée à Mme Anne-Marie Brocas. Les travaux menés dans ce cadre ont porté sur l'adaptation des compétences professionnelles aux progrès de la science et des techniques, l'évolution de la démographie des professions et des conditions de leur exercice, compte tenu des transformations de l'organisation du système de santé, sur les conditions de gestion des nomenclatures des actes professionnels et d'encadrement des pratiques nécessaires à la promotion de la qualité des soins, ainsi que sur les instances de représentation. Le rapport de Mme Brocas a été remis et est actuellement soumis à l'examen des services du ministère.
