@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040512300
+
+- Question : [SEQ040512300](seq040512300.md) — Maintien des dispositions actuelles de la loi Evin
+
+## Réponse
+
+*Santé, JO du 2004-07-15, page 1594*
+
+Le nombre de décès attribuables à l'alcool en France est évalué à 45 000. L'alcool est directement à l'origine de pathologies comme la cirrhose du foie ou le syndrome d'alcoolisme foetal. Il est également impliqué dans la survenue de nombreux autres dommages : cancers des voies aérodigestives supérieures (VADS), maladies de l'appareil circulatoire, cancers du foie, névrites optiques, polynévrites, mais aussi troubles psychiques, accidents, rixes et suicides. Pour faire face à ce problème, la loi du 10 janvier 1991, dite " loi Evin ", réglemente la publicité des boissons alcooliques en France. Elle encadre la publicité pour les boissons alcooliques, mais ne l'interdit pas comme c'est le cas pour le tabac. A l'inverse de ce qu'allèguent des représentants de la filière viticole, la publicité pour le vin, et les alcools en général, est autorisée, notamment sur les supports écrits. Toutefois, le contenu du message publicitaire doit être informatif et se limiter aux indications suivantes : degré d'alcool, origine, dénomination, composition du produit, mode d'élaboration, mode de consommation, coordonnées du fabricant, des agents et dépositaires, éventuellement terroirs de production et récompenses obtenues. Toute publicité doit être assortie d'un message à caractère sanitaire précisant que l'abus d'alcool est dangereux pour la santé. Par conséquent, la loi Evin ne saurait être considérée comme prohibitionniste. L'assouplissement de la réglementation actuelle en vue de favoriser la publicité pour le vin constituerait une rupture de cohérence avec les priorités du Président de la République, que sont la lutte contre le cancer, la violence routière et le handicap qui ont l'alcool en commun.
