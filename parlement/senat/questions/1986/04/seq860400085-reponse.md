@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860400085
+
+- Question : [SEQ860400085](seq860400085.md) — Délai de construction d'un nouveau commissariat à Montgeron (Essonne)
+
+## Réponse
+
+*Intérieur, JO du 1986-06-26, page 896*
+
+Réponse. -L'exiguïté des locaux actuels, pris à bail auprès des propriétaires privés, justifie en effet largement le relogement du commissariat de police de Montgeron dans une construction neuve bien adaptée à ses besoins. Le programme immobilier préparé fin 1985, pour l'exécution du budget 1986, a partiellement pris en compte ce besoin en réservant un crédit de 250 000 francs en autorisation de programme et en crédit de paiement pour le financement des études. En revanche, les financements nécessaires à la construction proprement dite n'ont pas été inscrits sur le présent budget. Deux solutions pour l'implantation de ce commissariat avaient été envisagées : l'une sur l'axe routier C.D. 31, en limite des communes de Montgeron et de Vigneux, l'autre mieux située, au centre de la commune de Montgeron, à proximité de l'actuel commissariat, rue de la République. C'est en définitive cette dernière formule qui apparaît préférable, car elle permettra de rapprocher la police de la population, et ainsi de mieux répondre à l'attente des élus et des habitants ; le corollaire de cette décision est que les moyens des deux bureaux de police de Vigneux et de Draveil seront, dans le même temps, étoffés. Pour ce qui est des délais, le financement des travaux n'étant pas prévu, comme cela vient d'être indiqué, dans le budget de 1986, c'est en 1987 que le chantier pourrait démarrer. La commune de Montgeron m'a fait savoir qu'elle était prête à assurer la maîtrise d'ouvrage de cette construction en vue de gagner du temps ; des discussions sont en cours avec elle pour mettre au point la procédure en question.
