@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011237198
+
+- Question : [SEQ011237198](seq011237198.md) — Projet d'évaluation d'actions innovantes
+
+## Réponse
+
+*Éducation, JO du 2002-04-25, page 1169*
+
+L'évaluation des actions innovantes constitue une double nécessité. Pour le système éducatif, cette évaluation permet de mesurer la pertinence des actions entreprises et d'en déterminer les conditions d'extension ou de généralisation. Pour les équipes engagées dans l'innovation, l'évaluation permet de fixer des repères qui ne soient pas limités au seul regard de l'équipe elle-même et de situer les effets de l'innovation sur les apprentissages des élèves, leur formation citoyenne, le fonctionnement des équipes pédagogiques et des établissements. Dans ce contexte, la direction des enseignements scolaires a mis en place dès 1999 un groupe de travail sur l'évaluation des pratiques innovantes. Un séminaire national sur ce thème a eu lieu en mars 2001, et les actes de ce séminaire seront prochainement publiés. Au sein du Conseil national pour l'innovation et la réussite scolaire (CNIRS), un groupe de travail sur l'évaluation est mis en place. Il a pour charge, en lien avec les corps d'inspection, la direction de la prospective et le Haut Conseil de l'évaluation, de mettre au point les protocoles d'évaluation dont les équipes ont besoin. A terme, ce groupe travaillera également sur les évolutions souhaitables pour l'évaluation des élèves dans le système scolaire. Dans chaque académie, les recteurs ont mis en place un comité de suivi des actions innovantes, dont les corps d'inspection territoriale sont partie prenante et auquel est associée l'inspection générale. La lettre conjointe adressée le 26 octobre 2001 aux équipes innovantes par le CNIRS et la direction de l'enseignement scolaire demande que soient explicitées les modalités de l'évaluation des actions entreprises. Un dispositif cohérent est ainsi mis à disposition du système éducatif et des équipes innovantes.
