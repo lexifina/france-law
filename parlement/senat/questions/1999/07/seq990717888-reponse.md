@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990717888
+
+- Question : [SEQ990717888](seq990717888.md) — Sous-effectif de fonctionnaires dans le Nord
+
+## Réponse
+
+*Fonction publique, JO du 1999-09-30, page 3234*
+
+Réponse. - Les taux d'administration de chaque département, mesurant le poids des effectifs en poste dans la fonction publique sur l'ensemble de la population, ont été établis à partir des données les plus récentes (fin 1996) pour chacune des différentes composantes de la fonction publique. L'Etat, l'enseignement privé sous contrat, les établissements publics nationaux, La Poste, France Télécom, constituent la fonction publique de l'Etat (au sens large). En ajoutant la fonction publique territoriale et la fonction publique hospitalière, on obtient l'ensemble de la fonction publique. Avec 200 000 agents civils employés dans les trois fonctions publiques, le département du Nord dispose de 7,84 agents pour 100 habitants. La moyenne nationale s'établit, pour sa part, à 8,37 agents pour 100 habitants (7,95 agents pour 100 habitants si l'on exclut Paris). Ce ratio place le département au 50e rang sur 100 dans le classement national (les 96 départements métropolitains et les 4 départements d'outre-mer). La situation est sensiblement la même si on ne considère que les seuls services de l'Etat (hors enseignement privé sous contrat, établissements publics nationaux, La Poste et France télécom). En effet, le taux d'administration s'élève dans ce cas à 3,01 fonctionnaires pour 100 habitants. La moyenne nationale s'élevant à 3,16, le Nord se situe en 51e position. Dans la fonction publique hospitalière, on recense 36 000 agents dans le Nord fin 1996. Ce département occupe la 70e place en France pour le nombre de ses fonctionnaires hospitaliers par rapport à la population. Le ratio est plus favorable dans la fonction publique territoriale. Avec ses 55 700 agents, le département du Nord se situe au 47e rang pour le nombre relatif de fonctionnaires territoriaux.
