@@ -1,0 +1,17 @@
+# Article 3 : Conditions d'obtention de l'aide
+
+Pour bénéficier de l'aide de l'Etat prévue par la loi du 13 juin 1998, les dispositions de l'accord d'entreprise ou d'établissement devront notamment comprendre :
+
+- les échéances de la réduction du temps de travail applicables dans l'entreprise en référence à la durée initiale du travail, ainsi que les modalités d'organisation du temps de travail et de décompte de ce temps applicables aux salariés (y compris celles relatives aux personnels d'encadrement lorsque ces modalités sont spécifiques), et les modalités et délais selon lesquels les salariés doivent être prévenus en cas de modification de l'horaire ;
+
+- les dispositions relatives au suivi de sa mise en oeuvre dans l'entreprise et les conséquences susceptibles d'être tirées de la réduction du temps de travail sur les contrats de travail à temps partiel, sur la situation des salariés travaillant de façon permanente en équipes successives, ainsi que les conditions particulières selon lesquelles la réduction du temps de travail s'applique aux personnels d'encadrement ;
+
+- le nombre d'embauches compensatrices par catégories professionnelles en contrepartie de la réduction du temps de travail ainsi que le calendrier prévisionnel de ces embauches. Ces embauches devront être réalisées dans un délai d'un an à compter de la réduction effective du temps de travail et selon les modalités fixées par le décret n° 98-494 du 22 juin 1998 ;
+
+- l'entreprise doit s'engager à maintenir l'effectif moyen annuel (exprimé en équivalent temps plein) augmenté des nouvelles embauches concernées par cette réduction pendant une durée au moins égale à 2 ans à compter de la dernière embauche effectuée ;
+
+- en cas de réduction du temps de travail organisée en tout ou partie sous forme de jours de repos, l'accord détermine les modalités de prise de ces repos, pour partie au choix du salarié et pour partie au choix de l'employeur, et, dans la limite de l'année, les délais maxima dans lesquels ces repos sont pris ainsi que les modalités de répartition dans le temps des droits à rémunération en fonction du calendrier de ces repos ;
+
+- le niveau et les modalités des compensations de rémunération susceptibles d'accompagner cette réduction du temps de travail, suivant les principes visés à l'article 4 ci-après ;
+
+- dans le cas d'un accord d'entreprise ou d'établissement destiné à éviter par la réduction du temps de travail des licenciements prévus dans le cadre d'une procédure de licenciement collective pour motif économique, celui-ci détermine le nombre d'emplois que la réduction du temps de travail permet de préserver (ce nombre exprimé en équivalent temps plein est au moins égal à 6 % de l'effectif auquel s'applique la réduction du temps de travail) et la durée pendant laquelle l'effectif concerné est maintenu (elle ne peut être inférieure à 2 ans).

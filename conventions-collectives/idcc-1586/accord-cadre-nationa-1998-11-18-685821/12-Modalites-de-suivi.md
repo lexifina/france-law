@@ -1,0 +1,5 @@
+# Article 12 : Modalités de suivi
+
+Les parties signataires réunies en commission nationale de suivi procéderont tous les 2 ans à un examen des accords d'entreprise et d'établissement relatifs à l'aménagement-réduction du temps de travail conclus dans le cadre du présent accord et leur incidence sur l'emploi. En cas de difficultés dans l'application de cet accord au niveau d'une entreprise ou d'un établissement, la commission nationale de suivi se réunira à la demande d'une des parties signataires afin de donner un avis.
+
+De même, dans chaque entreprise ou établissement mettant en oeuvre une démarche de réorganisation du travail, un groupe de travail mixte sera également créé afin d'associer les salariés à la réflexion sur les changements des modes d'organisation du travail et les incidences sur les conditions de travail. Ce groupe sera composé de représentants de la direction, de salariés et de représentants du personnel. Ce groupe se réunira ensuite une fois par semestre afin d'examiner la mise en oeuvre des dispositions instituées au niveau interne et notamment les mesures en faveur de l'emploi.
