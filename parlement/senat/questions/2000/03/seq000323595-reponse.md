@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000323595
+
+- Question : [SEQ000323595](seq000323595.md) — Mise en place d'un système centralisé pour autoriser l'utilisation, dans l'alimentation animale, des produits non conventionnels
+
+## Réponse
+
+*Affaires européennes, JO du 2000-06-22, page 2198*
+
+Réponse. - L'honorable parlementaire a bien voulu appeler l'attention du ministre délégué chargé des Affaires européennes sur le Libre blanc relatif à la sécurité alimentaire adopté le 12 janvier 2000 par la Commission européenne. Ce Livre blanc comporte un plan d'action très ambitieux pour les trois prochaines années, qui vise à effectuer une refonte d'ensemble de la législation communautaire. Il fait actuellement l'objet d'un examen exhaustif au sein des instances du Conseil de l'Union européenne. En première approche, la France a accueilli favorablemetn les orientations proposées par la Commission, qui correspondent à la plupart des attentes exprimées par notre pays dans sa réponse à une précédente communication de la Commission relative à la législation alimentaire (livre vert de 1997). Comme le souligne l'honorable parlementaire, la Commission européenne s'apprête à proposer de mettre en place, à l'instar de ce qui existe pour l'alimentation humaine, une procédure d'évaluation des nouveaux aliments pour animaux (notamment des OGM et de leurs produits dérivés) et d'établir les règles d'étiquetages correspondantes. La France estime que de telles dispositions sont de nature à répondre aux demandes des éleveurs et des consommateurs et qu'elles doivent par conséquent être soutenues. Les autorités françaises soulignent par ailleurs que, dans l'attente des dispositions communautaires pertinentes, un avis national aux opérateurs de la filière de l'alimentation animale en date du 2 févriere 1997 permet d'exiger l'étiquetage des OGM ou de leurs produits dérivés à l'alimentation animale.
