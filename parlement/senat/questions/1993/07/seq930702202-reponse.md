@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930702202
+
+- Question : [SEQ930702202](seq930702202.md) — Poursuite de la production d'aluminium en France
+
+## Réponse
+
+*Industrie, JO du 1993-09-16, page 1656*
+
+Réponse. - Le ministre a depuis longtemps pris la mesure des problèmes rencontrés par Aluminium Péchiney du fait des flux d'importations à bas prix originaires de la CEI. Ceux-ci ont atteint près de 350 000 tonnes en 1992 dans la CEE, sur un total de 500 000 tonnes d'aluminium brut exporté par l'ex-URSS. Il est clair que ces pratiques commerciales déloyales pénalisent fortement les activités de production d'aluminium en France. En conséquence, le Gouvernement français a demandé à la Commission des communautés européennes l'instauration d'une sauvegarde communautaire pour laquelle une procédure d'enquête a été officiellement ouverte le 22 février dernier. Une consultation des Etats membres a été organisée à Bruxelles le 23 juillet 1993 sur la base d'un rapport d'enquête établi par la commission. Ce rapport confirme la gravité de la situation et offre un choix de quatre solutions alternatives, parmi lesquelles figure une clause de sauvegarde communautaire. A cette occasion, le Gouvernement français s'est efforcé de convaincre ses autres partenaires européens du bien-fondé de cette solution pour l'ensemble de l'industrie communautaire, et d'obtenir un contingent quantitatif d'un montant satisfaisant. Le 6 août dernier, la Commission a arrêté un règlement (no 2227 93) soumettant à restriction quantitative les importations d'aluminium brut originaire d'Arménie, d'Azerbaïdjan, du Bélarus, de Géorgie, du Kazakhstan, du Kirghizstan, de Moldova, de Russie, du Tadjikistan, du Turkménistan, d'Ouzbékistan, d'Ukraine, d'Estonie, de Lettonie et de Lituanie. Les importations pour la Communauté sont limitées à 60 000 tonnes pour la période allant du 7 août au 30 novembre 1993 (J.O.C.E. du 7 août 1993, no L. 198).
