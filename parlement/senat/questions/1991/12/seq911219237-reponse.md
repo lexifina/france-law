@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911219237
+
+- Question : [SEQ911219237](seq911219237.md) — Constitution d'une banque de données sur le commerce international
+
+## Réponse
+
+*Industrie, JO du 1992-09-10, page 2071*
+
+Réponse. - Une série de propositions a été faite, dans le cadre du plan PME-PMI, afin d'aider les petites et moyennes entreprises à exporter. Dès 1989 et dans le but de favoriser l'information de ces sociétés sur les marchés extérieurs, plusieurs mesures avaient, toutefois, été arrêtées dans le cadre de la Charte nationale de l'exportation. Le Centre français du commerce extérieur (CFCE) a, en effet, été confirmé dans son rôle de centrale d'informations sur les marchés étrangers. Le CFCE a, désormais, la charge de la collecte, du traitement et de la diffusion de l'information en provenance notamment des postes d'expansion économique (PEE). Cette information est, en outre, décentralisée en régions par le canal de vingt-cinq centres régionaux de documentation internationale (CRDI), installés auprès des chambres régionales ou locales de commerce et d'industrie. La direction des relations économiques extérieures devrait, en outre, mettre en place au cours des prochainsmois un programme informatique commun permettant des liaisons PEE-CFCE-DREE. Ce schéma permettra aux entreprises d'avoir accès par Minitel à une banque de données parfaitement actualisée sur les marchés extérieurs. S'agissant des sociétés de commerce international, la fédération professionnelle envisage la mise en oeuvre d'un projet " centre de rapprochement export " (CEREX) : identification des SCI françaises et spécialisation par pays-produits avec accès par Minitel (différent donc d'une banque de données sur les marchés extérieurs). Les pouvoirs publics se doivent d'encourager cette initiative qui conserve néanmoins un caractère privé.
