@@ -1,0 +1,39 @@
+# Article 1er
+
+1.1. Départ volontaire à la retraite.
+
+Tout salarié quittant volontairement l'entreprise, pour bénéficier du droit à une pension de vieillesse au titre des articles L. 351-1-1 et L. 351-1-3 (1) du code de la sécurité sociale, aura droit à l'indemnité conventionnelle de départ à la retraite.
+
+Pour ce faire, l'intéressé devra justifier par écrit de son droit à l'employeur avec les justificatifs utiles. Cette mesure s'applique rétroactivement aux salariés ayant pris leur retraite depuis le 1er janvier 2004.
+
+1.2. Mise à la retraite
+
+Paragraphe A
+
+L'employeur a la possibilité de rompre le contrat de travail des salariés bénéficiant d'une pension de vieillesse au taux plein au sens du code de la sécurité sociale, et ayant atteint l'âge fixé au premier alinéa de l'article L. 351 du même code (2).
+
+Dans le cas où il utiliserait cette possibilité, l'employeur vérifiera auprès du salarié s'il remplit les conditions prévues ci-dessus. A cet effet, il devra notifier au salarié son intention de le mettre à la retraite par lettre recommandée avec accusé de réception. Si le salarié ne remplit pas les conditions d'ouverture du droit à une pension de vieillesse au taux plein, il devra en justifier dans un délai de 3 mois par la production de la réponse qui lui aura été apportée par la sécurité sociale ou apporter la preuve des démarches qu'il aura effectuées.
+
+S'il peut prétendre à une pension de vieillesse au taux plein, l'employeur pourra prendre l'initiative de la mise à la retraite de l'intéressé dans un délai de 3 mois suivant la date à laquelle le salarié aura justifié pouvoir prétendre à une pension de vieillesse au taux plein.
+
+L'employeur devra respecter un délai de prévenance égal au délai de préavis conventionnel.
+
+L'initiative de l'employeur ne pourra être finalisée qu'après un échange de vues avec le salarié. Ce dernier pourra obtenir, à titre exceptionnel s'il justifie avoir des personnes à sa charge au sens du code général des impôts, le report de sa mise à la retraite par un doublement du délai de prévenance initial que doit respecter l'employeur.
+
+L'employeur versera, au moment de la rupture du contrat de travail, une indemnité conventionnelle de mise à la retraite égale à 1,3 fois le montant de l'indemnité conventionnelle de départ volontaire à la retraite.
+
+Pour les salariés comptabilisant plus de 35 ans d'ancienneté dans l'entreprise, il sera tenu compte, pour le calcul de l'indemnité de mise à la retraite, d'un bonus d'ancienneté de 5 années.
+
+Paragraphe B
+
+L'employeur a la possibilité de rompre le contrat de travail d'un salarié, pour lequel l'âge minimum prévu au premier alinéa de l'article L. 351-1 du code de la sécurité sociale est abaissé dans les conditions prévues par les articles L. 351-1-1 et L. 351-1-3 du même code (3) et qui peut, dans ces conditions, bénéficier d'une pension de vieillesse au taux plein au sens du code de la sécurité sociale. Cette rupture s'analyse en une mise à la retraite qui ouvre droit aux mêmes garanties conventionnelles que celles fixées ci-dessus au paragraphe A.
+
+(1) Bénéfice d'une pension de vieillesse au taux plein avant 60 ans, décret d'application du 30 octobre 2003. (2) 60 ans à la date de signature du présent accord par renvoi à l'article R. 351-2. (3) Accord relatif à la suppression progressive de la procédure de mise à la retraite avant 65 ans.
+
+NOTA :
+
+(1) Bénéfice d'une pension de vieillesse au taux plein avant 60 ans, décret d'application du 30 octobre 2003.
+
+(2) 60 ans à la date de signature du présent accord par renvoi à l'article R. 351-2.
+
+(3) Accord relatif à la suppression progressive de la procédure de mise à la retraite avant 65 ans.
