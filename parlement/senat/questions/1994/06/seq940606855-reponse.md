@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940606855
+
+- Question : [SEQ940606855](seq940606855.md) — Situation de l'université du Hainaut-Cambrésis
+
+## Réponse
+
+*Enseignement supérieur, JO du 1994-08-25, page 2071*
+
+Réponse. - Le contrat d'établissement signé entre le ministère de l'enseignement supérieur et de la recherche et l'université de Valenciennes pour une durée de quatre ans (1990-1993) a permis de réaliser un gros effort en faveur de cet établissement. Ainsi, 131 emplois enseignants et 30 emplois IATOS y ont été créés. Cet effort a été poursuivi cette année puisque 26 emplois supplémentaires enseignants et 2 emplois IATOS ont été attribués à l'université de Valenciennes. En outre, sa dotation globale de fonctionnement (20 257 000 F) a augmenté de 14,7 p. 100 par rapport à 1993 alors que la moyenne nationale d'augmentation pour les universités est de 4,07 p. 100. Néanmoins, l'université de Valenciennes, du fait d'une croissance rapide de ses effectifs étudiants, continue à présenter un retard en emplois et en crédits par rapport à la moyenne constatée de l'ensemble des universités françaises. Aussi l'objectif du nouveau contrat d'établissement 1994-1997 est-il de poursuivre l'effort en vue de rapprocher les dotations en emplois de la moyenne nationale et de faire bénéficier l'université d'une dotation globale de fonctionnement égale à sa dotation théorique. Ceci dans la mesure des possibilités offertes par les budgets qui seront alloués au ministère de l'enseignement supérieur et de la recherche. Dès cette année, l'Etat s'engage à verser une subvention spécifique de fonctionnement de 3 MF correspondant à la rétribution de 30 emplois administratifs et techniques. Cette subvention sera portée à 4,5 MF en 1995, 1996 et 1997. En outre, 0,5 MF sera attribué au titre de l'année 1994 pour le fonctionnement des 12 000 m2 nouveaux. Ces derniers crédits seront prévus en 1995 dans la dotation initiale de fonctionnement.
