@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961118628
+
+- Question : [SEQ961118628](seq961118628.md) — Participation de France Télévision à l'achat de films étrangers
+
+## Réponse
+
+*Culture, JO du 1997-04-24, page 1287*
+
+Réponse. - L'honorable parlementaire demande au ministre de la culture si les engagements de garantie apportée par France 2 et France 3 pour le contrat signé entre TPS et une société de production américaine se justifient et s'il maintient la participation de France Télévision à ce contrat. En ce qui concerne la justification économique de ces engagements, le ministre de la culture observe que les chaînes diffusées par TPS, comme toutes les chaînes, devront respecter les quotas de diffusion. Or si ceux-ci prévoient 60 % de films français et européens, il est normal que TPS, comme le fait Canal Satellite, représente également une nouvelle chance pour le cinéma français, qui devrait trouver ainsi de nouvelles sources de financement. Le cinéma français se porte de mieux en mieux, comme l'atteste la reprise de fréquentation des salles, et les chaînes numériques peuvent conforter dans l'avenir ce nouvel élan. Pour toutes ces raisons, le ministre de la culture souhaite le maintien des engagements contractuels de France Télévision dans TPS, qui correspondent à une stratégie d'entreprise fondée sur une analyse pertinente des nouveaux marchés ouverts par le numérique. Cette participation a, en outre, le mérite d'assurer durablement en numérique la présence des programmes généralistes existants, en favorisant de surcroît le développement des programmes spécifiques thématiques de radio et de télévision du secteur public audiovisuel. Elle permet également sur les marchés naissants de la télévision par abonnement, de développer une concurrence favorable au public, aux diffuseurs, aux éditeurs indépendants et aux détenteurs de droits et d'animer le secteur français de l'industrie des programmes.
