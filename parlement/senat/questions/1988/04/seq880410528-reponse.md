@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880410528
+
+- Question : [SEQ880410528](seq880410528.md) — Sort des créances des personnes publiques nées de la révocation d'un acte attributif de subvention
+
+## Réponse
+
+*Économie, JO du 1988-05-10, page 664*
+
+Réponse. -Les primes et subventions accordées à des entreprises par des collectivités publiques restent définitivement acquises à celles-ci dès lors que les conditions prévues et les délais fixés par l'acte attributif ont été respectés. L'ouverture d'une procédure de redressement judiciaire n'est pas en elle-même de nature à rendre exigibles de telles aides. La décision d'annulation, totale ou partielle, doit en principe être prise dès lors que la non-réalisation du programme peut être constatée et il appartient alors à la collectivité publique de déclarer la créance dans les formes et délais prévus par la loi du 25 janvier 1985. Si la créance n'a pu être déclarée dans les délais, seule la procédure de relevé de forclusion peut permettre à la collectivité publique un recouvrement dans le cadre de la procédure collective. S'agissant du comportement à adopter, les collectivités publiques ont le choix entre l'octroi à l'entreprise de délais supplémentairespour la réalisation des conditions prévues dans la décision de subvention, ce qui évite d'alourdir le passif, et la déclaration de créance qui préserve leur intérêt. Dans cette dernière hypothèse, une remise peut être consentie au débiteur dans le cadre du plan de redressement proposé aux créanciers. La situation des collectivités publiques n'est pas de ce point de vue différente de celle des autres créanciers. Il n'apparaît pas opportun de modifier sur ce point les textes en vigueur qui permettent de concilier les intérêts des créanciers et les exigences de la procédure de redressement judiciaire.
