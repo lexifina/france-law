@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960917543
+
+- Question : [SEQ960917543](seq960917543.md) — Nature du bulletin de prévisions météorologiques marines dans le secteur côtier des Alpes-Maritimes
+
+## Réponse
+
+*Équipement, JO du 1997-03-27, page 960*
+
+Réponse. - Un changement a effectivement eu lieu, le 1er août 1996, dans la diffusion des bulletins de prévisions météorologiques marines dans le secteur côtier des Alpes-Maritimes. Jusqu'à cette date, étaient en effet diffusés, trois fois par jour, des bulletins dits " Rivage " couvrant le littoral de Cannes à Menton. Ces bulletins ont été remplacés par des bulletins dits " Côte " couvrant la même portion du littoral et diffusés à la même fréquence. Cette modification a été effectuée en accord avec le conseil général des Alpes-Maritimes et après consultation de la Commission marine du Conseil supérieur de la météorologie, commission dans laquelle les usagers (pêche, marine marchande et plaisance) sont largement représentés. Les bulletins " Rivage ", limités à 2 milles nautiques des côtes, qui n'avaient pas pour vocation première d'assurer la sécurité des plaisanciers, mais plutôt le confort des amateurs de sports nautiques de bord de mer, restent accessibles par serveur téléphonique (08-36-68-08-06 pour les Alpes-Maritimes), donc par radiotéléphone VHF. Ces bulletins sont rédigés par les centres départementaux de la météorologie concernés. Les bulletins " Côte ", couvrant une bande côtière s'étendant jusqu'à 20 milles nautiques au large, sont diffusés en VHF, renouvelés trois fois par jour et complétés par des bulletins météorologiques spéciaux (BMS) en cas de prévision de dépassement de la force du vent de 7 Beaufort (28 noeuds). Ces bulletins spécifiques, réellement conçus pour remplir aux mieux la mission de sécurité, sont rédigés par des services permanents spécialisés en prévision marine.
