@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011136524
+
+- Question : [SEQ011136524](seq011136524.md) — Application du principe de réciprocité pour le paiement des retraites des Français d'Afrique
+
+## Réponse
+
+*Affaires étrangères, JO du 2002-02-28, page 633*
+
+Le ministère des affaires étrangères, préoccupé par l'ampleur du préjudice occasionné aux ressortissants français ayant travaillé dans les Etats de la zone d'Afrique francophone, rappelle, qu'en l'absence de convention de sécurité sociale entre la France et le Tchad ainsi que la République Centrafricaine, seules les législations nationales peuvent s'appliquer, qu'elles prévoient l'exportation des pensions, à l'instar de la France, ou non. C'est la raison pour laquelle il veille à ce que les contacts avec les autorités tchadiennes et centrafricaines s'intensifient, afin d'apporter une réponse aussi efficace que possible aux difficultés rencontrées par les retraités français dans la gestion de leurs dossiers et le versement de leurs pensions. Dans ce contexte, les services du ministère des affaires étrangères étudient actuellement des voies qui permettraient de régler la situation des pensionnés français en tenant compte de l'extrême fragilité de la situation financière des organismes de protection sociale. Il est donc important de rappeler que la meilleure garantie pour les français expatriés contre de futurs aléas monétaires ou des défaillances de régimes étrangers de sécurité sociale est d'être couverts par le système français de protection sociale pendant la durée de leur activité à l'étranger. Cela passe soit par la demande de maintien au régime obligatoire français présentée par l'employeur en France si les intéressés sont en position de détachement, soit de façon plus générale par la demande d'adhésion à l'assurance volontaire vieillesse auprès de la caisse des Français de l'étranger mais qui ne dispense pas du versement des cotisations dans le pays d'emploi.
