@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000927787
+
+- Question : [SEQ000927787](seq000927787.md) — Information des professionnels de la santé sur les troubles du langage oral et écrit
+
+## Réponse
+
+*Santé, JO du 2001-05-24, page 1789*
+
+Réponse. - Le 5 juillet 2000, un comité interministériel santé-éducation nationale a été mis en place pour proposer un plan d'action global sur la prise en charge des enfants porteurs de troubles spécifiques d'apprentissage du langage écrit et oral. Le 21 mars dernier, après une très large concertation non seulement des professionnels mais également des associations de familles, les ministres concernés ont rendu public un plan d'action triennal comportant vingt-huit mesures. Ce plan prévoit d'améliorer la prévention des troubles dès la maternelle, de mieux repérer les enfants porteurs de tels troubles et naturellement d'améliorer leur prise en charge tout en favorisant le plus souvent possible leur intégration dans des circuits de soins et des circuits éducatifs traditionnels. Un très petit nombre de ces enfants présente des troubles tellement sévères qu'il est nécessaire de recourir à des circuits spécialisés du secteur médico-social au sens des annexes XXIV du décret de 1956 ou à des séjours en maison d'enfants à caractère sanitaire, Ces dernières sont effectivement très peu nombreuses à s'être impliquées dans ce domaine. Un suivi très attentif de ce plan a par ailleurs été mis en place et est coordonné au sein du ministère de la santé par la direction générale de la santé. Une mission de l'inspection générale des affaires sociales (IGAS) et de l'inspection générale de l'éducation nationale (IGEN) sera mise en place au cours de l'année 2001 pour réévaluer la place et les missions des différents dispositifs. Au vu de ses conclusions, un groupe de travail des deux ministères concernés, santé et éducation nationale, se réunira pour proposer les évolutions nécessaires.
