@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861003261
+
+- Question : [SEQ861003261](seq861003261.md) — Sociétés commerciales: notification aux actionnaires des prises de contrôle et de participation et contenu du rapport de gestion
+
+## Réponse
+
+*Justice, JO du 1986-12-18, page 1761*
+
+Réponse. -Aux termes de l'article 356-3 de la loi n° 66-537 du 24 juillet 1966, les dirigeants doivent mentionner dans le rapport annuel de gestion, l'identité des personnes physiques et morales possédant plus du dixième, du tiers ou de la moitié du capital, le nom des sociétés contrôlées et la part du capital de la société qu'elles détiennent ainsi que les modifications relatives à l'identité des personnes possédant des participations significatives. Cette dernière information, ainsi que cela résulte expressément de la loi, ne concerne que les modifications intervenues au cours d'un exercice. Les actionnaires ne doivent donc en être informés qu'à l'assemblée générale suivant la clôture de cet exercice. En revanche, les autres informations ne concernent pas un événement intervenu au cours d'un exercice mais une situation qui, bien que variant d'un exercice à l'autre, est caractérisée par une certaine permanence. Ainsi, l'indication de l'identité des personnes possédant plus du dixième, du tiers ou de la moitié du capital social, permet de faire connaître aux actionnaires la composition exacte du capital de la société. De même, la désignation des sociétés contrôlées et l'indication de la part du capital de la société qu'elles détiennent ont pour objet d'assurer une transparence des sociétés contrôlées afin de faciliter l'application de la réglementation sur l'autocontrôle. En conséquence et sous réserve de l'appréciation souveraine des tribunaux, les dirigeants de la société doivent faire figurer, chaque année, ces deux informations dans le rapport de gestion.
