@@ -2,7 +2,7 @@
 
 La taxe professionnelle et les taxes additionnelles sont recouvrées par voie de rôles suivant les modalités et sous les garanties et sanctions prévues en matière de contributions directes.
 
-Elles donnent lieu au versement d'un acompte, égal à 50 % du montant des taxes mises en recouvrement au titre de l'année précédente, avant le 1er avril de l'année courante. L'acompte n'est pas dû si ce montant est inférieur à 1 500 euros.
+Elles donnent lieu au versement d'un acompte, égal à 50 % du montant des taxes mises en recouvrement au titre de l'année précédente, avant le 1er avril de l'année courante. L'acompte n'est pas dû si ce montant est inférieur à 3 000 euros.
 
 L'acompte est exigible le 31 mai et il est fait application des dispositions du 2 et du 3 de l'article 1664 pour son recouvrement et celui du solde de la taxe. Cet acompte est arrondi à l'euro le plus proche ; la fraction d'euro égale à 0,50 est comptée pour 1.
 
