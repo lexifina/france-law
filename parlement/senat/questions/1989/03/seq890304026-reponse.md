@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890304026
+
+- Question : [SEQ890304026](seq890304026.md) — Réglementation concernant certains stages
+
+## Réponse
+
+*Travail, JO du 1990-04-12, page 828*
+
+Réponse. - Aucune disposition législative ou réglementaire ne fixe à l'heure actuelle un cadre juridique spécifique aux stages dits " de motivation " ou de " survie ". Toutefois, l'existence d'un contrat de travail entre le " stagiaire " salarié d'une entreprise et l'employeur organisateur d'un tel stage permet de présumer de la responsabilité civile et pénale de ce dernier. L'accident dont serait victime le salarié soumis à ces stages peut être assimilé à un accident du travail et entraîner l'application des règles particulières définies aux articles L. 122-32-1 et suivants du code du travail. Sans nier la valeur pédagogique qui peut être retirée d'une activité de groupe, les conditions de déroulement de ces stages (par exemple, hors du temps normal de travail, recherche de l'exploit physique, mise à l'épreuve de la résistance morale) ne permettent pas de les classer au nombre des actions de formation définies au livre IX du code du travail. En tout état decause, sous réserve de l'appréciation souveraine des tribunaux, le refus d'un salarié de participer à ce type de stage ou, en cas de participation, l'absence ou la faiblesse de performance ne peuvent constituer une cause réelle et sérieuse de licenciement au sens de l'article L. 122-14-4 du code du travail ni un agissement fautif susceptible de sanction dans les conditions prévues à l'article L. 122-40 du même code. Il est précisé à l'honorable parlementaire que le ministre du travail, de l'emploi et de la formation professionnelle n'a été, à ce jour, saisi d'aucune plainte et réclamation au sujet de ces stages dont le développement est néanmoins suivi avec attention.
