@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020902691
+
+- Question : [SEQ020902691](seq020902691.md) — Augmentation du prix des carburants à la pompe
+
+## Réponse
+
+*Économie, JO du 2003-04-17, page 1332*
+
+Le dispositif de TIPP flottante a été mis en place en octobre 2000 afin d'atténuer l'impact de l'envolée des prix du pétrole de l'automne 2000. Ce dispositif avait, dès l'origine, une vocation temporaire puisqu'il était configuré pour disparaître dès lors que les cours du pétrole seraient redevenus inférieurs à 25,44 dollars par baril. Compte tenu de la baisse des cours du brent intervenue au cours du quatrième trimestre 2001, les conditions étaient réunies pour interrompre l'application du dispositif dès le 21 novembre 2001. En dépit des termes de la loi, le Gouvernement précédent a toutefois fait le choix de ne pas interrompre le mécanisme de la TIPP flottante à cette date, le dispositif n'a donc été arrêté qu'au 21 juillet 2002. Le Conseil d'Etat ayant rendu, le 14 mars dernier, une décision invalidant les tarifs de la TIPP pour la période du 21 novembre au 31 décembre 2002, le Gouvernement a décidé d'abaisser sans délai les tarifs de TIPP applicables à cette période, et de rembourser le trop-perçu aux opérateurs. Dans un contexte international particulièrement tendu, le Gouvernement reste extrêmement attentif à l'évolution des cours du pétrole. Les conditions qui avaient présidé à la création, à l'automne 2000, de la TIPP sont radicalement différentes de celles rencontrées aujourd'hui. Toutefois, sans qu'il soit envisagé de réactiver le dispositif de TIPP flottante sous sa forme antérieure, compte tenu de ses insuffisances, le Gouvernement étudie la possibilité d'utiliser, en tant que de besoin, un nouveau dispositif simple et transparent afin d'atténuer l'impact d'une possible hausse significative des cours.
