@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021002877
+
+- Question : [SEQ021002877](seq021002877.md) — Revalorisation des indemnités des adjoints au maire et majoration de la dotation de l'Etat aux communes
+
+## Réponse
+
+*Intérieur, JO du 2002-12-05, page 2989*
+
+La loi n° 2002-276 du 27 février 2002, relative à la démocratie de proximité, a eu notamment pour objectif de faciliter l'exercice des fonctions électives. C'est ainsi que les indemnités maximales pouvant être perçues par les adjoints bénéficiant d'une délégation du maire, prévues par l'article L. 2123-24 du code général des collectivités territoriales, ont été réévaluées. Cette mesure devrait permettre de favoriser l'exercice effectif des responsabilités locales. Comme le rappelle l'honorable parlementaire, le versement des indemnités d'élus constitue une charge importante dans le budget d'un certain nombre de petites communes. C'est pourquoi l'article L. 2335-1 du code général des collectivités territoriales, issu de la loi n° 92-108 du 3 février 1992, a prévu la création d'une dotation particulière prélevée sur le budget de l'Etat et répartie chaque année en fonction de la population totale des communes intéressées ainsi que de leur potentiel fiscal. Pour l'année 2002, étaient éligibles les 20 670 communes ayant un potentiel fiscal inférieur au potentiel moyen de 320,85 EURros. S'agissant de l'outre-mer, toutes les communes de moins 5 000 habitants sont éligibles à ce dispositif sans distinction de potentiel fiscal. Le montant de la dotation " élu local " s'élève à 45,3 millions d'euros pour l'année 2002, soit 2 188 eurosen moyenne par commune. Cette dotation est indexée sur l'évolution de la dotation globale de fonctionnement et a progressé en 2002 de 4,07 %. Il n'est pas envisagé, dans l'immédiat, de modifier les règles régissant cette dotation.
