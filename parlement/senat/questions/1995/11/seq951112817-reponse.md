@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951112817
+
+- Question : [SEQ951112817](seq951112817.md) — Maintien des activités du groupe Alcatel sur le site de Lannion (Côtes-d'Armor)
+
+## Réponse
+
+*Industrie, JO du 1996-02-01, page 208*
+
+Réponse. - Alcatel Telecom est confrontée à une évolution rapide de ses principaux marchés en particulier en France et en Allemagne, due à une baisse significative des prix des équipements de télécommunications et une évolution technologique toujours plus rapide, qui voit en particulier la parution de nouvelles générations d'équipements, dont l'intensité en main-d'oeuvre décroît fortement. A titre d'exemple, alors qu'il y a 25 ans, il fallait 100 personnes pour fabriquer 10 000 lignes téléphoniques, il n'en faut plus que 4 aujourd'hui. Alcatel Telecom est donc dans l'obligation d'accroître constamment la productivité de ses unités. La société a annoncé récemment une restructuration majeure de son organisation, dont les modalités de mise en oeuvre dans les différents pays ne sont néanmoins pas encore connues à l'heure actuelle. Contacté par les services du ministère de l'industrie, de La Poste et des télécommunications, Alcatel Telecom a toutefois indiqué que, dans le cadre de la nouvelle organisation par lignes de produits, de façon à augmenter l'efficacité de l'ensemble, l'usine de Lannion occupe une place tout à fait essentielle au coeur du dispositif d'Alcatel Telecom. Cette unité sera appelée à travailler pour la plupart des lignes de produits de cette branche et sa pérennité n'est nullement remise en cause. L'évolution de la situation d'Alcatel Telecom, et plus généralement du groupe Alcatel Alsthom, fait l'objet d'un suivi attentif par les services du ministère de l'industrie de La Poste et des télécommunications, qui prendront toutes les initiatives de leur compétence, dans le souci de la défense et du développement de l'activité industrielle et de l'emploi.
