@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990516702
+
+- Question : [SEQ990516702](seq990516702.md) — Prévention et sécurité : mobilisation des conseils généraux et des régions
+
+## Réponse
+
+*Ville, JO du 2000-10-05, page 3410*
+
+Réponse. - Pour faire suite aux conclusions des travaux des rencontres des acteurs de la prévention de la délinquance réunis à Montpellier les 18 et 19 mars 1999 et aux propositions du Conseil national des villes, la délégation interministérielle à la ville et au développement social urbain a établi des contacts avec l'Assemblée des départements de France (ADF) dans la perspective de conclure une convention nationale améliorant l'implication des conseils généraux dans la politique de la ville et plus particulièrement en matière de prévention notamment au travers des programmes initiés dans le cadre des CLS. Au préalable, l'ADF a souhaité procéder à un audit dans 12 départements choisis au vu de critères de population et de dépense d'aide sociale. Cette démarche a fait l'objet d'une prérestitution le 11 juillet dernier, à la DIV, et les résultats de l'étude devraient être rendus publics à la rentrée. L'objectif de cette convention vise, d'une part, à toucher en plus des 46 conseils généraux ayant signé des contrats de ville lors du XIe Plan, les assemblées départementales non signataires et, d'autre part, à voir avec elles comment il est possible de leur demander une mobilisation plus importante de leurs compétences propres dans les quartiers en difficulté. Au plan local, différentes conventions départementales ont déjà été signées. Elles concernaient, pour les premières d'entre elles, les départements de l'Essonne, des Bouches-du-Rhône et du Pas-de-Calais. Les informations que détient la délégation interministérielle à la ville laissent augurer d'une implication plus massive dans les contrats de ville 2000-2006.
