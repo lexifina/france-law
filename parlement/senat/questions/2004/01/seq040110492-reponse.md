@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040110492
+
+- Question : [SEQ040110492](seq040110492.md) — Eligibilité des syndicats mixtes à la dotation de développement rural (DDR)
+
+## Réponse
+
+*Intérieur (M.D.), JO du 2005-01-20, page 174*
+
+L'article 108 de la loi n° 99-586 du 12 juillet 1999 relative au renforcement et à la simplification de la coopération intercommunale, et le décret n° 2000-220 du 9 mars 2000, pris en application de cette loi, ont modifié les règles d'attribution de la dotation de développement rural (DDR) définies à l'article L. 2334-40 du code général des collectivités territoriales. L'article 108 précité a notamment supprimé l'éligibilité des communes à cette dotation et a modifié les modalités de calcul des enveloppes départementales. Désormais, seuls les groupements de communes à fiscalité propre, exerçant une compétence en matière d'aménagement de l'espace et de développement économique et répondant à certaines conditions démographiques peuvent bénéficier de la DDR. Cette réforme s'inscrit dans le cadre global de la loi du 12 juillet 1999 précitée, qui vise à soutenir le développement de l'intercommunalité à fiscalité propre. Il en résulte que les syndicats mixtes qui n'ont pas de fiscalité propre ne peuvent pas, à l'heure actuelle, bénéficier de la DDR même si les projets présentés par ces structures intercommunales sont susceptibles de répondre aux conditions d'éligibilité à cette dotation, c'est-à-dire favoriser le développement économique ou social des collectivités rurales, ainsi que les actions en faveur des espaces naturels. Des ajustements de ces règles d'éligibilité pourraient être envisagés pour des cas spécifiques tels que celui de syndicats mixtes composés uniquement d'EPCI à fiscalité propre respectant pour leur part les règles d'éligibilité à la DDR.
