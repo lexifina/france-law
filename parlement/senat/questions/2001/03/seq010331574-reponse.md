@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010331574
+
+- Question : [SEQ010331574](seq010331574.md) — Aide au transport de bois chablis par voie ferrée
+
+## Réponse
+
+*Agriculture, JO du 2001-05-24, page 1761*
+
+Réponse. - Mise en place dans le cadre du plan national pour la forêt après les tempêtes, l'aide exceptionnelle au transport des bois chablis contribue de manière déterminante à élargir le champ d'approvisionnement des entreprises pour utiliser le bois des régions sinistrées. Elle incite également les acteurs de la filière à donner la priorité aux bois issus des coupes sinistrées en lieu et place des coupes indemnes. Cette aide au transport, dimensionnée forfaitairement avec les représentants professionnels, distingue trois classes de distance pour le transport routier (20 francs/tonne de 100-200 kilomètres ; 40 francs/tonne de 200-300 kilomètres ; 50 francs/tonne à plus de 300 kilomètres) et une aide unique pour le transport par voie ferrée ou par voie navigable (50 francs/tonne). Ce dispositif bénéficie à ce jour d'une enveloppe globale de 790 millions de francs. Plus récemment, l'aide au transport de bois chablis par voie ferrée est mise en uvre dans le cadre d'une convention signée entre l'Etat et la SNCF le 25 février 2000 d'un montant de 200 millions de francs. L'aide de l'Etat de 50 francs par tonne est ainsi versée par l'intermédiaire de la SNCF pour les transports de bois chablis au départ des gares desservant des régions sinistrées. De nombreuses gares ont été ouvertes pour l'occasion et près de 225 points de chargement sont ainsi disponibles. Cette aide de l'Etat reste distincte des tarifs commerciaux de la SNCF. A la fin du mois de janvier 2001, environ 3 millions de tonnes ont ainsi été transportées au départ de gares chablis. Le montant des subventions correspondantes est de 147 millions de francs, dont 122 millions de francs ont été mis en paiement auprès des bénéficiaires après instruction des dossiers.
