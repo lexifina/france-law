@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880700860
+
+- Question : [SEQ880700860](seq880700860.md) — Retraite mutualiste des anciens combattants d'Afrique du Nord
+
+## Réponse
+
+*Anciens combattants, JO du 1988-09-15, page 1017*
+
+Réponse. - La majoration par l'Etat de la rente constituée auprès d'une société mutualiste, dans la limite du plafond, est égal à 25 p. 100 à la condition que l'adhésion ait eu lieu dans un délai de dix ans après l'ouverture du droit à majoration pour la catégorie à laquelle appartient le sociétaire (anciens combattants de 1939-1945, d'Indochine, d'Afrique du Nord, etc.). Le secrétaire d'Etat chargé des anciens combattants et des victimes de guerre précise que l'article n° 3 du décret 77-333 du 28 mars 1977 a notamment prévu que, pour les anciens combattants d'Afrique du Nord adhérants à une retraite mutualiste, le taux versé par l'Etat serait réduit de moitié si l'adhésion a eu lieu postérieurement au 1er janvier 1987. Cependant, pour répondre au voeu des anciens d'Afrique du Nord, et notamment pour tenir compte des nouvelles demandes formulées au titre de la circulaire D.A.G. 4 n° 3522 du 10 décembre 1987, les départements ministériels compétents ont décidé de reporter au 31 décembre 1988 la date d'expiration du délai de souscription à une retraite mutualiste majorée par l'Etat de 25 p. 100 pour les anciens d'Afrique du Nord titulaires de la carte du combattant ou ayant déposé une demande de carte du combattant avant le 1er janvier 1989, dans la mesure où ils ne sont pas déjà titulaires du titre de reconnaissance de la nation. Il a été décidé à cet effet que les dépôts de demande de carte avant le 1er janvier 1989 autoriseraient la souscription maximale, cela sur production d'un récépissé de demande de carte du combattant sous réserve de l'attribution ultérieure de la carte.
