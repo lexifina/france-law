@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960515458
+
+- Question : [SEQ960515458](seq960515458.md) — Compétences des commissions cantonales d'aide sociale
+
+## Réponse
+
+*Travail, JO du 1997-04-03, page 1061*
+
+Réponse. - Il est rappelé que la loi no 92-722 du 29 juillet 1992 a élargie considérablement les missions de la commission locale d'insertion. Commentant cette extension, la circulaire no 93.04 du 27 mars 1993 a souligné que la commission locale d'insertion " est la mieux placée pour évaluer les besoins d'insertion des bénéficiaires, recenser l'offre disponible, formuler des propositions pour le développement d'actions nouvelles ". Cette extension des missions de la commission locale d'insertion n'a cependant pas remis en cause sa compétence pour apprécier la validité des projets de contrats d'insertion. Au contraire, cette compétence demeure d'autant mieux affirmée que cette instance est la plus qualifiée, compte tenu de ses responsabilités dans l'élaboration du programme local d'insertion et dans l'animation de la politique locale d'insertion, pour mesurer la cohérence avec les autres contrats de chaque projet qui lui est présenté par des organismes instructeurs. Sans nier que l'objet des commissions d'admission à l'aide sociale, centré sur l'examen des droits de l'intéressé aux différentes prestations, leur donne effectivement accès à une connaissance approfondie des situations individuelles et, par voie de conséquence des besoins d'insertion, l'expérience de ces commissions reste cependant en elle-même, à défaut de pouvoir se replacer dans le programme local d'insertion, insuffisante pour permettre de concevoir des projets d'insertion tenant compte de l'offre disponible et intégrés dans le dispositif d'ensemble. Il n'est pas envisagé, par conséquent, d'élargir les compétences des commissions d'admission à l'aide sociale au dispositif départemental d'insertion.
