@@ -18,7 +18,7 @@ Sous réserve du respect des dispositions de la présente annexe, chacune de ces
 
 - soit à un organisme paritaire collecteur agréé (O.P.C.A.) à compétence nationale professionnelle ;
 
-- soit à des O.P.C.A. à compétence régionale interprofessionnelle (OPCAREG).
+- soit à des O.P.C.A. à compétence régionale interprofessionnelle (OPCAREG) créés par l'accord national interprofessionnel du 17 novembre 1994.
 
 Le champ d'application territorial de l'accord collectif ci-dessus est national ou régional.
 
