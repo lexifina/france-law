@@ -1,0 +1,15 @@
+# Délibération portant sur la mise en place d'un traitement automatisé de facturation téléphonique détaillée.
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 82-104
+- Date : 1982-07-06
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017654458
+
+Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, et notamment son article 15 ; Vu le décret n° 78-774 du 17 juillet 1978, et notamment ses articles 12 et suivants ; Vu la demande d'avis du ministre des PTT en date du 2 avril 1982 ; Après avoir entendu M. Pierre BRACQUE, rapporteur, en son rapport, et M. Philippe LEMOINE, Commissaire du gouvernement, en ses observations ;
+
+La Commission Nationale de l'Informatique et des Libertés, Saisie par le ministre des PTT d'une demande d'avis concernant la mise en place d'un traitement automatisé de facturation détaillée du téléphone, Constatant : . que ce traitement a pour objet de permettre au titulaire ou à l'utilisateur déclaré d'une ligne de téléphone de s'assurer du bien-fondé de sa facturation en vérifiant les éléments de taxation de ses consommations téléphoniques ; . que les informations traitées sont : - l'identité, l'adresse et le numéro de téléphone du destinataire de la facture ; - la date et l'heure des appels ; - les numéros d'appel ; - la durée des communications et leur taxation ; . que le seul destinataire de ces informations est le titulaire de l'abonnement ou l'utilisateur déclaré ; . que la facture délivrée à l'intéressé comportera l'indication des numéros d'appel moyennant l'occultation des 4 derniers chiffres, afin de ne pas permettre l'identification des correspondants qui ne doivent pas se trouver engagés par la demande de l'abonné d'établissement d'une facturation détaillée ; Considérant que la délivrance ainsi prévue d'un relevé par zones de taxation avec l'occultation des 4 derniers chiffres des numéros d'appel, concilie le besoin des intéressés de disposer des indications nécessaires au contrôle des éléments de taxation de leurs consommations téléphoniques, avec les exigences de protection de la vie privée de tiers et du secret de la correspondance ;
+
+Emet un avis favorable au traitement envisagé, sous les réserves suivantes : 1) que la durée de conservation des informations enregistrées, y compris les numéros d'appel complets, soit limitée au délai de prescription fixé par le Code des Postes et Télécommunications pour l'exercice du droit à contestation, par le titulaire de l'abonnement ou l'utilisateur déclaré, des sommes portées sur la facture ; 2) que le droit d'accès à ces informations, ouvert pendant le délai susvisé auprès de l'Agence Commerciale des Télécommunications dont relève l'abonné, soit exercé sur place sans qu'il puisse être dèlivré à l'intéressé un document quelconque comportant l'énumération des numéros d'appel. Souhaite que le délai de réclamation ouvert à l'administration soit aligné sur le délai de contestation des administrés.
