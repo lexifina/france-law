@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980608821
+
+- Question : [SEQ980608821](seq980608821.md) — Inquiétude des enseignants des classes préparatoires scientifiques
+
+## Réponse
+
+*Éducation, JO du 1998-09-03, page 2833*
+
+Réponse. - Le Premier ministre a demandé au ministre de l'éducation nationale, de la recherche et de la technologie de coordonner l'ensemble de l'enseignement supérieur, y compris les grandes écoles. Cela permettra, pour la première fois, d'avoir une action pédagogique coordonnée. Cette coordination doit permettre d'aborder, à l'aube du XXIe siècle, une compétition mondiale de plus en plus difficile. La France a assurément des atouts, mais visiblement elle ne les a pas vraiment encore joués. Le système français d'enseignement supérieur demeure extrêmement dispersé. Le Gouvernement espère de cette mission de coordination confiée au ministre de l'éducation nationale, de la recherche et de la technologie une action beaucoup plus efficace. Dans cette optique, une réflexion interministérielle s'est engagée pour permettre le copilotage de l'ensemble du dispositif d'accès aux grandes écoles, et notamment aux écoles d'ingénieurs, le copilotage prenant la forme de décisions conjointes éducation nationale/ministère de tutelle après avis ou, selon le cas, sur proposition des écoles concernées. Une première réunion de travail s'est tenue le 19 mai dernier. Elle a été suivie de réunions bilatérales entre le ministère de l'éducation nationale et les ministères concernés. Une synthèse des différents points de vue ministériels sera proposée en septembre prochain au Premier ministre, qui souhaite un accord global pour la fin d'octobre. L'inquiétude des enseignants des classes préparatoires n'est donc pas fondée puisque la réflexion se développe à travers une large concertation et sans précipitation.
