@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980407904
+
+- Question : [SEQ980407904](seq980407904.md) — Enseignement du latin et du grec
+
+## Réponse
+
+*Éducation, JO du 1998-06-04, page 1804*
+
+Réponse. - Les informations concernant une éventuelle réforme des lycées ne sont pas fondées, et aucune décision n'est actuellement envisagée dans ce domaine. Le ministre de l'éducation nationale, de la recherche et de la technologie a décidé toutefois d'engager une réflexion sur les enseignements en lycée afin de mieux les adapter aux exigences de notre temps. A cet effet, une vaste consultation a été organisée dans tout le pays sous forme de questionnaires adressés aux élèves, aux enseignants et aux chefs d'établissement : elle a été coordonnée par M. Philippe Meirieu, professeur d'université. Les conclusions de cette consultation et les principales lignes de force qui s'en dégagent viennent d'être rendues publiques. En parallèle, un conseil scientifique, présidé par le sociologue Edgar Morin et composé d'éminentes personnalités de la science et de la culture françaises, a été chargé de réfléchir aux moyens de mieux articuler les savoirs dispensés aux élèves afin de les mettre en situation d'appréhender les réalités de plus en plus complexes auxquelles ils auront à faire face dans leur vie sociale et professionnelle. L'ensemble de ces réflexions et consultations s'est synthétisé dans un colloque national qui s'est tenu les 28 et 29 avril 1998 à Lyon. Les conclusions de ce colloque font l'objet d'un rapport remis au ministre et à partir duquel un certain nombre de grandes orientations seront dégagées qui seront soumises pour consultation aux confédérations syndicales et aux organisations d'employeurs, ensuite le Parlement sera associé à la réflexion. Les fédérations syndicales, représentatives des personnels des lycées, seront ensuite consultées, comme les différentes associations concernées, puis le Conseil national des programmes sera saisi.
