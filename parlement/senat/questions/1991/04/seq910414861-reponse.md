@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910414861
+
+- Question : [SEQ910414861](seq910414861.md) — Suppression de postes budgétaires
+
+## Réponse
+
+*Affaires étrangères, JO du 1991-10-10, page 2218*
+
+Réponse. - Les crédits annulés au budget du ministère des affaires étrangères par l'arrêté du 9 mars 1991 s'élèvent à 400 MF sur l'ensemble des titres budgétaires dont 333,81 MF au titre IV de la direction générale des relations culturelles, scientifiques et techniques. La coopération culturelle, scientifique et technique subit donc de ce fait une réduction de ses moyens d'intervention. Les mesures d'économie imposées à la direction générale portent à hauteur de 225 MF sur Radio-France Internationale : dont 188,71 MF ont été annulés par l'arrêté précité, le solde, soit 36,29 MF, devant l'être d'ici au 31 décembre 1991. Cette réduction de la subvention versée à R.F.I. par l'Etat ne remet pas en cause le plan de développement de cet organisme. En effet, le département a demandé 35,4 MF en mesures nouvelles au titre de la quatrième tranche de ce plan de développement, au P.L.F. 1992. Les crédits annulés sur R.F.I. correspondent, au budget de cet organisme, à une diminution corrélative de son fonds de roulement. Les autres projets de la direction générale sont réduits, dans le domaine de la communication à hauteur de 11,5 MF, dans le domaine de la coopération scientifique et technique à hauteur de 17 MF, dans le domaine de la francophonie à hauteur de 2,4 MF, et dans le domaine des échanges culturels et artistiques à hauteur de 4 MF. D'autres économies sont réalisées sur les enveloppes de coopération déléguées à chaque poste, soit 8,2 MF au Maghreb, 3 MF en Asie et en Océanie, 2 MF en Amérique du Nord et 80,3 MF en Europe de l'Est. Le solde des économies à réaliser (16,8 MF) sera dégagé en gestion par les économies " spontanées " dues au report d'actions sur 1992 ou par l'annulation pure et simple de certains projets.
