@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981112469
+
+- Question : [SEQ981112469](seq981112469.md) — Aménagement foncier
+
+## Réponse
+
+*Agriculture, JO du 1999-01-21, page 194*
+
+Réponse. - L'aménagement foncier a son cadre juridique précisé par le livre Ier (nouveau) du code rural. C'est ainsi que l'article L. 121-1 dispose que les opérations d'aménagement foncier sont conduites, sous la responsabilité de l'Etat, par des commissions d'aménagement foncier qui doivent favoriser la concertation entre toutes les parties intéressées. Par ailleurs, l'article L. 121-15 met à la charge du département toutes les dépenses relatives aux opérations d'aménagement foncier. S'agissant de la concertation entre les parties intéressées, aucun article réglementaire n'est venu préciser les dispositions de l'article L. 121-1. Cependant, toutes les parties intéressées étant représentées dans chacune des commissions communale, intercommunale ou départementale, il appartient à chacun des membres les composant, en application des articles L. 121-3, L. 121-4 et L. 121-8, d'assurer l'animation de la concertation, le président de la commission assurant quant à lui l'animation des démarches entreprises par cette dernière. S'agissant du contrôle des prestations du technicien il appartient d'abord au conseil général qui a signé un marché avec ce dernier d'en assurer le contrôle ; la commission quant à elle restant la seule responsable de ses décisions. Enfin le représentant de l'Etat, dans le département à qui il appartient d'arrêter le choix du mode d'aménagement ainsi que le périmètre qui lui sera associé et de clôturer les opérations par un arrêté, sur proposition de la commission communale d'aménagement foncier ou de la CICAF, s'assure de la conformité de ces décisions au cadre juridique de l'aménagement foncier.
