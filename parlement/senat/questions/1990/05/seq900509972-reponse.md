@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900509972
+
+- Question : [SEQ900509972](seq900509972.md) — Mécontentement des usagers des services bancaires
+
+## Réponse
+
+*Consommation, JO du 1990-08-23, page 1811*
+
+Réponse. - Les services du ministère de l'économie, des finances et du budget, ont récemment effectué une enquête auprès de 400 agents bancaires dans vingt-trois départements. Cette enquête, à laquelle se réfère l'honorable parlementaire, a fait l'objet d'une large publicité. Conscient que l'accord intervenu à la fin de l'année 1988 au sein du comité des usagers du Conseil national du crédit était appliqué inégalement et insuffisamment, le secrétaire d'Etat, chargé de la consommation, a adressé un courrier au président de l'Association française des établissements de crédit et au président de l'Association française des banques. Ces lettres rappellent les principales conclusions de l'enquête ; elles soulignent en particulier la difficulté pour la clientèle de comparer les documents élaborés par les établissements de crédit, du fait d'une normalisation insuffisante. Elles demandent que des recommandations soient adressées aux établissements de crédit pour qu'ils respectent davantage le document normalisé et définissent précisément le mode de tarification retenu. Il est notamment préconisé aux établissements de crédit de présenter distinctement les tarifs qui n'ont pas été prévus par la normalisation et de compléter ou d'étendre sur certains points le champ de la normalisation. Par ailleurs, il est recommandé d'inclure certains modes de tarification dans le document normalisé, comme les droits de garde sur titres, et de continuer à améliorer la rubrique des prêts aux particuliers. Le Gouvernement veillera à ce que les propositions lui soient faites rapidement sur ces différents points par les organismes professionnels et leurs mandants.
