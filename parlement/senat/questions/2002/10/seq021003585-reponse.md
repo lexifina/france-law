@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021003585
+
+- Question : [SEQ021003585](seq021003585.md) — Elaboration par les IUFM de productions innovantes en formation
+
+## Réponse
+
+*Éducation, JO du 2004-07-29, page 1724*
+
+L'accompagnement des enseignants stagiaires dans des classes d'accueil du premier et du second degrés favorise le repérage des expériences innovantes menées dans les écoles, les collèges ou les lycées par les formateurs qui conduisent les plans de formation des IUFM. Les efforts académiques de mutualisation de ces expériences se trouvent dès lors renforcés par l'implication de ces mêmes formateurs dans la réflexion stratégique conduite par les délégations académiques à la formation et à l'innovation. La constitution de réseaux de personnes ressources et la mise à disposition des savoirs au profit de tous les partenaires éducatifs sont, quant à elles, organisées par le ministère grâce aux Programmes nationaux d'innovation. Par ailleurs, les IUFM encouragent et valorisent le travail de leurs enseignants-chercheurs par la constitution d'équipes de recherche technologique éducation que le programme incitatif sur la recherche en éducation et la formation remet en perspective. Ces ERTE définissent des problématiques et des questionnements issus des terrains d'exercice, soumettent pour évaluation et accréditation leurs projets de recherche. Le résultat de ces travaux est régulièrement diffusé auprès de l'ensemble de la communauté éducative. La politique des contrats quadriennaux permet de faire un point régulier sur les actions conduites par chaque IUFM en matière de " productions innovantes en formation " et contribue à une meilleure définition des axes stratégiques de développement de leur projet d'établissement. Des pages Internet particulières sont en cours de définition sur le portail commun des IUFM.
