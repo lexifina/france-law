@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931204055
+
+- Question : [SEQ931204055](seq931204055.md) — Conséquence pour les finances communales de la directive européenne sur les emballages
+
+## Réponse
+
+*Environnement, JO du 1995-01-05, page 29*
+
+Réponse. - Le projet de directive européenne sur les emballages et les déchets d'emballages a connu des évolutions notables, par rapport à la proposition initiale de la commission évoquée par l'Honorable parlementaire. En formulant des objectifs plus réalistes et progressifs, ces évolutions, dont la France a été l'un des principaux artisans dans le débat communautaire, vont dans le sens d'une meilleure harmonisation européenne à ce sujet, tant sur le plan de l'amélioration de l'environnement dans l'union européenne, prise dans son ensemble, que sur celui de la libre circulation des produits conditionnés. Ainsi, le texte actuel, qui vient de faire l'objet d'une procédure de conciliation entre le Conseil et le Parlement européen, comporte des objectifs de valorisation à 5 ans de 50 à 65 p. 100 dont 25 à 45 p. 100 de recyclage au sens strict, indifférenciés sur l'ensemble des emballages (ménagers et industriels, et tous matériaux confondus). Un minimum de recyclage de 15 p. 100 pour chaque matériau a également été retenu. De tels objectifs ne constituent plus, en termes de contraintes éventuelles pour les collectivités françaises, une surenchère par rapport à ceux qui ont déjà été tracés par la loi du 13 juillet 1992, ou des textes réglementaires comme le décret du 1er avril 1992 sur les emballages jetés par les particuliers ou celui du 13 juillet 1994 concernant ceux des entreprises. Par ailleurs, cette directive entérine la démarche déjà engagée en France dans le sens d'une coresponsabilité des industriels concernés, aux côtés des collectivités, pour développer tant la valorisation que la prévention de ces déchets d'emballages.
