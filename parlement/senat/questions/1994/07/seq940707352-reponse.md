@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940707352
+
+- Question : [SEQ940707352](seq940707352.md) — Tribunaux d'instance dépourvus d'un poste de magistrat
+
+## Réponse
+
+*Justice, JO du 1994-09-22, page 2304*
+
+Réponse. - Sur les 850 juges d'instance que comptent les juridictions, dix-neuf emplois de magistrat affectés aux fonctions de l'instance seront vacants le 2 septembre, date d'installation des magistrats mutés à l'occasion du mouvement annuel et des auditeurs de justice, soit environ 2 p. 100 de l'ensemble de l'effectif. Ces dix-neuf emplois se répartissent de la manière suivante : cour d'appel de Paris : Bobigny, Juvisy (Evry), Auxerre ; cour d'appel d'Aix : Toulon ; cour d'appel d'Angers : Saint-Calais (Le Mans), Bougé (Saumur) ; cour d'appel de Dijon : Le Creusot (Chalon-sur-Saône) ; cour d'appel de Douai : Tourcoing (Lille), Saint-Omer, Hazebrouck ; cour d'appel de Grenoble : Briançon (Gap) ; cour d'appel de Metz : Saint-Avold (Sarreguemines) ; cour d'appel de Montpellier : Villefranche (Rodez) ; cour d'appel de Nîmes : Marvejols (Mende) ; cour d'appel de Pau : Saint-Palais (Bayonne) ; cour d'appel de Rennes : Lannion (Guingamp) ; cour d'appel de Riom : Brioude (Le Puy) ; cour d'appel de Rouen : Bernay. Outre les juges placés auprès des premiers présidents (les seules cours d'appel citées en comptent 30), il faut souligner que, conformément à l'article R 321-34 du code de l'organisation judiciaire, les magistrats chargés des tribunaux d'instance appartiennent à l'effectif global des magistrats du siège du tribunal de grande instance dans le ressort duquel est situé le tribunal d'instance, de sorte que la continuité du fonctionnement des juridictions d'instance reste en tout état de cause assurée. Néanmoins, la chancellerie fait tous efforts utiles pour diminuer les vacances des tribunaux d'instance. Certaines des vacances précédemment énoncées pourraient même être comblées par un mouvement en préparation avant la fin de l'année.
