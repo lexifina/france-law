@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960817114
+
+- Question : [SEQ960817114](seq960817114.md) — Fermeture du service national des messageries de la SNCF du Puy-en-Velay
+
+## Réponse
+
+*Équipement, JO du 1996-10-31, page 2850*
+
+Réponse. - Le Sernam connaît une situation financière particulièrement critique puisqu'il a enregistré un déficit de 400 millions de francs en 1995 et devrait connaître un déficit de 500 millions de francs en 1996 pour un chiffre d'affaires de l'ordre de 4 milliards de francs. Cette situation ne peut se prolonger. C'est pourquoi les dispositions arrêtées par le Gouvernement, en liaison avec la direction de l'entreprise, prévoient le retour à l'équilibre du Sernam comme de chacune des activités de transporteur de la SNCF. Le redressement du Sernam passe par une restructuration en profondeur. C'est le sens du plan qui a été présenté au comité d'établissement du Sernam : il comprend la suppression de 1 900 emplois sur un effectif de 5 600, cette réduction d'effectif s'effectuant sans licenciement mais par des départs volontaires, des départs en retraite ou des reclassements internes, ainsi que par la réduction du nombre d'agences de 84 à 57 et du nombre de chantiers d'exploitation de 150 à 110. Dans ces conditions, il n'est pas possible d'envisager le maintien des activités du chantier technique du Puy-en-Velay au-delà du premier trimestre 1997. Le département de la Haute-Loire sera desservi, avec la même qualité de service, à partir de l'agence de Saint-Etienne dont dépendait jusqu'à présent le chantier du Puy-en-Velay. Le ministre de l'équipement, du logement, des transports et du tourisme a, par contre, demandé au Sernam, sans remettre en cause son plan de redressement, de veiller à ce que sa mise en oeuvre s'effectue en concertation avec les personnels et les collectivités concernés, afin d'assurer dans les meilleures conditions le reclassement des agents dont les postes seront localement supprimés.
