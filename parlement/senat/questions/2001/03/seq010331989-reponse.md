@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010331989
+
+- Question : [SEQ010331989](seq010331989.md) — Respect du principe de l'égal accès hommes-femmes dans toutes les organisations et associations sous tutelle de l'Etat
+
+## Réponse
+
+*Droits des femmes, JO du 2001-09-27, page 3097*
+
+L'une des priorités de l'Etat est d'améliorer l'accès des femmes aux postes de décision, dans la vie politique, économique mais également dans la vie associative. Dans le cadre de l'amélioration de l'accès des femmes aux responsabilités dans la fonction publique, la circulaire signée par le Premier ministre le 6 mars 2000 a prévu la mise en place de plans pluriannuels dans chaque ministère afin qu'un plus grand nombre de femmes soient nommées à des postes de décision. Un comité de pilotage pour l'égal accès des femmes et des hommes aux emplois supérieurs des fonctions publiques a été mis en place en novembre 2000, afin de recueillir des données existantes et de rechercher les causes de discriminations subies par les femmes dans l'accès aux postes d'encadrement supérieur. Dans le domaine associatif, la circulaire du Premier ministre du 1er décembre 2000 relative aux conventions pluriannuelles d'objectifs a demandé aux services de l'Etat de dialoguer avec les associations afin de les inciter à veiller à une représentation équilibrée des femmes et des hommes dans les instances décisionnelles des associations. Un comité de suivi et d'évaluation des conventions pluriannuelles d'objectifs a été mis en place le 29 janvier 2001. Un guide établi conjointement par les services de l'Etat et les représentants du milieu associatif, permettant de définir les modalités d'évaluation des projets et actions, sera publié sous sa forme définitive fin 2001. Ces dispositions constituent des incitations fortes qui devraient contribuer efficacement à améliorer les représentations des femmes dans les organisations et associations sous tutelle et subventionnées.
