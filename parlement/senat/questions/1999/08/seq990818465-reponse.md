@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990818465
+
+- Question : [SEQ990818465](seq990818465.md) — Entretien des chemins communaux
+
+## Réponse
+
+*Intérieur, JO du 2000-06-22, page 2230*
+
+Réponse. - Afin de pourvoir à l'entretien de leur voirie communale, les communes peuvent bénéficier des concours financiers de l'Etat et principalement de la dotation globale de fonctionnement (DGF). En effet, au sein de la DGF, la dotation de solidarité rurale (DSR) issue de la loi nº 93-1436 du 31 décembre 1993, qui est une dotation libre d'affectation, répond par ses modalités d'attribution à un double objectif : soutenir d'une part les communes bourgs-centres du monde rural, renforcer d'autre part la péréquation au profit des communes rurales les plus défavorisées. Ainsi, la seconde fraction de la dotation - dite de péréquation - est répartie sous condition de potentiel fiscal, à l'ensemble des communes de moins de 10 000 habitants, en fonction de leurs charges spécifiques, pour 30 % de son montant, proportionnellement à la longueur de la voirie classée dans le domaine public communal, les communes situées en zone de montagne voyant la longueur de leur voirie doublée. Il convient toutefois de préciser que conformément à l'article L. 141-1 du code de la voirie routière, seules les voies publiques dénommées voies communales font partie du domaine public routier communal. Bien qu'intégrés à la voirie communale, les chemins ruraux qui font partie du domaine privé des communes ne sont pas des voies communales. Si leur entretien ne constitue pas une dépense obligatoire poiur les communes, les chemins ruraux qui comme tout bien privé de la commune, sont aliénables, peuvent être incorporés par décision du conseil municipal dans le domaine public communal et devenir alors voies communales. Dans ces conditions, les communes pourront bénéficier d'une aide au titre de la DGF pour faire face à leur entretien.
