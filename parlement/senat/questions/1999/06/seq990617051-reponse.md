@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990617051
+
+- Question : [SEQ990617051](seq990617051.md) — Accès pour la presse à la publicité télévisée sur les chaînes thématiques
+
+## Réponse
+
+*Culture, JO du 1999-08-19, page 2777*
+
+Réponse. - En application de l'article 8 du décret du 27 mars 1992, la presse figure parmi les secteurs interdits de publicité à la télévision au même titre que l'édition littéraire, le cinéma et la distribution. L'accès au support télévisuel est en conséquence limité pour la presse au parrainage et à la coproduction. L'interdiction frappant le secteur de la presse, établie depuis 1968, a été prévue dans le souci d'une part d'éviter que l'accès aux écrans soit réservé aux seuls grands groupes de presse capables de financer des campagnes de publicité à la télévision et entraîne de ce fait un renforcement de la concentration des acteurs, d'autre part de ne pas contrevenir à l'article 14 de la loi du 30 septembre 1986 qui prohibe la publicité politique, si la presse d'opinion accédait aux écrans publicitaires. Au cours de la période récente, certains professionnels ont fait valoir que l'interdiction faite à la presse d'accéder à la publicité télévisée plaçait la France en position d'exception par rapport à ses voisins européens, que l'évolution du cadre réglementaire européen pourrait remettre en cause, à terme, son maintien, et que la publicité pourrait représenter un puissant vecteur de promotion des ventes de publications. Cependant, l'opportunité de la levée de l'interdiction de publicité télévisuelle de la presse ne fait pas à ce jour l'objet d'un consensus au sein de la profession, des divergences de position subsistant entre les représentants des différentes familles de presse. Cette question doit en tout état de cause s'inscrire dans la perspective des évolutions techniques et économiques du secteur, notamment face au développement de la télévision numérique et des chaînes thématiques et locales.
