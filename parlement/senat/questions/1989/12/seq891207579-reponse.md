@@ -1,0 +1,9 @@
+# Réponse à la question SEQ891207579
+
+- Question : [SEQ891207579](seq891207579.md) — Marché unique européen et économie des départements d'outre-mer
+
+## Réponse
+
+*Budget, JO du 1990-12-27, page 2745*
+
+Réponse. - Le texte visé par l'honorable parlementaire correspondait non pas à un décret mais à une décision administrative n° 5292 du 10 août 1989 appliquant aux départements d'outre-mer la procédure d'extension d'agrément de commissionnaire en douane par voie déclarative en vigueur en métropole. Toutefois, en raison des difficultés soulevées par sa mise en oeuvre, ce texte a été abrogé le 5 janvier 1990. En outre, un arrêté en date du 6 septembre 1990 prévoit désormais la consultation préalable de la profession sur toute demande d'agrément et d'extension d'agrément présentée au plan local. Ce dispositif qui concerne les conditions d'accès à l'exercice des activités de commissionnaire en douane ne doit pas être regardé comme une manifestation de la volonté des pouvoirs publics de subordonner la reconnaissance des particularismes propres à certaines régions à une intégration préalable de ces dernières dans le marché unique européen. Il ne remet pas en cause le programme d'options spécifiques à l'éloignement et à l'insularité des départements français d'outre-mer (Poséidom). Ce programme, qui a été adopté par une décision du 22 décembre 1989 du conseil des communautés a précisémment pour objet de tenir compte de la spécificité des régions d'outre-mer. Une série de mesures d'accompagnement du Poséidom tendant à favoriser le développement de la production et l'exportation de diverses denrées agricoles locales sera prochainement soumise à l'examen du conseil des communautés. Par ailleurs, des études sur le renforcement de la coopération régionale entre les départements d'outre-mer et les pays et territoires voisins de la zone caraïbe sont actuellement menées par la France et la Commission des communautés économiques européennes.
