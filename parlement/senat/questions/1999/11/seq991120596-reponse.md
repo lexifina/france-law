@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991120596
+
+- Question : [SEQ991120596](seq991120596.md) — Réduction du taux de la taxe à la valeur ajoutée (TVA) sur tous les matériels de compensation des incapacités
+
+## Réponse
+
+*Économie, JO du 2000-03-16, page 965*
+
+Réponse. - L'article 278 quinquies du code général des impôts soumet au taux réduit de 5,5 % de la taxe sur la valeur ajoutée les appareillages pour handicapés visés aux chapitres 1er, 3 à 8 du titre II, aux titres III et IV du tarif interministériel des prestations sanitaires, ainsi que les équipements spéciaux, dénommés aides techniques, conçus exclusivement pour les personnes souffrant de graves handicaps. La liste de ces équipements est fixée à l'article 30-0B de l'annexe IV au même code. Y figurent notamment les matériels de transfert, les fauteuils roulants, les cartes électroniques et logiciels spécialisés pour aveugles et malvoyants, les logiciels spécifiques pour sourds et malentendants, les matériels destinés à faciliter la conduite et l'accès des véhicules par les personnes handicapées... En application de l'article 278 quinquies précité, sont également soumis au taux réduit de la taxe les ascenseurs et matériels assimilés spécialement conçus pour les personnes handicapées et dont les caractéristiques sont fixées à l'article 30-0C de l'annexe IV précitée. Enfin, l'article 30 de la loi de finances pour 1999 a étendu le taux réduit à certains matériels utilisés par les personnes diabétiques, stomisés ou incontinentes. Le taux réduit est appliqué en fonction des caractéristiques de ces différents matériels et appareillages et donc en fonction de leur finalité et non de leur origine de production. Ces dispositions, qui ont pour objet d'alléger le coût des matériels nécessaires à la vie quotidienne des personnes handicapées, vont dans le sens des préoccupations exprimées.
