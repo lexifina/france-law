@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990214182
+
+- Question : [SEQ990214182](seq990214182.md) — Maîtrise de la production laitière
+
+## Réponse
+
+*Agriculture, JO du 1999-03-25, page 962*
+
+Réponse. - En application du second alinéa de l'article 5 du règlement communautaire 3950/92 du 28 décembre 1992 établissant un prélèvement supplémentaire dans le secteur du lait et des produits laitiers, les quantités de référence dont disposent les producteurs qui n'ont pas commercialisé de lait ou de produits laitiers pendant une période de douze mois sont affectées à la réserve nationale. Lorsque le producteur reprend la production de lait ou d'autres produits laitiers dans un délai à déterminer pas l'Etat membre, il lui est accordé une quantité de référence au plus tard le 1er avril qui suit la date de sa demande. Conformément à l'article 16 bis du décret nº 91-157 du 11 février 1991, le délai maximum d'interruption de l'activité laitière est fixé à deux campagnes. Ces dispositions peuvent en effet paraître relativement lourdes, néanmoins, elles assurent une protection efficace du producteur dont le quota n'est réservé qu'au terme d'une période d'inactivité avérée. Cette situation est distincte de celle où le producteur fait savoir expressément qu'il renonce volontairement et définitivement à son quota. Dans cette hypothèse, la renonciation au quota et, corrélativement la remontée en réserve, sont d'effet immédiat et irrévocable. Cette possibilité a été confirmée par un courrier du 24 août 1998 de la Commission européenne, dont il ressort néanmoins que ses conditions de mise en uvre doivent être encadrées par l'Etat. Actuellement, cette procédure est mise en place dans le cadre de la procédure expérimentale d'échanges de droits à produire. Sa généralisation au-delà de cette expérimentation est à l'étude.
