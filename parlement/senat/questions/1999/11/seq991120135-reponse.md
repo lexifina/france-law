@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991120135
+
+- Question : [SEQ991120135](seq991120135.md) — Financement de la mise en souterrain des réseaux par les syndicats d'électrification rurale
+
+## Réponse
+
+*Industrie, JO du 2000-02-10, page 539*
+
+Réponse. - Le Gouvernement est particulièrement sensible à l'amélioration des paysages, notamment en zones rurales. A ce titre, il souhaite que les efforts fournis depuis plusieurs années par l'opérateur historique en matière d'enfouissement de lignes soient poursuivis. Des efforts très importants ont d'ores et déjà été réalisés en la matière. En effet, ces investissements représentent aujourd'hui plus de 15 % du budget d'investissement consacré aux lignes téléphoniques par France Télécom. Opérant dans un environnement désormais concurrentiel sur l'ensemble de ses activités, France Télécom veille à une gestion rigoureuse de ses coûts afin de pouvoir garantir l'efficacité du service public que la loi lui a confié et plus généralement lui permettre de fournir aux clients des services innovants au meilleur prix. Dans ce contexte, France Télécom entend poursuivre, en partenariat avec les collectivités territoriales, les opérations de dissimulation à hauteur de l'effort consenti en 1998, soit plus de 300 millions de francs, montant qui était en augmentation par rapport aux années précédentes. France Télécom étudie actuellement, avec ses partenaires, un nouveau dispositif pour l'enfouissement des réseaux de télécommunication afin de maximiser l'efficacité de cet effort financier, notamment grâce à une meilleure programmation des opérations de génie civil. C'est à ce titre que la direction régionale de France Télécom en Bourgogne a fait part aux syndicats d'électrification et aux collectivités locales de son souhait de renégocier de nouvelles conventions plus efficaces à coût constant.
