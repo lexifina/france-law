@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011035759
+
+- Question : [SEQ011035759](seq011035759.md) — Avenir de l'enseignement du latin et du grec
+
+## Réponse
+
+*Éducation, JO du 2002-01-03, page 42*
+
+Conscient de la nécessité de redonner aux langues anciennes la place qu'elles méritent dans notre système éducatif, le ministre de l'Education nationale vient d'adresser une lettre aux recteurs leur demandant d'encourager l'étude du latin et du grec ancien. Dans sa lettre, le ministre assure que la réforme des collèges, loin de supprimer les enseignements optionnels de latin et de grec ancien, les maintient et les renforce. Ainsi, deux des innovations majeures portées par les nouvelles orientations du collège contribuent aux renforcement de la culture classique. Les collégiens pourront choisir, parmi les nouveaux itinéraires de découverte commençant en cinquième, deux domaines permettant d'intégrer les langues anciennes : " Découverte des arts et des humanités " ou " Découverte des langues et civilisations ". Ils pourront également choisir en classe de troisième " Langues et cultures de l'Antiquité ", ce qui peut les préparer à une orientation en lycée vers un cursus à humanités classiques et donc revaloriser la filière littéraire. Le ministre informe également les recteurs qu'une brochure destinée à convaincre les lycéens de poursuivre l'étude des langues anciennes au lycée est en préparation et il leur demande de veiller à sa diffusion dès réception. Il souligne également que les conditions dans lesquelles l'enseignement des langues anciennes est assuré semblent insuffisamment attractives. Aussi recommande-t-il aux chefs d'établissement de les améliorer, notamment au niveau des horaires et de leur positionnement dans l'emploi du temps hebdomadaire des élèves. Il leur rappelle aussi sa décision de mettre en place, dès la rentrée 2002, des options " grands débutant " en classes de seconde pour le lycéens voulant commencer l'étude des langues anciennes.
