@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950611151
+
+- Question : [SEQ950611151](seq950611151.md) — Difficultés pour les bénéficiaires de l'allocation d'adulte handicapé pour régler le forfait hospitalier
+
+## Réponse
+
+*Santé publique, JO du 1995-09-21, page 1827*
+
+Réponse. - Les pouvoirs publics sont particulièrement attentifs aux difficultés que peuvent rencontrer certains malades pour faire face aux dépenses engagées à l'occasion de leur séjour hospitalier et les conséquences qui peuvent en résulter au niveau des établissements. Des mesures existent qui permettent à de nombreuses personnes d'être exonérées du forfait hospitalier. Il en est ainsi des catégories d'assurés énumérées à l'article L. 174-4 du code de la sécurité sociale, notamment les victimes d'accidents du travail ou de maladies professionnelles pour lesquelles la loi autorise une prise en charge du forfait par les régimes obligatoires de protection sociale. De même, le décret no 93-508 du 26 mars 1993 a-t-il prévu que, pour les titulaires d'un revenu minimum d'insertion, il soit pris intégralement en charge par l'aide médiale. Enfin, le décret no 93-964 du 29 juillet 1993 a porté le montant minimum de l'allocation aux adultes handicapés, laissé à la disposition des bénéficiaires hospitalisés depuis plus de deux mois, après paiement du forfait, de 12 à 17 p. 100, afin d'en neutraliser l'augmentation, soit depuis le 1er juillet 1995 de 564,81 francs mensuels. En tout état de cause, les assurés, titulaires de l'allocation aux adultes handicapés ou non, disposant de ressources modestes et ne bénéficiant pas d'une protection sociale complémentaire, ont la possibilité d'obtenir une prise en charge de tout ou partie de la dépense, soit par l'aide sociale, soit par les caisses d'assurance maladie qui, sur leur budget d'action sanitaire et sociale, peuvent accorder une aide exceptionnelle.
