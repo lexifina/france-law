@@ -539,3 +539,17 @@ Xylènol (sauf 2,4-xylénol).
 (*) Se référer à l'annexe I de l'arrêté du 20 avril 1994 (JO du 8 mai 1994) relatif à la déclaration, la classification, l'emballage et l'étiquetage des substances dangereuses.
 
 |
+
+Définitions des termes cités au 7° de l'article 27 et aux 19° à 35° de l'article 30 :
+
+On entend par "composé organique volatil" (COV) tout composé organique, à l'exclusion du méthane, ayant une pression de vapeur de 0,01 kPa ou plus à une température de 293,15° Kelvin ou ayant une volatilité correspondante dans des conditions d'utilisation parti¬culières.
+
+On entend par "solvant organique" tout COV utilisé seul ou en association avec d'autres agents, sans subir de modification chimique, pour dissoudre des matières premières, des produits ou des déchets, ou utilisé comme solvant de nettoyage pour dissoudre des salissures, ou comme dissolvant, dispersant, correcteur de viscosité, correcteur de tension superficielle, plastifiant ou agent protecteur :
+
+On entend par "consommation de solvants organiques" la quantité totale de solvants organiques utilisée dans une installation sur une période de douze mois, diminuée de la quantité de COV récupérés en interne en vue de leur réutilisation. On entend par "réutilisation" l'utilisation à des fins techniques ou commerciales, y compris en tant que combustible, de solvants organiques récupérés dans une installation. N'entrent pas dans la définition de "réutilisation" les solvants organiques récupérés qui sont évacués définitivement comme déchets ;
+
+On entend par "utilisation de solvants organiques" la quantité de solvants organiques, à l'état pur ou dans les préparations, qui est utilisée dans l'exercice d'une activité, y compris les solvants recyclés à l'intérieur ou à l'extérieur de l'installation, qui sont comptés chaque fois qu'ils sont utilisés pour l'exercice de l'activité ;
+
+On entend par "émission diffuse de COV" toute émission de COV dans l'air, le sol et l'eau, qui n'a pas lieu sous la forme d'émissions canalisées.
+
+Pour le cas spécifique des COV, cette définition couvre, sauf indi­cation contraire, les émissions retardées dues aux solvants contenus dans les produits finis.
