@@ -1,5 +1,3 @@
 # Article 238 bis HC
 
-Les revenus et les bénéfices investis dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte peuvent, dans les mêmes conditions, bénéficier du régime prévu par les articles 238 bis HA et 238 bis HB (1).
-
-(1) Disposition applicable à compter du 1er janvier 1980.
+Les bénéfices investis dans les territoires d'outre-mer, dans la collectivité territoriale de Mayotte et dans celle de Saint-Pierre-et-Miquelon peuvent, dans les mêmes conditions, bénéficier du régime prévu à l'article 238 bis HA.
