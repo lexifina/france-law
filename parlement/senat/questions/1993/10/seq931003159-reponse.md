@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931003159
+
+- Question : [SEQ931003159](seq931003159.md) — Situation de l'école d'horticulture Saint-Cyran à Frouville (Val-d'Oise)
+
+## Réponse
+
+*Agriculture, JO du 1993-12-09, page 2353*
+
+Réponse. - L'école d'horticulture privée Saint-Cyran, à Frouville (Val-d'Oise), conduit depuis plusieurs années, dans le cadre d'un contrat conclu avec le ministère de l'agriculture et de la pêche, une formation menant à un brevet de technicien agricole axé sur le secteur des aménagements paysagers. Cet établissement dispense par ailleurs des actions de formation professionnelle en liaison avec le conseil régional de la région Ile-de-France. La faiblesse des effectifs scolarisés dans la filière brevet de technicien agricole (9 élèves en 1991-1992, 4 élèves en 1992-1993) a conduit l'établissement à se situer en dessous des seuils prévus par le décret no 88-922 du 14 septembre 1988 et à rencontrer de sérieuses difficultés de gestion. Dès avril 1993, la direction générale de l'enseignement et de la recherche a attiré l'attention de l'établissement sur cette situation difficile et demandé qu'un plan de redressement et une action concertée avec le CHEP du Tremblay-sur-Mauldre (78) soient présentés à l'administration. Aucune proposition concrète n'est parvenue au ministère de l'agriculture et de la pêche. Au cours du mois d'octobre dernier, les événements se sont précipités : dépôt de bilan, nomination d'un administrateur par le tribunal de grande instance de Pontoise, cessation de l'activité et liquidation des biens. Informé de la cessation d'activité, le ministère de l'agriculture et de la pêche a mis tout en oeuvre, en collaboration avec l'ensemble des acteurs de l'enseignement agricole, pour offrir à tous les élèves et stagiaires inscrits dans l'établissement une solution de poursuite d'étude dans des formations analogues de la région parisienne.
