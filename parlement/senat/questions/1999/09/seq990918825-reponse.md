@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990918825
+
+- Question : [SEQ990918825](seq990918825.md) — Taux de profitabilité en vigueur en matière d'extension du réseau de distribution de gaz naturel
+
+## Réponse
+
+*Économie, JO du 2000-01-13, page 116*
+
+Réponse. - Le dispositif induit par l'article 50 de la loi du 2 juillet 1998 et le décret d'application du 12 avril 1999 vise à faciliter et accélérer, dans le cadre cohérent d'un plan triennal de desserte gazière, le développement du service public du gaz, tout en veillant à ce que ce développement reste conforme à la rationalité technico-économique, au respect de la concurrence entre énergies et à la politique énergétique. Dans le nouveau système, les communes ne sont plus appelées à subventionner l'extension de la desserte. Par ailleurs, les exigences de rentabilité ont été considérablement abaissées ; elles se bornent à constater que les " recettes actualisées " couvrent les " dépenses actualisées 3. Dans ce cadre, il sera observé dans les trois années qui viennent un quasi-doublement du rythme d'extension de la desserte. Il reste que les cahiers des charges, associés aux contrats de concession, que les communes ont signés par le passé avec Gaz de France font très souvent apparaître des critères de rentabilité plus exigeants pour la densification progressive de la desserte à l'intérieur de la commune. Cette situation pourra tout naturellement évoluer à l'occasion du renouvellement des contrats de concession et des échéances quinquennales que les contrats de concession prévoient généralement pour leur éventuelle adaptation par avenant. Corrélativement, il doit être noté que la densification de la desserte dans les zones non desservies, malgré son accélération, doit nécessairement garder un caractère progressif, compte tenu de son ampleur et des efforts qu'elle mobilise.
