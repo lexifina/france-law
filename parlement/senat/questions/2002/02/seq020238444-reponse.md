@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020238444
+
+- Question : [SEQ020238444](seq020238444.md) — Taxe d'enlèvement des ordures ménagères
+
+## Réponse
+
+*Intérieur, JO du 2002-04-11, page 1058*
+
+La loi du 12 juillet 1999 relative au renforcement et à la simplification de la coopération intercommunale a clarifié les modes d'organisation et de financement du service d'élimination des ordures ménagères. Toutefois, l'application de la taxe et de la redevance d'enlèvement des ordures ménagères (TEOM/REOM) ainsi que l'harmonisation du mode de financement à l'échelon intercommunal soulèvent des difficultés. Conscient des problèmes que peuvent rencontrer les collectivités locales et conformément à ses engagements pris lors des débats parlementaires, le Gouvernement a constitué un groupe de travail composé des représentants des ministères des finances et de l'intérieur ainsi que des membres du comité des finances locales. Les conclusions de ce groupe de travail sont contenues dans un rapport qui a été remis au Parlement. Ainsi, ont été étudiées les améliorations à apporter aux dispositifs de financement de la gestion des déchets et notamment les questions liées à la personnalisation de la taxe d'enlèvement des ordures ménagères, la définition de nouveaux critères permettant de recourir aux zonages de cette taxe, la définition de l'usager du service de l'élimination des déchets afin de faciliter l'adoption de la redevance d'enlèvement des ordures ménagères en milieu urbain avec habitat vertical et la détermination des tarifs de cette redevance. Les propositions du groupe de travail ont pour objectif de maintenir la liberté de choix du mode de financement du service d'élimination des déchets, d'adapter la TEOM et la REOM au financement du service rendu et de faciliter le passage de la taxe à la redevance ou inversement.
