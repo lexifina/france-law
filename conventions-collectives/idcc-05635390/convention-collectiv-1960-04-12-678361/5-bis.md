@@ -1,9 +1,0 @@
-# Article 5 bis
-
-Lorsqu'un salarié est embauché sur un chantier, son contrat de travail est conclu avec l'entreprise et non sur le chantier, à défaut d'autre stipulation.
-
-Pour des raisons tant économiques que sociales, il est du plus grand intérêt que la stabilité de l'emploi, au sein des entreprises, soit assurée dans toute la mesure du possible.
-
-Il est donc souhaitable que les entreprises conçoivent la politique de l'emploi non pas à l'échelon du chantier, mais à l'échelon le plus élevé de l'entreprise, compatible avec les impératifs géographiques.
-
-De façon pratique, il est notamment recommandé de ne pas débaucher systématiquement les ouvriers à la fin d'un chantier, si l'on peut les employer sur d'autres chantiers. Il convient, dans ce cas, de les affecter sur ces autres chantiers de l'entreprise.
