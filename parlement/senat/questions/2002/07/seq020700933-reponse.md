@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700933
+
+- Question : [SEQ020700933](seq020700933.md) — Réduction du temps de travail des agents de l'éducation nationale
+
+## Réponse
+
+*Jeunesse, JO du 2002-11-21, page 2792*
+
+A l'instigation du ministère chargé de la fonction publique, une refonte du régime indemnitaire des personnels administratifs a été mise en oeuvre à compter du 14 janvier 2002. Ces textes ont prévu, d'une part, l'abrogation des textes qui fixaient le régime des indemnités forfaitaires et horaires pour travaux supplémentaires et, d'autre part, la création d'une indemnité d'administration et de technicité et d'un nouveau régime d'indemnités forfaitaires pour travaux supplémentaires dans les services déconcentrés des administrations de l'Etat. L'accord-cadre relatif à l'aménagement et à la réduction du temps de travail dans les services déconcentrés et les établissements relevant du ministère de l'éducation nationale, signé le 10 octobre 2001, a parallèlement prévu la poursuite de discussions avec les organisations syndicales signataires de cet accord, portant sur le régime indemnitaire des personnels non enseignants de l'éducation nationale entrant dans le champ de ce dispositif. Dans ce contexte, une réflexion a été engagée, qui a tout d'abord conduit à réaliser un état des lieux précis sur le montant des rémunérations accessoires versées à ces personnels. Les résultats de ces travaux ont conduit à mettre en oeuvre un processus de revalorisation, qui a donné lieu à l'inscription, dans le projet de loi de finances pour 2003, d'une mesure de 35 millions d'euros permettant d'augmenter de 36 % les montants moyens des indemnités versées aux personnels administratifs et ouvriers des services de l'éducation nationale. Cette mesure doit ainsi permettre d'amorcer une politique de réduction des écarts indemnitaires constatés entre le ministère de la jeunesse, de l'éducation nationale et de la recherche et les autres départements ministériels.
