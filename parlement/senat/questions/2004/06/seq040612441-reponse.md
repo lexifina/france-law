@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040612441
+
+- Question : [SEQ040612441](seq040612441.md) — Pratiques commerciales de la grande distribution
+
+## Réponse
+
+*Économie, JO du 2004-08-12, page 1858*
+
+La recherche de solutions à l'accroissement des marges arrière qui pénalisent les consommateurs et les professionnels du commerce et de l'industrie est une priorité du Gouvernement. A l'issue d'une table ronde organisée le 3 juin 2004 entre les différents acteurs du secteur de la distribution, un engagement a été signé le 17 juin 2004 entre les industriels, les distributeurs, les représentants des commerçants et des agriculteurs, le ministre d'Etat, ministre de l'économie, des finances et de l'industrie et le ministre délégué aux petites et moyennes entreprises, au commerce, à l'artisanat, aux professions libérales et à la consommation. Les signataires se sont engagés à baisser les prix des produits de marque des grands industriels de 2 % en moyenne dès septembre 2004. Pour l'année 2005, les marges arrière seront réduites d'un point en moyenne par rapport au niveau de l'année 2004, et accompagnées d'une modération tarifaire des industriels. En outre, une commission d'experts sera chargée de faire le bilan de la législation existante et de proposer des mesures appropriées pour faciliter les relations entre les fournisseurs et les distributeurs et permettre la baisse des prix des produits de grande consommation. Par ailleurs, pour favoriser un développement harmonieux et équilibré de toutes les formes de commerce, le Gouvernement a souhaité augmenter les crédits du Fonds d'intervention pour les services, l'artisanat et le commerce (FISAC) par une dotation supplémentaire de 42 %. Ces crédits passent ainsi à 100 MEUR pour l'année 2004, à destination du commerce rural et de proximité. Enfin, une réflexion générale est par ailleurs engagée dans le domaine de la redynamisation du commerce rural et de proximité.
