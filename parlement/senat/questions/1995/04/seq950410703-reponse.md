@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950410703
+
+- Question : [SEQ950410703](seq950410703.md) — Fonctionnaires territoriaux employés à temps non complet - Computation de l'ancienneté de service pour pouvoir se présenter aux concours internes
+
+## Réponse
+
+*Aménagement du territoire, JO du 1995-05-18, page 1137*
+
+Réponse. - L'article 13 du décret no 91-298 du 20 mars 1991 modifié portant dispositions statutaires applicables aux fonctionnaires territoriaux nommés dans des emplois permanents à temps non complet dispose que les fonctionnaires à temps non complet bénéficient d'avancement d'échelon et de grade et de promotion interne selon les conditions d'ancienneté et suivant la procédure prévue pour les fonctionnaires à temps complet du même grade. L'ancienneté de service est prise en compte pour sa durée totale pour l'avancement d'échelon et, lorsque la durée de service dans l'emploi concerné est au moins égale au mi-temps, pour l'avancement de grade et la promotion interne. Dans les autres cas, elle est calculée en fonction du temps de service effectivement accompli, compte tenu du nombre d'heures de service hedbomadaire affecté à l'emploi. Conformément à l'article 39 de la loi no 84-53 du 26 janvier 1984 modifiée, les concours internes sont l'une des modalités de la promotion interne des fonctionnaires territoriaux. Par conséquent, lorsqu'un fonctionnaire territorial à temps non complet occupant un ou plusieurs emplois pour une durée hebdomadaire globale de travail inférieure au mi-temps se présente à un concours interne qui exige un certain nombre d'années de services effectifs, il convient d'effectuer la proratisation instituée par l'article 13 du décret précité. Dans un souci d'équité, et sous réserve de l'appréciation de la juridiction administrative, cette règle de proratisation peut être appliquée aux agents non titulaires à temps non complet qui se présentent également à des concours internes.
