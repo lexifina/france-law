@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980407706
+
+- Question : [SEQ980407706](seq980407706.md) — Divergence d'appréciation des situations d'invalidité entre les compagnies d'assurance et la sécurité sociale
+
+## Réponse
+
+*Économie, JO du 1998-06-18, page 1942*
+
+Réponse. - Dans le cadre d'un contrat d'assurance, la définition de l'invalidité relève de la liberté contractuelle. Par conséquent, chaque société d'assurance peut choisir une définition spécifique de l'invalidité en fonction de sa démarche commerciale relative à la couverture de ce risque. Cette définition peut s'avérer différente de cette retenue par les organismes de sécurité sociale, ce qui peut être source d'incompréhension pour les assurés. Ceci étant, un alignement sur la définition de l'invalidité utilisée par la sécurité sociale apparaît difficilement envisageable. Cela conduirait à soumettre complètement les sociétés d'assurances aux décisions des organismes sociaux quant à la définition, variable au cours du temps, du risque couvert. Or, une telle situation est incompatible avec une appréciation et une tarification correstes des risques. C'est pourquoi la Commission consultative de l'assurance, instance comprenant des représentants des professionnels et des consommateurs, préconise, dans son rapport relatif à l'assurance emprunteurs, de renforcer l'information des assurés en ce qui concerne la définition de l'invalidité. Elle recommande notamment que les documents d'information remis à l'assuré comportent une mise en garde explicité sur l'absence de liens entre les décisions de la sécurité sociales et celles des assureurs en matière d'invalidité. Elle propose également d'harmoniser les dénominations des différents types d'invalidité et d'incapacité utilisées par les assureurs afin de favoriser la comparaison entre les différents contrats. Les services du ministère de l'économie, des finances et de l'industrie étudient la mise en uvre de ces différentes propositions.
