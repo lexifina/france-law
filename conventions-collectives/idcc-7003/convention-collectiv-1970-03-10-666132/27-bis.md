@@ -1,8 +1,8 @@
 # Article 27 bis
 
-Les entreprises, entrant dans le champ d'application de la présente convention, devront garantir leurs salariés en cas d'incapacité temporaire ou permanente de travail et en cas de décès dans les conditions définies ci-après :
+Les entreprises entrant dans le champ d'application de la présente convention devront garantir leurs salariés en cas d'incapacité temporaire ou permanente de travail et en cas de décès dans les conditions définies ci-après :
 
-1. Ouverture du droit :
+1. Ouverture du droit
 
 Les droits aux garanties incapacité temporaire et permanente de travail et décès telles que définies ci-après sont ouverts à tous les salariés qui ont bénéficié des dispositions de l'article 38 bis de la convention collective nationale.
 
@@ -16,13 +16,13 @@ Ainsi sont visés :
 
 2. Garanties
 
-2.1. Garantie incapacité temporaire, à l'exclusion :
+2.1. - Garantie incapacité temporaire, à l'exclusion :
 
 - des accidents ou maladies ayant pour origine la guerre ;
 
 - des accidents ou maladies résultant du fait volontaire du bénéficiaire.
 
-Les salariés en arrêt de travail, à l'issue des délais prévus par l'article 38 bis de la convention collective nationale, bénéficient d'un complément d'indemnisation, afin d'assurer un revenu égal à 100 % du salaire net de référence compte-tenu des modalités de calcul des indemnités journalières de la MSA actuelles en vigueur.
+Les salariés en arrêt de travail, à l'issue des délais prévus par l'article 38 bis de la convention collective nationale, bénéficient d'un complément d'indemnisation, afin d'assurer un revenu égal à 100 % du salaire net de référence compte tenu des modalités de calcul des indemnités journalières de la MSA actuelles en vigueur.
 
 En aucun cas, le cumul des indemnités versées par la MSA et par l'organisme de prévoyance ne peut conduire le salarié à percevoir un revenu supérieur à 100 % du salaire net de référence.
 
@@ -30,7 +30,7 @@ Le salaire de référence net visé dans les alinéas ci-dessus correspond au sa
 
 Les indemnités complémentaires sont versées tant que l'incapacité est indemnisée par la MSA, soit au plus tard jusqu'au 1 095e jour d'arrêt de travail.
 
-Les indemnités complémentaires cessent à la date d'attribution d'une pension d'invalidité ou à la date de liquidation de la pension vieillesse par la MSA et, en tout état de cause, à la date du 65e anniversaire.
+Les indemnités complémentaires cessent à la date d'attribution d'une pension d'invalidité ou à la date de liquidation de la pension vieillesse par la MSA et, en tout état de cause, à la date de 65e anniversaire.
 
 Les indemnités complémentaires versées peuvent être réduites, suspendues ou supprimées en cas de reprise partielle du travail par le salarié sous réserve qu'il continue à percevoir un revenu égal à 100 % du salaire net de référence.
 
@@ -40,11 +40,11 @@ Les indemnités complémentaires versées peuvent être réduites, suspendues ou
 
 - des accidents ou maladies résultant du fait volontaire du bénéficiaire.
 
-Les salariés, titulaires d'une pension dans le cadre de l'assurance invalidité ou d'une rente correspondant à un taux d'incapacité d'au moins 33 % dans le cadre de l'assurance des accidents du travail et maladies professionnelles, bénéficient d'une pension ou d'une rente mensuelle complémentaire.
+Les salariés titulaires d'une pension dans le cadre de l'assurance invalidité ou d'une rente correspondant à un taux d'incapacité d'au moins 33 % dans le cadre de l'assurance des accidents du travail et maladies professionnelles bénéficient d'une pension ou d'une rente mensuelle complémentaire.
 
 La pension ou la rente mensuelle complémentaire versée ne peut être inférieure à 25 % du salaire brut de référence pour la part du salaire inférieure ou égale au plafond mensuel de la sécurité sociale, ni à 60 % du salaire brut de référence pour la part du salaire supérieure au dit plafond.
 
-En aucun cas le cumul d'un revenu d'activité, de la rente ou pension versée par la MSA et par l'organisme de prévoyance ne peut conduire le salarié à percevoir un revenu supérieur à 100 % du salaire net de référence.
+En aucun cas, le cumul d'un revenu d'activité, de la rente ou pension versée par la MSA et par l'organisme de prévoyance ne peut conduire le salarié à percevoir un revenu supérieur à 100 % du salaire net de référence.
 
 Le salaire de référence brut visé dans les alinéas ci-dessus correspond au salaire mensuel moyen brut de base des 12 derniers mois précédant l'ouverture du droit à la garantie incapacité permanente.
 
@@ -68,7 +68,7 @@ Le montant du capital décès versé est égal à 100 % du salaire annuel brut d
 
 Le capital décès sera majoré de 50 % du salaire annuel brut de référence lorsque le salarié décédé laissera son conjoint survivant non séparé de corps, son concubin ou son cocontractant d'un PACS.
 
-On entend par concubinage au sens du code civil (article L. 515-8 du code civil) une union de fait, caractérisée par une vie commune présentant un caractère de stabilité et de continuité, entre 2 personnes, de sexe différent ou de même sexe, qui vivent en couple.
+On entend par concubinage au sens du code civil (art. L. 515-8 du code civil) une union de fait, caractérisée par une vie commune présentant un caractère de stabilité et de continuité, entre deux personnes, de sexe différent ou de même sexe, qui vivent en couple.
 
 Le capital décès sera majoré de 25 % du salaire annuel brut de référence pour chaque enfant à charge à la date du décès.
 
@@ -88,13 +88,13 @@ En cas de décès de son conjoint non séparé de corps, de son concubin, de son
 
 Le montant de l'indemnité obsèques versée est égale à 100 % du plafond mensuel de la sécurité sociale.
 
-La demande d'indemnité obsèques doit être déposée par le salarié dans les 6 mois du décès sous peine de déchéance.
+La demande d'indemnité obsèques doit être déposée par le salarié dans les six mois du décès sous peine de déchéance.
 
-3. Organisme de prévoyance :
+3. Organisme de prévoyance
 
 Les garanties énumérées ci-dessus seront contractées auprès d'un organisme de prévoyance.
 
-4. Répartition des cotisations :
+4. Répartition des cotisations
 
 Les cotisations sont réparties selon les dispositions ci-après :
 
@@ -104,6 +104,6 @@ Les cotisations sont réparties selon les dispositions ci-après :
 
 Les modalités du contrat souscrit avec un organisme de prévoyance devront être portées à la connaissance du personnel.
 
-5. Clause de sauvegarde :
+5. Clause de sauvegarde
 
-Par exception, les entreprises qui ont conclu un contrat de prévoyance avant la date d'extension du présent accord, pourront maintenir leur adhésion au régime antérieur, à condition que celui-ci assure des garanties équivalentes aux salariés.
+Par exception, les entreprises qui ont conclu un contrat de prévoyance avant la date d'extension du présent accord pourront maintenir leur adhésion au régime antérieur, à condition que celui-ci assure des garanties équivalentes aux salariés.
