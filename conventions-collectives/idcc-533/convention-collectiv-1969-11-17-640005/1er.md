@@ -1,19 +1,35 @@
 # Article 1er
 
-La présente convention est conclue en application de la loi du 4 février 1950, modifiée par la loi du 13 juillet 1971, et notamment du chapitre III du titre III du code du travail.
+La présente convention règle sur l'ensemble du territoire national, y compris les DOM, les rapports entre employeurs et salariés des entreprises dont l'activité principale est le commerce de gros en matériaux de construction, définie par la nomenclature d'activités française, au code APE : 51.5F Commerce de gros de matériaux de construction et d'appareils sanitaires.
 
-Elle règle les rapports entre employeurs et employés, techniciens et agents de maîtrise des entreprises dont l'activité est exclusivement ou principalement le négoce des matériaux de construction, visée notamment par la nomenclature d'activités et de produits résultant du décret n° 73-1036 du 9 novembre 1973, sous le numéro suivant (code APE) : 59-08 Commerce des matériaux de construction, de verre à vitres et d'appareils sanitaires.
+Dans cette classe, ne sont visées que les activités « commerce de gros de matériaux de construction ».
 
-Elle s'applique avec ses annexes à l'ensemble du territoire métropolitain, y compris la Corse.
+A titre indicatif, les principales familles de produits et matériaux pouvant être commercialisées par les entreprises de négoce en matériaux de construction sont les suivantes :
 
-En cas de pluralité d'activités, les entreprises seront soumises à la convention collective de la branche la plus importante de leurs activités.
+- poudres, agrégats, béton, éléments de structure ;
 
-Elle s'applique également au personnel de ces entreprises exerçant des métiers pouvant ressortir d'autres professions, employés dans le négoce pour y exercer leur spécialité, étant entendu que leurs salaires ne pourront être inférieurs à ceux de la classification résultant des accords ou conventions de leur profession ou industrie d'origine.
+- couverture, étanchéité ;
 
-Des annexes à la présente convention, qui pourront être établies par région, détermineront les dispositions particulières qui leur sont applicables.
+- travaux publics, assainissement, épuration ;
 
-N.B. : Par suite de l'adhésion des syndicats des départements de l'Aube et de Loir-et-Cher, la convention interrégionale devient nationale (avenant n° 40 du 13 avril 1988).
+- menuiseries intérieures et extérieures ;
 
-NOTA :
+- cloisons, plafonds ;
 
-N.B. : Par suite de l'adhésion des syndicats des départements de l'Aube et de Loir-et-Cher, la convention interrégionale devient nationale (avenant n° 40 du 13 avril 1988).
+- isolation bâtiment, isolation industrie ;
+
+- carrelage et revêtements ;
+
+- sanitaire ;
+
+- bois, panneaux ;
+
+- chauffage ;
+
+- outillage, électricité, quincaillerie ;
+
+- peinture, bricolage décoration, équipements de jardin...
+
+La présente convention ne s'applique pas si une famille de produits mentionnée ci-dessus constitue durablement à elle seule l'activité principale définie par le champ d'application professionnel d'une autre convention collective nationale.
+
+Il est rappelé que le code APE attribué par l'INSEE est donné à titre indicatif, n'a que la valeur d'une présomption, seule l'activité réelle principale de l'entreprise détermine, en vertu de la jurisprudence de la Cour de cassation, son assujettissement à un texte conventionnel.
