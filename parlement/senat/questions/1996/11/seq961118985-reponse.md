@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961118985
+
+- Question : [SEQ961118985](seq961118985.md) — Aide aux journaux hebdomadaires régionaux et locaux
+
+## Réponse
+
+*Culture, JO du 1997-02-06, page 369*
+
+Réponse. - Le critère relatif à la langue française prévu par le décret du 10 mai 1996 instituant une aide aux publications hebdomadaires régionales et locales ne saurait être considéré comme constitutif d'une atteinte à la liberté d'expression, principe garanti par le bloc constitutitionnel et plusieurs conventions internationales auxquelles la France est partie. En effet, l'exclusion des publications en langues régionales au titre de cette aide sectorielle - par laquelle le Gouvernement a souhaité apporter un soutien particulier à une catégorie spécifique de presse - ne porte nullement atteinte à l'usage et à la diffusion des langues régionales en tant que telles. Aussi, l'exigence relative à la rédaction en langue française des publications répond-t-elle à un motif légitime de limiter cette aide aux publications d'information politique et générale bénéficiant d'un assez large lectorat. Il convient par ailleurs de rappeler que les publications rédigées en langues régionales peuvent obtenir un numéro d'agrément auprès de la commission paritaire des publications et agences de presse afin de bénéficier de tarifs postaux préférentiels et d'avantages fiscaux. Au regard de ces aides indirectes à la presse qui constituent la partie la plus importante du soutien de l'Etat au pluralisme de l'expression de la pensée, l'aide directe instituée au bénéfice des publications hebdomadaires régionales et locales est minime. L'accès des publications rédigées en langue régionale au bénéfice des aides publiques correspond ainsi à la volonté du Gouvernement de participer au rayonnement des langues et des cultures régionales faisant partie intégrante de notre patrimoine national.
