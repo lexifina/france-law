@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910414780
+
+- Question : [SEQ910414780](seq910414780.md) — Situation administrative et financière des enseignants recrutés sur des postes dits " non autorisés "
+
+## Réponse
+
+*Affaires étrangères, JO du 1991-09-05, page 1870*
+
+Réponse. - 1° L'agence pour l'enseignement français à l'étranger est en droit d'exercer un contrôle sur les postes de résidents car il s'agit d'emplois développés dont le nombre figure à son budget et ne peut être modifié sans une nouvelle décision budgétaire ; dans les cas où l'établissement local prend à sa charge le traitement de l'agent recruté, l'agence assume une partie du coût financier des résidents en versant la part patronale des cotisations sociales et les indemnités de revalorisation fixées par le ministère de l'éducation nationale. 2° Le décret n° 90-469 du 31 mai 1990 ne prévoit pas de détachement administratif en dehors du statut de résident. 3° Tous les recrutés locaux dont la situation correspond aux critères fixés par la circulaire n° 1402 du 3 mai 1991 (nationalité française, statut de l'établissement, rémunération inférieure à 80 p. 100 du traitement parisien, minima de service) peuvent prétendre bénéficier d'une allocation exceptionnelle. 4° Les enseignants titulaires recrutés localement par les établissements et répertoriés par l'agence se verront proposer un poste de résident pour la rentrée de septembre 1991 ; l'agence pour l'enseignement français à l'étranger ne peut cependant s'engager à régulariser systématiquement de telles situations, les demandes excédant le nombre de postes dont elle dispose. Les établissements scolaires ont reçu pour consigne d'informer clairement les titulaires susceptibles d'être recrutés à la rentrée de 1991 sur un contrat de dix mois que l'agence n'a pris aucun engagement de transformer leur emploi en poste de résident.
