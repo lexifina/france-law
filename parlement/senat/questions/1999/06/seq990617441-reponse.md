@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990617441
+
+- Question : [SEQ990617441](seq990617441.md) — Liaison ferrée Bordeaux-Lyon
+
+## Réponse
+
+*Équipement, JO du 2000-02-03, page 422*
+
+Réponse. - Le Gouvernement a fait le choix d'engager, en 1997, une nouvelle politique des transports permettant un aménagement équilibré et un développement durable du territoire, marquant en particulier sa volonté de promouvoir le rail qui dispose d'indéniables atouts en matière de sécurité et de respect de l'environnement. C'est ainsi que, tout d'abord, les mesures ont été prises afin de stabiliser la situation financière de Réseau ferré de France (RFF) et de lui permettre de disposer de la capacité d'investissement nécessaire. Il est désormais possible de mobiliser chaque année environ 12 milliards de francs de crédits publics en faveur des infrastructures ferroviaires, soit une somme de l'ordre de 120 milliards pour la période 2000-2010. L'équilibre nécessaire entre la maintenance du réseau, la modernisation et l'adaptation des lignes classiques et la création de nouvelles lignes TGV pourra ainsi être assuré. En ce qui concerne plus particulièrement la ligne Bordeaux-Lyon, les échanges intervilles ont d'ores et déjà été améliorés par la SNCF, en concertation avec les régions Aquitaine, Limousin, Auvergne et Rhône-Alpes. Toutefois, étant donné l'intérêt qu'elle présente pour un aménagement durable du territoire, l'Etat s'est engagé à participer au financement d'une étude des potentialités de trafic de cette ligne, afin de déterminer les moyens à mettre en uvre pour améliorer la desserte de ses deux itinéraires. Une convention d'étude est en cours de signature par les différents partenaires : Etat, régions, RFF, SNCF. C'est au vu des résultats de cette étude que les partenaires concernés pourront envisager les différentes orientations possibles pour la revitalisation de cette liaison transversale.
