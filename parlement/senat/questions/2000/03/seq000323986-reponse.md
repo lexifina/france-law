@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000323986
+
+- Question : [SEQ000323986](seq000323986.md) — Conséquences contraignantes des normes introduites pour la pratique des sports nautiques
+
+## Réponse
+
+*Éducation, JO du 2000-07-06, page 2391*
+
+Réponse. - Dans le souci d'améliorer l'organisation des sorties scolaires dans les écoles maternelles et élémentaires et afin d'intégrer les adaptations qui sont apparues indispensables après une année de mise en uvre, les circulaires nº 97-176 du 18 septembre 1997 et nº 97-176 bis du 21 novembre 1997 précisant les règles d'organisation de ces sorties ont été revues et ont fait l'objet d'une nouvelle publication. La circulaire nº 99-136 du 21 novembre 1999, publiée au bulletin Officiel hors série nº 7 du 23 septembre 1999, se substitue donc aux textes antérieurs. L'étude menée à cet effet par un groupe de travail a pris en compte les recommandations d'un rapport de l'inspection générale de l'administration de l'éducation nationale. Il est vrai que les nouvelles conditions pour la pratique des activités nautiques définies dans cette circulaire sont apparues difficiles à mettre en uvre dans la mesure, en particulier, où de nombreux enfants n'étaient pas capables de réussir le parcours à la nage de 25 mètres qui était demandé. Il est donc apparu nécessaire de mettre en place un groupe de travail, rassemblant des représentants des syndicats enseignants, des fédérations de parents d'élèves et des associations, afin d'analyser les effets des nouvelles règles sur les activités nautiques et les classes de mer et d'étudier les adaptations à envisager. Un consensus s'est établi autour d'un test mieux adapté à l'âge des enfants et conçu de telle manière qu'il puisse garantir la sécurité des enfants en cas de chavirage d'une embarcation. Un projet de circulaire modifiant, sur ce point, les dispositions de la circulaire nº 99-136 du 23 septembre 1999 est donc en cours d'élaboration.
