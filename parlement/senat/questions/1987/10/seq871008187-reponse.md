@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871008187
+
+- Question : [SEQ871008187](seq871008187.md) — Reprise par les OPHLM de logements d'accédants à la propriété en difficulté
+
+## Réponse
+
+*Équipement, JO du 1987-12-10, page 1943*
+
+Réponse. -Une circulaire du 10 juillet 1987 a institué la possibilité, pour les organismes d'H.L.M. habilités à louer un patrimoine, de racheter le logement des emprunteurs titulaires de prêts aidés à l'accession à la propriété (P.A.P.) souscrits entre le 1er juillet 1981 et le 31 décembre 1984 et connaissant des difficultés particulièrement graves de remboursement. Cette procédure, qui vise à éviter aux ménages de condition modeste une mise en vente judiciaire de leur logement, est rendue possible grâce à l'attribution à l'organisme racheteur d'un prêt de la Caisse des dépôts et consignations à taux privilégié (5,8 p. 100 sur vingt ans). En contrepartie de son maintien dans les lieux, l'emprunteur, propriétaire du logement, en devient locataire et s'engage à rembourser sur une courte période et sans intérêt l'arriéré qu'il a constitué. Le logement ainsi racheté est, dès lors, obligatoirement conventionné, ouvrant ainsi au locataire le droit à l'aidepersonnalisée au logement (A.P.L.) locative, et le loyer pratiqué ne peut dépasser celui d'un logement équivalent financé en prêt locatif aidé (P.L.A.). Compte tenu de la date de publication de la circulation, il serait prématuré de vouloir dresser un bilan de son application. Toutefois, plusieur centaines de dossiers ont été déposés auprès de différentes sociétés d'H.L.M., montrant ainsi l'intérêt suscité par cette procédure qui, toutefois, doit être réservée aux ménages d'emprunteurs pour lesquels les voies classiques de redressement de la situation se révèlent inefficaces et un maintien dans les lieux paraît socialement indispensable.
