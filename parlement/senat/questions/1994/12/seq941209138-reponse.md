@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941209138
+
+- Question : [SEQ941209138](seq941209138.md) — Statut des psychologues scolaires
+
+## Réponse
+
+*Éducation, JO du 1995-02-02, page 268*
+
+Réponse. - Les psychologues scolaires, dans le cadre des réseaux d'aides spécialisées aux élèves en difficulté, apportent l'appui de leurs compétences pour la prévention des difficultés scolaires, pour l'élaboration du projet pédagogique de l'école, pour la conception, la mise en oeuvre et l'évaluation des aides aux élèves en difficulté. C'est pourquoi une expérience pédagogique préalable a toujours été considérée comme nécessaire pour exercer ces fonctions. Cette exigence implique que les psychologues scolaires soient des enseignants du premier degré à qui une formation spécifique est apportée. La situation des psychologues scolaires répond aux exigences de la loi no 85-772 du 25 juillet 1985, tant par la formation qui leur est apportée que par l'autorisation de faire usage du titre de psychologue scolaire qui leur a été accordée par le décret no 93-255 du 22 mars 1990 modifié par le décret no 93-536 du 27 mars 1993. La création d'un corps nouveau de fonctionnaires de l'éducation nationale n'est donc pas nécessaire pour répondre aux besoins de la psychologie scolaire. Ce sont moins les incidences budgétaires qui rendent difficile cette création que le risque de voir les interventions des différents personnels à l'école primaire perdre de leur cohérence, et donc de leur efficacité : instituteurs ou professeurs des écoles des classes ordinaires, maîtres chargés des aides à dominante pédagogique, maîtres chargés des aides à dominante rééducative et psychologues scolaires appartiennent tous aux corps de personnels enseignants du premier degré, ce qui facilite leur compréhensioin des problèmes posés par les élèves en difficulté et leur collaboration dans les actions entreprises en faveur de ces élèves.
