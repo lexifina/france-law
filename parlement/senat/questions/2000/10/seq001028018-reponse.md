@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001028018
+
+- Question : [SEQ001028018](seq001028018.md) — Réglementation de la concurrence dans le secteur de l'horlogerie-bijouterie
+
+## Réponse
+
+*Économie, JO du 2000-11-23, page 4007*
+
+Réponse. - Les ventes promotionnelles que les commerçants réalisent en application du principe de liberté des prix ne sont pas laissées en dehors de tout contrôle. En premier lieu, elles doivent se conformer aux articles L. 121-1 et suivants du code de la consommation relatifs à la publicité trompeuse ou de nature à induire en erreur. Les annonces de réduction de prix sont par ailleurs soumises aux dispositions de l'arrêté nº 77-105/P du 2 septembre 1977 qui permet de sanctionner les pratiques de faux rabais, notamment celle consistant à majorer artificiellement le prix de référence par rapport auquel la réduction est calculée. Enfin, les opérations commerciales présentées comme visant à l'écoulement accéléré d'un stock déterminé de marchandises relèvent de la réglementation des soldes et peuvent être poursuivies au titre de l'article L. 310-3 du code de commerce si elles sont effectuées en dehors des deux périodes légales de six semaines fixées par le préfet dans chaque département. Les dispositions précédentes sont applicables à toutes les formes de distribution, y compris aux comités d'entreprises ou autres associations entrant en concurrence avec les commerçants. Elles font l'objet de contrôles réguliers de la part des services de la direction générale de la concurrence, de la consommation et de la répression des fraudes et les infractions sont sanctionnées, parfois lourdement, par les tribunaux. Dans ce cadre, il ne semble pas nécessaire d'adopter de nouvelles dispositions juridiques alors que la réglementation actuelle permet une concurrence loyale entre commerçants, profitable aux consommateurs.
