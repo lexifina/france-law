@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940305342
+
+- Question : [SEQ940305342](seq940305342.md) — Information des producteurs forestiers sylviculteurs
+
+## Réponse
+
+*Environnement, JO du 1994-06-09, page 1439*
+
+Réponse. - Les protections réglementaires pouvant concerner les bois et forêts sont soumises, dans le cadre de leur instruction, à la procédure d'enquête publique. C'est le cas notamment des classements en espaces boisés à conserver ou à créer dans les plans d'occupation des sols, de la réglementation des boisements, des forêts de protection, des parcs nationaux, et des réserves naturelles. Les parcs naturels régionaux, qui s'assimilent plus à des protections de type contractuel, ne sont pas soumis à cette procédure, mais les dispositions contenues dans leur charte ne sont pas directement opposables aux tiers. Ainsi, il n'est donc pas possible d'imposer des décisions aux propriétaires forestiers sylviculteurs sans que ceux-ci aient été informés et consultés préalablement, et leurs droits sont préservés dans le cadre de ces procédures de classement, au même titre que ceux de l'ensemble des citoyens. La mise en oeuvre de la directive européenne sur la conservation des habitats, de la faune et de la flore, prévoit quant à elle une information des représentants de la forêt privée sur les zones inventoriées, et leur participation à l'élaboration des orientations de gestion pour la désignation des sites Natura 2 000 auprès de la commission. Les services du ministère de l'environnement ont établi des contacts étroits à ce sujet avec la Fédération nationale des syndicats de propriétaires forestiers sylviculteurs. Ils associeront les représentants des propriétaires forestiers privés à tous les niveaux de négociation, pour participer à cette nouvelle politique de protection de la nature, dont il est souhaitable qu'elle s'établisse sur la base d'une grande transparence vis-à-vis des citoyens.
