@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900610471
+
+- Question : [SEQ900610471](seq900610471.md) — Mouvement de grève dans la magistrature
+
+## Réponse
+
+*Justice, JO du 1991-07-18, page 1503*
+
+Réponse. - L'honorable parlementaire a bien voulu se faire l'écho d'un certain nombre de revendications exprimées par des membres des tribunaux administratifs et des cours administratives d'appel au sujet de leurs conditions de travail. Le premier point abordé par l'honorable parlementaire est relatif à la situation des effectifs des juridictions. L'action du Gouvernement dans ce domaine a été exemplaire et sans précédent puisque depuis la loi du 31 décembre 1987 portant réforme du contentieux administratif, plus de 170 emplois de magistrat ont été créés dans les juridictions administratives, dont soixante-douze dans les seuls tribunaux administratifs. Cela représente une augmentation globale des effectifs du corps des tribunaux administratifs de 45 p. 100 en trois ans, ces créations d'emplois s'accompagnant de l'ouverture de 33 postes de président. Les effectifs sont ainsi passés de 376 emplois de magistrat à 539 en trois exercices budgétaires. La situation des personnels de greffe n'a pas suivi une évolution comparable. Cette situation, qui n'est pas sans poser de réels problèmes de fonctionnement aux juridictions, devrait connaître un début d'amélioration grâce à la création par la loi de finances pour 1991 de 30 emplois de greffe. Enfin, la situation du greffe du tribunal administratif de Besançon a fait l'objet, comme les greffes des autres tribunaux administratifs, d'une évaluation précise à l'occasion du transfert de gestion du ministère de l'intérieur au Conseil d'Etat, ce qui devrait permettre de prendre les mesures qui s'imposent pour assurer un fonctionnement plus efficace de cette juridiction.
