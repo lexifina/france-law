@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900107853
+
+- Question : [SEQ900107853](seq900107853.md) — Situation des orphelins de guerre
+
+## Réponse
+
+*Anciens combattants, JO du 1990-03-08, page 476*
+
+Réponse. - La question posée par l'honorable parlementaire appelle la réponse suivante : 1° Les victimes de guerre peuvent bénéficier soit d'un reclassement professionnel au titre de la législation sur les emplois réservés, soit d'un emploi dans le secteur privé, en application de la loi du 26 avril 1924 concernant l'emploi obligatoire des " mutilés de guerre ". Pour leur part, les orphelins de guerre peuvent bénéficier de cette dernière législation jusqu'à l'âge de vingt-cinq ans ; elle facilite leur insertion professionnelle après études ou service national. 2° L'accès aux emplois réservés est ouvert à des catégories de personnes écartées, pour diverses raisons, des voies normales de recrutement dans les emplois du secteur public. Les orphelins de guerre bénéficient jusqu'à l'âge de vingt et un ans de la protection de l'Etat pour leur éducation. Ils ont donc la possibilité de participer aux épreuves des concours organisés dans les conditions du droit commun ; le total des points acquis au titre de ces épreuves est majoré de un dixième à leur profit. Le maintien de ces avantages aux orphelins de guerre de plus de vingt et un ans nécessiterait le recours à la procédure législative, s'agissant de modifier les dispositions de l'article L. 395 du code des pensions militaires d'invalidité et des victimes de guerre concernant les seuls orphelins mineurs. Une décision de principe de cet ordre relèverait de la compétence du ministre chargé de la fonction publique. S'agissant de l'accès aux emplois du secteur privé, toute mesure tendant à accorder un droit de priorité aux orphelins de guerre relèverait de la compétence du ministre du travail, de l'emploi et de la formation professionnelle.
