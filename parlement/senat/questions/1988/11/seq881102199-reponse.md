@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881102199
+
+- Question : [SEQ881102199](seq881102199.md) — Extension de la ligne TGV jusqu'à la frontière franco-espagnole
+
+## Réponse
+
+*Équipement, JO du 1989-03-09, page 404*
+
+Réponse. - L'établissement de liaisons à grande vitesse entre la France et l'Espagne était jusqu'à présent rendu difficile par le fait que l'écartement des voies sur le réseau espagnol est plus large qu'en France. La décision que vient de prendre le Gouvernement espagnol de construire une ligne à grande vitesse Barcelone-Madrid-Séville à l'écartement européen va permettre d'envisager le raccordement des réseaux à grande vitesse français et espagnol. La liaison Paris-Madrid pourra ainsi être effectuée avec des rames aptes à la grande vitesse par Lyon, la vallée du Rhône et la côte languedocienne. La ligne à grande vitesse Paris-Lyon est en service depuis 1983. Son prolongement jusqu'à Valence avec contournement de Lyon, décidé par le Gouvernement en octobre 1987, doit être mis en service en 1994, avec une première phase pour les jeux Olympiques d'hiver en 1992, entre Satolas et Saint-Quentin-Fallavier. Le prolongement au-delà de Valence est d'ores et déjà à l'étude. Le réseau de la côte languedocienne devra être modernisé. Cette modernisation, susceptible de consister en la réalisation d'une ligne nouvelle ou de sections de lignes nouvelles, devra faire l'objet d'études techniques et économiques préalables. Il est bien sûr prématuré de définir les conditions de desserte des différentes agglomérations de la région. Il convient à cet égard de rappeler que le T.G.V. constitue un mode efficace de déplacement à moyenne et longue distance entre grands pôles de trafic en concurrence, notamment avec le transport aérien. Il est certain que l'amélioration de l'axe languedocien conduira à une meilleure desserte des différentes villes de la région.
