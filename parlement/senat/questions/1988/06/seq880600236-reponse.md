@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880600236
+
+- Question : [SEQ880600236](seq880600236.md) — Situation d'un secrétaire de mairie de commune rurale
+
+## Réponse
+
+*Intérieur, JO du 1989-03-02, page 371*
+
+Réponse. - Pour prendre en compte l'importance des missions et des responsabilités des secrétaires de mairie des communes de moins de 2 000 habitants, un cadre d'emplois particulier de la catégorie B a été créé. Les secrétaires de mairie de 2e et de 1er niveau sont intégrés dans le cadre d'emplois des secrétaires de mairie dont le statut particulier qui a été fixé par le décret n° 87-1103 du 30 décembre 1987 leur permet de dérouler une carrière dans les conditions comparables aux dispositions antérieures. Les rédacteurs qui, comme le permettaient les dispositions antérieures aux cadres d'emplois, ont occupé l'emploi de secrétaire de mairie mais avaient abandonné ces fonctions au 31 décembre 1987 sont, quant à eux, intégrés dans le cadre d'emplois des rédacteurs territoriaux. Tel semble être le cas décrit par l'honorable parlementaire. Cette situation n'emporte aucune dégradation de la situation financière de l'intéressé, le statut particulier des rédacteurs permettant aux fonctionnaires qui y ont été intégrés de bénéficier de perspectives de carrière identiques à celles prévues par les textes antérieurs. Il convient d'ajouter qu'il n'entre pas dans les compétences de la commission d'homologation instituée pour le cadre d'emplois des attachés territoriaux de proposer l'intégration de fonctionnaires dans un grade différent de celui que les statuts particuliers leur donne vocation à occuper. Pour établir une plus grande continuité dans la carrière de tous ces fonctionnaires, le Gouvernement a soumis à l'examen du conseil supérieur de la fonction publique territoriale un projet de décret modifiant le statut particulier des attachés territoriaux.
