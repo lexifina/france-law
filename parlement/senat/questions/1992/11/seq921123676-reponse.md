@@ -1,0 +1,9 @@
+# Réponse à la question SEQ921123676
+
+- Question : [SEQ921123676](seq921123676.md) — Taxation des entreprises françaises et étrangères aux Etats-Unis
+
+## Réponse
+
+*Budget, JO du 1993-02-18, page 282*
+
+Réponse. - La France est liée aux Etats-Unis par une convention fiscale du 28 juillet 1967 tendant à éviter les doubles impositions et à établir des règles d'assistance administrative réciproque en matière d'impôts sur le revenu et la fortune. L'application de cette convention, ainsi que de celle du 24 novembre 1978 relative aux impôts sur les successions et sur les donations, n'est pas sans soulever des difficultés, comme l'indique l'honorable parlementaire. En effet, les Etats-Unis considèrent que la Constitution américaine place le droit interne sur le même plan que les traités internationaux, de sorte que ces derniers peuvent être contredits par une loi postérieure. Le Congrès a adopté ces dernières années plusieurs dispositions dont la conformité avec les traités internationaux a été discutée par les partenaires conventionnels des Etats-Unis. La France est soucieuse d'éviter la double imposition de ses entreprises implantées aux Etats-Unis, mais refuse également d'en supporter l'effacement lorsque cette double imposition résulte d'une mesure unilatérale contraire aux traités. Le Gouvernement français a été amené à plusieurs reprises à protester par voie diplomatique, le plus souvent en liaison avec les autres Etats membres de la Communauté européenne. Dans le même temps, les autorités françaises s'efforcent, dans des contacts bilatéraux et dans le cadre de l'OCDE, de dissuader les autorités américaines d'adopter des orientations incompatibles avec leurs engagements internationaux. Ces difficultés sont prises en compte dans la révision, en cours de négociation, de la convention franco-américaine du 28 juillet 1967.
