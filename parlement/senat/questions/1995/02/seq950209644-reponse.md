@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950209644
+
+- Question : [SEQ950209644](seq950209644.md) — Calendrier électoral et conseils municipaux
+
+## Réponse
+
+*Intérieur, JO du 1995-04-27, page 1007*
+
+Réponse. - Conformément aux articles 8 et 9 de la loi no 82-213 du 2 mars 1982, la date limite de vote des comptes administratifs de 1994 reste fixée au 30 juin 1995 pour l'ensemble des collectivités territoriales et au 1er juin pour celles dont le budget primitif correspondant à été réglé d'office par le préfet dans le cadre des procédures de contrôle budgétaire instituées par la loi précitée du 2 mars 1982. Bien que les élections municipales aient été reportées au mois de juin 1995 par la loi no 94-950 du 15 juillet 1994, il n'est pas apparu opportun au législateur de retarder la date limite de vote des comptes administratifs de 1994. Ceux-ci devront donc être adoptés comme cela apparait logique par les équipe municipales actuellement en place, sur le fondement et après transmission du compte de gestion 1994 établi par le receveur municipal, généralement disponible dès la fin du premier trimestre 1995. Il est rappelé à l'honorable parlementaire, qu'en l'absence de vote du conseil municipal sur le compte administratif présenté par le maire après transmission du compte de gestion établi par le comptable de la commune, les comptes communaux de l'exercice ne sont pas considérés comme " arrêtés " au sens de la loi précitée du 2 mars 1982. Ce faisant, il convient de rappeler que le défaut d'adoption du compte administratif empêche d'une part de liquider les attributions du fonds de compensation pour la TVA, afférentes aux opérations d'investissement éligibles de l'antépénultième année et conduit, d'autre part, le représentant de l'Etat à transmettre, en application des dispositions prévues à l'article 9-2 de la loi du 2 mars 1982, le plus proche budget voté par la commune à la chambre régionale des comptes selon la procédure prévue à l'article 8 de la même loi.
