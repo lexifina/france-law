@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000625865
+
+- Question : [SEQ000625865](seq000625865.md) — Coût du transport des films
+
+## Réponse
+
+*Culture, JO du 2001-02-15, page 579*
+
+Réponse. - Les salles de cinéma bénéficient d'un soutien financier dans le cadre du compte de soutien à l'industrie cinématographique géré par le Centre national de la cinématographie. Ces aides sont accordées soit de manière automatique - pour financer les travaux des salles - soit de manière sélective : aides à la création et à la modernisation des salles dans les zones insuffisamment équipées, subventions de fonctionnement pour les salles de cinéma qui consacrent leur programmation aux films art et essai. Si les salles de cinéma de petite taille situées dans les zones rurales bénéficient de ces différents dispositifs d'aides, la question spécifique du coût de transport des copies ne peut être traitée dans le cadre du compte de soutien, qui ne prévoit aucune mesure en ce sens. Toutefois, l'Agence pour le développement régional du cinéma, qui a pour mission de favoriser, en finançant le tirage de copies, l'accès aux films de salles situées dans des zones insuffisamment prises en compte dans les plans de sorties des distributeurs, a été alertée sur cette question. L'ADRC prévoit en conséquence de mettre en place un groupe de travail réunissant les organisations professionnelles représentant les transporteurs et les exploitants pour examiner si des solutions pourraient être apportées pour que les coûts de transport ne constituent pas un handicap pour les salles de cinéma. Il faut par ailleurs observer que, dans ses modes d'intervention, l'ADRC veille à organiser une circulation optimale des copies entre les salles situées dans une même zone géographique. Cette action contribue à permettre à un nombre élevé de salles d'avoir accès aux films, même quand celles-ci sont situées dans des zones éloignées des grands centres urbains.
