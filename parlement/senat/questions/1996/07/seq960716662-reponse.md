@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960716662
+
+- Question : [SEQ960716662](seq960716662.md) — Conditions d'attribution de la prime au maintien des systèmes d'élevage extensifs dite " prime à l'herbe "
+
+## Réponse
+
+*Agriculture, JO du 1996-09-05, page 2279*
+
+Réponse. - La prime au maintien des systèmes d'élevage extensifs est une des mesures prises par la France dans le cadre de la réglementation communautaire en faveur de l'agriculture respectueuse de l'environnement. C'est la contrepartie de l'engagement d'un éleveur herbager de maintenir son système d'élevage extensif et d'entretenir les surfaces en herbe qu'il a déclarées, pendant au moins cinq ans. Ainsi, en 1993, l'agriculteur qui avait choisi de s'engager sur cinq ans recevait une prime de 120 francs par hectare de prairie, portée à 200 francs en 1994 et à 300 francs de 1995 à 1997. Cette mesure est réservée aux éleveurs herbagers spécialisés qui pratiquent un élevage extensif. De fait, la plupart des 110 000 éleveurs qui ont demandé à bénéficier de la prime exploitent seulement des surfaces en herbe. Le seuil de 75 p. 100 d'herbe a cependant été retenu pour ne pas exclure les exploitants qui cultivent des céréales à paille nécessaires à leur élevage. Par ailleurs, la prime au maintien des systèmes d'élevage extensifs constitue le socle des mesures agri-environnementales mises en oeuvre en France. Le montant de 300 francs par hectare de prairie a été fixé en tenant compte du niveau des contraintes à respecter. Si l'éleveur accepte des engagements plus contraignants pour la conduite de son exploitation, il peut, dans certaines zones, souscrire des contrats complémentaires assortis d'une indemnisation adaptée dans le cadre des opérations locales définies dans les programmes régionaux agri-environnement. Outre des compléments d'aides directes aux éleveurs d'ores et déjà décidées, il a été demandé à la Commission de mettre sans délai en oeuvre une réforme de l'organisation commune des marchés.
