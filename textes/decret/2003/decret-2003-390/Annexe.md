@@ -82,7 +82,13 @@ Besançon
 
 |
 
+|
+
 Bourgogne
+
+|
+
+Auxerre
 
 |
 
@@ -212,6 +218,8 @@ Tours
 
 |
 
+|
+
 Limousin
 
 |
@@ -225,6 +233,12 @@ Poitiers
 |
 
 Poitou-Charentes
+
+|
+
+|
+
+La Rochelle
 
 |
 
