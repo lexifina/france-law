@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940204677
+
+- Question : [SEQ940204677](seq940204677.md) — Situation des salariés des centres d'aide par le travail
+
+## Réponse
+
+*Budget, JO du 1994-10-13, page 2463*
+
+Réponse. - La contribution sociale généralisée (CSG) est un prélèvement affecté exclusivement au financement de prestations qui sont l'expression d'une politique nationale de solidarité. Son objet est de faire participer l'ensemble des revenus, quelle que soit leur nature, au financement de cette politique. C'est ainsi que la CSG est assise sur la majeure partie des revenus du travail et du capital. Les revenus assujettis les sont indépendamment de leur statut tant au regard de l'impôt sur le revenu qu'au regard des cotisations de sécurité sociale. Les personnes handicapées qui travaillent dans les centres d'aide par le travail (CAT) définis à l'article 167 du code de la famille et de l'aide sociale, perçoivent une rémunération soumise aux cotisations sociales et à l'impôt sur le revenu. Le complément de rémunération qui leur est servi par l'Etat au titre de la garantie de ressources est traité comme un salaire qui bénéficie de la déduction forfaitaire pour frais professionnels et est par conséquent assujetti à la CSG. En effet, la règle générale d'assujettissement à la CSG des salaires ne peut faire l'objet d'aucune exception. Toutefois, le Gouvernement, soucieux de la situation des personnes handicapées travaillant dans les CAT, se préoccupe de leur niveau de revenus et de leurs conditions d'accueil. Il finance une partie de leur rémunération en garantissant à toutes ces personnes un revenu minimal de 70 p. 100 du SMIC. De plus, il verse chaque année, à patir du budget du ministère des affaires sociales, de la santé et de la ville, une dotation globale de fonctionnement des CAT Cet effort de l'Etat s'est élevé à 4,9 milliards de francs en 1993.
