@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030808870
+
+- Question : [SEQ030808870](seq030808870.md) — Fontis à Ottange : mesures de sauvegarde
+
+## Réponse
+
+*Industrie, JO du 2003-10-30, page 3220*
+
+Les arrêtés préfectoraux d'octobre 1998 qui ont donné acte à la société ARBED des conditions dans lesquelles elle a prévu d'arrêter ses travaux ont également prescrit des mesures supplémentaires dont, en particulier, l'étude des aléas dans les zones de risque. Ces études concernent aussi bien les secteurs d'exploitation à grande profondeur que les secteurs d'affleurement où des fontis peuvent se manifester. En fonction du résultat des expertises conduites actuellement par le concessionnaire, des travaux de confortement nécessaires seront réalisés préventivement, dans les conditions prévues par la loi, là où seront constatées des dégradations de galeries minières situées à faible profondeur sous les habitations. A cette fin, une surveillance sera progressivement mise en place pour vérifier périodiquement ces galeries. Une telle surveillance est de la responsabilité des anciens exploitants tant que les concessions sont en vigueur. Elle sera ensuite assurée par l'Etat. S'agissant du fontis apparu à Ottange le 8 août 2003, la société ARBED, actuel titulaire de la concession Ottange III, a réalisé, sous le contrôle de la direction régionale de l'industrie, de la recherche et de l'environnement de Lorraine, les travaux de comblement du fontis lui-même et de la partie de la galerie reconnue instable. La renonciation aux concessions ne pourra intervenir que si la société ARBED a rempli toutes ses obligations au titre de la police des mines. Cette renonciation ne dégage pas pour autant la responsabilité de l'exploitant à l'égard des tiers dans la mesure où le code minier prévoit qu'elle perdure au-delà du titre minier.
