@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980407878
+
+- Question : [SEQ980407878](seq980407878.md) — Renforcement des effectifs de gendarmerie aux abords des établissements scolaires
+
+## Réponse
+
+*Défense, JO du 1998-07-02, page 2141*
+
+Réponse. - L'agression dont a été victime le 2 avril dernier un élève du lycée Marie-Laurencin de Mennecy a été traitée dans les plus brefs délais par la gendarmerie nationale. En effet, les auteurs de cet acte délictueux ont été rapidement arrêtés et jugés en comparution immédiate le lendemain même des faits. Il est à préciser que cet établissement scolaire est situé en zone de gendarmerie sur la circonscription de la brigade territoriale de Mennecy. Cette unité, dont l'effectif est de 19 sous-officiers, renforcée autant que de besoin par la brigade de recherches départementale et par le peloton de surveillance et d'intervention de la gendarmerie d'Evry, fait face à ses charges, comme le montre l'issue de l'affaire citée par l'honorable parlementaire. En outre, les échelons locaux de commandement ont pris en compte le problème général lié à la sécurité autour des établissements scolaires. C'est ainsi qu'ils affectent en priorité à cette mission, depuis plusieurs mois, les renforts de gendarmerie mobile dont ils bénéficient. Concernant l'augmentation et la répartition des effectifs de la gendarmerie nationale, elles s'inscrivent dans le cadre de la mission confiée par le Premier ministre à deux parlementaires, dont le but est de rationaliser et d'optimiser les moyens affectés à la sécurité publique. Les conclusions de cette mission ont fait l'objet d'une étude interministérielle visant à proposer des modalités de transfert d'effectifs. Ces mesures seront définitivement retenues par le Conseil de sécurité intérieure, à l'issue des travaux qui s'effectueront sous l'égide des préfets et en étroite collaboration avec les élus locaux concernés.
