@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011136801
+
+- Question : [SEQ011136801](seq011136801.md) — Réforme du droit de la famille
+
+## Réponse
+
+*Justice, JO du 2002-03-28, page 933*
+
+La garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que la réforme du droit de la famille initiée par le Gouvernement dès 1997 est en voie d'achèvement. S'agissant de l'autorité parentale, la loi n° 2002-305 du 4 mars 2002 tend à généraliser l'exercice en commun de cette autorité et à favoriser une coparentalité effective et respectueuse des droits et devoirs de chacun des parents au-delà même de la séparation du couple. La responsabilité commune des père et mère dans l'éducation de leurs enfants et dans les décisions qui les concernent y est clairement rappelée, le texte valorisant les accords parentaux et privilégiant le recours à la médiation familiale. Les droits fondamentaux de l'enfant, comme celui de maintenir des liens avec ses deux parents et plus généralement d'entretenir des relations personnelles avec ses ascendants, sont affirmés. L'égalité de tous les enfants, quelles que soient les conditions de leur naissance, est par ailleurs reconnue dans ce texte et se trouve consacrée en matière successorale par la loi n° 2001-1135 du 3 décembre 2001 qui, entre autres dispositions, supprime les mesures discriminatoires à l'égard des enfants adultérins. En ce qui concerne les droits du conjoint, cette dernière loi augmente sensiblement les droits du survivant des époux en rehaussant sa place dans l'ordre des successibles en lui conférant des droits de pleine propriété et en organisant à son profit un droit au maintien dans son logement. Parallèlement, enfin, la réforme du divorce, adoptée en première lecture par chacune des assemblées, tend à pacifier les séparations conjugales et permet aux époux de mieux préparer les conséquences de leur séparation, notamment à l'égard des enfants.
