@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031110007
+
+- Question : [SEQ031110007](seq031110007.md) — Réforme des statuts juridiques des curatelles et tutelles
+
+## Réponse
+
+*Justice, JO du 2004-03-11, page 606*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que le Gouvernement, soucieux d'adapter le dispositif de protection des majeurs en considération des évolutions économiques et sociales intervenues depuis la loi du 3 janvier 1968, a entrepris une réforme globale du droit des majeurs vulnérables. L'un des objectifs de la réforme est de rendre plus efficients les principes de nécessité et de subsidiarité afin que seules les personnes dont l'altération des facultés personnelles est réelle fassent l'objet d'une mesure de curatelle ou de tutelle. En outre, il est prévu d'introduire dans notre droit le mandat de protection future, qui permettra à une personne d'organiser sa propre protection en désignant devant notaire, pour le cas où elle deviendrait incapable, un tiers de confiance chargé de la représenter dans les actes de la vie civile. Ces diverses dispositions devraient conduire à une meilleure maîtrise du nombre de personnes placées sous protection judiciaire. Par ailleurs, comme le souligne l'auteur de la question, les missions bénévoles, encore importantes lors de l'entrée en vigueur de la loi du 3 janvier 1968, ont quasiment disparu. C'est pourquoi, il est envisagé d'instituer la fonction de délégué à la protection actuellement exercée par des associations tutélaires, des gérants de tutelle, privés ou hospitaliers. De nouvelles règles relatives au statut, à la formation et aux modalités de financement des intervenants extérieurs à la famille seront élaborées afin de garantir à la fois le recrutement de personnes qualifiées au service des majeurs vulnérables et la reconnaissance de l'activité par elles menée.
