@@ -6,11 +6,11 @@ A. - Fonctions pouvant donner lieu au versement d'une nouvelle bonification indi
 
 2° Chef du service de l'inspection générale de l'administration de l'éducation nationale et de la recherche et doyen de l'inspection générale de l'éducation nationale ;
 
-3° Chef de service et adjoint à un directeur ou à un délégué ;
+3° Chef de service et adjoint à un directeur ou à un délégué et directeur de l'Ecole supérieure de l'éducation nationale ;
 
-4° Sous-directeur ou responsable de la mission emplois jeunes ;
+4° Sous-directeur ;
 
-5° Responsable de la mission scientifique universitaire ;
+5° Responsable de la mission scientifique, technique et pédagogique ;
 
 6° Directeur de projet.
 
@@ -29,3 +29,7 @@ B. - Fonctions pouvant donner lieu au versement d'une nouvelle bonification indi
 6° Inspecteur d'académie adjoint en fonctions dans les départements d'outre-mer.
 
 7° Directeur du service interacadémique des examens et concours des académies de Créteil, Paris et Versailles.
+
+NOTA :
+
+Nota : Décret 2004-1071 du 7 octobre 2003 art. 2 : Les dispositions concernant le directeur de l'Ecole supérieure de l'éducation nationale prennent effet à compter du 2 mai 2003.
