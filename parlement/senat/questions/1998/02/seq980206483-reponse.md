@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980206483
+
+- Question : [SEQ980206483](seq980206483.md) — Multiplication de complexes de magasins d'usines
+
+## Réponse
+
+*Économie, JO du 1998-05-21, page 1635*
+
+Réponse. - En application du principe de liberté du commerce, la vente au public de marchandises n'est pas réservée à une catégorie particulière d'opérateurs. Ainsi, les commerçants qui achètent des produits aux fabricants pour revendre aux consommateurs ne bénéficient pas d'un statut d'intermédiaire les protégeant des autres formes de distribution. Les ventes directes des fabricants sont licites dès lors qu'elles respectent les règles générales de la vente au public et ne compromettent pas la loyauté de la concurrence. Dans ce cadre, le développement rapide des magasins d'usine retient l'attention des pouvoirs publics. Ainsi, l'article 30 de la loi du 5 juillet 1986 a réservé les dénominations " magasin d'usine " et " dépôt d'usine " aux seuls établissements commercialisant les articles des saisons antérieures ou revenus des autres circuits de commercialisation. Cette disposition, qui ménage la fonction propre des commerçants, évite par ailleurs l'utilisation mensongère de ces dénominations permettant d'attirer par de fausses allégations des consommateurs dans des points de vente ordinaires. Par ailleurs, les règles de l'urbanisme commercial s'appliquent à tous les établissements de vente au public, quelles que soient leur dénominations ou l'activité principale des entreprises dont ils dépendent. Ainsi, le centre de magasins d'usine envisagé sur 15 000 mètres carrés à Roubaix a été soumis à l'enquête publique prévue à l'article 28 de la loi du 27 décembre 1973 modifiée pour tous les projets d'équipement commercial d'une surface de vente supérieure à 6 000 mètres carrés. A cette occasion, l'impact économique de l'implantation sur les autres commerçants a été examiné dans toute la zone où elle produit des effets.
