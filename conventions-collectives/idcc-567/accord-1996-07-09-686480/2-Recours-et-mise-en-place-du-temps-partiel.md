@@ -1,4 +1,4 @@
-# Article 2 Recours et mise en place du temps partiel
+# Article 2
 
 Le travail à temps partiel est mis en place à l'initiative du chef d'entreprise ou d'établissement, après consultation du comité d'entreprise ou des délégués du personnel s'ils existent.
 
