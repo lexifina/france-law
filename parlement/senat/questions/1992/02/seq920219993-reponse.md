@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920219993
+
+- Question : [SEQ920219993](seq920219993.md) — Projet d'épargne salariale pour la retraite
+
+## Réponse
+
+*Économie, JO du 1992-08-13, page 1874*
+
+Réponse. - Les dispositifs actuels de l'épargne salariale qui reposent sur la participation et sur le plan d'épargne d'entreprise (où peuvent être versées les primes d'intéressement) rencontrent une faveur croissante auprès des entreprises et de leurs salariés. A titre d'exemple, la collecte annuelle des plans d'épargne d'entreprise et des fonds de participation atteint près de 15 milliards de francs par an. Un certain nombre de propositions ont été faites au sujet de ces mécanismes, afin de les orienter tantôt vers le financement des besoins en fonds propres des entreprises, tantôt vers le financement d'un complément de retraite pour les salariés, ou, plus généralement, pour en augmenter l'attrait au moyen d'avantages fiscaux supplémentaires. Ces propositions sont à l'étude. Il faut toutefois noter que le système actuel permet déjà aux salariés de se constituer une épargne longue, dont la durée va, dans la réalité, très largement au-delà de la période légale d'indisponibilité de 5 ans, et qu'une large part des fonds collectés est investie en actions et contribue donc à répondre aux besoins en fonds propres des entreprises. Aussi doit-on examiner les propositions qui ont été faites en ayant à l'esprit de veiller, d'une part, à ne pas déstabiliser un système qui, de l'avis de tous les observateurs, fonctionne bien, et, d'autre part, à ne s'engager dans une réforme de nos dispositifs que si celle-ci en vaut vraiment la peine. La question des retraites se pose en termes différents. Elle appelle une réflexion d'ensemble, que le Gouvernement a engagée et qui doit être poursuivie. La définition et la mise en oeuvre des mesures nécessaires supposent la réunion d'un large consensus.
