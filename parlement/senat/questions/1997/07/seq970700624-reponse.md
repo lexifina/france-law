@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970700624
+
+- Question : [SEQ970700624](seq970700624.md) — Application de la loi relative à la lutte contre le tabagisme et l'alcoolisme
+
+## Réponse
+
+*Intérieur, JO du 1997-09-04, page 2294*
+
+Réponse. - L'honorable parlementaire appelle l'attention sur les difficultés rencontrées pour obtenir des autorisations d'ouvertures de débits temporaires de boissons malgré l'intervention du décret no 96-704 du 8 août 1996. Le décret no 96-704 du 8 août 1996 modifiant le décret no 92-880 du 26 août 1992 pris pour l'application de la loi no 91-32 du 10 janvier 1991 a donné aux groupements sportifs la possibilité d'obtenir dix dérogations annuelles pour l'installation de débits de boissons temporaires dans les enceintes sportives pouvant dispenser des boissons alcooliques des trois premiers groupes pendant une durée de 48 heures. Le décret de 1992 prévoit dans son dispositif, qui reste applicable, que les demandes doivent être présentées à la préfecture dans le dernier trimestre précédant l'année du déroulement des manifestations. Toutefois le nombre des autorisations possibles ayant été porté à 10 par le décret de 1996, il est devenu difficile pour les groupements sportifs agréés de présenter leurs demandes en une seule fois pour l'ensemble de l'année. Pour certains sports collectifs en effet, les années sportives commencent en juillet, août, voire septembre. Pour pallier ces difficultés certains organisateurs de manifestations déposent les demandes de dérogation à la préfecture en deux fois : au cours du dernier trimestre précédant l'année des manifestations puis de mai à juillet. En dehors de ces périodes aucune demande ne peut être acceptée, sauf cas exceptionnels prévus par l'article 3 du décret du 26 août 1992 concernant des manifestations ayant des retombées régionales, nationales ou internationales dont les dates n'auraient pas été connues lors des dates prévues pour les dépôts de demandes.
