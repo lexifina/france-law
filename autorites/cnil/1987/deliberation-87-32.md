@@ -1,0 +1,15 @@
+# Délibération portant avis sur la mise en oeuvre par la chambre de commerce et d'industrie de Carcassonne d'un traitement automatisé d'informations nominatives relatif à la gestion d'un fichier de chéquiers et cartes bancaires volés ou perdus
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 87-32
+- Date : 1987-03-31
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017654005
+
+La Commission Nationale de l'Informatique et des Libertés, Vu la Convention du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ; Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés ; Vu le décret n° 78-774 du 17 juillet 1978 pris pour l'application de la loi susvisée ; Vu le projet d'acte réglementaire présenté par la Chambre de Commerce et d'Industrie de Carcassonne ; Après avoir entendu Monsieur Michel ELBEL, Commissaire, en son rapport et Madame Charlotte-Marie PITRAT, Commissaire du Gouvernement en ses observations ;
+
+Considérant que le traitement automatisé d'informations nominatives présenté par la Chambre de Commerce et d'Industrie de Carcassonne a pour objet d'éviter l'utilisation de chèques ou de cartes bancaires volés ou perdus ; Considérant que le fichier "chèque et carte" n'enregistre que les informations suivantes : nom et prénom du titulaire du chéquier ou de la carte déclaré perdu ou volé, banque émettrice, type de carte, numéros de compte, de chèque et de carte, date de la déclaration ; Considérant que, à l'exclusion des titulaires de compte ou des commerçants adhérents au système, sont seuls habilités à enregistrer, à modifier ou supprimer des informations, les établissements bancaires participant à l'opération ; Considérant que le projet d'acte réglementaire soumis pour avis à la Commission n'indique pas que les informations émanent exclusivement des établissements financiers émetteurs auprès desquels les titulaires de chéquiers ou de cartes ont fait opposition ; il convient que l'article 2-1 dudit projet soit modifié en ce sens ; Considérant que, eu égard aux objectifs poursuivis, il n'est pas opportun de mentionner dans l'acte réglementaire soumis à publication, la durée de conservation des informations ; Considérant que les titulaires de chèques ou cartes perdus ou volés doivent être informés par les banques, lors de leur déclaration de perte ou de vol, de la mise en mémoire et de la diffusion des informations communiquées pour qu'ils puissent le cas échéant s'y opposer ; il convient donc que les fiches de déclaration comportent les mentions prescrites par l'article 27 de la loi du 6 janvier 1978 susvisée.
+
+Emet un avis favorable à la mise en oeuvre du traitement sous réserve : - que le projet d'acte réglementaire émanant de la Chambre de Commerce et d'Industrie de Carcassonne soit modifié compte tenu des observations formulées et soit communiqué à la Commission avant publication, ainsi que le modèle de la fiche bancaire comportant l'article 27 de la loi du 6 janvier 1978. Le Président : Jacques FAUVET
