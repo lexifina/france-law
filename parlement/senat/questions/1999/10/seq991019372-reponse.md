@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991019372
+
+- Question : [SEQ991019372](seq991019372.md) — Vocabulaire journalistique et informations à connotation négative relatives à l'artisanat
+
+## Réponse
+
+*Culture, JO du 2000-01-13, page 112*
+
+Réponse. - La place prépondérante que les artisans ont de tout temps occupée dans la société et l'économie françaises explique que le qualificatif " artisanal " soit entré dans le langage courant. L'ambivalence du terme est liée aux particularités de l'exercice d'un métier doublement identifié comme un travail personnalisé défini par opposition au travail industriel et comme un savoir-faire professionnel qu'une longue tradition nationale a rendu synonyme d'excellence. Dans le cas incriminé par l'honorable parlementaire, il est bien évident que ce qualificatif ne peut viser qu'un processus de fabrication à l'unité par opposition à un mode de production en série et ne saurait se confondre avec la notion de qualité artisanale attachée à des métiers dont les fondements juridiques ont été définis dans la loi du 6 juillet 1996 relative au développement et à la promotion du commerce et de l'artisanat. Une des particularités de ce texte a, en effet, été constituée par l'élévation du niveau de qualification dans les secteurs présentant un risque pour la santé ou la sécurité des consommateurs en imposant une qualification préalable à l'installation. La loi assure ainsi la protection et la valorisation des appellations artisanales. Les " dérives du vocabulaire journalistique " dont fait état l'honorable parlementaire ne sauraient constituer une utilisation de la langue française susceptible de ternir l'image dont bénéficie l'ensemble des professionnels concernés dans l'esprit du public et cela dans la mesure où aucun rapport ne peut être sérieusement fait entre les métiers de l'artisanat et les événements cités en référence.
