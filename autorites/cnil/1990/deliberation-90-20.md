@@ -1,0 +1,17 @@
+# Délibération portant avis sur le traitement automatisé d'une enquête visant à recenser les souhaits d'orientation des élèves de terminale dans l'enseignement supérieur (Système RAVEL)
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 90-20
+- Date : 1990-02-20
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017652737
+
+La Commission Nationale de l'Informatique et des Libertés, Vu la Convention du Conseil de l'Europe pour la protection des personnes à l'égard du traitement des données à caractère personnel, Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, et notamment ses articles 15 et 19, Vu le décret n° 78-774 du 17 juillet 1978, pris pour l'application de la loi susvisée, Vu la délibération n° 88-21 du 1er mars 1988 portant avis sur le traitement automatisé d'une enquête visant à recenser les souhaits d'orientation des élèves de terminale dans l'enseignement supérieur, Vu le projet d'arrêté présenté par Monsieur le Vice-Chancelier des universités de Paris, Après avoir entendu Monsieur Pierre BRACQUE, en son rapport, et Madame Charlotte-Marie PITRAT, commissaire du gouvernement, en ses observations,
+
+Considérant que le traitement mis en oeuvre a pour finalité de recenser les souhaits d'orientation des élèves des classes de terminales de la Région Ile-de-France dans l'enseignement supérieur et de fournir ces informations aux universités concernées, afin de faciliter les procédures d'inscription en 1ère année de D.E.U.G. ; Considérant que le recensement des voeux des élèves permet de mieux assurer le flux des candidats à l'inscription dans les 13 universités de la région parisienne ; Considérant que le projet modifié permettra en outre aux universités d'adresser à chaque candidat une convocation lui permettant de déposer un dossier d'inscription ; Considérant que l'application constitue donc dorénavant la première étape de l'inscription à l'université ; Considérant que lors de la phase de recensement des voeux, les élèves pourront se connecter à partir d'un minitel privé ou à partir de celui que tout établissement mettra à leur disposition ; Considérant que les informations enregistrées sont l'identité de l'élève (nom, prénom, date de naissance, numéro d'inscription au baccalauréat), l'identité de l'établissement scolaire (adresse, numéro) et les voeux d'orientation dans l'enseignement supérieur (filière, spécialité, établissement d'inscription choisis) ; que ces informations sont pertinentes, adéquates et non excessives au regard de la finalité du traitement ;
+
+Considérant que l'information préalable des intéressés s'effectue lors de l'envoi des confirmations d'inscription au baccalauréat et par une campagne de publicité ; Considérant que les conditions d'exercice du droit d'accès sont respectées ; Considérant que les destinataires des informations sont les établissements scolaires, la Chancellerie des universités de Paris, les Rectorats de la région parisienne et les universités ; Considérant que les établissements d'origine souhaitent connaître l'orientation des élèves de leur établissement ; que cette information ne leur sera communiquée sous forme nominative qu'avec l'accord de l'intéressé ; Considérant que les mesures adoptées pour assurer la sécurité des données paraissent satisfaisantes ;
+
+EMET UN AVIS FAVORABLE à la création du traitement, pour une expérience d'une année. DEMANDE à être saisie des résultats de l'opération. Le Président, Jacques FAUVET
