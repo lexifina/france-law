@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920621744
+
+- Question : [SEQ920621744](seq920621744.md) — Célébration du deuxième centenaire de la Victoire de Valmy
+
+## Réponse
+
+*Défense, JO du 1992-08-06, page 1800*
+
+Réponse. - La commémoration de la bataille de Valmy a été effectuée, au mois de septembre 1989, avec éclat. Le Président de la République avait alors, en tant que chef des armées, fait inscrire le nom de Valmy sur la soie des drapeaux des régiments héritiers des traditions des unités ayant participé à la bataille. Pour 1992, le Gouvernement a décidé de marquer d'une façon particulière le bicentenaire de La Marseillaise. C'est ainsi que dans la soirée du 8 juillet, 700 musiciens militaires et 500 choristes des trois armées et de la gendarmerie ont rendu hommage à La Marseillaise dans la cour d'honneur de l'hôtel des Invalides. Puis, à l'issue du défilé du 14 juillet, La Marseillaise a été chantée par un choeur de soldats place de la Concorde. Par ces deux manifestations, le Gouvernement a entendu souligner que la France est le seul pays au monde qui ait choisi, par deux fois, le 4 juillet 1795 puis le 14 juillet 1889, un chant de soldats comme hymne national. En effet, le Chant de guerre pour l'armée du Rhin, composé à Strasbourg dans la nuit du 24 au 25 avril 1792, a pris le nom de La Marseillaise pour avoir rythmé, le 30 juillet 1792, l'entrée dans Paris d'un groupe de volontaires marseillais. L'hymne national français, à l'origine symbole de la défense de la patrie en danger, est inséparable de l'esprit de défense. Il est, à présent, universellement connu comme celui de la défense de la liberté. Par ailleurs, La Marseillaise est liée au souvenir de Valmy, puisqu'elle fut chantée au combat pour la première fois au cours de cette bataille. Goethe, pour l'avoir alors entendue, qualifiait ce chant de " saisissant et terrible ", ouvrant une ère nouvelle dans l'histoire de l'humanité.
