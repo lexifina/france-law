@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910515315
+
+- Question : [SEQ910515315](seq910515315.md) — Mutation des fonctionnaires anciens recrutés locaux en service en Italie
+
+## Réponse
+
+*Affaires étrangères, JO du 1991-10-24, page 2328*
+
+Réponse. - Comme le sait l'honorable parlementaire, le ministère des affaires étrangères entend favoriser la mobilité de ses agents. Il s'agit là d'un axe majeur de la politique du personnel qui s'inscrit dans le cadre de la rénovation du service public. La double vocation, instituée par les décrets du 18 juillet 1990, permet désormais aux agents appartenant aux corps d'administration centrale d'acquérir une expérience pratique du fonctionnement des postes diplomatiques et consulaires. Quant aux agents en fonctions à l'étranger, ils pourront faire bénéficier les services de l'administration centrale de leurs connaissances acquises sur le terrain. De ce brassage d'expériences devrait naître un enrichissement réciproque et une meilleure compréhension mutuelle, gage d'un ministère plus solidaire et plus performant dans l'accomplissement de ses missions. En tout état de cause, la mise en oeuvre de cette réforme ne se conçoit que de façon progressive et différenciée. Ladouble vocation est entourée du maximum de garanties en faveur des agents du ministère des affaires étrangères. C'est dans cette perspective que les agents des catégories C et D du département ont été amenés à indiquer en 1991 leurs intentions quant à une éventuelle mutation. Il s'agissait, pour la direction du personnel et de l'administration générale, non pas d'affecter ces agents d'autorité à l'administration centrale, mais de recenser l'ensemble des situations familiales des personnes concernées afin de se donner les moyens d'une politique progressive. Bien évidemment, la règle de l'alternance sera appliquée avec la plus grande souplesse et en considérant avec le plus grand soin la situation familiale des agents et leurs demandes d'affectation.
