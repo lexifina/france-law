@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880700755
+
+- Question : [SEQ880700755](seq880700755.md) — Modalités de la suppression de l'allocation aux adultes handicapés
+
+## Réponse
+
+*Handicapés, JO du 1989-02-16, page 278*
+
+Réponse. - La décision d'attribution du droit ou du renouvellement du droit à l'allocation aux adultes handicapés appartient aux Coterep. Les textes prévoient la révision des situations des allocataires, ce qui, dans certains cas, peut se traduire par des modifications dans les allocations servies. En effet, les droits des personnes titulaires de l'allocation précitée sont soumis à une révision périodique au moins tous les cinq ans, ou tous les dix ans lorsque le handicap est peu susceptible d'évoluer favorablement. Dans tous les cas, les intéressés connaissent le terme auquel leur droit sera remis en question et, éventuellement, supprimé. Il se peut ainsi que l'état de la personne handicapée ait évolué favorablement grâce à une action de réadaptation ou à un appareillage approprié. Or, lorsque l'amélioration constatée ramène le taux d'incapacité à moins de 80 p. 100, le maintien d'avantages antérieurs n'est plus justifié, même si leur retrait peut être malressenti par les intéressés. Ceux-ci peuvent alors, s'ils sont en désaccord avec les décisions des commissions compétentes, utiliser les voies de recours ouvertes devant la juridiction du contentieux technique de la sécurité sociale. En ce qui concerne plus spécifiquement la Commission nationale technique, celle-ci, malgré l'augmentation constante de son activité, a néanmoins réussi à diminuer sensiblement les délais de traitement des dossiers. Quoiqu'il en soit, il est vrai que les délais de traitement des dossiers des Cotorep sont excessifs, en dépit des améliorations apportées au fonctionnement de ces instances. C'est pourquoi le Gouvernement va engager une réflexion sur une réforme en profondeur des commissions techniques d'orientation et de reclassement professionnel.
