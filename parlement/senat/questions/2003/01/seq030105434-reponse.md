@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030105434
+
+- Question : [SEQ030105434](seq030105434.md) — Engins agricoles et sécurité routière
+
+## Réponse
+
+*Équipement, JO du 2003-04-24, page 1408*
+
+Les accidents corporels en rase campagne n'impliquent un véhicule agricole que dans 0,7 % des cas, et il est difficile d'avoir une vue statistique précise et fiable des causes de ces accidents. Soumettre les véhicules agricoles à un contrôle technique périodique est une formule lourde et contraignante qui n'est pas globalement justifiée par des raisons de sécurité et qui obligerait les véhicules à des déplacements routiers parfois longs pour se rendre au centre de contrôle. En outre, le contrôle technique réglementaire annuel est conçu pour détecter les usures et détériorations résultant d'un usage normal du véhicule, alors que pour les tracteurs agricoles il s'agit de vérifier au quotidien que les glaces et les lampes n'ont pas été endommagées au cours du travail. Cette vérification permanente du bon fonctionnement des dispositifs d'éclairage et de signalisation relève de la responsabilité de l'exploitant et est contrôlée par les agents chargés de la police de la route. Enfin, la réglementation technique des tracteurs agricoles relève de la compétence communautaire, et les directives en vigueur ne permettent pas de rendre obligatoire l'équipement systématique de ces véhicules avec un gyrophare orange. Le code de la route prévoit les conditions dans lesquelles les véhicules à progression lente peuvent être équipés d'un gyrophare. Dans ce contexte, des instructions ont été données aux préfets par lettre du 20 janvier 1987 pour, d'une part, recenser les routes susceptibles d'être dangereuses du fait de la circulation fréquente d'engins agricoles et, d'autre part, prendre en conséquence les arrêtés nécessaires pour rendre ce feu obligatoire dans les zone considérées.
