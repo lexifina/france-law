@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901212860
+
+- Question : [SEQ901212860](seq901212860.md) — Politique du logement
+
+## Réponse
+
+*Équipement, JO du 1991-05-02, page 934*
+
+Réponse. - Le budget pour 1991 permet le financement de 10 000 prêts locatifs aidés (P.L.A.) d'insertion, 65 000 P.L.A. et 40 000 prêts aidés à l'accession à la propriété (P.A.P.). En 1990, ce sont 5 000 logements d'insertion qui ont été financés par les P.L.A. La relative complexité du montage de ces opérations, dont les opérateurs du logement social n'avaient pas la pratique, explique que l'objectif des 10 000 P.L.A. n'a pas été atteint en 1990. La mobilisation des partenaires, collectivités locales, services de l'Etat, organismes d'H.L.M., associations autour des plans départementaux pour le logement des plus démunis, ainsi que le nombre des opérations d'ores et déjà en portefeuille laissent espérer que l'objectif de 10 000 P.L.A. d'insertion pourra être atteint en 1991. Le Gouvernement entend, pour sa part, maintenir le logement des plus démunis comme objectif prioritaire de sa politique du logement, que ce soit par l'insertion, les aides à la pierre et à la personne, par la contribution de l'Etat aux fonds de solidarité pour le logement ou par la mobilisation des services extérieurs. Pour ce qui concerne les P.A.P., la demande s'est établie à 40 000 prêts en 1990. Elle a été totalement satisfaite, malgré la montée des taux d'intérêt et par conséquent du coût budgétaire des P.A.P., grâce à une dotation complémentaire de 200 MF, inscrite dans la loi de finances rectificative pour 1990. Cet effort, de même que les nouvelles mesures parues au Journal officiel du 31 janvier 1991 et tout particulièrement le nouveau relèvement des plafonds de ressources témoignent de la volonté du Gouvernement, dans un contexte difficile, de préserver l'accession sociale à la propriété.
