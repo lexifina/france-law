@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870606594
+
+- Question : [SEQ870606594](seq870606594.md) — Situation des entreprises françaises au Gabon après les mesures prises par le FMI
+
+## Réponse
+
+*Commerce extérieur, JO du 1987-09-03, page 1368*
+
+Réponse. -Le Gabon est confronté, à l'instar des autres pays producteurs de pétrole, à une crise dont la cause réside principalement dans la baisse des prix pétroliers et la dépréciation du dollar par rapport au franc C.F.A., et à laquelle il tente de remédier avec l'aide de la communauté financière internationale. Cette situation affecte nécessaireemnt les entreprises françaises implantées localement, puisqu'elles constituent une part importante du tissu industriel gabonais. En particulier, les entreprises françaises détiennent aujourd'hui un volume important de créances impayées sur l'Etat gabonais. Deux éléments permettent toutefois de nuancer la situation s'agissant des arriérés de l'Etat gabonais : les entreprises qui ont eu la prudence demander une garantie pour leur contrat auprès de la Coface ont été indemnisées ; les créances non garanties ont fait l'objet d'un réaménagement particulier mis en place par l'Etat gabonais auquel la quasi-totalité des entreprises françaises concernées a souscrit. Le Gabon a dûment budgétisé la fraction (20 p. 100) de ces créances qu'il s'est engagé à payer comptant en 1987. Il est à noter que la P.A.S. (prêt d'ajustement structurel) de 242 MF mis en place par la C.C.C.E. à des conditions particulièrement avantageuses a fortement aidé le Gouvernement gabonais à dégager ces moyens budgétaires. En revanche, c'est au secteur bancaire qu'il appartient d'assurer le refinancement des entreprises notamment par le rachat de leurs créances publiques aux conditions du marché, lorsque leurs difficultés de trésorerie deviennent trop importantes. L'administration française ne manque pas d'encourager les banques dans ce sens.
