@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950410777
+
+- Question : [SEQ950410777](seq950410777.md) — Situation du centre EDF-GDF de Pantin (Seine-Saint-Denis)
+
+## Réponse
+
+*Industrie, JO du 1995-09-07, page 1733*
+
+Réponse. - La baisse de l'activité du centre EDF-GDF de Pantin a entraîné une restructuration de ses effectifs depuis 1990, ce qui s'est traduit par des diminutions d'emplois. Cette situation est due, notamment, aux difficultés que connaissent à l'heure actuelle les clients industriels et au ralentissement de la progression de la demande des usagers. L'activité propre d'EDF et le GDF est naturellement confiée aux agents de ces établissements. Toutefois, en cas de nécessité ponctuelle, le Centre a été amené à recourir à des entreprises privées. Ces dernières permettent de décharger les agents du service public des tâches qu'ils ne sont pas en mesure d'accomplir mais qui, par leur ampleur limitée, ne sauraient justifier de recourir à des embauches définitives. Pour ce qui est des travaux électriques et gaziers, il convient d'observer que les recours au secteur privé sont en baisse. Ainsi, les dépenses engagées par le centre à la suite de travaux confiés à des entreprises privées s'élèvent à 13 millions de francs en 1994 contre 15 millions de francs en 1993 pour le gaz et à 11,8 millions de francs en 1994 contre 14,5 millions de francs en 1993 pour l'électricité. S'agissant des négociations avec les représentants du personnel pour l'examen de leurs revendications, ces dernières ont été ouvertes sur les sites en situation normale. Elles ont permis d'engager un dialogue instructif. Sur les sites occupés, en revanche, les huissiers ont constaté l'occupation des locaux et par là même l'impossibilité d'ouvrir des négociations. Des processus judiciaires ont été engagés. Elles ont reconnu le bon droit de l'établissement public.
