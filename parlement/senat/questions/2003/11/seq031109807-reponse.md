@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031109807
+
+- Question : [SEQ031109807](seq031109807.md) — Prélèvement exceptionnel du ministère de l'environnement sur l'agence de l'eau Rhin-Meuse
+
+## Réponse
+
+*Écologie, JO du 2004-04-01, page 799*
+
+La ministre de l'écologie et du développement durable a pris connaissance, avec intérêt, de la question concernant le prélèvement exceptionnel du ministère de l'écologie et du développement durable (MEDD) sur la trésorerie des agences de l'eau, notamment sur celle de l'agence de l'eau Rhin-Meuse. Comme l'a permis le législateur dans la loi sur l'eau de 1964, le MEDD a proposé au conseil d'administration de l'agence de l'eau Rhin-Meuse un fonds de concours exceptionnel de 45 millions d'euros, dans l'objectif d'activer une trésorerie libre d'engagements, pour financer des investissements qui amélioreront l'état écologique de l'eau et participeront à la relance de l'activité des entreprises : prévention des inondations, restauration des cours d'eau et zones humides, opérations liées aux déchets, sites et sols pollués. La destination de ces crédits sera indiquée aux instances de bassin avec le souci d'assurer à chaque bassin un retour équitable au regard de sa contribution. Pour ce qui est du programme concernant l'après-mines en Lorraine, à la suite d'un comité interministériel d'aménagement du territoire, le MEDD a décidé d'octroyer exceptionnellement des crédits au titre de la solidarité nationale et en complément des aides de l'agence de l'eau. Inscrits dans le contrat de plan État-région 2000-2006, ces crédits du fonds national de solidarité pour l'eau représentent donc un retour positif pour le bassin Rhin Meuse. Ces crédits ont été de 3,05 MEUR en 2000, 2,15 MEUR en 2001 et 2,75 MEUR en 2002 ; ils ont été utilisés pour maîtriser le nouvel équilibre entre les eaux de surface et les eaux souterraines, et pour prévenir les risques naturels.
