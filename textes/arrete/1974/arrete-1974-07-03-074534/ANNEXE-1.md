@@ -1,8 +1,8 @@
 # Article ANNEXE, 1
 
-1.1. Définition générale :
+1.1 Définition générale :
 
-Le présent cahier des charges s'applique aux avertisseurs sonores spéciaux émettant des sons alternés et destinés à être montés sur les véhicules "ambulances".
+Le présent cahier des charges s'applique aux avertisseurs sonores spéciaux émettant des sons alternés et destinés à être montés sur les véhicules autorisés à être équipés des feux spéciaux de catégorie B prévus à l'article R. 92 (5°) du code de la route.
 
 1.2. Définition de la notion de "type" :
 
