@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020902274
+
+- Question : [SEQ020902274](seq020902274.md) — Ordonnateur secondaire des dépenses des juridictions
+
+## Réponse
+
+*Justice, JO du 2003-01-02, page 66*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire qu'en application des dispositions combinées des articles 9 et 15 du décret n° 82-389 du 10 mai 1982 et des articles 8 et 14 du décret n° 82-390 de même date, les préfets de département ou de région sont ordonnateurs secondaires pour les services relevant du ministère de la justice. S'agissant des services judiciaires, l'arrêté du 29 décembre 1998 portant règlement de comptabilité pour la désignation des ordonnateurs secondaires du budget du ministère de la justice et de leurs délégués, pris en application de l'article 64 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique, donne une compétence de principe au préfet de département en matière d'ordonnancement secondaire, la compétence du préfet de région s'appliquant aux seules recettes et dépenses relatives à l'activité de la cour d'appel de Paris. En pratique, le choix du préfet comme ordonnateur secondaire des recettes et dépenses des juridictions des premier et second degrés ne pose pas de difficulté, dès lors que l'ordonnateur se contente, de fait, d'effectuer un contrôle de régularité purement formel des dépenses, l'appréciation de l'opportunité de celles-ci étant laissée à l'initiative des chefs de cour ou de juridiction. Le renforcement de la déconcentration et la responsabilisation des gestionnaires publics, induits par la loi organique du 1er août 2001 relative aux lois de finances, conduisent cependant à s'interroger sur la pertinence du maintien du dispositif actuel. La chancellerie a engagé une vaste réflexion sur ce point.
