@@ -1,0 +1,3 @@
+# Article 1er
+
+Le présent contrat règle les rapports entre les organismes de sécurité sociale, d'allocations familiales et tous autres organismes placés sous leur contrôle (fédération nationale des organismes de sécurité sociale, union nationale des caisses d'allocations familiales, caisses primaires, caisses régionales vieillesse et invalidité, caisses d'allocations familiales, organismes de recouvrement des cotisations, services sociaux, caisse de prévoyance du personnel, etc.) et le personnel de ces organismes et de leurs établissements ayant leur siège en France ou dans les départements d'outre-mer.
