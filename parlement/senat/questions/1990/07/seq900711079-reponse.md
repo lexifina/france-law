@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900711079
+
+- Question : [SEQ900711079](seq900711079.md) — Convention internationale relative aux droits de l'enfant
+
+## Réponse
+
+*Famille et personnes âgées, JO du 1992-08-06, page 1810*
+
+Réponse. - En France, le secrétariat d'état chargé de la famille a été chargé par le Gouvernement de coordonner la mise en oeuvre, au plan interne, de la convention. A ce titre, le secrétariat d'état sollicite le concours des associations et des organisations non gouvernementales concernées, de l'institut de l'enfance et de la famille et des différents départements ministériels intéressés. Il a aussi mandaté un groupe d'experts pour préparer des propositions de réformes législatives visant à harmoniser notre droit interne avec les termes de la convention. Les services du secrétariat d'état ont entrepris une très large diffusion du texte de la convention et mis en oeuvre des actions de sensibilisation et de formation auprès des professionnels intervenant tant dans le secteur public que dans le secteur associatif. Par ailleurs, les droits et les obligations des élèves dans les établissements publics locaux d'enseignement du second degré ont été aménagés par un décreten date du 18 février 1991 (droits d'expression, de réunion, formation des délégués des élèves). De même la protection des enfants - et des adultes- exerçant l'activité de mannequins a été garantie par les dispositions de la loi du 12 juillet 1990 qui seront précisées par un prochain décret d'application. Enfin le projet de loi relatif à l'état civil, à la famille et aux droits de l'enfant et instituant le juge aux affaires familiales qui a été adopté par l'Assemblée nationale répond aux exigences de la convention internationale des droits de l'enfant dans des domaines importants tels le droit de l'enfant d'être entendu dans les procédures le concernant et la non-discrimination entre enfants légitimes et naturels.
