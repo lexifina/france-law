@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950310291
+
+- Question : [SEQ950310291](seq950310291.md) — Retraite et service national
+
+## Réponse
+
+*Affaires sociales, JO du 1995-04-13, page 876*
+
+Réponse. - En application des dispositions législatives et réglementaires en vigueur (art. L. 351-3 et R. 351-2 du code de la sécurité sociale), les périodes de service militaire légal effectuées en temps de paix, ainsi que celles de maintien ou de rappel sous les drapeaux accomplies en métropole entre le 31 octobre 1954 et le 2 juillet 1962, ne peuvent être prises en considération pour l'ouverture du droit et le calcul de la pension de vieillesse du régime général de la sécurité sociale que si les intéressés avaient antérieurement à leur rappel sous les drapeaux la qualité d'assuré social de ce régime. Cette qualité résulte à la fois de l'immatriculation et du versement de cotisations, aussi minime soit-il, à l'assurance vieillesse au titre d'une activité salariée ayant donné lieu à affiliation. Ainsi, la validation gratuite des périodes de service militaire légal se justifie par le fait que l'assuré a été contraint d'interrompre le versement de ses cotisations et lui permet de compléter sa durée d'assurance en cours d'acquisition. Cette règle est toutefois assouplie du fait qu'il n'est pas exigé que le service national interrompe effectivement l'activité salariée. C'est ainsi qu'une activité salariée et cotisée, fût-elle réduite (travail pendant les vacances par exemple), est suffisante pour valider les périodes ultérieures de service militaire légal, même si elle n'est plus exercée à la date d'incorporation. Les difficultés financières actuellement rencontrées par le régime général d'assurance vieillesse rendent nécessaire la recherche d'une plus grande contributivité de ce régime et ne permettent pas d'envisager la création de nouveaux droits sans contrepartie de cotisations.
