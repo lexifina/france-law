@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030105170
+
+- Question : [SEQ030105170](seq030105170.md) — Droits de succession des exploitations agricoles
+
+## Réponse
+
+*Économie, JO du 2003-03-27, page 1049*
+
+Les transmissions à titre gratuit par décès des exploitations agricoles bénéficient des dispositions générales prises en faveur des transmissions d'entreprises. En effet, les articles 789 A et 789 B du code général des impôts prévoient, sous certaines conditions, une exonération partielle de droits de mutation par décès, à concurrence de la moitié de la valeur de l'entreprise transmise, que celle-ci soit exploitée sous la forme sociale ou sous la forme individuelle. Par ailleurs, en application des dispositions de l'article 793-1 (4°) et 793-2 (3°) du code précité, les mutations à titre gratuit de biens ruraux loués par bail à long terme détenus directement par le redevable ou par l'intermédiaire d'un groupement foncier agricole sont, sous certaines conditions, exonérées des droits de mutation à concurrence des trois quarts de leur valeur. Lorsque cette valeur excède 76 000 EUR, l'exonération est ramenée à 50 % au-delà de cette limite. L'ensemble de ces régimes de faveur permet ainsi d'alléger, dans des proportions importantes, le coût fiscal de la transmission par décès des exploitations agricoles. En outre, afin de favoriser la transmission anticipée des entreprises, sur la proposition du Gouvernement, l'Assemblée nationale a, dans le cadre du projet de loi pour l'initiative économique, adopté, en première lecture, l'article 24 qui étend aux donations d'entreprises l'abattement de 50 % actuellement applicable aux seules transmissions par décès. Par ailleurs, le Gouvernement s'est engagé à mener, en 2003, une réflexion sur la fiscalité du patrimoine dans le cadre de laquelle seront examinés les taux des droits de succession.
