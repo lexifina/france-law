@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030306661
+
+- Question : [SEQ030306661](seq030306661.md) — Bilan de la mise en place des comités d'éthique appliquée à l'expérimentation animale
+
+## Réponse
+
+*Recherche, JO du 2003-06-12, page 1926*
+
+Les comités régionaux d'éthique appliquée à l'expérimentation animale ont pour mission d'apprécier la compatibilité qui peut exister entre les protocoles expérimentaux qui leurs sont proposés à l'examen et les principes éthiques de respect de la vie d'êtres sensibles, ceci afin d'aider les expérimentateurs dans la définition des protocoles en limitant au strict nécessaire le recours à des expérimentations sur des modèles d'animaux. Pour la première fois depuis leur création, leurs présidents se sont réunis le vendredi 28 mars 2003, sous l'égide du ministère de la recherche et des nouvelles technologies. Au cours de cette réunion, il a été rappelé que chaque comité dispose de son autonomie d'appréciation dans le respect de leur charte fondatrice. Chaque comité a présenté son bilan au niveau régional. Concernant précisément le département du Rhône, le comité d'éthique a déjà donné un avis favorable à dix protocoles expérimentaux qui lui ont été soumis. D'une manière générale, comme leur activité n'a débuté que depuis quelques mois et que la saisine des comités n'est pas une obligation réglementaire, il a été constaté que le nombre d'expérimentateurs ayant bénéficié de l'avis des comités reste faible. C'est la raison pour laquelle, au cours de cette réunion des présidents, il a été décidé que l'ensemble des responsables de l'expérimentation animale (ministère, bureaux d'expérimentation animale des établissements de recherche, comités d'éthique) allait mettre en place des procédures pour inciter les expérimentateurs à soumettre de façon plus régulière leurs protocoles opératoires à cet avis.
