@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000525243
+
+- Question : [SEQ000525243](seq000525243.md) — Renforcement de la sécurité routière et diminution du nombre des victimes de la route
+
+## Réponse
+
+*Équipement, JO du 2000-10-26, page 3695*
+
+Réponse. - La préfecture de l'Hérault a élaboré pour l'année 2000 son plan départemental d'actions de sécurité routière, avec l'ensemble de ses partenaires. Pour lutter contre l'aggravation de la situation dans le département quatre axes prioritaires d'actions ont été retenus : les jeunes sur la route le week-end, la vitesse excessive et le non- port de la ceinture, les accidents de motards, et la conduite en ville. Pour réaliser ces actions une dotation de 320 000 francs a été adressée au préfet par le ministre de l'équipement, des transports et du logement, en plus des budgets routiers du ministère. Dans le cadre de la désignation de la sécurité routière comme grande cause nationale en 2000, un crédit de 50 000 francs a été accordé pour l'action des associations locales, et la préfecture peut solliciter un crédit spécifique pour l'organisation de manifestations pendant la semaine nationale de sécurité routière. Par ailleurs, un crédit de 30 000 francs a été accordé pour financer les projets de jeunes " Label Vie " ainsi qu'une nouvelle dotation de 30 000 francs à la demande du département. D'autres crédits supplémentaires peuvent être sollicités. Enfin, une dotation de 60 000 francs a été accordée pour la sensibilisation au risque routier des agents de la direction départementale de l'équipement. Cette politique partenariale, au plus près du terrain, complète le renforcement des contrôles et des sanctions administratives immédiates, initiée par le ministre de l'équipement, des transports et du logement, qui a permis une baisse du nombre de décès sur la route, notamment dans l'Hérault, depuis le mois de mai 2000.
