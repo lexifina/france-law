@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931003125
+
+- Question : [SEQ931003125](seq931003125.md) — Situation des agents administratifs en fonction au ministère de l'équipement, des transports et du tourisme
+
+## Réponse
+
+*Équipement, JO du 1994-01-20, page 137*
+
+Réponse. - Le protocole fonction publique du 9 février 1990 a regroupé les corps d'agents de bureau et d'agents techniques de bureau en un corps unique d'agents administratifs, cependant que les sténodactylographes et les commis, ou adjoints administratifs, étaient regroupés en un corps d'adjoints administratifs. La mise en oeuvre de cette mesure, qui avait été conçue dans un esprit de simplification et de rationalisation, s'est heurtée toutefois à l'équipement à des difficultés liées à la situation originale de ce ministère au regard des catégories d'agents considérées. Ceux-ci, bien qu'appartenant à des corps différents, remplissaient de fait des fonctions très largement similaires. A ce regroupement en deux corps distincts il n'a donc pas pu correspondre une identification fonctionnelle en deux types ou deux niveaux de compétences déterminés. Compte tenu du caractère peu pertinent, sur le plan fonctionnel, d'une distinction entre agents administratifs et adjoints administratifs, le ministère de l'équipement a donc cessé, en 1991, de recruter, des agents administratifs, le corps de recrutement normal devenant celui des adjoints administratifs, corps pour l'accès auquel, par ailleurs, il n'existe plus, depuis la mise en place du protocole fonction publique, d'exigence de diplôme. Parallèlement un processus de fait de résorption du corps des agents administratifs, par le jeu normal de la promotion interne, s'est mis en place. Le rythme de résorption de ce corps s'est avéré toutefois tributaire d'un certain nombre d'éléments de gestion dont la maîtrise est liée à des facteurs externes. C'est la raison pour laquelle il apparaît prématuré de fixer aujourd'hui une échéance précise à ce processus.
