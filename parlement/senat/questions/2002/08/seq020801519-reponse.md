@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020801519
+
+- Question : [SEQ020801519](seq020801519.md) — Conséquences du décret n° 2002-883 sur la pérennité des centres de loisirs en milieu rural
+
+## Réponse
+
+*Jeunesse, JO du 2002-09-26, page 2171*
+
+L'article 14 du décret n° 2002-883 du 3 mai 2002 relatif à la protection des mineurs à l'occasion des vacances scolaires, des congés professionnels et des loisirs fixe les conditions d'encadrement des centres de vacances et de loisirs. Pour les centres n'accueillant pas un effectif supérieur à quatre vingt mineurs pendant plus de quatre-vingt jours, l'encadrement peut être assuré par un titulaire du brevet d'aptitude aux fonctions de directeur (BAFD) ou par une personne en cours de formation BAFD. Cette disposition, qui concerne tout particulièrement les petits centres de loisirs sans hébergement ruraux, doit permettre de faciliter l'application du décret précité au 1er mai 2003, date d'entrée en vigueur du texte. Cette date, initialement prévue en 2005, a été fixée au 1er mai 2003 conformément à l'avis du Conseil d'Etat qui a considéré que le report de l'application du décret était contraire aux objectifs du décret visant à renforcer la qualité et la sécurité des centres de vacances et de loisirs. Le Gouvernement étudie actuellement les mesures susceptibles d'être prises pour accompagner la mise en oeuvre du décret, notamment en matière d'aide à la formation ou de validation des acquis de l'expérience pour les personnes ayant une expérience de direction de centres de vacances et de loisirs. Les solutions envisagées, notamment pour les centres de loisirs sans hébergement ruraux, seront discutées à l'occasion des réunions de concertation prévues d'ici à la fin de l'année 2002 dans le cadre de la commission technique paritaire des centres de vacances et de loisirs et du conseil national de l'éducation populaire et de la jeunesse.
