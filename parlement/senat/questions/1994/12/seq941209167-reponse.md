@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941209167
+
+- Question : [SEQ941209167](seq941209167.md) — Exclusion des veuves affiliées à des régimes spéciaux du bénéfice de l'augmentation du taux des pensions de réversion
+
+## Réponse
+
+*Affaires sociales, JO du 1995-02-02, page 260*
+
+Réponse. - Le Gouvernement, sensible aux difficultés que peuvent rencontrer les conjoints survivants et notamment ceux qui n'ont pas de droits personnels à la retraite ou qui perçoivent une pension de vieillesse de faible montant, a décidé de revaloriser le taux des pensions de réversion du régime général, de celui des salariés agricoles et des régimes des commerçants, industriels et des artisans, progressivement de 52 p. 100 à 60 p. 100. Ainsi, dès le 1er janvier 1995, le taux servant à calculer le montant des pensions de réversion a été porté à 54 p. 100. Dans un souci d'équité, le bénéfice de cette mesure a été étendu aux personnes déjà titulaires d'un avantage de réversion. Le montant des pensions actuellement servies a été majoré de 3,84 p. 100 à la même date. Par ailleurs, pour ce qui concerne l'extension de ces mesures aux régimes spéciaux, il faut rappeler, sur un plan général, que ces régimes sont propres à certaines catégories de salariés. Ils sont totalement autonomes par rapport au régime général de la sécurité sociale. Les règles qu'ils appliquent leur sont spécifiques et présentent peu de points communs avec celles applicables dans le régime général. L'alignement systématique de chacune de ces règles sur les dispositions les plus favorables qui peuvent exister dans les autres régimes conduirait à alourdir considérablement les charges de retraites alors même que cet alignement n'est pas réalisé lorsque les règles des autres régimes sont revues dans un sens plus restrictif. Un tel surcroît de charges serait particulièrement inopportun pour les régimes spéciaux de retraite, compte tenu des contraintes financières qui pèsent sur eux.
