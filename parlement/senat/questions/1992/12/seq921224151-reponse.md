@@ -1,0 +1,9 @@
+# Réponse à la question SEQ921224151
+
+- Question : [SEQ921224151](seq921224151.md) — Situation du régime des prestations complémentaires de vieillesse des médecins
+
+## Réponse
+
+*Affaires sociales, JO du 1993-02-11, page 236*
+
+Réponse. - Le rapport remis à l'issue de la mission conjointe de l'inspection générale des affaires sociales et de l'inspection générale des finances, diligenté au cours de l'été 1991, sur les régimes des prestations supplémentaires de vieillesse des praticiens et auxiliaires médicaux conventionnés (dits régimes ASV) a confirmé, en ce qui concerne celui des médecins, la nécessité de parvenir à une maîtrise de ses charges, notamment en réformant les paramètres utilisés pour la revalorisation des prestations et, s'agissant des liquidations à venir, pour la détermination de leur montant. Cette perspective de réforme ne pouvant faire l'objet que d'une concertation entre les organismes d'assurance maladie - qui financent aux deux tiers les charges du régime - et les syndicats médicaux, un groupe de travail comprenant également des représentants de l'Etat et de la Caisse autonome de retraite des médecins français (CARMF), gestionnaire du régime, a été mis en place le 1er juin 1992 avec pour mission de dégager des propositions de réforme permettant d'assurer l'équilibre durable du régime. Parallèlement, des mesures d'urgence consistant essentiellement dans le relèvement de la cotisation, ont été prises afin de garantir aux allocataires du régime le versement de leurs prestations au titre de l'exercice 1992, conformément à l'engagement pris le 20 novembre 1991 envers chacun d'eux (décrets n° 92-182 et 92-1004 des 25 février et 21 septembre 1992). En tout état de cause, le règlement des arrérages correspondant au quatrième trimestre 1992 sera assuré puisque les régimes d'assurance maladie ont accepté d'anticiper le versement de leurs parts de cotisations au régime de l'ASV avant le 31 décembre 1992.
