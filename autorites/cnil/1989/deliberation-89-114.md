@@ -1,0 +1,15 @@
+# Délibération portant avis sur le projet d'acte réglementaire présenté par le ministre de l'économie, des finances et du budget, concernant l'utilisation d'une carte à mémoire multiservices pour le contrôle de de l'accès logique à des traitements de données budgétaires
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 89-114
+- Date : 1989-10-10
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017652532
+
+La Commission Nationale de l'Informatique et des Libertés, Vu la Convention du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ; Vu la loi n° 78-17 du 6 janvier 1978 relative à l'Informatique, aux Fichiers et aux Libertés, et notamment ses articles 15, 19, 27, 34 et suivants, Vu le décret n° 78-774 du 17 juillet 1978 pris pour l'application des chapitres I à IV et VII de la loi du 6 janvier 1978, Vu la délibération n° 89-62 de la CNIL du 27 juin 1989 portant avis sur les demandes présentées par le Ministère de l'Economie, des Finances et du Budget, concernant la mise en oeuvre d'une carte à mémoire multiservices pour la gestion du personnel permettant la réalisation d'une carte d'identité professionnelle, la gestion du temps de présence et le contrôle des accès physiques à certaines zones du Ministère, Vu la demande d'avis présentée par la Direction du personnel et des services généraux ainsi que la Commission de développement de l'informatique et de la bureautique du Ministère de l'Economie, des Finances et du Budget, relatives à l'utilisation d'une carte à mémoire multiservices pour le contrôle de l'accès logique à des données budgétaires, Après avoir entendu Monsieur Marcel PINET en son rapport et Madame Charlotte-Marie PITRAT, Commissaire du Gouvernement en ses observations ;
+
+Considérant que le Ministère de l'Economie, des Finances et du Budget soumet à l'avis de la Commission un projet de traitement automatisé, dont l'objet est de sélectionner l'accès logique par des agents de la Direction du budget aux traitements de données budgétaires non nominatives, mis en oeuvre sur des micro-ordinateurs, par comparaison entre le numéro de la carte et la liste des utilisateurs autorisés, Considérant qu'à ce titre les informations nominatives traitées concernent le numéro de la carte et le nom et prénom de l'agent, Considérant qu'aucune interconnexion avec les autres applications de la carte à mémoire ne devra être utilisée en vue d'exercer une surveillance de l'activité des agents habilités, Considérant que le droit d'accès à la totalité des informations nominatives traitées pour l'application s'exercera auprès de la Direction du budget ainsi que du bureau P 3 de la Sous-direction du personnel, qui dispose d'un lecteur de cartes à consultation directe permettant de connaître l'exhaustivité du contenu de la carte, Considérant que les procédures d'information et de consultation préalables devront être appliquées conformément aux garanties statutaires,
+
+Emet un avis favorable à la mise en oeuvre du traitement. Le Président, Jacques FAUVET.
