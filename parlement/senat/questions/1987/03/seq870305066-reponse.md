@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870305066
+
+- Question : [SEQ870305066](seq870305066.md) — Conséquences du plan de rationalisation des dépenses de santé
+
+## Réponse
+
+*Affaires sociales, JO du 1987-07-09, page 1073*
+
+Réponse. -La participation des assurés a été généralisée pour les médicaments à vignette bleue qui ne sont pas habituellement destinés au traitement des maladies graves. Cette règle générale souffre des exceptions car certains médicaments remboursés à 40 p. 100 peuvent intervenir dans le traitement de maladies graves et certaines personnes dépourvues de couverture complémentaire éprouveraient des difficultés pour supporter ces dépenses. C'est pourquoi il a été institué, en même temps que la limitation générale à 40 p. 100 du remboursement des médicaments à vignette bleue, une prestation supplémentaire destinée aux associés atteints d'une affection longue et coûteuse permettant la prise en charge automatique du ticket modérateur pour les spécialités liées au traitement de cette affection sur avis du contrôle médical, dès lors que les ressources du bénéficiaire sont inférieures à 82 430 francs par an, ce plafond étant majoré de 50 p. 100 pour le conjoint et par personne à charge. Les caisses d'assurance maladie doivent rappeler aux médecins et aux pharmaciens l'existence de ce dispositif de sauvegarde. Les modalités pratiques suivant lesquelles les assurés peuvent bénéficier de la dispense d'avance des frais pour les spécialités pharmaceutiques sont fixées par des conventions librement négociées par les organismes d'assurance maladie et les organisations professionnelles représentatives des pharmaciens d'officine. C'est dans ce cadre conventionnel que des solutions ont été apportées d'un commun accord par les parties signataires pour adapter les procédures, notamment informatiques, aux dispositions nouvelles.
