@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990415609
+
+- Question : [SEQ990415609](seq990415609.md) — Exonération de la taxe d'habitation pour les chômeurs en fin de droits
+
+## Réponse
+
+*Économie, JO du 1999-05-13, page 1610*
+
+Réponse. - Un dispositif de dégrèvement total de la taxe d'habitation afférente à l'habitation principale est prévu en faveur des bénéficiaires du revenu minimum d'insertion. Cette disposition se justifie par la situation particulière de ces personnes pour lesquelles cette allocation différentielle constitue une garantie de ressources minimales. S'agissant des autres personnes disposant de ressources limitées dont les situations sont très diverses et susceptibles d'évoluer, la loi de finances pour 1998 a renforcé les dispositions en vigueur permettant d'ajuster le poids de la taxe aux capacités contributives des redevables appréciées en fonction du niveau de leurs ressources. Ainsi, il a été institué un dégrèvement de la fraction de la cotisation de taxe d'habitation qui excède une certaine limite, fixée pour 1998 à 1 500 francs, en faveur de tous les redevables dont le montant des revenus n'excède pas la somme de 25 000 francs pour la première part de quotient familial majorée de 10 000 francs pour chaque demi-part supplémentaire, retenu pour le calcul de l'impôt sur le revenu. Ce dispositif devrait profiter tout particulièrement aux personnes visées par l'auteur de la question. Au surplus, ces personnes peuvent présenter auprès des services des impôts des demandes de modération ou de remise de la taxe laissée à leur charge. Des consignes permanentes ont été données aux services pour qu'ils examinent avec bienveillance, notamment, les situations individuelles des contribuables ayant des revenus inférieurs ou égaux à ceux du RMI. Cette procédure gracieuse apparaît, par sa souplesse d'application, plus adaptée qu'un dispositif de dégrèvement systématique, puisqu'elle permet de tenir compte, au cas par cas, de la réalité des situations.
