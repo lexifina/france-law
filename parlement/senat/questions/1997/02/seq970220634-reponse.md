@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970220634
+
+- Question : [SEQ970220634](seq970220634.md) — Eligibilité au FCTVA des dépenses engagées par les communautés de communes pour le compte des communes membres
+
+## Réponse
+
+*Économie, JO du 1997-05-02, page 1370*
+
+Réponse. - L'article L. 1615-7 du code général des collectivités territoriales n'autorise pas le versement d'attribution au titre du fonds de compensation pour la taxe sur la valeur ajoutée (FCTVA) pour les dépenses d'investissement réalisées par les collectivités locales sur des biens qui ne leur appartiennent pas. Cette disposition a pour objectif de limiter l'éligibilité au FCTVA des investissements qui demeurent dans le patrimoine des collectivités attributaires du fonds. Par conséquent, les travaux de restauration des terrains en montagne qui appartiennent à des propriétaires privés s'analysent comme des travaux pour le compte de tiers pour lesquels tout bénéfice du FCTVA est exclu. En revanche, les travaux de restauration des terrains en montagne appartenant aux collectivités locales peuvent y ouvrir droit sous réserve du respect des autres conditions d'éligibilité. A cet égard, dans les cas où un groupement, compétent en la matière, réalise des travaux de restauration des terrains en montagne appartenant aux communes membres, la réglementation prévoit que les opérations réalisées à partir du 1er janvier 1995 pour le compte d'un bénéficiaire du fonds donnent lieu à une attribution au titre du FCTVA, à partir de 1997, au profit de la collectivité ou de l'établissement mandant. En outre, l'article L. 423-1 du code forestier prévoit que ces travaux peuvent bénéficier de subventions de l'Etat (de 30 à 80 % du montant des travaux réalisés hors taxe) nonobstant le cas où les collectivités locales interviennent sur des terrains qui ne leur appartiennent pas.
