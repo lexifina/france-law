@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960615932
+
+- Question : [SEQ960615932](seq960615932.md) — Temps de travail des élèves à domicile
+
+## Réponse
+
+*Éducation, JO du 1996-07-25, page 1919*
+
+Réponse. - Dans le cadre de la rénovation progressive du collège actuellement en cours, la mise en oeuvre des décisions du nouveau contrat pour l'école permet d'apporter une aide au travail à l'ensemble des élèves dès leur entrée au collège. Ainsi, dans le cadre du cycle d'adaptation, des études dirigées ou encadrées ont été créées pour permettre aux élèves d'effectuer leur travail personnel au collège. Elles contribuent à faciliter la transition école-collège, et leur caractère obligatoire en classe de 6e permet d'apporter à tous les élèves les moyens d'accéder à l'autonomie. Les études dirigées ont pour objectif de favoriser l'acquisition des méthodes de travail personnel, comme le rappelle la note de service no 96-132 du 10 mai 1996 relative à l'organisation des enseignements et à la poursuite de l'expérimentation dans le cycle central à la rentrée 1996. Quant aux élèves qui ont déjà acquis ou maîtrisent mieux ces méthodes, ils peuvent bénéficier d'études encadrées destinées à leur permettre d'effectuer leur travail personnel dans de meilleures conditions qu'auparavant. En classe de 5e, les établissements proposent un encadrement pédagogique complémentaire aux élèves qui ne font pas preuve d'une automomie suffisante dans leur travail. La note de service no 96-132 du 10 mai 1996 rappelle les principes de cette aide pédagogique. Par ailleurs, une évaluation menée par la direction de l'évaluation et de la prospective ainsi qu'un rapport de l'inspection générale ont démontré que, si le choix des devoirs relève de l'initiative pédagogique de chaque enseignant, l'organisation des études a conduit le plus souvent les équipes éducatives à mieux adapter la charge de travail personnel de l'élève, grâce à une meilleure prise en compte de l'ensemble du travail demandé.
