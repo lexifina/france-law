@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990918931
+
+- Question : [SEQ990918931](seq990918931.md) — Situation des bibliothèques universitaires et interuniversitaires de Paris
+
+## Réponse
+
+*Éducation, JO du 1999-10-28, page 3560*
+
+Réponse. - La situation des bibliothèques universitaires et interuniversitaires de Paris se définit par quatre caractéristiques principales : une grande richesse des collections, qui tient à la fois à une accumulation séculaire de ressources et à un niveau d'acquisition toujours élevé ; un important déficit en places de travail, qui se traduit souvent par des files d'attente et par une saturation des espaces ; des locaux parfois préoccupants en termes de sécurité, peu fonctionnels et n'autorisant guère un accès direct aux documents ; une informatisation encore très partielle, compte tenu de l'ampleur des chantiers à conduire : gestion informatisée, connexions aux réseaux, numérisation de l'ensemble des catalogues, développement des accès aux ressources électroniques. La valorisation des collections parisiennes appelle clairement la mise en service de surfaces supplémentaires, seules susceptibles, grâce à la création de nouvelles places de travail et à la mise en accès direct des documents, de désengorger le réseau existant. Plusieurs bâtiments doivent en outre faire l'objet de travaux de sécurité et d'opérations de modernisation. L'informatisation des services doit enfin être généralisée. Bien qu'il ne soit pas possible, à l'heure actuelle, de préjuger des arbitrages à venir, il ne fait pas de doutes que la question des bibliothèques universitaires et interuniversitaires parisiennes constitue un élément essentiel pour l'élaboration du plan Universités du troisième millénaire (U3M), à travers lequel se décideront les principaux investisssements des prochaines années.
