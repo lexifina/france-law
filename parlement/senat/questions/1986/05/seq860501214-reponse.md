@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860501214
+
+- Question : [SEQ860501214](seq860501214.md) — Procédure de répartition des ressources du fonds départemental de la taxe professionnelle
+
+## Réponse
+
+*Intérieur, JO du 1986-10-01, page 1392*
+
+Réponse. -Comme le rappelle l'honorable parlementaire, la procédure de répartition, dans le cadre interdépartemental, des ressources affectées au fonds départemental de péréquation de la taxe professionnelle peut s'avérer parfois longue et complexe. C'est la raison pour laquelle certains présidents de conseils généraux ont demandé que les dispositions du décret précisant le fonctionnement de la commission interdépartementale de répartition, compétente lorsque la répartition des ressources du fonds intéresse des communes situées dans plusieurs départements, soient modifiées. Ils souhaitent, en effet, un allégement de la procédure et ont proposé à cet effet la suppression de l'obligation de réunir la commission interdépartementale de répartition au chef-lieu du département d'implantation de l'établissement dont les bases de taxe professionnelle sont écrêtées au profit du fonds départemental. Le Gouvernement est favorable à cette proposition. Il paraît effectivement souhaitable, dans le but d'assouplir les conditions de fonctionnement de la commission, de laisser le libre choix du lieu de sa réunion aux présidents des conseils généraux des départements intéressés par la répartition, qui convoquent la commission par arrêté conjoint. Cette modification suppose que les dispositions du décret n° 81-120 du 6 février 1981 soient adaptées en conséquence. A cet effet, un projet de décret a été élaboré. Il fait l'objet actuellement d'une consultation de l'association des présidents des conseils généraux. Dès que les résultats en seront connus, le projet sera soumis au comité des finances locales.
