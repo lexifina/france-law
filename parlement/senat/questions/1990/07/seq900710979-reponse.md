@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900710979
+
+- Question : [SEQ900710979](seq900710979.md) — Effectifs d'enseignants de l'enseignement privé
+
+## Réponse
+
+*Éducation, JO du 1991-02-07, page 252*
+
+Réponse. - Selon les dispositions de l'article 119-I de la loi de finances pour 1985 (loi n° 84-1208 du 29 décembre 1984), le montant des crédits affectés à la rémunération des personnels enseignants des classes faisant l'objet d'un des contrats prévus aux articles 4 et 5 de la loi n° 59-1557 du 31 décembre 1959 modifiée est fixé chaque année par la loi de finances en fonction des effectifs d'élèves accueillis et des types de formation dispensés dans les établissements d'enseignement public et dans les classes sous contrat des établissements d'enseignement privés, et compte tenu des contraintes spécifiques auxquelles sont soumis les établissements d'enseignement public du fait des conditions démographiques, sociales ou linguistiques particulières. Ces dispositions ont été appliquées pour le calcul du nombre d'équivalents-emplois en vue de la mise sous contrat de nouvelles classes au titre de toutes les rentrées scolaires depuis 1985. La loi de finances pour 1989 a prévu 1 000 contrats supplémentaires correspondant aux 4 200 emplois créés dans l'enseignement public pour la rentrée de 1989, auxquels s'ajoutaient 115 contrats consolidés au titre des moyens accordés en cours d'année 1988. 364 contrats supplémentaires ont en outre été autorisés au titre de la rentrée de 1989 et consolidés au budget de 1990. La loi de finances pour 1990 a créé 1 103 contrats supplémentaires correspondant aux 200 emplois créés dans les établissements publics du premier degré et aux 4 500 emplois créés dans le second degré. Les moyens distribués au titre de la rentrée de 1990 s'élèveront à 1 103 et non à 1 078. Le projet de loi de finances pour 1991 prévoit enfin la création de 1 071 nouveaux contrats, qui correspondent aux 4 500 emplois destinés aux établissements publics.
