@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010231334
+
+- Question : [SEQ010231334](seq010231334.md) — Réforme des tutelles
+
+## Réponse
+
+*Justice, JO du 2001-06-21, page 2102*
+
+La garde des sceaux, Ministre de la justice, fait connaître à l'honorable parlementaire qu'à la suite du rapport conjoint des inspections des finances, des services judiciaires et des affaires sociales, qui mettait en évidence les insuffisances du système de protection des majeurs, le Gouvernement a constitué un groupe de travail interministériel, présidé par Jean Favard, conseiller honoraire à la Cour de cassation, chargé d'élaborer des propositions tendant à adapter ce dispositif à l'évolution des populations susceptibles d'être concernées, due notamment aux phénomènes d'exclusion et de précarité ainsi qu'à l'augmentation de l'espérance de vie. Ce rapport, rendu public en mai 2000, insiste sur le nécessaire respect de la dignité de la personne à protéger et sur les principes de nécessité et de subsidiarité des mesures de protection et rappelle que la finalité du dispositif doit être tout autant la protection de la personne du majeur concernée que la sauvegarde de ses biens. Il suggère, en outre, d'harmoniser le mode de financement des mesures de protection, actuellement caractérisé par une grande disparité des règlementations, en mettant en place une dotation globale, dont la gestion reviendrait à un opérateur unique. Celui-ci serait ainsi chargé de répartir les fonds, non plus en fonction du nombre de mesures, dont le coût est essentiellement variable et dépend à la fois des besoins individuels du majeur protégé et de la durée de la mesure, mais en tenant compte de la réalité du service. A la suite du dépôt du rapport, des consultations ont été menées auprès des juridictions pour recueillir leurs observations. En considération de celles-ci, le Gouvernement élabore en avant-projet de loi qui sera soumis prochainement à la concertation de l'ensemble des intervenants en la matière.
