@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990213839
+
+- Question : [SEQ990213839](seq990213839.md) — Situation des jeunes diplômés sursitaires au service national
+
+## Réponse
+
+*Défense, JO du 1999-03-25, page 967*
+
+Réponse. - Lors de la réforme du service national, le Gouvernement, souhaitant concilier l'emploi des jeunes dont il a fait une priorité et le besoin crucial en appelés du contingent pendant la phase de professionnalisation des armées (1997-2002), a tenu à ce que les appelés titulaires d'un contrat de travail ne subissent pas de préjudice sur le plan professionnel, du fait de leurs obligations légales. A ce titre, plusieurs dispositions ont été adoptées dans la loi nº 97-1019 du 28 octobre 1997 portant réforme du service national, afin de préserver l'avenir professionnel des jeunes gens concernés. Afin de renforcer la protection des appelés titulaires d'un emploi avant leur incorporation, le code du travail a été modifié par deux dispositions importantes. Ainsi, l'article L. 122-18 dispose que le contrat de travail est suspendu pendant le service national et fait obligation à l'entreprise de réintégrer l'intéressé à l'issue du service actif. De plus, l'article L. 122-21 précise que nul ne peut être licencié au motif qu'il est astreint aux obligations du service national. Par ailleurs, l'article L. 5 bis du code du service national permet aux jeunes gens titulaires d'un contrat de travail de droit privé à durée déterminée ou indéterminée de demander à bénéficier d'un report supplémentaire. Ce report ne peut cependant être accordé que si l'incorporation immédiate du demandeur a pour conséquence de compromettre son insertion professionnelle ou la réalisation d'une première expérience professionnelle. La combinaison de l'ensemble de ces dispositions nouvelles permet de répondre aux préoccupations rappelées par l'honorable parlementaire.
