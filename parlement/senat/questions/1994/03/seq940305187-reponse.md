@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940305187
+
+- Question : [SEQ940305187](seq940305187.md) — Réglementation concernant les opérations de réduction de corps dans les cimetières communaux
+
+## Réponse
+
+*Aménagement du territoire, JO du 1994-04-14, page 873*
+
+Réponse. - Aucun texte spécifique ne réglemente l'opération de réduction de corps qui consiste à recueillir, à la suite d'une exhumation, les restes mortels dans une boîte à ossements pour la déposer dans la même sépulture. L'article R. 361-17 du code des communes dispose toutefois que " lorsque le cercueil est trouvé en bon état de conservation au moment de l'exhumation, il ne peut être ouvert que s'il s'est écoulé cinq ans après le décès. Lorsque le cercueil est trouvé détérioré le corps est placé dans un autre cercueil ou dans une boîte à ossements ". De même, la réduction de corps est conditionnée par la délivrance de l'autorisation d'exhumation par le maire de la commune concernée, prévue à l'article R. 361-15 du code des communes, à la demande du plus proche parent de la personne défunte qui justifie de son état civil, de son domicile et de la qualité en vertu de laquelle il formule sa demande. Par ailleurs, le droit de superposition de corps ou " taxe " de seconde et ultérieures inhumations est perçu dans certaines communes à l'occasion de chaque inhumation autre que la première effectuée dans un terrain concédé dans la mesure où le règlement municipal fixant les tarifs des concessions funéraires prévoit expressément le paiement de ce droit. Sous réserve de l'appréciation souveraine des tribunaux compétents, il n'apparaît pas possible en droit de percevoir à l'occasion d'une opération de réduction de corps un droit ou " taxe " de superposition de corps puisque en l'occurrence il n'y a pas de nouvelle inhumation dans la concession considérée.
