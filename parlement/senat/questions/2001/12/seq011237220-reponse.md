@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011237220
+
+- Question : [SEQ011237220](seq011237220.md) — Arrêt Perruche
+
+## Réponse
+
+*Famille, JO du 2002-02-14, page 494*
+
+Les récentes décisions prises par la Cour de cassation qui ont conduit, dans trois cas, à l'indemnisation du préjudice lié au handicap d'un enfant dont les déficiences n'avaient pas été décelées pendant la grossesse en raison d'une faute médicale reconnue ont, en effet, suscité une vive émotion. Cette émotion a d'abord été exprimée par les personnes handicapées elles-mêmes et les associations qui les représentent. Elle a été ensuite relayée par les médecins, notamment ceux qui ont la responsabilité du diagnostic prénatal. Beaucoup de ces réactions reposaient en fait sur une interprétation excessive des arrêts de la Cour. C'est la raison pour laquelle le Gouvernement a souhaité, avant d'envisager une réponse législative, se donner le temps de la réflexion. Pour ces raisons, le Gouvernement a proposé récemment au Parlement de se prononcer sur un texte d'équilibre qui pose le principe de l'impossibilité juridique d'assimiler le fait de naître à un préjudice, tout en encadrant avec précision les cas dans lesquels la mère et les parents d'un enfant né handicapé par suite d'une faute peuvent obtenir une juste réparation de l'auteur de cette faute. Ce texte a été adopté par l'Assemblée nationale le 10 janvier dernier. Au-delà, c'est un débat de société qui est ainsi ouvert : il est indispensable de faire aujourd'hui une place plus importante aux personnes handicapées dans la société et, sans doute, de revoir les principes et les mécanismes de la solidarité publique qui constitue le devoir de la nation à l'égard des personnes touchées par le handicap. C'est l'objectif de la révision de la loi d'orientation en faveur des personnes handicapées du 30 juin 1975 que la ministre déléguée à la famille, à l'enfance et aux personnes handicapées a souhaitée mettre en chantier.
