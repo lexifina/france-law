@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991120576
+
+- Question : [SEQ991120576](seq991120576.md) — Prévention et traitement de la délinquance
+
+## Réponse
+
+*Justice, JO du 2000-02-24, page 699*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que la démarche d'évaluation des dispositifs de la protection de l'enfance a été lancée le 10 mars 1999. Elle devra se poursuivre jusqu'en décembre 2000, avec la production d'un document global. Ce travail est suivi au plan national par le Comité national de suivi et d'évaluation dans lequel sont représentés l'assemblée des départements de France, les ministères de la justice, de l'emploi et de la solidarité et de l'intérieur (direction générale des collectivités locales) et les magistrats (Association française des magistrats de l'enfance et de la famille). Le Comité national de suivi et d'évaluation, dont les objectifs sont de soutenir la démarche des départements volontaires, de suivre leurs travaux, d'en opérer la synthèse et de formuler des recommandations sur la base des travaux engagés dans les seize départements, diffusera à l'ensemble des départements français la synthèse finale des travaux. La première phase est en cours de réalisation avec l'établissement d'un diagnostic du dispositif pour chacun des seize départements mobilisés qui donnera lieu à une première synthèse partielle. Parmi les seize départements concernés, trois d'entre eux, le Var, les Hauts-de-Seine et la Somme, ont choisi de travailler plus particulièrement la question de la prévention et du traitement de la délinquance des mineurs. Les recommandations et les préconisations éventuelles issues de la réflexion des départements volontaires retenues par le comité national seront diffusées aux départements. Elles ont vocation à être mises en uvre par les décideurs locaux selon les priorités qu'ils auront retenues et éventuellement après des adaptations tenant compte des particularités locales.
