@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508244
+
+- Question : [SEQ980508244](seq980508244.md) — Place des enfants de moins de trois ans dans les effectifs scolaires
+
+## Réponse
+
+*Enseignement scolaire, JO du 1998-10-08, page 3188*
+
+Réponse. - Dans le cadre de la préparation de la rentrée scolaire, des prévisions d'effectifs, nationales et départementales, sont élaborées. Les prévisions d'effectifs pour l'école préélémentaire sont faites en utilisant les taux de scolarisation par âge. Les enfants de deux ans sont pris en compte dans ces prévisions. Conformément au 2e alinéa de l'article 2 de la loi d'orientation sur l'éducation du 10 juillet 1989, l'accueil des enfants de deux ans est étendu en priorité dans les écoles maternelles situées dans un environnement social défavorisé, que ce soit dans les zones urbaines, rurales ou de montagne. Par ailleurs, les dispositions de l'article 2 du décret nº 90-788 du 6 septembre 1990 précisent que " les enfants qui ont atteint l'âge de deux ans, au jour de la rentrée scolaire, peuvent être admis dans les écoles et classes maternelles dans la limite des places disponibles ". Un effort particulier a été entrepris pour les zones d'éducation prioritaires (ZEP), en concentrant l'action sur les écoles maternelles. C'est ainsi qu'à la rentrée 1997, l'effectif moyen par école était de 25 élèves en moyenne par classe en maternelle dans les ZEP L'extension de l'accueil des enfants de deux ans en classe maternelle, en priorité dans les ZEP, représente un véritable projet de société et constitue un des éléments essentiels de la politique que la ministre déléguée chargée de l'enseignement scolaire entend conduire. Toutefois, cet accueil doit être fait en tenant compte de la spécificité du rôle de l'école maternelle : école à part entière mais adaptation à l'âge et au rythme des petits.
