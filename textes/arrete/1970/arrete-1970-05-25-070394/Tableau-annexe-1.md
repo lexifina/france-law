@@ -12,7 +12,7 @@
 
 : Echelle indiciaire (204 - : : |
 
-: 259) : : Echelle 1 : |
+: 282) : : Echelle 1 : |
 
 : Gardien ou garçon de : : |
 
@@ -69,6 +69,8 @@
 : Garçon de laboratoire : : |
 
 : d'analyses médicales : : |
+
+: Aide ménagère : : |
 
 ===================================================================
 
