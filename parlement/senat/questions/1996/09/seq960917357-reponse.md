@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960917357
+
+- Question : [SEQ960917357](seq960917357.md) — Situation des éducateurs de jeunes enfants
+
+## Réponse
+
+*Fonction publique, JO du 1996-10-24, page 2784*
+
+Réponse. - Le décret no 92-1198 du 9 novembre 1992 portant attribution de la nouvelle bonification indiciaire à certains personnels de la fonction publique territoriale prévoit l'attribution d'une bonification de quinze points majorés aux éducateurs de jeunes enfants assurant la direction d'établissements d'accueil de la petite enfance. Les établissements d'accueil de la petite enfance sont des structures qui accueillent physiquement les enfants : crèches, haltes-garderies qui constituent les modes de garde de la petite enfance. Le statut particulier des éducateurs de jeunes enfants leur donne vocation à exercer leurs fonctions dans les haltes-garderies et par là à diriger ce type d'établissement. Les relais assistantes maternelles, qui ne sont pas des structures destinées directement à la garde des enfants, mais des lieux d'accueil, de rencontre entre les parents et les assistants maternelles, ne peuvent dès lors permettre à ceux qui les dirigent de bénéficier de la nouvelle bonification indiciaire dans la mesure où les fonctions qui leur sont confiées ne répondent pas à celles prévues par le décret du 9 novembre 1992 précité. Il est précisé, par ailleurs, que depuis le 1er août 1993, les éducateurs de jeunes enfants qui exercent leurs fonctions dans les grands ensembles ou quartiers d'habitat dégradé dont la liste est fixée par le décret du 5 février 1993, bénéficient d'une bonification indiciaire de quinze points. La prise en compte des éducateurs de jeunes enfants responsables de relais assistantes maternelles pourra faire l'objet d'un examen lors de l'élaboration de la prochaine étape d'attribution de la nouvelle bonification indiciaire.
