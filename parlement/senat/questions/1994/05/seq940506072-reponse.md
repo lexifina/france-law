@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940506072
+
+- Question : [SEQ940506072](seq940506072.md) — Prise en compte pour la retraite des services effectués à temps partiel avant le 21 juillet 1976
+
+## Réponse
+
+*Fonction publique, JO du 1994-06-23, page 1564*
+
+Réponse. - Les services d'agent auxiliaire, temporaire, d'aide ou de contractuel peuvent être pris en compte au titre du régime spécial de retraite des fonctionnaires de l'Etat si la validation des services de cette nature a été autorisée par un arrêté interministériel et si elle est demandée avant la radiation des cadres, conformément aux dispositions de l'article L. 5 du code des pensions civiles et militaires de retraite. Par ailleurs, l'article 16 du décret no 76-695 du 21 juillet 1976 précise que les agents non titulaires en activité, employés depuis plus d'un an à temps complet et de façon continue peuvent, sur leur demande et selon certaines conditions, être autorisés, compte tenu des nécessités de fonctionnement du service, à accomplir un service à mi-temps. L'arrêté du 3 octobre 1977 a autorisé la validation des services de non-titulaires effectués à mi-temps dans les conditions prévues par les articles 16 à 20 du décret précité. Les conditions de la validation des services effectués à temps partiel sont actuellement définies par l'arrêté du 3 avril 1990 qui a repris et actualisé les dispositions des textes antérieurs. Aucun de ces textes ne prévoit le caractère rétroactif de la validation de services à mi-temps, conformément au principe de non-rétroactivité en matière de pension. Cependant, les services effectués à temps partiel avant le 21 juillet 1976 donnent droit à pension au titre du régime général d'assurance vieillesse et du régime complémentaire de retraite de l'IRCANTEC. Dans ces conditions, le Gouvernement n'envisage pas de modifier les textes en vigueur.
