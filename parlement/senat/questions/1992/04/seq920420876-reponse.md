@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920420876
+
+- Question : [SEQ920420876](seq920420876.md) — Accès des PMI aux marchés publics
+
+## Réponse
+
+*Industrie, JO du 1993-03-25, page 529*
+
+Réponse. - Il convient tout d'abord de rappeler que le droit français des marchés publics est largement fondé sur les principes de transparence et de concurrence et, de ce fait, une modification profonde du cadre juridique ne paraît pas justifiée ; c'est sans doute du côté de la capacité effective des PME à soumissionner avec succès qu'il faut chercher des améliorations. A cet égard, différents dispositifs récents concourent à favoriser l'accès des PMI aux marchés publics, notamment sous l'angle des délais de paiement et des procédures de financement. Pour les marchés de l'Etat, les acomptes peuvent atteindre 70 p. 100 du montant du marché. Cette procédure perment un paiement régulier de l'entreprise au fur et à mesure de la réalisation des différentes phases du marché. Sous certaines conditions, il est également possible de prévoir un paiement à titre d'avance qui permet le préfinancement du marché directement par l'acheteur public. Un décret en cours de signature prévoit de faciliter très largement le recours aux paiements à titre d'avance tant de la part de l'Etat que des collectivités locales. D'ores et déjà, le paiement à titre d'avance peut être assuré par le CEPME pour les paiements à 45 jours. L'avance peut généralement être accordée au taux de base bancaire majoré d'un point. Les banques commerciales peuvent elles-mêmes assurer le refinancement des créances des entreprises sur les acheteurs publics dans le cadre de la loi Dailly sur la cession des créances professionnelles. En outre, la lettre de change relevé peut être utilisée dans le cadre des marchés publics. Le système assure aux fournisseurs une date certaine de règlement et une facilité d'escompte auprès du système bancaire de la créance sur la collectivité ou l'organisme public concerné.
