@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941108618
+
+- Question : [SEQ941108618](seq941108618.md) — Comité d'orientation stratégique de la recherche
+
+## Réponse
+
+*Enseignement supérieur, JO du 1994-12-29, page 3089*
+
+Réponse. - La consultation nationale sur les grands objectifs de la recherche française a mis en évidence la nécessité de mettre en place un dispositif de réflexion stratégique auprès du ministre de l'enseignement supérieur et de la recherche. Ce dispositif, à caractère permanent, doit être adapté à la dynamique propre de la recherche et impliquer les divers secteurs d'activité qui bénéficient des crédits du budget civil de recherche et de développement technologique (BCRD). Le comité d'orientation stratégique, qui doit jouer ce rôle, devrait être institué avant la fin de cette année. Il sera composé de quinze personnalités, choisies en fonction de leur haute compétence dans le domaine et de leur capacité à promouvoir une vision prospective globale en matière de recherche et de technologie. Ses membres seront issus de la communauté scientifique, du monde économique et des entreprises, ainsi que des autres grands secteurs d'intérêt collectif représentant les différents domaines couverts par le BCRD. Ce comité exercera auprès du ministre une mission d'analyse, de synthèse et de conseil. Il concourra à la préparation du rapport annuel d'orientation stratégique de la recherche que le ministre de l'enseignement supérieur et de la recherche présente au Parlement. Par ses réflexions à moyen et long terme, il permettra d'éclairer les choix du Gouvernement et de garantir la cohérence de la politique nationale en matière de recherche et de développement technologique. Les premiers résultats des travaux du comité d'orientation stratégique sont attendus pour l'été prochain. Ils contribueront à la qualité du débat d'orientation qui aura lieu au Parlement lors du vote de la loi de finances initiale pour 1996.
