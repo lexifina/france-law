@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860500933
+
+- Question : [SEQ860500933](seq860500933.md) — Ventilation des logements commencés en 1984 par nature et par mode de financement
+
+## Réponse
+
+*Équipement, JO du 1986-07-24, page 1045*
+
+Réponse. -L'organisation actuelle de la collecte des statistiques du logement ne permet pas de connaître la ventilation des logements mis en chantier par secteur de financement, mais seulement celle des logements autorisés selon le type de financement envisagé par le pétitionnaire lors du dépôt de la demande de permis de construire ; ce financement envisagé peut être différent du financement définitif. Il est toutefois possible de procéder au niveau national à une estimation des chiffres en cause à partir des statistiques disponibles sur les décisions de financement. Pour l'année 1984, sur un total de 295 000 logements mis en chantier, soit 202 400 logements individuels et 92 600 logements collectifs, les estimations faites par type de financement sont les suivantes : pour les prêts à l'accession à la propriété (P.A.P.), 113 000 logements, pour les prêts locatifs aidés (P.L.A.), 50 000 logements, pour les autres financements (y compris les prêts conventio nnés), 132 000 logements. Pour l'année 1985, sur un total de 295 500 logements mis en chantier, soit 191 700 logements individuels et 103 800 logements collectifs, les estimations sont les suivantes : pour les prêts à l'accession à la propriété (P.A.P.), 93 000 logements, pour les prêts locatifs aidés (P.L.A.), 65 000 logements pour les autres financements (y compris les prêts conventionnés), 137 500 logements. La récente réforme du système statistique, permettra, à partir du premier semestre de 1987, de disposer de ce type de renseignement par région pour les prêts à l'accession à la propriété (P.A.P.) et les prêts locatifs aidés (P.L.A.).
