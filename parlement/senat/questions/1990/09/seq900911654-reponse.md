@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900911654
+
+- Question : [SEQ900911654](seq900911654.md) — Participation des élus locaux aux conseils postaux locaux
+
+## Réponse
+
+*Postes, JO du 1990-12-20, page 2713*
+
+Réponse. - A la suite du rapport établi par le sénateur Delfau, le ministre des postes, des télécommunications et de l'espace a pris plusieurs mesures destinées à améliorer la compréhension des besoins des populations en zones rurales, à relancer la diversification des services de La Poste, à impliquer les élus dans son fonctionnement, à moderniser les équipements des bureaux et également à déconcentrer la gestion quotidienne au profit des établissements. La Poste doit nécessairement tenir compte de la diversification et de la pluralité du monde rural. Pour cela, elle se propose, parmi plusieurs axes d'investigation, de conforter et développer le partenariat et de trouver des activités de diversification aux bureaux de poste, en liaison avec les responsables et élus locaux. Il est incontestable que, grâce à son réseau, La Poste doit pouvoir pleinement jouer son rôle dans l'aménagement du territoire conformément à la mission que lui confie la loi du 2 juillet 1990 (art. 6) relative à l'organisation du service public de la poste et des télécommunications. En application de l'article 38 de cette même loi, des instances de concertation décentralisées sont créées. Ces instances sont composées de responsables de La Poste, d'élus, d'usagers et de représentants du personnel et sont associées à l'organisation des services postaux dans chaque département. En ce qui concerne le Pas-de-Calais, la création d'un premier conseil postal local dans les cantons de Lumbres et Fauquembergues est prévue avant la fin de cette année. D'autres créations pourront être envisagées, dès le premier trimestre 1991, en concertation avec les élus locaux.
