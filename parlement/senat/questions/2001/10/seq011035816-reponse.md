@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011035816
+
+- Question : [SEQ011035816](seq011035816.md) — Réflexion sur les " chartes " de classes et les " contrats " utilisés dans les établissements scolaires
+
+## Réponse
+
+*Éducation, JO du 2001-12-13, page 3934*
+
+Il s'agit de " recommandations " et non d'instructions, ce qui implique que l'initiative en revient aux établissements et à leur conseil d'administration, dans le cadre de l'autonomie des EPLE. Cela dit, ce document, qui résulte de la réflexion d'un groupe de travail du Comité national de lutte contre la violence, a été validé par le ministre et les établissements du second degré sont donc vivement encouragés à mettre en oeuvre les actions ou les dispositifs préconisés qui s'inscriront logiquement dans leur projet d'établissement. Il s'agit parfois de créations de structures déjà mises en place avec succès dans certains établissements ; le document les fait ainsi connaître afin qu'elles puissent être initiées ailleurs. Il s'agit notamment de celles qui sont évoquées dans la question n° 35817 concernant les associations humanitaires et sociales, dans la question n° 35820 concernant les associations culturelles et dans la question n° 35970 concernant la commission de vie scolaire. D'autres recommandations concernent le fonctionnement même des établissements : sanctions disciplinaires (question n° 350976), plan de formation (question n° 35977) ou de précisions sur le rôle de tel ou tel personnel à l'intérieur de l'établissement (question n° 35985). Enfin, certaines recommandations, sans remettre nullement en cause des pratiques positives mises en oeuvre dans de très nombreux établissements, attirent l'attention sur des dérives possibles qu'une réflexion collective et une certaine vigilance permettent d'éviter : chartes et contrats (question n° 35816), médiation scolaire (question n° 35979).
