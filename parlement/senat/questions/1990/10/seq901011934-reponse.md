@@ -1,0 +1,11 @@
+# Réponse à la question SEQ901011934
+
+- Question : [SEQ901011934](seq901011934.md) — Statut d'Electricité de France
+
+## Réponse
+
+*Industrie, JO du 1991-03-07, page 480*
+
+Réponse. - La presse s'est récemment fait l'écho des préoccupations d'Electricité de France qui, face à un endettement important et un redémarrage des investissements de production, s'inquiète de la faiblesse de ses fonds propres. Si l'endettement d'Electricité de France est important en volume (230,6 milliards de francs à fin 1989), l'arrivée à maturité du programme nucléaire permet aujourd'hui à E.D.F. de concentrer ses efforts sur la diminution de son endettement. Ainsi, dans le cadre du contrat de plan pour 1989 à 1992, Electricité de France s'est engagé à diminuer sa dette de 20 milliards de francs. Cette tendance devrait se poursuivre au-delà de 1992. Le taux d'autofinancement des investissements est voisin de 60 p. 100 (66 p. 100 en 1988 et 59,5 p. 100 en 1989), ce qui constitue un niveau acceptable compte tenu du caractère très capitalistique de l'industrie électrique. Par ailleurs, le rapport entre endettement et chiffre d'affaires (égal à 1,57 en 1989) est comparable à celui des principales entreprises européennes du secteur électrique. Le financement de l'extension très limitée du parc actuel est compatible avec la poursuite du désendettement qui constitue l'objectif majeur du contrat de plan signé entre l'Etat et Electricité de France pour la période 1989 à 1992. Par ailleurs, le renouvellement du parc de production nucléaire ne devrait pas démarrer avant 2010 et compte tenu de l'allongement probable de la durée de vie des centrales, une période de renouvellement débutant en 2020 est envisageable. A cet horizon, l'endettement d'Electricité de France rapporté à son chiffre d'affaires devrait être significativement inférieur à celui observé aujourd'hui. De plus, si le rythme du renouvellement n'est évidemment pas encore arrêté, il est vraisemblable qu'il sera moins soutenu en raison d'un étalement dans le temps des investissements plus grand que précédemment. En conséquence, l'évolution de l'activité de l'entreprise
+
+notamment dans le cadre européen, devrait permettre de financer de façon satisfaisante ces besoins.
