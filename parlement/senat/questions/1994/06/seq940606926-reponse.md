@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940606926
+
+- Question : [SEQ940606926](seq940606926.md) — Plafond d'exonération des frais de déplacements professionnels des agents de la fonction publique territoriale
+
+## Réponse
+
+*Affaires sociales, JO du 1994-10-27, page 2566*
+
+Réponse. - Les agents non titulaires de la fonction publique territoriale sont affiliés au régime général de la sécurité sociale. Leur sont donc applicables toute la législation et la réglementation en matière d'assiette des cotisations de sécurité sociale dues à ce régime et en particulier l'arrêté du 26 mai 1975 modifié sur les frais professionnels. Cet arrêté a institué une présomption d'utilisation conforme à l'objet, qui autorise l'exclusion de l'assiette précitée des indemnités de déplacement et de grand déplacement alloués à un salarié en déplacement professionnel, quand ces indemnités n'excèdent pas certaines limites visées dans l'arrêté. Toutefois, les indemnités d'un montant supérieur - et peu importe que ce montant soit prévu dans une convention collective ou toute autre réglementation - peuvent être exonérées de cotisations susvisées si la preuve de leur utilisation conforme à l'objet est apportée. A défaut de cette preuve, la partie de ces indemnités qui excède les limites susvisées, est soumise à cotisations. Les mêmes dispositions sont applicables en ce qui concerne la contribution sociale généralisée, en vertu de l'article L. 136-2 du code de la sécurité sociale. Fixer alors des limites d'exonération différentes selon que l'on appartienne au secteur privé ou à l'administration revient à traiter de façon différente et par conséquent à tracer une inégalité de traitement, des personnes qui ressortent du même régime de sécurité sociale pour leur activité. Il n'est donc pas envisagé de modifier les mesures décrites ci-dessus.
