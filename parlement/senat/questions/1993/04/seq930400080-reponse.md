@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930400080
+
+- Question : [SEQ930400080](seq930400080.md) — Production de plants de pomme de terre
+
+## Réponse
+
+*Agriculture, JO du 1994-01-13, page 67*
+
+Réponse. - Il n'échappe pas à l'attention du Gouvernement que la production de plants de pomme de terre a connu une situation difficile en 1993. Les bonnes conditions climatiques de l'année 1992 et l'augmentation de 10 p. 100 des surfaces plantées ont contribué à accroître de 20 p. 100 le volume de production des plants : cela a conduit à une offre dépassant la demande sur un marché intérieur inactif du fait de l'évolution défavorable du prix de la pomme de terre de consommation. Ce phénomène a été amplifié par la chute des expéditions vers les pays tiers et s'est traduit par la chute des cours et de nombreux invendus. Dans le courant du premier semestre 1993 une aide totale de 15,1 millions de francs a été accordée se répartissant comme suit : 2 millions de francs pour soutenir les efforts d'exportation des groupements de producteurs vers les pays tiers ; 6,5 millions de francs à destination des producteurs afin d'indemniser les invendus ; 6,6 millions de francs pour les comités économiques, dont 4,5 millions de francs pour la Bretagne. Par ailleurs, les producteurs de plants de pomme de terre ont la possibilité de bénéficier de prêts de consolidation décidés au bénéfice des producteurs touchés par la réforme de la PAC ; pour cela ils doivent exercer cette activité depuis plus de 2 ans, celle-ci devant représenter une part significative de leur chiffre d'affaires. Ces mesures devraient permettre aux producteurs et à leur organisation économique de préparer sur des bases rigoureuses l'organisation de la campagne 1993-1994. Le ministre de l'agriculture et de la pêche reste très attentif à l'évolution de ce marché, et par conséquent à l'effort de maîtrise des plantations que réaliseront les comités économiques.
