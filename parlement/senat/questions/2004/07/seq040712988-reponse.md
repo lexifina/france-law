@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040712988
+
+- Question : [SEQ040712988](seq040712988.md) — Utilisation du terme " fermier " pour les produits alimentaires
+
+## Réponse
+
+*Agriculture, JO du 2004-10-28, page 2466*
+
+Le principe de l'encadrement du qualificatif produit " fermier " ou de la mention " produit à la ferme " ou " produit de la ferme " ou de toute autre dénomination équivalente a été inscrit dans la loi d'orientation agricole du 9 juillet 1999, codifié depuis dans l'article L. 640.2 du code rural. Les conditions d'utilisation de ces termes doivent être définies par un décret. La loi d'orientation agricole du 9 juillet 1999 indique également que ce décret devra être pris " sans préjudice des réglementations communautaires, ni des réglementations nationales en vigueur à la date de promulgation de la loi n° 99-574 du 9 juillet d'orientation agricole, ni des conditions approuvées, à la même date, pour bénéficier d'un label agricole ". Cette disposition concerne notamment le secteur avicole qui dispose d'une réglementation communautaire, le secteur des fromages qui dispose d'une réglementation nationale précédemment en vigueur et les notices techniques Label rouge ayant explicitement prévu les conditions d'utilisation du terme fermier et homologuées avant 1999. Le projet de décret en cours d'élaboration entre les services des ministères chargés de l'agriculture et de la consommation, les professionnels dont la FNAPF, les associations de consommateurs sera le fruit d'un travail concerté prenant en compte tant les réalités de la production, de transformation et de commercialisation que les aspirations des consommateurs. D'ores et déjà, les réunions organisées sous l'égide des ministères concernés ont permis de dégager des points de consensus sur la base desquels une nouvelle rédaction du projet de décret a été élaborée.
