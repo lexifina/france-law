@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011136336
+
+- Question : [SEQ011136336](seq011136336.md) — Union européenne : volet sanitaire inclus dans toute négociation commerciale bilatérale avec les pays tiers
+
+## Réponse
+
+*Affaires européennes, JO du 2002-02-28, page 637*
+
+L'honorable parlementaire a souhaité interroger le ministre délégué chargé des affaires européennes sur l'opportunité d'inclure un volet sanitaire dans toute négociation commerciale bilatérale avec les pays tiers. Au titre de l'accord sur l'application des mesures sanitaires et phytosanitaires (accords SPS) de l'Organisation mondiale du commerce (OMC), tout membre de l'OMC a le droit d'adopter des mesures sanitaires et phytosanitaires pour se protéger d'un risque dans la mesure où il respecte certaines obligations. Compte tenu des exigences croissantes des consommateurs européens concernant la sécurité sanitaire des aliments, l'Union européenne a mis en place une politique sanitaire de très haut niveau qu'il convient de défendre et de justifier auprès des autres pays. Cette justification de la politique sanitaire communautaire doit, bien sûr, s'effectuer dans le cadre des discussions multilatérales au niveau de l'OMC. Toutefois, étant données les difficultés rencontrées lors de l'explication de la politique sanitaire communautaire auprès de certains pays tiers, le Gouvernement estime que l'inclusion dans toute négociation commerciale bilatérale d'un volet sanitaire, basé notamment sur un échange transparent d'informations, est essentielle et doit être favorisée. L'expérience de près de sept années de mise en oeuvre de l'accord SPS de l'OMC montre que le cadre multilatéral ne saurait se suffire à lui seul. Ainsi, l'importance des accords bilatéraux avec les pays tiers demeure, pour faciliter les échanges dans le respect du droit international.
