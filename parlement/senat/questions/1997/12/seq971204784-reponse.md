@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971204784
+
+- Question : [SEQ971204784](seq971204784.md) — Mise en oeuvre du décret relatif aux décisions administratives individuelles
+
+## Réponse
+
+*Fonction publique, JO du 1998-01-22, page 243*
+
+Réponse. - Le décret du 15 janvier 1997 prévoyait qu'à compter du 1er janvier 1998 le préfet de département prendrait l'ensemble des décisions administratives individuelles entrant dans le champ de compétences des administrations civiles de l'Etat. Ce texte indiquait cependant que certaines décisions pourraient, du fait de leur portée ou de leur enjeu, continuer à être prises au niveau central, un décret en Conseil d'Etat et en conseil des ministres indiquant, pour chaque ministère, la liste des décisions conservées à ce niveau. Le décret du 15 janvier 1997 prévoyait également que certaines décisions pourraient relever d'une autorité déconcentrée de l'Etat autre que le préfet de département, un décret en Conseil d'Etat déterminant, pour chaque ministère, les décisions qui seraient prises par ces autorités. Pour la mise en oeuvre de cette réforme, il convenait que les deux catégories de décrets mentionnés ci-dessus soient publiées au Journal officiel avant le 1er janvier 1998. C'est ce qui a été fait. En effet, treize décrets en conseil d'Etat et conseil des ministres, fixant la liste des décisions maintenues au niveau central, ont été pris le 19 décembre dernier et onze décrets indiquant les décisions déconcentrées à une autre autorité que le préfet de département ont été pris le 24 décembre. L'ensemble de ces textes a été publié dans un supplément spécial au Journal officiel du 27 décembre dernier. Une circulaire destinée aux préfets, relative à la mise en oeuvre de la déconcentration des décisions administratives individuelles, a également été publiée dans ce même supplément du Journal officiel. Aussi le décret du 15 janvier 1997 peut-il, comme prévu, entrer en vigueur au 1er janvier de cette année.
