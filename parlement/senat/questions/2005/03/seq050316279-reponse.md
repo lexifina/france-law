@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050316279
+
+- Question : [SEQ050316279](seq050316279.md) — Réforme des règles de gestion des "résidences-services"
+
+## Réponse
+
+*Justice, JO du 2005-03-31, page 935*
+
+Le garde des sceaux, ministre de la justice, a l'honneur de faire connaître à l'honorable parlementaire que dans les « résidences avec services », quel que soit le cadre juridique dans lequel elles sont constituées, les services de restauration, de soins médicaux et de para-hôtellerie qui sont proposés aux occupants, entraînent des charges spécifiques, notamment d'équipements et de personnel, nécessairement liées à la permanence des services proposés, que ceux-ci soient utilisés ou non par les résidents. S'agissant des « résidences avec services » placées sous le régime de la loi du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis, dispenser le copropriétaire du paiement de ses charges, lorsque son lot est inoccupé aurait pour conséquence de faire supporter par les seuls copropriétaires de lots occupés les charges fixes, d'équipement et de personnel, dont le montant serait imprévisible et variable selon le degré d'occupation de la résidence. Cette solution serait contraire au principe de répartition prévu par l'article 10 de la loi du 10 juillet 1965 précitée. En outre, elle remettrait en cause l'équilibre économique recherché lors de la création de ces résidences, qui les rend attractives notamment pour les personnes âgées. Néanmoins et compte tenu de la réalité des difficultés évoquées et de l'utilité de ces résidences pour le maintien à domicile de nos concitoyens plus âgés, la commission relative à la copropriété qui siège au ministère de la justice est saisie de l'examen de ce problème. Elle débute ses travaux en la matière. Elle ne manquera pas, au terme de son étude, de faire toutes propositions utiles.
