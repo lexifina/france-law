@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870304864
+
+- Question : [SEQ870304864](seq870304864.md) — Bassin houiller lorrain et ressources communales
+
+## Réponse
+
+*Budget, JO du 1987-05-28, page 845*
+
+Réponse. -Dans le cadre du nécessaire redressement des Charbonnages de France, le Gouvernement a mis en place des mesures d'accompagnement propres à créer des conditions favorables pour que les activités économiques dans les régions minières soient non seulement maintenues mais développées : c'est ainsi qu'il vient d'être décidé d'augmenter la dotation du fonds d'industrialisation des bassins houillers consacrée au bassin lorrain en 1987 et 1988 de 28 millions de francs à 50 millions de francs. De plus, la Sofirem, société de reconversion des Charbonnages de France, doit également y intensifier son action. Pour ce qui concerne le problème plus spécifique des communes touchées par la baisse de la production de charbon et donc par la baisse de la redevance minière, il faut préciser que : 1° les communes bénéficiant de la redevance des mines peuvent être éligibles à la part principale du Fonds national de péréquation de la taxe professionnelle (F.N.P.T.P.), dansla mesure où elles présentent un potentiel fiscal par habitant inférieur à la moyenne de leur groupe démographique, et un effort fiscal au moins égal à l'effort moyen des communes de leur groupe démographique ; 2° elles sont en outre éligibles à la part résiduelle du F.N.P.T.P., dans la mesure où elles connaissent des difficultés financières graves en raison d'une baisse, sur une ou plusieurs années, de la redevance des mines et où le budget primitif pour l'exercice en cours a été transmis à la chambre régionale des comptes dans les conditions prévues par l'article 8 de la loi n° 82-213 du 2 mars 1982. L'attribution éventuelle de cette dotation est effectuée selon la procédure des subventions exceptionnelles accordées en application de l'article L. 235-5 du code des communes.
