@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901012062
+
+- Question : [SEQ901012062](seq901012062.md) — Evolution des prix pétroliers et équilibre financier des marchés de travaux publics
+
+## Réponse
+
+*Économie, JO du 1990-12-27, page 2747*
+
+Réponse. - Certaines prestations exécutées dans le cadre de marchés publics, notamment de génie civil, nécessitent la mise en oeuvre de matières dont une part importante est constituée de produits pétroliers ou dérivés du pétrole. Afin de prémunir les titulaires de marchés publics contre les aléas excessifs liés aux coûts d'approvisionnement de ces produits dont les prix évoluent de façon erratique, il a été recommandé aux maîtres d'ouvrage, en particulier par la circulaire du 5 octobre 1987 relative à la détermination des prix initiaux et des prix de règlement dans les marchés publics, de ne pas traiter à un prix ferme cette catégorie de marchés, mais d'y insérer une clause d'ajustement ou de révision des prix. Les événements survenus depuis le 2 août 1990 ont mis en évidence le fait que certaines collectivités publiques n'ont pas appliqué, autant qu'il eût été souhaitable, ces recommandations. Les pouvoirs publics, qui partagent les préoccupations de l'honorable parlementaire, ont donc renouvelé, et renouvelleront, le conseil de ne pas conclure à pris ferme les marchés de l'espèce, afin d'éviter de compromettre leur équilibre économique et, par suite, leur bonne exécution. S'agissant des marchés en cours dont le bilan financier ferait apparaître des surcoûts excessifs pour leurs titulaires, les entreprises seront fondées, une fois les prestations terminées, à demander au maître d'ouvrage l'octroi d'une indemnité dite d'imprévision, dans les conditions fixées par la circulaire du 20 novembre 1974, relative à l'indemnisation des titulaires de marchés publics en cas d'accroissement imprévisible de leurs charges économiques.
