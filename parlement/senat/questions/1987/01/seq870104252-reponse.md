@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870104252
+
+- Question : [SEQ870104252](seq870104252.md) — Etablissements scolaires en zone rurale
+
+## Réponse
+
+*Éducation, JO du 1987-04-02, page 492*
+
+Réponse. -En observant l'ensemble des opérations d'ouverture et de fermeture de classes en France, à la rentrée scolaire 1986, il apparaît que, dans les zones rurales, la part des ouvertures progresse tandis que celle des fermetures reste stable. Cela a surtout permis d'ouvrir des classes maternelles ; cette évolution témoigne de l'effort accompli pour que ces zones restent vivantes. S'agissant de la préparation de la rentrée 1987, le montant des retraits ou des attributions d'emplois a été arrêté à l'issue d'une étude attentive de la situation de chaque département. Fondées essentiellement sur les mouvements démographiques et sur le nombre moyen d'élèves par classe, pondérées pour tenir compte des spécificités, et notamment du caractère rural de certains départements, les décisions de retrait ne sont pas de nature à remettre en cause la bonne organisation du réseau scolaire. Cela étant, il convient de préciser que les normes nationales concernant les ouvertur es et les fermetures de classes ont été supprimées. En effet, c'est à l'inspecteur d'académie, directeur des services départementaux de l'éducation, d'élaborer, en fonction des dotations départementales, la carte scolaire, c'est-à-dire de préparer un projet de rentrée réalisant un équilibre entre toutes les priorités recensées au plan local à l'issue d'une large concertation et intégrant les problèmes particuliers, par exemple ceux qui relèvent de la ruralité. En revanche, en ce qui concerne les écoles à classe unique, l'effectif de neuf élèves demeure toujours une référence, mais il appartient, là encore, aux inspecteurs d'académie d'adapter leurs mesures aux caractéristiques géographiques et au type d'habitat.
