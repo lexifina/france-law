@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860500592
+
+- Question : [SEQ860500592](seq860500592.md) — Personnel du ministère: indemnité de logement
+
+## Réponse
+
+*Éducation, JO du 1986-06-12, page 812*
+
+Réponse. -Les lois du 30 octobre 1886 et du 19 juillet 1889 font obligation aux communes de mettre un logement convenable à la disposition des instituteurs attachés à leurs écoles et, seulement à défaut du logement convenable, de leur verser une indemnité représentative. Le Conseil d'Etat, dans l'arrêté qu'il a rendu le 6 juillet 1979 concernant la ville de Châlons-sur-Marne, a considéré que l'indemnité de logement est " comme le droit au logement lui-même, la contrepartie des sujétions propres à l'exercice des fonctions ". La haute assemblée a en conséquence décidé que c'était l'instituteur affecté au remplacement du titulaire du poste effectuant, durant l'année scolaire, un stage pédogogique, qui devait bénéficier de l'indemnité de logement, étant donné que le titulaire du poste n'avait " pas exercé pendant cette période ses fonctions à l'école ". Il n'est donc pas possible, sans une modification des lois en vigueur, d'imposer aux communes le logement des instituteurs en stage de longue durée. Toutefois, compte tenu de l'importance qu'attache le Gouvernement au développement des stages de perfectionnement, il est prévu que la commune perçoive la dotation compensatrice de l'Etat pour les instituteurs qui effectuent des stages d'une durée égale ou supérieure à un an si elle maintient à ces instituteurs le logement ou l'indemnité représentative. Cette faculté est mentionnée dans la circulaire n° 86-64 en date du 7 mars 1986 prise sous le double timbre des ministères de l'intérieur et de la décentralisation et de l'éducation nationale et adressée aux commissaires de la République, au sujet du rencensement des instituteurs en vue de la répartition de la dotation spéciale allouée aux communes en 1986.
