@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010331678
+
+- Question : [SEQ010331678](seq010331678.md) — Plaintes dans l'affaire Tchernobyl
+
+## Réponse
+
+*Justice, JO du 2001-06-07, page 1929*
+
+La garde des sceaux, ministre de la justice, à l'honneur de faire connaître à l'honorable parlementaire qu'une plainte avec constitution de partie civile a été déposée contre auteur inconnu auprès du doyen des juges d'instruction du tribunal de grande instance de Paris, des chefs d'administration de substances nuisibles, blessures involontaires, empoisonnement et violences volontaires, par deux associations : l'Association française des malades de la thyroïde (AFMT) et la commission de recherche et d'information indépendante sur la radioactivité (CRIIRAD), ainsi que par cinquante et une victimes. Dans un souci de bonne administration de la justice, ainsi qu'en raison du lien de connexité des faits, cette procédure regroupe l'action de toutes les victimes, quelle que soit la domiciliation de chacune d'entre elles. Par ailleurs, une seconde plainte avec constitution de partie civile a été déposée par un particulier pour blessures involontaires suivies d'une interruption temporaire de travail de plus de trois mois. Cette plainte vise également la pollution radioactive consécutive à l'accident de Tchernobyl. A ce jour, le procureur de la République de Paris a interjeté appel de l'ordonnance aux fins d'informer que le juge d'instruction a rendu le 1er mars 2001, en estimant l'action prescrite compte tenu de la date des faits. En raison du principe constitutionnel de la séparation des pouvoirs, les services de la chancellerie n'ont pas vocation à intervenir dans le cours des procédures judiciaires particulières. Toutefois, ces services veilleront à ce que de nouvelles plaintes, si elles venaient à être déposées par des familles de personnes atteintes de la maladie, fassent l'objet d'une décision de dessaisissement de juridiction saisie au profit du juge d'instruction de Paris.
