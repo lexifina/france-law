@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961018145
+
+- Question : [SEQ961018145](seq961018145.md) — Non-remboursement de la TVA pour les associations prenant en charge les personnes âgées handicapées
+
+## Réponse
+
+*Budget, JO du 1996-12-19, page 3405*
+
+Réponse. - En vertu de l'article 42-III de la loi de finances rectificative pour 1988, modifié par l'article 49-III de la loi de finances rectificative pour 1993, les dépenses d'investissement réalisées sur des biens mis à disposition de tiers non bénéficiaires du fonds de compensation pour la taxe sur la valeur ajoutée (FCTVA) ne sont pas éligibles à ce fonds. En matière de dépenses liées aux établissements pour personnes âgées, ces dispositions ont été précisées par les circulaires des 23 septembre 1994 et 6 février 1996 relatives au FCTVA. Les maisons d'accueil pour personnes âgées dépendantes, dès lors qu'elles sont construites et gérées soit par la commune, soit par son centre communal d'action sociale (CCAS) sont éligibles au FCTVA. En effet, dans ce cas les personnes âgées qui acquittent un prix de journée en contrepartie des prestations qu'elles y reçoivent, se trouvent placées au sein d'une structure d'accueil sociale et collective, dont l'accès est ouvert au plus grand nombre et dans les conditions caractéristiques du service public. En revanche, si la maison de retraite n'est pas gérée directement par la collectivité locale ou par son CCAS, mais qu'elle est donnée en gestion à un tiers non bénéficiaire du fonds, comme peut être une association mutualiste, l'investissement n'ouvre pas droit au bénéfice du FCTVA. Le Gouvernement n'entend pas revenir sur cette règle fondamentale de gestion du FCTVA. Il ne souhaite pas non plus assimiler les associations reconnues d'utilité publique aux CCAS dans le seul but de les rendre éligibles au FCTVA car ces entités sont de nature juridique très différente.
