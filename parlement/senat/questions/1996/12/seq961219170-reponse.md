@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961219170
+
+- Question : [SEQ961219170](seq961219170.md) — Nuisances sonores occasionnées par le survol du département de Vaucluse par des avions militaires
+
+## Réponse
+
+*Défense, JO du 1997-01-23, page 202*
+
+Réponse. - Afin d'atténuer les nuisances sonores occasionnées par les avions de la base aérienne de Salon-de-Provence, plusieurs dispositions ont d'ores et déjà été adoptées au niveau régional : resserrement de la plage horaire des vols d'entraînement de 8 h 10 à 19 heures en 1995 et de 8 h 30 à 17 heures en 1996 ; transfert depuis le mois d'août 1996 de la majeure partie des avions de type Epsilon vers la base aérienne de Cognac et élévation des axes de travail utilisés jusqu'à la limite de performance des moteurs ; réduction au strict minimum du nombre annuel d'heures de vol compatibles avec la formation des jeunes pilotes de l'Ecole de l'air. Ainsi, depuis l'été 1996, ce nombre a été fixé à 75 heures pour chaque élève pilote de transport et à 130 heures pour chaque élève pilote de chasse, alors qu'auparavant tous les élèves effectuaient 145 heures par an ; création d'une zone côtière pour l'entraînement des avions-écoles ; suppression des vols " école " au mois d'août. En outre, l'état-major de l'armée de l'air a demandé à la délégation générale pour l'armement d'étudier les solutions techniques qui pourraient être envisagées pour réduire le bruit des avions de type Tucano. Une première analyse a révélé que les nuisances proviendraient d'un problème de fréquence dont les deux sources possibles de bruit seraient la turbine et l'hélice. Les résultats complets de cette étude permettront éventuellement d'envisager des mesures complémentaires à toutes celles qui ont déjà été prises. Toutefois, l'entraînement des pilotes devra pouvoir se poursuivre dans des conditions à la fois de qualité et de sécurité.
