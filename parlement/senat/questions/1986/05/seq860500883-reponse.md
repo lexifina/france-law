@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860500883
+
+- Question : [SEQ860500883](seq860500883.md) — Caisse régionale d'assurance-maladie de Nord-Picardie
+
+## Réponse
+
+*Affaires sociales, JO du 1986-12-11, page 1715*
+
+Réponse. -L'ouverture d'une caisse régionale d'assurance maladie à Amiens, afin de pallier un certain nombre de difficultés ressenties par les assurés du département de la Somme, est difficilement envisageable dans la période où l'on s'efforce de limiter les dépenses de gestion des organismes de sécurité sociale. L'installation d'une caisse d'importance moyenne demande, en effet, un investissement de l'ordre de 70 millions de francs, et les dépenses liées au fonctionnement s'élèvent à environ 33 millions de francs par an. Il existe actuellement à Amiens une antenne mise en place par la caisse régionale d'assurance maladie de Nord-Picardie, dont la fonction principale consiste à fournir toutes informations utiles sur l'assurance vieillesse aux assurés résidant dans le département de la Somme et à liquider les dossiers qu'ils déposent. En dehors de cette unité, 49 points d'accueil ont été établis sur l'ensemble du département, afin de faciliter les relations entre les assurés et la caisse régionale. C'est ainsi qu'en 1985, dans ce département, 20 417 visiteurs ont été reçus, 4 338 dossiers ont été liquidés et 2 091 pensions ont été révisées. Par ailleurs, si la caisse régionale d'assurance maladie de Nord-Picardie a connu des difficultés entraînant des délais parfois importants dans la liquidation des pensions de vieillesse, des mesures de réorganisation interne ont permis une nette amélioration qui devrait aller en s'amplifiant. Ainsi, 30 p. 100 de dossiers ont été traités en plus, durant les premiers mois de 1986, par rapport à la période correspondante de 1985. Les retards accumulés sont donc résorbés progressivement. A terme, les retraités de Picardie ne devraient plus se trouver dans l'obligation d'effectuer des déplacements à Lille.
