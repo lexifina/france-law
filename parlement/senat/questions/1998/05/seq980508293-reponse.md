@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508293
+
+- Question : [SEQ980508293](seq980508293.md) — Danger de l'utilisation des lampes à bronzer
+
+## Réponse
+
+*Santé, JO du 1998-07-09, page 2267*
+
+Réponse. - La Commission de la sécurité des consommateurs a rendu le 9 février 1995 un avis relatif aux risques liés à l'utilisation des lampes à bronzer, soulignant notamment l'augmentation du risque de cancer cutané en cas d'usage prolongé. La commission recommandait l'élaboration d'une réglementation spécifique. Le 6 mars 1996 le Conseil supérieur d'hygiène publique de France a rendu un rapport et un avis sur ce même sujet, soulignant également que l'exposition aux ultraviolets artificiels augmentait le risque de cancer cutané. Le conseil a recommandé que les usagers soient mieux informés des risques et qu'une réglementation permette de limiter certains excès. Les conclusions de la commission et du conseil ont été largement diffusées dans la presse. Le décret nº 97-617 du 30 mai 1997, relatif à la vente et à la mise à disposition du public de certains appareils de bronzage UV, a repris les propositions de ces deux instances scientifiques, en interdisant l'usage de ces appareils aux mineurs, en limitant l'usage des appareils de bronzage aux appareils les moins dangereux et en soumettant ces appareils à un contrôle technique régulier. Ce décret comporte également un volet important concernant l'information des utilisateurs des lampes à bronzer, puisqu'il prévoit que les séances de bronzage ne peuvent avoir lieu qu'en présence d'un personnel qualifié ayant reçu une formation relative aux risques liés au bronzage. Ce décret fait également obligation aux exploitants d'établissements de bronzage artificiel d'informer leurs clients sur l'ensemble des risques d'effets indésirables, notamment en ce qui concerne le risque de cancers de la peau en cas d'exposition excessive ou répétée, ou en présence d'une peau particulièrement vulnérable.
