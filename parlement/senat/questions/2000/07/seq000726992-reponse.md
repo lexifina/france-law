@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000726992
+
+- Question : [SEQ000726992](seq000726992.md) — Utilisation de la langue anglaise par Air France pour la dénomination de son alliance avec d'autres compagnies
+
+## Réponse
+
+*Équipement, JO du 2000-10-19, page 3585*
+
+Réponse. - L'alliance stratégique fondée par Air France et trois autres partenaires (Aeromexico, Delta Air Lines et Korean Air) est de nature internationale et s'adresse à une clientèle mondiale. Le choix du nom de cette alliance, " Skyteam ", est le résultat de recherches approfondies conduites par les quatre membres fondateurs. Ce nom a été retenu parmi une douzaine de noms potentiels présélectionnés, après avoir fait l'objet de consultation auprès de clientèles des quatre continents, notamment européennes et françaises en particulier. Il est le résultat d'un consensus entre les compagnies membres. Il faut aussi préciser que d'autres partenaires sont invités à se joindre à cette alliance. Le caractère universel du regroupement de compagnies appartenant à des cultures et des pays divers impose l'utilisation d'une appellation fédératrice. Il en est ainsi de toutes les autres alliances aériennes mondiales, notamment de " Star Alliance " dont l'un des membres fondateurs est la compagnie Lufthansa, appartenant à un pays germanophone, mais aussi de " Qualiflyer " dontle pricipal membre est la compagnie Swissair. Pour autant et d'une manière générale, Air France reste profondément attachée à la promotion de la langue française dans le monde. Un exemple récent est la diffusion par Air France, à bord de ses avions long-courriers, de deux films coproduits par la compagnie et la chambre de commerce et d'industrie de Paris, présentant les atouts de la culture et de la langue françaises dans la compétition linguistique internationale.
