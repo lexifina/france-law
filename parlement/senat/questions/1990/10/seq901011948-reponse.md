@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901011948
+
+- Question : [SEQ901011948](seq901011948.md) — Diminution d'une ligne budgétaire du secrétariat d'Etat aux anciens combattants
+
+## Réponse
+
+*Anciens combattants, JO du 1991-02-28, page 416*
+
+Réponse. - La mesure d'annulation de crédit opérée par l'arrêté du 31 mars 1990, auquel se réfère l'honorable parlementaire a été prise afin de dégager des fonds pour contribuer à l'action gouvernementale dans certains domaines qui ont été estimés prioritaires, soit dans un but de solidarité nationale (aide en faveur des victimes du cyclone de la Guadeloupe), soit dans une action d'urgence destinée à parer aux difficultés que connaissent certains ministères (université, justice). Enfin, il s'agissait également de contribuer à une action de solidarité internationale (acceuil des réfugiés, aide aux pays de l'Est). Cette mesure, qui touchait 0,34 p. 100 des crédits du chapitre concerné, était une mesure conjoncturelle dont le secrétaire d'Etat chargé des anciens combattants et des victimes de guerre est persuadé que l'honorable parlementaire ne peut que comprendre le bien-fondé, nonobstant les difficultés qui ont pu en résulter effectivement pour le budget du secrétariat d'Etat chargé des anciens combattants et des victimes de guerre. Le secrétaire d'Etat chargé des anciens combattants et des victimes de guerre saisit l'occasion qui lui est fournie par la présente question écrite pour indiquer que les crédits de l'Office national des anciens combattants et victimes de guerre ont été augmentés de 40 p. 100 soit une somme de 18 millions de francs supplémentaires pour l'année 1991. Cette augmentation, destinée à mieux permettre à l'établissement public d'accomplir sa mission sociale lui donnera notamment les moyens d'aider les anciens combattants d'Afrique du Nord chômeurs en fin de droits.
