@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870907604
+
+- Question : [SEQ870907604](seq870907604.md) — Mesures contre les accidents domestiques
+
+## Réponse
+
+*Santé et famille, JO du 1987-12-17, page 1986*
+
+Réponse. -Les premiers résultats du recueil européeen des accidents de la vie domestique et de loisirs (E.H.L.A.S.S.) mis en place auprès de quatre hôpitaux en 1986 et huit hôpitaux en 1987, coordonné par le ministère chargé de la santé, fait apparaître qu'une faible part des produits ménagers se révèle être des agents responsables des accidents. Il est reconnu que la nature du conditionnement et notamment la façon de boucher ces produits sont à prendre en compte dans les circonstances d'accidents. Sur un plan réglementaire la transcription de la directive du Conseil des communautés européennes du 18 septembre 1979 concernant l'emballage et l'étiquetage des substances dangereuses ouvre la possibilité aux Etats membres de réglementer la mise en place de dispositifs de sécurité. En France, un système de protection à l'épreuve des enfants a déjà été mis en oeuvre pour les déboucheurs de canalisation à base de soude caustique liquide depuis 1981. De nombreux médicaments sont munis également d'emballage de sécurité (blisters et bouchons). Les systèmes en question sont conformes aux normes expérimentales AFNOR H 00201 et H 00202 concernant les fermetures de protection refermable et non refermables. Ces normes expérimentales sont également conformes aux normes internationales existantes adoptées notamment par les Etats-Unis. Par ailleurs, une norme européenne ISO est en cours d'élaboration. Il est précisé à l'honorable parlementaire que cette action s'inscrit dans le cadre d'un programme d'action plus large incluant l'information, mis au point par le ministre de la santé et de la famille pour prévenir les accidents de l'enfant.
