@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971104176
+
+- Question : [SEQ971104176](seq971104176.md) — Avion de transport futur
+
+## Réponse
+
+*Défense, JO du 1997-12-25, page 3639*
+
+Réponse. - Le renouvellement de la flotte d'appareils de la force aérienne de projection vise à remplacer les avions Transall et C 130 à partir de 2005. Parallèlement au besoin français, nos principaux partenaires européens souhaitent aussi renouveler leurs appareils entre 2004 et 2010. Parmi les solutions envisagées, figure le développement du nouvel avion de transport futur (ATF). La loi de programmation militaire 1997-2002, votée au mois de juin 1996 par le Parlement, ne prévoit pas de financements pour le développement de l'ATF. La France est toutefois intéressée par cet appareil. Elle a proposé à ses partenaires européens d'étudier les possibilités d'une nouvelle approche de financement et de conduite de ce programme, inspirée de celle utilisée pour les avions civils commerciaux. Dans ce contexte, M. Pierre Lelong, magistrat, ancien président de la deuxième chambre de la Cour des comptes, a remis au Premier ministre, le 13 juin dernier, un rapport préliminaire dans lequel il propose des méthodes de financement compatibles avec l'approche commerciale envisagée pour ce programme. Ces propositions sont actuellement examinées par les services du ministère de la défense. Les études préliminaires au lancement du contrat de réalisation porteront donc sur trois solutions : l'achat sur étagère d'avions C 130, le développement de l'ATF et la coopération avec la Russie et l'Ukraine au développement d'un appareil répondant aux spécifications. Il est précisé que le ministère de la défense prévoit de financer, à hauteur de 50 %, les travaux de prélancement (pre-Launch Activities) de l'ATF afin de disposer des éléments d'appréciation techniques et financiers nécessaires à la préparation du contrat de réalisation.
