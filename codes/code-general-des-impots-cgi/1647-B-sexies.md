@@ -1,6 +1,6 @@
 # Article 1647 B sexies
 
-I. Sur demande du redevable, la cotisation de taxe professionnelle de chaque entreprise est plafonnée à 5 % de la valeur ajoutée produite au cours de la période retenue pour la détermination des bases imposables et définie selon les modalités prévues aux II et III (1).
+I. Sur demande du redevable, la cotisation de taxe professionnelle de chaque entreprise est plafonnée à 4,5 % de la valeur ajoutée produite au cours de la période retenue pour la détermination des bases imposables et définie selon les modalités prévues aux II et III (1).
 
 I bis Le plafonnement prévu au I s'applique sur la cotisation de taxe professionnelle diminuée, le cas échéant, de l'ensemble des réductions et dégrèvements dont cette cotisation peut faire l'objet.
 
@@ -44,6 +44,4 @@ III. La valeur ajoutée d'un établissement nouveau dépendant d'une entreprise 
 
 2° Lorsqu'il s'agit d'une entreprise soumise à un régime forfaitaire d'imposition, en multipliant le chiffre d'affaires de l'année de la création, ajusté pour correspondre à une année pleine, par le rapport constaté pour les autres établissements entre cet élément et le montant total des bases.
 
-(1) La valeur ajoutée définie au II servira de base à la taxe professionnelle à compter d'une date qui sera fixée par une loi, au vu d'un rapport présentant les résultats de simulations effectuées à partir de déclarations déposées par les entreprises en retenant la valeur ajoutée comme base de la taxe professionnelle. Pour ces simulations il est fait abstraction de l'exonération prévue à l'article 1449-2° (Loi n° 80-10 du 10 janvier 1980, art. 7 et 33).
-
-A compter de la même date, le I cessera de s'appliquer (loi n° 80-10 du 10 janvier 1980, art. 7 et 33).
+(1) Taux applicable pour les impositions établies au titre de 1989 et des années suivantes. Précédemment le taux était de 5 %.

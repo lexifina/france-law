@@ -1,6 +1,6 @@
 # Article 302 bis K
 
-A compter du 1er janvier 1987 et jusqu'au 31 décembre 1988, une taxe de sûreté est due par les entreprises de transport public aérien. Elle est ajoutée aux prix demandés aux passagers. Elle est assise sur le nombre de passagers embarquant en France sur un vol commercial selon les tarifs suivants :
+A compter du 1er janvier 1987 une taxe de sûreté est due par les entreprises de transport public aérien. Elle est ajoutée aux prix demandés aux passagers. Elle est assise sur le nombre de passagers embarquant en France sur un vol commercial selon les tarifs suivants :
 
 5 F par passager embarqué à destination de l'étranger ; 3 F par passager embarqué vers d'autres destinations.
 
