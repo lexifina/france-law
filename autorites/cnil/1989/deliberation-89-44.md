@@ -1,0 +1,15 @@
+# Délibération portant avis sur le traitement automatisé d'aide à la gestion des inscriptions dans les filières postérieures au baccalauréat (I.U.T. - S.T.S. - C.P.G.E.)
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 89-44
+- Date : 1989-05-30
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017652891
+
+La Commission Nationale de l'Informatique et des Libertés, Vu la Convention du Conseil de l'Europe pour la protection des personnes à l'égard du traitement des données à caractère personnel, Vu la loi relative à l'informatique, aux fichiers et aux libertés, n° 78-17 du 6 janvier 1978 et notamment ses articles 15, 19, 34 à 38 et 48 ; Vu le projet d'arrêté rectoral ; Après avoir entendu Monsieur Pierre BRACQUE en son rapport et Madame Charlotte-Marie PITRAT, Commissaire du Gouvernement, en ses observations ;
+
+Considérant que le traitement a pour finalité d'apporter une aide à la gestion des inscriptions dans les filières autres que celle de l'enseignement universitaire long, et qui concernent les admissions dans les sections de techniciens supérieurs (S.T.S.), les classes préparatoires aux grandes écoles (C.P.G.E.) et les instituts universitaires de technologie (I.U.T.) ; Considérant que les inscriptions dans les I.U.T. et les classes "post-baccalauréat" des lycées (S.T.S. et G.P.G.E.) relèvent d'une sélection préalable sur dossier "papier", et que les délibérations sur ces candidatures sont effectuées avant les résultats du baccalauréat ; Considérant que le traitement dénommé Ravel 2 permet : - une meilleure information des chefs d'établissements d'enseignement supérieur sur les décisions éventuemment rendues dans d'autres établissements sur les candidats ayant déposé plusieurs dossiers d'inscription ; - une meilleure information des candidats sur l'établissement dans lequel ceux-ci sont ou non pré-retenus ; - une meilleure information des présidents d'universités qui leur permettra de mieux gérer l'ensemble des candidats et ceux qui parallèlement à leur demande d'entrée à l'université, sont déjà pré-retenus ou inscrits en S.T.S., C.P.G.E. et I.U.T. ; Considérant que les informations enregistrées sont relatives à l'identité de l'élève (titre, nom, prénom, date de naissance, numéro d'inscription au baccalauréat ou numéro spécifique, numéro d'établissement d'origine) et aux voeux émis pour être admis en S.T.S., en C.P.G.E. et en I.U.T. ; que ces informations sont pertinentes, adéquates et non excessives au regard de la finalité du traitement ; Considérant que les conditions d'exercice du droit d'accès sont respectées ; Considérant que les destinataires des informations sont les chefs d'établissements de l'enseignement supérieur et les présidents d'universités de la région parisienne ; Considérant que la sécurité du traitement est assurée par des mesures propres à garantir la sécurité et la confidentialité des informations ;
+
+Emet un avis favorable à la création du traitement. Le Président, Jacques FAUVET.
