@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861103497
+
+- Question : [SEQ861103497](seq861103497.md) — Crédits de la recherche
+
+## Réponse
+
+*Recherche et enseignement supérieur, JO du 1987-09-17, page 1480*
+
+Réponse. -Les centres de recherche, d'innovation et de transfert de technologie (C.R.I.T.T.) mis en place à partir de 1983 sont des structures souples permettant, notamment, de diffuser vers l'industrie les connaissances acquises dans les laboratoires publics de recherche. Ces centres, qui dans leur quasi-totalité sont des associations de la loi de 1901, sont financés par diverses sources : cotisation des membres, redevances pour services rendus, revenus de leurs biens, subventions. Cette dernière catégorie de financement a été individualisée dans le cadre des contrats de plan Etat-région établis pour la période 1984-1988, très souvent sous la rubrique " C.R.I.T.T. et réseaux de conseillers technologiques " car il s'agit d'actions étroitement complémentaires. Les subventions de l'Etat accordées par le ministère de la recherche et de l'enseignement supérieur (M.R.E.S.) pour les C.R.I.T.T. et les réseaux de conseillers technologiques correspondent à des dépenses de fonctionnement et d'investissement. Elles sont imputées respectivement sur les chapitres 37-02 Subventions à divers organismes et 66-04 Fonds de la recherche et de la technologie du M.R.E.S. Les crédits accordés sur ces deux chapitres ont été les suivants :1984,17,4 MF ; 1985, 24,5 MF ; 1986, 41,9 MF ; 1987, 39,8 MF. Le niveau atteint (environ 40 MF), après une année de mise à niveau en 1986, correspond au rythme de croisière des structures mises en place. Les engagements pris par l'Etat en 1984 sont donc respectés et l'action régionale continue de figurer dans les axes prioritaires de la politique de recherche du Gouvernement.
