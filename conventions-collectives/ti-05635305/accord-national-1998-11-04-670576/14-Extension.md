@@ -1,0 +1,3 @@
+# Article 14 : Extension
+
+Les partie signataires demanderont l'extension du présent accord, conformément aux dispositions des articles L. 133-1 et suivants du code du travail.
