@@ -1,0 +1,7 @@
+# Article 14 BIS
+
+Outre les cas exceptionnels dans lesquels les employeurs peuvent faire appel à une main-d'oeuvre fournie par des entreprises de travail temporaire, dit aussi intérimaire, et auxquels cas cette utilisation se fera conformément aux dispositions légales et réglementaires en vigueur, ils peuvent conclure des contrats à durée déterminée.
+
+Ces contrats sont régis par les dispositions et textes législatifs en vigueur.
+
+Quand, pour un même salarié, lesdits contrats à durée déterminée, atteindront, en plusieurs périodes, une durée de cent quatre-vingts jours de travail effectif, les dispositions prévues à l'article 14 leur sont applicables.
