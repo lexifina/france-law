@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020801737
+
+- Question : [SEQ020801737](seq020801737.md) — Pénurie de pompes antidouleur
+
+## Réponse
+
+*Santé, JO du 2002-11-21, page 2818*
+
+La mise en place, depuis 1998, de deux programmes nationaux d'action témoigne de notre volonté et de celle des professionnels de mieux maîtriser la prise en charge de la douleur. L'évaluation du 1er plan national révèle que des changements notables sont intervenus notamment au niveau de la prise en charge thérapeutique de la douleur. Ainsi, en 2001, une enquête menée auprès des fabricants, et qui est reconduite en 2002, montre que la vente des pompes d'auto-analgésie contrôlée progresse. Bien qu'il soit impossible de déterminer le nombre de pompes nécessaires, on estime qu'environ 5 000 pompes étaient disponibles dans les établissements de santé en 2000. Cependant, il apparaît que ce matériel, malgré sa disponibilité, est souvent peu ou mal utilisé dans les services. Afin d'obtenir une meilleure utilisation de ces pompes qui ne constituent qu'un des outils de l'amélioration de la prise en charge de la douleur, il est indispensable que leur achat s'inscrive dans une véritable politique menée par l'établissement de santé. Par ailleurs, compte tenu de la complexité de cette technique, une formation préalable des équipes soignantes sur l'utilisation de ce matériel est nécessaire. Ainsi le programme quadriennal 2002-2005 tient compte de l'évaluation du plan précédent. Il prévoit en particulier de renforcer la formation des professionnels de santé et d'inciter les établissements de santé dans la mise en oeuvre de programme de lutte contre la douleur. En outre l'accès des personnes souffrant de douleurs chroniques et l'information des usagers sont améliorés. Dans cette perspective, 11,4 millions d'euros ont été dégagés en 2002 dans le cadre des dotations régionalisées au titre des dépenses de santé publique.
