@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961017799
+
+- Question : [SEQ961017799](seq961017799.md) — Conditions de remboursement des frais de déplacement à l'étranger des agents de la fonction publique territoriale
+
+## Réponse
+
+*Fonction publique, JO du 1996-11-14, page 2977*
+
+Réponse. - Aucune disposition réglementaire ne régit actuellement le déplacement à l'étranger des fonctionnaires territoriaux. S'agissant d'une dépense non répertoriée à la nomenclature des pièces justificatives, le comptable doit donc demander, en se référant si possible à une dépense similaire répertoriée, toutes les pièces qui lui permettent d'effectuer les contrôles qui lui incombent, de telle sorte que sa responsabilité ne soit pas susceptible d'être mise en cause par le juge des comptes (conformément à l'instruction no 88-65-MO du 20 mai 1988 de la comptabilité publique). La même instruction précise que le comptable doit toujours s'assurer que lui sont produites au minimum deux catégories de pièces (celles fondant juridiquement la dépense, celles établissant la validité de la créance et comportant les éléments de liquidation). En application de ces principes les mandats de paiement de frais de déplacement à l'étranger de fonctionnaires territoriaux doivent être appuyés : d'une délibération de principe autorisant le remboursement des frais de déplacement à l'étranger ; de pièces similaires à celles prévues à la rubrique 26 Frais de déplacement des agents de la nomenclature des pièces justificatives. Ainsi, en particulier, devra être produit un ordre de mission qui est prévu, par ailleurs, pour les frais de déplacement à l'étranger des agents de l'Etat régis par le décret no 86-475 du 11 mars 1986. En revanche, cet ordre de mission est suffisant pour spécifier les lieux et dates du séjour et il n'est pas nécessaire d'exiger une délibération autorisant nominativement chaque déplacement de fonctionnaires territoriaux à l'étranger.
