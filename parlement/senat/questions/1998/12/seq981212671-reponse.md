@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981212671
+
+- Question : [SEQ981212671](seq981212671.md) — Fiscalité relative aux ordures ménagères
+
+## Réponse
+
+*Économie, JO du 1999-04-15, page 1255*
+
+Réponse. - L'établissement de la taxe d'enlèvement des ordures ménagères d'après les bases de la taxe d'habitation réduirait le champ d'application de cette taxe, dès lors que la taxe d'enlèvement des ordures ménagères porte notamment sur des locaux qui ne sont pas imposables à la taxe d'habitation tels que les locaux occupés par les commerçants et les membres des professions libérales. En outre, cette base serait moins bien proportionnée à l'importance du service rendu que celle de la taxe foncière sur les propriétés bâties en raison de l'application d'abattements spécifiques à la taxe d'habitation. S'agissant de la situation des bâtiments ruraux au regard de la taxe d'enlèvement des ordures ménagères, il est précisé que cette taxe porte, conformément à l'article 1521 du code général des impôts, sur toutes les propriétés soumises à la taxe foncière sur les propriétés bâties ou qui en sont temporairement exonérées. Or, les bâtiments qui servent aux exploitations rurales tels que granges, écuries, greniers, caves, celliers, pressoirs et autres, destinés soit à loger les bestiaux des fermes et métairies ainsi que le gardien de ces bestiaux, soit à serrer les récoltes bénéficient, conformément à l'article 1382-6º du code général des impôts, d'une exonération permanente de taxe foncière sur les propriétés bâties et sont donc, par voie de conséquence, exonérées de la taxe d'enlèvement des ordures ménagères. Il en est de même lorsque ces bâtiments ne servent plus à une exploitation rurale et ne sont pas affectés à un autre usage. En revanche, si ces bâtiments sont utilisés pour l'habitation ou pour les besoins d'une activité autre qu'agricole, ils doivent être soumis à la taxe foncière sur les propriétés bâties et à la taxe d'enlèvement des ordures ménagères.
