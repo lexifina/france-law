@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870204470
+
+- Question : [SEQ870204470](seq870204470.md) — Adaptation de la production de tabac à la demande
+
+## Réponse
+
+*Agriculture, JO du 1987-04-09, page 531*
+
+Réponse. -Le ministre de l'agriculture rappelle à l'honorable parlementaire que la Communauté économique européenne consacre au soutien de la tabaculture européenne une enveloppe financière considérable puisqu'elle s'est élevée à quelque 870 millions d'ECU pour 1987, soit plus de 6 milliards de francs. De plus, dans ses propositions, la Commission des communautés européennes s'est efforcée de favoriser l'adaptation de la production à l'évolution de la consommation des produits à fumer par une modulation de plus en plus accentuée des prix et des primes en faveur des variétés les plus demandées, en particulier les tabacs blonds. A cet égard, ses propositions pour la campagne 1987 s'inscrivent pleinement dans cette orientation. On doit d'ailleurs souligner qu'elles sont favorables aux tabacs produits en France, puisque toutes les variétés blondes ou brunes font l'objet d'augmentations en ECU. Les tabaculteurs français recueillent les fruits de leurs efforts pour s'adapter qualitativement à la demande industrielle tant française qu'européenne. Ces efforts, qui ont permis de recréer un nouvel équilibre entre les surfaces plantées en tabacs bruns et tabacs blonds, ont été accompagnés par les pouvoirs publics, dont le soutien ne s'est jamais démenti. Ce soutien consistant en aides à l'investissement et à la recherche - expérimentation, ainsi qu'en aides à la formation, a sans nul doute contribué à accélérer le processus de reconversion variétale mis en oeuvre par les tabaculteurs eux-mêmes. Pour 1987, cette voie sera poursuivie en concertation étroite avec les représentants de la profession tabacole.
