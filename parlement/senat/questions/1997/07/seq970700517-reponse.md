@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970700517
+
+- Question : [SEQ970700517](seq970700517.md) — Relance économique par le secteur des travaux publics
+
+## Réponse
+
+*Économie, JO du 1998-07-16, page 2320*
+
+Réponse. - Le Gouvernement tient à indiquer à l'auteur de la question que, dès la loi de finances pour 1998, les investissements publics ont été relancés. En effet, ce budget marque une inflexion significative par rapport à la décroissance des crédits d'équipements civils observée jusqu'à présent. Les autorisations de programme (AP) (1) progressent de 6,5 % et les crédits de paiement (CP) de 3,1 % pour l'ensemble des équipements civils. Cette augmentation intervient après la forte baisse de 1997 de 12,5 % en AP et de 6,5 % en CP. Cette progression bénéficie en particulier aux équipement collectifs dans le domaine des transports, au patrimoine culturel et à la justice. Les crédits de l'équipement, des transports et du logement croissent ainsi de 4,8 % en AP et de 3,6 % en CP. Il convient par ailleurs de souligner la forte augmentation des crédits d'investissement dans deux domaines prioritaires, l'entretien du patrimoine culturel (p 20,2 % en AP et p 7,7 % en CP) et la rénovation de la justice (p 26,2 % en AP et p 6,2 % en CP). Il faut en outre souligner le très sensible raffermissement de l'activité des travaux publics constaté à la fin de l'année 1997 et confirmé depuis, qui intervient après plusieurs années de repli. Les travaux ont notamment progressé de 5 % sur les douze derniers mois sous l'effet combiné des investissements de l'Etat, des entreprises publiques, des collectivité locales et les sociétés privées. (1) Ces évolutions portent sur l'ensemble des crédits d'équipements civils hors compte d'affectation des produits de cession et hors charges communes qui retracent la contribution de la France aux fonds multilatéraux qui ne sont pas à proprement parler des dépenses d'investissement.
