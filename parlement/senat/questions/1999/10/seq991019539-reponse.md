@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991019539
+
+- Question : [SEQ991019539](seq991019539.md) — Mesures en faveur de la communauté harkie
+
+## Réponse
+
+*Emploi, JO du 2001-05-31, page 1846*
+
+Réponse. - Le Gouvernement est sensible aux attentes de la communauté harkie, notamment sur le choix d'une journée du souvenir des victimes de la guerre d'Algérie. Cependant, aucune des dates historiques proposées ne fait l'unanimité, en particulier la date du cessez-le-feu, lendemain de la signature des accords d'Evian (19 mars 1962). Cette absence d'unanimité a suscité la proposition d'autres dates : celle de l'inhumation d'un soldat inconnu à la nécropole de Notre-Dame-de-Lorette (16 octobre 1977) ou encore celle de l'armistice de la Première Guerre mondiale (11 novembre 1918). Il doit donc en être, pour la commémoration de la guerre d'Algérie, comme il en a été pour les commémorations concernant les précédents conflits contemporains, c'est-à-dire adoption à l'unanimité de l'Assemblée nationale et du Sénat d'une date unique rassemblant tous les Français. Constatant les fortes divisions qui traversent, sur cette question, le monde combattant mais aussi la nation, le Gouvernement a adopté une position équilibrée qui s'efforce de respecter les diversités et de tenir compte de tous les sentiments des uns et des autres. C'est donc dans cet esprit : que le Gouvernement participe de manière identique aux cérémonies organisées sur la dalle du Soldat inconnu à Paris aux dates retenues jusqu'alors : 19 mars et 16 octobre. Le secrétaire d'Etat à la défense chargé des anciens combattants a ainsi procédé au ravivage de la flamme le 19 mars 2000 et le 16 octobre de la même année ; que les préfets et sous-préfets participent dans les chefs-lieux des départements et arrondissements aux deux cérémonies, dans la mesure où elles sont organis
