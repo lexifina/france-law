@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900107837
+
+- Question : [SEQ900107837](seq900107837.md) — Situation des inspecteurs du permis de conduire de l'Essonne
+
+## Réponse
+
+*Équipement, JO du 1990-04-12, page 790*
+
+Réponse. - L'effectif des inspecteurs du permis de conduire qui est fixé par la loi de finances est rationnellement réparti entre les différentes circonscriptions et toutes dispositions sont prises par le service des examens pour une utilisation optimale de ces personnels. Au cours de l'année 1989, les moyens mis en oeuvre par le service des examens dans le département de l'Essonne ont permis d'assurer l'ensemble des tâches qui lui sont dévolues et d'accorder aux établissements d'enseignement de la conduite 1,6 place, en moyenne, par dossier de première candidature enregistré en préfecture. Ce niveau de présentation peut être considéré comme convenable. En effet, le fonctionnement du service public est d'autant plus efficace que le nombre de candidats valablement et effectivement préparés pour le permis de conduire est élevé ; un taux de réussite plus grand a pour conséquence de réduire les délais d'attente. Au cours de l'année 1989, des difficultés de fonctionnement ont été observées dans l'Essonne, notamment en raison de la maladie de plusieurs inspecteurs. Toutes dispositions ont été prises pour pallier ces défaillances, mais les nombreuses modifications qui s'en sont suivies dans la programmation expliquent les préoccupations des auto-écoles et des candidats concernés. L'administration suit très attentivement le fonctionnement du service des examens dans l'Essonne et ne ménage aucun effort pour surmonter, dans les meilleures conditions possibles, les problèmes réels qui peuvent se poser. En outre, le service public ne manquera pas, à l'occasion du nouveau recrutement d'inspecteurs du permis de conduire, de procéder à un examen de la situation de l'effectif de ce département.
