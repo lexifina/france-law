@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931103852
+
+- Question : [SEQ931103852](seq931103852.md) — Garantie d'emplois aux jeunes appelés effectuant leur service national
+
+## Réponse
+
+*Travail, JO du 1994-02-24, page 454*
+
+Réponse. - Il est rappelé à l'honorable parlementaire que la rupture du contrat de travail du fait du départ au service national du salarié a des conséquences limitées. En effet, l'article L. 122-18 du code du travail prévoit que le salarié doit être réintégré dans l'entreprise à moins que l'emploi occupé par lui ou un emploi ressortissant à la même catégorie professionnelle que le sien ait été supprimé. Si la réintégration n'est pas possible, le salarié bénéficie d'une priorité à l'embauche pendant une année à dater de sa libération du service national. Enfin, le salarié réintégré bénéficie de tous les avantages qu'il avait acquis au moment de son départ. Les effets de la rupture sont donc proches de ceux résultant d'une suspension du contrat de travail. Par ailleurs, les effets attachés au départ au service national sont souvent l'objet de négociation entre les partenaires sociaux et de nombreuses conventions collectives prévoient qu'il entraîne une suspension du contrat de travail. Ainsi, il ressort d'une étude statistique effectuée par les service du ministère du travail, de l'emploi et de la formation professionnelle que, sur 134 conventions collectives nationales, 62 d'entre elles prévoient une suspension du contrat de travail du salarié appelé au service national. Il convient également d'ajouter que le refus injustifié de réintégration ou toute infraction au code du travail en cette matière expose l'employeur aux sanctions pénales prévues à l'article R. 152-2 du même code. Un tel refus peut entraîner aussi des sanctions civiles spécifiées à l'article L. 122-23.
