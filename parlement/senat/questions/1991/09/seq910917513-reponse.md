@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910917513
+
+- Question : [SEQ910917513](seq910917513.md) — Suites données par la France aux propositions de la CNUCED concernant le rééchelonnement de la dette des pays les plus pauvres
+
+## Réponse
+
+*Économie, JO du 1991-11-21, page 2590*
+
+Réponse. - Le rapport évoqué par l'honorable parlementaire est un simple rapport du secrétariat de la C.N.U.C.E.D. qui n'engage donc pas cette institution, dont les prises de position prennent la forme de résolutions agréées consensuellement par les pays membres. S'agissant spécifiquement du traitement de la dette des pays les plus pauvres, comme le sait l'honorable Parlementaire, beaucoup a déjà été fait. Le traitement dit de " Toronto " de la dette des pays les plus pauvres envers leurs créanciers publics, mis en place en 1988, a déjà bénéficié à vingt pays pour un volume global de créances de 5,9 Mds $. Par ailleurs, beaucoup de pays occidentaux ont décidé l'annulation des dettes contractées à leur égard au titre de l'aide au développement par ces pays très pauvres, pour des montants très importants. En ce qui concerne la France, cette annulation a été annoncée par le Président de la République au Sommet de Dakar en mai 1989 pour les pays africains, puis à la conférence de Paris sur les pays les moins avancés, en septembre 1990, pour les autres pays très pauvres. Ces mesures, approuvées par le Parlement dans les lois de finances initiale et rectificative pour 1990 concernent un recours de plus de 29 Mds F (21 Mds de principal et 8 Mds d'intérêts). Pour autant, le besoin de réaménagement et d'allégement des dettes, contractées essentiellement au titre de crédits commerciaux garantis, reste extrêmement important, voire s'accroît pour de nombreux pays. Ceci explique que des réflexions approfondies sur l'amélioration du traitement de Toronto soient depuis plusieurs mois en cours au sein du Club de Paris. La France plaide pour un aboutissement rapide de ces discussions.
