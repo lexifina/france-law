@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931103789
+
+- Question : [SEQ931103789](seq931103789.md) — Application de la loi programme relative au patrimoine monumental
+
+## Réponse
+
+*Budget, JO du 1994-02-24, page 434*
+
+Réponse. - Les dispositions évoquées par l'honorable parlementaire, qui ne résultent pas de la doctrine administrative mais des dispositions de l'article 795 A du code général des impôts, constituent la contrepartie du caractère profondément dérogatoire au droit commun de l'exonération totale de droits de mutation à titre gratuit dont bénéficient les monuments historiques ouverts au public. Ainsi, la possibilité de calculer les droits dus sur une estimation du monument au jour du non-respect de la convention ou sur la valeur déclarée lors de la donation ou du décès si elle est supérieure, permet d'éviter que la rupture de la convention ne procure un avantage fiscal injustifié aux héritiers, légataires ou donataires qui n'ont pas respecté le contrat signé avec les ministres chargés de la culture et des finances. De même, l'application des taux actuels auxquels les biens auraient été soumis à l'époque de leur transmission s'oppose à ce qu'une éventuelle baisse des droits de succession n'avantage ceux qui ne respectent pas le contrat souscrit. Enfin, l'application de l'intérêt de retard prévu par l'article 1727 du code précité présente le caractère, non d'une sanction, mais d'une réparation civile puisqu'il a pour objet de compenser le préjudice financier subi par le Trésor du fait de l'encaissement tardif de sa créance. Il n'est donc pas envisagé de modifier le dispositif actuellement applicable qui ne comporte aucune sanction spécifique et ne fait que replacer les redevables qui ne respectent pas leurs engagements dans une situation proche de celle qui résulterait du droit commun.
