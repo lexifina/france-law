@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890103079
+
+- Question : [SEQ890103079](seq890103079.md) — Création d'une intersection de gérontologie clinique
+
+## Réponse
+
+*Éducation, JO du 1989-06-08, page 877*
+
+Réponse. - L'article 12 du décret n° 87-31 du 20 janvier 1987 relatif au Conseil national des universités ne permet pas l'institution d'intersection à titre permanent ; il autorise en revanche le ministre chargé de l'enseignement supérieur à réunir, pour répondre au besoin d'un recrutement particulier, des intersections constituées par des répresentants de sections ou de sous-sections distinctes. Rien ne s'oppose donc à la réunion de jurys intersectionnels en gérontologie clinique lorsque la nature de l'emploi mis au recrutement le justifie. Toutefois, il ne semble pas que les modalités de recrutement puissent, en règle générale, avoir un effet déterminant sur l'implantation de cette discipline, s'il n'existe pas, au préalable, une volonté en ce sens des responsables des établissements. Il convient de rappeler, en effet, que les affectations de postes de professeur des universités-praticien hospitalier sont annuellement décidées par les deux ministres de tutelle, au vu des propositions formulées conjointement par les directeurs des unités de formation et de recherche et des centres hospitaliers régionaux, après consultation du conseil de l'U.F.R. et de la commission médicale d'établissement. Tout projet de recrutement doit donc nécessairement émaner des autorités locales et tenir compte des besoins et emplois disponibles dans l'établissement. Les demandes qui, à l'occasion de la révision des effectifs pour 1989-1990 ou au cours d'opérations ultérieures, pourront être formulées en faveur de la gérontologie, lorsqu'elles s'inscriront dans une perspective hospitalo-universitaire, ne manqueront pas d'être examinées avec attention.
