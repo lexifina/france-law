@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700323
+
+- Question : [SEQ020700323](seq020700323.md) — Inquiétudes du monde associatif concernant l'application de la loi rénovant l'action sociale et médico-sociale
+
+## Réponse
+
+*Affaires sociales, JO du 2003-02-06, page 429*
+
+La loi n° 2002-2 du 2 janvier 2002 rénovant l'action sociale et médico-sociale a prévu bon nombre de textes d'application, parmi lesquels treize seront publiés au cours du premier trimestre de 2003. Les textes relatifs aux droits des usagers paraîtront les premiers : ils ont trait à la charte des droits et libertés des personnes accueillies, au livret d'accueil, au contrat de séjour, à la personnalité qualifiée susceptible d'aider l'usager à faire valoir ses droits, au conseil de la vie sociale et au règlement de fonctionnement des établissements et services. S'agissant du projet de décret relatif au nouveau dispositif budgétaire, comptable et tarifaire, loin d'augmenter la complexité des règles en vigueur, celui-ci unifie en les simplifiant les actuelles procédures qui relèvent à ce jour de cinq décrets différents datant respectivement de 1961, 1969, 1988, 1992 et 1999. Par ailleurs, ce texte donne une base légale à la tarification de nouvelles structures qui sont venues élargir le périmètre d'application de la loi, comme les établissements d'accueil médicalisé pour handicapés adultes ou les services d'aide à domicile. Ce texte a fait l'objet d'une concertation approfondie avec l'ensemble des partenaires concernés et tout particulièrement avec le secteur associatif. Ces concertations ont permis de mieux prendre en compte les besoins des usagers et de trouver un bon équilibre entre les droits et les obligations des établissements et services sociaux et médico-sociaux et les autorités chargées de les tarifer. Ce texte paraîtra également au cours du premier trimestre de 2003 et n'entrera en application qu'à partir de la campagne budgétaire de 2004.
