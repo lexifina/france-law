@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700503
+
+- Question : [SEQ020700503](seq020700503.md) — Réforme de la justice commerciale
+
+## Réponse
+
+*Justice, JO du 2002-10-10, page 2326*
+
+Le garde des sceaux, ministre de la justice, observe que la réforme de la justice commerciale a donné lieu à l'adoption en première lecture par l'Assemblée nationale, le 28 mars 2001, de trois projets de loi. Les deux premiers de ces textes, constitués d'un projet de loi ordinaire et d'un projet de loi organique, concernent la réforme des tribunaux de commerce, le troisième a trait à la réforme des administrateurs judiciaires et des mandataires liquidateurs. Considérant, notamment, que " les conditions d'une réforme viable " n'étaient " pas réunies ", le 14 février 2002, la Haute Assemblée a adopté, en première lecture, une motion opposant la question préalable à la délibération du projet de loi portant réforme des tribunaux de commerce. La réforme de la justice commerciale est donc suspendue en l'état des travaux parlementaires qui viennent tout juste de reprendre à l'occasion de la nouvelle législature. S'agissant de la carte judiciaire, le décret n° 99-659 du 30 juillet 1999 a supprimé trente-six tribunaux de commerce. La première phase de la refonte de la carte des juridictions consulaires est de ce fait effective, depuis le 1er janvier 2000. Pour l'avenir, toute éventuelle nouvelle réforme de la carte des tribunaux de commerce ne pourra se faire qu'à l'issue d'une concertation approfondie menée avec l'ensemble des acteurs concernés. De même, s'agissant des personnels de ces tribunaux - et plus particulièrement des greffiers, officiers publics et ministériels exerçant à titre libéral -, toute éventuelle modification de leurs conditions d'exercice, ne serait envisagée qu'à l'issue d'une concertation préalable.
