@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950711689
+
+- Question : [SEQ950711689](seq950711689.md) — Liste des charges récupérables
+
+## Réponse
+
+*Logement, JO du 1995-09-28, page 1860*
+
+Réponse. - Lors de la réunion de la commission nationale de concertation (CNC) du 7 février 1994, les représentants des bailleurs, des gestionnaires et des locataires ont souhaité à l'unanimité des collèges que la commission nationale de concertation encourageât une réflexion relative à la participation des locataires à la négociation des contrats d'entretien donnant lieu à des charges récupérables. A la suite à cette demande, la commission nationale de concertation a engagé un travail de réflexion sur le décret no 87-713 du 26 août 1987 pris en application de l'article 18 de la loi no 86-1290 du 23 décembre 1986, fixant la liste des charges récupérables. L'objectif de cette réflexion est, dans un premier temps, de reprendre la rédaction du décret en conférant un rôle plus actif aux locataires dans le choix des dépenses relatives aux charges locatives, la négociation des contrats et le contrôle de leur exécution, le suivi des dépenses et la répartition entre les locataires. Dans un deuxième temps, il est envisagé de poursuivre la réflexion par l'examen de la liste des charges récupérables. Cette démarche, qui procédait d'une initiative conjointe, est suspendue à l'initiative des organisations de locataires. Compte tenu de l'importance des dépenses relatives aux charges locatives dans le budget des ménages, il apparaît très souhaitable que les réflexions puissent reprendre dans le cadre de la commission nationale de concertation. En tout état de cause, les pouvoirs publics sont très attachés à la pratique de la concertation entre bailleurs et locataires et ne peuvent qu'être favorables à une participation efficace des locataires à la négociation des contrats d'entretien donnant lieu à des charges récupérables.
