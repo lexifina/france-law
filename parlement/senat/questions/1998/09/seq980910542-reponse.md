@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980910542
+
+- Question : [SEQ980910542](seq980910542.md) — Plus grande diffusion dans l'administration du télétravail
+
+## Réponse
+
+*Fonction publique, JO du 1999-04-22, page 1334*
+
+Réponse. - Présidant le troisième Festival européen du télétravail et des téléactivités, organisé à Serre-Chevalier du 2 au 4 avril 1998, le ministre de la fonction publique, de la réforme de l'Etat et de la décentralisation a annoncé que ses services travaillaient à l'élaboration d'une charte sur le travail à distance, conformément au programme d'action gouvernemental arrêté par le Premier ministre et intitulé : " Préparer l'entrée de la France dans la société de l'information ". Le recours aux technologies de l'information en appui à la politique de répartition territoriale des services publics a également été mis en avant lors du comité interministériel d'aménagement et de développement du territoire (CIADT), le 15 décembre 1998, et le comité interministériel pour la société de l'information (CISI) du 19 janvier 1999 a décidé le renforcement des possibilités d'accès du public aux technologies de l'information dans les différents services publics. Par ailleurs, le développement des téléactivités constituera un axe important des futurs contrats de plan. Dans cette perspective, il sera rédigé au cours de l'année 1999 un schéma d'accès aux services collectifs de l'information et de la communication. Sur le terrain, plusieurs services déconcentrés de l'Etat ont reçu une aide financière accordée sur le Fonds pour la réforme de l'Etat (FRE), à la suite de l'appel à projets lancé en février 1998 pour faciliter la mise en uvre du télétravail dans les administrations. Les premiers enseignements recueillis des expérimentations en cours sont en cours d'exploitation et seront intégrés dans la charte sur le travail à distance en cours de rédaction.
