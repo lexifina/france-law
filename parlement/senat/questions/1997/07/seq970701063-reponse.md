@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701063
+
+- Question : [SEQ970701063](seq970701063.md) — Politique de prise en charge sanitaire des traumatisés crâniens
+
+## Réponse
+
+*Emploi, JO du 1997-10-30, page 2996*
+
+Réponse. - La prise en charge des traumatisés crâniens victimes de coma aux différents stades de leur évolution constitue une importante préoccupation en matière de santé publique, avec notamment la question particulière des personnes en état végétatif persistant. Dans son rapport sur les traumatisés crâniens publié en 1995, l'inspection générale des affaires sociales (IGAS) rappelle que le nombre des traumatisés crâniens en état végétatif persistant, bien que difficile à apprécier (car dépendant de la définition retenue), semble représenter 5 à 10 patients par an et par département en moyenne. Ce rapport précise que les malades concernés sont hébergés dans divers types de structures avec approximativement la répartition suivante : 50 % en soins de suite (à orientation convalescence) ou en soins de longue durée, 30 % en maison d'accueil spécialisée ou en foyer à double tarification et 20 % à domicile. Le ministère de l'emploi et de la solidarité conduit actuellement une réflexion sur le devenir des soins de suite et des soins de longue durée dans laquelle est notamment prise en compte la problématique particulière des personnes en état végétatif persistant. Au niveau régional le thème des personnes en état végétatif persistant devra être pris considération lors de l'élaboration des prochains schémas régionaux de l'organisation sanitaire, tant au niveau de l'évaluation des besoins que de la réflexion sur l'ensemble des solutions à proposer, afin de permettre la prise en charge la plus adaptée possible de ces patients, en tenant compte à la fois des exigences techniques requises et d'une logique de proximité des familles.
