@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970321299
+
+- Question : [SEQ970321299](seq970321299.md) — Politique de la famille
+
+## Réponse
+
+*Travail, JO du 1997-05-22, page 1537*
+
+Réponse. - Les participants à la conférence nationale de la famille qui s'est tenue le 17 mars 1997 et qui a réuni, sous l'autorité du Premier ministre, l'ensemble des acteurs concernés par la politique familiale, n'ont pas retenu la proposition figurant dans le rapport de Mme Gisserot sur une politique globale de la famille, visant à supprimer la condition d'activité professionnelle pour le bénéfice de l'allocation parentale d'éducation pour les familles comptant au moins trois enfants à charge. Cette mesure, qui aurait consisté à verser un salaire parental aux familles de trois enfants et plus, aurait engendré un coût financier important que la branche famille de la sécurité sociale, actuellement déficitaire, n'est pas en mesure de supporter. Il a toutefois été décidé, en ce qui concerne cette allocation, d'étudier avec la caisse nationale des allocations familiales les conditions dans lesquelles celle-ci pourrait être prise de manière franctionnée jusqu'à l'âge de 16 ans de l'enfant et non plus seulement jusqu'aux trois ans de l'enfant comme actuellement. Les participants ont préféré qu'une priorité soit accordée à d'autres mesures telles que le prolongement de l'âge de versement des prestations familiales de 18 à 19 ans pour les enfants inactifs ou dont la rémunération ne dépasse pas 55 % du SMIC pour les familles comptant au moins trois enfants à charge et qui répondait à une forte demande des familles. Cette mesure entrera en vigueur au 1er janvier 1998. Ils ont par ailleurs souhaité que des dispositions soient prises afin de permettre une meilleure conciliation entre la vie familiale et la vie professionnelle. Une concertation sera ouverte à ce sujet avec les partenaires sociaux et le mouvement familial sur la mise en oeuvre de ces mesures.
