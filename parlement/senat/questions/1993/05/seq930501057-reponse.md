@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930501057
+
+- Question : [SEQ930501057](seq930501057.md) — Production de lavande dans le Quercy
+
+## Réponse
+
+*Agriculture, JO du 1993-07-29, page 1256*
+
+Réponse. - La lavande et le lavandin sont actuellement produits dans des zones difficiles, ils occupent respectivement 3 000 hectares environ pour la lavande de population, 12 000 hectares pour le lavandin. La France, seul producteur significatif de la CEE, produit plus de 80 p. 100 du lavandin mondial. Ces deux plantes font l'objet de marchés distincts, non soumis à une organisation commune de marché sur le plan européen, et donc tributaires des fluctuations des cours mondiaux. Compte tenu de la fragilité des cours, il est dangereux d'encourager, même dans les zones difficiles, certains producteurs de céréales à développer ces cultures. C'est bien dans le souci de protéger les zones de production traditionnelle et de prendre en compte les spécificités de zones méridionales que le ministère de l'agriculture était intervenu auprès des autorités communautaires pour retirer la lavande et le lavandin de la liste des productions pouvant être cultivées au titre de la jachère industrielle : le règlement communautaire n° 334 93 du 15 février les a donc exclus de son champ d'application. Compte tenu de la taille réduite des marchés et des zones de production concernées, si des mesures d'encouragement devaient être envisagées, elles ne pourraient l'être que dans un cadre local, en concertation avec les services extérieurs du ministère de l'agriculture et de la pêche et l'Office national interprofessionnel des plantes à parfum, aromatiques et médicinales ; celui-ci, depuis 1983, a pour mission d'organiser les marchés et les filières, de réduire les coûts de production en soutenant des actions techniques, de renforcer l'organisation économique de producteurs.
