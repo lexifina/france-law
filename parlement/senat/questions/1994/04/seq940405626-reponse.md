@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940405626
+
+- Question : [SEQ940405626](seq940405626.md) — Conséquences de la dévaluation du franc CFA sur l'approvisionnement en médicaments des pays africains francophones
+
+## Réponse
+
+*Santé, JO du 1994-10-06, page 2413*
+
+Réponse. - A la suite des réunions d'Abidjan en mars et d'Evian en avril, les Etats africains ont adopté une nouvelle politique du médicament, destinée notamment à favoriser la distribution de produits génériques. Pour ce qui concerne les génériques français, lorsqu'il s'agit d'un produit n'ayant pas d'autorisation de mise sur le marché en France, les dispositions nouvelles de l'article L. 603 relatif à l'exportation de médicaments, en particulier à destination des pays tiers à l'Union européenne, ainsi que le décret no 94-511 du 20 juin 1994 pris pour son application, apportent une transparence plus grande en permettant aux pays importateurs de mieux connaître les raisons pour lesquelles ce produit ne bénéficie pas d'une autorisation en France. Par ailleurs, le fait que le prix des médicaments français soit relativement bas pour les médicaments les plus nécessaires, comme l'aide importante apportée par le ministère de la coopération et les efforts des laboratoires installés en France qui ont baissé leur prix de 10 p. 100 à l'exportation pour les médicaments de première nécessité, ont permis d'éviter la pénurie des médicaments qui pouvait être redoutée. Ainsi, huit mois après la dévaluation du franc CFA, les pays africains francophones ont adapté leur politique en matière de médicament à la situation nouvelle créée. De même, la politique des pouvoirs publics français ainsi que l'attitude des firmes industrielles ont contribué à atténuer l'incidence du réajustement monétaire sur l'approvisionnement en médicaments de ces pays.
