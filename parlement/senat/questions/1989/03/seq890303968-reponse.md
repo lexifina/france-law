@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890303968
+
+- Question : [SEQ890303968](seq890303968.md) — Etude sur la réorganisation foncière
+
+## Réponse
+
+*Agriculture, JO du 1989-06-01, page 837*
+
+Réponse. - La loi du 31 décembre 1985 relative à l'aménagement foncier rural a prévu une procédure entièrement nouvelle pour la réorganisation foncière. Il importait alors d'analyser sur des cas concrets le déroulement des premières opérations de façon à permettre une interprétation homogène des nouveaux textes et à fournir aux utilisateurs les indications nécessaires en vue d'une application cohérente de cette procédure face à des situations locales souvent très différentes. A cet effet, le ministère de l'agriculture et de la forêt a confié au cabinet Bruneau-Canton une étude portant sur six opérations tests situées dans des départements différents. Cette étude a permis d'établir au niveau de la phase préliminaire une analyse très détaillée des caractéristiques et des particularités de chacune des opérations, puis une synthèse faisant ressortir leurs points communs et leurs spécificités. Le déroulement de la phase d'étude a également fait l'objet d'un suivi continu permettant de faire apparaître une démarche uniforme et des solutions adaptées aux problèmes posés dans le cadre d'une interprétation homogène de la loi du 31 décembre 1985 et de ses décrets d'application. Les observations principales relevées au cours de cette étude et les premières conclusions ont déjà fait l'objet d'une circulaire d'application du 31 mars 1988 du ministère de l'agriculture et de la forêt adressée aux préfets. Les six opérations tests feront l'objet d'un suivi détaillé jusqu'à leur achèvement complet, c'est-à-dire y compris la phase contentieuse. L'ensemble des observations et les conclusions permettront d'assurer une information sur les conditions de mise en oeuvre de cette procédure et de diffuser, si cela apparaît nécessaire, des circulaires d'application complémentaires.
