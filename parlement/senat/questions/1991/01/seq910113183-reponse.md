@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910113183
+
+- Question : [SEQ910113183](seq910113183.md) — Limites de territorialité des forces de police
+
+## Réponse
+
+*Intérieur, JO du 1991-05-30, page 1111*
+
+Réponse. - Les missions de prévention et de répression de la délinquance sur le réseau ferré d'Ile-de-France étaient assurées avant 1989 par différents services de police. Le principe de territorialité, cantonnant chaque service dans les limites géographiques qui lui sont imparties, gênait leur action et les empêchait d'atteindre une pleine efficacité. Pour remédier à ces difficultés, le Premier ministre a créé le 24 mai 1989 une unité nouvelle au sein de la police nationale : la brigade de sécurité des chemins de fer, qui relève de l'autorité du chef de la police de l'air et des frontières. Cette brigade a pour mission essentielle la lutte contre la délinquance et l'amélioration de la protection des voyageurs et des cheminots sur le réseau ferré de la banlieue parisienne. Dôté d'une compétence territoriale nationale, ce service ne souffre pas, dans son action, des limites imposées par le principe de territorialité. Ainsi, " un changement de quai " ne permettrait pas à l'auteur d'une infraction d'échapper aux poursuites. Par ailleurs, quel que soit le service, le flagrant délit permet toujours de poursuivre le délinquant en application de l'article 73 du code de procédure pénale. A son niveau définitif, la brigade de sécurité des chemins de fer comptera 500 policiers. Les résultats de sa première année de fonctionnement sont d'ores et déjà encourageants, puisqu'on observe une baisse de la délinquance violente de l'ordre de 4 p. 100 sur le réseau ferré banlieue et de 20 p. 100 sur le réseau métropolitain. La création de cette unité n'a toutefois pas retiré leur compétence aux services précédemment en charge du problème, et en particulier à la préfecture de police.
