@@ -934,7 +934,7 @@ Ecluse de chasse.
 
 |
 
-Département de la Gironde.
+Département de la Gironde
 
 |
 
@@ -1230,7 +1230,7 @@ Fleuve le Rhône :
 
 |
 
-1re Grande branche ou Grand Rhône.
+1° Grande branche ou Grand Rhône.
 
 |
 
@@ -1238,19 +1238,19 @@ Pont de Trinquetaille.
 
 |
 
-2e Petite branche ou Petit Rhône.
+2° Petite branche ou Petit Rhône.
 
 |
 
-Pont suspendu de la route nationale n° 572 à Saint-Gilles.
+Pont suspendu de la route nationale 572 à Saint-Gilles.
 
 |
 
-Canal d'Arles à Bouc.
+Canal Martigues-Marseille.
 
 |
 
-Compris dans les affaires maritimes sur tout son cours.
+Compris dans les eaux maritimes de Martigues au rocher des Trois Frères.
 
 |
 
