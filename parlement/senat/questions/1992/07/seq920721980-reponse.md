@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920721980
+
+- Question : [SEQ920721980](seq920721980.md) — Aide à la création d'entreprises par les chômeurs
+
+## Réponse
+
+*Travail, JO du 1992-10-08, page 2311*
+
+Réponse. - Il est précisé à l'honorable parlementaire que le principe de la dégressivité du montant de l'aide à la création d'entreprise, à partir du troisième mois d'inscription comme demandeur d'emploi, prévue à l'article R. 351-47 (4°) du code du travail a été institué afin d'inciter les personnes qui souhaitent créer ou reprendre une entreprise à rester le moins longtemps possible au chômage, la prolongation de cette situation risquant de nuire au dynamisme des futurs chefs d'entreprise. Cette dégressivité n'est cependant prévue que pour l'aide maximale, à la création d'entreprise, et en cas de dégressivité, l'aide ne peut être inférieure à 16 168 francs. Par ailleurs, les périodes de service national, les périodes durant lesquelles le demandeur a bénéficié d'une formation ou qui ont donné lieu au versement d'indemnités journalières de sécurité sociale, ne sont pas prises en compte pour le calcul de la dégressivité de l'aide. L'objectif de l'aide à la création d'entreprise est de permettre au créateur de se constituer un minimum de fonds propres, ou de mobiliser des crédits bancaires indispensables au démarrage de l'entreprise. Il est donc logique que le début de l'activité intervienne dans un délai relativement rapproché de la notification d'octroi de l'aide, à savoir : deux mois pour une entreprise individuelle, et trois mois pour une société. Cela dit, des dérogations à ces délais de création peuvent être sollicitées et obtenues, lorsque certaines circonstances particulières locales ne permettent pas de réaliser la création de l'entreprise dans les délais exigés par les textes réglementaires.
