@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940405606
+
+- Question : [SEQ940405606](seq940405606.md) — Recours au travail temporaire dans la fonction publique territoriale
+
+## Réponse
+
+*Intérieur, JO du 1994-06-16, page 1496*
+
+Réponse. - L'article 25 de la loi no 84-53 du 26 janvier 1984 modifiée autorise les centres de gestion à recruter des fonctionnaires en vue de les affecter à des missions temporaires ou d'assurer le remplacement de titulaires, momentanément indisponibles, ou en vue d'assurer des services communs à plusieurs collectivités ou établissements. Les centres de gestion peuvent également mettre des fonctionnaires à disposition d'une ou plusieurs collectivités ou établissements en vue de les affecter à des missions permanentes, pour accomplir un service à temps non complet auprès de chacune de ces collectivités ou de chacun de ces établissements. Par ailleurs, le décret no 91-298 du 20 mars 1991 modifié par les décrets no 92-504 du 11 juin 1992 et no 93-986 du 4 août 1993 ouvre à toutes les collectivités la possibilité de recruter des personnels à temps non complet dans le domaine culturel, technique et médico-social. Ces recrutements sont cependant limités actuellement par des quotas. Une extension supplémentaire des possibilités de recrutement de fonctionnaires à temps non complet, par une modification éventuelle des dispositions législatives en vigueur ainsi que par un assouplissement des critères fixés par décret en Conseil d'Etat, en application de l'article 104 de la loi du 26 janvier 1984, fait l'objet d'un nouvel examen. Si l'objectif doit effectivement être de permettre aux collectivités locales de mieux définir les emplois correspondant à leurs besoins, il doit être tenu compte, cependant, dans le cadre de cette étude, du fait que ces agents, lorsqu'ils assurent un service hebdomadaire de moins de 31 h 30, ne disposent pas des mêmes garanties statutaires que les fonctionnaires intégrés dans un cadre d'emplois.
