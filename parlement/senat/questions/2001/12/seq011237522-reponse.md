@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011237522
+
+- Question : [SEQ011237522](seq011237522.md) — Mécontentement des éleveurs face à la politique de protection des prédateurs sauvages
+
+## Réponse
+
+*Agriculture, JO du 2002-04-11, page 1043*
+
+Au cours de la rencontre des éleveurs européens victimes de prédateurs, tenue à Nice le 8 septembre 2001, ceux-ci ont exprimé leurs préoccupations quant à la pérennité de leur activité dès lors que des prédateurs ayant le statut d'animaux protégés menacent leurs troupeaux. La France est tenue par ses engagements internationaux au travers de la convention de Berne, dont les dispositions ont été traduites dans la réglementation communautaire par la directive 92/43/CEE du 21 mai 1992. Depuis plusieurs années, le Gouvernement a mis en oeuvre, au-delà des différentes mesures d'encouragement du pastoralisme, des programmes de soutien aux investissements de protection des troupeaux et de dédommagement des dégâts occasionnés par ces prédateurs. Certains de ces programmes ont bénéficié d'un cofinancement européen. En outre dans le cadre d'un dispositif expérimental de soutien au pastoralisme et de gestion du loup initié en 2000, un protocole annuel de prélèvement donne aux préfets les moyens d'intervenir dans le cas où les prédations attribuées aux loups sur un troupeau dépassent un certain seuil, sous réserve que les moyens de protection adaptés aient été préalablement mis en place. Enfin, il convient de rappeler que lors du conseil national de la montagne de février 2001 a été engagée une réflexion sur l'activité pastorale. Cette réflexion se traduira prochainement par un rapport sur le pastoralisme, qui, au-delà des préoccupations liées aux prédateurs, devrait comporter de nombreuses propositions visant, d'une part, à conforter l'activité pastorale et, d'autre part, à promouvoir le métier de berger.
