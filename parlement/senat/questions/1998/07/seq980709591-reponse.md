@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980709591
+
+- Question : [SEQ980709591](seq980709591.md) — Médaille d'honneur du travail
+
+## Réponse
+
+*Emploi, JO du 1998-10-01, page 3125*
+
+Réponse. - La médaille d'honneur du travail est une décoration décernée par les autorités françaises aux salariés, qu'ils soient ou non de nationalité française, travaillant soit sur le territoire national, soit à l'étranger, dans une entreprise française ou une des ses filiales, ou dans une entreprise constituée selon un droit étranger, à condition qu'un de ses dirigeants soit français. Telles sont, actuellement, les conditions prévues par le décret nº 84-591 du 4 juillet 1984. L'éventualité de permettre à un ressortissant communautaire ayant travaillé dans son pays d'origine de prendre en compte ces années de service pour le calcul de la médaille d'honneur du travail est, effectivement, une question qui se pose aujourd'hui, compte tenu de l'abolition des frontières européennes. Toutefois, il convient de rappeler que la médaille d'honneur du travail a été définie, lorsqu'elle a été créée, comme récompense de la stabilité professionnelle mais également comme témoignage de la reconnaissance de la part prise dans l'essor économique de la nation ou d'une contribution " au bon renom de la France ". A cet égard, outre les conditions d'attribution du droit commun, qui permettent aux étrangers travaillant sur le territoire national de recevoir cette distinction, la possibilité qu'ont, par ailleurs, les travailleurs français ou étrangers exerçant dans une entreprise française sise à l'étranger d'obtenir la médaille d'honneur du travail atteste de la volonté des pouvoirs publics de préserver le caractère originel de cette décoration. En modifier les conditions d'attribution pour en permettre le bénéfice aux travailleurs frontaliers remettrait en cause les fondements mêmes de la médaille d'honneur du travail. Aussi n'est-il pas envisagé de se diriger vers une telle évolution.
