@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961219361
+
+- Question : [SEQ961219361](seq961219361.md) — Inquiétant développement de la culture du chanvre indien en Albanie
+
+## Réponse
+
+*Affaires étrangères, JO du 1997-03-06, page 683*
+
+Réponse. - L'honorable parlementaire a bien voulu appeler l'attention du Gouvernement sur le développement de la culture du chanvre indien en Albanie. Le Gouvernement est préoccupé par le développement inquiétant des cultures illicites en Albanie. Comme dans l'ensemble de l'Europe de l'Est, le cannabis et le pavot y poussent très facilement et la culture y est extrêmement lucrative. Convaincue de la nécessité d'aider l'Albanie à lutter contre cette tendance, la France a développé avec ce pays une coopération policière et douanière. Elle lui a également apporté une assistance juridique, afin de faciliter l'adoption de la législation albanaise adaptée à la lutte contre les drogues. Cette aide sera d'autant plus efficace qu'elle sera bien coordonnée, comme nous le souhaitons, avec les programmes de l'Union européenne et du programme des Nations unies pour le ontrôle international des drogues (PNUCID). L'Albanie est en effet éligible au programme anti-drogue Phare de l' Union européenne qui comprend une assistance à court terme et à long terme : stages de formation, fourniture d'équipements, programmes de réduction de la demande, aide à la mise en place de mécanismes et procédures adaptés à la lutte contre le trafic de précurseurs chimiques et le blanchiment d'argent. Le programmes de PNUCID visant la route des Balkans (1992-1994) a consisté d'abord principalement en une aide aux actions répressives (meilleur contrôle aux frontières et surtout renforcement de la législation). Il doit prendre en compte aujourd'hui les actions de réduction de la demande (création de données épidémiologiques, mise en place d'une stratégie nationale de prévention de la toxicomanie en particulier dans les écoles et les universités).
