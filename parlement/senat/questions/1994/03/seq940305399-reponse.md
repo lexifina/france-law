@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940305399
+
+- Question : [SEQ940305399](seq940305399.md) — Voyage officiel du Premier ministre en République populaire de Chine
+
+## Réponse
+
+*Premier ministre, JO du 1995-02-02, page 252*
+
+Réponse. - L'honorable parlementaire a bien voulu appeler l'attention du Premier ministre sur l'arrestation d'un opposant tibétain pendant son voyage en Chine et la situation des droits de l'homme au Tibet. Il l'interroge en outre sur ses intentions de faire valoir la détermination de la France à faire respecter ces droits. Comme le sait l'honorable parlementaire, les relations entre la France et la Chine ont retrouvé un climat de confiance et de sérénité depuis le communiqué conjoint du 12 janvier 1994 et la visite du Premier ministre en Chine au mois d'avril de la même année. Toutefois, la France reste attentive à la situation des droits de l'homme en Chine et en particulier au Tibet. Cette question a été évoquée lors des entretiens du Premier ministre et du ministre des affaires étrangères à Pékin. Il s'agit d'un sujet important qui restera à l'ordre du jour des contacts politiques franco-chinois dans le cadre du dialogue que nous avons maintenant renoué. La France a reconnu la République populaire de Chine en 1964, dans ses frontières internationalement reconnues à l'époque et qui incluent le Tibet. Comme ses partenaires européens, elle fait valoir aux autorités chinoises qu'elle souhaite que s'engage un dialogue constructif entre elles-mêmes et le Dalaï-Lama, chef spirituel des Tibétains, reconnu internationalement comme un interlocuteur pacifique et modéré, qui a effectué une visite pastorale en France du 24 octobre au 16 novembre 1993, au cours de laquelle il a rencontré plusieurs personnalités françaises. Par ailleurs, la France apporte une aide humanitaire aux réfugiés tibétains en exil.
