@@ -1,113 +1,117 @@
 # Article ANNEXE I
 
-OBJECTIFS DE QUALITÉ, SEUILS D'ALERTE ET VALEURS LIMITES
-
 1. Polluant visé : dioxyde d'azote
 
-Les valeurs ci-dessous sont exprimées en microgrammes par mètre cube. L'expression du volume doit être ramenée aux conditions de température et de pression suivantes : 293 K et 101,3 kPa.
+L'expression du volume doit être ramenée aux conditions de température et de pression suivantes : 293 °K et 101,3 kPa.
 
-La période annuelle de référence va du 1er janvier au 31 décembre.
+La période annuelle de référence est l'année civile.
 
-Objectifs de qualité :
+Objectif de qualité : 40 micro g/m3 en moyenne annuelle.
 
-- centile 50, calculé à partir des valeurs moyennes par heure prises pour toute l'année, égal à 50 microgrammes/m3 ;
+Seuil de recommandation et d'information : 200 micro g/m3 en moyenne horaire.
 
-- centile 98, calculé à partir des valeurs moyennes par heure prises sur toute l'année, égal à 135 microgrammes/m3.
+Seuils d'alerte :
 
-Seuil d'alerte : 400 microgrammes/m3 en moyenne horaire.
+400 micro g/m3 en moyenne horaire.
 
-Valeur limite : centile 98, calculé à partir des valeurs moyennes par heure ou par périodes inférieures à l'heure, prises sur toute l'année, égal à 200 microgrammes/m3.
+200 micro g/m3 en moyenne horaire si la procédure d'information et de recommandation pour le dioxyde d'azote a été déclenchée la veille et le jour même et que les prévisions font craindre un nouveau risque de déclenchement pour le lendemain.
+
+Valeurs limites pour la protection de la santé humaine :
+
+- centile 98 (soit 175 heures de dépassement autorisées par année civile de 365 jours), calculé à partir des valeurs moyennes par heure ou par périodes inférieures à l'heure, prises sur toute l'année, égal à 200 micro g/m3. Cette valeur limite est applicable jusqu'au 31 décembre 2009 ;
+
+- centile 99,8 (soit 18 heures de dépassement autorisées par année civile de 365 jours), calculé à partir des valeurs moyennes par heure ou par périodes inférieures à l'heure, prises sur toute l'année, égal à 200 micro g/m3. Cette valeur limite est applicable à compter du 1er janvier 2010. Avant cette date, la valeur limite applicable est la valeur de 2010 augmentée des marges de dépassement suivantes :
+
+(Tableau non reproduit, voir JO du 19 février 2002 page 3199).
+
+40 micro g/m3 en moyenne annuelle. Cette valeur est applicable à compter du 1er janvier 2010. Avant cette date, la valeur limite applicable est la valeur de 2010 augmentée des marges de dépassement suivantes :
+
+(Tableau non reproduit, voir JO du 19 février 2002 page 3199).
+
+Valeur limite pour la protection de la végétation : 30 micro g/m3 en moyenne annuelle d'oxydes d'azote.
 
 2. Polluants visés : particules fines et particules en suspension
 
-La période annuelle de référence va du 1er avril au 31 mars.
+La période annuelle de référence est l'année civile.
 
-Les objectifs de qualité de l'air et les valeurs limites sont exprimés en microgrammes par mètre cube mesurés par la méthode des fumées noires. Un arrêté des ministres chargés de l'industrie et de l'environnement définit les conditions d'équivalence entre les valeurs mesurées par la méthode des fumées noires et les valeurs mesurées par d'autres méthodes portant notamment sur les particules fines de diamètre aérodynamique inférieur à 2,5 ou 10 micromètres.
+Un arrêté des ministres chargés de l'industrie et de l'environnement définit les conditions d'équivalence entre les valeurs mesurées par la méthode des fumées noires et les valeurs mesurées par d'autres méthodes portant notamment sur les particules en suspension de diamètre aérodynamique inférieur à 2,5 ou 10 micromètres.
 
-Objectifs de qualité :
+Objectif de qualité : 30 micro g/m3 en moyenne annuelle des concentrations de particules en suspension de diamètre aérodynamique inférieur ou égal à 10 micromètres.
 
-- moyenne des valeurs moyennes quotidiennes relevées pendant l'année de 40 à 60 microgrammes/m3 mesurés par la méthode des fumées noires ;
+Valeurs limites pour la protection de la santé utilisées pour les concentrations de particules en suspension de diamètre aérodynamique inférieur ou égal à 10 micromètres. Elles ne s'appliquent qu'à la part des concentrations non liées à des événements naturels. On définit par événements naturels les événements suivants : éruptions volcaniques, activités sismiques, activités géothermiques, feux de terres non cultivées, vents violents ou remise en suspension atmosphérique ou transport de particules naturelles provenant de régions désertiques.
 
-- valeur moyenne quotidienne de 100 à 150 microgrammes/m3 mesurés par la méthode des fumées noires ;
+- centile 90,4 (soit 35 jours de dépassement autorisés par année civile de 365 jours) des concentrations moyennes journalières sur l'année civile : 50 micro g/m3. Cette valeur est applicable à compter du 1er janvier 2005. Avant cette date, la valeur limite applicable est la valeur de 2005 augmentée des marges de dépassement suivantes :
 
-- 30 microgrammes/m3 en moyenne annuelle des concentrations de particules fines de diamètre inférieur ou égal à 10 micromètres.
+(Tableau non reproduit, voir JO du 19 février 2002 page 3199).
 
-Valeurs limites :
+Moyenne annuelle : 40 micro g/m3. Cette valeur est applicable à compter du 1er janvier 2005. Avant cette date, la valeur limite applicable est la valeur de 2005 augmentée des marges de dépassement suivantes :
 
-Elles sont exprimées en microgrammes par mètre cube mesurés par la méthode des fumées noires :
-
-- centile 50 des valeurs moyennes quotidiennes relevées pendant l'année égal à 80 ;
-
-- centile 50 des valeurs moyennes quotidiennes relevées pendant l'hiver (1er octobre-31 mars) égal à 130 ;
-
-- centile 98 de toutes les valeurs moyennes quotidiennes relevées pendant l'année égal à 250 ;
-
-- la moyenne quotidienne ne doit pas dépasser 250 plus de trois jours de suite.
+(Tableau non reproduit, voir JO du 19 février 2002 page 3199).
 
 3. Polluant visé : plomb
 
-La période annuelle de référence va du 1er janvier au 31 décembre.
+La période annuelle de référence est l'année civile.
 
-Objectif de qualité : 0,5 microgrammes/m3 en concentration moyenne annuelle.
+Objectif de qualité : 0,25 micro g/m3 en concentration moyenne annuelle.
 
-Valeur limite : 2 microgrammes/m3 en concentration moyenne annuelle.
+Valeur limite :
+
+- jusqu'au 31 décembre 2001 : 0,8 micro g/m3 en moyenne annuelle ;
+
+- à compter du 1er janvier 2002 : 0,5 micro g/m3 en moyenne annuelle.
+
+Le ministre chargé de l'environnement fixe par arrêté la liste des sites pour lesquels la valeur limite de 0,5 micro g/m3 en moyenne annuelle s'applique à compter du 1er janvier 2010.
+
+Avant le 1er janvier 2010 et à compter du 1er janvier 2002, la valeur limite applicable pour ces sites est la valeur de 2010 augmentée des marges de dépassement suivantes :
+
+(Tableau non reproduit, voir JO du 19 février 2002 page 3199).
 
 4. Polluant visé : dioxyde de soufre
 
-La période annuelle de référence va du 1er avril au 31 mars.
+L'expression du volume doit être ramenée aux conditions de température et de pression suivantes : 293 °K et 101,3 kPa. La période annuelle de référence est l'année civile.
 
-Objectifs de qualité :
+Objectifs de qualité : 50 micro g/m3 en moyenne annuelle.
 
-Ils sont exprimés en microgrammes par mètre cube :
+Seuil de recommandation et d'information : 300 micro g/m3 en moyenne horaire.
 
-40 à 60 en moyenne des valeurs quotidiennes relevées pendant l'année ;
+Seuil d'alerte : 500 micro g/m3 en moyenne horaire, dépassé pendant trois heures consécutives.
 
-100 à 150 en valeur moyenne quotidienne.
+Valeurs limites pour la protection de la santé humaine :
 
-Seuil d'alerte : 600 microgrammes/m3 en moyenne horaire.
+- centile 99,7 (soit 24 heures de dépassement autorisées par année civile de 365 jours) des concentrations horaires : 350 micro g/m3. Cette valeur est applicable à compter du 1er janvier 2005. Avant cette date, la valeur limite applicable est la valeur de 2005 augmentée des marges de dépassement suivantes :
 
-Valeurs limites :
+(Tableau non reproduit, voir JO du 19 février 2002 page 3199).
 
-Elles sont exprimées en microgrammes par mètre cube et dépendent de valeurs associées pour les particules en suspension exprimées en microgrammes par mètre cube mesurées par la méthode des fumées noires :
+- centile 99,2 (soit 3 jours de dépassement autorisés par année civile de 365 jours) des concentrations moyennes journalières :
 
-- médiane des valeurs moyennes quotidiennes relevées pendant l'année égale à 80 si la médiane des valeurs moyennes quotidiennes relevées pendant l'année des particules en suspension est supérieure à 40 ; médiane des valeurs moyennes quotidiennes relevées pendant l'année égale à 120 si la médiane des valeurs moyennes quotidiennes relevées pendant l'année des particules en suspension est inférieure ou égale à 40 ;
+125 micro g/m3.
 
-- médiane des valeurs moyennes quotidiennes relevées pendant l'hiver (1er octobre-31 mars) égale à 130 si la médiane des valeurs moyennes quotidiennes relevées pendant l'hiver des particules en suspension est supérieure à 60 ; médiane des valeurs moyennes quotidiennes relevées pendant l'hiver égale à 180 si la médiane des valeurs moyennes quotidiennes relevées pendant l'hiver des particules en suspension est inférieure ou égale à 60 ;
-
-- centile 98 des valeurs moyennes quotidiennes relevées pendant l'année égal à 250 si le centile 98 des valeurs moyennes quotidiennes relevées pendant l'année des particules en suspension est supérieur à 150 (dans ce cas les valeurs moyennes quotidiennes ne doivent pas dépasser 250 plus de trois jours de suite) ; centile 98 des valeurs moyennes quotidiennes relevées pendant l'année égal à 350 si le centile 98 des valeurs moyennes quotidiennes relevées pendant l'année des particules en suspension est inférieur ou égal à 150 (dans ce cas les valeurs moyennes quotidiennes ne doivent pas dépasser 350 plus de trois jours de suite).
+Valeur limite pour la protection des écosystèmes : 20 micro g/m3 en moyenne annuelle et 20 micro g/m3 en moyenne sur la période allant du 1er octobre au 31 mars.
 
 5. Polluant visé : ozone
 
 Objectifs de qualité :
 
-110 microgrammes/m3 en moyenne sur une plage de 8 heures pour la protection de la santé humaine ;
+110 micro g/m3 en moyenne sur une plage de 8 heures pour la protection de la santé humaine ;
 
-200 microgrammes/m3 en moyenne horaire et 65 microgrammes/m3 en moyenne sur 24 heures pour la protection de la végétation.
+200 micro g/m3 en moyenne horaire et 65 micro g/m3 en moyenne sur 24 heures pour la protection de la végétation.
 
-Seuil d'alerte : 360 microgrammes/m3 en moyenne horaire.
+Seuil d'alerte : 360 micro g/m3 en moyenne horaire.
 
 6. Polluant visé : monoxyde de carbone
 
-Objectif de qualité : 10 microgrammes/m3 en moyenne sur 8 heures.
+Valeur limite pour la protection de la santé humaine : 10 mg/m3 pour le maximum journalier de la moyenne glissante sur 8 heures.
 
 7. Polluant visé : benzène
 
-Objectif de qualité : 2 microgrammes/m3 en moyenne annuelle.
+Objectif de qualité : 2 micro g/m3 en moyenne annuelle.
+
+Valeur limite pour la protection de la santé humaine : 5 micro g/m3 en moyenne annuelle, valable à compter du 1er janvier 2010. Avant cette date, la valeur limite applicable est la valeur de 2010 augmentée des marges de dépassement suivantes :
+
+(Tableau non reproduit, voir JO du 19 février 2002 page 3199).
 
 Définition et mode de calcul des centiles
 
-Pour que la validité du calcul du centile 50 ou 98 soit reconnue, il est nécessaire que 75 % des valeurs possibles soient disponibles et autant que possible uniformément réparties sur l'ensemble de l'année considérée pour le site de mesures pris en considération.
+Le centile est calculé à partir des valeurs effectivement mesurées, arrondies au microgramme par mètre cube le plus proche. Pour chaque site, toutes les valeurs sont portées dans une liste établie par ordre croissant. Le centile C est la valeur de l'élément de rang k pour lequel k est calculé au moyen de la formule suivante :
 
-Au cas où les valeurs mesurées ne seraient pas disponibles, pour une période supérieure à dix jours, le centile calculé devra mentionner ce fait.
-
-Le calcul du centile à partir des valeurs prises sur toute l'année sera effectué comme suit : le centile doit être calculé à partir de valeurs effectivement mesurées. Les valeurs mesurées sont arrondies au microgramme par mètre cube le plus proche. Toutes les valeurs seront portées dans une liste établie par ordre croissant pour chaque site :
-
-(Formule non reproduite, voir JO du 13 mai 1998 page 7198).
-
-Le centile 50 (98) est la valeur de l'élément de rang k pour lequel k est calculé au moyen de la formule suivante :
-
-k = (q x N) ;
-
-q étant égal à 0,5 (0,98). N étant le nombre de valeurs effectivement mesurées. La valeur de (q x N) est arrondie au nombre entier le plus proche.
-
-Le centile 50 est aussi appelé médiane.
+k = C/100 (astérisque) N, N étant le nombre de valeurs portées dans la liste ci-dessus. k est arrondi au nombre entier le plus proche.
