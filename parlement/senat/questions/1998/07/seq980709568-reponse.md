@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980709568
+
+- Question : [SEQ980709568](seq980709568.md) — Délit de fuite
+
+## Réponse
+
+*Justice, JO du 1998-10-22, page 3373*
+
+Réponse. - Le garde des sceaux tient à assurer à l'honorable parlementaire qu'elle partage ses préoccupations en matière de lutte contre l'insécurité routière. Le Gouvernement, conscient de la priorité devant être accordée à cette action, à réuni, pour la première fois depuis cinq ans, le comité interministériel de sécurité routière le 26 novembre 1997 et a décidé de présenter en 1998 un projet de loi fixant comme objectif une diminution de moitié de la mortalité sur la route au terme des cinq prochaines années. Ce texte a déjà été adopté en première lecture par le Sénat. Il n'est pas actuellement envisagé d'aggraver les pénalités encourues pour le non-respect des textes relatifs aux infractions routières, qui prévoient déjà des sanctions sévères. L'action de l'autorité judiciaire en ce domaine revêt une grande importance ; en effet, les condamnations prononcées en 1996 pour des infractions de délits routiers représentent, 31 % de l'ensemble des délits sanctionnés et la part des condamnations relative aux délits de fuite représente, à elle seule, 7 % de cet ensemble, soit 9 305 jugements en 1996. Afin de dresser un état complet de la situation, il est nécessaire d'ajouter à ce chiffre celui correspondant aux jugements relatifs à des condamnations prononcées pour homicide involontaire par conducteur coupable de délit de fuite (57) et pour blessures involontaires avec incapacité totale de travail supérieure à trois mois par conducteur coupable de délit de fuite (69), soit au total en 1996 : 9 431 condamnations. L'ensemble de ces éléments démontre l'ampleur de la prise en compte par les instances judiciaires de l'infraction de délit de fuite et la réelle mise en application des textes de répression.
