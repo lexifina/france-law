@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990415963
+
+- Question : [SEQ990415963](seq990415963.md) — Tri à la source des déchets
+
+## Réponse
+
+*Aménagement du territoire, JO du 1999-07-08, page 2314*
+
+Réponse. - La ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question relative à la participation de la population française au tri à la source des déchets. En application de la loi nº 92-646 du 13 juillet 1992 relative à l'élimination des déchets ainsi qu'aux installations classées pour la protection de l'environnement, les installations d'éliminations des déchets par stockage ne seront plus autorisées à accueillir que les déchets ultimes à compter du 1er juillet 2002. Cette disposition rend indispensable le renforcement de deux volets essentiels de la politique de gestion des déchets, à savoir la prévention et la valorisation. Ces aspects ont été confirmés à l'occasion de la communication faite en conseil des ministres le 26 août 1998. D'ores et déjà, un tiers des Français participe au tri des déchets et 450 contrats ont été signés entre les collectivtés locales et Eco-Emballages, associant ainsi 14 000 communes aux opérations de tri et de collecte sélective. Sur le plan de la sensibilisation du public, une campagne nationale de communication a été mise en place pour la période du 2 au 20 mai 1999, afin d'encourager le tri à la source des déchets d'emballages ménagers. Lancée collectivement par le ministère de l'aménagement du territoire et de l'environnement, l'ADEME (Agence de l'environnement et de la maîtrise de l'énergie), l'Association des maires de France, Eco-Emballages et Adelphe, cette campagne, qui fait appel à la diffusion télévisée autant qu'à des animations de terrain, s'accompagne de l'ouverture d'un site Internet destiné au grand public (ecoemballages.fr) et d'un numéro azur (0 800 84 84 84).
