@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960616131
+
+- Question : [SEQ960616131](seq960616131.md) — Activité professionnelle et mandat municipal
+
+## Réponse
+
+*Fonction publique, JO du 1996-08-01, page 1997*
+
+Réponse. - Les conseillers municipaux des communes de moins de 100 000 habitants bénéficient, lorsqu'ils exercent une activité professionnelle salariée, des dispositions du code général des collectivités territoriales qui permettent à tous les élus locaux de disposer du temps nécessaire pour se rendre et participer aux séances de leur conseil, aux réunions des commissions dont ils sont membres et instituées par une délibération de leur conseil, ainsi qu'aux réunions des organismes où ils ont été désignés pour représenter leur collectivité. Ces dispositions, qui figurent à l'article L. 2123-1 du code général des collectivités territoriales, s'appliquent à l'ensemble des élus municipaux, quelle que soit la taille démographique de la commune. Indépendamment des autorisations d'absence, les maires, les adjoints et, dans les communes de 100 000 habitants au moins, les conseillers municipaux, ont droit à un crédit d'heures, forfaitaire et trimestriel, non reportable, non payé par l'employeur, leur permettant de disposer du temps nécessaire à l'administration de leur commune, ou de tout organisme auprès duquel ils la représentent, et à la préparation des réunions des instances où ils siègent (article L. 2123-3 du code général des collectivités territoriales). La durée de ce crédit d'heures est modulée en fonction des charges et de l'importance démographique de la commune concernée. Le législateur a ainsi considéré que les conseillers municipaux dont la charge est importante pouvaient bénéficier d'un crédit d'heures trimestriel équivalent à 60 p. 100 de la durée hebdomadaire légale du travail. Il n'est pas envisagé, dans l'immédiat, d'abaisser le seuil de 100 000 habitants fixé par le législateur.
