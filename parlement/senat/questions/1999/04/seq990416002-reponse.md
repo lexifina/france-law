@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990416002
+
+- Question : [SEQ990416002](seq990416002.md) — Tourisme saisonnier : développement des échanges entre sites touristiques
+
+## Réponse
+
+*Tourisme, JO du 1999-07-08, page 2350*
+
+Réponse. - Le Gouvernement est très intéressé et soutient ce type d'expérience qu'il souhaite voir se développer. D'autres départements, ou villes, ont entamé la même démarche. Celle-ci est porteuse de stabilité de l'emploi. Elle est également un moyen de développer la qualité de notre industrie touristique. L'adéquation du marché du travail aux exigences du tourisme saisonnier est insuffisante. La circulation de l'information sur les offres d'emplois et les candidats entre les principaux sites touristiques n'est pas assez développée. Il résulte, en effet, de cette situation un taux de chômage frictionnel au sens économique du terme, dans la mesure où un décalage existe toujours entre la localisation des offres d'emplois et la main-d' uvre potentielle. Le développement des dispositifs d'échange entre sites est donc du plus grand intérêt. A cet égard, les expérimentations lancées par l'ANPE entre la Savoie (Albertville) et le Morbihan (Auray) sont riches d'enseignements. Ce partenariat va bientôt concerner les deux départements. On note surtout dans ces bassins d'emploi la forte implication des fédérations professionnelles locales afin d'offrir aux jeunes intéressés par un échange des conditions de travail et de vie acceptables : logement, transport, possibilité de formation. En outre, l'ANPE doit s'impliquer pour trouver des jeunes correspondant aux profils recherchés. Au total, même si la portée de ce dispositif en terme d'emploi reste limitée, on peut envisager son extension à d'autres bassins d'emploi à condition que les acteurs concernés travaillent en étroite collaboration.
