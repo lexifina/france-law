@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940104475
+
+- Question : [SEQ940104475](seq940104475.md) — Modalités d'enseignement du BTS viticulture-oenologie
+
+## Réponse
+
+*Agriculture, JO du 1994-03-24, page 661*
+
+Réponse. - Le brevet de technicien supérieur agricole option " viticulture-oenologie " est un diplôme qui vise une qualification de niveau 3 ; il permet par ailleurs aux meilleurs candidats de poursuivre des études et de préparer en particulier le diplôme national d'oenologie. Le projet de rénovation de ce BTSA ne remet pas en cause ses caractéristiques car il prend en compte les activités exercées par le technicien supérieur en viticulture-oenologie et prévoit une formation équilibrée entre la conduite de la production viticole et l'élaboration du vin. En effet, le temps de formation consacré à l'oenologie n'est pas limité aux seules heures de cours et de travaux pratiques. Quatre-vingts heures d'activités pluridisciplinaires sont prévues pour faire vivre aux élèves des situations professionnelles concrètes en matière d'élaboration du vin. En outre, l'équipe pédagogique dispose d'un potentiel horaire permettant de procéder à la mise à niveau des étudiants qui ont des acquis différents selon leur origine scolaire. Il est enfin attribué à l'établissement un module d'initiative locale de cent vingt heures qui lui permet, en concertation avec les professionnels de son environnement, de compléter et d'adapter la formation. Le projet de rénovation du BTSA option " viticulture-oenologie " a fait l'objet d'une large concertation, en particulier au sein de la commission professionnelle consultative " métiers de l'agriculture, de l'agro-industrie et de l'espace rural " et de sa sous-commission viticulture-oenologie où sont représentés les professionnels de ce secteur économique. Il a été en outre soumis aux établissements, qui ont pu faire connaître leurs suggestions au groupe d'experts responsable du sujet.
