@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030507724
+
+- Question : [SEQ030507724](seq030507724.md) — Routes de la drogue
+
+## Réponse
+
+*Affaires étrangères, JO du 2003-07-31, page 2450*
+
+Organisée à l'initiative de la France en partenariat avec l'Office contre la drogue et le crime des Nations unies (ODC), une conférence ministérielle sur les routes de la drogue de l'Asie centrale à l'Europe s'est tenue à Paris les 21 et 22 mai, en présence des représentants de cinquante-cinq Etats et de quatorze organisations internationales. Les hauts fonctionnaires réunis le premier jour ont confirmé la reprise en 2002 et 2003 de la production d'opium et d'héroïne en Afghanistan, identifié les principales routes utilisées par les trafiquants et analysé leurs effets dévastateurs sur l'économie, la sécurité et la santé publique des pays traversés. Le docteur Jayle, président de la Mission interministérielle de lutte contre la drogue et la toxicomanie (MILDT), a présenté aux ministres les principales conclusions des experts. Ouverte par le Président de la République, la conférence a réuni une trentaine de ministres des affaires étrangères et secrétaires d'Etat, ce qui témoigne d'une prise de conscience de la gravité de la situation. Les participants ont reconnu que la différence entre pays de transit et pays consommateurs n'était plus pertinente et qu'une réponse globale, équilibrée et coordonnée, sur le plan régional et international, devait être apportée à ce fléau. Par un pacte de Paris, les ministres sont convenus de coaliser leurs volontés et de conjuguer les efforts de leurs pays pour renforcer les capacités nationales, développer les partenariats régionaux et s'attaquer ainsi à ce problème dans toutes ses dimensions. L'ODC et les autres partenaires internationaux travailleront à promouvoir les propositions innovantes issues de la conférence.
