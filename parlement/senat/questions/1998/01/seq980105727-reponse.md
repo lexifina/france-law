@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980105727
+
+- Question : [SEQ980105727](seq980105727.md) — Dotation de postes de conseiller principal d'éducation dans le département de l'Hérault
+
+## Réponse
+
+*Éducation, JO du 1998-04-16, page 1242*
+
+Réponse. - Malgré un contexte général de décroissance démographique continue, le budget de l'enseignement scolaire 1998 a reconduit les moyens dévolus à l'enseignement afin de maintenir le taux d'encadrement des élèves des lycées et des collèges au niveau actuel, voire, grâce à l'effort de redéploiement entrepris par l'administration centrale lors de la détermination des enveloppes de chaque académie, de mettre en uvre une politique d'amélioration de la qualité de l'enseignement pour tous et notamment pour les élèves issus des milieux les plus défavorisés. En outre, le budget 1998 arrête la création de plus d'un millier d'emplois de personnel dont 100 de conseiller principal d'éducation permettant d'assurer une présence accrue d'adultes auprès des élèves dans le cadre d'un renforcement de la prévention des phénomènes de violence. Ces emplois ont été répartis entre les académies qui recensent les sites expérimentaux de lutte contre la violence scolaire. D'une façon générale, la répartition des moyens en personnel d'éducation entre les établissements relève de la compétence des autorités académiques dans le cadre des attributions que leur confère la déconcentration administrative. Il leur appartient de procéder de la manière la plus équitable possible en tenant compte des priorités qu'elles sont amenées à définir en fonction des caractéristiques locales. C'est pourquoi, en ce qui concerne le département de l'Hérault, il convient de prendre l'attache du recteur de l'académie de Montpellier qui est le plus à même de fournir toutes les précisions souhaitées sur la préparation de la prochaine rentrée scolaire.
