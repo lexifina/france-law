@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971003751
+
+- Question : [SEQ971003751](seq971003751.md) — Surveillance des bassins des piscines et parcs aquatiques à maintenir quelques minutes après la fermeture de l'établissement
+
+## Réponse
+
+*Jeunesse, JO du 1998-01-22, page 247*
+
+Réponse. - Les textes relatifs à la surveillance des piscines, des parcs aquatiques d'accès payant ainsi que des baignades ouvertes gratuitement au public, aménagées et réglementairement autorisées, prévoient d'une façon générale une obligation de surveillance des activités aquatiques qui s'y déroulent pendant les heures d'ouverture au public. Ceci résulte tant de la loi no 51-662 du 24 mai 1951 assurant la sécurité dans les établissements de natation que du décret no 77-1177 du 20 octobre 1977 modifié relatif à la surveillance et à l'enseignement des activités de natation. Il va de soi que cette surveillance doit être effective tant que la piscine, le parc aquatique ou la baignade sont ouverts au public. Ceci découle à la fois du dispositif précité et des relations contractuelles existant entre le client et l'exploitant de l'établissement, lequel est tenu, de par l'article L. 221-1 du code de la consommation, à une obligation générale de sécurité envers ce client. Une modification des textes existants nécessiterait une étude préalable démontrant sa pertinence du point de vue de l'amélioration des conditions de sécurité. Il conviendrait également d'évaluer l'augmentation des charges en personnel qui pourrait en résulter tant pour les communes que pour les exploitants privés. Dans l'immédiat, les directions départementales de la jeunesse et des sports sont, avec d'autres administrations, amenées à l'occasion des contrôles qu'elles effectuent dans ces établissements à rappeler les principes de responsabilité tels qu'ils découlent des règlements et de la jurisprudence.
