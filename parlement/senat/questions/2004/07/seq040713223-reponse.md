@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040713223
+
+- Question : [SEQ040713223](seq040713223.md) — Participation croissante des forces françaises à des opérations extérieures
+
+## Réponse
+
+*Défense, JO du 2004-10-07, page 2278*
+
+Dans le cadre de l'opération PAMIR, des troupes militaires françaises sont déployées en Afghanistan pour participer à la Force internationale d'assistance et de sécurité (FIAS), mandatée par l'Organisation des Nations unies et dirigée par l'Organisation du traité de l'Atlantique Nord (OTAN). Les forces engagées au sein de la FIAS apportent leur concours aux autorités gouvernementales intérimaires locales pour les aider à établir un environnement sûr et stable en Afghanistan. Depuis le 9 août 2004, le commandement de la FIAS a été confié par l'OTAN au Corps européen, pour une durée de six mois. La brigade franco-allemande assure par ailleurs le commandement de la brigade multinationale de Kaboul. Les effectifs français participant à la FIAS passeront de 530 à 880 militaires, pour une période limitée, entre août 2004 et janvier 2005. Les dépenses afférentes aux opérations extérieures n'étant pas individualisées dans la loi de finances initiale, aucun financement spécifique n'est prévu pour cette opération militaire française en Afghanistan. Les surcoûts engendrés seront couverts par les crédits OPEX inscrits dans le collectif budgétaire de fin d'année. A Istanbul, les Etats membres de l'alliance ont convenu que, dans sa zone géographique de compétence, la FIAS fournirait un appui renforcé aux autorités afghanes pour assurer la sécurité pendant la période électorale. Cet appui renforcé se traduira principalement par la mise en place temporaire (deux à trois mois) d'un bataillon espagnol, d'un bataillon italien et d'une compagnie américaine au sein de la FIAS. La France n'apportera aucune contribution supplémentaire dans ce cadre.
