@@ -1,0 +1,15 @@
+# Délibération portant avis sur le projet d'arrêté du Ministre de l'Economie, des Finances et de la Privatisation créant le traitement "AGADIR - DNEF"
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 86-67
+- Date : 1986-06-24
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017654591
+
+La Commission Nationale de l'Informatique et des Libertés ; Vu la Convention du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ; Vu la loi n° 78-17 du 6 Janvier 1978 relative à l'informatique, aux fichiers et aux libertés ; Vu le décret n° 78-774 du 17 Juillet 1978 pris en application des chapitres I à IV et VII de la loi du 6 Janvier 1978 susvisée ; Vu l'arrêté du Ministre de l'Economie et des Finances du 17 Mars 1983 : Vu le code général des impôts ; Vu la décision n° 83-164 du Conseil Constitutionnel du 23 Décembre 1983 ; Vu le projet d'arrêté du Ministre de l'Economie, des Finances et de la Privatisation ; Après avoir entendu Monsieur VIE en son rapport et Madame Charlotte-Marie PITRAT, Commissaire du Gouvernement en ses observations ;
+
+Considérant que le projet d'arrêté soumis à l'avis de la Commission vise à autoriser la création d'un traitement dont la finalité est la gestion, par la Direction Nationale d'Enquêtes Fiscales, de la documentation relative aux procédés de fraude fiscale ; Considérant que celle-ci recense des renseignements nécessaires à l'établissement de l'assiette, au contrôle et au recouvrement des impôts et taxes relevant de la compétence de la Direction Générale des Impôts ; Considérant qu'à cette fin, les informations nominatives susceptibles d'être enregistrées, dans les limites de la compétence de la DNEF, sont relatives à la description des affaires frauduleuses à celle des procédés utilisés et à l'identification des contribuables à l'égard desquels existent des indices de fraude ; qu'aucune condamnation pénale ne sera mentionnée ; Considérant que si la durée de conservation des données est fixée en principe à dix ans, toute mesure devra être prévue afin d'assurer l'application effective des lois d'amnistie ainsi que des mesures de grâce relatives aux infractions fiscales ; Considérant qu'aucune interconnexion ne sera réalisée avec les traitements précédemment déclarés à la Commission ; Considérant que les pouvoirs légalement impartis aux services fiscaux pour la recherche et la constatation des infractions en matière fiscale, doivent être conciliés avec l'exercice des libertés individuelles et des droits reconnus par la loi du 6 Janvier 1978 ; qu'ainsi le droit d'accès des intéressés aux informations nominatives les concernant devra être garanti en application de l'article 34 de cette loi.
+
+Emet un AVIS FAVORABLE au projet d'arrêté qui lui est soumis. Appelle l'attention du Ministre de l'Economie, des Finances et de la Privatisation sur la nécessité de prévoir toute mesure utile afin de garantir la sécurité, de préserver la confidentialité des informations traitées et d'empêcher qu'elles ne soient communiquées à des tiers non autorisés. Le Président, Jacques FAUVET.
