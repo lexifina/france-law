@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021003011
+
+- Question : [SEQ021003011](seq021003011.md) — Difficultés pour se loger
+
+## Réponse
+
+*Équipement, JO du 2003-02-13, page 570*
+
+Les aides personnelles au logement ont été revalorisées avec effet rétroactif au 1er juillet 2002. En 2002, les crédits correspondant à cette revalorisation s'élèvent ainsi à 145 MEUR, montant à comparer aux accroissements des années antérieures qui s'élevaient à 128 MEUR en 2001 et 86 MEUR en 2000. Les DDE n'ont pas reçu l'ordre de ralentir le financement des opérations HLM. Au contraire, des instructions très claires ont été données pour que soient financés en priorité les dossiers de réalisation de logements sociaux déposés dans le cadre des contrats de relance, cela dans un contexte où, il est vrai, les mesures de régulation républicaine décidées par le précédent gouvernement se sont traduites par une mise à disposition plus tardive que d'habitude de la totalité des dotations. Néanmoins, le nombre de nouveaux logements financés en 2002 sera pratiquement le même qu'en 2001. Par ailleurs, il est prévu de financer en 2003 54 000 logements locatifs sociaux, dont 12 000 en prêt locatif social (PLS), auxquels s'ajouteront les 4 000 logements en PLS que l'association foncière logement prévoit de réaliser, soit un total de 58 000, supérieur à ce qu'il a été prévu de financer en 2002. Au-delà de la seule réalisation de logements locatifs sociaux, le Gouvernement entend agir également sur cet autre maillon de la chaîne du logement qu'est le logement locatif privé, en renforçant par divers moyen l'attractivité des investissements dans ce domaine. C'est dans cette perspective qu'il faut inscrire la mesure adoptée dans la loi de finances pour 2003, qui étend à la location aux ascendants et aux descendants les avantages fiscaux aujourd'hui attachés à l'investissement locatif.
