@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880801239
+
+- Question : [SEQ880801239](seq880801239.md) — Installation de cabines téléphoniques
+
+## Réponse
+
+*Postes, JO du 1988-11-17, page 1295*
+
+Réponse. - La desserte des lieux de vacances par des cabines téléphoniques publiques soulève deux sortes de problèmes : l'un de localisation géographique, l'autre de répartition horaire. L'aspect géographique est évident : la demande se manifeste dans des endroits où elle est, le reste de l'année, très faible. Mais l'aspect horaire, sans doute moins connu, n'en est pas moins important : la demande présente des pointes très marquées, correspondant par exemple aux heures de retour des plages ou du ski. Pour faire face à l'aspect géographique, la seule solution est, ainsi que le suggère l'honorable parlementaire, de mettre en place des moyens supplémentaires saisonniers : ils représentent quelque 5 000 points d'accès, sous forme de caravanes équipées, de remorques, de cabines amovibles, de point-phones en location temporaire. Il est vrai que ces moyens répondent parfois de manière imparfaite à l'énorme surcroît de demande qui apparaît à certaines heures, ainsi qu'il a été évoqué ; la solution ne peut alors, faute de pouvoir dimensionner les équipements au-delà d'une limite économiquement acceptable, que résider dans un certain étalement. Quant à limiter autoritairement la durée des communications, une telle attitude apparaît difficilement envisageable ; outre son aspect peu commercial, elle pénaliserait des personnes, non pas toujours trop prolixes, mais attendant par exemple qu'un standard veuille bien leur passer un poste intérieur occupé. Il est rappelé que toutes les communications sont actuellement tarifées à la durée, ce qui constitue déjà en principe une incitation à éviter les conversations inutilement longues.
