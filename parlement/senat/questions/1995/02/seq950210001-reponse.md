@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950210001
+
+- Question : [SEQ950210001](seq950210001.md) — Situation du BEPA Services aux personnes applicable à partir de juillet 1994
+
+## Réponse
+
+*Santé publique, JO du 1995-11-02, page 2092*
+
+Réponse. - Il est précisé à l'honorable parlementaire que les titulaires du BEPA " service aux personnes " peuvent tout à fait suivre les formations d'aide-soignant ou d'auxiliaire de puériculture, ce brevet figurant bien, comme c'était déjà le cas précédemment, parmi les titres, listés par l'article 4 de l'arrêté du 22 juillet 1994 relatif au certificat d'aptitude aux fonctions d'aide-soignant et au certificat d'aptitude aux fonctions d'auxiliaire de puériculture, permettant de se présenter aux épreuves de sélection. S'il est vrai que les titulaires du BEPA " service aux personnes ", à la différence des titulaires du BEP " carrières sanitaires et sociales ", ne peuvent se présenter directement aux épreuves d'admission sans subir les épreuves d'admissibilité, ils se trouvent, de par la nouvelle réglementation, dans une situation parfois plus favorable qu'auparavant. Dans le cadre des dispositions de l'arrêté du 25 mai 1971 modifié, les titulaires du BEP " carrières sanitaires et sociales " bénéficiaient en effet d'une priorité pour l'admission dans les centres de formation d'aides-soignants qui, lorsque le nombre de candidats possédant ce BEP était important, avait pour conséquence d'écarter les autres candidats. Cette priorité n'existe plus dans le nouveau dispositif. Il a toutefois été demandé aux services du ministère de la santé publique et de l'assurance maladie, en liaison avec les services compétents du ministère de l'agriculture, de la pêche et de l'alimentation, de dresser, à l'issue de la sélection, un premier bilan d'application des nouvelles dispositions, y compris celles relatives à l'entrée en formation, afin, si nécessaire, d'en tirer toutes les conséquences au plan réglementaire.
