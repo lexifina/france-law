@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890304163
+
+- Question : [SEQ890304163](seq890304163.md) — Fonctionnement des comités régionaux et départementaux d'éducation pour la santé
+
+## Réponse
+
+*Solidarité, JO du 1989-06-08, page 890*
+
+Réponse. - Le ministre de la solidarité, de la santé et de la protection sociale rappelle à l'honorable parlementaire que les comités régionaux et départementaux d'éducation pour la santé doivent être le lieu privilégié de rassemblement et de concertation de l'ensemble des structures privées, publiques ou parapubliques concourant à l'éducation pour la santé. Le financement des actions menées doit être multiple et associer notamment l'Etat, les conseils généraux, les organismes de protection sociale, etc. L'Etat, malgré une réduction importante, il est vrai, a maintenu les crédits régionalisés de promotion de la santé qui servent à financer des programmes d'éducation pour la santé amenés notamment par les comités régionaux et départementaux. Une aide importante est en outre apportée à ces comités par le biais des documents qui leurs sont fournis gratuitement par le Comité français d'éducation pour la santé, subventionné à plus de 85 p. 100 par l'Etat. De plus, dès 1988, ont été financées par cette association, sous tutelle de mon ministère, quelques actions innovantes menées par les comités départementaux. Enfin, en 1989, pour la première fois, une ligne budgétaire a été ouverte au budget de ce comité pour aider à la formation d'éducateurs pour la santé. L'aide ainsi apportée par l'Etat, alors que nous sommes en période de rigueur budgétaire, est loin d'être négligeable. Cet effort sera soutenu, et si possible amplifié, dans les années à venir afin que tous les comités aient les moyens d'une efficacité accrue. Mes services étudient actuellement les possibilités d'une participation directe de l'Etat aux dépenses de fonctionnement de ces comités.
