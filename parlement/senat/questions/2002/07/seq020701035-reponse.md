@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020701035
+
+- Question : [SEQ020701035](seq020701035.md) — Déneigement des routes départementales en Moselle
+
+## Réponse
+
+*Équipement, JO du 2003-01-02, page 45*
+
+L'entretien et l'exploitation des routes départementales relèvent de la compétence du conseil général. Pour exercer cette responsabilité, le département s'appuie en application des lois de décentralisation - notamment celle n° 92-1255 du 2 décembre 1992 - sur des parties de services de la direction départementale de l'Equipement mises à sa disposition. Cela concerne bien entendu le déneigement du réseau routier. L'ensemble du service rendu s'inscrit dans un cadre conventionnel liant l'Etat et le conseil général. II respecte le temps de travail et de repos des agents fixé par l'Union européenne et tient compte de la mise en oeuvre de l'aménagement et de la réduction du temps de travail dans la fonction publique. Pour l'hiver 2000-2001, des intempéries particulièrement importantes se sont concentrées dans le département de la Moselle sur une période située entre la fin du mois de décembre 2001 et début janvier 2002. Ces événements, mis en relation avec de fortes chutes de neige durant la période de Noël, ont entraîné une situation exceptionnelle et la mise en place d'un dispositif renforcé avec l'appui d'unités d'intervention du Bas-Rhin. Ainsi, le nombre d'interventions en matière de viabilité hivernale en décembre 2001 était trois fois supérieur à celui de décembre 2000. Face à ces conditions défavorables, il est possible que, malheureusement, certains axes n'aient pu être traités dans des délais rapides. Ce service public, temporairement et ponctuellement réduit, compte tenu de la dureté des éléments climatiques, est conforme aux objectifs arrêtés d'un commun accord avec le conseil général dans le cadre conventionnel précité.
