@@ -1,31 +1,33 @@
 # Article ANNEXE
 
-ANNEXE AU DÉCRET PORTANT ATTRIBUTION DE LA NOUVELLE BONIFICATION INDICIAIRE À CERTAINS PERSONNELS DU MINISTÈRE DE L'ÉQUIPEMENT, DU LOGEMENT, DES TRANSPORTS ET DE L'ESPACE
+Contrôle et mise en oeuvre des réglementations techniques relatives au droit des sols, du bâtiment et des transports et au financement du logement.
 
-Liste des fonctions ouvrant droit
+Mise en oeuvre de la politique de la ville. Mise en oeuvre des politiques et études en matière d'urbanisme, d'habitat, de transport, de sécurité, d'infrastructures, d'économie et d'environnement.
 
-à la nouvelle bonification indiciaire
+Affaires juridiques.
 
-Contrôle et mise en oeuvre des réglementations techniques relatives au droit des sols, du bâtiment et des transports.
-
-Gestion des contentieux.
-
-Contrôle de la qualité des eaux.
-
-Essais et réalisation de prototypes.
-
-Mise en oeuvre des techniques de l'information.
-
-Prévention médico-sociale et ergonomique.
-
-Gestion financière analytique.
-
-Mise en oeuvre permanente d'actions de formation.
+Mise en oeuvre des techniques de communication. Responsabilité de la communication.
 
 Recueil et synthèse de données statistiques.
 
-Gestion spécifique de certains personnels.
+Maintenance logistique.
+
+Contrôle de la qualité des eaux.
 
 Contrôle des distributions d'énergie électrique.
 
-Maintenance logistique.
+Essais et réalisations de prototypes.
+
+Gestion des personnels.
+
+Mise en oeuvre permanente d'actions de formation.
+
+Prévention et assistance médico-sociale et ergonomique.
+
+Gestion comptable et financière analytique, responsabilité des marchés, conseil de gestion.
+
+Gestion des moyens généraux.
+
+Inspection.
+
+Fonctions de responsabilité ou impliquant la mise en oeuvre de technicités particulières à l'administration centrale.
