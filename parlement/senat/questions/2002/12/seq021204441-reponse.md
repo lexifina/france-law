@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021204441
+
+- Question : [SEQ021204441](seq021204441.md) — Aide à domicile
+
+## Réponse
+
+*Affaires sociales, JO du 2003-09-04, page 2733*
+
+L'attention du ministre des affaires sociales, du travail et de la solidarité est appelée sur les préoccupations qui ont pu se manifester, notamment dans les associations gérant des services de soins infirmiers, à la suite de la publication de l'arrêté du 11 juin 2002 portant extension de l'accord national professionnel du 29 mars 2002 relatif à la classification des emplois et aux rémunérations conclu dans la branche de l'aide à domicile. Il est précisé en premier lieu que cette extension ne produit d'effet qu'après agrément ministériel prévu à l'article L. 314-6 du code de l'action sociale et des familles. Or cet agrément a été refusé le 27 septembre 2002 et j'ai engagé les partenaires sociaux à en renégocier les effets compte tenu de son coût pour les budgets sociaux de l'Etat et des collectivités territoriales. Depuis cette date, les partenaires sociaux ont négocié un avenant n° 1 du 4 décembre 2002 et l'agrément de l'accord modifié par l'avenant précité a été notifié le 24 janvier 2003, et publié au Journal officiel du 31 janvier 2003 ; par ailleurs, un avenant n° 2 du 4 avril 2003 relatif au reclassement des personnels a depuis été agréé le 15 mai 2003 et l'entrée en vigueur de l'ensemble de l'accord ainsi modifié intervient le 1er juillet 2003. L'instruction de la demande d'extension de l'accord ainsi agréé est actuellement en cours et les associations qui gèrent des centres de soins infirmiers ont fait valoir les difficultés que leur poserait l'extension, notamment à l'occasion de la réunion du 22 mai 2003 de la sous-commission des conventions et accords convoquée par la direction des relations du travail. Les services du ministère sont donc pleinement conscients de ces difficultés et étudient toute disposition propre à les limiter.
