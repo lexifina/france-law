@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970220811
+
+- Question : [SEQ970220811](seq970220811.md) — Réforme du bulletin de paie et taux des charges
+
+## Réponse
+
+*Travail, JO du 1997-06-02, page 1648*
+
+Réponse. - La simplification des procédures et des formalités incombant aux entreprises comme aux particuliers s'inscrit au coeur de la réforme de l'Etat mise en oeuvre par le Gouvernement. Conscient de la nécessité de simplifier sensiblement le bulletin de paie, le ministre du travail et des affaires sociales a confié en septembre 1996 à une Commission animée par M. Turbot le soin de formuler des propositions en ce sens. Dans le droit fil de ces propositions, est ainsi intervenu, dès le 27 décembre 1996, un décret prévoyant la fixation d'un plafond unique de sécurité sociale pour une année civile entière, au lieu de deux plafonds semestriels. Surtout, la circulaire du 7 avril 1997 propose des simplifications substantielles concernant le bulletin de paie, en rendant possible le regroupement des prélèvements par assiette et par collecteur, ce qui a pour effet d'en améliorer la lisibilité et de réduire de moitié, dans la plupart des cas, le nombre de lignes, tandis que le calcul de la CSG et de la CRDS est significativement simplifié grâce à la possibilité accordée de reporter l'abattement de 5 % sur le taux de ces contributions, dont l'assiette, en matière de revenus d'activité, a été harmonisée à compter du 1er janvier 1997. Enfin, la stabilité des assiettes et des taux constitue un objectif du Gouvernement. Conscient du rôle qui est le sien, l'Etat s'attachera à ne pas modifier en cours d'année civile les paramètres qui ont une incidence sur le bulletin de paie. De la même façon, les partenaires sociaux, sensibles à ce problème, se sont engagés, en tant que gestionnaires des régimes conventionnels (UNEDIC, ARRCO, AGIRC notamment), à respecter cette règle dans toute la mesure du possible.
