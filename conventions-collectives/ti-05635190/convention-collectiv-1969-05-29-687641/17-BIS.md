@@ -1,6 +1,6 @@
 # Article 17 BIS
 
-Les salariés ont droit au paiement d'une prime annuelle, dont le paiement pourra s'effectuer en une ou plusieurs fois au cours de l'année.
+Les salariés ont droit au paiement d'une prime annuelle dont le versement pourra s'effectuer en une ou plusieurs fois au cours de l'année : dans ce cas, le ou les versements précédant le solde constituent une avance.
 
 Cette prime ne fait pas partie de la rémunération totale retenue pour le calcul de l'indemnité de congés payés.
 
@@ -10,9 +10,19 @@ Les conditions d'attribution de cette prime annuelle sont les suivantes :
 
 2° Etre titulaire d'un contrat de travail en vigueur au moment du versement. Les salariés dont le contrat de travail n'est pas suspendu depuis plus d'un an au moment du versement répondent à cette condition.
 
-Toutefois, en cas de départ à la retraite en cours d'année, d'appel sous les drapeaux, de retour du service militaire en cours d'année, de décès en cours d'année, ou dans les cas de licenciement pour motif économique, la prime sera versée pro rata temporis.
+Toutefois :
 
-De même, en cas de départ en cours d'année en congé non rémunéré suspendant le contrat de travail ou de retour en cours d'année d'un tel congé, la prime sera versée suivant les dispositions figurant au 4° ci-dessous ;
+- en cas de départ à la retraite ;
+
+- d'appel sous les drapeaux, de retour du service national ;
+
+- de décès ;
+
+- de licenciement économique ;
+
+- de départ en congé non rémunéré suspendant le contrat de travail ou de retour d'un tel congé intervenant en cours d'année,
+
+la prime sera versée pro rata temporis suivant les dispositions prévues au 4° ci-dessous.
 
 3° Le montant de la prime pour les salariés qui n'ont pas fait l'objet d'absences autres que celles énumérées ci-dessous est égal à 100 p. 100 du salaire forfaitaire mensuel de novembre (heures supplémentaires exceptionnelles exclues) :
 
