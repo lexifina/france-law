@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700519
+
+- Question : [SEQ020700519](seq020700519.md) — Certification des comptes de campagne
+
+## Réponse
+
+*Justice, JO du 2002-10-10, page 2326*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que l'article 11-7 de la loi n° 88-227 du 11 mars 1988 relative à la transparence financière de la vie politique prévoit que les comptes des partis politiques ou groupements politiques, qui doivent être arrêtés chaque année " sont certifiés par deux commissaires aux comptes et déposés dans le premier semestre de l'année suivant celle de l'exercice à la commission des comptes de campagne et des financements politiques ". Les commissaires aux comptes et leurs suppléants sont désignés pour six ans par la plus haute instance dirigeante de la formation politique. Ils confirment leur acceptation de la mission par une lettre adressée à ces organes dirigeants après s'être assurés que la mission pourra être accomplie dans le respect des principes fondamentaux de comportement et des règles du code de déontologie professionnelle notamment en matière d'indépendance et de compétence. Même si le commissaire aux comptes demeure seul juge de l'acceptation de la mission proposée, un refus systématique de l'ensemble des professionnels dans un département devrait conduire le parti politique demandeur à saisir dans un premier temps les instances dirigeantes de la compagnie au niveau local (compagnie régionale des commissaires aux comptes). L'article 122 du décret n° 69-810 du 12 août 1969 reconnaît, en effet, un rôle de conciliation au président de cette compagnie. A défaut de solution, l'impossibilité d'obtenir une certification des comptes des partis politiques pourrait faire l'objet d'une saisine du président de la Compagnie nationale des commissaires aux comptes dont le siège est à Paris.
