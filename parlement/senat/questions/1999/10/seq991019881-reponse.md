@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991019881
+
+- Question : [SEQ991019881](seq991019881.md) — Lutte contre les exclusions
+
+## Réponse
+
+*Emploi, JO du 1999-11-11, page 3730*
+
+Réponse. - L'honorable parlementaire attire l'attention de la ministre de l'emploi et de la solidarité sur la mise en uvre de la loi d'orientation relative à la lutte contre les exclusions et plus particulièrement sur les difficultés des associations intermédiaires. L'article 13 de la loi nº 98-657 d'orientation relative à la lutte contre les exclusions dispose que seules les associations intermédiaires ayant signé une convention de coopération avec l'ANPE pourront procéder à des mises à disposition en entreprise. Les conventions de coopération négociées localement entre l'ANPE et l'association intermédiaire, ont pour objet de définir les rôles respectifs de chacun des acteurs : conditions de mise en relation, accompagnement et suivi du salarié, prestations de services offertes par l'agence... Le décret nº 99-109 du 18 février 1999 dispose que seules les personnes agréées par l'ANPE pourront effectuer des missions en entreprise d'une durée supérieure à 16 heures. L'agrément de la personne par l'ANPE s'effectue après un diagnostic sur la situation professionnelle de la personne afin de prendre en compte ses difficultés, de trouver des solutions possibles dans le parcours d'insertion et de pouvoir bénéficier éventuellement des prestations de l'ANPE. L'ANPE s'attache à mettre en place des conditions de délivrance de cet agrément afin qu'il ne soit pas une contrainte importante ni pour la personne ni pour la structure. La mise en uvre de la procédure s'effectue d'ailleurs dans de bonnes conditions. Cet agrément est aussi une garantie pour l'association intermédiaire que les personnes qu'elle souhaite recruter relèvent bien du secteur de l'insertion par l'activité économique.
