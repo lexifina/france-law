@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021204936
+
+- Question : [SEQ021204936](seq021204936.md) — Prisonniers français à Guantanamo
+
+## Réponse
+
+*Affaires étrangères, JO du 2003-03-13, page 852*
+
+Le ministère des affaires étrangères a dépêché deux missions (janvier et mars 2002) pour s'assurer de l'identité des ressortissants français détenus sur la base navale américaine de Guantanamo. Ils sont au total au nombre de six. En vertu du droit international, notamment de la troisième convention de Genève relative au traitement des prisonniers de guerre, les personnes qui ont été capturées lors d'un conflit armé international jouissent de droits personnels et de garanties fondamentales. Leur statut doit être déterminé par les autorités de l'Etat qui les détient et, lorsqu'il existe un doute, par un tribunal compétent pour juger les membres des forces armées de cet Etat. Le ministre des affaires étrangères a demandé dès le 15 janvier 2002 à son homologue américain que ces prisonniers bénéficient, quels que soient leur statut et leur nationalité, de toutes les garanties reconnues par le droit international, en particulier en ce qui concerne les conditions de leur détention. En effet, tout détenu est protégé en vertu du droit international humanitaire par un minimum de garanties fondamentales, relatives notamment au respect de la personne et de la dignité humaines et au respect du droit à un procès juste et équitable. Aussi, la France a fait part aux autorités des Etats-Unis de son opposition à ce que ses ressortissants soient jugés par des tribunaux d'exception. Les autorités françaises ont exprimé leur préférence pour un procès en France des détenus de nationalité française. A cette fin, la France a engagé des actions de coopération judiciaire, en particulier en matière pénale, avec les Etats-Unis.
