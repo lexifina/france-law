@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890504804
+
+- Question : [SEQ890504804](seq890504804.md) — Baisse des crédits alloués aux clubs sportifs
+
+## Réponse
+
+*Éducation, JO du 1989-09-21, page 1548*
+
+Réponse. - Les moyens financiers dont dispose le secrétaire d'Etat à la jeunesse et aux sports pour mettre en oeuvre sa politique sportive comprennent les crédits inscrits au budget général de l'Etat et les ressources du Fonds national pour le développement du sport. Après avoir connu une baisse sensible au cours du premier semestre de 1988, les recettes du F.N.D.S. ont connu un meilleur rendement en fin d'exercice. Cette tendance s'est confirmée en 1989. S'agissant du budget de l'Etat, l'objectif du Gouvernement est de conforter les moyens consacrés au sport. La loi de finances de 1989 fait apparaître les mesures allant en ce sens pour que les ressources globales destinées aux activités sportives connaissent une amélioration, dont bénéficient les club sportifs et les structures décentralisées des fédérations. Ainsi, en 1989, les crédits de la part régionale du F.N.D.S. destinés à l'aide tradionnelle aux clubs pour le développement du sport de masse sont identiques à ceux réellement payés en 1988. En outre, une dotation supplémentaire de 2,5 millions de francs a été affectée à l'organisation des phases régionales des jeux de l'avenir. Les clubs bénéficient par ailleurs des retombées de 60 millions de francs de mesures nouvelles inscrites au budget du secrétariat d'Etat à la jeunesse et aux sports pour l'aménagement du rythme de la vie de l'enfant. Composée de représentants de l'Etat et du mouvement sportif, la commission régionale du fonds national pour le développement du sport est présidée par le préfet de région ; il peut y inviter toute personne dont les compétences permettent d'éclairer la commission sur tout ou partie des points inscrits à l'ordre du jour.
