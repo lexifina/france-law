@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861003022
+
+- Question : [SEQ861003022](seq861003022.md) — Délai de règlement des dossiers de demandes de rachat des cotisations de retraite
+
+## Réponse
+
+*Rapatriés, JO du 1986-12-18, page 1761*
+
+Réponse. -La loi n° 85-1274 du 4 décembre 1985 portant amélioration des retraites des rapatriés a institué une aide au rachat de cotisations qui vient faciliter, dans le cadre du régime de l'assurance volontaire vieillesse, la validation de périodes d'activité outre-mer. Cette loi a été complétée par les décrets n° 86-346 et n° 86-350 du 12 mars 1986. Ces textes, élaborés avec une certaine précipitation, ont laissé dans l'ombre plusieurs questions dont celle de la compensation financière à instaurer entre l'Etat, dispensateur de l'aide au rachat, et les organismes chargés de la gestion de l'assurance vieillesse qui versent les retraites. La tâche du Gouvernement a été de régler dans un premier temps ces différents points. Parallèlement a été engagée l'élaboration des circulaires d'application, sans lesquelles, comme le souligne l'honorable parlementaire, les caisses de retraite sont dans l'incapacité d'instruire les dossiers déposés par les intéressés. Cinq circulaires sont nécessaires pour permetttre l'application de la loi du 4 décembre 1985 : elles concernent les ressortissants du régime général, les artisans, les commerçants, les professions libérales et enfin les salariés et exploitants agricoles. La circulaire du régime général, qui intéresse les deux tiers des bénéficiaires de la loi, vient d'être achevée. Après sa diffusion vers les caisses qui sera assurée très prochainement, l'instruction des dossiers pourra être rapidement mise en oeuvre. Cette première circulaire sera suivie dans les semaines à venir des circulaires portant sur les autres régimes. L'inquiétude légitime des rapatriés, dont l'honorable parlementaire a bien voulu se faire l'écho, devrait être ainsi apaisée.
