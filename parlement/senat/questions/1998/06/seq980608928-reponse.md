@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980608928
+
+- Question : [SEQ980608928](seq980608928.md) — Situation difficile du secteur culturel de la région Rhône-Alpes
+
+## Réponse
+
+*Culture, JO du 1998-11-19, page 3699*
+
+Réponse. - L'honorable parlementaire a attiré l'attention de Mme la ministre de la culture et de la communication sur la situation créée par la décision de la commission permanente du conseil régional de Rhône-Alpes de supprimer des subventions destinées à la société Rhône-Alpes Cinéma ainsi qu'à certaines compagnies théâtrales. Cette décision inique, aux conséquences lourdes en termes humains et financiers, attente directement à la liberté de création et de diffusion culturelle. Elle illustre le blocage institutionnel provoqué par la constitution d'une majorité composée pour partie d'adversaires de la liberté, de la tolérance, et donc de la culture. Face à cette situation et à ces conséquences, le ministère de la culture et de la communication ne peut s'inscrire dans une logique de substitution budgétaire, qui créerait un précédent inacceptable et risquerait de légitimer à terme de telles décisions. Toutefois, à titre exceptionnel, le ministère de la culture, sans dépasser le montant de la dotation qu'il avait prévu d'attribuer au CEC Rhône-Alpes, vient de décider d'aller au-delà des engagements conventionnels qui le lient à cette structure, afin d'éviter son dépôt de bilan. De manière générale, afin de garantir la pérennité des institutions culturelles, le ministère de la culture et de la communication encourage l'organisation d'une véritable solidarité avec les compagnies touchées, en invitant tous les élus républicains et les responsables des structures de diffusion à accueillir leurs productions. Seule cette mobilisation républicaine et citoyenne permettra de garantir de manière pérenne la liberté de création et de diffusion des uvres.
