@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021204819
+
+- Question : [SEQ021204819](seq021204819.md) — Développement des placements éthiques
+
+## Réponse
+
+*Économie, JO du 2003-04-10, page 1240*
+
+Les souscripteurs des fonds solidaires ou éthiques qui privilégient l'investissement dans des entreprises reconnues responsables notamment en matière de politique d'emploi, d'insertion et d'environnement bénéficient déjà de mesures fiscales favorables. Pour ceux de ces fonds éthiques qui, en outre, sont qualifiés de fonds de partage, les produits abandonnés par les épargnants au profit d'un organisme d'intérêt général présentant l'un des caractères énoncés à l'article 200 du code général des impôts, notamment un caractère philanthropique, social ou humanitaire, ouvrent droit à une réduction d'impôt sur le revenu égale à 50 % du versement effectué retenu dans la limite de 10 % du revenu imposable. Le projet de loi sur le mécénat qui sera prochainement débattu au Parlement contient une disposition visant à porter ces taux à respectivement 60 % et 20 %. Par ailleurs, il est rappelé que le régime fiscal des particuliers porteurs de parts de fonds communs de placement, parmi lesquels figurent les fonds éthiques, est attractif Ainsi, lorsqu'ils entrent dans le champ d'application du prélèvement libératoire (revenus d'obligations notamment), les produits de ces fonds peuvent être soumis, sur option du contribuable, au prélèvement de 15 % prévu à l'article 125 A du code général des impôts lorsque ce dispositif est plus avantageux que le barème progressif de l'impôt sur le revenu. Par ailleurs, conformément aux dispositions de l'article 199 ter A du même code, les porteurs de parts d'un fonds peuvent utiliser tout ou partie des crédits d'impôt ou avoirs fiscaux attachés aux produits des actifs compris dans ce fonds. Dans ces conditions, il n'est pas envisagé de renforcer ces avantages en faveur des fonds éthiques.
