@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991120393
+
+- Question : [SEQ991120393](seq991120393.md) — Retard de la France dans le développement des placements éthiques
+
+## Réponse
+
+*Économie, JO du 2000-02-10, page 529*
+
+Réponse. - Les souscripteurs des fonds solidaires ou éthiques qui privilégient l'investissement dans des entreprises reconnues responsables notamment en matière de politique d'emploi, d'insertion et d'environnement bénéficient déjà de mesures fiscales favorables. Ainsi, lorsqu'ils entrent dans le champ d'application du prélèvement libératoire (revenus d'obligations, notamment), les produits de ces fonds peuvent être soumis, sur option du contribuable, au prélèvement de 15 % prévu à l'article 125 A du code général des impôts lorsque ce dispostif est plus avantageux que l'imposition de ces revenus au barème progressif de l'impôt sur le revenu. De plus, conformément aux dispositions de l'article 199 ter A du même code, les porteurs de parts d'un fonds peuvent utiliser tout ou partie des crédits d'impôt ou avoirs fiscaux attachés aux produits des actifs compris dans ce fonds. Enfin, pour ceux de ces fonds qui, en outre, sont qualifiés de fonds de partage, les produits abandonnés par les épargnants au profit d'un organisme d'intérêt général présentant un des caractères énoncés à l'article 200 du code déjà cité, et notamment un caractère philanthropique, social ou humanitaire, ouvrent droit à une réduction d'impôt égale à 50 % du versement effectué, retenu dans la limite de 1,75 % du revenu imposable ou de 6 % si l'organisme bénéficiaire est reconnu d'utilité publique. La loi de finances pour 2000 unifie à 6 % la limite du revenu imposable et rend cet avantage encore plus incitatif, tout en le simplifiant. Dans ces conditions, il n'est pas envisagé de renforcer encore ces différents avantages en faveur des fonds solidaires ou éthiques.
