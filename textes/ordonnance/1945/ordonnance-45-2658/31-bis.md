@@ -12,7 +12,7 @@ Sous réserve du respect des dispositions de l'article 33 de la Convention de Ge
 
 3° La présence en France de l'étranger constitue une menace grave pour l'ordre public ;
 
-4° La demande d'asile repose sur une fraude délibérée ou constitue un recours abusif aux procédures d'asile ou n'est présentée qu'en vue de faire échec à une mesure d'éloignement prononcée ou imminente ;
+4° La demande d'asile repose sur une fraude délibérée ou constitue un recours abusif aux procédures d'asile ou n'est présentée qu'en vue de faire échec à une mesure d'éloignement prononcée ou imminente. Constitue, en particulier, un recours abusif aux procédures d'asile la présentation frauduleuse de plusieurs demandes d'admission au séjour au titre de l'asile sous des identités différentes.
 
 Les dispositions du présent article ne font pas obstacle au droit souverain de l'Etat d'accorder l'asile à toute personne qui se trouverait néanmoins dans l'un des cas mentionnés aux 1° à 4° du présent article.
 
