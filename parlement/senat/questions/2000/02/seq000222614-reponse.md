@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000222614
+
+- Question : [SEQ000222614](seq000222614.md) — Pensions de retraite des marins ayant participé à la guerre d'Algérie
+
+## Réponse
+
+*Anciens combattants, JO du 2000-05-25, page 1851*
+
+Réponse. - Les marins du commerce, ressortissants du code dse pensions de retraite des marins, se trouvent au regard de la validation des services militaires qu'ils ont accomplis en Afrique-du-Nord (A.F.N.), dans une situation identique à celles des salariés relevant du régime général de sécurité sociale : ces services comptent pour leur durée effective dans la détermination des droits à pension de retraite. Les marins de la marine marchande qui ont effectué des services durant la Seconde Guerre mondiale (ainsi qu'en Indochine et en Corée) ont touefois bénéficié d'un avantage accordé aux anciens combattants fonctionnaires et agents assimilés : la bonification de campagne. Les intéressés souhaitent voir étendre cet avantage aux services effectués en Afrique-du-Nord. Des raisons liées à l'histoire des droits à retraite des marins du commerce et à la nature particulière de leur activité professionnelle durant la Seconde Guerre mondiale, peuvent expliquer l'avantage de bonifications dont ils ont bénéficié alors. Il paraît difficile de traiter les services militaires en A.F.N. plus généreusement pour les marins que pour les autres salariés du secteur privé. En effet, les navires de commerce qui naviguaient en Méditerranée ent re l'Algérie et la France ne se trouvaient pas dans la même situation que les navires de la Seconde Guerre mondiale qui risquaient d'être bombardés et coulés. Dès lors, le secrétaire d'Etat à la défense chargé des anciens combattants n'envisage pas d'apporter son appui à une demande qui, en tout état de cause, ne pourrait s'inscrire que dans le cadre d'une réforem globale des différents régimes de retraite.
