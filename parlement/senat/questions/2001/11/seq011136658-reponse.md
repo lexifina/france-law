@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011136658
+
+- Question : [SEQ011136658](seq011136658.md) — Pratiques de ventes couplées  dans le cadre de la téléphonie mobile
+
+## Réponse
+
+*Industrie, JO du 2001-12-27, page 4104*
+
+Suite à l'important travail de clarification des contrats de téléphonie mobile effectué en concertation avec les professionnels, pour tenir compte de la recommandation n° 99-02 de la commission des clauses abusives sur ce type de contrat, les clauses qui présument la connaissance par le consommateur des conditions générales de vente de l'opérateur alors que celles-ci ne sont pas jointes au contrat signé ou remises au consommateur, ont aujourd'hui disparu de ces contrats. Il n'en demeure pas moins que, dans ce secteur d'activité, des professionnels peu scrupuleux continuent à inciter les consommateurs à souscrire à des offres multiples sans leur fournir l'information pré contractuelle nécessaire. Ces pratiques, dénoncées par les consommateurs, sont régulièrement relevées par les services départementaux de la direction générale de la concurrence, de la consommation et de la répression des fraudes et les procès-verbaux établis sont transmis aux procureurs de la République. Le Ministre chargé de la consommation a, par ailleurs, demandé à un groupe de travail du Conseil national de la consommation, composé de représentants des opérateurs et de représentants des associations de consommateurs, de réfléchir au moyen d'améliorer l'information tarifaire et contractuelle des consommateurs dans le domaine de la téléphonie. Ces travaux, qui ont déjà permis de définir le contenu et la présentation de la facture relative aux services téléphoniques, se poursuivent actuellement dans la perspective d'aboutir, au premier semestre 2002, à un avis du Conseil de la consommation sur les obligations des opérateurs en matière d'information pré contractuelle.
