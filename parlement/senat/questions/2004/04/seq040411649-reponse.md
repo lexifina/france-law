@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040411649
+
+- Question : [SEQ040411649](seq040411649.md) — Baux commerciaux
+
+## Réponse
+
+*Justice, JO du 2004-06-03, page 1208*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire qu'un groupe de travail a été constitué, afin d'examiner les conditions permettant d'améliorer la législation sur les baux commerciaux. Ce groupe de travail était composé de magistrats, d'avocats, d'un professeur de droit, d'un notaire, de représentants de locataires, de bailleurs, d'investisseurs, de professionnels de l'immobilier, ainsi que de deux fonctionnaires de la direction des entreprises commerciales, artisanales et de services. Le groupe, dont la présidence a été confiée à maître Philippe Pelletier, a procédé à l'audition des principaux acteurs concernés, notamment des organisations de commerçants et d'artisans. Le groupe de travail a remis le 5 mai dernier son rapport au garde des sceaux. Il propose de ne pas modifier les principes fondamentaux régissant le statut des baux commerciaux : pas de porte, durée minimale du bail de neuf ans, droit au renouvellement, indemnité d'éviction et mode d'évaluation de celle-ci, plafonnement du loyer lors du renouvellement du contrat de bail. Le groupe de travail fait quarante propositions, orientées dans trois directions principales : diminuer le recours au contentieux, développer la conciliation, et simplifier le déroulement des procédures quand elles ne peuvent être évitées ; permettre la reprise des logements vacants aux étages supérieurs des commerces dans les centres-villes ; instaurer une liberté contractuelle, dans le cas du seul immobilier de bureaux, pour la durée du bail. Après une analyse du rapport par ses services, le garde des sceaux consultera les différentes parties prenantes, en particulier les commerçants, afin de décider du contenu et du calendrier des réformes à engager dans ce domaine.
