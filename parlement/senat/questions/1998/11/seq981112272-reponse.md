@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981112272
+
+- Question : [SEQ981112272](seq981112272.md) — Limitation des nuisances sonores dans les opérations de construction
+
+## Réponse
+
+*Logement, JO du 1999-02-25, page 626*
+
+Réponse. - Après l'avis adopté par le Conseil économique et social au cours de sa séance du 15 avril 1998, l'honorable parlementaire demande quelles suites seront données à la préconisation d'intégrer l'acoustique dans les missions des contrôleurs techniques, afin de rendre obligatoire le contrôle des exigences acoustiques. Le contrôle technique est obligatoire pour certaines catégories de constructions (immeubles de grande hauteur, établissements recevant du public accueillant plus de 300 personnes...). Il porte sur la solidité des ouvrages et la sécurité des personnes. Toutefois, les maîtres d'ouvrage ont la faculté de mandater les contrôleurs pour des missions autres que celles-ci. Certains points font ainsi l'objet de contrôles fréquents à leur initiative : exigences de ventilation (impact sanitaire), exigences d'isolation thermique (impact sur l'effet de serre), exigences acoustiques. Le contrôle des exigences acoustiques est également possible par d'autres voies et est suivi avec attention par les services du ministère de l'équipement, des transports et du logement. Les contrôles acoustiques menés dans le cadre des campagnes de vérification du règlement de construction sont en très forte augmentation depuis cette année. Par ailleurs, de nombreuses actions de sensibilisation et d'information sur l'acoustique sont actuellement en cours, tant dans le secteur de la construction, pour accompagner l'application de la réglementation acoustique, que dans le parc existant pour encourager la mise au point de solutions adaptées. Enfin, les professionnels de la construction sont tout à fait conscients de cet enjeu et des attentes des ménages, puisqu'ils recourent de plus en plus fréquemment à des certifications.
