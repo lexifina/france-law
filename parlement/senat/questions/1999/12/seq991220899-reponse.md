@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991220899
+
+- Question : [SEQ991220899](seq991220899.md) — Renouvellement des concessions aéroportuaires
+
+## Réponse
+
+*Équipement, JO du 2000-05-25, page 1870*
+
+Réponse. - La gestion des aéroports commerciaux de province et d'outre-mer créés par l'Etat est le plus souvent déléguée aux chambres de commerce et d'industrie. Les concessions actuellement en vigueur reposent encore sur un cahier des charges type datant de 1995 qui a été abrogé et remplacé en 1997 par un nouveau texte, approuvé par décret en Conseil d'Etat, après une large concertation avec les gestionnaires de plates-formes aéroportuaires. Les actes de gestion de plusieurs aéroports arrivent tout prochainement à l'échéance. Il est donc proposé aux chambres de commerce et d'industrie concernées de conclure une nouvelle concession sur la base du nouveau cahier des charges adopté en 1997. En effet, à l'issue d'une réflexion approfondie sur les droits national et communautaire, il a été estimé qu'aucune obligation juridique de mise en concurrence n'était aujourd'hui constituée. Par ailleurs, le Gouvernement a décidé d'engager dès maintenant une réflexion sur l'évolution à moyen terme du système de gestion des aéroports, à laquelle les gestionnaires sont associés. Dans l'intervalle, le choix a été fait de s'appuyer sur des concessions d'une durée de trois à cinq ans, sauf cas particulier. Les principaux paramètres de ces nouvelles concessions ont été déterminés avec le souci d'obtenir des actes équilibrés qui ne fassent pas peser des risques financiers inconsidérés sur les établissements publics gestionnaires, au regard notamment des programmes d'investissement envisagés et de l'évolution de l'ensemble des recettes prévisibles. A cet égard, les concessions qui seront conclues prévoiront, à leur échéance, une indemnisation par l'Etat de l'endettement ainsi que le cahier des charges type de 1997 le permet.
