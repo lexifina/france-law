@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010432399
+
+- Question : [SEQ010432399](seq010432399.md) — Développement du multimédia et d'Internet dans les centres culturels et de coopération linguistique français à l'étranger
+
+## Réponse
+
+*Affaires étrangères, JO du 2001-05-31, page 1830*
+
+Réponse. - L'utilisation des nouvelles technologies est un axe fondamental de la modernisation des bibliothèques des établissements culturels français à l'étranger, en particulier depuis 1995 et la création du FICRE, fonds d'investissement pour les centres de ressources sur la France contemporaine qui, sur proposition des ambassades de France, transforme ces structures en médiathèques. Ainsi, sur les 240 médiathèques recensées du réseau, 132 offrent actuellement un accès Internet au public, ce qui est proportionnellement plus important que dans les bibliothèques publiques françaises. Parmi ces 132 médiathèques, 60 proposent deux postes de consultation ou plus. En 2000, 14 établissements ont bénéficié d'une subvention au titre du FICRE pour créer un espace de consultation Internet au sein de leur médiathèque-centre de ressources. Depuis 1995, un effort annuel très important est organisé pour former de manière continue les quelque 700 agents recrutés locaux de ces médiathèques, en s'appuyant en particulier sur les 35 conservateurs et bibliothécaires français détachés. Les formations, organisées par le ministère des affaires étrangères avec des prestataires reconnus pour leurs compétences (BPI, Paris-X, ENSSIB), donnent une importance croissante aux nouvelles technologies d'information et de communication, sans négliger cependant le " produit livre ". Le centre culturel et de coopération linguistique français de Sanaa au Yémen a déposé une demande de subvention " FICRE " pour 2001 de 237 500 francs, qui est actuellement en examen par les services du ministère des affaires étrangères.
