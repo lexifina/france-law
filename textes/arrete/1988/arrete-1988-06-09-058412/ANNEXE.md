@@ -30,117 +30,155 @@ Vu l'avis de la commission départementale ou régionale de la formation profess
 
 Considérant que l'entreprise se trouve dans l'obligation de supprimer ................. emplois se répartissant comme suit :
 
-ETABLISSEMENTS :.......
+ETABLISSEMENTS
 
-MAN./O.S.:.......
+|
 
-O.P.:.......
+MAN/O.S.
 
-ETAM :.......
+|
 
-TOTAL :.......
+O.P.
+
+|
+
+ETAM
+
+|
+
+TOTAL
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
 
 Considérant l'ensemble des mesures prises par l'entreprise pour réduire les répercussions sociales des suppressions d'emplois envisagées, et notamment :
 
+MESURES
+
+|
+
+MAN/O.S.
+
+|
+
+O.P.
+
+|
+
+ETAM
+
+|
+
+TOTAL
+
+|
+
 MUTATION INTERNE, dont C.O.F.I.S.:
-
-Mesures :.......
-
-Man/O.S.:.......
-
-O.P.:.......
-
-Etam :.......
-
-Total :.......
 
 RECLASSEMENT EXTERNE
 
-Mesures :.......
-
-Man/O.S.:.......
-
-O.P.:.......
-
-Etam :.......
-
-Total :.......
-
 CREATION D'ENTREPRISE
-
-Mesures :.......
-
-Man/O.S.:.......
-
-O.P.:.......
-
-Etam :.......
-
-Total :.......
 
 DISPENSE D'ACTIVITE
 
-Mesures :.......
-
-Man/O.S.:.......
-
-O.P.:.......
-
-Etam :.......
-
-Total :.......
-
 CESSATION ANTICIPEE D'ACTIVITE
-
-Mesures :.......
-
-Man/O.S.:.......
-
-O.P.:.......
-
-Etam :.......
-
-Total :.......
 
 CONVENTION DE FORMATION CONVERSION
 
-Mesures :.......
-
-Man/O.S.:.......
-
-O.P.:.......
-
-Etam :.......
-
-Total :.......
-
 O.M.I., etc.
 
-Mesures :.......
+|
 
-Man/O.S.:.......
+|
 
-O.P.:.......
+|
 
-Etam :.......
+|
 
-Total :.......
+|
+
+|
+
+|
+
+|
+
+|
 
 Considérant les mesures de reclassement interne à la sidérurgie par voie de C.O.F.I.S. prévues par l'entreprise pour les personnels dont l'emploi est supprimé, figurant au tableau de reclassement ci-dessous :
 
-ETABLISSEMENTS :.......
+ETABLISSEMENTS
 
-NOMBRE de bénéficiaires :.......
+|
 
-EMPLOIS de départ :.......
+NOMBRE de
 
-QUALIFICATIONS de départ :.......
+bénéficiaires
 
-EMPLOIS d'arrivée :.......
+|
 
-SITES d'arrivée :.......
+EMPLOIS
 
-QUALIFICATIONS d'arrivée :.......
+de
+
+départ
+
+|
+
+QUALIFICATIONS
+
+de départ
+
+|
+
+EMPLOIS
+
+d'arrivée
+
+|
+
+SITES
+
+d'arrivée
+
+|
+
+QUALIFICATIONS
+
+d'arrivée
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
 
 il est convenu ce qui suit :
 
@@ -160,7 +198,7 @@ Procédure d'examen réciproque
 
 La détermination des salariés concernés par la présente convention préalablement à leur entrée dans le dispositif, s'effectue dans le cadre de la procédure dite "examen réciproque entreprise/administration".
 
-Cet examen, conduit conjointement avec l'entreprise dans un délai d'un mois, a pour objet, sous l'autorité du préfet de vérifier, notamment, l'existence d'un contingent global d'emplois de reclassement correspondant au nombre de COFIS autorisés ainsi que la durée prévisible de ces emplois, qui ne peut être inférieure à trois ans conformément à l'article 46-II de la C.G.P.S.. Il permet également de vérifier la suppression de l'emploi du salarié placé en COFIS ou, à défaut, les conditions dans lesquelles le volontariat de celui-ci s'est exprimé. Les engagements de reclassement pris individuellement pour chaque bénéficiaire par l'entreprise, l'adéquation des formations à mettre en oeuvre compte tenu des emplois de reclassement proposés et du niveau de qualification des intéressés font également l'objet d'une vérification.
+Cet examen, conduit conjointement avec l'entreprise dans un délai d'un mois, a pour objet, sous l'autorité du préfet de vérifier, notamment, l'existence d'un contingent global d'emplois de reclassement correspondant au nombre de COFIS autorisés ainsi que la durée prévisible de ces emplois, qui ne peut être inférieure à trois ans conformément à l'article 46-II de la C.G.P.S.. Il permet égalemen de vérifier la suppression de l'emploi du salarié placé en COFIS ou, à défaut, les conditions dans lesquelles le volontariat de celui-ci s'est exprimé. Les engagements de reclassement pris individuellement pour chaque bénéficiaire par l'entreprise, l'adéquation des formations à mettre en oeuvre compte tenu des emplois de reclassement proposés et du niveau de qualification des intéressés font également l'objet d'une vérification.
 
 Article 3 :
 
@@ -196,7 +234,9 @@ Article 6 :
 
 Paiement de l'aide
 
-Le paiement de l'aide sera effectué par le centre de l'A.F.P.A. (désignation du centre A.F.P.A. de rattachement).
+L'ordonnateur de la dépense est le préfet du département (ou de la région) du ...
+
+Le comptable assignataire est le trésorier-payeur général du département (ou de la région) du ...
 
 Le versement de l'aide du F.N.E. sera effectué en fin d'opération sur présentation par l'entreprise des pièces justificatives et d'un bilan qualitatif ou compte tenu du contrôle technique et financier réalisé par l'A.F.P.A. (éventuellement, un premier versement de cette aide pourra être effectué en cours d'exécution de la convention sur justification des réalisations).
 
@@ -222,7 +262,7 @@ Contrôle et suivi
 
 L'entreprise ayant mis en oeuvre la structure de conversion prévue à l'article 53 de la C.G.P.S. s'engage à associer les représentants du personnel et la commission paritaire au suivi de la présente convention.
 
-L'entreprise s'engage à faciliter les contrôles jugés nécessaires par la délégation à l'emploi, les services extérieurs du travail et de l'emploi ou l'A.F.P.A. sur les conditions d'exécution de la présente convention au cours ou à l'issue des formations.
+L'entreprise s'engage à faciliter les contrôles jugés nécessaires par la délégation à l'emploi, les services déconcentrés du travail et de l'emploi ou l'A.F.P.A. sur les conditions d'exécution de la présente convention au cours ou à l'issue des formations.
 
 Elle s'engage également à informer immédiatement ces services ainsi que les instances de représentation du personnel des modifications apportées au dispositif de reclassement envisagé ainsi qu'à la liste des salariés concernés.
 
@@ -236,78 +276,10 @@ L'entreprise.
 
 Le ministre des affaires sociales et de l'emploi.
 
-TABLEAU I : Modules de formation
+Vous pouvez consulter les tableaux à l'adresse suivante :
 
-INTITULE DU MODULE (ou stage) :...............
+http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=19880619&pageDebut=08196&pageFin=&pageCourante=08198
 
-CATEGORIE du personnel concerné :...............
+NOTA :
 
-ORGANISME DISPENSATEUR :...............
-
-DUREE (en heures) (1) :...............
-
-EFFECTIF TOTAL :..............
-
-NOMBRE de groupes :..............
-
-PERIODE de réalisation :
-
-Début :.............................
-
-Fin :.............................
-
-NOMBRE TOTAL d'heures/stage improductives :...............
-
-COUTS de fonctionnement H.T.:
-
-L'h/stg :........................
-
-Total :........................
-
-Totaux :..............
-
-TABLEAU II : Plan de formation général
-
-STAGIAIRES (catégorie professionnelle) :..............
-
-NOMBRE :..............
-
-T :...................
-
-H :...................
-
-F :...................
-
-MODULES DE FORMATION :
-
-1 :...................
-
-2 :...................
-
-3 :...................
-
-4 :...................
-
-5 :...................
-
-6 :...................
-
-7 :...................
-
-8 :...................
-
-9 :...................
-
-10 :..................
-
-11 :..................
-
-12 :..................
-
-DUREE TOTALE (en heures) :..............
-
-DEPENSES de rémunération (charges comprises) :..............
-
-OBSERVATIONS :.............
-
-Totaux :..............
+Loi d'orientation 92-125 du 6 février 1992 art. 3 : Dans tous les textes législatifs et réglementaires, la référence à " services extérieurs " est remplacée par la référence à " services déconcentrés ".
