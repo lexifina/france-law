@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970700649
+
+- Question : [SEQ970700649](seq970700649.md) — Guichet unique de l'Université
+
+## Réponse
+
+*Éducation, JO du 1997-09-11, page 2369*
+
+Réponse. - Le 4 février 1997, M. François Bayrou, alors ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche, avait présenté à la presse son rapport d'étape de la réfome de l'université. Le guichet unique figurait au nombre des mesures que M. François Bayrou souhaitait mettre en oeuvre. Ainsi, " par une seule et même démarche, l'étudiant doit pouvoir accéder facilement sur le site universitaire qu'il fréquente à l'ensemble des services et des informations qui lui sont nécessaires, dans le domaine social, mutualiste, associatif, etc. Ce lieu d'information et de médiation l'aide dans ses démarches. Il permet de centraliser l'information sur les prestations diverses offertes aux étudiants ". Lors de son discours de politique générale du 19 juin 1997, le Premier ministre a annoncé la mise en place d'un plan social étudiant qui permettra à tous de travailler dans des conditions matérielles convenables. Le champ de ce plan social est très large puisqu'il couvre les aides financières directes et indirectes mais aussi les différents secteurs de la vie de l'étudiant : logement, restauration, oeuvres universitaires, santé,... Des discussions ont déjà eu lieu avec les organisations étudiantes représentatives, les mutuelles étudiantes, la conférence des présidents d'université, les syndicats. Le ministère de l'économie, des finances et de l'industrie et les départements ministériels assurant la tutelle d'établissements d'enseignement supérieur devront être associés à cette réforme. Ces rencontres doivent se dérouler jusqu'à l'automne. Un rapport d'étape sera établi dans le courant du mois de septembre.
