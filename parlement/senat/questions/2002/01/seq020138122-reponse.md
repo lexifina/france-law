@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020138122
+
+- Question : [SEQ020138122](seq020138122.md) — Délimitation du périmètre GIRZOM
+
+## Réponse
+
+*Aménagement du territoire, JO du 2002-04-18, page 1105*
+
+Le ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question posée au ministre de l'économie, des finances et de l'industrie, relative à l'extension du périmètre d'intervention du GIRZOM à la commune de Rosbruck et à celles sous le territoire desquelles on a exploité du charbon au cours des dix dernières années. Le volet après-mines du contrat de plan Etat-région a fait l'objet d'une convention d'application qui a été signée le 9 août 2001 par l'Etat, la région et les trois départements lorrains concernés. La démarche après-mines s'inscrit dans une logique d'aménagement du territoire à sept ans et comporte plusieurs types d'actions constituant les leviers d'un développement durable. Les objectifs de cette démarche sont organisés autour de trois axes et parmi l'ensemble des mesures de l'axe 2, portant sur l'attractivité des territoires, figure une série de mesures relatives à la requalification des espaces dégradés et de l'habitat. En faveur de la requalification urbaine dans le bassin houiller, l'Etat, la région et le département mobiliseront respectivement : Etat : 21,34 millions d'euros ; région Lorraine : 9,60 millions d'euros ; département de la Moselle : 4,12 millions d'euros. Préalablement, dans l'ancien contrat de plan, les crédits ex-GIRZOM de l'Etat bénéficiaient effectivement à un nombre limité de communes ; il s'agissait des communes anciens sièges d'exploitation ou qui avaient un patrimoine minier sur leur territoire. Ces crédits devaient permettre, à l'origine, la remise à niveau du patrimoine des Houillères du bassin lorrain (voirie et réseaux divers
