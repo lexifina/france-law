@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021204702
+
+- Question : [SEQ021204702](seq021204702.md) — Enseignement des religions à l'école
+
+## Réponse
+
+*Jeunesse, JO du 2003-02-20, page 635*
+
+L'intelligence de nos sociétés contemporaines et de notre environnement le plus quotidien, en effet, rend indispensable la connaissance du fait religieux dans son inscription sociale et culturelle, dans ses multiples dimensions, temporelles et spatiale, littéraire, artistique et philosophique. Le rapport Debray sur " l'enseignement du fait religieux dans l'école laïque ", remis le 14 mars 2002, se situait dans le prolongement d'une réflexion entamée au sein de l'école dès les années 1980/1990 (rapport Joutard). Il montre que le parcours des élèves dans les cycles de l'enseignement secondaire - collège et lycée - leur permet d'aborder l'étude du fait religieux à la lumière des différentes disciplines professées. Des dispositifs comme celui des itinéraires de découvertes, en collège, ou celui des travaux personnels encadrés, en lycée, autorisent aujourd'hui la mise en oeuvre d'une approche transversale et pluridisciplinaire dans le cadre des enseignements existants, en partant des matériaux et données sensibles propres à chacune des disciplines (textes, oeuvre d'art, carte, etc.). La démarche accomplie par les historiens et les géographes peut s'élargir aux littéraires, aux philosophes ou encore aux professeurs d'enseignement artistique ou de langues. Au cours de leur formation initiale et continue, les professeurs de l'enseignement primaire et secondaire devront pouvoir bénéficier de la réflexion des meilleurs spécialistes. La création de l'Institut européen en sciences des religions (17, rue E.-Cresson, 75014 Paris), la tenue du colloque national sur " l'enseignement du fait religieux " organisé par la direction de l'enseignement scolaire (DESCO) du 5 au 7 novembre 2002 sont des exemples de l'effort entrepris.
