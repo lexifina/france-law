@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010533018
+
+- Question : [SEQ010533018](seq010533018.md) — Programmes militaires
+
+## Réponse
+
+*Défense, JO du 2001-07-19, page 2386*
+
+La baisse du coût des programmes d'armement constitue l'un des axes stratégiques de la réforme entreprise par la délégation générale pour l'armement (DGA) au début de l'année 1997. Sa politique d'achat est dorénavant fondée sur un engagement pluriannuel de l'Etat au travers de commandes globales et sur une responsabilisation accrue de la part des industriels, incluant notamment la mise en concurrence des fournisseurs intervenant à différents niveaux. Le montant des commandes globales cumulées a ainsi atteint 90,1 milliards de francs fin 2000. Les commandes globales, qui offrent aux industriels une plus grande visibilité de leur plan de charge, permettent d'optimiser leurs approvisionnements et leurs relations avec les sous-traitants et de réduire leurs frais financiers. Elles constituent une source importante de diminution du coût des programmes d'armement. Ces mesures accompagnées d'une mise en contrôle de gestion des coûts. En accord avec les états-majors concernés, l'objectif de réduction de coût lors de l'achèvement des programmes et des opérations placés en contrôle de gestion a été fixé à 118,2 milliards de francs. En avril 2001, plus de 60,4 milliards de francs étaient d'ores et déjà acquis. Par ailleurs, pour prendre la conduite des programmes d'armement plus efficace, deux principes ont été édictés : renforcer les études préalables en identifiant précisément les problèmes techniques pouvant survenir avant le lancement des développements, puis les mener rapidement. il s'agit, sans retarder la mise en service d'un matériel, de positionner au plus tard la décision de lancement de réalisation des programmes, permettant ainsi de réduire les coûts de développement et d'industrialisation.
