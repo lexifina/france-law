@@ -1,14 +1,14 @@
-# Article 1
+# Article 1er
 
-1° Champ d'application professionnel :
+1° Champ d'application professionnel
 
 Sont liées par la présente convention collective nationale les entreprises visées par l'annexe I sur son champ d'application professionnel.
 
-2° Champ d'application territorial :
+2° Champ d'application territorial
 
 La présente convention s'applique aux entreprises ou établissements répondant aux dispositions du 1° ci-dessus pour leur personnel métropolitain et pour leur personnel placé en situation de déplacement dans les conditions prévues à l'article 11 ci-après.
 
-3° Personnel visé :
+3° Personnel visé
 
 Le personnel visé par la présente convention est ainsi défini :
 
@@ -18,37 +18,39 @@ a) Années de début (position I). - Les dispositions relatives aux années de d
 
 - autres diplômés engagés pour remplir immédiatement ou au bout d'un certain temps des fonctions de cadres techniques, administratifs ou commerciaux et titulaires de l'un des diplômes nationaux suivants :
 
-- Institut supérieur des affaires ;
+- institut supérieur des affaires ;
 
-- Ecole des hautes études commerciales ;
+- école des hautes études commerciales ;
 
-Ecoles supérieures de commerce et d'administration des entreprises ;
+- écoles supérieures de commerce et d'administration des entreprises ;
 
-- Ecole supérieure des sciences économiques et commerciales ;
+- école supérieure des sciences économiques et commerciales ;
 
-- Institut commercial relevant d'une université ;
+- institut commercial relevant d'une université ;
 
-- Institut supérieur d'études politiques de Paris, Aix-en-Provence, Bordeaux, Grenoble, Lyon, Strasbourg et Toulouse ;
+- institut supérieur d'études politiques de Paris, Aix-en-Provence, Bordeaux, Grenoble, Lyon, Strasbourg et Toulouse ;
 
-- Centre d'études littéraires supérieures appliquées ;
+- centre d'études littéraires supérieures appliquées ;
 
-- Agrégations, doctorats (docteur d'État, docteur ingénieur, docteur 3e cycle), diplômes d'études approfondies, diplômes d'études supérieures spécialisées, maîtrise et licences, délivrés par les universités des lettres, de droit, des sciences économiques, des sciences humaines et de sciences ;
+- agrégations, doctorats (docteur d'Etat, docteur ingénieur, docteur 3e cycle), diplômes d'études approfondies, diplômes d'études supérieures spécialisées, maîtrise et licences, délivrés par les universités des lettres, de droit, des sciences économiques, des sciences humaines et de sciences ;
 
-- Médecine du travail (s'agissant de médecins de services médicaux du travail d'entreprise ou d'établissement).
+- médecine du travail (s'agissant de médecins de services médicaux du travail d'entreprise ou d'établissement) ;
 
-La possession de deux des diplômes nationaux énumérés ci-dessus sauf si ces deux diplômes sont une licence et une maîtrise dans la même discipline universitaire, ouvre droit aux dispositions prévues à ce sujet àl'article 21 de la présente convention collective dans la mesure où :
+- titulaires d'un certificat de qualification de la catégorie D obtenu dans le cadre des dispositions des alinéas 12 à 15 de l'article 1er de l'accord national du 12 juin 1987 relatif aux problèmes généraux de l'emploi dans la métallurgie, ainsi que des dispositions de l'annexe I de celui-ci relative à cette catégorie D.
 
-- la durée totale des études à temps plein conduisant à l'obtention successive de deux diplômes est telle que le second est normalement obtenu au plus tôt à l'âge de vingt-quatre ans ;
+La possession de 2 des diplômes nationaux énumérés ci-dessus, sauf si ces 2 diplômes sont une licence et une maîtrise dans la même discipline universitaire, ouvre droit aux dispositions prévues à ce sujet à l'article 21 de la présente convention collective dans la mesure où :
 
-- le second diplôme constitue un complément du premier parce qu'il sanctionne une compétence accrue dans une spécialisation donnée, ou une nouvelle spécialisation, toutes deux étant utilisables par l'employeur.
+- la durée totale des études à temps plein conduisant à l'obtention successive de 2 diplômes est telle que le second est normalement obtenu au plus tôt à l'âge de 24 ans ;
+
+- le second diplôme constitue un complément du premier parce qu'il sanctionne une compétence accrue dans une spécialisation donnée, ou une nouvelle spécialisation, toutes deux étant utilisables par l'employeur ;
 
 b) Positions II et III. - Pour l'application des dispositions relatives à ces positions et pour les ingénieurs comme pour les cadres administratifs ou commerciaux, seul doit être retenu le critère de la fonction exercée (cf. art. 4 et 6).
 
 Les ingénieurs et cadres administratifs ou commerciaux ne justifiant pas d'un des diplômes énumérés au paragraphe a bénéficient donc de ces dispositions d'après les fonctions effectivement remplies.
 
-4° Les ingénieurs et titulaires de diplômes des écoles, facultés, etc., visés au paragraphe a, qui auraient conclu un contrat de louage de services en vue de remplir des fonctions du ressort normal des conventions collectives ouvriers et employés, ne sont pas visés par la présente convention.
+4° Les ingénieurs et titulaires de diplômes des écoles, facultés, etc., visés au paragraphe a, qui auraient conclu un contrat de louage de services en vue de remplir des fonctions du ressort normal des conventions collectives ouvriers et employés ne sont pas visés par la présente convention.
 
-5° Stagiaires :
+5° Stagiaires
 
 Les stagiaires ne sont pas visés par les dispositions de la présente convention, sous réserve des dispositions ci-après :
 
@@ -60,22 +62,28 @@ b) Pourront également être considérés comme stagiaires les ingénieurs ou di
 
 - lorsque la poursuite d'études universitaires les conduira à ne participer avec l'accord de l'entreprise qu'à temps partiel à l'activité de celle-ci ;
 
-- lorsque l'entreprise leur offrira la possibilité effective, au cours du stage, de préparer une thèse de doctorat de troisième cycle, de docteur ingénieur ou de doctorat d'État.
+- lorsque l'entreprise leur offrira la possibilité effective, au cours du stage, de préparer une thèse de doctorat de troisième cycle, de docteur ingénieur ou de doctorat d'Etat.
 
-Dans ces deux cas, la durée du stage pourra atteindre deux années sans excéder cette durée.
+Dans ces deux cas, la durée du stage pourra atteindre 2 années sans excéder cette durée.
 
 La disposition de l'article 21 de la présente convention sur les années d'expérience s'applique aux années de stage dont il s'agit.
 
 La situation du stagiaire doit être précisée par une lettre d'accompagnement indiquant expressément les conditions du stage.
 
-6° Directeurs salariés et cadres supérieurs :
+6° Directeurs salariés et cadres supérieurs
 
 La situation des directeurs salariés et cadres supérieurs à l'égard des clauses de la présente convention est ainsi déterminée :
 
-Ne sont visés ni les directeurs salariés, ni les cadres occupant des fonctions supérieures à la position IIIç définie à l'article 21 ci-dessous, titulaires d'un contrat individuel réglant leur situation d'ensemble et dont les clauses générales ne peuvent être globalement moins favorables que celles de la présente convention.
+Ne sont visés ni les directeurs salariés ni les cadres occupant des fonctions supérieures à la position III C définie à l'article 21 ci-dessous, titulaires d'un contrat individuel réglant leur situation d'ensemble et dont les clauses générales ne peuvent être globalement moins favorables que celles de la présente convention.
 
 Lorsqu'un cadre relevant du champ d'application défini ci-dessus fait ou a fait l'objet d'une promotion à un poste supérieur relevant de l'alinéa précédent, il ne peut en résulter globalement une réduction des avantages dont il bénéficiait précédemment en sa qualité de cadre.
 
-Lorsqu'un cadre est engagé dans une entreprise directement pour des fonctions supérieures à la position IIIç, les clauses générales de la présente convention lui sont applicables pour toutes les questions qui ne sont pas visées par son contrat individuel.
+Lorsqu'un cadre est engagé dans une entreprise directement pour des fonctions supérieures à la position III C, les clauses générales de la présente convention lui sont applicables pour toutes les questions qui ne sont pas visées par son contrat individuel.
 
-7° L'ingénieur ou cadre rémunéré essentiellement sur le chiffred'affaires ou d'après la prospérité de l'entreprise ou de l'établissement, est visé par les clauses de la présente convention collective, à l'exception des représentants de commerce qui ressortissent à une autre convention collective nationale ou territoriale ou au statut légal de V.R.P.
+7° L'ingénieur ou cadre rémunéré essentiellement sur le chiffre d'affaires ou d'après la prospérité de l'entreprise, ou de l'établissement, est visé par les clauses de la présente convention collective, à l'exception des représentants de commerce qui ressortissent à une autre convention collective nationale ou territoriale ou au statut légal de VRP.
+
+(1) Cf. champ d'application en annexe I.
+
+NOTA :
+
+(1) Cf. champ d'application en annexe I.
