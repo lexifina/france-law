@@ -1,8 +1,6 @@
 # Article Annexe
 
-INFIRMIER GENERAL OU INFIRMIERE GENERALE
-
-- MAJ : Indices majorés au 1er juillet 1974 :
+INFIRMIER GENERAL OU INFIRMIERE GENERALE :
 
 ==============================
 
@@ -16,15 +14,15 @@ Echelon : : : (2)
 
 fonction: : :
 
-(1) : 685 : 546 :
+(1) : 701 : 508 :
 
-4 éch : 645 : 515 :
+4 éch : 663 : 489 :
 
-3 éch : 600 : 481 : 4 ans
+3 éch : 626 : 470 : 4 ans
 
-2 éch : 560 : 451 : 3 ans
+2 éch : 582 : 447 : 3 ans
 
-1 éch : 520 : 420 : 2 ans
+1 éch : 536 : 416 : 2 ans
 
 ==============================
 
@@ -33,8 +31,6 @@ fonction: : :
 (2) Durée moyenne d'ancienneté exigée dans chaque échelon.
 
 INFIRMIER GENERAL ADJOINT OU INFIRMIERE GENERALE ADJOINTE :
-
-- MAJ : Indices majorés au 1er juillet 1974 :
 
 ==============================
 
@@ -57,3 +53,7 @@ ECHELONS INDICES : DUREE
 1 éch : 445 : 363 : 2 ans
 
 ==============================
+
+NOTA :
+
+Effet rétroactif au 1er août 1977 prévu par l'article 1er de l'arrêté du 14 mars 1978.
