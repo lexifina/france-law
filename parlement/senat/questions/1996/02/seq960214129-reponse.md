@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960214129
+
+- Question : [SEQ960214129](seq960214129.md) — Reconnaissance des qualifications académiques
+
+## Réponse
+
+*Culture, JO du 1996-04-25, page 1008*
+
+Réponse. - S'il n'existe pas, à l'heure actuelle, d'équivalence entre les diplômes français et les diplômes étrangers dans le domaine de l'enseignement musical, diverses commissions ont néanmoins été prévues pour examiner la situation des titulaires de titres ou diplômes, délivrés notamment par les autres Etats membres de l'Union européenne, candidats à certains examens ou concours organisés par l'Etat français. Dans le cadre des examens du diplôme d'Etat de professeur de musique et du certificat d'aptitude aux fonctions de directeur ou de professeur de musique, le ministre chargé de la culture peut accorder, après avis d'une commission nationale créée par l'arrêté du 22 avril 1994 modifié, la reconnaissance de diplômes musicaux européens, autorisant ainsi ses titulaires à être candidats. Une autre commission instituée auprès du ministre chargé des collectivités locales a également été prévue par le décret no 94-743 du 30 août 1994. Lorsque l'arrêté fixant les règles de sa saisine et de son fonctionnement sera publié, les candidats à un concours de la fonction publique territoriale française, titulaires de diplômes délivrés dans un autre Etat membre de l'Union européenne, pourront en demander l'assimilation par ladite commission avec les diplômes nationaux exigés, pour pouvoir faire acte de candidature aux concours donnant accès aux cadres d'emploi d'enseignant artistique. Cette commission se prononcera par décisions motivées après avoir apprécié le degré des connaissances et des qualifications que le diplôme présenté permet de présumer chez son titulaire, en fonction de la nature et de la durée des études nécessaires, ainsi que, le cas échéant, des formations pratiques dont l'accomplissement était exigé pour l'obtenir.
