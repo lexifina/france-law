@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701829
+
+- Question : [SEQ970701829](seq970701829.md) — Incidence des restrictions budgétaires dans les hôpitaux sur la pratique de l'IVG
+
+## Réponse
+
+*Santé, JO du 1998-05-21, page 1650*
+
+Réponse. - Le Gouvernement entend permettre le libre exercice du droit des femmes à pratiquer une interruption volontaire de grossesse et assurer ainsi la pleine exécution de la loi Veil. Pour autant, cette loi oblige seulement les établissements publics de santé pratiquant la gynécologie-obstétrique ou la chirurgie à organiser cette activité et à faire fonctionner un centre de planification familiale. Les établissements de santé privés sont libres d'effectuer ou non des IVG, sous réserve, pour les établissements admis à participer au service public hospitalier, que les besoins locaux soient satisfaits. Quant aux médecins, sages-femmes, infirmiers ou auxiliaires médicaux, hospitaliers ou libéraux, ils disposent d'une clause de conscience qui leur permet de refuser d'effectuer des IVG. Cette activité doit être considérée comme une mission à part entière du service de gynécologie-obstétrique de l'établissement, au même titre que la cancérologie ou la procréation médicalement assistée. Pour ce qui concerne le fonctionnement des centres pratiquant les IVG, les difficultés ne viennent pas tant d'un manque de moyens financiers que d'un renouvellement très difficile des personnels affectés à cette activité. En effet, peu de praticiens hospitaliers à temps plein acceptent de pratiquer des IVG, qui sont donc assurées principalement par des praticiens à temps partiel, des attachés et des contractuels. La ministre de l'emploi et de la solidarité et le secrétaire d'Etat à la santé ont chargé le professeur Nissand de leur faire des propositions visant à assurer la pérennité des centres d'IVG et le libre accès des femmes à l'interruption volontaire de grossesse.
