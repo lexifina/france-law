@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021003530
+
+- Question : [SEQ021003530](seq021003530.md) — Devenir de la flamme postale dans certaines communes
+
+## Réponse
+
+*Industrie, JO du 2003-02-13, page 576*
+
+La Poste a le souci permanent d'optimiser ses organisations et de moderniser son outil de production. L'installation de nouveaux matériels de tri, la modification des liaisons d'acheminement, le regroupement des tournées de distribution, l'ouverture de nouveaux établissements ou plus simplement le transfert de trafic d'un centre à un autre répondent à cette nécessité de modernisation et d'adaptation à une activité en croissance. C'est ce qui a permis à la Poste de distribuer 26 milliards d'objets en 2002, alors qu'elle n'en distribuait que 11 milliars, il y a trente ans. Cet effort doit encore être poursuivi, ces prochaines années, pour assurer la pérennité du premier service public de proximité en France et continuer à offrir une bonne qualité de service aux clients sur l'ensemble du territoire. C'est dans ce cadre que La Poste des Yvelines conduit une expérimentation consistant à regrouper sur un seul site, doté de machine performantes d'oblitération et de tri, le courrier déposé dans les boîtes aux lettres de plusieurs localités du nord-est du département. Ce projet participe du souci constant qu'à La Poste d'améliorer le traitement du courrier en industrialisant les processus et en permettant de réaliser en simultané l'oblitération et le tri départ. La Poste offrira ainsi à ses clients la garantie d'une date certaine de dépôt et de tri. Le cachet de La Poste, réalisé au moyen du timbre à date apposé sur le courrier déposé dans les bureaux de poste, conservera toute sa valeur philatélique. Par ailleurs, la Poste pourra continuer à organiser des actions en partenariat avec les associations philatéliques et les communes intéressées en utilisant la flamme philatélique comme support de communication.
