@@ -1,4 +1,4 @@
-# Article Annexe
+# Article ANNEXE
 
 RELATIF AUX DÉLIMITATIONS DES RÉGIONS CYNÉGÉTIQUES, AUX CONSEILS RÉGIONAUX DE LA CHASSE ET MODIFIANT L'ARRÊTÉ DU 27 AVRIL 1972 RELATIF À LA DÉSIGNATION DES MEMBRES DU CONSEIL NATIONAL DE LA CHASSE ET DE LA FAUNE SAUVAGE VISÉS À L'ARTICLE R. 221-2 DU CODE RURAL ET DES MEMBRES DU CONSEIL D'ADMINISTRATION DE L'OFFICE NATIONAL DE LA CHASSE
 
@@ -124,7 +124,7 @@ Les agents sont recrutés par le président, avec l'accord du conseil d'administ
 
 Article 15
 
-La comptabilité du conseil, tenue suivant les dispositions du plan comptable général, fait apparaître :
+La comptabilité du conseil, tenue suivant les dispositions du plan comptable élaboré par l'Office national de la chasse , fait apparaître :
 
 I. - Les ressources comprenant :
 
