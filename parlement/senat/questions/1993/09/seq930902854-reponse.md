@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930902854
+
+- Question : [SEQ930902854](seq930902854.md) — Programme Globus
+
+## Réponse
+
+*Action humanitaire, JO du 1994-02-17, page 357*
+
+Réponse. - Le programme Globus permet à des jeunes, quel que soit leur niveau d'études, d'effectuer leur service national pendant seize mois dans le cadre de projets à caractère " humanitaire " (aide à l'enfance, protection des enfants des rues, aide médicale, aide de post-urgence...) ou concernant les droits de l'homme. Le programme Globus veut se distinguer d'autres formes de service national en coopération (mise à disposition de CSN auprès des volontaires du progrès, de la délégation catholique pour la coopération...) en privilégiant les projets relatifs à des situations d'urgence humanitaire et en acceptant des candidats non universitaires. Il est vrai que la majorité des projets de la phase de lancement auraient pu relever d'autres formes de coopération (AFVP, DCC) mais le ministère s'attache désormais à réorienter les nouveaux projets vers des actions plus strictement humanitaires. Par ailleurs la proportion de candidats non universitaires tend à diminuer. En ce qui concerne les effectifs, le nombre de CSN se stabilise à un contingent d'environ 130 jeunes présents sur le terrain. Si la spécificité du programme est maintenue il serait dangereux, pour des raisons d'efficacité du suivi des CSN et des projets sur le terrain, d'augmenter ce nombre de façon trop importante. La majorité des projets concerne encore des domaines aussi proches du développement que des situations d'urgence humanitaire. Les CSN ne pouvant pas être affectés en " zone de guerre " et leur période de service de seize mois ne pouvant être fractionnée en plusieurs missions dans des pays différents, cette situation ne pourra pas changer dans un avenir très proche.
