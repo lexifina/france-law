@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980810118
+
+- Question : [SEQ980810118](seq980810118.md) — Carte professionnelle de gestion immobilière
+
+## Réponse
+
+*Justice, JO du 1998-11-12, page 3650*
+
+Réponse. - La loi nº 70-9 du 2 janvier 1970, dite loi Hoguet, fait obligation au demandeur d'une carte professionnelle de justifier de son aptitude dans les conditions prévues à la section 1 du chapitre II (art. 11 à 15) du décret nº 72-678 du 20 juillet 1972, c'est-à-dire par la possession de diplômes requis ou, à défaut, par l'occupation de certains emplois. Si le titulaire de la carte professionnelle ne peut assumer personnellement et effectivement la direction d'un établissement, d'une succursale, d'une agence ou d'un bureau, il doit avoir recours à un directeur qui, en application de l'article 3 in fine de la loi précitée, doit satisfaire à des conditions de compétence minimale. C'est dans cette optique que l'article 16 du décret du 20 juillet 1972 prévoit que " les personnes qui, sans être titulaires de la carte professionnelle, assument la direction de l'entreprise, telles que les gérants, mandataires ou salariés, ou celle d'un établissement, d'une succursale, d'une agence ou d'un bureau ont à justifier de leur aptitude professionnelle dans les conditions prévues à l'article 11 ou dans celles prévues par les articles 12 et 13 ou à l'article 14, avec un temps d'activité réduit de moitié ". Les dispositions particulières de l'article 16 ne trouvent donc à s'appliquer qu'à l'égard des personnes qui, sous le contrôle du titulaire de la carte, entendent assumer la direction d'un établissement principal ou d'un établissement secondaire, et sont sans incidence sur les délais d'activité requis des articles 12 à 14 du décret précité pour qu'une personne puisse prétendre à l'obtention d'une carte professionnelle, que ce soit dans la spécialité " gestion immobilière " ou " transactions sur immeubles et fonds de commerce ".
