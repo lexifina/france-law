@@ -34,6 +34,12 @@ I
 
 |
 
+Centre de formation à la gestion des ressources humaines |
+
+I
+
+|
+
 Ecole nationale supérieure des ingénieurs des constructions aéronautiques
 
 |
