@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030406858
+
+- Question : [SEQ030406858](seq030406858.md) — Enfants français à l'étranger : suppression des aides à durée déterminée
+
+## Réponse
+
+*Affaires étrangères, JO du 2005-01-27, page 219*
+
+A la différence du régime en vigueur en France, l'assistance aux Français les plus démunis vivant à l'étranger ne constitue pas un droit. Le bénéfice éventuel en est subordonné à l'évaluation de la situation personnelle et familiale de chaque demandeur. Les allocations à durée déterminée ont été conçues pour apporter une aide ponctuelle, pendant une durée limitée, à nos ressortissants temporairement dans le besoin, notamment à la suite d'événements personnels ou familiaux entraînant des difficultés financières passagères. Chaque situation fait l'objet d'un examen attentif. Par essence, ce type de secours ne peut donc répondre aux difficultés financières récurrentes auxquelles peuvent être confrontées certaines familles françaises vivant à l'étranger. Si ces familles peuvent bénéficier de bourses scolaires attribuées par l'Agence pour l'enseignement français à l'étranger (AEFE) afin de permettre à leurs enfants de suivre un enseignement français homologué à l'étranger, elles ne sauraient parallèlement prétendre à une aide sociale consulaire complémentaire, inspirée du dispositif des allocations familiales existant en France, le montant actuel de la dotation budgétaire du chapitre 46-94 ne le permettant pas, en tout état de cause. Dans le cas des parents isolés, il appartient en premier lieu aux pères français d'assumer leurs obligations alimentaires vis à vis de leurs enfants. A cet effet, nos postes consulaires s'efforcent d'aider les mères en les guidant dans leurs démarches en France en vue d'obtenir le versement d'une pension alimentaire des pères n'assumant pas leurs obligations légales.
