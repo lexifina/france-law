@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011136651
+
+- Question : [SEQ011136651](seq011136651.md) — Présidence du Conseil de défense européen
+
+## Réponse
+
+*Affaires européennes, JO du 2002-01-10, page 85*
+
+L'honorable parlementaire a bien voulu interroger le ministre délégué chargé des affaires européennes sur l'attitude du Danemark à l'égard de la politique européenne de sécurité et de défense, dans la perspective de sa future présidence du conseil des ministres de l'Union européenne. En matière de défense européenne, le Danemark bénéficie d'une dérogation au titre de l'article 6 du protocole annexé au traité sur l'Union européenne et au traité instituant la Communauté européenne. Ce texte dispose que " le Danemark ne participe pas à l'élaboration et à la mise en oeuvre des décisions et actions de l'Union qui ont des implications en matière de défense, mais il ne fera pas obstacle au développement d'une coopération plus étroite entre les Etats membres dans ce domaine (...) ". Le Danemark a néanmoins participé aux structures chargées de la politique européenne de sécurité et de défense. Il a pris sa place au sein du comité militaire. Dans la perspective de sa présidence au second semestre 2002, le Danemark souhaite tirer les conséquences de sa spécificité en matière de défense. Il renoncerait ainsi à assurer la présidence d'un certain nombre d'organes et de comités, au profit de la présidence suivante, dès lors que les sujets traités auraient directement trait à la défense ou bien qu'ils auraient des implications en matière de défense. La politique européenne de sécurité et de défense relève d'une approche globale, dont il est difficile de séparer les aspects civils et militaires. C'est dans cet esprit que la France examinera la manière dont le Danemark entend organiser sa présidence en ce domaine.
