@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951112681
+
+- Question : [SEQ951112681](seq951112681.md) — Loi sur le développement rural : prise en compte des déplacements d'outre-mer
+
+## Réponse
+
+*Aménagement du territoire, JO du 1996-07-18, page 1820*
+
+Réponse. - La préparation d'un plan pour l'avenir du monde rural s'inscrit dans le cadre de l'application de la loi d'orientation pour l'aménagement et le développement du territoire. Cette loi s'appuie sur un principe majeur, celui d'une action différenciée de la puissance publique pour lutter contre " l'inégalité " des territoires et garantir à tous nos compatriotes une réelle égalité des chances. Elle définit pour cela trois types de zones : les zones d'aménagement du territoire, les territoires ruraux de développement prioritaire et les zones urbaines sensibles. Les départements d'outre-mer s'inscrivent clairement dans ce dispositif. En particulier 80 p. 100 de la surface du département de la Réunion sont classés en territoire de développement prioritaire. L'outre-mer bénéficie également des mesures prises dans le pacte de relance pour la ville puisque cinq de ses quartiers ont été retenus dans la liste des zones franches urbaines. La modification des critères d'éligibilité aux zones de redynamisation urbaine permettra en outre à d'autres quartiers urbains défavorisés de l'outre-mer de bénéficier des dispositions qui s'y attachent. Enfin, s'agissant des zones d'aménagement du territoire, la reconnaissance du caractère de " zone prioritaire ultrapériphérique " à l'ensemble des départements d'outre-mer est actuellement étudiée à la demande du Premier ministre. A la suite des assises de l'égalité sociale et du développement, une consultation des instances de nos quatre départements d'outre-mer a été engagée sous l'égide des préfets. A partir de ce travail, des propositions seront formulées qui pourraient s'inscrire dans un texte législatif.
