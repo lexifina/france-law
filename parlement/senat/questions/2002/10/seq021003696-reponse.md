@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021003696
+
+- Question : [SEQ021003696](seq021003696.md) — Protection sociale des étudiants étrangers effectuant des stages en entreprises françaises
+
+## Réponse
+
+*Jeunesse, JO du 2002-12-19, page 3160*
+
+En application des dispositions de l'article L. 412-8 du code de la sécurité sociale, les étudiants bénéficient des garanties en matière d'accidents du travail pour les risques courus dans le cadre des activités d'enseignement suivies en ateliers ou en laboratoires et par le fait ou à l'occasion des stages obligatoires prévus au programme de l'enseignement. S'agissant des stages, il convient de préciser que l'identification d'une activité de formation comme étant un stage (article D. 412-6 du code de la sécurité sociale) ouvrant droit aux garanties en matière d'accidents du travail des étudiants, résulte de la réunion de quatre conditions : être prévue dans le programme de l'enseignement ; être destinée à mettre en pratique l'enseignement dispensé par l'établissement d'appartenance de l'étudiant ; se dérouler hors de l'établissement ; ne pas donner lieu à une rémunération dans l'entreprise d'accueil (avec toutefois une tolérance égale à 30 % du SMIC). D'autre part, il faut noter que l'activité qui y est accomplie doit entrer en ligne de compte dans l'évaluation de l'aptitude des intéressés à l'obtention du titre ou grade préparé. Enfin, le stage doit également donner lieu à la conclusion d'une convention entre l'entreprise d'accueil et l'établissement d'origine de l'étudiant. Sous réserve d'une inscription pédagogique et administrative dans l'établissement, et dans la mesure où le code de la sécurité sociale ne prévoit aucune condition d'âge ou de nationalité, l'ensemble des étudiants étrangers, accueillis ou non dans le cadre d'un programme d'échanges, et effectuant un stage obligatoire dans les conditions susmentionnées, bénéficie des garanties en matière d'accidents du travail.
