@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901112625
+
+- Question : [SEQ901112625](seq901112625.md) — Assurances sociales des moniteurs de ski
+
+## Réponse
+
+*Affaires sociales, JO du 1991-07-25, page 1548*
+
+Réponse. - Suite au manque de neige de l'hiver 1989-1990 et face aux difficultés de trésorerie que pouvaient rencontrer les moniteurs de ski, le ministère des affaires sociales et de la solidarité a recommandé à la caisse nationale d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles de bien vouloir inviter les caisses mutuelles régionales concernées à faire usage des possibilités offertes par la réglementation pour tenir compte des situations localement constatées. A cet effet, une attention toute particulière a été apportée aux demandes des moniteurs de ski, dont la situation financière s'est trouvée directement compromise, visant à obtenir des délais de paiement pour leurs cotisations dues ou la prise en charge de celles-ci par l'action sanitaire et sociale. Les caisses mutuelles régionales ont par ailleurs été invitées à faire usage avec la plus grande bienveillance des possibilités de remise des majorations de retard prévues à l'article D. 612-20 du code de la sécurité sociale. Toutefois, ces recommandations ne permettaient pas de déroger au principe fondamental édicté par la loi (article L. 615-8 du code de la sécurité sociale) qui subordonne le droit aux prestations au paiement préalable des cotisations. Il s'agit en effet d'un principe qui est à la base même de la législation du régime d'assurance maladie et maternité des travailleurs indépendants et qui régit l'octroi de délais de paiement par les organismes quels que soient les motifs pour lesquels ces délais sont accordés. En l'espèce, les recommandations ministérielles données à la suite du manque d'eneigement ont insisté sur la nécessité d'informer les bénéficiaires de délais de paiement des stipulations de la législation en la matière.
