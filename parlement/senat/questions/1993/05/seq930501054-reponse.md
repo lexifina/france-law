@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930501054
+
+- Question : [SEQ930501054](seq930501054.md) — Harmonisation de la valeur juridique de la carte d'identité et du passeport
+
+## Réponse
+
+*Intérieur, JO du 1993-08-05, page 1346*
+
+Réponse. - Le passeport est un titre d'identité tout comme la carte nationale d'identité. Il est établi par l'autorité administrative en vue de la circulation transfrontière mais, s'il mentionne la nationalité de son titulaire qui est normalement celle de l'Etat dont les autorités ont délivré le document, il ne constitue qu'un titre de voyage. Sur le plan du droit interne de la nationalité, aucune force probante particulière ne s'attache à ce document qui est un élément parmi d'autres de la possession de l'état de Français. En revanche, la carte nationale d'identité permet de prouver sa nationalité française. Elle s'est vu conférer en pratique, et bien qu'aucune disposition légale ne lui attribue la force probante réservée au certificat de nationalité, un effet probatoire indirect. Elle dispense, en effet, son titulaire de la production d'un certificat de nationalité dans les procédures administratives les plus courantes et tient lieu de remise d'un tel certificat. Elle permet l'établissement de la fiche d'état civil et de nationalité, rassemblant en un document unique les mentions relatives à l'état civil et à la nationalité de l'individu. Si la recherche d'une certaine harmonisation des réglementations européennes est souhaitable dans le domaine des documents d'identité et de voyage, cet objectif étant d'ailleurs difficile à atteindre compte tenu de la diversité des réglementations existantes au sein de la Communauté européenne, elle ne l'est pas sur le point particulier évoqué par l'honorable parlementaire pour les raisons indiquées ci-dessus. Il n'est donc pas envisagé de reconnaître une force probante identique à la carte nationale d'identité et au passeport.
