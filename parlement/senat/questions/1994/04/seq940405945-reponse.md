@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940405945
+
+- Question : [SEQ940405945](seq940405945.md) — Enseignement francophone dans la République de Vanuatu
+
+## Réponse
+
+*Affaires étrangères, JO du 1994-09-15, page 2253*
+
+Réponse. - Avec 12,5 MF près de 60 p. 100 de l'enveloppe bilatérale notre coopération linguistique et éducative se donne d'importants moyens pour restaurer le système éducatif de Vanuatu dans le cadre d'une politique d'équilibre linguistique entre le français et l'anglais. Cette relance de la coopération française, centrée sur des projets de formation associant étroitement la Nouvelle-Calédonie, mobilise un dispositif cohérent de 30 professeurs et conseillers en éducation autour de quatre secteurs d'intervention prioritaires : 1. Le redressement de l'enseignement primaire. Il s'agit d'augmenter sensiblement le nombre d'instituteurs francophones et, surtout, d'élever le niveau de leur formation initiale. 2. Le maintien du soutien à l'enseignement secondaire. Un dispositif de soutien en enseignement direct sera assuré, pour les cinq ans à venir, auprès du second cycle secondaire du lycée Bougainville, de même qu'une assistance technique pour la gestion de l'établissement. 3. L'appui à l'enseignement technique et professionnel, notamment à l'institut national de tecchnologie de Vanuatu. 4. La formation des professeurs du second degré et la préparation à l'entrée à l'université française du Pacifique (centre de Nouméa). En 1993 et 1994, 20 étudiants ont été admis au centre universitaire de Nouméa. La mise en oeuvre d'une véritable coopération de formation des cadres francophones, avec l'appui de l'expertise de Nouvelle-Calédonie, peut seule assurer le maintien de Vanuatu dans l'aire de la francophonie, tout en rendant possible, à échéance de 5 ans, la relève de nos coopérants encore engagés dans des actions de substitution.
