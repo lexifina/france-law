@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930601643
+
+- Question : [SEQ930601643](seq930601643.md) — Initiatives législatives concernant les expropriations pour cause d'utilité publique
+
+## Réponse
+
+*Équipement, JO du 1993-11-25, page 2258*
+
+Réponse. - Le respect des droits des expropriés est organisé simultanément par le code de l'expropriation et par la loi du 12 juillet 1983 relative aux enquêtes publiques. Quatre séries de mesures, affinées depuis 1958, ont fixé les garanties des droits des administrés : la procédure d'expropriation n'étant pas décentralisée, la décision qui prononce l'utilité publique du projet est de la compétence du représentant de l'Etat dans le département et, le cas échéant, d'un décret en Conseil d'Etat ; le rôle et les pouvoirs du commissaire enquêteur, dont la nomination a fait l'objet de récentes mesures (établissement d'une liste d'aptitude aux termes de l'article 21 de la loi du 9 janvier 1993), ont été étendus ; c'est un magistrat de l'ordre judiciaire, garant de la propriété privée, qui prononce le transfert de propriété et fixe le montant des indemnités en cas de désaccord entre l'expropriant et l'exproprié ; les procédures de concentration qui associent toutes les personnes concernées par le projet se sont développées. Sur ce dernier point, une réflexion portant sur l'enquête publique, et notamment sur les moyens d'organiser une concertation le plus en amont possible du projet dans le but d'aboutir à plus de transparence et à une meilleure acceptation des décisions publiques prises tant en matière d'urbanisme que de grands projets d'infrastructure de transports, a été engagée. Elle porte également sur une éventuelle harmonisation des différentes catégories d'enquêtes publiques. Elle est poursuivie en coordination avec le ministère de l'environnement dans le cadre d'une mission d'évaluation mise en place par le ministre de l'environnement et dont les conclusions seront remises à la fin de l'année 1993.
