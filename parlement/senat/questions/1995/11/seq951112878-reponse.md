@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951112878
+
+- Question : [SEQ951112878](seq951112878.md) — Contrôles effectués par l'administration fiscale sur le train de vie des gens du voyage
+
+## Réponse
+
+*Économie, JO du 1996-03-28, page 718*
+
+Réponse. - La direction générale des impôts est chargée de mettre en oeuvre des procédures de contrôle qui visent les professionnels se livrant à une activité, déclarée ou non, ainsi que les particuliers. Outre le contrôle sur pièces du bureau qui s'accompagne de la surveillance du respect des obligations déclaratives, les services disposent des procédures de vérification de comptabilité pour les professionnels et, pour les personnes physiques, de l'examen contradictoire de l'ensemble de la situation fiscale personnelle. La situation fiscale des gens du voyage est examinée dans le cadre légal de ces dispositions, étant précisé qu'il n'existe pas d'identification du statut social ou culturel des personnes vérifiées. En effet, les gens du voyage sont assujettis aux mêmes obligations et aux mêmes contrôles que les autres citoyens. S'agissant des personnes qui exercent une activité ambulante, elles ont la qualité d'assujettis à la TVA et peuvent, à ce titre, faire également l'objet de contrôle de facturation, en application des dispositions des articles L. 80 F et suivants du livre des procédures fiscales. La grande mobilité de ces contribuables suscite, il est vrai, des difficultés importantes pour cerner leur activité exacte et l'importance du patrimoine mais les services de recherche de la DGI mènent régulièrement des enquêtes qui aboutissent à des contrôles des activités professionnelles exercées (négoce de véhicules d'occasion, de petit matériel ou mobilier, brocante, récupération...). Il convient enfin de préciser qu'en cas d'acquisition d'un bien immobilier, les droits d'enregistrement et de publicité foncière sont dus dans les conditions de droit commun.
