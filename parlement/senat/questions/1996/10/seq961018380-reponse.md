@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961018380
+
+- Question : [SEQ961018380](seq961018380.md) — Station d'épuration des eaux usées de Bonneuil-en-France (Val-d'Oise)
+
+## Réponse
+
+*Environnement, JO du 1997-04-10, page 1127*
+
+Réponse. - Le ministre de l'environnement a pris connaissance avec intérêt de la question relative au traitement de boues de la station d'épuration des eaux usées de Bonneuil-en-France dans le Val-d'Oise. L'usine d'incinération d'ordures ménagères de Sarcelles a été autorisée par un arrêté préfectoral du 8 octobre 1996 à incinérer des boues provenant de la station d'épuration de Bonneuil-en-France. Cette usine d'incinération est en conformité depuis 1992 avec les dispositions de l'arrêté ministériel du 25 janvier 1991 relatif aux installations d'incinération de résidus urbains. Le taux d'injection de boues a été calculé pour permettre une combustion efficace. L'injection de boues n'est pas autorisée lorsque le four n'est pas en régime stable. L'implantation de l'aire de déchargement, initialement à proximité immédiate de certains riverains, a été modifiée. Cette aire de déchargement est entièrement fermée et équipée d'un système de traitement des rejets gazeux. Ainsi apparaît-il que la solution actuellement retenue par la collectivité locale devrait donner satisfaction. Le Fonds de modernisation de la gestion des déchets (FMGD), alimenté par la taxe sur le stockage des déchets ménagers et assimilés est géré par l'Agence de l'environnement et de la maîtrise de l'énergie (ADEME). Il peut apporter des aides à la mise en place d'équipements d'incinération de boues sur les usines d'incinération d'ordures ménagères, mais il ne participe pas au financement d'unités spécifiques d'incinération de boues sur les stations d'épuration, notamment en raison de la faible potentialité de valorisation énergétique.
