@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990214200
+
+- Question : [SEQ990214200](seq990214200.md) — Cinquième programme cadre de recherche et de développement
+
+## Réponse
+
+*Industrie, JO du 1999-12-09, page 4071*
+
+Réponse. - Le programme cadre de recherche et de développement (PCRD) couvre, avec environ 4 % du budget de l'Union européenne, le volet recherche et développement technologique. Dans le cadre de la préparation du 5e PCRD relatif à la période fin 1998-2002, la France a insisté pour favoriser une plus grande implication des PME européennes au sein des appels à propositions lancés dans le cadre du PCRD. Des mesures favorables à cet objectif ont été prises au sein des grands projets thématiques, mesures dites " CRAFT ", et un programme spécial intitulé " PME et innovation " a été décidé. Pour ce qui concerne la secteur aéronautique, il convient de saluer l'initiative prise par le syndicat professionnel du secteur aérospatial, le GIFAS (groupement des industries françaises aéronautiques et spatiales), qui a mis en place une structure destinée à aider les équipementiers, notamment les PME de l'aéronautique, à préparer et à gérer des projets du PCRD. Ces appels à propositions ont été lancés par la Commission européenne au cours du premier semestre 1999. Les statistiques viennent d'être connues. Il apparaît que 70 % des projets comportent une PME européenne, mais certaines de ces PME sont des filiales de groupes européens. Un seul projet ne comportant que des PME a été retenu dans le cadre de la procédure CRAFT. Il s'agit d'un projet à participation française, britannique et belge. D'une manière générale, les mesures d'incitation CRAFT en faveur des PME s'adressent plutôt à des PME traditionnelles, ce qui n'est pas le cas des PME aéronautiques. Il apparaît ainsi plus facile à ces PME aéronautiques de participer à des projets comportant des groupes industriels plutôt que simplement des PME.
