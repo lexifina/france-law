@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870304983
+
+- Question : [SEQ870304983](seq870304983.md) — Conditions d'affiliation aux régimes de protection sociale des non-salariés agricoles exploitant moins d'une demi-surface minimale d'installation (SMI)
+
+## Réponse
+
+*Agriculture, JO du 1987-08-13, page 1277*
+
+Réponse. -En application des articles 1er et 3 du décret n° 807 du 14 octobre 1980, les persones qui prennent la direction d'une exploitation dont l'importance est au moins égale au tiers mais est inférieure à la moitié de la surface minimum d'installation peuvent, sous certaines conditions, être affiliées au régime de protection sociale des personnes non salariées des professions agricoles pendant cinq ans ; au-delà de cette période, elles sont radiées du régime si l'exploitation n'atteint pas la moitié de la surface minimum d'installation (S.M.I.). Il a été admis que l'affiliation de ces exploitants ne doit pas être remise en cause pendant ces cinq années lorsque, pour des raisons indépendantes de leur volonté telles que : expropriation, opération de remembrement, reprise de terres par le propriétaire ou augmentation de la S.M.I., l'importance de leur exploitation devient inférieure au tiers de la S.M.I. De plus, en cas d'augmentation de la S.M.I., les personnes dont l'activité aura atteint au cours de la période quinquennale le niveau de l'ancienne S.M.I. peuvent bénéficier en tant que de besoin, sur leur demande, d'un délai supplémentaire de deux ans, imputé en partie sur celui de cinq ans, à compter de la date d'entrée en vigueur du schéma directeur fixant dans leur département les nouvelles S.M.I. Toutefois, le Gouvernement examine actuellement les mesures qui permettraient de maintenir une couverture sociale, au-delà de ces deux années, aux agriculteurs qui, passé ce délai, ne mettront pas en valeur une exploitation dont l'importance est au moins égale à la moitié de la S.M.I.
