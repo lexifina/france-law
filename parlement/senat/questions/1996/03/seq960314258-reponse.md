@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960314258
+
+- Question : [SEQ960314258](seq960314258.md) — Poste d'assistant social du collège Jean-Jaurès (Pantin)
+
+## Réponse
+
+*Éducation, JO du 1996-04-18, page 942*
+
+Réponse. - Dans le contexte social difficile qu'évoque la question de l'honorable parlementaire, le ministre de l'éducation nationale a parfaitement mesuré le rôle important que, parmi d'autres acteurs de l'établissement scolaire, les assistants et les conseillers techniques de service social sont amenés à jouer dans la prévention et le traitement des problèmes sociaux rencontrés par les élèves. C'est pourquoi le renforcement des moyens humains du secteur social constitue depuis plusieurs années l'une de ses priorités. Mais, au-delà de ce nécessaire effort quantitatif, les initiatives académiques visant à des améliorations qualitatives dans le domaine de l'action sociale sont encouragées et développées. C'est ainsi que, dans un souci bien compris d'une efficacité optimale des services alliée à une utilisation la plus rationnelle possible des deniers publics, certains établissements scolaires de l'académie de Créteil ont été placés en réseau, administré par les responsables de district, conseillers techniques de service social ou assistants de service social chevronnés qui peuvent ainsi intervenir utilement dans un plus grand nombre d'établissements. C'est le cas du collège Jean-Jaurès de Pantin qui bénéficie de ce nouveau système d'organisation, mis en place sous sa forme actuelle l'année passée, qui permet un meilleur traitement des situations d'urgence telles qu'elles peuvent se présenter dans ces établissements scolaires. Il est à noter que l'ensemble des chefs d'établissement du réseau disposent par ailleurs de fiches de signalement " enfance en danger " leur permettant d'alerter les services concernés dès que le besoin s'en fait sentir.
