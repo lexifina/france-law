@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930501007
+
+- Question : [SEQ930501007](seq930501007.md) — Pêche artisanale sur le littoral picard
+
+## Réponse
+
+*Agriculture, JO du 1993-09-23, page 1705*
+
+Réponse. - Le ministre de l'agriculture et de la pêche partage la préoccupation des marins-pêcheurs de la baie de Somme qui consiste à maintenir une activité sélective de pêche artisanale ciblée sur les espèces à forte valeur marchande tout en prenant en considération les risques qu'une intensification de la pêche ne manquerait pas d'avoir sur l'état des stocks. Si les pêcheurs du littoral picard sont gérés administrativement par la direction interdépartementale des affaires maritimes du Pas-de-Calais et de la Somme installée à Boulogne-sur-Mer, il est tenu compte de l'éloignement et des contraintes spécifiques. C'est ainsi que le comité local des pêches de Boulogne-sur-Mer a décidé de créer une commission spécialisée de la baie de Somme qui a pour mission d'élaborer tout projet d'action répondant à une nécessité locale. Cette commission a été installée le 25 juin 1993 au Crotoy par le préfet de la Somme. Elle est de nature à resserrer les liens entre la profession et les pouvoirs publics qui y participent par leurs représentants. S'agissant de l'application du régime des prêts bonifiés, les armateurs de la flottille picarde sont éligibles au bénéfice des dispositions contenues dans le règlement de base communautaire no 4028/86 modifié et la circulaire du 14 janvier 1983 modifiée. La caisse régionale du crédit maritime a appliqué de manière permanente la réglementation susvisée en retenant six demandes de prêts bonifiés entre 1985 et 1990 pour des dossiers de construction de trémailleurs d'une longueur inférieure à 12 mètres. C'est en application des règles communautaires que les chalutiers de moins de 12 mètres ne peuvent bénéficier de ces dispositions.
