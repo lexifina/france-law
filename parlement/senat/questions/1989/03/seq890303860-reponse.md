@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890303860
+
+- Question : [SEQ890303860](seq890303860.md) — Modalités des épreuves du concours d'admission à l'Ecole nationale des ponts et chaussées
+
+## Réponse
+
+*Équipement, JO du 1989-06-08, page 881*
+
+Réponse. - L'arrêté du 23 juillet 1988, modifiant l'arrêté du 12 octobre 1984 relatif aux modalités des épreuves des concours d'admission d'élèves de nationalité française et de nationalité étrangère à l'Ecole nationale des ponts et chaussées institue des bonifications de points (20 points à l'admissibilité et 40 points à l'admission) au bénéfice des élèves ayant vingt ans ou moins de vingt ans le premier janvier de l'année du concours. Cette mesure s'applique aux neuf écoles dont le recrutement s'effectue par le concours commun prévu par l'arrêté du 2 décembre 1977 modifié. Adoptée par l'ensemble des directeurs des écoles concernées, elle se substitue à une précédente mesure, qui accordait une majoration de points aux candidats au concours commun dont le premier baccalauréat avait été obtenu depuis moins de deux ans. Cette dernière mesure a été abandonnée en 1984 pour deux raisons : d'une part, ces points de bonification étaient accordés à des candidats de22 ans ayant suivi deux années de classes préparatoires et refusés à des candidats de 19 ans ayant suivi trois années de classes préparatoires ; d'autre part, la définition du premier baccalauréat devenait de plus en plus difficile à appliquer à cause de l'existence d'équivalences de baccalauréats étrangers, de baccalauréats européens ou bi-nationaux, ce qui représentait une source d'injustices. Elle a été remplacée par un système moins sujet à l'interprétation et fondé sur de véritables " points de jeunesse " à partir du critère de l'âge, cette modalité correspondant aux pratiques de recrutement de ces grandes écoles.
