@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010633577
+
+- Question : [SEQ010633577](seq010633577.md) — Conséquences de la suppression de la vignette automobile
+
+## Réponse
+
+*Économie, JO du 2001-08-02, page 2534*
+
+L'article 6 de la loi de finances pour 2001 exonère de taxe différentielle sur les véhicules à moteur les voitures particulières, et les véhicules dits utilitaires d'un poids total autorisé en charge n'excédant pas deux tonnes, dont les personnes physiques sont propriétaires ou locataires en vertu d'un contrat de crédit-bail ou de location de deux ans ou plus. Cette mesure s'applique donc aux véhicules dits " 4 x 4 " affectés au transport de personnes et qui sont à ce titre immatriculés dans le genre des voitures particulières. Les autres véhicules ont, de par leurs caractéristiques techniques, vocation à être affectés à l'exercice d'activités professionnelles, quel que soit leur usage effectif. Dans ces conditions, la proposition d'extension de l'exonération en fonction de l'usage effectif des véhicules dits " 4 x 4 " à des fins de loisirs ne manquerait pas de susciter des demandes reconventionnelles. En outre, elle serait d'une mise en oeuvre délicate dès lors que le critère de l'usage de loisirs ne peut être contrôlé au vu des éléments figurant sur la carte grise notamment. C'est pourquoi il n'est pas envisagé d'y réserver une suite favorable. Enfin, il est rappelé que les conseils généraux n'ont pas la possibilité d'exonérer de la taxe différentielle sur les véhicules à moteurs une simple partie des véhicules qui y demeurent assujettis. Ils avaient en revanche la possibilité d'adopter dans les conditions prévues à l'article 1599 G du code général des impôts un tarif nul pour l'ensemble de ces véhicules applicable pour la période d'imposition s'ouvrant à compter du 1er décembre 2001.
