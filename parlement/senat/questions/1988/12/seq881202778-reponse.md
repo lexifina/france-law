@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881202778
+
+- Question : [SEQ881202778](seq881202778.md) — Conditions de détention des prisonniers politiques en Mauritanie
+
+## Réponse
+
+*Affaires étrangères, JO du 1989-01-19, page 83*
+
+Réponse. - Le Gouvernement français est bien au fait des complots qui, au cours de ces derniers mois, ont entraîné des arrestations dans les deux communautés, maure et négro-africaine, de Mauritanie. Les informations qu'il a recueillies le portent à estimer que la mort de quatre prisonniers à Oualata, cet automne, est due à la dégradation des conditions de vie, très pénibles, dont souffraient les personnes incarcérées dans cet établissement situé au centre de l'une des régions les plus pauvres de Mauritanie. S'autorisant du caractère amical des relations entre les deux pays, le Gouvernement français a plusieurs fois fait valoir au Gouvernement mauritanien l'urgence qui s'attachait à l'amélioration de ces conditions. Il l'a fait par le canal de son ambassade et lors des conversations ministérielles bilatérales, notamment lors de la récente visite à Nouakchott de M. Jacques Pelletier. Les autorités mauritaniennes, qui ont déploré ces décès, sont apparues désireuses de prendre les sanctions qui s'imposaient, de rémédier aux carences que leur enquête avait révélées et d'améliorer les conditions de détention. Tel semble être le cas. En effet, le président de la Ligue mauritanienne des droits de l'homme s'est rendu avec quatre journalistes, au début de décembre, dans les prisons de Oualata et d'Aioun El Atrous. Il a donné acte de cette amélioration des conditions de détention au Président, le colonel Maaouya Ould Sid'Ahmed Taya. Des représentants de la Ligue française des droits de l'homme devraient prochainement, de leur côté, être autorisés à se rendre dans ces établissements pénitentiaires.
