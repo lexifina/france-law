@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970702075
+
+- Question : [SEQ970702075](seq970702075.md) — Bilan du numéro de téléphone gratuit " VIH Info Soignants "
+
+## Réponse
+
+*Santé, JO du 1997-11-27, page 3326*
+
+Réponse. - Le secrétaire d'Etat à la santé confirme à l'honorable parlementaire que le numéro vert " VIH Info Soignants ", ligne d'information destinée strictement aux professionnels, a été mis en service dans sa première phase expérimentale le 5 février 1996, en collaboration avec les associations Sida Info Service et Arcat Sida. Puis l'expérience a été étendue, en y intégrant le service particulier que représente le traitement des appels concernant les accidents d'exposition au sang, à compter du 19 octobre 1996. Cette ligne est maintenant gérée par Sida Info Service seul. Le relevé des appels montre que " VIH Info Soignants " a traité 72 appels d'octobre à décembre 1996 et 137 appels de janvier à avril 1997, ces périodes correspondant à une phase de montée en charge. La nature de ces appels, qui est plus intéressante à prendre en compte que les données strictement quantitatives, concerne essentiellement une demande d'informations sur les thèmes suivants : risques professionnels (40 %), thérapeutiques et pratiques médicales (17 %), transmissions (15 %), aspects législatifs, éthiques et droits sociaux (9 %). Des réaménagements des équipes d'écoutants, effectués lors de l'intégration de l'activité VIH Info Soignants au sein de Sida Info Service, permettent à présent d'accompagner la nouvelle phase que représentent les trithérapies. La dispensation en ville des antirétroviraux ainsi que la mise en oeuvre possible de thérapies antirétrovirales précoces lors d'accidents de prévention ne devraient pas manquer de susciter de nouvelles interrogations chez les professionnels de santé. Les moyens accordés à Sida Info Service pour la gestion de cette activité seront bien entendu ajustés aux besoins.
