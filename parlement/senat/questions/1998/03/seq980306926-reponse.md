@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980306926
+
+- Question : [SEQ980306926](seq980306926.md) — Engagement d'Electricité de France (EDF) à proposer aux petites et moyennes entreprises son expérience de l'international et ses ressources
+
+## Réponse
+
+*Industrie, JO du 1998-05-14, page 1557*
+
+Réponse. - EDF a rejoint, en 1997, l'association " Partenariat France " et s'est ainsi engagée à proposer aux PME/PMI son expérience de l'action internationale et les ressources qui sont les siennes dans ce domaine. Par ailleurs, une disposition du contrat d'entreprise conclu entre l'Etat de l'établissement en avril 1997 prévoit la participation d'EDF à l'effort de promotion à l'étranger de l'industrie française, notamment par l'aide à l'exportation des PME/PMI. L'action d'EDF dans ce domaine revêt divers aspect : la recherche d'information, l'appui logistique, l'assistance à la recherche de partenaires, l'organisation de missions d'affaires collectives, l'appui pour la participation à des salons, la mise en relation avec des banques et des conseillers juridiques... L'appui porté par EDF dans ce cadre est gratuit, les entreprises concernées prenant à leur charge les coût directs induits (billets d'avion et frais d'hébergement, honoraires des consultants...). En 1997, le nombre de PME/PMI aidées par EDF au titre de ce type d'action s'est élevé à 167, contre 34 au cours de l'année précédente. L'organisation de missions d'affaires collectives a représenté le plus grand nombre (123) de ces aides. Il est prévu de poursuivre ces actions en 1998. Enfin, il faut souligner qu'EDF a conclu avec l'Etat, en mars dernier, un protocole relatif à l'innovation et au progrès technologique, selon lequel l'établissement public s'est engagé à amplifier ses investissements, sous la forme de participation à des fonds de capital-développement, notamment dans la perspectives d'aider les PME/PMI à s'implanter à l'étranger.
