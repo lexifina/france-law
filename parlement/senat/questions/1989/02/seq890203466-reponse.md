@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890203466
+
+- Question : [SEQ890203466](seq890203466.md) — Informations sur les différents coûts de l'énergie et des systèmes de chauffage en découlant
+
+## Réponse
+
+*Consommation, JO du 1989-04-20, page 628*
+
+Réponse. - L'information des consommateurs sur les prix des énergies et les coûts des systèmes de chauffage associés à ces énergies est actuellement assurée par l'Agence française pour la maîtrise de l'énergie (A.F.M.E.). En effet, l'A.F.M.E. est un établissement public à caractère industriel et commercial, indépendant des fournisseurs d'énergie, qui a pour mission de promouvoir un usage rationnel de l'énergie et des matières premières, ainsi que de contribuer au développement de l'utilisation des énergies renouvelables. A ce titre, elle a réalisé de multiples actions d'information et de conseil envers les particuliers et les collectivités locales dont la consommation énergétique représente environ 44 p. 100 de la consommation finale d'énergie en France. Cet organisme informe les consommateurs par téléphone, par minitel ou grâce à la diffusion de fiches de renseignements ; il publie régulièrement les prix de revient des énergies utilisées pour le chauffage des habitations et réalise des diagnostics thermiques individuels qui permettent aux usagers de déterminer les mesures les plus aptes à économiser l'énergie dans les bâtiments en appréciant leur rentabibilité. Depuis l'année dernière, l'agence organise un service télématique national accessible au grand public et accroît la diffusion de fiches pratiques. En 1989, plus de 10 p. 100 de son budget, d'un montant total de 450 MF, sera consacré au financement de ses actions de communication. Les pouvoirs publics sont attachés à ce que l'A.F.M.E. améliore la qualité de l'information donnée aux consommateurs afin que ceux-ci puissent exercer dans de bonnes conditions leur choix entre les différentes énergies et les modes de chauffage.
