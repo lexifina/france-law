@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000222919
+
+- Question : [SEQ000222919](seq000222919.md) — Nécessaire accroissement des crédits d'équipement militaire en l'an 2000, vu le comportement de l'armée russe en Tchétchénie et compte tenu des excédents de recettes fiscales par rapport aux prévisions budgétaires
+
+## Réponse
+
+*Défense, JO du 2000-05-11, page 1692*
+
+Réponse. - Le ministre de la défense rappelle à l'honorable parlementaire les termes de sa réponse à la question écrite nº 21711 du 30 décembre 1999 qui mettaient en évidence l'importance des réformes en cours dans le cadre de la professionnalisation des armées et de la loi de programmation militaire 1997-2002, en vue de faire face aux nouvelles missions des forces armées et aux nouveaux types de risques. Comme l'indiquait le rapport annexé à la loi de programmation, les cadres d'engagement des forces armées ne donnent plus la priorité à un conflit majeur, contrairement à la période de guerre froide qui avait précédé. Les opérations militaires conduites par les forces russes en Tchétchénie n'induisent pas l'idée qu'une telle menace puisse, à court terme, voir le jour. La France n'en est pas moins préoccupée par les violations du droit international et humanitaire, et elle a appelé à de nombreuses reprises à un cessez-le-feu et à la définition d'une solution politique. Cependant, elle ne considère pas que ce conflit soit de nature à engendrer un risque d'instabilité majeur en Europe, nécessitant un accroissement spécifique des capacités militaires françaises ou l'acquisition d'équipements supplémentaires. Il importe néanmoins qu'une solution politique soit trouvée et que les autorités russes garantissent rapidement l'accès à la Tchétchénie aux représentants des organisations humanitaires, du Conseil de l'Europe et de l'Organisation pour la sécurité et la coopération en Europe.
