@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970902656
+
+- Question : [SEQ970902656](seq970902656.md) — Concours général des métiers
+
+## Réponse
+
+*Éducation, JO du 1997-10-30, page 2991*
+
+Réponse. - Le concours général des métiers a été créé en 1995 pour distinguer les meilleurs jeunes préparant un baccalauréat professionnel dans un lycée professionnel public ou privé sous contrat ou centre de formation d'apprentis. En 1997, ce concours général n'a pas concerné l'ensemble des quarante et une spécialités de baccalauréat professionnel. En effet, compte tenu des difficultés de mise en place de ce concours, en particulier, en ce qui concerne l'organisation de l'épreuve pratique finale, un rythme progressif a été adopté. Le concours a été créé en 1995 pour six spécialités de baccalauréat professionnel et étendu en 1996 et 1997 à sept nouvelles spécialités. En 1998, il est prévu qu'il concerne trois spécialités supplémentaires, soit seize spécialités au total. Il convient d'examiner comment ce concours pourra être étendu à moyen terme à l'ensemble des spécialités, sans sous-estimer la charge de travail et les difficultés d'organisation occasionnées. Il est encore trop tôt pour pouvoir dresser un bilan de l'avenir professionnel des lauréats, d'autant plus qu'un nombre important d'entre eux a souhaité poursuivre des études après le baccalauréat professionnel. Ce concours est l'occasion, pour les jeunes retenus pour les épreuves finales, de montrer leur savoir-faire professionnel lors d'épreuves plus exigeantes que celle du baccalauréat ; il paraît probable que les lauréats puissent faire valoir utilement cette expérience dans leur recherche d'un emploi. Par ailleurs, le concours général des métiers suscite généralement un grand intérêt auprès des professionnels, qui collaborent à son organisation et participent aux jurys.
