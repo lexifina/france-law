@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861103370
+
+- Question : [SEQ861103370](seq861103370.md) — Entreprise Dresser-France au Havre (Seine-Maritime): demande de licenciement d'élus du personnel
+
+## Réponse
+
+*Affaires sociales, JO du 1987-09-10, page 1411*
+
+Réponse. -La société Dresser France a élaboré en 1986 un important plan de réduction de ses effectifs qui s'est traduit par deux demandes d'autorisation de licenciement pour motif économique d'ordre conjoncturel et structurel. Ces deux procédures de licenciement ont concerné successivement 166 salariés et 139 salariés de l'établissement du Havre qui comptait 756 salariés avant la réalisation du plan. Un accord sur l'aménagement du temps de travail signé dans l'entreprise a toutefois permis de limiter le nombre des licenciements prononcés. Dans ce contexte, la société Dresser France a sollicité de l'inspecteur du travail au mois d'octobre 1986 l'autorisation de procéder au licenciement de sept représentants du personnel. Un recours hiérarchique a été formé par la société Dresser France tendant à obtenir l'annulation des décisions de l'inspecteur du travail refusant le licenciement de cinq des salariés concernés. Après une nouvelle enquête et un examen approfondi de chacun des dossiers, le licenciement de trois salariés a été autorisé le 20 février 1987, leur reclassement n'étant pas possible au regard des compressions d'effectifs réalisées dans l'entreprise et la demande de licenciement ne présentant aucun lien avec les mandats détenus par les intéressés. En revanche, le licenciement de deux autres représentants du personnel a été refusé, pour des motifs tenant à l'existence d'une irrégularité dans la procédure de consultation du comité d'établissement et au souci d'éviter une détérioration du climat social au sein de l'établissement et une désorganisation de l'action syndicale.
