@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031009531
+
+- Question : [SEQ031009531](seq031009531.md) — Dispositif français de lutte contre le bio-terrorisme
+
+## Réponse
+
+*Santé, JO du 2004-06-10, page 1281*
+
+La France dispose de plus de 70 millions de doses de vaccin antivariolique (souche Lister) dit de première génération qui a fait ses preuves dans la lutte contre la variole et l'éradication de cette maladie. C'est sur ce stock, qui est régulièrement contrôlé par l'Agence française de sécurité sanitaire des produits de santé (en ce qui concerne le titrage et la qualité microbiologique) et qui a été sécurisé, que se base le plan de lutte contre la variole élaboré avec le concours de nombreux experts et validé par le Conseil supérieur d'hygiène publique de France (section des maladies transmissibles). Des travaux de recherche sont menés actuellement sur de nouveaux vaccins dits de deuxième génération dont on espère qu'ils seront aussi immunogènes mais provoqueront moins d'effets secondaires. En juin 2002, l'Agence européenne d'évaluation du médicament a publié un guide pour la mise au point d'un vaccin de deuxième génération. Actuellement, aucun vaccin de ce type ne possède, ni en France, ni à l'étranger, d'autorisation d'emploi ou de mise sur le marché. La firme Acambis vient d'interrompre un essai avec un vaccin de deuxième génération en raison de la survenue d'effets indésirables sérieux. Les pouvoirs publics ne nient donc nullement les perspectives ni l'intérêt d'un tel vaccin mais attendent de connaître les résultats des recherches et des essais en cours pour se prononcer. Il est remarquable de constater que les autorités sanitaires des Pays-Bas ont repris une fabrication de vaccin de première génération en 2002 avec la souche Lister (et avec des techniques modernes de purification), en raison de l'expérience acquise avec ce vaccin qui a fait la preuve de son efficacité dans le cadre de la lutte contre les épidémies de variole.
