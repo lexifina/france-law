@@ -1,0 +1,8 @@
+# 38421 : délibération 22 — Construction de logements économiques et familiaux – Contrôle – Bureau Veritas – Avenant n°1
+
+- Collectivité : 38421
+- SIREN : 213804214
+- Code INSEE : 38421
+- Date : 1960-09-14
+- Objet : Construction de logements économiques et familiaux – Contrôle – Bureau Veritas – Avenant n°1
+- Jeu de données : https://www.data.gouv.fr/datasets/6580dde723f2191fe975059e
