@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000323525
+
+- Question : [SEQ000323525](seq000323525.md) — Aides aux sylviculteurs suite aux tempêtes de décembre 1999
+
+## Réponse
+
+*Agriculture, JO du 2000-06-01, page 1946*
+
+Réponse. - Dans le cadre du plan gouvernemental annoncé par le Premier ministre le 12 janvier 2000, et complété à deux reprises en février 2000, l'hypothèse d'une indemnisation des propriétaires forestiers n'a pas été retenue. Néanmoins, l'ampleur des moyens financiers mis à la disposition de la filière forêt-bois pour gérer les dommages catastrophiques découlant des tempêtes de décembre 1999 montre toute la solidarité de la nation à l'égard des sylviculteurs. Le Gouvernement a souligné l'intérêt des négociations entre acheteurs et vendeurs de bois pour définir des recommandations interprofessionnelles et salue les initiatives prises dans le cadre du conseil interprofessionnel des bois d'Aquitaine en ce sens. La solution de prêts bonifiés à la sortie des bois et au stockage a été choisie pour tirer les conséquences d'expériences étrangères au cours desquelles il a été constaté que les prix d'achat des bois aux propriétaires forestiers baissaient à due concurrence de l'aide directe éventuelle que l'Etat leur versait. Il a donc été jugé plus efficace de privilégier une réelle logique économique, correspondant aux besoins de mobilisation d'importantes quantités supplémentaires de bois. Pour répondre à l'attente légitime des sylviculteurs, le Gouvernement précisera, à l'occasion de la loi de finances rectificative de printemps, les conditions d'application de la déduction du revenu des charges d'exploitation des bois chablis. Par ailleurs, une aide au nettoyage des parcelles sinistrées a déjà été mise en place, et la région Aquitaine a bénéficié de plus de 40 % de la première délégation de crédit. L'ensemble du dispositif gouvernemental est désormais opérationnel.
