@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960414857
+
+- Question : [SEQ960414857](seq960414857.md) — Droits de pêche en eaux douces
+
+## Réponse
+
+*Environnement, JO du 1996-07-04, page 1669*
+
+Réponse. - Mme le ministre de l'environnement a pris connaissance avec intérêt de la question posée par l'honorable parlementaire au ministre de l'agriculture, de la pêche et de l'alimentation sur l'exercice de la pêche dans les eaux du domaine public. L'article L. 236-4 du code rural fixe les conditions dans lesquelles tout membre d'une association agréée de pêche et de pisciculture peut pêcher à l'aide d'une seule ligne dans les eaux où le droit de pêche appartient à l'Etat. Sans préjudice de l'application de ces dispositions, l'Etat loue son droit de pêche à des associations agréées de pêche et de pisciculture ou à leurs fédérations. Leurs membres peuvent pêcher dans les lots en question à l'aide de quatre lignes dans les eaux de deuxième catégorie et de deux lignes dans les eaux de première catégorie. La location d'un lot de pêche implique pour l'association ou la fédération locataire qu'elle en assure la gestion piscicole et la surveillance grâce aux cotisations de ses membres. Si les mêmes droits étaient reconnus à tous les membres des associations sur le domaine public, aucune association ne s'engagerait plus dans la location des droits de pêche de l'Etat puisqu'elle ne serait pas assurée de pouvoir respecter ses engagements qui dépendent du nombre de ses membres. En revanche, les accords de réciprocité peuvent permettre d'étendre l'accès au domaine public avec le droit d'utiliser plus d'une ligne. De nombreuses associations et fédérations ont conclu de tels accords. Ils sont encouragés par le ministère de l'environnement dès lors qu'ils participent à la simplification de la réglementation de la pêche en eau douce.
