@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991120424
+
+- Question : [SEQ991120424](seq991120424.md) — Sécurité routière
+
+## Réponse
+
+*Équipement, JO du 2000-05-04, page 1597*
+
+Réponse. - Les conclusions de l'enquête menée, à la demande de la Fédération française des sociétés d'assurance, par le centre de recherche pour l'étude et l'observation des conditions de vie (CREDOC) auprès d'un large échantillon de jeunes sont préoccupantes. Elles soulignent le lien à établir entre les accidents de la route dont sont victimes les jeunes et leur style de vie (en particulier leurs pratiques festives) et mettent en exergue le fait que les jeunes " destabilisés " et les " hédonistes " (respectivement 6 à 11 % du total de la population considérée) cumulent le prises de risques et les comportements tels que la consommation d'alcool et de drogues douces, qui les rendent particulièrement vulnérables aux risques routiers. L'étude souligne que si des difficultés de socialisation sont fréquemment rencontrées dans le cas des jeunes " destabilisés " (situation professionnelle ou études inadaptées aux projets), il n'en va pas de même des " hédonistes " caractérisés par une forte proportion d'étudiants. La résolution du problème ainsi soulevé necessite la mise en uvre de stratégies d'interventions globales, le comportement des jeunes sur la route étant indissociable d'autres conduites à risques. Il est rappelé qu'ont été mises en uvre, depuis l'automne, des campagnes de sensibilisation à l'incompatibilité entre le conduite automobile et les comportements décrits. Destinées à sensibiliser l'ensemble des jeunes, ces campagnes ont été renforcées et déclinées en fin d'année sous les thèmes : " celui qui conduit, c'est celui qui ne boit pas " ou " ne ratez pas le tournant du siècle " tandis que de nombreuses collectivités, sociétés ou associations ont pris en charge le retour des fêtes dans le cadre des opérations " Nez rouge " ou " Saint-Bernard ".
