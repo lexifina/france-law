@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910414650
+
+- Question : [SEQ910414650](seq910414650.md) — Propos tenus par le secrétaire d'Etat auprès du Premier Ministre
+
+## Réponse
+
+*Affaires étrangères, JO du 1991-07-11, page 1435*
+
+Réponse. - Le gouvernement français connaît les limites étroites que les autorités vietnamiennes opposent au développement d'une vie démocratique dans leur pays et les atteintes aux droits de l'homme dont sont encore trop souvent victimes les opposants au régime en place. J'ai pour ma part, à plusieurs reprises, notamment lors de ma visite à Hanoï en février 1990, appelé l'attention des dirigeants vietnamiens sur le souci de la France de voir davantage protégées les libertés fondamentales. Ils n'ignorent pas qu'une dégradation de la situation, déjà précaire, des droit de l'homme altérerait gravement la qualité des relations entre la France et le Vietnam. Cependant, en dépit de ce contexte dificile, le Gouvernement souhaite développer des relations économiques et de coopération avec le Vietnam. Il estime en effet qu'il convient d'encourager les autorités vietnamiennes dans leur volonté de réformes économiques et d'ouverture. Il espère ainsi contribuer, à terme, à l'évolution politique qui devra logiquement accompagner les mutations économiques en cours. A cet égard, il relève l'intérêt marqué que portent au Vietnam les entreprises françaises, dont témoignent, entre autres : le développement du réseau bancaire français dans ce pays (le plus important, avec 5 banques représentées), les investissements (la France est le premier investisseur étranger au Vietnam), les projets communs dans les domaines du tourisme, des infrastructures, des échanges commerciaux notamment. On notera encore, à cet égard, que, en mars dernier, la délégation française était la plus nombreuse au colloque international d'Hochiminh-Ville sur les investissements.
