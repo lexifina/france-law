@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870405727
+
+- Question : [SEQ870405727](seq870405727.md) — Calcul de l'allocation logement pour les personnes âgées hébergées en logements-foyers et en maisons de retraite
+
+## Réponse
+
+*Équipement, JO du 1987-09-10, page 1436*
+
+Réponse. -Le rapport du Conseil national de l'habitat sur les logements-foyers avait souligné que la prise en compte pour le calcul de l'allocation de logement sociale d'un loyer forfaitaire - et non du loyer réel dans la limite d'un plafond - pouvait conduire, dans certains cas, à un montant d'aide supérieure à la dépense de logement supportée par le résident. Cette situation est contraire à l'objectif même de l'allocation de logement (A.L.) qui ne constitue pas un complément de revenus, mais une prestation affectée à la dépense de logement ; ce principe fondamental est posé par l'article L. 831-2 du code de la sécurité sociale qui subordonne le droit de prestation au paiement d'un nouveau loyer. Le décret n° 86-1091 du 8 octobre 1986 a donc précisé, dans son article 3, qu'en ce qui concerne les personnes résidant dans un établissement doté de services collectifs, le montant de l'allocation sera limité à la dépense de logement supportée par le résident. Cette mesure, qui vise à corriger une anomalie de la réglementation précédente, ne devrait en tout état de cause concerner qu'un nombre limité de personnes dont, qui plus est, seule une faible proportion est placée au titre de l'aide sociale. De plus, compte tenu des difficultés rencontrées par certains gestionnaires pour isoler au sein de la redevance la part afférente à la dépense de logement, il a été accepté, à titre transitoire, que le montant de l'A.L. puisse être plafonné au montant de la redevance supportée par le résident, lorsque la dépense de logement n'aura pu être clairement identifiée. Il n'apparaît pas, dans ces conditions, qu'il y ait eu un transfert de charge au détriment des départements.
