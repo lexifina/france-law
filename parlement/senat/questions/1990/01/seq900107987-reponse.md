@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900107987
+
+- Question : [SEQ900107987](seq900107987.md) — Mise en oeuvre du programme européen LINGUA
+
+## Réponse
+
+*Éducation, JO du 1990-03-08, page 487*
+
+Réponse. - Le conseil des ministres de l'éducation a adopté le 28 juillet 1989 la décision établissant un programme d'action visant à promouvoir la connaissance des langues étrangères dans la Communauté européenne, le programme LINGUA auquel seront consacrés 200 millions d'ECU. Prévu pour cinq ans, du 1er janvier 1990 au 31 décembre 1994, il propose deux grandes séries de mesures, l'une sur la formation professionnelle, l'autre sur le développement des échanges scolaires, dans le cadre de quatre actions concernant : la formation continue des professeurs de langues étrangères ; l'apprentissage de langues étrangères à l'université et notamment le développement de la formation initiale des professeurs de langue étrangère ; la connaissance des langues étrangères utilisées dans les relations professionnelles et le monde économique ; le développement des échanges de jeunes qui suivent des formations à caractère spécialisé, professionnel ou technique dans la Communauté. Actuellement sont mises en place tant au plan national que communautaire les structures prévues par la décision de juillet 1989. La mise en oeuvre du programmme LINGUA sera confiée à une agence nationale assistée de quatre " sous-agences " pour chacune des quatre actions et un comité de coordination qui sera chargé essentiellement de répartir les sommes réservées à chaque action. Au niveau européen, un comité de gestion, composé de deux représentants désignés par chaque Etat -membre vient d'être constitué pour assister à la commission. Grâce à ces différentes structures, le programme LINGUA pourra s'appliquer en 1991, après une année préparatoire qui permettra d'informer l'ensemble des établissements d'enseignement concernés.
