@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991220966
+
+- Question : [SEQ991220966](seq991220966.md) — Accès aux crédits pour les bénéficiaires de pensions d'invalidité
+
+## Réponse
+
+*Économie, JO du 2000-08-24, page 2912*
+
+Réponse. - D'une manière générale, les relations entre un établissement de crédit ou un commerçant et sa clientèle relèvent du droit privé. Dans ce cadre, les fournisseurs de crédit sont seuls responsables des risques qu'ils acceptent et sont de ce fait libres de leurs décisions en matière de concours financiers. Ils ont ainsi toute latitude pour accorder ou refuser des prêts à la consommation ou des formules de versements en plusieurs mensualités en fonction de l'appréciation qu'ils portent sur la situation des candidats au crédit et sur les garanties qu'ils offrent. Selon les informations données par l'association française des établissements de crédit et entreprises d'investissement, les pensions d'invalidité sont assimilées à un revenu par les banques. Celui-ci présente néanmoins des caractéristiques particulières dont les banques tiennent compte dans l'appréciation qu'ils portent sur la situation des candidats au crédit, en particulier le caractère insaisissable des sommes reçues. Mais l'appréciation des banques sur une demande de prêt porte sur l'appréciation d'un ensemble d'éléments (solvabilité globale, relation de confiance, garanties...). Un client qui reçoit une pension d'invalidité a donc en principe pleinement accès au crédit, comme tout autre emprunteur potentiel, sous réserve bien évidemment de l'accord de la banque. Dès lors, il appartient à chaque consommateur, d'une part, d'apprécier sa capacité réelle d'endettement et, d'autre part, de faire jouer la concurrence à son profit, en s'adressant aux établissements de crédit ou commerçants dont la politique de distribution de prêts à la consommation est la plus dynamique.
