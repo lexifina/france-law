@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870707177
+
+- Question : [SEQ870707177](seq870707177.md) — Enseignement du russe en France
+
+## Réponse
+
+*Éducation, JO du 1987-09-24, page 1510*
+
+Réponse. -Le ministre de l'éducation nationale attache une grande importance à ce que le pluralisme en matière de langues soit maintenu. C'est ainsi qu'à l'entrée au collège, les élèves ont la possibilité de choisir le russe comme première langue et que lors de leur passage en classe de quatrième cette langue est susceptible d'être retenue comme option obligatoire ou facultative. Pour l'année scolaire 1986-1987, 3 922 élèves de collège (public et privé) l'étudiaient en tant que première langue vivante, elle arrivait en sixième position après l'anglais, l'allemand, l'espagnol, le portugais et l'italien. 4 016 élèves l'étudiaient en deuxième langue vivante et elle venait en cinquième place après l'espagnol, l'allemand, l'anglais et l'italien. S'agissant de son enseignement en lycée, aucun changement de structure à ce niveau n'est prévu dans un proche avenir, les élèves ont donc la possibilité de choisir le russe dans les mêmes conditions qu'auparavant en tant que première, deuxième ou troisième langue. A la rentrée 1986, le russe était étudié par 16 280 élèves dans les lycées (enseignement public et privé). Bien que ne faisant pas partie des langues les plus étudiées, il bénéficie néanmoins d'une place privilégiée parmi les langues moins enseignées, notamment en langue vivante 2 et en langue vivante 3. Dans ce dernier cas, le russe arrive en quatrième position après l'espagnol, l'italien et l'allemand. Enfin, en ce qui concerne plus particulièrement la mise en place des divers enseignements de langue vivante dans les établissements scolaires, il importe de mentionner que, dans le cadre de la déconcentration, celle-ci s'effectue, sur le plan local, en tenant compte de la demande des familles et des moyens qui ont été attribués.
