@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900208365
+
+- Question : [SEQ900208365](seq900208365.md) — Expérimentation en France du " Dazzer "
+
+## Réponse
+
+*Postes, JO du 1990-03-29, page 671*
+
+Réponse. - Depuis l'instauration de la distribution à domicile, les facteurs représentent l'une des cibles privilégiées des chiens de garde. Chaque année, près de 3 500 agressions graves de facteurs par des chiens sont à déplorer. C'est pourquoi, grâce à une procédure qui favorise l'innovation par les postiers eux-mêmes, le receveur et l'ensemble des facteurs du bureau de Malicorne-sur-Sarthe ont pu expérimenter concrètement, depuis septembre 1989, une méthodologie " sécurité facteurs " dont l'originalité est de comporter trois types d'actions complémentaires : 1° la recherche d'une protection " statique " efficace (clôtures, boîtes à lettres bien situées, etc.) négociée avec chaque propriétaire d'animal dangereux (élimination des " points à risques ") ; 2° l'expérimentation en réel d'un émetteur d'ultrasons (marque Dazzer) pour assurer la " défense " du facteur en cas d'agression inopinée due à une défaillance de la protection statique (portail resté entrouvert par exemple) ; 3° l'information des facteurs sur les façons d'aborder les différents types de chiens. S'agissant du " Dazzer ", les expérimentateurs ont estimé, dans leur rapport, que même si son utilisation n'a été pleinement efficace que dans 44 p. 100 des cas, ce type d'appareil, utilisé avec discernement, procure effectivement un gain de sécurité appréciable pour les facteurs. S'appuyant sur cette constatation, l'équipe de Malicorne-sur-Sarthe a demandé que la poste confie des travaux de recherche à des organismes et entreprises spécialisés en vue de réaliser un dispositif plus performant. Les différents services concernés de la direction générale de la poste étudient actuellement la suite à donner à l'ensemble du rapport.
