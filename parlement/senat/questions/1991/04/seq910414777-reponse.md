@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910414777
+
+- Question : [SEQ910414777](seq910414777.md) — Modernisation et équipement des prisons
+
+## Réponse
+
+*Justice, JO du 1991-06-27, page 1333*
+
+Réponse. - Conformément à l'obligation qui lui est faite de veiller à l'hygiène des personnes qui lui sont confiées, l'administration pénitentiaire inscrit chaque année dans le cadre de son programme d'équipement des opérations d'installation ou de réfection de blanchisseries destinées à laver les effets de literie, les tenues de travail et, d'une manière générale, l'ensemble des vêtements et sous-vêtements fournis par l'administration aux détenus qui en font la demande. Ces effets sont lavés avec une fréquence suffisante et aucun des vêtements ayant servi à un détenu n'est remis en service sans avoir été préalablement lavé, nettoyé ou désinfecté suivant le cas. En ce qui concerne le linge personnel, l'administration permet son échange lors des parloirs et favorise lorsque cela est possible son nettoyage sur place en vendant en cantine des produits lessiviels (ces produits sont remis gratuitement aux indigents). Dans les établissements pour peine, compte tenu de l'espacement des visites des familles au parloir, le nettoyage des effets personnels peut être assuré directement par les détenus lorsqu'il est possible d'aménager un local spécifique équipé de laveries automatiques fournies par l'administration ou par un concessionnaire. La direction du centre pénitentiaire de Saint-Martin-de-Ré a proposé de mettre un local à la disposition de l'association socioculturelle de l'établissement qui a pu recueillir des subventions permettant dans un premier temps l'acquisition de deux machines à laver et d'un séchoir qui seront utilisés par les détenus pour laver leur linge personnel. Enfin de nombreux établissements dont Saint-Martin-de-Ré autorisent le nettoyage des vêtements personnels dans des " pressings " à l'extérieur.
