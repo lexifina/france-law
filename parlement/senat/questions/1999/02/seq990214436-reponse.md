@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990214436
+
+- Question : [SEQ990214436](seq990214436.md) — Rôle des réservistes
+
+## Réponse
+
+*Défense, JO du 1999-05-06, page 1487*
+
+Réponse. - C'est avec la volonté constante de renouveler le lien indispensable qui unit la nation à son armée que le Gouvernement conduit la rénovation de notre défense. C'est ainsi que la loi nº 97-1019 du 28 octobre 1997 portant réforme du service national a institué un parcours de citoyenneté universel pour toutes les jeunes Françaises et tous les jeunes Français, dont l'appel de préparation à la défense constitue le c ur. Elle assure ainsi une opportunité de contact direct entre la défense et la jeunesse qui contribue à conforter l'esprit de défense dans un contexte de suspension de l'appel sous les drapeaux. L'élaboration du projet de loi relatif à l'organisation générale de la réserve militaire et du service de défense s'inscrit dans la même volonté. Ce projet vise à fournir aux armées et à la gendarmerie nationale le complément opérationnel qui leur est nécessaire puisque la réserve a vocation à devenir une composante à part entière de l'armée professionnelle. Il confirme également la place éminente qu'occupent les réservistes et leurs associations dans le maintien d'un lien fort entre l'armée et la société civile. Le texte que la représentation nationale s'apprête à examiner est issu d'une large concertation avec l'ensemble des parties prenantes : réservistes, organisations d'employeurs et forces armées. Les douze associations de réservistes les plus représentatives au plan national ont ainsi pu faire valoir les aspirations propres à la collectivité des réservistes, notamment à travers leur action au sein du Conseil supérieur d'étude des réserves, étroitement associé à la conduite du projet de loi leur apporte en particulier la reconnaissance de la nation.
