@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890504878
+
+- Question : [SEQ890504878](seq890504878.md) — Dégradation du revenu des agriculteurs
+
+## Réponse
+
+*Agriculture, JO du 1989-07-13, page 1081*
+
+Réponse. - La baisse du revenu agricole en 1988 tient essentiellement à l'accroissement des achats de moyens de production, à des prix en hausse, tandis que les prix agricoles sont restés stables. Dans ces conditions, il était nécessaire d'accélérer l'effort entrepris par le Gouvernement pour maintenir le revenu agricole, par une action sur les charges et des mesures d'aide aux agriculteurs en situation délicate. Après la diminution de la taxe additionnelle sur le foncier non bâti, destinée au financement du B.A.P.S.A., décidée lors du vote du budget de 1989, le Gouvernement a pris, au printemps dernier, un ensemble de mesures supplémentaires, représentant au total 600 millions de francs. Elles concernent à la fois les agriculteurs des zones défavorisées, l'allégement des cotisations sociales des exploitants ou les petits producteurs de lait en difficulté par les quotas. De plus, il soumet actuellement au Sénat un projet de loi, dont l'un des volets porte réforme des cotisations sociales agricoles. L'objectif est d'indexer celles-ci sur les revenus réels des agriculteurs, et donc de corriger les distorsions du système actuel et de poursuivre le démantèlement des taxes B.A.P.S.A. Parallèlement, l'accord intervenu le 22 avril dernier à Luxembourg, sur les prix de la campagne 1989/1990, comporte certaines mesures, demandées par la France, destinées à atténuer les effets de la nécessaire rigueur budgétaire. Ainsi, il ouvre la porte à une réforme en profondeur des taxes de coresponsabilité, en prévoyant d'ores et déjà leur suppression pour certains producteurs laitiers. Par ailleurs, il concrétise l'achèvement du démantèlement des M.C.M. négatifs, ce qui se traduira par une hausse des prix garantis aux producteurs.
