@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990516226
+
+- Question : [SEQ990516226](seq990516226.md) — Renouvellement des cartes de résidents pour les Français établis à Madagascar
+
+## Réponse
+
+*Affaires étrangères, JO du 1999-07-22, page 2481*
+
+Réponse. - L'honorable parlementaire a appelé l'attention du ministre des affaires étrangères sur l'émotion suscitée dans la communauté française de Madagascar par l'annonce de la modification des tarifs de cartes de résident. Cette modification consiste en une hausse générale des tarifs, les nouveaux droits s'échelonnant de 1 500 à 7 500 francs, contre 300 francs sous la précédente réglementation. Indépendamment des assurances données d'assouplir la mise en place de ces mesures (report de la date initiale d'entrée en vigueur, création de catégories d'exonération), notre ambassadeur n'a pas manqué de faire part aux autorités malgaches des préoccupations de la France face à ce qui apparaît, notamment pour les résidents ayant déjà acquitté une carte de séjour définitif, comme une mesure confiscatoire. Il s'agit toutefois d'une réglementation qui relève de la décision souveraine d'un Etat, et qui s'applique de manière générale à l'ensemble des résidents. Il est donc difficile d'en contester le principe. En revanche, la France, qui peut compter sur l'appui de ses partenaires européens de la Grande Ile, également concernés par la nouvelle réglementation, sera vigilante sur les conditions de mise en place du dispositif, l'adoption de mesures transitoires adaptées aux situations individuelles et sur l'élaboration des textes d'application. L'attribution d'une aide spécifique par les CCPAS, visant à couvrir ce type de charge, ne peut être envisagée. En effet, destinés à nos compatriotes indigents, ou connaissant de graves difficultés financières, les crédits affectés aux comités consulaires pour l'aide sociale ne peuvent avoir pour objet de contribuer à la prise en charge, même partielle, de taxes locales.
