@@ -1,0 +1,106 @@
+# Délibération portant avis sur le projet de décret en Conseil d'Etat fixant les modalités selon lesquelles les médecins ont accès aux données relatives aux prestations servies aux bénéficiaires de l'assurance maladie et modifiant le code de la sécurité sociale.
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 2005-046
+- Date : 2005-03-15
+- Publication : 2019-11-13
+- NOR : CNIX0609071X
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017653249
+
+La Commission nationale de l'informatique et des libertés,
+
+Saisie le 24 janvier 2005 par le ministre des solidarités, de la santé et de la famille d'un projet de décret en Conseil d'Etat fixant les modalités selon lesquelles les médecins auront accès aux données relatives aux prestations servies aux bénéficiaires de l'assurance maladie ;
+
+Vu la Convention n° 108 du 28 janvier 1981 du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ;
+
+Vu la Directive n° 95/46/CE du Parlement européen et du Conseil en date du 24 octobre 1995 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, modifiée en dernier lieu par la loi n° 2004-801 du 6 août 2004 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel, et notamment ses articles 8, 25 et 30 ;
+
+Vu le code de la sécurité sociale et notamment les articles L. 161-31, L. 161-36-1, L. 162-4-3, L. 324-1 et R. 115-1 et suivants ;
+
+Vu la loi n° 2004-810 du 13 août 2004 portant réforme de l'assurance maladie ;
+
+Après avoir entendu M. François Bernard, commissaire, en son rapport et Mme Charlotte-Marie Pitrat, commissaire du gouvernement, en ses observations ;
+
+Emet l'avis suivant :
+
+Le ministre des solidarités, de la santé et de la famille a saisi la Commission nationale de l'informatique et des libertés du projet de décret en Conseil d'Etat fixant les modalités selon lesquelles les médecins auront accès aux données relatives aux prestations servies aux bénéficiaires de l'assurance maladie. En effet, l'article L. 162-4-3 du code de la sécurité sociale issu de la loi du 13 août 2004 portant réforme de l'assurance maladie prévoit que les médecins peuvent, à l'occasion des soins qu'ils délivrent, consulter les données issues des procédures de remboursement ou de prise en charge qui sont détenues par l'organisme dont relève chaque bénéficiaire de l'assurance maladie.
+
+Ce service, à la différence du dossier médical partagé prévu aux articles L. 161-36-1 et suivants du code de la sécurité sociale, a pour objet de permettre aux médecins qui délivrent des soins aux patients quel que soit leur lieu d'exercice (cabinet libéral, établissement de santé, centre de santé, médecins salariés des régimes spéciaux), de connaître l'historique des actes et prestations délivrés sans qu'il en résulte pour l'assuré de conséquence en matière de remboursement. Les médecins du travail, les médecins experts et les médecins des compagnies d'assurance ne sont pas fondés à accéder à ces données.
+
+Les médecins qui souhaiteront utiliser ce service en informeront préalablement le patient. Le bénéficiaire des soins donnera son accord à cette consultation en utilisant sa carte d'assurance maladie. Le dispositif concernera l'ensemble des régimes obligatoires d'assurance maladie.
+
+Ce relevé de données contiendra les informations nécessaires à l'identification des actes, produits ou prestations pris en charge pour les soins délivrés en ville ou en établissement de santé, le niveau de prise en charge par l'assurance maladie et, pour les patients atteints d'une affection de longue durée, les éléments constitutifs du protocole de soins visés à l'article L. 324-1, 7ème alinéa. II ne contiendra aucune information relative à l'identification des professionnels de santé prescripteurs.
+
+Sur la gestion du dispositif technique par la CNAMTS
+
+Le dispositif technique sera géré par la Caisse nationale d'assurance maladie des travailleurs salariés (CNAMTS) chargée de mettre en place un portail sécurisé permettant l'accès aux serveurs des organismes des différents régimes d'assurance maladie obligatoire.
+
+La Commission prend acte qu'aucune base de données nouvelle ne sera créée et que la CNAMTS devra, dans le dossier de demande d'autorisation qui sera soumis à la Commission, détailler les spécifications techniques des programmes et mécanismes de sécurité mis en oeuvre, notamment en ce qui concerne le mode de chiffrement des flux d'informations, les mesures de protection renforcée qui devront entourer les données issues du protocole de soins et leur acheminement ainsi que la traçabilité des accès au service, tant en ce qui concerne l'historique des accès que le contenu des informations consultées.
+
+En outre, chaque régime d'assurance maladie devra assurer une liaison sécurisée entre le portail géré par la CNAMTS et ses systèmes d'information et à ce titre soumettra à la CNIL un dossier de demande d'autorisation détaillant les mesures de sécurité qui seront mises en oeuvre pour assurer la confidentialité des échanges entre le portail et les systèmes d'information de chaque régime.
+
+En conséquence, la Commission estime que :
+
+- le deuxième alinéa de l'article R. 162-1-10 pourrait être complété comme suit : "Un service unique sécurisé inter-régimes sera créé à cet effet",
+
+- un nouvel alinéa pourrait être ajouté à l'article R. 162-1-10 au terme duquel : "Chaque régime d'assurance maladie obligatoire devra soumettre à la Commission nationale de l'informatique et des libertés une demande d'autorisation précisant les spécifications techniques et les mesures de sécurité mises en oeuvre pour garantir la confidentialité des échanges opérés entre le service unique géré par la caisse nationale d'assurance maladie des travailleurs salariés et les systèmes d'information de chaque régime".
+
+Sur la nature des données collectées
+
+Le relevé d'information comportera des éléments d'identification de l'assuré ou du bénéficiaire notamment son numéro de sécurité sociale ainsi que l'ensemble des actes et prestations pris en charge par l'assurance maladie, les dates de début et de fin des indemnités journalières servies et le lien éventuel avec une affection de longue durée. Les données seront accessibles pendant douze mois.
+
+Toutefois, ne pourront apparaître que les données effectivement enregistrées dans les systèmes d'information de l'assurance maladie, à savoir les codes des médicaments effectivement délivrés ou des actes réalisés même s'ils diffèrent de la prescription.
+
+Pour les patients atteints d'une affection de longue durée, des éléments constitutifs du protocole de soins seront disponibles, notamment le libellé générique de la ou des affections, les prescriptions du protocole actualisées, les actes et prestations concourant au traitement.
+
+Dans la mesure où une même carte Vitale peut comporter plusieurs bénéficiaires (assuré et ayants droit), le médecin devra pouvoir accéder au relevé de chaque bénéficiaire de façon individualisée.
+
+Cet accès individualisé apparaît indispensable pour assurer le respect du secret médical et de l'intimité de la vie privée. Dès lors, la Commission estime que le principe de l'individualisation des ouvrants droit et ayants droit devrait être prévu dans le décret. Il conviendrait en conséquence d'ajouter le terme "individualisé" au premier alinéa de l'article R. 162-1-11 dont la rédaction deviendrait alors : "Le relevé individualisé mis à la disposition ...",
+
+Sur l'information des personnes concernées
+
+L'information sur les modalités de mise en oeuvre de ce dispositif devra être réalisée par les organismes relevant des différents régimes obligatoires d'assurance maladie.
+
+Le médecin devra recueillir l'accord du patient préalablement à la consultation des données. Cet accord se matérialisera par la remise au praticien de sa carte d'assurance maladie.
+
+Le refus du patient de donner au médecin l'accès à son relevé d'informations n'entraînera aucune conséquence en matière de remboursement.
+
+Dès lors, le contenu de l'information qui sera délivrée au patient devra être sans ambiguïté et lui permettre de distinguer les différentes opérations (télétransmission, accès au relevé de prestations) qui sont réalisées avec sa carte Vitale.
+
+Il devra en particulier être informé :
+
+- de l'absence de conséquence financière en cas de refus de sa part de laisser le médecin consulter le relevé de prestation ;
+
+- qu'en permettant au médecin de consulter son relevé d'information ce dernier aura accès à l'ensemble des données remboursées par l'assurance maladie, sans distinction possible selon la nature des soins prodigués et des prescriptions effectuées.
+
+La Commission estime souhaitable d'ajouter dans la nouvelle rédaction prévue pour l'article R. 161-1-12 du code de la sécurité sociale, après les mots "d'en informer ses patients sur son lieu d'exercice" les mots : "par la remise d'une note d'information précisant en particulier les conséquences attachées à la remise de la carte d'assurance maladie en matière d'accès au relevé de prestations et de télétransmission des feuilles de soins".
+
+Sur les mesures de sécurité mises en oeuvre et les modalités d'exercice du droit d'accès
+
+Pour consulter les données, le médecin s'identifiera et s'authentifiera au moyen de sa carte de professionnel de santé ou à défaut, d'un dispositif logiciel équivalent agréé par le GIP CPS. Ce dernier gérera également une liste de révocation afin de vérifier la validité des cartes électroniques ou du dispositif logiciel équivalent.
+
+Le projet de décret prévoit que le droit d'accès s'exerce, pour le bénéficiaire des soins, auprès de sa caisse d'assurance maladie de rattachement ou auprès du contrôle médical pour les données issues du protocole de soins.
+
+La Commission estime nécessaire de rappeler expressément que l'assuré ou l'ayant droit dispose également d'un droit d'accès aux données le concernant auprès du médecin qu'il consulte. Le droit de rectification s'exerce, le cas échéant, auprès de la caisse d'assurance maladie de rattachement ou du contrôle médical.
+
+La Commission demande que :
+
+- le dossier de demande d'autorisation présenté par la CNAMTS comporte, outre les éléments mentionnés dans le décret, l'ensemble des précisions énumérées à l'article 30 de la loi du 6 janvier 1978 et en particulier la nature exacte des données qui seront issues du protocole de soins pour les patients atteints d'une affection de longue durée (ALD) ainsi que l'architecture de dispositif et notamment les modalités d'alimentation du service par tous les organismes gestionnaires d'un régime obligatoire d'assurance maladie,
+
+- dans la mesure où une même carte Vitale peut comporter plusieurs bénéficiaires (assuré et ayants droit), le médecin puisse accéder au relevé de chaque bénéficiaire de façon individualisée. Les fichiers des différents organismes d'assurance maladie devront être organisés en conséquence.
+
+la note d'information remise au patient précise :
+
+- Les modalités d'utilisation de la carte vitale afin de lui permettre de distinguer sans ambiguïté les différentes opérations qui seront réalisée avec la carte : télétransmission, accès au relevé de prestations,
+
+- l'absence de conséquence en matière de remboursement en cas de refus de donner au médecin l'accès à son relevé d'information,
+
+- le droit pour le médecin autorisé par le patient, de consulter son relevé d'information et d'avoir ainsi accès à l'ensemble des données remboursées par l'assurance maladie, sans aucune distinction,
+
+- la possibilité pour l'assuré ou l'ayant droit d'accéder aux données le concernant auprès du médecin qu'il consulte, le droit de rectification s'exerçant auprès de la caisse d'assurance maladie de rattachement ou du contrôle médical.
+
+Le président, Alex TURK.
