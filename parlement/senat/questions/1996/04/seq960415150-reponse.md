@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960415150
+
+- Question : [SEQ960415150](seq960415150.md) — Modification des circonscriptions territoriales des chambres de commerce au regard de l'évolution économique
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 1996-08-08, page 2082*
+
+Réponse. - La loi du 9 avril 1898, relative aux chambres de commerce et d'industrie, stipule : " Les limites de la circonscription de chaque chambre de commerce et d'industrie sont fixées par le décret qui l'institue. " On peut constater qu'un certain nombre d'évolutions de pèrimètre sont effectivement souhaitables et mériteraient donc d'être étudiées. Au cours des travaux préparatoires, il conviendrait de ne pas négliger la question de la nécessaire articulation avec les territoires des administrations de l'Etat ou des collectivités locales. En effet, à l'heure où l'ensemble des actions de développement économique et d'appui aux entreprises sont de plus en plus partenariales, des découpages non cohérents risqueraient de bloquer de nombreuses actions. L'Etat, pour sa part, révise progressivement certains découpages territoriaux, notamment ceux des sous-préfectures, afin de mieux tenir compte des écarts d'évolution démographiques. Par ailleurs, il conviendrait de prendre en compte le découpage des circonscriptions dans lesquelles se trouvent les tribunaux de commerce, car les ressortissants des chambres de commerce et d'industrie sont des personnes physiques et morales, inscrites au registre du commerce et des sociétés tenu au greffe des tribunaux de commerce. Enfin, il faut noter que les demandes d'évolution territoriale provenant des élus consulaires eux-mêmes sont rares et se manifestent, dans ce cas, davantage par une volonté de rapprochement que de fusion. Le dernier rapprochement s'est concrétisé par la création d'un GIE entre les chambres de commerce et d'industrie de Cherbourg et Saint-Lô, dans le département de la Manche.
