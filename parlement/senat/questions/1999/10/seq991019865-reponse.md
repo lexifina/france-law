@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991019865
+
+- Question : [SEQ991019865](seq991019865.md) — Conditions d'obtention des prêts pour les artisans
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 1999-12-09, page 4083*
+
+Réponse. - Les banques considèrent que l'activité de crédit aux très petites entreprises est particulièrement risquée. C'est pourquoi les prêts consentis sont le plus souvent assortis d'une demande de caution solidaire du conjoint lorsque le couple est marié sous le régime de la séparation de biens, ou d'une demande d'engagement du conjoint valant consentement du cautionnement de l'époux lorsque le couple est marié sous un régime de communauté. Toutefois, l'attitude des banques n'est pas différente lorsqu'il s'agit d'une SARL ou même d'une SA. Le statut de société à responsabilité limitée est contourné par les banques qui demandent alors la caution du dirigeant ainsi que l'engagement du conjoint. Il ne faut donc pas isoler le cas des entreprises en statut indépendant, mais il faut considérer la situation des très petites entreprises dans son ensemble. Le Gouvernement entend donc développer des solutions de nature à protéger les conjoints d'artisans, sans pour autant conduire les banques à réduire leur capacité de crédit. Il convient, en effet, de veiller à ne pas restreindre la propension des banques à prêter aux très petites entreprises qui rencontrent d'ores et déjà des difficultés importantes pour obtenir les crédits nécessaires pour financer leur développement. Face à cette situation, le recours à la garantie Sofaris et plus largement au cautionnement mutuel est une bonne réponse car les banques doivent renoncer à la garantie hypothécaire sur l'habitation principale pour avoir accès à cette garantie. C'est le sens du choix du Gouvernement de développer les procédures de garantie accessibles aux artisans comme outil principal d'aide au financement dans ce secteur.
