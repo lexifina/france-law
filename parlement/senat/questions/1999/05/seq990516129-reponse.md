@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990516129
+
+- Question : [SEQ990516129](seq990516129.md) — Réduction de l'indépendance énergétique de la France
+
+## Réponse
+
+*Industrie, JO du 1999-06-24, page 2164*
+
+Réponse. - En effet, le bilan énergétique de la France, publié par le secrétariat d'Etat à l'industrie en avril 1999, montre qu'en 1998 le taux d'indépendance énergétique (c'est-à-dire le rapport de la production nationale d'énergie primaire sur la consommation totale d'énergie primaire, non corrigée du climat) a perdu 2,7 points sur un an, à 48,5 %. Il faut cependant noter que cette baisse est à la fois conjoncturelle et limitée au regard des évolutions antérieures : conjoncturelle, en raison d'une baisse sensible (- 1,9 %) de la production d'électricité primaire, c'est-à-dire hydraulique et nucléaire, du fait d'une faible pluviométrie et de problèmes de disponibilité de certaines centrales nucléaires ; limitée, car le taux d'indépendance reste proche de 50 %, alors qu'il ne valait que 25 % en 1976. Depuis 1987, il oscille entre 48,5 % et 52,8 %. A titre de comparaison, selon les dernières statistiques de l'Agence internationale de l'énergie, l'Allemagne et l'Italie présentaient en 1996 des taux d'indépendance énergétique de respectivement 40 % et 18 %. Il n'en reste pas moins que le Gouvernement suit attentivement l'évolution du taux d'indépendance énergétique de la France. Même s'il ne s'agit pas d'un critère suffisant, à lui seul, pour décrire ou qualifier la politique énergétique, ce taux permet d'apprécier le niveau de sécurité d'approvisionnement de notre pays. C'est une des facettes de la politique énergétique équilibrée et respectueuse de l'environnement que le secrétariat d'Etat à l'industrie a présentée, au nom du Gouvernement, devant l'Assemblée nationale le 21 janvier dernier.
