@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030608190
+
+- Question : [SEQ030608190](seq030608190.md) — Situation du Collège international de philosophie de Paris
+
+## Réponse
+
+*Recherche, JO du 2003-09-04, page 2749*
+
+Le Collège international de philosophie, association loi de 1901, bénéficie d'une aide très importante de l'État depuis le début des années 80 pour son fonctionnement ; elle se décompose, d'une part, en une subvention annuelle de fonctionnement et, d'autre part, en une aide en nature correspondant à des décharges accordées aux enseignants du second degré menant des recherches en son sein pour un montant global de 7,5 emplois avec la mise à disposition de locaux. Ces contributions font l'objet d'une convention-cadre arrivée à échéance fin 2002. Des rencontres entre le président du Collège international de philosophie, le président de l'assemblée collégiale et le ministère de la recherche ont eu lieu pour préparer le renouvellement de la convention cadre. À l'issue de ces rencontres, le montant annuel de la subvention a été fixé à 370 000 euros, dans le cadre d'une convention pluriannuelle. Ce montant, exceptionnel pour une association, permettra au Collège de poursuivre ses activités, notamment grâce à une diversification nécessaire de ses sources de financement. Un certain nombre d'objectifs ont en outre été définis de manière conjointe pour mieux affirmer la place du Collège au sein du dispositif de recherche nationale en philosophie. Comme pour d'autres organismes, la subvention annuelle de fonctionnement a dû être réduite de façon exceptionnelle pour l'année 2003 à 300 000 euros pour tenir compte des annulations de crédits sur l'ensemble du budget de l'État. Cette décision conduira le Collège à réduire ou à reporter certaines activités scientifiques. Il sera cependant en mesure d'équilibrer son budget sur l'exercice en cours compte tenu des réserves dont il dispose.
