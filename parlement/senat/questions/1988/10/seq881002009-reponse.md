@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881002009
+
+- Question : [SEQ881002009](seq881002009.md) — Assurances : notion de local annexe
+
+## Réponse
+
+*Économie, JO du 1988-12-15, page 1426*
+
+Réponse. - La notion de " local annexe " est aujourd'hui peu utilisée dans les contrats multirisque habitation. Les assureurs emploient couramment la notion voisine de " dépendances ". Ils prennent généralement le soin de définir ce qu'il faut entendre par ce terme de façon précise pour éviter les litiges en cas de sinistre. La définition courante reprise par la plupart des contrats considère comme dépendances les caves, chambres de domestiques, débarras, garages, bâtiments à usage divers, sans communication avec les locaux à usage d'habitation. Elles sont très souvent assimilées aux biens immobiliers garantis et leur assurance ne donne pas lieu - sauf cas très spécifiques - à une surprime. En revanche, la mise en jeu des garanties est souvent soumise à des conditions concernant ces biens ; c'est ainsi que pour bénéficier de la garantie tempête, elles doivent être construites et couvertes en matériaux durs. Mais c'est surtout en matière de vol que peuvent intervenir ces restrictions ; en effet, c'est précisément le fait que ces locaux soient séparés et sans communication intérieure avec l'habitation principale qui les rend vulnérables. Un bâtiment isolé peut permettre aux cambrioleurs d'opérer en toute impunité, à l'abri de toute surveillance. En conséquence, si les assureurs acceptent généralement de garantir les objets mobiliers contenus dans les dépendances, ils limitent la garantie pour les objets de valeur ou l'excluent purement et simplement. Il appartient donc aux assurés disposant de telles installations de veiller à la bonne adéquation des garanties à la nature des risques qu'ils souhaitent voir couverts.
