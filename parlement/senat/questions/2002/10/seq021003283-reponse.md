@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021003283
+
+- Question : [SEQ021003283](seq021003283.md) — Pratique du roller
+
+## Réponse
+
+*Intérieur, JO du 2003-01-02, page 62*
+
+L'honorable parlementaire appelle l'attention du ministre de l'intérieur, de la sécurité intérieure et des libertés locales sur l'absence de statut des utilisateurs de rollers ou patins à roulettes. Le ministère de l'intérieur, de la sécurité intérieure et des libertés locales n'est pas favorable à la création d'un statut des utilisateurs de rollers ou des autres sports de glisse. En effet, l'adoption d'un tel statut reviendrait à découper indéfiniment la voie publique entre les différents usagers : conducteurs automobiles, cyclistes, utilisateurs de rollers, de planches à roulettes, avec le risque que les utilisateurs, chaque fois qu'un nouveau moyen de locomotion apparaît, revendiquent un statut spécifique. De plus, il est à craindre qu'une nouvelle réglementation, du simple fait de son existence, confère un sentiment excessif de sécurité aux utilisateurs de rollers, que rien ne justifie. Il apparaît à cet égard plus pertinent de mettre l'accent sur le comportement des utilisateurs d'appareils à roulettes : les équipements de protection, notamment, sont trop peu portés. Pour autant, le ministère de l'intérieur, de la sécurité intérieure et des libertés locales n'est pas hostile à une concertation interministérielle qui examinerait des adaptations du code de la route permettant aux autorités locales d'autoriser la pratique des sports de glisse sur les voies cyclables. De même, une distinction pourrait être envisagée entre circulation sur le trottoir qui devrait s'effectuer à vitesse réduite afin de limiter les risques de collision avec les piétons et circulation sur la chaussée qui serait tolérée en l'absence d'emplacements plus adéquats.
