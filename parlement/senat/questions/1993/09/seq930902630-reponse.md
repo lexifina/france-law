@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930902630
+
+- Question : [SEQ930902630](seq930902630.md) — Revalorisation des cotisations sociales agricoles
+
+## Réponse
+
+*Budget, JO du 1994-12-29, page 3075*
+
+Réponse. - Le Gouvernement a allégé de 300 MF les cotisations sociales dues au titre de 1993 par les exploitations agricoles, en décidant la prise en charge par l'Etat des exonérations partielles dont bénéficient les jeunes agriculteurs au moment de leur installation. Cet allégement a permis de limiter à 7 p. 100 par rapport à 1992 la hausse moyenne des cotisations sociales supportée en 1993 par la profession agricole. Le décret n° 93-1153 du 8 octobre 1993 relatif au financement du régime de protection sociale des personnes non salariées des professions agricoles pour 1993 a mis en oeuvre cette décision. Les cotisations sociales dues au titre de 1994 enregistrent, quant à elles, les conséquences de la diminution du revenu agricole et des aménagements de l'assiette des cotisations opérés par l'article 32 de la loi n° 94-114 du 10 février 1994 portant diverses dispositions concernant l'agriculture et le décret n° 94-690 du 9 août 1994 pris pour son application. Elles intègrent également les conséquences de la prise en charge par l'Etat des exonérations de 30 p. 100 des cotisations maladie pour les agriculteurs nouvellement installés. Au total, ces cotisations connaissent une diminution moyenne de 9 p. 100 par rapport à 1993. Par ailleurs, le Gouvernement a souhaité amplifier l'allégement, entamé en 1990, des taxes parafiscales à la charge des agriculteurs perçues au profit du budget annexe des prestations sociales agricoles. Il a donc été décidé de réduire de 50 p. 100, au titre de la campagne 1994-1995, les taux des taxes sur les céréales et les oléagineux, ce qui représente pour les producteurs concernés un allégement de charges de l'ordre de 230 MF par rapport à la précédente campagne.
