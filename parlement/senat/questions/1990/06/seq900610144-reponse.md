@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900610144
+
+- Question : [SEQ900610144](seq900610144.md) — Utilisation des équivalents-emplois nouveaux par les lycées professionnels et technologiques privés
+
+## Réponse
+
+*Éducation, JO du 1990-08-23, page 1824*
+
+Réponse. - Les moyens nouveaux ouverts chaque année dans la loi de finances en faveur des établissements privés permettent la mise sous contrat de nouvelles classes, conformément aux dispositions de l'article 119-I de la loi de finances pour 1985 (loi n° 84-1208 du 29 décembre 1984). S'agissant des établissements privés d'enseignement technique du second degré, la mise sous contrat d'association de nouvelles classes doit répondre à l'ensemble des conditions légales requises, à la fois quantitatives et qualitatives. La classe faisant l'objet de la demande de contrat doit notamment répondre à un besoin scolaire dont la reconnaissance dépend essentiellement du choix des familles, guidé par le caractère propre de l'établissement, conformément aux dispositions de l'article 4 de la loi n° 59-1557 du 31 décembre 1959 modifiée. La formation prévue doit également être compatible avec les besoins de formation recensés par les schémas prévisionnels, les plans régionaux et la carte des formations supérieures, en application de l'article 27-3 de la loi n° 83-663 du 22 juillet 1983 modifiée. Il résulte de ces dispositions que, compte tenu de l'ensemble des besoins en formation à satisfaire, le développement du secteur public ne peut pas être sans conséquence sur celui du secteur privé sous contrat et réciproquement, un équilibre entre les deux secteurs devant être recherché, dans le respect du choix de toutes les familles. Il appartient au recteur d'académie, en concertation étroite avec les représentants des établissements privés, de répartir les moyens nouveaux en tenant compte de l'ensemble de ces critères.
