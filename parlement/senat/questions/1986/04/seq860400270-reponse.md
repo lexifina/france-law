@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860400270
+
+- Question : [SEQ860400270](seq860400270.md) — Construction du nouvel institut culturel français à Budapest (Hongrie)
+
+## Réponse
+
+*Affaires étrangères, JO du 1986-06-26, page 880*
+
+Réponse. -Après l'annonce, en 1982, par le Président de la République, de la construction d'un nouveau bâtiment pour l'institut français de Budapest, un concours d'architecture a permis au ministre des relations extérieures de désigner un projet lauréat en novembre 1984. De longues négociations avec les autorités hongroises ont abouti, en décembre 1985, à une solution satisfaisante pour l'Etat français quant à la liberté du choix de l'entreprise et à la participation des services techniques hongrois à cette réalisation. Actuellement, l'architecte lauréat, Georges Maurios, a obtenu son habilitation à construire en Hongrie. Selon les termes du contrat conclu avec les autorités hongroises, l'avant-projet vient d'être examiné et approuvé par les services d'urbanisme de Budapest. Il s'agit maintenant d'affiner cette étude pour que la demande de permis de construire satisfasse à tous les règlements locaux. Parallèlement, l'élaboration des plans d'exécution se poursuit pour aboutir à un appel d'offres au début de 1987, puis au démarrage du chantier. Les crédits nécessaires à cette opération devraient être mobilisés début 1987, en autorisation de programme, en faisant masse de crédits budgétaires 1986 et 1987 afin de signer les marchés de travaux, le montant de l'opération étant bien supérieur à 20 millions de francs. Les crédits de paiement devront, eux, être établis pour les années 1987, 1988 et 1989. Ces nouveaux bâtiments ont été conçus pour permettre un développement des activités de l'établissement : en effet, celles-ci ont lieu actuellement dans de mauvaises conditions d'espace et de sécurité, dans des locaux loués à l'Etat hongrois et qui seront alors remis à sa disposition.
