@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881202815
+
+- Question : [SEQ881202815](seq881202815.md) — Salariés de la Société nationale des poudres et explosifs d'Angoulême (Charente)
+
+## Réponse
+
+*Défense, JO du 1989-04-13, page 594*
+
+Réponse. - Depuis plusieurs années, la Société nationale des poudres et explosifs (S.N.P.E.) a engagé un certain nombre d'actions qui répondent aux préoccupations exprimées par l'honorable parlementaire. Les études et développements conduits à Angoulême représentent près de 20 p. 100 de l'activité de l'établissement, ce qui témoigne du souci de la S.N.P.E. et de la défense qui finance la majeure partie de ces travaux, de conforter l'avenir de ce site. Pour ce qui concerne la propulsion ou les poudres, le développement de trois programmes majeurs a été confié au bureau d'étude de cet établissement : l'A.C.C.P. (anti char courte portée) ou Eryx qui équipera l'armée française ; l'A.C. 3 G (anti char de troisième génération) à longue portée commandé par les trois armées française, allemande et britannique et susceptible d'être exporté ; la poudre de l'obus du canon de 120 millimètres franco-allemand qui équipera le char " Leclerc " mais qui sera également proposé à l'exportation sur d'autres matériels. La fabrication de ces produits sera confiée à l'établissement d'Angoulême dont l'avenir est donc assuré durant la prochaine décennie. A court terme, des efforts incontestables sont déployés par la société sur le plan commercial mais ils se heurtent à la réduction actuellement constatée des marchés concernant certains des produits traditionnels de la poudrerie d'Angoulême. Le ministre de la défense, tout en étant pleinement conscient de la situation actuelle de la charge de l'établissement a le souci de ne pas compromettre la compétitivité de l'entreprise. condition nécessaire de son développement et, à terme, gage du maintien de l'emploi.
