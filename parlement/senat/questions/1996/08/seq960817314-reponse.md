@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960817314
+
+- Question : [SEQ960817314](seq960817314.md) — Communes : annexion au compte administratif du bilan des acquisitions et cessions immobilières
+
+## Réponse
+
+*Fonction publique, JO du 1997-03-13, page 778*
+
+Réponse. - L'article L. 2241-1 du code général des collectivités territoriales prévoit que les opérations immobilières réalisées par les communes, spécialement celles de plus de 2 000 habitants, donnent lieu à délibération motivée du conseil municipal. En outre, pour ces mêmes communes, toute cession d'immeuble ou de droits réels immobiliers doit également donner lieu à une délibération motivée du conseil municipal portant sur les conditions et caractéristiques essentielles de la vente, au vu de l'avis du service des domaines. Il convient d'observer que la rédaction actuelle de cet article L. 2241-1 est le résultat d'une fusion des dispositions des articles L. 311-1 et L. 311-8 de l'ancien code des communes, dans leur version modifiée par la loi no 95-127 du 8 février 1995 relative aux marchés publics et délégations de service public, De ces deux articles, seul l'article L. 311-8 était applicable dans les trois départements de la Moselle, du Bas-Rhin et du Haut-Rhin. C'est donc par le fait d'une généralisation excessive que l'article L. 2542-26 du code général des collectivités territoriales, lui-même traduction de l'ancien article L. 391-1 du code des communes, exclut intégralement l'application de cet article L. 2241-1 dans les départements de la Moselle, du Bas-Rhin et du Haut-Rhin. Une modification législative est nécessaire afin de clarifier le régime applicable aux acquisitions et aux cessions opérées sur le territoire d'une commne de plus de 2 000 habitants dans les départements précités. A cet effet, il pourrait être proposé d'y rendre applicable l'article L. 2241-1 à l'exception de son premier alinéa.
