@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960314533
+
+- Question : [SEQ960314533](seq960314533.md) — Familles inscrites aux commissions départementales d'aide aux rapatriés réinstallés
+
+## Réponse
+
+*Relations avec le Parlement, JO du 1996-04-11, page 879*
+
+Réponse. - L'honorable parlementaire est informé que les secrétariats des CODAIR ont reçu, au 31 janvier dernier, 1 061 dossiers des rapatriés réinstallés dans une profession non salariée. 467 demandes ont été déclarées éligibles au dispositif législatif et réglementaire mis en place en leur faveur, et 213 dossiers ont été définitivement réglés. 196 dossiers n'étaient pas éligibles à ce dispositif. Sur 398 dossiers restants, 162 encore incomplets sont toujours à l'instruction et 45 sont pendants devant diverses juridictions administratives. 191 ont été rejetés, soit parce que les dossiers n'ont pas été complétés dans les six mois ayant suivi le dépôt de la requête, soit à la suite de désistements des intéressés, soit enfin parce que la garantie de l'Etat avait été mise en jeu à la suite d'un prêt de consolidation. Les dispositions législatives en vigueur (art. 44 de la loi no 1318 du 30 décembre 1986, art. 10, 11 et 12 de la loi du 16 juillet 1987 et leurs textes d'application) doivent permettre de régler avant le 31 décembre 1996 les dossiers déposés devant les CODAIR et déclarés éligibles à ces dispositions. Par ailleurs, les nominations des membres du comité national consultatif sont intervenues après consultation des associations les plus représentatives définies par l'arrêté du 19 avril 1971 (Journal officiel du 24 avril 1971). Ces délégués ayant été nommés pour deux ans, à compter du 19 juillet 1994, une éventuelle modification ne pourra intervenir qu'à l'expiration du mandat de ces délégués si, toutefois, il apparaît nécessaire de prolonger l'activité de ce comité.
