@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030708374
+
+- Question : [SEQ030708374](seq030708374.md) — Projet de modification des plaques d'immatriculation des voitures
+
+## Réponse
+
+*Équipement, JO du 2003-11-06, page 3276*
+
+La réflexion sur l'évolution du système d'immatriculation des véhicules est interministérielle. Elle est menée dans le cadre d'une direction de projet créée à cet effet par le ministère de l'intérieur, de la sécurité intérieure et des libertés locales. Cette réflexion doit intégrer un certain nombre de contraintes, dont les deux plus importantes sont, d'une part, la fiabilité de l'identification du véhicule, de son propriétaire et de son adresse, en vue d'une amélioration de la chaîne contrôles sanctions pour les infractions au code de la route et, d'autre part, la qualité de service à l'usager, en lui épargnant des démarches administratives et des dépenses inutiles. Dans cette perspective, la direction de projet mène une réflexion sur le principe d'un numéro affecté, de façon permanente, à chaque véhicule et délivré selon une série chronologique nationale. Ce principe, qui a été retenu par un certain nombre de nos voisins, est évidemment incompatible avec une référence départementale ou régionale intégrée dans le numéro d'immatriculation. La direction de projet a tenu compte du caractère très délicat de certains aspects de ce dossier et elle a procédé aux plus larges consultations dans le cadre de la mission qui lui a été confiée. C'est pourquoi la création d'une commission de réflexion, dont le mandat ferait nécessairement double emploi avec celui de la direction de projet, ne semble pas nécessaire. Si la proposition de la direction de projet est retenue, le Gouvernement pourra prévoir, pour les Français attachés à l'affichage de leur appartenance départementale ou régionale, la faculté d'apposer, à côté de leur plaque d'immatriculation, un symbole normalisé de cette appartenance.
