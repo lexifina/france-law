@@ -1,0 +1,9 @@
+# Réponse à la question SEQ921224256
+
+- Question : [SEQ921224256](seq921224256.md) — Rapport de la Cour des Comptes relatif au service d'information et de relations publiques des armées
+
+## Réponse
+
+*Défense, JO du 1993-03-04, page 380*
+
+Réponse. - Les observations de la Cour des comptes relatives à la politique de communication du ministère de la défense portant sur la période 1987-1990 ont fait l'objet d'un référé adressé au ministre le 3 juillet 1991 avant que leur synthèse soit insérée dans le rapport annuel au Président de la République rendu public en juin 1992. Dès 1991 les enseignements en ont été tirés et des mesures ont été prises pour assurer une meilleure organisation de la communication au ministère de la défense. C'est ainsi qu'a été redéfini le rôle respectif du service d'information et de relations publiques des armées (SIRPA) et des organismes de communication de chaque armée, de la gendarmerie et de la délégation générale pour l'armement et qu'a été renforcée la nécessaire coordination de leurs activités. Par ailleurs, l'amélioration des conditions d'exécution de la dépense publique a été poursuivie. Le respect de l'orthodoxie budgétaire et des règles de procédure financière a notamment été facilité par la mise en oeuvre d'une comptabilité informatique centralisée des commandes. En outre, une réflexion est actuellement menée pour tenter d'améliorer l'efficacité tant du SIRPA lui-même que de son organisme extérieur, l'établissement cinématographique et photographique des armées. La restructuration progressive de nos armées, leur présence multipliée en de nombreux points du globe, que ce soit en vertu d'accords bilatéraux ou comme élément d'opérations internationales, imposent plus que jamais que le SIRPA, chargé notamment d'en rendre compte, dispose d'une structure efficace et de moyens adaptés pour faire face à un service de communication de plus en plus exigeant. 4AA Cour des comptes 6AA Armée
