@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910917504
+
+- Question : [SEQ910917504](seq910917504.md) — Difficultés éprouvées par les mal-voyants pour déchiffrer les annuaires téléphoniques ou les codes postaux
+
+## Réponse
+
+*Postes, JO du 1991-12-05, page 2724*
+
+Réponse. - L'édition de la brochure Code postal, diffusée à la suite des décisions prises le 1er mars 1989 et concernant la simplification de l'adresse postale, répond à la fois à des critères économiques et pratiques. Le format choisi pour cette édition est donc un compromis cherchant à concilier lisibilité, encombrement acceptable et coût de fabrication. D'une manière générale, ce choix a donné satisfaction mais peut effectivement poser problème pour les malvoyants. Compte tenu de la validité des informations contenues dans la brochure et des stocks importants actuellement disponibles, la prochaine édition du Code postal n'interviendra qu'en 1993. A cette occasion, la suggestion de l'honorable parlementaire concernant une meilleure lisibilité du Code postal sera intégrée dans les critères de choix. Concernant l'annuaire téléphonique, le choix des caractères d'impression est nécessairement un compromis cherchant à concilier lisibilité et encombrement acceptable. Pour un nombre d'inscriptions donné dans une page, France Télécom s'est efforcé d'assurer une lisibilité optimale par le choix des caractères (depuis 1980 les noms sont en lettres capitales) et la " mise en facteur " des homonymes qui permet de mieux repérer le passage d'un nom patronymique à un autre. Toute augmentation de la taille des caractères, qui certes faciliterait la lecture par les malvoyants, entraînerait inévitablement une augmentation du volume global, donc du coût de fabrication, et de l'encombrement, d'autant plus que le nombre des abonnés inscrits est en croissance permanente.
