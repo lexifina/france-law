@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860400474
+
+- Question : [SEQ860400474](seq860400474.md) — Statut des agents et conducteurs de travaux publics de l'Etat
+
+## Réponse
+
+*Équipement, JO du 1986-07-24, page 1045*
+
+Réponse. -Les départements ministériels chargés du budget et de la fonction publique sont saisis de deux projets de réforme statutaire portant création du corps des contrôleurs des travaux publics de l'Etat et du corps des agents d'exploitation des travaux publics de l'Etat, destinés à remplacer respectivement le corps des conducteurs des travaux publics de l'Etat et le corps des agents des travaux publics de l'Etat. Ces projets n'on pu, à ce jour, recevoir une suite favorable, compte tenu de la pause catégorielle. Les problèmes rencontrés pour ces corps, et qui rejoignent d'autres revendications catégorielles, ont amené à engager une réflexion globale sur la modernisation de l'administration de l'équipement, aujourd'hui confrontée à d'importantes modifications de ses structures centrales et territoriales résultant de la décentralisation. Cette réflexion, qui porte sur la redéfinition des missions confiées à cette administration et sur ses perspectives d'organisation et de modernisation, devrait aboutir à une nouvelle structure des qualifications dans les services et créer les conditions pour que la situation des agents, au regard de statuts souvent très anciens, puisse être redéfinie sur des bases objectives prenant en compte la réalité de leurs responsabilités dans une administration modernisée et efficace. De façon plus immédiate, le budget de 1986 du ministère de l'équipement, du logement, de l'aménagement du territoire et des transports prévoit la transformation de 1 500 emplois d'agents des travaux publics de l'Etat en emplois d'ouvriers professionnels de 2e catégorie des travaux publics de l'Etat, et celle de 150 emplois de conducteurs de travaux publics de l'Etat en emplois de conducteurs principaux des travaux publics de l'Etat.
