@@ -1,0 +1,9 @@
+# Réponse à la question SEQ891106851
+
+- Question : [SEQ891106851](seq891106851.md) — Procédure de la naturalisation
+
+## Réponse
+
+*Solidarité, JO du 1990-02-01, page 226*
+
+Réponse. - Le ministère de la solidarité, de la santé et de la protection sociale adresse effectivement au postulant de la naturalisation, dont la demande a fait l'objet d'une suite favorable de principe, une lettre lui annonçant l'insertion de son nom dans un décret susceptible d'intervenir dans le semestre à venir, compte tenu des contraintes de la procédure. Cette lettre a pour but essentiel d'informer le plus tôt possible le postulant de l'état d'avancement de son dossier et d'éviter des interventions écrites ou téléphoniques de sa part, car de telles interventions alourdissent la tâche de mes services. Après l'envoi de la lettre précitée, la procédure de naturalisation n'est pas terminée. En effet, d'autres opérations, souvent longues, doivent être effectuées, à savoir : 1° Confection des actes d'état civil français par le service central d'état civil du ministère des affaires étrangères. 2° Recouvrement des droits de sceau auprès des postulants par la recette des actes judiciaires de la Cour de cassation. 3° Francisation du nom et du prénom pour certains postulants, ce qui nécessite des échanges de correspondances souvent longs, pour obtenir leur accord sur les propositions faites dans ce domaine par l'administration. 4° Signature du décret de naturalisation et publication de ce décret au Journal officiel. 5° Enfin, transmission à l'intéressé de l'ampliation du décret et des pièces d'état civil françaises, par l'intermédiaire du préfet. L'ensemble de ces opérations, souvent complexes, est réalisé actuellement dans un délai variant entre quatre et cinq mois. Ce délai est encore trop long et mes services ont donc pris récemment des mesures pour essayer de le raccourcir (meilleures liaisons avec le service central d'état civil et les préfectures).
