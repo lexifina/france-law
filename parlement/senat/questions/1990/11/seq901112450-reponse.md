@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901112450
+
+- Question : [SEQ901112450](seq901112450.md) — Difficultés d'obtention de visas pour le Japon
+
+## Réponse
+
+*Affaires étrangères, JO du 1991-03-14, page 528*
+
+Réponse. - La situation évoquée par l'honorable parlementaire est bien connue de ce département. Le ministère des affaires étrangères a en effet été saisi par notre ambassade au Japon des difficultés engendrées par les pratiques de ce pays en matière de visas de long séjour. Il a été constaté en effet que les ressortissants français souhaitant travailler au Japon recevaient parfois très difficilement des visas de long séjour et que ce phénomène était aggravé par la mise en oeuvre, le 1er juin 1990, d'une nouvelle loi japonaise sur l'immigration. De leur côté, les ressortissants japonais qui sont beaucoup plus nombreux à vouloir venir en France que ne le sont nos compatriotes pour aller au Japon, se voyaient accorder en nombre croissant des visas de long séjour en France dès lors qu'ils répondaient aux exigences de la réglementation. Cette situation a été évoquée lors de la visite du Premier ministre au Japon dès juillet dernier. Depuis des contacts ont été établis,tant à Tokyo qu'à Paris au sujet de ce problème afin de remédier aux déséquilibres parfois constatés en matière de réciprocité. A Tokyo, des démarches ont été entreprises auprès des autorités nippones en liaison avec nos autres partenaires de la Communauté européenne. Pour ce qui concerne l'introduction en France des travailleurs japonais, une concertation a été menée entre les diverses administrations concernées. Il a été décidé de veiller à une stricte application de la réglementation au regard notamment de la situation de l'emploi, en tenant compte également du souci d'obtenir que nos ressortissants puissent bénéficier, dans des situations analogues, d'un traitement comparable au Japon à celui des travailleurs japonais autorisés à venir dans notre pays.
