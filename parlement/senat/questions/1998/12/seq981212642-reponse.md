@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981212642
+
+- Question : [SEQ981212642](seq981212642.md) — Nouvelle bonification indiciaire des agents détachés de l'Etat
+
+## Réponse
+
+*Fonction publique, JO du 1999-03-11, page 784*
+
+Réponse. - En vertu de l'article 27 de la loi nº 91-73 du 18 janvier 1991, la nouvelle bonification indiciaire (NBI) est attribuée pour certains emplois comportant une responsabilité ou une technicité particulières. La NBI n'est donc pas associée au grade mais à la fonction. Elle est prise en compte pour le calcul de la pension de retraite, et soumise à une cotisation pour la vieillesse. Il convient de souligner que le détachement ne fait pas obstacle au versement de la NBI, dès lors que l'emploi d'accueil y ouvre droit. A ce titre, le principe de mobilité des fonctionnaires entre les trois fonctions publiques n'est pas affecté. Pourtant, il est vrai qu'en l'état actuel des textes le fonctionnaire territorial détaché auprès de l'Etat ne peut acquérir de droits supplémentaires à pension à ce titre dans son nouvel emploi. En effet, l'article 65 de la loi nº 84-53 du 26 janvier 1984 dispose que le fonctionnaire détaché ne peut " être affilié au régime de retraite dont relève la fonction de détachement, ni acquérir, à ce titre, des droits quelconques à pensions ou allocations, sous peine de la suspension de la pension de la Caisse nationale de retraite des agents des collectivités locales ". En l'absence de dispositions législatives expresses, le fonctionnaire détaché continuera de cotiser sur la base du seul traitement indiciaire brut afférent au grade détenu avant le détachement, même s'il bénéficie de la NBI au titre de la fonction qu'il exerce par l'effet de son détachement. Compte tenu des difficultés de gestion pouvant découler de l'application des dispositions législatives en vigueur, cette question est actuellement soumise à un examen interministériel approfondi.
