@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970321322
+
+- Question : [SEQ970321322](seq970321322.md) — Situation des agents de recrutement local du consulat général de France à Sao Paulo (Brésil)
+
+## Réponse
+
+*Affaires étrangères, JO du 1997-06-02, page 1613*
+
+Réponse. - Les agents de recrutement local du consulat de France à Sao Paulo ne sont pas moins bien traités que leurs collègues à Brasilia, Rio de Janeiro, Recife et Belem. Il est vrai que la forte montée du dollar, sur lequel le real est indexé, a entraîné une baisse relative d'environ 10 % depuis novembre 1996 du salaire de ces personnels, fixé il y a quelques années en base franc parce qu'il était apparu nécessaire de leur garantir une certaine stabilité de leur niveau de rémunération compte tenu des dévaluations importantes de la monnaie locale. Diverses mesures ont d'ores et déjà été prises : mise en place au 1er janvier 1997 de la dernière phase du cadre d'harmonisation salarial qui garantit une meilleure progression des salaires et paiement régulier d'une prime forfaitaire de transport, soit un coût annuel supplémentaire pour le département de 488 000 francs ; mise en placed au 1er mars 1997 d'un plan de santé sous forme de souscription à un système d'assurance privée, en complément du système local obligatoire mais insuffisant, soit un surcoût annuel de 468 000 francs ; programmation d'une mission de la direction des ressources humaines du ministère des affaires étrangères, qui se rendra fin mai au Brésil afin d'étudier l'ensemble des problèmes relatifs à la situation des recrutés locaux. Enfin, le ministère des affaires étrangères, présentera début juin devant la commission interministérielle sur l'évolution du coût de la vie une demande de revalorisation générale des salaires des recrutés locaux au Brésil, à hauteur du pourcentage que la mission précitée aura pu déterminer.
