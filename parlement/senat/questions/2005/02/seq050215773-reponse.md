@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050215773
+
+- Question : [SEQ050215773](seq050215773.md) — Situation des étudiants ayant réussi le concours de greffier des services judiciaires
+
+## Réponse
+
+*Justice, JO du 2005-03-24, page 865*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire qu'il est très attentif à la situation des greffiers stagiaires suivant leur scolarité à l'école nationale des greffes à Dijon ainsi que leur stage pratique en juridictions, notamment les stagiaires originaires des départements et territoires d'outre-mer. Le déroulement des stages dans les juridictions de leur département d'origine des greffiers stagiaires originaires des départements et territoires d'outre-mer, issus des concours internes ou externes, avait été expressément exclu par une note du directeur des services judiciaires du 11 mars 1987 car ne permettant pas un suivi des stages par la direction de l'école nationale des greffes. Une dérogation a été faite pour certains des greffiers stagiaires originaires des départements et territoires d'outre-mer qui avaient réussi l'examen professionnel d'accès au corps des greffiers, examen réservé aux fonctionnaires de catégorie C faisant fonction de greffiers, à l'égard desquels l'administration avait pris l'engagement d'une affectation dans le ressort de leur cour d'appel d'origine à l'issue de leur formation. Au regard de ces éléments, s'agissant des greffiers stagiaires originaires des départements et territoires d'outre-mer issus du recrutement interne ou externe dans le cadre du concours national d'accès au corps des greffiers, il n'apparaît donc pas possible de déroger aux règles d'organisation des stages en juridiction dont les modalités, fixées par la note du 11 mars 1987, excluent l'organisation des stages dans les juridictions des départements et territoires d'outre-mer.
