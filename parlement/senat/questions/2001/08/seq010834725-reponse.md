@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010834725
+
+- Question : [SEQ010834725](seq010834725.md) — Retraite des commerçants indépendants ayant exercé une activité de salarié
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2001-10-18, page 3337*
+
+S'agissant des assurés dont la carrière est exclusivement salariée, les régimes complémentaires AGIRC et ARCCO versent des retraites complémentaires à taux plein, dès l'âge de soixante ans, aux termes d'un accord signé en 1983 par les partenaires sociaux, accord par lequel ces régimes bénéficient des abondements de fonds nécessaires à leur financement. Pour des salariés devenus artisans, prenant leur retraite avant l'âge de soixante-cinq ans en cette dernière qualité, la pension qui leur est servie au titre du régime complémentaire de salarié est calculée à taux plein à la suite d'un avenant ayant associé les professions artisanales à la structure financière de compensation (ASF). Par ailleurs, lorsque des salariés devenus commerçants prennent leur retraite avant l'âge de soixante-cinq ans, la pension qui leur est servie au titre du régime complémentaire de salarié fait effectivement l'objet d'un abattement de 22 %, aucun avenant d'association à l'ASF n'ayant été possible pour des raisons tenant aux caractéristiques actuelles des régimes complémentaires ORGANIC obligatoire et facultatif. C'est pourquoi, à l'invitation des pouvoirs publics, les administrateurs de l'ORGANIC ont mené une réflexion qui doit aboutir à l'extinction du régime obligatoire actuel au profit d'un véritable régime complémentaire obligatoire bénéficiant à tous. Cette position pourrait être validée dès la prochaine assemblée plénière de l'ORGANIC. Cette caisse nationale sera alors en mesure de passer une convention avec les régimes de l'AGIRC et de l'ARCCO afin de mettre un terme à l'application de cet abattement.
