@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000121783
+
+- Question : [SEQ000121783](seq000121783.md) — Sort des navires-poubelles
+
+## Réponse
+
+*Équipement, JO du 2000-05-18, page 1785*
+
+Réponse. - Le ministre de l'équipement, des transports et du logement tient à confirmer tout l'intéret qu'il porte au problème des " navires poubelles " et à l'optimisation des procédures du type : " constat d'abandon de navire ", afin de rendre les solution actuelles plus efficaces et plus rapides. Le principe de cette procédure est que le propriétaire, mis en demeure par l'autorité administrative, doit prendre toutes les mesures nécessaires pour faire cesser le danger ou la nuisance provoquée par le navire ou l'épave. Lorsque ce dernier n'obtempère pas, l'autorité compétente se substitue à lui, à ses frais et risques. Si l'état d'abandon persiste, la déchéance est prononcée au terme d'un délai d'un mois après nouvelle mise en demeure. Passé ce délai de deux mois, l'Etat peut organiser la vente à son bénéfice ou à celui de l'autorité qui a engagé les frais de surveillance. Il s'agit de mesures coercitives qui permettent à l'autorité administrative de disposer d'un pouvoir d'intervention très large aux frais et risques du propriétaire, qu'elle peut diligenter à tout moment, bénéficiant des pouvoirs classiques d'exécution d'office en cas d'urgence, et pouvant aller jusqu'à la déchéance de propriété, au terme d'une procédure contradictoire qui peut être brève. Pour ce qui concerne le cas du Junior M, l'efficacité des mesures prises se situe dans le cadre de la mise en demeure et non dans celle du pouvoir de déchéance. Le droit de propriété lié aux navires pourrait difficilement s'accommoder d'une procédure plus radicale, sans porter atteinte à des droits fondamentaux tels le droit de la propriété ou de la défense.
