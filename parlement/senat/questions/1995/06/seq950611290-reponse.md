@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950611290
+
+- Question : [SEQ950611290](seq950611290.md) — Avenir de l'heure d'été
+
+## Réponse
+
+*Environnement, JO du 1996-02-15, page 336*
+
+Réponse. - Mme le ministre de l'environnement a pris connaissance de la question posée par l'honorable parlementaire concernant le système d'heure d'été. Le décalage horaire de deux heures par rapport à l'heure méridienne, appelé heure d'été, a été adopté principalement pour économiser l'énergie. Il est vrai que l'efficacité de cette mesure en matière d'économie d'énergie est, à l'heure actuelle, plus ou moins remise en cause. Mais la complexité du sujet est telle qu'aucun argument suffisamment convaincant n'a été réellement fourni, ni dans un sens ni dans l'autre. Sur un autre plan, selon des études britanniques, ce décalage horaire qui entraîne un éclairement plus tardif en fin de journée serait un facteur favorisant la diminution des accidents de la circulation. Des études montrent que ce décalage entraîne en outre un certain nombre de perturbations dans les rythmes de vie auxquelles certaines catégories de population (enfants, vieillards, personnes hospitalisées, travailleurs du bâtiment, agriculteurs) sont particulièrement sensibles. Nos partenaires au sein de l'Union européenne semblant s'accommoder du système actuel et se contenter majoritairement des connaissances à notre avis incomplètes ou approximatives sur les conséquences de l'heure d'été, c'est à la demande de la France que la Commission européenne a fait réaliser un certain nombre d'études complémentaires sur le sujet : influence de l'heure d'été sur la consommation d'énergie, la sécurité routière, la pollution, la santé, les conditions de vie et de travail. Ces études ont été réalisées et font l'objet d'un rapport qui devrait être disponible très rapidement.
