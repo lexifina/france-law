@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930601446
+
+- Question : [SEQ930601446](seq930601446.md) — Application des accords de Schengen
+
+## Réponse
+
+*Affaires européennes, JO du 1993-10-07, page 1835*
+
+Réponse. - L'entrée en vigueur de la Convention de Schengen a été retardée par les difficultés rencontrées dans la réalisation des différentes mesures qui constituent les conditions préalables à la mise en oeuvre de cet accord. Il convient de souligner à l'attention de l'honorable parlementaire qu'un pas décisif a été réalisé lors de la réunion à Madrid le 30 juin 1993 des ministres et secrétaires d'Etat chargé de la mise en oeuvre de la convention. Les ministres et secrétaires d'Etat sont convenus de fixer l'objectif politique d'appliquer la convention le 1er décembre 1993. Ils ont constaté que trois des six conditions définies comme préalables avaient été réalisés. Il s'agit : 1o de la rédaction d'un manuel commun pour les contrôles aux frontières extérieures, des modalités de délivrance du visa uniforme et de l'instruction consulaire commune ; 2o de l'examen des demandes d'asile ; 3o du régime de la circulation des personnes dans les aéroports. Des progrès ont été réalisés s'agissant de deux autres conditions préalables (contrôles aux frontières extérieures et dispositions concernant les stupéfiants). Des efforts supplémentaires sont nécessaires dans ces domaines. Il convient également d'accélérer les travaux pour la réalisation du réseau informatique dit Système d'information Schengen, lequel constitue une condition indispensable pour la suppression des contrôles aux frontières intérieures. Le comité exécutif de la convention fera le point de la réalisation de ces efforts supplémentaires en octobre prochain. La France, qui assure la présidence de Schengen pour le deuxième semestre de 1993, veille à la bonne réalisation de ce programme de travail.
