@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881002032
+
+- Question : [SEQ881002032](seq881002032.md) — Loi d'amnistie et comportement des automobilistes
+
+## Réponse
+
+*Justice, JO du 1989-02-16, page 282*
+
+Réponse. - Le garde des sceaux, ministre de la justice, a l'honneur de porter à la connaissance de l'honorable parlementaire qu'il résulte d'une étude menée par la Chancellerie que la plupart des Etats membres de la Communauté européenne ont recours, selon des modalités et des périodicités variables, à la pratique de l'amnistie. Ainsi, en République fédérale d'Allemagne, le ministre-président d'un Land peut décider d'une amnistie individuelle ou collective. En Belgique, au Danemark et en Espagne, les souverains disposent également de cette faculté. En Grande-Bretagne, une loi portant amnistie de faits de possession illégale d'armes à feu a été promulguée récemment. Il n'en demeure pas moins que, chez nos voisins, l'amnistie intervient de manière moins régulière qu'en France. Il convient toutefois de rappeler que, si l'amnistie résulte en France d'une tradition républicaine désormais bien établie, le Premier ministre a récemment manifesté le souhait que les responsables des différentes formations parlementaires s'engagent à exclure les infractions mettant en cause la sécurité routière du champ d'application des prochaines lois d'amnistie. Par ailleurs, la Chancellerie ne dispose pas, à l'heure actuelle, de moyens statistiques permettant d'évaluer le nombre d'infractions au code de la route qui ont été amnistiées par suite des trois dernières lois votées par le Parlement. S'agissant plus particulièrement des contraventions aux règles du stationnement, il convient au surplus d'observer que, en raison de l'utilisation de la procédure de l'amende forfaitaire, les juridictions ne sont saisies que dans l'hypothèse où le contrevenant ne s'acquitte pas dans les délais légaux de ladite amende.
