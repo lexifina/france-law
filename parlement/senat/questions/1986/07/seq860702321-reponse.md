@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860702321
+
+- Question : [SEQ860702321](seq860702321.md) — Transfert du salaire des Français travaillant en Algérie
+
+## Réponse
+
+*Affaires étrangères, JO du 1987-03-05, page 322*
+
+Réponse. -L'honorable parlementaire attire l'attention sur la situation des Français travaillant en Algérie pour le compte de sociétés algériennes du secteur privé et précise que l'application par la partie algérienne de la loi de finances autorisant le transfert partiel des salaires versés aux cadres français ne permet pas à ces derniers de régler le montant des assurances chômage et retraites individuelles qu'ils doivent souscrire. En application d'un accord franco-algérien du 16 décembre 1964, les ressortissants français occupés dans des sociétés algériennes de droit public ou privé ont la possibilité de demander leur rattachement à un régime de retraite complémentaire français si la majorité d'entre eux y consent. Les cotisations courantes exigées à ce titre sont transférées librement par les entreprises, hors contingent ou réglementation particulière des changes. Cette procédure n'a toutefois pu être étendue aux cotisations dues en contrepartie d'une affiliation individuelle des Français expatriés au régime de retraite complémentaire de leur choix ou au régime d'assurance chômage. Seule une réévaluation du plafond du salaire transférable libre en France permettrait de résoudre les difficultés rencontrées par nos compatriotes et soulignées par l'honorable parlementaire. C'est ce que le ministre et le secrétaire général du ministère des affaires étrangères ont demandé avec insistance à leurs interlocuteurs algériens. L'honorable parlementaire peut être assuré que l'action sera poursuivie au niveau le plus approprié pour obtenir que les mesures algériennes internes qui lèsent les intérêts de nos ressortissants soient assouplies.
