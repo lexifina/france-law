@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971003642
+
+- Question : [SEQ971003642](seq971003642.md) — Mise en oeuvre des emplois-jeunes au sein du ministère de l'éducation
+
+## Réponse
+
+*Éducation, JO du 1998-02-19, page 580*
+
+Réponse. - Le ministère de l'éducation nationale, de la recherche et de la technologie aura recruté 40 000 emplois-jeunes avant la fin 1997 et prévoit de recruter 35 000 emplois-jeunes supplémentaires à la rentrée 1998 dans les établissements scolaires du premier et du second degré. Ces personnels sont recrutés sur la base de 39 heures hebdomadaires de travail ce qui est effectivement supérieur au temps strictement réservé aux heures d'enseignement et semble induire une occupation des locaux plus importante et donc des coûts supplémentaires de fonctionnement. En réalité, en tenant compte des heures d'études effectuées dans l'établissement ou dans l'école qui viennent s'ajouter aux heures d'enseignement, des activités périscolaires qui s'exercent d'ores et déjà dans les locaux aussi bien dans le premier que dans le second degré, des temps de récréation, d'interclasses et de repas (pendant lesquels les aides-éducateurs seront amenés à exercer des fonctions de surveillance et d'encadrement), la durée de la présence effective des élèves dans les établissements est bien supérieure à celle de l'enseignement stricto sensu. En outre, les aides-éducateurs pourront assurer des missions d'aide à l'encadrement des sorties et des activités accomplies à l'extérieur. Ainsi l'attribution d'emplois-jeunes aux établissements scolaires ne doit pas entraîner, la plupart du temps, un alourdissement des coûts de fonctionnement déjà existants. Quant aux activités des aides-éducateurs, elles ne peuvent être que celles prévues à leur contrat de travail ; de plus, lorsque l'aide-éducateur exerce dans une école, il est placé sous l'autorité du directeur d'école qui organise son travail en fonction des prévisions du projet d'école ou d'établissement.
