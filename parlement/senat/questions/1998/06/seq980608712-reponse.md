@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980608712
+
+- Question : [SEQ980608712](seq980608712.md) — Accord global de partenariat économique, de coordination politique et de coopération entre l'Union européenne et le Mexique
+
+## Réponse
+
+*Affaires étrangères, JO du 1998-07-30, page 2440*
+
+Réponse. - La France a été effectivement très largement à l'origine de l'initiative proposant au moment de la conclusion de l'ALENA et de la préparation de l'entrée du Mexique à l'OCDE, un renforcement des liens entre l'Union européenne et le Mexique. En visite à Mexico, le ministre des affaires étrangères français avait en effet suggéré l'idée d'un nouvel accord qui a été reprise ultérieurement dans la déclaration adoptée à Paris en mai 1995, sous présidence française. Dans cet esprit ont été signés à Luxembourg, le 8 décembre 1997 en marge du conseil affaires générales, deux accords : un accord intérimaire sur " les aspects commerciaux et relatifs au commerce ", portant sur le cadre de la libéralisation progressive et réciproque des échanges ainsi qu'un accord global " de partenariat économique, de coordination politique et de coopération ", qui vise notamment une libéralisation " préférentielle et bilatérale " des échanges. Ce dernier accord, qui contient des dispositions de compétence nationale, doit être ratifié par les parlements nationaux. En ce qui nous concerne, la procédure est d'ores et déjà engagée au stade des consultations interministérielles avant d'être soumis à l'avis du Conseil d'Etat. Ce projet de loi autorisant la ratification sera présenté au Parlement dans les meilleurs délais, à l'issue de la phase administrative. Il est à noter qu'à ce stade seuls deux de nos partenaires européens, la Finlande et la Suède, ont déjà terminé leurs procédures internes de ratification, en avril dernier.
