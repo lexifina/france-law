@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971204825
+
+- Question : [SEQ971204825](seq971204825.md) — Gestion du patrimoine national par la délégation aux arts plastiques du ministère de la culture
+
+## Réponse
+
+*Culture, JO du 1998-01-22, page 224*
+
+Réponse. - Entre l'enquête de la Cour des comptes et la publication du rapport, les moyens d'action du Mobilier national ont été renforcés. En effet, la circulaire du Premier ministre du 24 juin 1996 rappelle les obligations des dépositaires de meubles et oeuvres d'art des collections nationales : restauration des oeuvres aux frais des dépositaires sous le contrôle du Mobilier nationanl, remboursement en cas de disparition (perte ou vol), droit d'accès des inspecteurs à tous les locaux dans lesquels sont déposés des objets, envoi chaque année d'un état récapitulatif des dépôts. Elle prévoit également que le Mobilier national centralisera désormais l'ensemble des procédures de mise en dépôt d'oeuvres dans les administrations et qu'un correspondant du Mobilier national devra être désigné par chaque ministèrre. Un récoltement général de tous les dépôts sera effectué avant le 31 décembre 1999 et une commission de récolement présidée par un magistrat de la Cour des comptes a été créée par le décret du 20 août 1996. Un rapport d'étape des premiers résultats de ce récolement général sera établi en janvier 1998. Sur le plan des moyens, en attendant une adaptation du statut des inspecteurs du Mobilier national, de nouveaux magasiniers ont été recrutés en 1996 ou sont en cours de recrutement, permettant de renforcer les contrôles des mouvements de meubles et sur les 600 000 francs prévus en 1998 pour le récolement général, 200 000 francs ont été affectés au Mobilier natiobal qui permettront d'accélérer la modernisation de la gestion informatique des collections.
