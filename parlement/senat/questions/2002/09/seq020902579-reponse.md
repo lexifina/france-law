@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020902579
+
+- Question : [SEQ020902579](seq020902579.md) — Pistes cyclables
+
+## Réponse
+
+*Équipement, JO du 2002-12-26, page 3239*
+
+L'article L. 442-1 du code de l'urbanisme prévoit qu'un décret en Conseil d'Etat détermine les types d'installations et de travaux divers (ITD) pour lesquels la délivrance d'une autorisation est nécessaire. La liste de ces installations et travaux, définie par l'article R. 442-2 de ce même code, est la suivante :" a) Les parcs d'attractions et les aires de jeux et de sports, dès lors qu'ils sont ouverts au public ; b) Les aires de stationnement ouvertes au public et les dépôts de véhicules lorsqu'ils sont susceptibles de contenir au moins dix unités et qu'ils ne sont pas soumis à [une autre] autorisation [...] ; c) Les affouillements et exhaussements du sol, à la condition que leur superficie soit supérieure à 100 mètres carrés et que leur hauteur, s'il s'agit d'un exhaussement ou leur profondeur dans le cas d'un affouillement, excède 2 mètres ". Il ressort de ce texte que l'aménagement de pistes cyclables n'est soumis à autorisation d'installation et travaux divers que dans le cas où ces pistes se situent à l'intérieur d'un parc d'attractions ou d'une aire de jeux et de sports, ou lorsqu'il implique des affouillements ou exhaussements du sol supérieurs à 100 mètres carrés et d'une hauteur ou profondeur supérieure à 2 mètres. C'est ainsi que la cour administrative d'appel de Nantes, par une décision du 23 avril 2002 (Association urbanisme ou environnement, requête n° 00NT00187) a jugé que les travaux de réfection de chemins ruraux et d'une ancienne voie de chemin de fer, pour l'aménagement de promenades pédestres et cyclables ne relevant en l'espèce ni des aires de jeux ou de sports visés au a) de l'article R. 442-2 du code de l'urbanisme ni des affouillements ou exhaussements visés au c) de cet article ne sont pas soumis à l'autorisation d'installations et travaux divers.
