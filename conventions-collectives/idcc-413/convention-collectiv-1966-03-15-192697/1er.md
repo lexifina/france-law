@@ -1,6 +1,6 @@
 # Article 1
 
-La présente convention s'applique aux activités réalisées par les organismes privés à caractère non lucratif et correspondant à la nomenclature ci-dessous :
+La présente convention s'applique aux activités réalisées en France métropolitaine et dans les départements français d'outre-mer, par les organismes privés à caractère non lucratif et correspondent à la nomenclature ci-dessous.
 
 95-11, 95-21. - Organismes locaux d'action sociale et organismes sociaux à compétence générale assumant la responsabilité d'établissements et services entrant dans le champ d'application ci-dessous.
 
