@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960213992
+
+- Question : [SEQ960213992](seq960213992.md) — Majorations pour les mutualistes bénéficiaires d'une rente du combattant
+
+## Réponse
+
+*Anciens combattants, JO du 1996-04-04, page 805*
+
+Réponse. - Le ministre du travail et des affaires sociales saisi de cette question vient de répondre que " l'article 66 de la loi du 4 février 1995 modifiant l'article L. 321-9 du code de la mutualité et le décret n° 95-410 du 18 avril 1995 ont assoupli les conditions d'attribution de la rente mutualiste du combattant en permettant aux titulaires d'une carte du combattant ou d'un titre de reconnaissance de la nation de bénéficier d'une majoration de l'Etat, s'ils souscrivent une rente dans les dix années suivant la délivrance de leur titre. La loi du 4 février 1995 régit uniquement les adhésions postérieures à son entrée en vigueur. Elle ne peut donc pas s'appliquer à des rentes liquidées avant le 7 février 1995. A cet égard, la circulaire DSS/M/95/46 du 17 mai 1995 précise que les taux de majoration des versements effectués par des sociétaires ayant liquidé leur rente avant le 7 février 1995 ne peuvent être révisés pour bénéficier des nouvelles dispositions. Enfin, il est indiqué à l'honorable parlementaire que les anciens combattants qui cotisent en vue de la constitution d'une retraite mutualiste et qui ont souscrit une rente avant le 7 février 1995 peuvent, s'ils sont âgés de cinquante ans et plus, bénéficier des taux de majoration prévus à l'article 3 du décret précité pour les versements effectués postérieurement au 6 février 1995, suite à la délivrance d'un nouveau titre (carte du combattant ou titre de reconnaissance de la nation). Ces récentes dispositions ayant amélioré les conditions d'accès à la retraite mutualiste du combattant, il n'est pas envisagé de modifier la législation existante ".
