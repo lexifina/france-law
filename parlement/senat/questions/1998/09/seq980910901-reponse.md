@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980910901
+
+- Question : [SEQ980910901](seq980910901.md) — Reclassement des répétiteurs, surveillants titulaires et chefs de pratique de l'enseignement agricole
+
+## Réponse
+
+*Agriculture, JO du 1998-12-10, page 3945*
+
+Réponse. - Afin d'améliorer la situation des surveillants titulaires, des chefs de pratique d'école d'agriculture et des répétiteurs en poste dans les établissements publics locaux de l'enseignement agricole, le Gouvernement a déjà pris plusieurs mesures statutaires et indemnitaires en leur faveur. Pour les corps de catégorie C, il leur a été appliqué le protocole d'accord conclu le 9 février 1990 sur la rénovation de la grille indiciaire des classifications et des rémunérations des trois fonctions publiques. Cette application a eu notamment pour conséquence, concernant les surveillants titulaires, le passage de la catégorie D à la catégorie C (échelles E2 et E3), et, pour les répétiteurs, un échelonnement indiciaire de leur corps légèrement plus favorable. Au niveau indemnitaire, les surveillants titulaires et les répétiteurs perçoivent l'indemnité attribuée pour les personnels d'éducation tandis que les chefs de pratique bénéficient de l'indemnité de suivi et d'orientation des élèves généralement attribuée aux personnels enseignants. S'agissant d'une modification statutaire, le ministère de l'agriculture et de la pêche étudie, avec les partenaires ministériels concernés, l'accès éventuel pour les corps spécifiques à un corps de catégorie B type, qui tiendrait compte de leur expérience professionnelle dans les fonctions de documentation et de vie scolaire. En revanche, il existe déjà des possibilités d'accès à un corps vivant de catégorie A. Les intéressés peuvent passer les concours internes ouverts pour le recrutement des professeurs certifiés de lycée professionnel agricole dans l'option documentation ou dans le corps de conseiller principal d'éducation.
