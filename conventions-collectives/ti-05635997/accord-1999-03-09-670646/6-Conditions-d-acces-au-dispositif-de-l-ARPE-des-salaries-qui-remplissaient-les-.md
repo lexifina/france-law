@@ -1,0 +1,3 @@
+# Article 6 :    Conditions d'accès au dispositif de l'ARPE des salariés qui remplissaient les conditions pour bénéficier des dispositions antérieures et qui n'ont pas accédé au dispositif avant le 2 janvier 1999
+
+Les salariés qui remplissaient les conditions pour bénéficier des dispositions antérieures visées par l'accord interprofessionnel du 6 septembre 1995 et l'accord interprofessionnel du 19 décembre 1996 ainsi que par son avenant du 12 décembre 1997 et qui n'ont pas accédé au dispositif de l'ARPE avant le 2 janvier 1999 pourront y accéder dans les conditions prévues à l'accord interprofessionnel du 22 décembre 1998.
