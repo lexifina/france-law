@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910314450
+
+- Question : [SEQ910314450](seq910314450.md) — Augmentation des effectifs du contingent affectés à la police nationale
+
+## Réponse
+
+*Intérieur, JO du 1992-02-27, page 498*
+
+Réponse. - La loi n° 85-835 du 7 août 1985 relative à la modernisation de la police nationale a offert aux appelés du contingent la possibilité d'effectuer leur service national dans la police. Il s'agissait alors d'étendre les formes de service national pour accroître la présence policière sur la voie publique et contribuer ainsi au rapprochement entre la nation et sa police. En effet, les policiers auxiliaires sont affectés en priorité dans les corps urbains de province et à la préfecture de police à Paris de manière à seconder au mieux les personnels actifs dans le domaine de la prévention de la délinquance urbaine. Leur effectif budgétaire n'a cessé de croître : de 400 en 1986, il est passé à 1200 en 1987, à 2000 en 1988, à 3000 en 1989, et à 3925 en 1990 et 1991. Le projet de loi de finances pour 1992 prévoit la création de 400 emplois supplémentaires de policier auxiliaire, dont l'effectif budgétaire sera ainsi porté à 4325. En effet, 154 villes sont en attente d'affectation de policiers auxiliaires et plus de 200 nouvelles municipalités en ont exprimé la demande. Face à cette situation, des dispositions ont été prises pour susciter des candidatures : campagne de publicité, incitation au service long. Elles seront complétées par la prochaine mise en place d'un officier-conseil de la police dans chaque centre de sélection du service national. Une augmentation des recrutements a pu, d'ores et déjà, être observée au cours des douze derniers mois, puisque l'effectif réel des policiers auxiliaires est passé de 3354 au 1er octobre 1990, à 3898 au 1er octobre 1991, soit une progression de l'ordre de 20 p. 100 en un an.
