@@ -1,151 +1,155 @@
 # Article Annexe II
 
-Normes de qualité microbiologique de l'eau minérale naturelle
-
-PHASE D'EXPLOITATION DE L'EAU MINÉRALE NATURELLE
+NORMES DE QUALITÉ MICROBIOLOGIQUE DE L'EAU MINÉRALE NATURELLE
 
 |
 
-NORMES
+SOURCE
 
 |
 
-A.S.R.
+POINTS D'USAGE
 
 |
 
-C.F.
+(1)
 
 |
 
-S.F.
+(2)
 
 |
 
-A. - Captage non raccordé ou exploité en buvette
+(3)
 
 |
 
-0
+Coliformes à 37°C dans 250 ml
 
 |
 
-0
+Absence
 
 |
 
-0
+Absence
 
 |
 
-B. - Captage raccordé à un établissement de soin
+Absence
 
 |
 
-0
+Absence
 
 |
 
-0
+Coliformes therrnotolerants (Escherichia coli) à 44,5 °C dans 250 ml
 
 |
 
-0
+Absence
 
 |
 
-0. Emergence
+Absence
 
 |
 
-0
+Absence
 
 |
 
-0
+Absence
 
 |
 
-0
+Streptocoques fécaux (entérocoques) dans 250 ml
 
 |
 
-1. Injection
+Absence
 
 |
 
-Normes fixées par la Pharmacopée française
+Absence
 
 |
 
-2. Ingestion
+Absence
 
 |
 
-0
+Absence
 
 |
 
-0
+Anaérobies sporulés sulfito-réducteurs dans 50 ml
 
 |
 
-0
+Absence
 
 |
 
-3. Soins en contact avec les muqueuses du système respiratoire
+Absence
 
 |
 
-0
+Absence
 
 |
 
-0
+Absence
 
 |
 
-0
+Pseudomonas aeruginosa dans 250 ml
 
 |
 
-4. Soins en contact avec les muqueuses internes (autres que celles du système respiratoire, hors ingestion et injection)
+Absence
 
 |
 
-0
+Absence
 
 |
 
-0
+Absence
 
 |
 
-0
+Absence
 
 |
 
-5. Soins externes individuels (douches, bains)
+Legionella/Legionella pneumophila dans 1 litre
 
 |
 
-0
+Absence
 
 |
 
-0
+Absence
 
 |
 
-0
+Absence
 
 |
 
-A S.R. : Anaérobies sporulés sulfito-réducteurs, sur 50 ml.
+Absence
 
-C.F. : Coliformes thermotolérants, sur 250 ml.
+|
 
-S.F. : Streptocoques du groupe D, sur 250 ml.
+"Absence" signifie inférieur au seuil de détection de la méthode normalisée.
+
+(1) Soins en contact direct avec les muqueuses respiratoires ou susceptibles de provoquer un contact avec les muqueuses oculaires et respiratoires.
+
+(2) Soins en contact avec les autres muqueuses internes et ingestion d'eau minérale naturelle.
+
+(3) Soins externes individuels (bains, douches) ou collectifs (couloir de marche, ...).
 
 |

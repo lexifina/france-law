@@ -1,97 +1,139 @@
 # Article Annexe I
 
-Points et fréquences de prélèvements
+POINTS ET FRÉQUENCES DE PRÉLÈVEMENTS
 
-FRÉQUENTATION
+A. - A l'émergence
+
+OUVERTURE
 
 de l'établissement
 
-en nombre
+|
 
-de curistes/an
+NOMBRE
+
+de contrôles
 
 |
 
-POINTS DE PRÉLÈVEMENT
+TYPE
 
-(1 par catégorie d'usage
-
-en sortie de chaque réseau)
+d'analyses
 
 |
 
-FRÉQUENCE
-
-de prélèvement
-
-annuelle
+Plus de 7 mois/an
 
 |
 
-Moins de 200.
+4 dont 1 avant l'ouverture
 
 |
 
-Emergence
-
-Pour au maximum 2 catégories d'usage
+CM + BMO + BM1
 
 |
 
-1
-
-2
+Moins de 7 mois/an
 
 |
 
-Entre 200 et 1 000.
+3 dont 1 avant l'ouverture
 
 |
 
-Emergence
-
-Par catégorie d'usage existante
+CM + BMO + BM1
 
 |
 
-1
+B. - Aux points d'usage
 
-2
+CATÉGORIES
 
-|
-
-Plus de 1 000.
+de soins
 
 |
 
-Emergence
+NOMBRE
 
-Par catégorie d'usage existante
-
-|
-
-2 ou 3 (*)
-
-2 ou 3 (*)
+de contrôles *
 
 |
 
-Recherche des legionella : 1 fois/an à l'émergence et pour chaque catégorie d'usage.
+TYPE
 
-(*) 3 : si l'établissement est ouvert toute l'année (au moins 10 mois) ; 2 : dans les autres cas.
+d'analyses
 
 |
 
-Catégories d'usage dans un établissement thermal
+(1)
 
-1. Injection.
+|
 
-2. Ingestion.
+1 par mois **
 
-3. Soins en contact direct avec les muqueuses respiratoires, le cas échéant, soins susceptibles de provoquer un contact avec les muqueuses respiratoires ou les muqueuses oculaires.
+1 par mois **
 
-4. Soins en contact avec les muqueuses internes (autres que celles du système respiratoire, hors injection et ingestion).
+1 par trimestre
 
-5. Soins externes individuels (douches, bains, ...).
+|
 
-6. Bain collectif ou piscine (à 10 cm de profondeur dans l'eau du bassin dans une zone d'eau stagnante à forte fréquentation).
+BMO
+
+BM1
+
+CM
+
+|
+
+(2)
+
+|
+
+1 par mois **
+
+Au moins 1 par trimestre
+
+1 par trimestre
+
+|
+
+BMO
+
+BM1
+
+CM
+
+|
+
+(3)
+
+|
+
+1 par mois **
+
+Au moins 1 par trimestre
+
+1 par trimestre
+
+|
+
+BMO
+
+BM1
+
+CM
+
+|
+
+* En conditions normales de fonctionnement.
+
+** En l'absence de contamination constatée au terme d'une saison thermale, cette fréquence est portée à 1 par trimestre pour la saison suivante.
+
+(1) Soins en contact direct avec les muqueuses respiratoires ou susceptibles de provoquer un contact avec les muqueuses oculaires et respiratoires.
+
+(2) Soins en contact avec les autres muqueuses internes et ingestion d'eau minérale naturelle.
+
+(3) Soins externes individuels (bains, douches) ou collectifs (couloir de marche...).
+
+|
