@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700970
+
+- Question : [SEQ020700970](seq020700970.md) — Instauration d'un " quotient emploi "
+
+## Réponse
+
+*Affaires sociales, JO du 2002-11-14, page 2719*
+
+Depuis 1999, des dispositifs spécifiques centrés sur les bas salaires permettent de diminuer les cotisations de sécurité sociale pesant sur les employeurs. Ces dispositifs contribuent à changer le comportement des employeurs en matière d'embauche. Les employeurs embauchent plus de salariés et l'investissement en France est favorisé. Le travail non qualifié est privilégié à travers la concentration des baisses de charges sur les faibles niveaux de salaire, les non-qualifiés sont en effet les plus durement touchés par le chômage. Les dispositifs de baisse de charges actuels que le Gouvernement envisage, s'ils ne transforment pas aussi radicalement que la proposition de l'honorable parlementaire les modalités de versement des cotisations patronales, vont toutefois dans le même sens de privilégier l'embauche. Ils intègrent en outre la nécessaire progressivité de ce type de mesure qui vise à modifier à l'horizon de quelques années les modes de production privilégiés par les employeurs. Le Gouvernement souhaite étendre ces dispositifs de diminution des charges pesant sur les entreprises, et il s'est d'ores et déjà attaqué à l'embauche des jeunes non qualifiés, dont la totalité des charges patronales peut être exonérée dans le cadre du contrat jeunes en entreprises. L'ensemble de ces dispositions contribuera effectivement à favoriser l'emploi, et le secteur de l'hôtellerie et de la restauration qui a déjà créé 70 000 emplois de 1998 à 2001, bénéficiera de ce nouveau potentiel d'embauche. Les plus petites entreprises de ce secteur et celles qui y ont le plus recours à la main-d'oeuvre connaîtront les baisses de charges les plus importantes.
