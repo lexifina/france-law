@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870104292
+
+- Question : [SEQ870104292](seq870104292.md) — Utilisation d'éthanol dans l'essence
+
+## Réponse
+
+*Agriculture, JO du 1987-04-02, page 485*
+
+Réponse. -La réglementation française actuelle relative à l'incorporation de composés oxygénés dans les carburants est fixée par l'arrêté du 28 décembre 1966 modifié par l'arrêté du 4 octobre 1983. Elle autorise notamment l'incorporation d'éthanol dans les supercarburants jusqu'à 5 p. 100 en volume et moyennant l'adjonction d'un cosolvant (alcool tertiobutylique ou mélange acétono-butylique). L'harmonisation de la réglementation française avec les dispositions de la directive communautaire du 5 décembre 1985 interviendra au plus tard le 1er janvier 1988. L'aménagement de la réglementation française se fera par la refonte des arrêtés définissant les spécifications des carburants. La directive communautaire autorise implicitement l'adjonction d'éthanol pur dans les carburants (à hauteur de 5 p. 100 en volume, disposition analogue à l'actuelle réglementation française) mais prévoit également que des cosolvants pourront éventuellement être ajoutés. Cette dernière disposition tient au fait que le risque d'une démixtion par utilisation d'éthanol pur, sans cosolvant, ne peut être rigoureusement exclu. Des essais de laboratoire sont en cours à l'Institut français du pétrole, sur demande du ministère de l'industrie, pour régler ce problème. Quoi qu'il en soit, l'introduction des dispositions de la directive communautaire sur les composés oxygénés ne modifiera pas sur le fond les dispositions de l'actuelle réglementation française sur l'incorporation d'éthanol dans les carburants : en particulier la teneur maximale autorisée par la directive est la même que celle déjà autorisée par la réglementation française.
