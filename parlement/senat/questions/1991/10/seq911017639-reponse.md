@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911017639
+
+- Question : [SEQ911017639](seq911017639.md) — Subvention attribuée aux écoles d'ingénieurs de statut privé membres de la Fésic
+
+## Réponse
+
+*Budget, JO du 1992-04-16, page 940*
+
+Réponse. - Les crédits destinés aux subventions attribuées aux écoles d'ingénieurs de statut privé, membres de la Fédération des écoles supérieures d'ingénieurs et de cadres (F.E.S.I.C.), sont inscrits au chapitre 43-11 " Enseignements supérieurs. - Encouragements divers " du budget de l'Education nationale. En raison du contexte budgétaire, une mesure d'économie de 5 MF avait été retenue sur le chapitre 43-11. Toutefois, les moyens supplémentaires (4,5 MF) que les assemblées parlementaires ont décidé d'accorder aux établissements d'enseignement supérieur privés ont permis en définitive de préserver en 1991 le montant total des subventions attribuées aux écoles membres de la F.E.S.I.C. et de l'Union des enseignements supérieurs catholiques (U.D.E.S.C.A.). Pour apprécier convenablement l'effort budgétaire consenti en faveur des établissements membres de la F.E.S.I.C., il y a lieu de rappeler que les établissements avaient bénéficié en 1990 d'une augmentation globalede 12 MF qui a ainsi pu être reconduite. Au total, une subvention d'un montant de 128,25 MF a été réservée en 1991 aux établissements d'enseignement supérieur privés, dont 4,5 MF à la demande des parlementaires. Par ailleurs, il est précisé que, par exception, ces subventions n'ont pas été affectées par les annulations de crédits intervenues au cours de la gestion 1991. Dans un contexte budgétaire encore très contraint, la loi de finances pour 1992 prévoit une mesure nouvelle de 5 MF ; les subventions destinées à l'enseignement supérieur privé s'établissent à 128,7 MF, consolidant, et même sensiblement au-delà, le crédit de 4,5 MF dégagé par les parlementaires pour l'année 1991.
