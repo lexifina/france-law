@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990415853
+
+- Question : [SEQ990415853](seq990415853.md) — Aide au repas des agents des collectivités locales
+
+## Réponse
+
+*Fonction publique, JO du 1999-07-08, page 2333*
+
+Réponse. - Le Conseil d'Etat dans son arrêt département des Deux-Sèvres du 21 octobre 1994 a assimilé " les aides aux repas attribuées par des collectivités locales à des avantages financiers indirects équivalents à des compléments de salaires ". Dès lors, en application du principe de parité avec la fonction publique de l'Etat applicable notamment en matière indemnitaire, l'aide à la restauration d'une collectivité en faveur de ses agents ne peut excéder celle dont bénéficient les agents de l'Etat. Ce montant est actuellement de 5,95 F. Toutefois, les conditions d'appréciation de la nature et des modalités d'attribution d'aides aux repas, selon les pratiques locales, demeurent parfois incertaines et ne sont pas sans se rattacher aux problèmes rencontrés en matière d'action sociale dans les collectivités locales, auxquels le Gouvernement porte une attention particulière. Au titre des mesures retenues dans le protocole salarial du 10 février 1998, il a été décidé de confier à l'Inspection générale de l'administration l'élaboration d'un rapport sur l'action sociale dans la fonction publique territoriale. Il a été souhaité que ce rapport, établi par Mme Anne-Marie Escoffier, connaisse une large diffusion et constitue le support d'une réflexion sur cet important dossier avec tous les partenaires concernés : organisations syndicales, représentants des élus locaux et organismes professionnels de la fonction publique territoriale dont l'avis et les propositions ont été sollicités récemment. Les orientations qui résulteront de cette concertation seront débattues au sein du conseil supérieur de la fonction publique territoriale et pourraient déboucher sur une modification du cadre juridique des politiques d'action sociale dans les collectivités locales.
