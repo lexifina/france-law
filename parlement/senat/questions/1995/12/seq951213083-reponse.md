@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951213083
+
+- Question : [SEQ951213083](seq951213083.md) — Manque d'équipements en moyens de liaison moderne des commissariats du Val-d'Oise
+
+## Réponse
+
+*Intérieur, JO du 1996-03-14, page 595*
+
+Réponse. - L'amélioration et le maintien à niveau des systèmes et moyens de transmissions des services de sécurité publique demeurent une des priorités du ministère de l'intérieur. A ce titre, les liaisons radio opérationnelles des départements de la grande couronne parisienne et notamment du Val-d'Oise ont été structurées dès la fin des années 80, à l'échelon du district de police. C'est ainsi que les districts de Cergy, Argenteuil et Montmorency disposent de réseaux radio analogiques leur permettant d'être en liaison permanente avec l'ensemble des circonscriptions de sécurité publiques placées sous leur autorité. Ces réseaux sont sans cesse améliorés afin de permettre une couverture géographique maximale. Ainsi, après Cergy et Montmorency, Argenteuil va bénéficier cette année d'un deuxième réseau de distict (coût : 1 120 786 F). Il convient de souligner que l'équipement des mobiles (voitures et motocyclettes), est réalisé à 100 p. 100 et que 240 postes portatifs sont actuellement en service dans ce département. Par aillleurs, le Val-d'Oise est inscrit dans le cadre de la restructuration globale des réseaux de police de la région Paris-Ile-de-France (projet Acropol). Ce département devrait bénéficier, à l'horizon 1998, de la mise en place du nouveau réseau numérique Acropol dont les fonctionnalités très diversifiées (fonctionnement en réseau, conférences, communications point à point, chiffrement...) devraient répondre à l'attente des policiers. Dans l'immédiat, le ministère de l'intérieur s'efforce de maintenir à niveau, en procédant à certaines améliorations ponctuelles, les actuels réseaux appelés à disparaître à relativement court terme.
