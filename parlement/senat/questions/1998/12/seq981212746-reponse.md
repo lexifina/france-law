@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981212746
+
+- Question : [SEQ981212746](seq981212746.md) — Développement des émissions sur le cirque
+
+## Réponse
+
+*Culture, JO du 1999-06-03, page 1861*
+
+Réponse. - Les relations entre le spectacle vivant et l'audiovisuel, et plus particulièrement les différents modes de programmation susceptibles de favoriser à la télévision la promotion du spectacle vivant, dont relèvent le cirque et les arts de la piste, devront faire l'objet de la commission de réflexion mise en place par la ministre de la culture et de la communication sous la présidence du directeur de la musique, de la danse, du théâtre et des spectacles. Par ailleurs, les uvres audiovisuelles, notamment les documentaires de création, portant sur le thème des arts de la piste, peuvent bénéficier d'un soutien dans le cadre de la procédure d'aide à la réalisation de programmes audiovisuels de la direction de la musique, de la danse, du théâtre et des spectacles : en 1998, un seul projet de documentaire de 52 minutes portant sur la vie d'un cirque contemporain, la préparation des numéros et des tournées a été soumis et soutenu à hauteur de 10 % du devis. La captation de spectacles ou leur recréation sont également éligibles au compte de soutien aux industries de programme géré par le CNC : en 1998, sur 84 heures de spectacle vivant aidées par le COSIP, le cirque représente 4 heures (5 %) ; si la part du COSIP (18 millions de francs) représente 18 % du total des financements des devis des productions consacrées au spectacle vivant, elle représente 9 % (550 000 francs) des financements des devis des productions sur le cirque, bien après la musique (27 %), la danse (20 %), l'opéra (18 %) et le théâtre (12 %). Cependant, il est à souligner que ce genre, avec un apport des chaînes de 38 % des financements des devis apparaît le mieux financé par les diffuseurs peu après le théâtre (40 %) et bien avant la musique (31 %), la danse (23 %) et l'opéra (22 %).
