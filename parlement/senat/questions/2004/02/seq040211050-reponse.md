@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040211050
+
+- Question : [SEQ040211050](seq040211050.md) — Plans de prévention des risques et droit de préemption
+
+## Réponse
+
+*Écologie, JO du 2004-07-01, page 1453*
+
+Le ministre de l'écologie et du développement durable a pris connaissance, avec intérêt, de la question relative aux difficultés rencontrées par certains maires pour préempter des terrains couverts par un plan de prévention des risques naturels prévisibles (PPR). Les plans de prévention des risques naturels prévisibles (articles L. 562-1 à 9 du code de l'environnement) ont été créés par la loi n° 95-101 du 2 février 1995. Ces documents une fois approuvés valent servitudes d'utilité publique et sont annexés aux plans d'occupation des sols/plans locaux d'urbanisme conformément à l'article L. 126-1 du code de l'urbanisme. Les textes en vigueur concernant les plans de prévention des risques naturels ne prévoient pas de droit de préemption sur les parcelles qui seraient réglementées. La loi n° 2003-699 du 30 juillet 2003 relative à la prévention des risques technologiques et naturels et à la réparation des dommages a institué les plans de prévention des risques technologiques. Ces plans peuvent délimiter des zones dans lesquelles les communes peuvent instaurer le droit de préemption urbain dans les conditions définies à l'article L. 211-1 du code de l'urbanisme. Si une telle disposition n'a pas été retenue pour les plans de prévention des risques naturels, la loi du 30 juillet 2003 susvisée a, en revanche, ouvert par son article 61 une possibilité d'acquisition amiable par une commune, un groupement de communes ou l'Etat de biens soit exposés à un risque menaçant gravement les vies humaines, soit sinistrés à plus de la moitié de leur valeur. De telles acquisitions amiables peuvent de plus être financées par le fonds de prévention des risques naturels majeurs.
