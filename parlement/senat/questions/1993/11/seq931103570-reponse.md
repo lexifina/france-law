@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931103570
+
+- Question : [SEQ931103570](seq931103570.md) — Création du centre de conférences internationales
+
+## Réponse
+
+*Premier ministre, JO du 1995-02-02, page 251*
+
+Réponse. - L'honorable parlementaire n'ignore pas que le projet de centre de conférences internationales a connu, au cours des dernières années, un certain nombre de difficultés tant sur le plan financier que juridique. L'opération initiale - la construction sur un terrain du quai Branly, anciennement occupé par des services du ministère des finances, d'un centre de conférences internationales - était estimée à 3 milliards de francs environ. Ce coût élevé ainsi que le coût de fonctionnement étaient peu réalistes au regard des contraintes budgétaires. Au plan juridique, le projet du quai Branly s'est avéré incompatible avec le plan d'occupation des sols de la ville et s'est heurté à l'opposition des riverains, hostiles à cette construction. Des procédures ont été engagées par les associations de riverains devant le tribunal administratif de Paris et le Conseil d'Etat. Pour toutes ces raisons, le Premier ministre a demandé aux ministres concernés, le ministre de la culture et de la francophonie, responsable de l'Etablissement public du centre de conférences internationales, et le ministre des affaires étrangères de réexaminer l'ensemble du dossier en tenant compte des besoins du Gouvernement en matière de conférences internationales, des possibilités budgétaires ainsi que d'autres utilisations éventuelles du terrain quai Branly. Ce réexamen a conduit à ne pas retenir la poursuite du projet de centre de conférences, en raison des difficultés financières et juridiques qu'il soulève. Le Gouvernement a proposé à l'OCDE de mettre à sa disposition le terrain du quai Branly pour la construction des nouveaux locaux du siège de cette organisation. Les discussions sont en cours entre l'OCDE et les administrations et collectivités concernées.
