@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701583
+
+- Question : [SEQ970701583](seq970701583.md) — Bilan des programmes régionaux pour l'emploi des jeunes
+
+## Réponse
+
+*Emploi, JO du 1998-01-01, page 35*
+
+Réponse. - L'honorable parlementaire attire l'attention de Mme la ministre de l'emploi et de la solidarité sur les programmes régionaux pour l'emploi des jeunes et souhaite savoir quel en est le bilan. Les programmes régionaux pour l'emploi des jeunes (PREJ) sont aujourd'hui en vigueur dans toutes les régions métropolitaines, ainsi qu'à la Réunion. Ils visent notamment à améliorer l'information des publics, à promouvoir un meilleur accompagnement des jeunes vers l'emploi, à renforcer les structures d'accueil et à développer l'accès des jeunes à l'entreprise, en particulier par l'alternance. Les PREJ sont le premier dispositif contractuel au niveau régional qui associe les partenaires sociaux à l'action conjointe de l'Etat et de la région. Les résultats enregistrés en termes quantitatifs de développement de l'emploi pour les jeunes ne peuvent être précisément appréciés. Toutefois, on peut noter que, dans le secteur marchand, ils ont contribué à la relance des contrats en alternance (contrats d'apprentissage et contrats de qualification), alors que, dans le secteur non marchand, ils ont augmenté la part des jeunes dans l'accès au CES et accompagné le démarrage des emplois de ville. Il semble également qu'ils aient favorisé la coordination des structures d'accueil, que ce soit à travers le réseau public d'insertion des jeunes ou le développement des espaces-jeunes, et amélioré l'information des publics. La ministre de l'emploi et de la solidarité réfléchit sur un mode d'intervention contractuelle comparable pour la professionnalisation des emplois et des jeunes dans le cadre du programme " nouveaux services - nouveaux emplois ".
