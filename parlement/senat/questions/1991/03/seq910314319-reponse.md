@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910314319
+
+- Question : [SEQ910314319](seq910314319.md) — Pensionnés de la marine marchande
+
+## Réponse
+
+*Mer, JO du 1992-03-31, page 807*
+
+Réponse. - Les salaires forfaitaires servant notamment de base de calcul des pensions de retraite des marins ont été relevés par le Gouvernement à hauteur de 2,6 p. 100 au titre de l'année 1991, selon deux étapes, la première de 1,8 p. 100 au 1er février et la seconde de 0,8 p. 100 au 1er septembre 1991. Cette progression, bien qu'inférieure aux normes générales de hausse de 3,2 p. 100 des salaires enregistrée dans la profession en 1991, se compare favorablement à celle des retraites des pensionnés relevant du régime général de la sécurité sociale qui aura été de 2,5 p. 100 au cours de la même période. S'agissant plus précisément de l'indexation des pensions sur les salaires, celle-ci ne saurait s'apprécier au vu des seuls éléments de négociation d'une année donnée car les accords salariaux sont soumis à de multiples aléas. Aussi, au regard des cinq dernières années, l'on peut constater qu'entre 1987 et 1991, les salaires ont connu une augmentation proche de 12 p. 100 tandis que les salaires forfaitaires ont progressé d'environ 14 p. 100. Ceci souligne l'attention que portent les pouvoirs publics à l'évolution des pensions du régime social des gens de mer, puisque celle-ci est indexée sur la revalorisation des salaires forfaitaires. Par ailleurs, ces mêmes aléas ont pu, par le passé, conduire à une absence d'accord salarial ou à la signature d'un accord tardif ; les dates de revalorisation des pensions ne peuvent donc être régulièrement celles des salaires des actifs sans risque élevé de pénalisation des retraités. L'ensemble de ces considérations a naturellement dicté la décision concernant la revalorisation des salaires forfaitaires au titre de l'année 1992, majorés de 2,8 p. 100, soit 1 p. 100 depuis le 1er janvier et 1,8 p. 100 à compter du 1er juillet 1992.
