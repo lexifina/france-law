@@ -13,3 +13,11 @@ Un représentant du personnel élu dans les conditions prévues par la loi du 16
 Le conseil d'administration peut s'adjoindre, en outre et à titre consultatif, deux représentants désignés par des associations ou groupements des vieux travailleurs les plus représentatifs.
 
 Les représentants des caisses primaires de sécurité sociale sont élus au scrutin de liste à un tour avec représentation proportionnelle sans panachage ni ordre préférentiel.
+
+Dans chaque catégorie intéressée, les listes doivent comprendre un nombre de candidats égal au moins à une fois et au plus à une fois et demie le nombre d'administrateurs à élire.
+
+Dans chaque liste, les sièges sont attribués aux candidats d'après leur ordre de présentation.
+
+En cas d'égalité des voix, le plus âgé est déclaré élu.
+
+Les mêmes règles sont applicables pour la désignation des candidats d'une liste appelée à remplacer les administrateurs élus sur cette liste dont les sièges deviendraient vacants par décès, démission ou toute autre cause .
