@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990415848
+
+- Question : [SEQ990415848](seq990415848.md) — Identification et immatriculation des chevaux et tourisme équestre
+
+## Réponse
+
+*Agriculture, JO du 1999-06-03, page 1857*
+
+Réponse. - Le décret nº 97-1006 du 30 octobre 1997 précise que tous les chevaux, poneys et ânes doivent être munis d'un document d'identification, dans la mesure où : ils doivent participer à une manifestation publique ; ils doivent être inscrits sur un livre ou sur un registre généalogique comme produits ou comme reproducteurs ; ils doivent faire l'objet d'un transfert de propriété, à quelque titre que ce soit, ou d'un déplacement à destination d'un Etat membre de la Communauté européenne ; et, d'autre part, tout équidé doit être identifié préalablement à son entrée à l'abattoir. Il appartient donc aux propriétaires de chevaux aujourd'hui non identifiés de régulariser leur situation, le cas échéant. Le service des haras, des courses et de l'équitation du ministère de l'agriculture et de la pêche a prévu un certain nombre de mesures permettant d'aider les propriétaires : des rassemblements de chevaux pour procéder à l'identification peuvent être organisés à l'initiative ou sur demande par les directeurs des circonscriptions des haras, au niveau régional ; des opérations particulières pourront être mises en place lors de grands rassemblements comme ce sera le cas pour Equirando 99 à Malestroit en juillet. Le président de la Délégation nationale au tourisme équestre a été tenu informé de ces procédures et doit donc inciter les intitiatives régionales. Il n'est pas envisageable de décréter au niveau national la gratuité de l'identification pour certains établissements et en particulier ceux relevant du tourisme équestre ; cela reviendrait, en effet, à opérer une discrimination de fait entre les propriétaires concernés.
