@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870807514
+
+- Question : [SEQ870807514](seq870807514.md) — Consultation des départements lors de l'élaboration des contrats de plan
+
+## Réponse
+
+*Fonction publique, JO du 1987-10-22, page 1684*
+
+Réponse. -Au cours du dernier comité interministériel pour l'aménagement du territoire (C.I.A.T.) du 13 avril 1987, le Premier ministre a décidé de reconduire la procédure des contrats de plan Etat-région à compter du 1er janvier 1989. Ces contrats de plan seront négociés par l'Etat et chacune des régions de métropole et d'outre-mer sur la base des priorités régionales et de celles de l'Etat qui seront contenues sur un document d'orientation à moyen terme. Si ces nouveaux contrats de plan s'inscrivent dans la procédure telle que l'a définie la loi du 29 juillet 1982, il n'en demeure pas moins que la lourdeur administrative qui la caractérise a conduit le Gouvernement à préparer un nouveau projet de loi - en cours d'élaboration - qui tend à modifier significativement les dispositions de la loi précitée. Sans préjuger des décisions qui seront prises par le Gouvernement d'une part et au cours des débats parlementaires d'autre part, il apparaît clairement que dans l'esprit des lois de décentralisation l'identité des collectivités territoriales de plein exercice sera scrupuleusement respectée et que la stipulation pour autrui sera bannie avec force. Dans cet esprit, au moment où la région, conformément aux compétences qui lui ont été conférées, définira ses priorités à moyen terme, il lui appartiendra donc de consulter, si elle le juge utile, toutes les collectivités locales ainsi que toutes institutions régionales de son choix. Tout donne donc à penser que, compte tenu du rôle particulier que joue la collectivité départementale dans le développement régional, le président du conseil régional attachera du prix à consulter les présidents des conseils généraux de sa région.
