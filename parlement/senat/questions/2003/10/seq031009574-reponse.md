@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031009574
+
+- Question : [SEQ031009574](seq031009574.md) — Réforme de l'enseignement à l'ENA
+
+## Réponse
+
+*Fonction publique, JO du 2004-01-01, page 29*
+
+Lors du conseil des ministres du 22 octobre 2003, le ministre de la fonction publique, de la réforme de l'Etat et de l'aménagement du territoire a présenté une communication sur la réforme de la gestion de l'encadrement supérieur, élément déterminant de la réforme de l'Etat. Dans cette perspective, diverses mesures seront mises en oeuvre, parmi lesquelles la réforme de l'Ecole nationale d'administration. Parmi les orientations retenues par le Gouvernement pour mener une profonde rénovation de l'ENA, figure le recentrage de l'école sur sa vocation première d'école d'application. C'est ainsi que la scolarité sera rebâtie autour de trois stages consacrés à l'administration des territoires, à l'Europe et à la gestion publique. La formation théorique sera organisée en fonction de ces stages d'application. Les terrains de stage, plus diversifiés, devront inclure un passage en entreprise. Les élèves effectueront la dernière partie de leur scolarité au sein d'une dominante qui leur permettra d'acquérir des compétences en rapport avec leur projet professionel. Le choix des corps d'affectation continuera d'être fait en fonction du classement, gage d'objectivité et de neutralité. Cependant, les élèves disposeront d'autres éléments leur permettant d'orienter leur projet professionnel. La dominante professionnelle sera prise en compte dans le classement de sortie. Un bilan approfondi des compétences acquises sera réalisé l'issue de la scolarité. Une fois le corps d'affectation choisi, c'est sur la base de ce bilan qu'un échange avec le ministère employeur conduira celui-ci à déterminer l'emploi d'affectation.
