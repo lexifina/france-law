@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861003086
+
+- Question : [SEQ861003086](seq861003086.md) — Dotation spéciale instituteurs
+
+## Réponse
+
+*Collectivités locales, JO du 1987-01-01, page 14*
+
+Réponse. -Le montant unitaire de la dotation spéciale instituteurs est fixé en fonction des résultats du nombre des instituteurs ayants droit recensés au 1er janvier de l'année civile. Les chiffres de ce recensement ne sont connus qu'en début du second semestre de l'année. En conséquence, conformément aux instructions données aux préfets, ceux-ci attendent de déterminer le montant de l'indemnité représentative de logement pour connaître le montant unitaire de la dotation spéciale fixé par le comité des finances locales - en principe, dans le courant du mois de septembre de l'année civile. Des acomptes sont versés aux communes supportant ces charges obligatoires résultant du logement des instituteurs au début de chaque année. L'article 1er de la loi n° 85-1268 du 29 novembre 1985 relative à la dotation globale de fonctionnement comporte une disposition prévoyant que la dotation spéciale " sera supprimée dès que l'Etat sera en mesure de verser directement aux personnels concernés une indemnité pour leur habitation présentant pour eux un avantage équivalent ". La prise en charge directe par l'Etat des indemnités de logement versées aux instituteurs constitue une modification fondamentale du régime actuel. Sa mise en oeuvre nécessite des études préalables approfondies, ainsi qu'une large concertation avec l'ensemble des partenaires intéressés. C'est pourquoi, il n'apparaît pas possible de mettre en oeuvre dans l'immédiat la disposition prévoyant cette prise en charge directe par l'Etat et la suppression de la dotation spéciale. En conséquence, la répartition de la dotation spéciale instituteurs pour l'exercice 1987 s'effectuera dans les mêmes conditions que les années antérieures.
