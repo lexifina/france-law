@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040713326
+
+- Question : [SEQ040713326](seq040713326.md) — Nomination d'un adjoint supplémentaire au conseil municipal et information sur les indemnités
+
+## Réponse
+
+*Intérieur, JO du 2004-10-21, page 2403*
+
+Aux termes de l'article L. 2122-2 du code général des collectivités territoriales, le nombre d'adjoints au maire ne peut excéder 30 % de l'effectif légal du conseil municipal. Cependant, les conseils municipaux disposent de toute latitude pour décider de ne pas pourvoir l'ensemble des postes d'adjoints auxquels ils peuvent prétendre. Dans ce cas, le montant de l'enveloppe globale indemnitaire correspond à l'indemnité maximale pouvant être perçue par le maire ainsi que par les adjoints aux maires ayant reçu une délégation de fonction (CE, 29 avril 1988, commune d'Aix-en-Provence). Dans le cas où un conseil municipal déciderait de créer un poste supplémentaire d'adjoint, dans le respect des dispositions de l'article L. 2122-2 précité, la délibération relative à cette création de poste doit être accompagnée d'une délibération autorisant le versement d'une indemnité de fonction. En effet, comme l'a rappelé la Cour des comptes à plusieurs reprises, l'indemnité de fonction ne peut être versée que si l'assemblée en a déterminé les bénéficiaires ainsi que le niveau (C. comptes, 26 mars 1992, Cousturion, commune d'Hyères). Par ailleurs, le législateur a souhaité introduire une plus grande transparence dans le versement des indemnités de fonction aux élus locaux. C'est pourquoi l'article L. 2123-20-1, issu de l'article 78-1 de la loi du 27 février 2002 relative à la démocratie de proximité, prévoit que " toute délibération du conseil municipal concernant les indemnités de fonction d'un ou de plusieurs de ses membres est accompagnée d'un tableau annexe récapitulant l'ensemble des indemnités allouées aux membres du conseil municipal ".
