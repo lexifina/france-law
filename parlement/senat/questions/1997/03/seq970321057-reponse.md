@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970321057
+
+- Question : [SEQ970321057](seq970321057.md) — Situation des droits de l'homme en Turquie
+
+## Réponse
+
+*Affaires étrangères, JO du 1997-04-17, page 1182*
+
+Réponse. - L'honorable parlementaire a bien voulu appeler l'attention du ministre des affaires étrangères sur la situation des droits de l'homme en Turquie alors que se tient à Genève la 53e session de la Commission des droits de l'homme des Nations unies. La visite du ministre des affaires étrangères à Ankara, les 2 et 3 avril derniers, a été l'occasion de rappeler l'obligation qui incombait à la Turquie, dans le cadre de sa vocation européenne, de se mettre en conformité avec l'ensemble des normes de la communauté internationale en matière de protection des droits de l'homme. Nous nous réjouissons de la reprise du processus de démocratisation marqué en ce début d'année par le vote, à l'Assemblée nationale turque, d'une loi qui réduit la durée de la garde à vue. Nous encourageons naturellement les autorités turques à poursuivre dans cette voie et à accélérer le processus de démocratisation. A cet égard, la mise en oeuvre des mesures annoncées en matière de liberté d'expression et la création d'un bureau chargé de faire la lumière, sous l'autorité du ministère de l'intérieur, sur les cas de personnes disparues devraient constituer une avancée significative supplémentaire. Dans ce contexte, bien que la situation des droits de l'homme ne figure pas expressément à l'ordre du jour de la Commission des droits de l'homme des Nations unies, la France ne manquera pas, en concertation étroite avec ses partenaires européens, d'examiner cette question. Notre objectif est d'inciter les autorités turques à coopérer avec les mécanismes de cette commission et d'accepter les visites des rapporteurs thématiques qui souhaiteraient se rendre sur le terrain, comme elles l'ont fait en 1996 pour le rapporteur spécial sur la liberté d'expression.
