@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701509
+
+- Question : [SEQ970701509](seq970701509.md) — Dotation globale de fonctionnement
+
+## Réponse
+
+*Intérieur, JO du 1997-08-28, page 2232*
+
+Réponse. - Une communauté de communes doit, comme une commune, instituer la taxe d'enlèvement des ordures ménagères par délibération avant le 1er juillet d'une année pour application au 1er janvier de l'année fiscale suivante. En cas de création d'une communauté de communes, si cette création s'effectue dans le premier semestre de l'année (N), le conseil de communauté a la possibilité de se réunir avant le 1er juillet pour délibérer sur l'institution de la taxe d'enlèvement des ordures ménagères. Ainsi, la taxe d'enlèvement des ordures ménagères sera perçue pour la première fois en même temps que la première fiscalité perçue par la communauté de communes et sera intégrée dans son coefficient d'intégration fiscale pour le calcul de la dotation globale de fonctionnement de seconde année. En revanche, un problème se pose pour une communauté de communes qui se crée dans le second semestre de l'année N et délibère la même année pour instituer la taxe d'enlèvement des ordures ménagères. En effet, au 1er janvier de l'année suivante (N p 1), elle percevra bien sa fiscalité générale, mais elle ne pourra percevoir le produit de la taxe d'enlèvement des ordures ménagères qu'au 1er janvier de l'année (N p 2). La date du 1er juillet qui s'impose pour la délibération d'institution de la taxe d'enlèvement des ordures ménagères est celle prévue par l'article 1639 A bis du code général des impôts, qui s'applique aux délibérations des collectivités locales autres que celles fixant soit les taux, soit les produits. En raison des contraintes de gestion liées à la mise en oeuvre des délibérations prises par les collectivités locales, il n'est pas envisagé à l'heure actuelle de modifier ces dispositions.
