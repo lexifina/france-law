@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021003243
+
+- Question : [SEQ021003243](seq021003243.md) — Emplois dans la branche de l'hôtellerie-restauration
+
+## Réponse
+
+*Tourisme, JO du 2002-12-26, page 3253*
+
+L'industrie touristique, qui occupe en France plus d'un million d'actifs et génère un million d'emplois indirects, est confrontée, comme le souligne l'honorable parlementaire, à des difficultés de recrutement. Des actions ont été entreprises, ces dernières années, en faveur d'une mise en relation directe des employeurs avec les demandeurs d'emploi, à travers notamment les forums organisés en partenariat avec l'ANPE, les missions locales, les chambres consulaires et les syndicats professionnels. Le secrétariat d'Etat au tourisme poursuivra ces opérations en 2003, dans le cadre de dispositifs innovants visant à concilier sensibilisation des acteurs sur le thème de l'emploi et mobilisation des ressources en matière de formation professionnelle. Par ailleurs, la nécessité de promouvoir, en concertation avec les employeurs et les partenaires sociaux une offre de formation initial et continue de qualité, offrant aux salariés de véritables plans de carrière, apparaît aujourd'hui comme un enjeu majeur, essentiel pour le maintien de la France au rang mondial qu'elle occupe dans ce secteur d'activités économiques. Dans le but d'approfondir l'examen de ces besoins, un parlementaire en mission a été désigné pour étudier l'ensemble des problèmes posés par la formation professionnelle dans les métiers du tourime. Les exigences spécifiques aux emplois en cause et les souhaits légitimes de ceux qui les exercent seront bien sûr pris en compte dans le cadre de cette mission. En outre, il est prévu que le rapport demandé porte une attention particulière sur les besoins propres à la formation outre-mer.
