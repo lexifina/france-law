@@ -1,21 +1,43 @@
-# Article Annexe II tableau 5
+# Article Annexe II : Tableau n° 5
 
-Date de création : 4 janvier 1931.
+AFFECTIONS PROFESSIONNELLES LIEES AU CONTACT AVEC LE PHOSPHORE ET LE SESQUISULFURE DE PHOSPHORE
 
-Dernière mise à jour : 23 juin 1985. DESIGNATION DES MALADIES :
+DÉSIGNATION DES MALADIES
 
-A - Ostéomalacie ou nécrose du maxillaire inférieur
+|
 
-DELAI DE PRISE EN CHARGE : 1 an
+DÉLAI DE PRISE en charge
 
-B - Dermite aiguë irritative, ou eczématiforme récidivant au contact du sesquisulfure de phosphore
+|
 
-DELAI DE PRISE EN CHARGE : 7 jours
+LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies
 
-C - Dermite chronique irritative, ou eczématiforme récidivant au contact du sesquisulfure de phosphore
+|
 
-DELAI DE PRISE EN CHARGE : 90 jours
+A. - Ostéomalacie ou nécrose du maxillaire inférieur.
 
-LISTE INDICATIVE DES PRINCIPAUX TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
+|
 
-- Préparation, emploi, manipulation du phosphore et du sesquisulfure de phosphore ; fabrication de certains dérivés du phosphore, notamment des phosphures.
+1 an
+
+|
+
+Préparation, emploi, manipulation du phosphore et du sesquisulfure de phosphore ; fabrication de certains dérivés du phosphore, notamment des phosphures.
+
+|
+
+B. - Dermite aiguë irritative, ou eczématiforme récidivant en cas de nouvelle exposition au risque.
+
+|
+
+15 jours
+
+|
+
+C. - Dermite chronique irritative, ou eczématiforme récidivant au contact du sesquisulfure de phosphore.
+
+|
+
+90 jours
+
+|

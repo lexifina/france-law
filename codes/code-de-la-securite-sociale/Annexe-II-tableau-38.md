@@ -1,25 +1,35 @@
-# Article Annexe II tableau 38
+# Article Annexe II : Tableau n° 38
 
-Date de création : 9 janvier 1958.
+MALADIES PROFESSIONNELLES ENGENDREES PAR LA CHLORPROMAZINE.
 
-Dernière mise à jour : 20 avril 1963.
+DÉSIGNATION DES MALADIES
 
-DESIGNATION DES MALADIES :
+|
 
-Lésions eczématiformes récidivant en cas de nouvelle exposition ou confirmées par tests épicutanés
+DÉLAI de prise en charge
 
-DELAI DE PRISE EN CHARGE : 7 jours
+|
 
-DESIGNATION DES MALADIES :
+LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies
 
-Conjonctivite aiguë bilatérale, confirmée par tests épicutanés
+|
 
-DELAI DE PRISE EN CHARGE : 7 jours
+Lésions eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par un test épicutané.
 
-LISTE INDICATIVE DES PRINCIPAUX TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
+|
 
-Travaux comportant la manipulation ou l'emploi de la chlorpromazine, notamment :
+15 jours
 
-Travaux de conditionnement de la chlorpromazine ;
+|
 
-Application des traitements à la chlorpromazine.
+Travaux comportant la manipulation ou l'emploi de la chlorpromazine, notamment : - travaux de conditionnement de la chlorpromazine ; - application des traitements à la chlorpromazine.
+
+|
+
+Conjonctivite aiguë bilatérale.
+
+|
+
+7 jours
+
+|

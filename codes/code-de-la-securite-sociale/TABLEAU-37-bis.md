@@ -1,13 +1,31 @@
-# Article Annexe II tableau 37 bis
+# Article Annexe II : Tableau n° 37 bis
 
-Date de création : 28 janvier 1982.
+Affections respiratoires causées par les oxydes et les sels de nickel.
 
-DESIGNATION DES MALADIES :
+DÉSIGNATION DES MALADIES
 
-Rhinite, asthme ou dyspnée asthmatiforme confirmé par test ou par épreuves fonctionnelles, récidivant après nouvelle exposition
+|
 
-DELAI DE PRISE EN CHARGE : 7 jours
+DÉLAI de prise en charge
 
-LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
+|
+
+LISTE LIMITATIVE DES TRAVAUX susceptibles de provoquer ces maladies
+
+|
+
+Rhinite récidivant en cas de nouvelle exposition au risque ou confirmée par test
+
+|
+
+7 jours
+
+|
 
 Nickelage électrolytique des métaux.
+
+|
+
+Asthme objectivé par explorations fonctionnelles respiratoires récidivant en cas de nouvelle exposition au risque ou confirmé par test |
+
+7 jours |

@@ -1,85 +1,79 @@
-# Article Annexe II tableau 2
+# Article Annexe II : Tableau n° 2
+
+MALADIES PROFESSIONNELLES CAUSEES PAR LE MERCURE ET SES COMPOSES.
 
 Date de création : 27 octobre 1919.
 
-Dernière mise à jour : 6 février 1983 DESIGNATION DES MALADIES :
+Dernière mise à jour : 6 février 1983
 
-Encéphalopathie aiguë
+DÉSIGNATION DES maladies
 
-DELAI DE PRISE EN CHARGE : 10 jours
+|
 
-DESIGNATION DES MALADIES :
+DÉLAI DE prise en charge
 
-Tremblement intentionnel
+|
 
-DELAI DE PRISE EN CHARGE : 1 an
+LISTE INDICATIVE DES PRINCIPAUX TRAVAUX SUSCEPTIBLES DE provoquer ces maladies
 
-DESIGNATION DES MALADIES :
+|
 
-Ataxie cérébelleuse
+Encéphalopathie aiguë.
 
-DELAI DE PRISE EN CHARGE : 1 an
+|
 
-DESIGNATION DES MALADIES :
+10 jours
 
-Stomatite
+|
 
-DELAI DE PRISE EN CHARGE : 30 jours
+Extraction, traitement, préparation, emploi, manipulation du mercure, de ses amalgames, de ses combinaisons et de tout produit en renfermant, notamment : - distillation du mercure et récupération du mercure par distillation de résidus industriels ; - fabrication et réparation de thermomètres, baromètres, manomètres, pompes ou trompes à mercure. Emploi du mercure ou de ses composés dans la construction électrique, notamment : - emploi des pompes ou trompes à mercure dans la fabrication des lampes à incandescence, lampes radiophoniques, ampoules radiographiques ; - fabrication et réparation de redresseurs de courant ou de lampes à vapeurs de mercure ; - emploi du mercure comme conducteur dans l'appareillage électrique ; préparation du zinc amalgamé pour les piles électriques ; fabrication et réparation d'accumulateurs électriques au mercure. Emploi du mercure et de ses composés dans l'industrie chimique, notamment : - emploi du mercure ou de ses composés comme agents catalytiques ; - électrolyse avec cathode de mercure au chlorure de sodium ou autres sels. Fabrication des composés du mercure. Préparation, conditionnement et application de spécialités pharmaceutiques ou phyto-pharmaceutiques contenant du mercure ou des composés du mercure. Travail des peaux au moyen de sel de mercure, notamment : - sécrétage des peaux par le nitrate acide de mercure, feutrage des poils sécrétés, naturalisation d'animaux au moyen de sels de mercure. Dorure, argenture, étamage, bronzage, damasquinage à l'aide de mercure ou de sels de mercure. Fabrication et emploi d'amorces au fulminate de mercure. Autres applications et traitements par le mercure et ses sels.
 
-DESIGNATION DES MALADIES :
+|
 
-Coliques et diarrhées
+Tremblement intentionnel.
 
-DELAI DE PRISE EN CHARGE : 15 jours
+|
 
-DESIGNATION DES MALADIES :
+1 an
 
-Néphrite azotémique
+|
 
-DELAI DE PRISE EN CHARGE : 1 an
+Ataxie cérébelleuse.
 
-DESIGNATION DES MALADIES :
+|
 
-Lésions eczématiformes récidivant en cas de nouvelle exposition ou confirmées par un test épicutané
+1 an
 
-DELAI DE PRISE EN CHARGE : 15 jours
+|
 
-LISTE INDICATIVE DES PRINCIPAUX TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
+Stomatite.
 
-Extraction, traitement, préparation, emploi, manipulation du mercure, de ses amalgames, de ses combinaisons et de tout produit en renfermant, notamment :
+|
 
-Distillation du mercure et récupération du mercure par distillation de résidus industriels ;
+30 jours
 
-Fabrication et réparation de thermomètres, baromètres, manomètres, pompes ou trompes à mercure.
+|
 
-Emploi du mercure ou de ses composés dans la construction électrique, notamment :
+Coliques et diarrhées.
 
-Emploi des pompes ou trompes à mercure dans la fabrication des lampes à incandescence, lampes radiophoniques, ampoules radiographiques ;
+|
 
-Fabrication et réparation de redresseurs de courant ou de lampes à vapeurs de mercure ;
+15 jours
 
-Emploi du mercure comme conducteur dans l'appareillage électrique ;
+|
 
-Préparation du zinc amalgamé pour les piles électriques ;
+Néphrite azotémique.
 
-Fabrication et réparation d'accumulateurs électriques au mercure.
+|
 
-Emploi du mercure et de ses composés dans l'industrie chimique, notamment :
+1 an
 
-Emploi du mercure ou de ses composés comme agents catalytiques ;
+|
 
-Electrolyse avec cathode de mercure au chlorure de sodium ou autres sels.
+Lésions eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par un test épicutané. »
 
-Fabrication des composés du mercure.
+|
 
-Préparation, conditionnement et application de spécialités pharmaceutiques ou phyto-pharmaceutiques contenant du mercure ou des composés du mercure.
+15 jours
 
-Travail des peaux au moyen de sels de mercure, notamment :
-
-Sécrétage des peaux par le nitrate acide de mercure, feutrage des poils sécrétés, naturalisation d'animaux au moyen de sels de mercure.
-
-Dorure, argenture, étamage, bronzage, damasquinage à l'aide de mercure ou de sels de mercure.
-
-Fabrication et emploi d'amorces au fulminate de mercure.
-
-Autres applications et traitements par le mercure et ses sels.
+|

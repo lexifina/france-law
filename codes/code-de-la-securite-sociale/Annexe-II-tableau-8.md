@@ -1,29 +1,55 @@
-# Article Annexe II tableau 8
+# Article Annexe II : Tableau n° 8
 
-Date de création : 18 juillet 1936.
+AFFECTIONS CAUSEES PAR LES CIMENTS (ALUMINO-SILICATES DE CALCIUM)
 
-Dernière mise à jour : 15 septembre 1955 DESIGNATION DES MALADIES :
+DÉSIGNATION DES MALADIES
 
-- Ulcérations, dermites primitives, pyodermites, dermites eczématiforme
+|
 
-DELAI DE PRISE EN CHARGE : 30 jours
+DÉLAI DE
 
-DESIGNATION DES MALADIES :
+prise en charge
 
-- Blépharite
+|
 
-DELAI DE PRISE EN CHARGE : 30 jours
+LISTE INDICATIVE DES PRINCIPAUX TRAVAUX
 
-DESIGNATION DES MALADIES :
+susceptibles de provoquer ces maladies
 
-- Conjonctivite
+|
 
-DELAI DE PRISE EN CHARGE : 30 jours
+Ulcérations, pyodermites.
 
-LISTE INDICATIVE DES PRINCIPAUX TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
+|
 
-- Fabrication, concassage, broyage, ensachage et transport à dos d'homme des ciments.
+30 jours
 
-- Fabrication, à l'aide de ciments, de matériaux agglomérés et d'objets moulés.
+|
 
-- Emploi des ciments dans les chantiers du bâtiment et des travaux publics.
+Fabrication, concassage, broyage, ensachage et transport à dos d'homme des ciments. Fabrication, à l'aide de ciments, de matériaux agglomérés et d'objets moulés. Emploi des ciments dans les chantiers du bâtiment et des travaux publics.
+
+|
+
+Dermites eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par un test épicutané.
+
+|
+
+15 jours
+
+|
+
+Blépharite.
+
+|
+
+30 jours
+
+|
+
+Conjonctivite.
+
+|
+
+30 jours
+
+|

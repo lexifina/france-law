@@ -1,23 +1,61 @@
-# Article Annexe II tableau 63
+# Article Annexe II : Tableau n° 63
 
-Date de création : 2 mars 1973.
+Affections provoquées par les enzymes
 
-DESIGNATION DES MALADIES :
+.
 
-Dermites eczématiformes récidivant en cas de nouvelle exposition ou confirmées par un test
+DÉSIGNATION DES MALADIES
 
-Ulcérations cutanées
+|
 
-Conjonctivite aiguë bilatérale récidivant en cas de nouvelle exposition ou confirmée par un test
+DÉLAI de prise en charge
 
-Rhinite, asthme ou dyspnée asthmatiforme confirmé par tests ou par épreuves fonctionnelles, récidivant après nouvelle exposition
+|
 
-DELAI DE PRISE EN CHARGE : 7 jours
+LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies
 
-LISTE INDICATIVE DES PRINCIPAUX TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
+|
 
-Préparation, manipulation, emploi des enzymes et des produits en renfermant, notamment :
+Lésions eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par un test épicutané.
 
-Extraction et purification des enzymes d'origine animale (trypsine), végétale (broméline, papaïne, ficine), bactérienne et fongique (préparés à partir des bacillus subtillis, aspergillus, orysae) ;
+|
 
-Fabrication et conditionnement de détergents renfermant des enzymes.
+15 jours
+
+|
+
+Préparation, manipulation, emploi des enzymes et des produits en renfermant, notamment : - extraction et purification des enzymes d'origine animale (trypsine), végétale (broméline, papaine, ficine), bactérienne et fongique (préparés à partir des bacillus subtillis, aspergillus, orysae) ; - fabrication et conditionnement de détergents renfermant des enzymes.
+
+|
+
+Ulcérations cutanées.
+
+|
+
+7 jours
+
+|
+
+Conjonctivite aiguë bilatérale récidivant en cas de nouvelle exposition ou confirmée par un test.
+
+|
+
+7 jours
+
+|
+
+Rhinite récidivant en cas de nouvelle exposition au risque ou confirmée par test.
+
+|
+
+7 jours
+
+|
+
+Asthme objectivé par explorations fonctionnelles respiratoires récidivant en cas de nouvelle exposition au risque ou confirmé par test.
+
+|
+
+7 jours
+
+|

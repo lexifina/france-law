@@ -1,25 +1,57 @@
-# Article Annexe II tableau 50
+# Article Annexe II : Tableau n° 50
 
-Date de création : 9 novembre 1972.
+AFFECTIONS PROVOQUEES PAR LA PHENYLHYDRAZINE.
 
-DESIGNATION DES MALADIES :
+DÉSIGNATION DES MALADIES
 
-Dermites eczématiformes confirmées par des tests épicutanés ou par la récidive à une nouvelle exposition
+|
 
-DELAI DE PRISE EN CHARGE : 7 jours
+DÉLAI de prise en charge
 
-DESIGNATION DES MALADIES :
+|
 
-Anémie de type hémolytique
+LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies
 
-DELAI DE PRISE EN CHARGE : 30 jours
+|
 
-DESIGNATION DES MALADIES :
+Lésions eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par un test épicutané.
 
-Asthme ou dyspnée asthmatiforme, confirmé par tests ou par épreuves fonctionnelles, récidivant après nouvelle exposition
+|
 
-DELAI DE PRISE EN CHARGE : 7 jours
+15 jours
 
-LISTE INDICATIVE DES PRINCIPAUX TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
+|
 
 Préparation, emploi, manipulation de la phénylhydrazine.
+
+|
+
+Anémie de type hémolytique.
+
+|
+
+30 jours
+
+|
+
+|
+
+Rhinite récidivant en cas de nouvelle exposition au risque ou confirmée par test.
+
+|
+
+7 jours
+
+|
+
+|
+
+Asthme objectivé par explorations fonctionnelles respiratoires récidivant en cas de nouvelle exposition au risque ou confirmé par test.
+
+|
+
+7 jours
+
+|
+
+|

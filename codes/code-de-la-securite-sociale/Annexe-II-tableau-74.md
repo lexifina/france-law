@@ -1,31 +1,51 @@
-# Article Annexe II tableau 74
+# Article Annexe II : Tableau n° 74
 
-Date de création : 26 juin 1984.
+AFFECTIONS PROFESSIONNELLES PROVOQUEES PAR LE FURFURAL ET L'ALCOOL FURFURYLIQUE.
 
-DESIGNATION DES MALADIES :
+DÉSIGNATION DES MALADIES
 
-Asthme ou dyspnée asthmatiforme confirmé par test ou par épreuve fonctionnelle respiratoire, récidivant après nouvelle exposition.
+|
 
-DELAI DE PRISE EN CHARGE : 7jours
+DÉLAI de prise en charge
 
-DESIGNATION DES MALADIES :
+|
 
-Conjonctivite récidivant après nouvelle exposition.
+LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies
 
-DELAI DE PRISE EN CHARGE : 7jours
+|
 
-DESIGNATION DES MALADIES :
+Rhinite récidivant en cas de nouvelle exposition au risque ou confirmée par test
 
-Dermite eczématiforme récidivant à une nouvelle exposition ou confirmée par un test épicutané.
+|
 
-DELAI DE PRISE EN CHARGE : 7jours
+7 jours
 
-LISTE INDICATIVE DES PRINCIPAUX TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
+|
 
-Travaux exposant aux émanations de furfural et d'alcool furfurylique utilisés comme :
+Travaux exposant aux émanations de furfural et d'alcool furfurylique utilisés comme : - solvants, réactifs ; - agents de synthèse des pesticides, de médicaments ou de matières plastiques en particulier pour la préparation et l'utilisation de moules en fonderie ; - accélérateurs de vulcanisation du caoutchouc.
 
-Solvants, réactifs ;
+|
 
-Agents de synthèse des pesticides, de médicaments ou de matières plastiques en particulier pour la préparation et l'utilisation de moules en fonderie ;
+Asthme objectivé par explorations fonctionnelles respiratoires récidivant en cas de nouvelle exposition au risque ou confirmé par test
 
-Accélérateurs de vulcanisation du caoutchouc.
+|
+
+7 jours
+
+|
+
+Conjonctivite récidivant après nouvelle exposition
+
+|
+
+7 jours
+
+|
+
+Dermite eczématiforme récidivant en cas de nouvelle exposition au risque ou confirmée par un test épicutané
+
+|
+
+15 jours
+
+|

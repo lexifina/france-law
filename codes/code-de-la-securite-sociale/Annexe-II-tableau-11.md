@@ -1,43 +1,63 @@
-# Article Annexe II tableau 11
+# Article Annexe II : Tableau n° 11
+
+INTOXICATION PROFESSIONNELLE PAR LE TETRACHLORURE DE CARBONE.
 
 Date de création : 14 décembre 1938.
 
 Dernière mise à jour : 21 octobre 1951
 
-DESIGNATION DES MALADIES :
+DÉSIGNATION DES MALADIES
 
-Néphrite aiguë ou subaiguë avec albuminurie, cylindrurie et azotémie progressive
+|
 
-DELAI DE PRISE EN CHARGE : 30 jours
+DÉLAI DE prise en charge
 
-DESIGNATION DES MALADIES :
+|
 
-Hépatonéphrite initialement apyrétique, ictérigène ou non
+LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies
 
-DELAI DE PRISE EN CHARGE : 30 jours
+|
 
-DESIGNATION DES MALADIES :
+Néphrite aiguë ou subaiguë avec albuminurie, cylindrurie et azotémie progressive.
 
-Ictère par hépatite, initialement apyrétique
+|
 
-DELAI DE PRISE EN CHARGE : 30 jours
+30 jours
 
-DESIGNATION DES MALADIES :
+|
 
-Dermites chroniques ou récidivantes
+Préparation, emploi, manipulation du tétrachlorure de carbone ou des produits en renfermant, notamment : - emploi du tétrachlorure de carbone comme dissolvant, en particulier pour l'extraction des matières grasses et pour la teinture-dégraissage ; - remplissage et utilisation des extincteurs au tétrachlorure de carbone.
 
-DELAI DE PRISE EN CHARGE : 7 jours
+|
 
-DESIGNATION DES MALADIES :
+Hépatonéphrite initialement apyrétique, ictérigène ou non.
 
-Accidents nerveux aigus en dehors des cas considérés comme accidents du travail
+|
 
-DELAI DE PRISE EN CHARGE : 3 jours
+30 jours
 
-LISTE INDICATIVE DES PRINCIPAUX TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
+|
 
-Préparation, emploi, manipulation du tétrachlorure de carbone ou des produits en renfermant, notamment :
+Ictère par hépatite, initialement apyrétique.
 
-Emploi du tétrachlorure de carbone comme dissolvant, en particulier pour l'extraction des matières grasses et pour la teinture-dégraissage.
+|
 
-Remplissage et utilisation des extincteurs au tétrachlorure de carbone.
+30 jours
+
+|
+
+Dermite irritative.
+
+|
+
+7 jours
+
+|
+
+Accidents nerveux aigus en dehors des cas considérés comme accidents du travail.
+
+|
+
+3 jours
+
+|

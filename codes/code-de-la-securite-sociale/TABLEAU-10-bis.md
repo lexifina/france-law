@@ -1,15 +1,39 @@
-# Article Annexe II tableau 10 bis
+# Article Annexe II : Tableau n° 10 bis
 
-Date de création : 28 janvier 1982.
+Affections respiratoires provoquées par l'acide chromique, les chromates et bichromates alcalins.
 
-DESIGNATION DES MALADIES :
+DÉSIGNATION DES MALADIES
 
-Rhinite, asthme ou dyspnée asthmatiforme confirmé par test ou par épreuves fonctionnelles, récidivant après nouvelle exposition
+|
 
-DELAI DE PRISE EN CHARGE : 7 jours
+DÉLAI DE prise en charge
 
-LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
+|
+
+LISTE LIMITATIVEDES TRAVAUX SUSCEPTIBLES de provoquer ces maladies
+
+|
+
+Rhinite récidivant en cas de nouvelle exposition au risque ou confirmée par test
+
+|
+
+7 jours
+
+|
 
 Chromage électrolytique des métaux ;
 
+|
+
+Asthme objectivé par explorations fonctionnelles respiratoires récidivant en cas de nouvelle exposition au risque ou confirmé par test
+
+|
+
+7 jours
+
+|
+
 Fabrication, manipulation, emploi de chromates et bichromates alcalins.
+
+|

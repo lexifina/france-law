@@ -1,23 +1,43 @@
-# Article Annexe II tableau 41
+# Article Annexe II : Tableau n° 41
 
-Date de création : 11 octobre 1960.
+Maladies engendrées par les bétalactamines (notamment pénicillines et leurs sels) et les céphalosporines
 
-DESIGNATION DES MALADIES :
+DÉSIGNATION DES MALADIES
 
-Lésions eczématiformes récidivant en cas de nouvelle exposition ou confirmées par test
+|
 
-DELAI DE PRISE EN CHARGE : 30 jours
+DÉLAI de prise en charge
 
-DESIGNATION DES MALADIES :
+|
 
-Rhinite, asthme ou dyspnée asthmatiforme confirmée par test ou par épreuves fonctionnelles, récidivant après nouvelle exposition
+LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies
 
-DELAI DE PRISE EN CHARGE : 7 jours
+|
 
-LISTE INDICATIVE DES PRINCIPAUX TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
+Lésions eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par un test épicutané
 
-Travaux comportant la préparation ou l'emploi des pénicillines, de leurs sels ou des céphalosporines, notamment :
+|
 
-Travaux de conditionnement ;
+15 jours
 
-Application des traitements.
+|
+
+Travaux comportant la préparation ou l'emploi des bétalactamines (notamment pénicillines et leurs sels) ou des céphalosporines, notamment : - travaux de conditionnement ; - application des traitements.
+
+|
+
+Rhinite récidivant en cas de nouvelle exposition au risque ou confirmée par test
+
+|
+
+7 jours
+
+|
+
+Asthme objectivé par explorations fonctionnelles respiratoires récidivant en cas de nouvelle exposition au risque ou confirmé par test
+
+|
+
+7 jours
+
+|

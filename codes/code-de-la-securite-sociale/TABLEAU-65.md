@@ -1,14 +1,20 @@
-# Article Annexe II tableau 65
+# Article Annexe II : Tableau n° 65
 
-Date de création : 19 juin 1977.
+Lésions eczématiformes de mécanisme allergique
 
-DESIGNATION DES MALADIES :
+DÉSIGNATION DES MALADIES |
 
-Lésions eczématiformes récidivant après nouvelle exposition au risque ou confirmées par un test épicutané positif au produit manipulé.
+DÉLAI
 
-DELAI DE PRISE EN CHARGE : 15 jours
+de prise en charge |
 
-LISTE INDICATIVE DES PRINCIPAUX TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
+LISTE INDICATIVE DES PRINCIPAUX TRAVAUX
+
+susceptibles de provoquer ces maladies |
+
+Lésions eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par un test épicutané positif au produit manipulé. |
+
+15 jours |
 
 Préparation, emploi, manipulation des agents nocifs limitativement énumérés ci-après :
 
@@ -28,7 +34,7 @@ Epichlorhydrine ;
 
 Hypochlorites alcalins ;
 
-Ammoniums quaternaires et leurs sels, notamment dans les agents détergents cationiques ;
+Ammonium quaternaires et leurs sels, notamment dans les agents détergents cationiques ;
 
 Dodécyl-aminoéthyl glycine ;
 
@@ -60,7 +66,7 @@ Acrylates et méthacrylates ;
 
 Résines dérivées du para-tert-butylphénol et du para-tert-butylcatéchol ;
 
-Dicyclohexylcarbodiimide.
+Dicyclohexylcarbodiimide ;
 
 Glutaraldéhyde.
 
@@ -81,3 +87,5 @@ Tulipe ;
 Alliacées (notamment ail et oignon) ;
 
 Farines de céréales.
+
+|

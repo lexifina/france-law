@@ -1,29 +1,51 @@
-# Article Annexe II tableau 43
+# Article Annexe II : Tableau n° 43
 
-Date de création : 20 avril 1963.
+AFFECTIONS PROVOQUEES PAR L'ALDEHYDE FORMIQUE ET SES POLYMERES.
 
-DESIGNATION DES MALADIES :
+DÉSIGNATION DES MALADIES
 
-Ulcérations cutanées
+|
 
-Dermites eczématiformes subaiguës ou chroniques Asthme ou dyspnée asthmatiforme confirmés par tests ou par épreuves fonctionnelles, récidivant après nouvelle exposition
+DÉLAI de prise en charge
 
-DELAI DE PRISE EN CHARGE : 7 jours
+|
 
-DESIGNATION DES MALADIES :
+LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies
 
-Rhinite, asthme ou dyspnée asthmatiforme confirmé par test ou par épreuves fonctionnelles, récidivant après nouvelle exposition
+|
 
-LISTE INDICATIVE DES PRINCIPAUX TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
+Ulcérations cutanées.
 
-Préparation, emploi et manipulation de l'aldéhyde formique, de ses solutions (formol) et de ses polymères, notamment :
+|
 
-Fabrication de substances chimiques, à partir de l'aldéhyde formique ;
+7 jours
 
-Fabrication de matières plastiques à base de formol ;
+|
 
-Travaux de collage exécutés avec des matières plastiques renfermant un excès de formol ;
+Préparation, emploi et manipulation de l'aldéhyde formique, de ses solutions (formol) et de ses polymères, notamment : - fabrication de substances chimiques, à partir de l'aldéhyde formique ; - fabrication de matières plastiques à base de formol ; - travaux de collage exécutés avec des matières plastiques renfermant un excès de formol ; - opérations de désinfection ; - apprêtage des peaux ou des tissus.
 
-Opérations de désinfection ;
+|
 
-Apprêtage des peaux ou des tissus.
+Lésions eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par un test épicutané.
+
+|
+
+15 jours
+
+|
+
+Rhinite récidivant en cas de nouvelle exposition au risque ou confirmée par test.
+
+|
+
+7 jours
+
+|
+
+Asthme objectivé par explorations fonctionnelles respiratoires récidivant en cas de nouvelle exposition au risque ou confirmé par test.
+
+|
+
+7 jours
+
+|

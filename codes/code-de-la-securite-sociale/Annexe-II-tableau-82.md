@@ -1,35 +1,59 @@
-# Article Annexe II tableau 82
+# Article Annexe II : Tableau n° 82
 
-DESIGNATION DES MALADIES :
+AFFECTIONS PROVOQUEES PAR LE METHACRYLATE DE METHYLE
 
-Rhinite récidivante après nouvelle exposition.
+DÉSIGNATION DES MALADIES
 
-Conjonctivite récidivante après nouvelle exposition.
+|
 
-DELAI DE PRISE EN CHARGE : 7 jours
+DÉLAI de prise en charge
 
-DESIGNATION DES MALADIES :
+|
 
-Lésions eczématiformes récidivantes après nouvelle exposition.
+LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies
 
-DELAI DE PRISE EN CHARGE : 15 jours
+|
 
-DESIGNATION DES MALADIES :
+Rhinite récidivante en cas de nouvelle exposition au risque ou confirmée par test
 
-Manifestations respiratoires chroniques avec altérations des épreuves fonctionnelles respiratoires, survenant après l'une des affections énumérées ci-dessus.
+|
 
-DELAI DE PRISE EN CHARGE : 1 an
+7 jours
 
-LISTE INDICATIVE DES PRINCIPAUX TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
+|
 
-Travaux comportant la manipulation ou l'emploi de méthacrylate de méthyle notamment :
+Travaux comportant la manipulation ou l'emploi de méthacrylate de méthyle notamment : - la fabrication de résines acryliques ; - la fabrication des matériaux acryliques ; - la fabrication et l'emploi d'encres, de colles, de peintures à base de méthacrylate de méthyle ; - la fabrication de prothèses, en particulier en chirurgie orthopédique, dentaire et oculaire ; - en histologie osseuse.
 
-- la fabrication de résines acryliques ;
+|
 
-- la fabrication des matériaux acryliques ;
+Asthme objectivé par explorations fonctionnelles respiratoires récidivant en cas de nouvelle exposition au risque ou confirmé par test
 
-- la fabrication et l'emploi d'encres, de colles, de peintures à base de méthacrylate de méthyle ;
+|
 
-- la fabrication de prothèses, en particulier en chirurgie orthopédique, dentaire et oculaire ;
+7 jours
 
-- en histologie osseuse.
+|
+
+Conjonctivité récidivant en cas de nouvelle exposition au risque
+
+|
+
+7 jours
+
+|
+
+Lésions eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par un test épicutané
+
+|
+
+15 jours
+
+|
+
+Manifestations respiratoires chroniques avec altérations des épreuves fonctionnelles respiratoires, survenant après l'une des affections énumérées ci-dessus
+
+|
+
+1 an
+
+|

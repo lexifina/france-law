@@ -1,15 +1,19 @@
-# Article Annexe II tableau 37
+# Article Annexe II : Tableau n° 37
 
-Date de création : 9 janvier 1958.
+Affections cutanées professionnelles causées par les oxydes et les sels de nickel
 
-Dernière mise à jour : 28 janvier 1982.
+DÉSIGNATION DES MALADIES |
 
-DESIGNATION DES MALADIES :
+DÉLAI
 
-Dermites eczématiformes récidivant en cas de nouvelle exposition ou confirmées par test
+de prise en charge |
 
-DELAI DE PRISE EN CHARGE : 7 jours
+LISTE INDICATIVE DES PRINCIPAUX TRAVAUX
 
-LISTE INDICATIVE DES PRINCIPAUX TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
+susceptibles de provoquer ces maladies |
 
-Nickelage électrolytique des métaux.
+Dermites eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par un test épicutané |
+
+15 jours |
+
+Nickelage électrolytique des métaux. |

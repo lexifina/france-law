@@ -1,17 +1,27 @@
-# Article Annexe II tableau 49
+# Article Annexe II : Tableau n° 49
 
-Date de création : 9 novembre 1972.
+Affections cutanées provoquées par les amines aliphatiques, alicycliques ou les éthanolamines
 
-DESIGNATION DES MALADIES :
+DÉSIGNATION DES MALADIES
 
-Dermites eczématiformes provoquées par les éthanolamines, les amines aliphatiques et les cyclohexylamines et confirmées par des tests épicutanés ou par la récidive à une nouvelle exposition
+|
 
-DELAI DE PRISE EN CHARGE : 7 jours
+DÉLAI de prise en charge
 
-DESIGNATION DES MALADIES :
+|
 
-Asthme ou dyspnée asthmatiforme provoqué par les amines aliphatiques, confirmé par tests ou par épreuves fonctionnelles, récidivant après nouvelle exposition
+LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies
 
-LISTE INDICATIVE DES PRINCIPAUX TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
+|
 
-Préparation, emploi et manipulation des amines aliphatiques et alicyliques ou de produits en contenant à l'état libre.
+Dermites eczématiformes confirmées par des tests épicutanés ou par la récidive à une nouvelle exposition.
+
+|
+
+15 jours
+
+|
+
+Préparation, emploi et manipulation des amines aliphatiques, alicycliques ou des éthanolamines ou de produits en contenant à l'état libre.
+
+|

@@ -1,39 +1,63 @@
-# Article Annexe II tableau 33
+# Article Annexe II : Tableau n° 33
 
-Date de création : 21 octobre 1951.
+MALADIES PROFESSIONNELLES DUES AU BERYLLIUM ET A SES COMPOSES.
 
-Dernière mise à jour : 6 février 1983 DESIGNATION DES MALADIES :
+DÉSIGNATION DES MALADIES
 
-A - Manifestations locales
+|
 
-Conjonctivites aiguës ou récidivantes
+DÉLAI de prise en charge
 
-Dermites aiguës ou récidivantes
+|
 
-DELAI DE PRISE EN CHARGE : 5 jours
+LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies
 
-: :
+|
 
-DESIGNATION DES MALADIES :
+A. - Manifestations locales :
 
-B - Manifestations générales
+|
 
-Bronchopneumopathie aiguë ou subaiguë diffuse avec apparition retardée de signes radiologiques le plus souvent discrets
+|
 
-DELAI DE PRISE EN CHARGE : 30 jours
+Travaux exposant au béryllium et à ses composés, notamment : - broyage et traitement du minerai de béryllium (béryl) ; - fabrication et usinage du béryllium, de ses alliages et de ses combinaisons ; - fabrication et utilisation de poudres à base de sels de béryllium destinées au revêtement intérieur des tubes à fluorescence.
 
-DESIGNATION DES MALADIES :
+|
 
-Fibrose pulmonaire diffuse avec signes radiologiques, troubles fonctionnels et signes généraux (amaigrissement, fatigue), confirmée par des épreuves fonctionnelles respiratoires, y compris les complications cardiaques (insuffisance ventriculaire droite) et les complications pleuropulmonaires secondaires (pneumothorax spontané)
+Dermite aiguë ou eczématiforme récidivant en cas de nouvelle exposition au risque
 
-DELAI DE PRISE EN CHARGE : 25 ans
+|
 
-LISTE INDICATIVE DES PRINCIPAUX TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
+15 jours
 
-Travaux exposant au béryllium et à ses composés, notamment :
+|
 
-Broyage et traitement du minerai de béryllium (béryl) ;
+Conjonctivite aiguë ou récidivante
 
-Fabrication et usinage du béryllium, de ses alliages et de ses combinaisons ;
+|
 
-Fabrication et utilisation de poudres à base de sels de béryllium destinées au revêtement intérieur des tubes à fluorescence.
+5 jours
+
+|
+
+B. - Manifestations générales :
+
+|
+
+|
+
+Bronchopneumopathie aiguë ou subaiguë diffuse avec apparition retardée de signes radiologiques le plus souvent discrets.
+
+|
+
+30 jours
+
+|
+
+Fibrose pulmonaire diffuse avec signes radiologiques, troubles fonctionnels et signes généraux (amaigrissement, fatigue), confirmée par des épreuves fonctionnelles respiratoires, y compris les complications cardiaques (insuffisance ventriculaire droite) et les complications pleuropulmonaires secondaires (pneumothorax spontané).
+
+|
+
+25 ans
+
+|

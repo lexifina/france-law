@@ -1,35 +1,43 @@
-# Article Annexe II tableau 13
+# Article Annexe II : Tableau n° 13
 
-Date de création : 14 décembre 1938.
+INTOXICATIONS PROFESSIONNELLES PAR LES DERIVES NITRES ET CHLORONITRES DES CARBURES BENZENIQUES.
 
-Dernière mise à jour : 15 septembre 1955
+DÉSIGNATION DES MALADIES
 
-DESIGNATION DES MALADIES :
+|
 
-Manifestations consécutives à l'intoxication subaiguë ou chronique (cyanose, anémie, subictère)
+DÉLAI DE prise en charge
 
-DELAI DE PRISE EN CHARGE : 1 an
+|
 
-DESIGNATION DES MALADIES :
+LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies
 
-Accidents aigus (coma) en dehors des cas considérés comme accidents du travail
+|
 
-DELAI DE PRISE EN CHARGE : 30 jours
+Manifestations consécutives à l'intoxication subaiguë ou chronique (cyanose, anémie, subictère).
 
-DESIGNATION DES MALADIES :
+|
 
-Dermites chroniques ou récidivantes causées par les dérivés chloronitrés
+1 an
 
-DELAI DE PRISE EN CHARGE : 30 jours
+|
 
-LISTE INDICATIVE DES PRINCIPAUX TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
+Préparation, emploi, manipulation des dérivés nitrés et chloronitrés des hydrocarbures benzéniques, notamment : - fabrication des dérivés nitrés et chloronitrés du benzène et de ses homologues ; - fabrication des dérivés aminés (aniline et homologues) et de certaines matières colorantes ; - préparation et manipulation d'explosifs. Sont exclues les opérations effectuées à l'intérieur d'appareils rigoureusement clos en marche normale.
 
-Préparation, emploi, manipulation des dérivés nitrés et chloronitrés des carbures benzéniques, notamment :
+|
 
-Fabrication des dérivés nitrés et chloronitrés du benzène et de ses homologues.
+Accidents aigus (coma) en dehors des cas considérés comme accidents du travail.
 
-Fabrication des dérivés aminés (aniline et homologues) et de certaines matières colorantes.
+|
 
-Préparation et manipulation d'explosifs.
+30 jours
 
-Sont exclues les opérations effectuées à l'intérieur d'appareils rigoureusement clos en marche normale.
+|
+
+Dermites chroniques irritatives ou eczématiformes causées par les dérivés chloronitrés récidivant en cas de nouvelle exposition au risque.
+
+|
+
+15 jours
+
+|
