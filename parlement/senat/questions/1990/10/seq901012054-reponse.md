@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901012054
+
+- Question : [SEQ901012054](seq901012054.md) — Situation des populations civiles à Beyrouth-Est
+
+## Réponse
+
+*Affaires étrangères, JO du 1990-12-27, page 2742*
+
+Réponse. - Les violences qui ont accompagné et suivi l'opération militaire du 13 octobre dernier au Liban ont vivement préoccupé le Gouvernement français qui a multiplié les interventions pour qu'il y soit mis fin. Outre une action directe auprès des autorités libanaises mais aussi syriennes, compte tenu de la part prise par leurs forces à l'opération, la France a saisi le secrétaire général des Nations unies afin que, sur la base du mandat qui lui a été confié par le Conseil de sécurité, il appelle les autorités responsables à assurer la sécurité des populations. A sa demande également, une concertation a été ouverte entre les cinq membres permanents du Conseil de sécurité afin qu'ils usent de leur autorité morale pour promouvoir l'apaisement. L'honorable parlementaire peut être assuré que notre pays ne relâchera pas ses efforts, tant à titre bilatéral que dans le cadre de la Communauté internationale, pour faire en sorte que le rétablissement de l'autorité de l'Etat au Liban s'effectue dans le respect du droit et de la sécurité des populations. En ce qui concerne la sécurité des ressortissants français au Liban, l'honorable parlementaire peut être assuré que le Gouvernement y a veillé avec toute l'attention qu'elle appelle. Des instructions ont été données à notre représentation diplomatique et consulaire pour que la plus grande vigilance soit observée. Toutes les mesures de mise en garde et de protection ont été prises en faveur de nos compatriotes qui ont toujours fait preuve du plus grand courage à travers les épreuves traversées par le Liban ; des interventions spécifiques ont été effectuées chaque fois qu'une situation particulière le requérait.
