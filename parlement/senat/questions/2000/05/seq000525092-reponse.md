@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000525092
+
+- Question : [SEQ000525092](seq000525092.md) — Enseignement de la langue occitane
+
+## Réponse
+
+*Éducation, JO du 2001-04-19, page 1337*
+
+Réponse. - Le développement de l'enseignement de l'occitan est l'objet de toute l'attention du ministre de l'éducation nationale qui s'attache à améliorer les conditions de sa diffusion aux différents niveaux du système éducatif. L'intégration des langues régionales dans le plan national de développement des langues vivantes que chaque recteur est appelé à mettre en place doit donner une nouvelle impulsion à leur apprentissage. L'occitan ne pourra que tirer bénéfice de cette situation. Dans ce cadre, les instituts universitaires de formation des maîtres seront invités à proposer la mise en uvre d'actions visant à développer ou à renforcer la connaissance des langues régionales, par exemple sous la forme de modules d'initiation ou d'approfondissement de la langue occitane. De même, la mise en place, en 2002, du concours spécial destiné à recruter les professeurs des écoles enseignant dans les classes bilingues est appelée à jouer un rôle incitatif en ce domaine. S'agissant plus précisément de la place réservée à l'occitan par l'institut universitaire de formation des maîtres d'Aquitaine, il convient de mentionner qu'à la rentrée 1999, celui-ci dans son antenne de Gironde a assuré pour cette langue, une préparation à l'épreuve à option du concours de professeur des écoles. Par ailleurs, dans l'année qui suit le concours (PE 2), un module d'enseignement de langue et culture occitane est proposé aux élèves maîtres pour être mis en place dès qu'il y plus de huit inscrits. Depuis la création du concours, le nombre d'inscrits aux diverses épreuves d'occitan à l'IUFM d'Aquitaine est fourni par le tableau ci-dessous :( NOTA Voir tableau page 1337 ).
