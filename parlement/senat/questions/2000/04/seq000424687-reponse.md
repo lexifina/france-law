@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000424687
+
+- Question : [SEQ000424687](seq000424687.md) — Redevance injustifiée de la SACEM demandée aux communes créant des espaces multimédias
+
+## Réponse
+
+*Culture, JO du 2000-08-31, page 3000*
+
+Réponse. - La protection du droit d'auteur ne constitue pas un obstacle à la diffusion culturelle puisque grâce à cette protection les auteurs disposent des moyens adéquats pour continuer à assumer leur rôle indispensable dans la société, la création d' uvres qui seront ensuite communiquées au public, contribuant ainsi au développement des savoirs, à leur diffusion et à la diversité culturelle. La protection par le droit d'auteur du créateur est un principe internationalement reconnu. Ce droit de l'auteur comporte naturellement un aspect économique et les auteurs ont le libre choix de devenir associé d'une société de gestion collective qui assurera la défense de leurs intérêts moraux, professionnels et économiques. Cette protection n'est pas incompatible avec les objectifs de diffusion culturelle poursuivis par des établissement culturels dont le but est de favoriser l'accès aux uvres. Les titulaires de droit ont traditionnellement pris en compte les objectifs d'intérêt général poursuivis par ce type d'établissement à caractère non lucratif et consentant des conditions particulières par convention pour une durée et des modes d'exploitation identifiés. Le ministère de la culture et de la communication a souhaité que les bibliothèques publiques participent à l'effort engagé par le Gouvernement en faveur du développement de l'accès aux nouveaux outils de communication, notamment à destination du jeune public et a engagé un dialogue avec des représentants des auteurs pour que les pratiques tarifaires puissent tenir compte également de cet objectif d'intérêt général dans le respect des règles de protection des auteurs.
