@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040512071
+
+- Question : [SEQ040512071](seq040512071.md) — Statut des personnels reclassés de France Télécom
+
+## Réponse
+
+*Économie, JO du 2004-09-02, page 1991*
+
+Les mesures relatives à la mobilité externe des agents de France Télécom, prises en application de l'article 5 de la loi n° 2003-1365 du 31 décembre 2003 relative aux obligations de service public des télécommunications et à France Télécom, s'adressent à l'ensemble des fonctionnaires de France Télécom, qu'ils aient conservé leur grade de reclassement ou qu'ils aient choisi la classification. D'ores et déjà, un décret permet aux agents de France Télécom qui le souhaitent d'être détachés, puis éventuellement intégrés, dans tous les corps de la fonction publique de l'Etat, alors que certains de ces corps demeurent fermés à certains de leurs collègues fonctionnaires de l'Etat. En outre, s'agissant des deux autres fonctions publiques (territoriale et hospitalière), les projets de décrets évoqués par le parlementaire dont l'objectif est de fixer les modalités de détachement/intégration des fonctionnaires de France Télécom, ont été récemment examinés par le Conseil d'Etat et sont actuellement soumis à la signature des ministres concernés. Par ailleurs, la relance de la promotion dans les corps de fonctionnaires dits " reclassés " de France Télécom fait l'objet d'un décret en cours de finalisation qui sera prochainement soumis à l'avis du Conseil d'Etat. Le ministre délégué à l'industrie a pris l'initiative de ce texte en application de la loi du 31 décembre 2003 précitée. Il permettra de réaliser des promotions dans l'ensemble des corps dits de " reclassement " de l'opérateur en remédiant à la situation actuelle, où, en l'absence de recrutement externe depuis plusieurs années, et de l'existence de quotas statutaires, les possibilités de promotions sont réduites.
