@@ -28,10 +28,10 @@ Décret n° 98-419 du 27 mai 1998 relatif aux conditions de nomination et d'avan
 
 Décret n° 98-481 du 17 juin 1998 relatif à l'emploi de directeur régional de la protection judiciaire de la jeunesse.
 
-Décret n° 98-803 du 8 septembre 1998 modifié relatif au statut d'emploi des directeurs régionaux des services pénitentiaires.
-
 Décret n° 2000-565 du 21 juin 2000 relatif au statut d'emploi de responsable de service dans les services à compétence nationale, les services déconcentrés et certains autres services relevant de la direction générale de l'aviation civile.
 
 Décret n° 2000-439 du 23 mai 2000 portant création du statut d'emploi de délégué interrégional des impôts et suppression du statut d'emploi de directeur régional des impôts.
 
 Décret n° 2000-748 du 1er août 2000 relatif aux règles de nomination et d'avancement applicables aux emplois de directeur régional et départemental du travail, de l'emploi et de la formation professionnelle et de directeur du travail, de l'emploi et de la formation professionnelle des départements d'outre-mer.
+
+Décret n° 2002-725 du 30 avril 2002 relatif aux statuts d'emploi de directeur régional et de directeur fonctionnel des services pénitentiaires.
