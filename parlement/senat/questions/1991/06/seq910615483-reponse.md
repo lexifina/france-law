@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910615483
+
+- Question : [SEQ910615483](seq910615483.md) — Mesures en faveur des professeurs retraités de premier grade des lycées professionnels publics
+
+## Réponse
+
+*Éducation, JO du 1991-08-01, page 1621*
+
+Réponse. - Dans le cadre du plan de revalorisation de la fonction enseignante, le Gouvernement a réalisé un effort particulièrement important, notamment en faveur des professeurs de lycée professionnel. A cet égard, les professeurs de lycée professionnel du premier grade ont bénéficié de mesures spécifiques : baisse des obligations de service, forte augmentation des possibilités de promotion au deuxième grade : le nombre de transformations d'emplois de P.L.P. 1 en P.L.P. 2 a atteint 5 000 en septembre 1990, ce chiffre a pu être porté à 5 500 dans la loi de finances pour 1991. De ce fait, un nombre non négligeable de professeurs de lycée professionnel du premier grade proches de la retraite bénéficieront avant leur départ, d'une promotion au grade supérieur. Néanmoins, compte tenu des contraintes budgétaires et de l'importance de l'effectif du premier grade, la réalisation d'une intégration plus rapide du premier grade dans le deuxième grade n'est pas envisageable. Lorsque cette intégration sera réalisée, un décret d'assimilation pris en application de l'article L. 16 du code des pensions civiles et militaires de retraite permettra à l'ensemble des retraités de bénéficier d'un reclassement sur la grille indiciaire du deuxième grade. Il est rappelé, cependant, qu'une telle assimilation ne peut être opérée que lorsqu'il n'y a plus d'actifs dans le grade considéré. En conséquence, aucune anticipation de cette mesure ne peut être effectuée. Cette règle législative s'impose à l'ensemble des fonctionnaires de l'Etat et non aux seuls personnels relevant du ministère de l'éducation nationale.
