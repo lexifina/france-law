@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880310041
+
+- Question : [SEQ880310041](seq880310041.md) — Coopération intercommunale : conclusions du groupe de travail
+
+## Réponse
+
+*Collectivités locales, JO du 1988-04-28, page 570*
+
+Réponse. -Plusieurs propositions du groupe de travail sur la coopération intercommunale sont d'ores et déjà entrées dans le droit positif par la loi du 5 janvier 1988 d'amélioration de la décentralisation, en particulier la reconnaissance du syndicalisme à la carte, l'instauration de délégués suppléants ayant voix délibérative en cas d'absence ou d'empêchement des délégués titulaires, la liberté de choix du lieu de réunion du comité syndical, l'aménagement des compétences respectives du président et du bureau, la définition de nouvelles modalités d'adhésion d'un syndicat à un autre groupement de communes et la révision de la notion d'équilibre budgétaire. Les orientations de la politique du Gouvernement en matière de coopération, développées dans la circulaire n° INT-B-88-77-C du 29 février 1988 publiée au Journal officiel du 18 mai 1988, s'inspirent largement des recommandations faites par le groupe de travail. Un guide pratique sur les syndicats de communes sera publié très prochainement. Il se veut très concret. Outre la description des principales caractéristiques du syndicat de communes et l'illustration de différentes possibilités qu'offre la coopération, ce guide reprend, sous forme de conseils et de recommandations, différentes propositions tirées de l'expérience de terrain des membres du groupe de travail. La circulaire de 1974 sur les syndicats de communes est en cours de réécriture. Toutes les consultations relatives aux propositions du groupe qui nécessitent des études ou des enquêtes complémentaires ont été lancées, notamment auprès des associations d'élus ou des ministères compétents.
