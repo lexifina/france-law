@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980910702
+
+- Question : [SEQ980910702](seq980910702.md) — Créations d'emplois dans les établissements publics de l'Etat
+
+## Réponse
+
+*Économie, JO du 1998-12-03, page 3862*
+
+Réponse. - Il est nécessaire de préciser que seuls les établissements publics industriels et commerciaux entrent juridiquement dans le champ de la réduction du temps de travail. Les dispositions de la loi du 13 juin 1998 en ce qui concerne le passage à 35 heures au 1er janvier 2000 ne s'appliquent pas aux services de l'Etat, aux collectivités locales et aux collectivités hospitalières, ni aux établissements publics administratifs ou assimilés. Une réflexion sur l'état des lieux du temps de travail dans ces secteurs a été confiée à M. Jacques Roché. Ses conclusions sont attendues pour la fin de l'année 1998 et devront donner lieu à concertation avec les organisations syndicales représentatives des fonctionnaires. S'agissant des établissements publics industriels et commerciaux, la loi du 13 juin 1998 met l'accent sur la nécessité d'une démarche négociée du processus de réduction du temps de travail. Dans les entreprises publiques comme dans le secteur privé, les négociations devront reposer sur l'analyse de la situation sociale, économique et financière, des perspectives et du fonctionnement de chaque entreprise et sur une concertation large et approfondie. C'est au niveau de chaque entreprise que, dans ce cadre, seront négociées les conditions de la réduction du temps de travail, qui doit être l'occasion, dans le respect de l'efficacité économique de l'entreprise, d'améliorer les conditions de travail, l'organisation et la qualité des services rendus. Prévoir d'ores et déjà des évolutions d'emploi, d'organisation ou de rémunération dans le budget pour 1999 eût été préjuger de l'issue de ce processus, en particulier du dialogue social.
