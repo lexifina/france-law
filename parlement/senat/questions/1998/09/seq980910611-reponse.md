@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980910611
+
+- Question : [SEQ980910611](seq980910611.md) — Difficultés budgétaire et comptable des collectivités locales ayant réalisé des constructions universitaires pour le compte de l'Etat avant la loi de 1990
+
+## Réponse
+
+*Économie, JO du 1999-05-27, page 1765*
+
+Réponse. - Les instructions budgétaires et comptables M 14 et M 1, M 5, M 7 traitent la cession gratuite d'un bien comme une subvention en nature. Comme toute subvention, qu'elle soit de fonctionnement ou d'équipement, elle est imputée en section de fonctionnement, conformément aux principes posés par le plan comptable général de 1982 dont s'inspirent les plans comptables de tous les organismes publics. En effet le versement d'une subvention à un tiers constitue un appauvrissement de la collectivité versante sans contrepartie patrimoniale, et constitue donc une charge de fonctionnement. Toutefois, s'agissant d'une subvention d'équipement, il a été admis que cette charge puisse être étalée sur cinq exercices. Cette procédure permet d'assurer la neutralité budgétaire malgré le changement de mode de comptabilisation avec les instructions M 11 et M 12 qui prévoyaient l'amortissement des subventions d'équipement versées sur une durée de cinq ans. Au cas d'espèce, l'absence de reprise des participations versées par les communes pour le financement de l'immobilisation cédée gratuitement conduirait à faire supporter la charge correspondant à la subvention en nature par les collectivités adhérentes au syndicat, alors même que celles-ci ont apporté le financement originel du bien faisant l'objet de la cession. Aussi, peut-il être admis que les participations reçues à l'origine fassent l'objet d'une reprise en section de fonctionnement, dès lors qu'elles peuvent être précisément individualisées dans les comptes de la collectivité, venant ainsi financer pour tout ou partie la charge correspondant à la disparition du bien.
