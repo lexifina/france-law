@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881001792
+
+- Question : [SEQ881001792](seq881001792.md) — Logement des étrangers en France
+
+## Réponse
+
+*Équipement, JO du 1989-10-26, page 1755*
+
+Réponse. - Il convient de préciser que, sur tous les problèmes évoqués par l'honorable parlementaire concernant le regroupement familial des étrangers en France, des mesures d'ordre réglementaire ont été prises ces dernières années, relatives à l'attribution des logements gérés par des organismes d'habitations à loyer modéré. Il s'agit des décrets n° 86-670 du 19 mars 1986 et n° 87-902 du 4 novembre 1987 modifiant le code de la construction et de l'habitation (C.C.H.), relatifs à l'attribution des logements gérés par les organismes d'H.L.M. Le décret du 4 novembre 1987, qui a modifié celui du 19 mars 1986, a repris dans son intégralité le paragraphe concernant le regroupement familial. Le paragraphe C de l'article R. 441-3 du C.C.H. indique que les attributions de logements sont prononcées par chaque organisme d'H.L.M., en vue de permettre en particulier " de rapprocher ou regrouper les membres d'une même famille, et notamment de rendre possible un regroupementfamilial au sens du décret n° 76-383 du 29 avril 1976 modifié relatif aux conditions d'entrée et de séjour en France des membres des familles des étrangers autorisés à séjourner en France. " Les dispositions juridiques de base existent donc aujourd'hui. Par contre, des difficultés pratiques, au niveau de la gestion du dispositif, peuvent en effet exister. C'est la raison pour laquelle le ministre de l'équipement, du logement, des transports et de la mer vient de confier à M. -F. Geindre une mission de réflexion et de proposition sur les modalités concrètes d'attribution des logements sociaux par les organismes d'H.L.M. Celui-ci remettra son rapport d'ici la fin du mois d'octobre 1989.
