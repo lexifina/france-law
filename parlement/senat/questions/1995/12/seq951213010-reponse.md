@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951213010
+
+- Question : [SEQ951213010](seq951213010.md) — Gestion administrative des associations foncières
+
+## Réponse
+
+*Agriculture, JO du 1996-03-21, page 647*
+
+Réponse. - Les associations foncières considérées par l'honorable parlementaire sont régies par la loi du 21 juin 1865 relative aux associations syndicales. Ces associations sont des établissements publics à caractère administratif (TC 8 décembre 1899, Association syndicale du canal de Gignac) constitués de la collectivité des propriétaires réunis pour exécuter et entretenir les travaux, à frais communs (art. 1er du décret du 18 décembre 1927). Les obligations qui résultent de leur constitution, au nombre desquelles figure le paiement des taxes, sont attachées aux immeubles compris dans le périmètre de chacune de ces associations. C'est donc bien la propriété et par conséquent le propriétaire qui est taxé. S'agissant des associations foncières de remembrement, ce principe est explicitement énoncé à l'article R. 133-8 du code rural qui dispose que l'association foncière recouvre les sommes correspondant aux dépenses sur les propriétaires intéressés. Ainsi qu'en dispose l'article 25 du décret du 18 décembre 1927, les propriétaires peuvent se faire représenter aux assemblées générales par leurs fermiers ou locataires, par leurs métayers ou régisseurs. Mais en ce qui concerne la répercussion de la charge des taxes syndicales sur les locataires, celle-ci ne peut résulter que de dispositions contractuelles entre propriétaires et locataires. Ces relations entre personnes privées ne sont pas opposables au receveur chargé du recouvrement des taxes syndicales qui ne connaît que le propriétaire redevable. En tout état de cause, seul ce dernier pourra être poursuivi en cas de non-paiement des taxes. Il appartient donc au propriétaire, le cas échéant, de transmettre le titre à son locataire qui pourra l'acquitter à sa place auprès du comptable.
