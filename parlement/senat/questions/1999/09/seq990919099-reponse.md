@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990919099
+
+- Question : [SEQ990919099](seq990919099.md) — Enseignement professionnel : meilleure organisation de l'année scolaire
+
+## Réponse
+
+*Éducation, JO du 2000-03-16, page 968*
+
+Réponse. - L'un des axes forts de la réforme du lycée professionnel engagée dans le cadre de la charte " Un lycée pour le XXe siècle, l'enseignement professionnel intégré " vise à mettre en place une nouvelle organisation de l'année scolaire fondée à la fois sur une meilleure répartition du travail des enseignants et la réduction des horaires hebdomadaires des élèves, tout en maintenant leur horaire global annuel et son équilibre entre formation principale et formation professionnelle. Dès la prochaine rentrée scolaire, la réforme se traduira par une réduction du nombre de semaines consacrées aux examens et une répartition des périodes de stages en entreprise, ajustée aux capacités des élèves à bénéficier de cette formation en situation réelle de travail. A plus long terme, l'effort d'adaptation du cycle scolaire portera sur la simplification des procédures d'examen et de leur déroulement sur l'année, une organisation nouvelle des stages en entreprise, conçus de manière à être mieux intégrés aux besoins pédagogiques des élèves, mieux intégrés avec les cycles de formation au sein de l'établissement, mieux agencés avec les entreprises d'accueil. Ces mesures d'organisation du temps scolaire en lycée professionnel permettront de renforcer l'action des enseignants et de mettre en uvre des dispositifs pédagogiques capables de donner aux élèves la possibilité d'organiser méthodiquement leur travail, de mettre en relation les connaissances et les aptitudes qui s'acquièrent dans les différentes disciplines et dans les périodes en entreprise, de favoriser leur autonomie et leur insertion professionnelle.
