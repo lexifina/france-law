@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000223002
+
+- Question : [SEQ000223002](seq000223002.md) — Application de la loi relative au droit et à la résolution amiable des conflits
+
+## Réponse
+
+*Justice, JO du 2000-08-03, page 2742*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que l'élaboration des décrets d'application de la loi nº 98-1163 du 18 décembre 1998 relative à l'accès au droit et à la résolution amiable des conflits est en voie d'achèvement. s'agissant du volet relatif à l'accès au droit, un premier texte a été publié au Journal officiel du 6 janvier 2000 pour fixer la rétribution des personnes assurant des consultations juridiques financées par le conseil départemental de l'accès au droit. Un deuxième décret nº 2000-344 du 19 avril 2000, publié au Journal officiel du 21 avril 2000, modifie la composition du Conseil national de l'aide juridique et du conseil d'administration des conseils départementaux de l'accès au droit. Cette publication sera accompagnée dans les toutes prochaines semaines de la diffusion d'un guide pratique du conseil départemental de l'accès au droit élaboré par les services de la chancellerie. Ce document sera un véritable outil de communication et de développement de la politique partenariale de mise en uvre des conseils. S'agissant des mesures réglementaires d'application des dispositions de la loi du 18 décembre 1998 consacrées à l'aide juridictionnelle, les difficultés techniques générées notamment par la prise en compte de la transaction avant introduction de l'instance ont nécessité la constitution d'un groupe de travail au sein de la chancellerie, dont les travaux seront soumis à la plus large consultation dans des délais très rapprochés.
