@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950109357
+
+- Question : [SEQ950109357](seq950109357.md) — Procédure d'approche de l'aéroport Nice-Côte d'Azur
+
+## Réponse
+
+*Équipement, JO du 1996-02-08, page 263*
+
+Réponse. - La procédure d'approche dénommée VOR/DME 05 CGS permet d'éviter le survol de l'agglomération d'Antibes - Juan-les-Pins afin de réduire les nuisances sonores lors des approches vers l'aérodrome de Nice. Etablie par les services compétents du ministère chargé des transports, cette procédure particulière respecte toutes les normes de sécurité et n'est en rien dérogatoire. Son utilisation est toutefois soumise à certaines limitations : elle n'est utilisable que sous surveillance radar et par bonnes conditions météorologiques. Du fait de sa spécificité, elle a été mise en service à titre expérimental et son utilisation a effectivement mis en évidence certaines difficultés d'application par les pilotes. Afin d'en rendre son utilisation plus facile, les services de l'aviation civile ont modifié la procédure initiale tout en conservant la finalité qui demeure l'évitement du cap d'Antibes lorsque les conditions météorologiques le permettent. Cette procédure améliorée fait actuellement l'objet d'une concertation avec les différentes instances concernées, dans l'optique d'une mise en service au début de l'année 1996. S'agissant de la procédure dite VICTOR, il est à noter qu'elle conduit à des évolutions tout à fait comparables à celles qu'implique la procédure précédente. Cette procédure VICTOR est en outre une approche de type " à vue " qui, conformément à la réglementation française et internationale, n'est utilisable qu'à l'initiative des pilotes. Quant à la balise CGS implantée à Cagnes-sur-Mer avec le concours financier des collectivités locales, elle ne peut être utilisée comme support des procédures de départ du fait des limitations de son rayonnement.
