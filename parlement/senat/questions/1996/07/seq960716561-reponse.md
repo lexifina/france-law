@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960716561
+
+- Question : [SEQ960716561](seq960716561.md) — Fusion Dassault-Aérospatiale
+
+## Réponse
+
+*Défense, JO du 1996-10-03, page 2556*
+
+Réponse. - Le Président de la République a arrêté, le 22 février dernier, ses orientations concernant l'évolution de notre appareil de défense, avec le souci de doter notre pays d'une défense à la fois " plus efficace, plus moderne et moins coûteuse ". Il a annoncé, à cette occasion, son intention de constituer un grand groupe aéronautique et spatial français, civil et militaire, capable de jouer un rôle moteur en Europe et de rivaliser avec la concurrence internationale, à partir des sociétés Aérospatiale et Dassault Aviation. Un comité de pilotage, comprenant les directions générales des deux entreprises, a pu mettre en évidence l'intérêt et la nécessité d'un rapprochement par fusion des deux sociétés, dont les modalités techniques, financières et industrielles devront être arrêtées avant le 1er janvier 1997. Les premières propositions, soumises au Gouvernement au début de l'été, sont actuellement en cours d'analyse. D'ores et déjà, plusieurs axes de rapprochement dans les domaines industriel et technologique ont été proposés. Ainsi, des centres de compétences communs permettront de regrouper certaines fonctions, notamment une partie significative des bureaux d'études et des services d'achat. Dans tous ces domaines, les synergies ainsi créées dégageront des économies d'échelle. De plus, la taille atteinte par le futur groupe favorisera une plus grande capacité d'investissement et le placera sur un pied d'égalité avec ses grands partenaires du secteur aéronautique et spatial en Europe. En tout état de cause, les solutions qui seront retenues s'attacheront à préserver la spécificité de culture et de compétences qui fait la force de chacune des deux entreprises.
