@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870405520
+
+- Question : [SEQ870405520](seq870405520.md) — Coût budgétaire en 1986 des "mises à disposition" et "décharges syndicales"
+
+## Réponse
+
+*Éducation, JO du 1987-06-25, page 1003*
+
+Réponse. -Le nombre des emplois occupés par des personnes mises à disposition d'associations périscolaires et de mutuelles était, à la rentrée 1986, de 1 753 dont 1 679 à plein temps. Ces 1 679 emplois ont fait l'objet d'une mesure de suppression inscrite au budget de 1987. L'aide apportée aux associations périscolaires sous cette forme est remplacée par une subvention calculée sur la base du coût budgétaire moyen des emplois, majorés de 60 p. 100 afin de tenir compte des charges sociales. Les décharges syndicales accordées en application du décret n° 82-447 du 28 mai 1982 relatif à l'exercice du droit syndical dans la fonction publique représentent, pour l'année scolaire en cours, l'équivalent de 1 595 emplois. Il n'est pas attribué par le ministère de l'éducation nationale de subvention à la Fédération de l'éducation nationale, ni aux organisations syndicales qui lui sont affiliées. S'agissant des organismes et associations périscolaires auprès desquels des agents de l'Etat servent en position de détachement, la prise en charge des rémunérations correspondantes est assurée par une subvention allouée à partir du chapitre 43-80 du budget du ministère de l'éducation nationale. La mesure devant s'appliquer à compter de la rentrée de 1987, un crédit de 73,1 millions de francs, correspondant au tiers de la dépense annuelle, a été inscrit au budget de 1987. Cette somme a été déterminée en prenant en compte le remboursement des charges salariales actuellement supportées par l'Etat pour les agents considérés, soit 57,16 millions de francs au titre des traitements et 14 millions de francs au titre des charges sociales connexes.
