@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000525275
+
+- Question : [SEQ000525275](seq000525275.md) — Régime fiscal des micro-entreprises
+
+## Réponse
+
+*Économie, JO du 2001-01-18, page 164*
+
+Réponse. - L'article 7 de la loi de finances pour 1999 a supprimé le régime d'imposition forfaitaire de TVA. Corrélativement les limites d'application de la franchise en base de TVA ont été relevées de 100 000 francs à 500 000 francs hors TVA pour les assujettis qui réalisent des livraisons de biens, des ventes à consommer sur place ou des prestations d'hébergement et à 175 000 francs hors TVA pour les assujettis qui réalisent d'autres prestations de services. La franchise en base de TVA dispense les redevables du paiement de la TVA sur le montant total de leurs opérations. En contrepartie, les bénéficiaires de cette franchise ne peuvent pas déduire la TVA qui leur est facturée. Il en résulte que ces personnes ne sont pas nécessairement dans une situation plus défavorable que les autres redevables lorsque les achats de fournitures sont faibles comparés au montant des travaux. En tuot état de cause, lorsque le régime n'est plus adapté à leur situation, les entreprises bénéficiant de la franchise de TVA peuvent opter à tout moment pour leur assujettissement à la taxe. Tel est le cas des entreprises du bâtiment qui souhaitent soumettre au taux réduit de la taxe sur la valeur ajoutée les travaux d'amélioration, de transformation, d'aménagement et d'entretien des locaux à usage d'habitation achevés depuis plus de deux ans en application de l'article 279-0 bis du code général des impôts. Ce dispositif allège donc de manière sensible les contraintes administratives des entreprises et notamment des plus jeunes d'entre elles tout en leur permettant, grâce à la souplesse de gestion qu'offre cette faculté d'option, de soumettre à la TVA les opérations qu'elles réalisent.
