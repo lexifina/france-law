@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030909131
+
+- Question : [SEQ030909131](seq030909131.md) — Situation des accueillants familiaux d'adultes handicapés
+
+## Réponse
+
+*Affaires sociales, JO du 2004-04-01, page 779*
+
+L'accueil familial de personnes âgées ou de personnes adultes handicapées est une forme alternative d'hébergement entre domicile et établissement qui permet aux personnes accueillies de bénéficier d'un environnement chaleureux et attentif à leurs besoins. Une réforme législative du 17 janvier 2002 a sensiblement amélioré les conditions d'agrément des accueillants familiaux et d'organisation de l'accueil familial. L'agrément délivré par le président du conseil général a maintenant un caractère national, les conditions d'instruction de la procédure d'agrément sont encadrées et les droits des accueillants familiaux mieux garantis ; la rémunération journalière versée aux accueillants familiaux doit donner lieu au versement de cotisations pour permettre la validation du droit à pension et, enfin, cette rémunération journalière doit être assortie d'une indemnité de congés payés calculée conformément aux dispositions de l'article L. 223-11 du code du travail. Si plusieurs dispositions législatives vont faire l'objet de mesures réglementaires, qui devraient être publiées prochainement après avoir été soumises à la concertation, la mise en application du 1° de l'article L. 442-1 du code de l'action sociale et des familles concernant l'indemnité de congé est entrée en vigueur avec la publication de la loi n° 2002-73 du 17 janvier 2002 qui, dans son article 51, a modifié les dispositions législatives relatives à l'accueil familial. Lors du vote de la loi, le Parlement n'a pas souhaité qualifier le contrat signé entre l'accueillant familial et la personne accueillie comme un contrat de travail et a donc refusé la possibilité de cotisation au régime d'assurance chômage.
