@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030608146
+
+- Question : [SEQ030608146](seq030608146.md) — Extraits d'acte de naissance
+
+## Réponse
+
+*Justice, JO du 2003-12-18, page 3654*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que le décret n° 2000-1277 du 26 décembre 2000, qui a supprimé tant la fiche individuelle d'état civil et de nationalité française que la fiche familiale d'état civil, a permis de simplifier les démarches des usagers qui se trouvent dispensés des formalités préalables à la délivrance d'une fiche d'état civil et d'un déplacement en mairie. La photocopie lisible d'une pièce d'état civil (notamment livret de famille, carte nationale d'identité ou passeport en cours de validité) permet désormais de faire la preuve de l'identité, de l'état civil, de la situation matrimoniale ou de la nationalité française de l'usager dans ses relations avec une administration ou un organisme contrôlé par l'Etat sans qu'il ait par ailleurs à produire une copie ou un extrait d'acte. Les conditions d'application du décret du 26 décembre 2000 précité sont précisées dans sa circulaire d'application du même jour. Ces dispositions peuvent être opposées par l'usager au service qui demande la production d'un extrait d'acte de naissance, sauf lorsque celle-ci est expressément requise par un texte. Néanmoins, soucieux de simplifier davantage encore les démarches des usagers, le Gouvernement envisage de modifier l'article 11-1 du décret n° 62-921 du 3 août 1962 afin de permettre au service en charge de l'instruction d'un dossier administratif de demander directement à l'officier de l'état civil compétent les copies intégrales et extraits d'acte de l'état civil lorsqu'il est fondé à les requérir des usagers en application des lois et règlements en vigueur.
