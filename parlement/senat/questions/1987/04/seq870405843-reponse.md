@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870405843
+
+- Question : [SEQ870405843](seq870405843.md) — Etudiants des DOM: bénéfice des vols verts sur Air France toute l'année
+
+## Réponse
+
+*Transports, JO du 1987-07-09, page 1095*
+
+Réponse. -Sur les liaisons qu'elle assure entre les Antilles-Guyane et la métropole, la compagnie nationale Air France a choisi d'offrir à sa clientèle une grille tarifaire simplifiée ne comportant que deux types de tarifs, un tarif pour les passagers voyageant en classe affaires, dite " alizé ", et un tarif pour tous les passagers voyageant en classe vacances quelle que soit leur qualité (étudiants, troisième âge, famille nombreuse). Ce dernier tarif est proposé à un niveau proche de la moitié du tarif affaires et modulé selon le sens du voyage en fonction du trafic. A des périodes de fort trafic correspondent les tarifs les plus élevés, aux périodes de plus faible trafic les tarifs les moins élevés de façon à inciter la clientèle à reporter son voyage sur une période moins chargée. Pour l'année 1987, les étudiants originaires des Antilles poursuivant leurs études en métropole peuvent rentrer en période orange du 13 au 26 juillet et du 7 au 13 août ou en période verte à partir du 14 août et revenir en métropole en période orange du 7 au 27 septembre ou en période verte à compter du 28 septembre, date compatible avec le calendrier universitaire. Pour la Guyane, la période orange se situe dans le sens métropole-Guyane du 13 juillet au 5 août suivie par une période verte du 6 au 26 août. Dans l'autre sens, en revanche, seuls sont possibles des voyages en période orange. La compagnie nationale Air France ne souhaite pas néanmoins, pour le moment, modifier ces tarifs qui ont été adoptés dans le cadre de la libéralisation progressive du transport aérien entre la métropole et les départements d'outre-mer, menée par le ministre délégué chargé des transports.
