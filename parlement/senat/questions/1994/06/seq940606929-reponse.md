@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940606929
+
+- Question : [SEQ940606929](seq940606929.md) — Régime fiscal des dons aux organismes à but non lucratif
+
+## Réponse
+
+*Budget, JO du 1994-11-24, page 2778*
+
+Réponse. - La législation française accorde aux personnes qui font des dons à des organismes d'intérêt général ou reconnus d'utilité publique un avantage fiscal important qui est largement sous employé. Actuellement, la limite de 5 p. 100 du revenu imposable applicable aux dons consentis à des organismes reconnus d'utilité publique n'est atteinte que par 1,8 p. 100 des donateurs imposables. Surtout, 60 p. 100 des foyers fiscaux imposables ayant un revenu net imposable supérieur à 200 000 francs ne font aucun don. S'il existe une réelle marge de manoeuvre pour un accroissement des dons, elle se situe incontestablement parmi ces contribuables qui ne répondent pas suffisamment aux appels de générosité malgré le niveau élevé de leurs revenus. C'est plutôt vers des campagnes de sensibilisation du public sur les mérites, l'efficacité de son action et la bonne utilisation des fonds recueillis que chaque organisme peut améliorer son financement par des dons. Pour leur part, les pouvoirs publics assurent une très large information sur les avantages fiscaux attachés aux dons, par les explications détaillées figurant dans les notices accompagnant l'envoi au domicile des contribuables des déclarations d'impôt sur le revenu et par la mise en place dans les lieux ouverts au public (centres des impôts, perceptions, mairies, bureaux de poste, etc.) de dépliants spécifiques. En outre, si le Gouvernement est favorable à une simplification du régime fiscal des dons, celle-ci ne peut être dissociée de la réforme en profondeur de l'impôt sur le revenu engagée l'an dernier, marquée par une baisse significative des taux d'imposition. Dans ce contexte, il ne serait pas logique de relever les taux des réductions d'impôt qui vont s'imputer sur un impôt lui-même en baisse.
