@@ -4,15 +4,15 @@ La présente convention règle les rapports entre les employeurs et les salarié
 
 2 octobre 1992 (1).
 
-60-2 A. - Transports urbains de voyageurs (partie).
-
-Sont pris en compte, dans cette classe, uniquement le ramassage scolaire ou le transport de personnel ainsi que les navettes d'aéroports.
-
 60-2 B. - Transports routiers réguliers de voyageurs.
 
 Cette classe comprend notamment :
 
 - le transport interurbain de voyageurs par autocars, sur des lignes et selon des horaires déterminés, même à caractère saisonnier.
+
+Cette classe comprend aussi :
+
+- le ramassage scolaire ou le transport de personnel.
 
 60-2 G. - Autres transports routiers de voyageurs.
 
@@ -91,6 +91,10 @@ Cette classe comprend notamment:
 - les activités postales autres que celles exercées par la " Poste " ;
 
 - l'acheminement du courrier (lettres et colis), généralement en express.
+
+Cette classe comprend aussi :
+
+- les activités des coursiers urbains et taxis marchandises.
 
 71-2 A. - Location d'autres matériels de transport terrestre (partie).
 

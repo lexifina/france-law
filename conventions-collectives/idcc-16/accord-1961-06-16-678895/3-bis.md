@@ -1,12 +1,12 @@
 # Article 3 bis
 
-Conformément aux dispositions de l'article 15 de la convention collective du 21 décembre 1950, l'embauchage difinitif doit être confirmé par une lettre ou un contrat d'embauchage avec référence à ladite convention collective nationale et à la présente convention nationale annexe.
+Conformément aux dispositions de l'article 11 de la convention collective du 21 décembre 1950, l'embauchage définitif doit être confirmé par une lettre ou un contrat d'embauchage avec référence à ladite convention collective nationale et à la présente convention nationale annexe.
 
 Cette lettre ou ce contrat précisera notamment :
 
-- le montant du salaire minimal garanti professionnel pour quarante heures de travail par semaine (ou une durée équivalente) ;
+- le montant du salaire minimal garanti professionnel pour 39 heures de travail par semaine (ou une durée équivalente) ;
 
-- le montant des divers éléments du salaire effectif pour quarante heures de travail par semaine (ou une durée équivalente) ou le montant du salaire forfaitaire ;
+- le montant des divers éléments du salaire effectif pour 39 heures de travail par semaine (ou une durée équivalente) ou le montant du salaire forfaitaire ;
 
 - s'il y a lieu, le montant des indemnités forfaitaires pour frais de déplacement ;
 
