@@ -1,7 +1,0 @@
-# Article Préambule
-
-En signant l'avenant n° 47 à la convention nationale de la coiffure et des professions connexes du 3 juillet 1980, relatif à l'aménagement et la réduction du temps de travail et à la prévoyance dans la coiffure et les professions connexes, les partenaires sociaux ont voulu créer une dynamique de progrès dans la profession de la coiffure, grâce à la réduction du temps de travail et à l'adoption d'un dispositif organisant la solidarité entre tous les salariés des salons de coiffure afin de permettre à chacun d'avoir accès à des soins de qualité, de bénéficier des actions de prévention, d'éducation à la santé et de favoriser le bien-être physique et moral des salariés de la profession et de leur famille, ce dispositif répondant aux exigences de la loi CMU.
-
-Les organisations signataires, dans le cadre de la création d'un régime complémentaire " frais de santé " des salariés de la coiffure en complément des dispositions adoptées par l'avenant n° 32 à la convention collective nationale de la coiffure du 3 juillet 1980 portant sur l'accord national des salariés de la coiffure et des professions connexes du 8 octobre 1993 décident et conviennent ce qui suit,
-
-étant précisé que la présente réécriture de l'annexe I de l'avenant n° 47 reprend le contenu des clauses d'origine, mais les réorganisent dans des articles numérotés différemment en intégrant les précisions apportées par le titre III de l'avenant n° 50 :
