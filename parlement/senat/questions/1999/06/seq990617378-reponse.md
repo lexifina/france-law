@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990617378
+
+- Question : [SEQ990617378](seq990617378.md) — Prérogatives des conservateurs régionaux de l'archéologie
+
+## Réponse
+
+*Culture, JO du 1999-10-28, page 3551*
+
+Réponse. - Les dispositions du décret nº 94-422 du 27 mai 1994 prises en application de la loi du 27 septembre 1941 énoncent que, sous réserve des articles 4 (décisions prises par le ministre chargé de la culture) et 5 (dispositions transitoires), le préfet de région ou, en Corse, le préfet de Corse se prononce sur les demandes d'autorisation de fouille, prévues à l'article 1er de cette même loi, il accueille l'avis de la commission interrégionale de la recherche archéologique ou, dans les départements d'outre-mer, celui du Conseil national de la recherche archéologique (art. 2). L'article 3 du décret précité indique que le préfet de région ou, en Corse, le préfet de Corse, délivre les autorisations de sondage limitées à un 8ois. Il autorise les fouilles de sauvetage urgentes et les prospections systématiques ne comportant ni fouilles ni sondages. C'est ce texte qui fonde les prérogatives des conservateurs régionaux de l'archéologie. Les conservateurs régionaux n'agissant que dans le cadre et selon les procédures définies par les délégations de signature qui leur ont été consenties par le représentant de l'Etat dans la région. Il convient par ailleurs de souligner qu'il existe pas de réglementation particulière aux archéologues bénévoles. Ceux-ci sont soumis aux procédures de droit commun. Quant aux fonctions de correspondant du service archéologue, le recours à des compétences extérieures apparaît à certains égards préférable à l'édiction de réglementations complexes et difficilement applicables sans un important effectif d'agents publics. Dans le cadre des études et réflexions menées à l'occasion de la réforme de l'archéologie preventive engagée par le Gouvernement, cette piste devra faire l'objet d'une expertise approfondie.
