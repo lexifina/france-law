@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981112263
+
+- Question : [SEQ981112263](seq981112263.md) — Personnels de la douane
+
+## Réponse
+
+*Économie, JO du 1999-03-04, page 685*
+
+Réponse. - La réduction d'emplois enregistrée depuis 1993 par la Direction générale des douanes et droits indirects (DGDDI) s'explique par les gains de productivité générés par l'ouverture du grand marché intérieur, la réorganisation du ministère de l'économie et des finances, l'élargissement de l'Union européenne et la simplification de certaines formalités. Cette réduction n'a pas remis en cause les missions de la douane qui, comme les autres administrations financières, sont conduites dans le cadre d'un effort de modernisation. En 1999, la réduction d'effectifs est de 0,4 %. Parallèlement, la loi de finances prévoit une augmentation importante des crédits de fonctionnement et d'investissement de la douane qui devrait permettre d'entreprendre différentes actions en vue notamment d'améliorer les conditions de travail des agents et de renouveler les moyens des services de la surveillance. La DGDDI adapte son dispositif à un environnement en mutation. A ce titre, dans le cadre né de la convention de Schengen, elle inscrit son action dans une collaboration renforcée avec la police, la gendarmerie et les autorités des Etats limitrophes. Sous réserve de ratification par le Parlement des conventions signées avec l'Allemagne, l'Italie, l'Espagne et la Suisse qui, bien que n'étant pas partie à la convention de Schengen, souhaite développer sa coopération avec les autorités françaises, des centres de coopération policière et douanière (CCPD) devraient être ainsi prochainement mis en place. Enfin, la douane développe de nouvelles méthodes de travail qui concilient ses missions de service public avec les exigences des opérateurs du commerce extérieur. La mise en uvre des techniques d'audit et des procédures de dédouanement à domicile en constitue le meilleur exemple.
