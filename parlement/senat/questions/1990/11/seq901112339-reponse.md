@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901112339
+
+- Question : [SEQ901112339](seq901112339.md) — Réinsertion en Métropole de Français rapatriés du Liberia et du Rwanda (Afrique)
+
+## Réponse
+
+*Affaires étrangères, JO du 1991-01-24, page 151*
+
+Réponse. - Le Gouvernement a décidé de mettre en oeuvre un dispositif tout à fait exceptionnel d'aide à nos compatriotes qui avaient été retenus arbitrairement au Koweit et en Irak et qui, du fait de l'épreuve traversée, devaient bénéficier pleinement et sans délai, de la solidarité nationale. Nos compatriotes de retour du Libéria et du Rwanda ne se sont pas trouvés dans une situation comparable. On relève à cet égard que, sur les quelque 300 personnes qui avaient été évacuées du Rwanda, près de 180 ont d'ores et déjà regagné ce pays et les retours continuent sur un rythme régulier. S'agisssant du Libéria, où la communauté française était limitée numériquement, ce ministère n'a pas été saisi de cas sociaux douloureux, et il semble que la quasi-totalité des personnes concernées se soient réinsérées dans la société française. En tout état de cause, nos compatriotes, de retour du Libéria et du Rwanda, ont pu, pour les situations les plus difficiles, bénéficier du revenu minimum d'insertion et des différentes prestations d'aide sociale prévues par la législation. En ce qui concerne l'adoption d'une législation spécifique en faveur des Français quittant un pays en état de crise, qui leur permettrait de bénéficier sans attendre d'aides facilitant leur réinsertion en métropole, cette question requiert une étroite concertation entre les différents départements ministériels intéressés et les représentants élus des Français de l'étranger. A cet égard, la proposition de loi déposée par les sénateurs représentant les Français de l'étranger est actuellement à l'étude dans les services compétents.
