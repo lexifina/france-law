@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990717741
+
+- Question : [SEQ990717741](seq990717741.md) — Fonction publique territoriale : exclusion temporaire de fonctions
+
+## Réponse
+
+*Fonction publique, JO du 1999-10-07, page 3313*
+
+Réponse. - Aux termes de l'article 2 du décret nº 92-1194 du 4 novembre 1992 fixant les dispositions communes applicables aux fonctionnaires stagiaires de la fonction publique territoriale, les fonctionnaires territoriaux stagiaires sont soumis aux dispositions des lois nº 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires et nº 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale et des décrets pris pour leur application, dans la mesure où elles sont compatibles avec leur situation particulière et dans les conditions prévues par le décret nº 92-1194 du 4 novembre 1992 précité. Les fonctionnaires stagiaires sont soumis à la discipline comme les titulaires, mais le décret du 4 novembre 1992 spécifie les sanctions qui sont susceptibles de s'appliquer à eux, eu égard à leur situation. Bien que les sanctions disciplinaires énumérées par ce décret ne soient pas expressément classées dans un groupe comme le sont celles énumérées par l'article 89 de la loi du 26 janvier 1984, elles correspondent néanmoins sans ambiguïté à des sanctions du premier groupe (avertissement, blâme, exclusion temporaire pour une durée de quatre à quinze jours) et du quatrième groupe (exclusion définitive du service). En conséquence, pour ces sanctions, sont applicables les dispositions en matière de sursis et d'effacement du dossier du fonctionnaire prévues par l'article 89 de la loi du 26 janvier 1984 et l'article 31 du décret nº 89-677 du 18 septembre 1989 relatif à la procédure disciplinaire applicable aux fonctionnaires territoriaux.
