@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880209540
+
+- Question : [SEQ880209540](seq880209540.md) — Chartes intercommunales : précision des types de projets et de programmes passés avec l'Etat
+
+## Réponse
+
+*Collectivités locales, JO du 1988-03-31, page 436*
+
+Comme le rappelle l'honorable parlementaire le dernier alinéa de l'article 29 de la loi du 7 janvier 1983 relative à la répartition de compétence entre les communes, les départements, les régions et l'Etat, prévoit que les chartes intercommunales peuvent servir de base à des conventions avec le département, la région ou l'Etat pour la réalisation des projets et programmes qu'elles ont définis. Ce même article dispose que l'élaboration des chartes relève de la seule compétence des communes qui décident librement de s'unir pour définir les conditions de leur aménagement et de leurs perspectives de développement. Si le cadre général de cette nouvelle structure de coopération intercommunale a été défini par la loi, complétée par le décret du 26 juin 1984, le législateur a confirmé leur nature purement contractuelle et décentralisée en ne leur imposant aucune forme juridique pour leur fonctionnement. Les communes associées seront donc libres de déterminer elles-mêmes les projets et programmes susceptibles de faire l'objet d'une convention avec un partenaire public ou privé. Dans l'hypothèse où les communes associées souhaiteraient conclure une convention avec l'Etat il leur appartiendra de négocier cet accord avec le représentant de l'Etat dans le département. Cette concertation permettra aux deux parties, chacune dans leur domaine de compétence propre, de fixer les conditions selon lesquelles elles peuvent parvenir à un objectif commun. Les conventions ainsi conclues définiront le projet sur lequel l'accord s'est réalisé ainsi que les moyens que les deux parties s'engagent à y consacrer.
