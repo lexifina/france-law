@@ -8,7 +8,7 @@ II. – Les impositions visées au I sont établies et perçues dans les conditi
 
 2° En ce qui concerne la taxe professionnelle :
 
-a) La base d'imposition est établie conformément au I de l'article 1447 (1), au 1° de l'article 1467, à l'article 1467 A, aux 1°, 2° et 3 de l'article 1469, à l'article 1472 A bis, au I de l'article 1478 et à l'article 1647 B sexies.
+a) La base d'imposition est établie conformément au I de l'article 1447, au 1° de l'article 1467, à l'article 1467 A, aux 1°, 2° et 3 de l'article 1469, à l'article 1472 A bis, au I de l'article 1478 et à l'article 1647 B sexies.
 
 Au titre de 1999, la base d'imposition est réduite de 25 % du montant qui excède la base de l'année précédente multipliée par la variation des prix à la consommation constatée par l'Institut national de la statistique et des études économiques pour l'année de référence définie à l'article 1467 A ;
 
@@ -28,8 +28,6 @@ A compter de 1999, la valeur ajoutée retenue pour l'application de l'article 16
 
 Pour les années suivantes, le produit ainsi utilisé évolue en fonction de l'indice de variation du prix de la consommation des ménages tel qu'il ressort des hypothèses économiques associées au projet de loi de finances. Lorsque le produit des impositions visées au I est supérieur au montant ainsi obtenu, la différence est versée au Fonds national de péréquation de la taxe professionnelle visé à l'article 1648 A bis ;
 
-La fraction du produit des impositions visées au I afférente aux taxes mentionnées aux articles 1520 et 1528 est répartie, selon des critères fixés par le comité des finances locales, entre les communes qui ont institué ces taxes et sur le territoire desquelles sont implantés des établissements de La Poste et de France Télécom ;
+La fraction du produit des impositions visées au I afférente aux taxes mentionnées aux articles 1520 et 1528 est répartie, selon des critères fixés par le comité des finances locales, entre les communes ou leurs établissements publics de coopération intercommunale qui ont institué ces taxes et sur le territoire desquels sont implantés des établissements de La Poste et de France Télécom ;
 
 Un décret en Conseil d'Etat fixe, en tant que de besoin, les conditions d'application du présent article, après consultation du comité des finances locales.
-
-(1) dispositions applicables pour les impositions établies au titre de l'an 2000 et des années suivantes.
