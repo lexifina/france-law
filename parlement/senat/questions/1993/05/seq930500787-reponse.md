@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930500787
+
+- Question : [SEQ930500787](seq930500787.md) — Inflation contentieuse et manque d'effectifs de la juridiction administrative
+
+## Réponse
+
+*Justice, JO du 1994-04-07, page 809*
+
+Réponse. - La justice administrative souffre d'un encombrement important : 184 000 litiges restaient en attente de jugement au 31 décembre 1993. En dépit de cette apparence, il ressort avec évidence que le mouvement initié par la loi du 31 décembre 1987 constitue une réforme en profondeur dont les effets devraient se confirmer dans les prochaines années. La décennie 1980 a été pour la juridiction administrative une période difficile : stock d'affaires en instance en constante augmentation, effectifs de magistrats et d'agents des greffes en stagnation, moyens financiers relativement réduits. Un important effort a été entrepris depuis 1989 que masque l'accélération considérable des flux du contentieux (p 61 p. 100 de 1987 à 1993). Ainsi, le nombre annuel d'affaires définitivement jugées par magistrat est passé de 154 en 1987 à 220 en 1993, soit une augmentation de près de 43 p. 100. Près de 95 000 litiges ont ainsi été jugés en 1993 contre 53 000 en 1987. Le délai moyen de jugement d'une requête est devenu inférieur à deux ans, en diminution de près de huit mois en quatre ans. De leur côté, les cours administratives d'appel ont jugé plus de 7 500 affaires en 1993, en augmentation de 9 p. 100 par rapport à 1992. Ainsi, d'une façon générale, il est possible d'affirmer que la situation de la juridiction administrative s'est stabilisée en 1993, malgré la progression de 5 à 6 p. 100 du contentieux. Cependant des moyens supplémentaires en personnel devraient être octroyés à la juridiction administrative pour lui permettre de faire face aux flux continus des requêtes et résorber les stocks existants. Ces moyens seront sollicités dans le cadre de la loi d'orientation quinquennale pour la justice.
