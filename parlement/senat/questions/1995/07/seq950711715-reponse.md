@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950711715
+
+- Question : [SEQ950711715](seq950711715.md) — Indemnisation des victimes des déportations de la Seconde Guerre mondiale
+
+## Réponse
+
+*Anciens combattants, JO du 1996-05-23, page 1258*
+
+Réponse. - A la cérémonie commémorant le 53e anniversaire de la rafle du vélodrome d'Hiver le 16 juillet 1995, M. le Président de la République a reconnu la responsabilité de l'Etat français dans la déportation des juifs de France. En l'état actuel de la législation, les personnes déportées, victimes des persécutions antisémites issues de la législation d'exception de Vichy peuvent bénéficier, si elles avaient la nationalité française au moment des faits dommageables, du statut de déporté politique ainsi que du droit à réparation prévu par le code des pensions militaires d'invalidité et des victimes de guerre. Les victimes de ces persécutions, si elles étaient de nationalité étrangère à l'époque, ne peuvent, quant à elles, se voir attribuer une pension servie au titre du code mais peuvent obtenir le titre de déporté politique en réparation morale du préjudice subi (loi du 17 janvier 1986 et décret du 27 avril 1987). Le ministre délégué aux anciens combattants et victimes de guerre tient à souligner que la déclaration de M. le Président de la République, le 16 juillet 1995, à laquelle se réfère à juste titre l'honorable parlementaire, permet de restituer cette page douloureuse de notre histoire dans sa tragique réalité. Elle satisfait ainsi à l'ardente obligation du devoir de mémoire surtout au moment où certains croient devoir se livrer, sous couvert de " révisionnaire historique ", à une inadmissible falsification de l'histoire. Le coût de l'ouverture d'un droit à pension aux étrangers déportés à partir du territoire français fait actuellement l'objet d'une étude.
