@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980910578
+
+- Question : [SEQ980910578](seq980910578.md) — Normes de sécurité incendie dans l'hôtellerie et les résidences de tourisme
+
+## Réponse
+
+*Tourisme, JO du 1999-01-14, page 134*
+
+Réponse. - Les résidences de tourisme sont soumises, dans le cadre de leur activité, à des règles de sécurité particulières et très différentes de celles auxquelles est soumise l'hôtellerie dans le domaine de la prévention des risques d'incendie. Il convient de rappeler que les résidences de tourisme sont des bâtiments d'habitation destinés à la location meublée. Plus de 60 % des logements sont soumis au régime de la copropriété et, à l'issue d'un bail de neuf ans qui lie le copropriétaire à l'exploitant, la destination des logements et des bâtiments peut se modifier, certains appartements de la résidence de tourisme passant alors à une gestion privative. Aujourd'hui, les permis de construire des résidences de tourisme sont instruits sous le régime de l'habitat à gestion collective pour la partie qui concerne les logements stricto sensu. Par contre, les parties collectives relèvent de la réglementation sur les établissements recevant du public (ERP). C'est au vu du respect de cette réglementation, après avis des commissions départementales d'aménagement touristique, que les préfets peuvent autoriser le classement des résidences. Quant à eux, les hôtels sont soumis dans leur intégralité à la réglementation des ERP. Aussi, le ministre de l'intérieur et le ministre de l'équipement ont été saisis par la secrétaire d'Etat au tourisme des préoccupations de l'honorable parlementaire en termes de sécurité des personnes et ce type d'habitat fait l'objet d'un examen attentif de la part des ministères concernés afin de vérifier si les normes de construction sont réellement adaptées pour ce type d'activité.
