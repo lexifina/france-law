@@ -264,11 +264,11 @@ Décret n° 93-124 du 29 janvier 1993 modifié relatif aux biens culturels soumi
 
 |
 
-Délivrance du certificat d'exportation prévu à l'article 5 de la loi n° 92-1477 du 31 décembre 1992 relative aux produits soumis à certaines restrictions et à la complémentarité entre les services de police, de gendarmerie et de douane.
+Délivrance, refus de délivrance ou prorogation de validité du certificat autorisant la sortie du territoire douanier d'un bien culturel.
 
 |
 
-2e alinéa de l'article 2.
+Premier alinéa de l'article 2-1, premier alinéa de l'article 4-1 et premier alinéa de l'article 9.
 
 |
 
@@ -276,11 +276,59 @@ Délivrance du certificat d'exportation prévu à l'article 5 de la loi n° 92-1
 
 |
 
-Autorisation de sortie temporaire de biens culturels.
+Décision de présenter une offre d'achat d'un trésor national ou de renoncer à l'acquérir.
+
+|
+
+Premier alinéa de l'article 9-1 et article 9-5.
+
+|
+
+3
+
+|
+
+Désignation d'un expert chargé d'estimer la valeur d'un trésor national.
+
+|
+
+Premier alinéa de l'article 9-2 et premier alinéa de l'article 9-4.
+
+|
+
+4
+
+|
+
+Décisions relatives à la procédure d'estimation et d'acquisition de trésors nationaux prises pour le compte d'un autre ministre ou d'une personne publique autre que l'Etat.
+
+|
+
+Premier alinéa de l'article 9-7.
+
+|
+
+5
+
+|
+
+Délivrance et refus de l'autorisation de sortie temporaire d'un bien culturel.
 
 |
 
 Article 10.
+
+|
+
+6
+
+|
+
+Délivrance et refus de l'autorisation de sortie temporaire d'un trésor national.
+
+|
+
+Article 10-1.
 
 |
 
