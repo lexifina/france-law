@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040110471
+
+- Question : [SEQ040110471](seq040110471.md) — Temps partiel dans l'enseignement du premier degré
+
+## Réponse
+
+*Jeunesse, JO du 2004-02-26, page 479*
+
+La loi n° 2003-775 du 21 août 2003 portant réforme des retraites a notamment modifié dans son article 70 l'article 37 bis de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'État en ajoutant au mi-temps de droit pour raisons familiales des quotités alternatives. Ainsi, le décret n° 2003-1307 du 26 décembre 2003 pris pour l'application de cette loi et relatif aux modalités de mise en oeuvre du temps partiel et à la cessation progressive d'activité, publié au Journal officiel du 30 décembre dernier, ouvre désormais la possibilité, s'agissant du temps partiel de droit pour raisons familiales, à tous les personnels d'accomplir un service dont la durée est égale à 50 %, 60 %, 70 % ou 80 % de la durée hebdomadaire du service que les agents à temps plein exerçant les mêmes fonctions doivent effectuer. En outre, s'agissant du temps partiel sur autorisation pour lequel la seule quotité de temps partiel admise, pour les personnels enseignants exerçant dans les écoles du premier degré, est le strict mi-temps, la réflexion sur les conditions dans lesquelles ces personnels pourraient bénéficier d'une autre quotité possible fait l'objet d'un groupe de travail dans le cadre des tables rondes sur les métiers de l'éducation nationale, réunissant l'administration et les organisations syndicales. Cette réflexion, engagée depuis le mois de novembre dernier, va être approfondie dans les semaines à venir, de façon à apprécier plus globalement les conséquences sur l'organisation du travail dans les écoles et les modalités éventuelles de mise en oeuvre.
