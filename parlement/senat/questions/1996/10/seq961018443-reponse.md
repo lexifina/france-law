@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961018443
+
+- Question : [SEQ961018443](seq961018443.md) — Centre de formation de pilotes de ligne de Montpellier
+
+## Réponse
+
+*Équipement, JO du 1996-12-19, page 3422*
+
+Réponse. - Le centre de Montpellier, qui comporte 95 agents, consacre la plupart de son activité à la formation d'élèves pilotes de ligne (EPL). La filière de recrutement des élèves pilotes de ligne rencontre actuellement des difficultés ; de plus, l'existence sur le site d'une école privée (ESMA), filiale à 100 % d'Air Littoral, obligent à reconsidérer la mission du SEFA. Un rapport d'audit du Service d'exploitation de la formation aéronautique a donc été récemment réalisé par l'Inspection générale de l'aviation civile et de la météorologie. Des propositions de modernisation y figurent, permettant d'éviter de modifier brutalement les structures, en les adaptatant progressivement sur cinq ans. Entre autres, ce rapport formule la nécessité d'adapter les structures existantes à l'évolution européenne dans la formation des pilotes, de renforcer la fonction de contrôle technique, et d'adapter l'organisation, les infrastructures et les moyens du SEFA aux types et volumes d'activité prévus pour les cinq ans à venir. Aucune décision de mise en oeuvre des recommandations préconisées dans ce rapport d'audit n'est prise pour l'instant. Toute évolution dans ce domaine nécessitera, après une phase d'analyse fine, l'élaboration d'un projet de service cohérent et raisonnable. Les premières actions concrètes pouvant en découler ne sauraient concerner le centre de Montpellier avant environ deux ans. Bien entendu, avant toute décision éventuelle de redéploiement en direction d'un centre, l'ensemble des solutions sera envisagé, en attachant, parmi les éléments à considérer, l'importance qu'il convient à la possibilité d'une contribution locale en matière, notamment, de financement.
