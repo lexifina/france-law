@@ -1,6 +1,6 @@
 # Article 164 F nonies
 
-Les dispositions des articles 368 A à 368 C de l'annexe II au code général des impôts sont applicables aux produits suivants :
+Les dispositions des articles 369 à 369 B de l'annexe II au code général des impôts sont applicables aux produits suivants :
 
 1o Légumes à l'état frais.
 

@@ -1,6 +1,6 @@
 # Article 159 quinquies
 
-I. La contribution des assurés prévue à l'article 305 AA-3o de l'annexe I au code général des impôts est recouvrée et reversée suivant les modalités applicables en matière de taxe unique sur les conventions d'assurances.
+I. La contribution des assurés prévue à l'article 322 de l'annexe II au code général des impôts est recouvrée et reversée suivant les modalités applicables en matière de taxe unique sur les conventions d'assurances.
 
 Elle fait l'objet de versements distincts à l'appui desquels il est déposé :
 
@@ -10,7 +10,7 @@ Elle fait l'objet de versements distincts à l'appui desquels il est déposé :
 
 Les états et déclaration prévus aux deux précédents alinéas sont établis sur des formules imprimées mises à la disposition des assujettis par le service des impôts.
 
-II. Le montant de la contribution prévue à l'article 305 AF de l'annexe I au code général des impôts est fixé comme suit :
+II. Le montant de la contribution prévue à l'article 322 E de l'annexe II au code général des impôts est fixé comme suit :
 
 1o Véhicules terrestres à moteur pour lesquels aux termes de l'article R. 211-7 du code des assurances l'assurance doit être souscrite sans limitation de somme :
 
