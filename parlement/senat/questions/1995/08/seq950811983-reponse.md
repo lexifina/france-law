@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950811983
+
+- Question : [SEQ950811983](seq950811983.md) — Moyens des tribunaux de commerce
+
+## Réponse
+
+*Justice, JO du 1995-11-16, page 2172*
+
+Réponse. - La chancellerie veille attentivement à ce que les juridictions commerciales disposent des moyens que requiert leur bon fonctionnement. Le budget voté pour 1995 consacre ainsi 41 457 548 francs au titre du fonctionnement des tribunaux de commerce. Par ailleurs, le récent décret no 95-859 du 27 juillet 1995 a eu pour objet de doter les tribunaux de commerce des effectifs suffisants, afin de leur permettre d'assurer l'écoulement normal des affaires dont le nombre s'est parfois considérablement accru au cours de ces dernières années. 22 nouveaux postes de juge consulaire, de même que 4 chambres supplémentaires, ont ainsi été créés cette année, et localisés au sein des tribunaux de commerce dont les chiffres d'activité justifiaient que des adaptations soient réalisées en ce sens. Il a également été tenu compte, pour chaque tribunal de commerce concerné, de l'effort déployé pour mettre en oeuvre une politique de prévention des difficultés des entreprises. Enfin, par un décret n° 95-832 du 5 juillet 1995 modifiant le code de l'organisation judiciaire et relatif aux greffiers des tribunaux de commerce, le ministère de la justice, en étroite concertation avec les représentants de la conférence générale des tribunaux de commerce et du Conseil national des greffiers des tribunaux de commerce, a affirmé le principe de l'assistance à laquelle est tenu le greffier du tribunal de commerce envers le président dans l'accomplissement des tâches administratives essentielles au bon fonctionnement de la juridiction. Cette disposition doit contribuer à renforcer les rapports que la loi institue entre les juges élus et leur principal collaborateur au sein de la juridiction, et ainsi à améliorer le fonctionnement de l'institution consulaire.
