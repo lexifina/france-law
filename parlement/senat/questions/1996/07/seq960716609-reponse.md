@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960716609
+
+- Question : [SEQ960716609](seq960716609.md) — Représentation des organisations d'employeurs dans les négociations paritaires européennes
+
+## Réponse
+
+*Premier ministre, JO du 1996-10-03, page 2552*
+
+Réponse. - L'organisation du dialogue social européen est mise en oeuvre selon les articles 3 et 4 de l'accord social annexé au traité de Maastricht. Dans ce cadre, la commission définit un double mécanisme de saisine des partenaires sociaux : une procédure de consultation sur l'opportunité et le contenu d'une initiative communautaire et une procédure de négociation, que les partenaires sociaux peuvent librement décider d'engager, sous l'égide de la commission. Les PME et l'artisanat sont associés à la procédure de consultation à travers l'UEAPME. La France a beaucoup oeuvré pour obtenir cette participation. S'agissant de la négociation proprement dite, ni la France ni un autre Etat membre ne peut intervenir pour décider de la participation de telle organisation de partenaires sociaux, ceci au nom du respect de l'autonomie de ces derniers, car la conclusion d'un accord relève de la liberté conventionnelle. Dans cette phase, les partenaires sociaux sont en effet ceux qui acceptent de négocier les uns avec les autres. Néanmoins, le rôle déterminant des PME et de l'artisanat, notamment en matière de lutte contre le chômage, a été souligné à maintes reprises par les chefs d'Etats et de gouvernement, et dernièrement lors des Conseils européens de Cannes et de Florence. Le Gouvernement français, en particulier, a toujours veillé à ce que la place essentielle des PME et de l'artisanat soit pleinement reconnue, et il insistera sur ce point dans le cadre de l'examen de la communication de la commission sur " l'avenir du dialogue social " qui est attendu cet automne.
