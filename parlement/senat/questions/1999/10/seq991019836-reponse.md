@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991019836
+
+- Question : [SEQ991019836](seq991019836.md) — Schémas régionaux d'organisation sanitaire et plan d'économie de la CNAMTS
+
+## Réponse
+
+*Emploi, JO du 2001-07-26, page 2459*
+
+L'adoption de la loi de financement de la sécurité sociale permet depuis cinq années un débat national sur les orientations du système de santé et les priorités auxquelles il doit répondre. En effet, le dépôt au Parlement du projet de loi de financement de la sécurité sociale est accompagné du rapport sur les orientations de la politique de santé et de sécurité sociale. Au niveau régional, l'élaboration du schéma régional d'organisation sanitaire (SROS) fait également l'objet d'un débat au sein du comité régional d'organisation sanitaire qui formule un avis avant que le directeur de l'agence régionale de l'hospitalisation ne l'arrête. Les schémas visent à concilier sécurité, qualité et proximité. Ils déterminent notamment la répartition géographique des installations et activités de soins qui permet d'assurer une satisfaction optimale des besoins de la population. Une annexe au schéma détermine, compte tenu de la nature et de l'importance de l'offre de soins, les créations, les regroupements, les transformations ou suppressions des installations et unités qui seraient nécessaires à sa réalisation. L'Etat accompagne la recomposition du tissu hospitalier par l'attribution de subventions, au titre du fonds d'investissement pour la modernisation des hôpitaux, dont les crédits représentent en 2001 500 MF. Le fonds de modernisation des établissements de santé, qui remplace le fonds d'accompagnement social pour la modernisation des établissements de santé, s'élèvera quant à lui à un milliard de francs en 2001. Enfin, le taux d'évolution des dépenses des établissements sous dotation globale atteindra 3,3 % en 2001, en nette progression par rapport au taux pour 2000.
