@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930601555
+
+- Question : [SEQ930601555](seq930601555.md) — Réglementation des visas dans les départements français d'Amérique
+
+## Réponse
+
+*Affaires étrangères, JO du 1993-11-04, page 2076*
+
+Réponse. - Le régime de circulation transfrontière applicable aux étrangers se rendant dans les départements français d'Amérique est celui des visas, après consultation des préfets. Ce régime correspond à une double préoccupation de sécurité et de maîtrise des flux migratoires. Toutefois, pour tenir compte du nécessaire développement et renforcement des échanges culturels, économiques et commerciaux au sein de la Caraïbe, notamment avec les pays membres de l'Organisation des Etats de la Caraïbe Sud, ce régime a reçu plusieurs assouplissements successifs. Dès 1988 a été mise en place une procédure allégée de délivrance de visas de court séjour pour certains ressortissants (hommes d'affaires, personnalités, fonctionnaires) des pays suivants : Sainte-Lucie, Antigua et Barbuda, la Dominique, Grenade, Saint-Christophe et Nièves, Saint-Vincent. Dans certains cas, la consultation des préfets n'est plus nécessaire, permettant une délivrance immédiate. En 1991, de nouvelles facilités ont permis une délivrance directe aux personnalités figurant sur des listes dressées par les postes diplomatiques et consulaires. Une utilisation accrue des visas dits de circulation a également été encouragée pour les personnalités locales. Ces différentes mesures ont largement répondu à leur objectif. Malgré le souhait de les élargir, il n'a pas été possible d'aller plus loin en raison de l'attrait exercé, dans le cadre régional, par les départements français d'Amérique et de l'exigence d'un contrôle strict des flux migratoires. Dans l'immédiat, il n'est pas envisagé de modifier les règles relatives à la circulation des personnes entre les différents territoires, dans le cadre d'un accord avec les pays de l'OECS.
