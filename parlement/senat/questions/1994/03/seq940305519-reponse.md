@@ -1,0 +1,11 @@
+# Réponse à la question SEQ940305519
+
+- Question : [SEQ940305519](seq940305519.md) — Géomètres-experts urbanistes et aménageurs
+
+## Réponse
+
+*Intérieur, JO du 1994-08-25, page 2083*
+
+Réponse. - Les collectivités locales sont autorisées par la loi à faire appel aux services techniques de l'Etat, en particulier les directions départementales de l'équipement et les directions départementales de l'agriculture et de la forêt, pour l'exécution de missions de maîtrise d'oeuvre, de conduites d'opération et plus généralement pour leurs besoins d'aide technique à la gestion communale, de conseils et d'assistance. L'intervention de ces administrations est prévue par les lois du 29 septembre 1948 et du 26 juillet 1955 et présente un véritable caractère de service public, notamment pour les communes rurales, dont les projets sont de faible taille et intéressent modérément le secteur privé. Toute remise en cause de ce dispositif irait à l'encontre de la politique d'aménagement du territoire voulue par le Gouvernement. Cette possibilité de recours aux services de l'Etat a été réaffirmée à l'article 12 de la loi du 7 janvier 1983 relative à la répartition des compétences entre les communes, les départements, les régions et l'Etat. S'agissant plus particulièrement des directions départementales de l'équipement et de leurs 1 300 subdivisions territoriales, leur rôle de conseil aux collectivités en matière de conception et de réalisation des réseaux publics a été confirmé lors de l'élaboration de la loi du 2 décembre 1992 portant sortie de l'article 30 de la loi du 2 mars 1982. Toutefois, les interventions des services techniques de l'Etat faites en application des lois susmentionnées ne peuvent être réalisées qu'après autorisation préfectorale, laquelle ne peut être délivrée que sous réserve de vérification que ces interventions ne sont pas de nature à concurrencer, de façon abusive, l'activité normale de techniciens privés. En matière de fiscalité, les prestations ainsi fournies par les services de l'Etat ne sont pas dispensées de la taxe sur la valeur ajoutée (TVA) ou de la taxe sur les salaires. Enfin, le cadre dans lequ
+
+el s'exercent ces interventions est tel que les rémunérations des agents de l'Etat sont sans lien direct avec les prestations que les services techniques auxquels ils appartiennent fournissent aux collectivités locales.
