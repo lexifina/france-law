@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860500757
+
+- Question : [SEQ860500757](seq860500757.md) — Réglementation des locations de locaux à usage commercial
+
+## Réponse
+
+*Commerce et artisanat, JO du 1986-08-07, page 1124*
+
+Réponse. -Le régime des baux commerciaux présente un caractère spécifique car s'y rattache la notion de propriété commerciale, avec la protection légale que le législateur a entendu accorder à cette notion qui constitue le cadre juridique d'exercice de l'activité professionnelle des commerçants et artisans. C'est la raison pour laquelle la législation relative aux baux commerciaux doit rechercher et maintenir un équilibre entre les intérêts respectifs, tout aussi légitimes, mais souvent divergents, voire contradictoires, des parties en présence : le droit pour le propriétaire foncier de gérer son bien et d'en tirer un revenu équitable, et la nécessité, pour le commerçant propriétaire du fonds, de bénéficier d'une stabilité suffisante dans la jouissance des lieux pour exercer et développer son activité. L'équilibre réalisé par ces dispositions donne généralement satisfaction aux intéressés et, bien évidemment, il ne saurait être envisagé, chaque fois que s'y heurterait un intérêt particulier, fût-il commun aux diverses parties à un contrat, d'aménager les dispositions de la loi qui a été édictée en vue de l'intérêt général. S'agissant du prix du loyer du bail, celui-ci est librement fixé par les parties lors de la conclusion du bail des lieux loués, mais les conditions dans lesquelles il peut ensuite évoluer lors des révisions et du renouvellement du bail sont déterminées par les articles 23 et suivants du décret n° 53-960 du 30 septembre 1953. Enfin, il est rappelé à l'honorable parlementaire que la loi pose le principe que le loyer doit toujours correspondre à la valeur locative.
