@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890605312
+
+- Question : [SEQ890605312](seq890605312.md) — Maintien des bureaux de poste en zones rurales
+
+## Réponse
+
+*Postes, JO du 1989-09-14, page 1502*
+
+Réponse. - Les habitants des zones rurales sont desservis par un réseau d'accueil comprenant plus de 13 000 bureaux et un réseau de contact représenté par plus de 37 000 facteurs qui desservent chaque jour l'ensemble des communes. Du fait des mouvements migratoires et de l'introduction d'organisations nouvelles, une disparité de plus en plus prononcée est apparue dans de nombreuses communes entre les potentialités des bureaux existants et leur niveau réel d'activité. Sur un plan général, le maintien de la présence postale en zone rurale demeure l'un des objectifs prioritaires de la poste, mais dans un souci de saine gestion des moyens mis à sa disposition, elle est conduite à ajuster la forme que revêt cette présence à l'évolution du trafic postal et financier. La poste est d'ailleurs en contact avec l'association des maires de France et la délégation à l'aménagement du territoire et à l'action régionale, afin d'étudier les moyens de réactiver, quand c'est possible, les petits établissements postaux. Dans le département des Vosges, la seule suppression d'établissement postal depuis plusieurs années a été celle de l'agence postale de Martinvelle, en mars 1989, dont le trafic malgré plusieurs tentatives de réactivation était très faible. Cependant, l'activité postale du département n'est nullement compromise puisque deux établissements ont été créés en 1988 : la recette rurale de Chavelot et l'agence postale de Dogneville. En 1989, les recettes rurales de Deyvillers et de Dommartin-lès-Remiremont ont été transformées en recettes de 4e classe et il est prévu, en 1990, la création de trois agences postales : Les Forges, Sainte-Marguerite et Jeanmenil.
