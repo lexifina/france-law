@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870506180
+
+- Question : [SEQ870506180](seq870506180.md) — Projet de transfert de la préfecture du département de l'Hérault
+
+## Réponse
+
+*Intérieur, JO du 1987-09-03, page 1381*
+
+Réponse. -La situation immobilière de la préfecture de la région Languedoc-Roussillon et du département de l'Hérault a fait l'objet, au cours des dernières années, de nombreuses études ainsi que de missions de l'inspection générale de l'administration, en raison, d'une part, de la grande dispersion des locaux et, d'autre part, de l'insuffisance des surfaces occupées par les services préfectoraux. Le regroupement des services dans des locaux fonctionnels apparaît donc comme une nécessité. Ce regroupement a été successivement envisagé au mas d'Alco, puis à proximité de la Z.A.C. d'Antigone. Après un examen plus approfondi des caractéristiques de cette seconde implantation, il est apparu que les terrains prévus étaient trop exigus et peu fonctionnels et qu'en outre ils n'étaient pas libres d'occupation, ce qui gênait la mise au point du projet et risquait d'en retarder la réalisation. Pour ces raisons, l'hypothèse d'une construction sur le site d'Antigone a été abandonnée et un regroupement sur le site historique de la préfecture est en cours d'étude. Sous réserve des résultats de ces études, l'opération pourrait se fonder, d'une part, sur l'occupation des surfaces qui seront libérées par le conseil général à l'occasion de son installation au mas d'Alco et, d'autre part, sur une restructuration de l'ensemble de l'immeuble afin de pouvoir tirer le meilleur parti des possibilités qu'il offre, avec, éventuellement, l'acquisition d'immeubles situés à proximité de la préfecture pour le logement de certains membres du corps préfectoral et l'installation de locaux sociaux (cantine, centre d'information).
