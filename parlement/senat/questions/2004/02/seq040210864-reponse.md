@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040210864
+
+- Question : [SEQ040210864](seq040210864.md) — Avenir des retraites de la fonction militaire
+
+## Réponse
+
+*Défense, JO du 2004-04-01, page 797*
+
+L'article L. 16 du code des pensions civiles et militaires de retraite, modifié par l'article 51 de la loi n° 2003-775 du 21 août 2003, prévoit que " les pensions sont revalorisées chaque année par décret en Conseil d'État conformément à l'évolution prévisionnelle de l'indice des prix à la consommation hors du tabac prévue dans le rapport économique, social et financier annexé à la loi de finances pour l'année considérée. Si l'évolution constatée des prix à la consommation hors du tabac, telle que mentionnée dans le rapport économique, social et financier annexé à la loi de finances pour l'année suivante, est différente de celle qui avait été initialement prévue, il est procédé, dans des conditions fixées par décret en Conseil d'État, à un ajustement destiné à assurer, pour ladite année suivante, une revalorisation conforme à ce constat ". Ainsi, pour l'année 2004, cette revalorisation a été fixée à 1,5 % par le décret n° 2003-1304 du 26 décembre 2003 relatif à la revalorisation des pensions civiles et militaires et assimilées. Ce dispositif assure à l'ensemble des retraités civils et militaires le même traitement au regard de l'évolution de leur pension. Par ailleurs, la loi portant réforme des retraites a prévu la contribution de deux organismes pour assurer le suivi des conséquences de la réforme et proposer le cas échéant des ajustements : le conseil d'orientation des retraites et la commission de garantie des retraites. Enfin, la réforme ne prévoit ni mesure pouvant avoir des incidences sur la fiscalisation des pensions militaires de retraite, ni augmentation des prélèvements sur celles-ci.
