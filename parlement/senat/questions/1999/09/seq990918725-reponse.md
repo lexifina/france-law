@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990918725
+
+- Question : [SEQ990918725](seq990918725.md) — Farines animales
+
+## Réponse
+
+*Agriculture, JO du 1999-12-09, page 4050*
+
+Réponse. - En application d'une décision communautaire, la réglementation française interdit l'incorporation de boues de station d'épuration dans la fabrication d'aliments composés pour animaux. Des contrôles menés il y a plusieurs mois dans certains établissements de traitement de sous-produits et déchets animaux ont mis en évidence des infractions à cette réglementation, qui ont fait l'objet des suites appropriées. Les pratiques répréhensibles ont été corrigées dans les établissements en cause. De plus les services vétérinaires et les agents de la direction générale de la concurrence, de la consommation et de la répression des fraudes ont été chargés de vérifier dans tous les autres établissements du secteur le respect de cette interdiction. Au-delà des dysfonctionnements ainsi constatés, la question de l'interprétation à donner à la réglementation susvisée s'est posée, notamment dans le cas de produits récupérés au niveau des eaux issues exclusivement d'ateliers de transformation de sous-produits animaux valorisables, avant leur traitement final. S'agissant d'une règle élaborée au niveau communautaire, le Gouvernement a demandé à la Commission européenne qu'une position harmonisée soit définie dans les meilleurs délais concernant ses modalités d'application. Il faut noter que la nature de ces produits ne conduit pas à craindre une contamination particulière par des agents chimiques tels que métaux lourds ou pesticides et qu'un traitement thermique apte à éliminer une contamination microbiologique est appliqué. Toutefois, il a été demandé à l'Agence française de sécurité sanitaire des aliments de mener une évaluation des risques précise concernant l'utilisation en alimentation animale de tels produits récupérés en amont du traitement biologique des eaux de process.
