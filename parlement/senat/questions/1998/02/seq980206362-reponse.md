@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980206362
+
+- Question : [SEQ980206362](seq980206362.md) — TVA applicable à la restauration
+
+## Réponse
+
+*Économie, JO du 1998-07-02, page 2145*
+
+Réponse. - La directive 92/77 du 19 octobre 1992 relative au rapprochement des taux de taxe sur la valeur ajoutée ne permet pas d'appliquer un taux de taxe sur la valeur ajoutée autre que le taux normal à la restauration. Les opérations de vente à consommer sur place ne figurent pas sur la liste des livraisons de biens et des prestations de services pouvant faire l'objet d'un taux réduit de taxe sur la valeur ajoutée, liste qui est reprise à l'annexe H de la sixième directive TVA. Seuls les Etats membres qui, au 1er janvier 1991, appliquaient à la restauration un taux réduit ont été autorisés à le maintenir à titre transitoire conformément aux dispositions de l'article 28-2-d de la sixième directive. Ces dispositions n'autoriseraient pas la France à introduire un taux réduit pour l'ensemble du secteur de la restauration dès lors que seuls les services rendus aux cantines d'entreprises par des prestataires extérieurs, services qui ne répondent pas à la définition des opérations de restauration, bénéficiaient à cette date du taux réduit de la taxe sur la valeur ajoutée. Il est par ailleurs important de souligner que la baisse du taux de la taxe sur la valeur ajoutée dans ce secteur ne revêtirait pas a priori un caractère redistributif. En effet, même si la baisse du taux de la taxe était répercutée sur le consommateur, cette mesure bénéficierait à des catégories de population plutôt favorisées ainsi qu'à des non-résidents effectuant de courts séjours en France. Enfin, il est précisé que la communication de la commission au Conseil relative à l'application expérimentale et optionnelle d'un taux réduit de la taxe sur la valeur ajoutée aux services à forte intensité de main-d' uvre ne mentionne pas la restauration.
