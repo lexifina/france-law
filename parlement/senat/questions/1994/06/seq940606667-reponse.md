@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940606667
+
+- Question : [SEQ940606667](seq940606667.md) — Commémoration du massacre d'Oradour dans les établissements scolaires
+
+## Réponse
+
+*Éducation, JO du 1994-09-01, page 2147*
+
+Réponse. - Les actions conduites dans les écoles, collèges et lycées relatives à la célébration du cinquantième anniversaire de la Libération ont été nombreuses et variées. Ce devoir de mémoire s'est traduit selon des modalités de participation très variées, qu'il s'agisse de conférences, expositions, recherche de textes historiques, recueil et enregistrement de témoignages, visites de lieux historiques etc., activités qui, généralement, sont intégrées dans le cadre de projets d'actions éducatives ou de projets d'établissement pluridisciplinaires pouvant s'appuyer sur des évènements historiques locaux. Ainsi, en collaboration avec la mission du cinquantenaire des débarquements et de la Libération de la France, présidée par le ministre des anciens combattants et victimes de guerre, un concours de projets d'actions éducatives sur ce thème a-t-il été organisé au niveau national. Les classes lauréates du second degré ont été invitées à l'une des cérémonies le 6 juin dernier à Caen, les classes élémentaires ayant participé au concours ont reçu, quant à elles, un lot de livres relatifs à cette période de notre histoire. Que ce soit par une participation au concours national précité ou à différentes manifestations à l'occasion d'un évènement local : visite d'un lieu historique, recueil de témoignages vivants, recherches d'écrits historiques, conférences, manifestations musicales..., les éléments d'information provenant des académies permettent d'affirmer qu'un effort particulier a été consenti à cette commémoration. La tragédie d'Oradour-sur-Glane s'intègre à part entière dans l'histoire de cette époque. Elle a, à ce titre, pris place dans le contenu de l'enseignement des maîtres.
