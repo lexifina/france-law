@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961118612
+
+- Question : [SEQ961118612](seq961118612.md) — Accueil des enfants en cas de grève partielle des enseignants
+
+## Réponse
+
+*Éducation, JO du 1996-12-26, page 3504*
+
+Réponse. - Le droit de grève est reconnu aux enseignants du premier degré, y compris aux directeurs d'école. Par ailleurs, les écoles maternelles et élémentaires ne disposent pas de personnels administratifs, ouvriers et de service, en particulier pour assurer la surveillance des élèves, ce qui rend difficile l'organisation de l'accueil en cas de grève. Il appartient au directeur d'école de rechercher des solutions pour accueillir les enfants, soit en obtenant de la municipalité la mise en place d'un service de garde, soit avec la participation d'enseignants volontaires. Toutefois, il n'est pas fait obligation aux instituteurs non grévistes d'accueillir les élèves de leurs collègues en grève puisqu'ils assurent, ce jour-là, le service d'enseignement normalement prévu pour les élèves de leur propre classe. Il appartient donc à ces enseignants d'apprécier dans quelles conditions l'accueil des élèves de leurs collègues grévistes est compatible avec l'organisation de leur propre service. Par ailleurs, les communes ne sont pas tenues d'assurer l'accueil des élèves en cas de grève des personnels enseignants, aucune disposition législative ne leur en faisant obligation. C'est pourquoi il est demandé aux directeurs d'école, lorsque aucune solution n'a pu être trouvée pour accueilir les enfants, d'informer les parents suffisamment tôt afin qu'ils puissent prendre les dispositions nécessaires pour garder ou faire garder leur enfants. D'une manière générale, la continuité du service public en cas de grève est un problème qui ne peut trouver de solution dans le cadre strict de l'éducation nationale.
