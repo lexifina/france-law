@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941209152
+
+- Question : [SEQ941209152](seq941209152.md) — Plafond de la retraite mutualiste des anciens combattants
+
+## Réponse
+
+*Affaires sociales, JO du 1995-02-09, page 322*
+
+Réponse. - Comme le Gouvernement s'y était engagé, une série d'importantes mesures a été prise récemment en faveur des anciens combattants. Ainsi, le plafond majorable de la rente mutualiste des anciens combattants a été porté pour l'année 1995 à 6 750 francs et le problème de son indexation sur l'indice des pensions d'invalidité fait l'objet d'une étude interministérielle. Par ailleurs, l'article 110 de la loi portant diverses dispositions d'ordre social, qui vient d'être adoptée par le Parlement et qui modifie l'article L. 321-9 du code de la mutualité, permet aux personnes titulaires du titre de " Reconnaissance de la nation " la possibilité de se constituer une rente mutualiste majorée par l'Etat. L'article 66 de cette même loi porte à dix ans, à compter de la date d'attribution de la carte d'ancien combattant ou du titre de " Reconnaissance de la nation ", le délai pendant lequel il est possible de se constituer une rente donnant lieu à majoration de l'Etat au taux maximum. Enfin, il faut rappeler que la loi de finances pour 1995 a amélioré la situation des anciens combattants d'Afrique du Nord en chômage de longue durée en créant une " allocation de préparation à la retraite " et en améliorant le fonds de solidarité institué en leur faveur par la loi de finances de 1992, et que la loi no 95-5 du 3 janvier 1995 stipule que les services militaires actifs accomplis en Afrique du Nord entre le 1er janvier 1952 et le 2 juillet 1962 ouvrent droit à une réduction de la durée d'assurance, ou de périodes reconnues équivalentes, requise pour bénéficier de la retraite du régime général à taux plein.
