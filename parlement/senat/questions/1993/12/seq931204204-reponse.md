@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931204204
+
+- Question : [SEQ931204204](seq931204204.md) — Transfert au ministère des affaires sociales de la gestion des bourses de collège
+
+## Réponse
+
+*Éducation, JO du 1994-04-14, page 881*
+
+Réponse. - La justification du transfert de crédits des bourses des collèges aux caisses d'allocations familiales réside dans le coût particulièrement élevé de gestion des bourses de collèges (évalué à 250 francs par bourse, comparé à leur montant moyen de 330 francs) et dans la volonté de simplifier les formalités imposées aux familles pour bénéficier des aides sociales, en leur donnant un interlocuteur unique. En premier lieu, le montant des bourses de collège est sans commune mesure avec le montant des frais de demi-pension supportés par les familles, puisque 80 p. 100 des bourses sont d'un montant proche de 300 francs, alors qu'il convient de compter environ 3 000 francs en frais de demi-pension pour une année scolaire par enfant. En outre, la possibilité utilisée par certains intendants de " précompter " le montant de la bourse sur les frais de demi-pension tend à disparaître en raison de la généralisation du système de ticket magnétique ou de carte magnétique, au détriment du forfait trimestriel. En deuxième lieu, la mesure de transfert ne concerne ni la participation de l'Etat aux dépenses de rémunérations des personnels d'internat et de demi-pension, dont le montant inscrit au budget 1994 est de 1,8 milliard de francs, ni le système de " remise de principe ", qui permet, pour les familles ayant plus de trois enfants dans le second degré public, d'atténuer encore le coût des demi-pensions. Le complément d'allocation de rentrée scolaire, qui remplacera le système des bourses, est d'autant plus adapté aux besoins des familles qu'il sera versé en début d'année scolaire, lorsque leurs dépenses sont les plus nombreuses. Il est rappelé enfin que le transfert des crédits de bourses est évidemment intégral.
