@@ -1,15 +1,23 @@
-# Article 2 nouveau
+# Article 2 ancien
 
-La révision des barèmes de salaires minima peut avoir lieu à tout moment. Cette révision donne lieu à l'établissement d'un nouveau barème complet.
+Les taux des salaires correspondant aux classifications définies à l'article 1er de la présente annexe ont été fixés comme suit, au 1er juillet 1977 pour la région parisienne (zone O).
 
-Les salaires sont mensualisés pour tous les emplois de la présente annexe et pour ceux qui sont créés par accord d'entreprise.
+Pour les autres zones, ils subissent, sauf accords locaux plus favorables, les abattements légaux prévus pour le salaire minimum interprofessionnel garanti.
 
-Lors d'une augmentation du barème conventionnel, le salaire est affecté au minimum de l'augmentation calculée sur le barème, celle-ci ne pouvant être imputés sur d'éventuelles plus-values ou compléments quelconques qui sont maintenus en valeur absolue, s'ils ne sont pas eux-mêmes majorés de l'augmentation.
+La révision ou la modification des taux, qui pourra intervenir à tout moment, entraînera l'établissement d'un nouveau tableau complet.
 
-Le barème conventionnel ne concerne que les salaires minima et non les salaires réels.
+Ces taux constituent des salaires minima de base, non compris les gratifications ou avantages particuliers, et sans préjudice des augmentations accordées en raison de l'ancienneté ou à titre personnel (1).
 
-Barème
+Les salaires seront payés mensuellement pour tous les emplois figurant à la présente annexe et pour ceux qui seront créés par accord d'entreprise.
 
-Nota. - Ce barème inclut tous les éléments de rémunération quels que soient leur forme, leur périodicité, leur caractère individuel ou collectif, par exemple : plus-values en sommes ou en points, primes, points débloqués ou supplémentaires, intéressement, forfait, suppléments annuels, majorations d'ancienneté supérieures à celles de la convention, etc., à l'exclusion seulement de la prime d'ancienneté prévue à l'article 3 de l'annexe I et des majorations prévues aux articles 4 et 5 de l'annexe I.
+Exception est faite pour les agents temporaires, embauchés pour des périodes d'activité spéciale de la profession (rentrée, étrennes, prix).
 
-La garantie des appointements annuels bénéficie, au prorata de leur temps de présence dans l'entreprise, aux seuls agents justifiant d'au moins trois mois d'activité dans cette entreprise.
+En ce cas, s'ils sont payés à l'heure, leur salaire sera calculé sur la base du salaire mensuel de la catégorie à laquelle ils appartiennent, le mois de travail étant compté pour cent soixante-treize heures.
+
+Un barème technique de référence est constitué afin de servir de base à la négociation de nouveaux barèmes de salaires minima.
+
+Il est expressément convenu que l'adoption de ce barème n'entraîne aucune modification de quelque nature que ce soit des salaires réels effectivement pratiqués par les entreprises, à l'exception toutefois des primes d'ancienneté, dont l'assiette se trouve modifiée et des salaires réels éventuellement inférieurs aux salaires minima ainsi définis.
+
+En conséquence, l'application de l'alinéa 3, des articles 2, de l'annexe I (employés) est expressément exclue.
+
+Le barème technique de référence est le suivant : (voir annexe V salaires).
