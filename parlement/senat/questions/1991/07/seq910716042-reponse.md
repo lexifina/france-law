@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910716042
+
+- Question : [SEQ910716042](seq910716042.md) — Bilan de l'inventaire permanent du littoral
+
+## Réponse
+
+*Environnement, JO du 1992-04-09, page 874*
+
+Réponse. -Lors du colloque " observatoire des villes " qui s'est tenu à Nancy le 6 juin 1991, le ministre de l'équipement, du logement, des transports et de l'espace a confirmé l'importance de l'observation de la ville afin d'en comprendre la diversité et la pluralité. Toutefois, il a rappelé qu'il fallait éviter la mise en place de système d'observation trop exhaustif. A cet égard, il a cité l'inventaire permanent du littoral qui a dû être abandonné compte tenu des difficultés de mise à jour des documents et de financement. En effet, regroupant neuf services d'administration centrale et leurs services extérieurs, le nombre important des partenaires concernés a rendu difficile : la collecte de l'information (l'usage de la mer, le règlement et la protection des espaces naturels, la maîtrise foncière publique...) ; l'avalisation au niveau local (département et région) de l'ensemble de la banque de données ; la mobilisation des crédits nécessaires dans la mesure où les financements ne faisaient l'objet d'aucune ligne budgétaire clairement identifiée. Par ailleurs, la périodicité de l'observation fixée au niveau quinquennal, liée aux techniques en vigueur à l'époque : photo-interprétation et cartographie numérique, était à la fois trop rigide et trop longue pour une observation appropriée aux spécificités des territoires littoraux. En conclusion, si ce système a permis au début des années 1980 de réaliser un bilan sur le littoral et a constitué un apport non négligeable pour la constitution d'une base de données, les pouvoirs publics, à l'occasion du conseil des ministres du 5 janvier 1991, ont opté pour le regroupement des données existant sur le littoral afin de constituer la base d'un outil plus souple d'observation à créer sur le littoral.
