@@ -1,0 +1,3 @@
+# Article 6 : Heures excédentaires sur la période de décompte
+
+Dans le cas où l'horaire hebdomadaire de 35 heures de travail effectif a été dépassé en moyenne sur la période de décompte, seules les heures effectuées au-delà de celui-ci ont la nature d'heures supplémentaires. Chacune de ces heures ouvre droit, conformément aux dispositions légales en vigueur, à une majoration de salaire. Le paiement de ces heures excédentaires et des majorations y afférentes peut être remplacé en totalité ou en partie par un repos compensateur dans les conditions prévues au chapitre Ier, article 3 du présent accord.
