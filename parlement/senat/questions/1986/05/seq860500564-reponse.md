@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860500564
+
+- Question : [SEQ860500564](seq860500564.md) — Développement de l'enseignement de l'anglais
+
+## Réponse
+
+*Éducation, JO du 1986-07-31, page 1086*
+
+Réponse. -Dans les collèges, l'attribution des bourses nationales d'études du second degré est fondée sur la situation familiale des intéressés et n'est en aucun cas fonction des disciplines étudiées. Créer une bourse spéciale afin d'encourager l'étude de l'anglais n'est pas nécessaire puisque d'ores et déjà 85,1 p. 100 des élèves choisissent cette langue dès leur entré en sixième. D'autre part, privilégier cette discipline ne serait compatible ni avec les exigences de la compétition commerciale qui implique que la France soit aussi présente sur d'autres marchés que les pays de langue anglaise, ni avec son rayonnement culturel dont le développement demeure tributaire, dans le cadre d'accords de réciprocité, de l'enseignement de diverses langues étrangères dans nos établissements. Toutefois, il convient de préciser que chaque année le ministère de l'éducation nationale accorde environ vingt-cinq bourses à des élèves désirant effectuer leur première ou leur terminale en Grande-Bretagne pour perfectionner leur connaissance de la langue anglaise. Pour la présente année scolaire le montant mensuel minimal de la bourse s'élève à 170 livres sterling. Ce montant, comme celui des bourses nationales d'études du second degré octroyées en France est modulé en fonction des charges et des ressources familiales des candidats. L'encouragement à l'acquisition de bases solides tant en langues que dans les autres matières ne peut être une incitation financière. Le plus efficace est sans doute la poursuite de l'effort actuellement entrepris pour développer notamment dans les collèges et lycées la mise en place de moyens audiovisuels permettant un enseignement moderne et efficace.
