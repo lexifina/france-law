@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010935334
+
+- Question : [SEQ010935334](seq010935334.md) — Lutte contre le SIDA : transferts de technologie favorisés
+
+## Réponse
+
+*Coopération, JO du 2001-11-22, page 3702*
+
+Le ministre délégué à la coopération et à la francophonie a le plaisir de préciser à l'honorable parlementaire comment la France, dans le cadre de ses actions de coopération en matière de lutte contre le VIH/Sida, s'attachera à renforcer les capacités des pays bénéficiaires à utiliser les technologies récentes. En premier lieu, les capacités de diagnostic et de suivi (sérologie VIH, comptage des CD4, quantification de la charge virale) seront renforcées par l'équipement des laboratoires (chaîne de lecture ELISA, microscope à fluorescence) et le développement de techniques adaptées aux ressources locales (comptage des CD 4 par immunofluorescence, par exemple). L'aide à l'élaboration de plan de maintenance des matériels installés fera partie intégrante des projets. Par ailleurs, la mise en place de systèmes d'informations sanitaires performants sur la dynamique de l'épidémie nécessite la maîtrise des outils informatiques dont ceux de communications en réseau qui feront donc l'objet de formations spécifiques. Dans un autre champ, l'amélioration des capacités de production des médicaments (génériques en particulier) s'accompagnera du renforcement du contrôle de qualité de ceux-ci : un projet de centre régional de contrôle de qualité des médicaments est d'ailleurs en cours d'étude pour l'Afrique de l'Ouest. Dans ce cadre les pays partenaires seront bénéficiaires d'un apport de moyens et de formation aux techniques d'analyse des produits. Ces transferts seront accompagnés de plans de formation, menés, en particuliers par les équipes des centres hospitaliers impliqués dans l'initiative de Solidarité thérapeutique hospitalière en réseau et les assistants techniques chargés localement de la mise en oeuvre des projets.
