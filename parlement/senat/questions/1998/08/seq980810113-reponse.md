@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980810113
+
+- Question : [SEQ980810113](seq980810113.md) — Coopératives de commerçants
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 1998-12-03, page 3880*
+
+Réponse. - La réglementation issue des lois nº 47-1775 du 10 septembre 1947 portant statut de la coopération et nº 72-652 du 11 juillet 1972 relative aux coopératives de commerçants détaillants a permis de créer un environnement favorable au développement des coopératives de commerçants. Celles-ci représentent d'ailleurs aujourd'hui une part importante du commerce de détail en France. Au fil des années pourtant, elles ont dû s'adapter aux exigences d'une concurrence accrue, notamment par le développement du commerce intégré, sans que leur régime juridique ne prenne en compte ces changements de contexte économique. C'est pour cette raison que de nombreux représentants des coopératives de commerçants sollicitent un réaménagement de la loi du 11 juillet 1972 qui serait de nature à renforcer leur compétitivité, en leur permettant notamment de mener de véritables politiques commerciales, et à favoriser le renforcement des liens financiers entre les membres des groupements de commerçants indépendants. La plus grande attention étant portée à ces questions, une concertation s'est engagée avec les professionnels. Leurs propositions font l'objet d'une réflexion approfondie au sein des services concernés du ministère de l'économie, des finances et de l'industrie. Par ailleurs, le traitement des pratiques de prix mises en uvre par les groupements coopératifs de commerçants est explicitement envisagé par la Commission européenne dans le cadre du règlement sur les restrictions verticales. Il convient de noter, enfin, qu'une réflexion portant sur l'ensemble de la réglementation coopérative se poursuit en parallèle à l'échelon interministériel, dans le cadre des travaux menés par le conseil supérieur de la coopération.
