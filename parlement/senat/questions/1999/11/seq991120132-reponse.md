@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991120132
+
+- Question : [SEQ991120132](seq991120132.md) — Coût de la coopération commerciale
+
+## Réponse
+
+*Économie, JO du 2000-03-16, page 960*
+
+Réponse. - Il est exact que les accords de coopération commerciale prévus par la loi nº 96-588 du 1er juillet 1996 ne font pas toujours apparaître de réelles contreparties et peuvent représenter pour le fournisseur une charge importante difficile à supporter lorsqu'il s'agit d'une PME. Conscient des limites des règles actuelles, mais également de la nécessité en la matière d'une approche très globale des problèmes constatés, le Gouvernement a entrepris une large consultation de l'ensemble des professionnels concernés. Celle-ci a débouché sur la tenue, le 13 janvier 2000, d'assises du commerce et de la distribution destinées notamment à évaluer l'efficacité des dispositifs en vigueur pour garantir la loyauté et l'équité des rapports commerciaux. Ce bilan a permis au Gouvernement d'arrêter un certain nombre d'aménagements de la législation qui seront présentés au Parlement dans les prochains mois. En particulier, des mesures vont être proposées pour mettre fin aux abus constatés en matière de coopération commerciale entre distributeurs et fournisseurs et mieux réprimer l'abus de dépendance économique. Le Gouvernement proposera de renforcer les pouvoirs du Conseil de la concurrence et de donner au ministre de l'économie, des finances et de l'industrie la possibilité de se substituer à la victime des pratiques abusives devant les tribunaux pour obtenir la nullité des clauses illicites, la réparation des préjudices et des amendes civiles. Enfin, une commission des pratiques commerciales et des relations contractuelles entre fournisseurs et distributeurs va être créée dans un but de meilleure prévention des conflits dans ce domaine et de définition des bonnes pratiques.
