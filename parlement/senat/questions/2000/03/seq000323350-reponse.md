@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000323350
+
+- Question : [SEQ000323350](seq000323350.md) — Utilisation des prestations familiales par les banques
+
+## Réponse
+
+*Emploi, JO du 2001-06-28, page 2169*
+
+Le principe d'insaisissabilité et d'incessibilité des prestations familiales posé à l'article L. 553-4 du code de la sécurité sociale et un principe fondamental et général. Il ne souffre que des exceptions prévues par la loi et dans des cas limitativement énumérés. La possibilité de saisie ne peut ainsi concerner que des prestations liées à l'entretien des enfants auxquelles elles sont destinées pour des dépenses concernant cet entretien et non acquittées par les parents. Or, le versement d'une somme sur un compte bancaire ou postal fait perdre à la créance qui est à l'origine de ce versement son individualité, en vertu du principe de fongibilité des sommes portées au crédit du compte. Ce principe est cependant conciliable avec la règle de l'insaisissabilité de certaines créances d'aliments telles les prestations familiales. Ainsi, lorsqu'un compte fait l'objet d'une saisie, le titulaire du compte peut, sur justification des sommes qu'il prétend insaisissables, demander au tiers saisi que soit laissée à sa disposition une somme d'un montant équivalent. Des instructions ont été données afin que sur demande de l'allocataire, les caisses d'allocations familiales transmettent à l'établissement bancaire les éléments d'information permettant de préserver le montant des prestation familiales dont le caractère insaisissable est opposable au créancier. Ces dispositions sont applicables lorsque l'établissement bancaire agit en qualité de tiers saisi et a fortiori dans le cas dépeint. De façon générale, le Gouvernement expertise les possibilités d'améliorer en pratique l'application par les banques des règles d'insaisissabilité.
