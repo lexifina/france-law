@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030708249
+
+- Question : [SEQ030708249](seq030708249.md) — Régime fiscal des associations
+
+## Réponse
+
+*Budget, JO du 2003-10-23, page 3151*
+
+L'instruction administrative publiée au Bulletin officiel des impôts du 15 septembre 1998 sous la référence 4 H-5-98, qui a précisé le régime fiscal applicable aux organismes sans but lucratif, prévoit que les associations peuvent développer des opérations de nature lucrative sans qu'elles soient pour autant soumises aux impôts commerciaux au titre de l'ensemble de leurs activités. En matière d'impôts commerciaux, cette absence de remise en cause du caractère non lucratif d'ensemble d'une association est subordonnée au caractère significativement prépondérant de son activité non lucrative. La notion de prépondérance doit s'apprécier de la manière qui rende le mieux compte du poids réel de l'activité non lucrative de l'association. Le critère comptable du rapport des recettes commerciales pour l'ensemble des moyens de financement de l'organisme apparaît en principe comme le plus objectif. Il est toutefois possible de retenir d'autres critères à la condition qu'ils soient pertinents mais il ne paraît pas souhaitable de fixer un seuil correspondant à un pourcentage d'activités lucratives au-delà duquel le caractère non lucratif d'ensemble d'une association serait automatiquement remis en cause. Il paraît plus équitable d'apprécier au cas par cas le caractère significativement prépondérant des activités non lucratives au regard des conditions particulières de fonctionnement de l'association. En tout état de cause, conformément aux dispositions de l'instruction administrative publiée au Bulletin officiel des impôts du 16 février 1999 sous la référence 4 H-1-99, il est généralement préférable d'apprécier la prépondérance par rapport à une moyenne pluriannuelle afin d'éviter de tirer les conséquences d'une situation exceptionnelle.
