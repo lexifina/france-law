@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031210362
+
+- Question : [SEQ031210362](seq031210362.md) — Situation d'EDF dans l'ouest de la France
+
+## Réponse
+
+*Industrie, JO du 2004-02-26, page 476*
+
+Si le Gouvernement a en effet eu des interrogations en ce début d'hiver sur la stabilité du réseau électrique dans l'ouest de la France du fait de la coïncidence d'indisponibilités qui auraient pu poser problème en cas d'épisode de froid prononcé, le redémarrage d'une partie des moyens de production de la centrale de Cordemais permet désormais d'être confiant sur la sécurité d'approvisionnement de cette région. Cette sécurité passe néanmoins, à moyen terme, par l'installation de nouvelles unités de production ou la construction de nouvelles lignes de transport d'électricité. Le Gouvernement étudiera, à cet égard, avec attention, la situation de la Bretagne à la lumière du nouveau bilan prévisionnel du gestionnaire de réseau de transport public, RTE, pour déterminer les éventuelles mesures à prendre. On peut toutefois noter que la politique du Gouvernement de développement des énergies renouvelables, en particulier avec le lancement d'appel d'offres éolien, est d'ores et déjà de nature à contribuer à soutenir la production électrique dans cette région au fort potentiel éolien. Le Livre Blanc mis en ligne sur le site du ministère de l'industrie (www.industrie.gouv.fr) insiste par ailleurs sur les nécessaires économies d'énergie en vue d'infléchir la consommation d'électricité, tant par des gains d'isolation dans les bâtiments que par l'utilisation d'appareils performants. En parallèle, la promotion d'énergies renouvelables pour les utilisations thermiques de l'énergie permettra également de moins solliciter les moyens électriques. Ces actions concourront assurément à réduire la vulnérabilité de la Bretagne en matière d'alimentation électrique.
