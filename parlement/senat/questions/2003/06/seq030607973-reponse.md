@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030607973
+
+- Question : [SEQ030607973](seq030607973.md) — Enquêtes sociales préalables aux décisions des juges aux affaires familiales
+
+## Réponse
+
+*Justice, JO du 2004-03-04, page 535*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire qu'en vertu de l'article 373-2-12 du code civil le juge aux affaires familiales qui ordonne une enquête sociale ayant pour but de recueillir des renseignements sur la situation de famille et les conditions de vie et d'éducation des enfants en confie la mission à " toute personne qualifiée ". A ce titre, le choix des enquêteurs fait toujours l'objet d'une attention minutieuse de la part des magistrats qui désignent des personnes compétentes, d'horizons divers, en tenant pleinement compte de leurs formations et expériences professionnelles dans les domaines psychologique, social ou éducatif. Cette pluridisciplinarité constitue un atout essentiel en ce qu'elle permet aux magistrats de choisir, avec toute la souplesse nécessaire, la personne la plus adaptée à la spécificité de telle ou telle affaire. Elle correspond à l'objet même de ce type d'investigation qui tend à recueillir une vision globale et synthétique d'une situation familiale dans toutes ses composantes. L'enquête sociale se distingue nettement ainsi de l'expertise à laquelle les magistrats peuvent également recourir lorsque la situation nécessite une approche plus particulière et une analyse technique spécifique. Ce dispositif dans son ensemble apparaît adapté aux attentes des praticiens. Dès lors, l'instauration d'un statut d'enquêteur social ne semble pas opportune. De même, il convient de préserver la liberté du juge de fixer le montant de la rémunération des enquêteurs sociaux en fonction de chaque espèce. A cet égard, aucune plainte n'a été portée à la connaissance de la chancellerie et les rémunérations constatées apparaissent adaptées.
