@@ -1,0 +1,9 @@
+# Réponse à la question SEQ921123379
+
+- Question : [SEQ921123379](seq921123379.md) — Maintien de la sécurité publique en zone rurale
+
+## Réponse
+
+*Intérieur, JO du 1992-12-31, page 2851*
+
+Réponse. - S'il est souhaitable que les communes puissent recourir à de nombreuses formules de coopération intercommunale, ce droit ne saurait leur être accordé sans risques, y compris pour les libertés, dans le domaine de la police, compte tenu de ce que le bon exercice de celle-ci ne s'accommode ni du rapprochement des points de vue lorsqu'une décision urgente est à prendre ni de la dilution des responsabilités. Pour pallier ces risques, l'exigence de concentrer les pouvoirs de police entre les mains d'un responsable unique du goupement intercommunal ne manquerait pas très rapidement de prévaloir, en fait dans un premier temps, en droit dans un second, ayant pour conséquence de retirer aux maires des communes membres du groupement la direction et le contrôle des agents municipaux placés sous leur autorité. C'est pourquoi il n'est pas envisagé de mettre en place une institution qui remettrait en cause le principe de spécialité territoriale applicable aux communes en matière de police et battrait en brêche celui selon lequel le pouvoir de police ne se délègue pas. Certes, en zone rurale, eu égard aux difficultés que rencontrent certaines communes pour s'assurer le concours d'un garde champêtre, dont la présence est bien utile, compte tenu de la multiplicité des tâches que le maire peut lui confier, ces principes peuvent être quelque peu assouplis. Et c'est pourquoi l'article R. 131-1 du code des communes accorde le droit aux communes d'avoir un même garde champêtre en commun. Mais ce droit, qui vise une situation bien spécifique, ne saurait être modifié en vue de permettre aux communes de créer des groupements de gardes champêtres.
