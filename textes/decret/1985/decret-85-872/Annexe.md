@@ -22,6 +22,8 @@ La quantité de pulpe utilisée pour la fabrication de 1.000 grammes de produit 
 
 80 grammes dans le cas des fruits de la passion.
 
+La confiture extra de cynorrhodons peut être issue entièrement ou partiellement de la purée de cynorrhodons.
+
 2. Confiture.
 
 Le mélange, porté à la consistance gélifiée appropriée, de sucres ainsi que de pulpe et/ou de purée :
@@ -100,11 +102,9 @@ La quantité de purée de marrons utilisée pour la fabrication de 1.000 grammes
 
 La quantité de purée de fruits à coque utilisée pour la fabrication de 1.000 grammes de produit fini doit être supérieure ou égale à 380 grammes.
 
-7. Crème de pruneaux.
+7. Crème de pruneaux :
 
-Le mélange, porté par cuisson à la consistance appropriée, de sucres et de la purée de pruneaux à 23 p. 100 d'humidité maximum.
-
-La quantité de purée de pruneaux utilisée pour la fabrication de 1.000 grammes de produit fini doit être supérieure ou égale à 400 grammes.
+Le mélange porté par cuisson à la consistance appropriée de sucres et de purée de pruneaux. La quantité de pruneaux titrant 23 p. 100 d'humidité maximum utilisée pour la fabrication de 100 grammes de produit fini doit être au moins égale à 400 grammes.
 
 8. Confit de pétales.
 
@@ -125,3 +125,7 @@ Le mélange, porté par cuisson à la consistance appropriée, de sucres, de rai
 La quantité de fruits ou jus de fruits utilisée pour la fabrication de 1.000 grammes de produit fini doit être supérieure ou égale à 450 grammes dont 250 grammes au moins de raisins ou jus de raisin.
 
 B. - En cas de mélange, les teneurs minimales fixées à la partie A pour les différentes espèces de fruits sont réduites proportionnellement aux pourcentages utilisés.
+
+NOTA :
+
+Nota : Décret 2001-725 du 31 juillet 2001 art. 8 11° : Le décret du 19 décembre 1910 est abrogé à compter de la date de publication de l'arrêté prévu à l'article 2 du décret 2001-725. Il est uniquement abrogé en tant qu'il concerne les auxiliaires technologiques inscrits sur la liste établie par cet arrêté.
