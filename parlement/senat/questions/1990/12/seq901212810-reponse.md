@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901212810
+
+- Question : [SEQ901212810](seq901212810.md) — Rémunérations des résidents au lycée français de Hongkong
+
+## Réponse
+
+*Affaires étrangères, JO du 1991-03-21, page 589*
+
+Réponse. - L'association des parents d'élèves du lycée français international de Hongkong a signé avec l'Etat français une convention de subrogation, suivant les dispositions du décret n° 90-469 du 31 mai 1990 et de la circulaire du 4 octobre 1990. Ce régime prévoit que la rémunération principale des résidents, calculée selon les termes du décret précité, " est versée intégralement par l'établissement, subrogé de l'Etat, en monnaie locale " (art. 8). La " prime de cherté de vie ", calculée par l'autorité gestionnaire de l'établissement après consultation des représentants du personnel et accord de l'agence pour l'enseignement français à l'étranger, est à la charge de l'établissement d'affectation (art. 4). C'est donc au comité exécutif du lycée français international qu'appartient la décision de réajuster éventuellement le montant de cette prime suivant les fluctuations du taux de change, étant entendu que la référence aux variations du taux de chancellerie au 16 du mois ne concerne que les établissements ayant signé une convention avec déduction (art. 8 B 3 b) - ce qui n'est pas le cas du lycée français international de Hongkong. La subvention annuelle permettant à l'établissement subrogé de servir les traitements des résidents est versée en francs convertibles sur le compte de la personne morale qui les transfère en monnaie locale suivant le taux de chancellerie en vigueur. La comptabilité de Nantes, à qui le service gestionnaire de l'établissement adresse une copie du bulletin de paye de chaque résident, émet une lettre de rappel de cotisation de sécurité sociale pour le régime général ; l'adhésion à une mutuelle est une démarche facultative qui est laissée à l'initiative de chaque agent.
