@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040713059
+
+- Question : [SEQ040713059](seq040713059.md) — Conséquences pour les véhicules de collection de la réforme du système d'immatriculation
+
+## Réponse
+
+*Intérieur, JO du 2004-09-30, page 2232*
+
+L'honorable parlementaire appelle l'attention du ministre de l'intérieur, de la sécurité intérieure et des libertés locales sur les conséquences pour les véhicules de collection de la réforme du système d'immatriculation des véhicules. Cette réforme prévoit notamment l'attribution d'un numéro d'immatriculation " à vie au véhicule ", dès la première mise en circulation jusqu'à sa destruction, quels que soient l'identité ou le domicile de son propriétaire sur la base d'une numérotation formée d'une combinaison alphanumérique issue d'une série nationale unique et chronologique, sans référence locale obligatoire. Les véhicules dits de collection ne sauraient échapper à cette règle qui garantit, notamment, la validité des informations contenues dans le fichier rénové des immatriculations. Ces véhicules se verront attribuer un nouveau numéro SIV et il apparaîtra, comme pour les autres véhicules, dans le futur fichier. Les véhicules de collection constituant une catégorie spécifique nécessitant une procédure d'immatriculation particulière, la demande d'immatriculation du véhicule dans la nouvelle série (lors de sa première cession du véhicule après la mise en oeuvre de la réforme ou à l'occasion de la reprise du parc) sera effectuée par les préfectures et les sous-préfectures. Le certificat d'immatriculation sera, après vérification, adressé au titulaire du titre par voie postale au domicile de celui-ci. Afin de préserver le caractère historique des véhicules d'époque et sous réserve qu'ils aient préalablement obtenu une attestation d'authenticité, les plaques d'origine pourront être conservées et le fond de couleur noir sera exceptionnellement admis.
