@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010432395
+
+- Question : [SEQ010432395](seq010432395.md) — Retraite du conjoint d'artisan
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2001-06-28, page 2197*
+
+Depuis la loi n° 82-596 du 10 juillet 1982, les conjoints d'artisans et de commerçants qui ont fait le choix de travailler au sein de l'entreprise familiale et d'opter pour le statut de conjoint collaborateur mentionné au répertoire des métiers ou au registre du commerce et des sociétés peuvent se constituer des droits propres en matière de retraite, à condition de cotiser. Toutefois, les conjoints qui ont travaillé comme aide familial avant 1982 au côté du chef d'entreprise disposaient dès l'ordonnance du 23 septembre 1967 de la possibilité de cotiser volontairement au régime vieillesse des artisans et des commerçants au titre de l'assurance volontaire et d'acquérir ainsi dès cette époque des droits personnels à la retraite. Ceux qui ont fait le choix du statut de conjoint collaborateur dans le cadre de la loi de 1982, et qui cotisent volontairement à l'assurance vieillesse, ont la possibilité de racheter leurs cotisations pour les années 1978 à 1985, en application de l'article D. 742-30-1 du code de la sécurité sociale, s'ils ont travaillé en tant qu'aide familial pendant cette période. Dans les autres cas, les conjoints ne bénéficient, pour la période antérieure à 1982, que de droits dérivés de deux de leur époux, chef d'entreprise et assuré principal, dans la limite des règles du cumul spécifiques à chaque régime. Si le niveau des droits personnels ou des droits dérivés est inférieur à 43 947 francs par an pour une personne seule, et 76 977 francs pour un ménage, les intéressés peuvent demander à leur caisse de retraite le bénéfice de l'allocation aux travailleurs âgés non salariés (AVTNS). A ce stade, il n'est pas prévu de modifier la réglementation actuelle.
