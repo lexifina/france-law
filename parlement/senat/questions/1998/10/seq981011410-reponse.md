@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981011410
+
+- Question : [SEQ981011410](seq981011410.md) — Situation de la communauté française installée en Serbie
+
+## Réponse
+
+*Affaires étrangères, JO du 1998-11-26, page 3779*
+
+Réponse. - L'honorable parlementaire a bien voulu appeler l'attention du ministre des affaires étrangères sur les mesures prises en faveur de la sécurité des ressortissants français installés en République fédérale de Yougoslavie, en Republika Srpska et en Bosnie-Herzégovine. Dès le 7 octobre dernier et en raison de l'incertitude de la situation, le ministère des affaires étrangères a décidé de recommander aux familles de nos compatriotes installées en République fédérale de Yougoslavie (RFY) de quitter le pays et ce, jusqu'à nouvel ordre. Les familles des agents de l'ambassade de France étaient également concernées par cette mesure. Il a été recommandé aux voyageurs de ne plus se rendre en RFY. Notre ambassade est restée en contact permanent avec nos compatriotes et avait prévu des mesures d'accompagnement au départ, pour tous ceux qui l'auraient souhaité. Le ministère des affaires étrangères et notamment la direction des Français à l'étranger et des étrangers en France a assuré de façon constante sa mission de veille et d'assistance aux familles de nos compatriotes résidant en République fédérale de Yougoslavie et en Republika Srpska, notamment en renforçant les moyens de notre ambassade pour assurer la sécurité de notre communauté. Pour la Bosnie, le ministère des affaires étrangères a apporté des réponses précises aux personnes qui souhaitaient s'y rendre. Pour nos compatriotes y résidant, notre ambassadeur a assuré leur information régulière, ponctuée notamment de conseils de prudence. Les restrictions aux déplacements en République fédérale de Yougoslavie ont été levées le 28 octobre 1998, après que le Conseil Atlantique a décidé de soumettre les ordres d'activation (ACTORD) des forces de l'OTAN à une nouvelle décision du Conseil.
