@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010634126
+
+- Question : [SEQ010634126](seq010634126.md) — Initiatives tendant à une abolition de la peine de mort dans le monde
+
+## Réponse
+
+*Justice, JO du 2001-09-06, page 2908*
+
+La garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire, qu'elle partage son souci de faire jouer à la France un rôle essentiel en matière de protection des droits de l'homme. En ce sens, la France manifeste régulièrement son attachement au principe de l'abolition de la peine de mort dans tous les pays. En outre, depuis 1998, l'abolition universelle de la peine de mort est devenue l'une des priorités de l'Union européenne en matière de droits de l'homme. Des orientations communes ont ainsi été adoptées pour fixer le cadre de l'action des quinze. Elles prévoient des démarches générales appelant à l'abolition de la peine de mort et encouragent si nécessaire, dans un premier temps des démarches en faveur de cas individuels, lorsqu'il apparaît notamment que les normes internationales sont violées. Durant la présidence française de l'Union européenne, cette politique a été activement poursuivie. Cette question a ainsi été évoquée dans le cadre du dialogue mené avec les grands partenaires de l'union européenne, au nombre desquels figurent la Chine et les Etat-Unis. Par ailleurs, avec ses partenaires européens, la France est à l'origine d'une résolution de la commission des droits de l'homme des Nations unies qui rencontre chaque année, depuis 1998, un large soutien. Ce texte, qui appelle notamment les Etats appliquant le peine de mort à adopter des moratoires et, plus généralement, à respecter les normes minimales agréées dans les différentes enceintes des Nations unies, a de nouveau été adopté cette année à une large majorité. Pour la première fois, cette résolution appelle l'attention de la communauté internationale sur le sort réservé aux condamnés à la peine de mort qui étaient mineurs au moment des faits.
