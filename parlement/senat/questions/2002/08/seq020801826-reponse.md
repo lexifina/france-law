@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020801826
+
+- Question : [SEQ020801826](seq020801826.md) — Situation des emplois-jeunes dans l'éducation nationale
+
+## Réponse
+
+*Jeunesse, JO du 2002-10-31, page 2562*
+
+Les aides-éducateurs recrutés sur contrat de droit privé à durée déterminée, en application des articles L. 322-4-18 et suivants du code du travail, relatifs au développement d'activités pour l'emploi des jeunes, n'ont pas vocation à être maintenus sur leur poste au terme de leur contrat. Les emplois d'aides-éducateurs ont été conçus pour assurer aux jeunes une situation temporaire, mais d'une durée suffisante, au cours de laquelle ils peuvent acquérir une expérience professionnelle et élaborer ou parfaire un projet professionnel facilitant leur insertion future. Plusieurs dispositions ont été prises pour améliorer les conditions de mise en oeuvre des parcours de formation ou d'insertion : en particulier le volume d'heures de formation au cours des deux dernières années du contrat peut être majoré de manière conséquente si le projet professionnel du jeune le nécessite. L'ouverture de concours de 3e voie, qui a répondu également à une forte demande, a élargi l'accès aux métiers de l'enseignement et de l'administration. Enfin, une mesure spécifique permet aux aides-éducateurs recrutés avant le 30 juin 1998 de prolonger leur contrat de travail jusqu'au 30 juin 2003. Ce délai permettra à ceux dont les parcours de professionnalisation ont débuté tardivement de finaliser ou consolider leur formation. Il facilitera la mise en place d'actions d'accompagnement vers l'emploi. Par ailleurs, de nouvelles dispositions sont à l'étude pour consolider dans les établissements scolaires, au-delà du programme emplois jeunes, les activités actuellement assurées par les aides-éducateurs, en particulier les fonctions relatives à l'accueil des élèves handicapés.
