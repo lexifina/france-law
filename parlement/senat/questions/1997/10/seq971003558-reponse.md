@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971003558
+
+- Question : [SEQ971003558](seq971003558.md) — Financement du logement social
+
+## Réponse
+
+*Logement, JO du 1998-04-09, page 1164*
+
+Réponse. - Parralèlement au prélèvement opéré sur les ressources du 1 % logement par le précédent gouvernement, le mouvement du 1 % logement s'est engagé à maintenir en 1997 et en 1998 la capacité d'investissement de la participation des employeurs. A cette fin, l'union d'économie sociale du logement (UESL) a pris plusieurs mesures en particulier la mobilisation de la trésorerie des associés collecteurs, la définition de priorités d'investissement, et le recours à l'emprunt. L'emprunt contracté par l'UESL auprès du Crédit local de France est assorti d'une garantie sous forme de nantissement de créances. Le conseil d'administration de l'UESL a mis en place des critères et une procédure d'octroi des prêts aux comités interprofessionnels du logement (CIL) et chambres de commerce et d'industrie (CCI). Notamment, en 1997, pour qu'ils puissent emprunter, la capacité de remboursement des associés collecteurs ne devait pas excéder 20 % des retours comprenant à la fois les prêts aux personnes physiques et les prêts aux personnes morales. Pour les prêts de 1998, un aménagement des critères d'octroi a été décidé par le conseil d'administration de l'UESL et en particulier la suppression du ratio " charges de remboursement à l'UESL sur retours annuels " de 20 %. Les organismes qui ont beaucoup investi ces dernières années sous forme de prêts à personnes morales avec un différé d'amortissement bénéficieront de cet assouplissement des critères en 1998. L'ensemble de ces dispositifs a une durée de vie limitée puisqu'il avait été mis en place jusqu'à fin 1998. M. le Premier ministre a saisi le Conseil économique et social d'une demande d'avis sur les dispositifs du 1 % logement qui éclairera les décisions gouvernementales concernant les dispositions à prendre pour les prochaines années.
