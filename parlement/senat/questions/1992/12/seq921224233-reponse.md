@@ -1,0 +1,9 @@
+# Réponse à la question SEQ921224233
+
+- Question : [SEQ921224233](seq921224233.md) — Comptabilité des services publics locaux de distribution d'eau et d'assainissement
+
+## Réponse
+
+*Collectivités locales, JO du 1993-03-04, page 379*
+
+Réponse. - L'honorable parlementaire fait état de difficultés d'interprétation et d'application de l'instruction M 49 relative aux services d'eau et d'assainissement. Il est rappelé que cette instruction constitue une adaptation du plan comptable général, appliqué depuis 1982 dans le secteur privé, et que le décret du 29 décembre 1962 rend opposable aux organismes publics, dont certains disposent déjà d'une comptabilité de ce type, notamment les hôpitaux, les offices publics d'HLM et et les services publics industriels et commerciaux. Le Gouvernement est toutefois conscient des changements induits par cette adaptation et a pris, depuis le début de l'année 1992, des mesures visant à développer la formation à destination du personnel de l'Etat concerné par ces réformes. Les organismes de formation du personnel de la fonction publique territoriale ont également, de leur côté, entrepris des actions en ce sens, le plus souvent au niveau régional. Il apparaît éminemment souhaitable que tous les fonctionnaires qui auront à pratiquer cette nouvelle comptabilité participent dès à présent aux sessions organisées à leur profit. Il n'y a pas lieu, en revanche, de différer l'application de cette instruction, qui devait déjà intervenir au 1er janvier 1992, et pour laquelle des reports ont déjà été consentis. Les délais supplémentaires susceptibles d'être accordés aux communes de moins de 2 000 habitants pour l'année 1993 et de moins de 1 000 habitants pour l'année 1994 permettront à ces collectivités, en recourant à ces actions de formation, de lever les éventuelles incertitudes sur l'interprétation de la nouvelle comptabilité et sur son application.
