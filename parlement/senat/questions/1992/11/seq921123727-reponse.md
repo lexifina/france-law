@@ -1,0 +1,9 @@
+# Réponse à la question SEQ921123727
+
+- Question : [SEQ921123727](seq921123727.md) — Mesures en faveur des départements d'outre-mer
+
+## Réponse
+
+*Départements et territoires d'Outre-mer (DOM-TOM), JO du 1993-02-04, page 182*
+
+Réponse. - La Guyane a connu en 1992 une situation économique spécifique, qui n'est pas transposable à d'autres régions d'outre-mer. Aux difficultés budgétaires de la région et de certaines communes et à une conjoncture économique générale déprimée s'ajoutent des particularités locales, telles l'arrivée à leur terme normal de grands chantiers de constructions, générateurs de flux économiques importants, ainsi que des difficultés dans certains secteurs (crevette, bois). Cette situation justifiait un effort de solidarité nationale alors même que la région Guyane s'était engagée dans un plan d'ensemble prévoyant des mesures de rigueur, tant en matière de fonctionnement qu'en matière d'investissements. L'aide de l'Etat ne représente que 10 p. 100 environ de ce plan de redressement. L'Etat, dont l'intervention est adaptée aux spécificités des situations locales, assume pleinement ses responsbilités à l'égard de chaque région d'outre-mer. S'agissant de la Guadeloupe, une enveloppe de 30 MF de crédits de paiement du FIDOM a d'ores et déjà fait l'objet d'une affectation. De même, la procédure de versement relative aux fonds européens (72 MF), à la créance de proratisation (383 MF) et aux trois quarts de la ligne budgétaire unique (512 MF), sera accélérée afin que ces crédits puissent faire l'objet d'un engagement comptable au premier trimestre 1993. Ces deux derniers versements généreront, dans le domaine du logement social, environ 900 MF de marchés. Il a été décidé par ailleurs de prolonger d'un an le plan Hugo. Enfin, d'autres crédits au titre du FIDOM et des constructions publiques compléteront cet ensemble de mesures dès 1993.
