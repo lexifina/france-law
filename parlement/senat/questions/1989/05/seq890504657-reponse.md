@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890504657
+
+- Question : [SEQ890504657](seq890504657.md) — Construction de maisons médicalisées pour personnes âgées
+
+## Réponse
+
+*Famille, JO du 1991-10-10, page 2230*
+
+Réponse. - Le Gouvernement, conscient des besoins d'accueil des personnes âgées dépendantes, dont l'augmentation devrait croître avec le vieillissement de la population, a décidé la création de places médicalisées dans les établissements qui accueillent des personnes âgées ainsi que dans les services de soins infirmiers à domicile. C'est ainsi que la circulaire ministérielle du 22 janvier 1991 a permis la mise en place du programme pluri-annuel de création de places de services de soins infirmiers à domicile, de sections de cure médicale et de longs séjours dans les établissements et services pour personnes âgées. Au total, ce sont plus de 45 000 places médicalisées supplémentaires qui seront créées d'ici à 1993, grâce à une enveloppe complémentaire hors redéploiement de l'assurance maladie dont l'attribution sera progressive. Par ailleurs, diverses mesures ont été récemment adoptées par le Gouvernement et s'articulent autour de quatre axes principaux : développer et diversifier les moyens du maintien à domicile afin de permettre aux personnes âgées de rester dans leur environnement habituel aussi longtemps que leur état de santé le permet ; favoriser la qualité de vie des établissements ; encourager les solidarités familiales et de voisinage ; améliorer le dispositif de prise en charge des personnes âgées dépendantes. Dans ce but, une commission, réunie auprès du commissariat général au Plan, a été chargée de proposer au Gouvernement les réformes à apporter au dispositif actuel. Sur la base de ces travaux ainsi que des conclusions de la mission parlementaire présidée par M. Boulard, le Gouvernement proposera les mesures qui s'imposent.
