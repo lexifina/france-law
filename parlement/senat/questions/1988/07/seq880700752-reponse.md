@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880700752
+
+- Question : [SEQ880700752](seq880700752.md) — Suppression des cabines téléphoniques publiques non rentables
+
+## Réponse
+
+*Postes, JO du 1988-09-15, page 1027*
+
+Réponse. - Le parc de cabines publiques connaît actuellement un redéploiement qui traduit l'évolution de la mission du téléphone public. Dès lors que le taux d'équipement téléphonique des ménages dépasse 95 p. 100, le téléphone public ne peut plus être considéré comme un substitut au téléphone à domicile. France Télécom cherche donc à adapter le mieux possible son parc de téléphones publics à la demande, en renforçant l'offre dans les lieux de forte fréquentation : c'est ainsi que de 199 000 en 1985, le nombre de points d'accès au téléphone public est passé aujourd'hui à 230 000. Le redéploiement ne doit pas se traduire par la suppression de toutes les cabines non rentables, et à cet égard l'engagement pris par France Télécom de maintenir au moins une cabine à sa charge dans chaque commune traduit son respect de la mission de service public qui lui est dévolue. Dans le cas où les communes souhaitent d'autres cabines, diverses solutions leur sont proposées :renforcement saisonnier du parc dans le cas de communes touristiques ; location-entretien de publiphones ou de pointphones ; la prise en charge par la collectivité locale du déficit éventuel d'une cabine dont la rentabilité ne semble pas assurée peut être également proposée. Quant à l'implantation des cabines à cartes à mémoire, elle n'a pour le moment été effectuée qu'en milieu urbain, ou à tout le moins dans des localités à forte fréquentation touristique. Bien qu'en développement rapide, le parc de cabines à cartes est en effet très inférieur à celui des cabines à pièces, et il n'est pas actuellement envisagé d'installer des publiphones à cartes en milieu rural proprement dit.
