@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870907707
+
+- Question : [SEQ870907707](seq870907707.md) — Oblitération postale : impression du code postal sur les flammes
+
+## Réponse
+
+*Postes et télécommunications, JO du 1987-11-05, page 1765*
+
+Réponse. -Dès le lancement du code postal en 1977, l'opportunité de l'inclure tant sur les flammes que les couronnes d'oblitération du courrier a été envisagée mais n'a pas été retenue. Il existe en effet environ 18 000 établissements postaux d'où sont expédiées les correspondances mais 6 000 d'entre eux seulement participent à la distribution du courrier et disposent ainsi d'un numéro de code postal qui est l'identification de la zone de distribution dévolue au bureau. En zone rurale, le fait que pourraient coexister sur les empreintes d'oblitération le nom de la commune et l'établissement distributeur de rattachement conduirait à une modification matérielle coûteuse et techniquement irréalisable dans la plupart des cas en raison de l'espace disponible sur les empreintes. En outre, des confusions dommageables pour le bon acheminement des correspondances naîtraient dans l'esprit du public. En zone urbaine, il existe, dans les métropoles notamment, plusieurs bureaux distributeurs à l'intérieur d'une même commune. En outre, les clients et les services publics destinataires d'un courrier important sont également identifiés par des codes postaux spécifiques, c'est-à-dire différents de ceux attribués à leur zone de résidence. Ce nombre de codes est donc dans les cas d'espèce très supérieur au nombre de communes et rend inopérante la mesure proposée. Enfin, le public dispose de toute latitude pour effectuer des dépôts de courrier en dehors de la circonscription du bureau desservant son domicile. Cette possibilité retire toute valeur d'information, du point de vue du code postal, aux marques d'oblitération apposées sur les objets déposés dans ces conditions.
