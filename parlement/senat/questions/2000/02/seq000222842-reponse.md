@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000222842
+
+- Question : [SEQ000222842](seq000222842.md) — Devenir de l'institut de formation en soins infirmiers du centre hospitalier d'Aubagne
+
+## Réponse
+
+*Emploi, JO du 2000-07-06, page 2394*
+
+Réponse. - La région Provence-Alpes-Côtes d'Azur, qui comptait en 1998 plus de 35 600 infirmiers et 24 instituts de formation en soins infirmiers (IFSI), est l'une des régions où la densité d'infirmiers est la plus forte, soit 794 infirmiers pour 100 000 habitants en 1999 alors que la moyenne nationale est de 681. Cette région compte également 36 écoles d'aides-soignants qui ont délivré 1038 diplômes professionnels en 1999. Les écoles des Bouches-du-Rhône délivrent près de la moitié des diplômes d'aide-soignant et d'infirmier obtenus dans cette région. Le quota déterminé pour les IFSI de cette région était en 1999 de 1100 places. L'arrivée massive à l'âge de la retraite dès 2003 de nombreux infirmiers et la mise en uvre de la réduction du temps de travail dans la fonction publique hospitalière avant 2002 ont conduit à augmenter de 8000 le nombre de places offertes à la rentrée 2000 dans les IFSI et de le porter à 26 436 places. Cette mesure permettre de maintenir et l'améliorer les conditions de travail de cette profession et la qualité des soins dans les établissements de santé. Le quota de la région Provence-Alpes-Côtes d'Azur a été fixé à 1 600 pour l'année 2000 ce qui représente une augmentation de 36,36 % par rapport à l'année 1999. Il sera réparti par le préfet de la région Provence-Alpes-Côte d'Azur entre les différents IFSI relevant de son ressort géographique. Dans ce cadre, le préfet concerné a prévu d'attribuer à l'institut de formation en soins infirmiers d'Aubagne un quota de 40 étudiants, ce qui représente une augmentation très substantielle par rapport à l'année 1999 où ce quota était fixé à 25 étudiants.
