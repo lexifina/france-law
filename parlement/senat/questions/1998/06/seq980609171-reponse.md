@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980609171
+
+- Question : [SEQ980609171](seq980609171.md) — Sensibilisation des jeunes aux dangers des sectes
+
+## Réponse
+
+*Premier ministre, JO du 1998-10-29, page 3429*
+
+Réponse. - L'honorable parlementaire attire l'attention de M. le Premier ministre sur les mesures destinées à sensibiliser les jeunes aux dangers des sectes. Le Gouvernement est extrêmement attentif à la mise en uvre d'une politique efficace de lutte contre le développement du phénomène sectaire dans le respect des principes démocratiques et républicains. Lors du conseil des ministres, le 7 octobre dernier, le Premier ministre a présenté un décret instituant une mission interministérielle de lutte contre les sectes. Cette institution a vocation à se substituer à l'Observatoire interministériel sur les sectes qui a fonctionné pendant près de deux ans et a permis de compléter le travail d'information accompli par la commission d'enquête parlementaire présidée par M. Alain Gest. Aujourd'hui, la volonté du Gouvernement est de se doter d'une structure plus opérationnelle, réunissant des représentants des principales administrations concernées, parmi lesquels des représentants du ministère de l'éducation nationale, mais aussi du ministère de la justice, de l'intérieur, de l'emploi et de la solidarité, et de la défense. Cette mission sera dotée de moyens propres et pourra signaler aux parquets et aux administrations compétentes (administrations fiscales et sociales notamment) les agissements contraires à la loi dont elle aura pris connaissance. Par ailleurs, en matière législative, le Gouvernement a enregistré avec satisfaction la mobilisation des parlementaires sur ce sujet à l'occasion de l'adoption par la Haute Assemblée, le 29 juin dernier, de la proposition de loi d'initiative sénatoriale visant à renforcer le contrôle de l'obligation scolaire.
