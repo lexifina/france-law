@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700248
+
+- Question : [SEQ020700248](seq020700248.md) — Sanctions à l'encontre des cardiologues dans le cadre de la maîtrise des dépenses de santé
+
+## Réponse
+
+*Santé, JO du 2003-01-23, page 292*
+
+L'honorable parlementaire attire l'attention du ministre de la santé, de la famille et des personnes handicapées sur les mesures qui auraient été prises récemment à l'encontre des cardiologues dans le cadre de la maîtrise des dépenses de santé. Il est vrai que la loi de financement de la sécurité sociale pour 2000 a introduit le système dit des " lettres-clés flottantes ". Dans ce dispositif, si l'évolution des dépenses n'était pas compatible avec l'objectif initial, les caisses et les professionnels ou, en cas de désaccord, les caisses unilatéralement, pouvaient prendre des mesures de toute nature pour rétablir l'équilibre initialement prévu. Il pouvait s'agir de toute action visant à réduire le volume des actes non justifiés au plan médical et de modifications, dans la limite de 20 %, de la cotation des actes inscrits à la nomenclature établie pour les actes pris en charge par l'assurance maladie. Dans ce contexte, la régulation des dépenses de santé par les caisses nationales d'assurance maladie s'est traduite, du fait de l'évolution des dépenses des spécialistes et notamment des cardiologues, par une baisse du tarif de la consultation spécifique CSC de 48,78 EUR à 45,73 EUR ainsi que par une baisse du coefficient de la coronarographie diagnostique (traitement de l'obstruction des coronaires) de Z340 à Z300 et des actes en KE. Aucune nouvelle mesure n'est cependant intervenue depuis lors. Le Gouvernement a d'ailleurs entendu tirer les conséquences du constat du caractère impraticable de la régulation par le système dit des " lettres-clés flottantes ", qui était fortement contesté par les professionnels de santé. La loi de financement de la sécurité sociale pour 2003 supprime ainsi définitivement ce dispositif.
