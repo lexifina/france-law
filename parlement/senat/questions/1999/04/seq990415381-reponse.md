@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990415381
+
+- Question : [SEQ990415381](seq990415381.md) — Personnels ouvriers et techniques de l'éducation nationale du Doubs et de Franche-Comté
+
+## Réponse
+
+*Éducation, JO du 1999-06-17, page 2060*
+
+Réponse. - Lors de la dernière rentrée scolaire l'académie de Besançon, située au huitième rang du classement général des académies au regard de leurs charges et de leurs moyens, disposait de 37,8 ATOS pour 1 000 élèves, alors qu'au plan national, la moyenne était de 33,5 pour 1 000 ; s'agissant plus particulièrement des personnels ouvriers et de service, le taux moyen d'encadrement (23,1 pour 1 000) s'avérait également supérieur au taux moyen national (19,8 pour 1 000). De ce fait, l'académie de Besançon n'a pas été retenue au nombre des attributaires des 216 emplois ATOS créés en loi de finances 1999. En revanche, la dotation académique en crédit de suppléance a été majorée d'une somme correspondant à un équivalent temps plein. Conformément aux règles de déconcentration, il appartient au recteur de fixer, en fonction des priorités définies localement, le volume de la dotation attribuée aux quatre départements placés sous son autorité, dans le souci d'une adaptation optimale entre les besoins recensés et les moyens globalement disponibles. A cet égard, la démarche de contractualisation engagée par l'administration centrale, et visant notamment à partager avec l'autorité académique des outils de connaissance et d'analyse des situations, devrait permettre d'améliorer les conditions de répartition des moyens au plan local. Enfin, le renforcement des effectifs ATOS figure au nombre des mesures qui seront proposées par le ministère de l'éducation nationale, de la recherche et de la technologie, dans le cadre de la préparation du projet de loi de finances 2000.
