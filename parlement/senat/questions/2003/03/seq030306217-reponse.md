@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030306217
+
+- Question : [SEQ030306217](seq030306217.md) — Composition de la commission d'un appel d'offres d'un groupement de commandes constituées de deux ou trois membres
+
+## Réponse
+
+*Économie, JO du 2003-05-22, page 1683*
+
+Si la décision prise par des collectivités de regrouper leurs achats s'inscrit en général dans une démarche de mutualisation des besoins et de réduction des coûts, elle suppose toutefois un minimum de consensus entre ses membres. Par ailleurs, l'élaboration de la convention constitutive du groupement permet d'imposer un certain nombre de conditions devant nécessairement être remplies préalablement à la signature du contrat. Il appartient par conséquent aux collectivités membres d'un groupement de prévoir dans la convention constitutive les garanties minimales qui devront être respectées lors du choix du titulaire du marché. La rédaction de telles dispositions dans la convention constitutive permet ainsi que le choix, qui sera finalement fait par le coordonnateur, corresponde bien aux exigences minimales que la ou les autres collectivités membres du groupement considèrent comme indispensables. Dans ces conditions, un membre de groupement ne peut se voir imposer par le coordonnateur un marché qui ne correspondrait pas à ses attentes, sous réserve qu'elles aient été exprimées clairement au préalable. Les règles actuelles permettant de remédier aux difficultés soulevées par l'auteur de la question, le Gouvernement n'envisage pas d'ajouter des contraintes supplémentaires aux modalités de fonctionnement des groupements de commandes. Dans ce domaine, comme pour l'ensemble du droit de la commande publique en général, la liberté d'organisation des acheteurs doit l'emporter sur la prétention de tout prévoir et organiser dans le code, qui se retourne, en pratique, contre les acheteurs et leurs fournisseurs.
