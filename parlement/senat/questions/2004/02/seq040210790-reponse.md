@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040210790
+
+- Question : [SEQ040210790](seq040210790.md) — Réécriture du décret sur le régime spécial des pensions du personnel du Centre d'essai des propulseurs
+
+## Réponse
+
+*Défense, JO du 2004-03-25, page 718*
+
+Actuellement, les dispositions du décret n° 65-836 du 24 septembre 1965 et du décret n° 67-711 du 18 août 1967 relatifs au régime des pensions des ouvriers des établissements industriels de l'Etat permettent aux ouvriers de l'Etat ayant exercé pendant quinze années de leur carrière des travaux comportant des risques particuliers d'insalubrité de partir à la retraite avec jouissance immédiate de leur pension à cinquante-cinq ans. Les intéressés doivent avoir accompli pendant chacune des quinze années, soit 180 jours de service, soit 300 heures de travail dans l'un des emplois insalubres ou dans l'une des catégories de travaux insalubres déterminés aux annexes I et II du décret du 18 août 1967 précité. La loi du 21 août 2003 portant réforme des retraites prévoit dans son article 40 la transposition d'un certain nombre de dispositions du régime des pensions civiles et militaires au régime des pensions des ouvriers des établissements industriels de l'Etat. Ces dispositions sont applicables dans des conditions déterminées, en tant que de besoin, par décret en Conseil d'Etat. Le projet de décret permettant la transposition aux ouvriers de l'Etat des dispositions relatives aux services actifs des fonctionnaires est actuellement en cours d'examen au Conseil d'Etat. Il maintient le droit au départ anticipé dès l'âge de cinquante-cinq ans aux ouvriers qui ont effectué quinze ans de travaux insalubres. Par ailleurs, alors que la décote est appliquée au calcul de la pension des fonctionnaires de la catégorie active à partir de 2006, les ouvriers de l'Etat concernés par le départ à la retraite à cinquante-cinq ans se verront appliquer le coefficient de minoration à compter de 2009.
