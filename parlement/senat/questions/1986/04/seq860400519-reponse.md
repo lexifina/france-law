@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860400519
+
+- Question : [SEQ860400519](seq860400519.md) — Réforme des services extérieurs et suppressions d'emplois à l'ONF
+
+## Réponse
+
+*Agriculture, JO du 1986-07-24, page 1033*
+
+Réponse. -Dans une conjoncture économique difficile, l'office national des forêts doit améliorer son efficacité afin de mieux assumer l'ensemble de ses missions au profit de la forêt publique. La réduction prévue des effectifs, à réaliser entre 1986 et 1988, dans le cadre du contrat de plan conclu entre l'Etat et l'office, se fera sans licenciement grâce aux départs naturels ainsi qu'à un redéploiment limité des personnels. C'est l'objet de la réorganisation des extérieurs, qui vise à une adaptation de l'organisation actuelle à la nature et au poids des missions à accomplir et à une présence efficace de l'établissement aux différents niveaux territoriaux, et tout spécialement auprès des communes forestières. Ces mesures doivent concourir à l'amélioration de la productivité globale de l'office et au rétablissement de son équilibre financier, qui seul permettra de retrouver et de maintenir un niveau satisfaisant de ses travaux. En contrepartie de cet effort, l'Etat s'est engagé, sur la durée du contrat de plan, à maintenir en francs constants le niveau 1986 le " versement compensateur " attribué à l'office pour couvrir le coût de ses interventions en forêt communale. C'est un geste significatif dans le contexte de rigueur budgétaire. Pour le département des Ardennes, la réduction des effectifs sera minime (2 p. 100 de la masse indiciaire) et limitée à un poste d'attaché administratif (déjà vacant), un poste de technicien et un poste d'agent technique, alors que seront créés deux postes d'agent de bureau. Ces évolutions ne devraient pas avoir de conséquences sur l'emploi dans les communes forestières, ni sur la mise en valeur forestière du département des Ardennes.
