@@ -56,41 +56,17 @@ II
 
 |
 
-Ecole technique normale de l'armement
-
-|
-
-III
-
-|
-
-Ecole technique préparatoire de l'armement
-
-|
-
-III
-
-|
-
-Ecole de formation technique normale :
+Ecoles de formation technique :
 
 |
 
 |
 
-2e année
+2e et 3e années
 
 |
 
 IV
-
-|
-
-1re année
-
-|
-
-V
 
 |
 
@@ -224,6 +200,12 @@ II
 
 |
 
+Cycles de formation des coordonnateurs et déélgués régionaux en hygiène et sécurité du travail |
+
+II
+
+|
+
 Cycles de formation des infirmiers et infirmières civiles de l'Etat
 
 |
@@ -328,9 +310,21 @@ III
 
 |
 
+Cycles de formation des conseillers techniques de service social |
+
+II
+
+|
+
 Cycles de formation des agents comptables
 
 |
+
+II
+
+|
+
+Cycles de formation des officiers et ingénieurs en hygiène et sécurité du travail |
 
 II
 
@@ -352,7 +346,7 @@ III
 
 |
 
-Cycles de formation des assistants et assistantes de service social
+Cycles de formation des assistants de service social
 
 |
 
@@ -360,7 +354,7 @@ III
 
 |
 
-Cycles de formation des infirmiers et infirmières de l'Etat et des infirmières civiles des hôpitaux militaires
+Cycles de formation des infirmiers et infirmières civils de l'Etat
 
 |
 
@@ -380,7 +374,7 @@ Cycles de formation des agents sur contrat de 3e catégorie C
 
 |
 
-lII
+II
 
 |
 
@@ -416,6 +410,12 @@ III
 
 |
 
+Cycles de formation des chargés de prévention en hygiène et sécurité |
+
+III
+
+|
+
 Cycles de formation des inspecteurs de service intérieur et du matériel
 
 |
@@ -436,7 +436,7 @@ Cycles de formation des techniciens à statut ouvrier T. 4 à T. 5 bis
 
 |
 
-IV
+III
 
 |
 
@@ -464,7 +464,7 @@ IV
 
 |
 
-Cycles de formation des commis et des adjoints administratifs
+Cycles de formation des adjoints administratifs
 
 |
 
@@ -472,17 +472,13 @@ IV
 
 |
 
-Cycles de formation des secrétaires sténodactylographes et des sténodactylographes
-
-|
+Cycles de formation des agents administratifs |
 
 IV
 
 |
 
-Cycles de-formation des agents des transmissions et de l'électronique
-
-|
+Cycles de formation des agents des services techniques |
 
 IV
 
@@ -497,14 +493,6 @@ V
 |
 
 Cycles de formation des contremaîtres et des agents principaux des services techniques
-
-|
-
-IV
-
-|
-
-Cycles de formation des téléphonistes (chef de standard)
 
 |
 
@@ -531,14 +519,6 @@ T. 2 et T. 3
 |
 
 IV
-
-|
-
-T. 0 et T. 1
-
-|
-
-V
 
 |
 
@@ -574,31 +554,7 @@ IV
 
 |
 
-Cycles de formation des téléphonistes et téléphonistes principaux
-
-|
-
-IV
-
-|
-
-Cycles de formation des agents techniques de bureau
-
-|
-
-IV
-
-|
-
-Cycles de formation des ouvriers groupes III et IV
-
-|
-
-V
-
-|
-
-Cycles de formation des huissiers
+Cycles de formation des ouvriers groupes IVN
 
 |
 

@@ -20,7 +20,13 @@ II
 
 |
 
-Préparation à l'examen professionnel d'inspecteur principal adjoint d'études des transmissions
+Préparation à l'examen professionnel de chef de service administratif de 2e classe des services déconcentrés |
+
+II
+
+|
+
+Préparation à l'examen professionnel d'inspecteur principal de 2e classe des transmissions
 
 |
 
@@ -52,9 +58,15 @@ II
 
 |
 
-Préparation au concours d'accès aux corps des attachés de service administratif des services extérieurs et d'administration centrale
+Préparation au concours d'accès aux corps des attachés de service administratif des services déconcentrés et d'administration centrale
 
 |
+
+II
+
+|
+
+Préparation au concours d'accès aux corps des conseillers techniques de service social |
 
 II
 
@@ -84,15 +96,7 @@ III
 
 |
 
-Préparation aux examens professionnels pour l'accès au grade de technicien chef de travaux principal
-
-|
-
-III
-
-|
-
-Préparation aux examens professionnels pour l'accès au grade de secrétaire administratif en chef
+Préparation aux examens professionnels pour l'accès au grade de secrétaire administratif de classe exceptionnelle
 
 |
 
@@ -116,7 +120,7 @@ III
 
 |
 
-Préparation aux concours d'accès aux corps des secrétaires administratifs des services extérieurs et d'administration centrale
+Préparation aux concours d'accès aux corps des secrétaires administratifs des services déconcentrés et d'administration centrale
 
 |
 
@@ -140,7 +144,7 @@ III
 
 |
 
-Préparation aux concours d'accès au corps des infirmières
+Préparation aux concours d'accès au corps des infirmières et des infirmiers
 
 |
 
@@ -148,7 +152,7 @@ III
 
 |
 
-Préparation aux concôurs d'accès au corps des assistantes sociales
+Préparation aux concôurs d'accès au corps des assistants de service social
 
 |
 
@@ -172,7 +176,7 @@ IV
 
 |
 
-Préparation aux concours d'accès au corps des commis et des adjoints administratifs
+Préparation aux concours d'accès au corps des adjoints administratifs
 
 |
 
@@ -183,6 +187,12 @@ IV
 Préparation aux examens professionnels pour la vérification d'aptitude aux fonctions d'agent de traitement
 
 |
+
+IV
+
+|
+
+Préparation au concours d'accès au corps des maîtres ouvriers |
 
 IV
 
@@ -204,30 +214,6 @@ IV
 
 |
 
-Préparation aux concours d'accès au corps des agents des transmissions et de l'électronique
-
-|
-
-IV
-
-|
-
-Préparation aux concours d'accès au corps des sténodactylographes
-
-|
-
-IV
-
-|
-
-Préparation aux examens professionnels pour la vérification d'aptitude aux fonctions d'agent technique de bureau
-
-|
-
-IV
-
-|
-
 Préparation aux examens professionnels pour la vérification d'aptitude aux fonctions de monitrice de dactylocodage
 
 |
@@ -236,7 +222,7 @@ IV
 
 |
 
-Préparation pour l'avancement de groupe des ouvriers des professions non graphiques (groupes III et IV)
+Préparation pour l'avancement de groupe des ouvriers des professions non graphiques (groupes IVN)
 
 |
 

@@ -12,7 +12,7 @@ dans les groupes
 
 |
 
-Jury pou l'avancement du groupe des ouvriers (Groupes III et IV)
+Jury pour l'avancement du groupe des ouvriers (Groupes III et IV)
 
 |
 
@@ -28,7 +28,15 @@ I
 
 |
 
-Jury de concours pour l'admission directe au grade d'ingénieurs des études et techniques des travaux maritimes
+Jury de concours pour l'admission directe au grade d'ingénieurs des études et techniques de travaux maritimes
+
+|
+
+I
+
+|
+
+Jury de l'examen professionnel pour l'accès au grade d'inspecteur principal de 2e classe des transmissions
 
 |
 
@@ -36,15 +44,7 @@ II
 
 |
 
-Jury de l'examen professionnel pour l'accès, au choix, au grade d'inspecteur principal adjoint d'études des transmissions
-
-|
-
-II
-
-|
-
-Jury d'examen professionnel pour le recrutement, au choix, dans le corps des ingénieurs des études et techniques des travaux maritimes
+Jury d'examen professionnel pour le recrutement dans le corps des ingénieurs des études et techniques de travaux maritimes
 
 |
 
@@ -60,14 +60,6 @@ II
 
 |
 
-Jury de l'examen professionnel pour l'accès, au choix, au corps des inspecteurs des transmissions
-
-|
-
-II
-
-|
-
 Jury de concours pour l'accès au corps des ingénieurs d'études et de fabrications
 
 |
@@ -76,7 +68,7 @@ II
 
 |
 
-Jury de concours ou d'examen pour l'accès au corps de techniciens supérieurs d'études et de fabrication
+Jury de concours pour l'accès au corps des techniciens supérieurs d'études et de fabrication
 
 |
 
@@ -87,6 +79,18 @@ III
 Jury de concours pour l'accès au corps administratif supérieur
 
 |
+
+II
+
+|
+
+Jury de concours pour l'accès au corps des conseillers techniques de service social |
+
+II
+
+|
+
+Jury de l'examen professionnel pour l'accès au grade de chef de service administratif de 2e classe des services déconcentrés |
 
 II
 
@@ -132,7 +136,7 @@ III
 
 |
 
-Jury d'examen professionnel pour l'accès au grade de contrôleur divisionnaire
+Jury d'examen professionnel pour l'accès au grade de contrôleur des transmissions de classe exceptionnelle
 
 |
 
@@ -148,7 +152,7 @@ III
 
 |
 
-Jury d'examen professionnel pour l'accès au grade de secrétaire administratif en chef
+Jury d'examen professionnel pour l'accès au grade de secrétaire administratif de classe exceptionnelle (administration centrale et services déconcentrés)
 
 |
 
@@ -156,39 +160,21 @@ III
 
 |
 
-Jury de concours pour l'accès au corps des infirmières
+Jury de concours pour l'accès au corps des infirmiers et des infirmières
 
 |
+
+III
+
+|
+
+Jury d'examen professionnel pour l'accès au grade d'infirmier en chef ou d'infirmière en chef des services médicaux des administrations de l'Etat |
 
 III
 
 |
 
 Jury de concours pour l'accès au corps des assistants de service social
-
-|
-
-III
-
-|
-
-Jury de concours d'entrée à l'école technique normale de l'armement
-
-|
-
-III
-
-|
-
-Jury de sortie de l'école technique préparatoire de l'armement
-
-|
-
-III
-
-|
-
-Jury de sortie de l'école technique normale de l'armement
 
 |
 
@@ -242,14 +228,6 @@ III
 
 |
 
-Jury de l'examen de sortie du cours de technicien des P.T.T. ou cours équivalent (service technique des transmissions de la marine)
-
-|
-
-III
-
-|
-
 Jury de concours pour l'accès au corps des agents techniques de l'électronique
 
 |
@@ -266,7 +244,7 @@ IV
 
 |
 
-Jury de sortie de l'école de formation technique normale
+Jury de sortie des écoles de formation technique
 
 |
 
@@ -274,7 +252,7 @@ IV
 
 |
 
-Jury de concours pour l'accès au corps des agents des transmissions et de l'électronique
+Jury de concours pour l'accès aux corps des adjoints administratifs
 
 |
 
@@ -282,17 +260,19 @@ IV
 
 |
 
-Jury de concours pour l'accès aux corps des commis et des adjoints administratifs
-
-|
+Jury de concours pour l'accès aux corps des agents administratifs |
 
 IV
 
 |
 
-Jury de concours pour l'accès aux corps des secrétaires sténodactylographes et des sténodactylographes
+Jury de concours pour l'accès aux corps des agents des services techniques |
+
+IV
 
 |
+
+Jury de concours pour l'accès aux corps des maîtres ouvriers et ouvriers professionnels |
 
 IV
 
@@ -336,7 +316,7 @@ IV
 
 |
 
-Jury pour l'avancement de groupe des T. S. 0. T. 0 à T. 3
+Jury pour l'avancement de groupe des techniciens à statut ouvrier T. 0 à T. 3
 
 |
 
@@ -360,7 +340,19 @@ IV
 
 |
 
-Jury du concours d'entrée à l'école de formation technique normale
+Jury de l'examen professionnel de conducteur dépanneur |
+
+IV
+
+|
+
+Jury de l'examen professionnel de chef de garage |
+
+IV
+
+|
+
+Jury du concours d'entrée des écoles de formation technique
 
 |
 
@@ -368,51 +360,7 @@ V
 
 |
 
-Jury de concours pour l'accès au corps des téléphonistes
-
-|
-
-IV
-
-|
-
-Jury d'examen professionnel pour la vérification d'aptitude aux fonctions de :
-
-|
-
-|
-
-Dactylocodeur
-
-|
-
-IV
-
-|
-
-Agent technique de bureau :
-
-|
-
-|
-
-Dactylographe
-
-|
-
-IV
-
-|
-
-Dactylocodeur
-
-|
-
-IV
-
-|
-
-Jury pour l'avancement de groupe des ouvriers (groupes I à IV inclus)
+Jury pour l'avancement de groupe des ouvriers (groupes IVN)
 
 |
 
