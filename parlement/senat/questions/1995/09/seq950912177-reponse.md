@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950912177
+
+- Question : [SEQ950912177](seq950912177.md) — Horticulture et fleuristerie françaises
+
+## Réponse
+
+*Agriculture, JO du 1995-12-07, page 2265*
+
+Réponse. - Le secteur horticole, en dépit des atouts dont il dispose, qui sont notamment la qualité et la diversité de ses produits, ainsi qu'un marché en expansion, se caractérise par un degré d'organisation faible, et une offre très dispersée. En outre, ces deux dernières années, l'interprofession a connu une crise profonde. Les pouvoirs publics ont prouvé pendant ces années difficiles l'intérêt qu'ils attachent à ce secteur ; en effet, il convient de rappeler leurs efforts déployés au long de ces deux années, y compris sur le plan financier, pour reconstruire une interprofession dont l'objet est la recherche appliquée-expérimentation et la promotion des produits, des métiers et des filières, adaptée aux besoins actuels de la filière horticole. Outre le retour du taux de TVA à un taux réduit pour les produits n'ayant subi aucune transformation, qui est intervenu le 1er janvier 1995, conformément aux engagements pris par le Gouvernement, afin de prendre en compte les préoccupations exprimées par les professionnels sur cette question, une réflexion a été engagée avec la profession sur la possibilité de réactualiser les définitions des produits transformés et non transformés dans le secteur de l'horticulture. Enfin, les pouvoirs publics interviennent en faveur du secteur horticole au travers des actions financées par l'Office national interprofessionnel des fruits, des légumes et de l'horticulture (ONIFLHOR), dont l'objet visé consiste notamment en une amélioration de la connaissance du marché et de la situation des opérateurs de la filière, et en des programmes de promotion réalisés en partenariat.
