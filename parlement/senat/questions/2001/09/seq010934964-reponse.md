@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010934964
+
+- Question : [SEQ010934964](seq010934964.md) — Constitution européenne
+
+## Réponse
+
+*Affaires européennes, JO du 2001-10-25, page 3386*
+
+L'honorable parlementaire a bien voulu appeler l'attention du ministre délégué chargé des affaires européennes sur la position prise par le Président de la République en faveur de l'adoption d'une Constitution européenne à l'horizon de 2004. La France souhaite apporter des réponses ambitieuses aux défis posés par l'élargissement, qui tiennent compte des préoccupations des citoyens. II convient en ce sens d'attacher une attention prioritaire au contenu du projet européen et notamment à l'avenir des politiques communes de l'Union. Mais parallèlement, il est urgent d'accroître la lisibilité de ce projet, dans un esprit de transparence conforme à nos valeurs démocratiques. Lors du Conseil européen de Nice, en décembre 2000, les chefs d'Etat ou de gouvernement ont décidé d'approfondir ensemble la réflexion sur un certain nombre de thèmes fondamentaux, qui figurent dans la déclaration sur l'avenir de l'Europe annexée au traité de Nice : place de la charte des droits fondamentaux dans les traités, réécriture et simplification de ceux-ci, clarification des compétences, rôle des parlements nationaux. La déclaration de Nice prévoit aussi le lancement d'un large débat associant l'ensemble de l'opinion publique, dans chaque Etat membre. Ce débat est d'ores et déjà engagé en France. Il reviendra à la présidence belge, dans la perspective du Conseil européen de Laeken, en décembre 2001, de proposer une méthode d'organisation du débat européen, en vue de la convocation d'une nouvelle conférence intergouvernementale. Pour les autorités françaises, l'adoption d'une Constitution européenne en 2004 constituera le point d'orgue de ce processus.
