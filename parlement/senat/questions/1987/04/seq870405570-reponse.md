@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870405570
+
+- Question : [SEQ870405570](seq870405570.md) — Aide à l'investissement pour les exploitations agricoles soumises au bénéfice réel
+
+## Réponse
+
+*Budget, JO du 1987-07-02, page 1032*
+
+Réponse. -Conformément à l'article 21-IV de la loi de finances pour 1987, les exploitants agricoles soumis à un régime réel d'imposition peuvent déduire chaque année de leur bénéfice une somme de 10 000 francs ou 10 p. 100 de ce bénéfice dans la limite de 20 000 francs. Cette déduction doit être utilisée, dans les cinq années qui suivent, pour l'acquisition ou la création soit d'immobilisations amortissables strictement nécessaires à l'activité - auquel cas la base d'amortissement de ces immobilisations est réduite à due concurrence - soit de stocks dont le cycle de rotation est supérieur à un an. L'un des buts de cette aide est de faciliter le financement des stocks à rotation lente, notamment en viticulture. Certes, afin d'éviter un cumul d'aides qui serait injustifié et budgétairement coûteux, les exploitants qui pratiquent cette déduction doivent renoncer définitivement aux dispositions prévues à l'article 72 B du code général des impôts et à l'article 38 sedecies J.C. de l'annexe III au même code pour leurs nouveaux stocks à rotation lente dont la valeur ne peut plus être bloquée. Mais cette règle ne remet pas en cause le régime des stocks qui figuraient auparavant au bilan de l'exploitation et pour lesquels le mécanisme du blocage de valeur demeure applicable. En outre, les agriculteurs qui ne souhaitent pas utiliser la nouvelle déduction peuvent continuer à pratiquer le blocage de la valeur de tous leurs stocks à rotation lente. Ce dispositif respecte ainsi la liberté de choix de chaque exploitant pour le financement des investissements de son entreprise.
