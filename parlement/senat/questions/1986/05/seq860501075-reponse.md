@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860501075
+
+- Question : [SEQ860501075](seq860501075.md) — Modalités de fixation de la cotisation d'assurance-maladie due par les retraités du régime des travailleurs non salariés
+
+## Réponse
+
+*Affaires sociales, JO du 1986-07-31, page 1074*
+
+Réponse. -En 1985, une réforme d'ensemble des cotisations d'assurance maladie concertée avec le conseil d'administration de la caisse nationale d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles a notamment porté sur les modalités de recouvrememnt des cotisations dues sur les retraites. Désormais ces cotisations sont précomptées directement par les caisses d'assurance vieillesse, ce qui constitue une simplification pour les intéressés et permet l'ouverture automatique du droit aux prestations maladie. La réforme s'est accompagnée d'une réduction du taux des cotisations dues sur les retraites, de 5 p. 100 à 3 p. 100. Les travailleurs indépendants retraités, contrairement aux retraités du régime général, sont dispensés de cotisation sur leurs retraites complémentaires. Le précompte est toutefois différé d'un an pour les nouveaux retraités afin de tenir compte du décalage de même durée qui subsiste pou l'assiette des cotisations sur les revenus d'activité. En conséquence, l'année où ils prennent leur retraite, les intéressés ne sont redevables que de cotisations assises sur leurs derniers revenus d'activité professionnelle. En outre, la durée de cette obligation est moindre qu'avant la réforme, du fait de l'actualisation sur n - 1 de l'assiette des cotisations sur les revenus d'activité. Par ailleurs, aucune contribution n'est demandée aux retraités bénéficiaires de l'un des avantages énumérés au 2° de l'article D. 612-10 du code de la sécurité sociale car ils sont exonérés du versement des cotisations d'assurance maladie dès qu'ils sont titulaires de cet avantage.
