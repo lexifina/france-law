@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880700705
+
+- Question : [SEQ880700705](seq880700705.md) — Seine-et-Marne : médecine scolaire
+
+## Réponse
+
+*Solidarité, JO du 1989-01-26, page 148*
+
+Réponse. - La situation statutaire des médecins de santé scolaire a fait l'objet d'un examen approfondi dans le cadre de la préparation d'un projet de statut tendant à réunir dans un même corps les différentes catégories de médecins intervenant en santé publique ; celui-ci n'ayant pu aboutir, de nouvelles réflexions doivent être engagées pour chacune d'entre elles. Actuellement, en l'absence d'un corps de fonctionnaires susceptible d'assurer ces fonctions, des médecins contractuels de santé scolaire sont recrutés, dans la limite des emplois disponibles, conformément aux dispositions de l'article 4 de la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique de l'Etat. Seuls six postes sont disponibles cette année pour permettre le recrutement de ces agents. Les départements désignés pour l'année scolaire 1988-1989 sont bien entendu ceux dont le taux d'encadrement est le plus élevé. Ce rapport est actuellement d'un médecin pour 15 000 élèves pour le département le plus défavorisé, le Calvados, et un médecin pour 13 333 élèves pour le sixième de ces départements, le Maine-et-Loire. En ce qui concerne le département cité par l'honorable parlementaire, ce rapport est actuellement d'un médecin de secteur pour 9 783 élèves et ne permet donc pas pour le moment le recrutement prioritaire d'un médecin contractuel de santé scolaire. Les postes actuellement vacants dans la Seine-et-Marne seront offerts aux médecins du corps provisoire de la santé publique et aux médecins contractuels de santé scolaire lors de la publication de l'avis de vacances dans le courant du mois d'avril 1989.
