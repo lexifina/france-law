@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990314448
+
+- Question : [SEQ990314448](seq990314448.md) — Carence en matière de soins palliatifs
+
+## Réponse
+
+*Santé, JO du 1999-10-21, page 3498*
+
+Réponse. - Ainsi que le rappelle l'honorable parlementaire, les moyens dédiés aux soins palliatifs sont encore notoirement insuffisants en France. C'est pourquoi un plan pluriannuel pour leur développement a été approuvé cette année, articulé autour des axes suivants : appui aux structures et équipes, réduction des inégalités entre les régions, amélioration de la formation des professionnels et de l'information du public, soutien à la prise en charge à domicile. Pour 1999, un financement de 150 millions de francs a été dégagé pour les établissements de santé qui devrait permettre de passer de 55 équipes mobiles recensées en mai 1997 à 177 à la fin de l'année et de 51 unités de soins palliatifs représentant un total de 547 lits à 99 unités représentant un total de 774 lits. Tous les départements seront dotés d'au moins une équipe mobile ou d'une unité de soins palliatifs. Ces fonds permettront de renforcer les équipes existantes dans chaque région : en 1999, plus d'une cinquantaine de structures et équipes mobiles de soins palliatifs devraient en bénéficier. Par ailleurs, cette année, la Caisse nationale d'assurance maladie des travailleurs salariés a inscrit 50 millions de francs au titre du Fonds national d'action sanitaire et sociale pour contribuer au développement des soins palliatifs. Les associations qui proposent une formation aux bénévoles intervenant auprès des personnes en fin de vie et qui apportent leur concours aux équipes de soins peuvent solliciter une aide financière dans ce cadre. Enfin, les décrets d'application de la loi nº 99-477 du 9 juin 1999 visant à garantir le droit à l'accès aux soins palliatifs sont en cours d'élaboration et devraient être publiés avant la fin de l'année.
