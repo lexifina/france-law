@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701105
+
+- Question : [SEQ970701105](seq970701105.md) — Situation des communes accueillant sur leur territoire des entreprises traitant l'amiante
+
+## Réponse
+
+*Économie, JO du 1997-10-23, page 2892*
+
+Réponse. - Le parlementaire appelle l'attention du Gouvernement sur les pertes de ressources de taxe professionnelle que connaîtront les communes qui accueillaient sur leur territoire des entreprises fabriquant des produits à base d'amiante, dont l'activité a dû cesser pour raisons sanitaires à la suite du décret no 96-1133 du 24 décembre 1996 relatif à l'interdiction de l'amiante, pris en application du code du travail et du code de la consommation. Si cette mesure a pour conséquence d'entraîner une perte importante des bases d'imposition à la taxe professionnelle des communes concernées, une compensation de la perte du produit fiscal correspondant pourra être versée à ces dernières par l'intermédiaire du fonds national de péréquation de la taxe professionnelle (FNPTP) prévu au II de l'article 1648 B du code général des impôts et ce pendant une durée maximale de quatre années. La première part du FNPTP est répartie entre les communes qui ont enregistré par rapport à l'année précédente une perte de produit de taxe professionnelle supérieure à un seuil indexé annuellement et représentant au moins 1 % du produit fiscal global de la taxe d'habitation, des taxes foncières et de la taxe professionnelle de l'année où intervient la perte de bases d'imposition à la taxe professionnelle. Ce seuil est fixé à 20 000 francs en 1986 et, évoluant chaque année comme la moyenne des bases de taxe professionnelle par habitant au niveau national, s'élève à 37 500 francs en 1997. Il n'est pas applicable si la perte de produit de taxe professionnelle de la commune est supérieure à 10 % du produit de la taxe professionnelle de l'année précédant celle au titre de laquelle cette perte a été constatée.
