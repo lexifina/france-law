@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030507304
+
+- Question : [SEQ030507304](seq030507304.md) — Régime fiscal des associations de défense des animaux
+
+## Réponse
+
+*Économie, JO du 2003-07-17, page 2298*
+
+La réglementation fiscale actuelle prévoit que les associations simplement déclarées qui poursuivent un but exclusif d'assistance et de bienfaisance bénéficient d'une exonération de droits de mutation pour les libéralités qu'elles reçoivent. Toutefois, cette exonération ne peut bénéficier aux associations simplement déclarées de protection des animaux dès lors que celles-ci n'ont pas le caractère d'association de bienfaisance (CE 18 juin 1937), ce caractère étant réservé aux seules associations qui ont pour objet d'apporter un adoucissement matériel ou moral aux misères humaines. Cela étant, il est rappelé que l'article 795 (4°) du code général des impôts exonère des droits de mutation à titre gratuit les dons et legs consentis aux associations ou fondations reconnues d'utilité publique ou établissements publics dont les ressources sont affectées à la protection des animaux. Cette disposition permet, d'ores et déjà, d'exonérer les dons et legs reçus par de nombreuses associations de protection des animaux. Par ailleurs, le Parlement a adopté en première lecture du projet de loi relatif au mécénat, aux associations et aux fondations, une mesure précisant que les dispositions de l'article 757 du code précité relatives à l'imposition des dons manuels ne s'appliquent pas aux dons manuels consentis aux organismes d'intérêt général mentionnés à l'article 200 du code général des impôts. Cette légalisation de la non-perception des droits de mutation à titre gratuit, pour les dons consentis aux organismes éligibles au dispositif d'impôt sur le revenu existant en matière de mécénat, est susceptible de bénéficier aux associations non reconnues d'utilité publique de défense des animaux.
