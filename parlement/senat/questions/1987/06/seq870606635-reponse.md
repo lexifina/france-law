@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870606635
+
+- Question : [SEQ870606635](seq870606635.md) — Accès des veuves de combattants à l'Office national des combattants et des victimes de guerre
+
+## Réponse
+
+*Anciens combattants, JO du 1987-09-24, page 1505*
+
+Réponse. -Les attributions de l'office national des anciens combattants, comme celles de tous les établissements publics, sont strictement limitées par la loi. Elle se définissent par la spécificité de ses interventions qui sont réservées exclusivement aux anciens combattants et aux victimes de guerre. L'aide normale de l'office national ne peut donc s'exercer qu'en faveur de ses ressortissants dont les veuves d'anciens combattants ne font pas partie ; elle ne peut donc être accordée et maintenue en permanence au profit des intéressés que dans le domaine administratif ; tel est l'objet des directives données par la circulaire Q.N. 3497 du 27 mars 1984 du directeur général de l'office national des anciens combattants et victimes de guerre, diffusée dans tous les services départementaux de l'office national. De plus, le conseil d'administration du 18 décembre 1986 a donné une large interprétation à la vocation sociale de l'office national en confirmant que les épouses d'anciens combattants décédés peuvent obtenir, dans l'année qui suit le décès, des secours permettant de participer, s'il est besoin, aux frais de dernière maladie et aux frais d'obsèques. Enfin, lors du conseil d'administration de l'office national des anciens combattants et victimes de guerre du 23 juin 1987, il a été décidé que les conseils départementaux pourront utiliser les ressources affectées provenant des subventions des collectivités locales (donc hors ressources office national des anciens combattants votées au conseil d'administration) au profit des veuves d'anciens combattants présentant un cas exceptionnel à apprécier localement.
