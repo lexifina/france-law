@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971003692
+
+- Question : [SEQ971003692](seq971003692.md) — Abaissement de l'avantage lié à la demi-part accordée aux personnes seules ayant élevé un enfant
+
+## Réponse
+
+*Économie, JO du 1998-02-19, page 561*
+
+Réponse. - Le système du quotient familial a pour objet de proportionner l'impôt aux facultés contributives de chaque redevable. Celles-ci dépendant notamment du nombre de personnes qui vivent du revenu du foyer. C'est pourquoi les personnes seules ont normalement droit à une part de quotient familial et les couples mariés à deux parts. Par exception à ce principe, les contribuables célibataires, divorcés ou veufs ayant eu un ou plusieurs enfants peuvent bénéficier d'un quotient familial d'une part et demie au lieu d'une part. Cet avantage de caractère très spécifique n'est pas réellement justifié puisqu'il ne correspond à aucune charge effective, ni charge de famille ni charge liée à une invalidité. Aussi, afin d'atténuer les effets de cette majoration de quotient familial sans pour autant pénaliser les contribuables disposant de revenus modestes ou moyens, la loi de finances pour 1998 plafonne à 6 100 francs l'avantage en impôt qu'elle procure, mais seulement lorsque le dernier enfant ouvrant droit à cette demi-part supplémentaire a dépassé l'âge de vingt-six ans. Cette mesure permet de limiter les effets du plafonnement de l'avantage fiscal procuré aux contribuables dont le revenu imposable pour 1997 est supérieur ou égal à 104 140 francs, c'est-à-dire un montant annuel de salaires ou de pensions déclarés d'au moins 144 639 francs, soit environ 12 050 francs par mois. 11 % seulement des personnes bénéficiant de cet avantage fiscal seront concernées par la mesure pour l'imposition des années postérieures à celles du 26e anniversaire de la naissance de leur dernier enfant. Cette disposition répond ainsi aux préoccupations exprimées.
