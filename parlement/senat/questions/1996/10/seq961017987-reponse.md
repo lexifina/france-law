@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961017987
+
+- Question : [SEQ961017987](seq961017987.md) — Situation des travailleurs handicapés en matière de retraite
+
+## Réponse
+
+*Travail, JO du 1996-12-19, page 3439*
+
+Réponse. - Différentes dispositions en matière de sécurité sociale tiennent compte de la situation des personnes handicapées. Les personnes handicapées exerçant une activité professionnelle et dont l'état de santé conduit à une réduction voire à la cessation de cette activité peuvent demander la révision du montant de la prestation dont elles bénéficient (allocation aux adultes handicapées servie sous condition de ressources) voire un changement de catégorie (pension d'invalidité 1re, 2e ou 3e catégorie). En tout état de cause elles bénéficient à soixante ans, d'une pension de vieillesse liquidée au taux plein quelle que soit leur durée d'assurance du fait de la reconnaissance de l'inaptitude au travail dont les conditions médicales sont plus souples que celles retenues tant pour l'attribution d'une allocation aux adultes handicapés. En outre, il convient de rappeler que, s'agissant plus particulièrement des bénéficiaires de rentes d'accident du travail ou de pension d'invalidité, les périodes de perception de ces avantages sont assimilées à des périodes d'assurance pour l'ouverture et le calcul des droits à pension de vieillesse du régime général. Enfin, les personnes reconnues inaptes au travail peuvent bénéficier dès soixante ans, sous réserve de la condition de ressources, du minimum vieillesse, par dérogation au dispositif de droit commun qui prévoit son attribution à compter de l'âge de soixante-cinq ans. Compte tenu de ces dispositions et par ailleurs de la situation financière des régimes de sécurité sociale, il ne saurait être envisagé d'abaisser l'âge de la retraite des personnes handicapées.
