@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930802319
+
+- Question : [SEQ930802319](seq930802319.md) — Dynamisation du transport aérien national
+
+## Réponse
+
+*Équipement, JO du 1995-01-26, page 198*
+
+Réponse. - Air France a connu en 1993 des pertes financières et de parts de marché particulièrement élevées, nettement plus marquées que celles de la plupart de ses concurrents. Ces résultats, faisant suite à de précédents exercices déficitaires, dans un contexte de crise sans précédent du transport aérien mondial, ont conduit la compagnie nationale à mettre au point de vigoureuses mesures de redressement. Le projet pour l'entreprise, intitulé " Reconstruire Air France ", qui a été élaboré après une très large consultation auprès de l'ensemble des personnels, a été approuvé massivement par les salariés par la voie d'un référendum en avril 1994. Ce plan, qui intègre le versement d'une dotation en capital de 20 milliards de francs, vise le retour à un résultat bénéficiaire en 1996 et une amélioration globale de la productivité de 30 p. 100 en trois ans. Il prévoit la suppression de 5 000 emplois sur la période de 1994-1996 (sans licenciements économiques), un blocage des salaires et des avancements, une révision des temps de travail, une croissance modérée de l'offre et un ralentissement des investissements. Il s'appuie sur une refonte complète de l'organisation interne de la compagnie, autour de onze centres de résultats, qui doivent permettre notamment une meilleure réactivité face à la demande. Dans une décision du 27 juillet 1994, la Commission européenne a déclaré compatible avec le marché commun la dotation en capital. Ce plan est actuellement en cours de mise en oeuvre. Le ministre de l'équipement, des transports et du tourisme a pour objectif de garantir l'avenir des ailes françaises, au premier rang desquelles se trouve le groupe Air France, mais également les autres compagnies.
