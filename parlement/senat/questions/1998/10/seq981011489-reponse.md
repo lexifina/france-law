@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981011489
+
+- Question : [SEQ981011489](seq981011489.md) — Démarches administratives pour les ressortissants suisses désirant s'établir en France
+
+## Réponse
+
+*Intérieur, JO du 1998-12-24, page 4137*
+
+Réponse. - La suppression de l'obligation de visa de long séjour pour les ressortissants suisses désireux de s'établir en France a été décidée après une concertation franco-suisse qui a conduit à la demande de la Suisse à une nouvelle interprétation de la note du 27 septembre 1961 échangée entre les autorités helvétiques et françaises. En effet, la législation suisse, qui ne connaît qu'un type de visa sans distinction entre court et long séjour, dispense les ressortissants français de cette obligation. La France ne pouvait échapper à la règle de réciprocité et a accepté d'exonérer les ressortissants de cette nationalité de l'obligation de visa, qu'il soit de court ou de long séjour. Cela concerne notamment les Suisses qui désirent s'installer dans les départements français limitrophes de leur pays alors qu'ils continuent à y exercer leur activité professionnelle. La réglementation actuelle les oblige à demander une carte de séjour visiteur (article 12 de l'ordonnance du 2 novembre 1945 modifiée) qui leur est délivrée s'ils justifient de ressources stables et suffisantes ainsi que d'une couverture sociale, et sous réserve que leur présence en France ne constitue pas une menace pour l'ordre public. S'agissant des difficultés en matière de politique foncière, immobilière et sociale que cette suppression pourrait entraîner, il paraît prématuré de considérer aujourd'hui que la suppression de l'obligation de visa aura pour conséquence de renchérir le coût des terrains à bâtir ou des biens immobiliers. Il s'agit avant tout d'une simplification administrative qui permettra de réduire les délais d'obtention d'une carte de séjour dans le respect des conditions évoquées ci-dessus.
