@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911218983
+
+- Question : [SEQ911218983](seq911218983.md) — Statistiques sur les enseignants " mis à disposition "
+
+## Réponse
+
+*Éducation, JO du 1992-03-12, page 620*
+
+Réponse. - Les mises à disposition d'enseignants, prononcées en application des dispositions du décret n° 85-986 du 16 septembre 1985, sont réparties entre les trois catégories suivantes d'organismes : 1° administrations de l'Etat ou établissements publics de l'Etat à caractère administratif : cabinets ministériels, administrations centrales et services extérieurs, délégations interministérielles... ; 2° organismes d'intérêt général publics ou privés : collectivités territoriales, Cité des sciences et de l'industrie, Médiateur, INSERM, C.N.R.S., Commission des communautés européennes... ; 3° organismes à caractère associatif assurant une mission d'intérêt général : associations relevant de la loi de 1901, fondations, mutuelles... ( NOTA Voir tableau page 620 ). Au 1er janvier 1989, 250 emplois de premier degré ont été créés au budget pour effectuer de nouvelles mises à disposition auprès des associations complémentaires de l'enseignement public. Au 1er janvier 1990, 100 emplois se répartissant en cinquante emplois de premier degré et cinquante emplois de second degré ont été créés au budget au bénéfice de ces mêmes associations, ainsi que 100 emplois de premier degré destinés à effectuer de nouvelles mises à disposition auprès de la mutuelle générale de l'éducation nationale (M.G.E.N.). Dans ce dernier cas, il s'agit d'emplois gagés par un remboursement intégral des salaires par la M.G.E.N. Dans les autres cas, ces créations d'emplois ont entraîné la diminution proportionnelle de subventions compensatrices versées aux associations pour assurer le financement des personnels détachés.
