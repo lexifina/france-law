@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980608961
+
+- Question : [SEQ980608961](seq980608961.md) — Développement de la mise en place de glissières de sécurité adaptées à la protection des motocyclistes
+
+## Réponse
+
+*Équipement, JO du 1998-11-26, page 3799*
+
+Réponse. - Les glissières métalliques présentent un danger particulier pour les motocyclistes lors d'une sortie accidentelle de chaussée, du fait du risque de heurt sur la partie basse des supports en cas de glissade au sol. Pour améliorer la sécurité des motocyclistes, le comité interministériel de sécurité routière du 26 novembre 1997 a décidé de développer par des moyens techniques et réglementaires la mise en place de glissières métalliques adaptées à la protection des motocyclistes. Par suite, le groupe de travail moto/infrastructures qui se réunit régulièrement depuis 1996 et auquel participent les associations de motocyclistes a confié au service d'études techniques des routes et autoroutes (SETRA) une étude complète sur l'accidentologie des motocyclistes. Celle-ci vient de s'achever et les premières conclusions ont été présentées au groupe de travail le 18 juin dernier. Elle permet d'identifier plus précisément les enjeux et de mieux préciser la typologie des accidents avec heurt de glissières. En ce qui concerne la mise au point de nouveaux dispositifs de retenue adaptés aux motocyclistes, un concours a été lancé auprès des entreprises d'équipements de la route au début de cette année. Le jury du concours s'est réuni une première fois le 5 juin pour retenir les entreprises admises à concourir. Compte tenu des délais de mise au point de nouveaux dispositifs, qui devront subir des essais spécialement adaptés, les lauréats du concours seront désignés au deuxième trimestre 1999. Ces actions permettront au groupe de travail de proposer, avant la fin de cette année, les dispositions réglementaires sur les conditions de mise en place des dispositifs de retenue adaptés aux motocyclistes.
