@@ -1,8 +1,6 @@
 # Article ANNEXE
 
-CONSEIL D'ADMINISTRATION DE L'INESC
-
-Scrutin du vendredi 17 octobre 2003
+CONSEIL D'ADMINISTRATION DE L'ECOLE NATIONALE SUPERIEURE DES OFFICIERS DE SAPEURS-POMPIERS. Scrutin du vendredi 17 octobre 2003
 
 Calendrier des opérations électorales
 
@@ -30,9 +28,7 @@ Envoi du matériel de vote : lundi 29 septembre 2003.
 
 Réception des enveloppes contenant les votes : vendredi 17 octobre 2003, à 13 heures (le cachet de la poste faisant foi).
 
-CONSEIL D'ADMINISTRATION DE L'INESC
-
-Scrutin du vendredi 17 octobre 2003
+CONSEIL D'ADMINISTRATION DE L'ECOLE NATIONALE SUPERIEURE DES OFFICIERS DE SAPEURS-POMPIERS. Scrutin du vendredi 17 octobre 2003
 
 Calendrier des opérations électorales
 
