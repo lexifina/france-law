@@ -38,4 +38,4 @@ Pour les décisions figurant au 16°, l'inscription comporte, en outre, la duré
 
 NOTA :
 
-.
+Nota - voir arrêté du 30 août 1983, article 9 ter : champ d'application.
