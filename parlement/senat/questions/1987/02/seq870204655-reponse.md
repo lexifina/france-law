@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870204655
+
+- Question : [SEQ870204655](seq870204655.md) — Limitation des importations de pantoufles et d'espadrilles chinoises
+
+## Réponse
+
+*Industrie, JO du 1987-05-07, page 718*
+
+Réponse. - Le niveau des importations de chaussures est incontestablement préoccupant et les pouvoirs publics sont parfaitement conscients des difficultés rencontrées de ce fait par les industriels français. Il convient toutefois d'observer que leur principal concurrent est l'Italie qui fournit près de 50 p. 100 des importations totales en volume et 60 p. 100 en valeur. Viennent ensuite, mais très loin derrière, l'Espagne (6,2 p. 100 en valeur) et le Portugal (6,3 p. 100 en valeur), ce dernier pays ayant dépassé l'Espagne depuis 1985. C'est donc la Communauté européenne qui constitue le principal fournisseur du marché français, ce qui ne permet pas d'envisager des mesures restrictives à l'égard de ces importations. En revanche, des mesures ont pu être prises à l'égard de Taïwan et de la Chine populaire qui représentent, avec la Corée du Sud, un autre ensemble de pays concurrents, en particulier pour les articles chaussants de bas de gamme. Le système d'autolimitation instauré à partir de 1983 en matière de pantoufles et d'espadrilles à l'égard de la République populaire de Chine arrive effectivement à échéance au 31 décembre 1987. Le ministre de l'industrie, des P. et T. et du tourisme est d'ores et déjà intervenu auprès du ministre chargé du commerce extérieur afin que des démarches soient entreprises sans retard par les autorités françaises pour demander à la Commission des communautés l'ouverture d'une nouvelle négociation avec nos partenaires chinois en vue de reconduire, pour une autre période de trois ans, et sur des bases comparables, l'accord d'autolimitation actuellement en vigueur.
