@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940707195
+
+- Question : [SEQ940707195](seq940707195.md) — Difficultés des planteurs de betteraves du Nord - Pas-de-Calais
+
+## Réponse
+
+*Agriculture, JO du 1996-05-23, page 1256*
+
+Réponse. - L'accord interprofessionnel du secteur betterave-sucre homologué pour la campagne 1995-1996 marque un progrès important dans les relations entre producteurs et industriels puisqu'il comporte non seulement une baisse des frais de surpressage de la pulpe mais aussi une augmentation du prix des betteraves livrées au-delà de 18 de richesse et des incitations financières à la réduction de la tare terre. Pour ce qui concerne l'obligation d'incorporation d'un taux minimum d'oxygène dans le cadre de la définition des essences de l'an 2000, il convient de noter que les essais préliminaires indispensables pour définir ces essences sont en cours dans le cadre d'un réseau européen et prennent systématiquement en compte une telle incorporation. Par ailleurs, la loi sur l'environnement adoptée le 12 février 1995 ouvre, en son article 84, la possibilité de réaliser, dans les zones urbaines sensibles dont la pollution est caractérisée par des taux élevés d'oxyde de carbone, d'imbrûlés et d'ozone atmosphérique, des opérations pilotes d'incorporation de composés oxygénés, notamment d'origine agricole, dans les carburants pétroliers destinés à la circulation automobile. Enfin, lors de la conférence agricole annuelle du 8 février dernier, le Premier ministre, sur proposition du ministère de l'agriculture et de l'environnement, a indiqué que le projet de loi sur l'air mentionnera de façon explicite que l'incorporation d'oxygène dans les carburants sera rendue obligatoire avant la fin du siècle. Compte tenu des atouts dont ils disposent, les biocarburants devraient naturellement contribuer, pour une part significative, à apporter l'oxygène nécessaire à l'amélioration de la qualité des carburants d'origine pétrolière.
