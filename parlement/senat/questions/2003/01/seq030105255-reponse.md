@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030105255
+
+- Question : [SEQ030105255](seq030105255.md) — Conditions de reconduction d'un contrat d'un agent territorial
+
+## Réponse
+
+*Fonction publique, JO du 2004-05-20, page 1084*
+
+Aux termes de l'article 38 du décret n° 88-145 du 15 février 1988 pris pour l'application de l'article 136 de la loi du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale et relatif aux agents non titulaires de la fonction publique territoriale, l'administration doit notifier à l'intéressé son intention de renouveler ou non l'engagement. En cas de maintien en fonction sans reconduction expresse, le Conseil d'Etat considère (CE-27 octobre 1999 - commune de Bayeux) que " les contrats passés par les collectivités et établissements publics territoriaux en vue de recruter des agents non titulaires doivent, sauf disposition législative spéciale contraire, être conclus pour une durée déterminée et ne peuvent être renouvelés que par reconduction expresse ; que, par suite, dans le cas où, contrairement à ces prescriptions, le contrat de recrutement d'un agent non-titulaire comporte une clause de tacite reconduction, cette stipulation ne peut légalement avoir pour effet de conférer au contrat dès son origine une durée indéterminée ; que le maintien en fonction à l'issue du contrat initial a seulement pour effet de donner naissance à un nouveau contrat, conclu lui aussi pour une période déterminée et dont la durée est soit celle prévue par les parties, soit, à défaut, celle qui était assignée au contrat initial ". En conséquence, si la collectivité décide de mettre fin à l'engagement, la fin des fonctions s'analyse comme un simple non-renouvellement si elle intervient au terme de la nouvelle période, et comme un licenciement si elle intervient avant ce terme.
