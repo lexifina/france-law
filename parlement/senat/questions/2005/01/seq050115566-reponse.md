@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050115566
+
+- Question : [SEQ050115566](seq050115566.md) — Financement du service public de l'équarrissage
+
+## Réponse
+
+*Agriculture, JO du 2005-03-24, page 831*
+
+Le service public de l'équarrissage assure l'élimination des cadavres et déchets animaux présentant un risque sanitaire, notamment au regard des encéphalopathies spongiformes subaiguës transmissibles. Depuis le 1er janvier 2004, le financement du service public de l'équarrissage a été très sensiblement modifié pour tenir compte des règles édictées en décembre 2002 par la Commission européenne. C'est ainsi que ce service est désormais financé à partir de trois sources : une taxe affectée prélevée au niveau des abattoirs, une redevance sur les éleveurs de porcs et de volailles, et le budget de l'Etat. En ce qui concerne les colonnes vertébrales bovines traitées par les artisans bouchers, leur élimination sera prise en charge dans la limite autorisée par la Commission européenne, soit 1 000 euros hors taxe par entreprise et par an. Toutefois, afin d'améliorer la compétitivité des entreprises françaises, le Gouvernement a proposé dans le cadre des débats sur le projet de loi sur le développement des territoires ruraux une disposition permettant d'étendre par voie réglementaire le champ de la contractualisation directe entre opérateurs de la filière viande et équarrisseurs. Celle-ci vient d'être récemment adoptée. Enfin, la réflexion conduite entre les opérateurs et les services de l'Etat sera poursuivie afin de déboucher sur des propositions concrètes visant à rationaliser l'usage de ce service public et d'en maîtriser le coût. Les travaux doivent aboutir avant la fin mai 2005. Une telle réflexion est indispensable pour garantir la pérennité d'un dispositif essentiel pour la sécurité sanitaire des consommateurs tout en étant respectueux de l'équilibre économique des exploitations d'élevage, des entreprises de la filière comme du budget de l'Etat.
