@@ -1,20 +1,10 @@
 # Article 36 bis
 
-I. - Les licences de location de longue durée couvrent la mise d'un véhicule déterminé à la disposition d'un locataire désigné pendant une durée au moins égale à 12 mois, par un contrat qui doit satisfaire aux conditions fixées par arrêté du ministre des transports.
-
-Le minimum de durée mentionné à l'alinéa précédent est réduit à six mois dans les cas suivants :
-
-a) Si le locataire s'engage à n'utiliser le véhicule loué que dans la zone courte d'un département dans lequel n'est pas intervenue l'extension envisagée au II-a de l'article 26 ci-dessus ;
-
-b) Si la location porte sur un véhicule à citerne ou, la location portant sur un tracteur non porteur, si le locataire s'engage à n'utiliser ce tracteur qu'avec des remorques à citerne ou des semi-remorques à citerne.
-
-La réduction de durée prévue au cas b ci-dessus cesserait toutefois de s'appliquer si l'extension envisagée au II a de l'article 26 ci-dessus était intervenue pour au moins soixante-dix départements métropolitains.
-
-Les licences de location de longue durée sont valables en zone longue, sauf dans le cas a ci-dessus où elles ne sont valables que dans la zone courte intéressée.
+I. - Les licences de location de longue durée couvrent la mise d'un véhicule déterminé à la disposition d'un locataire désigné, pendant une durée au moins égale à douze mois, par un contrat qui doit satisfaire aux conditions fixées par arrêté du ministre des transports.
 
 La validité des licences de location de longue durée est limitée à deux ans. Cette validité expire si la clause d'exclusivité de mise à disposition du véhicule n'est pas respectée.
 
-II. - Les licences de location de longue durée sont délivrées, sur leur demande, aux entreprises inscrites sur le registre des loueurs par le préfet du département dans lequel elles ont leur siège, lorsque les conditions suivantes sont remplies :
+II. - Les licences de location de longue durée sont délivrées, sur leur demande, aux entreprises inscrites sur le registre des loueurs par le préfet du département dans lequel elles ont leur siège ou un centre d'exploitation lorsque les conditions suivantes sont remplies :
 
 a) Le demandeur présente un contrat remplissant les conditions indiquées au I ci-dessus ;
 
