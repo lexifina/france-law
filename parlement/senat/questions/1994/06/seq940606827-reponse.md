@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940606827
+
+- Question : [SEQ940606827](seq940606827.md) — Cumul des réductions d'imposition
+
+## Réponse
+
+*Budget, JO du 1994-08-04, page 1932*
+
+Réponse. - Le système du quotient familial a pour objet de proportionner l'impôt aux facultés contributives de chaque contribuable, celles-ci étant appréciées en fonction du nombre de personnes qui vivent du revenu du foyer. Seules les charges de famille du contribuable doivent donc normalement être prises en considération pour la détermination du nombre de parts dont il peut bénéficier. Le demi-part supplémentaire accordée aux anciens combattants âgés de plus de soixante-quinze ans, ou à leurs veuves sous la même condition d'âge, constitue déjà une importante dérogation à ce principe, puisqu'elle ne correspond à aucune charge effective, ni charge de famille, ni charge liée à une invalidité. Comme tout avantage fiscal, ce supplément de quotient familial ne peut être préservé que s'il garde un caractère exceptionnel. Au demeurant, les anciens combattants qui n'ont pas atteint l'âge de soixante-quinze ans peuvent bénéficier, s'ils remplissent les conditions de la demi-part supplémentaire accordée aux contribuables titulaires de la carte d'invalidité à l'article 173 du code de la famille et de l'aide sociale, ou aux célibataires, veufs ou divorcés ayant des enfants majeurs. En outre, à partir de soixante-cinq ans, les anciens combattants titulaires de revenus modestes ou moyens bénéficient d'abattements spécifiques, pouvant atteindre 9 300 francs sur les revenus de 1993, prévus en faveur des contribuables dont le revenu net imposable n'excède pas 93 000 francs. Ces mesures, qui représentent un effort budgétaire important, témoignent de l'attention portée par les pouvoirs publics à la situation fiscale des personnes âgées et des anciens combattants en particulier.
