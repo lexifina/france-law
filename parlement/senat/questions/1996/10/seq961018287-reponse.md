@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961018287
+
+- Question : [SEQ961018287](seq961018287.md) — 1 % logement
+
+## Réponse
+
+*Outre-mer, JO du 1997-03-27, page 978*
+
+Réponse. - La convention d'objectifs signée le 17 septembre 1996 entre l'Etat et les représentants du 1 % logement a prévu une contribution exceptionnelle en 1997 et 1998 de la moitié de la collecte du 1 % au financement du logement aidé. Les départements d'outre-mer participent à cette contribution au même titre que la métropole. La contribution des collecteurs s'inscrit dans un cadre général de réforme du " 1 % logement " par le biais de la création de l'Union d'économie sociale du logement (UESL) qui remplace l'Union nationale interprofessionnelle du logement (UNIL). L'UESL, qui dispose de moyens effectifs grâce à la loi du 30 décembre 1996, doit répondre à l'ambition de redynamisation de la capacité d'intervention du 1 % et devenir un partenaire à part entière de la politique du logement social. Les collecteurs implantés dans les départements d'outre-mer bénéficieront des effets de cette redynamisation. Par ailleurs, si la taxation prévue alimente un compte d'affectation spéciale destiné à financer le prêt à taux zéro en métropole, les crédits budgétaires liés à cette action ont été diminués pour tenir compte de ce financement, mais l'outre-mer a été exonéré de cette réduction. En effet, le montant des crédits budgétaires consacrés au financement du logement dans les départements d'outre-mer a fait l'objet, conformément à la volonté du Président de la République, d'un maintien dans la loi de finances 1997. Ils représentent 1,150 milliard de francs. Compte tenu des diverses mesures prises en matière de logement (réforme des produits, baisse des taux, défiscalisation du logement intermédiaire...) le maintien de la dotation de la LBU constitue pour l'outre-mer un facteur fort pour permettre une relance de la construction de logements.
