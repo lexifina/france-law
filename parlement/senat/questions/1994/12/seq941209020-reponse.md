@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941209020
+
+- Question : [SEQ941209020](seq941209020.md) — Indemnisation des commissaires enquêteurs
+
+## Réponse
+
+*Environnement, JO du 1995-02-02, page 273*
+
+Réponse. - L'honorable parlementaire a appelé l'attention du ministère de l'environnement sur la question de l'indemnisation des commissaires-enquêteurs. L'article 109 de la loi de finances pour 1994 a transféré la charge de l'indemnisation des commissaires-enquêteurs aux maîtres d'ouvrage des projets soumis à enquête publique, au lieu et place de l'Etat. L'entrée en vigueur de cette disposition législative était subordonnée à la publication d'un décret. Les crédits inscrits au budget du ministère de l'environnement ont été déterminés en se fondant sur l'hypothèse selon laquelle la publication du texte réglementaire interviendrait au début de l'année, c'est-à-dire quelques semaines après le vote de la loi de finances. Malheureusement, des difficultés liées au processus d'élaboration de ce texte ont eu pour effet de retarder sa publication au Journal officiel, qui n'est intervenue que le 12 octobre dernier (décret no 94-873 du 10 octobre 1994). Un tel retard a eu pour conséquence de faire supporter à l'Etat une charge financière substantiellement supérieure à celle qui avait été envisagée lors du vote de la loi de finances de sorte que, faute de crédits suffisants, il n'a pas été possible de procéder à l'indemnisation de la totalité des commissaires-enquêteurs. Toutefois, il convient de rappeler à l'honorable parlementaire la programmation de 18 millions de francs de crédits supplémentaires destinés à indemniser les commissaires-enquêteurs sur le chapitre 31-95 du ministère de l'environnement dans le cadre du collectif budgétaire de fin d'année qu'a voté le Parlement. Cette dotation complémentaire a permis de régler tous les dossiers en suspens dans les premiers jours de janvier.
