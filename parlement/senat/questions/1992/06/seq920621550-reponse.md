@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920621550
+
+- Question : [SEQ920621550](seq920621550.md) — Augmentation des défaillances d'entreprises
+
+## Réponse
+
+*Commerce et artisanat, JO du 1992-07-09, page 1567*
+
+Réponse. - Le ministre du commerce et de l'artisanat est préoccupé par le nombre important des défaillances d'entreprises. Son prédécesseur avait chargé une commission d'experts composée de magistrats consulaires travaillant en étroite collaboration avec les organisations professionnelles représentatives d'établir un rapport relatif à la prévention et l'accompagnement des entreprises en difficulté, et à la sauvegarde des emplois. Ce rapport qui vient d'être remis, préconise notamment le développement de la prévention en permettant aux tribunaux de commerce de se saisir de la situation des entreprises avant même que les difficultés n'apparaissent afin de porter un diagnostic et d'informer le chef d'entreprise. Cette proposition, qui ne nécessite aucune réforme législative ou réglementaire, entre progressivement en vigueur, à l'initiative même des tribunaux de commerce. Le ministère du commerce et de l'artisanat contribue, bien entendu, à la sensibilisation des juridictions consulaires. Les autres propositions du rapport font l'objet d'une étude au niveau interministériel. Par ailleurs, la protection conre les défaillances des entreprises relève également de réflexions générales actuellement en cours : délais de paiement inter-entreprises, mise en oeuvre de la loi contre le travail clandestin, protection accrue des sous-traitants. Enfin, conscient de la fragilité particulière des entreprises nouvellement créées, comme du risque que celles-ci font souvent courir à leur environnement (fournisseurs, concurrents, etc.), le ministre du commerce et de l'artisanat a décidé de lancer en 1992 un programme expérimental de formation initiale des commerçants auquel sont associés plusieurs chambres de commerce et d'industrie.
