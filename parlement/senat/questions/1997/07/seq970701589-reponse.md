@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701589
+
+- Question : [SEQ970701589](seq970701589.md) — Déficit de l'agence de photos de la Réunion des musées nationaux
+
+## Réponse
+
+*Culture, JO du 1997-09-25, page 2540*
+
+Réponse. - L'information parue dans le Figaro du 28 septembre 1996 selon laquelle " l'agence de photos de la Réunion des musées nationaux réalise un chiffre d'affaires de 10 millions de francs, mais accuse un déficit de 5 millions de francs " n'est pas tout à fait exacte. En effet, au titre de l'exercice de l'année 1996, les recettes totales de l'agence photographique ont été de 9,7 millions de francs et ses dépenses se sont élevées à 16 millions de francs. Il faut noter que le chiffre des recettes est en progression de 12 % par rapport à 1995 et les dépenses en régression, alors que la progression des recettes depuis 1993 est de plus de 40 %. Les missions de service public qui incombent à l'agence photographique expliquent ce déficit : si l'agence exerce bien une activité commerciale, elle demeure avant tout un service mis à disposition des musées nationaux pour y réaliser les clichés nécessaires à l'inventoriage et au catalogage des oeuvres. De plus, ce service assure la diffusion des photographies des objets des collections nationales auprès des chercheurs et des institutions muséographiques ou universitaires dans le monde entier ; la rémunération de ces services ne peut en aucun cas couvrir les frais de prises de vues, de catalogage et de gestion des documents. L'agence photographique a réalisé au cours des dernières années d'importants investissements, notamment en équipements informatiques, afin d'améliorer sa gestion et la diffusion de ses fonds ; cette modernisation devrait lui permettre à moyen terme de trouver un meilleur équilibre entre sa mission première, culturelle et scientifique, et sa mission commerciale.
