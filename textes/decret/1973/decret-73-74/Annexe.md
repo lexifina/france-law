@@ -30,21 +30,21 @@ Taux d'invalidité de la tuberculose pulmonaire non évolutive : 5 à 90 p. 100.
 
 Affections gastro-intestinales.
 
-Sauf preuve contraire, est imputable par preuve toute colite vraie présentant des signes bactériologiques ou coprologiques ou radio­logiques ou endoscopiques, constatée dans les huit ans qui ont suivi la libération
+Sauf preuve contraire, est imputable par preuve toute colite vraie présentant des signes bactériologiques ou coprologiques ou radio­logiques ou endoscopiques :
 
 Taux d'invalidité : 20 à 70 p. 100.
 
-Sauf preuve contraire, est imputable par preuve toute colite vraie constatée dans les dix ans qui ont suivi la libération du prisonnier de guerre détenu en Asie :
-
-Taux d'invalidité : 20 à 70 p. 100.
-
-Sauf preuve contraire, est imputable par preuve tout ulcère gastrique ou duodénal constaté dans les quatre ans qui ont suivi le rapatriement :
+Sauf preuve contraire, est imputable par preuve tout ulcère gastrique ou duodénal y compris les séquelles :
 
 Taux d'invalidité : 30 à 65 p. 100.
 
 Affections rhumatismales.
 
-Sauf preuve contraire, est imputable par preuve, même en l'ab­sence de filiation, tout rhumatisme inflammatoire constaté au cours des quatre premières années qui ont suivi le rapatriement si un facteur déclenchant, en particulier infectieux, peut être retrouvé au cours de la captivité :
+Sauf preuve contraire, sont imputables par preuve les rhumatismes vertébraux (spondylarthrite, arthrose et hyperostose) confirmés radiologiquement :
+
+Taux d'invalidité : 15 à 40 p. 100.
+
+Sauf preuve contraire, est imputable par preuve, même en l'absence de filiation, tout rhumatisme inflammatoire constaté au cours des quatre premières années qui ont suivi le rapatriement si un facteur déclenchant, en particulier infectieux, peut être retrouvé au cours de la captivité :
 
 Taux d'invalidité : 20 à 100 p. 100.
 
@@ -80,11 +80,13 @@ Taux minimum : 15 p. 100.
 
 Affections gynécologiques.
 
-Sauf preuve contraire, est imputable par preuve toute affection gynécologique d'origine infectieuse chronique ou endocrinienne ou traumatique constatée sur une captive dans les dix ans suivant la libération ou le rapatriement.
+Sauf preuve contraire, sont imputables par preuve les affections figurant, sous la rubrique Néoformations (bénignes ou malignes), au titre II-C-IV du document annexé au décret n° 53-438 du 16 mai 1953, modifié par le décret n° 80-1007 du 11 décembre 1980.
+
+Sauf preuve contraire, est imputable par preuve toute affection gynécologique d'origine infectieuse chronique ou endocrinienne ou traumatique constatée chez une captive dans les dix ans suivant la libération ou le rapatriement.
 
 Affections d'origine endocrinienne.
 
-Sauf preuve contraire, est imputable par preuve tout goitre exo­phtalmique constaté chez un ancien prisonnier de guerre dans le délai de cinq ans suivant la libération ou le rapatriement :
+Sauf preuve contraire, est imputable par preuve tout goitre exo­phtalmique constaté chez un ancien prisonnier de guerre dans le délai de cinq ans suivant la libération ou le rapatriement
 
 Taux d'invalidité : 10 à 50 p. 100.
 
@@ -123,3 +125,7 @@ Le président de cette commission sera nommé par arrêté conjoint du secrétai
 Le demandeur pourra, s'il le désire, être entendu et être soit assisté d'un conseiller de son choix, soit représenté par celui-ci.
 
 Cette commission devra prendre connaissance de tous documents ou témoignages portant sur les conditions de la captivité, de l'internement ou de la détention présentés par l'intéressé ou en son nom.
+
+NOTA :
+
+Loi n° 83-1109 du 21 décembre 1983 article unique : On force de loi à compter de leurs dates d'entrée en vigueur respectives en tant qu'elles déterminent le mode d'imputablité de certaines infirmités, fixent les délais de constatation de celles-ci et énumèrent les personnes auxquelles elles sont applicables : 1° Les dispositions annexées aux décrets n° 73-74 du 18 janvier 1973 et n° 77-1088 du 20 septembre 1977, modifiées par le décret n° 81-315 du 6 avril 1981.
