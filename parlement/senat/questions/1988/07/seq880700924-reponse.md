@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880700924
+
+- Question : [SEQ880700924](seq880700924.md) — Mise en place des commissions départementales d'aide aux accédants PAP en difficulté
+
+## Réponse
+
+*Équipement, JO du 1988-10-27, page 1193*
+
+Réponse. - La circulaire n° 88-13 du 25 février 1988 prévoit la mise en place dans chaque département, à l'initiative des collectivités territoriales, d'une commission chargée d'accorder des aides aux accédants titulaires d'un prêt aidé à l'accession à la propriété (P.A.P.) souscrit entre le 1er juillet 1981 et le 31 décembre 1984 et qui rencontrent des difficultés graves pour rembourser leur prêt. A l'issue du mois d'août 1988, un premier bilan de la mise en place de cette commission peut être ainsi dressé : neuf départements ont créé ou sont sur le point de créer la commission, l'ensemble des concours financiers ayant été collecté ; vingt-trois départements sont en cours de constitution de la commission, des accords de principe ayant été donnés par l'ensemble des partenaires concernés ; dans vingt-sept départements, les consultations sont entamées et le recensement des besoins est en cours ; vingt-quatre départements rencontrent des difficultés à constituer la commission, tenant tant à la mise en place administrative de la procédure qu'au recueil des contributions financières ; enfin, dix départements ont refusé la mise en place de ce système d'aide et trois départements n'ont pas encore établi de bilan. Ainsi est-il possible de prévoir qu'une soixantaine de départements, parmi lesquels figurent ceux où la situation des emprunteurs est la plus difficile, se seront dotés avant la fin de l'année 1988 de fonds destinés à venir en aide aux emprunteurs P.A.P. en difficulté. Les importantes mesures arrêtées par le Gouvernement pour le réaménagement des prêts contractés entre 1981 et 1985 devraient par ailleurs permettre de limiter les recours à ces dispositifs.
