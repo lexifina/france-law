@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870204801
+
+- Question : [SEQ870204801](seq870204801.md) — Répression du recel en matière de toxicomanie
+
+## Réponse
+
+*Justice, JO du 1987-04-16, page 593*
+
+Réponse. -L'article 460 du code pénal relatif au délit de recel permet dès à présent de sanctionner tous ceux qui auront sciemment profité des choses obtenues à l'aide d'un crime ou d'un délit, quel qu'en soit la nature, d'une peine d'emprisonnement ainsi que d'une amende pouvant aller jusqu'à la moitié de la valeur des objets recelés. Ces dispositions de portée générale s'appliquent bien entendu en cas de trafic de stupéfiants. De façon plus spécifique, l'article 629 du code de la santé publique autorise le tribunal à ordonner la saisie et la confiscation des biens ayant servi à la commission de faits de trafic de stupéfiants ainsi que des produits de telles infractions à quelque personne qu'ils appartiennent, à moins que leurs propriétaires n'établissent leur bonne foi. Cependant, dans le sens des préoccupations exprimées par l'honorable parlementaire, le Gouvernement envisage d'introduire dans le projet de loi relatif à la lutte contre le développement de la toxicomanie des dispositions incriminant ceux qui auront participé au " blanchissement " de fonds provenant du trafic de stupéfiants, de tels agissements ne tombant pas nécessairement sous le coup de l'article 460 du code pénal précité. Il convient d'observer à cet égard que ces préoccupations rejoignent celles qui se manifestent dans de nombreux autres pays ainsi que dans le cadre d'institutions internationales telles que l'Organisation des Nations unies et le Conseil de l'Europe. Ainsi devraient être créées les conditions d'une indispensable coopération entre les Etats afin d'atteindre tous ceux qui, d'une manière ou d'une autre, tirent profit du trafic de stupéfiants.
