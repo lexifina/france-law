@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991019356
+
+- Question : [SEQ991019356](seq991019356.md) — Révision de la législation en matière d'arrosage des vignes
+
+## Réponse
+
+*Agriculture, JO du 2000-01-27, page 288*
+
+Réponse. - La réglementation en application depuis 1964 interdit l'irrigation des vignes du 1er avril au 31 octobre, sur l'ensemble du territoire. Le ministère de l'agriculture et de la pêche a pris l'initiative en 1996 d'organiser un débat professionnel sur cette question avec comme objectif de parvenir à une modification de la réglementation. A cet effet, une commission d'enquête a été décidée par le Comité national de l'Institut national des appellations d'origine (INAO), en septembre 1996. Les premières réflexions de cette commission ont été soumises aux trois comités régionaux de l'INAO concernés (Languedoc-Roussillon, Vallée du Rhône et Provence-Corse) avant d'être présentées au comité national. Compte tenu de la complexité des questions soulevées, qu'elles soient techniques ou économiques, ces réflexions n'ont pas permis de dégager une position commune des professionnels. Dans ce contexte, les producteurs de vin d'appellation d'origine de votre région ont fait connaître leurs observations au sein de leur comité régional pour que la commission d'enquête puisse les intégrer dans les recommandations qu'elle doit présenter aux pouvoirs publics, notamment la proposition de création d'une commission mixte réunissant l'administration et la profession sous l'autorité du préfet. L'Institut national des appellations d'origine devrait prendre connaissance de ces propositions dès la prochaine réunion de son comité national, fixée au 3 février 2000. Une fois connu l'avis des responsables professionnels de la viticulture, le ministère de l'agriculture et de la pêche examinera la nécessaire mise à jour des textes réglementaires pour tenir compte des conditions de la production des raisins.
