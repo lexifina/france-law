@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900710930
+
+- Question : [SEQ900710930](seq900710930.md) — Secours aux veuves d'anciens combattants
+
+## Réponse
+
+*Anciens combattants, JO du 1990-09-27, page 2088*
+
+Réponse. - Le secrétaire d'Etat chargé des anciens combattants et des victimes de guerre rappelle à l'honorable parlementaire que les secours attribués aux veuves d'anciens combattants sont destinés aux veuves dont la situation impose de répondre à un souci d'aide indispensable face à une situation exceptionnellement difficile. Avant le 1er juin 1989, les veuves, qui, par ailleurs ont plusieurs avantages, bénéficiaient de secours en présentant une feuille de non-imposition ; certaines avec des revenus mensuels de plus de 5 000 francs par mois. Or, le Gouvernement par un souci d'équité et de justice, a décidé par la déconcentration de rapprocher les demandeurs de mes services et de n'attribuer de secours en priorité qu'aux compagnes qui n'ont pas de pension de réversion ainsi qu'aux veuves les plus démunies. Il faut cependant noter que les difficultés financières actuelles n'autorisent le versement de ces secours qu'en faveur de cas ponctuels. Ils ne permettent pas les renouvellements systématiques qui pouvaient se produire auparavant. Par ailleurs, l'Office national des anciens combattants a décidé, par délibération de son conseil d'administration adoptée en 1987, d'autoriser l'octroi de secours, financés par ses recettes propres, à ces veuves d'anciens combattants. Enfin, en ce qui concerne tout particulièrement le cas de la direction interdépartementale de Rennes évoqué par l'honorable parlementaire, le secrétaire d'Etat chargé des anciens combattants et des victimes de guerre souligne que la somme réellement affectée pour les secours à cette direction est de 70 000 francs, et que sa consommation au 30 juin était de 30 000 francs.
