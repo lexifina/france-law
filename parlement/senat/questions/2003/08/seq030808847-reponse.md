@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030808847
+
+- Question : [SEQ030808847](seq030808847.md) — Remboursement des frais engagés par les élus municipaux  lors de leurs déplacements hors de la commune
+
+## Réponse
+
+*Intérieur, JO du 2004-01-22, page 185*
+
+Jusqu'à la parution de la loi n° 2002-276 du 27 février 2002, relative à la démocratie de proximité, le remboursement des frais de déplacement supportés par les élus locaux était possible dans deux cas d'espèces : l'exercice d'un mandat spécial pour les élus municipaux, départementaux ou régionaux, et le remboursement des frais engagés par les seuls élus départementaux et régionaux pour prendre part aux réunions de leur conseil et aux séances des commissions ou organismes dont ils font partie ès qualités. L'article 84-III de la loi du 27 février 2002 a introduit un article L. 2123-18-1 dans le code général des collectivités territoriales qui offre la possibilité, même en dehors de l'exercice d'un mandat spécial, pour les membres d'un conseil municipal de bénéficier du remboursement des frais de transport et de séjour engagés pour se rendre et participer à des réunions dans des instances ou organismes au sein desquels ils représentent ès qualités leur commune. Ce texte précise toutefois que la réunion doit avoir lieu en dehors du territoire de la commune, les réunions se déroulant sur le territoire de celle-ci ne donnant pas lieu à remboursement. Par ailleurs, l'article L. 2123-18-1 autorise les collectivités locales à rembourser les frais engagés par les élus en situation de handicap pour être présent aux réunions auxquelles ils doivent participer en raison de leur mandat électif. Ces dispositions législatives ne sont toutefois pas applicables en l'état et doivent être accompagnées d'un décret d'application, actuellement en cours de préparation, qui devrait être publié à la fin de l'année 2003 après avoir recueilli l'avis du Conseil d'Etat.
