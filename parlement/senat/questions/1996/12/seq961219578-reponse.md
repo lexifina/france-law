@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961219578
+
+- Question : [SEQ961219578](seq961219578.md) — Réalisation d'économies d'échelle dans la gestion des postes à l'étranger
+
+## Réponse
+
+*Affaires étrangères, JO du 1997-01-30, page 276*
+
+Réponse. - Les premiers bilans d'étape des comités de gestion et des centres de gestion unique à partir des informations envoyées par les postes font apparaître des résultats positifs en matière de gestion des dépenses courantes, notamment dans le secteur des communications téléphoniques, des fournitures de bureaux, des assurances automobiles. A titre d'exemple, le budget de communication a pu baisser de plus de 12 % à Bruxelles à la suite d'une négociation liée au regroupement des contrats téléphoniques des quatre postes diplomatiques, du consulat général et du lycée français, présentés sous une seule entité " Etat français ". Le chiffre d'affaires global permet désormais, par effet de masse, de prétendre à un nouveau contrat financièrement encore plus avantageux et qui pourra également bénéficier à d'autres services français. Tananarive fait état d'une réduction allant jusqu'à 40 % sur l'achat de matériel de bureau, Tokyo a obtenu une réduction de 50 % sur les travaux d'impression, de reprographie et achat de papier, Mexico, Oslo font état de réductions importantes en fournitures de bureau ; Abidjan, Maputo, Tokyo ont obtenu une réduction des coûts d'assurance automobile... A la suite de la décision prise par le Comité interministériel des moyens de l'Etat à l'étranger (CIMEE) qui s'est tenu sous la présidence du Premier ministre le 14 novembre 1996 de procéder à un bilan de fonctionnement de leur structures de gestion sur une année pleine, les postes ont été invités, par une instruction en date du 30 décembre 1996, à évaluer les économies de gestion réalisées en 1996. Le ministère des affaires étrangères procédera à la synthèse des réponses fournies par les postes au cours des deux premiers mois de l'année 1997.
