@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860400341
+
+- Question : [SEQ860400341](seq860400341.md) — Délivrance des permis de résidence et de travail espagnols aux Français établis en Espagne
+
+## Réponse
+
+*Affaires étrangères, JO du 1986-05-15, page 709*
+
+Réponse. -Le ministre des affaires étrangères n'ignore pas les difficultés rencontrées par nos ressortissants résidant en Espagne en ce qui concerne la délivrance de permis de séjour et de travail, les autorités de ce pays exigeant de leur part des formalités relativement lourdes. Quoi qu'il en soit, cette réglementation, qui relevait de l'entière souveraineté des autorités espagnoles et avait d'ailleurs été récemment modifiée dans le sens d'un assouplissement, ne s'applique plus à la plupart de nos compatriotes résidant dans ce pays. L'adhésion de l'Espagne à la Communauté économique européenne place en effet ceux-ci sous le régime du droit communautaire dit de " libre circulation ", identique à celui qui s'applique aux ressortissants des autres Etats membres dans les pays de la C.E.E. Nos postes ont été invités à s'assurer que les autorités espagnoles appliquent correctement ces dispositions, et, de l'avis de notre ambassade, cette application ne paraît paspour le moment soulever de problèmes. Comme le sait l'honorable parlementaire, une période transitoire de sept années est prévue par le traité d'adhésion, pendant laquelle le régime du droit commun des étrangers continue à s'appliquer dans certaines limites aux travailleurs salariés arrivant en Espagne après la date d'entrée en vigueur du traité. Pour ces nouveaux venus, nos postes ont reçu des instructions de vigilance afin de s'assurer que le régime qui leur sera appliqué sera aussi proche que possible, compte tenu des différences de législation, de celui que nous consentons aux Espagnols dans la même situation.
