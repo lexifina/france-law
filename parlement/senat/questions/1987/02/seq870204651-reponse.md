@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870204651
+
+- Question : [SEQ870204651](seq870204651.md) — Respect des moyens donnés aux agences de bassin
+
+## Réponse
+
+*Budget, JO du 1987-04-23, page 628*
+
+Réponse. -La préparation du Ve programme de l'agence financière de bassin Rhône-Méditerranée-Corse a fait l'objet, durant l'année 1986, d'une procédure largement décentralisée. Aux termes de la loi du 16 décembre 1964 et du décret d'application du 14 septembre 1966 relatif aux agences financières de bassin, il appartient ensuite au Gouvernement d'approuver le montant global des redevances inscrit dans le programme pluriannuel d'intervention de chaque agence, après avoir recueilli l'avis des instances du bassin et de la mission interministérielle de l'eau. Appelée à se prononcer sur le programme présenté par l'agence Rhône-Méditerranée-Corse, la mission interministérielle de l'eau a constaté que le produit global des redevances associé à ce programme était bien supérieur à la norme définie par le Gouvernement pour les cinq prochaines années. Il a donc été demandé à l'agence d'adapter sa programmation en conséquence, tout en l'assurant d'une progression en volume de ses ressources, certes plus modérée que celle qu'avait escomptée l'établissement mais néanmoins tout à fait significative par rapport à d'autres secteurs d'intervention publique. Dans un contexte de baisse des prélèvements obligatoires et de lutte contre l'inflation, le caractère exceptionnel d'un tel engagement de l'Etat pour la protection de l'environnement et la dépollution des eaux doit être souligné. Ainsi, comme les cinq autres agences financières de bassin, l'agence Rhône-Méditerranée-Corse disposera, sur les cinq prochaines années, d'une croissance assurée de ses moyens financiers pour remplir les missions prioritaires retenues dans son Ve programme.
