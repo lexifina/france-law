@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990516664
+
+- Question : [SEQ990516664](seq990516664.md) — Collège Georges-Rouault à Paris 19e
+
+## Réponse
+
+*Éducation, JO du 1999-09-09, page 3006*
+
+Réponse. - Parmi les réponses qu'ils offrent à la diversité des élèves qu'ils accueillent, les collèges proposent à des élèves en grande difficulté scolaire, orientés par les commissions de l'éducation spéciale, des enseignements adaptés organisés dans le cadre de sections d'enseignement général et professionnel adapté (SEGPA). La scolarité des collégiens de SEGPA, comme pour tous les collégiens, se déroule de la classe de 6e à la classe de 3e, mais elle s'oriente, à partir de la classe de 4e, vers une professionnalisation progressive des enseignements. L'académie de Paris, en ce qui concerne l'accueil des élèves orientés en SEGPA, connaissait une situation particulière depuis de nombreuses années. En effet, des classes qui auraient normalement dû se trouver installées dans des collèges restaient implantées dans des écoles élémentaires depuis leur création, pérennisant ainsi une situation qui n'aurait dû être que transitoire. La régularisation nécessaire de cette situation a donc fait l'objet d'une priorité de l'académie de Paris. Ces classes dites " classes pré-ateliers " et " classe-ateliers " font actuellement l'objet de mesures pour être intégrées au sein des collèges parisiens où elles auraient dû se trouver depuis déjà longtemps. Pour ce faire, les autorités académiques de Paris ont toutes les compétences requises ; et c'est à elles qu'il appartient d'organiser au sein des collèges, et dans le respect des règles actuellement en vigueur, l'intégration de ces classes. Ainsi, tous les élèves parisiens orientés en SEGPA pourront enfin devenir, au sein d'un collège pour tous et pour chacun, des collégiens à part entière.
