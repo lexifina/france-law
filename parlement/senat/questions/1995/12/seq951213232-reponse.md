@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951213232
+
+- Question : [SEQ951213232](seq951213232.md) — Rôle des SAFER au regard de la politique d'installation des jeunes agriculteurs
+
+## Réponse
+
+*Agriculture, JO du 1997-01-23, page 193*
+
+Réponse. - En 1995, 2 200 jeunes agriculteurs ont acheté des terres par l'intermédiaire d'une SAFER pour s'installer ou s'agrandir, soit 100 jeunes agriculteurs supplémentaires par rapport à 1994 pour les seules installations. Les superficies consacrées par les SAFER aux installations ou réinstallations ont représenté, globalement, de l'ordre de 22 % de leurs réalisations, soit 22 300 hectares, contre 19 % en 1994. Ces résultats pourraient être jugés insuffisants, au regard de la priorité à l'installation qui est affichée. Toutefois il faut admettre que la mission des SAFER s'exerce dans des conditions bien particulières, celle de l'installation hors cadre familial nécessitant non seulement l'achat du capital d'exploitation mais aussi l'achat de foncier. Quant au financement des SAFER, il est assuré grâce à leurs fonds propres et par des prêts bancaires au taux du marché, plus avantageux actuellement. Le Gouvernement n'envisage pas de modifier ce dispositif de financement. Enfin, les subventions de fonctionnement du chapitre 44-44 sont destinées à compenser les sujétions résultant des missions de service public, notamment celle d'observation et de transparence du marché foncier, confiées à ces sociétés. Elles ne sont pas destinées à financer le stockage des terres. Ces crédits de fonctionnement ont effectivement subi une diminution de 1995 à 1996, mais il faut remarquer que, malgré la rigueur budgétaire actuelle, le projet de loi de finances pour 1997 propose un montant identique à celui de l'année 1996, ce qui traduit la volonté du ministère de préserver l'action des SAFER, notamment dans le domaine de l'installation.
