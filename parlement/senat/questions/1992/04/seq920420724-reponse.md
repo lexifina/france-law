@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920420724
+
+- Question : [SEQ920420724](seq920420724.md) — Respect de l'anonymat de l'accouchement
+
+## Réponse
+
+*Justice, JO du 1992-08-13, page 1894*
+
+Réponse. - La règle du secret de l'accouchement à laquelle il est fait référence dans le code de la famille et de l'aide sociale et le décret n° 74-27 du 14 janvier 1974 sur le fonctionnement des services hospitaliers permet à une femme d'être admise dans une maternité sans être tenue de faire connaître son identité. L'anonymat de l'accouchement consacre ainsi le droit de la mère au secret de sa vie privée. Ainsi que le fait remarquer l'honorable parlementaire, cette règle permet d'éviter le recours accru à l'interruption volontaire de grossesse et les abandons sauvages d'enfants précédés d'accouchement à domicile sans assistance médicale dans des conditions mettant en danger la vie de la mère et de l'enfant. Le secret de l'accouchement permet également une adoption de l'enfant dans de meilleures conditions. Le nombre d'enfants pour lequels le secret de la naissance a été demandé s'élève à près de sept cents chaque année et demeure constant au cours de la dernière décennie. Ce chiffre, quoique minime par rapport au nombre annuel de naissances en France, démontre toutefois l'utilité sociale et humaine de la règle du secret de l'accouchement, laquelle se révèle ainsi une mesure efficace de protection médicale et sociale de la mère et de l'enfant. Il y a lieu d'ajouter que l'Assemblée nationale, lors de la discussion en première lecture du projet de loi relatif à l'état civil, à la famille et aux droits de l'enfant et instituant le juge aux affaires familiales, a adopté un amendement tendant à rappeler, dans le code civil, le principe du secret de l'accouchement sous les termes de " secret de l'admission (dans l'établissement d'accouchement) et de l'identité de la mère ".
