@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920521164
+
+- Question : [SEQ920521164](seq920521164.md) — Conséquences pour Gaz de France de la déréglementation européenne
+
+## Réponse
+
+*Industrie, JO du 1992-09-17, page 2135*
+
+Réponse. - La régulation des marchés du gaz et de l'électricité fait actuellement l'objet de propositions de la Commission européenne, en discussion avec le Conseil et le Parlement européen dans le cadre de la procédure de coopération. Dans le domaine du gaz, ces propositions, qui ne prennent pas en compte de manière satisfaisante les impératifs de sécurité d'approvisionnement et de protection du consommateur, suscitant l'opposition d'une grande partie des Etats membres et tout particulièrement de la France. L'absence d'expériencee concrète sur le système proposé par la Commission, et la prise en compte du principe de subsidiarité, provoquent également de nombreuses interrogations. Des réflexions préalables approfondies sur ces questions de fond sont donc maintenant menées, à la fois dans le cadre du Conseil et par le Parlement, et la France y participe activement. Il s'agit donc d'un grand sujet, et les déclarations du président d'Elf-Aquitaine traduisent également la prise de conscience de ces enjeux par les entreprises concurrentielles du secteur de l'énergie. Dans le domaine particulier du gaz, la situation des pays voisins, où les opérateurs pétroliers et gaziers ont d'importants liens en capital, parfois mis en place en prévision des évolutions du marché intérieur, alimente aussi la réflexion. Quant à la position du Gouvernement français, elle découle des insuffisances graves des propositions de la Commission et de l'efficacité reconnue du système français. Elle conduit à rejeter très fermement le schéma actuellement proposé, dont les incidences dans le domaine de la distribution seraient également importantes même si celle-ci n'est pas directement abordée dans les propositions présentées.
