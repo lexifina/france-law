@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880209538
+
+- Question : [SEQ880209538](seq880209538.md) — Rénovation et amélioration du patrimoine immobilier ancien : fiscalité
+
+## Réponse
+
+*Budget, JO du 1988-03-17, page 371*
+
+Le régime fiscal des travaux de réhabilitation d'immeubles anciens repose sur la distinction entre les travaux de réparation et d'amélioration, d'une part, les travaux de reconstruction, d'autre part. Les dépenses d'amélioration, déductibles des revenus fonciers, s'entendent de celles qui ont pour objet d'apporter à un local d'habitation un équipement ou un élément de confort nouveau ou mieux adapté aux conditions modernes de vie, sans modifier cependant la structure de l'immeuble. Les travaux de reconstruction peuvent comporter soit la démolition complète d'un immeuble suivie de sa reconstruction, soit des modifications importantes apportées au gros oeuvre, soit des aménagements internes qui, par leur importance, équivalent à une véritable reconstruction. Il n'existe pas de typologie exhaustive de ces deux types de travaux, dont la qualification ne peut résulter que d'une appréciation globale, cas par cas, de la nature de l'ensemble des opérations. Cela dit, et pour répondre aux préoccupations exprimées par l'auteur de la question, tout contribuable peut, en application de l'article 19 de la loi du 8 juillet 1987 sur les procédures fiscales et douanières, demander quelles règles fiscales sont applicables à une opération précise de réhabilitation. L'administration doit alors prendre formellement position sur la situation de fait dont elle est saisie, ce qui garantit au contribuable le maintien de la règle fiscale énoncée tant que cette situation n'est pas modifiée. Enfin, une réflexion a été engagée afin de définir les mesures de nature législative ou réglementaire qui permettraient d'apporter une solution plus satisfaisante à ce problème.
