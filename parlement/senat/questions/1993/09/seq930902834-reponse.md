@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930902834
+
+- Question : [SEQ930902834](seq930902834.md) — Mission de service public de la SNCF
+
+## Réponse
+
+*Équipement, JO du 1993-12-16, page 2414*
+
+Réponse. - Le ministre de l'équipement, des transports et du tourisme attache un grand prix à la qualité du service que les grandes entreprises publiques de transport, et notamment la SNCF, assurent aux usagers du service public. Il importe que la SNCF améliore en permanence la qualité des prestations offertes aux voyageurs, en ce qui concerne la régularité des circulations, l'accès et l'accueil dans les gares, le confort du voyage, l'entretien des installations et, plus généralement, l'ensemble des éléments concourant à la satisfaction de la clientèle. Il a bien entendu rappelé à la SNCF ses engagements quant à la rectification des dysfonctionnements du système Socrate et lui a demandé d'y procéder dans les meilleurs délais. Il lui a également fait part de son souhait de voir la SNCF redéfinir le dialogue avec les usagers afin que soient mieux prises en compte leurs aspirations à un service de qualité, de les associer à l'évolution de sa politique commerciale et d'améliorer la communication et la transparence des informations. La SNCF a mis en place à cet effet un comité de suivi de Socrate comprenant des représentants de la SNCF et des associations de consommateurs et d'usagers. Les nouvelles orientations de la politique commerciale de la SNCF visent à proposer aux voyageurs des prestations de qualité, faciles à utiliser, à des prix accessibles à tous. Des mesures ont d'ores et déjà été arrêtées pour assouplir l'accès aux trains et l'accueil en gare, simplifier les modalités de régularisation des situations à bord des trains ou d'échange et de remboursement des billets et, plus généralement, améliorer l'information des clients.
