@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990717802
+
+- Question : [SEQ990717802](seq990717802.md) — Stationnement des gens du voyage
+
+## Réponse
+
+*Intérieur, JO du 1999-08-19, page 2825*
+
+Réponse. - Les difficultés liées à la présence des gens du voyage dans le département de l'Essonne sont essentiellement dues à l'inadéquation entre le nombre d'emplacements disponibles sur les aires d'accueil réalisées et celui des caravanes transitant dans ce département. Cette situation engendre inévitablement des stationnements irréguliers provoquant des troubles à l'ordre et à la salubrité publics. Au niveau national, le Gouvernement est pleinement conscient du problème posé par l'accueil des gens du voyage. C'est pourquoi il a déposé au Parlement un projet de loi relatif à l'accueil des gens du voyage. Ce projet a été adopté en première lecture, à l'Assemblée nationale, au cours de sa séance du 24 juin 1999. Un des principaux objectifs de cette loi est de permettre la réalisation rapide d'un nombre suffisant d'aires d'accueil, préalable indispensable au renforcement de la lutte contre les installations irrégulières de caravanes. Pour atteindre cet objectif, le projet de loi propose un dispositif comprenant un mode d'élaboration du schéma départemental et des aires d'accueil au plus près du terrain, des aides financières de l'Etat importantes et des mesures visant à améliorer les procédures judiciaires pour obtenir l'évacuation forcée des caravanes en situation d'infraction. Sur ce dernier point, ce projet prévoit, en son article 9, d'accroître les moyens juridiques des communes pour lutter contre les occupations illicites, dès lors que celles-ci auront rempli leurs obligations en matière d'accueil. Si ces dispositions devaient être définitivement adoptées, elles seraient de nature à répondre aux préoccupations exprimées par l'honorable parlementaire.
