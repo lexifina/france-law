@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900610380
+
+- Question : [SEQ900610380](seq900610380.md) — Conférence sur l'épargne
+
+## Réponse
+
+*Économie, JO du 1990-08-23, page 1820*
+
+Réponse. - Les questions posées par l'honorable parlementaire ne ressortissent pas toutes de la politique de l'épargne et appellent donc une approche diversifiée et des procédures adaptées à chaque cas. En ce qui concerne les dépôts auprès des notaires, ceux-ci ne correspondent pas à un acte d'épargne. Comme tous les dépôts effectués auprès des professions juridiques, ils répondent à la nécessité d'isoler et de garantir des fonds en attente du dénouement d'actes juridiques. Les problèmes relatifs à ces fonds n'ont donc pas trait à leur affectation qui est prédéterminée par l'acte juridique auquel ils se rattachent, mais à l'éventuelle modernisation des procédures mises en oeuvre lors de leur dépôt temporaire auprès d'un intermédiaire. Les questions majeures posées par cette modernisation sont celles de la transparence des systèmes existants au regard des droits du déposant, par exemple en matière de rémunération ou de neutralité de ces mécanismes vis-à-vis du jeu de la concurrence entre banques. En revanche, les comptes sur livret, qui correspondent effectivement à un acte d'épargne, obéissent à des régimes particuliers dont l'objet est de préciser l'affectation des sommes collectées à des financements d'intérêt général. Le Gouvernement n'envisage pas de modifier les modalités de collecte de ces ressources. Il en a récemment précisé l'affectation et a pris des mesures pour dynamiser les réseaux collecteurs de ces produits. Les ressources du livret A sont désormais réservées intégralement au financement du logement locatif social. Des discussions avec le Crédit mutuel sont engagées à propos des modalités de centralisation des fonds déposés sur le livret bleu à la Caisse des dépôts et consignations pour financer le logement social.
