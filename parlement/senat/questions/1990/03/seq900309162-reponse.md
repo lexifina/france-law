@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900309162
+
+- Question : [SEQ900309162](seq900309162.md) — Attribution des prêts MTS-CUMA
+
+## Réponse
+
+*Agriculture, JO du 1990-07-05, page 1461*
+
+Réponse. - Un dossier de demande de prêts spéciaux en faveur des coopératives d'utilisation en commun de matériel agricole (C.U.M.A.) doit comporter un plan pluriannuel d'investissements, conformément aux dispositions du décret n° 82-370 du 4 mai 1982 portant création des prêts spéciaux aux C.U.M.A. A cet égard, il a été jugé nécessaire de rappeler dans la circulaire DEPSE/SSEA/C90 n° 7002 cette obligation, considérant que l'absence de toute gestion prévisionnelle à moyen terme d'au moins trois ans était préjudiciable pour la bonne gestion d'une C.U.M.A. Cependant, si, pour des raisons motivées, il s'avère nécessaire de réviser le programme d'investissement, un avenant peut être présenté au préfet et examiné par la commission mixte départementale selon la même procédure que le plan initial. Cette dernière disposition introduit une flexibilité dans le plan pluriannuel d'investissements pour tenir compte de la réalité et des difficultés que peuvent rencontrer les sociétaires de la C.U.M.A. pendant le déroulement de leur programme d'investissements. Par ailleurs, pour éviter de créer des distorsions de concurrence dans des secteurs normalement couverts par des S.I.C.A., des coopératives classiques ou des entreprises, il a été décidé, après concertation avec la Fédération nationale des C.U.M.A., et compte tenu des observations faites par les instances communautaires, de préciser par une liste les types de matériels agricoles et forestiers susceptibles de bénéficier d'un financement par des prêts surbonifiés. Enfin, en matière d'acquisition de hangar, une réévaluation du plafond de 100 000 francs est envisagée.
