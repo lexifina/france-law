@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890203426
+
+- Question : [SEQ890203426](seq890203426.md) — PEGC en service à l'étranger : horaires statutaires
+
+## Réponse
+
+*Affaires étrangères, JO du 1989-04-20, page 622*
+
+Réponse. - L'honorable parlementaire a bien voulu attirer l'attention du ministre d'Etat, ministre des affaires étrangères, sur les dispositions financières concernant l'application des modalités de la réduction des horaires de vingt et une heures hebdomadaires à vingt heures trente des professeurs d'enseignement général de collège dans les établissements scolaires et culturels en Espagne. Dans la quasi-totalité des établissements d'Espagne le système utilisé est le suivant : tous les professeurs d'enseignement général de collège continuent d'être astreints à un horaire de vingt et une heures. La demi-heure correspondant à la réduction de leur horaire statutaire leur est payée, qu'ils soient recrutés localement ou rémunérés par le ministère des affaires étrangères, selon le tarif des heures normales en vigueur en Espagne. En effet, selon la convention collective qui s'applique dans ces établissements, il ne peut y avoir d'heures supplémentaires, sauf accord particulier entre direction et syndicats, qu'au-delà de vingt-huit heures hebdomadaires. Un tel accord existe cependant dans les lycées à programmes français de Valence et d'Alicante, fixant jusqu'au 30 juin 1989 un taux consensuel qui se rapproche en fait du tarif des heures normales. Dans ce contexte et dans ces conditions, aucun établissement n'a éprouvé la nécessité de solliciter une subvention complémentaire auprès du ministère des affaires étrangères. Le ministère des affaires étrangères considère donc ce système comme tout à fait satisfaisant. En effet, d'une part, il est conforme aux textes officiels locaux, d'autre part, il n'a soulevé aucune opposition de la part des personnels enseignants concernés, ceux-ci n'ayant à aucun moment émis quelconque objection.
