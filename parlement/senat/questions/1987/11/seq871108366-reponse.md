@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871108366
+
+- Question : [SEQ871108366](seq871108366.md) — Services extérieurs du Trésor de Watten et Bourbourg (Nord)
+
+## Réponse
+
+*Budget, JO du 1987-12-10, page 1937*
+
+Réponse. -La perception de Watten (Nord) ne dispose plus d'un comptable titulaire depuis plus de vingt ans ; l'arrêté ministériel du 21 août 1987 n'a eu pour objet que de régulariser en droit cette situation de fait en confiant désormais la gestion de la perception de Watten au comptable de Bourbourg. Cette décision ne supprime pas la présence des services extérieurs du Trésor à Watten. Des permanences subsisteront donc et sont à arrêter localement, en concertation avec les élus. Leur périodicité variera selon les besoins et les usages locaux. Aussi, un examen périodique des flux de fréquentation aux guichets est souhaitable afin d'évaluer les besoins réels du public éventuellement variables selon les périodes de l'année. Le trafic moyen journalier actuel est d'environ dix opérations. C'est à partir de ces éléments que deux permanences hebdomadaires seront mises en place au 1er janvier prochain. Ces permanences seront assurées par un agent actuellement en fonctions à Watten. Les responsables départementaux des services extérieurs du Trésor du département du Nord se tiennent bien entendu à la disposition des élus pour examiner avec eux les aménagements qui s'avéreraient indispensables quant à la quotité et à la distribution de ces permanences. Enfin, la réinstallation immobilière est intervenue, le 1er novembre 1982, à la seule initiative de la commune de Watten, à laquelle il avait été précisé, à l'époque, que cette décision ne saurait engager définitivement l'administration. Au demeurant, il convient de remarquer que le maintien de plages d'ouverture au public à Watten permettra à la commune de conserver partiellement une partie des loyers pour les locaux ainsi mis à la disposition du Trésor public.
