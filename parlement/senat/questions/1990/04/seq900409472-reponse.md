@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900409472
+
+- Question : [SEQ900409472](seq900409472.md) — Domaine de la santé dans le Nord - Pas-de-Calais
+
+## Réponse
+
+*Solidarité, JO du 1990-08-30, page 1920*
+
+Réponse. - L'activité hospitalière de la région Nord - Pas-de-Calais, moyennement dotée en nombre de lits hospitaliers, confirme l'évolution de l'hospitalisation en France vers un effort de recentrage sur son plateau technique, avec une réduction des durées moyennes de séjour. Cette activité ne peut plus seulement s'apprécier en termes de lits hospitaliers mais s'inscrit dans un contexte d'optimisation des équipements existants. En ce qui concerne les retards enregistrés sur de multiples aspects par la région Nord - Pas-de-Calais, ils ont justifié la conclusion d'un contrat Etat-région sur la période 1985-1989. Il s'est agi en effet de combler les disparités entre la région et le reste de la France par une modernisation des plateaux techniques des établissements hospitaliers, une amélioration du confort des locaux d'hébergement hospitaliers et une meilleure implantation des équipements lourds. Afin de poursuivre cet effort, il est apparu nécessaire d'y consacrer des moyens supplémentaires par la signature d'un second contrat de plan Etat-région pour la période 1989-1993 qui est consacré à la modernisation des plateaux techniques des centres hospitaliers généraux et à la rénovation de l'équipement psychiatrique. Par ailleurs, un contrat d'objectifs entre l'Etat et le centre hospitalier régional de Lille, afin de préparer la modernisation de ce dernier, a été signé le 14 décembre 1989. L'objectif poursuivi vers une optimisation des équipements hospitaliers de la région sera également accompagné d'efforts afin de réduire les disparités du Nord - Pas-de-Calais avec le reste de la France en matière de prévention et de promotion de la santé.
