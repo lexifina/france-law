@@ -1,6 +1,6 @@
 # Article 41-0 A bis
 
-I. L'état dont la production est prévue au quatrième alinéa du II de l'article 151 octies du code général des impôts mentionne les éléments suivants :
+I. – L'état dont la production est prévue au sixième alinéa du II de l'article 151 octies du code général des impôts mentionne les éléments suivants :
 
 a) Le nom de l'apporteur, son adresse au moment de la production de l'état et l'adresse du siège de la direction de l'entreprise à laquelle étaient affectés les éléments d'actif apportés ou du lieu de son principal établissement ;
 
@@ -20,4 +20,4 @@ h) En cas de transmission à titre gratuit, les nom et adresse du ou des bénéf
 
 i) En cas de transformation de la société bénéficiaire de l'apport, la date de l'opération, la forme nouvelle adoptée par la société.
 
-II. Les dispositions du I s'appliquent au bénéficiaire de la transmission mentionné au premier alinéa du a du I de l'article 151 octies du code général des impôts qui prend l'engagement visé à ce même a.
+II. – Les dispositions du I s'appliquent au bénéficiaire de la transmission mentionné au premier alinéa du a du I de l'article 151 octies du code général des impôts qui prend l'engagement visé à ce même a.

@@ -4,4 +4,4 @@ Lorsqu'un employeur n'a pas effectué le versement à un organisme collecteur vi
 
 Le contrôle et le contentieux de la participation des employeurs, autres que ceux prévus aux articles L. 991-1 et L. 991-4 du code du travail pour les litiges relatifs à la réalité et à la validité des versements faits aux organismes collecteurs visés à l'article 235 ter KA, sont effectués selon les règles applicables en matière de taxe sur le chiffre d'affaires.
 
-Le reversement mentionné à l'article 235 ter KB est soumis au x dispositions des deux alinéas précédents.
+Le reversement mentionné à l'article 235 ter KB est soumis aux dispositions des premier et deuxième alinéas.
