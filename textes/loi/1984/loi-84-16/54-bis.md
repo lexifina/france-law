@@ -1,0 +1,11 @@
+# Article 54 bis
+
+Le congé de présence parentale est la position du fonctionnaire qui est placé hors de son administration ou service d'origine lorsque la maladie, l'accident ou le handicap graves d'un enfant à charge, appréciés selon des modalités définies par décret en Conseil d'Etat, nécessite la présence de sa mère ou de son père auprès de lui.
+
+Ce congé non rémunéré est accordé de droit, sur demande écrite du fonctionnaire, pour une durée initiale de quatre mois au plus ; il peut être prolongé deux fois, dans la limite d'un an.
+
+Dans cette position, le fonctionnaire conserve ses droits à l'avancement d'échelon, réduits de moitié, ainsi que la qualité d'électeur lors de l'élection des représentants du personnel au sein de la commission administrative paritaire. Il n'acquiert pas de droits à la retraite.
+
+A l'issue du congé de présence parentale ou en cas de diminution des ressources du ménage ou en cas de décès de l'enfant, le fonctionnaire est réintégré de plein droit, au besoin en surnombre, dans son corps d'origine. Il est réaffecté dans son ancien emploi. Dans le cas où celui-ci ne peut lui être proposé, le fonctionnaire est affecté dans un emploi le plus proche de son dernier lieu de travail. S'il le demande, il peut également être affecté dans un emploi le plus proche de son domicile sous réserve de l'application de l'article 60 ci-dessous.
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
