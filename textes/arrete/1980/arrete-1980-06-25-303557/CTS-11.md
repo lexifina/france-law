@@ -4,9 +4,11 @@ Circulations
 
 § 1. La distance maximale, mesurée suivant l'axe des circulations (dégagements, allées, pistes, vomitoires, escaliers, etc.), que le public doit parcourir pour atteindre une sortie ne doit pas dépasser 30 mètres.
 
+Toutefois, cette distance est portée à 40 mètres pour les expositions. En ce qui concerne les autres activités, la distance de 40 mètres peut également être autorisée par la commission consultative départementale de la protection civile, de la sécurité et de l'accessibilité après examen sur plan des aménagements intérieurs.
+
 § 2. Dans les établissements comportant des rangées de sièges, ceux-ci doivent être disposés de manière à former des ensembles desservis par des circulations ayant une largeur minimale de 1,20 mètre.
 
-Les sièges situés en bordure des circulations doivent être alignés, ou tout au moins ne pas former de redents susceptibles d'accrocher les personnes évacuant l'établissement.
+Les sièges en bordure des circulations doivent être alignés, ou tout au moins ne pas former de redents susceptibles d'accrocher les personnes évacuant l'établissement.
 
 Un espace de 0,30 mètre doit être aménagé entre les rangées de sièges pour permettre une évacuation facile du public.
 

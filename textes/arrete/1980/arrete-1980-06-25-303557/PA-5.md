@@ -1,27 +1,17 @@
 # Article PA 5
 
-Tribunes et gradins
+Tribunes et gradins non démontables
 
-§ 1. Aucune stabilité au feu n'est exigée pour les structures porteuses s'il n'existe pas de local à risques particuliers sous les tribunes.
+§ 1. Les dispositions de l'article CO 55 sont applicables aux escaliers droits des établissements de plein air. Les dispositions de l'article CO 57 (§ 2) sont applicables aux marches du gradinage.
 
-Si des locaux à risques particuliers sont implantés sous les tribunes :
+§ 2. Aucune stabilité au feu n'est exigée pour les structures porteuses s'il n'existe pas de local à risques particuliers sous les tribunes.
 
-- aucune stabilité au feu n'est exigée dans le cas où les structures porteuses ne traversent pas ces locaux ;
-
-- une stabilité au feu de degré une heure est exigée dans le cas contraire.
+Si des locaux à risques particuliers sont implantés sous les tribunes, aucune stabilité au feu n'est exigée dans le cas où les structures porteuses ne traversent pas ces locaux ; dans le cas contraire, une stabilité au feu de degré 1 heure est exigée dans la hauteur de ces locaux traversés.
 
 Dans tous les cas, la ruine d'un élément porteur ne doit pas entraîner un effondrement en chaîne.
 
-§ 2. Les gradins, les planchers et les escaliers doivent être calculés pour une surchage de 500 daN/mètre carré ; ils doivent comporter les fondations et les contreventements nécessaires à leur stabilité.
+§ 3. Les jours entre gradins ou le long des circulations doivent respecter les dimensions fixées dans la norme relative aux garde-corps (cf. note 2) .
 
-§ 3. Les gradins doivent être recoupés tous les 20 mètres au plus par des escaliers
+Les dessous doivent être rendus inaccessibles au public ; ils ne doivent pas servir de rangement de matériel, de dépôt, de stockage, etc. Ils doivent être maintenus en permanence en parfait état de propreté.
 
-Les marches de desserte des places de gradins doivent avoir une hauteur minimale de 0,10 mètre, une hauteur maximale de 0,20 mètre et un giron supérieur ou égal à 0,20 mètre. Toutrefois, la hauteur maximale des marches est portée à 0,25 mètre sous réserve que la tribune ne comporte pas plus de dix gradins. Dans tous les cas, l'alignement du nez des marches ne doit pas dépasser 45°.
-
-§ 4. Des garde-corps (ou barres d'appui) doivent être installés :
-
-- dans les parties de tribunes dont la dénivelée entre deux gradins successifs (ou entre un gradin et le sol) est supérieure ou égale à 1 mètre ;
-
-- dans les parties de tribunes où le public est debout en permanence à raison d'une ligne de garde-corps tous les cinq gradins.
-
-En outre, ces garde-corps doivent pouvoir résister à un effort horizontal de 170 daN/mètre linéaire.
+§ 4. Chaque rang de gradins ne peut dépasser 20 mètres entre 2 circulations ou 10 mètres entre 1 paroi et 1 circulation.
