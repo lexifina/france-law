@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911218859
+
+- Question : [SEQ911218859](seq911218859.md) — Rénovation du patrimoine
+
+## Réponse
+
+*Tourisme, JO du 1992-03-12, page 631*
+
+Réponse. - La mise en oeuvre des treize mesures proposées par le ministre délégué au tourisme lors de sa communication au conseil des ministres du 24 juillet dernier " pour une politique d'accès aux loisirs et aux vacances " se traduit en premier lieu par l'augmentation des crédits destinés au tourisme social dans le projet de loi de finances pour 1992. En effet, les crédits du titre IV affectés aux interventions publiques en faveur du tourisme associatif passeront de près de 4,5 millions de francs en 1991 à 13,5 millions de francs en 1992 hors subvention exceptionnelle au Fonds de garantie des loyers ; ceux du titre IV, destinés aux subventions d'investissement pour les hébergements à caractère associatif ou familial, s'élèveront en 1992 à 43,5 millions de francs en autorisations de programme contre 33,3 millions en 1991. Les moyens budgétaires ainsi dégagés vont permettre de financer en 1992 les mesures arrêtées par le Gouvernement, notamment la proposition soulignée par l'honorable parlementaire, qui tend à la poursuite de la rénovation du patrimoine et la recherche de nouveaux partenaires. La consolidation des crédits du titre VI va permettre de continuer la rénovation du patrimoine des associations de tourisme dans le cadre du " Plan de patrimoine ". De plus, s'intégrant dans l'accord-cadre que le ministre du tourisme vient de signer avec les organismes fédérateurs du tourisme associatif, l'U.N.A.T. et le Cecorel, une démarche innovante va permettre d'initier de nouveaux dispositifs partenariaux, tant sur le plan national que régional, entre les institutions et organismes intervenant dans le domaine de la politique sociale du tourisme et faciliter la coordination de leurs activités.
