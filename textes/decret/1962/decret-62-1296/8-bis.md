@@ -14,6 +14,8 @@ Le dossier de la demande d'autorisation de stockage comporte :
 
 2° Le périmètre de stockage et le périmètre de protection demandés, ainsi que les communes et les départements intéressés ; le périmètre de stockage englobe la totalité de la zone pouvant être occupée par le gaz et les puits de contrôle périphériques de l'extension de la zone en gaz ; le périmètre de protection comprend toute la zone à l'intérieur de laquelle doit être assurée la protection du réservoir et des installations de surface, ainsi que celle des nappes aquifères que la présence du stockage rendait vulnérables.
 
+Lorsque le demandeur de l'autorisation requiert l'institution de servitudes d'utilité publique, il fait connaître le périmètre et les règles souhaités.
+
 3° Le programme prévisionnel des forages et les modalités des travaux, ainsi que des injections et soutirages de gaz destinés, d'une part, à préciser les caractéristiques des formations reconnues et, d'autre part, à permettre le développement du stockage.
 
 4° Les caractéristiques techniques essentielles du stockage projeté et de ses installations de surface.
@@ -21,3 +23,9 @@ Le dossier de la demande d'autorisation de stockage comporte :
 5° La nature et le volume maximum estimé, mesuré dans les conditions normales, des gaz qui seront stockés.
 
 6° Toutes justifications de l'intérêt public du stockage projeté.
+
+NOTA :
+
+NOTA : Décret 2006-648 du 2 juin 2006 article 64 2ème alinéa :
+
+Spécificités d'application.
