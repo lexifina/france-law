@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020238717
+
+- Question : [SEQ020238717](seq020238717.md) — Déploiement du réseau de transmission Rubis et équipement bureautique des brigades de gendarmerie en Creuse
+
+## Réponse
+
+*Défense, JO du 2002-05-02, page 1250*
+
+Après l'achèvement du déploiement du système de radiocommunication cellulaire Rubis dans les départements de la Corrèze et de la Haute-Vienne, les problèmes de liaisons constatés dans le sud du département de la Creuse se trouvent résorbés à plus de 90 %. Les rares points de dysfonctionnement subsistants, dépourvus de zones d'habitat, ne présentent aucun caractère sensible, ni pour la sécurité des personnes ni en matière d'ordre public ou judiciaire. Par ailleurs, les tempêtes du mois de décembre 1999 n'ont eu aucune répercussion sur les capacités d'emploi du système Rubis. Elles ont néanmoins mis en exergue la nécessite d'optimiser l'alimentation en énergie basse tension des sites relais de ce réseau. Ainsi, le département de la Creuse a bénéficié de la fourniture d'une première tranche de deux équipements (groupes électrogènes et armoires électriques) qui sera complétée au cours du second semestre, permettant d'obtenir un parc de secours de quatre unités, chiffre correspondant au nombre de relais Rubis installés dans ce département. Enfin, le programme national de déploiement des matériels de bureautique lancé en 1990 a été achevé en 1996. Il aura permis d'installer plus de 7 000 micro-ordinateurs dans la plupart des unités. La totalité des premières machines mises en place a d'ores et déjà été renouvelée et ce programme de remplacement va se poursuivre, grâce à l'augmentation des dotations qui ont été allouées par le ministre de la défense en décembre dernier. Pour le département de la Creuse, l'équipement des brigades de gendarmerie sera constitué en 2002 de 134 configurations (micro-ordinateur et imprimante) et 7 micro-ordinateurs portables.
