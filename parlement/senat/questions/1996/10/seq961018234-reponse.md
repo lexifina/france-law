@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961018234
+
+- Question : [SEQ961018234](seq961018234.md) — Risque pour l'emploi en France de l'ouverture des services postaux à la concurrence
+
+## Réponse
+
+*Industrie, JO du 1997-03-20, page 885*
+
+Réponse. - La proposition de directive relative aux services postaux, présentée par la commission, fait suite à la résolution du conseil du 7 février 1994 qui marquait la volonté de promouvoir un service universel dans le domaine des postes. La position des autorités françaises sur le projet de directive a été constante depuis les travaux engagés par la commission : elle vise à favoriser le développement de services postaux, en insistant notamment sur la définition d'un service universel postal communautaire qui intègre les caractéristiques fondamentales du service public postal français, la viabilité de ce service universel étant garantie par la définition d'un périmètre de services réservés. L'insistance des autorités françaises a permis lors du conseil du 18 décembre 1996 la prise en compte d'un compromis élaboré en collaboration avec l'Allemagne qui maintient le publipostage et le courrier transfrontière dans le secteur réservable. Le projet de directive postale prévoit, en outre, que toute révision du périmètre des services réservables interviendra sur décision du conseil et du Parlement européen avec prise d'effet, au plus tôt, en 2003. Ce compromis va permettre l'adoption d'un cadre réglementaire postal au niveau européen qui garantira l'instauration d'un service universel, couvrant l'ensemble du territoire européen et assurant aux citoyens une offre efficace de services de qualité à des prix abordables. La fermeté de la position française dans le processus de négociation a donc prévalu et permet l'organisation d'une concurrence graduelle et parfaitement maîtrisée qui ne remet aucunement en cause le service public postal et ne conduit pas à une aggravation de la situation financière de La Poste.
