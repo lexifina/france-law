@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950611338
+
+- Question : [SEQ950611338](seq950611338.md) — Conditions d'ouverture d'un compte bancaire au nom d'un syndicat de copropriété
+
+## Réponse
+
+*Justice, JO du 1995-09-07, page 1734*
+
+Réponse. - L'article 18 de la loi du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis dispose que la décision d'ouvrir ou non un compte bancaire ou postal séparé au nom du syndicat est prise à " la majorité mentionnée à l'article 25 ". L'article 29 alinéa 2 du décret d'application du 17 mars 1967 modifié précise que " la décision d'ouvrir un compte séparé est prise dans les conditions de majorité prévues à l'article 25 ". Ainsi que l'indiquait la réponse (Journal officiel, débats, Sénat du 12 décembre 1991) à la question écrite no 17290 du 19 septembre 1991 posée par l'honorable parlementaire, les textes précités font référence non à l'ensemble des dispositions de l'article 25, mais aux seules " conditions de majorité " prévues par ce texte, lesquelles consistent en l'obtention de la majorité des voix de tous les copropriétaires. Il convient, en conséquence, de considérer, sous réserve de l'appréciation des tribunaux, qu'à défaut de décision prise sur la question de l'ouverture ou de la non-ouverture d'un compte séparé, une nouvelle assemblée générale ne peut statuer sur ce point dans les conditions prévues à l'article 24. Par application des dispositions de l'article 29 alinéa 2 du décret précité, et dans le souci d'éviter toute équivoque, le projet de résolution soumis au vote de l'assemblée générale devrait porter sur l'ouverture d'un compte séparé. Ainsi, si cette résolution obtient la majorité de l'article 25, le syndic devra procéder à l'ouverture d'un compte séparé ; si la résolution n'obtient pas la majorité de l'article 25, le syndic ne procédera pas à cette ouverture.
