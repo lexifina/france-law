@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960716487
+
+- Question : [SEQ960716487](seq960716487.md) — Situation des professionnels de l'agriculture
+
+## Réponse
+
+*Agriculture, JO du 1997-04-10, page 1112*
+
+Réponse. - Le Comité national interprofessionnel de l'horticulture florale, ornementale et des pépinières (CNIH) n'a pas été mis en liquidation en 1992 mais en 1996 par un arrêté interministériel du 11 septembre 1996 paru au Journal officiel du 19 septembre. Il est exact que la loi de finances 1996 a supprimé la taxe parafiscale perçue au profit du CNIH. Mais cette décision n'a introduit la perception de ladite taxe qu'au titre de 1996. Or les taxes qui ont été appelées en 1996 l'ont été au titre de la période transitoire 1994-1995, conformément aux dispositions figurant dans un protocole d'accord signé le 29 mars 1995 par les présidents des familles professionnelles représentatives de la filière. Ce protocole d'accord prévoyait une profonde réforme de l'interprofession horticole par un recentrage de son activité sur les deux missions essentielles pour la filière, la recherche appliquée-expérimentation et la promotion, et parallèlement une diminution de près de moitié des taxes prélevées auprès des opérateurs de la filière. Pendant les années 1994-1995, malgré la crise qui secouait la filière, le CNIH a continué ses travaux en recherche-appliquée-expérimentation, comme l'atteste notamment le très important compte rendu des résultats de l'ensemble des stations de recherche appliquée-expérimentation en 1995. Ce document a été publié et diffusé au début de 1996 par le CNIH. En outre, pendant toute l'année 1995, le CNIH s'était appliqué à mettre en oeuvre la réforme de l'interprofession horticole selon les orientations du protocole d'accord. Les taxes appelées au titre des années 1994 et 1995, comme d'ailleurs au titre des années antérieures, sont dues et parfaitement justifiées.
