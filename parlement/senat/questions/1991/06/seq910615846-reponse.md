@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910615846
+
+- Question : [SEQ910615846](seq910615846.md) — Suppression des postes Fonjep attribués aux maisons familiales de vacances
+
+## Réponse
+
+*Affaires sociales, JO du 1991-12-05, page 2692*
+
+Réponse. - L'attention du ministre des affaires sociales et de l'intégration a été appelée sur les conséquences de la décision de suppression des postes Fonjep attribués aux maisons familiales de vacances à partir du 1er janvier 1992. Dans le prolongement des lois de décentralisation et afin de renforcer l'efficacité des différents échelons de l'administration, le Gouvernement a procédé à une déconcentration aussi large que possible des pouvoirs de décision relevant de l'Etat. C'est dans ce cadre que doivent être redéployés et déconcentrés, au niveau départemental, les crédits afférents au financement des postes Fonjep maisons familiales de vacances. Ces crédits seront affectés en fonction des objectifs d'animation locale, conformément à l'évolution des besoins, notamment des populations très défavorisées, objectifs qui comprennent l'aide aux vacances des familles très démunies. Par ailleurs, cette déconcentration des crédits, dont le montant sera maintenu en 1992,doit être menée en étroite concertation avec les organismes et associations intéressées afin d'éviter qu'il n'entraîne des difficultés pour les maisons familiales de vacances. Les commissions régionales Fonjep seront consultées sur les décisions prises par les services extérieurs de mon département ministériel et une convention au niveau national entre le ministère des affaires sociales et de l'intégration et la fédération des maisons familiales de vacances sera maintenue. Enfin, il est précisé que cette modification touche les 243 postes attribués nationalement aux maisons familiales de vacances et ne concerne pas les attributions des 357 postes Fonjep-Solidarité aux associations de développement local et aux 665 postes des foyers de jeunes travailleurs.
