@@ -2,6 +2,10 @@
 
 Pays de la Loire
 
+ACB/Alsthom Fluides et Mécaniques :
+
+- boulevard de la Prairie-au-Duc, 44945 Nantes Cedex 9 : de 1945 à 1997.
+
 Ateliers français de l'Ouest/ARNO/AFO :
 
 - quai des Frégates, 44600 Saint-Nazaire : de 1945 à 1994.
@@ -46,6 +50,10 @@ CNI (chaudronnerie navale et industrielle) :
 
 - boulevard des Apprentis, 44550 Montoir-de-Bretagne : de 1974 à 1997.
 
+CRM :
+
+- 46 bis, rue de la Maladrie, 44120 Vertou : depuis sa création.
+
 Dubigeon :
 
 - boulevard de la Prairie-du-Duc, 44200 Nantes : de 1945 à 1975.
@@ -57,6 +65,10 @@ EGT (Entreprise générale de travaux maritimes) :
 EGTIM :
 
 - 95, quai Elormenais, 44800 Saint-Herblain puis 16, rue Schumann, ZI de la Loire, 44800 Saint-Herblain : de 1982 à 1985.
+
+Electro Navale Electronique :
+
+- 332, boulevard Marcel-Paul, 44806 Saint-Herblain Cedex : depuis sa création.
 
 ERBOS :
 
@@ -86,6 +98,18 @@ Leroux et Lotz :
 
 - rue des Usines, 44100 Nantes : de 1960 à 1975.
 
+Mac Gegor :
+
+- 4, impasse des Alisées, 44474 Carquefou Cedex : depuis sa création.
+
+Mahe :
+
+- ZI Villejanus, rue des Saveurs, 44350 Guérande : depuis sa création.
+
+MSNI :
+
+- 52, rue de la Matte, 44600 Saint-Nazaire : depuis sa création.
+
 NMI (Nantaise Maritime Industrielle) :
 
 - zone industrielle, route de Nozay, 44130 Blain : de 1970 à 1992.
@@ -94,9 +118,41 @@ OCEA, quai de la Cabaude :
 
 - 85100 Les Sables-d'Olonne : de 1954 à 1995.
 
+OTGS :
+
+- 5, rue du Tertre, 44470 Carquefou : depuis sa création.
+
+Pluriservices :
+
+- 19, rue des Chantiers, 44600 Saint-Nazaire : depuis sa création.
+
+Rineau :
+
+- 46, boulevard de la Prairie-au-Duc, 44000 Nantes : depuis sa création.
+
 SA Atelier de Trignac :
 
 - usine de Trignac, 44570 Trignac : de 1955 à 1970.
+
+SAFEN :
+
+- 5, rue du Tertre, 44470 Carquefou : depuis sa création.
+
+SEMT Mécanique :
+
+- avenue de Bourdelles, 44600 Saint-Nazaire : de 1944 à 1977.
+
+SIDES :
+
+- 182, rue de Trignac, 44600 Saint-Nazaire : depuis sa création.
+
+SIN et STESS ;
+
+- 8, rue Antarès, ZI Belle-Etoile, 44470 Carquefou : depuis sa création.
+
+SNEF :
+
+- ZI de Jouy, 44480 Donges : depuis sa création.
 
 SNT :
 
@@ -118,13 +174,21 @@ SNI/SNMI/ARNI/Nantaise Maritime :
 
 - 8, rue René-Cassin, 44600 Saint-Nazaire : de 1960 à 1997, puis 44800 Saint-Herblain : de 1970 à 1995.
 
-SOFRADI :
+SOFRADI puis SOFRALI :
 
 - parc d'activités Ragon, avenue Descartes, 44119 Treillières : de 1961 à 1983.
 
 SONAPEC/SOPENA :
 
 - 21, avenue de Penhouet, 44600 Saint-Nazaire : depuis 1981.
+
+SONIP :
+
+- ZI de Jouy, 44480 Donges : depuis sa création.
+
+SPIE Trindel :
+
+- 271, boulevard Marcel-Paul, 44814 Saint-Herblain : depuis sa création
 
 STIO/Lange Daniel :
 
@@ -176,6 +240,10 @@ Ateliers d'ARENC :
 
 - 274, chemin du Littoral, 13015 Marseille : depuis 1979.
 
+Ateliers de tuyautage et de chaudronnerie (ATC) :
+
+- 87, rue d'Alger, 13006 Marseille : de 1951 à 1987, puis Société nouvelle ATC SARL : enceinte portuaire Forme 9, 13006 Marseille : depuis 1987.
+
 Ateliers Galli :
 
 - ZAC de Saumaty-Séon, 33, chemin de Saint-Henri, 13016 Marseille : depuis 1988.
@@ -206,7 +274,7 @@ Carénage du port :
 
 Castellano :
 
-- 274, chemin du Littoral, 13015 Marseille : de 1946 à 1980.
+- 274, chemin du Littoral, 13015 Marseille : depuis 1946.
 
 Cegelec :
 
@@ -228,9 +296,9 @@ Chaudronnerie Joly :
 
 - Le Collet de Lebre, 3, rue Chabaud, 13180 Gignac : de 1984 à 1994.
 
-Chaudronnerie seynois :
+Chaudronnerie seynoise :
 
-- ZI, 10, camp Laurent, 659, avenue Robert-Brun, 83500 La Seyne-sur-Mer : de 1975 à 1987.
+- ZI, 10, camp Laurent, 1659, avenue Robert-Brun, 83500 La Seyne-sur-Mer : de 1975 à 1987.
 
 Cobra maintenance :
 
@@ -244,7 +312,7 @@ Compagnie marseillaise de remorquage et de sauvetage Chambon :
 
 - 148, rue Sainte, 13007 Marseille : de 1950 à 1996.
 
-Compagnie marseillaise de réparations (CMR)/Marinest/Marinvest France CMR :
+Compagnie marseillaise de réparations (CMR)/Marinvest France CMR :
 
 - 274, chemin du Littoral, 13015 Marseille, puis enceinte portuaire, terre-plein de Mourepiane, 13015 Marseille : depuis 1954.
 
@@ -266,7 +334,7 @@ CTIM (chaudronnerie tuyauterie industrie maritime)/MTC :
 
 De Rovere et Compagnie :
 
-- route de Bregaillon, 83500 La Seyne-sur-Mer : de 1946 à 1966.
+- ZI de Bregaillon, BP 50, 83500 La Seyne-sur-Mer : de 1946 à 1966.
 
 Degreane :
 
@@ -318,7 +386,11 @@ EPMI :
 
 Etablissement Pegulu :
 
-- avenue d'Estienne-d'Orves, 83500 La Seyne-sur-Mer : depuis sa création.
+- quartier Gabriel, avenue d'Estienne-d'Orves, 83500 La Seyne-sur-Mer : depuis sa création.
+
+- chantiers navals de La Seyne : de 1936 à 1970 ;
+
+- DCN Toulon : de 1983 à 1993.
 
 Etablissements Conso :
 
@@ -332,9 +404,13 @@ ETI (Entreprise de tuyauterie industrielle) :
 
 - avenue Sénéquier, 83000 Toulon : de 1982 à 1985.
 
+ETMI (Bolcioni et Jaffret) :
+
+- 10, quai du Lazaret, 13015 Marseille : depuis 1946.
+
 Evers Isolation :
 
-- chemin de la Bassagute, 83140 Six-Fours-les-Plages : depuis sa création.
+- chemin de la Bassaguet, 83140 Six-Fours-les-Plages : depuis sa création.
 
 Forges et ateliers de la Méditerranée/Constructions navales industrielles (CNIM)/Chantiers navals de La Ciotat (CNC)/Chantiers du nord de la Méditerranée (NORMED) :
 
@@ -371,6 +447,14 @@ Les Abeilles Marseille :
 Les Ateliers napoulais :
 
 - port Mandelieu-la-Napoule, 06210 Mandelieu-la-Napoule : depuis 1977.
+
+LIPSUDEST :
+
+- 13240 Septèmes-les-Vallons : de 1980 à 1983.
+
+MACONIM (Maintenance Constructions industrielles maritimes) :
+
+- 10, rue Malaval, 13002 Marseille : de 1967 à 1979.
 
 Mac Gregor :
 
@@ -420,7 +504,7 @@ Nautica SA :
 
 - port Vauban, 06600 Antibes : depuis 1985.
 
-Navablin/Travofer :
+Navalblin/Travofer :
 
 - enceinte portuaire, porte 4, forme 9, 13016 Marseille : depuis 1973.
 
@@ -442,7 +526,7 @@ Philippou :
 
 Poujaud :
 
-- 30, avenue Mirabeau, 13220 La Mède : de 1954 à 1973.
+- 30, avenue Mirabeau, 13220 La Mède, 79, avenue Roger-Salengro, 13002 Marseille : depuis 1954.
 
 PROMECA :
 
@@ -456,13 +540,17 @@ Riviera Yacht service :
 
 - port de Plaisance, 06310 Beaulieu-sur-Mer : de 1969 à 1999.
 
-SA des anciens établissements Groignard/Ateliers phocéens de réparation navale/Ateliers phocéens de réparation navale et industrielle/Ateliers provençaux :
+SA des anciens établissements Groignard/Ateliers provençaux de réparation navale/Ateliers provençaux de réparation navale et industrielle/Ateliers provençaux :
 
 - bassin de Radoub Cap, Pinède, 13015 Marseille : de 1950 à 1978.
 
-SA SCN-LOG :
+SA DCN-LOG bâtiment Euclide :
 
-- bâtiment Enclide, 168, chemin de la Capellane, 83188 Six-Fours-les-Plages : depuis sa création.
+- 168, chemin de la Capellane, 83188 Six-Fours-les-Plages : depuis sa création.
+
+SA Garbarino :
+
+- 1 bis, rue Malaval, 13002 Marseille : de 1967 à 1977.
 
 SAMIC/SPRS/SNPRS :
 
@@ -472,9 +560,17 @@ SARL SERBIM/SERBIM Industries :
 
 - RN 8, La Malle, 13320 Bouc-Bel-Air, et 2, boulevard des Bassins-de-Radoub, 13002 Marseille : depuis 1965.
 
-SARTEC :
+Société SARTEC :
 
-- rue Denis-Papin, 83130 La Garde : de 1981 à 1985.
+- rue Denis-Papin, 83130 La Garde : de 1981 à 1989.
+
+Société SARTEC :
+
+- ZI du Camp Laurent, 1659, avenue Robert-Brun, 83500 La Seyne : de 1989 à 1994, puis
+
+Société SIMAT SARTEC :
+
+- ZI du Camp Laurent, 1659, avenue Robert-Brun, 83500 La Seyne : depuis 1994.
 
 SATELEC :
 
@@ -516,15 +612,27 @@ Simart :
 
 - 62-64, rue Forbin, 13002 Marseille : de 1957 à 1986.
 
+SIMAT (Société industrielle et maritime d'applications techniques) :
+
+- 52-54, rue Forbin, BP 2488, 13218 Marseille Cedex : de 1957 à 1984, puis SATIM : de 1984 à 1986.
+
 SIMES (société industrielle et maritime, entretien et soudure) :
 
 - Les Amandiers, avenue Jean-Moulin, 13600 La Ciotat, puis chemin Rouamagoua, 13600 La Ciotat : depuis 1975.
+
+SIREP :
+
+- 16, avenue Jean-Jaurès, BP 32, 13771 Fos-sur-Mer Cedex : de 1991 à 1998.
 
 SNEF Electric Flux : 87, boulevard des Aygalades, 13015 Marseille, impasse de l'Espérance, 13006 Marseille, ZI du Camp Laurent, chemin Robert-Brun, 83500 La Seyne-sur-Mer : de 1951 à 1979.
 
 SNM :
 
 - chemin des Négadoux, 83140 Six-Fours : de 1982 à 1992.
+
+Société CARFOS :
+
+- port de Caronte, BP 16, 13691 Martigues Cedex : depuis 1960.
 
 Société d'exploitation ciotadienne des établissements Gardella :
 
@@ -568,7 +676,7 @@ Société nationale Corse-Méditerranée (SNCM) :
 
 Société phocéenne de travaux (SPT)/société phocéenne de travaux maritimes et industriels (SPTMI) :
 
-- 37, boulevard Oddo, 13002 Marseille, puis 258, chemin de la Madrague-Ville, 13015 Marseille, chemin Jean-Marie-Fritz, 83500 La Seyne : de 1947 à 1950.
+- 37, boulevard Oddo, 13015 Marseille, puis 258, chemin de la Madrague-Ville, 13015 Marseille, chemin Jean-Marie-Fritz, 83500 La Seyne : de 1947 à 1950.
 
 Société provençale de construction navale SPCN/SPCNI/Ateliers Terrin (SPAT) :
 
@@ -581,6 +689,10 @@ SOMAC :
 SOMEC, Société de montage et de chaudronnerie :
 
 - RN 08, ZI La Gorgues, 83330 Le Beausset : de 1974 à 1987.
+
+SOMECAR (Société méditerranéenne de carénage)/SOMECAR/Coating :
+
+- 171, route de la Madrague, ville, 13002 Marseille : de 1984 à 1992.
 
 SOMELEC/Electricité marine industrielle :
 
@@ -614,13 +726,17 @@ START :
 
 - aire Mourepiane, PAM 4, 13016 Marseille : depuis 1989.
 
-Sud Marine/Brisard, Sud Marine/Marine Technologie, Entreprise/Marine Technologie, Associées/Marine Technologie SA :
+Sud Marine/Brisard, Sud Marine/Marine Technologie, Entreprise/Marine Technologie, Associées/Marine Technologie SA, Marine Technologies Engineering :
 
 - 9, boulevard Gay-Lussac, 13004 Marseille, puis Formes 8 et 9, enceinte portuaire, 13002 Marseille : depuis 1950.
 
 Sud Moteurs :
 
 - 2, boulevard des Bassins, 13002 Marseille : depuis 1994.
+
+Tous travaux d'escales :
+
+- 274, chemin du Littoral, 13345 Marseille Cedex 15 : de 1972 à 1989.
 
 Travoport :
 
@@ -633,6 +749,10 @@ Universal Yachting :
 Var Industrie :
 
 - 525, ZI Les Négadoux, 83140 Six-Fours : depuis 1979.
+
+Wartsila Diesel Normed/Wartsila Diesel France :
+
+- RN 8, Les Baux, 13420 Gémenos : de 1987 à 1989, puis SACM Diesel : de 1989 à 1993, Wartsila SACM Diesel : de 1993 à 1997, Wartsila France : de 1997 à 1998 et Wartsila NSD France : depuis 1998.
 
 Poitou-Charentes
 
