@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900309108
+
+- Question : [SEQ900309108](seq900309108.md) — Impôt sur le revenu : plus-values et gains divers
+
+## Réponse
+
+*Économie, JO du 1990-06-14, page 1316*
+
+Réponse. - Conformément aux dispositions de l'article 92 B du code général des impôts, les gains nets retirés des cessions de valeurs mobilières cotées sont imposables lorsque le montant annuel des cessions excède une certaine limite fixée à 298 000 francs pour l'année 1989. L'institution d'un seuil d'imposition élevé permet d'exonérer les titulaires de portefeuilles de faible ou moyenne importance et de limiter l'imposition aux personnes qui, compte tenu de l'importance de leurs opérations, sont réputées en retirer un supplément de ressources substantiel. La simplicité de ce critère permet, par ailleurs, d'éviter à un grand nombre de contribuables de procéder au calcul de leurs plus-values. L'imposition est indépendante des motifs qui peuvent conduire le contribuable à céder ses titres et de l'affectation qu'il entend donner aux disponibilités dégagées par leur cession. Toutefois, lorsque la situation personnelle, familiale ou professionnelle du contribuable est affectée par l'un des événements exceptionnels énumérés à l'article 39 A de l'annexe II du code déjà cité, le franchissement de la limite d'exonération est apprécié par rapport à la moyenne des cessions de l'année considérée et des deux années précédentes. Sous réserve des conditions posées par cet article, ces événements s'entendent du licenciement, du départ à la retraite ou en préretraite, de la survenance de l'invalidité, du décès, du divorce ou de la séparation de corps, du redressement judiciaire où encore de tout autre événement revêtant un caractère de gravité tel qu'il contraigne le contribuable à liquider tout ou partie de son portefeuille pour y faire face.
