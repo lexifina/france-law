@@ -1,0 +1,9 @@
+# Réponse à la question SEQ041014232
+
+- Question : [SEQ041014232](seq041014232.md) — Une convention de mandat d'ouvrage constitue-t-elle un marché public ?
+
+## Réponse
+
+*Économie, JO du 2005-01-27, page 227*
+
+Le Conseil d'État, dans un arrêt du 5 mars 2003, a annulé les dispositions de l'article 3-7° du code des marchés publics (décret n° 2001-210 du 7 mars 2001), en ce qu'elles permettaient de soustraire, de façon générale et absolue, tous les contrats de mandat à l'application des dispositions du code des marchés publics. La circulaire du ministre de l'équipement adressée récemment aux directeurs départementaux de l'équipement se contente de rappeler la position défendue par les autorités françaises devant la Cour de justice des Communautés européennes dans une affaire qui l'oppose à la commission et sur laquelle la Haute Juridiction n'a pas encore statué. C'est pourquoi, si la circulaire envisage, comme le soutiennent les autorités françaises pour le mandat de maîtrise d'ouvrage, la possibilité que certains contrats de mandat pourraient être exclus du champ d'application du code des marchés publics, l'existence d'une procédure contentieuse sur ce point et la nécessité d'assurer la sécurité juridique des acheteurs publics conduisent cependant le ministre à recommander le respect des règles de procédure et notamment celles de publicité et de mise en concurrence. S'agissant des numéros correspondant, dans la nomenclature européenne dite " CPV " (Common Procurement Vocabulary), aux différentes prestations pouvant faire l'objet d'une convention de mandat de maîtrise d'ouvrage et de la classification de celles-ci entre l'annexe IIA ou IIB de la directive n° 2004/18/CE, il semble souhaitable d'attendre la décision de la cour dans la mesure où le litige opposant les parties porte notamment sur ces dernières questions.
