@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701158
+
+- Question : [SEQ970701158](seq970701158.md) — Représentation de l'artisanat français dans les négociations sur la politique sociale européenne
+
+## Réponse
+
+*Emploi, JO du 1997-08-21, page 2165*
+
+Réponse. - Par question écrite du 10 juillet 1997, l'honorable parlementaire demande à Mme la ministre de l'emploi et de la solidarité quelle mesure elle envisage de prendre pour faciliter la présence de l'Union européenne de l'artisanat et des petites et moyennes entreprises (UEAPME) dans les négociations sociales menées au niveau européen. Il est rappelé à l'honorable parlementaire que cette question relève de la compétence exclusive de la commission des communautés européennes. Celle-ci, dans une communication du 18 septembre 1996 relative au développement du dialogue social au niveau communautaire (COM 96 448), a explicité sa position sur la question de la représentativité des organisations professionnelles. La commission considère qu'il appartient aux partenaires sociaux eux-mêmes de déterminer quelles organisations doivent participer aux négociations, et qu'elle ne peut imposer de participants dans une négociation engagée librement. Néanmoins, si l'accord est repris sous forme de directive, il appartient à la commission de vérifier, au cas par cas, selon les sujets traités, si les signataires sont suffisamment représentatifs. Pour l'accord relatif au congé parental, la commission a estimé que l'UNICE était suffisamment représentative de l'ensemble des entreprises, y compris des petites et moyennes, et que la participation de l'UEAPME n'était pas obligatoire. Cependant, la commission a engagé une réflexion sur l'ensemble de la question de la représentativité, et est particulièrement sensible à la demande de l'UEAPME. Cette union figure par ailleurs sur la liste des organisations consultées par la commission sur les dossiers intéressant les PME européennes.
