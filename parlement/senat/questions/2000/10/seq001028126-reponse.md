@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001028126
+
+- Question : [SEQ001028126](seq001028126.md) — Vérification de la solidité des bâtiments
+
+## Réponse
+
+*Logement, JO du 2001-01-04, page 39*
+
+Réponse. - L'honorable parlementaire attire l'attention sur les dégâts subis par les établissements scolaires du fait de la tempête de fin décembre 1999 et sur l'intérêt de la mise en place d'un contrôle de la solidité régulier et oglibatoire, à l'instar des commissions de sécurité. Ces tempêtes ont atteint un niveau d'intensité rarement enregistré dans les cinquante dernières années et on généré de nombreux dommages concernant tous types de constructions. C'est pourquoi le ministère de l'équipement, des transports et du logement a mis en place avec les professionnels une instance d'évaluation de la nature et des causes de dégâts constatés dans les différentes régions pour apprécier la récessité éventuelle de réviser les normes de construction ou d'en assurer une meilleure application. Le cas des bâtiments scolaires fait l'objet d'un examen tout particulier, en liaison avec l'Observatoire national de la sécurité des établissements scolaires. Le rapport de l'instance d'évaluation sera remis au ministre à la fin de l'année. S'agissant d'établissements recevant du public, les commissions départementales de sécurité et d'accessibilité exercent déjà une mission de contrôle au stade du projet, à l'ouverture ainsi qu'en cours d'exploitation. Instances collégiales, elles remettent un avis à l'autorité investie du pouvoir de police, à savoir de la commune. Elles prennent acte, par exemple, de la réalité de l'intervention des contrôleurs techniques lorsque celle-ci est prescrite. Le propriétaire et l'exploitant restent toutefois entièrement responsables de la sécurité et de la solidarité des ouvrages. Les établissements scolaires sont bien évidemment directement englobés dans le champ des mesures évoquées ci-dessus.
