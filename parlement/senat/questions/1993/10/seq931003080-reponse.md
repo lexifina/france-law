@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931003080
+
+- Question : [SEQ931003080](seq931003080.md) — Conditions d'attribution de la carte du combattant
+
+## Réponse
+
+*Défense, JO du 1994-01-06, page 27*
+
+Réponse. - L'article 1er de la loi no 93-7 du 4 janvier 1993 ouvre le droit à la carte du combattant aux militaires des forces armées françaises ainsi qu'aux personnes civiles possédant la nationalité française qui ont participé au sein d'unités françaises, alliées ou de forces internationales soit à des conflits armés soit à des opérations ou missions menées conformément aux obligations et engagements internationaux de la France. D'ores et déjà, le décret no 93-1079 du 14 septembre 1993 pris en application de cette loi détermine, notamment, les conditions de la reconnaissance de la qualité de combattant à ces militaires ainsi qu'à ces personnes civiles en fonction soit de leur durée d'appartenance à une unité combattante, soit du nombre d'actions de feu ou de combats auxquels ils ont pris part, soit des blessures reçues ou des maladies contractées à cette occasion, soit, enfin, de leur éventuelle détention par l'adversaire. La liste des opérations ou missions à prendre en compte sera fixée par arrêtés au fur et à mesure de l'avancement du travail d'analyse et d'exploitation des archives mené sur ce sujet par les services historiques des armées pour les interventions effectuées outre-mer depuis la fin de la Première Guerre mondiale. Par ailleurs, dans l'opération Daguet, la France a mis en oeuvre une force aéroterrestre de près de 16 300 personnes. Le nombre de citations avec attribution de la Croix de guerre des territoires d'opérations extérieures décernées durant cette période s'établit à 45 citations collectives et à 6 499 citations individuelles parmi lesquelles : 35 à l'ordre de l'armée, 285 à l'ordre du corps d'armée, 959 à l'ordre de la division, 1 843 à l'ordre de la brigade et 3 377 à l'ordre du régiment.
