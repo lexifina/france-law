@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040913672
+
+- Question : [SEQ040913672](seq040913672.md) — Elaboration d'un décret assurant une protection incendie des meubles rembourrés à usage domestique
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2004-10-14, page 2343*
+
+Le Gouvernement a fait de la réduction des accidents de la vie courante, notamment de la prévention des incendies domestiques, l'une de ses priorités. Il poursuit avec l'ensemble des parties concernées une réflexion sur l'inflammabilité des meubles rembourrés. Un premier projet de décret relatif à la prévention des risques liés au comportement au feu des meubles rembourrés avait fait l'objet de réserves de la Commission européenne quant aux éventuels risques indirects de toxicité et d'écotoxicité qui pourraient résulter de certains traitements ignifugeants susceptibles d'être utilisés pour satisfaire à ces exigences. Les travaux actuels visent à finaliser un nouveau projet de décret, prenant en compte ces observations, s'appuyant sur les normes AFNOR. Pour autant, ces normes constituent des références qui peuvent être utilisées par les industriels dans la conception de leurs produits. A cet égard, la plupart des meubles rembourrés mis sur le marché satisferaient à une exigence de résistance à la combustion due à une cigarette. La mobilisation des pouvoirs publics passe aussi, en parallèle à l'élaboration d'une réglementation, par une campagne d'information et de sensibilisation tendant à prévenir les incendies dans les habitations. Elle sera mise en oeuvre dans le cadre du plan d'action gouvernemental sur la prévention et la réduction des accidents de la vie courante et avec la diffusion de conseils de vigilance ainsi que des incitations à équiper les habitations en détecteurs avertisseurs de fumées. Cette campagne sera relayée par toutes les parties intéressées qui diffusent habituellement des messages dans le domaine de la prévention des accidents de la vie courante.
