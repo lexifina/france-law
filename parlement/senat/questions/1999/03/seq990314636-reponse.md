@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990314636
+
+- Question : [SEQ990314636](seq990314636.md) — Engagements gouvernementaux en matière d'infrastructures TGV
+
+## Réponse
+
+*Équipement, JO du 1999-06-10, page 1970*
+
+Réponse. - Le 26 0ai 1998, à la suite des études d'avant-projet sommaire, le ministre de l'équipement, des transports et du logement a décidé d'une part, d'engager les études préparatoires à l'enquête publique de la branche Est de ce projet entre Mulhouse et Dijon, et d'autre part de lancer les études de la branche Sud. Deux conventions de financement de ces études ont été mises au point entre l'Etat, les régions Alsace, Bourgogne, Franche-Comté et Rhône-Alpes (pour la branche Sud), RFF et la SNCF. Ces études seront conduites par RFF et se dérouleront tout au long de l'année 1999. S'agissant de la branche Est du TGV-Rhin-Rhône, ces études ont pour objet de préparer le dossier qui devra être présenté à l'enquête publique le moment venu. Le ministre a demandé que ces études envisagent les conditions de réalisation progressive de ce projet, à partir de l'analyse sur les plans technique et économique des différentes phases envisageables. Enfin, il a été souhaité, que parallèlement au déroulement de ces études, une réflexion approfondie soit dès à présent engagée, sur les modalités de financement du projet. Cette réflexion, qui doit associer tous ceux qui sont concernés par la réalisation de ce projet, doit permettre d'accueillir et d'examiner toutes les propositions susceptible d'en favoriser la réalisation. Le comité de pilotage mis en place pour suivre le déroulement des études engagées, comité qui réunit la plupart des principaux acteurs concernés, apparaît être pour l'instant, et compte tenu du niveau d'élaboration du dossier, le lieu privilégié d'échanges et d'analyses sur les conditions et les modalités de financement de ce projet.
