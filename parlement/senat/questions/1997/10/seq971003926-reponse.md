@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971003926
+
+- Question : [SEQ971003926](seq971003926.md) — Logement social
+
+## Réponse
+
+*Logement, JO du 1998-01-22, page 250*
+
+Réponse. - Les fonds de solidarité départementaux pour le logement (FSL) créés par la loi du 31 mai 1990 visant à la mise en oeuvre du droit au logement pour les personnes et les familles dont les ressources sont modestes, et qui ne pourraient par leurs seuls moyens financiers faire face aux dépenses entraînées par l'entrée dans un nouveau logement. Le budget consacré à ces dépenses par les FSL au plan national a été de 321 millions de francs en 1995, et de 382 millions de francs en 1996, soit une progression de 19 %. 113 000 ménages ou personnes isolées ont été bénéficiaires de ces aides en 1995, et 130 000 en 1996. Ces aides permettent de couvrir en tout ou partie des frais d'installation (ouverture de compteurs, commission d'agence, paiement du premier mois de loyer dans l'attente d'une aide personnelle au logement) ainsi que le versement direct auprès du bailleur du dépôt de garantie exigé à l'entrée dans le logement, lequel est tenu de le restituer au FSL lors d'une nouvelle location du logement. Les FSL ont vocation à aider indistinctement toutes les personnes ou les familles qui ont des ressources modestes. Les enquêtes menées auprès d'un certain nombre de services départementaux montrent que les jeunes représentent près de 20 % des bénéficiaires. Ils peuvent maintenant bénéficier d'une disposition de la convention signée le 14 mai 1997 entre l'Etat et l'Union d'économie sociale pour le logement (UESL), représentant le 1 % logement, qui prévoit le financement du dépôt de garantie ou l'octroi d'une caution permettant l'accès à un logement locatif de jeunes en situation ou en recherche de premier emploi. Ils ont d'ailleurs la possibilité de s'adresser aux fonds d'aide aux jeunes (FAJ), gérés par le ministère de l'emploi et de la solidarité.
