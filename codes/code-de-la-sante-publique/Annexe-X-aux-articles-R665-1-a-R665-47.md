@@ -41,3 +41,9 @@ Les investigations cliniques sont effectuées conformément aux dispositions du 
 L'investigateur ou une autre personne autorisée aura accès aux données techniques et cliniques relatives au dispositif ;
 
 2.3.7. Le rapport écrit, signé par l'investigateur tel que défini par l'article L. 209-1 du code de la santé publique, contient une évaluation critique de toutes les données obtenues au cours des investigations cliniques.
+
+NOTA :
+
+Conformément à l'article 4 du décret n° 2004-802 du 29 juillet 2004, l'abrogation des annexes du livre V bis prendra effet à la date de la publication de chacun des arrêtés prévus aux articles R. 5211-7, R. 5211-16, R. 5211-24 et R. 5211-53 du code de la santé publique.
+
+L'arrêté du 20 avril 2006 fixant les modalités d'application des procédures de certification de la conformité définies aux articles R. 5211-39 à R. 5211-52, pris en application de l'article R. 5211-53 du code de la santé publique, est paru au JORF du 8 juin 2006.

@@ -99,3 +99,9 @@ L'organisme habilité fournit au fabricant un rapport de visite et, si un essai 
 La présente annexe peut s'appliquer, conformément au 2° de l'article R. 665-23 du code de la santé publique, aux produits de la classe II a moyennant la dérogation suivante :
 
 6.1. Par dérogation aux points 2, 3.1 et 3.2, le fabricant assure et déclare par la déclaration de conformité que les produits de la classe II a sont fabriqués conformément à la documentation technique visée au point 3 de l'annexe VII et répondent aux exigences du livre V bis du code de la santé publique qui leur sont applicables.
+
+NOTA :
+
+Conformément à l'article 4 du décret n° 2004-802 du 29 juillet 2004, l'abrogation des annexes du livre V bis prendra effet à la date de la publication de chacun des arrêtés prévus aux articles R. 5211-7, R. 5211-16, R. 5211-24 et R. 5211-53 du code de la santé publique.
+
+L'arrêté du 20 avril 2006 fixant les modalités d'application des procédures de certification de la conformité définies aux articles R. 5211-39 à R. 5211-52, pris en application de l'article R. 5211-53 du code de la santé publique, est paru au JORF du 8 juin 2006.

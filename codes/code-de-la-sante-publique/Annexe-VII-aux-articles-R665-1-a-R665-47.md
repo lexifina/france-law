@@ -43,3 +43,9 @@ Le point 6.1 de la présente annexe est applicable.
 Conformément au 2° de l'article R. 665-23 du code de la santé publique, la présente annexe peut s'appliquer aux produits de la classe II a sous réserve de la dérogation suivante :
 
 6.1. Lorsque la présente annexe est appliquée en liaison avec la procédure visée à l'annexe IV, V ou VI, la déclaration de conformité visée aux annexes susmentionnées forme une déclaration unique. En ce qui concerne la déclaration fondée sur la présente annexe, le fabricant assure et déclare que la conception du produit satisfait aux dispositions du livre V bis du code de la santé publique qui lui sont applicables.
+
+NOTA :
+
+Conformément à l'article 4 du décret n° 2004-802 du 29 juillet 2004, l'abrogation des annexes du livre V bis prendra effet à la date de la publication de chacun des arrêtés prévus aux articles R. 5211-7, R. 5211-16, R. 5211-24 et R. 5211-53 du code de la santé publique.
+
+L'arrêté du 20 avril 2006 fixant les modalités d'application des procédures de certification de la conformité définies aux articles R. 5211-39 à R. 5211-52, pris en application de l'article R. 5211-53 du code de la santé publique, est paru au JORF du 8 juin 2006.
