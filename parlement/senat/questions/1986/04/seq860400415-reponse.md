@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860400415
+
+- Question : [SEQ860400415](seq860400415.md) — Affectation du compte de liquidation du fonds national d'amélioration de l'habitat
+
+## Réponse
+
+*Équipement, JO du 1986-10-01, page 1389*
+
+Réponse. -Le décret n° 85-1380 du 27 décembre 1985 relatif à l'affectation d'un compte de liquidation du Fonds national d'amélioration de l'habitat (F.N.A.H.) a abrogé l'article R. 321-17 du code de la construction et de l'habitation. Cet article prévoyait qu'une convention entre le Crédit foncier de France et l'Etat déterminerait les modalités de liquidation du F.N.A.H. et de transfert de son actif à l'Agence nationale pour l'amélioration de l'habitat (A.N.A.H.). Le Gouvernement précédent avait estimé que ni les besoins du F.N.A.H. ni la situation financière de l'A.N.A.H. ne justifiaient le maintien du compte de liquidation du F.N.A.H. ou le transfert de son actif à l'A.N.A.H. Le décret n° 85-1380 du 27 décembre 1985 a donc permis, dans le cadre de la loi de finances rectificative pour 1985, le reversement au budget général des disponibilité du F.N.A.H. Le Gouvernement actuel, en regrettant l'affectation au budget de l'Etat de crédits initialement destinés à l'entretien et à la modernisation du parc immobilier privé, ne peut pour autant envisager la modification des modalités de liquidation du F.N.A.H., arrêtées en décembre 1985, dans le cadre de la loi de finances rectificative pour 1985. La politique budgétaire mise en oeuvre en 1986 et le respect des objectifs retenus pour 1987 ne permettent pas d'envisager l'inscription d'une dépense budgétaire pour le montant considéré. Par ailleurs, la difficulté budgétaire qui résulterait d'une telle inscription ne semble pas se justifier au vu de la situation financière actuelle de l'A.N.A.H. Il n'en demeure pas moins que le Gouvernement reste attaché à préserver les intérêts des propriétaires privés bénéficiant des aides de l'A.N.A.H.
