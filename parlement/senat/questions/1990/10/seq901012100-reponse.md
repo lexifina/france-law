@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901012100
+
+- Question : [SEQ901012100](seq901012100.md) — Mise en oeuvre du Centre 15 en Moselle
+
+## Réponse
+
+*Santé, JO du 1990-12-27, page 2755*
+
+Réponse. - La mise en service du 15 en Moselle doit être efective au plus tard le 17 décembre 1990 aux termes de la réglementation en vigueur. Il est souhaitable que les médecins libéraux participent au fonctionnement du centre de réception et de régulation des appels, si possible dans le cadre d'un accord conventionnel entre les partenaires concernés. Une telle participation est en effet un gage de meilleure efficacité du système de réponse aux besoins d'aide médicale urgente et peut contribuer à tenir une économie pour la collectivité. C'est pour ces raisons qu'une préférence marquée est donnée à cette solution. Sa mise en oeuvre suppose cependant que les principaux financiers potentiels (Etat, collectivités territoriales, régimes obligatoires d'assurance maladie) contribuent à la couverture des dépenses exposées pour le fonctionnement du centre, comme la loi n° 86-11 du 6 janvier 1986 les y incite. Une subvention ministérielle sera ainsi versée dès la mise en service du numéro 15. La contribution de différents financeurs est d'autant plus souhaitable que les spécificités du département de la Moselle ont conduit à envisager l'éventualité d'une régulation alternée entre les hôpitaux de Metz et de Thionville. A défaut d'une telle implication des partenaires institutionnels concernés et autres que l'Etat, il serait nécessaire d'examiner d'autres solutions pouvant notamment consister à associer au fonctionnement du centre, des médecins libéraux recrutés individuellement et rémunérés à la vacation, puisqu'en tout état de cause la population du département ne saurait être privée de la possibilité de recours au 15.
