@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931103536
+
+- Question : [SEQ931103536](seq931103536.md) — Assouplissement de la déclaration préalable à l'embauche dans le secteur du travail saisonnier
+
+## Réponse
+
+*Travail, JO du 1994-05-12, page 1173*
+
+Réponse. - La déclaration préalable à l'embauche constitue un élément essentiel juridique de lutte contre le travail clandestin. Elle a pour objet de permettre aux services de contrôle de connaître avec certitude la date réelle d'embauche des salariés, afin de mieux déceler les fraudes à l'emploi salarié dissimulé ou non déclaré. Pour simplifier les démarches administratives des employeurs de salariés agricoles occasionnels, le formulaire de la déclaration spécifique à cette main-d'oeuvre, permettant de payer un taux réduit de cotisations sociales et celui de la déclaration préalable à l'embauche ont été fusionnés. L'entrée en vigueur au 1er septembre 1993 de la déclaration préalable à l'embauche a pu inquiéter les arboriculteurs fruitiers du Maine-et-Loire, puisque cette date coïncidait avec celle des récoltes. C'est pourquoi, à titre transitoire pour 1993, et en attente du bilan qui sera effectué de cette procédure au premier semestre 1994, le ministre du travail, de l'emploi et de la formation professionnelle a demandé, par lettre conjointe avec le ministre de l'agriculture et de la pêche, en date du 20 septembre 1993, que la déclaration qui doit être préalable ou accomplie au plus tard de manière concomitante à la mise au travail puisse être considérée comme concomitante dans le cadre de la journée, pour l'embauche des travailleurs occasionnels liée aux campagnes de récolte dans le secteur de la viticulture et de l'arboriculture. La mise en place de la déclaration préalable parmi les arboriculteurs fruitiers du Maine-et-Loire n'a fait apparaître aucun problème particulier.
