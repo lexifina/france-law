@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910314205
+
+- Question : [SEQ910314205](seq910314205.md) — Coordination des services de police
+
+## Réponse
+
+*Intérieur, JO du 1991-05-30, page 1118*
+
+Réponse. - Les règles de compétence territoriale des services de police urbaine sont régies par les dispositions du code de procédure pénale. Leur application est soumise au contrôle de la justice. La compétence judiciaire de ces officiers de police judiciaire est limitée à la circonscription territoriale où ils exercent leurs fonctions habituelles, aux termes de l'article 18 du code de procédure pénale. Toutefois, en cas d'urgence ou de crime ou délit flagrant, ils peuvent opérer dans toute l'étendue du tribunal de grande instance auquel ils sont rattachés. Or, les tribunaux de grande instance de Paris, Nanterre, Bobigny et Créteil forment un seul et même ressort. Dans ces conditions, les officiers de police judiciaire y résidant peuvent agir sans qu'une commission rogatoire soit nécessaire. En revanche, une telle commission rogatoire ou une réquisition du procureur de la République, au cours d'une enquête de flagrant délit, s'avère indispensable pour pouvoir procéder aux opérations prescrites au-delà de ces limites. Pour accroître l'efficacité des services dans la lutte contre la petite et moyenne délinquance, des directions départementales de la police nationale ont été mises en place depuis le 1er mai 1990 dans cinq départements : Aveyron, Charente-Maritime, Pyrénées-Orientales, Saône-et-Loire et Val-de-marne. Par arrêté conjoint du garde des sceaux et du ministre de l'intérieur, ont été créés dans trois d'entre eux des services de police judiciaire dont les officiers de police judiciaire ont une compétence étendue au ressort du tribunal de grande instance. Ces mesures sont nécessaires pour lutter contre une délinquance de plus en plus mobile à l'échelle de chaque département.
