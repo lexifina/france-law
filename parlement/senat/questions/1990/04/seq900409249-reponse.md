@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900409249
+
+- Question : [SEQ900409249](seq900409249.md) — Accroissement de l'utilisation de la voirie communale
+
+## Réponse
+
+*Intérieur, JO du 1990-05-24, page 1146*
+
+Réponse. - Par suite de l'intégration dans la dotation globale d'équipement des crédits du chapitre 63-52 précédemment destinés à la voirie locale, il n'existe plus de crédits spécifiques pour financer ce type d'opérations. Tous les équipements liés à l'aménagement de ces voies, qu'elles relèvent de la compétence des départements pour ce qui concerne les chemins départementaux ou de celle des communes pour ce qui concerne les voix communales, bénéficient désormais de la dotation globale d'équipement (D.G.E.). S'agissant plus particulièrement de la D.G.E. des communes, il convient de préciser qu'elle comporte deux parts : la première part est répartie entre les communes et groupements de communes de plus de 2 000 habitants au prorata des dépenses d'investissement qu'ils réalisent directement ; la seconde part, destinée aux communes et groupements de communes dont la population n'excède pas 2 000 habitants, est répartie entre les bénéficiaires sous forme de subventions par opération attribuées par les préfets en fonction des catégories d'opérations prioritaires et dans la limite des taux minima et maxima fixés par la commission d'élus instituée dans chaque département. Enfin, les dépenses d'investissement réalisées par les communes sur les chemins ruraux sont éligibles aux attributions du fonds de compensation pour la T.V.A. Il s'agit notamment des dépenses liées aux travaux neufs et grosses réparations effectuées sur la chaussée et à l'acquisition de gros matériaux de chantier. Il n'est pas envisagé d'apporter des modifications à ces dispositions en introduisant des mesures spécifiques aux chemins ruraux.
