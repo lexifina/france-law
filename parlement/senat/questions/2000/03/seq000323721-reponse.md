@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000323721
+
+- Question : [SEQ000323721](seq000323721.md) — Situation des propriétaires forestiers du secteur de la Bouriane (Lot)
+
+## Réponse
+
+*Agriculture, JO du 2000-05-11, page 1686*
+
+Réponse. - Le Gouvernement a mis en place un dispositif d'ensemble pour gérer les conséquences des tempêtes de décembre 1999. Des premiers crédits d'aide à la reconstruction des forêts seront mis en place à l'automne prochain, mais il est vraisemblable que les chantiers ne pourront démarrer que progressivement à partir de 2001. La situation créée par les tempêtes de décembre 1999 aura indéniablement une influence sur l'équilibre sylvo-cynégétique qui prévalait dans les massifs forestiers sinistrés. En effet, l'ouverture de larges trouées et l'apparition d'une régénération naturelle ou artificielle devraient grandement favoriser l'augmentation des populations de cervidés. A fiortori, la maîtrise d'une vaste opération de reconstitution forestière raisonnée suppose un retour préalable à un équilibre sylvo-cynégétique qui avait été rompu dans certains massifs forestiers depuis plusieurs années. Le coût de protection des plants contre les cervidés a en effet atteint un niveau incompatible avec la motivation des propriétaires forestiers à s'engager dans la création de nouvelles forêts, mais aussi avec les financements publics qu'il est raisonnable de consacrer à la reconstitution forestière. L'attention de la ministre de l'aménagement du territoire et de l'environnement compétente pour la politique cynégétique a été appelée sur la nécessité de donner des instructions aux préfets pour la préparation des plans de chasse 2000-2001, afin qu'ils prennent en compte très clairement cette préoccupation, en cohérence avec le plan du Gouvernement concernant les forêts sinistrées.
