@@ -7,3 +7,5 @@ La règle de symétrie ainsi que les conditions géométriques réglementaires d
 De chaque côté du plan longitudinal de symétrie du véhi­cule, tous les doublements doivent, être réalisés par une même translation horizontale où verticale.
 
 Les plages éclairantes de deux feux de même fonction doivent être distantes d'au moins 150 mm.
+
+Toutefois, pour les véhicules automoteurs spécialisés (VASP) carrossés en bennes à ordures ménagères (BOM), la hauteur maximale de la plage éclairante de tous les feux est portée à 2,50 mètres.
