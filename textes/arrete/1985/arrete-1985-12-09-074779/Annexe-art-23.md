@@ -1,3 +1,3 @@
 # Article Annexe, art. 23
 
-Des articles additionnels complètent, en tant que de besoin et dans le respect des présentes dispositions, les statuts.
+Les ressources de la fédération se composent des cotisations acquittées par les associations adhérentes, des subventions, des prêts ou de toutes recettes autorisés par la loi. Ces ressources ne peuvent être affectées qu'à la réalisation de l'objet social.

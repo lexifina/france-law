@@ -1,3 +1,5 @@
 # Article Annexe, art. 2
 
-La durée de la fédération est illimitée.
+Dans les articles qui suivent, cette fédération est dénommée :
+
+" la fédération ".

@@ -1,3 +1,3 @@
 # Article Annexe, art. 15
 
-Le secrétaire, en accord avec le président, assure la correspondance, les convocations des réunions, rédige les procès-verbaux de celles-ci et exécute tous les autres travaux qui lui sont confiés.
+Le mandat des membres du conseil d'administration s'exerce du 1er avril précédant la date d'expiration des baux de pêche consentis par l'Etat sur le domaine public au 31 mars précédant l'expiration des baux suivants.

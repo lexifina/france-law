@@ -1,9 +1,15 @@
 # Article Annexe, art. 11
 
-Le conseil d'administration se réunit au moins deux fois par an sur convocation de son président. Les décisions sont prises à la majorité des voix. En cas de partage, la voix du président est prépondérante.
+Les A.A.P.P.M.A. procèdent à l'élection des quinze membres du conseil d'administration de la fédération par l'intermédiaire de délégués, jouissant de leurs droits électoraux, réunis en assemblée générale.
 
-Il peut s'adjoindre, à titre consultatif, toute personne qualifiée.
+Le nombre de délégués par association, fonction du nombre de ses membres actifs est ainsi fixé :
 
-Est réputé démissionnaire tout administrateur ayant trois absences consécutives injustifiées.
+- un, le président ou son représentant, pour les associations jusqu'à 250 membres ;
 
-Le conseil d'administration a à connaître et à régler toutes les questions intéressant l'administration de la fédération. Il arrête le budget et fixe le taux de la cotisation fédérale. Les membres du conseil d'administration répondent solidairement de l'exécution de leur mandat.
+- deux, dont le président ou son représentant, pour les associations de 251 membres à 1 000 membres ;
+
+- outre ces deux délégués, pour les associations de plus de 1 000 membres, un délégué supplémentaire par millier de membres. Toutefois, aucune association ne peut avoir plus de douze délégués.
+
+Le ou les délégués autres que le président, ainsi que leurs suppléants, sont élus par l'assemblée générale de leur association.
+
+Chaque association doit présenter à la fédération, au moins deux mois avant l'assemblée générale, un certificat du préfet (direction départementale de l'agriculture et de la forêt) attestant le nombre de ses membres actifs ayant acquitté la cotisation statutaire l'année précédant l'année d'expiration des baux de pêche consentis par l'Etat sur le domaine public, ainsi que l'identité de son ou de ses délégués et suppléants éventuels.
