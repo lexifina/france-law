@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861203773
+
+- Question : [SEQ861203773](seq861203773.md) — Suppression de la prime régionale à l'aménagement du territoire
+
+## Réponse
+
+*Équipement, JO du 1987-02-12, page 216*
+
+Réponse. -Le C.I.A.T. du 31 octobre 1986 a, en effet, décidé un certain nombre d'adaptations concernant la prime d'aménagement du territoire. La P.A.T. accordée par les régions est supprimée à partir du 1er janvier 1987 et les décrets du 6 mai et du 31 août 1982, instaurant la prime à l'aménagement du territoire seront modifiés dans le respect du régime approuvé par la commission des communautés européennes le 10 octobre 1982. Désormais, les fonds de la prime d'aménagement du territoire seront consacrés, en priorité à la localisation dans les zones prioritaires, des investissements internationalement mobiles, à la création d'établissements ou d'entreprises, aux extensions très significatives d'entreprises existantes et aux décentralisations. En ce qui concerne les régions, les textes réglementaires concernant la P.R.E. et la P.R.C.E. seront assouplis. Ainsi, le plafond de la prime régionale à la création d'entreprise pourra être porté de 150 000 F à 200 000 F dans certaines zones géographiques définies comme prioritaires par le conseil régional. De même, le régime de la prime régionale à l'emploi sera adapté pour permettre aux régions qui le souhaitent d'intervenir plus largement pour les entreprises créatrices d'emplois, quel que soit leur secteur d'activité. Ces premières modifications devront être suivies d'un examen plus approfondi des modes d'intervention économique des collectivités. Dans cette optique, la D.A.T.A.R. examinera, en liaison avec les ministères concernés et en concertation avec l'ensemble des régions, les aménagements réglementaires et législatifs à apporter pour adapter les modalités d'intervention des collectivités locales à ce nouveau contexte.
