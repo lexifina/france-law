@@ -1,0 +1,7 @@
+# Article 1er
+
+Au cours de sa vie professionnelle, tout salarié peut faire valider les acquis de son expérience en vue d'acquérir :
+
+-un diplôme ou un titre à finalité professionnelle, enregistré dans le répertoire national des certifications professionnelles (RNCP) visé à l'article L. 335-6 du code de l'éducation ;
+
+-ou un certificat de qualification professionnelle figurant en même temps dans le RNCP ci-dessus et au répertoire national des certifications annexé à la convention collective.
