@@ -14,13 +14,13 @@ a) Les dotations aux amortissements des immobilisations, créées ou acquises à
 
 b) Les dépenses de personnel afférentes aux chercheurs et techniciens de recherche directement et exclusivement affectés à ces opérations ;
 
-((c) les autres dépenses de fonctionnement exposées dans les mêmes opérations ; ces dépenses sont fixées forfaitairement à 75 p. 100 des dépenses de personnel mentionnées au b).
+c) les autres dépenses de fonctionnement exposées dans les même s opérations ; ces dépenses sont fixées forfaitairement à 75 p. 100 des dépenses de personnel mentionnées au b.
 
-((Ce pourcentage est fixé à :
+Ce pourcentage est fixé à :
 
-((1° 65 p. 100 des dépenses de personnel qui se rapportent aux chercheurs et techniciens de recherche qui exercent tout ou partie de leur activité dans la région d'Ile-de-France ;
+1° 65 p. 100 des dépenses de personnel qui se rapportent aux chercheurs et techniciens de recherche qui exercent tout ou partie de leur activité dans la région d'Ile-de-France ;
 
-((2° 100 p. 100 des dépenses de personnel qui se rapportent aux chercheurs et techniciens de recherche affectés exclusivement dans les territoires ruraux de développement prioritaire et dans les zones d'aménagement du territoire mentionnés à la dernière phrase du premier alinéa de l'article 1465)) (3).
+2° 100 p. 100 des dépenses de personnel qui se rapportent aux chercheurs et techniciens de recherche affectés exclusivement dans les territoires ruraux de développement prioritaire et dans les zones d'aménagement du territoire mentionnés à la dernière phrase du premier alinéa de l'article 1465 (3).
 
 d) Les dépenses exposées pour la réalisation d'opérations de même nature confiées à des organismes de recherche publics ou privés agréés par le ministre de la recherche et de l'industrie, ou à des experts scientifiques ou techniques agréés dans les mêmes conditions ;
 
@@ -34,7 +34,7 @@ g) Les dépenses de normalisation afférentes aux produits de l'entreprise, déf
 
 2° Les autres dépenses exposées à raison de ces mêmes opérations ; ces dépenses sont fixées forfaitairement à 30 p. 100 des salaires mentionnés au 1° ;
 
-3° Dans des conditions fixées par décret, les dépenses exposées par le chef d'une entreprise individuelle, ((les personnes mentionnées au I de l'article 151 nonies et les mandataires sociaux pour leur participation)) (3) aux réunions officielles de normalisation, à concurrence d'un forfait journalier de 3.000 F par jour de présence auxdites réunions (4) ;
+3° Dans des conditions fixées par décret, les dépenses exposées par le chef d'une entreprise individuelle, les personnes mentionnées au I de l'article 151 nonies et les mandataires sociaux pour leur participation (3) aux réunions officielles de normalisation, à concurrence d'un forfait journalier de 3.000 F par jour de présence auxdites réunions (4) ;
 
 h) Les dépenses liées à l'élaboration de nouvelles collections exposées par les entreprises industrielles du secteur textile-habillement-cuir et définies comme suit :
 
@@ -60,26 +60,26 @@ a) b) c) (Périmés).
 
 d) Au cours des années 1993 à 1995 par les entreprises qui ont bénéficié du crédit d'impôt recherche au titre de l'année 1992 ou par celles qui n'ont jamais bénéficié du dispositif du crédit d'impôt recherche ou qui n'ont pas renouvelé leur option au titre des périodes 1987 à 1989 et 1990 à 1992.
 
+((e. au cours des années 1996 à 1998 par les entreprises qui ont fait application du crédit d'impôt recherche au titre de 1995 ou par celles qui n'ont jamais opté pour le régime du crédit d'impôt recherche. L'option doit être exercée au titre de 1996 ou au titre de l'année de création de l'entreprise, ou au titre de l'année au cours de laquelle l'entreprise réalise ses premières dépenses de recherche éligibles au crédit d'impôt recherche.)) (M)
+
 IV ter. (Périmé).
 
 V. (Périmé).
 
-VI. Un décret fixe les conditions d'application du présent article. Il en adapte les dospositions aux cas d'exercice de durée inégale ou ne coïncidant pas avec l'année civile (6).
+VI. Un décret fixe les conditions d'application du présent article. Il en adapte les dispositions aux cas d'exercice de durée inégale ou ne coïncidant pas avec l'année civile (6).
 
 (1) L'extension aux entreprises agricoles est applicable pour le calcul du crédit d'impôt recherche des années 1992 à 1995.
 
 Ces dispositions sont applicables, sur option de l'entreprise exercée en 1993, pour le calcul du crédit d'impôt recherche afférent à l'année 1992.
 
-(2) Ces dispositions s'appliquent pour le calcul du crédit d'impôt-recherche des années 1992 à 1995. Cf. Instruction 1994-04-21 4A-8-94.
-
-(3) Modification. Ces dispositions s'appliquent aux dépenses retenues pour le calcul du crédit d'impôt de l'année 1995.
-
-Cf. Instruction 1995-02-02 4A-1-95.
+(2) Ces dispositions s'appliquent pour le calcul du crédit d'impôt-recherche des années 1992 à 1995. (3) Ces dispositions s'appliquent aux dépenses retenues pour le calcul du crédit d'impôt de l'année 1995.
 
 (4) Annexe III, art. 49 septies I bis.
 
 (5) Les dépenses visées au h sont retenues pour le calcul du crédit d'impôt-recherche des années 1992 à 1995.
 
 En ce qui concerne le contrôle, voir livre des procédures fiscales, art. L45 B.
+
+(M) Modification de la loi.
 
 (6) Annexe III, art. 49 septies F à 49 septies N.

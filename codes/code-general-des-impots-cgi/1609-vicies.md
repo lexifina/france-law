@@ -12,28 +12,28 @@ c) Pour les huiles qui font l'objet d'une acquisition intracommunautaire lors de
 
 II. – ((Les taux de la taxe sont fixés comme suit :
 
-((Huile d'olive, 0,917 F/Kg, 0,826 F/litre
+((Huile d'olive, 0,936 F/Kg, 0,843 F/litre
 
-((Huiles d'arachide et de maïs, 0,826 F/Kg, 0,752 F/Litre
+((Huiles d'arachide et de maïs, 0,843 F/Kg, 0,768 F/Litre
 
-((Huiles de colza et de pépins de raisin, 0,423 F/Kg, 0,385 F/litre
+((Huiles de colza et de pépins de raisin, 0,432 F/Kg, 0,393 F/litre
 
-((Autres huiles végétales fluides et huiles d'animaux marins dont le commerce et l'utilisation ne sont pas soumis aux règles internationales ou nationales relatives aux espèces protégées, 0,720 F/Kg, 0,629 F/litre
+((Autres huiles végétales fluides et huiles d'animaux marins dont le commerce et l'utilisation ne sont pas soumis aux règles internationales ou nationales relatives aux espèces protégées, 0,735 F/Kg, 0,642 F/litre
 
-((Huiles de coprah et de palmiste, 0,550F/Kg, 0,629 F / litre
+((Huiles de coprah et de palmiste, 0,562F/Kg
 
-((Huile de palme, 0,503 F/Kg, 0,629 F/litre
+((Huile de palme, 0,514 F/Kg
 
-((Huiles d'animaux marins dont le commerce et l'utilisation sont soumis aux règles internationales ou nationales relatives aux espèces protégées, 0,917F F/Kg, 0,629 F/litre)) (M).
+((Huiles d'animaux marins dont le commerce et l'utilisation sont soumis aux règles internationales ou nationales relatives aux espèces protégées, 0,936F F/Kg)) (M).
 
 Pour les produits alimentaires importés ou qui font l'objet d'une acquisition intracommunautaire incorporant des huiles imposables, la taxation est effectuée selon les quantités et les natures d'huile entrant dans la composition.
 
 Toutefois, pour les produits autres que la margarine, le redevable peut demander l'application d'un tarif forfaitaire, fixé par arrêté du ministre du budget sur des bases équivalentes à celles qui sont retenues pour les produits similaires d'origine nationale.
 
-III. – Les huiles, y compris celles qui sont contenues dans l es produits alimentaires visés ci-dessus, exportées de France continentale et de Corse, qui font l'objet d'une livraison exonérée en vertu du I de l'article 262 ter ou d'une livraison dans un lieu situé dans un autre Etat membre de la Communauté européenne en application de l'article 258 A, ne sont pas soumises à la taxe spéciale.
+III. – Les huiles, y compris celles qui sont contenues dans les produits alimentaires visés ci-dessus, exportées de France continentale et de Corse, qui font l'objet d'une livraison exonérée en vertu du I de l'article 262 ter ou d'une livraison dans un lieu situé dans un autre Etat membre de la Communauté européenne en application de l'article 258 A, ne sont pas soumises à la taxe spéciale.
 
 IV. – La taxe spéciale est établie et recouvrée selon les modalités, ainsi que sous les sûretés, garanties et sanctions applicables aux taxes sur le chiffre d'affaires.
 
 Sont toutefois fixées par décret les mesures particulières et prescriptions d'ordre comptable notamment, nécessaires pour que la taxe spéciale ne frappe que les huiles effectivement destinées à l'alimentation humaine, pour qu'elle ne soit perçue qu'une seule fois, et pour qu'elle ne soit pas supportée en cas d'exportation, de livraison exonérée en vertu du I de l'article 262 ter ou de livraison dans un lieu situé dans un autre Etat membre de la Communauté européenne en application de l'article 258 A.
 
-(M) Modification de la loi 94-1162.
+(M) Modification de la loi..

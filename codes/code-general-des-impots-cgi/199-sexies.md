@@ -10,9 +10,7 @@ Les montants de 9000 F et 1500 F sont portés respectivement à 1500 F et 2000 F
 
 Pour les prêts contractés à compter du 1er juin 1986 par les personnes citées au second alinéa de l'article 6 pour la construction ou l'acquisition de logements neufs, le montant de 15.000 F est porté à 30.000 F. Il est augmenté de 2000 F par personne à charge au sens des articles 196 à 196 B. En outre, il est appliqué une majoration complémentaire de 500 F pour le deuxième enfant et de 1 000 F par enfant à partir du troisième.
 
-complété par un alinéa ainsi rédigé :
-
-Pour les prêts contractés à compter du 18 septembre 1991 pour la construction ou l'acquisition de logements neufs, le montant des intérêts à prendre en compte pour le calcul de la réduction est porté à 20 000 F pour une personne célibataire, veuve ou divorcée et à 40 000 F pour un couple marié soumis à une imposition commune. Ces montants sont augmentés dans les conditions prévues au quatrième alinéa.
+Pour les prêts contractés à compter du 18 septembre 1991 pour la construction ou l'acquisition de logements neufs, le montant des intérêts à prendre en compte pour le calcul de la réduction est porté à 20 000 F pour une personne célibataire, veuve ou divorcée et à 40 000 F pour un couple marié soumis à une imposition commune. Ces montants sont augmentés dans les conditions prévues au quatrième alinéa ;
 
 b. Les dispositions du a s'appliquent même lorsque l'immeuble n'est pas affecté immédiatement à l'habitation principale, à la condition que le propriétaire prenne l'engagement de lui donner cette affectation avant le 1er janvier de la troisième année qui suit celle de la conclusion du contrat de prêt ou du paiement des dépenses. Le non-respect de cet engagement donne lieu à la reprise de la réduction d'impôt dont le contribuable a indûment bénéficié, sans préjudice des sanctions prévues à l'article 1729. Ces dispositions s'appliquent aux prêts conclus ou aux dépenses payées avant le 1er janvier 1992.
 
@@ -24,8 +22,10 @@ c. Les réductions d'impôt prévues au a et au b sont étendues aux locaux comp
 
 d. (Abrogé) (1).
 
-2° a b c d (Périmé à l'exception du troisième alinéa du a transféré sous l'article L172 E du LPF).
+((e. Lorsque, pour l'acquisition d'un logement en accession à la propriété, le contribuable bénéficie de l'avance remboursable ne portant pas intérêt prévue par l'article R. 317-1 du code de la construction et de l'habitation, la réduction d'impôt prévue au a ne s'applique pas aux intérêts des emprunts complémentaires souscrits par lui)) (M).
 
-NOTA :
+2° a, b, c, d (Périmé à l'exception du troisième alinéa du a transféré sous l'article L172 E du LPF).
 
 (1) Ces dispositions s'appliquent aux contrats conclus et aux dépenses payées à compter du 1er juillet 1993.
+
+(M) Modification de la loi..
