@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011136030
+
+- Question : [SEQ011136030](seq011136030.md) — Interrogations sur une éventuelle fusion de la gendarmerie nationale et de la police nationale
+
+## Réponse
+
+*Défense, JO du 2002-02-28, page 650*
+
+L'organisation française se caractérise par l'existence de deux forces de sécurité de l'Etat : l'une à statut civil, la police nationale, et l'autre à statut militaire, la gendarmerie nationale. Ce dualisme perdure dans l'histoire des institutions françaises, car il garantit le bon fonctionnement des institutions de la République. Le statut militaire de la gendarmerie nationale est un héritage pluriséculaire, sans cesse réaffirmé par les plus hautes autorités de l'Etat, qui a permis de façonner une force réputée pour son légalisme, sa neutralité, sa discipline et sa disponibilité constante. De plus, dotée d'une compétence et d'une implantation territoriale nationales, la gendarmerie, par la polyvalence de ses missions, permet d'assurer une continuité entre l'action policière et l'action militaire. Véritable force intermédiaire susceptible de préserver et de rétablir le maintien de l'ordre public en temps de paix comme en temps de guerre, elle apporte une réponse particulièrement adaptée aux crises dont l'ampleur sort du cadre d'action de la police nationale. En outre, la montée en puissance des réserves donne une dimension nouvelle à cette mission. Dès lors, il n'est pas envisagé de remettre en cause le statut militaire de la gendarmerie nationale auquel le personnel reste attaché, sauf à repenser l'organisation du dispositif de défense français. La consolidation de la coopération entre la gendarmerie et la police demeure néanmoins une priorité afin d'optimiser la constante coordination des moyens et des compétences, et par conséquent d'améliorer la qualité du service public.
