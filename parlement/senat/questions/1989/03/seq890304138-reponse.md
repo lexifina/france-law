@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890304138
+
+- Question : [SEQ890304138](seq890304138.md) — Versement de la majoration pour tierce personne aux fonctionnaires territoriaux
+
+## Réponse
+
+*Collectivités territoriales, JO du 1990-07-12, page 1531*
+
+Réponse. - Dès lors que le principe dérogatoire prévu par la circulaire citée par l'honorable parlementaire est admis, les conditions à respecter pour l'attribution de la majoration pour tierce personne sont celles définies soit par le décret du 11 janvier 1960, soit par la circulaire elle-même. Dans ce cas, il appartient à la commission de réforme de vérifier et reconnaître que pour les fonctionnaires placés en congé ordinaire de maladie, en congé de longue maladie ou en congé de longue durée, qui perçoivent le traitement entier ou le demi-traitement ou qui, malgré leur état d'invalidité, ont pu reprendre une activité, leur état de santé nécessite toujours le recours à l'assistance d'une tierce personne pour effectuer les actes ordinaires de la vie. Ces conditions suffisent à justifier la perception de la majoration, sans que la commission de réforme n'ait à se prononcer au-delà. La date d'effet de ce droit peut effectivement être celle de la date de la demande si les conditions justifiant le droit sont établies à cette date. Toutefois, par analogie aux conditions d'attribution d'une pension d'invalidité du régime général établies par l'article L. 349-9 du code de la sécurité sociale, l'allocation d'invalidité peut être attribuée à compter de la date de consolidation ou de stabilisation de l'état ou à l'expiration d'un des délais mentionnés à l'article L. 341-3 du code de la sécurité sociale. Il n'y a pas lieu de cesser le versement de la majoration en cas de rechute dès lors que les conditions d'ouverture du droit définies sur la base évoquée ci-dessus demeurent.
