@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920621791
+
+- Question : [SEQ920621791](seq920621791.md) — Protection des emprunteurs protégés
+
+## Réponse
+
+*Économie, JO du 1992-09-24, page 2181*
+
+Réponse. - Les établissements de crédit sont seuls responsables des risques qu'ils acceptent et sont de ce fait libres de leurs décisions en matière de concours financiers. Ils ont ainsi toute latitude pour accorder ou refuser les concours demandés par leurs clients en fonction de l'appréciation qu'ils portent sur leur situation et sur les garanties offertes. Il n'existe donc pas de texte obligeant les banques à accorder des facilités globales à un niveau au moins égal au montant des cautions ou aux hypothèques qu'elles ont reçues. Un texte aurait d'ailleurs pour effet de créer implicitement un droit au crédit et serait de toute façon contraire au droit actuel qui, en matière de contrat de prêt, dispose que la remise de fonds n'est pas une obligation à la différence du remboursement, mais seulement une condition de validité du contrat. Cela n'autorise pas pour autant la suppression d'un concours accordé sans préavis et dans n'importe quelles conditions. L'article 60 de la loi du 24 janvier 1984 relative à l'activité et au contrôle des établissements de crédits prévoit que " tout concours à durée indéterminée, autre qu'occasionnel, qu'un établissement consent à une entreprise, ne peut être réduit ou interrompu que sur notification écrite ou à l'expiration d'un délai de préavis fixé lors de l'octroi du concours. L'établissement de crédit n'est tenu de respecter aucun délai de préavis, que l'ouverture de crédit soit à durée indéterminée ou déterminée, en cas de comportement gravement répréhensible du bénéficiaire du crédit ou au cas où la situation de ce dernier s'avérerait irrémédiablement compromise. Le non-respect de ces dispositions peut entraîner la responsabilité pécuniaire de l'établissement de crédit ".
