@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508510
+
+- Question : [SEQ980508510](seq980508510.md) — Généralisation au plan national d'un outil de connaissance statistique de la réalité infracommunale
+
+## Réponse
+
+*Ville, JO du 1999-01-14, page 135*
+
+Réponse. - Nous disposons maintenant, au niveau national, d'un outil de connaissance statistique de la réalité infracommunale. Cet outil a été créé conjointement par l'INSEE et la délégation interministérielle à la ville. Il est constitué de six fiches thématiques sur chaque quartier de la politique de la ville. Il est disponible auprès de toutes les directions régionales de l'INSEE sur papier et sur support informatique. C'est une base de données statistiques établie grâce à une exploitation spécifique du recensement général de la population de 1990. Il est prévu d'en actualiser les données grâce au recensement général de la population de 1999 qui sera entièrement disponible au cours de l'année 2001. Au niveau régional, un partenariat avec les directions régionales de l'Agence nationale pour l'emploi, les caisses d'allocations familiales et les directions régionales de l'équipement a permis, dans certaines régions, de compléter les données de l'INSEE en créant des tableaux de bord régionaux sur les quartiers concernés par la politique de la ville. Les données concernant les demandeurs d'emploi, la situation des familles bénéficiaires d'allocations et les logements sont réactualisées chaque année. La délégation interministérielle à la ville a prévu la signature, au niveau national, d'une convention avec l'Agence nationale pour l'emploi pour rendre disponible les données sur les demandeurs d'emploi dans toutes les régions. Elle incite les préfectures de région à concevoir des tableaux de bord régionaux des quartiers quand elles ne l'ont pas encore fait.
