@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890705519
+
+- Question : [SEQ890705519](seq890705519.md) — Inscription des enfants dans les centres de formation des apprentis
+
+## Réponse
+
+*Éducation, JO du 1989-10-05, page 1642*
+
+Réponse. - Conformément à l'article L. 117-3 du code du travail, les jeunes âgés d'au moins quinze ans peuvent souscrire un contrat d'apprentissage s'ils justifient avoir effectué la scolarité du premier cycle de l'enseignement secondaire. Il importe de préciser que doivent être considérés comme remplissant cette condition les élèves issus d'une classe de troisième de collège ou ayant accompli deux années de scolarité en classe préprofessionnelle de niveau ou en classe préparatoire à l'apprentissage, ou une année de scolarité dans chacune de ces classes. En l'absence de la réalisation de ces conditions, cette catégorie d'élèves ne peut être dispensée de l'obligation scolaire comme prévu par la loi n° 71-576 du 16 juillet 1971. Dans la mesure ou l'élève ne remplit pas les conditions pour être dégagé de l'obligation scolaire en vue d'entrer directement en apprentissage, il peut toutefois être accueilli en classe préparatoire à l'apprentissage. Ces classes, qui peuvent être ouvertes dans les centres de formation d'apprentis, les collèges ou les lycées professionnels, parallèlement à la mise à niveau des élèves dans les disciplines d'enseignement général, proposent des stages en entreprise auprès d'un professionnel agréé, préparant ainsi une meilleure adaptation à l'apprentissage. Par ailleurs, l'évolution ultérieure et rapide des professions rend indispensable l'acquisition, au cours de la période de scolarisation obligatoire, d'une formation générale minimale. C'est pourquoi il ne paraîtrait pas opportun d'assouplir les règles relatives tant aux conditions d'âge que de durée de scolarité pour l'obtention de dérogations en vue d'une entrée en apprentissage.
