@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880600107
+
+- Question : [SEQ880600107](seq880600107.md) — Situation du centre cardiothoracique de Monaco
+
+## Réponse
+
+*Solidarité, JO du 1989-01-05, page 30*
+
+Réponse. - Il est indiqué à l'honorable parlementaire que le centre cardiothoracique de Monaco est un établissement privé de soins. Dès lors les assurés sociaux du régime français peuvent être remboursés des soins en application de l'article 11, alinéa 2, de la convention de sécurité sociale entre la France et Monaco du 28 février 1952, c'est-à-dire d'après les frais exposés et dans la limite maximum des tarifs du centre hospitalier régional de Nice. Concernant la tarification, il appartient au centre cardio-thoracique d'établir une facturation d'une manière compatible avec la limite imposée du tarif de l'établissement français de référence. Il est précisé à l'honorable parlementaire que ces conclusions ont été confirmées par les autorités française et monégasque lors de la commission mixte de sécurité sociale qui s'est tenue en octobre 1987. Le centre cardiothoracique a effectivement mis en place un système de tarification reposant sur le principe du forfait global ; si la caisse de compensation des services sociaux monégasque a concrétisé un accord avec le centre prévoyant un remboursement sur une telle base forfaitaire, il est indiqué qu'il s'agit d'une convention conclue à titre expérimental et pour un an, et dont les dispositions purement internes n'ont aucune incidence sur l'application de la convention franco-monégasque. Il n'existe pas d'accord de tiers payant entre le centre cardiothoracique de Monaco et la caisse primaire des Alpes-Maritimes. Les assurés sociaux sont donc tenus de faire l'avance des frais. A ce titre, la situation est analogue à celle des établissements situés en France qui ne sont pas conventionnés.
