@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031009185
+
+- Question : [SEQ031009185](seq031009185.md) — Fonds national de développement des adductions d'eau
+
+## Réponse
+
+*Agriculture, JO du 2004-01-15, page 116*
+
+Les recettes du Fonds national pour le développement des adductions d'eau (FNDAE) sont constituées par la redevance sur le mètre cube d'eau consommée et jusqu'en 2002 par un prélèvement sur les recettes du pari mutuel. Lors de la discussion budgétaire 2003, il a été décidé de ne pas affecter au FNDAE le prélèvement sur le pari mutuel, compte tenu de l'existence de reports importants de crédits de paiement qui représentaient, fin 2002, l'équivalent de deux années moyennes de programmation. Par ailleurs, dans le cadre de la directive " nitrate ", le programme de maîtrise des pollutions d'origine agricole (PMPOA), et plus spécialement son volet élevage, a pour objectif d'aider les agriculteurs à adapter leurs équipements et leurs pratiques afin de mieux respecter l'environnement. Début 2003, ce programme a été réorienté afin d'améliorer l'efficacité environnementale des mesures prises et d'en maîtriser le coût. L'intervention du PMPOA est mise en oeuvre en priorité dans les zones vulnérables. L'Etat s'est engagé auprès de l'Union européenne, dans ces zones, à achever le PMPOA en 2006. Il a donc été nécessaire, dès 2003, d'accompagner les financements mis en place dans le cadre du budget du ministère de l'agriculture, de l'alimentation, de la pêche et des affaires rurales, par un effort accru sur le FNDAE. Le renouvellement des installations doit être financé par la dotation aux amortissements constituée dans le budget des services d'eau et d'assainissement conformément aux règles de la comptabilité publique. Pour 2004, le projet de loi de finances envisage la budgétisation du FNDAE à hauteur des recettes prévisionnelles de la redevance sur le mètre cube d'eau consommée, soit 75 MEUR.
