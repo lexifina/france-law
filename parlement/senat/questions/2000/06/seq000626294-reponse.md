@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000626294
+
+- Question : [SEQ000626294](seq000626294.md) — Représentation des professions libérales au Conseil économique et social
+
+## Réponse
+
+*Premier ministre, JO du 2000-07-27, page 2630*
+
+Réponse. - L'honorable parlementaire attire l'attention du Premier ministre sur la représentation des professions libérales au sein du Conseil économique et social. La composition du Conseil économique et social est fixée par l'ordonnance nº 58-1360 du 29 décembre 1958, modifiée notamment par la loi organique nº 84-499 du 27 juin 1984. Le décret nº 84-558 du 4 juillet 1984 précise les conditions de désignation des membres de cette assemblée. Il résulte de ces textes que la représentation des professions libérales comprend trois représentants, correspondant respectivement aux professions de santé, aux professions juridiques et aux autres professions libérales. Le groupe des professions libérales du Conseil économique et social est, aujourd'hui, composé des trois membres suivants : MM. Edouard Salustro (président), Claude Chambonnaud et Guy Robert. La composition du Conseil économique et social comprend, en outre, quarante personnalités qualifiées nommées " dans le domaine économique, social, scientifique ou culturel par décret en Conseil des ministres ". Parmi ce groupe de personnalités figurent traditionnellement des professionnels libéraux, étant entendu qu'ils ne siègent pas en cette qualité. Il n'existe pas de critère arithmétique figeant la composition socio-professionnelle du groupe des personnalités qualifiées. Celle-ci peut donc varier d'une mandature à l'autre, et ces évolutions n'appellent pas d'interprétation particulière. Au cours des mandatures 1994-1999 et 1999-2000, le nombre de professionnels libéraux désignés au titre des personnalités qualifiées est resté stable (3).
