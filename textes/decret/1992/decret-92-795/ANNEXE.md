@@ -64,8 +64,6 @@ Suivi de la gestion financière et des affaires générales au service de la coo
 
 Mise en route, gestion et suivi des missions d'experts et d'agents du département au bureau des transports ;
 
-Gestion des primes et des rémunérations accessoires au bureau des personnels de l'administration centrale ;
-
 Gestion prévisionnelle et administrative des agents exerçant leurs fonctions à l'administration centrale ou dans les services à l'étranger ;
 
 Gestion des effectifs et suivi de la programmation de l'assistance technique au bureau de l'organisation et de la gestion prévisionnelle ;
@@ -113,3 +111,27 @@ Secrétaire de direction (directeur, chef de service, sous-directeur) :
 - organisation et suivi du comité d'évaluation des primes de fonction ;
 
 - vérification comptable au bureau du fonds d'aide et de coopération.
+
+Tranche 1996
+
+Gestion de crédits au bureau du cabinet.
+
+Secrétariat de la Commission coopération développement.
+
+Responsable du service intérieur.
+
+Préparation et organisation du dispositif de gestion des stages au bureau de la formation.
+
+Préparation des dossiers des instances paritaires.
+
+Suivi des marchés de transport à la sous-direction du budget, du contrôle et des marchés.
+
+Gestion financière à la sous-direction de l'éducation, de la recherche et de la culture.
+
+Secrétariat et participation à la gestion administrative et financière à la sous-direction de l'éducation, de la recherche et de la culture.
+
+Gestion financière à la sous-direction du développement institutionnel.
+
+Gestion des interventions et du personnel au bureau commun du service national.
+
+Gestion de crédits au bureau des personnels de l'administration centrale.
