@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890605446
+
+- Question : [SEQ890605446](seq890605446.md) — Revalorisation de la condition militaire et équipement des forces armées
+
+## Réponse
+
+*Premier ministre, JO du 1989-08-10, page 1224*
+
+Réponse. - Lors de la clôture du salon du Bourget, le Premier ministre a déclaré précisément : " Le projet de réactualisation de la loi de programmation militaire sera présenté l'automne prochain, et je voudrais insister sur ce point, privilégiera l'équipement qualitatif de nos forces, la recherche et le développement pour la mise au point des matériels des prochaines générations, en un mot la préparation de l'avenir. L'aptitude de nos entreprises à présenter, à l'aube de l'an 2000, les matériels les plus performants à l'avant-garde des technologies, en sera renforcée. " Ces déclarations ne sont pas en contradiction avec la diminution des crédits prévus par la loi de programmation 1987-1991, diminution à laquelle le Gouvernement a dû se résoudre au printemps pour préserver l'équilibre de l'économie générale du budget de l'Etat. En effet, il ne s'agit pas de réduction mais simplement d'une diminution du taux de croissance annuel envisagé intialement par la loide programmation. De plus, le projet de loi aura pour souci, d'une part de préserver les instruments de notre stratégie, notamment en ce qui concerne le coeur même de notre défense, la stratégie autonome de dissuasion nucléaire et d'autre part de maintenir les programmes majeurs d'équipements de nos forces pour lesquels il sera seulement procédé à des étalements ou des légers glissements. S'agissant de la condition militaire, il n'a pas échappé au Gouvernement la nécessité de l'améliorer par des mesures concrètes. Ainsi, dans une première étape, le budget 1990 de la défense consacrera un crédit important à la revalorisation de 10 p. 100 en moyenne de l'indemnité pour charges militaires au 1er janvier 1990.
