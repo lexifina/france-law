@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020138012
+
+- Question : [SEQ020138012](seq020138012.md) — Maintien des postes de phytopathologistes spécialisés dans les agrumes
+
+## Réponse
+
+*Agriculture, JO du 2002-04-11, page 1045*
+
+Les agrumes représentent une des richesses importantes de notre patrimoine, tant au point de vue culturel qu'économique. La France détient notamment une très importante collection de variétés d'agrumes. Il convient donc de prendre toutes les mesures appropriées pour préserver cette richesse biologique et pour limiter les effets préjudiciables des maladies pour les producteurs de cette filière. Or, actuellement, le champignon mal Secco est susceptible de la mettre en péril et représente une menace importante dans le sud-est de la France. Ce champignon, classé comme organisme de quarantaine dans l'arrêté du 2 septembre 1993 relatif aux exigences sanitaires des végétaux, produits végétaux et autres objets, peut provoquer des dégâts importants. A ce titre, il fait l'objet de mesures de contrôle sur les végétaux d'agrumes mis en circulation, de façon à apporter des garanties phytosanitaires suffisantes pour éviter sa dissémination sur le territoire. En complément de ces contrôles, réalisés sous la responsabilité des directions régionales de l'agriculture et de la forêt, il est nécessaire que des travaux scientifiques soient poursuivis afin de mieux maîtriser cette maladie. Cependant, les chercheurs en charge de ce sujet, à l'INRA et au CIRAD, sont amenés à modifier ou à cesser leurs activités, et la poursuite des études sur cette maladie par ces organismes de recherche n'est pas actuellement prévue. Le ministère de l'agriculture et de la pêche, en charge de la tutelle de l'INRA et du CIRAD, appellera l'attention de ces organismes afin que des solutions soient recherchées pour que les préoccupations en matière de suivi des recherches dans ce domaine puissent être prises en compte dans les années à venir.
