@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980105675
+
+- Question : [SEQ980105675](seq980105675.md) — Basculement des cotisations d'assurance maladie sur la CSG
+
+## Réponse
+
+*Emploi, JO du 1999-07-08, page 2326*
+
+Réponse. - L'article 7 du décret du 23 septembre 1996 relatif à la coordination de l'action de l'Etat à l'égard des professions libérales prévoit effectivement qu'une commisison permanente de concertation des professions libérales examine toutes les questions intéressant les professions libérales. Il doit cependant être noté que l'opération de remplacement des cotisations d'assurance maladie par la contribution sociale généralisée n'était pas en soi une mesure relative aux professions libérales en tant que telles, mais une disposition d'ordre général applicable dans des conditions identiques à l'ensemble des assurés d'un même régime d'assurance maladie, peu important la catégorie professionnelle à laquelle ceux-ci se rattachent (artisan, commerçant, profession libérale). Lorsque les textes le prévoyaient, les conseils d'administration des caisses nationales compétentes ont été consultés ; ce fut notamment le cas pour le régime des travailleurs non salariés des professions non agricoles, au conseil d'administration duquel siègent des représentants des professions libérales. En revanche, la consultation de la commission permanente de concertation des professions libérales ne s'imposait pas. Dans le souci néanmoins de lever les inquiétudes émises par certains représentants des professions libérales, le ministère de l'emploi et de la solidarité avait exposé, à l'occasion de la commission du 28 novembre 1997, les modalités selon lesquelles s'effectuerait ce remplacement des cotisations d'assurance maladie par la contribution sociale généralisée s'agissant des travailleurs non salariés des professions non agricoles, en rappelant notamment que l'opération présentait un caractère favorable pour 80 % d'entre eux.
