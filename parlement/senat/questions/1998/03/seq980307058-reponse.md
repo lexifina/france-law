@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980307058
+
+- Question : [SEQ980307058](seq980307058.md) — Risques encourus par les touristes français séjournant dans la zone nord de Chypre
+
+## Réponse
+
+*Tourisme, JO du 1998-05-21, page 1652*
+
+Réponse. - Les pouvoirs publics français n'ont pas la possibilité d'interdire à une personne morale, en conformité avec la réglementation en vigueur, de programmer et de commercialiser des séjours en dehors des frontières nationales, pas plus qu'ils ne peuvent interdire à un ressortissant français de se rendre dans une région ou un pays. Ils peuvent, en revanche, ne pas encourager les déplacements de ressortissants français dans une destination donnée. C'est le cas en ce qui concerne la zone nord de Chypre du fait de la position constante de la France qui ne reconnaît comme autorité légale de l'ensemble du territoire chypriote que le Gouvernement de la République de Chypre. Les services du secrétariat d'Etat au tourisme ont ainsi appelé l'attention des professionnels du tourisme à plusieurs reprises sur la situation prévalant à Chypre Nord, l'absence de représentation diplomatique ou consulaire française dans cette région et l'interdiction faite par les autorités légales du pays aux personnes débarquées illégalement à Chypre Nord de se rendre dans la partie sud de l'île. Cette information, périodiquement mise à jour et confirmée, est adressée au Syndicat national des agences de voyage et à l'Union nationale des associations de tourisme, ainsi qu'au cercle d'études des tour-opérateurs. Cette diffusion est assurée dans le cadre du comité technique d'informations sur le voyage qui associe, à l'initiative du secrétariat d'Etat au tourisme, les compétences du ministère des affaires étrangères et du ministère de l'emploi et de la solidarité (direction générale de la santé) pour transmettre aux professionnels du tourisme les éléments nécessaires à l'accomplissement de leur devoir d'information du voyageur.
