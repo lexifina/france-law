@@ -1,0 +1,9 @@
+# Réponse à la question SEQ041214867
+
+- Question : [SEQ041214867](seq041214867.md) — Déroulement de carrière de fonctionnaires territoriaux de catégorie C
+
+## Réponse
+
+*Fonction publique, JO du 2005-03-31, page 932*
+
+Les dispositions relatives à la promotion interne exceptionnelle des agents administratifs territoriaux dans le cadre d'emplois des adjoints administratifs territoriaux font l'objet du décret n° 2005-9 du 6 janvier 2005, publié au Journal officiel du 7 janvier 2005. Ces dispositions visent à améliorer le mécanisme dérogatoire institué par le décret n° 2003-600 du 26 juin 2003 qui s'était heurté à certaines difficultés d'application. La réorientation prévue découple les deux types de promotion interne (au choix et par examen professionnel). Le mécanisme de promotion interne au choix de droit commun est rétabli mais jouera désormais selon un quota assoupli. Une promotion pourra être prononcée pour trois recrutements intervenus dans la collectivité ou l'établissement ou l'ensemble des collectivités et établissements affiliés à un centre de gestion au lieu des cinq prévus. Une voie de promotion interne supplémentaire sera créée et conditionnée, pour les fonctionnaires comptant au moins sept ans de services effectifs, y compris la période normale de stage, dans le cadre d'emplois des agents administratifs ou dans celui des agents de bureau, à la réussite à un examen professionnel. La proportion de promotions susceptibles d'être réalisées par cette voie sera d'une pour deux recrutements intervenus dans la collectivité ou l'établissement ou l'ensemble des collectivités et établissements affiliés à un centre de gestion. Un tel système permettra de promouvoir les agents dans le cadre d'emplois des adjoints administratifs en prenant en considération deux voies de promotion indépendantes l'une de l'autre, tout en améliorant la proportion de ces promotions.
