@@ -1,0 +1,17 @@
+# Délibération portant avis sur la mise en oeuvre par la Chambre de Commerce et d'Industrie de Toulouse d'un traitement automatisé d'informations nominatives relatif à la gestion d'un fichier des chèques volés ou perdus
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 85-09
+- Date : 1985-03-05
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017654645
+
+La Commission Nationale de l'Informatique et des Libertés, Vu la loi N° 78-17 du 6 Janvier 1978 relative à l'informatique, aux fichiers et aux libertés ; Vu le décret N° 78-774 du 17 Juillet 1978 pris pour l'application de la loi susvisée ; Vu le projet d'acte réglementaire présenté par la Chambre de Commerce et d'Industrie de Toulouse ; Après avoir entendu Monsieur ELBEL, Commissaire, en son rapport, et Madame C.M. PITRAT, Commissaire du Gouvernement en ses observations ;
+
+Considérant que le traitement automatisé d'informations nominatives présenté par la Chambre de Commerce et d'Industrie de Toulouse a pour objet de limiter l'utilisation de chèques volés ou perdus ; qu'à cette fin, le système a pour double fonction, d'une part, la création et la consultation d'un fichier "chèques", d'autre part, celle d'un des fichiers "boutique", relatif aux commerçants abonnés au système ; Considérant que le projet d'acte réglementaire soumis pour avis à la Commission ne fait pas expressément référence à la double fonction mentionnée ci-dessus, il convient que l'article 1er dudit projet soit modifié en ce sens ; Considérant que le fichier "chèque" n'enregistre que les informations suivantes : nom et prénom du titulaire du chéquier déclaré perdu ou volé, l'adresse, banque émettrice, numéro de compte en banque, numéro des chèques volés ou perdus ; Considérant que le fichier "boutique" conduit à mémoriser les informations suivantes : code magasin, mot de passe, nom, adresse, mode activité ; que, en conséquence, il convient de préciser à l'article 2 dudit projet la liste de ces informations ; Considérant que seul le personnel des commissariats de police est habilité à créer des enregistrements audit fichier ; que seul celui ayant accès au micro-serveur mis en place au commissariat Central de police peut modifier ou supprimer les informations ; qu'une telle activité requiert un acte réglementaire de l'autorité hiérarchique dont dépendent les Commissariats ; Considérant que, eu égard aux objectifs poursuivis, 11 n'est pas opportun de mentionner, dans l'acte réglementaire soumis à publication, la durée de conservation des informations ; Considérant que les titulaires de chèques volés ou perdus sont informés préalablement de la mise en mémoire des renseignements communiqués lors de leur déclaration de perte ou vol ; que, cependant, il convient que la fiche de déclaration comporte les prescriptions de l'article 27 de la loi du 6 Janvier 1978 susvisée ;
+
+Emet un avis favorable à la mise en oeuvre du traitement sous réserve : - que le projet d'acte réglementaire émanant de la Chambre de Commerce et d'Industrie de Toulouse soit modifié compte tenu des observations formulées et soit communiqué à la Commission avant publication ; - que l'autorité de tutelle des commissariats de police saisisse la Commission Nationale de l'Informatique et des Libertés d'un projet d'acte réglementant la collecte et la gestion des données mentionnées dans le projet d'acte réglementaire présenté par la Chambre de Commerce et d'Industrie de Toulouse et ce, dans un délai d'un mois.
+
+Le Président, Jacques FAUVET
