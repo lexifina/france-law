@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860702060
+
+- Question : [SEQ860702060](seq860702060.md) — Droits sociaux des agricultrices
+
+## Réponse
+
+*Agriculture, JO du 1986-08-28, page 1205*
+
+Réponse. -La question de la parité des droits à congé maternité des agricultrices avec ceux des autres catégories de femmes actives, notamment en ce qui concerne le ticket modérateur laissé à leur charge, doit être examinée en tenant compte de la diversité des situations concrètes et dans l'objectif de permettre à toutes les agricultrices de bénéficier de la prestation de remplacement maternité dans les mêmes conditions de coût. C'est pourquoi une action est engagée pour tenter de réduire les disparités existant d'une région à l'autre dans le montant de la part restant à la charge de l'agricultrice qui recourt au remplacement, et qui tiennent à l'écart existant dans un certain nombre de départements entre le plafond de prise en charge fixé annuellement et le tarif de remplacement maternité pratiqué par les services. Dans un premier temps, une enquête destinée à cerner les éléments du coût de la journée de remplacement a été entreprise auprès des services prestataires et des caisses de mutualité sociale agricole. A la suite de cette enquête, un groupe de travail réunissant notamment des représentants des caisses centrales de secours mutuels agricoles, de l'association nationale de développement agricole et du ministère de l'agriculture doit procéder à une étude plus approfondie des données recueillies et rechercher les solutions qui peuvent être mises en oeuvre, en liaison avec les services de remplacement concernés, pour mettre fin aux injustices constatées. Ce n'est qu'à l'issue de cet examen que le problème de la suppression éventuelle du ticket modérateur de 10 p. 100 pourra être abordé en tenant compte des contraintes, notamment financières, qu'elle imposerait.
