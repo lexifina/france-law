@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981011252
+
+- Question : [SEQ981011252](seq981011252.md) — Fiscalité des SICA
+
+## Réponse
+
+*Économie, JO du 1999-01-14, page 122*
+
+Réponse. - Les locations de locaux meublés à usage d'habitation sont en principe exonérées de TVA, sans possibilité d'option, depuis le 1er janvier 1991. Toutefois, l'exonération ne s'applique pas aux locations fournies dans des établissements d'hébergement qui font l'objet d'une exploitation professionnelle. Il s'agit, d'une part, des hôtels et des résidences de tourisme classés et, d'autre part, des établissements qui fournissent des prestations d'hébergement dans des conditions proches de l'hôtellerie. Les exploitants de ces établissements parahôteliers doivent être immatriculés au registre du commerce et des sociétés au titre de cette activité de location meublée et offrir simultanément, outre l'hébergement, des prestations parahôtelières énumérées par la loi : réception de la clientèle, linge de maison, petit déjeuner, nettoyage quotidien des locaux. Le respect de ces conditions est essentiel, notamment pour des raisons budgétaires. En effet, les recettes des locations meublées sont souvent peu élevées par rapport à l'investissement, cette situation étant accentuée par la différence de taux entre les recettes taxées à 5,5 % et les dépenses de construction ou de rénovation soumises au taux de 20,6 %. En outre, les logements meublés sont parfois utilisés une partie de l'année à des fins privatives et ne donnent pas lieu dans ce cas à la perception de loyers. Cela étant, la situation des SICA d'hébergement touristique de l'Hérault au regard des règles de TVA, fait actuellement l'objet d'un examen de la part des services centraux du ministère de l'économie, des finances et de l'industrie. L'auteur de la question sera directement informé des suites qu'il aura paru possible de réserver à cette affaire particulière.
