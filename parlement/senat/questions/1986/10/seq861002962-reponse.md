@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861002962
+
+- Question : [SEQ861002962](seq861002962.md) — Personnes handicapées hospitalisées: somme mensuelle minimale
+
+## Réponse
+
+*Affaires sociales, JO du 1987-08-13, page 1263*
+
+Réponse. -La situation des personnes handicapées bénéficiaires de l'allocation aux adultes handicapés qui doivent régler le forfait journalier pendant leur hospitalisation a été améliorée par l'intervention du décret 85-530 du 17 mai 1985 qui a prévu les dispositions suivantes : la durée d'hospitalisation au cours de laquelle l'allocation aux adultes handicapés est maintenue dans son intégralité a été notablement prolongée. En effet la réduction de l'allocation n'est plus pratiquée le premier jour du mois qui suit la date d'hospitalisation mais après une durée de soixante jours d'hospitalisation ; au-delà de cette période, le montant disponible de l'allocation est portée de 40 p. 100 à 50 p. 100 pour les célibataires et de 60 p. 100 à 80 p. 100 pour les personnes mariées sans enfant ; aucune réduction n'est plus appliquée aux allocations des personnes ayant un enfant à charge ; l'allocation est rétablie au taux normal pendant les périodes de congé ou de suspension provisoire de la prise en charge hospitalière. Le décret 85-530 du 17 mai 1985 a introduit aussi une disposition importante qui répond au souci de l'honorable parlementaire, prévoyant que lorsqu'il y a lieu à une réduction de l'A.A.H., la personne handicapée astreinte au versement du forfait journalier doit conserver une allocation au moins égale à 12 p. 100 du montant maximum de ladite allocation (2632,50 francs depuis le 1er janvier 1987) soit 316 francs par mois équivalent à 8,3 p. 100 du S.M.I.C. net. Une personne handicapée placée en établissement de long séjour et dont le paiement du prix hébergement est pris en charge par l'aide sociale doit pouvoir disposer de la même somme. Il n'est pas actuellement envisagé de modifier ces règles.
