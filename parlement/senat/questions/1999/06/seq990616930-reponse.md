@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990616930
+
+- Question : [SEQ990616930](seq990616930.md) — Exonération de la redevance audiovisuelle pour certains commerçants
+
+## Réponse
+
+*Économie, JO du 1999-08-05, page 2658*
+
+Réponse. - Conformément à l'article 1er du décret nº 92-304 du 30 mars 1992 modifié, relatif à l'assiette et au recouvrement de la redevance pour droit d'usage des appareils récepteurs de télévision, tout détenteur d'un appareil récepteur de télévision est assujetti à une redevance pour droit d'usage. Cette détention constitue le fait générateur de redevance. Tout dispositif permettant la réception de la télévision est considéré comme appareil récepteur de télévision pour l'application de ce décret. Par conséquent, la redevance est due non seulement pour les postes de télévision, au sens strict, mais aussi pour les ensembles techniques qui sont en mesure de capter les signaux de télévision. Si des établissements utilisent leurs téléviseurs à des fins professionnelles et souhaitent bénéficier de la mise hors champ de la redevance, il leur appartient de neutraliser l'ensemble du dispositif permettant la réception de la télévision, d'apporter la preuve de la neutralisation du dispositif au centre de la redevance compétent et d'autoriser le contrôle sur place de ce même service. Les redevables qui demandent à être dispensés du paiement de la redevance en raison des modifications techniques apportées à leur téléviseur sont destinataires d'un questionnaire simplifié au vu duquel ils doivent décrire l'équipement audiovisuel dont ils disposent et produire les justificatifs des aménagements techniques éventuellement apportés. Il leur est rappelé que, dans le cadre de leur mission, les agents assermentés du service de la redevance peuvent procéder à toutes vérifications utiles.
