@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971003161
+
+- Question : [SEQ971003161](seq971003161.md) — Mise en oeuvre des modalités d'application du règlement national d'urbanisme (MARNU)
+
+## Réponse
+
+*Logement, JO du 1997-10-30, page 3011*
+
+Réponse. - L'honorable parlementaire demande quelles sont les évolutions susceptibles d'être apportées aux cartes communales, ou modalités d'application du réglement national d'urbanisme (MARNU). L'article L. 111-1-3 du code de l'urbanisme, dans sa rédaction issue de la loi no 86-972 du 19 août 1986, permet de fournir un cadre juridique de planification adapté à des communes dont l'importance du développement urbain ne nécessite pas l'élaboration d'un plan d'occupation des sols. Ce régime reste totalement justifié aujourd'hui et il n'est pas prévu de le modifier dans l'immédiat, tant que l'évolution de la jurisprudence, des pratiques et des besoins, n'exige pas de nouvelles améliorations. En ce qui concerne le financement d'études d'urbanisme, des crédits déconcentrés sont annuellement délégués aux directions départementales de l'équipement. Ces crédits d'étude, sans être spécialement affectés aux MARNU, peuvent être utilisés pour des études préalables à la confection de ces documents. De plus, les services déconcentrés de l'Etat sont mis à la disposition des communes qui le souhaitent, pour les assister dans l'élaboration des cartes communales. Cette prestation ne donne pas lieu à demande de versement de fonds de concours. Il n'est pas prévu de modification de ce dispositif. Cependant, il semble souvent souhaitable que les collectivités locales qui engagent une réflexion de ce type abondent financièrement, à la hauteur de leurs moyens budgétaires, ces moyens d'études afin de compléter et d'accélérer l'effort de planification engagé sur leur territoire.
