@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961219289
+
+- Question : [SEQ961219289](seq961219289.md) — Classification des éducateurs spécialisés et des moniteurs éducateurs au sein de la fonction publique hospitalière
+
+## Réponse
+
+*Travail, JO du 1997-01-23, page 233*
+
+Réponse. - Les emplois de la fonction publique hospitalière relevant de la catégorie active sont fixées par l'arrêté du 12 novembre 1969. Le fait d'avoir relevé de cette catégorie pendant au moins quinze ans permet aux intéressés de partir à la retraite dès l'âge de cinquante-cinq ans. Cette mesure est dérogatoire au droit commun puisque l'âge normal de départ à la retraite est de soixante ans pour tous les autres emplois des deux fonctions publiques, territoriale et hospitalière, ainsi que de la fonction de l'Etat et du secteur privé. Par ailleurs, ce dispositif est coûteux pour la CNRACL qui a en charge la gestion du régime spécial de retraite des fonctionnaires hospitaliers puisque la durée de versement des retraites est ainsi allongée de cinq années sans contrepartie de cotisation. En 1995, les départs en retraite au titre de la catégorie active ont représenté près de 20 % de l'ensemble des liquidations de pensions auxquelles la CNRACL a procédé. Compte tenu des difficultés financières que connaît actuellement la CNRACL et des prévisions défavorables du régime à moyen et long terme, il ne paraît pas souhaitable d'étendre la catégorie active à d'autres emplois de la fonction publique hospitalière. S'agissant toutefois des éducateurs spécialisés, l'opportunité et les modalités techniques d'une prise en compte des conséquences de l'usure professionnelle inhérente à cette profession font l'objet d'une étude. Cette étude dont on ne saurait préjuger les résultats concerne autant les personnels relevant du statut privé. Elle doit en conséquence s'inscrire dans le cadre des réflexions globales sur les grands équilibres des régimes de retraite.
