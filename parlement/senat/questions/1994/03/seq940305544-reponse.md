@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940305544
+
+- Question : [SEQ940305544](seq940305544.md) — Difficultés de l'enseignement de l'orthophonie à l'université de Lyon
+
+## Réponse
+
+*Enseignement supérieur, JO du 1994-06-09, page 1436*
+
+Réponse. - L'école d'orthophonie de Lyon est une formation paramédicale intégrée à l'institut des techniques de réadaptation de l'université Lyon I-Claude Bernard. Placée sous la double tutelle du ministère de l'enseignement supérieur et de la recherche et du ministère de la santé, elle dispense un enseignement professionnalisant menant au certificat de capacité d'orthophoniste. Seul le ministère de l'enseignement supérieur et de la recherche participe au financement de cette formation dans le cadre du soutien contractuel dont bénéficie l'institut, mais également au titre de la dotation globale de fonctionnement établie annuellement sur la base du système SAN REMO. Les difficultés financières que connaît actuellement cette école ne lui sont pas propres mais sont liées au problème plus général des établissements qui réunissent des formations à droits libres (kinésithérapie, ergothérapie), et des formations à droits imposés (orthophonie, orthoptie, audioprothèse, psychomotricité) dont l'enseignement est assuré par des intervenants rémunérés à partir des moyens en heures complémentaires mis à disposition par l'université de rattachement. A la faveur de la révision à mi-parcours du contrat quadriennal de développement de l'université, une expertise a été diligentée à l'initiative du ministère de la recherche et de l'enseignement supérieur qui a pleinement conscience des difficultés que rencontre l'école d'orthophonie. Cette révision, qui doit aboutir avant l'été, sera l'occasion de définir des solutions durables susceptibles d'assurer à l'institut des techniques de réadaptation un fonctionnement normal et de préserver la qualité des enseignements qu'il dispense.
