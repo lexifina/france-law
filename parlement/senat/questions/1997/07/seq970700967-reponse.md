@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970700967
+
+- Question : [SEQ970700967](seq970700967.md) — Eglise de scientologie
+
+## Réponse
+
+*Justice, JO du 1997-11-13, page 3169*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que sa question a retenu toute son attention. S'agissant de la mise en place d'un dialogue avec les partenaires européens, celui-ci s'est engagé dans le cadre de plusieurs enceintes. Une recommandation du Conseil de l'Europe no 1178 relative aux sectes et aux nouveaux mouvements religieux a été adoptée en 1993. Le Parlement européen a, par ailleurs, adopté une résolution sur les sectes en Europe le 29 février 1996 qui invite les Etats membres à s'assurer que les autorités judiciaires et policières font un usage efficace des dispositions et instruments juridiques déjà existants au niveau national, et à coopérer activement et plus étroitement, notamment dans le cadre d'Europol, afin de combattre les atteintes aux droits fondamentaux des personnes dont se rendent coupables certaines sectes. Les travaux dans le cadre du Conseil " justice affaires intérieures " de l'Union européenne se poursuivent pour permettre une coopération plus étroite dans la lutte contre les formes graves de criminalité dont peuvent se rendre coupables certains responsables et adhérents d'associations ou de groupes considérés comme des sectes. Quant au renforcement de la législation française, notre droit positif est pour l'essentiel suffisant pour permettre de lutter efficacement contre les dérives sectaires, notamment lorsque des groupes connus s'adonnent à des activités de nature illicite ou criminelle et à des violations des droits de l'homme telles que, notamment, les agressions sexuelles, les séquestrations, la traite des êtres humains, la divulgation d'idéologies racistes, la fraude fiscale, le trafic des stupéfiants ou encore des violations du droit du travail ou l'exercice illégal de la médecine.
