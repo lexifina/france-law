@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030909170
+
+- Question : [SEQ030909170](seq030909170.md) — Versement direct de l'allocation logement au propriétaire
+
+## Réponse
+
+*Santé, JO du 2003-12-25, page 3720*
+
+Les aides au logement sont des prestations qui ont pour objet de compenser partiellement la dépense de logement que supporte, au titre de sa résidence principale, le bénéficiaire en fonction du montant de sa charge de loyer, des ressources de la famille et de sa composition. Elles sont donc dues à des personnes qui acquittent une dépense de logement pour leur résidence principale. Le versement de l'allocation de logement en tiers payant au bailleur n'est qu'une modalité visant à faciliter les relations entre locataire et propriétaire, il ne fait pas de ce dernier le bénéficiaire de l'allocation de logement. Lorsque le propriétaire perçoit l'allocation de logement en tiers payant, si le locataire déménage avant la date du préavis prévu et qu'il a acquitté la part de loyer lui revenant pour les mois de préavis, l'allocation de logement ne peut être versée au propriétaire dès lors que le locataire a sa résidence principale située ailleurs. Ce dernier peut en effet ouvrir droit à une allocation de logement pour le nouveau logement occupé et il est précisé qu'un ménage ne peut percevoir qu'une seule aide au logement. Il appartient, dans ce cas, au propriétaire d'examiner avec le locataire les modalités de remboursement par celui-ci de la part de loyer correspondant au montant du tiers payant. Si le locataire déménage sans respecter le préavis et qu'il n'a pas acquitté son loyer pour l'ensemble de la durée du préavis, le propriétaire peut subir également un préjudice qu'il lui appartient de faire réparer par les voies juridiques de droit commun, mais il n'a pas vocation à se voir verser une allocation de logement à laquelle il n'ouvre pas droit. Il n'est pas envisagé de modifier la réglementation en vigueur.
