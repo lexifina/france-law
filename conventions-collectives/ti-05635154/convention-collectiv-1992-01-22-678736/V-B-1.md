@@ -19,3 +19,13 @@ Les agents à temps complet ayant dû travailler un jour férié autre que le 1e
 La journée de repos devra être prise dans le délai d'un mois. Toutefois, le personnel ayant droit à plusieurs journées de repos pourra, sur sa demande et avec l'accord de la direction, bloquer ces congés en une ou plusieurs fois, au cours de l'année.
 
 Les agents à temps partiel bénéficieront des dispositions ci-dessus au prorata de leur temps de travail, pour autant qu'ils aient travaillé le jour férié.
+
+Les agents travaillant en cycle avec le repos dominical par roulement bénéficieront des dispositions suivantes :
+
+Dans le but de compenser les disparités existant entre le personnel bénéficiant d'horaires fixes, dans le cadre de la semaine, et le personnel affecté à un travail réparti sur plusieurs semaines (cycle) avec repos dominical par roulement, ce dernier se voit attribuer un jour de repos complémentaire par semestre civil travaillé.
+
+Lorsqu'un salarié sera absent, pour quelque motif que ce soit, pendant toute la durée du semestre civil, il ne pourra bénéficier du jour de repos complémentaire attaché à la période concernée.
+
+Par ailleurs, aucun jour de repos complémentaire ne sera accordé en cas d'embauche ou de débauche en cours de semestre civil.
+
+Le présent avantage n'est pas cumulable avec des dispositions plus favorables en vigueur par accord d'entreprise et portant sur la récupération des jours fériés chômés, ou travaillés.
