@@ -10,4 +10,4 @@ A compter du 1er janvier 1988, pour l'application de l'article R. 351-21-3 :
 
 - le montant auquel le produit yR ne peut être inférieur est fixé à 1 200.
 
-A compter du 1er juillet 1990, le montant auquel le produit yR ne peut être inférieur est fixé à 1 275 F.
+A compter du 1er juillet 1991, le montant auquel le produit yR ne peut être inférieur est fixé à 1 313 F.
