@@ -1,9 +1,0 @@
-# Article 96 bis
-
----Il est institué un contrôle préalable sur l'engagement des dépenses du territoire et de ses établissements publics. Ce contrôle est organisé par décision du conseil des ministres du territoire. Toutefois, l'assemblée territoriale a seule compétence pour organiser le contrôle préalable sur l'engagement de ses dépenses. "
-
-NOTA :
-
-Décret 91-814 1991-08-25 art. 11 Loi 94-1132 1994-12-28 art. 5 :
-
-Les dispositions des lois n° 84-820 du 6 septembre 1984, n° 88-1028 du 9 novembre 1988 et n° 90-1247 du 29 décembre 1990 précitées qui citent en les reproduisant des articles du code des juridictions finançières sont modifiées de plein droit par l'effet des modifications ultérieures de ces articles.
