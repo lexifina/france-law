@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930501038
+
+- Question : [SEQ930501038](seq930501038.md) — Insuffisance de la formation de chiens-guides pour les aveugles
+
+## Réponse
+
+*Affaires sociales, JO du 1993-07-01, page 1052*
+
+Réponse. - L'annexe XXIV quinquiès au décret n° 88-423 et la circulaire d'accompagnement du 22 avril 1988 montrent la volonté des pouvoirs publics de prendre en compte la compensation du handicap chez le déficient visuel et en particulier : la rééducation de la basse vision ; l'apprentissage de l'autonomie dans les déplacements et les activités de la vie journalière. L'autonomie des déficients visuels dans leurs déplacements est développée par deux techniques : l'utilisation de la canne blanche ; l'utilisation d'un chien. C'est la première de ces deux techniques qui est actuellement enseignée dans les établissements spécialisés, dans la mesure où l'ensemble des rééducateurs pour aveugles s'accorde à dire qu'elle est un passage obligé, même si par la suite le choix est fait d'utiliser un chien-guide. Par ailleurs, les écoles de chiens-guides sont des établissements privés, regroupés pour la plupart au sein de la Fédération nationale des écoles de chiens-guides d'aveugles, reconnue actuellement sur un projet de création d'un centre de sélection et d'élevage. Il est souhaitable qu'elle continue à promouvoir la création d'écoles nouvelles, compte tenu des compétences de ses adhérents. Cependant, il n'est pas opportun que les pouvoirs publics influencent d'une quelconque façon le choix des déficients visuels dans la technique de leurs déplacements. Par contre, ils doivent intervenir pour en favoriser la facilité. Ainsi la loi n° 93-121, du 27 janvier 1993 portant diverses mesures d'ordre social prévoit-elle, dans son article 77, que l'interdiction ou la tentative d'interdire l'accès des lieux ouverts au public aux chiens accompagnant les personnes titulaires de la carte d'invalidité sera punie d'amende.
