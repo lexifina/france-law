@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011136526
+
+- Question : [SEQ011136526](seq011136526.md) — Règlement gracieux de l'indemnisation des Français retraités des caisses africaines
+
+## Réponse
+
+*Affaires étrangères, JO du 2002-02-07, page 361*
+
+Le ministère des affaires étrangères demeure particulièrement attentif à la situation des Français ayant travaillé en Afrique francophone en ce qui concerne le versement de leurs retraites africaines. La dévaluation du franc CFA, intervenue le 12 janvier 1994, a effectivement rendu cette question particulièrement sensible. Mais il a été précisé à plusieurs reprises que le débat général sur les effets de la dévaluation ne serait par rouvert. En effet, la France a déjà pris des mesures d'ordre social en 1994 (mise en place de l'allocation forfaitaire exceptionnelle) destinées à compenser pour partie la réduction du pouvoir d'achat engendrée par la dévaluation du franc CFA. Elle ne peut se substituer à des Etats souverains pour garantir la valeur de prestations servies par leurs régimes de protection sociale dans leur monnaie nationale, prestations qui sont la contrepartie de cotisations versées. Le Gouvernement veille, en revanche, au versement régulier des pensions dues par les caisses de retraites africaines en intensifiant la tenue de commissions mixtes ad hoc et le développement de procédures techniques (centralisation des dossiers, assistance technique aux régimes en difficulté...). Cependant, si les ressources de titulaires de pensions étrangères résidant en France deviennent, à la suite d'une dépréciation monétaire ou de toute autre cause, inférieures aux seuils de ressources fixés pour l'attribution de " minimum vieillesse ", celui-ci peut leur être attribué en totalité ou de manière différentielle s'ils en remplissent les conditons d'âge et de situation.
