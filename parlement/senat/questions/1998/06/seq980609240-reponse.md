@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980609240
+
+- Question : [SEQ980609240](seq980609240.md) — Création d'emplois dans le secteur agricole
+
+## Réponse
+
+*Agriculture, JO du 1998-09-03, page 2818*
+
+Réponse. - Les organismes employeurs susceptibles de conclure des conventions pour le développement d'activités pour l'emploi des jeunes sont définis limitativement par la loi nº 97-940 du 16 octobre 1997. La circulaire du ministère de l'emploi et de la solidarité DGEFP 97/25 du 24 octobre 1997 précise que les sociétés coopératives sont exclues des organismes de droit privé à but non lucratif éligibles comme employeurs au titre du programme " nouveaux services-nouveaux emplois ". L'Etat peut donc conclure des conventions " emplois-jeunes " uniquement avec les structures fédératives des coopératives d'utilisation de matériel agricole. Dans cet esprit, un accord cadre " nouveaux services-nouveaux emplois " a été conclu le 25 novembre 1997 entre l'Etat et la fédération nationale des coopératives d'utilisation de matériel agricole (FNCUMA). Il prévoit la création de deux cents emplois en trois ans dans le secteur fédératif des CUMA. Le ministère de l'emploi et de la solidarité n'envisage pas pour l'instant d'ouvrir le dispositif à d'autres catégories d'employeurs bénéficiaires. En revanche, les CUMA bénéficient d'un certain nombre de mesures d'incitation à l'embauche. Ainsi en est-il de l'exonération de cotisations sociales patronales pendant vingt-quatre mois pour l'embauche d'un premier salarié ou de l'abattement de 30 % sur les cotisations sociales patronales pour l'embauche d'un salarié à temps partiel. En outre, les CUMA ont la possibilité de conclure des contrats initiative d'emploi qui ouvrent droit au bénéfice d'un certain nombre d'aides de l'Etat (aide forfaitaire, exonération de cotisations sociales patronales, aides à la formation et au tutorat), en contrepartie de l'embauche de personnes rencontrant des difficultés particulières d'insertion.
