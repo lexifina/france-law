@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001129027
+
+- Question : [SEQ001129027](seq001129027.md) — Représentation des élus au sein du CNAPS
+
+## Réponse
+
+*Jeunesse, JO du 2001-03-01, page 754*
+
+Réponse. - L'article 33 de la loi nº 84-610 du 16 juillet 1984 relative à la promotion des activités physiques et sportives, modifiée par la loi nº 2000-627 du 6 juillet 2000, dispose que le CNAPS est composé des représentants des parties intéressées par la promotion et le développement des activités physiques, notamment des collectivités locales. Conformément à ce texte législatif et après une large concertation menée avec les différentes parties concernées, le projet de décret soumis au conseil d'Etat prévoit que le CNAPS comprend cent quatre membres répartis en sept collèges, représentant respectivement l'Etat, les élus locaux, les associations intéressées par les activités physiques et sportives, les entreprises intéressées par ces mêmes activités, les organisations syndicales et patronales, les éducateurs sportifs et les formateurs dans le domaine d'activités considéré ainsi que des personnalités choisies en raison de leurs compétences en la matière. En ce qui concerne plus particulièrement la représentation des élus, le projet de décret prévoit que le conseil comporte dix membres que trois élus locaux (soit 5 % de l'effectif total des membres). Il apparaît par conséquent que la composition envisagée du CNAPS est davantage équilibrée au regard des différentes catégories le constituant, rendant ainsi cet organisme consultatif tout à fait apte à remplir la mission de concertation qui lui a été confiée par le législateur. Pour ce qui est enfin de la présence des représentants des établissements publics de coopération intercommunale (EPCI), rien ne s'oppose à ce qu'un élu d'un tel établissement soit désigné au titre du collège des élus locaux.
