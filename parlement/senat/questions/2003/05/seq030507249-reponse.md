@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030507249
+
+- Question : [SEQ030507249](seq030507249.md) — Politique des transports
+
+## Réponse
+
+*Équipement, JO du 2003-08-21, page 2627*
+
+La réalisation de projets d'infrastructure, notamment ferroviaires, suppose des délais d'études assez longs. Ce processus de définition des tracés entraîne souvent des incertitudes préjudiciables aux propriétaires des terrains susceptibles d'être concernés par le futur ouvrage public. L'État cherche à réduire ces incertitudes pesant sur les populations aussi en amont que possible. Ainsi, l'inscription d'un projet d'infrastructure comme emplacement réservé dans un plan local d'urbanisme ouvre le droit aux propriétaires du terrain concerné de mettre en demeure le bénéficiaire de cette réserve de l'acquérir, selon la procédure prévue à l'article L. 123-17 du code de l'urbanisme. Par ailleurs, en application des articles L. 117 et suivants du code de l'urbanisme, la procédure de prise en considération de la mise à l'étude d'un projet d'infrastructure décidée par le préfet, si elle préserve les terrains nécessaires à la réalisation de l'ouvrage, permet également aux propriétaires concernés de mettre l'État en demeure de les acquérir. Ces outils juridiques facilitent la réservation des emprises foncières indispensables à la réalisation future des projets, tout en garantissant les droits des propriétaires directement concernés. Par ailleurs, le Gouvernement a pour objectif de simplifier les procédures administratives applicables aux projets afin de raccourcir les délais de réalisation des projets, mais également de rendre ces procédures plus claires vis-à-vis des collectivités territoriales et des riverains directement concernés par les tracés. A cet effet, une loi d'habilitation a été adoptée par le Parlement le 10 juin dernier autorisant le Gouvernement à prendre par ordonnances des mesures de simplifications administratives dans la conduite des projets d'infrastructure.
