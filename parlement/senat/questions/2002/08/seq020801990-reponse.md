@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020801990
+
+- Question : [SEQ020801990](seq020801990.md) — Augmentation des justificatifs et déclarations à remplir par les viticulteurs
+
+## Réponse
+
+*Économie, JO du 2003-04-03, page 1138*
+
+L'objectif de la réforme des contributions indirectes est de simplifier les procédures de suivi des boissons alcooliques en allégeant l'intervention systématique et a priori de l'administration. La nouvelle réglementation, dont les mesures d'application ont fait l'objet de nombreuses concertations avec les représentants des différents intervenants de la filière, se traduit donc par une clarification des rôles et la définition de contraintes précises et limitées pour les opérateurs. Ces derniers doivent dorénavant remettre au service des douanes et droits indirects une déclaration récapitulative mensuelle des produits mis à la consommation le mois précédent. Ils doivent par ailleurs établir une comptabilité matières, obligation qui ne constitue pas en soi une contrainte supplémentaire, cette comptabilité n'étant qu'une variante de la comptabilité commerciale qu'ils tenaient avant la réforme. En contrepartie de cette responsabilisation, des allégements de formalités sont consentis aux opérateurs, de façon à faciliter leur travail au quotidien. Pour la circulation des produits, les viticulteurs ont désormais la possibilité de réaliser à domicile leurs formalités d'expédition et de réception des produits sans passer au préalable par le service des douanes et droits indirects pour l'obtention du visa des documents d'accompagnement. Enfin, l'obtention d'aides communautaires par les viticulteurs français dépend du respect des conditions qui leur sont fixées par l'organisation commune du marché vitivinicole. Parmi elles figure l'obligation de déposer des déclarations de récolte et de stock dûment remplies. Ces règles n'ont en aucune manière été modifiées par la réforme des contributions indirectes.
