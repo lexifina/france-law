@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860500589
+
+- Question : [SEQ860500589](seq860500589.md) — Indemnisation des victimes d'attentats
+
+## Réponse
+
+*Économie, JO du 1986-10-09, page 1419*
+
+Réponse. -La loi n° 86-1020 du 9 septembre 1986 contient, en son article 9, des dispositions tendant à permettre une juste indemnisation des dommages subis par les victimes d'attentats. Les dommages corporels font désormais l'objet d'une indemnisation complète, y compris leurs conséquences directes et indirectes, par un fonds de garantie créé à cet effet. Ce mécanisme bénéficie à toutes les victimes, françaises ou étrangères, d'actes de terrorisme commis sur le territoire national ainsi qu'aux ressortissants français touchés par un acte de terrorisme survenu à l'étranger. La loi contient des dispositions très précises pour que ce fonds intervienne rapidement afin que la victime (ou ses ayants droit) se sente aidée au moment où elle en a le plus besoin et soit justement dédommagée des préjudices subis. Le fonds de garantie sera financé par un prélèvement modique opéré sur toutes les catégories de contrats d'assurance de dommages aux biens, de telle sorte que le plus grand nombre de personnes physiques et morales participera à cet effort de solidarité. Pour les dommages matériels, la loi rend obligatoire l'inclusion, dans tous les contrats d'assurance de biens, la garantie des dommages et dégâts résultant d'actes de terrorisme ou d'attentats ; dès lors, les personnes physiques ou morales qui assurent leurs biens contre les risques ordinaires bénéficient de ce fait de cette garantie, dans des conditions déterminées par décret. Ces dispositions, qui n'existent dans aucun autre pays, traduisent la détermination du Gouvernement à aborder le problème du terrorisme sous tous ses aspects et n'enlèvent rien à sa volonté de le combatttre par tous les moyens.
