@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861002875
+
+- Question : [SEQ861002875](seq861002875.md) — Embauche des jeunes: aide aux agriculteurs
+
+## Réponse
+
+*Agriculture, JO du 1986-11-27, page 1650*
+
+Réponse. -Le dispositif d'allégement des charges sociales patronales mis en place par l'ordonnance n° 836 du 16 juillet 1986 relative à l'emploi des jeunes de seize à vingt-cinq ans s'applique dans son ensemble au secteur agricole. Il convient toutefois de rappeler que les exonérations prévues par l'ordonnance concernent les cotisations patronales afférentes aux rémunérations dues pour l'emploi de ces jeunes. De ce fait, l'exonération de la cotisation d'allocations familiales prévue à l'article 2 de l'ordonnance n'intéresse que les employeurs qui acquittent une cotisation calculée sur une assiette salaires. En ce qui concerne l'agriculture, cette exonération bénéficie donc aux organismes professionnels (caisses de mutualité sociale agricole, caisses régionales de crédit agricole, coopératives), aux entrepreneurs de travaux agricoles et forestiers, notamment. En revanche, les exploitants agricoles, qui acquittent une cotisation d'allocations familiales unique pour eux-mêmes et leurs salariés calculée sur une assiette exprimée en revenu cadastral, ne sont pas concernés par cette exonération, dans la mesure où l'embauche d'un ou plusieurs jeunes est sans incidence sur le montant de la cotisation ainsi déterminée, qui est la même, que l'exploitant emploie ou non des salariés. Il faut cependant souligner que les exploitants agricoles bénéficient, avec l'arrêté du 9 mai 1985 modifié le 5 juin 1986, d'une mesure spécifique d'allégement des charges sociales pour l'embauche de travailleurs occasionnels ou de demandeurs d'emploi qui n'a pas son équivalent dans les autres secteurs économiques employeurs de main-d'oeuvre dans des conditions analogues.
