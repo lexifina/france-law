@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040612618
+
+- Question : [SEQ040612618](seq040612618.md) — Réglementation relative au travail des apprentis
+
+## Réponse
+
+*Insertion professionnelle des jeunes, JO du 2005-02-03, page 303*
+
+L'attention du Gouvernement est appelée sur des contradictions qui existent entre les articles L. 222-2 et L. 222-4 du code du travail relatifs au travail des apprentis les jours fériés. Le Gouvernement entend clarifier les dispositions relatives au travail des apprentis les jours fériés ainsi que les dimanches. A cet égard, dans le débat sur la loi de programmation pour la cohésion sociale, examinée par le Parlement, un amendement parlementaire déposé par le député Daniel Fidelin a été accepté afin de supprimer lesdites contradictions. Cet amendement vise en effet à restreindre clairement le champ de l'interdiction du travail des apprentis, les dimanches et jours fériés, aux seuls apprentis mineurs et, finalement, à harmoniser sur ce point la législation actuelle avec celle en vigueur pour les jeunes bénéficiaires d'un contrat de professionnalisation. La question relative aux dérogations susceptibles d'être accordées aux apprentis mineurs travaillant les dimanches et jours fériés est quant à elle plus délicate. D'une part, elle pose des problèmes d'application pratique au regard de la durée hebdomadaire du travail et du repos hebdomadaire ; d'autre part, il est nécessaire qu'elle fasse l'objet de consultations préalables des partenaires sociaux et des branches professionnelles concernées, à la lumière des impératifs posés par le droit communautaire. Le Gouvernement s'y emploiera afin d'adapter, dans toute la mesure du possible, la législation actuelle à la réalité de l'activité de certaines professions mais aussi de tenir compte de la nécessaire protection des apprentis, notamment mineurs.
