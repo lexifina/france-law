@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960616133
+
+- Question : [SEQ960616133](seq960616133.md) — Heures supplémentaires et création d'emplois
+
+## Réponse
+
+*Travail, JO du 1996-10-03, page 2576*
+
+Réponse. - Comme l'honorable parlementaire le rapporte, le recours excessif aux heures supplémentaires est préjudiciable à l'équilibre de vie des salariés concernés comme à la création d'emplois. Au cours de la rencontre sur le temps de travail du 8 juillet 1996, le Premier ministre a invité les partenaires sociaux à discuter de ce problème, au niveau national, interprofessionnel comme à celui des branches professionnelles et notamment de prévoir plus systématiquement l'octroi de repos compensateurs plutôt que le paiement de majoration de salaires. Les négociateurs peuvent également convenir d'une réduction du contingent annuel d'heures supplémentaires comme dans le secteur de la plasturgie où le nombre autorisé d'heures supplémentaires se trouve réduit de 130 à 80 heures. Des directives ont été données aux services déconcentrés du ministère du travail pour, d'une part, porter une attention plus soutenue aux situations abusives et illégales en matière de réglementation sur la durée et l'aménagement du temps de travail et, d'autre part, accompagner par l'information et le conseil les démarches concertées de réorganisation du temps de travail. A cette occasion, le ministre du travail rappelait l'importance de l'accord interprofessionnel du 31 octobre 1995 dont les stipulations tendent à encourager des formes diversifiées de réduction du temps de travail favorables à l'emploi, notamment par un recours maîtrisé aux heures supplémentaires. Un nouveau bilan des négociations sera opéré le 30 septembre prochain. Il motivera une nouvelle rencontre entre le Gouvernement et les partenaires sociaux, à l'issue de laquelle un projet de loi pourrait être présenté au Parlement pour notamment lutter contre certains abus.
