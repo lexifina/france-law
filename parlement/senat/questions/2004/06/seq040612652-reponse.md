@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040612652
+
+- Question : [SEQ040612652](seq040612652.md) — Annexes des plans locaux d'urbanisme
+
+## Réponse
+
+*Équipement, JO du 2004-08-26, page 1947*
+
+Les plans locaux d'urbanisme comportent des annexes où figurent, pour information, un certain nombre d'actes juridiques qui sont opposables aux particuliers mais ne sont pas issus du plan local d'urbanisme lui-même. Il s'agit du report du périmètre d'opérations foncières ou d'aménagements tels que le droit de préemption urbain, les zones d'aménagement différé ou les zones d'aménagement concerté et des servitudes d'utilité publique. Les articles R. 123-13 et R. 123-14 mentionnent le contenu de ces annexes en précisant que celles-ci sont fournies à titre d'information, pour rappeler que les zones ou les servitudes d'utilité publique mentionnées dans ces annexes trouvent leur source juridique ailleurs que dans le plan local d'urbanisme lui-même. Le recours à deux vocables légèrement différents : " à titre d'information " et " à titre informatif " n'a aucune incidence et ne correspond pas à une volonté de conférer une valeur juridique distincte aux différentes annexes. L'existence d'une information erronée dans les annexes est de nature à engager la responsabilité de la commune. En ce qui concerne les servitudes d'utilité publique, celles-ci cessent d'être opposables si elles ne sont pas annexées au plan dans le délai d'un an à compter soit de l'approbation du plan, soit, s'il s'agit d'une servitude d'utilité publique nouvelle, de son institution. Si le maire ne met pas à jour le plan pour annexer une servitude d'utilité publique nouvelle dans le délai de trois mois à compter de l'institution de cette servitude d'utilité publique, le préfet doit y procéder d'office. La non-annexion d'une servitude d'utilité publique dans le délai d'un an est, dans ces conditions, de nature à engager conjointement la responsabilité de l'Etat et celle de la collectivité locale.
