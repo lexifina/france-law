@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010634033
+
+- Question : [SEQ010634033](seq010634033.md) — Article L. 1458 du code général des impôts
+
+## Réponse
+
+*Économie, JO du 2001-12-20, page 4025*
+
+L'exonération prévue à l'article 1458 du code général des impôts en faveur des éditeurs de feuilles périodiques et de certaines agences de presse était déjà en vigueur sous le régime de la patente et a été reprise lors de l'institution de la taxe professionnelle. Comme toutes les exonérations ainsi maintenues lors de la mise en place de la taxe professionnelle, le manque à gagner correspondant pour les collectivités locales ne fait pas l'objet d'une compensation par l'Etat. Ainsi et conformément à l'objectif poursuivi par le législateur, les collectivités locales participent au côté de l'Etat (allégements de tarifs postaux, allégements fiscaux au titre de l'aide à l'investissement, réductions de TVA, aides budgétaires directes), à l'effort commun en faveur de la presse. Cela étant, le coût de cette exonération pour les collectivités locales diminue chaque année depuis 1998 en raison de la suppression progressive de la fraction imposable des salaires dans la base de taxe professionnelle. Au surplus, les collectivités locales ne sont pas totalement privées d'une ressource de fiscalité en provenance de ce secteur économique. En effet, les entreprises concernées sont, en application du 2° du I de l'article 1407 du code déjà cité, imposables à la taxe d'habitation pour tous les locaux meublés qu'elles occupent, à l'exception des locaux ouverts au public et de ceux servant exclusivement à la fabrication et au dépôt. Dans ces conditions, et étant donné le contexte budgétaire actuel, il ne serait pas justifié d'augmenter l'engagement de l'Etat en ce domaine.
