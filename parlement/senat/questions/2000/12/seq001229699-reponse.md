@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001229699
+
+- Question : [SEQ001229699](seq001229699.md) — Rapatriement de capitaux yougoslaves transférés à l'étranger
+
+## Réponse
+
+*Affaires étrangères, JO du 2001-02-15, page 575*
+
+Réponse. - Il n'existe pas, actuellement, de convention d'entraide judiciaire pénale entre la France et la République fédérale de Yougoslavie (RFY). Par ailleurs, la RFY n'est pas encore membre du Conseil de l'Europe et n'a pas adhéré à la convention européenne d'entraide judiciaire. L'ensemble des conventions et des accords bilatéraux conclus entre la France et l'ex-République socialiste fédérative de Yougoslavie (RSFY) doivent être passés en revue pour déterminer la liste des accords qui sont reconduits entre les deux Etats, moyennant, le cas échéant, pour certains d'entre eux, des adaptations. Dans ce cadre, la RFY peut demander la reconduction de l'ancienne convention d'entraide judiciaire bilatérale entre la France et la RSFY (signée le 23 septembre 1970), et, si nécessaire, procéder, d'un commun accord, à son adaptation. En outre, l'adhésion de la RFY au Conseil de l'Europe (qui a déposé une demande officielle le 9 novembre) permettra à cette dernière de signer puis de ratifier la convention européenne d'entraide judiciaire. Il est néanmoins possible, malgré l'absence de cadre juridique, d'envisager une coopération judiciaire sur la base de la réciprocité, dans l'attente d'une base légale sur la coopération avec la RFY. Il est alors nécessaire que la RFY ouvre une procédure pénale contre la personne coupable de malversation et adresse à la France une demande d'entraide judiciaire respectant les procédures habituelles (la demande doit notamment exposer les faits reprochés et produire les pièces nécessaires à l'appui, le tout traduit en français). Par ailleurs, il est possible d'envisager une coopération policière et douanière.
