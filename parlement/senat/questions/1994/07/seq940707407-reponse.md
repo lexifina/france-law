@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940707407
+
+- Question : [SEQ940707407](seq940707407.md) — Structures d'accueil spécialisées en autisme
+
+## Réponse
+
+*Affaires sociales, JO du 1995-01-26, page 183*
+
+Réponse. - Le Gouvernement est conscient qu'il existe encore des efforts à faire afin que l'ensemble des besoins des personnes handicapées puissent être pleinement satisfaits. Cependant, dans une situation économiquement difficile, il n'a pas manqué d'agir dans ce domaine et, en premier lieu, dans celui de l'accueil de ces personnes. Ainsi, il existe actuellement dans notre pays plus de 2 700 structures qui reçoivent plus de 215 000 enfants et adolescents handicapés. Pour ce qui concerne plus spécialement les jeunes autistes, le développement des structures d'accueil a bénéficié, ces dernières années, de l'affectation spécificique d'une fraction de l'enveloppe médico-sociale. De plus, pour ce qui concerne les CAT, le Gouvernement a financé 2 000 places en 1994 et décidé que cet effort sera poursuivi en 1995. Il faut également noter que les crédits de fonctionnement de ces établissements, qui avaient déjà augmenté de 5 p. 100 en 1994 par rapport à 1993, augmentent de 8,3 p. 100 en 1995, par rapport à l'exercice précédent. Par ailleurs, une enveloppe spécifique a été dégagée afin de contribuer au financement de 1 000 places nouvelles susceptibles d'être créées dans les structures pour adultes lourdement handicapés. Enfin, devant la situation douloureuse dans laquelle se trouvent placées les familles des personnes autistes, le ministre d'Etat, ministre des affaires sociales, de la santé et de la ville a confié deux missions, à l'inspection générale des affaires sociales et à l'Agence nationale pour le développement de l'évaluation médicale, sur l'état de l'évolution des méthodes de prise en charge de ce handicap chez les jeunes. Les résultats de ces travaux, qui ont été récemment remis, devraient permettre d'envisager les actions à entreprendre.
