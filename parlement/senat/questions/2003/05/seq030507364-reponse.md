@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030507364
+
+- Question : [SEQ030507364](seq030507364.md) — Augmentation des publicités dans les boîtes aux lettres
+
+## Réponse
+
+*Écologie, JO du 2003-09-11, page 2793*
+
+La ministre de l'écologie et du développement durable a pris connaissance, avec intérêt, des questions relatives à la mise en place d'un dispositif de collecte, de valorisation et d'élimination des imprimés et journaux gratuits. Environ un million de tonnes d'imprimés publicitaires sans adresse ou de journaux gratuits, soit 17 kilogrammes par habitant par an, est distribué ou mis à disposition chaque année. Cela ne constitue qu'une partie de la quantité totale des déchets papiers des ménages estimée à 2,6 millions de tonnes par an. Contrairement au cas des emballages ménagers, aucun dispositif n'existe actuellement pour contribuer aux dépenses des collectivités territoriales en ce domaine. Un projet de décret a été préparé mais a fait l'objet d'un avis négatif du comité des finances locales en mars 2002. Dans le cadre du projet de loi de finances 2003, les parlementaires ont adopté en décembre 2002 une disposition visant à une contribution financière des producteurs d'imprimés à l'élimination des imprimés qu'ils distribuent, versée à un éco-organisme agréé par les pouvoirs publics. S'ils ne contribuent pas, ils sont soumis à une taxe parafiscale de 10 centimes d'euros par kilogramme. Malheureusement, cette disposition ne concernait quasi exclusivement que les imprimés publicitaires. Aussi, par décision du 27 décembre 2002, le Conseil constitutionnel a, sans mettre en cause le principe de cette mesure, annulé cette disposition en la jugeant contraire au principe d'égalité en raison des trop nombreuses exemptions dont elle était assortie. La ministre de l'écologie et du développement durable a décidé de reprendre très rapidement les travaux sur un projet de décret comportant le champ d'application le plus complet possible.
