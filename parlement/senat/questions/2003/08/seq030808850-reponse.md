@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030808850
+
+- Question : [SEQ030808850](seq030808850.md) — Allégement pour les exploitations agricoles  des analyses des eaux prévues par le décret n° 2001-1220
+
+## Réponse
+
+*Agriculture, JO du 2004-04-01, page 784*
+
+Le décret 1220-2001 du 20 décembre 2001 codifié sous l'article R. 1321-1 et suivants du code de la santé publique constitue la transposition en droit français de la directive 98/83/CE relative à la qualité des eaux destinées à la consommation humaine. Il s'applique aux eaux utilisées pour la fabrication, la transformation, la commercialisation de produits destinés à la consommation humaine, que les entreprises utilisatrices soient ou non raccordées au réseau public de distribution d'eau. A ce titre, il concerne aussi bien la qualité des eaux entrant dans le processus de fabrication que celles de nettoyage des ustensiles en contact avec les aliments. Ce texte a été mis en place, compte tenu des connaissances actuelles, et s'applique à compter du 25 décembre 2003 pour renforcer la sécurité sanitaire des eaux utilisées notamment dans les entreprises agroalimentaires y compris les exploitations agricoles pratiquant l'accueil ou la transformation à la ferme. Il fixe notamment les procédures d'analyse de la teneur des eaux en différentes substances. Selon le code de la santé publique, le préfet peut adapter ce programme d'analyses en autorisant une diminution du nombre de prélèvements pour les analyses de routine, en prenant en compte la qualité et la variabilité de l'eau, les conditions de protection des captages et de fonctionnement des installations de production et de distribution d'eau. Ainsi, le coût des analyses peut être sensiblement réduit pour les exploitations agricoles. Cependant, ce nombre d'analyses ne peut pas descendre en dessous de la moitié du nombre de prélèvements fixé à l'annexe 13-2-II du code de la santé publique.
