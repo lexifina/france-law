@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000525533
+
+- Question : [SEQ000525533](seq000525533.md) — Utilisation de travailleurs étrangers pour les forêts suite à la tempête de décembre 1999
+
+## Réponse
+
+*Agriculture, JO du 2000-08-31, page 2987*
+
+Réponse. - Le département de Charente-Maritime a été très sévèrement frappé par les catastrophes qui se sont abattues sur la France à la fin du mois de décembre 1999 et certaines forêts du littoral charentais, composées essentiellement de pins maritimes, comptent parmi les plus forts taux de chablis du territoire métropolitain. Dans ce contexte, les exploitants forestiers sont totalement submergés par l'ampleur du travail à effectuer et le rythme à respecter, compte tenu des risques d'incendie. Comme les propriétaires forestiers et les sylviculteurs privés, l'Office national des forêts a cherché des solutions pour mobiliser au plus vite les bois tombés. Tous les exploitants locaux étant sollicités au sud des départements de la Charente et de la Charente-Maritime et au nord de la Gironde, une entreprise allemande, intéressée, a été contactée et retenue. Cette entreprise, qui dispose d'une filiale en Roumanie, a proposé d'acheter plus de 100 000 mètres cubes de bois à 4,50 francs le mètre cube dans les forêts de la Coubre et d'Oléron. Cette solution, qui représentait l'unique formule pour sécuriser le littoral, pendant la période estivale de l'année 2000, vis-à-vis d'un risque incendie très supérieur à la normale, et ainsi éviter une nouvelle catastrophe naturelle, a obtenu l'accord du ministère de l'emploi et de la solidarité pour l'obtention de visas inférieurs à trois mois destinés aux bûcherons roumains employés par l'exploitant forestier allemand. Par ailleurs, l'Etat veille à ce que l'accueil de ces personnels se déroule dans des conditions d'hygiène et de sécurité optimales.
