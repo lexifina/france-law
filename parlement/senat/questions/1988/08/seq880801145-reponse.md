@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880801145
+
+- Question : [SEQ880801145](seq880801145.md) — Gabon : retour à l'homologation du collège Raponda Walker
+
+## Réponse
+
+*Éducation, JO du 1988-09-22, page 1054*
+
+Réponse. - Le collège Raponda-Walker de Port-Gentil (Gabon) n'a pas été inscrit au titre de 1986-1987 sur la liste établie en application du décret n° 77-822 du 13 juillet 1977 visant à valider les périodes de scolarité effectuées par les élèves dans cet établissement. En effet, cet établissement présentait - et présente encore - des lacunes pédagogiques telles que le ministère de l'éducation nationale, de la jeunesse et des sports ne peut considérer l'enseignement qui y est dispensé comme conforme aux règles en vigueur dans l'éducation nationale. Le nombre d'élèves par classe atteignait quarante en 6e et une moyenne de trente-quatre sur l'ensemble du premier cycle secondaire. L'encadrement pédagogique est insuffisant : aucun enseignant n'était titulaire en 1986-1987 (un seul, à temps partiel, en 1987-1988) ; sur les 31 enseignants, 8 seulement sont français, 2 d'entre eux seulement ont un diplôme supérieur au niveau baccalauréat + deux ans d'études. Aucun n'a suivi d'action de formation continue. Le taux de réussite au baccalauréat est fort bas : 38 p. 100 en 1987 (56 p. 100 en 1986, mais 25 p. 100 seulement pour les Français). Aucun Français ne s'est présenté au baccalauréat en 1987. Le nombre d'élèves français ne cesse de diminuer : 140 en 1985-1986, 90 en 1986-1987, 76 en 1987-1988, soit 11 p. 100 des effectifs. Par ailleurs, les appréciations sur l'établissement qui ont été portées à la connaissance de nos services étaient très réservées. La situation de cet établissement sera donc réexaminée l'année prochaine en vue de l'élaboration de la liste annuelle des établissements français homologués à l'étranger.
