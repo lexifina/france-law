@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980608895
+
+- Question : [SEQ980608895](seq980608895.md) — Mesures incitatives pour favoriser l'activité des centres de tri sélectif et des déchetteries
+
+## Réponse
+
+*Aménagement du territoire, JO du 1998-10-29, page 3442*
+
+Réponse. - La loi du 13 juillet 1992 a instauré le fonds de modernisation de la gestion des déchets. Ce fonds, géré par l'ADEME, est alimenté par une taxe sur la mise en décharge des déchets. Le conseil d'administration de l'ADEME a adopté, lors de sa séance du 7 janvier 1998, une proposition visant à augmenter de façon très sensible les aides financières apportées par l'ADEME à la gestion des déchets municipaux. L'objectif de ces nouvelles dispositions est de relancer la mise en uvre de la politique de gestion des déchets ménagers, en favorisant toutes les techniques qui permettent de limiter les flux de déchets allant à l'incinération ou en stockage. Ainsi, sous réserve de respecter les critères de qualité et de performance définis par le comité consultatif de modernisation de la gestion des déchets, les investissements de collecte séparative, de tri, de transfert ainsi que les déchetteries pourront être aidés à hauteur de 50 %. Auparavant, les taux d'aides allaient de 20 à 30 % selon les cas. Il faut noter que les investissements relatifs aux unités de compostage ou de méthanisation des déchets organiques pourront également être aidés à hauteur de 50 %, à condition que les déchets aient été triés à la source. Auparavant, le taux maximum d'aides était de 20 %. En 1997, les montants des aides de l'ADEME s'élevaient à : 38 105 kF pour les déchetteries, 116 842 kF pour la collecte séparative, 21 356 kF pour les centres de tri. Enfin, la baisse du taux de TVA applicable aux prestations de collecte séparative et de tri des déchets ménagers effectuées dans le cadre du service public a été présentée dans le cadre du projet de loi de finances pour 1999.
