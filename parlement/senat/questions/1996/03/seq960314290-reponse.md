@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960314290
+
+- Question : [SEQ960314290](seq960314290.md) — Ecarts des taxes sur l'automobile dans les pays de l'Union européenne
+
+## Réponse
+
+*Affaires européennes, JO du 1996-05-30, page 1313*
+
+Réponse. - Le régime communautaire transitoire sur la taxe à la valeur ajoutée prévoit que la TVA est perçue dans le lieu de consommation, et ce au taux de taxe en vigueur dans cet Etat. Dès lors, comme le constate l'honorable parlementaire, les différences de fiscalité entre les pays européens introduisent un facteur de distorsion dans le fonctionnement du marché unique, même si le dispositif provisoire, en supprimant les contrôles aux frontières, a eu des résultats importants pour les entreprises. Toutefois, la sixième directive, qui met en place le système transitoire, prévoit le passage au régime définitif de TVA, qui, pour sa part, devrait reposer sur la taxation des biens et des services dans le pays membre d'origine (Etat du vendeur). Ce régime définitif devrait être de nature à mettre fin aux altérations du marché intérieur au regard de la fiscalité. Mais, pour l'instant, les modalités de ce futur régime définitif ne sont pas arrêtées. Il convient de relever qu'il y a d'autres éléments qui altèrent fortement les échanges au sein de l'Union européenne. A ce titre, on peut citer les différences techniques entre pays qui jouent un rôle important, en dépit du système de réception communautaire, et, surtout, les fluctuations monétaires entre pays de l'Union. Les autorités françaises suivent ce dernier point avec une attention toute particulière. Les risques attachés aux fluctuations monétaires dans l'Union renforcent la volonté du Gouvernement français de réaliser la monnaie unique selon le calendrier et les critères fixés par le traité de Maastricht et, parallèlement, de parvenir à une gestion ordonnée des relations de change entre l'euro et les monnaies européennes qui, dans un premier temps, subsisteront.
