@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940405927
+
+- Question : [SEQ940405927](seq940405927.md) — Conditions d'éligibilité au fonds de compensation de la TVA des petites communes rurales
+
+## Réponse
+
+*Budget, JO du 1994-08-11, page 1994*
+
+Réponse. - Avant la loi de finances rectificatives pour 1993, la situation des gendarmeries à l'égard du FCTVA était claire dans les textes. En effet, la loi de finances rectificative pour 1988 avait exclu du bénéfice du FCTVA les biens mis à disposition de tiers non éligibles au fonds. Or une gendarmerie est bien mise à disposition de l'Etat, qui n'est pas éligible au FCTVA. Toutefois, les applications ont été moins précises et l'Etat lui-même a parfois promis le FCTVA sur des constructions de gendarmerie. Certaines communes ont donc pu, de bonne foi, compter sur le fonds lors de l'élaboration de leurs plans de financement. C'est ce problème que la loi de finances rectificative pour 1993 permet de régler. En ouvrant, par dérogation, le bénéfice du FCTVA pour les gendarmeries commencées en 1992 et 1993 et achevées avant le 31 décembre 1994, ce texte permet d'apurer le passé. Pour l'avenir, il ne fait que confirmer les dispositions de 1988 : les gendarmeries n'ouvrent pas droit au FCTVA. Désormais, le droit et la pratique sont donc mieux définis. Cependant, il s'agit de prendre en compte les conséquences que cela implique pour les collectivités locales qui réalisent ce type de travaux à la demande de l'Etat. Le Gouvernement a donc pris l'engagement de faire en sorte que les loyers payés par l'Etat pour les gendarmeries intègrent désormais le coût supplémentaire lié à la non-récupération de la TVA. Le ministre du budget veillera personnellement à ce que cette mesure soit prise immédiatement, afin de ne pas retarder des opérations d'investissement nécessaires au fonctionnement des services de l'Etat, à la vie locale et à la relance de l'investissement.
