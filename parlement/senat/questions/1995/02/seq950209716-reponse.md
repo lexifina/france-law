@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950209716
+
+- Question : [SEQ950209716](seq950209716.md) — Remboursement des frais des représentants des associations de protection de la nature
+
+## Réponse
+
+*Environnement, JO du 1995-04-06, page 828*
+
+Réponse. - Les représentants des associations bénévoles qui participent aux commissions consultatives mises en place par l'administration par un texte législatif ou réglementaire bénéficient des dispositions du décret no 90-437, qui prévoit en son article 3 que les " agents de l'Etat et autres personnes qui collaborent aux commissions, conseils, comités et autres organismes consultatifs, ci-dessous désignés par le terme général de commissions, qui apportent leurs concours à l'Etat et dont les frais de fonctionnement sont payés sur fonds publics, peuvent être remboursés des frais de transport et de séjour qu'ils sont appelés à engager pour se rendre aux convocations de ces commissions ou pour effectuer les déplacements temporaires qui leur sont demandés par la commission à laquelle ils appartiennent dans les conditions fixées par le présent décret pour les déplacements temporaires ". Pour ce qui est des instances relevant du ministère de l'environnement la question est actuellement en cours d'étude. La difficulté réside dans le grand nombre des commissions concernées, et donc dans la nécessaire sélection de celles que le législateur a entendu viser. De plus, de nombreuses commissions ne relèvent pas exclusivement du ministère de l'environnement, mais revêtent un caractère interministériel ce qui conduit à des discussions entre administrations qui pourraient déboucher prochainement. Une évaluation est en cours, quant au coût financier qui serait engendré par l'application des dispositions du décret en fonction des commissions concernées. Ce n'est qu'au vu de cette évaluation que l'arrêté ministériel prévu par le décret no 90-437 du 28 mai 1990 pourra être pris.
