@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960817233
+
+- Question : [SEQ960817233](seq960817233.md) — Position de la France dans les négociations sur la directive " Télévision sans frontières "
+
+## Réponse
+
+*Culture, JO du 1996-10-10, page 2630*
+
+Réponse. - Le conseil des ministres de la culture et de l'audiovisuel du 11 juin dernier est parvenu à une position commune sur la révision de la directive Télévision sans frontières. Cet accord est un compromis entre notre position que seule partageait la Belgique, et depuis peu l'Italie, et de nombreux pays qui souhaitaient l'abrogation de ces dispositions. En ce qui concerne les obligations de diffusion imposées aux diffuseurs, et bien que la France aurait souhaité aller plus loin dans la révision de ces mesures, cet accord n'en présente pas moins deux avantages : il maintient les obligations de diffusion, telles que prévues en 1989 sans pour autant en limiter la durée, ainsi que le proposait la commission ; il améliore l'efficacité des mesures adoptées d'un commun accord : un comité de contact présidé par la commission et composé de représentants des Etats membres sera chargé de veiller à une meilleure application de la directive, et notamment des dispositions r elatives à la promotion des oeuvres audiovisuelles. La portée de la mention " chaque fois que cela est réalisable " se trouve réduite dans la mesure où les Etats membres et la commission seront amenés à examiner en commun les conditions d'application des obligations de diffusion et les raisons de leur non-respect. Cet accord sera examiné en novembre prochain en seconde lecture par le parlement européen. Celui-ci, favorable au renforcement des mesures de promotion des oeuvres audiovisuelles européennes, tentera vraisemblablement de modifier la position commune dans le sens d'un renforcement des obligations de diffusion.
