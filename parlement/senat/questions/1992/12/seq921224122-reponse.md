@@ -1,0 +1,9 @@
+# Réponse à la question SEQ921224122
+
+- Question : [SEQ921224122](seq921224122.md) — Crédit d'assistance pour 1993 en faveur des Français de l'étranger
+
+## Réponse
+
+*Affaires étrangères, JO du 1993-03-29, page 562*
+
+Réponse. - Les comités consulaires pour la protection et l'action sociale ont accordé en 1992 soit directement, soit après consultation et accord de la direction des Français à l'étranger, 1871 allocations à durée déterminée pour un montant de 14,063 millions de francs. Par ailleurs, une enveloppe de l'ordre de 7 millions de francs avait été mise à la disposition des CCPAS au titre de cet exercice budgétaire, afin de leur permettre d'accorder des secours occasionnels à nos compatriotes confrontés à des difficultés passagères. Les modalités de gestion de notre aide sociale à l'étranger ne permettent certes pas d'identifier précisément les bénéficiaires des allocations à durée déterminée et des secours occasionnels dont la situation pourrait être assimilée aux Français résidant en métropole ou dans un département d'outre-mer, qui bénéficient du revenu minimum d'insertion. Il n'en demeure pas moins qu'une partie importante des compatriotes ayant ainsi bénéficié des aides sociales ponctuelles se trouvaient vraisemblablement dans des conditions assimilables à celles vécues par les bénéficiaires du RMI en France. En outre, les efforts déployés dans le cadre de la formation professionnelle à travers les structures mises en place localement (comités consulaires pour l'emploi et la formation professionnelle) et l'action menée par la direction des Français à l'étranger (chargé de mission emploi et formation) contribuent à la politique d'insertion sociale et professionnelle de l'ensemble de nos compatriotes en difficulté relevant de la compétence du ministère des affaires étrangères.
