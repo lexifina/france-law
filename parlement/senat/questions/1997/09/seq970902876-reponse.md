@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970902876
+
+- Question : [SEQ970902876](seq970902876.md) — Participation du ministère des anciens combattants au 205e anniversaire de la victoire de Valmy
+
+## Réponse
+
+*Défense, JO du 1997-12-18, page 3547*
+
+Réponse. - La flamme du patriotisme et le souvenir des générations qui ont versé leur sang pour la France sont entretenus notamment à l'occasion du jour anniversaire de la fin des deux conflits mondiaux et de la fête nationale. En 1997, les forces armées n'ont pas dérogé à cette règle et ont commémoré les fêtes régies par les textes officiels. Toutefois, le grand nombre de conflits auxquels notre pays a été amené à participer ne permet pas de célébrer avec toute la solennité requise la fin de chacun d'entre eux et les batailles qui les ont jalonnés. Ainsi, la victoire de Valmy n'a pas été commémorée par les armées en 1997. En effet, il est d'usage de célébrer prioritairement les batailles les plus récentes, c'est-à-dire celles qui permettent le témoignage de leurs participants auprès des jeunes générations. Il convient néanmoins de souligner que le bicentenaire de la bataille de Valmy a déjà été célébré à deux reprises. La première commémoration s'est déroulée par anticipation lors des cérémonies de 1989. La seconde célébration s'est tenue le 19 septembre 1992 en présence du général adjoint au général commandant la région militaire de défense nord-est de Metz, du délégué militaire départemental de la Marne, du 3e régiment d'artillerie de Mailly-le-Camp et de la musique du 151e régiment d'infanterie de Verdun. Depuis cette date, aucune manifestation d'ampleur n'a été organisée. En effet, la municipalité de Valmy n'a plus sollicité ni la circonscription militaire de défense de Metz, ni la délégation militaire départementale de la Marne. Toutefois, des unités de l'armée de terre organisent régulièrement sur ce site des cérémonies de présentation de leur emblème, entretenant ainsi l'esprit de défense.
