@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960515423
+
+- Question : [SEQ960515423](seq960515423.md) — Prise en charge du branchement au réseau des eaux usées lors du rehaussement de ce réseau par la commune
+
+## Réponse
+
+*Fonction publique, JO du 1996-07-18, page 1848*
+
+Réponse. - Lorsque la commune modifie son réseau d'évacuation des eaux usées sous la voie publique par rehaussement, elle le fait dans le cadre de l'application des articles 34 et suivants du code de la santé publique au même titre que pour la construction d'un nouvel égout ou l'incorporation d'un égout pluvial à un réseau disposé pour recevoir les eaux usées d'origine domestique. Conformément à l'article 35-1 du même code, les ouvrages nécessaires pour amener les eaux usées à la partie publique du branchement sont effectivement à la charge exclusive des propriétaires qui sont tenus de se raccorder en vertu de l'article L. 33. Le travaux engagés par la commune pour la partie publique du réseau présentent le caractère de travaux publics et leur contentieux appartient à la juridiction administrative. La jurisprudence en la matière repose en principe sur l'idée que le dommage n'est réparable que s'il est anormal et spécial (cf. CE - 2 avril 1965, Boudy). Ainsi, par exemple, les dommages causés par les conséquences d'un changement de tracé des voies publiques ne sont pas de nature, par eux-mêmes, à ouvrir droit à réparation en raison de la perte d'avantages liés à l'ancien tracé (perte de clientèle : cf. CE - 26 mai 1965, ministre de la construction c. époux Tebaldini). L'application de la théorie des dommages de travaux publics en l'espèce, dépendrait vraisemblablement de l'appréciation par le juge du caractère exorbitant ou non du montant des frais à supporter par les propriétaires. En toutes hypothèses, seul le juge est à même de faire octroyer une indemnité réparatrice de dommages pour couvrir les frais engagés du seul fait des travaux communaux.
