@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971205063
+
+- Question : [SEQ971205063](seq971205063.md) — Collaboration entre les institutions symphoniques françaises et les interprètes et compositeurs français
+
+## Réponse
+
+*Culture, JO du 1998-02-26, page 652*
+
+Réponse. - A la suite de deux articles de presse qui font état : 1) de l'incapacité supposée des structures de la vie musicale française à " déceler les jeunes talents et à permettre leur épanouissement " ; 2) de la réaction d'un certain nombre d'artistes français aux propos d'un programmateur ; il convient de faire les observations suivantes. - L'existence d'un débat, même empreint d'une certaine vivacité, entre les acteurs de la vie musicale, est un phénomène naturel et sain. Le fait que des artistes français, solistes ou compositeurs, soient reconnus à l'étranger est à mettre au crédit de la politique musicale mise en oeuvre dans notre pays qui a permis à ces artistes de se former et de se perfectionner dans des établissements d'enseignement spécialisé de grande qualité, puis de se révéler aux publics des institutions de diffusion qui accordent une part importante de leur pogrammation à la découverte des jeunes talents. Ce dernier point est précisé dans les conventions pluri-annuelles entre le minitère de la culture et de la communication et les autres collectivités publiques concernées d'une part, les opéras et les orchestres d'autre part. Réciproquement, ces mêmes institutions musicales françaises se doivent d'accueillir aussi des artistes étrangers de grand talent. La confirmation des styles, des techniques, voire l'émulation entre musiciens, sont en effet, dans un monde artistique ouvert, autant d'éléments qui contribuent à faire progresser encore la compétence des solistes français, et, partant, à renforcer le rayonnement des interprètes nationaux à l'étranger.
