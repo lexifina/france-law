@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000122061
+
+- Question : [SEQ000122061](seq000122061.md) — Politique portuaire : clarification de la portée juridique des normes environnementales définies au niveau européen
+
+## Réponse
+
+*Aménagement du territoire, JO du 2001-11-08, page 3545*
+
+Le ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question relative à la portée juridique des normes environnementales définies au niveau européen. Les " normes environnementales " auxquelles il est fait référence dans le rapport de la Cour des comptes concernent, entre autres, le directice n° 92/43/CEE du 21 mai 1992 dite " Habitats " et la directive 79/409/CEE du 2 avril 1979 dite " Oiseaux ". Ces directives ont pour but l'établissement d'un réseau écologique européen cohérent de sites abritant habitats naturels et espèces végétales et animales désignés dans le cadre de ces directives. La " clarification de la portée juridique " de ces normes est maintenant pratiquement réalisée puisque leur transposition en droit français est achevée pour la partie législative et aboutira cette année pour la partie réglementaire. En effet, la loi n° 2001-1 du 3 janvier 2001 a porté habilitation du Gouvernement à transposer par ordonnance certaines dispositions des directives susnommées. L'ordonnance n° 2001-321 du 11 avril 2001 a concrétisé cette transposition en cadrant le processus de désignation des sites, les mesures de gestion, les contrats Natura 2000 conclus entre l'Etat et les différents acteurs présents dans chaque site ainsi que le régime d'évaluation des programmes ou projets de travaux, d'ouvrage ou d'aménagement. Les décrets d'application sont, comme indiqué plus haut, en cours d'élaboration. Avec ce corpus de textes, la France et les différents acteurs concernés seront à même de respecter, d'une manière juridiquement fiable, les exigences des directives " Habitat " et " Oiseaux ".
