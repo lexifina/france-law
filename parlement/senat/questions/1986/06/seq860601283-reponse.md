@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860601283
+
+- Question : [SEQ860601283](seq860601283.md) — Effectifs des houillères du bassin de Lorraine
+
+## Réponse
+
+*Industrie, JO du 1986-08-28, page 1225*
+
+Réponse. -Les houillères de Lorraine constituent l'élément essentiel de la production nationale. Toutefois les perspectives du marché charbonnier rendent nécessaires des progrès de productivité afin de réduire le déficit des Charbonnages de France. Cette situation a conduit à suspendre l'embauchage local. Il en est résulté que les houillères de Lorraine ont dû cesser de faire appel à partir de la promotion 1985 aux jeunes sortant des lycées d'enseignement professionnel des industries extractives de Freyming et de Schoeneck qui étaient entrés dans ces établissements avec la perspective d'être embauchés par les houillères. Conscientes de leur engagement moral, les houillères se sont préoccupées d'orienter vers d'autres spécialités les jeunes en cours de scolarité qu'elles ne pouvaient plus embaucher. Elles ont mis en place à leur intention un dispositif d'orientation, de formation et d'insertion dans la vie active qui a permis de les réorienter dans des conditions satisfaisantes. Il a en outre été décidé de restructurer les lycées d'enseignement professionnel des industries extractives qui dans leur conception et leur fonctionnement n'étaient plus adaptés aux besoins ni des houillères ni de la région minière et de les transformer en établissements d'enseignement technique de bon niveau, orientés vers des filières de formation aux technologies nouvelles indispensables à l'industrialisation de la région. Les travaux d'aménagement nécessaires sont en cours de réalisation et sont financés, à hauteur de dix millions de francs, sur crédits budgétaires au titre du fonds d'industrialisation du bassin lorrain.
