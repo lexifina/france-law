@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940305273
+
+- Question : [SEQ940305273](seq940305273.md) — Avenir de la Direction des constructions navales installée sur la commune de Ruelle-sur-Touvre (Charente)
+
+## Réponse
+
+*Défense, JO du 1994-05-19, page 1225*
+
+Réponse. - La direction des constructions navales (DCN) de Ruelle participe très activement à la construction des navires pour la Marine nationale et pour l'exportation en réalisation des équipements pour les navires de surface et les sous-marins. Toutefois, le contexte général de réduction du format de l'outil de défense a conduit à opérer les ajustements qui retentissent sur la charge et la taille des établissements de la DCN. Les mesures de restructurations mises en oeuvre à la DCN depuis 1993 se sont traduites par une réduction des effectifs. Comme l'ensemble de l'industrie de défense, l'établissement participe ainsi à l'effort commun pour rationaliser et améliorer globalement la compétitivité de la DCN. Pour le futur, bien que la nouvelle loi de programmation, actuellement en cours d'examen au Parlement, prévoit une croissance des crédits d'équipement d'au moins 0,5 p. 100 par an en volume, sans aucune comparaison en Europe, la réussite de la loi de programmation et surtout le lancement en 1997 de nouveaux programmes ne seront possibles que s'il est réalisé un important effort de maîtrise des coûts et de grains de productivité de l'ordre de 2 p. 100 par an. Cet effort, récemment demandé par le ministre d'Etat, ministre de la défense, aux chefs d'entreprises de l'armement, sera d'autant plus nécessaire qu'il n'est pas prévu de reprise des commandes à l'exportation. Dès adoption par le Parlement de la loi de programmation militaire, la participation de la DCN Ruelle à la fabrication des constructions et équipements nécessaires dans le futur à la marine et le plan de charge qui en découle seront précisés.
