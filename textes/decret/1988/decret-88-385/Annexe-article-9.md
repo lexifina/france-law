@@ -1,0 +1,7 @@
+# Article Annexe, article 9
+
+Les sommes nécessaires aux interventions du fonds définies aux articles 2 et 8 sont prélevées en premier lieu sur le montant des sommes déposées en application de l'article 5, ce prélèvement étant opéré sur l'ensemble des comptes individuels des mutuelles adhérentes à proportion des sommes déposées. En cas d'urgence, la commission spéciale peut décider de procéder à un appel complémentaire auprès des mutuelles adhérentes, sans que cet appel puisse excéder pour chacune ... p. 100 de ses dépenses de prestations statutaires du dernier exercice dont les résultats sont connus.
+
+NOTA :
+
+[Décret 93-688 du 27 mars 1993 art. 5 : abrogation du présent décret à la date de l'élection du conseil d'administration de la caisse mutuelle de garantie.
