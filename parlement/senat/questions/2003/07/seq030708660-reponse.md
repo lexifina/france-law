@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030708660
+
+- Question : [SEQ030708660](seq030708660.md) — Augmentation du prix de l'annuaire téléphonique
+
+## Réponse
+
+*Économie, JO du 2003-09-18, page 2842*
+
+Près de 50 millions de volumes d'annuaires Pages blanches et Pages jaunes édités par le groupe France Télécom sont mis gratuitement à disposition des abonnés du téléphone chaque année. En marge de cette activité principale d'édition, de fabrication et de distribution des annuaires téléphoniques du groupe France Télécom, Pages jaunes répond aux demandes d'achat complémentaire d'annuaires formulées par des entreprises ou des particuliers, notamment concernant les annuaires auxquels ils ne peuvent prétendre gratuitement (annuaires d'un département autre que celui du lieu de résidence, collection complète d'annuaires, etc.). Ces demandes concernent un nombre extrêmement limité d'annuaires tous les ans (quelques dizaines de milliers). En 2003, s'agissant de ces demandes très particulières, Pages jaunes a revu son système de facturation en simplifiant l'offre tarifaire. Les prix jusqu'en 2002 étaient établis suivant trois tranches, en fonction de l'épaisseur des annuaires. Par ailleurs, des frais de port (par nature variables, en fonction du poids de l'ouvrage) venaient s'ajouter au prix de l'annuaire vendu. Un tarif unique, résultant d'une péréquation entre départements, a été défini, incluant les frais d'envoi. La lisibilité de ce tarif est bien meilleure, même si sa contrepartie est une augmentation du prix des annuaires des petits départements. Si on compare ces prix à ceux des homologues européens des Pages jaunes, on constate qu'ils sont encore sensiblement inférieurs, même après application de l'augmentation tarifaire de 2003. Pour pouvoir comparer les prix 2003 avec ceux de 2002, il convient de raisonner sur des tarifs franco de port. Les chiffres cités dans la question ne sont, à cet égard, pas comparables entre eux.
