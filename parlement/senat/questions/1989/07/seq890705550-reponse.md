@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890705550
+
+- Question : [SEQ890705550](seq890705550.md) — Problème foncier des collectivités territoriales de la Guyane
+
+## Réponse
+
+*Départements et territoires d'Outre-mer (DOM-TOM), JO du 1990-02-08, page 278*
+
+Réponse. - L'histoire et la physionomie du département de la Guyane (importantes zones forestières jusqu'alors inexploitées) ont en effet conduit à une répartition de la propriété foncière favorable à l'Etat. Toutefois, le ministre des départements et territoire d'outre-mer, porte-parole du Gouvernement, rappelle la réforme intervenue aux termes de l'article L. 91 du code du domaine de l'Etat et de son décret d'application dit " décret foncier " en date du 14 avril 1987. Ces dispositions autorisent la concession puis la cession gratuite d'immeubles domaniaux aux collectivités locales pour l'aménagement d'équipements collectifs, la construction de logements à vocation très sociale et locatifs aidés ou pour des services ou usages publics. Des modalités analogues de concession puis de cession gratuite existent au profit des particuliers désireux d'assurer une mise en valeur agricole. Le Gouvernement a souhaité aller plus loin en modifiant par voie législative l'article L. 91 afin de permettre aux communes de bénéficier de la cession gratuite de réserves foncières, sous réserve de l'existence d'un plan d'occupation des sols opposable ou d'un document d'urbanisme en tenant lieu. Une telle disposition a été adoptée par le Parlement dans le cadre de la loi de finances rectificative pour 1989. Les agriculteurs ayant réalisé depuis au moins cinq ans avant l'entrée en vigueur du nouvel article de loi un programme de mise en valeur des terres mises à disposition par l'Etat peuvent bénéficier d'une cession gratuite immédiate dans les conditions identiques à celles jusqu'alors réservées aux seuls concessionnaires.
