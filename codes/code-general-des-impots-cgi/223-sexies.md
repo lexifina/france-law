@@ -22,4 +22,6 @@ Le précompte est exigible en cas de distribution de bénéfices ayant été pri
 
 6° Par les sociétés de capital-risque lorsque ces distributions proviennent de produits et plus-values nets exonérés en application du 3° septies de l'article 208.
 
+7° Par les personnes morales implantées dans les zones prévues au 5° de l'article 2 de la loi n° 86-793 du 2 juillet 1986 autorisant le Gouvernement à prendre diverses mesures d'ordre économique et social, lorsque ces distributions proviennent de produits nets exonérés en application de l'article 208 quinquies.
+
 (1) Annexe III, art. 46 quater-0C à 46 quater-0F et 381 T.
