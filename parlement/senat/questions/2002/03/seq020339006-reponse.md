@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020339006
+
+- Question : [SEQ020339006](seq020339006.md) — Situation tendue à Madagascar
+
+## Réponse
+
+*Affaires étrangères, JO du 2002-04-25, page 1158*
+
+La politique française à l'égard de Madagascar, et plus particulièrement la condamnation par la France de l'auto-proclamation de M. Ravalomanana comme Président de la République, le 22 février, n'ont pas toujours été bien comprises, comme l'a montré la manifestation des ressortissans français devant l'ambassade de France à Tananarive, le 25 février dernier. Pourtant la France n'entend pas prendre parti dans la crise malgache ni s'ingérer dans les affaires intérieures de Madagascar, conformément à sa politique en Afrique. Elle suit avec une attention particulière la situation à Madagascar, pays avec lequel elle entretient des liens de confiance et d'amitié, et soutient activement les efforts de médiation de la communauté internationale (Organisation de l'unité africaine, Nations unies, Assemblée parlementaire de la francophonie) pour aider les parties en présence à trouver une solution à l'impasse politique actuelle. La France estime que seul le dialogue peut permettre de dégager cette solution politique. Elle souhaite que les deux candidats puissent se rencontrer pour en discuter sur la base des propositions concrètes faites par l'OUA (constitution d'un gouvernement d'union nationale chargé d'organiser un nouveau scrutin, reprise du travail...). Elle fait confiance au peuple malgache qui saura définir les contours d'une solution politique. Par ailleurs, comme l'organisation panafricaine, la France a insisté auprès des parties sur la nécessité de lever au plus vite les barrages routiers érigés en province, afin que la vie économique du pays, gravement affectée par la crise politique qui dure depuis trois mois, puisse reprendre.
