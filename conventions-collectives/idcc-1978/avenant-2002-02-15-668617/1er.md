@@ -1,0 +1,21 @@
+# Article 1
+
+L'article 4.1 de l'accord de branche étendu du 13 juin 2000 est complété pour tenir compte des nouvelles dispositions du décret n° 2001-941 du 15 octobre 2001 concernant le contingent annuel d'heures supplémentaires dans la profession des fleuristes, vente et services des animaux familiers.
+
+En conséquence, le contingent annuel d'heures supplémentaires est fixé, sous réserve des dispositions légales ultérieures qui pourraient intervenir, selon les conditions suivantes :
+
+130 heures par an et par salarié pour les ouvriers, employés, agents de maîtrise, cadres soumis à l'horaire collectif, ainsi que les cadres intermédiaires (art. L. 212-15-3 du code du travail) qui n'ont pas signé de convention de forfait en heures dans le cadre de la semaine ou du mois.
+
+180 heures par an et par salarié pour les cadres intermédiaires régis individuellement par une convention de forfait établie en heures sur une base hebdomadaire ou mensuelle (hors cadres autonomes soumis à forfait annuel en jours par l'article 5.3.1. de l'accord de branche, ainsi que les cadres dirigeants, lesquels sont exclus du champ d'application du contingent).
+
+90 heures par an et par salarié en cas de modulation (sauf pour les entreprises ayant signé un accord collectif sur la modulation prévoyant une variation de la durée hebdomadaire comprise dans une limite de 31 heures à 39 heures ou lorsque le volume d'heures de modulation n'excède pas 70 heures par an et par salarié).
+
+Ces dispositions s'appliquent pour le calcul du repos compensateur légal (art. 212-5-1 du code du travail) et pour les demandes d'autorisation auprès de l'inspecteur du travail pour les heures supplémentaires dépassant les seuils du contingent ainsi déterminés (art. L. 212-7 du code du travail).
+
+Par ailleurs, les dispositions spécifiques prévues à titre transitoire, pour les années 2002 et 2003, par le décret du 15 octobre 2001 afin de faciliter le passage aux 35 heures des entreprises de 20 salariés et moins, soit actuellement :
+
+- 180 heures par an et par salarié en 2002 ;
+
+- 170 heures par an et par salarié en 2003 (180 heures par an et par salarié pour les cadres sous forfait en heures sur une base hebdomadaire ou mensuelle),
+
+s'appliquent intégralement pour les entreprises de la branche ne dépassant pas 20 salariés, tant pour le calcul du repos compensateur légal que pour le seuil exigé en matière d'autorisation administrative.
