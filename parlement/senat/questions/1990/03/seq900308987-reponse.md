@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900308987
+
+- Question : [SEQ900308987](seq900308987.md) — Transmission des entreprises
+
+## Réponse
+
+*Commerce et artisanat, JO du 1990-12-06, page 2587*
+
+Réponse. - Le décret n° 81-257 a institué le centre de formalités des entreprises afin que les représentants légaux disposent d'un lieu unique et d'un document unique, lequel regroupe les diverses déclarations de nature juridique, sociale, fiscale et statistique auxquelles il sont tenus lors de la création, la modification ou la transmission de leur entreprise. La mise en place de cette procédure répond au souci de simplification exprimé par l'honorable parlementaire. Actuellement un dossier de constitution de société déposé au centre de formalités des entreprises de la chambre de métiers de Paris est traité dans les 48 heures, ou dans les 5 jours lorsque les documents présentés sont incomplets et nécessitent des relances. Le greffe du tribunal de Paris délivre un extrait K bis dans un délai de 5 à 10 jours pour une constitution, et d'un mois maximum pour une modification. La déclaration de conformité ne peut en elle-même être considérée comme une source importantede retard. Elle est justifiée par le fait que la société, personne morale distincte de ses membres, peut constituer un écran entre ces derniers et les tiers avec lesquels elle va se trouver en rapports d'affaires. Ces rapports exigent une confiance en la régularité de la constitution de la personne morale (montant et réalité du capital social, identité des associés, étendue de leur responsabilité, etc.). Elle engage la responsabilité civile et pénale des fondateurs et organes de la société, et justifie la confiance sur laquelle les tiers pourront fonder leurs rapports avec la future personne morale. Il ne peut donc être envisagé de supprimer cette formalité.
