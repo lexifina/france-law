@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980206464
+
+- Question : [SEQ980206464](seq980206464.md) — Réforme de la commission de modernisation du conseil supérieur de la fonction publique
+
+## Réponse
+
+*Fonction publique, JO du 1998-03-26, page 986*
+
+Réponse. - Dans le cadre des mesures visant à élargir le débat et la concertation sur la réforme de l'Etat et la modernisation, un projet de décret modifiant certaines dispositions du décret no 82-450 du 28 mai 1982 relatif au Conseil supérieur de la fonction publique de l'Etat a été élaboré afin de renforcer le dialogue au niveau central, d'une part en aménageant la composition et le fonctionnement actuels de la formation spéciale du Conseil supérieur de la fonction publique de l'Etat dite commission de la modernisation des services publics et, d'autre part en actualisant ses missions pour tenir compte des nouvelles orientations gouvernementales. En faisant entrer dans sa composition six personnalités choisies en raison de leur compétence ou de leur connaissance des attentes des usagers du service public et en s'appuyant sur des comités de suivi des réformes sectorielles faisant appel, en tant que de besoin, à des personnalités extérieures, la commission de la modernisation situera ses réflexions au plus près de l'attente des usagers et, par là même, verra son efficience accrue. Par ailleurs, l'augmentation de la fréquence de ses réunions en formation plénière et l'institutionnalisation d'un groupe de travail permanent permettront d'assurer une réelle continuité dans la réflexion et les débats sur les actions liées à la réforme de l'Etat et sur les mesures visant à améliorer tant la qualité du service rendu que les relations entre l'administration et les usagers du service public. Ce projet de décret, qui a reçu un avis favorable de la part du Conseil supérieur de la fonction publique, doit maintenant être examiné par le Conseil d'Etat avant d'être soumis au conseil des ministres pour approbation définitive.
