@@ -16,8 +16,14 @@ III Les entreprises de construction de logements visées au I s'entendent de cel
 
 Toutefois, dans la limite de 10 % de leurs fonds propres, ces entreprises peuvent placer leurs disponibilités ou effectuer, sous forme de prises de participations, des investissements se rattachant à leur activité et qui sont définis par décret (1).
 
+III bis Toutefois, les entreprises définies au paragraphe III peuvent, sur leur demande, se libérer de l'impôt sur les sociétés pour la totalité des profits de construction en sursis d'imposition au 31 décembre 1986, par le paiement d'une taxe forfaitaire égale à 6,5 p. 100 de leur montant. Dans ce cas, les profits de construction réalisés en 1986 sont imposés dans les conditions de droit commun.
+
+La demande est adressée, avant le 1er avril 1987, au service des impôts auprès duquel la déclaration de résultats est souscrite. Elle comporte l'indication du montant des sommes non libérées de l'impôt et la date de leur inscription au compte de réserve spéciale.
+
+La taxe forfaitaire est acquittée avant le 15 septembre 1987. Elle est liquidée, déclarée et recouvrée comme en matière de taxes sur le chiffre d'affaires et sous les mêmes garanties et sanctions. Elle est exclue des charges déductibles du bénéfice imposable.
+
 IV Un décret fixe les conditions d'application de ces dispositions (2).
 
-1) Annexe III, art. 46 quater-0I.
+(1) Annexe III, art. 46 quater-0 I.
 
-2) Annexe III, art. 46 quater-0G à 46 quater-0K, 46 quater-0P et 46 quater-0Q.
+(2) Annexe III, art. 46 quater-0 G à 46 quater-0 K, 46 quater-0 P et 46 quater-0 Q.

@@ -6,7 +6,7 @@ Le déficit imputé dans les conditions prévues au premier alinéa cesse d'êtr
 
 L'excédent d'impôt sur les sociétés résultant de l'application du premier alinéa fait naître au profit de l'entreprise une créance d'un égal montant. La constatation de cette créance, qui n'est pas imposable, améliore les résultats de l'entreprise et contribue au renforcement des fonds propres.
 
-La créance est remboursée au terme des dix années suivant celle de la clôture de l'exercice au titre duquel l'option visée au premier alinéa a été exercée. Toutefois, l'entreprise peut utiliser la créance pour le paiement de l'impôt sur les sociétés dû au titre des exercices clos au cours de ces dix années. Dans ce cas, la créance n'est remboursée qu'à hauteur de la fraction qui n'a pas été utilisée dans ces conditions.
+La créance est remboursée au terme des cinq années suivant celle de la clôture de l'exercice au titre duquel l'option visée au premier alinéa a été exercée. Toutefois, l'entreprise peut utiliser la créance pour le paiement de l'impôt sur les sociétés dû au titre des exercices clos au cours de ces dix années. Dans ce cas, la créance n'est remboursée qu'à hauteur de la fraction qui n'a pas été utilisée dans ces conditions.
 
 La créance est inaliénable et incessible, sauf dans les conditions prévues par la loi n° 81-1 du 2 janvier 1981 modifiée par la loi n° 84-46 du 24 janvier 1984, ou dans des conditions fixées par décret (2).
 
@@ -14,7 +14,7 @@ Le bénéfice des dispositions du présent paragraphe est subordonné à la cond
 
 II. L'option visée au I ne peut pas être exercée au titre d'un exercice au cours duquel intervient une cession ou une cessation totale d'entreprise, une fusion de sociétés ou une opération assimilée, ou un jugement prononçant la liquidation des biens ou la liquidation judiciaire (3) de la société.
 
-En cas de fusion ou opération assimilée intervenant au cours des dix années suivant celle de la clôture de l'exercice au titre duquel l'option visée au I a été exercée, le transfert de tout ou partie de la créance de la société apporteuse ou absorbée à la société bénéficiant de l'apport ou absorbante, peut être autorisé sur agrément délivré dans les conditions prévues à l'article 1649 nonies.
+En cas de fusion ou opération assimilée intervenant au cours des cinq années suivant celle de la clôture de l'exercice au titre duquel l'option visée au I a été exercée, le transfert de tout ou partie de la créance de la société apporteuse ou absorbée à la société bénéficiant de l'apport ou absorbante, peut être autorisé sur agrément délivré dans les conditions prévues à l'article 1649 nonies.
 
 III. Les dispositions du présent article ne sont pas applicables aux institutions financières, aux compagnies d'assurances, aux entreprises de location et de gestion d'immeubles et aux sociétés civiles.
 

@@ -8,6 +8,6 @@ Les exploitants qui ont fait une telle demande ont l'obligation de déclarer leu
 
 En outre, ils doivent adresser, avant le 25 avril de l'année suivante, la déclaration prévue à l'article 298 bis-I-1°.
 
-2 A défaut du dépôt de la demande visée au 1, la franchise ou la décote est accordée aux exploitants agricoles sur demande de restitution de leur part.
+2 A défaut du dépôt de la demande visée au 1, la franchise est accordée aux exploitants agricoles sur demande de restitution de leur part.
 
 3 Un décret précisera, en tant que de besoin, les modalités d'application du présent article.
