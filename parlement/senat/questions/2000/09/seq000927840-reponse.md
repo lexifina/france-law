@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000927840
+
+- Question : [SEQ000927840](seq000927840.md) — Situation des médecins à diplôme étranger
+
+## Réponse
+
+*Santé, JO du 2001-05-17, page 1706*
+
+Réponse. - L'arrêté interministériel relatif à l'organisation des épreuves nationales d'aptitude à la fonction de praticien adjoint contractuel fixe les modalités d'application du dispositif mis en place par les articles 60 et 61 de la loi du 27 juillet 1999. Ces dispositions ont pour finalité la régularisation en qualité de praticien adjoint contractuel en médecine polyvalente ou en médecine spécialisée, des médecins et des pharmaciens titulaires de diplômes étrangers en situation de précarité dans les établissements publics de santé. L'exigence de diplômes de spécialisation ne saurait être considérée comme une entrave à la régularisation de ces médecins, dès lors que cette exigence relève du droit commun de l'exercice de la médecine en France conformément à l'article L. 4131-1 du code de la santé publique. Les médecins spécialistes peuvent se présenter aux épreuves nationales d'aptitude à la fonction de praticien adjoint contractuel dans la discipline qui leur a été reconnue de par leur formation en France, validée par un diplôme spécifique. A défaut, les médecins non titulaires d'un des diplômes peuvent s'inscrire en médecine polyvalente. Toutefois, conscient des difficultés rencontrées par certains médecins pour faire valider leur formation et leurs compétences acquises en France ou à l'étranger, le projet de loi de modernisation sociale présenté actuellement au Parlement et adopté par l'Assemblée nationale le 11 janvier 2001 en première lecture, prévoit, couplée à la réforme de l'internat, l'organisation de nouvelles règles d'accès à la formation de troisième cycle ainsi que l'institution de conditions nouvelles pour l'obtention d'un diplôme qualifiant de spécialiste.
