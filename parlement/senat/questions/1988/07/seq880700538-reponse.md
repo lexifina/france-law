@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880700538
+
+- Question : [SEQ880700538](seq880700538.md) — Diminution des dépenses publiques
+
+## Réponse
+
+*Économie, JO du 1989-02-23, page 319*
+
+Réponse. - Depuis 1983, un effort de maîtrise des dépenses publiques a été entrepris ; celui-ci a notamment permis de réduire le déficit budgétaire qui est passé de 3,2 points de P.I.B. en 1983 à 2,3 points en 1987 et 2 points en 1988 (soit 115 milliards de francs). Cet effort sera poursuivi en 1989, le solde budgétaire étant ramené à 1,7 point de P.I.B. (soit 100 milliards de francs) grâce à une progression des dépenses (4,7 p. 100) moins rapide que celle du P.I.B. (5 p. 100) tandis que le poids de la fiscalité d'Etat sera allégé. Pour les prochaines années, la politique des finances publiques poursuivra trois grands objectifs : une nouvelle réduction du déficit budgétaire afin d'une part que soit ralentie la progression de la charge de la dette et, d'autre part, que le recours de l'Etat au marché financier soit réduit pour libérer les financements nécessaires aux entreprises ; l'aménagement de notre fiscalité dans un triple souci d'efficacité économique, de justice sociale et de simplification ; des allégements d'impôts seront nécessaires pour adapter notre fiscalité à l'échéance du grand marché européen (harmonisation de la T.V.A., fiscalité de l'épargne) et pour réduire certaines entraves à l'adoption et à la réorganisation du système productif ; une progression de l'ensemble des dépenses publiques (Etat, sécurité sociale, collectivités locales) inférieure à celle de la production nationale. Une action énergique de redéploiement budgétaire devra être mise en oeuvre par l'Etat afin que puissent être réalisés les objectifs poursuivis en matière de solde et de fiscalité tout en assurant le financement des grandes priorités budgétaires (éducation, apprentissage et formation, recherche, solidarité, culture).
