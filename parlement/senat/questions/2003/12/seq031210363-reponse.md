@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031210363
+
+- Question : [SEQ031210363](seq031210363.md) — Bilan de la loi n° 2002-305 pour les enfants de parents divorcés
+
+## Réponse
+
+*Justice, JO du 2004-02-26, page 480*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que, aux termes de l'enquête menée par la Chancellerie sur les décisions rendues par les juges aux affaires familiales en matière de résidence alternée, il apparaît que la demande des familles à l'égard de ce mode d'organisation de la vie de l'enfant reste encore très modeste. En effet, seules 10 % des procédures mettant en cause la résidence des enfants mineurs donnent lieu à une demande d'alternance, qu'elle émane des deux parents ou d'un seul. En revanche, le caractère très consensuel d'une telle démarche doit être souligné, le juge étant saisi dans 80,70 % des cas par une demande conjointe des parents. Le désaccord des père et mère ne fait pour autant pas obstacle à l'organisation de ce mode de résidence, lorsqu'il paraît adapté pour l'enfant et conforme à son intérêt. Toutefois, il convient d'observer que les juges n'imposent la résidence alternée qu'après avoir recueilli des informations sur la situation de la famille, notamment par le biais d'une enquête sociale, ou, dans un certain nombre d'hypothèses, après avoir fait application de l'article 373-2-9, alinéa 2, du code civil qui permet la mise en oeuvre de l'alternance à titre provisoire. Enfin, il apparaît que l'âge des enfants est sans réelle influence sur la mise en oeuvre de la résidence alternée, les parents et le juge recherchant prioritairement l'organisation du mode de vie le plus adapté aux besoins de l'enfant et le plus favorable au maintien de la coparentalité. Ainsi, il ressort de l'enquête que près des trois quarts des demandes concernent des enfants de moins de dix ans et que, dans 33,3 % des cas, les enfants ont moins de quatre ans.
