@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901112351
+
+- Question : [SEQ901112351](seq901112351.md) — Preuve de la nationalité française pour l'obtention d'une pension militaire de réversion
+
+## Réponse
+
+*Justice, JO du 1990-12-20, page 2712*
+
+Réponse. - Dans le cas particulier soumis par l'honorable parlementaire, et sous réserve d'une étude approfondie du dossier particulier qu'il est invité à soumettre directement aux services de la Chancellerie, au vu des indications fournies, il apparaît que la requérante est susceptible d'être française par filiation, pour être née d'un père possédant lui-même la nationalité française à la suite de la naturalisation de son propre père. Si la production de la copie intégrale de l'acte de naissance du grand-père de l'intéressée n'apparaît pas nécessaire à la solution de ce cas, la preuve de la nationalité française du père de l'intéressée doit toutefois être rapportée, en dehors de toute contestation, conformément à l'article 138 du code de la nationalité française aux termes duquel " la charge de la preuve, en matière de nationalité française, incombe à celui dont la nationalité est en cause ". Née à l'étranger, l'intéressée n'a pu en effet se voir attribuer la nationalité française que par filiation et il lui appartient d'établir à quel titre son père est lui-même français. Cette recherche impose l'examen de la situation de son grand-père. Soucieux des intérêts des demandeurs, les juges d'instance s'efforcent d'instruire avec tout le soin et la diligence nécessaires les nombreuses requêtes qui leur sont soumises. La complexité de la situation de certains intéressés au regard du droit français de la nationalité rend cependant parfois délicate la détermination des preuves à produire. Il est certain qu'à cette occasion des difficultés peuvent surgir.
