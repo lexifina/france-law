@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951112852
+
+- Question : [SEQ951112852](seq951112852.md) — Affiliation à la sécurité sociale des maires des petites communes cessant leur activité professionnelle
+
+## Réponse
+
+*Fonction publique, JO du 1996-01-11, page 63*
+
+Réponse. - La loi no 92-108 du 3 février 1992 relative aux conditions d'exercice des mandats locaux permet aux élus locaux dont les charges sont les plus importantes d'interrompre leur activité professionnelle pour se consacrer à leur mandat, en garantissant leurs droits sociaux. Ainsi, les maires des communes de plus de 10 000 habitants, les adjoints au maire des communes de plus de 30 000 habitants, les présidents et les vice-présidents ayant délégation de l'exécutif du conseil général ou du conseil régional peuvent, lorsqu'ils ne relèvent plus, à titre obligatoire, d'un régime de la sécurité sociale pour les prestations en nature de l'assurance maladie, maternité, invalidité et les prestations d'assurance vieillesse, être affiliés au régime général de la sécurité sociale pour ces prestations. Les fonctions de maire d'une commune de moins de 10 000 habitants, de conseiller général ou de conseiller régional n'ouvrent donc pas le droit au bénéfice de ces dispositions. La loi du 3 février 1992 ne prévoit pas d'étendre à ces élus les dispositions concernant l'affiliation au régime général de la sécurité sociale lorsqu'ils cumulent plusieurs de ces mandats. Toutefois, la loi leur permet d'être affiliés à deux régimes de retraite, d'une part, le régime complémentaire des agents non titulaires des collectivités publiques géré par l'Ircantec et, d'autre part, un régime de retraite par rente dont la constitution incombe pour moitié à l'élu et pour moitié à sa collectivité de rattachement. Il n'est donc pas envisagé, dans l'immédiat, de modifier ces dispositions.
