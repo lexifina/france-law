@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020801654
+
+- Question : [SEQ020801654](seq020801654.md) — Conclusion par une collectivité locale d'un bail emphytéotique sur son domaine privé
+
+## Réponse
+
+*Intérieur, JO du 2003-01-16, page 190*
+
+Les collectivités territoriales ont la faculté de consentir des baux emphytéotiques sur leur domaine privé sur le fondement, non seulement de l'article L. 451-1 du code rural mais également des articles L. 1311-2 et suivants du code général des collectivités territoriales. Le choix de recourir à de tels baux, selon qu'ils relèvent des dispositions du premier code ou du second, se fait en fonction de l'objet même du bail. Ainsi, lorsque celui-ci est conclu en vue de l'accomplissement d'une mission de service public ou d'une opération d'intérêt général relevant de la compétence de la collectivité, ce ne peut être qu'un bail emphytéotique administratif, consenti au titre du code général des collectivités territoriales. En effet, la Haute Assemblée (CE 6 mai 1985, Association Eurolat - Crédit foncier de France) a considéré que, dans une telle hypothèse, le terrain objet du bail, bien qu'appartenant à l'origine au domaine privé, est appelé, compte tenu de son affectation future, à relever du domaine public et ne peut par conséquent faire l'objet d'un bail emphytéotique, dit de droit commun, tel que défini à l'article L. 451-1 du code rural. L'article L. 1311-2 du code général des collectivités territoriales pose cependant un certain nombre de conditions, portant notamment sur la qualité du bailleur et celle du preneur : le bailleur ne peut être qu'une collectivité territoriale alors que le preneur doit être exclusivement une personne privée, excluant de fait qu'une commune puisse être preneuse. En revanche, les dispositions de l'article L. 451-1 du code rural s'appliquent, sans condition, dès lors que le terrain appartient au domaine privé de la commune et est appelé à y demeurer.
