@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950611226
+
+- Question : [SEQ950611226](seq950611226.md) — Hôtellerie française
+
+## Réponse
+
+*Équipement, JO du 1996-03-28, page 735*
+
+Réponse. - Face au développement de nouvelles formes d'hébergement et de restauration qui peuvent constituer une forme de concurrence déloyale à l'égard des professionnels du tourisme, les pouvoirs publics entendent mettre en oeuvre un certain nombre de mesures. En concertation avec ces professionnels, un plan de résorption du paracommercialisme dans le tourisme a été défini et mis en oeuvre depuis le mois d'avril 1995 sous l'autorité des préfets. Par ailleurs, l'article 86 de la loi sur l'aménagement du territoire prévoit désormais l'obligation de déclarer en mairie tous les hébergements commercialisés par des non professionnels. Le décret d'application élaboré en concertation avec les associations d'élus devrait être prochainement publié. Enfin, une circulaire du ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche rappelle aux lycées hôteliers les limites de l'ouverture au public de leurs restaurants d'application. Le rôle des pouvoirs publics est de faire en sorte que les nouvelles formes de produits touristiques en milieu rural, qui connaissent un engouement certain auprès des clientèles tant étrangères que françaises, puissent se développer en harmonie avec les formes existantes, et que les différents acteurs du tourisme rural bénéficient de conditions équivalentes pour l'exercice de leur activité. C'est l'objet des démarches actuellement menées dans la politique de résorption du paracommercialisme et qui visent entre autres à rechercher des synergies entre les acteurs du tourisme vert et les hôteliers et restaurateurs traditionnels en matière d'animation, de mise en place de réseaux, de valorisation du patrimoine culturel et gastronomique.
