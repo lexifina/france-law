@@ -1,0 +1,11 @@
+# Réponse à la question SEQ870305187
+
+- Question : [SEQ870305187](seq870305187.md) — Financement du programme de construction et rénovation de collèges
+
+## Réponse
+
+*Intérieur, JO du 1987-05-07, page 723*
+
+Réponse. -Le processus de globalisation des crédits spécifiques d'équipement, dans la dotation globale d'équipement a conduit le législateur à exclure du bénéfice de cette dotation " les investissements pour lesquels les collectivités locales sont susceptibles de recevoir des subventions d'investissement non globalisables au sein de la dotation globale d'équipement " ainsi que le prévoit l'article 108 bis de la loi du 7 janvier 1983. C'est à ce titre que la dotation départementale d'équipement des collèges figure sur la liste des concours de l'Etat non globalisés dans la D.G.E., qui est annexée au décret n° 86-321 du 6 mars 1986 modifiant la liste annexée n° 86-107 du 16 février 1984. L'Etat garantit ainsi aux collectivités locales jusque-là bénéficiaires de subventions spécifiques d'équipement désormais blobalisées dans la dotation globale d'équipement, des ressources financières d'un montant global équivalent, versées selon des règles d'automaticité plus satisfaisantes pour les collectivités concernées. Un tel équilibre exige cependant que soient exclus du bénéfice de ce concours les investissements qui continuent à bénéficier d'une aide de l'Etat par l'intermédiaire de subventions spécifiques ou de dotations globales liées à des transferts de compétences. C'est au demeurant en application de ces principes que la constitution des dotations d'équipement scolaire a conduit à transférer dans la dotation régionale d'équipement scolaire et la dotation départementale d'équipement des collèges 223 millions de francs figurant jusque-là dans la D.G.E. des communes et correspondant à d'anciennes subventions d'équipement pour les établissements d'enseignement du second degré. Dans ces conditions, sauf à remettre en cause les principes constitutifs de ces dotations ainsi que l'équilibre financier de la dotation globale d'équipement des départements, toute solution qui rendrait éligibles à la D.G.E. les dépenses d'investisseme
+
+nt excédant les ressources reçues par les départements par l'intermédiaire de la dotation départementale d'équipement des collèges ne semble pas pouvoir être retenue.
