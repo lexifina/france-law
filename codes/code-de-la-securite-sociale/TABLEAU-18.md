@@ -1,31 +1,53 @@
-# Article TABLEAU 18
+# Article Annexe II : Tableau n° 18
 
-Date de création : 14 décembre 1938. Dernière mise à jour : 18 février 1967 DESIGNATION DES MALADIES :
+CHARBON.
+
+Date de création : 14 décembre 1938. Dernière mise à jour : 18 février 1967.
+
+DÉSIGNATION DES MALADIES
+
+|
+
+DÉLAI DE prise en charge
+
+|
+
+LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES de provoquer ces maladies
+
+|
 
 Pustule maligne
 
-DELAI DE PRISE EN CHARGE : 30 jours
+|
 
-DESIGNATION DES MALADIES :
+30 jours
+
+|
+
+Travaux susceptibles de mettre les ouvriers en contact avec des animaux atteints d'infection charbonneuse ou avec des cadavres de ces animaux. Chargement, déchargement ou transport de marchandises susceptibles d'avoir été souillées par des animaux ou des débris d'animaux.
+
+|
 
 Oedème malin
 
-DELAI DE PRISE EN CHARGE : 30 jours
+|
 
-DESIGNATION DES MALADIES :
+30 jours
+
+|
 
 Charbon gastro-intestinal
 
-DELAI DE PRISE EN CHARGE : 30 jours
+|
 
-DESIGNATION DES MALADIES :
+30 jours
 
-Charbon pulmonaire (en dehors des cas considérés comme accidents du travail)
+|
 
-DELAI DE PRISE EN CHARGE : 30 jours
+Charbon pulmonaire. (En dehors des cas considérés comme accidents du travail.)
 
-LISTE LIMITATIVES DES TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
+|
 
-- Travaux susceptibles de mettre les ouvriers en contact avec les animaux atteints d'infection charbonneuse ou avec des cadavres de ces animaux.
+30 jours
 
-- Chargement, déchargement ou transport de marchandises susceptibles d'avoir été souillées par des animaux ou des débris d'animaux infectés.
+|

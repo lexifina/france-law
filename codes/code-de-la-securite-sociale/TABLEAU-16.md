@@ -1,27 +1,27 @@
-# Article TABLEAU 16
+# Article Annexe II : Tableau n° 16
 
-Date de création : 14 décembre 1938.
+AFFECTIONS CUTANEES OU AFFECTIONS DES MUQUEUSES PROVOQUEES PAR LES GOUDRONS DE HOUILLE, LES HUILES DE HOUILLE (COMPRENANT LES FRACTIONS DE DISTILLATION DITES "PHENOLIQUES", "NAPHTALENIQUES", "ACENAPHTENIQUES", "ANTHRACENIQUES" ET "CHRYSENIQUES" ), LES BRAIS DE HOUILLE ET LES SUIES DE COMBUSTION DU CHARBON
 
-Dernière mise à jour : 9 novembre 1972 DESIGNATION DES MALADIES :
+DÉSIGNATION DES MALADIES
 
-Dermites eczématiformes
+|
 
-DELAI DE PRISE EN CHARGE : 7 jours
+DÉLAI DE prise en charge
 
-DESIGNATION DES MALADIES :
+|
 
-Conjonctivites
+LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies
 
-DELAI DE PRISE EN CHARGE : 7 jours
+|
 
-DESIGNATION DES MALADIES :
+Dermites eczématiformes récidivant après nouvelle exposition au risque. Dermites photo-toxiques. Conjonctivités photo-toxiques.
 
-Epithéliomas primitifs de la peau
+|
 
-DELAI DE PRISE EN CHARGE : 20 ans
+7 jours
 
-LISTE INDICATIVE DES PRINCIPAUX TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
+|
 
-Préparation, emploi, manipulation des goudrons de houille, brais de houille et huiles anthracéniques notamment :
+Préparation, emploi et manipulation des goudrons, huiles et brais de houille et des produits en contenant, notamment dans : - les cokeries ; - les installations de distillations de goudrons de houille ; - la fabrication d'agglomérés de houille ; - la fabrication et l'utilisation de pâtes et revêtements carbonés notamment lors de la fabrication de l'aluminium selon le procédé à anode continue ; - la fabrication d'électrodes de carbone et de graphite ; - la fabrication de carbure et de siliciure de calcium ; - la sidérurgie, lors de l'utilisation des masses de bouchage ; - les fonderies, lors des travaux de moulage et de noyautage, de coulée et de décochage ; - les travaux de ramonage et d'entretien de chaudières et de cheminées ; - les travaux routiers ; - le bâtiment, lors des travaux d'étanchéité, de revêtement de toitures ou terrasses et d'application de peintures au brai ou au goudron ; - l'imprégnation de briques réfractaires.
 
-Piquage, chargement, déchargement, manutention de ces produits ; Fabrication d'agglomérés au moyen de brai de houille.
+|

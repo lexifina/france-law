@@ -1,21 +1,27 @@
-# Article TABLEAU 68
+# Article Annexe II : Tableau n° 68
 
-Date de création : 3 avril 1980.
+TULAREMIE
 
-DESIGNATION DE LA MALADIE :
+DÉSIGNATION DE LA MALADIE
 
-Syndrome pouvant revêtir soit l'aspect, en tout ou partie, d'une des grandes formes cliniques (brachiale, oculaire, pharyngée, pulmonaire ou typhoïde), soit un aspect atypique mais authentifié par le sérodiagnostic
+|
 
-DELAI DE PRISE EN CHARGE : 15 jours
+DÉLAI de prise en charge
 
-LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES DE PROVOQUER CETTE MALADIE :
+|
 
-- Travaux de gardes-chasse exposant notamment au contact des léporidés sauvages.
+LISTE LIMITATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer la maladie
 
-- Travaux d'élevage de petits rongeurs et d'animaux à fourrure.
+|
 
-- Travaux de transport et de vente de petits rongeurs et d'animaux à fourrure.
+Syndrome pouvant revêtir soit l'aspect, en tout ou partie, d'une des grandes formes cliniques (brachiale, oculaire, pharyngée, pulmonaire ou typhoïde), soit un aspect atypique. Dans tous les cas, le diagnostic sera authentifié par un examen sérologique spécifique.
 
-- Travaux de laboratoire exposant au contact des léporidés et des petits rongeurs.
+|
 
-- Travaux d'abattage, de transport, de manipulation, de conditionnement et de vente de léporidés.
+15 jours
+
+|
+
+Travaux de gardes-chasse et gardes forestiers exposant notamment au contact des léporidés sauvages. Travaux d'élevage, abattage, transport, manipulation, vente de léporidés, de petits rongeurs et d'animaux à fourrure. Transport et manipulation de peaux. Travaux de laboratoire exposant au contact des léporidés et des petits rongeurs.
+
+|
