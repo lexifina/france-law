@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960213602
+
+- Question : [SEQ960213602](seq960213602.md) — Application de la loi relative à la politique familiale
+
+## Réponse
+
+*Travail, JO du 1996-05-16, page 1217*
+
+Réponse. - La loi du 25 juillet 1994 relative à la famille prévoit que pour la période allant du 1er janvier 1995 au 31 décembre 1999 les prestations familiales sont revalorisées une ou plusieurs fois par an conformément à l'évolution des prix hors tabac. Les prestations familiales ont été revalorisées de 1,2 p. 100 le 1er janvier 1995. Ce taux correspond à l'évolution prévisionnelle des prix hors tabac en moyenne annuelle (1,7 p. 100) de laquelle a été déduite la différence entre la revalorisation de la base mensuelle de calcul des allocations familiales pour 1994 (2 p. 100) et l'augmentation des prix hors tabac pour cette année (1,5 p. 100). L'augmentation définitive des prix hors tabac en moyenne annuelle pour 1995 s'établit également à 1,7 p. 100. Le pouvoir d'achat des prestations familiales excède de 0,17 p. 100 l'augmentation des prix hors tabac pour la période 1993-1995. En ce qui concerne la conférence de la famille, l'article 41 de la loi du 25 juillet 1994 précitée précise que le Gouvernement organise chaque année une conférence nationale de la famille à laquelle il convie le mouvement familial et les organismes qualifiés. Conformément à cette disposition, et comme il l'a annoncé lors du sommet social de décembre 1995, le Gouvernement organisera cette rencontre le 6 mai prochain. Le Gouvernement conçoit cette manifestation comme étant l'occasion d'un échange approfondi avec le mouvement familial sur les grands thèmes d'actualité relatifs à la famille, au bilan et aux perspectives de la politique familiale. L'UNAF, en tant que représentante du mouvement familial, y jouera un rôle essentiel, et aura ainsi l'occasion d'exprimer son point de vue et ses souhaits sur les différents thèmes abordés.
