@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701582
+
+- Question : [SEQ970701582](seq970701582.md) — Aides à la presse régionale en difficulté
+
+## Réponse
+
+*Culture, JO du 1997-08-21, page 2159*
+
+Réponse. - Le journal L'Echo du Centre bénéficie d'une aide au titre du décret no 89-528 du 28 juillet 1989 qui intéresse les quotidiens de province à faibles ressources de petites annonces. En 1995 et 1996, le montant de cette aide s'est élevé respectivement à 552 581 francs et 788 292 francs. Pour 1997, les demandes feront l'objet d'un examen dans les prochaines semaines et il est probable que L'Echo du Centre bénéficiera à nouveau d'une subvention. Par ailleurs, le quotidien bénéficie des tarifs postaux privilégiés, puisqu'il a été admis au bénéfice des dispositions du nouvel article D. 19-2 du code des postes et télécommunications à compter du 1er mars 1997. Ceci montre que ce type de publications bénéficie d'ores et déjà d'aides adaptées à leur situation particulière. Les crédits de plusieurs fonds d'aides directes à la presse, dont celui issu du décret précité, sont fonction du produit d'une taxe fiscale assise sur les recettes de publicité à la radio et à la télévision. A noter par ailleurs que ces mêmes recettes publicitaires donnent lieu à versement d'une taxe parafiscale servant à alimenter les radios associatives. Bien entendu, l'ensemble des sociétés de radios et de télévisions sont assujetties, rien en droit, ni en fait, ne pouvant légitimer l'exclusion des télévisions publiques. Il serait à craindre qu'une augmentation de cette pression fiscale ou parafiscale conduise les chaînes de radios et de télévisions à augmenter la durée de leur publicité, puisqu'elles disposent encore de marges, afin de compenser le produit des taxes, ce qui se ferait en partie au détriment de la presse écrite.
