@@ -18,4 +18,4 @@ b Les espaces verts, aires de jeux ou promenades correspondant aux seuls besoins
 
 c Les aires de stationnement qui correspondent aux seuls besoins des habitants des immeubles concernés.
 
-Dans le cas où la réalisation d'une zone d'aménagement concerté est confiée par la collectivité publique qui a pris l'initiative de sa création à une personne publique ou privée, l'exclusion de la taxe locale d'équipement est subordonnée, le cas échéant, à l'approbation de la convention qui fixe les modalités de cette réalisation.
+Dans le cas où la réalisation d'une zone d'aménagement concerté est confiée par la collectivité publique qui a pris l'initiative de sa création à une personne publique ou privée, l'exclusion de la taxe locale d'équipement est subordonnée à la transmission de la convention qui fixe les modalités de cette réalisation au représentant de l'Etat dans le département ou à son délégué dans l'arrondissement.
