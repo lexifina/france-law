@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040813448
+
+- Question : [SEQ040813448](seq040813448.md) — Nombre de personnes par région atteintes par la maladie de Huntington
+
+## Réponse
+
+*Santé, JO du 2004-09-30, page 2248*
+
+On dénombre aujourd'hui en France 6 000 personnes atteintes d'une maladie de Huntington avérée, soit une personne pour 10 000 habitants. Cela ne correspond pas à la totalité des personnes porteuses du gène responsable, puisque la maladie s'exprime cliniquement la plupart du temps après l'âge de quarante ans. La direction du service médical de la Caisse nationale d'assurance maladie des travailleurs salariés enregistre chaque année, dans le cadre des demandes d'exonération du ticket modérateur pour une des affections mentionnées à l'article D. 322-1 du code de la sécurité sociale (dites affections de longue durée), une moyenne de 200 nouvelles déclarations de maladie de Huntington pour une population d'environ 50 millions de personnes. Ce chiffre ne recouvre sans doute pas la totalité de l'apparition de nouveaux cas car certaines personnes sont enregistrées sous d'autres diagnostics génériques, la maladie de Huntington n'étant pas explicitement citée parmi les trente affections de cet article et pouvant débuter par des symptomatologies différentes. Le gène responsable de la maladie est transmis à la descendance d'une personne porteuse - qui peut très bien ignorer en être porteuse - dans 50 % des cas. Au total, en plus des 6 000 malades avérés, on compte environ 30 000 personnes à risque, dont la moitié développeront la maladie, puisque la survenue de la maladie est malheureusement inévitable chez les porteurs du gène. La connaissance épidémiologique de la maladie de Huntington, comme celle d'autres maladies, sera accrue du fait des actions que prévoit à cette fin le plan national pour améliorer la prise en charge des maladies rares, en cours de finalisation.
