@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030708616
+
+- Question : [SEQ030708616](seq030708616.md) — Prise en charge des retraites des agents fonctionnaires de La Poste
+
+## Réponse
+
+*Industrie, JO du 2003-10-02, page 2976*
+
+Comme en témoignent les éléments chiffrés qui ont pu être fournis à ce sujet, le poids total des retraites des fonctionnaires représente une variable importante de l'équilibre financier de l'entreprise, mais les sommes en jeu sont aussi d'une portée évidente pour le budget de l'Etat. Pour leurs retraites, les personnels fonctionnaires de La Poste relèvent du régime des pensions civiles et militaires de l'Etat tandis que les contractuels relèvent du droit commun : à ce double titre, l'avenir des retraites des personnels de La Poste dépend des orientations adoptées dans le cadre du chantier global de réforme des retraites ouvert par le Gouvernement. Compte tenu de ces éléments, il est probable que le calendrier des travaux sur la question des charges de retraite de La Poste dépasse l'horizon de finalisation du contrat de plan. Ce hiatus calendaire ne doit, bien évidemment, pas remettre en cause la nécessité d'une réforme profonde et la plus rapide possible du système de financement des retraites de La Poste pour en assurer la viabilité à long terme. L'Etat recherchera au cours du prochain contrat de plan, en collaboration avec La Poste dans le cadre d'un groupe de travail, un traitement global du financement des charges de retraite des agents de La Poste qui soit à la fois soutenable financièrement pour La Poste et l'Etat. Ces travaux nécessiteront en effet d'intégrer les paramètres de la réforme en cours, et, selon les voies de règlement qui seront choisies, de conduire des calculs complexes et relativement longs. En attendant, il est probable qu'un dispositif transitoire sera mis en place, dont les contours seront précisés dans le contrat de plan actuellement en cours de discussion entre l'entreprise et l'Etat.
