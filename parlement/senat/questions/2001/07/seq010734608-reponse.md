@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010734608
+
+- Question : [SEQ010734608](seq010734608.md) — Sécurité des commerces lors du passage à l'euro fiduciaire
+
+## Réponse
+
+*Intérieur, JO du 2001-12-13, page 3944*
+
+L'honorable parlementaire attire l'attention de monsieur le ministre de l'intérieur sur la mobilisation des forces de l'ordre ainsi que sur la sécurité des commerçants à l'occasion du passage à la monnaie unique. Traditionnellement, les services territoriaux de la sécurité publique consentent depuis déjà de nombreuses années un effort particulier en faveur de la sécurité des établissements bancaires et commerciaux à l'occasion des fêtes de fin d'année sous la forme d'un dispositif nommé opération anti-hold-up. Ce dispositif consiste en une présence policière renforcée, durant cette période qui voit circuler d'importantes liquidités. Il sera reconduit cette année encore. Toutefois, compte tenu du passage à l'euro monétaire, un dispositif spécifique de surveillance impliquera non seulement l'ensemble des composantes de la police nationale, mais également la gendarmerie nationale et l'armée. Ainsi l'ensemble des policiers de la sécurité publique travaillant sur la voie publique participeront activement à la prévention de la délinquance qui pourrait se développer à l'occasion du passage à l'euro monétaire : présence visible à proximité des établissements financiers et des commerces, prises de contact régulières avec les responsables, coordination des plans de surveillance avec les autres forces de sécurité. Par ailleurs, la présence visible des forces de l'ordre a déjà fait récemment l'objet d'une montée en puissance significative dans le cadre de la mise en oeuvre du plan vigipirate renforcé. Enfin, le dispositif mis en place pour sécuriser la distribution de la monnaie européenne se décline d'une manière localement adaptée sous le contrôle des préfets. Ces opérations, qui ont déjà débuté, se déroulent actuellement sans incident notable.
