@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981111904
+
+- Question : [SEQ981111904](seq981111904.md) — Représentativité des retraités dans les instances les concernant
+
+## Réponse
+
+*Santé, JO du 1999-04-22, page 1345*
+
+Réponse. - Le gouvernement est très attaché à la participation des retraités et des personnes âgées au sein des instances amenées à débattre des questions les concernant. Les conseils d'administration des organismes de sécurité sociale du régime général comprennent des personnes qualifiées désignées par l'Etat en raison de leurs compétences. Par ailleurs, des conseils de surveillance au sein desquels siègent des représentants des retraités sont institués auprès de chaque caisse nationale du régime général, complétant ainsi le système de représentation sociale traditionnel et garantissant une consultation permanente des retraités sur les sujets qui les concernent. Il existe également une instance spécifique de représentation des retraités, le comité national des retraités et des personnes âgées (CNRPA), relayé par des comités départementaux et régionaux. Ils sont composés notamment de représentants des principales associations, y compris les unions syndicales de retraités affiliées aux organisations syndicales représentatives. Leur rôle est d'assurer la participation des retraités et des personnes âgées à l'élaboration et la mise en uvre de la politique de solidarité nationale les concernant. Le Gouvernement reste, bien entendu, attentif aux propositions faites par les organisations de retraités tendant à assurer leur représentation. Il convient de rappeler à ce sujet que trois représentants du CNRPA sont membres de la commission de concertation mise en place par le commissariat général au plan dans le cadre des travaux que lui a confiés le Premier ministre sur l'avenir de notre système de retraite. Le Gouvernement a également mis à l'étude une extension de la représentation des retraités au Conseil économique et social.
