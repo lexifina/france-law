@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001129459
+
+- Question : [SEQ001129459](seq001129459.md) — Situation du centre de tri du Landy à Paris 18e
+
+## Réponse
+
+*Industrie, JO du 2001-02-08, page 512*
+
+Réponse. - A la suite d'une modification du périmètre de son activité, le centre de tri du Landy a fait l'objet d'une réorganisation durant la période du 2 juin 1998 au 31 mars 2000, ayant pour objectif d'améliorer la productivité du centre et ainsi de permettre à La Poste de fournir une prestation de qualité à un prix abordable. Par ailleurs, toujours afin de garantir un service public de qualité en optimisant le fonctionnement du réseau postal, des centres de régulation du trafic ont été mis en place. Ainsi, en cas de surcharge, le centre de tri du Landy peut confier une partie de son travail à un centre de régulation. Ces centres de régulation traitant une quantité variable et aléatoire de courrier, ils ne peuvent être dotés uniquement d'emplois permanents. Réciproquement, les moyens humains et mécaniques du centre du Landy peuvent lui permettre, en cas de besoin, d'aider d'autres centres de tri. Ainsi, le Landy est venu en aide au centre de tri d'Orly, dont la machine de tri était en cours de changement. Pour ce qui concerne la qualité de service, en 1999, La Poste a acheminé en J p 1 plus de 90 % du courrier export (mesure interne des délais d'acheminement de l'expéditeur à l'entrée du bureau d'échange) et près de 80 % du courrier import (mesure SOFRES des délais d'acheminement du bureau d'échange au destinataire). Enfin, concernant les emplois dans les centres de traitement du courrier international, la mise en uvre de l'aménagement et de la réduction du temps de travail par La Poste s'est traduite par la transformation d'un nombre important de contrats à durée déterminée en emplois permanents, conformément aux orientations de l'accord d'entreprise signé par 4 organisations syndicales.
