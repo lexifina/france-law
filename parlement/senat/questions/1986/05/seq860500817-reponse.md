@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860500817
+
+- Question : [SEQ860500817](seq860500817.md) — Problèmes des gens du voyage propriétaires de biens fonciers
+
+## Réponse
+
+*Intérieur, JO du 1986-07-10, page 973*
+
+Réponse. -Les personnes sédentarisées, propriétaires de biens immobiliers et dûment imposées dans la commune où est située leur propriété ne sont pas, par nature, des gens du voyage. Toutefois, certaines personnes sont propriétaires de biens fonciers qu'elles considèrent comme de simples placements ou qu'elles utilisent comme des lieux de halte sans pour autant en faire leur domicile. Ces personnes voyagent une grande partie de l'année et logent de manière permanente dans une caravane. Elles tiennent à conserver leur titre de circulation, qui leur est d'ailleurs imposé dans la mesure où elles ont choisi de vivre sans domocile ni résidence fixe. Les intéressés ont la possibilité, après deux années de rattachement administratif à une même commune, de choisir pour nouvelle commune de rattachement la commune où est située leur propriété. Ils ont également la faculté de renoncer à leur statut de voyageur en transformant effectivement leur propriété foncière en domicile, au sens de l'article 102 du code civil, et en ne logeant plus de façon permanente dans une caravane ou tout autre abri mobile. Par ailleurs, les autorisations de stationnement délivrées aux propriétaires de terrains en vertu de l'article R. 443-4 du code de l'urbanisme sont uniquement applicables aux stationnements de plus de trois mois par an, consécutifs ou non. Ce régime est du reste plus libéral pour les personnes dont la caravane constitue l'habitat permanent, puisque l'autorisation n'est exigée dans ce cas que lorsque le stationnement de plus de trois mois est continu. Enfin, cette autorisation n'est pas nécessaire si le stationnement a lieu dans les bâtiments et remises, ou sur les terrains où est implantée la construction constituant la résidence de l'utilisateur.
