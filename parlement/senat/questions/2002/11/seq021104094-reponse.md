@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021104094
+
+- Question : [SEQ021104094](seq021104094.md) — Suppression des postes de surveillants
+
+## Réponse
+
+*Jeunesse, JO du 2003-03-06, page 784*
+
+Le dispositif des maîtres d'internat-surveillants d'externat ne répond plus complètement aux besoins de surveillance qui s'expriment aujourd'hui dans les établissements scolaires. II est donc cohérent avec la politique du gouvernement de mettre en place un nouveau dispositif, plus efficace, pour assurer les fonctions de surveillance et d'encadrement de proximité. Le statut des MI-SE, très contraignant, date des années 30, à une époque où, d'une part, les lycées implantés en centre-ville étaient proches des universités, et où d'autre part une moindre assiduité aux cours était requise des étudiants. Il est donc nécessaire de concevoir un dispositif de surveillance plus souple, qui réponde mieux aux besoins des établissements scolaires. Les 5 600 MI-SE en fin de contrat seront remplacés par de nouveaux assistants d'éducation, ainsi les moyens de surveillance seront maintenus. Il est prévu de recruter 16 000 assistants d'éducation à compter de septembre 2003. Ces recrutements permettront de couvrir les fonctions essentielles actuellement assurées par les MI-SE et les aides-éducateurs (notamment l'aide aux élèves handicapés, la surveillance, la maintenance informatique). Le cadre juridique du nouveau dispositif sera précisé prochainement, afin que les textes nécessaires soient effectifs à la rentrée 2003. Ce système, beaucoup plus souple que les précédents répondra aux besoins extrêmement diversifiés des établissements scolaires et permettra à différentes catégories de personnes d'y trouver leur place. Une priorité absolue sera donnée aux jeunes et notamment aux étudiants se destinant aux métiers de l'enseignement Les collectivités locales qui le veulent pourront y participer, si leur implication est de nature à améliorer le service rendu aux usagers.
