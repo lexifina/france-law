@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981213218
+
+- Question : [SEQ981213218](seq981213218.md) — Ecoles occitanes Calandretas
+
+## Réponse
+
+*Éducation, JO du 1999-02-25, page 613*
+
+Réponse. - Les protocoles d'accord, signés en 1994, avec différentes associations dispensant un enseignement en langues régionales, avaient pour unique objet de contractualiser, sur une période de cinq ans, tous les maîtres rémunérés jusqu'alors sur des emplois ou des crédits de l'enseignement public par le biais de conventions qui ne reposaient sur aucune base légale. Le coût de ce protocole, pour l'Etat, en ce qui concerne l'association Calendretas a été de 53 contrats (29 pour la période de 1994 à 1997, 14,5 à la rentrée 1998 et 9,5 au titre du développement). A ce jour, il reste 2 maîtres à régulariser, rémunérés sur le chapitre 31.92. Il faut noter que 29,5 de ces contrats sont implantés dans l'académie de Montpellier. Malgré un contexte budgétaire très difficile, le protocole a été entièrement réalisé. Désormais, les établissements privés dispensant un enseignement en langues régionales sont soumis, pour l'allocation des moyens nouveaux, aux règles issues de la loi Debré. Dans le cadre de la déconcentration administrative, il revient aux recteurs d'examiner les demandes de tous les établissements d'enseignement privés lors de la préparation de rentrée et d'attribuer les moyens en fonction de l'enveloppe globale déléguée par l'administration centrale. Il convient de préciser que la détermination de cette enveloppe a pris en compte tous les besoins d'enseignement notamment ceux liés aux langues régionales. Concernant l'attribution des moyens à l'Institut supérieur des langues de la République française, si la mise en paiement de la subvention correspondant au deuxième trimestre de l'année scolaire 1997-1998 a subi quelque retard dû à des problèmes techniques de procédure comptable, l'intégralité de la subvention a été déléguée à l'Institut avant la fin de l'exercice 1998.
