@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990718021
+
+- Question : [SEQ990718021](seq990718021.md) — Situation des artisans boulangers et fermeture hebdomadaire obligatoire
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 1999-08-19, page 2828*
+
+Réponse. - Lors de la discussion de la loi déterminant les conditions juridiques de l'exercice de la profession d'artisan boulanger, la question du non-respect de l'obligation de fermeture hebdomadaire par certains distributeurs de pain avait été abordée et le secrétariat d'Etat aux petites et moyennes entreprises, au commerce et à l'artisanat s'était engagé à rappeler aux préfets la volonté du Gouvernement de veiller aux conditions d'une concurrence équilibrée entre les différentes formes de distribution du pain par une stricte application des arrêtés de fermeture intervenus dans cette profession. Il convient de rappeler que cette question a déjà fait l'objet d'une circulaire très complète en date du 19 septembre 1995. L'intérêt d'une application rigoureuse de cette réglementation a, depuis lors, été rappelé plusieurs fois aux préfets. Suite aux engagements de la secrétaire d'Etat, un premier projet de texte a été élaboré. Au cours des derniers mois, des difficultés pratiques constatées dans plusieurs départements ont montré la nécessité de poursuivre la réflexion sur le contenu de ce texte. La direction des entreprises commerciales, artisanales et de services a donc entrepris une nouvelle rédaction du projet. L'objectif est d'établir un document explicatif présentant les différentes étapes qui doivent être impérativement respectées afin de s'assurer de la légalité de la procédure. Lorsque le texte de la circulaire sera établi, il sera soumis pour avis à une large concertation auprès des organisations professionnelles représentatives des entreprises assurant la vente de pain.
