@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900811210
+
+- Question : [SEQ900811210](seq900811210.md) — Convention européenne des droits de l'homme utilisation des phares blancs
+
+## Réponse
+
+*Justice, JO du 1990-11-29, page 2543*
+
+Réponse. - La directive du Conseil des communautés européennes relative à l'installation des dispositifs d'éclairage et de signalisation lumineux des véhicules à moteur et de leurs remorques laisse aux Etats membres le libre choix de la couleur jaune ou blanche des projecteurs de leurs véhicules nationaux. La réglementation française spécifie depuis longtemps la couleur jaune pour les feux de route et de croisement des automobiles. Les véhicules immatriculés à l'étranger peuvent circuler en lumière blanche sur le territoire français en application des prescriptions de la Convention internationale de Vienne qui, réciproquement, impose aux pays ayant adopté la lumière blanche d'accepter en transit les véhicules immatriculés en France et émettant de la lumière jaune. Les dispositions de la convention précitée ne peuvent être considérées comme créant une discrimination en défaveur du conducteur d'un véhicule immatriculé en France qui, du fait de la territorialité des lois pénales, est soumis à la loi française ; elles instituent simplement, au titre du principe de réciprocité, un régime approprié pour les véhicules immatriculés à l'étranger en circulation internationale sur le territoire français. En respectant ce principe de réciprocité, le droit français se trouve donc en harmonie avec les principes du droit international et du droit européen. La mise en oeuvre du grand marché européen prévu pour 1993 se traduira par une harmonisation plus complète dans le domaine de la réglementation technique automobile et permettra grâce à l'évolution des législations nationales de supprimer les différences juridiques dont fait état l'honorable parlementaire.
