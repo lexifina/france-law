@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980507984
+
+- Question : [SEQ980507984](seq980507984.md) — Justification des suppléments appliqués au tarif de certains trains
+
+## Réponse
+
+*Équipement, JO du 1999-07-08, page 2328*
+
+Réponse. - Les principes applicables en matière tarifaire sont fixés par les articles 14, 17 et 18 du cahier des charges de la SNCF. Dans ce cadre, celle-ci dispose notamment de la possibilité de mettre en place des tarifs commerciaux, tels que les tarifs " Découverte ", qui permettent de bénéficier d'une réduction de 25 %, ou bien encore les cartes " Senior " ou " Enfant plus ", qui permettent, après paiement de la carte, de ne payer que la moitié du prix du billet. De même, elle peut fixer ses tarifs en introduisant une certaine modulation, notamment en fonction du jour et de l'heure, par rapport au tarif de base sur une relation. Ceci contribue à un meilleur étalement des déplacements dans le temps et une amélioration des conditions de voyage de chaque voyageur. Toutefois, les pouvoirs publics veillent à ce que la politique tarifaire de la SNCF soit conforme à ses missions de service public. Ainsi, sur une même relation, le prix du voyage en seconde classe dans les trains où le prix est le plus élevé ne peut être supérieur de plus de 50 % à celui pratiqué sur les trains pour lesquels le prix est le moins élevé. De plus, sur chaque grand axe, la SNCF a obligation de faire circuler un minimum de 40 % de trains sur une semaine au tarif le plus bas et un minimum de 10 % en fin de semaine, entre le vendredi 12 heures et le samedi 12 heures et entre le dimanche 12 heures et le lundi 12 heures. Il est important, en effet, que le voyage au prix le plus bas soit le plus largement accessible. Cependant, il ne peut être ignoré que, sur le marché des transports à longue distance, la SNCF est en concurrence avec les compagnies aériennes, dont les modulations tarifaires dans le temps sont beaucoup plus importantes.
