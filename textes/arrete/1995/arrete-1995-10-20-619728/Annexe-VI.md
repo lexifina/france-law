@@ -1,37 +1,35 @@
 # Article Annexe VI
 
-PERSONNELS CONCERNÉS
+Décret n° 84-135 du 24 février 1984 modifié
 
-MONTANTS au 1er mars 1995 (en francs)
+Mesures transitoires
+
+Montants au 1er novembre 1995.
+
+PERSONNELS CONCERNÉS
 
 Membres du personnel enseignant et hospitalier exerçant leurs fonctions à temps partiel en application de l'article 6 du décret n° 60-1030 du 24 septembre 1960 :
 
-- médecins, chirurgiens, spécialistes ou biologistes chefs de service
+- médecins, chirurgiens, spécialistes ou biologistes chefs de service : 196 579 F
 
-193 864
+PERSONNELS CONCERNÉS
 
 Praticiens à temps partiel exerçant leurs fonctions dans les centres hospitaliers régionaux faisant partie de centres hospitaliers et universitaires :
 
 Médecins, chirurgiens, spécialistes ou biologistes en fonctions au 1er avril 1961 ou recrutés postérieurement à cette date en vertu de l'article 65 du décret n° 60-1030 du 24 septembre 1960 modifié :
 
-- chefs de service
+- chefs de service : 260 928 F
 
-257 325
+- non-chefs de service : 247 012 F
 
-- non-chefs de service
+PERSONNELS CONCERNÉS
 
-243 601
+Assistants d'anesthésie-réanimation recrutés après le 1er avril 1961 en vertu de l'article 65 du décret n° 60-1030 du 24 septembre 1960 modifié : 122 729 F
 
-Assistants d'anesthésie-réanimation recrutés après le 1er avril 1961 en vertu de l'article 65 du décret n° 60-1030 du 24 septembre 1960 modifié
-
-121 034
+PERSONNELS CONCERNÉS
 
 Assistants des universités - assistants des hôpitaux et assistants hospitalo-universitaires en biologie (art. 76 et 81 du décret n° 84-135 du 24 février 1984) :
 
-- 2e échelon (après 2 ans de fonctions)
+- 2e échelon (après 2 ans de fonctions) : 112 628 F
 
-111 073
-
-- 1er échelon (avant 2 ans de fonctions)
-
-95 335
+- 1er échelon (avant 2 ans de fonctions) : 96 671 F
