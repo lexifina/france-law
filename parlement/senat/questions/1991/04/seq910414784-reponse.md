@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910414784
+
+- Question : [SEQ910414784](seq910414784.md) — Baisse des crédits du logement social dans le Nord - Pas-de-Calais
+
+## Réponse
+
+*Équipement, JO du 1991-08-01, page 1625*
+
+Réponse. - La répartition des crédits entre les régions vise à répondre au mieux à la pression des besoins selon les zones. Elle prend en compte, à ce titre, plusieurs facteurs dont l'évolution du nombre de ménages et la situation de l'immobilier : le niveau des loyers, la hausse des coûts fonciers, la vacance dans le parc existant interviennent dans les critères retenus. Pour la région Nord - Pas-de-Calais, le montant de la dotation fongible P.L.A.-Palulos (prêt locatif aidé - prime à l'amélioration des logements à usage locatif et occupation sociale), catégories II et III comprises, a effectivement diminué entre 1990 et 1991. Il passe de 327,7 MF en 1990 à 300,2 MF en 1991. Cette baisse est liée à la faible évolution de la population régionale par rapport à l'accroissement de la population nationale. En effet, entre les deux recensements de la population française effectués en 1982 et en 1990, la population de la région Nord - Pas-de-Calais, qui représentait 7,26p. 100 de la population nationale en 1982, ne représente que 7,03 p. 100 de la population nationale en 1990 et 4,24 p. 100 de l'accroissement général du nombre de ménages. En ce qui concerne le P.L.A, d'insertion, il connaît une forte progression pour la région Nord - Pas-de-Calais de 1990 à 1991. Ainsi, 62 MF ont été affectés au titre de 1991 contre 40 MF en 1990 pour permettre de répondre aux besoins des ménages les plus défavorisés. Enfin, dans le domaine de l'accession sociale à la propriété auquel le Gouvernement attache une grande importance, le Nord - Pas-de-Calais a reçu une première avance de prêts aidés à l'accession à la propriété (P.A.P.) de l'ordre de 207,6 MF pour 1991, avance qui lui permettra de faire face globalement aux demandes.
