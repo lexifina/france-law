@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010331550
+
+- Question : [SEQ010331550](seq010331550.md) — Adoption du protocole facultatif à la convention contre la torture
+
+## Réponse
+
+*Affaires étrangères, JO du 2001-05-31, page 1828*
+
+Réponse. - La France soutient l'adoption rapide d'un protocole additionnel à la convention contre la torture, qui vise à établir, au plan universel, un mécanisme de visites des lieux de détention. Le Président de la République l'a rappelé lors de son intervention à la Commission des droits de l'homme, le 30 mars dernier. La France a coparrainé la résolution adoptée à cette dernière session de la Commission des droits de l'homme portant sur ce projet de protocole facultatif. Elle participe activement aux négociations sur ce protocole qui sont menées depuis dix ans et n'ont pas permis à ce jour de parvenir à un acccord (la dernière session s'est tenue du 12 au 23 février 2001, la prochaine session aura lieu au mois d'octobre prochain). Elle souhaite qu'un consensus se dégage en faveur d'un instrument efficace et susceptible de faire l'objet d'une large adhésion. La France a par ailleurs proposé à ses partenaires, lorsqu'elle assurait la présidence de l'Union européenne, l'élaboration d'orientations pour la politique de l'Union européenne à l'égard des pays tiers en ce qui concerne la torture et les autres traitements ou peines cruels, inhumains ou dégradants, afin de faciliter les interventions de l'Union en la matière. Ce texte a été adopté lors du conseil des affaires générales des 9 et 10 avril dernier. Dans la partie de ce document portant sur les démarches de l'Union européenne auprès des Etats tiers en vue d'interdire et de condamner la torture et les traitements dégradants, l'invitation faite à ces Etats à soutenir l'adoption du protocole additionnel optionnel à la convention contre la torture et, ce protocole une fois adopté, à en devenir partie apparaît en bonne place.
