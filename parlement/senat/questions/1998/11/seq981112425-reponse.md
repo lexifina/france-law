@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981112425
+
+- Question : [SEQ981112425](seq981112425.md) — Mise à l'écart de l'éventualité du placement de la trésorerie des établissements publics de santé en dehors des caisses publiques
+
+## Réponse
+
+*Emploi, JO du 1999-12-09, page 4066*
+
+Réponse. - Dans son rapport annuel au Parlement sur la sécurité sociale, publié en septembre 1998, la Cour des comptes a proposé que soit écartée toute éventualité de placement de la trésorerie des établissements publics de santé (EPS) en dehors des caisses publiques. La réglementation en vigueur (art. L. 714-15 du code de la santé publique) évoque le placement et la rémunération des fonds des établissements publics de santé en renvoyant les modalités d'application à un décret. A ce jour, l'administration n'envisage pas de prendre de telles dispositions réglementaires de nature à assouplir les conditions de placement des fonds des établissements publics de santé. En conséquence, les possibilités de placement des fonds des établissements publics de santé sont actuellement encadrées par la circulaire de 1926 concernant les fonds des collectivités locales, et de ce fait limitées. Les réflexions actuelles de l'administration sur la gestion de la trésorerie des EPS conduisent à préconiser une gestion dynamique de la trésorerie supposant de la part des établissements, notamment, une véritable maîtrise du délai de paiement de leurs fournisseurs et une amélioration du délai de recouvrement de leurs recettes. La généralisation de méthodes de gestion dynamique de trésorerie devrait, à terme, apporter aux établissements des avantages financiers liés à la baisse de leurs frais financiers et aux escomptes accordés par les fournisseurs, d'une part, et les conduire à résorber fortement leurs excédents de trésorerie lorsqu'ils existent, d'autre part.
