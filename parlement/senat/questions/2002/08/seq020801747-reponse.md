@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020801747
+
+- Question : [SEQ020801747](seq020801747.md) — Confidentialité au CCAS
+
+## Réponse
+
+*Intérieur, JO du 2003-05-08, page 1555*
+
+Les administrateurs des centres communaux et intercommunaux d'action sociale (CCAS et CIAS) sont tenus, en vertu de l'article L. 133-5 du code de l'action sociale et des familles, au secret professionnel. En effet, cet article prévoit que " toute personne appelée à intervenir dans l'instruction, l'attribution ou la révision des admissions à l'aide sociale et notamment les membres des conseils d'administration des centres communaux ou intercommunaux d'action sociale, ainsi que toutes les personnes dont ces établissements utilisent le concours et les membres des commissions d'admission, sont tenus au secret professionnel dans les termes des articles 226-13 et 226-14 du code pénal et passibles des peines prévues à l'article 226-13 ". L'article 226-13 du nouveau code pénal (anciennement art. 378 de ce code) définit la violation du secret professionnel et la sanctionne. Ces dispositions visent à établir la confiance entre, d'une part, les demandeurs d'aide sociale et, d'autre part, les administrateurs et les personnels des CCAS et CIAS, tenant compte des missions d'intérêt général confiées à ces derniers dans le cadre des attributions dévolues à ces établissements publics. Elles permettent également de garantir la sécurité des confidences que les personnes concernées sont dans la nécessité de faire à l'occasion de leurs entretiens avec notamment les agents de ces établissements. En conséquence, la transmission aux membres du conseil d'administration d'un compte rendu relatant les délibérations, prises par ce dernier, ne porte pas atteinte au principe de confidentialité dès lors que ce dernier n'est pas ensuite porté à la connaissance d'un tiers. La violation de cette règle juridique est passible des sanctions pénales définies à l'article 226-13 précité du code pénal.
