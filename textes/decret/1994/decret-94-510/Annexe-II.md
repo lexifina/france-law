@@ -1,185 +1,89 @@
 # Article Annexe II
 
-Allium ascalonicum.
+Citrus sinensis (L.) Osbeck.
 
-Echalote.
+Oranger.
 
-Allium cepa L..
+Citrus limon (L.) Burm.f.
 
-Oignon.
+Citronnier.
 
-Allium fistulosum L..
+Citrus reticulata Blanco.
 
-Ciboulette.
+Mandarinier.
 
-Allium porrum L..
+Citrus paradisi Macf.
 
-Poireau.
+Pamplemoussier.
 
-Allium sativum.
+Citrus aurantifolia (Christm.) Swing.
 
-Ail.
+Lime.
 
-Anthriscus cerefolium (L.) Hoffm..
+Corylus avellana L..
 
-Cerfeuil.
+Noisetier.
 
-Apium graveolens L..
+Fragaria x ananassa Duch.
 
-Céleri.
+Fraisier.
 
-Asparagus officinalis L..
+Juglans regia L..
 
-Asperge.
+Noyer.
 
-Beta vulgaris L. var. vulgaris.
+Malus Millo.
 
-Poirée.
+Pommier.
 
-Beta vulgaris L. var. conditiva Alef..
+Prunus amygdalus Batsch.
 
-Betterave rouge.
+Amandier.
 
-Brassica oleracea L. convar. acephala (DC) Alef. var. sabellica L..
+Prunus armeniaca L..
 
-Chou frisé.
+Abricotier.
 
-Brassica oleracea L. convar. botrytis (L.) Alef. var. botrytis L..
+Prunus avium L..
 
-Chou-fleur.
+Cerisier.
 
-Brassica oleracea L. convar. botrytis (L.) Alef. var. cymosa Duch.
+Prunus cerasus
 
-Brocoli.
+Griottier.
 
-Brassica oleracea L. convar. oleracea var. gemmifera DC.
+Prunus domestica L..
 
-Chou de Bruxelles.
+Prunier.
 
-Brassica oleracea L. convar. capitata (L.) Alef. var. sabauda L..
+Prunus persica (L.) Batsch.
 
-Chou de Milan.
+Pêcher.
 
-Brassica oleracea L. convar. capitata (L.) Alef. var. alba DC.
+Pyrus communis L..
 
-Chou cabus.
+Poirier.
 
-Brassica oleracea L. convar. capitata (L.) Alef. var. rubra DC.
+Prunus Salicina.
 
-Chou rouge.
+Prunier japonais.
 
-Brassica oleracea L. convar. acephala (DC) Alef. var. gongylodes.
+Cydonia Mill.
 
-Chou rave.
+Cognassier.
 
-Brassica pekinensis L..
+Ribes.
 
-Chou chinois.
+Groseiller.
 
-Brassica rapa L. var. rapa.
+Rubus
 
-Navet de printemps.
+Mûrier.
 
-Navet d'automne.
+Pistacia vera.
 
-Capsicum annuum L..
+Pistachier.
 
-Piment, poivron.
+Olea europaea.
 
-Chicorium endivia L..
-
-Chicorée frisée.
-
-Chicorée scarole.
-
-Chicorium intybus L. (partim).
-
-Chicorée witloof (endive).
-
-Citrullus lanatus (Thunb.) Matsum et Nakai.
-
-Melon d'eau.
-
-Cucumis melo L..
-
-Melon.
-
-Cucumis sativus L..
-
-Concombre, cornichon.
-
-Cucurbita maxima Duchesne.
-
-Potiron.
-
-Cucurbita pepo L..
-
-Courgette.
-
-Cynara Cardunculus.
-
-Cardon.
-
-Cynara scolymus.
-
-Artichaut.
-
-Daucus carota L..
-
-Carotte.
-
-Foeniculum vulgare Miller.
-
-Fenouil.
-
-Lactuca sativa L..
-
-Laitue.
-
-Lycopersicon lycopersicum (L.) Karsten ex Farw.
-
-Tomate.
-
-Petroselinum crispum (Miller) Nyman ex A. W. Hill.
-
-Persil.
-
-Phaseolus coccineus L..
-
-Haricot d'Espagne.
-
-Phaseolus vulgaris L..
-
-Haricot.
-
-Pisum sativum L. (partim).
-
-Pois, à l'exclusion des pois fourragers.
-
-Raphanus sativus L..
-
-Radis.
-
-Rheum
-
-Rhubarbe.
-
-Scorzonera hispanica L..
-
-Scorsonère.
-
-Solanum melongena L..
-
-Aubergine.
-
-Spinacia oleracea L..
-
-Epinard.
-
-Valerianelle locusta (L.) Laterr..
-
-Mâche.
-
-Vicia faba L. (partim).
-
-Fève.
+Olivier.
