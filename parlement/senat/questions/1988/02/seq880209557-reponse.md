@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880209557
+
+- Question : [SEQ880209557](seq880209557.md) — Pratiques discriminatoires en matière de concurrence
+
+## Réponse
+
+*Commerce et artisanat, JO du 1988-04-07, page 463*
+
+Réponse. -Les pratiques diverses regroupées sous le terme générique de pratiques discriminatoires sont maintenant probhibées par l'article 36, alinéa 1er de l'ordonnance n° 86-1243 du 1er décembre 1986, relative à la liberté des prix et de la concurrence. C'est ainsi que tout commerçant qui pratique à l'égard d'un partenaire économique ou obtient de lui des prix, des délais de paiement, des conditions de vente ou des modalités de vente ou d'achat discriminatoires et non justifiés par des contreparties réelles en créant, de ce fait pour ce partenaire, un désavantage ou un avantage dans la concurrence, peut être traduit devant une juridiction civile ou commerciale, par toute personne justifiant d'un intérêt, par le parquet, par le ministre chargé de l'économie ou par le président du Conseil de la concurrence. Cette interdiction est, de plus, renforcée par la prohibition edictée par l'article 8 de l'ordonnance précitée, de l'" exploitation abusive par une entreprise ou un groupe d'entreprises de l'état de dépendance économique dans lequel se trouve, à son égard, une entreprise cliente ou fournisseur, qui ne dispose pas de solution équivalente ". Ces abus peuvent notamment consister en conditions discriminatoires. La sanction de ces pratiques est assurée par le conseil de la concurrence qui peut infliger une amende pouvant aller jusqu'à 5 p. 100 du montant du chiffre d'affaires dans le cas d'une entreprise et jusqu'à 5 millions de francs dans le cas d'une personne morale autre qu'une entreprise. Cette sanction pécuniaire peut être assortie d'une sanction pénale en cas d'intention frauduleuse.
