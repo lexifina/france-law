@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990314539
+
+- Question : [SEQ990314539](seq990314539.md) — Progression des maladies ophtalmiques
+
+## Réponse
+
+*Santé, JO du 1999-07-08, page 2342*
+
+Réponse. - La lutte contre les maladies ophtalmiques et la cécité constitue une préoccupation importante des pouvoirs publics compte tenu du retentissement majeur de ce handicap pour les personnes mais aussi de son poids socio-économique pour la société. Le vieillissement de la population voit s'accroître corrélativement l'incidence de pathologies comme la cataracte, qui a bénéficié d'importants progrès continus en ce qui concerne le traitement de cette affection, ou comme la dégénérescence maculaire liée à l'âge. Cette dernière pathologie, qui est à l'origine de la première cause de cécité après 50 ans, bénéficie actuellement également, d'avancées thérapeutiques prometteuses. Pour les personnes plus jeunes, en deçà de 50 ans, la cause la plus fréquente de cécité est le diabète, maladie chronique qui touche plus de deux millions de personnes en France. A la suite des travaux de la Conférence nationale de santé 1998, une circulaire visant à améliorer le dépistage, la prise en charge de cette pathologie par des réseaux de soins et les structures hospitalières a été publiée tout récemment. Elle contribuera à mieux prévenir les complications de cette maladie ou, à tout le moins, de les retarder. Il s'agit en effet d'une maladie dont l'évolution peut s'étaler sur des dizaines d'années. Par ailleurs, dans un autre domaine, des dispositions particulières sont actuellement prises dans la perspective de l'éclipse solaire du 11 août 1999 dont l'observation sans protection adaptée est susceptible d'induire des brûlures rétiniennes. Ainsi, un protocole d'accord est proposé aux fabricants de lunettes spéciales pour favoriser la diffusion de celles-ci au meilleur prix et une information du grand public sera mise en uvre au titre de la prévention sanitaire.
