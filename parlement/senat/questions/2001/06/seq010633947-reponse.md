@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010633947
+
+- Question : [SEQ010633947](seq010633947.md) — Rôle des enseignants et insertion dans la collectivité
+
+## Réponse
+
+*Éducation, JO du 2002-02-21, page 569*
+
+Les dispositions de la note de service du 22 novembre 2000 relatives au mouvement national à gestion déconcentrée ont apporté des précisions quant aux mesures générales prises pour assurer la stabilité des enseignants dans les quartiers difficiles. Les recteurs d'académie bénéficient d'une marge d'appréciation pour accorder des bonifications aux personnels des établissements dont l'exercice des fonctions d'enseignement a été jugé difficile. Les établissements concernés à la rentrée 2001 sont les établissements classés en ZEP, ceux relevant du plan de lutte contre la violence et les établissements sensibles. De même, il existe des bonifications valorisant la durée d'affectation. Enfin, une politique expérimentale de stabilisation des équipes de direction et des équipes éducatives et de valorisation de la carrière des personnels concernés est conduite à partir de la rentrée 2001 dans une centaine d'établissements d'Ile-de-France. La mise en oeuvre de cette politique, précisée dans la note de service n° 2001-089 du 30 mai 2001, prévoit qu'à l'issue d'une période de stabilité, comprise entre quatre et cinq ans, les personnels affectés dans les établissements relevant du nouveau dispositif bénéficient d'avantages de carrière et de mobilité. La mise en oeuvre de ce dispositif fera l'objet d'un suivi et d'une évaluation dont les résultats seront pris en compte pour procéder, le cas échéant, aux aménagements qui pourront être jugés nécessaires. En ce qui concerne l'aide au logement, 7 243 agents dont 6 034 enseignants des premier et second degrés ont bénéficié d'une aide au logement dont le montant moyen au plan national était de 564 euros. Cette mesure a été reconduite pour 2001 et 2002.
