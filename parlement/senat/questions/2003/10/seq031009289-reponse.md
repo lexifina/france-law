@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031009289
+
+- Question : [SEQ031009289](seq031009289.md) — Etudes sur le port de la ceinture de sécurité dans les cars scolaires
+
+## Réponse
+
+*Équipement, JO du 2004-02-19, page 418*
+
+Sans qu'il soit besoin de procéder à une analyse approfondie en matière d'accidentologie, le port de la ceinture de sécurité est reconnu, tant au niveau national que communautaire, comme un axe essentiel dans la lutte contre l'insécurité routière, son efficacité en cas d'accident de la circulation étant aujourd'hui incontestable. Les trois mécanismes lésionnels les plus graves sont l'éjection partielle, l'éjection totale et la projection dans le véhicule. Ils se produisent en cas de renversement, de retournement ou encore de tonneaux. Ces trois types d'accident sont responsables de près de 67 % des morts dans les autocars et les autobus. L'accident de Dardilly (Rhône) du 17 mai 2003, qui a entraîné la mort de 28 personnes, en est, parmi malheureusement tant d'autres, la dramatique illustration. Seul le port de la ceinture évite aux occupants de subir les plus importantes lésions. Face aux impératifs de sécurité routière, le Gouvernement ne pouvait décider d'imposer le port de la ceinture de sécurité dans les véhicules de transport en commun de personnes qui en sont équipés en excluant pour partie les enfants par le biais d'une dérogation accordée dans le cadre du transport scolaire. De façon légitime, une telle inégalité de traitement n'aurait pas manqué de soulever l'incompréhension de l'opinion publique. Depuis l'application de cette mesure, il est d'ailleurs constaté une prise de conscience collective des enjeux sécuritaires liés à ce geste réflexe simple concrétisée par une forte demande des différents composants concernés de la société civile, notamment des parents qui expriment de plus en plus d'exigences de sécurité en matière de transport d'enfants.
