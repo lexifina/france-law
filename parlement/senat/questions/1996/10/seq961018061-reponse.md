@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961018061
+
+- Question : [SEQ961018061](seq961018061.md) — Utilisation de l'éthanol de vin pour les transports en commun
+
+## Réponse
+
+*Transports, JO du 1996-12-19, page 3435*
+
+Réponse. - Diverses études ont montré que l'utilisation de carburants oxygénés pouvait permettre une réduction des émissions d'oxydes de soufre et de particules par rapport aux carburants classiques. Le Gouvernement suit donc avec attention les expériences menées tant en France qu'à l'étranger dans ce domaine et le projet de loi sur la qualité de l'air actuellemment en discussion au Parlement prévoit que le gazole, l'essence et les supercarburants devront comporter un taux minimum d'oxygène avant le 1er janvier 2000, dans les conditions qui seront fixées par décret en Conseil d'Etat. L'utilisation de carburants oxygénés n'est toutefois qu'une des pistes explorées pour améliorer la qualité de l'air. Les problèmes de pollution acides liés au soufre dans le gazole verront par exemple dès cette année une amélioration importante puisque le taux de soufre dans le gazole est limité à 0,05 % depuis le 1er octobre 1996. Les carburants tels que le gaz de pétrole liquéfié (GPL) et le gaz naturel pour véhicules (GNV) permettent par ailleurs des gains environnementaux importants par rapport aux carburants classiques. Afin de promouvoir leur utilisation, la loi de finances pour 1996 a prévu une baisse significative du niveau des taxes sur ces deux carburants. Enfin, le projet de loi sur l'air prévoit, au 1er janvier 1997, le remboursement dans certaines limites, pour les flottes de transport en commun, des taxes sur le GNV et le GPL. Il prévoit également la subvention, à hauteur de 50 % et dans la limite de 8 000 francs par véhicule, de l'installation de dispositifs de réduction des émissions polluantes.
