@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910213940
+
+- Question : [SEQ910213940](seq910213940.md) — Centre de maintenance (TGV à Bordeaux)
+
+## Réponse
+
+*Équipement, JO du 1991-09-05, page 1886*
+
+Réponse. - La cessation d'activité de l'atelier du matériel S.N.C.F. de Bordeaux à l'horizon 1995 a été décidée après une étude approfondie par la direction du matériel de la S.N.C.F. et a été présentée aux membres du comité d'établissement début 1990. La possibilité de confier de nouvelles missions d'entretien de réparation et de maintenance de matériels anciens ou nouveaux tels que rames T.G.V. Atlantique a été examinée. Malheureusement la S.N.C.F. n'a pu retenir aucune des hypothèses étudiées, soit en raison du caractère injustifié, d'éventuelles opérations de modernisation d'engins anciens dont la transformation engendrerait des coûts prohibitifs par rapport à l'acquisition de matériels neufs, soit du fait de l'inadaptation de cet atelier à des tâches déjà confiées à des établissements spécialement équipés pour les réaliser dans des conditions optimales. Ainsi, la maintenance des rames du T.G.V. Atlantique est assurée à l'atelier de Châtillon (Hauts-de-Seine). Cet atelier, qui disposera à terme de près de 800 agents, est chargé d'effectuer les différents examens ou visites. La S.N.C.F. a pris en compte les préoccupations sociales et s'attache à reclasser progressivement les personnels dans les meilleures conditions possibles. Des actions de formation et de reconversion sont entreprises afin de favoriser l'affectation dans la région des agents concernés. Ainsi, une centaine d'agents a déjà fait l'objet d'un reclassement, 350 autres le seront d'ici à 1995, et 50 partiront en retraite. Les instances représentatives du personnel ne manquent pas d'être largement informées et consultées sur l'évolution de ce dossier.
