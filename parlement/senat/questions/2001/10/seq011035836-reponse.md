@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011035836
+
+- Question : [SEQ011035836](seq011035836.md) — Inscription dans tous les contrats de plan Etat-région d'une politique de développement des vacances collectives
+
+## Réponse
+
+*Tourisme, JO du 2002-01-03, page 52*
+
+Conclus entre l'Etat et les régions pour les années 2000 à 2006, les contrats de plan affirment clairement leur dimension sociale. Le droit aux vacances pour tous demeure une des priorités du secrétariat d'Etat au tourisme. Les aides à la personne, grâce auxquelles est menée une politique de lutte contre les exclusions et les aides de l'Etat dans le domaine des équipements du tourisme social et associatif, permettent la mise en oeuvre d'une politique de développement des vacances collectives. Par des actions spécifiques engagées dans de nombreuses régions, les contrats de plan permettent le départ et l'accueil de populations souvent en situation d'exclusion (jeunes, familles, handicapés). Au niveau de l'hébergement, le programme de consolidation de l'équipement du tourisme social permet d'adapter les structures d'accueil aux évolutions de la demande, des comportements et des exigences nouvelles de la clientèle. Les équipements ainsi rénovés jouent pleinement leur rôle social par un accueil et des activités susceptibles de renforcer la cohésion familiale. Les aides de l'Etat privilégient la mise en oeuvre d'actions permettant l'accessibilité des équipements aux personnes handicapées (accueil, structures, animations adaptées). Les politiques d'aide à la personne se caractérisent par l'extension du chèque vacances et des séjours offerts dans le cadre de la bourse solidarité vacances. Quant à l'amélioration de la qualité des hébergements touristiques, l'aide de l'Etat se manifeste également par le financement d'études précédant la mise en oeuvre d'opérations de réhabilitation ou de création d'immobilier de loisirs et de vacances.
