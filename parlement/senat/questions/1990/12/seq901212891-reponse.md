@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901212891
+
+- Question : [SEQ901212891](seq901212891.md) — Politique des prix d'appel de la grande distribution et concurrence
+
+## Réponse
+
+*Commerce et artisanat, JO du 1991-03-07, page 468*
+
+Réponse. - Les pratiques de " prix d'appel " telles que définies par la circulaire du 22 septembre 1980 peuvent être poursuivies pénalement sur la base de l'article 44 de la loi du 27 décembre 1973, dite loi d'orientation du commerce et de l'artisanat, qui réprime la publicité trompeuse ou mensongère. La circulaire du 22 septembre 1980 précise cependant que " le seul fait... de pratiquer des marges faibles ne constitue pas à lui seul une pratique abusive de prix d'appel ". Ce fait ne peut être considéré comme véritablement déloyal, et donc répréhensible, que si la conjonction des deux éléments suivants, l'insuffisance manifeste des quantités disponibles et le caractère anormalement bas de la marge pratiquée, révèle la volonté d'attirer trompeusement le consommateur pour l'orienter sur des articles plus rémunérateurs. Tel ne semble cependant pas être le cas des situations évoquées par l'honorable parlementaire ; celles-ci résultent de la différence des coûts de revient supportés par la grande distribution et par le commerce traditionnel. La solution en ce domaine réside dans la préservation d'un certain équilibre dans le développement des différentes formes de commerce ainsi que dans la modernisation du commerce traditionnel et l'amélioration de ses conditions d'activité. Telles sont les finalités de la politique menée par le ministre du commerce et de l'artisanat. Il appartient en effet au commerce traditionnel de valoriser ses propres atouts, notamment la qualité du service et des produits qu'il offre, fait particulièrement apprécié par le consommateur en ce qui concerne la boulangerie artisanale.
