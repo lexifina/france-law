@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960515793
+
+- Question : [SEQ960515793](seq960515793.md) — Comité scientifique interdisciplinaire européen
+
+## Réponse
+
+*Affaires européennes, JO du 1996-07-11, page 1742*
+
+Réponse. - Comme le sait l'honorable parlementaire, les autorités françaises ont, dès le début de la crise de " la vache folle ", veillé à ce que toute décision sur ce sujet soit pleinement justifiée du point de vue scientifique. C'est pourquoi, dès le 17 avril, le Gouvernement français a décidé la mise en place d'un comité national d'experts, présidé par le professeur Dormont, auprès des ministres en charge de l'agriculture, de la recherche et de la santé. Ce comité a rendu le 26 avril des premières réponses sur l'analyse du risque et des modes de transmission à l'homme de l'ESB. Il est également apparu nécessaire d'installer auprès de la commission un comité scientifique interdisciplinaire qui ferait des recommandations sur les questions relevant de la compétence communautaire. Aussi, conformément à la volonté du Président de la République, le Premier ministre a demandé à M. Santer, par lettre du 27 avril, de constituer dans les plus brefs délais un tel comité, afin de " se forger, dans des conditions irréprochables de sûreté et de rapidité, une appréciation fondée sur l'ensemble des avis scientifiques ". Sur proposition de la France, le conseil des ministres de l'agriculture du 29 avril 1996 a donné son accord à la constitution d'un comité scientifique multidisciplinaire rassemblant dans une structure unique des experts européens en matière de médecine humaine, médecine vétérinaire, santé publique et santé des animaux, toxicologie et biologie, sans préjudice des comités spécialisés existants. Le conseil des ministres de la santé du 14 mai 1996 a rappelé et confirmé l'installation rapide de ce comité multidisciplinaire.
