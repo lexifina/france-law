@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950310272
+
+- Question : [SEQ950310272](seq950310272.md) — Rentrée scolaire 1995 dans le Lot
+
+## Réponse
+
+*Éducation, JO du 1995-04-13, page 889*
+
+Réponse. - La prochaine rentrée scolaire en ce qui concerne le premier degré sera marquée par la poursuite de la baisse des effectifs : moins 28 000 élèves pour 1995, pour moins 8 000, seulement, en septembre 1994. Or, si les effectifs diminuent au niveau national, ils continuent de croître dans 36 départements où il faudra accueillir 16 000 élèves de plus. Cette situation contrastée rend indispensable le redéploiement des moyens entre départements. Les départements qui perdent des élèves ou qui bénéficient d'une excellente dotation doivent donner des postes d'instituteur à ceux qui gagnent des élèves. S'agissant du département du Lot, ce dernier connaît, depuis quelques années, une baisse sensible de ses effectifs. Ainsi, à la rentrée 1994, il y a eu une diminution de 109 élèves. Cette évolution se poursuivra en 1995, où l'on devrait accueillir 132 élèves de moins. C'est dans ce contexte qu'il a été finalement décidé de retirer 7 emplois d'enseignant du 1er degré de la dotation départementale pour la rentrée 1995. Cette décision n'est pas de nature à détériorer des conditions de scolarisation favorables qui se traduisent, notamment, par un taux d'encadrement global " postes/effectifs " (6,35 postes pour 100 élèves), supérieur au taux d'encadrement de références retenu pour les départements comparables par la structure du réseau des écoles (5,50 postes pour 100 élèves). Ce taux global devrait d'ailleurs s'améliorer à la rentrée scolaire 1995. En tout état de cause, le département disposera de suffisamment de moyens pour conduire une politique éducative de qualité et maintenir un réseau scolaire adapté aux contraintes du milieu rural.
