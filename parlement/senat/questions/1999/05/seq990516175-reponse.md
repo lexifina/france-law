@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990516175
+
+- Question : [SEQ990516175](seq990516175.md) — Rapport de l'inspection générale des affaires sociales sur la stérilisation des personnes handicapées mentales
+
+## Réponse
+
+*Emploi, JO du 1999-09-16, page 3080*
+
+Réponse. - Ainsi que l'indiquent les membres de l'inspection générale des affaires sociales dans leur rapport, " la question de la stérilisation des personnes handicapées mentales ne peut être isolée de celle de la stérilisation volontaire pour la population générale ". Actuellement, aucun dispositif législatif n'encadre la stérilisation, qu'elle soit masculine ou féminine. Seule existe une disposition générale, l'article 16-3 du code civil, qui n'admet une atteinte à l'intégrité physique qu'en cas de nécessité thérapeutique pour la personne et avec son consentement préalablement recueilli. Par ailleurs, l'article 41 du décret portant code de déontologie médicale dispose qu'aucune intervention mutilante ne peut être pratiquée sans motif médical très sérieux et, sauf urgence ou impossibilité, sans information de l'intéressé et sans son consentement. Une réflexion est actuellement engagée sur les droits de la personne malade et des usagers du système de santé ; la question de la stérilisation volontaire pour motif contraceptif est examinée dans le cadre de cette réflexion. Il sera indispensable de tenir compte de la situation particulière des personnes handicapées mentales pour lesquelles une vigilance spécifique s'impose. Enfin, il importe de rappeler, comme le précise le rapport de l'IGAS, la nécessité de promouvoir en premier lieu l'accès aux moyens contraceptifs de toutes personnes en âge de procréer, la stérilisation ne pouvant en tout état de cause, être considérée comme un moyen contraceptif parmi d'autres, du fait notamment de ses conséquences fréquemment irréversibles.
