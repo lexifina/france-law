@@ -1,15 +1,15 @@
-# Article 5 : Réduction du temps de travail sous forme de repos
+# Article 4
 
-Dans le cadre des dispositions de l'article 4 de la loi du 13 juin 1998, les entreprises ou les établissements pourront également organiser la réduction du temps de travail, pour tout ou partie, sous forme de jours de repos, dans la limite de 23 jours de congés ARTT par an.
+L'accord pourra être dénoncé en totalité par l'une ou l'autre des parties signataires ou adhérentes, et selon les modalités suivantes :
 
-Cet aménagement du temps de travail se fera soit dans le cadre d'un accord d'entreprise, soit, à défaut, directement selon les modalités ci-après et conformément à l'article 3.2.1 du chapitre Ier du présent accord.
+A. - La dénonciation sera notifiée par lettre recommandée avec accusé de réception à chacune des autres parties signataires ou adhérentes et déposée par la partie la plus diligente auprès des services du ministère du travail et du secrétariat greffe des prud'hommes. Le préavis à observer étant de 3 mois.
 
-Cette réduction du temps de travail sous forme de repos ne donnera droit à la majoration des heures supplémentaires ou à un repos compensateur de remplacement qu'au-delà de la moyenne horaire annuelle de 35 heures.
+B. - Elle comportera obligatoirement une proposition de rédaction nouvelle et entraînera l'obligation pour toutes les parties signataires ou adhérentes de se réunir le plus rapidement possible et au plus tard dans un délai de 3 mois suivant la réception de la lettre de dénonciation en vue de déterminer le calendrier des négociations.
 
-Les dispositions de l'article 4 du chapitre II du présent accord concernant l'annualisation trouvent à s'appliquer en cas de réduction du temps de travail sous forme de jours de repos.
+Durant les négociations, l'accord restera applicable sans aucun changement.
 
-NOTA : Arrêté du 17 novembre 1999 art. 1 : Le troisième alinéa du paragraphe 5-1 de l'article 5 du chapitre 1er est étendu sous réserve de l'application des articles L. 212-5, L. 212-5-1 et L. 212-6 du code du travail.
+C. - A l'issue de ces dernières sera établi soit un avenant ou nouvel accord constatant l'accord intervenu, soit un procès-verbal de clôture constatant le désaccord. Ces documents signés, selon les cas, par les parties en présence feront l'objet de formalités de dépôt dans les conditions prévues à l'article 2.
 
-NOTA :
+D. - Les dispositions étendues du nouvel accord se substitueront intégralement à celles de l'accord dénoncé.
 
-NOTA : Arrêté du 17 novembre 1999 art. 1 : Le troisième alinéa du paragraphe 5-1 de l'article 5 du chapitre 1er est étendu sous réserve de l'application des articles L. 212-5, L. 212-5-1 et L. 212-6 du code du travail.
+E. - En cas de procès-verbal de clôture constatant le défaut d'accord, l'accord ainsi dénoncé restera applicable sans changement pendant une année qui commencera à courir à l'expiration du délai de préavis fixé par l'article L. 132-8, alinéa 1, du code du travail. Passé ce délai de 1 an, le texte de l'accord cessera de produire ses effets pour autant que la dénonciation émane de la totalité des signataires employeurs ou des signataires salariés.
