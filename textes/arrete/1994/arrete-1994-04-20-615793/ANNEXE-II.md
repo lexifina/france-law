@@ -64,6 +64,10 @@ Qualité
 
 Téléphone
 
+Le responsable du stage chargé du suivi des travaux du stagiaire est informé par l'institut universitaire de technologie des modalités de prise en compte de l'évaluation du stage dans le cadre de l'unité d'enseignement portant sur les stages et les projets tutorés, notamment du coefficient qui lui est attribué.
+
+L'enseignant chargé du suivi du stagiaire est informé des modalités d'évaluation du stage dans l'entreprise.
+
 Art. 6. - Pendant toute la durée du stage, le stagiaire demeure étudiant et reste affilié au même régime de sécurité sociale que durant sa période de formation à l'I.U.T.
 
 Les déclarations d'accident de travail ou de trajet incombent à l'I.U.T. L'étudiant aura obligatoirement souscrit une assurance couvrant sa responsabilité civile auprès de l'organisme d'assurance de son choix ; enfin, l'entreprise doit elle-même avoir souscrit une assurance responsabilité civile.
@@ -78,7 +82,7 @@ En cas de difficulté ou d'accident, le responsable de stage au sein de l'entrep
 
 Art. 10. - Les stagiaires ne sont liés par aucun contrat de travail avec l'entreprise qui les accueille.
 
-Art. 11. - Les stagiaires ne peuvent prétendre à aucun salaire. Toutefois, lorsqu'un travail productif est demandé aux stagiaires, une gratification peut être envisagée. L'opportunité et le montant de cette rémunération sont laissés à l'appréciation de l'entreprise, dans la limite de 30 p. 100 du S.M.I.C.
+Art. 11. - Les stagiaires ne peuvent prétendre à aucun salaire. Toutefois, lorsqu'un travail productif est demandé aux stagiaires, une gratification peut être envisagée. L'opportunité et le montant de cette rémunération sont laissés à l'appréciation de l'entreprise, dans la limite de 30 % du S.M.I.C.
 
 En outre, l'entreprise peut indemniser l'étudiant stagiaire des divers frais entraînés par son activité, notamment les frais de déplacement ou de double résidence.
 
