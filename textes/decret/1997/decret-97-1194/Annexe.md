@@ -802,6 +802,24 @@ Articles 15, 17, 18, 19 et 20-I.
 
 |
 
+Haut fonctionnaire de défense auprès du ministre chargé de l'industrie
+
+Décret n° 2001-144 du 15 février 2001 définissant les conditions du prélèvement d'échantillons de produits chimiques prévu par l'article 51 de la loi n° 98-467 du 17 juin 1998 relative à l'application de la convention du 13 janvier 1993 sur l'interdiction de la mise au point, de la fabrication, du stockage et de l'emploi des armes chimiques et sur leur destruction
+
+1
+
+|
+
+Agrément de laboratoires chargés de l'analyse des échantillons de produits chimiques prélevés dans le cadre d'investigations nationales et listés dans la convention du 13 janvier 1993 sur l'interdiction de la mise au point, de la fabrication, du stockage et de l'emploi des armes chimiques et sur leur destruction.
+
+Décision conjointe avec le ministre de la défense.
+
+|
+
+Article 7, premier alinéa.
+
+|
+
 2. Décisions administratives individuelles prises par le ministre
 
 Décisions entrant dans le champ des compétences de la direction du personnel et de l'administration
@@ -1840,7 +1858,7 @@ Article 207 de l'annexe III.
 
 |
 
-Décret-loi du 18 avril 1939 fixant le régime des matériels de guerre, armes et munitions et arrêté du 2 octobre 1992 relatif à la procédure d'importation et d'exportation des matériels de guerre, armes et munitions et des matériels assimilés
+Décret-loi du 18 avril 1939 fixant le régime des matériels de guerre, armes et munitions et arrêté du 2 octobre 1992 modifié relatif à la procédure d'importation, d'exportation et de transfert des matériels de guerre, armes et munitions et des matériels assimilés
 
 1
 
@@ -1850,7 +1868,7 @@ Autorisation d'exportation ou de transit de matériels de guerre, armes et munit
 
 |
 
-Articles 11 et 13 du décret-loi du 18 avril 1939 et articles 11 et 26 de l'arrêté du 2 octobre 1992.
+Articles 11 et 13 du décret-loi du 18 avril 1939 et articles 9 et 24 de l'arrêté du 2 octobre 1992 modifié.
 
 |
 
@@ -1985,6 +2003,44 @@ Autorisation de constitution, de fermeture ou de changement de titulaire d'usine
 |
 
 Articles 5, 20 et 21.
+
+|
+
+Décret n° 2001-143 du 15 février 2001 concernant la mise en œuvre des dispositions du titre II de la loi n° 98-467 du 17 juin 1998 relative à l'application de la convention du 13 janvier 1993 sur l'interdiction de la mise au point, de la fabrication, du stockage et de l'emploi des armes chimiques et sur leur destruction
+
+1
+
+|
+
+Autorisation d'importation de produits chimiques inscrits au tableau 1 annexé à la convention du 13 janvier 1993 sur l'interdiction de la mise au point, de la fabrication, du stockage et de l'emploi des armes chimiques et sur leur destruction.
+
+|
+
+Article 17, I, premier alinéa.
+
+|
+
+2
+
+|
+
+Autorisation d'exportation de produits chimiques inscrits au tableau 1 annexé à la convention.
+
+|
+
+Article 17, II.
+
+|
+
+3
+
+|
+
+Autorisation d'exportation des produits chimiques inscrits au tableau 3 annexé à la convention, à destination d'un Etat non partie à la convention.
+
+|
+
+Article 25, premier alinéa.
 
 |
 
@@ -2411,6 +2467,42 @@ Habilitation des agents exerçant le contrôle auquel est soumis le titulaire de
 Article 12.
 
 |
+
+Décret n° 2001-143 du 15 février 2001 concernant la mise en œuvre des dispositions du titre II de la loi n° 98-467 du 17 juin 1998 relative à l'application de la convention du 13 janvier 1993 sur l'interdiction de la mise au point, de la fabrication, du stockage et de l'emploi des armes chimiques et sur leur destruction
+
+1
+
+|
+
+Autorisation de mise au point, fabrication, acquisition, cession, utilisation, détention, conservation et stockage des produits chimiques inscrits au tableau 1 annexé à la convention du 13 janvier 1993 sur l'interdiction de la mise au point, de la fabrication, du stockage et de l'emploi des armes chimiques et sur leur destruction.
+
+|
+
+Article 3.
+
+|
+
+2
+
+|
+
+Autorisation d'installations pourvant fabriquer, en quantité limitée, à des fins médicales, pharmaceutiques ou de recherche, des produits chimiques inscrits au tableau 1 annexé à la convention. |
+
+Article 3.
+
+|
+
+3 |
+
+Autorisation d'exercer une activité de commerce et de courtage, en provenance et à destination d'un Etat partie à la convention, de produits chimiques inscrits au tableau 1 annexé à la convention. |
+
+Article 18, premier alinéa. |
+
+4 |
+
+Autorisation d'exercer une activité de commerce et de courtage à destination d'un Etat non partie à la convention, de produits chimiques inscrits au tableau 3 annexé à la convention. |
+
+Article 26, premier alinéa. |
 
 Décisions entrant dans le champ des compétences de la direction de la sûreté des installations nucléaires
 
