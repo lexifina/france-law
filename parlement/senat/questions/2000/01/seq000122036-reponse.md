@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000122036
+
+- Question : [SEQ000122036](seq000122036.md) — Conseil de politique monétaire de la Banque de France
+
+## Réponse
+
+*Économie, JO du 2000-03-23, page 1065*
+
+Réponse. - Le statut de la Banque de France, issu de la loi du 4 août 1993, a été modifié par la loi du 12 mai 1998 pour tenir compte des adaptations nécessaires en vue de sa participation au système européen de banques centrales. A cette occasion, le législateur a confirmé l'existence du Conseil de la politique monétaire. L'article 7 de la loi du 4 août 1993 dispose que " le Conseil de la politique monétaire examine les évolutions monétaires et analyse les implications de la politique monétaire élaborées dans le cadre du système européen de banques centrales. Dans le cadre des orientations et instructions de la Banque centrale européenne, il précise les modalités d'achat ou de vente, de prêt ou d'emprunt, d'escompte, de prise en gage, de prise ou de mise en pension de créances et d'émission de bons portant intérêt, ainsi que la nature et l'étendue des garanties dont sont assortis les prêts consentis par la Banque de France ". Le Conseil de la politique monétaire a donc une double fonction d'analyse des évolutions monétaires et de la politique monétaire et d'explication de la politique monétaire conduite par le système européen de banques centrales auprès de l'ensemble des français. Il convient de noter par ailleurs que les membres du Conseil de la politique monétaire sont également membres du Conseil général de la Banque de France. Celui-ci, qui comprend également un représentant élu des salariés de la Banque, délibère sur les questions relatives à la gestion des activités de la Banque autres que celles qui relèvent des missions du système européen des banques centrales (budget de la Banque, emploi des fonds propres, arrêté des comptes, affectation du bénéfice et fixation du dividende revenant à l'Etat, statut du personnel).
