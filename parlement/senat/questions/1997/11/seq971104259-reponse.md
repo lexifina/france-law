@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971104259
+
+- Question : [SEQ971104259](seq971104259.md) — Transfert aux assureurs des indemnisations des accidentés de la circulation
+
+## Réponse
+
+*Emploi, JO du 1998-01-29, page 319*
+
+Réponse. - La loi du 30 octobre 1946 dispose que les accidents de trajet ou de la circulation survenus par le fait ou à l'occasion du travail doivent être considérés comme des accidents du travail. Cette évolution de la législation a constitué un progrès important en matière de protection contre les risques sociaux. Il convient toutefois de souligner que la législation en cause a toujours été interprétée très strictement. La jurisprudence sur les interruptions et les détours de trajet est à cet égard très significative. La Cour de cassation s'est appliquée dans nombre de ses décisions à faire la différence entre le déplacement effectué à titre privé et le déplacement par le fait du travail. Par ailleurs, la législation sur l'indemnisation des accidents de trajet par les organismes de sécurité sociale ne fait pas l'échec à la réparation de droi commun prévue par la loi no 85-677 du 5 juillet 1985 tendant à l'amélioration de la situation des victimes d'accidents de la circulation et à l'accélération des procédures d'indemnisation. De ce fait, lorsqu'il y a un tiers responsable de l'accident, la caisse obtient le remboursement des sommes qu'elle a versées, dans la limite de la réparation de droit commun qui a été consentie à la victime. Ce dispositif diminue d'autant la charge de la branche accident du travail. Enfin, l'existence d'une branche autonome en matière d'accidents du travail et de maladies professionnelles dans laquelle accident de travail et accident de trajet sont indemnisés selon des modalités identiques constitue un instrument d'équilibre social qu'il n'est pas opportun de remettre en cause.
