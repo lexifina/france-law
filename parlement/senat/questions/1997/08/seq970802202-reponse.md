@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970802202
+
+- Question : [SEQ970802202](seq970802202.md) — Comités de visionnage des programmes télévisés
+
+## Réponse
+
+*Culture, JO du 1997-10-30, page 2980*
+
+Réponse. - L'article 15 de la loi du 30 septembre 1986 confie au Conseil supérieur de l'audiovisuel la charge de veiller à la protection de l'enfance et de l'adolescence. A ce titre, l'instance de régulation a défini, voici quelques mois, en accord avec les chaînes de télévision TF1, France 2, France 3 et M6, une classification homogène des oeuvres audiovisuelles et cinématographiques en fonction des risques qu'elles présentent pour la jeunesse. Tous les programmes constituant une oeuvre audiovisuelle ou cinématographique, c'est-à-dire principalement les films, les téléfilms et séries mais aussi les dessins animés et documentaires, doivent être ainsi visionnés et classés par catégorie avant leur diffusion. Ce contrôle est assuré par un comité de visionnage propre à chaque chaîne, chargé des propositions de classement. Le CSA n'a pas souhaité imposer aux chaînes une composition particulière pour ces comités de visionnage, dont les membres sont librement désignés par les chaînes. Les premières évaluations de ce dispositif montrent qu'une grande majorité de téléspectateurs s'est familiarisée avec cette signalétique et la juge adaptée et utile. Toutefois, le Conseil supérieur de l'audiovisuel a souhaité poursuivre la concertation avec les organismes intéressés pour rendre le dispositif encore plus performant. Il a, dans cet esprit, recommandé aux diffuseurs d'être encore davantage à l'écoute des préoccupations des téléspectateurs et des familles. Pour sa part, le Gouvernement entreprend une réflexion sur les missions des chaînes publiques, notamment en termes d'éthique et de développement culturel, dont les conclusions pourraient trouver une traduction dans le projet de loi relatif à l'audiovisuel qui sera déposé au Parlement au cours de cette session.
