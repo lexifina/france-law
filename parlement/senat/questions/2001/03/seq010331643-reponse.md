@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010331643
+
+- Question : [SEQ010331643](seq010331643.md) — Politique de vaccination
+
+## Réponse
+
+*Santé, JO du 2001-12-20, page 4046*
+
+La politique vaccinale en France se traduit par des obligations issues de textes législatifs et des recommandations vaccinales qui s'appuient actuellement sur l'expertise scientifique du Comité technique des vaccinations (CTV). Le principe de l'obligation vaccinale remonte à 1938 pour la diphtérie, à 1940 pour le tétanos et à 1964 pour la poliomyélite, en population générale. Le BCG est obligatoire depuis 1950 pour les jeunes à l'entrée en collectivité et pour certaines catégories professionnelles, obligation rappelée par la loi du 18 janvier 1994. En ce qui concerne l'évolution des sanctions en cas de non-respect des obligations vaccinales, l'article L. 3113-1 du code de la santé publique prévoit l'application des dispositions des articles L. 1312-1 et L. 1312-2 du même code aux infractions aux articles relatifs à la vaccination obligatoire antidiphtérique, antitétanique, antipoliomyélite, antithyphoïdique, antiparatyphoïdique, antivariolique, contre l'hépatite B et le typhus exanthématique. Contrairement à ce qui sous-tend la mise en cause de l'article L. 3116-1, l'articulation de ces trois articles ne crée pas de nouvelles sanctions pénales en cas de refus de se soumettre à l'une de ces vaccinations. La refonte du code de la santé publique n'a donc pas alourdi les sanctions aux infractions à l'obligation de vaccination antituberculeuse mais a actualisé la rédaction de l'article L. 217 conformément aux dispositions de l'actuel code pénal, en faisant notamment apparaître clairement dans le code de la santé publique le quantum des sanctions encourues alors qu'auparavant un simple renvoi aux articles du code pénal était mentionné.
