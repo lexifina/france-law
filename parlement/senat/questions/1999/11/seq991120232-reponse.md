@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991120232
+
+- Question : [SEQ991120232](seq991120232.md) — Journée de commémoration du sacrifice des victimes de la guerre en Afrique du Nord
+
+## Réponse
+
+*Anciens combattants, JO du 2000-03-23, page 1048*
+
+Réponse. - L'honorable parlementaire souhaite qu'une date officielle de commémoration des sacrifices des victimes civiles et militaires en Afrique du Nord soit fixée, dès lors qu'il est maintenant admis qu'il s'agissait bien d'opérations de guerre. Or actuellement, pour ce qui concerne l'Afrique du Nord, aucune des dates historiques proposées ne fait l'unanimité, qu'il s'agisse de la date officielle retenue pour le début du conflit (31 octobre 1954), de celle de la mise en uvre du cessez-le-feu, lendemain de la signature des accords d'Evian (19 mars 1962) ou encore de celle qui marque l'indépendance de l'Algérie (2 juillet 1962). Cette absence d'unanimité a même suscité la proposition de dates sans rapport avec la guerre elle-même : celle de l'inhumation d'un soldat inconnu à la nécropole de Notre-Dame-de-Lorette (16 octobre 1977) ou encore celle de l'armistice de la Première guerre mondiale (11 novembre 1918). Or, une telle date doit rassembler le peuple français, au même titre que le font le 8 mai, le 11 novembre ou la journée de la déportation. Ces trois dernières dates commémoratives ont d'ailleurs été fixées par des lois adoptées à l'unanimité du Parlement : en 1922 pour le 11 novembre, en 1954 pour la journée de la déportation et en 1979 et 1981 pour le 8 mai. Il doit donc en être, pour la commémoration de la guerre d'Algérie, comme il en a été pour les commémorations de la mémoire des précédents conflits contemporains, c'est-à-dire adoption à l'unanimité de l'Assemblée nationale et du Sénat d'une date unique rassemblant tous les Français. Or tel n'est pas le cas aujourd'hui, la division du monde combattant sur cette question ne laissant pas augurer une unanimité parlementaire proche.
