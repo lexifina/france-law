@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910615559
+
+- Question : [SEQ910615559](seq910615559.md) — Extension du bénéfice de l'allocation veuvage au profit des conjoints d'artisans et de commerçants
+
+## Réponse
+
+*Artisanat et commerce, JO du 1992-03-19, page 667*
+
+Réponse. - La loi du 17 juillet 1980 instituant l'assurance veuvage est appliquée depuis le 1er janvier 1981 au bénéfice des conjoints survivants, âgés de moins de cinquante-cinq ans, des assurés relevant du régime général de la sécurité sociale dès lors que le décès de l'assuré est intervenu postérieurement au 31 décembre 1980. Le versement de cette allocation de veuvage, pendant 3 ans, est soumis à des conditions de ressources. Il est financé par une cotisation à la charge des salariés. Il est exact que les dispositions de cette loi peuvent être étendues par décret, sous réserve d'adaptation, aux régimes des professions artisanales et commerciales. Les conseils d'administration des caisses nationales Organic et Cancava ne se sont pas prononcés jusqu'à présent en faveur d'une transposition pure et simple du dispositif tel qu'il existe dans le régime général des salariés. L'article 14 de la loi n° 89-1008 du 31 décembre 1989 prévoit que le conjoint survivant du chef d'entreprise qui justifie avoir participé à l'activité de l'entreprise pendant au moins dix ans sans avoir reçu de rémunération ni être associé aux bénéfices et aux pertes de l'entreprise, bénéficie d'un droit de créance d'un montant égal à trois fois le S.M.I.C. annuel en vigueur le jour du décès, soit environ 180 000 F. Cette créance sera prélevée sur l'actif successoral. Ce prélèvement s'ajoute à la part du conjoint survivant. Le ministre de l'artisanat, du commerce et de la consommation demeure cependant ouvert à la recherche des adaptations nécessaires à son éventuelle extension aux veufs et veuves de commerçants et artisans, en concertation avec les représentants des organismes professionnels et des régimes sociaux concernés.
