@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701395
+
+- Question : [SEQ970701395](seq970701395.md) — Reconversion des personnels de santé contaminés par le virus du sida dans l'exercice de leur activité professionnelle
+
+## Réponse
+
+*Santé, JO du 1997-10-02, page 2658*
+
+Réponse. - Le secrétaire d'Etat à la santé informe l'honorable parlementaire que, au 31 décembre 1996, on recensait en France, dix cas prouvés de contamination professionnelle (sérologie au moment de l'accident et à distance), tous chez des infirmiers, ou infirmières, et vingt-sept cas présumés (pas de sérologie de départ) ; outre la prise en charge normale dans le cadre des accidents du travail, une indemnisation est octroyée à tous ces soignants par le Fonds national d'indemnisation. La question de l'évaluation de l'aptitude et de la reconverstion se pose chez tous les soignants infectés quel que soit le mode de contamination. En effet, le risque pour les personnes soignées, extrêmement faible mais non nul, ne diffère pas selon le mode de contamination du soignant. Des avis sur le risque de transmission soignant-soigné ont été demandés par le directeur général de la santé à quatre instances : Conseil national de l'ordre des médecins, Conseil national du sida, Académie de médecine et Comité consultatif d'éthique des sciences de la vie et de la santé. Le secrétaire d'Etat réunira les représenants des chirurgiens. La direction générale de la santé réalise actuellement un recensement des règles de conditions d'inaptitude des soignants et des dispositions prévues pour l'indemnisation et le reclassement en France et dans d'autres pays, pour le VIH mais également pour l'ensemble des pathologies. Les mesures qui seront prises tiendront compte des avis des instances consultées et des résultats de ce recensement en prenant notamment en compte l'objectif majeur de sécurité sur le plan de la santé et la protection sociale des soignants atteints.
