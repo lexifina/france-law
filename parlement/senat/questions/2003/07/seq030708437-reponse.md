@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030708437
+
+- Question : [SEQ030708437](seq030708437.md) — Pouvoir des maires en matière de recherche de propriétaires de biens situés sur le territoire communal
+
+## Réponse
+
+*Intérieur, JO du 2003-09-18, page 2847*
+
+Dans le cas où le propriétaire d'un immeuble n'assume pas certaines de ses obligations et qu'il est inconnu, la commune doit apporter la preuve que toutes les démarches ont été entreprises pour le rechercher ; le juge constate alors que la formalité relative à la notification au propriétaire de l'arrêté prescrivant les obligations qui lui incombent étant impossible à mettre en oeuvre, celui-ci est légal. Le défaut de notification entraîne la nullité de la procédure. Dans le cas particulier des immeubles menaçant ruine, la police est une compétence traditionnelle des maires, fondée à la fois sur les articles L. 511-1 et suivants du code de la construction et de l'habitation, sur l'article L. 2213-24 du code général des collectivités territoriales (police spéciale du maire) et sur l'article L. 2212-2 (police générale). L'arrêté prescrivant la réparation ou la démolition du bâtiment est notifié au propriétaire tel qu'il figure au fichier immobilier des hypothèques. La loi n° 2000-10208 du 13 décembre 2000 relative à la solidarité et au renouvellement urbains a complété le dispositif pour assurer une meilleure efficacité de la réalisation des travaux. Ainsi, à défaut de pouvoir connaître l'adresse actuelle de la personne ou de pouvoir l'identifier, la notification la concernant est valablement effectuée par affichage à la mairie du lieu de situation de l'immeuble et sur l'immeuble lui-même. Cette notification par voie d'affichage constitue une des innovations de la loi précitée et permet d'éviter que la procédure ne soit bloquée ou viciée en donnant au maire la possibilité d'agir rapidement en cas de péril imminent.
