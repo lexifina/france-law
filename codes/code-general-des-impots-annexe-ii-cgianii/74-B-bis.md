@@ -4,7 +4,7 @@ Les plus-values réalisées à l'occasion de la première cession d'un logement 
 
 1° Changement dans la situation de la famille résultant de l'augmentation du nombre des enfants à charge, du divorce ou de la séparation de corps, du décès du contribuable ou de l'un des époux soumis à une imposition commune ;
 
-2° Survenance d'une invalidité affectant le contribuable ou l'un des époux soumis à une imposition commune ou un enfant à charge et correspondant au classement dans la seconde ou la troisième des catégories d'invalidité prévues à l'article L. 341-4 du code de la sécurité sociale ou ouvrant droit à la carte d'invalidité prévue à l'article 173 du code de la famille et de l'aide sociale ;
+2° Survenance d'une invalidité affectant le contribuable ou l'un des époux soumis à une imposition commune ou un enfant à charge et correspondant au classement dans la seconde ou la troisième des catégories d'invalidité prévues à l'article L. 341-4 du code de la sécurité sociale ou ouvrant droit à la carte d'invalidité prévue à l'article L. 241-3 du code de l'action sociale et des familles ;
 
 3° Changement de résidence principale justifié par le changement du lieu d'activité professionnelle ou le rapprochement du contribuable ou de l'un des époux soumis à une imposition commune du lieu de cette activité ;
 
