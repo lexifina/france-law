@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960314443
+
+- Question : [SEQ960314443](seq960314443.md) — Embargo à l'encontre de l'Irak
+
+## Réponse
+
+*Affaires étrangères, JO du 1996-04-25, page 1003*
+
+Réponse. - La France est sensible à la situation sanitaire en Iraq et n'a pas ménagé ses efforts pour inciter les autorités iraquiennes à appliquer la résolution 986 du Conseil de sécurité, qui permet l'exportation d'une quantité limitée de pétrole pour financer l'achat de biens humanitaires. A cet égard, les conversations engagées entre une délégation iraquienne et le secrétariat des Nations Unies, au mois de février dernier, en vue d'assurer la mise en oeuvre de cette résolution, constituent un développement positif. Il convient de souhaiter que, dans l'intérêt des populations iraquiennes, elles aboutissent dans les meilleurs délais. En tout état de cause, la mise en oeuvre de la résolution 986, à caractère purement humanitaire, et celle du paragraphe 22 de la résolution 687, qui prévoit la levée de l'embargo pétrolier, ne sont pas liées. Les sanctions pétrolières contre l'Iraq devront être levées lorsque le président de la commission spéciale des Nations Unies et le directeur général de l'AIEA auront, chacun pour ce qui le concerne, remis un rapport pleinement positif sur le respect des obligations iraquiennes en matière de désarmement. A ce stade, ces conditions ne sont pas encore remplies. Aussi les sanctions sont-elles reconduites, tous les deux mois, par un vote unanime du Conseil de sécurité. En revanche, lorsque la commission spéciale des Nations Unies et l'AIEA auront conclu que l'Iraq s'est acquitté de ses obligations dans le domaine des armes de destruction massive, la France prendra ses responsabilités et demandera au Conseil de sécurité la levée de l'embargo pétrolier, conformément aux résolutions des Nations Unies.
