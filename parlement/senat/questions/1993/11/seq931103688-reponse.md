@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931103688
+
+- Question : [SEQ931103688](seq931103688.md) — Dégradation du pouvoir d'achat des retraités
+
+## Réponse
+
+*Premier ministre, JO du 1993-12-23, page 2454*
+
+Réponse. - Le Gouvernement a hérité d'une situation financière désastreuse des régimes sociaux, qui menaçait la pérennité même de notre système de protection sociale. Il a donc été conduit à prendre des mesures d'urgence, difficiles mais nécessaires, pour assurer le financement d'une gestion imprévoyante, préserver puis rétablir les solidarités essentielles qui étaient menacées dans leurs fondements. Les mesures adoptées par le Parlement et par le Gouvernement ont ainsi visé à sauvegarder la retraite par répartition. Le rétablissement des comptes de l'assurance vieillesse et de l'assurance maladie ont imposé des sacrifices, dont le Gouvernement a veillé à ce qu'ils soient équitablement répartis et ne pèsent pas sur les moins fortunés. En outre, la loi relative aux pensions de retraite et à la sauvegarde de la protection sociale, qui aménage de nouvelles modalités d'indexation des pensions, constitue une avancée sociale par rapport à la pratique des gouvernements précédents. Pour la première fois, en effet, le strict maintien du pouvoir d'achat des pensions, en masse et en niveau, est garanti. La loi prévoit, en outre, la possibilité d'un ajustement au 1er janvier 1996 destiné à permettre aux retraités de participer aux progrès de l'économie. A cet égard, je tiens à souligner que les revalorisations intervenues précédemment assurent une augmentation des pensions de 2,3 p. 100 en moyenne cette année, contre une progression des prix hors tabacs de 2 p. 100. Le pouvoir d'achat des pensions a donc progressé en 1993. Pour 1994, le Gouvernement souhaite revaloriser de 2 p. 100, au 1er janvier, les pensions.
