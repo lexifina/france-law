@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021204692
+
+- Question : [SEQ021204692](seq021204692.md) — Allergies alimentaires : développement des moyens de traitements plus faciles d'emploi
+
+## Réponse
+
+*Santé, JO du 2003-04-17, page 1362*
+
+La présentation clinique de l'allergie alimentaire peut revêtir des aspects multiples, pouvant aller jusqu'au choc anaphylactique, parfois mortel. La survenue d'un choc anaphylactique impose l'injection d'adrénaline en urgence. La direction générale de la santé, en étroite collaboration avec l'Agence française de sécurité sanitaire des produits de santé (AFSSAPS), a oeuvré pour promouvoir la mise à disposition d'un stylo auto-injecteur d'adrénaline. Une autorisation temporaire d'utilisation pour ce dispositif a été obtenue en juin 2000. Une autorisation de mise sur le marché européenne est toujours en cours d'obtention : ce dispositif est donc toujours en autorisation temporaire d'utilisation de cohorte. L'éviction, dans la mesure du possible, du ou des allergènes en cause, constitue le meilleur traitement de l'allergie alimentaire. C'est pourquoi, concernant la composition des aliments, un projet de texte réglementaire visant à modifier les règles d'étiquetage est en cours d'adoption au niveau communautaire. Il prévoit notamment la mention systématique de tous les ingrédients issus des principaux allergènes listés dans une annexe, dès lors que ceux-ci sont encore présents dans le produit fini. Cette nouvelle disposition s'applique à l'arachide, mais aussi à tous les ingrédients dérivés des céréales à gluten, des crustacés, de l'oeuf, du poisson, du soja, du lait, du céleri, des fruits à coques, de la moutarde, du sulfite en concentration d'au moins 10 mg/kg. Cette liste d'allergènes est amenée à être modifiée en fonction de l'évolution des connaissances scientifiques.
