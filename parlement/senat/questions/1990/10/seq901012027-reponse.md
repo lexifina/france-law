@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901012027
+
+- Question : [SEQ901012027](seq901012027.md) — Personnes âgées vivant chez un enfant
+
+## Réponse
+
+*Famille, JO du 1991-02-14, page 312*
+
+Réponse. - Attentif à la situation des personnes âgées dépendantes, le Gouvernement entend poursuivre les efforts entrepris pour favoriser leur maintien à domicile, et notamment les mesures d'allégement en matière de fiscalité locale. Sous certaines conditions, il est possible d'étendre le champ d'application des dégrèvements actuels aux personnes âgées vivant chez leurs enfants. Les personnes non imposables à l'impôt sur le revenu et âgées de plus de 60 ans qui vivent chez leurs enfants et qui, tout en ayant abandonné définitivement leur ancien logement, en conservent néanmoins la jouissance, peuvent obtenir la remise gracieuse de la totalité de la taxe d'habitation mise à leur charge au titre de ce logement. Cet avantage n'est toutefois pas accordé lorsque le logement constitue en fait la résidence secondaire des enfants. Un dispositif identique est applicable en matière de taxe foncière sur les propriétés bâties pour les personnes âgées de plus de 75 ans et non i mposables sur le revenu qui vivent chez leurs enfants. Enfin, lorsqu'une personne âgée de plus de 70 ans et non imposable à l'impôt sur le revenu vit à titre permanent chez ses enfants, ces derniers bénéficient du fait de sa présence d'un abattement pour charge de famille s'imputant sur la base d'imposition à la taxe d'habitation de leur logement. Le Gouvernement, en revanche, n'envisage pas actuellement d'étendre le champ d'application des dégrèvements à la redevance de télévision ni à l'allocation logement, considérant que les enfants sont soumis à l'obligation alimentaire et donc que les personnes âgées sont hébergées à titre gratuit.
