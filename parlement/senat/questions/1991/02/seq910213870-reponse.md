@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910213870
+
+- Question : [SEQ910213870](seq910213870.md) — Contamination de l'environnement par des substances radioactives
+
+## Réponse
+
+*Environnement, JO du 1991-08-29, page 1831*
+
+Réponse. - Aux termes de la réglementation en vigueur (notamment les décrets du 2 octobre 1986 et du 18 avril 1988, et l'avis aux utilisateurs de radioéléments publié au Journal officiel le 6 juin 1970), le dépôt, dans des installations non spécialisées, de déchets comportant une certaine radioactivité n'est autorisé que si la concentration des radioéléments dans la masse des déchets ne dépasse pas 74 becquerels par (74 000 becquerels par kilogrammes). En revanche, si cette concentration est dépassée et s'il s'agit de radioéléments du groupe I (auquel appartiennent certains émetteurs alpha tels que le plutonium 239) il n'est alors pas autorisé d'en déposer plus de 3 700 becquerels au total. En ce qui concerne la déposante de Saint-Aubin, le chiffre, publié par la presse, 2 153 becquerels de plutonium par kilogrammes (soit 2,15 becquerels/g), attribué à un prélèvement de terre, respecte en tout état de cause ces dispositions puisqu'il ne représente que 1/35 de la limite de concentration massique de 74 becquerels/g. La règle fondamentale de sûreté de 370 000 becquerels/kilogrammes évoquée dans la question ne vise que les colis fermés déposés dans des centres spécialisés. Elle ne vise donc absolument pas les décharges du type de celle de Saint-Aubin. Sur un plan général, les travaux menés, depuis l'automne à la demande des ministres concernés, sur les anciens stockages de matières radioactives mettent en évidence la nécessité de clarifier la réglementation applicable à ces dépôts dont la rédaction ancienne est difficilement accessible hors des milieux spécialisés. La transparence dans le domaine nucléaire ne peut s'accomoder d'une réglementation paraissant laisser une trop grande marge à l'interprétation de ceux qui la font respecter.
