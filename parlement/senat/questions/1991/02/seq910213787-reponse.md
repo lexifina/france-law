@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910213787
+
+- Question : [SEQ910213787](seq910213787.md) — Reportage télévisé sur les jeux guerriers
+
+## Réponse
+
+*Premier ministre, JO du 1991-05-09, page 975*
+
+Réponse. - La couverture de la guerre du Golfe par les médias a effectivement soulevé de nombreuses interrogations quant aux devoirs de l'information. De même que l'honorable parlementaire, le Gouvernement déplore qu'en période de conflit le choix de certaines émissions diffusées ait été guidé plus par leur caractère spectaculaire ou émotionnel que par leur contenu informatif et le souci de la cohésion nationale. Cependant, il n'entre pas dans la vocation du Gouvernement d'intervenir dans ce qui a trait au contenu des programmes ou de l'information. Dans un pays où, comme l'affirme la loi du 30 septembre 1986, la communication est libre, la déontologie est d'abord l'affaire des journalistes et des dirigeants des chaînes publiques ou privées dans le cadre de leur responsabilité éditoriale, sous le contrôle du Conseil supérieur de l'audiovisuel à qui la loi a confié la mission de veiller à ce que l'exercice de cette liberté ne porte pas atteinte aux principes fixés par son article 1er. Parmi ceux-ci figurent le respect de la dignité de la personne humaine et la sauvegarde de l'ordre public, ainsi que la protection de l'enfance et de l'adolescence. Le 16 janvier 1991, le Conseil supérieur de l'audiovisuel, après avoir réuni les présidents des chaînes de télévision et des radios nationales, leur a rappelé la nécessité d'assurer la couverture des événements du Golfe dans le respect scrupuleux des règles déontologiques et des principes posés par le législateur, et leur a recommandé de veiller notamment à ce qu'il ne soit pas fait une exploitation complaisante de documents difficilement supportables. J'ai indiqué, dans une lettre adressée au Conseil supérieur de l'audiovisuel, le 24 janvier, que je partageais sa préoccupation.
