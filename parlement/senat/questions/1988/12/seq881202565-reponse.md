@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881202565
+
+- Question : [SEQ881202565](seq881202565.md) — Remplacement des passages à niveau défectueux
+
+## Réponse
+
+*Transports, JO du 1989-02-09, page 242*
+
+Réponse. - Le ministre des transports et de la mer soutient les efforts de la S.N.C.F. visant à supprimer les passages à niveau les plus dangereux pour les remplacer par des ouvrages dénivelés, afin d'éviter les accidents ; en effet, outre les dégâts matériels causés aux véhicules routiers ou aux engins ferroviaires, ce sont plusieurs dizaines de personnes qui, chaque année, sont tuées ou blessées gravement aux passages à niveau. Depuis 1970, 2 946 passages à niveau ont été supprimés dont 108 en 1986, 114 en 1987, 100 en 1988 et 100 devraient l'être en 1989. La S.N.C.F. consacre à ces opérations des sommes importantes (175 millions de francs en 1988, 185 millions de francs prévus en 1989). Lors des créations de voies routières nouvelles, ou de déviations, la suppression des passages à niveau est sytématiquement recherchée. De même cette suppression est-elle effectuée sur toutes les sections de la ligne où la vitesse des trains dépasse 160 kilomètres par heure. Bien entendu, les collectivités intéressées sont consultées au préalable et les projets soumis aux enquêtes publiques réglementaires. Les efforts seront poursuivis sur les lignes importantes que constituent les prolongements des T.G.V. Sud-Est et Atlantique où subsistent encore environ 1 100 passages à niveau. Le financement de ces opérations est en général multiple, la participation de la S.N.C.F. étant basée sur les économies permises et les avantages qu'offre la suppression, le complément étant assuré par l'Etat et ou les collectivités intéressées. Pour ce qui concerne le département de la Loire, en 1988 quatre passages à niveau de la ligne Moret-Lyon ont été automatisés et munis de deux demi-barrières avec signalisation lumineuse. En 1989, quatre autres seront équipés des mêmes dispositifs.
