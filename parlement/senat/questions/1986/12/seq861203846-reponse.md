@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861203846
+
+- Question : [SEQ861203846](seq861203846.md) — Nombre de sections sports-études dans les lycées
+
+## Réponse
+
+*Jeunesse et sports, JO du 1987-02-05, page 177*
+
+Réponse. -Pendant l'année scolaire 1986-1987, 173 sections sport-études de niveau interrégional et national ont été autorisées à fonctionner dont 150 dans des lycées. Elles permettent de pratiquer 28 disciplines sportives différentes et regroupent environ 3 500 élèves. Depuis la création à la rentrée scolaire 1985-1986 des centres permanents d'entraînement et de formation pour le haut niveau, le secrétariat d'Etat chargé de la jeunesse et des sports souhaite que les sections sport-études soient liées au fonctionnement de ces centres. Une réflexion est actuellement menée avec le ministère de l'éducation nationale pour tenter d'améliorer le fonctionnement de ces sections et en particulier d'adapter la scolarité aux nouvelles contraintes du sport de haut niveau et à la mise en place des centres permanents d'entraînement et de formation. Le secrétariat d'Etat chargé de la jeunesse et des sports s'engage dans une politique plus qualitative que quantitative en appliquant une plus grande rigueur dans ses décisions et dans la gestion de ces structures (sections sport-études, centres permanents d'entraînement et de formation). Les efforts porteront notamment sur les secteurs suivants : 1° évaluation préalable des potentiels sportifs ; 2° encadrement de qualité ; 3° scolarité réellement aménagée ; 4° investissements importants réalisés dans les centres en vue d'améliorer l'accueil des sportifs et les équipements favorisant les conditions d'entraînement. L'objectif du secrétariat d'Etat est toujours de réunir les conditions les plus favorables pour former des sportifs de haut niveau tout en leur permettant d'assurer leur avenir grâce à un bon niveau scolaire.
