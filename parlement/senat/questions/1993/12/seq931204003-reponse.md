@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931204003
+
+- Question : [SEQ931204003](seq931204003.md) — Instauration d'une garantie de paiement au profit des entrepreneurs
+
+## Réponse
+
+*Entreprises, JO du 1994-03-17, page 594*
+
+Réponse. - Le problème des conséquences pour les entreprises de bâtiment, des défaillances financières des maîtres d'ouvrages privés, a été longuement abordé dans le cadre de l'examen, lors de la session parlementaire d'automne 1993, de la proposition de loi de M. Jérôme Bignon, sur le rapport de M. Philippe Houillon, relative à la prévention et au traitement des difficultés des entreprises. Un amendement a été adopté qui apporte, au moins en partie, satisfaction aux professionnels concernés en prévoyant que les paiements des sommes dues par le maître d'ouvrage sont, à la demande de l'entrepreneur, garantis par une caution personnelle et solidaire obtenue par le maître de l'ouvrage d'un établissement financier. Il ressort du débat qui s'est instauré sur cette proposition que, pour n'être pas totalement satisfaisante, elle apporte une première réponse aux difficultés des entreprises du bâtiment dans une conjoncture particulièrement troublée. C'est dans cet esprit que le Gouvernement, par la voix du ministre d'Etat, garde des sceaux, ministre de la justice, s'est montré favorable à l'adoption de cet amendement parlementaire, en souhaitant que les débats ultérieurs au Sénat permettent d'améliorer et de compléter le dispositif. Par ailleurs, un groupe de réflexion, constitué autour des principales administrations concernées, doit prochainement rendre ses conclusions sur le problème plus général des difficultés engendrées par la réserve de propriété et l'application de l'article 551 du code civil. Les résultats de ces travaux permettront d'éclairer la démarche du Gouvernement et du Parlement sur cette délicate question.
