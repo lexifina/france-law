@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020339229
+
+- Question : [SEQ020339229](seq020339229.md) — Moyenne communautaire
+
+## Réponse
+
+*Affaires européennes, JO du 2002-04-25, page 1160*
+
+L'honorable parlementaire a bien voulu appeler l'attention du ministre délégué chargé des affaires européennes sur l'accord intervenu entre les Etats membres de l'union européenne sur l'accroissement de l'aide publique au développement (ADP). Cet accord constitue un pas très important sur la voie d'une reprise des flux d'APD en direction des pays en développement et n'est sans doute pas étranger aux annonces faites par le président Bush dans ce domaine également. La France, qui a activement participé à l'émergence d'un consensus européen sur cette question à quelques jours du conseil européen de Barcelone et de la conférence de Monterrey sur le financement du développement, s'en félicite. En affichant cet objectif moyen de 0,39 % en 2006, ainsi qu'en adoptant une position ouverte sur le thème du déliement de l'aide, des " biens publics globaux " et des sources novatrices de financement, l'Europe a conforté sa position à l'avant-garde des bailleurs de fonds au développement. L'accord des ministres sur le volume de l'APD, repris par les chefs d'Etat et de gouvernement à Barcelone, constitue un engagement collectif et individuel des Etats membres qui s'applique en fonction du niveau de départ de l'aide de chacun d'entre eux. Il était donc difficile de prévoir, dans ces conditions, un mécanisme de sanction. La vigilance des pairs et la pression de l'opinion publique représentent, en cas d'éventuelle défaillance, un moyen de suivi de ces engagements conforme à l'esprit communautaire. La France, pour sa part, veillera au respect des engagements pris à Barcelone, dans l'esprit de l'engagement d'ores et déjà effectif de la remontée de notre aide.
