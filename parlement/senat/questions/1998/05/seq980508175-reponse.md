@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508175
+
+- Question : [SEQ980508175](seq980508175.md) — Prise en charge des personnes handicapées
+
+## Réponse
+
+*Emploi, JO du 1998-08-20, page 2693*
+
+Réponse. - L'évolution constante des besoins des personnes bénéficiaires d'interventions sociales ou médico-sociales, et notamment des personnes handicapées, et des réponses qui leur sont apportées, rend nécessaire une adaptation du cadre juridique organisant les moyens qui permettent d'offrir ces réponses. Cette volonté d'adaptation correspond à des orientations majeures du projet de révision de la loi du 30 juin 1975 sur les institutions sociales et médico-sociales : redéfinir les missions de l'action sociale et médico-sociale, encourager l'évolution et le développement de l'intervention des services qui ont vocation à favoriser la vie à domicile des personnes handicapées, affirmer les droits des usagers des institutions sociales et médico-sociales et de leurs familles, prévoir les instruments juridiques qui permettent d'assurer l'exercice effectif de ces droits, associer plus étroitement les personnes handicapées à la mise en uvre au niveau local de politiques cohérentes, qui intègrent l'ensemble des aspects de la prise en charge et de l'insertion des personnes handicapées (prévention, éducation, accompagnement en milieu ordinaire, accessibilité, insertion professionnelle, accueil en institution, aides financières), renforcer l'efficience du dispositif d'organisation de l'offre et de régulation du secteur social et médico-social, favoriser la concertation et le partenariat entre les autorités compétentes et les acteurs concernés. Tel est le sens des travaux préparatoires à la réforme de la loi susmentionnée du 30 juin 1975, qui fait actuellement l'objet de concertations avec les acteurs du champ social et médico-social, notamment avec les fédérations d'associations uvrant en faveur des personnes handicapées.
