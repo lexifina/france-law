@@ -1,0 +1,15 @@
+# Délibération portant avis sur le projet de décision présenté par les Caisses Centrales de Mutualité Sociale Agricole et relative à l'informatisation des services de médecine préventive des Caisses de Mutualité Sociale Agricole
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 86-26
+- Date : 1986-02-25
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017654428
+
+La Commission Nationale de l'Informatique et des Libertés, Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés et notamment ses articles 15 et 19. Vu l'article 1250-2 du code rural ; Vu le décret du 24 août 1976 ; Vu le décret n° 78-774 du 17 juillet 1978 pris pour l'application de la loi susvisée ; Vu le projet de décision présenté par les Caisses centrales de mutualité sociale agricole ; Après avoir entendu Monsieur Gérard JAQUET en son rapport et Madame Charlotte-Marie PITRAT, Commissaire du Gouvernement en ses observations.
+
+Considérant que les Caisses centrales de mutualité sociale agricole mettent à la disposition des Caisses locales, un modèle national de traitement automatisé dont la finalité principale est de gérer les examens de médecine préventive proposés tous les cinq ans aux bénéficiaires des régimes de protection sociale agricole ; Considérant que le traitement a pour objet l'édition des convocations et des résultats des examens ainsi que la tenue d'un dossier médical comprenant des informations médicales et médico-sociales ; Considérant que ces informations sont recueillies, pour partie, par le biais de questionnaires qui doivent comporter l'intégralité des mentions prescrites par l'article 27 de la loi du 6 janvier 1978 ; Considérant que les informations nominatives médicales traitées sont destinées exclusivement aux médecins et secrétaires médicaux des services concernés, ainsi qu'au médecin désigné par le consultant ; Considérant qu'il importe de modifier en conséquence l'article 3 du projet d'acte réglementaire ; Considérant que seuls les médecins et secrétaires médicales des services de médecine préventive ont accès aux terminaux situés dans ces services ; Considérant que les mots de passe particuliers attribués à ces utilisateurs doivent être changés régulièrement ;
+
+Emet, sous les réserves précitées, un AVIS FAVORABLE au projet de décision relatif à l'informatisation des services de médecine préventive étant entendu que les Caisses de mutualité sociale agricole qui adopteront ce modèle devront présenter à la Commission une déclaration de référence audit traitement accompagnée d'un engagement de conformité aux dispositions de l'acte réglementaire national, qui devra être publié localement, ainsi qu'aux mesures de sécurité préconisées dans la présente demande d'avis ; Rappelle que les Caisses locales qui ne se conformeraient pas à ce modèle, devront présenter une demande d'avis particulière à la Commission ; Demande à être saisie de nouvelles demandes d'avis en cas de création ou d'extension de la finalité du traitement. Le Président, Jacques FAUVET.
