@@ -1,0 +1,9 @@
+# Réponse à la question SEQ041014304
+
+- Question : [SEQ041014304](seq041014304.md) — Sécurité du transport ferroviaire de matières dangereuses
+
+## Réponse
+
+*Équipement, JO du 2004-12-30, page 3012*
+
+La conception, la construction, l'exploitation et la gestion de la nouvelle ligne ferroviaire à grande vitesse entre la France et l'Espagne a fait l'objet d'un contrat de concession signé le 17 février 2004 entre les gouvernements français et espagnol et la société TP Ferro Concesionaria SA. Cette nouvelle ligne ferroviaire est destinée au trafic de voyageurs et de marchandises. Dans ce contrat, il est stipulé que la circulation des marchandises dangereuses sur la ligne se conformera à la réglementation du régime international de transport de marchandises dangereuses par chemin de fer (RID). Il est également prévu que les trains transportant des marchandises dangereuses devront être clairement identifiés et devront expressément être déclarés au concessionnaire et au poste de commande de la ligne par les entreprises ferroviaires. Enfin, il ne pourra y avoir au cours de l'exploitation la présence simultanée dans un des deux tubes du tunnel d'un train de marchandises et d'un train de voyageurs. En outre, en application du contrat de concession, les Etats français et espagnol ont décidé le 29 mars 2004 la constitution d'un comité de sécurité, auprès de la commission intergouvernementale franco-espagnole (CIG) agissant au nom des concédants, chargé pour son compte de traiter toutes les questions relatives à la sécurité dans le cadre de la réalisation de la concession. Ce comité de sécurité est composé d'experts du domaine ferroviaire et de la sécurité civile des Etats français et espagnol. Ces experts sont compétents et responsabilisés pour faire, aux autorités concédantes, toute proposition destinée à garantir ou à renforcer la sécurité de l'exploitation de la ligne, notamment vis-à-vis du transport de marchandises dangereuses.
