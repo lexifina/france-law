@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001128986
+
+- Question : [SEQ001128986](seq001128986.md) — Exonération des droits pour la transmission des entreprises dans un cadre familial
+
+## Réponse
+
+*Économie, JO du 2001-01-25, page 270*
+
+Réponse. - Les donations d'entreprises bénéficient d'ores et déjà des avantages fiscaux liés à la transmission anticipée des patrimoines et notamment des réductions de droits de donations qui ont été uniformisées et dont les taux ont été relevés dans le cadre de la loi de finances pour 1999. Ainsi, la réduction de droits applicable est fixée à 50 % lorsque le donateur est âgé de moins de soixante-cinq ans et à 30 % lorsqu'il a soixante-cinq révolus et moins de soixante-quinze ans. Par ailleurs, les donations consenties par actes passés entre le 25 novembre 1998 et le 30 juin 2001, par des donations âgés de soixante quinze au moins bénéficient de la réduction de droits de 30 % précitée. Ces dispositions s'appliquent quel que soit le lien de parenté entre le donateur et le donataire. En outre, l'article 11 de la loi de finances pour 2000, codifié aux articles 790 A et 790 B du code général des impôts prévoit, sous certaines conditions qui ont été assouplies dans le cadre de la discussion du projet de loi de finances pour 2001, une exonération partielle de droits de succession, à hauteur de la moitié de leur valeur, en faveur des transmissions d'entreprises exploitées sous la forme sociétaire ou individuelle. Ces dispositions ont pour objectif d'assurer la continuité des entreprises dont la transmission est très vulnérable à l'occasion du décès du dirigeant ou de l'un de ses actionnaires. Toutefois, une exonération totale de droits de mutation à titre gratuit en faveur des transmissions d'entreprises dans le cadre familial serait excessive et contraire à la logique redistributive de l'impôt de mutation. Dans ces conditions, il n'est pas envisagé de modifier les dispositions actuellement appliquables.
