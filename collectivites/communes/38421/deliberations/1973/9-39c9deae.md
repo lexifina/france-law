@@ -1,0 +1,8 @@
+# 38421 : délibération 9 — Frais de déplacement du Maire, des Adjoints, des Elus (avant le 31/03/1973)
+
+- Collectivité : 38421
+- SIREN : 213804214
+- Code INSEE : 38421
+- Date : 1973-09-14
+- Objet : Frais de déplacement du Maire, des Adjoints, des Elus (avant le 31/03/1973)
+- Jeu de données : https://www.data.gouv.fr/datasets/6580dde7eed34ea14575059e
