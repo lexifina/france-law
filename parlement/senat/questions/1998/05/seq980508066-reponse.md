@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508066
+
+- Question : [SEQ980508066](seq980508066.md) — Avenir du collège du secrétariat bilingue de l'institut français de Londres
+
+## Réponse
+
+*Affaires étrangères, JO du 1998-07-09, page 2222*
+
+Réponse. - Le collège de secrétariat de l'institut français du Royaume-Uni à Londres connaît depuis une dizaine d'années une baisse sensible de ses effectifs, malgré des frais de scolarité réduits. Le seuil de rentabilité des cours s'en est trouvé sensiblement affecté et une fermeture du collège était prévisible à court ou moyen terme en raison des difficultés financières des deux derniers exercices. L'attachement de l'équipe pédagogique à ce type de formations qui correspondent aux exigences professionnelles de nombreux employeurs britanniques a conduit la direction de l'établissement à mettre en uvre un plan de restructuration. Il a donc été décidé d'aligner le coût horaire des cours du collège de secrétariat sur celui des autres cours de français langue étrangère dispensés à l'institut français. Cette décision a permis d'abaisser le seuil de rentabilité des formations tout en maintenant ouverts un certain nombre de cours. Après avoir effectué une étude de marché, il est apparu que le prix d'une année de formation à plein temps au collège de secrétariat de l'institut français se situait dans la moyenne des prix pratiqués par des établissements proposant une formation similaire sur la place de Londres. Afin de relancer l'offre de cours du collège, l'institut a choisi une nouvelle appellation " Business and Office Skills " et propose trois formules de formation : annuelle, semestrielle (Euro PA Course) et trimestrielle. Cette nouvelle politique devrait permettre au collège de secrétariat de maintenir ses effectifs tout en assurant aux enseignants la stabilité de l'emploi.
