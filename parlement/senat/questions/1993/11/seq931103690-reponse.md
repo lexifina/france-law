@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931103690
+
+- Question : [SEQ931103690](seq931103690.md) — Faculté de désignation d'un mandataire en cas d'incapacité
+
+## Réponse
+
+*Justice, JO du 1994-02-17, page 387*
+
+Réponse. - Le choix, par avance, fait par une personne d'un mandataire chargé de gérer ses biens pour le cas où elle ne serait plus capable de le faire se heurte aux principes régissant le mandat. Celui-ci est en effet un contrat révocable, faculté qui ne pourrait plus être exercée en cas d'altération des facultés mentales du mandant. C'est pourquoi l'article 2003 du code civil dispose expressément que le mandat prend fin par la mise sous tutelle du mandant. Cette solution, fondée sur la liberté contractuelle qui doit toujours pouvoir trouver à s'exercer, se justifie en outre aisément sur le plan pratique, les circonstances pouvant changer entre le moment de la désignation du mandataire et celui où le mandat prend effet. Par ailleurs, s'il est vrai que le code civil ne prévoit pas la tutelle testamentaire d'un majeur et que le choix du tuteur est laissé à l'appréciation du conseil de famille ou du juge des tutelles, aucune disposition n'impose de limiter ce choix à l'entourage familial de l'intéressé. A cet égard, il convient de souligner que même dans le cas de la tutelle légale résultant du mariage, le juge peut écarter le conjoint, s'il apparaît qu'une telle désignation n'est pas conforme à l'intérêt du majeur à protéger. Il importe que la liberté du juge des tutelles reste entière en la matière dans l'intérêt même de la personne protégée, lequel doit s'apprécier au moment de l'ouverture de la mesure de protection, notamment en cas de mésentente familiale. Les dispositions en vigueur offrant une souplesse suffisante, il n'apparaît pas opportun d'envisager une réforme sur le point considéré.
