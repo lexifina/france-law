@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000524842
+
+- Question : [SEQ000524842](seq000524842.md) — Intégration du secrétariat d'Etat chargé des anciens combattants au ministère de la défense
+
+## Réponse
+
+*Anciens combattants, JO du 2000-06-22, page 2205*
+
+Réponse. - Le secrétaire d'Etat à la défense chargé des anciens combattants tient à rassurer l'honorable parlementaire quant au maintien des services de proximité que constituent les directions interdépartementales des anciens combattants. Ces services, qui exercent des missions régaliennes, sont très spécialisés et possèdent des personnels très qualifiés. Il ne saurait donc être question de les faire disparaître. Une étude est actuellement menée par le secrétaire général pour l'administration sur les différentes orientations possibles concernant l'avenir de ces directions. Les conclusions devraient en être connues prochainement. Il est toutefois d'ores et déjà possible d'indiquer qu'indépendamment de l'intégration des services du secrétariat d'Etat au sein de ceux du ministère de la défense, il s'agit en priorité de résoudre un problème ancien des directions interdépartementales, celui des sureffectifs, aggravé d'année en année par la baisse de leur activité liée à la baisse démographique des anciens combattants bénéficiaires d'une pension militaire d'invalidité. Cette question sera traitée, site par site, en s'appuyant sur les services interdépartementaux qui seront associés à la réflexion engagée par le secrétaire d'Etat. L'avenir de ces services passe en effet d'abord par une adaptation des effectifs au niveau réel et prévisible d'activité. Cette étude pourra également s'accompagner d'une analyse des pistes d'évolution des missions actuelles et d'une recherche d'attribution de missions nouvelles. Il s'agira ainsi en priorité d'un aménagement, rendu inévitable par l'évolution démographique de la population des anciens combattants, mais nullement d'une suppression pure et simple.
