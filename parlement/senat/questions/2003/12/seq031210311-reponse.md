@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031210311
+
+- Question : [SEQ031210311](seq031210311.md) — Disparition de la peine de mort dans les pays de l'Afrique de l'Ouest
+
+## Réponse
+
+*Affaires étrangères, JO du 2004-11-18, page 2628*
+
+Depuis 1948, date à laquelle la Déclaration universelle des droits de l'homme proclamait que " tout individu a droit à la vie ", le nombre des Etats abolitionnistes de la peine de mort, de facto ou de jure, est passé à 111 sur les quelque 190 pays que comptent la planète. En ce qui concerne la Communauté économique des pays d'Afrique de l'Ouest, dix pays sur quinze ont franchi l'étape, décisive dans la réflexion, de la reconnaissance du caractère sacré du droit à la vie. Trois pays sont abolitionnistes de jure, le Cap-Vert (1981), la Guinée-Bissau (1993) et la Côte d'Ivoire (2000), et d'autres pays s'engagent sur la même voie. L'Assemblée sénégalaise devrait débattre, avant la prochaine journée mondiale de lutte contre la peine de mort en octobre, de l'abolition de la peine capitale. Seuls quatre pays, la Guinée, le Liberia, le Nigeria et la Sierra Leone, ont procédé à des exécutions dans les dix dernières années. Très attachée aux principes énoncés dans la Déclaration universelle des droits de l'homme, la France ne cesse, par l'intermédiaire de l'Union européenne qui s'est fixé cette priorité, d'appeler l'ensemble des Etats, et en particulier ceux d'Afrique de l'Ouest avec lesquels nos relations de coopération sont très étroites, à abolir la peine de mort de leur arsenal répressif. L'abolition de la peine de mort ne pouvant être séparée de la promotion de la défense des droits de l'homme, de la femme et de l'enfant, la France soutient, à travers son aide publique au développement, le renforcement des institutions judiciaires de ces pays, et apporte également son soutien à de nombreuses associations qui oeuvrent à un renforcement des droits de l'homme.
