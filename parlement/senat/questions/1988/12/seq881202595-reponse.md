@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881202595
+
+- Question : [SEQ881202595](seq881202595.md) — Conditions d'attribution de la carte de combattant volontaire de la Résistance
+
+## Réponse
+
+*Anciens combattants, JO du 1989-03-23, page 487*
+
+Réponse. - Par un arrêt en date du 13 février 1987, notifié le 30 mars 1987, le Conseil d'Etat a considéré qu'aux termes de l'article 1er du décret n° 75-725 du 6 août 1975, auquel les disposititons de l'article 18 de la loi n° 86-76 du 17 janvier 1986 ont conféré valeur législative à partir de son entrée en vigueur, ne pouvaient être désormais présentées que les demandes de carte de combattant volontaire de la Résistance fondées sur des services rendus dans la Résistance qui ont fait l'objet d'une homologation par l'autorité militaire. La délivrance de la carte du combattant au titre de la Résistance et de l'attestation de durée des services de Résistance qui préservent les intérêts matériels réservés aux résistants ressortit, depuis l'arrêt précité, des attributions de l'échelon central de l'Office national, après avis de la commission nationale compétente. Cette commission se réunit environ deux fois par mois et apporte toute diligence possible au règlement des affaires en suspens. Le secrétaire d'Etat chargé des anciens combattants et des victimes de guerre a présenté à l'agrément du Gouvernement, qui l'a approuvé, un projet de loi permettant d'accueillir les demandes de carte de combattant volontaire de la Résistance non fondées sur des services résistants homologués par l'autorité militaire. Ce projet de loi sera débattu au cours de la prochaine session du Parlement. Le dispositif qui sera mis en oeuvre prévoit, outre la levée de la forclusion de fait qui existe actuellement, les conditions indispensables à la défense de la valeur du titre de combattant volontaire de la Résistance.
