@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941108568
+
+- Question : [SEQ941108568](seq941108568.md) — Difficulté d'application de l'article 12-4 de la loi relative au surendettement des ménages
+
+## Réponse
+
+*Justice, JO du 1995-01-26, page 205*
+
+Réponse. - Les pouvoirs donnés au juge par l'article 12 de la loi du 31 décembre 1989 devenu l'article L. 332-6 du code de la consommation constituent une dérogation au principe de l'immutabilité des conventions posé par l'article 1134 du code civil. Lorsqu'il est fait application de ce texte pour réduire le montant des sommes restant dues à un établissement de crédit, le débiteur, certes, voit sa situation d'endettement améliorée, mais le créancier subit une modification du contrat qui a une incidence sur les règles de gestion de ses encours de crédit. C'est pourquoi le législateur n'a pas souhaité que cette modification forcée du contrat de prêt puisse intervenir sans limite dans le temps. Il n'a donc permis l'application de l'article L. 332-6 que dans le délai d'un an à compter de la vente. La loi du 31 décembre 1989 relative au surendettement des particuliers réalise un juste équilibre entre la nécessité de venir en aide aux débiteurs surendettés et le respect des droits de leurs créanciers. D'autre part, la vente forcée de l'immeuble a nécessairement été précédée d'une mise en demeure adressée au débiteur. Ce dernier est ainsi informé des exigences de l'établissement financier au moment de la procédure de mise en vente de son logement. Enfin, le délai d'un an, aux termes mêmes de l'article L. 332-6, ne peut être opposé au débiteur qui a saisi une commission d'examen des situations de surendettement. Il semble donc que la difficulté soulignée par la question relève davantage de l'information des débiteurs sur les procédures qui leur sont offertes que d'une modification des textes en vigueur. Le Gouvernement sera attentif à ce que cette information se développe davantage.
