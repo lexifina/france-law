@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990314817
+
+- Question : [SEQ990314817](seq990314817.md) — Représentation des professions libérales au Conseil économique et social
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 1999-05-27, page 1801*
+
+Réponse. - Le Conseil économique et social a pour mission, par la représentation des principales activités économiques et sociales, de favoriser la concertation des différentes catégories professionnelles entre elles et d'assurer leur participation à la politique économique et sociale du Gouvernement. En conséquence, la composition du Conseil économique et social, fixée par l'ordonnance nº 58-1360 du 29 décembre 1958 portant loi organique nº 84-456 du 27 janvier 1984, traduit la volonté d'assurer une représentation diversifiée et équilibrée, mais nécessairement ni exhaustive ni exactement proportionnelle, des activités économiques et sociales et des catégories socioprofessionnelles. La représentation actuelle des professions libérales qui est de trois sièges apparaît certes limitée. Cependant des nominations devant intervenir au Conseil économique et social d'ici au 31 août 1999, il ne paraît pas opportun de procéder à une modification dans la répartition des sièges qui nécessiterait une longue et large concertation. Le décret du 4 juillet 1984 a précisé que les trois sièges dont disposent les professions libérales se répartissent entre les trois grandes familles des professions libérales : les professions de santé, les professions juridiques et les professions techniques. Pour compléter la représentation des professions libérales au sein du Conseil économique et social, diverses personnalités issues de ces professions ont été, en outre, désignées au titre des personnalités qualifiées. Par ailleurs, à l'occasion du renouvellement des membres de section, le Gouvernement a été et sera attentif à la nomination de personnalités appartenant aux diverses professions libérales.
