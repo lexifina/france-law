@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980206011
+
+- Question : [SEQ980206011](seq980206011.md) — Bilan des actions des centres d'évaluation et de traitement de la douleur (CETD)
+
+## Réponse
+
+*Santé, JO du 1998-08-06, page 2578*
+
+Réponse. - Un premier recensement des structures de prise en charge de la douleur chronique rebelle a, en 1994, été effectué dans les établissements de santé. Ce recensement visant à connaître les structures existantes de lutte contre la douleur à l'échelle nationale a conduit à l'époque, notamment dans la région Rhônes-Alpes, à un état des lieux de valeur indicative mais n'a pas permis d'établir une liste exhaustive des structures en fonctionnement. Une instruction ministérielle, en date du 4 février 1998, a été diffusée aux agences régionales d'hospitalisation. Son objet est d'identifier les structures de lutte contre la douleur chronique, en s'appuyant sur des critères d'organisation admis par les professionnels et d'en dresser, dans chaque région, la liste. Elle répond à un double objectif : connaître le fonctionnement des structures à partir de critères qualificatifs et informer les usagers et les professionnels de santé. Ce bilan des moyens mis en uvre pour lutter contre la douleur dans les établissements de santé prend place dans un plan d'actions plus amples dont l'objectif est d'induire des changements d'attitude de la part des usagers et des professionnels du système de santé afin d'améliorer la prise en charge de la douleur ; c'est un des éléments du plan d'action annoncé par le secrétaire d'Etat à la santé. Les moyens supplémentaires qui s'avéreraient nécessaires pour lutter contre la douleur ne pourront être examinés qu'en possession notamment du recueil d'information que prévoit la circulaire précitée du 4 février 1998 et d'une étude d'impact du plan de lutte contre la douleur.
