@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860601322
+
+- Question : [SEQ860601322](seq860601322.md) — Contrat particulier relatif au développement et à la promotion du tourisme en Lorraine
+
+## Réponse
+
+*Tourisme, JO du 1986-07-24, page 1055*
+
+Réponse. -Les négociations en vue de l'élaboration et de la signature du contrat particulier pour le développement et la promotion du tourisme en Lorraine, en exécution de l'article 10 du contrat de Plan Etat-région Lorraine, ont été engagées dans les meilleurs délais à l'initiative du préfet, commissaire de la République de la région Lorraine. Elles ont fait l'objet d'une large concertation tant au niveau régional qu'auprès des services centraux des ministères concernés. En juin et en juillet 1985, le ministre d'Etat, chargé du Plan et de l'aménagement du territoire et le ministre du commerce, de l'artisanat et du tourisme ont donné leur accord à la signature du projet de contrat particulier élaboré en concertation avec la région, en application des dispositions prévues à l'article 11 de la loi du 29 juillet 1982 portant réforme de la planification et aux articles 5 et 6 du décret n° 83-32 du 21 janvier 1983 relatif aux contrats de Plan. Cet accord permettait donc, en ce qui concerne l'Etat, la signature du contrat. Celle-ci a été retardée en raison du souhait des départements de la région Lorraine d'inscrire au contrat un certain nombre d'actions spécifiques qui n'avaient pas été préalablement retenues. Or les demandes particulières de chacun des départements lorrains ne pouvaient être prises en compte que dans la mesure où elles étaient compatibles avec les orientations déjà fixées dans le cadre du contrat de Plan. Il semble que désormais des solutions satisfaisantes pour chacun des partenaires Etat, région et départements aient été trouvées, ce qui devrait permettre la signature du contrat particulier dans les plus brefs délais.
