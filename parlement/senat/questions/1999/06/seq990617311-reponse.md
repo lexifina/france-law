@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990617311
+
+- Question : [SEQ990617311](seq990617311.md) — Taux de TVA réduit pour le secteur du déménagement
+
+## Réponse
+
+*Économie, JO du 2000-01-20, page 203*
+
+Réponse. - La Commission européenne a présenté le 15 mars 1999 une proposition de directive visant à appliquer, à titre expérimental, pour une durée de trois ans à compter du 1er janvier 2000, un taux réduit sur les services à forte intensité de main-d' uvre. Lors de la discussion de cette proposition, les Etats membres ont établi la liste des services susceptibles de bénéficier de cette mesure. Elle comprend les petits services de réparation (bicyclettes, chaussures et articles de cuir, vêtement et linge de maison), la rénovation et la réparation de logements privés, le lavage de vitres et le nettoyage de logements privés, les services de soins à domicile et la coiffure. Chaque Etat membre est tenu de limiter l'expérience à deux, voire trois à titre exceptionnel, des catégories de services ainsi définies. La France a décidé d'appliquer le taux réduit de la TVA, d'une part, aux travaux, autres que de construction ou de reconstruction, portant sur les locaux à usage d'habitation achevés depuis plus de deux ans, d'autre part, aux services d'aide à la personne, y compris le nettoyage des logements privés, fournis par les entreprises agréées en application de l'article L. 129-1-II du code du travail. Ces mesures figurent dans la loi de finances pour 2000. En décidant l'application du taux réduit de la TVA à trois des cinq catégories de services retenues par les Etats membres, la France utilise entièrement les marges de man uvre dont la directive en cours d'adoption lui permet de disposer. Au demeurant, le déménagement ne figure pas sur la liste des services susceptibles de bénéficier du taux réduit telle qu'elle a été établie par les Etats membres. L'application du taux réduit de la TVA à ce secteur ne peut dont pas être envisagée.
