@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960415253
+
+- Question : [SEQ960415253](seq960415253.md) — Prise en charge des congés bonifiés des fonctionnaires territoriaux originaires d'outre-mer et exerçant en métropole
+
+## Réponse
+
+*Fonction publique, JO du 1996-06-20, page 1530*
+
+Réponse. - Il découle de la nouvelle rédaction de l'article 12-1 de la loi du 26 janvier 1984 que le Centre national de la fonction publique territoriale n'a plus à supporter les charges financières résultant de l'application du régime de congé bonifié institué au bénéfice des fonctionnaires territoriaux originaires des départements de Guadeloupe, de Guyane, de Martinique, de la Réunion et de Saint-Pierre-et-Miquelon. Les charges financières correspondantes incombent désormais aux collectivités locales employeurs. Ce transfert de prise en charge des congés bonifiés aux collectivités territoriales employeurs de fonctionnaires territoriaux originaires des départements d'outre-mer participe de la volonté du législatuer du recentrage de l'activité du Centre national de la fonction publique territoriale sur ses missions fondamentales qui sont la formation des fonctionnaires territoriaux et l'organisation de certains concours. Il permet de ne plus imputer sur la cotisation obligatoire versée par toutes les collectivités une charge concernant en fait un nombre peu élevé de collectivités. Le décret no 96-101 du 6 février 1996 portant modifications de dispositions relatives à la fonction publique territoriale prévoit que, si les conditions légales sont remplies par le demandeur, l'autorité territoriale accorde le congé et prend en charge les frais de voyage et le supplément de rémunération afférent au congé bonifié. S'il s'avérait que ce nouveau dispositif législatif génère de réelles difficultés sur le terrain, il pourrait être envisagé de le revoir.
