@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021204776
+
+- Question : [SEQ021204776](seq021204776.md) — Difficultés dans le domaine des politiques d'amélioration de l'habitat
+
+## Réponse
+
+*Équipement, JO du 2003-03-13, page 883*
+
+L'ANAH constitue un outil privilégié de la politique conduite par les pouvoirs publics pour l'amélioration de l'ensemble du parc de logements privés. Dans le cadre de la maîtrise des dépenses publiques, le Gouvernement a souhaité que l'ANAH cible ses interventions sur les domaines qu'il juge prioritaires : développement d'un parc privé à vocation sociale, lutte contre les logements insalubres et prise en compte du développement durable. Dans le cadre de ces orientations générales, l'agence, en tant qu'établissement public autonome, définit elle-même ses modes d'intervention. Ces priorités nationales sont déclinées localement dans les programmes d'actions que chaque commission d'amélioration de l'habitat définit en y incluant ses priorités thématiques et territoriales. D'un point de vue financier, les crédits de l'ANAH pour 2003, qui représentaient 392 millions d'euros dans le projet de loi de finances, ont été abondés de 30 millions d'euros supplémentaires lors de l'examen du budget du ministère à l'Assemblée nationale. De plus, 20 millions d'euros de report de crédits ont été débloqués pour abonder la dotation budgétaire de la loi de finances. Ainsi, le budget de l'ANAH pour 2003 est identique à celui de 2002. Le Gouvernement a, par ailleurs, obtenu de la Commission européenne la prorogation de la TVA à 5,5 % pour les travaux d'entretien, mesure qui équivaut à une subvention de 12 %. Enfin, le taux de la déduction forfaitaire a été porté de 25 % à 40 % pour les opérations " Besson " dans l'ancien. Ces mesures sont de nature à permettre aux propriétaires modestes de rénover leur logement.
