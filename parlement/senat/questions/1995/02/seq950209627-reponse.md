@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950209627
+
+- Question : [SEQ950209627](seq950209627.md) — Lancement d'une campagne de mesures d'oxycarbonémie
+
+## Réponse
+
+*Santé, JO du 1995-05-18, page 1167*
+
+Réponse. - Les problèmes d'intoxication par le monoxyde de carbone se trouvent en priorité dans l'habitat. C'est en effet, la première cause de mortalité par intoxication avec 3 à 400 décès et 5 à 8 000 hospitalitations par an. Aussi, en complément des communiqués de presse faits, annuellement en début d'hiver, le ministère des affaires sociales, de la santé et de la ville a-t-il pris deux mesures. D'une part, une convention pluriannuelle a été signée en 1992 avec Gaz de France pour le remplacement des chauffe-eau non munis de système de sécurité, lesquels sont particulièrement dangereux. 400 chauffe-eau sont ainsi remplacés chaque année depuis 1992. D'autre part, une étude de diagnostic a été confiée à SOS Médecin les hivers 1992-1993 et 1993-1994. Elle a montré le sous-diagnostic des intoxications par le monoxyde carbone. Aussi, le conseil supérieur d'hygiène publique de France a-t-il rendu un avis le 27 octobre 1994 recommandant que les secours d'urgence, notamment les médecins, les pompiers et les SAMU ainsi que tout professionnel de santé intervenant à domicile soient dotés d'un capteur portable de détection du monoxyde de carbone. Le Conseil a recommandé également que les responsables de l'installation et de la maintenance des appareils de chauffage et de production d'eau chaude s'équipent de ce type de capteurs. Par ailleurs, en ce qui concerne les émissions de monoxyde de carbone, les réseaux de surveillance de la qualité de l'air suivent les immissions en milieu urbain et le ministère de la santé a confié à la société française de santé publique, en 1994, le soin de faire le point des effets des polluants automobiles sur la santé. Les résultats sont prévus pour début 1996.
