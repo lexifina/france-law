@@ -1,0 +1,11 @@
+# Réponse à la question SEQ881202806
+
+- Question : [SEQ881202806](seq881202806.md) — Marché européen du livre
+
+## Réponse
+
+*Culture, JO du 1989-02-16, page 270*
+
+Réponse. - La " promotion du livre " a été affirmée comme l'une des quatre priorités de la politique européenne par les ministres de la culture réunis en conseil le 27 mai 1988. Dans ce domaine particulièrement important, il paraît difficile, voire impossible de se soumettre à la seule loi du marché : la prospérité du livre, qui est " un bien culturel " différent de tous les autres, car aucune autre industrie ne propose une telle variété dans la production, repose sur un équilibre fragile entre impératifs commerciaux et exigences culturelles. Cette spécificité du livre justifie la mise en oeuvre de règles adaptées, de commercialisation, et c'est pourquoi des dispositifs de prix unique du livre existent, sous des formes variées, dans onze des douze Etats de la Communauté économique européenne. Ces Etats ont tous considéré ces dispositifs indispensables pour que existent et se développent des réseaux denses et modernes de distribution, nécessaires pour garantir la proximité du livre pour tous ses publics, et par conséquent la survie de la création littéraire dans toute sa diversité. Les institutions européennes ont reconnu la conformité de ces dispositifs nationaux aux règles du Traité de Rome. Ainsi de nombreux arrêts de la Cour de justice des communautés européennes ont conclu à la conformité de la loi du 10 août 1981 modifiée aux règles européennes de libre circulation des marchandises et de concurrence. Seuls les aspects transnationaux qui existent dans les dispositifs français, anglais et néerlandais ont fait, et font, l'objet de discussions entre la commission et les différents Etats concernés. Sur ce point le Gouvernement français est convaincu que des solutions conciliant les intérêts culturels de la Communauté avec les règles juridiques du traité sont possibles. Il est clair que la construction de l'Europe du livre suppose le rapprochement des différents dispositifs nationaux. Le ministre de la culture, de la comm
+
+unication, des grands travaux et du Bicentenaire s'efforcera dans les prochains mois de soumettre, à nouveau, ce point de vue à ses partenaires européens ; la présidence française sera notamment l'occasion de nouvelles propositions.
