@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000625895
+
+- Question : [SEQ000625895](seq000625895.md) — Bilan de l'accord de partenariat passé entre Electricité de France (EDF) et l'Union nationale de la pêche en France (UNPF)
+
+## Réponse
+
+*Industrie, JO du 2000-08-31, page 3026*
+
+Réponse. - Il est exact que, le 22 novembre 1999, lors du congrès national de l'Union nationale de la pêche en France (UNPF), MM. François Roussely, président d'EDF, et Camille Solhellac, président de l'UNPF, ont signé une convention de partenariat qui marque leur volonté réciproque de concilier production hydroélectrique et protection du milieu aquatique. Cette convention est entrée en application le 1er janvier 2000. Elle prévoit d'engager des actions communes pour la protection des milieux aquatiques, le soutien des écoles de pêche ou la création d'emplois-jeunes dans les associations piscicoles. Les projets en provenance de l'Union nationale de la pêche, des fédérations ou des associations sont examinés par un comité paritaire qui décide de l'éligibilité du dossier et du financement accordé. Ce comité est également chargé de régler les différends éventuels. A ce jour, 106 dossiers ont été examinés : 73 ont été agréés, 13 ont été renvoyés pour compléments d'information et 20 ont été rejetés. Les projets présentés se rapportent principalement aux domaines suivants : la promotion de l'activité de la pêche : création d'écoles de pêche, réalisation de postes de pêche pour handicapés, plans départementaux de promotion du loisir pêche ; les plans départementaux pour la protection des milieux aquatiques et la gestion des ressources piscicoles ; les actions de protection des milieux : restauration de frayères, travaux de création d'habitat favorable à la truite, amélioration de l'habitat piscicole ; la dotation d'outils et d'équipements dans le cadre du recrutement d'emplois-jeunes.
