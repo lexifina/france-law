@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900509651
+
+- Question : [SEQ900509651](seq900509651.md) — Protection sociale des sapeurs-pompiers volontaires non professionnels
+
+## Réponse
+
+*Intérieur, JO du 1990-08-02, page 1729*
+
+Réponse. - La modification du régime de protection introduite par le décret du 12 mars 1985 concerne les sapeurs-pompiers non professionnels affiliés à un régime obligatoire de sécurité sociale de salarié. Elle a conduit à faire prendre en charge les indemnités journalières versées aux sapeurs-pompiers non professionnels salariés par les caisses primaires d'assurance maladie. Les collectivités territoriales assument toujours, quant à elles, la prise en charge des soins médicaux, chirurgicaux ou pharmaceutiques et les frais d'hospitalisation non couverts par la sécurité sociale. L'intervention de la sécurité sociale dans le régime de base obligatoire s'effectue sans contrepartie, c'est-à-dire sans cotisation nouvelle à la charge des collectivités territoriales. Pour les non-salariés, en revanche, la collectivité territoriale continue à prendre en charge les indemnités journalières et la totalité des frais médicaux, chirurgicaux, pharmaceutiques et les frais d'hospitalisation résultant de l'accident ou de la maladie survenus en service commandé. Ainsi, il a semblé que l'allégement des dépenses consenties aux collectivités territoriales au titre des obligations mises à leur charge pourrait être utilisé par ces dernières pour souscrire une assurance complémentaire qui permettrait de compenser, pour les sapeurs-pompiers non salariés, la perte réelle de revenu. Enfin, dans le cadre des travaux actuellement menés pour élaborer un nouveau règlement d'emploi des sapeurs-pompiers non professionnels, leur régime de protection sociale fera l'objet d'une étude particulièrement approfondie.
