@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910213915
+
+- Question : [SEQ910213915](seq910213915.md) — Insuffisance des moyens en personnels mis à la disposition du département de l'Hérault
+
+## Réponse
+
+*Éducation, JO du 1991-05-09, page 987*
+
+Réponse. - La situation du département de l'Hérault qui connaît des difficultés réelles, notamment dans le domaine de l'accueil des élèves et dans celui du remplacement des maîtres absents, a toujours été suivie avec attention. Depuis 1983, 313 postes dont 85 au titre de la rentrée 1990 lui ont été attribués, 74 le seront pour la rentrée 1991. D'une manière générale, ce contingent d'emplois supplémentaires, qui a été obtenu grâce à une opération de rééquilibrage des moyens menée à la fois au plan national et à l'échelon académique, a permis non seulement d'accueillir les élèves supplémentaires, mais également d'obtenir d'indéniables améliorations dans les conditions de scolarisation des élèves. A la rentrée 1990, par exemple, trois postes ont été créés pour développer le soutien aux élèves en difficulté ; quatorze postes ont été implantés pour remédier aux problèmes rencontrés pour assurer le remplacement des instituteurs et quatre postes et demi ont été consacrés à l'augmentation du volume des décharges des directeurs d'école. En matière de scolarisation des jeunes enfants, l'accueil des enfants de trois ans est pratiquement généralisé et le pourcentage des enfants de deux ans ayant trouvé une place dans les écoles du département reste très largement supérieur à la moyenne nationale (Hérault : 43,98 p. 100 à la rentrée 1990 ; moyenne France métropolitaine : 35,53 p. 100). La mise en oeuvre des objectifs définis par la loi d'orientation sur l'éducation implique cependant que l'effort consenti en faveur du département de l'Hérault au titre de l'équité se poursuive. Telle est bien l'intention du ministre de l'éducation nationale.
