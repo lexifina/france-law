@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960213614
+
+- Question : [SEQ960213614](seq960213614.md) — Montée de la délinquance à Montpellier (Hérault)
+
+## Réponse
+
+*Intérieur, JO du 1996-05-23, page 1271*
+
+Réponse. - A l'instar de la délinquance nationale, pour laquelle, en 1995, il a été observé une diminution sensible de 6,47 p. 100 sur le territoire et de 4,42 p. 100 sur les secteurs géographiques relevant de la sécurité publique, la circonscription de Montpellier enregistre une tendance semblable puisque les faits criminels et délictueux ont diminué au cours de la même période de 6,38 p. 100. Cette baisse notable est le résultat d'une présence accrue des forces de police sur ce secteur, en raison notamment d'une augmentation des effectifs, qui sont passés de 438 à 516 fonctionnaires entre le 1er janvier 1991 et le 1er mars 1996 (soit une hausse de 17,80 p. 100) et de 10 à 36 policiers auxiliaires. Cet effort particulier fait en faveur de cette ville traduit l'une des priorités essentielles de l'action gouvernementale, celle de mettre à la disposition des services territoriaux de la sécurité publique les moyens adaptés afin qu'ils puissent lutter efficacement contre les phénomènes de la délinquance. Au surplus, cette politique volontariste a été réaffirmée lors de la récente mise en oeuvre du pacte de relance pour la ville, dans lequel la ville de Montpellier est classée dans les zones dites sensibles. Cette mesure se traduira par un nouveau renforcement en personnels actifs de police, en personnels administratifs et techniques et en policiers auxiliaires. Ces importantes mesures de renforcement conjuguées à la récente mise en oeuvre des réformes de la police nationale, notamment celles permettant une meilleure utilisation de ses personnels, dans le but d'optimiser leurs actions quotidiennes, ne manqueront pas d'accroître encore l'efficacité de la police de Montpellier pour garantir la sécurité de ses habitants.
