@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900610479
+
+- Question : [SEQ900610479](seq900610479.md) — Financement du fonds de compensation de l'assurance-construction
+
+## Réponse
+
+*Économie, JO du 1990-10-18, page 2254*
+
+Réponse. - L'article 12 de la loi de finances rectificative pour 1989 et la loi de finances pour 1990 ont établi un dispositif cohérent visant à permettre au fonds de compensation des risques de l'assurance construction de faire face durablement aux charges qui lui incombent. L'économie générale de ces mesures est de partager de manière équilibrée l'effort contributif entre l'Etat, le secteur du bâtiment et le secteur des assurances. L'institution, au bénéfice du fonds, d'une contribution additionnelle de 0,1 p. 100 assise sur le chiffre d'affaires correspondant à l'exécution de travaux ou de prestations de bàtiment pour lesquels une assurance de responsabilité décennale a été souscrite à titre obligatoire ou à titre facultatif, est un élément essentiel de cet ensemble de mesures de redressement. Au demeurant, les entreprises ne contribueront ainsi à l'alimentation du fonds de compensation qu'à la mesure des travaux ou prestations susceptibles d'engager l'action decelui-ci. Dans ce contexte, il est légitime que le principe de solidarité, clairement affirmé lors de la mise en place des mesures précitées, se manifeste au sein même du secteur du bâtiment et que, de ce fait, la contribution additionnelle sur le chiffre d'affaires des professionnels de ce secteur s'impose, selon les mêmes modalités, à toutes les personnes ayant souscrit un contrat de responsabilité décennale. D'ailleurs, le département a prévu de faire le point sur l'exécution de ce dispositif fin 1992, en fonction des recettes réelles et de l'évolution des prévisions des dépenses du fonds de compensation des risques de l'assurance-construction.
