@@ -1,15 +1,15 @@
 # Article 1649 quater
 
-1. Tout commerçant ou industriel forain, ainsi que tout entrepreneur de spectacles forains, est tenu de justifier, à toute réquisition, de son imposition aux impôts directs, aux taxes sur le chiffre d’affaires et aux taxes assimilées à ces impôts et taxes, à peine de saisie ou de séquestre, à ses frais, des marchandises par lui mises en vente et des instruments servant à l’exercice de sa profession, à moins qu’il ne donne caution suffisante jusqu’à la production des justifications exigibles.
+1 Tout commerçant ou industriel forain, ainsi que tout entrepreneur de spectacles forains, est tenu de justifier, à toute réquisition, de son imposition aux impôts directs, aux taxes sur le chiffre d'affaires et aux taxes assimilées à ces impôts et taxes.
 
-Le droit de réquisition prévu ci-dessus est exercé par les maires, juges de paix, tous officiers ou agents de police et gendarmes, ainsi que par les agents des administrations fiscales, du contrôle et des enquêtes économiques et de la répression des fraudes.
+Le droit de réquisition prévu ci-dessus est exercé par les maires, juges des tribunaux d'instance, tous officiers ou agents de police et gendarmes, ainsi que par les agents des impôts, du contrôle et des enquêtes économiques et de la répression des fraudes.
 
-2. La justification exigée des personnes désignées au paragraphe 1 ci-dessus consiste dans la production d’un titre, valable pour une année civile, délivré par le préfet ou le sous-préfet.
+2 La justification exigée des personnes désignées au 1 consiste dans la production d'un titre, valable pour une année civile, délivré par le préfet ou le sous-préfet dans les conditions prévues par l'article 2 du décret n° 53-876 du 22 septembre 1953 et par l'arrêté interministériel visé à l'article 3 de ce décret (1).
 
-3. Sous réserve des dispositions de l’article 1724 bis ci-après, les commerçants, industriels et entrepreneurs de spectacles forains sans résidence fixe sont tenus, en vue de l’établissement de leurs déclarations fiscales, d’élire domicile à une adresse de leur choix.
+3 Le rattachement à une commune prévu pour toute personne qui sollicite la délivrance du titre de circulation institué par la loi n° 69-3 du 3 janvier 1969 relative à l'ensemble des activités ambulantes et au régime applicable aux personnes circulant en France sans domicile ni résidence fixe, produit tout ou partie des effets attachés, au domicile, à la résidence ou au lieu de travail en ce qui concerne l'accomplissement des obligations fiscales.
 
-4. Les conditions d’application du présent article seront fixées par décret.
+4 Les conditions d'application du 3 sont fixées par décrets en Conseil d'Etat (2).
 
-NOTA :
+1) Arrêté à émettre.
 
-Créé par l'article 1er du décret n° 54-1028 du 12 octobre 1954 portant incorporation dans le code général des impôts de divers textes modifiant et complétant certaines dispositions de ce code, JORF du 19 octobre 1954, p. 9775.
+2) Décrets à émettre.

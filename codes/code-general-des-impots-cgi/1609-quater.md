@@ -1,11 +1,7 @@
 # Article 1609 quater
 
-Le fonds spécial institué par l'article 46 de la loi n° 52-799 du 10 juillet 1952 est alimenté notamment par une taxe spéciale de 10.000 francs par an à la charge des personnes ne se trouvant pas dans l’impossibilité d’exercer une activité professionnelle, assujetties à la surtaxe progressive et ne cotisant à aucun régime d’assurance vieillesse.
+Le comité d'un syndicat de communes peut décider, dans les conditions prévues à l'article L 251-4 du code des communes, de lever les impositions mentionnées à l'article 1379-I-1° à 4° en remplacement de la contribution des communes associées; la répartition de ces impositions s'effectue suivant les modalités définies à l'article 1636 B bis.
 
-Cette taxe est recouvrée selon les règles applicables à la surtaxe progressive.
+Ces dispositions sont applicables aux syndicats mixtes ne comprenant d'autres personnes morales que des communes, des syndicats de communes ou des districts.
 
-Un décret détermine les modalités d’application du présent article.
-
-NOTA :
-
-Créé par l'article 1er du décret n° 54-1028 du 12 octobre 1954 portant incorporation dans le code général des impôts de divers textes modifiant et complétant certaines dispositions de ce code, JORF du 19 octobre 1954, p. 9775.
+Les syndicats de communes et les syndicats mixtes sont substitués aux communes pour l'institution de la taxe d'enlèvement des ordures ménagères ou des redevances prévues à l'article 1520, lorsqu'ils assurent la collecte ainsi que la destruction ou le traitement des ordures ménagères.
