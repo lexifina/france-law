@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040612427
+
+- Question : [SEQ040612427](seq040612427.md) — Financement par les communes des écoles privées sous contrat simple et d'association avec l'Etat
+
+## Réponse
+
+*Éducation, JO du 2004-08-12, page 1860*
+
+Il est exact que la participation aux dépenses de fonctionnement matériel d'une école privée sous contrat n'est pas obligatoire pour les communes de résidence des élèves extérieurs à la commune siège. En effet, l'article L. 442-9 du code de l'éducation exclut toute possibilité pour le préfet du département de fixer la répartition des dépenses de fonctionnement de l'école privée, sous contrat d'association, entre les communes de résidence et la commune d'accueil. En outre, l'article 7 du décret du 22 avril 1960 relatif au contrat d'association à l'enseignement public passé par les établissements privés exige l'accord des communes de résidence pour participer aux dépenses de l'école privée située à l'extérieur de leur territoire. La participation des communes aux dépenses de fonctionnement des classes primaires sous contrat simple est facultative conformément à l'article 7 du décret n° 60-390 du 22 avril 1960 relatif au contrat simple passé avec l'Etat par les établissements d'enseignement privés. Toutefois, cette question a fait l'objet d'un examen approfondi par le ministère de l'éducation et celui de l'intérieur et des solutions semblent pouvoir être dégagées dans le cadre de l'intercommunalité. Des dispositions concernant les subventions intercommunales ont d'ores et déjà été inscrites dans le projet de loi relatif aux responsabilités locales qui est en cours d'examen par le Parlement. Ainsi, dès lors qu'un établissement public de coopération intercommunale (EPCI) se dotera de la compétence scolaire, celle-ci concernera automatiquement l'enseignement privé. De plus, le périmètre de l'EPCI servira de référence pour apprécier la résidence des élèves.
