@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860802447
+
+- Question : [SEQ860802447](seq860802447.md) — Réglementation de la publicité sur les routes nationales et départementales et les voies communales
+
+## Réponse
+
+*Équipement, JO du 1986-12-11, page 1725*
+
+Réponse. -Par la loi n° 79-1150 du 29 décembre 1979 relative à la publicité, aux enseignes et au préenseignes, le législateur a manifesté une volonté nouvelle d'intégrer la publicité dans l'aménagement de l'espace. Ainsi la réglementation nationale suffit en général pour maîtriser l'aménagement publicitaire d'une commune et assurer la protection du cadre de vie et de l'environnement comme le prescrit l'article 2 de la loi. Toutefois, pour la grandes agglomérations ou pour les agglomérations soumises aux dispositions de l'article 7, il est opportun d'instituer des zones de publicité spécifiques, adaptées aux circonstances locales. La délimitation de ces zones, ainsi que les prescriptions spéciales qui s'y appliquent, sont préparées par un groupe de travail présidé par le maire (art. 13 de la loi). La publicité est absolument interdite dans les secteurs qui relèvent de l'article 4 de la loi. Pour ce qui est des zones situées hors agglomérations, la publicité y estinterdite sauf si un règlement local de publicité institue une zone de publicité autorisée. Ces zones ne peuvent être situées qu'à proximité immédiate des établissements commerciaux et industriels ou des centres artisanaux ou dans des groupements d'habitations (art. 6 de la loi). Afin toutefois de favoriser, au niveau local, la mise en place de plans d'implantation cohérents de la publicité, des réflexions sont actuellement engagées en vue de conférer aux collectivités territoriales des pouvoirs accrus en la matière, et également de les inciter à engager des démarches intercommunales.
