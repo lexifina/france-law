@@ -1,0 +1,9 @@
+# Réponse à la question SEQ041114436
+
+- Question : [SEQ041114436](seq041114436.md) — Justice de proximité
+
+## Réponse
+
+*Justice, JO du 2005-02-24, page 555*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire qu'instituée par la loi d'orientation et de programmation pour la justice du 9 septembre 2002, la juridiction de proximité pour laquelle il est prévu un recrutement de 3 300 juges, a été mise en place le 15 septembre 2003. En ce qui concerne les effectifs, 306 juges de proximité ont pris leurs fonctions au début du mois de janvier 2005 dans l'ensemble des cours d'appel de métropole et des départements d'outre-mer. Le Conseil supérieur de la magistrature a été saisi, à 6 reprises, de 854 candidatures et un peu plus de 100 candidats effectuent actuellement un stage probatoire en juridiction. Saisi début décembre de 164 candidatures, le Conseil rendra ses avis prochainement. L'activité de ces juges en matière civile représente environ, selon les juridictions, 5 % à 8 % de l'activité du tribunal d'instance ; l'activité pénale constituée du contentieux de la presque totalité des contraventions des 4e premières classes et quelques unes de la 5e classe représente 80 % environ de l'activité du tribunal de police. Le nombre des audiences varie de 1 à 2 audiences par mois qui comptent en moyenne plus de 30 dossiers pour les contraventions des 4 premières classes. Enfin, la loi n° 2005-47 du 26 janvier 2005 accroît les compétences des juges de proximité, tant en matière civile par une augmentation du seuil de compétence à 4 000 euros qu'en matière pénale par une participation aux audiences correctionnelles collégiales. Cette réforme permettra en tout état de cause de favoriser un meilleur ancrage du juge de proximité au sein de l'institution judiciaire, pour laquelle elle constitue un réel enrichissement.
