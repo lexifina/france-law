@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021204629
+
+- Question : [SEQ021204629](seq021204629.md) — Démantèlement de l'usine de production d'uranium de Pierrelatte
+
+## Réponse
+
+*Écologie, JO du 2003-05-08, page 1545*
+
+La ministre de l'écologie et du développement durable a pris connaissance, avec intérêt, de la question concernant les coûts et délais de démantèlement de certaines installations nucléaires situées à Pierrelatte et à Marcoule. A l'heure actuelle, les évaluations que l'on peut faire quant au démantèlement de ces unités sont les suivantes. Le programme de démantèlement des unités de diffusion gazeuse de l'usine d'enrichissement d'uranium à Pierrelatte, décidé en avril 1995, a été entamé au début de l'année 1997 par des opérations pilotes de désassemblage de diffuseurs. Il se poursuit actuellement en phase industrielle et doit se terminer fin 2007. Son coût global, tel que réévalué en 2002, est de 3,2 milliards de francs (aux conditions économiques de 1999), soit 485 millions d'euros. Le programme de mise à l'arrêt définitif des unités de retraitement de l'usine de production de plutonium de Marcoule a été entamé après la cessation définitive d'exploitation de l'usine UP1 fin 1997. Il est associé au programme de reprise et conditionnement des déchets anciens entreposés sur le site de Marcoule (RCD) et au programme de démantèlement des installations (DEM). La durée des opérations relatives à ces programmes est estimée à quarante ans. Leur coût a été initialement évalué à 37 milliards de francs (aux conditions économiques de 1996), soit 5,6 milliards d'euros. Les ordres de grandeur indiqués dans la question correspondent donc aux prévisions actuelles. Les services de contrôle, sous l'autorité du Gouvernement, sont particulièrement attentifs à ce que ces programmes d'une grande ampleur ne dérivent ni en termes de coûts ni en termes de délais.
