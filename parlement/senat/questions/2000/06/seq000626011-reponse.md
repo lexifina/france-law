@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000626011
+
+- Question : [SEQ000626011](seq000626011.md) — Rémunération du livret A des caisses d'épargne
+
+## Réponse
+
+*Économie, JO du 2000-10-05, page 3386*
+
+Réponse. - A la suite de la réunion du comité consultatif des taux réglementés, le Gouvernement a décidé que la rémunération du livret A de la Caisse d'épargne, du livret bleu du Crédit mutuel et du Codevi passerait de 2,25 % à 3 %. Ces augmentations de rémunération ont des effets positifs sur les titulaires du livret d'épargne populaire, des comptes d'épargne logement et des plans d'épargne logement. C'est la première fois depuis dix-neuf ans que la rémunération du livret A est augmentée. En prenant cette décision, en liaison avec le ministre de l'équipement, des transports et du logement, et sous l'autorité du Premier ministre, le ministre de l'économie, des finances et de l'industrie a souhaité favoriser la rémunération de l'épargne populaire, et éviter un financement trop coûteux du logement social. C'est la raison pour laquelle le Gouvernement a pris des mesures pour limiter l'impact de ces augmentations sur les annuités des sociétés HLM, consolidant ainsi les engagements de gel des loyers décidé l'année dernière. Enfin, le Gouvernement a mis à profit le supplément de collecte pour mettre en place chaque année 10 milliards de francs de prêts supplémentaires à de nouveaux emplois au-delà du logement social : amélioration du financement du cadre urbain et de l'habitat, mise en sécurité d'infrastructures collectives de transports, en particulier des ponts et des tunnels, qualité de l'environnement et prévention des risques. La décision qui a été prise et qui concerne plusieurs dizaines de millions de Français est un gage du souci que le Gouvernement a de favoriser l'épargne populaire. Les évolutions récentes de ses encours en attestent.
