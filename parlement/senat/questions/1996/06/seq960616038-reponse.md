@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960616038
+
+- Question : [SEQ960616038](seq960616038.md) — Application de la loi relative aux droits et à la protection des personnes hospitalisées en raison de troubles mentaux
+
+## Réponse
+
+*Travail, JO du 1996-08-08, page 2091*
+
+Réponse. - L'évaluation de l'application de la loi no 90-527 du 27 juin 1990 relative aux droits et à la protection des personnes hospitalisées en raison de troubles mentaux et à leurs conditions d'hospitalisation a été mise en place par une note de service de la direction générale de la santé en date du 8 février 1995. Ce document prévoyait une évaluation en deux temps : tout d'abord il a été demandé aux directeurs régionaux des affaires sanitaires et sociales de désigner une personne référente au niveau de la région pour coordonner les observations de tous les acteurs du terrain (services administratifs, médecins, associations de malades, magistrats, personnel de police...) et en faire la synthèse. Les rapports ont été établis par les régions : ils sont diffusés aux services déconcentrés et aux professionnels qui en font la demande. Un groupe de travail, composé de professionnels (représentants des administrations de la santé, de la justice, de l'intérieur, d'associations de malades et de familles de malades, un praticien hospitalier, un soignant, un directeur d'hôpital, un psychiatre libéral, un médecin généraliste et un référent régional), se réunit chaque mois depuis octobre 1995 sous la présidence de Mme Hélène Strohl, inspecteur à l'inspection générale des affaires sociales, pour examiner les observations régionales, les commentaires des commissions départementales des hospitalisations psychiatriques et les difficultés d'application de la loi du 27 juin 1990. A l'issue de ces travaux, à la fin de l'année 1996, un document d'évaluation de la loi du 27 juin 1990 sera rédigé permettant d'améliorer le dispositif législatif et réglementaire.
