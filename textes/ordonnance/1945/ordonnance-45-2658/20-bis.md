@@ -1,6 +1,6 @@
 # Article 20 bis
 
-I. - Est punie d'une amende d'un montant maximum de 10 000 F l'entreprise de transport aérien ou maritime qui débarque sur le territoire français, en provenance d'un autre Etat, un étranger non ressortissant d'un Etat membre de la Communauté économique européenne et démuni du document de voyage et, le cas échéant, du visa requis par la loi ou l'accord international qui lui est applicable à raison de sa nationalité.
+I. - Est punie d'une amende d'un montant maximum de 10 000 F l'entreprise de transport aérien ou maritime qui débarque sur le territoire français, en provenance d'un autre Etat, un étranger non ressortissant d'un Etat membre de la Communauté européenne et démuni du document de voyage et, le cas échéant, du visa requis par la loi ou l'accord international qui lui est applicable à raison de sa nationalité.
 
 Le manquement est constaté par un procès-verbal établi par un fonctionnaire appartenant à l'un des corps dont la liste est définie par décret en Conseil d'Etat. Copie du procès-verbal est remise à l'entreprise de transport intéressée. Le manquement ainsi relevé donne lieu à une amende prononcée par le ministre de l'intérieur. L'amende peut être prononcée autant de fois qu'il y a de passagers concernés. Son montant est versé au Trésor public par l'entreprise de transport.
 
@@ -10,7 +10,7 @@ Le ministre ne peut infliger d'amende à raison de faits remontant à plus d'un 
 
 II. - L'amende prévue au premier alinéa du présent article n'est pas infligée :
 
-1° Lorsque l'étranger non ressortissant d'un Etat membre de la Communauté économique européenne qui demande l'asile a été admis sur le territoire français ou lorsque la demande d'asile n'était pas manifestement infondée ;
+1° Lorsque l'étranger non ressortissant d'un Etat membre de la Communauté européenne qui demande l'asile a été admis sur le territoire français ou lorsque la demande d'asile n'était pas manifestement infondée ;
 
 2° Lorsque l'entreprise de transport établit que les documents requis lui ont été présentés au moment de l'embarquement ou lorsque les documents présentés ne comportent pas un élément d'irrégularité manifeste.
 

@@ -6,23 +6,23 @@ Les mesures d'incitation économique sont accompagnées de la mise en oeuvre imm
 
 1. Un programme d'amélioration et de modernisation des infrastructures est engagé. Il comporte les opérations suivantes :
 
-- en Guadeloupe, l'amélioration des infrastructures portuaires ;
+-en Guadeloupe, l'amélioration des infrastructures portuaires ;
 
-- en Guyane :
+-en Guyane :
 
-- un programme de construction de voies d'accès à la ressource forestière ;
+-un programme de construction de voies d'accès à la ressource forestière ;
 
-- une étude en vue de l'amélioration des infrastructures portuaires ;
+-une étude en vue de l'amélioration des infrastructures portuaires ;
 
-- un complément de financement pour la reconstruction du centre hospitalier de Cayenne.
+-un complément de financement pour la reconstruction du centre hospitalier de Cayenne.
 
-- en Martinique, l'achèvement de la construction de la rocade routière de Fort-de-France.
+-en Martinique, l'achèvement de la construction de la rocade routière de Fort-de-France.
 
-- à Mayotte, la réalisation d'un port en eau profonde et l'aménagement de la piste d'atterrissage.
+-à Mayotte, la réalisation d'un port en eau profonde et l'aménagement de la piste d'atterrissage.
 
-- à Saint-Pierre-et-Miquelon, l'amélioration des conditions de la desserte et le désenclavement économique de l'archipel.
+-à Saint-Pierre-et-Miquelon, l'amélioration des conditions de la desserte et le désenclavement économique de l'archipel.
 
-2. Dans les départements d'outre-mer, des opérations intégrées de développement seront proposées au financement de la Communauté économique européenne. A ce titre, l'opération intégrée de développement de la Réunion bénéficie de façon prioritaire du concours financier de l'Etat.
+2. Dans les départements d'outre-mer, des opérations intégrées de développement seront proposées au financement de la Communauté européenne. A ce titre, l'opération intégrée de développement de la Réunion bénéficie de façon prioritaire du concours financier de l'Etat.
 
 3. A Mayotte, l'Etat arrêtera avant le 31 décembre 1986, en concertation avec les élus locaux, un plan pluriannuel de développement agricole comprenant notamment un programme d'actions incitatives en faveur d'aménagements hydrauliques et du développement des cultures vivrières, maraîchères et fruitières.
 

@@ -1,8 +1,8 @@
 # Article 5 bis
 
-La commission peut, dans les mêmes conditions, selon les mêmes procédures et sous les mêmes sanctions que celles prévues par la présente ordonnance pour l'exécution de sa mission, conduire des enquêtes à la demande d'autorités étrangères exerçant des compétences analogues, sous réserve de réciprocité, sauf s'il s'agit d'une demande émanant d'une autorité d'un autre Etat membre des communautés européennes.
+La commission peut, dans les mêmes conditions, selon les mêmes procédures et sous les mêmes sanctions que celles prévues par la présente ordonnance pour l'exécution de sa mission, conduire des enquêtes à la demande d'autorités étrangères exerçant des compétences analogues, sous réserve de réciprocité, sauf s'il s'agit d'une demande émanant d'une autorité d'un autre Etat membre des communautés européennes ou d'un autre Etat membre partie à l'accord sur l'Espace économique européen.
 
-L'obligation de secret professionnel prévue à l'article 5 ne fait pas obstacle à la communication par la Commission des opérations de bourse des informations qu'elle détient ou qu'elle recueille à leur demande aux autorités des autres Etats membres des communautés européennes exerçant des compétences analogues et astreintes aux mêmes obligations de secret professionnel.
+L'obligation de secret professionnel prévue à l'article 5 ne fait pas obstacle à la communication par la Commission des opérations de bourse des informations qu'elle détient ou qu'elle recueille à leur demande aux autorités des autres Etats membres des communautés européennes ou des autres Etats parties à l'accord sur l'Espace économique européen exerçant des compétences analogues et astreintes aux mêmes obligations de secret professionnel.
 
 La Commission des opérations de bourse peut également communiquer les informations qu'elle détient ou qu'elle recueille à leur demande aux autorités des autres Etats exerçant des compétences analogues, sous réserve de réciprocité, et à condition que l'autorité étrangère compétente soit soumise au secret professionnel avec les mêmes garanties qu'en France.
 
