@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010633666
+
+- Question : [SEQ010633666](seq010633666.md) — Transport aérien : amélioration de l'accueil des personnes handicapées
+
+## Réponse
+
+*Équipement, JO du 2001-09-27, page 3113*
+
+Comme le rappelle l'honorable parlementaire, un code de bonne pratique sur l'accessibilité des services aériens commerciaux aux personnes handicapées a effectivement été signé le 30 mai 2000 entre le ministre de l'équipement, des transports et du logement et sept compagnies aériennes françaises. Par ailleurs, la Conférence européenne de l'aviation civile (CEAC) a entrepris de recenser les procédures appliquées pour la facilitation du transport des personnes à mobilité réduite par les compagnies aériennes des pays membres de cet organisme. Par conséquent, des questionnaires ont été élaborés par les services de la direction générale de l'aviation civile, en liaison avec le président du comité national de facilitation, qui seront prochainement adressés aux transporteurs aériens français. Cette enquête devrait donc permettre de disposer, à la fin de cette année, d'éléments sur les conditions de prise en charge des passagers handicapés par les différentes compagnies, signataires ou non du code de bonne pratique. Elle permettra notamment de déterminer si celles qui n'ont pas adhéré mettent néanmoins en oeuvre les recommandations préconisées tant par l'Organisation de l'aviation civile internationale (OACI) que par la CEAC pour l'accessibilité des services de transports aériens commerciaux aux personnes handicapées, et qui sont en grande partie à l'origine de celles figurant dans le code de bonne pratique. En tout état de cause, les transporteurs aériens non signataires de ce code seront à nouveau invités, à l'occasion de la diffusion des questionnaires, à opposer leur signature sur ce document, et à contribuer ainsi à l'harmonisation des conditions de transport des personnes handicapées sur les lignes aériennes françaises.
