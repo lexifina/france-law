@@ -1,0 +1,11 @@
+# Réponse à la question SEQ920922688
+
+- Question : [SEQ920922688](seq920922688.md) — Montant des crédits affectés à la lutte contre l'alcoolisme
+
+## Réponse
+
+*Budget, JO du 1992-10-08, page 2295*
+
+Réponse. - Le dispositif de régulation budgétaire décidé par le Premier ministre a pour objet exclusif de faire face aux risques de dégradation de la situation budgétaire en 1992. En effet, comme il était prévisible au vu des résultats de 1991, les pertes de recettes enregistrées au cours de cet exercice se retrouvent mécaniquement dans l'exécution de 1992. Le Gouvernement a clairement exposé sa ligne de conduite face à cette situation : refus d'augmenter les impôts pour tenter de composer les pertes de recettes ; maîtrise de l'évolution des dépenses pour contenir leur montant dans les strictes limites prévues par la loi de finances, malgré les nouvelles charges intervenues (accord salarial et dépenses pour l'emploi notamment). De ce fait, le dispositif de régulation n'a pas pour objet de réduire globalement les crédits, mais bien de respecter le plafond de dépenses autorisé par le Parlement. Ce dispositif de mise en réserve des crédits s'applique au ministère des a
+
+ffaires sociales comme à l'ensemble des départements ministériels. Il ne remet aucunement en cause l'intervention de l'Etat dans le domaine de la lutte contre l'alcoolisme. En effet, l'Etat s'est d'ores et déjà très largement préoccupé de la prévention contre l'alcoolisme, source de maladie, de désinsertion, véritable fléau social. Cet effort s'est notamment traduit par une augmentation des crédits affectés à cette action de près de 25 p. 100 entre 1989 et 1992. Cette croissance extrêmement importante, qui s'est trouvée consolidée à un haut niveau en loi de finances pour 1992, concrétise sans contestation possible le caractère prioritaire qu'attache l'Etat à cette politique. Il convient enfin de rappeler qu'aux 160 MF prévus dans la loi de finances s'ajoutent les crédits du fonds de prévention, d'éducation et d'information sanitaire de la Caisse nationale d'assurance maladie, qui financent ce type d'actions à hauteur de 11,2 MF. Ces précisions illustrent l'engagement de l'Etat dans ce domaine, engagement sur lequel il n'est absolument pas question de revenir.
