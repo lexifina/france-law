@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961219570
+
+- Question : [SEQ961219570](seq961219570.md) — Restructuration de la gendarmerie dans le département du Pas-de-Calais
+
+## Réponse
+
+*Défense, JO du 1997-01-23, page 203*
+
+Réponse. - La loi no 95-73 du 21 janvier 1995 d'orientation et de programmation relative à la sécurité fixe à la police et à la gendarmerie nationale des objectifs d'harmonisation et de complémentarité. C'est dans cet esprit que la gendarmerie mêne des réflexions sur son organisation dans les zones de police d'Etat, en recherchant notamment à renforcer son dispositif dans les zones urbaines et périurbaines où elle accomplit seule les missions de sécurité publique. Il convient de préciser que les redéploiement prévus dans les zones de police d'Etat n'altéreront en aucune façon la continuité et la qualité du service public, car la police y assure d'ores et déjà des missions de sécurité publique. De plus, les services de police ne connaîtront aucune charge supplémentaire dans la mesure où la gendarmerie poursuivra l'intégralité des missions des brigades dissoutes à partir des brigades voisines, qui seront renforcées en conséquence. En ce qui concerne précisément le département du Pas-de-Calais, les redéploiements d'effectifs envisagés sont très modestes et permettront d'améliorer l'efficacité de la gendarmerie. Ainsi, le redéploiement en 1997 des effectifs des brigades de Liévin et de Noeux-les-Mines permettra de créer dans le département une brigade de prévention de la délinquance juvénile et de renforcer des brigades périurbaines particulièrement chargées dont la circonscription relève de la compétence de la gendarmerie en matière de sécurité publique. En tout état de cause, la gendarmerie maintiendra son maillage territorial, dans les zones rurales, de façon à poursuivre son action de proximité auprès des populations qui participent à l'entretien d'un sentiment sécuritaire.
