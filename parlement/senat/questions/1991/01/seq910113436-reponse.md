@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910113436
+
+- Question : [SEQ910113436](seq910113436.md) — Statut des agents des services extérieurs du ministère affectés aux DDASS et aux DRASS
+
+## Réponse
+
+*Affaires sociales, JO du 1991-08-01, page 1605*
+
+Réponse. - La formation et le déroulement de carrière des inspecteurs des affaires sanitaires et sociales qui jouent un rôle primordial dans la continuité de la politique sanitaire et sociale font l'objet d'une attention particulière. Ainsi, les futurs inspecteurs des affaires sanitaires et sociales seront désormais recrutés par un concours spécifique et la durée de leur formation initiale sera portée à deux ans, cela afin de tenir compte de la spécificité des fonctions de ces personnels et des compétences accrues que ceux-ci devront acquérir notamment dans l'exercice de la tutelle hospitalière. En effet, la loi portant réforme hospitalière amènera d'importants changements dont la mise en oeuvre reviendra aux inspecteurs des affaires sanitaires et sociales. Les effectifs de cette catégorie d'agents vont d'ailleurs être renforcés. Ainsi est-il prévu de recruter soixante-cinq inspecteurs supplémentaires sur trois ans. De plus, grâce à un plan de revalorisation, le niveau des indemnités va être porté à hauteur de 15 p. 100 de la masse salariale et ce dès l'année 1992. Le ministère a en effet obtenu une accélération du calendrier de la mise en oeuvre de ce plan qui, initialement, ne devait aboutir qu'en 1993. Ainsi, pour l'année 1990, le régime indemnitaire a été porté à 9 p. 100 de la masse salariale. Pour l'année 1991, il sera porté à 12 p. 100 pour atteindre 15 p. 100 à compter du 1er janvier 1992. Des réflexions sont en cours sur l'avenir des services extérieurs des affaires sanitaires et sociales. Il n'est aucunement question de supprimer les directions départementales.
