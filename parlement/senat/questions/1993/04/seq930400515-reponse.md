@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930400515
+
+- Question : [SEQ930400515](seq930400515.md) — Elaboration d'un plan de sécurité des villes : augmentation des effectifs de police
+
+## Réponse
+
+*Intérieur, JO du 1993-08-05, page 1343*
+
+Réponse. - La lutte menée contre toutes les formes de délinquance urbaine engage en premier lieu la police nationale et exige la mobilisation de l'ensemble de ses services. Elle s'insère dans une politique globale de sécurité et implique nécessairement les différents partenaires concernés, en particulier les communes par le biais des polices municipales. Aussi, les tâches assumées par ces dernières sont-elles particulièrement appréciées, puisqu'elles permettent aux personnels de la police nationale de mieux se consacrer à leurs missions de prévention, de dissuasion et de répression de la délinquance. Depuis le 1er mai 1993, le potentiel du personnel de la police nationale affecté dans le département de la Seine-Saint-Denis, s'élève à 4 046 unités, dont 3 294 gradés et gardiens de la paix en tenue et 245 policiers auxiliaires. A ces chiffres, il convient d'ajouter 35 agents de surveillance de la police nationale essentiellement chargés de missions de protection des enfants, lors des entrées et des sorties d'établissements scolaires. Cette capacité opérationnelle est supérieure à celle des trois années précédentes et à l'effectif moyen de référence défini au regard des charges judiciaires et administratives supportées localement. Il en est de même pour la circonscription de police nationale de Saint-Ouen (42 611 habitants), qui dispose à la date du 1er mai 1993 d'un effectif de 132 unités dont 111 gradés et gardiens de la paix et quatre policiers auxiliaires. Enfin, trois postes de commissaires de police, ainsi que sept postes d'inspecteurs de police sont diffusés au plan national, dans le cadre du mouvement général annuel de mutation des fonctionnaires en vue d'une affectation en Seine-Saint-Denis, le 1er septembre 1993.
