@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941108696
+
+- Question : [SEQ941108696](seq941108696.md) — URSSAF et réintégration dans l'assiette des cotisations des primes d'intéressement
+
+## Réponse
+
+*Affaires sociales, JO du 1994-12-08, page 2886*
+
+Réponse. - La circulaire interministérielle du 3 janvier 1992 a précisé la portée de l'article 4 de l'ordonnance no 86-1134 modififiée du 21 octobre 1986 relatif à la non-substitution de la prime d'intéressement à des éléments de salaire en prévoyant que l'assiette à prendre en compte pour apprécier cette notion est constituée de " toutes les sommes versées aux salariés que ce soit les éléments du salaire obligatoires pour l'employeur ou les éléments aléatoires que l'employeur peut à tout moment supprimer ou modifier ". Il est vrai, néanmoins, que dans certains cas l'article 4 de l'ordonnance précitée a pu conduire certaines URSSAF à porter des appréciations divergentes sur des dossiers de même nature. Aussi, la loi no 94-640 du 25 juillet 1994 relative à l'amélioration de la participation des salariés dans l'entreprise a modifié sur deux points l'article 4 de l'ordonnance relatif à la substitution. En premier lieu, il a précisé que l'assiette à prendre en compte dans l'appréciation de la substitution est la rémunération au sens de l'article L. 242-1 du code de la sécurité sociale, ce qui inclut toute rémunération versée en contrepartie ou à l'occasion du travail et met fin à l'ambiguïté existant entre les notions de salaire et de rémunération. En second lieu, cet article a fixé un délai pour apprécier ce principe. Dès lors qu'une période de douze mois entre le dernier versement de tout ou partie d'un élément de rémunération supprimé et la date d'effet de l'accord d'intéressement s'est écoulée, le principe de substitution ne pourra être invoqué.
