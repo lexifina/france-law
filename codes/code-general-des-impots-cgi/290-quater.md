@@ -8,8 +8,10 @@ II. - Lorsqu'ils ne délivrent pas de billets d'entrée en application du I, les
 
 Les conditions d'application du présent paragraphe sont fixées par décret (2).
 
-III. - Les infractions aux dispositions du présent article de l'arrêté pris pour son application sont recherchées et poursuivies comme en matière de contributions indirectes.
+III. - Les infractions aux dispositions du présent article ainsi qu'aux textes pris pour leur application sont recherchées, constatées, poursuivies et sanctionnées comme en matière de contributions indirectes (3).
 
 (1) Annexe IV, art. 50 sexies B à 50 sexies H.
 
-(2) Annexe III, art. 96 B à 96 E.
+(2) Annexe III, art. 96 B à 96 D.
+
+(3) Voir art. 1791 bis.
