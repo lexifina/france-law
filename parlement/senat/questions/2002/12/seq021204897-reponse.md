@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021204897
+
+- Question : [SEQ021204897](seq021204897.md) — Défaillance de l'employeur dans le versement des cotisations et contributions sociales
+
+## Réponse
+
+*Affaires sociales, JO du 2003-12-04, page 3499*
+
+Actuellement, pour les personnes affiliées de droit au régime général et relevant d'une entreprise n'ayant pas d'établissement en France, une disposition réglementaire, le deuxième alinéa de l'article R. 243-4 du code de la sécurité sociale (issu d'un décret du 8 juin 1946), prévoit que le salarié est responsable de l'exécution des obligations incombant à son employeur, et notamment du versement des cotisations et contributions sociales, part patronale et part salariale. Le souhait du Gouvernement est de mettre fin à cette situation contestable. Aussi, le projet de loi de financement de la sécurité sociale pour 2004 prévoit la mise en place d'un dispositif permettant à un employeur non établi en France de remplir ses obligations relatives aux déclarations et versements de cotisations et contributions auxquels il est tenu au titre de l'emploi de personnel salarié exerçant son activité sur notre territoire et relevant de notre régime général de la sécurité sociale. La réforme consiste à mettre en place, à l'échelon national, une organisation spécifique de recouvrement pour cette catégorie particulière de salariés - désignation d'une URSSAF à compétence exclusive - qui permettra à l'employeur de remplir directement ses obligations. Par ailleurs, il lui est offert la faculté de désigner un représentant résidant en France, personnellement responsable desdites obligations. L'adoption de cette disposition permettra de répondre au souci exprimé par l'honorable parlementaire et dégagera le salarié de la responsabilité d'assumer des obligations inhérentes à la qualité d'employeur.
