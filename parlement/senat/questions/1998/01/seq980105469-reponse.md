@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980105469
+
+- Question : [SEQ980105469](seq980105469.md) — Remplacement des directeurs et directrices de crèches ou haltes-garderies
+
+## Réponse
+
+*Emploi, JO du 1998-05-14, page 1553*
+
+Réponse. - L'honorable parlementaire a appelé l'attention de la ministre de l'emploi et de la solidarité sur la responsabilité du directeur ou de la directrice de crèche et de halte-garderie et sur les aspects réglementaires de leur remplacement en cas d'absence. Les établissements et services accueillant des enfants de moins de six ans sont placés sous la responsabilité et l'autorité de la personne physique ou morale de droit privé qui les a créées et qui les gère. La réglementation en vigueur précise bien, notamment l'article 8 de l'arrêté du 5 novembre 1975 et l'article 3 de l'arrêté du 26 février 1979, qu'il revient à cette autorité d'organiser le fonctionnement de la structure conformément aux dispositions légales et en accord avec le service du conseil général du département assurant la mission de protection maternelle et infantile. Dans tous les cas, il appartient au directeur de prendre les mesures nécessaires pour assurer la continuité du fonctionnement de la structure, par exemple en confiant à titre temporaire l'autorité de la structure à une personne justifiant de la qualification nécessaire pour remplacer le directeur dans ses fonctions de direction. Un projet d'actualisation du décret relatif aux établissements et aux services précités est actuellement examiné par le Gouvernement. Dans le cadre des consultations en cours, il sera envisagé d'apporter des précisions complémentaires sur la manière de prendre en charge les difficultés de fonctionnement liées aux situations d'absence temporaire du directeur de ces établissements et services d'accueil afin que la sécurité des enfants et la qualité des services soient toujours assurées.
