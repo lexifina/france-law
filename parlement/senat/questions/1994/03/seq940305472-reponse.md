@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940305472
+
+- Question : [SEQ940305472](seq940305472.md) — Montant des allocations chômage des militaires pensionnés
+
+## Réponse
+
+*Travail, JO du 1994-07-21, page 1823*
+
+Réponse. - La commission paritaire nationale du régime d'assurance chômage avait en effet adopté, en avril 1992, une délibération limitant le cumul d'une allocation d'assurance chômage avec un avantage de vieillesse. Le montant de l'allocation de chômage était diminué de 75 p. 100 du montant de l'avantage de vieillesse pour tout allocataire titulaire d'un avantage de vieillesse à caractère viager liquidé ou liquidable, dès lors qu'il ne remplissait pas les conditions d'âge et de durée d'assurance requises pour bénéficier d'une retraite entraînant l'interruption du service des allocations. Cette situation apparaissant pénalisante, les pouvoirs publics sont intervenus auprès des partenaires sociaux pour leur demander de réexaminer le plus rapidement possible cette question et d'assouplir les règles de cumul. La commission paritaire nationale du régime d'assurance chômage, réunie le 28 avril 1993, a modifié la délibération no 5 et assoupli la règle de cumul, en ce qui concerne les pensions militaires. Depuis le 1er mai 1993, les conditions de cumul d'une allocation de chômage avec un avantage de vieillesse ont fait l'objet d'améliorations, répondant ainsi en grande partie aux préoccupations des anciens militaires. En effet, l'allocation d'asurance peut être cumulée intégralement avec la pension militaire pour les personnes âgées de moins de 50 ans. Pour les allocataires âgés de 50 à 55 ans, l'allocation de chômage est diminuée de la moitié de la pension militaire. La règle antérieure de diminution à hauteur de 75 p. 100 de la pension ne subsiste pour les anciens militaires qu'à l'égard des allocataires âgés de 55 ans ou plus.
