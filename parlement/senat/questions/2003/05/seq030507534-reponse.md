@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030507534
+
+- Question : [SEQ030507534](seq030507534.md) — Utilisation des oeuvres numériques par les enseignants
+
+## Réponse
+
+*Jeunesse, JO du 2003-11-20, page 3403*
+
+Le projet de loi de transposition de la directive n° 2001/29/CE du Parlement européen et du Conseil du 22 mai 2001 sur l'harmonisation de certains aspects du droit d'auteur et des droits voisins dans la société de l'information sera prochainement soumis au Parlement. Cette directive prévoit notamment une exception facultative permettant aux États membres de limiter les droits des auteurs pour l'utilisation des oeuvres protégées à titre d'illustration des activités d'enseignement et de recherche à la condition qu'une telle limitation ne porte pas atteinte à l'exploitation normale de l'oeuvre et qu'elle ne cause pas un préjudice injustifié aux intérêts des ayants droit. Le ministère de la jeunesse, de l'éducation nationale et de la recherche et le ministère de la culture et de la communication conduisent, dans un cadre fixé par le Premier ministre, une concertation avec les représentants des titulaires de droit d'auteur et de droits voisins afin d'offrir une véritable sécurité juridique à un ensemble de pratiques légitimes et indispensables aux activités d'enseignement et de recherche. Cette concertation porte sur les oeuvres quels que soient leur nature ou leur support. Par ailleurs, le ministère de la jeunesse, de l'éducation nationale et de la recherche a demandé au ministère des affaires étrangères un point aussi précis que possible sur la prise en compte des activités d'enseignement et de recherche pour le droit de la propriété littéraire et artistique des autres pays de l'Union européenne ainsi que sur la manière dont ils transposent ou envisagent de transposer sur ce point, la directive.
