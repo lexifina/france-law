@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970600271
+
+- Question : [SEQ970600271](seq970600271.md) — Avenir de la préretraite agricole
+
+## Réponse
+
+*Agriculture, JO du 1997-09-25, page 2533*
+
+Réponse. - Le dispositif de préretraite agricole institué par la loi no 91-1407 du 31 décembre 1991 a été réorienté en faveur de l'installation des jeunes agriculteurs par la loi no 95-95 du 1er février 1995 et le décret no 95-290 du 15 mars 1995. L'article 25 de ce même décret prévoit que la mesure s'applique aux agriculteurs qui déposeront leur demande au plus tard le 14 octobre 1997 et qui justifieront à cette date des conditions d'âge et de durée d'activité. Les intéressés disposeront alors de douze mois au plus pour céder leurs terres, leurs bâtiments et pour vendre leur cheptel. Par ailleurs, en application de l'article 10 du décret précité, les candidats à la préretraite ont dû faire part de leur intention de cesser leur activité six mois avant la date prévue pour l'arrêt d'activité et trois mois avant le dépôt de leur demande. Ainsi, aucune déclaration d'intention de cessation d'activité ne peut plus être acceptée depuis le 14 juillet dernier. Une information en ce sens avait été effectuée par les préfets dans l'ensemble des départements par lettre circulaire du 17 mars 1997. Dans le cadre du règlement communautaire 2079 de 1992, un nouveau dispositif doit répondre aux trois préoccupations suivantes : il s'agit, tout d'abord, de soutenir l'installation de jeunes en agriculture, notamment hors cadre familial en facilitant la transmission de l'exploitation du cédant ; il convient de pouvoir offrir un revenu de substitution aux agriculteurs en situation de difficulté financière, qui doivent cesser l'exploitation entre cinquante-cinq ans et soixante ans ; il est nécessaire de poursuivre la restructuration foncière dans les départements d'outre-mer, en raison des retards importants et constatés par rapport à la situation qui prévaut en France métropolitaine.
