@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700543
+
+- Question : [SEQ020700543](seq020700543.md) — Réglementation relative aux expérimentations de cultures d'OGM
+
+## Réponse
+
+*Agriculture, JO du 2002-09-19, page 2080*
+
+Conformément aux dispositions législatives en vigueur, toute dissémination volontaire d'organismes génétiquement modifiés (OGM) est subordonnée à une autorisation préalable qui se fonde sur une évaluation des risques tant pour la santé publique que pour l'environnement. Dans ce cadre, la Commission d'étude de la dissémination des produits issus du génie biomoléculaire est obligatoirement consultée. Depuis le début de cette année, le ministère chargé de l'agriculture, soucieux d'améliorer la transparence des procédures et l'information du public, rend accessible au public un dossier technique d'information sur son site internet. Les avis de la Commission d'étude de la dissémination des produits issus du génie biomoléculaire sont également accessibles au public sur ce même site ainsi que les décisions d'autorisation, la liste des localités où sont implantés les essais et les fiches d'information du public qui s'y rapportent. En ce qui concerne spécifiquement l'information préalable des élus locaux, une réflexion a été engagée pour définir les modalités qu'il convient de mettre en oeuvre. En outre, la directive n° 2001/18/CE qui abroge et remplace la directive n° 90/220/CEE relative à la dissémination volontaire d'OGM dans l'environnement apporte des avancées notables en matière de transparence, d'information et de consultation du public. Les travaux de transposition dans le droit national de cette directive qui seront engagés par le Parlement seront l'occasion de trouver les solutions appropriées au problème énoncé sur le plan de l'information, a priori et a posteriori, des élus sur ces essais.
