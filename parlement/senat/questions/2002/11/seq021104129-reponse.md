@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021104129
+
+- Question : [SEQ021104129](seq021104129.md) — Revendications des cadres hospitaliers
+
+## Réponse
+
+*Santé, JO du 2003-03-27, page 1074*
+
+Le décret n° 2001-1375 du 31 décembre 2001 portant statut particulier des cadres de santé de la fonction publique correspond à la volonté des pouvoirs publics de mieux reconnaître les fonctions d'encadrement et de promouvoir l'implication des cadres dans les projets institutionnels, en proposant la création d'un corps de cadres de santé classé en catégorie A avec des grilles indiciaires fortement revalorisées. Les titulaires du grade de surveillant sont reclassés dans le grade de cadre de santé à compter du 1er janvier 2002 jusqu'au 31 décembre 2003. Le reclassement s'effectue par inscription sur liste d'aptitude, au 1er janvier de chaque année dans la limite du tiers de l'effectif du grade de surveillant. A compter du 1er janvier 2004, la totalité de l'effectif des surveillants aura été reclassée. Enfin, le décret du 31 décembre 2001 a prévu une forte revalorisation des grilles indiciaires des cadres de santé, signe de la reconnaissance du rôle des cadres de santé dans le fonctionnement des établissements publics de santé (indices bruts 430-740, pour le grade de cadre de santé et indices bruts 625-780 pour le grade de cadre supérieur de santé). Le décret n° 2001-1207 du 19 décembre 2001 portant statuts particuliers des attachés d'administration hospitalière a prévu le reclassement des chefs de bureau en attachés d'administration hospitalière sur trois années, par tiers, le dernier tiers devant être reclassé en décembre 2003. Le nouveau corps créé bénéficie également d'une revalorisation importante des rémunérations et des indemnités. Ainsi, les engagements envers les cadres hospitaliers pris par les pouvoirs publics ont été pleinement respectés.
