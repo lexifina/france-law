@@ -1,22 +1,18 @@
 # Article 1
 
-La présente convention règle les rapports entre les employeurs et les salariés des entreprises relevant de l'une des activités du transport énumérées ci-après, par référence à la nomenclature d'activités française NAF adaptée de la nomenclature d'activités européenne NACE et approuvée par le décret n° 92-1129 du 2 octobre 1992Cette nomenclature, applicable depuis le 1er janvier 1993, se substitue à la nomenclature des activités approuvée par le décret n° 73-1036 du 9 novembre 1973.
+1.1. Principe
 
-.
+La présente convention et les accords qui y sont annexés règlent les rapports entre les employeurs et les salariés des entreprises relevant de l'une des activités du transport énumérées ci-après, par référence à la nomenclature d'activité française - NAF - adaptée de la nomenclature d'activité européenne - NACE - et approuvée par le décret n° 92-1129 du 2 octobre 1992 (1).
 
-60.2 B Transports routiers réguliers de voyageurs
+60-2 B. - Transports routiers réguliers de voyageurs :
 
-Cette classe comprend notamment :
+Cette classe comprend le transport interurbain de voyageurs par autocars, sur des lignes et selon des horaires déterminés, même à caractère saisonnier.
 
-- le transport interurbain de voyageurs par autocars, sur des lignes et selon des horaires déterminés, même à caractère saisonnier.
+Cette classe comprend aussi le ramassage scolaire ou le transport de personnel.
 
-Cette classe comprend aussi :
+60-2 G. - Autres transports routiers de voyageurs :
 
-- le ramassage scolaire ou le transport de personnel.
-
-60.2 G. Autres transports routiers de voyageurs
-
-Cette classe comprend notamment :
+Cette classe comprend :
 
 - l'organisation d'excursions en autocars ;
 
@@ -24,11 +20,9 @@ Cette classe comprend notamment :
 
 - la location d'autocars (avec conducteur) à la demande.
 
-60.2 L. Transports routiers de marchandises de proximité
+60-2 L. - Transports routiers de marchandises de proximité :
 
-Cette classe comprend notamment :
-
-- le transport routier à caractère urbain ou de proximité, consistant à enlever ou à livrer des marchandises emballées ou non lors de déplacements de courte durée.
+Cette classe comprend le transport routier à caractère urbain ou de proximité, consistant à enlever ou à livrer des marchandises emballées ou non lors de déplacement de courte durée.
 
 Cette classe comprend aussi :
 
@@ -36,17 +30,13 @@ Cette classe comprend aussi :
 
 - la collecte du lait à la ferme.
 
-60.2 M. Transports routiers de marchandises interurbains
+60-2 M. - Transports routiers de marchandises interurbains :
 
-Cette classe comprend notamment :
+Cette classe comprend le transport routier de marchandises, régulier ou non, interurbain, sur longue distance et international ; y entre le transport lourd, en vrac, par conteneurs, hors gabarit, etc.
 
-- le transport routier de marchandises, régulier ou non, interurbain, sur longue distance et international ; y entre le transport lourd, en vrac, par conteneurs, hors gabarit, etc.
+60-2 N. - Déménagement :
 
-60.2 N. Déménagement
-
-Cette classe comprend notamment :
-
-- le déménagement de mobilier de particuliers, de bureaux, d'ateliers ou d'usines, qu'il soit international, interurbain, intra urbain ou dans un même immeuble ou site.
+Cette classe comprend le déménagement de mobilier de particuliers, de bureaux, d'ateliers ou d'usines, qu'il soit international, interurbain, intra-urbain ou dans un même immeuble ou site.
 
 Cette classe comprend aussi :
 
@@ -54,72 +44,74 @@ Cette classe comprend aussi :
 
 - la livraison de meubles et équipements ménagers avec déballage ou installation.
 
-60.2 P. Location de camions avec conducteur
+60-2 P. - Location de camions avec conducteur :
 
-Cette classe comprend notamment :
+Cette classe comprend la location de camions et camionnettes avec conducteur.
 
-- la location de camions et camionnettes avec conducteur.
+63-4 A. - Messagerie, fret express :
 
-63.4 A. Messagerie, fret express
+Cette classe comprend :
 
-Cette classe comprend notamment :
-
-- la collecte d'envois multiples (groupage) de moins de 3 tonnes groupés sur des quais pour constituer des chargements complets aptes à remplir des véhicules de transport pour dégroupage au quai du centre réceptionnaire et livraison au domicile du destinataire ;
+- la collecte d'envois multiples (groupage) de moins de 3 tonnes groupés sur des quais pour constituer des chargements complets aptes à remplir des véhicules de transport pour dégroupage au quai du centre réceptionnaire et livraison au domicile du destinaire ;
 
 - le fret express de marchandises.
 
-63.4 B. Affrètement
+63-4 B. - Affrètement :
 
-Cette classe comprend notamment :
+Cette classe comprend l'affrètement terrestre, maritime et aérien (ou une combinaison de ces moyens) qui consiste à confier des envois sans groupage préalable à des transporteurs publics.
 
-- l'affrètement terrestre, maritime et aérien (ou une combinaison de ces moyens) qui consiste à confier des envois sans groupage préalable à des transporteurs publics.
+63-4 C. - Organisation des transports internationaux :
 
-63.4 C. Organisation des transports internationaux
+Cette classe comprend :
 
-Cette classe comprend notamment :
-
-- l'organisation logistique des transports de marchandises en provenance ou à destination du territoire national, ou international, par tous les modes de transports appropriés ;
+- l'organisation logistique des transports de marchandises en provenance ou à destination du territoire national ou international, par tous les modes de transports appropriés ;
 
 - le transit terrestre, maritime ou aérien ;
 
 - les activités de commissionnaire en douane.
 
-64.1 C. Autres activités de courrier
+64-1 C. - Autres activités de courrier :
 
-Cette classe comprend notamment :
+Cette classe comprend :
 
 - les activités postales autres que celles exercées par La Poste ;
 
 - l'acheminement du courrier (lettres et colis), généralement en express.
 
-Cette classe comprend aussi :
+Cette classe comprend aussi les activités des coursiers urbains et taxis marchandises.
 
-- les activités des coursiers urbains et taxis marchandises.
-
-71.2 A. Location d'autres matériels de transport terrestre (partie)
+71-2 A. - Location d'autres matériels de transport terrestre :
 
 Est prise en compte, dans cette classe, uniquement la location de véhicules industriels sans chauffeur.
 
-74.6 Z. Enquêtes et sécurité (partie)
+74-6 Z. - Enquêtes et sécurité :
 
-Sont pris en compte, dans cette classe, uniquement les services de transports de fonds et valeurs.
+Sont prises en compte, dans cette classe, uniquement les activités de transports de fonds et valeurs.
 
-85.1 J. Ambulances
+85-1 J. - Ambulances :
 
-Cette classe comprend notamment :
+Cette classe comprend le transport des malades par ambulance.
 
-- le transport des malades par ambulance.
+Cette classe comprend aussi l'activité des ambulances de réanimation.
 
-Cette classe comprend aussi :
+Le champ d'application géographique de la présente convention et des accords qui y sont annexés comprennent l'ensemble du territoire métropolitain.
 
-- l'activité des ambulances de réanimation.
+1.2. Dispositions particulières
 
-En outre, à la demande des organisations syndicales intéressées, et si ces activités ne peuvent pas être rattachées à une autre convention collective, des avenants à la présente convention pourront inclure dans son champ d'aplication des activités diverses ressortissant au transport et s'apparentant à l'une des activités ci-dessus énumérées.
+A la demande des organisations syndicales intéressées, et si ces activités ne peuvent pas être rattachées à une autre convention collective, des avenants à la présente convention pourront inclure dans son champ d'application des activités diverses ressortissant au transport et s'apparentant à l'une des activités ci-dessus énumérées.
 
 Il est précisé que la présente convention ne s'applique pas aux entreprises industrielles ou commerciales effectuant des transports définis comme transports pour compte propre par la réglementation des transports en vigueur.
 
 Dans le cas d'entreprises mixtes exerçant des activités telles que " transport public et activités industrielles et commerciales ", la présente convention s'applique normalement au personnel affecté aux services de transport public, le personnel affecté aux activités industrielles et commerciales restant régi par les dispositions de la convention applicable à la branche d'activité concernée.
 
-Toutefois, lorsque le personnel de l'entreprise mixte n'est pas affecté exclusivement à l'une ou l'autre des deux branches d'activité et qu'une répartition du personnel entre les deux conventions collectives correspondants apparaît de ce fait impossible, l'ensemble du personnel de l'entreprise mixte est soumis à la convention correspondant à l'activité principale.
+Toutefois, lorsque le personnel de l'entreprise mixte n'est pas affecté exclusivement à l'une ou l'autre des 2 branches d'activité et qu'une répartition du personnel entre les 2 conventions collectives correspondantes apparaît de ce fait impossible, l'ensemble du personnel de l'entreprise mixte est soumis à la convention et aux accords qui y sont annexés correspondant à l'activité principale.
 
-Le champ d'application géographique de la présente convention comprend l'ensemble du territoire métropolitain.
+Dans le cas d'entreprises exerçant une activité de transport de fonds et valeurs à titre principal, les dispositions de la présente convention collective sont complétées par celles de l'accord national professionnel du 5 mars 1991 modifié, annexé à la présente convention collective, relatif aux conditions spécifiques d'emploi du personnel des entreprises exerçant des activités de transport de fonds et valeurs.
+
+Dans le cas d'entreprises exerçant une activité de transport de fonds et valeurs à titre accessoire, seules sont applicables les dispositions de l'accord national professionnel susvisé dans les conditions qu'il fixe, à savoir aux personnels affectés aux activités de transports de fonds et valeurs et dont les emplois sont spécifiquement définis dans la nomenclature qui y est annexée.
+
+NOTA :(1) Cette nomenclature applicable depuis le 1er janvier 1993 se substitue à la nomenclature des activités approuvée par le décret n° 73-1036 du 9 novembre 1973.
+
+NOTA :
+
+NOTA :(1) Cette nomenclature applicable depuis le 1er janvier 1993 se substitue à la nomenclature des activités approuvée par le décret n° 73-1036 du 9 novembre 1973.
