@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960716495
+
+- Question : [SEQ960716495](seq960716495.md) — Situation au Rwanda et aide de la France
+
+## Réponse
+
+*Affaires étrangères, JO du 1996-09-12, page 2338*
+
+Réponse. - A la suite de la tragédie qui a frappé le Rwanda en 1994, la France n'a pas ménagé ses efforts pour aider ce pays à faire face aux besoins humanitaires les plus urgents et pour lui permettre de se reconstruire. Elle a contribué aux différents programmes mis en oeuvre dans un cadre multilatéral (Union européenne, Nations unies, Agence de coopération culturelle et technique notamment) visant à appuyer la réhabilitation économique et sociale du Rwanda, à restaurer le système judiciaire et à favoriser la réconciliation nationale et le retour de la confiance chez les réfugiés. La contribution de la France, dans le cadre du programme lancé à l'issue de la table ronde sous l'égide du Programme des Nations unies pour le développement (janvier 1995), s'est élevée à environ 50 millions de dollars. Elle a eu pour but de répondre en premier lieu aux besoins d'urgence exprimés par les autorités rwandaises dans les domaines social et humanitaire. Plus précisément, cette aide a été affectée à des projets portant sur l'éducation, la santé et le développement rural lié au retour et à la réinstallation des réfugiés. Compte tenu de la situation au Rwanda où les priorités que sont la réconciliation nationale et le retour des réfugiés n'ayant pas eu de responsabilités dans le génocide et les massacres de 1994 ne progressent pas autant que la communauté internationale le souhaiterait, la France continue de concentrer son assistance bilatérale dans les secteurs humanitaire, éducatif et social, domaines qui bénéficient en premier lieu aux populations les plus défavorisées. Elle ne manquera pas de réexaminer attentivement son aide au développement au fur et à mesure des progrès qui se manifesteront au Rwanda, notamment dans le domaine de la réconciliation nationale.
