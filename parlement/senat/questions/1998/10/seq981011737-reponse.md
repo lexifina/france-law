@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981011737
+
+- Question : [SEQ981011737](seq981011737.md) — Association des agents de La Poste à la performance de La Poste
+
+## Réponse
+
+*Industrie, JO du 1999-04-15, page 1266*
+
+Réponse. - Les postiers sont associés étroitement aux démarches de conduite du changement des organisations. Les évolutions, nécessitées par une meilleure adaptation aux besoins des clients, sont conduites avec le souci de prendre en compte les aspirations du personnel. C'est tout particulièrement le cas dans le cadre d'un projet national consacré au développement de l'encadrement. Sa mise en uvre, privilégiant une démarche participative, comprend une phase de diagnostic de l'établissement, effectuée en concertation avec les agents et l'encadrement intermédiaire, et débouche sur la définition d'un " projet d'établissement ", élaboré et partagé par l'ensemble de la structure concernée. Un accompagnement spécifique est réalisé par des équipes spécialisées intervenant en conseil et soutien auprès des responsables d'entités. De même, les travaux conduits pour préparer et mettre en place l'aménagement et la réduction du temps de travail associent les agents et leur encadrement, ainsi que les organisations syndicales. Cette démarche permet de définir, dans le cadre de principes nationaux, des solutions locales adaptées aux souhaits des agents et aux spécificités de la clientèle. En particulier, les attentes individuelles des agents sur l'organisation et les régimes de travail font l'objet d'un recueil et d'une étude systématique, dans chaque entité. Une communication continue est organisée sur le sujet, notamment sous forme de groupes de travail au sein des établissements et de réunions d'information présentant l'avancement des travaux. Des concertations régulières avec les organisations syndicales sont prévues, tout au long du projet, et déboucheront sur la signature d'accords locaux pour les grands établissements et les groupements postaux.
