@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970700656
+
+- Question : [SEQ970700656](seq970700656.md) — Assiette de cotisations sociales des sapeurs-pompiers
+
+## Réponse
+
+*Emploi, JO du 1997-09-11, page 2378*
+
+Réponse. - L'article 18 du décret no 60-58 du 11 janvier 1960 prévoit que l'assiette de la cotisation d'assurance maladie due pour la couverture des prestations en nature de l'assurance maladie, maternité et invalidité des agents affiliés à la caisse nationale de retraite des agents des collectivités locales (CNRACL) est identique à celle des agents de l'Etat. Aux termes de l'article D.712-38, la cotisation due pour la couverture des prestations susvisées, versées aux fonctionnaires de l'Etat, est assise sur les traitements soumis à retenue pour pension. Or, l'article 17 de la loi no 90-1067 du 28 novembre 1990 relative à la fonction publique territoriale et portant modification de certains articles du code des communes prévoit que l'indemnité de feu versée aux sapeurs-pompiers professionnels rentre dans le calcul de la pension de retraite et est soumise aux retenues pour pension dans des conditions fixées par décret en conseil d'Etat. Par conséquent, dans la mesure où cette indemnité de feu est soumise à retenue pour pension, elle devrait également être soumise à la cotisation d'assurance maladie visée à l'article 18 du décret no 60-58 du 11 janvier 1960 précité, les sapeurs-pompiers professionnels étant affiliés à la caisse nationale de retraite des agents des collectivités locales. Cependant, à titre exceptionnel et dérogatoire, un courrier ministériel du 7 mai 1997, adressé à l'agence centrale des organismes de sécurité sociale, a exonéré de la cotisation d'assurance maladie précitée l'indemnité de feu allouée aux sapeurs-pompiers professionnels. Cette indemnité reste soumise à la CSG et à la CRDS.
