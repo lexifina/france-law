@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940405749
+
+- Question : [SEQ940405749](seq940405749.md) — Assimilation par les services fiscaux de l'activité de trafiquant en stupéfiants à une activité professionnelle
+
+## Réponse
+
+*Budget, JO du 1994-08-25, page 2064*
+
+Réponse. - Le Conseil d'Etat a rappelé dans un arrêté du 18 mars 1981 (CE 18 mars 1981, no 6404 et 7359) que les profits retirés du trafic de stupéfiants constituent des revenus imposables dans la catégorie des bénéfices industriels et commerciaux. Il n'y a en effet pas lieu de réserver aux revenus provenant d'activités illégales un traitement plus favorable que celui qui est réservé aux revenus de source licite. En ce qui concerne la taxe sur la valeur ajoutée, la vente de stupéfiants, réalisée hors de tout circuit économique autorisé et surveillé, en infraction avec la réglementation, n'entre pas dans le champ d'application de cette taxe. Par ailleurs, l'application des règles fiscales n'est pas exclusive des sanctions pénales que peut infliger le juge en application des articles 222-34 à 222-51 du nouveau code pénal. En tout état de cause, la lutte contre le trafic des stupéfiants constitue une priorité pour le Gouvernement. Les quantités croissantes de stupéfiants saisies par la direction générale des douanes et droits indirects attestent de l'efficacité des actions répressives menées notamment par les services du ministère du budget. Cette action résolue contre les trafiquants de drogue, à laquelle participent pleinement les services relevant des ministères de l'économie et du budget, est renforcée depuis la loi du 12 juillet 1990 relative à la lutte contre le blanchiment des capitaux par la mise en place, au sein de ces ministères, d'un service de traitement du renseignement et de l'action contre les circuits financiers clandestins (TRACFIN).
