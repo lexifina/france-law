@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890504550
+
+- Question : [SEQ890504550](seq890504550.md) — Formation des stagiaires TUC employés par les hôpitaux
+
+## Réponse
+
+*Solidarité, JO du 1989-07-20, page 1115*
+
+Réponse. - L'importance que le Gouvernement accorde à la nécessité d'améliorer et de développer l'insertion professionnelle des jeunes demandeurs d'emploi l'a conduit à renforcer le dispositif qui avait été mis en place par le décret du 16 octobre 1984 qui instituait les stages de travaux d'utilité collective, en faisant appel à la totalité des associations sans but lucratif, des fondations, des collectivités territoriales et des établissements publics, dont font partie les hôpitaux. En effet, au regard des très bas niveaux de formation des stagiaires accueillis, le Gouvernement a incité les organismes d'accueil à prévoir des formations d'accompagnement ou complémentaires, soit sous la forme d'actions de formation liées directement à l'exécution des tâches imposées par le stage lui-même, organisées durant le mi-temps travaillé et financées par l'organisme signataire de la convention type, soit sous la forme d'actions de formation complémentaire liées aux besoins personnels du jeune, organisées dans le cadre du mi-temps non travaillé. L'organisme d'accueil peut s'adresser soit directement à des organismes de formation habilités, soit adhérer à un fonds de solidarité locale. Ces formations sont proposées et conseillées aux jeunes qui doivent y adhérer de leur plein gré, et l'adhésion des organismes d'accueil aux fonds de solidarité locale n'est en aucun cas obligatoire. Ce n'est que si l'organisme souhaite adhérer à ces fonds qu'il versera une cotisation correspondant au quart du coût de fonctionnement de la formation complémentaire qu'il souhaite donner à ses stagiaires, les trois quarts étant pris en charge par l'Etat.
