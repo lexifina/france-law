@@ -18,7 +18,7 @@
 
 9° Constructions soumises à permis de construire lorsqu'il s'agit de :
 
-a) La création d'une superficie hors oeuvre nette supérieure à 5 000 mètres carrés sur le territoire d'une commune non dotée, à la date du dépôt de la demande, d'un plan d'occupation des sols ou d'un document en tenant lieu ayant fait l'objet d'une enquête publique ;
+a) La création d'une superficie hors oeuvre brute supérieure à 5 000 mètres carrés sur le territoire d'une commune non dotée, à la date du dépôt de la demande, d'un plan d'occupation des sols ou d'un document en tenant lieu ayant fait l'objet d'une enquête publique ;
 
 b) La construction d'immeubles à usage d'habitation ou de bureau d'une hauteur au-dessus du sol supérieure à 50 mètres ;
 
@@ -28,11 +28,11 @@ d) La construction d'équipements culturels, sportifs ou de loisirs susceptibles
 
 10° Création de zone d'aménagement concerté en dehors du cas prévu au dernier alinéa de l'article L. 311-4 du code de l'urbanisme ;
 
-11° Lotissements permettant la construction de plus de 5 000 mètres carrés de surface hors oeuvre nette sur le territoire d'une commune non dotée, à la date du dépôt de la demande, d'un plan d'occupation des sols ou d'un document en tenant lieu ayant fait l'objet d'une enquête publique.
+11° Lotissements permettant la construction de plus de 5 000 mètres carrés de surface hors oeuvre brute sur le territoire d'une commune non dotée, à la date du dépôt de la demande, d'un plan d'occupation des sols ou d'un document en tenant lieu ayant fait l'objet d'une enquête publique ;
 
 12° Opérations autorisées par décret en application de l'article L. 130-2, alinéa 3, du code de l'urbanisme ;
 
-13° Défrichements d'un seul tenant soumis à autorisation et portant sur une superficie d'au moins 25 hectares.
+13° Défrichements d'un seul tenant soumis à autorisation et portant sur une superficie d'au moins 25 hectares ;
 
 14° Ouvrages destinés à l'épuration des eaux des collectivités locales permettant de traiter un flux de matières polluantes au moins équivalent à celui produit par 10 000 habitants, au sens du décret du 24 août 1961 modifié ;
 
@@ -51,3 +51,7 @@ d) La construction d'équipements culturels, sportifs ou de loisirs susceptibles
 21° Travaux d'un montant supérieur à 12 millions de francs portant sur la création d'une gare de voyageurs, de marchandises ou de transit ou sur l'extension de son emprise ;
 
 22° Travaux et ouvrages de défense contre la mer d'une emprise totale supérieure à 2 000 mètres carrés.
+
+NOTA :
+
+Nota : Les dispositions de l'article 3 du décret 2000-1272 du 26 décembre 2000 sont applicables aux demandes de permis de construire, d'autorisation de lotir ou d'approbation de programmes de travaux de restauration immobilière présentées après le 29 avril 2000.
