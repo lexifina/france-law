@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970700986
+
+- Question : [SEQ970700986](seq970700986.md) — Conséquences de la découverte d'un détournement de fonds commis par un percepteur
+
+## Réponse
+
+*Économie, JO du 1997-10-02, page 2629*
+
+Réponse. - Les détournements de fonds commis entre 1985 et 1993 par le receveur-percepteur de la trésorerie d'Annecy, 2e division, ont conduit à sa condamnation par la cour d'assises de Haute-Savoie. Ce comptable a été révoqué par mesure disciplinaire avec perte de ses droits à pension de l'Etat. La condamnation qui vient d'être prononcée à son encontre (quinze ans de réclusion criminelle) correspond à la peine maximale considérant que l'autorité judiciaire lui reprochait le détournement de 54,6 millions de francs et des faux en écriture publique. Cette forfaiture a été découverte par les services du Trésor dans le cadre des contrôles réalisés sur place dans la trésorerie par le département des vérifications du Rhône et les services de la trésorerie générale de Haute-Savoie. Il n'en reste pas moins que les procédures de contrôle interne ont fonctionné trop tardivement, étant précisé que l'essentiel du détournement a concerné les années 1990 à 1993. C'est pourquoi deux séries de mesures ont depuis été décidées et mises en oeuvre : le développement d'une procédure informatisée de recouvrement de l'impôt sur les sociétés qui permet un meilleur service aux entreprises et de renforcer le contrôle mensuel des opérations passées à ce titre dans les trésoreries ; le regroupement sur un nombre limité de trésoreries du recouvrement de l'impôt sur les sociétés, afin de sécuriser les procédures et professionnaliser davantage les agents. Enfin, en ce qui concerne le non-lieu accordé aux supérieurs hiérarchiques locaux du comptable du Trésor, il a été prononcé par la chambre d'accusation de la cour d'appel de Chambéry et ne saurait en conséquence être commenté.
