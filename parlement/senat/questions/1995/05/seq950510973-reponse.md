@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950510973
+
+- Question : [SEQ950510973](seq950510973.md) — Répartition des charges de fonctionnement des écoles publiques : application de la loi
+
+## Réponse
+
+*Éducation, JO du 1995-08-10, page 1588*
+
+Réponse. - L'article 23 de la loi no 83-663 du 22 juillet 1983 modifiée définit les modalités de répartition intercommunale des dépenses de fonctionnement des écoles publiques accueillant des enfants de plusieurs communes. En cas de désaccord entre communes sur le montant de leur participation, le texte législatif prévoit que celui-ci est fixé par le préfet. " Pour le calcul de cette contribution, il est tenu compte des ressources de la commune de résidence, du nombre d'élèves de cette commune scolarisés dans la commune d'accueil et du coût moyen par élève calculé sur la base des dépenses de l'ensemble des écoles publiques de la commune d'accueil. " Il précise, en outre, qu'" un décret en Conseil d'Etat détermine, en tant que de besoin, les dépenses prises en compte pour le calcul du coût moyen par élève ainsi que les éléments de mesure des ressources des communes ". Si, au cours de débats qui ont précédé le vote de la loi, l'intervention obligatoire d'un décret a été souhaitée par les parlementaires, le texte définitivement adopté comporte la mention : " en tant que de besoin ". La volonté finalement exprimée par le législateur semble donc de laisser au Gouvernement le soin de juger de l'opportunité et de l'utilité de prendre un texte réglementaire d'application. Il est précisé que cette question relève principalement de la compétence de M. le ministre de l'intérieur, auquel il appartient de décider s'il y a lieu de faire appel auprès du Conseil d'Etat du jugement du tribunal administratif de Clermont-Ferrand mentionné par l'honorable parlementaire.
