@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910716309
+
+- Question : [SEQ910716309](seq910716309.md) — Statut des sapeurs-pompiers professionnels
+
+## Réponse
+
+*Intérieur, JO du 1992-01-30, page 264*
+
+Réponse. - Les sapeurs-pompiers dits " permanents " sont des agents de la fonction publique territoriale qui exercent leurs fonctions à temps complet en qualité de sapeur-pompier volontaire. Les décrets du 25 septembre 1990 avaient prévu pour ces personnels une possibilité d'intégration dans les cadres d'emploi des sapeurs-pompiers professionnels, sous réserve de satisfaire à un examen professionnel. Toutefois, il s'est avéré que les dispositions du décret ne permettaient l'intégration dans des conditions satisfaisantes que d'un nombre restreint des agents concernés. Aussi, des modifications des décrets du 25 septembre 1990 ont été étudiées en concertation avec les organisations représentatives de sapeurs-pompiers afin de prendre en compte, lors des intégrations, les fonctions exercées et l'expérience professionnelle acquise. Un projet de texte est en cours d'élaboration. Dans ce cadre, ces intégrations pourraient avoir lieu dans le courant du second semestre de l'année 1992 après la publication du texte modificatif. Les agents qui ne souhaiteront pas être intégrés en qualité de sapeur-pompier professionnel conserveront le bénéfice de leur situation, conformément aux dispositions de l'article 51-III du décret n° 88-623 du 6 mai 1988. En revanche, le décret du 6 mai 1988 interdit dès sa publication la pratique consistant à affecter à temps complet des agents de la fonction publique territoriale en qualité de sapeur-pompier volontaire. Ceux qui auraient été recrutés après cette date ne peuvent donc se prévaloir de leur situation pour être intégrés dans les cadres d'emploi des sapeurs-pompiers professionnels autrement qu'en se présentant aux concours normaux organisés pour le recrutement de ces personnels.
