@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000122245
+
+- Question : [SEQ000122245](seq000122245.md) — Ceinture de sécurité dans les camions de livraison
+
+## Réponse
+
+*Équipement, JO du 2000-05-18, page 1785*
+
+Réponse. - Le comité interministériel de la sécurité routière du 2 avril 1999 a décidé de renforcer la politique de lutte contre l'insécurité routière par des actions nouvelles visant, notamment, à poursuivre et à amplifier la formation. Parmi ces actions, il est prévu que l'Etat instaure des plans de prévention au risque routier dans tous ses services, dans un délai de trois ans. L'Etat encourage également la généralisation des plans de prévention des risques routiers dans les entreprises relevant du secteur privé. Ces plans ont déjà fait la preuve de leur efficacité pour réduire le nombre des accidents, là où ils sont mis en uvre. L'accidentologie démontre clairement l'utilité du port de la ceinture de sécurité, qui joue un rôle majeur de prévention pour éviter toute éjection hors du camion ou toute projection dans la cabine. C'est pourquoi le ministre de l'équipement, des transports et du logement a saisi le Conseil national des transports (CNT) d'une étude relative au port de la ceinture de sécurité par les conducteurs de poids lourds et d'autocars. Le CNT a rendu son rapport le 16 décembre 1999. Nombreux étant les conducteurs professionnels restant à convaincre de l'utilité de cet équipement majeur en matière de prévention du risque, le CNT propose une campagne de sensibilisation qui prendra en compte tous les facteurs d'insécurité et portera l'accent sur le bénéfice du port de la ceinture. Par ailleurs, il convient de préciser qu'en application des arrêtés du 5 décembre 1996 modifiés les poids lourds doivent obligatoirement être équipés de ceintures de sécurité. L'échéancier de mise en uvre de cette mesure a débuté le 1er octobre 1997, pour tous les poids lourds neufs mis en circulation, et s'est achevé le 1er octobre 1999.
