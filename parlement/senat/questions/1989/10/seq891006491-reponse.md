@@ -1,0 +1,9 @@
+# Réponse à la question SEQ891006491
+
+- Question : [SEQ891006491](seq891006491.md) — Mesures en faveur des personnes démunies concernant le logement
+
+## Réponse
+
+*Logement, JO du 1990-06-28, page 1411*
+
+Réponse. - Un programme gourvernemental ambitieux en faveur du logement des défavorisés a été mis en place en 1990. Il est complété par l'adoption de la loi visant à la mise en oeuvre du droit au logement. Ce programme s'articule autour de trois grands axes : un cadre partenarial renforcé : la politique du logement des plus défavorisés doit s'exercer dans un cadre contractuel : la mise en place dans chaque département d'un plan d'action pour le logement des personnes défavorisées doit permettre de mobiliser les partenaires et de coordonner les actions. Cette démarche est rendue obligatoire par la loi visant à la mise en oeuvre du droit du logement. Un accroissement de l'offre de logements destinés aux plus défavorisés : Le Gouvernement apporte des moyens financiers importants en 1990. Pour développer une offre nouvelle de logements destinés aux plus défavorisés, une enveloppe de 10 000 prêts locatifs aidés (P.L.A.), destinée à l'acquisition, sans obligation minimale de travaux, de logements dans le parc privé, a été mise en place en 1990. La loi prévoit diverses dispositions pour diversifier l'offre et favoriser l'accès dans le parc public et le parc privé (création d'un nouvel outil juridique, le bail à réhabilitation, avantages fiscaux alloués aux propriétaires louant à des bénéficiaires du revenu minimum d'insertion - R.M.I. - ou à des associations, renforcement des pouvoirs des préfets en matière d'attribution des logements sociaux et du droit de préemption urbain. Une solvabilisation accrue des locataires : la loi prévoit l'instauration dans chaque département d'un fonds de solidarité pour le logement destiné à garantir l'accès et le maintien des locataires défavorisés dans le parc public ou privé.
