@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981213230
+
+- Question : [SEQ981213230](seq981213230.md) — Imposition des plus-values de cession de valeurs mobilières : assimilation des cessions de titres entre sociétés à une vente
+
+## Réponse
+
+*Économie, JO du 1999-03-04, page 685*
+
+Réponse. - Conformément aux principes généraux du droit, l'échange est considéré comme une double vente. En cas d'échange de titres, le gain net réalisé par chaque coéchangiste est donc considéré comme provenant d'une cession à titre onéreux. Toutefois, le II de l'article 92 B du code général des impôts prévoit le report d'imposition de la plus-value d'échange de titres résultant notamment d'une offre publique, d'une fusion, d'une scission réalisée conformément à la réglementation en vigueur ou d'un apport de titres à une société soumise à l'impôt sur les sociétés. La plus-value réalisée lors de l'échange est calculée et déclarée dans les conditions de droit commun mais, sur demande expresse du contribuable, son imposition est reportée au moment où s'opérera la cession, le rachat, le remboursement ou l'annulation des titres reçus lors de l'échange. Le report d'imposition est également applicable aux échanges avec soulte à condition que celle-ci n'excède pas 10 % de la valeur nominale des titres reçus. Lorsque le report d'imposition est demandé, les opérations d'échange correspondantes ne sont pas prises en compte pour l'appréciation du seuil d'imposition en ce qui concerne les autres plus-values de cession de valeurs mobilières réalisées par ailleurs par le même contribuable. Enfin, lors de la cession ou du rachat des titres reçus en échange, les plus-values dont l'imposition est reportée sont exonérées si le seuil d'imposition n'est pas dépassé au cours de l'année considérée. Ces mesures répondent aux préoccupations exprimées.
