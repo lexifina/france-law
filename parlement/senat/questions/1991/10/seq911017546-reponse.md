@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911017546
+
+- Question : [SEQ911017546](seq911017546.md) — Amélioration de la gestion de l'URSSAF de Paris
+
+## Réponse
+
+*Affaires sociales, JO du 1992-05-28, page 1211*
+
+Réponse. - L'URSSAF de Paris est un organisme de recouvrement de premier plan, par sa taille - elle couvre sept des huit départements de l'Ile-de-France -, et par son importance - elle représente environ 24 p. 100 des encaissements de la branche. Cette configuration a généré certaines difficultés de gestion qui ont été relevées par les pouvoirs publics. C'est pourquoi un contrat l'objectifs tripartite a été signé le 16 juillet 1991 entre l'ACOSS, l'URSSAF de Paris et le ministre des affaires sociales. Ce contrat, qui doit couvrir la période juillet 1991-décembre 1993 est l'aboutissement de plusieurs mois de négociations au sein d'un groupe de travail chargé de faire des propositions tendant à faciliter la gestion de l'URSSAF. Il comprend sept dispositions principales : une participation de l'URSSAF aux efforts de la branche recouvrement dans le cadre des objectifs du contrat pluriannuel signé entre l'ACOSS et le ministère des affaires sociales ; une amélioration des relations avec les usagers ; une meilleure gestion des comptes cotisants ; une plus grande efficacité du recouvrement des cotisations ; l'optimisation de la gestion de trésorerie ; le renforcement du contrôle des entreprises ; une coordination permanente avec l'ensemble de la branche du recouvrement. La direction régionale des affaires sanitaires et sociales d'Ile-de-France est, selon les termes de cet accord, chargée de veiller au respect de ce contrat et d'adresser un rapport annuel au ministère des affaires sociales et de l'intégration. A la lecture du premier bilan, on peut constater que des efforts ont d'ores et déjà été entrepris, tant en ce qui concerne la participation de l'URSSAF de Paris aux objectifs de la branche, qu'à sa volonté d'améliorer la qualité de sa gestion.
