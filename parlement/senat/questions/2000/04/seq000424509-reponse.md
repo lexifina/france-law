@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000424509
+
+- Question : [SEQ000424509](seq000424509.md) — Situation des fonctionnaires aptes au travail à l'issue de congés de longue maladie ou longue durée
+
+## Réponse
+
+*Fonction publique, JO du 2000-07-13, page 2512*
+
+Réponse. - L'article 19 du décret nº 86-68 du 13 janvier 1986 relatif aux positions de détachement, hors cadres, de disponibilité et de congé parental des fonctionnaires territoriaux dispose que si, à l'expiration des droits statutaires à congés de maladie, le fonctionnaire ne peut, dans l'immédiat, être reclassé dans les conditions prévues aux articles 81 à 86 de la loi du 26 janvier 1984, celui-ci est placé en disponibilité d'office. Dans cette position, l'agent inapte temporairement à toutes fonctions et présentant un taux d'invalidité supérieur à 66 %, pourra percevoir une allocation d'invalidité temporaire. En revanche, si l'agent est reconnu apte à la reprise du travail mais qu'aucun emploi ne peut lui être proposé pour tenir compte de son état de santé, il peut, sous le contrôle du juge administratif, être fait application de l'arrêt du Conseil d'Etat, du 10 juin 1992 (Mlle Huet). Il est alors considéré comme " involontairement privé d'emploi " et peut percevoir l'allocation pour perte d'emploi, s'il en remplit par ailleurs les autres conditions, et notamment celles de l'inscription à l'ANPE et de la recherche effective d'un emploi (arrêt de la cour administrative d'appel de Nancy du 2 décembre 1999, Mlle Gueny). Par ailleurs, un arrêt du Conseil d'Etat du 16 février 2000, M. Chevalier, a précisé qu'un fonctionnaire déclaré inapte à l'exercice de ses fonctions qui a présenté une demande de reclassement dans un autre corps ne peut être placé en position de disponibilité d'office sans que l'employeur ait effectivement examiné les possibilités de reclassement de celui-ci.
