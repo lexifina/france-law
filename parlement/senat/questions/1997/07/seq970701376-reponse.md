@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701376
+
+- Question : [SEQ970701376](seq970701376.md) — Résurgence des épidémies en Europe
+
+## Réponse
+
+*Santé, JO du 1997-11-13, page 3171*
+
+Réponse. - La lutte contre l'extension en France de maladies dont on observe la résurgence en Europe passe, d'une part, par une information des voyageurs se rendant dans d'autres pays d'Europe ou sur d'autres continents et, d'autre part, par un système de détection de ces maladies résurgentes sur le territoire français. La détection précoce de cas d'importation de certaines maladies telles que le choléra ou la poliomyélite est réalisée par la mise en place d'un système de déclaration obligatoire de ces affections aux autorités sanitaires. Par ailleurs, une brochure d'information aux voyageurs, comprenant des conseils sur les vaccinations à effectuer en cas de voyage à l'étranger (mise à jour des vaccins diphtérie, tétanos, poliomyélite et vaccinations obligatoires ou recommandées selon les pays visités) ainsi que sur la prophylaxie contre le paludisme, est en cours de réalisation et sera distribuée, par les professionnels du voyage, aux personnes se rendant à l'étranger. Une mise au point sur les recommandations aux voyageurs est, d'autre part, éditée chaque année pour les professionnels de santé dans le bulletin épidémiologique hebdomadaire. Enfin, considérant qu'il existe une prévention vaccinale efficace contre la plupart de ces maladies réémergentes, il est préconisé, dans le cadre de la mise en place du carnet de santé de l'adulte, que soient insérées des recommandations sur les vaccinations et que la nature et la date des vaccinations effectuées soient mentionnées. Cette mesure aurait pour effet une meilleure couverture vaccinale de la population française grâce à une mise à jour plus régulière des vaccinations de l'adulte.
