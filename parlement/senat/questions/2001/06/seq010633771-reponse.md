@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010633771
+
+- Question : [SEQ010633771](seq010633771.md) — Accès des créanciers à l'information relative à la situation de leurs débiteurs
+
+## Réponse
+
+*Justice, JO du 2001-09-06, page 2906*
+
+La garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que si le créancier doit fournir à l'huissier de justice chargé du recouvrement de la créance les renseignements indispensables à la poursuite du débiteur et notamment aux biens susceptibles d'être saisis, le législateur a pris certaines dispositions facilitant le recueil de ceux-ci auprès des tiers. Ainsi, face aux difficultés rencontrées par les créanciers dans la recherche des informations, la loi n° 73-5 du 2 janvier 1973 relative au paiement direct de la pension alimentaire a imposé aux administrations et organismes sociaux de communiquer à l'huissier de justice les renseignements qui lui sont indispensables en vue du recouvrement des créances alimentaires, parmi lesquelles figure la pension ou la rente compensatoire attribuée dans le cadre d'un divorce. Par la suite, la loi n° 91-650 du 9 juillet 1991 portant réforme des procédures civiles d'exécution a permis à tout créancier muni d'un titre exécutoire de s'adresser - par l'intermédiaire de l'huissier de justice - au procureur de la République afin d'obtenir des renseignements sur la situation du débiteur. Le souci de garantir le respect de la liberté individuelle et de la vie privée du débiteur a justifié le choix de l'intervention de l'autorité judiciaire. Cette préoccupation empêche d'envisager une extension à l'ensemble des créances du système simplifié d'information mis en place par la loi du 2 janvier 1973 relative au paiement des pensions alimentaires. En effet, la délivrance directe à l'huissier de justice d'informations, sans intermédiaire judiciaire, ne se justifie que pour des raisons sociales évidentes compte tenu de la nature alimentaire de la créance en cause.
