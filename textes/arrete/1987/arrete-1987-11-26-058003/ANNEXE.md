@@ -476,13 +476,19 @@ Morbihan. |
 
 Le ruisseau de Kergroix (ou ru de la Demi-ville). |
 
-Totalité du cours d'eau. |
+En totalité, y compris en amont du Pont Neuf sur le C. D. 102 :
+
+- le bras descendant de la fontaine de Goah-Gicquel ou Gouarh-Viquel (ou Er Hoch-Vilin) ;
+
+- le bras descendant de Corn Er Houët et Lann Vrehan, commune de Baud, par Mane Cumun (commune de Pluvignier) ;
+
+- le bras dit successivement ruisseau du moulin de Chaquel, puis ruisseau du moulin de Saint-Varicq. |
 
 Morbihan. |
 
 Le Tarun. |
 
-Totalité du cours d'eau. |
+En aval de sa confluence avec le ruisseau de Kerguillaume (R G.) situé à l’aval du moulin de Kerlevinez (commune de Locminé). |
 
 Morbihan. |
 
@@ -496,9 +502,9 @@ DEPARTEMENTS concernés |
 
 L'Allier. |
 
-De son confluent avec la Loire jusqu'au pont de Laveyrune, à Luc. |
+De son confluent avec la Loire jusqu'au pont de Laveyrune à Luc. |
 
-Lozère, Haute-Loire, Puy-de-Dôme, Allier, Cher, Nièvre. |
+Lozère, Haute-Loire, Puy-de-Dôme, Allier, Cher, Nièvre, Ardèche. |
 
 L'Allagnon. |
 
@@ -634,6 +640,12 @@ En aval du barrage d'Aiguillon. |
 
 Lot-et-Garonne. |
 
+Le Lot. |
+
+De son confluent avec la Garonne jusqu'au confluent de la Truyère, en aval du barrage de Golignhac. |
+
+Lot-et-Garonne, Lot, Aveyron. |
+
 La Truyère. |
 
 De son confluent avec le Lot, jusqu'au barrage de Couesque. |
@@ -741,6 +753,24 @@ L'Ariège. |
 De son confluent avec la Garonne jusqu'au confluent avec l'Aston. |
 
 Haute-Garonne, Ariège. |
+
+La Corrèze. |
+
+De son confluent avec la Vézère à l'aval du pont des Angles. |
+
+Corrèze. |
+
+La Vézère. |
+
+De son confluent avec la Dordogne, à l'aval du bar­rage de Peyrissac. |
+
+Corrèze, Dor­dogne. |
+
+La Bave. |
+
+De son confluent avec la Dordogne, commune du Terrou. |
+
+Corrèze, Lot. |
 
 Bassin de la Charente
 
