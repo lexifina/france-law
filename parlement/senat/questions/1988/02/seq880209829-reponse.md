@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880209829
+
+- Question : [SEQ880209829](seq880209829.md) — Date d'incorporation des objecteurs de conscience
+
+## Réponse
+
+*Affaires sociales, JO du 1988-05-05, page 604*
+
+Réponse. -Les jeunes gens soumis aux obligations du service national des objecteurs de conscience sont mis à la disposition du ministre des affaires sociales et de l'emploi par le ministre de la défense. Le ministre des affaires sociales et de l'emploi procède effectivement à deux incorporations chaque année, à compter des 1er mai et 1er novembre. Il semble pas que l'incorporation des étudiants puisse les gêner dans leurs études, dans la mesure où ils ont la possibilité de demander à bénéficier d'un report d'incorporation pour éviter, par exemple , d'être incorporés en fin d'année civile, de renoncer avant terme au bénéfice de ce report et de faire connaître aux services du ministère des affaires sociales et de l'emploi la date de leurs examens de fin d'année scolaire. Dans ce cas précis, la date d'incorporation est fixée à la fin juin-début juillet et la date de prise d'effet est celle du 16 juin. A l'issue de deux années, ils seront donc libérés avant larentrée universitaire. Il n'apparaît pas possible de procéder chaque année à six incorporations comme c'est le cas pour les appelés au service militaire. En effet, la procédure préalable à l'affectation des objecteurs de conscience débute près de trois mois avant le commencement de chaque opération d'incorporation, soit dès le 10 février et le 10 août. Elle s'étend donc sur cinq mois, compte tenu des difficultés que rencontrent les intéressés pour trouver un organisme à leur convenance et le ministère des affaires sociales et de l'emploi pour leur en procurer un, en fin de compte, s'ils n'ont pas réussi à le faire par eux-mêmes.
