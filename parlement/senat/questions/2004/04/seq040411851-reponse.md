@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040411851
+
+- Question : [SEQ040411851](seq040411851.md) — Nuisances sonores générées par l'autoroute A 4 à proximité d'Henriville et de Seingbouse
+
+## Réponse
+
+*Équipement, JO du 2004-08-26, page 1944*
+
+SANEF, société concessionnaire de l'autoroute A4, a mis en place dès 1997 un observatoire du bruit engendré par l'infrastructure autoroutière. Dans ce cadre, les communes de Seingbouse et d'Henriville font l'objet d'un suivi particulier. Les niveaux sonores observés sont régulièrement actualisés en fonction du trafic comptabilisé sur la section concernée. La politique menée en matière de résorption des " points noirs bruits " du réseau routier concerne les immeubles d'habitation respectant les conditions d'antériorité et exposés à des niveaux sonores en façade supérieurs à 70 dB(A) de jour ou 65 dB(A) de nuit. Ces immeubles doivent faire l'objet de mesures de protection. L'observatoire du bruit montre que seuls trois immeubles d'habitation situés à Seingbouse répondent à ces critères et ont déjà fait l'objet de protections de façades financées par SANEF : les immeubles Stéphan, Jung et Policarpo. Deux autres immeubles présentent des niveaux sonores supérieurs aux seuils mais, ayant été construits après la déclaration d'utilité publique de l'autoroute alors que la réglementation en vigueur imposait à leurs constructeurs de prendre en compte le bruit routier, ne bénéficient pas du critère d'antériorité. Les niveaux sonores relevés aux abords d'Henriville restent, en 2004, inférieurs de plus de trois décibels aux seuils en vigueur. A titre d'information, trois décibels supplémentaires correspondent au doublement du trafic sur une section de route donnée. Néanmoins, SANEF a décidé de profiter de la rénovation de la couche de roulement de l'A4 prévue entre Freyming et Sarreguemines pour réaliser un nouveau revêtement réducteur de bruit au niveau de Seingbouse et Henriville pour un gain estimé à environ trois décibels.
