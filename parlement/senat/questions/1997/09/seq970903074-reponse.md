@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970903074
+
+- Question : [SEQ970903074](seq970903074.md) — Nouveau moyen de transport pour le SAMU : la moto
+
+## Réponse
+
+*Santé, JO du 1997-12-11, page 3482*
+
+Réponse. - Lors des Journées mondiales de la jeunesse, à l'occasion de la manifestation qui s'est déroulée à Longchamp, le SAMU de Paris qui, pour assurer la couverture médicale de la manifestation, avait positionné au sein du site où elle se déroulait plusieurs postes médicaux avancés, a pu expérimenter deux scooters spécialement équipés. Ces scooters mis à la disposition du SAMU dans le cadre d'une opération de promotion étaient susceptibles d'être utilisés par les médecins du SAMU en poste sur le site pour notamment transporter leur matériel alors même que du fait de la foule il était difficile d'envisager l'utilisation d'une automobile. L'utilisation effective de ces scooters a été très limitée du fait du faible nombre d'événements ayant nécessité une médicalisation. Il n'est donc pas possible au travers de cette expérience d'évaluer un tel système. Toutefois, on peut considérer que, dans le contexte très particulier d'une manifestation de ce type, caractérisée par une foule très importante, calme, une manifestation se déroulant sur un terrain parfaitement plat, encombré de peu d'obstacles avec un temps clément, l'utilisation d'un tel véhicule, principalement pour assurer le transport d'un matériel médical relativement lourd qui sans cela aurait dû être transporté à bras d'homme, est particulièrement justifiée. Mais il s'agit là d'un contexte très particulier dont il n'est guère possible de tirer les leçons pour le développement de l'utilisation de tels moyens lors des interventions traditionnelles des SAMU. Des expériences d'utilisations de moto ont été tentées il y a une quinzaine d'années dans l'agglomération parisienne et vite abandonnées notamment en raison d'un gain de temps des plus limité au regard d'une accidentologie très supérieure.
