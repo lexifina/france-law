@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020701182
+
+- Question : [SEQ020701182](seq020701182.md) — Interdiction des importations des peaux de chiens et chats et création d'un observatoire de l'animal de compagnie
+
+## Réponse
+
+*Agriculture, JO du 2002-11-07, page 2625*
+
+Les produits animaux, lorsqu'ils sont originaires de pays tiers à l'Union européenne, sont soumis au moment de leur introduction sur le territoire français à un contrôle vétérinaire dans un poste d'inspection frontalier. Pour ce qui concerne les peaux de carnivores domestiques, conformément à l'arrêté du 6 juin 1994 relatif aux conditions sanitaires d'importation d'animaux vivants, de produits d'origine animale et de denrées animales en provenance des pays tiers, les peaux brutes sont soumises au contrôle vétérinaire à l'importation. Les résultats des contrôles effectués ces dernières années dans les postes d'inspection frontaliers français ne mentionnent pas d'importations en France de peaux de carnivores domestiques originaires ou en provenance de pays asiatiques. Toutefois, compte tenu de la libre circulation des marchandises au sein de l'Union européenne, les peaux de carnivores domestiques peuvent être introduites via un autre Etat membre de l'Union européenne qui procède, dans ce cas, au dédouanement du produit. Aussi les autorités françaises ont-elles appelé l'attention de la Commission européenne sur ce problème en lui demandant de proposer les mesures d'harmonisation appropriées. Le décret n° 2002-229 du 20 février 2002 a institué les comités départementaux de protection animale. Ces nouvelles instances consultatives, présidées par les préfets et impliquant de nombreux partenaires administratifs, professionnels et associatifs, constituent des lieux d'échanges et de concertation qui faciliteront la mise en oeuvre d'une véritable politique de bien-être animal, adaptée aux réalités du terrain.
