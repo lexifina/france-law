@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930802518
+
+- Question : [SEQ930802518](seq930802518.md) — Associations : comptabilité concernant l'emploi des dons
+
+## Réponse
+
+*Affaires sociales, JO du 1993-12-16, page 2398*
+
+Réponse. - Le ministre d'Etat, ministre des affaires sociales, de la santé et de la ville, est particulièrement soucieux de soutenir et de développer le rôle des associations comme élément constitutif de lien social, de solidarité, d'innovation, de lutte contre toutes les formes d'exclusion, de participation à la vie de la cité. C'est pourquoi il a été pris le plus grand soin à ce que la mise en oeuvre de l'article 4 de la loi no 91-772 du 7 août 1991 créant une obligation pour les associations faisant appel à la générosité publique d'établir un compte d'emploi annuel des ressources ainsi collectées, ne crée pas de contraintes ne pouvant être assumées par des associations dont la diversité des situations est grande. Sous l'égide de la délégation générale à l'innovation sociale et à l'économie sociale une intense concertation, dans le cadre de la commission consultative prévue par la loi précitée, a été engagée entre les ministères concernés et, notamment, les dix représentants des associations désignées par le Premier ministre sur proposition du Conseil national de la vie associative. Les nombreuses réflexions et formulations engagées ont permis à la commission consultative de donner un avis favorable au projet de présentation du compte d'emploi qui a fait l'objet d'un arrêté du Premier ministre en date du 30 juillet 1993, publié au Journal officiel du 1er août 1993. Les décisions ainsi arrêtées rejoignent les préoccupations de l'honorable parlementaire et du monde associatif respectant la transparence des comptes, gage du soutien grandissant du public auquel le ministre d'Etat, ministre des affaires sociales, de la santé et de la ville, est particulièrement attaché.
