@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010230908
+
+- Question : [SEQ010230908](seq010230908.md) — Travail de la langue dans la politique de la ville
+
+## Réponse
+
+*Ville, JO du 2001-11-29, page 3792*
+
+Le groupe de travail " langues, langages et lien social " du centre de ressources pour la politique de la ville en Seine-Saint-Denis, profession banlieue, créé avec l'appui de la délégation interministérielle à la ville (DIV), n'a pas, à ce jour, terminé ses travaux. Il en rendra compte au cours du 1er semestre 2002 dans une publication réalisée avec l'appui scientifique d'un sociolinguiste. Aucun autre groupe de travail comparable n'a été mis en place dans le réseau des centres de ressources pour la politique de la ville. C'est sur la base des conclusions de ce groupe d'acteurs de terrain que la DIV proposera l'essaimage, par l'intermédiaire du réseau précité, de cette initiative aux professionnels de la politique de la ville. Par ailleurs, dans le cadre de la relance de la lutte contre l'illettrisme, la DIV a choisi de privilégier la dimension culturelle de cette exclusion linguistique, dimension insuffisammentdéveloppée jusqu'ici. L'Agence nationale de lutte contre l'illettrisme (ANLCI), la DIV et le ministère de la culture vont donc prochainement agir ensemble pour traduire cette orientation nouvelle avec les acteurs de terrain, trop souvent pris entre deux logiques et types de dispositifs institutionnels qui s'opposent : le social et l'insertion d'un côté, le culturel de l'autre. Promouvoir l'accès au pouvoir des mots va de pair avec l'objectif de démocratie culturelle aujourd'hui poursuivi par l'action publique en matière de culture. Cela impose de dépasser les barrières précitées entre catégories de l'action publique. C'est dans cette perspective que s'inscrit la démarche de la DIV.
