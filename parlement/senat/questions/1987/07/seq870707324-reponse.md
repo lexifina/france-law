@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870707324
+
+- Question : [SEQ870707324](seq870707324.md) — Suppression de la filière Science, économie et technologie à Belfort (Territoire-de-Belfort)
+
+## Réponse
+
+*Recherche et enseignement supérieur, JO du 1988-01-28, page 126*
+
+Réponse. -En l'absence de possibilités de poursuite d'études vers une maîtrise de sciences et techniques " organisation et gestion appliquée à la production ", le diplôme d'études universitaires générales (D.E.U.G.) " sciences économie et technologie " (S.E.T.) s'avérait, dans les faits, offrir peu de perspectives de débouchés. Soucieux de devenir des étudiants intéressés par ce type de filière, il importait donc, dans les meilleurs délais, de trouver à l'actuel cursus une solution de substitution qui soit la plus à même de répondre non seulement aux voeux des étudiants mais encore à l'attente des entreprises dont les offres d'emplois, en ce secteur d'activité, se révèlent nombreuses. C'est dans cet esprit que le ministre chargé de la recherche et de l'enseignement supérieur a, à compter de la présente rentrée universitaire, décidé d'implanter auprès de l'institut universitaire de technologie de Belfort, en lieu et place du D.E.U.G.-S.E.T., un département tourné vers l'organisation et la gestion de la production. Il est destiné à dispenser des enseignements afférents à la première et à la seconde année d'études afin notamment que les étudiants titulaires du D.E.U.G.-S.E.T. le souhaitant, puissent également bénéficier de l'octroi du diplôme universitaire de technologie. A l'intention de cette même catégorie de diplômés, une possibilité de continuation de leurs études au sein de l'E.N.I. de Belfort, afin d'obtenir à terme le diplôme d'ingénieur dans l'option " organisation et gestion de la production ", leur a été par ailleurs proposée à compter de cette même rentrée universitaire.
