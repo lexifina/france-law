@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940606572
+
+- Question : [SEQ940606572](seq940606572.md) — Situation financière de certains anciens fonctionnaires en Indochine
+
+## Réponse
+
+*Fonction publique, JO du 1994-11-17, page 2724*
+
+Réponse. - L'intégration des anciens fonctionnaires d'Indochine de nationalité française dans les cadres métropolitains de l'administration française a été réalisée en application de la loi no 57-261 du 2 mars 1957 fixant les modalités de dégagement ou d'intégration de certaines catégories de personnels d'Indochine. En vertu de l'article 1er de cette loi, les agents ont sollicité leur reclassement en précisant le cas échéant le corps dans lequel ils préféraient être intégrés. Les fonctionnaires concernés ont été intégrés dans un emploi et un grade équivalent à leur cadre d'origine, compte tenu notamment de leurs titres et diplômes et des conditions générales de recrutement de ce cadre. Leur situation statutaire a donc été alignée sur celle des fonctionnaires métropolitains des corps dans lesquels ils ont été reclassés. A compter de la date d'intégration, ils ont poursuivi normalement leur carrière dans ces corps d'accueil. Toutefois, afin de tenir compte des distorsions existant entre les cadres locaux et les corps métropolitains, l'article 7 de la loi du 2 mars 1957 a prévu l'attribution d'une indemnité compensatrice lorsque le reclassement conduirait à intégrer les agents à un indice inférieur à celui détenu dans leur cadre d'origine, l'objectif étant de leur assurer le maintien de leur niveau de rémunération. Cependant, le reclassement dans un nouveau corps a eu pour effet de rompre tous les liens qui les unissaient à leur corps d'origine. Par conséquent, ils ne sauraient prétendre bénéficier des revalorisations accordées aux agents de leur ancien cadre postérieurement à leur intégration dans la fonction publique métropolitaine.
