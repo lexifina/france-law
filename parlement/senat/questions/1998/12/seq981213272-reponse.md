@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981213272
+
+- Question : [SEQ981213272](seq981213272.md) — Imposition des filiales ou succursales des sociétés françaises établies en Suisse
+
+## Réponse
+
+*Budget, JO du 2001-02-08, page 500*
+
+Réponse. - L'article 16 de l'avenant à la convention fiscale entre la France et la Suisse du 9 septembre 1966, signé le 22 juillet 1997 et entré en vigueur le 1er août 1998, a introduit dans la convention précitée un nouvel article 25 A relatif aux modalités d'élimination de la double imposition, dont le paragraphe 1 permet à la France d'imposer selon les modalités prévues par sa législation interne les revenus qui sont ou ne sont imposables qu'en Suisse lorsqu'ils ne sont pas exemptés de l'impôt sur les sociétés en application de la législation interne française, la double imposition pouvant en résulter étant ensuite éliminée du côté français, s'agissant des revenus soumis à l'impôt sur les sociétés visés à l'article 7 de la convention (bénéfices des entreprises), par l'octroi d'un crédit d'impôt égal au montant de l'impôt suisse acquitté à raison de ces sommes. Ainsi que cela a été précisé dans le cadre des rapports présentés respectivement par la commission des affaires étrangères de l'Assemblée nationale et par la commission des finances du Sénat lors de la procédure d'approbation de cet avenant, cette disposition confirme la possibilité pour la France de mettre en uvre les dispositions de l'article 209 B du code général des impôts à raison de la détention de certaines structures suisses par les entreprises françaises. S'agissant plus particulièrement des préoccupations de l'auteur de la question relatives à l'interprétation de ce texte par les autorités fiscales suisses, celles-ci ont signé l'avenant du 22 juillet 1997 au terme de négociations engagées en 1994, au cours desquelles le texte du nouvel article 25 A de la convention intégrant les dispositions précitées a été examiné et accepté par la partie suisse.
