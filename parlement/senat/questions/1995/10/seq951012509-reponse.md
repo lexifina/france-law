@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951012509
+
+- Question : [SEQ951012509](seq951012509.md) — Assujettissement des coopératives agricoles à la contribution sociale de solidarité des sociétés
+
+## Réponse
+
+*Agriculture, JO du 1996-02-01, page 201*
+
+Réponse. - La contribution sociale de solidarité des sociétés (CSSS) participe au financement des régimes de protection sociale maladie et vieillesse des non-salariés, compensant l'amenuisement des ressources de ces régimes. Ainsi, sur un total de 55 milliards de francs de ressources des trois régimes de non-salariés non agricoles, la CANAM pour la maladie, l'ORGANIC et la CANCAVA pour la vieillesse des commerçants et des artisans, la CSSS procure à ces régimes près de 10 milliards de recettes. Néanmoins, depuis 1994 et pour la première fois depuis l'instauration de cette contribution, les disponibilités de la CSSS ne permettent plus d'assurer l'équilibre de ces régimes : l'insuffisance devrait atteindre 4 milliards de francs à la fin de 1995. Le Gouvernement ne pouvait rester insensible à la menace que fait peser cette situation sur les retraites des artisans et des commerçants dont les régimes auraient été en rupture de trésorerie au début de l'année 1996 à législation inchangée. Il a donc proposé de relever dès 1995 le taux de la CSSS à 0,13 p. 100 et d'en étendre le champ notamment à l'ensemble des coopératives. Toutefois, le Gouvernement s'est montré soucieux de tenir compte des particularités des coopératives agricoles et maritimes. L'article 30 de la loi de finances rectificative pour 1995 a prévu l'exonération totale des coopératives d'approvisionnement et des coopératives d'utilisation du matériel agricole, les CUMA. Lors de l'examen de la loi de finances pour 1996, cette exonération a été étendue aux coopératives maritimes. Sont également exonérées de CSSS les opérations réalisées par les coopératives avec d'autres organismes coopératifs dont elles sont associés coopérateurs.
