@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960515806
+
+- Question : [SEQ960515806](seq960515806.md) — Situation des cabinets de généalogie
+
+## Réponse
+
+*Économie, JO du 1996-10-03, page 2559*
+
+Réponse. - Les personnes faisant profession de généalogie, activité non réglementée, ont déjà libre accès à la consultation de certains documents relatifs à l'exercice de leur profession (registre de l'enregistrement clos depuis plus de cent ans, dossiers fiscaux de plus de soixante ans). Ils peuvent en outre obtenir, sur ordonnance du juge du tribunal d'instance, en application des dispositions de l'article L. 106 du livre des procédures fiscales, des extraits des registres de l'enregistrement clos depuis moins de cent ans présentant un caractère contractuel. En ce qui concerne les autres documents détenus par l'administration fiscale ou versés aux archives publiques, le secret professionnel auquel sont tenus les agents de l'administration s'oppose à leur libre consultation. C'est en particulier le cas des déclarations de succession, qui ne présentent pas le caractère contractuel requis par l'article L. 106 précité. Une modification de ce texte serait donc nécessaire pour qu'une suite favorable, s'inscrivant dans ce cadre juridique, puisse être donnée aux demandes des généalogistes. Des dérogations prévues par la loi no 79-18 du 3 janvier 1979 sur les archives peuvent cependant, d'ores et déjà, être accordées dans la mesure où l'intérêt des tiers ou la protection de la vie privée des familles ne s'y opposent pas. Conformément au décret no 79-1038 du 3 décembre 1979 relatif à la communicabilité des documents d'archives publiques, la consultation est alors autorisée par la direction des archives de France après accord de l'autorité qui a effectué le versement ou qui assure la conservation du document.
