@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920220123
+
+- Question : [SEQ920220123](seq920220123.md) — Gestion des caisses locales d'assurance maladie
+
+## Réponse
+
+*Affaires sociales, JO du 1992-09-24, page 2175*
+
+Réponse. - La CNAMTS et les ministères de tutelle ont adopté, fin 1988, le plan budgétaire 1989-1991 de la branche maladie. Ce plan de trois ans s'inscrivait dans la poursuite d'un objectif de réduction des coûts de gestion des organismes, à charge de travail égale sur 9 ans. Le bilan de ce premier plan pluriannuel laisse apparaître que l'objectif de réduction des écarts, retenu en référence au coût par assuré actif pondéré de la moyenne des cinquante premières caisses, a été amorcé ainsi : vingt caisses ont un coût de gestion par assuré actif pondéré inférieur à la moyenne retenue ; l'écart entre le coût moyen des cinquante premières caisses et celui des cinquante dernières est de 1,3 ; l'écart entre le coût des vingt premières et celui des vingt dernières demeure de 1,5. Ces résultats intègrent l'évolution de la population d'assurés actifs gérés par les organismes. Le nouveau plan (1992-1994) doit permettre la poursuite de cet objectif. Les écarts de 800 à 2 400 francs par dossier (soit un écart de 1 à 3) mentionnés par la presse ne peuvent être comparés au classement des CPAM en fonction de leur coût de gestion par assuré actif pondéré tel que l'établit la CNAMTS. Ils ne peuvent pas non plus être rapprochés d'un prix de revient global (déterminé en rapportant les dépenses de gestion administrative à la charge de travail exprimée en décomptes et cellules actes) qui se situe à une moyenne de 9 francs tous risques confondus. En conclusion : les chiffres annoncés par la presse ne peuvent être rapprochés de façon pertinente d'aucun des indicateurs de gestion élaborés par la CNAMTS.
