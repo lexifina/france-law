@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900208204
+
+- Question : [SEQ900208204](seq900208204.md) — Financement de l'aide à domicile
+
+## Réponse
+
+*Affaires sociales, JO du 1991-09-26, page 2078*
+
+Réponse. - Les conditions de travail et de rémunération des personnels de l'aide à domicile sont fixées, pour les personnels employés par des centres communaux d'action sociale, par des dispositions prises dans le cadre de la réglementation applicable à la fonction publique territoriale, relevant du ministère de l'intérieur. Les personnels employés par des associations, très majoritaires, sont régis par des conventions collectives agréées par son département ministériel. Pour l'année 1990, la progression de la rémunération moyenne des personnels en place régis par la convention collective du 11 mai 1983 a été, compte tenu de l'agrément de l'important avenant n° 2/1990 sur la prévoyance, de 3,86 p. 100. En 1991, le taux de remboursement de l'heure d'aide ménagère, revalorisé au 1er juillet 1991, pourra financer une augmentation significative des rémunérations des aides ménagères (4,11 p. 100 en moyenne annuelle). En effet, l'avenant n° 2/91 du 27 juin 1991 à la convention collective du 11 mai 1983 a été agréé par arrêté du 10 juillet 1991. Il prévoit d'étaler sur trois exercices la montée en charge d'une nouvelle grille indiciaire pour les aides ménagères. Par ailleurs, cet avenant crée, à compter du 1er avril 1991, une grille de salaires spécifique pour les aides-ménagères titulaires du certificat d'aptitude aux fonctions d'aide à domicile. Ainsi, les différentes mesures approuvées et financées tant en 1990 qu'à partir de 1991 constituent-elles une amélioration sensible de la situation des aides ménagères et marquent bien la volonté du Gouvernement de développer l'efficacité et la qualité de l'aide à domicile.
