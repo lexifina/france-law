@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960314256
+
+- Question : [SEQ960314256](seq960314256.md) — Insécurité dans le quartier des Courtillières à Pantin (Seine-Saint-Denis)
+
+## Réponse
+
+*Intérieur, JO du 1996-05-23, page 1273*
+
+Réponse. - Le renforcement progressif des effectifs de la circonscription de sécurité publique de Pantin s'est traduit par un accroissement des moyens en personnel qui sont passés de 92 à 116 fonctionnaires entre le 1er janvier 1992 et le 1er janvier 1996. Dix policiers auxiliaires complètent le potentiel de ce service. Ces moyens ont contribué à la diminution de 9,32 p. 100 de la délinquance générale et de 13,81 p. 100 de la délinquance de voie publique de cette ville entre 1994 et 1995. Trois îlotiers sont actuellement affectés au poste de police du quartier des Courtillières à partir duquel ils effectuent leur mission de prévention et de contact avec les habitants. Leur rôle est complété par l'action conjuguée des diverses unités du commissariat central et du département qui accomplissent des patrouilles fréquentes et régulières dans ce secteur pendant et en dehors des heures d'ouverture du poste de police. L'ouverture permanente de ce poste nécessiterait un redéploiement des effectifs de la circonscription qui engendrerait une dispersion des effectifs et obérerait à due concurrence leur potentiel d'intervention. Dans le cadre du pacte de relance pour la ville, le département de la Seine-Saint-Denis qui est classé dans les zones dites sensibles bénéficiera, dès cette année, d'un apport en personnels actifs, en personnels administratifs et techniques, et en policiers auxiliaires qui sera notamment destiné à renforcer les unités départementales (sûreté, brigade anticriminalité, compagnie d'intervention) qui contribuent à la sécurité de la population de toutes les circonscriptions.
