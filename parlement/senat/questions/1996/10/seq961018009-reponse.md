@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961018009
+
+- Question : [SEQ961018009](seq961018009.md) — Répartition des dépenses de fonctionnement des écoles entre communes de résidence et d'accueil
+
+## Réponse
+
+*Éducation, JO du 1996-11-21, page 3059*
+
+Réponse. - L'article 23 de la loi no 83-663 du 22 juillet 1983 modifiée fixe les conditions de répartition des dépenses de fonctionnement des écoles maternelles et élémentaires accueillant des enfants de plusieurs communes. Il prévoit expressément, d'une part, que la scolarisation d'un enfant dans une école d'une commune autre que celle de sa résidence ne peut être remise en cause avant le terme soit de la formation préélémentaire, soit de la scolarité primaire commencée dans la commune d'accueil et, d'autre part, qu'une commune est tenue de participer à la scolarisation d'enfants dans une autre commune lorsque cette inscription est justifiée notamment par l'inscription d'un frère ou d'une soeur dans cette commune d'accueil. Comme le précise le décret no 86-425 du 12 mars 1986, cette règle s'applique lorsque l'inscription de ce frère ou de cette soeur est justifiée par la poursuite du cycle commencé. Il résulte de ces dispositions que, dans l'hypothèse du changement de résidence d'une famille, les charges de scolarité des enfants bénéficiaires du droit à la poursuite du cycle de formation entamé continueraient d'être supportées par la commune où ils résidaient précédemment devenue commune d'accueil, tandis que l'inscription ultérieure de frères et de soeurs dans la même commune justifiée par la scolarisation de la fratrie entraînerait l'obligation pour la nouvelle commune de résidence de participer aux charges de fonctionnement des écoles de la commune d'accueil au titre de ces enfants. Le tribunal administratif de Nantes a rendu un avis en ce sens le 4 juillet 1994, sous réserve de l'appréciation contentieuse de la juridiction compétente.
