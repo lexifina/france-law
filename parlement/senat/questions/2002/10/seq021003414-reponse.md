@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021003414
+
+- Question : [SEQ021003414](seq021003414.md) — Participation de la France au Fonds mondial pour les vaccins
+
+## Réponse
+
+*Santé, JO du 2003-01-02, page 88*
+
+Le Fonds mondial pour les vaccins a été créé dans le cadre de l'alliance mondiale pour les vaccins et l'immunisation (GAVI, sous son acronyme anglais) pour réunir des fonds et financer des programmes d'immunisation présentés par les pays en développement. Même si elle soutient pleinement les initiatives de ce type, la France n'a pas jusqu'à présent participé directement et financièrement au Fonds mondial pour les vaccins. En revanche, l'Institut Pasteur apporte une expertise technique aux responsables du GAVI tout en participant à des actions internationales de recherche sur les vaccins. Le ministère de la santé, de la famille et des personnes handicapées apporte son soutien à l'ensemble des initiatives développées en matière de lutte contre les maladies transmissibles, compte tenu de l'ampleur de la pandémie du sida. S'agissant plus particulièrement des crédits inscrits au chapitre 42-01 au titre de l'initiative de solidarité thérapeutique internationale, cette ligne budgétaire témoigne de la volonté du ministère de se donner les moyens de renforcer son action dans les domaines de la lutte contre les maladies transmissibles. À ce titre, la création du GIP-ESTHER, intervenue en 2002, constitue désormais un nouveau signal de l'engagement de la France dans la lutte internationale contre le sida. Toutefois, les délais inhérents à la mise en place juridique de cette structure, qui n'a pu être effectuée qu'au cours de l'année 2002 au lieu de 2001, ont conduit au report des crédits 2001 sur 2002. Cependant, au regard de l'activité et de la programmation des actions validées par son conseil d'administration, le budget 2002 du GIP-ESTHER est en voie de consommation.
