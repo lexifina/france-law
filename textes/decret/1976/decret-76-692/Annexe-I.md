@@ -1,231 +1,143 @@
-# Article Annexe
+# Article Annexe I
 
-1. Au sens du présent décret, on entend par :
+A. - Dénominations de vente et définitions
 
-1.1. Fèves de cacao :
+1. Beurre de cacao :
 
-Les graines de cacaoyer (Theobroma cacao L.) fermentées et séchées ;
+Désigne la matière grasse obtenue à partir de fèves de cacao ou de parties de fèves de cacao et qui répond aux caractéristiques suivantes :
 
-1.2. Cacao en grains :
+- teneur en acides gras libres (exprimée en acide oléique) : pas plus de 1,75 % ;
 
-Les fèves de cacao, torréfiées ou non, lorsqu'elles ont été nettoyées, décortiquées et dégermées, ne contenant, sous réserve des dispositions du paragraphe 2, pas plus de 5 p. 100 de coques et germes non éliminés ni plus de 10 p. 100 de cendres, taux calculés d'après le poids de la matière sèche et dégraissée ;
+- teneur en insaponifiables (déterminée à l'éther de pétrole) :
 
-1.3. Pousse de cacao :
+pas plus de 0,5 %, sauf dans le cas du beurre de cacao de pression pour lequel elle n'excédera pas 0,35 %.
 
-Les éléments de fèves de cacao se présentant sous forme de petites particules recueillies séparément lors des opérations de décorticage et de dégermage et contenant au moins 20 p. 100 de matière grasse calculés d'après le poids de la matière sèche ;
+2. a) Cacao en poudre, cacao :
 
-1.4. Cacao en pâte ou pâte de cacao :
+Désigne le produit obtenu par la transformation en poudre de fèves de cacao nettoyées, décortiquées et torréfiées, et contenant pas moins de 20 % de beurre de cacao, taux calculé d'après le poids de la matière sèche, et pas plus de 9 % d'eau.
 
-Le cacao en grains réduit en pâte au moyen d'un procédé mécanique et non privé d'une partie quelconque de sa matière grasse naturelle ;
+b) Cacao maigre en poudre, cacao maigre, cacao fortement dégraissé en poudre, cacao fortement dégraissé :
 
-1.5. Tourteau de cacao :
+Désigne le cacao en poudre dont la teneur en beurre de cacao, calculée d'après le poids de la matière sèche, est inférieure à 20 %.
 
-Le cacao en grains ou en pâte transformé en tourteau par un procédé mécanique et contenant, sous réserve de la définition du tourteau de cacao maigre, au moins 20 p. 100 de beurre de cacao, taux calculé d'après le poids de la matière sèche, et au plus 9 p. 100 d'eau ;
+c) Chocolat en poudre :
 
-1.6. Tourteau de cacao maigre, tourteau de cacao fortement dégraissé :
+Désigne le produit consistant en un mélange de cacao en poudre et de sucres contenant pas moins de 32 % de cacao en poudre.
 
-Le tourteau de cacao dont la teneur minimale en beurre de cacao, calculée d'après le poids de la matière sèche, est de 8 p. 100 ;
+d) Chocolat de ménage en poudre, cacao sucré, cacao en poudre sucré :
 
-1.7. Tourteau de cacao de torsion (expeller) :
+Désigne le produit consistant en un mélange de cacao en poudre et de sucres contenant pas moins de 25 % de cacao en poudre ; ces dénominations sont complétées par les mentions "maigre" ou "fortement dégraissé" lorsque le produit est maigre ou fortement dégraissé au sens du point b.
 
-Les fèves de cacao, les pousses de cacao, avec ou sans cacao en grains ou tourteau de cacao, transformées en tourteau par torsion (expeller) ;
+3. Chocolat :
 
-1.8. Cacao en poudre, cacao :
+a) Désigne le produit obtenu à partir de produits de cacao et de sucres contenant, sous réserve du point b, pas moins de 35 % de matière sèche totale de cacao, dont pas moins de 18 % de beurre de cacao et pas moins de 14 % de cacao sec dégraissé.
 
-Le tourteau de cacao, tel qu'il est défini sous 1.5, transformé en poudre par un procédé mécanique et contenant, sous réserve de la définition de cacao maigre en poudre, au moins 20 p. 100 de beurre de cacao, taux calculé d'après le poids de la matière sèche, et au plus 9 p. 100 d'eau ;
+b) Toutefois, si cette dénomination est complétée par les termes :
 
-1.9. Cacao maigre en poudre, cacao maigre, cacao fortement dégraissé en poudre, cacao fortement dégraissé :
+- "vermicelle" ou "en flocons" : le produit présenté sous forme de granulés ou de flocons doit contenir pas moins de 32 % de matière sèche totale de cacao, dont pas moins de 12 % de beurre de cacao et pas moins de 14 % de cacao sec dégraissé ;
 
-Le cacao en poudre dont la teneur minimale en beurre de cacao, calculée d'après le poids de la matière sèche, est de 8 p. 100 ;
+- "de couverture" : le produit doit contenir pas moins de 35 % de matière sèche totale de cacao, dont pas moins de 31 % de beurre de cacao et pas moins de 2,5 % de cacao sec dégraissé ;
 
-1.10. Cacao sucré en poudre, cacao sucré, chocolat en poudre :
+- "aux noisettes gianduja" (ou l'un des dérivés du mot :
 
-Le produit obtenu par le mélange de cacao en poudre et de saccharose, en proportion telle que 100 grammes de produit contiennent au moins 32 grammes de cacao en poudre ;
+"gianduja") : le produit doit être obtenu, en premier lieu, à partir de chocolat dont la teneur minimale en matière sèche de cacao est de 32 %, dont un minimum de 8 % de cacao sec dégraissé, et, en second lieu, de noisettes finement broyées, en proportion telle que 100 grammes de produit ne contiennent pas plus de 40 grammes et pas moins de 20 grammes de noisettes. Peuvent être ajoutés :
 
-1.11. Cacao de ménage sucré en poudre, cacao de ménage sucré, chocolat de ménage en poudre :
+a) Du lait et/ou de la matière sèche de lait provenant de l'évaporation du lait, dans une proportion telle que le produit fini ne contient pas plus de 5 % de matière sèche de lait ;
 
-Le produit obtenu par le mélange de cacao en poudre et de saccharose, en proportion telle que 100 grammes de produit contiennent au moins 25 grammes de cacao en poudre ;
+b) Des amandes, des noisettes et autres variétés de noix, entières ou en morceaux, dans une proportion telle que le poids de ces additions, ajouté à celui des noisettes broyées, ne dépasse pas 60 % du poids total du produit.
 
-1.12. Cacao maigre sucré en poudre, cacao maigre sucré, cacao fortement dégraissé sucré en poudre, cacao fortement dégraissé sucré :
+4. Chocolat au lait :
 
-Le produit obtenu par le mélange de cacao maigre en poudre et de saccharose, en proportion telle que 100 grammes de produit contiennent au moins 32 grammes de cacao maigre en poudre ;
+a) Désigne le produit obtenu à partir de produits de cacao, de sucres et de lait ou produits de lait et qui contient, sous réserve du point b :
 
-1.13. Cacao de ménage maigre sucré en poudre, cacao de ménage maigre sucré, cacao de ménage fortement dégraissé sucré en poudre, cacao de ménage fortement dégraissé sucré :
+- pas moins de 25 % de matière sèche totale de cacao ;
 
-Le produit obtenu par le mélange de cacao maigre en poudre et de saccharose, en proportion telle que 100 grammes de produit contiennent au moins 25 grammes de cacao maigre en poudre ;
+- pas moins de 14 % de matière sèche de lait provenant de la déshydratation partielle ou totale de lait entier, de lait partiellement ou totalement écrémé, de crème, de crème partiellement ou totalement déshydratée, de beurre ou de matière grasse lactique ;
 
-1.14. Beurre de cacao :
+- pas moins de 2,5 % de cacao sec dégraissé ;
 
-La matière grasse obtenue à partir de fèves de cacao de parties de fèves de cacao et qui est conforme aux dispositions ci-après. Le beurre de cacao est présenté sous l'une des formes et dénominations suivantes :
+- pas moins de 3,5 % de matière grasse lactique ;
 
-Beurre de cacao de pression ou beurre de cacao :
+- pas moins de 25 % de matière grasse totale (provenant de beurre de cacao et de matière grasse lactique).
 
-Le beurre de cacao obtenu par pression à partir de l'une ou plusieurs des matières premières suivantes :
+b) Toutefois, si cette dénomination est complétée par les termes :
 
-Cacao en grains, cacao en pâte, tourteau de cacao, tourteau de cacao maigre.
+- "vermicelle" ou "en flocons" : le produit présenté sous forme de granulés ou de flocons doit contenir pas moins de 20 % de matière sèche totale de cacao, pas moins de 12 % de matière sèche de lait provenant de la déshydratation partielle ou totale de lait entier, de lait partiellement ou totalement écrémé, de crème, de crème partiellement ou totalement déshydratée, de beurre ou de matière grasse lactique, et pas moins de 12 % de matière grasse totale (beurre de cacao et matière grasse lactique) ;
 
-Il répond aux caractéristiques suivantes :
+- "de couverture" : le produit doit avoir une teneur minimale en matière grasse totale de 31 % (beurre de cacao et matière grasse lactique) ;
 
-Teneur en insaponifiables déterminée à l'éther de pétrole :
+- "aux noisettes gianduja" (ou l'un des dérivés du mot :
 
-pas plus de 0,35 p. 100 ;
+"gianduja") : le produit doit être obtenu, en premier lieu, à partir de chocolat au lait dont la teneur minimale en matière sèche de lait est de 10 %, provenant de la déshydratation partielle ou totale de lait entier, de lait partiellement ou totalement écrémé, de crème, de crème partiellement ou totalement déshydratée, de beurre ou de matière grasse lactique, et, en second lieu, de noisettes finement broyées, en proportion telle que 100 grammes de produit contiennent au plus 40 grammes et pas moins de 15 grammes de noisettes. Peuvent, en outre, être ajoutées des amandes, des noisettes et autres variétés de noix, entières ou en morceaux, dans une proportion telle que le poids de ces additions, ajouté à celui des noisettes broyées, ne dépasse pas 60 % du poids total du produit.
 
-Teneur en acides gras libres : pas plus de 1,75 p. 100 (exprimée en acide oléique).
+c) Lorsque, dans cette dénomination, les mots : "au lait" sont remplacés par :
 
-Beurre de cacao d'expeller :
+- "à la crème" : le produit doit avoir une teneur minimale en matière grasse lactique de 5,5 % ;
 
-Le beurre de cacao obtenu par torsion (expeller) à partir de fèves de cacao, seules ou en mélange avec du cacao en grains, du cacao en pâte, du tourteau de cacao ou du tourteau de cacao maigre.
+- "au lait écrémé" : le produit doit avoir une teneur en matière grasse lactique qui n'excède pas 1 %.
 
-Il répond aux caractéristiques suivantes :
+5. Chocolat de ménage au lait :
 
-Teneur en insaponifiables déterminée à l'éther de pétrole : pas plus de 0,50 p. 100 ;
+Désigne le produit obtenu à partir de produits de cacao, de sucres et de lait ou produits de lait et qui contient :
 
-Teneur en acides gras libres : pas plus de 1,75 p. 100 (exprimée en acide oléique).
+- pas moins de 20 % de matière sèche totale de cacao ;
 
-Beurre de cacao raffiné :
+- pas moins de 20 % de matière sèche de lait provenant de la déshydratation partielle ou totale de lait entier, de lait partiellement ou totalement écrémé, de crème, de crème partiellement ou totalement déshydratée, de beurre ou de matière grasse lactique ;
 
-Le beurre de cacao, obtenu par pression, par torsion (expeller), par extraction au moyen d'un solvant ou par une combinaison de ces procédés, à partir de l'une ou de plusieurs des matières premières suivantes :
+- pas moins de 2,5 % de cacao sec dégraissé ;
 
-Fèves de cacao, cacao en grains, pousse de cacao, cacao en pâte, tourteau de cacao, tourteau de cacao maigre, tourteau d'expeller, et qui est raffiné conformément au paragraphe 3 sous b ; dans le cas où la graisse de cacao, produite soit par le fabricant de "beurre de cacao raffiné" lui-même, soit par un autre fabricant, est utilisée en tant que matière première intermédiaire, celle-ci doit avoir été obtenue à partir des matières premières énumérées ci-dessus.
+- pas moins de 5 % de matière grasse lactique ;
 
-Il répond aux caractéristiques suivantes :
+- pas moins de 25 % de matière grasse totale (beurre de cacao et matière grasse lactique).
 
-Teneur en insaponifiables déterminée à l'éther de pétrole :
+6. Chocolat blanc :
 
-pas plus de 0,50 p. 100 ;
+Désigne le produit obtenu à partir de beurre de cacao, de lait ou produits de lait et de sucres contenant pas moins de 20 % de beurre de cacao et pas moins de 14 % de matière sèche de lait provenant de la déshydratation partielle ou totale de lait entier, de lait partiellement ou totalement écrémé, de crème, de crème partiellement ou totalement déshydratée, de beurre ou de matière grasse lactique, dont pas moins de 3,5 % de matière grasse lactique.
 
-Teneur en acides gras libres : pas plus de 1,75 p. 100 (exprimée en acide oléique) ;
+7. Chocolat fourré :
 
-Teneur en matières grasses provenant des coques et germes : non supérieure, proportionnellement, à la teneur existant naturellement dans les fèves de cacao.
+Désigne le produit fourré dont la partie extérieure est constituée d'un des produits définis aux points 3, 4, 5 et 6. La dénomination ne s'applique pas aux produits dont l'intérieur est constitué de produits de la boulangerie, de pâtisserie, de biscuit ou d'une glace de consommation.
 
-1.15. Graisse de cacao :
+La partie extérieure constituée de chocolat des produits portant cette dénomination ne représente pas moins de 25 % du poids total du produit.
 
-La matière grasse obtenue à partir de fèves de cacao ou de partie de fèves de cacao et qui n'est pas conforme aux caractéristiques fixées pour les différentes catégories de beurre de cacao ;
+8. Chocolate a la taza :
 
-1.16. Chocolat :
+Désigne le produit obtenu à partir de produits de cacao, de sucres et de farine ou d'amidon de blé, de riz ou de maïs contenant pas moins de 35 % de matière sèche totale de cacao, dont pas moins de 18 % de beurre de cacao et pas moins de 14 % de cacao sec dégraissé et pas plus de 8 % de farine ou d'amidon.
 
-Le produit obtenu à partir de cacao en grains, de cacao en pâte, de cacao en poudre ou de cacao maigre en poudre et de saccharose, avec ou sans addition de beurre de cacao, et contenant, sous réserve des définitions de chocolat vermicelle, de chocolat aux noisettes gianduja et de chocolat de couverture, au moins 35 p. 100 de matière sèche totale de cacao, au moins 14 p. 100 de cacao sec dégraissé et 18 p. 100 de beurre de cacao, ces pourcentages étant calculés après déduction du poids des additions prévues aux paragraphes 5 à 8 ;
+9. Chocolate familiar a la taza :
 
-1.17. Chocolat de ménage:
+Désigne le produit obtenu à partir de produits de cacao, de sucres et de farine ou d'amidon de blé, de riz ou de maïs contenant pas moins de 30 % de matière sèche totale de cacao, dont pas moins de 18 % de beurre de cacao et pas moins de 12 % de cacao sec dégraissé et pas plus de 18 % de farine ou d'amidon.
 
-Le produit obtenu à partir de cacao en grains, de cacao en pâte, de cacao en poudre ou de cacao maigre en poudre et de saccharose avec ou sans addition de beurre de cacao, et contenant au moins 30 p. 100 de matière sèche totale de cacao, au moins 12 p. 100 de cacao sec dégraissé et 18 p. 100 de beurre de cacao, ces pourcentages étant calculés après déduction du poids des additions prévues aux paragraphes 5 à 8 ;
+10. Bonbon de chocolat ou praline :
 
-1.18. Chocolat vermicelle ou chocolat en flocons :
-
-Le chocolat sous forme de granulés ou de flocons, dont la teneur minimale en matière sèche totale de cacao est de 32 p. 100 et celle en beurre de cacao de 12 p. 100 ;
-
-1.19. Chocolat aux noisettes gianduja (ou l'un des dérivés du dernier mot) :
-
-Le produit obtenu à partir de chocolat dont la teneur minimale en matière sèche totale de cacao est de 32 p. 100 et celle en cacao sec dégraissé de 8 p. 100, d'une part, et de noisettes finement broyées, d'autre part, en proportion telle que 100 grammes de produit contiennent au plus 40 grammes et au moins 20 grammes de noisettes.
-
-Peuvent en outre être ajoutés :
-
-Du lait ou des matières provenant de la déshydratation partielle ou entière du lait entier du lait partiellement ou entièrement écrémé dans une proportion telle que le produit fini ne contienne pas plus de 5 p. 100 en poids de matière sèche totale d'origine lactique dont un maximum de 1,25 p. 100 de graisse butyrique.
-
-Des amandes, des noisettes et des noix, entières ou en morceaux, dans une proportion telle que le poids de ces additions, ajouté à celui des noisettes broyées, ne dépasse pas 60 p. 100 du poids total du produit.
-
-1.20. Chocolat de couverture :
-
-Le chocolat dont la teneur minimale en beurre de cacao est de 31 p. 100 et celle en cacao sec dégraissé de 2,5 p. 100 ; si le chocolat de couverture est désigné comme "chocolat de couverture de couleur foncée", sa teneur minimale en beurre de cacao est de 31 p. 100 et sa teneur minimale en cacao sec dégraissé est de 16 p. 100 ;
-
-1.21. Chocolat au lait :
-
-Le produit obtenu à partir de cacao en grains, de cacao en pâte, de cacao en poudre et de cacao maigre en poudre et de saccharose, avec ou sans addition de beurre de cacao, ainsi qu'à partir de lait ou de matière provenant de la déshydratation partielle ou entière du lait entier ou du lait partiellement ou entièrement écrémé et éventuellement de crème, de crème partiellement ou entièrement déshydratée, de beurre ou de graisse butyrique ; il répond aux caractéristiques suivantes, sous réserve des définitions du chocolat vermicelle au lait, du chocolat au lait et aux noisettes gianduja et du chocolat de couverture au lait ;
-
-Matière sèche totale de cacao : pas moins de 25 p. 100 ;
-
-Cacao sec dégraissé : pas moins de 2,5 p. 100 ;
-
-Matière sèche totale d'origine lactique provenant des ingrédients énumérés ci-dessus : pas moins de 14 p. 100 ;
-
-Graisse butyrique : pas moins de 3,5 p. 100 ;
-
-Matière grasses totales : pas moins de 25 p. 100 ;
-
-Saccharose : pas plus de 55 p. 100.
-
-Ces pourcentages étant calculés après déduction du poids des additions prévues aux paragraphes 5 à 8 ;
-
-1.22. Chocolat de ménage au lait :
-
-Le produit obtenu à partir de cacao en grains, de cacao en pâte, de cacao en poudre ou de cacao maigre en poudre et de saccharose, avec ou sans addition du beurre de cacao, ainsi qu'à partir de lait ou de matières provenant de la déshydratation partielle ou entière du lait entier ou du lait partiellement ou entièrement écrémé, et éventuellement de crème, de crème partiellement ou entièrement déshydratée, de beurre ou de graisse butyrique ; il répond aux caractéristiques suivantes :
-
-Matière sèche totale de cacao : pas moins de 20 p. 100 ;
-
-Cacao sec dégraissé : pas moins de 2,5 p. 100 ;
-
-Matière sèche totale d'origine lactique provenant des ingrédients énumérés ci-dessus : pas moins de 20 p. 100 ;
-
-Graisse butyrique : pas moins de 5 p. 100 ;
-
-Matières grasses totales : pas moins de 25 p. 100 ;
-
-Saccharose : pas plus de 55 p. 100.
-
-Ces pourcentages étant calculés après déduction du poids des additions prévues aux paragraphes 5 à 8 ;
-
-1.23. Chocolat vermicelle au lait ou chocolat en flocons au lait :
-
-Le chocolat au lait sous forme de granulés ou de flocons, et dont les caractéristiques suivantes diffèrent de celles prévues au paragraphe 1.21 :
-
-Matière sèche totale de cacao : pas moins de 20 p. 100 ;
-
-Matière sèche totale d'origine lactique provenant des ingrédients énumérés au paragraphe 1.21 : pas moins de 12 p. 100 ;
-
-Graisse butyrique : pas moins de 3 p. 100 ;
-
-Matières grasses totales : pas moins de 12 p. 100 ;
-
-Saccharose : pas plus de 66 p. 100.
-
-1.24. Chocolat au lait et aux noisettes gianduja (ou l'un des dérivés du dernier mot) :
-
-Le produit obtenu à partir de chocolat au lait dont la teneur minimale en matière sèche totale d'origine lactique est de 10 p. 100, d'une part, et de noisettes finement broyées, d'autre part, en proportion telle que 100 grammes de produit contiennent au plus 40 grammes et au moins 15 grammes de noisettes. Peuvent, en outre, être ajoutées des amandes, des noisettes et des noix, entières ou en morceaux, dans une proportion telle que le poids de ces additions, ajouté à celui des noisettes broyées, ne dépasse pas 60 p. 100 du poids total du produit.
-
-1.25. Chocolat de couverture au lait :
-
-Le chocolat au lait dont la teneur minimale en matières grasses est de 31 p. 100.
-
-1.26. Chocolat blanc :
-
-Le produit exempt de matières colorantes, obtenu à partir de beurre de cacao et de saccharose, ainsi qu'à partir de lait ou de matières provenant de la déshydratation, partielle ou entière du lait entier ou du lait partiellement ou entièrement écrémé et éventuellement de crème, de crème partiellement ou entièrement déshydratée, de beurre ou de graisse butyrique ; il répond aux caractéristiques suivantes :
-
-Beurre de cacao : pas moins de 20 p. 100 ;
-
-Matière sèche totale d'origine lactique provenant des ingrédients énumérés ci-dessus : pas moins de 14 p. 100 ;
-
-Graisse butyrique : pas moins de 3,5 p. 100 ;
-
-Saccharose : pas plus de 55 p. 100.
-
-Ces pourcentages étant calculés après déduction du poids des additions prévues aux paragraphes 5 à 8.
-
-1.27. Chocolat fourré :
-
-Sans préjudice des dispositions applicables au produit de fourrage utilisé, le produit fourré, à l'exclusion des produits de la boulangerie fine, de la pâtisserie et de la biscuiterie, et dont la partie extérieure est constituée de chocolat, de chocolat de ménage, de chocolat aux noisettes gianduja, de chocolat de couverture, de chocolat au lait, de chocolat de ménage au lait, de chocolat au lait et aux noisettes gianduja, de chocolat de couverture au lait ou de chocolat blanc et représente 25 p. 100 au moins du poids total du produit.
-
-1.28. Bonbon de chocolat :
-
-Le produit de la taille d'une bouchée, constitué :
+Désigne le produit de la taille d'une bouchée, constitué :
 
 - soit de chocolat fourré ;
 
-- soit d'une juxtaposition de parties de chocolat, de chocolat de ménage, de chocolat aux noisettes gianduja, de chocolat de couverture, de chocolat au lait, de chocolat de ménage au lait, de chocolat au lait ou de chocolat blanc et de parties d'autres matières comestibles, pour autant que les parties des produits de chocolat soient au moins partiellement et clairement apparentes et représentent 25 p. 100 au moins du poids total du produit ;
+- soit d'un seul chocolat ou d'une juxtaposition ou d'un mélange de chocolat au sens des définitions figurant aux points 3, 4, 5 ou 6 et d'autres matières comestibles, pour autant que le chocolat ne représente pas moins de 25 % du poids total du produit.
 
-- soit d'un mélange de chocolat, de chocolat de ménage, de chocolat de couverture, de chocolat au lait, de chocolat de ménage au lait ou de chocolat de couverture au lait et d'autres matières comestibles à l'exclusion :
+B. - Ingrédients facultatifs autorisés
 
-Des farines, amidons et fécules ;
+Additions de matières comestibles
 
-Des matières grasses autres que le beurre de cacao et les matières grasses provenant du lait, pour autant que les produits de chocolat représentent 25 p. 100 au moins du poids total du produit.
+1. Sans préjudice des dispositions des articles 5 et 6 et de la partie B, point 2, d'autres matières comestibles peuvent également être ajoutées aux produits de chocolat définis à la partie A, points 3, 4, 5, 6, 8 et 9.
 
-1 bis La dénomination "praline" peut être utilisée pour désigner le produit défini au paragraphe 1.28.
+Toutefois, l'addition :
 
-Les dénominations "pralina" ou "cioccolatino" peuvent être utilisées pour désigner du chocolat, du chocolat de ménage, du chocolat aux noisettes gianduja, du chocolat au lait, du chocolat de ménage au lait, du chocolat au lait et aux noisettes gianduja, ou du chocolat blanc de la taille d'une bouchée.
+- de graisses animales et de leurs préparations ne provenant pas exclusivement de lait est interdite ;
 
-La dénomination "milk chocolate" peut être utilisée pour désigner le produit défini au paragraphe 1.21, à condition que cette dénomination soit accompagnée de l'indication de la teneur en matière solide provenant de l'évaporation du lait, fixée pour ce produit par la mention "milk solids : ... p. 100 minimum".
+- de farines et d'amidons en granulés ou en poudre n'est autorisée que lorsqu'elle est conforme aux définitions figurant à la partie A, points 8 et 9.
 
-La dénomination "filled chocolate" peut être remplacée en langue anglaise par l'une des dénominations suivantes : "chocolate with ... filling", "chocolate with ... centre".
+La quantité de ces matières comestibles ajoutées, rapportée au poids total du produit fini, ne doit pas dépasser 40 %.
 
-NOTA :
+2. Seuls les arômes qui n'imitent pas la saveur naturelle du chocolat ou de la matière grasse lactique peuvent être ajoutés aux produits définis à la partie A, points 2, 3, 4, 5, 6, 8 et 9.
 
-Nota : Décret 2001-725 du 31 juillet 2001 art. 8 9° : Le décret 76-692 est abrogé à compter de la date de publication de l'arrêté prévu à l'article 2 du décret 2001-725. Il est uniquement abrogé en tant qu'il concerne les auxiliaires technologiques inscrits sur la liste établie par cet arrêté.
+C. - Calcul des pourcentages
+
+Les teneurs minimales des produits fixées à la partie A, points 3, 4, 5, 6, 8 et 9, sont calculées après déduction du poids des ingrédients visés à la partie B. Dans le cas des produits définis à la partie A, points 7 et 10, les teneurs minimales sont calculées après déduction du poids des ingrédients visés à la partie B et du poids du fourrage.
+
+Dans le cas des produits définis à la partie A, points 7 et 10, les teneurs en chocolat sont calculées par rapport au poids total du produit fini, y compris le fourrage.
+
+D. - Sucres
+
+Les sucres visés par le présent décret ne se limitent pas aux seuls sucres visés par le décret n° 2003-586 du 30 juin 2003 pris pour l'application de l'article L. 214-1 du code de la consommation en ce qui concerne certains sucres destinés à l'alimentation humaine.
