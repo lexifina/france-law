@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000424452
+
+- Question : [SEQ000424452](seq000424452.md) — Situation du site Lever d'Haubourdin
+
+## Réponse
+
+*Industrie, JO du 2000-06-22, page 2229*
+
+Réponse. - Depuis quelques années, le marché des lessives en poudre traditionnel s'est rétracté et la concurrence s'est intensifiée. Déjà en 1994/1995, un plan social avait été réalisé sur le site d'Haubourdin de l'entreprise Unilever. D'après les renseignements qu'a transmis l'entreprise aux services du secrétariat d'Etat à l'industrie, malgré ces mesures, la même évolution du marché se poursuivant, les surcapacités européennes de l'ensemble des producteurs et en particulier d'Unilever seraient importantes (de l'ordre de 40 %). Or, les coûts à la tonne des produits fabriqués à Haubourdin seraient supérieurs aux coûts des mêmes produits fabriqués dans d'autres usines du groupe. Afin d'éviter une décision interne de fermeture du site, le groupe Unilever a cherché un partenaire industriel capable de reprendre l'usine et de maintenir une partie des emplois. Les détergents sous marque distributeur constituent un segment du marché qui se développe alors que la stratégie d'Unilever est de privilégier la politique des marques et donc de ne pas entrer dans le marché des marques distributeurs. C'est pourquoi le groupe a recherché un repreneur parmi les entreprises s'impliquant dans ce marché. La société espagnole Bilore s'est déclarée intéressée. Elle est en effet un important producteur de lessives sous marque de distributeurs et cherche à développer ses activités. Elle pourra reprendre le site ainsi que 235 personnes sur un effectif total de 435. Pour reclasser le personnel non repris, Unilever envisage une nouvelle collaboration avec une société de conversion et proposera des emplois dans d'autres usines du groupe.
