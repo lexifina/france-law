@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980608962
+
+- Question : [SEQ980608962](seq980608962.md) — Amélioration des prestations des établissements d'enseignement de la conduite
+
+## Réponse
+
+*Équipement, JO du 1998-12-10, page 3965*
+
+Réponse. - Faisant suite aux réflexions de la table ronde sur la formation des conducteurs et des usagers de la route, le comité interministériel de sécurité routière (CISR) du 26 novembre 1997 a décidé de soutenir les efforts des enseignants de la conduite en vue d'améliorer la qualité des prestations rendues au public dans les auto-écoles par le biais de la certification de service. Une meilleure qualité de formation à la conduite est le principal enjeu de l'action entreprise. Cette démarche devrait favoriser, au niveau de l'information du public, les écoles les plus performantes et permettre aux entreprises et aux assurances de prescrire en connaissance de cause le suivi de formations complémentaires, post-permis notamment. Par ailleurs, la mise en uvre de cette mesure complète les dispositions relatives au renforcement des conditions d'accès à la profession et à la protection des consommateurs contenues dans le projet de loi portant diverses mesures relatives à la sécurité routière, actuellement en cours d'examen par le Parlement. Il s'agit de compléter les contenus du référentiel déjà mis en place à l'initiative de certains professionnels (référentiel Qualicert publié au Journal officiel de la République française du 10 novembre 1995), en vue d'y intégrer des aspects relatifs à la pédagogie. Des travaux sont en cours avec des organismes spécialisés dans les certifications de service afin de définir avec les professionnels concernés les exigences d'un cahier des charges permettant de certifier les écoles de conduite volontaires pour adopter cette démarche.
