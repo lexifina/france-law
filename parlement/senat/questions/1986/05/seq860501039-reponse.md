@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860501039
+
+- Question : [SEQ860501039](seq860501039.md) — Horaires de travail des personnels non-enseignants des inspections académiques et établissements scolaires
+
+## Réponse
+
+*Éducation, JO du 1986-08-07, page 1132*
+
+Réponse. -L'enquête sollicitée sur les horaires de travail des personnels non enseignants en poste dans les inspections académiques et les établissements scolaires ne pourrait que traduire la spécificité du régime de travail de ces personnels dont les missions sont étroitement liées aux rythmes de la vie scolaire. Si les rythmes scolaires ont une influence directe sur l'organisation des congés des personnels, ils entraînent également des charges de travail accrues à certaines périodes de l'année, notamment lors de la préparation de la rentrée scolaire ainsi qu'au moment des ajustements de septembre. Les agents concernés sont alors conduits à réaliser des horaires supérieurs aux obligations de service définies par le décret n° 85-1022 du 24 septembre 1985 relatif à la durée hebdomadaire de travail dans la fonction publique de l'Etat. La difficulté d'appréhender les horaires des personnels non enseignants à travers le seul cadre général fixé pour l'ensemble dela fonction publique se rencontre en particulier au niveau des personnels ouvriers et de service dont le régime de congé plus favorable (49 jours annuels) doit être rapproché des sujétions imposées à ces personnels et notamment de leurs obligations hebdomadaires de service fixées à 41 h 30 en période scolaire. Il convient, enfin, d'indiquer que les différents corps de contrôle, et tout particulièrement celui de l'inspection générale de l'administration de l'éducation nationale, à l'occasion des missions qu'ils réalisent, ne manquent pas d'être attentifs aux horaires de travail dans les services et établissements contrôlés.
