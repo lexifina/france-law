@@ -1,0 +1,53 @@
+# Réponse à la question SEQ98040008G
+
+- Question : [SEQ98040008G](seq98040008g.md) — Dispositif policier pendant la coupe du monde de football
+
+## Réponse
+
+*Jeunesse, JO du 1998-04-10, page 1652*
+
+M. le président. La parole est à M. Fourcade.
+
+M. Jean-Pierre Fourcade. Monsieur le président, madame, messieurs les ministres, mes chers collègues, ma question
+
+s'adressait à M. le ministre de l'intérieur, mais j'accepte volontiers de la destiner à Mme la ministre de la jeunesse et des
+
+sports.
+
+On constate tous les jours, dans les villes de banlieue de la région d'Ile-de-France, la faiblesse de la présence policière.
+
+A Boulogne-Billancourt, ville que j'administre, le soir et la nuit, il n'y a guère plus de vingt-cinq policiers en tenue pour
+
+s'occuper de la sécurité de plus de 100 000 habitants.
+
+Or je suis stupéfait d'apprendre qu'à l'occasion du Mondial de football des centaines, voire des milliers, de gardiens de la
+
+paix et de CRS vont venir quadriller les abords du Parc des Princes en imposant aux habitants qui y résident des
+
+contraintes insupportables autant pour leurs enfants qui fréquentent les groupes scolaires que pour eux-mêmes, et ce pour
+
+assurer la circulation protégée de ceux que l'on considère comme des « personnalités importantes », c'est-à-dire les
+
+cohortes habituelles de joueurs, d'entraîneurs, de vedettes de toute nature et de fabricants de chaussures de sport, de
+
+confiseries et de boissons énergétiques.
+
+Aucun citoyen ne peut comprendre la disproportion éclatante qui affecte le dispositif policier au détriment de la prévention
+
+quotidienne de l'insécurité et de l'incivilité.
+
+Je vous demande donc, madame la ministre, de donner des instructions précises aux forces de police pour qu'elles
+
+mettent en oeuvre des dispositifs légers qui ne perturbent pas la vie des citoyens ordinaires et leur permettent de travailler
+
+et de circuler dans des conditions normales.
+
+M. Gérard Braun. Très bien !
+
+M. Jean-Pierre Fourcade. Face aux demandes excessives des fédérations sportives et des organisations commerciales,
+
+je souhaite vivement que les autorités de police se souviennent qu'elles sont au service des citoyens et non à celui des
+
+organisateurs de spectacles. (Applaudissements sur les travées des Républicains et Indépendants, du RPR et de
+
+l'Union Centriste, ainsi que sur certains través du RDSE.)
