@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981212918
+
+- Question : [SEQ981212918](seq981212918.md) — Campagne européenne en faveur de l'intégration des réfugiés
+
+## Réponse
+
+*Affaires européennes, JO du 1999-06-17, page 2039*
+
+Réponse. - L'honorable parlementaire a bien voulu appeler l'attention du ministre délégué chargé des affaires européennes sur la campagne européenne en faveur de l'intégration des réfugiés. Comme le sait l'honorable parlementaire, cette campagne constitue un effort de sensibilisation destinée à promouvoir, auprès du grand public, l'intégration des réfugiés au sein de l'Union européenne. Il convient de constater que le phénomène des réfugiés est loin d'être nouveau pour l'Europe. Néanmoins, pendant plusieurs années, la plupart des réfugiés résidaient dans un nombre limité d'Etats membres. Aujourd'hui, cette situation est en train de changer, et tous les Etats membres accueillent désormais un nombre important de réfugiés. Ainsi, l'intégration des demandeurs d'asile est devenue un sujet qui doit être traité à l'échelle européenne. Cette campagne est financée par la Commission européenne, et sa mise en uvre est assurée par le Haut Commissariat des Nations unies pour les réfugiés (HCR) dans chacun des quinze Etats membres de l'Union. Pour cette campagne, le HCR a produit deux messages télévisés, deux messages radiophoniques et trois annonces publicitaires. Le HCR est actuellement en contact avec les chaînes de télévision françaises pour examiner les modalités de diffusion de cette campagne. Le HCR a également produit un ensemble d'outils pédagogiques à l'attention des étudiants de quatorze à dix-huit ans. Le HCR est désormais en contact avec le ministère de l'éducation nationale, et les informations ont déjà été diffusées à plusieurs collèges dans toute la France. Le Gouvernement entend assurer ainsi l'information la plus large de tous nos concitoyens sur cette importance campagne.
