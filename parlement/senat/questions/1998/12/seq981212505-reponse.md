@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981212505
+
+- Question : [SEQ981212505](seq981212505.md) — Remboursement des frais liés au service national des objecteurs de conscience
+
+## Réponse
+
+*Emploi, JO du 2001-08-30, page 2821*
+
+La question du financement du service des objecteurs de conscience a été réglée en totalité dans le cadre des budgets 1999, 2000 et 2001, des crédits suffisants ayant été mis à la disposition des différentes administrations participant au suivi de cette forme de service national. Les opérations de remboursement des sommes dues aux organismes d'accueil peuvent ne pas être totalement achevées, les services ministériels concernés s'y employant dans le respect des règles de fonctionnement de la comptabilité publique qui exigent la production exhaustive par les organismes des pièces justificatives des dépenses en cause. La question de l'affectation des objecteurs de conscience se règle dans le cadre des mesures transitoires précédant la suspension du service national. Les jeunes gens peuvent, s'ils le souhaitent, bénéficier de reports d'incorporation ou de dispenses dans les conditions de droit commun ouvertes par la loi du 28 octobre 1997. Les objecteurs de conscience devant accomplir leurs obligations continuent à être affectés et gérés par les services du ministère de l'emploi et de la solidarité. Le nouveau système d'indemnisation mis en place en faveur de ces jeunes en 1997, et qui a mis à la charge des structures d'accueil les dépenses d'autres modalités d'accomplissement du service civil, n'a donc pas eu pour effet d'empêcher le fonctionnement de cette forme légale du service national. Ce sont, actuellement, environ 2 500 jeunes qui effectuent ainsi leur service au sein des différentes structures habilitées pour les accueillir, cet effectif diminuant corrélativement à celui des jeunes gens demeurant astreints à l'accomplissement du service national.
