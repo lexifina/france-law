@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990315015
+
+- Question : [SEQ990315015](seq990315015.md) — Dette des grandes entreprises nationales et groupes publics
+
+## Réponse
+
+*Économie, JO du 1999-07-29, page 2576*
+
+Réponse. - A ce jour, les comptes des entreprises citées par l'auteur de la question sont en cours de certification et n'ont pas encore tous fait l'objet d'approbation. Les chiffres 1998 seront communiqués au Parlement lors de la remise du rapport sur la situation économique et financière du secteur public. Le tableau I ci-après retrace l'évolution des dettes financières consolidées nettes de ces entreprises. Cette évolution, de 1990 à 1997, a été contrastée. ADP, CDF et la RATP voient leur endettement financier continuer à s'alourdir. Le transfert d'une partie de la dette de la SNCF au Réseau ferré de France (RFF) n'a cependant pas réduit le poste correspondant au niveau du bilan de la SNCF dans la mesure où a été inscrit à l'actif de la SNCF une créance envers RFF du fait du transfert des immobilisations. L'examen de la dette nette de la SNCF se traduit bien, en revanche, par une réduction de l'endettement de 134,2 millions de francs. En ce qui concerne les autres entreprises, on constate un mouvement de désendettement, amorcé depuis 1994. Ce mouvement s'est confirmé en 1997. La baisse des taux d'intérêt constatée en 1997 a constitué un facteur favorable à cette évolution. Le tableau II retrace, par entreprise, l'effort réalisé par l'Etat pour améliorer leur situation, sous la forme de dotations en capital.Tableau I Dettes financières nettes (en MF) (dettes financières, valeurs mobilières de placement, disponibilités) ( NOTA Voir tableau page 2576 ). (1) SNCF : dette financière nette des créances sur RFF (134,2 MdF). Tableau II Dotations en capital 1990-1997 (en MF) ( NOTA Voir tableau page 2576 ).
