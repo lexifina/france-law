@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980306890
+
+- Question : [SEQ980306890](seq980306890.md) — Conséquences de la création du corps de professeurs des écoles
+
+## Réponse
+
+*Enseignement scolaire, JO du 1998-06-11, page 1882*
+
+Réponse. - Le recrutement des professeurs des écoles s'effectue au niveau de la licence. Ce nouveau corps classé en catégorie A comporte un échelonnement indiciaire aligné sur celui des professeurs certifiés. Cependant, cette harmonisation entre la carrière des professeurs des écoles et celle des professeurs certifiés s'est accompagnée de la disparition des avantages de carrière propres aux instituteurs telle que l'indemnité de logement ou la retraite dès cinquante-cinq ans. En dehors du premier concours interne, l'accès des instituteurs actuellement en fonction au corps de professeur des écoles se fait par la voie de la liste d'aptitude. Cette intégration qui a débuté en 1990 s'effectue actuellement sur un rythme annuel de quatorze mille huit cent cinquante instituteurs devenant professeurs des écoles. Mais, conscient des difficultés posées par cette coexistence de deux corps différents pour exercer un métier unique, le ministre de l'éducation nationale a souhaité une accélérations de ce rythme d'intégration. Des discussions ont été amorcées avec les organisations représentatives des personnels afin d'examiner les conditions d'une amélioration du service public d'enseignement dans lesquelles la carrière des instituteurs occupe une place importante. Par ailleurs, des instructions ont été données afin que plus aucun instituteur comptant trente-sept annuités et demie de service ne parte à la retraite sans avoir été promu dans le corps des professeurs des écoles. Le reclassement de ces instituteurs dans le corps de professeur des écoles se fait à l'échelon comportant un indice égal ou à défaut immédiatement supérieur.
