@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960515805
+
+- Question : [SEQ960515805](seq960515805.md) — Privatisation des assurances générales de France
+
+## Réponse
+
+*Économie, JO du 1996-08-29, page 2218*
+
+Réponse. - Les recettes pour l'Etat, nettes des commissions et des frais d'opération, devraient dépasser les 9 milliards de francs. La recette nette immédiate pour l'Etat, compte tenu des différés de paiement des salariés, devrait excéder 8,5 milliards de francs. La participation de l'Etat au capital des Assurances générales de France (AGF) à l'issue de l'opération est ramenée à environ 2 p. 100 qui correspondent à la réserve d'actions gratuites distribuées ultérieurement aux personnes physiques et aux salariés remplissant les conditions requises. Après cette distribution, la participation résiduelle de l'Etat sera nulle. Compte tenu de la part de capital des AGF détenue avant l'opération par la Société générale, Paribas et le groupe d'assurance AMB, partenaires de longue date de l'entreprise, et en accord avec la direction des AGF, il a été décidé de ne pas constituer de groupe d'actionnaires stables. Cependant, à l'occasion de l'opération de privatisation, certains investisseurs institutionnels ont déclaré publiquement leur intention d'acquérir, à terme, un certain pourcentage du capital de la société. C'est notamment le cas de la Société générale et de Paribas qui ont fait part de leur intention d'augmenter leur participation pour la porter à terme à respectivement 5,2 p. 100 et 2,5 p. 100 du capital ainsi que de l'INA, de la Compagnie suisse de réassurance, du Crédit suisse et d'Athéna assurance qui ont annoncé leur intention d'acquérir à terme respectivement 1 p. 100, 3 p. 100, 2 p. 100 et 1 p. 100 du capital des AGF. Le groupe se trouve ainsi doté, avec la fraction importante de son capital détenue par les salariés (près de 7 p. 100), d'un actionnariat stable permettant d'accompagner son développement.
