@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960716694
+
+- Question : [SEQ960716694](seq960716694.md) — Carrière des agents de l'Agence pour l'enseignement français à l'étranger
+
+## Réponse
+
+*Affaires étrangères, JO du 1996-09-26, page 2475*
+
+Réponse. - Après avoir recueilli l'avis de son comité technique paritaire en 1995, l'Agence pour l'enseignement français à l'étranger a souhaité ne pas prolonger les détachement des personnels résidents au-delà de l'âge à partir duquel ils sont admis à faire valoir leur droit à pension. Cette décision a été appliquée d'abord au Maroc et en Tunisie, puis elle a été étendue à l'ensemble du réseau scolaire, en particulier en Espagne. En 1994 et 1995, les délais dans l'acheminement des informations ont amené l'agence à examiner les demandes de dérogation avec une particulière bienveillance et à appliquer ces dispositions avec beaucoup de souplesse. Actuellement, dans l'examen des situations particulières, sont prises en compte les conditions d'âge, l'état général des services de l'agent et l'avis du poste diplomatique sur les nécessités du service. Or l'étude des dossiers soumis cette année - notamment en provenance d'Espagne - fait apparaître que les personnels sollicitant une dérogation n'entrent pas dans le cadre général des critères ainsi définis. Dans ce contexte, l'agence a accepté de reporter d'un an l'application de cette mesure, afin que les intéressés puissent prendre en temps utile leurs dispositions pour la rentrée de septembre 1997. De plus, les modalités de ce système font encore l'objet d'une concertation permanente avec les organisations syndicales. Le dispositif finalement envisagé devrait permettre aux résidents concernés - c'est-à-dire en priorité ceux déjà en poste avant la réforme de 1990 - d'obtenir une dérogation dans la limite d'un nouveau contrat de trois ans après avis des commissions consultatives locales.
