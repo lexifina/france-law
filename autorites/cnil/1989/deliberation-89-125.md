@@ -1,0 +1,15 @@
+# Délibération portant avis sur le modèle national de la Caisse nationale d'assurance maladie des travailleurs non salariés non agricoles destiné à la consultation par les établissements hospitaliers d'éléments détenus par les organismes conventionnés.
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 89-125
+- Date : 1989-10-24
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017652583
+
+La Commission Nationale de l'Informatique et des Libertés, Vu la Convention du Conseil de l'Europe du 28 janvier 1981 pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ; Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, et son décret d'application n° 78-774 du 17 juillet 1978 ; Vu la loi n° 66-509 du 12 juillet 1966 relative à l'assurance maladie et maternité des travailleurs non salariés non agricoles ; Vu l'arrêté du 23 décembre 1985 fixant la convention type prévue à l'article R. 611-128 du Code de la sécurité sociale ; Vu le projet de décision présenté par la Caisse Nationale d'Assurance Maladie des Travailleurs non salariés non agricoles (CANAM) ; Après avoir entendu Monsieur André PERDRIAU en son rapport, et Madame Charlotte-Marie PITRAT, Commissaire du Gouvernement, en ses observations ;
+
+Considérant que la CANAM a saisi la Commission d'une demande d'avis destinée à constituer un modèle national de déclaration, à la disposition des organismes conventionnés, pour un traitement dont la finalité est de permettre la consultation par voie télématique, par les établissements hospitaliers, de la situation d'un assuré pour l'ouverture de ses droits aux prestations, à partir d'informations détenues par l'organisme conventionné de rattachement ; Considérant que les informations traitées concernent les nom, prénom, date de naissance, numéro de sécurité sociale et adresse personnelle de l'assuré et pour un ayant-droit la qualité du bénéficiaire, l'ouverture des droits aux prestations et la date de fin de droit ; Considérant que ces informations sont adéquates, pertinentes et non excessives par rapport à la finalité envisagée ; Considérant que les mesures techniques prévues par la CANAM pour assurer la sécurité et la confidentialité des informations sont satisfaisantes et devront être adoptées par chaque organisme conventionné mettant en oeuvre l'application ; Considérant que chaque assuré exercera son droit d'accès et de rectification auprès de l'organisme conventionné dont il relève ; Considérant que chaque organisme adoptant ce modèle national devra, préalablement à la mise en oeuvre de cette application, présenter à la Commission une déclaration simplifiée accompagnée d'un engagement de conformité et, au reçu du récépissé, lui adresser la copie de l'acte réglementaire conforme à l'acte réglementaire national, après sa publication au niveau local ;
+
+Emet un avis favorable au projet qui lui est soumis. Le Président, Jacques FAUVET.
