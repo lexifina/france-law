@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951213158
+
+- Question : [SEQ951213158](seq951213158.md) — Obligation d'équipement en éthylotest des véhicules
+
+## Réponse
+
+*Équipement, JO du 1996-04-11, page 872*
+
+Réponse. - L'alcool au volant reste aujourd'hui l'un des facteurs majeurs de l'insécurité routière, au même titre que la vitesse excessive ou inadaptée. L'importante action d'information sur le nouveau seuil d'alcoolémie engagée sous la forme de campagnes de communication sur les thèmes : " Après deux verres..., tout s'accélère " et " Autotestez-vous " a été relayée très efficacement au niveau local dans le cadre des plans départementaux d'actions de sécurité routière. Elle a fortement contribué, avec la vente d'éthylotests à moins de 10 francs dans les pharmacies, les grandes surfaces et les stations-service, à sensibiliser les conducteurs sur ce problème et à les inciter à pratiquer l'autotest. L'impact largement positif enregistré par cette action sur le comportement des usagers de la route a conduit le ministre de l'équipement, du logement, des transports et du tourisme à décider d'engager une nouvelle campagne de prévention " Autotestez-vous " au début de ce printemps. En effet, la préoccupation des pouvoirs publics dans ce domaine est désormais de responsabiliser les conducteurs, en amplifiant les mesures de prévention, d'information et de formation. Le Gouvernement a d'ailleurs indiqué clairement sa volonté de voir appliquer efficacement les mesures existantes plutôt que d'en créer de nouvelles. Il n'est en revanche pas envisagé d'édicter une prescription tendant à imposer aux automobilistes d'avoir en permanence, à bord de leur véhicule, un testeur d'alcoolémie, ne serait-ce que parce qu'une telle mesure s'avérerait en pratique difficilement contrôlable, car la présentation d'un éthylotest usagé pourrait suffire.
