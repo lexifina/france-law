@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860500962
+
+- Question : [SEQ860500962](seq860500962.md) — Contribuables de la Guadeloupe et centre informatique de Fort-de-France
+
+## Réponse
+
+*Budget, JO du 1986-07-31, page 1079*
+
+Réponse. -Comme en métropole, le département informatique du Trésor placé sous l'autorité du trésorier-payeur général de la Martinique est compétent pour plusieurs départements (en l'occurrence la Martinique, la Guadeloupe et la Guyane). Il agit comme un prestataire de services pour les comptables des trois départements et, à ce titre, procède aux opérations de gestion pendant la phase amiable du recouvrement de l'impôt (prise en charge des rôles et imputation des règlements). Sa mission ne s'étendant en aucune façon aux opérations de trésorerie, les chèques des contribuables de la Guadeloupe sont donc remis à l'encaissement dans ce département et non à la Martinique. Les anomalies signalées sont liées à des difficultés particulières de gestion des opérations de recouvrement dans les départements des Antilles et de Guyane, et les majorations liquidées à tort seront par conséquent annulées. S'agissant de la partie informatisée du recouvrement, la situation devrait s'améliorer notablement à brève échéance. En effet, le département informatique de la Martinique a été doté récemment d'un nouvel ordinateur et, en outre, il vient d'être réinstallé dans des locaux adaptés aux missions qui lui sont confiées. La dotation des postes comptables les plus importants en matériel informatique de saisie des recouvrements et l'informatisation de l'assiette des impôts locaux sont par ailleurs envisagées pour les prochaines années. Il est en outre précisé que la gestion informatisée du recouvrement amiable a toujours été opérée par le département informatique de Fort-de-France pour les Antilles et la Guyane et qu'aucun transfert de compétences n'a été effectué entre la Guadeloupe et la Martinique.
