@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950109335
+
+- Question : [SEQ950109335](seq950109335.md) — Disparition du fonds départemental pour l'initiative des jeunes
+
+## Réponse
+
+*Travail, JO du 1995-03-02, page 517*
+
+Réponse. - L'honorable parlementaire regrette la disparition du fonds départemental pour l'initiative des jeunes (FDIJ) et souhaite connaître les raisons de cet abandon. Il existait effectivement, avant l'adoption de la loi no 93 1313 du 20 décembre 1993, deux types d'aides pour les demandeurs d'emploi créateurs d'entreprises : l'ACCRE et les aides accordées au titre du FDIJ. L'ACCRE, dispositif d'envergure du ministère du travail, s'adressait aux chômeurs indemnisés qui, sous réserve d'être éligibles à l'aide et de présenter un projet de création ou de reprise d'entreprise réel et consistant, pouvaient bénéficier d'une aide financière d'un montant compris entre 16 000 et 43 000 francs et d'une exonération de charges les six premiers mois de la création. Le FDIJ, d'un montant variant entre 20 000 et 100 000 francs était au contraire une mesure d'exception s'adressant aux projets de création d'entreprises présentés par des jeunes ou des demandeurs d'emploi non indemnisés. L'aide n'était pas automatique, elle visait à récompenser des projets innovants ou prévoyant des recrutements dès la phase de démarrage. Enfin elle ne pouvait être délivrée que dans la limite des crédits dont disposaient les DDTEFP. En conséquence, afin de simplifier et de renforcer les aides aux chômeurs créateurs, qu'ils soient indemnisés ou pas, la loi quinquennale sur l'emploi a fusionné les deux aides et élargi le champ des bénéficiaires. Sur le terrain, les demandeurs ont été informés de ce changement et ont été encouragés, pour ceux qui présentaient un dossier au titre du FDIJ, à reformuler leur demande selon les nouvelles procédures.
