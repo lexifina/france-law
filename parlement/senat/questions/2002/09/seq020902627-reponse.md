@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020902627
+
+- Question : [SEQ020902627](seq020902627.md) — Propositions des sylviculteurs du Sud-Ouest en faveur des propriétaires victimes de la tempête de décembre 1999
+
+## Réponse
+
+*Agriculture, JO du 2002-12-05, page 2956*
+
+Les trois revendications du syndicat des sylviculteurs du Sud-Ouest, concernant l'aide aux propriétaires forestiers sinistrés par les tempêtes de décembre 1999, ont retenu toute l'attention du ministre de l'agriculture, de l'alimentation, de la pêche et des affaires rurales. En premier lieu, l'engagement financier de l'Etat, quant à l'affectation d'une dotation annuelle moyenne de 91,5 millions d'euros sur une période de dix ans pour le nettoyage et la reconstitution des forêts sinistrées, sera tenu ; les montants consacrés à cette action se sont élevés en 2000 à 72,8 millions d'euros, pour 2001, à 176,1 millions d'euros, et pour 2002, à 132,6 millions d'euros. S'agissant de la défiscalisation des cotisations aux associations syndicales autorisées, son principe a été écarté car une telle mesure ne pourrait s'appliquer qu'aux propriétaires soumis à l'impôt sur le revenu et conduirait donc à une inégalité de droit entre les propriétaires cotisants. En revanche, la possibilité de déplafonner le montant des aides aux associations syndicales autorisées fait actuellement l'objet d'un examen interministériel. Concernant le souhait de voir substituer au dispositif actuel des sociétés d'épargne forestière (SEF) un outil exclusivement réservé aux propriétaires forestiers sous la forme d'un plan d'épargne forêt, la loi d'orientation sur la forêt du 9 juillet 2001 prévoit une catégorie de SEF qui ont l'obligation de consacrer une fraction de leur actif à la bonification ou à la garantie de prêts. Les organisations représentatives des propriétaires forestiers ont été invitées à participer à la réflexion qui devrait aboutir à la mise en place de ce nouvel outil.
