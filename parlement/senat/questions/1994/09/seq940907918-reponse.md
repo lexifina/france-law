@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940907918
+
+- Question : [SEQ940907918](seq940907918.md) — Retraite des veuves d'exploitants agricoles
+
+## Réponse
+
+*Agriculture, JO du 1994-12-08, page 2895*
+
+Réponse. - Aux termes de l'article 1122 du code rural, le conjoint survivant d'un chef d'exploitation ou d'entreprise agricole ayant exercé son activité à titre exclusif ou principal peut bénéficier, sous certaines conditions d'âge, de durée de mariage et de ressources, de la réversion de la retraite forfaitaire et d'un pourcentage - fixé par décret à 50 p. 100 - de la retraite proportionnelle auxquelles pouvait prétendre l'assuré décédé. Toutefois, aux termes de ce même article 1122, la pension de réversion ne peut être servie lorsque le conjoint survivant est lui-même titulaire d'un avantage de retraite ou d'invalidité. Ce n'est que dans l'hypothèse où la pension de réversion est d'un montant supérieur à l'avantage personnel qu'elle peut être versée sous la forme d'un complément différentiel. L'alignement à cet égard du régime agricole sur le régime général, qui admet certaines possibilités de cumul entre droits propres et droits dérivés, est bien sûr souhaitable. Il s'agit cependant d'une mesure coûteuse, qui n'a pu être réalisée jusqu'à maintenant en raison de la dépense supplémentaire, supérieure à 2 milliards de francs, qui en résulterait pour le BAPSA. C'est pourquoi, après la mesure de revalorisation des plus faibles pensions des chefs d'exploitation, il a été annoncé, lors des débats d'orientation agricole devant le Parlement, et confirmé lors de la rencontre du Premier ministre avec les organisations professionnelles agricoles le 29 septembre dernier, que le projet de loi de modernisation agricole contiendra des dispositions permettant d'améliorer la situation des personnes veuves en agriculture.
