@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010331977
+
+- Question : [SEQ010331977](seq010331977.md) — Modernisation des services de cartes grises
+
+## Réponse
+
+*Fonction publique, JO du 2001-08-02, page 2540*
+
+Chaque année, le ministre en charge de la réforme de l'Etat dispose des crédits du Fonds pour la réforme de l'Etat (FRE), destinés à soutenir des actions de modernisation des administrations centrales et territoriales de l'Etat. Plus de la moitié des crédits de la part territoriale sont déconcentrés aux préfets en début d'année. La somme restante sur cette part finance des projets proposés par les préfets à un comité interministériel central. Les opérations s'inscrivent dans le cadre d'orientations ministérielles annuelles, parmi lesquelles figurent depuis trois ans systématiquement l'amélioration de la qualité du service rendu. C'est à ce titre que la sous-préfecture de Dunkerque s'est engagée dans la voie de la modernisation de son service de cartes grises, d'une part, en installant une borne interactive permettant aux usagers d'obtenir seuls un certificat de non-gage, d'autre part, en informatisant la gestion des dossiers de cartes grises. Cette dernière opération s'est traduite par une gestion informatisée des dossiers. L'impact en est important à double titre. En terme de qualité de service, le traitement des demandes des usagers est aujourd'hui réalisé en temps réel et non plus sous quarante-huit heures. En terme d'organisation interne, la numérisation des archives a permis un gain de place considérable. D'autres sous-préfectures ou préfectures, comme par exemple celle des Hauts-de-Seine, ont développé des dispositifs similaires ou approchants. Tout en respectant la déconcentration du développement de ce type de dispositif, la délégation interministérielle à la réforme de l'Etat (DIRE), en coordination avec le ministère de l'intérieur, s'est engagée dans une entreprise de mutualisation de ces pratiques.
