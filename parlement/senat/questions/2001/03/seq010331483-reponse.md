@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010331483
+
+- Question : [SEQ010331483](seq010331483.md) — Logements de fonction au sein des établissements scolaires
+
+## Réponse
+
+*Éducation, JO du 2001-04-26, page 1448*
+
+Réponse. - Le code du domaine de l'Etat prévoit dans son article 94 que les personnels civils des administrations publiques peuvent bénéficier d'une concession de logement par nécessité absolue de service emportant la gratuité de l'occupation lorsqu'ils ne peuvent accomplir normalement leur service sans être logés dans les bâtiments où il doivent exercer leurs fonctions. Le décret nº 86-428 du 14 mars 1986 énumère dans son article 2 les différentes catégories d'agents dont la présence est nécessaire au bon fonctionnement de l'établissement scolaire. Y figurent en premier lieu le chef d'établissement et son adjoint, et le gestionnaire. En présence d'une demi-pension ou d'un internat, le directeur adjoint chargé d'une section d'enseignement général professionnel adapté en collège ainsi que le conseiller principal d'éducation et certains personnels soignants et ouvriers peuvent également être logés par nécessité absolue de service. Les besoins du service déterminent le nombre de concessions attribuées, dans la limite du nombre de logements le permettant. Cette attribution comporte une obligation de résider sur place, sauf dérogation rectorale dûment justifiée qui reste exceptionnelle. La décision d'attribuer des concessions de logement en fonction des besoins du service, ainsi que l'éventuelle transformation de logements inutilisés en salle de classe, relève de la compétence de la collectivité locale de rattachement ayant la charge de l'établissement concerné, sur proposition de son conseil d'administration. Par ailleurs, le ministère de l'éducation nationale n'étant pas propriétaire d'un parc immobilier de logements de fonction, il n'est pas en mesure d'attribuer des logements à l'extérieur de l'enceinte des établissements scolaires.
