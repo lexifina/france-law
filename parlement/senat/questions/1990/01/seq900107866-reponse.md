@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900107866
+
+- Question : [SEQ900107866](seq900107866.md) — Revalorisation des retraites du commerce et de l'artisanat
+
+## Réponse
+
+*Commerce et artisanat, JO du 1990-04-05, page 710*
+
+Réponse. - Il est rappelé à l'honorable parlementaire que depuis l'alignement en 1973 des régimes de retraite de base des artisans et des commerçants sur le régime général des salariés, les pensions servies aux artisans sont revalorisées aux mêmes dates et aux mêmes taux que celles servies aux salariés, qu'il s'agisse des droits acquis avant ou après 1973. Il lui est également précisé que pour l'année 1989 le taux de majoration des pensions a été de 1,3 p. 100 au 1er janvier 1989 et de 1,2 p. 100 au 1er juillet 1989. Pour apprécier l'évolution globale du revenu des retraités il convient toutefois de prendre en considération la diversité de leurs revenus qui peuvent comprendre une retraite de base acquise successivement dans différents régimes et une retraite complémentaire. La définition des modalités de revalorisation des pensions, tenant compte notamment de l'évolution du revenu des actifs cotisants et de celle des prix, s'inscrit dans un ensemble de mesures plus vastes visant à maîtriser l'évolution des charges des divers régimes de retraite, en vue de garantir leur pérennité. Dans l'immédiat, le Gouvernement s'engage à respecter le maintien du pouvoir d'achat des retraites, conduisant à une revalorisation des retraites de base des salariés, des artisans et des commerçants et du minimum vieillesse de 2,15 p. 100 à compter de janvier 1990 (dont 0,90 p. 100 au titre du rattrapage pour 1989) et de 1,30 p. 100 à compter du 1er juillet 1990. Les taux de revalorisation sont fixés par l'article 14 de la loi n° 90-86 du 23 janvier 1990, en corrélation avec la prévision d'inflation des prix de 2,5 p. 100 pour l'année 1990.
