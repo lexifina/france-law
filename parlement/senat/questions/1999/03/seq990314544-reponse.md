@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990314544
+
+- Question : [SEQ990314544](seq990314544.md) — Implantation d'un complexe agroalimentaire sucrier dans l'Ouest guyanais
+
+## Réponse
+
+*Outre-mer, JO du 1999-04-15, page 1271*
+
+Réponse. - Compte tenu de l'enjeu important que représente l'implantation d'un complexe agro-industriel sucrier dans l'Ouest guyanais, le secrétaire d'Etat à l'outre-mer et le ministre de l'agriculture et de la pêche ont conjointement décidé de mettre en place, en octobre 1998, un comité de pilotage chargé de lancer et de coordonner des expertises tant au plan agronomique qu'industriel pour s'assurer de la faisabilité du projet sucrier guyanais. Ces études qui sont actuellement en cours devraient permettre de répondre à certaines interrogations importantes conditionnant l'implantation ou non d'un complexe sucrier dans l'Ouest guyanais, en fournissant des éléments d'appréciation portant sur l'aspect agro-pédagogique, agro-météologique, agro-industriel, ainsi que sur ceux relatifs aux aménagements fonciers nécessaires à la production de la canne, à l'organisation de cette production et à la récolte envisageable. Tel est le sens dans lequel travaillent actuellement les services du secrétariat d'Etat à l'outre-mer et ceux du ministère de l'agriculture et de la pêche. Si, pour des considérations légitimes, il est souhaitable de promouvoir des projets efficaces contribuant au développement économique de la Guyane, l'importance du projet sucrier nécessite plusieurs expertises préalables afin d'éviter que l'Etat ainsi que les collectivités locales ne soient entraînés dans une opération qui n'aurait pas été correctement évaluée dès l'origine. Au vu des premières observations du comité de pilotage qui devront être présentées aux deux ministères concernés avant la période estivale, il sera alors possible de déterminer la position qui pourrait être prise sur ce projet.
