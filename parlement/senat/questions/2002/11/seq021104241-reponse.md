@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021104241
+
+- Question : [SEQ021104241](seq021104241.md) — Permis de conduire pour les véhicules inférieurs à 5 tonnes  et de transports en commun limités à 20 places
+
+## Réponse
+
+*Équipement, JO du 2003-07-10, page 2225*
+
+La réglementation relative à la délivrance du permis de conduire fait partie du champ de l'harmonisation européenne, et c'est actuellement la directive n° 91/439/CEE du 29 juillet 1991 qui fixe les définitions des différentes catégories de permis de conduire. Si le texte européen ne laisse aucune marge de manoeuvre par rapport à ces définitions, il prévoit en revanche la possibilité pour les Etats membres qui le souhaitent d'adopter des sous-catégories de permis pour la conduite de véhicules appartenant aux catégories poids lourds, mais de dimension et de tonnage réduits. C'est ainsi qu'existent la sous-catégorie C1, autorisant la conduite de petits camions dont le poids maximal n'excède pas 7,5 tonnes, et la sous-catégorie D1, permettant de conduire de petits véhicules de transport de personnes de dix-sept places au maximum. A l'époque de la transposition en droit interne des dispositions contenues dans la directive susvisée, il n'avait pas été jugé opportun de retenir ces sous-catégories en France. Cela étant, devant l'utilisation croissante en Europe de véhicules intermédiaires, dont le poids ou la capacité en passagers varient néanmoins d'un Etat membre à l'autre et ne correspondent pas toujours aux définitions des sous-catégories évoquées ci-dessus, la commission européenne a décidé d'engager une réflexion, en vue de procéder à une définition commune précise de sous-catégories de permis qui permettraient d'englober l'ensemble des petits camions et minibus existant aujourd'hui, puis de rendre ces sous-catégories obligatoires, non plus optionnelles, dans le cadre d'une nouvelle directive. La proposition formulée par l'honorable parlementaire s'inscrit donc parfaitement dans cette perspective.
