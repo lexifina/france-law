@@ -88,7 +88,7 @@ Chef de groupe d'étude et de recherche opérationnelle.
 
 II = Officier
 
-Chef de bureau et chef de section en état-major de région militaire de défense, de circonscription militaire de défense, du corps d'armée et de la force d'action rapide.
+Chef de bureau et chef de section en état-major de région terre, de région terre, du corps d'armée et de la force d'action rapide.
 
 II = Officier
 
@@ -96,7 +96,7 @@ Officier de programme à l'état-major de l'armée de terre, à la section techn
 
 II = Officier
 
-Chef de poste de la direction de la protection et de la sécurité de la défense en région militaire de défense (Partin).
+Chef de poste de la direction de la protection et de la sécurité de la défense en région terre (Partin).
 
 II = Officier
 
@@ -858,7 +858,7 @@ Commandant d'un établissement des matériels de mobilisation.
 
 II = Officier
 
-Commandant du bureau central de gestion et d'administration des personnels civils.
+Commmandant du bureau central de gestion et d'administration des personnels civils.
 
 II = Officier
 
@@ -943,3 +943,7 @@ II = Officier
 Fonction comportant une action de contrôle et de surveillance dans les domaines techniques ou administratifs hautement spécialisés.
 
 II = Officier ou sous-officier
+
+NOTA :
+
+NOTA : Par décision n° 192115 du 14 décembre 1998, le Conseil d'Etat, statuant au contentieux, a annulé l'article 3 du décret n° 97-1041 du 14 novembre 1997 en tant que la date d'effet qu'il fixe, soit le 1er août 1995, concerne l'exclusion du bénéfice de la nouvelle bonification indiciaire des militaires d'un grade supérieur à lieutenant-colonel ou d'un grade correspondant.
