@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030908979
+
+- Question : [SEQ030908979](seq030908979.md) — Avenir de l'administration fiscale
+
+## Réponse
+
+*Économie, JO du 2004-01-29, page 236*
+
+Le renforcement de la culture de qualité de service constitue depuis plusieurs années l'un des objectifs majeurs de la direction générale des impôts (DGI) à travers la mise en place de cinq standards de qualité (répondre à tous les appels téléphoniques, généraliser la réception sur rendez-vous, lever l'anonymat dans tous les contacts, envoyer une réponse d'attente lorsque une demande ne peut être traitée rapidement, proposer d'envoyer à domicile les imprimés fiscaux). Les objectifs que le ministre a fixés à la DGI en cette matière ont permis des progrès substantiels au terme du contrat d'objectifs et de moyens 2001-2002, ainsi que le souligne le Conseil des impôts. La volonté de consolider la démarche-qualité s'est traduite par l'intégration dans le contrat de performance 2003-2005 de la DGI de nouveaux engagements de service. L'article 1-3 de ce contrat prévoit ainsi la mise en place d'un programme " pour vous faciliter l'impôt ", commun à la DGI et à la direction générale de la comptabilité publique, à compter de 2004. Ce programme, plus ambitieux, inclut de nouveaux engagements : une réponse aux demandes des usagers en moins de trente jours (quarante-huit heures pour un courriel), une ouverture quotidienne des services pendant au moins six heures, de nouveaux services par Internet (documentation, télédéclaration, télépaiement, consultation des avis), un conciliateur fiscal dans chaque département, des enquêtes régulières de satisfaction des usagers, la mise en place de comités d'usagers, etc. Ces différentes mesures sont de nature à répondre aux préoccupations exprimés dans le 20e rapport du conseil des impôts.
