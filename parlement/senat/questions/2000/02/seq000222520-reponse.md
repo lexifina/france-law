@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000222520
+
+- Question : [SEQ000222520](seq000222520.md) — Menaces pesant sur les emplois de la raffinerie de sucre de Marseille
+
+## Réponse
+
+*Agriculture, JO du 2000-07-06, page 2375*
+
+Réponse. - Au-delà des questions concernant sa faisabilité technique et sa viabilité économique, le projet sucrier guyanais pose le problème de son insertion dans l'organisation commune du marché du sucre au moment où des restructurations industrielles sont en cours et où l'union européenne va devoir procéder à un déclassement de quotas de sucre du fait des engagements pris auprès de l'organisation mondiale du commerce en matière de réduction des restitutions à l'exportation. Ce projet, qui vise à créer ex nihilo un important complexe agro-industriel, s'inscrit dans un modèle de dévelopement différent de celui qui prévaut dans les autres départements d'outre-mer, ou l'accent est mis sur le soutien aux nombreux planteurs de canne, au tissu économique et social qu'ils constituent, et à l'occupation équilibrée des territoires qu'ils assurent. L'enjeu très structurant que représente la production de la canne dans ces départements impose de ne prendre aucune décision qui lui soit préjudiciable. Par ailleurs, les raffineries de Nantes et Marseille ne peuvent fonctionner que grâce au système d'approvisionnement en sucre brut qui garantit leur équilibre. Une attention particulière est portée à ce que celui-ci ne soit pas pertubé, compte-tenu des emplois directs et indirects qui sont liés à ces unités, mais aussi de l'importante activité portuaire qu'elles induisent. Le Gouvernement set très attaché au développement agricole durable de la Guyane. Il veille toutefois à ce que les soutiens publics soient affectés à des projets et dans des conditions qui soient compatibles avec la préservation des activités économiques existantes dans l'ensemble des régions françaises.
