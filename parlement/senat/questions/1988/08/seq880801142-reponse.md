@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880801142
+
+- Question : [SEQ880801142](seq880801142.md) — Urbanisme : communication des estimations effectuées par l'administration des domaines
+
+## Réponse
+
+*Équipement, JO du 1990-05-24, page 1134*
+
+Réponse. - L'avis donné par le service des domaines en application de l'article R. 213-21 du code de l'urbanisme constitue un document administratif au sens de la loi n° 78-753 du 17 juillet 1978 modifiée, portant diverses mesures d'amélioration des relations entre l'administration et le public. Au regard des dispositions de l'article 1er de ladite loi, cet avis est donc, en principe, communicable. Toutefois, dans la phase amiable de négociation, la commune ne saurait être contrainte à fournir tous les éléments qui fondent sa proposition. La communication de l'évaluation domaniale au propriétaire de l'immeuble à ce stade de la procédure serait susceptible de gêner la liberté d'action de la commune et porter atteinte aux intérêts de cette collectivité publique. La commission d'accès aux documents administratifs a estimé, dans un avis en date du 19 août 1982, que l'intérêt d'une personne publique constituait un motif de nature à justifier un refus de communication. S'agissant de la communication d'un avis établi à la demande d'une commune, il n'appartient pas au service des domaines de se prononcer sur l'opportunité de communiquer ce document dont, au surplus, il a perdu la libre disposition à compter de sa transmission à l'organisme consultant. Dans ces conditions, si le vendeur veut connaître l'évaluation domaniale, il lui appartient de la demander à la collectivité locale. Au demeurant, la contre-proposition du titulaire du droit de préemption pourra, le plus souvent, être considérée commme une indication puisqu'elle repose la plupart du temps sur l'évaluation domaniale.
