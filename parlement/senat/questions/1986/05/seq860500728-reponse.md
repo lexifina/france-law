@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860500728
+
+- Question : [SEQ860500728](seq860500728.md) — Charges liées aux cotisations d'assurance-maladie des pré-retraités
+
+## Réponse
+
+*Affaires sociales, JO du 1987-11-26, page 1859*
+
+Réponse. -Le deuxième alinéa de l'article L. 131-2 du code de la sécurité sociale prévoit que les préretraités sont soumis aux mêmes cotisations d'assurance maladie que les salariés du régime dont ils relevaient à la date de cessation de leur activité. En conséquence, ces cotisations ont été portées de 2 à 5,5 p. 100 du montant total du revenu de remplacement, dans le cas des anciens salariés du régime général. La charge ainsi imposée, dont le ministre des affaires sociales et de l'emploi ne sous-estime pas le poids, se justifie par le fait que les préretraités continuent d'accumuler des droits à la retraite de base et des points aux régimes complémentaires, par le montant des allocations de préretraite, souvent supérieur aux salaires les plus modestes, mais surtout par le coût pour la collectivité du financement des préretraites. De plus, contrairement aux salariés qui cotisent dès le premier franc, quel que soit le montant du salaire, les préretraités sont exonérés de la cotisation d'assurance maladie quand le montant de leur allocation est inférieur au salaire minimum de croissance. Quand elle a pour effet d'abaisser l'allocation au-dessous du salaire minimum de croissance, la cotisation est réduite afin d'assurer à l'allocataire un revenu au moins égal à celui-ci. Enfin, les perspectives démographiques et les impératifs de l'équilibre financier de la sécurité sociale ne permettent pas, dans l'immédiat, d'envisager des réductions de ressources en sus des exonérations annoncées par le Gouvernement destinées à favoriser l'emploi des jeunes. Le maintien de l'effort de solidarité de l'ensemble des catégories sociales est nécessaire pour l'accomplissement de cet objectif prioritaire.
