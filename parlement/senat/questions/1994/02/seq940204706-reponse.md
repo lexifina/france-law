@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940204706
+
+- Question : [SEQ940204706](seq940204706.md) — Statut des agents non titulaires exerçant dans les établissements culturels d'enseignement à l'étranger
+
+## Réponse
+
+*Éducation, JO du 1994-04-07, page 795*
+
+Réponse. - Le décret no 93-89 du 22 janvier 1993 relatif à l'intégration exceptionnelle des personnels non titulaires des services extérieurs du ministère de l'éducation nationale et du ministère de la jeunesse et des sports dans des corps de fonctionnaires de catégorie B ne s'applique pas aux personnels civils de coopération culturelle, scientifique et technique en fonctions auprès d'Etats étrangers. Le principe de la titularisation de cette catégorie d'agents non titulaires en fonctions à l'étranger est défini à l'article 74 de la loi no 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique de l'Etat. Le ministère de l'éducation nationale a déjà appliqué ce principe en ce qui concerne les personnels administratifs, ouvriers, techniques et de service de catégories C et D (décret no 88-519 du 5 mai 1988). S'agissant des personnels non titulaires du niveau de la catégorie B, la mise en place d'un dispositif analogue est actuellement à l'étude, mais n'a pu encore être réalisée. Il s'agit d'une opération complexe, compte tenu de la diversité des personnels concernés aussi bien sur le plan fonctionnel que sur celui des affectations et en raison du fait que ces agents n'avaient pas une vocation affirmée à intégrer le corps des personnels ATOS du ministère de l'éducation nationale. Il convient également de préciser que le décret no 93-928 du 20 juillet 1993 a prévu la création d'une commission interministérielle d'orientation pour le réemploi des personnels civils de coopération culturelle, scientifique et technique mentionnés à l'article 74 de la loi du 11 janvier 1984 susvisée et recrutés avant le 14 juin 1983.
