@@ -218,8 +218,6 @@ Trois Panicum sp. p.
 
 Seigle ...................
 
-.
-
 |
 
 Semences de base.
@@ -306,7 +304,7 @@ Semences de base
 
 |
 
-90 (a)
+90 (a bis)
 
 |
 
@@ -370,7 +368,7 @@ Semences de base...
 
 |
 
-85 (a)
+85 (a ter)
 
 |
 
@@ -499,6 +497,10 @@ Semences certifiées et semences.
 |
 
 (a) Les semences de base peuvent présenter une faculté germinative inférieure au taux prévu à condition que la faculté germinative réelle soit mentionnée dans le marquage.
+
+(a bis) La faculté germinative des semences de base peut être ramenée à 85 p. 100 à la condition que mention en soit faite dans le marquage ;
+
+(a ter) A condition qu'elles soient, à la fois, produites et com­mercialisées en France et qu'il en soit fait état dans l'étiquetage, la faculté germinative des semences de base peut être ramenée à 80 p. 100, cette indication devant également être portée dans le mar­quage.
 
 (b) Une deuxième graine n'est pas considérée comme impureté si un second échantillon du même poids est exempt de graines d'autres espèces de céréales.
 
