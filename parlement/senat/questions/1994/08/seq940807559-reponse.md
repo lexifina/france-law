@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940807559
+
+- Question : [SEQ940807559](seq940807559.md) — Réforme de la fiscalité des revenus fonciers
+
+## Réponse
+
+*Logement, JO du 1994-11-10, page 2679*
+
+Réponse. - L'évolution récente de l'activité économique, notamment dans le secteur de l'immobilier, est la conséquence des récentes mesures gouvernementales et d'un contexte international désormais plus favorable. Toutefois, cette reprise économique reste fragile en raison d'une remontée préoccupante des taux d'intérêt. Parmi les mesures adoptées dès 1993, l'effort du Gouvernement n'a pas seulement porté sur la mise en oeuvre de mesures conjoncturelles destinées à créer un effet de relance immédiat, mais aussi sur des mesures structurelles. En effet, il est apparu primordial d'améliorer la fiscalité applicable aux bailleurs de logements afin d'inciter de façon durable l'épargne privée à s'orienter vers le logement. Parmi les mesures adoptées visant à alléger la fiscalité applicable aux bailleurs, on peut citer d'une part l'augmentation du taux de la déduction forfaitaire pour frais porté dès 1993 de 8 p. 100 à 10 p. 100 et d'autre part, l'imputation du déficit foncier sur le revenu global, désormais possible dans la limite de 50 000 francs par an pour la partie des dépenses autres que les intérêts d'emprunts. Aujourd'hui, l'embellie constatée de la conjoncture économique doit en effet avoir pour conséquence, comme le souligne l'honorable parlementaire, d'orienter l'effort du Gouvernement de préférence vers des mesures structurelles, destinées à éviter à terme les aléas conjoncturels si préjudiciables pour le logement des Français. Ainsi, le projet de loi de finances pour 1995, bien que marqué par de fortes contraintes budgétaires, comprend notamment une mesure de relèvement de 50 000 francs à 70 000 francs de la limite d'imputation des déficits fonciers sur le revenu global.
