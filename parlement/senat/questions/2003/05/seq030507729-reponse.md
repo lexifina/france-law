@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030507729
+
+- Question : [SEQ030507729](seq030507729.md) — Situation des buralistes meusiens et lorrains
+
+## Réponse
+
+*Budget, JO du 2003-06-26, page 2080*
+
+Le Gouvernement est sensible aux préoccupations des débitants de tabac concernant les conséquences de l'augmentation des prix du tabac intervenue le 6 janvier 2003. Cependant, une telle hausse des prix se justifie pleinement dans le cadre de l'action qu'il entend mener pour lutter contre le tabagisme, notamment des jeunes. Le Gouvernement est toutefois parfaitement conscient du rôle joué par les débitants qui sont souvent les seuls commerces de proximité présents dans certaines zones du territoire national. C'est pourquoi il a mis en place un ensemble de mesures en faveur de la profession : tout d'abord, l'augmentation à 8 000 euros, à compter du 1er février 2003, du montant de la subvention versée par l'Etat aux débitants pour leur permettre de financer une partie des travaux destinés à améliorer la sécurité de leurs établissements ; la simplification et la modernisation de la déclaration de stock ; le relèvement du seuil d'exonération de la redevance qui est porté à 152 500 euros avec effet rétroactif au 1er janvier 2003 ; la mise en place d'un régime de compensation entre les sommes dues sur les stocks détenus le 6 janvier dernier et celles qui pourraient être remboursées dans l'hypothèse d'éventuelles fluctuations significatives des prix dans le courant du printemps 2003. Enfin, une réflexion stratégique sur l'évolution du secteur, sous forme d'une table ronde réunissant les représentants des débitants de tabac, le ministère de l'intérieur, de la sécurité intérieure et des libertés locales, le ministère de la santé, de la famille et des personnes handicapées et le ministère de l'économie, des finances et de l'industrie, a été engagée.
