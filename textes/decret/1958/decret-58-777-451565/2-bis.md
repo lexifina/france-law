@@ -12,6 +12,16 @@ Les intéressés doivent être âgés de quarante ans au moins au 1er janvier de
 
 Les intéressés sont nommés dans un emploi d'inspecteur et doivent assurer les fonctions correspondant à ce grade pendant une période probatoire d'un an.
 
-Pendant cette période, ils sont placés en position de détachement. Pour la détermination de leur situation de détachement, les dispositions des articles 13-2, 13-4 et 13-5 ci-après sont applicables.
+Pendant cette période, ils sont placés en position de détachement. Pour la détermination de leur situation de détachement, les dispositions des articles 13-2, 13-3 et 13-5 ci-après sont applicables.
 
 A l'issue de la période probatoire, si leur service a donné satisfaction, ils sont titularisés dans le grade d'inspecteur en conservant l'échelon et l'ancienneté d'échelon qu'ils détenaient en position de détachement. Si leur service n'est pas jugé satisfaisant, ils sont réintégrés dans leur corps d'origine.
+
+NOTA :
+
+Décret n° 2009-1555 du 14 décembre 2009 article 1 :
+
+I. - Les dispositions des décrets régissant les corps de La Poste mentionnés en annexe du présent décret sont abrogées en tant qu'elles concernent les recrutements externes et la répartition des emplois à pourvoir par la voie externe et la voie interne.
+
+II. - Les dispositions des mêmes décrets définissant une période probatoire ou de stage sont abrogées en tant qu'elles concernent les corps de La Poste.
+
+Décret n° 2011-1679 du 29 novembre 2011, article 13 : Les dispositions du décret du 25 août 1958 sont abrogées en tant qu'elles concernent le corps des inspecteurs de France Télécom.

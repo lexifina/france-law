@@ -1,5 +1,73 @@
 # Article 11 bis
 
-Les fonctionnaires et les agents non titulaires de droit public nommés au grade de mécanicien dépanneur sont classés dans leur nouveau grade dans les conditions prévues aux articles 5 et 6 du décret du 27 janvier 1970 susvisé.
+Les fonctionnaires nommés au grade de mécanicien-dépanneur, en application de l'article 10 ci-dessus, sont classés dans leur nouveau grade à l'échelon auquel ils étaient parvenus dans leur précédent grade.
 
-Toutefois, les fonctionnaires régis par le décret du 27 janvier 1970 susvisé ainsi que les fonctionnaires de La Poste et de France Télécom titulaires d'un grade dont le nombre d'échelons, la durée moyenne et la durée minimale dans chaque échelon sont fixés par référence à l'article 2 du décret du 27 janvier 1970 susmentionné et qui sont parvenus au 11e échelon de leur grade sont nommés au 10e échelon du grade de mécanicien dépanneur, en conservant l'ancienneté acquise dans l'échelon d'origine majorée de quatre ans.
+Lorsque cette nomination ou promotion à l'échelon déterminé par application de la disposition de l'alinéa précédent a pour résultat d'accorder aux intéressés un gain excédant 75 points indiciaires bruts, elle est prononcée à l'échelon inférieur le plus voisin tel que ce gain n'excède pas le chiffre précité.
+
+Ils conservent, dans la limite de la durée moyenne de l'échelon de leur nouveau grade fixée à l'article 7 ci-dessus, l'ancienneté d'échelon qu'ils avaient acquise dans leur grade antérieur.
+
+Dans le cas où l'application des dispositions du présent article aboutit à classer dans un même échelon des fonctionnaires appartenant à deux ou plusieurs échelons successifs d'un même grade, ces fonctionnaires sont rangés dans cet échelon d'après les modalités suivantes :
+
+1. Lorsque les intéressés appartiennent à deux échelons successifs, seuls les fonctionnaires appartenant au plus élevé de ces échelons conservent, dans la limite prévue au troisième alinéa ci-dessus, l'ancienneté d'échelon qu'ils avaient acquise dans leur grade antérieur ;
+
+2. Lorsque les intéressés appartiennent à plusieurs échelons successifs, seuls les fonctionnaires appartenant aux deux échelons les plus élevés bénéficient, dans leur nouvel échelon, d'une ancienneté déterminée conformément aux indications du tableau ci-après :
+
+ECHELON
+
+dans le grade antérieur
+
+|
+
+ANCIENNETE D'ECHELON
+
+dans le nouveau grade
+
+|
+
+Agent appartenant à
+
+l'échelon le plus élevé.
+
+|
+
+Ancienneté d'échelon acquise dans le grade antérieur majorée
+
+de la moitié de la durée moyenne de service exigée pour l'accès
+
+à l'échelon supérieur du nouveau grade, l'ancienneté totale ne
+
+pouvant excéder cette durée moyenne.
+
+|
+
+Agent appartenant à
+
+l'échelon immédiatement
+
+inférieur.
+
+|
+
+Ancienneté d'échelon acquise dans le grade antérieur dans la
+
+limite de la moitié de la durée moyenne de service exigée
+
+pour l'accès à l'échelon supérieur du nouveau grade.
+
+|
+
+Les agents non titulaires nommés au grade de mécanicien-dépanneur sont classés en prenant en compte à raison des trois quarts de leur durée les services civils qu'ils ont accomplis, sur la base de la durée moyenne de service exigée pour chaque avancement d'échelon.
+
+Ce classement ne doit en aucun cas créer des situations plus favorables que celles qui résulteraient d'un classement à un échelon comportant un traitement égal ou, à défaut, immédiatement supérieur à celui perçu dans l'ancien emploi, avec conservation de l'ancienneté d'échelon dans les conditions définies au troisième alinéa du présent article.
+
+Les services pris en compte doivent avoir été accomplis de façon continue. Toutefois, sont retenus les services accomplis avant une interruption de fonctions inférieure à trois mois si cette interruption est du fait de l'agent, ou inférieure à un an dans le cas contraire. En outre, ne sont pas considérés comme interruptifs de la continuité des services, d'une part, l'accomplissement des obligations du service national et, d'autre part, les congés sans traitement obtenus en application des dispositions législatives ou réglementaires en vigueur.
+
+NOTA :
+
+Décret n° 2009-1555 du 14 décembre 2009 article 1 :
+
+I. - Les dispositions des décrets régissant les corps de La Poste mentionnés en annexe du présent décret sont abrogées en tant qu'elles concernent les recrutements externes et la répartition des emplois à pourvoir par la voie externe et la voie interne.
+
+II. - Les dispositions des mêmes décrets définissant une période probatoire ou de stage sont abrogées en tant qu'elles concernent les corps de La Poste.
+
+Décret n° 2011-1677 du 29 novembre 2011 article 16 : les dispositions du décret n° 65-306 du 12 avril 1965 sont abrogées en tant qu'elles concernent le corps des mécaniciens dépanneurs de France Télécom et le corps des contrôleurs du service automobile de France Télécom ainsi que le corps des chefs de travaux du service automobile de France Télécom.

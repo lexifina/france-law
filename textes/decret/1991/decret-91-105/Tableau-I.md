@@ -1,577 +1,361 @@
-# Article ANNEXE
-
-TABLEAUX MENTIONNÉS À L'ARTICLE 12
-
-DU DÉCRET RELATIF AU STATUT PARTICULIER DES FONCTIONNAIRES
-
-DES CORPS DE RÉVISEURS DES TRAVAUX DE BÂTIMENT DE LA POSTE ET DE FRANCE TÉLÉCOM
-
-Tableau 1
+# Article Tableau I
 
 Fonctionnaires du corps des dessinateurs-projeteurs.
 
 SITUATION ANCIENNE
 
+|
+
 RÉVISEUR
+
+|
 
 Grades et échelons
 
+|
+
 Echelons
 
+|
+
 Ancienneté d'échelon
+
+|
 
 Dessinateur-projeteur
 
+|
+
+|
+
+|
+
+14e échelon
+
+|
+
+7e
+
+|
+
+Ancienneté égale à 2 ans.
+
+|
+
+13e échelon
+
+|
+
+7e
+
+|
+
+Un demi de l'ancienneté acquise majoré de 1 mois 15 jours (dans la limite de 2 ans).
+
+|
+
 12e échelon :
 
-Après 4 mois
+|
 
-6e échelon
+|
 
-Trois quarts de l'ancienneté acquise diminuée de quatre mois sans pouvoir excéder 1 an 3 mois.
+|
 
-Avant 4 mois
+- après 2 ans 9 mois 18 jours
 
-5e échelon
+|
 
-Trois quarts de l'ancienneté acquise augmentés de 2 ans 9 mois.
+7e
 
-11e échelon
+|
 
-5e échelon
+Cinq huitièmes de l'ancienneté acquise diminués de 1 an 9 mois.
 
-Ancienneté égale à 2 ans 9 mois.
+|
 
-10e échelon :
+- avant 2 ans 9 mois 18 jours
 
-Après 2 ans
+|
 
-5e échelon
+6e
 
-Ancienneté égale à 2 ans 9 mois.
+|
 
-Avant 2 ans
+Cinq huitièmes de l'ancienneté acquise majorés de l'an 3e mois.
 
-5e échelon
-
-Trois quarts de l'ancienneté acquise majorés de 1 an 3 mois.
-
-9e échelon :
-
-Après 2 ans
-
-5e échelon
-
-Ancienneté égale à 1 an 3 mois.
-
-Entre 2 ans et 4 mois
-
-5e échelon
-
-Trois quarts de l'ancienneté acquise diminuée de 4 mois.
-
-Avant 4 mois
-
-4e échelon
-
-Trois quarts de l'ancienneté acquise majorés de 1 an 9 mois.
-
-8e échelon :
-
-Après 8 mois
-
-4e échelon
-
-Trois quarts de l'ancienneté acquise diminuée de 8 mois.
-
-Avant 8 mois
-
-3e échelon
-
-Trois quarts de l'ancienneté acquise majorés de 1 an 6 mois.
-
-7e échelon
-
-3e échelon
-
-Moitié de l'ancienneté acquise.
-
-6e échelon
-
-2e échelon
-
-Moitié de l'ancienneté acquise.
-
-5e échelon
-
-1er échelon
-
-Un demi de l'ancienneté acquise majoré de 3 mois.
-
-4e échelon :
-
-Après 1 an
-
-1er échelon
-
-Un demi de l'ancienneté acquise diminuée de 1 an.
-
-Avant 1 an
-
-1er échelon
-
-Sans ancienneté.
-
-3e, 2e et 1er échelon
-
-1er échelon
-
-Sans ancienneté.
-
-Dessinateur-projeteur chef de section
-
-5e échelon :
-
-Après 2 ans 6 mois
-
-7e échelon
-
-Ancienneté égale à 2 ans.
-
-Avant 2 ans 6 mois
-
-7e échelon
-
-Trois quarts de l'ancienneté acquise majorés de 1 mois 15 jours.
-
-4e échelon :
-
-Après 2 ans 6 mois
-
-7e échelon
-
-Ancienneté égale à 1 mois 15 jours.
-
-Entre 2 ans 6 mois et 2 ans 4 mois
-
-7e échelon
-
-Trois quarts de l'ancienneté acquise diminuée de 2 ans 4 mois.
-
-Avant 2 ans 4 mois
-
-6e échelon
-
-Trois quarts de l'ancienneté acquise majorés de 1 an 3 mois.
-
-3e échelon :
-
-Après 2 ans
-
-6e échelon
-
-Ancienneté égale à 1 an 3 mois.
-
-Après 2 ans 4 mois
-
-6e échelon
-
-Trois quarts de l'ancienneté acquise diminuée de 4 mois.
-
-Avant 4 mois
-
-5e échelon
-
-Trois quarts de l'ancienneté acquise majorés de 2 ans 9 mois.
-
-2e échelon :
-
-Après 2 ans
-
-5e échelon
-
-Ancienneté égale à 2 ans 9 mois.
-
-Avant 2 ans
-
-5e échelon
-
-Trois quarts de l'ancienneté acquise majorés de 1 an 3 mois.
-
-1er échelon :
-
-Après 2 ans
-
-5e échelon
-
-Ancienneté égale à 1 an 3 mois.
-
-Entre 2 ans et 4 mois
-
-5e échelon
-
-Trois quarts de l'ancienneté acquise diminuée de 4 mois.
-
-Avant 4 mois
-
-4e échelon
-
-Trois quarts de l'ancienneté acquise majorés de 1 an 9 mois.
-
-Chef dessinateur
-
-Classe exceptionnelle
-
-2e échelon
-
-8e échelon
-
-Sans ancienneté.
-
-1er échelon :
-
-Après 8 mois
-
-8e échelon
-
-Sans ancienneté.
-
-Avant 8 mois
-
-7e échelon
-
-Trois quarts de l'ancienneté acquise majorés de 2 ans.
-
-Classe normale
-
-4e échelon :
-
-Après 2 ans
-
-7e échelon
-
-Ancienneté égale à 2 ans.
-
-Avant 2 ans
-
-7e échelon
-
-Trois quarts de l'ancienneté acquise majorés de 6 mois.
-
-3e échelon :
-
-Après 1 an 4 mois
-
-7e échelon
-
-Trois quarts de l'ancienneté acquise diminuée de 1 an 4 mois.
-
-Avant 1 an 4 mois
-
-6e échelon
-
-Trois quarts de l'ancienneté acquise majorés de 2 ans.
-
-2e échelon
-
-6e échelon
-
-Trois quarts de l'ancienneté acquise majorés de 6 mois.
-
-TABLEAUX MENTIONNÉS À L'ARTICLE 12
-
-DU DÉCRET RELATIF AU STATUT PARTICULIER DES FONCTIONNAIRES
-
-DES CORPS DE RÉVISEURS DES TRAVAUX DE BÂTIMENT DE LA POSTE ET DE FRANCE TÉLÉCOM
-
-Tableau II
-
-Fonctionnaires du corps des techniciens.
-
-SITUATION ANCIENNE
-
-RÉVISEUR
-
-Grades et échelons
-
-Echelons
-
-Ancienneté d'échelon
-
-Technicien
+|
 
 11e échelon :
 
-Après 2 ans
+|
 
-7e échelon
+|
 
-Trois quarts de l'ancienneté acquise diminuée de 2 ans sans pouvoir excéder 2 ans 3 mois.
+|
 
-Avant 2 ans
+- après 6 mois
 
-6e échelon
+|
 
-Trois quarts de l'ancienneté acquise majorés de 1 an 6 mois.
+6e
 
-10e échelon :
+|
 
-Après 2 ans
+Un demi de l'ancienneté acquise diminuée de 3 mois.
 
-6e échelon
+|
 
-Trois quarts de l'ancienneté acquise diminuée de 2 ans.
+- avant 6 mois
 
-Avant 2 ans
+|
 
-5e échelon
+5e
 
-Trois quarts de l'ancienneté acquise majorés de 1 an 6 mois.
+|
+
+Un demi de l'ancienneté acquise majorée de 2 ans 9 mois.
+
+|
+
+10e échelon
+
+|
+
+5e
+
+|
+
+Un demi de l'ancienneté acquise majoré de 1 an 3 mois.
+
+|
 
 9e échelon :
 
-Après 9 mois
+|
 
-5e échelon
+|
 
-Deux tiers de l'ancienneté acquise diminuée de 9 mois.
+|
 
-Avant 9 mois
+- après 6 mois
 
-4e échelon
+|
 
-Deux tiers de l'ancienneté acquise majorés de 1 an 6 mois.
+5e
+
+|
+
+Un demi de l'ancienneté acquise majoré de 3 mois.
+
+|
+
+- avant 6 mois
+
+|
+
+4e
+
+|
+
+Un demi de l'ancienneté acquise majoré de 1 an 9 mois.
+
+|
 
 8e échelon :
 
-Après 9 mois
+|
 
-4e échelon
+|
 
-Deux tiers de l'ancienneté acquise diminuée de 9 mois.
+|
 
-Avant 9 mois
+- après 8 mois
 
-3e échelon
+|
 
-Deux tiers de l'ancienneté acquise majorés de 1 an 6 mois.
+4e
 
-7e échelon
+|
 
-3e échelon
+Trois quarts de l'ancienneté acquise diminuée de 8 mois.
 
-Moitié de l'ancienneté acquise.
+|
 
-6e échelon
+- avant 8 mois
 
-2e échelon
+|
 
-Moitié de l'ancienneté acquise.
+3e
 
-5e échelon
-
-1er échelon
-
-Moitié de l'ancienneté acquise.
-
-4e, 3e, 2e et 1er échelon
-
-1er échelon
-
-Sans ancienneté.
-
-Technicien supérieur
-
-7e échelon :
-
-Après 1 an 4 mois
-
-8e échelon
-
-Sans ancienneté.
-
-Avant 1 an 4 mois
-
-7e échelon
+|
 
 Trois quarts de l'ancienneté acquise majorés de 1 an 6 mois.
 
-6e échelon :
-
-Après 2 ans
+|
 
 7e échelon
 
-Trois quarts de l'ancienneté acquise diminuée de 2 ans.
+|
 
-Avant 2 ans
+3e
 
-6e échelon
+|
 
-Trois quarts de l'ancienneté acquise majorés de 1 an 6 mois.
+Moitié de l'ancienneté acquise.
 
-5e échelon :
-
-Après 1 an 6 mois
+|
 
 6e échelon
 
-Trois quarts de l'ancienneté acquise diminuée de 1 an 6 mois.
+|
 
-Avant 1 an 6 mois
+2e
+
+|
+
+Moitié de l'ancienneté acquise.
+
+|
 
 5e échelon
 
-Trois quarts de l'ancienneté acquise majorés de 1 an 10 mois 15 jours.
+|
+
+1er
+
+|
+
+Un demi de l'ancienneté acquise majoré de 3 mois.
+
+|
 
 4e échelon :
 
-Après 3 ans
+|
 
-5e échelon
+|
 
-Trois quarts de l'ancienneté acquise diminuée de 3 ans, majorés de 1 an 6 mois.
+|
 
-Entre 3 ans et 1 an 6 mois
+- après 1 an
 
-5e échelon
+|
 
-Ancienneté acquise diminuée de 1 an 6 mois.
+1er
 
-Avant 1 an 6 mois
-
-4e échelon
-
-Ancienneté acquise majorée de 6 mois.
-
-3e échelon :
-
-Après 2 ans 6 mois
-
-4e échelon
-
-Ancienneté acquise diminuée de 2 ans 6 mois.
-
-Entre 2 ans 6 mois et 1 an
-
-3e échelon
-
-Ancienneté diminuée de 6 mois.
-
-Avant 1 an
-
-3e échelon
-
-Moitié de l'ancienneté acquise.
-
-2e échelon :
-
-Après 1 an
-
-2e échelon
+|
 
 Un demi de l'ancienneté acquise diminuée de 1 an.
 
-Avant 1 an
+|
 
-1er échelon
+- avant 1 an
 
-Un demi de l'ancienneté acquise majoré de 6 mois.
+|
 
-Chef technicien
+1er
 
-7e échelon :
-
-Après 4 mois
-
-8e échelon
+|
 
 Sans ancienneté.
 
-Avant 4 mois
+|
 
-7e échelon
+3e, 2e, et 1er échelons
 
-Trois quarts de l'ancienneté acquise majorés de 2 ans 3 mois.
+|
 
-6e échelon :
+1er
 
-Après 2 ans
+|
 
-7e échelon
+Sans ancienneté.
 
-Trois quarts de l'ancienneté acquise diminuée de 2 ans.
+|
 
-Avant 2 ans
+Chef-dessinateur
+
+|
+
+|
+
+|
+
+8e échelon
+
+|
+
+9e
+
+|
+
+Sans ancienneté.
+
+|
+
+7e échelon :
+
+|
+
+|
+
+|
+
+- après 2 ans 9 mois
+
+|
+
+9e
+
+|
+
+Sans ancienneté.
+
+|
+
+- avant 2 ans 9 mois
+
+|
+
+8e
+
+|
+
+Ancienneté acquise.
+
+|
 
 6e échelon
 
-Trois quarts de l'ancienneté acquise majorés de 1 an 6 mois.
+|
 
-5e échelon :
+7e
 
-Après 1 an 6 mois
+|
 
-6e échelon
+Cinq sixièmes de l'ancienneté acquise.
 
-Trois quarts de l'ancienneté acquise diminuée de 1 an 6 mois.
-
-Avant 1 an 6 mois
+|
 
 5e échelon
 
-Trois quarts de l'ancienneté acquise majorés de 1 an 10 mois 15 jours.
+|
 
-4e échelon :
+6e
 
-Après 3 ans
+|
 
-5e échelon
+Ancienneté acquise.
 
-Trois quarts de l'ancienneté acquise diminuée de 3 ans, majorés de 1 an 6 mois.
+|
 
-Entre 3 ans et 1 an 6 mois
+NOTA :
 
-5e échelon
+Décret 2004-1300 2004-11-26 annexe : Les dispositions du décret mentionnées en annexe du décret 2004-1300 sont abrogées en tant qu'elles prévoient pour les corps de France Télécom les recrutements externes, la répartition des emplois à pourvoir par la voie interne et la voie externe et une période probatoire ou un stage avant la titularisation.
 
-Ancienneté acquise diminuée de 1 an 6 mois.
+Décret n° 2009-1555 du 14 décembre 2009 article 1 :
 
-Avant 1 an 6 mois
+I. - Les dispositions des décrets régissant les corps de La Poste mentionnés en annexe du présent décret sont abrogées en tant qu'elles concernent les recrutements externes et la répartition des emplois à pourvoir par la voie externe et la voie interne.
 
-4e échelon
-
-Ancienneté acquise majorée de 6 mois.
-
-3e échelon :
-
-Après 2 ans 6 mois
-
-4e échelon
-
-Ancienneté acquise diminuée de 2 ans 6 mois.
-
-Entre 2 ans 6 mois et 1 an
-
-3e échelon
-
-Ancienneté acquise diminuée de 6 mois.
-
-Avant 1 an
-
-3e échelon
-
-Moitié de l'ancienneté acquise.
-
-2e échelon :
-
-Après 1 an
-
-2e échelon
-
-Un demi de l'ancienneté acquise diminuée de 1 an.
-
-Avant 1 an
-
-1er échelon
-
-Un demi de l'ancienneté acquise majoré de 6 mois.
+II. - Les dispositions des mêmes décrets définissant une période probatoire ou de stage sont abrogées en tant qu'elles concernent les corps de La Poste.

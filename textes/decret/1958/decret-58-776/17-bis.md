@@ -12,4 +12,8 @@ Les candidats nommés alors qu'ils avaient atteint l'échelon le plus élevé de
 
 Toutefois, si l'application des dispositions prévues à l'alinéa précédent a pour effet de classer à un même échelon des fonctionnaires se trouvant à des échelons différents d'un même grade, seuls ceux qui sont au plus élevé de ces échelons conservent leur ancienneté dans la limite nécessaire pour le passage à l'échelon supérieur.
 
-3° Les fonctionnaires de catégorie C promus au grade de receveur de 4e classe sont classés dans ce grade en fonction de la situation qui aurait été la leur, en application des dispositions de l'article 5 (I, § A), du décret n° 73-910 du 20 septembre 1973, s'ils avaient auparavant accédé au premier grade de la carrière type de catégorie B régie par les dispositions dudit décret.
+3° Les adjoints administratifs et les agents d'exploitation promus au grade de chef d'établissement de 4e classe sont classés dans ce grade en fonction de la situation qui aurait été la leur s'ils avaient auparavant accédé au grade de contrôleur, conformément aux dispositions du décret n° 72-503 du 23 juin 1972 modifié relatif au statut particulier du corps des contrôleurs de La Poste et de France Télécom.
+
+NOTA :
+
+Décret n° 2000-518 du 13 juin 2000 art. 1 : les dispositions du décret n° 58-776 du 25 août 1958 sont abrogées en ce qu'elles concernent les directeurs d'établissement de tri postal, les directeurs d'établissement des télécommunications et les receveurs et chefs de centre hors série.

@@ -1,6 +1,6 @@
 # Article Annexe
 
-(Classement prenant effet du 1er janvier 1991)
+(Classement prenant effet du 1er juillet 1992)
 
 GRADES OU EMPLOIS
 
@@ -86,7 +86,7 @@ Directeur départemental adjoint
 
 |
 
-841-901
+841-966
 
 |
 
@@ -134,11 +134,9 @@ Inspecteur-élève
 
 |
 
-302-340 (1)
+340
 
 |
-
-(1) 340 après 1 an.
 
 |
 
@@ -146,7 +144,7 @@ Surveillant ou surveillante en chef
 
 |
 
-529-655
+425-612
 
 |
 
@@ -156,17 +154,7 @@ Contrôleur divisionnaire
 
 |
 
-398-592
-
-|
-
-|
-
-Chef de section
-
-|
-
-430-548
+425-612
 
 |
 
@@ -176,85 +164,33 @@ Contrôleur
 
 |
 
-291-488
+312-579
 
 |
 
 |
 
-Agent d'administration principal
+Agent d'exploitation du service général
 
 |
 
-265-407
-
-|
-
-|
-
-Agent d'exploitation
-
-|
-
-253-378
+274-474
 
 |
 
 |
 
-Adjoint administratif
+Assistant administratif
 
 |
 
-245-365
+249-449
 
 |
 
 |
 
-Agent administratif de 1re classe
-
-|
-
-232-336
-
-232-354
-
-|
-
-A compter du 1er août 1991.
-
-|
-
-Agent administratif de 2e classe
-
-|
-
-224-309
-
-224-328
-
-|
-
-A compter du 1er août 1991.
-
-|
-
-Agent de bureau
-
-|
-
-224-301
-
-224-314
-
-|
-
-A compter du 1er août 1991.
-
-|
-
-C - Service des installations
+C - Services des installations
 
 |
 
@@ -266,17 +202,7 @@ Chef technicien
 
 |
 
-373-592
-
-|
-
-|
-
-Technicien supérieur
-
-|
-
-337-548
+359-619
 
 |
 
@@ -286,27 +212,17 @@ Technicien
 
 |
 
-294-488
+314-579
 
 |
 
 |
 
-Aide technicien de 1re classe des installations
+Aide-technicien
 
 |
 
-265-407
-
-|
-
-|
-
-Aide technicien de 2e classe des installations
-
-|
-
-253-378
+277-474
 
 |
 
@@ -320,25 +236,11 @@ D - Ouvriers d'état
 
 |
 
-Chef d'atelier central
+Chef d'atelier
 
 |
 
-405-500
-
-(526-548) (1)
-
-|
-
-(1) Classe exceptionnelle.
-
-|
-
-Contremaître principal
-
-|
-
-364-451
+348-579
 
 |
 
@@ -348,65 +250,19 @@ Contremaître
 
 |
 
-265-407
+249-449
 
 |
 
 |
 
-Maître ouvrier d'état
+Ouvrier d'état
 
 |
 
-265-407
+232-365
 
 |
-
-|
-
-Ouvrier d'état :
-
-|
-
-|
-
-|
-
-4e catégorie
-
-|
-
-253-378
-
-|
-
-|
-
-3e catégorie
-
-|
-
-245-348
-
-245-354
-
-|
-
-A compter du 1er août 1991.
-
-|
-
-2e catégorie
-
-|
-
-235-322
-
-235-328
-
-|
-
-A compter du 1er août 1991.
 
 |
 
@@ -422,7 +278,7 @@ Réviseur en chef
 
 |
 
-750-852
+750-966
 
 |
 
@@ -432,7 +288,7 @@ Réviseur
 
 |
 
-379-750
+379-780
 
 |
 
@@ -450,21 +306,7 @@ Chef dessinateur
 
 |
 
-447-607
-
-(616-619) (1)
-
-|
-
-(1) Classe exceptionnelle.
-
-|
-
-Dessinateur projeteur chef de section
-
-|
-
-430-548
+359-619
 
 |
 
@@ -474,17 +316,7 @@ Dessinateur projeteur
 
 |
 
-291-488
-
-|
-
-|
-
-Dessinateur chef de groupe
-
-|
-
-265-407
+312-579
 
 |
 
@@ -494,7 +326,7 @@ Dessinateur
 
 |
 
-253-378
+249-449
 
 |
 
@@ -512,13 +344,9 @@ Chef surveillant
 
 |
 
-235-322
-
-235-328
+232-365
 
 |
-
-A compter du 1er août 1991.
 
 |
 
@@ -526,13 +354,9 @@ Agent de service
 
 |
 
-224-301
-
-224-314
+232-365
 
 |
-
-A compter du 1er août 1991.
 
 |
 
@@ -540,13 +364,9 @@ Agent des services techniques de 2e classe
 
 |
 
-224-309
-
-224-328
+232-365
 
 |
-
-A compter du 1er août 1991.
 
 |
 
@@ -558,21 +378,11 @@ H - Service automobile
 
 |
 
-Chef de travaux de 1re classe
+Chef de travaux
 
 |
 
-498-592
-
-|
-
-|
-
-Chef de travaux de 2e classe
-
-|
-
-356-548
+425-612
 
 |
 
@@ -582,17 +392,7 @@ Contrôleur
 
 |
 
-291-488
-
-|
-
-|
-
-Maître dépanneur
-
-|
-
-265-407
+312-579
 
 |
 
@@ -602,7 +402,7 @@ Mécanicien dépanneur
 
 |
 
-253-378
+249-449
 
 |
 
@@ -628,7 +428,7 @@ Chef d'établissement de classe exceptionnelle
 
 |
 
-841-901
+841-966
 
 |
 
@@ -678,7 +478,7 @@ Chef d'établissement de 3e classe
 
 |
 
-405-592
+425-612
 
 |
 
@@ -688,7 +488,7 @@ Chef d'établissement de 4e classe
 
 |
 
-299-488
+463-510
 
 |
 
@@ -794,7 +594,7 @@ Assistant de service social chef
 
 |
 
-476-638
+379-659
 
 |
 
@@ -804,7 +604,7 @@ Assistant de service social
 
 |
 
-302-607
+323-642
 
 |
 
@@ -814,17 +614,7 @@ Infirmier ou infirmière en chef
 
 |
 
-398-592
-
-|
-
-|
-
-Infirmier ou infirmière principal(e)
-
-|
-
-430-548
+379-611
 
 |
 
@@ -834,7 +624,7 @@ Infirmier ou infirmière
 
 |
 
-291-488
+312-579
 
 |
 
@@ -862,7 +652,7 @@ Vérificateur principal
 
 |
 
-363-592
+425-612
 
 |
 
@@ -872,13 +662,9 @@ Vérificateur
 
 |
 
-299-500
-
-(526-548) (1)
+365-579
 
 |
-
-(1) Classe exceptionnelle.
 
 |
 
@@ -886,7 +672,7 @@ Conducteur chef du transbordement de 1re classe
 
 |
 
-363-592
+425-612
 
 |
 
@@ -896,47 +682,29 @@ Conducteur chef du transbordement
 
 |
 
-299-500
-
-(526-548) (1)
-
-|
-
-(1) Classe exceptionnelle.
-
-|
-
-Conducteur de travaux de la distribution et de l'acheminement
-
-|
-
-291-488
+365-579
 
 |
 
 |
 
-Receveur rural
+Conducteur de travaux
 
 |
 
-291-451
+312-579
 
 |
 
 |
 
-Préposé chef
+Agent d'exploitation
 
 |
 
-245-348
-
-245-354
+249-449
 
 |
-
-A compter du 1er août 1991.
 
 |
 
@@ -944,13 +712,9 @@ Préposé
 
 |
 
-235-322
-
-235-328
+249-449
 
 |
-
-A compter du 1er août 1991.
 
 |
 
@@ -966,7 +730,7 @@ Maître graveur
 
 |
 
-430-714
+450-735
 
 |
 
@@ -976,7 +740,7 @@ Graveur
 
 |
 
-343-592
+363-612
 
 |
 
@@ -986,7 +750,7 @@ Prote
 
 |
 
-559-714
+579-735
 
 |
 
@@ -996,7 +760,7 @@ Sous-prote
 
 |
 
-393-607
+420-626
 
 |
 
@@ -1006,17 +770,7 @@ Maître imprimeur
 
 |
 
-337-488
-
-|
-
-|
-
-Artisan imprimeur principal
-
-|
-
-265-407
+314-579
 
 |
 
@@ -1026,7 +780,7 @@ Artisan imprimeur
 
 |
 
-253-378
+277-474
 
 |
 
@@ -1036,27 +790,19 @@ C - Conducteur d'automobiles de 1re catégorie
 
 |
 
-245-348
-
-245-354
+249-449
 
 |
 
-A compter du 1er août 1991.
+|
+
+D - Receveur rural
 
 |
 
-D - Gérante de cabines téléphoniques
+312-483
 
 |
-
-235-322
-
-235-328
-
-|
-
-A compter du 1er août 1991.
 
 |
 
@@ -1070,19 +816,11 @@ France Télécom
 
 |
 
-A - Service des lignes
-
-|
-
-|
-
-|
-
 Chef de district
 
 |
 
-363-592
+425-612
 
 |
 
@@ -1092,37 +830,29 @@ Chef de secteur
 
 |
 
-299-500
-
-(526-548) (1)
-
-|
-
-(1) Classe exceptionnelle.
-
-|
-
-Conducteur de travaux des lignes
-
-|
-
-291-488
+365-579
 
 |
 
 |
 
-Agent technique de 1re classe
+Conducteur de travaux
 
 |
 
-245-348
-
-245-354
+312-579
 
 |
 
-A compter du 1er août 1991.
+|
+
+Agent d'exploitation
+
+|
+
+249-449
+
+|
 
 |
 

@@ -6,8 +6,18 @@ Le détachement est prononcé à équivalence de grade et à l'échelon qui comp
 
 Les fonctionnaires placés en position de détachement concourent pour les avancements de grade et d'échelon avec les membres du corps des dessinateurs projeteurs.
 
-Ils peuvent être intégrés dans ce corps, sur leur demande, après y avoir accompli deux ans de services.
+Les fonctionnaires placés en position de détachement dans un corps de dessinateurs-projeteurs depuis au moins un an peuvent, sur leur demande, y être intégrés.
 
 Ils sont nommés au grade et à l'échelon qu'ils occupaient en position de détachement, ils conservent l'ancienneté d'échelon qu'ils ont acquise.
 
 Les services effectifs accomplis par les intéressés dans leur corps d'origine sont assimilés à des services effectifs accomplis dans le corps d'intégration.
+
+NOTA :
+
+Décret n° 2009-1555 du 14 décembre 2009 article 1 :
+
+I. - Les dispositions des décrets régissant les corps de La Poste mentionnés en annexe du présent décret sont abrogées en tant qu'elles concernent les recrutements externes et la répartition des emplois à pourvoir par la voie externe et la voie interne.
+
+II. - Les dispositions des mêmes décrets définissant une période probatoire ou de stage sont abrogées en tant qu'elles concernent les corps de La Poste.
+
+Décret n° 2011-1676 du 29 novembre 2011 article 18 : les dispositions du décret n° 56-448 du 30 avril 1956 sont abrogées en tant qu'elles concernent le corps des dessinateurs de France Télécom et celui des dessinateurs-projeteurs de France Télécom.
