@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960515369
+
+- Question : [SEQ960515369](seq960515369.md) — Critères de sélection des athlètes pour les compétitions nationales et internationales
+
+## Réponse
+
+*Jeunesse, JO du 1996-08-29, page 2241*
+
+Réponse. - Les fédérations sportives ayant délégation de pouvoir sont seules responsables de la désignation des représentants français dans les compétitions internationales de leur discipline. Pour les compétitions multisports, organisées sous l'égide du Comité international olympique, telles que les jeux Olympiques ou les Jeux méditerranéens, le Comité national olympique et sportif français (CNOSF) inscrit les participants sur proposition des fédérations sportives concernées et après avis de la Commission nationale du sport de haut niveau. La Fédération française de tennis de table définit, au début de chaque saison, ses critères de sélection. Ces critères sont diffusés à l'ensemble des pongistes inscrits sur la liste nationale de sportifs de haut niveau. Les sélections dans les compétitions internationales ont toujours respecté ces différents critères ainsi que le note l'avis de la conciliation rendu par le CNOSF, conformément à l'article 19 de la loi du 16 juillet 1984, le 23 avril 1996. L'affaire citée par l'honorable parlementaire est actuellement en cours d'examen devant une juridiction administrative (tribunal administratif de Paris) qui se prononcera sur le " bien-fondé " de la requête de l'athlète concerné. Enfin, ce sportif a toujours refusé la signature d'une convention le liant à la Fédération française de tennis de table. Cette convention, dont la mise en oeuvre est particulièrement recommandée par le ministère de la jeunesse et des sports, définit les droits et devoirs de chacun des signataires conformément aux recommandations de la charte du sport de haut niveau.
