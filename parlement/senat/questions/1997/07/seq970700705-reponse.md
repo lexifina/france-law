@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970700705
+
+- Question : [SEQ970700705](seq970700705.md) — Conséquences des nouvelles normes bien-être des animaux dans la filière poules pondeuses
+
+## Réponse
+
+*Agriculture, JO du 1997-10-02, page 2621*
+
+Réponse. - Les conditions réglementaires relatives à la protection des poules pondeuses en batterie sont actuellement définies par l'arrêté du 29 décembre 1987, transposant la directive 86/113/CEE du 25 mars 1986. Ce texte s'applique à toutes les installations françaises depuis le 1er janvier 1995. Le Comité scientifique vétérinaire de l'Union européenne a adopté le 30 octobre 1996 un rapport sur le bien-être des poules dans différents systèmes d'élevage, conformément aux prescriptions de l'article 9 de la directive précitée. Ce rapport ne propose aucune solution définitive. Les avantages et les inconvénients des différents systèmes de production (volières, libre parcours ou batteries) y sont décrits tant sur le plan de la santé et du comportement de l'animal que sur celui de la santé publique. La France, premier producteur d'oeufs de l'Union européenne, demande un premier bilan de la situation dans les différents Etats membres avant d'envisager tout projet de modif ication de la directive actuelle. En effet, la réelle application de ce texte sur l'ensemble du territoire communautaire doit être garantie. Interdire les batteries conduirait en outre à favoriser les importations en provenance des pays tiers qui ne respectent pas les mêmes contraintes et conduirait ainsi à des distorsions de concurrence. L'option française actuelle consiste donc à privilégier une démarche de libre choix de la part du consommateur qui peut déjà, en fonction de sa sensibilité sur ces questions, choisir d'acheter des oeufs provenant de poules élevées sur libre parcours, en plein air, au sol, ou en volières.
