@@ -1,3 +1,0 @@
-# Article 18 BIS
-
-Article abrogé implicitement par l'avenant n° 68 du 30 novembre 1988 modifié par l'avenant n° 73 du 13 décembre 1989.
