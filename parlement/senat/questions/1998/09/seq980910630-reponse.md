@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980910630
+
+- Question : [SEQ980910630](seq980910630.md) — Critique de la programmation routière française
+
+## Réponse
+
+*Équipement, JO du 1999-06-10, page 1963*
+
+Réponse. - Le schéma directeur routier national a été conçu dans le cadre fixé par la loi d'orientation des transports intérieurs qui prévoyait l'élaboration de schémas de planification à long terme de manière à assurer leur cohérence et la transparence des choix publics. Le rapport accompagnant ce schéma fixe des objectifs (chapitre II), des priorités (chapitre IV) et les moyens de les financer. Il a été approuvé dans les formes et après les consultations prévues par la loi. Le projet de loi pour l'aménagement durable du territoire qui achève son parcours parlementaire prévoit l'élaboration de schémas de services collectifs, approuvés par décret, pour la mise en uvre des choix stratégiques de la politique nationale d'aménagement et de développement du territoire. L'élaboration de ces schémas doit s'appuyer sur une concertation déconcentrée conduite par les préfets de région associant les collectivités territoriales et les autres partenaires intéressés. Dans le domaine des transports, il est prévu d'élaborer simultanément un schéma multimodal de services de transports de marchandises, qui se substitueront aux schémas d'infrastructures déjà établis en application de la loi du 30 décembre 1982 d'orientation des transports intérieurs. Ces dispositions introduiront trois modifications substantielles par rapport aux pratiques antérieures de la planification des transports : une approche multimodale, déjà présente dans la loi du 4 février 1995, mais insuffisamment mise en uvre ; l'accent mis sur le service attendu (la demande) avant d'aborder les choix d'infrastructure (l'offre) ; une élaboration déconcentrée régulée par des priorités et des critères de choix.
