@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920219781
+
+- Question : [SEQ920219781](seq920219781.md) — Fonctionnaires français exerçant en Tunisie : régime fiscal
+
+## Réponse
+
+*Économie, JO du 1992-04-09, page 871*
+
+Réponse. -Aux termes des articles 22 et 26 de la convention fiscale franco-tunisienne du 28 mai 1973, l'imposition des rémunérations versées par l'Etat, les collectivités locales et les établissements publics, soit directement soit par prélèvement sur des fonds qu'ils ont constitués, au titre d'un emploi exercé en Tunisie, est attribuée à la Tunisie. Les enseignants expatriés en Tunisie ne sont donc imposables qu'en Tunisie sur ces rémunérations. Cependant, la convention franco-tunisienne de coopération culturelle, scientifique et technique prévoit diverses dérogations à la législation tunisienne, en sorte que les intéressés acquittent un impôt inférieur à celui dont sont redevables les autres contribuables de Tunisie qui perçoivent les mêmes revenus. La situation de ces enseignants soumis à des règles fiscales tunisiennes ne peut de ce fait être comparée avec celle de leurs collègues affectés dans des pays ayant conclu une convention attribuant à la France l'imposition de leur rémunération, ni avec celles des fonctionnaires diplomatiques ou consulaires dont l'imposition est attribuée à l'Etat d'envoi par les conventions de Vienne du 18 avril 1961 et du 24 avril 1963. Cela étant, un projet d'avenant visant à rapprocher la convention actuellement en vigueur du modèle de l'O.C.D.E. qui prévoit l'imposition des salaires et traitements publics dans l'Etat qui les verse a été récemment soumis aux autorités tunisiennes. Si ce projet aboutit, les traitements des enseignants exerçant en Tunisie ne seront imposables en France, en application de l'article 81-A-III du code général des impôts, qu'à concurrence du montant de la rémunération que les intéréssés auraient perçue si leur activité avait été exercée en France.
