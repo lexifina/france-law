@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870305247
+
+- Question : [SEQ870305247](seq870305247.md) — Personnel communal et locaux scolaires: répartition de l'autorité entre le maire et le maître-directeur
+
+## Réponse
+
+*Éducation, JO du 1987-05-07, page 709*
+
+Réponse. -L'alinéa 4 de l'article 2 du décret n° 87-53 du 2 février 1987 stipule que le maître directeur a autorité sur les personnels communaux en service dans l'école. Il doit s'entendre de la manière suivante : les personnels communaux mis à la disposition des écoles restent sous l'autorité des maires qui les recrutent, gèrent leur carrière et les rétribuent et qui exercent sur eux le pouvoir hiérarchique. Pendant le temps scolaire, l'organisation de leur service est placée sous l'autorité du maître directeur, garant du bon fonctionnement du service public d'éducation, notamment lorsque leur intervention auprès de jeunes enfants revêt, de ce fait, le caractère d'une tâche éducative. Cette disposition est à rapprocher de l'article 4 du décret n° 76-1301 du 28 décembre 1976. L'autorité du maître directeur ne s'exercera sur le personnel communal en service dans un centre aéré ou à la cantine que dans les cas où, par convention avec la mairie, il aura été chargé d'en assurer la direction. L'alinéa 5 de l'article 2 de ce même décret précise que le maître directeur fixe les modalités d'utilisation des locaux scolaires pendant les heures et périodes de cours. C'est ainsi que le maître directeur établira la répartition des salles d'exercice entre les maîtres et les groupes d'élèves et organisera le plan d'occupation des salles polyvalentes (salle de documentation, salle de projection, salle d'éducation physique) au mieux des intérêts de tous. Cette disposition, qui vise à permettre une utilisation harmonieuse et fonctionnelle des locaux mis à la disposition de l'école, ne remet aucunement en cause les responsabilités propres de la collectivité locale et du maire concernant les locaux.
