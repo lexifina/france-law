@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021003519
+
+- Question : [SEQ021003519](seq021003519.md) — Situation de l'enseignement agricole privé
+
+## Réponse
+
+*Agriculture, JO du 2003-04-10, page 1231*
+
+En ce qui concerne la situation de l'enseignement agricole privé, le ministère a donné la priorité, dans le budget 2003, à la résolution du contentieux portant sur la revalorisation de la subvention de fonctionnement des établissements mentionnés à l'article 8 du code rural et au respect des engagements financiers prévus par la loi Rocard. Le ministère a prévu une revalorisation de la subvention à la hauteur des résultats de l'enquête de l'inspection de l'enseignement agricole de 2002 sur le coût 2001 de l'élève de l'enseignement agricole public (soit un montant total de 12,5 MEUR). Pour compenser l'écart constaté en 2002 entre le montant des subventions versées et celui résultant de l'enquête, le ministère s'engage à mobiliser les crédits correspondants sur les exercices budgétaires 2003 à 2005, dont 3 MEUR seront ouverts dès la loi de finances rectificative pour 2002. Un groupe de travail a été mis en place avec les fédérations représentatives des établissements relevant de l'article 4 de la loi du 31 décembre 1984 afin de traduire dans un protocole financier les bases de l'accord puis de formaliser, pour l'avenir, dans un support réglementaire les modalités d'évaluation et de calcul de la subvention de fonctionnement. Quant aux crédits de rémunération des enseignants contractuels, le besoin de financement 2002 a été couvert en gestion. Pour 2003, la ligne de rémunérations a été augmentée en projet de loi de finances pour tenir compte de la dépense réelle et de la mise en oeuvre du RETREP. L'objectif pour la rentrée 2003 est le maintien global des emplois. Par ailleurs, la bourse à l'internat a été attribuée dès la rentrée 2002.
