@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920320370
+
+- Question : [SEQ920320370](seq920320370.md) — Limitation de l'activité à domicile des infirmiers et infirmières
+
+## Réponse
+
+*Affaires sociales, JO du 1992-07-09, page 1564*
+
+Réponse. - Le Gouvernement a approuvé un avenant à la convention nationale des infirmiers conclu entre les caisses nationales d'assurance maladie et la Fédération nationale des infirmiers. Cet avenant, qui comporte notamment une revalorisation significative de la valeur de la lettre-clé AMI portée de 14,30 francs à 15 francs, prévoit également, conformément aux discussions engagées entre l'Etat, les caisses nationales d'assurance maladie et la profession, l'instauration d'un taux d'évolution des dépenses de soins infirmiers fixé à 9,7 p. 100 pour 1992 et d'un seuil d'activité au-delà duquel les dépenses engendrées pour l'assurance maladie par l'activité du professionnel donneront lieu à reversement à l'assurance maladie. Ce seuil d'activité correspond à ce que les partenaires conventionnels considèrent comme l'activité maximale compatible avec la qualité des actes. Le seuil retenu par les partenaires conventionnels a été fixé à 22 000 coefficients AMI ou AIS par anet correspond à une activité effective auprès des malades, c'est-à-dire en dehors des temps nécessaires au déplacement du professionnel, de 3 667 heures par an, soit une activité effective de 13 heures par jour, six jours par semaine et 48 semaines par an. Il correspond à des honoraires de l'ordre de 488 000 francs et ne concerne qu'environ 5 p. 100 de l'ensemble des infirmières libérales. En approuvant ces dispositions, le Gouvernement a souhaité soutenir la démarche engagée par les signataires de l'avenant, qui vise à promouvoir des soins de qualité justement rémunérés en pénalisant des activités manifestement excessives et préjudiciables aux assurés sociaux, à l'assurance maladie et à la profession elle-même.
