@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911017791
+
+- Question : [SEQ911017791](seq911017791.md) — Fermeture de l'usine Acor de Saint-Dizier - Marnaval
+
+## Réponse
+
+*Industrie, JO du 1992-04-16, page 951*
+
+Réponse. - La fermeture de l'établissement de Marnaval dans la Haute-Marne de la société A.C.O.R. (Aciers de construction rationalisés) et le transfert des activités à l'usine de Creil dans l'Oise intervient dans le cadre d'une redistribution des productions entre les différents sites français : Creil, Saint-Just, Vauvert et Périgueux. Cette nouvelle répartition répond à deux exigences du marché : spécialisation de lignes de production pour atteindre la taille critique, optimisation des coûts de transport de matières premières et des produits finis. Pour un produit de faible valeur ajoutée, tel que le treillis soudé, les coûts de transport ont une importance déterminante, or la zone de chalandise de Saint-Dizier n'absorbe que 30 p. 100 de la production de Marnaval, ce qui explique le souhait de la société A.C.O.R. de transférer ces productions sur des usines mieux situées. Le groupe Usinor-Sacilor a veillé à mener cette réorganisation de façon à en limiter l'impactsur l'économie locale. C'est ainsi que l'atelier de la société Tréfilunion à Marnaval n'est pas affecté par la fermeture de l'atelier de treillis soudé A.C.O.R. La fermeture entraîne au total la suppression de 69 emplois et un plan social exceptionnel a été établi en conformité avec la convention et les accords sur l'emploi d'octobre 1990. Chaque personne dont le poste est supprimé s'est vu proposer un autre emploi. Le 24 février 1992, il ne reste plus que 3 personnes à reclasser qui le seront prochainement au sein du groupe Usinor-Sacilor. Par ailleurs, la Sodiest, la société de développement régional, a implanté une antenne à Saint-Dizier pour aider au reclassement du personnel et poursuit son effort pour susciter la création de nouvelles activités dans la région.
