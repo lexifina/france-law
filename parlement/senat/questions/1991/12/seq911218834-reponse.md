@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911218834
+
+- Question : [SEQ911218834](seq911218834.md) — Gestion prévisionnelle des emplois
+
+## Réponse
+
+*Travail, JO du 1992-07-23, page 1684*
+
+Réponse. - Face à l'évolution de la technologie il appartient aux entreprises de repenser le travail, c'est-à-dire de mettre en place une organisation du travail qui réponde aux défis qu'elles doivent relever face à leur clientèle, au choix et à la maîtrise d'équipements appropriés, aux capacités actuelles et potentielles des salariés, de telle sorte que chacun y trouve son avantage. Les pouvoirs publics peuvent contribuer à ces évolutions grâce à la mobilisation d'un certain nombre de dispositifs : les contrats d'études prévisionnelles et les FACT études prévisionnelles qui permettent d'aider les branches professionnelles qui sont confrontées à des difficultés d'adaptation, à définir les évolutions nécessaires des emplois et des compétences professionnelles d'ensemble et à les prendre en compte dans l'évolution des classifications ; les aides au conseil, notamment la ligne d'innovation pour la gestion de l'emploi (LIGE) qui a pour objet de favoriser la mise en place dans les PME, d'une gestion prévisionnelle des emplois et des compétences ; les aides à l'action, et notamment les conventions de formation de FNE permettant dans le cadre d'une démarche de gestion prévisionnelle des emplois de faciliter la reconversion des salariés, et les engagements de développement de la formation qui contribuent au financement d'actions de formation de qualité. Par ailleurs le ministère du travail de l'emploi et de la formation professionnelle a entrepris une simplification et une harmonisation du dispositif des aides au conseil aux branches et aux entreprises et des aides à la formation afin d'accroître l'efficacité de l'intervention des pouvoirs publics.
