@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001229929
+
+- Question : [SEQ001229929](seq001229929.md) — Remises de pénalités de retard en matière d'urbanisme
+
+## Réponse
+
+*Économie, JO du 2001-06-14, page 2003*
+
+En matière de taxe locale d'équipement, les collectivités territoriales ont compétence pour accorder la remise gracieuse de pénalités de retard, alors que ces pénalités sont décidées par les services de l'Etat. Cette règle s'explique par le fait que les pénalités liquidées en matière de taxes d'urbanisme sont perçues au profit des collectivités bénéficiaires (communes, départements, régions) et que leur produit est versé intégralement à ces collectivités. Il est d'ailleurs précisé que les services de l'Etat ont compétence liée pour liquider ces pénalités (tout retard de paiement est automatiquement sanctionné par la liquidation de la pénalité).
