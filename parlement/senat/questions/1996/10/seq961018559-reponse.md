@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961018559
+
+- Question : [SEQ961018559](seq961018559.md) — Lycée d'enseignement général et technologique
+
+## Réponse
+
+*Éducation, JO du 1997-05-08, page 1430*
+
+Réponse. - Le lycée d'enseignement général et technologique de Vaulx-en-Velin réunit une structure pédagogique et une équipe éducative qui mettent en oeuvre un projet fort et permettent de dresser un bilan satisfaisant. La structure pédagogique qui a été décidée pour ce lycée constitue assurément un atout non négligeable, et contribue à le rendre attractif : en effet, il comprend non seulement l'ensemble des filières L, S et ES, qui préparent aux baccalauréats pour l'entrée en université ou la préparation aux grandes écoles, mais également des filières technologiques industrielles permettant une bonne insertion professionnelle aux jeunes diplômés. Il est d'autre part prévu que ces filières seront suivies de sections de BTS. Ce lycée doit également sa réussite au dynamisme de l'équipe pédagogique qui l'anime et qui s'implique fortement dans sa mission éducatrice. Enfin, la volonté du conseil régional et du rectorat a été clairement affirmée : il s'agit, à travers cette réalisation, de contribuer à améliorer la vie et l'organisation urbaine dans ce secteur de l'agglomération lyonnaise. Il convient pourtant de relever que la réussite du lycée de Vaulx-en-Velin, si elle est évidente, n'est pas unique ; d'autres lycées situés dans des zones difficiles fonctionnent également de manière très satisfaisante. Tout ce qui peut être analysé comme facteur de réussite sert d'exemple pour les autres établissements, aussi bien ceux qui fonctionnent actuellement que ceux qui seront créés, étant entendu que pour ces derniers, en application de la loi no 83-663 du 22 juillet 1983 relative à la répartition des compétences entre les communes, les départements, les régions et l'Etat, la construction des lycées est de la compétence de la région.
