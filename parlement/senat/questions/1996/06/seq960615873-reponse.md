@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960615873
+
+- Question : [SEQ960615873](seq960615873.md) — Médiateur conciliateur : domicile
+
+## Réponse
+
+*Justice, JO du 1996-08-01, page 2005*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que, en ce qui concerne la conciliation hors procédure judiciaire, l'article 4 du décret no 78-381 du 20 mars 1978 modifié relatif aux conciliateurs prévoit que l'ordonnance du premier président de la cour d'appel nommant le conciliateur indique la circonscription dans laquelle celui-ci exerce ses fonctions ainsi que le tribunal d'instance auprès duquel il doit déposer les procès-verbaux de conciliation. En pratique, la détermination du ressort territorial dans lequel le conciliateur est appelé à exercer ses fonctions, et qui correspond généralement à un ou plusieurs cantons, prend en considération les besoins de l'institution judiciaire mais également la situation personnelle du conciliateur, et notamment son domicile. Dans ces conditions, si le conciliateur peut être éventuellement désigné pour exercer ses fonctions auprès d'une autre juridiction que celle de son domicile, il ne peut valablement accomplir sa mission que dans les limites du ressort territorial qui lui a été assigné dans l'ordonnance de nomination. S'agissant de la désignation d'un médiateur ou d'un conciliateur par les juridictions civiles en cours de procédure, un décret en Conseil d'Etat précisant les conditions d'application des dispositions de la loi du 8 février 1995 relative à la procédure civile administrative et pénale sera prochainement publié. Il est envisagé de ne permettre la délégation judiciaire de la conciliation à une tierce personne qu'au profit d'un conciliateur remplissant les conditions prévues par le décret du 20 mars 1978. En revanche, il n'est pas prévu de restreindre la compétence territoriale des médiateurs judiciaires.
