@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950510940
+
+- Question : [SEQ950510940](seq950510940.md) — Mise en place d'un fonds d'assurance en cas de dégradation des biens des professeurs
+
+## Réponse
+
+*Éducation, JO du 1995-10-19, page 1976*
+
+Réponse. - En application de l'article 11 de la loi no 83-634 du 13 juillet 1983, l'Etat est tenu de réparer les préjudices résultant des violences dont les fonctionnaires pourraient être victimes à l'occasion de leur fonctions. La procédure actuellement applicable permet d'ores et déjà une indemnisation complète des dommages survenus, à la suite d'actes de vandalisme ou de malveillance, aux véhicules des personnels de l'éducation en poste dans les lycées et collèges après application du contrat d'assurances que ceux-ci ont souscrit. Mais ce n'est qu'après avoir recueilli toutes précisions, assorties de preuves, sur l'indemnisation dont la victime a bénéficié en exécution d'un contrat d'assurance, que l'Etat intervient en assurant la prise en charge des frais restant à la charge de l'agent. Le principe d'une convention Etat-assureurs qui permet la prise en charge immédiate de l'intégralité des préjudices par les compagnies d'assurance et le remboursement ultérieur à celles-ci par l'Etat de la part de franchise dont elles feraient l'avance a été arrêté en concertation avec les représentants de la MAIF et de la GMF. Ce dispositif instituant une saisine simultanée des assureurs et de l'administration, l'Etat n'abandonnerait pas la maîtrise des dépenses en cause. Aucune augmentation de la consommation des crédits affectés à ces dépenses n'est par ailleurs à envisager. Un projet de convention établi en ce sens, et, qui prévoit son extention éventuelle à d'autres compagnies d'assurances, a été soumis au ministre du budget. En tout état de cause, des instructions ont été données pour que soit accélérée la mise en oeuvre du dispositif légal en vigueur.
