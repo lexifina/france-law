@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980206015
+
+- Question : [SEQ980206015](seq980206015.md) — Recentrage de l'épargne logement sur le financement du logement
+
+## Réponse
+
+*Logement, JO du 1998-05-14, page 1561*
+
+Réponse. - Le régime des prêts d'épargne logement a été créé par une loi de 1965 pour faciliter l'accession à la propriété des ménages ayant consenti un effort d'épargne préalable à la phase d'emprunt. Le décret d'application de cette loi précise que " les fonds non employés à des opérations de prêt d'épargne logement doivent être affectés à des emplois intéressant la construction de logements ". Ainsi, les fonds collectés par le biais de l'épargne logement n'ont jamais eu d'autre destination que le financement du logement, même si, selon les époques et les aléas des marchés financiers, l'épargne logement peut être considérée comme un placement purement financier : cela reflète sans doute le point de vue de certains épargnants, mais en aucun cas celui des pouvoirs publics, attachés à faire respecter ce point de la réglementation par les établissements de crédit distribuant ce produit ; ceux-ci sont d'ailleurs liés par convention avec le ministre chargé des finances, et cette convention comporte notamment des dispositions intéressant l'emploi des fonds. Le fonctionnement des comptes et plans d'épargne logement est en outre contrôlé par l'inspection générale des finances : l'ensemble de ces précisions est codifié aux articles R. 315-20 à R. 315-22 du code de la construction et de l'habitation. Les fonds laissés en dépôt sur les comptes et plans en raison de l'attractivité des taux de rémunération et sans que leurs titulaires ne sollicitent le prêt qui y est attaché sont certes importants, mais non détournés dans leur utilisation de l'esprit du produit. Comme pour tout dispositif, diverses améliorations sont néanmoins envisageables. Le Gouvernement n'exclut pas certaines évolutions.
