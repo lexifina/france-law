@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980206467
+
+- Question : [SEQ980206467](seq980206467.md) — Réforme de la loi sur le surendettement des ménages
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 1998-04-02, page 1070*
+
+Réponse. - Le Gouvernement est conscient qu'il existe aujourd'hui un nombre significatif de personnes surendettées en raison d'une diminution importante de leurs ressources, pour lesquelles les commissions de surendettement rencontrent des difficultés à élaborer des plans de redressement satisfaisants. Le Gouvernement a donc engagé de manière concertée des réflexions sur les améliorations qu'il conviendrait d'apporter au dispositif de traitement du surendettement des particuliers. Ainsi, saisi d'une demande d'avis, le Conseil national de la consommation a élaboré et adopté à l'unanimité, le 4 décembre 1997, un avis tendant à améliorer la procédure de traitement du surendettement. L'avis du Conseil national de la consommation a servi de base aux mesures qui seront prochainement présentées au Parlement dans le cadre du projet de loi de lutte contre l'exclusion. Le dispositif de traitement du surendettement sera réformé pour tenir compte des phénomènes de surendettement passif qui se développent depuis quelques années. Les commissions de surendettement doivent être dotées de nouveaux moyens leur permettant de traiter les dossiers de surendettés dépourvus de toute ressource. La réforme vise à adapter le texte de 1989 sur plusieurs points déterminants : les garanties des débiteurs sont renforcées ; les procédures sont accélérées et rendues plus efficaces ; le minimum vital est préservé avec la définition d'un " reste à vivre " minimum ; les dettes peuvent être étalées sur huit ans au lieu de cinq ; un moratoire peut être mis en place pour trois ans maximum avant une éventuelle réduction des dettes. Un réel équilibre est ainsi recherché entre les droits des créanciers et les garanties des débiteurs.
