@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861003239
+
+- Question : [SEQ861003239](seq861003239.md) — Situation des caisses de retraite
+
+## Réponse
+
+*Affaires sociales, JO du 1986-11-06, page 1552*
+
+Réponse. - Le tableau ci-dessous situe, pour les principaux régimes de retraite, les prévisions établies pour l'année 1986, en juillet pour le régime général, en mai 1986 pour la CNRACL et la CRPCEN, en décembre dernier pour les autres régimes. Nota : voir tableau page 1552. Ces prévisions financières situent essentiellement la dégradation des comptes du régime général et de la CNRACL ; elles ne doivent pas cacher l'alourdissement des charges que subit l'ensemble des régimes de retraite et que l'équilibre affiché de la plupart d'entre eux n'est atteint que par des subventions croissantes de l'employeur (régime des fonctionnaires, Banque de France, E.D.F.-G.D.F., R.A.T.P.) ou du budget de l'Etat (au régime minier, régime des marins, S.N.C.F., exploitants agricoles). A l'origine de ce mouvement se situent des causes structurelles (allongement de l'espérance de vie, arrivée à l'âge de la retraite des générations nombreuses de l'après-Première Guerre mondiale, augmentation du niveau moyen des pensions) et une raison conjoncturelle : l'abaissement dans la plupart des régimes de l'âge de la retraite à soixante ans. Devant cette situation, le Gouvernement a décidé de dégager des recettes urgentes et exceptionnelles en relevant, pour tous les régimes, la cotisation salariale d'assurance vieillesse de 0,7 point au 1er août 1986 et en affectant un prélèvement sur les revenus de 0,4 point à la Caisse nationale d'assurance vieillesse des travailleurs salariés. Pour l'avenir, des réformes de fond seront nécessaires auxquelles le Gouvernement a demandé de réfléchir à une commission d'évaluation et de sauvegarde de l'assurance vieillesse rassemblant experts et partenaires sociaux.
