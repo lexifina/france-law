@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040712985
+
+- Question : [SEQ040712985](seq040712985.md) — Réglementation du bronzage " en cabine "
+
+## Réponse
+
+*Santé, JO du 2004-09-02, page 2020*
+
+Lors d'une conférence de presse le 24 juin 2004, le ministre chargé de la santé a présenté différentes mesures de prévention des cancers de la peau dus autant aux expositions solaires qu'aux UV artificiels (UVA), les dangers d'une exposition aux UVA ne pouvant être niés. C'est pourquoi, concernant les rayonnements ultraviolets artificiels, les trois agences de sécurité sanitaire compétentes sur ce dossier (Agence française de sécurité sanitaire environnementale, Institut de veille sanitaire et agence de sécurité sanitaire des produits de santé) ont été sollicitées afin de réaliser un état des connaissances scientifiques concernant les effets sur la santé de l'exposition aux UV artificiels. Par ailleurs, la Direction générale de la concurrence, de la consommation et de la répression des fraudes a d'ores et déjà renforcé ses campagnes de contrôle afin de s'assurer du respect de la réglementation existante - une des plus strictes d'Europe - et d'examiner les modifications nécessaires. Enfin, les croyances relatives aux effets bénéfiques ou aux vertus préventives des UVA sur l'exposition au soleil d'été étant encore trop répandues, l'information des utilisateurs de cabines et bancs solaires doit être renforcée. A cet effet, le ministère de la santé et de la protection sociale va élaborer une fiche d'information qui contiendra les principaux conseils pour les personnes désirant utiliser une cabine de bronzage artificiel. Cette fiche présentera les règles à respecter, les quantités à ne pas dépasser, et précisera les risques associés aux UV artificiels. L'objectif est que cette fiche soit disponible dans la totalité des centres de bronzage d'ici à la fin de l'année, et qu'elle soit remise à tous les clients.
