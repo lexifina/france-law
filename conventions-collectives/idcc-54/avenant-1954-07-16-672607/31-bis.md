@@ -10,7 +10,7 @@ A défaut de pouvoir aménager le poste de travail, l'employeur mettra tout en o
 
 Si, malgré la mise en oeuvre de l'ensemble des moyens évoqués aux deux alinéas précédent, l'employeur est amené à apporter des modifications au contrat de travail de l'intéressé, entraînant l'occupation d'un emploi disponible d'un niveau ou d'un échelon inférieurs et une réduction de son salaire, l'intéressé bénéficiera des dispositions des trois alinéas suivants en cas d'acceptation de cette mutation professionnelle.
 
-A compter de sa mutation professionnelle, l'intéressé conservera le coefficient dont il bénéficiait jusque-là pour la détermination de sa rémunération minimale hiérarchique en fonction du barème figurant en annexe II au présent avenant.
+A compter de sa mutation professionnelle, l'intéressé conservera le coefficient dont il bénéficiait jusque-là pour la détermination de son salaire minimum hiérarchique et de son taux annuel garanti en fonction du barème figurant en annexe II au présent avenant.
 
 En outre, l'intéressé aura droit au maintien de son salaire antérieur pendant les six mois suivant sa mutation professionnelle. A l'issue de ce délai, l'intéressé aura droit pendant les six mois suivants à une indemnité mensuelle temporaire égale à 60 p. 100 de la différence entre l'ancien et le nouveau salaire.
 
