@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980608901
+
+- Question : [SEQ980608901](seq980608901.md) — Circulaire concernant l'organisation des sorties scolaires et des classes de découverte
+
+## Réponse
+
+*Enseignement scolaire, JO du 1998-10-08, page 3188*
+
+Réponse. - La circulaire nº 97-176 du 18 septembre 1997 relative à l'organisation des sorties scolaires dans les écoles maternelles et élémentaires publiques, a pour finalité de préciser les conditions dans lesquelles s'organisent toutes les actions pédagogiques nécessitant de sortir de l'enceinte de l'école. De plus, la circulaire nº 97-176 bis du 21 novembre 1997 a apporté des assouplissements afin de prendre en compte les difficultés d'application de ces dispositions. Ces assouplissements paraissent de nature à permettre aux élèves de continuer à bénéficier d'activités pédagogiques diversifiées dans des conditions de sécurité optimales. Les circulaires précitées ne remettent bien évidemment pas en cause les sorties, quel qu'en soit le type, dont l'intérêt n'est pas contestable. Bien au contraire, il est rappelé, dans la circulaire du 18 septembre 1998, que tout ne s'apprend pas en classe et ce principe justifie à lui seul que les maîtres suscitent constamment l'intérêt des élèves par l'organisation d'activités à l'extérieur de l'école. En effet, ces sorties contribuent au développement de l'enfant dans toutes ses composantes corporelles, affectives, intellectuelles, sociales. Elles représentent l'occasion d'une ouverture réelle sur la vie qui transforme les rapports que les enfants entretiennent entre eux et avec les adultes tant à l'intérieur de la classe qu'à l'extérieur. S'agissant des classes de mer, il apparaît, à ce jour, que les nouveaux textes n'ont pas entraîné de baisse de fréquentation des centres accueillant ces classes. En cas de difficulté ponctuelle, il convient de prendre contact avec l'inspection d'académie du département ou l'inspecteur de l'éducation nationale de circonscription.
