@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700244
+
+- Question : [SEQ020700244](seq020700244.md) — Droit local du travail en Alsace-Moselle
+
+## Réponse
+
+*Santé, JO du 2004-06-24, page 1408*
+
+L'honorable parlementaire appelle l'attention sur la situation particulière de l'Alsace-Moselle en matière d'indemnisation des arrêts de travail et notamment l'obligation faite à l'employeur de maintenir le versement du salaire pendant le délai de carence prévu par le régime général d'assurance maladie pour le versement des indemnités journalières, telle qu'elle résulte de l'article 616 du code civil local. En effet, l'article 616 du code civil local, expressément maintenu en vigueur par la loi du 1er juin 1924, prévoit un droit particulier au maintien de la rémunération dans certains cas de suspension du contrat de travail : ainsi, en cas de maladie ou d'accident du salarié, le maintien du salaire dans son intégralité s'impose à l'employeur pendant une période de six semaines, sans délai de carence ni condition d'ancienneté. Ce texte s'applique à tous les salariés dont le lieu de travail se situe en Moselle, Bas-Rhin et Haut-Rhin, quel que soit le lieu du siège social de leur entreprise. Chaque fois que le code local est plus favorable pour le salarié que le droit commun, il doit être appliqué. En conséquence, cette disposition prime sur les conventions collectives et oblige l'employeur à maintenir le salaire dès le premier jour, sans que puisse être observé le délai de carence de trois jours prévu en droit général. Cette disposition est sans incidence en revanche sur le droit aux indemnités journalières versées par les caisses primaires d'assurance maladie qui s'applique dans ces trois départements comme sur le reste du territoire. Il n'est pas envisagé de supprimer le délai de carence existant.
