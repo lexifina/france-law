@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030808822
+
+- Question : [SEQ030808822](seq030808822.md) — Mise en oeuvre des mesures de sécurisation des ascenseurs
+
+## Réponse
+
+*Équipement, JO du 2003-11-06, page 3278*
+
+L'article 79 de la loi n° 2003-590 du 2 juillet 2003 urbanisme et habitat a introduit les articles L. 125-2-1 à L. 125-2-4 dans le code de la construction et de l'habitation. L'article L. 125-2-1 impose la présence de dispositifs de sécurité dans les ascenseurs, l'article L. 125-2-2 crée une obligation d'entretien et l'article L. 125-2-3 instaure un contrôle périodique sur l'état de fonctionnement des ascenseurs et la sécurité des personnes. Le propriétaire de l'ascenseur doit pourvoir à l'ensemble de ces obligations. Dans un immeuble en copropriété, l'ascenseur est un élément d'équipement commun. Il fait donc l'objet d'une propriété indivise entre l'ensemble des copropriétaires. Par conséquent, c'est sur l'ensemble des copropriétaires, soit le syndicat, que pèsent ces obligations et non sur le syndic. Les travaux de sécurité étant imposés par une réglementation, l'assemblée générale n'a pas à se prononcer sur le principe même de ces travaux, mais sur les modalités techniques et financières de leur réalisation ainsi que sur leur date d'exécution dans le respect du délai maximal fixé. Cependant, il incombe au syndic de veiller au respect des réglementations générales. Par conséquent, il doit en référer à l'assemblée générale qui se prononcera sur les dispositions à adopter. Il appartiendra alors au syndic d'exécuter les décisions prises par cette assemblée, conformément à son mandat. Toutefois, en cas d'urgence, le syndic doit faire exécuter les travaux de sécurité de sa propre initiative, en vertu de l'article 18 de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis.
