@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990416029
+
+- Question : [SEQ990416029](seq990416029.md) — Renforcement de la coordination entre les sociétés françaises et italiennes exploitantes du tunnel du Mont-Blanc
+
+## Réponse
+
+*Intérieur, JO du 2001-03-15, page 937*
+
+Réponse. - Depuis le drame survenu dans le tunnel du Mont-Blanc le 24 mars 1999, tous les éléments constitutifs de la sécurité dans ce type d'ouvrages ont fait l'objet d'une réflexion approfondie. Les priorités dorénavant fixées (possibilités de mise à l'abri et d'évacuation des usagers, multiplication du nombre des abris, systèmes de ventilation et de désenfumage renforcés, information des usagers, etc.) ont fait, côté français, l'objet d'une instruction interministérielle intérieur-équipement signée le 24 août 2000. La question soulevée par l'honorable parlementaire et portant sur un ouvrage transfrontalier a été, bien évidemment, au centre des travaux conduits entre la France et l'Italie dans le cadre du programme de réhabilitation et de modernisation du tunnel. A l'avenir, et ce dès la réouverture, le tunnel sera géré d'une manière unique et centralisée. Un groupement européen d'intérêt économique (GEIE) regroupant les sociétés ATMB et SITMB assurera l'unicité d'exploitation et de gestion de l'ouvrage et sera le responsable unique de la sécurité. Parallèlement, un plan binational de secours extérieur franco-italien est en cours de réalisation, comme au Fréjus. Il permettra, grâce à des exercices réguliers, de faire en sorte que les interventions de renfort soient coordonnées et conduites efficacement par le préfet de la Haute-Savoie côté français et le président du Val-d'Aoste côté italien. Il convient de préciser que, bien entendu, le tunnel du Mont-Blanc ne sera réouvert que lorsque toutes les procédures prévues pour la sécurité auront été réalisées, validées et testées.
