@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000827225
+
+- Question : [SEQ000827225](seq000827225.md) — Procédure d'évaluation des cessions gratuites de terrains
+
+## Réponse
+
+*Économie, JO du 2001-01-18, page 170*
+
+Réponse. - Aux termes de l'article R. 421-29 du code de l'urbanisme, les permis de construire doivent, lorsque leur délivrance est subordonnée à une cession gratuite de terrain, mentionner la valeur du terrain à céder. La fixation de cette valeur incombe au directeur des services fiscaux. Ce dispositif, institué par le décret nº 93-614 du 26 mars 1993, pris en application de la loi nº 93-122 du 29 janvier 1993 relative à la prévention de la corruption et à la transparence économique, vise, en effet, à expliciter en termes financiers la contrepartie représentée par l'apport en nature exigé des constructeurs au titre de leur contribution aux dépenses publiques d'équipement. Il s'agit là incontestablement d'une mesure de bonne gestion tant pour l'opérateur, qui peut ainsi appréhender exactement l'effort qui lui est réclamé, que pour la collectivité publique qui dispose ainsi d'un élément d'appréciation pour la bonne maîtrise budgétaire de ses programmes d'équipement. S'il est vrai que ce type d'évaluations représente une charge supplémentaire pour le service du domaine, l'incidence reste limitée et n'a pas pesé sur les délais de réponse de ces services aux demandes de collectivités locales. De manière générale, le délai d'un mois est respecté. C'est ainsi que le service des domaines a traité 206 175 évaluations immobilières, au cours de l'année 1999, dont 4,6 % dans un délai supérieur à un mois. A l'expérience, il apparaît que l'allongement des délais de traitement des dossiers, quand il est constaté, résulte le plus souvent d'un accroissement du nombre des opérations engagées ou des demandes d'évaluations facultatives que les directions des services fiscaux traitent pour répondre aux besoins des collectivités territoriales.
