@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980609390
+
+- Question : [SEQ980609390](seq980609390.md) — Guyane : définition des priorités de l'action en justice
+
+## Réponse
+
+*Justice, JO du 1998-12-31, page 4178*
+
+Réponse. - Le garde des sceaux, ministre de la justice, a l'honneur de faire connaître à l'honorable parlementaire qu'elle a pris connaissance avec beaucoup d'intérêt du rapport établi par M. Jean-François Merle, inspecteur général de l'agriculture, intitulé " Guyane 1997 ; état des lieux et propositions ". Elle tient à rappeler en premier lieu qu'en raison du principe de l'indivisibilité du territoire de la République, les directives d'action publique adressées par le ministre de la justice aux procureurs généraux près les cours d'appel sont applicables à l'ensemble des différents départements et territoires d'outre-mer. Il appartient aux procureurs généraux chargés de les mettre en uvre d'adapter ces instructions aux réalités et contingences locales. C'est à la réalisation de cet objectif que tend l'action du procureur général près la cour d'appel de Fort-de-France, qui a dernièrement eu l'occasion de faire connaître au procureur de la République de Cayenne les orientations qu'il souhaitait voir privilégiées dans la conduite de son action en Guyane. La diversification et le renforcement de la politique pénale, ainsi que la réaffirmation de contentieux prioritaires, telle la lutte contre la toxicomanie, le travail clandestin ou la délinquance des mineurs, figurent ainsi parmi les missions assignées au nouveau chef du parquet de Cayenne. Le garde des sceaux tient à assurer l'honorable parlementaire qu'elle suit avec une toute particulière attention l'action menée par l'institution judiciaire dans ce département et qu'elle veillera à ce qu'une évaluation de celle-ci soit, le moment venu, réalisée.
