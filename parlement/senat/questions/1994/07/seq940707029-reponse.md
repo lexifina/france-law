@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940707029
+
+- Question : [SEQ940707029](seq940707029.md) — Centres hospitaliers intercommunaux du Val-de-Marne
+
+## Réponse
+
+*Affaires sociales, JO du 1995-02-16, page 375*
+
+Réponse. - Les conditions de fonctionnement du service des urgences pédiatriques du centre hospitalier intercommunal de Créteil devraient se trouver très prochainement améliorées en raison d'une part de la réduction en cours des vacances d'emplois d'infirmiers, d'autre part de l'attribution de trois emplois d'infirmiers au titre du budget de 1995. Ce renforcement des effectifs est notamment justifié par la reconnaissance prévue de ce centre hospitalier comme service d'accueil des urgences (SAU) dans le cadre du schéma régional d'organisation sanitaire. Pour ce qui concerne la radiothérapie au centre hospitalier de Villeneuve-Saint-Georges, la demande de renouvellement de l'appareil a suivi la procédure normale de recueil d'avis. Le CNOSS, compétent pour ces matières, a émis un avis négatif fondé sur la faible activité réalisée par ce service temps partiel, et sa situation technique. Cette unité réalise, en effet, à peine la moitié du volume d'activité qui est unanimement considéré comme le minimum justifiant l'installation ou le maintien d'un appareil. La situation technique de ce service est devenue critique. Par ailleurs, il existe en Ile-de-France et dans un proche environnement plusieurs services bien équipés permettant une prise en charge des malades avec toutes les conditions de sécurité requises. L'ensemble de ces arguments a conduit le ministre à suivre l'avis du CNOSS. Cette décision n'impose pas la fermeture immédiate du service qui peut fonctionner jusqu'en 1997. Ce délai peut être utilement mis à profit par le centre hospitalier de Villeneuve-Saint-Georges afin d'établir, le cas échéant, les conventions utiles.
