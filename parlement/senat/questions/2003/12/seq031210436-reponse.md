@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031210436
+
+- Question : [SEQ031210436](seq031210436.md) — Aides aux producteurs de fruits à coque
+
+## Réponse
+
+*Agriculture, JO du 2004-04-01, page 788*
+
+Le paiement à la surface pour les fruits à coque constitue une aide d'une nature nouvelle pour ce secteur, important dans le paysage agricole et rural français. Proposée dans le cadre de la réforme de la PAC, et régie par le règlement (CE) n° 1782/2003 du conseil, cette aide a pour objet de compléter l'appui à l'organisation économique par un véritable soutien aux fonctions environnementale et sociale des plantations de fruits à coque à travers un paiement à l'hectare. Jusqu'alors, l'appui à ces filières se faisait par l'intermédiaire des plans d'amélioration de la qualité et de la commercialisation (PAQC). Les PAQC ont permis de maintenir un bon niveau de compétitivité pour la noix, la France étant le 3e exportateur mondial, et une bonne organisation pour l'amande et la noisette. Concernant la mise en oeuvre de la nouvelle aide à la surface, le ministère de l'agriculture de l'alimentation, de la pêche et des affaires rurales souhaite affirmer son soutien au secteur des fruits à coque en réservant cette aide à des producteurs structurés en organisation de producteurs reconnues au titre du règlement (CE) n° 2200/1996 du conseil. En outre, les PACQ en cours doivent être maintenus jusqu'à leur terme prévu. Pour cette première année de mise en place du paiement direct aux fruits à coque, un niveau de soutien supérieur au niveau européen fixé à titre indicatif devrait pouvoir être apporté dans la mesure où la surface maximale ne devrait pas être atteinte. Cette première année de mise en place permettra d'évaluer les dynamiques en terme de regroupement de l'offre et d'évolution de la surface. Ce dispositif devrait permettre d'assurer la compétitivité de la filière sans recours à un soutien national.
