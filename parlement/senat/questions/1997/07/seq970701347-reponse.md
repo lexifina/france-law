@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701347
+
+- Question : [SEQ970701347](seq970701347.md) — Publicité commerciale dans les publications des administrations
+
+## Réponse
+
+*Culture, JO du 1998-01-15, page 161*
+
+Réponse. - L'information de la population par les collectivités locales est nécessaire au bon fonctionnement de la démocratie locale et elle s'inscrit naturellement dans le cadre des missions de service public de ces collectivités. Il n'est pas douteux cependant que le développement de la presse des collectivités locales, en particulier celle des communes, ne doit pas se faire au détriment de la presse du secteur commercial. Il importe en effet de rappeler que les collectivités locales, lorsqu'elles interviennent dans le domaine économique, notamment dans les secteurs d'activité où s'exerce une concurrence avec les entreprises privées, doivent respecter à la fois le principe de la liberté du commerce et de l'industrie et les règles de l'ordonnance du 1er décembre 1986 relative à la liberté des prix et de la concurrence. Ainsi, au regard du principe de la liberté du commerce et de l'industrie, les interventions des collectivités locales éditrices sur le marché publicitaire ne sont pas admises de plein droit, un intérêt public devant toujours les justifier. Tel était d'ailleurs le sens de l'avis rendu par le Conseil d'Etat le 19 novembre 1987 à propos de l'insertion de messages publicitaires dans les publications administratives autres que les bulletins officiels que rappelle l'honorable parlementaire. L'impact sur la presse locale du secteur commercial résultant de l'accès de la presse des collectivités locales au marché publicitaire doit néanmoins être relativisé. En tout état de cause, la préservation du pluralisme de la presse locale ne paraît pas devoir dépendre pour l'essentiel de mesures radicales concernant le mode de financement de la presse des collectivités locales.
