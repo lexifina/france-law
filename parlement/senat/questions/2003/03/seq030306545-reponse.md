@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030306545
+
+- Question : [SEQ030306545](seq030306545.md) — Formation au secourisme
+
+## Réponse
+
+*Santé, JO du 2003-05-01, page 1494*
+
+La France a effectivement pris du retard par rapport aux autres pays de l'Union européenne ayant inclus une formation au secourisme dans les cursus scolaires des élèves. Les formations de base aux premiers secours, en collèges et en lycées, ont lieu actuellement en dehors des horaires officiels, rendant difficile une forte mobilisation des élèves. Toutefois, on peut noter que, depuis plusieurs années, le ministère de l'éducation nationale a initié, en partenariat avec les centres d'enseignement des soins d'urgence (CESU) et les structures d'enseignement au sein des services d'aide médicale urgente (SAMU) dans les établissements de santé, un programme national " apprendre à porter secours ", destiné aux élèves du primaire. Une formation des enseignants est réalisée par les personnels de l'éducation nationale (médecins, infirmiers de la mission de promotion de la santé et pédagogues) en partenariat avec les équipes des CESU. Cette formation prend en compte le fait que l'enseignant doit comprendre et s'approprier le comportement adapté pour transmettre ce savoir nouveau. A ce jour, plus de vingt mille enseignants ont été formés aux gestes d'urgence pour transmettre cet enseignement à leurs élèves. L'originalité de cette démarche repose sur l'intégration de cet apprentissage dans le programme scolaire. En effet, cet enseignement est décliné, cycle par cycle depuis le plus jeune âge, de la maternelle au collège, respectant le développement psychomoteur de l'enfant et en s'appuyant sur les programmes scolaires obligatoires. Ce programme, actuellement en phase d'évaluation, pourrait être étendu aux élèves du secondaire. On dénombre quelques expérimentations en ce sens dans certains collèges.
