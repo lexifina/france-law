@@ -1,0 +1,9 @@
+# Réponse à la question SEQ891207460
+
+- Question : [SEQ891207460](seq891207460.md) — Fonctionnement des bibliothèques universitaires
+
+## Réponse
+
+*Éducation, JO du 1990-02-15, page 317*
+
+Réponse. - Le ministre d'Etat, ministre de l'éducation nationale, de la jeunesse et des sports veille à la mise en oeuvre des recommandations du rapport Miquel, qui commence désormais à prendre effet. Le ministre d'Etat a donné des instructions pour que les bibliothèques soient classées parmi les investissements prioritaires. Un effort budgétaire sans précédent, continu depuis 1988, a permis un doublement du budget de fonctionnement des bibliothèques : 197,9 millions de francs pour 1990 contre 95,2 millions au budget voté de 1988. Cet accroissement vise particulièrement le développement des collections et leur mise en libre accès, la modernisation des locaux et l'informatisation, l'extension des heures d'ouverture, dans le cadre notamment de la politique contractuelle. En effet, les nouveaux contrats Etat-Université donnent toute sa place à la fonction documentaire, qui est considérée désormais comme aussi importante que les fonctions d'enseignement et de recherche. Des négociations sur la rénovation des formations et des carrières des conservateurs et des bibliothécaires adjoints sont en cours, et soixante-dix neuf emplois de conservateurs et de magasiniers sont créés cette année. Enfin, la coopération nationale et internationale est renforcée en matière de catalogues collectifs, d'acquisitions spécialisées et de prêt entre bibliothèques, ce qui permettra aux bibliothèques universitaires d'être des partenaires privilégiées de la Bibliothèque de France. A cet égard, la création du Conseil supérieur des bibliothèques confirme la coopération interministérielle et consacre l'action d'André Miquel, qui en a été nommé président.
