@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960213807
+
+- Question : [SEQ960213807](seq960213807.md) — Sociétés d'économie mixte d'insertion
+
+## Réponse
+
+*Aménagement du territoire, JO du 1996-04-25, page 1005*
+
+Réponse. - La lutte contre l'exclusion ne peut se conduire sans une mobilisation de tous les acteurs intervenant sur un territoire donné, qu'ils soient publics ou privés. L'échelon communal est très approprié pour favoriser le nécessaire rapprochement entre les publics en difficulté et les structures concernées par leur insertion sociale et professionnelle, de même que les entreprises et organismes susceptibles de leur offrir un emploi. Divers dispositifs facilitant l'articulation des interventions des uns et des autres, la mise en commun de leurs moyens, financiers ou humains, ont été conçus et cadrés sur le plan juridique, qu'il s'agisse du plan local d'insertion par l'économique, du groupement local d'employeurs ou d'un groupement d'intérêt public (décret no 93-705 et arrêté du 27 mars 1993). Ces structures sont a priori mieux adaptées à l'objet évoqué d'un dispositif de coordination en faveur de l'insertion que la société d'économie mixte dont la vocation est tout autre. Il n'existe cependant pas pour le moment d'étude concernant la création de société d'économie mixte d'insertion, ou d'une structure à vocation large regroupant en un seul lieu tous les acteurs de l'insertion et les employeurs concernés par la lutte contre le chômage. Une étude précise destinée à déterminer la structure juridique la plus adaptée au projet local et aux objectifs poursuivis par la commune de Neuilly-sur-Marne peut être conduite avec les services déconcentrés de l'Etat, tant auprès de la préfecture que de la direction départementale du travail, de l'emploi et de la formation professionnelle, et serait de nature à apporter une réponse au sujet que vous évoquez.
