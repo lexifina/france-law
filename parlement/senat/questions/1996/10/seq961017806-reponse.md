@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961017806
+
+- Question : [SEQ961017806](seq961017806.md) — Situation des assistants-professeurs des universités
+
+## Réponse
+
+*Éducation, JO du 1996-11-21, page 3057*
+
+Réponse. - Les assistants qui exercent des activités pédagogiques ou administratives bénéficient, comme les autres enseignants-chercheurs, du régime indemnitaire mis en place par les décrets nos 90-49, 90-50 et 90-51 du 12 janvier 1990. Ils peuvent ainsi percevoir notamment la prime pédagogique au taux prévu pour les maîtres de conférences, la prime d'administration et la prime de charges administratives. Par ailleurs, au plan statutaire, plusieurs mesures ont été prises en leur faveur ces dernières années ; le décret no 89-799 du 27 octobre 1989 a supprimé les contingents statutaires qui entravaient le déroulement de leur carrière ; le décret no 92-708 du 23 juillet 1992 modifiant le décret no 84-431 du 6 juin 1984 a pérennisé la procédure réservant aux assistants titulaires du doctorat des concours d'accès au corps des maîtres de conférences : soixante-treize emplois ont été offerts à ce titre pour la dernière campagne de recrutement et, enfin, le décret no 93-94 du 19 janvier 1993 a défini, à compter du 1er octobre 1992 une nouvelle carrière commune aux trois corps d'assistants. Celle-ci se compose de six échelons d'une durée comprise entre un an et un an six mois. L'échelonnement indiciaire correspondant est doté de l'indice brut 648, de deux points supérieur à l'indice terminal des adjoints d'enseignement. La perspective d'un alignement éventuel de la carrière des assistants sur celle des professeurs certifiés conduit nécessairement à s'interroger sur les fonctions de ces deux corps. Ce rapprochement pourrait être utilement étudié à l'occasion des travaux de réflexion en cours sur les carrières des personnels.
