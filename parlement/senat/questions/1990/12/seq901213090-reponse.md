@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901213090
+
+- Question : [SEQ901213090](seq901213090.md) — Conséquence des nouvelles mesures fiscales sur les projets d'investissement des entreprises
+
+## Réponse
+
+*Économie, JO du 1991-06-06, page 1165*
+
+Réponse. - Au cours de la période récente, le Gouvernement a eu pour objectif de stabiliser le poids de l'impôt sur le revenu des particuliers. Pour ce faire, il a proposé chaque année au Parlement, qui l'a accepté, un relèvement de toutes les limites des tranches du barème de l'impôt, dans une proportion au moins égale à celle de la hausse prévisionnelle des prix, de sorte que la part relative de l'impôt sur le revenu n'a pas augmenté, à revenu réel constant, dans la généralité des cas. Par ailleurs, le conseil des impôts a souligné, dans son dernier rapport, que la progressivité de l'impôt français se situait dans la moyenne européenne pour les revenus moyens et élevés. Les chefs d'entreprise ne sont donc pas pénalisés par rapport à leurs homologues étrangers. De plus, la baisse régulière du taux de l'impôt sur les sociétés, pour les entreprises qui en sont passibles, n'a pu qu'améliorer leur autofinancement et réduire, de ce fait, la nécessité, pour les associés, de procéder à des apports personnels supplémentaires. En ce qui concerne la mise en place de la contribution sociale généralisée, elle devrait certes augmenter la participation des titulaires de revenus élevés au financement de la protection sociale. Mais il s'agit là d'une mesure de solidarité. Enfin, la transformation en impôt départemental sur le revenu de la part départementale de la taxe d'habitation n'entrera pas en vigueur avant qu'un nouveau vote du Parlement n'intervienne sur cette question. En définitive, le Gouvernement apprécie l'incidence de chaque mesure fiscale nouvelle avec la double préoccupation de renforcer la compétitivité des entreprises françaises et de développer la solidarité entre toutes les catégories sociales.
