@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001230030
+
+- Question : [SEQ001230030](seq001230030.md) — Couverture invalidité-décès des conjoints collaborateurs de travailleurs indépendants
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2001-03-01, page 758*
+
+Réponse. - Les conjoints de travailleurs indépendants, qu'ils participent ou non à la vie de l'entreprise, bénéficient, en matière de sécurité sociale, de droits dérivés de ceux du chef d'entreprise dans le cadre de régimes particuliers d'ordre public. La loi de 1982 a effectivement prévu, à côté des statuts de conjoint salarié et de conjoint associé, celui de conjoint collaborateur mentionné au registre du commerce et des sociétés (RCS) ou au répertoire des métiers (RM). Ce dernier statut de conjoint collaborateur mentionné permet aux intéressés, sur la base du volontariat, de cotiser au régime des artisans et des commerçants et de se constituer des droits propres en matière de retraite et d'invalidité décès, à l'instar de leur époux chef d'entreprise. L'adhésion obligatoire n'a pas été retenue par les organisations concernées en raison, notamment, des contraintes financières qui pèsent sur la petite entreprise. Dans ces régimes, la couverture du risque lié aux accidents de travail n'a pas été mise en place par les travailleurs indépendants. Il en résulte que les conjoints ne peuvent pas non plus y avoir accès au titre de l'adhésion volontaire. S'agissant donc de l'extension aux accidents du travail des risques couverts par les régimes particuliers précités, celle-ci nécessite une volonté exprimée par les professionnels élus au sein des conseils d'administration des caisses concernées. En tout état de cause, les conjoints collaborateurs ont toujours la possibilité, notamment lorsque leur implication dans l'entreprise dépasse les limites de l'entraide familiale, d'opter pour le statut de salarié auquel s'attache une protection sociale complète.
