@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000525525
+
+- Question : [SEQ000525525](seq000525525.md) — Statut des pharmaciens des hôpitaux à temps partiel
+
+## Réponse
+
+*Santé, JO du 2001-05-17, page 1704*
+
+Réponse. - Le décret nº 2001-271 du 28 mars 2001 modifiant le décret nº 85-384 du 29 mars 1985 portant statut des praticiens exerçant leur activité à temps partiel dans les établissements d'hospitalisation publics, publié au Journal officiel du 31 mars 2001, permet d'intégrer les pharmaciens des hôpitaux à temps partiel régis par le décret nº 96-182 du 7 mars 1996 dans le statut des praticiens exerçant leur activité à temps partiel dans les établissements d'hospitalisation et fixe les conditions d'intégration et de reclassement permettant de prendre en compte en totalité la carrière effectuée par les pharmaciens à temps partiel dans le cadre du décret du 7 mars 1996 précité. Par ailleurs, dans le cadre de l'harmonisation des carrières entre les deux statuts de praticiens hospitaliers temps plein et temps partiel, une amélioration du déroulement de la carrière est également intervenue à la suite des modifications introduites par les décrets nº 2000-503 et 2000-504 du 8 juin 2000. L'intégration des pharmaciens des hôpitaux à temps partiel dans le statut des praticiens des hôpitaux à temps partiel leur permet donc de bénéficier du même déroulement de carrière que l'ensemble des praticiens hospitaliers. Enfin, deux dispositions figurant dans le projet de loi de modernisation sociale poursuivent l'unification du statut de praticien hospitalier exerçant tant à temps partiel qu'à temps plein.
