@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970700746
+
+- Question : [SEQ970700746](seq970700746.md) — Fonds de gestion de l'espace rural
+
+## Réponse
+
+*Économie, JO du 1997-10-23, page 2890*
+
+Réponse. - Le fonds de gestion de l'espace rural (FGER) est l'un des fonds prévus par la loi d'orientation pour l'aménagement et le développement du territoire. Il a pour objet de financer les actions concourant à la réhabilitation et à l'entretien d'espaces agricoles et forestiers en voie d'abandon, à la préservation et à la restauration du paysage, et à l'aménagement d'éléments naturels et d'espaces où l'insuffisance d'entretien est susceptible de provoquer des risques naturels. Il a été doté de 500 millions de francs en LFI 1995, de 388 millions de francs en LFI 1996 et de 150 millions de francs en LFI 1997. Le montant élevé des dotations ouvertes sur ce fonds à l'origine explique que des niveaux importants de reports aient été enregistrés : 284 millions de francs de 1995 sur 1996 et 304 millions de francs de 1996 sur 1997. La direction du budget du ministère de l'économie, des finances et de l'industrie effectue des efforts constants pour permettre aux ministères de déléguer le plus rapidement possible une fraction conséquente de leurs crédits. La mise en oeuvre d'arrêtés de reports anticipés d'un ou deux mois pour les dotations les plus sensibles répond à cet objectif de bonne gestion. La possibilité ouverte, en 1997, de déléguer jusqu'à 80 % des crédits de fonctionnement dès le mois de janvier témoigne de la même volonté. Toutefois, le contexte économique et financier et les contraintes de gestion susceptibles d'en résulter pour les ministères, en cohérence avec les objectifs retenus par le Gouvernement, peuvent induire des délégations plus tardives sur certaines lignes budgétaires que sur d'autres.
