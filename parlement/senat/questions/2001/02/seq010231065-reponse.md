@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010231065
+
+- Question : [SEQ010231065](seq010231065.md) — Mise en place d'un site Internet permettant de monter entièrement une entreprise en ligne
+
+## Réponse
+
+*Économie, JO du 2001-08-09, page 2609*
+
+La modernisation des centres de formalités des entreprises (CFE) et la simplification des démarches relatives à la création d'entreprises constituent un objectif prioritaire du Gouvernement, et s'inscrit dans la politique plus générale de simplifications administratives en faveur des entreprises, engagée de manière volontariste et cohérente depuis 1997. Diverses dispositions en ce sens ont déjà été prises : réduction à 24 heures du délai d'immatriculation au registre du commerce et des sociétés, mise au point d'une " boîte " contenant l'ensemble des informations et des formulaires nécessaires à la création. C'est à l'occasion des " Etats généraux de la création d'entreprises " en avril 2000 qu'avait été annoncée, par le Gouvernement, la mise à l'étude d'une procédure CFE par Internet et c'est dans ce cadre que la mission menée par M. Bockel, député du Haut-Rhin, a eu notamment pour objet de réfléchir aux conditions de faisabilité de ce nouveau service. Les orientations dégagées par ces travaux et par les réflexions interministérielles menées parallèlement ont abouti à la validation, par la commission pour les simplifications administratives (COSA) du 17 avril 2001, d'un programme de développement d'une téléprocédure liée aux formalités de création, modification ou cessation d'activité. Dès maintenant les nouvelles liasses relatives à la création ont été mises en ligne sur le site www.service-public.fr. En ce qui concerne les étapes ultérieures, le calendrier de mise en oeuvre de ce programme devrait être le suivant : mise en ligne d'une inscription guidée à l'automne 2001 et ouverture d'une procédure totalement dématérialisée au premier semestre 2002.
