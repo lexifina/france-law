@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990415625
+
+- Question : [SEQ990415625](seq990415625.md) — Adoption d'une loi visant à la reconnaissance officielle de la guerre d'Algérie
+
+## Réponse
+
+*Anciens combattants, JO du 1999-05-20, page 1678*
+
+Réponse. - La qualification du conflit en Afrique du Nord est importante au regard de la mémoire collective : l'expression " guerre d'Algérie " correspond à une situation de fait, largement perçue comme telle par la population française, aussi bien à l'époque des événements considérés qu'aujourd'hui. C'est pourquoi le secrétaire d'Etat à la défense chargé des anciens combattants a tenu à l'employer, avec toutes les connotations historiques qu'elle comporte, à l'occasion de l'inauguration du monument départemental des Gersois " morts pour la France " en AFN, le 21 septembre 1997. Depuis, cette terminologie est couramment employée et c'est dans le même sens qu'a été rédigé le texte qui figure, depuis le 28 février 1999, sur la plaque commémorative située sous l'arc de Triomphe de l'Etoile à Paris. La qualification juridique du conflit résulte de la loi nº 74-1044 du 9 décembre 1974 qui fait référence aux " opérations militaires ". Une proposition de loi du groupe socialiste à l'Assemblée nationale, relayée par une proposition d'un autre groupe, vise à lui substituer la qualification de guerre. La position du Gouvernement sera déterminée par les conclusions d'une étude en cours, portant sur les incidences éventuelles de cette requalification dans le domaine de la responsabilité. Il est déjà établi qu'elle n'aurait aucune conséquence en maintien de droit à pension d'invalidité (tous les droits à réparation sont d'ores et déjà accordés) et de pension de retraite, la bonification pour campagne simple correspondant exactement aux circonstances des conflits d'AFN.
