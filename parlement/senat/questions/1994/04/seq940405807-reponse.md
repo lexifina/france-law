@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940405807
+
+- Question : [SEQ940405807](seq940405807.md) — Structures d'accueil familial et associatif pour les handicapés
+
+## Réponse
+
+*Affaires sociales, JO du 1995-01-26, page 183*
+
+Réponse. - C'est au président du conseil général qu'il appartient de conduire, dans son département, la mise en oeuvre de la loi du 10 juillet 1989 relative à l'accueil par des particuliers, à leur domicile, à titre onéreux, de personnes âgées ou de personnes handicapées adultes. Celui-ci se voit en effet confier de larges pouvoirs de décision pour arrêter la procédure d'agrément et définir les clauses du contrat spécifique que doit souscrire toute personne désireuse de participer à cette nouvelle forme d'accueil. L'autorité départementale dispose également d'une entière latitude pour organiser la formation qui est dispensée aux personnes agréées ainsi que le suivi médico-social qui bénéficie aux personnes âgées ou handicapées accueillies à domicile. Il appartient donc aux services du conseil général ou aux organismes conventionnés par lui à cette fin d'exercer une vigilance constante à l'égard des conditions d'octroi et de maintien de l'agrément, afin que les personnes âgées ou handicapées accueillies à domicile bénéficient des meilleures garanties de bien-être et de sécurité. En cas de défaut d'agrément, un particulier s'expose donc à une mise en demeure de la part du président du conseil général qui lui intime l'ordre de cesser son activité, sous peine de poursuites pénales. Si l'Etat n'intervient pas dans la mise en oeuvre de la loi précitée de 1989, il peut néanmoins, en instaurant une coordination étroite avec les conseils généraux et les réseaux d'accueil familial, faire en sorte que l'accueil à domicile par des particuliers se développe en venant utilement compléter le dispositif déjà existant en faveur des personnes âgées en matière d'hébergement et de soins.
