@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971205160
+
+- Question : [SEQ971205160](seq971205160.md) — Avenir du cinéma d'art et d'essai l'Eldorado à Dijon
+
+## Réponse
+
+*Culture, JO du 1998-04-02, page 1047*
+
+Réponse. - Si la création de nouveaux complexes cinématographiques entraîne une hausse importante de la fréquentation, leur apparition modifie profondément les conditions de diffusion des films. Il est donc aujourd'hui nécessaire de préserver pour les salles indépendantes des circuits, en particulier celles qui se consacrent aux films " art et essai ", un accès au films, notamment ceux dont le potentiel commercial est relativement important. A cet effet, le centre national de la cinématographie a saisi, en la matière, le comité consultatif de la diffusion cinématographique, instance chargée de donner un avis sur le renouvellement des agréments de programmation délivrés aux grands circuits nationaux. l'objectif devrait être d'établir des règles générales permettant de préserver l'approvisionnement des salles concernées par l'implantation de ces nouveaux établissements et plus particulièrement celles ayant une programmation identifiée et reconnue en matière de films art et essai. Cette disposition est primordiale si l'on veut maintenir un réseau actif de salles et garantir la diversité de la diffusion cinématographique dans toutes ses composantes. En ce qui concerne les problèmes récemment rencontrés par l'Eldorado en matière de partage des films, difficultés liées au repositionnement des salles de la commune de Dijon dans la perspective de l'ouverture prochaine du multiplex de Quétigny, et s'il devait se révéler que l'Eldorado se voit refuser les films auxquels il avait accès, il convient que celui-ci fasse appel au médiateur du cinéma. Lorsque cela se révèle nécessaire, il peut organiser une réunion destinée à examiner les conditions de partage des films sur un marché local.
