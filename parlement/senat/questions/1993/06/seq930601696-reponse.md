@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930601696
+
+- Question : [SEQ930601696](seq930601696.md) — Marché de la viande bovine
+
+## Réponse
+
+*Agriculture, JO du 1994-05-05, page 1073*
+
+Réponse. - Le secteur du veau de boucherie est, en effet, caractérisé par une situation de crise dont on a pu observer l'accentuation au début de l'année 1993. Les producteurs ont subi le effets d'une dégradation de leurs marges en raison de l'augmentation du prix des matières premières que constituent le veau de huit jours et la poudre de lait écrémé dénaturé. Les disponibilités en veaux nourrissons sont en diminution sous l'effet conjugué d'une forte baisse des effectifs de vaches laitières et d'un contingentement des importations désormais sous clause de sauvegarde. Le prix de la poudre de lait après avoir subi une forte augmentation en fin d'année 1992 a tendance à se stabiliser. Différentes mesures ont été prises au niveau communautaire pour orienter à la baisse le prix de la poudre de lait. De plus, l'augmentation des quotas laitiers décidée en mai 1993 (p 0,6 p. 100 pour la Communauté) devrait également entraîner une augmentation des quantités de poudre de lait disponibles. Au niveau national, un dispositif d'aide à la modernisation de la filière veaux de boucherie a été mis en place. Les producteurs peuvent ainsi bénéficier d'aides à la construction et à la rénovation de leurs bâtiments d'élevage. Pour sauvegarder cette filière qui constitue un élément régulateur par rapport à celle du lait et celle de la viande de gros bovins, il est nécessaire de faire évoluer les organisations communes de marché de ces produits. A l'initiative du ministère de l'agriculture français, une réflexion vient d'être engagée pour tenter d'adapter l'organisation commune de marché de la viande bovine dans un sens plus favorable à la filière veau de boucherie.
