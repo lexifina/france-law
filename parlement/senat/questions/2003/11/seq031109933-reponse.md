@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031109933
+
+- Question : [SEQ031109933](seq031109933.md) — Non-assujettissement des EHPAD à la taxe d'habitation
+
+## Réponse
+
+*Économie, JO du 2004-06-03, page 1191*
+
+Conformément à l'article 1408-11-l du code général des impôts, seul les établissements publics d'assistance sont exonérés de taxe d'habitation. En conséquence, et conformément au 2° du I de l'article 1407 dudit code, les associations à but non lucratif qui gèrent des établissements d'hébergement pour personnes âgées dépendantes sont imposables à la taxe d'habitation pour les locaux communs et, le cas échéant, les locaux d'hébergement de leurs pensionnaires lorsque ces derniers n'ont pas la disposition privative de leur logement, sous réserve que ces locaux ne soient pas retenus pour l'établissement de la taxe professionnelle. Sans méconnaître l'intérêt qui s'attache à l'action de ces associations, il n'est pas envisagé de modifier cette disposition qui permet de faire participer les associations au financement des dépenses locales au même titre que les autres contribuables. Une exonération de taxe d'habitation ne manquerait pas, en effet, d'être revendiquée par d'autres associations à but non lucratif tout aussi dignes d'intérêt. Elle se traduirait, en outre, par une perte de ressources pour les collectivités territoriales concernées, sauf à en transférer la charge sur les autres contribuables locaux. Cela étant, lorsque la taxe d'habitation afférente aux locaux d'hébergement des pensionnaires est établie au nom de l'organisme gestionnaire en raison des conditions d'occupation des locaux, celui-ci peut obtenir un dégrèvement correspondant à celui dont auraient bénéficié les pensionnaires s'ils avaient été personnellement imposés à la taxe d'habitation. Cette précision va dans le sens des préoccupations exprimées.
