@@ -1,0 +1,7 @@
+# Article Préambule
+
+L'union des chambres syndicales nationales des chocolatiers et confiseurs, l'union intersyndicale des industries françaises de biscuiterie - biscotterie, entremets et desserts instantanés, aliments diététiques et de régime, les industries alimentaires diverses, les industries de produits exotiques et le syndicat des fabricants industriels de crèmes glacées, d'une part, et les organisations syndicales représentatives des salariés F.O., C.G.T. et C.G.C., d'autre part, ont décidé de fixer une nouvelle étape dans la politique de réduction progressive et effective de la durée du travail de tous les salariés (politique engagée par les conventions collectives nationales de chacune des branches concernées, intervenues en 1968 et 1969), en vue d'aboutir à une durée hebdomadaire de travail de quarante heures.
+
+Le présent accord fixe le programme de 1973. Les parties signataires se rencontreront au début de 1974 pour, d'une part, faire le point de l'application du présent accord et, d'autre part, définir les modalités selon lesquelles sera poursuivie en 1974 la politique de réduction progressive de la durée du travail.
+
+Le présent accord ne remet naturellement pas en question les accords d'entreprise déjà intervenus ; il ne peut être invoqué pour s'opposer à la conclusion ultérieure d'accords d'entreprise, notamment dans les entreprises dont la durée du travail hebdomadaire est inférieure à celles mentionnées à l'article 2.
