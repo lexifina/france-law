@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701825
+
+- Question : [SEQ970701825](seq970701825.md) — Retour d'une maladie tropicale : l'éléphantiasis
+
+## Réponse
+
+*Santé, JO du 1997-09-25, page 2569*
+
+Réponse. - L'éléphantiasis est une manifestation chronique grave de la filariose lymphatique, une affection causée par des parasites, les filaires, transmis par les moustiques. Les parasites responsables de la filariose lymphatique sont présents dans un grand nombre de pays d'Afrique et d'Asie ainsi que dans quelques pays d'Amérique. Il convient de préciser que la forme chronique éléphantiasique touche essentiellement les populations autochtones, sujettes à de multiples réinfestations, tandis que les personnes voyageant en zones d'endémie développeront une manifestation aiguë, pouvant survenir dans les trois mois après le début d'un séjour en zone de forte endémie, et la plupart du temps suffisamment caractéristique pour permettre un diagnostic et un traitement précoce qui entraîne la guérison et évite l'évolution vers la chronicité. L'efficacité d'un traitement prophylactique spécifique contre la filariose lymphatique n'a pas été démontrée et la prévention repose essentiellement sur la réduction du risque de piqûres de moustiques par l'utilisation d'insecticides, de vêtements couvrants et de répulsifs sur les parties découvertes du corps. Ces conseils rejoignent les conseils concernant le paludisme et la dengue (transmis également par les moustiques) qui sévissent dans les zones d'endémie de la filariose lymphatique. Ces conseils de prévention sont susceptibles d'être communiqués aux voyageurs par tout professionnel de santé (médecin, pharmacien) ainsi que par les professionnels du tourisme, notamment grâce à une brochure d'information éditée en 1996 par le secrétariat d'Etat à la santé.
