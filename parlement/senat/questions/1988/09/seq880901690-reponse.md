@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880901690
+
+- Question : [SEQ880901690](seq880901690.md) — Statut des établissements universitaires
+
+## Réponse
+
+*Éducation, JO du 1988-11-24, page 1331*
+
+Réponse. - La loi de 1984 n'a pas fait l'objet d'une contestation de l'ensemble des personnels enseignants, mais d'une partie d'entre eux puisque sur les 74 universités françaises seules 18 d'entre elles n'étaient pas au 1er juillet 1988 dotées de statuts conformes à cette loi. Les réticences de ces établissements étaient principalement dues à certaines difficultés d'application qui ont été aplanies par le décret n° 88-882 du 19 août 1988. Ce texte, qui a été soumis au Conseil d'Etat et au C.N.E.S.E.R., modifie d'une part le décret électoral n° 85-559 du 18 janvier 1985 en assouplissant les conditions d'exercice du droit de suffrage et en ouvrant la possibilité de constituer des collèges séparés, assurant ainsi une meilleure représentation des différentes catégories de personnel. Il modifie d'autre part le décret n° 85-28 du 7 janvier 1985 concernant les personnalités extérieures en donnant aux établissements une plus grande marge d'autonomie dans le choix de ces personnalités. Parallèlement à ces travaux d'amélioration du dispositif réglementaire d'application de la loi, chaque université a été invitée à préciser les difficultés particulières concentrées dans l'élaboration de ses statuts. Enfin la conférence des présidents d'université, loin d'être tenue à l'écart, s'est réunie à plusieurs reprises et ses avis ont été pris en considération. La mise en conformité avec la loi du 26 janvier 1984 des statuts de tous les établissements a donc procédé d'une démarche écartant tous effets publics spectaculaires de débats de principe et privilégiant la prise en compte des demandes des intéressés eux-mêmes selon les principes d'autonomie posés précisément par loi de 1984.
