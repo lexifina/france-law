@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870606645
+
+- Question : [SEQ870606645](seq870606645.md) — CEE : reconnaissance des diplômes de l'enseignement supérieur
+
+## Réponse
+
+*Affaires européennes, JO du 1987-07-30, page 1166*
+
+Réponse. -Le projet de directive relatif à la reconnaissance mutuelle des diplômes ne rencontre aucune opposition de principe de la part des Etats membres de la Communauté mais soulève de nombreuses difficultés tenant au champ d'application très vaste du texte. La directive vise en effet à assurer la reconnaissance mutuelle de l'ensemble des diplômes d'enseignement supérieur et l'accès à l'ensemble des professions réglementées pour lesquelles de tels diplômes sont exigés, alors que les différences dans la réglementation tant des professions que des formations dans les différents Etats membres sont très importantes. Ces difficultés, surmontables, concernent pour l'essentiel : la définition même de la profession réglementée (certaines professions sont directement réglementées dans certains Etats et ne le sont qu'indirectement ou pas du tout dans d'autres) ; la définition des diplômes d'enseignement supérieur (définition de l'enseignement supérieur, durée minimale des formations, prise en compte des formations, prise en compte des formations sur le tas) ; le champ des professions concernées (cas des emplois administratifs et des enseignants) ; les modalités d'intégration du ressortissant communautaire dans un nouveau milieu professionnel (stage, examen). Il va sans dire que le Gouvernement souhaite pour sa part que les discussions en cours se poursuivent activement en vue de résoudre les problèmes ainsi rencontrés et de parvenir à l'adoption d'un texte qu'il estime, comme l'honorable parlementaire, essentiel à la réalisation du marché intérieur et d'une Europe plus proche des préoccupations concrètes de nos concitoyens.
