@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981213026
+
+- Question : [SEQ981213026](seq981213026.md) — Projet de révision du statut des fonctionnaires de l'Union européenne
+
+## Réponse
+
+*Affaires européennes, JO du 1999-03-25, page 952*
+
+Réponse. - L'honorable parlementaire a bien voulu appeler l'attention du ministre délégué chargé des affaires européennes sur le projet de révision du statut des fonctionnaires de la Communauté européenne et plus précisément sur les travaux d'un groupe dont la création avait été annoncée dans sa réponse à la question écrite nº 7040. Comme le précisait cette réponse, un document interne à la Commission sur l'avenir de la fonction publique communautaire a été diffusé en avril 1998. Suite aux vives réactions des fonctionnaires communautaires, la Commission a décidé de constituer un groupe paritaire réunissant des représentants de la Commission européenne et des organisations syndicales représentatives des fonctionnaires communautaires. Ce groupe, présidé par M. David Williamson, ancien secrétaire général de la Commission, a tenu une vingtaine de réunions du 30 juin au 5 novembre 1998. Le rapport final de ce groupe, qui a été remis le 6 novembre dernier à la Commission, examine les perspectives de réforme du statut de la fonction publique européenne. Le rapport établit une analyse technique de la situation du personnel sur le plan professionnel et social. Il examine les conditions de recrutement et de déroulement des carrières et plaide, notamment, pour l'unicité du statut des fonctionnaires travaillant dans les institutions européennes. Ni la France, ni aucun autre Etat membre, n'a participé aux travaux de ce groupe paritaire. La France ne manquera cependant pas de faire valoir son point de vue dans ce domaine quand la Commission présentera au Conseil ses propositions de réforme sur ce sujet.
