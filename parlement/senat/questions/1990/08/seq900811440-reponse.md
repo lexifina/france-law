@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900811440
+
+- Question : [SEQ900811440](seq900811440.md) — Profession de psychologue (titre et statut)
+
+## Réponse
+
+*Santé, JO du 1991-04-11, page 772*
+
+Réponse. - Les craintes manifestées par l'honorable parlementaire sur le fait que les décrets d'application de la loi n° 85-772 du 15 juillet 1985 portant création du titre de psychologue ne seraient pas conformes à l'esprit de ladite loi ne semblent pas fondées. Il convient à cet égard de souligner que lesdits décrets sont soumis à l'avis de la section sociale du Conseil d'Etat, ce qui est une garantie de leur régularité juridique. S'agissant du décret n° 90-255 du 22 mars 1990 qui prévoit la création d'un diplôme d'Etat de psychologue scolaire, il est précisé à l'honorable parlementaire que le diplôme d'Etat de psychologie scolaire créé par le décret du 18 septembre 1989 impose des conditions très rigoureuses pour faire usage du titre de psychologue. Les instituteurs ou les professeurs des écoles qui seront admis, après sélection, à ce cycle de formation, devront préalablement être titulaires de la licence de psychologie, avoir suivi pendant deux années une formation au métier d'enseignement du premier degré qui comporte notamment des enseignements complémentaires de psychologie appliquée au milieu scolaire et avoir exercé pendant trois ans des fonctions d'enseignement. Il est indéniable que le niveau de formation en psychologie scolaire, dont la formation dure une année, remplira parfaitement les conditions prévues d'exigence d'une formation universitaire fondamentale et appliquée de haut niveau en psychologie préparant à la vie professionnelle. Cela étant, il est tout à fait logique que les diplômes exigés des psychologues hospitaliers (diplômes d'études supérieures spécialisées à orientation clinique) soient différents, compte tenu de la nature de leur activité, de ceux exigés des psychologues scolaires.
