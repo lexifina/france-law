@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880901370
+
+- Question : [SEQ880901370](seq880901370.md) — Information sur le développement de nouvelles drogues et leur propagation en France
+
+## Réponse
+
+*Solidarité, JO du 1989-06-22, page 965*
+
+Réponse. - Le ministre indique à l'honorable parlementaire que ces derniers mois a circulé en France une rumeur, véhiculée sous forme de tracts sur un prétendu trafic de L.S.D. dans les milieux scolaires. Selon le texte de ces tracts, il s'agirait de timbres, utilisés comme tatouage par les enfants. Imprégnés de L.S.D., ces timbres constitueraient " la nouvelle façon de vendre de l'acide ". La rumeur a commencé à circuler à partir de la mi-avril 1988, dans la région de Nice. Elle semble s'être étendue à la quasi-totalité du territoire, son contenu se modifiant au fil des semaines. Le ministre tient à apporter le plus ferme démenti à toutes les allégations contenues dans ces tracts non signés, ou se réclamant abusivement d'organismes publics. Sans aucun fondement, les informations contenues dans ces tracts ont été infirmées, dès le mois de juin 1988, par la brigade des stupéfiants et du proxénétisme. Des enquêtes judiciaires sont actuellement en cours pour tenter d'identifier leurs auteurs initiaux. Au mois de juillet 1988, les directions départementales des affaires sanitaires et sociales et les directions des écoles, des lycées et des collèges du ministère de l'éducation nationale ont été avertis de ce démenti. Devant la persistance de la rumeur, notamment lors de la rentrée scolaire, le ministre a adressé aux directions départementales des affaires sanitaires et sociales, le 21 novembre 1988, une note technique élaborée par la direction générale de la santé, dans le but de guider et d'aider celles-ci à enrayer au niveau local le développement de la rumeur. Celle-ci semble aujourd'hui en voie d'extinction.
