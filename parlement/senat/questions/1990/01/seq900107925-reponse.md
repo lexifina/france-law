@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900107925
+
+- Question : [SEQ900107925](seq900107925.md) — Composés azotés en faune aquatique
+
+## Réponse
+
+*Agriculture, JO du 1990-03-29, page 667*
+
+Réponse. - Conscient de la part de responsabilité de l'agriculture dans le phénomène de pollution des eaux par les nitrates, le ministère de l'agriculture et de la forêt a entrepris diverses actions pour lutter préventivement contre la pollution azotée des eaux d'origine agricole, visant : à mieux ajuster la fertilisation aux exportations d'azote par les cultures ; à développer le couvert végétal des sols en hiver ; à résorber les excédents de déjections animales dans les zones concernées. Un programme d'action spécifique à la Bretagne en matière d'élevage, proposé par le comité d'orientation pour la réduction de la pollution des eaux par les nitrates et les phosphates provenant des activités agricoles (C.O.R.P.E.N.) est en cours de réalisation. Le ministère de l'agriculture et de la forêt intervient financièrement pour la réalisation de travaux aux sièges d'exploitations permettant une meilleure gestion des effluents d'élevage (diminution de la dilution, augmentation des capacités de stockage...). Le but de cette opération est, d'une part, d'éviter les surfertilisations et les épandages inopportuns et, d'autre part, de supprimer les pollutions ponctuelles qui peuvent être à l'origine d'apport d'azote ammoniacal à l'eau, forme d'azote particulièrement nuisible à la faune aquatique. Le C.O.R.P.E.N. réalise également un important effort de sensibilisation et d'information des prescripteurs et agriculteurs par la publication de brochures. Pour l'avenir, le ministère de l'agriculture et de la forêt tient à renforcer son action en zone d'élevage intensif, notamment en agissant sur les excédents de déjections (traitement...).
