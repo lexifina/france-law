@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900509733
+
+- Question : [SEQ900509733](seq900509733.md) — Produits lessiviers
+
+## Réponse
+
+*Environnement, JO du 1990-08-30, page 1890*
+
+Réponse. - Le secrétariat d'Etat chargé de l'environnement a rendu public le 29 mai 1990 le rapport demandé au professeur Carbiener en juillet 1989 pour faire le point sur les arguments développés par les différentes parties intervenant dans la controverse. Ce rapport montre clairement la responsabilité du phosphate des lessives dans l'eutrophisation. Il faudra donc le remplacer. Dans cette perspective, il a annoncé plusieurs mesures visant à réduire l'impact des lessives sur la détergence : limitation à 20 p. 100 de la teneur en tripolyphosphates (T.P.P.) des lessives à compter du 1er juillet 1991 ; réduction de l'emploi de l'éthylène diamino-tétra-acétique (E.D.T.A.) ; non-utilisation de l'acide nitri-lotri-acétique (N.T.A.) ; mise sur le marché, par chaque lessivier important, d'au moins une lessive sans T.P.P. à compter du 1er janvier 1991. Dans le même temps, un programme de recherche important sera lancé pour approfondir la connaissance des mécanismes de l'eutrophisation et étudier le comportement, le devenir et les effets des substituts des T.P.P. et ceux des substances tensioactives sur les milieux aquatiques. En conclusion, dans l'état actuel des connaissances, rien ne permet d'affirmer qu'une lessive sans phosphate soit dans tous les cas moins nuisante qu'une lessive avec phosphate et réciproquement ; certains substituts des T.P.P. dans les lessives sont à déconseiller (N.T.A., E.D.T.A...) ; enfin une forte augmentation des teneurs en produits tensioactifs pour compenser l'absence des T.P.P. n'est pas souhaitable du point de vue de l'environnement. En outre, une partie des phosphates provient des excrétats humains. Il faudra donc équiper nombre de stations d'épuration urbaines d'installations de déphosphatation.
