@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910414923
+
+- Question : [SEQ910414923](seq910414923.md) — Prothèses : sauvegarde des droits des mutilés de guerre
+
+## Réponse
+
+*Anciens combattants, JO du 1991-11-07, page 2470*
+
+Réponse. - Les conditions de prises en charge des articles de prothèse et d'orthopédie sont fixées par une réglementation interministérielle qui s'applique tant aux mutilés de guerre qu'aux assurés sociaux. L'inscription de ces articles au tarif interministériel des prestations sanitaires offre aux personnes handicapées physiques toutes les garanties requises au plan médico-technique. A cet égard une refonte d'une partie de la nomenclature du grand appareillage a été réalisée en 1986 à l'initiative du secrétariat d'Etat. Il est exact que l'union française des orthoprothésistes (l'U.F.O.P.) a signifié son intention de dénoncer le cadre conventionnel existant. Cette perspective paraît être en relation avec une demande de revalorisation des tarifs des articles de grand appareillage qui fait actuellement l'objet d'une étude confiée à la commission consultative des prestations sanitaires (C.C.P.S.) par les départements ministériels responsables des conditions de prise en charge. Dans le cadre de cette étude, le secrétariat d'Etat a validé la partie technique du dossier de revalorisation présenté par l'U.F.O.P. et relatif au secteur appareillage du membre inférieur. L'attention toute particulière que porte le secrétaire d'Etat aux anciens combattants et victimes de guerre à l'aboutissement de ce dossier, aux fins de garantir à ses ressortissants une prise en charge qui demeure conforme aux exigences de sa législation spécifique, s'est récemment traduite par une intervention en ce sens auprès du ministre des affaires sociales. La négociation se poursuit actuellement entre les parties (U.F.O.P., affaires sociales, budget et anciens combattants).
