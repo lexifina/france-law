@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990113705
+
+- Question : [SEQ990113705](seq990113705.md) — Reconversion agricole à la Martinique
+
+## Réponse
+
+*Agriculture, JO du 1999-04-22, page 1320*
+
+Réponse. - Le ministre de l'agriculture et de la pêche est tout à fait conscient des difficultés auxquelles se heurtent les producteurs antillais de bananes, et particulièrement parmi eux les petits et moyens planteurs. Aux craintes qui sont les leurs en raison des attaques menées contre l'OCM de la banane au niveau international, se sont ajoutés en effet l'impact de différents conflits sociaux - dont en Martinique récemment celui des ouvriers de la banane - et les effets des difficultés climatiques de 1998. Toutefois, compte tenu de la situation du marché en 1998 et du niveau attendu de l'aide compensatoire, les producteurs antillais bénéficieront de l'augmentation de la recette forfaitaire de référence durement acquise par les autorités françaises l'an dernier, lors du Conseil agricole de juin 1998. En outre, l'OCM Banane, malgré les modifications décidées en 1998, a été confortée. Dans ces conditions, l'éventuelle reconversion de certains planteurs vers des productions de diversification qui ne bénéficieraient pas des protections communautaires qui sont celles de l'OCM Banane doit être considérée avec prudence. Les efforts déjà entrepris en matière de diversification agricole devraient être poursuivis au cours du prochain contrat de Plan Etat-Région. A cet effet, une étude générale est en cours de réalisation sous l'égide de la chambre d'agriculture avec l'appui de l'ODEADOM. Le ministère de l'agriculture et de la pêche ne manquera pas d'en tirer toutes les conclusions nécessaires en accord avec les organisations professionnelles martiniquaises, pour que la période de programmation 2000-2006 soit marquée par une nouvelle relance des productions agricoles martiniquaises.
