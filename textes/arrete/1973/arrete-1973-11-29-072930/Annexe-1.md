@@ -1,20 +1,10 @@
-# Article Annexe 1
+# Article Annexe
 
 Tableau annexe 1.
 
-GRADES, EMPLOIS : Préparateurs en pharmacie (cadre d'extinction)
+GRADES, EMPLOIS ET ECHELONS : Préparateurs en pharmacie (cadre d'extinction)
 
-Au 1er juillet 1973 :
-
-==============================
-
-ECHELON: INDICES : DUREE
-
-:BRUTS : MAJ : MOY |
-
-: :1-10-72: ANC |
-
--------:------:-------:------- 7 éch : 420 : 337 : 6 éch : 397 : 325 : 3 ans 5 éch : 371 : 305 : 3 ans 4 éch : 346 : 286 : 3 ans 3 éch : 322 : 268 : 3 ans 2 éch : 297 : 249 : 2 ans 1 éch : 280 : 237 : 2 ans ============================== Au 1er juillet 1974 :
+Indices au 1er septembre 1987 :
 
 ==============================
 
@@ -22,26 +12,10 @@ ECHELON: INDICES : DUREE
 
 :BRUTS : MAJ : MOY |
 
-: :1-10-72: ANC |
+: :1-01-85: ANC |
 
--------:------:-------:------- 7 éch : 425 : 341 : 6 éch : 405 : 330 : 3 ans 5 éch : 377 : 309 : 3 ans 4 éch : 353 : 291 : 3 ans 3 éch : 328 : 272 : 3 ans 2 éch : 303 : 254 : 2 ans 1 éch : 287 : 242 : 2 ans ============================== Au 1er juillet 1975 :
+-------:------:-------:------- 7 éch : 438 : 376 : 6 éch : 421 : 363 : 3 ans 5 éch : 389 : 345 : 3 ans 4 éch : 367 : 328 : 3 ans 3 éch : 347 : 313 : 3 ans 2 éch : 324 : 295 : 2 ans 1 éch : 311 : 286 : 2 ans ==============================
 
-==============================
+NOTA :
 
-ECHELON: INDICES : DUREE
-
-:BRUTS : MAJ : MOY |
-
-: :1-10-72: ANC |
-
--------:------:-------:------- 7 éch : 430 : 345 : 6 éch : 412 : 332 : 3 ans 5 éch : 382 : 314 : 3 ans 4 éch : 360 : 297 : 3 ans 3 éch : 335 : 277 : 3 ans 2 éch : 310 : 259 : 2 ans 1 éch : 294 : 247 : 2 ans ============================== Au 1er juillet 1976 :
-
-==============================
-
-ECHELON: INDICES : DUREE
-
-:BRUTS : MAJ : MOY |
-
-: :1-10-72: ANC |
-
--------:------:-------:------- 7 éch : 438 : 351 : 6 éch : 421 : 338 : 3 ans 5 éch : 389 : 319 : 3 ans 4 éch : 367 : 302 : 3 ans 3 éch : 344 : 285 : 3 ans 2 éch : 320 : 266 : 2 ans 1 éch : 307 : 257 : 2 ans ==============================
+Effet rétroactif au 1er septembre 1987 prévu par l'article 8 de l'arrêté du 3 mai 1988.

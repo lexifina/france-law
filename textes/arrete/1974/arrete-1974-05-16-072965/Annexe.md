@@ -8,31 +8,27 @@ CLASSE FONCTIONNELLE (1) :
 
 ECHELON: INDICES : DUREE
 
-:BRUTS : BRUTS: MOY |
+:BRUTS : MAJ : MOY |
 
-: AU : AU : |
+: :1-01-85: ANC |
 
-:1-7-75:1-7-76: ANC |
-
--------:------:------:-------- 6 éch : 569 : 579 : 5 éch : 528 : 538 : 4 ans 4 éch : 494 : 501 : 4 ans 3 éch : 457 : 464 : 4 ans 2 éch : 426 : 433 : 4 ans 1 éch : 378 : 384 : 4 ans ============================== (1) L'effectif des agents pouvant accéder à la classe fonctionnelle est limité à 15 p. 100 de l'effectif global des 2 corps, ou à un agent au moins par centre hospitalier régional ou par centre hospitalier ayant au moins 500 lits actifs CLASSE NORMALE :
+-------:------:-------:------- 6 éch : 579 : 480 : 5 éch : 538 : 448 : 4 ans 4 éch : 501 : 423 : 4 ans 3 éch : 464 : 396 : 4 ans 2 éch : 433 : 372 : 4 ans 1 éch : 384 : 341 : 4 ans ============================== (1) L'effectif des agents pouvant accéder à la classe fonctionnelle est limité à 15 p. 100 de l'effectif global des 2 corps, ou à un agent au moins par centre hospitalier régional ou par centre hospitalier ayant au moins 500 lits actifs CLASSE NORMALE :
 
 ==============================
 
 ECHELON: INDICES : DUREE
 
-:BRUTS : BRUTS: MOY |
+:BRUTS : MAJ : MOY |
 
-: AU : AU : |
+: :1-01-85: ANC |
 
-:1-7-75:1-7-76: ANC |
-
--------:------:------:-------- |
+-------:------:-------:------- |
 
 2 éch : : : |
 
 except : : : |
 
-(2) : 523 : 533 : |
+(2) : 533 : 447 : |
 
 : : : |
 
@@ -40,8 +36,8 @@ except : : : |
 
 except : : : |
 
-(2) : 502 : 513 : 2 ans |
+(2) : 513 : 432 : 2 ans |
 
 : : : |
 
-7 éch : 476 : 487 : 6 éch : 438 : 448 : 4 ans 5 éch : 403 : 416 : 4 ans 4 éch : 361 : 369 : 4 ans 3 éch : 328 : 336 : 3 ans 2 éch : 295 : 302 : 2 ans 1 éch : 275 : 275 : 1 an ============================== (2) (Arrêté du 15 juin 1979 art-1.) Les échelons exceptionnels sont accessibles, dans la limite de 25 p. 100 de l'effectif global des 2 corps ou à un agent au moins par établissement, aux agents comptant 2 ans de services effectifs au 7e échelon.
+7 éch : 487 : 412 : 6 éch : 448 : 383 : 4 ans 5 éch : 416 : 359 : 4 ans 4 éch : 369 : 329 : 4 ans 3 éch : 339 : 306 : 3 ans 2 éch : 306 : 282 : 2 ans 1 éch : 280 : 265 : 1 an ============================== (2) Echelons accessibles dans la limite de 25 p. 100 de l'effectif global des 2 corps ou à un agent au moins par corps et par établissement, aux agents comptant 2 ans de services effectifs au 7e échelon.
