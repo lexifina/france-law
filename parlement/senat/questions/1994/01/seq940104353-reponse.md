@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940104353
+
+- Question : [SEQ940104353](seq940104353.md) — Application des nouvelles règles de TVA intracommunautaire
+
+## Réponse
+
+*Budget, JO du 1994-05-12, page 1155*
+
+Réponse. - La procédure du droit d'enquête prévue par les articles L. 80-F à L. 80-I du livre des procédures fiscales a pour objet de rechercher les manquements aux règles de facturation auxquelles sont soumis les assujettis à la taxe sur la valeur ajoutée soit à raison de l'ensemble de leurs opérations, soit à raison de leurs seules acquisitions et livraisons avec des Etats membres de la Communauté européenne. Dans le premier cas, la procédure ne peut être mise en oeuvre que par les agents des impôts ayant au moins le grade de contrôleur (art. L. 80-F) ; dans le second, elle est également ouverte aux agents des douanes de grade équivalent (art. L. 80-I). 2 294 contrôles de facturation ont été engagés par la direction générale des impôts entre le 1er janvier et le 31 décembre 1993, 1942 ont été clôturés avant cette date. La direction générale des douanes et droits indirects, qui ne pouvait intervenir que sur des opérations réalisées à compter du 1er janvier 1993, a procédé pour sa part à 578 contrôles de facturation (374 clôtures et 204 en cours). Ceux-ci ont été effectués durant le second semestre de 1993, sur la base d'une programmation commune des contrôles arrêtée au niveau régional avec les services de la direction générale des impôts à la fin du premier semestre de 1993. Les procès-verbaux constatant des manquements ont permis la programmation d'un contrôle externe dans 40 p. 100 des cas. Au 31 décembre 1993, près de 200 vérifications ont été engagées sur la base des manquements constatés, sans qu'il soit possible de préciser sur le plan national la proportion que représentent dans ce total les affaires résultant exclusivement ou principalement de constatations relevées par les services douaniers.
