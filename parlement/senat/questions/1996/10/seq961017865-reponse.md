@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961017865
+
+- Question : [SEQ961017865](seq961017865.md) — Statut de la visite du Pape lors des 12es Journées mondiales de la jeunesse à Paris du 18 au 24 août 1997
+
+## Réponse
+
+*Affaires étrangères, JO du 1996-10-31, page 2841*
+
+Réponse. - L'honorable parlementaire a bien voulu appeler l'attention du ministre des affaires étrangères sur le statut de la visite du Pape en France à l'occasion des 12es Journées mondiales pour la jeunesse, qui se tiendront à Paris, du 18 au 24 août 1997, en regard du caractère laïque de la République française. La visite du Pape en France à cette occasion ne peut être qualifiée de visite d'Etat, le Pape n'effectuant que des " visites pastorales ". Le Pape est cependant tout à la fois le chef de l'Eglise catholique et le chef de l'Etat de la cité du Vatican, entité géographique sur laquelle s'appuie le Saint-Siège avec lequel la France, comme plus de 160 pays, entretient des relations diplomatiques. A ce titre, le Pape bénéficie du traitement protocolaire de tout chef de l'Etat ; il devrait donc bénéficier, lors de sa prochaine visite, d'un accueil comparable à celui qu'il a reçu à l'occasion de chacune de ses précédentes visites pastorales, où il a été accueilli par le président Giscard d'Estaing, le président Miterrand et le président Chirac. Par ailleurs, les 12es Journées mondiales pour la jeunesse constituent une manifestation à caractère international qui devrait rassembler un grand nombre de participants, y compris beaucoup d'étrangers. Les pouvoirs publics ont le devoir, notamment pour des raisons de sécurité, de veiller dans les limites des responsabilités qui sont dévolues à l'Etat au bon déroulement d'une telle manifestation. Concernant l'aspect financier de ces journées, le budget en est à la seule charge des organisateurs. Il n'y a donc aucun lieu de craindre en la matière quelque atteinte que ce soit au principe constitutionnel de la laïcité de l'Etat.
