@@ -1,6 +1,6 @@
-# Article Annexe 1 A
+# Article ANNEXE 1 A
 
-Lorsque l'emploi de secrétaire général n'est pas pourvu par avancement de grade des agents communaux inscrits sur la liste d'aptitude, les candidats à ces fonctions doivent soit avoir été admis à un concours sur titres, soit avoir été recrutés directement. Dans les communes de 2.000 à 5.000 habitants, l'accès à cet emploi peut, de plus, s'effectuer par la voie du concours sur épreuves.
+Lorsque l'emploi de secrétaire général n'est pas pourvu par avancement de grade des agents communaux inscrits sur la liste d'aptitude, les candidats à ces fonctions doivent soit avoir été admis à un concours sur titres, soit avoir été recrutés directement dans les communes de 2.000 à 5.000 habitants, l'accès à cet emploi peut, de plus, s'effectuer par la voie du concours sur épreuves.
 
 A - Communes de plus de 20.000 habitants.
 
@@ -18,9 +18,9 @@ Diplôme de troisième cycle d'études supérieures ;
 
 Diplôme d'études comptables supérieures (D.E.C.S.) ;
 
-Diplômes admis pour le recrutement direct.
+Diplôme admis pour le recrutement direct.
 
-Soit fonctionnaires d'une collectivité visée à l'article L. 411-5 du code des communes occupant l'un des emplois ci-après :
+Soit fonctionnaires d'une collectivité visée à l'article L. 411-5 du Code des communes occupant l'un des emplois ci-après :
 
 Secrétaire général adjoint, directeur de service administratif, attaché principal, comptant dans leur emploi un temps de services au moins égal à celui fixé par l'arrêté du 5 novembre 1959 relatif aux conditions d'avancement de grade.
 
@@ -53,3 +53,9 @@ Diplôme d'études supérieures spécialisées en aménagement et urbanisme dél
 Diplôme d'études supérieures spécialisées en administration et contentieux des services publics locaux délivré par la faculté de droit et de sciences économiques de l'université de Caen ;
 
 Diplôme d'études approfondies de sociologie de l'administration délivré par l'institut d'études politiques de Grenoble.
+
+Licence en droit ou en sciences économiques ;
+
+Maîtrise en droit ou en sciences économiques ;
+
+Diplôme de troisième cycle d'études supérieures en gestion et administration des collectivités locales.
