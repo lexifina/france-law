@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941208974
+
+- Question : [SEQ941208974](seq941208974.md) — Utilisation des sigles en langue anglaise dans une lettre de représentation en France de la Commission européenne
+
+## Réponse
+
+*Affaires européennes, JO du 1995-02-23, page 430*
+
+Réponse. - L'honorable parlementaire a bien voulu interroger le ministre délégué aux affaires européennes sur l'utilisation de sigles anglais par certains programmes communautaires, en citant à titre d'exemple le réseau européen d'emploi. Le ministre délégué aux affaires européennes souhaiterait apporter à l'honorable parlementaire les indications suivantes : le Gouvernement français s'efforce le plus possible de donner des initiales françaises aux programmes dont il est l'initiateur : SIS (Système d'information Schengen), LIFE (Ligne d'instrument financier pour l'environnement), Retex (Régions textile), RECHAR (Régions Charbonnières)... ; lorsque cet exercice s'avère impossible, le Gouvernement français s'attache à promouvoir l'emploi de termes ayant une signification en français. EUREKA, ESPRIT, SOCRATES... ; enfin, en cas d'échec, il s'efforce de trouver avec ses partenaires un mot aisé à prononcer en français, même s'il doit correspondre à un sigle anglais. C'est le cas cité par l'honorable parlementaire, mais qui s'avère relativement rare. Dans cette hypothèse, sauf cas exceptionnel (ECU, UCE), la France ne souhaite pas favoriser les " doubles " dénominations française et anglaise, qui sont souvent source de confusion. Enfin, le ministre délégué aux affaires européennes souhaiterait attirer l'attention de l'honorable parlementaire sur l'importance du nombre de mots ou de sigle français chargés de désigner les programmes européens déjà entrés en vigueur : Jeunesse pour l'Europe, IRIS, KALEIDOSCOPE, MDIA, PHAR, FORCE.
