@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970700858
+
+- Question : [SEQ970700858](seq970700858.md) — Droits des accidentés du travail
+
+## Réponse
+
+*Emploi, JO du 1997-09-25, page 2551*
+
+Réponse. - L'article R. 441-10 du code de la sécurité sociale autorise la caisse primaire de l'assurance maladie à contester le caractère professionnel d'un accident de travail dans un délai de 20 jours pour une déclaration d'accident du travail et de 60 jours pour une déclaration de maladie professionnelle. Cette mesure donne aux caisses un délai suffisant pour instruire préalablement les dossiers. La procédure mise en place est contradictoire afin de garantir le droit à l'information de la victime et de l'employeur, l'instruction donnant lieu à la constitution par la caisse d'un dossier dont les différentes pièces sont énumérées à l'article R. 441-13 du même code. Le deuxième alinéa de l'article R. 441-13 prévoit que ce dossier " peut à leur demande être communiqué à l'assuré, ses ayants droit et à l'employeur ". Ces pièces sont accessibles aux parties jusqu'à la décision de la caisse ; chaque partie peut ainsi se faire entendre auprès de la caisse et réagir aux observations de l'autre partie. Le respect de ce droit à l'information tout au long de la procédure permet de limiter ultérieurement les recours contentieux. A cet effet, lorsque le dossier est entièrement constitué et qu'aucun élément nouveau ne paraît plus devoir intervenir, et avant de prendre sa décision, la caisse informe les intéressés qu'ils ont encore la possibilité de le consulter pendant une délai de deux semaines. Cependant, pour éviter les contestations préalables systématiques, des instructions adressées régulièrement rappellent aux caisses primaires de l'assurance maladie qu'une telle procédure doit conserver son caractère exceptionnel.
