@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880700774
+
+- Question : [SEQ880700774](seq880700774.md) — Montant des subventions accordées aux communes minières pour la réhabilitation des équipements
+
+## Réponse
+
+*Industrie, JO du 1988-12-29, page 1489*
+
+Réponse. - Les difficultés des communes minières sont suivies avec une grande attention par le Gouvernement. Aussi, l'Etat est déterminé à aider les bassins miniers à maîtriser les problèmes de l'après-charbon en poursuivant l'action d'industrialisation et en assurant le maintien des prestations sociales à tous les ayants droit. Conscients des difficultés financières de beaucoup de communes, les pouvoirs publics veilleront également à ce que les communes minières ne subissent pas un contrecoup trop brutal du fait de la fermeture de l'exploitation minière qui réduit l'assiette de la redevance des mines. En ce qui concerne les subventions accordées aux communes dans le cadre du Girzom, il faut rappeler que pour l'année 1989, le projet de loi de finances prévoit une dotation de 150 MF contre 100 MF l'année précédente. Alors que la rigueur des choix budgétaires est particulièrement stricte, ce chiffre démontre l'intérêt que continue à porter le Gouvernement à la politique de rénovation des zones minières. Sur ces chiffres globaux, 100 MF ont été attribués en 1988 au Nord - Pas-de-Calais avec un rattrapage de 10 MF pour l'année 1987. Le projet de budget pour 1989 permet le maintien du volume de ces crédits. Au-delà de cette question, comme le sait l'honorable parlementaire, le Gouvernement vient de confier à M. Philippe Essig une mission de réflexion sur l'avenir du patrimoine immobilier des Charbonnages de France, qui doit notamment examiner les mesures concrètes permettant de mieux associer les collectivités locales à la gestion et à l'aménagement de ce patrimoine. Le problème de l'intervention du Girzom sera en particulier revu dans ce cadre.
