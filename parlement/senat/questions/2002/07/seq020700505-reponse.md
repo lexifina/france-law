@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700505
+
+- Question : [SEQ020700505](seq020700505.md) — Statut des techniciens des laboratoires
+
+## Réponse
+
+*Santé, JO du 2002-08-29, page 1907*
+
+Aux termes de l'article 21 du décret n° 65-773 du 9 septembre 1965 relatif au régime de retraite des fonctionnaires affiliés à la Caisse nationale de retraite des agents des collectivités locales, les fonctionnaires qui ont accompli 15 ans de services actifs peuvent partir à la retraite dès l'âge de 55 ans. Pour la fonction publique hospitalière, c'est un arrêté interministériel du 12 novembre 1969 qui classe les emplois en catégorie active. Ce texte est d'application limitative et ne peut être étendu à d'autres professions par analogie ou assimilation. Il s'agit là d'un avantage spécifique des régimes de retraite des agents du secteur public dont ne bénéficient pas les salariés du secteur privé qui exercent des professions identiques. Les fonctionnaires hospitaliers dont l'emploi n'est pas classé en catégorie active ont d'autres avantages en matière de réduction ou de cessation anticipée d'activité. En effet, ceux-ci peuvent bénéficier, s'ils ont accompli 25 ans de service, d'une cessation progressive d'activité qui permet de travailler à mi-temps à partir de l'âge de 55 ans tout en percevant l'équivalent de leur rémunération à hauteur de 80 %. Ils peuvent également bénéficier d'un congé de fin d'activité rémunéré à 75 % de leur traitement de base, sans condition d'âge, sous réserve d'avoir cotisé 40 ans en qualité de fonctionnaire ou 172 trimestres tous régimes confondus avec 15 ans de services civils ou militaires. Conformément à l'article 91 de la loi n° 2002-303 du 4 mars 2002, le Gouvernement présentera prochainement un rapport au Parlement sur le problème du classement en catégorie active des emplois de techniciens de laboratoire et de conducteurs ambulanciers.
