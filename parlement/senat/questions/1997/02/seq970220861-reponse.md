@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970220861
+
+- Question : [SEQ970220861](seq970220861.md) — Bilan de l'action de l'office du développement de l'économie agricole des départements d'outre-mer
+
+## Réponse
+
+*Outre-mer, JO du 1997-05-02, page 1387*
+
+Réponse. - En 1996, l'activité de l'ODEADOM a, tout d'abord, été consacrée à la gestion de l'OCM banane, en tant qu'organisme payeur des aides compensatoires aux producteurs et pour la délivrance des certificats d'importation aux opérateurs. Dans le domaine communautaire l'office s'est attaché à accélérer la mise en place de différentes aides prévues dans le POSEIDOM agricole. Par ailleurs, l'ODEADOM a contribué, par l'attribution de crédits nationaux, au développement et à l'organisation des filières de diversification : élevage, fruits et légumes, produits de l'horticulture. Depuis son arrivée, le nouveau directeur s'est attaché en particulier à améliorer les procédures de versement des aides et à accroître leur efficacité, tout en accélérant les délais de règlement. En 1997, au titre de ses nouvelles compétences, l'office assurera directement la gestion des aides du POSEIDOM agricole dans les secteurs des fruits et légumes, de l'horticulture, des plantes aromatiques et à parfum mais aussi en faveur des interprofessions de la Réunion et de la Martinique dans le secteur de l'élevage. L'ODEADOM devra également gérer l'aide aux conserves d'ananas. L'office sera aussi le cadre pour des réflexions associant administrations et professionnels sur l'avenir des filières agricoles dans les régions d'outre-mer, à l'exemple du groupe de travail qui sera prochainement mis en place sur le thème de l'OCM sucre. Pour atteindre les objectifs qui lui ont été assignés, le directeur de l'office est en train de procéder à une rationalisation des moyens dont il dispose.
