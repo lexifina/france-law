@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021103907
+
+- Question : [SEQ021103907](seq021103907.md) — Extension de l'assiette du " point vert " aux déchets d'emballages industriels et commerciaux
+
+## Réponse
+
+*Intérieur, JO du 2003-01-16, page 196*
+
+Les propositions de l'Association des maires de France concernant la gestion des déchets présentées lors des assises d'Agen font l'objet d'un examen attentif. Il convient toutefois de prendre en considération le travail de réflexion qui s'accomplit dans le cadre d'autres instances comme le Conseil national des déchets, qui constitue une structure permanente de discussion, ou le Conseil national de l'évaluation, qui a entrepris l'élaboration d'un rapport d'évaluation de la politique du service public d'élimination des déchets ménagers destiné à être publié dans les prochains mois. Il importe naturellement de ne pas anticiper sur les conclusions qui émergeront de ces structures et qui constitueront, avec les contributions des partenaires intéressés par ce débat, la base des travaux qui orienteront la politique des déchets à mener dans les années à venir.
