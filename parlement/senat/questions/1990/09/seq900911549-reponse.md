@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900911549
+
+- Question : [SEQ900911549](seq900911549.md) — Installation en agriculture en Bretagne
+
+## Réponse
+
+*Agriculture, JO du 1991-01-31, page 192*
+
+Réponse. - Les données fournies illustrent la situation délicate de l'équilibre démographique de l'agriculture. Dans ce contexte, la transmission des exploitations agricoles constitue un enjeu essentiel du maintien d'un tissu rural diversifié et d'une agriculture compétitive. Sur ce sujet difficile, le groupe de travail sur la transmission des exploitations avait élaboré un certain nombre de propositions qui tendent autant à faciliter la transmission qu'à assurer une meilleure progressivité de celle-ci. Certaines suggestions ont déjà été insérées dans la loi n° 90-85 du 23 janvier 1990 complémentaire à la loi n° 88-1202 du 30 décembre 1988 relative à l'adaptation de l'exploitation agricole à son environnement économique. Pour l'essentiel, l'objectif est d'encourager le recours aux formes sociétaires ou à des modalités spécifiques, tel qu'un plan de transmission dont les modalités seront fixées par un décret actuellement en préparation. S'agissant du domaine fiscal,essentiel en l'occurrence, une mesure destinée à permettre le report de l'imposition sur les plus-values latentes réalisées par un contribuable qui cesse son activité professionnelle figure dans la loi de finances pour 1990. Les autres mesures proposées par le rapport font actuellement l'objet d'un examen avec les départements ministériels concernés. Il convient enfin de signaler que la transmission des exploitations repose en premier chef sur le comportement des intéressés. Ceux-ci doivent prendre toutes dispositions pour assurer une transmission aussi simple que possible, notamment par une mise en oeuvre antérieure à la cessation d'activité.
