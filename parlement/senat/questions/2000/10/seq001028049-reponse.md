@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001028049
+
+- Question : [SEQ001028049](seq001028049.md) — Suppression de la vignette automobile pour les professionnels et les collectivités locales
+
+## Réponse
+
+*Économie, JO du 2001-04-05, page 1170*
+
+Réponse. - L'article 6 de la loi de finances pour 2001 nº 2000-1352 du 30 décembre 2000 exonère de taxe différentielle sur les véhicules à moteur les voitures particulières et les véhicules dits utilitaires d'un poids total autorisé en charge n'excédant pas deux tonnes, dont les personnes physiques et certaines personnes morales à but non lucratif sont propriétaires ou locataires en vertu d'un contrat de crédit-bail ou de location de deux ans ou plus. Il résulte de la décision du Conseil constitutionnel nº 2000-442 DC du 28 décembre 2000 qu'au regard de l'objectif d'allégement de la fiscalité des particuliers ainsi poursuivi par le législateur il lui était loisible, sans méconnaître le principe d'égalité, de ne faire bénéficier de l'exonération que les personnes physiques, y compris les artisans et commerçants exerçant leur activité en nom propre. Compte tenu de cet objectif, il n'est envisagé d'étendre le bénéfice de l'exonération aux véhicules des sociétés, pour lesquelles la taxe différentielle sur les véhicules à moteur demeure une charge déductible du bénéfice imposable, et dont le coût est, tout comme celui des véhicules eux-mêmes, répercuté sur les prix facturés aux clients. Par ailleurs, en ce qui concerne les collectivités territoriales, un effort de solidarité justifie qu'elles continuent d'acquitter la taxe différentielle sur leurs véhicules à moteur soit à leur propre profit, s'agissant des départements, soit au profit de ces derniers, pour les communes et les régions, lesquelles perçoivent, elles aussi, des impôts acquittés par les départements.
