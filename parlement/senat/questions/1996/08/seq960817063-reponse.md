@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960817063
+
+- Question : [SEQ960817063](seq960817063.md) — Nuisances sonores occasionnées lors des vols d'entraînement des avions-écoles basés à Salon-de-Provence
+
+## Réponse
+
+*Défense, JO du 1996-08-29, page 2214*
+
+Réponse. - La division des vols de la base aérienne de Salon-de-Provence assure la formation initiale des officiers pilotes de l'Ecole de l'air, de l'école militaire et de l'aéronaval. Pour pallier le remplacement du CM 170 Fouga-Magister et tenir compte de l'évolution des besoins de formation des élèves pilotes, l'état-major de l'armée de l'air s'est doté d'avions de type Tucano. Toutefois, le nombre d'appareils initialement prévu n'ayant pu être atteint, l'armée de l'air a été contrainte d'effectuer un nombre réduit de vols école au début du mois de juillet pour parfaire la formation de ses pilotes. C'est aussi, pendant cette période où leur travail est allégé que les cadres de l'école poursuivent leur entraînement. L'armée de l'air s'efforce néanmoins de réduire les nuisances liées à ces différents vols et des progrès sensibles ont déjà été obtenus. Ainsi, les zones d'évolutions des avions ont été mieux définies et limitées. En outre, aucun vol de nuit n'a été autorisé en juillet. Il convient de souligner que l'activité globale de l'école de Salon-de-Provence a été réduite de 25 p. 100 par rapport à celle autrefois pratiquée sur cette base. Le ministère de la défense est soucieux de trouver, en concertation avec les élus, les associations et la population locale, une meilleure gestion de l'espace et du calendrier des activités de la base de Salon-de-Provence. Dans ce cadre, la réunion du 19 juillet dernier, présidée par le général commandant la région aérienne Méditerranée, témoigne de l'engagement du ministre de la défense à poursuivre un dialogue permanent et constructif.
