@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030306229
+
+- Question : [SEQ030306229](seq030306229.md) — Médaille commémorative AFN
+
+## Réponse
+
+*Anciens combattants, JO du 2003-08-21, page 2606*
+
+Malgré les recherches effectuées, il n'a pas été possible d'identifier la " médaille commémorative AFN " à laquelle fait référence l'honorable parlementaire. Il existe cependant la médaille commémorative des opérations de sécurité et de maintien de l'ordre, créée par le décret n° 58-24 du 11 janvier 1958. Elle est accordée par le ministre de la défense aux militaires des armées de terre, de mer et de l'air qui ont participé à ces opérations pendant quatre-vingt-dix jours au moins, dans une formation régulière ou supplétive. Le délai de quatre-vingt-dix jours n'est pas exigé des personnels ayant reçu la croix de la valeur militaire ou qui ont été blessés à l'occasion de ces opérations. Certains personnels peuvent également prétendre à cette médaille (certains équipages militaires, les personnels d'évacuation sanitaire, les personnels d'observation...), ainsi que certains personnels non militaires tels que les personnels d'autorité et de police. Cependant, les critères d'attribution de cette décoration n'incluent pas les dates butoirs de 1956 pour le Maroc et la Tunisie, pour lesquels la date limite est fixée au 5 mai 1958. En outre, si l'harmonisation relative à la date au-delà de laquelle cette décoration n'est plus attribuée, souhaitée par l'honorable parlementaire, était réalisée au 2 juillet 1962, les anciens combattants d'Algérie seraient lésés, car l'attribution de l'agrafe " Algérie " est possible, pour eux, jusqu'au 2 juillet 1964. Il ne peut donc être envisagé, s'il s'agit effectivement de la médaille commémorative des opérations de sécurité et de maintien de l'ordre, de modifier la réglementation établie plus de quarante ans après les faits : les médailles commémoratives sont en effet créées, soit pendant le conflit, soit à une date proche de son achèvement.
