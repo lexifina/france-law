@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920119417
+
+- Question : [SEQ920119417](seq920119417.md) — Information des consommateurs sur la fabrication du pain
+
+## Réponse
+
+*Artisanat et commerce, JO du 1992-03-19, page 668*
+
+Réponse. - Dans un souci d'information des consommateurs, des dispositions concernant la notion de " pain traditionnel " ont été prises. Un projet de décret sur le pain a en effet été élaboré ; il a fait l'objet d'une concertation approfondie avec tous les partenaires de la filière, dont les représentants de la profession des artisans boulangers. Des dispositions concernant la notion de " pain traditionnel " ont été prises dans un souci d'information des consommateurs. Compte tenu de la place du pain dans l'alimentation des Français, il est apparu nécessaire de leur permettre d'identifier le pain fabriqué selon les usages traditionnels de leur pays, notamment de souligner la particularité de l'emploi très restrictif d'additifs. La notion de " pain traditionnel maison " a été introduite dans le but de permettre aux entreprises qui fabriquent elles-mêmes leur pain, de se démarquer des terminaux de cuisson et de celles qui utilisent des prémélanges prêts à l'emploi. Le projet de décret a été accepté par toutes les parties intéressées. Il s'agit d'un texte de base qui doit pouvoir faire l'objet d'un accord au niveau communautaire et qui, de ce fait, ne peut rendre compte de tous les aspects qualitatifs de la fabrication du pain. Ce projet n'empêche pas les artisans boulangers de prendre des initiatives pour promouvoir, dans le cadre de démarches volontaires, la qualité de leurs produits et des procédés spécifiques qu'ils mettent en oeuvre. Sur ce dernier point, le ministère de l'artisanat, du commerce et de la consommation travaille, en étroite relation avec les organisations professionnelles, à la mise en place de procédures appropriées à la valorisation de la qualité artisanale, élément essentiel pour l'avenir de ces professions.
