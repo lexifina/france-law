@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890906447
+
+- Question : [SEQ890906447](seq890906447.md) — Scolarisation des enfants de moins de trois ans dans le Rhône
+
+## Réponse
+
+*Éducation, JO du 1989-11-30, page 1995*
+
+Réponse. - En ce qui concerne la scolarisation des enfants de deux ans, le taux qui est actuellement de 57,80 p. 100 (contre 35,96 p. 100 pour la France métropolitaine) place le Rhône au premier rang des départements urbains de taille comparable. Il est certes souhaitable que ce niveau élevé soit maintenu dans la mesure du possible. Toutefois, cet objectif ne doit pas dissimuler d'autres priorités telles que la création de nouvelles classes élémentaires dans les secteurs en expansion, la poursuite de l'effort déjà commencé pour améliorer les conditions de travail dans les écoles primaires situées en zones d'éducation prioritaire ou présentant des difficultés d'environnement. C'est dans ce but que l'inspecteur d'académie, directeur des services départementaux de l'éducation du Rhône, a été amené à fixer un taux de pondération limitant à 16 p. 100 de l'effectif total d'une école le nombre d'enfants de deux ans à inscrire. Ce taux ne signifie pas qu'une école maternelle ne pourra accueillir plus d'enfants de deux ans que ne l'indique l'application de la pondération. Tout dépendra de la structure de l'école. Il faut également remarquer que les prévisions faites par des directrices d'écoles maternelles au sujet des enfants de deux ans sont très incertaines puisque seuls les enfants ayant deux ans révolus à la rentrée de septembre peuvent être inscrits et que la demande d'inscription de ces enfants est très inférieure à celle des enfants de trois à cinq ans. C'est pourquoi, au moment de la rentrée, la situation de chaque école est, comme chaque année, réexaminée et, en fonction des véritables besoins et des moyens existants, encore éventuellement disponibles, des ajustements sont effectués.
