@@ -1,39 +1,49 @@
 # Article 1 bis
 
-Le conseil d'administration du Syndicat des transports parisiens comprend :
+Le conseil d'administration du Syndicat des transports d'Ile-de-France comprend :
 
 a) A titre de représentants de l'Etat :
 
 - le préfet de la région d'Ile-de-France, préfet de Paris ;
 
-- trois représentants du ministre chargé de l'économie, des finances et du budget ;
+- quatre représentants du ministre chargé de l'économie, des finances et du budget ;
 
-- deux représentants du ministre chargé de l'intérieur ;
+- trois représentants du ministre chargé de l'intérieur ;
 
 - deux représentants du ministre chargé de l'équipement et du logement ;
 
-- deux représentants du ministre chargé des transports ;
+- trois représentants du ministre chargé des transports ;
 
-- le préfet de police ;
+- un représentant du ministre chargé de l'aménagement du territoire ;
 
-- un chef de service de la préfecture de Paris désigné par le préfet de la région d'Ile-de-France, préfet de Paris ;
+- un représentant du ministre chargé de l'environnement ;
+
+- le préfet de police ou un chef de service de la préfecture de police désigné par celui-ci ;
+
+- un chef de service de la préfecture de Paris désigné par le préfet de la région d'Ile-de-France, préfet de Paris.
 
 b) A titre de représentants des collectivités territoriales :
 
-- cinq représentants, choisis parmi ses membres par le conseil de Paris ;
+- cinq représentants choisis parmi ses membres par le conseil régional d'Ile-de-France ;
 
-- sept représentants à raison d'un par département choisis respectivement parmi leurs membres par les conseils généraux des départements de l'Essonne, des Hauts-de-Seine, de Seine-et-Marne, de la Seine-Saint-Denis, du Val-de-Marne, du Val-d'Oise et des Yvelines.
+- cinq représentants choisis parmi ses membres par le conseil de Paris ;
 
-Les représentants des Ministres sont nommés pour six ans, les représentants des collectivités locales, pour la durée de leur mandat.
+- sept représentants à raison de un par département choisis respectivement parmi leurs membres par les conseils généraux des départements de l'Essonne, des Hauts-de-Seine, de Seine-et-Marne, de la Seine-Saint-Denis, du Val-de-Marne, du Val-d'Oise et des Yvelines.
 
-Le Préfet de la Région Parisienne préside le Conseil d'Administration.
+Les représentants de l'Etat sont nommés pour six ans, les représentants des collectivités territoriales, pour la durée de leur mandat.
 
-Un Vice-Président Délégué est nommé par décret parmi les représentants du Ministre des Transports.
+Le préfet de la région d'Ile-de-France préside le conseil d'administration.
 
-Les décisions sont prises à la majorité des voix. En cas de partage des voix, la voix du Président ou, en son absence, celle du Vice-Président Délégué est prépondérante.
+Cinq vice-présidents sont désignés parmi les membres du conseil d'administration :
 
-Le Directeur des Transports Terrestres au Ministère des Transports ou son représentant siège au Conseil d'Administration du Syndicat en qualité de Commissaire du Gouvernement.
+- un vice-président nommé par arrêté du ministre chargé des transports parmi ses représentants ;
 
-Le Chef de la Mission de Contrôle Financier des Transports assiste aux séances du Conseil d'Administration du Syndicat ou peut s'y faire représenter.
+- deux vice-présidents élus par le conseil d'administration parmi les représentants de la région ;
 
-Un décret détermine les modalités de prise en charge des frais de fonctionnement du Syndicat par les transporteurs en commun des voyageurs de la Région Parisienne.
+- deux vice-présidents élus par le conseil d'administration parmi les représentants des conseils généraux et du conseil de Paris.
+
+Les décisions sont prises à la majorité des voix. En cas de partage égal des voix, la voix du président de séance est prépondérante.
+
+Le directeur des transports terrestres au ministère des transports ou son représentant siège au conseil d'administration du syndicat en qualité de commissaire du Gouvernement.
+
+Le chef de la mission de contrôle financier des transports assiste aux séances du conseil d'administration ou peut s'y faire représenter.
