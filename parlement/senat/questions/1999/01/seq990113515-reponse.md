@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990113515
+
+- Question : [SEQ990113515](seq990113515.md) — Conditions de réalisation des opérations de déneigement
+
+## Réponse
+
+*Équipement, JO du 2000-03-16, page 972*
+
+Réponse. - La réglementation concernant les engins utilisés pour la viabilité hivernale a été modifiée par un décret en date du 18 novembre 1996 et par plusieurs arrêtés subséquents. Une circulaire en date du 28 octobre 1997 précise les conditions de mise en uvre de cette nouvelle réglementation. Ces textes ont permis de donner une existence réglementaire aux engins utilisés pour le service hivernal, qui, pour certains d'entre eux, circulaient auparavant dans la plus totale illégalité. En effet, lors des interventions, souvent dans des conditions d'adhérence et de visibilité réduites, les engins utilisés pour le salage ou le déneigement effectuent fréquemment des man uvres et occupent, sur la chaussée, une position peu conforme avec les dispositions générales du code de la route. En outre, leurs poids et dimensions dérogent aux règles de ce même code, soit temporairement, pour le poids, soit de façon permanente, pour les dimensions des outils utilisés. Pour des raisons évidentes de sécurité et de responsabilité, les matériels utilisés, notamment les tracteurs agricoles spécialement équipés, doivent être réceptionnés par le service des mines. Néanmoins, pour permettre aux agriculteurs de répondre à cette obligation dans de bonnes conditions, la date limite de mise en conformité initialement fixée au 1er janvier 2000 a été reportée au 1er octobre 2000. Par ailleurs, une circulaire commune des ministères de l'agriculture et de l'équipement, en date du 3 novembre 1999, précise les conditions de participation des agriculteurs à ces opérations de déneigement. En particulier, il est spécifié dans ce texte que la dispense de permis de conduire prévue à l'article R. 167-2 du code de la route est applicable à ce type d'activité.
