@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981112325
+
+- Question : [SEQ981112325](seq981112325.md) — Reconnaissance des campagnes d'occupation
+
+## Réponse
+
+*Défense, JO du 1999-02-04, page 372*
+
+Réponse. - Dans le cadre de l'assurance vieillesse du régime général de sécurité sociale, certaines périodes d'interruption de travail sont assimilées à des périodes de cotisations, tant pour l'ouverture des droits vieillesse que pour le calcul des pensions de retraite. Ainsi, les périodes de guerre peuvent, sous certaines conditions, être assimilées à des trimestres d'assurance. Conformément à l'article L. 161-19 du code de la sécurité sociale, les périodes de mobilisation ou de captivité sont assimilées à des périodes d'assurance et prises en compte pour l'ouverture du droit et la liquidation de la pension de vieillesse, sans condition d'affiliation préalable, sous réserve que les intéressés aient ensuite exercé une activité au titre de laquelle des cotisations ont été versées au régime général de sécurité sociale. Concernant la Seconde Guerre mondiale, la période à retenir est comprise entre les 1er septembre 1939 et le 1er juin 1946. Les périodes d'occupation du territoire allemand accomplies au-delà de cette dernière date ne peuvent bénéficier des dispositions précitées. Une remise en cause de ce dispositif n'est pas envisagée compte tenu notamment de la situation fnancière de la branche vieillesse du régime général. Toutefois, les militaires de carrière ou servant sous contrat, quittant le service sans droit à solde de réforme ou à pension de retraite de leur régime spécial, peuvent prétendre à une affiliation rétroactive leur permettant de bénéficier, outre les périodes de guerre, d'une prise en compte de leurs services militaires effectués en Allemagne à compter du 1er juillet 1947 par l'assurance vieillesse du régime général.
