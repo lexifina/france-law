@@ -758,7 +758,7 @@ Cour d'appel de Basse-Terre
 
 DEPARTEMENTS : Guadeloupe.
 
-Siège : Basse-Terre.
+Siège : Pointe-à-Pitre.
 
 Le département.
 
