@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870405687
+
+- Question : [SEQ870405687](seq870405687.md) — Procédure d'attribution des prêts aux rapatriés
+
+## Réponse
+
+*Rapatriés, JO du 1987-06-04, page 892*
+
+Réponse. -L'article 44 de la loi de finances rectificative pour 1986 prévoit un dispositif d'effacement des prêts accordés aux rapatriés avant le 31 mai 1981 par des établissements de crédit ayant passé convention avec l'Etat. Le paragraphe II dudit article indique qu'un décret en Conseil d'Etat détermine, en tant que de besoin, les modalités pratiques d'application. Ce décret, qui sera publié dans les plus brefs délais, précisera l'autorité à qui reviendra la charge d'apprécier la nature des prêts en cause. Les catégories de prêts concernés par la remise sont limitativement énumérées au paragraphe I de l'article 44. Il s'agit notamment des prêts de réinstallation mentionnés à l'article 46 de la loi n° 70-632 du 15 juillet 1970. Ces prêts sont consentis par l'Etat en application de la loi n° 61-1439 du 26 décembre 1961 ou en application des mesures prises en vue de la réinstallation des Français rapatriés avant l'entrée en vigueur de cette loi. Dans ce dernier cas, l'attribution des prêts n'était pas subordonnée à une inscription sur des listes professionnelles, suivant la procédure fixée par l'arrêté du 10 mars 1962 modifié, relatif aux modalités du reclassement professionnel des rapatriés non salariés. Ces prêts sont cependant concernés par le dispositif de remise. Si le service juridique et de l'agence judiciaire du Trésor exige donc que l'intéressé ait rempli certaines formalités lors de sa réinstallation, cette exigence ne saurait porter sur les conditions d'obtention du prêt. Seule la nature de celui-ci pourrait s'avérer dirimante. Le secrétariat d'Etat aux rapatriés étudiera cependant avec attention toutes les demandes que l'honorable parlementaire jugera bon de lui soumettre.
