@@ -1,0 +1,3 @@
+# Article 5 : Compte individuel
+
+Un compte individuel est institué pour chaque salarié. Il est mis à jour mensuellement et en cumul depuis le début de l'année civile, et joint au bulletin de paye. Il comprend notamment l'horaire indicatif, le nombre d'heures de travail effectif et les informations relatives aux absences...
