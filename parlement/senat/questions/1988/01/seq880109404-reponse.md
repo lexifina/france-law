@@ -1,0 +1,11 @@
+# Réponse à la question SEQ880109404
+
+- Question : [SEQ880109404](seq880109404.md) — Retraite des fonctionnaires élus des collectivités locales ayant opté pour un travail à mi-temps
+
+## Réponse
+
+*Fonction publique, JO du 1988-03-24, page 410*
+
+Réponse. -L'ordonnance n° 82-296 du 31 mars 1982 a, dans la mesure compatible avec les nécessités de fonctionnement du service, ouvert la possibilité de travailler à temps partiel à tous les fonctionnaires suivant un régime identique quel que soit le motif pour lequel les intéressés sont amenés à solliciter le bénéfice de cette modalité particulière d'exercice des fonctions. C'est ainsi qu'aux termes de l'article L. 11 du code des pensions civiles de retraite énonçant la liste des services pris en compte dans la liquidation de la pension, c'est-à-dire dans le calcul de son montant, la période pendant laquelle des fonctionnaires de l'Etat ont été autorisés à accomplir un service à temps partiel est comptée pour la fraction de sa durée égale au rapport entre la durée hebdomadaire de service effectuée et les obligations hebdomadaires de service réglementairement fixées pour les agents de même grade exerçant à temps plein les mêmes fonctions. En revanche, aux
+
+termes de l'article L. 5 du même code, la période pendant laquelle les intéressés ont été autorisés à accomplir un service à temps partiel est, pour la constitution du droit à pension, comptée pour la totalité de sa durée. En raison de l'unité du régime de travail à temps partiel applicable aux fonctionnaires, il ne paraît pas possible de déroger à certaines de ses dispositions, notamment en faveur de ceux d'entre eux qui ont sollicité une autorisation de travailler à temps partiel en vue d'assurer une fonction élective dans les collectivités territoriales. Il convient d'ailleurs de rappeler que les maires et adjoints, les maires délégués dans les communes associées, les présidents et vice-présidents des communautés urbaines sont affiliés au régime de retraite complémentaire des agents non titulaires de l'Etat en application du code des communes. Les cotisations sont assises sur les indemnités de fonctions effectivement perçues. Les intéressés bénéficient à ce titre d'une pension cumulable sans limitation avec toutes autres pensions ou retraites.
