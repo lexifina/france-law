@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880309928
+
+- Question : [SEQ880309928](seq880309928.md) — Suite d'une étude sur les perspectives de développement industriel en Amérique latine
+
+## Réponse
+
+*Fonction publique, JO du 1988-05-10, page 677*
+
+Réponse. -Les objectifs de l'étude réalisée en 1985 pour le compte du commissariat général du Plan par le centre européen de formation des statisticiens-économistes des pays en voie de développement étaient de retracer le comportement récent des économies brésilienne et argentine et d'esquisser des scénarios d'évolution. Les investigations étaient de deux types : macro-économique d'une part, évolution des principaux agrégats relatifs à l'offre et à la demande globale, sectorielle d'autre part : analyse des secteurs d'activité économique en mettant l'accent sur les activités manufacturières. L'étude compare ainsi deux économies qui ont un certain nombre de problèmes communs (endettement, ralentissement de la croissance) et confronte leurs résultats. L'analyse macro-économique met en évidence la forte divergence du niveau du ratio salaire/productivité. L'analyse sectorielle montre la montée en puissance du Brésil dans les industries manufacturières (politique d'import-substitution et encouragement des exportations) en même temps que la recherche d'une infrastructure plus cohérente. En revanche, pour l'Argentine, elle insiste sur la désindustrialisation provoquée par les à-coups de la politique économique. Les résultats de cette étude ont été intégrés dans les travaux du centre d'études prospectives et d'informations internationales (C.E.P.I.I., organisme rattaché au commissariat général du Plan) et ont fait l'objet de réunions de présentation aux industriels et administrations. Le rapport de cette étude peut être consulté au commissariat général du Plan.
