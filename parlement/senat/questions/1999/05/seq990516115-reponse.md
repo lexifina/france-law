@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990516115
+
+- Question : [SEQ990516115](seq990516115.md) — Traitement des dossiers de surendettement par la Banque de France
+
+## Réponse
+
+*Économie, JO du 1999-07-15, page 2417*
+
+Réponse. - Au vu des statistiques disponibles les plus récentes, 48 000 dossiers ont été déposés devant les commissions de surendettement des particuliers entre le 1er janvier et le 30 avril 1999, soit une hausse de 17 % par rapport à la même période de 1998. Cette augmentation s'inscrit toutefois en léger recul par rapport aux progressions enregistrées au cours des trois exercices précédents. Il convient par ailleurs de noter que la publicité qui a entouré l'entrée en vigueur, en février dernier, de la nouvelle procédure instituée par la loi d'orientation du 29 juillet 1998 relative à la lutte contre les exclusions doit avoir sa part dans l'accroissement du nombre de dossiers déposés en ce début d'année 1999. En effet, un nombre important de débiteurs ont été incités à déposer - ou redéposer - un dossier devant une commission de surendettement en vue de bénéficier, le cas échéant, des nouvelles mesures, en particulier celles relatives aux cas d'insolvabilité durable. Il reste que les nouveaux moyens juridiques donnés par le législateur aux commissions doivent leur permettre de traiter plus efficacement un plus grand nombre de dossiers qui, auparavant, revenaient de façon récurrente devant elles, faute de solutions adaptées (dossiers ne présentant aucune capacité de remboursement notamment). Les commissions devraient donc être en mesure de résorber dans de bonnes conditions, grâce à l'expérience et au savoir-faire des personnels de la Banque de France travaillant dans leurs secrétariats, le surcroît d'activité observable en ce début d'année. La Banque de France poursuit une réflexion sur la possibilité de recourir à des " emplois-jeunes ", tels que les a créés la loi du 16 octobre 1997, afin de gérer cet afflux temporaire de dossiers.
