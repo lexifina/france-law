@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010533285
+
+- Question : [SEQ010533285](seq010533285.md) — Services administratifs en ligne
+
+## Réponse
+
+*Fonction publique, JO du 2001-08-02, page 2542*
+
+Le gouvernement français a mis en place, depuis janvier 1998, une stratégie d'ensemble visant à préparer l'entrée de la France dans la société d'information, qui a pris la forme du Programme d'action gouvernemental pour la société de l'information (PAGSI). L'un des chapitres du PAGSI est entièrement consacré à l'administration électronique. Un comité interministériel pour la société de l'information (CISI) se réunit régulièrement pour piloter ces travaux, qui sont également abordés en comité interministériel pour la réforme de l'Etat (CIRE). En juin 2001, les usagers ont à leur disposition quelque 3 600 services publics en ligne. Leur accès est facilité par le portail www.service-public.fr, qui référence l'ensemble des sites publics. Près de 1 000 formulaires sont accessibles en ligne et une quarantaine de téléservices publics nationaux sont en place. Le CIRE d'octobre 2000 a décidé du développement de nouveaux services en ligne dans le courant de l'année 2001. Lors de la présentation du programme allemand de développement de l'administration électronique, au printemps 2001, le ministre de l'intérieur Otto Schilly a d'ailleurs souligné que l'ambition du programme allemand était de rattraper les pays les plus avancés en matière d'administration, au titre desquels il citait les Etats-Unis, le Royaume-Uni et la France. Enfin, j'ai annoncé le 19 juin, à l'occasion de la réunion de la commission de modernisation du service public, la tenue à l'automne d'un comité interministériel consacré à l'administration électronique qui sera l'occasion d'une nouvelle étape dans ce domaine. Le rapport " Pour une administration électronique citoyenne ", du député Thierry Carcenac, sera le socle des décisions qui y seront prises.
