@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700429
+
+- Question : [SEQ020700429](seq020700429.md) — Nomination des inspecteurs divisionnaires à la qualité de comptables publics
+
+## Réponse
+
+*Économie, JO du 2002-10-03, page 2239*
+
+L'article 11 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique prévoit notamment que les comptables publics sont seuls chargés de la prise en charge et du recouvrement des ordres de recette qui leur sont soumis par les ordonnateurs, de la garde et de la conservation des fonds et des mouvements de comptes de disponibilité et de la tenue de la comptabilité du poste comptable qu'ils dirigent. L'article 14 de ce même décret répartit les comptables entre comptables principaux, directement justiciables devant la cour des comptes et comptables secondaires dont les opérations sont centralisées par un comptable principal. Hormis ces précisions, les textes réglementant la comptabilité publique tels que le décret de 1962 complété par l'instruction du 16 août 1966 sur l'organisation des comptables publics ne prévoient pas de grade comptable spécifique. Le responsable d'un CDI/Recette est un comptable secondaire, comme les receveurs principaux, car ses opérations sont centralisées (via le receveur divisionnaire) dans la comptabilité du trésorier-payeur général dont il relève - en principe celui du département sauf à Paris. Le décret n° 95-866 du 2 août 1995 modifié, fixant le statut des personnels de catégorie A des services déconcentrés de la direction générale des impôts, prévoit que l'inspecteur divisionnaire de classe normale exerce des fonctions d'encadrement soit en qualité de responsable de centre, soit en qualité d'adjoint au responsable de centre, soit au sein d'autres structures déterminées par arrêté ministériel. Dans ces conditions, rien ne s'oppose à ce que l'inspecteur divisionnaire soit chargé d'un centre aux missions élargies à celles de la recette.
