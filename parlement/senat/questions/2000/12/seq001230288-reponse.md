@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001230288
+
+- Question : [SEQ001230288](seq001230288.md) — Transfert aux départements de la compétence en matière d'inventaire du patrimoine
+
+## Réponse
+
+*Culture, JO du 2001-03-15, page 921*
+
+Réponse. - Le département est en effet la circonscription la plus pertinente pour une intervention éventuelle des collectivités sur l'Inventaire, à tel point que quarante d'entre eux participent déjà, à des degrés divers, à l'Inventaire général. On ne peut que se féliciter de l'intérêt que les collectivités territoriales portent à cette entreprise, et qui est la forme la plus sûre de reconnaissance. L'avenir de l'Inventaire ne peut s'envisager sans que les collectivités y soient de plus en plus associées. Cependant, l'Etat n'envisage pas de se dessaisir du contrôle scientifique et technique de l'Inventaire général qui a toujours été conçu comme un programme de dimension nationale et doit le demeurer. L'Etat doit pouvoir aussi conserver la capacité de faire seul l'Inventaire dans une région où les collectivités se désintéresseraient de cette mission. Il doit pour cela s'en réserver les moyens. L'Etat proposera aux collectivités qui le souhaiteraient une possibilité de coopération qui leur permettra d'être totalement impliquées dans la définition des études et l'exploitation de leurs résultats. Elles devront aussi, de manière plus systématique qu'aujourd'hui, bénéficier des résultats et être en mesure de les exploiter dans des conditions qui sont à préciser pour leurs besoins. Cette évolution aura l'avantage de favoriser une valorisation et une actualisation des données de l'Inventaire par des collectivités elles-mêmes et sous le contrôle scientifique et technique de l'Etat, ce qui pourrait transformer l'Inventaire général en observatoire permanent du patrimoine. C'est sur ces perspectives que seront mis en uvre les protocoles d'expérimentation culturelle que le ministère est en train de mettre en place.
