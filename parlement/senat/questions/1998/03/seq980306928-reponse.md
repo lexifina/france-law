@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980306928
+
+- Question : [SEQ980306928](seq980306928.md) — Entreprises publiques : coordination et concertation entre les ministères concernés
+
+## Réponse
+
+*Économie, JO du 1999-09-23, page 3154*
+
+Réponse. - Dans les entreprises publiques, il est sain que se développe un débat entre les dirigeants et l'actionnaire. Sur les sujets majeurs, c'est au Gouvernement qu'il incombe de définir les orientations stratégiques pour chaque entreprise. Les présidents des entreprises publiques reçoivent, lors de leur nomination, ou à l'occasion d'événements importants dans la vie de l'entreprise, une lettre de mission leur fixant des objectifs stratégiques. Dans le cas des entreprises gérant des services publics ou des missions d'intérêt général, l'Etat définit et approuve, au travers de contrats d'entreprise ou de contrats d'objectifs, les missions qui sont confiées aux dirigeants de ces entreprises. Ces instruments sont essentiels. Ils permettent non seulement de définir la stratégie de l'entreprise dans la durée mais aussi d'en apprécier la mise en uvre. Ils constituent à ce titre un cadre de référence des décisions futures de l'entreprise et de l'Etat. Ils doivent également permettre d'assurer une mise en cohérence des objectifs patrimoniaux de l'Etat actionnaire et de son action d'Etat tuteur et régulateur. Enfin, le contrôle de la politique d'investissement des grandes entreprises nationales relève du comité des investissements à caractère économique et social, qui réunit les différents ministres concernés. Dans le cadre ainsi tracé, c'est au conseil d'administration de prendre les principales décisions. La concertation préalable entre les représentants des départements ministériels avant les séances des conseils a été renforcée afin d'assurer en toutes circonstances l'unité des orientations de l'Etat.
