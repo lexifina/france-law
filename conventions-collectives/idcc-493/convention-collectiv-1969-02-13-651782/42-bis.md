@@ -1,4 +1,4 @@
-# Article 42 BIS
+# Article 42 bis
 
 Rémunération mensuelle
 
@@ -12,7 +12,7 @@ La rémunération mensuelle minimale pour l'horaire hebdomadaire de 39 heures es
 
 c) Rémunération mensuelle effective :
 
-Rémunération fixe - La rémunération mensuelle effective, pour un horaire hebdomadaire de trente-neuf heures, se calculera en multipliant par 169,65 le taux horaire effectif de l'intéressé, en y ajoutant les indemnités compensatrices de réduction d'horaire.
+Rémunération fixe - La rémunération mensuelle effective, pour un horaire hebdomadaire de trente-neuf heures, se calculera en multipliant par 169 le taux horaire effectif de l'intéressé, en y ajoutant les indemnités compensatrices de réduction d'horaire.
 
 Rémunération variable. - La rémunération mensuelle effective devra être au moins égale à la rémunération mensuelle minimale pour un horaire normal : elle résultera de la formule de rémunération telle qu'elle est appliquée dans l'établissement (exemple : rémunération au rendement, à la tâche).
 
@@ -22,7 +22,7 @@ Les rémunérations mensuelles, minimale et effective, seront adaptées à l'hor
 
 Si des heures supplémentaires sont effectuées en sus de l'horaire hebdomadaire de trente-neuf heures, elles sont rémunérées en supplément avec les majorations correspondantes, conformément aux dispositions légales en vigueur ; lorsqu'un mois civil se termine sur une semaine incomplète, les heures supplémentaires afférentes à ladite semaine sont payées le mois suivant ;
 
-Si une partie de l'horaire hebdomadaire ayant servi à la détermination de la rémunération mensuelle n'est pas effectuée, elle sera déduite de ladite rémunération ; pour un horaire hebdomadaire de 39 heures cette déduction est égale, par heure non effectuée, au quotient de la rémunération mensuelle par 169,65 (1).
+Si une partie de l'horaire hebdomadaire ayant servi à la détermination de la rémunération mensuelle n'est pas effectuée, elle sera déduite de ladite rémunération ; pour un horaire hebdomadaire de 39 heures cette déduction est égale, par heure non effectuée, au quotient de la rémunération mensuelle par 169 (1).
 
 Toutefois, ne donneront pas lieu à déduction les absences de courte durée dûment autorisées, motivées par des obligations de caractère impératif.
 
@@ -35,8 +35,6 @@ f) Paiement :
 Le paiement de la rémunération sera effectué une fois par mois.
 
 Un acompte sera versé à ceux qui en feront la demande, correspondant, pour une quinzaine, à la moitié de la rémunération mensuelle nette.
-
-(1) Cette règle ne fait pas obstacle à l'application pratique du système dit du trentième, notamment dans le cas d'absence pour maladie.
 
 NOTA :
 
