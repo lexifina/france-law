@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910917115
+
+- Question : [SEQ910917115](seq910917115.md) — Tarif EDF pratiqué pour le fonctionnement des canons à neige
+
+## Réponse
+
+*Industrie, JO du 1991-12-12, page 2798*
+
+Réponse. - Le principe de l'égalité de traitement des usagers est l'un des principes généraux de la tarification de l'Electricité de France. Chaque consommateur paye ses fournitures à leur prix de revient réel pour la collectivité, calculé selon les conditions techniques (puissance, tension, profil des consommations) dans lesquelles s'effectuent ces fournitures, sans préjudice des conditions d'utilisation (chauffage, utilisation d'un poste de soudure ou fonctionnement d'un canon à neige). Toutefois, la gamme de tarifs variés offerts aux clients leur permet de choisir le tarif optimum en fonction de leurs caractéristiques techniques (niveau de puissance...) et de leurs comportements (souplesse d'exploitation...). Ainsi, les stations de ski utilisant des canons à neige peuvent avoir accès à toutes les versions et options tarifaires proposées par Electricité de France à sa clientèle pour des niveaux de puissance équivalents. Les stations qui choisissent de faire fonctionner leurs canons à neige pendant les heures creuses bénéficient d'un prix du kWh plus avantageux qu'en heures pleines. Elles peuvent également choisir l'option effacement jour de pointe si elles le souhaitent. Enfin, en ce qui concerne la durée des contrats, la souscription de contrats à la quinzaine est également possible et peut présenter un intérêt économique pour certaines stations de ski. Les agences locales d'Electricité de France sont à la disposition des maires des stations de ski pour effectuer des simulations tarifaires en fonction de différents scénarios de fonctionnement des canons à neige et leur proposer la solution tarifaire la mieux adaptée.
