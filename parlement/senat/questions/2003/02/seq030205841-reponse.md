@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030205841
+
+- Question : [SEQ030205841](seq030205841.md) — Menaces de fermeture du centre d'observation psychopédagogique du bois de Boulogne (Paris 16e)
+
+## Réponse
+
+*Personnes handicapées, JO du 2003-09-11, page 2800*
+
+La décision de fermer le centre d'observation psychopédagogique (COPP) situé dans le bois de Boulogne et qui accueillait vingt enfants âgés de sept à douze ans a été prise par le préfet à l'issue d'une inspection approfondie de l'établissement et d'une étude des meilleures solutions à proposer à cette population d'enfants par la DDASS. Des problèmes récurrents existaient dans cet établissement accueillant des enfants présentant des troubles du comportement. Ceux-ci ne pouvaient être résolus par une réorganisation de l'établissement et un renforcement de l'équipe. Les locaux se révélaient notamment totalement inadaptés à une évolution des modalités de prise en charge de ces enfants. La DDASS, en liaison étroite avec la commission de l'éducation spéciale, a identifié des solutions pour l'ensemble de ces enfants pour la rentrée de septembre 2003 en Ile-de-France. A l'issue d'un appel à projet, trois dossiers d'établissement ont été retenus pour présentation en commission régionale de l'organisation sanitaire et médico-sociale et une mise en place, respectivement, en octobre 2003 et au cours de l'année 2004. Un petit internat de dix places et un accueil de jour de douze places vont être ouverts prioritairement pour les jeunes enfants en 2003. Ensuite, en 2004, seront créés pour les adolescents un internat de douze places, sous forme de mini-foyer, et un externat d'une capacité identique. Seront également créés, pour permettre des prises en charge précoces et plus souples, des places de SESSAD et quelques accueils en placement familial spécialisé afin d'apporter des réponses conjuguées répondant aux besoins identifiés pour chaque enfant.
