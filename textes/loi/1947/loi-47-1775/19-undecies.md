@@ -1,3 +1,3 @@
 # Article 19 undecies
 
-Par dérogation à l'alinéa 3 de l'article 16 et à l'article 19 de la présente loi, les titulaires de certificats coopératifs d'investissement disposent d'un droit sur l'actif net dans la proportion du capital qu'ils représentent.
+Tout associé peut être nommé en qualité de directeur ou de gérant, membre du conseil d'administration, du directoire ou du conseil de surveillance, sans perdre, le cas échéant, le bénéfice de son contrat de travail. Les dispositions des articles L. 225-22 et L. 225-85 du code de commerce ne sont pas applicables aux sociétés coopératives d'intérêt collectif.

@@ -1,3 +1,3 @@
 # Article 19 decies
 
-En cas de nouvelles émissions de certificats coopératifs d'investissement, les titulaires de certificats déjà émis bénéficient d'un droit de souscription préférentiel à titre irréductible qui peut être supprimé par l'assemblée spéciale prévue à l'article 19 septies.
+Les collectivités territoriales peuvent accorder des subventions aux sociétés coopératives d'intérêt collectif en vue de participer à leur développement dans des conditions fixées par décret en Conseil d'Etat.
