@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010533436
+
+- Question : [SEQ010533436](seq010533436.md) — Concurrence régulée dans les transports nationaux, régionaux et locaux
+
+## Réponse
+
+*Affaires européennes, JO du 2001-08-09, page 2598*
+
+L'honorable parlementaire a bien voulu appeler l'attention du ministre délégué chargé des affaires européennes sur la proposition de règlement relative aux obligations de service public pour le transport de voyageurs, dit règlement OSP. Il regrette la nature juridique du texte, qui n'implique pas de transposition nationale. L'objectif poursuivi par la commission est de garantir une amélioration de la qualité des transports publics de voyageurs, de mettre en place une concurrence équitable basée sur une harmonisation des procédures d'adjudication et d'indemnisation financière des opérateurs et de renforcer leur sécurité juridique. Cette proposition de règlement, connue en juillet 2000, a fait l'objet de la part des autorités françaises d'un examen très attentif qui met l'accent sur les trois points les plus importants au regard de l'organisation des transports en France, dont celui signalé par l'honorable parlementaire : l'autonomie de gestion de gestion des collectivités locales. Les deux autres étant le transport ferroviaire et la situation spécifique des réseaux intégrés dans les grandes villes. S'agissant de la nature du texte, le recours au règlement, plutôt qu'à la directive, s'imposait par continuité juridique. En effet, le texte préexistant en la matière, que la commission souhaitait actualiser par sa proposition de juillet 2000, était lui-même un règlement (1191/69). Les discussions communautaires sur la proposition de règlement OSP ont montré que les intérêts français rejoignaient ceux d'une majorité de nos partenaires. Le conseil transports du 28 juin dernier a pris note du travail effectué sur ce texte et a invité le Coreper à la poursuivre.
