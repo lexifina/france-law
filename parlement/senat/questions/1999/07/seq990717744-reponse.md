@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990717744
+
+- Question : [SEQ990717744](seq990717744.md) — Police de proximité du département des Yvelines
+
+## Réponse
+
+*Intérieur, JO du 1999-09-02, page 2946*
+
+Réponse. - L'honorable parlementaire attire l'attention de monsieur le ministre de l'intérieur sur l'organisation de l'exposition sur les trésors de la Turquie à Versailles et plus particulièrement sur le fait que des forces de police ont été mises à disposition des organisateurs alors qu'il existe de nombreuses sociétés de gardiennage. La circonscription de Versailles a en charge l'organisation de la sécurité aux abords du bâtiment abritant cette exposition. A cette occasion, douze policiers sont employés par vacations de huit heures, soit quotidiennement trente-six fonctionnaires prélevés sur l'ensemble du département, hormis le district de Mantes-la-Jolie. Ils sont employés en service d'ordre à l'extérieur de la salle d'exposition. La surveillance de l'intérieur de la salle et la gestion des alarmes sont à la charge du personnel du château de Versailles. Les effectifs de police mis à disposition à cette occasion l'ont été sur instruction de la préfecture des Yvelines, car le contexte international avec la guerre dans les Balkans et la perspective du procès du leader kurde Abdullah Ocalan donnait à cette manifestation une importance justifiant la mise en place d'un service d'ordre. La menace terroriste se révélant potentielle, une telle initiative était nécessaire pour assurer l'entière protection des personnes et des biens sur la base de l'article 23 de la loi du 21 janvier 1995 d'orientation et de programmation de la sécurité. Le dispositif ainsi mis en uvre permet aux services de police d'assurer leurs missions fondamentales de sécurité à l'occasion de cet événement exceptionnel sans obérer leur capacité à répondre à tout incident survenant dans le département.
