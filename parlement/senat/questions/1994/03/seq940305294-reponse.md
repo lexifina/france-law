@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940305294
+
+- Question : [SEQ940305294](seq940305294.md) — Taxe sur le stockage des déchets ménagers
+
+## Réponse
+
+*Environnement, JO du 1994-05-19, page 1228*
+
+Réponse. - L'honorable parlementaire a bien voulu appeler l'attention du ministre de l'environnement sur la situation budgétaire des petites communes au regard du montant de la taxe sur les déchets dont elles doivent s'acquitter. La disposition de la loi du 13 juillet 1992, relative à l'élimination des déchets ainsi qu'aux installations classées pour la protection de l'environnement a instauré, effectivement, un minimum annuel de perception de 5 000 francs par installation de stockage des déchets ménagers et assimilés. Elle s'inscrit dans une démarche d'ensemble tendant à la réduction du nombre de décharges et à l'élimination des décharges brutes ou sauvages et qui doit trouver son application concrète dans la mise en oeuvre des plans départementaux ou interdépartementaux d'élimination des déchets ménagers et assimilés. Cette solution favorisera le recours à des centres intercommunaux de stockage des déchets, permettant aux petites communes de trouver des solutions appropriées à leurs problèmes d'élimination des ordures ménagères. Il est toutefois important de donner, au niveau national, des moyens à l'ADEME, pour aider les opérations innovantes. En conséquence, une augmentation de la taxe pourrait être proposée à cet effet dans le cadre du projet de loi en renforcement des compétences que je présenterai au Parlement. Par ailleurs, afin que ne soient pas alourdies de manière excessive les charges qui pèsent dans ce domaine sur les plus petites communes, le Gouvernement envisage de proposer au Parlement une modification de la loi du 13 juillet 1992, dans le dessein d'abaisser à 2 000 francs le minimum annuel de perception de la taxe sur le stockage des déchets.
