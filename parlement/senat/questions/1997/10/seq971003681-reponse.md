@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971003681
+
+- Question : [SEQ971003681](seq971003681.md) — Centre de contrôle aérien franco-suisse à Genève
+
+## Réponse
+
+*Équipement, JO du 1998-01-22, page 239*
+
+Réponse. - En application d'un accord international, la France a délégué à la Suisse la gestion d'une partie de l'espace aérien de la région d'Annecy, à proximité de l'aéroport de Genève et de la frontière franco-suisse. La société Swisscontrol, chargée d'assurer dans cette zone les services de contrôle de la circulation aérienne, a bénéficié, au titre de ces prestations, d'un reversement de l'Etat français qui s'élève à 170 millions de francs en 1997, sans qu'il n'en résulte aucune retombée pour l'économie nationale, tant en ce qui concerne l'achat d'équipements que l'emploi des personnels. Face à l'augmentation de trafic, la France et la Suisse ont entrepris l'étude d'un nouveau dispositif aérien de nature à accroître la capacité des services de contrôle. Il en ressort que l'organisation des secteurs dans cette zone d'échange et le mode de gestion actuel sont à revoir. Deux solutions peuvent être envisagées : soit la gestion en commun par les deux pays d'un centre de contrôle qui assurerait la fourniture des services de la circulation aérienne dans une partie de l'espace, qui comprendrait l'espace aérien actuellement délégué, ainsi que l'espace supérieur de la Suisse, soit la gestion séparée des secteurs définis par l'étude en répartissant ces derniers entre les deux pays. Les deux solutions ont fait l'objet d'études techniques et économiques. En outre, les répercussions sociales et sur l'emploi sont naturellement des éléments à prendre en compte. Une décision sera prochainement prise sur ce dossier qui, en tout état de cause, devra permettre d'améliorer les services rendus aux usagers et à sauvegarder les intérêts français.
