@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860400131
+
+- Question : [SEQ860400131](seq860400131.md) — Acceptation des cartes de crédit sur l'autoroute Océane
+
+## Réponse
+
+*Économie, JO du 1986-06-26, page 888*
+
+Réponse. -Il convient, tout d'abord, de rappeler que les commerçants, notamment les détaillants sous l'enseigne des compagnies de distribution pétrolières, sont libres d'accepter ou non les cartes bancaires. En revanche, dans les nombreuses stations-service de l'autoroute A 11, affichant la vitrauphanie bleu dégradé vert C.B., les porteurs sont assurés de pouvoir régler leurs achats à l'aide de leur carte bancaire. En règle générale, le nombre de stations sur cette autoroute et la diversité des types de caisses enregistreuses ou des terminaux de paiement électronique permettent à un porteur d'échapper aux inconvénients consécutifs à la défaillance d'un seul appareil. Dans la situation évoquée par l'honorable parlementaire, il faudrait donc envisager que la carte de paiement ait pu être endommagée et que la piste magnétique n'ait pu être lue par le terminal. Pour les cartes rencontrant de telles difficultés techniques, il existe une possibilité de dépannage local prévue dans les contrats signés par les commerçants, soit par un retour à l'usage d'une imprimante manuelle classique pour établir une facturette sur laquelle est reprise l'empreinte de la carte, sous réserve du respect des dispositions contractuelles de sécurité, à savoir : la vérification de la liste d'opposition, l'appel au centre d'autorisation et l'authentification de la qualité du porteur par une signature conforme à celle déposée sur la carte. L'ensemble de ces dispositions commerciales et techniques doivent, en permanence, et quelles que soient les difficultés rencontrées, assurer aux usagers l'acceptation des cartes pour tout paiement lorsqu'ils se présentent dans les stations-service de l'autoroute A 11 affichant la vitrauphanie C.B.
