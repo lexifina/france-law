@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961219383
+
+- Question : [SEQ961219383](seq961219383.md) — Immigration clandestine et perméabilité de certaines frontières extérieures de l'Union européenne
+
+## Réponse
+
+*Intérieur, JO du 1997-01-30, page 301*
+
+Réponse. - Le droit du séjour et de l'éloignement des étrangers non-communautaires relève de la souveraineté nationale de chacun des Etats de l'Union européenne. Il appartient donc en priorité aux autorités italiennes de trouver une solution appropriée à la situation dans le cadre de l'ordre juridique italien. Il convient de rappeler que l'Italie n'applique pas encore la Convention d'application de l'accord de Schengen, signée le 19 juin 1990. Par conséquent, la frontière franco-italienne demeure une frontière extérieure de l'espace Schengen. A ce titre, les contrôles des personnes sont effectués et il n'existe pas, à ce jour, de libre franchissement de la frontière franco-italienne. Dans la perspective de l'application de la Convention de Schengen par l'Italie et en concertation avec ses homologues européens, le ministre de l'intérieur a exprimé, notamment lors du dernier sommet franco-italien, le souci de voir l'Italie prendre des mesures concrètes pour : renforcer les moyens de surveillance de ses frontières extérieures et en particulier ses frontières maritimes ; trouver les moyens juridiques de dissuader le séjour irrégulier des étrangers le territoire italien. Le contrôle de la frontière franco-italienne est actuellement assuré par la Diccilec et les douanes, dans le cadre de la complémentarité des services prévue par la circulaire du 5 novembre 1995. Le concours des forces mobiles permet de renforcer la surveillance de cette zone. Lorsque l'Italie mettra en vigueur la Convention, l'essentiel de ce dispositif sera reconverti et associera la gendarmerie nationale et la sécurité publique afin de mettre en place des contrôles aléatoires et mobiles en retrait de la frontière franco-italienne.
