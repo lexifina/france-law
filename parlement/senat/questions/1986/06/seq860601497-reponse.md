@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860601497
+
+- Question : [SEQ860601497](seq860601497.md) — Assouplissement des modalités de délivrance et d'utilisation de la carte vermeil
+
+## Réponse
+
+*Transports, JO du 1986-07-24, page 1055*
+
+Réponse. -La carte " Vermeil " est un tarif commercial créé par la S.N.C.F. dans le cadre de son autonomie de gestion pour inciter ses bénéficiaires qui, dans leur grande majorité, n'exercent plus d'activités professionnelles et sont donc plus libres de leur temps, à utiliser le train en dehors des périodes de fort trafic. Ce tarif est accordé sans conditions de ressources ; la S.N.C.F. en détermine seule les modalités d'utilisation et supporte les conséquences financières de la réduction de 50 p. 100 sur le plein tarif dont bénéficient ses titulaires en période bleue du calendrier voyageurs, c'est-à-dire environ 240 jours par an. L'octroi de la réduction carte " Vermeil " durant les jours et heures actuellement interdits aurait pour effet d'accentuer le déséquilibre coûteux des trafics respectifs des jours creux et des jours de pointe et, durant ceux-ci, d'aggraver la surcharge des trains. Il convient toutefois de noter qu'une partie du week-end est en périodebleue, du samedi midi au dimanche 15 heures. Le prix de la carte, fixé actuellement à 80 francs, est amorti après un trajet de 33 kilomètres en 2e classe. Ses titulaires peuvent se déplacer seuls et bénéficier de la réduction de 50 p. 100 en période bleue, ce qui n'est pas le cas pour les détenteurs des cartes " Couple " ou " Famille ". Celles-ci sont, certes, délivrées gratuitement, mais les bénéficiaires doivent être au moins deux pour avoir droit à une réduction de 50 p. 100 qui ne s'applique, en tout état de cause, qu'à partir de la deuxième personne, la première payant plein tarif. Il n'est pas envisagé en l'état actuel de délivrer la carte " Vermeil " gratuitement essentiellement en raison de l'importante perte de recettes que cette mesure entraînerait.
