@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920119507
+
+- Question : [SEQ920119507](seq920119507.md) — Etat actuel du dossier de création de la Grande Bibliothèque
+
+## Réponse
+
+*Culture, JO du 1992-03-05, page 550*
+
+Réponse. - L'honorable parlementaire demande des précisions sur l'état d'avancement du dossier de la Bibliothèque de France. Celle-ci, ainsi que l'a décidé le Président de la République, doit être un établissement d'un type entièrement nouveau, afin de doter la France d'un équipement digne de ses collections. La Bibliothèque nationale s'avère trop exiguë : les capacités de stockage sont saturées, le nombre de places proposées aux lecteurs insuffisant. La construction d'un nouveau bâtiment doit permettre d'accroître le kilométrage des rayonnages, qui sera plus que doublé. Une attention particulière est portée, d'autre part, à la circulation et à la communication des documents. La Bibliothèque de France, comme la Bibliothèque nationale, demeure une bibliothèque de dernier recours où il sera possible de consulter les ouvrages introuvables dans d'autres établissements. En ce sens, elle doit remplir une mission prioritaire à destination des chercheurs. Les conditions detravail y seront améliorées et les places disponibles plus nombreuses par rapport à l'édifice de la rue de Richelieu. Cependant, le devoir d'une bibliothèque nationale est d'être ouverte à tous, en particulier aux citoyens qui ne sont ni chercheurs ni universitaires de profession. Un public particulièrement motivé doit se voir offrir les instruments spécialisés dont il a besoin, lorsque sa demande dépasse les capacités des équipements documentaires de proximité. C'est dans la future bibliothèque qu'il pourra trouver l'ensemble du matériel bibliographique sur tous les sujets, grâce à la complémentarité des collections tant patrimoniales et de référence, que d'ouvrages spécialisés récents ou en langue étrangère.
