@@ -1,0 +1,9 @@
+# Réponse à la question SEQ041214951
+
+- Question : [SEQ041214951](seq041214951.md) — Revalorisation des retraites agricoles
+
+## Réponse
+
+*Agriculture, JO du 2005-02-03, page 290*
+
+Le Gouvernement a mis en place en 2003 la retraite complémentaire obligatoire des exploitants agricoles (RCO) et a dégagé les moyens nécessaires au financement du régime. Celui-ci apporte désormais un complément de revenus de près de 1 000 euros par an en moyenne à plus de 435 000 retraités. Lors de la création du régime de RCO, le montant de la prestation minimum versée pour une carrière complète de chef d'exploitation avait pour effet de combler l'écart entre 75 % du SMIC net et le minimum vieillesse. Ce SMIC était calculé sur la base annuelle de 2 028 fois le SMIC horaire, soit l'équivalent de ce que perçoit, sur une année, un salarié travaillant 39 heures par semaine. Les augmentations du SMIC horaire dont il est fait état s'inscrivent dans le processus d'harmonisation des différentes garanties mensuelles de rémunération issues des mesures sur les 35 heures, harmonisation à laquelle le Gouvernement s'est engagé. Il s'agit de porter progressivement la rémunération d'une personne travaillant 35 heures par semaine, soit 1 820 heures par an, et payée 35 heures par semaine au niveau d'un salaire calculé sur 39 heures hebdomadaires, soit 2 028 heures par an. Cet objectif sera atteint au 1er juillet 2005. Il n' y a donc pas de lien entre les augmentations du SMIC horaire et la détermination du SMIC annualisé servant de référence au montant des retraites agricoles. Celui-ci ne subit pas de dégradation. La pension de RCO a été revalorisée en 2004 par les dispositions du décret n° 2004-1068 du 7 octobre 2004 fixant les modalités de financement du régime de retraite complémentaire obligatoire pour les non-salariés agricoles pour l'année 2004.
