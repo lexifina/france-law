@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930501113
+
+- Question : [SEQ930501113](seq930501113.md) — Service public pénitentiaire
+
+## Réponse
+
+*Justice, JO du 1993-07-15, page 1147*
+
+Réponse. - En application de l'arrêté ministériel du 6 juin 1990 la direction de l'administration pénitentiaire comprend quatre sous-directions et deux services à compétence transversale, le service de la communication, des études et des relations internationales et l'inspection des services pénitentiaires. L'inspection des services pénitentiaires est dirigée par un magistrat, membre de l'inspection générale des services judiciaires. L'inspection des services pénitentiaires est chargée d'une mission de conseil auprès des établissements et services, et du contrôle de ceux-ci. Elle assure une mission de conseil technique auprès du directeur de l'administration pénitentiaire et effectue les missions et études qui lui sont confiées. Elle contrôle et suit la mise à jour des plans d'intervention et de sécurité. Elle assure les liaisons avec les services d'inspection des autres administrations et notamment l'inspection générale des affaires sociales. Dans la pratique et en dehors des enquêtes diligentées à la suite des incidents, elle se déplace dans le cadre de missions de contrôle général des établissements, répondant ainsi à l'obligation prévue par l'article D. 229 du CPP qui dispose que " ...les établissements pénitentiaires font l'objet du contrôle général de l'inspection des services pénitentiaires... ". L'augmentation du nombre des personnels de l'inspection des services pénitentiaires fait partie des axes prioritaires de la direction de l'administration pénitentiaire. La politique de déconcentration actuellement mise en oeuvre doit en effet avoir pour corollaire la multiplication des missions de contrôle général.
