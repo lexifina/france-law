@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941208993
+
+- Question : [SEQ941208993](seq941208993.md) — Création d'un fonds de compensation des risques d'attentats
+
+## Réponse
+
+*Économie, JO du 1996-01-25, page 145*
+
+Réponse. - L'existence d'un " pool des risques aggravés " permet de résoudre certains problèmes rencontrés pour la souscription des contrats d'assurance de dommages en Corse et manifeste la volonté des assureurs d'y maintenir leur présence. La très grande majorité des habitants de la Corse ne rencontre d'ailleurs pas de difficultés à souscrire les assurances nécessaires. Les difficultés de souscription témoignent souvent des limites de l'assurabilité de dommages aux biens résultant d'actes de terrorisme ou d'attentat. Or, cette garantie, prévue à l'article L. 126-2 du code des assurances, est d'ordre public et ne peut être exclue des contrats de dommages aux biens même avec l'accord des parties. Bien qu'étant une extension obligatoire de garantie, la couverture des actes de terrorisme et des attentats n'est pas assimilable au fonctionnement de la garantie catastrophes naturelles. En particulier, la fraction de prime correspondant au risque n'est pas fixée réglementairement sous forme de surprime comme pour les catastrophes naturelles. La mise en place d'un fonds d'indemnisation des dommages matériels découlant d'actes de terrorisme ou d'attentat n'est pas envisagée. Cette création entraînerait en effet de facto l'abandon de la garantie actuelle diffusée dans plusieurs millions de contrats d'assurances de dommages aux biens, évolution qui n'apparaît pas souhaitable. Enfin, et de façon générale, les quelques résiliations de contrats qui ont pu intervenir en 1993 et 1994 suite aux inondations dans les zones particulièrement exposées ne sauraient laisser craindre un désengagement des sociétés d'assurance du Sud de la France, dans la mesure où les assurés concernés ont pu sans difficulté trouver un nouvel assureur.
