@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508230
+
+- Question : [SEQ980508230](seq980508230.md) — Versement par les collectivités locales d'une subvention aux mutuelles auxquelles leurs agents sont adhérents
+
+## Réponse
+
+*Fonction publique, JO du 1998-08-20, page 2714*
+
+Réponse. - Les collectivités locales ne disposent pas de réglementation spécifique relative aux modalités d'intervention en faveur des mutuelles dont leurs agents sont adhérents. Le principe de parité avec l'Etat peut servir de base à l'application aux collectivités locales des textes en vigueur pour les agents de l'Etat. Ainsi, la circulaire du 5 mars 1993 relative à la prise en charge par les collectivités territoriales d'une partie des cotisations versées par leurs employés aux mutuelles dont ils sont adhérents a précisé les conditions dans lesquelles les collectivités peuvent attribuer aux mutuelles des subventions qui ne doivent pas présenter le caractère d'une participation au paiement des primes dues par les agents. Cette circulaire n'a fait que rappeler les textes applicables à la fonction publique de l'Etat, à savoir l'article R. 523-2 du code de la mutualité et l'arrêté du 19 septembre 1962 pris pour son application, et expliquer leur mécanisme. Sur la base de ces textes, l'Etat subventionne les mutuelles constituées entre agents de l'Etat et exclut les mutuelles interprofessionnelles. Toutefois, le versement par les collectivités locales de subventions à des mutuelles comprenant des agents territoriaux et des agents de l'Etat a été admis. En l'état actuel de la réglementation, les agents territoriaux peuvent adhérer à la mutuelle de leur choix mais la collectivité ne peut la subventionner que si celle-ci comprend uniquement des agents territoriaux et des agents de l'Etat. Le maximum de cette subvention est de 25 % des cotisations effectivement versées par les adhérents sans pouvoir excéder le tiers des charges entraînées par le service des prestations qui leur sont allouées.
