@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981112149
+
+- Question : [SEQ981112149](seq981112149.md) — Formation des personnels des établissements scolaires appelés à prendre en charge les activités complémentaires d'éducation à la santé
+
+## Réponse
+
+*Éducation, JO du 2000-06-08, page 2078*
+
+Réponse. - Dans le cadre du plan de relance pour la santé scolaire annoncé le 11 mars 1998, le ministère de l'éducation nationale par la circulaire nº 98-237 du 24 novembre 1998 a défini les orientations pour l'éducation à la santé à l'école et au collège. Ses dispositions instaurent notamment dans les collèges des rencontres éducatives à la santé, auxquelles s'intègrent pour les élèves de 4e et de 3e des séquences obligatoires d'éducation à la sexualité, dont les modalités sont précisées par la circulaire nº 98-234 du 19 novembre 1998. Ces rencontres éducatives, qui s'inscrivent dans le projet d'établissement et qui s'articulent avec les actions des comités d'éducation à la santé et à la citoyenneté, prévoient une formation donnée aux élèves pour un horaire moyen de 30 à 40 heures qui est intégré dans le temps scolaire durant les quatre années de collège. Dans ce domaine et en vue de former les personnels enseignants, d'éducation, sociaux et de santé, destinés à assurer ces rencontres éducatives auprès des élèves de collèges, le ministère de l'éducation nationale a mis en uvre deux actions de formation nationale qui se sont déroulées dans l'académie de Lyon en octobre et en décembre 1999. Ces actions, organisées au sein du ministère de l'éducation nationale par la direction de l'enseignement scolaire et par l'inspection générale de sciences et vie de la terre, ont permis de constituer un réseau de formateurs académiques compétents pour assurer et coordonner la formation continue des personnels de la communauté éducative (enseignants, personnels d'éducation, sociaux et de santé, etc.) participant à la mise en uvre des rencontres éducatives sur la santé.
