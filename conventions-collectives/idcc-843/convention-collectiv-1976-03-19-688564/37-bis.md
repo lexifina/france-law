@@ -1,17 +1,33 @@
 # Article 37 bis
 
-1. Afin de favoriser le respect, par les employeurs de la profession, des obligations mises à leur charge par les articles 3 et 5 de l'avenant n° 7 à la convention collective nationale du 19 mars 1976, reprenant certaines dispositions de la loi sur la mensualisation du 19 janvier 1978 et concernant l'indemnité de départ à la retraite et les congés familiaux, il a été institué un fonds de péréquation permettant la prise en charge de ses obligations.
+1. Un fonds de péréquation a été créé pour assurer une mutualisation des obligations mises à la charge des employeurs. Ce fonds a pour but de favoriser le respect par les employeurs des obligations mises à leur charge et d'assurer leurs salariés du service des prestations ou compléments de salaire qui leur sont dus.
 
-2. Ce fonds de péréquation est géré financièrement et administrativement par l'I.S.I.C.A.
+2. Les partenaires sociaux ont décidé que le fonds de péréquation interviendrait désormais pour assurer à l'employeur le remboursement :
 
-3. Sont obligatoirement affiliés à ce régime les employeurs entrant dans le champ d'application de la convention collective nationale du 19 mars 1976.
+- des indemnités de congés payés, pendant la période de maternité ;
 
-4. Ce fonds de péréquation est en vigueur depuis le 1er janvier 1979.
+- des frais d'examens médicaux prescrits par la médecine du travail ;
 
-5. Le taux de la cotisation, qui sera intégralement à la charge de l'employeur, sera un pourcentage des salaires limités au plafond de la sécurité sociale de tous les salariés.
+- de l'indemnité de fin de contrat de travail à durée déterminée, lorsqu'un tel contrat est conclu pour le remplacement d'un salarié dont le contrat de travail a été suspendu ;
 
-Les cotisations sont payées trimestriellement par les employeurs à terme échu, en même temps que celles appelées par l'I.S.I.C.A. au titre du régime de retraite.
+- des congés pour événements familiaux prévus à l'article 31 de la convention collective nationale ;
 
-6. Il est nettement déclaré, par les parties signataires, que la création et le fonctionnement de ce fonds de péréquation ne diminue en rien les obligations imposées à l'employeur par la loi sur la mensualisation et l'avenant n° 7 à la convention collective. Vis-à-vis du salarié, l'employeur demeure l'unique responsable du respect de ces obligations.
+- de l'indemnité de licenciement due en cas d'inaptitude suite à une maladie ou un accident de la vie privée ;
 
-Il a été créé à la date du 1er juillet 1981 dans le cadre de ce fonds de péréquation un fonds d'action professionnelle et sociale (F.A.P.S.) afin de permettre des actions ou réalisations collectives ou individuelles au bénéfice des membres des professions relevant de la convention collective nationale.
+- de l'indemnité spéciale de licenciement et de l'indemnité de préavis en cas d'inaptitude suite à la maladie professionnelle ou accident du travail ;
+
+- de l'indemnité de licenciement économique due en cas de reprise de fonds lors d'une première installation ;
+
+- de l'indemnité complémentaire due au salarié âgé d'au moins 55 ans en application du dernier alinéa de l'article 33 de la convention collective nationale.
+
+3. Les partenaires sociaux décident que le fonds d'action professionnelle et sociale, créé le 1er juillet 1981 dans le cadre du fonds de péréquation, demeure.
+
+Les partenaires sociaux rappellent que le fonds d'action professionnelle et sociale a été créé afin de permettre des actions ou réalisations collectives ou individuelles au bénéfice des membres des professions relevant de la convention collective nationale.
+
+4. Les partenaires sociaux ont décidé de désigner, pour une durée de 2 ans maximum, ISICA Prévoyance comme organisme gestionnaire du fonds de péréquation et du FAPS.
+
+5. Le taux de cotisation du fonds de péréquation est fixé à 0,12 % du salaire brut limité au plafond de la sécurité sociale. Le taux de cotisation du FAPS est fixé à 0,06 % du salaire brut limité au plafond de la sécurité sociale.
+
+Les cotisations du fonds de péréquation et du FAPS sont à la charge exclusive de l'employeur.
+
+6. Les modalités de fonctionnement du fonds de péréquation et du FAPS seront réexaminées dans le délai maximum de 2 ans à compter de la date d'effet du présent avenant, de même que le choix de l'organisme gestionnaire.
