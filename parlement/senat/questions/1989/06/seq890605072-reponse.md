@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890605072
+
+- Question : [SEQ890605072](seq890605072.md) — Octroi du titre de la reconnaissance de la déportation aux déportés du travail et réfractaires
+
+## Réponse
+
+*Anciens combattants, JO du 1989-08-10, page 1237*
+
+Réponse. - La loi du 14 mai 1951 portant statut des Français astreints au service du travail obligatoire en Allemagne (S.T.O.) leur a donné le titre officiel de " personne contrainte au travail en pays ennemi " alors qu'antérieurement la fédération groupant les intéressés avait librement adopté le titre de Fédération nationale des déportés du travail. Les victimes du S.T.O. souhaitent que les termes de déporté ou, en dernier lieu, de victime de la déportation du travail soient introduits dans leur titre officiel, tandis que l'ensemble des victimes de la déportation, par la voie de la Commission nationale des déportés et internés résistants et de leurs associations ou amicales, réaffirme que l'appellation de déporté doit être réservée aux seuls détenus des camps de concentration. A la suite de deux arrêts (cour d'appel de Paris, 13 février 1978, et Cour de cassation, 23 mai 1979), la fédération précitée s'est vue interdire l'usage des termes de déporté et de déportation. Une réunion de concertation s'est tenue le 2 février 1982 au ministère des anciens combattants entre les représentants des personnes contraintes au travail, des déportés et des résistants pour examiner le problème de l'appellation des anciens requis au service du travail obligatoire en Allemagne. D'une part, cette réunion n'a pas permis de parvenir à un accord et d'autre part, des instances judiciaires sont en cours, depuis lors, sur le plan départemental. Depuis, la Cour de cassation a rendu plusieurs arrêts (28 avril 1987) qui tous concluent à l'exclusivité de l'emploi de l'appellation de déporté pour les victimes du régime concentrationnaire.
