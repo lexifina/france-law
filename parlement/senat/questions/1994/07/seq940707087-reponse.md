@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940707087
+
+- Question : [SEQ940707087](seq940707087.md) — Exonération de la taxe sur les salaires payée par les personnes âgées
+
+## Réponse
+
+*Économie, JO du 1995-08-31, page 1668*
+
+Réponse. - La dispense de paiement de la taxe sur les salaires concerne les particuliers qui utilisent les services soit de femmes de ménage, soit d'un seul employé de maison à temps complet ou de deux si certaines conditions relatives au nombre et à la situation des personnes concernées sont remplies. Afin de prendre en compte les difficultés évoquées, l'article 46 de la loi de finances rectificative pour 1994 étend, depuis le 1er janvier 1995, le bénéfice de la dispense de paiement de taxe sur les salaires à toutes les rémunérations versées par un particulier aux employés de maison dont la présence au domicile de l'employeur est rendue nécessaire par l'état de santé d'une ou plusieurs personnes titulaires de la carte d'invalidité prévue à l'article 173 du code de la famille et de l'aide sociale. S'agissant du calcul des cotisations sociales devant être versées à l'URSSAF, une procédure spécifique destinée à décharger l'employeur de cette formalité a été instaurée au début de l'année 1992 : à la fin de chaque trimestre civil, l'employeur reçoit un bordereau, dénommé " déclaration trimestrielle simplifiée ", qu'il renvoie à l'URSSAF après y avoir indiqué le montant du salaire net horaire et le nombre d'heures de travail réalisées au cours de ce trimestre ; cet organisme procède alors au calcul des cotisations et envoie un avis d'échéance à l'employeur. Cette procédure est toutefois facultative et l'employeur qui ne réexpédie pas sa déclaration trimestrielle simplifiée dans les délais requis reçoit alors une déclaration sur laquelle il doit lui-même effectuer les calculs.
