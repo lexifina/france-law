@@ -1,85 +1,43 @@
 # Article Annexe II-2
 
-BARÈME DE CALCUL DU PRIX FABRICANT HORS TAXE INTERMÉDIAIRE DE CALCUL (ARRONDI AU MILLIÈME LE PLUS PROCHE) À PARTIR DU PRIX PUBLIC
+BARÈME DE MARGE DU PHARMACIEN
 
-PRIX PUBLIC TTC
+POUR LA PARTIE DU PRIX FABRICANT HT
 
-|
-
-|
-
-PFHT
+comprise entre
 
 |
 
-0 à 10,20 F
+COEFFICIENT HT
 
 |
 
-PP/2,049 6
+0 et 22,90 €
 
 |
 
-0 à 5 F
+0,261
 
 |
 
-10,30 à 18,80 F
+22,91 € et 150 €
 
 |
 
-(PP-1,735 7)/1,702 4
+0,10
 
 |
 
-5 à 10 F
+Au-delà de 150 €
 
 |
 
-18,90 à 29,40 F
+0,06
 
 |
 
-(PP-3,573 5)/1,518 6
+Forfait HT : 0,53 €
 
 |
-
-10 à 17 F
-
-|
-
-29,50 à 47,50 F
-
-|
-
-(PP-5,656 3)/1,396 1
-
-|
-
-17 à 30 F
-
-|
-
-47,60 à 97,90 F
-
-|
-
-(PP-9,791 4)/1,258 3
-
-|
-
-30 à 70 F
-
-|
-
-A partir de 98,00 F
-
-|
-
-(PP-11,578 1)/1,232 8
-
-|
-
-A partir de 70 F
 
 |

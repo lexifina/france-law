@@ -1,6 +1,6 @@
 # Article Annexe II-1
 
-BARÈME DE MARGE DU PHARMACIEN
+BARÈME DE MARGE DE L'ETABLISSEMENT PHARMACEUTIQUE QUI VEND EN GROS
 
 POUR LA PARTIE DU PRIX FABRICANT HT
 
@@ -12,50 +12,26 @@ COEFFICIENT HT
 
 |
 
-0 et 5 F
+0 et 22,90 €
 
 |
 
-0,90
+0,103
 
 |
 
-5 et 10 F
+22,91 € et 150 €
 
 |
 
-0,56
+0,06
 
 |
 
-10 et 17 F
+Au delà de 150 €
 
 |
 
-0,38
-
-|
-
-17 et 30 F
-
-|
-
-0,26
-
-|
-
-30 et 70 F
-
-|
-
-0,125
-
-|
-
-Au-delà de 70 F
-
-|
-
-0,10
+0,02
 
 |
