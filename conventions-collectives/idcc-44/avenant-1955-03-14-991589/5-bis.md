@@ -1,0 +1,7 @@
+# Article 5 bis
+
+En cas d'arrêt de travail imputable à l'entreprise :
+
+a) Toute journée commencée sera rémunérée intégralement ;
+
+b) Tout salarié non prévenu de l'arrêt de travail se présentant au travail et ne pouvant le prendre effectivement recevra une indemnité égale à la rémunération de 1 journée de travail.
