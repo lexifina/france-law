@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860601597
+
+- Question : [SEQ860601597](seq860601597.md) — Travailleur non salarié: cessation d'activité et cotisation à la sécurité sociale
+
+## Réponse
+
+*Affaires sociales, JO du 1986-11-06, page 1554*
+
+Réponse. -Les travailleurs indépendants titulaires d'une pension d'invalidité à titre civil sont exonérés de cotisations d'assurance maladie sur leur pension, mais cette exonération ne se traduit pas par l'absence de toute cotisation tant que subsiste, en raison du décalage d'assiette, une cotisation sur les anciens revenus d'activité. L'honorable parlementaire évoque également le problème que pose, sur le plan des cotisations d'assurance maladie, la situation d'un ménage lorsque l'exploitation du fonds est reprise par le conjoint valide. Pour éviter que le ménage ne se voie imposer deux cotisations identiques pour un même revenu, une circulaire n° 12-185 P.4. du 11 juillet 1975 a précisé les modalités de fixation des cotisations d'assurance maladie des personnes se trouvant dans la situation évoquée : si le début d'activité de l'époux nouvel exploitant se situe antérieurement au 1er janvier de l'année en cours, la cotisation du nouvel exploitant est calculée enfonction de ses revenus professionnels personnels (c'est-à-dire ceux de l'année de référence à partir de la date de la cession) ; si le début d'activité du nouvel exploitant s'effectue postérieurement au 1er janvier de l'année en cours, le nouvel exploitant cotise sur la base de la cotisation minimale de début d'activité. L'ancien exploitant, s'il continue de relever à titre personnel du régime d'assurance maladie en tant que titulaire d'une retraite ou d'une pension d'invalidité, demeure redevable d'une cotisation sur les revenus professionnels qu'il a tirés de son activité jusqu'au moment de la cession.
