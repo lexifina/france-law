@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010734412
+
+- Question : [SEQ010734412](seq010734412.md) — Licence professionnelle d'accompagnement social à l'université de Poitiers
+
+## Réponse
+
+*Emploi, JO du 2001-12-20, page 4029*
+
+Conçues dans un but d'insertion professionnelle, les licences professionnelles s'inscrivent dans une dynamique de professionnalisation de l'université et visent à répondre aux besoins de qualifications nouvelles. Elles constituent donc un atout en terme d'offre de qualification pour des champs ou des modes d'intervention insuffisamment couverts et n'entraînent en aucune façon une déqualification des diplômes d'Etat. Ainsi, le ministère de l'emploi et de la solidarité suit avec la plus grande attention la création des licences professionnelles qui concernent le secteur social. Cette nouvelle offre doit en effet être pensée en terme de complémentarité et non en terme de concurrence, elle ne doit pas conduire à un démembrement des métiers existants et elle foit enfin, en terme de débouchés, offrir des perspectives de correspondance entre le niveau du diplôme et les fonctions visées. Par ailleurs, le nouveau programme national de lutte contre les exclusions prévoit un plan pluriannuel d'augmentation des effectifs d'étudiants en travail social sur la base d'une évaluation des besoins, réalisée dans le cadre du schéma national des formations sociales qui vient d'être arrêté pour la période 2001-2005. Enfin, ce même schéma national prévoit la création d'une commission professionnelle consultative qui aura pour mission d'élaborer et d'actualiser les référentiels professionnels ainsi que les référentiels de certification et de formation correspondants. Ainsi, le nombre d'années de formation ne saurait être le seul critère conduisant à attribuer un niveau à un diplôme, celui-ci doit également correspondre au niveau de compétence nécessaire qui est identifié pour l'exercice de chacun des métiers.
