@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870506399
+
+- Question : [SEQ870506399](seq870506399.md) — Doublement de la route nationale 141 entre Mont-de-Marsan et Dax (Landes)
+
+## Réponse
+
+*Équipement, JO du 1988-03-03, page 288*
+
+Réponse. -Le ministre de l'équipement, du logement, de l'aménagement du territoire et des transports est tout à fait conscient de l'importance que présente l'aménagement de la R.N. 124 pour le département des Landes. Conformément aux engagements pris, en 1987, l'Etat a consacré 10,120 MF, auxquels s'est ajoutée une participation de 5 MF du département, à la déviation de Tartas, ce qui a permis d'engager les travaux ; ceux-ci doivent continuer en 1988 grâce à un crédit de l'Etat de 10,4 MF et 5,2 MF de fonds de concours du département. Par ailleurs, les études de la déviation de Pontonx ont été poursuivies en 1987, pour un montant de 0,280 MF, tandis qu'un crédit de l'Etat de 3,5 MF pour les opérations de sécurité sur la R.N. 124, programmé en 1986 mais non engagé, a été affecté en 1987. De plus, il convient de signaler la décision prise récemment par la région Aquitaine de participer durant les années 1987, 1988 et 1989 à l'aménagement de la R.N. 124 dans lesLandes pour un total de 25 MF répartis de la façon suivante : 5 MF dès 1987 et 10 MF pour chacune des deux années suivantes. Enfin, dans le cadre du contrat conclu entre l'Etat et la région, la déviation de Saint-Paul-lès-Dax a bénéficié en 1987 d'un crédit de 26,7 MF (dont 4,6 MF de l'Etat) pour le commencement des travaux ; le financement de cette opération continuera en 1988 et il est prévu de lui réserver une dotation globale de 20,6 MF dont 4,120 MF à la charge de l'Etat. L'ensemble de ces dotations aura permis d'améliorer la R.N. 124 au cours du IXe Plan ; cette action doit se poursuivre dans le prochain contrat entre l'Etat et la région, avec l'aide éventuelle du département, le montant des crédits affectés dépendant des priorités nationales et régionales.
