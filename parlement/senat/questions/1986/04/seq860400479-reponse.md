@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860400479
+
+- Question : [SEQ860400479](seq860400479.md) — Décrets relatifs à la création des corps d'administrateurs et attachés territoriaux
+
+## Réponse
+
+*Intérieur, JO du 1986-07-17, page 1007*
+
+Réponse. -Le Gouvernement a décidé de procéder à une large concertation destinée à permettre aux élus comme aux organisations syndicales et professionnelles d'exprimer leur position tant à l'égard de la construction statutaire que sur les problèmes plus particuliers que peuvent soulever les deux décrets portant statuts particuliers des administrateurs territoriaux et des attachés territoriaux. Devant les critiques formulées à l'encontre de ces textes et devant les divergences qui existent sur ce sujet complexe et délicat, il est indispensable de dresser un bilan et d'engager une discussion générale. Ce n'est qu'à l'issue de cette procédure de consultation dont la table ronde qui s'est tenue le 6 juin 1986 sous la présidence du secrétaire d'Etat chargé des collectivités locales constitue une étape importante, que le Gouvernement se prononcera sur ces dispositions et proposera des mesures destinées à améliorer et assouplir le dispositif de la loi du 26 janvier1984 ainsi que les textes pris pour l'application de celle-ci, et notamment les décrets des 13 et 15 mars 1986 sur lesquels portent les observations de l'honorable parlementaire. Dans l'immédiat, et en tout état de cause, ces derniers textes ne sont pas entrés en vigueur car ils doivent être complétés par plusieurs textes, relatifs notamment à la formation et au recrutement des agents intéressés, qui n'ont pas encore été pris. Un projet de décret, reportant les délais impartis aux fonctionnaires ayant vocation à bénéficier de la procédure d'intégration pour déposer leur dossier, a été et est en cours d'examen.
