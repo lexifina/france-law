@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900610424
+
+- Question : [SEQ900610424](seq900610424.md) — Situation financière des centres de soins
+
+## Réponse
+
+*Solidarité, JO du 1990-10-04, page 2153*
+
+Réponse. - Les difficultés que rencontrent actuellement les centres de soins médicaux, infirmiers et dentaires, notamment celles concernant leur situation financière ne sont pas méconnues du ministre de la solidarité, de la santé et de la protection sociale. Ainsi, un groupe de travail a été constitué récemment afin d'examiner la modification des normes techniques d'agrément de ces centres actuellement fixées par le décret n° 56-284 du 9 mars 1956 (annexes XXVIII, XXVIII bis et XXIX). Le projet de décret en question précisera également la définition des centres de soins et les missions qui leur sont confiées. Depuis l'intervention de la loi n° 85-10 du 3 janvier 1985 la situation tarifaire des centres de soins est désormais alignée sur celle des professionnels de santé d'exercice libéral. Une éventuelle réforme du financement des centres de santé appelle au préalable une analyse approfondie de la formation de leurs dépenses, du service rendu et des causes des déséquilibres éventuellement constatés. A cet effet, une mission a été confiée à l'inspection générale des affaires sociales. L'inspection générale a remis son rapport. Les suites qui pourraient être données au vu des conclusions des rapporteurs sont en cours d'étude. Par ailleurs, la revalorisation de la lettre-clé AMI qui rémunère l'activité des infirmiers et des infirmières est effectuée par le biais d'avenants tarifaires à la convention nationale de la profession négociés entre les parties signataires du texte conventionnel et approuvés ensuite par arrêtés interministériels. Les pouvoirs publics étudient actuellement les propositions de revalorisation tarifaire formulées par les parties conventionnelles.
