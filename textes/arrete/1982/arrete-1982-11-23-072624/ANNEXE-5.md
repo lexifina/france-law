@@ -4,9 +4,11 @@ I. Marque distinctive communautaire.
 
 II. - Marquage du matériel électrique objet d'un certificat de contrôle.
 
-Lorsqu'un type de matériel électrique non conforme aux normes harmonisées a été l'objet d'un certificat de contrôle prévu à l'article 9, la marque distinctive communautaire doit être complétée au moins par le marquage suivant :
+Lorsqu'un type de matériel non conforme aux normes harmonisées a été l'objet d'un certificat de contrôle prévu à l'article 9, la marque distinctive communautaire doit être suivie au moins par le marquage suivant :
 
-1. Le symbole S signifiant qu'il s'agit d'un matériel électrique pour mines grisouteuses couvert par un certificat de contrôle. Ce symbole doit être placé immédiatement à la suite de la marque distinctive communautaire, comme indiqué ci-après ;
+1. Le symbole S signifiant qu'il s'agit d'un matériel électrique pour mines grisouteuses couvert par un certificat de contrôle. Ce symbole doit être placé immédiatement à la suite de la marque distinctive communautaire comme indiqué ci-après ;
+
+1. a) Le symbole I du groupe de matériel ;
 
 2. Les deux derniers chiffres du millésime de l'année de délivrance du certificat de contrôle ;
 
@@ -20,7 +22,7 @@ Lorsqu'un type de matériel électrique non conforme aux normes harmonisées a �
 
 7. Le numéro de fabrication ;
 
-8. Si la station d'essais estime qu'il est nécessaire d'indiquer des conditions spéciales pour une utilisation sûre, le signe X sera placé après la référence du certificat ;
+8. Si la station d'essais estime qu'il est nécessaire d'indiquer des conditions spéciales pour une utilisation sûre, le signe "X" sera placé après la référence du certificat ;
 
 9. Le marquage normalement prévu par les normes de construction du matériel électrique ;
 

@@ -1,97 +1,107 @@
 # Article ANNEXE 1.2
 
-1. Compléter la norme européenne EN 50 018, première édition, mars 1977, par le texte suivant :
+Note.-Dans les mines grisouteuses de la République fédérale d'Allemagne, le mot " Anlage " est utilisé à la place de " System ".
 
-"11.7. Dans les enveloppes antidéflagrantes du groupe I, les matériaux isolants soumis à des contraintes électriques susceptibles de provoquer des arcs dans l'air et dues à des courants nominaux de plus de 16 A (dans les appareils de coupure tels que les disjoncteurs, les contacteurs, les sectionneurs) doivent satisfaire à une épreuve de résistance au cheminement conformément à la publication 112 de la C.E.1. Cette épreuve doit être effectuée avec 50 gouttes et sous une tension de 400 volts mais avec une solution dosée à (0,1 plus ou moins 0,002) p. 100 en masse de chlorure d'ammonium et (0,5 plus ou moins 0,002) p. 100 en masse de sulfonate alkylnaphtalène de sodium dans de l'eau distillée ou désionisée. A (23 plus ou moins 1) °C, la résistivité de la solution est de (170 plus ou moins 5) oméga cm.
+1. Domaine d'application.
 
-"Les matériaux isolants, cités ci-dessus, qui ne satisfont pas à cette épreuve, peuvent cependant être utilisés à condition que leur volume soit limité à 1 p. 100 du volume total de l'enveloppe vide ou qu'un dispositif approprié de détection permette de déclencher, en amont, l'alimentation électrique de l'enveloppe avant qu'une décomposition éventuelle des isolants ne conduise à des conditions dangereuses ; la présence et l'efficacité d'un tel dispositif doivent être vérifiées par la station d'essais.
+1. 1. La présente annexe contient les règles spécifiques de construction et d'épreuve des systèmes électriques de sécurité intrinsèque destinés en tout ou en partie à être installés dans les atmosphères explosibles des mines grisouteuses, afin de s'assurer que ces systèmes électriques ne provoquent pas l'explosion de l'atmosphère environnante.
 
-2. Remplacer le texte du point 12.3 de la norme européenne EN 50 018, première édition, mars 1977, par le texte suivant :
+1. 2. La présente annexe complète la norme européenne EN 50 020, sécurité intrinsèque " i " (première édition, mars 1977) dont les règles s'appliquent à la construction et aux épreuves du matériel électrique à sécurité intrinsèque et du matériel électrique associé.
 
-"12.3.1. La longueur et l'interstice des joints antidéflagrants de l'enveloppe antidéflagrante des appareils de connexion verrouillés mécaniquement ou électriquement doivent être déterminés par le volume qui existe au moment de la séparation des contacts.
+1. 3. La présente annexe ne se substitue pas aux règles d'installation des matériels électriques à sécurité intrinsèque, des matériels électriques associés et des systèmes électriques de sécurité intrinsèque.
 
-"12.3.2. Les propriétés de l'enveloppe antidéflagrante, mode de protection "d" des appareils de connexion verrouillés mécaniquement ou électriquement doivent être conservées, en cas d'explosion interne, aussi bien lorsque les appareils de connexion sont assemblés qu'au moment de la séparation des contacts.
+2. Définitions.
 
-"12.3.3. Le socle des prises de courant doit maintenir les propriétés antidéflagrantes de l'enveloppe sur laquelle il est monté même lorsque la fiche est enlevée."
+2. 1. Les définitions ci-après, spécifiques des systèmes électriques de sécurité intrinsèque, sont applicables dans la présente annexe. Elles complètent les définitions qui figurent dans les normes européennes EN 50 014-règles générales et EN 50 020-sécurité intrinsèque " i ".
 
-3. Ajouter la note suivante après le second alinéa du point 14.1.1 de la norme européenne EN 50 018, première édition, mars 1977 :
+2. 2. Système électrique de sécurité intrinsèque.
 
-"Note. - Il est en particulier possible d'éprouver les enveloppes sans le matériel inclus. Dans ce cas, la station d'essais doit indiquer dans le certificat, sur la base des propositions du constructeur, les genres de matériels inclus admissibles et leurs conditions de montage."
+Ensemble de matériels électriques définis dans un document descriptif, système dans lequel les circuits d'interconnexion ou parties de tels circuits, destinés à être utilisés dans une atmosphère explosible, sont des circuits de sécurité intrinsèque et qui répondent aux règles de la présente annexe.
 
-4. Ajouter une nouvelle section dans la norme européenne EN 50018, première édition, mars 1977 :
+2. 3. Système électrique certifié de sécurité intrinsèque :
 
-SECTION IV
+Système électrique conforme à 2. 2 pour lequel une station d'essais a délivré un certificat certifiant que le type de système électrique est conforme à la présente annexe.
 
-Autres règles
+Note 1.-Il n'est pas nécessaire que chaque matériel électrique d'un système électrique de sécurité intrinsèque soit certifié individuellement mais il doit être identifiable sans équivoque.
 
-"16. Appareillage.
+Note 2.-Pour autant que les règles nationales d'installation le permettent, les systèmes électriques conformes à 2. 2 pour lesquels la connaissance des paramètres électriques des matériels électriques certifiés de sécurité intrinsèque, des matériels électriques associés certifiés, des dispositifs non certifiés conformes à 1. 3 de la norme européenne EN 50 014 " règles générales " et pour lesquels la connaissance des paramètres électriques et physiques des composants et des conducteurs d'interconnexion permettent de déduire sans ambiguïté que la sécurité intrinsèque est conservée, peuvent être installés sans certificat supplémentaire.
 
-"Les enveloppes antidéflagrantes du groupe I contenant de l'appareillage produisant en service des arcs ou des étincelles susceptibles d'allumer un mélange explosif doivent répondre aux règles suivantes :
+2. 4. Accessoires :
 
-"16.1. Organes de mise hors tension.
+Matériel électrique qui ne comporte que des éléments de connexion ou d'interruption de circuits de sécurité intrinsèque et qui n'affecte pas la sécurité intrinsèque du système, tel que boîtes de raccordement, boîtes de dérivation, prises de courant, prolongateurs, interrupteurs, etc..
 
-"Tous les conducteurs accessibles, excepté ceux de circuits de sécurité intrinsèque conformes à la norme européenne EN 50 020 ou ceux de masse ou de terre, doivent pouvoir être mis hors tension par un organe de mise hors tension avant l'ouverture de l'enveloppe antidéflagrante.
+3. Catégories de systèmes électriques de sécurité intrinsèque.
 
-"L'organe de mise hors tension de ces enveloppes antidéflagrantes doit être :
+3. 1. Les systèmes électriques de sécurité intrinsèque ou parties de ces systèmes doivent être répartis dans l'une des deux catégories " la " ou " ib ". Sauf indication contraire, les règles de la présente annexe s'appliquent à ces deux catégories.
 
-"16.1.1. soit monté dans l'enveloppe antidéflagrante ; dans ce cas, les parties qui restent sous tension après ouverture de l'organe de mise hors tension doivent être protégées suivant l'un des modes de protection normalisés cités dans la norme européenne EN 50 014 "Règles générales" et leur accès doit être empêché par un couvercle portant une plaque : "NE PAS OUVRIR SOUS TENSION". Cela ne s'applique pas aux parties qui restent sous tension des circuits de sécurité intrinsèque conformes à la norme européenne EN 50 020, sécurité intrinsèque "i".
+Note.-Les systèmes électriques de sécurité intrinsèque ou parties de ces systèmes peuvent être de catégories différentes de celles des matériels électriques à sécurité intrinsèque et des matériels électriques associés qui composent le système ou partie de système. Différentes parties d'un système électrique de sécurité intrinsèque peuvent comporter différentes catégories.
 
-"Note. - S'il s'agit de la sécurité augmentée "e", d'après la norme européenne EN 50 019, le degré de protection prescrit peut être ramené de IP 54 à IP 20 ;
+3. 2. Catégorie " la " :
 
-"16.1.2. soit monté dans une autre enveloppe conforme à l'un des modes de protection normalisés cités dans la norme européenne EN 50 014 "Règles générales" ;
+Les systèmes électriques de sécurité intrinsèque ou parties de tels systèmes sont de catégories " ia " s'ils satisfont aux règles applicables aux matériels électriques à sécurité intrinsèque de la catégorie " ia " (voir norme européenne EN 50 020-sécurité intrinsèque-4. 1), mais le système électrique de sécurité intrinsèque dans son ensemble doit être considéré comme un matériel électrique unique.
 
-"16.1.3. soit constitué par un appareil de connexion (prise de courant) conforme aux règles de 12.3 de la présente norme européenne.
+3. 3. Catégorie " ib " :
 
-"16.2. Portes ou couvercles.
+Les systèmes électriques de sécurité intrinsèque ou parties de tels systèmes sont de catégories " ib " s'ils satisfont aux règles applicables aux matériels électriques de la catégorie " ib " (voir norme européenne EN 50 020-sécurité intrinsèque-4. 2), mais le système électrique de sécurité intrinsèque dans son ensemble doit être considéré comme un matériel électrique unique.
 
-"16.2.1. Portes ou couvercles à manoeuvre rapide :
+4. Conducteurs d'interconnexion d'un système électrique de sécurité intrinsèque.
 
-"Ces portes ou couvercles doivent être verrouillés mécaniquement avec un sectionneur de telle sorte que :
+4. 1. Les paramètres électriques et toutes les caractéristiques des conducteurs d'interconnexion spécifiques d'un système électrique de sécurité intrinsèque doivent, pour autant que la sécurité intrinsèque en dépend, être précisés dans les documents de certification de ce système électrique.
 
-"a) L'enveloppe conserve les propriétés des enveloppes antidéflagrantes, mode de protection "d", tant que le sectionneur est fermé et que
+4. 2. Lorsqu'un câble multiconducteur contient des liaisons qui font partie de plus d'un circuit de sécurité intrinsèque, le câble doit répondre aux règles ci-après :
 
-"b) Le sectionneur puisse seulement être fermé lorsque ces portes ou couvercles assurent les propriétés des enveloppes antidéflagrantes, mode de protection "d".
+4. 2. 1.L'épaisseur radiale de l'isolant doit être appropriée au diamètre du conducteur. Si cet isolant est constitué par du polyéthylène, son épaisseur radiale mininale doit être de 0, 2 mm.
 
-"16.2.2. Portes ou couvercles à fermeture par vis :
+4. 2. 2. Avant de quitter l'usine de fabrication, le câble multiconducteur doit être soumis aux épreuves diélectriques, effectuées sous courant alternatif, spécifiées soit en 4. 2. 2. 1 soit en 4. 2. 2. 2. Le succès de ces épreuves doit être attesté par un certificat d'épreuves délivré par le constructeur du câble.
 
-Ces portes ou couvercles doivent porter une plaque : "NE PAS OUVRIR SOUS TENSION".
+4. 2. 2. 1. Ou bien chaque conducteur, avant assemblage dans le câble, est éprouvé sous une tension de valeur efficace égale à 3000 V + (2000 fois l'épaisseur radiale de l'isolant exprimée en mm) V ; le câble assemblé :
 
-"16.3. Conditions complémentaires.
+-est éprouvé d'abord sous une tension de valeur efficace égale à 500 V appliquée entre l'ensemble des armures ou écrans du câble réunis électriquement entre eux et le faisceau de tous les conducteurs réunis électriquement entre eux et
 
-"Toute enveloppe antidéflagrante équipée d'une porte ou d'un couvercle à fermeture par vis (voir 16.2.2) est soumise aux conditions complémentaires suivantes :
+-est éprouvé ensuite sous une tension de valeur efficace égale à 1000 V appliquée entre un faisceau comprenant la moitié des conducteurs du câble et un faisceau comprenant l'autre moitié des conducteurs.
 
-"16.3.1. Le marquage doit comporter le symbole "X" défini dans la norme européenne EN 50 014 "Règles générales".
+4. 2. 2. 2. Ou bien le câble assemblé :
 
-"16.3.2. Le certificat doit indiquer les conditions d'emploi à respecter pour que la sécurité soit respectée.
+-est éprouvé d'abord sous une tension de valeur efficace égale à 1000 V appliquée entre l'ensemble des armures ou écrans du câble réunis électriquement entre eux et le faisceau de tous les conducteurs réunis électriquement entre eux et
 
-"Note. - Les conditions d'emploi à préciser dans le certificat dépendent de la nature de l'appareillage contenu dans l'enveloppe antidéflagrante :
+-est éprouvé ensuite sous une tension de valeur efficace égale à 2000 V appliquée successivement entre chaque conducteur du câble et le faisceau formé par l'ensemble des autres conducteurs réunis électriquement entre eux.
 
-"- si l'enveloppe ne contient qu'un sectionneur avec, éventuellement, des contacts auxiliaires, un jeu de barres et des éléments de raccordement, le certificat devra préciser que l'enveloppe ne peut contenir aucun autre composant électrique ;
+4. 2. 3. Les épreuves diélectriques prescrites en 4. 2. 2 doivent être effectuées sous une tension alternative sensiblement sinusoïdale de fréquence comprise entre 48 Hz et 62 Hz, délivrés par un transformateur de puissance appropriée, compte tenu de la capacité du câble. Dans le cas des épreuves diélectriques sur câble terminé, la tension doit être augmentée régulièrement jusqu'à la valeur spécifiée en un temps d'au moins 10 secondes et, ensuite, maintenue pendant au moins 60 secondes.
 
-"- si l'enveloppe peut contenir d'autres composants électriques, le certificat devra préciser qu'un organe de mise hors tension doit se trouver à proximité de l'enveloppe."
+Ces épreuves sont effectuées par le fabricant du câble.
 
-"17. Douilles et culots de lampes.
+4. 3. Aucun défaut entre les conducteurs d'un câble multiconducteur n'est à considérer si le système répond à l'une des deux règles ci-après :
 
-"17.1. Les règles qui suivent sont applicables aux douilles et culots de lampes devant ensemble former une enveloppe antidéflagrante, mode de protection "d", pour pouvoir être utilisés dans des luminaires de sécurité augmentée, mode de protection "e".
+4. 3. 1. Le câble est conforme à 4. 2 et chaque circuit individuel à sécurité intrinsèque comporte un écran conducteur assurant un taux de recouvrement au moins égal à 60 %.
 
-"17.2. Le dispositif qui empêche l'autodesserrage de la lampe prescrit dans la norme européenne EN 50 019, sécurité augmentée "e", sous 4.3.3, peut être évité dans les douilles à vis pourvues d'un interrupteur à fonctionnement brusque à enveloppe antidéflagrante, mode de protection "d" coupant tous les pôles du circuit de la lampe avant la séparation du contact.
+Note.-Le raccordement éventuel de l'écran à la masse ou à la terre sera déterminé par les règles d'installation.
 
-"17.3. Douilles pour culots cylindriques.
+4. 3. 2 Le câble, conforme à 4. 2, est protégé efficacement contre les détériorations et chaque circuit individuel à sécurité intrinsèque présente, en fonctionnement normal, une tension crête égale ou inférieure à 60 volts.
 
-"17.3.1. Les douilles de tubes fluorescents doivent :
+4. 4. Lorsqu'un câble multiconducteur est conforme à 4. 2, mais pas à 4. 3, et ne contient que des circuits de sécurité intrinsèque faisant partie d'un même système électrique de sécurité intrinsèque, les défauts doivent être considérés entre un maximum de quatre conducteurs du câble en plus de l'application de 3. 2 ou de 3. 3.
 
-"- être unipolaires et
+4. 5. Lorsqu'un câble multiconducteur est conforme à 4. 2 mais pas à 4. 3 et contient des circuits de sécurité intrinsèque faisant partie de différents systèmes électriques de sécurité intrinsèque, chaque circuit de sécurité intrinsèque contenu dans ce câble doit présenter un coefficient de sécurité égal à quatre fois celui requis en 3. 2 ou 3. 3.
 
-"- être conformes à la publication 61-2 de la C.E.I..
+4. 6. Lorsqu'un câble multiconducteur ne répond pas à 4. 2 et à 4. 3, un nombre quelconque de défauts entre les conducteurs du câble devra être considéré en plus de l'application de 3. 2 ou de 3. 3.
 
-"17.3.2. Autres douilles : la longueur du joint antidéflagrant entre la douille et le culot, au moment de la séparation du contact, doit être d'au moins 10 mm.
+4. 7. Les documents de certification du système électrique de sécurité intrinsèque doivent spécifier les conditions d'utilisation résultant de l'application de 4. 3 à 4. 6.
 
-"17.4. Douilles pour culots à vis.
+5. Accessoires utilisés dans les systèmes électriques de sécurité intrinsèque.
 
-"17.4.1. La partie filetée de la douille doit être réalisée en un matériau résistant à la corrosion dans les conditions probables de service.
+Les accessoires qui sont mentionnés dans les documents de certification comme faisant partie d'un système électrique de sécurité intrinsèque doivent satisfaire aux points :
 
-"17.4.2. Au moment de la séparation du contact lors du dévissage d culot, deux pas de vis complets au moins doivent être engagés.
+-6 et 7 de la norme européenne EN 50 014 " Règles générales " ;
 
-"17.4.3. Dans les douilles à vis E27 et E40 du matériel électrique des groupes II B et II C, le contact électrique doit être réalisé par des éléments de contact élastiques. En outre, lors du vissage ou du dévissage de la lampe, la fermeture du contact et son ouverture doivent se produire à l'intérieur d'une enveloppe antidéflagrante, mode de protection "d", du groupe II C.
+-5 et 10. 3 de la norme européenne EN 50 020 " Sécurité intrinsèque i ".
 
-"Note. - Les règles de 17.4.3 ne sont nécessaires ni pour le matériel électrique des groupes I et II A ni pour des douilles à vis E 10 et E 14."
+Leur marquage doit au moins comporter le nom du constructeur ou sa marque commerciale déposée.
+
+Note.-L'utilisation d'accessoires non certifiés est du domaine des règles d'installation.
+
+6. Epreuves de type.
+
+Les systèmes électriques de sécurité intrinsèque doivent être éprouvés conformément aux règles relatives aux épreuves de type du point 9 de la norme européenne EN 50 020 " Sécurité intrinsèque i ", mais compte tenu du point 4 de la présente annexe.
+
+7. Marquage des systèmes électriques de sécurité intrinsèque.
+
+Les systèmes électriques certifiés de sécurité intrinsèque doivent être marqués par le détenteur du certificat du système sur l'un au moins des matériels électriques du système se trouvant en un endroit " stratégique ". Le marquage doit comporter le marquage minimal du point 26. 5 de la norme européenne EN 50 014 " Règles générales ", et les lettres SYST.
