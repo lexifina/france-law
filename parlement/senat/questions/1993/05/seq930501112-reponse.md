@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930501112
+
+- Question : [SEQ930501112](seq930501112.md) — Proposition de loi relative à l'autonomie et à la décentralisation des établissements publics à caractère scientifique, culturel et professionnel
+
+## Réponse
+
+*Enseignement supérieur, JO du 1994-03-24, page 675*
+
+Réponse. - La proposition de loi no 266 déposée au Sénat le 26 avril 1990 par les membres de l'Union centriste propose que les établissements d'enseignement supérieur qui le souhaiteraient deviennent établissements publics régionaux. Leurs statuts seraient adoptés par le conseil régional et prévoieraient une large ouverture des conseils de l'établissement à des personnalités extérieures. Les régions auraient la responsabilité d'affecter une dotation aux universités régionales. Enfin, un schéma régional de développement des enseignements supérieurs et de la recherche fixerait la carte des implantations par filière et cycle. Le Gouvernement n'envisage pas aujourd'hui de modifier le partage des responsabilités entre l'Etat et les collectivités territoriales dans le domaine de l'enseignement supérieur, qui traditionnellement relève de la compétence étatique. Cependant le Premier ministre a récemment confié à M. de Boishue, député de l'Essonne, mission de lui faire des propositions pour définir, entre l'Etat et les collectivités territoriales, un partenariat plus étroit et mieux maîtrisé, notamment dans le domaine de l'établissement de la carte universitaire. C'est sur le fondement des propositions qui lui seront faites que le ministre de l'enseignement supérieur proposera le cas échéant au Premier ministre les aménagements qu'il semblerait nécessaire d'apporter aux textes ou aux pratiques pour que les collectivités territoriales soient mieux associées à des responsabilités que l'Etat doit continuer d'exercer.
