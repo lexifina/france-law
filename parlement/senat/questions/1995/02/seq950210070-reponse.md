@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950210070
+
+- Question : [SEQ950210070](seq950210070.md) — Détachement de fonctionnaires d'Etat dans la fonction publique territoriale
+
+## Réponse
+
+*Fonction publique, JO du 1995-04-06, page 829*
+
+Réponse. - La mobilité entre fonction publique de l'Etat et fonction publique territoriale est, comme en dispose l'article 14 de la loi no 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires, une garantie fondamentale de la carrière des fonctionnaires. Cette mobilité est liée aux équivalences existant entre les différentes fonctions publiques et à l'achèvement de la construction statutaire de la fonction publique territoriale (existence de cadres d'emplois territoriaux équivalents aux corps de l'Etat). Un nombre croissant des corps de la fonction publique de l'Etat s'ouvre aux fonctionnaires territoriaux par voie de concours ou de détachement. Dans le cadre du protocole d'accord du 9 février 1990 sur la rénovation de la grille de la fonction publique, les corps dont les statuts ont été modifiés, ont généralement été ouverts : c'est le cas par exemple des corps à statut commun de catégorie C ou B, pour ceux notamment des assistantes sociales ou des éducateurs spécialisés. S'agissant de la haute fonction publique, l'accueil des administrateurs territoriaux dans la fonction publique de l'Etat s'organise, par exemple, par la voie du détachement dans le corps des sous-préfets en application du 6e alinéa de l'article 6bis du décret no 64-240 du 14 mars 1964 portant statut des sous-préfets. D'autres corps de catégorie A sont également ouverts aux fonctionnaires territoriaux, notamment les corps administratifs. Ainsi, le statut des attachés d'administration centrale a récemment été modifié par le décret no 93-1337 du 20 décembre 1993 afin de permettre d'accueillir les fonctionnaires territoriaux en détachement.
