@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990415447
+
+- Question : [SEQ990415447](seq990415447.md) — Reconnaissance officielle de l'appellation de guerre d'Algérie
+
+## Réponse
+
+*Anciens combattants, JO du 1999-05-20, page 1679*
+
+Réponse. - Sur le fond, il convient de rappeler que les dispositions du Code des pensions civiles et militaires de retraite précisent que : la bonification de campagne double est accordée pour les services effectués " en opération de guerre " ; la campagne simple est accordée pour les services effectués " sur pied de guerre " ; la campagne simple ou la demi-campagne peuvent être accordées selon le degré d'insécurité. En application de ces dispositions, les fonctionnaires ayant servi durant la Première et la Seconde Guerre mondiale ont bénéficié, tantôt de la campagne simple, tantôt de la campagne double, selon le lieu et la période de leurs services. Dans ces conditions, le principe d'égalité entre les générations du feu n'implique nullement que les fonctionnaires anciens d'Afrique du Nord doivent bénéficier de la campagne double. Dès lors, le droit aux bonifications de campagne doit s'apprécier en fonction des conditions propres aux conflits d'AFN La demi-campagne accordée à l'origine au nom de l'insécurité pourrait être estimée insuffisante, dans la mesure où des militaires ont participé durant ces conflits à des affrontements armés entre unités organisées, rappelant les combats des deux guerres mondiales. C'est pourquoi il a été décidé d'accorder la campagne simple, mesure qui a été étendue à tous les militaires sans distinguer entre les périodes de combat et les autres. Ces dispositions, qui tiennent compte de la spécificité des conflits d'AFN, appliquent justement les principes qui régissent les bonifications de campagne. Il n'est donc pas envisagé de les modifier.
