@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010432499
+
+- Question : [SEQ010432499](seq010432499.md) — Délit pour offense à chef d'Etat étranger
+
+## Réponse
+
+*Justice, JO du 2001-07-26, page 2481*
+
+La garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire qu'il n'est pas actuellement envisagé d'abroger les dispositions de l'article 36 de la loi du 29 juillet 1881 sur la liberté de la presse réprimant l'offense envers les chefs d'Etat étrangers. Cette disposition a été récemment modifiée par la loi du 15 juin 2000 renforçant la protection de la présomption d'innocence et les droits des victimes, qui a supprimé la peine d'un an d'emprisonnement auparavant encourue. Par ailleurs, si une jurisprudence ancienne a considéré que les personnes poursuivies du chef de ce délit ne pouvaient juridiquement, comme en matière de diffamation, invoquer l'exceptio veritatis à titre de moyen de défense, il demeure que les tribunaux jugent l'infraction non constituée si les propos contestés ne consistent pas en un abus du droit de libre expression. Ce délit de presse doit en effet être interprété au regard des dispositions constitutionnelles et conventionnelles qui garantissent la liberté d'expression dans une société démocratique. Il convient enfin d'indiquer d'une part que la 17e chambre correctionnelle du tribunal de grande instance de Paris, par un jugement du 25 avril 2001 frappé d'appel, a estimé que les dispositions de l'article 36 de la loi précitée étaient incompatibles avec les principes d'égalité des armes et de liberté d'expression tels qu'énoncés par les articles 6 et 10 de la convention européenne des droits de l'homme et, d'autre part, que la Cour européenne des droits de l'homme, saisie d'une requête contestant l'article 36 précité, ne s'est pas encore prononcée à ce jour.
