@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990516438
+
+- Question : [SEQ990516438](seq990516438.md) — Indemnisation des porteurs d'emprunts russes
+
+## Réponse
+
+*Économie, JO du 1999-07-15, page 2418*
+
+Réponse. - Le recensement des porteurs de titres russes et des victimes de spoliations en Russie s'est achevé le 5 janvier 1999. Les titres déposés auprès du réseau du Trésor public sont en cours de recensement et de vérification, ce qui représente un travail considérable en raison de la variété des titres et de leur grand nombre. Les résultats définitifs seront connus dans quelques semaines et rendus publics, tout comme les conclusions du rapport que remettra au Gouvernement la commission présidée par M. Jean-Claude Paye, lorsqu'elle aura terminé ses travaux. Sur cette base, le Gouvernement transmettra dans les meilleurs délais au Parlement une proposition d'indemnisation, afin de lire rapidement dans la transparence et l'équité, le dossier des emprunts russes et des spoliations en Russie. Le montant de l'indemnisation sera égal à celui versé par la Russie qui s'est engagée à payer à la France 400 millions de dollars. Cette somme sera augmentée d'un montant équivalent au produit du placement de la somme versée par la Russie dans l'attente de l'indemnisation. Suite à cette indemnisation, la France considérera ces contentieux comme définitivement clos. La Russie honore aujourd'hui ses obligations de paiement en temps et en heure. Le montant de l'indemnisation versée par la Russie représente, dans la situation de ce pays, le mieux que la France pouvait espérer. La comparaison avec les négociations engagées par les banques n'est, de ce point de vue, pas fondée pour deux raisons. Tout d'abord, la Russie n'a jamais reconnu devoir acquitter le service des emprunts russes, ce qui n'est pas le cas de sa dette bancaire. Par ailleurs, les banques n'ont pas obtenu dans le cadre du club de Londres de remboursement de leurs créances mais un rééchelonnement.
