@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951112946
+
+- Question : [SEQ951112946](seq951112946.md) — Prise en charge des frais d'aide ménagère des agents de la fonction publique territoriale et hospitalière victimes d'accidents du travail
+
+## Réponse
+
+*Travail, JO du 1996-03-28, page 753*
+
+Réponse. - Les fonctionnaires et stagiaires de la fonction publique hospitalière, victimes d'un accident de service ou d'une maladie professionnelle ont droit au remboursement par leur établissement des honoraires médicaux et des frais directement entraînés par la maladie ou l'accident même après leur mise à la retraite (article 41 de la loi no 86-33 du 9 janvier 1986 modifiée portant dispositions statutaires relatives à la fonction publique hospitalière). Une liste indicative des frais susceptibles d'être pris en charge par l'établissement est donnée par la circulaire du 30 janvier 1989 relative à la protection sociale des fonctionnaires et stagiaires de l'Etat ; elle s'applique aux agents de la fonction publique hospitalière et concerne : les honoraires et frais dus aux praticiens et auxiliaires médicaux, les centres d'hospitalisation et de cure thermale, les frais pharmaceutiques, d'appareillages, de transport et de réadaptation professionnelle permettant le reclassement dans un autre emploi ; aucune limitation de principe à cette prise en charge n'est opposable à l'agent, mais l'établissement effectue dans tous les cas à la fois la vérification matérielle des dépenses et l'examen de leur utilité dont la preuve doit être strictement apportée par l'agent. En ce qui concerne les agents non titulaires, il convient de se référer aux dispositions de l'article L. 431-1 du code de la sécurité sociale qui prévoit la prise en charge des mêmes frais par les caisses de sécurité sociale, le contrôle de la légitimité des dépenses exposées étant alors assuré par le médecin contrôleur de la caisse.
