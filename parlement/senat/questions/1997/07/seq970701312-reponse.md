@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701312
+
+- Question : [SEQ970701312](seq970701312.md) — Etablissement coiffant la Société nationale des chemins de fer français (SNCF) et le Réseau ferré de France (RFF)
+
+## Réponse
+
+*Équipement, JO du 1998-08-20, page 2695*
+
+Réponse. - Le 19 juin dernier, le ministre de l'équipement, des transports et du logement a annoncé la création d'un Conseil supérieur du service public ferroviaire afin de renforcer l'efficacité et l'unicité du service public ferroviaire. Ce conseil supérieur aura ainsi pour missions essentielles de veiller à l'évolution équilibrée des entreprises du secteur public ferroviaire, la SNCF et RFF, et au respect de leurs missions de service public ; de concourir à la coordination entre ces entreprises ; de débattre des stratégies de développement du transport ferroviaire et de la consistance du réseau ; d'évaluer l'efficacité économique et sociale globale et l'organisation du secteur ferroviaire pour proposer, s'il y a lieu, les évolutions nécessaires. Ce conseil pourrait, en outre, être une instance de consultation sur les décisions concernant le transport ferroviaire, les projets de textes d'ordre législatif ou réglementaire nationaux ou communautaires, les schémas de service de transport, les conventions entre les deux entreprises. Il publiera un rapport annuel d'évaluation de la mise en uvre des orientations gouvernementales. Il devra évaluer dans les trois ans, l'effet de la réforme du secteur ferroviaire et formuler, le cas échéant, toute proposition utile. Le ministre de l'équipement, des transports et du logement a également annoncé qu'il consulterait les groupes parlementaires, les dirigeants des entreprises SNCF et RFF, les syndicats représentatifs des personnels, ainsi que les associations d'usagers afin de parfaire le dispositif proposé. Ces consultations ont déjà commencé.
