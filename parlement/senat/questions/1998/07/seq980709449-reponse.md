@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980709449
+
+- Question : [SEQ980709449](seq980709449.md) — Auxiliaires de La Poste
+
+## Réponse
+
+*Industrie, JO du 1998-10-22, page 3359*
+
+Réponse. - A la suite du décret nº 85-1158 du 30 octobre 1985 fixant les conditions exceptionnelles d'intégration de personnels non titulaires au ministère des PTT dans des corps de fonctionnaires de catégorie D et de sa déclinaison au plan réglementaire au sein de l'administration des PTT, et de l'arrêt du Conseil d'Etat du 29 décembre 1993 " Mme Corbard et autres ", La Poste met en uvre la titularisation des auxiliaires de droit public occupant des emplois permanents, alors même qu'ils exerçaient leurs fonctions à temps incomplet, dans la mesure où par ailleurs ils remplissent l'intégralité de conditions fixées par le décret précité. A ce titre, les situations de certains auxiliaires qui, en 1985, avaient été exclus du bénéfice de la titularisation sont, à ce jour, en cours de réexamen afin de les rétablir dans leur droit. Les modalités et le déroulement des opérations de traitement des requêtes ont fait l'objet de directives par le biais d'une note de service nº 179 du 25 juillet 1997. Le décret nº 85-1158 du 30 octobre 1985 et l'article 73 de la loi nº 84-16 du 11 janvier 1984 fixent les modalités d'application de la titularisation et de la nomination des personnels non titulaires accédant par des voies exceptionnelles d'intégration à un corps de fonctionnaires, notamment en fonction de l'intérêt du service. C'est ainsi que, dans le cadre de la mise en uvre des opérations d'appel à l'activité des agents remplissant les conditions de titularisation, La Poste propose aux agents réunissant toutes les conditions juridiques requises, un poste parmi les postes vacants offerts au recrutement, en Ile-de-France, conformément aux prescriptions réglementaires de comblement des postes en vigueur.
