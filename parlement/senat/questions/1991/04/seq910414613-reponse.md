@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910414613
+
+- Question : [SEQ910414613](seq910414613.md) — Priorités du Fonds d'aide à l'expansion de la presse française à l'étranger
+
+## Réponse
+
+*Communication, JO du 1992-03-26, page 723*
+
+Réponse. - Les crédits du fonds d'aide à l'expansion de la presse française à l'étranger pour 1991 ont été répartis entre soixante-cinq bénéficiaires. Les plus importants sont : les N.M.P.P. pour l'exportation des quelques 600 titres qu'elles diffusent dans tous les pays du monde et Unipresse pour la promotion des abonnements au cours des expositions organisées dans une soixantaine de pays. Les dossiers individuels présentés par les éditeurs représentent cent cinquante titres environ. Ces subventions servent au financement des plans de promotion présentés par les éditeurs ou réalisés par les deux organismes collectifs d'exportation de la presse. Les pays bénéficiaires varient selon l'importance du titre, la discipline qu'il représente, les résultats enregistrés l'année précédente, et les orientations proposées par le ministère des affaires étrangères. En 1991, les pays prioritaires ont été le Canada (Ontario, Québec), les Etats-Unis (Floride), l'Egype et Madagascar. De telles orientations sont maintenues sur plusieurs années car leur incidence ne peut se faire sentir que sur la durée. Des actions particulières précédées par des études, seront menées, notamment par les N.M.P.P., dans toute l'Europe de l'Est, en particulier en Pologne, en Tchécoslovaquie et en Hongrie, afin de jeter les bases d'une distribution durable de la presse française. Les orientations du fonds d'aide à l'expansion de la presse française à l'étranger ne peuvent donc pas être considérées comme ponctuelles, dans la mesure où elles sont arrêtées en coordination avec celles qui président à la diffusion de la pensée et de la culture françaises à l'étranger.
