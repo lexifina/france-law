@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860702340
+
+- Question : [SEQ860702340](seq860702340.md) — Organisation des sapeurs-pompiers en milieu rural
+
+## Réponse
+
+*Intérieur, JO du 1986-10-16, page 1459*
+
+Réponse. -L'objectif visé par l'arrêté ministériel du 29 juin 1981, pour ce qui concerne les centres de première intervention (C.P.I.), est de pallier l'éloignement des centres de secours principaux et des centres de secours. L'intervention rapide du petit détachement du C.P.I. permet de prendre les premières dispositions en attendant les renforts. L'effectif de corps de première intervention reste fixé à douze hommes comme le rappelle l'article 12 de l'arrêté susvisé, mais il précise que la garde permanente ou susceptible de rejoindre le corps dans un délai de cinq minutes après un premier appel se compose de quatre hommes : un sous-officier et trois gradés ou sapeurs. S'agissant du matériel, l'arrêté susvisé prévoit que l'armement d'un corps de première intervention comprend, au minimum, un engin porteur d'eau muni d'une pompe de 500 litres-minute et, dans les localités où la densité des bouches d'incendie est suffisante, un véhicule de transport du personnel et de matériel avec une moto-pompe de 500 litres-minute. La rapidité d'intervention impose, bien entendu, la possession d'un matériel automobile. Faute de disposer d'un tel équipement, considéré comme minimum, aucun corps de sapeur-pompier ne pourrait être en mesure de remplir sa mission qui est de réaliser les premiers sauvetages et enrayer la progression du feu. Aussi, la commission administrative du service départemental d'incendie serait fondée à estimer que la commune concernée ne dispose pas d'un service d'incendie suffisamment équipé. Elle pourrait alors lui appliquer le taux de cotisation prévu pour les communes non dotées de moyens de secours et, au besoin, demander la dissolution du corps.
