@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920822390
+
+- Question : [SEQ920822390](seq920822390.md) — Fonctionnement du Fonds d'initiation à la formation des femmes
+
+## Réponse
+
+*Droits des femmes, JO du 1992-10-29, page 2432*
+
+Réponse. - Le décret n° 92-505 du 10 juin 1992 relatif aux fonds d'incitation à la formation des femmes en difficulté vient d'être complété par la circulaire DE DFP 92/33 - SDF 92/14 du 17 août 1992. Cette circulaire apporte des précisions sur les fonds qui peuvent être mis en place au plan régional ou départemental et sont constitués, d'une part, par des crédits d'Etat (ministère du travail, de l'emploi et de la formation professionnelle et secrétariat d'état aux droits des femmes et à la consommation) et, d'autre part, par des cofinancements mobilisés au plan local dans le cadre d'un fonds de concours créé à cet effet. L'aide est attribuée individuellement par le préfet de région, après avis du comité local, aux femmes qui en auront fait préalablement la demande. Cette aide est nominative. Elle est calculée au prorata des jours de présence dans le mois considéré et elle est versée mensuellement. L'aide est fixée selon les barèmes suivants : s'agissant de l'indemnisation des frais de garde ou des frais d'aide à domicile, le forfait est calculé par rapport au montant journalier habituellement pratiqué dans le département multiplié par le nombre de jours de garde effective. En tout état de cause, ce montant journalier est compris entre deux et cinq fois le SMIC horaire brut, s'agissant des indemnités de transport : 216 francs par mois (15 à 250 km) et 350 francs par mois (plus de 250 km). S'agissant des indemnités d'hébergement : 534 francs par mois (50 à 250 km) et 668 francs par mois (plus de 250 km). Il n'y a pas de cumul entre les indemnités de transport et les indemnités d'hébergement.
