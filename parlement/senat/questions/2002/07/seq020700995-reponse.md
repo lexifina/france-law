@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700995
+
+- Question : [SEQ020700995](seq020700995.md) — Terminologie juridique
+
+## Réponse
+
+*Justice, JO du 2002-11-28, page 2888*
+
+Le garde des sceaux, ministre de la justice, soucieux de rapprocher la justice des citoyens, partage pleinement l'intérêt de l'honorable parlementaire pour la simplification et la modernisation du langage juridique. Après une période d'interruption, les travaux de la commission de terminologie et de néologie en matière juridique vont être relancés à cette fin. Cette commission, créée en application du décret n° 96-602 du 3 juillet 1996 relatif à l'enrichissement de la langue française et qui siège au ministère de la justice, a précisément pour vocation de proposer les évolutions souhaitables du vocabulaire. En outre, le ministère de la justice est représenté, par le directeur des affaires civiles et du sceau, au sein du comité d'orientation pour la simplification du langage administratif. Ce comité a déjà publié un guide et un lexique, qui, pour une part au moins, intéressent le langage juridique. La position exprimée par l'honorable parlementaire à propos de l'expression " lu et approuvé " pourra donc être prise en compte et nourrir cette réflexion. Cependant, cette expression particulière comporte d'autres effets que purement terminologiques ou pratiques. Comme toute mention figurant dans un acte juridique, quand bien même ferait-elle souvent figure de simple clause de style, cette formule concourt au contenu et à la portée de cet acte. Elle peut donc éventuellement être prise en considération, notamment en cas de difficulté ou contestation, au civil comme au pénal. Le principe de la liberté contractuelle des parties, dans les limites fixées par les textes et sous le contrôle des juridictions, leur laisse en outre le choix de décider des mentions qui leur paraissent devoir figurer dans les actes qu'elles signent.
