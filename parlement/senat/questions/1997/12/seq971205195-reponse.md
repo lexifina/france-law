@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971205195
+
+- Question : [SEQ971205195](seq971205195.md) — Supplément de loyer de solidarité
+
+## Réponse
+
+*Logement, JO du 1998-03-05, page 768*
+
+Réponse. - Le bilan de la loi relative au supplément de loyer de solidarité est en cours. Un rapport a été transmis au Parlement. Un avis des conseils départementaux de l'habitat sera disponible dès ce premier trimestre 1998. Ces éléments serviront de base afin d'étudier une modification de la législation en vigueur. Quant au parc de logements locatifs sociaux, il a pour vocation d'accueillir les ménages les plus modestes pour lesquels l'accès à un logement du parc privé s'avère difficile. Les plafonds de ressources exigés pour l'obtention d'un logement locatif social permettent à 57 % des ménages d'accéder à un tel logement. Cette proportion varie certes en fonction des zones géographiques et de la composition familiale : 52 % en Ile-de-France, 56 % dans les agglomérations de plus de 100 000 habitants en province, 60 % dans toutes les autres communes. Les objectifs retenus par la loi de finances pour 1998 correspondent aux priorités politiques du Gouvernement et les produits qui peuvent être financés correspondent aux besoins sociaux repérés. Ainsi sur les 80 000 prêts locatifs aidés (PLA) prévus, 20 000 sont des PLA à loyer minoré et 10 000 sont des PLA d'intégration offrant des loyers réduits grâce à une subvention majorée qui s'ajoute à l'aide accordée à travers le taux de TVA réduit. La réalisation de ce programme comportant 10 000 logements PLA d'intégration destinés aux ménages cumulant des difficultés économiques et sociales et de 20 000 logements PLA à loyer minoré pour les ménages rencontrant des difficultés financières (ressources égales ou inférieures à 60 % des plafonds de ressources PLA) témoigne de l'intérêt du Gouvernement pour l'accès au logement des ménages les plus défavorisés, qui constitue un axe prioritaire de sa politique en matière d'habitat.
