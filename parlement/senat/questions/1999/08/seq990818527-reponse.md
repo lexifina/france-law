@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990818527
+
+- Question : [SEQ990818527](seq990818527.md) — Service national : report d'incorporation pour raison professionnelle
+
+## Réponse
+
+*Défense, JO du 1999-10-21, page 3476*
+
+Réponse. - La loi nº 97-1019 du 28 octobre 1997 portant réforme du service national a ajouté dans le code du service national un article L. 5 bis A qui vise à favoriser l'insertion professionnelle des jeunes, en distinguant les contrats de droit privé à durée déterminée (CDD) de ceux à durée indéterminée (CDI). Le décret nº 98-180 du 17 mars 1998 portant application de la partie Législative du code du service national et le décret nº 98-1066 du 26 novembre 1998 modifiant la partie Réglementaire du code du service national prévoient les conditions de mise en uvre du mécanisme de report en faveur des Français titulaires d'un contrat de travail de droit privé. La loi du 28 octobre 1997 précise expressément que, pour déposer une demande, l'intéressé doit être en situation de report au titre des articles L. 5 (2º) ou L. 5 bis. Ainsi, le demandeur qui bénéficie d'un report au titre de l'article L. 5 bis A pour un contrat de travail à durée déterminée et dont le contrat est transformé en durée indéterminée ne remplit plus l'une des conditions fixées par le législateur. Cependant, si le jeune homme se trouve dans le cas de la reconduction implicite de son contrat, conformément aux termes de l'article L. 122-3-10 du code du travail, la poursuite du CDD au-delà de son échéance, en dehors de l'hypothèse du renouvellement ou du report du terme et sans qu'ait été conclu un nouveau contrat, le transforme automatiquement en CDI. Dans ce cas, le contrat de travail est requalifié rétroactivement en CDI. Il y a donc confusion des deux contrats et le CDD, devenant CDI, est réputé l'avoir été depuis la signature du contrat.
