@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030607925
+
+- Question : [SEQ030607925](seq030607925.md) — Conditions d'attribution de la médaille du travail
+
+## Réponse
+
+*Fonction publique, JO du 2003-07-31, page 2474*
+
+Le décret n° 84-591 du 4 juillet 1984 relatif à la médaille d'honneur du travail fixe les modalités et les conditions d'attribution de cette distinction pour les salariés de droit privé. En ce qui concerne la fonction publique, de nombreuses décorations ministérielles sont susceptibles d'être remises à ses agents, dans la mesure où la quasi-totalité des départements ministériels disposent d'une, voire de plusieurs décorations leur permettant d'honorer les agents particulièrement méritants. A cet égard, sans prétendre à l'exhaustivité, il est possible de citer l'ordre des palmes académiques décerné par le ministère de l'éducation nationale, l'ordre des arts et lettres attribué par le ministère de la culture, l'ordre du mérite agricole du ressort du ministère de l'agriculture et de la pêche, la médaille de la protection judiciaire de la jeunesse ou la médaille pénitentiaire du ministère de la justice, la médaille d'honneur de la police française, la médaille des sapeurs-pompiers du ministère de l'intérieur, la médaille d'honneur des affaires étrangères... Par ailleurs, le ministère de l'intérieur peut décerner la médaille d'honneur régionale, départementale et communale aux agents publics relevant des collectivités territoriales et de leurs établissements publics ainsi qu'aux agents de l'Etat ayant rendu des services pour le compte de ces collectivités publiques. Enfin, comme tous les citoyens, suivant qu'ils ont rendu des services éminents, distingués ou honorables, les agents de la fonction publique peuvent prétendre à l'obtention des distinctions de la Légion d'honneur ou de l'ordre national du Mérite.
