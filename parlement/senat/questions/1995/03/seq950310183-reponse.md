@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950310183
+
+- Question : [SEQ950310183](seq950310183.md) — Réforme du fonctionnement des services des impôts en Seine-Saint-Denis
+
+## Réponse
+
+*Économie, JO du 1995-07-20, page 1444*
+
+Réponse. - La direction générale des impôts s'est engagée dans une profonde démarche de modernisation afin de mieux répondre aux attentes de la collectivité. Dans ce cadre, de nouvelles modalités d'organisation sont mises en place dans les centres des impôts afin d'améliorer les travaux d'assiette et de contrôle. Elles consistent notamment à regrouper autour de pôles distincts les services traitant de la fiscalité des personnes et ceux chargés de la fiscalité professionnelle, en assurant parallèlement une séparation plus nette entre les tâches de gestion des dossiers professionnels et les travaux de vérification sur place. Dans le département de la Seine-Saint-Denis, la nouvelle organisation, arrêtée après concertation avec les personnels, se traduira par la création d'une brigade départementale de vérification supplémentaire, l'aménagement des inspections chargées des travaux de gestion et le rattachement de l'assiette de la taxe professionnelle au pôle de la fiscalité professionnelle. Cette opération, qui prend en compte l'évolution économique du département et les spécificités de son tissu fiscal, s'accompagne du renfort de 41 emplois de contrôleur dans l'ensemble des services concernés depuis le 1er septembre 1993. Elle permettra une amélioration du contrôle sur place des entreprises, désormais principalement confié à des agents spécialisés en cette matière, rassemblés en brigades et dirigés par un cadre supérieur, ainsi qu'une meilleure assiette de la taxe professionnelle. Ces aménagements n'ont aucune incidence sur le fonctionnement du centre départemental d'assiette dont les missions ne sont pas modifiées.
