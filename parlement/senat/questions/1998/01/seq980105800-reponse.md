@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980105800
+
+- Question : [SEQ980105800](seq980105800.md) — Prévention des risques naturels : programmes d'entretien des milieux et de maintenance des ouvrages de protection
+
+## Réponse
+
+*Aménagement du territoire, JO du 1998-08-20, page 2657*
+
+Réponse. - La ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question concernant la prévention des risques naturels. Le Comité interministériel de l'évaluation de la politique publique sur la prévention des risques naturels propose effectivement, dans sa proposition nº 11, de recadrer et dynamiser les programmes d'entretien des milieux et de maintenance des ouvrages de protection, de façon à engager des travaux qui réduisent le plus efficacement la vulnérabilité. L'utilité des ouvrages de protection auxquels il est fait référence dans le rapport (digues, ouvrages RTM, voire débroussaillement en matière de feu de forêts que l'on peut assimiler à des ouvrages) n'est pas discutable. Les difficultés actuelles rencontrées pour maintenir et entretenir ces ouvrages sont également de notoriété publique. L'Etat a relancé l'inventaire et le diagnostic de ces ouvrages, en s'appuyant sur les travaux récents du conseil général des ponts et chaussées sur les digues de protection existantes. Cependant, l'Etat ne peut, dans les circonstances actuelles, assumer la charge de l'entretien et de la réparation de tous ces ouvrages, et n'a pas vocation à réaliser des ouvrages de protection qui sont légalement de la compétence des propriétaires privés ou des collectivités territoriales. Au-delà de cette constatation, la politique du ministère de l'aménagement du territoire et de l'environnement est de sensibiliser et mobiliser les collectivités locales intermédiaires (départements, ententes interdépartementales, régions, agences de l'eau), sur la gestion des ouvrages de prévention.
