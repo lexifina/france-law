@@ -1,9 +1,37 @@
 # Article 1
 
-La présente convention règle les rapports entre les employeurs et les salariés (personnel au sol) des entreprises françaises et étrangères dont l'activité relève du transport aérien énumérées ci-après par référence au code N.A.F. :
+1° La présente convention collective règle les rapports entre les employeurs et le personnel au sol, salarié des entreprises et établissements dont l'activité relève des industries du transport aérien énumérées ci-après :
 
-62.1 Z Transports aériens réguliers de personnes, marchandises et courrier sur des lignes régulières et selon des horaires déterminés.
+- transports aériens réguliers de personnes, marchandises et courrier sur des lignes régulières et selon des horaires déterminés ;
 
-62.2 Z Transports aériens non réguliers de personnes et de marchandises et courrier tels que charters (réguliers ou non), avions-taxis, locations d'avions avec pilote, excursions aériennes.
+- transports aériens non réguliers de personnes, marchandises et courrier tels que charters (réguliers ou non), avions-taxis, locations d'avions avec pilote, excursions aériennes.
 
-Le champ d'application géographique de la présente convention, qui n'est applicable qu'au personnel au sol des entreprises de transport aérien, comprend l'ensemble du territoire métropolitain et des départements d'outre-mer.
+Ces activités sont classées sous les codes 62.1z, 62.2z de la nomenclature d'activités française (NAF).
+
+2° Elle s'applique également aux employeurs et salariés des entreprises et établissements dont l'activité relève des services aéroportuaires d'assistance en escale des entreprises de transport aérien énumérés ci-après et qui ne relèvent pas d'une convention collective étendue :
+
+- assistance administrative au sol et supervision ;
+
+- assistance passagers ;
+
+- assistance bagages ;
+
+- assistance fret et poste ;
+
+- assistance opérations en piste ;
+
+- assistance nettoyage et service de l'avion ;
+
+- assistance carburant et huile ;
+
+- assistance entretien en ligne de l'avion ;
+
+- assistance opérations aériennes et administration des équipages ;
+
+- assistance transport au sol ;
+
+- assistance service commissariat.
+
+Ces activités sont classées sous le code 63.2e de la nomenclature d'activités française (NAF).
+
+3° La présente convention collective s'applique aux entreprises et établissements français ou étrangers exerçant sur le territoire métropolitain ou dans les départements d'outre-mer.
