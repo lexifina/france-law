@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990214100
+
+- Question : [SEQ990214100](seq990214100.md) — Situation de l'hôpital Saint-Camille à Bry-sur-Marne
+
+## Réponse
+
+*Santé, JO du 1999-12-09, page 4084*
+
+Réponse. - L'honorable parlementaire a appelé l'attention sur le devenir des urgences à l'hôpital privé participant au service public Saint-Camille, à Bry-sur-Marne (Seine-et-Marne), en s'inquiétant de ce qui serait prévu à cet égard par le schéma régional de l'organisation sanitaire (SROS). Le volet du SROS, arrêté le 12 octobre 1998, relatif à l'accueil et au traitement des urgences en Ile-de-France, n'a pas envisagé de supprimer des moyens à l'hôpital Saint-Camille ni d'y fermer le service des urgences. Conformément aux dispositions réglementaires, les établissements ont pu, après cette révision du SROS, faire acte de candidature à une autorisation pour exercer l'activité de soins dont il s'agit. Ainsi l'hôpital Saint-Camille a-t-il déposé, le 29 mars 1999, auprès de l'agence régionale d'hospitalisation de l'Ile-de-France, une demande d'autorisation de service d'accueil et de traitement des urgences (SAU). Le rapporteur en comité régional de l'organisation sanitaire et sociale (CROSS) a estimé qu'en matière d'urgence la couverture des besoins de la population résidant sur le territoire d'attractivité de cet hôpital nécessitait la mise en place d'un SAU, dans le cadre du budget annuel déjà alloué et du projet de communauté d'établissements au cours de préparation entre l'hôpital Saint-Camille et le centre hospitalier de Lagny. Lors de la séance du CROSS du 2 juillet 1999, le dossier a reçu avis favorable. La commission exécutive de l'agence régionale d'hospitalisation, le 10 septembre 1999, a autorisé l'Association des pères Camilliens à faire fonctionner à l'hôpital Saint-Camille un service d'accueil et de traitement des urgences tel que ce service est réglementé par le code de la santé publique.
