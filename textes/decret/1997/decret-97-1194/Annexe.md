@@ -3979,3 +3979,19 @@ Décisions prises pour l'exécution des décisions de justice liées à l'activi
 Décisions sur les demandes d'indemnisation amiables des usagers et des tiers au titre des préjudices de toute nature liés à l'activité des services du ministère.
 
 Décisions relatives aux établissements d'enseignement supérieur placés sous la tutelle du ministre et décisions d'attribution des titres et diplômes délivrés par ces établissements.
+
+Décisions relatives aux greffiers de tribunal de commerce
+
+Décret n° 69-389 du 18 avril 1969 relatif aux modalités de transfert des registres du commerce et des sociétés et des registres des agents commerciaux et aux modalités d'indemnisation des greffiers des tribunaux de commerce et des auxiliaires de justice en cas de modification du ressort des juridictions commerciales
+
+1
+
+|
+
+Fixation du montant des indemnités dues en cas de modification du ressort des tribunaux de commerce.
+
+|
+
+2e alinéa de l'article 12-3.
+
+|
