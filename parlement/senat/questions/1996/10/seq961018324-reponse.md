@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961018324
+
+- Question : [SEQ961018324](seq961018324.md) — Viticulture et projet d'arrêté relatif aux installations classées pour la protection de l'environnement
+
+## Réponse
+
+*Environnement, JO du 1997-03-27, page 958*
+
+Réponse. - Le ministre de l'environnement a pris connaissance avec intérêt de la question posée par l'honorable parlementaire concernant les préoccupations des producteurs viticoles sur le projet relatif aux installations classées pour la protection de l'environnement. Les activités viticoles sont à l'origine de pollutions potentiellement importantes dues à la charge de leurs effluents en matières organiques. L'importance de cette pollution se trouve en outre aggravée par le caractère saisonnier de l'activité et par la concentration régionale des établissements, même si, individuellement, ils ont une capacité de production modeste. Ces constatations ont motivé le classement de cette activité dans la nomenclature des installations classées pour la protection de l'environement sous la rubrique no 2251 et à partir d'une capacité de production annuelle de 500 hectolitres. Les prescriptions techniques de fonctionnement applicables à ces établissements, dont la préparation revêt un caractère d'urgence pour éviter de bloquer l'évolution des structures, ont donc été étudiées en tenant compte au maximum : de l'installation des chais viticoles dans le paysage rural et notamment dans les villages et les bourgs ; du caractère saisonnier de l'activité. C'est ainsi qu'aucune distance d'implantation vis-à-vis des tiers n'est retenue. Par ailleurs, une grande variété de possibilités de traitement des effluents (traitement privé, collectif, réseau communal, épandage) serait laissée à l'appréciation de l'exploitant. Compte tenu des préoccupations exprimées par les producteurs vinicoles, une nouvelle concertation sera engagée avant la parution de ces prescriptions techniques.
