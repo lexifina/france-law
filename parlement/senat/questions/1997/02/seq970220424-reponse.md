@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970220424
+
+- Question : [SEQ970220424](seq970220424.md) — Insuffisance du dispositif juridique en matière d'archéologie
+
+## Réponse
+
+*Culture, JO du 1997-03-13, page 766*
+
+Réponse. - Il convient de rappeler qu'un des objectifs - et des intérêts - de la prise en compte de l'archéologie suffisamment en amont de la réalisation d'un projet immobilier ou de travaux est la possibilité de recherche, par l'aménageur et le service en charge de l'archéologie, de solutions techniques alternatives ou de parties modifiées de manière à réduire, voire à éviter l'atteinte aux vestiges archéologiques présents sur le terrain d'assiette. Par ailleurs, la participation financière de l'Etat, à hauteur maximale de 50 % du coût hors taxe des travaux archéologiques nécessaires, peut intervenir dans un certain nombre de cas, en considération particulièrement de la nature de l'opération envisagée et de l'importance des travaux archéologiques qui s'imposent. Il est vrai que de telles possibilités ne suffisent pas dans les cas où se rencontrent à la fois un aménageur aux ressources limitées et des travaux archéologiques coûteux. De plus, l'absence complète de coopération de l'aménageur a fait apparaître les limites des textes qui permettent le fonctionnement de l'archéologie préventive. Ainsi l'organisation d'assises nationales de l'archéologie qui vient d'être décidée doit-elle permettre de faire émerger un certain nombre d'orientations et, les choix politiques nécessaires étant faits, de fixer le cadre juridique et financier de l'archéologie préventive. Il a été rappelé lors de l'annonce de la décision ci-dessus mentionnée que toute modification de la législation dans le domaine en question devra s'inscrire dans le cadre de la Convention européenne pour la protection du patrimoine archéologique signée à Malte le 16 janvier 1992 et dont la ratification a été autorisée par la loi no 94-926 du 26 octobre 1994.
