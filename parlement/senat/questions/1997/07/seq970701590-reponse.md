@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701590
+
+- Question : [SEQ970701590](seq970701590.md) — Distribution des films français dans les salles de cinéma en France
+
+## Réponse
+
+*Culture, JO du 1997-10-02, page 2628*
+
+Réponse. - Selon les indicateurs statistiques communiqués par l'Observatoire de la diffusion et de la fréquentation cinématographiques, en 1996, un film français a disposé de 70 établissements sur l'ensemble de l'Hexagone contre 150 pour un film américain. S'agissant de moyenne, il convient toutefois de nuancer la portée d'une telle donnée statistique ; en effet, la comparaison porte sur des ensembles de nature sensiblement différente : d'une part, la totalité de la production française et, d'autre part, la fraction exportée de la production américaine, constituée des films ayant déjà obtenu les meilleures performances sur le marché nord-américain. Il faut signaler que les films français bénéficient d'une durée d'exposition nettement plus importante que les films américains. Au cours de l'année précédente, de nombreux films français ayant un potentiel commercial comparable ont pu bénéficier d'importantes conditions de sortie (plus de 350 établissements) : " le Jaguar ", " Hommes, femmes, mode d'emploi ", " Pédale douce ", " Beaumarchais ", " Ridicule ", " le Huitième Jour ". Au premier semestre 1997, des films comme " le Cinquième Elément " et " La vérité si je mens " (entre autres) ont également disposé d'une diffusion comparable. En outre, le taux de séances consacrées aux films européens est en forte progression en 1996 : 47,2 % contre 42,5 % en 1995. Il convient de rappeler que des aides financières (sélectives et automatiques) permettent de soutenir la sortie des films français dans des combinaisons de salles importantes. Ainsi, l'aide au tirage de copies permet d'alimenter plus rapidement en copies le milieu rural et les petites villes et d'accroître les entrées sur les villes moyennes.
