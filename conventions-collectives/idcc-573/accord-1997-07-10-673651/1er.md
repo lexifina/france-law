@@ -1,0 +1,3 @@
+# Article 1er
+
+En application des accords nationaux interprofessionnels du 10 février 1969, du 20 octobre 1986 sur l'emploi, du 3 juillet 1991 sur la formation et le perfectionnement professionnel modifié par les avenants du 8 février 1992 et du 5 juillet 1994 et de la loi du 31 décembre 1991 relative à la formation professionnelle et à l'emploi, les organisations signataires conviennent d'instituer une commission paritaire nationale de l'emploi et de la formation professionnelle (CPNEFP) de la convention collective nationale des commerces de gros (CCN 3044).
