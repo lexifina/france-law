@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940506316
+
+- Question : [SEQ940506316](seq940506316.md) — Zones d'accueil pour les populations non-sédentaires
+
+## Réponse
+
+*Intérieur, JO du 1994-08-11, page 2009*
+
+Réponse. - La loi no 90-449 du 31 mai 1990 dispose, dans son article 28, que les communes de plus de 5 000 habitants doivent prévoir une aire aménagée pour le stationnement et le séjour des gens du voyage, sur leur territoire ou dans le cadre intercommunal. En application de ce même article, les préfets sont chargés d'élaborer un document d'ensemble, le schéma départemental d'accueil des gens du voyage, et à ce titre animent et coordonnent les actions dans ce domaine en concertation avec les élus, les associations de gens du voyage et tous les services départementaux concernés ; la charge financière des opérations est répartie entre l'Etat, le département et les communes. L'enquête diligentée en avril 1994 par les services du ministère de l'intérieur et de l'aménagement du territoire a démontré que l'élaboration et la mise en oeuvre de ces schémas ont nettement progressé par rapport à la précédente enquête effectuée en 1992, puisque vingt-six départements ont désormais un schéma élaboré en cours de mise en oeuvre (contre sept en 1992). Plusieurs problèmes restent toutefois à régler dans différents départements, qui tiennent soit à l'aspect financier de l'opération, soit à l'absence de terrains disponibles dans les zones fortement urbanisées, soit aux réticences des élus et de la population. Les départements de la région parisienne n'échappent pas à ces difficultés, et là encore les préfets poursuivent les négociations en vue de rechercher les solutions adéquates : s'agissant d'un problème dans lequel interviennent de nombreux paramètres, l'application des dispositions de la loi du 31 mai 1990 s'inscrit nécessairement dans la durée.
