@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001128857
+
+- Question : [SEQ001128857](seq001128857.md) — Transfert des informations fiscales aux collectivités locales
+
+## Réponse
+
+*Économie, JO du 2001-04-05, page 1172*
+
+Réponse. - Les services fiscaux communiquent chaque année aux collectivités locales et aux groupements de communes à fiscalité propre une copie des rôles généraux d'impôts locaux émis à leur profit. Ces copies de rôles sont proposées aux collectivités sur différents supports : papier, microfiches, cartouches, bandes magnétiques (jusqu'en 2000). Depuis 1999, les communes les plus importantes, leurs groupements, les départements et les régions peuvent, sur leur demande, recevoir les rôles d'impôts locaux sur cédérom. Le cédérom est d'utilisation plus simple et plus souple que les bandes ou les cartouches et ne nécessite pas l'acquisition de gros systèmes d'exploitation ; c'est pourquoi ce support est proposé à un nombre croissant de communes (communes de plus de 20 000 habitants en 1999, de plus de 10 000 habitants en 2000). Il n'est pas envisagé de modifier à court terme la structure actuelle des fichiers-rôles. Les fichiers des quatre taxes ont une format normalisé. Le choix de l'organisation des données a été effectué de telle sorte qu'il soit indépendant des logiciels utilisés par les collectivités locales pour leur traitement. En outre, la taille des fichiers, pour certaines collectivités importantes, est un élément qui limite la possibilité d'utiliser des tableurs d'usage courant. Enfin, l'orientation actuelle de la direction générale des impôts est de permettre aux usagers de l'administration d'accéder aux informations qu'elle détient par l'intermédiaire de serveurs de données accessibles par le réseau Internet. Dans ce cadre, l'administration mènera prochainement une étude sur la constitution d'un serveur des données issues des rôles d'impôts locaux et sur sa mise à disposition des collectivités locales.
