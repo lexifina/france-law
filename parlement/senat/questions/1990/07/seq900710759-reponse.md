@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900710759
+
+- Question : [SEQ900710759](seq900710759.md) — Français rapatriés du Gabon
+
+## Réponse
+
+*Affaires étrangères, JO du 1990-09-27, page 2087*
+
+Réponse. - Comme le sait l'honorable parlementaire, le Gouvernement a facilité le retour en France, par vols spécialement affrétés ou sur appareils de nos compagnies nationales, de 1983 Français résidant à Port-Gentil entre le 25 et le 30 mai. La grande majorité de ces personnes, pour la plupart des salariés de sociétés pétrolières, n'a pas sollicité l'aide de l'Etat. Seuls soixante-dix de nos compatriotes ont fait part de difficultés particulières aux agents de ce ministère chargés de les accueillir. Ils ont tous été assistés. Soixante-cinq d'entre eux ont bénéficié d'un hébergement temporaire dans le centre d'accueil et de transit de Vaujours, en région parisienne. En outre, le comité d'entraide aux Français rapatriés a accordé quarante-deux aides financières pour un montant de 59 000 francs correspondant à des dépenses de première nécessité et aux frais de voyage en province de ceux de nos ressortissants qui souhaitaient y rejoindre leurs proches. Enfin, une famille de cinq personnes, totalement démunie, a été prise en charge au titre de l'aide sociale dans un des foyers du comité d'entraide et a pu être réinsérée dans la vie active, dans le délai d'un mois. Il s'agit du seul cas de cette nature porté à la connaissance de ce ministère. D'une manière plus générale, il est à noter que nos compatriotes expatriés peuvent prétendre, dès leur retour en métropole, au bénéfice des avantages sociaux prévus par la loi, tels que le revenu minimum d'insertion ou les prestations familiales, pour lesquels l'ouverture des droits est immédiate. Afin de faciliter l'obtention des aides accordées par les services sociaux français, ce ministère délivre des attestations de rapatriement à nos ressortissants, qui sont contraints de regagner notre pays à la suite de troubles politiques.
