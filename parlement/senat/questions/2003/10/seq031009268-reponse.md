@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031009268
+
+- Question : [SEQ031009268](seq031009268.md) — Schémas d'organisation de la transfusion sanguine
+
+## Réponse
+
+*Santé, JO du 2004-01-01, page 39*
+
+Les propositions faites dans le schéma d'organisation de la transfusion sanguine (SOTS) de la région Ile-de-France concernant le dimensionnement des activités de collecte ont été fondées sur l'activité des sites de prélèvement constatée lors des années antérieures. En effet, outre l'importance du bassin de vie, l'accessibilité pour les donneurs, la mobilisation de la population en faveur du don de sang, la force de conviction avec laquelle les associations de donneurs font la promotion du don sont autant d'arguments qui expliquent les résultats d'un site de prélèvement. Par ailleurs, même si les besoins en sang des centres hospitaliers de ces secteurs sont importants, il existe une mutualisation des ressources en Ile-de-France, et au-delà en France, qui permet à l'Etablissement français du sang (EFS) de répondre à l'ensemble des demandes des établissements de santé. L'organisation des collectes sur les lieux de travail est programmée par l'EFS Ile-de-France au niveau de la région. Un planning est établi en fonction des besoins et de la disponibilité des entreprises qui acceptent d'informer leur personnel et d'accueillir les équipes de prélèvement dans leurs locaux. Notamment, des collectes régulières sont organisées à l'aéroport de Roissy - Charles-de-Gaulle. Enfin, concernant le cas particulier du site Avicenne, la remontée importante de l'activité de collecte de ce site a conduit l'EFS à renforcer les moyens mis à disposition et à proposer une activité plus importante que celle prévue dans le SOTS. S'agissant du site de Gonesse, l'activité est maintenue essentiellement dans le but de répondre aux besoins du secteur pour ce qui concerne l'autotransfusion.
