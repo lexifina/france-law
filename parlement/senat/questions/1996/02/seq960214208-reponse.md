@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960214208
+
+- Question : [SEQ960214208](seq960214208.md) — Projet d'installation d'un appareil d'imagerie par résonance magnétique au centre hospitalier intercommunal de Villeneuve-Saint-Georges
+
+## Réponse
+
+*Santé, JO du 1996-09-12, page 2368*
+
+Réponse. - L'honorable parlementaire souhaite être informé des projets d'implantation d'un IRM au centre hospitalier intercommunal de Villeneuve-Saint-Georges. Deux IRM fonctionnent actuellement dans le département du Val-de-Marne : l'un au CHU de Bicêtre et l'autre à l'hôpital Henri-Mondor à Créteil. Le schéma régional d'organisation sanitaire d'Ile-de-France, arrêté en 1994, retenait, pour de nouvelles implantations, l'ouest du Val-de-Marne, le nord-ouest de la Seine-Saint-Denis, l'axe Evry/Corbeil/Melun ou Villeneuve-Saint-Georges/Evry/Corbeil, la zone Poissy/Versailles/Saint-Germain-en-Laye ainsi que le centre du Val-d'Oise, mais précisait que les opérations prioritaires devaient porter sur les zones périphériques de l'ouest et du sud de la région. Le CHI de Villeneuve-Saint-Georges a ainsi présenté deux dossiers d'installation d'IRM en 1994 et en 1995 mais aucun n'a abouti favorablement : le premier, car le site de Versailles/Le Chesnay lui a été préféré compte tenu de l'avis favorable émis par le CNOSS qui avait à connaître de l'ensemble des demandes régionales, et le second, car la carte sanitaire était saturée. En effet, il n'existe à l'heure actuelle aucune place vacante à la carte sanitaire d'Ile-de-France où 32 appareils de ce type sont autorisés. Un projet différent a été présenté par l'établissement en 1995 dans le cadre du régime dit " expérimental " institué par l'article L. 716-1 du code de la santé publique, mais n'a pu être retenu au regard des éléments figurant au dossier, en raison de l'insuffisance de la compensation des dépenses résultant pour des organismes d'assurance maladie de la mise en service de cet appareil.
