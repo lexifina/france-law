@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930902758
+
+- Question : [SEQ930902758](seq930902758.md) — Politique d'aménagement du littoral
+
+## Réponse
+
+*Environnement, JO du 1994-03-17, page 596*
+
+Réponse. - Les dispositions de la loi no 86.2 du 3 janvier 1986 relative à l'aménagement, la protection et la mise en valeur du littoral sont nécessairement générales car elles doivent s'appliquer à l'ensemble des façades littorales de notre territoire. Il n'apparaît pas souhaitable de susciter des réformes de ce texte dont certaines des dispositions, précisées dans des décrets d'application sortis récemment, ne sont pas encore entièrement traduites dans les documents d'urbanisme. La législation actuelle permet d'ores et déjà de prendre en compte la grande diversité de nos façades maritimes puisque les article L. 146.1 et L. 111.1.1 du code de l'urbanisme prévoient que des prescriptions particulières peuvent être prises par décret en Conseil d'Etat, après avis ou sur propositions des conseils régionaux intéressés. Ces prescriptions sont de nature à préciser au cas par cas les dispositions interprétatives de la loi, comme les notions d'espace proche du rivage ou d'urbanisation limitée. La mise en oeuvre de cette possibilité permettrait d'engager de véritables schémas de cohérence. En ce qui concerne la commission départementale des sites perspectives et paysages, le ministre de l'environnement envisage à l'occasion du projet de loi qu'il présentera au Parlement prochainement, de la fusionner au sein d'une commission départementale de l'environnement. Cette nouvelle instance serait composée, à parts égales, de représentants des administrations de l'Etat, des collectivités territoriales, des organisations professionnelles, des associations de protection de l'environnement et personnalités qualifiées.
