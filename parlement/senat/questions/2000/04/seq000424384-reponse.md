@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000424384
+
+- Question : [SEQ000424384](seq000424384.md) — Attribution des programmes " Leader p "
+
+## Réponse
+
+*Aménagement du territoire, JO du 2000-10-05, page 3381*
+
+Réponse. - La ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question concernant le programme " Leader p ". La rédaction du projet de programme national " Leader p " a sensiblement été modifiée depuis la date de la question pour tenir compte des observations formulées. La version finalisée du 4 juillet 2000, adressée à la commission européenne pour approbation, prévoit en effet que le programme " Leader p " soutiendra en priorité - mais pas exclusivement - les territoires organisés en " pays " ou en parc naturel régional dans le respect des critères prévus dans la communication " Leader p ". Elle prévoit également de façon explicite l'articulation entre " Leader p " et la procédure " pays " en autorisant dorénavant le regroupement de territoires organisés, en accord avec la loi d'orientation pour l'aménagement et le développement durable du territoire. Ainsi, sous réserve de l'accord de la Commission, un territoire déjà organisé ou en cours d'organisation pourra proposer un périmètre au titre de " Leader p " identique, inférieur ou supérieur au périmètre d'organisation initial. Dans ce dernier cas, les regroupements de territoires, porteurs ensemble d'un projet " Leader p ", ne seront acceptés que si la thématique le justifie, l'ensemble des acteurs concernés souscrit à ce groupement, le projet commun proposé garde un caractère local émanant des communes et/ou de leurs regroupements et des acteurs économiques locaux, enfin si ce regroupement ne va pas à l'encontre de stratégies de territoire plus globales menées sur les territoires concernés.
