@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930802324
+
+- Question : [SEQ930802324](seq930802324.md) — Mise en valeur des produits français dans les grandes surfaces
+
+## Réponse
+
+*Entreprises, JO du 1993-10-21, page 1955*
+
+Réponse. - Un certain nombre de réflexions ont été engagées par divers organismes. Le ministère des entreprises et du développement économique participe à ces travaux par l'intermédiaire de ses départements ministériels et encourage vivement toute initiative devant permettre la mise en place d'un véritable partenariat avec toutes les composantes de la filière. Aussi s'est-il félicité de la démarche sénatoriale entreprise à ce sujet. Ce partenariat, s'appuyant sur un véritable dialogue, devrait viser à l'amélioration, d'une part, de la qualité du produit et, d'autre part, de l'information du consommateur. Le ministère a d'ailleurs engagé avec le ministère de l'industrie, des postes et télécommunications et du commerce extérieur, une réflexion sur les mesures proposées. Cependant, il ne paraît pas opportun que les propositions énoncées par la mission sénatoriale débouchent sur l'adoption de nouvelles mesurent réglementaires. En ce qui concerne la promotion des produits français, il paraît certes hautement souhaitable que tous les stades de la filière y contribuent activement. Cependant, les actions entreprises ne devront pas susciter des mesures de rétorsion de la part de nos partenaires extérieurs. Or la France a exporté en 1992 près de 24 p. 100 de sa production en fruits frais et près de 21 p. 100 de la production de légumes frais (en volume), même si le bilan des échanges extérieurs est déficitaire. Il est précisé que les centrales des grandes surfaces s'approvisionnent largement en produits nationaux. Toutefois, elles ont nécessairement recours à l'importation pour répondre aux souhaits des consommateurs qui veulent désormais trouver, en toutes saisons, des fruits et légumes frais et des produits exotiques.
