@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990516721
+
+- Question : [SEQ990516721](seq990516721.md) — Disparité des économies des pays de la zone Euro
+
+## Réponse
+
+*Économie, JO du 1999-12-30, page 4300*
+
+Réponse. - Les derniers chiffres disponibles ne montrent pas de profonde divergence entre les taux d'inflation des pays en rattrapage de la zone euro et celui observé en moyenne dans la zone euro. Eurostat estime que, en octobre 1999, l'inflation était de p 1,4 % dans la zone euro prise dans son ensemble, de p 2,4 % en Espagne et de p 2,8 % en Irlande, pays qui connaissent ces dernières années des taux de croissance très élevés (respectivement p 3,8 % et p 9 %). En outre, pour ces deux pays, le différentiel d'inflation avec le reste de la zone euro s'est stabilisé depuis le début de l'année 1999. L'objectif de la Banque centrale européenne d'assurer la stabilité des prix en moyenne dans la zone euro l'a conduite à définir des taux d'intérêt qui, en moyenne, sont plus adaptés mais qui peuvent poser des problèmes aux pays dont l'activité n'est pas en phase avec celle des autres économies de la zone euro. C'est alors notamment à la politique buddgétaire que revient le rôle d'assurer un meilleur équilibre macro-économique. Elle doit ainsi jouer un rôle stabilisateur en laissant jouer de manière contracyclique les stabilisateurs automatiques en recettes, tout en assurant le respect des engagements de dépenses. Ceci renforce la nécessité, depuis longtemps, soulignée par la France, de coordonner les politiques économiques, et notamment les politiques budgétaires. Cette coordination est déjà réalisée dans le cadre d'exercices institutionnels (examen des programmes de stabilité et de convergence des Etats membres et définition des grandes orientations des politiques économiques des Etats membres de l'Union) ou plus informel (rôle de l'Euro 11).
