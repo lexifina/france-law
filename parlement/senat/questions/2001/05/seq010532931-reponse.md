@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010532931
+
+- Question : [SEQ010532931](seq010532931.md) — Constitution dans les rectorats et les inspections académiques d'un véritable service médico-social
+
+## Réponse
+
+*Éducation, JO du 2001-07-12, page 2324*
+
+A la suite du rapport conjoint établi sur la santé scolaire par l'inspection générale de l'administration de l'éducation nationale (IGAEN) et par l'inspection générale des affaires sociales (IGAS) qui a été rendu public en février 1999, le ministère de l'éducation nationale a redéfini les orientations générales de sa politique de santé pour mieux l'adapter à l'évolution des besoins des élèves. La révision de la circulaire du 24 juin 1991, relative aux missions des médecins et des infirmières qui en a résulté, a été entreprise en concertation étroite avec les représentants de chaque profession et des organisations syndicales concernées et a donné lieu à la publication par le ministère de l'éducation nationale de nouvelles circulaires précisant les nouvelles missions et fonctions des médecins et des infirmières (BO spécial n° 1 du 25 janvier 2001). La révision de la circulaire du 11 septembre 1991, relative aux missions des assistants sociaux, est en cours d'élaboration et devrait être très prochainement publiée. Dans l'esprit de ces textes, la notion de service médical, infirmier et social est abandonnée au profit d'une mission de promotion de la santé en faveur des élèves qui a pour objectif de veiller à leur bien-être, de contribuer à leur réussite et de les accompagner dans la construction de leur personnalité individuelle et collective. La réalisation de ces objectifs repose sur un travail en équipe pluriprofessionnelle intégrant notamment les personnels infirmiers, médicaux et sociaux aux autres personnels, membres de la communauté éducative, chaque type de personnel apportant ses compétences dans le champ global de la promotion de la santé à l'école.
