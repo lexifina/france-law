@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990415962
+
+- Question : [SEQ990415962](seq990415962.md) — Petites et moyennes industries et environnement
+
+## Réponse
+
+*Aménagement du territoire, JO du 1999-06-17, page 2045*
+
+Réponse. - La ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question posée concernant les actions visant à faire prendre en compte l'environnement par les petites et moyennes entreprises. La ministre souligne tout d'abord que cette prise de conscience environnementale se traduit par une gamme élargie d'actions de la part des entreprises, industrielles ou autres, allant de la simple sensibilisation puis de l'analyse environnementale, jusqu'à la mise en place d'un système de management de l'environnement. C'est un tel système qui peut faire l'objet d'une certification ISO 14001, voire d'un enregistrement selon l'Ecoaudit européen. Puisque ces démarches sont d'inspiration volontaire de la part des entreprises, leur essor doit avant tout résulter de facteurs internes ou du jeu du marché (relations clients-fournisseurs par exemple). Le ministère de l'aménagement du territoire et de l'environnement encourage ces actions mais n'en est généralement pas un acteur par lui-même. Le ministère est très favorable aux actions collectives initiées au plan national ou régional, par les chambres de commerce et d'industrie, les conseils régionaux, entre autres. C'est à cet échelon qu'il est possible d'atteindre les petites et moyennes entreprises et de les convaincre de " sauter le pas " au moyen d'une aide technique ou organisationnelle. Le ministère mandate l'assemblée des chambres françaises de commerce et d'industrie aux fins d'assurer une action de coordination de telles actions régionales de promotion du management environnemental.
