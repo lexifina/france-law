@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991221448
+
+- Question : [SEQ991221448](seq991221448.md) — Formation des ostéopathes
+
+## Réponse
+
+*Santé, JO du 2000-01-27, page 336*
+
+Réponse. - S'agissant de l'ostéopathie, si seuls les médecins ostéopathes, en l'état actuel du droit, peuvent exercer en toute légalité, force est de constater que l'ostéopathie est également pratiquée par des non-médecins. Par ailleurs, bien que relevant de la médecine non conventionnelle, l'ostéopathie séduit un nombre grandissant de personnes. Il importe, dans ces conditions, que le meilleur niveau de qualité et de sécurité soit assuré aux usagers, quel que soit le professionnel auquel ils s'adressent. La formation des professionnels uvrant dans le domaine de l'ostéopathie revêt à cet égard une importance capitale. De plus, par la résolution sur le statut des médecines non conventionnelles adoptée le 29 mai 1997, le Parlement européen a invité la Commission à procéder à un examen approfondi de toutes les médecines non conventionnelles existant en Europe et, si le résultat de cette étude le permettait, à s'engager dans un processus de reconnaissance de ces médecines. Les services de la secrétaire d'Etat à la santé et à l'action sociale suivent donc avec attention les activités des instances européennes en la matière. Certaines actions ont d'ores et déjà été engagées dans la perspective d'un inventaire quantitatif et qualitatif des nombreuses médecines dites parallèles existant actuellement en France comme en Europe, tout en veillant à protéger les malades des déviances (charlatanisme, sectes,...) qui peuvent exister en ces domaines. Ainsi un groupe de travail, présidé par le professeur Nicolas, a-t-il été constitué en juillet dernier. Il a pour mission de déterminer l'intérêt d'une reconnaissance de l'ostéopathie et de dégager les conditions, notamment en termes de formation des professionnels, dans lesquelles un haut degré de sécurité pourrait être garanti à leurs patients.
