@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920521259
+
+- Question : [SEQ920521259](seq920521259.md) — Conventions Etat-SAFER
+
+## Réponse
+
+*Équipement, JO du 1992-08-27, page 1968*
+
+Réponse. - Les acquisitions de terrains nécessaires à la réalisation des grandes infrastructures routières, comme par exemple l'autoroute A 20, sont en effet grandement facilitées par l'intervention des Sociétés d'aménagement foncier et d'établissement rural (SAFER). Les SAFER interviennent efficacement dans le cadre des remembrements mis en oeuvre par application de l'article 10 de la loi du 8 août 1962 ; les réserves foncières qu'elles ont constituées permettent de remembrer avec inclusion d'emprise en évitant de nombreuses difficultés avec le monde agricole. Les conventions qu'elles passaient avec l'Etat étaient jusqu'à présent régies par les dispositions d'une lettre du 23 août 1982, du ministre chargé du budget. Ces dispositions ne paraissaient plus adaptées dans la période actuelle de baisse du prix des terres agricoles, les SAFER pouvant subir des pertes dues aux frais de gestion des terrains en stock. C'est pourquoi, un protocole d'accord a été élaboré entre le ministère de l'équipement, du logement et des transports, le ministère de l'agriculture et le ministère de l'économie et des finances. Il modifie les dispositions antérieures sur les points suivants : 1° calcul des frais généraux tenant mieux compte de la réalité (nombre de parcelles et durée de stockage) ; 2° prise en charge des frais financiers liés aux emprunts spécifiques contractés par les SAFER ; 3° meilleure garantie de bonne fin des opérations. Ce protocole d'accord a été signé le 25 février 1992 par les trois ministres concernés. Son application est donc entrée en vigueur et permettra de poursuivre les acquisitions foncières de l'autoroute A 20 dans les meilleurs délais et dans des conditions satisfaisantes pour toutes les parties.
