@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900509975
+
+- Question : [SEQ900509975](seq900509975.md) — Indemnisation des Français de Tunisie
+
+## Réponse
+
+*Affaires étrangères, JO du 1990-07-26, page 1641*
+
+Réponse. - L'offre publique d'achat prévue par l'accord particulier franco-tunisien du 4 mai 1990 et lancée en avril dernier par le Gouvernement tunisien ne constitue nullement pour nos compatriotes une obligation d'accepter les propositions qui leur sont adressées. S'ils les jugent insuffisantes, ils peuvent les refuser et ainsi conserver leurs biens immobiliers et continuer, soit à les occuper, soit à les louer, et dans ce dernier cas obtenir le transfert en France des loyers correspondants. Ceux qui choisiront d'accepter l'offre qui leur sera faite verront le produit de la vente transféré en France, net de tous impôts et taxes et selon une procédure très simplifiée. Dans une telle situation, s'agissant d'une vente et non d'une spoliation, la législation en vigueur ne prévoit pas le versement d'un complément d'indemnisation. A ce jour, le ministère des affaires étrangères n'a pas eu connaissance de difficultés rencontrées par les vendeurs dues à la complexitédes dossiers à fournir. Lors des négociations qui ont précédé la signature de l'accord en cause, les parties française et tunisienne s'étaient d'ailleurs entendues sur une procédure de vente beaucoup moins contraignante que celle du droit commun. Quoi qu'il en soit, les services départementaux des rapatriés ainsi que les postes consulaires français à l'étranger ont reçu, en temps utile, les instructions nécessaires leur permettant d'aider efficacement nos compatriotes concernés dans leurs démarches. La représentation de l'Anifom, implantée à l'ambassade de France à Tunis, ne manque pas également d'apporter son concours aux intéressés avant de transmettre leurs dossiers aux autorités tunisiennes.
