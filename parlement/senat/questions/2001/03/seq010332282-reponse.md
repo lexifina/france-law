@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010332282
+
+- Question : [SEQ010332282](seq010332282.md) — Règles de mitoyenneté
+
+## Réponse
+
+*Justice, JO du 2001-09-06, page 2904*
+
+La garde des sceaux fait connaître à l'honorable parlementaire que le régime juridique de la mitoyenneté est défini par les articles 653 et suivants du code civil et que la mitoyennetté est analysée généralement comme un droit de propriété dont deux personnes jouissent en commun, autrement dit une copropriété. Dans le cas d'espèce, lorsqu'un mur est situé sur la limite de deux terrains appartemenant respectivement à une collectivité publique et à une personne de droit privé, il est présumé mitoyen sauf titre ou marque du contraire et le régime applicable est celui prévu par les articles 653 et suivants du code civil. Toutefois la question se pose de savoir comment se combinent les règles du code civil avec celles de la domanialité publique. Dans un cas d'espèce voisin, le Conseil d'Etat a considéré (CE, 11 février 1994 Compagnie d'assurance préservatrice foncière) que les règles essentielles du régime de la copropriété telles qu'elles sont fixées par la loi du 10 juillet 1965 sont ioncompatibles tant avec le régime de la domanialité publique qu'avec les caractères des ouvrages publics et en a déduit que des locaux acquis par l'Etat, fût-ce pour les besoins d'un service public, dans un immeuble soumis au régime de la copropriété n'appartiennent pas au domaine public et ne peuvent être regardés comme constituant un ouvrage public. Dès lors si cette solution était appliquée à un mur mitoyen et dans la mesure où le constant serait fait que les règles du code civil ne sont pas compataibles avecc celles de la domaniabilité publique, il aurait lieu d'en déduire qu'il s'agit, pour la collectivité publique, d'un mur appartenant à son domaine privé.
