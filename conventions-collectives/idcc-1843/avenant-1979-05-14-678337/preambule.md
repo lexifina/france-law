@@ -1,10 +1,10 @@
-# Article Préambule
+# Article préambule
 
-Constatant le rôle essentiel, pour le développement des exportations françaises, joué par les personnels I.A.C. qui sont déplacés à l'extérieur par leur entreprise ;
+Constatant le rôle essentiel, pour le développement des exportations françaises, joué par les personnels IAC qui sont déplacés à l'extérieur par leur entreprise ;
 
 Reconnaissant la nécessité d'une information aussi complète que possible de ces personnels, préalablement à leur départ, à la fois sur les conditions de vie et sur les conditions et modalités d'exercice de leurs fonctions dans le pays où ils sont envoyés ;
 
-Reconnaissant comme fondés les souhaits généralement exprimés par les I.A.C. :
+Reconnaissant comme fondés les souhaits généralement exprimés par les IAC :
 
 - de conserver pendant leur déplacement des garanties et avantages sociaux équivalents à ceux qu'ils posséderaient en métropole ;
 
@@ -16,7 +16,7 @@ Reconnaissant comme fondés les souhaits généralement exprimés par les I.A.C.
 
 Conscientes cependant qu'en raison :
 
-- d'une part, de l'extrême diversité des conditions de vie et de travail suivant les pays où sont envoyés les I.A.C. ;
+- d'une part, de l'extrême diversité des conditions de vie et de travail suivant les pays où sont envoyés les IAC ;
 
 - d'autre part, de l'obligation de se soumettre à la législation du travail en vigueur dans les pays d'accueil,
 
