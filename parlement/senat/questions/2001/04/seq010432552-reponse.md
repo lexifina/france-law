@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010432552
+
+- Question : [SEQ010432552](seq010432552.md) — Réflexion internationale sur l'aide d'urgence humanitaire et sanitaire en cas de conflits
+
+## Réponse
+
+*Affaires étrangères, JO du 2001-05-31, page 1831*
+
+Réponse. - De nombreuses situations de crises, lors de catastrophes naturelles de grande ampleur mais également en cas de conflits armés, nécessitent une réponse humanitaire rapide et adaptée. C'est pourquoi des dispositifs d'information et de coordination existent au niveau international. Le bureau de coordination des activités humanitaires des Nations unies (BCAH) a notamment pour tâche de diffuser, auprès des pays susceptibles de fournir une assistance, toutes informations utiles sur la nature et le volume des besoins, d'aider les autorités à mettre en place des dipositifs humanitaires et d'assurer la coordination des activités des agences des Nations unies. La France a toujours apporté son soutien au BCAH, et souhaite, plutôt que la mise en place d'une structure supplémentaire, que les moyens de celui-ci soient renforcés pour lui permettre de faire face dans de bonnes conditions à ses missions. L'hypothèse de la création d'un nouveau mécanisme, doté d'un pouvoir décisionnel, soulève deux questions importantes, d'une part la réticence de nombreux Etats, soucieux du respect de leur souveraineté, et, d'autre part, la volonté des pays qui fournissent une aide de conserver leur autonomie quant au volume et aux modalités de leur assistance. Il n'y a pas actuellement de débat, au niveau international, sur la création d'un tel mécanisme. En revanche, une réflexion est en cours, au sein du Conseil de sécurité, sur la protection des populations civiles en cas de conflit, qui aborde notamment la problématique de l'ingérence humanitaire et de l'assistance internationale.
