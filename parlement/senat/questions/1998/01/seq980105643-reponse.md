@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980105643
+
+- Question : [SEQ980105643](seq980105643.md) — Sélection génétique dans le monde du travail
+
+## Réponse
+
+*Emploi, JO du 1998-09-03, page 2837*
+
+Réponse. - L'attention de la ministre de l'emploi et de la solidarité a été appelée sur l'inquiétude suscitée, notamment au sein de la communauté des médecins du travail, par les travaux de recherche actuellement consacrés à la médecine prédictive appliquée au travail. La ministre est très attentive aux questions touchant au droit fondamental des salariés à la non-discrimination en raison de leur état de santé et à la protection de leur vie privée. C'est pourquoi ces tests, comme tout type de test de dépistage systématique, ne sauraient, en aucun cas, être utilisés pour prendre des décisions d'aptitude médicale au poste de travail ou pour établir un " fichier génétique " des salariés. Si l'identification de personnes courant des risques accrus ne peut être écartée a priori, dans l'intérêt même de la santé de ces personnes, cela ne saurait justifier une généralisation des tests génétiques ; il y a sur cette question la nécessaire élaboration d'une doctrine et un besoin de diffusion d'une information, en direction notamment des médecins du travail. Le Conseil supérieur de la prévention des risques professionnels a été sollicité sur ce thème afin d'approfondir toutes les données du sujet, au regard des données scientifiques et du souci constant de la préservation de l'état de santé des salariés du fait de leurs expositions professionnelles. Il rendra, comme il a déjà pu le faire par le passé concernant d'autres problèmes touchant l'éthique, un avis sur la pratique des tests génétiques et le rôle des médecins du travail. Cet avis concourra à l'élaboration d'une doctrine protégeant les droits des salariés, ainsi qu'à l'établissement de recommandations aux médecins du travail.
