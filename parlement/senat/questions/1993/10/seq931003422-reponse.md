@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931003422
+
+- Question : [SEQ931003422](seq931003422.md) — Statut du corps des inspecteurs du travail de l'Essonne
+
+## Réponse
+
+*Travail, JO du 1994-04-07, page 813*
+
+Réponse. - Les effectifs des services extérieurs du ministère du travail, de l'emploi et de la formation professionnelle avaient été fixés en 1985. Depuis cette date, plus de 1 100 emplois ont été supprimés sur le budget du ministère. Conscient de l'effort demandé aux services déconcentrés dans la mise en oeuvre de la politique en faveur de l'emploi, le ministère a obtenu en 1993 et 1994 la stabilisation de ses effectifs, dans un contexte de rigueur budgétaire qui conduit à une réduction globale des emplois publics. Il était donc nécessaire de redéfinir les effectifs de chacune des directions départementales du ministère afin de les faire coïncider avec les effectifs budgétaires. Les critères retenus, représentatifs de l'activité des services, sont les suivants : nombre de salariés, nombre d'habitants, nombre de demandeurs d'emplois. Ces effectifs de référence seront revus chaque année en tenant compte de l'actualisation des indicateurs et des emplois inscrits au budget. Pour ce qui concerne plus particulièrement le département de l'Essonne, la situation des inspecteurs du travail ne fait pas apparaître, actuellement, d'emploi vacant. L'effectif de référence de six emplois d'inspecteurs en section est atteint. La forte rotation constatée en région Ile-de-France et observée par l'ensemble des administrations constitue une réelle difficulté pour le fonctionnement des services. Par ailleurs, le plan de transformation d'emplois engagé depuis 1991 a permis de doter les directions départementales d'agents de catégorie A, déchargés des fonctions d'inspection, et donc en mesure de seconder les directeurs départementaux dans la mise en oeuvre des politiques de l'Etat.
