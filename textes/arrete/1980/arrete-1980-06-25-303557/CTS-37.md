@@ -2,7 +2,7 @@
 
 Généralités
 
-Les établissements visés à l'article CTS 1 (§ 2) doivent respecter l'ensemble des dispositions suivantes :
+Les établissements visés à l'article CTS 1 (§ 3) doivent respecter l'ensemble des dispositions suivantes :
 
 - il existe deux sorties de 0,80 mètre de largeur au moins ;
 
