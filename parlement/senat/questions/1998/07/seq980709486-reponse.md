@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980709486
+
+- Question : [SEQ980709486](seq980709486.md) — Respect des Droits de l'homme
+
+## Réponse
+
+*Affaires étrangères, JO du 1998-09-24, page 3051*
+
+Réponse. - L'honorable parlementaire a bien voulu interroger le Gouvernement sur la question des citoyens libanais disparus pendant et après la guerre civile et dont un certain nombre serait retenu en Syrie. Les Libanais se sont courageusement attelés à la reconstruction de leur pays, dévasté par plus de quinze années de guerre civile. Il s'agit d'une entreprise difficile, alors même que les dirigeants libanais doivent faire face à de nombreuses contraintes, notamment l'occupation d'une partie de leur pays et l'attente de la paix. Le problème des personnes disparues fait partie de ce vaste et long processus de reconstruction de l'Etat de droit. La France, fidèle à son engagement historique aux côtés du Liban, mène un dialogue en ce sens avec tous les interlocuteurs ayant une influence sur ce sujet, et notamment avec les autorités syriennes. Ces dernières ont relâché, au moins de mars dernier, 121 ressortissants libanais. Cette question est régulièrement évoquée au plus haut niveau par les autorités françaises. A l'occasion de la visite du Président de la République au Liban au mois de mai dernier, un membre de la délégation française a reçu les associations des droits de l'homme, en particulier un représentant des familles des disparus. De même, lors de la venue à Paris du Président Assad, le Président de la République a personnellement insisté sur la nécessité de poursuivre l'ouverture entamée sur les droits de l'homme et d'arriver à une solution aussi rapide que possible sur le douloureux dossier des personnes emprisonnées ou disparues. Le Premier ministre a fait de même. L'honorable parlementaire peut avoir l'assurance que la France continuera à plaider et à agir concrètement en faveur du respect des droit de l'homme au Liban comme dans le reste du monde.
