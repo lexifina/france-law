@@ -1,7 +1,29 @@
 # Article 38 bis
 
-Les avis d'adjudication, d'appel d'offres ou d'appel public de candidatures sont portés à la connaissance du public dans les conditions prévues à l'article 38 ainsi que, éventuellement, par affichage ou par tout autre moyen.
+I. - Les marchés passés sur adjudication ou sur appel d'offres font l'objet d'un règlement de la consultation qui mentionne au moins :
 
-Lorsque le montant estimé du marché est supérieur à un premier seuil fixé par un arrêté conjoint du ministre chargé de l'économie et des finances et des ministres intéressés et que l'avis relatif à ce marché n'est pas publié au Bulletin officiel des annonces des marchés publics, une copie de l'avis envoyé à la publication est adressée simultanément à la commission de coordination des commandes publiques du département prévue à l'article 362 qui peut en assurer la diffusion par tout moyen.
+1° L'objet du marché ; le nombre et la consistance des lots et les modalités de leur attribution ;
 
-Lorsque le montant estimé du marché est supérieur à un deuxième seuil fixé dans les même conditions que le premier seuil précité, l'avis relatif à ce marché est publié dans le Bulletin officiel des annonces des marchés publics.
+2° La date limite de réception des offres ;
+
+3° En cas d'adjudication, la date, l'heure et le lieu où les plis seront ouverts en séance publique ;
+
+4° Le délai de validité des offres ;
+
+5° Les justifications à produire quant aux qualités et capacités des candidats ;
+
+6° Le cas échéant, la forme juridique sous laquelle les attributaires du marché devront être groupés ;
+
+7° Les conditions dans lesquelles les variantes sont admises ;
+
+8° Le mode de règlement du marché ;
+
+9° Le cas échéant, les modalités d'obtention du dossier ou de transmission des offres ;
+
+10° En cas d'appel d'offres, les critères énumérés à l'article 97 et éventuellement les critères additionnels pris en compte lors de l'attribution du marché, classés par ordre décroissant d'importance.
+
+II. - Les marchés négociés autres que de maîtrise d'oeuvre font l'objet d'un règlement de la consultation qui précise la nature et la consistance des lots et les modalités de leur attribution.
+
+III. - Les marchés de maîtrise d'oeuvre font l'objet d'un règlement de la consultation qui définit au moins la nature et la consistance de l'ouvrage à réaliser et le contenu de la mission qui sera confiée au titulaire. En cas de concours, il comporte en outre l'indication sommaire des prestations qui seront à fournir par les participants, la composition du jury, les critères de jugement des projets et les modalités d'indemnisation des candidats ayant remis des prestations.
+
+IV. - L'établissement du règlement de la consultation est facultatif si toutes les mentions prévues au I, II ou III ci-dessus ont été insérées dans l'avis d'appel public à la concurrence.
