@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990415385
+
+- Question : [SEQ990415385](seq990415385.md) — Régime d'autorisation préalable pour les commerces de détail
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 1999-05-27, page 1801*
+
+Réponse. - La loi du 27 décembre 1973 modifiée portant loi d'orientaion du commerce et de l'artisanat soumet à autorisation préalable d'exploitation commerciale la réutilisation à usage de commerce de détail d'une surface de vente supérieure à 300 mètres carrés libérée à la suite d'une autorisation de création par transfert d'activités existantes, quelle que soit la date à laquelle a été autorisé ce transfert. En effet, lorsqu'une commission d'équipement commercial accorde une autorisation de création d'un magasin de commerce de détail par transfert d'une activité commerciale existante, le propriétaire du local appelé à ête libéré avec la réalisation du projet s'engage à ne plus y exploiter un magasin de commerce de détail de plus de 300 mètres carrés de vente, sans solliciter une nouvelle autorisation préalable d'exploitaion commerciale. Cette disposition a été introduite pour faciliter la modernisation d'activités commerciales exploitées sur des sites ou dans des locaux devenus anciens et inadaptés qui peuvent ainsi être déplacées dans des conditions plus favorables tout en permettant aux commissions d'équipement commercial de conserver une certaine maîtrise de l'augmentation des surfaces destinées au commerce de détail. Il appartient aux acteurs locaux, et en particulier aux collectivités, de mettre en uvre les moyens nécessaires pour aider les propriétaires à éviter que ces locaux ne deviennent des friches commerciales. Dans de nombreux projets de création de magasins par transferts, les locaux libérés sont souvent pré-affectés à la réalisation de projets d'initiative locale.
