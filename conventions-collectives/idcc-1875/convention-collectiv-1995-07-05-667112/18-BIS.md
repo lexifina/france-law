@@ -1,9 +1,11 @@
 # Article 18 BIS
 
-Pour répondre aux sujétions du cabinet ou de la clinique vétérinaire, et notamment répondre à la continuité du service, les personnels employés à temps partiel peuvent être appelés à exécuter des heures complémentaires.
+Lorsqu'un salarié est employé à temps partiel, les conditions de son emploi et de sa rémunération sont spécifiées dans son contrat de travail ou dans tout avenant ultérieur.
 
-Les heures complémentaires sont les heures que l'employeur demande aux travailleurs à temps partiel d'effectuer au-delà de la durée prévue dans son contrat.
+Le salarié à temps partiel bénéficie, quel que soit l'horaire de travail effectué, des mêmes avantages que le personnel à temps complet.
 
-Le nombre d'heures complémentaires mensuelles ne peut être supérieur d'un tiers à la durée convenue au contrat. La durée totale des heures effectuées ne peut atteindre la durée légale du travail, soit cent soixante-neuf heures mensuelles.
+En application des dispositions légales et conventionnelles, est considéré comme salarié à temps partiel le salarié dont la durée du travail est inférieure à la durée légale du travail ou à la durée fixée conventionnellement lorsque cette durée est inférieure.
 
-Les heures complémentaires ne donnent pas lieu à une majoration de salaire et sont rémunérées en conséquence au taux horaire contractuellement convenu par les parties.
+Le salarié à temps partiel bénéficie en outre des mêmes droits que les salariés à temps complet pour la détermination de ses droits à l'ancienneté (les périodes non travaillées étant prises en compte en totalité) et dispose d'une égalité d'accès aux possibilités de promotion, de carrière et de formation qui, notamment, sera suivie par le CNPE.
+
+Ancien article 14 ter.
