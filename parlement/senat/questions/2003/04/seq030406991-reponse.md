@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030406991
+
+- Question : [SEQ030406991](seq030406991.md) — Elections européennes : Français de l'étranger inscrits simultanément sur une liste de centre de vote et sur la liste électorale d'une commune française
+
+## Réponse
+
+*Intérieur, JO du 2003-06-19, page 2024*
+
+Si les Français résidant à l'étranger ne peuvent plus voter dans un centre de vote à l'occasion des élections des représentants au Parlement européen, il n'en demeure pas moins qu'ils peuvent toujours y exercer leur droit de vote à l'occasion de l'élection présidentielle ou des référendums nationaux. La mention rouge " inscrit sur une liste de centre " figurant sur les listes électorales doit donc être maintenue. A l'instar des autres élections, pour lesquelles les Français résidant à l'étranger doivent être inscrits sur une liste électorale en France pour voter, cette mention devient sans objet pour les élections des représentants au Parlement européen. Il n'apparaît pas nécessaire de prévoir de dispositions transitoires prescrivant aux communes, sur les listes desquelles est apposée la mention précitée, d'accepter le vote des Français actuellement inscrits sur une liste de centre de vote. Dans la mesure où il s'agit d'un nouveau dispositif et dans la perspective des prochaines élections des représentants au Parlement européen prévues au mois de juin 2004, les préfets rappelleront les nouvelles dispositions aux maires de leur département. De même, les Français résidant à l'étranger seront informés qu'ils ne pourront pas voter dans un centre de vote à l'occasion de ces élections et qu'ils devront, le cas échéant, demander leur inscription sur une liste électorale en France, conformément à l'article L. 12 (ou L. 11,2° ou L. 14) du code électoral. S'ils le souhaitent, ils pourront, par ailleurs, être admis à exercer leur droit de vote pour l'élection des représentants au Parlement européen de l'Etat de l'Union européenne où ils résident.
