@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971104169
+
+- Question : [SEQ971104169](seq971104169.md) — Prévention des expulsions
+
+## Réponse
+
+*Logement, JO du 1998-01-29, page 326*
+
+Réponse. - Le Gouvernement est tout particulièrement sensible aux conséquences parfois dramatiques, que peuvent avoir dans le domaine du logement l'augmentation des situations de précarité. Il souhaite développer les moyens susceptibles de contribuer efficacement à la prévention des expulsions, et ainsi parvenir à une diminution des procédures contentieuses de résiliation des baux d'habitation pour impayés de loyers, et des procédures d'expulsion. Des dispositions diverses contribuant à la réalisation de ces objectifs sont actuellement à l'étude dans le cadre de la préparation du projet de loi de prévention et de lutte contre les exclusions et seront proposées au débat parlementaire. Le Gouvernement a depuis leur création, doté les fonds de solidarité pour le logement de moyens financiers importants, en constante augmentation. Leurs interventions dans le domaine du maintien dans le logement, qui ont bénéficié à 56 000 ménages en 1996 et ont représenté la même année un montant de dépenses de 340 MF, font partie du champ de la prévention des expulsions, mais elles doivent être développées plus directement en liaison avec les textes en préparation. Le Gouvernement attend du développement de la prévention des expulsions qu'il ait pour conséquence de permettre une baisse des montants financiers affectés par le ministère de l'intérieur à l'indemnisation des propriétaires qui ont demandé l'expulsion de leur locataire, et il sera attentif à ce que les économies réalisées à ce titre participent, dans un cadre budgétaire à préciser, à l'accentuation de l'effort de prévention qui peut bénéficier aux deux parties, bailleur et locataire. Des discussions ont été ouvertes à cette fin avec le ministère de l'intérieur.
