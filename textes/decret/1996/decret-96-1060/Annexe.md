@@ -1,6 +1,6 @@
 # Article Annexe
 
-Les substances répertoriées en 1re catégorie sont les suivantes :
+1re CATÉGORIE
 
 SUBSTANCE
 
@@ -16,42 +16,6 @@ CODE NC
 
 |
 
-Ephédrine.
-
-|
-
-|
-
-2939.41,00
-
-|
-
-Ergométrine.
-
-|
-
-|
-
-2939.61,00
-
-|
-
-Ergotamine.
-
-|
-
-|
-
-2939.62,00 |
-
-Acide lysergique.
-
-|
-
-|
-
-2939.63,00 |
-
 Phényl-1 propanone-2.
 
 |
@@ -60,17 +24,7 @@ Phénylacétone.
 
 |
 
-2914.31,00
-
-|
-
-Pseudo-éphédrine.
-
-|
-
-|
-
-2939.42,00
+2914.31.00
 
 |
 
@@ -82,17 +36,7 @@ Acide 2-acétamidobenzoïque.
 
 |
 
-2924.22,00
-
-|
-
-3,4-Méthylènedioxyphénylpropane-2-one.
-
-|
-
-|
-
-2932.92,00
+2924.22.00/29.90 (*)
 
 |
 
@@ -102,7 +46,21 @@ Isosafrole (cis + trans).
 
 |
 
-2932.91,00 |
+2932.91.00
+
+|
+
+3,4-Méthylènedioxyphénylpropane-2-one.
+
+|
+
+1-(1,3-Benzodioxole-5-yl)propane-2-one
+
+|
+
+2932.92.00
+
+|
 
 Pipéronal.
 
@@ -110,7 +68,9 @@ Pipéronal.
 
 |
 
-2932.93,00 |
+2932.93.00
+
+|
 
 Safrole.
 
@@ -118,15 +78,77 @@ Safrole.
 
 |
 
-2932.94,00 |
-
-Les sels des substances énumérées dans cette catégorie dans les cas où l'existence
-
-de ces sels est possible.
+2932.94.00
 
 |
 
-Les substances répertoriées en 2e catégorie sont les suivantes :
+Ephédrine.
+
+|
+
+|
+
+2939.41.00
+
+|
+
+Pseudo-éphédrine.
+
+|
+
+|
+
+2939.42.00
+
+|
+
+Noréphédrine.
+
+|
+
+|
+
+Ex 2939.49.00
+
+|
+
+Ergométrine.
+
+|
+
+|
+
+2939.61.00
+
+|
+
+Ergotamine.
+
+|
+
+|
+
+2939.62.00
+
+|
+
+Acide lysergique.
+
+|
+
+|
+
+2939.63.00
+
+|
+
+Y compris les sels obtenus à partir des substances énumérées dans cette catégorie, lorsque l'existence de tels sels est possible.
+
+(*) Les sels de l'acide-N-acétylanthranilique ne sont pas couverts par le code 2924.22.00.
+
+|
+
+2e CATÉGORIE
 
 SUBSTANCE
 
@@ -142,37 +164,51 @@ CODE NC
 
 |
 
-Anhydride acétique. |
+Anhydride acétique.
 
 |
 
-2915.24,00 |
+|
 
-Acide anthranilique. |
+2915.24.00
 
 |
 
-2922.43,00 |
-
-Acide phénylacétique. |
+Acide phénylacétique.
 
 |
 
-2916.34,00 |
+|
 
-Pipéridine. |
+2916.34.00
 
 |
 
-2933.32,00 |
-
-Les sels des substances énumérées dans cette catégorie dans les cas où l'existence
-
-de ces sels est possible.
+Acide anthranilique.
 
 |
 
-Les substances répertoriées en 3e catégorie sont les suivantes :
+|
+
+2922.43.00
+
+|
+
+Pipéridine.
+
+|
+
+|
+
+2933.32.00
+
+|
+
+Y compris les sels obtenus à partir des substances énumérées dans cette catégorie, lorsque l'existence de tels sels est possible.
+
+|
+
+3e CATÉGORIE
 
 SUBSTANCE
 
@@ -188,66 +224,82 @@ CODE NC
 
 |
 
-Acétone |
+Acide chlorhydrique.
 
 |
 
-2914.11,00
+Chlorure d'hydrogène.
 
 |
 
-Ether éthylique |
-
-Ether diéthylique. |
-
-2909.11,00
+2806.10.00
 
 |
 
-Méthyléthylcétone (MEK) |
-
-Butanone. |
-
-2914.12,00
+Acide sulfurique.
 
 |
 
-Toluène |
+|
+
+2807.00.10
 
 |
 
-2902.30,10/90
+Permanganate de potassium (*).
 
 |
 
-Permanganate de potassium |
+|
+
+2841.61.00
 
 |
 
-2841.61,00
+Toluène (*).
 
 |
 
-Acide sulfurique. |
+|
+
+2902.30.10 et 90
 
 |
 
-2807.00,10
+Ether éthylique (*).
 
 |
 
-Acide chlorhydrique. |
-
-Chlorure d'hydrogène. |
-
-2806.10,00
+Ether diéthylique.
 
 |
 
-Les sels des substances énumérées dans cette catégorie, à l'exception de l'acide
+2909.11.00
 
-sulfurique et de l'acide chlorhydrique, dans les cas où l'existence de ces sels est
+|
 
-possible.
+Acétone (*).
+
+|
+
+|
+
+2914.11.00
+
+|
+
+Méthyléthylcétone (MEK) (*).
+
+|
+
+Butanone.
+
+|
+
+2914.12.00
+
+|
+
+(*) Y compris les sels obtenus à partir de ces substances, lorsque l'existence de tels sels est possible.
 
 |
