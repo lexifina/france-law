@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021103777
+
+- Question : [SEQ021103777](seq021103777.md) — Abrogation de la réglementation interdisant la publicité, à la télévision, de la grande distribution, de la presse écrite, de l'édition et du cinéma
+
+## Réponse
+
+*Culture, JO du 2002-12-19, page 3149*
+
+Comme le sait l'honorable parlementaire, la Commission européenne a mis en demeure la France de mettre fin à l'interdiction de publicité télévisée pour certains secteurs économiques ou produits. Depuis 1992, l'interdiction visée par la Commission européenne intéresse les quatre secteurs de la presse écrite, de l'édition littéraire, du cinéma et de la distribution. Dans sa réponse à la Commission le 25 septembre 2002, le Gouvernement a indiqué d'une part les raisons qui le conduisent à estimer que ces interdictions sont proportionnées aux objectifs poursuivis et pourraient donc ne pas être contraires aux règles européennes, et d'autre part qu'il entendait conduire une large consultation de l'ensemble des acteurs concernés afin d'envisager les évolutions qui pourraient s'avérer utiles, plus de dix ans après la prise du décret cité plus haut. Cette concertation conduite par la direction du développement des médias avec l'appui des autres administrations concernées a débuté en octobre. Le secteur de la presse écrite fait l'objet des premières études et auditions, les autres secteurs devant être évoqués à la suite. La presse quotidienne régionale a, dans le passé, déjà fait connaître sa position notamment à propos de l'accès éventuel des entreprises de distribution à la publicité télévisée et il est probable que son syndicat souhaitera à nouveau faire connaître ses positions dans le cadre de cette consultation. En tout état de cause le secteur de la distribution sera abordé au cours du printemps de l'année prochaine. Il est bien entendu trop tôt pour envisager une éventuelle modification de la réglementation actuelle.
