@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950209931
+
+- Question : [SEQ950209931](seq950209931.md) — Rapport de la Commission vitesse et sécurité routière
+
+## Réponse
+
+*Équipement, JO du 1995-03-30, page 768*
+
+Réponse. - Le rapport de M. Robert Namias sur la vitesse et la sécurité routière a été remis au Gouvernement le 15 décembre 1994. Il a été décidé de mettre en chantier plusieurs de ses propositions : mise en place dans chaque département sous l'autorité du préfet d'un véritable plan annuel de sécurité routière comprenant la définition d'une politique de modération de la vitesse et de son contrôle ; ainsi que proposé, la commission départementale de sécurité routière, associant représentants des usagers et de l'administration, serait chargée de cette réflexion ; publication prochaine d'un décret permettant d'accélérer le traitement judiciaire des infractions à la limitation de vitesse ; les excès de vitesse de moins de 40 kilomètres/heure au-delà de la limitation seront désormais sanctionnés par des amendes forfaitaires et le retrait de points correspondant ; les autorités chargées de la police de la circulation seront invitées à revoir les limitations de vitesse afin de mieux les adapter aux caractéristiques des voies. Une attention particulière sera apportée aux routes limitées à 110 kilomètres/heure et aux périphéries d'agglomération ; il est important en effet que les limitations soient adaptées pour être bien acceptées ; le thème privilégié des campagnes de communication de sécurité routière pour 1995 sera celui de la prévention des vitesses excessives et inadaptées. La totalité des propositions contenues dans le rapport, et notamment la création d'une police de la route et l'affectation d'une partie des amendes au budget de la sécurité routière, feront l'objet d'une évaluation détaillée.
