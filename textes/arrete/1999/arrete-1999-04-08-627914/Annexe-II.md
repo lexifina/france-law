@@ -588,7 +588,7 @@ Soutien de la fonction hépatique en cas d'insuffisance hépatique chronique.
 
 |
 
-Protéines de qualité élevée, teneur modérée en protéines, faible teneur en matières grasses, teneur élevée en acides gras essentiels et en glucides très digestibles.
+Protéines de qualité élevée, teneur modérée en protéines, teneur élevée en acides gras essentiels et en glucides très digestibles.
 
 |
 
@@ -596,7 +596,7 @@ Chiens.
 
 |
 
-Sources de protéines.
+Source(s) de protéines.
 
 |
 
@@ -604,11 +604,15 @@ Au départ, six mois.
 
 |
 
-Indiquer sur l'emballage, le récipient ou l'étiquette : "Avant utilisation ou avant prolongation de la durée d'utilisation, il est recommandé de demander l'avis d'un véterinaire."
+Indiquer sur l'emballage, le récipient ou l'étiquette : "Avant utilisation ou avant prolongation de la durée d'utilisation, il est recommandé de demander l'avis d'un vétérinaire."
 
 |
 
 Teneur en acides gras essentiels.
+
+|
+
+Indiquer dans le mode d'emploi : "Eau disponible en permanence."
 
 |
 
@@ -624,7 +628,7 @@ Cuivre total.
 
 |
 
-Protéines de qualité élevée, teneur modérée en protéines et en matières grasses et teneur élevée en acides gras essentiels.
+Protéines de qualité élevée, teneur modérée en protéines et teneur élevée en acides gras essentiels.
 
 |
 
@@ -632,11 +636,23 @@ Chats.
 
 |
 
-Sources de protéines.
+Source(s) de protéines.
+
+|
+
+Au départ, six mois.
+
+|
+
+Indiquer sur l'emballage, le récipient ou l'étiquette : "Avant utilisation ou avant prolongation de la durée d'utilisation, il est recommandé de demander l'avis d'un vétérinaire."
 
 |
 
 Teneur en acides gras essentiels.
+
+|
+
+Indiquer dans le mode d'emploi : "Eau disponible en permanence."
 
 |
 
@@ -926,7 +942,7 @@ Réduction du risque d'acidose.
 
 |
 
-Faible teneur en glucides très fermentescibles et haute capacité tampon.
+Faible teneur en glucides très fermentescibles et haute capacité tampon
 
 |
 
