@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020138154
+
+- Question : [SEQ020138154](seq020138154.md) — Evolution de la structure juridique du LCSQUA
+
+## Réponse
+
+*Aménagement du territoire, JO du 2002-04-18, page 1105*
+
+Le ministre de l'aménagement du territoire et de l'environnement a pris connaissance avec intérêt de la question relative à l'évolution de la structure juridique du Laboratoire central de surveillance de la qualité de l'air (LCSQA). Afin de moderniser et d'harmoniser les méthodes et moyens de mesure, le ministère a créé en 1991 le LCSQA, structure regroupant les compétences du Laboratoire national d'essais (LNE), de l'Institut de l'environnement industriel et des risques (INERIS) et du laboratoire de l'Ecole des mines de Douai. Le LCSQA contribue au développement des techniques de mesure et apporte un appui technique aux associations de surveillance de la qualité de l'air sur le terrain. Le fonctionnement et les objectifs du LCSQA sont définis dans un accord cadre de 1995, lequel précise qu'un bilan d'exécution sera établi au bout de quatre années d'activités. Cette évaluation a pris la forme d'une mission, confiée en avril 2000, à M. Yves Pietrasanta, président du réseau AIR Languedoc-Roussillon, assisté de M. Philippe Lameloise, directeur d'AIRPARIF. Cette importante mission d'audit a permis de juger la qualité et la pertinence du travail accompli jusqu'alors, et suggère de faire évoluer la structure juridique du LCSQA en lui donnant une personnalité morale. Cette recommandation a d'ailleurs été rappelée dans le récent rapport d'évaluation de la mise en oeuvre de la loi sur l'air et l'utilisation rationnelle de l'énergie, confié à M. Jean-Félix Bernard, président du Conseil national de l'air. Le ministère de l'aménagement du territoire et de l'environnement envisage la création d'un groupement d'intérêt public (GIP) et mène actuellement les consultations nécessaires, notamment auprès des différents organismes composant le LCSQA.
