@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861203851
+
+- Question : [SEQ861203851](seq861203851.md) — Personnels de direction détachés à l'étranger: promotion interne
+
+## Réponse
+
+*Éducation, JO du 1987-11-05, page 1756*
+
+Réponse. -La carrière des personnels occupant les emplois de direction des établissements de second degré relevant du ministre de l'éducation nationale est actuellement régie par le décret n° 81-482 du 8 mai 1981 pour ce qui concerne les conditions de nomination et d'avancement dans lesdits emplois. Par ailleurs, les personnels occupant ces emplois peuvent, sous certaines conditions fixées par les décrets portant respectivement statut des professeurs agrégés et des professeurs certifiés, accéder à l'un ou l'autre de ces corps par voie d'inscription sur des listes d'aptitude spécifiques. Il est exact que les possibilités de promotion interne évoquées ci-dessus ne peuvent juridiquement bénéficier aux personnels de direction ayant fait l'objet d'un détachement à l'étranger. Cette situation tient au fait que le détachement d'un enseignant suppose la réintégration préalable de l'intéressé dans son corps d'origine et donc la perte de l'emploi de direction qu'il occupait en France. Il convient à cet égard de noter que tous les enseignants détachés à l'étranger ne sont pas appelés à y occuper un emploi de direction d'établissement, d'autres fonctions leur étant fréquemment confiées. Dans ces conditions, les possibilités de promotion offertes aux intéressés résultent des tours extérieurs institués, au bénéfice des personnels enseignants stricto sensu, par les décrets statutaires précités. Toutefois, le statut des personnels de direction fait actuellement l'objet d'une réflexion qui porte, notamment, sur les différentes formules envisageables en matière de promotion. La situation des chefs d'établissement et adjoints détachés sera examinée dans ce cadre.
