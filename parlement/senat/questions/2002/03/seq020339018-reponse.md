@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020339018
+
+- Question : [SEQ020339018](seq020339018.md) — Avenir des aides-éducateurs de l'éducation nationale
+
+## Réponse
+
+*Éducation, JO du 2002-04-25, page 1171*
+
+Le programme emplois-jeunes de l'éducation nationale, consolidé par les mesures annoncées au mois de juin 2001, répond à la fois au besoin de faire perdurer les activités utiles et innovantes initiées par les aides éducateurs et au souci d'accompagner les jeunes qui les exercent vers une insertion professionnelle dans le secteur privé ou public. Il n'est pas envisagé de modifier la réglementation actuelle, relative au recrutement des aides éducateurs sur contrat de droit privé à durée déterminée, qui s'inscrit dans la politique développée au ministère de l'éducation nationale depuis le début du programme ; les emplois d'aides éducateurs sont conçus pour assurer aux jeunes une situation temporaire, mais d'une durée suffisante, au cours de laquelle ils peuvent acquérir une expérience professionnelle et élaborer ou parfaire un projet professionnel facilitant leur insertion future. Le remplacement des aides éducateurs quittant leur emploi par d'autres jeunes engagés sur contrat de soixante mois permet à un plus grand nombre de bénéficier de ce dispositif. En ce qui concerne les possibilités d'intégration dans la fonction publique, les dispositions de la loi 2001-2 du 3 janvier 2001 relative, notamment, à la modernisation du recrutement dans la fonction publique permettent la mise en oeuvre de concours de troisième voie ouvrant plus largement l'accès aux métiers de l'enseignement et de l'administration dans la fonction publique. Pour autant, le secteur public ne constitue pas l'unique voie d'insertion pour les aides éducateurs et les services académiques peuvent répondre à des besoins de formation et d'accompagnement vers l'emploi dans des secteurs très divers.
