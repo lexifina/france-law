@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970700917
+
+- Question : [SEQ970700917](seq970700917.md) — Modalités d'application de la réforme des classes préparatoires
+
+## Réponse
+
+*Éducation, JO du 1997-12-11, page 3458*
+
+Réponse. - Il est précisé que pour la session 1998 des concours d'entrée dans les grandes écoles et formations d'ingénieurs le calendrier des épreuves écrites a été fixé de telle sorte qu'aucune épreuve n'aura lieu avant le 27 avril 1998. C'est le cas, notamment, de celles de la filière " physique-technologie " (PT). Par ailleurs, une réflexion sur l'ensemble du dispositif des concours d'entrée sera engagée très prochainement avec tous les partenaires concernés. Celle-ci pourrait aboutir à une refonte complète du calendrier pour la session 1999. Pour ce qui est des frais des dossiers pour les écoles recrutant sur la banque d'épreuves PT, le coût moyen par élève constaté était en moyenne de 2 656 francs en 1997. Il est évidemment possible à un candidat de s'inscrire à toutes les écoles, soit 55, mais ceci n'apparaît guère réaliste : en 1997, 59 candidats sur 2 310 inscrits avaient fait ce choix (2,6 %). Il n'en demeure pas moins que le coût des frais de dossiers est un problème réel car susceptible de constituer un obstacle pour la démocratisation nécessaire de l'accès aux grandes écoles. Il convient de rappeler, par ailleurs, que les boursiers (plus de 20 % des candidats) sont exonérés des frais précités. Les établissements ont été invités à réaliser des économies notamment par le regroupement dans des concours communs et la diminution du nombre d'épreuves écrites et orales. A la lumière des résultats de la session 1997, d'autres possibilités d'économies sont explorées et l'hypothèse d'un coût forfaitaire d'inscription aux épreuves écrites et orales calculé au prorata du nombre de places offertes est examinée avec la plus grande attention.
