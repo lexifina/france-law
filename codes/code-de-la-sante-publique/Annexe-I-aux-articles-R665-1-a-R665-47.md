@@ -116,7 +116,7 @@ La transformation, la conservation, la manipulation des tissus, des cellules et 
 
 11.5.1. Les dispositifs destinés à émettre des rayonnements ionisants doivent être conçus et fabriqués de façon à assurer que, dans la mesure du possible, la quantité, la géométrie et la qualité des rayonnements émis puissent être réglées et contrôlées en fonction du but prévu ;
 
-11.5.2. Les dispositifs émettant des rayonnements ionisants destinés au radiodiagnostic sont conçus et fabriqués de façon à atteindre une qualité d'image et/ou de résultat convenant au but médical prévu tout en réduisant au minimum l'exposition du patient et de l'utilisateur aux rayonnements ;
+11.5.2. Les dispositifs émettant des rayonnements ionisants destinés au radiodiagnostic sont conçus et fabriqués de façon à atteindre une qualité d'image et/ou de résultat convenant au but médical prévu tout en réduisant au minimum l'exposition du patient et de l'utilisateur aux rayonnements. Ces dispositifs sont équipés, lorsque cela est techniquement possible, d'un dispositif permettant à l'utilisateur d'être renseigné sur la quantité de rayonnements produite par l'appareil au cours de la procédure radiologique.
 
 11.5.3. Les dispositifs émettant des rayonnements ionisants destinés à la radiothérapie doivent être conçus et fabriqués de façon à permettre une surveillance et un contrôle fiables de la dose administrée, du type et de l'énergie du faisceau et, le cas échéant, de la qualité des rayonnements.
 
@@ -250,7 +250,7 @@ p) Le degré de précision indiqué pour les dispositifs de mesurage ;
 
 q) Lors de sa mise sur le marché, chaque dispositif doit être accompagné d'une notice d'instructions comprenant les éléments suivants :
 
-- l'année d'imposition du marquage CE ;
+- l'année d'apposition du marquage CE ;
 
 - les informations nécessaires permettant au médecin de sélectionner le dispositif adéquat ainsi que le logiciel et les accessoires adaptés ;
 
@@ -405,3 +405,9 @@ La notice d'instructions doit, en outre, comporter des indications permettant au
 16. La confirmation du respect des exigences concernant les caractéristiques et performances, visées au titre Ier, Exigences générales, du dispositif dans des conditions normales d'utilisation ainsi que l'évaluation des effets secondaires ou indésirables doivent être fondées sur des données cliniques établies en conformité avec l'annexe X.
 
 (1) On entend par risques d'interférence réciproques les influences négatives sur le dispositif provoquées par des instruments présents lors des investigations ou traitements et vice versa.
+
+NOTA :
+
+Conformément à l'article 4 du décret n° 2004-802 du 29 juillet 2004, l'abrogation des annexes du livre V bis prendra effet à la date de la publication de chacun des arrêtés prévus aux articles R. 5211-7, R. 5211-16, R. 5211-24 et R. 5211-53 du code de la santé publique.
+
+L'arrêté du 20 avril 2006 fixant les conditions de mise en oeuvre des exigences essentielles applicables aux dispositifs médicaux, pris en application de l'article R. 5211-24 du code de la santé publique, est paru au JORF du 19 mai 2006.
