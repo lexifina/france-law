@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030306666
+
+- Question : [SEQ030306666](seq030306666.md) — Amélioration des conditions de vie et de travail des saisonniers du tourisme
+
+## Réponse
+
+*Tourisme, JO du 2003-05-01, page 1495*
+
+Une partie des informations souhaitées par l'honorable parlementaire a été fournie dans la réponse à sa question n° 5054 du 26 décembre 2002. L'inspection générale du tourisme a été chargée d'une mission d'appui au logement des saisonniers et à ce titre un groupe permanent a été mis en place. Très attentif à ces questions, le secrétaire d'Etat au tourisme a souhaité que les organisations représentatives des propriétaires et bailleurs privés soient associées aux travaux de ce groupe d'appui et demandé que lui soit remis rapidement un rapport présentant les différentes solutions recensées sur le terrain, avec, pour chacune, les avantages et les inconvénients rencontrés et proposant, le cas échéant, les adaptations législatives ou réglementaires qui paraîtraient nécessaires. Dans le même temps a été mise en place une mission parlementaire confiée à Mme Arlette Franco, députée, relative à la formation professionnelle dans l'ensemble des métiers du tourisme, dans le souci d'une meilleure prise en compte des exigences spécifiques aux emplois concernés et des souhaits légitimes de promotion de ceux qui les exercent. Dans le cadre d'une réflexion plus générale, sont également étudiées les mesures qui seraient le mieux adaptées pour remédier au travail dissimulé, qui est reconnu comme étant un des obstacles importants à l'amélioration des conditions de vie et d'exercice de la profession. Les résultats des initiatives en cours devraient être présentés par le secrétaire d'Etat au tourisme lors du comité interministériel sur le tourisme qui devrait se tenir avant l'été.
