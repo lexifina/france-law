@@ -1,0 +1,17 @@
+# Délibération portant avis sur le traitement des opérations d'enregistrement d'instruction et de gestion des dossiers relevant de la section du contentieux par le Conseil d'Etat
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 81-109
+- Date : 1981-10-20
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017654786
+
+Le Vice-Président du Conseil d'Etat a saisi la Commission Nationale de l'Informatique et des Libertés, d'une demande d'avis sur le traitement des opérations d'enregistrement, d'instruction et de gestion des dossiers relevant de la section du contentieux. Vu les articles 15 et 20 de la loi n° 78-17 du 6 janvier 1978 ; Vu l'article 6 de la loi n° 80-2 du 4 janvier 1980 ; Vu l'article 12 du décret n° 78-774 du 17 juillet 1978 ; Vu la loi du 3 janvier 1979 sur les archives ; Vu l'ordonnance du 31 juillet 1945, ensemble le règlement d'administration publique du 30 juillet 1963 modifié et notamment son article 3 ; Après avoir entendu le 20 octobre 1981, M. MONEGIER du SORBIER, rapporteur, et M. le Commissaire du Gouvernement, en ses observations ;
+
+Considérant qu'il résulte du projet d'arrêté : 1 - que les données nominatives figurant sur ce traitement ne peuvent ni directement, ni indirectement porter atteinte à la vie privée ou aux libertés ; 2 - qu'il n'existe dans ce traitement aucune des informations dont l'enregistrement est interdit par l'article 31 de la loi du 6 janvier 1978 et qui directement ou indirectement, feraient apparaître les origines raciales ou les opinions politiques, philosophiques ou religieuses ou les appartenances syndicales des personnes ; 3 - que le fichier ne doit avoir pour objet que de mettre en oeuvre un système de collecte et de traitement automatisé des informations relatives aux pourvois dont est saisi le Conseil d'Etat statuant au Contentieux, et qui permettent de faciliter les opérations d'enregistrement, et les procédures d'instruction des affaires, la notification des décisions ainsi que la gestion des dossiers ;
+
+4 - que seules les informations suivantes figurent dans le traitement : l'identité des parties dans la cause, des intervenants, des experts ; l'identité des membres du Conseil d'Etat affectés à la section du contentieux ; l'identité des avocats au Conseil d'Etat et à la Cour de Cassation ; l'identité des personnels du Conseil d'Etat affectés à la section du contentieux ; l'analyse des conclusions dont est saisi le Conseil d'Etat dans chaque affaire et le déroulement de la procédure ; 5 - que seuls sont destinataires des informations et seulement dans la mesure compatible avec le secret de l'instruction : les personnes ayant qualité dans la cause, leurs mandataires, les avocats au Conseil d'Etat et à la Cour de Cassation, les experts, les membres du Conseil d'Etat et les personnels affectés à la section du contentieux du Conseil d'Etat, le C.E.D.I.J., le secrétaire général du Conseil d'Etat pour l'édition du recueil des arrêts du Conseil d'Etat ainsi que l'éditeur de ce recueil, les juridictions, les ministères, les préfets ; 6 - que les dispositions sont prises pour permettre l'exercice du droit d'accès prévu par l'article 34 de la loi du 6 janvier 1978 ;
+
+Emet un avis favorable au projet d'arrêté du Vice-Président du Conseil d'Etat, sous réserve que des mesures de sécurité soient prévues, pour assurer la sécurité des matériels et des locaux utilisés pour le fonctionnement de ce système automatisé.
