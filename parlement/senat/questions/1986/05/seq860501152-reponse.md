@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860501152
+
+- Question : [SEQ860501152](seq860501152.md) — Création d'une antenne de police à Bièvres (Essonne)
+
+## Réponse
+
+*Intérieur, JO du 1986-08-28, page 1229*
+
+Réponse. -La protection des personnes et des biens à Bièvres est assurée par les forces de police du commissariat de Palaiseau dont la compétence s'étend sur sept communes. Des patrouilles de surveillance, chargées du secteur nord de la circonscription, y effectuent des rondes régulières et la nuit ce dispositif est complété par celles de la brigade de surveillance nocturne. En outre, l'installation cette année à Bièvres de deux importants services de la police nationale, la C.R.S. n° 8 et l'unité de recherche, assistance, intervention et dissuasion (R.A.I.D.) a permis d'accroître efficacement la présence policière dans cette commune. Par ailleurs, une voie express permet des interventions rapides entre Bièvres et Palaiseau. La traversée obligatoire de la voie ferrée est, il est vrai, souvent gênée par les passages de trains. Néanmoins, la fermeture des barrières peut tout au plus durer quelques dizaines de secondes et elle n'intervient pas forcément au momentdu passage d'un véhicule de police. Cet état de fait ainsi que la faible importance démographique de Bièvres qui compte 3 950 habitants et une criminalité qui n'apparaît pas particulièrement préoccupante n'imposent pas l'implantation d'une antenne de police dans l'immédiat. De plus, une telle création obligerait à un prélèvement de fonctionnaires sur le commissariat central de Palaiseau qui s'avèrerait préjudiciable à la sécurité de l'ensemble de la population de la circonscription. Cette année, l'arrivée à Palaiseau de six véhicules neufs dont un supplémentaire permettra encore d'améliorer l'efficacité des missions de voie publique dans ce secteur.
