@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901112412
+
+- Question : [SEQ901112412](seq901112412.md) — Financement par La Poste du parcours de la flamme olympique
+
+## Réponse
+
+*Postes, JO du 1991-01-10, page 68*
+
+Réponse. - Le parcours de la flamme olympique, organisé par La Poste et le comité d'organisation des XVIe jeux Olympiques d'hiver, a été annoncé officiellement le 25 septembre 1990. Il se déroulera du 14 décembre 1991 au 8 février 1992, date de l'ouverture des jeux Olympiques. Ce parcours couvrira 5 000 kilomètres pendant 57 jours, correspondant aux 57 médailles d'or attribuées lors des jeux eux-mêmes, Le parcours a été conçu en fonction d'un certain nombre de critères : 1° traverser toutes les régions françaises métropolitaines. Toutes les capitales régionales sont villes d'étapes, les autres villes étapes étant déterminées en fonction des liaisons obligatoires entre ces capitales régionales ; 2° les étapes sont effectuées entièrement à pied, à une moyenne de 10 kilomètres par heures. Ceci implique qu'elles n'excèdent pas la moyenne de 100 kilomètres par jours ; 3o enfin, la durée du parcours ne doit pas dépasser deux mois. Ces différentes contraintes ont obligé les organisateurs à rechercher la meilleure solution. Pour couvrir largement le territoire français, il est évident que des choix ont dû être faits. Certaines villes importantes n'ont pu être retenues et en ce qui concerne la ville de Nice, malgré un examen minutieux de toutes les hypothèses envisageables, il n'a pas été possible de l'inclure dans le parcours. Cependant, tous les départements français seront partie prenante du parcours par l'intermédiaire des porteurs du flambeau olympique. En effet, les départements bénéficient d'un quota de relais dans leur région, proportionnel au nombre d'habitants. Tous les jeunes de quinze à vingt ans au moment du parcours sont invités à se porter candidat dès le printemps prochain.
