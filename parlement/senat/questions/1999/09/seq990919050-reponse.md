@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990919050
+
+- Question : [SEQ990919050](seq990919050.md) — Suspension des nouveaux contrats emploi solidarité
+
+## Réponse
+
+*Emploi, JO du 2000-02-03, page 419*
+
+Réponse. - La loi d'orientation et de lutte contre les exclusions nº 98-657 du 29 juillet 1998 a rénové le cadre réglementaire des dispositifs contrat emploi-solidarité et contrat emploi-consolidé pour favoriser le retour à l'emploi de celles et ceux qui en sont actuellement exclus. Les CES et CEC sont recentrés sur les publics en difficulté pour lesquels il s'avère, dans le cadre d'une étude individualisée des demandes, qu'ils sont adaptés à leurs besoins. Dans ce cadre, le nombre de places offertes en CES a diminué passant de 500 000 en 1998 à 450 000 en 1999 alors que le nombre de places de contrats emploi-consolidé augmentait dans la même période (50 000 entrées nouvelles pour 1999). Le département de l'Aisne, comme les autres départements, a également connu une diminution de l'enveloppe CES pour l'année 1999. Il a néanmoins été décidé, pendant le mois de juillet 1999, dans le cadre du redéploiement des crédits destinés à lutter contre le chômage de longue durée accordés à la région Picardie, d'attribuer une enveloppe supplémentaire de plus de 400 contrats emploi-solidarité au département de l'Aisne. J'ajoute que, cette enveloppe semblant insuffisante, il a été décidé d'accorder à nouveau près de 600 places réparties ainsi : 350 CES et 250 CEC. Il est néanmoins important, au-delà d'une nécessaire période d'adaptation, que les employeurs qui recourent de façon intensive aux CES, parfois pour remplir certaines de leurs fonctions essentielles, recentrent leur action sur le seul objectif d'insertion des personnes en difficulté. Ils permettront ainsi que davantage de personnes, pour lesquelles le CES est une étape cruciale pour le retour, y accèdent tout en contribuant à la maîtrise du volume global des CES.
