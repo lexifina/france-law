@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901011860
+
+- Question : [SEQ901011860](seq901011860.md) — Taux de scolarisation des enfants de deux ans
+
+## Réponse
+
+*Éducation, JO du 1990-11-29, page 2536*
+
+Réponse. - L'école maternelle constitue effectivement une étape fondamentale dans la scolarisation des enfants. Conformément aux objectifs définis dans la loi d'orientation sur l'éducation, il s'agit d'une part d'accueillir tous les enfants dès l'âge de trois ans et, donc, de rattraper les retards dont souffrent certaines académies, d'autre part de développer la scolarisation des enfants de deux ans qui vivent dans des secteurs défavorisés ou qui proviennent de milieux défavorisés sur le plan tant économique que social ou culturel. Grâce aux moyens supplémentaires dégagés à la rentrée 1990 et à ceux qui sont prévus au budget 1991, l'amélioration constante enregistrée pour l'accueil des enfants de trois ans depuis 1980 pourra se poursuivre. De même, l'accueil et les conditions de scolarisation des enfants de deux ans dans les zones sensibles feront l'objet d'une attention particulière. En effet, si l'augmentation globale du taux de préscolarisation des enfants de deux ans doit être recherchée dans la mesure du possible, cet objectif, qui ne doit pas dissimuler d'autres priorités telles que la création de nouvelles classes dans les secteurs en expansion ou le renforcement des moyens de remplacement, devient véritablement impératif dans les zones d'éducation prioritaire ou présentant des difficultés d'environnement. S'agissant plus précisément du département du Pas-de-Calais, il convient de souligner que celui-ci bénéficie d'une situation nettement plus favorable que bon nombre de départements. C'est ainsi que 98,20 p. 100 des enfants de trois ans étaient scolarisés en 1989 et que 44,06 p. 100 des enfants de deux ans avaient trouvé une place en école maternelle la même année.
