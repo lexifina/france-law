@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991120398
+
+- Question : [SEQ991120398](seq991120398.md) — Bilan de l'application du décret du 16 décembre 1998 modifiant la réglementation sur les armes
+
+## Réponse
+
+*Intérieur, JO du 2000-01-06, page 56*
+
+Réponse. - Parmi les mesures prescrites par le décret nº 98-1148 du 16 décembre 1998 modifiant le décret nº 95-589 du 6 mai 1995 sur la réglementation des armes, certaines sont définitivement en vigueur. Il s'agit notamment de l'obligation de présenter un permis de chasser ou une licence de tir lors de l'achat d'armes ou de munitions de 5e catégorie et de l'obligation de justifier de la détention d'un coffre-fort pour l'acquisition et la détention d'armes et de munitions de 1re ou de 4e catégorie. D'autres mesures n'ont pas reçu encore leur plein effet. C'est le cas en particulier de l'obligation pour les tireurs sportifs qui demandent à être autorisés à acquérir et à détenir une arme de 1re ou de 4e catégorie, de présenter un carnet de tir portant mention de leur participation à 3 séances contrôlées par an de pratique du tir. Cette mesure ne sera totalement effective qu'en janvier 2000, les 3 séances contrôlées de tir devant légalement être espacées d'au moins deux mois. Il s'agit aussi du reclassement en 4e catégorie des armes d'épaule à répétition à canon lisse muni d'un dispositif de rechargement à pompe dont le chargeur ou le magasin peut contenir cinq cartouches au plus et des armes de poing à percussion annulaire à un coup dont la longueur totale est supérieure à 28 centimètres. Ces reclassements sont effectifs depuis le 19 décembre 1998, mais, conformément aux dispositions de l'article 30 du décret précité du 6 mai 1995, les détenteurs de ces armes disposent d'un délai d'un an pour se mettre en conformité avec la réglementation relative à la détention des armes de 4e catégorie.
