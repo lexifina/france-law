@@ -1,0 +1,11 @@
+# Réponse à la question SEQ890705598
+
+- Question : [SEQ890705598](seq890705598.md) — Extension du bénéfice de dégrèvements fiscaux aux auteurs de donations et legs aux musées municipaux
+
+## Réponse
+
+*Économie, JO du 1989-10-19, page 1707*
+
+Réponse. - L'article 7-III de la loi n° 86-972 du 19 août 1986 portant diverses dispositions relatives aux collectivités locales prévoit que " les donations et legs faits au profit des musées municipaux font bénéficier leurs auteurs des mêmes avantages fiscaux que ceux faits au profit des musées nationaux... ". Cette mesure ne peut être mise en oeuvre dès lors qu'en matière de droits d'enregistrement, dans le cadre desquels ce texte a été adopté, il n'existe pas de disposition particulière applicable aux dons et legs aux musées municipaux. Cela dit l'objectif recherché par cette mesure est en grande partie atteint, ainsi que le souligne l'honorable parlementaire, par l'application de l'article 1131 du code général des impôts qui prévoit que l'acquéreur, le donataire, l'héritier ou le légataire d'une oeuvre d'art, de livres, d'objets de collection ou de documents de haute valeur artistique ou historique est exonéré des droits de mutation et des taxes annexes affé
+
+rents à la transmission de ces biens lorsqu'il en est fait don à l'Etat dans le délai prévu pour l'enregistrement de l'acte constatant la mutation ou de la déclaration de succession. En effet, il est admis que l'offre de donation à l'Etat puisse être assortie de la condition que le bien faisant l'objet de la libéralité soit affecté par l'Etat à un musée départemental ou communal. Ce dispositif est compatible avec les règles de la comptabilité publique et l'autonomie des collectivités locales. Cela dit, il résulte des articles 794-I et 795-1° et 6° du code général des impôts que les dons et legs effectués au profit des collectivités en cause elles-mêmes ou d'établissements pourvus de la personnalité civile et destinés à figurer dans une collection publique sont exonérés de droits de mutation à titre gratuit. Ces mesures sont de nature à répondre aux préoccupations exprimées.
