@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010935331
+
+- Question : [SEQ010935331](seq010935331.md) — Lutte contre le SIDA : initiative de solidarité thérapeutique hospitalière
+
+## Réponse
+
+*Coopération, JO du 2001-11-29, page 3775*
+
+Le ministre délégué à la coopération et à la francophonie a le plaisir de préciser à l'honorable palementaire l'état d'avancement de la mise en oeuvre de l'initiative de solidarité hospitalière pour la prise en charge des personnes infectée par le VIH/SIDA. Cette initiative lancée par la France au printemps 2001 a déjà reçu le soutien de 6 pays européens. Elle vise à développer des partenariats renforcés entre centres hospitaliers du Nord et du Sud afin de développer un environnement favorable à l'initiation, au suivi et au contrôle des traitements anti-rétroviraux contre l'infection à VIH/SIDA. Plus de 50 centres hospitaliers français se sont portés volontaires pour assurer, pendant 2 à 3 ans un soutien régulier à leurs collègues du sud. Ce soutien prendra la forme de : missions de formation et de compagnonnage médical, paramédical, médico-technique ; accueil en France des partenaires ; aide à la gestion pharmaceutique et à la maintenance des équipements ; fourniture d'équipements déclassés... Les services du ministère des affaires étrangères, direction générale de la coopération internationale et du développement, travaillent avec ceux du ministère de l'emploi et de la solidarité afin que les partenariats proposés s'inscrivent pleinement dans les priorités des programmes nationaux de lutte contre le VIH/SIDA et potentialisent les actions déjà conduites par le MAE au titre du fonds de solidarité prioritaire (projets pays, FSTI, projets mobilisateurs ou inter-Etats). D'ici à la fin de l'année 2001 des conventions pourront être signées avec les pays et les structures de santé concernées, et les premiers échanges devraient avoir lieu au début de l'année 2002.
