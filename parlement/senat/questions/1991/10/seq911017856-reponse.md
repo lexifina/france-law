@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911017856
+
+- Question : [SEQ911017856](seq911017856.md) — Plafonnement indiciaire des personnels de direction de l'enseignement du second degré
+
+## Réponse
+
+*Éducation, JO du 1992-05-14, page 1128*
+
+Réponse. - Une modification de l'article 8 du décret n° 88-343 du 11 avril 1988 afin de remplacer la référence au traitement brut des professeur agrégés hors-classe par celle au traitement brut des inspecteurs d'académie, directeurs des services départementaux de l'éducation nationale pour le calcul du traitement indiciaire des chefs d'établissement, n'est pas envisagée dans l'immédiat. En effet, l'instauration de cette limite se justifie par la nécessité de préserver l'équilibre existant entre l'indice terminal de la hors-classe des professeurs agrégés, celui des personnels de direction, celui des inspecteurs pédagogiques régionaux, inspecteurs d'académies et celui des inspecteurs d'académie, directeurs des services départementaux de l'éducation nationale. Il convient, en effet, de rappeler que, seuls les emplois d'inspecteurs d'académie, directeurs des services départementaux de l'éducation nationale, des académies les plus importantes permettent à leurs titulaires d'accéder à la hors-échelle B. Le statut de 1988 prévoit cependant que le pourcentage statutaire des emplois de 1re classe de 1re catégorie doit représenter 30 p. 100 des effectifs du corps, ce qui offre à tous ses membres la garantie d'une promotion dans le cadre d'un déroulement normal de carrière. La date prévue pour atteindre ce pourcentage, initialement fixée à l'année 1992 a été ramenée, à l'issue des négociations conduites avec les organisations de personnels, à l'année 1991. Il convient par ailleurs de noter qu'outre le traitement afférent à leur corps, les personnels de direction perçoivent une bonification pouvant atteindre 150 points.
