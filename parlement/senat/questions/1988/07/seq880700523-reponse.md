@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880700523
+
+- Question : [SEQ880700523](seq880700523.md) — Progression de la rage
+
+## Réponse
+
+*Agriculture, JO du 1988-11-24, page 1320*
+
+Réponse. - Des opérations de vaccination par voie orale des renards contre la rage ont été conduites pour la première fois en France en octobre 1986 sur des zones limitées situées le long de la frontière luxembourgeoise. Depuis lors, ces opérations ont été progressivement étendues, pour porter sur 3 790 kilomètres carrés en septembre de cette année (Lorraine : 2 250 kilomètres carrés, Haute-Savoie : 1 290 kilomètres carrés, Doubs : 250 kilomètres carrés). La surveillance épidémiologique exercée à la suite des campagnes de vaccination successives a permis de montrer que les résultats obtenus dans notre pays sont tout à fait favorables et ne diffèrent pas de façon significative de ceux obtenus dans les pays voisins. La généralisation de cette méthode de prophylaxie de la rage est donc désormais envisageable, et les services compétents du ministère de l'agriculture et de la forêt travaillent actuellement à l'élaboration d'un programme de vaccination plus ambitieuxqui intéresserait en 1989 une superficie de près de 10 000 kilomètres carrés. Les crédits du chapitre 44-70 (crédits destinés à la lutte contre les maladies des animaux) qui ont été consacrés à la vaccination des renards en 1986 et 1987 se sont élevés respectivement à 100 000 francs et 430 000 francs. En 1988, ces crédits devraient atteindre 727 000 francs. Il convient d'ajouter à ces sommes les contributions financières de certains conseils régionaux ou généraux intéressés au lancement des opérations de vaccination sur leur territoire. Pour 1989, il est prévu d'augmenter de manière significative les crédits réservés à la lutte contre la rage et de dégager les financements nécessaires à la réalisation du programme de vaccination projeté par redéploiement à l'intérieur du chapitre concerné.
