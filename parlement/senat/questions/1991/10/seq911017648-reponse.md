@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911017648
+
+- Question : [SEQ911017648](seq911017648.md) — Exonération de la TVA sans possibilité d'option des locations de logements meublés ou garnis à usage d'habitation
+
+## Réponse
+
+*Budget, JO du 1992-01-16, page 122*
+
+Réponse. - Depuis le 1er janvier 1991, l'article 261 D-4 du code général des impôts, dans sa rédaction issue de l'article 48 de la loi de finances rectificative pour 1990, exonère de T.V.A. les locations occasionnelles, permanentes ou saisonnières de logements meublés ou garnis à usage d'habitation. La mise à disposition d'un local meublé ou garni demeure soumise à la taxe lorsque l'exploitant offre, en plus de l'hébergement, le petit déjeuner, le nettoyage quotidien des locaux, la fourniture de linge de maison, et la réception de la clientèle et qu'il est immatriculé au registre du commerce et des sociétés au titre de cette activité. Lorsqu'ils fournissent les prestations parahôtelières ainsi définies par la loi, les loueurs en meublé peuvent, en contrepartie de leur assujettissement à la T.V.A., récupérer la taxe afférente à leurs investissements dans les conditions de droit commun en application des dispositions du décret n° 91-352 du 11 avril 1991. Ce dispositif devrait favoriser, dans les zones touristiques, l'offre de location de logements meublés avec prestations parahôtelières, et permettra d'alléger les obligations administratives des autres loueurs. Enfin, conformément à la 6e directive européenne du 17 mai 1977, le caractère éventuellement civil d'une opération est sans incidence en matière de T.V.A. Par ailleurs, le fait qu'un agriculteur assujetti à la T.V.A. réalise une prestation accessoire non agricole, telle que la location meublée, n'implique pas que cette prestation soit soumise, en matière de T.V.A., à un régime identique à celui de l'activité principale.
