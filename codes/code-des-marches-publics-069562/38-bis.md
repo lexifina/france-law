@@ -20,7 +20,7 @@ I. - Les marchés passés sur adjudication ou sur appel d'offres font l'objet d'
 
 9° Le cas échéant, les modalités d'obtention du dossier ou de transmission des offres ;
 
-10° En cas d'appel d'offres, les critères énumérés à l'article 97 et éventuellement les critères additionnels pris en compte lors de l'attribution du marché, classés par ordre décroissant d'importance.
+10° En cas d'appel d'offres, les critères énumérés aux articles 95, 97 bis, 297 et 299 bis et éventuellement les critères additionnels pris en compte lors de l'attribution du marché, classés par ordre décroissant d'importance.
 
 11° En outre, en cas de marché de conception-réalisation :
 
