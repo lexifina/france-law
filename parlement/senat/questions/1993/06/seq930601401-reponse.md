@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930601401
+
+- Question : [SEQ930601401](seq930601401.md) — Prévention et surveillance médicale des personnels pénitentiaires
+
+## Réponse
+
+*Justice, JO du 1993-08-26, page 1480*
+
+Réponse. - Les personnels de l'administration pénitentiaire bénéficient, comme l'ensemble des personnels de la justice, de la médecine de prévention mise en place par la direction de l'administration générale et de l'équipement au ministère de la justice, conformément au décret n° 82-453 du 28 mai 1982 relatif à l'hygiène et à la sécurité du travail ainsi qu'à la prévention médicale dans la fonction publique, et à la circulaire ministère de la justice DAGE 85 42 11 concernant la mise en place d'un service de médecine préventive au ministère de la justice. Concrètement, lorsque la médecine de prévention n'est pas assurée par des médecins du travail directement recrutés par le ministère de la justice, convention est passée avec des organismes spécialisés dans ce domaine. En outre, la direction de l'administration pénitentiaire, soucieuse de l'état de santé de ses agents et des conditions d'hygiène dans lesquelles ils exercent leurs fonctions, a créé, en plus des comités d'hygiène et de sécurité départementaux existants, des comités d'hygiène et de sécurité spéciaux pour les quatre plus grands établissements pénitentiaires, dans le but de mieux prendre en compte les préoccupations spécifiques aux personnels pénitentiaires. Enfin, par voie de circulaire, elle a encouragé le dépistage systématique de la tuberculose, en liaison avec les services départementraux et a également proposé à l'ensemble de ses personnels la vaccination et ses rappels contre l'hépatite virale B. C'est dans ce cadre que les agents en poste à la maison d'arrêt de Douai peuvent notamment, être représentés au comité d'hygiène et de sécurité départemental et sont vaccinés, s'ils le souhaitent, contre l'hépatite virale B par le médecin de prévention exerçant à l'établissement.
