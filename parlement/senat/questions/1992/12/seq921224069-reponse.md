@@ -1,0 +1,9 @@
+# Réponse à la question SEQ921224069
+
+- Question : [SEQ921224069](seq921224069.md) — Français résidant au Canada : suppression de double imposition en matière successorale
+
+## Réponse
+
+*Budget, JO du 1993-03-04, page 377*
+
+Réponse. - La France a conclu avec le Canada, le 16 mars 1951, une convention tendant à éviter les doubles impositions en matière de droits de mutation par décès, qui prévoit l'imputation de l'impôt perçu dans l'un des Etats sur l'impôt dû dans l'autre. Cependant, le Canada a, depuis lors, supprimé, tant au niveau fédéral que provincial, les droits de mutation à titre gratuit. Le Canada impose désormais à l'impôt sur le revenu les plus-values latentes sur le patrimoine du défunt calculées au jour de son décès. Dès lors, les dispositions de la convention fiscale franco-canadienne du 16 mars 1951 ne trouvent plus à s'appliquer. Les droits de mutation sont dus en France dans les conditions prévues par les articles 750 ter et suivants du code général des impôts, sans que puisse être imputé l'impôt canadien sur le revenu. De même, les droits de mutation français ne peuvent venir en déduction de l'impôt sur le revenu exigible au Canada. Les autorités françaises ont proposé aux autorités canadiennes de mettre un terme à cette situation de double imposition économique, qui n'est évidemment pas imputable à l'assistance administrative prévue par la convention franco-canadienne du 2 mai 1975, tendant à éviter les doubles impositions en matière d'impôts sur le revenu et sur la fortune. En revanche, la plus-value réalisée postérieurement à la succession et constatée à l'occasion de la cession du bien immobilier situé en France, qu'évoque également l'honorable parlementaire, est imposable en France en vertu de l'article 13 de la convention du 2 mai 1975 précitée. La double imposition de cette plus-value est évitée par l'imputation de l'impôt français sur l'impôt canadien dû à raison de la même plus-value.
