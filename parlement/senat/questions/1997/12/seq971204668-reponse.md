@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971204668
+
+- Question : [SEQ971204668](seq971204668.md) — Partenariat entre les pouvoirs publics et l'assurance maladie pour déterminer les orientations et les modalités de la régulation du système de soins
+
+## Réponse
+
+*Emploi, JO du 1999-09-30, page 3230*
+
+Réponse. - Le développement du partenariat entre les pouvoirs publics et l'assurance maladie dans le programme de médicalisation des systèmes d'information (PMSI), préconisé par la Cour des comptes, est engagé et peut être illustré par de nombreux dossiers. L'élaboration de la classification commune des actes des professions de santé en est un exemple. L'extension du PMSI de court séjour aux cliniques privées à but lucratif appelle un travail en commun constant auquel sont associées les fédérations des établissements concernés. En outre, pour être en mesure d'apprécier par un même instrument de mesure l'activité des établissements sous dotation globale et celle des cliniques privées, les services de la Caisse nationale d'assurance maladie des travailleurs salariés (CNAMTS) sont étroitement associés à ceux du ministère de l'emploi et de la solidarité aux travaux du groupe en charge de l'élaboration d'une échelle commune. Par ailleurs, à l'initiative de la direction des hôpitaux, la direction de la recherche, des études, de l'évaluation et des statistiques du ministère de l'emploi et de la solidarité vient d'engager avec la CNAMTS un programme de publications à partir des informations du PMSI, dont le premier exemple est une étude nationale concernant les actes chirurgicaux liés au cancer du sein. Enfin, le rassemblement des moyens nationaux nécessaires à la mise en uvre du PMSI dans une structure juridique spécifique, permettant notamment une association plus étroite de l'assurance maladie, fait l'objet d'une réflexion avancée, comme l'a souhaité la Cour des comptes.
