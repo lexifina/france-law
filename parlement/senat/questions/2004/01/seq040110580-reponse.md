@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040110580
+
+- Question : [SEQ040110580](seq040110580.md) — Travaux sur l'extraction des protéines du tabac
+
+## Réponse
+
+*Santé, JO du 2004-03-25, page 739*
+
+L'utilisation des plantes génétiquement modifiées comme producteurs de protéines date des années quatre-vingt. Ainsi, les recherches sur le tabac ont mis en évidence sa capacité à produire des protéines à haute valeur alimentaire et même des molécules, comme la neuropiline, ayant un rôle dans le système immunitaire. Ces recherches ouvrent, à long terme, des perspectives intéressantes sur le plan agro-alimentaire et en médecine. Cependant, les risques liés au tabagisme actif sont bien connus (66 000 décès par an en France). L'usage du tabac à fumer a des conséquences sur la santé liées non seulement à la toxicité des particules contenues dans la fumée, mais aussi au monoxyde de carbone dégagé par la combustion du produit. Les très nombreux composants de la fumée du tabac, plus de 4 000, comprenant des nitrosamines et du benzopyrène, proviennent de la plante elle-même, des produits utilisés pour sa culture et des centaines d'additifs (agents sucrants ou de saveur, humectants, ammoniaque...) rajoutés hors de son traitement pour en faire le produit commercialisé dans les cigarettes. Ces composés actifs sont toxiques et carcinogènes. Le monoxyde de carbone empêche le transport complet d'oxygène vers le coeur et favorise la survenue de l'athérosclérose. Enfin, la nicotine induit la dépendance au tabac, amenant ainsi le fumeur à renouveler sa consommation malgré les risques induits pour sa santé. Le rapport sur la " réduction du risque tabagisme ", réalisé en 2001, à la demande du directeur général de la santé, par le professeur Dubois, montre bien que, quelles que soient les interventions faites sur le produit, l'usage du tabac à fumer reste un comportement néfaste pour la santé du fumeur et de son entourage.
