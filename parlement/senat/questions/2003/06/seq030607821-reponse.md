@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030607821
+
+- Question : [SEQ030607821](seq030607821.md) — Procédures judiciaires sur Internet
+
+## Réponse
+
+*Justice, JO du 2003-08-07, page 2554*
+
+Le garde des sceaux a l'honneur de faire savoir à l'honorable parlementaire qu'il n'existe pas à l'heure actuelle d'expérimentation autorisant un prévenu à faire part de ses arguments par voie de courrier électronique, lorsqu'il ne peut être présent à l'audience. Une telle expérimentation s'opposerait au principe d'oralité des débats qui gouverne la procédure d'audience pénale en France. Toutefois, la loi n° 2001-1062 du 15 novembre 2001 sur la sécurité quotidienne a inséré dans le code de procédure pénale un article 706-71 qui permet l'usage de la vidéo-conférence en matière pénale pour les auditions et interrogatoires de personnes en cours d'enquête. Cette disposition, adoptée de façon temporaire, a été rendue définitive par la loi d'orientation et de programmation pour la justice du 9 septembre 2002. Le décret d'application prévue par la loi du 15 novembre 2001 a été présenté le 12 mars 2003 au Conseil d'Etat et est actuellement en cours de signature. Enfin, le projet de loi portant adaptation de la justice aux évolutions de la criminalité, actuellement en cours de discussion au Parlement, propose une extension du dispositif de la vidéo-conférence aux débats contradictoires relatifs à la détention provisoire. Cette extension est également prévue pour les auditions des parties civiles, des experts et des témoins durant la phase de jugement, et les interrogatoires des prévenus devant le tribunal de police. L'utilisation de la vidéo-conférence dans le processus judiciaire pourrait faire l'objet de plusieurs expérimentations qui pourraient débuter d'ici à la fin du troisième trimestre 2003 avec le soutien de la mission modernisation de la direction des services judiciaires de la Chancellerie.
