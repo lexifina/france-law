@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960314671
+
+- Question : [SEQ960314671](seq960314671.md) — Intégration d'un quotient familial dans le calcul du forfait hospitalier
+
+## Réponse
+
+*Travail, JO du 1997-04-17, page 1205*
+
+Réponse. - Le forfait journalier répond au souci de faire participer financièrement les assurés ou leurs bénéficiaires aux frais occasionnés par leur hébergement en milieu hospitalier. A ce titre, il est supporté par les personnes hospitalisées dans des établissements hospitaliers, publics ou privés, en service de court ou moyen séjour y compris dans les services de lutte contre les maladies mentales, ou hébergées dans les établissements médico-sociaux (maisons d'accueil spécialisées). Ce forfait est dû quelle que soit la situation du malade hospitalisé au regard de la couverture sociale ; il est facturé de plein droit aux non-résidents. Il n'est pas susceptible d'être pris en charge par les régimes obligatoires de protection sociale, sauf dans les cas suivants : bénéficiaires de l'assurance maternité ; victimes d'accidents du travail ou de maladies professionnelles ; pensionnés militaires au titre de l'article L. 115 ; enfants et adolescents handicapés hébergés en structure médico-éducative ou dont l'hospitalisation est en rapport avec le handicap ; les nouveau-nés pendant 30 jours. Le forfait s'impute à due concurrence sur la participation laissée éventuellement à la charge des assurés (ticket modérateur), lorsque le montant de cette participation est supérieur ou égal à celui du forfait journalier ; dans le cas contraire (extrêmement rare) la participation est imputée sur le forfait. Le forfait journalier a été porté à 70 francs le 1er janvier 1996. Cette mesure était destinée à alléger la charge du budget hospitalier. En dehors de cette augmentation, il n'est pas envisagé de nouvelle hausse du forfait, ni d'introduction d'autres formes de modulation comme le quotient familial, dans le calcul du forfait.
