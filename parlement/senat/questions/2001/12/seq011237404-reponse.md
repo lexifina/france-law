@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011237404
+
+- Question : [SEQ011237404](seq011237404.md) — Citation accompagnant la médaille des évadés au titre de la guerre 1939-1945
+
+## Réponse
+
+*Anciens combattants, JO du 2002-02-14, page 463*
+
+La loi du 20 août 1926 qui a créé la médaille des évadés pour honorer les anciens combattants évadés au cours du conflit 1914-1918 conférait un caractère systématique à l'attribution d'une citation. S'agissant du second conflit mondial, le principe d'attribution d'une citation accompagnant la médaille des évadés a été posé par la loi n° 46-2423 du 31 octobre 1946 et le décret n° 59-282 du 7 février 1959. Ces textes précisent que l'octroi de la médaille des évadés peut être accompagné d'une citation ouvrant droit au bénéfice de la croix de guerre 1939-1945. Toutefois, contrairement à la médaille des évadés de la Première Guerre mondiale, l'attribution de cette distinction honorifique en complément de la médaille des évadés de la Seconde Guerre mondiale ne peut intervenir que dans des cas exceptionnels liés aux conditions dans lesquelles se sont produites les évasions. Ces conditions particulières ont été fixées dès 1946 par les plus hautes autorités de l'Etat pour tenir compte des spécificités de ce conflit. En tout état de cause, l'attribution de cette citation doit être liée à l'accomplissement d'un acte individuel dans des circonstances exceptionnelles. Sans méconnaître les conditions de vie particulières des Alsaciens-Mosellans au cours du second conflit mondial, les autorités ont entendu donner aux membres de la commission des évadés qui possèdent toutes les conditions professionnelles requises pour en débattre la capacité de statuer sur chacun des cas qui leur sont soumis chaque année et d'émettre un avis en toute équité. Dans ces conditions, il n'y a pas lieu de réserver une suite favorable à la demande de modification du décret du 7 février 1959.
