@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020238652
+
+- Question : [SEQ020238652](seq020238652.md) — Conditions de gardiennage et de surveillance des immeubles d'habitation
+
+## Réponse
+
+*Logement, JO du 2002-04-11, page 1060*
+
+L'objectif du décret du 28 décembre 2001 relatif aux obligations de gardiennage ou de surveillance de certains immeubles d'habitation est de garantir une présence humaine effective sur le terrain, en la développant là où elle est actuellement insuffisante, afin d'assurer, par le lien social avec les habitants, la tranquillité des lieux. Les missions à assurer et les emplois concernés doivent se comprendre à la lumière de cet objectif. Les emplois permettant de répondre à l'obligation d'une personne par tranche de cent logements, énumérés par le décret, ont fait l'objet d'une concertation approfondie avec les bailleurs, notamment les organismes d'HLM. Les termes du décret retiennent, d'une part, les gardiens au sens traditionnel, dont les dénominations varient en fonction des conventions collectives en vigueur dans les différentes catégories de bailleurs, d'autre part, les " agents de proximité " ou de médiation, de jour comme de nuit, fonctions qui se sont développées récemment pour assurer le contact avec les habitants. Le cadre général de ce dispositif ne permet pas de retenir des personnels qui n'exerceraient que des fonctions de ménage, d'entretien ou de petites réparations, fonctions qui sont différentes de la surveillance et du gardiennage, mais, dans la pratique, les mêmes personnes assurent souvent simultanément les deux types de fonctions, ce qui peut-être valablement retenu. Par ailleurs, le décret du 28 décembre 2001 ouvre la faculté de recourir à du personnel d'un prestataire de services en lieu et place du personnel employé directement par le bailleur. Ce prestataire peut-être une entreprise, mais également une association ou une régie de quartier.
