@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970220581
+
+- Question : [SEQ970220581](seq970220581.md) — Menaces pesant sur les spécificités des caisses d'épargne
+
+## Réponse
+
+*Économie, JO du 1997-04-10, page 1119*
+
+Réponse. - Les caisses d'épargne ont pris l'initiative de réfléchir à une évolution de leur statut. Les orientations auxquelles cette réflexion les a conduites consistent à transformer les caisses d'épargne en sociétés anonymes coopératives, les dotant ainsi d'un capital qui serait cédé progressivement. La transformation de leur forme juridique vers les formes de droit commun s'inscrit dans un mouvement d'ensemble. Elle est une des conséquences de l'élargissement de l'activité de ces établissements et de leur rôle croissant dans l'économie du pays et au sein de nos régions. Il est logique et nécessaire que les caisses d'épargne soient dotées d'un statut qui leur permette de devenir des entreprises bancaires comparables aux autres établissements. Le Gouvernement sera très attentif à ce que cette évolution conduise effectivement à ce que les exigences de rentabilité ou de rémunération des fonds propres deviennent des références de gestion naturelles de façon à assurer durablement la solidité financière des caisses d'épargne et donc la sécurité de leur clientèle, et plus largement le fonctionnement harmonieux de la concurrence dans le système bancaire. Les responsables des caisses d'épargne sont convaincus de la nécessité d'une réforme et ont entrepris d'en convaincre l'ensemble du groupe, et notamment son personnel. Il importe toutefois que la réforme de leur statut se fasse dans le respect scrupuleux des valeurs qui fondent la place particulière de ces établissements dans l'opinion publique, tout en étant compatible avec les objectifs de modernisation et de réforme structurelle que poursuit le Gouvernement. Un travail important doit encore être mené avec les responsables des caisses d'épargne pour préciser les grandes lignes de ce projet.
