@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930802377
+
+- Question : [SEQ930802377](seq930802377.md) — Fiscalisation des indemnités des élus
+
+## Réponse
+
+*Budget, JO du 1993-10-14, page 1898*
+
+Réponse. - Le régime d'imposition des indemnités de fonction perçues par les titulaires de mandats locaux fait actuellement l'objet d'une réflexion d'ensemble en vue d'atténuer les difficultés d'application qui sont apparues, notamment celles dont font état les honorables parlementaires. Cela dit, il est dès à présent possible de préciser les points suivants : 1o les fonctionnaires en position de détachement pour exercer un mandat électif local selon les règles définies par la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique de l'Etat peuvent être considérés comme n'exerçant pas d'activité professionnelle, au sens de l'article 47 de la loi de finances rectificative pour 1992 n° 92-1476 pendant la période de détachement. Ils peuvent dès lors opter pour l'imposition à l'impôt sur le revenu des indemnités de fonction qu'ils perçoivent dans le cadre de leur mandat électif local ; 2o la loi n'a pas prévu une régularisation des retenues effectuées en cours d'année dès lors que les limites des tranches du barème annuel qui est applicable sont réduites proportionnellement à la période à laquelle se rappore le paiement de l'indemnité de fonction et à la durée d'exercice du mandat pendant cette période ; 3o le délai pendant lequel les retenues à la source afférentes aux indemnités de fonction perçues par les titulaires de mandats locaux, qui n'ont pu être prélevées au début de cette année, est doublé. La régularisation peut donc s'effectuer sur la période de juillet 1993 à juillet 1994. Cet aménagement a été porté à la connaissance des préfets chargés d'informer les élus locaux et figure dans une instruction du 8 juin 1993 au Bulletin officiel des impôts sous la référence 5 F-14-93.
