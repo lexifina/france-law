@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911017855
+
+- Question : [SEQ911017855](seq911017855.md) — Dégradation du service des postes
+
+## Réponse
+
+*Postes, JO du 1991-12-12, page 2802*
+
+Réponse. - Les moyens d'acheminement du courrier urgent utilisés entre Paris et le département de la Vendée doivent permettre une distribution le lendemain du jour ouvrable de l'envoi dans la mesure où l'heure limite de dépôt du courrier a été respectée par l'expéditeur. Mais il convient de noter que l'acheminement du courrier est tributaire des moyens de transport et de leurs aléas, des défaillances humaines ou techniques qui peuvent provoquer des retards ponctuels ou moins sensibles. Toute référence au passé est difficile en raison de la différence considérable des quantités de trafic traitée - 66 millions de plis par jour - et de l'évolution du contexte social, économique et technologique. Au cas particulier, le pli a vraisemblablement subi les effets d'une erreur de tri et des fausses directions induites par cette manipulation. Aussi, cet incident ne saurait-il être étendu à l'ensemble du trafic postal. La Poste met actuellement en oeuvre un plan d'action pour améliorer et fiabiliser les délais d'acheminement du courrier. Dans cette optique ses actions porteront principalement sur le second plan d'automatisation du courrier qui permettra de traiter un éventail plus large d'objets ; le perfectionnement de son réseau et tout particulièrement du réseau aérien dont la transformation s'achèvera en 1993, permettant l'amélioration des liaisons inter-régionales ; la révision des organisations dans les bureaux et centres de tri, les fins de semaine, afin d'améliorer la mauvaise qualité de distribution du courrier déposé le vendredi. Ces mesures permettent d'escompter une amélioration de la qualité de service.
