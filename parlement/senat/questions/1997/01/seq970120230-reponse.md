@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970120230
+
+- Question : [SEQ970120230](seq970120230.md) — Absence d'étude sur la parité homme-femme dans les lieux de pouvoirs
+
+## Réponse
+
+*Emploi, JO du 1997-05-02, page 1373*
+
+Réponse. - Mme le ministre délégué pour l'emploi est très sensible à la nécessité de produire en France des études statistiques sur la place des femmes et des hommes dans les lieux de pouvoir. Une mission études, recherches et statistiques travaille en ce sens depuis 1995 au sein du service des droits des femmes. Les orientations des programmes d'études sont structurés autour de trois axes : un inventaire statistique quantitatif, des études qualitatives et d'évaluation, des études permettant la prise de décision. D'ores et déjà le service a fait réaliser une étude chiffrée sur la place des femmes aux postes de décision dans différents secteurs de la vie publique en France. D'autres études, en cours de réalisation, contribueront à l'amorce de mise en place d'un cadre statistique permanent sur les femmes dans la vie publique et sociale afin de recueillir les données statistiques et leur ventilation par sexe, trop nombreuses actuellement. Enfin, le service des droits des femmes et l'INSEE actualiseront, tous les quatre ans, l'édition de Femmes en chiffres. Ce travail permet de faire le point sur les sources statistiques disponibles, leurs méthodes de traitement et d'examiner les concepts qui méritent d'être adoptés en raison de l'évolution sociale et économique. Les panels d'enquête seront actualisés tous les cinq ans afin d'améliorer l'information disponible. Ce cadre statistique va avoir le mérite de nous mettre à la hauteur des documents fournis par les institutions de l'Union européenne pour lequel Eurostat s'efforce de promouvoir un degré de comparabilité accru au sein des Etats membres.
