@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020801617
+
+- Question : [SEQ020801617](seq020801617.md) — Transport des élèves par les enseignants dans le cadre des activités sportives
+
+## Réponse
+
+*Jeunesse, JO du 2002-10-10, page 2324*
+
+Il n'a jamais été dans l'intention du ministre d'entraver le bon fonctionnement de l'association sportive d'un établissement. Les conditions fixées par la note de service n° 86-101 du 5 mars 1986 relative à l'utilisation des véhicules personnels des enseignants et des membres de certaines associations pour transporter les élèves visent à mieux garantir la sécurité des élèves. Le caractère exceptionnel et supplétif de ce mode de transport répond à cet objectif. D'une manière générale, il n'entre pas dans les obligations statutaires des enseignants de conduire des véhicules, qu'ils soient personnels, de location ou de service, même dans le cadre d'activités scolaires, cette fonction incombant normalement à un chauffeur professionnel. Cependant, devant les difficultés rencontrées dans ce domaine par les établissements et afin de leur permettre d'accomplir leur mission, il est admis que le chef d'établissement puisse demander à un enseignant de remplacer exceptionnellement le conducteur attitré. Lorsque la conduite d'un véhicule administratif est ainsi confiée à un enseignant, la responsabilité de l'Etat est substitué à celle de son agent, auteur des dommages causés dans l'exercice de ses fonctions, en vertu de la loi n° 57-1424 du 31 décembre 1957, attribuant aux tribunaux judiciaires compétence pour statuer sur les actions en responsabilité des dommages causés par tout véhicule et dirigées contre une personne de droit public. II est donc nécessaire que les fonctionnaires en cause puissent établir que c'est à la demande de leur chef d'établissement qu'ils ont accompli cette tâche. A cet effet, ils doivent être munis d'un ordre de mission.
