@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910314551
+
+- Question : [SEQ910314551](seq910314551.md) — Centres d'aide par le travail de la Somme
+
+## Réponse
+
+*Industrie, JO du 1993-03-29, page 593*
+
+Réponse. - Le Gouvernement, conscient de l'importance des besoins des personnes handicapées, a mis en oeuvre en 1990 deux plans pluriannuels destinés à améliorer les capacités d'accueil dans les structures de travail protégé et dans les établissements médico-sociaux destinés aux personnes les plus gravement handicapées. 14 400 places nouvelles de travail protégé, dont 10 800 places de centres d'aide par le travail et 3 600 places d'ateliers protégés, auront été créées entre 1990 et 1993. 4 840 places nouvelles de maisons d'accueil spécialisées auront été créées sur la même période. Un effort sans précédent a donc été consenti par le Gouvernement depuis 1990, pour améliorer l'accueil des personnes handicapées, dans des structures de travail protégé, centres d'aide par le travail et ateliers protégés. Il apparaît aujourd'hui nécessaire de prolonger cet engagement et d'accroître encore cet effort pour répondre plus précisément à l'attente des personnes handicapées et de leur famille. L'un des soucis majeurs qui doit guider cette planification est en effet d'assurer une meilleure répartition de l'offre afin de permettre aux personnes handicapées de trouver une structure adaptée à leurs besoins à proximité de leur lieu de résidence ou de celui de leur famille. C'est pourquoi, lors de la réunion du Conseil national consultatif des personnes handicapées qui s'est tenue le 21 décembre 1992, le secrétaire d'Etat aux handicapés, au nom du Gouvernement, a confirmé qu'une suite serait donnée au plan pluriannuel en faveur du travail protégé dès 1994. Le département de la Somme a bénéficié de la création de 47 places de CAT depuis 1991. Il est envisagé la création de 16 places de CAT pour 1993, ce qui portera le nombre total de places à 969.
