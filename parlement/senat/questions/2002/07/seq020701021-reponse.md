@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020701021
+
+- Question : [SEQ020701021](seq020701021.md) — Harmonisation des dommages et intérêts fixés par les tribunaux pour l'indemnisation d'un décès
+
+## Réponse
+
+*Justice, JO du 2002-12-05, page 2992*
+
+Le garde des sceaux, ministre de la Justice, ne peut que regretter que l'honorable parlementaire n'ait pu obtenir de réponse à sa question avant la fin de la précédente législature. L'indemnisation des conséquences d'un décès consiste en la réparation intégrale des dommages causés par la disparition de la personne, évalués concrètement. Les juges doivent donc se livrer à une analyse des divers chefs de préjudice tels qu'ils se présentent avec toutes leurs particularités. Ainsi, l'ampleur du préjudice économique subi par les personnes qui étaient à la charge du défunt dépend notamment du montant de ses revenus, des chances sérieuses qui étaient les siennes de voir évoluer sa situation professionnelle et de la configuration de sa famille. De même, l'évaluation du préjudice moral éprouvé par les proches est fonction des liens réels qui les unissaient au défunt, éventuellement des circonstances du décès et de l'âge de chacun. Cette appréciation menée in concreto explique pour une large part les différences indemnitaires relevées. Cependant, le garde des sceaux, ministre de la Justice soucieux d'améliorer le sort des victimes, conformément à l'une des grandes orientations de la loi du 9 septembre 2002, a élaboré un programme d'action, qui a été présenté en conseil des ministres le 18 septembre dernier. Ce plan prévoit notamment de rendre plus justes et plus transparentes les modalités d'indemnisation des préjudices. Le Conseil national de l'aide aux victimes est d'ores et déjà saisi de la question. Un groupe de travail sera très prochainement mis en place afin de réfléchir à une meilleure harmonisation des réparations.
