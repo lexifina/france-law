@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970600061
+
+- Question : [SEQ970600061](seq970600061.md) — Contrôle des bons anonymes
+
+## Réponse
+
+*Économie, JO du 2000-02-10, page 523*
+
+Réponse. - L'article 97 de la loi de finances pour 1997 a aménagé le régime fiscal des bons de capitalisation, des bons de caisse et des bons du Trésor en réservant le régime de faveur des titres non anonymes aux bons ou contrats souscrits dès l'émission sous la forme nominative et qui ne font pas l'objet de cession jusqu'à la date de leur remboursement. Sous ces réserves, le régime de faveur des bons non anonymes s'applique indifféremment au souscripteur ou au bénéficiaire nominativement désigné initialement par le souscripteur. La possibilité donnée au souscripteur de désigner un bénéficiaire constitue une modalité particulière d'accès à ce régime de faveur, qui n'emporte aucune conséquence au regard du droit de propriété ou des règles civiles ou fiscales en matière de succession : nonobstant la désignation d'un bénéficiaire, le souscripteur reste donc propriétaire d'un bon de cette nature et conserve par conséquent la possibilité de se présenter au remboursement du vivant du bénéficiaire ainsi qu'en cas de décès de ce dernier. Dans cette dernière situation, le bon ne fait bien entendu pas partie de la succession du bénéficiaire. En cas de prédécès du souscripteur, la possibilité de se présenter au remboursement avec application du régime fiscal de faveur appartient à ses ayants droit ou au bénéficiaire désigné lors de la souscription du bon ou à ses ayants droit. Pour l'application du régime fiscal de faveur, le souscripteur ne peut pas postérieurement à la souscription, et conformément aux dispositions de l'article 97 de la loi de finances pour 1997 et du décret nº 97-1158 du 17 décembre 1997 (JO du 19 décembre 1997, p. 18368), modifier le nom du bénéficiaire.
