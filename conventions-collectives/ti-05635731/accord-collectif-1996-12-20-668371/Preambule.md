@@ -1,5 +1,0 @@
-# Article Préambule
-
-L'article L. 932-2 du code du travail et l'article 40-11 de l'accord national interprofessionnel du 3 juillet 1991 modifié par l'avenant du 5 juillet 1994, relatif à la formation et au perfectionnement professionnels, ont institué un dispositif qui permet aux salariés, dans des conditions et modalités à définir par accord collectif, de suivre des actions de formation correspondant à leur projet professionnel et relevant du plan de formation de l'entreprise, en vue de leur permettre de se perfectionner professionnellement ou d'élargir ou accroître leur qualification.
-
-C'est dans cet esprit qu'ils sont convenus des dispositions de l'article 1-C de l'accord collectif du 16 décembre 1994 relatif à la création d'un organisme paritaire collecteur agréé interbranches industries chimiques, pétrolières et pharmaceutique auquel les parties signataires ont adhéré par accord du 28 novembre 1995 et qu'ils fixent, par le présent accord, les conditions dans lesquelles le capital temps de formation est mis en oeuvre dans les entreprises de la fabrication et du commerce des produits à usage pharmaceutique, parapharmaceutique et vétérinaire.
