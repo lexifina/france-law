@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000323549
+
+- Question : [SEQ000323549](seq000323549.md) — Reclassement d'agents publics
+
+## Réponse
+
+*Fonction publique, JO du 2000-06-15, page 2144*
+
+Réponse. - L'article 2 du décret nº 85-1054 du 30 septembre 1985 relatif au reclassement des fonctionnaires territoriaux reconnus inaptes à l'exercice de leurs fonctions dispose que " lorsque l'état physique d'un fonctionnaire territorial, sans lui interdire d'exercer toute activité, ne lui permet pas d'exercer des fonctions correspondant aux emplois de son grade, l'autorité territoriale ou le président du Centre national de la fonction publique territoriale ou le président du centre de gestion, après avis du comité médical, invite l'intérressé soit à présenter une demande de détachement dans un emploi d'un autre corps ou cadres d'emplois, soit à demander le bénéfice des modalités de reclassement prévues à l'article 82 de la loi nº 84-53 du 26 janvier 194 ". Ainsi, dans l'hypothèse où l'autorité territoriale ne peut pas proposer de poste de reclassement à son agent, le président du centre de gestion ou le président du Centre national de la fonction publique territoriale, selon le grade de l'agent, invite celui-ci à faire une demande de reclassement dans un autre corps ou cadres d'emplois correspondant aux fonctions pouvant être exercées par celui-ci, sur avis du comité médical. Si l'agent en fait la demande, le président du Centre national de la fonction publique territoriale ou le président du centre de gestion lui transmettra les offres d'emplois correspondant au grade de reclassement souhaité par l'intéressé. Cependant, le recrutement de l'agent dans cet emploi reste soumis à l'accord de l'autorité territoriale qui a seule le pouvoir de nomination. En outre, dans le cas de détachement, l'article 3 du décret susmentionné prévoit la nécessité d'obtenir l'avis des commissions administratives paritaires compétentes.
