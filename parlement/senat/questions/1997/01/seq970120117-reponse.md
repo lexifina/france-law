@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970120117
+
+- Question : [SEQ970120117](seq970120117.md) — Création d'un corps de garde-côtes
+
+## Réponse
+
+*Défense, JO du 1997-03-13, page 767*
+
+Réponse. - La constitution d'un corps de garde-côtes français a déjà fait l'objet de plusieurs études au sein du ministère de la défense. Bien que ce concept existe dans d'autres pays, il ne paraît pas opportun de l'introduire en France où les missions de service public en milieu maritime relèvent d'une organisation spécifique dite " action de l'Etat en mer ". Cette organisation repose sur la coordination des différentes administrations de l'Etat ayant une vocation maritime, les principales d'entre elles étant la marine nationale, les affaires maritimes, la gendarmerie nationale et les douanes. La répartition des missions qui leur sont confiées résulte d'une décision du comité interministériel de la mer en date du 15 novembre 1979. Au plan gouvernemental, la coordination de l'action de l'Etat en mer relève de la compétence du secrétariat général de la mer, qui dépend directement du Premier ministre. En métropole, cette coordination est assurée, par un officier général de la marine nationale, le préfet maritime, qui dispose en outre d'un pouvoir de police générale en mer. Dans les départements et territoires d'outre-mer, cette fonction est accomplie par les préfets et hauts commissaires, délégués généraux du Gouvernement. L'expérience démontre que ce mode d'organisation, qui bénéficie du savoir-faire et des moyens utilisés par chaque administration, présente le meilleur rapport coût/efficacité. Il n'est donc pas envisagé de le modifier. S'il diffère, dans la forme, du modèle des garde-côtes mis en place par nos voisins européens (Pays-Bas, Grande-Bretagne, RFA), il s'en rapproche sur le fond. En effet, dans le cas comme dans l'autre, la coordination de l'emploi des moyens sous une autorité unique constitue la clé de voûte du système.
