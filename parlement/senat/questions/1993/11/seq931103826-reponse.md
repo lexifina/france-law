@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931103826
+
+- Question : [SEQ931103826](seq931103826.md) — Procédure du divorce sur requête conjointe
+
+## Réponse
+
+*Justice, JO du 1994-02-24, page 449*
+
+Réponse. - Ainsi que le rappelle l'honorable parlementaire, le prononcé du divorce sur requête conjointe et l'homologation de la convention définitive ont un caractère indissociable. En conséquence, la remise en cause de la seule convention homologuée se heurterait au principe de l'autorité de la chose jugée et à l'indivisibilité du jugement de divorce. Pour autant, les parties ne se trouvent pas démunies contre d'éventuelles erreurs que contiendrait la convention définitive. D'abord, l'article 232 du code civil fait obligation au juge, avant l'homologation, de vérifier si la convention préserve suffisamment les intérêts des enfants ou de l'un des époux. Ce contrôle préventif est destiné à éviter le type de difficultés soulevées par l'auteur de la question. En outre, la juridiction peut toujours être saisie d'une demande d'interprétation de clauses homologuées bien qu'imparfaitement rédigées ou incomplètes. En second lieu, l'intangibilité de la convention définitive n'est pas absolue. Les parties peuvent en effet former un pourvoi en cassation à l'encontre du jugement prononcé en cas d'erreur de droit. Un recours en révision pourrait également être exercé notamment en cas de fraude caractérisée d'une partie. Enfin, la convention homologuée peut être modifiée d'un commun accord par les ex-époux par une nouvelle convention soumise également à homologation. Dans ces conditions et eu égard à l'indispensable sécurité juridique des conventions définitives qui sont destinées à régir les conséquences du divorce, il n'apparaît pas opportun d'envisager une réforme des textes en vigueur sur le point considéré.
