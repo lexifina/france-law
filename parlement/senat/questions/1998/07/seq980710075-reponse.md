@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980710075
+
+- Question : [SEQ980710075](seq980710075.md) — Evaluation tardive des conséquences sociales des régularisations des étrangers en situation irrégulière
+
+## Réponse
+
+*Emploi, JO du 1998-11-19, page 3717*
+
+Réponse. - Les auteurs du rapport de la commission d'enquête du Sénat chargée de recueillir les informations sur les régularisations d'étrangers en situation irrégulière opérées depuis le 1er juillet 1997, intitulé " De la non-régularisation au non-éloignement, un risque majeur pour l'intégration et la cohésion nationale : les clandestins officiels ", annexé au procès-verbal de la séance du Sénat du 3 juin 1998 estiment, à la page 82, que l'évaluation des conséquences sociales des régularisations des étrangers en situation irrégulière a été tardive : " La première évaluation des conséquences sociales des régularisations n'a été réalisée que grâce à l'insistance de la commission d'enquête... Il est également préoccupant de constater que le ministère de l'emploi et de la solidarité, pourtant partie prenante du dispositif de régularisation, n'avait pas pris l'initiative de diligenter de lui-même de telles études. " Pour apprécier les conséquences de la régularisation sur les comptes sociaux, deux conditions préalables devaient être remplies. D'une part, il était nécessaire de disposer d'une évaluation du nombre total de personnes bénéficiaires de l'opération. D'autre part, il était indispensable, pour connaître l'impact de la régularisation sur les prestations familiales, de disposer d'une connaissance de la composition précise des familles bénéficiaires, avant et après la régularisation. Ces données n'ont été disponibles que lorsque le nombre de questionnaires sociaux remplis a été suffisant pour en permettre une exploitation statistique pertinente.
