@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000323620
+
+- Question : [SEQ000323620](seq000323620.md) — Rémunération et facturation des services bancaires
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2000-06-08, page 2096*
+
+Réponse. - Le gouvernement a confié, fin 1998, à M. Benoît Jolivet, président du Comité des usagers du Conseil national du crédit et du titre, la présidence d'un groupe de travail banques-consommateurs sur : la définition d'un partenariat " équilibré et mutuellement profitable " entre les banques et leurs clients ; la prévention de l'exclusion bancaire, pour ce qui concerne notamment l'accès au compte et le contenu d'un service bancaire de base. Au terme de ce travail d'analyse extrêmement riche, le groupe s'est engagé, à la fin de l'année 1999, dans une phase de négociation effective. S'agissant du premier thème de négociation, les travaux ont porté notamment sur l'application aux banques des trois derniers articles du code de la consommation (art. L. 113-3 relatif à l'obligation d'affichage des prix et conditions de vente, art. L. 121-35 relatif à l'interdiction des ventes avec primes et art. L. 122-1 portant sur le refus de vente et l'interdiction des ventes liées), en tenant compte toutefois de la spécificité du secteur. S'agissant du second thème de discussion, les travaux ont porté principalement sur la nature et le tarif du service bancaire de base, ainsi que sur les bénéficiaires de ce service, au-delà de ceux mentionnés à l'article 137 de la loi du 29 juillet 1998 sur l'exclusion. En tout état de cause, les pouvoirs publics souhaitent qu'une attention particulière soit accordée à l'accès aux services bancaires, l'évolution des relations entre les banques et leurs clients devant s'accompagner de mesures fortes en direction des populations des plus fragiles, afin de prévenir tout risque d'exclusion bancaire.
