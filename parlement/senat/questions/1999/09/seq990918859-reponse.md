@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990918859
+
+- Question : [SEQ990918859](seq990918859.md) — Statut des administrateurs ad hoc travaillant dans le domaine de l'enfance maltraitée
+
+## Réponse
+
+*Justice, JO du 1999-12-16, page 4163*
+
+Réponse. - Le garde des sceaux, ministre de la justice, partage la préoccupation de l'honorable parlementaire de doter d'un véritable statut ceux qui contribuent au fonctionnement de la justice et l'informe que le décret visé à l'article 706-51 du code de procédure pénale, relatif aux modalités de désignation et d'indemnisation des administrateurs ad hoc, a été signé le 16 septembre 1999 sous le numéro 99-818 et publié au Journal officiel du 19 septembre 1999. La loi du 17 juin 1998 avait fixé les attributions des administrateurs ad hoc : assurer la protection des intérêts du mineur et exercer, s'il y a lieu, au nom de celui-ci les droits reconnus à la partie civile. Le décret nº 99-818 s'attache, en précisant les modalités de leur nomination, de leur désignation et de leur indemnisation, à fixer leur statut. Ce décret dispose qu'une liste des administrateurs ad hoc est dressée tous les quatre ans dans le ressort de chaque cour d'appel et précise les conditions d'inscription des personnes physiques et morales sur cette liste, conditions parmi lesquelles figurent l'intérêt porté aux questions de l'enfance et la compétence. Il organise les modalités de la désignation d'un administrateur ad hoc et instaure la possibilité pour les représentants légaux du mineur de contester cette désignation par la voie de l'appel. Il prévoit le compte rendu des démarches effectuées par l'administrateur à l'autorité qui l'a désigné et fixe les montants de leur indemnisation selon la nature de la procédure judiciaire. Une circulaire, qui commentera les dispositions des articles 706-50 et 706-51 du code de procédure pénale et du décret précité, est en cours d'élaboration.
