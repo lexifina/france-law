@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960917673
+
+- Question : [SEQ960917673](seq960917673.md) — Bilan de l'expérimentation de la régulation triennale des flux scolaires
+
+## Réponse
+
+*Éducation, JO du 1996-10-31, page 2847*
+
+Réponse. - Lors de l'examen du projet de loi de programmation du " nouveau contrat pour l'école " au Sénat les 4 et 5 juillet 1995, l'engagement a été pris de créer, à titre expérimental, un observatoire des flux d'élèves du premier degré. Cette expérimentation a débuté à la rentrée scolaire 1995-1996 dans dix-sept départements : l'Aisne, l'Ariège, l'Aube, le Bas-Rhin, la Creuse, le Doubs, le Gers, la Haute-Marne, les Hauts-de-Seine, l'Ille-et-Vilaine, la Loire, la Lozère, le Nord, l'Orne, le Pas-de-Calais, la Vienne et les Vosges. Trois départements, la Côte-d'Or, la Drôme et les Hautes-Alpes viennent de s'associer à l'expérimentation. Cet observatoire, précisé et composé par l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, a pour mission d'étudier les flux d'élèves et les tendances et de prévoir, à moyen terme, les évolutions par secteur. Les élus du département apportent leur concours direct à ces travaux. Au stade actuel de l'expérimentation, il apparaît que les perspectives ouvertes par l'observatoire départemental des flux d'élèves du premier degré sont étendues. En effet, indépendamment de la contribution que les travaux de l'observatoire des flux apportent à la politique scolaire départementale du premier degré, cet observatoire va dans le sens d'un partenariat affirmé et fructueux entre les responsables que sont les inspecteurs d'académie, directeurs des services départementaux de l'éducation nationale, d'une part, et des élus locaux, d'autre part. Cette expérimentation se poursuit, pendant l'année scolaire 1996-1997, dans les vingt départements.
