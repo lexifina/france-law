@@ -8,6 +8,6 @@ a) En tous lieux, son usage est interdit à moins de cinquante mètres de la lai
 
 b) Dans le pertuis breton, il n’est autorisé qu’entre le 1er avril et le 30 septembre et uniquement dans le secteur compris à l’Est de la ligne joignant la pointe du Plomb à la pointe du Chiquet. Le navire qui utilise le chalut à anguilles ne doit par détenir à son bord un autre chalut.
 
-c) Dans le pertuis d’Antioche, il n’est autorisé toute l’année qu’au Sud d’une ligne joignant la balise du Douhet, la bouée Nord- Ouest de la longe de Boyard, la bouée du Chaland (Nord-Ouest Ile d’Aix), la pointe de Châtelaillon au Nord de ces limites, il n’est autorisé qu’entre le 1er avril et le 30 septembre.
+c) Dans le pertuis d’Antioche, il est autorisé toute l’année au Sud d’une ligne joignant la balise du Douhet, la bouée Nord-Ouest de la longe de Boyard, la bouée du Chaland (Nord-Ouest de l’île d’Aix) et la pointe de Châtelaillon sauf dans la zone visée au quatrième alinéa de l’article 10 ci-après.
 
 d) Pour l’ensemble des deux pertuis, les prises accessoires effectuées à l’aide du chalut à anguilles ne peuvent excéder 10 p. 100 en poids des captures totales.
