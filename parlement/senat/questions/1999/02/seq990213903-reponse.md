@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990213903
+
+- Question : [SEQ990213903](seq990213903.md) — Composition de l'Agence française de sécurité sanitaire des aliments
+
+## Réponse
+
+*Agriculture, JO du 1999-05-20, page 1666*
+
+Réponse. - L'honorable parlementaire a appelé l'attention du ministre de l'agriculture et de la pêche sur la place qu'occuperont les industriels de la nutrition animale au sein de l'Agence française de sécurité sanitaire des aliments. Au niveau du conseil d'administration, dont la composition est précisée par le décret nº 99-242 du 26 mars 1999, quatre membres des organisations professionnelles siégeront, représentant les industries agro-alimentaires. Le souhait de disposer d'un conseil d'administration à effectif restreint, pour être efficace, ne permettait pas, compte tenu de l'étendue du champ d'intervention de l'agence, de représenter la totalité des organisations uvrant dans la filière agro-alimentaire. Une représentation exhaustive aurait impliqué en effet une participation des industriels de la chimie (pesticide, engrais...) de la logistique et du transport, de l'eau... En revanche, les aspects relatifs à la sécurité sanitaire des aliments destinés aux animaux seront traités par le nouvel établissement, qui se substitue à la commission interministérielle et interprofessionnelle de l'alimentation animale. Le décret du 26 mars 1999 renvoie à un arrêté la constitution de comités d'experts spécialisés, dont la répartition des compétences sera établie en collaboration avec le directeur général de l'agence. Ces comités ont pour vocation l'évaluation scientifique des dossiers. Afin d'éviter tout conflit d'intérêt, il n'est pas envisagé d'y nommer des représentants de l'industrie. En revanche, au stade des groupes de travail qui précéderont les comités d'experts, la participation d'experts scientifiques issus du monde industriel est vivement souhaitée.
