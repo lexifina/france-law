@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960716695
+
+- Question : [SEQ960716695](seq960716695.md) — Situation de La Poste à Tournefeuille (Haute-Garonne)
+
+## Réponse
+
+*Poste, JO du 1997-01-09, page 82*
+
+Réponse. - Comme nombre de services publics, La Poste de la Haute-Garonne doit répondre aux besoins grandissants de la population des zones urbaines à développement démographique rapide. C'est ainsi qu'à l'issue d'une étude très approfondie portant sur l'organisation du service de la distribution de la commune de Tournefeuille, La Poste de la Haute-Garonne a décidé de créer une tournée supplémentaire ainsi qu'une tournée d'une durée de trois heures. Cette réorganisation prend bien entendu en compte l'évolution démographique constatée dans ce secteur ainsi que l'automatisation du traitement du courrier au centre de tri, qui permet d'alléger de manière très significative la tâche des facteurs concernés. Il convient de souligner que l'organisation actuelle, mise en place en juillet 1992, avait déjà conduit, pour les mêmes raisons, à créer un emploi supplémentaire et à allonger d'une heure une tournée, laquelle a été portée par la suite à temps complet. La Poste adapte ainsi ses organisations pour assurer au mieux ses missions de service public et répondre aux attentes de ses clients. Par ailleurs, concernant la titularisation du personnel non titulaire, un accord d'entreprise a été signé à La Poste le 12 juillet 1996 prévoyant un plan ambitieux de lutte contre la précarité ayant pour objectif d'améliorer la situation des agents contractuels. Il comprend diverses mesures allant dans le sens de la stabilisation de l'emploi contractuel à La Poste. C'est ainsi qu'il sera prochainement proposé aux agents contractuels les plus utilisés à la distribution des contrats à durée indéterminée intermittents, avec chaque fois que cela sera possible, une augmentation de la durée minimale d'utilisation des agents concernés.
