@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980407762
+
+- Question : [SEQ980407762](seq980407762.md) — Titre de reconnaissance de la nation aux anciens combattants d'Algérie
+
+## Réponse
+
+*Anciens combattants, JO du 1998-05-21, page 1627*
+
+Réponse. - Aux termes de la loi no 53-7 du 4 janvier 1953 et du décret no 93-1117 du 16 septembre 1993, le titre de reconnaissance de la nation peut être attribué aux personnels militaires et civils comptant quatre-vingt-dix jours de présence dans les unités engagées dans les conflits ou opérations donnant droit à la carte du combattant. S'il est parfaitement logique, eu égard aux circonstances qui ont prévalu alors, de prolonger la période de conflit en Algérie au-delà du cessez-le-feu le 19 mars, jusqu'au 2 juillet 1962, il apparaît difficile de considérer que l'état de guerre aurait perduré postérieurement. En effet, le transfert de souveraineté entre la France et les nouvelles autorités algériennes s'est effectué le 2 juillet 1962. La période qui a suivi a en effet continué d'être perturbée, mais les unités de l'armée française n'ont pas eu à participer à des opérations relevant de l'odre public. Néanmoins, elles ont dû être exposées à ces troubles. Cette question relève d'une appréciation militaire des circonstances historiques dans lesquelles se sont trouvées les unités des armées françaises après cette date. Le secrétaire d'Etat aux anciens combattants a entrepris de réunir les informations qui rendront possible une telle appréciation.
