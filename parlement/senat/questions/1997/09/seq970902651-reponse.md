@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970902651
+
+- Question : [SEQ970902651](seq970902651.md) — Lieux de consultation médicale pour les jeunes accessibles gratuitement
+
+## Réponse
+
+*Éducation, JO du 1997-10-23, page 2900*
+
+Réponse. - Les visites et examens prescrits au titre de la santé scolaire sont régis par l'ordonnance no 45-2407 du 18 octobre 1945 relative à la protection de la santé des enfants d'âge scolaire, des élèves et du personnel des établissements d'enseignement et d'éducaiton de tous ordres, codifiée aux articles L. 191 à L. 197 du code de la santé publique. Cette législation et les textes pris pour son application, qui confèrent aux communes certaines responsabilités en matière de création de centres médico-scolaires mis à la disposition du service d'hygiène scolaire, ne prévoient pas la possibilité d'autoriser des organismes externes à créer des lieux de consultation au sein des établissements scolaires, l'exercice des missions relatives à la santé scolaire relevant de la responsabilité du ministère de l'éducation nationale. Il est souligné, à ce sujet, que depuis le rattachement, le 1er janvier 1991, de la santé scolaire à ce département ministériel, l'importance des missions confiées à ce service, aux termes de la circulaire no 91-148 du 24 juin 1991, a conduit à opérer un effort significatif de renforcement des effectifs. Ainsi, entre 1990 et 1996, le potentiel global en médecins titulaires, contractuels et vacataires a progressé de plus de 24 %. La loi de finances pour 1997 ne comporte pas de création d'emplois de médecins de l'éducation nationale. Toutefois, pour répondre aux besoins prioritaires constatés en ce domaine, il a été décidé, pour la rentrée scolaire 1997, une augmentation sensible des crédits de vacations de la médecins scolaire afin de permettre le recrutement immédiat de personnels supplémentaires.
