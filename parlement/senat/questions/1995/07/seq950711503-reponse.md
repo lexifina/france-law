@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950711503
+
+- Question : [SEQ950711503](seq950711503.md) — Prévention du cancer du sein
+
+## Réponse
+
+*Travail, JO du 1996-02-15, page 348*
+
+Réponse. - L'efficacité d'un programme de dépistage de masse se mesure par la réduction de la mortalité. Différentes études ont montré que le dépistage de masse par mammographie peut réduire de l'ordre de vingt à quarante p. 100 la mortalité par cancer du sein, chez les femmes de cinquante à soixante-neuf ans qui se soumettent régulièrement à une mammographie tous les deux ou trois ans. Concernant les femmes de quarante à quarante-neuf ans, les résultats sont divergents avec une tendance majoritaire montrant qu'il n'existe aucun bénéfice à un dépistage de masse dans cette tranche d'âge. D'autre part, avant cinquante ans, les seins ont une forte densité hydrique rendant difficile la lecture d'une mammographie faite dans les conditions du dépistage de masse. Ceci a pour conséquence un nombre plus important d'erreurs de lecture et en particulier d'erreurs dans le sens d'une lecture classée négative alors qu'elle se révèle positive avec des examens plus poussés. Le programme national de dépistage systématique du cancer du sein, actuellement opérationnel dans quinze départements, veut offrir aux femmes un dépistage avec le maximum de garanties. En conséquence, devant les incertitudes scientifiques et les risques de rendu de résultats erronés pour la tranche d'âge de quarante à quarante-neuf ans, le choix au niveau national comme dans la plupart des pays a été de ne s'adresser qu'aux femmes de cinquante à soixante-neuf ans. Pour les femmes de quarante à quarante-neuf ans, et dans le cadre d'un dépistage individuel, le médecin peut, en fonction des signes cliniques et des facteurs de risque, prescrire une mammographie qui sera alors remboursée par la sécurité sociale au taux habituel de remboursement des actes de radiologie.
