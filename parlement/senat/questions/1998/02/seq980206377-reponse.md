@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980206377
+
+- Question : [SEQ980206377](seq980206377.md) — Emplois jeunes et sécurité
+
+## Réponse
+
+*Intérieur, JO du 1998-04-02, page 1064*
+
+Réponse. - En embauchant en trois ans 20 000 adjoints de sécurité qui vont s'ajouter aux 130 000 fonctionnaires de la police nationale, l'Etat fait un effort sans précédent au niveau des effectifs qui vont pouvoir opérer sur le territoire de la République. En permettant un recrutement plus diversifié, plus conforme aux caractéristiques locales, la police se donne les moyens d'adapter son profil sociologique aux réalités sociales de notre pays. En accueillant ces adjoints de sécurité pendant plus de deux mois, les écoles de police donnent à ces jeunes une formation de base nécessaire à l'exercice du métier d'adjoint de sécurité, qui sera complétée tout au long de leur contrat de cinq ans par une formation continue pouvant éventuellement déboucher sur les métiers de la police. Les adjoints de sécurité ne sont pas des gardiens de la paix mais des jeunes recrutés, formés et chargés de missions liées au développement de la police de proximité au sein de notre dispositif de sécurité. Ils sont encadrés par des policiers titulaires expérimentés. Leur recrutement spécifique permet une affectation locale et ciblée, propre à développer une police au plus près des réalités sociales en particulier dans les quartiers difficiles. Leur connaissance des publics jeunes est un facteur de régulation des relations sociales dans les quartiers, complété par un accueil personnalisé dans les services de police. Ainsi, grâce à ces nouveaux effectifs, la police nationale renforcera ses missions traditionnelles de surveillance générale et de protection et accentuera son rôle de prévention, tout en favorisant au plan local le développement de réponses innovantes aux questions d'insécurité urbaine.
