@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021003143
+
+- Question : [SEQ021003143](seq021003143.md) — Versement des aides de l'Etat aux sylviculteurs français touchés par la tempête de 1999
+
+## Réponse
+
+*Agriculture, JO du 2003-02-06, page 435*
+
+A la suite des tempêtes de décembre 1999, l'Etat s'est engagé à mobiliser annuellement, sur une période de dix ans, une moyenne de 91,5 millions d'euros au profit des opérations de reconstitution des peuplements sinistrés. Le dispositif, complété par les aides prévues dans les avenants tempêtes des contrats de plan Etat-région, a donné lieu à la mise à disposition des régions, en 2000, 2001 et 2002, d'enveloppes de crédits d'un montant total de 381,5 millions d'euros. En 2003, l'enveloppe inscrite en loi de finances initiale atteindra 115 millions d'euros, en incluant la contrepartie communautaire apportée par le FEOGA. Les engagements de l'Etat sont ainsi respectés. En outre et de façon à supprimer les files d'attente qui avaient pu se constituer dans certaines régions, un financement complémentaire de 30 millions d'euros interviendra au titre du collectif budgétaire de fin 2002, ce qui génère, en y ajoutant les contreparties communautaires, une capacité supplémentaire d'engagement des dossiers d'aide à hauteur de 50 millions d'euros. Au total, donc, ce sont 165 millions d'euros qui seront mobilisés au cours de l'année 2003. Le soutien national en faveur des sylviculteurs sinistrés sera ainsi poursuivi à la hauteur des enjeux économiques, sociaux et environnementaux que représente le patrimoine forestier. Afin de permettre une accélération de l'instruction des dossiers de demande d'aide, des mesures de simplification des procédures, accompagnant un assouplissement des règles édictées par le décret du 16 décembre 1999 relatif aux aides de l'Etat pour les opérations d'investissement, devraient intervenir prochainement.
