@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991120687
+
+- Question : [SEQ991120687](seq991120687.md) — Fonctionnement des nouvelles communautés d'agglomérations
+
+## Réponse
+
+*Intérieur, JO du 2000-07-20, page 2578*
+
+Réponse. - Au-delà du président et des vice-présidents de la communauté d'agglomération, dont les indemnités relèvent de l'article L. 5211-12 du code général des collectivités territoriales, les autres membres du conseil de cet établissement public bénéficient, en application des dispositions de l'article L. 5216-4 de ce code, du même régime d'indemnités que les conseillers municipaux. Ainsi, ils peuvent percevoir une indemnité de fonctions, au taux maximal de 6 % de l'indice brut 1 015, lorsque la communtauté d'agglomération regroupe 100 000 habitants au moins. Par ailleurs, et à condition que le montant total des indemnités autorisées pour le président et les vice-présidents ne soit pas dépassé, une indemnité peut être versée aux membres du bureau qui bénéficient de délégations de fonctions du président et, en deçà du seuil de 100 000 habitants, aux délégués qui sont chargés de mandats spéciaux par l'organe délibérant de l'établissement. En outre, les délégués dans les communautés d'agglomérations de 400 000 habitants au moins bénéficient d'indemnités majorées (28 % de l'indice brut 1 015) en application de l'article L. 5216-4-1 du code précité. Les suppléants mentionnés par l'article L. 5216-3 ont pour seule vocation de remplacer, à des réunions du conseil, des titulaires absents ou empêchés. Par conséquent, si des indemnités devaient être attribuées à ces suppléants, elles auraient nécessairement et exclusivement un caractère d'indemnités de présence. Or aucune disposition ne permet le versement d'indemnités de présence dans les établissements publics de coopération intercommunale.
