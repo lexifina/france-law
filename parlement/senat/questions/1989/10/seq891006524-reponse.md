@@ -1,0 +1,9 @@
+# Réponse à la question SEQ891006524
+
+- Question : [SEQ891006524](seq891006524.md) — Amélioration de l'habitat
+
+## Réponse
+
+*Logement, JO du 1990-02-01, page 220*
+
+Réponse. - Le Gouvernement entend intensifier en 1990 l'effort initié dès juin 1988 en faveur du logement social en accroissant les aides à la pierre en faveur du logement locatif social. Dans le budget pour 1990 adopté en première lecture à l'Assemblée nationale, les aides à la pierre s'élèvent à 12 136 M.F. en autorisations de programmes (A.P.) auxquels s'ajouteront 900 M.F. par voie de fonds de concours, soit un total de 13 036 M.F. Elles comprennent : le financement de 65 000 prêts locatifs aidés (P.L.A.) pour la construction de logements neufs ; le financement de 10 000 P.L.A. destinés à l'acquisition de logements anciens afin de faciliter l'accès au logement des ménages les plus démunis ; le financement des aides à la réhabilitation de logements sociaux, qui, avec une progression de 25 p. 100 des crédits, permettra de traiter 200 000 logements par an pendant cinq ans . La subvention accordée à l'Agence nationale pour l'amélioration de l'habitat (A.N.A. H.) s'élève à 1 900 M.F. en A.P. Elle permettra d'augmenter le nombre d'opérations de réhabilitation du parc privé par rapport à 1989, grâce à une utilisation plus efficace de ces aides. En ce qui concerne les primes à l'amélioration de l'habitat (P.A.H.), il est à noter que la dotation disponible pour 1989 a effectivement été réduite de 5 p. 100 dans le cadre des mesures de régulation de l'économie arrêtés par le Gouvernement ; cette mesure, applicable à l'échelon national, a été répercutée sur toutes les dotations régionales. Afin de permettre une meilleure adaptation de cette prime aux réalités locales et de renforcer son caractère social, une réforme est envisagée visant, à l'initiative des préfets, à une plus grande modulation des taux.
