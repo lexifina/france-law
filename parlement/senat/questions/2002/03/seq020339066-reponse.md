@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020339066
+
+- Question : [SEQ020339066](seq020339066.md) — Mise en place d'une version espagnole du site institutionnel du Centre national de la recherche scientifique
+
+## Réponse
+
+*Recherche, JO du 2002-04-25, page 1183*
+
+Le rapport au Parlement de la délégation générale à la langue française au titre de l'année 2001, précisait en effet que cette version était en cours d'étude. A ce jour, des devis ont été établis avec des prestataires professionnels afin de concrétiser ce projet. Toutefois, cette action s'inscrit aujourd'hui dans une refonte plus globale du site institutionnel du CNRS rendu notamment indispensable par la nécessité d'une mise en cohérence de ses éléments constituants et par l'arrivée de nouveaux outils internet. Un important projet a ainsi été défini au sein de cet établissement afin de reconsidérer les rubriques proposées, améliorer et changer les procédures de travail (décentralisation de la préparation des pages, hiérarchisation de l'information, mise en ligne automatique...) et rendre possible la consultation de l'essentiel du site en plusieurs langues étrangères. Ainsi, la traduction anglaise actuellement en ligne sera améliorée et des traductions en d'autres langues seront effectuées. Cependant ces traductions ne résulteront pas d'un dispositif de traduction automatique des pages françaises mais seront validées au préalable par les services compétents eu égard à l'importance et à la spécificité de la matière scientifique. Compte tenu de sa complexité, de ses objectifs ambitieux et de son coût, la mise en oeuvre de ce projet ne peut être envisagée que de manière échelonnée dans le temps. L'ensemble de ces changements contribuera à la création d'un environnement favorable au développement du site et à sa consultation par le plus grand nombre de non-francophones et au rayonnement de la culture scientifique française.
