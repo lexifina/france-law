@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980206367
+
+- Question : [SEQ980206367](seq980206367.md) — Brigade de gendarmerie d'Egly (Essonne)
+
+## Réponse
+
+*Défense, JO du 1998-04-02, page 1051*
+
+Réponse. - Depuis 1995, le nombre des crimes et délits constatés par les militaires de la brigade territoriale d'Egly est resté stable. Toutefois, l'accroissement des missions de cette unité, dont la circonscription compte 12 999 habitants en zone exclusive de gendarmerie et 22 605 en zone de police d'Etat, est incontestable. Afin de donner à la brigade d'Egly les moyens nécessaires au maintien d'un service de sécurité de proximité, son effectif de quatorze sous-officiers a été augmenté d'un militaire en 1997. Deux postes de gradés, restés momentanément vacants, vont être pourvus au 1er avril 1998. Par ailleurs, la brigade d'Egly est assistée, en tant que de besoin, par la brigade limitrophe de Marolles-en-Hurepoix, le peloton de surveillance et d'intervention de la gendarmerie, la brigade de recherches et la brigade motorisée de Palaiseau. En outre, des unités de gendarmerie mobile, en fonction de leur disponibilité, sont mises à la disposition de la compagnie de gendarmerie départementale de Palaiseau, dans le cadre de la politique de la ville et des missions de sécurisation des transports en commun. Les récentes dispositions législatives donnent également à la commune d'Egly la possibilité de créer des postes d'agents locaux de médiation, financés à 80 % par l'Etat au titre des contrats locaux de sécurité auxquels la gendarmerie nationale est partie prenante. L'augmentation des charges de cette brigade, notamment au regard de l'évolution démographique de la circonscription, imposera effectivement à terme son renforcement. Cette mesure pourra être favorisée par les adaptations du dispositif de la gendarmerie en zone de police d'Etat qui pourront être réalisées.
