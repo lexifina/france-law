@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001028537
+
+- Question : [SEQ001028537](seq001028537.md) — Relation de la Côte-d'Ivoire avec la zone franc
+
+## Réponse
+
+*Coopération, JO du 2000-12-07, page 4140*
+
+Réponse. - L'intervention du ministre ivoirien en date du 5 octobre 2000 qui prônait une " révision des accords qui lient la Côte d'Ivoire au compte d'opération ouvert auprès du Trésor français, " n'est à l'heure actuelle plus à l'ordre du jour. Cette proposition qui préconisait une parité flottante du franc CFA avait en outre l'inconvénient de sortir des mécanismes monétaires de la zone UEMOA. Une sortie de la zone franc de la Côte d'Ivoire pourrait entraîner d'importantes fluctuations du taux de change ivoirien et, éventuellement, un renchérissement des importations, sans pour autant stimuler les exportations (dont les " élasticités " sont faibles). L'idée d'une union monétaire qui associerait les pays de la zone franc (UEMOA) aux autres pays (notamment anglophones) de la CEDEAO a été avancée. Cependant, la faisabilité d'un tel projet reste hypothétique pour plusieurs raisons. L'espace économique est aujourd'hui très fragmenté : entraves de toutes sortes à la circulation des biens, des services, des capitaux et des personnes, inconvertibilité des monnaies entre elles. L'ensemble du projet reposerait sur des mécanismes de convergence supposant elles-mêmes une union économique forte. Certains des pays concernés sont affectés d'un manque patent de transparence financière. La probabitité qu'ils satisfassent les critères de convergence dans un délai rapide serait faible. Les progrès de l'intégration économique au sein de l'UEMOA ont creusé un écart notable avec la zone CEDEAO. C'est l'ensemble de ces progrès qui pourraient être remis en cause en cas d'intégration prématurée dans une zone " large " à la réussite aléatoire.
