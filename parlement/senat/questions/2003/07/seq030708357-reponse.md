@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030708357
+
+- Question : [SEQ030708357](seq030708357.md) — Composition du bureau d'un établissement public de coopération intercommunale
+
+## Réponse
+
+*Libertés locales, JO du 2003-11-06, page 3290*
+
+La composition du bureau des établissements publics de coopération intercommunale fait l'objet des dispositions de l'article L. 5211-10 du code général des collectivités territoriales qui prévoient un président, un ou plusieurs vice-présidents et, éventuellement, un ou plusieurs autres membres. Ce même article précise que le nombre de vice-présidents est librement déterminé par l'organe délibérant, sans que ce nombre puisse excéder 30 % de l'effectif de celui-ci. Ainsi, la loi donne expressément compétence à l'organe délibérant pour déterminer le nombre de vice-présidents. Quant à la composition du bureau, émanation de l'assemblée délibérante, il paraît logique qu'elle relève également d'une décision de cette assemblée, lors de sa séance d'installation, dans le cadre souple donné par la loi. Néanmoins, dans la mesure où l'article L. 5211-10 mentionne la compétence exclusive de l'organe délibérant uniquement pour fixer le nombre de vice-présidents, on peut admettre, sous réserve de l'appréciation souveraine des juridictions administratives qui n'ont pas eu à se prononcer, semble-t-il, à ce sujet, que les communes membres d'un EPCI peuvent prévoir, lors de l'élaboration des statuts de cet établissement, la représentation au sein du bureau de chaque commune sans déterminer par avance le nombre de vice-présidents. Dans le cas où le conseil d'une communauté de communes est constitué, en application de l'article L. 5214-7, selon un critère de population qui introduit une représentation proportionnelle, une représentation égalitaire des communes au sein du bureau ne paraît pas a priori cohérente mais peut résulter d'un accord amiable des conseils municipaux des communes intéressées.
