@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860400336
+
+- Question : [SEQ860400336](seq860400336.md) — Etablissement de la liste électorale pour l'élection du conseil supérieur des Français de l'étranger: cas d'un militaire
+
+## Réponse
+
+*Affaires étrangères, JO du 1986-06-19, page 845*
+
+Réponse. -L'examen des documents afférents aux travaux préparatoires à la loi du 7 juin 1982 relative au conseil supérieur des Français de l'étranger, modifiée par la loi du 18 mai 1983, montre, s'agissant de l'inscription des militaires français stationnant à l'étranger sur les listes électorales, dressées en vue de l'élection des membres du conseil supérieur, que le Gouvernement et le Parlement ont estimé, compte tenu de la mobilité inhérente aux conditions de la vie militaire, qu'un séjour d'au moins un an dans le ressort d'un consulat devait être exigé, à la date fixée pour la clôture des inscriptions, comme témoignant d'un établissement durable à l'étranger. Cela étant, sous réserve de l'appréciation souveraine des cours et tribunaux, le ministre des affaires étrangères est d'avis que le libellé de l'ensemble de l'article 2 de la loi du 7 juin 1982 modifiée implique que le séjour doit être accompli dans le ressort du même consulat. Plus précisément, si l'on s'en tient à l'esprit et aux termes de la loi du 7 juin 1982, le militaire dont le cas fait l'objet de la question posée ne réunit pas les conditions requises pour être inscrit sur la liste électorale établie dans une circonscription consulaire où il ne comptera pas un an de séjour à la date de clôture des inscriptions. Aucune disposition législative ou réglementaire ne prévoit, en effet, à cet égard, le cumul de la durée du séjour effectué dans une circonscription consulaire avec le temps passé antérieurement dans une ou plusieurs autres circonscriptions.
