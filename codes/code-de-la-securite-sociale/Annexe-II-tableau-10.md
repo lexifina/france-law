@@ -1,37 +1,43 @@
-# Article Annexe II tableau 10
+# Article Annexe II : Tableau n° 10
 
-DESIGNATION DES MALADIES :
+ULCERATIONS ET DERMITES PROVOQUEES PAR L'ACIDE CHROMIQUE, LES CHROMATES ET BICHROMATES ALCALINS, LE CHROMATE DE ZINC ET LE SULFATE DE CHROME.
 
-Ulcérations nasales
+DÉSIGNATION DES MALADIES
 
-DELAI de prise en charge : 30 jours
+|
 
-DESIGNATION DES MALADIES :
+DÉLAI DE prise en charge
 
-Ulcérations cutanées chroniques ou récidivantes
+|
 
-DELAI de prise en charge : 30 jours
+LISTE INDICATIVE DES PRINCIPAUX TRAVAUX SUSCEPTIBLES DE provoquer ces maladies
 
-DESIGNATION DES MALADIES :
+|
 
-Lésions eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par un test épicutané
+Ulcérations nasales.
 
-DELAI de prise en charge : 15 jours
+|
 
-LISTE LIMITATIVE DES TRAVAUX susceptibles de provoquer ces maladies :
+30 jours
 
-Préparation, emploi, manipulation de l'acide chromique, des chromates et bichromates alcalins, du chromate de zinc et du sulfate de chrome, notamment :
+|
 
-- fabrication de l'acide chromique, des chromates et bichromates alcalins ;
+Préparation, emploi, manipulation de l'acide chromique, des chromates et bichromates alcalins, du chromate de zinc et du sulfate de chrome, notamment : - fabrication de l'acide chromique, des chromates et bichromates alcalins ; - fabrication de pigments (jaune de chrome, etc.) au moyen de chromates ou bichromates alcalins ;- emploi de bichromates alcalins dans le vernissage d'ébénisterie ;- emploi des chromates ou bichromates alcalins comme mordants en teinture ;- tannage au chrome ;- préparation, par procédés photomécaniques, de clichés pour impression ;- chromage électrolytique des métaux.
 
-- fabrication de pigments (jaune de chrome, etc.) au moyen de chromates ou bichromates alcalins ;
+|
 
-- emploi de bichromates alcalins dans le vernissage d'ébénisterie ;
+Ulcérations cutanées chroniques ou récidivantes.
 
-- emploi des chromates ou bichromates alcalins comme mordants en teinture ;
+|
 
-- tannage au chrome ;
+30 jours
 
-- préparation, par procédés photomécaniques, de clichés pour impression ;
+|
 
-- chromage électrolytique des métaux.
+Lésions eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par un test épicutané.
+
+|
+
+15 jours
+
+|
