@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021003139
+
+- Question : [SEQ021003139](seq021003139.md) — Amélioration de la gestion des fonds relatifs au contrat de plan dans la région Limousin
+
+## Réponse
+
+*Fonction publique, JO du 2003-02-13, page 574*
+
+La région Limousin présente un léger retard dans l'utilisation des fonds relatifs au contrat de plan. Son taux de programmation cumulé des crédits Etat de 2000 à 2002 s'élève à 33 % à comparer au taux national de 35 %. En engagements sur 2000 et 2001, le taux est de 12 % à comparer au taux national de 16 %. Ce retard est en grande partie dû à l'engagement tardif du contrat en 2000, la région Limousin ayant été la 23e région à signer son contrat, le 26 juin 2000. Les années suivantes, en revanche, ne font pas apparaître de retard significatif du Limousin sur les autres régions. Le décalage initial devrait donc être progressivement résorbé en 2003-2004. De façon générale, le Gouvernement a décidé, en CIADT, le 13 décembre dernier, des mesures destinées à faciliter, dans l'ensemble des régions, la mise en place des crédits contrats de plan en favorisant la fongibilité et la souplesse d'utilisation : réduction du nombre d'articles budgétaires ; identification des crédits ayant vocation à être mis en place dans le cadre du volet territorial ; transfert sur le FNADT des crédits affectés aux programmes interrégionaux, tels que le programme Massif central dont bénéficie le Limousin ; fongibilité des crédits dans chaque région au sein de chaque enveloppe ministérielle, et faculté donnée au CIADT de décider des transferts entre ministères au sein d'une même enveloppe régionale. Moins de 6 mois après les importantes mesures de simplification de la gestion des fonds structurels européens décidées en conseil des ministres, lesquelles seront toutes opérationnelles dès le début 2003, le Gouvernement montre ainsi sa volonté de rendre les procédures contractuelles lisibles et entraînantes.
