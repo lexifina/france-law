@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010633735
+
+- Question : [SEQ010633735](seq010633735.md) — Opération " Trident d'or "
+
+## Réponse
+
+*Défense, JO du 2001-09-13, page 2965*
+
+L'exercice Trident d'or qui s'est déroulé en juin dernier avait comme objectif d'évaluer les capacités de la marine nationale à commander une opération maritime multinationale. Cet exercice a été qualifié de plein succès car la France a prouvé sa capacité à mettre sur pied une structure de commandement apte à diriger une flotte de soixante bâtiments de combat, dont trois porte-avions et plusieurs sous-marins nucléaires, déployée selon un scénario opérationnel réaliste (opération de rétablissement de la paix). Les principaux enseignements tirés de cet exercice ont montré que la capacité de commandement doit être rendue pérenne à l'horizon 2003, conformément aux engagements politiques français de disposer d'une structure permanente de conduite d'opérations militaires européennes. De plus, les problèmes de communicationsq rencontrés par des protagonistes, liés principalement à l'émergence des nouvelles technologies dans un environnement militaire multinational, ne peuvent être réglés que dans la perspective de la construction de l'Europe de la défense. Ces problèmes de communication ont mis en évidence le besoin de maîtriser les nouvelles technologies de l'information et de disposer de moyens de chiffrement adaptés et communs à tous. Hormis les moyens Otan, il n'existe pas, aujourd'hui en Europe, d'équipements de chiffrement performants et homologués pour protéger des informations classifiées de défense. Le déploiement de matériels du chiffre est aujourd'hui extrêmement difficile en raison d'un manque d'harmonisation des normes nationales applicables en la matière. La création d'une Agence européenne du chiffre apparaît ainsi comme un objectif majeur dans le cadre de la construction de l'Europe de la défense.
