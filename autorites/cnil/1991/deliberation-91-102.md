@@ -1,0 +1,21 @@
+# Délibération portant avis sur un projet d'arrêté relatif à la mise en oeuvre d'un traitement automatisé d'informations nominatives concernant la gestion automatisée des brevets de secourisme en préfecture.
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 91-102
+- Date : 1991-11-05
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017652909
+
+La Commission Nationale de l'Informatique et des Libertés, Vu la Convention du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ; Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés ; Vu la loi n° 82-213 du 2 mars 1982 relative aux droits et libertés des communes, des départements et des régions, notamment ses articles 34, 56 et 101 ; Vu la loi n° 87-565 du 22 juillet 1987 relative à l'organisation de la sécurité civile, à la protection de la forêt contre l'incendie et à la prévention des risques majeurs ;
+
+Vu le décret n° 77-17 du 4 janvier 1977 relatif à l'enseignement et à la pratique du secourisme ; Vu le décret n° 78-774 du 17 juillet 1978 pris pour l'application des chapitres Ier à IV et VII de la loi du 6 janvier 1978 ; Vu le décret n° 82-389 du 10 mai 1982 relatif aux pouvoirs du préfet et à l'action des services et organismes publics de l'Etat dans les départements ; Vu le décret n° 83-321 du 20 avril 1983 relatif aux pouvoirs des commissaires de la République en matière de défense de caractère non militaire ; Vu le décret n° 85-1174 du 12 novembre 1985 modifiant le décret n° 83-321 du 20 avril 1983 relatif aux pouvoirs des commissaires de la République en matière de défense de caractère non militaire ;
+
+Vu le décret n° 91-336 du 4 avril 1991 modifiant le décret n° 78-774 du 17 juillet 1978 pris pour l'application des chapitres Ier à IV et VII de la loi du 6 janvier 1978 ; Vu le décret n° 91-834 du 30 août 1991 relatif à la formation aux premiers secours ; Vu le projet d'arrêté du Ministre de l'Intérieur ; Après avoir entendu Monsieur Jean-Pierre MICHEL, Commissaire, en son rapport et Madame Charlotte-Marie PITRAT, Commissaire du Gouvernement, en ses observations ; Considérant que la Commission est saisie par le ministère de l'Intérieur d'un projet d'arrêté relatif à la mise en oeuvre d'un traitement automatisé d'informations nominatives concernant la gestion automatisée en préfecture des candidats et lauréats au brevet national des premiers secours ; Considérant que le traitement envisagé a pour objet de constituer une liste automatisée des candidats et lauréats au brevet national des premiers secours et d'éditer des statistiques sur les examens ;
+
+Considérant que les catégories d'informations traitées sont relatives aux nom, prénom, date et lieu de naissance, adresse et diplômes obtenus des candidats et lauréats au brevet national des premiers secours ; Considérant que les destinataires de ces informations sont exclusivement les services préfectoraux compétents et les associations de secourisme agréées dans le cadre de la formation aux premiers secours ; Considérant que les informations relatives à l'identité des secouristes lauréats sont conservées tant que ces derniers sont en activité ; que pour les candidats ajournés, les informations seront conservées deux ans ; que pour les informations relatives aux diplômes obtenus, la durée de conservation sera limitée à un an ;
+
+Considérant que le droit d'accès s'exerce conformément aux dispositions de l'article 34 de la loi du 6 janvier 1978, directement auprès des services préfectoraux compétents ; Considérant que les mesures de sécurité envisagées sont satisfaisantes ; Considérant que ce traitement constitue un modèle-type national auquel les préfectures devront se référer par une déclaration de conformité auprès de la Commission, préalablement à sa mise en oeuvre ;
+
+DEMANDE AU MINISTERE DE L'INTERIEUR - de procéder à une information préalable des personnes concernées, conformément aux dispositions de l'article 27 de la loi du 6 janvier 1978 ; EMET dans ces conditions un AVIS FAVORABLE au projet d'arrêté du Ministre de l'Intérieur. Le Président, Jacques FAUVET.
