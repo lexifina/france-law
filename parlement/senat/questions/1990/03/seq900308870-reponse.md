@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900308870
+
+- Question : [SEQ900308870](seq900308870.md) — Célébration de l'anniversaire de la Victoire du 8 Mai 1945
+
+## Réponse
+
+*Affaires étrangères, JO du 1991-02-21, page 352*
+
+Réponse. - La rapide réunification de l'Allemagne a soulevé chez certains de nos concitoyens une émotion que l'histoire permet de comprendre. Mais il convient de rappeler que c'est la guerre froide qui a créé la coupure de l'Allemagne : la France, avec ses alliés, s'est toujours déclarée favorable à l'unité allemande, dès que les circonstances le permettraient et par des voies pacifiques. Elle se félicite que les Allemands aient pu exercer librement leur droit à l'autodétermination. L'existence des droits et responsabilités des quatre puissances victorieuses en 1945 et les implications de l'unification allemande sur les autres Etats rendaient toutefois nécessaire de discuter des aspects externes de ce processus. C'est dans ce but qu'a été engagée une négociation réunissant les quatre puissances et les deux Etats allemands. Celle-ci a permis la signature, à Moscou, le 12 septembre dernier, du traité portant règlement définitif concernant l'Allemagne. La création d'une Allemagne unie s'est faite ainsi sous l'égide de la concertation et du droit, avec le plein consentement de la communauté internationale, et dans le respect des idéaux démocratiques. L'Allemagne unie trouve sa place dans l'architecture d'un ordre européen nouveau, fondé sur la paix et la coopération, qui se dessine aujourd'hui et qui a été consacré par la réunion de la C.S.C.E. qui s'est tenue à Paris en novembre. Dans ces conditions, loin de s'effacer, le souvenir des victimes que nous honorons le 8 mai trouve son sens le plus haut : il doit nous inciter à bâtir pour le siècle prochain une Europe qui sera un exemple de paix, de liberté et d'entente entre les nations.
