@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960414838
+
+- Question : [SEQ960414838](seq960414838.md) — Réforme de la Cour d'assises
+
+## Réponse
+
+*Justice, JO du 1996-08-29, page 2242*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire qu'il a confié le 22 novembre 1995 à Mme Michèle-Laure Rassat, professeur de faculté de droit, une mission de réflexion sur une éventuelle réforme d'ensemble de la procédure pénale, qui devra s'achever par un rapport à la fin de l'année 1996. Parallèlement à cette réflexion, le garde des sceaux a décidé, dès le mois de juin 1995, de proposer au Parlement une réforme concernant la procédure de jugement des crimes, dont l'objet principal est d'instaurer un droit d'appel en matière criminelle. Un premier avant-projet de loi élaboré en septembre 1995 a fait l'objet d'une large concertation auprès des milieux judiciaires. A la suite de cette concertation, a été institué un haut comité consultatif sur la procédure de jugement en matière criminelle, présidé par M. Jean-François Deniau, qui avait pour mission d'élargie la réflexion au-delà des seuls professionnels, afin de dégager d'authentiques convergences quant aux modalités de mise en oeuvre d'une telle réforme. Le 26 juin 1996, le conseil des ministres a adopté un projet de loi portant réforme de la procédure criminelle, dont les dispositions sont directement inspirées par les conclusions du haut comité, et qui devrait être discuté par le Parlement au début de l'année 1997. En dépit de son importance, tant au regard des principes qu'en raison de ses implications pratiques, cette réforme ne concerne toutefois qu'un aspect de notre procédure pénale, et ne préjuge donc en rien des suites qui pourront être réservées aux conditions de la réflexion menée par Mme le professeur Rassat, qui porte en effet sur toutes les phases de la procédure, depuis celles de l'enquête et de l'instruction jusqu'à celle de l'exécution des peines.
