@@ -50,11 +50,13 @@ Médecin général directeur du service de santé de l’Afrique occidentale fra
 
 Intendant général directeur de l’intendance de l’Afrique occidentale française.
 
+Général, major général du corps expéditionnaire en Extrême-Orient.
+
 5° catégorie.
 
 Général commandant le point d ’appui de Dakar.
 
-Colonel directeur du service du matériel des F. T. E. 0.
+Directeur du service du matériel des F. T. E. 0.
 
 Médecin général directeur du service de santé de Madagascar.
 
