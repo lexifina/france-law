@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990314714
+
+- Question : [SEQ990314714](seq990314714.md) — Affirmation de la valeur formatrice et éducative des sections d'enseignement général et professionnel adapté (SEGPA)
+
+## Réponse
+
+*Éducation, JO du 1999-08-19, page 2801*
+
+Réponse. - Des directives récentes du ministère de l'éducation nationale, de la recherche et de la technologie organisent la rénovation des enseignements adaptés dans le second degré, et notamment des sections d'enseignement général et professionnel adapté (SEGPA) de collège. Les principaux objectifs de cette rénovation sont de faire des élèves de SEGPA des collégiens à part entière et de permettre à chacun d'eux d'accéder à une qualification de niveau V. A cette fin, des accords sont passés entre les SEGPA et les lycées professionnels. La formation dispensée dans les SEGPA s'appuie sur les programmes du collège et développe à partir de la classe de 4e une professionnalisation progressive des enseignements. Celle-ci se met en uvre dans des ateliers équipés pour permettre des réalisations sur des supports empruntés à des champs professionnels. Les SEGPA constituent des lieux de prise en charge éducative spécifique. Ils apportent des réponses structurelles aux grandes difficultés scolaires que rencontrent les élèves qu'elles accueillent. Elles participent aux objectifs d'accès à une qualification reconnue pour tous les élèves, elles se préoccupent de leur insertion et contribuent à la lutte contre l'exclusion. La rénovation des SEGPA se réalise dans les académies dans le cadre d'un plan pluriannuel de cinq ans. Le recteur, assisté d'un groupe de pilotage, veille à inscrire la politique conduite dans une cohérence académique au plus près du terrain. Les conditions de réussite de cette rénovation sont une préoccupation essentielle du ministère de l'éducation nationale de la recherche et de la technologie. Elles font l'objet au niveau national d'un suivi attentif et régulier.
