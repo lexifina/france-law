@@ -1,0 +1,9 @@
+# Réponse à la question SEQ041014366
+
+- Question : [SEQ041014366](seq041014366.md) — Elargissement du délit de non justification de ressources
+
+## Réponse
+
+*Justice, JO du 2004-12-30, page 3017*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire qu'il est comme lui particulièrement sensible à la lutte contre l'économie souterraine dont le Gouvernement a fait l'un de ses objectifs. Plusieurs textes du code pénal donnent ainsi, d'ores et déjà, l'assise juridique de cette lutte en permettant de poursuivre les personnes qui ne sont pas en mesure de justifier de leurs ressources alors qu'elles sont en lien avec des usagers ou des trafiquants de stupéfiants, des prostituées, des membres d'une association de malfaiteurs, des terroristes, des victimes ou auteurs de la traite des êtres humains, des mineurs se livrant à des crimes ou des délits, et, depuis la loi n° 2004-204 du 9 mars 2004 portant adaptation de la justice aux évolutions de la criminalité, des auteurs d'extorsions commises en bande organisée, avec violences ou actes de torture. En raison de l'efficacité de ces différentes dispositions, sur le fondement desquelles les poursuites sont de plus en plus fréquentes, il apparaît aujourd'hui utile d'élargir le champ d'application de cette infraction. Ainsi, davantage que de continuer à décliner le délit de non-justification de ressource à telle ou telle infraction, il apparaît maintenant plus opportun d'étendre le champ d'application de ces dispositions en sanctionnant le principe de l'impossibilité pour une personne de justifier de l'origine de ses ressources lorsqu'elle est en relation avec l'auteur de tout crime ou délit. La proposition n° 34 du rapport établi par Jean-Luc Warsmann allant en ce sens, le garde des sceaux, ministre de la justice, y apporterait son entier soutien si une proposition de texte était déposée en ce sens devant le Parlement.
