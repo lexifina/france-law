@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980609177
+
+- Question : [SEQ980609177](seq980609177.md) — Préoccupation des maires des petites communes concernant le dépôt des objets trouvés
+
+## Réponse
+
+*Intérieur, JO du 1999-06-10, page 1978*
+
+Réponse. - La responsabilité administrative de la commune pourrait être engagée, en cas de vol ou de détérioration des objets déposés en mairie, si le dommage résultant de ces vols ou détériorations était la conséquence d'une faute imputable au service municipal. Cette responsabilité civile pourrait être engagée à l'encontre des élus, si une faute détachable de leur fonction était une des causes de la survenance du dommage. Sur le plan pénal, la responsabilité pénale des élus locaux pourrait effectivement être mise en cause s'ils avaient commis une négligence ou une imprudence susceptible d'être qualifiée par les tribunaux d'infraction. L'article 121-2 du code pénal permet la condamnation pénale d'une collectivité territoriale, du fait des fautes commises par ses organes ou ses représentants, si ces fautes ont été commises dans le cadre d'activités susceptibles de faire l'objet d'une délégation de service public. Il convient toutefois de remarquer que la notion d'activités susceptibles de faire l'objet d'une délégation de service public semble être appréciée largement par les tribunaux judiciaires. Ainsi la cour d'appel de Grenoble, dans son arrêt du 12 juin 1998 relatif à l'affaire du Drac, a estimé que l'activité de sortie scolaire était susceptible de faire l'objet d'une telle délégation. En tout état de cause, il appartient aux élus locaux de prendre toutes les précautions qui pourraient s'avérer nécessaires. Il peut être utile de contracter une assurance garantissant la collectivité et les élus contre le vol ou la détérioration des objets trouvés confiés à leur garde.
