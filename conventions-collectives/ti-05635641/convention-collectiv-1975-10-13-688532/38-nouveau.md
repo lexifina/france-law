@@ -1,11 +1,5 @@
-# Article 38 ancien
+# Article 38 nouveau
 
-Les notaires ne peuvent :
+Les frais de fonctionnement des commissions paritaires régionales de la commission d'interprétation, du conseil paritaire national et ceux d'arbitrage par les membres de ce conseil seront à la charge des conseils régionaux des notaires ou du conseil supérieur du notariat, ces organismes devant - de façon permanente - assumer les frais de fonctionnement desdites commissions et les frais de déplacement et de séjour de leurs membres et des témoins qu'elles auraient décidé de citer, à l'exclusion de tous autres.
 
-a) Engager des salariés sous une qualification professionnelle non prévue par les présentes ;
-
-b) Offrir ou imposer, sous quelque forme que ce soit, un salaire inférieur au minimum de la catégorie dans laquelle le salarié est inscrit dans l'étude ;
-
-c) Etablir avec leurs salariés des accords destinés à faire échec aux dispositions de la présente convention, ou de la convention collective régionale ou départementale, à laquelle ils se trouveront soumis ;
-
-d) Faire des offres d'emploi sans indiquer la qualification conforme à celle résultant des présentes.
+Les présentes conventions formant deux avenants entrent en vigueur le 1er ocobre 1988.

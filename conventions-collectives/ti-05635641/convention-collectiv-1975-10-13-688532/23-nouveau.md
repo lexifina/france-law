@@ -1,15 +1,11 @@
-# Article 23 ancien et prorogé
+# Article 23 nouveau
 
-Le salaire mensuel de tout salarié est calculé sur la base de 39 heures par semaine, correspondant forfaitairement à 169 heures par mois.
+Les locaux de travail doivent répondre aux conditions d'hygiène et de salubrité prescrites par les lois et règlements.
 
-Dans les études où la durée habituelle du travail excède 39 heures et dans la limite de 42 heures et demie, les salaires sont proportionnellement augmentés par rapport aux chiffres de base fixés pour 39 heures, avec application de la majoration légale pour les heures supplémentaires.
+Le personnel peut toujours faire appel à l'inspection du travail ou à la chambre départementale de discipline pour assurer l'application des lois et règlements en vigueur.
 
-Au-delà de 42 heures et demie, toute heure de travail est majorée de 100 p. 100.
+Un local doit être aménagé et agencé pour que le personnel puisse y prendre ses repas dans les cas et conditions prévus par les règlements en vigueur.
 
-Le travail supplémentaire effectué en dehors des heures habituelles de l'étude est facultatif. S'il est demandé par le notaire, il est payé sur la base du salaire mensuel, majoré de 50 p. 100 jusqu'à 42 heures et demie par semaine et de 100 p. 100 au-dessus.
+Les délégués du personnel sont spécialement chargés de veiller au respect de ces prescriptions dans les offices dont l'effectif est inférieur à cinquante salariés, au sens de la loi, ou au-dessus si aucun comité d'hygiène, de sécurité et des conditions de travail n'a été constitué.
 
-NB : (1) Les signataires de l'avenant du 30 septembre 1988, en vigueur le 1er octobre 1988, qui a refondu l'ensemble des dispositions de la convention collective du 13 octobre 1975, ont toutefois prorogé jusqu'au 28 avril 1989 les dispositions du présent article.
-
-NOTA :
-
-NB : (1) Les signataires de l'avenant du 30 septembre 1988, en vigueur le 1er octobre 1988, qui a refondu l'ensemble des dispositions de la convention collective du 13 octobre 1975, ont toutefois prorogé jusqu'au 28 avril 1989 les dispositions du présent article.
+Dans les offices d'au moins cinquante salariés, au sens de la loi, où un comité d'hygiène, de sécurité et des conditions de travail a été constitué, les membres de ce comité ont droit de suivre une formation appropriée de trois jours, par mandat, pendant lesquels leur rémunération sera maintenue.

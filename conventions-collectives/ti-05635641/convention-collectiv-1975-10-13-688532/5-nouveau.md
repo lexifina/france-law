@@ -1,19 +1,21 @@
-# Article 5 ancien
+# Article 5 nouveau
 
-La présente convention sera déposée au greffe du tribunal d'instance du huitième arrondissement de Paris.
+Lors de son entrée dans un office dans le cadre d'un contrat à durée indéterminée, tout salarié est considéré comme étant à l'essai pendant une durée ne pouvant excéder :
 
-Elle sera distribuée dans chaque étude, à la diligence du conseil supérieur du notariat, en deux exemplaires dans un délai de trois mois à compter de sa signature.
+- deux mois pour les employés ;
 
-L'un de ces exemplaires sera remis contre récépissé par l'employeur au délégué du personnel là où il en existe un.
+- trois mois et dix jours ouvrés pour les techniciens ;
 
-Celui-ci le tiendra constamment à la disposition des salariés de l'office notarial pour consultation sur place.
+- cinq mois et dix jours ouvrés pour les cadres.
 
-Dans l'office notarial n'ayant pas de délégué, l'exemplaire destiné au personnel sera confié contre récépissé au salarié le plus ancien dudit office qui le communiquera sans formalité à tout membre du personnel qui en fera la demande.
+Cette période peut être réduite ou supprimée par accord écrit entre l'employeur et le salarié avant l'entrée en fonction de ce dernier.
 
-La présente convention fera l'objet d'une demande d'extension conformément à la loi, à l'initiative de la partie la plus diligente.
+L'absence pour maladie ou accident, à l'exception des maladies professionnelles et des accidents du travail, est suspensive de la période d'essai mais elle ne fait pas obstacle à sa rupture de part ou d'autre.
 
-(1) Dispositions étendues sous réserve de l'application des articles R. 135-1 et R. 135-2 du code du travail.
+En cas de rupture de la période d'essai, qu'elle émane de l'employeur ou du salarié, il est dû un préavis compris dans la période d'essai de cinq jours ouvrés pour les employés et de dix jours pour les techniciens et les cadres.
 
-NOTA :
+Dans l'hypothèse où ce préavis ne serait pas respecté par l'une des parties, l'équivalent du salaire correspondant au préavis non effectué devra être payé par celle des parties qui aura pris l'initiative de ne pas le respecter ; le tout sauf accord écrit.
 
-(1) Dispositions étendues sous réserve de l'application des articles R. 135-1 et R. 135-2 du code du travail.
+A l'intérieur d'un même office, le changement de catégorie ne donne pas lieu à période d'essai.
+
+Dans le cas d'un contrat à durée déterminée, la durée de la période d'essai ne peut excéder celle prévue par le droit commun.

@@ -1,5 +1,13 @@
-# Article 7 ancien
+# Article 7 nouveau
 
-Les parties contractantes reconnaissent pour les clercs et employés sans exception l'entière liberté d'opinion en toute matière.
+La durée du travail est de 39 heures par semaine, répartie sur cinq jours, du lundi au vendredi, sous réserve des jours de fermeture prévus à l'article 16-8 ci-après.
 
-Aucun employeur ne pourra prendre en considération, à quelque égard que ce soit, le fait pour un salarié d'être affilié à un syndicat ou d'exercer une activité syndicale.
+En principe les deux jours de repos doivent être pris le samedi et le dimanche. Toutefois, il pourra être décidé, après accord entre la chambre des notaires et les organisations syndicales, que dans certaines localités, en raison des foires et marchés ou des coutumes locales, ces deux jours seront le dimanche et le lundi, sans possibilité de roulement. Il est entendu qu'un régime unique devra s'appliquer aux études d'une même localité.
+
+Le personnel est tenu de se conformer strictement aux horaires et au règlement de travail établis dans chaque étude après avis du personnel.
+
+Tout aménagement des horaires journaliers de travail devra être effectué conformément à la législation en vigueur.
+
+Il sera possible au salarié qui le désire de demander à bénéficier d'horaires individualisés en application de l'article L. 212-4-1 du code du travail.
+
+Le report d'une semaine à une autre ne peut excéder trois heures et le cumul des reports ne peut avoir pour effet de porter le total des heures reportées à plus de dix.

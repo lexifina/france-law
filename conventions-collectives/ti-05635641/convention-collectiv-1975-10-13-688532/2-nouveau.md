@@ -1,15 +1,11 @@
-# Article 2 ancien
+# Article 2 nouveau
 
-Elle s'applique à toute personne effectuant au moins vingt heures de travail par semaine pour le compte d'un employeur de la profession soit au siège d'un office notarial ou organisme assimilé, soit à son domicile.
+A partir du 1er octobre 1988, la convention aura une durée de trois ans.
 
-Est compris dans ces vingt heures le temps passé aux séances de formation ou d'information organisées par la profession ou avec son agrément.
+Passé ce délai, elle deviendra à durée indéterminée conformément à l'article L. 132-6 du code du travail.
 
-Il est précisé que les organismes assimilés sont :
+En cas de dénonciation partielle, la disposition dénoncée continuera à produire ses effets pendant un an.
 
-Le conseil supérieur du notariat ;
+En cas de dénonciation globale, la convention continuera à produire ses effets pendant deux ans à compter de l'expiration d'un délai de préavis de quatre mois.
 
-Les conseils régionaux ;
-
-Les chambres de discipline,
-
-tous trois siégeant dans l'une ou l'autre de leurs deux formations.
+La partie qui dénoncera la convention en tout ou partie devra, à peine de nullité, accompagner la lettre de dénonciation ou la faire suivre d'un projet dans un délai d'un mois.

@@ -1,5 +1,19 @@
-# Article 33 ancien
+# Article 33 nouveau
 
-Afin d'assurer une application régulière des dispositions légales précitées, les parties contractantes stipulent que les employeurs devront prendre toutes mesures utiles pour que le personnel notarial soit rattaché à tous centres médicaux professionnels ou interprofessionnels voulus là où pareilles mesures n'auraient pas encore été prises.
+Toutes les négociations collectives relatives à la convention collective du notariat, ont lieu, au niveau national, entre le conseil supérieur du notariat et les organisations syndicales de salariés représentatives au sens de la loi.
 
-Tous les salariés sont obligatoirement tenus à un examen médical au moins une fois par an ou selon les prescriptions du médecin du travail.
+Chaque délégation syndicale peut comprendre, outre les représentants de ces organisations, deux salariés qui seront désignés par chacune de ces organisations.
+
+Tous les membres des délégations sont autorisés à s'absenter de l'entreprise pour participer à toute négociation collective.
+
+Les deux salariés désignés par chaque organisation seront tenus d'aviser leur employeur huit jours à l'avance, chaque fois qu'ils s'absenteront, sans avoir à solliciter son autorisation, et recevront leur salaire pendant leur absence.
+
+Tous les frais de déplacement (voyages, hébergement, et repas) des membres de la profession composant les délégations syndicales seront pris en charge par le conseil supérieur du notariat suivant les modalités en vigueur au conseil supérieur du notariat siégeant en comité mixte, dans la limite de huit personnes pour l'ensemble des syndicats.
+
+La répartition de ces huit personnes se fera entre les organisations syndicales de la façon suivante :
+
+- chaque organisation aura droit à une indemnisation pour une personne ;
+
+- pour les trois autres personnes, la répartition se fera entre les organisations syndicales les plus représentatives sur le plan national suivant les principes énoncés à l'article 36-2 de la présente convention pour la composition de la commission régionale de conciliation.
+
+En aucun cas, le temps passé à la négociation ne peut s'imputer, sur les jours et crédits d'heures dont peuvent bénéficier, par ailleurs, les représentants du personnel.

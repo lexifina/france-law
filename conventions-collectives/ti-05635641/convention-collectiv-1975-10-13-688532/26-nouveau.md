@@ -1,6 +1,6 @@
-# Article 26 ancien
+# Article 26 nouveau
 
-Il a été créé une section autonome d'un fonds d'assurance formation rattaché au fonds d'assurance formation des travailleurs intellectuels pour leurs salariés, dont les statuts forment l'annexe III de la présente convention.
+Il a été créé une section autonome d'un fonds d'assurance formatio rattaché au fonds d'assurance formation des travailleurs intellectuels pour leurs salariés, dont les statuts forment l'annexe III de la présente convention.
 
 Tous les offices assujettis à la taxe prévue par la loi devront obligatoirement verser à la section notariale du F.A.F.T.I.S. au minimum les 7/8 de la part de la taxe affectée au financement de la formation continue.
 
