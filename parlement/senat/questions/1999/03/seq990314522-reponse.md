@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990314522
+
+- Question : [SEQ990314522](seq990314522.md) — Transfert en Val-d'Oise d'une partie des déchets ménagers non incinérés dans le Nord
+
+## Réponse
+
+*Aménagement du territoire, JO du 1999-05-06, page 1482*
+
+Réponse. - La ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question relative au transfert en Val-d'Oise de déchets ménagers en provenance du Nord. Suite à la découverte de la contamination du lait de vaches autour de l'usine d'incinération d'ordures ménagères d'Halluin, le président de la communauté urbaine de Lille a décidé de suspendre l'activité des usines d'Halluin, de Séquedin et de Wasquehal. Il s'agit d'usines qui n'étaient pas en conformité avec la législation relative aux incinérateurs d'ordures ménagères. Il a donc fallu trouver rapidement un exutoire pour les tonnes de déchets antérieurement traitées dans ces unités et qui continuent d'être produites. Plusieurs sites ont été mis à contribution, souvent hors du département du Nord. Cette situation ne doit pas durer et le département du Nord doit trouver une solution à la gestion de ses déchets. C'est pourquoi une nouvelle usine, autorisée par arrêté préfectoral du 17 décembre 1997, est en cours de construction à Halluin. La situation actuelle correspond en quelque sorte à une gestion de crise. Quant au dossier de la pollution des eaux souterraines par des cyanures dans les communes de Louvres et Goussainville, il est suivi avec rigueur par le service de l'environnement industriel du ministère de l'aménagement du territoire et de l'environnement. En liaison avec la direction des affaires juridiques du ministère de l'économie, des finances et de l'industrie, les actions appropriées ont été entreprises pour surmonter l'inertie des détenteurs actuels des terrains à l'origine de ces pollutions.
