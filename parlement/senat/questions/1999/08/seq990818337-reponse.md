@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990818337
+
+- Question : [SEQ990818337](seq990818337.md) — Projet de création d'une écotaxe
+
+## Réponse
+
+*Économie, JO du 2000-04-06, page 1255*
+
+Réponse. - Le projet d'extension de la taxe générale sur les activités polluantes (TGAP) aux consommations intermédiaires d'énergie des entreprises a pour objectif de réduire l'effet de serre et de permettre à la France de respecter ainsi les engagements internationaux pris à Kyoto par l'ensemble des pays industrialisés. Parallèlement, l'extension de la TGAP adoptée dans le cadre de la loi de financement de la Sécurité sociale permet de contribuer au financement de l'allégement des cotisations sociales patronales décidé par le Gouvernement. Le principe de la réforme étant posé, les conditions de sa mise en uvre doivent être soigneusement étudiées, s'agissant notamment de son impact sur la compétitivité des entreprises industrielles. Pour permettre une application optimale de cette réforme, le Gouvernement a décidé d'engager au préalable une large concertation sur ses modalités pratiques avec l'ensemble des acteurs économiques concernés. Cette initiative, inédite en matière fiscale, s'est dores et déjà concrétisée par la publication d'un livre blanc qui peut être consulté sur les sites Internet des ministères de l'économie, des finances et de l'industrie et de l'environnement. Il peut être obtenu par simple demande, par courrier électronique, à l'adresse : livre.blanc energie-dgi-dlf.finances.gouv.fr. Ce livre blanc a d'ores et déjà été diffusé à plusieurs centaines d'exemplaires. L'ensemble des questions qu'il soumet à la réflexion des acteurs économiques répond aux attentes exprimées par l'auteur de la question. L'analyse des réponses permettra au Gouvernement de proposer, dès le premier semestre 2000, les contours affinés de cette importante réforme.
