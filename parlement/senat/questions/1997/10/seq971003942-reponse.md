@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971003942
+
+- Question : [SEQ971003942](seq971003942.md) — Encadrement des activités sportives en classe d'environnement
+
+## Réponse
+
+*Enseignement scolaire, JO du 1997-12-25, page 3657*
+
+Réponse. - L'organisation des sorties scolaires dans les écoles maternelles et élémentaires publiques a fait l'objet d'une nouvelle circulaire qui abroge notamment la note de service no 82-399 du 17 septembre 1982 relative aux classes de découverte. Cette circulaire no 97-176 du 18 septembre 1997 précise les conditions dans lesquelles doivent s'effectuer toutes les actions pédagogiques qui nécessitent de sortir de l'enceinte de l'école. Elle comprend une première partie qui détaille les conditions générales d'encadrement, de sécurité, d'assurance, de déplacement et de financement des sorties scolaires. Elle distingue ensuite trois catégories de sorties, les sorties scolaires régulières, les sorties scolaires occasionnelles et les sorties scolaires avec nuitées, et spécifie, pour chacune d'entre elles, les modalités particulières de leur organisation. Les sorties scolaires avec nuitée(s) regroupent les voyages collectifs d'élèves, classes de découverte, classes d'environnement, classes culturelles comprenant au minimum une nuitée. De plus, par circulaire complémentaire du 21 novembre 1997 adressée aux recteurs, inspecteurs d'académie, directeurs des services départementaux de l'éducation nationale, inspecteurs de l'éducation nationale et directeurs d'école, la ministre déléguée chargée de l'enseignement scolaire vient d'apporter différentes précisions et quelques assouplissements aux dispositions initiales, de nature à dissiper les difficultés rencontrées depuis la rentrée, notamment en ce qui concerne la notion d'" intervenant qualifié " pour l'encadrement spécifique de certaines activités physiques et sportives qui nécessitent une surveillance renforcée.
