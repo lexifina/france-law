@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911118812
+
+- Question : [SEQ911118812](seq911118812.md) — Marché unique européen et missions des douanes
+
+## Réponse
+
+*Économie, JO du 1992-02-06, page 311*
+
+Réponse. - L'ouverture du grand marché unique entraînera effectivement, à compter du 1er janvier 1993, la suppression des formalités douanières actuellement applicables aux échanges intracommunautaires. Cette décision, commune à l'ensemble des partenaires européens, doit permettre la libre circulation des marchandises dans ce nouvel espace et leur assurer une égalité de traitement vis-à-vis de celles qui relèvent de l'activité intérieure de chacun des marchés nationaux. En revanche, les dispositions prises contre les risques de fraude visent, d'une part, à assurer les indispensables échanges d'informations entre les divers partenaires européens et ne portent, d'autre part, aucune atteinte à la souveraineté de chaque état membre, dans le domaine de l'organisation des contrôles internes. A ce sujet, les récentes conclusions déposées par la mission de l'Inspection générale des finances, chargée de déterminer les futures conditions de gestion et de contrôle de la T.V.A. intracommunautaire et de redéfinir le nouveau champ d'intervention des administrations financières concernées par la levée des frontières intérieures, vont permettre de définir rapidement un dispositif de lutte contre la fraude fiscale fondé sur la complémentarité des interventions de la douane et de la direction générale des impôts. En ce qui concerne les contrôles techniques, la douane regroupera l'ensemble des attributions touchant à la mise en oeuvre des contrôles F.E.O.G.A. Par ailleurs, des expertises complémentaires seront menées pour trouver ces modalités permettant de renforcer la coopération entre la douane et la D.G.C.C.R.F. et, le cas échéant, avec d'autres directions.
