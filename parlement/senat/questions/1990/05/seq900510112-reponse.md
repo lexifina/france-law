@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900510112
+
+- Question : [SEQ900510112](seq900510112.md) — Saturation du standard téléphonique SOS enfance maltraitée
+
+## Réponse
+
+*Famille, JO du 1990-12-27, page 2752*
+
+Réponse. - Les sondages effectués par les postes et télécommunications indiquent en effet que le service national d'accueil téléphonique pour l'enfance maltraitée ne répond entre onze heures et dix-sept heures qu'à environ la moitié des personnes appelant le numéro vert, les lignes étant généralement saturées à ce moment de la journée. Il convient néanmoins de noter que le taux d'appels n'aboutissant pas tend à baisser, compte tenu d'une réduction observée ces dernières semaines du nombre total d'appels. Par ailleurs, il faut savoir que ce pourcentage se situe dans la moyenne de ceux comptabilisés aux autres numéros verts nationaux. Cela dit, le problème évoqué par l'honorable parlementaire n'est pas sans préoccuper le représentant du ministère des affaires sociales et de la solidarité au sein du conseil d'administration du service téléphonique qui a déjà soulevé dans le cadre de cette instance la question de l'opportunité d'accroître l'effectif des " écoutants ". La directrice du service, Mme Brachet, a répondu qu'elle souhaiterait attendre la fin de l'année 1990 pour prendre une décision sur ce point. Cette position semble sage car, avant de décider de recruter du personnel, il convient de savoir si la tendance actuelle à la baisse du nombre d'appels sans réponse va ou non se poursuivre. Enfin, sur les 16 800 appels enregistrés au premier trimestre par le service, soixante-six ont été identifiés comme venant du département du Rhône, onze de ces appels signalaient des situations de mauvais traitements qui ont été transmises aux services départementaux, les cinquante-cinq autres étaient des demandes d'aide ou de renseignements.
