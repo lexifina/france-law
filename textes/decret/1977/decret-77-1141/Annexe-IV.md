@@ -18,4 +18,6 @@
 
 8° Ouverture de terrains aménagés pour le camping ou le stationnement de caravanes comportant moins de 200 emplacements ;
 
-9° Ouvrages destinés à l'épuration des eaux des collectivités locales, d'une capacité de traitement inférieure à celle des ouvrages visés au 14° de l'annexe III.
+9° Ouvrages destinés à l'épuration des eaux des collectivités locales, d'une capacité de traitement inférieure à celle des ouvrages visés au 14° de l'annexe III ;
+
+10° Piscicultures soumises à autorisation ou concession en vertu de l'article 432 du code rural et autres que celles définies à l'article 432 du code rural et autres que celles définies à l'article 10, premier alinéa, du décret n° 85-1400 du 27 décembre 1985 fixant les formes et les conditions des concessions et autorisations de pisciculture et les modalités de déclaration des plans d'eau existants mentionnés à l'article 433 du code rural ou à renouvellement de l'autorisation de la concession quand la notice d'impact est exigée en vertu des articles 18 ou 28 du même décret.
