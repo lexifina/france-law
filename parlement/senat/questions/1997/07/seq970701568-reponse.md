@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701568
+
+- Question : [SEQ970701568](seq970701568.md) — Education contre le racisme dans les établissements scolaires
+
+## Réponse
+
+*Éducation, JO du 1997-12-11, page 3459*
+
+Réponse. - La semaine nationale contre le racisme qui se déroule tous les ans au cours du milieu du mois de mars est une action proposée par la ligue française de l'enseignement et de l'éducation permanente au nom d'un collectif organisateur, composé de diverses associations oeuvrant contre le racisme. Cette action retenue par le ministre de l'éducation nationale, de la recherche et de la technologie fait l'objet d'une publication annuelle d'une note d'information aux recteurs et inspecteurs d'académie, directeurs des services départementaux de l'éducation nationale au Bulletin officiel de l'éducation nationale. Cette campagne annuelle répond au souci du ministre de l'éducation nationale, de la recherche et de la technologie qui tient à développer une véritable éducation à la citoyenneté dans le quotidien à l'école, cela tout au long de l'année. En ce sens, les initiatives mises en place au cours de cette campagne, dans le prolongement des programmes d'enseignement d'éducation à la citoyenneté, sont le fruit de plusieurs mois de travail sur le fond. Cette opération, liée en 1997 à l'année européenne de lutte contre le racisme et la xénophobie, a entraîné plus de huit cents actions dans les établissements scolaires sur toute la France : projections de films ou conférences-débats, concerts, expositions ou visites de sites historiques ont eu pour objet de sensibiliser les élèves au problème du racisme. Ces manifestations ont, cette année plus particulièrement, soulevé un élan général parmi les jeunes, suscitant une réflexion de fond qui permet de considérer que le message sera relayé dans les années futures.
