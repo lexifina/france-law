@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980609149
+
+- Question : [SEQ980609149](seq980609149.md) — Allocation spécifique d'attente et chômeurs
+
+## Réponse
+
+*Emploi, JO du 1999-05-06, page 1503*
+
+Réponse. - Les bénéficiaires de l'allocation de solidarité spécifique (ASS) ou de l'allocation de revenu minimum d'insertion (RMI) qui ont acquis quarante annuités au titre de l'assurance vieillesse peuvent prétendre à l'allocation spécifique d'attente (ASA). Cette allocation a été instituée par l'article L. 351-10-1 du code du travail issu de la loi nº 98-285 du 17 avril 1998 adoptée à l'unanimité par le Parlement. L'ASA vient s'ajouter à leur ASS, à taux majoré, ou à leur RMI. Ainsi, les ressources mensuelles des bénéficiaires de l'ASA dépassent 5 000 francs par mois, conformément à l'engagement pris par le Premier ministre. Il convient de noter qu'en application de l'article L. 351-10 du code du travail, les bénéficiaires des allocations d'assurance âgés de cinquante ans au moins qui satisfont aux conditions d'activité antérieure et de ressources requises pour bénéficier de l'ASS, peuvent opter pour la perception de cette allocation du régime de solidarité. S'ils sont admis au bénéfice de l'ASS et qu'ils justifient de quarante annuités au titre de l'assurance vieillesse, ils pourront alors demander l'ASA. La création de l'allocation spécifique d'attente répond donc à une reconnaissance sociale envers des personnes ayant commencé à travailler très jeunes, sans emploi à un âge où il leur devient particulièrement diffile de retrouver un emploi et disposant de faibles ressources, pour lesquelles l'effort de solidarité nationale est prioritaire. Ainsi, les personnes dont le niveau de ressources ne permet pas d'avoir accès aux deux minima sociaux que sont l'ASS et le RMI ne peuvent prétendre à l'allocation spécifique d'attente.
