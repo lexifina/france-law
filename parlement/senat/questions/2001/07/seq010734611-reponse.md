@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010734611
+
+- Question : [SEQ010734611](seq010734611.md) — Indemnisation des commerçants victimes d'actes de violence
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2001-10-04, page 3209*
+
+L'indemnisation des commerçants victimes d'actes de violence procède des modalités d'allocation des aides détaillées dans la circulaire du 13 décembre 2000 DIV/DPT/IEDE/2000/614, relative au financement de la revitalisation économique des territoires prioritaires de la politique de la ville. Le comité interministériel des villes et du développement social urbain du 29 juin 2000, s'appyant sur les mesures arrêtées par celui du 14 décembre 1999, a décidé la mise en oeuvre du Fonds de revitalisation économique (FRE). L'un de ses objectifs consiste précisément à compenser les charges exceptionnelles de certains commerçants, artisans, très petites entreprises ou professions libérales, exerçant leur activité dans les quartiers en difficulté. Le Gouvernement a décidé d'apporter une aide à ces entreprises qui supportent parfois des charges élevées, tout spécialement sur les primes d'assurance des biens et des risques d'exploitation, mais aussi sur les travaux de remise en état des locaux (murs, plafonds, vitrines...) et des matériels, consécutifs à des dégradations ou à des troubles répétés en matière de sécurité. Le FRE vise donc le soutien et la dynamisation du tissu économique existant, constitué de très petites entreprises, dont le maintien de l'activité est essentiel à la qualité de vie de zones sensibles, et victimes de phénomènes générateurs de surcoûts préjudiciables à leur rentabilité économique. En revanche, la fixation des primes d'assurance continue de dépendre de discussions directes entre les parties concernées, dans le cadre du droit des contrats et dans le respect du droit de la concurrence.
