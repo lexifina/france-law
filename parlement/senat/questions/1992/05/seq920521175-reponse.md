@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920521175
+
+- Question : [SEQ920521175](seq920521175.md) — Pénurie de personnel médical scolaire
+
+## Réponse
+
+*Éducation, JO du 1992-06-11, page 1321*
+
+Réponse. - L'amélioration du taux d'encadrement en médecins constitue un objectif majeur et, depuis 1991, les moyens mis à la disposition de la médecine scolaire ont été renforcés de près de 20 p. 100. Au 1er janvier 1990, le potentiel global en personnels titulaires, contractuels et vacataires était en effet de 1 288 équivalent-temps-plein (ETP), ce qui représentait un taux d'encadrement d'un médecin pour 9 800 élèves. A la rentrée scolaire de 1992, le potentiel sera porté à 1 544 ETP, soit un médecin pour 8 200 élèves. S'agissant des infirmières, les moyens inscrits en 1992 au budget du ministère de l'éducation nationale sont de 4 700 emplois d'infirmière. Un effort significatif a été réalisé en faveur de ce corps, qui représente 3 p. 100 des effectifs en personnels non enseignants et qui a bénéficié de 5 p. 100 des créations intervenues depuis juin 1988. En outre, 169 postes ont été mis aux concours de recrutement ouverts au titre de l'année 1992 et permettront de combler en grande partie les vacances actuelles dans ce corps. Les infirmières vacataires peuvent concourir, dans la mesure où elles remplissent les conditions d'accès. Par ailleurs, la titularisation des infirmières vacataires de santé scolaire doit être examinée dans le cadre des questions de principe relatives à l'ensemble des mesures d'intégration prévues par la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique de l'Etat. En ce qui concerne les médecins de santé scolaire, préalablement à la constitution initiale du nouveau corps des médecins de l'Education nationale, régi par le décret n° 91-1195 du 27 novembre 1991, 124 médecins vacataires ont été contractualisés au titre de l'année 1991.
