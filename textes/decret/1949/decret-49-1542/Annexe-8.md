@@ -26,7 +26,7 @@ Officiers supérieurs
 
 |
 
-8.640
+86,40
 
 |
 
@@ -34,7 +34,7 @@ Officiers subalternes
 
 |
 
-6.480
+64,80
 
 |
 
@@ -42,7 +42,7 @@ Aspirants, adjudants - chefs, adjudants, sergents-majors
 
 |
 
-4.320
+43,20
 
 |
 
@@ -50,7 +50,7 @@ Autres sous-officiers
 
 |
 
-3.240
+32,40
 
 |
 
@@ -58,7 +58,7 @@ Caporaux-chefs et caporaux
 
 |
 
-2.160
+21,60
 
 |
 
@@ -66,7 +66,7 @@ Soldats
 
 |
 
-1.800
+18
 
 |
 

@@ -28,7 +28,7 @@ A. Sous-lieutenants et assimilés de l’armée active de tous corps et services
 
 |
 
-29.000
+290
 
 |
 
@@ -36,7 +36,7 @@ A. Sous-lieutenants et assimilés de l’armée active de tous corps et services
 
 |
 
-29.000
+290
 
 |
 
@@ -44,7 +44,7 @@ A. Sous-lieutenants et assimilés de l’armée active de tous corps et services
 
 |
 
-50.000
+500
 
 |
 
@@ -52,7 +52,7 @@ B. Sous-lieutenants de réserve et assimilés
 
 |
 
-22.000
+220
 
 |
 
@@ -60,22 +60,18 @@ C. Assimilés spéciaux ayant rang d’officier
 
 |
 
-22.000
+220
 
 |
 
 D. Personnels militaires féminins assimilés aux officiers |
 
-50.000 |
+500 |
 
 E. Personnels militaires féminins assimilés aux sous-officiers et aux caporaux-chefs |
 
-65.000 |
+1.137,50 F |
 
 Nota. — Les officiers, de réserve servant depuis cinq ans en situation d ’activité ont droit à un complément d’indemnité de première mise d ’équipement égal à la différence entre le taux prévu au paragraphe A-3 et le taux prévu au paragraphe B du tarif. Toutefois, les intéressés seront ténus de reverser ce complément d’indemnité S’ils cessent de servir en situation d ’activité moins de trois ans après l’avoir perçu.
 
 |
-
-NOTA :
-
-Conformément à l'article 3 du décret n° 55-100 du 18 janvier 1955, ces dispositions auront effet à compter du 1er janvier 1954.

@@ -26,7 +26,7 @@ Sous-officiers de tous grades
 
 |
 
-3.240
+32,40
 
 |
 

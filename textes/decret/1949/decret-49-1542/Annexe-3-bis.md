@@ -16,10 +16,6 @@ Personnels militaires féminins assimilés aux
 
 sous-officiers et caporaux-chefs |
 
-20.000 F (par an)
+200 F
 
 |
-
-NOTA :
-
-Conformément à l'article 3 du décret n° 55-100 du 18 janvier 1955, ces dispositions auront effet à compter du 1er janvier 1954.
