@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000424242
+
+- Question : [SEQ000424242](seq000424242.md) — Rôle de la BDPME dans la création d'entreprise
+
+## Réponse
+
+*Économie, JO du 2000-10-26, page 3667*
+
+Réponse. - Parmi les difficultés rencontrées par les créateurs, l'accès au financement est souvent mentionné. Ainsi seuls 22 % auraient recours aux banques ou aux organismes de fonds propres, ce qui correspondrait pour l'année 1999 à 37 330 créations. En regard de ce chiffre, le rôle de la Banque de développement pour les petites et moyennes entreprises (BDPME) est important puisqu'elle est intervenue en 1999, par l'intermédiaire de la garantie de Sofaris, en faveur de 12 200 créations, pour un montant de 5 milliards de francs, soit près de 40 % du volume des concours bancaires à la création. Le soutien de l'établissement est notamment concentré sur les très petites entreprises grâce à la signature de conventions de délégation aux établissements bancaires : en 1999, 9 500 des 12 000 créations concernaient des très petites entreprises. Par ailleurs, de nombreux partenariats ont été signés (Entreprendre en France, France initiative réseau, Réseau entreprendre, France active) avec la BDPME afin d'intensifier la coopération avec les différents réseaux d'accompagnement de la création. Enfin, la BDPME a développé une politique de financement des petites et moyennes entreprises (PME) dans le domaine des fonds propres : le fonds " Garantie PME ", qui couvre les interventions faites par les organismes de fonds propres dans les PME en création ou récemment créées, est doté à hauteur de 125 millions de francs par an par la Caisse des dépôts et consignations ; le fonds " Développement technologique ", doté à parité par l'Etat et la banque européenne d'investissement à hauteur de 100 millions de francs chacun sur trois ans, soutient principalement les fonds communs de placement dans l'innovation.
