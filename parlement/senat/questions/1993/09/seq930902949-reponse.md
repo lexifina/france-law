@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930902949
+
+- Question : [SEQ930902949](seq930902949.md) — Remplacement des agents spécialisés des écoles maternelles
+
+## Réponse
+
+*Aménagement du territoire, JO du 1993-11-25, page 2253*
+
+Réponse. - La loi no 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale prévoit la possibilité pour les collectivités locales de faire appel au centre de gestion ou de recruter des agents non titulaires. L'article 25 dispose notamment que les centres de gestion peuvent, à la demande des collectivités affiliées, recruter des fonctionnaires en vue de les affecter à des missions temporaires ou d'assurer le remplacement de titulaires momentanément indisponibles ou en vue d'assurer des services communs à plusieurs collectivités ou établissements. En outre, les collectivités territoriales peuvent recruter des agents non titulaires dans les conditions prévues à l'article 3 de la loi du 26 janvier 1984. Ainsi le premier alinéa de cet article prévoit que les collectivités peuvent recruter des agents non titulaires pour assurer le remplacement momentané de titulaires indisponibles en raison d'un congé de maladie, d'un congé de maternité, d'un congé parental, de l'accomplissement du service national ou autorisés à travailler à temps partiel. En dehors de ces cas, le remplacement immédiat et temporaire, pour quelques heures d'un fonctionnaire absent est un problème à résoudre dans le cadre de l'organisation du service. Au-delà de ces dispositions particulières, le Gouvernement conduit actuellement une réflexion globale sur la fonction publique territoriale, dans le souci de mieux prendre en compte les besoins des collectivités locales sans pour autant méconnaître les exigences d'un statut de carrière. Cette réflexion pourrait aboutir à la modification des dispositions législatives et réglementaires en vigueur.
