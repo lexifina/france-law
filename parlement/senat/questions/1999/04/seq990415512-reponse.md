@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990415512
+
+- Question : [SEQ990415512](seq990415512.md) — Signature d'un contrat sur l'aide aux victimes entre l'Etat et les conseils généraux
+
+## Réponse
+
+*Justice, JO du 2000-12-07, page 4148*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que les propositions contenues dans le rapport élaboré par le groupe de travail présidé par Mme Marie-Noël le Lienemann ont servi de base à la définition des grands axes d'une politique publique d'aide aux victimes de la délinquance annoncés lors du conseil de sécurité intérieure du 19 avril 1999. Il est notamment prévu que les contrats locaux de sécurité comporteront un volet d'aide aux victimes. Dans ce cadre, les juridictions ont élaboré des notices d'information sur les droits des victimes, organisé des services de traitement des requêtes ou des plaintes ou encore des guichets uniques d'accueil. En partenariat avec l'éducation nationale, l'institution judiciaire a développé des actions de lutte contre le racket, des conventions de signalement et élaboré des guides pratiques pour des personnels de l'éducation nationale. Elle a travaillé avec les services de police sur l'accueil dans les commissariats, la mise en place de procédures de dépôt de plainte simplifiées ainsi que sur l'information des victimes par des îlotiers. Par ailleurs, le ministère de la justice a voulu ancrer sur la durée l'aide aux victimes comme l'une de ses priorités, par son engagement financier, dans le cadre des contrats de plan Etat-régions, notamment sur leur volet territorial et principalement sur les contrats de ville. L'effort de l'Etat atteint 26,3 MF sur sept ans, dont près de 55 % pour les 26 départements prioritaires. Il convient de préciser que cette dotation représente le montant minimum que le ministère de la justice entend consacrer à cette action prioritaire.
