@@ -1,5 +1,0 @@
-# Article 10 **Remplacé par accord 1993-06-08**
-
-L'employeur peut révoquer, en dehors de toute procédure disciplinaire, les agents frappés par une condamnation judiciaire en raison de faits passibles de peines afflictives et infamantes ou infamantes seulement, ou ayant commis des infractions réprimées par la loi du 19 juin 1930 relative à l'exercice de la profession de banquier, ou par le décret-loi du 9 septembre 1939 portant prohibition ou réglementation de l'exportation des capitaux, des opérations de change et du commerce de l'or.
-
-Si le jugement de condamnation est réformé ultérieurement, la sanction appliquée par l'employeur sera révisée suivant la procédure prévue au présent règlement.

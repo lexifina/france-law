@@ -1,5 +1,0 @@
-# Article 7 **Remplacé par accord 1993-06-08**
-
-Lors de sa première réunion, le conseil de discipline ne peut formuler son avis que s'il est au complet ; cet avis doit être formulé hors de la présence de l'agent et dans un délai maximum de dix jours ouvrés à compter de la date à laquelle le conseil a été saisi. Au cas où, par suite de l'absence d'un ou plusieurs de ses membres, le conseil n'a pu délibérer valablement, il doit se réunir de nouveau dans les trois jours qui suivent et formuler son avis quel que soit le nombre des membres présents.
-
-L'avis du conseil de discipline est formulé par écrit et communiqué à l'agent intéressé ; il doit être précisé s'il est exprimé à l'unanimité, à la majorité ou si les voix sont restées partagées.
