@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970220663
+
+- Question : [SEQ970220663](seq970220663.md) — Régies communales
+
+## Réponse
+
+*Fonction publique, JO du 1997-04-24, page 1311*
+
+Réponse. - Les articles L. 2221-2, L. 2221-10 et L. 2221-14 du code général des collectivités territoriales, tels qu'ils résultent de la loi no 93-122 du 29 janvier 1993 (art. 74) relative à la prévention de la corruption et à la transparence de la vie économique et des procédures publiques permettant dorénavant aux communes et à leurs syndicats de gérer leurs services publics administratifs sous forme de régies dotées ou non de la personnalité morale. Les premiers alinéas des articles L. 2221-10 et L. 2221-14 du code général des collectivités territoriales issu de l'article 39 de la loi no 92-3 du 3 janvier 1992 sur l'eau donnent compétence aux conseils municipaux pour déterminer l'organisation administrative et financière des régies qu'ils auront décidé de créer pour la gestion de leurs services publics. Le projet de décret en Conseil d'Etat qui doit être pris pour l'application de ces dispositions, aujourd'hui rédigé, fait l'objet de concertations interministérielles. Pour autant, avant sa transmission à la Haute Assemblée, ce projet de décret devra intégrer les dispositions réglementaires d'application de la proposition de loi no 639 facilitant la création d'établissements publics locaux adoptée le 16 janvier 1997 par l'Assemblée nationale en première lecture. Cette proposition de loi donne un cadre juridique, comptable et financier à la création d'établissements publics locaux à caractère industriel et commercial ou administratif, établissements publics qui se substitueront aux régies dotées de la personnalité morale et de l'autonomie financière telles qu'elles sont définies dans le code général des collectivités territoriales et dans la partie réglementaire du code des communes.
