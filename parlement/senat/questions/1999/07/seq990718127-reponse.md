@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990718127
+
+- Question : [SEQ990718127](seq990718127.md) — Ecoles nationales de la marine marchande
+
+## Réponse
+
+*Équipement, JO du 2000-05-18, page 1784*
+
+Réponse. - Le nombre de places proposé aux concours pour entrer dans les écoles nationales de la marine marchande (ENMM) augmente depuis 1996, pour répondre à une pénurie d'officiers qui commence à se manifester tant au niveau national qu'international. Cependant, on constate que le nombre de candidats aux concours stagne. Conscient de ce problème, le ministre de l'équipement, des transports et du logement a engagé une politique forte de promotion des formations maritimes avec ses partenaires du milieu professionnel. C'est l'un des objectifs des journées de l'éducation maritime organisées au printemps depuis cinq ans par la direction des affaires maritimes et des gens de mer. Cette politique a été renforcée par la mise en uvre, en 1999, de plusieurs actions : diffusion de plaquettes d'information sur les formations aux métiers de la mer et sur les ENMM, ainsi que de cahiers " Amarres " sur les nouvelles normes internationales de formation des gens de mer ; participation à des conférences et à cinq salons ouverts à la promotion des métiers ; participation à l'élaboration du numéro spécial de la revue Les Métiers sur les métiers de la mer. Pour l'année 2000, une nouvelle diffusion de cahiers " Amarres " a été effectuée. Des salons, des expositions et des journées portes ouvertes vont être organisés tout au long de l'année, ainsi qu'une participation active des écoles nationales de la marine marchande lors des manifestations " Brest 2000 ". L'objectif est de promouvoir les différentes formations d'officiers organisées au sein des ENMM et de mieux faire connaître aux étudiants les particularités d'un métier attrayant qui requiert au demeurant de grandes compétences technologiques.
