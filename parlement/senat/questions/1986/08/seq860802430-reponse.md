@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860802430
+
+- Question : [SEQ860802430](seq860802430.md) — Interventions financières des agences de bassin au profit des collectivités locales
+
+## Réponse
+
+*Environnement, JO du 1986-10-30, page 1531*
+
+Réponse. -Conformément aux dispositions de la loi du 16 décembre 1964 relative au régime et à la répartition des eaux et à la lutte contre leur pollution, les agences de bassin attribuent " des subventions et des prêts aux personnes publiques et privées pour l'exécution de travaux d'intérêt commun au bassin ou au groupement de bassin ". Les conseils d'administration des agences fixent, par leurs délibérations, les règles d'exigibilité des opérations aux aides allouées par ces établissements publics ainsi que les niveaux des taux d'aides. Les principales catégories d'opérations éligibles sont les suivantes : stations d'épuration (construction, extension, amélioration) ; réseaux d'assainissement (transfert, transport, restructuration) ; déchets (transport, traitement, élimination) ; eaux de surface (construction d'ouvrages structurant ou permettant d'augmenter la ressource, aménagement et entretien des cours d'eau, réseaux de mesure) ; eaux souterraines (protection des captages, forages destinés à l'alimentation en eau potable, à l'irrigation ou à l'industrie, sécurité de l'alimentation en eau potable, économie d'eau et lutte contre le gaspillage, lutte contre les pollutions accidentelles). Les taux d'aides varient dans des proportions importantes, d'une agence à l'autre. L'attribution effective de ces aides s'effectue dans la limite des crédits disponibles. Certaines agences, pour lesquelles les demandes d'aides sont supérieures à leurs ressources, ont été conduites à arrêter des règles de sélectivité. Le principal critère reconnu est celui de l'impact, en terme de protection du milieu naturel, des projets présentés par les maîtres d'ouvrage.
