@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880109216
+
+- Question : [SEQ880109216](seq880109216.md) — Organisation des concours pour le compte des OPHLM
+
+## Réponse
+
+*Collectivités locales, JO du 1988-03-03, page 282*
+
+Réponse. -L'article 5 de la loi du 13 juillet 1987 modifiant les dispositions relatives à la fonction publique territoriale n'exclut pas les agents des offices publics d'habitations à loyer modéré du champ d'application de la loi n° 84-53 du 26 janvier 1984. En effet, la loi du 13 juillet 1987 prévoit dans cet article que les dispositions de la loi du 26 janvier 1984 s'appliquent aux fonctionnaires des établissements publics relevant des communes, des départements ou des régions, ce qui est le cas des offices publics d'habitations à loyer modéré. Ces établissements restent donc soumis aux dispositions de la loi du 26 janvier 1984. En ce qui concerne l'organisation des concours, il faut actuellement distinguer deux situations. Depuis la publication des décrets du 30 décembre 1987 portant statuts particuliers des cadres de la filière administrative pour l'ensemble des fonctionnaires relevant de cette filière, l'organisation des concours revient, conformément aux dispositions de la loi du 26 janvier 1984 modifiée, aux collectivités, établissements ou centres de gestion et, s'agissant des rédacteurs, attachés et administrateurs, au Centre national de la fonction publique territoriale. Pour les agents des offices publics d'habitations à loyer modéré qui relèvent d'une autre filière, il importe, dans l'attente de la publication des statuts particuliers les concernant, de continuer d'appliquer l'article 22 de la loi du 22 octobre 1985 aux termes de laquelle les concours qui étaient à la charge de la Fédération nationale des offices publics d'habitations à loyer modéré sont organisés par le centre de gestion du département, chef-lieu de région.
