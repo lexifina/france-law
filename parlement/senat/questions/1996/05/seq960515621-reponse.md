@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960515621
+
+- Question : [SEQ960515621](seq960515621.md) — Capacité d'armement chimique de la Libye
+
+## Réponse
+
+*Défense, JO du 1996-07-11, page 1745*
+
+Réponse. - Selon des sources concordantes, il semble que la Libye tenterait depuis plusieurs années de développer un programme chimique. Deux complexes industriels sont principalement incriminés, celui de Rabta et celui de Tarhunah. Rabta a été le premier site soupçonné d'abriter des activités d'armement chimique en Libye. L'usine chimique a été endommagée en 1990 par un incendie, mais a été rénovée depuis. Le 29 septembre 1995, le Gouvernement libyen a solennellement inauguré les nouvelles installations, reconverties à des fins civiles pour fabriquer des produits pharmaceutiques, en présence de nombreux observateurs étrangers. Etant dans l'impossibilité de poursuivre sa production d'agents de guerre chimique à Rabta, le Gouvernement libyen a décidé, en 1992, la construction d'une nouvelle installation, en partie souterraine, sur le site de Tarhunah, à soixante-cinq kilomètres au sud-est de Tripoli. Il est estimé qu'actuellement le programme de guerre chimique libyen aurait déjà permis la fabrication d'agent vésicant. D'autres agents chimiques, de type neurotoxique, auraient également été étudiés, sans dépasser toutefois le stade du laboratoire. La capacité chimique libyenne représente une menace encore modeste comparée à celle que constituait l'Irak. Elle pourrait cependant devenir préoccupante pour les pays environnants, si la Libye accédait, grâce à des coopérations extérieures, aux technologies qui lui font actuellement défaut. Aussi il apparaît indispensable que les mesures d'embargo et de non-prolifération appliquées par la communauté internationale à l'encontre de la Libye soient maintenues.
