@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701377
+
+- Question : [SEQ970701377](seq970701377.md) — Accueil des personnes atteintes de la maladie d'Alzheimer dans le département du Rhône
+
+## Réponse
+
+*Santé, JO du 1998-02-19, page 604*
+
+Réponse. - L'honorable parlementaire demande si les services hospitaliers du Rhône ont su s'adapter à l'augmentation du nombre des personnes atteintes par la maladie d'Alzheimer et quel programme est prévu pour améliorer la prise en charge de ces malades. Afin d'apporter une réponse adaptée aux problèmes spécifiques de ces personnes, le schéma régional d'organisation sanitaire, arrêté en 1994, par le préfet du Rhône, a individualisé, au sein des soins de longue durée, des soins de longue durée psychogériatriques. Ils sont destinés à recevoir des déments présentant des troubles du comportement et dont l'hospitalisation nécessite une prise en charge spécifique diurne et nocturne. Il est précisé que l'hospitalisation peut être proposée à titre temporaire, envisagée dans le cadre d'une coordination précise avec l'ensemble des acteurs familiaux et avec l'environnement. Par ailleurs, en 1994, des orientations nationales avaient invité tous les établissements concernés à adapter les structures existantes et à faire appel au secteur psychiatrique pour les soins aux malades et le soutien des équipes soignantes. En effet, la création ex nihilo de services de soins de longue durée spécialisés pour les malades dépendants psychiquement n'est pas encouragée afin d'éviter une double ségrégation par l'âge et la pathologie, d'autant que ces malades constituent déjà la majorité des personnes hébergées en soins de longue durée et une forte proportion en maison de retraite médicalisée. Afin de soutenir la réflexion des établissements, la direction des hôpitaux avait publié un fascicule élaboré à ce sujet par les directions concernées du ministère (B.O. no 94/42 du 24 novembre 1994).
