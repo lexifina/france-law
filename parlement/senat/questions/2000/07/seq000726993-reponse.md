@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000726993
+
+- Question : [SEQ000726993](seq000726993.md) — Avenir de la revue Le Français dans le monde
+
+## Réponse
+
+*Coopération, JO du 2000-11-16, page 3918*
+
+Réponse. - Contrairement à ce que certains articles de presse ont pu laisser penser, il n'a jamais été question de substituer une version électronique du Français dans le Monde à une version papier qui fêtait en l'an 2000 son quarantième anniversaire. Comme l'a annoncé le Premier ministre dans son discours, lors de la cérémonie de clôture du Xe congrès mondial de la Fédération internationale des professeurs de français (FIPF) qui s'est tenu à Paris du 17 au 21 juillet dernier, la revue Le Français dans le monde continuera à être éditée en version papier. Dans un souci de s'adapter aux nouvelles technologies de l'information et de la communication qui deviendront rapidement, dans le domaine de l'éducation et notamment en ce qui concerne l'enseignement des langues, des outils indispensables à la formation des étudiants mais aussi à celle des enseignants, une diffusion gratuite sur Internet s'ajoutera à la publication traditionnelle. Dans le but de se rapprocher davantage de la communauté des professeurs de français, de répondre à leur attente et à leurs besoins, la conception de la revue sera désormais confiée à la Fédération internationale des professeurs de français. Le ministère des affaires étrangères poursuivra son soutien financier à cette publication et le ministère de l'éducation nationale continuera à mettre deux enseignants à la disposition de la FIPF pour diriger l'équipe éditoriale du Français dans le monde. Ce nouveau partenariat établi entre les pouvoirs publics et la FIPF devrait permettre d'assurer la publication du Français dans le monde dans une version rénovée à la diffusion élargie, allant au-delà du chiffre actuel de 2 000 abonnements individuels (pour une population de professeurs de français dans le monde estimée à 900 000).
