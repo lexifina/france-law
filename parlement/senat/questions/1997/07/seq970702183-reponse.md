@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970702183
+
+- Question : [SEQ970702183](seq970702183.md) — Création de postes pour l'accompagnement des élèves handicapés en milieu scolaire
+
+## Réponse
+
+*Éducation, JO du 1997-12-25, page 3643*
+
+Réponse. - L'intégration en milieu scolaire ordinaire des élèves présentant des handicaps, entreprise dans le prolongement des lois du 30 juin 1975 en faveur des handicapés et du 10 juillet 1989 sur l'éducation, demeure une priorité constante du ministère de l'éducation nationale, de la recherche et de la technologie qui s'attache à améliorer les conditions de sa mise en oeuvre. A cet effet, une attention particulière a été apportée à la mise en place des accompagnements indispensables au bon déroulement du processus d'intégration par la circulaire 95-124 du 17 mai 1995. Celle-ci souligne la place que ces accompagnements doivent occuper dans la convention d'intégration passée entre d'une part le chef d'établissement et d'autre part, le représentant de l'organisme assurant le service de soins et de soutiens spécialisés. Des postes d'accompagnement vont pouvoir être créés dans le cadre du dispositif en faveur de l'emploi des jeunes. Ce dispositif prévoit de mettre à la disposition des collèges, d'ici la fin de l'année civile 1997, 10 000 emplois. Ces emplois constituent une première étape destinée à améliorer le fonctionnement du service public d'éducation, notamment dans des collèges situés dans un certain nombre de sites sensibles et connaissant des situations très dégradées. La mise en oeuvre de cette première étape s'effectuera parallèlement à la poursuite de la réflexion entreprise sur les moyens de rendre un meilleur service aux élèves, aux familles et aux personnels à partir des besoins définis par les équipes des établissements et des projets qu'elles auront proposés.
