@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701044
+
+- Question : [SEQ970701044](seq970701044.md) — Difficultés des petits clubs sportifs et encadrement des activités physiques et sportives
+
+## Réponse
+
+*Jeunesse, JO du 1997-11-27, page 3317*
+
+Réponse. - A l'heure actuelle, de nombreux diplômés fédéraux peuvent d'ores et déjà enseigner, encadrer ou animer contre rémunération une activité physique ou sportive. En effet, s'il est vrai que pour l'encadrement de ces activités la possession d'un brevet d'Etat d'éducateur sportif est en principe exigée, il n'en demeure pas moins que certains assouplissements sont prévus par l'article 43 de la loi no 84-610 du 16 juillet 1984 modifiée qui dispose qu'" un décret en Conseil d'Etat fixe les conditions d'inscription sur la liste d'homologation des diplômes délivrés, notamment, par les fédérations sportives à l'issue de formations reconnues par l'Etat après avis d'une commission comprenant des représentants de l'administration, du mouvement sportif et des professions intéressées ". En application de ces dispositions, un effort d'adaptation a été fait, qui est allé dans le sens de la reconnaissance des diplômes délivrés par d'autres institutions que l'Etat au premier rang desquelles figurent les fédérations sportives chargées d'une mission de service public, et qui a permis, depuis la parution de l'arrêté du 4 mai 1995, l'homologation de quarante-trois qualifications fédérales qui figurent dorénavant sur la liste de l'arrêté précité modifié le 26 mai dernier. De plus, les réformes actuellement en cours devraient permettre d'apporter des assouplissements supplémentaires et substantiels à l'obligation de diplôme. En effet, d'une part, des modifications de cette réglementation sont étudiées dans le cadre de la révision de la loi sur le sport et, d'autre part, un groupe de travail réfléchit sur une refonte du dispositif des formations.
