@@ -1,43 +1,5 @@
 # Article Annexe I
 
-Conseil technique des écoles d'infirmiers
-
-a) Membres de droit.
-
-Le représentant de l'Etat dans le département ou son représentant, président.
-
-Le directeur de l'école.
-
-b) Représentants de l'organisme gestionnaire et personnalités compétentes.
-
-Le président du conseil d'administration de l'organisme gestionnaire ou son représentant, membre du conseil d'administration.
-
-Un représentant de l'organisme gestionnaire.
-
-L'infirmier général ou l'infirmier général adjoint de l'établissement hospitalier gestionnaire de l'école. Pour les écoles qui ne sont pas gérées par un établissement hospitalier, le directeur désigne un infirmier général ou infirmier général adjoint d'un établissement hospitalier recevant des élèves en stage. A défaut, un surveillant chef peut être désigné.
-
-Un médecin ou un pharmacien résident ou gérant proposé par le conseil d'administration de l'organisme gestionnaire.
-
-Un infirmier exerçant dans le secteur extra-hospitalier, désigné par le représentant de l'Etat dans le département.
-
-Un directeur de centre de formation d'infirmiers de secteur psychiatrique, désigné par le représentant de l'Etat dans le département, après avis du directeur de l'école.
-
-c) Représentants des élèves.
-
-Six élèves élus par leurs pairs à raison de deux par promotion.
-
-d) Six représentants des enseignants.
-
-Trois moniteurs élus par leurs pairs.
-
-Deux surveillants recevant des élèves en stage, élus par leurs pairs.
-
-Un médecin chargé d'enseignement à l'école, élu par ses pairs.
-
-e) Membre ayant voix consultative.
-
-La conseillère pédagogique dans les régions où il en existe une.
-
 Conseil technique des écoles de masseurs-kinésithérapeutes
 
 a) Membres de droit.
@@ -182,36 +144,42 @@ Deux personnes chargées d'enseignement à l'école, dont un médecin spécialis
 
 Deux manipulateurs d'électroradiologie médicale, titulaires du certificat cadre manipulateur d'électroradiologie médicale, recevant des élèves en stage.
 
-Conseil technique des centres de formation d'infirmiers de secteur psychiatrique.
+Conseil technique des centres de formation en soins infirmiers.
 
-a) Membres de droit.
+a) Membres de droit :
 
-Le représentant de l'Etat dans le département ou son représentant, président.
+Le représentant de l'Etat dans le département ou son représentant, président ;
 
-Le directeur du centre de formation.
+Le directeur du centre de formation en soins infirmiers.
 
-b) Représentants de l'organisme gestionnaire et personnalités compétentes.
+b) Représentants de l'organisme gestionnaire et personnalités compétentes :
 
-Le directeur de l'établissement hospitalier dont dépend juridiquement le centre de formation.
+Le président du conseil d'administration de l'organisme gestionnaire ou son représentant, membre du conseil d'administration ;
 
-Un médecin proposé par la commission médicale d'établissement.
+Le directeur de l'organisme gestionnaire ou son représentant ;
 
-L'infirmier général ou l'infirmier général adjoint de secteur psychiatrique, ou, lorsqu'il n'en existe pas, un surveillant chef désigné par le directeur du centre de formation.
+L'infirmier général, directeur du service des soins infirmiers de l'établissement public de santé gestionnaire du centre de formation en soins infirmiers ou son représentant. Pour les centres de formation en soins infirmiers qui ne sont pas gérés par un établissement public de santé, le représentant de l'Etat dans le département désigne un infirmier général, directeur du service des soins infirmiers d'un établissement public de santé ou son représentant, ou une personne remplissant des fonctions équivalentes dans un établissement privé de santé. La personne désignée doit exercer ses fonctions dans un établissement dans lequel les étudiants du centre de formation en soins infirmiers concerné effectuent des stages ;
 
-Un médecin spécialiste qualifié en psychiatrie ou un pharmacien résident ou gérant, proposé par le conseil d'administration de l'établissement hospitalier gestionnaire du centre de formation.
+Un médecin ou un pharmacien résident ou gérant proposé par le conseil d'administration de l'organisme gestionnaire ;
 
-Un directeur d'école d'infirmiers désigné par le représentant de l'Etat dans le département, après avis du directeur du centre de formation.
+Un infirmier exerçant dans le secteur extrahospitalier, désigné par le représentant de l'Etat dans le département.
 
-Un infirmier de secteur psychiatrique participant à l'ensemble des activités de secteur désigné par le représentant de l'Etat dans le département, après avis du directeur du centre de formation.
+c) Représentants des étudiants :
 
-c) Six élèves élus par leurs pairs à raison de deux par promotion.
+Six étudiants élus par leurs pairs à raison de deux par promotion.
 
-d) Six représentants des enseignants.
+d) Représentants des personnels participant à la formation des étudiants :
 
-Deux surveillants participant à l'ensemble des activités de secteur, recevant des élèves en stage, élus par leurs pairs.
+Trois surveillants participant à la formation des étudiants dans le centre de formation en soins infirmiers concerné, élus par leurs pairs ;
 
-Trois moniteurs élus par leurs pairs.
+Deux surveillants chargés de fonctions d'encadrement dans un service de soins d'un établissement de santé, le premier dans un établissements public de santé et le second dans un établissement de santé privé, élus par leurs pairs ;
 
-Une personne chargée d'enseignement au centre de formation, médecin spécialiste qualifié en psychiatrie ou un pharmacien, résident ou gérant, élue par ses pairs.
+Un médecin, élu par ses pairs.
 
-e) Membres ayant voix consultative : la conseillère pédagogique dans les régions où il en existe une.
+e) La conseillère technique régionale en soins infirmiers ou la conseillère pédagogique dans les régions où il en existe.
+
+f) Un enseignant de statut universitaire lorsque le centre de formation en soins infirmiers a conclu une convention avec une université, élu par ses pairs.
+
+NOTA :
+
+Conformément à l'article 2 de l'arrêté du 30 mars 1992 (NOR : SANP9200852A), ces dispositions s'appliquent aux conseils techniques et aux conseils de discipline des centres de formation en soins infirmiers qui seront renouvelés postérieurement au 1er octobre 1992.

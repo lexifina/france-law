@@ -1,19 +1,5 @@
 # Article Annexe II
 
-Conseil de discipline des écoles d'infirmiers.
-
-Le représentant de l'Etat dans le département ou son représentant, président.
-
-Un représentant de l'organisme gestionnaire, siégeant au conseil technique.
-
-Le médecin chargé d'enseignement à l'école, élu au conseil technique dans le groupe des enseignants.
-
-Un surveillant recevant des élèves en stage, tiré au sort parmi les deux surveillants élus au conseil technique dans le groupe des enseignants.
-
-Un moniteur tiré au sort parmi les trois moniteurs élus au conseil technique dans le groupe des enseignants.
-
-Un représentant des élèves par promotion, tiré au sort parmi les représentants des élèves élus au conseil technique.
-
 Conseil de discipline des écoles de masseurs-kinésithérapeutes.
 
 Le représentant de l'Etat dans le département ou son représentant, président.
@@ -84,16 +70,16 @@ Un manipulateur d'électroradiologie médicale, recevant des élèves en stage, 
 
 Trois représentants des élèves dont au moins un par promotion tirés au sort parmi les élus au conseil technique.
 
-Conseil de discipline des centres de formation d'infirmiers de secteur psychiatrique
+Conseil de discipline des centres de formation en soins infirmiers.
 
 Le représentant de l'Etat dans le département ou son représentant, président.
 
-Le directeur de l'établissement hospitalier gestionnaire du centre de formation ou son représentant.
+Le directeur de l'organisme gestionnaire ou son représentant, siégeant au conseil technique.
 
-La personne chargée d'enseignement au centre de formation, élue au conseil technique dans le groupe des enseignants.
+Le médecin participant à la formation des étudiants, élu au conseil technique.
 
-Un surveillant recevant des élèves en stage, tiré au sort parmi les deux élus au conseil technique dans le groupe des enseignants.
+Un surveillant participant à la formation des étudiants dans le centre de formation en soins infirmiers concerné, tiré au sort parmi les trois élus au conseil technique
 
-Un moniteur tiré au sort parmi les trois élèves au conseil technique dans le groupe des enseignants.
+Un surveillant chargé de fonctions d'encadrement dans un service de soins d'un établissement public de santé ou d'un établissement de santé privé, tiré au sort parmi les deux élus au conseil technique.
 
-Un représentant des élèves par promotion, tiré au sort parmi les représentants des élèves élus au conseil technique.
+Un représentant des étudiants par promotion, tiré au sort parmi les représentants des étudiants élus au conseil technique.
