@@ -1,3 +1,3 @@
 # Article 2.1 : Formation initiale
 
-La mise en application sera rendue obligatoire à la date fixée par le décret, prévu à l'article 1er de la loi n° 98-69 du 6 février 1998 sur la formation professionnelle des conducteurs salariés du transport routier privé.
+Tout conducteur embauché pour la conduite de véhicules de plus de 7,5 tonnes de PTAC à partir du 1er janvier 2005 doit répondre aux conditions fixées à l'article 1.1 du chapitre Ier avant de conduire effectivement les véhicules concernés.
