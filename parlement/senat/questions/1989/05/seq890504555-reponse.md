@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890504555
+
+- Question : [SEQ890504555](seq890504555.md) — Montant des dépenses effectuées pour l'éducation nationale entre 1985 et 1989
+
+## Réponse
+
+*Éducation, JO du 1989-08-10, page 1244*
+
+Réponse. - En 1986, la collectivité nationale française (Etat, collectivités locales, entreprises et ménages) à dépensé 333,1 milliard de francs pour les activités d'éducation en France métropolitaine. Cette dépense représente 6,6 p. 100 du produit intérieur brut. Elle comprend : les dépenses pour les activités d'enseignement de type scolaire de tous niveaux, préélémentaires, élémentaire, second degré, supérieur ; les dépenses pour les activités de formation de type extra-scolaire, enseignement à distance, formation professionnelle continue, cours du soir, leçons particulières ; les dépenses pour les activités visant à organiser le système d'enseignement : administration générale, orientation,... ; les dépenses pour les activités visant à favoriser la fréquentation scolaire : cantines et internats, transports scolaires,... ; les dépenses demandées par les institutions scolaires : livres scolaires, fournitures, habillement,... Le ministère de l'éducation nationale a rechiffré une série complète de la dépense d'éducation en métropole depuis 1974 : 1986 : 333,1 milliards de francs (provisoire) ; 1985 : 316,5 milliards de francs (provisoire) ; 1984 : 296,2 milliards de francs (définitif) ; 1983 : 271,7 milliards de francs (définitif) ; 1982 : 245,9 milliards de francs (définitif) ; 1981 : 208,6 milliards de francs (définitif) ; 1980 : 180,8 milliards de francs (définitif) ; 1979 : 158,7 milliards de francs (définitif) ; 1978 : 141,1 milliards de francs (définitif) ; 1977 : 125,4 milliards de francs (définitif) ; 1976 : 110,9 milliards de francs (définitif) ; 1975 : 95,9 milliards de francs (définitif) ; 1974 : 81,7 milliards de francs (définitif).
