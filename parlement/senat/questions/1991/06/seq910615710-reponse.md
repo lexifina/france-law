@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910615710
+
+- Question : [SEQ910615710](seq910615710.md) — Perspectives d'action du conseil de prospective et d'évaluation
+
+## Réponse
+
+*Économie, JO du 1991-08-22, page 1767*
+
+Réponse. - Le conseil de prospective et d'évaluation du ministère des finances a été créé par l'arrêté du 20 février 1991 publié au J.O. du 28 avril. L'idée de sa création est de contribuer durablement à la modernisation du ministère. Il a paru utile de développer au ministère des finances un lieu de synthèse des réflexions sur le long terme, qui commande l'avenir de ce ministère de 180 000 agents. Ce conseil, tout en utilisant les études déjà réalisées par les services du ministère, pourra en commander de nouvelles et s'appuyer sur l'expérience professionnelle de ses membres. Il est en effet composé de trente personnes choisies pour leur compétence en matière de stratégie de développement, leur connaissance des problèmes de gestion économique et sociale et leur indépendance. Ce sont des cadres dirigeants d'entreprises publiques ou privées, des chercheurs et des universitaires, des personnalités issues du monde du travail, des journalistes. Certains sont des étrangers, mais particulièrement au fait du fonctionnement des administrations, notamment françaises. Les missions du conseil ont été énoncées par l'article 1er de l'arrêté qui précise qu'il doit " effectuer ou faire effectuer tous travaux de recherches visant, d'une part, à éclairer les conséquences des grandes évolutions actuelles ou prévisibles de notre société sur les missions, les structures, l'organisation et les modes de fonctionnement du ministère, d'autre part, à évaluer l'efficacité des politiques mises en oeuvre par celui-ci au regard des objectifs poursuivis et des moyens utilisés ". Le conseil dispose d'un secrétariat, rattaché à l'inspection générale des finances, et de crédits d'études propres. Sa première réunion a eu lieu le 27 juin 1991.
