@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871008057
+
+- Question : [SEQ871008057](seq871008057.md) — Taux du plafond pour l'octroi de la décote spéciale
+
+## Réponse
+
+*Budget, JO du 1987-11-19, page 1833*
+
+Réponse. -Il n'est pas envisagé de relever la limite de 150 000 francs au-delà de laquelle la décote spéciale sur le montant de la taxe sur la valeur ajoutée cesse de s'appliquer. En effet, un assouplissement des conditions d'octroi de cette décote entraînerait des pertes de recettes élevées, incompatibles avec les contraintes budgétaires actuelles. Surtout, une telle mesure serait contraire à la 6e directive européenne, qui interdit aux " Etats membres qui appliquent une atténuation dégressive de la taxe de relever la limite supérieure de cette atténuation ainsi que de rendre plus favorables les conditions de son octroi ". Les contribuables ayant opté pour le régime simplifié d'imposition et adhéré à un centre de gestion agréé bénéficient d'une réduction d'impôt sur le revenu, égale à leurs dépenses de tenue de comptabilité et d'adhésion à un centre de gestion, dans la limite de 2 000 francs. Cette mesure a été instituée afin d'inciter les forfaitaires à opter pour un mode réel de détermination de leurs résultats, mieux adapté à une gestion plus efficace de leur entreprise, et à adhérer à un centre de gestion agréé. Il serait contraire à cet objectif d'étendre cet avantage à des contribuables qui relèvent de plein droit d'un régime réel d'imposition. Cela dit, le projet de loi de finances pour 1988, actuellement en discussion devant le Parlement, prévoit de doubler le montant maximal de cette réduction d'impôt. Le plafond serait porté à 4 000 francs et permettrait ainsi de mieux prendre en compte la réalité des frais concernés et d'inciter de nouveaux contribuables à opter pour un régime réel d'imposition.
