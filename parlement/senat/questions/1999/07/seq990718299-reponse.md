@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990718299
+
+- Question : [SEQ990718299](seq990718299.md) — Revalorisation des petites retraites agricoles
+
+## Réponse
+
+*Agriculture, JO du 1999-12-09, page 4049*
+
+Réponse. - Il est exact que les différentes mesures de revalorisation des retraites agricoles prévues par les lois de finances pour 1997, 1998 et 1999, ainsi d'ailleurs que par l'article 30 de la loi d'orientation agricole du 9 juillet dernier, ont été réservées aux personnes justifiant d'une carrière complète ou quasi complète en agriculture. Les décrets d'application de ces lois ont donc fixé à 32,5 ans (ou 130 trimestres) la limite en deçà de laquelle les retraités ne pouvaient plus prétendre à une revalorisation de leur pension. Le gouvernement entend en effet privilégier la revalorisation des pensions de retraite correpondant à des carrières longues. Au demeurant, les personnes disposant de carrières d'une durée inférieure à 32,5 années ont, de ce fait, pour la plupart, exercé une autre activité professionnelle que celle d'exploitant agricole et perçoivent à ce titre une pension de retraite d'un autre régime de sécurité sociale. Il s'est cependant avéré que certaines personnes, notamment veuves ou conjointes d'exploitants agricoles, ne se trouvaient pas dans cette situation et ne percevaient donc qu'une pension de retraite du régime agricole. Pour cette raison, le Gouvernement entend proposer une mesure, qui sera du reste exposée dans le rapport devant être déposé dans les prochaines semaines sur le bureau des assemblées, permettant notamment d'abaisser, à partir du 1er janvier 2000, le seuil de 32,5 années à 27,5 années lorsqu'il s'agira de conjoints ou de personnes veuves unipensionnés. Cette modification, qui concerne environ 36 000 personnes, représente un coût de 88 MF au titre de l'année 2000, montant dont il a été tenu compte pour fixer à 1,2 MF le chiffrage de la troisième étape du plan de revalorisation des petites retraites agricoles.
