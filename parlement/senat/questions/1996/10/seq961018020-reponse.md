@@ -1,0 +1,11 @@
+# Réponse à la question SEQ961018020
+
+- Question : [SEQ961018020](seq961018020.md) — Puissance administrative des véhicules particuliers de moins de neuf places
+
+## Réponse
+
+*Équipement, JO du 1997-01-30, page 294*
+
+Réponse. - La circulaire du 23 décembre 1977, qui a été annexée à la loi de finances rectificative du 22 juin 1993, définit le mode de calcul de la puissance administrative des voitures particulières réceptionnées par type depuis le 1er janvier 1978. Cette circulaire, prise en application d'une décision en 1976 du Comité interministériel pour les économies d'énergie, avait pour principal objectif de définir une puissance administrative qui soit en meilleure corrélation avec la consommation de carburant des voitures, dont la mesure normalisée avait été récemment mise en oeuvre. Les autres catégories de véhicules à moteur, et notamment les utilitaires légers tels les camionnettes, restaient soumises au mode de calcul antérieur de la circulaire du 28 décembre 1956. Les rares voitures de 9 places existant à l'époque n'étaient pas fabriquées sur la base de berlines classiques mais d'utilitaires légers. Pour des raisons d'équité technique elles ont donc été assimilées, du point de vue du calcul de la puissance fiscale, à cette catégorie de véhicules. Compte tenu des moteurs et des transmissions spécifiques qui équipaient ces voitures, l'application de la circulaire du 28 décembre 1956 n'était d'ailleurs pas discriminatoire. Aujourd'hui, il est toutefois exact que des évolutions techniques majeures sont intervenues, tant au niveau des caractéristiques des moteurs que des transmissions, et que la configuration technique des voitures à 8 ou 9 places ne diffère généralement plus de façon significative. Il apparaît donc souhaitable de réexaminer globalement la formule établie il y a plus de vingt ans qui peut apparaître techniquement obsolète, en prenant en compte non seulement les aspects énergétiques, mais aussi les préoccupations en matière de sécurité, de protection de l'environnement et les aspects sociaux soulignés par l'honorable parlementaire. Ce réexamen est d'ailleurs conforme à un amendement récent de la Commission des finance
+
+s du Sénat, introduit lors de l'examen de la loi de finances pour 1997, qui demande au Gouvernement un rapport sur cette question avant le 30 juin 1997.
