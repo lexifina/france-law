@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890404245
+
+- Question : [SEQ890404245](seq890404245.md) — Coordination de l'action audiovisuelle extérieure
+
+## Réponse
+
+*Francophonie, JO du 1989-05-18, page 769*
+
+Réponse. - Dans la lettre adressée au ministre délégué chargé de la francophonie, le Premier ministre précise que rien d'ambitieux ni de durable ne se construira dans le domaine de l'action télévisuelle extérieure sans une unité de conception, de coordination et de décision au sein des structures gouvernementales, qu'il a donc décidé en accord avec les ministres concernés de confier cette tâche à M. Alain Decaux. Ainsi, les craintes qu'a l'honorable parlementaire d'un conflit de compétence avec les départements ministériels concernés ne sont pas fondées. Pour concevoir cette nouvelle tâche, le ministre se référera plus précisément aux questions posées dans la lettre de mission : comment assurer la meilleure utilisation possible des fonds publics actuellement consacrés à l'action télévisuelle extérieure et dégager des critères fiables d'évaluation de celle-ci ? Quelle articulation établir, dans ce domaine, entre les actions menées par la France et celles qui sont engagées par les pays francophones ensemble ? Comment favoriser la cohérence entre les projets des diffuseurs publics et privés ? Il se référera également à la phrase suivante : " M'adressant tout particulièrement à l'ancien président de la société des auteurs et compositeurs dramatiques que vous êtes, je crois utile que vous engagiez parallèlement, avec l'ensemble des partenaires concernés, une consultation sur la manière de résoudre les problèmes posés à la diffusion télévisuelle extérieure par le système français de rémunération des ayants droit ". Dans l'exercice de sa tâche, il fera appel à la direction de la communication du ministère des affaires étrangères ainsi qu'aux services compétents du ministère de la coopération.
