@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001028527
+
+- Question : [SEQ001028527](seq001028527.md) — Maintien de deux secteurs d'hospitalisation
+
+## Réponse
+
+*Emploi, JO du 2001-03-08, page 840*
+
+Réponse. - Les établissements privés sous OQN occupent une place importante au sein du dispositif hospitalier français. Cette importance s'évalue bien sûr en termes de capacité et d'activité : 28 % des lits aigus, 38 % des entrées, mais aussi un tiers des accouchements ou 45 % des affections cancéreuses. Elle s'évalue également au regard des missions qui leur sont confiées par les agences régionales de l'hospitalisation en application des SROS : de nombreuses cliniques se voient attribuer la fonction d'unité de proximité d'accueil des urgences ou le rôle d'établissements pivots de l'offre de soins dans certaines disciplines pour certaines zones géographiques. Conséquence de la complémentarité recherchée entre les secteurs public et privé, les cliniques voient ainsi leur rôle reconnu non plus à titre subsidiaire mais comme offreurs de soins de même niveau d'activité et de responsabilité. Les efforts de modernisation réalisés par les établissements, notamment à l'occasion d'opération de regroupement encouragées par les agences régionales de l'hospitalisation, permettent d'offrir aux patients des soins d'un haut niveau de technicité dans de bonnes conditions de sécurité et de qualité. Compte tenu de ces éléments, il est normal que les Français, conscients de ces évolutions, fassent confiance aux établissements privés au même titre qu'aux établissements publics ou privés participant au service public hospitalier. La politique du Gouvernement vise à accompagner la modernisation du secteur hospitalier public et privé dans une logique de complémentarité équilibrée qui évite les redondances inutiles tout en préservant la liberté de choix des patients. Cette dernière constitue en effet une liberté à laquelle les Français sont légitimement attachés.
