@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870304851
+
+- Question : [SEQ870304851](seq870304851.md) — Reconduction de l'opération <<Vacances 1986>>
+
+## Réponse
+
+*Économie, JO du 1987-05-28, page 849*
+
+Réponse. -Il a été décidé d'organiser une opération interministérielle " Vacances 1987 " afin de renforcer la protection des consommateurs pendant l'été. L'ensemble des administrations qui concourent à la réalisation de cette protection coordonneront leurs actions. Le groupe interministériel de la consommation qui les rassemble a déjà été réuni pour préparer l'opération. La direction générale de la concurrence, de la consommation et de la répression des fraudes, en ce qui la concerne, va, au cours de la période estivale, engager un certain nombre d'actions visant à assurer un contrôle vigilant de la qualité et de la sécurité des produits et des services. L'information sur les prix sera également particulièrement développée. Une opération Infoprix permettra aux consommateurs de connaître chaque semaine dans les principaux sites touristiques les meilleurs prix d'une vingtaine de produits et services de grande consommation. Ces renseignements paraîtront dans des communiqués Infoprix diffusés aux journaux locaux et à la télévision. Ils seront également disponibles en appelant les permanences téléphoniques des directions départementales de la concurrence, de la consommation et de la répression des fraudes. L'application des règles du marquage et de l'affichage des prix sera strictement surveillée. En matière de publicité, de sécurité, de qualité et d'hygiène, les services réaliseront des vérifications à la fois préventives et dissuasives destinées à rappeler aux professionnels leurs obligations à l'égard des usagers et à les inciter à les respecter. La finalité de cette opération est bien entendu d'offrir aux consommateurs et aux touristes français et étrangers les meilleures conditions pour bénéficier d'un séjour réussi en France.
