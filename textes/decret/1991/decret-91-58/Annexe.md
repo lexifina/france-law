@@ -1,6 +1,6 @@
 # Article Annexe
 
-(Classement prenant effet du 1er juillet 1992)
+(Classement prenant effet du 1er avril 1998)
 
 GRADES OU EMPLOIS
 
@@ -170,11 +170,11 @@ Contrôleur
 
 |
 
-Agent d'exploitation du service général
+Agent d'exploitation
 
 |
 
-274-474
+279-474
 
 |
 
@@ -184,7 +184,7 @@ Assistant administratif
 
 |
 
-249-449
+267-449
 
 |
 
@@ -250,7 +250,7 @@ Contremaître
 
 |
 
-249-449
+267-449
 
 |
 
@@ -260,7 +260,7 @@ Ouvrier d'état
 
 |
 
-232-365
+252-365
 
 |
 
@@ -326,7 +326,7 @@ Dessinateur
 
 |
 
-249-449
+267-449
 
 |
 
@@ -344,7 +344,7 @@ Chef surveillant
 
 |
 
-232-365
+252-365
 
 |
 
@@ -354,7 +354,7 @@ Agent de service
 
 |
 
-232-365
+252-365
 
 |
 
@@ -364,7 +364,7 @@ Agent des services techniques de 2e classe
 
 |
 
-232-365
+252-365
 
 |
 
@@ -402,7 +402,7 @@ Mécanicien dépanneur
 
 |
 
-249-449
+267-449
 
 |
 
@@ -702,7 +702,7 @@ Agent d'exploitation
 
 |
 
-249-449
+267-449
 
 |
 
@@ -712,7 +712,7 @@ Préposé
 
 |
 
-249-449
+267-449
 
 |
 
@@ -790,7 +790,7 @@ C - Conducteur d'automobiles de 1re catégorie
 
 |
 
-249-449
+267-449
 
 |
 
@@ -850,7 +850,7 @@ Agent d'exploitation
 
 |
 
-249-449
+267-449
 
 |
 
