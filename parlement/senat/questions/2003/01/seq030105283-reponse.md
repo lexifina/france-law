@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030105283
+
+- Question : [SEQ030105283](seq030105283.md) — Information des collectivités locales sur les conditions de réalisation des marchés publics antérieurement conclus par les entreprises candidates
+
+## Réponse
+
+*Économie, JO du 2003-05-01, page 1480*
+
+La réglementation des marchés publics permet aux acheteurs publics d'avoir des informations sur les précédents marchés passés par une entreprise candidate, et, par conséquent, le cas échéant, sur les conditions dans lesquelles ceux-ci ont été exécutés. En effet, l'arrêté du 28 août 2001 pris en application de l'article 45, alinéa premier, du code des marchés publics et fixant la liste des renseignements et/ou documents pouvant être demandés aux candidats prévoit notamment, qu'à l'appui des candidatures et dans la mesure où ils sont nécessaires à l'appréciation des capacités des candidats, l'acheteur public peut leur demander la présentation d'une liste des principales fournitures ou des principaux services fournis au cours des trois dernières années ou la présentation d'une liste des travaux en cours d'exécution ou exécutés au cours des cinq dernières années, indiquant notamment le montant, la date et le destinataire public ou privé. Par ailleurs, l'acheteur public a la possibilité d'écarter un candidat en raison de son comportement dans ses rapports avec l'administration et des malfaçons constatées lors de travaux qu'il a exécutés antérieurement (Conseil d'Etat, 19 janvier 1966, centre hospitalier régional de Caen c/ Sieur Avondo). Ces dispositions permettent à l'acheteur public d'obtenir toutes les informations utiles sur la compétence professionnelle et les conditions dans lesquelles les prestations précédentes ont été exécutées par le candidat à un marché. Le Gouvernement n'envisage donc pas d'édicter à ce sujet d'autres règles de portée générale.
