@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010332149
+
+- Question : [SEQ010332149](seq010332149.md) — Transport maritime : colloque européen sur le statut du marin
+
+## Réponse
+
+*Équipement, JO du 2001-07-26, page 2471*
+
+Le renforcement et l'harmonisation de normes sociales minimales applicables à bord des navires de tous pavillons répondent à trois grands enjeux. Il s'agit d'un enjeu social : améliorer la protection des salariés, d'un enjeu de sécurité ; améliorer la qualité des équipages et donc la sécurité en mer et d'un enjeu économique ; permettre l'exercice de la concurrence sur des bases loyales en luttant contre le dumping social. Le ministre de l'équipement, des transports et du logement souhaite que soit développé, au niveau européen, un corpus de règles sociales à partir du socle de base que constituent les conventions OIT les plus récentes en cours de ratification (OIT 163, 166, 178, 179, 180 et protocole à la convention 147). Ceci permettrait d'envisager des normes communes au sein de l'Europe et d'accélérer l'évolution du droit international. Il ne peut que se féliciter des décisions prises lors de la 29e session de la conférence paritaire maritime de l'Organisation internationale du travail (OIT), prenant en compte l'élément humain et le respect des normes sociales minimales dans le secteur maritime comme dimension essentielle de la sécurité. Une nouvelle démarche voit le jour au sein de l'OIT visant à élaborer un instrument unique de normes sociales intégrées dans le domaine maritime. Elle ne peut que créer une dynamique nouvelle en vue de l'amélioration des conditions de travail des marins dans le monde. La France participera donc activement à ces travaux. Elle s'est d'ores et déjà proposée d'accueillir, avant la fin de l'année 2001, une rencontre de mobilisation des gouvernements en vue de promouvoir cette nouvelle démarche. La question du statut des marins ne manquera pas d'être abordée dans ce cadre.
