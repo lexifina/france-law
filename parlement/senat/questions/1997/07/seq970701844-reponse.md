@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701844
+
+- Question : [SEQ970701844](seq970701844.md) — Reclassement des fonctionnaires territoriaux
+
+## Réponse
+
+*Fonction publique, JO du 1998-02-19, page 590*
+
+Réponse. - Un détachement peut être refusé à tout agent de l'autorité territoriale. La décision de refus doit toutefois être motivée, comme toute décision de ce type, et peut faire l'objet d'une saisine de la juridiction administrative. Dans le cas où le détachement dans un corps de la fonction publique de l'Etat aurait été effectué, l'intégration dans ce corps peut ne pas être acceptée par l'autorité d'accueil. La demande présentée par le fonctionnaire n'emporte en effet pas de droit à cette intégration. Il doit être précisé que les statuts particuliers des cadres d'emplois de la fonction publique territoriale ne font pas non plus obligation aux autorités territoriales d'accepter une demande d'intégration après détachement mais prévoient seulement la possibilité, pour le fonctionnaire détaché depuis deux ans dans le cadre d'emplois, de présenter une demande en ce sens. Enfin, il convient de souligner que la période de surnombre préalable à la prise en charge par le centre national de la fonction publique territoriale ou par les centres de gestion, à la suite d'une décharge de fonctions ou de la suppression d'emplois, et prévue à l'article 97 de la loi no 84-53 du 26 janvier 1984 tel que modifié par l'article 39 de la loi no 94-1134 du 27 décembre 1994, a été instituée par le législateur afin de responsabiliser davantage les acteurs concernés et de faciliter le reclassement des agents. Il est dans l'esprit de ce texte de mettre à profit cette période de manière à permettre à l'agent de disposer d'une position ou d'un emploi correspondant à son grade. Aussi, le détachement peut-être proposé dans ce cadre, même si, au terme de celui-ci, l'agent n'est pas intégré dans le corps d'accueil.
