@@ -1,0 +1,11 @@
+# Réponse à la question SEQ920521281
+
+- Question : [SEQ920521281](seq920521281.md) — Amélioration de l'accueil des usagers dans les services d'urgence des hôpitaux
+
+## Réponse
+
+*Fonction publique, JO du 1992-09-17, page 2133*
+
+Réponse. - Faire connaître aux usagers des services publics leurs droits, mieux les accueillir, promouvoir la concertation et associer les usagers à la définition et à la mise en oeuvre des politiques, simplifier les textes et les procédures, telle est l'ambition de la charte des services publics. Les actions engagées et les nouvelles décisions sont regroupées en sept rubriques : santé, protection sociale et solidarité ; éducation, emploi, travail et formation professionnelle ; justice, sécurité et défense ; vie quotidienne ; transports et communication ; relations avec les entreprises ; services publics de proximité. La charte des services publics est un instrument de modernisation et d'amélioration des services rendus. Elle fera chaque année l'objet d'une actualisation et d'un rapport au Premier ministre, transmis au Parlement accompagné de l'avis du Conseil d'Etat et du Conseil économique et social. Ce rapport évaluera les résultats des actions mises en oeuvre et proposera les mesures d'amélioration nécessaires. En ce qui concerne l'amélioration de l'accueil des usagers dans les services d'urgence des établissements hospitaliers, le code de la santé publique dans sa version issue de la loi du 31 juillet 1991 et des textes d'application donne désormais une base légale et réglementaire à la réorganisation territoriale et fonctionnelle de ces services d'accueil. La loi ne fait plus de cette activité une obligation systématique pour tous les établissements hospitaliers publics, ce qui permettra de ne confier cette fonction qu'à ceux qui seront en mesure d'assurer la prise en charge à un niveau de qualité satisfaisant. La répartition sur le territoire et la constitution en réseaux de ces établissements seront déterminées par les schémas régionaux d'organisation sanitaire prévus par la loi, l'activité de soins dite " accueil et traitement des urgences " étant réglementairement un élément obligatoire de ces schémas. Enfin tous les
+
+établissements ainsi concernés exerceront en vertu d'une autorisation de durée limitée qui ne sera reconduite qu'au vu des résultats positifs de l'évaluation de leur activité.
