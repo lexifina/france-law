@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971204794
+
+- Question : [SEQ971204794](seq971204794.md) — Délinquance juvénile à la Réunion
+
+## Réponse
+
+*Intérieur, JO du 1998-02-26, page 674*
+
+Réponse. - La sécurité des personnes et des biens constitue une priorité du Gouvernement qui reste préoccupé par la situation de la délinquance dans le département de la Réunion. Par décret du 22 janvier 1996, a été créée une sûreté départementale composée actuellement de vingt-huit fonctionnaires dont la mission prioritaire est de lutter contre la délinquance de voie publique, les violences urbaines et le trafic de local de stupéfiants. La Réunion comptait, au 1er décembre 1997, 564 fonctionnaires de police. Le ratio du nombre de policiers par rapport à la population permet de constater que ce département est particulièrement bien doté (les départements à population sensiblement identique ont des effectifs inférieurs d'environ 200 policiers). Ainsi, le taux d'encadrement police/population s'établit à 1,34 policier pour 1 000 habitants. Le taux de criminalité constaté pour le département de la Réunion (32,1 pour 1 000 habitants, contre 70,86 à 110,84 pour les autres circonscriptions de police de population équivalente à ce département) est sensiblement inférieur à la moyenne nationale, ainsi d'ailleurs que le nombre de faits délictueux enregistrés par policier (24 contre 34 à 46 pour les autres circonscriptions de population équivalente). Enfin, la sécurité publique a décidé d'intervenir préventivement en amont de la commission d'infractions en affectant, en 1998, trente adjoints de sécurité qui seront chargés plus particulièrement des zones sensibles de l'île. L'effort entrepris ces dernières années par les services de police est ainsi poursuivi, afin d'assurer la sécurité des habitants de la Réunion.
