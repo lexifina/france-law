@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010130669
+
+- Question : [SEQ010130669](seq010130669.md) — Taxe professionnelle de zone dans le cas d'un groupement de communes
+
+## Réponse
+
+*Économie, JO du 2001-05-03, page 1516*
+
+Réponse. - Lorsqu'il est fait application du régime fiscal de la taxe professionnelle de zone prévue au II de l'article 1609 quinquies C du code général des impôts, l'établissement public de coopération intercommunale (EPCI) est substitué aux communes pour la perception de la taxe professionnelle acquittée par les entreprises implantées dans la zone d'activités économiques située sur le territoire d'une ou plusieurs communes membres. L'article 93 de la loi de finances pour 1994 (nº 93-1352 du 30 décembre 1993) codifié à l'article 1638 quater du code général des impôts prévoit les modalités de fixation des taux d'imposition pour les nouvelles communes qui sont rattachées en tout ou partie à une zone d'activités économiques où il est fait application du régime fiscal de la taxe professionnelle de zone. Dans ce cas, le taux de taxe professionnelle voté par la commune, l'année précédant celle au titre de laquelle elle est rattachée fiscalement à l'EPCI, est rapproché du taux de taxe professionnelle voté, la même année, par l'EPCI pour la zone d'activités économiques selon une durée fixée par la loi. Cette durée, égale en principe à dix ans, peut toutefois être diminuée ou augmentée sans pouvoir excéder douze ans. Ce dispositif a donc pour objet de faire converger le taux de taxe professionnelle de la nouvelle commune sur le territoire de laquelle la zone est étendue et le taux de la taxe professionnelle de zone de l'EPCI. Ces règles assurent ainsi une stabilité fiscale pour les contribuables situés sur le territoire des communes déjà membres de l'EPCI. Il n'est donc pas envisagé de les modifier.
