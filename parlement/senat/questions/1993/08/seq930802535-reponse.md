@@ -1,0 +1,11 @@
+# Réponse à la question SEQ930802535
+
+- Question : [SEQ930802535](seq930802535.md) — Difficultés des métiers d'art
+
+## Réponse
+
+*Entreprises, JO du 1994-04-14, page 889*
+
+Réponse. - Le ministère des entreprises et du développement économique mesure l'ampleur des difficultés que rencontrent ces professions. C'est pour cela qu'il a chargé la société d'encouragement aux métiers d'art (SEMA) de consacrer aux professions de la dentelle et de la broderie un numéro spécial de la revue Métiers d'art. Par ailleurs, dans le cadre de sa politique " métiers d'art ", le ministère réserve à ce secteur une place particulière. C'est ainsi, notamment, que des ateliers de sensibilisation à la dentelle et à la broderie ont été financés dans le cadre des programmes villes. Plus généralement, la loi no 94-126 du 11 février 1994 relative à l'initiative et à l'entreprise individuelle permet d'améliorer leur environnement juridique, fiscal et social. En ce qui concerne les charges sociales, le montant de ces diverses cotisations sera calculé à compter du 1er janvier 1995 d'abord à titre prévisionnel et en fonction du revenu effectif de l'année précédente fi
+
+xé par l'administration fiscale selon les déclarations de l'assuré, puis régularisé l'année suivante. Le décalage de date entre le revenu réel et la perception des cotisations sera ainsi réduit au minimum afin de suivre le cycle économique. En cas de difficultés financières, l'assuré doit prendre contact au plus tôt avec les organismes de recouvrement pour convenir d'un échelonnement des paiements et éviter l'application de majorations de retard. Il peut bénéficier, après examen, d'une remise totale ou partielle de ces dernières, une fois acquitté le principal des cotisations. La demande de remise, dont la bonne foi doit être appréciée, est formée auprès des commissions de recours des différents organismes créanciers auprès desquels l'intéressé est débiteur. Par ailleurs, des dispositions du code de la sécurité sociale indiquent que l'assuré peut demander aux caisses dont il relève que sa cotisation soit calculée sur une assiette inférieure, s'il prévoit que ses revenus professionnels seront moins élevés que les autres années. Néanmoins, le montant de ces cotisations est régularisé lorsque le revenu professionnel est établi à titre définitif par l'administration fiscale.
