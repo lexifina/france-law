@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040913748
+
+- Question : [SEQ040913748](seq040913748.md) — Qualité nutritionnelle des repas servis dans les cantines scolaires
+
+## Réponse
+
+*Éducation, JO du 2004-12-02, page 2753*
+
+La circulaire interministérielle n° 2001-118 du 25 juin 2001 (publiée au BOEN spécial n° 9 du 28 juin 2001) relative à la composition des repas servis en restauration scolaire, à l'éducation nutritionnelle et à la sécurité des aliments, à l'élaboration de laquelle le ministère de l'éducation nationale a participé, recommande aux responsables de la restauration collective de veiller à la qualité et à l'équilibre nutritionnels des menus proposés aux élèves et à leur sécurité alimentaire. Elle incite aussi les responsables de cette restauration à promouvoir, par des combinaisons alimentaires variées et des produits de bonne qualité, au développement de l'éducation nutritionnelle et du goût des élèves. Afin d'évaluer la mise en oeuvre de cette circulaire, le ministère de l'éducation nationale a décidé de mener, en lien avec le ministère de la santé, au cours de l'année 2005, une enquête sur l'application du texte dans les établissements scolaires. Afin de définir les modalités de cette enquête, un comité de pilotage composé de représentants du ministère de l'éducation nationale, de l'Agence française de sécurité sanitaire des aliments (AFSSA), de la direction générale de la santé (ministère de la santé) et de la direction générale de l'alimentation (ministère de l'agriculture) a été constitué et se réunira dans la première quinzaine de novembre. C'est à l'issue de cette enquête que le ministère de l'éducation nationale, avec ses partenaires institutionnels fera connaître les mesures éventuelles qu'il compte mettre en oeuvre pour éventuellement clarifier et renforcer le statut de cette restauration.
