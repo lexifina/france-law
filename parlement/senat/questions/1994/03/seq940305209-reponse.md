@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940305209
+
+- Question : [SEQ940305209](seq940305209.md) — Mesures pour abaisser le coût du gaz et de l'électricité
+
+## Réponse
+
+*Industrie, JO du 1994-06-23, page 1564*
+
+Réponse. - Le Gouvernement est conscient des difficultés auxquelles peuvent se trouver confrontés certains usagers pour s'acquitter du règlement de leurs quittances de consommation d'énergie. Des mesures ont été adoptées en faveur des plus démunis. Elles témoignent de la volonté des pouvoirs publics de rechercher des solutions alternatives à l'interruption de fourniture provoquées par des difficultés de paiement. Des conventions ont été conclues dans le cadre du plan " pauvreté-précarité ", avec pour objectif d'apporter une aide financière aux intéressés. Le dispositif, initialement conçu pour ne fonctionner que les mois d'hiver, a été étendu sur l'ensemble de l'année. La loi du 31 décembre 1989, relative au surendettement des particuliers et des ménages, peut également aider à améliorer la situation des usagers se trouvant en difficulté, en leur donnant la possibilité d'obtenir, sur décision du juge d'instance, un échelonnement des sommes dues au titre de leur consommation d'énergie. Les agents chargés de la gestion des contrats d'abonnement dans les agences clientèle EDF-GDF Services ont été sensibilisés au fonctionnement de ce dispositif. Afin d'améliorer son efficacité, le rapprochement de ces agents avec les responsables locaux de l'action sociale a été encouragé. Sur le plan tarifaire, un aménagement des barèmes d'EDF a été adopté afin de favoriser l'accès de tous à l'électricité. C'est dans cet esprit qu'a été créé le tarif " petites fournitures ", à la suite d'échanges intervenus avec les associations de consommateurs. Le taux de la TVA sur le montant des abonnements a également été abaissé de 18,6 à 5,5 p. 100.
