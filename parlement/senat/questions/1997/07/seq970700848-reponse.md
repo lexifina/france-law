@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970700848
+
+- Question : [SEQ970700848](seq970700848.md) — Délais de paiement des administrations
+
+## Réponse
+
+*Fonction publique, JO du 1997-10-02, page 2642*
+
+Réponse. - Le délai de paiement des dépenses de l'Etat, mesuré entre la réception de la facture par le service ordonnateur et l'émission par le comptable du virement à la Banque de France, qui a été sensiblement réduit dans les dix dernières années grâce à la rationalisation des opérations de paiement et au renforcement des relations entre ordonnateurs et comptables, est inférieur à celui observé pour les paiements entre entreprises. Il importe cependant de prévenir ou d'éviter des retards ponctuels dénoncés à juste titre par les créanciers concernés. C'est pourquoi, en application de la loi du 8 août 1994 et du décret du 7 septembre 1994, l'article 178 du code des marchés publics prévoit que l'ordonnateur est tenu de procéder à un mandatement auprès du comptable public dans un délai maximal de 35 jours, le ministre chargé de l'économie et des finances pouvant, par arrêté, fixer un délai plus long, n'excédant pas 3 mois, pour le paiement du solde de certaines catégories de marchés. D'autre part, la circulaire du Premier ministre du 6 novembre 1996 relative au paiement rapide des sommes dues par l'Etat, élaborée dans le cadre de la réforme de l'Etat, organise un dispositif dans lequel le ministre concerné (pour les dépenses des ministères) ou le préfet (pour les dépenses civiles déconcentrées) saisi par une entreprise dont la demande de paiement n'aurait pas été satisfaite dans les 45 jours doit, dans un délai de 15 jours, si la créance n'est pas contestée, organiser son paiement en urgence, après avoir si nécessaire demandé au ministre du budget et au ministre concerné de mettre en oeuvre les mouvements de crédits requis.
