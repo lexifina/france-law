@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980609383
+
+- Question : [SEQ980609383](seq980609383.md) — Création d'une compagnie départementale d'intervention à Cayenne
+
+## Réponse
+
+*Outre-mer, JO du 1998-07-30, page 2493*
+
+Réponse. - Le rapport Merle " Guyane 1997 : état des lieux et propositions ", remis au secrétaire d'Etat à l'outre-mer en octobre 1997 propose, parmi les moyens liés à l'ordre public à mettre en uvre, la création d'une compagnie départementale d'intervention à Cayenne. Si les données statistiques des dernières années semblent indiquer une maîtrise de la criminalité on note en revanche une progression des faits particulièrement violents à Cayenne. Pour y assurer la sûreté des personnes et des biens, l'Etat a adapté son dispositif de sécurité. Les effectifs de police qui demeuraient chroniquement sous-dimensionnés ont augmenté de près de 26 % au cours des trois dernières années. C'est ainsi qu'en amorce de la création d'une section d'intervention, un premier échelon organique de douze fonctionnaires du corps de maîtrise et d'application a été mis en place en 1997 au sein de la direction départementale de la sécurité publique. Cet effort sera poursuivi avec l'affectation au prochain mouvement général de mutation de vingt et un gardiens supplémentaires. Cette unité ainsi constituée permettra une grande rapidité d'intervention sur la circonscription de Cayenne qui concerne la presque totalité des potentialités de développement de violences urbaines et repoussera le seuil d'intervention de gendarmes mobiles. En dehors de ces actions de maintien de l'ordre elle sera chargée d'opérations de sécurisation des quartiers urbains les plus difficiles. Avec ces renforts, le ratio police-population à Cayenne (50 000 habitants) est de un policier pour 273 habitants contre un pour 436 en moyenne dans les circonscriptions métropolitaines.
