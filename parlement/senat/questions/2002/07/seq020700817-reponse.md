@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700817
+
+- Question : [SEQ020700817](seq020700817.md) — Diplômes de médecine de l'université Saint-Joseph de Beyrouth
+
+## Réponse
+
+*Jeunesse, JO du 2003-03-13, page 886*
+
+Le décret n° 84-177 du 2 mars 1984 précise les conditions de l'accès, pour les personnes titulaires d'un diplôme étranger de médecine permettant l'exercice de la profession dans leur pays, au diplôme français d'Etat de docteur en médecine. Ces personnes peuvent bénéficier de certaines dispenses d'études, avec l'accord de l'université française d'accueil. Ces étudiants s'inscrivent en première année dans les conditions prévues par la réglementation pour l'inscription dans cette année d'études. Ils peuvent être dispensés de la scolarité de la première année. S'ils figurent en rang utile sur la liste de classement établie à l'issue de la première année, ils peuvent obtenir la dispense de la scolarité des années suivantes jusqu'à la cinquième comprise. Ils doivent alors subir un examen de vérification des connaissances correspondant aux années d'études sur lesquelles porte la dispense de scolarité. L'université Saint-Joseph de Beyrouth a pu délivrer des diplômes français d'Etat de docteur en médecine et de pharmacie jusqu'en 1976, date à laquelle elle est devenue un établissement privé de droit libanais. Le ministre français des universités, par circulaire n° 79-01015 du 10 mai 1979, a autorisé les UER médicales et pharmaceutiques à accueillir les étudiants libanais dans l'année d'études correspondant à celle où ils étaient inscrits à l'université Saint-Joseph, ces mesures s'appliquant exclusivement aux étudiants de l'université Saint-Joseph ayant commencé leurs études avant l'année universitaire 1976-1977. Hors des conditions énoncées par cette circulaire, les titulaires d'un diplôme de l'université Saint-Joseph sont soumis aux conditions décrites par le décret de 1984.
