@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960817321
+
+- Question : [SEQ960817321](seq960817321.md) — Revalorisation de la retraite mutualiste du combattant
+
+## Réponse
+
+*Anciens combattants, JO du 1996-10-10, page 2629*
+
+Réponse. - Les crédits de l'Etat pour financer le paiement de la retraite mutualiste sont, depuis la loi de finances pour 1996, inscrits au budget du ministère des anciens combattants et victimes de guerre (chap. 47-22). La revalorisation du plafond majorable relève donc désormais de la compétence première de ce département ministériel. Pour 1996, afin de porter le plafond à 7 000 F, le ministère avait dégagé 2 MF et la réserve parlementaire - qui seule intervenait auparavant - 2 MF également. Le ministre délégué aux anciens combattants et victimes de guerre avait assorti ce transfert, puisqu'il s'agissait auparavant du ministère des affaires sociales, du vote du principe d'une indexation. Pour garantir le pouvoir d'achat de cette rente, la loi de finances pour 1996 a donc prévu que le plafond majorable sera dorénavant indexé sur l'indice des prix hors tabac. L'amendement voté ne fait pas état d'autres données, notamment de rattrapage. Il était difficile de retenir l'indice des pensions militaires d'invalidité, d'une part parce qu'il n'y a aucun lien entre la retraite mutualiste et les pensions d'invalidité, d'autre part et surtout parce que précisément la formule du rapport constant fait l'objet, à la demande des associations, d'une étude par une commission pour être éventuellement révisée. On ne sait donc pas sur ce point quel sera l'indice retenu puisque la commission a organisé ses travaux pour remettre ses conclusions à la fin de l'année. Pour 1997, l'indice figurant dans la loi et qui assure aux mutualistes la garantie qu'ils souhaitaient sera pris en compte : les crédits du ministère seront inscrits dans le projet de loi de finances pour y faire face mais n'iront pas au-delà dans le contexte budgétaire actuel.
