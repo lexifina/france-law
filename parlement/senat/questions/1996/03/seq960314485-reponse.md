@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960314485
+
+- Question : [SEQ960314485](seq960314485.md) — Entreprises victimes de la contrefaçon
+
+## Réponse
+
+*Industrie, JO du 1996-05-09, page 1142*
+
+Réponse. - Le ministère de l'industrie a engagé une action très ferme pour lutter contre le développement des contrefaçons, avec notamment l'adoption de la loi du 5 juillet 1994 et du règlement européen du 22 décembre 1994. Ce règlement s'applique en Europe depuis le 1er juillet 1995 ; il présente des progrès réels par rapport au règlement de 1986 avec : un élargissement du champ des droits protégés en incluant non seulement les marques, mais aussi les droits d'auteur, les dessins et modèles déposés ou non ; une extension du champ d'application à tous les régimes douaniers : import, export, régimes suspensifs et réexportation ; un renforcement du pouvoir des autorités douanières aux frontières extérieures avec la désignation de l'autorité douanière comme la seule autorité compétente pour recevoir et traiter une demande d'intervention d'un titulaire du droit ; une procédure accélérée : la réponse des douanes à une demande d'intervention doit se faire " sans délai " ; la retenue en douane sur demande d'intervention du titulaire du droit est effectuée pendant une durée de dix jours, renouvelable une fois, à partir de la date de notification ; une possibilité d'action des douanes est prévue même si une demande d'intervention n'a pas été faite ; dans ce cas, le délai de la retenue est de trois jours. Concernant la protection de la propriété industrielle, la loi du 5 février 1994 constitue quant à elle une avancée considérable en matière de protection de la propriété intellectuelle, car elle instaure un système de dépôt simplifié des dessins et modèles. Cette procédure incite les créateurs à protéger leurs droits : elle permet aux industriels de protéger une collection pour une durée de trois ans et une somme forfaitaire de 250 francs.
