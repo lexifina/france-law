@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880109243
+
+- Question : [SEQ880109243](seq880109243.md) — Décoration des autoroutes
+
+## Réponse
+
+*Équipement, JO du 1988-04-07, page 468*
+
+Réponse. -Depuis une quinzaine d'années, les sociétés concessionnaires d'autoroutes, encouragées par leur ministère de tutelle, pratiquent une politique d'embellissement du réseau autoroutier, dont le cadre réglementaire est constitué par l'arrêté du 18 juin 1980 et sa circulaire d'application du 7 mai 1982. Ces textes prévoient que, dans le cas des programmes de construction d'autoroutes, la part des crédits réservés aux travaux de décoration doit s'élever à 1 p. 1000 du montant des dotations budgétaires. Les présidents des sociétés concessionnaires ont été invités, par une instruction du directeur des routes du 26 juillet 1982, à asseoir cette part de 1 p. 1000 sur le montant total de leurs investissements, et non sur la seule fraction de ces derniers couverte par les crédits d'Etat. Avec le développement du réseau autoroutier, une trentaine d'oeuvres d'art ont été implantées, à ce jour, le long des autoroutes. Ces oeuvres étant réalisées à la libre initiative des sociétés concessionnaires d'autoroutes et sous la responsabilité de leur conseil d'administration, il est difficile de savoir, dès à présent, avec certitude quels projets se concrétiseront avant la fin de 1988. Il convient par ailleurs de noter que la volonté de construite de belles autoroutes ne se limite pas à l'implantation d'oeuvres d'art au bord de ces voies. Elle se traduit également par le choix des tracés, déterminé avec le souci d'intégrer l'autoroute le plus harmonieusement possible, dans l'environnement, par l'attention apportée au traitement des abords, à la technique des ouvrages d'art, à l'aménagement des aires de repos et de service, et enfin, par le soin mis à concevoir les bâtiments d'exploitation en harmonie avec les régions traversées.
