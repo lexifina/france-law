@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980105513
+
+- Question : [SEQ980105513](seq980105513.md) — Relogement dans le secteur social institutionnel de tout occupant sans droit ni titre à demeurer dans le logement d'un propriétaire privé
+
+## Réponse
+
+*Logement, JO du 1998-04-09, page 1166*
+
+Réponse. - Le v u émis lors du 87e congrès de l'Union nationale de la propriété immobilière pour que " l'Etat, émanation de la collectivité nationale, assume pleinement l'obligation de relogement dans le secteur social institutionnel de tout occupant sans droit ni titre à demeurer dans le logement d'un propriétaire privé " appelle les observations suivantes. Le droit au logement, instauré dans la loi du 31 mai 1990 visant à la mise en uvre du droit au logement constitue un devoir de solidarité pour l'ensemble de la nation. Il en résulte que toute personne ayant des difficultés particulières pour se loger a droit à une aide de la collectivité. Le projet de la loi d'orientation relative à la prévention et à la lutte contre les exclusions actuellement en préparation prévoit la mise au point d'un dispositif permettant d'améliorer la mise en uvre de ce principe tout en préservant les droits des propriétaires. La situation des personnes ayant des difficultés particulières pour se loger sera traitée le plus rapidement possible, dès les premiers impayés de loyer, afin de mobiliser toutes les aides financières existantes si le problème de solvabilité est transitoire, ou de rechercher une solution de relogement en cas d'insolvabilité plus durable. Cette réforme devrait très sensiblement faire diminuer le nombre de résiliations de bail et éviter les expulsions pour les personnes de bonne foi. Ainsi, un relogement pour ces dernières devra être systématiquement recherché dans le cadre des plans départementaux d'action pour le logement des personnes défavorisées et une offre d'hébergement devra être associée à l'octroi du concours de la force publique.
