@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860702301
+
+- Question : [SEQ860702301](seq860702301.md) — Nuisances dues aux ULM (ultra légers motorisés)
+
+## Réponse
+
+*Environnement, JO du 1986-09-25, page 1353*
+
+Réponse. -Les aéronefs ultralégers motorisés sont réglementés par trois arrêtés du 17 juin 1986 : l'arrêté relatif à l'autorisation de vol des aéronefs U.L.M. fixe les obligations auxquelles sont soumis ces aéronefs, à savoir notamment l'identification de l'appareil et la possession par l'utilisateur d'une carte d'identification valable pour deux ans et délivrée par le commissaire de la République ; l'arrêté relatif à l'utilisation des aéronefs en fixe certaines règles concernant les obligations de l'équipage et les documents de bord ; l'arrêté relatif au bruit émis par ces appareils fixe à 65 dB (A) le niveau sonore maximal que peut produire tout U.L.M. en dehors des manoeuvres liées à l'atterrissage et au décollage et des vols rasants autorisés. L'annexe de ces arrêtés décrit la procédure à suivre pour effectuer la mesure du bruit ; le niveau sonore mesuré conformément à cet arrêté doit figurer au dossier technique qui doit être déposé par le constructeur auprès de l'autorité administrative pour les U.L.M. de catégorie II et les U.L.M. de catégorie I construits en série. Ces trois arrêtés ont été publiés au Journal officiel du 31 juillet 1986. En outre, l'arrêté du 13 mars 1986 fixe les conditions dans lesquelles les aérodynes ultralégers motorisés, ou U.L.M., peuvent atterrir et décoller ailleurs que sur un aérodrome ; ainsi, les plates-formes destinées à être utilisées de façon permanente pour le décollage et l'atterrissage de ces appareils doivent être autorisées par l'autorité compétente. L'autorisation peut être refusée, notamment si l'usage de la plate-forme est susceptible d'engendrer des nuisances phoniques de nature à porter une atteinte grave à la tranquillité du voisinage.
