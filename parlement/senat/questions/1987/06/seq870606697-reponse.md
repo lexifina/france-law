@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870606697
+
+- Question : [SEQ870606697](seq870606697.md) — Instituts médico-éducatifs
+
+## Réponse
+
+*Affaires sociales, JO du 1987-10-15, page 1625*
+
+Réponse. -La coordination des décisions et des actions en matière d'intégration scolaire et professionnelle des jeunes placés dans des instituts médico-éducatifs, qui exige la coopération de deux ministères, ministère des affaires sociales et de l'emploi et ministère de l'éducation nationale, est constamment poursuivie. La prise en charge des dépenses correspondantes découle du dispositif mis en place par l'article 5 de la loi d'orientation du 30 juin 1975 en faveur des handicapés : soit les enfants et adolescents sont accueillis de préférence dans les classes ordinaires ; soit le ministère de l'éducation nationale met des instituteurs à la disposition des établissements ou services d'éducation spécialisée gérés par d'autres ministères ou par des organismes à but non lucratif ; soit ce ministère agrée les maîtres des établissements spécialisés qui ont passé un contrat (contrat simple). A cet égard, 34 247 maîtres dans les établissements d'éducation spécialisée- instituts médico-éducatifs - ont été agréés. Si l'on observe un léger fléchissement du nombre d'instituteurs publics mis à disposition cette année par rapport à l'année 1985-1986 - 8 856 au lieu de 9 147 -, cela tient à la baisse des effectifs des instituts médico-éducatifs. Ainsi il n'y a pas eu de suppression de postes d'instituteurs dans ces instituts. Tout au plus quelques classes d'éducation spécialisée annexées à une école ordinaire ont-elle été supprimées ; cette suppression est compensée par la création de nouvelles classes. En tout état de cause, les mises à disposition d'instituteurs publics s'effectuent conformément à des accords locaux entre inspecteurs d'académie et directeur départemental des affaires sanitaires et sociales.
