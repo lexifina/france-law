@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960314408
+
+- Question : [SEQ960314408](seq960314408.md) — Utilisation du téléphone en conduisant une voiture
+
+## Réponse
+
+*Équipement, JO du 1996-05-23, page 1270*
+
+Réponse. - Les dispositions de l'article R. 3-1 du code de la route selon lesquelles " tout conducteur de véhicule doit se tenir constamment en état et en position d'exécuter commodément et sans délai toutes les manoeuvres qui lui incombent " s'appliquent à l'usage du radiotéléphone par les automobilistes. Les infractions à ces dispositions sont sanctionnés par l'amende prévue pour les contraventions de la 2e classe. Des discussions sont engagées dans le sens souhaité par l'honorable parlementaire, pour préconiser l'installation dans les véhicules du téléphone " mains libres ". France Télécom a récemment, en liaison avec la direction de la circulation et de la sécurité routières, édité un dépliant d'information diffusé dans les points de vente de son réseau. Il convient également de signaler que des évolutions technologiques dans ce domaine sont rapides et importantes. En particulier, des systèmes de commande vocale pourront sans doute être utilisés dans des délais rapprochés. Enfin, des systèmes préinstallés sont étudiés par les réseaux et les constructeurs automobiles. Le Gouvernement est conscient que l'usage du téléphone à bord d'un véhicule peut avoir un impact pour la sécurité routière, mais il n'existe pas de statistiques permettant de mesurer le degré de ce risque. Il ne lui paraît pas souhaitable de prendre, actuellement, une réglementation restreignant l'usage du téléphone à bord d'un véhicule, car elle serait très rapidement caduque du fait des évolutions technologiques et difficillement contrôlable. Enfin, une attitude concertée entre les principaux pays concernés est nécessaire.
