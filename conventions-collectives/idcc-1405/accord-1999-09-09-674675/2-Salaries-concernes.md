@@ -1,4 +1,4 @@
-# Article 2 : Salariés concernés
+# Article 2
 
 2.1. Dans les conditions prévues par le calendrier d'application visé à l'article 5 du présent accord, sont soumis aux obligations de formation du présent titre :
 
@@ -18,7 +18,7 @@
 
 - FIMO acquise dans une autre branche ;
 
--* attestation de capacité de transport * (1);
+- attestation de capacité de transport (1) ;
 
 - et autres diplômes d'équivalence ;
 
@@ -32,16 +32,10 @@
 
 - aux salariés ayant exercé la fonction de chauffeur d'un véhicule de plus de 7,5 tonnes de PTAC, à titre principal ou dans le cadre d'une activité dans une entreprise assurant le transport de marchandises ou produits, pour compte propre ou pour compte d'autrui ou en tant que conducteur travailleur indépendant, pendant au moins 2 ans et reprenant, postérieurement au 1er janvier 2000, une activité identique sous réserve de ne pas l'avoir interrompue pendant une durée supérieure à deux ans ;
 
-- aux salariés sous contrat à durée indéterminée, exerçant ponctuellement la fonction de chauffeur (durée inférieure à 3 mois, soit 507 heures) ;
+- aux salariés sous contrat à durée indéterminée, exerçant ponctuellement la fonction de chauffeur (durée inférieure à 3 mois soit 455 heures) ;
 
-- aux nouveaux salariés recrutés sous contrat à durée indéterminée, exerçant à titre ponctuel la fonction de chauffeur (durée inférieure à 3 mois, soit 507 heures) ;
+- aux nouveaux salariés recrutés sous contrat à durée indéterminée, exerçant à titre ponctuel la fonction de chauffeur (durée inférieure à 3 mois soit 455 heures) ;
 
 - aux salariés sous contrat à durée déterminée exerçant la fonction de chauffeur et non titulaires de la FIMO.
 
-NOTA : (1) Mention exclue de l'extension par arrêté du 27 juillet 2000. NOTA : Arrêté du 27 juillet 2000 art. 1 : Les 4e et 5e points du paragraphe 2-3 de l'article 2 du titre Ier sont étendus sous réserve de l'application de l'article L. 212-1 du code du travail qui fixe la durée légale hebdomadaire du travail à trente-cinq heures.
-
-NOTA :
-
-NOTA : (1) Mention exclue de l'extension par arrêté du 27 juillet 2000.
-
-NOTA : Arrêté du 27 juillet 2000 art. 1 : Les 4e et 5e points du paragraphe 2-3 de l'article 2 du titre Ier sont étendus sous réserve de l'application de l'article L. 212-1 du code du travail qui fixe la durée légale hebdomadaire du travail à trente-cinq heures.
+(1) Termes exclus de l'extension (arrêté du 27 juillet 2000, art. 1er).
