@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980105515
+
+- Question : [SEQ980105515](seq980105515.md) — Absence de normes de sécurité pour les coques ou corsets-sièges des personnes handicapées
+
+## Réponse
+
+*Équipement, JO du 1998-03-19, page 910*
+
+Réponse. - Il est exact que les dispositifs qui permettent le transport, dans les véhicules routiers, des personnes handicapées utilisant une coque ou un corset-siège pour se déplacer ne font pas aujourd'hui l'objet de normes de sécurité en cas de choc. La définition des éléments techniques d'une homologation pour ces dispositifs se heurte aujourd'hui à de nombreuses difficultés, faute de données accidentologiques qui permettraient d'établir un essai de laboratoire représentatif des conditions réelles d'accidents. Les critères biomécaniques permettant de juger les résultats de l'essai font largement défaut. Ces élements ne peuvent résulter que d'analyses statistiques qui ne sont pas disponibles en raison de l'extrême rareté des accidents impliquant ces personnes handicapées. Malgré ces difficultés, l'Institut national de recherche sur les transports et leur sécurité (INRETS), en liaison avec tous les organismes compétents, procède à une étude permettant d'apporter des solutions à ce problème. Mais il est clair qu'une réglementation ne peut être édictée que sur des bases solides qui font aujourd'hui défaut, et la Commission européenne, qui a l'initiative des réglementations techniques communautaires, n'a pas formulé de proposition dans ce domaine. Pour l'instant, il a été jugé préférable de ne pas entraver les possibilités de déplacement des personnes souffrant d'un handicap en laissant aux parents ou aux accompagnateurs le libre choix des systèmes utilisés parmi ceux qui sont offerts dans le commerce, et en les incitant évidemment à un redoublement de prudence sur la route puisqu'ils transportent des personnes qui sont plus vulnérables en cas de choc.
