@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900911665
+
+- Question : [SEQ900911665](seq900911665.md) — Modalités de calcul de l'indice INSEE du coût de la construction
+
+## Réponse
+
+*Équipement, JO du 1990-12-27, page 2752*
+
+Réponse. - L'indice du coût de la construction, dont la méthodologie détaillée de calcul a fait l'objet d'une information récente du Conseil national de l'information statistique et d'une publication dans le bulletin de l'observation économique de Paris de l'I.N.S.E.E. (Bloc-notes, n° 4/1990), est un indice des prix de construction de travaux neufs. Le calcul trimestriel est effectué sur la base d'un échantillon représentatif des marchés signés moins de neuf mois avant le début du trimestre concerné. La structure de l'échantillon des marchés neufs, collectés auprès, des maîtres d'ouvrage par des enquêteurs agréés par le ministère de l'équipement, du logement, des transports et de la mer, reflète la conjoncture réelle de la construction de logements neufs en France par type (individuel ou collectif) et par région. Le réajustement des coûts des facteurs de production et des marges bénéficiaires, induit par un ralentissement de la production de logements neufs en France (4,9 p. 100 d'augmentation en volume en 1988 contre 3,5 p. 100 en 1989) engendre actuellement une faible progression de l'indice du coût de la construction différente de celle de l'indice des prix. Cette situation, qui s'est déjà produite à plusieurs reprises dans le passé, est inhérente à la nature même de l'indice. Par ailleurs, le ministre délégué, chargé du logement, rappelle qu'au cours des concertations menées lors de l'élaboration de la loi tendant à améliorer les rapports locatifs, l'ensemble des partenaires avait souhaité que l'I.C.C. continue à servir d'indice de référence pour la révision des loyers.
