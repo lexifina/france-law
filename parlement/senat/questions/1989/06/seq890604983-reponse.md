@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890604983
+
+- Question : [SEQ890604983](seq890604983.md) — Programme national de lecture
+
+## Réponse
+
+*Culture, JO du 1989-09-14, page 1498*
+
+Réponse. - M. Bernard Pingaud a présidé en 1981 une commission dont les travaux ont été consacrés à la vie du livre et à la promotion de l'offre et de la demande de livres. Il a été chargé, il y a six mois, d'une mission de réflexion et de proposition portant sur le développement de la lecture. Il est apparu en effet nécessaire d'améliorer les moyens propres à encourager, nationalement et régionalement, tant chez les jeunes que chez les adultes, le goût de lire. Les statistiques récemment publiées montrent la persistance d'un nombre élevé d'illettrés mais également de très faibles lecteurs. M. Pingaud a remis à la fin du mois de mai ce rapport intitulé " le droit de lire ". Il y analyse la situation de la lecture en France ; il rappelle les facteurs de blocage rencontrés par les associations, les professionnels, les pouvoirs publics dans ce domaine prioritaire. Le champ de ses investigations l'amène à aborder le domaine éducatif, le domaine de la solidarité nationale, le domaine de la communication au delà des problèmes éditoriaux et de la question fondamentale des bibliothèques. Il préconise dans ce cadre la mise en place d'un programme national de développement de la lecture. Ce rapport vient d'être publié pour être diffusé aux responsables professionnels et aux partenaires publics directement investis dans les actions de développement de la lecture. D'ores et déjà, le ministère de la culture, de la communication, des grands travaux et du Bicentenaire a décidé de renforcer les moyens humains et financiers qu'il consacre à ces actions. Il a également décidé de retenir une région et deux départements pilotes pour renforcer la coordination des programmes de développement de la lecture en 1990.
