@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930902999
+
+- Question : [SEQ930902999](seq930902999.md) — Accord sur le trafic aérien entre l'Allemagne et les Etats-Unis
+
+## Réponse
+
+*Équipement, JO du 1994-01-20, page 138*
+
+Réponse. - Le mémorandum signé le 24 septembre 1993 entre les Etats-Unis et l'Allemagne définit les modalités d'exploitation des services aériens entre les deux pays pour les quatre prochaines années, sans remettre en cause l'accord aérien bilatéral de 1955 modifié en 1978 qui reste en vigueur. Les deux parties se sont engagées à établir un régime de ciel ouvert dans un délai de quatre ans. Faute d'un nouvel accord de ce type, l'accord de 1955 modifié en 1978 serait à nouveau applicable, augmenté des droits acquis en 1993. Cet accord doit permettre de répondre aux préoccupations du gouvernement allemand, compte tenu des spécificités des relations aériennes germano-américaines. En outre, il a offert la possibilité à la compagnie Lufthansa de conclure dans le cadre de sa stratégie globale de développement une alliance avec United Airlines qui est une des plus importantes compagnies américaines. A notre sens, l'ensemble des droits dont bénéficient les transporteurs américains sortent confortés ou augmentés par cet accord et les restrictions imposées au pavillon américain paraissent en contrepartie relativement limitées. Les Allemands font le pari que la situation aura, d'une façon ou d'une autre, été rééquilibrée au bout de quatre ans. Mais, dans tous les cas, ils devront, à l'issue de cette période, faire face à un développement sans entrave des transporteurs américains, sauf si d'ici là les négociations ont pu être menées au niveau communautaire. Ces évolutions ne devraient pas avoir dans l'immédiat de conséquences directes sur la situation des compagnies françaises. Air France poursuit pour sa part une politique de développement reposant notamment sur un accord commercial avec la compagnie américaine Continental.
