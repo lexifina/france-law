@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950711725
+
+- Question : [SEQ950711725](seq950711725.md) — Insuffisance de l'allocation versée aux adultes handicapés
+
+## Réponse
+
+*Travail, JO du 1995-11-16, page 2181*
+
+Réponse. - L'allocation aux adultes handicapés (AAH) est un revenu minimum garanti par l'Etat à toute personne handicapée, qui représente, dans un environnement économique difficile, un effort important. Il convient à cet égard de rappeler qu'au 1er juillet 1995, le montant de l'AAH a été porté à 3 322,41 francs, soit une revalorisation de 2,8 p. 100. L'AAH étant une prestation non contributive, il est dès lors fondé de subordonner son attribution à une condition de ressources, et de réduire en conséquence l'allocation lorsque le montant des ressources du bénéficiaire et, le cas échéant, de son conjoint ou concubin est supérieur à un plafond. Toutefois, l'appréciation des ressources se fait dans un sens favorable à l'intéressé, l'assiette étant le revenu net catégoriel retenu pour l'établissement de l'impôt sur le revenu. Il s'agit donc des revenus après les abattements normaux de 10 à 20 p. 100, auxquels s'ajoutent les abattements spécifiques aux personnes invalides, lesquelles bénéficient également d'une demi-part supplémentaire lors du calcul du quotient familial. Par ailleurs, le plafond de ressources mis pour l'attribution de l'AAH tient compte de la situation personnelle du bénéficiaire ; ce plafond, égal à 39 250 francs à compter du 1er juillet 1995, est en effet doublé lorsque le demandeur est marié ou vit maritablement, et majoré de 50 p. 100 par enfant à charge. Enfin, la personne handicapée qui exerce une activité professionnelle peut, sous certaines conditions, prétendre à l'allocation compensatrice lorsqu'elle justifie que cette activité lui impose des frais supplémentaires que n'exposerait pas un travailleur valide exerçant la même activité.
