@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951012508
+
+- Question : [SEQ951012508](seq951012508.md) — Fermiers-bailleurs et préretraite
+
+## Réponse
+
+*Agriculture, JO du 1995-12-21, page 2388*
+
+Réponse. - Le dispositif de préretraite mis en oeuvre en 1992 prévoyait un taux unique de 500 F par hectare cédé entre 10 et 50 ha. Sur la demande des organisations professionnelles, la préretraite a été réorientée en faveur de l'installation pour sa nouvelle période d'application. Ainsi, le décret no 95-290 du 15 mars 1995 pris en application de la loi de modernisation de l'agriculture du 1er février 1995 prévoit une modulation de la prime à l'hectare, fixée à 850 F/ha en cas d'installation, et à 500 F ou 200 F en cas d'agrandissement d'un agriculteur installé depuis plus ou moins de dix ans, dans des limites d'agrandissement définies au plan local. Ces règles s'appliquent aux terres exploitées en faire-valoir direct et en fermage. Pour atténuer les dispararités qui pourraient intervenir lorsque le propriétaire souhaite disposer de son patrimoine, une procédure de compensation a toutefois été adoptée, permettant de primer à 500 F les hectares libérés si le fermier peut prouver, par présentation d'une étude prévisionnelle d'installation, qu'un jeune agriculteur n'a pas pu s'installer du seul fait du refus du bailleur. Ce taux de 500 F à l'hectare permet au fermier de bénéficier d'une préretraite dont le montant équivaut à celui qu'il aurait obtenu au cours de la première période d'application de la préretraite (1992-1994), et l'absence effective de l'installation, qui est la priorité du nouveau dispositif, ne permet pas de justifier un montant majoré par rapport au dispositif antérieur. Ces dispositions ayant été arrêtées en accord avec les organisations professionnelles et ayant fait récemment l'objet d'un agrément par le service de la Commission européenne, il n'est pas actuellement envisagé de les modifier.
