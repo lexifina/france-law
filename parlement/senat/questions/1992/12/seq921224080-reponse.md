@@ -1,0 +1,9 @@
+# Réponse à la question SEQ921224080
+
+- Question : [SEQ921224080](seq921224080.md) — Application de la loi relative aux assistants et assistantes maternelles
+
+## Réponse
+
+*Famille et personnes âgées, JO du 1993-03-25, page 527*
+
+Réponse. - La loi n° 92-642 du 12 juillet 1992 relative aux assistants maternels et assistantes maternelles et modifiant le code de la famille et de l'aide sociale, le code de la santé publique et le code du travail prévoit 4 décrets d'application. Pris conformément à l'article 123-4-1 nouveau du code de la famille et de l'aide sociale, le décret en Conseil d'Etat n° 92-1051 du 29 septembre 1992 réorganise la procédure d'agrément des assistantes et assistants maternels et fixe la composition et les modalités de fonctionnement de la commission consultative paritaire départementale instaurée par la loi précitée. Les nouvelles conditions d'agrément sont en vigueur depuis le 2 octobre 1992. L'élection des représentants des assistantes et assistants maternels aux commissions consultatives paritaires départementales doit avoir lieu au plus tard le 30 mars 1993 (article 58 de la loi n° 93-121 du 27 janvier 1993 portant diverses mesures d'ordre social). Conformément aux articles L. 773-3 modifié et L. 773-3-1 nouveau du code du travail, le décret n° 92-1245 du 27 novembre 1992 établit les modalités et les minimas de rémunération des assistantes et assistants maternels et précise les conditions de formation. Les nouveaux modes de rémunération sont en vigueur depuis le 1er janvier 1993. Deux décrets en Conseil d'Etat, en cours d'élaboration, doivent enfin fixer les dispositions particulières applicables aux assistantes et assistants maternels en tant qu'agents non titulaires des collectivités territoriales (article 123-10 nouveau du code de la famille et de l'aide sociale) et des établissements publics de santé ou sociaux ou médico-sociaux (article 123-11 nouveau du même code).
