@@ -12,13 +12,13 @@ Toutefois, les sommes qui, en application de l'article L. 442-4 du code précit�
 
 III Les entreprises visées au I sont autorisées à constituer en franchise d'impôt, à la clôture des exercices arrêtés du 1er octobre 1975 au 30 septembre 1981, une provision pour investissement (2) d'un montant égal à 50 % des sommes portées à la réserve spéciale de participation au cours du même exercice et admises en déduction des bénéfices imposables.
 
-Le pourcentage prévu à l'alinéa précédent est réduit à 25 % pour les exercices clos à compter du 1er octobre 1981.
+Le pourcentage prévu à l'alinéa précédent est réduit à 25 % pour les exercices clos à compter du 1er octobre 1981 et à 12 % pour les exercices clos à compter du 1er octobre 1983.
 
 Ce pourcentage est fixé à 100 % pour les exercices clos jusqu'au 30 septembre 1981, et à 75 % pour les exerices clos à compter du 1er octobre 1981, en ce qui concerne la partie de la provision pour investissement qui résulte de l'application des accords dérogatoires de participation signés avant le 1er octobre 1973 ou de leur reconduction.
 
 En ce qui concerne les sociétés anonymes à participation ouvrière, ce pourcentage est fixé à 50 %. Toutefois, il est porté à 100 % pour les exercices ouverts à compter du 1er janvier 1978 et à 75 % pour les exercices clos à compter du 1er octobre 1981. Pour bénéficier de ces majorations, les entreprises concernées doivent, au titre de chaque exercice, affecter à un compte de réserve non distribuable, par prélèvement sur la réserve spéciale de participation au cours du même exercice et admises en déduction des bénéfices imposables. En cas de dissolution, la réserve provenant de cette affectation ne peut être répartie qu'entre les seuls détenteurs d'actions de travail.
 
-Conformément aux dispositions de l'article L 442-10, 3° et 4°, du code du travail, le montant de la provision pour investissement que les sociétés coopératives ouvrières de production sont autorisées à constituer à la clôture d'un exercice est au plus égal à celui des sommes portées à la réserve spéciale de participation au titre du même exercice (3). Les dotations à la réserve légale et au fonds de développement de ces sociétés peuvent tenir lieu, à due concurrence, de provision pour investissement.
+Conformément aux dispositions de l'article L 442-10, 3° et 4°, du code du travail, le montant de la provision pour investissement que les sociétés coopératives ouvrières de production sont autorisées à constituer à la clôture d'un exercice est au plus égal à celui des sommes portées à la réserve spéciale de participation au titre du même exercice. Les dotations à la réserve légale et au fonds de développement de ces sociétés peuvent tenir lieu, à due concurrence, de provision pour investissement.
 
 A défaut de conclusion de l'accord prévu à l'article L 442-5 du code du travail, dans le délai d'un an qui commence à courir à la clôture de l'exercice au titre duquel sont nés les droits des salariés, la provision pour investissement ne peut être constituée.
 
@@ -29,5 +29,3 @@ Dans le cas où un accord est conclu au sein d'un groupe de sociétés et abouti
 (1) Les capitaux propres résultant de la réévaluation des immobilisations non amortissables prévue à l'article 238 bis I et de la réévaluation des immobilisations amortissables prévue à l'article 238 bis J ne sont pas pris en compte pour le calcul de la participation. (Loi n° 76-1232 du 29 décembre 1976, art. 61-IV. Loi n° 77-1467 du 30 décembre 1977, art. 69-I).
 
 (2) Voir Annexe II, art. 171 bis.
-
-(3) Dispositions applicables pour les exercices ouverts à compter du 1er janvier 1978 (antérieurement, le pourcentage était de 100 %). A titre transitoire, pour le premier exercice ouvert à compter de cette date, le montant de la provision est au plus égal au total des sommes portées à la réserve spéciale de participation au titre du même exercice et de l'exercice précédent. (Loi n° 78-763 du 19 juillet 1978, art. 57).

@@ -2,7 +2,7 @@
 
 I. - La valeur nette comptable des éléments amortissables est obtenue en appliquant à la valeur d'origine le rapport existant entre :
 
-D'une part, leur durée probable d'utilisation restant à courir à la date d'ouverture du premier exercice dont les résultats sont déterminés d'après le régime du bénéfice réel;
+D'une part, leur durée probable d'utilisation restant à courir à la date d'ouverture du premier exercice dont les résultats sont déterminés selon le régime normal d'imposition d'après le bénéfice réel ;
 
 D'autre part, leur durée totale d'utilisation appréciée à la même date.
 

@@ -1,6 +1,6 @@
 # Article 38 sexdecies OA
 
-En cas de passage du régime du forfait au régime d'imposition d'après le bénéfice réel :
+En cas de passage du régime du forfait au régime normal d'imposition d'après le bénéfice réel :
 
 - les animaux figurant dans le stock d'entrée du premier exercice dont les résultats sont imposés d'après le mode réel, sont évalués au prix de revient majoré de 20 %. Cette valeur ne peut excéder le cours du jour à la date d'ouverture de cet exercice;
 
