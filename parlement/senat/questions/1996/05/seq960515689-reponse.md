@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960515689
+
+- Question : [SEQ960515689](seq960515689.md) — Difficultés rencontrées par les familles confrontées à la maladie d'Alzheimer
+
+## Réponse
+
+*Santé, JO du 1996-10-17, page 2725*
+
+Réponse. - La maladie d'Alzheimer entre dans le champ de la liste des affections comportant un traitement prolongé et une thérapeutique particulièrement coûteuse, énumérées à l'article D 322-1 du code de la sécurité sociale. Elle est implicitement comprise dans les cas de " psychose, trouble grave de la personnalité, arriération mentale ". En effet, la recommandation du haut comité médical de la sécurité sociale cite parmi les arriérations mentales la maladie d'Alzheimer. Le patient bénéficie de l'exonération du ticket modérateur et de la prise en charge à 100 % des dépenses d'hospitalisation liées à sa maladie, sous réserve du paiement du forfait journalier hospitalier. Par ailleurs, les personnes âgées hébergées en établissement de soins de longue durée et qui n'ont pas de ressources suffisantes pour s'acquitter des frais exigés, peuvent demander le bénéfice de l'aide sociale. En outre, en application des dispositions de la loi no 90-86 du 23 janvier 1990 portant diverses dispositions relatives à la sécurité sociale et à la santé, et du décret no 90-535 du 29 juin 1990, les personnes hébergées en établissement de soins de longue durée peuvent prétendre également au versement de l'allocation de logement social. Les pouvoirs publics entendent poursuivre l'action engagée dans le cadre plus large de la prise en charge de la dépendance des personnes âgées. Il est envisagé plus particulièrement de créer une prestation spécifique dépendance destinée à financer les services effectués auprès des personnes dépendantes de plus de soixante ans, à domicile ou en établissement spécialisé.
