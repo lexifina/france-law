@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951112774
+
+- Question : [SEQ951112774](seq951112774.md) — Désignation des représentants des conseils municipaux dans les commissions d'adjudication ou d'appel d'offres
+
+## Réponse
+
+*Économie, JO du 1996-07-18, page 1832*
+
+Réponse. - L'article 33 de la loi no 92-125 du 6 février 1992 relative à l'administration territoriale de la République a inscrit à l'ancien article L. 121-20 du code des communes applicable aux communes de plus de 3 500 habitants - repris aujourd'hui à l'article L. 2121-22 du code des collectivités territoriales - le principe de la représentation proportionnelle pour la composition des différentes commissions - y compris les commissions d'appel d'offres et les bureaux d'adjudication - afin de permettre l'expression pluraliste des élus au sein de l'assemblée communale. L'article 34 de la même loi - actuellement codifié à l'article 279 du code des marchés publics - prévoit spécifiquement le mode de désignation des seules commissions d'appel d'offres et bureaux d'adjudication pour l'ensemble des collectivités locales (régions, départements, communes). Une distinction est opérée entre les communes de plus de 3 500 habitants et de moins de 3 500 habitants s'agissant uniquement du nombre de membres composant la commission, sans que le principe de la représentation proportionnelle soit remis en cause s'agissant des communes les plus petites. En effet, le IV de cet article dispose que, " lorsqu'il s'agit d'une commune de moins de 3 500 habitants ", la commission d'appel d'offres est représentée " par le maire ou son représentant et par trois membres du conseil municipal élus par le conseil à la représentation proportionnelle au plus fort reste ". Il n'apparaît donc aucune contradiction entre les dispositions des articles 33 et 34 de la loi précitée, codifiées chacune pour ce qui la concerne dans le code approprié.
