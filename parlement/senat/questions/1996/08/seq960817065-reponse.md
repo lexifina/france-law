@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960817065
+
+- Question : [SEQ960817065](seq960817065.md) — DOM : politique scolaire et suppression de postes d'enseignants à la Martinique
+
+## Réponse
+
+*Éducation, JO du 1996-09-26, page 2490*
+
+Réponse. - De façon générale, il paraît important de souligner que la dynamique ouverte par le nouveau contrat pour l'école, qui connaît en 1996 sa seconde année d'application, permet à l'enseignement secondaire de bénéficier de la création de 1 000 emplois d'enseignants, dont 200 par transformation d'heures supplémentaires. Principalement affectés à la rénovation du collège, ces emplois doivent faciliter, entre autres, l'introduction d'un enseignement en latin en 5e. Au niveau national, la relative diminution des effectifs dans le second degré permet d'autre part de couvrir notamment les besoins dans les lycées et les classes post-baccalauréat, tout en rendant possible l'amélioration des conditions d'encadrement dans les établissements situés en ZEP. La direction des lycées et collèges a réparti ces moyens nouveaux en fonction des besoins prévisionnels induits par les variations attendues d'effectifs d'élèves et par les rénovations pédagogiques de la prochaine rentrée, et avec le souci d'équilibrer les dotations académiques. Cette préoccupation a conduit, compte tenu des besoins prévus à la rentrée prochaine dans l'académie des Antilles-Guyane, à lui accorder une dotation de 90 emplois et 542 heures supplémentaires-année. En outre, cette dotation vient d'être abondée de 20 emplois supplémentaires pour tenir compte de la situation particulièrement difficile de cette académie. Il appartient au recteur, en liaison avec les inspecteurs d'académie pour les collèges, de rechercher l'utilisation optimale des moyens dont il dispose en effectuant les ajustements qui s'imposent entre départements et entre établissements et notamment pour tenir compte de la situation relative des trois départements.
