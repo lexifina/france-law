@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930400323
+
+- Question : [SEQ930400323](seq930400323.md) — Conséquence de l'entrée en vigueur du permis à points sur l'encombrement des tribunaux
+
+## Réponse
+
+*Justice, JO du 1993-08-26, page 1480*
+
+Réponse. - Le garde des sceaux a l'honneur d'indiquer à l'honorable parlementaire que l'entrée en vigueur de la législation relative au permis à points étant observé que le capital de points accordé à chaque automobiliste a été porté de six à douze points par décret du 23 novembre 1992 a en effet entraîné une augmentation de la charge de travail des juridictions. Il convient de rappeler que les tribuneaux judiciaires ne prononcent pas de retraits de points. Ces retraits sont constatés par l'autorité administrative selon des barêmes réglementaires lorsqu'est intervenue la constatation de la réalité d'une infraction soit par une condamnation pénale, soit par le paiement d'une amende forfaitaire. Les greffes des tribunaux sont en conséquence conduits à transmettre plus systématiquement un certain nombre de décisions qui entraînent l'inscription d'un retrait de points au fichier nationalal des permis. Cette tâche revient, pour les contraventions de police les plus courantes, aux officiers du ministère public, qui ont été dotés, pour cette application, de moyens informatiques adéquats, les contraventions d'excès de vitesse représentant à elles seules un million deux cent mille infractions. Il n'a en revanche pas été observé à ce jour d'augmentation très sensible du taux des recours ou des réclamations généralement enregistrés dans ce type de contentieux. Il est encore malaisé de déterminer, dans l'évolution observée des taux de recours ou de réclamations dans des contentieux de ce type, ce qui résulte de la nouvelle application d'un permis à points ou de l'évolution générale du taux de contestation des décisions.
