@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890404228
+
+- Question : [SEQ890404228](seq890404228.md) — Bilan d'une campagne en faveur de l'artisanat
+
+## Réponse
+
+*Commerce et artisanat, JO du 1989-06-15, page 916*
+
+Réponse. - La première phase de la campagne de promotion pour la qualification dans l'artisanat a été lancée le 28 mars par le ministre du commerce et de l'artisanat qui a tenu une conférence de presse à Paris. L'objectif de la campagne, approuvée par le conseil des ministres du 28 novembre 1988, est de promouvoir la revalorisation de l'ensemble du secteur, en proposant une " conception rénovée " des métiers ; elle répond à une très ancienne et légitime aspiration des artisans qui souhaitent que la qualification professionnelle soit reconnue. Pratiquement, la campagne vise à inciter les professionnels inscrits au répertoire des métiers à obtenir et à afficher leurs titres d'artisan et de maître artisan, pour faire connaître leur qualification. Elle vise, d'autre part, à apprendre au public à identifier les nouveaux titres de qualification et à connaître leur signification. Il convient de noter qu'à ce jour 80 000 qualités d'artisan ont été attribuées par les chambres de métiers ; plus de 300 titres de maître artisan ont été décernés par les commissions régionales des qualifications, alors que la moitié de ces commission n'ont pas encore été mises en place. Le seconde phase de la campagne repose sur une mobilisation régionale accompagnée par des campagnes de promotion locale. Elle débutera par un colloque national qui se déroulera à Strasbourg le 23 mai. Ce colloque présidé par le ministre permettra une réflexion sur les enjeux économiques, politiques et culturels de la qualification dans l'artisanat. Il sera suivi de colloques organisés à l'initiative des chambres de métiers qui ont d'ailleurs déjà mis en place localement un certain nombre d'actions d'information et de promotion.
