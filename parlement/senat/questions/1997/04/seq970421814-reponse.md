@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970421814
+
+- Question : [SEQ970421814](seq970421814.md) — Aide à l'accès des PME aux marchés publics
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 1997-06-02, page 1641*
+
+Réponse. - La réforme du code des marchés publics, prévue dans le " Plan PME pour la France ", doit permettre d'améliorer l'accès des petites et moyennes entreprises à la commande publique qui représente 700 milliards de francs annuellement. En effet, les règles actuelles et le mode de fonctionnement représentent un frein à l'accès des marchés publics pour les PME et l'objectif du Gouvernement est donc de veiller à ce que les PME ne soient plus pénalisées pour ces marchés. Aussi, le ministre délégué aux finances et au commerce extérieur a présenté un projet de loi, lors du conseil des ministres du 20 mars dernier, à la suite des propositions de M. Trassy-Paillogues, parlementaire en mission. Des orientations importantes y sont prévues : le code des marchés publics sera considérablement simplifié afin qu'il soit un véritable guide pour tous les acteurs de la commande publique, notamment les PME ; les procédures seront simplifiées et la transparence accrue pour les commandes inférieures à un certain seuil ; l'acheteur public sera amené à mieux définir ses besoins et ses critères de choix en amont de la consultation, afin que son choix puisse s'orienter sur l'entreprise la mieux-disante ; des instructions seront données pour les marchés de l'Etat et des recommandations seront faites aux collectivités locales afin que chaque fois que cela est techniquement possible et économiquement rationnel, les marchés importants soient divisés en lots distincts et homogènes ; l'allotissement des marchés publics est une nécessité pour offrir aux PME un meilleur accès à la commande publique. Sur la base de ces orientations, la réforme du code des marchés publics devrait être débattue au Parlement.
