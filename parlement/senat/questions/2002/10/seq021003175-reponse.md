@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021003175
+
+- Question : [SEQ021003175](seq021003175.md) — Lisibilité des comptes de la sécurité sociale
+
+## Réponse
+
+*Santé, JO du 2004-04-01, page 829*
+
+La maîtrise des comptes sociaux constitue une priorité de l'action gouvernementale. En ce qui concerne l'assurance maladie, plusieurs mesures de maîtrise des dépenses ont été mises en oeuvre récemment, en particulier avec les professionnels de santé (visites médicalement justifiées, prescriptions d'antibiotiques...) et sur le médicament (développement des génériques, déremboursements de médicaments au service médical rendu insuffisant). Le plan Hôpital 2007 et la mise en oeuvre de la tarification à l'activité dans les établissements de santé permettent une modernisation de nos structures tout en ayant un meilleur suivi des coûts. Les mesures prises doivent permettre une stabilisation du déficit, et cela malgré une conjoncture difficile. L'adaptation nécessaire de l'assurance maladie sera mise en oeuvre avant l'été 2004, sur les bases notamment des travaux du Haut conseil pour l'avenir de l'assurance maladie. S'agissant des retraites, la loi du 21 août 2003 portant réforme des retraites comporte un ensemble important de dispositions visant à prendre en compte les évolutions démographiques à venir et à assurer la viabilité financière de notre système de retraite par répartition. Quant au financement des 35 heures, la suppression du FOREC en 2004 et le retour à la charge de l'Etat du financement de l'ensemble des exonérations de cotisations constituent une réelle avancée en termes de clarification du partage du financement, et en termes de lisibilité des comptes de la sécurité sociale. Les lois de financement de la sécurité sociale pour 2003 et 2004 ont également permis l'apurement de la dette contractée par l'Etat à l'égard de la sécurité sociale au titre des exonérations pour les 35 heures de l'année 2000 qui n'avaient pas été payées.
