@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990918775
+
+- Question : [SEQ990918775](seq990918775.md) — Enfants accidentés sur le chemin de l'école
+
+## Réponse
+
+*Équipement, JO du 2000-03-16, page 975*
+
+Réponse. - L'analyse des accidents de la circulation impliquant des enfants piétons fait apparaître que ceux-ci surviennent le plus souvent de jour, en agglomération, et plutôt de mars à juin, période au cours de laquelle les enfants sont plus souvent dehors, sans surveillance des parents. Conformément à la loi qui fait de l'éducation à la sécurité routière une obligation pour l'Etat, les ministères de l'éducation et des transports s'associent pour assurer à chaque école et à chaque collège de l'enseignement public et privé sous contrat (ou hors contrat sur sa demande) une documentation pédagogique renouvelée chaque année. Les déplacements domicile - école relèvent de la responsabilité des parents. Afin de les informer sur les causes d'accident, la direction de la sécurité et de la circulation routières a édité un dépliant sur " Le chemin de l'école ", diffusé à plusieurs centaines de milliers d'exemplaires, et entretient avec les associations de parents d'élèves des relations constantes, afin qu'elles relaient dans leurs réseaux et leurs publications les messages de sécurité routière à l'intention de leurs adhérents. Des mesures complémentaires contribuent également à une meilleure sécurité des enfants piétons : information des conducteurs sur les fragilités et sur les réactions des enfants (lente maturation des compétences auditives et visuelles, petite taille...), aménagements de zones 30, éclairage des rues, feux à poussoir, étude des traversées et des cheminements piétonniers, traitement particulier des entrées et sorties des quartiers, amélioration des véhicules (forme, structure, matériaux moins agressifs).
