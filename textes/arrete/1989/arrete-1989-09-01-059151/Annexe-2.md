@@ -10,93 +10,65 @@ Masseurs-kinésithérapeute de classe normale,
 
 ergothérapeute de classe normale, psychomotricien de classe normale
 
-==========================
+8e échelon
 
-:Echelons : Indices bruts: |
+indices bruts : 558
 
-:8e : |
+7e échelon
 
-Situation antérieure : 493 |
+indices bruts : 519
 
-Au 1er août 1991 : 493 |
+6e échelon
 
-Au 1er août 1992 : 493 |
+indices bruts : 480
 
-:7e : |
+5e échelon
 
-Situation antérieure : 487 |
+indices bruts : 443
 
-Au 1er août 1991 : 487 |
+4e échelon
 
-Au 1er août 1992 : 487 |
+indices bruts : 407
 
-:6e : |
+3e échelon
 
-Situation antérieure : 460 |
+indices bruts : 372
 
-Au 1er août 1991 : 460 |
+2e échelon
 
-Au 1er août 1992 : 460 |
+indices bruts : 346
 
-:5e : |
+1er échelon
 
-Situation antérieure : 425 |
+indices bruts : 322
 
-Au 1er août 1991 : 425 |
+Masseur-kinésithérapeute de classe supérieure
 
-Au 1er août 1992 : 425 |
+Ergothérapeute de classe supérieure
 
-:4e : |
+Psychomotricien de classe supérieure
 
-Situation antérieure : 380 |
+A compter du 1er août 1994
 
-Au 1er août 1991 : 382 |
+5e échelon
 
-Au 1er août 1992 : 390 |
+indices bruts : 593
 
-:3e : |
+4e échelon
 
-Situation antérieure : 343 |
+indices bruts : 565
 
-Au 1er août 1991 : 348 |
+3e échelon
 
-Au 1er août 1992 : 356 |
+indices bruts : 530
 
-:2e : |
+2e échelon
 
-Situation antérieure : 311 |
+indices bruts : 499
 
-Au 1er août 1991 : 317 |
+1er échelon
 
-Au 1er août 1992 : 326 |
-
-:1er : |
-
-Situation antérieure : 286
-
-Au 1er août 1991 : 291
-
-Au 1er août 1992 : 301 ==========================
-
-Masseur-kinésithérapeute de classe supérieure,
-
-ergothérapeute de classe supérieure, psychomotricien de classe supérieure
-
-==========================
-
-:Echelons : Indices bruts: |
-
-:5e : 533 : |
-
-:4e : 501 : |
-
-:3e : 473 : |
-
-:2e : 441 : |
-
-:1er : 418 : |
-
-===========================
+indices bruts : 471
 
 Masseur-kinésithérapeute surveillant des services médicaux,
 

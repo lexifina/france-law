@@ -6,93 +6,65 @@ Technicien de laboratoire de classe normale
 
 Manipulateur d'électroradiologie médicale de classe normale
 
-------------------------
+8e échelon
 
-:Echelons:Indices bruts: |
+indices bruts : 558 (1)
 
-:exceptionnel (1) : |
+7e échelon
 
-Situation antérieure : 493 |
+indices bruts : 519
 
-Au 1er août 1991 : 493 |
+6e échelon
 
-Au 1er août 1992 : 493 |
+indices bruts : 480
 
-:7e : |
+5e échelon
 
-Situation antérieure : 487 |
+indices bruts : 443
 
-Au 1er août 1991 : 487 |
+4e échelon
 
-Au 1er août 1992 : 487 |
+indices bruts : 407
 
-:6e : |
+3e échelon
 
-Situation antérieure : 460 |
+indices bruts : 372
 
-Au 1er août 1991 : 460 |
+2e échelon
 
-Au 1er août 1992 : 460 |
+indices bruts : 346
 
-:5e : |
+1er échelon
 
-Situation antérieure : 425 |
+indices bruts : 322
 
-Au 1er août 1991 : 425 |
-
-Au 1er août 1992 : 425 |
-
-:4e : |
-
-Situation antérieure : 380 |
-
-Au 1er août 1991 : 382 |
-
-Au 1er août 1992 : 390 |
-
-:3e : |
-
-Situation antérieure : 343 |
-
-Au 1er août 1991 : 348 |
-
-Au 1er août 1992 : 356 |
-
-:2e : |
-
-Situation antérieure : 311 |
-
-Au 1er août 1991 : 317 |
-
-Au 1er août 1992 : 326 |
-
-:1er : |
-
-Situation antérieure : 286
-
-Au 1er août 1991 : 291
-
-Au 1er août 1992 : 301 ------------------------- (1) Echelon exceptionnel accessible suivant les dispositions mentionnées aux articles 13 et 21 du décret n° 89-613 du 1er septembre 1989 susvisé.
+(1) 8e échelon créé à compter du 1er août 1993.
 
 Technicien de laboratoire de classe supérieure
 
 Manipulateur d'électroradiologie médicale de classe supérieure
 
-------------------------
+A compter du 1er août 1994
 
-:Echelons:Indices bruts: |
+5e échelon
 
-:5e : 533 : |
+indices bruts : 593
 
-:4e : 501 : |
+4e échelon
 
-:3e : 473 : |
+indices bruts : 565
 
-:2e : 441 : |
+3e échelon
 
-:1er : 418 : |
+indices bruts : 530
 
--------------------------
+2e échelon
+
+indices bruts : 499
+
+1er échelon
+
+indices bruts : 471
 
 Technicien de laboratoire, surveillant
 

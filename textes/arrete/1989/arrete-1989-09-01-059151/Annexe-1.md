@@ -4,83 +4,63 @@ Corps des pédicures-podologues.
 
 Pédicure-podologue de classe normale
 
-==========================
+8e échelon
 
-:Echelons : Indices bruts: |
+indices bruts : 558 (1)
 
-:7e : |
+7e échelon
 
-Situation antérieure : 487 |
+indices bruts : 519
 
-Au 1er août 1991 : 487 |
+6e échelon
 
-Au 1er août 1991 : 487 |
+indices bruts : 480
 
-:6e : |
+5e échelon
 
-Situation antérieure : 460 |
+indices bruts : 443
 
-Au 1er août 1991 : 460 |
+4e échelon
 
-Au 1er août 1991 : 460 |
+indices bruts : 407
 
-:5e : |
+3e échelon
 
-Situation antérieure : 425 |
+indices bruts : 372
 
-Au 1er août 1991 : 425 |
+2e échelon
 
-Au 1er août 1991 : 425 |
+indices bruts : 346
 
-:4e : |
+1er échelon
 
-Situation antérieure : 380 |
+indices bruts : 322
 
-Au 1er août 1991 : 382 |
-
-Au 1er août 1991 : 390 |
-
-:3e : |
-
-Situation antérieure : 343 |
-
-Au 1er août 1991 : 348 |
-
-Au 1er août 1991 : 356 |
-
-:2e : |
-
-Situation antérieure : 311 |
-
-Au 1er août 1991 : 317 |
-
-Au 1er août 1991 : 326 |
-
-:1er : |
-
-Situation antérieure : 286
-
-Au 1er août 1991 : 291
-
-Au 1er août 1991 : 301 ===========================
+(1) 8e échelon créé à compter du 1er août 1993.
 
 Pédicure-podologue de classe supérieure
 
-==========================
+A compter du 1er août 1994
 
-:Echelons : Indices bruts: |
+5e échelon
 
-:5e : 533 : |
+indices bruts : 593
 
-:4e : 501 : |
+4e échelon
 
-:3e : 473 : |
+indices bruts : 565
 
-:2e : 441 : |
+3e échelon
 
-:1er : 418 : |
+indices bruts : 530
 
-===========================
+2e échelon
+
+indices bruts : 499
+
+1er échelon
+
+indices bruts : 471
 
 Pédicure-podologue surveillant des services médicaux
 

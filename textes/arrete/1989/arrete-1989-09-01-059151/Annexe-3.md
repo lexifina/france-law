@@ -6,85 +6,67 @@ Orthophoniste de classe normale, orthoptiste de classe normale,
 
 diététicien de classe normale
 
-==========================
+8e échelon
 
-:Echelons : Indices bruts: |
+indices bruts : 558 (1)
 
-:7e : |
+7e échelon
 
-Situation antérieure : 487 |
+indices bruts : 519
 
-Au 1er août 1991 : 487 |
+6e échelon
 
-Au 1er août 1992 : 487 |
+indices bruts : 480
 
-:6e : |
+5e échelon
 
-Situation antérieure : 460 |
+indices bruts : 443
 
-Au 1er août 1991 : 460 |
+4e échelon
 
-Au 1er août 1992 : 460 |
+indices bruts : 407
 
-:5e : |
+3e échelon
 
-Situation antérieure : 425 |
+indices bruts : 372
 
-Au 1er août 1991 : 425 |
+2e échelon
 
-Au 1er août 1992 : 425 |
+indices bruts : 346
 
-:4e : |
+1er échelon
 
-Situation antérieure : 380 |
+indices bruts : 322
 
-Au 1er août 1991 : 382 |
+(1) 8e échelon créé à compter du 1er août 1993.
 
-Au 1er août 1992 : 390 |
+Orthophoniste de classe supérieure
 
-:3e : |
+Orthoptiste de classe supérieure
 
-Situation antérieure : 343 |
+Diététicien de classe supérieure
 
-Au 1er août 1991 : 348 |
+A compter du 1er août 1994
 
-Au 1er août 1992 : 356 |
+5e échelon
 
-:2e : |
+indices bruts : 593
 
-Situation antérieure : 311 |
+4e échelon
 
-Au 1er août 1991 : 317 |
+indices bruts : 565
 
-Au 1er août 1992 : 326 |
+3e échelon
 
-:1er : |
+indices bruts : 530
 
-Situation antérieure : 286
+2e échelon
 
-Au 1er août 1991 : 291
+indices bruts : 499
 
-Au 1er août 1992 : 301 ==========================
+1er échelon
 
-Orthophoniste de classe supérieure, orthoptiste de classe supérieure,
-
-diététicien de classe supérieure
-
-==========================
-
-:Echelons : Indices bruts: |
-
-:5e : 533 : |
-
-:4e : 501 : |
-
-:3e : 473 : |
-
-:2e : 441 : |
-
-:1er : 418 : |
-
-===========================
+indices bruts : 471
 
 Orthophoniste surveillant des services médicaux,
 
