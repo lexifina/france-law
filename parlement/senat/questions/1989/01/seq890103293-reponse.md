@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890103293
+
+- Question : [SEQ890103293](seq890103293.md) — Exonération des ports autonomes de la participation aux frais d'établissement et d'entretien des voies ferrées de quai
+
+## Réponse
+
+*Équipement, JO du 1989-05-25, page 803*
+
+Réponse. - Le cahier des charges de la S.N.C.F. prévoit que celle-ci est tenue, à la demande du ministre chargé des transports, d'assurer la desserte des ports maritimes et de navigation intérieure publics dans des conditions compatibles avec leur aménagement et leur bonne exploitation. Les voies ferrées des quais des ports font l'objet de mesures spécifiques car elles sont installées sur le domaine public portuaire ; elles ne font pas partie du réseau ferré national géré par la S.N.C.F. Il convient de souligner l'intérêt commun que présente pour les ports et pour la S.N.C.F. la desserte ferroviaire des installations portuaires. C'est pourquoi les frais d'établissement et d'entretien de ces voies ferrées sont répartis entre la S.N.C.F. et les ports concernés. Conformément aux dispositions du cahier des charges de la S.N.C.F., un arrêté conjoint des ministres chargés des transports et de la mer en date du 30 mars 1988 (publié au Journal officiel du 4 mai 1988) a fixé les conditions dans lesquelles doivent être passées les conventions entre l'établissement public et l'autorité chargée de la gestion du port pour régler les modalités d'établissement d'exploitation, d'entretien des voies ferrées concernées. Ce texte, qui a reçu préalablement à son adoption l'accord de l'union des ports autonomes et des chambres de commerce et d'industrie maritimes, pose le principe d'une répartition financière à parts égales des travaux d'aménagement et d'entretien des voies ferrées. Il est applicable aux ports autonomes, aux ports maritimes d'intérêt national et aux ports de navigation intérieure et sa modification n'est pas envisagée.
