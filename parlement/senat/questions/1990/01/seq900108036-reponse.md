@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900108036
+
+- Question : [SEQ900108036](seq900108036.md) — Financement des régimes complémentaires de retraites
+
+## Réponse
+
+*Budget, JO du 1991-01-17, page 104*
+
+Réponse. - La participation de l'Etat à la structure financière, association chargée de gérer les garanties de ressources et de compenser le coût pour les régimes de retraite complémentaire de l'abaissement à soixante ans de l'âge de la retraite, avait été fixée par l'accord du 4 février 1983 et la convention financière du 18 mars 1983. Pendant sept ans, en application de ces accords, l'Etat a versé au total 82 MF à l'A.S.F., permettant le maintien des droits des personnes percevant la garantie de ressources (accord du 27 mars 1972 et du 13 juin 1977) et la réalisation de l'abaissement de l'âge de la retraite à soixante ans. A la suite de la dénonciation par le C.N.P.F. et la C.G.P.M.E. de l'accord du 4 février 1983, des négociations se sont ouvertes qui ont abouti à un nouvel accord des partenaires sociaux le 20 septembre dernier. Celui-ci prévoit le maintien de l'A.S.F. jusqu'au 31 décembre 1993 et la reconduction des principales dispositions de l'accord du 4 février 1983. Ainsi, les droits à la retraite complémentaire des salariés qui partent en retraite à soixante ans ne sont ni réduits ni remis en cause. Dans le même temps, l'Etat s'est engagé à verser une subvention forfaitaire à l'A.S.F., fixée à 1 750 MF pour la période du 1er octobre 1990 au 31 décembre 1991 puis à 1 000 MF par an en 1992 et 1993. La convention financière relative à cette subvention est en cours de signature. L'équilibre financier de l'A.S.F. est, en toute hypothèse, assuré pour les années à venir. La situation excédentaire de l'A.S.F. à la fin de 1989 a d'ores et déjà permis aux partenaires sociaux d'abaisser, à compter du 1er octobre 1990, le taux des cotisations à l'A.S.F. de 2 p. 100 à 1,8 p. 100 pour la partie des salaires inférieure au plafond de la sécurité sociale.
