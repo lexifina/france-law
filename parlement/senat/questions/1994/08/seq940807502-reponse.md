@@ -1,0 +1,11 @@
+# Réponse à la question SEQ940807502
+
+- Question : [SEQ940807502](seq940807502.md) — Equipement universitaire de la Région Nord - Pas-de-Calais
+
+## Réponse
+
+*Enseignement supérieur, JO du 1994-10-06, page 2404*
+
+Réponse. - Le contrat de Plan Etat-région Nord - Pas-de-Calais 1994-1998, signé le 1er juillet 1994, doit permettre à la fois d'achever le schéma Université 2000 et de définir les nouvelles modalités permettant de conforter les universités existantes, tout en assurant le développement des six universités de la région Nord - Pas-de-Calais. Les engagements financiers de l'Etat pour la période 1991-1995 s'élèvent à 1 306 MF. En 1994 et 1995, l'Etat consacrera 564 MF à l'achèvement des opérations inscrites dans la convention Université 2000. Au-delà de 1995, l'Etat contribuera aux investissements permettant de garantir un accueil de qualité à un nombre croissant d'étudiants dans les six universités. A cet effet, il s'appuiera notamment sur les résultats de la mission d'inspection chargée de faire le point sur les évolutions prévisibles des effectifs d'étudiants et sur les objectifs retenus dans le schéma concerté des formations post-baccalauréat. La programmation des investissements sera déterminée à partir d'un bilan de l'état du patrimoine universitaire et de la convention Université 2000, et des besoins restant à couvrir, au double regard de l'origine géographique des étudiants et des complémentarités qu'il apparaîtra souhaitable d'instaurer ou de développer entre les formations offertes par les six universités, et au sein de chacune d'elle. Le ministère de l'enseignement supérieur et de la recherche apportera 700 MF pour ces investissements qui n'incluent pas la maintenance du patrimoine. Il veillera, lors de la répartition de ces crédits, à ce que les implantations universitaires dans le Pasde-Calais bénéficient de dotations compensant l'effort particulier consenti par le Conseil général de ce département au cours de la période 1990-1995. Enfin l'Etat souhaite que les signataires de la convention Université 2000 prolongent leur contribution au financement des équipements universitaires au-delà de 1995 et qu'ils soient rejoint
+
+s, dans cet effort, par d'autres partenaires.
