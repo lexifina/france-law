@@ -1,0 +1,11 @@
+# Réponse à la question SEQ921023155
+
+- Question : [SEQ921023155](seq921023155.md) — Financement de la recherche sur la mort subite du nourrisson
+
+## Réponse
+
+*Santé, JO du 1992-11-26, page 2634*
+
+Réponse. - Cause principale de décès de nourrissons entre l'âge de un mois et un an, la mort subite du nourrisson touche 1 500 bébés en France par an et pose un réel problème de santé publique. Les causes sont multiples, fréquemment associées, parfois non retrouvées. L'autopsie scientifique de ces enfants est essentielle, car elle permet de distinguer les morts subites liées à des étiologies précises et celles qui restent inexpliquées, ce qui est fondamental pour la prise en charge de la fratrie éventuelle à venir, mais aussi pour la recherche. Les centres régionaux de référence, créés par la circulaire du 14 mars 1986 ont qualité pour prescrire, mettre en place et organiser le suivi d'une surveillance par monitorage à domicile. Depuis le 30 janvier 1992, un groupe de travail a été mis en place au sein de la direction générale de la santé du ministère de la santé et de l'action humanitaire. Il a pour but d'évaluer le dispositif des 31 centres actuellement opérationnels et de mettre au point les propositions budgétaires qui en découleront. Déjà, la pratique de l'autopsie d'un enfant décédé, le suivi régulier de la famille lors d'une grossesse ultérieure, et après la naissance de l'enfant, l'examen attentif de ce bébé et la réalisation d'examens complémentaires permettent de diminuer de façon importante la prescription de monitorage à domicile, d'autant que l'on commence à bien connaître les conséquences psychologiques sur les familles de ce type d'appareillage. Par ailleurs, conscient des difficultés que pose le transport des enfants décédés, le ministre de la santé et de l'action humanitaire a mis en place un groupe de travail qui réfléchit sur la faisabilité d'une modification du code des communes pour permettre le transport des corps. Enfin, il est envisagé une formation des professionnels, publics et libéraux, ainsi qu'une formation de la population par l'intermédiaire de brochures, carnets de santé de l'enfant et campagnes
+
+d'éducation sanitaire pour prévenir ce douloureux problème.
