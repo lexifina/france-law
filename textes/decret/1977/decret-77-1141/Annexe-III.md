@@ -28,7 +28,7 @@ d) La construction d'équipements culturels, sportifs ou de loisirs susceptibles
 
 10° Création de zone d'aménagement concerté en dehors du cas prévu au dernier alinéa de l'article L. 311-4 du code de l'urbanisme ;
 
-11° Lotissements permettant la construction de plus de 5 000 mètres carrés de surface hors oeuvre brute sur le territoire d'une commune non dotée, à la date du dépôt de la demande, d'un plan d'occupation des sols ou d'un document en tenant lieu ayant fait l'objet d'une enquête publique ;
+11° Lotissements permettant la construction de plus de 5 000 mètres carrés de surface hors oeuvre brute sur le territoire d'une commune non dotée, à la date du dépôt de la demande, d'un plan d'occupation des sols ou d'un document en tenant lieu ayant fait l'objet d'une enquête publique.
 
 12° Opérations autorisées par décret en application de l'article L. 130-2, alinéa 3, du code de l'urbanisme ;
 
@@ -42,16 +42,12 @@ d) La construction d'équipements culturels, sportifs ou de loisirs susceptibles
 
 17° Les laboratoires souterrains destinés à étudier l'aptitude des formations géologiques profondes au stockage des déchets radioactifs ;
 
-18° Travaux d'installation de remontées mécaniques dont le coût total est supérieur ou égal à 6 millions de francs ;
+18° Travaux d'installation de remontées mécaniques dont le coût total est supérieur ou égal à 950 000 euros ;
 
-19° Terrains de golf dont le coût total est égal ou supérieur à 12 millions de francs ou qui sont accompagnés d'opérations de construction d'une surface hors oeuvre nette égale ou supérieure à 1 000 mètres carrés ;
+19° Terrains de golf dont le coût total est égal ou supérieur à 1 900 000 euros ou qui sont accompagnés d'opérations de construction d'une surface hors oeuvre nette égale ou supérieure à 1 000 mètres carrés ;
 
 20° Aménagement de terrains pour la pratique de sports ou loisirs motorisés d'une emprise totale supérieure à 4 hectares ;
 
-21° Travaux d'un montant supérieur à 12 millions de francs portant sur la création d'une gare de voyageurs, de marchandises ou de transit ou sur l'extension de son emprise ;
+21° Travaux d'un montant supérieur à 1 900 000 euros portant sur la création d'une gare de voyageurs, de marchandises ou de transit ou sur l'extension de son emprise ;
 
 22° Travaux et ouvrages de défense contre la mer d'une emprise totale supérieure à 2 000 mètres carrés.
-
-NOTA :
-
-Nota : Les dispositions de l'article 3 du décret 2000-1272 du 26 décembre 2000 sont applicables aux demandes de permis de construire, d'autorisation de lotir ou d'approbation de programmes de travaux de restauration immobilière présentées après le 29 avril 2000.
