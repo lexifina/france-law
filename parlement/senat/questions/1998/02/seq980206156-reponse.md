@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980206156
+
+- Question : [SEQ980206156](seq980206156.md) — Création d'entreprises
+
+## Réponse
+
+*Emploi, JO du 1998-03-19, page 909*
+
+Réponse. - On distingue trois types de créations d'entreprises : les créations pures, les créations par reprise et les créations par réactivation. La première catégorie concerne les entreprises qui n'existaient sous aucune autre forme auparavant : les emplois ainsi mis en jeu sont des emplois nouveaux. La seconde catégorie regroupe les entreprises existantes pour lesquelles le statut a été modifié (par exemple un changement de directeur). Enfin, la troisième catégorie concerne les personnes physiques - parmi lesquelles les artisans, les commerçants et les professions libérales - qui ont cessé d'être entrepreneurs individuels pendant un laps de temps, pendant lequel elles ont par exemple été salariées d'un autre entrepreneur et qui, à nouveau, sont à leur compte. Elles sont répertoriées sous le même numéro d'identification. Dans les deux derniers cas, les emplois mis en jeu ne sont pas des créations " pures " d'emplois en ce sens qu'ils préexistent sous une autre forme. Le tableau 1 ci-dessous ventile les créations d'entreprises par catégorie, pour les années 1996 et 1997, dans la France entière et dans le département du Rhône. Par ailleurs, aucune prévision des emplois nouveaux induits par ces créations n'est réalisée au sein de l'INSEE. La seule donnée disponible est le nombre d'emplois déclarés par l'entreprise au moment de sa création. Le tableau 2 présente ces résultats ventilés selon la nature de la création. Volume de créations d'entreprises ( NOTA Voir tableau page 909 ). Volume des emplois induits par les créations d'entreprises ( NOTA Voir tableau page 909 ). Source : Pôle de compétence national démographie des entreprises et des établissements de la direction régionale de l'INSEE de Lorraine.
