@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970600157
+
+- Question : [SEQ970600157](seq970600157.md) — Reconditionnement de la viande et information du consommateur
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 1997-08-21, page 2176*
+
+Réponse. - Les viandes réfrigérées conditionnées comportent une date limite de consommation (DLC) car ce sont des denrées microbiologiquement très périssables et de ce fait susceptibles, après une courte période, de présenter un danger immédiat pour la santé humaine. La DLC est apposée sous la responsabilité du conditionneur, qui peut être dans certains cas le distributeur lui-même lorsqu'il possède son propre atelier de découpe et de conditionnement. Le responsable détermine alors la DLC selon des procédures qu'il met en place et qui tiennent compte des conditions des plus probables de conservation (dans ses propres rayons et chez le consommateur). Pour des raisons de présentation du produit (emballage abîmé par exemple), la viande peut être reconditionnée. Mais en aucun cas cette opération ne peut conduire à prolonger la DLC initiale. Cette prolongation constituerait en effet une tromperie sur la fraîcheur du produit pour le consommateur. Lorsque la viande a été reconditionnée, la mention " date de conditionnement " doit être remplacée par la mention " date de reconditionnement ". Des instructions ont été données aux services de contrôles de la DGCCRF afin qu'ils s'assurent du respect de ces réglementations. En ce qui concerne l'étiquetage des viandes et ce que l'on appelle communément la traçabilité, des avancées substantielles ont été réalisées depuis quelques mois, outre le nom du muscle dont provient la viande, l'accord interprofessionnel du 17 février 1997 impose aux professionnels d'indiquer, sur l'étiquetage des viandes de boeuf, l'origine de l'animal, sa catégorie (génisse, vache, jeune bovin, taureau, boeuf...), et le type de race (type à viande, type laitier, type mixte).
