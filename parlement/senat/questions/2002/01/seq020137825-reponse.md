@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020137825
+
+- Question : [SEQ020137825](seq020137825.md) — Persécutions religieuses au Tibet
+
+## Réponse
+
+*Affaires étrangères, JO du 2002-05-02, page 1224*
+
+La France et ses partenaires européens sont sensibles à la question des atteintes et des entraves à la liberté religieuse au Tibet. Cette question est régulièrement évoquée avec les autorités chinoises dans le cadre du dialogue euro-chinois sur les droits de l'homme. Lors de la dernière session, qui s'est tenue à Pékin les 25 et 26 octobre 2001, la partie européenne a évoqué la destruction du campement bouddhiste de Serthar au Sichuan et la situation de son abbé. Une démarche européenne va être entreprise prochainement auprès des autorités chinoises concernant spécifiquement la liberté de religion. Enfin, la session du dialogue euro-chinois sur les droits de l'homme qui s'est tenue à Madrid les 5 et 6 mars a permis à l'Union de rappeler ses demandes concernant l'exercice sans entrave de la liberté de religion, en public et en privé, le respect de l'identité culturelle et religieuse au Tibet, l'arrêt dans cette région de la campagne dite " d'éducation patriotique " dans les monastères et le respect des droits de tous les prisonniers. L'Union européenne a incité à plusieurs reprises les autorités chinoises à donner rapidement une suite concrète à la demande d'invitation du rapporteur spécial sur l'intolérance religieuse, ainsi qu'à l'invitation faite au rapporteur spécial sur la torture. Le Gouvernement français soutient les mandats des rapporteurs spéciaux de la Commission des droits de l'homme. Il rappelle son attachement à l'indépendance d'action de ceux-ci, qui peuvent se saisir de toute information qu'ils jugent pertinente, de source officielle comme de source non gouvernementale, et enfin son souhait que chaque gouvernement coopère pleinement avec les mécanismes et institutions des Nations unies en matière de droits de l'homme.
