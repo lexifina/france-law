@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961118724
+
+- Question : [SEQ961118724](seq961118724.md) — Conséquences du nombre excessif de contrats emploi-solidarité dans la fonction publique
+
+## Réponse
+
+*Fonction publique, JO du 1997-01-30, page 297*
+
+Réponse. - Le Gouvernement est particulièrement attentif à la situation des personnes recrutées sur ces contrats emploi-solidarité et employées dans la fonction publique. S'agissant du recours à des contrats emploi-solidarité pour occuper des emplois permanents dans les services de l'Etat, il convient de mettre un terme à cette pratique qui contrevient à la réglementation en vigueur et notamment aux dispositions du quatrième alinéa de l'article L. 322-4-7 du code du travail qui exclut explicitement le recours aux contrats emploi-solidarité dans ces services. Par ailleurs, les agents sous contrats emploi-solidarité bénéficieront, dans le cadre de la mise en oeuvre du protocole d'accord sur la résorption de l'emploi précaire, signé avec six des sept organisations syndicales représentatives de fonctionnaires, d'une formation, notamment à la préparation aux concours d'accès à la fonction publique. Les crédits nécessaires pourront être, dans le secteur hospitalier, abondés par des crédits mutualisés de formation continue. Les établissements employeurs veilleront à leur donner de réelles possibilités d'insertion professionnelle, en particulier dans les entreprises ou organismes qui sont leurs partenaires. Dans cette perspective, le " tutorat " sera systématisé. Les obligations afférentes aux recrutements de contrats emploi-solidarité (tutorat, formation et insertion) seront rappelées à tous les employeurs. Toutes les instances paritaires et assimilées concernées seront systématiquement informées des conditions de recours à des agents sous contrats emploi-solidarité. En aucun cas ceux-ci ne pourront occuper des emplois correspondant à des besoins permanents.
