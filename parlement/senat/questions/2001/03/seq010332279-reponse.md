@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010332279
+
+- Question : [SEQ010332279](seq010332279.md) — Modernisation du système financier et comptable de l'Etat
+
+## Réponse
+
+*Économie, JO du 2001-06-07, page 1914*
+
+La présentation du compte général de l'administration des finances en 1999 avait constitué une étape importante dans l'action de modernisation de la comptabilité de l'Etat avec, notamment, l'inscription de provisions pour les créances fiscales, la présentation de la dette en droits constatés, ainsi qu'une meilleure approche du patrimoine immobilier et financier de l'Etat. Les travaux menés ont pour objectif de présenter les documents de synthèse (compte de résultat, bilan et annexe) tels qu'ils pourraient apparaître dans une comptabilité d'exercice en retraçant dès à présent toutes les informations disponibles. C'est ainsi qu'en 2000, les évolutions ont été poursuivies et élargies dans tous les domaines : immobilier - dotations et participations de l'Etat - rattachement des charges et produits à l'exercice (comme la TVA par exemple). Au-delà de ces ajustements, les méthodes comptables ont été modifiées chaque fois que les données nécessaires existaient, pour les aligner sur les normes de la comptabilité d'exercice. Tel fut le cas de la dette publique. Ces novations permettront à l'Etat de se doter d'un système d'information comptable et financier rénové. Les travaux se poursuivent en ce sens pour mettre en place aux côtés d'une comptabilité dite " de caisse " représentative de l'exécution budgétaire, une comptabilité d'exercice conforme aux principes généraux de la comptabilité et représentative de la situation patrimoniale de l'Etat. La proposition de loi organique relative aux lois de finances votée en première lecture par l'Assemblée nationale pose les bases d'une telle réforme.
