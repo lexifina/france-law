@@ -852,15 +852,15 @@ aérienne.
 
 |
 
-Techniciens des études et de l'exploitation de
+Techniciens supérieurs des études et de l'exploitation
 
-l'aviation civile.
+de l'aviation civile.
 
 |
 
-Techniciens des études et de l'exploitation de
+Techniciens supérieurs des études et de
 
-l'aviation civile.
+l'exploitation de l'aviation civile.
 
 |
 
