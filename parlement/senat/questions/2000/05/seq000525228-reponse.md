@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000525228
+
+- Question : [SEQ000525228](seq000525228.md) — Publication du décret précisant les conditions d'application des aides à finalité régionale
+
+## Réponse
+
+*Aménagement du territoire, JO du 2002-02-21, page 555*
+
+Le ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question concernant le décret relatif à la prime d'aménagement du territoire (PAT). A la demande de la commission européenne, le Gouvernement a dû récemment réformer les conditions d'éligibilité de la PAT, afin d'aboutir à une réduction de 3,6 millions d'habitants de la couverture de la population de ce zonage et de le rendre ainsi conforme aux nouvelles règles de concurrence communautaire en matière d'aide aux entreprises. Les règles d'application de la prime d'aménagement du territoire et les zones éligibles ont été modifiées par le décret n° 2001-312 du 11 avril 2001, publié au Journal officiel de la République française du 13 avril 2001. Le 6 juin 2001, ont été publié au Journal officiel de la République française les arrêtés fixant la composition du comité des aides à la localisation des activités (CIALA) et des conditions de constitution des dossiers de demande de PAT. Aujourd'hui, l'instruction des dossiers se fait à un rythme normal. Dans le cadre de ce nouveau régime, plusieurs zones d'emploi du département de l'Orne, dont celle du bassin d'Alençon, sont éligibles à la PAT " industrie " et bénéficie d'un taux d'aide de 17 % de l'investissement éligible, qui peut être majoré de 10 points bruts pour les aides aux petites et moyennes entreprises. Pour les zones qui étaient déjà éligibles, ce taux correspond à ce dont elles bénéficiaient jusqu'en 1999. Pour les zones nouvellement éligibles à la PAT " industrie ", dont celle du bassin d'Alençon, il a été décidé d'attribuer un taux d'aide correspondant au taux dit normal, soit 17 % de l'investissement éligible.
