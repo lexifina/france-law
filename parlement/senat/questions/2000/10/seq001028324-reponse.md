@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001028324
+
+- Question : [SEQ001028324](seq001028324.md) — Lutte contre la délinquance : institution d'un " couvre-feu " après minuit pour les enfants de moins de treize ans non accompagnés d'adultes
+
+## Réponse
+
+*Intérieur, JO du 2001-02-08, page 517*
+
+Réponse. - Au cours de la dernière période estivale, le maire de la commune d'Antibes a pris un arrêté municipal interdisant l'accès d'un secteur délimité de Juan-les-Pins, à partir de minuit, aux mineurs de moins de 13 ans non accompagnés d'adultes. Sur cette même période, la police nationale n'a enregistré que trois contrôles de mineurs qui ont été remis à leurs parents, dans le cadre des dispositions prévues en matière de protection de l'enfance. S'il n'apparaît pas souhaitable que des mineurs errent seuls la nuit dans les rues, il ne saurait pour autant être question d'inciter les maires à prendre par voie réglementaire des dispositions relatives à la surveillance et à l'éducation des enfants par substitution des parents. La loi a, en effet, confié à l'autorité judiciaire la protection de l'enfance et le soin de veiller au bons exercice, par les père et mère, de l'autorité parentale sur leurs enfants. Par ailleurs, les renforts saisonniers d'effectifs policiers affectés au cours de l'été dernier au commissariat d'Antibes ont contribué à la baisse de la criminalité observée par les services de police sur cette commune. Ils ont, en effet, permis d'accroître le nombre de patrouilles portées et pédestres sur les secteurs sensibles et d'améliorer le traitement de la petite délinquance. Ces renforts ont favorisé la mise en uvre des mesures décidées par les responsables de la police nationale, en partenariat avec la mairie d'Antibes, la sous-préfecture et le parquet de Grasse, dans le domaine de la prévention, de la dissuasion et de la répression.
