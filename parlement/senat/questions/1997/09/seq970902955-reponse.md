@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970902955
+
+- Question : [SEQ970902955](seq970902955.md) — Sécurité aux abords des silos
+
+## Réponse
+
+*Aménagement du territoire, JO du 1998-02-12, page 476*
+
+Réponse. - La question concernant la sécurité à proximité des silos à grains a retenu toute l'attention de la ministre de l'aménagement du territoire et de l'environnement. Les silos de stockage de céréales sont actuellement réglementés au titre de la législation sur les installations classées pour la protection de l'environnement par l'arrêté du 11 août 1983. Ce texte prévoit d'éloigner le centre d'activité du silo des installations occupées par des tiers, de mettre en place des dispositifs de sécurité permettant de limiter les effets d'une explosion et de réduire les émissions de poussière à l'intérieur des installations. Depuis le dernier trimestre 1996, une réflexion sur un projet de modification de cet arrêté a été engagée par les services du ministère et en concertation avec la profession au regard du retour d'expérience et de l'état des connaissances sur les nouvelles techniques. Cette réflexion devrait conduire à prendre, dès cette année, de nouvelles dispositions améliorant la sécurité des tiers telles que l'éloignement des bâtiments administratifs et des locaux sociaux de l'activité centrale du silo, à procéder à un contrôle renforcé du nettoyage des locaux et une limitation renforcée des poussières, notamment au niveau des postes de chargement/déchargement. Bien entendu, l'évolution réglementaire intégrera les enseignements qui pourront être tirés du très grave accident survenu à Blaye (Gironde) le 20 août 1997. Cet accident a néanmoins souligné la difficulté d'une mise en cohérence des dispositions appliquées aux installations existantes avec celles, évolutives, envisagées pour les installations futures.
