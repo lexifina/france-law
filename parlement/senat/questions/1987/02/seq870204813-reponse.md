@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870204813
+
+- Question : [SEQ870204813](seq870204813.md) — Réexamen des conditions d'application du plan ORSEC
+
+## Réponse
+
+*Intérieur, JO du 1987-05-14, page 764*
+
+Réponse. -Conformément aux dispositions de l'article L. 131-2 (6°) du code des communes, le maire est responsable de la distribution des secours. En cas d'empêchement ou d'impossibilité du maire (art. L. 131-13 du même code) ou de nécessité à faire face à une situation ou un événement calamiteux touchant plusieurs communes, le préfet dans le département peut déclencher le plan Orsec. Ce plan a été mis en oeuvre dans le département de l'Hérault les 14 et 15 janvier à la suite de la paralysie des voies de circulation, bloquant près de 4 000 automobilistes et routiers. En effet, dans la nuit du 14 et 15 janvier, sept centres d'hébergement ont été ouverts pour accueillir plus de 3 000 personnes, avec l'active participation des maires concernés. Des rapports quasi constants ont été établis entre les autorités préfectorales et les différentes cellules de crise mises en place dans les communes les plus importantes du département ainsi qu'avec la plupart des maires des communes de moindre importance. D'une façon générale, les services de l'Etat ont pour instruction permanente d'associer à la préparation et à la mise en oeuvre des plans de secours les collectivités territoriales dont les moyens en personnel et en matériel constituent une ressource précieuse pour les services de secours. Enfin, le projet de loi portant organisation de la sécurité civile, adopté par le conseil des ministres le 25 mars dernier et soumis au Parlement lors de l'actuelle session, propose de fixer les modalités de l'organisation des secours au travers des plans Orsec nationaux, zonaux, départementaux et des plans d'urgence. Les collectivités territoriales seront bien entendu associées à l'élaboration de cette nouvelle organisation.
