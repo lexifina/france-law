@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701691
+
+- Question : [SEQ970701691](seq970701691.md) — Consultation préalable à la constitution d'une ZAC commerciale, de la commission départementale d'équipement commercial
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 1997-08-28, page 2236*
+
+Réponse. - La circulaire no 75-55 du 11 avril 1975 prévoit que les commissions départementales d'équipement commercial sont consultées pour avis sur les projets de création de zones d'aménagement concerté, dès lors que les surfaces commerciales envisagées dépassent les seuils prévus à l'article 29 de la loi du 27 décembre 1973 modifiée d'orientation du commerce et de l'artisanat. Cette procédure a été peu utilisée pour deux raisons : soit la commission départementale d'équipement commercial n'étant, dans bien des cas, pas constituée au moment où le projet de ZAC est envisagé, en pratique c'est donc le secrétariat de la commission départementale, à savoir la préfecture, qui est consulté ; soit la commission départementale d'équipement commercial étant effectivement constitutuée, l'avis qu'elle rend au moment de la constitution de la ZAC ne lie pas la commission départementale d'équipement commercial, qui sera appelée à statuer sur les demandes d'autorisation de création de magasins de commerce de détail dans ladite ZAC. L'orientation suggérée dans la question, qui vise à améliorer la procédure de consultation de la commission départementale d'équipement commercial en amont de l'élaboration d'un projet de création d'une zone d'aménagement concerté à dominante commerciale, paraît mériter un examen attentif. La mise en oeuvre effective des schémas de développement commercial dont la création est prévue par l'article 28 de la loi du 27 décembre 1973, modifiée en dernier lieu par la loi du 5 juillet 1996 relative au développement et à la promotion du commerce et de l'artisanat, permettra de faire un point précis des imperfections du dispositif.
