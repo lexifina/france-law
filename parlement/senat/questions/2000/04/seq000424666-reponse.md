@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000424666
+
+- Question : [SEQ000424666](seq000424666.md) — Avenir du plateau d'Albion
+
+## Réponse
+
+*Défense, JO du 2000-07-13, page 2495*
+
+Réponse. - La dissuasion nucléaire, élément fondamental de la stratégie de défense de notre pays, repose désormais sur les composantes sous-marine et aéroportée. C'est dans ce cadre que la dissolution de la base aérienne 200 et du 1er groupement de missiles stratégiques du plateau d'Albion a été décidée. L'arrêt de la mission opérationnelle du système d'arme sol-sol balistique stratégique est effectif depuis le 16 septembre 1996, date à laquelle les missiles ont été retirés des silos. Toutes les têtes nucléaires ont été désassemblées des corps de missiles, et les sous-ensembles ont été expédiés dans les divers centres spécialisés du commissariat à l'énergie atomique pour démantèlement. L'ensemble des matières sensibles (nucléaires et pyrotechniques) a quitté le site d'Albion en avril 1998. Le 2e régiment étranger du génie de la légion étrangère s'est installé sur site. Rattaché à la 27e brigade d'infanterie de montagne, sa vocation est d'apporter l'appui à la mobilité aux formations de cette brigade (déminage, ouverture et rétablissement d'itinéraires, organisation du terrain...). Structuré pour répondre aux missions particulières de la brigade d'infanterie de montagne, il est appelé à participer aux opérations extérieures au même titre que les autres régiments de génie des forces. En 2002, ses effectifs seront composés de 855 militaires et de 16 civils. En outre, une compagnie cynophile appartenant au 132e bataillon cynophile est également stationnée sur le site d'Albion. Cette unité prépare et entraîne les équipes cynophiles aux diverses missions de sécurité susceptibles de leur être confiées à l'occasion d'opérations de projection.
