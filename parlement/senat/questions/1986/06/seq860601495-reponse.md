@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860601495
+
+- Question : [SEQ860601495](seq860601495.md) — Sécurité sociale: harmonisation entre les régimes
+
+## Réponse
+
+*Commerce et artisanat, JO du 1986-08-14, page 1166*
+
+Réponse. -L'harmonisation avec le régime général du régime d'assurance maladie des artisans et commerçants prévue par la loi d'orientation du 27 décembre 1973 s'est poursuivie régulièrement depuis l'entrée en vigueur de cette loi. Il convient de préciser à l'honorable parlementaire que la loi en question avait posé le principe d'une harmonisation et non celui de l'alignement. A l'heure actuelle, la couverture sociale des travailleurs indépendants en matière d'assurance maladie est très proche pour les prestations en nature de celle dont bénéficient les salariés, s'agissant notamment de la couverture du " gros risque ", c'est-à-dire des dépenses entraînées par les maladies longues et coûteuses et les frais de maternité ou d'hospitalisation. Seule la prise en charge des soins courants n'a pas connu la même évolution, le remboursement des frais médicaux ou pharmaceutiques dits " de petit risque " s'effectuant à un taux différent de celui du régime général et lerégime des non-salariés ne versant pas d'indemnités journalières en cas d'arrêt de travail pour maladie ou accident. Il est rappelé à l'honorable parlementaire que le montant des prestations est en relation étroite avec celui des cotisations. Une amélioration du taux des remboursements ou la mise en place d'un système d'indemnités journalières ne pourraient intervenir qu'en étroite concertation avec les représentants élus des professionnels. Or, actuellement une telle réforme se heurte aux divergences d'appréciation exprimées par les représentants des différents groupes profesionnels gestionnaires du régime d'assurance maladie et maternité des travailleurs indépendants à cause de l'augmentation des charges de cotisation qui en résulterait pour les assurés.
