@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871108749
+
+- Question : [SEQ871108749](seq871108749.md) — Développement des campagnes de vaccinations l'égard des adultes
+
+## Réponse
+
+*Santé et famille, JO du 1988-04-07, page 476*
+
+Réponse. -Ainsi que le souligne l'honorable parlementaire, la couverture vaccinale des adultes n'est pas encore suffisante. Selon une enquête de la Caisse nationale d'assurance maladie des travailleurs salariés, seulement 63 p. 100 des hommes et 54 p. 100 des femmes sont à jour de leur vaccination antitétanique : c'est pourquoi le ministère chargé de la santé délègue, chaque année, des crédits aux directions départementales des affaires sanitaires et sociales, afin de renforcer la couverture immunitaire des populations à risques, notamment des personnes âgées. En ce qui concerne la grippe, la vaccination est essentiellement indiquée chez les sujets âgés : la couverture vaccinale est de 60 p. 100 chez les plus de soixante-quinze ans, et de 43 p. 100 chez les plus de soixante-cinq ans. La vaccination anti-grippale est remboursée chez les plus de soixante-quinze ans, par la Caisse nationale d'assurance maladie, qui assure également une information sur cette prévention ; par ailleurs, le groupe d'étude et d'information sur la grippe organise régulièrement des journées d'informations auxquelles participe le ministre chargé de la santé. Concernant la rubéole, une information a été effectuée par le ministère chargé de la santé, auprès des sages-femmes, sur l'intérêt de la vaccination des femmes séro-négatives après l'accouchement. La vaccination contre l'hépatite B n'est indiquée que chez les sujets à risques, notamment le personnel hospitalier exposé, pour lequel elle a été fortement recommandée par circulaire du 15 juin 1982. En ce qui concerne la vaccination pneumococcique, une réflexion sur ses indications a été engagée par le comité technique des vaccinations.
