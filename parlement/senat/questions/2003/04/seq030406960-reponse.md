@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030406960
+
+- Question : [SEQ030406960](seq030406960.md) — Mise en oeuvre du délit de prise illégale d'intérêt
+
+## Réponse
+
+*Justice, JO du 2003-09-04, page 2745*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que, conformément aux articles 40 et 41, alinéa 1, du code de procédure pénale, le procureur de la République peut toujours ordonner une enquête sur des faits de prise illégale d'intérêt qui auraient été portés à sa connaissance. Il importe peu à cet égard que la personne signalant l'existence de tels faits au procureur de la République ne puisse justifier d'un intérêt direct. En effet, le ministère public qui a, au premier chef, la charge du respect de la loi pénale et de l'intérêt général, exerce l'action publique avec détermination lorsque des faits constitutifs d'infractions pénales sont portés à sa connaissance. En revanche, un juge d'instruction ne saurait, en vertu de l'article 80 du code de procédure pénale, s'autosaisir de faits de prise illégale d'intérêt. En effet, et conformément au droit commun, un juge d'instruction ne peut informer qu'en vertu d'un réquisitoire du procureur de la République ou d'une plainte avec constitution de partie civile. À cet égard, si la chambre criminelle de la Cour de cassation a pu juger que les contribuables d'une commune ne pouvaient être admis à se constituer partie civile faute de pouvoir justifier d'un préjudice personnel et direct (Cass., crim., 10 juin 1970, Bull. n° 193), il convient de noter qu'ils peuvent néanmoins être admis à exercer l'action que possède la commune elle-même, après autorisation du tribunal administratif, lorsque la commune, appelée à en délibérer, a refusé ou négligé d'exercer elle-même l'action qui lui appartient et ce, en vertu de l'article L. 2132-5 du code général des collectivités territoriales (Cass., crim., 3 janvier 1985, Bull. n° 1).
