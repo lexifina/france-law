@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950209650
+
+- Question : [SEQ950209650](seq950209650.md) — Rapport sur l'évolution du thermalisme
+
+## Réponse
+
+*Santé, JO du 1995-04-13, page 905*
+
+Réponse. - Après étude des propositions contenues dans le rapport de la mission présidée par le docteur Ebrard, le ministre d'Etat, ministre des affaires sociales de la santé et de la ville et le ministre délégué à la santé ont arrêté ensemble des mesures destinées à conforter la situation du thermalisme aux plans scientifique, économique et social. Ainsi seront renforcées les études d'évaluation scientifique des activités thermales par un développement des bases méthodologiques et des actions de formation du corps médical à l'enseignement de l'hydrologie médicale. Les mesures nécessaires seront étudiées en liaison avec le ministère de l'enseignement supérieur et de la recherche et l'Inserm. Par ailleurs, il est décidé d'étudier l'assujetissement des établissements thermaux à une procédure d'autorisation et, afin de mieux garantir le strict respect des règles d'hygiène et de sécurité sanitaire, de revoir les réglementations concernant l'eau minérale naturelle (autorisation de captage, déclaration d'intérêt public et périmètre de protection) et le fonctionnement des établissements thermaux. Enfin, le principe du remboursement des cures thermales par la sécurité sociale ne sera pas remis en cause. Une action progressive de forfaitisation et d'harmonisation des tarifs de prise en charge des cures thermales par l'assurance maladie est engagée. Les ministres ont décidé également de réexaminer l'obligation d'entente préalable avant la prise en charge. Les modalités en seront fixées avec la caisse nationale d'assurance maladie des travailleurs salariés dans le cadre d'une procédure établie à partir des propositions de la mission sur le thermalisme.
