@@ -1,0 +1,9 @@
+# Réponse à la question SEQ041014336
+
+- Question : [SEQ041014336](seq041014336.md) — Influence des normes de construction sur l'asthme
+
+## Réponse
+
+*Logement, JO du 2005-02-17, page 489*
+
+Conscient des problèmes liés à la qualité de l'air dans les logements, le Gouvernement a établi un plan national santé environnement (PNSE) afin de franchir une nouvelle étape dans la prévention des risques sanitaires liés à l'environnement. Ce plan établit un diagnostic de l'exposition des Français aux pollutions environnementales dans leur vie quotidienne et recommande des priorités d'action, dont la protection de la population aux pollutions à l'intérieur des locaux. Il prévoit par ailleurs la mise au point d'une méthodologie globale d'évaluation des impacts sanitaires et environnementaux des substances émises par les produits et matériaux de construction, fondée sur la définition des valeurs de référence. Cette méthodologie sera précisée et appliquée dans un premier temps aux émissions de composés organiques volatils (COV) et de formaldéhyde. Afin de permettre d'évaluer l'exposition des personnes dans leur environnement intérieur et d'en identifier les principales sources en vue d'élaborer des mesures de prévention et de réduction des risques sanitaires, le ministère délégué au logement et à la ville, le ministère de la santé, l'agence de l'environnement et de la maîtrise de l'énergie (ADEME) et le centre scientifique et technique du bâtiment (CSTB) se sont associés pour mener une recherche dans le cadre de l'observatoire de la qualité de l'air intérieur qui porte sur l'analyse des polluants dans un échantillon de 700 logements. Les résultats seront disponibles au second semestre 2005. Ces actions permettront d'augmenter les connaissances dans ce domaine et d'envisager, si nécessaire, la détermination de seuils de polluants.
