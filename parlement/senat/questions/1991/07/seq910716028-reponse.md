@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910716028
+
+- Question : [SEQ910716028](seq910716028.md) — Réexamen de la carte des juridictions commerciales du Pas-de-Calais
+
+## Réponse
+
+*Justice, JO du 1991-10-10, page 2236*
+
+Réponse. - Il n'est pas envisagé à l'heure actuelle de procéder à des modifications de la carte des tribunaux de commerce qui se traduiraient soit par des regroupements de juridictions, soit par des créations. En conséquence, aucun projet de modification des implantations des tribunaux de commerce d'Arras, Boulogne-sur-Mer, Calais et Saint-Omer n'est actuellement envisagé. De plus, la création éventuelle d'un tribunal de commerce dans le ressort du tribunal de grande instance de Béthune aurait un coût financier non négligeable en raison des dépenses supplémentaires liées à l'équipement et au fonctionnement de cette nouvelle juridiction. Il convient de préciser que la chancellerie s'attache en priorité à améliorer l'état du parc immobilier des juridictions du Pas-de-Calais, qui est déjà l'un des plus importants de France puisqu'il doit notamment abriter quatre tribunaux de grande instance, onze tribunaux d'instance, sept conseils de prud'hommes et quatre tribunaux de commerce. Les schémas directeurs ayant pour objet de programmer et de planifier les opérations immobilières sont élaborés dans un certain nombre de départements particulièrement prioritaires parmi lesquels figure le département du Pas-de-Calais. Les études de schémas directeurs prendront bien entendu en compte les propositions formulées par les collectivités territoriales. C'est seulement à l'issue de ces réflexions, dont les résultats seront connus en principe à la fin du premier semestre 1992 pour le Pas-de-Calais, qu'il sera possible de formuler un avis définitif sur les projets d'équipement intéressant les juridictions du département et que pourront être examinées d'éventuelles adaptations de la carte des juridictions consulaires.
