@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911017979
+
+- Question : [SEQ911017979](seq911017979.md) — Fonction publique et cumul d'activités
+
+## Réponse
+
+*Fonction publique, JO du 1991-12-26, page 2928*
+
+Réponse. - L'article 25 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires énonce effectivement l'interdiction " d'exercer à titre professionnel une activité privée lucrative de quelque nature que ce soit ", qui s'impose aux fonctionnaires. Les dérogations à cette interdiction générale sont énumérées de façon limitative par le décret-loi du 29 octobre 1936 (art. 3). Cependant, il faut rappeler que les agents autorisés à exercer leur activité à temps partiel ne peuvent bénéficier de certaines dérogations prévues par le décret-loi de 1936. Ainsi, toute possibilité de cumul d'activités leur est interdite, exceptée la production d'oeuvres littéraires, artistiques ou scientifiques. Cette disposition plus restrictive figure à l'article 39 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat, ainsi qu'à l'article 7 de l'ordonnance n° 82-296 du 31 mars 1982 relative à l'exercice de fonctions à temps partiel par les fonctionnaires (...). Elle confirme l'intention du législateur de favoriser, par le système de l'activité à temps partiel, le recrutement de personnel parmi les demandeurs d'emploi, dans un contexte économique difficile sur le marché du travail, et non pas d'encourager le cumul d'activités au profit des agents déjà titulaires d'un emploi. Par ailleurs, la qualité de gérant d'une société fait encourir à l'intéressé le risque de déchéance des droits civiques prévue par la loi n° 67-563 du 13 juillet 1967 modifiée sur la faillite ; cette déchéance est dans tous les cas incompatible avec la qualité de fonctionnaire. Il est donc impossible de cumuler une activité publique avec la fonction de gérant d'une S.A.R.L.
