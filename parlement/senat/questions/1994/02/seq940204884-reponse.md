@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940204884
+
+- Question : [SEQ940204884](seq940204884.md) — Caisse maladie régionale de Bourgogne
+
+## Réponse
+
+*Affaires sociales, JO du 1994-10-06, page 2391*
+
+Réponse. - Le Gouvernement est très conscient des problèmes posés aux régimes de non-salariés par les voies de fait perpétrées par des mouvements qui portent atteinte à l'ordre public et au fonctionnement du service public que sont chargées d'assurer les caisses de sécurité sociale. Il condamne ces agissements sans ambiguïté et de la façon la plus ferme. Certains adhérents de la Confédération de défense des commerçants et artisans (CDCA) débiteurs de cotisations envers les régimes de sécurité sociale obligatoires d'assurance maladie et d'assurance vieillesse souscrivent des contrats d'assurance privés facultatifs se substituant auxdits régimes. De tels contrats sont entachés d'une nullité d'ordre public aux termes de l'article L. 652-4 du code de la sécurité sociale. Les personnes proposant ou souscrivant lesdits contrats sont passibles de la peine d'amende applicables aux contraventions de la cinquième classe conformément à l'article R. 652-1 du code précité. Le Gouvernement a été amené à prendre également des mesures à l'encontre des professionnels non salariés qui refusent de cotiser aux régimes obligatoires de sécurité sociale. Ce dispositif prévoit outre l'inéligibilité des personnes incitant au non-paiement des cotisations aux chambres consulaires et aux conseils d'administration des organismes, la possibilité pour les caisses de faire opposition à tiers détenteur sur leurs comptes financiers. Des consignes de grande fermeté ont été données aux préfets et aux procureurs afin de mettre un terme à la contestation de la CDCA qui met en péril l'équilibre financier des régimes, la sécurité des organismes et des personnes en Bourgogne comme dans d'autres régions de France.
