@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930701822
+
+- Question : [SEQ930701822](seq930701822.md) — Réforme de la formation initiale des fonctionnaires territoriaux
+
+## Réponse
+
+*Aménagement du territoire, JO du 1993-09-09, page 1583*
+
+Réponse. - La loi n° 84-594 du 12 juillet 1984 relative à la formation des agents de la fonction publique territoriale et complétant la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale prévoit dans son article 3 que la titularisation dans la fonction publique territoriale ainsi que l'accès à un nouveau cadre d'emplois, à un nouveau corps, à un nouvel emploi ou à un nouveau grade d'un fonctionnaire titulaire peuvent être subordonnés à l'accomplissement d'une obligation de formation dans les conditions prévues par chaque statut particulier. Dans le rapport d'information fait au nom du Sénat sur le déroulement et la mise en oeuvre de la politique de décentralisation au procès-verbal de la séance du 27 mars 1991, le problème de l'inadaptation de la formation des fonctionnaires territoriaux et notamment, la désorganisation des services pendant la durée de la formation pour les collectivités territoriales employeurs ont été soulignés, cette situation risquant en outre de constituer un frein au recrutement et une incitation à l'embauche de contractuels. Des réflexions sont actuellement en cours, pour répondre à ces préoccupations. Lors du conseil supérieur de la fonction publique territoriale, le 1er juillet dernier, le Gouvernement a exprimé sa volonté, dans le respect des principes du statut de la fonction publique, marqués par la notion de déroulement de la carrière, mais également en prenant en compte les besoins particuliers des employeurs locaux, d'aboutir à des propositions d'amélioration des conditions d'accès, de la formation initiale et du déroulement de carrière des fonctionnaires territoriaux, après une large concertation.
