@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960917477
+
+- Question : [SEQ960917477](seq960917477.md) — Machines dans les lycées technologiques et professionnels
+
+## Réponse
+
+*Éducation, JO du 1996-11-07, page 2904*
+
+Réponse. - L'état du parc des machines-outils installées dans les ateliers des lycées technologiques et professionnels n'est pas une préoccupation nouvelle du ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche. En effet, bien avant l'installation en juillet 1995 de l'Observatoire national de la sécurité des établissements scolaires, une enquête approfondie avait été conduite par la direction des lycées et collèges, en 1991, auprès des lycées professionnels concernés. La prise en compte des contraintes liées à la sécurité était dès lors engagée. Il convient, toutefois, de rappeler que, même si l'Etat a engagé des crédits au début du lancement de l'opération, c'est aux collectivités régionales qu'incombent la responsabilité juridique et la charge financière évaluée, par l'Observatoire national, à deux milliards de francs environ. Aussi, tant par l'ampleur des moyens à mobiliser que par l'examen du plan de charge des entreprises ayant la capacité technique à opérer cette mise aux normes, la date du 1er janvier 1997, fixée par le décret du 11 janvier 1993, risque-t-elle de ne pas être respectée sur la totalité du territoire. Il appartiendra alors aux chefs d'établissement, toujours dans le souci de préserver au mieux la sécurité des élèves, de recourir aux dispositions réglementaires - décret no 85-294 modifié, rappelé au Bulletin officiel de l'éducation nationale no 12 du 21 mars 1996 - et d'envisager, en liaison avec les autorités administratives compétentes, l'interdiction d'utiliser telle ou telle machine, en attendant que celle-ci soit réformée, ou remplacée, ou remise aux normes de sécurité.
