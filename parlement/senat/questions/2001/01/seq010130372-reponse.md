@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010130372
+
+- Question : [SEQ010130372](seq010130372.md) — Situation des entreprises françaises au Tchad
+
+## Réponse
+
+*Affaires étrangères, JO du 2001-02-22, page 646*
+
+Réponse. - Les entreprises françaises installées au Tchad font face à un environnement administratif difficile. Le ministère des affaires étrangères s'efforce de sensibiliser les autorités à la nécessité d'une stabilité accrue du cadre juridique et fiscal des investisseurs. L'ambassade de France à Ndjamena, à travers son service de coopération et d'action culturelle, est l'interlocuteur quotidien des opérateurs. Leur situation est suivie, en outre, par le service commercial de l'ambassade de France à Yaoundé, qui réalise une visite par trimestre à Ndjamena. Enfin, les conseillers du commerce extérieur de la France à Ndjamena s'efforcent de faciliter les relations avec l'administration locale. Les démarches réalisées en faveur d'un environnement administratif meilleur s'inscrivent dans un contexte qui ne leur est pas nécessairement favorable : les autorités sont soumises aux contraintes budgétaires du programme d'ajustement triennal signé avec le FMI en janvier 2000 ; la plupart de nos entreprises envisagent, en dépit des difficultés administratives et fiscales, de se maintenir au Tchad au moins pour la durée des travaux relatifs à l'exploitation et à l'écoulement du pétrole du sud. Ce contexte pourrait évoluer à moyen terme si le Tchad remplit les conditions d'un passage pour la première étape (dite " point de décision ") de l'initiative pour les pays pauvres très endettés (PPTE), ce qui allégerait sa contrainte budgétaire. Par ailleurs, l'exploitation du pétrole, attendue en 2003, pourrait contribuer à la baisse du prix du carburant, à l'élargissement de l'assiette fiscale, voire à la rationalisation des méthodes administratives au Tchad.
