@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960214117
+
+- Question : [SEQ960214117](seq960214117.md) — Français expatriés au Niger et suspension de la coopération civile et militaire
+
+## Réponse
+
+*Affaires étrangères, JO du 1996-04-11, page 865*
+
+Réponse. - Les événements survenus le 27 janvier dernier au Niger ont conduit les autorités françaises à rapatrier quelques coopérants le 13 février. Toutes précautions ont été prises au préalable pour que le retour de ceux-ci n'ait aucun effet préjudiciable sur leur carrière. La France a accompagné depuis lors par des gestes positifs les mesures prises et les progrès accomplis en vue d'un retour à l'ordre constitutionnel : réception le 6 février d'une mission d'explication nigérienne après la libération des personnalités politiques qui avaient été arrêtées ; reconnaissance du caractère positif de l'annonce d'un programme de retour à une vie constitutionnelle normale et de l'adhésion des anciens dirigeants à ce programme. Un gouvernement civil représentant les principales tendances de la vie politique nigérienne a été nommé début février et le calendrier du retour à la vie constitutionnelle a été, dès le 17 février, raccourci de trois mois pour s'achever à la fin du mois de septembre. Après cette annonce, la France a décidé la reprise de la quasi-totalité de sa coopération hormis l'aide budgétaire. La plupart de nos coopérants ont repris leurs activités (aide humanitaire, enseignement...), la coopération à caractère humanitaire n'ayant, quant à elle, jamais cessé. La France s'emploie à inciter les nouvelles autorités de Niamey à accélérer autant que faire se peut le calendrier de retour à une vie constitutionnelle normale afin de faciliter la reprise, dès que possible, de l'aide financière internationale au Niger. La communauté française dans son ensemble ne semble pas avoir connu de difficultés particulières du fait de ces circonstances.
