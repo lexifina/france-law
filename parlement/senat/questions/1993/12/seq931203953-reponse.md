@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931203953
+
+- Question : [SEQ931203953](seq931203953.md) — Congés de représentation des membres titulaires des commissions locales d'insertion
+
+## Réponse
+
+*Affaires sociales, JO du 1994-05-12, page 1150*
+
+Réponse. - Le mouvement associatif témoigne du sens civique et de la solidarité agissante qui anime nos concitoyens et que traduit l'action de plusieurs millions de bénévoles que les associations mobilisent au service de l'intérêt général. Le ministre d'Etat, ministre des affaires sociales, de la santé et de la ville reconnaît la place éminente des associations dans la vie du pays et la part importante qu'elles prennent souvent dans la mise en oeuvre des politiques publiques dans beaucoup de domaines ainsi que dans la gestion de nombreux services publics. Le congé représentation instauré par la loi no 91-772 du 7 août 1991 renforce la vie associative en ouvrant la possibilité aux salariés qui sont bénévoles dans une association déclarée ou une mutuelle, d'exercer leurs responsabilités associatives en harmonie avec leur vie professionnelle et la bonne marche de l'entreprise. L'article 1er de la loi précitée stipule que le congé représentation concerne les salariés désignés comme représentants d'une association ou d'une mutuelle dans une instance consultative ou non, instituée par une disposition législative ou réglementaire auprès d'une autorité de l'Etat à l'échelon national, régional ou départemental. Il apparaît donc que les commissions locales d'insertion n'entrent pas dans le champ d'application de la loi. Les conseils départementaux d'insertion et leurs bureaux figurent quant à eux parmi les instances visées par l'article 1er de la loi du 7 août 1991. Dans l'état actuel de la législation, il n'apparaît donc pas possible d'intervenir auprès de l'UCANSS. Une réflexion est en cours pour examiner la pertinence de l'extension du dispositif de la loi du 7 août 1991 aux membres des CLI.
