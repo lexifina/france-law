@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960716734
+
+- Question : [SEQ960716734](seq960716734.md) — Reclassement des secrétaires médico-sociales chefs dans le cadre d'emplois territoriaux
+
+## Réponse
+
+*Fonction publique, JO du 1996-09-19, page 2423*
+
+Réponse. - Les secrétaires médico-sociaux en chef sont soumis aux dispositions prévues par les articles 25 et 26 du décret no 95-25 du 10 janvier 1995 portant statut particulier du cadre d'emplois des rédacteurs territoriaux. En application de l'article 25, au 1er août 1994, un quart des fonctionnaires territoriaux titulaires à cette date du grade de rédacteur-chef et un quart des fonctionnaires territoriaux titulaires à cette même date du grade de secrétaire médico-social en chef ont été intégrés, après inscription sur une liste d'aptitude et avis de la commission administrative paritaire, au grade de rédacteur-chef dans les conditions fixées par ce même article. Par ailleurs, en application de l'article 26, un grade provisoire de rédacteur-chef a été créé pour la période comprise entre le 1er août 1995 et le 31 décembre 1996, afin d'y intégrer les rédacteurs-chefs et les secrétaires médico-sociaux en chef qui n'ont pas bénéficié des dispositions prévues par l'article 25. Les fonctionnaires appartenant à ce grade provisoire sont ensuite reclassés par tranches successives au 1er août 1995, au 1er août 1996 et au 1er janvier 1997 dans le nouveau grade de rédacteur-chef, selon les mêmes modalités que celles appliquées aux agents directement intégrés dasn ce nouveau grade, c'est-à-dire conformément à l'article 25 précité. Le principe du reclassement des agents du troisième grade en tranches annuelles successives était inclus dans le protocole d'accord du 9 février 1990 sur la rénovation de la grille des classifications et des rémunérations des trois fonctions publiques, que le Gouvernement a entendu respecter.
