@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971205239
+
+- Question : [SEQ971205239](seq971205239.md) — Régularisation des étrangers séjournant sur notre sol
+
+## Réponse
+
+*Intérieur, JO du 1998-03-12, page 847*
+
+Réponse. - Le champ d'application de la circulaire du 24 juin 1997 relative au réexamen de la situation de certaines catégories d'étrangers en situation irrégulière est limité, en principe, aux étrangers présents sur le sol français. Ceux d'entre eux qui ont fait l'objet de décision de reconduite à la frontière antérieurement à la publication de cette circulaire ne peuvent donc en réclamer le bénéfice. Il peut se faire, cependant, que des étrangers rentrés dans leur pays d'origine reçoivent une convocation de la part de la préfecture dont ils relevaient avant leur départ. S'il n'est pas possible, dans ce cas, de délivrer un visa de court séjour, la convocation reçue n'apportant aucune garantie quant à la suite susceptible d'être réservée à la demande présentée, il paraît difficile de refuser aux intéressés de voir leur dossier examiné par les services compétents. Pour résoudre cette difficulté, il est prévu, en accord avec le ministère des affaires étrangères, de retenir la procédure suivante. Les étrangers seront autorisés à constituer un dossier de régularisation et à le transmettre directement à la préfecture dès lors qu'ils auront reçu une convocation à l'étranger. Si des renseignements complémentaires apparaissent nécessaires, les services préfectoraux pourront demander au poste consulaire compétent de procéder à l'audition de l'intéressé. Le poste consulaire adressera alors les éléments recueillis à la préfecture qui poursuivra l'instruction du dossier afin de prendre une décision définitive. En cas de décision négative, la notification sera effectuée par la préfecture, par voie postale, avec copie au consulat. En cas de décision positive, le poste consulaire, informé directement par la préfecture, pourra délivrer le visa sollicité.
