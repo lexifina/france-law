@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910716119
+
+- Question : [SEQ910716119](seq910716119.md) — Droit à réparation et appareillage des invalides de guerre
+
+## Réponse
+
+*Anciens combattants, JO du 1991-11-07, page 2470*
+
+Réponse. - Les conditions de prise en charge des articles de prothèse et d'orthopédie sont fixées par une réglementation interministérielle qui s'applique tant aux mutilés de guerre qu'aux assurés sociaux. Le secrétariat d'Etat aux anciens combattants et victimes de guerre est très attaché au respect du droit de ses ressortissants. A ce titre, il participe, dans le cadre de la Commission consultative des prestations sanitaires (C.C.P.S.), à l'étude d'une demande de revalorisation du grand appareillage présentée par l'Union française des orthoprothésistes (l'U.F.O.P.). D'ores et déjà ses représentants ont validé la partie technique du dossier de revalorisation. La négociation se poursuit activement entre toutes les parties pour aboutir à un accord sur les valeurs de référence des différents éléments qui seront retenues pour déterminer les nouveaux prix de revient. L'attention toute particulière que porte le secrétaire d'Etat à l'aboutissement de ce dossier, aux finsde garantir aux mutilés de guerre une prise en charge qui demeure conforme aux exigences de sa législation spécifique, s'est récemment traduite par une intervention en ce sens auprès du ministre des affaires sociales. Dans l'hypothèse d'une issue non satisfaisante, le secrétariat d'Etat pourrait être conduit à remettre en cause sa place au sein de l'instance interministérielle qui propose la tarification de l'appareillage. Enfin, en ce qui concerne les médicaments, ceux-ci ne sont pas pris en charge selon les tarifs du T.I.P.S. puisqu'ils n'y figurent pas, mais à concurrence du taux de 100 p. 100 des tarifs de responsabilité du régime général de la sécurité sociale qui coïncident avec leur prix de vente.
