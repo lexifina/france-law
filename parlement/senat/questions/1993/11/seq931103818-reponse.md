@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931103818
+
+- Question : [SEQ931103818](seq931103818.md) — Contrats d'insertion des jeunes dans la vie professionnelle
+
+## Réponse
+
+*Travail, JO du 1994-02-03, page 260*
+
+Réponse. - L'honorable parlementaire a attiré l'attention de M. le ministre du travail, de l'emploi et de la formation professionnelle sur les difficultés d'accès à l'emploi rencontrées par les jeunes et la nécessité d'engager une campagne de communication afin de mieux faire connaître des chefs d'entreprise les mesures destinées à faciliter l'insertion des jeunes. Les aides financières à l'embauche de jeunes instaurées dans le cadre des mesures d'urgence pour l'emploi (loi no 93-953 du 27 juillet 1993) ont fait l'objet d'une importante campagne de communication au plan national, relayée dans les départements. En outre, un fonctionnaire particulier a été désigné dans chaque direction départementale du travail, de l'emploi et de la formation professionnelle pour répondre aux questions des employeurs. Ces aides attachées à la conclusion de contrats d'apprentissage, d'orientation, d'adaptation et de qualification sont en vigueur jusqu'au 30 juin 1994. Ces formules seront complétées par le contrat d'insertion professionnelle, créé par la loi quinquennale relative au travail, à l'emploi et à la formation professionnelle et qui remplacera les contrats d'orientation et d'adaptation à partir du 1er juillet 1994. Quant aux contrats d'apprentissage et de qualification, ils devraient être harmonisés dans le cadre d'une concertation approfondie avec les partenaires sociaux et les régions, au cours des premiers mois de 1994. L'ensemble de ces mesures de simplification et d'amélioration des dispositifs existants feront bien entendu l'objet d'une information systématique des entreprises, mais également des jeunes, afin de relancer vigoureusement leur intérêt pour ce type de contrats en alternance.
