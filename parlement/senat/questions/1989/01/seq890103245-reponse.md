@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890103245
+
+- Question : [SEQ890103245](seq890103245.md) — Marquage à la pompe du carburant contenant de l'éthanol
+
+## Réponse
+
+*Premier ministre, JO du 1989-04-27, page 664*
+
+Réponse. - L'essence sans plomb devra être disponible sur l'ensemble du territoire à partir du 1er octobre 1989, comme dans l'ensemble des pays de la Communauté européenne. Le Gouvernement est attaché à créer les conditions favorables au respect de cette réglementation. Tout d'abord, l'emploi des composés oxygénés qui contribuent à maintenir l'indice d'octane en l'absence de plomb a été facilité : l'arrêté du 16 septembre 1987 autorise l'incorporation d'éthanol dans l'essence jusqu'à 5 p. 100 sans cosolvant ; une taxation réduite est appliquée à l'éthanol d'origine agricole incorporé dans les carburants. Ainsi, se trouve compensée une partie de son surcoût de production. Plus de 600 pompes nouvelles délivrent ainsi de l'essence sans plomb depuis l'été 1988. Ce chiffre devrait dépasser 3 000 cette année. Dans le cas du méthanol et de l'éthanol, en raison de leur spécificité et la nouveauté de leur utilisation, le consommateur est averti de leur présence dansle carburant délivré. La suppression de cette disposition n'est pas envisagée dans l'immédiat. Toutefois, pour mieux connaître les produits faisant l'objet de cette obligation de marquage, des études techniques sont en cours en France et au sein des comités d'experts de la Commission des Communautés européennes. Par ailleurs, le ministre de l'agriculture et de la forêt poursuit son action auprès de la Commission des Communautés européennes pour favoriser l'usage des matières premières agricoles pour la fabrication d'éthanol. Parallèlement, ces diverses mesures doivent être confortées par les efforts visant à réduire le coût de production de l'éthanol, le Gouvernement souhaitant soutenir les perspectives nouvelles qui sont ainsi offertes pour l'agriculture.
