@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900208559
+
+- Question : [SEQ900208559](seq900208559.md) — Français résidant en Chine du Sud, protection contre les risques sismiques
+
+## Réponse
+
+*Affaires étrangères, JO du 1990-04-12, page 771*
+
+Réponse. - Afin de préserver la sécurité de nos ressortissants en cas de crise ou de catastrophe naturelle, nos représentations à l'étranger disposent de plans de sécurité et d'évacuation, régulièrement tenus à jour, qui prévoient la mise en place de moyens adaptés aux événements. En ce qui concerne la protection de notre communauté en Chine du Sud et à Hong-kong, l'éventualité d'un séisme a, bien entendu, été envisagée. Dans cette hypothèse, nos représentations à Pékin et à Hong-kong organiseraient, en liaison avec le bureau commercial français à Canton, l'évacuation de nos compatriotes et notamment celle des 220 personnes résidant actuellement à Daya Bay, en Chine du Sud, à proximité de Hong-kong. En pareil cas, le Gouvernement français mettrait en place dans la possession britannique, où nous disposons d'un consulat général, les moyens aériens ou maritimes nécessaires afin de faciliter le départ de nos ressortissants, soit vers la Nouvelle-Calédonie, soit à destination de la France. Plus généralement, dès l'apparition d'une situation pouvant affecter la sécurité de nos ressortissants, il est procédé à l'ouverture de la cellule de crise. Celle-ci est chargée de coordonner les décisions prises par les administrations françaises concernées, portant notamment sur les moyens de secours et d'évacuation. Elle comprend également un centre de renseignements téléphoniques dont le numéro d'appel est aussitôt diffusé par voie de presse à l'intention des proches de nos compatriotes en difficulté. Ce dispositif a été mis en oeuvre à plusieurs reprises au cours des derniers mois, en particulier, lors du tremblement de terre dans la région de San Francisco.
