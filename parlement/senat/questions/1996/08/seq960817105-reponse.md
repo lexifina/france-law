@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960817105
+
+- Question : [SEQ960817105](seq960817105.md) — Mise en place dans les lycées de parcours individuels de formation
+
+## Réponse
+
+*Éducation, JO du 1996-10-24, page 2780*
+
+Réponse. - La diversification des parcours fait déjà partie intégrante du paysage scolaire des lycées, puisque les élèves ont le choix d'un très large éventail de formations générales, technologiques ou professionnelles. Chaque formation dispose d'un horaire réglementaire qui s'applique nationalement à tous les élèves, afin de leur garantir l'égalité des chances et préserver aux diplômes leur valeur nationale. Au sein de chaque série - en particulier dans la voie générale - les élèves ont la possibilité de moduler leur parcours de formation grâce notamment au choix d'enseignements dits de spécialité qui, en classe terminale, leur permettent de se donner des profils d'études différents en fonction de leurs motivations et de leur projet scolaire dans l'enseignement supérieur. Compte tenu par ailleurs de l'hétérogénéité des publics scolaires, hétérogénéité croissante du fait de l'accès aux études secondaires de générations d'élèves de plus en plus nombreuses, la nécessité s'est fait sentir de créer des structures répondant plus étroitement aux besoins spécifiques de chaque élève tout en l'aidant à construire son projet de formation. C'est un des objectifs essentiels de l'enseignement en module qui existe depuis la rentrée 1992 en classe de seconde et la rentrée 1993 en classe de première. Cet enseignement, organisé en groupe restreint, est un lieu privilégié de développement de l'autonomie de l'élève car il permet des activités plus diversifiées que dans le cadre des cours proprement dits : aide méthodologique, renforcement des capacités d'autonomie, soutien approprié aux difficultés spécifiques de chacun.
