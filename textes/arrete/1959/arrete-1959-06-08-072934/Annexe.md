@@ -1,33 +1,67 @@
 # Article Annexe
 
-Emplois : agent de bureau
+Emplois : adjoints des cadres hospitaliers :
+
+- ETABLISSEMENTS DE PLUS DE 3000 LITS
 
 ===========================
 
 ECHELON : INDICES : DUREE
 
-: BRUTS : MOYENNE
+: BRUTS : MOYENNE |
 
---------:---------:--------
+: : |
 
-8 éch : 205 :
+9 éch : 430 : 2 ans |
 
-7 éch : 195 : 4 ans
+8 éch : 390 : 2 ans |
 
-6 éch : 185 : 4 ans
+7 éch : 365 : 2 ans |
 
-5 éch : 175 : 4 ans
+6 éch : 340 : 2 ans |
 
-4 éch : 165 : 3 ans
+5 éch : 315 : 2 ans |
 
-3 éch : 155 : 3 ans
+4 éch : 290 : 2 ans |
 
-2 éch : 140 : 2 ans
+3 éch : 265 : 2 ans |
 
-1 éch : 125 : 1 an
+2 éch : 240 : 2 ans |
 
-==========================
+1 éch : 210 : 2 ans |
+
+========================== |
+
+|
+
+ETABLISSEMENTS DE 2001 à 3000 LITS |
+
+=========================== |
+
+ECHELON : INDICES : DUREE |
+
+: BRUTS : MOYENNE |
+
+--------:---------:-------- |
+
+Echelon : : |
+
+except : : |
+
+Après 2 : : |
+
+ans (6) : 455 : |
+
+: : |
+
+Avant 2 : : |
+
+ans (6) : 430 : |
+
+: : |
+
+8 éch : 390 : 2 ans 7 éch : 365 : 2 ans 6 éch : 340 : 2 ans 5 éch : 315 : 2 ans 4 éch : 290 : 2 ans 3 éch : 265 : 2 ans 2 éch : 240 : 2 ans 1 éch : 210 : 2 ans ========================== (5) Indice 455 accessible à deux agents. (6) Echelon exceptionnel 455-430 accessible à deux agents.
 
 NOTA :
 
-voir article 3 de l'arrêté modificateur du 13 février 1962*]
+abrogé implicitement par l'arrêté du 24 août 1966*]
