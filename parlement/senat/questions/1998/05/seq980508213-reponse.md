@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508213
+
+- Question : [SEQ980508213](seq980508213.md) — Situation des sociétés d'habitations à loyer modéré (HLM) gérant les antennes paraboliques collectives
+
+## Réponse
+
+*Logement, JO du 1998-08-20, page 2731*
+
+Réponse. - L'installation d'antennes paraboliques est régie par les dispositions de la loi nº 66-457 du 2 juillet 1996 modifiée relative à l'installation d'antennes réceptrices de radiodiffusion ainsi que par celles de la loi nº 86-1067 du 30 septembre 1986 modifée relative à la liberté de communication. Les articles 34 et 43 prévoient un système d'autorisation administrative pour l'établissement et pour l'exploitation d'une antenne collective, calqué sur le régime juridique applicable à un réseau câblé urbain : autorisation d'établissement des antennes collectives, délivrée par la commune, et déclaration ou, au-delà de 100 foyers desservis, autorisation d'exploitation des reseaux ainsi établis, délivrée par le conseil supérieur de l'audiovisuel. La loi du 30 septembre 1986 a été modifiée par la loi du 13 juillet 1992 pour permettre aux organismes d'HLM qui souhaitent équiper leurs immeubles locatifs d'antennes paraboliques collectives ou de réseaux câblés, d'installer et d'exploiter ces réseaux sans passer, comme c'était le cas auparavant, par une société spécialisé ou une régie communale ou intercommunale. Aussi, est-il normal que l'article 34 de la loi, ainsi modifié, soumettre les organismes d'HLM au même régime d'autorisation que les autres intervenants. Le secrétaire d'Etat au logement est certes conscient du poids supplémentaires qui pèse sur les organismes d'HLM du fait de ce statut exploitant de réseaux. Cependant, la réglementation générale applicable à l'établissement et à l'exploitation de ces réseaux repose sur un équilibre délicat, fondé sur une égalité de traitement des différentes catégories d'intervenants : sociétés spécialisées, organismes d'HLM et régies communales et intercommunales.
