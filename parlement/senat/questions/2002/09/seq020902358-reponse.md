@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020902358
+
+- Question : [SEQ020902358](seq020902358.md) — Multiplication de recours devant la Cour de cassation
+
+## Réponse
+
+*Justice, JO du 2003-01-02, page 67*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que la loi organique n° 2001-539 du 25 juin 2001 relative au statut des magistrats et au Conseil supérieur de la magistrature a posé de nouvelles règles en matière d'admission des pourvois en cassation. Ces dispositions sont entrées en vigueur le 1er janvier 2002. Désormais, une formation de la chambre de la Cour de cassation saisie du pourvoi " déclare non admis les pourvois irrecevables ou non fondés sur un moyen sérieux de cassation ". Cette réforme a abouti pour le premier semestre de l'année 2002 à un pourcentage de 28 % de dossiers non admis s'agissant des chambres civiles, et de 35 % s'agissant de la chambre criminelle. La sélection instaurée par cette réforme permet l'utilisation optimale des moyens de la justice à des fins correspondant à la fonction régulatrice de la Cour de cassation qui statue uniquement en droit. En outre, les articles 1009-1 à 1009-3 du nouveau code de procédure civile issus du décret n° 99-131 du 26 février 1999 réglementent l'accès à la Cour de cassation en imposant qu'une affaire soit retirée du rôle à la demande du défendeur au pourvoi lorsque le demandeur ne justifie pas avoir exécuté la décision frappée de pourvoi à l'exception des pourvois suspensifs d'exécution et des décisions dont les effets de l'exécution comporteraient des conséquences manifestement excessives pour le demandeur. Ces mesures de régulation visent, en évitant les pourvois dilatoires, à désencombrer le rôle de la Cour de cassation et à tirer les conséquences logiques du caractère extraordinaire de cette voie de recours. Il ne paraît dès lors pas nécessaire de modifier à nouveau l'état du droit en cette matière.
