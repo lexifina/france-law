@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980910812
+
+- Question : [SEQ980910812](seq980910812.md) — Accueil des gens du voyage : bilan de l'application de l'article 28 de la loi nº 90-449 du 31 mai 1990
+
+## Réponse
+
+*Logement, JO du 1998-11-19, page 3722*
+
+Réponse. - La loi du 31 mai 1990, dans son article 28, a institué, d'une part, l'obligation d'établir un schéma départemental, d'autre part, l'obligation pour les communes de plus de 5 000 habitants de prévoir la réservation de terrains aménagés pour le passage et le séjour des nomades sur le territoire de leur commune ou dans le cadre intercommunal avec en contrepartie la possibilité d'interdire, par arrêté, le stationnement sur le reste du territoire communal. Une enquête lancée en 1996 par le ministre du logement fait apparaître qu'un peu plus du tiers des départements de la France métropolitaine disposent d'un schéma signé. On peut par ailleurs estimer à 9 800 le nombre d'emplacements réservés au stationnement des gens du voyage aussi bien sur les communes de moins de 5 000 habitants que sur celles de plus de 5 000 habitants, dont toutefois seule la moitié sont réellement aménagés et gérés. En outre, seulement 450 communes de plus de 5 000 habitants disposent à l'heure actuelle de terrains aménagés. Force est de constater que la loi est encore aujourd'hui peu appliquée. C'est pourquoi le Gouvernement conscient du problème posé par l'accueil des gens du voyage a mis à l'ordre du jour l'examen de nouvelles dispositions législatives. Sont actuellement en cours d'examen les mesures susceptibles d'accélerer la réalisation des aires et la conclusion des schémas départementaux ainsi que les conditions législatives qui pourraient être mises en uvre afin d'assurer le strict respect des interdictions de stationnement lorsque les communes remplissent les obligations d'accueil qui leur incombent.
