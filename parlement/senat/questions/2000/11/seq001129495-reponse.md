@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001129495
+
+- Question : [SEQ001129495](seq001129495.md) — Sécurité de vol des avions-cargos
+
+## Réponse
+
+*Équipement, JO du 2001-02-08, page 512*
+
+Réponse. - Les données sur les accidents survenus à des aéronefs immatriculés en France ou exploités par des compagnies aériennes françaises ne font apparaître aucune différence significative de niveau de sécurité entre les vols de fret et les vols de passagers. Un seul accident grave de vol cargo a été recensé au cours des dix dernières années. Un membre d'équipage a été blessé et l'appareil a été détruit suite à un incendie au sol, après l'atterrissage. En France, la réglementation en vigueur pour l'exploitation et l'entretien des aéronefs de moyenne et grande capacité, et pour la formation des équipages, est identique pour le transport public de fret et de passagers. Lorsqu'une compagnie exploite à la fois des avions-cargos et des avions de transport de passagers, les équipages de conduite sont les mêmes. Les aéronefs immatriculés dans les Etats étrangers peuvent survoler le territoire français et y atterrir, en vertu de la Convention de Chicago, dès lors que cette exploitation reste conforme aux règles internationales fixées par l'Organisation de l'aviation civile internationale (OACI). Différents programmes de coopération internationale ont été lancés au cours des dernières années, avec le soutien et la participation active de la France, pour s'assurer que l'exploitation des aéronefs des Etats membres de l'OACI est effectuée dans les conditions de sécurité conformes à ces normes. Parmi ceux-ci figurent le programme de l'OACI d'audit des administrations aéronautiques des Etats membres et celui de la Commission européenne de l'aviation civile, qui consiste à effectuer des contrôles sur les avions et les équipages au sol. Au titre de ce programme, plus de mille contrôles ont été effectués en 1999 en France sur des aéronefs étrangers.
