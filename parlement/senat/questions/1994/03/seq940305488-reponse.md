@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940305488
+
+- Question : [SEQ940305488](seq940305488.md) — Respect des droits des handicapés
+
+## Réponse
+
+*Affaires sociales, JO du 1994-07-14, page 1742*
+
+Réponse. - Dans le cadre de son rapport annuel 1993 au Président de la République et au Parlement, M. le médiateur de la République fait état de situations dans lesquelles les personnes handicapées ont pu éprouver des difficultés à faire valoir l'intégralité de leurs droits. La réglementation dense dans le domaine de la protection des personnes handicapées suppose une coordination étroite et sans faille de toutes les institutions intervenant en leur faveur, laquelle permet en règle générale de satisfaire les demandes présentées. Le Gouvernement attache une importance particulière à ce que les droits des handicapés puissent s'exercer conformément à la loi et souhaite notamment que soit accentué l'effort en faveur de leur information, ce tant en ce qui concerne les prestations auxquelles ils peuvent prétendre que les lieux où ils sont en mesure de le faire efficacement. S'agissant des structures créées pour les personnes handicapées, si M. le médiateur de la République constate effectivement que la situation n'est pas encore totalement satisfaisante, il convient toutefois de rappeler qu'un effort considérable a été fait ces dernières années. C'est ainsi que 10 600 places en centre d'aide par le travail ont pu être créées entre 1990 et 1993, l'objectif étant de poursuivre cet effort en 1994 et 1995. Concomitamment, 4 618 places pour adultes lourdement handicapés en maison d'accueil spécialisée et en foyer à double tarification ont été créées ces trois dernières années. Ces actions ont permis de satisfaire pour une part importante des besoins croissants, dans le contexte budgétaire difficile que connaissent les comptes sociaux de la nation.
