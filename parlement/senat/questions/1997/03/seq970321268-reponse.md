@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970321268
+
+- Question : [SEQ970321268](seq970321268.md) — Conséquences de la multiplication des loteries commerciales
+
+## Réponse
+
+*Finances, JO du 1997-05-29, page 1580*
+
+Réponse. - L'observatoire des loteries commerciales a d'ores et déjà dressé un bilan sur les trois premiers trimestres de l'année 1996, à partir des données collectées par le Bureau de vérification de la publicité, l'Institut national de la consommation, la Direction générale de la concurrence, de la consommation et de la répression des fraudes, le Syndicat des entreprises de vente par correspondance et à distance et trois associations de consommateurs désignées par le collège consommateur pour siéger au sein de cet observatoire. 3 876 réclamations, dans lesquelles les consommateurs se plaignent essentiellement de l'absence d'attribution réelle du lot promis qu'ils pensaient acquis au regard de la formulation du message, ont été enregistrées. Quatre entreprises (dont le nom ne peut être rendu public, faute de condamnation définitive par les tribunaux) concentrent 86,5 % des réclamations. Une seule entreprise génère 56,3 % des réclamations. Le groupe de travail du Conseil national de la consommation (CNC) a enregistré l'effort de déontologie fait par les entreprises adhérentes au syndicat professionnel. En effet, les réclamations provenant de ces dernières ne représentent que 13 % du total des réclamations, alors que ces entreprises réalisent 90 % du chiffre d'affaires de la vente par correspondance. Compte tenu de ces éléments, le CNC n'a pas souhaité dans l'immédiat de modification des textes en vigueur, mais a proposé que des contrôles renforcés soient diligentés en 1997. En outre, le garde des sceaux, ministre de la justice, a adressé une circulaire aux parquets pour les sensibiliser notamment aux problèmes que posent les loteries commerciales.
