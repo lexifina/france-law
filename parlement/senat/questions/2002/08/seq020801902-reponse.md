@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020801902
+
+- Question : [SEQ020801902](seq020801902.md) — Statut privilégié et abusif de l'anglais dans les programmes européens Socrates Comenius
+
+## Réponse
+
+*Affaires européennes, JO du 2002-11-07, page 2618*
+
+L'honorable parlementaire a bien voulu appeler l'attention de la ministre déléguée sur une dérive dans la mise en oeuvre de certains programmes de coopération éducative qui aboutirait à privilégier une offre de formation en anglais, par rapport aux autres langues. Il doit être remercié pour sa vigilance en la matière qui s'accorde avec l'attachement des autorités françaises à une offre de formation équilibrée sur le plan linguistique. Le maintien et la promotion de la diversité linguistique en Europe comptent parmi les principaux objectifs transversaux du programme Socrates. Ceux-ci s'appliquent tout particulièrement à l'action Comenius, consacrée à l'enseignement scolaire. La formation continue du personnel éducatif représente l'un des volets de cette action (Comenius 2.2). Chaque année, un catalogue des stages appelé " catalogue Comenius " est proposé aux enseignants des trente pays participant au programme Socrates qui souhaitent se perfectionner dans l'une des disciplines enseignées dans l'enseignement scolaire. Les stages inscrits au catalogue peuvent soit résulter de partenariats conclus entre les établissements de formation européens qui ont ensemble élaboré un " projet de coopération européenne " (action Comenius 2.1), soit être proposés par des organismes publics ou privés de formation sélectionnés par la Commission. Les formations offertes peuvent être dispensées dans l'une des langues officielles de l'Union européenne, dont l'anglais. II est préconisé d'offrir le choix entre deux langues. Il est bien sûr demandé aux participants de posséder une maîtrise suffisante de l'une des langues dans laquelle la formation doit se dérouler afin qu'ils en retirent le plus grand bénéfice.
