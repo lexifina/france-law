@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020701380
+
+- Question : [SEQ020701380](seq020701380.md) — Institut national du vieillissement
+
+## Réponse
+
+*Personnes âgées, JO du 2003-02-13, page 582*
+
+L'honorable parlementaire a appelé l'attention du secrétaire d'Etat aux personnes âgées sur l'annonce faite par son prédécesseur de la mise en place d'un Institut national du vieillissement, chargé, notamment, de favoriser les travaux de recherche en matière de vieillissement, et souhaite connaître les moyens affectés à cet organisme et les coûts qui en résultent. Cette annonce était concomitante avec la création, en mai 2002, de l'Institut de la longévité, sous la forme d'un groupement d'intérêt scientifique (GIS) porté par le ministèe chargé de la recherche et présidé par le professeur Etienne-Emile Beaulieu. Conformément à sa convention constitutive, le GIS Institut de la longévité a pour objet de dresser le bilan des actions qui contribuent directement ou indirectement aux recherches sur la longévité et sur ses conséquences dans les domaines de la biologie, de la médecine, de la thérapeutique et des sciences humaines, de dégager les grandes orientations de recherche dans tous ces domaines et d'être un lieu de confrontation des idées sur les questions de santé et de société liées au vieillissement. Dans ces conditions, dans une perspective d'efficacité et de simplification de l'administration de l'Etat, le Gouvernement n'a pas jugé souhaitable de poursuivre ces deux initiatives indépendamment l'une de l'autre et préconise leur regroupement dans une nouvelle entité qui ferait suite au GIS institut de la longévité déjà créé. Ce nouveau GIS, centré sur la recherche, ménagerait une place importante aux sciences humaines et aux sciences sociales et constituerait un pôle de réflexion et de débat ouvert aux milieux professionnels, aux associations et aux collectivités territoriales.
