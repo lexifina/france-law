@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020137808
+
+- Question : [SEQ020137808](seq020137808.md) — Réglementation relative à l'adoption internationale
+
+## Réponse
+
+*Justice, JO du 2002-03-21, page 863*
+
+La garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que, s'agissant en premier lieu du tribunal compétent, il résulte de l'article 1166 du nouveau code de procédure civile qu'un adoptant français résidant à l'étranger peut en principe saisir en France un tribunal de grande instance de son choix en vue du prononcé de l'adoption d'un enfant résidant à l'étranger, s'agissant en second lieu de la loi applicable en matière d'adoption internationale, la question est régie, en France, par les articles 370-3 et 370-5 du code civil issus de la loi n° 2001-111 du 6 février 2001 relative à l'adoption internationale. Il découle de ces dispositions que la loi applicable aux conditions de l'adoption est, en ce qui concerne deux époux, la loi qui régit les effets de leur union. Or celle-ci est, en vertu de la jurisprudence, la loi de leur nationalité s'ils sont de même nationalité ou la loi de la résidence habituelle du couple s'ils sont de nationalité différente. Par ailleurs, les effets de l'adoption prononcée en France sont régis par la loi française. Il s'ensuit, sous réserve de l'interprétation souveraine des tribunaux, dans le cas d'époux résidant en Allemagne, tout d'abord, que le juge français appliquerait aux conditions de l'adoption la loi française ou la loi allemande suivant que les deux époux sont tous deux français ou que seulement l'un deux l'est, ensuite, que l'adoption, le cas échéant prononcée en France, aurait les effets prévus par la loi française, notamment en ce qui concerne la nationalité. Enfin, les effets en Allemagne de la décision prononcée en France dépendraient de la loi de droit international privé allemande.
