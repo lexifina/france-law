@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980609231
+
+- Question : [SEQ980609231](seq980609231.md) — Pouvoir de police des maires en matière de contrôle de vitesse des véhicules
+
+## Réponse
+
+*Intérieur, JO du 1998-08-20, page 2723*
+
+Réponse. - La lutte contre la vitesse excessive constitue une préoccupation majeure du Gouvernement. C'est pourquoi, parmi les dispositions envisagées pour améliorer la sécurité routière, le projet de loi portant diverses mesures relatives à la sécurité routière adopté en première lecture par le Sénat, le 7 avril dernier, comporte deux mesures propres à assurer l'efficacité de la répression en ce domaine. Il s'agit, d'une part, de la création d'un délit de récidive à la contravention sanctionnant l'excès de vitesse égal ou supérieur à 50 km/h, et, d'autre part, de l'institution d'une présomption de responsabilité pécuniaire du titulaire du certificat d'immatriculation du véhicule en ce qui concerne les excès de vitesse et le non-respect des signalisations imposant l'arrêt des véhicules. Cette présomption de responsabilité, dont le titulaire du certificat d'immatriculation ne pourra s'exonérer qu'en fournissant des renseignements permettant d'identifier l'auteur véritable de l'infraction, permettra une utilisation pleinement satisfaisante des appareils de contrôle automatique de la vitesse. D'autre part, le projet de loi relatif aux polices municipales, adopté par le Parlement en première lecture le 3 juin 1998, prévoit d'étendre, par décret en Conseil d'Etat, les compétences de police judiciaire des agents de police municipale en matière de circulation routière. Lors de la discussion devant le Sénat, le Gouvernement s'est engagé à ce que le décret habilite ces agents à contrôler les excès de vitesse en agglomération. Les compétences nouvelles ainsi reconnues aux policiers municipaux devraient contribuer à renforcer les pouvoirs de police du maire en matière de circulation routière.
