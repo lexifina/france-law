@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030708247
+
+- Question : [SEQ030708247](seq030708247.md) — Régime des déductions applicables aux travaux de maintien à domicile des personnes handicapées
+
+## Réponse
+
+*Économie, JO du 2003-12-18, page 3644*
+
+L'article 200 quater du code général des impôts accorde, jusqu'au 31 décembre 2005, un crédit d'impôt de 15 % au titre de certaines dépenses d'acquisition d'équipements ou de matériaux qui sont installés dans l'habitation principale du contribuable. S'agissant des gros équipements, sont notamment éligibles au crédit d'impôt les ascenseurs spécialement conçus pour les personnes handicapées ou les matériels assimilés tels que les appareils élévateurs verticaux. Ces équipements destinés aux personnes handicapées ainsi que les travaux d'installation, de réparation et d'entretien de ces matériels ouvrent droit au taux réduit de la taxe sur la valeur ajoutée (TVA). S'agissant des autres dépenses, l'article 279-0 bis du code général des impôts soumet au taux réduit de la TVA les travaux d'amélioration, de transformation, d'aménagement et d'entretien des locaux à usage d'habitation achevés depuis plus de deux ans, à l'exception de la part correspondant à la fourniture de gros équipements définis à l'article 200 quater du même code. Cette situation ne pénalise pas les personnes handicapées dans la mesure où, d'une manière générale, l'application du taux réduit de TVA est plus favorable que celle du crédit d'impôt. En effet, le montant des dépenses qui bénéficient du taux réduit de la TVA n'est pas limité ; le champ d'application du taux réduit de TVA est beaucoup plus large tant en ce qui concerne la qualité du preneur des travaux (propriétaire occupant ou non le logement, locataire ou bailleur) que la nature du logement (résidence principale ou secondaire ou logement donné en location).
