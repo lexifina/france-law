@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890605041
+
+- Question : [SEQ890605041](seq890605041.md) — Politique familiale
+
+## Réponse
+
+*Famille, JO du 1989-09-28, page 1588*
+
+Réponse. - Le Gouvernement est tout à fait conscient des difficultés que peuvent rencontrer les familles qui, ayant élevé plusieurs enfants, n'en ont plus qu'un à charge au sens de la législation des prestations familiales. Cependant les études menées dans ce domaine ont montré que le maintien du service des prestations familiales à ces familles de même que l'octroi de ces prestations aux familles n'ayant qu'un seul enfant à charge entraînerait un surcoût considérable et difficilement envisageable compte tenu de l'équilibre financier actuel de la sécurité sociale. Dans ce contexte, accorder le maintien des prestations familiales à ce type de famille ne pourrait conduire qu'à la dispersion de l'aide monétaire disponible. En conséquence, le Gouvernement a choisi de poursuivre l'orientation retenue jusqu'à présent qui consiste à concentrer cette aide sur les familles qui en ont le plus besoin parce qu'elles supportent les plus grandes marges, c'est-à-dire les familles nombreuses et celles ayant de jeunes enfants à charge. Toutefois, les familles n'ayant qu'un seul enfant à charge peuvent continuer à bénéficier des grandes prestations d'entretien que sont l'allocation de logement, l'allocation de parent isolé et l'allocation de soutien familial pour les familles monoparentales, l'allocation d'éducation spéciale pour la charge d'un enfant handicapé. Par ailleurs, les problèmes particuliers que connaissent les familles dont les grands enfants poursuivent des études sont pris en compte par le dispositif des bourses et des oeuvres sociales de l'enseignement supérieur. De même, la législation fiscale prévoit des dispositions particulières lorsque les familles ont la charge de grands enfants.
