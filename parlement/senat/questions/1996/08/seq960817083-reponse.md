@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960817083
+
+- Question : [SEQ960817083](seq960817083.md) — Unification du service public de l'emploi et ANPE
+
+## Réponse
+
+*Emploi, JO du 1996-12-26, page 3505*
+
+Réponse. - Mme le ministre délégué pour l'emploi est très soucieuse qu'une cohérence se manifeste à travers l'ensemble des actions des différents intervenants en matière d'emploi. La signature des programmes régionaux des Espaces jeunes, dans le domaine de l'emploi des jeunes, répond à cette préoccupation de synergie de l'ensemble des acteurs. En ce qui concerne le service public de l'emploi, les orientations stratégiques du contrat de progrès conclu entre l'Etat et l'ANPE, pour la période de 1994-1998, prévoient de faire de l'Agence l'acteur central du marché du travail. Conformément à ces orientations, l'Agence a établi en 1994 une charte fixant le cadre dans lequel elle est amenée à agir en partenariat avec d'autres acteurs, l'objectif étant à la fois une meilleure proximité des demandeurs d'emploi et des entreprises, de meilleurs services particuliers et une mise en cohérence des différents intervenants dans le domaine de l'emploi. Sur la base de cette charte, l'Agence a signé un certain nombre de conventions avec des collectivités territoriales ou des associations, notamment pour la mise en place des Espaces jeunes, conformément à l'article 70 de la loi quinquennale. Dans le cadre de ces conventions de coopération, l'Agence peut déléguer un certain nombre de ses services aux structures d'accueil des jeunes ; ces services sont rendus conformément aux règles déontologiques en vigueur à l'ANPE, qui habilite et forme les agents appelés à les délivrer. Aujourd'hui, 300 conventions Espaces jeunes sont signées ou en cours de l'être. L'impact du partenariat mis en oeuvre sera évalué, au regard de la qualité du service rendu aux usagers, dans le cadre de l'évaluation du second contrat de progrès entre l'Etat et l'ANPE.
