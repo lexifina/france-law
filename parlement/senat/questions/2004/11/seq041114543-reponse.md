@@ -1,0 +1,9 @@
+# Réponse à la question SEQ041114543
+
+- Question : [SEQ041114543](seq041114543.md) — Equipements et infrastructures des communautés d'agglomération
+
+## Réponse
+
+*Intérieur, JO du 2005-02-03, page 319*
+
+Aucune disposition législative ne fait obstacle à ce qu'une commune ou un groupement de communes puisse recourir à l'expropriation de terrains situés sur le territoire d'une autre collectivité, dès lors que le projet envisagé nécessite l'inclusion de ces terrains. Si la jurisprudence constante a admis ce principe, elle l'a toutefois assorti de conditions restrictives. Ainsi, une commune a effectivement la possibilité d'exproprier des terrains situés sur le territoire d'une commune voisine, à condition qu'elle soit dans l'impossibilité de trouver sur son propre territoire des terrains présentant la même aptitude à recevoir l'ouvrage envisagé (Conseil d'État, 6 mars 1981, association de défense des habitants du quartier de Chèvre-Morte et autres, CAA, Lyon, 6 avril 1999, Cts Rivet). Par ailleurs, la déclaration d'utilité publique pourrait être entachée d'illégalité si elle impliquait l'expropriation de dépendances du domaine public appartenant à une autre collectivité (CE, 22 décembre 1976, Cts Roux et Sieur Pelenc). En l'espèce, s'il est établi qu'une communauté d'agglomération ne peut manifestement pas utiliser dans le ressort de son périmètre des terrains permettant de réaliser des opérations d'intérêt général, telles que la création d'une fourrière pour chiens ou d'une route d'accès, elle pourrait être fondée, sous le contrôle du juge, à solliciter l'expropriation de terrains situés à l'extérieur de son territoire. En ce cas, il conviendrait de prévoir des mesures de publicité élargies consistant, notamment, à faire déposer le dossier soumis à l'enquête publique dans les mairies des communes riveraines concernées par l'opération.
