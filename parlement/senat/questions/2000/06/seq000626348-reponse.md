@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000626348
+
+- Question : [SEQ000626348](seq000626348.md) — Rémunérations des détenus travaillant pour la prison doublées
+
+## Réponse
+
+*Justice, JO du 2000-12-28, page 4491*
+
+Réponse. - La garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que la prise en charge et l'aide aux personnes détenues les plus démunies constituent une priorité d'action. Ainsi, un groupe de travail, mis en place par la direction de l'administration pénitentiaire a remis un rapport fin février 2000 sur ce sujet, largement diffusé, en particulier auprès des associations partenaires de l'administration pénitentiaire. Les principales recommandations de ce rapport sont relatives à : l'aide à l'arrivée en prison ; l'entrée en détention est un moment de vulnérabilité, et pour nombre de détenus, de dénuement provisoire ou durable ; il est donc d'autant plus important d'insister sur la qualité de l'accueil et l'aide immédiate aux personnes ; la mise en place d'une commission de repérage et d'aide aux indigents qu'il convient de généraliser à tous les établissements ; l'uniformisation des critères de l'indigence, le critère financier étant certes important mais non exclusif ; l'accès des détenus indigents aux activités rémunérées et non rémunérées, notamment les actions de formation générale assurées par les enseignants et les organismes de formation ainsi que les activités culturelles et sportives ; cet accès est envisagé en priorité au service général dont la modernisation est prévue grâce à une organisation adaptée et des rémunérations revalorisées (doublement demandé). Dans le cadre du projet de loi de finances 2001, des mesures nouvelles sont prévues pour une première augmentation des rémunérations versées au service général et à la poursuite des actions menées en direction des détenus les plus démunis.
