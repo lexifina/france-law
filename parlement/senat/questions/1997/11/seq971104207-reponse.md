@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971104207
+
+- Question : [SEQ971104207](seq971104207.md) — Contrôle par les administrations douanières des Etats de l'Union européenne de la " loyauté des pratiques " des pays tiers exportateurs
+
+## Réponse
+
+*Agriculture, JO du 1998-07-23, page 2367*
+
+Réponse. - L'Union européenne importe des pays tiers plus de 50 % des produits de la mer consommés sur son territoire. La loyauté des pratiques des pays qui exportent des produits de la mer vers l'Union européenne, et en particulier la France, est de ce fait une préoccupation constante du ministre de l'agriculture et de la pêche. Il a ainsi souligné à plusieurs reprises la nécessité d'un assainissement des règles d'échanges avec les pays tiers, en vue d'une concurrence loyale entre producteurs, notamment dans le cadre de deux dossiers importants actuellement débattus dans les instances communautaires : le régime de contrôle applicable à la politique commune des pêches et la réforme de l'organisation commune du marché (OCM) des produits de la mer et de l'aquaculture. Les demandes de la France en matière de contrôle des pratiques des pays tiers exportateurs ont été entendues puisque, dans le cadre de la réforme de l'OCM, la commission propose, d'une part, de renforcer le contrôle des règles applicables à l'importation de produits de la pêche, notamment des règles sanitaires et des règles d'origine, et, d'autre part, de sanctionner par l'interdiction d'importation dans l'Union européenne les pays tiers qui ne respecteraient pas les règles internationales de préservation de la ressource. La Commission propose par ailleurs, dans le cadre de la révision du régime de contrôle, le renforcement de l'assistance mutuelle entre les Etats membres et une meilleure coordination de leurs services de contrôle. Ces dispositions, que soutient la France, permettront un contrôle renforcé des pratiques des pays tiers exportateurs.
