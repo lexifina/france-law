@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960314628
+
+- Question : [SEQ960314628](seq960314628.md) — Fonction publique : métiers de l'animation, statut des animateurs socioculturels et socio-éducatifs
+
+## Réponse
+
+*Fonction publique, JO du 1996-05-02, page 1083*
+
+Réponse. - Le Conseil supérieur de la fonction publique territoriale s'est prononcé le 10 février 1995 en faveur de la création d'une filière animation au sein de la fonction publique territoriale. La diversité des personnels, dont beaucoup sont vacataires ou oeuvrent dans le secteur associatif, et celle des activités pouvant être regroupées sous l'appellation " animation " posent cependant des questions auxquelles il convient de répondre avant de proposer une construction statutaire cohérente pour être opérationnelle sur le terrain. L'étude préalable des conditions dans lesquelles s'est développée l'animation dans les collectivités territoriales appelle en conséquence une réflexion approfondie indispensable pour définir cet ensemble statutaire tant dans les missions que dans les modalités d'accès aux carrières et celles de leur déroulement. Cette réflexion est en cours de développement. Elle devrait conduire prochainement à des propositions concrètes, le principe d'une reconnaissance statutaire spécifique de ces missions ayant d'ores et déjà été admis par le Gouvernement, à l'occasion des orientations retenues dans le cadre du plan de relance pour la ville. Il convient cependant de rappeler que les cadres d'emplois existants, dont les définitions des missions sont suffisamment souples pour recouvrir une large palette de métiers et spécialités, ont déjà vocation à accueillir la grande majorité des personnels et que l'exercice des fonctions d'animation peut être conjugué avec la détention d'un statut de fonctionnaire territorial des filières sportive, culturelle ou médico-sociale, par exemple.
