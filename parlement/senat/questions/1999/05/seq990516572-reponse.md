@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990516572
+
+- Question : [SEQ990516572](seq990516572.md) — Temps d'antenne des émissions en langue occitane
+
+## Réponse
+
+*Culture, JO du 1999-08-19, page 2775*
+
+Réponse. - L'honorable parlementaire appelle l'attention de la ministre de la culture de la communication sur la place qu'occupent les émissions en langue occitane, notamment sur France 3 et France 3 Sud. Aux termes de la loi du 30 septembre 1986 modifiée relative à la liberté de communication, les sociétés nationales de programme sont seules responsables de leur programmation dans le respect des obligations qui leur sont assignées par leurs cahiers des missions et des charges. Le cahier des missions et des charges de France 3 prévoit que cette société " contribue à l'expression des principales langues régionales parlées sur le territoire métropolitain ". La société est ainsi tenue de diffuser des émissions dans les principales langues régionales en usage sur le territoire métropolitain, telles que celles-ci sont définies par l'histoire et la tradition, l'alsacien, le basque, le breton, le catalan, le corse, l'occitan et le provençal. Conformément à cette obligation, France 3 consacre un temps d'antenne à la langue occitane. Cet espace réservé à l'occitan n'a pas été réduit puisque l'émission intitulée : " Viur al païs ", d'une durée de vingt-six minutes, bénéficie d'un nouvel horaire le dimanche à 11 h 45 alors que, jusqu'en décembre 1998, cette émission était partagée entre l'occitan et le catalan dans la proportion deux tiers - un tiers. De plus, une nouvelle émission d'information de six minutes est programmée le samedi à 18 h 56 en occitan sur la grande région et en catalan sur le Roussillon. Cette nouvelle programmation, située à un carrefour d'antenne très bien placé, devrait permettre au plus grand public régional d'accéder à la langue occitane.
