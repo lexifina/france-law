@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901212996
+
+- Question : [SEQ901212996](seq901212996.md) — Calcul de l'indemnité de conseil versée aux comptables des services extérieurs du Trésor
+
+## Réponse
+
+*Budget, JO du 1991-11-28, page 2638*
+
+Réponse. - L'arrêté interministériel du 16 décembre 1983 a créé une indemnité de conseil allouée aux comptables non centralisateurs des services extérieurs du Trésor chargés des fonctions de receveur des communes et établissements publics locaux. Cet arrêté détermine le mode de calcul de l'indemnité de conseil ; son article 4 en définit l'assiette. Celle-ci se compose de la moyenne annuelle des dépenses budgétaires des sections de fonctionnement et d'investissement afférentes aux trois dernières années, à l'exception des opérations d'ordre. Il est précisé que les dépenses des services autonomes non personnalisés d'une commune ou d'un établissement public ainsi que les dépenses des centres communaux d'action sociale et des caisses des écoles annexées au compte de la collectivité sont ajoutées à celles de la commune ou de l'établissement public. Aucune instruction de la direction de la comptabilité publique n'est venue préciser ultérieurement ce mode de calcul. Les opérations d'ordre budgétaires sont donc les seules à être exclues de l'assiette de cette indemnité. Les opérations réciproques entre le budget principal et ses budgets annexes, constatées soit par une dépense du budget principal et une recette du budget annexe, soit par une recette du budget principal et une dépense du budget annexe ne constituent pas des opérations d'ordre ; elles peuvent donc être intégrées légalement dans l'assiette de cette indemnité par les collectivités qui le souhaitent. Toutefois, l'arrêté du 16 décembre 1983, muet sur ce point, n'en fait pas une obligation et les collectivités et établissements publics locaux gardent la faculté de limiter l'assiette de l'indemnité aux masses budgétaires réelles.
