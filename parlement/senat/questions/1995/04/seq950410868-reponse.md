@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950410868
+
+- Question : [SEQ950410868](seq950410868.md) — Suppression de la recette locale des impôts de Desvres (Pas-de-Calais)
+
+## Réponse
+
+*Économie, JO du 1995-11-02, page 2085*
+
+Réponse. - Le nombre restreint des perceptions liées aux opérations relevant du secteur des contributions indirectes réalisées auprès de la recette locale de Desvres a conduit la direction générale des douanes et droits indirects, courant 1994, à envisager la mise en place d'un service intermittent au sein de cette localité, exercé en mairie à raison d'une journée par semaine. Compte tenu des lourdes sujétions induites par ce dispositif en matière d'organisation interne et du déficit potentiel de service public occasionné pour certains usagers les autres jours de la semaine, la douane a, dès janvier 1995, retenu la proposition formulée en juin 1994 par M. Michel Sergent, sénateur-maire de Desvres, et décidé de recruter un correspondant local, choisi prioritairement au sein de la population des débitants de tabac de la commune. Cet auxiliaire de l'administration, parfaitement intégré à l'environnement immédiat, procure l'avantage d'un service de proximité selon une amplitude horaire beaucoup plus étendue, propre à satisfaire l'attente légitime de l'ensemble des redevables. De plus, la mission fiscale dont cette personne a la charge contribue, au regard de l'exercice ordinaire de sa profession de débitant, à fidéliser une clientèle d'usagers consommateurs. Ces deux fonctions conjuguées, constituant dès lors un des vecteurs substantiels au maintien de l'activité économique locale, s'inscrivent parfaitement dans les directives consenties aujourd'hui par l'Etat dans un environnement budgétaire contraignant, en vue de garantir un aménagement harmonieux de l'espace rural.
