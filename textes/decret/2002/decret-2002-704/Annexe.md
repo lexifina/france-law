@@ -18,15 +18,17 @@ A. Fonctions exercées en administration centrale :
 
 8° Directeur de projet.
 
-B. Fonctions de directeur exercées dans les services à compétence nationale et services extérieurs à compétence nationale suivants :
+B. - Fonctions de directeur ou d'administrateur général exercées dans les services à compétence nationale et services extérieurs à compétence nationale suivants :
 
 1° Centre de recherche et de restauration des musées de France ;
 
 2° Laboratoire de recherche des monuments historiques ;
 
-3° Musée d'Orsay ;
+3° Service national des travaux ;
 
-4° Service national des travaux.
+4° Manufacture nationale de Sèvres ;
+
+5° Mobilier national et Manufactures nationales des Gobelins, de Beauvais et de la Savonnerie.
 
 C. Fonctions exercées dans les services déconcentrés
 
