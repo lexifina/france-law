@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890705865
+
+- Question : [SEQ890705865](seq890705865.md) — Permis à points et garantie des droits
+
+## Réponse
+
+*Justice, JO du 1989-09-14, page 1501*
+
+Réponse. - Le garde des sceaux, ministre de la justice, peut indiquer à l'honorable parlementaire que la loi, votée par le Parlement lors de sa session de printemps 1989, relative à la sécurité routière, ne porte en aucune façon atteinte aux prérogatives des autorités judiciaires. Cette loi instaure un permis de conduire à points dont le bon fonctionnement est lié à un certain automatisme, mais qui respecte strictement les droits de la défense et ne modifie nullement les rôles respectifs des autorités judiciaire et administrative. En effet, le retrait des points, s'il est fait automatiquement, suivant un barème défini par la loi (pour les délits) ou par décret (pour les contraventions) et sans l'intervention du juge judiciaire, ne peut être que la conséquence d'une infraction pénalement sanctionnée ; ainsi le retrait des points consécutifs à un délit ne sera-t-il effectué qu'alors que la décision de condamnation par le tribunal aura acquis un caractère définitif, et il en ira de même en cas de commission d'une contravention si celle-ci est soumise au tribunal de police. En ce qui concerne les contraventions soumises à la procédure de l'amende forfaitaire, les points seront retirés dès lors que le contrevenant aura acquitté le montant de l'amende, le paiement valant reconnaissance de l'existence de l'infraction et entraînant l'arrêt des poursuites suivant les modalités déjà définies antérieurement par le code de procédure pénale. Tous les mécanismes de recours ont donc été préservés, et la loi à laquelle fait référence l'honorable parlementaire ne saurait entraîner, comme il le craint, une quelconque dérive dans la répression des infractions commises par les automobilistes.
