@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030306346
+
+- Question : [SEQ030306346](seq030306346.md) — Moyens d'un diagnostic précoce par les pédopsychiatres des troubles mentaux chez l'enfant et l'adolescent
+
+## Réponse
+
+*Santé, JO du 2003-10-16, page 3110*
+
+Les nouvelles avancées scientifiques et médicales, en particulier dans les domaines du développement cérébral, des sciences cognitives et de l'imagerie fonctionnelle relèvent encore du domaine de la recherche. Par conséquent l'imagerie cérébrale fonctionnelle ne permet pas d'offrir actuellement une validation fiable d'un diagnostic en psychiatrie. Ces techniques ne concourent donc pas directement à l'amélioration du dépistage et de la prévention des troubles mentaux chez l'enfant et l'adolescent. Cependant cet objectif reste une préoccupation de santé publique réaffirmée lors de la dernière expertise collective de l'INSERM publiée en février 2003. La diffusion des avancées scientifiques aux spécialistes relève de la formation médicale continue. Une concertation engagée avec l'ensemble des partenaires a permis d'élaborer un dispositif de formation continue inscrit dans le projet de loi relatif à la santé publique qui sera discuté au Parlement en octobre 2003. Ce projet vise à ouvrir largement l'accès aux soins afin de repérer au plus tôt la souffrance psychique de la population, notamment celle des jeunes. La constitution du Conseil national chargé de fixer les orientations nationales de la formation médicale continue des médecins libéraux et d'agréer les organismes formateurs, notamment sur la base des programmes proposés, est suspendue à la mise en oeuvre de la loi. La presse médicale, les ouvrages scientifiques, les revues spécialisées en neuropsychiatrie ainsi que les congrès scientifiques nationaux et internationaux sont actuellement les meilleurs canaux de diffusion de ces connaissances.
