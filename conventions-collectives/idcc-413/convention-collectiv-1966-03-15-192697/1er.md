@@ -1,49 +1,97 @@
-# Article 1
+# Article 1er
 
-La présente convention s'applique aux activités réalisées en France métropolitaine et dans les départements français d'outre-mer, par les organismes privés à caractère non lucratif et correspondent à la nomenclature ci-dessous.
+La présente convention s'applique aux établissements et services et aux directions générales et/ ou sièges sociaux des organismes agissant dans l'ensemble des champs de l'intervention sociale et médico-sociale couvert par la législation sur les institutions sociales (en particulier la loi n° 75-535 du 30 juin 1975 relative aux institutions sociales et médico-sociales, modifiée par la loi n° 2002-2 du 2 janvier 2002 rénovant l'action sociale et médico-sociale et loi n° 98-657 du 29 juillet 1998 d'orientation relative à la lutte contre les exclusions) et notamment dans les missions :
 
-95-11, 95-21. - Organismes locaux d'action sociale et organismes sociaux à compétence générale assumant la responsabilité d'établissements et services entrant dans le champ d'application ci-dessous.
+– de protection sociale et judiciaire de l'enfance et de la jeunesse :
 
-85-02, 90-23, 95-12 et 95-23. - Etablissements pour l'enfance protégée, handicapée ou inadaptée, comprenant notamment l'accueil, l'hébergement et la rééducation de mineurs protégés, handicapés ou inadaptés.
+– auprès des mineurs et des adultes handicapés ;
 
-Les établissements et services concernés sont ceux visés par :
+– auprès de la famille ;
 
-a) La loi du 24 juillet 1889 sur la protection des enfants maltraités ou moralement abandonnés ;
+– d'aide et d'accompagnement des personnes en difficulté sociale ;
 
-b) L'arrêté modifié du 25 avril 1942 pour l'éducation et l'enseignement spécialisé des mineurs déficients auditifs ou visuels ;
+– de soins à caractère médico-social ;
 
-c) La loi du 5 juillet 1944, article 1, visant les établissements ou services habilités à recevoir des mineurs délinquants ou en danger, placés par décision du juge ;
+– auprès des personnes âgées handicapées ;
 
-d) L'ordonnance du 2 février 1945 relative à l'enfance délinquante ;
+– de formation en travail social,
 
-e) Le décret modifié du 9 mars 1956, relatif aux établissements privés de cure et de prévention pour les soins aux assurés sociaux en ce qui concerne les annexes 24, 24 bis, 24 ter, 24 quater, 32 et 32 bis. ;
+lorsque leur activité principale est consacrée à la gestion de ceux-ci, relevant des classes de la nouvelle nomenclature d'activités et de produits suivantes :
 
-f) Le code de la famille, titre III, chapitre VI et l'arrêté modifié du 7 juillet 1957 visant les établissements et services pour l'enfance inadaptée ayant passé convention pour recevoir des mineurs au titre de l'aide sociale aux infirmes, aveugles et grands infirmes ;
+80.1Z.- Enseignement primaire : enseignement préscolaire et élémentaire pour enfants handicapés.
 
-g) L'ordonnance du 23 décembre 1958, le décret du 7 janvier 1959 et la loi du 4 juin 1970 relatifs à la protection de l'enfance en danger ;
+80.2A.- Enseignement secondaire général : enseignement secondaire premier et second cycle spécial pour enfants handicapés.
 
-h) Les articles 375 à 382 du code civil en application du décret du 21 septembre 1959 et de l'arrêté du 13 août 1960 visant les organismes privés appelés à concourir à l'exécution des mesures d'assistance éducative et habilités ;
+80.2C.- Enseignement secondaire technique ou professionnel :
 
-i) L'arrêté du 4 juillet 1972 relatif aux clubs et équipes de prévention, pris pour l'application du décret du 7 janvier 1959 relatif à la protection de l'enfance en danger.
+enseignement secondaire technique ou professionnel pour jeunes handicapés.
 
-85-03, 95-13 et 95-24. - Etablissements pour adultes handicapés comprenant notamment l'accueil, l'hébergement et éventuellement la réadaptation, l'insertion sociale et professionnelle.
+80.3Z.- Enseignement supérieur : établissements d'enseignement professionnel et supérieur chargés d'assumer les missions de formation professionnelle et/ ou pluri-professionnelle initiale, supérieure ou continue et/ ou de contribuer à la recherche et à l'animation (art. 151 de la loi d'orientation relative à la lutte contre les exclusions n° 98-657 du 29 juillet 1998).
 
-Les établissements et services concernés sont ceux visés par la loi d'orientation en faveur des personnes handicapées du 30 juin 1975 dans ses articles 14, 30, 46 et 48.
+Les formations concernées sont celles relevant du secteur social et médico-social et réglementées par le ministère de l'emploi et de la solidarité. Cette classe comprend les centres de formation de personnels sociaux et les IRTS.
 
-92-15. - Enseignement professionnel comprenant les centres de formation d'éducateur spécialisé et de moniteur éducateur agréés par les ministères compétents.
+80.4.- Formation permanente et autres activités d'enseignement :
 
-- Enseignement professionnel comprenant les centres de formation d'éducateurs de jeunes enfants (1).
+activités de formation, en général non classables par niveau.
 
-NB (1) : Dernier tiret ajouté par l'avenant n° 207 du 7 décembre 1989, qui précise : A titre transitoire, l'application intégrale des rémunérations de la convention collective s'effectue selon le calendrier suivant : - 1er septembre 1989 : application des réunérations conventionnelles, moins 7 p. 100 ; - 1er septembre 1990 : application des réunérations conventionnelles, moins 3 p. 100 ; - 1er janvier 1991 : application intégrale des rémunérations conventionnelles. Cet avenant ne peut en aucun cas porter atteinte aux situations individuelles acquises.
+80.4C.- Formation des adultes et formation continue, notamment alphabétisation des adultes.
+
+80.4D.- Autres enseignements : autres activités éducatives non classables par niveau.
+
+85.1A.- Activités hospitalières : cette classe concerne exclusivement les établissements et services de lutte contre les maladies mentales, contre l'alcoolisme et les toxicomanies.
+
+85.3A.- Accueil des enfants handicapés, notamment accueil, hébergement et rééducation de mineurs handicapés.
+
+85.3B.- Accueil des enfants en difficulté, notamment :
+
+– accueil, hébergement et rééducation de mineurs protégés par suite d'une décision de justice ou socialement en difficulté ;
+
+– activités des établissements de la protection judiciaire de la jeunesse ;
+
+– hébergement en famille d'accueil, activités des maisons maternelles.
+
+85.3C.- Accueil des adultes handicapés, notamment accueil, hébergement et réadaptation d'adultes handicapés.
+
+85.3D.- Accueil des personnes âgées : cette classe concerne exclusivement l'accueil et l'hébergement des personnes handicapés mentales vieillissantes.
+
+85.3H.- Aide par le travail, notamment :
+
+– activités des centres d'aide par le travail (CAT), des centres de rééducation professionnelle (CRP) ;
+
+– activités des centres de jour ou sections occupationnelles pour adultes handicapés ;
+
+– centres d'adaptation et de redynamisation au travail (CART).
+
+85.3J.- Aide à domicile : cette classe concerne les visites à domicile et services d'auxiliaires de vie rendus exclusivement aux personnes handicapées mentales vieillissantes.
+
+85.3K.- Autres formes d'action sociale, notamment :
+
+– actions socio-éducatives en milieu ouvert à destination des enfants, adolescents, adultes et familles ;
+
+– centres médico-psycho-pédagogique (CMPP), centres d'action médico-sociale précoce (CAMSP), services d'éducation spéciale et de soins à domicile (SESSAD) ;
+
+– clubs et équipes de prévention spécialisée ;
+
+– préparation, suivi et reclassement de personnes handicapées ;
+
+– services de tutelle : activités relevant des associations et services tutélaires aux majeurs protégés et aux prestations sociales.
+
+91. Activités associatives : activités d'administration générale des organismes associatifs : représentation, animation des organisations fédérées, gestion, orientations...
+
+91.1A.- Organisations patronales ou paritaires :
+
+– activités des organisations syndicales d'employeurs, dans le cadre national, régional ou local, professionnel ou interprofessionnel, centrées sur la représentation et la communication ;
+
+– gestion de fonds pour le compte d'organisations paritaires, notamment fonds d'assurance formation.
+
+91.1C.- Organisations professionnelles : activités des organismes créés autour d'un métier, d'une technique ou d'une discipline, et centrées sur la communication, l'information, l'expertise ou la déontologie.
+
+91.3E.- Activités associatives, organisations associatives, notamment activités des organisations associatives diverses créées autour d'une cause d'intérêt général ou d'un objectif particulier (non répertoriées ailleurs) et centrées sur l'information, la communication et la représentation.
 
 NOTA :
 
-NB (1) : Dernier tiret ajouté par l'avenant n° 207 du 7 décembre 1989, qui précise : A titre transitoire, l'application intégrale des rémunérations de la convention collective s'effectue selon le calendrier suivant :
+Par arrêté ministériel du 16 novembre 2018, pris en application de l'article L. 2261-32 du code du travail relatif à la restructuration des branches professionnelles, le champ d'application de la convention collective nationale des médecins spécialistes qualifiés au regard du conseil de l'ordre travaillant dans des établissements et services pour personnes inadaptées et handicapées (IDCC 1001) a fusionné avec celui de la convention collective nationale de travail des établissements et services pour personnes inadaptées et handicapées (IDCC 413), désignée comme branche de rattachement.
 
-- 1er septembre 1989 : application des réunérations conventionnelles, moins 7 p. 100 ;
+Par arrêté ministériel du 5 août 2021, pris en application de l'article L. 2261-32 du code du travail relatif à la restructuration des branches professionnelles, le champ d'application de la convention collective des centres d'hébergement et de réadaptation sociale (accords CHRS) (IDCC 783) a fusionné avec celui de la convention collective nationale de travail des établissements et services pour personnes inadaptées et handicapées (IDCC 413), désignée comme branche de rattachement.
 
-- 1er septembre 1990 : application des réunérations conventionnelles, moins 3 p. 100 ;
-
-- 1er janvier 1991 : application intégrale des rémunérations conventionnelles.
-
-Cet avenant ne peut en aucun cas porter atteinte aux situations individuelles acquises.
+Dans un délai maximal de 5 ans à compter de l'entrée en vigueur de la fusion des champs, les stipulations des conventions collectives concernées peuvent être maintenues, dans l'attente de la conclusion d'un accord remplaçant par des stipulations communes les stipulations régissant des situations équivalentes dans chacune des conventions. A défaut d'accord au terme de ce délai, les stipulations de la convention rattachée cessent de s'appliquer, à l'exception de celles régissant des situations spécifiques (Conseil constitutionnel, décision n° 2019-816 QPC du 29 novembre 2019).
