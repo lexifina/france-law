@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990617062
+
+- Question : [SEQ990617062](seq990617062.md) — Position du Gouvernement sur les organismes génétiquement modifiés (OGM)
+
+## Réponse
+
+*Agriculture, JO du 1999-11-18, page 3789*
+
+Réponse. - Le Gouvernement a procédé à un examen des éléments nouveaux intervenus sur la question des organismes génétiquement modifiés. Il a ainsi porté une attention particulière aux conclusions de la commission du génie biomoléculaire qu'il avait chargé de donner un avis sur un article publié dans la revue Nature, article soulignant la toxicité du pollen de maïs transgénique résistant aux insectes vis-à-vis d'un papillon, le Monarque. A cette occasion, il ressort de l'analyse scientifique conduite par les experts que " les conditions d'exposition des insectes permettent de conclure à une toxicité négligeable du pollen de maïs transgénique dans les conditions agronomiques habituelles ". La commission du génie biomoléculaire conclut que " l'ensemble des données ne permet pas de remettre en cause les évaluations favorables émises pour les quatre demandes de mise sur le marché de lignées de maïs résitant aux insectes ". Le Gouvernement a donc décidé, conformément à son approche au cas par cas, qu'il n'était pas nécessaire de revenir sur les autorisations de mise en culture des maïs concernés. Toutefois, il a décidé de renforcer le dispositif de biovigilance sur ces maïs afin de suivre leurs effets éventuels sur la biosphère. Par ailleurs, lors du Conseil européen des ministres de l'environnement des 24 et 25 juin 1999, la France, soutenue par le Danemark, la Grèce, l'Italie et le Luxembourg, a demandé qu'aucun nouvel organisme génétiquement modifié ne soit mis sur le marché tant que le cadre réglementaire ne sera pas complété pour permettre la mise en place de la traçabilité et de l'étiquetage des produits issus d'OGM.
