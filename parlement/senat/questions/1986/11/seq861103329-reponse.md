@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861103329
+
+- Question : [SEQ861103329](seq861103329.md) — Politique suivie à l'égard des volontaires du service national
+
+## Réponse
+
+*Affaires étrangères, JO du 1987-01-22, page 94*
+
+Réponse. -La politique annoncée par M. Michel Noir, ministre délégué chargé du commerce extérieur, se traduira, en 1986, par l'incorporation de 730 volontaires du service national (V.S.N.) pour servir dans des entreprises ou filiales d'entreprises françaises à l'étranger. L'augmentation est donc de 23 p. 100 par rapport à l'année 1985. Compte tenu de la durée du service en coopération (seize mois), c'est environ 1 000 V.S.N. qui participent à l'heure actuelle à la bataille de l'exportation et acquièrent de ce fait une expérience précieuse. Il apparaît possible d'accroître encore ce nombre déjà significatif. Toutefois deux difficultés subsistent : 1° une certaine méconnaissance du système par les entreprises, principalement les P.M.E. et P.M.I. Le ministre délégué et la direction des relations économiques extérieures ont lancé une campagne d'information qui devrait faire disparaître cet obstacle ; 2° de fortes réticences de certains de nos partenaires étrangers qui, soucieux de protéger leur main-d'oeuvre locale, refusent ou contingentent le nombre des visas de travail pouvant être accordés aux jeunes V.S.N./entreprise. Nos postes diplomatiques s'emploient à aplanir ou lever les difficultés. Par exemple, les Etats-Unis, totalement fermés jusqu'à cette année, ont accordé un quota de 35 V.S.N. en 1986. De même, les facilités administratives permettant à ceux qui souhaitent, après leur service, rester dans les pays où ils ont coopéré sont essentiellement de la responsabilité du pays d'accueil, la France, quant à elle, ayant le souci permanent de renforcer sa présence à l'étranger.
