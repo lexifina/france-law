@@ -18,9 +18,11 @@ En l'absence d'une réglementation pour ce type d'installation, il convient d'ut
 
 C procédé : valeur limite d'émission fixée dans les tableaux de la présente annexe pour certains secteurs industriels et certains polluants ou, en l'absence de tel tableau ou de telles valeurs, valeur limite pour la substance concernée conforme aux dispositions réglementaires relatives au type d'installation considéré et brûlant des combustibles normalement autorisés (à l'exclusion des déchets). En l'absence de telles dispositions, c'est la valeur limite fixée dans l'arrêté d'autorisation qui est utilisée. En l'absence de valeur fixée dans l'arrêté d'autorisation, c'est la concentration massique réelle qui est utilisée.
 
-I. - Dispositions applicables aux cimenteries co-incinérant des déchets
+I. - Dispositions applicables
 
-C pour poussières totales, HCl, HF et NOx, métaux, dioxines et furannes (teneur en O2 de 10 %)
+aux cimenteries co-incinérant des déchets
+
+C pour poussières totales, HCl, HF et NOx, métaux, dioxines et furanne (teneur en O2 de 10 %)
 
 Vous pouvez consulter le tableau dans le JO n° 280 du 01/12/2002 page 19778 à 19789
 
@@ -56,7 +58,9 @@ Si cette valeur moyenne augmentée de deux fois l'écart type est inférieure à
 
 Si cette valeur moyenne augmentée de deux fois l'écart type est supérieure à 10 mg/m³, la valeur limite à l'émission en moyenne journalière est déterminée en application de la formule définie au premier paragraphe de la présente annexe, à partir de cette valeur moyenne augmentée de deux fois l'écart type. Toutefois, cette valeur limite ne pourra dépasser 100 mg/m³.
 
-II. - Dispositions applicables aux installations de combustion co-incinérant des déchets
+II. - Dispositions applicables aux installations
+
+de combustion co-incinérant des déchets
 
 Les moyennes sur une demi-heure ne sont nécessaires que pour calculer les moyennes journalières.
 
