@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990516707
+
+- Question : [SEQ990516707](seq990516707.md) — Cahier des charges des contrats de prévention et de sûreté préconisés par le Conseil national ville
+
+## Réponse
+
+*Ville, JO du 2000-10-05, page 3411*
+
+Réponse. - La circulaire interministérielle relative à la mise en uvre des contrats locaux de sécurité du 7 juin 1999 entérine la proposition du conseil national des villes en ce qui concerne la fusion des contrats d'action de prévention et de sécurité dans la ville et des contrats locaux de sécurité lorsqu'il s'agit de villes non engagées dans un contrat de ville. Dans le cas d'une collectivité signataire d'un contrat de ville, le CLS constituera le volet sécurité du contrat de ville. Par ailleurs, le CLS constitue la formalisation contractuelle d'une démarche engagée par le diagnostic local de sécurité, soumis et traduit en terme de programme d'actions au sein du conseil communal de prévention de la délinquance. L'implication des divers partenaires y figure clairement. La circulaire précitée insiste, en s'appuyant sur les habitudes de travail acquises dans les CCPD, sur l'effort demandé aux divers acteurs pour une implication dans l'élaboration des programmes de prévention et leur mise en uvre concertée. Elle préconise de plus les orientations prioritaires d'intervention ; soutien et responsabilisation des parents, prévention de la récidive, médiation-réparation, traitement des incivilités, etc. L'instance de pilotage et de suivi des CLS par sa composition doit assurer le respect des engagements des divers partenaires et notamment des administrations de l'Etat. Il lui appartient d'instaurer les tableaux de bord présentant les indicateurs d'exécution et de résultat des CLS. Le guide d'élaboration des CLS publié en 1998 par l'IHESI (Institut des hautes études de la sécurité intérieure) constitue le cahier des charges type des CLS. Il est bien entendu adaptable aux situations particulières.
