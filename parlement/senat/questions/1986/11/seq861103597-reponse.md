@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861103597
+
+- Question : [SEQ861103597](seq861103597.md) — Location-accession: levée d'option et régime fiscal
+
+## Réponse
+
+*Équipement, JO du 1987-04-23, page 635*
+
+Réponse. -La difficulté évoquée est résolue par l'article 11 de la loi n° 84-595 du 12 juillet 1984 définissant la location-accession à la propriété immobilière. Lorsque le contrat de location-accession porte sur un immeuble ou une partie d'immeuble achevé depuis moins de cinq ans ou qui, dans les cinq ans de son achèvement, n'a pas fait l'objet d'une mutation à titre onéreux à une personne intervenant en qualité de marchand de biens, l'indemnité due au vendeur soit dans le cas où le contrat serait résilié du fait de l'inexécution par l'accédant de ses obligations, soit dans le cas où il ne donnerait pas lieu à transfert de propriété au terme convenu, peut être porté à 3 p. 100 à compter du 1er janvier de la cinquième année suivant celle de l'achèvement de l'immeuble ou de la fraction d'immeuble qui en est l'objet. Le contrat de location-accession est alors assimilé à une vente pure et simple pour l'application de la taxe sur la valeur ajoutée à compter de la date à laquelle cette indemnité majorée est susceptible d'être demandée. De ce fait, le transfert de propriété consécutif à la levée de l'option, même s'il intervient postérieurement à l'expiration du délai de cinq ans à compter de l'achèvement de l'immeuble ou de la fraction d'immeuble faisant l'objet du contrat, sera soumis à la taxe de publicité foncière au taux de 0,60 p. 100 en application de l'article 692 du code général des impôts. Cette disposition a précisément pour objet de rétablir l'égalité de traitement fiscal des contrats de location-accession portant sur des immeubles passibles de la taxe sur la valeur ajoutée quelle que soit la date à laquelle intervient la levée de l'option.
