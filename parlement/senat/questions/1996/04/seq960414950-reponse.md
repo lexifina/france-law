@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960414950
+
+- Question : [SEQ960414950](seq960414950.md) — Simplification de la politique d'aide à l'aménagement du territoire
+
+## Réponse
+
+*Aménagement du territoire, JO du 1996-06-13, page 1446*
+
+Réponse. - La loi no 94-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire a porté création dans son article 33 d'un fonds national d'aménagement et de développement du territoire. Ce fonds se substitue aux précédents instruments financiers et regroupe sept chapitres budgétaires en deux chapitres, l'un sur le titre IV, l'autre sur le titre VI. Il en résulte non seulement une simplification de la gestion des outils financiers de l'Etat mais encore une souplesse accrue. Le fonds comprend une section générale mais également une section déconcentrée aux préfets de région. Par ailleurs, l'article 42 de la loi dispose que des politiques renforcées et différenciées de développement sont mises en oeuvre dans les zones caractérisées par des handicaps géographiques, économiques ou sociaux. Ce dispositif s'articule autour des zones d'aménagement du territoire reconnues au plan communautaire comme éligibles à la prime d'aménagement du territoire, des zones urbaines sensibles et des territoires ruraux de développement prioritaire, qui ont été définis par le décret no 94-1139 du 26 décembre 1994. Toujours en application de la loi, ont été distinguées au sein de ces derniers les zones de revitalisation rurale, par le décret no 94-119 du 14 février 1996. La mise en oeuvre de ces zonages, qui s'accompagnent de ceux destinés à définir les territoires d'éligibilité aux fonds structurels européens, vise à corriger les inégalités des conditions de vie des citoyens liées à la situation géographique et ainsi à compenser les disparités territoriales.
