@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870204749
+
+- Question : [SEQ870204749](seq870204749.md) — Situation des associations nationales de jeunesse et d'éducation populaire
+
+## Réponse
+
+*Jeunesse et sports, JO du 1987-04-09, page 550*
+
+Réponse. -L'action en faveur de la vie associative et de la jeunesse constitue une priorité pour le secrétariat d'Etat auprès du Premier ministre, chargé de la jeunesse et des sports. Cette priorité se traduit par le souci d'une efficacité accrue des aides accordées aux associations relevant du domaine de compétences du secrétariat d'Etat. Il entend à ce titre baser ses relations avec ces associations sur le principe du conventionnement des aides qu'il leur attribue pour les actions qu'elles conduiront. C'est ainsi que ces associations ont été invitées à présenter des projets dans les domaines que le secrétariat d'Etat a définis comme prioritaires et qui s'articulent autour des thèmes suivants : les jeunes et le développement technologique ; les pratiques culturelles des jeunes ; l'aménagement des rythmes extrascolaires (A.R.E.S.) ; les actions en direction des jeunes défavorisés en vue de leur insertion sociale et professionnelle ; les actions de solidarité, les droits de l'homme et l'éducation civique. En outre, elles pourront produire des projets spécifiques pour des actions innovantes en direction des jeunes. L'instauration de relations contractuelles conformément aux directives exprimées par le Premier ministre dans sa circulaire du 27 janvier 1975 sera ainsi le gage d'une transparence et d'une efficacité accrues. Pour ce qui concerne le Fonds national pour le développement de la vie associative (F.N.D.V.A.), il convient de noter que son financement est exclusivement assuré par une partie du produit du prélèvement sur les sommes engagées au P.M.U. Ces recettes du fonds peuvent être évaluées à 19 millions de francs en 1987, lesquelles n'auront ainsi pas diminué par rapport à l'année précédente.
