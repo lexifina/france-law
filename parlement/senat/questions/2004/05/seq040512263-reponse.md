@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040512263
+
+- Question : [SEQ040512263](seq040512263.md) — Situation des centres de rétention administrative
+
+## Réponse
+
+*Intérieur, JO du 2004-09-02, page 2004*
+
+Le bon fonctionnement des centres de rétention administrative apparaît comme un élément essentiel de la politique de lutte contre l'immigration irrégulière que conduit actuellement le Gouvernement. Dans ce cadre, et pour tenir compte de l'impact des nouvelles dispositions législatives issues de la loi du 26 novembre 2003 relative à la maîtrise de l'immigration, au séjour des étrangers en France et à la nationalité, de nouvelles dispositions ont été prises. Un nouveau programme immobilier a ainsi été élaboré et doit permettre, à l'horizon 2007, la création de nouvelles places en centres de rétention administrative par l'agrandissement des centres existants, la fermeture des centres anciens qui deviendraient inadaptés à la nouvelle durée de la rétention et la construction de nouveaux centres. En outre, au-delà de la nécessaire augmentation du nombre de places en centres de rétention administrative, l'allongement de la durée moyenne de séjour oblige à repenser l'esprit même de la rétention en redéfinissant les normes minimales d'équipements prévues par le décret n° 2001-236 du 19 mars 2001 auxquelles doivent satisfaire les centres et locaux de rétention et en envisageant le développement de prestations de service plus nombreuses et d'une qualité suffisante pour permettre à l'étranger d'envisager son éloignement dans des conditions plus sereines. C'est pour répondre à l'ensemble de ces préoccupations qu'une mission menée conjointement par les inspections générales de l'administration et des affaires sociales a été diligentée. Ses conclusions, qui devraient éclairer les choix à venir concernant les normes qualitatives à mettre en oeuvre, ont été rendues au mois de juillet 2004.
