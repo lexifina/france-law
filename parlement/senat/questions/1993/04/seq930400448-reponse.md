@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930400448
+
+- Question : [SEQ930400448](seq930400448.md) — Desserte RATP de Morangis (Essonne)
+
+## Réponse
+
+*Équipement, JO du 1993-06-24, page 1019*
+
+Réponse. - La création de la ligne d'autobus n° 299, qui intervient dans le cadre de l'opération , est le résultat d'une concertation avec les collectivités locales du secteur concerné. Elle est, en fait, un aménagement de la desserte assurée actuellement par la ligne 297, dont la RATP envisageait initialement la suppression totale. L'exploitation de cette nouvelle ligne, prévue à titre expérimental pour une durée d'un an, donnera lieu, à l'expiration de cette période, à l'établissement d'un bilan ; l'offre de transport pourra alors être ajustée au plus près aux besoins qui auront été constatés. La ligne 299 assurera pour les habitants de Morangis, la desserte de la porte d'Orléans par autoroute toutes les 15 minutes entre 5 h 15 et 7 heures, toutes les 45 minutes entre 7 h 45 et 17 heures, toutes les 15 minutes entre 17 h 15 et 18 h 30, toutes les 30 minutes entre 19 heures et 20 h 30. Par ailleurs, la ligne 297 assurera une desserte d'Antony toutes les 15 minutes et de la porte d'Orléans par la RN 20 toutes les 30 minutes. Cette dernière ligne prendra donc la relève en soirée des services assurés par la ligne 299, ainsi que les samedis, dimanches et jours fériés ; en raison de la faiblesse du trafic escompté, il n'est pas prévu de faire fonctionner la ligne 299 les fins de semaine et les jours fériés. Dans ces conditions et compte tenu des contraintes, l'opération , qui est réalisée à moyens constants, permettra, grâce à la combinaison des deux lignes en question la ligne 297 et la nouvelle ligne 299, d'assurer une qualité de service optimale sur les liaisons par autobus entre Morangis et Paris.
