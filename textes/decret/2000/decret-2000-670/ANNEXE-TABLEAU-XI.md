@@ -4,44 +4,42 @@ DÉFINITION DE L'EMPLOI
 
 justifiant de l'obtention de la nouvelle bonification indiciaire
 
-1. Chef du produit Annuaire.
+1. Chef des expéditions.
 
-2. Chef des expéditions.
+2. Responsable d'un département de production important.
 
-3. Responsable d'un département de production important.
+3. Responsable d'un grand compte de clientèle.
 
-4. Responsable d'un grand compte de clientèle.
+3.1. Agent chargé du dossier direction générale des impôts.
 
-5. Responsable commercial pour la région Ile-de-France.
+3.2. Agent chargé des dossiers comptabilité publique/douanes/redevance TV.
 
-6. Chef de la section des marchés à l'échelon du siège social.
+4. Responsable du département comptes de clientèle.
 
-7. Adjoint au chef du département administratif et financier de l'établissement douaisien.
+5. Responsable de la section formation.
 
-8. Responsable du département Comptes de clientèle.
+6. Chef du département clients institutionnels.
 
-9. Adjoint au chef du département Continu.
+7. Responsable de la gestion des correcteurs.
 
-10. Responsable de l'atelier Expéditions-livraisons.
+8. Chef de la section des achats divers de l'établissement de Paris.
 
-11. Responsable de la section Formation.
+9. Adjoint au directeur de l'usine d'Evry.
 
-12. Chef du département Clients institutionnels.
+10. Adjoint au chef du département gestion des magasins et achats.
 
-13. Responsable de la gestion des correcteurs.
+11. Responsable de la section sécurité et moyens de l'établissement de Douai.
 
-14. Chef de la section des achats divers de l'établissement de Paris.
+12. Secrétaire général de l'établissement de Douai, chargé des ressources humaines.
 
-15. Adjoint au chef du département Annuaire de l'établissement de Douai.
+13. Coordinatrice industrielle pour les produits fiduciaires.
 
-16. Adjoint au directeur de l'usine d'Evry.
+14. Responsable qualité entreprise.
 
-17. Responsable d'une équipe de l'atelier Offset-feuille.
+15. Responsable des devis pour les produits en continu.
 
-18. Adjoint au chef du département Gestion des magasins et achats.
+16. Responsable qualité site.
 
-19. Chef du département de gestion des magasins de l'établissement de Paris.
+17. Responsable du service diffusion logistique de l'établissement de Douai.
 
-20. Responsable de section chargé de la tenue des stocks comptables de l'entreprise.
-
-21. Responsable de la section Sécurité et moyens de l'établissement de Douai.
+18. Coordinatrice de la gestion du personnel, établissement de Paris.
