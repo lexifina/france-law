@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880310321
+
+- Question : [SEQ880310321](seq880310321.md) — Situation des familles de marins
+
+## Réponse
+
+*Mer, JO du 1988-05-10, page 684*
+
+Réponse. -Les pensions servies par la caisse de retrait des marins du commerce, de la pêche et de la plaisance sont assorties de majorations lorsque les pensionnés ont élevé des enfants. Ces majorations sont calculées en pourcentage du montant du principal de la pension. Le régime spécial de sécurité sociale des marins accorde le bénéfice de la majoration à partir de deux enfants, alors que les autres régimes d'assurance vieillesse ne l'octroient qu'à partir de trois enfants. Les règles applicables dans les différents régimes sont variables. Certains régimes, comme le régime général, prévoient l'octroi d'une bonification uniforme de 10 p. 100, quel que soit le nombre des enfants. D'autres régimes, comme celui des marins, accordent des bonifications à taux croissant à proportion du nombre d'enfants, avec un plafonnement à partir d'un nombre déterminé d'enfants. D'autres enfin, comme le régime des fonctionnaires, ne comportent pas d'autre limite qu'un écrêtement au cas où le total de la pension et des bonifications viennent à dépasser le traitement servant d'assiette au calcul de la pension. A l'heure actuelle, aucun régime de base de sécurité sociale ne prévoit de faire bénéficier les conjoints survivants du montant des bonifications qui étaient attachées à la pension de l'assuré. La forfaitisation des bonifications pour enfants dans le régime des marins a été effectivement demandée par une fraction des représentants des pensionnés de l'établissement national des invalides de la marine (E.N.I.M.). Ces propositions semblent loin d'emporter l'adhésion de la majorité des intéressés. La question continue cependant de faire l'objet de discussions dans le dialogue avec les représentants des marins.
