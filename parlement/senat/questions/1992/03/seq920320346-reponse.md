@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920320346
+
+- Question : [SEQ920320346](seq920320346.md) — Calcul des indemnités de maires et adjoints et résultats du recensement de 1990
+
+## Réponse
+
+*Intérieur, JO du 1992-09-03, page 2017*
+
+Réponse. - Le décret n° 90-1172 du 21 décembre 1990 authentifiant les résultats du recensement général de mars-avril 1990 dispose que " les nouveaux chiffres de la population seront, sous réserve de disposition législative ou réglementaire contraire, pris en considération pour l'application des lois et règlements à compter du 1er janvier 1991 " (art. 5). En l'absence de disposition d'ordre législatif ou réglementaire contraire, le décret susvisé est, dès lors, applicable y compris pour ce qui touche aux indemnités des élus locaux. Les nouveaux chiffres de la population n'ont toutefois pas été connus avec précision par les communes au moment de l'élaboration de leurs budgets de 1991. Aussi, les conseils municipaux ont pu être fondés à se baser sur les résultats du recensement de 1982 pour fixer le montant des indemnités de fonction pour cette année. Une telle dérogation avait, au demeurant, été admise en ce qui concerne les effets du recensement de 1975. La loi n° 92-108 du 3 février 1992 relative aux conditions d'exercice des mandats locaux apporte sur ce point une précision nécessaire. Elle dispose désormais, en son article 17, que la population à prendre en compte est la population totale municipale résultant du dernier recensement, les dispositions correspondantes en matière d'indemnité de fonction étant applicables depuis le renouvellement des conseils généraux et des conseils régionaux du mois de mars 1992. L'adaptation de cette loi, en modifiant les strates démographiques, d'une part, et en permettant une revalorisation significative des indemnités de fonction, d'autre part, est de nature à compenser les éventuels effets d'une diminution de la population communale.
