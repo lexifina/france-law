@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931203889
+
+- Question : [SEQ931203889](seq931203889.md) — Déroulement de carrière des fonctionnaires de l'Etat accomplissant des services dans les collectivités locales
+
+## Réponse
+
+*Fonction publique, JO du 1994-02-17, page 383*
+
+Réponse. - Les fonctionnaires de l'Etat qui accomplissent des services dans les collectivités locales peuvent être placés dans deux positions : soit celle de la mise à disposition dans le cadre de la répartition entre services de l'Etat et services des collectivités locales mise en oeuvre à l'occasion de la décentralisation ; soit le détachement dans un cadre d'emplois de la fonction publique territoriale. Dans ces deux cas, le fonctionnaire de l'Etat ne se trouve pas lésé. Dans l'hypothèse de la mise à disposition, les services accomplis dans la collectivité locale seront assimilés à des services accomplis pour le compte de l'Etat. Pour ce qui concerne le détachement, le fonctionnaire de l'Etat voit, malgré son départ vers une collectivité locale, sa carrière progresser dans son corps d'origine sur la base des durées moyennes d'échelons de son grade d'origine. En aucun cas, les services accomplis dans la fonction publique territoriale n'entraînent de stagnation dans la carrière. Toutefois, dans la position de détachement, le fonctionnaire détaché peut bénéficier d'un avancement de grade dans le cadre d'emplois d'accueil. Lors de la réintégration dans son corps d'origine, le fonctionnaire ne peut prétendre accéder au grade équivalent à celui atteint dans le cadre d'emplois d'accueil atteint. Ce principe de la " double carrière " est applicable non seulement pour les personnels détachés dans la fonction publique territoriale mais également pour tous les fonctionnaires de l'Etat détachés dans un autre corps. Il convient néanmoins de préciser que rien n'interdit au fonctionnaire détaché de bénéficier d'un avancement de grade dans son corps d'origine.
