@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991120510
+
+- Question : [SEQ991120510](seq991120510.md) — Assimilation de l'alcool à la drogue
+
+## Réponse
+
+*Santé, JO du 2000-01-13, page 134*
+
+Réponse. - Le projet de rapport de M. Kopp a été déposé auprès du collège scientifique de l'OFDT. Ses résultats sont actuellement en cours d'évaluation. Il convient de souligner que la réalisation d'une telle étude figure parmi les orientations prioritaires en matière de recherche du nouveau plan triennal de lutte contre la drogue et de prévention des dépendances. Ses conclusions ne visent en aucune manière à créer les conditions d'un amalgame entre le tabac, l'alcool et les drogues illicites. Elles répondent par contre à la nécessité de développer de nouveaux axes de recherche à partir d'une approche plus globale des différents comportements d'usage, d'abus, d'usage nocif et de dépendance. Cette étude s'inscrit par ailleurs dans une démarche globale d'évaluation des politiques publiques. Elle devrait permettre de mesurer l'impact de certaines mesures de santé publique à partir de nouveaux indicateurs macroéconomiques. Les préoccupations exprimées par la filière viti-vinicole apparaissent légitimes. Pour autant, il n'existe aucune contradiction entre le message de modération développé par ces professionnels et le développement d'une approche plus globale de l'ensemble des conduites addictives. Le souci de préserver la cohérence des messages adressés à la jeunesse nécessitera effectivement d'associer étroitement les producteurs de boissons alcoolisées à la définition de cette nouvelle approche globale en matière de prévention des dépendances. Il ne fait toutefois pas de doute que les professionnels de santé et les représentants du secteur viti-vinicole sauront trouver le moyen d'articuler leurs actions respectives de prévention autour de la distinction entre usage, abus, usage nocif et dépendance.
