@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031109851
+
+- Question : [SEQ031109851](seq031109851.md) — Proposition de loi tendant à la création de délégations parlementaires aux droits de l'enfant
+
+## Réponse
+
+*Relations avec le Parlement, JO du 2003-12-11, page 3597*
+
+Pour le Gouvernement, la protection de l'enfance constitue une véritable priorité. C'est ainsi qu'a été présenté, lors du conseil des ministres du 10 septembre 2003, un projet de loi relatif à l'accueil et à la protection de l'enfance. Ce texte important en matière de lutte contre les maltraitances institue notamment un observatoire de l'enfance maltraitée et contient des dispositions relatives à la constitution de partie civile par les associations de protection et de défense de l'enfance maltraitée. En soumettant ce projet de loi aux assemblées, le Gouvernement a souhaité que les parlementaires soient étroitement associés à l'amélioration des mesures de lutte contre la maltraitance. C'est ainsi qu'à l'occasion de la discussion de ce texte au Sénat, le 16 octobre dernier, le Gouvernement a donné un avis favorable à plusieurs suggestions des sénateurs. Un amendement du Gouvernement visant à améliorer la protection des médecins qui signalent des faits de maltraitance aux procureurs de la République a par ailleurs repris et élargi certaines propositions faites par l'honorable parlementaire. La proposition de loi tendant à la création de délégations parlementaires aux droits de l'enfant, adoptée à l'unanimité par l'Assemblée nationale, a été transmise au Sénat le 17 février 2003. Concernant la création de délégations parlementaires, il appartient aux assemblées d'en décider, comme elles l'ont fait pour les délégations aux droits des femmes et à l'égalité des chances entre les hommes et les femmes en inscrivant une proposition de loi à l'ordre du jour d'une séance mensuelle d'initiative parlementaire.
