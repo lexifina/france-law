@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951012531
+
+- Question : [SEQ951012531](seq951012531.md) — Réforme de la taxe d'apprentissage
+
+## Réponse
+
+*Travail, JO du 1996-07-25, page 1933*
+
+Réponse. - L'honorable parlementaire a appelé l'attention de monsieur le ministre du travail et des affaires sociales sur les attentes des chambres de commerce et d'industrie (CCI) quant à la réforme de la formation professionnelle et la rénovation de l'apprentissage. Le ministre du travail et des affaires sociales tient à rappeler à l'honorable parlementaire que, conscient du rôle majeur joué par les CCI dans le développement de la formation professionnelle et de l'apprentissage, il a tenu à les associer aux différentes tables rondes qui se sont tenues préalablement à la préparation de la loi du 6 mai 1996 portant réforme du financement de l'apprentissage et à les consulter à chacune des étapes de sa préparation. Il convient à cet égard de souligner que cette loi ne remet pas en cause les attributions des chambres de commerce et d'industrie dans la collecte de la taxe d'apprentissage, dégage les ressources nécessaires pour le développement de l'apprentissage et met en place un nouveau dispositif de prime à l'apprentissage qui incitera les employeurs à recourir à cette voie de formation. S'agissant de l'économie générale du système de formation professionnelle, une mission de réflexion et de propositions a été confiée à monsieur Michel de Virville, secrétaire général du groupe Renault. Celui-ci a eu des échanges avec les différentes parties intéressées, et notamment avec l'Assemblée des chambres françaises de commerce et d'industrie. C'est sur la base de ses propositions, et des réactions qu'elles auront suscitées, que le Gouvernement décidera de nouvelles réformes dans le domaine de la formation professionnelle.
