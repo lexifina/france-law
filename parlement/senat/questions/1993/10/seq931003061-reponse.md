@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931003061
+
+- Question : [SEQ931003061](seq931003061.md) — Musée des martyrs : retrait de l'appellation " musée "
+
+## Réponse
+
+*Culture, JO du 1993-12-09, page 2355*
+
+Réponse. - Depuis que la notion de musée est apparue en France, il y a deux siècles, aucun texte juridique n'a jamais cherché à protéger cette appellation, l'Etat se limitant à définir les conditions nécessaires pour que de tels établissements puissent être reconnus ou protégés par la puissance publique. Cette absence de protection juridique du label " musée " a permis, que, au-delà des institutions reconnues par l'Etat, de très nombreuses structures à vocation purement commerciale voient le jour et puissent légalement se prévaloir de cette appellation. Cette situation regrettable ne peut être aujourd'hui modifiée par le législateur pour le motif qu'une disposition législative nouvelle réservant l'utilisation du label " musée " aux seuls musées reconnus par l'Etat obligerait de très nombreux musées privés à but purement lucratif à cesser d'exercer leur activité sous cette appellation. Une telle situation obligerait l'Etat à indemniser les sociétés privées concernées pour le préjudice que la loi nouvelle leur ferait subir. Le musée dénommé " les Martyrs de Paris " est géré par une entreprise commerciale et n'a jamais été reconnu par l'Etat comme un musée, il n'est donc pas possible à l'Etat de lui retirer cette appellation. Le fait que certaines scènes présentées dans ce musée de cire présentent un caractère brutal et choquant a été établi par les autorités de police qui ont interdit son accès aux enfants de moins de douze ans, ces mêmes autorités de police ont cependant considéré que l'ouverture de cet établissement à un public plus âgé ne constituait pas un risque sérieux de trouble à l'ordre public justifiant sa fermeture.
