@@ -10,7 +10,7 @@ Les montants de 9000 F et 1500 F sont portés respectivement à 1500 F et 2000 F
 
 Pour les prêts contractés à compter du 1er juin 1986 par les personnes citées au second alinéa de l'article 6 pour la construction ou l'acquisition de logements neufs, le montant de 15.000 F est porté à 30.000 F. Il est augmenté de 2000 F par personne à charge au sens des articles 196 à 196 B. En outre, il est appliqué une majoration complémentaire de 500 F pour le deuxième enfant et de 1 000 F par enfant à partir du troisième.
 
-b. Les dispositions du a s'appliquent même lorsque l'immeuble n'est pas affecté immédiatement à l'habitation principale, à la condition que le propriétaire prenne l'engagement de lui donner cette affectation avant le 1er janvier de la troisième année qui suit celle de la conclusion du contrat de prêt ou du paiement des dépenses. Le non-respect de cet engagement donne lieu à la reprise de la réduction d'impôt dont le contribuable a indûment bénéficié, sans préjudice des sanctions prévues aux articles 1728 et 1729 ;
+b. Les dispositions du a s'appliquent même lorsque l'immeuble n'est pas affecté immédiatement à l'habitation principale, à la condition que le propriétaire prenne l'engagement de lui donner cette affectation avant le 1er janvier de la troisième année qui suit celle de la conclusion du contrat de prêt ou du paiement des dépenses. Le non-respect de cet engagement donne lieu à la reprise de la réduction d'impôt dont le contribuable a indûment bénéficié, sans préjudice des sanctions prévues à l'article 1729 ;
 
 c. Les réductions d'impôt prévues au a et au b sont étendues aux locaux compris dans des exploitations agricoles et affectés à l'habitation des propriétaires exploitants ;
 
