@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910414767
+
+- Question : [SEQ910414767](seq910414767.md) — Conséquences de l'application de la loi relative au surendettement des ménages sur le fonctionnement des tribunaux d'instance
+
+## Réponse
+
+*Justice, JO du 1991-06-06, page 1183*
+
+Réponse. - L'effectif budgétaire du greffe du tribunal d'instance de Rambouillet se compose d'un greffier en chef, 2 greffiers, 5 fonctionnaires de catégorie C et un agent de service. Un poste de greffier est actuellement vacant, et est proposé en vue de la prochaine réunion de la commission administrative paritaire compétente aux fonctionnaires sollicitant leur mutation. sept agents de catégorie C sont affectés au greffe, dont un en surnombre, ce qui permet la compensation intégrale du travail à temps partiel. La mise en oeuvre des dispositions de la loi du 31 décembre 1989 relative au surendettement des particuliers et des familles génère un surcroît d'activité pour de nombreux tribunaux d'instance, et notamment pour les fonctionnaires de greffe dont la mission d'accueil et d'orientation est particulièrement importante en cette matière. L'évolution de la charge de travail qui en résulte pour ces juridictions est par conséquent suivie avec attention par la chancellerie, afin de procéder au renforcement de l'effectif budgétaire des juridictions concernées. D'ores et déjà, 18 postes de greffier créés au budget 1991 ont été localisés dans des tribunaux d'instance. Cet effort sera poursuivi dans le cadre du budget 1992. Il conviendra, dès lors, de déterminer si, compte tenu de sa charge de travail par rapport à la moyenne nationale, le tribunal de Rambouillet doit être renforcé. Toutefois, 2 postes de greffiers placés auprès des chefs de cour, créés au budget 1991, ont été localisés dans la cour d'appel de Versailles, afin de répondre aux situations urgentes.
