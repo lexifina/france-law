@@ -10,7 +10,7 @@ Paris.
 
 77 - Seine-et-Marne
 
-Brou-sur-Chantereine, Champs-sur-Marne, Chelles, Combs-la-Ville, Courtry, Lésigny, Mitry-Mory, Pontault-Combault, Roissy-en-Brie, Servon, Vaires-sur -Marne et Villeparisis.
+Brou-sur-Chantereine, Champs-sur-Marne, Chelles, Combs-la-Ville, Courtry, Lésigny, Mitry-Mory, Pontault-Combault, Roissy-en-Brie, Servon, Vaires-sur -Marne et Villeparisis, Carnetin et Chalifert.
 
 Ville nouvelle de Melun-Sénart.
 
@@ -24,7 +24,7 @@ Bailly-Romainvilliers, Bussy-Saint-Georges, Bussy-Saint-Martin, Chanteloup, Ches
 
 78 - Yvelines
 
-Achères, Andrésy, Bois-d’Arcy, Bougival, Buc, Carrières-sous-Poissy, Carrières-sur-Seine, La Celle-Saint-Cloud, Chambourcy, Chanteloup-les- Vignes, Chatou, Le Chesnay, Chevreuse, Conflans-Sainte-Honorine, Croissy-sur-Seine, L’Etang-la-Ville, Fontenay-le-Fleury, Fourqueux, Houilles, Jouy-en-Josas, Les Loges-en-Josas, Louveciennes, Le Pecq, Poissy, Le Port-Marly, Maisons-Laffitte, Mareil-Marly, Marly-le-Roi, Maurecourt, Le Mesnil-le-Roi, Montesson, Orgeval, Rocquencourt, Saint-Cyr-l’Ecole, Saint-Germain-en-Laye, Saint-Rémy-lès-Chevreuse, Sartrouville, Vélizy-Villacoublay, Versailles, Le Vésinet et Viroflay.
+Achères, Andrésy, Bois-d’Arcy, Bougival, Buc, Carrières-sous-Poissy, Carrières-sur-Seine, La Celle-Saint-Cloud, Chambourcy, Chanteloup-les- Vignes, Chatou, Le Chesnay, Chevreuse, Conflans-Sainte-Honorine, Croissy-sur-Seine, L’Etang-la-Ville, Fontenay-le-Fleury, Fourqueux, Houilles, Jouy-en-Josas, Les Loges-en-Josas, Louveciennes, Le Pecq, Poissy, Le Port-Marly, Maisons-Laffitte, Mareil-Marly, Marly-le-Roi, Maurecourt, Le Mesnil-le-Roi, Montesson, Orgeval, Rocquencourt, Saint-Cyr-l’Ecole, Saint-Germain-en-Laye, Saint-Rémy-lès-Chevreuse, Sartrouville, Vélizy-Villacoublay, Versailles, Le Vésinet et Viroflay, Aigremont, Bazoches-sur-Guyonne, Buchelay, Chapet, Evecquemont, Follainville-Dennemont, Gaillon-sur-Montcient, Gargenville, Hardricourt, Issou, Jouars-Pontchartrain, Juziers, Les Clayes-sous-Bois, Les Mureaux, Le Tremblay-sur-Mauldre, Limay, Magnanville, Mantes-la-Jolie, Mantes-la-Ville, Médan, Meulan, Mézy-sur-Seine, Neauphle-le-Château, Neauphle-le-Vieux, Porcheville, Saint-Germain-de-la-Grange, Triel-sur-Seine, Vaux-sur-Seine, Verneuil-sur-Seine, Vernouillet, Villennes-sur-Seine, Villepreux et Villiers-Saint-Frédéric.
 
 Ville nouvelle de Saint-Quentin-en-Yvelines.
 
@@ -34,9 +34,7 @@ Châteaufort, Coignières, Elancourt, Guyancourt, Magny-les-Hameaux, Maurepas, L
 
 91 - Essonne
 
-Arpajon, Athis-Mons, Ballainvilliers, Bièvres, Boissy-sous-Saint-Yon, Boussy-Saint-Antoine, Brétigny-sur-Orge, Breuillet, Breux, Brunoy, Bruyères-le-Châtel, Bures-surYvette, Champlan, Chilly-Mazarin, Corbeil- Essonnes, Crosne, Draveil, Egly, Epinay-sous-Sénart, Epinay-sur-Orge, Evry, Gif-sur-Yvette, Gometz-le-Châtel, Grigny, Igny, Juvisy-sur-Orge, Leuville-sur-Orge, Linas, Longjumeau, Longpont-sur-Orge, Marcoussis, Massy, Mennecy, Montgeron, Montlhéry, Morangis, Morsang-sur-Orge, La Norville, Ollainville, Ormoy, Orsay, Palaiseau, Paray-Vieille-Poste, Le Plessis-Pâté, Quincy-sous-Sénart,
-
-Ris-Orangis, Sainte-Geneviève-des-Bois, Saint-Germain-lès-Arpajon, Saint-Michel-sur-Orge, Saintry-sur-Seine, Saint-Yon, Saulx-les-Chartreux, Savigny-sur-Orge, Les Ulis, Varennes-Jarcy, Vauhallan, Varrières-le-Buisson, Vigneux-sur-Seine, Villabé, La Ville-du-Bois, Villebon-sur-Yvette, Villemoisson-sur-Orge, Villiers-sur-Orge, Viry-Châtillon, Wissous et Yerres.
+Arpajon, Athis-Mons, Ballainvilliers, Bièvres, Boissy-sous-Saint-Yon, Boussy-Saint-Antoine, Brétigny-sur-Orge, Breuillet, Breux, Brunoy, Bruyères-le-Châtel, Bures-surYvette, Champlan, Chilly-Mazarin, Corbeil- Essonnes, Crosne, Draveil, Egly, Epinay-sous-Sénart, Epinay-sur-Orge, Evry, Gif-sur-Yvette, Gometz-le-Châtel, Grigny, Igny, Juvisy-sur-Orge, Leuville-sur-Orge, Linas, Longjumeau, Longpont-sur-Orge, Marcoussis, Massy, Mennecy, Montgeron, Montlhéry, Morangis, Morsang-sur-Orge, La Norville, Ollainville, Ormoy, Orsay, Palaiseau, Paray-Vieille-Poste, Le Plessis-Pâté, Quincy-sous-Sénart, Ris-Orangis, Sainte-Geneviève-des-Bois, Saint-Germain-lès-Arpajon, Saint-Michel-sur-Orge, Saintry-sur-Seine, Saint-Yon, Saulx-les-Chartreux, Savigny-sur-Orge, Les Ulis, Varennes-Jarcy, Vauhallan, Varrières-le-Buisson, Vigneux-sur-Seine, Villabé, La Ville-du-Bois, Villebon-sur-Yvette, Villemoisson-sur-Orge, Villiers-sur-Orge, Viry-Châtillon, Wissous et Yerres, Fontenay-le-Vicomte.
 
 Ville nouvelle d’Evry.
 
@@ -86,7 +84,7 @@ Genève (communes françaises de l’agglomération de).
 
 (Complément en Haute-Savoie.)
 
-Ferney-Voltaire, Ornex, Prévessin-Moëns.
+Ferney-Voltaire, Ornex, Prévessin-Moëns, Saint-Genis-Pouilly, Sergy et Thoiry.
 
 Lyon.
 
@@ -100,13 +98,13 @@ Ville franche-sur-Saône.
 
 (Complément en Rhône.)
 
-Jassans-Riottier et Frans.
+Jassans-Riottier et Frans, Beauregard.
 
 06 - Alpes-Maritimes
 
 Nice.
 
-Beaulieu-sur-Mer, Cagnes-sur-Mer, Cantaron, Carros, La Colle-sur- Loup, Colomars, Contes, Drap, Falicon, Nice, Saint-André, Saint-Jean-Cap-Ferrat, Saint-Laurent-du-Var, Saint-Paul, Tourrette-Levens, La Trinité, Villefranche et Villeneuve-Loubet.
+Beaulieu-sur-Mer, Cagnes-sur-Mer, Cantaron, Carros, La Colle-sur- Loup, Colomars, Contes, Drap, Falicon, Nice, Saint-André, Saint-Jean-Cap-Ferrat, Saint-Laurent-du-Var, Saint-Paul, Tourrette-Levens, La Trinité, Villefranche et Villeneuve-Loubet, Châteauneuf-de-Contes, Gattières, La Gaude, Saint-Jeannet, Tourrettes-sur-Loup et Vence.
 
 Cannes - Grasse - Antibes.
 
@@ -150,13 +148,13 @@ Aix-en-Provence, Arles, Berre-l’Etang, Châteauneuf-lès-Martigues, Fos-sur- M
 
 Caen.
 
-Bretteville-sur-Odon, Caen, Carpiquet, Colombelles, Cormelles-le-Royal, Demouville-Fleury-sur-Orne, Fontaine, Etoupefour, Giberville, Hérouville- Saint-Clair, Ifs, Mondeville, Saint-Germain-la-Blanche-Herbe et Verson, Baron-sur-Odon et Cuverville.
+Bretteville-sur-Odon, Caen, Carpiquet, Colombelles, Cormelles-le-Royal, Demouville-Fleury-sur-Orne, Fontaine, Etoupefour, Giberville, Hérouville- Saint-Clair, Ifs, Mondeville, Saint-Germain-la-Blanche-Herbe et Verson, Baron-sur-Odon et Cuverville, Epron et Rots.
 
 16 - Charente
 
 Angoulême.
 
-Angoulême La Couronne, Fléac, Le Gond-Pontouvre, L’Isle d’Espagnac, Linars, Magnac-sur-Touvre, Nersac, Ruelle, Saint-Michel, Saint- Yreix-sur-Charente, Soyaux, Touvre et Trois-Palis, Puymoyen.
+Angoulême La Couronne, Fléac, Le Gond-Pontouvre, L’Isle d’Espagnac, Linars, Magnac-sur-Touvre, Nersac, Ruelle, Saint-Michel, Saint- Yreix-sur-Charente, Soyaux, Touvre et Trois-Palis, Puymoyen, Mornac.
 
 17 - Charente-Maritime
 
@@ -172,7 +170,7 @@ L’ensemble des communes des départements de la Corse-du-Sud et de la Haute-Co
 
 Dijon.
 
-Chenôve, Daix, Dijon, Fontaine-lès-Dijon, Longvic, Marsannay-la-Côte, Perrigny-lès-Dijon, Plombières-lès-Dijon, Quetigny, Saint-Apollinaire et Talant, Chevigny-Saint-Sauveur.
+Chenôve, Daix, Dijon, Fontaine-lès-Dijon, Longvic, Marsannay-la-Côte, Perrigny-lès-Dijon, Plombières-lès-Dijon, Quetigny, Saint-Apollinaire et Talant, Chevigny-Saint-Sauveur, Neuilly-lès-Dijon, Ouges et Sennecey-lès-Dijon.
 
 25 - Doubs
 
@@ -220,19 +218,19 @@ Bernis, Milhaud et Nîmes, Uchaud.
 
 Toulouse.
 
-Aucambille, Auzeville-Tolosane, Balma, Beauzelle, Blagnac, Castanet-Tolosan, Castelginest, Castelmaurou, Colomiers, Cugnaux, Fenouillet, Fonbeauzard, Frouzins, Gagnac-sur-Garonne, Labège, Launaguet, Lespinasse, Péchabou, Pibrac, Pinsaguei, Plaisance-du-Touch, Pompertuzat, Portet-sur-Garonne, Quint, Ramonville-Saint-Agne, Roques, Rouffiac-Tolosan, Saint-Alban, Saint-Geniès-Bellevue, Saint-Jean, Saint-Orens-de-Gameville, La Salvetat-Saint-Gilles, Toulouse, Tournefeuille, L’Union et Villeneuve-Tolosane, Brax, Cornebarrieu, La Bastide-Saint-Sernin, La Peyrousse-Fossat, Leguevin, Montberon, Montrabe, Pechbonnieu, Saint-Jory, Saint-Loup-Cammas et Seysses.
+Aucambille, Auzeville-Tolosane, Balma, Beauzelle, Blagnac, Castanet-Tolosan, Castelginest, Castelmaurou, Colomiers, Cugnaux, Fenouillet, Fonbeauzard, Frouzins, Gagnac-sur-Garonne, Labège, Launaguet, Lespinasse, Péchabou, Pibrac, Pinsaguei, Plaisance-du-Touch, Pompertuzat, Portet-sur-Garonne, Quint, Ramonville-Saint-Agne, Roques, Rouffiac-Tolosan, Saint-Alban, Saint-Geniès-Bellevue, Saint-Jean, Saint-Orens-de-Gameville, La Salvetat-Saint-Gilles, Toulouse, Tournefeuille, L’Union et Villeneuve-Tolosane, Brax, Cornebarrieu, La Bastide-Saint-Sernin, La Peyrousse-Fossat, Leguevin, Montberon, Montrabe, Pechbonnieu, Saint-Jory, Saint-Loup-Cammas et Seysses, Aussonne, Beaupuy, Belberaud, Eaunes, Escalquens, Labarthe-sur-Lèze, Muret, Pins-Justaret, Roquettes, Seilh et Villate.
 
 33 - Gironde
 
 Bordeaux.
 
-Ambarès-et-Lagrave, Ambès, Artigues-près-Bordeaux, Bassens, Bègles, Blanquefort, Bordeaux, Bouliac, Le Bouscat, Bruges, Cadaujac, Canéjean, Carbon-Blanc, Cenon, Cestas, Eysines, Floirac, Gradignan, Le Haillan, Latresne, Léognan, Lormont, Mérignac, Parempuyre, Pessac, Pompignac, Saint-Aubin-de-Médoc, Sainte-Eulalie, Saint-Loubès, Saint-Louis-de-Montferrand, Saint-Médard-en-Jalles, Saint-Vincent-de-Paul, Le Taillan-Médoc, Talence, Tresses, Villenave d’Ornon et Yvrac, Carignan-de-Bordeaux, Izon, Montussan, Saint-Sulpice-et-Cameyrac et Vayres.
+Ambarès-et-Lagrave, Ambès, Artigues-près-Bordeaux, Bassens, Bègles, Blanquefort, Bordeaux, Bouliac, Le Bouscat, Bruges, Cadaujac, Canéjean, Carbon-Blanc, Cenon, Cestas, Eysines, Floirac, Gradignan, Le Haillan, Latresne, Léognan, Lormont, Mérignac, Parempuyre, Pessac, Pompignac, Saint-Aubin-de-Médoc, Sainte-Eulalie, Saint-Loubès, Saint-Louis-de-Montferrand, Saint-Médard-en-Jalles, Saint-Vincent-de-Paul, Le Taillan-Médoc, Talence, Tresses, Villenave d’Ornon et Yvrac, Carignan-de-Bordeaux, Izon, Montussan, Saint-Sulpice-et-Cameyrac et Vayres, Camblanes-et-Meynac, Fargues-Saint-Hilaire, Le Plan-Médoc et Quinsac.
 
 34 - Hérault
 
 Montpellier.
 
-Castelnau-le-Lez, Le Crès, Juvignac, Montferrier-sur-Lez, Montpellier et Vendargues.
+Castelnau-le-Lez, Le Crès, Juvignac, Montferrier-sur-Lez, Montpellier et Vendargues, Clapiers, Jacou et Saint-Clément-de-Rivière.
 
 35 - Ille-et-Vilaine
 
@@ -244,13 +242,13 @@ Bruz, Cesson-Sévigné, Chantepié, Chartres-de-Bretagne, Rennes, Saint- Grégoi
 
 Tours.
 
-Ballan-Miré, Chambray-lès-Tours, Fondettes, Joué-lès-Tours, La Membrolle- sur-Choisille, Montbazon, Parçay-Meslay, La Riche, Rochecorbon, Saint-Avertin, Saint-Cyr-sur-Loire, Saint-Genouph, Saint-Pierre-des-Corps, Tours, Veigné, La Ville-aux-Dames et Vouvray, Larçay, Luynes et Vernou-sur-Brenne.
+Ballan-Miré, Chambray-lès-Tours, Fondettes, Joué-lès-Tours, La Membrolle- sur-Choisille, Montbazon, Parçay-Meslay, La Riche, Rochecorbon, Saint-Avertin, Saint-Cyr-sur-Loire, Saint-Genouph, Saint-Pierre-des-Corps, Tours, Veigné, La Ville-aux-Dames et Vouvray, Larçay, Luynes et Vernou-sur-Brenne, Mettray et Montlouis-sur-Loire.
 
 38 - Isère
 
 Grenoble.
 
-Bernin, Biviers, Bresson, Le Champ-près-Froges, Claix, Corenc, Crolles, Domène, Echirolles, Eybens, Fontaine, Fontanil-Cornillon, Froges, Gières, Grenoble, Meylan, Montbonnot-Saint-Martin, Murianette, Noyarey, Poisat, Le Pont-de-Claix, Saint-Egrève, Saint-lsmier, Saint-Martin-d’Hères, Saint-Martin-le-Vinoux, Saint-Nazaire-lès-Eymes, Sassenage, Seyssinet-Pariset, Seyssins, La Tronche, Le Versoud, Veurey-Voroize, Villard-Bonnot et Voreppe.
+Bernin, Biviers, Bresson, Le Champ-près-Froges, Claix, Corenc, Crolles, Domène, Echirolles, Eybens, Fontaine, Fontanil-Cornillon, Froges, Gières, Grenoble, Meylan, Montbonnot-Saint-Martin, Murianette, Noyarey, Poisat, Le Pont-de-Claix, Saint-Egrève, Saint-lsmier, Saint-Martin-d’Hères, Saint-Martin-le-Vinoux, Saint-Nazaire-lès-Eymes, Sassenage, Seyssinet-Pariset, Seyssins, La Tronche, Le Versoud, Veurey-Voroize, Villard-Bonnot et Voreppe, Varces-Allières-et-Risset.
 
 Ville nouvelle de L’lsle-d’Abeau.
 
@@ -274,13 +272,13 @@ Ondres et Tarnos.
 
 Saint-Etienne.
 
-Andrézieux-Bouthéon, Bonson, Le Chambon-Feugerolles, Châteauneuf, L’Etrat, Firminy, Fraisse, Genilac, La Grand-Croix, La Fouillouse, L’Horme, Lorette, La Ricamarie, Rive-de-Gier, Roche-la-Molière, Saint-Chamond, Saint-Cyprien, Saint-Etienne, Saint-Genest-Lerpt, Saint-Jean-Bonnefonds, Saint-Joseph, Saint-Just-Saint-Rambert, Saint-Martin-la-Plaine, Saint-Paul-en-Jarez, Saint-Priest-en-Jarez, Sorbiers, La Talaudière, La Tour-en-Jarez, Unieux et Villars.
+Andrézieux-Bouthéon, Bonson, Le Chambon-Feugerolles, Châteauneuf, L’Etrat, Firminy, Fraisse, Genilac, La Grand-Croix, La Fouillouse, L’Horme, Lorette, La Ricamarie, Rive-de-Gier, Roche-la-Molière, Saint-Chamond, Saint-Cyprien, Saint-Etienne, Saint-Genest-Lerpt, Saint-Jean-Bonnefonds, Saint-Joseph, Saint-Just-Saint-Rambert, Saint-Martin-la-Plaine, Saint-Paul-en-Jarez, Saint-Priest-en-Jarez, Sorbiers, La Talaudière, La Tour-en-Jarez, Unieux et Villars, Farnay, Sury-le-Comtal et Veauche.
 
 44 - Loire-Atlantique
 
 Nantes.
 
-Basse-Goulaine, Bouguenais, Carquefou, La Chapelle-sur-Erdre, Couëron, Indre, La Montagne, Nantes, Orvault, Le Pellerin, Rezé, Saint- Herblain, Sainte-Luce-sur-Loire, Saint-Jean-de-Boiseau, Saint-Sébastien-sur-Loire, Sautron, Les Sorinières, Thouaré-sur-Loire et Vertou.
+Basse-Goulaine, Bouguenais, Carquefou, La Chapelle-sur-Erdre, Couëron, Indre, La Montagne, Nantes, Orvault, Le Pellerin, Rezé, Saint- Herblain, Sainte-Luce-sur-Loire, Saint-Jean-de-Boiseau, Saint-Sébastien-sur-Loire, Sautron, Les Sorinières, Thouaré-sur-Loire et Vertou, Haute-Goulaine.
 
 Saint-Nazaire.
 
@@ -296,19 +294,19 @@ Boigny-sur-Bionne, La Chapelle-Saint-Mesmin, Chécy, Combleux, Fleury-lès-Aubra
 
 Angers.
 
-Angers, Avrillé, Beaucouzé, Bouchemaine, Ecouflant, Mûrs-Erigné, Les Ponts-de-Cé, Saint-Barthélemy-d’Anjou, Sainte-Gemmes-sur-Loire et Trélazé.
+Angers, Avrillé, Beaucouzé, Bouchemaine, Ecouflant, Mûrs-Erigné, Les Ponts-de-Cé, Saint-Barthélemy-d’Anjou, Sainte-Gemmes-sur-Loire et Trélazé, Juigné-sur-Loire.
 
 51 - Marne
 
 Reims.
 
-Bétheny, Cormontreuil, Reims, Saint-Brice-Courcelles et Tinqueux.
+Bétheny, Cormontreuil, Reims, Saint-Brice-Courcelles et Tinqueux, Saint-Léonard.
 
 54 - Meurthe-et-Moselle
 
 Nancy.
 
-Bouxières-aux-Dames, Champigneulles, Custines, Dommartemont, Essey-lès-Nancy, Frouard, Heillecourt, Houdemont, Jarville-la-Mal-grange, Laneuveville-devant-Nancy, Laxou, Liverdun, Malleloy, Malzéville, Maxéville, Nancy, Pompey, Pulnoy, Saint-Max, Saulxures-lès-Nancy, Seichamps, Tomblaine, Vandoeuvre-lès-Nancy et Villers-lès-Nancy, Dombasle-sur-Meurthe, Fléville-devant-Nancy, Ludres, Saint-Nicolas-de-Port et Varangeville.
+Bouxières-aux-Dames, Champigneulles, Custines, Dommartemont, Essey-lès-Nancy, Frouard, Heillecourt, Houdemont, Jarville-la-Mal-grange, Laneuveville-devant-Nancy, Laxou, Liverdun, Malleloy, Malzéville, Maxéville, Nancy, Pompey, Pulnoy, Saint-Max, Saulxures-lès-Nancy, Seichamps, Tomblaine, Vandoeuvre-lès-Nancy et Villers-lès-Nancy, Dombasle-sur-Meurthe, Fléville-devant-Nancy, Ludres, Saint-Nicolas-de-Port et Varangeville, Bainville-sur-Madon, Chaligny, Chavigny, Eulmont, Lay-Saint-Cristophe, Messein, Neuves-Maisons et Pont-Saint-Vincent.
 
 Hagondange-Briey.
 
@@ -320,7 +318,7 @@ Auboué, Briey, Homécourt, Joeuf et Moutiers.
 
 Lorient.
 
-Lanester, Larmor-Plage, Lorient et Ploemeur.
+Lanester, Larmor-Plage, Lorient et Ploemeur, Quéven.
 
 57 - Moselle
 
@@ -384,7 +382,7 @@ Ames, Amettes, Annequin, Annezin, Auchy-au-Bois, Auchy-les-Mines, Barlin, Bénif
 
 Boulogne-sur-Mer.
 
-Boulogne-sur-Mer, Echinghem, Isques, Outreau, Le Portel, Saint-Etienne-au-Mont, Saint-Léonard, Saint-Martin-Boulogne et Wimille.
+Boulogne-sur-Mer, Echinghem, Isques, Outreau, Le Portel, Saint-Etienne-au-Mont, Saint-Léonard, Saint-Martin-Boulogne et Wimille, Wimereux.
 
 Bruay-en-Artois.
 
@@ -426,17 +424,17 @@ Bayonne.
 
 (Complément en Landes.)
 
-Anglet, Arcangues, Bassussany, Bayonne, Biarritz, Bidart, Boucau, Guéthary, Mouguerre et Saint-Pierre-d’Irube.
+Anglet, Arcangues, Bassussany, Bayonne, Biarritz, Bidart, Boucau, Guéthary, Mouguerre et Saint-Pierre-d’Irube, Ciboure, Lahonce, Saint-Jean-de-Luz, Urrugne et Villefranque.
 
 Pau.
 
-Aressy, Billère, Bizanos, Gelos, Idron-Lée-Ousse-Sendets, Jurançon, Lescar, Lons, Mazères-Lezons, Meillon, Pau, Rontignon et Uzos, Narcastet.
+Aressy, Billère, Bizanos, Gelos, Idron-Lée-Ousse-Sendets, Jurançon, Lescar, Lons, Mazères-Lezons, Meillon, Pau, Rontignon et Uzos, Narcastet, Assat, Baliros, Boeil-Bezing, Bordes, Morlaàs, Serres-Morlaàs et Siros.
 
 66 - Pyrénées-Orientales
 
 Perpignan.
 
-Cabestany, Perpignan, Pia et Saint-Estève, Bompas et Toulouges.
+Cabestany, Perpignan, Pia et Saint-Estève, Bompas et Toulouges, Baho, Canohès, Le Soler, Peyrestortes et Rivesaltes.
 
 67 - Bas-Rhin
 
@@ -466,7 +464,7 @@ Ville franche-sur-Saône.
 
 (Complément en Ain.)
 
-Villefranche-sur-Saône, Gleize, Limas, Arnas et Pommiers.
+Villefranche-sur-Saône, Gleize, Limas, Arnas et Pommiers, Denicé et Liergues.
 
 71 - Saône-et-Loire
 
@@ -492,11 +490,11 @@ Genève (communes françaises de l’agglomération de).
 
 (Complément en Ain.)
 
-Ambilly, Annemasse, Arthaz-Pont-Notre-Dame, Granves-Sales, Etrembières, Gaillard, Monnetier-Mornex, Saint-Julien-en-Genevois, Vetraz-Monthoux et Ville-la-Grand, Lucinges.
+Ambilly, Annemasse, Arthaz-Pont-Notre-Dame, Granves-Sales, Etrembières, Gaillard, Monnetier-Mornex, Saint-Julien-en-Genevois, Vetraz-Monthoux et Ville-la-Grand, Lucinges, Bonne, Contamine-sur-Arve, Fillinges et Marcellaz.
 
 Annecy.
 
-Annecy, Annecy-le-Vieux, Gran-Gevrier, Meythet, Poisy, Pringy, Saint-Jorioz, Sévrier et Seynod, Argonay, Chavanod et Lovagny.
+Annecy, Annecy-le-Vieux, Gran-Gevrier, Meythet, Poisy, Pringy, Saint-Jorioz, Sévrier et Seynod, Argonay, Chavanod et Lovagny, Duingt, Epagny et Metz-Tessy.
 
 76 - Seine-Maritime
 
@@ -540,7 +538,7 @@ Avignon, Bédarrides, Eentraigues-sur-Sorgues, Morière-lès-Avignon, Le Pontet,
 
 Poitiers.
 
-Biard, Buxerolles, Chasseneuil-du-Poitou, Migne-Auxances, Poitiers, Saint-Benoît.
+Biard, Buxerolles, Chasseneuil-du-Poitou, Migne-Auxances, Poitiers, Saint-Benoît, Jaunay-Clan et Mignaloux-Beauvoir.
 
 87 - Haute-Vienne
 
