@@ -52,13 +52,11 @@ Effectuer le raccordement d'ensembles comportant des composants électriques, pn
 
 de biens d'équipements industriels
 
-Réaliser des montages de sous-ensembles tournants présentant des contraintes d'étanchéité.
+Réaliser le parachèvement de pièces de réglage pour le montage d'ensembles mécaniques ;
 
-Réaliser des montages d'ensembles mécaniques comprenant des systèmes de guidage linéaires.
+Régler les jeux fonctionnels de guidage et de rotation d'ensembles et sous-ensembles mécaniques ;
 
-Assembler des montages pour l'usinage et le contrôle, avec des éléments modulaires réutilisables, à partir de croquis ou de photos.
-
-Effectuer le raccordement d'ensembles comportant des composants électriques, pneumatiques ou hydrauliques.
+Régler les ensembles mécaniques de transmissions.
 
 4. Régler des ensembles mécaniques automatisés
 
