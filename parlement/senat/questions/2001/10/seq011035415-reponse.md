@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011035415
+
+- Question : [SEQ011035415](seq011035415.md) — Champ d'application des dispositions de l'article 2061 du code civil
+
+## Réponse
+
+*Justice, JO du 2002-01-31, page 314*
+
+La garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que le principe d'interdiction de la clause compromissoire en matière civile, posé par l'article 2061 dans sa rédaction antérieure à la loi n° 2001-420 du 15 mai 2001 sur les nouvelles régulations économiques, a été jugé comme étant sans application dans l'ordre international (Cour de cassation, 1re chambre civile, 5 janvier 1999, Bull. n° 2, p. 1), lequel est gouverné par le principe inverse de validité de la clause compromissoire, sans condition de commercialité. Soucieux d'élargir le domaine de la clause compromissoire tout en préservant les intérêts des parties réputées économiquement les plus faibles, le législateur a modifié l'article 2061, en posant le principe de validité de la clause compromissoire dans tous les contrats " conclus à raison d'une activité professionnelle ". Le rapprochement des principes posés dans l'ordre interne avec ceux dégagés dans l'ordre international conduit à s'interroger sur la portée de la réforme ainsi opérée et sur l'application aux contrats internationaux du critère tenant à l'activité professionnelle des parties contractantes. Sous réserve de l'interprétation souveraine des juridictions, cette limitation semble devoir être étendue aux contrats internationaux conclus par des consommateurs domiciliés en France avec des professionnels établis à l'étranger, dans la mesure où la stipulation d'une clause compromissoire dans ce type de contrats expose le consommateur à des risques équivalents, sinon supérieurs, à ceux résultant de l'insertion d'une telle clause dans un contrat interne.
