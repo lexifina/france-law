@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020539889
+
+- Question : [SEQ020539889](seq020539889.md) — Amélioration de la grille indiciaire des lieutenants retraités avant 1976
+
+## Réponse
+
+*Défense, JO du 2002-06-18, page 1425*
+
+Les sous-lieutenants retraités avant le 1er janvier 1976 ont pu bénéficier d'une révision de leur pension dans le cadre de la loi de finances pour 2000 qui prévoit, en son article 124, que " les pensions des sous-lieutenants admis à la retraite avant le 1er janvier 1976 peuvent être révisées sur la base des émoluments du grade de major en tenant compte de l'ancienneté de service détenue par les intéressés à la date de la radiation des cadres. La pension des intéressés et celle de leurs ayants cause sont révisées avec effet au 1er janvier 2000 ". L'amélioration de la condition matérielle de ces officiers retraités a été jugée nécessaire. En effet, issus pour la plupart du corps des sous-officiers, ils n'avaient pu, à l'époque, bénéficier ni de l'accès au grade de major qui n'existait pas, ni de l'avancement automatique au grade de lieutenant institué par les textes d'application de la loi n° 72-662 du 13 juillet 1972 modifiée portant statut général des militaires. De plus, ces officiers retraités n'avaient obtenu aucune revalorisation indiciaire lors de la transposition aux militaires de l'accord du 9 février 1990 sur la rénovation de la grille des classifications et des rémunérations des trois fonctions publiques. Les lieutenants retraités avant le 1er janvier 1976 se trouvent dans la même situation que les sous-lieutenants quant à l'avancement au grade supérieur au regard des textes d'application de la loi du 13 juillet 1972. Conscient de cet état de fait, le ministère de la défense et des anciens combattants veille à trouver, en liaison avec les autres départements ministériels concernés, une solution à leur situation.
