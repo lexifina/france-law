@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910213630
+
+- Question : [SEQ910213630](seq910213630.md) — Statut des agglomérations nouvelles
+
+## Réponse
+
+*Intérieur, JO du 1991-03-28, page 666*
+
+Réponse. - Les conditions de retrait d'une commune d'une agglomération nouvelle sont fixées par l'article 15 de la loi n° 83-636 du 13 juillet 1983 en ces termes : " par dérogation aux dispositions de l'article L 163-16 du code des communes, la décision de retrait d'une commune membre d'un syndicat d'agglomération nouvelle est prise par décret en Conseil d'Etat, sur proposition du représentant de l'Etat dans le département, après avis conforme du comité syndical et des conseils municipaux des communes membres obtenu à la majorité qualifiée telle que définie à l'article 4 ". En l'espèce, le principe de libre administration des collectivités locales doit être concilié avec les impératifs de coopération intercommunale et la garantie des intérêts de l'Etat qui président à l'aménagement de ces agglomérations. Si l'exercice d'un droit de retrait est reconnu aux communes, le simple fait de le demander ne suffit pas à l'obtenir. Les autres communes associées au projet et le comité syndical doivent y être majoritairement favorables. En outre, l'Etat a le devoir de s'assurer que ce retrait est compatible et cohérent avec la réalisation des opérations d'aménagement des villes nouvelles que le législateur lui-même a définies comme d'intérêt national et régional. C'est pourquoi le retrait doit non seulement être autorisé par décret en Conseil d'Etat mais encore la proposition de retrait elle-même, c'est-à-dire le fait générateur du retrait, appartient en propre au représentant de l'Etat dans le département. C'est dans le cadre de ce dispositif que peuvent être examinées les demandes de retrait susceptibles d'être présentées par les communes appartenant à ces structures de coopération intercommunale.
