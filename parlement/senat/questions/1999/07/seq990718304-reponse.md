@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990718304
+
+- Question : [SEQ990718304](seq990718304.md) — Arrêt de la commercialisation du supercarburant plombé
+
+## Réponse
+
+*Industrie, JO du 1999-09-09, page 3015*
+
+Réponse. - La question évoque la disparition de l'essence plombée et son remplacement par un nouveau carburant. Au 1er janvier 2000, un nouveau carburant appelé supercarburant sera distribué aux pompes en lieu et place de l'essence plombée. Il est spécifiquement destiné aux véhicules anciens, et notamment ceux construits avant 1987, dont on peut estimer le nombre à 1,1 million. Il sera constitué de carburant sans plomb 98 et d'un additif spécifique dit antirécession des soupapes (ARS) compensant la disparition du plomb et évitant l'usure mécanique prématurée de certains équipements des moteurs anciens. Ce dispositif va se mettre en place progressivement dans l'ensemble des départements français dès la parution d'un arrêté définissant les caractéristiques de ce nouveau supercarburant, prévu pour le mois d'octobre 1999, sans modification quelconque du mode de distribution vis-à-vis du consommateur. Les pétroliers se sont engagés à distribuer ce carburant de remplacement sur l'ensemble du territoire. Le coût de ce nouveau supercarburant devrait être sensiblement identique à celui du supercarburant plombé actuel. Vers l'an 2003, le parc des véhicules nécessitant l'utilisation de ce carburant pourrait être inférieur à 300 000 unités. A cette date, et jusqu'à extinction complète du parc âgé non catalysé, la vente en boutiques spécialisées de flacons doseurs d'additif ARS concentré à mélanger au sans-plomb 98 semble être la solution à privilégier par sa simplicité et son accessibilité, comme d'autres pays européens l'ont déjà expérimenté. Le Gouvernement est vigilant sur ce dossier et s'assurera qu'aucune difficulté ne vienne remettre en question le remplacement de l'essence plombée.
