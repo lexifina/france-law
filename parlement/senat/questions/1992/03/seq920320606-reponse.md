@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920320606
+
+- Question : [SEQ920320606](seq920320606.md) — Financement du développement et de la gestion du transport fluvial
+
+## Réponse
+
+*Équipement, JO du 1993-01-07, page 37*
+
+Réponse. - La taxe instituée par l'article 124 de la loi de finances pour 1991 (n° 90-1168 du 29 décembre 1990) au profit de voies navigables de France sur les titulaires d'ouvrages de prise et de rejet d'eau, dont les modalités d'application sont définies par le décret n° 91-797 du 20 août 1991, ne constitue pas une charge nouvelle pour les intéressés. Elle se substitue à la redevance prévue par l'article 35 du code du domaine public fluvial et de la navigation intérieure. Il convient cependant de rappeler que la modification du mode de financement de la voie navigable repose sur la volonté du législateur de faire contribuer tous les utilisateurs pour tenir compte des services effectivement rendus. L'article 124 a d'ailleurs été adopté à une large majorité par le Parlement. En effet, si l'eau est une ressource naturelle qui, en tant que telle, ne coûte rien lorsqu'elle est disponible, le gestionnaire de la voie navigable, en maintenant un plan d'eau régulé, rend un service aux utilisateurs d'eau des voies navigables. La valeur exacte du service rendu étant difficile à déterminer avec précision, le législateur a préféré instituer un système de taxe établissant une relative péréquation entre les utilisateurs plutôt que de recourir à un système de redevances. Elle ne s'applique bien sûr pas qu'aux industriels mais à tous les utilisateurs, distributeurs d'eau ou agriculteurs. Cette taxe confirme le caractère polyvalent de la voie d'eau et constitue une étape importante vers une meilleure appréciation économique du rôle des voies navigables dans l'aménagement de notre pays.
