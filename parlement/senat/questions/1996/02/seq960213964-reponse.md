@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960213964
+
+- Question : [SEQ960213964](seq960213964.md) — Conditions du droit à la retraite
+
+## Réponse
+
+*Travail, JO du 1996-06-20, page 1540*
+
+Réponse. - Sur le plan des principes, les mesures spécifiques en matière d'assurance vieillesse prises en faveur des femmes l'ont été en vue d'accroître le montant de leur retraite afin de compenser la privation d'années d'assurance résultant généralement de l'accomplissement de leurs tâches familiales. En effet, les femmes ont dans l'ensemble une année d'assurance moyenne nettement plus faible que celle des hommes puisque le plus souvent, ce sont elles qui cessent leur activité professionnelle pour s'occuper au foyer de leurs jeunes enfants. L'extension aux pères de famille du bénéfice de la majoration de durée d'assurance par enfant élevé prévue à l'article L. 351-4 du code de la sécurité sociale ne pourrait que modifier totalement la signification de cet avantage. Elle alourdirait les charges du régime d'assurance vieillesse alors que les difficultés financières que connaît actuellement ce régime ont rendu nécesaire une réforme visant notamment à améliorer la contributivité des retraites servies. Le rôle éducatif que le père peut assumer est néanmoins reconnu par la législation de l'assurance vieillesse au travers de la majoration de durée d'assurance égale à la durée effective du congé parental d'éducation accordé aux pères relevant du régime général en vertu de l'article L. 351-5 du code de la sécurité sociale. Cependant, il est exact que le bénéfice de cette prestation suppose l'interruption de l'activité, ce qui n'est pas le cas de la majoration de durée d'assurance par enfant élevé. Si l'on peut estimer que ces différences méritent d'être corrigées, notamment au regard des évolutions sociologiques, la réforme de ces dispositifs ne peut constituer que l'un des éléments d'une réflexion d'ensemble sur les avantages familiaux accordés par les régimes de retraite.
