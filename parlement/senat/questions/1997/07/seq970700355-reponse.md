@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970700355
+
+- Question : [SEQ970700355](seq970700355.md) — Conditions d'ouverture d'une officine pendant un service de garde ou d'urgence
+
+## Réponse
+
+*Santé, JO du 1997-09-04, page 2306*
+
+Réponse. - L'article L. 588-1 du code de la santé publique prévoit que l'organisation des services de garde des officines est réglée par les organisations représentatives de la profession dans le département. A défaut d'accord entre elles, en cas de désaccord de l'un des pharmaciens titulaires d'une licence d'officine intéressés ou si l'organisation retenue ne permet pas de satisfaire les besoins de la santé publique, un arrêté préfectoral règle lesdits services, après avis des organisations professionnelles précitées, du pharmacien inspecteur régional et du conseil régional de l'ordre des pharmaciens. Ce même article prévoit en outre que les pharmaciens qui ne sont pas de garde peuvent tenir leur officine ouverte à la condition toutefois que ce soit pendant toute la durée du service considéré. Toute infraction aux dispositions de l'article L. 588-1 du code de la santé publique constatée par le pharmacien inspecteur régional de santé est susceptible de faire l'objet de la part du conseil général de l'ordre des pharmaciens réuni en chambre de discipline de sanctions disciplinaires prononcées au titre de l'article R. 5015-49 du même code qui stipule que les pharmaciens sont tenus de participer aux services de garde et d'urgence des officines. Ces dispositions s'appliquent que les pharmaciens aient été désignés pour participer au service de garde ou qu'il aient décidé de leur propre chef de maintenir ouverte leur officine. De même, les infractions aux dispositions de l'article L. 588-1 du code de la santé publique peuvent faire l'objet de sanctions pénales au titre de l'article L. 518 du code de la santé publique.
