@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860400532
+
+- Question : [SEQ860400532](seq860400532.md) — Protection contre les importations de vin italien frelaté
+
+## Réponse
+
+*Économie, JO du 1986-10-16, page 1451*
+
+Réponse. -L'affaire des vins italiens frelatés au méthanol a conduit, dès le 20 mars 1986, les services de la direction générale de la concurrence, de la consommation et de la répression des fraudes et ceux de la direction générale des douanes et des droits indirects à procéder à des contrôles très stricts de tous les types de vins importés d'Italie et détenus aux différents stades de la commercialisation. Ces contrôles se sont traduits par un blocage systématique des importations et des analyses répétées d'échantillons afin de vérifier l'innocuité des produits concernés. Ainsi, du 20 mars au 11 mai 1986, plus de 4 000 prélèvements ont été réalisés sur un volume de 800 000 hectolitres de vins. Une soixantaine d'entre eux se sont révélés non conformes : ils portaient sur un volume de 55 800 hectolitres de vins détenus en vrac exclusivement au stade de l'importation avant la mise sur le marché français. Il faut souligner la liaison étroite qui s'est établie, dèsle début de ces opérations, entre l'administration et la profession. Depuis le 29 mars 1986, l'exportation des vins italiens est subordonnée à la production d'un certificat d'analyse délivré par les laboratoires agréés par les autorités italiennes, attestant que la quantité de méthanol relevée ne dépasse pas les doses admises. Enfin, dans un souci de protection de la santé des consommateurs, les produits d'origine italienne à base de vin et d'alcool destinés à être commercialisés sur le territoire français sont régulièrement contrôlés par les agents des directions précédemment citées. L'ensemble de ces mesures est de nature à apporter les garanties souhaitées par l'honorable parlementaire.
