@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030607945
+
+- Question : [SEQ030607945](seq030607945.md) — Fiscalité des transfrontaliers
+
+## Réponse
+
+*Budget, JO du 2003-10-23, page 3150*
+
+Le régime fiscal des travailleurs salariés est précisé à l'article 17 de la convention fiscale franco-suisse du 9 septembre 1966 modifiée. Conforme au principe défini sur le plan international, cette clause prévoit une taxation dans l'État d'exercice de l'activité du salarié. L'accord particulier franco-suisse du 11 avril 1983 relatif aux travailleurs frontaliers y déroge, dans la mesure où il réserve à la France le droit exclusif d'imposer ses résidents qui travaillent dans les cantons de la zone frontalière suisse. L'accord concerne les cantons de Berne, Soleure, Bâle-Ville, Bâle-Campagne, Vaud, Valais, Neuchâtel et Jura. Ainsi, ces salariés ne sont imposables qu'en France à raison de leur rémunération professionnelle, dès lors qu'ils y retournent en règle générale, quotidiennement. En contrepartie, la France verse à la Suisse une compensation financière égale à 4,5 % de la masse totale des rémunérations brutes de ces travailleurs. La compensation financière a donc comme seul objet d'éviter que ce dispositif ne crée une distorsion au détriment des zones d'activités de ces employés. S'agissant de la situation au regard des impôts locaux, les intéressés s'acquittent normalement de ces prélèvements en France. De ce point de vue, l'accord de 1983 est neutre. Sa suppression aurait pour seule conséquence de permettre à la Suisse de récupérer le droit d'imposer les employés visés et ne résoudrait pas les problèmes spécifiques rencontrés par les communes françaises limitrophes, dans les domaines de l'emploi, de la formation ou du logement. Pour l'ensemble de ces raisons, il n'est pas envisagé aujourd'hui de proposer à la Suisse l'abrogation de ce dispositif.
