@@ -1442,11 +1442,11 @@ Article R. 128-3, 1er alinéa.
 
 |
 
-Autorisation d'aliénation des immeubles du domaine privé de l'Etat en cas d'adjudication ou de cession amiable, au-delà des seuils prévus par l'article R. 129 du code du domaine de l'Etat.
+Autorisation de cession amiable des immeubles du domaine privé de l'Etat, au-delà du seuil prévu par l'article R. 129-4 du code du domaine de l'Etat.
 
 |
 
-Article R. 129, 2e alinéa (2°) et 4e alinéa.
+Article R. 129-4, 2e alinéa.
 
 |
 
