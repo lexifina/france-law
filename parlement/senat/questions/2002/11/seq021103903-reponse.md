@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021103903
+
+- Question : [SEQ021103903](seq021103903.md) — Rénovation du fonds de garantie à l'initiative des femmes
+
+## Réponse
+
+*Parité, JO du 2003-01-16, page 202*
+
+La rénovation du fonds de garantie à l'initiative des femmes (FGIF) porte sur deux aspects : ses modalités de financement et ses modalités de mise en oeuvre. La récente création du fonds solidaire de garantie pour l'entreprenariat féminin et l'insertion était devenue indispensable, en application d'un article de la loi de finances de 2000 qui interdit à des organismes financiers de cumuler des activités de capital risque et de garantie bancaire. Ces organismes avaient jusqu'au 31 décembre 2002, au plus tard, pour séparer ces deux activités. Or, l'ancien gestionnaire des fonds de garantie du ministère des affaires sociales, du travail et de la solidarité, l'Institut du développement pour l'économie solidaire (IDES), se trouvait dans cette situation de cumul d'activité. En conséquence, un nouveau gestionnaire a été désigné, France Active Garantie (FAG). Ce fonds solidaire de garantie regroupe donc désormais les quatre fonds de garantie du ministère des affaires sociales, du travail et de la solidarité : le FGIF, le fonds de garantie pour l'insertion économique (FGIE), le fonds de garantie pour les ateliers protégés (FGAP) et le récent fonds de garantie pour l'économie solidaire (FGIES). Il a la particularité de favoriser, selon une procédure précise, une harmonisation des procédures des quatre lignes de garantie et de créer entre elles un mécanisme de solidarité. Ainsi, dès lors que l'une ou l'autre ligne de garantie arriverait à sa capacité maximale de financement et avant tout recours de l'Etat ou un partenaire financier, l'instance de pilotage (comité d'orientation et d'évaluation
