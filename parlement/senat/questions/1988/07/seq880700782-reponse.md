@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880700782
+
+- Question : [SEQ880700782](seq880700782.md) — Aménagement du territoire et décentralisation des centres de décision
+
+## Réponse
+
+*Industrie, JO du 1988-10-13, page 1141*
+
+Réponse. - La décentralisation demeure un élément essentiel de la politique d'aménagement du territoire menée par les pouvoirs publics. Les conclusions du rapport de MM. Bouvard et Calame viennent conforter les objectifs de cette politique. La décentralisation a essentiellement porté par le passé sur les unités de production, les centres de recherche publique et les administrations. Il est de plus en plus nécessaire de privilégier la décentralisation des qualifications et des pouvoirs. Ceci implique une évolution du mode de fonctionnement du comité de décentralisation qui reste le principal outil de cette politique. Le comité de décentralisation a engagé la négociation des plans de localisation des administrations et des établissements publics sous la tutelle de l'Etat. Ce travail sera poursuivi. Les ministères et les établissements publics devront proposer avant la fin de l'année des décentralisations de services centraux ou d'unités offrant des possibilités de développement ultérieurs. L'élaboration des plans de localisation est un moyen privilégié de réflexion sur la modernisation des structures publiques. Le comité de décentralisation engage avec les principales sociétés privées des négociations pour aboutir à des plans de localisation prenant en compte à la fois les préoccupations d'aménagement du territoire et les contraintes de ces organismes. La localisation des services décentralisés doit se faire en constituant des pôles de compétence afin d'assurer le meilleur fonctionnement possible des organismes et de favoriser le développement économique des sites retenus.
