@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951012467
+
+- Question : [SEQ951012467](seq951012467.md) — Accès aux normes communautaires
+
+## Réponse
+
+*Justice, JO du 1995-12-28, page 2430*
+
+Réponse. - Le garde des sceaux, ministre de la justice, informe l'honorable parlementaire que les règles communautaires de technique législative ont changé depuis le rapport du Conseil d'Etat de 1992 constatant la difficulté d'accéder aux normes communautaires qui ne sont pas publiées au Journal officiel des Communautés européennes (JOCE). Avant l'entrée en vigueur du traité de Maastricht, les directives et les décisions communautaires étaient seulement notifiées à leurs destinataires, c'est-à-dire généralement aux Etats membres, et n'étaient pas toujours publiées. Depuis le 1er novembre 1993, le nouvel article 191 du traité sur l'Union européenne impose la publication de tous les actes (règlements, directives et décisions) édictés selon la procédure de codécision et les directives de la commission et du conseil adressées à tous les Etats membres. Si les décisions, ainsi que les autres directives, continuent de n'être notifiées qu'à leurs destinataires, elles sont en pratique publiées dès lors qu'elles s'adressent à tous les Etats membres. La décision de publier un avis est prise au cas par cas, si la commission estime que son objet est suffisamment important pour qu'il soit nécessaire d'informer les Etats membres. Enfin, la jurisprudence de la cour de justice et du tribunal de première instance fait l'objet d'une double publication : sous une forme concise au JOCE puis en totalité, et dans des délais désormais raisonnables, dans les recueils de jurisprudence de la cour et du tribunal. La publication intégrale au JOCE n'apparaît donc pas nécessaire, en termes de clarté et de simplification d'autant que ces décisions sont généralement longues et demeurent difficiles d'accès pour un public non averti.
