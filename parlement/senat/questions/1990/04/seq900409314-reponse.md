@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900409314
+
+- Question : [SEQ900409314](seq900409314.md) — Lutte contre la pauvreté
+
+## Réponse
+
+*Solidarité, JO du 1990-09-27, page 2100*
+
+Réponse. - Le Conseil des communautés européennes a adopté, par décision du 18 juillet 1989, un programme d'action communautaire à moyen terme concernant l'intégration économique et sociale des groupes de personnes économiquement et socialement moins favorisées. Le financement global de ce programme s'élève à 55 millions d'ECU sur cinq ans dont : actions modèles : 37,50 millions d'ECU ; initiatives novatrices : 3,55 millions d'ECU ; études statistiques et recherche : 4,95 millions d'ECU ; gestion et animation de programme : 9,00 millions d'ECU. Les actions modèles sont des actions globales de lutte contre l'exclusion mises en oeuvre sur une zone territoriale précise et répondant aux impératifs suivants : actions multi-dimensionnelles ; interpartenariat ; participation des bénéficiaires ; transférabilité. Ces actions sont financées par la Communauté à hauteur de 1,5 million d'ECU en moyenne pour la durée du programme sous réserve d'un cofinancement à parité. Les initiatives novatrices sont des projets de moindre ampleur présentant un caractère novateur dans les méthodes de lutte contre l'exclusion. Leur financement est de l'ordre de 100 000 à 200 000 ECU. Trois actions modèles et une initiative novatrice françaises ont été choisies par la Commission des communautés européennes. Les trois actions modèles sont les suivantes : le projet du Mantois - Val-de-Seine qui regroupe seize communes ; le projet de la ville de Calais ; le projet du département du Doubs. L'initiative novatrice présentée par l'association pour le droit à l'initiative économique (A.D.I.E.) est un programme d'action recherche pour la création de leur propre emploi par les personnes déshéritées.
