@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990717656
+
+- Question : [SEQ990717656](seq990717656.md) — Bilan de la création de la police urbaine de proximité
+
+## Réponse
+
+*Intérieur, JO du 1999-10-28, page 3567*
+
+Réponse. - A la date d'entrée en vigueur de la réforme de l'organisation des services actifs de la préfecture de police, l'effectif du corps de maîtrise et d'application était de 14 625 fonctionnaires (chiffre sensiblement identique à celui des 14 610 du 1er janvier 1998). Cette réforme a donc été réalisée à moyens professionnels constants. Le ministre de l'intérieur s'est d'ailleurs engagé à ce que l'effectif de référence à la date de mise en uvre de la nouvelle organisation soit préservé. La préfecture de police s'appuie de plus sur la ressource supplémentaire que constituent les adjoints de sécurité. Au 30 juillet dernier, leur nombre s'élevait déjà à 955. Ceci ne peut empêcher que des fluctuations marginales soient observées au cours de l'année en fonction des départs (en particulier ceux résultant du mouvement général du corps de maîtrise et d'application réalisé à l'automne) et des sorties des écoles de police. D'ores et déjà, l'arrivée de près de 700 nouveaux policiers, au titre des sorties d'école de septembre et d'octobre prochains, est prévue au bénéfice de la préfecture de police. Par ailleurs, le secrétariat général pour l'administration de la police de Paris organise maintenant des concours déconcentrés de recrutement de gardiens de la paix. Ainsi, sur le total national des élèves stagiaires qui sortent des écoles de police en 1999, 1 417 sont issus de concours organisés par le secrétariat général pour l'administration de la police de Paris dont environ 800 seront affectés à la préfecture de police. Dans ces conditions, la moitié des policiers stagiaires qui arrivent à la préfecture de police sont désormais originaires de la région Ile-de-France.
