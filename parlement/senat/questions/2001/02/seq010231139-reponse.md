@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010231139
+
+- Question : [SEQ010231139](seq010231139.md) — Application de la loi relative à la prestation compensatoire en cas de divorce
+
+## Réponse
+
+*Justice, JO du 2001-06-07, page 1928*
+
+La garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que la loi du 30 juin 2000 relative à la prestation compensatoire en matière de divorce apporte des solutions équilibrées aux difficultés nées de l'application de la loi du 11 juillet 1975, en réaffirmant le principe du versement en capital et en autorisant, sous certaines conditions, le révision des rentes. Lorsque le juge procède à la révision d'une rente, il prend en compte la situation présente de chacun des époux ; c'est pourquoi les sommes déjà versées, calculées en fonction de leurs situations antérieures, n'ont pas à être prises en considération de manière automatique. Toutefois, le juge peut désormais, au vu de l'ensemble des éléments du dossier réviser le montant de la rente à la baisse, suspendre le paiement de celle-ci ou la supprimer. En outre, le principe même du divorce sur requête conjointe justifie que la convention homologuée, expression du consentement libre et éclairé des parties, ne puisse pas être remise en cause ultérieurement. Il appartient donc aux époux de veiller, lors de l'élaboration de la convention définitive, à ce qu'une clause permettant la révision en cas de changement ultérieur significatif de leur situation ou fixant un terme à la rente, soit insérée. Enfin, aucun bilan d'application du texte adopté le 30 juin 2000 n'est, en l'état, envisagé ; il ne serait pas significatif compte tenu du caractère très récent de la réforme qui a, au demeurant, été élaboré en concertation privilégiée avec les professionnels et les associations représentant les usagers.
