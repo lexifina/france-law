@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910213963
+
+- Question : [SEQ910213963](seq910213963.md) — Nouvelles modalités en matière de prêts bonifiés
+
+## Réponse
+
+*Agriculture, JO du 1992-01-23, page 177*
+
+Réponse. - A la suite de la remontée du coût de l'épargne collectée par les établissements de crédit, les taux des prêts bonifiés à l'agriculture ont été réajustés de 0,65 point en janvier 1991. Un traitement particulier a toutefois été réservé aux prêts d'installation aux jeunes agriculteurs dont les taux n'ont été augmentés que de 0,35 point, ainsi qu'aux prêts spéciaux d'élevage dont le taux n'a pas été modifié eu égard à la crise actuelle de l'élevage destiné à la production de viande. La hausse des taux des prêts bonifiés à l'agriculture demeure inférieure à celle du marché bancaire ainsi qu'à celle qui a affecté les autres secteurs de l'économie bénéficiant de financements privilégiés (artisanat, logement, pêche). Le taux des prêts bonifiés aux jeunes agriculteurs est actuellement de 4,35 p. 100 en zone de plaine et de 3,10 p. 100 en zone défavorisée. Le taux des prêts spéciaux de modernisation réservés aux jeunes agriculteurs s'élève à 4,65 p. 100 en zone deplaine contre 5,65 p. 100 pour les autres bénéficiaires et à 3,40 p. 100 en zone défavorisée, l'avantage dont bénéficient les jeunes agriculteurs étant également dans ce cas d'un point par rapport aux autres bénéficiaires. Le traitement différencié dont bénéficient les jeunes agriculteurs a donc été maintenu et traduit les priorités des pouvoirs publics en faveur de l'installation et de la modernisation. En outre, afin d'inciter les jeunes agriculteurs à étaler la charge de la reprise du capital d'exploitation, le Gouvernement a décidé d'autoriser la souscription de prêts bonifiés d'installation pendant une durée de dix ans à partir de la date d'installation, au lieu de cinq ans précédemment.
