@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000927821
+
+- Question : [SEQ000927821](seq000927821.md) — Politique communautaire en matière de biocarburants
+
+## Réponse
+
+*Affaires européennes, JO du 2000-10-19, page 3561*
+
+Réponse. - L'honorable parlementaire a bien voulu appeler l'attention du ministre délégué chargé des affaires européennes sur la nécessité de mettre en uvre une véritbale politique communautaire en matière de biocarburants. Il se réfère au récent rapport parlementaire rédigé par M. François Guillaume, député, intitulé " Les biocarburants dans l'Union européenne, un atout à valoriser ". La Présidence française de l'Union européenne contribuera à faire avancer l'intégration de l'environnement dans les autres politiques, en insistant sur la taxation des produits énergétiques et les énergies renouvelables. Il est ainsi envisagé de réunir sur ce thème une session conjointe des conseils Ecofin et environnement le 18 décembre 2000. S'agissant du secteur automobile, la politique communautaire est fondée sur une approche globale. Le programme de coopération " Auto-oil ", auquel participent les industries automobile et pétrolière, vise à préparer les évolutions de la réglementation européenne. Deux directives sont déjà entrées en vigueur : la directive 98/70/CE concernant la qualité des carburants " classiques " (essence et diesel) et la directive 98/69/CE sur les valeurs limites d'émission des véhicules à moteur. Une étape significative du programme Auto-oil figure à l'ordre du jour de la Présidence française, avec l'examen par le Conseil du rapport de la Commission sur le programme Auto-oil II. Celui-ci porte à la fois sur les normes relatives aux carburants et aux véhicules après 2005 et sur l'intérêt des carburants alternatifs, dont les biocarburants. Les résultats de ces travaux, sous notre présidence, devraient avoir un impact positif sur le traitement des biocarburants à l'échelle communautaire.
