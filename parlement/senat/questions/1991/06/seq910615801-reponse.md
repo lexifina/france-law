@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910615801
+
+- Question : [SEQ910615801](seq910615801.md) — Situation des kinésithérapeutes
+
+## Réponse
+
+*Santé, JO du 1992-06-04, page 1271*
+
+Réponse. - La revalorisation de la lettre clé AM qui rémunère l'activité des masseurs-kinésithérapeutes et les propositions d'actualisation de la nomenclature des actes de rééducation et de réadaptation fonctionnelles effectués notamment par des masseurs-kinésithérapeutes par la commission permanente de la nomenclature générale des actes professionnels n'ont pu être adoptées en raison de l'évolution des remboursements d'actes de kinésithérapie et des contraintes de l'équilibre financier de l'assurance maladie. Toutefois, un accord entre M. Evin et le Syndicat national des masseurs-kinésithérapeutes a été signé le 11 avril 1991 après avoir fait l'objet de discussions avec les deux syndicats représentatifs de la profession. Il comporte notamment l'affirmation de la volonté des signataires de mettre en oeuvre un dispositif de régulation contractuelle des dépenses de masso-kinésithérapie et de rénover les conditions d'exercice de ces professionnels et notamment ce qui c oncerne leur formation continue et leur régime social. L'accord du 11 avril 1991 renvoie à des groupes de travail la définition des modalités de mise en oeuvre de l'accord qui, en tout état de cause, appellera des dispositions législatives dès que les groupes, qui poursuivent actuellement leurs travaux, auront conclu. Enfin, il est indiqué à l'honorable parlementaire qu'un nouveau programme d'études de masso-kinésithérapie, élaboré après une large concertation avec les représentants des professionnels a été mis en place par le décret n° 89-633 du 5 septembre 1989. Ce programme tient compte des données actuelles de la science dans le domaine des techniques masso-kinésithérapiques.
