@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980105693
+
+- Question : [SEQ980105693](seq980105693.md) — Prise en charge par les familles de la rémunération du personnel ATOS dit d'internat
+
+## Réponse
+
+*Éducation, JO du 1998-03-12, page 839*
+
+Réponse. - Un certain nombre de mesures d'aide ont été mises en place afin de permettre aux élèves ou à leurs familles qui connaissent des situations difficiles d'assumer leurs dépenses de scolarité ou de vie scolaire. En premier lieu, le fonds social lycéen créé en 1991 ainsi que le fonds social collégien créé en 1995 dans les établissements publics puis en 1996 dans les établissements privés sous contrat permettent d'accorder une aide exceptionnelle, soit financière, soit en nature, à ces familles afin qu'elles puissent faire face aux dépenses relatives aux frais d'internat, de demi-pension ou autres. En 1998, les crédits consacrés au fonds social lycéen s'élèvent à 140 MF et à 180 MF pour le fonds social collégien. Un fonds social pour les cantines doté de 250 MF en 1998 permet aux élèves particulièrement défavorisés d'avoir accès aux services de restauration de leur établissement. Par ailleurs, des remises de principe peuvent être accordées aux familles de plus de trois enfants scolarisés dans les établissements publics de second degré proportionnellement à leurs charges familiales. Enfin, pour tenir compte de la situation particulière des enfants d'agriculteurs scolarisés en internat, en raison de la distance souvent importante entre leur domicile et leur établissement scolaire, il est accordé une part spécifique supplémentaire lors de l'attribution de bourses nationales d'études. Aussi, dans la mesure où il existe un système d'aides modulables et adaptées aux diverses situations familiales, il n'est pas envisagé de dégrever l'ensemble des familles de la totalité des frais d'internat qu'elles ont à supporter.
