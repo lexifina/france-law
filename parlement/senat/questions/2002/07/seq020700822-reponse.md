@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700822
+
+- Question : [SEQ020700822](seq020700822.md) — Politique en faveur des handicapés et politique de lutte contre l'exclusion
+
+## Réponse
+
+*Santé, JO du 2002-10-24, page 2499*
+
+L'honorable parlementaire s'inquiète du nombre croissant de personnes en situation précaire (chômage de longue durée) qui veulent être reconnues travailleurs handicapés par la COTOREP et se demande si ces personnes sont affectées d'un handicap correspondant à la définition résultant du décret du 4 novembre 1993 : " un désavantage permanent résultant d'une déficience ou d'une incapacité ". Si effectivement, les travaux du Britannique Philip Wood, fondement de la classification internationale des handicaps, permettent de définir le handicap comme une déficience entraînant une incapacité qui provoque elle-même un désavantage, cette définition, qui a été reprise dans le décret de 1993 instituant le guide-barème, doit être articulée en matière d'emploi avec celle du travailleur handicapé qui figure à l'article L. 323-10 du code du travail : " Est considéré comme travailleur handicapé au sens de la présente section toute personne dont les possibilités d'obtenir ou de conserver un emploi sont effectivement réduites par suite d'une insuffisance ou d'une diminution de ses capacités physiques ou mentales. " C'est ce dernier critère qui sert de base à l'attribution par la COTOREP de la reconnaissance de la qualité de travailleur handicapé. Ne peut en bénéficier qu'une personne dont les limitations par rapport à l'emploi trouvent effectivement leur origine dans un handicap, sans préjudice du fait que, dans certains cas, le handicap peut se conjuguer avec une situation d'inadaptation sociale. Cette reconnaissance ouvre en retour aux intéressés l'accès à l'ensemble des dispositifs et de la réglementation dédiés à la promotion de l'emploi des travailleurs handicapés.
