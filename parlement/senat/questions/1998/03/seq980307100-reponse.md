@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980307100
+
+- Question : [SEQ980307100](seq980307100.md) — Représentation des mutuelles au sein des comités départementaux de coordination de la mutualité
+
+## Réponse
+
+*Emploi, JO du 1998-07-30, page 2469*
+
+Réponse. - L'honorable parlementaire attire l'attention sur le fait que le mode de scrutin prévu par le code de la mutualité (scrutin de liste majoritaire à un tour et sans panachage), pour l'élection des membres des comités départementaux de coordination de la mutualité, ne permet pas la représentation effective de toutes les composantes du mouvement mutualiste. Le mode de scrutin utilisé pour l'élection des membres des comités départementaux de coordination de la mutualité a pour but de dégager des majorités stables, dans le respect de la tradition du mouvement mutualiste. Ainsi, aux dernières élections qui ont eu lieu en 1994 avec un taux de participation de 65 %, la Fédération nationale de la mutualité française a obtenu 85 % des suffrages, et la Fédération des mutuelles de France 15 %, sa liste l'emportant dans le département de la Seine-et-Marne. A cet égard, il convient de noter que, aux termes d'un arrêt du 12 février 1994, concernant notamment la participation des organismes mutualistes aux conseils d'administration des caisses d'assurance maladie, le Conseil d'Etat a reconnu la représentativité au plan national de la FNMF " eu égard à l'ancienneté et l'expérience de cette fédération, au nombre de groupements qu'elle fédère et aux résultats qu'elle a obtenus aux élections au conseil supérieur de la mutualité ". Pour ces raisons, il n'est pas envisagé dans l'immédiat de procéder à une réforme du mode de scrutin des comités départementaux de coordination de la mutualité. Le rôle et les modalités de fonctionnement de ces comités pourront cependant être réexaminés à l'occasion d'une prochaine modification du code de la mutualité, en concertation avec le mouvement mutualiste.
