@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001028445
+
+- Question : [SEQ001028445](seq001028445.md) — Contraintes de travail des infirmières scolaires
+
+## Réponse
+
+*Éducation, JO du 2000-11-16, page 3923*
+
+Réponse. - La circulaire nº 91-148 du 24 juin 1991 relative aux missions et au fonctionnement du service de promotion de la santé en faveur des élèves, qui est en cours de réactualisation, prévoit notamment que " les fonctions des infirmières de l'éducation nationale sont définies en application des dispositions du décret nº 84-689 du 17 juillet 1984 relatif aux actes professionnels et à l'exercice de la profession d'infirmière. Ces dispositions, qui témoignent de la spécificité de la profession d'infirmière, s'appliquent aussi bien aux infirmières affectées dans les établissements du second degré qu'aux infirmières chargées de couvrir, dans un secteur d'intervention donné, les écoles et les établissements d'enseignement secondaire ne disposant pas d'une infirmière en résidence ". Cette disposition explique pourquoi certaines infirmières sont employées de façon bivalente à la fois par les collèges et par les écoles primaires, pour remplir leurs attributions professionnelles dans le cadre de leur temps de travail. Pour l'exercice d'activités périscolaires qui pourraient leur être confiées par une commune par exemple, les infirmières et infirmiers de l'éducation nationale peuvent être autorisés par les recteurs d'académie à cumuler leur emploi principal, avec une activité publique rémunérée ne constituant pas, en raison de son importance, un autre emploi public. Cette activité ne doit pas porter préjudice à l'exercice de la fonction principale et le total des rémunérations publiques perçues par l'agent en cause ne peut dépasser le montant du traitement principal majoré de 100 %. Un compte de cumul doit être ouvert par le service financier du rectorat selon les modalités prévues par la circulaire nº 2859 et FP nº 1660 du 2 juin 1987.
