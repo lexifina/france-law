@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960414860
+
+- Question : [SEQ960414860](seq960414860.md) — Application de la convention relative aux droits de l'enfant
+
+## Réponse
+
+*Travail, JO du 1996-12-19, page 3435*
+
+Réponse. - La Convention internationale des droits de l'enfant a été adoptée par l'assemblée générale de l'ONU le 20 novembre 1989. Elle a été ratifiée par la France le 7 août 1990 et est entrée en vigueur en France le 6 septembre 1990. Par ce texte, la France s'est engagée à soumettre au comité des droits de l'enfant de l'ONU un rapport " sur les mesures qu'ils (les Etats) auront adoptées pour donner effet aux droits reconnus dans la présente convention et sur les progrès réalisés dans la jouissance de ces droits " dans les deux ans, puis par la suite tous les cinq ans. La France n'a été auditionnée que les 11 et 12 avril 1994, du fait du retard du comité des droits de l'enfant. Un nouveau rapport devra être présenté en 1999, qui aura vocation à être largement diffusé. Le Parlement a, par la loi du 27 janvier 1993, demandé la présentation d'un rapport sur " la mise en oeuvre de la Convention internationale des droits de l'enfant et sur l'action de la France en faveur des enfants dans le monde ". Une réactualisation de ce rapport par les différents ministères est en cours et sera présentée au Parlement. Les 29 et 30 septembre 1990, s'est tenu à New York, siège de l'UNICEF, un sommet mondial pour les enfants auquel participaient 71 chefs d'Etat et de gouvernement. Ils ont adopté une déclaration mondiale en faveur de la survie, de la protection et du développement de l'enfant et un plan d'action pour la mise en oeuvre de cette déclaration dans les années 90, chaque Etat devant décliner ce plan d'action sur le plan national et en faire état à l'UNICEF et à l'ONU. Ce travail a été mené en 1996 par le ministère des affaires étrangères, compétent sur ce point.
