@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930601731
+
+- Question : [SEQ930601731](seq930601731.md) — Montant de la pension de réversion des veuves
+
+## Réponse
+
+*Affaires sociales, JO du 1993-09-30, page 1775*
+
+Réponse. - Dans le régime général de la sécurité sociale, l'attribution de la pension de réversion au conjoint survivant n'est pas automatique et répond à un certain nombre de conditions, alors que dans les régimes spéciaux et les régimes complémentaires de retraite, les conditions d'attribution peuvent parfois sembler plus avantageuses. Ces différences sont le reflet de l'environnement économique et social dans lequel se sont construits nos régimes de retraite et le prix de l'attachement des différentes catégories socioprofessionnelles concernées, à leur spécificité. A cet égard, une comparaison des avantages servis entre plusieurs régimes de retraite ne peut être envisagée sans un rapprochement des autres conditions d'attribution qui régissent chacun des régimes concernés. Sur un plan plus général, chaque régime comporte des règles propres qui forment un tout indissociable : l'alignement systématique de chacune de ces règles sur les dispositions les plus favorables qui peuvent exister dans les autres régimes, conduirait à alourdir financièrement les charges de retraites. Cependant, le Gouvernement ne méconnaît pas les problèmes qui se posent aux personnes veuves actuellement, ainsi que leurs aspirations. Des études sont en cours, qui devraient aboutir rapidement à la présentation, par le Gouvernement, d'une loi-cadre qui aura pour ambition de définir une politique globale de la famille. C'est dans ce cadre que les problèmes relatifs aux conditions d'attribution des pensions de réversion seront susceptibles d'être examinés. Par ailleurs, des réflexions également en cours portent sur les minimas sociaux, dont l'allocation supplémentaire du Fonds national de solidarité constitue l'un des éléments.
