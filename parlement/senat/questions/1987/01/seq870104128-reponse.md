@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870104128
+
+- Question : [SEQ870104128](seq870104128.md) — Exercice du droit syndical à l'étranger: décharges de service dans les établissements culturels et d'enseignement
+
+## Réponse
+
+*Affaires étrangères, JO du 1987-05-21, page 793*
+
+Réponse. - Le ministre des affaires étrangères rappelle à l'honorable parlementaire que, dans le cadre de l'exercice du droit syndical dans les établissements culturels et d'enseignement français à l'étranger, les décharges de service sont accordées au prorata de la représentativité des organisations syndicales aux élections pour les commissions consultatives paritaires ministérielles, tel qu'il ressort du tableau joint en annexe. Chaque organisation, au niveau national, arrête un projet de répartition entre les différents pays des heures de décharges dont elle est bénéficiaire. Ce projet est soumis au département qui le communique aux postes et il devient définitif s'il ressort de la consultation locale qu'il n'entrave pas les nécessités du service. Les décharges syndicales peuvent être accordées soit aux personnels, quels que soient leur statut et leur mode de rémunération, exerçant dans les établissements dotés de l'autonomie financière, soit aux personnelsrecrutés et rémunérés par le département exerçant d'autres structures, sous réserve des conditions de droit local et de l'accord des responsables de l'établissement d'accueil. En tout état de cause, il est bien évident que l'octroi d'heures de décharge de service, dès lors qu'il amène à un allégement du service hebdomadaire pour l'accomplissement d'activités syndicales est, dans son principe, incompatible avec l'octroi d'heures supplémentaires. Répartition des décharges d'activités au vu du résultat des élections aux commissions consultatives paritaires ministérielles. Nota : voir tableau page 794
