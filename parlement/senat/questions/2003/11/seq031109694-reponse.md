@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031109694
+
+- Question : [SEQ031109694](seq031109694.md) — Prestation compensatoire en matière de divorce
+
+## Réponse
+
+*Justice, JO du 2004-04-01, page 822*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que le projet de loi relatif au divorce, issu des réflexions du groupe de travail chargé de préparer la réforme du droit de la famille, a été adopté par le Sénat le 8 janvier dernier. Ce projet met fin au principe de la transmissibilité passive de la rente. La prestation compensatoire sera convertie en capital lors du décès du débiteur et les héritiers ne seront tenus que dans les limites des forces de la succession, sauf si ces derniers décident d'un commun accord de maintenir les modalités de paiement dont bénéficiait l'époux débiteur lors de son décès. Le montant du capital à substituer se fera selon des modalités fixées par décret en Conseil d'Etat, après déduction des pensions de réversion. En revanche, la suppression automatique de la rente en cas de remariage du créancier ainsi que la limitation automatique à huit ans du versement des rentes allouées avant l'entrée en vigueur du nouveau dispositif n'ont pas été retenues. En effet, le remariage comme le concubinage notoire du créancier ne sont pas toujours synonymes d'amélioration de la situation personnelle du créancier. Cet élément nouveau doit dès lors être apprécié au vu des circonstances propres à chaque espèce, dans le cadre d'une demande en révision. Quant à l'extinction de la rente à l'issue de huit années de paiement, elle n'aurait pas été conforme à l'objectif de la réforme de trouver un équilibre entre les intérêts des parties, en ce qu'elle aurait pu gravement préjudicier aux intérêts du créancier. Le projet de loi, pour lequel l'urgence a été déclarée, sera soumis à l'Assemblée nationale tout prochainement.
