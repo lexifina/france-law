@@ -1,5 +1,0 @@
-# Article 17 nouveau
-
-Les jours fériés sont chômés.
-
-Toutefois, le personnel de surveillance, de sécurité et d'entretien peut être amené à travailler les jours fériés contre compensation équivalente.

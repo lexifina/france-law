@@ -1,9 +1,0 @@
-# Article 11 nouveau
-
-Le contrat de travail à durée indéterminée des employés prend fin, de plein droit :
-
-- lors de la survenance de l'âge de soixante-cinq ans.
-
-Il n'est toutefois pas exclu qu'en cas de circonstances particulières, les parties conviennent, par accord exprès, de la continuation du contrat de travail ;
-
-- à partir de soixante ans, en cas d'incapacité définitive de travail médicalement reconnue.
