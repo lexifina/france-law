@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920922819
+
+- Question : [SEQ920922819](seq920922819.md) — Remboursement de la taxe différentielle acquittée pour les véhicules de 23 CV
+
+## Réponse
+
+*Budget, JO du 1993-02-25, page 326*
+
+Réponse. - La circulaire du 23 décembre 1977 a modifié le mode de calcul de la puissance administrative des voitures réceptionnées par type après le 1er janvier 1978, qui a été fondé sur plusieurs caractéristiques du moteur et de la transmission équipant le véhicule. Ainsi, deux modèles apparemment identiques, de même désignation commerciale, peuvent être affectés de puissances administratives différentes si l'une des caractéristiques change (type de boîte de vitesses, rapports de transmission, couple de pont...). Dans ce cas, ces modèles sont bien entendu affectés de types mines différents. L'arrêt rendu par la Cour de justice européenne le 17 septembre 1987 n'a pas condamné la formule de calcul introduite par la circulaire du 23 décembre 1977, mais seulement la limitation à 21 km/h de la valeur de l'un des paramètres de calcul (le paramètre K caractérisant la transmission). Seuls les véhicules réceptionnés par type après le 1er janvier 1978 conformément aux dispositions de la circulaire de 1977 et dont les caractéristiques techniques particulières impliquaient une limitation de ce paramètre K sont concernés par cet arrêt. Ils sont répertoriés sur la liste annexée à la circulaire du 20 septembre 1991 et peuvent seuls bénéficier d'une diminution de leur puissance administrative. En conséquence, les propriétaires de voitures ne figurant pas sur cette liste ne sont pas autorisés à demander une modification de leur carte grise et leur situation au regard de la taxe différentielle sur les véhicules à moteur demeure inchangée. De fait, l'arrêt de la Cour de justice européenne conduit à modifier la puissance administrative d'un nombre limité de modèles puique moins de 30 000 voitures immatriculées entre 1978 et 1988 sont concernées.
