@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990113401
+
+- Question : [SEQ990113401](seq990113401.md) — Fiscalité applicable aux gîtes ruraux
+
+## Réponse
+
+*Logement, JO du 1999-04-08, page 1191*
+
+Réponse. - En l'état du droit en vigueur, le classement en 2e catégorie de l'article 1585-D-I du code général des impôts (CGI) pour l'assiette de la taxe locale d'équipement (TLE) demeure réservé aux locaux des exploitations agricoles à usage d'habitation principale, aux locaux intéressant la production agricole ou une activité annexe de cette production, ainsi qu'aux bâtiments affectés au conditionnement des productions et aux coopératives. Cette définition exclut les activités de prestataires de services telles que celles de location de gîtes ruraux. Les chambres d'hôte et gîtes ruraux aménagés dans d'anciens locaux agricoles autres que les bâtiments d'habitation, de même que celles de ces constructions réalisées hors des exploitations agricoles, constituent des résidences secondaires. Elles doivent donc être classées en 8e catégorie, telle que définie à l'article 1585-D-I du code général des impôts, issu de l'article 40 de la loi nº 91-716 du 26 juillet 1991 portant diverses dispositions d'ordre économique et financier. Toutefois, les chambres d'hôte et gîtes ruraux réalisés dans les anciens locaux d'habitation non aménagés des exploitations agricoles (combles, etc.) font l'objet d'un classement en 2e catégorie de la TLE, conformément aux directives du paragraphe 5.1, dernier alinéa, de la circulaire du 18 novembre 1981 relative aux modifications apportées à l'assiette de la TLE par le décret nº 81-620 du 20 mai 1981. Cette mesure favorable est bien destinée à favoriser le réemploi de toutes les surfaces d'habitation comprises dans les exploitations agricoles. Il convient en outre de rappeler que le conseil municipal dispose du pouvoir de fixer le taux pour chacune des neuf catégories de TLE entre 1 % et 5 % (article 1585 E du code général des impôts).
