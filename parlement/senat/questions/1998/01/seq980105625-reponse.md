@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980105625
+
+- Question : [SEQ980105625](seq980105625.md) — Lutte contre la consommation d'alcool chez les jeunes
+
+## Réponse
+
+*Santé, JO du 1998-12-24, page 4139*
+
+Réponse. - La consommation excessive d'alcool chez les jeunes reste un phénomène préoccupant. Après un net infléchissement entre 1983 et 1991, une augmentation a été observée dans plusieurs enquêtes différentes. Cette augmentation, qui a touché aussi bien les filles que les garçons, a porté essentiellement sur la consommation d'alcool fort. La consommation d'alcool chez les jeunes est associée le plus souvent à celle d'autres substances psychoactives, en particulier, le tabac et le haschich. Elle reflète les difficultés que rencontrent les jeunes sur le plan psychologique, familial et social, et plus généralement leur sentiment de mal-être. Le travail de prévention auprès de jeunes doit être fondé sur une approche globale des conduites à risque qui caractérisent cette période de la vie. La prévention spécifique de la consommation d'alcool, même si elle est nécessaire au niveau de l'information compte tenu de la place particulière de cette consommation en France, laisse place progressivement, surtout auprès des jeunes, à une approche plus large. La question du lien entre conduite d'un véhicule à moteur et risque lié à la consommation d'alcool est, de fait, traitée spécifiquement aujourd'hui. Efficaces par rapport à un objectif précis de réduction de la mortalité par accidents de la route, une communication centrée sur la conduite automobile et une répression accrue dans ce domaine ne peuvent toutefois être qu'une composante d'une politique de santé propre à prévenir l'ensemble des risques liés à l'alcoolisation chez les jeunes et leur évolution vers une alcoolisation excessive à l'âge adulte.
