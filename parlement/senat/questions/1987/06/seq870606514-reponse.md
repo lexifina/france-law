@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870606514
+
+- Question : [SEQ870606514](seq870606514.md) — Modification de la carte prud'homale
+
+## Réponse
+
+*Justice, JO du 1987-06-18, page 974*
+
+Réponse. -Dans la perspective des élections prud'homales de 1987, le Gouvernement a entrepris un réexamen de la composition des conseils de prud'hommes. A cet effet, un avis a été publié au Journal officiel le 31 octobre 1986 afin de recueillir sur cette question les observations de l'ensemble des élus locaux, des autorités judiciaires et administratives, des organisations professionnelles et syndicales. Pour sa part, le Gouvernement a proposé les critères de réajustement des effectifs suivants : une augmentation des effectifs est envisagée au-delà d'une moyenne annuelle de 18 à 20 affaires par conseiller en fonction de la taille de la juridiction pour les sections Industrie, commerce et activités diverses et de 15 affaires par conseiller pour la section Encadrement ; les sections de l'agriculture uniques instituées en application de la loi n° 86-1319 du 30 décembre 1986 sont réajustées de façon à comporter huit conseillers au minimum. Au vu de l'ensemble de ces propositions, le Conseil supérieur de la prud'homie s'est prononcée le 5 mars 1987 sur la composition des juridictions prud'homales. La synthèse des informations recueillies lors de cette consultation a permis l'élaboration d'un projet de décret qui sera soumis prochainement au Premier ministre. En ce qui conserne le conseil de prud'hommes de Narbonne, les demandes d'ajustement des effectifs ont été examinées selon la procédure ci-dessus exposée. Il apparaît que seule la section Industrie, avec une moyenne annuelle de 15,2 affaires par conseiller, peut justifier d'un renforcement de ses effectifs. Il est prévu, en conséquence, la création de deux sièges supplémentaires de conseillers dans cette section. Les effectifs des autres sections seront maintenus.
