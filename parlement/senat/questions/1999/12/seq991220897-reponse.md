@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991220897
+
+- Question : [SEQ991220897](seq991220897.md) — Transfert à une collectivité territoriale de l'objet et des moyens d'une association dissoute et licenciements
+
+## Réponse
+
+*Fonction publique, JO du 2000-03-23, page 1076*
+
+Réponse. - L'article 63 de la loi nº 99-586 du 12 juillet 1999 relative au renforcement et à la simplification de la coopération intercommunale a pour objectif de faciliter la reprise par les collectivités locales et les établissements publics de coopération intercommunale (EPCI) des activités des associations financées pour l'essentiel par des fonds publics pour gérer des activités d'intérêt général. Jusqu'à la publication de la loi précitée aucune disposition ne permettait dans ce cas de maintenir les personnels de ces associations dans leur emploi, au-delà des règles de droit commun régissant le recrutement dans la fonction publique territoriale. Désormais l'article précité permet à la collectivité ou l'EPCI de recourir aux contrats pour de tels recrutements, au-delà des cas limitativement prévus à l'article 3 de la loi nº 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale, le maintien en situation d'emploi des agents en cause, par dérogation aux règles normalement applicables, conduisant à exclure le versement des indemnités de licenciement. Cet article n'a pas en revanche pour objet de modifier, en dehors de la situation précisément visée, le droit commun des licenciements ni celui des recrutements dans la fonction publique territoriale. Dès lors que ces recrutements sont opérés dans le cadre de la réglementation générale, sans dérogation, ils n'emportent aucune conséquence sur les droits à indemnité de licenciement que l'agent recruté pourrait tenir de la cessation d'une activité antérieure.
