@@ -1,6 +1,6 @@
-# Article Annexe RI-1-R, art. 30
+# Article 30
 
-Sur autorisation du préfet, après avis, d'une part, du délégué-mineur et du comité d'hygiène, de sécurité et des conditions de travail, d'autre part de l'Office de protection contre les rayonnements ionisants, la valeur maximale des taux d'exposition totale mentionnés à l'article 4 peut ne pas être respectée pendant une période d'une durée maximale de cinq ans pour tout ou partie du personnel, à l'exception des femmes en état de procréer et des apprentis, à condition que :
+Valeur maximale du taux d'exposition totale : Sur autorisation du préfet, après avis, d'une part, du délégué-mineur et du comité d'hygiène, de sécurité et des conditions de travail, d'autre part de l'Office de protection contre les rayonnements ionisants, la valeur maximale des taux d'exposition totale mentionnés à l'article 4 peut ne pas être respectée pendant une période d'une durée maximale de cinq ans pour tout ou partie du personnel, à l'exception des femmes en état de procréer et des apprentis, à condition que :
 
 - la moyenne du taux annuel d'exposition totale sur cette période soit inférieure à 1 pour chaque personne concernée ;
 
@@ -17,3 +17,5 @@ Sur autorisation du préfet, après avis, d'une part, du délégué-mineur et du
 - les personnes concernées ne soient pas soumises à une exposition exceptionnelle concertée ;
 
 - un plan d'aménagement et d'exploitation des travaux soit étudié afin que l'exposition des personnes soit la plus faible possible.
+
+Le silence gardé pendant plus d'un an par le préfet sur une demande de dérogation ou d'autorisation vaut décision de rejet. Ce délai ne peut être modifié que par décret en Conseil d'Etat.

@@ -1,6 +1,8 @@
-# Article Annexe VP-1-R
+# Article 20
 
-1. Les pistes ne doivent pas avoir une pente supérieure à 20 % sauf autorisation du préfet.
+Pistes : 1. Les pistes ne doivent pas avoir une pente supérieure à 20 % sauf autorisation du préfet.
+
+Le silence gardé pendant plus d'un an par le préfet sur une autre demande formulée en matière d'hygiène et de sécurité vaut décision de rejet. Ce délai ne peut être modifié que par décret en Conseil d'Etat.
 
 2. Elles doivent être éloignées le plus possible du pied des parois et des talus qui les dominent.
 

@@ -1,6 +1,6 @@
-# Article Annexe PI-2-R, art. 17
+# Article 17
 
-1. Les ouvrages suivants doivent se trouver dans une section isolée :
+Lieux d'installation des arrêts-barrages : 1. Les ouvrages suivants doivent se trouver dans une section isolée :
 
 - puits ou bure traversés par de l'air empoussiéré ainsi que tout ou partie de leurs recettes ;
 
@@ -19,6 +19,8 @@
 - des voies dont la section libre ne permet pas la mise en place réglementaire des arrêts-barrages de quartier.
 
 Dans les trois derniers cas, les mesures compensatoires prises par l'exploitant sont soumises à l'accord préalable du préfet.
+
+Le silence gardé pendant plus d'un an par le préfet sur une demande de dérogation ou d'autorisation vaut décision de rejet. Ce délai ne peut être modifié que par décret en Conseil d'Etat.
 
 3. Des arrêts-barrages doivent aussi être installés dans les lieux suivants situés en dehors d'une section isolée de quartier :
 

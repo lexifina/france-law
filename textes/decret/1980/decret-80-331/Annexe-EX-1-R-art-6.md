@@ -10,10 +10,14 @@ L'exploitant doit tenir compte des indications relatives à l'emploi du produit 
 
 3. Toutefois, le ministre chargé des mines peut, par arrêté, après avoir pris l'avis de la commission des recherches scientifiques sur la sécurité dans les mines et carrières :
 
-- autoriser l'utilisation d'un produit explosif pour un usage non prévu par la décision d'agrément ;
+- autoriser l'utilisation d'un produit explosif pour un usage non prévu par la décision d'agrément.
+
+Le silence gardé pendant plus d'un an par le ministre chargé des mines sur une demande de dérogation ou d'autorisation vaut décision de rejet. Ce délai ne peut être modifié que par décret en Conseil d'Etat ;
 
 - interdire l'utilisation d'un produit explosif pour un usage défini ;
 
 - imposer des conditions d'emploi complémentaires.
 
 4. La fabrication de produits explosifs dans les industries extractives est soumise à l'autorisation du ministre chargé des mines aux conditions qu'il fixe.
+
+Le silence gardé pendant plus d'un an par le ministre chargé des mines sur une demande de dérogation ou d'autorisation vaut décision de rejet. Ce délai ne peut être modifié que par décret en Conseil d'Etat.

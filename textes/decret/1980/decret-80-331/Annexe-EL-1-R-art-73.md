@@ -1,9 +1,5 @@
-# Article Annexe EL-1-R, art. 73
+# Article 73
 
-1. La différence de potentiel qui peut exister entre les masses et les éléments conducteurs simultanément accessibles doit être limitée à la plus faible valeur possible, au besoin par une liaison équipotentielle supplémentaire.
+Travaux à risque de dégagement instantané de grisou : Dans les travaux sujets à dégagements instantanés de grisou, la réalisation et l'utilisation d'installations électriques autres que HNS sont soumises à l'autorisation préalable du préfet et aux conditions qu'il fixe.
 
-2. Dans les installations du domaine HTA, une interconnexion des masses et des éléments conducteurs doit être réalisée :
-
-- dans le voisinage des matériels fixes ;
-
-- jusqu'à 2000 m, comptés le long des canalisations électriques, des matériels amovibles.
+Le silence gardé pendant plus d'un an par l'autorité compétente sur une demande de dérogation ou d'autorisation vaut décision de rejet. Ce délai ne peut être modifié que par décret en Conseil d'Etat.

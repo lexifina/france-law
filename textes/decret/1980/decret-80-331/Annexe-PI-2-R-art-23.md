@@ -1,6 +1,6 @@
-# Article Annexe PI-2-R, art. 23
+# Article 23
 
-Sur les surfaces neutralisées par schistification, le taux de schistification doit être vérifié périodiquement par analyse d'échantillons dans les conditions définies ci-après :
+Vérification du taux de schistification : Sur les surfaces neutralisées par schistification, le taux de schistification doit être vérifié périodiquement par analyse d'échantillons dans les conditions définies ci-après :
 
 - les voies à échantillonner sont partagées en tronçons d'échantillonnage d'autant plus courts qu'on se trouve plus près des sources d'émission de poussières et que les dépôts de poussières sont plus importants ;
 
@@ -15,3 +15,5 @@ Sur les surfaces neutralisées par schistification, le taux de schistification d
 - la fréquence des vérifications sur échantillons doit être fixée de façon à respecter en permanence les taux de schistification réglementaires, sans que l'intervalle entre deux vérifications puisse dépasser un mois dans un tronçon d'échantillonnage proche d'un chantier en activité d'abattage ou de creusement ou comportant une source d'empoussiérage importante, ou trois mois dans les autres tronçons ; le directeur régional de l'industrie, de la recherche et de l'environnement peut augmenter les intervalles ci-dessus définis, jusqu'à trois mois au lieu de un mois, et neuf mois au lieu de trois mois, lorsque les conditions de dépôt des poussières, ou des méthodes efficaces de surveillance, permettent de garantir le maintien des taux de schistification réglementaires ;
 
 - l'échantillon réduit est séché à 105 °C, avec détermination éventuelle de l'humidité ; la teneur en éléments incombustibles solides est déterminée par chauffage à 490 °C ; toute autre méthode d'analyse peut être autorisée par le préfet si elle donne des résultats équivalents après étalonnage, et sous réserve d'une vérification périodique de celui-ci.
+
+Le silence gardé pendant plus d'un an par le préfet sur une demande de dérogation ou d'autorisation vaut décision de rejet. Ce délai ne peut être modifié que par décret en Conseil d'Etat.

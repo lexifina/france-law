@@ -1,6 +1,6 @@
-# Article Annexe EL-1-R, art. 49
+# Article 49
 
-1. Indépendamment des prescriptions de l'article 48, les installations, quel qu'en soit le domaine, doivent être vérifiées lors de leur mise en service ou après avoir subi une modification de structure, puis périodiquement.
+Vérification des installations électriques : 1. Indépendamment des prescriptions de l'article 48, les installations, quel qu'en soit le domaine, doivent être vérifiées lors de leur mise en service ou après avoir subi une modification de structure, puis périodiquement.
 
 Ces vérifications font l'objet de rapports détaillés dont la conclusion précise nettement les points où les installations s'écartent des dispositions du présent titre et des arrêtés pris pour son application.
 
@@ -11,6 +11,8 @@ Ces vérifications font l'objet de rapports détaillés dont la conclusion préc
 Toutefois, ces vérifications peuvent être effectuées par des personnes appartenant ou non à l'exploitation dont la liste nominative est notifiée au directeur régional de l'industrie, de la recherche et de l'environnement par l'exploitant. Ces personnes doivent avoir des connaissances approfondies dans le domaine de la prévention des risques électriques ainsi que des dispositions réglementaires qui y sont afférentes et exercer régulièrement l'activité de vérification.
 
 4. Un arrêté du ministre chargé des mines définit les conditions et les modalités d'agrément des personnes ou organismes appelés à effectuer les vérifications prévues au paragraphe 3, premier alinéa.
+
+Le silence gardé pendant plus d'un an par le ministre chargé des mines sur une demande d'agrément d'organismes vaut décision de rejet. Ce délai ne peut être modifié que par décret en Conseil d'Etat.
 
 5. Les vérifications périodiques sont effectuées par des personnes appartenant ou non à l'exploitation et possédant une connaissance approfondie dans le domaine de la prévention des risques dus à l'électricité et des dispositions réglementaires qui y sont afférentes.
 

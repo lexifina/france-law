@@ -1,6 +1,8 @@
-# Article Annexe GR-1-R, art. 17
+# Article 17
 
-1. Les travaux de dépilage en aérage secondaire sont interdits, sauf autorisation accordée par le préfet.
+Travaux en aérage secondaire : 1. Les travaux de dépilage en aérage secondaire sont interdits, sauf autorisation accordée par le préfet.
+
+Le silence gardé pendant plus d'un an par le préfet sur une demande de dérogation ou d'autorisation vaut décision de rejet. Ce délai ne peut être modifié que par décret en Conseil d'Etat.
 
 2. L'aérage secondaire des travaux doit être assuré par un système mécanique d'aérage.
 

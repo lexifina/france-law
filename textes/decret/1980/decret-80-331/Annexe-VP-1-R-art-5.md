@@ -1,6 +1,6 @@
-# Article Annexe VP-1-R, art. 5
+# Article 5
 
-1. Le ministre chargé des mines fixe par arrêté les prescriptions relatives :
+Dispositions constructives : 1. Le ministre chargé des mines fixe par arrêté les prescriptions relatives :
 
 - aux conditions d'aménagement ;
 
@@ -23,3 +23,5 @@ auxquelles les véhicules sont astreints.
 6. Tout véhicule doit porter une plaque indiquant le nom du constructeur, le type, le numéro d'identification, le poids total en charge, l'année de construction.
 
 7. Le préfet peut exceptionnellement autoriser, aux conditions qu'il fixe, l'emploi dans une exploitation de véhicules qui ne répondent pas à la totalité des exigences résultant de l'application des paragraphes 1 à 5 ci-dessus.
+
+Le silence gardé pendant plus d'un an par le préfet sur une demande de dérogation ou d'autorisation vaut décision de rejet. Ce délai ne peut être modifié que par décret en Conseil d'Etat.

@@ -1,8 +1,10 @@
-# Article Annexe GR-1-R, art. 15
+# Article 15
 
-1. L'aérage principal doit être assuré par une ventilation mécanique. Celle-ci ne peut être arrêtée volontairement qu'en cas de nécessité absolue ou pour faire face à des situations exceptionnelles ; cet arrêt ne peut avoir lieu que sur ordre de la personne physique chargée de la direction technique des travaux ou de la personne qualifiée responsable de l'aérage.
+Permanence de l'aérage : 1. L'aérage principal doit être assuré par une ventilation mécanique. Celle-ci ne peut être arrêtée volontairement qu'en cas de nécessité absolue ou pour faire face à des situations exceptionnelles ; cet arrêt ne peut avoir lieu que sur ordre de la personne physique chargée de la direction technique des travaux ou de la personne qualifiée responsable de l'aérage.
 
 Toutefois, le préfet peut, dans les travaux classés épisodiquement grisouteux, autoriser l'arrêt de l'aérage principal pendant les périodes de non-occupation des travaux par le personnel.
+
+Le silence gardé pendant plus d'un an par le préfet sur une demande de dérogation ou d'autorisation vaut décision de rejet. Ce délai ne peut être modifié que par décret en Conseil d'Etat.
 
 2. Les dispositions nécessaires doivent être prises pour qu'en cas de défaillance d'un ventilateur principal, une ventilation mécanique soit maintenue ou rétablie à bref délai. Cette ventilation doit être suffisante pour que l'évacuation du personnel soit possible de manière sûre.
 

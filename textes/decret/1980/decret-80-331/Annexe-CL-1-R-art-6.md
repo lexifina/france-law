@@ -1,6 +1,6 @@
-# Article Annexe CL-1-R, art. 6
+# Article 6
 
-1. Les combustibles liquides ne peuvent être entreposés que :
+Conditions d'entrepôt : 1. Les combustibles liquides ne peuvent être entreposés que :
 
 - dans des dépôts principaux constitués de citernes fixes protégées ou non, de wagons-citernes et d'une nourrice ;
 
@@ -17,3 +17,5 @@
 - dans un dépôt secondaire ou spécial les limites respectives de 1000 et 120 litres.
 
 3. Il ne doit être établi qu'un dépôt secondaire pour un seul chantier et deux dépôts secondaires au plus pour plusieurs chantiers suffisamment proches pour y permettre l'utilisation alternative d'un même ensemble de véhicules à moteurs thermiques.
+
+Le silence gardé pendant plus d'un an par le préfet sur une demande de dérogation ou d'autorisation vaut décision de rejet. Ce délai ne peut être modifié que par décret en Conseil d'Etat.

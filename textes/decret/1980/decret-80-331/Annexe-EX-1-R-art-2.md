@@ -9,3 +9,5 @@
 4. L'emploi de tout moyen destiné à produire des effets dynamiques analogues à ceux des produits explosifs est réglementé par un arrêté du ministre chargé des mines.
 
 5. L'usage d'explosifs dans des conditions autres que celles prévues par le présent titre doit faire l'objet d'arrêtés spécifiques du ministre chargé des mines.
+
+Le silence gardé pendant plus d'un an par le ministre chargé des mines sur une demande de dérogation ou d'autorisation vaut décision de rejet. Ce délai ne peut être modifié que par décret en Conseil d'Etat.

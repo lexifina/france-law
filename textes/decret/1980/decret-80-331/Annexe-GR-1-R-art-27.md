@@ -1,6 +1,6 @@
-# Article Annexe GR-1-R, art. 27
+# Article 27
 
-1. Tous les travaux d'accès autorisé doivent être visités au moins une fois par jour ouvré par un agent formé à la détection du grisou. Le lendemain d'un jour chômé, cette visite est effectuée avant la reprise du travail.
+Grisoumétrie manuelle : 1. Tous les travaux d'accès autorisé doivent être visités au moins une fois par jour ouvré par un agent formé à la détection du grisou. Le lendemain d'un jour chômé, cette visite est effectuée avant la reprise du travail.
 
 L'agent chargé de cette visite est placé, pour la durée de sa mission, dans une position hiérarchique qui le rend indépendant de la production.
 
@@ -17,3 +17,5 @@ Elle doit contrôler la teneur en grisou au début du poste, puis, selon les bes
 - détecter la présence de grisou dans les zones marginales non prises en compte dans la définition de la teneur maximale locale.
 
 4. Le préfet peut dispenser l'exploitant des visites prévues au paragraphe 1, ou en diminuer la fréquence, lorsque les conditions locales le justifient.
+
+Le silence gardé pendant plus d'un an par le préfet sur une demande de dérogation ou d'autorisation vaut décision de rejet. Ce délai ne peut être modifié que par décret en Conseil d'Etat.

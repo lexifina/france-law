@@ -1,6 +1,6 @@
-# Article Annexe RI-1-R, art. 15
+# Article 15
 
-1. Dans des conditions inhabituelles de travail et lorsque d'autres techniques ne peuvent pas être utilisées, le préfet peut, dans des conditions qu'il précise et après avis de l'Office de protection contre les rayonnements ionisants, autoriser la mise en oeuvre d'expositions exceptionnelles concertées, sous réserve que soient recueillis les avis préalables :
+Exposition concertée : 1. Dans des conditions inhabituelles de travail et lorsque d'autres techniques ne peuvent pas être utilisées, le préfet peut, dans des conditions qu'il précise et après avis de l'Office de protection contre les rayonnements ionisants, autoriser la mise en oeuvre d'expositions exceptionnelles concertées, sous réserve que soient recueillis les avis préalables :
 
 - suivant le cas et lorsqu'il existe, du délégué mineur, du délégué permanent de la surface ou du délégué du personnel ;
 
@@ -27,3 +27,5 @@ Les personnes concernées doivent :
 - qui est une femme en état de procréer.
 
 3. Le cumul des taux d'exposition totale relatifs aux opérations donnant lieu à une exposition concertée ne doit pas dépasser 2 pendant douze mois consécutifs et 5 pendant toute la vie.
+
+Le silence gardé pendant plus d'un an par le préfet sur une demande de dérogation ou d'autorisation vaut décision de rejet. Ce délai ne peut être modifié que par décret en Conseil d'Etat.
