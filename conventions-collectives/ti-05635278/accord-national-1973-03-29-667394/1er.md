@@ -1,0 +1,5 @@
+# Article 1er
+
+La durée hebdomadaire du travail pour les personnels engagés par les sociétés de production cinématographique est celle légale :
+
+actuellement quarante heures. La répartition du temps de travail doit réserver aux salariés deux jours, soit quarante-huit heures, de repos consécutifs et comprenant le dimanche.
