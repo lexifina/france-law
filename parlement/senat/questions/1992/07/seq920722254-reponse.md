@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920722254
+
+- Question : [SEQ920722254](seq920722254.md) — Non-publication du décret de la loi relative aux rapports entre l'Etat et les collectivités territoriales
+
+## Réponse
+
+*Collectivités locales, JO du 1992-09-17, page 2119*
+
+Réponse. - L'article 8 de la loi n° 85-97 du 25 janvier 1985 modifiant et complétant la loi n° 83-663 du 22 juillet 1983 et portant dispositions diverses relatives aux rapports entre l'Etat et les collectivités territoriales prévoyait que deux décrets en Conseil d'Etat devaient intervenir. Un premier décret, relatif aux conditions dans lesquelles le maintien des concessions de logement et des prestations accessoires est assuré à certaines catégories de personnels de l'Etat dans les établissements publics locaux d'enseignement relevant de la compétence des collectivités territoriales ou de leurs groupements, a été pris le 14 mars 1986 sous le numéro 86-428. Quant au second décret, portant sur la mise à disposition au département et à la région de personnels et de moyens matériels des collectivités locales propriétaires - par le représentant de l'Etat - tel que prévu à l'article 14-1-III de ladite loi ce texte réglementaire n'a pu intervenir en l'absence de consensusentre les associations d'élus concernés sur le contenu technique du projet et notamment sur la méthode à retenir pour l'évaluation des prestations. Toutefois, la non-parution de ce deuxième texte réglementaire n'a pas eu pour conséquence de paralyser la volonté du législateur. En effet, se référant au dernier alinéa de l'article 14-1-III précité, le représentant de l'Etat dans le département ou la région a pu apprécier et avaliser les conditions dans lesquelles le sort des locaux concernés a été déterminé sur le fondement de l'article 6 de la loi n° 83-8 du 7 janvier 1983, au vu des conventions passées entre les collectivités territoriales signataires.
