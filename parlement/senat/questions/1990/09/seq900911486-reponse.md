@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900911486
+
+- Question : [SEQ900911486](seq900911486.md) — Date de paiement de la taxe d'habitation
+
+## Réponse
+
+*Économie, JO du 1990-11-15, page 2448*
+
+Réponse. - La mise en recouvrement rapide des impôts locaux est une mesure de bonne gestion nécessaire, dans la mesure où les collectivités locales bénéficient gratuitement dès le 1er janvier de l'année, d'avances mensuelles de recettes. Ce décalage très important dans le temps entre le versement effectué dès le début de l'année et l'encaissement des recettes réalisé en fin d'année est très coûteux pour la trésorerie de l'Etat et doit être réduit peu à peu. La date limite de paiement pour certaines taxes d'habitation et taxes foncières a ainsi été fixée au 15 octobre 1990. Il a cependant été décidé que, à titre exceptionnel, les contribuables qui s'étaient acquittés de leur taxe d'habitation ou taxe foncière au 15 novembre 1989 et qui sont redevables des mêmes impositions pour le 15 octobre 1990 bénéficieraient d'un délai supplémentaire d'un mois cette année. Cette mesure est toutefois limitée à la seule année 1990 ; le nouveau calendrier de recouvrement des impôtslocaux sera en conséquence appliqué dès l'automne 1991. Cette dernière décision fera l'objet d'une information auprès des contribuables dès le printemps 1991. Par ailleurs, des instructions ont été données aux comptables du Trésor pour qu'ils examinent avec la plus grande bienveillance les demandes de délais de paiement ou de remises de majorations des contribuables éprouvant de sérieuses difficultés pour régler leurs impôts aux échéances légales. En outre, pour permettre aux contribuables qui le souhaitent d'étaler le paiement de leur taxe d'habitation sur l'ensemble de l'année, le décret n° 90-726 du 9 août 1990 a étendu le paiement mensuel de cet impôt à quarante nouveaux départements à compter du 1er janvier 1991.
