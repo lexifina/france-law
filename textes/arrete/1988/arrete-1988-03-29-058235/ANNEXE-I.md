@@ -4,7 +4,7 @@
 
 Nom :
 
-Nom patronymique :
+Nom de famille :
 
 Prénom :
 
@@ -26,7 +26,9 @@ Situation :
 
 Discipline ou spécialité :
 
-Le cas échéant indiquer les fonctions de chef de service exercées antérieurement faisant apparaître les dates et l'établissement hospitalier concerné.
+Le cas échéant indiquer les fonctions de chef de service exercées
+
+antérieurement faisant apparaître les dates et l'établissement hospitalier concerné.
 
 Signature du candidat attestant l'exactitude des renseignements fournis :
 
