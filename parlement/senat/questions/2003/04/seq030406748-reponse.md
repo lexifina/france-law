@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030406748
+
+- Question : [SEQ030406748](seq030406748.md) — Fonds structurels européens
+
+## Réponse
+
+*Affaires européennes, JO du 2003-09-11, page 2794*
+
+La réserve de performance représente 4 % de la dotation initiale de chaque État membre et pour chaque catégorie de programme (objectif 1 et objectif 2). Cette dotation ne récompense pas des projets mais les programmes régionaux dont la mise en oeuvre aura fait la preuve de sa performance, mesurée au 31 décembre 2003, par référence à trois critères (efficacité, qualité de gestion, exécution financière) illustrés par une série d'indicateurs dont certains sont communs à toutes les régions et d'autres renvoient à des choix effectués par les comités de suivi des DOCUP concernés. Les principes d'attribution et de répartition de la réserve sont posés par le règlement 1999/1260 (art. 44) qui dispose que la commission, en concertation avec l'État membre et sur la base des propositions de celui-ci, alloue la réserve. Le principe même de la réserve vise à primer les régions les plus performantes, ce qui peut conduire à réduire certaines d'entre elles du bénéfice de cette dotation, ce qui signifie que le chiffre de 4 % soit compris comme une moyenne. En l'état actuel des choses, le Gouvernement travaille à l'établissement d'un classement indicatif des régions dans l'attente d'un arrêté des comptes au 31 décembre 2003. Les modalités de répartition de la réserve entre ces mêmes régions seront ensuite arrêtées, au vu dudit classement. La principale difficulté enregistrée tient à la qualité relative des données disponibles dans plusieurs régions. Il importe que l'ensemble des services associés à la gestion soient sensibilisés à la nécessité et à l'urgence de la saisie et de la mise à jour des données de suivi des programmes dans le logiciel Présage, qui sera le seul outil de mesure de la performance régionale.
