@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860601401
+
+- Question : [SEQ860601401](seq860601401.md) — Sécurité sociale: suppression d'exonération du ticket modérateur
+
+## Réponse
+
+*Sécurité sociale, JO du 1986-08-07, page 1142*
+
+Réponse. - L'article 4 de la convention nationale des médecins signée le 1er juillet 1985 et approuvée le 4 juillet 1985 par arrêté interministériel fixe les modalités du paiement des honoraires. Il rappelle le principe du règlement direct des honoraires, prévu à l'article L. 322-1 du code de la sécurité sociale, et limite strictement les cas dans lesquels des dérogations à ce principe peuvent être admises. En médecine de ville, la dispense d'avance des frais est ainsi acceptée en cas d'utilisation du titre médecin, applicable aux actes de spécialités dont le coefficient (ou la somme des coefficients pour les actes effectués au cours d'une même séance) inscrit à la nomenclature générale des actes professionnels est égal ou supérieur à Z. 70 ou K. 50. Seuls les syndicats nationaux d'électroradiologistes ont signé un protocole d'accord permettant la mise en oeuvre d'une telle procédure. En dehors du titre médecin, l'article 4 précité prévoit que " les caissess'interdisent, sauf accord des parties signataires, de procéder à toute autre pratique de dispense d'avance des frais ". Les parties signataires, sensibles à certaines situations contestables auxquelles avait pu conduire la procédure du " dû, autorisation d'avance " autorisée par la précédente convention, n'ont donc pas écarté la possibilité d'instituer au niveau local des dispositifs permettant de faire bénéficier à titre exceptionnel certains assurés sociaux de la dispense d'avance des frais, pour des dépenses inférieures aux seuils d'utilisation du titre médecin. La possibilité pour les caisses de conclure de tels accords a été rappelée par la circulaire ministérielle du 10 mars 1986.
