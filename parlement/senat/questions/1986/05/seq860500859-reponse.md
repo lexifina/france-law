@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860500859
+
+- Question : [SEQ860500859](seq860500859.md) — Renégociation des accords multifibres
+
+## Réponse
+
+*Commerce extérieur, JO du 1986-06-19, page 851*
+
+Réponse. -Le Gouvernement est très conscient des difficultés que connaissent encore les industries du textile et de l'habillement et des perturbations que provoque une augmentation brutale des importations de ces produits. Il est d'ailleurs en relation constante avec l'ensemble de la profession, et les positions de négociation défendues par la France ont été préparées de manière approfondie avec les industriels. Il veillera attentivement lors des prochaines semaines à ce que le mandat des négociations adopté par la Communauté européenne pour la prorogation de l'accord multifibres soit très strictement appliqué. En particulier, au cours des négociations de renouvellement des accords bilatéraux, auxquelles les représentants des Etats membres sont étroitement associés, le Gouvernement français s'assurera du respect intégral des plafonds globaux arrêtés pour les catégories de produits sensibles et s'attachera à faire prendre en compte les intérêts des industriels français, dont il connaît bien les préoccupations. En outre, le Gouvernement français marquera sa volonté de voir effectivement mis en place les mécanismes permettant d'éviter les augmentations brutales des importations, qu'elles soient ou non soumises à quota, tels qu'ils sont définis par le mandat communautaire, c'est-à-dire avec une efficacité améliorée par rapport au régime actuel. Dans ces conditions, et compte tenu de la faiblesse relative de la part des importations originaires des pays A.M.F. (15 p. 100 de la valeur totale des importations textiles en France, alors que les importations originaires de nos partenaires de la C.E.E. dépassent 65 p. 100, il est raisonnable de penser que les effets de la mise en place du nouveau dispositif A.M.F. resteront limités.
