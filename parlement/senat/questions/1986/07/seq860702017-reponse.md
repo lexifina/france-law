@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860702017
+
+- Question : [SEQ860702017](seq860702017.md) — Fonctionnement du fonds spécial de grands travaux
+
+## Réponse
+
+*Budget, JO du 1986-08-14, page 1166*
+
+Réponse. -Conçu comme un instrument sélectif de soutien à l'activité et à l'emploi du secteur du bâtiment et des travaux publics, le fonds spécial de grands travaux (F.S.G.T.) a permis, dans un contexte de rigueur budgétaire croissante, de dégager des ressources supplémentaires qui sont venues compléter le budget de l'Etat par des interventions spécifiques en matière d'équipement.Il n'est pas douteux que ce mode de financement a eu pour effet d'accélérer la réalisation de travaux dans les domaines des transports publics, de la circulation routière et de la maîtrise de la dépense énergétique, comme l'établit le rapport détaillé sur la gestion du fonds présenté chaque année au Parlement par le Gouvernement. Cependant, malgré une amélioration progressive, l'action du F.S.G.T. n'a pas eu la rapidité et l'efficacité escomptées lors de sa création, en raison notamment des difficultés et des lourdeurs d'ordre administratif relevées par la Cour des comptes dans son rapport public pour 1986. En outre et surtout, la pérennisation et la banalisation de cette procédure conjoncturelle présenterait de sérieux inconvénients du point de vue de la clarté de la présentation des comptes publics et de l'exercice par le Parlement de ses prérogatives en matière budgétaire. Dans ces conditions, conformément aux recommandations de la Cour des comptes, le Gouvernement a décidé de ne lancer aucune tranche nouvelle du fonds, en tenant compte des effets sur le budget de l'Etat de cette mise en extinction du fonds. Celui-ci ne sera maintenu, à titre temporaire, que pour lui permettre de solder les paiements afférents aux engagements déjà pris.
