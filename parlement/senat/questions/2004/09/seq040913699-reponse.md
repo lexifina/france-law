@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040913699
+
+- Question : [SEQ040913699](seq040913699.md) — Elimination des pneus usagés
+
+## Réponse
+
+*Écologie, JO du 2005-01-20, page 165*
+
+Le ministre de l'écologie et du développement durable a pris connaissance, avec intérêt, de la question concernant la collecte des pneumatiques usagés. Le décret n° 2002-1563 du 24 décembre 2002 relatif à l'élimination des pneumatiques prévoit la responsabilité des producteurs de pneumatiques dans la collecte et l'élimination de leurs déchets. L'article 7 du décret précité prévoit que les producteurs ou les organismes qu'ils ont créés doivent collecter les pneumatiques que les détenteurs tiennent à leur disposition et l'article 2 du même décret précise que les communes ou leurs groupements sont considérés comme détenteurs. Ainsi, l'organisme qui regroupe les principaux producteurs a l'obligation de collecter les pneumatiques usagés que les déchetteries tiennent à sa disposition, dans la limite des tonnages mis sur le marché par ses actionnaires et ses adhérents l'année précédente. En raison de la montée en puissance du dispositif, cet organisme n'a pas collecté les quantités prévues de pneumatiques usagés au cours des derniers mois, mais a répondu à l'ensemble des sollicitations qui lui ont été faites, notamment de la part des collectivités. Enfin, le ministère de l'écologie et du développement durable a créé un comité de suivi concernant l'élimination des pneumatiques usagés qui réunit les différents acteurs concernés par la filière d'élimination des pneumatiques usagés (producteurs, éliminateurs, exportateurs, distributeurs, élus et associations, administrations). L'objectif est de suivre la mise en place de la filière et d'aider à résoudre les difficultés qui pourraient se présenter. La question des collectes en déchetteries est considérée avec attention par le comité de suivi.
