@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960716940
+
+- Question : [SEQ960716940](seq960716940.md) — Réductions des crédits de l'aide au logement
+
+## Réponse
+
+*Équipement, JO du 1996-11-28, page 3156*
+
+Réponse. - Au cours des dernières années, la place des aides personnelles dans la politique du logement s'est accrue, comme l'atteste la croissance du nombre de bénéficiaires, de 4,5 millions en 1990 à 6 millions aujourd'hui. Deux constats ont cependant été faits à plusieurs reprises : le dispositif d'aides personnelles n'a cessé d'être obscurci au fil des années par des mesures ponctuelles qui ont brouillé la lisibilité des barèmes ; les revenus pris en compte pour déterminer le montant de l'aide au logement ne traduisent pas la réalité des ressources et donc la capacité des ménages à assumer leurs charges de logement. C'est pourquoi le Gouvernement a décidé d'engager une réforme d'ensemble du système actuel des aides personnelles au logement fondée sur deux axes : la construction d'un barème plus lisible et équitable, unique pour le parc de logements conventionnés, fondé sur la part de dépense laissée à la charge d'un ménage en fonction de son revenu, de sa taille et du niveau de son loyer et préservant l'aide versée aux titulaires des minima sociaux ; la recherche d'une appréhension plus équitable des ressources des bénéficiaires d'aide par la prise en compte de certains revenus de transfert ou la suppression de certains abattements spécifiques, ces nouvelles dispositions n'entrant en vigueur que progressivement et ne s'appliquant pas aux bénéficiaires actuels. Les principes de cette réforme et ses modalités font l'objet des consultations nécessaires. Un article du projet de loi de finances propose au Parlement l'unification des barèmes applicables au parc conventionné. De plus, le projet de loi de finances pour 1997 prévoit une dotation de 29,7 milliards de francs, soit une hausse de 8,5 % par rapport à 1996, au profit des aides personnelles au logement.
