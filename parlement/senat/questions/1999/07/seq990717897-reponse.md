@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990717897
+
+- Question : [SEQ990717897](seq990717897.md) — Antenne médicale d'urgence de Calvi
+
+## Réponse
+
+*Emploi, JO du 1999-12-16, page 4158*
+
+Réponse. - L'honorable parlementaire a appelé l'attention de la ministre de l'emploi et de la solidarité sur la situation de l'antenne médicale d'urgence (AMU) de Calvi-Balagne (Haute-Corse). Cette unité, gérée par le centre hospitalier de Bastia, connaît des dysfonctionnements relatifs à l'organisation de certaines activités médicales (radiologie, actes de laboratoire, etc.). Il appartient au centre hospitalier de Bastia, gestionnaire de cette antenne, de prendre les dispositions nécessaires pour que le fonctionnement quotidien soit assuré d'une manière satisfaisante. L'agence régionale de l'hospitalisation s'en est préoccupée et, à la suite de concertations récentes avec l'établissement sur ces sujets, des mesures de redressement ont été prises. Il est par ailleurs prévu de reconstruire cette antenne. Il y a lieu de rappeler qu'elle a pour fonctions essentielles d'assurer la prise en charge des urgences vitales et de permettre leur transport dans de bonnes conditions vers les établissements susceptibles de les accueillir, ainsi que de prendre en charge l'urgence courante de la population permanente et de la population saisonnière. Cette activité a été reconnue comme devant être maintenue dans le SROS qui vient d'être adopté. Enfin, il a été souhaité, notamment par les élus de Balagne, qu'une petite unité de soins de longue durée pour personnes âgées soit ajoutée à cette antenne. L'agence régionale de l'hospitalisation mène une concertation étroite avec le département à ce sujet et, afin d'accélérer l'instruction du dossier, est prête à prendre en charge sur l'exercice 1999 le financement des études de ce projet.
