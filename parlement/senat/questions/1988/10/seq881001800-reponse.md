@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881001800
+
+- Question : [SEQ881001800](seq881001800.md) — Contrôle de l'étiquetage des prix
+
+## Réponse
+
+*Consommation, JO du 1988-12-29, page 1485*
+
+Réponse. - La généralisation de l'utilisation du code-barre et de la lecture optique réduit en effet l'attente du consommateur aux caisses. Ce gain de temps, allié à une amélioration des coûts de gestion des distributeurs, est incontestablement bénéfique pour le consommateur. Il ne semble pas cependant que le développement de cette nouvelle technique se fasse au détriment de l'information du consommateur sur le niveau général des prix. En effet, le consommateur dispose désormais d'un ticket de caisse beaucoup plus détaillé que par le passé. En outre, l'utilisation de cette technique ne dispense pas les distributeurs d'appliquer les règles générales de la publicité des prix qui doit être assurée " par voie de marquage, d'étiquetage ou d'affichage ". Certes, il se peut qu'en certains cas le prix affiché dans les rayons ne corresponde pas au prix pratiqué aux caisses. Les distributeurs sont conscients de ce risque et le Conseil national du commerce a édité un code de bonne conduite qui recommande aux professionnels un " étiquetage irréprochable " et une parfaite concordance entre les prix affichés et les prix pratiqués. Cette concordance entre le prix affiché et le prix pratiqué fait l'objet d'un contrôle régulier de la part des services de la concurrence, de la consommation et de la répression des fraudes. Les écarts enregistrés sont généralement peu nombreux, et ne sont pas d'ailleurs systématiquement défavorables aux consommateurs. A l'avenir, la concordance sera encore mieux réalisée par la généralisation de solutions techniques qui en sont actuellement au stade expérimental telles que l'affichage par cristaux liquides.
