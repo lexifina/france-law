@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961018175
+
+- Question : [SEQ961018175](seq961018175.md) — Allocation de rentrée scolaire
+
+## Réponse
+
+*Travail, JO du 1996-11-28, page 3175*
+
+Réponse. - L'allocation de rentrée scolaire est une prestation familiale attribuée sous condition de ressources aux familles afin de compenser en partie la charge financière particulièrement lourde qu'elles supportent à ce moment de l'année pour faire face aux dépenses d'habillement et d'équipement de leurs enfants. Cette allocation a été créée en 1974 et en ce qui concerne la condition relative à l'âge limite des enfants ouvrant droit, référence était faite dans la loi à l'exécution de l'obligation scolaire. Le bénéfice de cette prestation cessait donc lorsque l'enfant atteignait son seizième anniversaire. A la rentrée scolaire 1990, cet âge limite a été porté à dix-huit ans, soit au-delà de l'obligation scolaire, afin de tenir compte de la prolongation de la scolarité. L'honorable parlementaire souhaiterait une extension du champ de l'allocation de rentrée scolaire en faveur des jeunes adultes toujours à charge au sens des prestations familiales, soit jusqu'à leur vingtième anniversaire. Le Gouvernement n'envisage pas une telle extension de champ qui irait au-delà de l'objectif initial de la prestation. En outre, une telle mesure aurait un coût financier non négligeable qui n'est pas compatible avec l'état actuel des finances de la branche famille. Par ailleurs, il est rappelé à l'honorable parlementaire que la collectivité prend en compte de manière spécifique la situation des familles dans lesquelles les enfants poursuivent des études, soit par le biais de l'attribution des bourses d'enseignement supérieur, soit grâce au dispositif fiscal. En outre, les jeunes étudiants peuvent également bénéficier de l'allocation de logement sociale qui leur permet de compenser en partie leur charge de logement.
