@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010533418
+
+- Question : [SEQ010533418](seq010533418.md) — Fonctionnement des mutuelles de l'armée
+
+## Réponse
+
+*Défense, JO du 2001-08-09, page 2607*
+
+Les dispositions dérogatoires prévues par le code de la mutualité de 1985 concernant la désignation du président et du premier vice-président des mutuelles des militaires ont été reprises à l'article L. 115-6 du code de la mutualité, publié au Journal officiel du 22 avril 2001. Elles concernent la mutuelle nationale militaire, la caisse nationale du gendarme - mutuelle de la gendarmerie et la mutuelle de l'armée de l'air. Le pouvoir de décision de ces mutuelles est partagé entre le conseil d'administration et l'assemblée générale. Parmis les 17 administrateurs du conseil d'administration de la mutuelle de l'armée de l'air, élus à bulletin secret par les membres de l'assemblée générale, siègent actuellement 14 non-officiers, dont un militaire du rang et une veuve. Le président et le premier vice-président sont actuellement des officiers généraux en deuxième section, bénévoles comme tous les élus mutualistes, et retenus pour leur compétence et l'intérêt qu'ils portent à l'action mutualiste. Toutefois, le recours à des officiers généraux ou à des officiers supérieurs n'est pas une règle en soi. En effet, en 1991, un major a été nommé premier vice-président à la caisse nationale du gendarme, mutuelle de la gendarmerie, et reconduit dans ses fonctions en 1994. L'organe de décision le plus important de le mutuelle reste l'assemblée générale. Elle est composée de délégués élus par les mutualistes. Parmi les 90 délégués titulaires de la mutuelle de l'armée de l'air (53 en activité de service et 37 en non activité), seuls 6 sont officiers. Il faut enfin préciser que le président et le premier vice-président ne disposent pas d'une voix prépondérante et peuvent voir leurs propositions rejetées.
