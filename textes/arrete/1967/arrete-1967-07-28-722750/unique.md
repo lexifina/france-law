@@ -26,7 +26,7 @@ Communes de Nouméa, Mont-Dore, Dumbéa et Paita
 
 |
 
-1,82 |
+1,77 |
 
 Autres communes
 
@@ -42,7 +42,7 @@ Communes de Port-Vila et agglomérations voisines (îlot Vila, Eracor, Manco, Me
 
 |
 
-2,22 |
+2,16 |
 
 Autres localités
 
@@ -60,7 +60,7 @@ Iles du Vent et îles Sous-le-Vent
 
 |
 
-1,93 |
+1,88 |
 
 Autres subdivisions
 
