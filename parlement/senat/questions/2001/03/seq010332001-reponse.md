@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010332001
+
+- Question : [SEQ010332001](seq010332001.md) — Réforme de la protection juridique des majeurs
+
+## Réponse
+
+*Justice, JO du 2001-05-31, page 1855*
+
+Réponse. - La garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire qu'à la suite du rapport conjoint des inspections des finances, des services judiciaires et des affaires sociales qui mettait en évidence les insuffisances du système de protection des majeurs, le Gouvernement a constitué un groupe de travail interministériel, présidé par Jean Favard, conseiller honoraire à la Cour de cassation, chargé d'élaborer des propositions tendant à adapter ce dispositif à l'évolution de la société, notamment à l'apparition de phénomènes d'exclusion et de précarité ainsi qu'au vieillissement de la population. Ce rapport, rendu public en mai 2000, insiste sur le respect de la dignité de la personne à protéger et sur les principes de nécessité et de subsidiarité des mesures de protection et rappelle que la finalité du dispositif doit être tout autant la protection de la personne du majeur concerné que la sauvegarde de ses biens. Il suggère, en outre, d'harmoniser le mode de financement des mesures de protection, actuellement caractérisé par une grande disparité des réglementations, en mettant en place une dotation globale, dont la gestion reviendrait à un opérateur unique. Celui-ci serait ainsi chargé de répartir les fonds, non plus en fonction du nombre de mesures, dont le coût est essentiellement variable et dépend à la fois des besoins individuels du majeur protégé et de la durée de la mesure, mais en tenant compte de la réalité du service. A la suite du dépôt du rapport, des consultations ont été menées auprès des juridictions pour recueillir leurs observations. En considération de celles-ci, le Gouvernement élabore un avant-projet de loi qui sera soumis prochainement à la concertation de l'ensemble des intervenants en la matière.
