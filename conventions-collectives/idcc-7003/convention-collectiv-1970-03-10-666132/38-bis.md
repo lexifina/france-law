@@ -1,4 +1,4 @@
-# Article 38 bis
+# Article 38 BIS
 
 Chaque maladie ou accident dûment constaté par certificat médical et contre-visite, s'il y a lieu, pris en charge par la mutualité sociale agricole donne lieu au versement d'indemnités, en fonction de la nature de l'arrêt et de l'ancienneté du salarié :
 
@@ -10,6 +10,8 @@ a) Absence pour maladie :
 
 - taux d'indemnisation, après un an d'ancienneté : 90 p. 100 du salaire brut de l'intéressé ;
 
+L'ancienneté s'apprécie à compter de la dernière date d'entrée dans l'entreprise.
+
 b) Absence pour hospitalisation :
 
 - un an d'ancienneté : indemnités versées du premier au cent vingtième jour ;
@@ -17,6 +19,8 @@ b) Absence pour hospitalisation :
 - trois ans d'ancienneté : indemnités versées du premier au cent cinquantième jour ;
 
 - taux d'indemnisation après un an d'ancienneté : 90 p. 100 du salaire brut de l'intéressé ;
+
+L'ancienneté s'apprécie à compter de la dernière date d'entrée d'entrée dans l'entreprise.
 
 c) Absence pour accident du travail ou de trajet :
 
