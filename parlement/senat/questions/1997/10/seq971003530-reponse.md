@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971003530
+
+- Question : [SEQ971003530](seq971003530.md) — Assurance vieillesse des fonctionnaires territoriaux
+
+## Réponse
+
+*Fonction publique, JO du 1997-11-27, page 3312*
+
+Réponse. - La loi no 94-1134 du 27 décembre 1994 qui a modifié l'article 108 de la loi no 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale a dissocié le seuil de durée hebdomadaire du travail portant affiliation à la CNRACL, lequel demeure fixé à 31 h 30, du seuil d'intégration dans les cadres d'emplois qui est désormais fixé à 19 h 30. De ce fait, la lecture du décret no 91-298 du 20 mars 1991 portant dispositions statutaires applicables aux fonctionnaires territoriaux nommés dans des emplois permanents à temps non complet, faisant référence tantôt à l'article 107, tantôt à l'article 108, est devenue ambiguë. Cependant, les dispositions des articles 34 et 35 du décret précité sont restées applicables. Les agents à temps non complet travaillant entre 19 h 30 et 31 h 30 continuent donc à relever " du régime général de la sécurité sociale pour l'ensemble des risques maladie, maternité, invalidité, vieillesse, décès et accident du travail couverts par ce régime ". En conséquence, en matière de protection sociale, il n'y a que deux catégories de fonctionnaires à temps non complet : ceux effectuant au moins 31 h 30 hebdomadaires relevant du régime spécial de sécurité sociale et de la CNRACL avec le bénéfice d'une protection sociale statutaire maximale et ceux effectuant moins de 31 h 30 hebdomadaires relevant du régime général de sécurité sociale avec le bénéfice de la protection sociale statutaire prévue par le décret du 20 mars 1991. Un projet de décret est en cours de préparation afin de clarifier la rédaction de ce décret et lever, en ce qui concerne la protection sociale, les ambiguïtés qui peuvent découler de la loi du 27 décembre 1994.
