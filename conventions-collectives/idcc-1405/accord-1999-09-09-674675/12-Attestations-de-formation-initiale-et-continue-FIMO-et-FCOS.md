@@ -6,7 +6,7 @@ a) L'attestation de présence dans l'entreprise au 31 décembre 1999 vaut attest
 
 b) Pour les personnels reprenant une activité de chauffeur après l'avoir interrompue tel que prévu dans les dispositions de l'article 2-3 du présent accord, une attestation type d'exercice du métier de conducteur routier est délivrée sur présentation des bulletins de paie ou du (des) certificat(s) de travail correspondant à la période d'exercice du métier de conducteur routier selon les modalités fixées au paragraphe a ci-dessus (voir modèle 1). Aucune attestation type de cette nature ne pourra être délivrée à compter du 1er janvier 2002 ;
 
-c) Pour les personnels ayant reçu les formations inutiles diplômantes visées à l'article 2-2 du présent accord, une attestation est délivrée par les organismes ou centres de formation agréés conforme au modèle 2 ;
+c) Pour les personnels ayant reçu les formations initiales diplômantes visées à l'article 2-2 du présent accord, une attestation est délivrée par les organismes ou centres de formation agréés conforme au modèle 2 ;
 
 d) Pour les personnels embauchés dans le cadre de contrat d'insertion par alternance ou d'apprentissage à compter du 1er janvier 2000, une attestation est délivrée par les organismes ou centres de formation agréés dès lors que les personnels concernés ont suivi les actions correspondant à la formation initiale minimale visée à l'article 3 du présent accord. Cette attestation est délivrée sur la base d'un test final d'évaluation des compétences acquises, à défaut de l'obtention d'un diplôme s'inscrivant dans le cadre de ces contrats (voir modèle 2) ;
 

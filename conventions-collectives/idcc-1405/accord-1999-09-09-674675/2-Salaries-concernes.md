@@ -26,7 +26,7 @@
 
 2.3. Les dispositions de l'article 1er ne sont pas applicables :
 
-- aux salariés exerçant la fonction de chauffeur de véhicules de plus de 7,5 tonnes de PTAC, à titre principal ou dans le cadre d'une activité polyvalente en poste au 31 décembre 2000 dans une entreprise assurant le transport de marchandises ou produits, pour compte propre ou compte d'autrui ou en tant que conducteur travailleur indépendant ;
+- aux salariés exerçant la fonction de chauffeur de véhicules de plus de 7,5 tonnes de PTAC, à titre principal ou dans le cadre d'une activité polyvalente en poste au 31 décembre 1999 dans une entreprise assurant le transport de marchandises ou produits, pour compte propre ou compte d'autrui ou en tant que conducteur travailleur indépendant ;
 
 - aux titulaires de l'attestation de présence au 1er juillet 1995 valant attestation de formation initiale obligatoire délivrée par les entreprises dans le cadre de la convention collective nationale des transports routiers et des activités auxiliaires de transport ;
 
