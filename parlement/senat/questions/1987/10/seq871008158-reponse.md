@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871008158
+
+- Question : [SEQ871008158](seq871008158.md) — Enseignement de la conduite sur les routes, voies express et autoroutes
+
+## Réponse
+
+*Équipement, JO du 1988-01-14, page 44*
+
+Réponse. -Pour être complète, la formation d'un futur conducteur doit évidemment le préparer à circuler sur tous les types de voies. Les accidents qui ont lieu sur les routes, les voies rapides et les autoroutes sont certes moins nombreux que ceux qui ont lieu en agglomération, mais ils sont plus graves et représentent environ les deux tiers des tués. C'est pourquoi plusieurs mesures ont déjà été prises pour que l'enseignement de la conduite fasse une place importante à la circulation en dehors des agglomérations. Ainsi un arrêté interministériel du 25 mai 1973 précise dans quelles conditions des leçons de conduite peuvent être données sur les autoroutes. D'autre part, le programme des examens du permis de conduire, qui a fait l'objet d'une décision du 24 août 1976 et a été publié dans le tome V du code de la route, consacre deux importants chapitres à la conduite sur route et à la conduite sur autoroute. Actuellement, un programme national de formation à la conduite est en cours d'élaboration, il développe largement les objectifs qui doivent être atteints pour que les futurs automobilistes soient capables de conduire en sécurité sur les routes, les voies rapides et les autoroutes. En ce qui concerne l'examen du permis de conduire, l'épreuve théorique audio-visuelle comporte une importante proportion de questions relatives à des situations de conduite sur route et sur autoroute. Quant à l'épreuve pratique, elle comporte, depuis déjà plusieurs années, trois parties qui sont évaluées séparément : les manoeuvres, la conduite en agglomération et la conduite à allure soutenue qui a lieu sur diverses catégories de route.
