@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990214415
+
+- Question : [SEQ990214415](seq990214415.md) — Enseignement de la natation
+
+## Réponse
+
+*Éducation, JO du 2000-07-06, page 2385*
+
+Réponse. - Conformément à la loi nº 51-662 du 24 mai 1951 portant sur la sécurité dans les établissements de natation et au décret nº 77-1177 du 20 octobre 1977 modifié relatif à la surveillance et à l'enseignement de la natation, les établissements de bains doivent disposer d'un personnel spécialement affecté à la surveillance en dehors de tout acte d'enseignement. Cette surveillance doit être assurée de façon constante par un personnel portant le titre de maître nageur sauveteur (MNS). Il est prévu, dans certains cas, que le maître nageur sauveteur spécialement affecté à la surveillance peut être assisté de personnes titulaires du brevet national de sécurité et de sauvetage aquatique (BNSSA). Toutefois, le ministre de l'éducation nationale a fait connaître au ministre de l'intérieur qu'afin d'éviter des problèmes d'interprétation qui pourrait être soulevé par l'ambiguïté du terme " assisté " et compte tenu des risques inhérents au milieu aquatique, il n'était pas envisageable de confier, lors des séances de natation scolaire dispensées dans le cadre de l'éducation physique et sportive, la responsabilité de la surveillance générale des bassins aux titulaires du BNSSA. Cette surveillance doit donc être assurée, conformément à la circulaire nº 87-124 du 27 avril 1987 modifiée relative à l'enseignement de la natation à l'école primaire et à la circulaire nº 65-154 du 15 octobre 1965 portant instructions pour l'enseignement de la natation scolaire dans le second degré, par un ou des maîtres nageurs sauveteurs, selon la superficie des plans d'eau, exclusivement affectés à cette tâche. Une note de rappel au respect de la réglementation va être prochainement transmise à l'ensemble des autorités académiques.
