@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021104242
+
+- Question : [SEQ021104242](seq021104242.md) — Fonctionnement de l'Ecole nationale de santé publique
+
+## Réponse
+
+*Santé, JO du 2004-09-16, page 2121*
+
+L'honorable parlementaire avait appelé l'attention de M. le ministre de la santé et de la protection sociale sur la situation de l'Ecole nationale de la santé publique et sur la réforme de cette institution. Comme M. le ministre l'avait annoncé devant l'Assemblée nationale le 10 septembre dernier, la quatrième orientation du projet de loi relatif à la politique de santé publique est la création d'une grande école de santé publique. Ce projet prévoit, en accord avec M. le ministre des affaires sociales, du travail et de la solidarité et M. le ministre de la jeunesse, de l'éducation nationale et de la recherche, de créer un grand établissement d'enseignement supérieur permettant d'animer un réseau national de formation en santé publique, de mettre en commun les expériences et les compétences et de hisser le système de formation français au meilleur niveau. A cet effet, les ministres ont demandé le 19 août 2003 à l'inspection générale des affaires sociales (IGAS) et à l'inspection générale de l'administration de l'éducation nationale et de la recherche (IGAENR) de conduire une mission de préfiguration de la future école des hautes études en santé publique. La mission a rendu ses conclusions début juin à M. le ministre de la santé et de la protection sociale, à M. le ministre de l'emploi, du travail et de la cohésion sociale et à M. le ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche. Ce rapport est disponible sur simple demande à l'Inspection générale des affaires sociales ou à l'Inspection générale de l'administration de l'éducation nationale et de la recherche. Il devrait être rendu public et mis en ligne sur le site de la Documentation française (Bibliothèque des rapports publics) à la fin du mois d'août 2004.
