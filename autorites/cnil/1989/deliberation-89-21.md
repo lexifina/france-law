@@ -1,0 +1,13 @@
+# Délibération portant avis relatif à la consultation par minitel des paiements réalisés par les Caisses centrales de mutualité sociale agricole au profit des établissements de soins et professionnels de santé (procédure du tiers-payant).
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 89-21
+- Date : 1989-03-14
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017652827
+
+La Commission Nationale de l'Informatique et des Libertés, Vu la Convention du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ; Vu la loi n° 78-17 du 6 janvier 1978 relative à l'Informatique, aux Fichiers et aux Libertés ; Vu le décret n° 78-774 du 17 juillet 1978 pris pour l'application des chapitres I à IV et VII de la loi précitée ; Vu le projet de décision présenté par les Caisses Centrales de Mutualité Sociale Agricole ; Après avoir entendu Monsieur André PERDRIAU en son rapport, et Madame Charlotte-Marie PITRAT, Commissaire du Gouvernement, en ses observations ;
+
+Considérant que les Caisses Centrales de Mutualité Sociale Agricole ont saisi la Commission d'une demande d'avis destinée à constituer un modèle type de déclaration à la disposition des caisses locales pour un traitement dont la finalité est de permettre aux établissements de soins et aux professionnels de santé de prendre connaissance par minitel des paiements réalisés dans le cadre de la procédure du tiers-payant ; Considérant que les informations traitées concernent les nom, prénom, la date de naissance des assurés, la date des soins, la date et le montant du paiement, le montant du ticket modérateur, la ventilation comptable (part payée par la sécurité sociale et complément mutualiste) ; Considérant que ces informations sont adéquates, pertinentes et non excessives par rapport à la finalité envisagée ; Considérant que chaque assuré exercera son droit d'accès et de rectification auprès de la caisse de mutualité sociale dont ils relèvent ; Considérant que les mesures destinées à assurer la sécurité et la confidentialité des informations sont prises ; Considérant que chaque caisse de mutualité sociale agricole adoptant ce modèle devra préalablement à la mise en oeuvre du traitement, présenter à la Commission une demande d'avis allégée comportant le formulaire de déclaration accompagné d'un engagement de conformité et d'un projet d'acte réglementaire conforme à l'acte réglementaire national ; Emet un avis favorable au projet de décision présenté par les Caisses Centrales de Mutualité Sociale Agricole. Le Président, Jacques FAUVET.
