@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870204591
+
+- Question : [SEQ870204591](seq870204591.md) — Interpellation d'étudiants par la Direction de la Sécurité du Territoire (DST)
+
+## Réponse
+
+*Recherche et enseignement supérieur, JO du 1987-09-03, page 1385*
+
+Réponse. -Le 4 février 1987, quatre étudiants ont été interpellés non pas par la direction de surveillance du territoire mais par la brigade criminelle. Des informations étaient en effet parvenues à ce service selon lesquelles ces quatre personnes étaient susceptibles de commettre un attentat à l'occasion de la réunion à Paris des ambassadeurs du Chili en Europe. Il appartient à l'évidence aux services de police, lorsqu'ils sont informés de menaces d'attentats, de prendre toutes les dispositions utiles en vue de les prévenir. Le ministre délégué auprès du ministre de l'éducation nationale, chargé de la recherche et de l'enseignement supérieur, rappelle à l'honorable parlementaire qu'en application des dispositions législatives en vigueur (art. 36 de la loi du 12 novembre 1968 et art. 50 de la loi du 26 janvier 1984) et des traditions universitaires, les étudiants disposent de la liberté d'information et d'expression à l'égard des problèmes politiques, économiques, sociaux et culturels, à titre individuel et collectif, dans des conditions qui ne portent pas atteinte aux activités d'enseignement et de recherche et qui ne troublent pas l'ordre public. La mise en oeuvre de ces dispositions, à l'esprit desquelles le ministre est très attaché, relève, dans chaque établissement, de l'appréciation des autorités responsables du fonctionnement et du maintien de l'ordre. C'est dans ce cadre que peuvent se développer en toute indépendance les réflexions que tel ou tel groupement d'étudiants entend mener en ce qui concerne l'avenir de l'enseignement supérieur.
