@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020238306
+
+- Question : [SEQ020238306](seq020238306.md) — Gestion par deux collectivités d'un bâtiment du domaine public
+
+## Réponse
+
+*Logement, JO du 2002-04-25, page 1183*
+
+L'application de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles à un bâtiment appartenant au domaine public de deux collectivités, s'avère incompatible avec le régime de la domanialité publique. Tout d'abord, l'existence de parties communes en indivision entre les copropriétaires est contraire à la propriété exclusive d'une personne publique sur un bien appartenant à son domaine public. Il en est de même de la mitoyenneté présumée des cloisons et des murs séparant les parties privatives. Ensuite, une personne publique qui dispose des biens de son domaine public ne peut se voir imposer, comme le permet le régime de la copropriété, une décision émanant de l'assemblée générale des copropriétaires relativement à ces biens. Enfin, la garantie de créance du syndicat de copropriétaires, constituée par une hypothèque légale sur un lot, est contraire au principe d'inaliénabilité du domaine public. La jurisprudence administrative a confirmé que les règles essentielles du régime de la copropriété, telles qu'elles sont fixées par la loi du 10 juillet 1965 précitée, sont incompatibles tant avec le régime de la domanialité publique qu'avec les caractères des ouvrages publics. La gestion par deux collectivités d'un bâtiment appartenant à leur domaine public est liée au montage de l'opération envisagée et doit se conformer aux dispositions de droit public correspondantes. Deux collectivités publiques peuvent gérer un bâtiment appartenant à leur domaine privé sous le régime de la copropriété, tel qu'organisé par la loi de 1965 précitée, sous réserve des règles applicables aux biens du domaine privé des personnes publiques, notamment celles se rapportant à l'insaisissabilité de leurs biens.
