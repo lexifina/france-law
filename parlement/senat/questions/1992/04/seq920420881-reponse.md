@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920420881
+
+- Question : [SEQ920420881](seq920420881.md) — Relèvement des plafonds fixés par la réglementation des marchés publics
+
+## Réponse
+
+*Intérieur, JO du 1992-10-01, page 2250*
+
+Réponse. - Par décret n° 90-553 du 3 juillet 1990 paru au Journal officiel de la République française le 5 juillet, un relèvement du seuil prévu aux articles 123 et 321 du code des marchés publics est intervenu. Le seuil de passation des marchés publics est fixé à 300 000 francs TTC ; ce qui représente une augmentation supérieure à 66 p. 100 par rapport au montant antérieur de 180 000 francs TTC. En outre, d'une étude sur le recensement des marchés publics de 1987 à 1990, publiée dans la Revue Marchés Publics, n° 261, novembre 1991, pages 25 à 35, il ressort que 61 p. 100 des marchés des collectivités locales sont passés en-dessous du seuil de 300 000 francs TTC alors qu'elles peuvent passer des achats sur factures ou des travaux sur mémoires en application de l'article 321 susmentionné. Cela peut s'expliquer par le fait que les services des collectivités locales cherchent à se situer dans un cadre juridique qui offre le maximum de garanties tant pour la personne pu blique que pour le prestataire de services. Au vu de cette étude, il n'apparaît pas nécessaire de relever à nouveau le seuil de passation des marchés publics en le portant à un plafond de 500 000 francs TTC. En revanche, il est prévu de porter le seuil de passation des marchés négociés à un plafond de 700 000 francs TTC. Cette mesure est prise dans le cadre d'un plan de simplification du code des marchés publics qui fait l'objet d'un projet de décret qui devrait être publié prochainement. Ainsi, les collectivités locales et leurs établissements publics pourront recourir à la procédure des marchés négociés pour des achats, des travaux ou des services relativement importants.
