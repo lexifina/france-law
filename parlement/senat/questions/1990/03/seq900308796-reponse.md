@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900308796
+
+- Question : [SEQ900308796](seq900308796.md) — Situation des anciens militaires de carrière de souche nord-africaine
+
+## Réponse
+
+*Anciens combattants, JO du 1990-07-26, page 1645*
+
+Réponse. - La situation particulièrement difficile des anciens combattants originaires d'Afrique du Nord figure parmi les préoccupations du secrétaire d'Etat chargé des anciens combattants et des victimes de guerre. Les intéressés, lorsqu'ils sont titulaires de la carte du combattant, ont droit à tous les avantages matériels et moraux consentis aux ressortissants de l'Office national des anciens combattants et victimes de guerre. En particulier, ils peuvent bénéficier des prêts et secours permettant aux plus démunis de faire face à leurs difficultés. A titre indicatif, on notera que 4 500 000 francs leur ont été consacrés en 1989 dans le cadre de l'aide sociale individuelle. Comme le suggère l'honorable parlementaire, cette action pourrait être renforcée. Dans toute la limite de ses disponibilités financières, dès lors qu'il couvre la moitié de l'aide sociale individuelle par ses ressources propres, l'office national examinera les améliorations susceptibles d'être apportées au dispositif déjà mis en oeuvre en faveur de ses ressortissants. On doit en outre noter que les supplétifs de nos armées, qu'ils aient ou non conservé ou recouvré la nationalité française, bénéficient du revenu minimal d'insertion auquel participe également l'office national. Enfin, il convient d'ajouter qu'en matière de pensions le Gouvernement est particulièrement sensible à la situation des anciens soldats français citoyens de pays aujourd'hui indépendants titulaires de pensions " cristallisées ". C'est pourquoi ces pensions ont été revalorisées de 8 p. 100. Par ailleurs, une étude est en cours sur ce problème.
