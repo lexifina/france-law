@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951213220
+
+- Question : [SEQ951213220](seq951213220.md) — Avis de la Cour des comptes sur les projets de loi de finances
+
+## Réponse
+
+*Économie, JO du 1996-11-28, page 3145*
+
+Réponse. - En application du dernier alinéa de l'article 47 de la Constitution : " la Cour des comptes assiste le Parlement et le Gouvernement dans le contrôle de l'exécution des lois de finances. " Dans ce cadre la Cour des comptes établit chaque année un rapport sur l'exécution, remis au Parlement en milieu d'année suivante et annexé au projet de loi de règlement. A l'occasion du débat d'orientation organisé au printemps 1996 dans la perspective du projet de loi de finances pour 1997, la Cour des comptes a adressé au Parlement une contribution alimentée par les premiers résultats du compte général des finances. Par ailleurs, la Cour des comptes procède aux enquêtes qui lui sont demandées par les commissaires des finances et par les commissions d'enquête du Parlement. Le contrôle effectué par la cour sur l'exécution de la dépense est d'une grande utilité pour éclairer ou orienter les choix budgétaires effectués dans les projets de loi de finances initiales. La mission fondamentale remplie par la cour ne paraît pas compatible avec un rôle d'expertise des projets de loi de finances assorti d'un avis sur les hypothèses économiques. Outre le fait que la Cour des comptes ne dispose pas nécessairement de tous les éléments nécessaires, notamment en matière de prévision économique, l'intervention de cette juridiction dans l'élaboration du projet de loi de finances ne serait pas conforme au partage constitutionnel des pouvoirs. Elle pourrait porter atteinte à l'impartialité de la cour dans sa mission de contrôle de l'exécution en la plaçant dans une situation d'être à la fois juge et partie.
