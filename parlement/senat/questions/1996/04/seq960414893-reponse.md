@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960414893
+
+- Question : [SEQ960414893](seq960414893.md) — Allocation de parent isolé pour les Français ayant un conjoint étranger sans visa de séjour
+
+## Réponse
+
+*Travail, JO du 1996-07-18, page 1864*
+
+Réponse. - L'allocation de parent isolé a été conçue comme une aide momentanée, destinée à favoriser la recherche d'une réinsertion socioprofessionnelle et à permettre le retour à l'autonomie financière et sociale de la personne qui, de manière imprévisible se trouve isolée, privée de tout soutien tant pécuniaire que moral et assume seule la charge d'enfant. Or, les articles L. 524-2 et R. 524-1 du code de la sécurité sociale définissent les personnes isolées comme étant veuves, divorcées, séparées de droit ou de fait, abandonnées ou célibataires. Il faut souligner que la nation d'isolement consécutive à la séparation s'analyse par référence à la situation de divorce, situation générée par la désunion d'un couple provoquant son éclatement définitif et la création de foyers monoparentaux. La séparation peut être de droit au sens du code civil ou de fait. Il s'agit alors d'un abandon du foyer par l'un des conjoints ou concubins. Il peut être observé que les situations de dispersion géographique ne sont pas assimilables aux situations ayant la même cause et aboutissent aux mêmes effets que le divorce. La situation des citoyens français résidant en France et dont le conjoint, pour n'avoir pu obtenir un visa de séjour en France, est demeuré à l'étranger, ne s'apparente nullement à celle des personnes confrontées à l'éclatement d'un couple dû à sa désunion. Le droit à l'allocation de parent isolé ne peut en conséquence être ouvert au profit des intéressés. Il est cependant précisé à l'honorable parlementaire que l'accès au revenu minimum d'insertion peut, le cas échéant, être envisagé en leur faveur, l'isolement ne conditionnant pas le droit à cette aide.
