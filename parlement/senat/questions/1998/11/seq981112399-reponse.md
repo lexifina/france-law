@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981112399
+
+- Question : [SEQ981112399](seq981112399.md) — Situation du centre d'essais en vol de Brétigny-sur-Orge
+
+## Réponse
+
+*Défense, JO du 1999-01-28, page 281*
+
+Réponse. - Les mesures de restructuration annoncées le 7 juillet 1998 par le ministre de la défense se traduiront, pour le centre d'essais en vol, par le transfert progressif à Istres et à Cazaux d'une partie des activités de la base d'essais de Brétigny-sur-Orge. Cette opération s'achèvera à la fin de l'année 2004. Dans ce cadre, la direction du centre a établi des contacts réguliers avec les élus concernés du département de l'Essonne, notamment avec le maire de Brétigny, qui préside le syndicat intercommunal à vocation unique regroupant les communes riveraines de l'aérodrome, pour les tenir informés du déroulement de cette opération. En outre, le délégué interministériel aux restructurations de défense et le préfet du département veillent tout particulièrement à ce que le transfert soit conduit en étroite concertation avec les collectivités locales, afin de préserver l'emploi sur le site de Brétigny et d'éviter une baisse des ressources financières des communes riveraines. Concernant le devenir du site, le Gouvernement entend y maintenir des activités de défense. Un expert du ministère de la défense sera prochainement chargé d'une réflexion sur la destination des installations qui vont être progressivement libérées par le centre d'essais en vol. Les collectivités locales seront associées à cette étude. La concertation sociale au sein de l'établissement est normalement assurée. Des contacts réguliers ont lieu entre la direction de l'établissement et les organisations syndicales, notamment dans le cadre institutionnel de la commission de restructuration qui examine le déroulement de ce transfert et traite les difficultés éventuelles liées à cette opération.
