@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931103717
+
+- Question : [SEQ931103717](seq931103717.md) — Renforcement des moyens de lutte contre la maladie d'Alzheimer
+
+## Réponse
+
+*Affaires sociales, JO du 1994-03-17, page 588*
+
+Réponse. - Comme le rappelle l'honorable parlementaire, l'augmentation de l'espérance de vie dans les sociétés industrialisées n'a pas que des aspects heureux. En effet, l'avancée en âge peut s'accompagner de la multiplication des problèmes de santé, dont l'un des plus préoccupants est le développement de la maladie d'Alzheimer, face à laquelle la science est encore actuellement démunie, bien que les recherches en ce domaine se multiplient. Des efforts importants sont faits en France, à ce sujet, depuis plusieurs années, tant dans le domaine de l'épidémiologie que dans celui de la recherche clinique. Ainsi l'INSERM consacre à la recherche des crédits croissants (30 millions de francs en 1989 et 47 en 1992.) La majorité des personnes atteintes par cette maladie continuent à vivre à leur domicile, grâce à l'aide importante de leur entourage. Il est nécessaire de leur proposer une prise en charge adaptée qui soit fonction tant du stade évolutif de la maladie, que de leur environnement socio-affectif. Différents types d'aide existent, dont les pouvoirs publics encouragent le développement dans le cadre de la politique de maintien à domicile des personnes âgées : garde et soins à domicile, centres de jour, hébergement temporaire, etc. Lorsque le maintien à domicile devient impossible, le patient doit trouver en institution une prise en charge adéquate. C'est dans cette optique d'adaptation des institutions aux problèmes posés par ces résidants que le ministère des affaires sociales, de la santé et de la ville a élaboré une brochure intitulée " Détérioration intellectuelle et établissement d'hébergement pour personnes âgées : quelques éléments de réflexion ", regroupant un ensemble de recommandations destinées aux responsables locaux
