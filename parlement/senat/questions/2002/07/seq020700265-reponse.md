@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700265
+
+- Question : [SEQ020700265](seq020700265.md) — Responsabilité des médecins grévistes
+
+## Réponse
+
+*Santé, JO du 2003-01-02, page 73*
+
+Les articles 47 et 77 du décret n° 95-1000 du 6 septembre 1995 portant code de déontologie médicale prévoient que la permanence des soins et la prise en charge des urgences sont une obligation déontologique majeure. Les articles L. 4123-1 et L. 4121-2 du code de la santé publique confèrent au conseil départemental de l'ordre la mission de veiller au maintien des principes de moralité, de probité et dévouement et à l'observation des devoirs professionnels et des règles édictées par le code de déontologie. Il appartient au conseil départemental de l'ordre de veiller à la bonne organisation du service de garde. En cas de dysfonctionnement, le conseil départemental doit intervenir en rappelant aux médecins leurs obligations et les sanctions ordinales encourues en cas de refus. Les médecins qui se soustraient à l'obligation du service de garde sont passibles de sanctions disciplinaires et lorsque cette obligation n'est pas remplie, il appartient, le cas échéant, aux pouvoirs publics de satisfaire les besoins du pays en la matière par la réquisition, après s'être assurés que les instances ordinales ont rempli leur mission. Hors du cas d'urgence et du devoir d'humanité, les médecins, qui interrompent leur activité pour des raisons professionnelles, doivent prendre les mesures nécessaires pour que, quelles que soient les circonstances, cette obligation déontologique fondamentale que constituent la permanence des soins et la prise en charge des urgences, soit assurée. Les indications de renvoi d'appels sur d'autres praticiens doivent être mises en oeuvre dans le respect de cette obligation, les appels renvoyés sur le centre 15 devant concerner les cas d'urgence nécessitant une intervention médicale ou médicalisée urgente.
