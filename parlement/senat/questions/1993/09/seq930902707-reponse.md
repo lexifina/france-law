@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930902707
+
+- Question : [SEQ930902707](seq930902707.md) — Taux de TVA applicable à l'horticulture
+
+## Réponse
+
+*Agriculture, JO du 1994-01-27, page 183*
+
+Réponse. - La directive 92-77 CEE du 19 octobre 1992 sur le rapprochement des taux de TVA a prévu l'application au 1er janvier 1993 du taux normal pour tous les produits ne figurant pas sur la liste qui lui était annexée, ce qui est le cas des produits de l'horticulture. A titre de compromis elle a prévu la possibilité, pour les Etats membres qui appliquaient, à la date de sa mise en application, un taux réduit, de le maintenir à titre provisoire pendant une période de deux ans. La France, ayant anticipé la décision d'appliquer le taux normal de TVA à certains produits de l'horticulture, ne peut bénéficier de cette dérogation car la réglementation communautaire interdit aux pays qui ont adopté un taux moyen de revenir à un taux réduit. En tout état de cause, les pays devront appliquer le taux normal à l'issue de la période transitoire. Cette situation n'entraîne toutefois pas de distorsion de concurrence entre les professionnels français et leurs concurrents européens car les règles de fonctionnement du marché unique reposent sur le principe d'une imposition à la TVA au taux du pays où les produits sont consommés. Il est néanmoins indéniable que le secteur horticole connaît des difficultés. Aussi des mesures de soutien à cette activité passant par l'allégement de leurs charges financières ont-elles été récemment mises en place par le Gouvernement. En outre, pour tenir compte de la situation délicate de certaines entreprises de ce secteur, les comptables publics ont été invités à examiner avec bienveillance les demandes de délais de paiement sollicitées par les entreprises qui connaissent de réels problèmes de trésorerie.
