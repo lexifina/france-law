@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961219311
+
+- Question : [SEQ961219311](seq961219311.md) — Visas spéciaux pour des rencontres internationales dans le cadre de relations économiques
+
+## Réponse
+
+*Affaires étrangères, JO du 1997-01-16, page 119*
+
+Réponse. - La délivrance des visas de court séjour est depuis le 26 mars 1995 soumise à la réglementation commune des Etats parties à la convention de Schengen. Celle-ci prévoit que le visa commun, dit " uniforme ", qui constitue désormais la règle, donne accès aux territoires des pays, actuellement au nombre de sept, pour lesquels cet accord s'applique (France, Allemagne, Luxembourg, Belgique, Pays-Bas, Espagne et Portugal). Les délais d'instruction des demandes varient selon le régime de circulation dont relève le requérant, compte tenu de sa nationalité : consultation des autorités centrales ou délivrance directe par les postes consulaires. Lorsque les demandes sont soumises à consultation, l'accord de nos partenaires est supposé acquis, en l'absence de réponse, dans les sept jours. Dans la pratique, les délais de délivrance sont inférieurs. C'est ainsi, par exemple, que, en septembre 1996, 84 % des demandes transmises à au moins un partenaire de l'espace Shengen ont obtenu une réponse en moins de quatre jours. Par ailleurs, s'agissant des étrangers appelés à se rendre fréquemment en France pour affaires, nos représentations délivrent généralement des visas de circulation qui autorisent des séjours multiples et dont la validité peut aller de un à trois ans. Pour ce type de visa qui répond aux préoccupations exprimées par l'honorable parlementaire, l'aval de nos postes d'expansion économique est déjà sollicité dans un certain nombre de pays avec lesquels nous entretenons des relations économiques et commerciales étroites. Cette procédure, qui ne peut que faciliter l'instruction des demandes, est bien évidemment à encourager.
