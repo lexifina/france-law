@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911118741
+
+- Question : [SEQ911118741](seq911118741.md) — Pratiques de la grande distribution vis-à-vis des fournisseurs
+
+## Réponse
+
+*Commerce et artisanat, JO du 1992-08-27, page 1955*
+
+Réponse. - L'Etat n'a pas fondamentalement vocation à s'immiscer dans les relations entre fournisseurs et distributeurs qui traduisent d'abord l'évolution constante d'un rapport commercial. Il lui revient par contre de fixer des règles permettant d'assurer une concurrence claire, loyale et équitable entre tous les opérateurs. L'ordonnance de 1986 définit et condamne toutes les pratiques commerciales qui affectent le marché. Aux termes de ce texte, les pressions pour obtenir d'un fournisseur des conditions de paiement discriminatoires sont susceptibles d'engager la responsabilité de leurs auteurs et de donner lieu à réparation civile. Par ailleurs, des pratiques qui seraient constitutives d'un abus de position dominante ou d'un abus de dépendance économique peuvent être poursuivies devant le conseil de la concurrence selon la procédure prévue au titre III de l'ordonnance du 1er décembre 1986. Concernant les délais de paiement, le Gouvernement s'attache à en favoriser une réduction généralisée et concertée. Dans cette optique, un observatoire des délais de paiement a été créé en novembre 1991 afin de suivre et d'analyser les négociations interprofessionnelles et d'en mesurer les conséquences au niveau de la trésorerie des entreprises. Toutefois un projet de loi a été soumis au Parlement en vue de réduire ces délais dans le domaine des produits périssables ainsi que des boissons alcooliques ; ce texte précise par ailleurs les mentions devant figurer sur la facture (délais de règlement, escompte et frais de retard) afin de favoriser une plus grande transparence tarifaire.
