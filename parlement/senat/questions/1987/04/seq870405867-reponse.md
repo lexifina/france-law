@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870405867
+
+- Question : [SEQ870405867](seq870405867.md) — Marché des véhicules d'occasion: réglementation
+
+## Réponse
+
+*Équipement, JO du 1987-07-02, page 1044*
+
+Réponse. -Le contrôle technique des véhicules de plus de cinq ans d'âge faisant l'objet d'une transaction ne peut être effectué que dans des centres de contrôle agréés par le commissaire de la République du lieu d'implantation. Les centres ainsi agréés doivent tous disposer du matériel prévu par la norme française 50-201 et du personnel qualifié correspondant. La question de la qualité du contrôle dans sa forme actuelle est étudiée très attentivement par les services du ministère de l'équipement, du logement, de l'aménagement du territoire et des transports. Le ministre a demandé aux commissaires de la République de veiller tout particulièrement à ce point. Pour ce faire, les préfectures qui délivrent et, le cas échéant, retirent les agréments des centres de contrôle font effectuer des enquêtes sur les centres par l'un des trois organismes désignés à cet effet. Toutefois, le système actuel de contrôle technique n'est pas totalement satisfaisant, car il ne concerne qu'une part minoritaire du parc et n'entraîne pas nécessairement la réparation des véhicules défectueux. C'est pour cette raison que le comité interministériel de la sécurité routière réuni le 11 février 1987 a demandé aux ministères concernés d'élaborer dans un délai d'un an un projet d'extension du contrôle technique sur la base d'un contrôle périodique assorti d'une obligation de réparer les principaux organes de sécurité. Les organismes de contrôle seront indépendants de ceux chargés de la réparation. En outre, la France participe activement à l'élaboration d'une directive européenne sur le contrôle technique périodique dont l'approbation rendra obligatoire l'instauration de ce contrôle dans les douze Etats membres.
