@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940907758
+
+- Question : [SEQ940907758](seq940907758.md) — Mesures de prévention des dangers occasionnés par la conduite sous l'influence de la drogue
+
+## Réponse
+
+*Équipement, JO du 1995-04-13, page 896*
+
+Réponse. - La question de la conduite sous l'influence de la drogue est beaucoup plus complexe que celle de la conduite sous l'influence de l'alcool. Les travaux sur le rôle de l'alcool dans la genèse des accidents de la route ont été très nombreux depuis une vingtaine d'années et ont clairement apporté la preuve de la responsabilité de l'alcool dans les accidents. En ce qui concerne les drogues et, d'une manière plus générale, les substances à effets psychotropes, les études expérimentales et épidémiologiques ont été beaucoup moins nombreuses et ont donné des résultats contradictoires. L'étude de Metz a porté sur 64 cas, échantillon trop faible pour permettre de conclure sinon d'approfondir les recherches avant d'envisager de légiférer sur le sujet. La direction de la sécurité et de la circulation routières à fait réaliser, entre 1989 et 1992, deux études épidémiologiques sur les médicaments et les drogues illicites, sur 3 000 conducteurs accidentés. Malgré l'importance et la validité de l'effectif, ces études n'ont pas non plus apporté de réponse décisive. Le problème est très complexe et les études doivent continuer. Parallèlement le Gouvernement avait, lors du comité interministériel de sécurité routière tenu le 17 décembre 1993, décidé de réunir un comité de personnalités scientifiques hautement qualifiées, chargées de faire le point sur la question et d'émettre des propositions d'action dans les domaines de la prévention, de la communication et du système de contrôle-sanction. Les travaux de ce groupe de travail seront bientôt terminés et les conclusions déposées.
