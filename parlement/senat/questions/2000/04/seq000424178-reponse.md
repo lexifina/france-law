@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000424178
+
+- Question : [SEQ000424178](seq000424178.md) — Lutte contre le " dés uvrement social " des jeunes
+
+## Réponse
+
+*Intérieur, JO du 2000-06-29, page 2321*
+
+Réponse. - Dans le cadre de la prévention de la délinquance juvénile, les jeunes des quartiers sensibles de Mulhouse sont accueillis, depuis 1991, sur le centre de loisirs des jeunes (CLJ), dirigé et animé par du personnel de la sécurité publique. L'initiation au trial est l'activité dominante de cette structure qui est reconduite chaque année. Cette action, qui reçoit l'adhésion massive des jeunes, est aussi conduite sur 18 des centres de loisirs des jeunes gérés par la sécurité publique. La direction départementale de la sécurité publique du Rhône participe au dispositif estival de prévention, en mettant à disposition sur la base sportive de Miribel-Jonage, en partenariat avec la direction régionale de la jeunesse et des sports du Rhône, des spécialistes pour assurer l'encadrement d'activités nautiques et de plein air. Les animations encadrées par des spécialistes de la sécurité publique, policiers et adjoints de sécurité, ont un rôle éducatif et pédagogique - motivation pour une meilleure confiance en soi, participation active du jeune, goût de l'effort, respect, civisme, etc. - contribuant à améliorer les relations entre le jeunes et les policiers. C'est pourquoi elles sont conduites à chaque fois que possible tout au long de l'année, au travers des centres de loisirs des jeunes désormais conçus comme un des moyens de mise en uvre de la police de proximité, et doivent intéger de manière forte des dimensions d'éveil à la citoyenneté et d'intégration des jeunes en difficulté. Il convient de noter que la police nationale anime 32 CLJ permanents, 18 CLJ saisonniers dont 2 vont devenir permanents et que 8 CLJ sont en cours de création.
