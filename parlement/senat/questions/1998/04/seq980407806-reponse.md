@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980407806
+
+- Question : [SEQ980407806](seq980407806.md) — Lutte contre la " drogue chic "
+
+## Réponse
+
+*Santé, JO du 1998-11-12, page 3657*
+
+Réponse. - En prenant en compte les préoccupations de l'honorable parlementaire, le secrétaire d'Etat à la santé rappelle qu'en matière de prévention de la lutte contre la toxicomanie, une politique forte de santé publique est conduite. Son intérêt réside dans la mise en place d'une politique qui contribue à prévenir les conduites à risques des jeunes, améliore la prise en charge des personnes dépendantes et met en uvre une stratégie large de réduction des risques sanitaires et sociaux. Les crédits du secrétariat d'Etat à la santé consacrés en 1998 à cette politique s'élèvent à 780 millions. Par ailleurs, de nombreuses actions de proximité ont été retenues dans le cadre de la Semaine européenne de prévention des toxicomanies qui se déroulera en novembre 1998 et donnera lieu à une campagne de communication importante. En outre, le rapport du professeur Bernard Roques visant à comparer la dangerosité, en particulier sur le cerveau, des différents toxiques et psychotropes, y compris l'alcool et le tabac, souvent associés à la prise d'autres drogues, attire l'attention sur les mécanismes physiopathologiques d'interdépendance entre les différents toxiques, sur la base d'une analyse de près de 400 publications scientifiques. Fort de cette étude, le Gouvernement souhaite en particulier développer la recherche et les actions de prévention de l'alcoolisme et de l'usage des drogues. A cette fin, le Premier ministre a confié une mission à la nouvelle présidente de la Mission interministérielle de lutte contre la drogue et la toxicomanie qui doit très prochainement remettre des propositions pour améliorer la prévention et la prise en charge de l'usage de drogues et élargir les actions de la mission aux problèmes de l'alcool.
