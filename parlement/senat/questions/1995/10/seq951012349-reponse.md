@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951012349
+
+- Question : [SEQ951012349](seq951012349.md) — Gratuité des cotisations vieillesse
+
+## Réponse
+
+*Travail, JO du 1995-12-28, page 2435*
+
+Réponse. - Des dispositions existent déjà pour permettre à la personne se consacrant à un enfant ou à un adulte handicapé d'acquérir des droits à pension de vieillesse. En effet, en application des articles L. 381-1 (1o) et D. 381-3 et suivants du code de la sécurité sociale, les personnes restant au foyer pour s'occuper d'un enfant handicapé de moins de vingt ans, dont l'incapacité est au moins égale à 80 p. 100 et qui satisfont aux conditions de ressources prévues pour l'attribution du complément familial, sont affiliées obligatoirement à l'assurance vieillesse du régime général, à la charge exclusive des organismes débiteurs des prestations familiales. Les mêmes dispositions sont applicables aux personnes restant au foyer pour s'occuper d'un adulte handicapé, dont l'incapacité est au moins égale à 80 p. 100 et dont le maintien au foyer est reconnu souhaitable par la commission technique d'orientation et de reclassement professionnels, pour autant que les ressources de la personne ou du ménage ne dépassent pas le plafond fixé pour l'attribution du complément familial. A défaut de bénéficier de l'assurance vieillesse du parent au foyer, les intéressés peuvent s'affilier à titre onéreux à l'assurance volontaire invalidité vieillesse conformément aux dispositions de l'article L. 742-1 du code précité ou procéder à un rachat de cotisations. D'autre part, au moment de la liquidation de la pension de vieillesse, les mères de famille affiliées au régime général peuvent bénéficier d'une majoration de deux ans d'assurance par enfant élevé à leur charge ou à celle de leur conjoint pendant au moins neuf ans avant qu'il atteigne son seizième anniversaire. C'est donc un effort important que réalise la collectivité nationale à l'égard de ces personnes.
