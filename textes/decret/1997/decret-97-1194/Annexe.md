@@ -1928,20 +1928,6 @@ Articles 4, 5, 7, 8-1 à 8-9.
 
 |
 
-Décret n° 93-124 du 29 janvier 1993 relatif aux biens culturels soumis à certaines restrictions de circulation
-
-1
-
-|
-
-Autorisation d'exportation de biens culturels et d'exportation temporaire de trésors nationaux hors du territoire douanier de la Communauté européenne.
-
-|
-
-Articles 11, 12 et 13.
-
-|
-
 Décret n° 93-1094 du 13 septembre 1993 fixant les conditions d'application du chapitre III bis du titre V du code des douanes
 
 1
