@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981213197
+
+- Question : [SEQ981213197](seq981213197.md) — Abandon de la couleur verte permettant l'identification des carburants sans plomb
+
+## Réponse
+
+*Économie, JO du 1999-02-25, page 612*
+
+Réponse. - Lors de la commercialisation du supercarburant sans plomb en France en 1987, il est apparu nécessaire, pour s'opposer à toute fraude fiscale, de pouvoir différencier rapidement par contrôle visuel ce nouveau carburant qui bénéficiait d'une fiscalité réduite. A l'époque, l'essence ordinaire était colorée en rouge et le supercarburant (plombé) ne contenait pas de colorant (couleur normale naturelle jaune pâle), comme c'est encore le cas aujourd'hui. De même, un colorat bleu est utilisé pour identifier le gazole destiné à l'avitaillement des navires, exonéré de taxe intérieure sur les produits pétroliers (TIPP), et un colorant rouge pour le fioul domestique, qui supporte une fiscalité réduite par rapport à celle du gazole moteur. Les disponibilités de colorants adéquats du super sans plomb étant limitées, le choix de l'administration s'est porté sur la coloration verte, obtenue par le mélange à part égale de colorant bleu et de colorant jaune, sans connotation écologique particulière. Il n'est pas envisagé pour l'instant de modifier ces colorations afin de faciliter le contrôle des administrations concernées (douanes, direction générale de la concurrence, de la consommation et de la répression des fraudes). Par ailleurs, lors des opérations de remplissage du réservoir de son véhicule, le consommateur n'a généralement pas la possibilité de voir la coloration du carburant qu'il utilise. Enfin, en ce qui concerne la teneur en benzène, le carburant essence commercialisé, avec ou sans plomb, doit avoir la même teneur en benzène (5 % maximum), teneur qui sera limitée à 1 % au 1er janvier 2000.
