@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900208465
+
+- Question : [SEQ900208465](seq900208465.md) — Diffusion de l'information concernant les grèves à la SNCF
+
+## Réponse
+
+*Équipement, JO du 1990-05-24, page 1143*
+
+Réponse. - Lorsque les organisations syndicales représentatives du personnel de la S.N.C.F. prennent la décision d'une cessation concertée du travail et déposent un préavis de grève auprès de la direction de la S.N.C.F. comme elles sont tenues de le faire conformément aux dispositions de la loi du 31 juillet 1963, elles font généralement parvenir simultanément un communiqué aux agences de presse. Tel a été le cas lorsque les organisations syndicales ont décidé, au cours d'une réunion du 18 janvier 1990, de déposer un préavis de grève pour la période du 30 janvier, 20 heures, au 1er février, 6 heures. Un communiqué de presse a été envoyé à l'Agence France Presse à l'issue de la réunion intersyndicale, le 18 janvier au soir. L'agence a diffusé le message qui a été transmis par les quotidiens d'information nationaux et la presse audiovisuelle dès le 19 janvier, puis commenté dans la presse les jours suivants jusqu'à la date du mouvement de grève lui-même. La S.N.C.F. ne peut communiquer une information précise sur l'importance des perturbations et sur les services qui seront assurés tant qu'elle ne connaît pas avec une relative fiabilité les effectifs dont elle pourra disposer. Cette information ne peut être donnée que dans un délai relativement court avant le début du mouvement de grève, délai pendant lequel la S.N.C.F. s'efforce de fournir aux journalistes par l'intermédiaire de son service de presse et de mettre à la disposition du public dans les gares l'information la plus complète possible sur les horaires des trains afin de limiter les inconvénients de ces arrêts de travail pour sa clientèle.
