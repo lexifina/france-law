@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910213951
+
+- Question : [SEQ910213951](seq910213951.md) — Electrification de la ligne SNCF Amiens-Boulogne
+
+## Réponse
+
+*Équipement, JO du 1992-01-23, page 192*
+
+Réponse. - La mise en service du T.G.V.-Nord et du tunnel sous la Manche va avoir des incidences importantes sur l'ensemble des dessertes de la Picardie et du Nord - Pas-de-Calais. Ainsi les voyageurs se rendant de Paris vers la Grande-Bretagne seront acheminés par la ligne nouvelle, et le trafic fret transitant par le tunnel sous la Manche empruntera l'itinéraire Calais-Hazebrouck dont l'électrification a été décidée dans le cadre des mesures accompagnant la réalisation du tunnel. De même la section de ligne Calais-Boulogne fait-elle également l'objet d'une électrification, ce qui rendra techniquement possible la desserte de Boulogne par T.G.V. Afin qu'une large part de la population bénéficie des avantages de la grande vitesse, il est souhaitable que les dessertes régionales puissent être convenablement articulées sur les liaisons à grande vitesse ; c'est ce à quoi s'emploient actuellement la région Nord - Pas-de-Calais et la S.N.C.F. Le ministre de l'équipement,du logement, des transports et de l'espace tient à ce que l'arrivée du T.G.V. ne détériore pas les relations existantes. Ainsi de nouvelles grilles de desserte de bonne qualité devront-elles être mises en place dans la région Picardie, en particulier sur la liaison Amiens-Boulogne. Dans ces conditions, il n'est pas envisagé actuellement d'électrifier cette section de ligne, qui représenterait un investissement de l'ordre d'un milliard de francs. En tout état de cause, il convient de prendre en compte l'ensemble des modes de transports pour apprécier l'aménagement d'une région. A cet égard le C.I.A.T. du 17 novembre 1988 a décidé l'accélération du schéma autoroutier picard qui, par sa densité, placera toute la zone côtière dans une situation privilégiée, grâce notamment à l'autoroute A 16.
