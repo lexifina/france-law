@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971003799
+
+- Question : [SEQ971003799](seq971003799.md) — Bilan des activités du département " environnement " à l'institut de recherches criminelles de la Gendarmerie nationale
+
+## Réponse
+
+*Défense, JO du 1997-12-18, page 3548*
+
+Réponse. - Dans le domaine de l'environnement, l'action répressive est conduite par les unités territoriales de la Gendarmerie nationale, assistées dans leurs investigations par la cellule " environnement " du département " environnement-incendies-explosifs " de l'institut de recherche criminelle de la Gendarmerie nationale (IRCGN), implanté à Rosny-sous-Bois. Les expertises effectuées par cette cellule en matière de pollutions terrestres ou aquatiques sont en constante évolution : 90 scellés en 1995, 255 en 1996 et 232 pour les trois premiers trimestres de l'année en cours. Cette évolution résulte, d'une part, de la formation dispensée aux militaires des unités sur la prévention des pollutions et, d'autre part, de la mise en place dans chaque compagnie de gendarmerie départementale d'une mallette de prélèvement d'échantillons terrestres et aquatiques. Le professionnalisme de la gendarmerie est ainsi garanti, parce qu'il lui permet non seulement d'analyser les polluants, mais aussi de remonter à la source de la pollution. Depuis 1992, un investissement financier important a été consenti par la gendarmerie au profit de la cellule environnement de l'IRCGN en matière d'équipements performants, adaptés à l'analyse et à l'expertise des substances prélevées sur le terrain par les unités, ou directement par les techniciens de l'IRCGN. La qualité des prélèvements réalisés sur le terrain étant un gage d'efficacité de l'action judiciaire, l'objectif principal de cette cellule, d'ici à l'an 2000, est de réduire les délais d'analyse des échantillons, évalués actuellement à un mois, en automatisant les procédures d'expertises à partir de nouveaux matériels.
