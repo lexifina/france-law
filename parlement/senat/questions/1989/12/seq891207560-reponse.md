@@ -1,0 +1,9 @@
+# Réponse à la question SEQ891207560
+
+- Question : [SEQ891207560](seq891207560.md) — Amortissement des matériels d'incendie utilisés contre les feux de forêt
+
+## Réponse
+
+*Intérieur, JO du 1990-03-08, page 495*
+
+Réponse. - A l'occasion de la campagne feux de forêts 1989, au titre de la solidarité nationale, des colonnes de renforts feux de forêts ont été constituées au profit des départements victimes des feux les plus importants (Bouches-du-Rhône, Var, Haute-Corse, Gard, Gironde...). Ces opérations ont été subventionnées par le ministère de l'intérieur, qui a supporté les frais de personnel et les dépenses liées au transport et aux déplacements des colonnes. Il appartenait aux collectivités territoriales bénéficiaires de secours de prendre en charge les réparations ou les remplacements des matériels détériorés ou détruits. D'une manière générale, les dégradations subies par les véhicules des sapeurs-pompiers sont donc couvertes et n'incombent pas au service départemental d'incendie et de secours qui a assuré leur mise en oeuvre. Il convient également de noter que de telles interventions, outre leur intérêt opérationnel évident dans le cadre de la lutte contre les feuxde forêts, contribuent à assurer aux sapeurs-pompiers qui y participent une expérience bénéfique pour leur activité quotidienne et à leur conférer un esprit de corps profitable aux autorités d'emploi éventuelles. Enfin, il importe de préciser que, afin de permettre aux colonnes interdépartementales de renforts de disposer des moyens de transmission performants et compatibles avec ceux des départements méditerranéens, quelques départements y participant ont reçu des subventions leur donnant la possibilité de les acquérir. A l'échelon de la zone de défense Est, c'est le département de la Meurthe-et-Moselle qui a bénéficié de ce concours.
