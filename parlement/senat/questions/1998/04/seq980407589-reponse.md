@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980407589
+
+- Question : [SEQ980407589](seq980407589.md) — Légalité d'une société chargée de financer le recyclage des emballages ménagers
+
+## Réponse
+
+*Aménagement du territoire, JO du 1999-01-28, page 275*
+
+Réponse. - Le tribunal de grande instance d'Auxerre a considéré que le décret nº 92-377 du 1er avril 1992 relatif à l'élimination des déchets d'emballages ménagers impose par l'identification des emballages, une obligation de marquage des emballages qui constitue une règle technique au sens de la directive 83/189/CE du 28 mars 1989 prévoyant une procédure d'information dans le domaine des normes et des réglementations techniques. Pour ce tribunal, le décret du 1er avril 1992 aurait dû être notifié, en application de la directive 83/189/CE, à l'état de projet à la Commission européenne en raison de l'obligation faite aux producteurs d'identifier les emballages qu'ils font prendre en charge par un organisme agréé. Aussi, ce décret n'ayant pas été notifié, le tribunal a jugé qu'il était non conforme à la réglementation communautaire et qu'en conséquence il ne pouvait pas servir de base à des poursuites pénales. Appel du jugement a été fait. Pour les pouvoirs publics, comme pour le tribunal de Grande instance de Paris dans son jugement du 30 septembre 1996, l'obligation d'identification ne nécessite pas, en l'état actuel de la réglementation française, de marquage ou de logo spécifique. L'identification peut ainsi s'opérer de différentes manières, soit par l'apposition du numéro de code emballeur imposé par les réglementations relatives à la sécurité des consommateurs, soit par la marque du produit. Ces arguments ont été développés par les autorités françaises à la Commission européenne en réponse à sa demande d'explication sur l'obligation d'identification.
