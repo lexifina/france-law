@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508002
+
+- Question : [SEQ980508002](seq980508002.md) — Position personnelle d'un ministre sur le génocide arménien
+
+## Réponse
+
+*Affaires européennes, JO du 1998-08-20, page 2647*
+
+Réponse. - L'honorable parlementaire a bien voulu demander au ministre délégué, chargé des affaires européennes, de lui apporter des éclaircissements sur le sens de son intervention relative au génocide arménien, à l'occasion de la séance des questions d'actualité du 20 avril dernier. Comme le sait l'honorable parlementaire, la question arménienne demeure particulièrement sensible, notamment dans notre pays qui compte sur son sol des familles des victimes des massacres de 1915 et 1916, qui sont évidemment encore hantées par ce souvenir. En répondant sur le vif à une question d'actualité, le ministre délégué a exprimé une position qu'il a lui-même qualifiée de personnelle et qui lui était dictée par sa conscience. Le Gouvernement est intervenu ultérieurement, à l'occasion notamment du débat sur le vote de la proposition de loi visant à reconnaître aux massacres le caractère de génocide. Tout en exprimant son respect pour les sentiments animant la représentation nationale, Jean-Pierre Masseret a, au nom du Gouvernement, rappelé que la conduite de la politique extérieure de la France avait ses propres exigences et, en particulier, celle d'aider à la stabilité de la région et à la réconciliation entre l'Arménie et la Turquie. Cette exigence ne signifie en aucun cas l'oubli des atrocités commises au début du siècle. Elle vise à donner aux pays concernés le temps de faire la paix avec leur propre histoire. Ce travail de mémoire, que nous savons nécessaire, doit être entrepris. Il prendra du temps. Nous devons persévérer dans nos efforts pour préserver les chances d'une réconciliation nécessaire dans la région. C'est un objectif que le Gouvernement partage avec la représentation nationale.
