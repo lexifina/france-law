@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920521064
+
+- Question : [SEQ920521064](seq920521064.md) — Sensibilisation des employeurs aux périodes militaires obligatoires
+
+## Réponse
+
+*Travail, JO du 1992-09-24, page 2206*
+
+Réponse. - L'honorable parlementaire a attiré l'attention de Mme le ministre du travail sur la situation des officiers de réserve salariés qui doivent effectuer des périodes militaires et il indique que ceux-ci sont parfois contraints, par leurs employeurs, à prendre des jours de congés payés pour effectuer ces périodes. La situation des salariés conduits à l'absence du fait de leurs obligations militaires est prise en compte par le code du travail : aux termes de l'article L. 122-21 du code du travail, le salarié astreint au service préparatoire, appelé ou rappelé au service à un titre quelconque ne peut voir son contrat de travail rompu de ce fait. Cette disposition a pour objectif la protection de ces salariés contre le licenciement et la Cour de cassation (Soc., 2 octobre 1974) a estimé qu'un licenciement fondé sur les perturbations apportées à l'entreprise du fait de l'absence du salarié avait un caractère abusif. Les périodes d'activité militaire sont prises en compte comme période de travail effectif pour le décompte du droit aux congés payés (art. L. 223-4 du code du travail) et les périodes obligatoires d'instruction militaire ne peuvent être déduites du congé payé annuel (art. D 223-5 du code du travail). Par ailleurs, aux termes de l'article L. 84 du code du service national, lorsqu'un salarié convoqué pour une période obligatoire fait connaître à son employeur son désir de bénéficier, durant cette période, des congés payés, il ne peut être fait obstacle à ce désir. Un employeur ne peut donc, en l'état actuel de la législation, contraindre un salarié rappelé, qui ne le souhaiterait pas, à prendre ses congés pendant la période de rappel.
