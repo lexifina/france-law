@@ -2,7 +2,7 @@
 
 a) Travail de nuit.
 
-Les dispositions qui suivent s'appliquent au personnel affecté habituellement à un travail de nuit.
+Les dispositions qui suivent s'appliquent au personnel affecté à un travail de nuit.
 
 Tout travail de nuit, comprenant au minimum 5 heures consécutives comprises entre 22 heures et 5 heures, ouvrira droit à une indemnité forfaitaire spéciale égale à 1,25 point conventionnel par nuit.
 

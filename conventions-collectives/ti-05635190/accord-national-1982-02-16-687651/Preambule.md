@@ -14,6 +14,8 @@ Le présent accord a pour objet d'assurer la transposition dans la branche profe
 
 Conclu en outre en application de l'accord interprofessionnel sur l'emploi du 31 octobre 1995, il a aussi pour objectifs simultanés de consolider l'emploi, d'en favoriser la création dès lors que les gains de productivité le permettent et d'améliorer les conditions de travail des salariés du commerce, tout en développant le service rendu aux consommateurs.
 
+Le comité d'entreprise ou d'établissement doit préalablement à l'accord prévu ci-dessous être consulté sur la durée et l'aménagement du temps de travail conformément aux dispositions légales.
+
 Les entreprises et/ou établissements qui désirent mettre en place cet accord doivent négocier sur ses dispositions avec leurs délégués syndicaux en vue d'aboutir à un accord collectif prévoyant un mode d'organisation du travail adapté à leur situation particulière et favorisant l'emploi.(1)
 
 Toutefois, pour les entreprises ou établissements n'ayant pas conclu d'accord ou en l'absence de délégués syndicaux, la mise en place des dispositions prévues ci-dessous est soumise à une consultation préalable du comité d'entreprise ou à défaut des délégués du personnel.
