@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971003605
+
+- Question : [SEQ971003605](seq971003605.md) — Evaluation globale des coûts et résultats des délocalisations administratives
+
+## Réponse
+
+*Fonction publique, JO du 1998-06-25, page 2083*
+
+Réponse. - Le ministre de la fonction publique, de la réforme de l'Etat et de la décentralisation a tiré le plus grand profit du débat qui s'est tenu au Conseil économique et social le 23 septembre dernier et auquel fait référence la question de l'honorable parlementaire. Plusieurs études ont été lancées par la mission des délocalisations publiques chargée de concevoir et d'assurer le suivi de cette politique. L'une confiée à un cabinet d'étude porte sur l'examen de trois cas, concernait la problématique et l'analyse des coûts ainsi que les effets en retour sur les organismes transférés. L'autre à caractère économique réalisée par l'INSEE doublée d'une analyse portant sur les trois cas cités ci-dessus, portait sur l'impact des délocalisations sur le développement local. Lors du CIADT du 15 décembre dernier, il a été décidé qu'une évaluation des délocalisations publiques s'impose et doit être systématisée. Il a été acté en CIADT que cette politique fera l'objet d'un bilan annuel ainsi que d'un nouveau programme d'études. Elles concernent l'impact sur le développement local, le coût pour l'Etat, les effets sur les organismes transférés et les retombées sur le développement local. Il a été demandé de procéder à des comparaisons au niveau de l'Union européenne. Ces études devraient apporter des réponses aux interrogations qui se posent en matière de politique des délocalisations publiques. Lors de son intervention dans la séance dont l'honorable parlementaire s'est fait l'écho, le ministre de la fonction publique, de la réforme de l'Etat et de la décentralisation, a indiqué qu'il veillerait à ce que le Conseil économique et social soit tenu informé des résultats de ces investigations, afin d'alimenter sa réflexion.
