@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980205882
+
+- Question : [SEQ980205882](seq980205882.md) — Réduction du temps de travail
+
+## Réponse
+
+*Emploi, JO du 1998-10-29, page 3451*
+
+Réponse. - L'honorable parlementaire attire l'attention de Mme la ministre de l'emploi et de la solidarité sur le fait que les dispositions de la loi d'orientation et d'incitation à la réduction du temps de travail risquent de mettre en péril certains secteurs d'activité dont celui des entreprises de propreté, employant de nombreux salariés à temps partiel. Il pense que les contreparties d'embauche aux aides compensatrices ne sont conçues que pour les salariés à temps complet et que des hausses importantes du coût du travail seront à prévoir pour les salariés à temps partiel. Il demande à Mme la ministre ce qu'elle entend faire pour éviter que ce secteur ne soit pénalisé par ces dispositions. S'agissant des modalités de mise en uvre de l'abattement prévu par la loi d'orientation et d'incitation à la réduction du temps de travail aux salariés à temps partiel, elles tiennent compte de la spécificité des entreprises du secteur de la propreté. En effet, les emplois créés sont comptabilisés en équivalent temps plein, ce qui permet aux entreprises de réaliser des embauches éventuellement à temps partiel. Le montant de l'abattement de cotisations sociales auquel ces embauches ouvrent droit tient compte du taux de temps partiel de ces salariés. Les aides prévues permettent aux entreprises d'absorber une partie des surcoûts liés à la mise en uvre de la réduction du temps de travail. Du fait des montants forfaitaires de l'abattement, le dispositif d'aide à la réduction du temps de travail apporte une aide proportionnellement plus importante aux entreprises dans lesquelles les salaires sont peu élevés, ce qui est le cas de celles du secteur de la propreté.
