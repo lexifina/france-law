@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030708618
+
+- Question : [SEQ030708618](seq030708618.md) — Baisse du taux de TVA applicable au marché du disque
+
+## Réponse
+
+*Économie, JO du 2003-12-18, page 3645*
+
+Le Gouvernement attache la plus grande importance à ce que les produits musicaux puissent bénéficier du taux réduit de la taxe sur la valeur ajoutée (TVA). C'est la raison pour laquelle il a demandé à la Commission, par une lettre du 24 juillet 2002, que les phonogrammes (disques, disques compacts et cassettes sonores) soient inscrits sur la liste des biens figurant à l'annexe H à la directive n° 92/77 du 19 octobre 1992 relative au rapprochement des taux de TVA dans la Communauté européenne, auxquels les Etats membres ont la faculté d'appliquer un taux réduit. Le Gouvernement a par ailleurs envoyé, en septembre 2002, un mémorandum détaillant les arguments de la position française, complété en mai 2003 par une étude économique établie avec le concours des professionnels. En outre, la mission confiée à M. François Léotard a permis de sensibiliser directement les ministres des finances et de la culture des Etats membres, ainsi que les commissaires européens en charge de la culture et de la fiscalité. La proposition de directive présentée par la Commission le 16 juillet 2003, dans le cadre du réexamen du champ des taux réduits de TVA dans l'Union européenne, donne satisfaction à la France sur un nombre important de ses demandes (application de taux réduit à la restauration, aux travaux sur les logements et aux services d'aide à la personne). Cependant, elle ne prend pas en compte sa demande concernant le disque et les cassettes sonores. Le Gouvernement fera donc ses meilleurs efforts pour convaincre ses partenaires européens de l'intérêt de cette demande, dont il fait une priorité majeure.
