@@ -32,7 +32,7 @@ Certificat de connaissances du premier degré.
 
 |
 
-2.880
+5.760
 
 |
 
@@ -44,7 +44,7 @@ Certificat de connaissances du second degré.
 
 |
 
-4.320
+8.640
 
 |
 
@@ -58,7 +58,7 @@ Certificat de connaissances du troisième degré.
 
 |
 
-5.400
+10.800
 
 |
 
@@ -79,3 +79,7 @@ connaissance suffisante pour permettre de soutenir une conversation courante.
 Le certificat de connaissances du second degré correspond à une connaissance approfondie permettant une conversation soutenue sur tous les sujets
 
 |
+
+NOTA :
+
+Conformément à l'article 3 du décret n° 52-546 du 13 mai 1952, ces dispositions auront effet à compter du 1er janvier 1951.
