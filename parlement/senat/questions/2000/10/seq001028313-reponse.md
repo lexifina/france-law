@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001028313
+
+- Question : [SEQ001028313](seq001028313.md) — Pratiques commerciales de la SFR avec ses abonnés
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2001-04-26, page 1457*
+
+Réponse. - Au cours des années 1999 et 2000, un important travail de clarification des contrats a été effectué par les pouvoirs publics en concertation avec les professionnels, à la suite de la publication de la recommandation de la commission des clauses abusives sur les contrats d'abonnement à un réseau de téléphonie mobile. Les nouvelles conditions générales d'abonnement sont désormais plus favorables aux abonnés, notamment en ce qui concerne la responsabilité des professionnels sur la permanence, la continuité et la qualité de service de radiotéléphonie publique. Il est ainsi prévu que les cas d'exonération ou de réduction de la responsabilité du professionnel soient très explicites et limités en nombre et en durée. Sur le cas précis évoqué, la société SFR a reconnu que son réseau avait présenté au début de l'année 2000 des phénomènes de saturation liés à l'afflux de plus d'un million de nouveaux clients et non à l'offre " soir et week-end gratuits " qui ne concerne que 5 % de sa clientèle. Néanmoins, l'opérateur a indiqué qu'en cas de saturation ponctuelle de son réseau, il accordait des réductions d'abonnement aux clients victimes de ces incidents techniques et que ces phénomènes de saturation devraient disparaître progressivement grâce à l'installation de 2000 émetteurs supplémentaires et à l'attribution de nouvelles fréquences par l'autorité de régulation des télécommunications. L'enquête annuelle réalisée sur la qualité de service des trois réseaux de téléphonie mobile par le régulateur, et rendue publique en février 2001, ne fait d'ailleurs pas état d'une baisse significative de la qualité de service du réseau de SFR.
