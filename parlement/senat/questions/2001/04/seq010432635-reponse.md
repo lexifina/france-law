@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010432635
+
+- Question : [SEQ010432635](seq010432635.md) — Combustion de produits toxiques lors de manifestations publiques
+
+## Réponse
+
+*Intérieur, JO du 2002-01-17, page 153*
+
+L'honorable parlementaire appelle l'attention du ministre de l'intérieur sur la combustion de produits toxiques lors de manifestations publiques. La loi du 23 octobre 1935 soumet à l'obligation d'une déclaration préalable tous cortèges, défilés et rassemblements de personnes et, d'une façon générale, toutes manifestations sur la voie publique. De nombreuses dispositions pénales ont pour objet de réprimer les actes pénalement répréhensibles commis à l'occasion d'une manifestation déclarée ou qui a été interdite. Il s'agit notamment des destructions et des détériorations de biens prévus par les articles 322-1 et suivants du code pénal, ainsi que des entraves à la circulation routière prévues et réprimées par l'article L. 412-1 du code de la route. Matériellement, les autorités de police ne peuvent empêcher de façon systématique les manifestants de brûler des matériaux. Néanmoins, ces situations passagères et peu fréquentes n'ont rien de commun avec les cas d'expositions prolongées et répétées à des substances chimiques toxiques, que l'arrêté interministériel en date du 7 août 1997 relatif aux limitations de mise sur le marché et d'emploi de certains produits contenant des substances dangereuses a vocation à empêcher. En effet, ce sont les expositions prolongées et répétées à des substances telles que créosote, PCB, dioxines qui créent, à long terme, les risques de cancer, plus que des risques d'intoxication aiguë. La décomposition thermique de tous les plastiques ne conduit d'ailleurs aux PCB que dans le cas de molécule monomère chimique contenant du chlore tel que le chlorure de vinyle.
