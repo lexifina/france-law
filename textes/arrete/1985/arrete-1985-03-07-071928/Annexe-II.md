@@ -2,7 +2,7 @@
 
 ACEPHATE.
 
-N. acétyl thiophosphoramidate de O, S-diméthyle.
+N. acétyl thiophosphoramidate de 0, S-diméthyle.
 
 2 raisin, 1 autres fruits et légumes.
 
@@ -11,6 +11,12 @@ ALDRINE et DIELDINE.
 endo-exo hexachloro-1,2,3,4,10,10 hexahydro-1,4,4a, 5,8,8a diméthano-1,4, : 5,8, naphtalène et endo-exo hexachloro-1,2,3,4,10,10, époxy-6,7 octahydro-1,4,4a,5,6,6,8,8a diméthano-1,4 : napthtalène.
 
 0,01 fruits et légumes.
+
+ALPHAMETHRINE ou cis-2 cyperméthrine.
+
+isomères (1 R cis) S et (1 S cis) R de (dichloro-2,2 éthényl)-3 diméthyl-2,2 cyclopropanecarboxylate de a cyanophénoxy-3 benzyle.
+
+0,1 fruits à pépins et à noyau, raisin.
 
 AMETRYNE.
 
@@ -30,6 +36,12 @@ bis N,N-(diméthyl-2,4 phénylimino méthyl) N-méthyl amine.
 
 0,1 fruits à pépins, fruits à noyau.
 
+ASULAME.
+
+(amino-4 benzènesufonyl) carbamate de méthyle.
+
+0,05 endive.
+
 ATRAZINE.
 
 chloro-2 éthylamino-4 isopropylamino-6 triazine-1,3,5.
@@ -38,13 +50,13 @@ chloro-2 éthylamino-4 isopropylamino-6 triazine-1,3,5.
 
 AZINPHOS ETHYL.
 
-dithiophosphate de O,O-diéthyle et de S-(oxo-4 dihydro-3,4 benzo (e) triazine-1,2,3 yl-3) méthyle.
+dithiophosphate de 0,0-diéthyle et de S-(oxo-4 dihydro-3,4 benzo (e) triazine-1,2,3 yl-3) méthyle.
 
 0,05 fruits et légumes.
 
 AZINPHOS METHYL.
 
-dithiophosphate de O,O-diméthyle et de S-(oxo-4 dihydro-3,4 benzo (e) triazine-1,2,3 yl-3) méthyle.
+dithiophosphate de 0,0-diméthyle et de S-(oxo-4 dihydro-3,4 benzo (e) triazine-1,2,3 yl-3) méthyle.
 
 1 raisin, agrumes, 0,5 autres fruits et légumes.
 
@@ -53,6 +65,22 @@ BARBANE (en 3-CHLOROANILINE).
 (chloro-3 phényl) carbamate de chloro-4 butyne-2 yle).
 
 0,1 carotte, cerfeuil, persil, panais, 0,05 autres légumes et fruits.
+
+BENALAXYL.
+
+N-(diméthyl-2,6 phényl) N-(phényl-2 acétyl) DL alalinate de méthyle.
+
+0,1 raisin.
+
+BENFURACARBE.
+
+N-(NI-éthoxycarbonyl-2 éthyl NI-isopropyl amino sulfényl) N-méthylcarbamate de diméthyl-2,2 dihydro-2,3 benzofuryle.
+
+0,5 carotte, 0,2 légumes sauf carotte.
+
+BENTAZONE.
+
+isopropyl-3 1 H, 3 H-benzothiadiazine-2,1,3 one-4 dioxyde-2,2. 0,5 pois.
 
 BENZOXIMATE.
 
@@ -80,13 +108,13 @@ BITERTANOL.
 
 BROMOPHOS ETHYL.
 
-thiophosphate de O,O-diéthyle et de O-(bromo-4 dichloro-2,5) phényle.
+thiophosphate de 0,0-diéthyle et de 0-(bromo-4 dichloro-2,5) phényle.
 
 0,5 fruits et légumes.
 
 BROMOPHOS.
 
-thiophosphate de O,O-diméthyle et de O-(bromo-4 dichloro-2,5) phényle.
+thiophosphate de 0,0-diméthyle et de 0-(bromo-4 dichloro-2,5) phényle.
 
 1 fruits et légumes.
 
@@ -112,11 +140,19 @@ CAPTAFOL.
 
 N-(tétrachloro-1,1,2,2 éthylthio) tétrahydro-3a,4,7,7a isoindolinedione-1,3.
 
-8 salades, 2 légumes-racines, 5 autres légumes et fruits.
+0,05 fruits et légumes.
 
-CAPTANE.
+La somme de :
+
+- CAPTANE.
 
 N-(trichlorométhylthio) tétrahydro-3a,4,7,7a isoindolinedione-1,3. 15 fruits et légumes.
+
+- FOLPEL.
+
+(trichlorométhylthio)-2 isoindoline dione-1,3.
+
+3 fruits à pépins, baies et petits fruits, raisin, tomate, 2 fruits à noyaux, chicorée, scaroles, laitues, haricots, poireau, pois, endive, 0,1 autres fruits et légumes.
 
 CARBARYL.
 
@@ -126,11 +162,17 @@ N-méthylcarbamate de naphtyle-1.
 
 CARBOFURAN (y compris le hydroxy-3 carbofuran).
 
-N-méthylcarbamate de diméthyl-2,2 dihydro-2,3 benzofurannyle-7. 0,5 carotte, choux, poireaux.
+N-méthylcarbamate de diméthyl- 2,2 dihydro-2,3 benzofurannyle -7. 0,5 carotte, choux, poireaux, 0,5 haricots, oignon, maïs doux, endive.
+
+CARBOSULFAN.
+
+(((((dibutylamino) thio)) méthyl)) carbamate de diméthyl-2,2 dihydro-2,3 benzofurannyle-7.
+
+0,05 maïs doux.
 
 CHINALPHOS.
 
-thiophosphate de O,O-diéthyle et de O-quinoxalinyle-2.
+thiophosphate de 0,0-diéthyle et de 0-quinoxalinyle-2.
 
 0,05 raisin.
 
@@ -150,15 +192,17 @@ CHLORDANE (isomères cis et trans ; y compris l'oxychlordane).
 
 octachloro-1,2,4,5,6,7,8,8 tétrahydro-3a, 4,7,7a méthano-4 : 7 indane.
 
-0,05 fruits et légumes. CHLORFENVINPHOS (somme des isomères E et Z).
+0,05 fruits et légumes.
 
-phosphate de O(chloro-2 (dichloro-2,4 phényl)-1 vinyle) et de O,O-diéthyle.
+CHLORFENVINPHOS (somme des isomères E et Z).
 
-0,5 légumes à bulbes, légumes-racines, persil, 0,05 champignons, fruits, 0,1 autres légumes.
+phosphate de 0-((chloro-2 (dichloro-2,4 phényl)-1 vinyle)) et de 0,0-diéthyle.
+
+0,5 légumes à bulbes, légumes-racines, persil, 0,05 champigons, fruits, 0,1 autres légumes, 1 agrumes, 0,5 céleri, tubercules alimentaires.
 
 CHLORMEPHOS.
 
-dithiophosphate de S-chlorométhyle et de O,O-diéthyle.
+dithiophosphate de S-chlorométhyle et de 0,0-diéthyle.
 
 0,05 maïs doux.
 
@@ -206,15 +250,15 @@ N-(chloro-3 phényl) carbamate de méthyl-1 propyne-2 yle.
 
 CHLORPYRIPHOS.
 
-thiophosphate de O,O-diéthyle et de O-(trichloro-3,5,6 pyridyle-2).
+thiophosphate de 0,0-diéthyle et de 0-(trichloro-3,5,6 pyridyle-2).
 
-0,3 agrumes, 0,2 fruits à noyau et pépins, raisin, légumes, 0,05 autres fruits.
+0,3 agrumes, 0,2 fruits à noyau et pépins, raisin, légumes, 0,05 autres fruits, 2 kiwi.
 
 CHLORPYRIPHOS METHYLE.
 
-thiophosphate de O,O-diéthyle et de O-(trichloro-3,5,6 pyridyle-2).
+thiophosphate de 0,0-diméthyle et de 0-(trichloro-3,5,6 pyridyle-2).
 
-1 salades, poireau, 0,5 autres légumes.
+1 salades, poireau, 0,5 autres légumes, 0,1 champignon.
 
 CYHEXATIN-AZOCYCLOTIN (exprimés en cyhexatin).
 
@@ -226,11 +270,13 @@ CYMOXANYLE.
 
 2 cyano-N-éthylamino carbonyl-2 (méthoxyimino) acétamide.
 
-1 raisin, 2 salades, tomate. CYPERMETHRINE (somme des isomères).
+1 raisin, 2 salades, tomate.
 
-(dichloro-2,2 éthényl)-3 diméthyl-2,2 cyclopropanecarboxylate de alpha cyanophénoxy-3 benzyle.
+CYPERMETHRINE (somme des isomères).
 
-2 salades, 0,5 fruits à pépins, fruits à noyau, raisin, tomate.
+(dichloro-2,2 éthényl)-3 diméthyl-2,2 cyclopropanecarboxylate de a-cyanophénoxy-3 benzyle.
+
+2 salades, 0,5 fruits à pépins, fruits à noyau, raisin, tomate, 0,5 artichaut.
 
 2.4.D.
 
@@ -252,17 +298,17 @@ d. cis dibromochrysantémate de alpha cyanophénoxy-benzyle.
 
 OXYDEMETON-METHYL.
 
-thiophosphate de O,O-diméthyle et de S-(éthyl-sulfinyl-2 éthyle). 0,4 fruits et légumes sauf carotte.
+thiophosphate de 0,0-diméthyle et de S-(éthyl-sulfinyl-2 éthyle). 0,4 fruits et légumes sauf carotte.
 
 DEMETON-S-METHYL.
 
-thiophosphate de O,O-diméthyle et de S-(éthylthio-2 éthyle).
+thiophosphate de 0,0-diméthyle et de S-(éthylthio-2 éthyle).
 
 0,4 fruits et légumes sauf carotte.
 
 DEMETON-S-METHYL SULFONE.
 
-thiophosphate de O,O-diméthyle et de S-(éthylsulfonyl-2 éthyle). 0,4 fruits et légumes sauf carotte.
+thiophosphate de 0,0-diméthyle et de S-(éthylsulfonyl-2 éthyle). 0,4 fruits et légumes sauf carotte.
 
 DESMETRYNE.
 
@@ -278,9 +324,15 @@ di-isopropylthiocarbamate de S-(dichloro-2,3 allyle).
 
 DIAZINON.
 
-thiophosphate de O,O-diéthyle et de O-(isopropyl-2 méthyl-6 pyrimidinyle-4).
+thiophosphate de 0,0-diéthyle et de 0-(isopropyl-2 méthyl-6 pyrimidinyle-4).
 
 0,05 fruits à coque, 0,5 autres fruits, légumes.
+
+DIBROMURE D'ETHYLENE.
+
+dibromo-1,2 éthane.
+
+0,01 fruits et légumes.
 
 DICHLOBUTRAZOL.
 
@@ -320,9 +372,9 @@ trichloro-2,2,2 bis (chloro-4 phényl)-1,1 éthanol.
 
 DIETHION (y compris l'analogue oxydé).
 
-bis (dithiophosphate de O,O-diéthylique) de S,S'-méthylène.
+bis(dithiophosphate de 0,0-diéthylique) de S,SI-méthylène.
 
-1 agrumes, 0,5 fruits à pépins et à noyau, 0,1 autres fruits, légumes, 0,05 autres fruits.
+2 agrumes, 0,5 fruits à pépins et à noyau, raisin, 0,1 autres fruits, légumes.
 
 DIFLUBENZURON.
 
@@ -332,7 +384,7 @@ DIFLUBENZURON.
 
 DIMETHOATE.
 
-dithiophosphate de O,O-diméthyle et de S-(méthyl carbamoyl méthyle).
+dithiophosphate de 0,0-diméthyle et de S-(méthyl carbamoyl méthyle).
 
 1 fruits et légumes.
 
@@ -350,9 +402,15 @@ DINOSEBE.
 
 DIOXATHION (somme des isomères cis et trans).
 
-bis (dithiophosphate de O,O-diéthylique) de S,S'-(dioxane-1,4 diyl-2,3).
+bis (dithiophosphate de 0,0-diéthylique) de S,S'-(dioxane-1,4 diyl-2,3).
 
 3 agrumes, 0,4 raisin, 0,2 autres fruits.
+
+DIPHENYLAMINE.
+
+En liaison avec l'arrêté du 21 août 1985.
+
+3 fruits à pépins.
 
 DIQUAT.
 
@@ -362,13 +420,13 @@ dihydro-6,7 dipyrido (1,2-a 1,2'-c) pyrazidiinium.
 
 DISULFOTON (y compris le DEMETON S, sulfoxydes et sulfones).
 
-dithiophosphate de O,O-diéthyle et de S-(éthylthio-2 éthyle).
+dithiophosphate de 0,0-diéthyle et de S-(éthylthio-2 éthyle).
 
 0,1 ananas.
 
 DITALIMFOS.
 
-(dioxo-1,3 dihydro-1,3,2 H isoindole-2 yl) thiophosphonate de O,O-diéthyle.
+(dioxo-1,3 dihydro-1,3,2 H isoindole-2 yl) thiophosphonate de 0,0-diéthyle.
 
 1 fruits à pépins et à noyau.
 
@@ -380,13 +438,13 @@ complexes métalliques des éthylènes et méthylènes bis dithiocarbamates, pro
 
 DITHIOMETON (y compris sulfoxyde et sulfone).
 
-dithiophosphate de S-(éthylthio-2 éthyle) et de (O,O-diméthyle). 0,5 fruits et légumes, 0,05 carotte.
+dithiophosphate de S-(éthylthio-2 éthyle) et de (0,0-diméthyle). 0,5 fruits et légumes, 0,05 carotte.
 
 DODINE.
 
 acétate de N-dodécylguanidine.
 
-1 fruits.
+1 fruits à pépins et à noyau, 0,2 autres fruits et légumes.
 
 ENDOSULFAN (somme de alpha et bêta et sulfate d'endosulfan).
 
@@ -414,13 +472,13 @@ N. méthylcarbamate de éthylthiométhyl-2 phényle.
 
 ETHOPROPHOS.
 
-dithiophosphate de O-éthyle et de S,S-dipropyle.
+dithiophosphate de 0-éthyle et de S,S-dipropyle.
 
 0,01 légumes sauf carotte et banane.
 
 ETRIMFOS (y compris l'analogue oxydé).
 
-thiophosphate de O,O-diméthyle et de O-(éthoxy-6 éthyl-2 pyrimidine-4 yle).
+thiophosphate de 0,0-diméthyle et de 0-(éthoxy-6 éthyl-2 pyrimidine-4 yle).
 
 0,1 raisin, légumes à bulbe.
 
@@ -432,21 +490,27 @@ FENARIMOL.
 
 FENBUTATIN OXYDE.
 
-oxyde de bis-(tri-(méthyl-2 phényl-2 propyl) étain).
+oxyde de bis ((tri-(méthyl-2 phényl-2 propyl) étain)).
 
-2 fruits à pépins et à noyau, raisin.
+2 fruits à pépins et à noyau, raisin, 1 haricot vert, 0,5 concombre.
 
 FENCHLORPHOS (y compris l'analogue oxydé).
 
-thiophosphate de O-(trichloro-2,4,5 phényle) et de O,O-diméthyle y compris le phosphate de O-trichloro-2,4,5 phényle et de O,O-diméthyle.
+thiophosphate de 0-(trichloro-2,4,5 phényle) et de 0,0-diméthyle y compris le phosphate de 0-trichloro-2,4,5 phényle et de O,O-diméthyle.
 
 0,01 fruits et légumes.
 
 FENITROTHION (y compris l'analogue oxydé).
 
-thiophosphate de O,O-diméthyle et de O-(méthyl-3 nitro-4 phényle). 0,5 fruits et légumes.
+thiophosphate de 0,0-diméthyle et de 0-(méthyl-3 nitro-4 phényle). 0,5 fruits et légumes, 2 agrumes.
 
-FENTHION (y compris l'analogue oxydé, les sulfoxyde et sulfone). thiophosphate de O,O-diméthyle et de O-(méthyl-3 méthylthio-4 phényle).
+FENPROPATHRINE.
+
+tétraméthyl-2,2,3,3, cyclopropanecarboxylate de cyano (phénoxy-3 phényl) méthyle.
+
+0,5 fruits à pépins et à noyau, raisin.
+
+FENTHION (y compris l'analogue oxydé, les sulfoxyde et sulfone). thiophosphate de 0,0-diméthyle et de 0-(méthyl-3 méthylthio-4 phényle).
 
 0,2 fruits et légumes.
 
@@ -462,23 +526,35 @@ FENVALERATE.
 
 0,5 fruits à pépins et à noyau, raisin.
 
-FOLPEL.
+FLUAZIFOP P BUTYLE.
 
-(trichlorométhylthio)-2 isoindoline dione-1,3.
+[[(trifluorométhyl)-5 pyridil-2)) oxy[-4 phénoxy[-2 propionate-(RS) de butyle.
 
-15 cerise, salades, baies, raisin, 10 agrumes, fruits à pépins, 5 tomate, 2 autres légumes et fruits.
+0,1 agrumes, baies, légumes à bulbe, légumes genre brassica, légumes à gousse, légumes racines, tomate, salades.
+
+FLUMEQUINE.
+
+acide fluoro-9 méthyl-5 oxo-1 dihydro-6,7 1H, 5H benzo [i,j] quinolizine carboxylique-2 et ses sels.
+
+0,1 fruits à pépins.
+
+FLUOROCHLORIDONE.
+
+chloro-3 (chlorométhyl)-4 [(trifluorométhyl)-3 phényl]-1 pyrrolidinone-2.
+
+0,05 carotte.
 
 FONOFOS.
 
-éthyl-dithiophosphonate de O-éthyle et de S-phényle.
+éthyl-dithiophosphonate de 0-éthyle et de S-phényle.
 
 0,5 carotte, 0,2 radis.
 
 FORMOTHION.
 
-dithiophosphate de S-((N-formyl N-méthylcarbamoyl) méthyle) et de O,O-diméthyle.
+dithiophosphate de S-((N-formyl N-méthylcarbamoyl) méthyle) et de 0,0-diméthyle.
 
-0,1 agrumes.
+0,2 agrumes, 0,1 autres fruits et légumes.
 
 GAMMA H.C.H..
 
@@ -500,11 +576,25 @@ HEXACHLOROBENZENE.
 
 0,05 légumes.
 
+HEXYTHIAZOX.
+
+(chloro-4 phényl)-5 N cyclohexyl méthyl-4 oxo-2 thiazolidine carboxamide-3- (4 RS, 5 RS).
+
+0,5 fruits à pépins, raisin.
+
+HYDRAZIDE MALEIQUE.
+
+6-hydroxy-3- (2H) pyridazinone.
+
+10 oignon.
+
 IMAZALIL.
 
-(allyloxy-2 (dichloro-2,4 phényl)-2 éthyl)-1 imidazole.
+((allyloxy-2 (dichloro-2,4 phényl)-2 éthyl))-1 imidazole.
 
-5 agrumes, 2 banane, cucurbitacées.
+5 agrumes, 2 banane, cucurbitacées, et
+
+En liaison avec l'arrêté du 11 février 1985 : 5 agrumes (fruit entier) ; 0,1 dans la pulpe, 2 banane (fruit entier) ; 0,2 dans la pulpe.
 
 IPRODIONE.
 
@@ -514,21 +604,27 @@ IPRODIONE.
 
 ISOPHENPHOS (y compris l'analogue oxydé).
 
-N-isopropyl thiophosphoramidate de O-éthyle et de O-(isopropoxycarbonyl-2 phényl).
+N-isopropyl thiophosphoramidate de 0-éthyle et de 0-(isopropoxycarbonyl-2 phényl).
 
 0,1 banane.
 
 MALATHION (y compris le dérivé oxydé).
 
-(diméthoxy thiophosphorylthio)-2 succinate d'éthyle.
+(diméthoxy thiophosphorylthio)- 2 succinate d'éthyle.
 
-3 légumes (sauf légumes-racines), 0,5 légumes-racines, fruits.
+3 légumes (sauf légumes-racines), 0,5 légumes-racines, fruits, 2 agrumes.
+
+MECARBAME.
+
+dithiophosphate de S-(N-éthoxy-carbonyl N-méthylcarbamoylméthyle) et de 0,0-diéthyle.
+
+0,5 agrumes.
 
 METALAXYL.
 
-DL-N-(diméthyl-2,6 phényl) N-(méthoxy-2 acétyl) alaninate de méthyle.
+DL-N- (diméthyl-2,6 phényl)N- (méthoxy-2 acétyl) alalinate de méthyle.
 
-0,5 raisin.
+0,5 raisin, 0,5 fraise.
 
 METALDEHYDE.
 
@@ -536,13 +632,13 @@ METALDEHYDE.
 
 METHAMIDOPHOS.
 
-thiophosphoramidate de O,S-diméthyle.
+thiophosphoramidate de 0,S-diméthyle.
 
 0,3 fruits à pépins et à noyau, raisin, agrumes.
 
 METHIDATHION.
 
-dithiophosphate de S-(méthoxy-5 oxo-2 dihydro-2,3 thiadiazole-1,3,4 yl-3 méthyle) et de O,O-diméthyle.
+dithiophosphate de S-(méthoxy-5 oxo-2 dihydro-2,3 thiadiazole-1,3,4 yl-3 méthyle) et de 0,0-diméthyle.
 
 2 agrumes, 0,5 fruits à pépins, 0,2 autres fruits, légumes.
 
@@ -566,15 +662,17 @@ trichloro-1,1,1 bis (méthoxy-4 phényl)-2,2 éthane.
 
 METRIBUZINE.
 
-amino-4 tert butyl-6 méthylthio-3 triazine-1,2,4 one-5.
+amino-4 tert butyl-6 méthyl-thio-3 triazine-1,2,4 one-5.
 
-0,1 tomate.
+0,1 tomate, 0,1 asperge.
 
 MEVINPHOS (somme des isomères cis et trans).
 
 diméthoxyphosphoryloxy-3 crotonate de méthyle.
 
-0,2 fruits et légumes. MONOCROTOPHOS.
+0,5 autres fruits à noyau, légumes feuillus, 0,2 fruits à pépins, agrumes et abricot, 0,1 autres fruits et légumes.
+
+MONOCROTOPHOS.
 
 phosphate de diméthyle et de cis méthyl-1 méthylcarbamoyl-2 vinyle.
 
@@ -582,9 +680,15 @@ phosphate de diméthyle et de cis méthyl-1 méthylcarbamoyl-2 vinyle.
 
 NALED.
 
-phosphate de O,O-diméthyle et de O-(dibromo-1,2 dichloro-2,2 éthyle).
+phosphate de 0,0-diméthyle et de 0-(dibromo-1,2 dichloro-2,2 éthyle).
 
 0,2 fruits et légumes.
+
+NAPROPAMIDE.
+
+N,N-diéthyl (a-naphtoxy)-2 propionamide.
+
+0,1 fruits à pépins et à noyau.
 
 NEBURON.
 
@@ -614,15 +718,21 @@ OFURACE.
 
 chloro-2 N-(tétrahydro-2 oxo-3 furyl)-2'6' acétoxylidide.
 
-1 raisin. OMETHOATE.
+1 raisin.
 
-thiophosphate de O,O-diméthyle et de S-(méthylcarbamoyl méthyle). 0,4 artichaut, endive, 0,1 cerise, agrumes, baies, légumes-racines, épinard, 0,2 autres légumes et fruits.
+OMETHOATE.
+
+thiophosphate de 0,0-diméthyle et de S-(méthylcarbamoyl méthyle). 0,4 artichaut, endive, 0,1 cerise, agrumes, baies, légumes-racines, épinard, 0,2 autres légumes et fruits.
 
 OXADIAZON.
 
 tert butyl-5 (dichloro-2,4 isopropoxy-5 phényl)-3,3,H oxadiazoline-1,3,4 one-2.
 
 0,05 fruits.
+
+OXADIXYL.
+
+méthoxy-2 diméthyl-2', 6' N-(oxo-2 oxazolidinyl-3) acétanilide. 1 raisin, 0,5 tomate.
 
 PARAQUAT.
 
@@ -632,15 +742,19 @@ diméthyl-1,1 bipyridinium-4,4'.
 
 PARATHION (y compris l'analogue oxydé).
 
-thiophosphate de O,O-diéthyle et de O-(p-nitrophényle).
+thiophosphate de 0,0-diéthyle et de 0-(p-nitrophényle).
 
 0,5 fruits et légumes.
 
 PARATHION METHYLE (y compris l'analogue oxydé).
 
-thiophosphate de O,O-diméthyle et de O-(p-nitrophényle).
+thiophosphate de 0,0-diméthyle et de 0-(p-nitrophényle).
 
 0,2 fruits et légumes.
+
+PENCONAZOLE.
+
+[(dichloro- 2,4 phényl)-2 pentyl]-1 1 H-triazole-1,2,4 -(RS). 0,05 fruits à pépins, raisin.
 
 PERMETHRINE (somme des isomères).
 
@@ -656,19 +770,19 @@ PHENMEDIPHAME.
 
 PHOSALONE.
 
-dithiophosphate de S-(chloro-6 oxo-2 2 H-benzo (b) oxazole-1,3 yl-3) méthyle et de O,O-diéthyle.
+dithiophosphate de S-(chloro-6 oxo-2 2 H-benzo (b) oxazole-1,3 yl-3) méthyle et de 0,0-diéthyle.
 
-2 autres fruits, 1 agrumes, fraise, légumes.
+2 fruits à pépins et pêche, 1 agrumes, fraise, autres fruits et légumes, 0,1 légumes racines, olive.
 
 PHOSETHYL AL (exprimé en éthylphosphite, et entre parenthèses en acide phosphoreux).
 
-tris O-éthyl hydrogène phosphonate d'aluminium.
+tris 0-éthyl hydrogène phosphonate d'aluminium.
 
 5 raisin, agrumes, fraise, salades (50), 1 pomme (25), 1 ananas, tomate, endive (25).
 
 PHOSMET (y compris l'analogue oxydé).
 
-dithiophosphate de O,O-diméthyle et de S-(dioxo-1,3 isoindolinyl-2) méthyle.
+dithiophosphate de 0,0-diméthyle et de S-(dioxo-1,3 isoindolinyl-2) méthyle.
 
 10 kiwi, 2 fruits à pépins.
 
@@ -676,15 +790,21 @@ PHOSPHAMIDON (somme des isomères E et Z et du N-déséthyl).
 
 phosphate de (chloro-2 diéthyl carbamoyl-2 méthyl-1 vinyle) et de diméthyle.
 
-0,4 agrumes, fruits à pépins, 0,2 autres fruits.
+0,15 fruits et légumes.
+
+PROCHLORAZ.
+
+N-propyl N-[(trichloro-2,4,6 phénoxy)-2 éthyl] imidazolecarboxamide-1.
+
+2 champignon.
 
 PROCIMIDONE.
 
 (dichloro-3,5 phényl)-3 diméthyl-1,5 azibicyclo (3,1-0) hexane :
 
-dione-3,4.
+dione -3,4.
 
-5 endive, salades, raisin, 2 tomate, haricot, melon, fraise.
+5 endive, salades, raisin, 2 tomate, haricot, melon, fraise, 2 fruits à noyau, ail.
 
 PROMETRYNE.
 
@@ -697,6 +817,12 @@ PROPAMOCARBE.
 (diméthylamino-3 propyl) carbamate de propyle.
 
 5 salades, 2 concombre, 0,5 tomate, fraise.
+
+PROPARGITE.
+
+sulfite de (tert-butyl-4 phénoxy)-2 cyclohexyle et de (propyne-2 yle).
+
+5 pomme, raisin.
 
 PROPICONAZOLE.
 
@@ -712,7 +838,7 @@ dichloro-3,5 N-(diméthyl-1,1 propyne-2 yl) benzamide.
 
 PYRAZOPHOS.
 
-thiophosphate de O,O-diéthyle et de O-(éthoxycarbonyl-6 méthyl-5 pyrazolo (1,5-a) pyrimidinyle-2).
+thiophosphate de 0,0-diéthyle et de 0-(éthoxycarbonyl-6 méthyl-5 pyrazolo (1,5-a) pyrimidinyle-2).
 
 0,3 fruits à pépins, 0,1 cucurbitacées, fruits à noyau.
 
@@ -726,11 +852,11 @@ PYRIMICARBE (y compris le DESMETHYL et l'analogue méthylaminé). (N,N-diméthyl
 
 0,5 fruits et légumes.
 
-PYRIMIPHOS ETHYL (y compris l'analogue oxydé et le N-DESETHYL). thiophosphate de O,O-diéthyle et de O-(diéthylamino-2 méthyl-6 pyrimidinyle-4).
+PYRIMIPHOS ETHYL (y compris l'analogue oxydé et le N-DESETHYL). thiophosphate de 0,0-diéthyle et de 0-(diéthylamino-2 méthyl-6 pyrimidinyle-4).
 
 0,01 fruits et légumes.
 
-PYRIMIPHOS METHYL (y compris l'analogue oxydé et le N-DESETHYL). thiophosphate de O,O-diméthyle et de O-(diéthylamino-2 méthyl-6 pyrimidinyle-4).
+PYRIMIPHOS METHYL (y compris l'analogue oxydé et le N-DESETHYL). thiophosphate de 0,0-diméthyle et de 0-(diéthylamino-2 méthyl-6 pyrimidinyle-4).
 
 2 fruits et légumes.
 
@@ -746,6 +872,12 @@ isopropényl-2 diméthoxy-8,9 tétrahydro-1,2,12,12a 6a H-(1-benzopyrano) (3,4-b
 
 0,05 fruits et légumes.
 
+SETHOXYDIME.
+
+(7)- [(éthoxymino)-1 butyl]-2 [(éthyl-thio)-2 propyl- (RS)]-5 hydroxy-3 cyclohexine-2 one.
+
+0,5 fruits et légumes.
+
 SIMAZINE.
 
 chloro-2 bis (éthylamino)-4,6 triazine-1,3,5.
@@ -758,9 +890,17 @@ SOUFRE.
 
 SULFOTEP.
 
-dithiopyriphosphate de O,O,O',O'-tétraéthyle.
+dithiopyrophosphate de 0,0,0I, 0I-tétraéthyle.
 
-0,2 fruits et légumes. TECNAZENE.
+0,2 fruits et légumes, 0,1 champignon.
+
+2,4,5 T.
+
+acide 2,4,5 -trichlorophénoxy-acétique.
+
+0,05 fruits et légumes.
+
+TECNAZENE.
 
 tétrachloro-1,2,4,5 nitro-3 benzène.
 
@@ -800,6 +940,18 @@ sulfure de p-chlorophényle et de trichloro-2,4,5 phényle.
 
 2 fruits à pépins et à noyau, raisin, 0,2 cucurbitacées.
 
+THIABENDAZOLE.
+
+(thiazolyl-4)-2 benzimidazole.
+
+En liaison avec l'arrêté du 12 août 1985 : 6 agrumes, 3 banane, 0,05 endive.
+
+THIODICARBE.
+
+tétraméthyl-3,7,9,13 dioxa-5,11 trithia-2,8,14 tétracyo-4,7,9-12 pentadécadiène-3,12 dione-6,10.
+
+1 raisin.
+
 TOLYLFLUANIDE.
 
 N-dichlorofluorométhylthio N', N'-diméthyl N-p-tolysulfamide.
@@ -812,11 +964,17 @@ mélange complexe de terpènes bicycliques polychlorés.
 
 0,4 fruits et légumes.
 
-TRIADIMEFONE (y compris TRIADIMENOL).
+TRIADIMEFONE (n'est plus cumulé avec le TRIADIMENOL).
 
 (chloro-4 phénoxy)-1 diméthyl-3,3 (triazole-1,2,4 yl)-1 butanone-2.
 
 2 ananas, 1 autres fruits, cucurbitacées.
+
+TRIADIMENOL.
+
+(chloro-4 phénoxy)-1 diméthyl-3,3 (triazole-1,2,4 yl) -1 butanol-2.
+
+2 ananas, 1 autres fruits, cucurbitacées, 0,1 raisin.
 
 TRIALLATE (y compris DIALLATE).
 
@@ -832,6 +990,18 @@ TRICHLORFON.
 
 TRICHLORONATE.
 
-éthylthiophosphate de O-éthyle et de O-(trichloro-2,4,5 phényle).
+éthylthiophosphate de 0-éthyle et de 0-(trichloro-2,4,5 phényle).
 
 0,1 légumes.
+
+TRIDEMORPHE.
+
+diméthyl-2,6 tridécyl-4 morpholine.
+
+0,1 banane.
+
+VINCHLOZOLINE.
+
+(dichloro-3,5 phényl)-3 méthyl-5 vinyl-5 oxazolidine-1,3 dione-2,4.
+
+1 haricots.
