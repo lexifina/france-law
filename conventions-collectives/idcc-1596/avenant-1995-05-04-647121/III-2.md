@@ -1,0 +1,3 @@
+# Article III.2
+
+Cet accord entrera en vigueur le premier jour du mois civil suivant la publication de l'arrêté d'extension.
