@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861203793
+
+- Question : [SEQ861203793](seq861203793.md) — Modalités d'exercice des fonctions de commissaire aux comptes des coopératives agricoles
+
+## Réponse
+
+*Justice, JO du 1987-03-05, page 337*
+
+Réponse. -L'article R. 524-10 du code rural, tel qu'il résulte du décret n° 85-295 du 1er mars 1985, prévoit que le commissariat aux comptes des coopératives agricoles peut être exercé par un commissaire aux comptes inscrit sur la liste prévue à l'article 219 de la loi n° 66-537 du 24 juillet 1966 ou par une fédération de coopératives agricoles agréée en application de l'article L. 527-1 du code rural. Pour exercer ces fonctions, les fédérations de coopératives agricoles agréées doivent, conformément à l'article R. 527-12 du code rural, désigner en leur sein et pour agir en leur nom, des personnes physiques titulaires d'un diplôme de niveau équivalent à celui des personnes inscrites sur la liste visée à l'article 219 précité, et qui ont accompli un stage professionnel. Cet article R. 527-12 précise enfin que la liste des diplômes et les modalités du stage devront être fixées par arrêté conjoint du garde des sceaux, ministre de la justice, du ministre de l'éducation nationale et du ministre de l'agriculture. Pour satisfaire à cette dernière prescription, un projet d'arrêté a été élaboré par les départements ministériels concernés ; ce texte dispose que les personnes physiques qui agissent au nom des fédérations agréées de coopératives agricoles habilitées à exercer les fonctions de commissaires aux comptes doivent avoir subi avec succès les épreuves d'un examen d'aptitude professionnel après l'accomplissement d'un stage d'une durée de trois ans jugé satisfaisant. Sont admis à se présenter à cet examen les titulaires de l'un des diplômes requis pour l'examen d'aptitude aux fonctions de commissaires aux comptes. Ce projet d'arrêté en cours de signature devrait être prochainement publié au Journal officiel.
