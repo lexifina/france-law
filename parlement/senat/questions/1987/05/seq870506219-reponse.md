@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870506219
+
+- Question : [SEQ870506219](seq870506219.md) — Fiabilité du réseau de distribution de gaz dans l'Essonne
+
+## Réponse
+
+*Industrie, JO du 1988-02-25, page 255*
+
+Réponse. -La sécurité des réseaux de distribution de gaz exige que tout incident ou fuite soit connu sans délai et donne lieu au traitement ou à l'intervention nécessaire. Outre les appels des tiers, qui sont reçus 24 heures sur 24 et déclenchent une intervention immédiate du distributeur, ce dernier effectue à son initiative des recherches systématiques. Faites encore exclusivement par des piétons il y a quelques années, ces investigations sont maintenant de plus en plus effectuées par des véhicules de surveillance équipés de capteurs, circulant le long des voies comportant une canalisation de gaz. La capacité de détection des capteurs dépasse de loin celle de l'être humain, malgré l'odorisation très forte et délibérée du gaz distribué. Dans ces conditions, le véhicule de surveillance détecte en une tournée un nombre relativement important de signaux. Tous sont localisés avec précision et classés en fonction des traitements les plus appropriés à mettre en oeuvre. Ceux correspondant à des fuites pouvant présenter un quelconque danger pour les personnes et les biens font immédiatement l'objet des travaux nécessaires. Le cas signalé dans la présente question, de quatre communes des Hauts-de-Seine, correspond à celui d'une zone qui a fait l'objet de campagnes de détection systématique, ayant livré 300 indices, qui ont été traités comme précisé ci-dessus, en fonction de leur importance. Pour les points du réseau ayant révélé des indices particulièrement faibles, n'apparaissant pas mettre en cause la sécurité, une surveillance accrue a été décidée. Pour les autres, des opérations de recherches de fuites ont été effectuées ; celles-ci ont entraîné la réparation de 180 points de fuites.
