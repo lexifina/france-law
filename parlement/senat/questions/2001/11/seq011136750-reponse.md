@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011136750
+
+- Question : [SEQ011136750](seq011136750.md) — Taux de la taxe locale d'équipement
+
+## Réponse
+
+*Logement, JO du 2002-02-14, page 500*
+
+L'article 1585D-I (5°) du code général des impôts (CGI), dans sa rédaction antérieure à la loi n° 2000-1208 du 13 décembre 2000 relative à la solidarité et au renouvellement urbains (SRU), subordonnait le classement préférentiel en cinquième catégorie de la taxe locale d'équipement (TLE), à l'obtention d'un prêt conventionné ou, comme le précise l'article 317 sexies, paragraphe IV, de l'annexe II au CGI, à la production d'une simple attestation du pétitionnaire certifiant que sa construction satisfait aux conditions de prix fixées par la réglementation applicable aux prêts conventionnés. Seuls les prêts d'accession sociale, les prêts locatifs intermédiaires, et les prêts locatifs sociaux, qui par leurs caractéristiques très voisines de celles des prêts conventionnés s'analysent comme une variété de prêts conventionnés, ouvrent droit au classement du projet de construction qu'ils financent en catégorie 5 de la TLE. Afin de remédier aux difficultés d'assiette de la TLE résultant de l'évolution de la réglementation des prêts conventionnés et de ceux qui leur sont assimilés, l'article 52 de la loi SRU a modifié les modalités de classement en cinquième catégorie de la TLE en supprimant la référence aux prêts conventionnés et en la remplaçant par un critère de surface. Désormais, les constructions à usage d'habitation principale (pavillons ou logements collectifs) font l'objet d'un classement en cinquième catégorie pour les 170 premiers mètres carrés et d'un classement en septième catégorie pour les surfaces excédant ces 170 mètres carrés. Cette mesure met fin aux difficultés soulevées par l'honorable parlementaire.
