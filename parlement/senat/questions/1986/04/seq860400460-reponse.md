@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860400460
+
+- Question : [SEQ860400460](seq860400460.md) — Indemnité représentative du logement des instituteurs
+
+## Réponse
+
+*Intérieur, JO du 1986-05-22, page 731*
+
+Réponse. -Les lois des 30 octobre 1886 et 19 juillet 1889 ont posé le principe selon lequel les communes doivent fournir un logement convenable aux instituteurs attachés aux écoles ou leur verser une indemnité représentative. L'actualisation des dispositions réglementaires régissant les conditions d'attribution de l'indemnité représentative de logement a fait l'objet du décret n° 83-367 du 2 mai 1983. En application de ces textes, l'indemnité représentative de logement doit être versée par les communes aux instituteurs, à défaut pour celles-ci de mettre à leur disposition un logement convenable. Le décret du 2 mai 1983 n'a apporté aucune modification à ce principe. L'article 94 de la loi du 2 mars 1982 modifiée relative aux droits et libertés des communes, des départements et des régions a prévu l'attribution par l'Etat aux communes d'une dotation spéciale afin de compenser progressivement la charge supportée par elles pour le logement des instituteurs. Cette dotation spéciale, prélevée sur les recettes de l'Etat, est répartie entre les communes par le comité des finances locales proportionnellement au nombre des instituteurs exerçant dans les écoles publiques qui sont logés par chaque commune ou qui reçoivent d'elles une indemnité de logement. Compte tenu des difficultés rencontrées pour l'application de cette réglementation, l'article 1er de la loi n° 85-1268 du 29 novembre 1985 relative à la dotation globale de fonctionnement a prévu que cette dotation sera supprimée dès que l'Etat sera en mesure de verser directement aux personnels concernés une indemnité pour leur habitation présentant pour eux un avantage équivalent. Le Gouvernement étudie actuellement les conditions de mise en oeuvre de cette disposition.
