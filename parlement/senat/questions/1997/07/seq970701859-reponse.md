@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701859
+
+- Question : [SEQ970701859](seq970701859.md) — Aide aux pays d'Afrique du Nord dans la lutte contre le paludisme
+
+## Réponse
+
+*Coopération, JO du 1997-10-16, page 2799*
+
+Réponse. - La lutte contre le paludisme est effectivement une des priorités du secrétariat d'Etat à la coopération qui privilégie : le soutien à la recherche en Afrique ; il passe par un nombre limité de centres de recherche (Institut Pasteur de Dakar, de Madagascar, OCEAC au Cameroun, cité Pasteur de Libreville, centre Muraz au Burkina Faso, CIRMF au Gabon) et la formation visant à l'émergence d'une capacité de recherche locale. Ce soutien comprend : 1o des subventions de recherche pour les projets sélectionnés par une comité scientifique. Les domaines couverts par ces projets sont l'étude de l'acquisition de l'immunité naturelle dans des zones à transmission saisonnière haute, moyenne et basse, le contrôle épidémique et la prophylaxie, les vaccins, la résistance aux thérapeutiques, facteurs immunologiques et génétiques, l'entomologie ; 2o la mise à disposition d'expatriés : douze chercheurs français sont ainsi directement impliqués dans la recherche sur le paludisme ; 3o des bourses de réinsertion de chercheurs africains formés en France qui peuvent bénéficier de cette aide pendant trois ans, le temps d'obtenir un poste dans leur pays. L'ensemble de ces actions représente un montant global d'environ 17 millions de francs par an. Une partie de la contribution non budgétaire de la France - un million de francs en 1997 - au programme TGR (recherche sur les maladies tropicales) de l'OMS participe de l'effort pour la lutte contre la paludisme. Il conviendrait d'ajouter pour être exhaustif les contributions à la lutte contre le paludisme fournies à travers la participation de l'ORSTOM, de l'Institut Pasteur et de l'INSERM aux recherches sur leur budget propre (budget civil de la recherche pour le développement et ministère de la santé).
