@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010734585
+
+- Question : [SEQ010734585](seq010734585.md) — Barème des droits de mutation à titre gratuit
+
+## Réponse
+
+*Économie, JO du 2001-11-15, page 3635*
+
+Le tarif des droits de mutation par décès est appliqué sur la part nette revenant à chaque ayant droit après application d'un abattement. L'abattement en faveur des enfants est fixé à 300 000 francs (45 734,71 euros) et celui applicable au conjoint survivant à 500 000 francs (76 224,51 euros) depuis le 1er janvier 2000. La seule application de ces abattements permet d'ores et déjà d'exonérer plus de 90 % des successions entre époux, ce qui place la France parmi les six Etats de l'Union européenne les plus généreux en la matière. De même, près de 80 % des successions en ligne directe sont exonérées. Dans ces conditions, une revalorisation de ces abattements n'est pas envisagée. Par ailleurs, la révision des tranches du barème applicable entre époux et en ligne directe ne constitue pas une mesure prioritaire. En effet, il a paru préférable de favoriser les transmissions anticipées de patrimoines par un allègement substantiel des droits de donation. Ainsi, les réductions de droits applicables pour les donations sont désormais fixées à 50 % lorsque le donateur est âgé de moins de soixante ans et à 30 % lorsqu'il a soixante ans révolus et moins de soixante-quinze ans. A cet égard, le Gouvernement est conscient du caractère parfois inadapté du barème actuel fixant les valeurs fiscales de l'usufruit prévu à l'article 762 du code général des impôts et de ses effets sur le coût fiscal des transmissions anticipées de patrimoines avec réserve d'usufruit. Une réflexion est d'ores et déjà engagée sur ce point. Les travaux actuellement en cours ont pour objet d'obtenir des éléments précis sur les conséquences financières d'une telle mesure pour le budget de l'Etat et pour les contribuables concernés.
