@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880901350
+
+- Question : [SEQ880901350](seq880901350.md) — Réglementation concernant les travaux dans les villes
+
+## Réponse
+
+*Collectivités territoriales, JO du 1988-10-27, page 1187*
+
+Réponse. - La loi n° 83-663 du 22 juillet 1983, complétant la loi n° 83-8 du 7 janvier 1983 relative à la répartition des compétences entre les communes, les départements, les régions et l'Etat, consacre, une section 3, à la coordination des travaux de voirie. Cette procédure a pour objet d'éviter des ouvertures successives et désordonnées de chantier de pose de canalisations tant par les permissionnaires privés que par les divers services publics propriétaires de réseaux souterrains. La loi du 22 juillet 1983 définit de façon précise le pouvoir accordé au maire d'instituer une procédure de coordination des travaux de voirie soit à l'aide d'un calendrier, soit en prescrivant la période d'exécution des travaux lorsque ceux-ci ne figurent pas au calendrier ou que ce dernier n'a pas été établi. Elle confère au maire le pouvoir de suspendre les travaux qui n'auraient pas fait l'objet de la procédure de coordination. Aux termes de la loi, le conseil municipal est en outre habilité à fixer les modalités d'exécution de réfection des voies, ainsi que le montant des frais engagés pour leur réfection. Les décrets n°s 85-1262 et 85-1263 du 27 novembre 1985 ont précisé les conditions d'application de la loi du 22 juillet 1983. La réglementation donne donc au maire, depuis 1983, les moyens d'agir efficacement contre l'ouverture intempestive de tranchées dans sa commune. Pour répondre aux nombreuses questions pratiques posées par les élus sur les conditions d'application de cette réglementation, un groupe de travail, réuni à l'initiative du ministère de l'intérieur (D.G.C.L.), a élaboré un guide à leur intention. Ce guide sera diffusé très prochainement.
