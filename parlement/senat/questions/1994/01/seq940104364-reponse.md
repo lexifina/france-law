@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940104364
+
+- Question : [SEQ940104364](seq940104364.md) — Prise en charge hors forfait de certains médicaments pour les personnes admises dans la section de cure médicale
+
+## Réponse
+
+*Affaires sociales, JO du 1994-03-24, page 658*
+
+Réponse. - Le problème de la nature des médicaments pris en charge dans le forfait de section de cure médicale donne lieu à des difficultés d'interprétation résultant de la rédaction de l'article 37-2 du décret no 58-1202 du 11 décembre 1958 relatif aux hôpitaux et hospices publics, modifié par l'article 1er du décret no 78-478 du 29 mars 1978, qui dispose que au titre des soins donnés aux personnes admises dans la section de cure médicale, les dépenses couvertes par les forfaits comprennent notamment " les sommes afférentes à l'achat des médicaments et produits usuels correspondant à l'objet de cette section ". Il a cependant été estimé que tous les médicaments pouvaient être inclus dans le forfait, compte tenu notamment de l'impossibilité pratique de dresser une liste de médicaments et produits usuels correspondant à l'objet de la section de cure médicale et de la possibilité pour les établissements de dépasser le plafond du forfait journalier de soins fixé annuellement par circulaire interministérielle. Afin de conforter cette interprétation, le Gouvernement a décidé une majoration de 8 francs par forfait en sus du taux directeur applicable pour 1994 au plafond de celui-ci, cette mesure étant destinée à permettre l'intégration dans ce dernier de l'ensemble des dépenses pharmaceutiques. Afin d'éviter le développement de contentieux résultant de cette interprétation de l'article 37-2 du décret du 11 décembre 1958, une réflexion sur une modification de la réglementation, accompagnée de la nécessaire concertation de tous les partenaires concernés, est en cours.
