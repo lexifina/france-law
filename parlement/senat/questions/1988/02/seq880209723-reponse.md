@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880209723
+
+- Question : [SEQ880209723](seq880209723.md) — Calcul de l'IRPP : exclusion de la retraite d'artisan
+
+## Réponse
+
+*Commerce et artisanat, JO du 1988-03-31, page 439*
+
+Le code général des impôts prévoit que l'impôt est établi d'après le montant total du revenu net annuel dont dispose chaque foyer fiscal, ce revenu étant déterminé en fonction notamment des traitements, salaires, pensions et rentes dont bénéficient les intéressés. Le revenu imposable est un revenu global et comprend en principe la totalité des revenus et gains de toutes sortes, quelle que soit leur provenance. Il s'agit là d'un principe général, applicable donc à l'ensemble des pensions de retraite, tant celles servies par le régime vieillesse des artisans que celles servies par les autres régimes obligatoires de sécurité sociale. C'est pourquoi il n'est pas actuellement envisagé d'étendre à l'ensemble des pensions les règles plus favorables adoptées pour certaines pensions militaires, attribuées en contrepartie de services exceptionnels (pensions de guerre, traitements attachés à la Légion d'honneur et à la médaille militaire), qui sont totalement exonérées d'impôt en raison de leur caractère particulier. Les artisans retraités bénéficient des avantages consentis à tous les retraités (abattements de 10 p. 100 et de 20 p. 100), ainsi que, le cas échéant, ceux réservés aux personnes âgées (abattement de 7 800 francs ou 3 900 francs) et aux petits revenus (décote, minoration de 11 p. 100, non-recouvrement de l'impôt inférieur à 370 francs). En pratique, un artisan marié, âgé de soixante-cinq ans ou plus, ne disposant pas d'autres sources de revenus et ne bénéficiant d'aucun allégement particulier, ne paiera pas d'impôt sur le revenu s'il touche une pension égale ou inférieure à 6 574 francs par mois. Il apparaît donc que les préoccupations exprimées par l'honorable parlementaire sont satisfaites.
