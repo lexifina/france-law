@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021104170
+
+- Question : [SEQ021104170](seq021104170.md) — Non-conformité de certains aliments pour nourrissons
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2003-02-27, page 734*
+
+Les aliments destinés aux nourrissons et enfants en bas âge sont soumis à des prescriptions communautaires très strictes et complètes transposées dans la réglementation nationale par des dispositions introduites dans l'arrêté du 1er juillet 1976 relatif à ces produits. Ce texte fixe notamment des normes de composition et des règles d'étiquetage pour les laits infantiles, les préparations à base de céréales et les autres aliments pour nourrissons et enfants de moins de trois ans. En outre, la réglementation en vigueur prévoit que ces aliments ne doivent contenir " aucune substance dans des proportions susceptibles de nuire à la santé des nourrissons et des enfants en bas âge ". Il est en particulier précisé que ces produits doivent être exempts d'antibiotiques, que leur teneur en aflatoxine ne doit pas dépasser 5 microgrammes par kilogramme et qu'ils ne doivent pas contenir plus de 0,01 milligramme par kilogramme de résidus de pesticides. Des contrôles sont régulièrement réalisés dans les entreprises de fabrication, d'importation ou de distribution de ces denrées afin de vérifier que ces règles d'étiquetage et ces normes de composition sont effectivement respectées. Une enquête nationale réalisée en 2000 avait conduit à la mise en évidence d'un taux de non-conformité de l'étiquetage relativement élevé. Néanmoins, les critères fixés par l'arrêté du 1er juillet 1976 étaient, dans l'ensemble, bien respectés. De plus, les recherches de résidus de pesticides et de nitrates n'ont pas mis en évidence de contamination inquiétante de ces aliments. Toutefois, l'attention des services de contrôle a été appelée sur la nécessité d'assurer un suivi régulier de ces produits.
