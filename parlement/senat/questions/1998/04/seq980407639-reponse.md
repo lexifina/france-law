@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980407639
+
+- Question : [SEQ980407639](seq980407639.md) — Mise aux normes des marchés
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 1998-06-18, page 1971*
+
+Réponse. - La rénovation des halles et des marchés couverts ou de plein vent constitue une action prioritaire menée par le secrétariat d'Etat aux petites et moyennes entreprises, au commerce et à l'artisanat. Afin d'aider les municipalités à assumer l'effort de modernisation des équipements de marchés, un dispositif de soutien public a été mis en place. Des aides financières peuvent être versées, dans le cadre du Fonds d'intervention pour la sauvegarde de l'artisanat et du commerce (FISAC), aux communes pour l'aménagement des halles et marchés. Au 1er janvier 1998, plus de 226 opérations spécifiques ont été réalisées pour un engagement budgétaire de plus de 67 millions de francs. Pour bénéficier de ces aides, il a été donné instruction aux préfets de faire procéder au recensement exhaustif des marchés. Le rencensement est en cours. Les maires des communes concernées, par une mise aux normes, sont invités à se rapprocher du délégué régional au commerce et à l'artisanat de leur région qui pourra les guider dans les démarches à effectuer pour concrétiser et formaliser leur demande de concours au titre du FISAC. Afin de donner à ce dispositif la publicité souhaitable, une plaquette " favoriser le développement du commerce non sédentaire " a été adressée, par les préfets, à l'ensemble des élus locaux afin de les sensibiliser à l'impérieuse nécessité d'améliorer les équipements des marchés. Dans ce domaine, l'aide de l'Etat sera bien sûr poursuivie, mais c'est aussi avec l'appui et la détermination des municipalités que les halles et marchés pourront continuer à développer leurs activités dans l'intérêt général.
