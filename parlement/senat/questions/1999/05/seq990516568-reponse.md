@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990516568
+
+- Question : [SEQ990516568](seq990516568.md) — Implantation de panneaux publicitaires
+
+## Réponse
+
+*Aménagement du territoire, JO du 1999-08-05, page 2647*
+
+Réponse. - La ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question concernant la situation du parc publicitaire existant pendant l'élaboration d'un règlement local de publicité. Durant cette procédure, les dispositifs publicitaires continuent d'être soumis au régime général de la loi, mais avec les restrictions qu'il comporte, et ceux qui sont illégaux doivent être sanctionnés quel que soit le régime applicable. Cependant, la perspective de l'établissement d'un règlement local de publicité n'autorise pas l'anticipation de son application ; aucun texte ne le permet. Il existe même deux jurisprudences confirmant cette position : l'une du tribunal administratif d'Amiens (17 janvier 1991, société Liote contre le préfet de l'Aisne, commune de Fourdrain) ; la seconde du tribunal administratif de Versailles (20 juin 1995, société IREP contre commune de Brétigny-sur-Orge). Un modification réglementaire ou législative ayant pour effet de geler le parc existant, dans l'attente de l'approbation du règlement, poserait un problème de recensement assez ardu et certainement source de contestation, et son efficacité ne serait pas évidente. L'essentiel réside dans la volonté des maires de mettre en place ces règlements dans le souci de préservation du cadre de vie, et la zone de publicité restreinte est le meilleur outil dont ils disposent à cette fin. Le délai de mise en conformité de deux ans semble raisonnable, et les services du ministère de l'aménagement du territoire et de l'environnement s'emploient à le faire respecter, en liaison avec les mairies.
