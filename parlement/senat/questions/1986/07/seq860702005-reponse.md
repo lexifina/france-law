@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860702005
+
+- Question : [SEQ860702005](seq860702005.md) — Suppression de la prime d'abattage du Royaume-Uni pour la viande bovine
+
+## Réponse
+
+*Agriculture, JO du 1986-09-18, page 1305*
+
+Réponse. -La délégation française a toujours dénoncé à Bruxelles la prime variable à l'abattage, qui ne s'applique qu'au seul Royaume-Uni. En effet cette aide est source de distorsion de concurrence avec les autres Etats membres de la communauté, au même titre que la prime à la naissance des veaux qui ne s'applique qu'en Italie, en Grèce et en Irlande. C'est pourquoi dans son projet de réforme de l'organisation commune de marché de la viande bovine, la Commission des communautés européennes a repris à son compte les observations de la délégation française, et a proposé de substituer aux différents régimes de prime nationaux, une prime unique. De ce point de vue, la prime unique, proposée par la commission de Bruxelles, remédie aux inconvénients des différents régimes actuellement en vigueur. Mais dans le projet de la commission, la prime unique a également vocation à se substituer au soutien des prix de marché par l'intervention publique. Or la délégation française s'oppose à l'abandon de toute régulation des prix de marché par des achats à l'intervention publique. Elle a toutefois suggéré des aménagements au régime actuel, dans un souci de meilleure efficacité des dépenses publiques consacrées à la régulation des cours. Ainsi, si la délégation française s'est opposée au régime de prime unique proposé par la commission de Bruxelles, c'est en raison de son inclusion dans un paquet d'ensemble qui n'est pas approprié à la situation du marché de la viande bovine, et non en fonction des mérites propres d'un tel système d'aide directe aux producteurs, qui, seul, aurait parfaitement correspondu aux souhaits de la délégation française.
