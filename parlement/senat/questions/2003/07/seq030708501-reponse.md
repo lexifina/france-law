@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030708501
+
+- Question : [SEQ030708501](seq030708501.md) — Loi " habitat " : création d'un fonds pour le renouvellement urbain
+
+## Réponse
+
+*Ville, JO du 2003-09-25, page 2916*
+
+L'honorable parlementaire appelle l'attention du ministre délégué à la ville et à la rénovation urbaine sur la création d'un fonds de renouvellement urbain et sur ses conséquences sur l'équilibre financier des organismes d'HLM. Cette question est en lien direct avec la création de l'Agence de rénovation urbaine établie par la loi n° 2003-710 du 1er août 2003. Cette agence se verra en effet reverser une partie de la cotisation additionnelle créée à l'occasion de la loi d'orientation et de programmation pour la ville et la rénovation urbaine et collectée par la CGLLS. L'agence qui constitue un nouvel espace de partenariat entre l'Etat et l'Union des habitations à loyer modéré a entre autres pour ambition de rénover en profondeur l'offre locative sociale dans les zones sensibles et de doter les acteurs du logement social d'un patrimoine qui correspond mieux aux aspirations des habitants de ces quartiers. Les interventions de l'agence ne devraient pas, en tout état de cause, engendrer une hausse des loyers pénalisante pour les locataires. En effet, la cotisation additionnelle a bien pour assiette l'autofinancement des organismes sociaux visés par la loi mais ne pèse que sur les organismes dont le niveau d'autofinancement excède 5 % des produits locatifs et ne porte en l'occurence que sur la partie de l'autofinancement supérieur à ce seuil pour les organismes entrant dans le champ d'application de cette cotisation, le taux ne pouvant être supérieur à 15 %. Cette mutualisation des ressources dégagées par l'activité locative sociale vise bien à consolider l'offre sociale dans les zones où elle se trouve fragilisée, du fait de son inadéquation ou du contexte social où elle s'exerce.
