@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020238801
+
+- Question : [SEQ020238801](seq020238801.md) — Procédure relative au vote par procuration
+
+## Réponse
+
+*Intérieur, JO du 2002-04-25, page 1180*
+
+L'article R. 75 du code électoral dispose que " chaque procuration est établie sur un imprimé comportant deux volets et un talon. Les deux volets sont signés par le mandant. L'autorité devant laquelle est dressée la procuration, après avoir porté mention de celle-ci sur un registre spécial ouvert par ses soins, indique sur les volets et le talon ses nom et qualité et les revêt de son visa et de son cachet. Elle remet ensuite le talon au mandant et adresse, par la poste en recommandé, sans enveloppe, le premier volet au maire de la commune sur la liste électorale de laquelle le mandant est inscrit et le second volet au mandataire... ". L'article R. 76-1 du même code ajoute que " le défaut de réception par le maire du volet d'une procuration fait obstacle à ce que le mandataire participe au scrutin ". Il est donc important de recourir à l'envoi en recommandé qui coupe court à toute contestation ou fraude. Le Conseil d'Etat s'est prononcé en ce sens dans son arrêt du 23 novembre 1966, élections municipales de Nonza. Pour autant, dans son arrêt du 23 décembre 1966, élections municipales de Saint-Barthélemy, il a considéré que l'envoi par pli recommandé ne constituait pas l'unique moyen régulier d'acheminement. En l'espèce, l'autorité habilitée à dresser la procuration avait remis directement le volet au maire contre récépissé. En conséquence, il semble envisageable que l'officier de police judiciaire compétent apporte les procurations à la mairie, sous réserve de conférer date certaine au dépôt de ces procurations. Cette garantie peut être constituée par la remise d'un récépissé ou la signature d'un bordereau.
