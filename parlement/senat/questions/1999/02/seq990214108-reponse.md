@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990214108
+
+- Question : [SEQ990214108](seq990214108.md) — Multiplicité des instances départementales traitant des problèmes de l'emploi et présence des élus locaux
+
+## Réponse
+
+*Emploi, JO du 1999-07-29, page 2584*
+
+Réponse. - La lutte contre le chômage est une priorité de l'action gouvernementale dont la réussite demande l'intervention coordonnée et déterminée de tous ceux qui participent à la mise en uvre des politiques de l'emploi. Les élus locaux, en particulier les maires, ont un rôle essentiel à jouer dans ce cadre. Leur implication dans la vie économique de la commune, leur capacité à apprécier la pertinence des politiques menées au niveau d'un bassin d'emplois et à concourir à une approche individualisée de la situation des personnes les plus en difficulté en font des partenaires indispensables de la politique de l'emploi et de la lutte contre les exclusions. La pluralité des instances de pilotage des différents dispositifs traitant des problèmes de l'emploi peut effectivement générer une lourde charge de travail et nuire à la lisibilité des politiques conduites. C'est pourquoi la loi de lutte contre les exclusions a permis des possibilités de simplification de ce dispositif. L'article 155 de cette loi, qui instaure un comité départemental des politiques de prévention et de lutte contre les exclusions, prévoit que ce comité peut proposer aux instances intervenant en matière de lutte contre les exclusions de sièger ensemble pour exercer en commun tout ou partie de leurs attributions. Cette disposition (pour laquelle le décret d'application sera prochainement publié) devrait permettre de regrouper les différents comités de pilotage, de façon tout à la fois à améliorer la cohérence des politiques menées et à réduire la charge que constitue pour les élus locaux, mais aussi pour les autres partenaires concernés, la participation aux différents comités.
