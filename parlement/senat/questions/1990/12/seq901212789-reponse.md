@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901212789
+
+- Question : [SEQ901212789](seq901212789.md) — Concours d'entrée à l'ENA
+
+## Réponse
+
+*Fonction publique, JO du 1991-03-28, page 664*
+
+Réponse. - Dans l'état actuel du droit, les concours externes d'accès à la fonction publique sont ouverts aux candidats justifiant de certains diplômes dont la liste est fixée généralement par arrêté du ministre intéressé et du ministre chargé de la fonction publique, pris en application des statuts particuliers qui précisent le niveau minimal de diplôme requis pour un concours donné. Ainsi, actuellement, les concours externes de recrutement d'attachés d'administration centrale et d'attachés d'administration de la commune de Paris sont ouverts aux candidats " titulaires de l'un des titres ou diplômes exigés pour se présenter au premier concours d'entrée à l'Ecole nationale d'administration ". La liste de ces titres et diplômes est fixée par un arrêté du 7 avril 1972. Le diplôme de l'Institut d'étude des relations internationales (I.L.E.R.I.) ne figure pas dans cet arrêté. Les étudiants diplômés de l'I.L.E.R.I., candidats aux concours précités, ne peuvent donc pas, juridiquement, être autorisés à concourir. Seule la création d'une commission chargée d'apprécier si les candidats ne possédant pas le diplôme requis mais ayant acquis ou reçu une formation jugée suffisante, analogue à celle prévue pour les concours externes de l'E.N.A. (article 5 du décret du 27 septembre 1982) et d'accès aux instituts régionaux d'administration (article 10 du décret du 10 juillet 1984 modifié) pourrait permettre l'examen des titulaires de diplômes tels que celui de l'I.L.E.R.I. Cette possibilité n'existe pas actuellement. Il est donc envisagé, afin de résoudre les difficultés que l'on constate maintenant, d'instituer une commission de ce type.
