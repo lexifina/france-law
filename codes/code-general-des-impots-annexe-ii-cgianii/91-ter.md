@@ -2,12 +2,16 @@
 
 Les cas dans lesquels il peut être exceptionnellement disposé des actions avant l'expiration du délai fixé au I de l'article 163 bis C du code général des impôts, sans perte du bénéfice des dispositions prévues audit article, sont les suivants :
 
-- licenciement du titulaire ;
+1° licenciement du titulaire ;
 
-- mise à la retraite du titulaire ;
+2° mise à la retraite du titulaire ;
 
-- invalidité du titulaire correspondant au classement dans la deuxième ou la troisième des catégories prévues à l'article 310 du code de la sécurité sociale ;
+3° invalidité du titulaire correspondant au classement dans la deuxième ou la troisième des catégories prévues à l'article L. 341-4 du code de la sécurité sociale ;
 
-- décès du titulaire.
+4° décès du titulaire.
 
-Dans les deux premières situations, les options doivent avoir été levées au moins trois mois avant la date de réalisation de l'événement invoqué.
+Dans les situations définies aux 1° et 2° les options doivent avoir été levées au moins trois mois avant la date de réalisation de l'événement invoqué.
+
+NOTA :
+
+Dispositions devenues sans objet en conséquence de l'article 11-I F et IV de la loi n° 2012-1509 du 29 décembre 2012.
