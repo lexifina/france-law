@@ -1,4 +1,4 @@
-# Article 71 TER
+# Article 71 ter
 
 PAR. 1ER - Pour l'application de l'article 2 (paragraphe 1er, I) du décret n° 51-727 du 6 juin 1951, le conjoint survivant cumule la pension d'invalidité de veuve ou de veuf ou la pension de vieillesse de veuve ou de veuf avec ses avantages personnels de vieillesse, d'invalidité ou d'accident du travail, notamment ceux qui résultent de l'article L. 454 du code de la sécurité sociale, dans la limite de 52 p. 100 du total de ces avantages et de la pension principale dont l'assuré bénéficiait ou eût bénéficié, et qui a servi de base au calcul de l'avantage de réversion.
 
@@ -13,3 +13,5 @@ La pension ainsi réduite est majorée aux mêmes dates et selon les mêmes taux
 Les opérations de comparaison prévues aux trois premiers alinéas du présent paragraphe ne sont effectuées qu'au moment de la liquidation du deuxième avantage.
 
 PAR. 2 - Lorsque le conjoint survivant ou le conjoint divorcé a droit, d'une part, à des avantages de réversion au titre de plusieurs régimes de retraite de base et que, d'autre part, il bénéficie d'avantages personnels de vieillesse ou d'invalidité, il n'est tenu compte, pour déterminer les limites de cumul prévues au paragraphe 1er ci-dessus et pour calculer le montant de l'avantage de réversion à servir par le régime des assurances sociales agricoles, que d'une fraction des avantages personnels du conjoint survivant ou du conjoint divorcé obtenue en divisant le montant total de ces avantages par le nombre des régimes débiteurs des avantages de réversion.
+
+PAR. 3 - Lorsque la pension de réversion est réduite en application du paragraphe 1er du présent article, la majoration prévue au paragraphe 6 de l'article 2 du décret n° 51-727 du 6 juin 1951 l'est dans les mêmes proportions.
