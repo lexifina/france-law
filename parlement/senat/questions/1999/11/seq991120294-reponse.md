@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991120294
+
+- Question : [SEQ991120294](seq991120294.md) — Connaissance par le ministre et son cabinet des procès-verbaux dressés par des officiers de police judiciaire
+
+## Réponse
+
+*Justice, JO du 2000-03-09, page 889*
+
+Réponse. - En premier lieu, le garde des sceaux a l'honneur de rappeler à l'honorable parlementaire qu'il ne lui appartient pas de porter des appréciations sur les déclarations de tel ancien ministre mais de commenter et de faire appliquer la loi. La question posée soulève la question difficile en France du rapport entre les magistrats du parquet ou les juges d'instruction chargés par la loi de conduire les enquêtes pénales et les services de police judiciaire que le code de procédure pénale place sous leur contrôle. En droit, les procès-verbaux établis dans le cadre d'une instruction judiciaire ne sont destinés qu'au juge qui conduit l'information et au parquet s'il le demande. S'il est normal que le ministre de l'intérieur et le ministre de la défense soient informés sur la situation de la délinquance pour exercer les missions qui sont les leurs en matière de sécurité interne, les officiers de la police nationale et les militaires de la gendarmerie nationale qu'ils mettent à la disposition des juges n'ont pas d'autres comptes à rendre que ceux qu'impose l'article 14 du code de procédure pénale. Par ailleurs, l'article 11 du code de procédure pénale établit le caractère secret de l'instruction préparatoire et de l'enquête qui la précède. Les personnes qui concourent à cette procédure, à savoir le juge d'instruction, le procureur de la République, les officiers de police judiciaire, les greffiers, les interprètes et les experts, sont tenues au secret professionnel dans les conditions et sous les peines prévues à l'article 226-13 du code pénal.
