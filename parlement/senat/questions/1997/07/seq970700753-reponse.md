@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970700753
+
+- Question : [SEQ970700753](seq970700753.md) — Evolution sur les plans économique et social des " zones d'entreprises "
+
+## Réponse
+
+*Économie, JO du 1997-10-16, page 2807*
+
+Réponse. - Les zones d'entreprises prévues à l'article 1er de l'ordonnance no 86-1113 du 15 octobre 1986 ont été créées respectivement à Dunkerque, Aubagne-La Ciotat et Toulon-La Seyne, villes tout particulièrement affectées, à cette époque, par la reconversion de l'industrie navale. La faculté d'implantation à l'intérieur de ces zones, qui permet de bénéficier pendant dix ans de l'exonération d'impôt sur les sociétés prévue à l'article 208 quinquies du code général des impôts, a pris fin au cours de l'année 1992. Au 31 décembre 1995, 98 entreprises bénéficiaient du régime d'exonération. Elles ont permis la création de 5 056 emplois pour un coût fiscal en 1996 de 2 100 MF. Au surplus, certaines de ces entreprises ont pu bénéficier d'un allégement de leur imposition locale. En effet, si, en ce qui concerne la taxe professionnelle, il n'existe pas de dispositif propre aux zones d'entreprises, les collectivités locales concernées étaient toutes situées dans des zones où, conforméménent à l'article 1465 du code général des impôts, elles pouvaient notamment, dans le cadre de l'aménagement du territoire, exonérer de taxe professionnelle les créations et extensions d'activités industrielles pour une durée maximale de cinq ans. En pratique, entre 1986 et 1992, les trois quarts des collectivités locales situées dans le périmètre des zones d'entreprises ont pris une délibération en ce sens. Ces mesures ont permis l'implantation à la fois de quelques grosses unités de production et d'entreprises petites ou moyennes qui ont trouvé sur place un environnement économique et social favorable. La ventilation par zone d'entreprises est la suivante :( NOTA Voir tableau page 2807 ).
