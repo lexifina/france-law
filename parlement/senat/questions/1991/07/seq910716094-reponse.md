@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910716094
+
+- Question : [SEQ910716094](seq910716094.md) — Carrière des conservateurs de bibliothèques de l'Etat
+
+## Réponse
+
+*Éducation, JO du 1992-03-12, page 617*
+
+Réponse. - Le décret n° 92-26 du 9 janvier 1992 portant statut particulier du corps des conservateurs des bibliothèques et du corps des conservateurs généraux des bibliothèques vient de doter le personnel scientifique des bibliothèques d'un statut en tout point similaire à celui instauré pour le corps des conservateurs du patrimoine relevant du ministère de la culture et de la communication. Le nouveau statut crée deux corps : un corps des conservateurs des bibliothèques et un corps des conservateurs généraux des bibliothèques. Les grilles indiciaires ainsi que les modalités d'avancement dans le corps des conservateurs des bibliothèques qui se subdivise en trois grades, sont alignées sur celles des conservateurs du patrimoine, de façon à permettre une mobilité optimale entre les différents corps de conservation. Le corps des conservateurs généraux des bibliothèques comporte un seul grade comprenant quatre échelons, l'accès à ce corps se faisant au choix parmi les conservateurs des bibliothèques en chef et les conservateurs de première classe inscrits au tableau d'avancement des conservateurs en chef. Les candidats reçus aux concours de recrutement des conservateurs des bibliothèques effectuent une scolarité de dix-huit mois à l'Ecole nationale supérieure des sciences de l'information et des bibliothèques, établissement public à caractère scientifique, culturel et professionnel, dont l'organisation et les modalités de fonctionnement sont définies par le décret n° 92-25 du 9 janvier 1992. L'ensemble de ces dispositions, qui prennent effet à compter du 1er janvier 1991, garantissent aux conservateurs des bibliothèques une situation et des perspectives de carrière en tout point identiques à celles des conservateurs du patrimoine.
