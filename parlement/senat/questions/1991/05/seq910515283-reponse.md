@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910515283
+
+- Question : [SEQ910515283](seq910515283.md) — Taux d'invalidité des laryngectomies et trachéotomies
+
+## Réponse
+
+*Affaires sociales, JO du 1992-10-15, page 2343*
+
+Réponse. - Un groupe d'experts a été choisi en 1987 afin de réfléchir à l'élaboration d'un barème indicatif susceptible de remplacer l'actuel guide-barème des anciens combattants et victimes de guerre, généralement jugé dépassé par les associations et les utilisateurs, pour l'évaluation des taux d'incapacité ouvrant droit aux prestations prévues par la loi du 30 juin 1975. Il lui appartenait de tenir compte des progrès réalisés en médecine, chirurgie et appareillage et d'apprécier les répercussions d'une déficience sur les capacités fonctionnelles et l'autonomie de la personne handicapée dans sa vie quotidienne. Les taux d'incapacité proposés dans ce nouveau barème atteignent rarement 100 p. 100, que que soit le type de déficience, mais peuvent atteindre 95 p. 100, ceci afin de témoigner que chaque personne handicapée, quel que soit son état de dépendance, a toujours une capacité restante. Cette disposition ne lèse en rien les personnes handicapées et ne remet nullement en cause l'allocation tierce personne, puisque celle-ci peut être attribuée dès le taux de 80 p. 100 d'incapacité. Les associations ont participé à la concertation menée par le ministère des affaires sociales et de l'intégration et ont totalement intégré que ce projet était loin d'accentuer l'exclusion dont souffrent les personnes handicapées, mais cherchait, au contraire, à affirmer le respect de la personne handicapée et donc ses capacités, tout en préservant ses droits.
