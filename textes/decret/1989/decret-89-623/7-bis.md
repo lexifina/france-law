@@ -4,7 +4,7 @@ La Commission des opérations de bourse peut demander que lui soient transmis le
 
 Sont considérées comme liquides au sens de l'article L. 443-4 du code du travail :
 
-1° Les valeurs mobilières qui sont admises aux négociations sur un marché réglementé au sens de l'article L. 421-3 du code monétaire et financier ;
+1° Les valeurs mobilières qui sont admises aux négociations sur un marché réglementé français ou étranger ;
 
 2° Les actions ou parts d'organismes de placement collectif en valeurs mobilières à vocation générale relevant du chapitre Ier du présent décret.
 
