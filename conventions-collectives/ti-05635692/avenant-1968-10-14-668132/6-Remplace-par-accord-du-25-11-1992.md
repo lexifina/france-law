@@ -1,3 +1,0 @@
-# Article 6 **Remplacé par accord du 25-11-1992**
-
-Lorsque, après échec des tentatives de conciliation, se manifeste au sein de la commission un désaccord persistant sur l'interprétation d'un texte légal ou réglementaire ou d'une disposition de la convention collective, ou sur la solution à donner aux différends dont elle est saisie par les commissions régionales paritaires du crédit populaire ou directement, les parties peuvent soit recourir à l'arbitrage, soit porter directement le désaccord devant le ministre compétent, selon une procédure identique à celle prévue par l'article 14 de la convention collective.

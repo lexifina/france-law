@@ -1,5 +1,0 @@
-# Article 16 **Remplacé par accord du 25-11-1992**
-
-Conformément aux dispositions légales, les représentants du personnel sont désignés pour deux ans parmi les membres élus aux comités d'entreprise ou d'établissement de l'ensemble des entreprises du groupe. La répartition des sièges s'effectue sur la base des résultats des dernières élections (nombre d'élus titulaires), arrêtés au 15 octobre des années paires à la proportionnelle et au plus fort reste. En cas d'égalité des restes, le ou les sièges en balance seraient attribués de sorte que soit respectée au mieux la représentation des organisations syndicales au sein des comités d'entreprise globalement, tous collèges confondus.
-
-Lorsqu'un membre du comité de groupe perd la qualité de membre élu d'un comité d'entreprise ou d'établissement, il conserve la faculté d'assurer son mandat au comité de groupe, jusqu'au renouvellement du comité, avec l'accord de son organisation syndicale.
