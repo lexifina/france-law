@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880209740
+
+- Question : [SEQ880209740](seq880209740.md) — Développement de l'automatisation dans l'administration
+
+## Réponse
+
+*Fonction publique, JO du 1988-04-21, page 544*
+
+Réponse. -La recherche d'une meilleure productivité de l'administration est, depuis deux ans, une préoccupation constante du Gouvernement. Cet effort doit être mené avec d'autant plus de détermination que l'automatisation d'une grande partie des tâches administratives est rendue possible par les nouvelles technologies de l'informatique, de la bureautique et de la télématique. Cantonnées pendant longtemps aux activités de gestion pure telles que la rémunération des personnels ou la comptabilité, les nouvelles technologies de l'information se sont étendues, à un rythme rapide à partir des années quatre-vingt, à l'ensemble des tâches administratives, les nouveaux matériels regroupés sous le vocable de " bureautique " permettant d'accélérer la saisie et la transmission des informations, d'améliorer la mise en forme des dossiers et conduisant ainsi à faciliter la prise des décisions. La généralisation de l'emploi de ces appareils, leur mise en communication sousforme de réseaux structurés peuvent certainement accroître dans une proportion non encore tout à fait mesurable la productivité de l'administration. Responsables et observateurs sont généralement d'accord pour penser qu'aucun secteur de l'administration ne pourra être soustrait à cette modernisation qui peut être d'autant plus poussée que l'offre technologique est diversifiée et que les matériels peuvent être adaptés à tous les types d'activités. C'est donc dans l'ensemble de l'administration qu'il pourra être désormais possible de dégager des gains de productivité par l'automatisation d'une partie des tâches administratives.
