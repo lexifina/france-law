@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900811417
+
+- Question : [SEQ900811417](seq900811417.md) — Changement du logo de la Bibliothèque nationale
+
+## Réponse
+
+*Culture, JO du 1990-12-20, page 2695*
+
+Réponse. - Des informations inexactes semblent avoir circulé sur le changement de logo de la Bibliothèque nationale, effectivement opéré en 1990. C'est en 1987 qu'avait été retenu un premier logo, qui n'avait pas fait l'unanimité au sein de l'établissement et dont très vite les limites étaient apparues : caractère " fermé " d'une image carrée ; défaut de lisibilité en version monochrome ou miniaturisée ; absence de ligne graphique associée. Dans le cadre d'une politique de communication plus active, visant à dynamiser son image extérieure et à la tourner davantage vers l'avenir, la Bibliothèque nationale a passé avec une agence spécialisée un contrat pour la recherche d'un nouveau logo et la définition d'une véritable ligne graphique. Le coût de cette prestation s'élève au total à 160 110 F. La première phase s'est achevée avec l'adoption du logo proprement dit ; la seconde sera réalisée avant la fin de l'année 1990, avec la mise au point des documents type à utiliser sur les supports suivants : affiches, papier à lettres, enveloppes, cartes de visite, dossiers de presse, gammes d'édition scientifique et grand public (principes de couverture et de mise en page). Sur le plan juridique, toutes dispositions ont été prises pour garantir à la Bibliothèque nationale sa pleine et entière liberté quant à l'utilisation dans l'avenir du logo et de la ligne graphique, ainsi que pour le choix des prestataires de service qui réaliseront ultérieurement les documents d'exécution de tel ou tel des supports utilisant le nouveau logo. Il convient enfin de remarquer l'accueil très positif réservé à ce logo par de nombreux professionnels de la communication, extérieurs à l'établissement.
