@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910414799
+
+- Question : [SEQ910414799](seq910414799.md) — Simplification du système de l'impôt sur le revenu
+
+## Réponse
+
+*Budget, JO du 1991-08-08, page 1698*
+
+Réponse. - Le conseil des impôts n'a pas proposé de diminuer le nombre de tranches du barème de l'impôt sur le revenu : il a seulement montré qu'une telle diminution se traduirait par des variations limitées de la pression fiscale mesurée par rapport au revenu imposable. Il a également noté que cette solution entraînerait des variations importantes des cotisations d'impôt et nécessiterait la mise en place de barèmes différents selon les situations de famille. Cette démonstration fournit de précieux éléments de réflexion sur la problématique de la simplification des règles fiscales. Cela dit, le Gouvernement considère, comme le conseil des impôts, qu'une retenue à la source de l'impôt sur le revenu ne pourrait être correctement gérée que si son institution s'accompagnait ou était précédée d'une simplification importante de la législation de l'impôt sur le revenu. Le conseil des impôts a également souligné que le système français des prélévements obligatoires présentait, par rapport aux systèmes étrangers, l'originalité de comporter moins d'impôt sur le revenu et davantage de cotisations sociales et d'impôt sur la consommation. Or, à produit simplement constant, une simplification significative des règles d'assiette et de calcul de l'impôt sur le revenu ne pourrait être conduite sans remettre en cause divers abattements, exonérations ou déductions, ce qui se traduirait par une nouvelle répartition de la charge fiscale entre les contribuables dont les incidences économiques et sociales devraient être mesurées avec soin. Les perspectives d'instauration d'une retenue à la source sont à apprécier dans ce contexte.
