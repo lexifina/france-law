@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870506327
+
+- Question : [SEQ870506327](seq870506327.md) — Projet de création d'une ligne ferroviaire à grande vitesse entre Barcelone (Espagne) et la frontière française
+
+## Réponse
+
+*Transports, JO du 1987-07-09, page 1096*
+
+Réponse. -Il est certain qu'en matière de transport de voyageurs, une liaison ferroviaire à grande vitesse entre la France et Barcelone apporterait un net progrès par rapport aux services actuels, et serait source d'attractivité pour les villes concernées côté français sur cet axe Barcelone - Perpignan - Narbonne et au-delà vers Marseille, Lyon ou Toulouse. Pour les transports de marchandises, elle pourrait constituer une réponse aux besoins nouveaux de développement des échanges entre l'Espagne et les pays du nord de la C.E.E., qui résultent en particulier de l'élargissement de la Communauté. Ces échanges représentent en effet pour la France un fort potentiel de trafic de transit possible par voie terrestre, dont il convient de faire bénéficier nos entreprises de transport, notamment la S.N.C.F., s'agissant de longues distances propices au transport ferroviaire et considérant que la part du pavillon français sur les autres modes est beaucoup plus incertaine ence domaine du transit. Il reste cependant à chiffrer la rentabilité de cet éventuel projet, à la fois pour la S.N.C.F. et pour les activités régionales ; il pourrait en effet conduire à exiger de certains secteurs d'activité régionale, qui vivent des trafics transfrontaliers, des efforts d'adaptation allant bien au-delà des simples réponses à la libéralisation des échanges au sein de la Communauté européenne. S'agissant d'un projet international, il relève de la compétence du Gouvernement espagnol et celui-ci n'a pour l'instant pas saisi le Gouvernement français du projet que la Généralité de Catalogne a fait étudier du point de vue de sa faisabilité technique.
