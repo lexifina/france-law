@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508688
+
+- Question : [SEQ980508688](seq980508688.md) — Date de paiement des pensions d'assurance vieillesse
+
+## Réponse
+
+*Emploi, JO du 1998-12-24, page 4128*
+
+Réponse. - Conformément à l'article R. 355-2 du code de la sécurité sociale qui a institué le paiement mensuel des pensions de retraite du régime général de la sécurité sociale, ces pensions sont mises en paiement le huitième jour du mois suivant celui au titre duquel elles sont dues. Cette date de versement trouve sa justification dans le calendrier des encaissements et des tirages du régime général de sécurité sociale. Cette sortie d'argent massive fait en effet immédiatement suite à d'importantes rentrées - encaissement de cotisations - vers le 5 de chaque mois. Un versement anticipé ne permettrait pas d'en bénéficier et obligerait le régime général à recourir à des emprunts alors qu'il est sur le point de recevoir les sommes susceptibles de couvrir ce décaissement. Cette mesure coûterait, en 1999, pour le seul régime général, plus de 350 millions de francs au titre des intérêts liés à la perte de rémunération de la trésorerie et au recours aux avances de la Caisse des dépôts et consignations. Par ailleurs, outre son coût en trésorerie, cette mesure s'inscrirait en pleine contradiction avec la limitation du recours à des ressources non permanentes qui trouve sa traduction dans l'autorisation d'un plafond d'avances de trésorerie par le Parlement. Par exemple, si cette mesure était appliquée au mois de décembre 1998, le besoin de trésorerie estimé à - 18,5 milliards de francs le 1er décembre serait porté à - 44,5 milliards de francs et se maintiendrait à ce niveau critique pendant plusieurs jours. Pour ces raisons, la mise en paiement des pensions de retraite au premier jour du mois n'est pas envisageable.
