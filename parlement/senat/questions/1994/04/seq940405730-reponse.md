@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940405730
+
+- Question : [SEQ940405730](seq940405730.md) — Difficultés du secteur fruitier
+
+## Réponse
+
+*Agriculture, JO du 1995-02-23, page 434*
+
+Réponse. - La régulation des importations des fruits et légumes est principalement assurée par le mécanisme des échanges avec les pays tiers, tel que le prévoit le règlement de base no 1035/72. Le nouveau régime du prix d'entrée prévu par le cycle de l'Uruguay remplacera le mécanisme précédent du prix de référence, et sera mis en place pour chaque produit concerné à partir du début de leur campagne 1995. La consolidation du mécanisme des importations de fruits et légumes qui ne pourra plus être remis en question au niveau de l'Organisation mondiale du commerce, comme ce fut le cas précédemment, renforce la protection communautaire. Sans négliger l'impact des pommes de l'hémisphère Sud sur le marché communautaire, les difficultés rencontrées par ce secteur sont également dues à la surproduction structurelle et à une certaine inadaptation variétale du verger. Cette situation conduit à des prix peu rémunérateurs pour les producteurs, ce qui perturbe cette filière fortement utilisatrice de main-d'oeuvre. Ce constat a amené les autorités françaises à demander la mise en oeuvre d'un plan d'arrachage des vergers de pommiers dans la Communauté. Le dispositif mis en place par le règlement du conseil no 1890/94 prévoit le versement d'une prime de 5 000 écus par hectare pour l'arrachage total des surfaces éligibles et de 3 500 écus par hectare en cas d'arrachage partiel du verger. Sans attendre le résultat de la suppression des excédents structurels, les pouvoirs publics ont mis en place des mesures de soutien permettant de consolider la situation financière des entreprises, et ont engagé les producteurs à conquérir de nouveaux marchés à l'exportation sur pays tiers, profitant ainsi de l'ouverture que doit entraîner la signature des accords du commerce international.
