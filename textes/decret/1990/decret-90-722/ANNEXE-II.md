@@ -1,39 +1,39 @@
 # Article ANNEXE II
 
-1. Domaines des DESS
+1. Spécialité ingénierie, gestion technique et architecture
 
-Chimie.
+Construction et bâtiment.
 
-Electronique-génie.
+Centres techniques.
 
-Génie civil.
+Logistique et maintenance.
 
-Génie des procédés.
+2. Spécialité infrastructures et réseaux
 
-Informatique.
+Voirie, réseaux divers (VRD).
 
-Mathématiques appliquées et sciences sociales.
+Déplacements et transports.
 
-Mathématiques.
+3. Spécialité prévention et gestion des risques
 
-Mécanique-génie mécanique.
+Sécurité et prévention des risques.
 
-Physique.
+Hygiène, laboratoires, qualité de l'eau.
 
-Sciences de l'Univers.
+Déchets, assainissement.
 
-Sciences de la vie.
+Sécurité du travail.
 
-Sciences et technologie industrielles.
+4. Spécialité urbanisme, aménagement et paysages
 
-2. Domaines des DEA
+Urbanisme.
 
-Mathématiques et informatique.
+Paysages, espaces verts.
 
-Physique et sciences pour l'ingénieur.
+5. Spécialité informatique et systèmes d'information
 
-Sciences de la Terre et de l'Univers.
+Systèmes d'information et de communication.
 
-Chimie.
+Réseaux et télécommunications.
 
-Biologie, médecine et santé.
+Systèmes d'information géographiques (SIG), topographie.
