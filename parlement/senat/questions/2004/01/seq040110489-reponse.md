@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040110489
+
+- Question : [SEQ040110489](seq040110489.md) — Situation de l'Agence France Presse
+
+## Réponse
+
+*Culture, JO du 2004-02-26, page 462*
+
+L'Agence France-Presse fait partie des trois premières agences de presse mondiales. C'est un atout pour la presse, pour le rayonnement de la France, et pour les équilibres démocratiques de l'information dans le monde. Sa situation économique, malgré un dynamisme certain ayant conduit au renforcement de ses positions commerciales sur plusieurs marchés, reste cependant fragile. L'enjeu essentiel pour l'Agence est aujourd'hui de mettre en oeuvre une stratégie de développement prenant en compte les mutations technologiques qui affectent le marché mondial de l'information et la concurrence des autres agences de presse. En signant avec l'Agence le 20 novembre dernier un contrat d'objectifs et de moyens, l'Etat a choisi de l'accompagner afin de l'aider à maintenir sa position internationale tout en lui permettant de garantir la qualité de son information. L'Etat s'est ainsi engagé sur l'évolution de ses abonnements pour les cinq prochaines années dans le cadre de ce contrat. Cet effort renouvelé se traduit pour 2004 par une augmentation substantielle des abonnements de l'Etat à l'Agence France-Presse. Ces derniers s'élèvent en effet pour 2004 à 103,2 millions d'euros, soit une progression, par rapport aux crédits votés pour 2003, de 3 %. En contrepartie de cet effort financier de l'Etat, l'Agence France-Presse devra s'engager à parvenir à l'équilibre financier dans les quatre années à venir grâce au développement de ses recettes commerciales et à un effort persévérant de maîtrise de sa gestion. Le contrat d'objectifs et de moyens constitue donc une chance pour l'Agence. Il lui permettra de retrouver l'équilibre économique et les moyens de son développement mondial. Sa mise en oeuvre devra être le fruit d'un engagement collectif de l'ensemble de ses personnels.
