@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900208431
+
+- Question : [SEQ900208431](seq900208431.md) — Statut des assistantes maternelles employées par les services d'aide sociale à l'enfance des départements
+
+## Réponse
+
+*Affaires sociales, JO du 1990-10-11, page 2197*
+
+Réponse. - La réflexion aujourd'hui engagée sur le statut des assistantes maternelles a pour objectifs de mieux prendre en compte la diversité des métiers qui s'exercent dans ce cadre et d'en améliorer les conditions d'exercice afin de promouvoir la qualité de l'accueil des enfants. Pour les assistantes maternelles employées par des services d'aide sociale à l'enfance ou des institutions de placement familial privées, qui assurent l'accueil à temps complet d'enfants dont la famille est en difficulté, il apparaît en premier lieu indispensable d'organiser une réelle formation en début d'emploi ; tout progrès éventuel de la rémunération ne peut être que lié à cette propriété. La question de l'amélioration de la couverture sociale de ces assistantes maternelles, qui passe par un régime de cotisations sociales sur salaire réel et non plus forfaitaire comme actuellement, est en ce moment à l'étude. La stabilité de l'emploi dépend essentiellement des besoins en matière deplacement familial de mineurs mais ne peut être que favorisée par des efforts de formation qui devraient inciter les personnes à passer vers d'autres activités du secteur social. Les modifications ainsi envisageables passent par une révision de la loi n° 77-505 du 17 mai 1977, qui n'est pas remise en cause comme cadre d'organisation du statut des assistantes maternelles : en effet cette activité professionnelle présente des spécificités (agrément, travail à domicile, contrat de placement par enfant, nécessité de suivi de l'enfant par une même personne compte tenu de la dimension affective dans ce travail d'accueil...) difficilement compatibles avec les principes caractérisant les statuts de la fonction publique.
