@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971204731
+
+- Question : [SEQ971204731](seq971204731.md) — Réorganisation du service public de La Poste
+
+## Réponse
+
+*Industrie, JO du 1998-01-08, page 103*
+
+Réponse. - La loi du 2 juillet 1990 relative à l'organisation du service de La Poste et des Télécommunications et les dispositions du cahier des charges prévoient que le contrat de plan signé avec l'Etat précise la contribution de La Poste à la politique d'aménagement du territoire avec l'objectif majeur d'assurer un service public de qualité sur l'ensemble du territoire. La négociation du nouveau contrat d'objectifs et de progrès portant contrat de plan qui vient de s'engager est donc l'occasion de redéfinir en concertation avec les personnels et toutes les parties intéressées, notamment les élus, les grandes orientations en matière de présence postale et de contribution de La Poste à l'aménagement du territoire. Dès son arrivée au Gouvernement, le ministre a demandé à La Poste de mener une concertation approfondie avec les élus afin de leur apporter toutes les informations nécessaires sur les projets de réorganisation de ses services et de prendre en compte leurs remarques. Cette position a été constamment rappelée par le ministre, tant dans les réponses aux questions posées par les parlementaires de toutes tendances que dans les différents contacts avec ceux-ci ainsi qu'avec les représentants de l'Association des maires de France ou de l'Association des présidents de conseils généraux et d'autres associations représentatives d'élus. Cela ne saurait faire obstacle à une concertation particulièrement étroite avec des parlementaires de la majorité qui soutiennent en particulier la politique du Gouvernement à l'égard de La Poste. Tous les élus, nationaux ou locaux, qu'ils appartiennent à la majorité ou à l'opposition, ne peuvent que se sentir concernés par la volonté exprimée par le ministre de faire évoluer La Poste dans la transparence et la concertation.
