@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990616857
+
+- Question : [SEQ990616857](seq990616857.md) — Statut des maîtres-chiens et des chiens de sauvetage aquatique
+
+## Réponse
+
+*Intérieur, JO du 1999-07-22, page 2506*
+
+Réponse. - L'honorable parlementaire attire l'attention du ministre de l'intérieur sur l'opportunité de reconnaître aux maîtres-chiens sauveteurs aquatiques un brevet spécifique. L'utilité de ces équipes cynophiles pouvant s'avérer indispensable, tant à l'occasion d'activités nautiques que lors d'inondations, il demande que le brevet de maître-chien sauveteur aquatique soit reconnu au même titre que celui de maître-chien de recherche et de sauvetage en décombres, de maître-chien de recherche de personnes égarées ou de maître-chien d'avalanche. Les diplômes actuels, reconnus par la législation, sanctionnent la compétence d'une équipe cynotechnique composée d'une personne, maître-chien, et de l'animal. La qualification cesse d'être valable lorsque l'équipe se disperse. En matière de sauvetage aquatique, ce sont le décret nº 77-1177 du 20 octobre 1977 modifié relatif à la surveillance et à l'enseignement des activités de natation et les arrêtés des 20 octobre et 26 juin 1991 qui définissent l'obligation de surveillance des baignades et autres activités de natation et précisent les qualifications obligatoires pour assurer ces missions, à savoir les diplômes conférant le titre de maître-nageur sauveteur et le brevet national de sécurité et de sauvetage aquatique. Les titulaires de ces diplômes, en fonction du site sur lequel ils exercent, peuvent utiliser différents moyens de sauvetage tels hélicoptères, bateaux, scooters des mers et se font parfois assister de chiens pour tracter les personnes en difficulté ou des embarcations légères. Il ne semble pas nécessaire d'ajouter une qualification supplémentaire au cadre réglementaire actuellement en place.
