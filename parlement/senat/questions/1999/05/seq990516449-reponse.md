@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990516449
+
+- Question : [SEQ990516449](seq990516449.md) — Conseils d'architecture, d'urbanisme et de l'environnement
+
+## Réponse
+
+*Culture, JO du 1999-08-19, page 2775*
+
+Réponse. - Dans le cadre des travaux préparatoires pour la révision éventuelle de la loi de 1977 sur l'architecture, la ministre de la culture et de la communication a souhaité qu'un groupe de travail spécifique réfléchisse aux modifications qui pourraient concerner les CAUE. Ce groupe de travail qui comprend des représentants des élus, maires et conseillers généraux, a réexaminé les missions des CAUE, leur rôle auprès des différents publics (particuliers, élus, maîtres d'ouvrage et scolaires). La réflexion doit se poursuivre, notamment sur leur financement, mais la ministre de la culture et de la communication peut déjà préciser à l'honorable parlementaire qu'elle désire conforter le rôle des CAUE, tout particulièrement en matière de sensibilisation, de pédagogie et de formation à la qualité architecturale et urbaine. La question des personnels n'a pas été directement évoquée par le groupe de travail, mais la ministre de la culture et de la communication peut annoncer que le statut des CAUE sous forme d'assocation ne paraît pas devoir être remis en cause. Par ailleurs, la mise en place d'une convention collective nationale est à l'étude par la Fédération nationale des CAUE. Les négociations sont actuellement en cours avec les syndicats des personnels et la signature de cet accord devrait intervenir fin 1999. Le ministère de la culture et de la communication sera bien évidemment attentif au bon déroulement de ce processus, mais la ministre de la culture et de la communication rappelle que son administration n'a pas de pouvoir décisionnel pour des questions relatives à des personnels de statut privé.
