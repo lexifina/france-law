@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911017698
+
+- Question : [SEQ911017698](seq911017698.md) — Conséquences de la politique agricole commune en Bretagne
+
+## Réponse
+
+*Agriculture, JO du 1992-02-27, page 485*
+
+Réponse. - La proposition de réforme de la politique agricole commune présentée par le commissaire Mac Sharrry a fait l'objet de critiques de tous les ministres de l'agriculture de la Communauté économique européenne. La délégation française a notamment demandé que cette réforme ne soit pas précipitée, qu'elle soit globale, progressive et que son financement soit assuré. C'est selon ces axes que le ministre de l'agriculture et de la forêt négociera une réforme qui ne doit pas porter atteinte aux principes fondamentaux de cette politique. Le plan d'adaptation de l'agriculture française a été mis en oeuvre d'après les orientations du Président de la République. Il prévoit entre autres choses la poursuite du dégrèvement du foncier non bâti pour les prés et les herbages et des mesures innovantes et très importantes pour les préretraites. Ces mesures permettront d'accélérer la restructuration des exploitations et de promouvoir des systèmes de production plus extensifs. Enfin les efforts destinés à renforcer la compétitivité de l'appareil de transformation agro-alimentaire française se poursuivent avec le concours de la Communauté économique européenne. La commission a ainsi adopté le 13 décembre 1991 le programme des investissements concernant la transformation et la commercialisation des produits agricoles et sylvicoles pour la France métropolitaine. Le plan de financement indicatif précise le coût total des priorités, soit 662 millions d'écus (4.634 MF) dont 102 millions d'écus à la charge de la communauté, pour la période 1991-1993. L'ensemble de ces actions concourt au maintien d'un secteur agricole puissant sur l'ensemble du territoire national.
