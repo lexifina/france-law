@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920119382
+
+- Question : [SEQ920119382](seq920119382.md) — Statut des fonctionnaires ne relevant pas des cadres d'emplois
+
+## Réponse
+
+*Intérieur, JO du 1992-04-09, page 887*
+
+Réponse. -Aux termes de l'article 4 de la loi n° 84-53 du 26 janvier 1984, les fonctionnaires territoriaux appartiennent à des cadres d'emplois répartis en quatre catégories : A, B, C et D. Chaque statut particulier précise dans quelle catégorie est classé le cadre d'emplois. Les statuts particuliers pris en application de la loi du 26 janvier 1984 concernent jusqu'à présent les fonctionnaires des filières administrative, technique et culturelle, les sapeurs-pompiers professionnels et les fonctionnaires nommés dans des emplois permanents à temps non complet. Le Gouvernement s'attache à doter l'ensemble des fonctionnaires territoriaux de statuts particuliers, notamment dans les filières sportive et médico-sociale. Les emplois spécifiques auxquels l'honorable parlementaire fait allusion sont appelés à disparaître. Les titulaires de ces emplois sont ou seront intégrés dans les cadres d'emplois. A titre transitoire, ceux de ces fonctionnaires qui ont demandé ou demanderont à ne pas être intégrés pourront conserver leur emploi jusqu'à leur départ de la collectivité ou leur nomination dans un autre emploi, ce départ ou cette nomination entraînant la disparition de l'emploi spécifique. Les collectivités ne pourront plus créer de tels emplois, sauf à recourir à des agents contractuels. Dans ces conditions, il n'est pas envisagé d'élaborer un décret pour rattacher ces emplois aux catégories A, B, C et D de fonctionnaires. Les dispositions transitoires prévues par l'article 107 du décret n° 85-643 du 26 juin 1985 applicables aux centres de gestion et les dispositions du décret n° 89-230 du 17 avril 1989 applicables aux commissions administratives paritaires sont suffisantes.
