@@ -1,0 +1,19 @@
+# Délibération portant avis sur un modèle-type de traitement automatisé d'informations nominatives relatif à la gestion par les directions départementales de l'agriculture et de la forêt des aides allouées aux exploitants agricoles.
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 90-108
+- Date : 1990-10-16
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017653058
+
+La Commission Nationale de l'Informatique et des Libertés ; Vu la Convention du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel, Vu la loi n° 78-17 du 6 janvier 1978 relative à l'Informatique, aux Fichiers et aux Libertés ; Vu le décret n° 78-774 du 17 juillet 1978 pris pour l'application des chapitres Ier à IV et VII de la loi du 6 janvier 1978 ; Vu le projet d'arrêté du Ministre de l'Agriculture et de la Forêt ;
+
+Après avoir entendu Monsieur René TEULADE, Commissaire en son rapport et Madame Charlotte-Marie PITRAT, Commissaire du Gouvernement en ses observations ; Considérant que le traitement automatisé d'informations nominatives mis en oeuvre par le Ministère de l'Agriculture et de la Forêt a pour objet de faciliter la gestion par les Directions Départementales de l'Agriculture et de la Forêt des dossiers d'aides versées aux exploitants agricoles ; qu'il a pour seule finalité d'améliorer le suivi et d'accélérer le règlement des aides, ce qui exclut toute autre utilisation - notamment commerciale - des informations collectées ; Considérant que les catégories d'informations traitées sont relatives à l'identité du bénéficiaire de l'aide, à l'exploitation, aux organismes payant les prestations d'assurance maladie ;
+
+Considérant que les destinataires de ces informations sont : le centre national pour l'amélioration des structures des exploitations agricoles (CNASEA), les associations départementales pour l'amélioration des structures des exploitations agricoles (ADASEA), les offices agricoles : l'office national interprofessionnel du lait (ONILAIT), l'office national interprofessionnel des viandes, de l'élevage et de l'aviculture (OFIVAL), l'institut national d'études et de recherches montagnardres (INERM), les trésoreries départementales ; que le ministère de l'agriculture et de la forêt pourra à des fins statistiques être destinataire d'informations anonymes ; Considérant que toute aide gérée par les Directions départementales de l'agriculture et de la forêt, même non prévue initialement, pourra faire l'objet de ce traitement, dès lors que les conditions de mise en oeuvre, les informations nominatives collectées et les organismes destinataires des données restent identiques ; que toutefois, la Commission devra être informée annuellement de l'octroi de nouvelles aides nationales ou communautaires répondant à ces caractéristiques ;
+
+Considérant que la durée de conservation des informations est de trois ans pour les aides annuelles ; que celle des informations collectées au titre des aides à la modernisation n'excède pas la durée nécessaire à la gestion et au suivi des dossiers ; Considérant que ce traitement constitue un modèle-type national auquel les directeurs départementaux de l'agriculture et de la forêt devront se référer par une demande d'avis de conformité, préalablement à sa mise en oeuvre ; Considérant que conjointement à cette demande d'avis, devront être fournis un engagement de conformité au modèle-type M 108-458 et une annexe portant sur les mesures adoptées par chacune des directions départementales de l'agriculture et de la forêt pour assurer la sécurité et la confidentialité des données ; Prend acte qu'aucun transfert de données entre le territoire français et l'étranger ne sera opéré.
+
+Emet un avis favorable au projet d'arrêté qui lui a été présenté. Le Président, Jacques FAUVET.
