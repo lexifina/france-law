@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900610282
+
+- Question : [SEQ900610282](seq900610282.md) — Transfert de l'école d'administration de la direction du commissariat de la marine de Cherbourg à Toulon
+
+## Réponse
+
+*Défense, JO du 1990-07-05, page 1475*
+
+Réponse. - Les études concernant le regroupement possible de l'école du commissariat de la marine de Toulon et de l'école d'administration de la marine de Cherbourg ont permis de montrer l'intérêt d'opérer ce regroupement à Toulon. Il apparaît en effet que l'école du commissariat de la marine offre toutes les infrastructures nécessaires pour accueillir les promotions d'officiers d'administration actuellement formées à Cherbourg et que des économies de fonctionnement non négligeables peuvent ainsi être obtenues. De surcroît, des raisons pédagogiques évidentes militent en faveur de la formation sur un même site des cadres spécialisés de la marine. L'impact de cette mesure est tout à fait mineur pour l'agglomération de Cherbourg puisque l'école d'administration de la marine emploie actuellement, outre quelques militaires, huit personnels civils dont le reclassement ne soulève aucune difficulté particulière. Par ailleurs, la présence militaire à Cherbourg restera importante et continuera, comme par le passé, à contribuer au développement économique de la région. Ainsi, le calendrier de construction des sous-marins de nouvelle génération maintiendra l'activité de l'arsenal des constructions navales à un très haut niveau. Les investissements industriels massifs qui y sont réalisés par la direction des constructions navales sont l'indication de l'importance que revêt cette ville dans le dispositif de la défense. Forte d'une présence de 9 500 personnels civils et militaires, la défense restera à l'avenir le partenaire essentiel de l'agglomération de Cherbourg.
