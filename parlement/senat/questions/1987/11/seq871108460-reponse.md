@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871108460
+
+- Question : [SEQ871108460](seq871108460.md) — Arrêts de fonctionnement des feux de signalisation à Paris
+
+## Réponse
+
+*Industrie, JO du 1988-02-25, page 257*
+
+Réponse. -L'exploitation et l'entretien des feux tricolores de signalisation routière dans la capitale ont été confiés à Electricité de France dans le cadre du traité de concession pour la distribution d'énergie électrique signé en 1955. Actuellement, 1 278 installations sont en service et leur nombre croît d'environ 2 p. 100 par an. En matière de type de commande, le parc actuel utilise des technologies différentes. Les systèmes électromécaniques concernent 40 p. 100 du parc, les systèmes électroniques 19 p. 100 et les systèmes à microprocesseurs 41 p. 100. Ces systèmes réagissent différemment suivant la nature des perturbations pouvant les affecter (vibrations, humidité, froid, variations de tension, charges électrostatiques, etc.) Durant les mois de janvier et février 1987, la conjugaison de problèmes techniques d'alimentation et d'une situation climatique exceptionnelle de froid et de neige a provoqué une augmentation sensible du nombre d'incidents sur les installations. De même, durant l'été dernier, un orage particulièrement violent a provoqué la mise en clignotant d'un nombre important de signalisations de carrefours. Ces deux périodes ont nécessité de nombreuses interventions d'agents d'E.D.F. afin d'effectuer des dépannages et de remplacer les composants en avarie. Toutefois, en dehors de ces aléas climatiques, aucune variation significative du nombre de mises en clignotant n'a été détectée et les améliorations sans cesse apportées au matériel utilisé devraient dans l'avenir permettre de faire face à des événements techniques ou climatologiques jugés exceptionnels. Par ailleurs, il convient de préciser que les feux peuvent passer au clignotant soit à la suite d'un incident, soit à la suite d'une décision de police au plan local.
