@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980307051
+
+- Question : [SEQ980307051](seq980307051.md) — Mise à la disposition des chômeurs par France Télécom d'un numéro vert d'appel gratuit
+
+## Réponse
+
+*Économie, JO du 1998-06-11, page 1874*
+
+Réponse. - La loi de réglementation des télécommunications du 26 juillet 1996 a prévu que soient mis en uvre des tarifs spécifiques pour certaines catégories de personnes choisies en raison notamment de leur niveau de revenu ou de leur handicap. La mise en uvre de ce dispositif à caractère social, définie dans le décret nº 97-475 du 13 mai 1997 relatif au financement du service universel, a été interrompue en raison des objections de l'Association des présidents de conseils généraux au système d'attribution des aides retenu pour l'établissement de ces tarifs spécifiques par le précédent gouvernement. De nouvelles modalités de mise en uvre de ce dispositif social sont à l'étude avec l'objectif d'une mise en uvre avant la fin de l'année. Le nouveau projet comprend deux composantes : l'une devrait permettre à plusieurs centaines de milliers de personnes de bénéficier de réductions téléphoniques sur leur facture ; l'autre devrait permettre aux abonnés rencontrant de sérieuses difficultés financières de bénéficier de la prise en charge de leurs éventuels impayés après examen par une commission départementale. Ce dispositif étant prévu dans le périmètre du service universel, France Télécom, l'opérateur public chargé du service universel, sera tenue d'y participer. Les autres opérateurs seront invités à participer à ce dispositif. Cette action participera de manière significative à la prévention et à la lutte contre les exclusions. Elle devrait apporter une contribution forte à la recherche d'emplois par les chômeurs en facilitant leurs moyens de communication avec leurs employeurs potentiels.
