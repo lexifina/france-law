@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871208860
+
+- Question : [SEQ871208860](seq871208860.md) — Service public de l'éducation : suppression de personnels
+
+## Réponse
+
+*Éducation, JO du 1988-03-03, page 286*
+
+Réponse. -Le ministère de l'éducation nationale participe comme les autres administrations de l'Etat à l'effort commun de maîtrise des dépenses publiques, qui entraîne un allégement des effectifs de la fonction publique. Ainsi la loi de finances de 1988 prévoit des suppressions d'emplois au sein des structures administratives de ce ministère. Par contre, contrairement aux années passées, les établissements scolaires du second degré ne se verront par retirer d'emploi de personnel non enseignant. Des mesures visant à accroître la productivité des services et à redéfinir leurs missions sont engagées. Le développement des technologies nouvelles (informatique, bureautique...) est activement poursuivi, des études d'organisation sont menées dans les rectorats, pour permettre à terme la modernisation de la gestion et l'amélioration des conditions de travail des personnels. Dans le même esprit, des " ateliers de modernisation " comprenant des représentants de l'administration et des organisations syndicales se sont tenus de mai à novembre 1987 et ont engagé des réflexions constructives sur le thème de la modernisation des fonctions administratives, techniques, et de service (restauration, entretien, maintenance, santé et action sociale) dans les établissements scolaires. La politique de modernisation du ministère de l'éducation nationale passe par la formation. Le budget de 1987 consacrait à la formation des personnels non enseignants 36 700 000 francs qu'a répartis entre académies le centre de formation administrative. Par ailleurs, une enveloppe spécifique représentant environ 10 p. 100 de la dotation globale sera affectée au financement " d'actions d'orientation ", initiatives concernant la qualité en matière de formation.
