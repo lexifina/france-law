@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871108730
+
+- Question : [SEQ871108730](seq871108730.md) — Distorsion de concurrence au détriment des serristes
+
+## Réponse
+
+*Budget, JO du 1988-02-04, page 151*
+
+Réponse. -Soucieux de ne pas pénaliser les entreprises françaises par des coûts énergétiques supérieurs à la moyenne européenne, le Gouvernement s'est attaché depuis deux ans à réduire la fiscalité sur les combustibles. Il en est ainsi du fioul lourd, du gaz naturel et du fioul domestique, susceptibles d'être utilisés au chauffage des serres. Pour le fioul lourd, la fiscalité a été réduite de 58 p. 100 en deux ans. Le Gouvernement a ainsi ramené la taxation sur ce produit au niveau de la moyenne européenne. En ce qui concerne le gaz naturel, le taux de la taxe grevant les livraisons supérieures à 5 millions de kWh par an est passé au cours de la même période de 0,95 francs à 0,56 francs les 100 kWh (soit une réduction de 42 p. 100). Cette dernière mesure consolide la compétitivité de notre gaz industriel face à celui de nos concurrents européens, puisque son prix toutes taxes comprises reste un des plus bas de la Communauté. S'agissant de la taxe sur le fioul domestique, son taux a été maintenu en valeur constante. Parallèlement, le prix de ce produit n'a cessé de baisser depuis 1985, se situant ainsi dans la moyenne européenne. Enfin, il convient de souligner que la T.V.A. grevant le fioul domestique employé à des usages agricoles, et notamment pour le chauffage des serres, est déductible à concurrence de 50 p. 100 de son montant depuis le 1er janvier 1986. En outre, le taux du remboursement forfaitaire que peuvent demander les agriculteurs qui ne sont pas imposés à la taxe sur la valeur ajoutée (T.V.A.) a été relevé. Les serristes bénéficient donc d'avantages particuliers au regard d'autres catégories socioprofessionnelles. Plus généralement, leur compétitivité se trouve renforcée grâce à l'ensemble des mesures ci-dessus énumérées.
