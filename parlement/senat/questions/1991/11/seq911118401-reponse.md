@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911118401
+
+- Question : [SEQ911118401](seq911118401.md) — Facilités financières et fiscales aux entreprises recrutant des jeunes
+
+## Réponse
+
+*Travail, JO du 1992-04-09, page 895*
+
+Réponse. -L'honorable parlementaire souhaite savoir si une suite sera donnée à la proposition tendant à offrir des " facilités financières et fiscales supplémentaires " aux P.M.E. et aux entreprises artisanales qui font l'effort de recruter et former des jeunes. Outre le crédit d'impôt formation, et la prise en charge partielle du coût de remplacement des salariés en formation dans les P.M.E. de moins de 50 salariés, de nombreux types de contrats permettent déjà à des entreprises d'embaucher et de former des jeunes en bénéficiant d'avantages financiers. Ces avantages sont notamment des exonérations de charges sociales et la prise en charge des coûts de formation des jeunes par les organismes mutualisateurs agréés (voire des coûts de formation des tuteurs dans l'entreprise) ou une défiscalisation correspondant aux dépenses de formation directement effectuées par les entreprises. A la possibilité d'embaucher grâce à ces contrats (contrats d'apprentissage, contrats d'orientation, contrats d'adaptation et de qualification), pour lesquels la rémunération versée au jeune est souvent très inférieure au salaire minimum mensuel, s'ajoute la possibilité d'embaucher avec une exonération de charges sociales patronales des jeunes non qualifiés. De nombreuses P.M.E. bénéficient depuis le 19 octobre 1991 et jusqu'au 31 mai 1992 de cette mesure " exo-jeunes " qui répond à leur demande d'un allégement significatif de charges sociales pour l'embauche de jeunes. Enfin, le Gouvernement envisage la possibilité de considérer certaines dépenses de formation des jeunes comme un investissement immatériel, avec les avantages y afférents ou d'accorder un crédit d'impôt formation supplémentaire, notamment pour l'apprentissage.
