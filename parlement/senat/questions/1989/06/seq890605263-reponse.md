@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890605263
+
+- Question : [SEQ890605263](seq890605263.md) — Prise en charge des frais d'interprètes assistant un avocat commis d'office
+
+## Réponse
+
+*Justice, JO du 1989-09-07, page 1462*
+
+Réponse. - Le respect des droits de la défense exige que tout prévenu, inculpé ou accusé, qui ne peut s'exprimer en français puisse bénéficier des services d'un interprète. Ce principe est intégré parmi les dispositions du code de procédure pénale en ce qui concerne les juridictions d'instruction (articles 102 et 121), la cour d'assises (articles 272 et 343), le tribunal correctionnel (articles 497 et 408) et le tribunal de police (article 535) : les indemnités versées sont déclarées dans tous les cas à la charge de l'Etat et sans recours envers les condamnés (article R. 241-2°). Il va de soi que les personnes qui bénéficient d'un défenseur commis d'office ont également droit à l'assistance d'un interprète. En revanche, la présence de celui-ci lors des entretiens qu'a l'avocat avec son client, à son cabinet ou en maison d'arrêt, ne peut être indemnisée au titre des frais de justice : par nature, en effet, ceux-ci ne peuvent inclure que le remboursement des sommes engagées dans le cadre des actes de la procédure. Une solution au problème soulevé a été trouvée, dans certaines juridictions, par la mise en place de services permanents d'interprètes chargés d'assister les personnes déférées lors des rencontres qu'elles ont avec leurs défenseurs. L'institution de telles permanences ne peut cependant être envisagée que dans des juridictions d'une taille suffisamment importante. Dans les autres cas, l'indemnisation de ces auxiliaires en fonction du temps de présence à la disposition des autorités judiciaires, telle qu'elle est déterminée par l'article R. 122 du code de procédure pénale, devrait permettre d'assurer dans de bonnes conditions les contacts utiles entre l'avocat commis d'office et son client.
