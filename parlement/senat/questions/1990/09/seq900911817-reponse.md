@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900911817
+
+- Question : [SEQ900911817](seq900911817.md) — Garantie de bonne exécution des travaux inscrits au programme d'aménagement d'ensemble
+
+## Réponse
+
+*Équipement, JO du 1991-09-05, page 1881*
+
+Réponse. - Dans les secteurs du territoire de la commune où un programme d'aménagement d'ensemble a été approuvé par le conseil municipal, celui-ci peut mettre à la charge des bénéficiaires d'autorisations de construire tout ou partie des dépenses de réalisation des équipements publics correspondant aux besoins des habitants actuels ou futurs du secteur concerné et rendus nécessaires par la mise en oeuvre du programme d'aménagement. Conformément à l'article 332-10 du code de l'urbanisme, cette participation est exigible sous forme de contribution financière ou, uniquement dans le cas où le demandeur de l'autorisation y a donné son accord, sous forme d'exécution de travaux ou d'apports de terrains. Toutefois, s'agissant de la réalisation d'équipements publics, il ne peut être fait usage de la formule de l'exécution de travaux que dans le respect des dispositions de la loi n° 85-704 du 12 juillet 1985 modifiée relative à la maîtrise d'ouvrage publique et à ses rapports avec la maîtrise d'oeuvre privée. La commune maître d'ouvrage ne peut se démettre des attributions mentionnées à l'article 2 de ladite loi, ne peut confier certaines attributions de la maîtrise d'ouvrage qu'à l'un des mandataires mentionnés à l'article 4 et dans le cadre d'une convention dont le contenu est fixé par l'article 5. Cette convention doit notamment fixer les modalités du contrôle technique, financier et comptable exercé par le maître d'ouvrage aux différentes phases de l'opération. Ainsi c'est dans le strict respect de la loi du 12 juillet 1985 par les maîtres d'ouvrage que réside la meilleure des garanties de qualité des travaux.
