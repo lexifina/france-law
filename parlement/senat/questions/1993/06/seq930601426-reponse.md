@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930601426
+
+- Question : [SEQ930601426](seq930601426.md) — Statut des maîtres auxiliaires
+
+## Réponse
+
+*Éducation, JO du 1993-09-09, page 1590*
+
+Réponse. - Les maîtres auxiliaires relèvent principalement, pour leur gestion, des dispositions du décret n° 62-379 du 3 avril 1962 modifié ainsi que des textes pris pour son application. Ces agents ont d'ores et déjà fait l'objet de différentes mesures destinées à améliorer leur situation, notamment en facilitant leur accès à des corps de fonctionnaires par la voie des concours (externes et internes) de recrutement. De plus, sur le fondement du protocole relatif à la résorption de l'auxiliariat signé le 21 juillet 1993 entre le ministre de l'éducation nationale et plusieurs organisations syndicales, de nouvelles dispositions ont été prévues, dont certaines pourront prendre effet dès la rentrée scolaire 1993. Ces dispositions tendent à faciliter encore les conditions de préparation des concours en particulier pour les maîtres auxiliaires non réemployés (attribution d'un congé formation ou d'allocation d'institut universitaire de formation des maîtres, affectation provisoire sur un poste de surveillant d'externat vacant) et d'accès à des corps de fonctionnaires (organisation, au plus tard à partir de la session 1995 et pour quatre sessions de concours en sus des concours internes existants, de concours internes spécifiques ouverts aux personnels remplissant les conditions de diplômes requis pour accéder aux concours internes existants justifiant de cinq années de service ou de trois années pour les candidats ayant bénéficié d'une admissibilité , dans le cadre desquels les candidats ne subiront que les épreuves correspondant aux épreuves d'admission des concours internes existants). Ainsi ces mesures viennent-elles parachever l'ensemble du dispositif mis en place pour favoriser l'intégration des maîtres auxiliaires.
