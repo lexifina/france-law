@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000122222
+
+- Question : [SEQ000122222](seq000122222.md) — Office franco-allemand pour la jeunesse
+
+## Réponse
+
+*Jeunesse, JO du 2000-08-03, page 2735*
+
+Réponse. - Mme la ministre de la jeunesse et des sports est extrêmement attentive à l'évolution de l'OFAJ, à la nécessaire progression des crédits qui lui sont alloués et à une utilisations optimale de ces moyens dans l'intérêt des jeunes qui participent aux échanges franco-allemands. L'office franco-allemand pour la jeunesse (OFAJ) connaîtra au cours de l'année 2000 un tournant majeur qui se traduira à la fois par le transfert du siège de l'OFAJ de l'Allemagne vers la France et par la mise en uvre progressive de nouvelles orientations à travers la définition de quatre pôles d'intervention (emploi et solidarité, forum société, découvertes et formation interculturelle). Ces mesures visent à prendre davantage en compte les préoccupations exprimées par les jeunes en France et en Allemagne. Afin de soutenir cette démarche de rénovation de l'OFAJ, madame la ministre de la jeunesse et des sports et sa collègue, ministre de la jeunesse d'Allemagne, coprésidentes de l'office, ont souhaité une réévaluation des contributions gouvernementales au budget de l'OFAJ. La contribution française, qui s'élevait à 64 MF en 1999, enregistrera une augmentation de 2 MF en 2000. Cet effort sera poursuivi au cours des deux années à venir, ainsi que le souhait en a été exprimé lors du sommet franco-allemand de Toulouse par le Président de la République et le Premier ministre. Il est établi que la contribution gouvernementale française à l'OFAJ relève du budget général du ministère de la jeunesse et des sports. Ce ministère veille tout particulièrement à verser la contribution française dans des délais et selon des procédures qui permettent à l'OFAJ de gérer au mieux la mise en uvre de son programme d'activités.
