@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880901386
+
+- Question : [SEQ880901386](seq880901386.md) — Taxation du gazole
+
+## Réponse
+
+*Industrie, JO du 1988-12-15, page 1432*
+
+Réponse. - L'analyse de la fiscalité des carburants doit prendre en compte plusieurs aspects : 1° l'écart de taxation entre le supercarburant et le gazole s'accroît. Il a augmenté entre 1980 et 1988 de 68 centimes à 1,43 francs par litre et, malgré des prix hors taxes comparables, le litre de gazole est vendu à la pompe à un prix inférieur à celui d'un litre de supercarburant (respectivement 3,19 francs et 4,88 francs selon l'indicateur moyen calculé par la direction des hydrocarbures du ministère de l'industrie et de l'aménagement du territoire le 10 octobre 1988) ; 2° dans les autres pays de la Communauté européenne, cet écart est très variable : ainsi en R.F.A. la taxe sur le gazole est très proche de celle appliquée sur le supercarburant, alors que dans d'autres pays tels que l'Italie cet écart est,au contraire,très élevé ; 3° la taxe française sur le gazole est l'une des plus élevées d'Europe et l'écart de fiscalité entre le supercarburant et le gazole est aussi l'un des plus importants. Ainsi, les propositions avancées par la Commission des communautés européennes dans le cadre de la préparation du grand marché intérieur et de l'harmonisation des fiscalités des divers Etats membres retiennent une réduction de cette différence de 30 centimes ;4° la fiscalité sur les carburants essence et super se situe dans le haut de la moyenne européenne : 2,94 francs par litre, pour 1,46 francs au Luxembourg, 1,78 francs en R.F.A., 3,91 francs en Italie. C'est sur ces bases qu'il apparaît nécessaire de poursuivre la réflexion sur la taxation des carburants, en prenant bien entendu en compte son incidence sur notre industrie automobile et notre industrie du raffinage, ainsi que la spécificité du secteur des transports routiers.
