@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880700834
+
+- Question : [SEQ880700834](seq880700834.md) — Sous-équipement de la gendarmerie en matière de télécommunication
+
+## Réponse
+
+*Défense, JO du 1988-09-01, page 960*
+
+Réponse. - L'intérêt de la télécopie n'a pas échappé à la gendarmerie nationale qui, comme le souligne l'honorable parlementaire, a diffusé ce procédé jusqu'à l'échelon départemental. L'éventualité d'une dotation plus importante de ce type de matériels est actuellement étudiée en regard des possibilités budgétaires compte tenu de leur coût d'acquisition et surtout de fonctionnement. Toutefois, grâce à l'effort entrepris depuis de nombreuses années, les unités de gendarmerie disposent de moyens de télécommunications modernes et performants, non seulement à partir des réseaux de trasmission départementaux mais aussi grâce au réseau Saphir qui met à leur disposition un système de messagerie qui leur permet de communiquer, en transmission de données, avec n'importe quelle unité du territoire depuis leurs stations fixes mais également à partir de leurs véhicules. Par ailleurs, la gendarmerie réalisera, dès 1989, trois réseaux nouveaux de transmission : Diamant, qui permettra la communication radio-téléphonique cryptée entre les unités de gendarmerie départementale ; Corail, réseau spécifique aux unités de recherches ; et Cristal, destiné aux unités de gendarmerie mobile. Enfin, le remplacement complet des réseaux d'infrastructure actuels par le réseau Rubis, grand programme inscrit dans la loi de programmation militaire, sera réalisé à l'horizon 1995. Il apparaît ainsi que l'équipement actuel et futur de la gendarmerie en matière de télécommunication, particulièrement avancé au plan technologique, la situe en position privilégiée par rapport aux institutions comparables en Europe et dans le monde. Le principe de financement des équipements sur crédits budgétaires ne saurait être remis en cause.
