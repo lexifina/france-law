@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900711047
+
+- Question : [SEQ900711047](seq900711047.md) — Enseignement privé : insuffisance du nombre des créations de postes
+
+## Réponse
+
+*Éducation, JO du 1991-01-17, page 108*
+
+Réponse. - Selon les dispositions de l'article 119-I de la loi de finances pour 1985 (loi n° 84-1208 du 29 décembre 1984), le montant des crédits affectés à la rémunération des personnels enseignants des classes faisant l'objet d'un des contrats prévus aux articles 4 et 5 de la loi n° 59-1557 du 31 décembre 1959 modifiée est fixé chaque année par la loi de finances en fonction des effectifs d'élèves accueillis et des types de formation dispensés dans les établissements d'enseignement public et dans les classes sous contrat des établissements d'enseignement privés, et compte tenu des contraintes spécifiques auxquelles sont soumis les établissements d'enseignement public du fait des conditions démographiques, sociales ou linguistiques particulières. Ces dispositions ont été appliquées pour le calcul du nombre d'équivalents-emplois en vue de la mise sous contrat de nouvelles classes au titre de toutes les rentrées scolaires depuis 1985. La loi de finances pour 1989 a prévu 1 000 contrats supplémentaires correspondant aux 4 200 emplois créés dans l'enseignement public pour la rentrée de 1989, auxquels s'ajoutaient 115 contrats consolidés au titre des moyens accordés en cours d'année 1988. 364 contrats supplémentaires ont en outre été autorisés au titre de la rentrée de 1989 et consolidés au budget de 1990. C'est de 1 364 équivalents-emplois dont les établissements d'enseignement privés de toute appartenance confessionnelle, ou non confessionnels, ont bénéficié au titre de la rentrée de 1989. La loi de finances pour 1990 a créé 1 103 contrats supplémentaires correspondant aux 200 emplois créés dans les établissements publics du premier degré et aux 4 500 emplois créés dans le second degré.
