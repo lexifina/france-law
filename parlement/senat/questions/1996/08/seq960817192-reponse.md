@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960817192
+
+- Question : [SEQ960817192](seq960817192.md) — Récupération de la TVA pour les travaux d'aménagement des rivières
+
+## Réponse
+
+*Budget, JO du 1996-10-24, page 2775*
+
+Réponse. - L'article 54-I de la loi de finances pour 1977 et l'article 2-3 du décret no 89-645 du 6 septembre 1989, pris en application de l'article 42 de la loi de finances rectificative pour 1988 modifiée, excluent du bénéfice du fonds de compensation pour la taxe sur la valeur ajoutée (FCTVA) les dépenses d'investissement réalisées pour le compte de tiers non bénéficiaires du fonds. Cette disposition a pour objet de limiter l'éligibilité au FCTVA aux investissements qui demeurent dans le patrimoine des collectivités attributaires du fonds et sont directement utilisés par elles. Ainsi, les collectivités locales ou leur groupement qui effectuent des travaux d'aménagement des rivières non domaniales, contre les risques d'inondation, ne sont pas susceptibles de recevoir des attributions au titre du FCTVA car les ouvrages ne sont pas destinés à être intégrés dans leur patrimoine. En conséquence, la circulaire FCTVA du 23 septembre 1994 et la circulaire du 17 août 1994 relative aux modalités de gestion des travaux contre les risques d'inondation précisent que les opérations réalisées pour le compte de tiers et non reprises dans les immobilisations de l'organisme de coopération intercommunal seront, par définition, exclues de l'assiette du FCTVA. Il est toutefois rappelé au parlementaire que suite à l'adoption par le comité interministériel du 24 janvier 1994 d'un programme pluriannuel de prévention contre les inondations, le Gouvernement s'est engagé à apporter un concours spécifique au programme décennal d'entretien des rivières en participant au taux de 20 % aux travaux de restructuration effectués sur les cours d'eau non domaniaux par les collectivités locales. Cet engagement est repris dans la circulaire du 17 août 1994 précitée.
