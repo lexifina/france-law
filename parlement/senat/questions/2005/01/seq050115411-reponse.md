@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050115411
+
+- Question : [SEQ050115411](seq050115411.md) — Archéologie préventive
+
+## Réponse
+
+*Culture, JO du 2005-03-17, page 757*
+
+Les modalités d'aides au financement des fouilles archéologiques préventives sont fixées par l'article L. 524-14 du code du patrimoine et par les articles 90 et suivants du décret n° 2004-490 du 3 juin 2004. En vertu de ces dispositions, une société ayant fait exécuter les fouilles archéologiques induites par des travaux peut bénéficier, selon le cas, d'une prise en charge totale ou partielle ou d'une subvention qui ne pourra excéder 50 % du montant du coût de l'opération archéologique. Dans le cas où les fouilles sont induites par la construction ou l'amélioration de logement locatif aidés par l'Etat ou la construction de logement réalisée par une personne physique pour elle-même, le coût de la fouille est pris en charge intégralement. La prise en charge est un droit et est déjà effective. Le contenu de la demande de prise en charge ainsi que la liste des pièces à produire sont définis par l'arrêté du 31 janvier 2005, publié au Journal officiel de la République française du 11 février 2005. Les opérations de fouilles induites par d'autres types de travaux peuvent bénéficier éventuellement de subventions. Les critères d'attribution seront définis par la commission du Fonds national pour l'archéologie préventive. L'arrêté de nomination des membres de cette commission est en cours de publication. Le contenu de la demande de subvention ainsi que la liste des pièces à fournir pour la constitution du dossier complet seront ensuite définis par un arrêté du ministre chargé de la culture et du ministre chargé du budget. La date de publication ouvrira le délai imparti pour l'instruction des demandes reçues depuis l'entrée en vigueur de cette loi. La société devra alors déposer un dossier auprès de la direction régionale des affaires culturelles (DRAC) territorialement compétente.
