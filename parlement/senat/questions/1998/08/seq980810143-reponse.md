@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980810143
+
+- Question : [SEQ980810143](seq980810143.md) — Bilan des activités de télécommerce
+
+## Réponse
+
+*Économie, JO du 1998-10-22, page 3351*
+
+Réponse. - Télécommerce, servie de France Télécom, permet en effet le commerce électronique sécurisé pour la vente de produits, de services et d'information sur Internet. Il gère pour le compte des entreprises, notamment les PME-PMI, tous les aspects de la gestion des commandes et des paiements sur Internet. A ce jour, 15 boutiques utilisent Télécommerce. D'ici fin 1998, l'objectif est de compter de 50 à 60 boutiques et entre 1 500 à 2 000 boutiques à l'horizon 2000. Parallèlement, Télécommerce sera ouvert progressivement à l'ensemble de la communauté bancaire à partir de 1999. Télécommerce contribue à la promotion des sites des entreprises en les référençant dans les services d'audience de France Télécom : " www.telecommerce.fr ", les annuaires Pages Zoom, les moteurs de recherche Pages Web, Qui-Quoi-Où, Tout en ville... Afin d'aider les entreprises à créer et exploiter leurs sites Web commerciaux, Télécommerce a sélectionné et formé un réseau de distributeurs agréés capables de les assister dans toutes les étapes de la mise en uvre et de raccordement des sites. Ces distributeurs s'appuient sur le réseau commercial de France Télécom et le réseau d'agences bancaires partenaires. Cela s'applique à la région Rhône-Alpes et au département du Rhône, comme partout en France. Des services identiques sont offerts par d'autres entreprises, notamment par Cegetel Entreprises et Matra Grolier Networks, d'autres sont en cours de définition. Les acteurs de ce secteur émergent sont issus de plusieurs secteurs d'activités jusqu'alors disjoints (opérateurs de télécommunications, sociétés de services et d'ingénierie informatique).
