@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890203448
+
+- Question : [SEQ890203448](seq890203448.md) — Conditions d'octroi du capital décès de la sécurité sociale
+
+## Réponse
+
+*Solidarité, JO du 1989-05-04, page 725*
+
+Réponse. - L'article 36 de la loi n° 84-575 du 9 juillet 1984, codifié à l'article L. 311-5 du code de la sécurité sociale, a modifié la protection sociale des travailleurs privés d'emploi. Ce texte a notamment supprimé le droit au capital décès pour les ayants droit des préretraités au-delà de l'année de maintien du droit aux prestations prévue par les articles L. 161-8 et R. 161-3 du code précité à compter de leur cessation d'activité. L'intention du législateur était d'harmoniser la couverture sociale des retraités et des préretraités qui comprend ainsi le droit aux prestations en nature des assurances maladie et maternité à l'exclusion de l'ouverture du droit au capital décès, prestation en espèces dont l'attribution est subordonnée à l'exercice d'une activité salariée. Il n'est pas envisagé de modifier les dispositions de vigueur. Par ailleurs, les dispositions transitoires de la loi précitée du 9 juillet 1984 (article 43), qui distinguent entre les revenus de remplacement, indemnisations, allocations ou garanties de ressources servis avant le 1er avril 1984 ou postérieurement à cette date, avaient pour objet de prendre en compte la réforme du système d'indemnisation du chômage intervenue à compter du 1er avril 1984 en application de l'ordonnance n° 84-198 du 21 mars 1984. Les bénéficiaires de revenus de remplacement antérieurement existants ont ainsi conservé, d'une façon générale, leur droit aux prestations des assurances maladie, maternité, invalidité et décès alors que les personnes visées par le nouveau système d'indemnisation du chômage ont également été soumises aux nouvelles dispositions concernant la protection sociale des travailleurs privés d'emploi.
