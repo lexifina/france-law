@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000424616
+
+- Question : [SEQ000424616](seq000424616.md) — Diminution du nombre des permis de construire et des mises en chantier
+
+## Réponse
+
+*Équipement, JO du 2000-08-10, page 2842*
+
+Réponse. - Alors que la construction de maisons individuelles connaît une progression régulière depuis le milieu de l'année 1997, la construction de logements en immeuble collectif a connu plusieurs phases successives. La fin du dispositif de soutien à l'investissement locatif privé a incité les promoteurs immobiliers à déposer des demandes de permis de construire pour des logements destinés à la location avant la fin de l'année 1998 et cette concentration des autorisations de construire a entraîné une augmentation sensible des mises en chantier. C'est pourquoi, un an plus tard, les autorisations de construire et les mises en chantier de logements sont en retrait par rapport à leur niveau de l'année précédente. Il convient tout de même d'indiquer qu'elles se stabilisent toutefois à des niveaux élevés, sensiblement supérieurs à ceux des années 1996 et 1997. Le secteur de la construction connaît désormais un regain d'activité. Outre que les travaux de construction neuve de logements engendrent une activité soutenue, la demande est également forte pour les travaux d'entretien-amélioration de logements en raison de la baisse à 5,5 % du taux de la TVA applicable à ces travaux, intervenue en septembre 1999, et les conséquences des tempêtes qui ont touché la France à la fin du mois de décembre 1999. Si l'on ajoute que, dans le même temps, le secteur du bâtiment non résidentiel est fortement sollicité en raison de la reprise de la croissance, l'activité économique globale de ce secteur devrait, sur l'ensemble de l'année 2000, être supérieure à celle de 1999 d'au moins 2,7 %.
