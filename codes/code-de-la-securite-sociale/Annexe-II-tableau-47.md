@@ -1,59 +1,109 @@
-# Article Annexe II tableau 47
+# Article Annexe II : Tableau n° 47
 
-DESIGNATION DES MALADIES : - A -
+AFFECTIONS PROFESSIONNELLES PROVOQUEES PAR LES POUSSIERES DE BOIS.
 
-Lésions eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par un test épicutané
+DÉSIGNATION DES MALADIES
 
-DELAI de prise en charge : 15 jours
+|
 
-DESIGNATION DES MALADIES :
+DÉLAI de prise en charge
 
-Conjonctivite récidivant en cas de nouvelle exposition au risque ou confirmée par test
+|
 
-DELAI de prise en charge : 7 jours
+LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES de provoquer ces maladies
 
-DESIGNATION DES MALADIES :
-
-Rhinite récidivant en cas de nouvelle exposition au risque ou confirmée par test
-
-DELAI de prise en charge : 7 jours
-
-DESIGNATION DES MALADIES :
-
-Asthme objectivé par explorations fonctionnelles respiratoires récidivant en cas de nouvelle exposition au risque ou confirmé par test
-
-DELAI de prise en charge : 7 jours
-
-DESIGNATION DES MALADIES :
-
-Syndrome respiratoire avec dyspnée, toux, expectoration, récidivant après nouvelle exposition au risque, dont l'étiologie professionnelle est confirmée par la présence dans le sérum d'anticorps précipitants permettant d'identifier l'agent pathogène correspondant au produit responsable
-
-DELAI de prise en charge : 30 jours
-
-DESIGNATION DES MALADIES :
-
-Fibrose pulmonaire avec signes radiologiques et troubles respiratoires confirmés par l'exploration fonctionnelle lorsqu'il y a des signes immunologiques significatifs
-
-DELAI de prise en charge : 1 an
-
-LISTE LIMITATIVE DES TRAVAUX susceptibles de provoquer ces maladies :
+|
 
 - A -
 
+|
+
+|
+
+- A -
+
+|
+
+Lésions eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par un test épicutané
+
+|
+
+15 jours
+
+|
+
 Manipulation, traitement et usinage des bois et tous travaux exposant aux poussières de bois.
 
-DESIGNATION DES MALADIES : - B -
+|
 
-Cancer primitif de l'ethmoïde et des sinus de la face.
+Conjonctivite récidivant en cas de nouvelle exposition au risque ou confirmée par test
 
-DELAI de prise en charge : 30 ans
+|
 
-LISTE LIMITATIVE DES TRAVAUX susceptibles de provoquer ces maladies :
+7 jours
+
+|
+
+|
+
+Rhinite récidivant en cas de nouvelle exposition au risque ou confirmée par test
+
+|
+
+7 jours
+
+|
+
+|
+
+Asthme objectivé par explorations fonctionnelles respiratoires récidivant en cas de nouvelle exposition au risque ou confirmé par test
+
+|
+
+7 jours
+
+|
+
+|
+
+Syndrome respiratoire avec dyspnée, toux, expectoration, récidivant après nouvelle exposition au risque, dont l'étiologie professionnelle est confirmée par la présence dans le sérum d'anticorps précipitant permettant d'identifier l'agent pathogène correspondant au produit responsable.
+
+|
+
+30 jours
+
+|
+
+|
+
+Fibrose pulmonaire avec signes radiologiques et troubles respiratoires confirmés par l'exploration fonctionnelle lorsqu'il y a des signes immunologiques significatifs.
+
+|
+
+1 an
+
+|
+
+|
 
 - B -
 
-Travaux exposant à l'inhalation des poussières de bois, notamment :
+|
 
-- travaux d'usinage des bois tels que sciage, fraisage, rabotage, perçage et ponçage ;
+|
 
-- travaux effectués dans les locaux où sont usinés les bois.
+- B -
+
+|
+
+Cancer primitif : carcinome des fosses nasales, de l'ethmoïde et des autres sinus de la face.
+
+|
+
+40 ans sous réserve d'une durée d'exposition de 5 ans
+
+|
+
+Travaux exposant à l'inhalation des poussières de bois, notamment : - travaux d'usinage des bois tels que sciage, fraisage, rabotage, perçage et ponçage ; - travaux effectués dans les locaux où sont usinés les bois.
+
+|
