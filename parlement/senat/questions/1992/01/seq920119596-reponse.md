@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920119596
+
+- Question : [SEQ920119596](seq920119596.md) — Musées nationaux : gratuité pour les scolaires
+
+## Réponse
+
+*Éducation, JO du 1992-04-30, page 1052*
+
+Réponse. - Le ministre chargé de la culture tient, tout d'abord, à rappeler à l'honorable parlementaire que la gratuité des visites pour les scolaires dans les musées nationaux demeure maintenue et ne saurait, en aucun cas, être remise en cause. En ce qui concerne l'organisation des visites-conférences, le ministre chargé de la culture tient à souligner la très importante augmentation du nombre de demandes émanant des établissements scolaires depuis quelques années. Il se félicite de cette situation qui témoigne d'une curiosité et d'un désir d'apprendre de la part des jeunes renforcés, et d'une adaptation positive des établissements scolaires à leur environnement culturel. C'est pourquoi, pour tenir compte de cet afflux croissant de demandes, le ministre chargé de la culture indique qu'il a paru nécessaire de mettre en place un dispositif permettant d'organiser des visites-conférences dans de meilleures conditions sur le plan de l'accueil et de l'accompagnement pédagogique. Ainsi, les établissements scolaires apporteront une contribution minime pour les frais de réservation des services de conférenciers spécialisés. Dans certains cas, des conventions spécifiques pourront être envisagées. L'ensemble de ces dispositions devrait permettre d'améliorer l'organisation et la qualité des visites-conférences dont la gestion d'ensemble a été récemment confiée à la Réunion des musées nationaux. En outre, un groupe de travail a été mis en place afin d'élaborer rapidement des mesures d'accueil des groupes scolaires dans les musées nationaux correspondant aux divers objectifs pédagogiques des enseignants.
