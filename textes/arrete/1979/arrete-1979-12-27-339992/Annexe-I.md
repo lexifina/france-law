@@ -1,15 +1,7 @@
 # Article Annexe I
 
-ZONE DE PILOTAGE HAUTURIER
+Les zones prévues par l'article 1er (alinéa 2) du présent arrêté sont :
 
-ET RATTACHEMENT A UNE DIRECTION DES AFFAIRES MARITIMES
+La mer du Nord et la Manche à l'Est d'une ligne joignant le phare d'Armen (île de Sein) au phare de Bishop Rock (îles Scilly).
 
-I. - Zone Manche - mer du Nord.
-
-Toute la mer du Nord et la Manche à l'Est d'une ligne joignant le phare d'Armen (île de Sein) au phare de Bishop Rock (îles Scilly).
-
-Compétence de la direction des affaires maritimes chargée de la Manche - mer du Nord.
-
-II. - Zone Baltique. Toute la mer Baltique.
-
-Compétence de la direction des affaires maritimes Chargée de la. Manche - mer du Nord.
+L'autorité compétente prévue à l'article 1er (alinéa II), du présent arrêté pour organiser les examens de pilotes hauturiers en ce qui concerne les zones ci-dessus est le directeur des affaires maritimes Normandie-mer du Nord.

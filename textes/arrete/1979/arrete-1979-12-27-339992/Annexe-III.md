@@ -2,65 +2,63 @@
 
 CARTE DE PILOTE HAUTURIER CERTIFIE
 
-(Format 10 cm x 7 cm.)
+(Format 9,7 cm x 6,9 cm.)
 
 RECTO
 
 RÉPUBLIQUE FRANÇAISE
 
-MINISTERE DES TRANSPORTS
+Secrétariat d'Etat auprès du ministre
 
-MARINE MARCHANDE
+des transports, chargé de la mer
 
 3, place de Fontenoy, 75007 Paris.
 
-CERTIFICAT
+Certificat de pilote hauturier.
 
-DE PILOTE HAUTURIER
-
-DEEP SEA PILOT CERTIFICATE
+Deep Sea Pilot Certificate N° ..........
 
 |
 
-PHOTOGRAPHIE
+Photographie
 
 |
 
-Nom : .................................. Prénom : ..................................
+Nom ...........................................................................
 
-Name................................... First name.
-
-|
-
-Nationalité : .......................................................................
-
-Nationality.
+Name
 
 |
 
-Date et lieu de naissance : ...............................................
+Nationalité .....................................................................
 
-Date and place of birth.
+Nationality
 
 |
 
-Zone de compétence : ..........................................................
+Date et lieu de naissance .........................................................................
 
-Qualification zone.
+Date and place of birth
+
+|
+
+Zone de compétence ............................................................................
+
+Qualification zone
 
 |
 
 VERSO
 
-Ce certificat de pilote hauturier est délivré par le ministre français chargé de la marine marchande en application du décret n° 79-354 du 2 mai 1979 et de l'arrêté du ...................................
+Ce certificat de pilote hauturier est délivré par le ministre français chargé de la marine marchande en application du décret n° 79-354 du 2 mai 1979 et de l'arrêté du 27 décembre 1979.
 
-This deep sea pilot certificate is issued by the French Ministry in charge of merchant shipping in pursuance of the decree 79-354 of the 2d May 1979 and the order of the ...........................
+This deep sea pilot certificate is issued by the french Ministry in charge of merchant shipping in pursuance of the decree 79-354 of May 2d 1979 and the order of the December 27th 1979.
 
 |
 
-Fait le .....................
+Fait le .................
 
-Done the.
+Issued on.
 
 |
 
