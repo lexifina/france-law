@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920320228
+
+- Question : [SEQ920320228](seq920320228.md) — Coût pour les finances publiques de l'aménagement du site du puits Couriot, à Saint-Etienne
+
+## Réponse
+
+*Budget, JO du 1992-10-01, page 2236*
+
+Réponse. - En s'adressant au ministre chargé de la culture, l'honorable parlementaire obtiendra les informations complémentaires qu'il estimera utiles sur l'origine et les conditions de réalisation de l'aménagement du site du puits Couriot à Saint-Etienne. Pour sa part, le ministre du budget souhaite apporter les précisions suivantes. En premier lieu, dans le cadre des autorisations de dépense qui lui sont ouvertes par la loi de finances, il appartient au ministre chargé de la culture de désigner les opérations ou ouvrages culturels qui lui paraissent justifier une participation financière de l'Etat. Au cas particulier, l'aménagement du site du puits Couriot à des fins muséologiques a été soigneusement étudié depuis plusieurs années par les autorités municipales, avec le concours de l'Etat, dans ses composantes techniques aussi bien que muséologiques. L'utilisation des galeries anciennes n'a pas été retenue en raison des risques d'inondation : il a été fait appel àdes techniques éprouvées pour la réalisation d'une galerie en béton recouverte de terre, située à quelque six mètres du sol stéphanois, non inondable à cette profondeur. Il n'y a donc pas lieu de redouter des surcoûts de constructions ni d'entretien pour risque d'inondation. On rappellera par ailleurs qu'ouvert en 1991, le musée a reçu plus de cinquante mille visiteurs et qu'il se confirme comme un facteur d'animation, d'activité et de notoriété pour la ville et l'agglomération de Saint-Etienne. Enfin, l'honorable parlementaire sera certainement attentif au principal objectif de l'ouvrage : célébrer les mineurs qui ont fait la richesse de la ville, conserver la mémoire de lieux d'extraction de la houille, activité stéphanoise aujourd'hui disparue.
