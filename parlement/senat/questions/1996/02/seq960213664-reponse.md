@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960213664
+
+- Question : [SEQ960213664](seq960213664.md) — Mandataires automobiles et règlement communautaire
+
+## Réponse
+
+*Affaires européennes, JO du 1996-05-30, page 1312*
+
+Réponse. - Le règlement no 123/85 d'exemption relatif aux accords de distribution et de service de vente et d'après-vente de véhicules automobiles a été renouvelé en 1995. Il y avait un intérêt commun des différents opérateurs économiques à voir reconduire le dispositif de distribution sélective. Or le nouveau règlement no 1475/95 du 28 juin 1995 préserve le système antérieur et les autorités françaises s'en félicitent. Il convient de rappeler que l'activité de mandataire est tout à fait légale. Les autorités publiques veillent, bien entendu, à ce que leurs activités se déroulent dans le cadre d'un concurrence réelle et loyale et dans des conditions satisfaisantes pour les consommateurs. A cet égard, les autorités françaises ont obtenu, dans le cadre du renouvellement en 1995 du règlement sur la distribution sélective, que les principes des communications que la Commission a adoptées en 1985 et en 1991 sur les conditions d'exercice des mandataires soient maintenus. Cependant, des pratiques abusives de la part de certains mandataires ont pu être constatées. Les autorités françaises, en particulier, le ministère de l'économie, sont particulièrement vigilantes à cet égard. Elles ont, notamment, décidé de créer un groupe de travail, dans le cadre du Conseil national de la consommation, afin d'examiner l'activité des mandataires et de définir, le cas échéant, un cadre juridique plus précis à l'exercice de cette activité par l'élaboration de mesures susceptibles de renforcer la transparence des transactions et d'assurer la protection des consommateurs. Le Gouvernement tiendra naturellement informé l'honorable parlementaire des travaux de ce groupe et des conclusions qui en seront tirées le moment venu.
