@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508167
+
+- Question : [SEQ980508167](seq980508167.md) — Contrôle sur les contrats de qualification
+
+## Réponse
+
+*Emploi, JO du 1998-08-20, page 2693*
+
+Réponse. - L'attention de madame la ministre de l'emploi et de la solidarité a été appelée sur le cas des entreprises qui recrutent des jeunes par la voie du contrat de qualification sans leur offrir un poste en rapport avec l'objectif de qualification annoncé et sur les contrôles susceptibles d'être mis en uvre. Dans le cas où l'inadéquation entre le poste offert et l'objectif du contrat de qualification apparaît sur la demande d'habilitation et le contrat de qualification soumis à enregistrement, le contrôle s'exerce lors du dépôt du dossier à la direction départementale du travail, de l'emploi et de la formation professionnelle. Cette dernière est, en effet, chargée de vérifier si le contrat est conforme aux dispositions législatives réglementaires et conventionnelles. Elle dispose, de ce fait, du pouvoir de refuser l'habilitation et l'enregistrement du contrat de qualification dans le mois qui suit la réception du dossier. Pendant la durée du contrat de qualification, l'employeur doit se soumettre au contrôle qui pourra être exercé par les services de l'inspection du travail. Ce contrôle, s'il révèle que l'empoyeur méconnaît ses engagements, peut amener le préfet, après avis du comité départemental de la formation professionnelle, à procéder à un retrait d'habilitation. La ministre de l'emploi et de la solidarité a demandé que soient étudiées les améliorations susceptibles d'être apportées à ces procédures de contrôle, en transposant, le cas échéant, les dispositions adoptées par le Parlement pour les contrats d'orientation dans le cadre de la loi nº 97-940 du 16 octobre 1997 relative au développement d'activités pour l'emploi des jeunes.
