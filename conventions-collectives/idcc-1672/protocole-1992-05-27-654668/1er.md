@@ -1,0 +1,5 @@
+# Article 1er
+
+Les entreprises disposent d'un délai de deux ans à compter de la signature de la convention pour achever la mise en place de la nouvelle classification.
+
+Elles doivent à cet effet observer le processus ci-après relatif tant à la constitution d'une commission d'entreprise qu'au déroulement des opérations de classement.
