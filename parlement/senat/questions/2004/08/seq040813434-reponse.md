@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040813434
+
+- Question : [SEQ040813434](seq040813434.md) — Difficultés de la filière viti-vinicole
+
+## Réponse
+
+*Agriculture, JO du 2005-03-03, page 604*
+
+Le ministre de l'agriculture, de l'alimentation, de la pêche et de la ruralité est très attentif à la situation de la viticulture bordelaise et a la volonté d'accompagner la filière dans la période actuelle, notamment dans la mise en place de son plan d'action pour faire face à la crise. Dès l'été 2004, le ministre a donné son accord à la mise en place de conventions de mise à disposition de parcelles via la société d'aménagement foncier et d'établissement rural (SAFER). Il a par ailleurs engagé l'extension de l'accord conclu au sein du comité interprofessionnel des vins de Bordeaux concernant la mise en réserve de volumes de vins produits en 2004. La demande professionnelle d'ouverture de l'arrachage définitif, de façon ciblée, dans le vignoble bordelais, a elle aussi été prise en compte. Un arrêté interministériel sera publié au Journal officiel. Enfin, les modalités d'octroi des aides à la restructuration du vignoble sont en cours de définition, en pleine concertation avec la profession, dans le cadre de la préparation de l'arrêté relatif à la restructuration du vignoble dans différentes régions pour la campagne 2004-2005. Le ministre de l'agriculture, de l'alimentation, de la pêche et de la ruralité suivra avec beaucoup d'intérêt la mise en oeuvre des différentes mesures contenues dans le plan d'action adopté par l'interprofession des vins de Bordeaux. Enfin, il sera attentif aux réflexions que celle-ci a engagées à la suite des orientations présentées par la profession viticole au niveau national afin de faciliter le positionnement de nos vins sur les marchés par une meilleure segmentation de notre offre.
