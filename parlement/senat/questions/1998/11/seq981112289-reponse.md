@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981112289
+
+- Question : [SEQ981112289](seq981112289.md) — Exonération de cotisations sociales sur les indemnités perçues par les élus des chambres de commerce et d'industrie
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 1999-10-14, page 3410*
+
+Réponse. - L'article 13 de la loi nº 98-546 du 2 juillet 1998 portant diverses dispositions d'ordre économique et financier a fait l'objet de longs débats approfondis lors de son examen tant par l'Assemblée nationale que par le Sénat (séances des 1er avril, 6 mai, 20 mai, 27 mai et 3 juin 1998). En résumant, les arguments retenus en faveur du texte adopté à la fois par le Sénat et par l'Assemblée nationale sont les suivants : si les chambres de métiers avaient sollicité l'exonération en cause, il n'en était pas de même des chambres de commerce et d'industrie. Il est opportun de trop étendre les exonérations de cotisations sociales. Les régimes de sécurité sociale auxquels sont déjà affiliés les élus de chambres de commerce et d'industrie, et donc les droits dont ils bénéficient, sont en général notablement différents de ceux des élus de chambres de métiers et de chambres d'agriculture. Les chambres de commerce et d'industrie, les chambres de métiers et les chambres d'agriculture présentent des similitudes. Toutefois et indépendamment de leur statut et de leurs domaines d'activités différents, les chambres de commerce et d'industrie se distinguent des chambres de métiers et des chambres d'agriculture quant à la détermination de leurs ressources fiscales et de nombreuses modalités de leur fonctionnement. Enfin, la plupart des élus de chambres de métiers exercent à la fois leur profession et leur mandat dans des conditions nettement plus difficiles que celles que connaissent les élus des chambres de commerce et d'industrie. Cette différence justifie un traitement différencié des cotisations s'appliquant à leurs indemnités.
