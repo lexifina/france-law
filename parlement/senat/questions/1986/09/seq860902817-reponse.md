@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860902817
+
+- Question : [SEQ860902817](seq860902817.md) — Couverture sociale des veuves d'artisans ou de commerçants
+
+## Réponse
+
+*Économie, JO du 1986-11-20, page 1622*
+
+Réponse. -Comme le rappelle l'honorable parlementaire, les femmes, veuves d'artisans ou de commerçants, peuvent bénéficier, comme les femmes, veuves de salariés, à partir de l'âge de 55 ans, d'une pension de réversion. Le service de cette pension entraîne leur affiliation, à titre obligatoire, au régime d'assurance maladie et maternité des travailleurs indépendants, comme le prévoit l'article L. 615-1 (3°) du code de la sécurité sociale. Par ailleurs, les femmes, veuves d'artisans ou de commerçants âgés de moins de cinquante-cinq ans, n'exercant aucune activité professionnelle et ne relevant à titre obligatoire d'aucun régime d'assurance maladie, ont la faculté d'adhérer à l'assurance personnelle instituée par la loi n° 78-2 du 2 janvier 1978 portant généralisation de la sécurité sociale. Il est certain que ce dispositif peut avoir pour effet deux affiliations successives à deux régimes différents dans une brève période dans les cas évoqués par l'honorableparlementaire des veuves d'artisans ou de commerçants n'exerçant avant et après leur veuvage aucune activité professionnelle. Toutefois les inconvénients qui peuvent résulter pour certains assurés n'apparaissent pas de nature à remettre en question le principe posé par la loi du 2 janvier 1978 d'unité du régime de l'assurance personnelle pour l'ensemble des personnes ne relevant pas de régimes obligatoires. En conséquence, le ministre délégué auprès du ministre de l'économie, des finances et de la privatisation chargé du commerce, de l'artisanat et des services ne peut que renouveler à l'honorable parlementaire les termes de la réponse apportée à sa précédente question n° 217 du 17 avril 1986.
