@@ -1,0 +1,3 @@
+# Article VI-14 : Conditions de recours au chômage partiel
+
+L'organisation du travail doit permettre un strict respect du volume d'heures annuelles. En cas d'affectation sensible de l'activité qui diminuerait le volume d'heures prévu, due notamment à un sinistre, un cas de force majeure ou à une baisse conjoncturelle importante des subventions allouées, une demande d'indemnisation au titre du chômage partiel pourra être sollicitée par l'entreprise après consultation et information des représentants du personnel, dans les conditions prévues aux articles R. 351-50 et suivants du code du travail.

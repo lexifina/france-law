@@ -1,0 +1,45 @@
+# Article VIII.3 : Montant de l'indemnité
+
+Article VIII.3 a
+
+Ventilation de l'indemnité
+
+L'indemnité est fixée à 480 F. Elle se décompose comme suit :
+
+- chaque repas principal : 90 F ;
+
+- petit déjeuner : 26 F ;
+
+- chambre : 274 F.
+
+La revalorisation du montant de l'indemnité conventionnelle sera négociée dans le cadre de la négociation annuelle de branche prévue à l'article X.1 de la présente convention.
+
+Article VIII.3 b
+
+Modalités de versement de l'indemnité
+
+Le montant de l'indemnité de déplacement est celui fixé selon les règles suivantes :
+
+- région parisienne : en dehors de la ville-siège de l'entreprise ou de celle pour laquelle aura été précisément conclu le contrat d'engagement, il sera alloué :
+
+- dans les départements de la grande couronne (Essonne, Yvelines, Val-d'Oise, Seine-et-Marne), l'indemnité de frais de repas des salariés en déplacement, au plafond d'exonération admis par l'administration de la sécurité sociale (4 fois le minimum garanti par repas) ;
+
+- dans les départements de la petite couronne (Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne), pour tout repas pris entre deux séances de travail, un titre restaurant (dont le montant sera négocié au sein de chaque entreprise, dans les limites d'exonération fixées par la loi) ;
+
+- cette disposition n'est obligatoire que dans les entreprises comptant plus de 10 salariés ;
+
+- dans les régions hors Ile-de-France, la limite sera, si nécessaire, déterminée par accord entre la direction et les délégués du personnel en fonction de la situation locale et notamment du réseau des transports en commun.
+
+L'indemnité de déplacement peut être fragmentée dans le cas où, soit le départ, soit le retour, s'effectue en cours de journée. C'est ainsi que :
+
+- si le départ a lieu avant 9 heures et le retour après 20 h 30, l'indemnité est due pour le petit déjeuner et les 2 repas ;
+
+- si le départ a lieu avant 13 heures et le retour après 20 h 30, l'indemnité est due pour les 2 repas ;
+
+- si le départ a lieu après 13 heures et le retour après 20 h 30, l'indemnité est due pour un repas ;
+
+- si le départ a lieu après 13 heures et le retour après 1 heure du matin, l'indemnité est due pour un repas et une chambre, à moins que la direction n'assure le retour au domicile respectif de chaque employé. Cette disposition concernant le retour du salarié n'est possible que si le déplacement est dans la limite de 40 kilomètres.
+
+En aucun cas il ne peut être imposé au personnel de faire l'avance des indemnités de déplacement. Le règlement de ces indemnités s'effectuera de préférence par virement bancaire. Les dispositions seront prises pour que le délai de versement ne pénalise pas le salarié.
+
+Le règlement de cette indemnité se fera en conformité avec la législation en vigueur et notamment en respectant les dispositions du code de la sécurité sociale.
