@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700873
+
+- Question : [SEQ020700873](seq020700873.md) — Environnement et management de l'entreprise
+
+## Réponse
+
+*Écologie, JO du 2002-11-21, page 2782*
+
+La secrétaire d'Etat au développement durable a pris connaissance, avec intérêt, de la question relative à l'intégration des préoccupations environnementales dans le management des entreprises. La responsabilisation des entreprises face aux problèmes environnementaux constitue un axe important de la politique de développement durable que le Gouvernement entend mettre en place. Le Président de la République a ainsi indiqué, lors du sommet mondial du développement durable à Johannesbourg, qu'un chantier important consistait à changer les modes de production et de consommation. Il a précisé qu'il était nécessaire de mettre au point, avec les entreprises, des systèmes économes en ressources naturelles, en déchets et en pollutions. La prise de conscience croissante de la nécessité d'un développement plus durable est un progrès fondamental ; les avancées des sciences et des technologies doivent être mises à son service, dans le respect du principe de précaution. La France proposera à ses partenaires du G 8, lors du sommet d'Evian en juin prochain, une initiative pour stimuler la recherche scientifique et technologique au service du développement durable. Ainsi, la sensibilisation accrue des entreprises, notamment des petites et moyennes entreprises et des petites et moyennes industries, aux démarches volontaires constitue une priorité pour la politique de développement durable. Les démarches d'intégration du développement durable dans la stratégie des entreprises représentent pour celles-ci une opportunité face aux attentes de leurs clients, de leurs actionnaires ou de leurs riverains. Elles sont facteur d'innovation, de compétitivité et de transparence vis-à-vis des marchés.
