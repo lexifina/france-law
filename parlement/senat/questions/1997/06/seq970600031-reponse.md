@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970600031
+
+- Question : [SEQ970600031](seq970600031.md) — Situation des Alsaciens-Mosellans incorporés de force dans le RAD et le KHD
+
+## Réponse
+
+*Anciens combattants, JO du 1997-08-21, page 2156*
+
+Réponse. - Ainsi que le signale l'honorable parlementaire, la situation des Alsaciens-Mosellans incorporés de force dans les formations para-militaires allemandes (RAD et KHD notamment) n'a pas fait l'objet de mesures équivalentes à celles réservées aux incorporés de force dans l'armée allemande, notamment au regard de l'indemnisation qui a été versée à ces derniers par la fondation Entente franco-allemande. Cette différence est fondée sur un arrêt du Conseil d'Etat relatif aux conditions d'attribution du titre d'incorporé de force dans la Werhmacht. En effet, dans un arrêt Kocher, la Haute juridiction a jugé que, pour obtenir le titre d'incorporé de force dans l'armée allemande, il faut prouver la participation du postulant à des combats sous commandement militaire allemand. Toutefois, des assouplissements ont déjà eu lieu dans la pratique. La commission interdépartementale a été renforcée par l'adjonction d'un représentant de cette catégorie de ressortissant et il a été demandé aux services compétents du département ministériel de ne plus faire appel des jugements du tribunal administratif de Strasbourg lorsque ceux-ci sont favorables aux incorporés de force dans le RAD et le KHD. Par ailleurs, ceux d'entre eux qui satisfont à la jurisprudence de l'arrêt Kocher ont tout naturellement vocation à obtenir le titre d'incorporé de force dans l'armée allemande. Reste effectivement la question de l'indemnisation dont sont écartés ceux qui ne peuvent obtenir le titre d'incorporé de force dans la Werhmacht. Le secrétaire d'Etat aux anciens combattants indique à cet égard qu'il examine la possibilité d'accorder aux RAD-KHD une indemnité réparatrice des contraintes subies.
