@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980105396
+
+- Question : [SEQ980105396](seq980105396.md) — Trafic des poids lourds dans les petites communes
+
+## Réponse
+
+*Équipement, JO du 1998-08-20, page 2697*
+
+Réponse. - Dans le cadre de l'exercice de leur pouvoir de police de la circulation, les maires ont la possibilité d'interdire la circulation à certaines catégories d'usagers, notamment les poids lourds dépassant un certain tonnage. Dans le cas particulier des routes classées à grande circulation en traversée d'agglomération, l'interdiction doit faire l'objet d'une concertation préalable entre le représentant de l'Etat et le maire. La commission départementale de sécurité peut être consultée pour la mise en place des itinéraires de déviation. Elle doit, notamment, favoriser la mise en uvre de mesures homogènes lorsque le contournement de l'agglomération rend nécessaire l'emprunt de routes nationales ou départementales, ou nécessite la traversée d'autres communes. Les mesures spécifiques à certaines catégories d'usagers doivent remplir plusieurs conditions. Tout d'abord, elles doivent être fondées sur un trouble réel de la sécurité et de la tranquillité publiques et leurs avantages doivent excéder les inconvénients ressentis. En second lieu, elles ne doivent pas présenter un caractère général et absolu, ce qui implique en particulier qu'elles permettent la desserte locale. Enfin, elles doivent offrir un itinéraire de contournement satisfaisant. Dans le cas particulier de la commune du Thonolet, l'arrêté de 1993 a été pris sans consultation préalable et sans étude tant sur l'efficacité de la mesure que sur son impact sur les itinéraires de déviations, ce qui a généré des oppositions de la part des professionnels routiers. L'étude en cours devrait permettre de donner une issue favorable à la demande d'interdiction de trafic des poids lourds de plus de 3,5 tonnes.
