@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010532906
+
+- Question : [SEQ010532906](seq010532906.md) — Refonte de la carte judiciaire
+
+## Réponse
+
+*Justice, JO du 2002-02-14, page 497*
+
+La garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que la réforme de la carte judiciaire a essentiellement porté sur les tribunaux de commerce. S'agissant de l'implantation territoriale des juridictions autres que les tribunaux de commerce, elle a annoncé à l'issue des " entretiens de Vendôme " qu'elle proposait de procéder à des regroupements entre le tribunal de grande instance et les tribunaux d'instance de son arrondissement judiciaire, regroupement qui maintiendrait les implantations immobilières actuelles, absolument nécessaires pour absorber l'augmentation des effectifs. La réforme de la carte est donc désormais englobée dans une refonte de l'organisation judiciaire. En ce qui concerne la localisation des emplois de magistrats, les critères retenus pour l'affectation tentent d'appréhender au plus près la réalité de la situation des juridictions, à partir des données chiffrées des quatre dernières années disponibles décrivant le volume du contentieux. Ces données sont rendues publiques et disponibles à tout moment sur le site internet-justice. Comme le sont également les résultats des juridictions dans le nouveau rapport d'activité. Les répartitions de postes retenues tiennent compte de la taille des juridictions, de l'effet induit de la création de postes supplémentaires sur la charge de travail résiduelle par magistrat et des créations de postes réalisées ces dernières années, de l'existence de facteurs spécifiques, notamment la présence ou absence d'une cour d'assises, la présence d'un établissement pénitentiaire, le taux de croissance démographique de l'arrondissement judiciaire.
