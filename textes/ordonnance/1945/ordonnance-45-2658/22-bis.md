@@ -2,7 +2,7 @@
 
 I. - L'étranger qui fait l'objet d'un arrêté préfectoral de reconduite à la frontière peut, dans les quarante-huit heures suivant sa notification lorsque l'arrêté est notifié par voie administrative ou dans les sept jours lorsqu'il est notifié par voie postale, demander l'annulation de cet arrêté au président du tribunal administratif.
 
-Le président ou son délégué statue dans un délai de quarante-huit heures à compter de sa saisine. Il peut se transporter au siège de la juridiction judiciaire la plus proche du lieu où se trouve l'étranger, si celui-ci est retenu en application de l'article 35 bis de la présente ordonnance.
+Le président ou son délégué statue dans un délai de soixante-douze heures à compter de sa saisine. Il peut se transporter au siège de la juridiction judiciaire la plus proche du lieu où se trouve l'étranger, si celui-ci est retenu en application de l'article 35 bis de la présente ordonnance.
 
 L'étranger peut demander au président du tribunal ou à son délégué le concours d'un interprète et la communication du dossier contenant les pièces sur la base desquelles la décision attaquée a été prise.
 
