@@ -1,4 +1,4 @@
-# Article ANNEXE
+# Article Annexe
 
 RÈGLEMENT TYPE PRIS POUR L'APPLICATION DE L'ARTICLE 29 DE LA LOI DU 10 JUILLET 1991 RELATIVE À L'AIDE JURIDIQUE
 
@@ -8,11 +8,13 @@ Dispositions générales
 
 Article 1er
 
-Conformément aux dispositions des articles 27 et 64-1 de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique et des articles 118 et 132-1 du décret n° 91-1266 du 19 décembre 1991, la caisse de règlements pécuniaires des avocats (Carpa) reçoit des dotations annuelles correspondant à la contribution de l'Etat à la rétribution des avocats inscrits au barreau pour :
+Conformément aux dispositions des articles 27, 64-1 et 64-2 de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique et des articles 118 et 132-1 du décret n° 91-1266 du 19 décembre 1991, la caisse de règlements pécuniaires des avocats (Carpa) reçoit des dotations annuelles correspondant à la contribution de l'Etat à la rétribution des avocats inscrits au barreau pour :
 
 1° Les missions d'aide juridictionnelle qu'ils accomplissent ;
 
-2° Les interventions au cours de la garde à vue en cas de désignation d'office.
+2° Les interventions au cours de la garde à vue en cas de désignation d'office ;
+
+3° Les missions d'aide à l'intervention en matière de médiation pénale et de composition pénale, et au titre de la mesure prévue à l'article 12-1 de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante qu'ils accomplissent.
 
 Ces fonds sont versés sur le compte spécial prévu à l'article 29 de la loi du 10 juillet 1991 précitée où ils font l'objet d'enregistrements distincts.
 
@@ -22,11 +24,13 @@ Article 2
 
 Il est procédé, dans les livres d'un établissement de crédit, à l'ouverture des comptes ci-après désignés :
 
-1° Au titre du compte spécial : deux comptes distincts intitulés respectivement :
+1° Au titre du compte spécial : trois comptes distincts intitulés respectivement :
 
 a) Carpa - aide juridictionnelle ;
 
 b) Carpa - garde à vue ;
+
+c) Carpa-médiation et composition pénales et mesure prévue à l'article 12-1 de l'ordonnance du 2 février 1945 ;
 
 2° Trois comptes annexes, intitulés respectivement :
 
@@ -54,7 +58,7 @@ La Carpa doit être équipée d'un logiciel homologué par le gard e des sceaux,
 
 Article 6
 
-La Carpa procède à l'enregistrement comptable de tous les mouvements affectant les fonds versés par l'Etat au titre de l'aide juridictionnelle, de la garde à vue, et, le cas échéant, du protocole conclu en application des articles 91 et 132-6 du décret du 19 décembre 1991 précité.
+La Carpa procède à l'enregistrement comptable de tous les mouvements affectant les fonds versés par l'Etat au titre de l'aide juridictionnelle, de la garde à vue, de la médiation et de la composition pénales et de la mesure prévue à l'article 12-1 de l'ordonnance du 2 février 1945 précitée ainsi que, le cas échéant, du protocole conclu en application des articles 91 et 132-6 du décret du 19 décembre 1991 précité.
 
 Article 7
 
@@ -62,13 +66,13 @@ Conformément à l'article 30 de la loi du 10 juillet 1991 précitée, un commis
 
 Chapitre II
 
-Placements des fonds. - Charges du service de l'aide juridictionnelle et de l'aide à l'intervention de l'avocat au cours de la garde à vue
+Placement des fonds - Charges du service de l'aide juridictionnelle et de l'aide à l'intervention de l'avocat prévue par les dispositions de la troisième partie de la loi du 10 juillet 1991.
 
 Article 8
 
 Les placements de fonds correspondant aux dotations versées par l'Etat doivent être distincts des autres placements effectués par la Carpa.
 
-Les fonds versés par l'Etat, à l'exception de la dotation complémentaire au titre du protocole des articles 91 et 132-6 du décret du 19 décembre 1991 précité, ne peuvent avoir d'autre destination finale que la rétribution des avocats au titre des missions d'aide juridictionnelle ou d'aide à l'intervention de l'avocat au cours de la garde à vue.
+Les fonds versés par l'Etat, à l'exception de la dotation complémentaire au titre du protocole des articles 91 et 132-6 du décret du 19 décembre 1991 précité, ne peuvent avoir d'autre destination finale que la rétribution des avocats au titre des missions d'aide juridictionnelle ou d'aide à l'intervention de l'avocat au cours de la garde à vue et en matière de médiation et de composition pénales, ainsi qu'au titre de la mesure prévue à l'article 12-1 de l'ordonnance du 2 février 1945 précitée.
 
 Article 9
 
@@ -80,7 +84,7 @@ Le montant des produits financiers perçus est arrêté, au plus tard, le 31 dé
 
 Article 11
 
-Les produits financiers perçus par la Carpa au titre des fonds reçus de l'Etat sont exclusivement utilisés pour couvrir en tout ou partie les charges de gestion du service de l'aide juridictionnelle et de l'aide à l'intervention de l'avocat au cours de la garde à vue exposés par la Carpa ou l'ordre et, le cas échéant, les charges exposées au titre de l'organisation de la défense, conformément au protocole conclu au titre des articles 91 et 132-6 du décret du 19 décembre 1991 précité.
+Les produits financiers perçus par la Carpa au titre des fonds reçus de l'Etat sont exclusivement utilisés pour couvrir en tout ou partie les charges de gestion du service de l'aide juridictionnelle et de l'aide à l'intervention de l'avocat au cours de la garde à vue et en matière de médiation et de composition pénales, ainsi qu'au titre de la mesure prévue à l'article 12-1 de l'ordonnance du 2 février 1945 précitée exposés par la Carpa ou l'ordre et, le cas échéant, les charges exposées au titre de l'organisation de la défense, conformément au protocole conclu au titre des articles 91 et 132-6 du décret du 19 décembre 1991 précité.
 
 Article 12
 
@@ -102,7 +106,19 @@ Les missions d'aide juridictionnelle
 
 Article 13
 
-La rétribution finale due à l'avocat ayant accompli une mission d'aide juridictionnelle est versée après remise de la décision du bureau d'aide juridictionnelle le désignant et d'une attestation de mission délivrée par le greffe ou d'une ordonnance du président de la juridiction saisie.
+La rétribution finale due à l'avocat ayant accompli une mission d'aide juridictionnelle est versée après remise :
+
+1° De la décision du bureau d'aide juridictionnelle le désignant ;
+
+2° Et, selon le cas :
+
+- d'une attestation de mission délivrée par le greffe ;
+
+- d'une ordonnance du président de la juridiction saisie ;
+
+- d'une attestation de fin de mission transactionnelle délivrée par le président du bureau d'aide juridictionnelle.
+
+Dans l'hypothèse où le juge a condamné une partie à payer à l'autre une somme au titre des frais non compris dans les dépens et s'il s'est écoulé plus de six mois depuis la date du jugement, l'avocat doit justifier par tous moyens que le délai fixé par le dernier alinéa de l'article 37 de la loi du 10 juillet 1991 n'est pas expiré.
 
 Article 14
 
@@ -110,13 +126,13 @@ Toutefois, lorsqu'un mineur demande, conformément aux dispositions de l'article
 
 Article 15
 
-La copie de la décision d'admission est directement transmise par le bureau d'aide juridictionnelle à la Carpa. L'attestation de mission est remise directement à l'avocat.
+La copie de la décision d'admission est directement transmise par le bureau d'aide juridictionnelle à la Carpa. L'attestation de mission et l'attestation de fin de mission transactionnelle sont remises à l'avocat.
 
 Article 16
 
 Le montant de la rétribution due à l'avocat pour les missions d'aide juridictionnelle totale est fixé sur la base de l'une ou plusieurs des options suivantes :
 
-1° Rétribution égale à la contribution de l'Etat (renvoi aux dispositions législatives et réglementaires applicables : la rétribution est alors égale au produit du nombre d'unités de valeur de base porté sur l'attestation de mission ou l'ordonnance du président de la juridiction saisie et du montant de l'unité de valeur en vigueur à la date de l'achèvement de la mission) ;
+1° Rétribution égale à la contribution de l'Etat (renvoi aux dispositions législatives et réglementaires applicables : la rétribution est alors égale au produit du nombre d'unités de valeur de base porté sur l'attestation de mission, sur l'ordonnance du président de la juridiction saisie ou sur l'attestation de fin de mission transactionnelle et du montant de l'unité de valeur en vigueur à la date de l'achèvement de la mission) ;
 
 2° Rétribution due par procédure, calculée selon des modalités particulières, pour les missions d'aide juridictionnelle totale (à déterminer) ;
 
@@ -138,15 +154,13 @@ Il est procédé, le cas échéant, à la déduction :
 
 Article 18
 
-Lorsqu'un avocat renonce à sa rétribution, conformément à l'article 108 du décret du 19 décembre 1991 précité, il dispose d'un délai de deux mois à compter de la délivrance de l'attestation de mission pour en informer le bâtonnier et restituer le cas échéant à la Carpa les sommes versées.
-
 Section 2
 
 Les interventions au cours de la garde à vue
 
 Article 19
 
-La rétribution pour l'intervention de l'avocat au cours de la garde à vue est versée à l'avocat commis d'office contre la remise de l'imprimé visé à l'article 132-5 du décret du 19 décembre 1991 précité dûment rempli par l'avocat et signé par les autorités de police ou de gendarmerie compétentes ainsi que par le bâtonnier ou son représentant.
+La rétribution pour l'intervention de l'avocat au cours de la garde à vue est versée à l'avocat commis d'office contre la remise de l'imprimé visé audeuxième alinéa de l'article 132-5 du décret du 19 décembre 1991 précité dûment rempli par l'avocat et signé par les autorités de police ou de gendarmerie compétentes ainsi que par le bâtonnier ou son représentant.
 
 Article 20
 
@@ -162,6 +176,22 @@ Dans tous les cas, il prend en compte la situation de l'avocat au regard de la T
 
 Section 3
 
+L'aide à l'intervention de l'avocat en matière de médiation et de composition pénales ainsi qu'au titre de la mesure prévue à l'article 12-1 de l'ordonnance du 2 février 1945 relative à l'enfance délinquante
+
+Article 20-1
+
+La rétribution due pour une aide à l'intervention de l'avocat en matière de médiation et de composition pénales ou au titre de la mesure prévue à l'article 12-1 de l'ordonnance du 2 février 1945 précitée est versée après remise de la décision d'admission le désignant et d'une attestation de mission délivrée par le procureur de la République.
+
+Article 20-2
+
+La copie de la décision d'admission est transmise par le président du bureau d'aide juridictionnelle à la Carpa. L'attestation de mission est remise à l'avocat.
+
+Article 20-3
+
+L'article 20 s'applique aux rétributions dues à l'avocat pour les missions relevant de la présente section.
+
+Section 4
+
 Dispositions communes
 
 Article 21
@@ -172,11 +202,19 @@ Il fournit les références du compte ouvert dans les livres d'un établissement
 
 Article 22
 
-L'avocat doit remettre à la Carpa sans délai les attestations de mission et ordonnances qui lui ont été délivrées ainsi que les imprimés prévus pour les interventions au cours de la garde à vue.
+L'avocat doit remettre sans délai à la Carpa les attestations de mission, ordonnances et attestations de fin de mission transactionnelle qui lui ont été délivrées ainsi que les imprimés prévus pour les interventions au cours de la garde à vue.
 
 Article 23
 
-La rétribution est versée à l'avocat désigné dans la décision du bureau d'aide juridictionnelle ou par le bâtonnier pour les interventions au cours de la garde à vue. Toutefois, en cas de changement d'avocat en cours de procédure, la rétribution est versée à l'avocat dont le nom figure sur l'attestation de mission, sans préjudice des règles de répartition prévues à l'article 103 du décret du 19 décembre 1991 précité.
+La rétribution est versée à l'avocat désigné, selon le cas :
+
+- dans la décision du bureau d'aide juridictionnelle ;
+
+- dans la décision du président de ce bureau pour les interventions en matière de médiation ou de composition pénales ou au titre de la mesure prévue à l'article 12-1 de l'ordonnance du 2 février 1945 précitée ;
+
+- par le bâtonnier pour les interventions au cours de la garde à vue.
+
+Toutefois, en cas de changement d'avocat en cours de procédure, la rétribution est versée à l'avocat dont le nom figure sur l'attestation de mission, sur l'ordonnance ou sur l'attestation de fin de mission transactionnelle, sous réserve des règles de répartition prévues à l'article 103 du décret du 19 décembre 1991 précité.
 
 Article 24
 
@@ -184,7 +222,7 @@ Le paiement des rétributions est effectué par la Carpa au moins une fois par m
 
 Article 25
 
-Toute contestation ayant trait à la rétribution des missions d'aide juridictionnelle est soumise au bâtonnier ou à son représentant.
+Toute contestation ayant trait à la rétribution des missions prévues à la première et à la troisième partie de la loi du 10 juillet 1991 est soumise au bâtonnier ou à son représentant.
 
 Chapitre IV
 
@@ -248,7 +286,7 @@ Article 35
 
 La Carpa peut déduire des rétributions dues le trop-perçu par l'avocat à l'occasion de missions antérieures. A défaut, elle procède à un recouvrement à l'encontre de l'avocat qui dispose alors, pour reverser le trop-perçu à la Carpa, d'un délai d'un mois à compter de la notification du débit par le bâtonnier ou son représentant. Dans tous les cas, l'avocat peut introduire un recours devant le bâtonnier (modalités à déterminer).
 
-Tout avocat quittant le barreau doit régulariser son compte Aide juridictionnelle. Dans le cas où il serait débiteur envers la Carpa ou détenteur de provisions pour des missions devenues caduques, cette régularisation doit intervenir avant le départ de l'avocat du barreau.
+Tout avocat quittant le barreau doit régulariser son compte Aide juridictionnelle et autres missions. Dans le cas où il serait débiteur envers la Carpa ou détenteur de provisions pour des missions devenues caduques, cette régularisation doit intervenir avant le départ de l'avocat du barreau.
 
 Chapitre VII
 
@@ -272,4 +310,6 @@ La Carpa transmet au garde des sceaux, ministre de la justice, un état de trés
 
 1° Les montants des rétributions finales et des provisions versées aux avocats pour les missions d'aide juridictionnelle en matière civile et administrative, d'une part, et en matière pénale, d'autre part ;
 
-2° Les montants des rétributions versées pour les interventions des avocats au cours de la garde à vue.
+2° Les montants des rétributions versées pour les interventions des avocats au cours de la garde à vue ;
+
+3° Les montants des rétributions versées aux avocats pour l'aide à l'intervention en matière de médiation et de composition pénales ainsi qu'au titre de la mesure prévue à l'article 12-1 de l'ordonnance du 2 février 1945 précitée.
