@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940907735
+
+- Question : [SEQ940907735](seq940907735.md) — Régime fiscal des unions commerciales
+
+## Réponse
+
+*Budget, JO du 1994-12-29, page 3077*
+
+Réponse. - L'article 206-1 du code général des impôts soumet à l'impôt sur les sociétés les collectivités qui se livrent à une exploitation ou à des opérations de caractère lucratif. Une jurisprudence constante considère que cette disposition est applicable aux collectivités qui ont pour objet de faciliter l'exercice de l'activité professionnelle de leurs membres. Tel est le cas des unions de commerçants constituées sous la forme d'associations, dont la mission essentielle est de développer les échanges commerciaux, ce qui permet d'accroître le volume d'activité de leurs membres, lorsqu'elles effectuent des opérations en ce sens, les unions commerciales ne peuvent pas non plus bénéficier des exonérations prévues en matière de TVA pour les organismes agissant sans but lucratif. Cela étant, pour tenir compte du rôle actif joué par les unions commerciales dans la vie sociale locale, ces organismes sont exonérés par l'article 223 octies du code général des impôts de l'imposition forfaitaire annuelle. De ce fait, les unions commerciales visées par l'honorable parlementaire, qui ne retirent aucun bénéfice de leur activité, ne subissent aucun prélèvement au titre de l'impôt sur les bénéfices. Par ailleurs, en contrepartie de leur assujettissement à la TVA, ces organismes peuvent déduire dans les conditions habituelles la taxe ayant grevé les dépenses engagées pour les besoins de leur activité imposable. Enfin, leurs membres commerçants peuvent également déduire dans les conditions de droit commun la TVA que leur facture l'union au titre des services imposables qu'elle leur rend. Il n'est pas possible de déroger à ces principes sans créer de profondes distorsions de concurrence.
