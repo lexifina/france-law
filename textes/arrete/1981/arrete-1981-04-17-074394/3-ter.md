@@ -1,25 +1,17 @@
 # Article 3 ter
 
-Sont interdits, sur tout le territoire métropolitain et en tout temps, dans les conditions déterminées par les articles R. 211-1 à R. 211-5 susvisés, la destruction, la mutilation, la capture ou l'enlèvement, la naturalisation des mammifères d'espèces non domestiques suivantes ou, qu'ils soient vivants ou morts, leur transport, leur colportage, leur utilisation, leur mise en vente, leur vente ou leur achat :
+A condition qu'il n'existe pas une autre solution satisfaisante et que la mesure ne nuise pas au maintien, dans un état de conservation favorable, des populations des espèces concernées dans leur aire de répartition naturelle, l'autorité administrative compétente peut délivrer, selon la procédure définie par arrêté du ministre chargé de la protection de la nature, des autorisations exceptionnelles pour déroger aux interdictions fixées aux articles 1er, 2, 3 et 3 bis pour les motifs ci-après :
 
-Rongeurs
+a) Dans l'intérêt de la protection de la faune et de la flore sauvages et de la conservation des habitats naturels ;
 
-Cricetidés :
+b) Pour prévenir des dommages importants notamment aux cultures, à l'élevage, aux forêts, aux pêcheries, aux eaux et à d'autres formes de propriété ;
 
-Hamster commun (Cricetus cricetus).
+c) Dans l'intérêt de la santé et de la sécurité publiques, et de la sécurité aérienne ;
 
-Carnivores
+d) Pour d'autres raisons impératives d'intérêt public majeur. Des mesures compensatoires ayant des conséquences bénéfiques pour les espèces concernées sont alors exigées du demandeur de la dérogation. Si l'écologie des espèces le nécessite, la mise en oeuvre de cette dérogation est conditionnée par la réalisation préalable de certaines de ces mesures compensatoires ;
 
-Canidés :
+e) A des fins de recherche et d'éducation, de repeuplement et de réintroduction de ces espèces et pour des opérations de reproduction nécessaires à ces fins, y compris la propagation artificielle des plantes, ainsi que pour l'élevage se rapportant à ces actions.
 
-Loup (Canis lupus).
+NOTA :
 
-Félidés :
-
-Lynx d'Europe (Felix lynx lynx).
-
-Ursidés :
-
-Ours (Ursus arctos).
-
-Toutefois, à condition qu'il n'existe pas une autre solution satisfaisante et que la dérogation ne nuise pas au maintien dans un état de conservation favorable des populations concernées dans leur aire de répartition naturelle, une autorisation de capture ou de destruction de spécimens d'espèces mentionnées à l'alinéa précédent peut être accordée par arrêté conjoint des ministres chargés de la protection de la nature et de l'agriculture, pris après avis du Conseil national de la protection de la nature, pour prévenir des dommages importants aux cultures ou au bétail, ou dans l'intérêt de la sécurité publique, ou pour assurer la conservation de l'espèce elle-même.
+NOTA : Décret 2007-487 du 30 mars 2007 art. 95 : Le décret du 70-836 du 10 septembre 1970 est abrogé. Toutefois, les dispositions de ce décret demeurent en vigueur en tant qu'elles s'appliquent à Saint-Pierre-et-Miquelon et à Mayotte.
