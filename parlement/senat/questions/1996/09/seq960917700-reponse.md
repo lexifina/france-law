@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960917700
+
+- Question : [SEQ960917700](seq960917700.md) — Embauche des jeunes étudiants pendant les vacances scolaires
+
+## Réponse
+
+*Travail, JO du 1997-01-09, page 82*
+
+Réponse. - Sauf cas de stages en entreprise effectués à la suite d'une convention passée entre l'établissement d'enseignement et l'organisme d'accueil, les emplois offerts durant les vacances scolaires d'été servent le plus souvent à pallier le déficit d'effectifs dû soit au départ en vacances du personnel en place soit à un accroissement saisonnier d'activité. Les rémunérations afférentes sont normalement soumises à la réglementation sur le salaire minimum interprofessionnel de croissance (SMIC) ou aux dispositions conventionnelles, quand elles sont plus favorables. Ces rémunérations, pour les emplois qui y ouvrent droit, peuvent bénéficier de la réduction des cotisations patronales de sécurité sociale sur les bas salaires. Le dispositif en vigueur depuis le 1er octobre 1996 s'applique, quelle que soit par ailleurs la durée du travail au cours du mois, à toutes les rémunérations inférieures au SMIC mensuel majoré de 33 % (soit 8 521,03 francs au 1er octobre 1996) et est susceptible d'être très favorable dans certains cas. Ainsi, pour les rémunérations inférieures au SMIC mensuel (6 406,79 francs au 1er octobre 1996), la réduction est proportionnelle à la rémunération, au taux de 18,2 %, soit un allégement de 60 % des cotisations patronales. Le droit à la réduction étant apprécié chaque mois, en fonction de la seule rémunération versée au cours du mois, et non du taux horaire de salaire, il bénéficie donc largement aux emplois temporaires ou occasionnels, tels ceux offerts durant les vacances scolaires. Il n'est pas souhaitable, même pour les emplois d'été, d'élargir le dispositif visé ci-dessus dans le contexte actuel des finances publiques.
