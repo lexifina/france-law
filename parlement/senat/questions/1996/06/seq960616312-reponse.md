@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960616312
+
+- Question : [SEQ960616312](seq960616312.md) — Personnel de France Télécom
+
+## Réponse
+
+*Industrie, JO du 1996-08-01, page 2000*
+
+Réponse. - Certains personnels fonctionnaires de France Télécom ou de La Poste, qui n'ont pas accepté les propositions d'intégration sur les nouveaux grades, dits " de classification ", qui leur ont été faites dans le cadre de la réforme mise en oeuvre depuis 1993 dans les deux exploitants publics, considèrent que leur carrière se trouve désormais bloquée, dans la mesure où les exploitants n'organisent plus de promotion interne à l'intérieur des anciens corps, dits " de reclassement ". Il convient de souligner qu'une promotion de ces agents demeure possible à l'intérieur des nouveaux corps de classification, ce que refusent aujourd'hui les intéressés. Lors de la création des nouveaux corps, et dans la mesure où l'intégration des agents dans ces derniers relevait du volontariat, les anciens corps de reclassement n'ont pas été placés en voie d'extinction de droit. Toutefois, dans le cadre de l'autonomie de gestion de leurs personnels conférée par la loi du 2 juillet 1990, La Poste et France Télécom, souhaitant pleinement s'inscrire dans la logique des corps de classification, mettent en oeuvre des promotions uniquement dans ces nouveaux corps. Enfin, les nouveaux corps de classification de La Poste et de France Télécom, créés par les décrets du 25 mars 1993, relèvent, conformément aux dispositions de l'article 29, premier alinéa, de la loi du 2 juillet 1990 précitée, des titres Ier et II du statut général des fonctionnaires, de la même manière que les anciens statuts des corps de reclassement. De ce fait, toute promotion sur un grade de classification maintient pleinement le statut de fonctionnaire de l'Etat aux intéressés.
