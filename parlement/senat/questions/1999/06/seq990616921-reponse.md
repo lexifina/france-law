@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990616921
+
+- Question : [SEQ990616921](seq990616921.md) — Responsabilité des chefs d'établissements scolaires
+
+## Réponse
+
+*Éducation, JO du 1999-09-09, page 3005*
+
+Réponse. - Dans un contexte de développement d'une pénalisation de l'action administrative et éducative, il est important d'éviter un phénomène de paralysie qui conduirait les membres de l'enseignement à prendre le moins d'initiatives possibles afin de réduire les risques encourus. C'est pourquoi, dès le mois de février dernier, il a été annoncé que le ministre de l'Education nationale, de la recherche et de la technologie reste vigilant sur la mise en jeu de la responsabilité pénale des membres de l'enseignement. C'est dans ce but qu'un groupe de travail a été mis en place au mois de mars, comprenant notamment des représentants de syndicats de personnels et de fédérations de parents d'élèves, qui doit mener une réflexion d'ensemble qui permettra de proposer les éventuelles modifications des règles de responsabilité applicables en matière d'accidents scolaires, compte tenu des inquiétudes croissantes et légitimes des membres de l'enseignement à voir leur responsabilité pénale recherchée pour des faits involontaires commis à l'occasion de l'accomplissement de leurs fonctions. Depuis le mois de juin, ce groupe de travail bénéficie des réflexions du rapport du recteur Blanchet sur les chefs d'établissements. S'agissant de la directrice d'école qui avait été condamnée en première instance, il est à noter que la cour d'appel de Bastia, par un arrêt du 30 juin 1999, a prononcé sa relaxe. S'il incombe à l'administration d'assurer à ses agents une assistance juridique aussi efficace que possible, il convient de ne pas tirer de conséquences trop hâtives des poursuites dont ils sont l'objet.
