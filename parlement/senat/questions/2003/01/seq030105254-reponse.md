@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030105254
+
+- Question : [SEQ030105254](seq030105254.md) — Réglementation applicable aux hauteurs des haies
+
+## Réponse
+
+*Agriculture, JO du 2003-08-21, page 2598*
+
+L'article 671 du code civil dispose que, à défaut de règlements particuliers existants, il n'est permis d'avoir des arbres, arbrisseaux et arbustes près de la limite de la propriété voisine qu'à la distance de deux mètres de la ligne séparative des deux héritages pour les plantations dont la hauteur dépasse deux mètres, et à la distance d'un demi-mètre pour les autres plantations. En matière de règlements particuliers pouvant être mis en place, l'article L. 511-3 du code rural indique que les chambres départementales d'agriculture sont chargées de codifier les usages locaux à caractère agricole et que les usages ainsi codifiés doivent être approuvés par le conseil général. Le même article précise qu'en cas de litige au sujet d'une haie mitoyenne à deux propriétés, il appartient au juge de fond de décider qu'une situation de fait est soumise aux usages locaux. Dans le département de la Moselle, la codification des usages locaux à caractère agricole a été approuvée par le conseil général le 9 janvier 1961. Il est précisé au chapitre VI que la hauteur des haies est fixée à 1,20 mètre environ et jusqu'à 2 mètres dans l'arrondissement de Thionville-Ouest. La distance à garder jusqu'au fonds voisin pour la plantation d'arbres fruitiers et de tous autres arbres de haut jet est de 2 mètres, à l'exception de l'arrondissement de Thionville-Ouest où la plantation à des distances plus rapprochées est permise, sans que ces distances soient précisées. En tout état de cause, la décision d'appliquer les usages locaux à caractère agricole approuvés par le conseil général à des situations mettant en présence des personnes exerçant des activités agricoles ou non appartient au juge auquel il est demandé de se prononcer sur une telle situation.
