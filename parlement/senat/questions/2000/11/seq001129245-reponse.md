@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001129245
+
+- Question : [SEQ001129245](seq001129245.md) — Conséquences du prix du carburant pour les VRP du secteur de l'horlogerie bijouterie
+
+## Réponse
+
+*Économie, JO du 2001-07-26, page 2450*
+
+Le Gouvernement, conscient de la charge que représente le coût des produits pétroliers pour les professionnels, particulièrement lorsque ceux-ci utilisent leur véhicule comme outil de travail, a mis en place, dans la loi de finances pour 2001, un dispositif spécifique qui neutralise l'incidence sur les recettes de l'Etat d'une hausse significative des cours du pétrole. Les carburants sont pour l'essentiel soumis à deux taxes : la taxe intérieure sur les produits pétroliers (TIPP) et la taxe sur la valeur ajoutée (TVA). La TIPP est fixée en fonction des quantités en francs par hectolitre. Le montant de cette taxe n'est donc en rien influencé par la variation des prix. La TVA s'applique en revanche proportionnellement à un prix global incluant la TIPP. La mesure votée supprime cet effet. Elle se traduira par une diminution de la TIPP à hauteur du surplus de recettes de TVA consécutif à la hausse du prix des produits pétroliers. Elle est également susceptible de fonctionner en sens inverse. En second lieu, pour tenir compte de la forte hausse des prix au cours des derniers mois, ce dispositif est complété par une réduction exceptionnelle de la TIPP portant à vingt centimes par litre au 1er octobre 2000 la réduction de la fiscalité sur le gazole, le supercarburant sans plomb, le supercarburant anti-récession de soupape (ARS) et à trente-neuf centimes celle sur le fioul domestique. Enfin, l'augmentation de la TIPP sur le gazole, qui était prévue dans le plan de réduction de l'écart de taxation entre le gazole et le supercarburant sans plomb mis en oeuvre depuis 1999 pour rapprocher la France de l'écart moyen constaté au niveau communautaire, a été exceptionnellement gelée pour 2001.
