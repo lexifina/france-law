@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910113217
+
+- Question : [SEQ910113217](seq910113217.md) — Suppression du titre d'adjoint des cadres secrétaires médicales
+
+## Réponse
+
+*Santé, JO du 1991-08-08, page 1719*
+
+Réponse. - Il n'est pas exact que les adjoints des cadres, option Secrétariat médical, aient été réintégrés dans le corps initial des secrétaires médicales. En effet, l'emploi de secrétaire médicale prévu par le décret n° 72-849 du 11 septembre 1972 était un emploi du niveau de la catégorie C. Le nouveau corps des secrétaires médicaux institué par le décret n° 90-839 du 21 septembre 1990 est quant à lui classé dans la catégorie B. En dépit de l'identité d'appellation, il y a donc une profonde différence entre l'ancien emploi et le nouveau corps. Il est par ailleurs porté à la connaissance de l'honorable parlementaire que les anciens adjoints des cadres, option Secrétariat médical, ont une option entre leur intégration dans le corps des adjoints des cadres et leur intégration dans le nouveau corps de secrétaire médical de catégorie B. Compte tenu de la structure du nouveau corps de secrétaire médical, il peut être plus avantageux pour les anciens adjoints des cadres, option Secrétariat médical, de choisir d'y être intégrés. En effet, l'accès à la classe supérieure de ce corps est subordonné à l'exigence d'avoir atteint le 9e échelon de la classe normale et de compter au moins cinq ans de services dans la catégorie B. Les ex-adjoints des cadres, option Secrétariat médical, disposent donc par rapport aux secrétaires médicales de catégorie C d'un avantage statutaire. Enfin, la circulaire DH/8 D/n° 22 du 18 avril 1991 a donné sur la situation des ex-adjoints des cadres, option Secrétariat médical, des précisions qui devraient apporter tous apaisements aux intéressés en ce qui concerne la possibilité de continuer à exercer dans les secrétariats médicaux les fonctions d'encadrement dont ils étaient auparavant chargés.
