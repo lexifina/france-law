@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960817080
+
+- Question : [SEQ960817080](seq960817080.md) — Contrat d'adaptation
+
+## Réponse
+
+*Emploi, JO du 1996-10-31, page 2848*
+
+Réponse. - Le contrat d'adaptation est une mesure qui a jusqu'à présent subi la concurrence des contrats de qualification et des contrats d'apprentissage en raison de son caractère moins attractif pour les employeurs. Le ministre délégué pour l'emploi souligne cependant : d'une part, que le nombre de contrats d'adaptation est loin d'être négligeable puisqu'il s'élève à environ 60 000 par an, ce qui tend à prouver que bon nombre d'employeurs considère qu'il s'agit d'une mesure adaptée à leurs besoins. D'autre part, que le contrat d'adaptation retrouve aujourd'hui un intérêt renouvelé pour les entreprises, du fait de la ristourne dégressive : la moitié des bénéficiaires du contrat d'adaptation sont rémunérés au niveau du SMIC ; pour ces personnes la réduction de 20 % de la rémunération prévue par le contrat déclenche la ristourne dégressive et apporte ainsi une baisse de 30 % du coût du travail (plus puissance que l'APEJ). Il n'apparaît dès lors pas opportun de supprimer ce contrat. De plus, le contrat d'adaptation trouve sa source dans l'accord interprofessionnel du 3 juillet 1991 modifié par l'avenant du 5 juillet 1994, et dépend donc de l'accord des partenaires sociaux qui sont plutôt demandeurs d'une stabilisation des mesures existantes. Enfin, la suppression du contrat d'adaptation risquerait d'aboutir à une augmentation des contrats de qualification sans qu'un tel report ne se justifie réellement s'agissant d'un public susceptible d'occuper rapidement un emploi. Cet accroissement des contrats de qualification aurait pour conséquence une augmentation du coût pour la collectivité dans la mesure où ce type de contrat bénéficie d'un mécanisme d'exonération des charges sociales.
