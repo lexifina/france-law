@@ -4,13 +4,13 @@ I. - 1. Les entreprises de production cinématographique et les entreprises de p
 
 2. N'ouvrent pas droit au crédit d'impôt mentionné au 1 :
 
-- les oeuvres figurant sur la liste prévue à l'article 12 de la loi de finances pour 1976 (n° 75-1278 du 30 décembre 1975) ;
+a. - les oeuvres figurant sur la liste prévue à l'article 12 de la loi de finances pour 1976 (n° 75-1278 du 30 décembre 1975) ;
 
-- les oeuvres cinématographiques ou audiovisuelles utilisables à des fins de publicité ;
+b. - les oeuvres cinématographiques ou audiovisuelles utilisables à des fins de publicité ;
 
-- les programmes d'information, les débats d'actualité et les émissions sportives, de variétés ou de jeux ;
+c. - les programmes d'information, les débats d'actualité et les émissions sportives, de variétés ou de jeux ;
 
-- tout document ou programme audiovisuel ne comportant qu'accessoirement des éléments de création originale.
+d. - tout document ou programme audiovisuel ne comportant qu'accessoirement des éléments de création originale.
 
 3. Le bénéfice du crédit d'impôt est subordonné au respect, par les entreprises de production déléguées, de la législation sociale. Il ne peut notamment être accordé aux entreprises de production déléguées qui ont recours à des contrats de travail visés au 3° de l'article L. 122-1-1 du code du travail afin de pourvoir à des emplois qui ne sont pas directement liés à la production d'une oeuvre déterminée.
 
@@ -78,9 +78,9 @@ d) Les dépenses de post-production, y compris les effets spéciaux ;
 
 e) Les dépenses de pellicules et autres supports d'images et les dépenses de laboratoires.
 
-2. - Pour les dépenses correspondant aux prestations mentionnées au A, les prestataires auxquels fait appel l'entreprise de production doivent être établis en France et y effectuer personnellement ces prestations.
+2. - Pour les dépenses correspondant aux prestations mentionnées au 1, les prestataires auxquels fait appel l'entreprise de production doivent être établis en France et y effectuer personnellement ces prestations.
 
-3. - Les dépenses ouvrent droit au crédit d'impôt à compter de la délivrance par le directeur général du Centre national de la cinématographie d'un agrément à titre provisoire attestant que l'oeuvre cinématographique ou l'oeuvre audiovisuelle remplira les conditions prévues au 3 du I et aux 1 et 2 du II. Cet agrément est délivré sur la base de pièces justificatives, comprenant notamment un devis détaillé des dépenses de production individualisant les dépenses prévues en France ainsi que la liste nominative des salariés, industries techniques et prestataires spécialisés, précisant leur nationalité. Pour les salariés mentionnés aux a des 1° et 2 ° des 1 et 2 du II, l'entreprise de production doit également fournir copie de la déclaration prévue à l'article L. 320 du code du travail et du document en accusant réception par l'organisme destinataire.
+3. - Les dépenses ouvrent droit au crédit d'impôt à compter de la délivrance par le directeur général du Centre national de la cinématographie d'un agrément à titre provisoire attestant que l'oeuvre cinématographique ou l'oeuvre audiovisuelle remplira les conditions prévues au 3 du I et aux 1 et 2 du II. Cet agrément est délivré sur la base de pièces justificatives, comprenant notamment un devis détaillé des dépenses de production individualisant les dépenses prévues en France ainsi que la liste nominative des salariés, industries techniques et prestataires spécialisés, précisant leur nationalité. Pour les salariés mentionnés aux a des 1° et 2° des 1 et 2 du II, l'entreprise de production doit également fournir copie de la déclaration prévue à l'article L. 320 du code du travail et du document en accusant réception par l'organisme destinataire.
 
 IV. - Les subventions publiques non remboursables reçues par les entreprises et directement affectées aux dépenses visées au III sont déduites des bases de calcul du crédit d'impôt.
 
@@ -91,7 +91,3 @@ V. - 1. La somme des crédits d'impôt calculés au titre d'une même oeuvre cin
 3. En cas de coproduction déléguée, le crédit d'impôt est accordé à chacune des entreprises de production proportionnellement à sa part dans les dépenses exposées.
 
 4. Lorsqu'une oeuvre cinématographique et une oeuvre audiovisuelle sont réalisées simultanément à partir d'éléments artistiques et techniques communs, les dépenses mentionnées au III communes à la production de ces deux oeuvres ne peuvent être éligibles qu'au titre d'un seul crédit d'impôt. Les dépenses mentionnées au III qui ne sont pas communes à la production de ces deux oeuvres ouvrent droit à un crédit d'impôt dans les conditions prévues au présent article.
-
-NOTA :
-
-NOTA : Ces dispositions s'appliquent aux dépenses exposées pour la production d'oeuvres cinématographiques ou audiovisuelles dont les prises de vues commencent à compter du 1er janvier 2005.
