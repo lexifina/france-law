@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910817060
+
+- Question : [SEQ910817060](seq910817060.md) — Traitement de la stérilité
+
+## Réponse
+
+*Affaires sociales, JO du 1992-03-26, page 718*
+
+Réponse. - Les centres d'étude et de conservation des oeufs et du sperme humain (C.E.C.O.S.) constituent un des pôles fonctionnels des activités de procréation médicalement assistée (P.M.A.) et se trouvent soumis à la réglementation du décret n° 88-327 du 8 avril 1988 relatif aux activités de P.M.A. Constitués sous la forme d'associations privées loi de 1901, les C.E.C.O.S. sont, à une exception près, installés au sein d'établissements publics de santé. En accord avec leur fédération, le principe de l'intégration juridique des C.E.C.O.S. dans le système hospitalier public a été arrêté par l'article 12 de la loi n° 91-73 du 18 janvier 1991 portant dispositions relatives à la santé publique et aux assurances sociales. Cependant, à ce jour, les C.E.C.O.S. n'ont pas transmis à mes services les demandes d'intégration de leurs personnels dans la fonction publique hospitalière, qui seules rendront effectif le principe de cette intégration hospitalière. Afin de ne pas pénaliser les couples bénéficiant des traitements de la stérilité, deux mesures transitoires ont été prises : le financement des actes biologiques de P.M.A. inscrits à la nomenclature des actes de biologie médicale depuis l'arrêté du 7 février 1990 est assuré par les établissements hospitaliers d'accueil ; les actes n'entrant pas dans son champ d'application sont pris en charge sur la base de l'arrêté du 4 décembre 1989 fixant le tarif de responsabilité applicable aux produits d'origine humaine utilisés pour les inséminations artificielles à 302,10 francs Les C.E.C.O.S. ne peuvent facturer les paillettes à un prix supérieur ; un rappel de cette obligation sera fait à leur fédération. Eu égard à la perspective d'intégration hospitalière, il n'est pas prévue de revaloriser le tarif des paillettes.
