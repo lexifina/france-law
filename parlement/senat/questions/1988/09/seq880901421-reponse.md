@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880901421
+
+- Question : [SEQ880901421](seq880901421.md) — Moyens pour renforcer la compétitivité des PME
+
+## Réponse
+
+*Affaires européennes, JO du 1988-11-17, page 1283*
+
+Réponse. - La communication de la commission sur la politique de la Communauté en faveur de l'entreprise, transmise le 29 avril 1988, dont l'objet est de créer un environnement favorable au développement des P.M.E. dans la perspective du marché intérieur, a reçu le complet soutien du Gouvernement. La mise en place du marché intérieur doit, en effet, produire des effets économiques positifs sur l'ensemble du tissu économique et bénéficier notamment aux P.M.E. Comme le relève l'honorable parlementaire, il convient à présent, au plan national, de déterminer les mesures propres à permettre aux entreprises de développer leur activité dans de meilleures conditions. Le Gouvernement vient, à cet égard, d'apporter une contribution importante en adoptant un plan d'ensemble prévoyant notamment un encouragement à l'embauche, grâce à un allégement des charges sociales, une amélioration du financement des P.M.E., une exonération de l'impôt sur les bénéfices pour les entreprises nouvelles et une baisse des droits d'enregistrement portant sur les sessions de fonds de commerce. Le ministère des affaires européennes a, par ailleurs, entrepris de réunir des " groupes d'études et de mobilisation " chargés de déterminer, dans leur secteur d'attribution, les moyens de préparer les entreprises françaises au marché intérieur. Ces groupes sont dirigés par des personnalités choisies parmi les plus représentatives du monde économique et social français. Les secteurs des transports, du développement régional, de l'énergie, de l'agro-alimentaire ont, dès à présent, été retenus. D'autres secteurs pourront être pris en compte dans l'avenir.
