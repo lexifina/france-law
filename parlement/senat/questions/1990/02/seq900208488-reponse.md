@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900208488
+
+- Question : [SEQ900208488](seq900208488.md) — Dispositif d'alerte lors des tempêtes
+
+## Réponse
+
+*Premier ministre, JO du 1990-05-31, page 1183*
+
+Réponse. - A la suite des perturbations atmosphériques enregistrées dans l'ouest et le centre de la France au cours du mois de février, le dispositif d'alerte et d'information des médias a été renforcé pour adresser des avis et des conseils aux populations menacées par les bourrasques. C'est ainsi que, lors de la tempête qui a sévi les 28 février et le 1er mars 1990, un communiqué météorologique spécial a été envoyé au centre opérationel de la direction de la sécurité civile (Codisc) par la météorologie nationale, le 27 février à 17 heures. Ce communiqué annonçait des vents violents sur la moitié nord de la France et une tempête le 1er mars en Méditerranée. Le Codisc a retransmis le message à l'ensemble des départements concernés (préfets et directeurs départementaux des services d'incendie et de secours) le même jour et cela jusqu'à 22 h 04. Cette retransmission était accompagnée de conseils pratiques rediffusés dans leur département par les préfets. Le même jour, 27 février, à 23 h 04, un communiqué de presse donnant aux populations concernées des recommandations pratiques était transmis à l'A.F.P. et à l'A.C.P. Le mercredi 28 février à 12 heures, un bulletin d'alarme diffusé par la météorologie nationale confirmait le communiqué météorologique spécial du 27 février. Ce bulletin, complété par des conseils pratiques à la population, a été retransmis par le Codisc le 28 février à 14 h 20, au médias suivants : télévisions (La Cinq, F.R. 3, A. 2, T.F. 1), radios (R.T.L., Europe 1, R.M.C., N.R.J.), agences de presse (A.C.P., A.F.P.). Toutes dispositions ont été prises pour renforcer le dispositif d'alerte et d'information des médias et accroître les effots en matière de prévention lors des intempéries.
