@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031109728
+
+- Question : [SEQ031109728](seq031109728.md) — Situation des militaires dans la grille de la fonction publique de l'État
+
+## Réponse
+
+*Défense, JO du 2004-01-01, page 22*
+
+Une comparaison détaillée entre les grades militaires et les corps civils, voire les grades civils au regard du décret n° 48-1108 du 10 juillet 1948, ne peut traduire la réalité des situations, en raison notamment des différences qui existent en matière de recrutement, d'avancement, de changement de corps, de déroulement et de durée des carrières et de limites d'âge. Les dernières dispositions d'évolution de la grille des classifications et des rémunérations, décidées respectivement en 1990 (protocole Durafour) et en 1998 (accord salarial), ont fait l'objet de mesures de transposition aux militaires. L'article 19-II du statut général des militaires prévoit en effet que " toute mesure de portée générale affectant la rémunération des fonctionnaires civils de l'Etat est, sous réserve des mesures d'adaptation nécessaires, appliquée, avec effet simultané, aux militaires de carrière ". Ces transpositions ont été conduites en tenant compte des parcours indiciaires spécifiques aux militaires, tout en veillant à maintenir l'équilibre existant entre les agents civils et militaires de l'Etat. La grille indiciaire de l'ensemble du personnel non-officier commence désormais à l'indice majoré 261, traitement minimum de la fonction publique depuis le 1er juillet 2001, et se termine à l'indice majoré 513, qui correspond à l'indice terminal des corps de fonctionnaires de catégorie B de la fonction publique. L'indice majoré sommital des officiers est fixé à 820, comme pour les fonctionnaires de catégorie A. Ils peuvent accéder, sous certaines conditions, à la rémunération " hors échelle ". Leur situation est alors directement dérivée de la progression indiciaire des corps d'encadrement de la fonction publique.
