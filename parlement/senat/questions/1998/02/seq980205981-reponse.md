@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980205981
+
+- Question : [SEQ980205981](seq980205981.md) — Scolarité des enfants handicapés
+
+## Réponse
+
+*Éducation, JO du 1998-03-26, page 975*
+
+Réponse. - La loi no 75-534 du 30 juin 1975 d'orientation en faveur des personnes handicapées et la loi no 89-486 du 10 juillet 1989 d'orientation sur l'éducation ont fait de l'éducation des enfants handicapés une obligation nationale. Les difficultés d'application sur le terrain sont toutefois nombreuses en raison de la complexité de la tâche et de la diversité des handicaps. Selon la nature et l'importance du handicap, l'éducation spéciale se fait en classe sur un mode individuel, ou collectivement dans les classes dites d'intégration scolaire. L'éducation spéciale peut également se dérouler dans des établissements spécialisés. Les classes d'intégration collective sont confiées à des instituteurs, professeurs des écoles spécialisés, et fonctionnent dans des locaux adaptés. Pour les autres enfants (intégration individuelle), les enseignants sont sensibilisés dès leur formation initiale, aux difficultés d'apprentissage qui varient selon l'importance et la spécificité du handicap. L'équipement et l'adaptation des locaux des écoles primaires se mettent progressivement en place ; ces charges relèvent de la compétence des communes conformément aux dispositions de la loi no 83-663 du 22 juillet 1983. Le ministère chargé de l'emploi et de la solidarité assure la création des services d'éducation spéciale et de soins à domicile. Ces services sont de plus en plus nombreux dans les départements mais encore inégalement répartis ; ces services sont un complément indispensable pour une véritable intégration scolaire des enfants. Le programme d'emplois pour les jeunes dans sa dimension éducation nationale accorde une attention toute particulière à l'accueil des élèves handicapés par la création de contrats d'aide éducateurs d'école pour l'intégration scolaire des élèves handicapés.
