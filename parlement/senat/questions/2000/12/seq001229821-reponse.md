@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001229821
+
+- Question : [SEQ001229821](seq001229821.md) — Interlocuteur unique en matière d'opérateur foncier
+
+## Réponse
+
+*Budget, JO du 2001-05-17, page 1673*
+
+Réponse. - Le dispositif, dit " service foncier ", a été institué par le décret nº 67-568 du 12 juillet 1967, et mis en place entre 1972 et 1974 dans quarante-cinq départements de la France métropolitaine. Il ne constitue pas un nouveau service mais se traduit par une extension des attributions de droit commun des services de la direction générale des impôts en matière d'acquisitions immobilières réalisées par les personnes publiques. Ce dispositif, dans les départements où il a été instauré, est obligatoire pour les services de l'Etat. Il vise à faire du directeur des services fiscaux un opérateur foncier unique, habilité à conduire les opérations d'acquisition immobilière réalisées à l'amiable ou par voie d'expropriation au nom de l'Etat. Il demeure facultatif pour les collectivités locales qui ne peuvent y recourir que pour certaines opérations limitativement énumérées. Les collectivités locales n'ont, depuis l'origine, eu recours aux possibilités qui leur sont offertes par le décret du 12 juillet 1967 que de façon très ponctuelle, le recours à ce service ne leur paraissant pas, de manière générale, le plus approprié. Dans ces conditions, une généralisation du service foncier n'est pas envisagée. Au demeurant, il apparaît préférable que les services du domaine poursuivent leur démarche prioritaire d'amélioration de la qualité du service rendu à l'usager, et notamment aux collectivités territoriales.
