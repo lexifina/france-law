@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930400088
+
+- Question : [SEQ930400088](seq930400088.md) — Accès des associations humanitaires aux zones d'attente des ports et aéroports
+
+## Réponse
+
+*Intérieur, JO du 1993-08-05, page 1340*
+
+Comme le rappelle l'honorable parlementaire, l'article 1er, V, deuxième alinéa de la loi n° 92-625 du 6 juillet 1992 sur la zone d'attente des ports et des aéroports dispose qu'" un décret en Conseil d'Etat détermine les conditions d'accès du délégué au Haut-Commissariat des Nations unies pour les réfugiés ou de ses représentants ainsi que des associations humanitaires à la zone d'attente ". Cette disposition vise à accroître la transparence de la zone d'attente, déjà assurée par la possibilité offerte à l'étranger de communiquer avec l'extérieur et par le contrôle de l'autorité judiciaire. Un projet de décret prévoyant les conditions et les modalités pratiques de cet accès a été élaboré et communiqué aux représentants du HCR et à la commission consultative des droits de l'homme. Ce texte sera soumis au Conseil d'Etat très prochainement. S'agissant des missions d'aide, de soutien et de contrôle du respect des droits et de la dignité dont fait état l'honorable parlementaire, il convient de noter qu'elles sont d'ores et dejà pleinement assurées par les différentes parties prenantes au fonctionnement des zones d'attente, qu'il s'agisse de l'autorité judiciaire qui dispose, en vertu de la loi, du droit d'entrée et de visite, de la police de l'air et des frontières, de l'office des migrations internationales ou du ministère des affaires étrangères dans le cadre de l'audition des demandeurs d'asile à la frontière. Ainsi, si le Gouvernement souhaite assurer une meilleure transparence des zones d'attente en en permettant l'accès sous certaines conditions au HCR et aux associations humanitaires, il ne partage pas moins le souci, tout en luttant contre l'immigration irrégulière, de veiller lui-même au respect des droits de la personne
