@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021104270
+
+- Question : [SEQ021104270](seq021104270.md) — Suppression du droit de timbre pour les requêtes devant une juridiction administrative
+
+## Réponse
+
+*Justice, JO du 2003-04-17, page 1352*
+
+Le Garde des Sceaux, ministre de la Justice fait connaître à l'honorable parlementaire que le premier alinéa de l'article L. 411-1 du code de justice administrative subordonne l'introduction des requêtes auprès des juridictions administratives à l'acquittement d'un droit de timbre dans les conditions prévues par les dispositions des articles 1089 B et 1090 A du code général des impôts. Certaines requêtes sont toutefois dispensées du droit de timbre, notamment celles présentées en première instance et dirigées contre les arrêtés préfectoraux de reconduite à la frontière (article R. 776-1 du code de justice administrative), celles engagées contre une décision de refus de visa (article L. 411-1 du même code), ainsi que celles présentées par un requérant bénéficiaire de l'aide juridictionnelle ou tendant au prononcé de mesures d'urgence par le juge des référés (article L. 522-2 du même code). Si l'accès gratuit à la justice administrative est ainsi garanti pour une partie des requérants, notamment les plus modestes, il n'en demeure pas moins que l'exigence du droit de timbre constitue, effectivement, une formalité supplémentaire à accomplir par les requérants. L'absence de versement des droits contraint en outre, comme le rappelle l'honorable parlementaire, les greffes des juridictions administratives à adresser aux justiciables défaillants une mise en demeure aux fins de régularisation, ce qui représente une charge supplémentaire pour des services déjà très encombrés. La suppression de cette formalité, dont la contrepartie financière est inférieure à 2 millions d'euros pour 125 000 requêtes concernées, pourrait dès lors être envisagée favorablement par le Gouvernement, qui en étudie les modalités.
