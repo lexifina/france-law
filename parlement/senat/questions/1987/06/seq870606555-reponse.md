@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870606555
+
+- Question : [SEQ870606555](seq870606555.md) — Entreprises de presse hebdomadaire : exonération des cotisations sociales des correspondants des journaux
+
+## Réponse
+
+*Affaires sociales, JO du 1988-01-07, page 9*
+
+Réponse. -Les correspondants locaux non salariés de la presse régionale ou départementale relèvent, comme les vendeurs colporteurs de presse, des régimes de protection sociale des travailleurs indépendants et sont donc redevables des cotisations prévues par la réglementation propre à ces régimes. Toutefois, une mesure importante est intervenue pour alléger la charge que représente pour ceux qui en sont redevables la cotisation minimale d'assurance maladie prévue par l'article D. 612-5 du code de la sécurité sociale. C'est ainsi qu'en application des dispositions de l'article 10 de la loi n° 87-39 du 27 janvier 1987 et du décret n° 87-210 du 27 mars 1987 l'Etat prend en charge la moitié de la cotisation minimale annuelle d'assurance maladie due par les correspondants locaux et colporteurs de presse dont les revenus annuels sont inférieurs à 20 p. 100 du plafond de la sécurité sociale, soit 23 616 F pour 1987. En contrepartie de la cotisation minimale ainsi réduite les intéressés bénéficient de la couverture d'assurance maladie offerte par le régime des travailleurs indépendants et dont le coût impose le montant actuel de la cotisation minimale. Il n'est donc pas envisagé de réduire encore la participation des colporteurs et correspondants de presse au financement de leur régime. Par ailleurs, les correspondants bénéficient d'une dispense de cotisation d'allocations familiales des employeurs et travailleurs indépendants dès lors que le revenu professionnel est inférieur au salaire servant de base au calcul des prestations familiales, soit 20 200 F pour 1987.
