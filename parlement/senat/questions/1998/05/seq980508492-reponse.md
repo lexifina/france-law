@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508492
+
+- Question : [SEQ980508492](seq980508492.md) — Renforcement du réseau immobilier de La Poste par un service postal mobile
+
+## Réponse
+
+*Industrie, JO du 1998-08-20, page 2716*
+
+Réponse. - La Poste, conformément à la loi du 2 juillet 1990, adapte sa présence afin d'assurer un service public de qualité sur l'ensemble du territoire. Dans le cadre du contrat d'objectifs et de progrès, portant contrat de plan, ont été définies de façon concertée, en particulier avec les représentants des maires et des élus locaux, des orientations qui doivent permettre au service postal d'évoluer pour mieux répondre aux besoins des populations tant rurales qu'urbaines, notamment dans les zones sensibles. A cet effet, toutes les solutions doivent être explorées, notamment celles offertes par le développement de nouvelles formes de présence postale telles que le service postal mobile mais également les partenariats entre La Poste, les collectivités locales qui le souhaitent et d'autres services publics, pour permettre à l'exploitant public de développer et d'enrichir les services de proximité offerts au public et d'exercer pleinement ses missions, dans le cadre de l'autonomie de gestion que lui confère la loi. Le recours à des bureaux mobiles pour assurer la présence postale dans certaines zones rurales a déjà été expérimenté par La Poste. La mise en place de cette forme de présence postale est essentiellement liée aux conditions géographiques et climatiques des localités où elle pourrait s'appliquer. En tout été de cause, quelles que soient les solutions envisagées, elles doivent faire l'objet d'une concertation préalable et réelle avec les élus, les associations d'usagers, les organisations syndicales, de manière à parvenir autant que possible à un consensus sur la solution appropriée.
