@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930802313
+
+- Question : [SEQ930802313](seq930802313.md) — Enseignement des sciences économiques et sociales
+
+## Réponse
+
+*Éducation, JO du 1993-11-18, page 2208*
+
+Réponse. - Dans ses conférences de presse du 29 avril et du 7 juin 1993, le ministre de l'éducation nationale a présenté les décisions qu'il a prises sur la rénovation pédagogique des lycées. Ces décisions entre en application à compter de la rentrée 1993 en classe de première et à compter de la rentrée 1994 en classe terminale. S'agissant des sciences économiques et sociales, leur place est pleinement reconnue dans la nouvelle structure. En classe de seconde, depuis la rentrée 1992, l'horaire de cette discipline a été sensiblement augmenté puisqu'il est passé à trois heures contre deux heures précédemment. Les contenus de l'enseignement ont été rénovés de manière à permettre aux élèves réellement motivés ou intéressés par les sciences économiques et sociales de faire des choix d'orientation raisonnés vers une série de première, en particulier la série ES (économique et sociale) où cette discipline constitue une dominante de la formation. En classes de première et terminale ES, les sciences économiques et sociales disposent d'un horaire hebdomadaire de cinq heure auquel s'ajoute en classe de première, une heure d'enseignement en module par groupe d'effectif réduit. La diversification des profils au sein de la série ES se fait en classe terminale grâce aux enseignements dits de " spécialité " qui sont choisis par les élèves en fonction de leur motivations et de leur projet d'études ultérieures. Ces enseignements sont au nombre de trois (dont un est obligatoirement à prendre) : sciences économiques et sociales, mathématiques appliquées à l'économie et aux sciences sociales, langue vivante étrangère renforcée. Ce nouveau dispositif devrait permettre de créer les conditions d'une bonne insertion des élèves de cette série dans l'enseignement supérieur.
