@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970600136
+
+- Question : [SEQ970600136](seq970600136.md) — Développement de l'intercommunalité
+
+## Réponse
+
+*Intérieur, JO du 1997-07-31, page 2070*
+
+Réponse. - Au 1er janvier 1997, on dénombre 1 446 groupements à fiscalité propre rassemblant 16 214 communes et 29 923 810 habitants. A partir des résultats du recensement de la population de 1990, l'INSEE a réparti les communes métropolitaines en deux ensembles : communes urbaines et communes rurales. Toute commune métropolitaine se trouve classée dans l'une ou l'autre de ces deux catégories. Une structure intercommunale peut donc rassembler des communes toutes urbaines, ou toutes rurales, ou à la fois des communes urbaines et des communes rurales. 652 structures ne rassemblent que des communes rurales, pour un total de 2 920 848 habitants ; 71 structures ne rassemblent que des communes urbaines, pour un total de 6 240 168 habitants ; 723 structures rassemblent à la fois des communes rurales et des communes urbaines, pour un total de 20 762 794 habitants. Ces dernières structures peuvent être classées à leur tour en trois groupes selon qu'elles comportent plus, moins ou autant de communes urbaines que de communes rurales. 564 rassemblent plus de communes rurales que de communes urbaines, pour un total de 9 365 893 habitants ; 118 rassemblent moins de communes rurales que de communes urbaines, pour un total de 10 721 808 habitants ; 41 rassemblent autant de communes rurales que de communes urbaines, pour un total de 675 093 habitants. Récemment, l'INSEE a élaboré un nouveau type de zonage, qui permet de distinguer les pôles urbains, les communes périurbaines et l'espace à dominante rurale. Il sera utilisé pour la production des résultats du prochain recensement de la population. Cependant, à l'heure actuelle, ce zonage n'est pas encore opérationnel.
