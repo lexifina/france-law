@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991221541
+
+- Question : [SEQ991221541](seq991221541.md) — Formation des guides de musées
+
+## Réponse
+
+*Fonction publique, JO du 2000-10-12, page 3487*
+
+Réponse. - La loi nº 84-594 du 12 juillet 1984 relative à la formation des agents de la fonction publique territoriale a reconnu et organisé le droit à la formation des agents territoriaux. Celui-ci comprend différents types de formation : la préparation aux concours et examens, la formation initiale prévue par les statuts particuliers pour la titularisation ou pour la nomination dans la fonction publique territoriale, la formation continue dispensée en cours de carrière, la formation personnelle des fonctionnaires territoriaux, la formation d'adaptation à l'emploi. Le Centre national de la fonction publique territoriale est compétent notamment pour définir les programmes des formations initiales et d'adaptation à l'emploi, pour définir et assurer les préparations aux concours et examens, la formation continue, la formation personnelle. Toutefois, l'article 23 de la loi du 12 juillet 1984 précitée prévoit que ces formations peuvent également être assurées par d'autres organismes, par les collectivités locales ou par les centres de gestion. C'est dans ce cadre que le département de l'Allier a proposé une formation spécifique aux personnels des musées. Cette démarche ne peut qu'être appréciée favorablement dès lors qu'elle vise à favoriser la formation des agents en répondant à des besoins spécifiques ne s'inscrivant pas dans le programme établi par le CNFPT. S'agissant de son extension à d'autres collectivités, il appartient, conformément au principe de la libre administration des collectivités locales, à chaque collectivité d'apprécier en fonction de ses besoins propres, l'opportunité de recourir à ce type de format
