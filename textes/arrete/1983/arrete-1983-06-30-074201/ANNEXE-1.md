@@ -8,6 +8,4 @@ Essai au brûleur électrique. - Un coupon de 3 mètres carrés ; 180 X 600 mm ;
 
 Essai pour matériaux fusibles. - 70 X 70 mm ; masse totale minimale 2 grammes.
 
-Essai de propagation de flamme. - 400 X 35 mm.
-
-Essai au panneau radiant. - 400 X 95 mm.
+Essai de propagation de flamme. - 400 X 35 mm pour matériaux rigides; 460 X 230 mm pour les matériaux souples. Essai au panneau radiant. - 400 X 95 mm.

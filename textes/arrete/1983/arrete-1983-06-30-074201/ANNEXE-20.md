@@ -4,34 +4,44 @@ I. - Supports types pour revêtements de murs ou de plafonds
 
 1. Fibrociment.
 
-Epaisseur : 6 mm.
+Epaisseur : (6 + ou - 1) mm.
 
-Composition : à base d'amiante-ciment.
+Masse volumique : (1800 + ou - 100) kg/m3.
 
 Représentatif de tout support M 0 non isolant
 
 2. Plaque de plâtre cartonné.
 
-Epaisseur : 12,5 mm.
-
 Composition et caractéristiques : voir norme NF P 72-302.
 
-3. Panneau de particules de bois agglomérées ignifugé dans la masse à la fabrication.
+Epaisseur : (12,5 + ou - 1) mm.
 
-Résine à base d'urée-formol.
+Masse volumique : (800 + ou - 100) kg/m3.
 
-Destination : usage en intérieur des bâtiments.
+Classement M1. 3. Panneau de particules de bois agglomérées ignifugé dans la masse à la fabrication.
 
-Epaisseur : 16 mm.
+Composition et caractéristiques : voir norme NF B 54-100.
 
-Classement : M 2.
+Destination : usage en intérieur des bâtiments pour milieu sec.
 
-Masse volumique : 650-700 kg/m3.
+Epaisseur : (16 + ou - 1) mm. Masse volumique : 680 + ou - 50) kg/m3.
+
+Classement : M 1.
 
 II. - Supports-types pour revêtements de sols
 
 Fibrociment.
 
 Voir paragraphe 1 ci-dessus.
+
+2. Panneau de particules de bois agglomérées non ignifugé.
+
+Composition et caractéristiques : voir norme NF B 54-100.
+
+Destination : planchers de bâtiments pour milieu sec.
+
+Epaisseur : (22 + ou - 1) mm. Masse volumique : 680 + ou - 50) kg/m3.
+
+Classement : M 3 (essai au panneau radiant).
 
 Les laboratoires agréés utiliseront, pour les essais, des supports types de fabrication identique.

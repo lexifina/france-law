@@ -70,9 +70,13 @@ a) Revêtus de peinture appliquée en quantités inférieures à 0,35 kg/m2 humi
 
 b) Revêtus de peinture épaisse ou d'enduit pelliculaire de finition appliqué en quantités comprises entre 0,5 et 1,5 kg/m2 humide : classement M 2.
 
-c) Revêtus de revêtements plastiques épais, définis par le DTU 59.2 utilisés en extérieur de bâtiment, en quantités comprises entre 1,5 et 3,5 kg/m2 humide : classement M 2.
+c) Revêtus de revêtements plastiques épais, définis par le DTU 59,2 utilisés en extérieur de bâtiment, en quantités comprises entre 1,5 et 3,5 kg/m2 humide : classement M 2.
 
-2. Supports non isolants classés M 1 ou M 2 :
+2. Supports inertes revêtus en utilisation intérieure de peinture brillante en quantité inférieure à 0,10 kg/m2 humide ou de peinture mate ou satinée en quantité inférieure à 0,15 kg/m2 humide ou de peinture mate ou satinée en quantité inférieure à 0,65 kg/m2 humide :
+
+classement M 0.
+
+3. Supports non isolants classés M 1 ou M 2 :
 
 Revêtus de peinture appliquée en quantités inférieures à 0,35 kg/m2 humide pour les peintures brillantes et à 0,50 kg/m2 humide pour les peintures mates et satinées, sans prendre en compte les apprêts, impressions ou bouche-pores : classement M 2.
 
