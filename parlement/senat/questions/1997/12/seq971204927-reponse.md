@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971204927
+
+- Question : [SEQ971204927](seq971204927.md) — Contribution de La Française des jeux dans l'acquisition de trésors nationaux
+
+## Réponse
+
+*Culture, JO du 1998-03-26, page 970*
+
+Réponse. - L'honorable parlementaire appelle l'attention de Mme la ministre de la culture et de la communication sur l'éventuelle contribution de La Française des jeux pour permettre l'acquisition de trésors nationaux. Il convient de préciser que les acquisitions de cette catégorie sont prises en compte au titre du fonds du patrimoine, qui a fait l'objet d'une importante augmentation des crédits depuis 3 ans. Une somme de 97 millions de francs est inscrite au budget du ministère de la culture et de la communication, montant suffisant pour que des oeuvres retenues comme trésors nationaux puissent être acquises. La ministre rappelle qu'un projet de loi modificatif de la loi 31 décembre 1992 relative aux produits soumis à certaines restrictions de circulation, améliorant la protection des objets et ensembles mobiliers présentant un intérêt historique ou artistique, sera prochainement soumis au conseil des ministres. Ces dispositions permettront d'assouplir le dispositif réglementaire actuel pour mieux répondre aux attentes et aux contraintes des professionnels du marché de l'art et, d'autre part, permettre l'acquisition par l'Etat des trésors nationaux au prix du marché international après expertise. Les services du ministère de la culture et de la communication et ceux des finances étudient les conséquences de l'affectation de certaines recettes de La Française des jeux pour acquérir des trésors nationaux. En effet, il est important de mesurer l'impact d'une telle disposition qui ne doit pas constituer une simple redistribution des recettes actuelles de la société mais, bien au contraire, concevoir peut-être un nouveau jeu pour créer des recettes nouvelles.
