@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920621852
+
+- Question : [SEQ920621852](seq920621852.md) — Rapport de la Cour des comptes sur la gestion des offices d'interventions agricoles
+
+## Réponse
+
+*Agriculture, JO du 1992-09-10, page 2058*
+
+Réponse. - Les observations relatives aux offices d'intervention agricoles contenues dans le rapport public de la Cour des comptes pour 1992 ainsi que la réponse que le ministre de l'agriculture et de la forêt y a apportée ont été rendues publiques à la fin du mois de juin 1992. Ces observations portent notamment sur les contrôles exercés sur les aides communautaires par les offices, la haute-juridiction attribuant d'ailleurs, pour une large part, les insuffisances qu'elle relève, à l'extrême complexité des réglementations communautaires. Si la Cour des comptes émet des critiques, elle n'en souligne pas moins l'importance et l'efficacité du rôle joué par les offices agricoles dans la mise en oeuvre de la politique communautaire d'intervention sur les marchés agricoles. Cela étant, la réforme de la politique agricole commune conduira nécessairement, dans les mois qui viennent, à arrêter au niveau national, les circuits de distribution et les modalités de contrôle des nouvelles aides à mettre en place. A cet effet, des travaux sont actuellement menés par les corps d'inspection, les services centraux et locaux du ministère de l'agriculture et de la forêt ainsi que les divers organismes concernés. Il va de soi que les réflexions menées prennent en compte les préoccupations de la Cour des comptes en matière d'amélioration de l'efficacité des contrôles, comme, d'ailleurs, de simplification des circuits et des procédures ou de clarification des rôles entre les différents services et organismes intervenant dans la gestion et le contrôle des aides communautaires.
