@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980306940
+
+- Question : [SEQ980306940](seq980306940.md) — Prime au maintien de troupeau de vaches allaitantes
+
+## Réponse
+
+*Agriculture, JO du 1998-09-24, page 3054*
+
+Réponse. - L'article 15 de la loi de modernisation du 1er février 1995 ouvre " la possibilité d'établir des équivalences entre les références et les droits concernant des productions différentes, en fonction du revenu procuré par ces productions ". Une procédure d'échange pose quelques difficultés en raison de la profonde différence de nature entre droits à primes à la vache allaitante et quotas laitiers. En effet, les droits à primes sont attachés à l'exploitant, avec possibilité pour celui-ci de les offrir totalement ou partiellement à la réserve départementale, alors que les références laitières sont attachées au foncier. Le producteur ne peut donc pas les offrir sans souscrire à une procédure permettant de détacher juridiquement les références laitières du foncier. Cela n'est possible que dans le cadre du programme d'aide à la cessation d'activité laitière ou de cessations spontanées. A la demande des organisations professionnelles et en concertation avec elles, le ministère de l'agriculture a mené une réflexion pour trouver une solution qui permette de répondre aux revendications exprimées, tout en garantissant une sécurité juridique suffisante et sans créer un renchérissement injustifié de la valeur des droits. A l'issue de cette réflexion, il a été décidé de mettre en place une expérimentation pour la campagne 1998/99 dans les départements les plus concernés par cette procédure. Une dizaine de départements ont été sélectionnés, parmi lesquels figure le département de la Creuse. Un bilan sera établi à l'issue de cette expérimentation, en vue d'en tirer toutes les conséquences.
