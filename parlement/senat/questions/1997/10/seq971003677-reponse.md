@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971003677
+
+- Question : [SEQ971003677](seq971003677.md) — Entrée dans l'Alliance atlantique de la Hongrie, de la Pologne et de la République tchèque et armement
+
+## Réponse
+
+*Défense, JO du 1997-12-18, page 3548*
+
+Réponse. - La Pologne, la Hongrie et la République tchèque, candidats à la première vague d'élargissement de l'organisation du traité de l'Atlantique Nord (OTAN), ont engagé des programmes de modernisation de leurs forces militaires, de leurs armements et de leur industrie de défense. La France contribue directement à ces programmes, en engageant tout d'abord des échanges institutionnels avec ces pays. A ce titre, le centre des hautes études de l'armement de DGA organise une session biennale pour l'Europe centrale, orientale et balkanique (SECOB) ; des exercices bilatéraux et multilatéraux entre les armées de la France et de ces trois pays sont effectués et une commission mixte d'armement avec la Pologne et la République tchèque a été instituée. La France a également obtenu, depuis 1993, plusieurs contrats dont les principaux sont : les systèmes d'identification ami-ennemi IFF en 1993, avionique de l'IRYDA 22 en 1996 et radio PR4G en 1997, avec la Pologne ; les cont res-mesures électroniques terrestres en 1996 et le système de défense a érienne à base de missiles sol-air " Mistral " en 1997, avec la Hongrie. Tous ces contrats comportent un volet de coopération industrielle visant à développer les liens entre l'industrie locale et les entreprises françaises, à l'image des relations privilégiées existant entre Thomson-CSF et les entreprises françaises ont remis des offres, sont en cours de discussion. Par ailleurs, dès que ces pays disposeront de ressources suffisantes, des programmes de renouvellement des parcs aéronautiques sont prévus. Dans ce cadre, la société Dassault-Aviation proposera son appareil Mirage 2005-5.
