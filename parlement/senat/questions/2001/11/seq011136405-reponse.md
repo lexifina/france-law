@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011136405
+
+- Question : [SEQ011136405](seq011136405.md) — Conditions d'accueil des demandeurs d'asile
+
+## Réponse
+
+*Affaires étrangères, JO du 2002-02-21, page 552*
+
+Le Conseil européen réuni à Laeken les 14 et 15 décembre 2001 a effectué un premier bilan de la mise en place de l'espace européen de liberté, de sécurité et de justice dont les contours avaient été fixés à Tampere en octobre 1999. La question de l'asile a naturellement été abordée apr les chefs d'Etat et de gouvernement qui ont rappelé à cette occasion leur engagement d'adopter dans les plus brefs délais une politique commune en la matière, respectant pleinement les dispositions de la convention de Genève de 1951. Il va de soi que les principes de la convention de Genève - notamment le principe fondamental du non-refoulement - et d'autres instruments internationaux relatifs aux droits de l'homme, tels que la Convention européenne de sauvegarde des droits de l'homme et des libertés fondamentales, ne seront nullement remis en cause par le développement d'une politique européenne d'asile. Cette politique d'asile passe dans un premier temps par l'adoption de normes communes, notamment en matière de procédures d'asile et d'accueil des demandeurs d'asile. Des propositions de la commission sont déjà en cours de discussion à Bruxelles. La France est particulièrement attachée à ce que l'harmonisation européenne en la matière s'inscrive dans le respect des obligations de la convention de Genève et, plus généralement, des autres instruments pertinents : des procédures d'asile à la fois efficaces et équitables, un accueil dans des conditions de dignité pour les demandeurs d'asile sur tout le territoire de l'Union europénne et une méthode claire et opérationnelle pour déterminer l'Etat responsable d'une demande d'asile.
