@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950109338
+
+- Question : [SEQ950109338](seq950109338.md) — Plan de chasse concernant les cervidés
+
+## Réponse
+
+*Environnement, JO du 1995-04-27, page 1003*
+
+Réponse. - Le ministre de l'environnement a bien pris connaissance de la question posée par l'honorable parlementaire au ministre de l'agriculture et de la pêche concernant la réglementation relative à l'indemnisation des dégâts causés par le gros gibier aux cultures forestières. Le dispositif actuel d'indemnisation des dégâts causés par le grand gibier aux récoltes tel qu'il est codifié aux articles L. 226-1 et suivants du code rural a été institué en 1968 en contrepartie de la suppression du droit d'affût dont bénéficiaient jusqu'alors les agriculteurs pour protéger leurs cultures en repoussant et détruisant ces animaux. Il est étroitement lié à l'institution du plan de chasse et à la détermination annuelle d'une fourchette de prélèvement que doit respecter chaque détenteur du droit de chasse. Cette fourchette est fixée par le préfet, après avoir pris l'avis d'une commission regroupant les intérêts cynégétiques, agricoles et forestiers, dans un objectif d'équilibre entre les différentes activités concernées. Des recherches ont été réalisées et se poursuivent, auxquelles l'office national de la chasse et l'office national des forêts contribuent, notamment pour apprécier les situations d'équilibre ou de déséquilibre entre la faune et la flore. Le centre d'étude du machinisme agricole du génie rural des eaux et des forêts (CEMAGREF) a récemment mis au point une technique d'analyse floristique permettant une appréciation pratique de cet équilibre. Diverses techniques ont été mises au point pour protéger des plants forestiers de la dent du gibier. Leur coût est à mettre en rapport avec les coûts et bénéfices des activités cynégétiques et sylvicoles développées sur chaque territoire forestier.
