@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910515058
+
+- Question : [SEQ910515058](seq910515058.md) — Embauche des veuves
+
+## Réponse
+
+*Travail, JO du 1992-08-27, page 1982*
+
+Réponse. - Les problèmes d'accès à l'emploi des veuves rentrent dans un contexte plus général qui est propre à l'ensemble des demandeurs d'emploi. Le Gouvernement a mis en place une série de mesures destinées à favoriser l'embauche des publics les plus défavorisés, dont peuvent effectivement faire partie les veuves. Parmi ces dispositifs généraux d'insertion professionnelle, on citera notamment les programmes en faveur des chômeurs de longue durée, les mesures en faveur des personnes de plus de cinquante ans et des personnes peu qualifiées, les programmes en faveur des femmes, et notamment des femmes isolées. En particulier, l'effort massif entrepris par le Gouvernement en 1992 pour lutter contre le chômage de longue durée devrait bénéficier très directement aux veuves. Un traitement préférentiel est en effet prévu pour les contrats de retour à l'emploi et les contrats emploi-solidarité : suite à un amendement proposé par les sénateurs, la loi pour le retour à l'emploi et la lutte contre l'exclusion de 1989 recommande qu'une attention privilégiée soit portée aux femmes isolées, notamment aux veuves. S'agissant des actions en faveur des femmes, des mesures spécifiques existent en matière de formation : accès prioritaire aux stages de formation rémunérés pour les mères de famille souhaitant retourner sur le marché du travail, stages de formation en faveur des femmes isolées comprenant 7 000 places en 1992 ; en matière de lutte contre le chômage : programme régional de lutte contre le chômage des femmes mené dans l'ensemble des régions depuis 1991, ou de conciliation de la vie professionnelle et de la vie familiale : création en cours du fonds d'incitation pour la formation des femmes en difficulté afin de prendre en charge notamment les frais de garde d'enfant.
