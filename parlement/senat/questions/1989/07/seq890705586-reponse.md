@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890705586
+
+- Question : [SEQ890705586](seq890705586.md) — Retraités de la fonction publique
+
+## Réponse
+
+*Fonction publique, JO du 1989-09-07, page 1458*
+
+Réponse. - Il est indiqué à l'honorable parlementaire que le décret n° 82-1141 du 29 décembre 1982 ne s'applique pas en toute hypothèse aux pensions de la fonction publique. Les modalités de la revalorisation des pensions servies aux retraités de la fonction publique de l'Etat sont en effet fixées par le code des pensions civiles et militaires. En vertu des dispositions de ce code, les pensions servies aux retraités de l'Etat sont fixées par référence aux traitements de leurs collègues en activité. Il en résulte que les retraités de l'Etat bénéficient automatiquement des mesures générales de revalorisation des traitements d'activité, et qu'ils bénéficient également des mesures catégorielles intervenant en faveur des actifs en application du principe de péréquation. Le principe de péréquation permet aux retraités de bénéficier des avantages accordés aux actifs par une réforme statutaire, à la condition toutefois que l'octroi de ces avantages ne soit pas subordonnépour les actifs à une sélection sous une forme quelconque. S'il en était autrement, l'extension aux retraités d'avantages consentis à certains personnels en activité aboutirait à mieux traiter les fonctionnaires déjà admis à faire valoir leurs droits à la retraite que ceux de leurs collègues en activité qui n'ont pas été en mesure de bénéficier des avantages en cause. S'agissant de l'accord salarial du 17 novembre 1988, conclu pour la période de 1988 et 1989 avec cinq des sept organisations syndicales représentatives des fonctionnaires, son application devrait permettre, compte tenu des principes rappelés ci-dessus, le maintien du pouvoir d'achat de l'ensemble des retraités et une progression pour ceux d'entre eux dont les pensions sont les plus modestes, notamment ceux bénéficiant du minimum de pension.
