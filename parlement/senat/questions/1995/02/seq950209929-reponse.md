@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950209929
+
+- Question : [SEQ950209929](seq950209929.md) — Partage par moitié des responsabilités ne pouvant être clairement établies lors d'un accident de la circulation
+
+## Réponse
+
+*Justice, JO du 1995-03-30, page 772*
+
+Réponse. - Selon la loi du 5 juillet 1985 relative à l'indemnisation des victimes d'accidents de la circulation, lorsqu'un accident implique plusieurs véhicules, soit des fautes peuvent être relevées à l'encontre des conducteurs et la responsabilité est partagée entre eux à proportion de leurs fautes respectives, soit une faute n'est ni alléguée ni démontrée et chacun des conducteurs est tenu à indemnisation intégrale des dommages subis par l'autre. Quant à la victime non conducteur, elle est intégralement indemnisée sauf faute inexcusable de sa part qui aurait été la cause exclusive de l'accident. Indépendamment de cette législation spécifique aux accidents de la circulation, le code civil pose le principe de l'indemnisation intégrale par le gardien d'une chose des dommages causés par celle-ci sauf exonération par la faute de la victime ou d'un tiers ou par suite d'un cas de force majeure. Ainsi, lorsque la cause d'un accident impliquant plusieurs personnes reste inconnue, chaque gardien doit réparation intégrale à la victime. Ces principes de responsabilité quasi délictuelle procèdent de la loi et les entreprises d'assurance ne sauraient opposer à la victime des clauses y dérogeant. En revanche, dans les rapports entre assureurs et assurés, des clauses limitatives de garantie peuvent être convenues, sauf disposition impérative contraire. Ces limitations peuvent être fixées différemmment selon les dommages. Mais encore faut-il que le contrat d'assurance énonce clairement cette limitation de prise en charge de l'indemnisation. Si la dette de responsabilité est supérieure au plafond de garantie, elle demeure pour le surplus à la charge de l'assuré responsable.
