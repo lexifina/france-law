@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030607866
+
+- Question : [SEQ030607866](seq030607866.md) — Bilan des travaux du Conseil supérieur des archives
+
+## Réponse
+
+*Culture, JO du 2003-09-18, page 2836*
+
+En réponse à la question de l'honorable parlementaire, il est rappelé que le Conseil supérieur des archives, renouvelé dans sa composition et ses missions, a été installé le 21 janvier 2002. Au cours de cette réunion plénière, le conseil a arrêté les thèmes sur lesquels il allait travailler et décidé la constitution de plusieurs commissions associant des membres du conseil et des personnalités extérieures pour conduire ce travail de réflexion. Cinq commissions ont été créées sur les thèmes suivants : sélection des archives définitives, instruments de recherche, archives scientifiques et techniques, archives notariales et archives orales. Ces commissions travaillent au rythme de quatre à cinq réunions par an. Elles présenteront les premiers résultats des travaux de diagnostic et d'état des lieux, chacune dans leur domaine, lors de la prochaine réunion du Conseil supérieur des archives qui devrait se tenir au deuxième trimestre 2003. A ce jour, la commission sélection des archives définitives, présidée par M. René Rémond, s'est penchée sur les archives du ministère de l'éducation nationale avant d'étudier la future circulaire sur les archives des juridictions ; la commission des archives notariales envisage de lancer une enquête sur les archives notariales ; la commission des archives orales s'est interrogée sur les conditions d'une campagne de collecte des archives orales immédiates ; la commission des instruments de recherche travaille sur les instruments de recherche électroniques ; quant à la commission des archives scientifiques et techniques, elle établit un état des lieux. Un rapport détaillé de l'ensemble des travaux du Conseil supérieur est en cours de réalisation et sera adressé à l'honorable parlementaire dès sa validation par M. René Rémond.
