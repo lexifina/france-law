@@ -1,0 +1,9 @@
+# Réponse à la question SEQ891006724
+
+- Question : [SEQ891006724](seq891006724.md) — Traitement des dossiers de revenu minimum d'insertion du département du Rhône
+
+## Réponse
+
+*Solidarité, JO du 1990-04-26, page 924*
+
+Réponse. - Pour faciliter la mise en oeuvre du revenu minimum d'insertion, un renforcement rapide des moyens de gestion de l'Etat a été décidé par le ministère de la solidarité, de la santé et de la protection sociale. Pour réaliser la distribution des postes, les paramètres de répartition ont été les suivants : pourcentage de bénéficiaires R.M.I. par rapport à la population du département ; degré d'implication de la direction départementale des affaires sanitaires et sociales dans la gestion administrative du dispositif, notamment au niveau de l'insertion ; situation des effectifs réels actuellement en place dans les services extérieurs des affaires sanitaires et sociales au regard de l'effectif budgétaire de référence réparti. A cette fin, la direction départementale des affaires sanitaires et sociales du Rhône a bénéficié de l'arrivée de trois agents de catégorie A, dont un est affecté au conseil départemental d'insertion. Pour les autres catégories, la situation des effectifs en place a permis de redéployer sur l'action R.M.I. Dans ces conditions, il n'est guère possible de faire plus pour la direction départementale des affaires sanitaires et sociales du Rhône en ce qui concerne l'affectation du personnel supplémentaire. Quant au dépassement de la règle des 120 heures pour le recrutement des vacataires, les services du ministère étudient, en liaison avec ceux du ministère de la fonction publique et des réformes administratives, la possibilité de remédier aux difficultés signalées par l'honorable parlementaire. Mais, en l'état actuel de la réglementation, seuls les vacataires 120 heures recrutés en application de l'arrêté du 29 novembre 1976 peuvent être rémunérés sur le chapitre 37-13, article 20.
