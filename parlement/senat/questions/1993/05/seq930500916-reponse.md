@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930500916
+
+- Question : [SEQ930500916](seq930500916.md) — Ticket modérateur affectant les artisans et commerçants atteints d'une maladie de longue durée
+
+## Réponse
+
+*Entreprises, JO du 1993-07-15, page 1143*
+
+Réponse. - L'harmonisation du régime d'assurance maladie des travailleurs non salariés des professions non agricoles avec le régime général s'est poursuivie avec régularité et de nombreuses et importantes mesures ont déjà été prises à cet effet. Seule la prise en charge des soins courants n'a pas connu la même évolution, selon le souhait même des responsables élus de ce régime. En effet la poursuite de l'alignement sur le régime général dans ce domaine nécessiterait un accroissement de l'effort contributif des cotisants. Cependant, une étape importante vient d'être franchie en ce qui concerne le traitement des affections de longue durée (ALD), et les soins dispensés aux personnes souffrant d'une affection grave caractérisée ne figurant pas sur la liste des trente maladies. Le décret n° 93-682 du 27 mars 1993 paru au Journal officiel du 28 mars 1993 précise qu'à compter du 30 mars 1993 ces malades reconnus atteints d'une affection de longue durée bénéficient d'une exonération totale du ticket modérateur, lorsque les soins sont en rapport avec cette affection. La participation de l'assuré est donc supprimée pour l'ensemble des frais exposés en rapport avec une ALD. C'est ainsi que les consultations et soins externes hospitaliers remboursés jusqu'alors à 85 p. 100 le sont désormais à 100 p. 100 comme les soins dispensés au domicile du malade ou au cabinet du praticien, les frais d'appareillage, les cures thermales (hors hospitalisation) et les frais de transports sanitaires. Cette amélioration des remboursements devrait se traduire par une révision des contrats d'assurance complémentaire souscrits par les artisans et les commerçants.
