@@ -1,6 +1,6 @@
-# Article 1
+# Article 1er
 
-Le présent accord s'applique à l'ensemble des salariés cadres et non cadres des cabinets et cliniques vétérinaires exerçant sur le territoire métropolitain, classés dans la nomenclature NAF sous le code 852Z, et ayant plus de 1 an d'ancienneté dans le cabinet.
+Le présent accord s'applique à l'ensemble des salariés cadres et non cadres des cabinets et cliniques vétérinaires exerçant sur le territoire métropolitain, classés dans la nomenclature NAF sous le code 852Z, et ayant plus de 1 an d'ancienneté dans la profession.
 
 Les salariés relevant de l'autorité ordinale des vétérinaires sont exclus du champ d'application du présent accord.
 
