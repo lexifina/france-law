@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980206548
+
+- Question : [SEQ980206548](seq980206548.md) — TVA applicable aux travaux d'amélioration de logements sociaux
+
+## Réponse
+
+*Économie, JO du 1998-09-03, page 2825*
+
+Réponse. - Conformément à l'article 1384 A du code général des impôts, les constructions neuves affectées à l'habitation principale et financées à plus de 50 % par des prêts locatifs aidés sont exonérées de taxe foncière sur les propriétés bâties pendant une durée de quinze ans à compter de leur achèvement. Parallèlement, les articles 1384 B, 1586 B et 1599 ter E du même code permettent aux communes et à leurs groupements à fiscalité propre, aux conseils généraux et aux conseils régionaux d'instituer une exonération, totale ou partielle, de taxe foncière sur les propriétés bâties pendant une durée qu'ils déterminent pour les logements acquis en vue de leur location avec le concours financier de l'Etat, en application du 3º de l'article L. 351-2 du code de la construction et de l'habitation CCH. Compte tenu des dispositions de l'article R. 331-1 du CCH, les logements visés sont ceux acquis dans le cadre d'opérations d'acquisition-amélioration prévues aux 3º, 5º et 6º dudit article ainsi que les opérations d'acquisitions de logement (sans obligation minimale de travaux d'amélioration) définies au deuxième alinéa de ce même article. Conformément à l'article 29 de la loi d'orientation relative à la lutte contre les exclusions, cette exonération, sur délibération des collectivités, est transformée en une exonération de plein droit. Les logements sociaux donnés en location ayant fait l'objet de travaux d'amélioration, de transformation ou de réhabilitation ouvrant droit au taux réduit de TVA de 5,5 % et qui n'entrent pas dans les prévisions de l'article 29 susvisé demeurent soumis à la taxe foncière sur les propriétés bâties.
