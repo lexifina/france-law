@@ -34,7 +34,9 @@ Versements effectués au titre d'une taxe parafiscale affectée à la formation 
 
 5° Selon le cas, l'insuffisance de contribution au titre de la période considérée, ou l'excédent reportable sur les trois années suivantes ou l'insuffisance de contribution versée aux organismes paritaires agréés par l'Etat au titre du congé individuel de formation en application de l'article 235 ter H bis du code général des impôts ;
 
-6° Eventuellement, le montant restant à reporter au titre des dépenses effectuées au cours de chacune des trois années précédentes; 7° Le cas échéant, la majoration prévue à l'article 235 ter G du code général des impôts;
+6° Eventuellement, le montant restant à reporter au titre des dépenses effectuées au cours de chacune des trois années précédentes;
+
+7° Le cas échéant, la majoration prévue à l'article 235 ter G du code général des impôts;
 
 8° Le montant total du versement à effectuer à la caisse du comptable des impôts;
 
@@ -52,4 +54,4 @@ c. Par âge ;
 
 d. Par type d'action au sens de l'article L. 900-2 du code du travail ;
 
-12° Le nombre de jeunes travailleurs au sens de l'article L. 931-14 du code du travail qui ont bénéficié d'une formation au cours de l'année.
+12° Le nombre de jeunes travailleurs au sens de l'article L. 931-21 du code du travail qui ont bénéficié d'une formation au cours de l'année.
