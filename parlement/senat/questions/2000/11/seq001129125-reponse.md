@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001129125
+
+- Question : [SEQ001129125](seq001129125.md) — Plan d'élimination des déchets de la ville de Paris
+
+## Réponse
+
+*Aménagement du territoire, JO du 2001-06-21, page 2081*
+
+La ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, des questions relatives au contenu du projet de plan d'élimination des déchets ménagers et assimilés de Paris. Il s'agit, d'une part, de la localisation des quatre centres de tri prévus dans ce document et, d'autre part, de l'évolution, à l'horizon 2010, des différentes catégories de déchets et leurs modes de valorisation. La réponse à la première question renvoie aux décisions des acteurs locaux impliqués dans la gestion des déchets ménagers, aux choix qui seront faits par les partenaires réunis au sien notamment de la commission de suivi du plan de Paris. Il n'appartient pas en effet à la ministre de se substituer au débat local pour décider du lieu d'implantation des installations nécessaires. S'agissant de l'Ile-de-France, la ministre a bien conscience que le contexte très spécifique de la région justifie la mise en place d'un dispositif permettant d'assurer la cohérence des politiques de gestion des déchets conduites dans chacun des départements. Elle a demandé au préfet de région de poursuivre sa mission de coordination des démarches de planification départementales des déchets ménagers et assimilés, et souhaité que soit retenu un objectif global ambitueux de collecte sélective, en vue du recyclage des matériaux et de la valorisation biologique, d'au moins 35-40 % à l'horizon 2005. C'est au travers de la poursuite de la concertation que sera définie, au-delà du contexte de chaque département qui la compose, la cohérence globale de la gestion des déchets de la région et que devront être recherchées les voies d'amélioration des performances de valorisation en vue de compléter et préciser les objectifs de l'échéance 2010.
