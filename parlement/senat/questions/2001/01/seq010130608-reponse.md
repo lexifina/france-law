@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010130608
+
+- Question : [SEQ010130608](seq010130608.md) — Campagne internationale contre la torture et les mauvais traitements
+
+## Réponse
+
+*Affaires étrangères, JO du 2001-02-22, page 647*
+
+Réponse. - La France est partie à tous les instruments internationaux prohibant la torture ou les peines et traitements inhumains ou dégradants. Elle a ainsi ratifié la convention contre la torture et autres peines ou traitements cruels, inhumains ou dégradants, élaborée dans le cadre des Nations unies. Elle est également partie à deux instruments élaborés au sein du Conseil de l'Europe : la convention de sauvegarde des droits de l'homme et des libertés fondamentales, et la convention européenne pour la prévention de la torture et des peines ou traitements inhumains ou dégradants, qui a mis en place un mécanisme de visites de toute personne privée de sa liberté, par un comité d'experts indépendants. Ce comité s'est d'ailleurs rendu en France au mois de mai 2000, dans le cadre de son programme de visites périodiques. La France manifeste un intérêt majeur à la lutte contre la torture et les peines ou traitements inhumaines ou dégradants. C'est ainsi qu'elle a coparrainé le projet de protocole additionnel à la convention contre la torture des Nations unies, qui vise à établir, au plan universel, un mécanisme de visites comparables à celui existant dans le cadre du Conseil de l'Europe. Les négociations sur ce protocole reprendront au cours du mois de février 2001. Plus récemment, reprenant sur ce point les suggestions d'Amnesty International, elle a proposé à ses partenaires européens, alors qu'elle assurait la présidence de l'Union européenne, l'élaboration d'orientations contre la torture, afin de faciliter les interventions de l'Union en la matière. La présidence suédoise s'est engagée à poursuivre la réflexion menée en vue d'élaborer ces orientations.
