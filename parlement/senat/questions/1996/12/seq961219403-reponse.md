@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961219403
+
+- Question : [SEQ961219403](seq961219403.md) — Droits de l'homme en Turquie
+
+## Réponse
+
+*Affaires étrangères, JO du 1997-01-30, page 275*
+
+Réponse. - L'honorable parlementaire a bien voulu attirer l'attention du ministre sur la situation des droits de l'homme en Turquie. La France n'a jamais manqué de rappeler aux autorités turques la nécessité d'améliorer la situation des droits de l'homme et de poursuivre le processus de démocratisation. Avec ses partenaires de l'Union européenne, elle a fait du respect des droits de l'homme et des libertés publiques un des fondements du rapprochement entre la Turquie et l'Union. Dans cet esprit, la France a accueilli avec satisfaction l'annonce, le 17 octobre dernier, par Mme Ciller, vice-premier ministre, ministre des affaires étrangères de Turquie, d'une première série de réformes visant notamment à réduire la durée de la garde à vue, dans le cadre d'une normalisation de la situation des droits de l'homme, initiée en 1995 et inscrite prioritairement dans le programme turc de coalition investi en juillet 1996. Nous attendons une mise en oeuvre effective rapide de ces mesures et la poursuite du processus de démocratisation. C'est également avec une extrême attention que les autorités françaises ont pris connaissance de la déclaration, le 6 décembre 1996, du Comité de prévention de la torture du Conseil de l'Europe, à la suite de sa visite en Turquie en septembre, dénonçant l'usage de la torture dans ce pays. C'est pourquoi, la France a tenu, avec tous les Etats membres de l'Union européenne, à souligner clairement, dans les conclusions du Conseil européen de Dublin des 13 et 14 décembre dernier, la nécessité pour la Turquie de respecter les normes les plus élevées en matière des droits de l'homme.
