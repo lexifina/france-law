@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021204732
+
+- Question : [SEQ021204732](seq021204732.md) — Diminution du prix de la carte de pêche
+
+## Réponse
+
+*Écologie, JO du 2003-03-13, page 874*
+
+La ministre de l'écologie et du développement durable a pris connaissance, avec intérêt, de la question relative au prix de la carte de pêche. Il convient de rappeler que le taux de la taxe piscicole est fixé annuellement par décret, après avis du conseil d'administration du Conseil supérieur de la pêche (CSP), où la représentation des pêcheurs est largement associée. Son évolution est maîtrisée. Le taux général est de 27,50 euros pour 2003, et son évolution est de 0,50 centime d'euros, soit 1,85 % d'augmentation par rapport à l'année précédente. L'effort demandé aux pêcheurs reste donc modique. Le versement de la taxe piscicole est complété par la cotisation obligatoire à une association agréée de pêche et de protection du milieu aquatique (AAPPMA), dont le montant est sensiblement identique à celui de la taxe. Le produit de la taxe piscicole est affecté au budget du CSP, établissement public national à caractère administratif, pour financer des actions de protection des milieux aquatiques, de mise en valeur du patrimoine piscicole national et de promotion de la pêche. Les pêcheurs bénéficient directement de ces actions. Il est donc normal qu'ils contribuent, par le versement du produit de la taxe piscicole au budget du CSP, à l'équilibre budgétaire de cet établissement public. Toutefois, il y a lieu de mieux prendre en compte la situation des personnes ne disposant que de faibles ressources, notamment celles ne bénéficiant que du revenu minimum d'insertion. La ministre envisage donc de réexaminer les dispositions de l'article L. 436-2 du code de l'environnement mentionnant la liste des personnes exonérées de la taxe piscicole en 2004 à l'occasion du débat sur la réforme de la politique de l'eau.
