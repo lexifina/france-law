@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960314330
+
+- Question : [SEQ960314330](seq960314330.md) — Critères d'élection des cantons en zone de revitalisation rurale
+
+## Réponse
+
+*Aménagement du territoire, JO du 1996-07-11, page 1743*
+
+Réponse. - La délimitation des zones de revitalisation rurale résulte de la stricte application des critères qui ont été introduits dans le projet de loi d'orientation pour l'aménagement et le développement du territoire par un amendement de la commission spéciale du Sénat adopté en deuxième lecture et repris par l'Assemblée nationale. Le Gouvernement n'a donc eu en la matière aucune marge de manoeuvre. Le décret précise que ces critères sont mesurés sur la base du recensement général de la population, ou des variations entre les deux derniers recensements quand il s'agit d'examiner l'évolution démographique. Les zones de revitalisation rurale comprennent les communes appartenant aux territoires ruraux de développement prioritaire et situées soit dans les arrondissements dont la densité démographique est inférieure ou égale à 33 habitants au kilomètre carré, soit dans les cantons dont la densité démographique est inférieure ou égale à 31 habitants au kilomètre carré, dès lors que ces arrondissements ou cantons satisfont également à l'un des trois critères suivants : déclin de la population totale, déclin de la population active, taux de population active agricole supérieur au double de la moyenne nationale. Elles comprennent également les communes situées dans les cantons dont la densité démographique est inférieure ou égale à 5 habitants au kilomètre carré. L'une des conditions à remplir aux termes des critères précédemment évoqués étant l'appartenance aux territoires ruraux de développement prioritaire, le canton de Rougemont, qui n'y satisfait pas, n'a malheureusement pu être retenu. Toutefois, le programme européen Objectif 2 continue à s'appliquer à ce canton.
