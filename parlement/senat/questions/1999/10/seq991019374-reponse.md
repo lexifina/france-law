@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991019374
+
+- Question : [SEQ991019374](seq991019374.md) — Moralisation de la vie publique
+
+## Réponse
+
+*Affaires européennes, JO du 1999-12-30, page 4283*
+
+Réponse. - L'honorable parlementaire a bien voulu appeler l'attention du ministre délégué chargé des affaires européennes sur les faits reprochés à la Commission européenne dans le rapport de la Cour des comptes pour l'année 1997. Il importe tout d'abord de rappeler les principaux développements de cette question. En novembre 1998, sur la base dudit rapport de la Cour des comptes, le Parlement européen a refusé de valider l'exécution du budget communautaire de 1996 par la Commission européenne. Ce rapport critiquait notamment la gestion de certains programmes européens. En janvier 1999, le Parlement européen examinait et rejetait une première motion de censure à l'encontre de la Commission européenne en exigeant qu'un rapport d'experts indépendants soit établi sur la gestion de la Commission. Le 19 mars, à la lecture de ce rapport et sous la menace du dépôt d'une seconde motion de censure du Parlement européen, le collège des commissaires démissionnait collectivement. Depuis, l'office de lutte contre la fraude (OLAF) a poursuivi son enquête interne. Plusieurs éléments ont ainsi été transmis récemment au parquet de Bruxelles à qui il appartient désormais d'instruire ces affaires. Il doit être souligné que les autorités françaises soutiennent l'ensemble des mesures prises tant par la Commission que par les autres institutions de l'Union et qui vise à renforcer la lutte contre la fraude. Elles se félicitent ainsi de la mise en place rapide de l'OLAF, instituée le 25 mai dernier, qui, par son indépendance fonctionnelle et l'élargissement de son champ de compétence (fraude, protections d'intérêts financiers, corruptions, faits graves susceptibles de recevoir une qualification pénale), constitue un progrès important.
