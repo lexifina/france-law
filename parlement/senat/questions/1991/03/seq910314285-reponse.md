@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910314285
+
+- Question : [SEQ910314285](seq910314285.md) — Tarifs des examens d'imagerie médicale
+
+## Réponse
+
+*Affaires sociales, JO du 1991-05-16, page 1025*
+
+Réponse. - La cotation provisoire applicable aux examens d'imagerie par résonance magnétique nucléaire a été autorisée par lettre interministérielle du 14 septembre 1990 après concertation avec le syndicat des électroradiologistes qualifiés. Ni la rémunération de l'acte médical ni les conditions de remboursement aux assurés sociaux ne sont modifiées. S'il est légitime de voir la sécurité sociale prendre en charge le coût de l'appareil et les charges induites par son fonctionnement, il ne paraît pas normal en revanche de les rémunérer sensiblement au-delà de leurs coûts réels, toutes charges comprises. C'est ainsi que le montant du forfait varie désormais en fonction du champ magnétique de l'appareil, de sa date d'installation, de sa localisation et du nombre d'examens effectués. L'imagerie par résonance magnétique doit pouvoir être accessible à tous les malades qui en ont besoin. Tout en évitant que la sécurité sociale ne supporte des charges indues, la nouvelle cotation autorise le développement de cette technique. Par ailleurs, dans l'objectif d'une meilleure adaptation des textes réglementaires à l'évolution de la pratique médicale, en prenant en compte le progrès technique, il est apparu souhaitable de mettre en oeuvre une modification des dispositions de la nomenclature générale des actes professionnels relatives aux actes de radiodiagnostic. Les projets des mesures élaborées par les pouvoirs publics sont actuellement soumis, pour avis, à la commission permanente de la nomenclature et au conseil d'administration de la Caisse nationale de l'assurance maladie des travailleurs salariés.
