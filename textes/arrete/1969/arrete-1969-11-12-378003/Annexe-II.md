@@ -42,7 +42,7 @@ h) Chef d’équipe (imprimerie) ayant moins de dix agents sous ses ordres.
 
 4. Cordonniers des services des égouts de la ville de Paris.
 
-(5) Conducteurs et machinistes de poids lourds des services de nettoiement et des transports automobiles municipaux.
+(5) Conducteurs et chefs d’équipe conducteurs d’automobile de poids lourds des services de nettoiement et des transports automobiles municipaux.
 
 C. — Assistance publique de Paris.
 

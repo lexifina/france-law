@@ -62,6 +62,8 @@ Soudeurs électriques et soudeurs autogènes.
 
 Peintres au pistolet et vernisseurs.
 
+Pontonniers-grutiers et agents d’entretien des ponts roulants des usines d’incinération des ordures ménagères.
+
 12. Egoutiers.
 
 13. Personnel des réseaux souterrains des égouts bénéficiant des avantages prévus par le décret n° 50-1128 du 14 septembre 1950.
