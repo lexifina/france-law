@@ -1,3 +1,5 @@
 # Article 7 : Régime des heures hors moyenne annuelle
 
-Le régime des heures hors de la moyenne annuelle suivra les mêmes conditions d'application que celles prévues au sens des articles 3-2-2, 3-2-4, 3-2-6 modifiés de l'accord du 7 mai 1996 (en annexe).
+Tout dépassement de l'horaire de référence sur une période annuelle doit rester exceptionnel.
+
+En cas de dépassement des 35 heures en moyenne sur la période de référence, et en tout état de cause au-delà de 1 600 heures, les heures excédentaires seront soumises au régime des heures supplémentaires. Elles ouvrent droit aux bonifications, majorations et repos compensateurs afférents. Ces heures s'imputent sur les contingents sauf si leur paiement, avec les bonifications ou majorations, est remplacé par un repos compensateur équivalent.
