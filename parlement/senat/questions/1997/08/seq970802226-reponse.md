@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970802226
+
+- Question : [SEQ970802226](seq970802226.md) — Délinquance et peines de réparation
+
+## Réponse
+
+*Justice, JO du 1997-10-23, page 2919*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honnorable parlementaire que les mesures dites de " réparation " évoquées sont déjà très largement mises en oeuvre par les parquets. En effet depuis 1990, s'est progressivement mis en place, dans la majorité des juridictions françaises, le traitement en temps réel des procédures pénales qui a pour objectif principal de permettre une réponse pénale rapide, diversifiée et mieux adaptée dans le cadre d'une politique globale d'action publique. Ce système repose sur deux règles de base : toute affaire élucidée, crime ou délit, doit faire l'objet d'un compte rendu téléphonique immédiat au parquet de la part du service enquêteur ; toute affaire dont il a été rendu compte fait l'objet d'un traitement judiciaire immédiat. Parallèlement à une accélération de la réponse pénale, le traitement en temps réel se traduit par le développement d'une troisième voie, à côté du classement sans suite pur et simple et de la poursuite, que constituent la médiation pénale, le sursis à poursuites et le rappel à la loi prévus par les articles 41 du code de procédure pénale et 12-1 de l'ordonnance du 2 février 1945 pour les mineurs. Cette dernière mesure, par exemple, rapprochant auteur mineur et victime, permet de pacifier les relations sociales et d'assurer une réparation simple, juste et rapide. A ce titre, de 4 089 en 1994, le nombre de ces médiations réalisées par les services de la protection judiciaire de la jeunesse est passé à 7 840 en 1995. Ordonnées par le procureur de la République et exécutées sous son autorité, ces mesures sont ainsi susceptibles d'assurer la réparation du dommage causé à la victime, de mettre fin au trouble résultant de l'infraction et de contribuer au reclassement de son auteur.
