@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970902702
+
+- Question : [SEQ970902702](seq970902702.md) — Situation de la profession d'architecte
+
+## Réponse
+
+*Culture, JO du 1997-11-27, page 3286*
+
+Réponse. - La question posée par l'honorable parlementaire a été transmise au ministre de la culture et de la communication compétent dans le domaine de la réglementation relative à l'exercice de la profession d'architecte. Tout à fait soucieuse de la situation de la profession d'architecte, la ministre de la culture et de la communication s'est fixée pour objectifs la modernisation de la profession, le soutien à la reconquête des marchés par les architectes, une meilleure définition de la commande publique. Elle entend poursuivre la réflexion engagée en vue d'une réforme des dispositions de la loi du 3 janvier 1977 sur l'architecture qui méritent d'être actualisées. Dans le cadre de cette réforme, elle s'interroge sur une extension du champ d'intervention obligatoire de l'architecte, par la suppression éventuelle de la dérogation prévue à l'article 4 de la loi précitée. Il lui paraît en outre nécessaire d'adapter les structures des agences d'architecture au monde économique dans lequel elles opèrent. De même, les dispositions actuelles limitant les statuts d'exercice des architectes devraient être revues. Pour autant, l'ensemble des mesures envisagées ne trouveront un sens que dans la mesure où les professionnels se montreront prêts à aller vers les champs d'exercice où leurs compétences sont indispensables : maîtrise d'ouvrage, programmation, médiation, recherche, expertise... Par ailleurs, les architectes doivent aussi apprendre à s'unir avec les autres métiers de la maîtrise d'oeuvre autour d'une pratique de la conception et du projet, ceci bien évidemment dans la stricte définition et reconnaissance des compétences propres à chacun.
