@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940807555
+
+- Question : [SEQ940807555](seq940807555.md) — Programme d'orientation pour l'artisanat
+
+## Réponse
+
+*Entreprises, JO du 1994-11-24, page 2783*
+
+Réponse. - La qualification dans l'artisanat est au centre des préoccupations des pouvoirs publics et des représentants de l'artisanat de manière constante. Néanmoins, l'instauration d'une obligation générale de qualification professionnelle dans l'entreprise doit être envisagée avec prudence, compte tenu des effets pervers qui pourraient en résulter. En effet, pour certains métiers, notamment dans la petite fabrication, l'entretien, certains services, elle serait un obstacle important à l'initiative individuelle, à la reconversion des salariés et à la mobilité professionnelle, sans véritable justification. De plus une réglementation trop sévère risque de devenir un encouragement au travail clandestin pour les métiers qui peuvent s'exercer facilement au domicile du professionnel ou à celui de ses clients. Cependant la prise en compte de la sécurité des personnes peut justifier une réglementation soumettant l'accès de certains métiers à une expérience de qualification. Le programme pluriannuel d'orientation de l'artisanat, communiqué au conseil des ministres du 5 octobre 1994, comporte une mesure tendant à imposer pour ces activités une qualification obligatoire qui d'ailleurs pourrait être envisagée comme une qualification dans l'entreprise plus que la qualification du chef d'entreprise. Pour les autres métiers, restant libres d'accès, le dispositif de qualification mis en place en 1988 doit permettre d'informer le client du niveau de qualification de chaque professionnel. Enfin les efforts consentis pour adapter la formation professionnelle initiale et continue aux exigences de l'économie actuelle seront poursuivis et intensifiés pour l'ensemble du secteur.
