@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910716100
+
+- Question : [SEQ910716100](seq910716100.md) — Politique de protection des chauffeurs de taxis
+
+## Réponse
+
+*Intérieur, JO du 1991-11-14, page 2537*
+
+Réponse. - La sécurité des chauffeurs de taxis, comme des conducteurs de transports collectifs, est une préoccupation constante du ministère de l'intérieur. Aussi, face à la détermination croissante de certains malfaiteurs dont les conséquences sont parfois tragiques, la police nationale met en oeuvre une politique de protection et de sécurité à l'égard de cette catégorie professionnelle. Dans ce cadre, des mesures dissuasives, adaptées au contexte local, sont appliquées par les services de police. Il s'agit notamment de la surveillance aux heures tardives des têtes de stations : c'est un complément naturel de l'organisation des relations radio entre chauffeurs et P.C. directeur, en particulier dans les gares et les quartiers à spectacle. Des surveillances inopinées de taxis sur les itinéraires les plus sensibles sont également exercées. Ces actions, fortement accrues par le renfort depuis plusieurs mois des C.R.S. en mission de sécurisation en région d'Ile-de-France et dans les grandes agglomérations de province, seront naturellement poursuivies. Parallèlement, lors des discussions au plan national, différents systèmes techniques de sécurité (pose d'une vitre de séparation dans le véhicule comme cela se pratique en Grande-Bretagne ; coffre-fort amovible inséré dans le taxi, etc.) ont été étudiés avec les représentants qualifiés de cette corporation. Un accord n'a cependant pu être réalisé sur un dispositif agréé par tous conciliant les impératifs de sécurité et l'aspect commercial de l'activité. De leur côté, les préfets des départements sont chargés de rechercher, en concertation avec l'ensemble des représentants de la profession, des mesures particulières visant à améliorer localement la sécurité.
