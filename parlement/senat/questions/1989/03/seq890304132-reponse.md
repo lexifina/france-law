@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890304132
+
+- Question : [SEQ890304132](seq890304132.md) — Développement des émissions éducatives à la télévision
+
+## Réponse
+
+*Éducation, JO du 1989-05-18, page 768*
+
+Réponse. - Le ministre d'Etat, ministre de l'éducation nationale, de la jeunesse et des sports, est tout à fait convaincu de l'importance de la télévision en matière d'éducation. Il a d'ailleurs demandé à M. Pomonti de rédiger un rapport sur les relations entre audiiovisuel et éducation, qui a été rendu public le 9 mars dernier. Les propositions contenues dans ce rapport sont actuellement à l'étude et devraient donner lieu avant la fin de l'année scolaire à une première série de décisions. Le Parlement aura la possibilité d'en débattre lors de l'examen du projet de loi d'orientation de l'éducation nationale et du rapport annexé dont l'une des dispositions concerne le lancement d'un plan national d'équipement audiovisuel des établissements. Il ne faut cependant pas sous-estimer les réalisations qui se poursuivent aujourd'hui dans le domaine de l'audiovisuel éducatif, pour lequel la demande des enseignants est en forte croissance. Les programmes de télévision scolaire actuellement produits ou coproduits par le Centre national de documentation pédagogique sont diffusés sur F.R. 3 35 semaines par an à raison de créneaux hebdomadaires de 20 minutes. Ces émissions (Le Chemin des écoliers, Les Badaboks, Géoscope, Amuse-Mots) sont destinés aux élèves de l'école maternelle et élémentaire. Par ailleurs, le C.N.D.P. diffuse des produits audiovisuels dans le cadre de ses 110 vidéothèques réparties sur toute la France ainsi que dans un certain nombre de villes câblées par l'intermédiaire de la régie Educable. Les solutions techniques actuellement mises en oeuvre sont donc la diffusion par voie hertzienne, par les réseaux câblés et par les vidéothèques.
