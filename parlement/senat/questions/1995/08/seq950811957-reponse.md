@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950811957
+
+- Question : [SEQ950811957](seq950811957.md) — Organisation du service public de la poste et des télécommunications
+
+## Réponse
+
+*Budget, JO du 1996-12-19, page 3402*
+
+Réponse. - L'article 21 de la loi no 90-568 du 2 juillet 1990 relative à l'organisation du service public de la poste et des télécommunications dispose que les exploitants publics La Poste et France Télécom sont assujettis, à compter de 1994, aux impositions directes locales et que le produit de ces impositions est perçu par l'Etat. Le montant des émissions d'impôts locaux s'est élevé en 1994 à 218 millions de francs au titre de La Poste et à 4 251 millions de francs au titre de France Télécom. En 1995, ce montant est passé respectivement à 228 millions de francs et à 4 619 millions de francs. Les recouvrements correspondants sont imputés sur la ligne 0002 " Autres impôts d'Etat sur rôles " de la Nomenclature des recettes du budget général. Cette loi précise que le produit de ces impositions en 1994 contribuera au financement de la compensation des pertes de recettes résultant de l'abattement de 16 % des bases de la taxe professionnelle institué par l'article 6 de la loi de finances pour 1987 (no 86-1317 du 30 décembre 1986). Le deuxième alinéa du 6o de l'article 21 de la loi du 2 juillet 1990 prévoit également qu'à partir des impositions pour 1995 la différence entre le produit des impositions de l'année et le produit des impositions pour 1994 évoluant en fonction de l'indice de variation du prix de la consommation des ménages soit versée au Fonds national de péréquation de la taxe professionnelle. Conformément à cette disposition, la différence constatée au titre des impositions pour 1995, soit un montant de 297,847 millions de francs, a fait l'objet d'une inscription en loi de finances pour 1996 au sein de ce fonds.
