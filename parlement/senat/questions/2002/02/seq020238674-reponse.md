@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020238674
+
+- Question : [SEQ020238674](seq020238674.md) — Union européenne et Mercosur
+
+## Réponse
+
+*Affaires étrangères, JO du 2002-04-25, page 1157*
+
+Le rapport du Conseil économique et social appelle l'Union européenne à se mobiliser en faveur du Mercosur, particulièrement dans le contexte de la crise argentine. L'Union européenne est consciente de l'importance de l'existence d'un ensemble sous-régional comme le Mercosur. Le lancement en 1999, à l'initiative de la France et de l'Espagne, de la négociation d'un accord d'association couvrant l'ensemble des relations entre les deux zones dans les domaines politique, économique et commercial ainsi que la coopération en est la preuve. La Commission et les Etats membres sont pleinement engagés dans ces négociations, qui ont déjà fait l'objet depuis 1999 de six sessions. En dépit de certaines difficultés dues aux intérêts divergents des membres du Mercosur et à la situation économique difficile de l'Argentine, les discussions commerciales ne ralentissent pas. Les deux parties ont notamment échangé leur offre tarifaire en 2001, ce qui constitue une étape importante de la négociation. Afin de prendre en compte les demandes du Mercosur en ce qui concerne l'accès aux marchés européens, l'Union européenne a déposé une offre généreuse qui n'exclut aucun secteur. La prochaine session est prévue la première semaine d'avril à Buenos Aires. L'Union compte enregistrer à cette occasion de nouveaux progrès dans l'ensemble des domaines couverts. Ces progrès seront avalisés lors du prochain sommet des chefs d'Etat de l'Union européenne et d'Amérique latine-Caraïbes qui se tiendra les 16 et 17 mai à Madrid. Pour accompagner ces négociations, la Commission finance de nombreux programmes destinés à renforcer l'intégration régionale du Mercosur.
