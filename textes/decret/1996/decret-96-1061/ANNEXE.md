@@ -1,51 +1,95 @@
 # Article ANNEXE
 
-:-----------------------------:
+SUBSTANCE
 
-: SUBSTANCE : Anhydride : |
+|
 
-: acétique : |
+CODE NC
 
-:-------------------:---------: |
+|
 
-: CODE N.C. : SEUIL : |
+NUMERO CAS |
 
-: 2915.24.00 : 20l : |
+SEUIL
 
-:-----------------------------: |
+|
 
-: SUBSTANCE : Acide : |
+Anhydride acétique
 
-: anthranilique et ses sels : |
+|
 
-:-------------------:---------: |
+2915.24.00
 
-: CODE N.C. : SEUIL : |
+|
 
-: 2922.43.00 : 1kg : |
+108-24-7
 
-:-----------------------------: |
+|
 
-: SUBSTANCE : Acide : |
+100 l
 
-: phénylacétique et ses sels : |
+|
 
-:-------------------:---------: |
+Permanganate de potassium
 
-: CODE N.C. : SEUIL : |
+|
 
-: 2916.34.00 : 1kg : |
+2841.61.00
 
-:-----------------------------: |
+|
 
-: SUBSTANCE : phénylacétique : |
+7722-64-7
 
-: et ses sels : |
+|
 
-:-------------------:---------: |
+100 kg
 
-: CODE N.C. : SEUIL : |
+|
 
-: 2933.32.00 : 0,5kg : |
+Acide anthranilique et ses sels
 
-:-----------------------------: |
+|
+
+2922.43.00
+
+|
+
+118-92-3
+
+|
+
+1 kg
+
+|
+
+Acide phénylacétique et ses sels
+
+|
+
+2916.34.00
+
+|
+
+103-82-2
+
+|
+
+1 kg
+
+|
+
+Pipéridine et ses sels
+
+|
+
+2933.32.00
+
+|
+
+110-89-4
+
+|
+
+0,5 kg
+
+|
