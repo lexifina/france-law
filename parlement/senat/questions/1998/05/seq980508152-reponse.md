@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508152
+
+- Question : [SEQ980508152](seq980508152.md) — Résultats des contrats retraites et prévoyance
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 1998-10-22, page 3379*
+
+Réponse. - Les travailleurs indépendants sont partagés entre leur souhait de bénéficier d'une protection sociale de qualité et leurs préoccupations face au niveau des prélèvements obligatoires générés par les cotisations sociales résultant du besoin de financement des régimes obligatoires de sécurité sociale. A cet égard, la loi nº 94-126 du 11 février 1994, qui ouvrait une possibilité d'améliorer les régimes d'ordre public par l'institution de dispositifs complémentaires autorisant la passation de contrats de groupe assortis d'avantages fiscaux, a effectivement permis d'évaluer l'intérêt d'une telle mixité. Le bilan des contrats signés dans ce cadre est nuancé, notamment en matière de retraite. En effet, si ces contrats ont répondu à un besoin des travailleurs non salariés en matière de prévoyance (complémentaire santé, décès, invalidité, incapacité), leur développement est moindre, s'agissant de la retraite. Ainsi, à la fin de 1997, le nombre de contrats en cours comportant des garanties de prévoyance est estimé à 600 000 alors que le nombre de ceux ayant pour objet la retraite ne s'élève qu'à 180 000. Le Gouvernement considère que la création d'un mécanisme complémentaire collectif d'épargne retraite doit respecter le fonctionnement et l'équilibre des régimes par répartition. C'est dans cet esprit qu'il a confié une mission sur ce sujet à deux parlementaires, MM. Migaud et Cahuzac, dont les conclusions seront connues très prochainement. De façon plus générale, le Premier ministre a chargé le commissaire général du Plan d'une mission d'étude sur les régimes de retraite. C'est sur cette base que le Gouvernement arrêtera, après concertation, sa position sur la question des retraites.
