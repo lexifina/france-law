@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030407165
+
+- Question : [SEQ030407165](seq030407165.md) — Rapport de la Cour des comptes : définition des projets d'établissements scolaires
+
+## Réponse
+
+*Enseignement scolaire, JO du 2003-12-25, page 3714*
+
+Le ministre délégué à l'enseignement scolaire a pris connaissance avec un vif intérêt du rapport public particulier de la Cour des comptes sur la gestion du système éducatif. Ce rapport porte principalement sur la période 1999-2002 et développe notamment une analyse critique des conséquences de la loi d'orientation de 1989. L'élaboration du projet d'établissement constitue un temps fort de la vie des établissements puisqu'il s'agit de définir les modalités particulières de mise en oeuvre des objectifs et des programmes nationaux et de préciser notamment les activités scolaires et périscolaires. L'ensemble de la communauté éducative participe activement à son élaboration ; c'est sur proposition des équipes pédagogiques que la partie pédagogique du projet d'établissement est adoptée par le conseil d'administration des établissements publics locaux d'enseignement (EPLE) (art. L. 421-5 du code de l'éducation). Afin de pouvoir décliner pleinement leur autonomie, les établissements perçoivent leurs moyens d'enseignement sous la forme d'une dotation globale horaire (DGH) ; dans l'attribution de celle-ci, les académies ont le choix de pouvoir effectuer une délégation unique en début d'année de la totalité des moyens en heures dont elles disposent. Par ailleurs, le Gouvernement a souhaité organiser le débat national sur l'avenir de l'école, dans la perspective d'une nouvelle loi d'orientation sur l'éducation, qui pourra constituer un cadre adapté pour préciser les conditions dans lesquelles pourrait être développée l'autonomie des EPLE. Le projet d'établissement pourrait tenir une place essentielle dans ce dispositif et servir de base à une démarche contractuelle entre les autorités académiques et l'établissement.
