@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900811161
+
+- Question : [SEQ900811161](seq900811161.md) — Avenir du centre de tri de Quimper
+
+## Réponse
+
+*Postes, JO du 1990-08-30, page 1911*
+
+Réponse. - Le Finistère est un des rares départements à être doté de deux centres de tri, et le seul à leur donner encore la même vocation. Cela tient à des raisons historiques liées pour l'essentiel à la configuration des axes ferroviaires et à la partition du département en deux zones postales. Or, la desserte de la Bretagne vient de connaître une mutation avec la création d'un train poste autonome rendue nécessaire par la mise en service du T.G.V. Atlantique. En 1992, une profonde réorganisation du réseau aérien de nuit permettra, à partir de l'escale de Brest, d'atteindre tous les départements du territoire en J + 1 (contre 18 actuellement), via une plate-forme d'échanges qui sera créée à Roissy. Il est donc normal que les responsables étudient toute solution susceptible d'améliorer la qualité de service offerte, en adaptant le réseau de transport et les centres de tri concernés. Les études menées conduisent à rééquilibrer les missions des centres de tri finistériens en dédiant le centre de Brest au tri du courrier lettres et plis, et celui de Quimper au traitement des autres envois, notamment de la messagerie. Un équipement nouveau pour le tri des paquets y serait installé. La machine de tri des lettres actuellement à Quimper serait, après étude, redéployée dans un centre de la région Bretagne. Ainsi, les projets en cours d'examen conduisent à optimiser les deux centres existants, mais il n'est en aucun cas question de fermer l'un d'entre eux. Tous deux continueront à concourir avec des attributions mieux centrées au développement du service public, pour une meilleure desserte du département du Finistère.
