@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961118906
+
+- Question : [SEQ961118906](seq961118906.md) — Evolution des effectifs des services de l'équipement
+
+## Réponse
+
+*Équipement, JO du 1997-03-20, page 880*
+
+Réponse. - Les effectifs du ministère de l'équipement évoluent chaque année conformément à la loi de finances en tenant compte des progrès accomplis par les services en matière d'efficience. En particulier, les personnels d'exploitation, dont la majeure partie est affectée à l'entretien des routes, sont au nombre de 50 959 en 1996, en baisse de 0,04 % par rapport à 1995. Les moyens financiers consacrés à l'entretien préventif, l'entretien courant et la viabilité hivernale on connu une baisse régulière (- 20 %) pour la période 1988-1993. Depuis, les crédits d'entretien routier national ont été augmentés, au titre des lois de finances, de p 3,9 % en 1994, p 3,3 % en 1995 et p 3,2 % en 1996. Au titre de la loi de finances pour 1997, les disponibilités budgétaires sont identiques en francs courants à celles de 1996, soit 3 187 MF. Ces crédits d'entretien routier sont affectés à chaque département selon son patrimoine, en prenant en compte la hiérarchie des voies qui le constituent. Ainsi, sur ces bases, le département de l'Hérault a reçu une dotation globalisée d'entretien dont les montants ont été respectivement de 17,27 MF en 1992, de 19 MF en 1993, de 19,532 MF en 1994, de 20,964 MF en 1995 et de 21,629 MF en 1996. Par ailleurs, au titre des crédits spécifiques pouvant être mis en place pour tenir compte de situations exceptionnelles au plan national (chaussées particulièrement dégradées, zones d'insécurité...) ou de phénomènes imprévisibles comme des dégâts exceptionnels, le département de l'Hérault a reçu en 1996 un montant de 18 MF pour les routes nationales 9 et 112. Cette année, pour le département de l'Hérault, un crédit spécifique de 5,3 MF sera mis en place au titre des dégâts exceptionnels.
