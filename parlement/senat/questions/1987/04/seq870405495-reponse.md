@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870405495
+
+- Question : [SEQ870405495](seq870405495.md) — Exploitants agricoles des Bouches-du-Rhône
+
+## Réponse
+
+*Agriculture, JO du 1987-06-11, page 917*
+
+Réponse. -La situation des agriculteurs qui ne peuvent assurer le paiement de leurs cotisations et sont de ce fait privés de couverture sociale retient toute l'attention du ministre de l'agriculture. Dans le cadre de la conférence agricole annuelle, il a été décidé de dégager une enveloppe de cinquante millions de francs pour aider les intéressés à s'acquitter de leur dette sociale et les rétablir ainsi dans leurs droits à prestations. Le dispositif mis en place prévoit l'octroi de prêts d'honneur sans intérêt, remboursables sur cinq ans maximum, qui sont accordés aux agriculteurs ayant présenté une demande appuyée de perspectives de redressement de leur exploitation, après examen de leur dossier par un comité départemental composé de représentants de l'administration et de la profession. Les caisses de mutualité sociale agricole et les organismes assureurs gérant le risque maladie ont informé les agriculteurs en difficulté, déchus de leurs droits au 31 décembre 1986, de la possibilité qui leur est ainsi offerte et ont centralisé les demandes individuelles qui devaient leur parvenir avant la date limite du 15 avril 1987, en vue de leur examen par le comité. Les comités ont été constitués dans les départements. Il leur appartient maintenant d'apprécier la situation financière des demandeurs, et si l'octroi d'un tel prêt est de nature à leur permettre de surmonter leurs difficultés conjoncturelles. Quant aux agriculteurs qui ne pourront bénéficier de cette mesure, c'est-à-dire ceux dont l'exploitation ne présente aucune perspective de redressement, ils seront invités par leur organisme assureur à présenter, au titre de l'aide sociale, une demande de prise en charge des frais médicaux qu'ils auront engagés au centre d'action sociale de leur commune.
