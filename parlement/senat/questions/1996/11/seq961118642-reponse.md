@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961118642
+
+- Question : [SEQ961118642](seq961118642.md) — Taux réduit de TVA de 5,5 % pour la collecte et le traitement des ordures ménagères
+
+## Réponse
+
+*Économie, JO du 1997-03-13, page 769*
+
+Réponse. - La directive communautaire relative au rapprochement des taux de TVA permet aux Etats membres d'appliquer un taux réduit de TVA au traitement et à la collecte des ordures ménagères mais ne crée aucune obligation dans ce domaine. Par ailleurs, le service des ordures ménagères est, dans la plupart des cas, financé par la taxe d'enlèvement des ordures ménagères et ne peut, de ce fait, être assujetti à la TVA. L'application du taux réduit bénéficierait donc aux exploitants indépendants ou aux entreprises chargés par les collectivités locales d'effectuer, pour leur compte, la collecte et le traitement des ordures ménagères, et non pas aux collectivités locales qui assurent elles-mêmes le service qu'elles financent par l'impôt. De plus, il est rappelé que la principale cause de rémanence de TVA existant dans le secteur des ordures ménagères a été supprimée par une décision de février 1996 relative aux groupements de collectivités qui construisent et exploitent une usine d'incinération. Ces groupements qui pouvaient seulement récupérer par la voie fiscale une partie de la TVA ayant grevé leurs investissements, bénéficient dorénavant d'une attribution du FCTVA à hauteur de la fraction de TVA non déductible. Enfin, parrallèlement à l'effort budgétaire ainsi consenti, le Gouvernement reste attentif aux difficultés que suscite pour les collectivités locales l'application des diverses normes environnementales édictées par les réglementations communautaires. C'est la raison pour laquelle le ministre délégué au budget a proposé la mise en place d'un groupe de travail avec le Parlement qui serait chargé de mener à bien une réflexion sur l'application de ces normes et notamment sur son calendrier.
