@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010734394
+
+- Question : [SEQ010734394](seq010734394.md) — Présentation du projet de loi concernant l'hépatite C
+
+## Réponse
+
+*Santé, JO du 2002-04-04, page 985*
+
+Conformément à ses engagements, le Gouvernement a inscrit dans la loi n° 2002-303 du 4 mars 2002 relative aux droits des malades et à la qualité du système de santé, parue au Journal officiel du 5 mars 2002, des dispositions visant à clarifier le régime de la responsabilité médicale, d'une part, et à permettre l'indemnisation des victimes d'aléas thérapeutiques, d'autre part. C'est ainsi tout d'abord que le texte rappelle expressément le principe selon lequel la faute est la base de la responsabilité des professionnels et établissements de santé, lesquels seront tenus de souscrire une assurance en responsabilité civile. De plus, lorsque la responsabilité d'un professionnel ou d'un établissement de santé n'est pas en cause, un accident médical pourra faire l'objet d'une indemnisation dans le cadre de la solidarité nationale par un office national, financé par l'assurance maladie. Toutes les victimes d'accidents médicaux, fautifs ou non, présentant un niveau de préjudice important, auront accès à des commissions régionales d'indemnisation chargées de faciliter le règlement amiable des litiges. Une disposition spécifique est prévue pour les victimes d'hépatite C dues à des transfusions anciennes qui rencontrent des difficultés à apporter la preuve de l'imputabilité de leur contamination à une transfusion. Un régime de preuve spécifique est institué à leur égard : le juge formera sa conviction au vu des éléments apportés par chaque partie et des expertises qu'il pourra demander, la charge de la preuve revenant à l'établissement. En cas de doute, celui-ci profitera à la victime. Ces dispositions permettront ainsi aux victimes d'accidents médicaux de bénéficier d'une indemnisation dans des conditions plus favorables.
