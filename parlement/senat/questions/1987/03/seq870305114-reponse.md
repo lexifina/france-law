@@ -1,0 +1,11 @@
+# Réponse à la question SEQ870305114
+
+- Question : [SEQ870305114](seq870305114.md) — Vérificateurs de la distribution et de l'acheminement
+
+## Réponse
+
+*Postes et télécommunications, JO du 1987-05-14, page 767*
+
+Réponse. -Le projet d'intégration en catégorie A des vérificateurs de la distribution et de l'acheminement est une priorité de la politique de personnel de la poste depuis plusieurs années. S'appuyant sur le renforcement des missions des établissements dans le cadre de la déconcentration des responsabilités, ce plan a fait l'objet d'un nouvel examen approfondi avec les ministères de tutelle lors des négociations budgétaires pour 1987. C'est ainsi qu'a été décidée, dans un premier temps, la création de deux cents emplois d'inspecteur des services commerciaux et administratifs au titre des budgets de 1987 et 1988. La direction générale de la poste entend poursuivre ces négociations lors de la préparation budgétaire pour 1989 dans le but de prolonger cette réforme au-delà des décisions arrêtées. Les conditions retenues dans le cadre du budget pour ce reclassement sont les suivantes : 1° accès en catégorie A par examen professionnel : cette procédure spécifique perme
+
+t de réserver aux seuls vérificateurs des services de la distribution-acheminement candidats les deux cents emplois obtenus ; il convient à cet égard de souligner que le taux de sélection pour l'accès au grade d'inspecteur, qui était pour ces agents de l'ordre de 15 p. 100 au cours des dernières années, est nettement amélioré dans le cadre de la mise en oeuvre prioritaire du plan de valorisation des fonctions de vérificateur des services de la distribution-acheminement, puisqu'il devrait être de l'ordre de 25 p. 100 ; 2° nomination en établissement : dans le cadre de la politique de déconcentration et de développement de la poste, il apparaît essentiel que les chefs d'établissement important disposent auprès d'eux de la compétence nécessaire à la mise en place et au suivi de l'organisation du réseau de distribution du courrier et à l'amélioration de la gestion de ces services. C'est pourquoi un effort tout particulier doit être fait pour l'affectation de cadres de la distribution et de l'acheminement dans les établissements.
