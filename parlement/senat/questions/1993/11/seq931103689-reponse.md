@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931103689
+
+- Question : [SEQ931103689](seq931103689.md) — Statut des personnels administratifs et techniques de la police nationale
+
+## Réponse
+
+*Intérieur, JO du 1994-02-03, page 256*
+
+Réponse. - Ainsi que le fait observer l'honorable parlementaire, il convient de souligner la part active et souvent déterminante des personnels administratifs et techniques au fonctionnement de la police nationale, et l'extrême diversité des tâches qui leur sont confiées. Les personnels administratifs, répartis en trois corps de la fonction publique de droit commun (secrétaires administratifs, adjoints administratifs et agents administratifs) ont en charge l'administration générale des services de police, qui implique des fonctions de secrétariat, de gestion de personnels, de gestion budgétaire. Ils se voient certes confier des attributions plus directement liées aux missions de police (exploitation des fichiers de police, gestion des statistiques criminelles, secrétariat du ministère public des tribunaux de police). Cependant, les tâches assurées par les personnels administratifs de police ne sauraient, par leur nature, être assimilées aux missions confiées aux personnels actifs de police. Les statuts qui les régissent sont en conséquence différents et les échelonnements indiciaires également. Mais le rôle qui leur est imparti au côté des personnels des services actifs de police, et leur position dans l'organisation et le fonctionnement de l'institution policière méritent d'être mieux reconnus. Une indemnité de sujétion particulière leur est allouée mais l'administration, consciente de la situation des personnels administratifs de police, eu égard aux contraintes auxquelles ils sont assujettis, étudie les modalités d'un éventuel relèvement de leur régime indemnitaire, de façon à le rapprocher de celui dont bénéficient les personnels de préfecture.
