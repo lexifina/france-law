@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880700978
+
+- Question : [SEQ880700978](seq880700978.md) — Spécificité de l'élevage laitier, considération des capitaux
+
+## Réponse
+
+*Économie, JO du 1988-10-27, page 1189*
+
+Réponse. - Les exploitants agricoles soumis à un régime réel d'imposition doivent comprendre dans leurs résultats imposables la variation de la valeur de leurs stocks au cours de l'exercice. Toutefois, pour tenir compte des particularités propres aux productions à cycle long, plusieurs dispositions ont été prises. L'article 72 B du code général des impôts permet aux exploitants de maintenir inchangée la valeur de leurs produits en stock dès la clôture du premier exercice suivant celui de leur acquisition. Ainsi, les dépenses d'entretien et de conservation de ces stocks engagées après cette date sont déductibles immédiatement. Ce système permet de réduire les effets de la lenteur de rotation de certaines productions, notamment dans le domaine de l'élevage. Lorsque les exploitants renoncent à utiliser cette faculté pour leurs nouveaux stocks à rotation lente, l'article 72 D du même code leur permet par ailleurs, depuis le 1er janvier 1986, de déduire chaque année une somme de 10 000 francs ou 10 p. 100 du bénéfice dans la limite de 20 000 francs. Cette déduction doit être utilisée, dans les cinq années qui suivent, pour l'acquisition ou la création soit d'immobilisations amortissables, soit de stocks dont le cycle de rotation est supérieur à un an. Cette aide facilite le financement des stocks à rotation lente. Enfin, pour éviter une imposition élevée des stocks à rotation lente lors de la cession ou de la cessation d'activité, les exploitants peuvent sous certaines conditions étaler sur trois exercices le bénéfice correspondant à la liquidation de ces stocks (art. 72 B-IV du code déjà cité). Ces diverses mesures répondent aux préoccupations exprimées par l'honorable parlementaire.
