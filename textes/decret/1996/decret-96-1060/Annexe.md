@@ -28,7 +28,7 @@ Phénylacétone.
 
 |
 
-Acide N-acétylanthranilique.
+Acide N-acétylanthranilique (*).
 
 |
 
@@ -36,7 +36,7 @@ Acide 2-acétamidobenzoïque.
 
 |
 
-2924.22.00/29.90 (*)
+2924.23.00
 
 |
 
@@ -72,7 +72,7 @@ Pipéronal.
 
 |
 
-Safrole.
+Safrole (1).
 
 |
 
@@ -142,9 +142,9 @@ Acide lysergique.
 
 |
 
-Y compris les sels obtenus à partir des substances énumérées dans cette catégorie, lorsque l'existence de tels sels est possible.
+(*) Y compris les sels obtenus à partir des substances énumérées dans cette catégorie, lorsque l'existence de tels sels est possible.
 
-(*) Les sels de l'acide-N-acétylanthranilique ne sont pas couverts par le code 2924.22.00.
+(1) Y compris l'huile de sassafras ex 3301.29.91 ou ex 3301.29.51.
 
 |
 
@@ -262,7 +262,7 @@ Toluène (*).
 
 |
 
-2902.30.10 et 90
+2902.30.00 et 90
 
 |
 
