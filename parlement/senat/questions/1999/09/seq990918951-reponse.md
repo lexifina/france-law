@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990918951
+
+- Question : [SEQ990918951](seq990918951.md) — Renforcement du rôle de l'Observatoire des drogues et des toxicomanies
+
+## Réponse
+
+*Emploi, JO du 1999-12-16, page 4159*
+
+Réponse. - La création de l'Observatoire français des drogues et des toxicomanies (OFDT), partie intégrante du réseau européen constitué autour de l'Observatoire européen des drogues et des toxicomanies (OEDT), a permis de rassembler dans un lieu unique l'ensemble des données chiffrées disponibles au plan national. L'importance du travail accompli par ce groupement d'intérêt public a conduit le Gouvernement, dans le cadre du plan triennal de lutte contre la drogue et de prévention des dépendances adopté par le comité interministériel du 16 juin 1999, à lui confier de nouvelles missions : 1º La mise en place d'enquêtes épidémiologiques régulières en population générale. L'objectif est ici d'améliorer les indicateurs dont dispose l'OFDT, par la mise en uvre d'un dispositif pérenne sur les consommations de produits psychoactifs. 2º Le développement d'un réseau sentinelle pour observer les tendances récentes de consommation. 3º La mise en place d'un cadre global d'évaluation des politiques publiques, s'inscrivant dans la durée et fortement articulé au plan triennal. 4º L'ensemble des instruments de mesure et de connaissance, encore aujourd'hui trop souvent dispersés, seront regroupés au sein de l'OFDT, qui sera également chargé en liaison avec la MILDT de l'animation et de la programmation de la recherche. Cette dernière orientation suppose de modifier les statuts et le conseil scientifique de l'OFDT, afin que ce dernier devienne le lieu de référence et de pilotage de la recherche dans le domaine des drogues et des dépendances (cf. réponse apportée aux questions 18952, 18953 et 18954).
