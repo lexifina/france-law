@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861103347
+
+- Question : [SEQ861103347](seq861103347.md) — Fraîcheur des oeufs: information des consommateurs
+
+## Réponse
+
+*Économie, JO du 1987-02-12, page 210*
+
+Réponse. -La commercialisation des oeufs en coquille est régie par une réglementation communautaire applicable de plein droit au sein des Etats membres de la Communauté économique européenne. Un certain nombre d'obligations sont prévues par cette réglementation afin que soient mis en vente des oeufs présentant toutes les garanties de qualité que le consommateur attend de ce produit. Ainsi est-il défini une fréquence minimale de ramassage au niveau des centres de production : fréquence hebdomadaire pour les oeufs de catégorie A, fréquence bi-hebdomadaire pour les oeufs de catégorie A commercialisés sous le qualificatif " extra ". En outre, le délai maximal entre ce ramassage et l'apposition de la date ou de la période d'emballage sur les conditionnements contenant les oeufs est fixé à quatre jours ouvrables. Ce dispositif est assorti de critères qualitatifs auxquels devront répondre les oeufs selon la catégorie de qualité dans laquelle ils sont classés. A ce titre, les services de contrôle n'ont pas rencontré, au plan national, de difficultés particulières touchant la qualité des oeufs en coquille. Concernant la date de ponte, celle-ci constitue une mention dont la contrôle présente de très sérieuses difficultés et dont l'indication est susceptible de nuire, par conséquent, à une information claire et loyale du consommateur en raison des manipulations dont cette date pourrait faire l'objet si elle était permise aujourd'hui. En conséquence, les instances de la Communauté économique européenne n'ont pas jugé utile d'autoriser l'indication de cette date. Enfin, dans le sens d'une meilleure information du consommateur, les textes communautaires ne s'opposent pas à ce que puisse figurer, sur l'emballage des oeufs, des mentions explicatives de la réglementation.
