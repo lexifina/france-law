@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030507632
+
+- Question : [SEQ030507632](seq030507632.md) — Conditions d'utilisation des titres-restaurant
+
+## Réponse
+
+*Économie, JO du 2003-07-17, page 2299*
+
+Les titres restaurants ont été institués par l'ordonnance du 27 septembre 1967 dans le but de permettre aux entreprises qui le souhaitent de participer aux frais de repas de leur personnel en l'absence de restauration collective. Ce dispositif social, qui bénéficie d'exonérations fiscales et sociales, est soumis à des conditions précises d'utilisation. Ainsi, le décret du 22 décembre 1967 relatif aux titres restaurants prévoit que le salarié ne peut recevoir qu'un titre restaurant par repas compris dans son horaire de travail journalier et qu'un même repas ne peut être payé avec plusieurs titres. Néanmoins, la valeur faciale des titres peut être très variable selon les entreprises émettrices et, par suite, la part du repas restant à la charge du salarié. C'est pourquoi, dans le cadre d'une réflexion actuellement en cours sur l'ensemble de la législation des titres restaurant, il est envisagé d'admettre le paiement d'un repas avec deux titres restaurants au plus, l'interdiction du rendu de monnaie sur la valeur des titres étant maintenue. En revanche, il ne peut être envisagé d'étendre l'utilisation de ces titres à un usage familial. Le système des titres restaurants a été mis en place au bénéfice des seuls salariés pour les repas pris au cours de la journée de travail et n'a pas vocation à répondre aux besoins des familles pendant leur période de congé. Un dispositif adapté à cette demande existe par ailleurs, puisque les chèques vacances, également abondés en partie par l'employeur, facilitent l'accès des familles à toutes les installations de loisirs, et notamment aux restaurants dont ils peuvent régler ainsi les prestations. Ce dispositif élargi en 1999 aux entreprises de moins de cinquante salariés bénéficie désormais à un large public familial.
