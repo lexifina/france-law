@@ -226,7 +226,7 @@ Un enseignant de la conduite (*) et, au choix :
 
 - un professionnel de la formation des formateurs
 
-- un chargé de mission de sécurité routière
+- un chargé de mission de sécurité routière ou un inspecteur départemental de la sécurité routière
 
 - un psychologue agréé pour la formation des conducteurs infractionnistes.
 
@@ -252,7 +252,7 @@ Le mémoire et l'entretien font l'objet d'une évaluation séparée.
 
 Un enseignant de la conduite (*) et au choix :
 
-- un chargé de mission sécurité routière
+- un chargé de mission de sécurité routière ou un inspecteur départemental de la sécurité routière
 
 - un psychologue agréé pour la formation des conducteurs infractionnistes
 
