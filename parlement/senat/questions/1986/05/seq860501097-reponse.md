@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860501097
+
+- Question : [SEQ860501097](seq860501097.md) — Délais de paiement des acquisitions immobilières effectuées par l'administration
+
+## Réponse
+
+*Budget, JO du 1986-09-04, page 1254*
+
+Réponse. -La remise des fonds au notaire pour les acquisitions réalisées à l'amiable par des administrations doit être stipulée dans l'acte de vente ou dans une demande écrite du vendeur et ne peut s'effectuer qu'après que l'acte portant transfert de propriété a été transcrit au bureau des hypothèques, ou à partir du 1er janvier 1956 inscrit au fichier immobilier institué par le décret du 4 janvier 1955, portant réforme de la publicité foncière. Les dispositions de l'article 1er du décret n° 55-630 du 20 mai 1955 ont eu pour objet de réduire dans toute la mesure du possible les délais qui s'écoulent entre la date de passation de l'acte de vente et celle du règlement effectif du prix de la cession, en particulier lorsqu'il existe des privilèges et hypothèques inscrits. Cependant, en vertu des articles 2146 et 2147 du code civil, des inscriptions de privilèges et d'hypothèques peuvent être prises sur l'immeuble vendu jusqu'à ce que l'acte ait été publié au fichier immobilier par le conservateur des hypothèques. De plus, seule la publication de l'acte le rend opposable aux tiers. Compte tenu des effets de la publication et du fait que jusqu'à l'accomplissement de cette formalité des inscriptions sont susceptibles de grever le bien, le notaire, même s'il était en possession des fonds dès la signature de l'acte, ne pourrait les remettre au vendeur qu'après avoir été définitivement fixé sur la situation, notamment hypothécaire, du bien. Les officiers ministériels n'agissent d'ailleurs pas différemment à l'occasion des opérations réalisées uniquement entre particuliers. En conséquence, l'intervention d'un notaire n'aurait pas pour effet d'accélérer le versement des fonds aux propriétaires.
