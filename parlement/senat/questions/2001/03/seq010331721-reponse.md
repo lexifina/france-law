@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010331721
+
+- Question : [SEQ010331721](seq010331721.md) — Situation de La Poste
+
+## Réponse
+
+*Industrie, JO du 2001-05-31, page 1854*
+
+Réponse. - La mise en uvre sur l'ensemble du territoire de la loi relative à l'aménagement et à la réduction du temps de travail a fait l'objet d'un processus sans précédent de concertation et de négociation avec les personnels et les organisations syndicales représentatives. Ce processus s'est appliqué établissement par établissement, afin que les projets de mise en application de loi intègrent localement les besoins d'amélioration du service rendu aux clients ainsi que certaines aspirations du personnel. Le passage aux trente-cinq heures s'est traduit par la mise en place de nouvelles organisations nécessitant une période d'adaptation et parfois des ajustements. Des conflits se sont malgré tout manifestés, mais n'ont cependant perturbé qu'un nombre limité d'établissements au plan national. Il en a été ainsi au bureau de Boulogne-Billancourt, où un mouvement social a gêné le fonctionnement normal de la distribution du courrier de cette ville pendant une semaine. Localement, des mesures ont été prises pour assurer la continuité du service public, avec une attention particulière pour les acteurs de la vie économique qui ont bénéficié prioritairement de ces dispositions. Afin de réduire la fréquence des mouvements de grève liés à l'ARTT, actuellement en voie d'extinction, La Poste va systématiser à tous les niveaux les rencontres d'information, d'explication et de concertation avec ses partenaires sociaux et ce, dans le prolongement de la méthode employée pour le projet ARTT. La revitalisation du dialogue social et la plus grande compréhension mutuelle qui en résultera sera sans aucun doute propice à un climat social plus serein et par là même au retour d'une qualité de service fiable et de haut niveau.
