@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951213009
+
+- Question : [SEQ951213009](seq951213009.md) — Conditions d'intégration des secrétaires de mairie dans le cadre d'emplois des attachés territoriaux
+
+## Réponse
+
+*Fonction publique, JO du 1996-05-02, page 1083*
+
+Réponse. - Le dispositif d'intégration auquel il est fait référence est celui prévu par l'article 30-1 du décret no 87-1099 du 30 décembre 1987 portant statut particulier du cadre d'emplois des attachés territoriaux pour compléter les dispositions initiales de constitution du cadre d'emplois faisant l'objet de l'article 30. L'article 30-1 ouvre l'intégration, notamment, aux secrétaires de mairie qui, remplissant les conditions de diplôme ou d'ancienneté dans l'emploi fixées à l'article 30, ont été intégrés au titre de leur emploi de secrétaire général de communes de 2 000 à 5 000 habitants. Or, les secrétaires de mairie, dont le cas est évoqué, ne peuvent a priori pas relever de la tranche démographique de 2 000 à 5 000 habitants si leurs arrêtés de nomination font référence à l'arrêté du 8 février 1971. En effet, ce texte ne prévoyait que la création de l'emploi de secrétaire de communes de moins de 2 000 habitants et le classement indiciaire afférent, alors que l'ensemble des dispositions relatives aux fonctions de secrétaire général des communes de plus de 2 000 habitants a été fixé par arrêté du 27 juin 1962, dernièrement modifié en date du 15 mai 1979. On ne peut, dès lors, pas considérer, compte tenu de la différence de contenu des textes visés, que les secrétaires de mairie des communes de moins de 2 000 habitants, bien que bénéficiant de la grille de rémunération des secrétaires généraux des villes de 2 000 à 5 000 habitants, ce qu'autorisait l'arrêté du 8 février 1971, réunissent les conditions requises pour être intégrés dans le cadre d'emplois des attachés, telles qu'elles sont définies dans les articles 30 et 30-1 du décret du 30 décembre 1987 précité.
