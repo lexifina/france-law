@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990616896
+
+- Question : [SEQ990616896](seq990616896.md) — Composition des farines animales données aux bovins
+
+## Réponse
+
+*Agriculture, JO du 1999-09-02, page 2922*
+
+Réponse. - La réglementation interdit l'utilisation de boues de station d'épuration dans la fabrication d'aliments composés pour animaux. En pratique, aucun cas d'utilisation à cette fin de boues de station d'épuration d'eaux urbaines n'a été constaté, à ma connaissance, par les services vétérinaires ou les services de la direction générale de la concurrence, de la consommation et de la répression des fraudes. En revanche les coproduits du pré-traitement des eaux provenant d'ateliers agro-alimentaires, constitués de débris de tissus animaux, sont parfois transformés, au même titre que des déchets animaux valorisables, pour la production de farines de viande et d'os destinées à l'alimentation animale. Il n'y a pas lieu de craindre une teneur particulièrement élevée en métaux lourds dans ces produits. Toutefois, dans la perspective d'un développement et d'un renforcement des bonnes pratiques de fabrication des matières premières destinées à l'alimentation animale, l'introduction de ces coproduits dans le processus de production de farines de viande et d'os destinées à l'alimentation animale doit faire l'objet d'un examen critique. Aussi, une réflexion est en cours pour évaluer dans quelle mesure ces coproduits peuvent être admis dans le cadre de l'alimentation animale, et pour identifier des solutions alternatives à leur devenir. Dans les cas très ponctuels où les services de contrôle ont constaté que les produits issus du traitement des eaux introduits dans la fabrication de farines de viande et d'os n'étaient pas exclusivement des co-produits du prétraitement des eaux issues d'un process agroalimentaire, les opérateurs ont été mis en demeure d'apporter les mesures correctives nécessaires.
