@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991019564
+
+- Question : [SEQ991019564](seq991019564.md) — Mandataires de justice : mise en place de déclarations d'activités annuelles
+
+## Réponse
+
+*Justice, JO du 2000-03-02, page 790*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que plusieurs dispositions du décret nº 98-1232 du 29 décembre 1998, modifiant le décret nº 85-1389 du 27 décembre 1985 relatif au statut des mandataires de justice, vont d'ores et déjà dans le sens de la suggestion susvisée, en permettant de recueillir auprès des professionnels divers éléments sur la façon dont ils exercent leur activité. Ainsi, l'obligation faite aux professionnels de déclarer l'ouverture de tout bureau annexe au commissaire du Gouvernement près de la commission qui a procédé à leur inscription, permettra de disposer de données sur les dispositions fiancières, matérielles et en personnel prises par chaque intéressé pour assurer ses missions dans ses différents lieux d'exercice. De même, l'obligation faite au président du conseil d'administration de la caisse de garantie de la profession d'informer un certain nombre d'autorités, dont le président du Conseil national, de toute action en responsabilité civile professionnelle exercée contre un mandataire de justice permettra de se faire une idée plus précise de la sinistralité dans la profession et d'orienter les contrôles. Une recommandation du Conseil national de la profession pourrait en tout état de cause compléter ce dispositif en demandant aux mandataires de justice de lui déclarer ce qui constitue leur activité annuelle : les contrôles qu'il effectue sur la profession en seraient, en effet, mieux orientés et les informations recueillies lui permettraient par exemple de soumettre à l'approbation du garde des sceaux de nouvelles règles professionnelles conformément au pouvoir qui lui est donné par l'article 54-1-II du décret du 27 décembre 1985 modifié.
