@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890605162
+
+- Question : [SEQ890605162](seq890605162.md) — Fonction publique territoriale : surclassement indiciaire
+
+## Réponse
+
+*Intérieur, JO du 1990-03-01, page 428*
+
+Réponse. - Le surclassement démographique d'une commune a été institué pour tenir compte du surcroît d'activité que représente, pour la gestion municipale, la présence d'une population saisonnière importante. C'est pourquoi cette mesure est limitée aux communes classées stations par décret en Conseil d'Etat et aux communes touristiques au sens de l'article L. 234-14 du code des communes. Tel est le sens du deuxième alinéa de l'article 88 de la loi du 26 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique territoriale, modifiée sur ce point précis et dans le sens indiqué par la loi n° 87-529 du 13 juillet 1987. En dehors de ces cas et compte tenu de la réglementation en vigueur, le surclassement démographique d'une commune ne peut intervenir. Il convient par ailleurs de signaler que toutes les communes de plus de 5 000 habitants peuvent recruter en vertu du décret n° 87-1101 du 30 décembre 1987, sur un emploi doté d'un échelonnement indiciaire propre, un fonctionnaire de catégorie A qui bénéficiera d'une rémunération particulière. En outre le Gouvernement a soumis au Conseil supérieur de la fonction publique territoriale un projet de décret permettant aux fonctionnaires d'être détachés sur l'emploi correspondant à la strate démographique de la collectivité dans laquelle ils exercent leurs fonctions si cette collectivité voit sa population augmenter. Cette modification répond au souci exprimé par l'honorable parlementaire de voir assouplir la réglementation dans le double souci de répondre aux besoins des collectivités locales sans léser les agents concernés.
