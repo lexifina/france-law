@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701368
+
+- Question : [SEQ970701368](seq970701368.md) — Fondation marocaine
+
+## Réponse
+
+*Coopération, JO du 1997-09-11, page 2364*
+
+Réponse. - Dans le cadre de l'aide au développement, la France accorde une large place au soutien aux microentreprises. Celles-ci constituent en effet un secteur important des économies africaines. Elles permettent de lutter efficacement contre le sous-emploi en milieu rural et urbain. Dans la mise en oeuvre de cette poilitique, la coopération française fait une large place aux organisations issues de la société civile, de statuts juridiques divers (associatif, privé) sans privilégier particulièrement les fondations. Elle appuie dans ce cadre les initiatives françaises et locales. Un grand nombre d'organisations ayant vocation à des actions d'encadrement de proximité en milieu urbain comme en milieu rural ont par exemple bénéficié du Fonds spécial de développement (FSD) créé après la dévaluation du franc CFA, pour soutenir des actions de développement à la base. La coopération française contribue au travers de la Caisse française de développement au soutien des systèmes financiers spécialisés dans le petit crédit, permettant ainsi à des centaines de milliers de personnes (hommes et femmes) de financer leurs propres activités. Ces systèmes de microcrédit et d'épargne-crédit sont souvent de forme mutualiste. Ils mobilisent des dépôts de plusieurs millions de francs et accordent un très grand nombre de petits crédits. Le secrétariat d'Etat à la coopération fait de l'appui aux microentreprises une priorité de son action. Il mobilise à cet effet des responsables africains, des dispositifs d'appui, des chercheurs, des praticiens, des représentants des secteurs associatifs et mutualistes français dans une réflexion commune sur les orientations à donner aux actions de soutien aux microentreprises.
