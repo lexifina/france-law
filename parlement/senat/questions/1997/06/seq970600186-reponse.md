@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970600186
+
+- Question : [SEQ970600186](seq970600186.md) — Entreprises d'insertion
+
+## Réponse
+
+*Emploi, JO du 1998-06-25, page 2065*
+
+Réponse. - L'honorable parlementaire a appelé l'attention de la ministre de l'emploi et de la solidarité sur la situation préoccupante des entreprises d'insertion et des entreprises d'intérim d'insertion. Le Gouvernement a, dès la fin de l'année 1997, pris des mesures pour soutenir ces entreprises dont le rôle dans la politique d'insertion de publics en grande difficulté sociale et professionnelle est effectivement essentiel. Ainsi, le circuit de financement mis en place en 1998 permet une accélération des procédures de versement des crédits, afin de supprimer la part de leurs difficultés financières qui tenaient aux retards dans l'attribution de leurs subventions. Parallèlement, le Gouvernement a décidé de renforcer significativement leurs moyens pour 1998 en leur réservant 28 millions de francs supplémentaires, correspondant à une augmentation de près de 10 % des crédits ouverts en loi de finances. Enfin, dans le cadre du projet de loi relative à la lutte contre les exclusions, l'objectif est de doubler en trois ans la capacité d'accueil des structures d'insertion par l'activité économique et de dynamiser leur développement par une mise en cohérence et une simplification des dispositifs existants. Ainsi, le Gouvernement propose-t-il, à compter du 1er janvier 1999, de porter l'aide au poste dans les entreprises d'insertion à 50 000 francs en moyenne, de fixer l'aide au poste d'accompagnement dans les entreprises d'intérim d'insertion à 120 000 francs, d'exonérer totalement les charges patronales de sécurité sociale sur les rémunérations des salariés en insertion, dans la limite du SMIC, et de créer des fonds départementaux pour l'insertion par l'activité économique permettant de financer l'ingénierie de projets et l'aide au démarrage.
