@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040713063
+
+- Question : [SEQ040713063](seq040713063.md) — Atteinte à la tranquillité due à la circulation de deux-roues aux pots d'échappement volontairement modifiés
+
+## Réponse
+
+*Intérieur, JO du 2004-09-30, page 2232*
+
+Conformément à l'article R. 318-3 du code de la route, les véhicules à moteur doivent être munis d'un dispositif d'échappement silencieux en bon état de fonctionnement, de manière à ne pas émettre de bruits susceptibles de causer une gêne aux usagers de la route ou aux riverains. Cet article, applicable à tous les véhicules à moteur, interdit également toute opération tendant à supprimer ou à réduire l'efficacité du dispositif d'échappement silencieux. Le fait de contrevenir à ces dispositions est puni de l'amende prévue pour les contraventions de la 3e classe, soit 68 euros et l'immobilisation du véhicule peut être prescrite. La loi n° 2003-239 du 18 mars 2003 pour la sécurité intérieure a durci l'article 222-16 du code pénal qui punit les agressions sonores en vue de troubler la tranquillité d'autrui. L'immatriculation des cyclomoteurs à compter du 1er juillet 2004 facilitera l'identification des auteurs d'infractions et permettra d'effectuer un meilleur contrôle de ces véhicules qui, à la suite du débridage de leur moteur, provoquent des nuisances sonores et peuvent atteindre des vitesses de circulation non réglementaires. Cette mesure devrait ainsi inciter certains usagers à modifier leur comportement. Enfin, conformément aux dispositions de la loi n° 2003-495 du 12 juin 2003 renforçant la lutte contre la violence routière, la commercialisation des " kits de débridage " des cyclomoteurs est passible d'une peine de deux ans d'emprisonnement, d'une amende de 30 000 euros et le véhicule sur lequel est installé ce dispositif peut être saisi. Des peines complémentaires peuvent également être prescrites et les personnes morales qui en font le commerce peuvent être poursuivies pénalement.
