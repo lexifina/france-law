@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990718145
+
+- Question : [SEQ990718145](seq990718145.md) — Maîtrise des émissions de gaz à effet de serre : participation des entreprises françaises à des projets de développement propre
+
+## Réponse
+
+*Aménagement du territoire, JO du 2000-08-10, page 2807*
+
+Réponse. - La ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question relative aux instruments économiques de mise en uvre du protocole de Kyoto. La conférence de La Haye, qui doit se tenir en novembre prochain, devrait fixer les principes permettant d'encadrer et de réguler les mécanismes prévus par le protocole de Kyoto, adopté le 10 décembre 1997. Des résultats de cette conférence dépendront les conditions d'utilisation desdits mécanismes (mise en uvre conjointe, mécanisme de développement propre, échange de permis d'émissions). La sensibilisation des acteurs privés aux projets de lutte contre l'effet de serre au bénéfice des pays en développement a déjà démarré en France. Ainsi, le programme français de la phase pilote des " Actions exécutées conjointement " a débuté à l'été 1996 et comporte notamment la sensibilisation et l'implication des partenaires, publics comme privés. Pour le mécanisme de développement propre, la France est convaincue que ce mécanisme doit effectuer de véritables réductions d'émissions de gaz à effet de serre en supplément de celles réalisées au niveau national. Il doit aussi aider à infléchir le développement des pays du Sud et à mieux les intégrer dans l'effort commun de lutte contre le changement climatique. C'est pourquoi elle veillera à la prise en compte de l'efficacité environnementale et de l'équité dans l'instauration des règles du mécanisme de développement propre. Et elle mobilisera activement les acteurs privés et institutionnels susceptibles de contribuer à son succès, de façon que ces objectifs convergent avec les attentes des investisseurs.
