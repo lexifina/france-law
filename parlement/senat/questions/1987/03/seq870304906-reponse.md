@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870304906
+
+- Question : [SEQ870304906](seq870304906.md) — Etat du projet du tunnel sous la Manche
+
+## Réponse
+
+*Transports, JO du 1987-04-30, page 673*
+
+Réponse. -Conformément aux principes énoncés par le traité signé à Cantorbéry le 12 février 1986 et mis en oeuvre dans la concession quadripartite signée le 14 mars entre les deux gouvernements et les sociétés concessionnaires, la liaison fixe à travers la Manche doit être financée par les capitaux privés sans garantie financière des Etats. L'article 5-2 de la concession fait cependant obligation à la société concessionnaire de " justifier, avant le début des travaux de forage du tunnel sous-marin, d'engagements de financements fermes et fiables ". Le contrôle de la réalité de ces engagements est exercé par la commission intergouvernementale instituée par le traité pour suivre au nom des deux gouvernements et par délégation de ceux-ci l'ensemble des questions liées à la réalisation de la liaison fixe. Les deux sociétés concessionnaires France-Manche et The Channel Tunnel Group, qui agissent depuis l'été dernier dans le cadre d'une structure intégrée franco-britannique dénommée Eurotunnel, ont procédé le 29 octobre 1986 à une levée de capital auprès d'investisseurs institutionnels qui a porté le niveau de leur capital à un montant de 2,5 milliards de francs. La prochaine levée de capitaux sur le marché international devrait intervenir après la ratification du traité et l'entrée en vigueur de la concession sous forme de placement et d'émission portant sur un montant total de 7,5 milliards de francs. Eurotunnel a entrepris des travaux préparatoires destinés à permettre le commencement du forage de la galerie de service aussitôt après la ratification du traité. Ces travaux consistent essentiellement en un puits de reconnaissance et d'essai.
