@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941209087
+
+- Question : [SEQ941209087](seq941209087.md) — Mise en place des organes institutionnels prévus par l'accord sur l'espace économique européen
+
+## Réponse
+
+*Affaires étrangères, JO du 1995-05-04, page 1038*
+
+Réponse. - Tous les organes institutionnels prévus par l'accord sur l'Espace économique européen (EEE), signé le 2 mai 1992 et entré en vigueur le 1er janvier 1994, ont été mis en place. Le conseil de l'EEE, composé des ministres des affaires étrangères de l'Union européenne et des pays de l'AELE membres de l'EEE, se réunit deux fois par an. Il a tenu sa deuxième session le 20 décembre dernier à Bruxelles. Le comité mixte, composé de hauts fonctionnaires des parties, se réunit régulièrement, en principe une fois par mois. Ses travaux ont permis aux pays de l'AELE, membres de l'EEE, de reprendre la quasi-totalité de la législation relative au marché unique, y compris celle qui a été adoptée par la Communauté européenne depuis la signature de l'accord instituant l'Espace économique européen. S'agissant enfin du mécanisme juridictionnel, la nouvelle cour de justice de l'AELE a été instituée par les règlements de procédure adoptés le 4 janvier et le 1er février 1994 (JOCE L 278 du 27 octobre 1994). La Norvège, qui exerce actuellement la présidence des pays de l'AELE membres de l'Espace économique européen, a demandé que l'organisation de cette cour soit modifiée (en particulier le nombre des juges et le transfert du siège de la cour de Genève à Luxembourg). La Communauté procède à l'examen de cette demande. Lors du dernier conseil de l'EEE (20 décembre), il a été confirmé qu'en dépit de la réduction du pilier AELE qui résulte de l'élargissement de l'UE à l'Autriche, à la Finlande et à la Suède, l'accord sur l'EEE peut continuer, sans modifications formelles, à régir les relations de l'Union avec l'Islande, la Norvège et, à compter du 1er mai prochain, le Liechtenstein.
