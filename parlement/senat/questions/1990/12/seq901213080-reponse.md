@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901213080
+
+- Question : [SEQ901213080](seq901213080.md) — Aide aux victimes de certains délits
+
+## Réponse
+
+*Justice, JO du 1991-10-03, page 2165*
+
+Réponse. - Depuis 1983, le ministère de la justice a favorisé la création de services d'aide aux victimes, afin d'apporter un soutien moral mais aussi d'informer juridiquement les personnes qui ont été victimes, soit directement soit indirectement, d'une infraction pénale. Au plan local, la mise en place et le fonctionnement de ces structures sont assurés conjointement par des bénévoles et des professionnels intervenant habituellement dans le domaine de l'aide aux victimes (juristes, psychologues, travailleurs sociaux...). Ces services d'aide aux victimes travaillent en étroite collaboration avec les services d'accueil des juridictions, ainsi qu'avec les commissions d'indemnisation des victimes d'infractions. Il existe, actuellement à travers la France, 122 structures d'aide aux victimes réparties sur 80 départements. Seuls 15 départements ne sont pas encore couverts par ce réseau national. Le financement de ces services est le plus souvent multipartenarial, assuréen partie par le ministère de la justice, mais aussi par les municipalités et les départements. L'entrée en vigueur de la récente loi du 6 juillet 1990 portant indemnisation des victimes d'infractions pénales a nécéssité l'organisation d'actions d'information, sous l'égide du ministère de la justice en collaboration avec l'I.N.A.V.E.M. (Institut national d'aide aux victimes et de médiation). Par ailleurs, la mise en place de réseaux régionaux de personnes-ressources, susceptibles d'intervenir en soutien des services d'aide aux victimes, pour la prise en charge des victimes les plus gravement touchées, constitue un autre objectif prioritaire, au titre de l'année 1991.
