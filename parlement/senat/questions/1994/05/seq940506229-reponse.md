@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940506229
+
+- Question : [SEQ940506229](seq940506229.md) — Bilan de la décentralisation en outre-mer
+
+## Réponse
+
+*Départements et territoires d'Outre-mer (DOM-TOM), JO du 1994-07-14, page 1757*
+
+Réponse. - Les membres de la commission consultative sur l'évaluation des charges résultant des transferts de compétences, instituée par l'article 94 de la loi du 7 janvier 1983 relative à la répartition des compétences entre les collectivités locales et l'Etat, ont été renouvelés par arrêté du 1er avril 1994. Ces nominations ont été effectuées conformément aux décrets du 10 mars 1983 et du 13 avril 1983 modifié. Cette commission comprend, un président, nommé par le Premier ministre sur proposition du premier président de la Cour des Comptes, huit représentants des communes (et huit suppléants) désignés par l'association des maires de France, quatre représentants des conseils généraux (et quatre suppléants) élus par l'association dite assemblée des présidents des conseils généraux, quatre représentants des conseils régionaux (et quatre suppléants) élus par les présidents de conseils régionaux. Les élections ont eu lieu le 19 novembre 1993 et l'arrêté du 1er avril 1994 a entériné les résultats de ce vote. Les représentants des collectivités territoriales d'outre-mer peuvent saisir le président de la commission de toute question relative à l'évaluation et à la compensation des charges résultant des transferts de compétences. Par ailleurs, un bilan financier de la décentralisation a été élaboré par la commission chargée de clarifier les relations financières entre l'Etat et les collectivités locales (commission dite " Delafosse "). Les conclusions de ce rapport sont désormais publiques, et devraient permettre de mieux évaluer l'impact des transferts de compétences sur les finances locales, outre-mer comme en métropole.
