@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880600056
+
+- Question : [SEQ880600056](seq880600056.md) — Commerce ambulant et protection du consommateur
+
+## Réponse
+
+*Commerce et artisanat, JO du 1989-02-02, page 179*
+
+Réponse. - Ainsi que le souligne l'honorable parlementaire, la prolifération en période estivale du nombre des commerçants occasionnels, spécialement le long du littoral, rend difficiles les contrôles effectués sur les dépendances du domaine public. C'est pourquoi, par une circulaire du 28 octobre 1986 relative à l'exercice des activités ambulantes, le ministre de l'intérieur a demandé aux préfets de limiter la durée de validité des attestations provisoires, destinées aux commerçants qui sollicitent pour la première fois une carte permettant l'exercice d'activités non sédentaires, à deux mois maximum, afin qu'ils régularisent, dans les meilleurs délais, leur situation au regard de la législation en vigueur. Ces dispositions ont contribué à diminuer sensiblement le nombre des pratiques paracommerciales sur le domaine public. Toutefois, le ministre du commerce et de l'artisanat n'est pas opposé à l'étude de dispositifs de contrôle complémentaires. La proposition d'instituer à cet effet une vignette, apposée sur des véhicules et étals des saisonniers et faisant apparaître la durée de validité de l'autorisation d'exercer des activités ambulantes sur la voie publique, délivrée par l'autorité gestionnaire du domaine public en vertu de ses pouvoirs de police, pourrait utilement être étudiée par les pouvoirs publics et par les élus locaux concernés. Cette question sera inscrite à l'ordre du jour d'une prochaine réunion de la commission interministérielle du commerce non sédentaire, chargée d'examiner l'ensemble des problèmes relatifs aux conditions d'exercice des activités ambulantes, où siègent les représentants du ministère de l'intérieur et de la défense ainsi que ceux des maires de France et des principales organisations professionnelles concernées.
