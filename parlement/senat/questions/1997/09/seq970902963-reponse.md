@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970902963
+
+- Question : [SEQ970902963](seq970902963.md) — Prise en compte par le milieu scolaire des troubles spécifiques d'apprentissage des enfants dyslexiques
+
+## Réponse
+
+*Enseignement scolaire, JO du 1997-11-27, page 3306*
+
+Réponse. - La ministre déléguée chargée de l'enseignement scolaire réserve une attention toute particulière à la situation des enfants qui éprouvent des difficultés d'apprentissage du langage oral et écrit. En particulier, il a été décidé de renforcer la mission de l'école maternelle pour l'apprentissage du langage. Un certain nombre de mesures en faveur de ces élèves existent déjà. Une sensibilisation des enseignants aux problèmes des enfants dyslexiques vise à favoriser un dépistage précoce des éléments révélateurs des troubles des apprentissages qui nécessitent un diagnostic et une pédagogie différenciée adaptée aux besoins de ces élèves. A l'heure actuelle, la scolarisation de ces enfants est prise en charge en milieu ordinaire. Toutefois, ils bénéficient parallèlement d'aides particulières apportées par des maîtres spécialisés intervenant au sein de réseaux d'aides spécialisées aux élèves en difficulté (RASED). En matière de formation de ces personnels, deux options du certificat de spécialisation comprennent dans leur programme, pour le CAPSAIS option E la problématique des apprentissages et pour l'option G des informations sur le problème des dyslexies-dysorthographies. Le Centre national d'études et de formation de Suresnes organise régulièrement des stages de formation destinés aux personnels concernés par la situation de ces enfants. Enfin, la ministre déléguée chargée de l'enseignement scolaire attend avec intérêt les résultats des travaux du groupe d'experts mis récemment en place sur ce problème, à l'initiative d'une association avec la participation du Centre technique national d'études et de recherches sur les handicaps et inadaptations (CTNERHI).
