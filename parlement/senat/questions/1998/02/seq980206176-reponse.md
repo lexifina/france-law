@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980206176
+
+- Question : [SEQ980206176](seq980206176.md) — Bilan des activités du Haut Conseil du secteur public
+
+## Réponse
+
+*Économie, JO du 1998-04-16, page 1239*
+
+Réponse. - Le Haut Conseil du secteur public, créé par la loi de nationalisation du 11 février 1982 (art. 53 complété par les décrets no 82-466 du 3 juin 1982 et no 85-974 du 16 septembre 1985), est une instance d'analyse, de réflexion et de recommandation qui ne se substitue pas aux instances administratives juridictionnelles ou parlementaires chargées de contrôler l'activité des entreprises publiques. Plus généralement, il rassemble les informations qui lui sont utiles pour porter les appréciations que lui suggère l'application des textes concernant le secteur public et met en évidence les conditions d'une meilleure régulation du secteur public. En 1997, il a entrepris d'étudier plus spécialement les entreprises publiques chargées d'un service public mais ces travaux ont été interrompus par la dissolution de l'Assemblée nationale et le renouvellement des membres la représentant en son sein. C'est ainsi que son nouveau président M. Dominique Baert, député du Nord, a été élu en octobre 1997 ainsi que les deux vice-présidents, MM. Alain Gournac, sénateur des Yvelines, et Jean-Louis Balland, représentant de la Confédération générale des travailleurs. Depuis cette date, un rapport sur les entreprises publiques chargées d'un service public est en préparation. A cette fin, des auditions de personnalités qui les dirigent sont organisées. Il devrait être prêt à la fin du premier semestre de cette année. Au second semestre débutera une étude sur les problèmes que rencontre le secteur public financier et bancaire. Pour ce faire, comme par le passé, le ministre de l'économie, des finances et de l'industrie met à la disposition du Haut Conseil des locaux ainsi que les personnes (quatre) nécessaires au fonctionnement de son secrétariat général.
