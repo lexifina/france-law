@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981011115
+
+- Question : [SEQ981011115](seq981011115.md) — Résultats des travaux d'un groupe de travail ayant pour thème la restauration scolaire dans les établissements du second degré
+
+## Réponse
+
+*Éducation, JO du 1998-12-24, page 4124*
+
+Réponse. - Le groupe de travail ayant pour thème la restauration scolaire dans les établissements du second degré a évolué dans son fonctionnement, chacune des directions compétentes ayant repris les orientations dégagées par les travaux du groupe. Ainsi, l'objectif consistant à développer une meilleure prestation accessible à l'ensemble des élèves a été confirmé et a abouti au projet de refonte du décret du 4 septembre 1985 relatif à la réglementation du service annexe d'hébergement. En effet, compte tenu de l'obsolescence de la réglementation actuelle et de l'inadaptation du système aux exigences des usagers, la modification du décret de 1985 qui devrait prendre effet à compter du 1er septembre 1999 a constitué le chantier prioritaire de l'année 1998. Les principaux aménagements concerneront essentiellement : l'affirmation du rôle du service d'hébergement au sein de l'établissement scolaire. Elément essentiel de la politique d'accueil de celui-ci, il participera étroitement à la mission éducative de l'établissement ; le renforcement des compétences du conseil d'administration qui aura compétence en matière de prestations, de tarifications et de modes de paiement ; la confirmation du fonds social pour les cantines. L'assouplissement des modes de tarification de la demi-pension prévu dans le futur décret, conjugué aux différents dispositifs d'aides sociales (fonds social pour les cantines, fonds sociaux lycéens et collégiens, bourses de collèges rétablies dès la rentrée scolaire 1998 et bourses des lycées), aura pour conséquence de ne voir aucun élève exclu de la restauration scolaire pour des raisons financières.
