@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901012238
+
+- Question : [SEQ901012238](seq901012238.md) — Filières de formation professionnelle dans le Lodévois et l'Hérault
+
+## Réponse
+
+*Éducation, JO du 1991-03-28, page 656*
+
+Réponse. - En application des procédures de décentralisation, les autorités académiques arrêtent chaque année la structure pédagogique générale des établissements, en tenant compte des orientations retenues dans le schéma prévisionnel des formations que chaque conseil régional a la responsabilité d'établir. Les modifications de l'organisation pédagogique (ouvertures, fermetures de sections) des lycées et des lycées professionnels font l'objet dans le cadre de la préparation de la rentrée scolaire - et après consultation du conseil académique de l'Education nationale - de décisions rectorales. Dans le Lodévois, le dispositif de formation professionnelle initiale se présente comme suit à la rentrée 1990 : 3 divisions de certificat d'aptitude professionnelle en 3 ans et 2 divisions de brevet d'études professionnelles accueillent 115 élèves au lycée J.-Vallot de Lodève ; au lycée professionnel du bâtiment de Bédarieux, 172 élèves sont inscrits en brevet d'études professionnelles et certificat d'aptitude professionnelle 2 ans (6 divisions), baccalauréat professionnel (1/2 division) et en formation complémentaire (1 division). Dans la moyenne vallée de l'Hérault, le lycée professionnel de Pézenas accueille 317 élèves en certificat d'aptitude professionnelle 2 ans (2 divisions), brevet d'études professionnelles (10 divisions) et en formation complémentaire (1 division). L'évolution du réseau de formation professionnelle initiale doit être étudiée dans le cadre et selon les procédures précitées, en tenant particulièrement compte de la situation de l'environnement économique. Tous renseignements complémentaires concernant notamment la préparation de la rentrée 1991 pourront être obtenus directement auprès des services du rectorat de Montpellier.
