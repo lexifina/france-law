@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870405880
+
+- Question : [SEQ870405880](seq870405880.md) — Evaluation et zonage des risques de mouvements de terrain à l'île de La Réunion: bilan d'étude
+
+## Réponse
+
+*Départements et territoires d'Outre-mer (DOM-TOM), JO du 1987-06-11, page 924*
+
+Réponse. -Le cyclone Hyacinthe a mis en évidence les graves conséquences des pluies cycloniques et torrentielles sur le relief très abrupt de l'île de la Réunion. Des études d'identification des zones à risques ont été entreprises dès 1981 sur le financement régional avec participation du F.I.D.O.M. sur les cirques de Salazie et de Cilaos où des effondrements de terrains importants étaient survenus lors de ce cataclysme. Une cartographie d'ensemble de ces zones est apparue nécessaire. Sa réalisation en a été confiée au B.R.G.M. à partir de 1983 sur financement du ministère de l'intérieur avec participation financière du ministère des D.O.M.-T.O.M. et du service géologique national (B.R.G.M.). Trois campagnes de terrain successives ont eu lieu, en 1984, 1985 et 1986. Les études ont porté sur les zones à risques : ravines, zones d'effondrements, zone d'inondations de l'ensemble de l'île. Les documents de la dernière tranche d'étude 1986 viennent d'être publiéset vont être expédiés aux autorités locales concernées. L'objet des cartes au 1/25 000 et de la documentation technique rassemblée est d'apporter une contribution utile par l'établissement des plans d'urbanisme des communes menacées grâce à une définition des zones où la construction devra être soit interdite, soit plus sévèrement réglementée. Des mesures adaptées ont déjà été prises dans certaines communes. Les travaux complémentaires nécessaires notamment en milieu urbain des cartes de zones à risques à plus grande échelle (1/5 000) doivent être entrepris à l'initiative des collectivités locales concernées.
