@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991120555
+
+- Question : [SEQ991120555](seq991120555.md) — Politique de gestion des déchets papiers
+
+## Réponse
+
+*Aménagement du territoire, JO du 2000-02-10, page 516*
+
+Réponse. - La ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question relative au coût, pour les collectivités locales, du retraitement des prospectus distribués dans les boîtes à lettres. Sensible à ce problème, la ministre de l'aménagement du territoire et de l'environnement a diligenté la création d'un groupe de travail sur le courrier non adressé. Constitué de représentants des professionnels de la production, l'édition et la diffusion de ce type de courrier et des représentants des élus locaux, il a tenu sa première réunion le 2 mars 1999. Ce travail permettra d'établir un état des lieux et d'envisager les solutions les plus appropriées pour apporter une réponse satisfaisante aux problèmes évoqués. Dans ce cadre, l'agence de l'environnement et de la maîtrise de l'énergie (ADEME) a d'ores et déjà proposé le cahier des charges, défini avec le ministère chargé de l'environnement, d'une étude en plusieurs volets portant sur la caractérisation des flux émis et leur évolution à terme, sur les différentes formes d'organisation de la collecte et sur le coût de telles opérations. Les résultats de cette étude devront être connus prochainement afin de définir début 2000 les modalités contractuelles et réglementaires d'organisation de la collecte et de la récupération de ces journaux gratuits et prospectus. Le principe d'une taxe sur l'ensemble des journaux-magazines, prospectus et publipostage pourrait être envisagé dans ce contexte. D'autres solutions méritent néanmoins d'être examinées, comme la mise en place d'un dispositif d'incitation sous forme d'un accord volontaire ou de l'élargissement de l'agrément et du statut des organismes agréés pour la valorisation des emballages ménagers.
