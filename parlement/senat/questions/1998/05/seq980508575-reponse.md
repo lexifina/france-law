@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508575
+
+- Question : [SEQ980508575](seq980508575.md) — Service de médecine interne du groupe hospitalier Louise-Michel (Evry)
+
+## Réponse
+
+*Santé, JO du 1998-11-12, page 3659*
+
+Réponse. - L'honorable parlementaire appelle l'attention de Monsieur le secrétaire d'Etat à la santé sur la situation du service de néphrologie et de dialyse du centre hospitalier Louise-Michel à Evry et sur le problème du déficit en postes de dialyse dans le département de l'Essonne. Actuellement, l'installation d'appareils de dialyse, que ce soit en centre ou hors centre, fait l'objet d'une demande d'autorisation et est examinée par le comité régional de l'organisation sanitaire et sociale appelé à émettre un avis. Cependant, seuls les appareils de dialyse en centre pour traiter les insuffisants rénaux chroniques adultes sont soumis à l'indice de besoins fixé par l'arrêté du 9 avril 1984. Dans la région d'Ile-de-France, l'application de cet indice ne permet plus de nouvelles autorisations. Le taux d'équipement en appareils de dialyse est de 50,3 postes en centre par million d'habitants, alors que l'arrêté ministériel du 9 avril 1984 ne permet d'autoriser que 40, 45 postes par million d'habitants. Cependant, les limites des modes de planification actuels, qui reposent trop exclusivement sur des indicateurs physiques, ont conduit mes services à engager une réflexion visant à faire évoluer la réglementation actuelle afin de mieux ajuster le dispositif aux besoins des insuffisants rénaux chroniques. De son côté, l'agence régionale de l'hospitalisation de l'Ile-de-France a engagé une réflexion globale sur l'organisation du dispositif en matière d'insuffisance rénale chronique. L'ensemble de ces études devrait être de nature à améliorer la prise en charge des insuffisants rénaux dans le département de l'Essonne. C'est à la suite de ces études que le problème des effectifs pourra être réglé.
