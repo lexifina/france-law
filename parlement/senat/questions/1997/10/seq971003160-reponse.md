@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971003160
+
+- Question : [SEQ971003160](seq971003160.md) — Modalités de calcul de la dotation globale d'équipement (DGE) pour les communes
+
+## Réponse
+
+*Intérieur, JO du 1998-02-05, page 405*
+
+Réponse. - Le projet de loi de finances pour 1998 ne prévoit pas de modifications du régime de la dotation globale d'équipement (DGE) des communes fixé par la loi no 95-1346 du 30 décembre 1995 portant loi de finances pour 1996 et par la loi no 96-241 du 26 mars 1996 portant diverses dispositions relatives aux concours de l'Etat aux collectivités territoriales et aux mécanismes de solidarité financière entre collectivités territoriales qui ont supprimé la première part de la DGE des communes dont le taux de concours se situait à moins de 3 %. Dans le même temps, la deuxième part de DGE, déconcentrée et versée sous forme de subventions par opération, a été étendue sous conditions de ressources et de population, notamment aux communes de moins de 20 000 habitants en métropole. Afin de tenir compte notamment de l'accroissement du nombre de communes bénéficiaires du régime de la seconde part de la DGE, les crédits ouverts en loi de finances pour 1996 au chapitre 67-52, article 20 (ancienne deuxième part de la DGE des communes), ont été augmentés de 54 %. Ceux ouverts en 1997 l'ont en outre été de 10 %. En 1998, le taux de croissance sera, conformément à l'article L. 2334-32 du code général des collectivités territoriales, égal au taux de croissance prévisionnel pour 1998 de la formation brute de capital fixe des administrations publiques, soit p 2,5 %. Le bilan de l'exercice 1996 de la DGE des communes montre que le taux moyen de subvention se situe à plus de 28 % du montant total hors taxe des travaux et que les demandes de subvention ont été satisfaites à 73 %. Le Gouvernement n'envisage pas aujourd'hui de modification de ce dispositif.
