@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910816796
+
+- Question : [SEQ910816796](seq910816796.md) — Infirmiers-anesthésistes
+
+## Réponse
+
+*Santé, JO du 1992-02-20, page 443*
+
+Réponse. - Il est précisé à l'honorable parlementaire que, conformément aux engagements pris auprès des professionnels en juin 1991, le décret n° 91-1281 du 17 décembre 1991 a transformé le certificat d'aptitude aux fonctions d'infirmier-anesthésiste en un diplôme d'Etat d'infirmier-anesthésiste. Ce nouveau diplôme d'Etat vise à une meilleure reconnaissance des compétences spécifiques de professionnels dont le rôle essentiel auprès du patient n'est plus à démontrer. En ce qui concerne la libre circulation au sein de la Communauté économique européenne, le comité consultatif pour la formation dans le domaine des soins infirmiers auprès de la Commission des communautés européennes est actuellement en train de dresser un état des lieux des conditions de formation et d'exercice des infirmiers-anesthésistes dans les Etats membres où une telle spécialité existe. Il est encore trop tôt pour se prononcer sur les modalités d'une éventuelle harmonisation des formations mais,en tout état de cause, celle-ci ne saurait se traduire et le Gouvernement français y veillera, par une quelconque dévalorisation de la profession. Il convient par ailleurs d'ajouter que, d'une façon générale, la libre circulation au sein de la Communauté économique européenne ne peut se concevoir que pour des formations de niveau équivalent. S'agissant de la spécificité de la carrière, celle-ci a été obtenue par l'attribution aux infirmiers-anesthésistes de la nouvelle bonification indiciaire instituée par le protocole d'accord du 9 février 1990 pour un montant de trente points majorés à compter du 1er août 1991 et trente-quatre points majorés à compter du 1er août 1992.
