@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930601717
+
+- Question : [SEQ930601717](seq930601717.md) — Situation des anciens combattants d'Afrique du Nord
+
+## Réponse
+
+*Anciens combattants, JO du 1993-12-02, page 2300*
+
+Réponse. - En application de la loi no 93-7 du 4 janvier 1993, le décret no 93-1079 du 14 septembre 1993 précise les conditions d'attribution de la carte du combattant aux militaires des forces armées françaises et aux personnes civiles de nationalité française qui ont servi dans le cadre des conflits armés et des opérations de maintien de la paix et des missions humanitaires décidées par l'Organisation des Nations unies. Le ministre des anciens combattants vient de signer un arrêté fixant la liste des opérations ouvrant droit au bénéfice de la carte du combattant qui est actuellement soumis au contreseing du ministre de la défense et du ministre du budget. Les listes des unités combattantes (terre, air, mer, gendarmerie), des services communs et des personnes civiles assimilées seront établies par arrêté du ministre de la défense. Le décret du 14 septembre 1993 confirme également l'attribution de la carte du combattant aux militaires qui, tels ceux de l'armée des Alpes, se sont illustrés pendant la campagne de 1940 au cours de certaines opérations. Les lieux et dates de ces opérations seront déterminés par arrêté du ministre de la défense. Depuis le lancement, en février dernier, d'une campagne d'information sur l'existence du fonds de solidarité, le nombre des bénéficiaires a crû sensiblement. Ces dossiers sont instruits par les services départementaux de l'office national des anciens combattants. Au 30 septembre 1993, 16 718 anciens combattants en Afrique du Nord bénéficiaient de cette allocation différentielle, tous chômeurs de longue durée, âgés de cinquante-six ans ou plus ; ils disposent ainsi d'un montant mensuel de ressources de 4 000 francs indépendamment des revenus de leurs conjoints.
