@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940204796
+
+- Question : [SEQ940204796](seq940204796.md) — Incitation fiscale aux dons à des associations d'utilité publique
+
+## Réponse
+
+*Budget, JO du 1994-03-24, page 669*
+
+Réponse. - Les pouvoirs publics français accordent déjà une attention très soutenue aux personnes qui effectuent des dons au profit des associations humanitaires. Actuellement, les versements effectués au profit des organismes à caractère humanitaire sont déductibles dans la limite de 2 p. 1 000 du chiffre d'affaires en ce qui concerne les entreprises et ouvrent droit à une réduction d'impôt de 40 p. 100 de leur montant, dans la limite de 1,25 p. 100 du revenu imposable, en ce qui concerne les particuliers. Ces limites sont respectivement portées à 3 p. 1 000 du chiffre d'affaires et à 5 p. 100 du revenu imposable quand les organismes humanitaires sont reconnus d'utilité publique. En outre, et contrairement aux règles générales en matière de territorialité, la prise en compte des versements faits aux associations qui développent, à partir de la France, un programme d'aide humanitaire à l'étranger est admise. Par ailleurs, les dispositifs prévus par les articles 200 et 238 bis du code général des impôts ne sont pas utilisés de manière optimale. En particulier, l'avantage fiscal n'est utilisé que par trois millions de contribuables sur quinze millions et le plafond de 5 p. 100 du revenu imposable est très loin d'être atteint. Enfin, la contribution des particuliers à l'action des associations humanitaires qui fournissent des repas aux personnes en difficulté, ou qui favorisent leur logement, est encouragée dans le cadre de la loi de finances pour 1994, qui a porté de 560 francs à 1 000 francs la limite de ces dons. Cette mesure va dans le sens des préoccupations exprimées par l'honorable parlementaire.
