@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970702105
+
+- Question : [SEQ970702105](seq970702105.md) — Réforme des allocations familiales et emplois de service
+
+## Réponse
+
+*Emploi, JO du 1997-10-23, page 2902*
+
+Réponse. - La mise sous condition de ressources des allocations familiales s'inscrit dans le cadre de la politique de solidarité nationale que le Gouvernement entend mettre en oeuvre. Il apparaît, en effet, que notre dispositif global d'aide aux familles, par le biais de la fiscalité et des prestations sociales, est, parmi les pays européens, à la fois l'un des plus généreux pour les familles en général et l'un des moins favorables pour les familles modestes. Les aides à la famille sont aujourd'hui croissantes avec le revenu. Dans ces conditions et tout en préservant les intérêts de l'immense majorité des familles, il est équitable de mieux tenir compte du niveau des ressources des familles pour l'attribution des allocations familiales. Le plafond est fixé à 25 000 francs de revenu mensuel net, plus 7 000 francs pour une famille bi-active et 5 000 francs par enfant au-delà du deuxième. Cela signifie qu'aucune famille de trois enfants gagnant moins de 30 000 francs nets par mois ne sera concernée, ni aucune famille où les deux parents travaillent et gagnent moins de 32 000 francs nets par mois. Il n'y aura pas de " seuil couperet " : les familles dont les revenus dépassent légèrement le plafond continueront à percevoir des allocations réduites. La mise sous condition de ressources ne concernera donc que les familles les plus aisées et ne sera pas de nature à remettre en cause les emplois familiaux, pour lesquels il existe par ailleurs des aides spécifiques et des mesures d'incitation fiscale. Les réductions de celles-ci, annoncées dans le cadre des projets de lois de finances et de financement de la sécurité sociale 1998, toucheront moins de 0,5 % de l'ensemble des familles.
