@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991120487
+
+- Question : [SEQ991120487](seq991120487.md) — Enlèvement des contraventions sur les pare-brises des automobiles
+
+## Réponse
+
+*Justice, JO du 2000-03-16, page 979*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire qu'aux termes de l'article R. 49-1, alinéa 2, du code de procédure pénale relatif aux amendes forfaitaires, l'avis de contravention et la carte de paiement sont, en matière de contraventions au code de la route, laissés par l'agent verbalisateur sur le véhicule et ne sont envoyés au titulaire du certificat d'immatriculation qu'en cas d'impossibilité d'apposition de ces documents sur le véhicule. Cette exception à la règle habituelle de remise de ces documents au contrevenant en personne ou de leur envoi à son domicile trouve son fondement dans l'ampleur du contentieux afférent à la circulation routière et en particulier aux dispositions relatives au stationnement des véhicules. En effet, dans cette matière, pas moins de 9 536 904 avis de contravention ont été dressés en 1998 et il serait matériellement impossible de mettre en uvre d'autres modalités. Il y a lieu cependant de préciser que les contrevenants de bonne foi qui, par suite de circonstance indépendantes de leur volonté, n'auraient pu retrouver l'avis de contravention sur leur véhicule, ont néanmoins la possibilité de présenter, conformément à l'article 530, alinéas 2 et 3, du code de procédure pénale, une réclamation motivée auprès du ministère public, dans les trente jours de l'envoi les invitant à s'acquitter de l'amende forfaitaire majorée, accompagnée de l'avis correspondant à l'amende considérée. Au vu de cette réclamation, le ministère public peut soit renoncer à l'exercice des poursuites, soit saisir le tribunal de police, selon la procédure simplifiée ou la procédure de droit commun.
