@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930701981
+
+- Question : [SEQ930701981](seq930701981.md) — Gel des délivrances de nouvelles autorisations pour les véhicules de petite remise
+
+## Réponse
+
+*Intérieur, JO du 1993-11-11, page 2152*
+
+Réponse. - Par circulaire du 16 juin 1993, prise conformément aux conclusions du groupe de travail sur la concurrence dans les transports de personnes qui s'est réuni sous l'égide du Conseil national des transports, le ministre de l'intérieur et de l'aménagement du territoire a donné aux préfets des instructions afin que la délivrance de nouvelles autorisations de voiture de petite remise soit très limitée. Cette circulaire tient compte du protocole d'accord signé entre les représentants de la Fédération nationale des artisans du taxi, du Syndicat national des artisans de petite remise et de la Chambre syndicale nationale des entreprises de remise et de tourisme. Ce protocole prévoit de permettre aux exploitants de petite remise qui le souhaitent, d'intégrer l'une des professions voisines de chauffeur de taxi ou de chauffeur de grande remise. Il s'inscrit dans le souci de simplification des activités de transports de petite capacité préconisé par le rapport final du conseil national des transports. Ce regroupement optionnel des exploitations de petite remise avec les deux professions précitées est donc recommandé sans qu'il soit possible de préjuger les décisions qui pourront être prises. Cette circulaire ne constitue en effet que le préalable d'un ensemble de dispositions qui restent à envisager sur le plan réglementaire en concertation avec le ministère chargé du commerce et de l'artisanat et le ministère de l'équipement, des transports et du tourisme, afin de mettre en oeuvre le protocole d'accord qui traite également de la qualification professionnelle et de la concurrence entre moyens de transports de moins de dix personnes.
