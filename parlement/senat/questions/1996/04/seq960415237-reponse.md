@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960415237
+
+- Question : [SEQ960415237](seq960415237.md) — Protection sociale des agents de la fonction publique
+
+## Réponse
+
+*Fonction publique, JO du 1996-11-07, page 2907*
+
+Réponse. - Le régime spécial de sécurité sociale des fonctionnaires ne prévoit pas le versement d'une allocation d'invalidité temporaire aux fonctionnaires qui reprennent leur activité à temps partiel, après une interruption de service pour raison de santé. Cependant, le mi-temps thérapeutique, prévu par l'article 34 bis de la loi no 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat, permet aux fonctionnaires, qui reprennent leurs fonctions à mi-temps après un congé de longue maladie ou congé de longue durée, de percevoir leur plein traitement pour une période de trois mois, renouvelable dans la limite d'un an par affection ayant ouvert droit à ce congé de longue maladie ou congé de longue durée. Par ailleurs, la circulaire FP1711 du 30 janvier 1989 relative à la protection sociale contre les risques maladie et accidents du travail permet aux fonctionnaires qui doivent s'absenter pour recevoir des soins médicaux périodiques de bénéficier de congés de longue maladie ou de congés de longue durée fractionnés, après consultation du comité médical ou de la commission de réforme. Cette adaptation peut permettre de répondre aux besoins spécifiques des fonctionnaires atteints d'une sclérose en plaque. Enfin, le régime applicable aux fonctionnaires atteints d'une invalidité, qui résulte du régime spécial de sécurité sociale et du code des pensions civiles et militaires de retraite, s'avère globalement au moins aussi favorable que l'assurance invalidité du régime général de sécurité sociale. En conséquence, il n'est actuellement pas prévu de modifier le régime en vigueur.
