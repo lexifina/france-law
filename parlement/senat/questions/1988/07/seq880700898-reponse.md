@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880700898
+
+- Question : [SEQ880700898](seq880700898.md) — Commissions départementales d'amélioration des services publics en zone de montagne
+
+## Réponse
+
+*Intérieur, JO du 1989-02-23, page 330*
+
+Réponse. - La commission départementale d'amélioration de l'organisation des services publics, instituée par l'article 2 de la loi du 5 janvier 1988 modifiant l'article 15 de la loi du 9 janvier 1985 relative au développement et à la protection de la montagne, a vu sa composition fixée par un décret du 9 mars 1988. Compte tenu des délais nécessaires à l'organisation de l'élection des représentants des maires des communes de moins de 5 000 habitants devant siéger dans cette nouvelle instance et de la tenue des différentes consultations électorales ayant eu lieu l'année dernière, ce n'est qu'à la fin de l'année 1988 que, dans la plupart des départements concernés, la commission a pu être installée. Au 1er janvier 1989, la commission était constituée dans 27 des 45 départements comprenant des communes classées en zone de montagne. Dans 15 autres départements, la commission est en cours de constitution. Une circulaire du 13 décembre 1988 a confirmé aux préfets la volonté du Gouvernement de voir cette nouvelle structure départementale mise en place dans les meilleurs délais afin de permettre sa saisine systématique avant toute décision de rationalisation des services publics, notamment avant une décision prévoyant la fermeture d'une implantation ou la réduction des prestations assurées à la population. Il est rappelé à l'honorable parlementaire que la commission est compétente pour traiter de l'organisation de tous les services publics intéressant les habitants des zones rurales de montagne quelle que soit la collectivité en ayant la charge et quel que soit leur mode de gestion.
