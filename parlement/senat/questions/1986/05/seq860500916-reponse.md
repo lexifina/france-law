@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860500916
+
+- Question : [SEQ860500916](seq860500916.md) — Transports aériens: réduction de tarifs pour les handicapés
+
+## Réponse
+
+*Transports, JO du 1986-06-26, page 902*
+
+Réponse. -S'il est vrai que les seules réductions tarifaires consenties par les compagnies aériennes sur certaines relations, notamment domestiques, ne visent que les grands invalides de guerre et les aveugles civils, au contraire de la S.N.C.F. qui bénéficie d'une subvention globale au titre des tarifs sociaux qu'elle consent, les avantages dont il s'agit sont de nature purement commerciale et ne font l'objet d'aucune compensation financière. De ce fait, ces deux mesures catégorielles n'ont pas été étendues à d'autres catégories de passagers handicapés, pas plus que n'a été instituée la gratuité partielle de la " tierce personne ", que les transporteurs ne sauraient prendre à leur charge pour des raisons financières évidentes. En revanche, s'agissant du réseau aérien intérieur, la plupart des passagers handicapés trouvent dans les tarifs réduits pratiqués sur les vols blancs (25 p. 100 de réduction et plus) ou bleus (50 p. 100 et plus), la solution à leurs préoccupations : s'ils sont en deçà des limites d'âge pour les tarifs jeunes (vingt-cinq ans à vingt-sept ans pour les étudiants), ou au-delà de l'âge applicable au tarif personnes âgées (soixante ans) ; dans le cadre du tarif famille s'ils sont accompagnés par leur époux, père, mère ou enfant, et quel que soit leur âge. Bien entendu, le ministre de l'équipement, du logement, de l'aménagement du territoire et des transports, suit avec la plus grande attention l'évolution des choses et, en accord avec les compagnies, ne manquera pas de promouvoir toutes facilités en faveur des catégories sociales les plus dignes d'intérêt, notamment les personnes handicapées.
