@@ -114,6 +114,18 @@ Cette classe comprend :
 
 Les dispositions de la présente convention s'appliquent également aux fonctionnaires détachés dans une entreprise et qui bénéficient du statut de la fonction publique pour la durée de ce détachement, sauf pour certaines dispositions particulières, notamment celles relatives au préavis, à la retraite et au licenciement.
 
+- Les entreprises ayant une activité principale relevant du code NAF 64.2 B ;
+
+- celles relevant de la loi de réglementation des télécommunications du 26 juillet 1996 ;
+
+- les sociétés de commercialisation de services de télécommunications ;
+
+- les fournisseurs d'accès et de services réseaux dont Internet ;
+
+- les câbles-opérateurs ;
+
+- les sociétés ayant pour activité principale une activité de centre d'appel détenues ou non par une société entrant dans le champ d'application du présent article ;
+
 CLAUSE DE CHOIX
 
 Les entreprises ou établissement dont l'activité principale est visée dans le présent champ d'application mais qui appliquent les accords et conventions de la métallurgie à la date du 31 décembre 1995 en vertu de leur adhésion à une chambre syndicale territoriale des industries métallurgiques seront soumis aux règles suivantes :
