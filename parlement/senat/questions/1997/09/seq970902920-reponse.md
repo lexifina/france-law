@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970902920
+
+- Question : [SEQ970902920](seq970902920.md) — Environnement logistique du char " Leclerc "
+
+## Réponse
+
+*Défense, JO du 1997-11-20, page 3215*
+
+Réponse. - Le TRM 10 000 de Renault Véhicules Industriels (RVI) est un engin de transport tactique lourd, dont la fiche initiale de caractéristiques militaires (matériel de base) a été éditée en 1977. Il s'agissait alors de disposer d'un camion capable de tracter des systèmes d'armes et de transporter des charges logistiques lourdes. Ce véhicule a donné entière satisfaction dès son entrée en service. Dans ce cadre, l'armée de terre a décidé d'uniformiser son parc de camions, ce qui lui a permis d'alléger ses charges de soutien, tout en diminuant les coûts d'acquisition par des commandes importantes. C'est ainsi que de nouvelles versions sont venues enrichir la famille des TRM 10 000 : adoption du camion lourd de dépannage " Leclerc " en 1990, puis version plateau déposable (véhicule logistique) en 1991 et enfin version ravitailleur en 1996. S'agissant de la protection des personnels, celle-ci ne peut être aujourd'hui assurée que par la mise en place de kits de protection pare-éclats. En effet, il n'est pas possible d'équiper le TRM 10 000 d'une cabine blindée dans le mesure où l'essieu avant de ce véhicule ne peut accepter une surcharge supérieure à 100 kilogrammes. L'armée de terre a lancé en 1996, conjointement avec la délégation générale pour l'armement, une étude concernant une " cabine démonstrateur à surprotection modulaire " (projet CADESMO), en vue d'équiper prioritairement les TRM 10 000 d'ici à l'an 2000. Ce projet, fondé sur l'utilisation d'une nouvelle génération de blindage, serait de nature à répondre au besoin de protection. Toutefois, les coûts élevés des matériaux qu'il est envisagé d'utiliser ne permettraient d'équiper, à brève échéance, qu'un nombre limité de véhicules.
