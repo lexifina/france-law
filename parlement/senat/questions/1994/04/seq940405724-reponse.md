@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940405724
+
+- Question : [SEQ940405724](seq940405724.md) — Situation en Somalie
+
+## Réponse
+
+*Affaires étrangères, JO du 1994-06-02, page 1339*
+
+Réponse. - A la suite de la prise de conscience par la communauté internationale de la tragédie somalienne, les Nations unies se sont vu confier un mandat très large. Outre la protection et l'acheminement des secours et la remise en état des infrastructures du pays, l'ONUSOM a reçu une mission politique considérable : reconstruire les bases d'un Etat somalien viable. Cette tâche n'a été que partiellement atteinte : la mission humanitaire " Vaincre la famine " a été globalement remplie. Mais la réalité somalienne n'a pas permis de transformer l'opération des Nations unies en Somalie avec succès. Malgré des progrès certains, on doit encore déplorer l'absence de solution politique globale à la crise somalienne. La France a participé avec deux mille cinq cents hommes à l'opération " Rendre espoir ". Elle a maintenu mille cent hommes au sein de l'ONUSOM II jusqu'en mars dernier. Les observateurs ont été unanimes à souligner le succès de la présence française. La gestion de la région confiée à notre pays (région Sud-Ouest située autour de Baïdoa et Bardera, soit 100 000 kilomètres carrés) a été exemplaire tant par la politique menée de désarmement systématique que par ses efforts en faveur de la reconstruction. Sur la base de la résolution 885 du 16 novembre 1993, une commission d'enquête a été créée pour faire la lumière sur les événements ayant conduit à la mort de 24 Casques bleus le 5 juin 1993. Le rapport remis au secrétaire général le 24 février 1994, après une diffusion restreinte, est maintenant public. Il relève des dysfonctionnements au sein de l'ONUSOM, en particulier dans sa composante militaire. Il pose notamment le problème de la coordination entre contingents de nationalités différentes, placés parfois sous des commandements distincts.
