@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980105522
+
+- Question : [SEQ980105522](seq980105522.md) — Position de la France face à la situation en Algérie
+
+## Réponse
+
+*Affaires étrangères, JO du 1998-04-09, page 1131*
+
+Réponse. - Face au drame qui meurtrit aujourd'hui l'Algérie, le Gouvernement français a pour premier souci d'agir utilement. Avec ses principaux partenaires de la communauté internationale, il entend, sans volonté d'ingérence, appuyer les efforts entrepris par les Algériens pour favoriser l'apaisement et la réconciliation dans leur pays. Le Gouvernement français souhaite, en particulier, encourager les autorités algériennes à poursuivre le projet de réforme et d'ouverture qu'elles ont engagé. A cette fin, il s'emploie à approfondir, au plan bilatéral comme dans le cadre de l'Union européenne, le dialogue avec Alger. La visite de la troïka européenne à Alger, les 19 et 20 janvier dernier, a constitué une première étape sur cette voie. Elle a permis, en effet, de mieux comprendre la situation en Algérie et la démarche du Gouvernement algérien. Le déplacement de la délégation du Parlement européen à Alger du 8 12 février, puis les visites de responsables politiques européens et français, ont été l'occasion d'élargir et d'enrichir ce dialogue. Afin de favoriser la poursuite des réformes en algérie, les autorités françaises souhaitent continuer à développer leur dialogue avec Alger. Elles ont invité, à cet effet, le ministre algérien des affaires étrangères à se rendre prochainement en France. Elles soutiennent également les initiatives de la présidence britannique visant au renforcement des relations entre l'Union européenne et l'Algérie. Le Gouvernement encourage enfin les autorités algériennes à développer leurs contacts avec les Nations unies. Comme l'a proposé l'Union européenne, il souhaite notamment que les rapporteurs spéciaux de la commission des droits de l'homme puissent être prochainement reçus en Algérie.
