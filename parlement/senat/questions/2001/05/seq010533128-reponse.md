@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010533128
+
+- Question : [SEQ010533128](seq010533128.md) — Bulletins de vote pour les élections communales
+
+## Réponse
+
+*Intérieur, JO du 2001-07-12, page 2336*
+
+L'honorable parlementaire s'interroge sur l'opportunité de maintenir dans le code électoral (art. L. 257) la règle relative aux élections municipales selon laquelle les bulletins qui comportent plus de noms que de conseillers à élire sont valables. Son application s'est en effet compliquée, à l'occasion du scrutin des 11 et 18 mars 2001, par l'initiative dommageable de certains maires sortants, confrontés à un déficit de candidatures ou à une impossibilité de constituter des listes, visant à tenir dans les locaux municipaux une " liste ouverte " où d'éventuels candidats étaient invités à se déclarer. Ces listes ayant comporté parfois plus de noms que de sièges à pourvoir, les électeurs ne les ont pas moins reproduites au moment du vote, ce qui a conduit les membres des bureaux de vote à statuer sur la validité des bulletins tels que ceux visés par l'article L. 257 précité. Il reste que cette solution, dans des communes qui connaissent le régime le plus libéral en termes d'expression des suffrages, est la plus favorable aux électeurs et qu'elle oblige seulement les bureaux de vote, sous le contrôle du juge, à déterminer précisément l'intention de l'électeur. La règle d'élimination des noms en excédent, lorsqu'elle peut être appliquée, c'est-à-dire qu'un ordre a pu être déterminé entre les noms permettant de cerner ladite intention, est donc à la fois la plus logique, au regard du mode de scrutin, et la plus juste. L'alternative serait l'annulation du suffrage, solution qui pénaliserait l'électeur qui a souhaité s'exprimer. Compte tenu de ces avantages et du peu de difficultés ou de contentieux survenant dans ce domaine, il n'est pas envisagé de modifier les dispositions en vigueur.
