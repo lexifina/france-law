@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941209247
+
+- Question : [SEQ941209247](seq941209247.md) — Service public de la musique
+
+## Réponse
+
+*Culture, JO du 1995-05-10, page 1092*
+
+Réponse. - Les crédits attribués par le ministère de la culture et de la francophonie aux orchestres nationaux et régionaux, en 1993 et 1994, ainsi que les perspectives de financement, pour 1995, ne peuvent laisser supposer que des orchestres soient menacés de disparition du fait d'un quelconque désengagement de l'Etat. En effet, le total des subventions de fonctionnement attribuées aux orchestres nationaux et régionaux s'est élevé à 179 millions de francs en 1993 et 185,5 millions de francs en 1994. En 1995, il est prévu de porter la dotation ministérielle aux orchestres à un total de 189 millions de francs. Ces chiffres démontrent une progression de l'effort de l'Etat pour ce secteur d'activités musicales, dans un contexte budgétaire difficile. L'Etat a ainsi contribué, en 1994, à compenser financièrement le retrait unilatéral de l'un des partenaires publics de l'orchestre de Bretagne en accordant une subvention complémentaire de 500 000 francs. En 1995, une aide supplémentaire de 600 000 francs sera attribuée à l'orchestre d'Avignon afin de participer au redressement de sa situation financière et lui permettre ainsi de poursuivre ses activités. Afin de consolider la situation des orchestres permanents, essentiels dans la structuration du paysage musical français, l'Etat proposera aux partenaires financiers de chaque orchestre des chartes d'objectfs permettant de définir le rôle de l'orchestre dans la politique de diffusion musicale de chaque collectivité locale en favorisant, par exemple, sa collaboration éventuelle avec un théâtre lyrique ou un festival subventionnés. Une telle initiative permettra une clarification, à moyen terme, des missions imparties à ces orchestres et donc une pérennisation assurée de leur activité.
