@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020138062
+
+- Question : [SEQ020138062](seq020138062.md) — Fête de la musique
+
+## Réponse
+
+*Culture, JO du 2002-04-04, page 969*
+
+La Fête de la musique a été créée en 1982. Elle se déroule depuis, chaque 21 juin, sans avoir jamais été remise en cause par aucun des ministres de la culture ou des gouvernements qui se sont succédé. Après avoir géré directement la coordination de cette fête, le ministère de la culture a délégué cette tâche à deux associations successives. Un appel d'offres a été passé pour les éditions 2002, 2003 et 2004 au terme duquel la prestation a été de nouveau confiée à l'ADCEP. Le budget de cette opération est de 0,43 million d'euros. Il inclut la communication, la coordination en France et à l'étranger de l'opération. Cette somme ne prend évidemment pas en compte le coût d'organisation des grands concerts gratuits à l'initiative des collectivités locales, d'entreprises et d'associations. Une étude conduite à l'occasion de la 20e édition en 2001 confirme l'immense succès populaire de cette manifestation à laquelle plus de 75 % des Français ont participé au moins une fois. Pour 79 % du public la fête est une occasion donnée aux amateurs de se produire devant un vrai public et 88 % apprécient l'accès gratuit à des lieux de concerts prestigieux. Lors de l'édition 2000, 28 % des Français étaient présents dans la rue ou dans une salle de concert. Cette étude prouve le rôle fondamental que la Fête de la musique joue au sein de l'ensemble de la politique musicale comme occasion de découverte de nouveaux talents, d'élargissement de la culture musicale des Français et de soutien aux pratiques amateurs. En revanche, nous ne disposons d'aucune étude sur les retombées économiques de la fête qui sont à l'évidence importantes dans le domaine de l'hôtellerie et de la restauration.
