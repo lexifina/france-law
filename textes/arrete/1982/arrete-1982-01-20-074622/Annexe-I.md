@@ -298,9 +298,15 @@ Astragalus massiliensis (Miller) Lamarck.
 
 |
 
-Astragale de Montpellier.
+Astragale de Marseille.
 
 |
+
+Astragalus monspessulanus.
+
+|
+
+Astragale de Montpellier. |
 
 Atractylis cancellata L.
 
@@ -770,7 +776,7 @@ Geranium cinereum Cav.
 
 |
 
-Gérarium à feuilles cendrées.
+Gér. à feuilles cendrées.
 
 |
 
@@ -1307,14 +1313,6 @@ Pimpinella siifolia Leresche.
 |
 
 Pimpinelle à feuilles de Sium.
-
-|
-
-Pinus mugho Turra.
-
-|
-
-Pin Mugho (spontané).
 
 |
 
@@ -2673,6 +2671,16 @@ Veratrum nigrum L.
 Vérâtre noir.
 
 |
+
+Gymnospermes
+
+|
+
+Pinus mugho Turra.
+
+|
+
+Pin Mugho (spontané). |
 
 Ptéridophytes
 
