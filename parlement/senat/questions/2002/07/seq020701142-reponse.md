@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020701142
+
+- Question : [SEQ020701142](seq020701142.md) — Situation de l'hôpital de La Pitié-Salpêtrière
+
+## Réponse
+
+*Santé, JO du 2002-10-24, page 2500*
+
+Au cours de travaux ayant pour but de réaliser une galerie souterraine entre deux bâtiments, des prélèvements de terres ont été réalisés le 8 mars 2002 à la suite d'odeurs d'hydrocarbures. Les résultats d'analyses ont montré que ces terres étaient chargées en hydrocarbures, en métaux lourds (cuivre, zinc et plomb), ainsi qu'en arsenic. Les travaux ont été suspendus. De nouvelles analyses ont été réalisées le 13 mars 2002 et les résultats ont confirmé la présence d'hydrocarbures et de métaux lourds. L'arsenic est présent seulement sous forme de résidus à des concentrations conformes aux taux constatés habituellement dans les sols. Les terres ont été retirées et évacuées selon la réglementation en vigueur. A la même période, des agents travaillant à proximité de la zone de chantier ayant été indisposés, des analyses d'air ont été réalisées dans le bâtiment concerné, le 15 et le 18 mars 2002. Les résultats ne traduisent pas d'anomalies concernant la concentration en hydrocarbures. Toutefois, la direction du groupe hospitalier a pris des mesures d'isolement des ouvertures des bâtiments situés près du chantier et a décidé le déplacement en terrasse des bouches de ventilation disposées en contrebas de la voirie. Le déplacement des prises d'air neuf a été réalisé fin juin 2002. Les dernières analyses d'air, d'eau et de terres réalisées en juin 2002 ne présentent aucune anomalie. Néanmoins, la direction du groupe hospitalier a décidé la réalisation d'une étude complémentaire, à partir d'un diagnostic global de la pollution des sols de l'hôpital, afin de définir des mesures préventives de protection et de surveillance à mettre en place pour les travailleurs et l'environnement.
