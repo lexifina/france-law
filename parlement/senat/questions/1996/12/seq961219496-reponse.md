@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961219496
+
+- Question : [SEQ961219496](seq961219496.md) — Diminution des crédits du ministère de la jeunesse
+
+## Réponse
+
+*Jeunesse, JO du 1997-02-06, page 386*
+
+Réponse. - Dans un contexte budgétaire rigoureux, les moyens d'intervention du ministère de la jeunesse et des sports (titre IV) seront augmentés puisqu'ils passent de 1 101 millions de francs en 1997. Les ressources du Fonds national pour le développement du sport s'accroissant, par leur dynamique propre, de 820 à 850 millions de francs, ce sont au total 43 millions de francs supplémentaires qui devraient être disponibles pour mettre en oeuvre les programmes lancés en faveur des jeunes et pour soutenir le développement des pratiques sportives. De plus, le Gouvernement a accepté que le taux de prélèvement sur les sommes misées à la Française des jeux soit porté de 2,4 % à 2,6 %, ce qui représente un surcroît de recettes de 66 millions de francs pour le Fonds national pour le développement du sport. L'ensemble de ces crédits permettront notamment de doubler le nombre d'enfants concernés par des expériences d'aménagement des rythmes scolaires. Le soutien au plan sport-emploi sera renforcé avec, également, un objectif de doublement du nombre des emplois créés. Pour la jeunesse, une ambitieuse politique a été définie, reposant principalement sur un soutien aux initiatives des jeunes, sur une amélioration de l'information qui leur esr destinée, sur la poursuite des actions permettant de faciliter l'intégration et la lutte contre la toxicomanie et s'appuyant sur des contrats d'animation rurale offrant à tous les jeunes les mêmes conditions d'activité et d'initiative, où qu'ils résident. Toutes ces actions concerneront, bien entendu, le mouvement associatif qui contribuera à leur mise en oeuvre et qui bénéficiera directement du maitien du nombre des postes FONJEP.
