@@ -480,6 +480,12 @@ Le Mans.
 
 Allonnes, Arnage, Changé, La Chapelle-Saint-Aubin, Coulaines, Le Mans, Rouillon, Ruaudin, Saint-Pavace, Sargé-lès-Le-Mans et Yvré-l’Evêque.
 
+73 - Savoie
+
+Chambéry.
+
+Barberaz, Barby, Bassens, Challes-les-Eaux, Chambéry, Chignin, Cognin, Jacob-Bellecombette, La Motte-Servolex, La Ravoire, Saint-Alban-Leysse, Saint-Baldoph, Saint-Jean-D'arvey, Saint-Jeoire-Prieuré, Sonnaz, Vimines.
+
 74 - Haute-Savoie
 
 Genève (communes françaises de l’agglomération de).
