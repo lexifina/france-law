@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870606679
+
+- Question : [SEQ870606679](seq870606679.md) — Modalités d'indemnisation des agents collectivités locales licenciés
+
+## Réponse
+
+*Éducation, JO du 1987-12-24, page 2009*
+
+Réponse. -Le ministre de l'éducation nationale rappelle que le retrait d'un emploi d'instituteur d'une école par l'inspecteur d'académie, directeur des services départementaux de l'éducation, n'est que la conséquence d'une situation de fait : la baisse des effectifs dans l'école concernée. L'inspecteur d'académie répartit en effet la dotation d'emplois qui lui est affectée en fonction des besoins constatés dans l'ensemble du départemnt et ne peut maintenir un emploi lorsque les effectifs ne le justifient pas. Il doit être souligné en outre que, si l'article R 412-127 du code des communes dispose que " toute classe maternelle doit bénéficier des services d'un agent communal occupant l'emploi d'agent spécialisé des écoles maternelles et classes enfantines ", cela n'implique pas obligatoirement qu'un agent spécialisé soit affecté à chaque classe ; fréquemment cet agent exerce son service dans plusieurs classes. Il n'y a donc pas corrélation systématique entre la fermeture d'une classe et la suppression d'un emploi d'agent spécialisé d'école maternelle. Il est rappelé enfin que les écoles maternelles comme les écoles élémentaires relèvent des communes, qui supportent les dépenses afférentes et notamment la rémunération des agents spécialisés d'école maternelle, l'Etat ayant pour sa part la charge de la rémunération des instituteurs. Cette répartition de compétences a été confirmée par la loi n° 83-663 du 22 juillet 1983 modifiée. En conséquence il ne peut être envisagé de faire supporter au ministère de l'éducation nationale les dépenses liées à la suppression d'un emploi d'agent communal, lesquelles découlent de l'application du statut de cette catégorie de personnel.
