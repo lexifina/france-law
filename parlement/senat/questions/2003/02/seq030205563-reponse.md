@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030205563
+
+- Question : [SEQ030205563](seq030205563.md) — Scolarisation des enfants âgés de moins de trois ans
+
+## Réponse
+
+*Jeunesse, JO du 2003-03-27, page 1061*
+
+La loi d'orientation sur l'éducation du 10 juillet 1989 précise que l'accueil précoce à l'école maternelle est une priorité dans les secteurs présentant un environnement social défavorisé. C'est là que l'effet d'une scolarisation précoce semble le plus évident. Dans ces secteurs qui constituent pour l'essentiel les zones ou réseaux d'éducation prioritaire, les enfants qui ont atteint l'âge de deux ans au jour de la rentrée scolaire peuvent être admis dans les écoles et classes maternelles dans la limite des places disponibles, les enfants ayant atteint l'âge de trois ans étant scolarisés en priorité. Le renforcement de la scolarisation précoce dépend de l'utilisation optimale des capacités d'accueil des écoles maternelles ; pour ces très jeunes enfants, les programmes du 25 janvier 2002 incitent à un accueil dans des classes multiâges. En tout état de cause, c'est à l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, qu'il appartient de déterminer le seuil d'ouverture de classes dans son département. S'agissant du groupe scolaire Paul-Langevin dans la commune de Roussillon, l'inspecteur d'académie, directeur des services départementaux de l'Isère, n'a pas encore arrêté de décision. Le cas de cette école sera étudié en regard de celui des autres écoles de caractéristiques identiques au plan départemental, lors de la consultation des instances paritaires départementales au mois de mars 2003. Après cette phase de discussions avec les divers partenaires, l'inspecteur d'académie prendra les décisions d'attribution ou de retrait d'emplois, dans le cadre des moyens dont il dispose pour assurer la rentrée scolaire au plan départemental.
