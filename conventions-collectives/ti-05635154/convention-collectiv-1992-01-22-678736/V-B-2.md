@@ -6,7 +6,7 @@ Le personnel bénéficiera, sur justification, d'une autorisation d'absence exce
 
 - décès d'un enfant : 5 jours ;
 
-- décès d'un ascendant, d'un descendant, d'un frère ou d'une soeur, d'un gendre ou d'une bru, du beau-père ou de la belle-mère, d'un frère ou d'une soeur du conjoint ou du concubin (production du certificat de concubinage) : 2 jours ;
+- décès d'un ascendant, d'un descendant, d'un frère ou d'une soeur, d'un gendre ou d'une bru, d'un beau-frère ou d'une belle-soeur, du beau-père ou de la belle-mère, ainsi que d'un frère ou d'une soeur et du beau-frère ou de la belle-soeur du conjoint ou du concubin (production du certificat de concubinage ;
 
 - mariage d'un enfant : 2 jours ;
 
