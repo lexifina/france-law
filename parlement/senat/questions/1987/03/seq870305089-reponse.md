@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870305089
+
+- Question : [SEQ870305089](seq870305089.md) — Cibistes: assouplissement de la réglementation
+
+## Réponse
+
+*Équipement, JO du 1987-05-07, page 712*
+
+Réponse. -La réforme issue de la loi n° 86-13 du 6 janvier 1986 et de ses textes d'application (décrets n° 86-72 du 15 janvier 1986 et n° 86-514 du 14 mars 1986) vise à simplifier et à alléger les procédures applicables à l'installation d'antennes de radios-communication. En effet, avant l'intervention de cette réforme, les antennes dont la hauteur était inférieure à 12 mètres devaient faire l'objet d'une déclaration de travaux et celles d'une hauteur supérieure à 12 mètres étaient soumises à permis de construire. Désormais, les " antennes d'émission ou de réception de signaux radio-électriques dont aucune dimension n'excède 4 mètres " peuvent être installées sans aucune formalité au titre de la législation sur l'urbanisme. Celles dont la hauteur est supérieure à 4 mètres doivent faire l'objet d'une déclaration de travaux. Toutefois, il est précisé que toute antenne à installer sur un immeuble inscrit à l'inventaire supplémentaire des monuments historiques demeure soumise à permis de construire. Il apparaît donc que la nouvelle réglementation se traduit par une diminution très sensible du nombre d'antennes dont l'installation est soumise à permis de construire, le régime de droit commun étant maintenant celui de la déclaration de travaux, voire l'absence de toute formalité au titre de l'urbanisme. Enfin, la déclaration de travaux est généralement instruite dans un délai très bref, inférieur à un mois et qui n'atteint deux mois que dans des cas limitativement énumérés. De plus, les formalités de constitution du dossier étant réduites au minimum, les personnes concernées par l'installation d'antennes de radio-communication devraient pouvoir obtenir satisfaction sans problème majeur.
