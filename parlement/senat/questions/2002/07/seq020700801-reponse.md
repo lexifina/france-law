@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700801
+
+- Question : [SEQ020700801](seq020700801.md) — Successions : Français de l'étranger
+
+## Réponse
+
+*Économie, JO du 2002-10-17, page 2385*
+
+D'une manière générale, les droits de mutation par décès sont perçus sur la valeur vénale des biens à la date de la transmission telle qu'elle figure dans la déclaration estimative souscrite par les héritiers, sous réserve du contrôle postérieur de l'administration. Selon la Cour de cassation, la valeur vénale d'un immeuble est constituée par le prix qui pourrait être obtenu par le jeu normal de l'offre et de la demande dans un marché réel compte tenu de l'état dans lequel se trouve l'immeuble au moment de la mutation. La valeur d'un bien résulte d'une étude des prix réellement pratiqués à partir d'une observation objective et pondérée du marché local. Dès lors, seuls sont à prendre en compte pour l'estimation du bien les éléments réels d'appréciation, abstraction faite de circonstances propres à la situation personnelle des parties. A ce titre, l'administration dispose, pour le contrôle de l'évaluation d'un bien immeuble figurant dans une déclaration de succession, d'un délai de reprise de trois ans. Cela étant, afin d'améliorer la sécurité juridique des héritiers, les services chargés du contrôle ont pour instruction de contrôler les déclarations de succession le plus rapidement possible, sans attendre la date limite d'expiration du délai de reprise. Enfin, en cas de difficultés pour acquitter les droits résultant de la déclaration de succession, un régime légal de paiement fractionné dans un délai de cinq ans est applicable. Ce délai est porté à dix ans pour les droits à la charge des héritiers en ligne directe et du conjoint du défunt lorsque l'actif héréditaire comprend, à concurrence de 50 % au moins, des biens non liquides tels que les immeubles. Ces dispositions sont de nature à résoudre les difficultés évoquées par l'auteur de la question.
