@@ -10,25 +10,17 @@ Nom scientifique et nom commun, pays d'origine et de provenance, nombre total d'
 
 2. Origine et destination.
 
-Les animaux visés ci-dessus sont issus de populations d'élevage ou de populations sauvages, et sont expédiés de ... (établissement d'élevage, zone, adresse, pays), par le moyen de transport suivant :
-
-nature, numéro d'immatriculation, numéro du vol ou le nom selon le cas, nom et adresse de l'exportateur ou de l'importateur, nom et adresse des locaux de première destination.
+Les animaux visés ci-dessus sont issus de populations d'élevage ou de populations sauvages, et sont expédiés de ... (établissement d'élevage, zone, adresse, pays), par le moyen de transport suivant (nature, numéro d'immatriculation, numéro du vol ou le nom selon le cas), nom et adresse de l'exportateur ou de l'importateur, nom et adresse des locaux de première destination.
 
 3. Renseignements sanitaires.
 
 Je soussigné, vétérinaire officiel, certifie que les animaux décrits ci-dessus répondent aux conditions suivantes :
 
-a) Proviennent d'un pays, d'une zone, d'un établissement d'élevage soumis à un programme de surveillance sanitaire mis en oeuvre selon les procédures décrites dans le Manuel de diagnostic des maladies des animaux aquatiques de l'Office international des épizooties et que ce pays, cette zone ou cet établissement est reconnu officiellement indemne des maladies suivantes :
+a) Pour les crustacés et leurs produits appartenant à l'ordre des décapodes vivant en eau de mer, saumâtre ou douce, proviennent d'un pays, d'une zone, d'un établissement d'élevage soumis à un programme de surveillance sanitaire mis en oeuvre selon les procédures décrites dans le Manuel de diagnostic des maladies des animaux aquatiques de l'Office international des épizooties et que ce pays, cette zone ou cet établissement est reconnu officiellement indemne des maladies suivantes : syndrome de Taura, maladie des points blancs, maladie de la tête jaune.
 
-- pour les poissons et leurs produits : nécrose hématopoïétique épizootique, nécrose hématopoïétique infectieuse, herpèsvirose du saumon, anémie infectieuse du saumon, virémie printanière de la carpe, septicémie hémorragique virale ;
+b) Ont été examinés le jour de leur chargement et ne présentent aucune lésion tégumentaire et aucun signe clinique de maladie ou de suspicion de maladie et ont été jugés aptes au transport.
 
-- pour les mollusques et leurs produits : bonamiose (Bonamia ostreae, Bonamia sp.), haplosporidiose (Haplosporidium costale, Haplosporidium nelsoni), marteiliose (Marteilia refringens, Marteilia sydneyi), microcytose (Mikrocytos mackini, Mikrocytos roughleyi), perkinose (Perkinsus marinus, Perkinsus olseni) ;
-
-- pour les crustacés et leurs produits : syndrome de Taura, maladie des points blancs, maladie de la tête jaune ;
-
-b) Ont été examinés le jour de leur chargement et ne présentent aucune lésion tégumentaire et aucun signe clinique de maladie ou de suspicion de maladie et ont été jugés aptes au transport,
-
-que j'ai reçu du propriétaire ou de son représentant une déclaration attestant :
+c) Que j'ai reçu du propriétaire ou de son représentant une déclaration attestant :
 
 - que, jusqu'à leur expédition sur le territoire français, les animaux décrits dans le présent certificat ne seront pas en contact avec des animaux ne présentant pas un statut sanitaire équivalent ;
 

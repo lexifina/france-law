@@ -8,9 +8,7 @@ Nom scientifique et nom commun, pays d'origine et de provenance, nombre total d'
 
 2. Origine et destination.
 
-Les animaux visés ci-dessus sont expédiés de ... (établissement d'origine, adresse, pays), par le moyen de transport suivant :
-
-nature, numéro d'immatriculation, numéro du vol ou le nom selon le cas, nom et adresse de l'exportateur ou de l'importateur, nom et adresse des locaux de première destination.
+Les animaux visés ci-dessus sont expédiés de ... (établissement d'origine, adresse, pays), par le moyen de transport suivant (nature, numéro d'immatriculation, numéro du vol ou le nom selon le cas), nom et adresse de l'exportateur ou de l'importateur, nom et adresse des locaux de première destination.
 
 3. Renseignements sanitaires.
 
@@ -24,7 +22,11 @@ c) Sont originaires et proviennent d'un établissement dans lequel aucun signe c
 
 d) Sont originaires et proviennent d'un établissement qualifié indemne d'encéphalitozoonose à Encephalitozoon cuniculi ;
 
-e) Ont fait l'objet d'un dépistage sérologique, avec résultat négatif, de la maladie hémorragique virale (Calicivirus EBHSV et RHDV) et de la brucellose (Brucella suis) pour 5 % d'entre eux avec un minimum de 10 animaux ;
+e) Ont fait l'objet d'un dépistage sérologique, pour 5 % d'entre eux avec un minimum de 10 animaux, de :
+
+- la maladie hémorragique virale (Calicivirus EBHSV et RHDV) avec un résultat favorable (taux d'anticorps inférieur à 1/1280 - méthode de dépistage ELISA) ;
+
+- la brucellose (Brucella suis), avec un résultat négatif ;
 
 f) Ont été soumis à au moins deux traitements contre les parasites internes et externes le ... et le ..., au cours des 40 jours précédant l'exportation avec le(s) produit(s) suivant(s) : ... (préciser les molécules actives et les doses de produit utilisées).
 
