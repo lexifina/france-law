@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030708463
+
+- Question : [SEQ030708463](seq030708463.md) — Aides à la filière fruits touchée par les gelées du mois d'avril
+
+## Réponse
+
+*Agriculture, JO du 2004-03-25, page 704*
+
+A la suite de l'épisode de gel du 8 au 11 avril 2003, le Gouvernement a mis en place un dispositif complet de mesures spécifiques et un niveau d'indemnisation important sur les pertes de récolte. Les modalités d'accès à la procédure des calamités agricoles, pour ce sinistre, ont été accélérées. La Commission nationale des calamités agricoles, initialement prévue le 19 juin 2003, s'est réunie le 3 juin 2003. Les taux des indemnisations servies par le Fonds national de garantie des calamités agricoles ont été relevés exceptionnellement, quelle que soit la nature des récoltes sinistrées. Le dispositif en faveur des agriculteurs en difficulté (prise en charge d'intérêts, aménagement des échéances sociales) est également mobilisé à partir d'une dotation de 9,4 millions d'euros. Un programme exceptionnel d'arrachage d'arbres atteints de la sharka et victimes du gel est lancé et doté de 4,3 millions d'euros. Le bénéfice du RMI et la CMU sont ouverts aux agriculteurs les plus en difficulté. Une enveloppe de prêts de consolidation est débloquée pour permettre de reporter l'échéance 2003 des prêts en cours ainsi qu'une aide de trésorerie pour les exploitants, notamment les jeunes, dont la situation financière ne permet pas d'accéder aux prêts de consolidation. L'aval des filières arboricoles va bénéficier, à hauteur de 10,6 millions d'euros, de mesures particulières pour faire face à la baisse d'activité induite par le sinistre. En outre, des dispositions fiscales complètent ces mesures. L'ensemble de ce dispositif a été conçu afin que les aides parviennent rapidement aux sinistrés notamment dans le cadre des calamités agricoles, et que les cas particuliers qui pourraient ne pas relever de cette procédure soient néanmoins traités.
