@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000525314
+
+- Question : [SEQ000525314](seq000525314.md) — Sensibilisation de la population scolaire et universitaire à l'importance de la défense du territoire
+
+## Réponse
+
+*Éducation, JO du 2000-09-21, page 3257*
+
+Réponse. - En 1982, le ministère de la défense et celui de l'éducation nationale ont signé un protocole d'accord, reconduit en 1989 puis en 1995, dont l'objectif vise à établir une collaboration permanente pour une meilleure connaissance mutuelle de ces deux communautés et à sensibiliser les enseignants à l'esprit de défense, la défense étant " globale " conformément aux principes énoncés par l'ordonnance nº 59-147 du 7 janvier 1959 : " La défense a pour objet d'assurer en tout temps, en toutes circonstances et contre toutes les formes d'agression, la sécurité et l'intégrité du territoire, ainsi que la vie de la population ". Ce dispositif pédagogique se traduit, dans chaque académie et à son initiative, par diverses activités liées à la défense, au profit des enseignants et des élèves, mises en place par les professeurs en collaboration avec les militaires, chacun apportant sa spécificité. La loi du 28 janvier 1997 portant réforme du service national, chapitre IV - art. L. 114-1 - fait, désormais, obligation à l'éducation nationale d'assurer une formation aux principes et à l'organisation de la défense nationale et européenne à tous les élèves des établissements scolaires du second degré. Cet enseignement obligatoire s'intègre dans les programmes d'éducation civique, juridique et sociale des collèges et des lycées. Outre la nécessaire prise de conscience des problèmes par les jeunes afin de devenir des adultes libres et responsables, cet enseignement se propose de les sensibiliser à leur devoir de défense et à renforcer le lien armée-nation.
