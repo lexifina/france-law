@@ -1,10 +1,8 @@
 # Article 1
 
-La présente convention collective règle sur le territoire métropolitain les rapports entre les employeurs et les salariés des entreprises de boulangerie et de boulangerie-pâtisserie ressortissant aux activités ci-après dénommées par référence à la nomenclature des activités économiques établie par le décret n° 73-1036 du 9 novembre 1973.
+La présente convention collective règle sur le territoire métropolitain les rapports entre les employeurs et les salariés des entreprises de boulangerie et boulangerie-pâtisserie ressortissant aux activités ci-après dénommées par référence à la nomenclature d'activité française établie par le décret n° 92-1129 du 2 octobre 1992 :
 
-Classe 38 Boulangerie-pâtisserie.
-
-Groupe 3840 Boulangerie-pâtisserie.
+Code NAF : 15-8C boulangerie et boulangerie-pâtisserie.
 
 Considérant que la présente convention collective concerne les entreprises artisanales de boulangerie et de boulangerie-pâtisserie, les parties décident d'en préciser le champ d'application en retenant pour déterminer si une entreprise est artisanale ou industrielle les critères définis par l'accord du 16 mai 1977 entre, d'une part, la confédération nationale de la boulangerie et boulangerie-pâtisserie française et, d'autre part, la chambre syndicale nationale des entreprises industrielles de boulangerie-pâtisserie et fabrications annexes, selon les termes suivants :
 
