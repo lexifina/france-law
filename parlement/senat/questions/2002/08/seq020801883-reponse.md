@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020801883
+
+- Question : [SEQ020801883](seq020801883.md) — Bilan des démarches de contractualisation des centres hospitaliers
+
+## Réponse
+
+*Santé, JO du 2003-02-13, page 583*
+
+Un premier bilan des démarches de contractualisation interne a été réalisé par la direction de l'hospitalisation et de l'organisation des soins en juin et juillet 2001, dont les résultats ont été présentés lors d'un colloque sur ce thème le 9 janvier 2002. L'enquête portait sur 120 établissements, comportant notamment l'ensemble des CHU. Seize établissements déclarent à la fois être engagés dans la procédure de contractualisation interne et pratiquer la délégation de gestion. Seuls 8 établissements parmi les 16 avaient signé leur premier contrat à la date de l'enquête. Un groupe de projet vient d'être constitué pour affiner les orientations du plan hôpital 2007 concernant la modernisation de la gestion interne de l'hôpital. Ce groupe sera consacré au statut de l'hôpital (gestion financière, organisation et rôle des instances) et à sa gestion sociale (gestion des hommes et organisation du dialogue social), et ses travaux porteront notamment sur la contractualisation interne. Concernant la relance des contrats d'objectifs et de moyens que les agences régionales de l'hospitalisation signent avec les établissements de santé, un bilan est annexé chaque année à la loi de financement de la sécurité sociale, excepté en 2002. En octobre 2001, 1 609 contrats d'objectifs et de moyens (COM) avaient été signés, dont 16 % par des établissements de santé sous dotation globale. Un grand nombre de contrats arriveront à terme prochainement, et une réflexion a été engagée par les services du ministère, en concertation avec les agences régionales de l'hospitalisation, pour capitaliser l'expérience acquise, et notamment pour approfondir les annexes relatives à la qualité et à la sécurité.
