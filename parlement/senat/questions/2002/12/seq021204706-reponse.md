@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021204706
+
+- Question : [SEQ021204706](seq021204706.md) — Opposition à la dépénalisation du cannabis
+
+## Réponse
+
+*Santé, JO du 2003-05-29, page 1762*
+
+Selon le dernier rapport de l'Observatoire français des drogues et des toxicomanies (OFDT), la consommation de cannabis s'est nettement développée au cours des dernières années, particulièrement chez les jeunes. En 2000, un Français sur cinq a déjà expérimenté ce produit. Chez les jeunes, la consommation reste majoritairement occasionnelle mais devient avec l'âge de plus en plus régulière et intense. La récente expertise collective de l'INSERM a notamment montré que la consommation de cannabis peut entraîner des effets néfastes sur le fonctionnement cognitif et intellectuel, et qu'à un niveau élevé elle est susceptible d'induire des troubles psychotiques. Au regard de ces éléments, le Gouvernement est pleinement décidé à renforcer la lutte contre la banalisation de la consommation du cannabis. Cela suppose de renforcer l'interdit et d'écarter toute dépénalisation du cannabis. Une telle orientation représenterait en effet une contradiction pédagogique, notamment avec les projets de mesures visant à inciter les jeunes à ne plus fumer de tabac. Néanmoins, la loi de 1970 qui permet d'emprisonner les consommateurs de cannabis se montre inadaptée et mérite d'être révisée. Une refonte de cette loi visant à créer des sanctions plus fines et applicables aux simples usagers devrait être proposée en s'appuyant sur les travaux de la commission d'enquête sénatoriale sur la politique nationale de lutte contre les drogues illicites, dont les conclusions sont attendues pour le mois de juin. Parallèllement, un travail interministériel est en cours afin de définir une position gouvernementale sur cette question importante en termes de santé publique.
