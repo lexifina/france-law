@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980105575
+
+- Question : [SEQ980105575](seq980105575.md) — Modalités de remboursement de l'emprunt russe
+
+## Réponse
+
+*Économie, JO du 1998-04-16, page 1238*
+
+Réponse. - Les accords signés le 26 novembre 1996 et le 27 mai 1997 entre la France et la Russie, qui ont fait l'objet en décembre 1997 d'une autorisation d'approbation par le Parlement, n'ont organisé en aucune manière une compensation de créances entre les deux pays qui aurait lésé les intérêts des porteurs de titres russes et des victimes de spoliations. Il ne saurait en effet y avoir de compensation entre les créances françaises, dont la France réclame le remboursement depuis quatre-vingts ans, et des revendications russes, dont nous ne reconnaissons pas la validité et qui n'ont été présentées à la France qu'à des fins de négociation. Les accords font certes référence aux revendications russes, comme c'est l'usage au plan diplomatique, mais il ne s'en déduit aucune conséquence sur le fond. Par ailleurs, la somme de 400 millions de dollars des Etats-Unis versée par la Russie à la France en application des accords précités est naturellement intégralement destinée à indemniser les ayants droit. L'accord obtenu dans le cadre du Club de Londres, qui n'a pas organisé le remboursement intégral de la dette commerciale, de l'ex-URSS, mais son rééchelonnement, ne portait que sur des créances commerciales, de date récente, dont la Russie n'a, contrairement aux titres russes d'avant 1917, jamais contesté la validité. La question de la validité des titres russes a constitué dès l'origine l'un des points de blocage majeur de la négociation. Les accords franco-russes permettent ainsi de clore, dans les meilleures conditions possibles, compte tenu de la situation de la Russie, le contentieux des emprunts russes et des spoliations.
