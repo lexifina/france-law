@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991120264
+
+- Question : [SEQ991120264](seq991120264.md) — Egalité homme-femme dans le droit de la famille
+
+## Réponse
+
+*Justice, JO du 2000-03-09, page 888*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que le rapport remis le 14 septembre dernier par madame le professeur Dekeuwer-Défossez comporte un certain nombre de propositions dont l'objectif est de renforcer la coparentalité. Sans préjuger des solutions précises qui seront arrêtées, elle rappelle que le rapport propose de mettre en place un droit commun de l'autorité parentale fondé sur les principes d'égalité entre enfants et d'exercice conjoint de cette autorité quelle que soit la situation du couple, ainsi que d'affirmer son caractère intangible vis-à-vis des tiers comme entre les parents eux-mêmes. Lors de la séparation de ceux-ci, le juge ne serait plus tenu de fixer la résidence de l'enfant chez l'un des parents, afin de favoriser des solutions souples et consensuelles ; un parent chez qui l'enfant résiderait ne pourrait plus déménager sans avoir obtenu l'accord de l'autre sur le réaménagement des modalités de l'autorité parentale occasionné par ce changement de résidence. Enfin, le groupe de travail préconise un renforcement de la médiation familiale, en donnant pouvoir au juge d'ordonner une rencontre entre les parents en présence d'un médiateur en cas de violation manifeste et réitérée par un parent des droitset devoirs de l'autre. Les conclusions de ce rapport sont actuellement soumises à une très large consultation sur le plan institutionnel, politique, associatif et confessionnel.Il appartiendra ensuite au Gouvernement d'arrêter des solutions qui seront présentées dans leurs grandes lignes à la conférence de la famille à la fin du premier semestre de l'an 2000 et soumises au Parlement au début de l'année 2001.
