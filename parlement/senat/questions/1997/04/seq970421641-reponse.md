@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970421641
+
+- Question : [SEQ970421641](seq970421641.md) — Réduction des armes nucléaires
+
+## Réponse
+
+*Affaires étrangères, JO du 1997-05-29, page 1568*
+
+Réponse. - L'honorable parlementaire a bien voulu attirer l'attention du Gouvernement français sur les conditions d'une éventuelle participation de la France à des négociations sur la réduction des armes nucléaires stratégiques. La France salue les résultats des discussions menées à Helsinski entre la Russie et les Etats-Unis. Elle a pour sa part procédé à des réductions unilatérales de son arsenal nucléaire, compte tenu de l'évolution du contexte international et du principe de suffisance qu'elle a toujours observé pour dimensionner son arsenal nucléaire : démantèlement de la composante sol du plateau d'Albion qui contenait dix-huit missiles stratégiques à tête mégatonique et retrait définitif des trente missiles mobiles de courte portée Hadès. Ces réductions sont d'autant plus importantes, sur un plan qualitatif comme sur un plan quantitatif, qu'elles ont conduit à la suppression complète de la composante sol-sol de notre force de dissuasion. Cependant, comme l'a déclaré le Président de la République le 8 juin 1996 devant l'Institut des hautes études de défense nationale : " une participation de la France à des négociations internationales sur la réduction des armements nucléaires n'est pas d'actualité. Notre capacité de dissuasion a été définie, dans la nouvelle planification, à un niveau strictement mesuré pour garantir notre sécurité. La taille des arsenaux statégiques et tactiques qui subsistent pour longtemps en Russie et aux Etats-Unis demeure sans commune mesure avec celles des capacités françaises ou britanniques. Trop d'incertitudes pèsent en outre sur l'avenir des paramètres essentiels de notre défense, tel que le traité ABM, gage de stabilité stratégique, et tel que le respect des régimes de non-prolifération ".
