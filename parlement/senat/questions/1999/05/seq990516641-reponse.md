@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990516641
+
+- Question : [SEQ990516641](seq990516641.md) — Petits actionnaires d'Eurotunnel
+
+## Réponse
+
+*Économie, JO du 1999-09-16, page 3073*
+
+Réponse. - La situation économique et financière d'Eurotunnel a conduit cette société à proposer à ses actionnaires un plan de restructuration de son endettement. L'assemblée générale des actionnaires d'Eurotunnel a adopté ce plan le 10 juillet 1997, après que le Gouvernement français et le Gouvernement britannique ont fait connaître leur accord de principe sur une prolongation de la concession. Par un accord quadripartite de février 1998, les deux gouvernements et les sociétés concessionnaires ont notamment arrêté le principe d'un allongement de la concession de trente-quatre ans, portant ainsi sa durée totale à quatre-vingt-dix-neuf ans, avec une date d'expiration du 28 juillet 2086. Cet accord prévoit également que, pendant la durée de la prolongation, à savoir de 2052 à 2086, les concédants recevront une somme totale annuelle incluant toutes les formes d'imposition sur les sociétés, égale à 59 % des bénéfices. L'accord quadripartite a été formalisé par un avenant à la concession qui a été signé le 29 mars 1999 par le ministre de l'équipement, des transports et du logement, par son homologue britannique et par les sociétés concessionnaires. Un projet de loi approuvant les dispositions de cet avenant a été adopté en Conseil des ministres le 28 avril 1999. Ce projet de loi a été adopté par le Parlement par un vote conforme des deux assemblées (au Sénat, le 9 juin 1999 et à l'Assemblée nationale, le 29 juin 1999) permettant l'entrée en vigueur de la prolongation de la concession d'Eurotunnel le 13 juillet 1999. Les pouvoirs publics ont ainsi aidé à la mise en uvre du plan de restructuration de la dette d'Eurotunnel approuvé par ses actionnaires et donc contribué au rétablissement de la situation économique et financière de cette société.
