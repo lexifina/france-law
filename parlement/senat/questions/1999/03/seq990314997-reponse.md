@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990314997
+
+- Question : [SEQ990314997](seq990314997.md) — Plan de prévention des risques d'inondation
+
+## Réponse
+
+*Aménagement du territoire, JO du 1999-05-27, page 1761*
+
+Réponse. - La ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt de la question relative à la prise en compte des ouvrages de protection dans le cadre de l'élaboration des plans de prévention des risques d'inondation (PPRI). Les PPRI sont établis sur la base d'une crue historique si celle-ci est au moins centennale et sinon, sur la base d'une crue centennale modélisée. Les ouvrages de protection existants ou futurs qui auraient comme référence une crue moins importante ne modifient pas cette approche. Ils permettent de diminuer les conséquences des inondations fréquentes mais sont souvent totalement inefficaces en cas d'événement plus important. Les ouvrages de protection dont la crue de référence serait égale ou supérieure à celle du PPRI ne peuvent toutefois pas assurer une protection absolue. Leurs dysfonctionnements possibles doivent donc être analysés, et les terrains protégés considérés comme potentiellement inondables dans le cadre du PPRI. Il est cependant logique de considérer l'impact de tels ouvrages lors de l'élaboration du PPRI. Dans tous les cas, la définition des zones soumises aux risques par un plan de prévention des risques naturels prévisibles (PPR) doit être réalisée dans le cadre d'une large concertation entre les services de l'Etat et les élus locaux. La réalisation d'études complémentaires permettant de préciser la connaissance du risque est souhaitable dans la mesure où elles apportent une réelle valeur ajoutée par rapport aux connaissances actuelles, et à condition qu'elles ne retardent pas la prise en compte du risque dans l'aménagement, et notamment, la réalisation du plan de prévention des risques naturels prévisibles (PPR).
