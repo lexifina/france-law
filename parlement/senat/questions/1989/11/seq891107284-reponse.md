@@ -1,0 +1,9 @@
+# Réponse à la question SEQ891107284
+
+- Question : [SEQ891107284](seq891107284.md) — Positions de la France sur la non-prolifération des armes nucléaires
+
+## Réponse
+
+*Affaires étrangères, JO du 1990-02-08, page 270*
+
+Réponse. - La France attache la plus grande importance à la question de la non-prolifération des armes nucléaires. Elle-même puissance nucléaire militaire, membre permament du Conseil de sécurité, elle considère indispensable pour la communauté internationale de trouver un équilibre entre la légitimité pour un certain nombre de pays de recourir aux applications pacifiques de l'énergie nucléaire et la nécessité de subordonner l'accès à ces applications des pays non dotés de l'arme à des engagements de non-prolifération contraignants. Sur cette base, les autorités françaises ont, à diverses reprises, rappelé leur disposition à aider les pays intéressés à accéder au bénéfice des applications civiles de l'atome dès lors que le non-détournement de cette coopération sera garanti par un contrôle international approprié. Tel était notamment le sens des déclarations faites récemment par M. le Président de la République à l'occasion de sa visite d'Etat en Inde en février 1989. Dans une telle perspective, les autorités françaises apportent bien évidemment un soutien résolu à l'Agence internationale de l'énergie atomique (A.I.E.A.) et à son système de contrôles internationaux. Pour la première fois depuis la création de l'agence, et à notre initiative, les douze Etats membres de la Communauté européenne ont d'ailleurs présenté, dans une déclaration lue par la présidence française devant la conférence générale de l'A.I.E.A. (Vienne, septembre 1989), une position commune sur un certain nombre de points essentiels dont les responsabilités des Douze en matière de non-prolifération.
