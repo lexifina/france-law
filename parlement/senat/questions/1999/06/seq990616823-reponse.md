@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990616823
+
+- Question : [SEQ990616823](seq990616823.md) — Report sur les chasseurs de sangliers d'une partie du prix acquitté par les chasseurs de cervidés
+
+## Réponse
+
+*Aménagement du territoire, JO du 2001-01-04, page 25*
+
+Réponse. - La ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question du report sur les chasseurs de sangliers d'une partie du prix acquitté par les chasseurs de cervidés en ce qui concerne les dégâts aux cultures. La loi sur la chasse, nº 2000-698 du 26 juillet 2000, a apporté des modifications au dispositf concernant le plan de chasse et qui font désormais l'objet des articles L. 425-1 à L. 425-4 du code de l'environnement. Le plan de chasse est actuellement obligatoire sur tout le territoire national pour les cerfs, les daims et les mouflons (art. R. 225-1 du code rural), mais il ne l'est pas pour les sangliers. Toutefois, le préfet a la possibilité d'instituer dans chaque département un plan de chasse au sanglier. Les bénéficiaires de plan de chasse au sanglier devront acquitter une taxe par animal à prélever. Son montant sera fixé par arrêté interministériel, dans la limite de 100 francs (article L. 425-4 du code de l'environnement). Cette taxe n'existait pas avant la loi chasse du 26 juillet 2000. La loi réduit par ailleurs le plafond de la taxe concernant le cerf sika et le chevreuil, qui passe de 300 à 200 francs. L'instauration d'une taxe de plan de chasse pour le sanglier donne la possibilité d'opérer un report partiel sur les chasseurs de sangliers de la charge financière des dégâts essentiellement supportée aujourd'hui par les chasseurs de cervidés. Aujourd'hui, on constate qu'environ 80 % des dégâts sont dus aux sangliers. C'est au moment de la fixation du montant des taxes plans de chasse en 2001/2002 que pourra s'opérer ce transfert partiel.
