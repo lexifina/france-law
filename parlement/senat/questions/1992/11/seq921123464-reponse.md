@@ -1,0 +1,9 @@
+# Réponse à la question SEQ921123464
+
+- Question : [SEQ921123464](seq921123464.md) — Cotation des visites prénatales
+
+## Réponse
+
+*Affaires sociales, JO du 1992-12-10, page 2732*
+
+Réponse. - Un arrêté du 22 février 1960, abrogé par l'arrêté du 14 février 1992, prévoyait que les médecins spécialisés pouvaient, pour la facturation des examens obligatoires de surveillance de la grossesse, appliquer la cotation C 2, c'est-à-dire deux fois la valeur de la consultation du médecin généraliste. L'existence de cette cotation spécifique avait tout d'abord une justification historique, puisque conçue antérieurement à la création de la lettre-clé CS qui affecte les consultations dispensées par les spécialistes. Il a paru souhaitable au Gouvernement de rétablir l'équité entre médecins généralistes et médecins spécialistes en supprimant cette majoration instaurée au bénéfice des seuls spécialistes. Désormais les examens obligatoires de surveillance de la grossesse donneront lieu à application des dispositions de droit commun relatives à la tarification de la consultation, quelle que soit la qualité du médecin concerné : C pour le médecin généraliste (100 francs) et CS pour le médecin spécialiste (140 francs). Le maintien de cette majoration a paru d'autant moins justifié que seuls les quatre examens obligatoires en bénéficiaient : les deux examens facultatifs de surveillance, fréquemment effectués en pratique, se voyaient en effet appliquer les dispositions de droit commun. Cette mesure n'est pas une mesure isolée. Elle s'inscrit en effet dans un ensemble de décisions prises au début de l'année visant à l'amélioration de la surveillance de la grossesse. Notamment le Gouvernement a porté de quatre à sept le nombre d'examens obligatoires pris en charge à 100 p. 100 et a inclus dans les examens de surveillance le dépistage de l'hépatite B et de l'anémie ferriprive, également pris en charge à 100 p. 100.
