@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960917564
+
+- Question : [SEQ960917564](seq960917564.md) — Indemnités forfaitaires pour travaux supplémentaires et fonction publique territoriale
+
+## Réponse
+
+*Fonction publique, JO du 1996-11-28, page 3161*
+
+Réponse. - Ainsi que l'indique l'honorable parlementaire, les dispositions de l'arrêté du 15 mai 1996 relatif aux indemnités forfaitaires pour travaux supplémentaires (IFTS) peuvent placer certains agents de la fonction publique territoriale dans une situation moins favorable que celle dont ils bénéficiaient antérieurement au regard du régime indemnitaire qui leur est applicable. A l'occasion de l'examen en première lecture, les 29 et 30 octobre dernier, du projet de loi relatif à l'emploi dans la fonction publique et à diverses mesures d'ordre statutaire, le Sénat a adopté, avec l'accord du Gouvernement, un amendement parlementaire ajoutant au premier alinéa de l'article 88 de la loi no 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale la phrase suivante : " L'assemblée délibérante de la collectivité territoriale ou le conseil d'administration de l'établissement public local peut décider de maintenir, à titre individuel, au fonctionnaire concerné, le montant indemnitaire dont il bénéficiait en application des dispositions réglementaires antérieures, lorsque ce montant se trouve diminué soit par l'application ou la modification des dispositions réglementaires applicables aux services de l'Etat servant de référence, soit par l'effet d'une modification des bornes indiciaires du grade dont il est titulaire. " Cet amendement, s'il est voté par les deux assemblées, donnera à l'organe délibérant de la collectivité territoriale les moyens de corriger ces situations. Le projet de loi sera examiné par l'Assemblée nationale début décembre.
