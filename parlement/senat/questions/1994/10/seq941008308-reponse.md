@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941008308
+
+- Question : [SEQ941008308](seq941008308.md) — Statistiques sur les exportations d'armes de production française
+
+## Réponse
+
+*Premier ministre, JO du 1995-01-05, page 20*
+
+Réponse. - Au titre de la résolution no 46/362 de l'assemblée générale des Nations Unies en date du 9 décembre 1991, sur la transparence dans le domaine des armements, la France a fourni pour 1992 et 1993 des éléments quant à ses exportations d'armes. Ces éléments figurent en annexe à la présente réponse : ils concernent les livraisons, exprimées en nombre de matériels, effectuées dans les différentes catégories répertoriées par l'ONU. Les conditions de paiement et de financement des contrats correspondants, au comptant, par crédit fournisseur ou crédit acheteur, sont accordées au cas par cas par le ministère de l'économie dans le cadre des procédures en vigueur. Concernant l'année 1994, le collationnement des données de livraison s'effectuant sur une base semestrielle, les élements concernant les livraisons effectuées ne seront pas disponibles avant la mi-1995. Le ministère de la défense ne conduisant pas, par ailleurs, d'analyse prévisionnelle détaillée des livraisons par pays, en raison des nombreux facteurs pouvant modifier les dates de livraisons convenues entre les clients et les indusriels français fournisseurs, il n'existe pas d'indicateur d'évolution avec le même niveau de précision. Parmi les grands contrats passés qui donneront lieu à livraison, conséquentes dans les années à venir, les livraisons de chars pour les EAU, d'avions de combat et de frégates vers l'Extrême-Orient constitueront une part subtantielle du chiffre d'affaires de l'industrie française d'armement. Les données fournies par la France pour les deux dernières années sont les suivantes :( NOTA Voir tableau page 20 ).
