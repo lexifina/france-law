@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950209923
+
+- Question : [SEQ950209923](seq950209923.md) — Mise à disposition gratuite de locaux aux associations par le maire
+
+## Réponse
+
+*Intérieur, JO du 1995-03-16, page 643*
+
+Réponse. - L'article L. 318-2 du code des communes prévoit la mise à disposition de locaux communaux aux associations, syndicats ou partis politiques, à leur demande. Il appartient au maire de déterminer les conditions d'utilisation de ces locaux, compte tenu des nécessités de l'administration des propriétés communales, du fonctionnement des services et du maintien de l'ordre public ; le conseil municipal fixant en tant que de besoin la contribution due à raison de cette utilisation. La loi no 92-125 du 6 février 1992 relative à l'administration territoriale de la République, qui a introduit ces dispositions dans le code des communes, a consacré le principe, reposant jusqu'alors sur la jurisprudence, de la compétence détenue par le maire en la matière en sa qualité d'administrateur des propriétés communales (C.E. 30 septembre 1942 - Guillou - Lebon p. 265 ; 21 mars 1990 - commune de La Roque-d'Anthéron - Lebon p. 74). Dans son arrêt du 12 octobre 1994 (commune de Thun-l'Evêque), le Conseil d'Etat a été amené à rappeler que " s'il appartient au conseil municipal de déterminer éventuellement par ses délibérations les conditions générales dans lesquelles un local communal peut être mis à disposition d'une association, il appartient au maire seul, conformément à l'article L. 122-19, 1er du code des communes, de faire une application individuelle d'une telle délibération ". Les conventions de mise à disposition de locaux communaux à passer avec les associations relèvent donc des compétences du maire, dans les conditions générales et notamment financières fixées par le conseil municipal.
