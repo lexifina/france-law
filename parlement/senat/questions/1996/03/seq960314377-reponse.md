@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960314377
+
+- Question : [SEQ960314377](seq960314377.md) — Développement des équipements télématiques des bureaux de poste en zone rurale
+
+## Réponse
+
+*Industrie, JO du 1996-06-13, page 1457*
+
+Réponse. - La Poste, par convention avec France Télécom, offre actuellement à ses clients la possibilité de consulter gratuitement l'annuaire électronique. Le service du 11 est ainsi accessible à tous en tous points du territoire. Toutefois, afin de répondre aux nombreuses demandes de clients souhaitant accéder aux services télétel, La Poste a décidé en 1991 d'expérimenter, en collaboration avec France Télécom, un appareil à pré-paiement, le Point-Phone Minitel. Il s'avère cependant que les résultats de l'expérience menée n'ont pas été suffisamment concluants pour que La Poste envisage la généralisation du système. La Poste poursuit donc ses recherches en vue de répondre au mieux aux attentes du public dans ce domaine, notamment grâce à la création d'un matériel plus simple et plus performant, accessible par cartes de paiement. Certaines expériences sont aujourd'hui conduites localement, en concertation avec les acteurs économiques locaux, pour offrir des services directement accessibles à partir du Minitel dans les bureaux de poste. Ainsi, dans le cadre d'une convention signée le 7 mars 1995 par La Poste, France Télécom et l'ANPE, des Minitels ont été installés dans six bureaux de poste de la Meurthe-et-Moselle afin de permettre aux demandeurs d'emploi de consulter gratuitement les offres d'emploi de l'ANPE. Cette expérience pourra être prolongée, voire étendue à d'autres régions en fonction du degré d'utilisation de ce service et de son efficacité. De même, une borne multimédia a été installée à titre expérimental par La Poste à Bernay, dans le département de l'Eure. Un premier bilan de cette expérience sera dressé au travers des réponses aux questionnaires remplis par la population locale.
