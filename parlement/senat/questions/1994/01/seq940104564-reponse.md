@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940104564
+
+- Question : [SEQ940104564](seq940104564.md) — Initiative de la poursuite du délit de fraude fiscale
+
+## Réponse
+
+*Budget, JO du 1994-05-12, page 1156*
+
+Réponse. - L'article 1741 du code général des impôts dispose qu'est passible de poursuites pénales quinconque s'est frauduleusement soustrait ou a tenté de se soustraire frauduleusement à l'établissement ou au paiement total ou partiel des impôts visés dans ce même code. Aucun seuil minimum de droits fraudés n'est prévu en ce qui concerne les fraudes par défaut de déclaration dans les délais prescrits ou organisation d'insolvabilité. Un seuil légal, fixé au dixième de la somme imposable ou ou au chiffre de 1 000 francs, est applicable en cas de fraude par dissimulation. En pratique, il n'est donné une suite pénale qu'aux affaires présentant un caractère marqué d'exemplarité au regard notamment de l'importance du préjudice causé au Trésor public, de la gravité des infractions commises et du caractère intentionnel des agissements du contribuable. En outre, conformément à l'article L 228 du Livre des procédures fiscales les plaintes sont déposées, à peine de nullité, après avis favorable de la commission des infractions fiscales, organisme indépendant, composé de membres du Conseil d'Etat et de magistrats de la Cour des comptes dont les avis, lient le ministre. En applicant de ce même texte et des dispositions du décret no 93-785 du 8 avril 1993, le ministre du budget a seul qualité pour saisir la commission, sous réserve de la faculté de délégation de sa signature dans les conditions fixées par le décret no 47-283 du 23 janvier 1947, modifié en dernier lieu par le décret no 87-390 du 15 juin 1987. Enfin, si les poursuites pénales pour fraude fiscale ne peuvent être engagées que sur plainte préalable de l'administration, l'autorité judiciaire conserve l'entière maîtrise de la mise en oeuvre de l'action publique.
