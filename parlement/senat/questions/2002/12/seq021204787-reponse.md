@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021204787
+
+- Question : [SEQ021204787](seq021204787.md) — Effets pervers de l'intercommunalité
+
+## Réponse
+
+*Libertés locales, JO du 2003-02-27, page 731*
+
+Le regroupement de communes au sein d'établissements publics de coopération intercommunale permet, notamment par la réalisation d'économies d'échelle, d'améliorer la qualité de la gestion des services publics locaux et facilite la construction et l'entretien des équipements collectifs. Cette mutualisation des moyens permet ainsi à de petites communes de bénéficier d'équipements qu'elles n'auraient pas eu la capacité de financer seules ou dont le coût aurait pesé plus lourdement sur leurs contribuables. Il n'est par conséquent pas illogique que certains de ces équipements soient implantés dans la commune centre de l'EPCI qui, compte tenu de sa prépondérance démographique et de sa localisation, est celle qui permet au plus grand nombre d'accéder à ces équipements. Il apparaît toutefois nécessaire et de bonne administration que les EPCI ayant en charge la réalisation et le fonctionnement d'un équipement collectif assurent, à chacune de leurs communes membres, les meilleures conditions d'accès à ce dernier. En outre, certains équipements, à l'instar des bibliothèques, peuvent donner lieu à la création d'annexes ou de relais mobiles à destination des communes périphériques. Enfin, il convient de rappeler que, conformément à l'article L. 5214-1 du code général des collectivités territoriales, une communauté de communes " a pour but d'associer des communes au sein d'un espace de solidarité en vue de l'élaboration d'un projet commun de développement et d'aménagement de l'espace ". Par conséquent, il lui appartient de veiller au développement harmonieux de son territoire par une répartition équilibrée des équipements collectifs sur l'ensemble de ce dernier.
