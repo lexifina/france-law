@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901112501
+
+- Question : [SEQ901112501](seq901112501.md) — Mise en oeuvre de mesures en faveur des petites et moyennes entreprises
+
+## Réponse
+
+*Premier ministre, JO du 1991-01-03, page 13*
+
+Réponse. - Ainsi que l'a rappelé l'honorable parlementaire, le Gouvernement avait indiqué qu'il engagerait, dès l'automne, la mise en oeuvre des mesures retenues à la suite des propositions faites conjointement par le ministre de l'industrie et de l'aménagement du territoire et le ministre des affaires européennes en faveur des petites et moyennes entreprises. Il a tenu cet engagement en adoptant les mesures suivantes, qui figurent dans le plan pour l'emploi présenté le 19 septembre dernier par le Premier ministre et dans le projet de loi de finances initial pour 1991 : 1° formation-qualification : amélioration du crédit d'impôt formation, développement du tutorat dans les P.M.E., aide à la formation des salariés des P.M.E., encouragement à la coopération entreprises-lycées techniques ; 2° technologie et information : soutien budgétaire accru aux P.M.E., notamment par l'augmentation des moyens d'intervention de l'Anvar et le maintien à un niveau élevé de l'aide à la diffusion des techniques ; amélioration du crédit d'impôt recherche ; 3° conditions de financement : mesures fiscales concernant les comptes courants d'associés, les sociétés de capital risque, l'épargne de proximité, le mécénat industriel ; concentration des prêts sur ressources Codevi sur les entreprises de moins de 100 millions de francs de chiffre d'affaires et déblocage de 4 milliards de francs supplémentaires à taux privilégiés ; 4° transmission : le seuil minimal d'application du mécanisme de rachat d'entreprise par ses salariés sera abaissé à dix salariés ; l'information des cédants et repreneurs potentiels sera améliorée ; 5° en outre, diverses mesures de simplification administratives et fiscales ont été adoptées.
