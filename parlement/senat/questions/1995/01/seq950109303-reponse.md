@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950109303
+
+- Question : [SEQ950109303](seq950109303.md) — Congé individuel de formation
+
+## Réponse
+
+*Travail, JO du 1995-11-16, page 2177*
+
+Réponse. - La recomposition de l'ensemble des organismes paritaires agréés, initiée par le législateur dans le cadre de l'article 74 de la loi quinquennale du 20 décembre 1993 et les partenaires sociaux par l'accord du 5 juillet 1994, a modifié l'organisation des organismes paritaires agréés au titre du congé individuel de formation. En effet, le Gouvernement a voulu optimiser la capacité des salariés à accéder au congé individuel de formation en endiguant les effets de concurrence et les cloisonnements qui pouvaient exister au sein de ce réseau. Le décret d'application du 28 octobre 1994 de l'article 74 de la loi sus-visée, a donc posé la règle de l'agrément d'un seul organisme à compétence interprofessionnelle régionale comme étant le meilleur garant du droit individuel. Par ailleurs, un accord du 23 novembre 1994 des partenaires sociaux portant application de l'article 4 de l'avenant du 5 juillet 1994 est venu renforcer cette position, confortant la mise en place au niveau régional d'un seul organisme interprofessionnel au titre du congé individuel de formation. Cet accord, applicable au domaine du bâtiment et des travaux publics, précise en son article 4 que " ni les statuts ni le règlement intérieur des FONGECIF ne peuvent prévoir l'existence de secteurs professionnels ". Le ministre du travail, du dialogue social et de la participation comprend le souci de l'honorable parlementaire, mais doit souligner que tant le législateur que les partenaires sociaux, se sont engagés dans une réforme qui privilégie les organismes paritaires interprofessionnels comme support au développement du congé individuel de formation.
