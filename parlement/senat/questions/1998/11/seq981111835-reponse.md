@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981111835
+
+- Question : [SEQ981111835](seq981111835.md) — Maintien en France des oeuvres d'art d'un intérêt majeur
+
+## Réponse
+
+*Culture, JO du 1999-01-07, page 25*
+
+Réponse. - La question de l'honorable parlementaire qui concerne le maintien en France des uvres d'art ou biens culturels d'un intérêt majeur pour le patrimoine national pose effectivement le problème de l'acquisition de ces uvres et donc de la mobilisation des fonds nécessaires pour permettre l'entrée de ces trésors nationaux dans les collections publiques françaises. Au-delà du problème financier soulevé par la question des moyens mis à la disposition des acquisitions se pose le problème de la modification de la loi de 1992. En effet, comme le relève l'honorable parlementaire, le dispositif mis en place par la loi nº 92-1477 du 31 décembre 1992 ne permet pas toujours d'empêcher la sortie du territoire national de toutes les uvres dont le certificat de sortie a été refusé. Le Gouvernement fera d'ailleurs très prochainement des propositions visant à améliorer ce dispositif. Il faut cependant rappeler que le fonds du patrimoine est depuis 1996, et l'arrivée à échéance des premiers " refus de certificat ", consacré de manière prioritaire à l'achat des trésors nationaux. Ce fonds a d'ailleurs connu ces dernières années des augmentations à la mesure des enjeux. Il a ainsi permis d'acquérir des uvres d'importance patrimoniale exceptionnelle comme très récemment le chef-d' uvre de Manet, Berthe Morisot au bouquet de violettes, qui a rejoint les collections du musée d'Orsay. Bien entendu, l'intervention du Fonds du patrimoine n'est pas exclusivement réservée aux acquisitions des musées nationaux. Les musées classés et contrôlés ont également la possibilité d'acquérir des trésors nationaux et ainsi voir leurs propres crédits renforcés par l'aide de ce fonds exceptionnel.
