@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920621504
+
+- Question : [SEQ920621504](seq920621504.md) — Suppressions de bureaux de poste en zone rurale
+
+## Réponse
+
+*Postes, JO du 1992-10-15, page 2359*
+
+Réponse. - Au cours de la dernière décennie, le nombre de bureaux de poste dans les zones rurales est passé de près de 13 000 à 12 600 : le solde des fermetures sur les ouvertures représente donc une diminution de 0,30 p. 100 par an. La Poste ne mène donc pas une politique de désengagement dans les zones rurales mais s'adapte aux besoins réels de la population. En effet, du fait des mouvements migratoires et de l'introduction de nouvelles organisations, une disparité de plus en plus prononcée est apparue dans certaines communes entre les potentialités des bureaux existants et leur niveau d'activité. Dans un souci d'optimisation des moyens du service public, La Poste est conduite à ajuster la forme que revêt sa présence à l'évolution du trafic postal et de la demande de services financiers. Cette démarche est en accord avec la politique gouvernementale d'aménagement du territoire qui tend à assurer un développement harmonieux du monde rural. Les orientations retenues ont pour l'objet de renforcer la présence de La Poste dans les zones rurales actives, de valoriser les services rendus par le facteur au domicile des personnes âgées ou à mobilité reduite, de rechercher une qualité des prestations homogène dans l'ensemble des guichets, et enfin d'assurer la diversification des services offerts par La Poste en zone rurale, y compris par des accords de partenariat avec les services de l'Etat, les collectivités locales, les autres entreprises publiques ou des entreprises privées. La Poste recherche, en outre, des solutions aux problèmes posés par les petits bureaux à faible trafic en essayant notamment de réactiver les établissements qui peuvent l'être, en concertation avec les élus locaux.
