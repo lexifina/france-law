@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890806010
+
+- Question : [SEQ890806010](seq890806010.md) — Plan de développement des exportations du 11 janvier 1989 : formation au commerce extérieur
+
+## Réponse
+
+*Commerce extérieur, JO du 1989-10-19, page 1705*
+
+Réponse. - Parmi les mesures arrêtées dans le cadre du volet " formation " du plan de développement des exportations du 11 janvier 1989 figure la création de quatre pôles régionaux, de compétence binationale, orientés vers nos principaux partenaires économiques européens : l'Allemagne, l'Italie, l'Espagne et la Grande-Bretagne. La mise en oeuvre de ce dispositif a été confiée à des instituts d'administration des entreprises géographiquement proches des pays concernés, qui apparaissent le plus à même, dans le cadre universitaire, de répondre aux ambitions du projet. A la rentrée 1989, trois centres binationaux vont recevoir leur première promotion d'étudiants. Il s'agit des centres franco-allemand, franco-italien et franco-britannique. Ils dispenseront sur une période de deux années universitaires un enseignement à la fois théorique et pratique sanctionné à l'issue de la première année par un diplôme d'université et à l'issue de la seconde année par un dipl^ome d'enseignement supérieur spécialisé. Ils sont ouverts à des étudiants de haut niveau (bac + 4 au minimum) issus de filières économiques ou techniques. Les modalités de sélection sont définies par chaque centre selon des procédures habituelles en ce domaine et font appel à l'étude du dossier, aux épreuves et à un entretien avec un jury composé d'universitaires et de professionnels. Chaque centre doit former une moyenne de trente étudiants par promotion. Toutefois, pour tenir compte des difficultés inhérentes au lancement de cette action dans des délais réduits, les promotions 1989-1990 seront volontairement limitées à une vingtaine d'étudiants.
