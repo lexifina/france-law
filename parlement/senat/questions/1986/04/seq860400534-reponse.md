@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860400534
+
+- Question : [SEQ860400534](seq860400534.md) — Protection du droit d'expression du salarié
+
+## Réponse
+
+*Affaires sociales, JO du 1986-06-26, page 883*
+
+Réponse. -L'article L. 461-1 du code du travail garantit aux salariés un droit à l'expression directe et collective sur le contenu, les conditions d'exercice et l'organisation de leur travail dont l'objet est de définir les actions à mettre en oeuvre pour améliorer leurs conditions de travail, l'organisation de l'activité et la qualité de la production dans l'unité de travail considérée et dans l'entreprise. Ce même article souligne également que les opinions émises dans le cadre de ce droit ne peuvent motiver une sanction ou un licenciement. La loi marque ainsi son souci de garantir tous les salariés, quelle que soit leur place dans la hiérarchie professionnelle. Il convient par ailleurs de rappeler qu'en application des dispositions de l'article L. 461-5 du code, l'accord relatif aux modalités d'exercice de ce droit doit comprendre des mesures pour que soit assurée la liberté d'expression de chacun. A cet égard, la circulaire ministérielle du 4 mars 1986 précise qu'il devra être clairement établi en particulier que les propos tenus par les participants échapperont à toute possibilité de sanction pour autant qu'ils ne comporteront eux-mêmes aucune malveillance à l'égard des personnes. Si, nonobstant cette garantie de la liberté d'expression, des mesures répressives sont prises à l'encontre de salariés, elles peuvent toujours être portées devant les juridictions qui ont compétence pour apprécier la régularité de la procédure suivie et pour décider si les faits reprochés aux salariés sont bien de nature à justifier une sanction. Cette garantie qui résulte du contrôle judiciaire des sanctions est applicable de la même manière lorsque ces dernières sont prises à la suite de déclarations faites hors du cadre de l'article L. 461-1 du code du travail.
