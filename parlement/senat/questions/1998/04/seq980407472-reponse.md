@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980407472
+
+- Question : [SEQ980407472](seq980407472.md) — Avenir de l'industrie ferroviaire du Nord
+
+## Réponse
+
+*Équipement, JO du 1998-06-25, page 2078*
+
+Réponse. - La loi du 13 février 1997 portant création de l'établissement public Réseau ferré de France, et ses décrets d'application ont précisé les rôles respectifs de l'Etat, de Réseau ferré de France et de la SNCF. Il incombe à l'Etat de fixer la consistance et les caractéristiques principales du réseau ferroviaire, ainsi que d'arrêter le schéma des services ferroviaires et les orientations en matière d'équipement ferroviaire. La mise en uvre de ces orientations, dans le respect des réglementations française et européenne, incombe, d'une part, à Réseau ferré de France, pour les infrastructures et, d'autre part, à la SNCF pour tout ce qui concerne l'exploitation ferroviaire en général et le matériel roulant en particulier. Dans ces conditions, le Gouvernement ne saurait intervenir sur une éventuelle répartition des commandes ferroviaires qui contreviendrait aux procédures aujourd'hui strictement encadrées par les règles juridiques relatives aux modalités de passation des marchés publics. Le ministre chargé des transports a par contre, en tant qu'autorité de tutelle de la SNCF, demandé à ses services de procéder, en liaison avec l'entreprise, à un recensement des besoins à court et à moyen terme en matériel roulant. Il est en effet important que les entreprises de matériel ferroviaire qui sont actuellement lourdement pénalisées par le manque d'ambition de la politique ferroviaire des précédents gouvernements puissent prévoir à temps l'évolution probable de leur plan de charge. Cela leur permettrait d'éviter les à-coups et de rechercher suffisamment tôt les marchés à l'exportation pouvant aider à soutenir l'emploi du mieux qu'il est possible.
