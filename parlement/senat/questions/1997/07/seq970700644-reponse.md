@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970700644
+
+- Question : [SEQ970700644](seq970700644.md) — Aide à l'installation des jeunes agriculteurs
+
+## Réponse
+
+*Agriculture, JO du 1997-08-28, page 2201*
+
+Réponse. - Pour bénéficier des aides publiques à l'installation, le candidat doit présenter un projet, à titre individuel ou au sein d'une société, qui lui permet d'obtenir le statut de chef d'exploitation. Par ailleurs, la condition de capacité professionnelle est un élément essentiel de la réussite du projet d'installation, afin de réserver ces aides aux jeunes agriculeurs qui ont un niveau de formation générale et professionnelle suffisant pour exercer le métier de responsable d'exploitation agricole avec compétence et durablement. Cette capacité peut d'ailleurs s'acquérir dans le cadre de la formation professionnelle continue, selon des parcours de formation prenant en compte l'expérience de chaque candidat. Afin de mieux traiter certaines situations particulières, le décret no 95-82 du 25 janvier 1995 permet aux préfets d'accorder les aides aux jeunes nés après le 1er janvier 1971, titulaires d'un BEPA sous réserve qu'ils s'engagent à suivre une formation en vue d'acquérir le BTA avant la fin de la durée de l'étude prévisionnelle d'installation. Cette possibilité est toutefois réservée à des cas exceptionnels afin que ces installations progressives aient les meilleures chances de réussite. Pour les candidats ne possédant pas ce niveau de formation, des prêts spéciaux de modernisation destinés à financer des investissements de modernisation et de diversification de l'exploitation peuvent être accordés dans le cadre des plans d'amélioration matérielle (PAM) agréés par le préfet. Seule une capacité professionnelle minimum est requise dans ce cas (diplômes ou expérience professionnelle et stages de formation complémentaire).
