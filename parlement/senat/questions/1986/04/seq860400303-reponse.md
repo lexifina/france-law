@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860400303
+
+- Question : [SEQ860400303](seq860400303.md) — Contingent d'importation de manioc de la Thaïlande vers la CEE
+
+## Réponse
+
+*Agriculture, JO du 1986-06-12, page 806*
+
+Réponse. -Les importations communautaires de manioc en provenance de Thaïlande s'inscrivent dans le cadre de l'accord de coopération C.E.E.-Thaïlande de 1982 qui comporte un régime d'autolimitation de la part de la Thaïlande pour ses fournitures de manioc à la C.E.E. Depuis 1982, les importations en provenance de Thaïlande ont ainsi pu être contenues à un niveau qui, suivant les années, a varié entre 4 750 000 tonnes et 5 000 000 tonnes. En novembre 1985, la Thaïlande a fait part à la C.E.E. de sa volonté de voir renouveler l'accord dont il s'agit au-delà de 1986, sous réserve que les quantités de manioc en cause soient plus importantes en faisant valoir les droits dont elle bénéficiat au G.A.T.T., compte tenu de son adhésion intervenue en 1983 ainsi que l'élargissement de la C.E.E. à l'Espagne et au Portugal. Les consultations auxquelles la commission des Communautés européennes a dû se livrer en décembre 1985 avec la Thaïlande, conformément aux dispo sitions de l'accord de 1982, ont conduit la commission à soumettre au conseil de la C.E.E. le résultat du compromis intervenu, soit 21 millions de tonnes de manioc pour une durée de quatre ans, étant entendu que la quantité annuelle ne pourrait dépasser 5,5 millions de tonnes. En dépit des observations formulées par la France notamment, quant au caractère préjudiciable de ces importantes pour les céréales communautaires, le conseil de la C.E.E. a approuvé, à la majorité qualifiée, le 28 avril dernier le renouvellement de l'accord de coopération entre la C.E.E. et la Thaïlande, à compter du 1er janvier 1987 sur la base du compromis issu des consultations mentionnées ci-dessus.
