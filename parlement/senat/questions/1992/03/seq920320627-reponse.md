@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920320627
+
+- Question : [SEQ920320627](seq920320627.md) — Inscription à l'Université des Français de l'étranger
+
+## Réponse
+
+*Éducation, JO du 1992-08-13, page 1877*
+
+Réponse. - S'agissant des procédures télématiques de recensement des voeux d'inscription mis en place par certains rectorats d'académie, il convient de rappeler que les Français de l'étranger n'ont pas l'obligation formelle de se connecter au réseau depuis leur pays de résidence pour être assurés d'obtenir une inscription. Le choix d'une région étant guidé le plus souvent par l'existence d'attaches familiales ou par les facilités de relation à l'étranger, où résident encore les parents, cela peut conduire certains rectorats à proposer aux familles la recherche d'une personne susceptible de prendre leur relais dans la démarche de recherche d'inscription. En outre, les rectorats concernés se sont chargés de la saisie télématique des candidatures, chaque fois que les élèves étaient dans l'impossibilité de l'effectuer, à partir de renseignements fournis par les chefs d'établissement de l'étranger qui en avaient fait la demande. En tout état de cause, les procédures télématiques ne remplacent pas le " formulaire de recherche de première inscription en premier cycle universitaire dans une université française " mis à la disposition des élèves dans toutes les représentations diplomatiques françaises à l'étranger. S'agissant de l'application du calendrier austral par nombre d'établissements d'enseignement secondaire, avec pour conséquence la tenue de la session normale du baccaulauréat en fin d'année civile, il est prévu de rappeler à nouveau aux recteurs et chefs d'établissements l'obligation de traiter le dossier des élèves titulaires de tels baccalauréats à l'égal de celui des titulaires du baccalauréat obtenu à la session suivante en France.
