@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031009396
+
+- Question : [SEQ031009396](seq031009396.md) — Conséquences des modalités de calcul de la taxe professionnelle pour les loueurs de voitures
+
+## Réponse
+
+*Budget, JO du 2004-02-12, page 358*
+
+Les entreprises de location de matériels sont imposées à la taxe professionnelle selon le régime de droit commun et donc sur la valeur locative des immobilisations corporelles dont elles ont la disposition pour les besoins de leur activité de location, conformément aux dispositions de l'article 1467 du code général des impôts. La seule dérogation à ce principe, prévue à l'article 1469-3° du même code, concerne les locations de matériels consenties pour plus de six mois à des redevables de la taxe professionnelle qui disposent de ces matériels pour les besoins de leur activité. En contrepartie, les bases de ces redevables comprennent la valeur locative des biens pris en location. Tel n'est pas le cas des biens donnés en crédit-bail, qui ne sont jamais compris dans les bases d'imposition à la taxe professionnelle de leurs propriétaires en raison de la finalité normale de l'opération, qui est la réalisation d'un investissement. Le crédit-bailleur se dessaisit économiquement du bien loué, ce qui justifie qu'il ne soit pas redevable de la taxe professionnelle y attachée, quelle que soit la situation du crédit-preneur au regard de cet impôt. Il n'en va pas de même du bailleur dans le cas d'une location simple car il a vocation à recouvrer la disposition du bien loué. Il ne paraît pas par ailleurs envisageable de remettre en cause ce dispositif au profit des seuls loueurs de voitures pour une longue durée, dès lors que la modification de ces règles d'assiette serait de nature à diminuer de manière substantielle les ressources fiscales de certaines collectivités territoriales.
