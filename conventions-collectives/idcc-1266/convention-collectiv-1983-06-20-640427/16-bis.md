@@ -1,20 +1,20 @@
 # Article 16 bis
 
-A.-Classification des emplois
+A. - Classification des emplois
 
 Les emplois sont classés en six niveaux, dont :
 
 Deux niveaux de personnel sans qualification reconnue :
 
--employé de restaurant premier échelon (ER 1), sans responsabilités ;
+- employé de restaurant premier échelon (ER 1), sans responsabilités ;
 
--employé de restaurant deuxième échelon (ER 2), avec responsabilités ;
+- employé de restaurant deuxième échelon (ER 2), avec responsabilités ;
 
 Deux niveaux de personnel avec qualification reconnue :
 
--employé de restaurant qualifié premier échelon (ERQ 1), sans responsabilités ;
+- employé de restaurant qualifié premier échelon (ERQ 1), sans responsabilités ;
 
--employé de restaurant qualifié deuxième échelon (ERQ 2), avec responsabilités.
+- employé de restaurant qualifié deuxième échelon (ERQ 2), avec responsabilités.
 
 Ces quatre niveaux sont totalement indépendants du statut (employé, maîtrise, cadre).
 
@@ -28,72 +28,52 @@ Compte tenu de la nécessaire polyaptitude, elles ne constituent pas une liste e
 
 Les conditions d'accès aux statuts agents de maîtrise et cadre sont également jointes en annexe.
 
-B.-Evolution des revenus et salaires minima.
+B. - Salaire de base minimum (S.B.M.)
 
-Les revenus et salaires minima, définis ci-après, sont négociés deux fois par an pour application au 1er avril et au 1er octobre.
+Le salaire de base minimum mensuel (S.B.M.) se définit comme la rémunération minimale, mensuelle, brute, en espèces, hors avantages en nature et primes quelle que soit leur périodicité.
 
-C.-Revenus et salaires minima.
+Il est compris pour une durée de travail mensuelle de 169 heures.
 
-Les salaires et revenus minima tels que définis aux points 1,2,3, du présent article 16 bis-C s'entendent pour une durée de travail mensuelle de 169 heures (soit trente-neuf hebdomadaires). Les revenus minima annuels s'entendent dans les mêmes conditions pour douze mois de travail effectif au cours d'une année civile.
+Pour les entreprises qui ont une durée mensuelle de travail inférieure à 169 heures, le salaire de base minimum résulte du calcul pro rata temporis, sauf accord d'entreprise ou d'établissement plus favorable :
 
-Pour les entreprises qui ont une durée de travail inférieure à trente-neuf heures, les salaires et revenus minima seront ceux résultant du calcul pro rata temporis du travail effectif, sauf accord d'entreprise ou d'établissement plus favorable.
+S.B.M.169 " durée mensuelle du travail
 
-Les revenus minima ne sont garantis aux salariés qu'après qu'ils aient acquis une ancienneté de six mois. Avant d'avoir acquis cette ancienneté, les salariés perçoivent les salaires minima mensuels tels que fixés au point 1 ci-après.
+C. - Revenu minimum mensuel (R.M.M.)
 
-Après avoir acquis une ancienneté de un an, le revenu minimum annuel est garanti aux salariés, au prorata du nombre de mois de travail effectif dans l'année civile, au-delà des trois premiers mois d'ancienneté.
+La convention collectivité nationale du 20 juin 1983 définit le revenu minimum mensuel (R.M.M.) pour chacun des niveaux.
 
-1. Salaire minimum mensuel
+Chaque R.M.M. est constitué par les trois éléments suivants :
 
-Le salaire minimum mensuel pour chacun des niveaux de la convention collective est composé des éléments suivants (1) :
+- le salaire de base minimum (S.B.M.) tel qu'il est défini au paragraphe B du présent accord ;
 
--salaire de base mensuel ;
+- l'avantage en nature mensuel évalué, quel que soit le nombre de repas consommés, à vingt et une fois le minimum garanti ;
 
--avantage en nature moyen mensuel évalué, quel que soit le nombre de repas consommés à raison de vingt et une fois le minimum garanti.
+- le prorata rapporté au mois des primes contractuelles acquises pendant une année civile et ayant un caractère de salaire, notamment : treizième mois, prime de fin d'année ou d'exercice, prime d'objectif, prime de fin de saison, prime de vacances... quelles qu'en soient les modalités de versement. La prime d'ancienneté et les primes liées à des conditions particulières de travail, par exemple la prime hospitalière, ne sont pas prises en compte.
 
-En contrepartie de ses services, tout salarié doit percevoir au prorata de la durée de travail mensuelle, un salaire brut mensuel au moins égal au salaire minimum Restauration collective (dit S. M. I. C.-R. C.) tel que défini à l'article 16.
+La fraction mensuelle des primes annuelles correspondra, au 1er janvier 1993 :
 
-Cette disposition est prise, compte tenu de l'état actuel de la législation et de la jurisprudence. Elle cesserait d'être appliquée en cas de changement de calcul du S. M. I. C ou de revirement de jurisprudence.
+pour le ER 1, à : S.B.M. " 0,5012
 
-Dans ce cas, une commission mixte paritaire se réunira dans un délai de 3 mois afin de négocier de nouvelles dispositions.
+pour le ER 2, à : S.B.M. " 0,7512
 
-2. Revenu minimum mensuel
+pour les autres niveaux, à : 1/12 du S.B.M.
 
-La convention collective définit un revenu minimum mensuel pour chacun des niveaux.
+Les R.M.M. sont garantis aux salariés dès lors qu'ils ont acquis une ancienneté de six mois. Avant d'avoir acquis cette ancienneté, les salariés perçoivent les salaires de base minima, tels que définis au paragraphe B du présent accord, auxquels s'ajoutent les avantages en nature.
 
-Chaque revenu minimum mensuel de la convention collective est constitué par 3 éléments :
+Pour les entreprises qui ont une durée de travail inférieure à 169 heures par mois, les R.M.M. seront ceux résultant du calcul pro rata temporis de la rémunération en espèces (S.B.M. + fraction des primes) majorée des avantages en nature, sauf accord d'entreprise ou d'établissement plus favorable.
 
-a) Salaire de base mensuel ;
+D. - Revenu minimum annuel (R.M.A.)
 
-b) Le prorata rapporté au mois des primes contractuelles acquises pendant une année civile et ayant un caractère de salaire, notamment 13e mois, prime de fin d'année ou d'exercice, prime de fin de saison, prime de vacances... quelles qu'en soient les modalités de versement. Les autres primes, et notamment d'ancienneté, ne sont pas prises en compte ;
+Le revenu minimum annuel (R.M.A.) se définit comme étant l'addition de douze revenus minima mensuels, tels qu'ils sont définis au paragraphe C du présent avenant, des douze mois de l'année civile.
 
-c) L'avantage en nature moyen mensuel correspondant au repas évalué quel que soit le nombre de repas consommés, à raison de 21 fois le minimum garanti.
+Les R.M.A. de l'année en cours de chacun des niveaux sont indiqués pour l'année civile lors de la négociation d'octobre.
 
-Ces revenus minima mensuels pouvant intégrer des éléments de rémunération versés selon une périodicité non mensuelle, il a été institué un salaire minimum payé mensuellement prévu au point 1 ci-dessus.
+Les revenus minima annuels s'entendent pour une durée de travail mensuelle de 169 heures sur douze mois de travail effectif au cours de l'année civile.
 
-3. Revenu minimum annuel
+Pour les entreprises qui ont une durée de travail inférieure à 169 heures sur douze mois, les R.M.A. seront ceux résultant de l'addition des R.M.M. correspondant à cet horaire de travail, sauf accord d'entreprise ou d'établissement plus favorable.
 
-Le revenu minimum annuel se définit comme étant l'addition des 12 revenus minima mensuels tels que stipulés au paragraphe 2 ci-dessus, des 12 mois de l'année civile.
+Après avoir acquis une ancienneté d'un an, le R.M.A. est garanti aux salariés, au prorata du nombre de mois de travail effectif dans l'année civile.
 
-Les revenus minima annuels de l'année en cours de chacun des niveaux sont indiqués pour l'année civile lors de la négociation d'octobre.
+E. - Evolution des S.B.M., R.M.M. et R.M.A.
 
-4. Il découle des dispositions du présent article 16 bis-C que les salariés ont la double garantie d'un salaire minimum mensuel et d'un revenu minimum annuel.
-
-D.-Évolution de l'écart entre salaire minimum et revenu minimum.
-
-Il est convenu que l'écart hors avantages en nature par niveau entre le salaire minimum mensuel et le revenu minimum mensuel croîtra chaque année.
-
-Pour ERQ 1, ERQ 2, gérant et cadre, cet écart devra atteindre en octobre 1988,1/12 du salaire minimum mensuel hors avantages en nature.
-
-Pour ER 2, cet écart devra atteindre en octobre 1989,70 p. 100 du 1/12 du salaire minimum mensuel hors avantages en nature.
-
-E.-Suspension en cas de blocage des prix.
-
-Il est convenu que l'application des engagements décrits dans les paragraphes 15-C, 15-D, 15-E, 15-F, 15-G serait suspendue en cas de blocage des prix.
-
-Dans ce cas, les partenaires se réuniraient et se concerteraient sur les solutions à adopter pour tenter de respecter l'esprit des engagements ci-dessus, dans le respect de la réglementation sur les prix.
-
-(1) Le premier alinéa du point 1 au paragraphe c de l'article 16 bis est étendu sous réserve de l'article D. 141-8 du code du travail en tant qu'il prévoit la règle du versement d'une indemnité compensatrice à défaut de fourniture du repas.
-
-NOTA :
-
-(1) Le premier alinéa du point 1 au paragraphe c de l'article 16 bis est étendu sous réserve de l'article D. 141-8 du code du travail en tant qu'il prévoit la règle du versement d'une indemnité compensatrice à défaut de fourniture du repas.
+Les S.B.M. définis et garantis par le présent avenant sont négociés deux fois par an pour application au 1er avril et au 1er octobre. Les valeurs des R.M.M. et des R.M.A. en découlent.
