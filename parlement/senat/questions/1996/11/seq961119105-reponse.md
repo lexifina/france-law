@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961119105
+
+- Question : [SEQ961119105](seq961119105.md) — Conditions de versement du produit de la taxe professionnelle payée par La Poste et France Télécom
+
+## Réponse
+
+*Économie, JO du 1997-02-06, page 375*
+
+Réponse. - Dès lors que les P et T constituaient, avant leur changement de statut, un budget annexe, il convenait d'éviter que la réforme de l'organisation de la poste et des télécommunications ne modifie les flux financiers entre l'Etat et les P et T et conduise à l'accroissement des charges de l'un ou l'autre des deux partenaires. L'assujettissement de France Télécom et de La Poste aux impôts directs locaux, au profit de l'Etat, répond à cet objectif et permet d'assurer la neutralité économique et budgétaire de la modification de statut. Cela étant, à compter de 1995, lorsque le montant des impositions à la taxe professionnelle effectivement à la charge des deux exploitants est supérieur aux impositions versées en 1994, actualisées en fonction de l'indice des prix à la consommation des ménages, tel qu'il ressort des hypothèses économiques à partir desquelles le Gouvernement a élaboré le projet de loi de finances présenté au Parlement, l'excédent est versé au fonds national de péréquation de la taxe professionnelle. Cette fraction des impositions bénéficie donc aux collectivités locales en fonction des critères retenus pour la répartition de ce fonds. Environ 300 millions de francs ont ainsi été reversés au titre de l'année 1995 et plus de 750 millions de francs doivent être reversés au titre de l'année 1996, profitant principalement aux collectivités pauvres ou ayant des difficultés budgétaires. Dans ces conditions, il n'est pas envisagé de modifier ces règles d'imposition. La perte de recettes qui en résulterait pour le budget de l'Etat serait incompatible avec l'objectif de réduction du déficit de l'Etat.
