@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701184
+
+- Question : [SEQ970701184](seq970701184.md) — Déséquilibres régionaux en matière d'accès à l'information
+
+## Réponse
+
+*Affaires européennes, JO du 1997-08-21, page 2151*
+
+Réponse. - La France et ses partenaires européens partagent la préoccupation de l'honorable parlementaire de permettre à l'ensemble des régions de la Communauté l'accès aux différentes technologies de la communication et de l'information. Dès son commencement, la politique engagée par l'Union concernant la société de l'information a intégré l'objectif d'éviter une " société à deux vitesses ", qui serait divisée entre ceux qui disposent d'un accès aux nouvelles possibilités offertes et ceux qui ne peuvent pleinement en bénéficier. Ce sujet a fait l'objet de discussions au cours de plusieurs Conseil des ministres européens en charge des télécommunications. A la requête du Conseil et du Parlement européen, la Commission a également présenté une communication sur le " service universel des télécommunications dans la perspective d'un environnement pleinement libéralisé ". Ce document appelle précisément à la prise en compte de la situation particulière des zones les moins favorisées et les moins peuplées de la Communauté. La Commission entend encourager des mesures en faveur des régions concernées, afin d'y accélérer la numérisation du réseau. Une résolution du Conseil, en date du 8 octobre 1996, fait par ailleurs de cette nécessaire cohésion une priorité politique dans le développement de la société de l'information. Il faut souligner, pour répondre à la seconde préoccupation de l'honorable parlementaire, que le Conseil a, dans cette même résolution, mis en avant le rôle que doivent jouer les instruments de politique régionale de l'Union et qu'il a invité la Commission et les Etats membres à examiner la mise en oeuvre d'actions appropriées.
