@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910515045
+
+- Question : [SEQ910515045](seq910515045.md) — Organisation de stages de préparation à l'expatriation
+
+## Réponse
+
+*Affaires étrangères, JO du 1992-03-12, page 606*
+
+Réponse. - Le ministère des affaires étrangères coopère, de longue date, avec l'Association pour la formation professionnelle des adultes (A.F.P.A.) afin d'organiser des stages de réinsertion au titre de la formation professionnelle. Conçus à l'origine pour les rapatriés d'Algérie, ces actions ont été étendues à l'Inde et à Madagascar puis, depuis 1988, à l'ensemble des pays étrangers. Environ un millier de candidats à une formation ou à une réinsertion professionnelle sont examinées chaque année et le tiers d'entre eux effectuent à ce titre des stages à l'A.F.P.A. Ces stagiaires en formation en France sont rémunérés au titre de l'allocation formation reclassement (A.F.R.) dont le montant est au moins égal à celui du régime d'indemnisation du chômage, s'ils peuvent prétendre à percevoir l'allocation de base. Si ces stagiaires ne bénéficient pas de l'A.F.R., ils sont pris en charge par l'Etat selon diverses catégories de rémunérations (activité professionnelle préalable, mères de famille, travailleurs handicapés, etc.). Pour ce qui concerne le R.M.I., tous les Français de l'étranger peuvent y accéder dès leur retour en France. Le ministère des affaires étrangères étudie actuellement, avec les services concernés du ministère de la solidarité et de l'intégration, la possibilité d'un pré-montage des dossiers à l'étranger, qui serait donc préalable au rapatriement et faciliterait l'attribution du R.M.I. Enfin, s'agissant des stages de préparation à l'expatriation, certains demandeurs d'emploi peuvent bénéficier d'un " chéquier langues " et recevoir ainsi une formation linguistique appropriée. De même, le programme européen Petra prévoit, dans le cadre des échanges de jeunes, des séjours linguistiques d'une durée d'un mois dans le pays d'accueil.
