@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990818436
+
+- Question : [SEQ990818436](seq990818436.md) — Taux de TVA réduit sur les activités sportives
+
+## Réponse
+
+*Jeunesse, JO du 1999-10-28, page 3569*
+
+Réponse. - Mme la ministre de la jeunesse et des sports est particulièrement attentive à la question de la fiscalité applicable aux associations sportives. L'application d'un taux de TVA réduit au droit d'utilisation des installations sportives ne peut que recueillir son adhésion, dans la mesure bien sûr où elle serait répercutée sur l'usager, sous forme d'une baisse des coûts d'accès, et sur la création d'emplois. Mme la ministre a donc adressé, le 25 juillet 1999, une nouvelle proposition en ce sens au ministre de l'économie, des finances et de l'industrie afin que cette mesure figure dans le projet de loi de finances pour 2000. Cette proposition n'a pas été retenue dans le projet de loi de finances pour 2000, à l'intérieur duquel figurent seulement les allégements fiscaux jugés socialement prioritaires par le Gouvernement. Mme la ministre souhaite néanmoins que le débat se poursuive sur cette question. En effet, l'application au 1er janvier 2000 de l'instruction fiscale du 15 septembre 1999 concernant les associations va accroître le champ de l'assujettissement à la TVA à la partie des activités des associations, qui, parce qu'entrant en concurrence avec un secteur commercial, se verra sectorisée fiscalement ou filialisée. La question du taux de TVA ne concerne donc plus seulement des entreprises commerciales, mais une part des activités menées par les associations sportives et clubs, même lorsqu'ils sont gérés de façon désintéressée. De façon générale, la démocratisation de l'accès aux pratiques sportives, sans discirmination entre elles, constitue un enjeu social important : la réduction des coûts pour les usagers reste l'un des moyens d'y parvenir.
