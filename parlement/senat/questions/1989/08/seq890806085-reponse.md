@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890806085
+
+- Question : [SEQ890806085](seq890806085.md) — Sécurité des Français de Côte-d'Ivoire
+
+## Réponse
+
+*Coopération, JO du 1989-10-12, page 1676*
+
+Réponse. - Le ministre de la coopération et du développement suit avec attention le résultat des enquêtes qui sont actuellement menées par les services de police ivoiriens à la suite des agressions dont ont été victimes certains de nos compatriotes expatriés. En dépit des efforts menés par les autorités ivoiriennes, il n'a malheureusement pas été possible à ce jour d'élucider de façon précise les circonstances de ces agressions ni d'en arrêter les coupables. Ces événements tragiques, qui inquiètent à juste titre nos compatriotes sur place, se situent dans la cadre d'une augmentation de la délinquance et de la criminalité que connaît depuis un certain temps la Côte-d'Ivoire, phénomène qui n'est hélas pas spécifique à ce pays, qui ne vise pas la communauté française en tant que telle, et qui touche, parmi d'autres, la communauté ivoirienne. Les autorités françaises sont intervenues à maintes reprises auprès des responsables ivoiriens concernés afin d'obtenirune meilleure protection de nos ressortissants. Lors de la visite qu'elle vient d'effectuer en Côte-d'Ivoire, Mme Edwige Avice, ministre délégué auprès du ministre d'Etat, ministre des affaires étrangères, a - dans cet esprit - appelé de nouveau l'attention des plus hautes autorités ivoiriennes sur la préoccupation que nous inspire cette situation et sur l'urgence qui s'attache à y porter remède. Conscient de la dégradation de la situation, le Gouvernement ivoirien reconnaît que la montée de la criminalité est devenu pour lui une préoccupation majeure. Le ministre ivoirien de la sécurité intérieure vient de réaffirmer sa volonté d'intensifier la lutte en s'employant à réorganiser de façon plus efficace son département.
