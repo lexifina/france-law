@@ -20,11 +20,7 @@ Section 1. Produits homologues
 
 1.5. Concentré de granulocytes d'aphérèse.
 
-1.6. Plasma frais congelé sécurité par quarantaine :
-
-1.6.1. Issu de sang total ;
-
-1.6.2. Issu d'aphérèse.
+1.6. Plasma frais congelé sécurité par quarantaine, issu d'aphérèse.
 
 1.7. Plasma pour fractionnement.
 
@@ -219,3 +215,7 @@ Les qualifications et transformations suivantes peuvent s'appliquer à ces produ
 6.3. Produits sanguins labiles destinés à la préparation du sang reconstitué :
 
 6.3.1. Plasma frais congelé solidarisé pour préparation de sang reconstitué.
+
+6.4. Produits sanguins labiles destinés à la préparation du plasma cryodesséché sécurisé prévu à la section 5.
+
+6.4.1. Plasma frais congelé sécurisé par quarantaine, issu du sang total.
