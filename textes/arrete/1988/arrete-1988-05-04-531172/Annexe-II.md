@@ -30,13 +30,7 @@ Les techniciens débutants sont recrutés au cœfficient de début du groupe I :
 
 2° Groupe II : techniciens confirmés
 
-Le groupe II correspond au niveau V de la convention collective régionale du 16 juillet 1954 modifiée prise comme référence et en reprend les trois cœfficients :
-
-- 305 ;
-
-- 335 ;
-
-- 365.
+Le groupe II correspond au niveau V de la convention collective régionale du 16 juillet 1954 modifiée prise comme référence et en reprend les quatre coefficients : 305, 335, 365 et 395. Pour bénéficier du coefficient 395, les techniciens doivent avoir acquis plus de dix années d'expérience dans un emploi classé au coefficient 365 du groupe II au sein d'un ou plusieurs établissements relevant de la délégation générale pour l'armement et mettre en oeuvre une compétence éprouvée. La proposition de promotion au coefficient 395, établie par le directeur d'établissement, doit être agréée par le ministre chargé de la défense.
 
 Les techniciens confirmés sont recrutés au coefficient de début du groupe II : sont considérés comme confirmés les techniciens ayant exercé une activité professionnelle antérieure d'au moins six ans.
 
