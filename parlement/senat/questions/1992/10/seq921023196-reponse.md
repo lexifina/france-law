@@ -1,0 +1,9 @@
+# Réponse à la question SEQ921023196
+
+- Question : [SEQ921023196](seq921023196.md) — Application du service militaire adapté aux territoires d'outre-mer
+
+## Réponse
+
+*Défense, JO du 1993-01-28, page 141*
+
+Réponse. - En dehors des services dans la police nationale, de l'aide technique, de la coopération, des objecteurs de conscience et de sécurité civile, l'emploi des militaires du contingent à des tâches civiles est strictement limité par les dispositions des articles L. 6 et L. 71 du code du service national qui disposent que les besoins des armées devant être satisfaits en priorité, les jeunes gens accomplissant le service militaire actif doivent être affectés à des emplois militaires. Néanmoins, des interventions, répondant à une nécessité de caractère public ou à une mission d'intérêt général, sont possibles au profit ou pour le compte d'autres départements ministériels sous la forme de conventions, de concours ou de réquisitions. Dans ce cadre, le protocole d'accord du 16 juillet 1992 passé entre le ministre d'Etat, ministre de l'éducation nationale et de la culture, le ministre de l'intérieur et de la sécurité publique, le ministre de la défense et le secrétaire d'Etat, auprès du Premier ministre, chargé de la ville, a prévu l'affectation de 2 000 militaires du contingent auprès de la délégation interministérielle à la ville et aux quartiers urbains. Ces jeunes gens apportent leur compétence et leur savoir-faire aux lycées et collèges ou quartiers urbains défavorisés. Ils ont pour mission d'encadrer des jeunes en difficulté dans le cadre d'une politique de l'animation sociale, culturelle, sportive ou artistique. La répartition des effectifs dans les zones d'éducation prioritaires ressortit à la seule compétence du ministère de l'éducation nationale, le ministère de la défense n'étant pas habilité à définir la liste des sites pouvant bénéficier du concours de ces appelés.
