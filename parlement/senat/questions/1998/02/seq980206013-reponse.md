@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980206013
+
+- Question : [SEQ980206013](seq980206013.md) — Ecoles dans les départements et territoires d'outre-mer (DOM-TOM)
+
+## Réponse
+
+*Éducation, JO du 1998-04-16, page 1243*
+
+Réponse. - La préparation de la rentrée 1998 s'est effectuée à moyens d'enseignement constants ; elle devrait donc, compte tenu de la baisse démographique attendue, s'effectuer dans des conditions satisfaisantes. Toutefois, l'évolution démographique contrastée d'une académie à l'autre, et en particulier entre la plupart des académies métropolitaines en baisse d'effectifs et les départements et territoires d'outre-mer en hausse, conduit à un redéploiement de moyens devant permettre la mise en uvre d'une politique d'amélioration de la qualité de l'enseignement pour tous. Les départements et territoires d'outre-mer se voient ainsi attribuer une dotation supplémentaire de plus de 500 emplois pour la rentrée 1998 pour à la fois accompagner la croissance démographique et prendre en compte, dans le souci d'une amélioration qualitative de l'enseignement, la particularité des populations scolaires de ces académies et territoires. En ce qui concerne les personnels de santé, 300 emplois d'infirmière ont été créés en loi de finances 1998. Sur ce contingent, 17 emplois ont été attribués aux académies d'outre-mer. Il paraît nécessaire de préciser que, dans ces quatre académies, le taux moyen d'encadrement s'échelonne entre une infirmière pour 2 900 élèves et une pour 2 430, le taux moyen national constaté à la rentrée 1997 étant d'une infirmière pour 2 360 élèves. S'agissant des territoires d'outre-mer, il y a lieu de rappeler que les services de santé scolaire, inclus dans les services de santé territoriaux, ne relèvent pas de la compétence de l'éducation nationale. Cependant, la prise en compte des besoins liés à l'évolution démographique de ces territoires a conduit à leur attribuer 12 emplois d'infirmière scolaire au titre de l'exercice 1998.
