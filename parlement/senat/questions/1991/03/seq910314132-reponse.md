@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910314132
+
+- Question : [SEQ910314132](seq910314132.md) — Statut des inspecteurs pédagogiques régionaux
+
+## Réponse
+
+*Éducation, JO du 1992-08-06, page 1802*
+
+Réponse. - Le décret n° 90-675 du 18 juillet 1990 portant statuts particuliers des inspecteurs de l'éducation nationale (I.E.N.) et des inspecteurs pédagogiques régionaux - inspecteurs d'académie (I.P.R.-I.A.) a bien prévu en son article 11 que " les personnels recrutés par voie de liste d'aptitude sont immédiatement titularisés dans la classe normale du corps des I.E.N. ". Toutefois, dans le cadre des dispositions transitoires et diverses, il est précisé à l'article 40 " qu'il ne sera procédé aux recrutements prévus par le présent décret qu'à compter de 1991 ". Pour sa part, l'article 42 fixe " qu'il sera procédé en 1990 aux recrutements dans le corps énumérés à l'article 34 (notamment inspecteurs départementaux de l'éducation nationale (I.D.E.N.), inspecteurs de l'enseignement technique (I.E.T.), information et orientation (I.I.O.), conformément aux dispositions en vigueur antérieurement à la date de publication du présent décret. " En conséquence, les modalités de recrutement par voie de liste d'aptitude avec titularisation immédiate définies par le décret du 18 juillet 1990, n'ont pu entrer en vigueur qu'à compter de la rentrée scolaire 1991. Pour les personnels auxquels le parlementaire se réfère, il s'agit d'inspecteurs recrutés à la rentrée 1990 par voie de liste d'aptitude aux fonctions d'I.D.E.N. ou d'I.E.T. conformément au décret n° 88-643 du 5 mai 1988 modifié et du décret n° 72-585 du 4 juillet 1972 modifié. Ces deux textes prévoyaient, en effet, que les personnels recrutés par voie de liste d'aptitude en qualité de stagiaires étaient titularisés I.D.E.N. ou I.E.T. au bout d'un an.
