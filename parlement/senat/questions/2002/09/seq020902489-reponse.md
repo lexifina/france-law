@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020902489
+
+- Question : [SEQ020902489](seq020902489.md) — Validation d'acquis pour les gendarmes postulant pour des postes de policiers municipaux
+
+## Réponse
+
+*Fonction publique, JO du 2003-02-06, page 459*
+
+Conformément à la règle généralement applicable au recrutement dans la fonction publique, l'accès aux cadres d'emplois de la police municipale est subordonné à la réussite aux concours définis dans le cadre des statuts particuliers. Aucune disposition législative ou réglementaire ne permet, en l'état actuel, de déroger à cette règle. Par ailleurs, l'article 3 de la loi du 12 juillet 1984 modifiée relative à la formation des agents de la fonction publique territoriale précise, dans son second alinéa, que les statuts particuliers des cadres d'emplois peuvent prévoir les conditions dans lesquelles les agents astreints à une formation obligatoire peuvent être dispensés d'une partie de celle-ci lorsqu'ils ont suivi antérieurement une formation sanctionnée par un titre ou diplôme reconnu par l'Etat. Les statuts particuliers des cadres d'emplois de la police municipale ne comportent pas de disposition en ce sens. Toutefois, l'évolution du profil des lauréats aux concours territoriaux et la modernisation des recrutements engagée par un groupe de travail placé sous l'égide du Conseil supérieur de la fonction publique territoriale rendent nécessaire une réflexion d'ensemble sur la formation des fonctionnaires territoriaux en vue d'en améliorer le contenu et les modalités. C'est dans ce cadre que pourront être examinées les adaptations à apporter à la formation initiale des fonctionnaires de la police municipale, au regard notamment de l'expérience professionnelle préalablement acquise par les candidats à ces concours, notamment lorsqu'ils sont issus de la gendarmerie.
