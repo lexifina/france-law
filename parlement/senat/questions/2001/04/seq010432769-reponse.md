@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010432769
+
+- Question : [SEQ010432769](seq010432769.md) — Congés scolaires de printemps
+
+## Réponse
+
+*Éducation, JO du 2001-07-12, page 2324*
+
+Les dates de vacances de printemps 2001 ont été fixées par l'arrêté du 30 juillet 1998 relatif au calendrier des années scolaires 1999-2000 et 2000-2001. Ce texte avait préalablement fait l'objet d'une large concertation auprès de l'ensemble des partenaires concernés, y compris des associations de parents d'élèves ; il a été soumis pour avis au Conseil supérieur de l'éducation le 2 juillet 1998. Les dates ainsi fixées visaient à faire bénéficier les élèves, quelle que soit la zone à laquelle ils appartiennent, de vacances de printemps d'une durée comparable, la durée habituelle de deux semaines ne pouvant être rigoureusement respectée. En effet, pour la zone A, le lundi 16 avril étant férié, la rentrée ne pouvait s'effectuer que le mardi 17 ; pour la zone B, il n'apparaissait pas possible de fixer la rentrée des élèves au 30 avril, veille du 1er mai, elle a donc été repoussée au mercredi 2 mai. Dans ces conditions, il est apparu souhaitable d'allonger également d'une journée la durée des vacances de la zone C, c'est la raison pour laquelle la date de la rentrée a été fixée au mardi 24 avril 2001 ; il n'a jamais été question de " récupérer " le lundi de Pâques. J'observe que, localement, certains recteurs et inspecteurs d'académie ont décidé, dans le cadre de leurs compétences réglementaires, de supprimer ce jour de congé et de le reporter à une autre date, souvent différente d'une académie à l'autre, en fonction des situations locales, elles-mêmes différentes. Je soulignerai, à cet égard, que le calendrier scolaire doit, conformément à la loi, prévoir au cours de l'année scolaire quatre périodes de vacance des classes et que l'introduction d'autres périodes de congés, même courtes, comme les " ponts ", n'a donc pas sa place dans le calendrier scolaire national.
