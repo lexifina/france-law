@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940606503
+
+- Question : [SEQ940606503](seq940606503.md) — Sauvegarde de l'emploi dans une entreprise filiale du groupe Sartec
+
+## Réponse
+
+*Industrie, JO du 1994-08-25, page 2082*
+
+Réponse. - Dès le mois de janvier 1994, lorsque les difficultés de Sartec ont été connues, le ministère de l'industrie, des postes et télécommunications et du commerce extérieur est intervenu. Thyssen ayant clairement exprimé son désir de ne plus être opérateur industriel, tout en souhaitant rester actionnaire de Sartec, les pouvoirs publics ont tenté d'obtenir des efforts de la part de ce groupe et une reprise in bonis de l'ensemble des activités de Sartec. L'ensemble des repreneurs approchés ont analysé le dossier, pour certains de façon très approfondie. Malgré l'intérêt suscité par Sartec, et notamment certaines de ses activités, face à l'ampleur des besoins, les entreprises contactées ont dû renoncer et Sartec a dû être placée en redressement judiciaire. De nombreux repreneurs se sont manifestés et deux propositions majeures, fédérées l'une par GTM Entrepose, l'autre par le groupe Bouygues, ont émergé, qui toutes deux aboutissaient au maintien de 800 emplois environ. Lors de l'audience du 15 juin 1994, le tribunal de commerce a décidé de retenir les offres présentées par GTM Entrepose et sa filiale Delattre Levivier, des entreprises du réseau Eurysys, CTM, Foselev et Eiffel. Le personnel, notamment celui de Lozai, avait fait part de sa préférence pour cette solution. L'offre retenue doit permettre de préserver au total 820 emplois, dont environ 250 chez Lozai Industries et Lozai Maintenance, repris par GTM Entrepose. Dans le contexte de crise qui depuis plusieurs années touche le domaine des prestations en maintenance, la mise en place de la solution retenue par le tribunal permet donc de maintenir un nombre d'emplois significatif et apparaît de nature à assurer l'avenir des principales activités de Sartec.
