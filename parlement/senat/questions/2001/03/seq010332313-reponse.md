@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010332313
+
+- Question : [SEQ010332313](seq010332313.md) — Situation des assistants techniques servant en coopération
+
+## Réponse
+
+*Affaires étrangères, JO du 2001-05-17, page 1666*
+
+Réponse. - Le versement de l'indemnité de logement prévu par l'article 19 du décret nº 92-1331 du 18 décembre 1992 a fait l'objet des arrêtés d'application du 26 mars 1993 pour les assistants techniques en service à Haïti et aux Petites Antilles ; du 28 mars 1994 pour les agents en service en Namibie (Journal officiel du 6 avril 1994) et du 25 février 1997 pour les agents en service en Côte-d'Ivoire (Journal officiel du 5 mars 1997). En ce qui concerne ce dernier arrêté, les impératifs budgétaires n'ont pas permis d'adopter un barème satisfaisant et une part importante du coût du logement est à la charge des assistants techniques. Il n'a donc pas paru opportun d'étendre cette procédure à d'autres Etats. En tout état de cause, l'abrogation du décret de 1992 est en cours d'étude afin d'unifier le régime de rémunération de tous les assistants techniques en appliquant aux assistants techniques des pays relevant de la compétence de l'ancien ministère de la coopération, les dispositions du décret du 28 mars 1967 qui régit les assistants techniques des pays de la compétence du ministère des affaires étrangères. Ce décret de 1937 prévoit en particulier le versement d'une indemnité de résidence aux personnels se logeant à leur convenance. Toutefois, dans le cas où les Etats de service continueraient à assurer un logement gratuit aux assistants techniques mis à leur disposition - conformément à leur obligations contractuelles prévues par les accords de coopération - le décret de 1967 prévoit, en contrepartie du logement fourni par l'Etat, le prélèvement sur le traitement d'une retenue forfaitaire de logement.
