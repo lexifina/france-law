@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980810408
+
+- Question : [SEQ980810408](seq980810408.md) — Caisse nationale de retraite des agents des collectivités locales
+
+## Réponse
+
+*Emploi, JO du 1999-05-27, page 1776*
+
+Réponse. - Au niveau des comptes, le déficit de la CNRACL en 1999, évalué à 2 milliards de francs par la commission des comptes de la sécurité sociale de septembre 1998, ne posera pas de difficulté puisque la caisse dispose de réserves supérieures à ce déficit. Au 31 décembre 1998, ces réserves s'élevaient en effet, toutes gestions confondues, à 3,2 milliards de francs. Au plan de la trésorerie, un double mécanisme a été prévu pour permettre à la CNRACL de faire face à ses obligations. D'une part, comme l'année précédente, le paiement d'une partie des acomptes de compensation dus par la caisse au titre de 1999 sera reporté sur l'année 2000. Cette mesure porte sur 3 milliards de francs. Par ailleurs, la loi de financement de la sécurité sociale pour 1999 autorise la CNRACL à recourir à un dispositif d'avances de trésorerie, dans la limite de 2,5 milliards de francs. Bien évidemment, le Gouvernement ne se satisfait pas de cette situation. Conformément à l'engagement qu'il avait pris d'examiner les problèmes de la CNRACL en concertation avec les élus locaux, il a mis en place un groupe de travail constitué d'élus locaux issus du comité des finances locales, du président du conseil d'administration de la CNRACL et de représentants des ministères siégeant à ce conseil. En liaison avec le Commissariat général du Plan, qui examine également la situation et les perspectives de la CNRACL dans le cadre de sa mission plus large d'analyse de notre système d'assurance vieillesse, ce groupe de travail pourra contribuer à la définition d'hypothèses réalistes d'évolution du régime, établies à l'aune de ses caractéristiques particulières, et notamment de son implication dans les mécanismes de surcompensation.
