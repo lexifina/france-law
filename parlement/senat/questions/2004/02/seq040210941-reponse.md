@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040210941
+
+- Question : [SEQ040210941](seq040210941.md) — Circulaire d'application de la mesure i.7.1 pour l'avenir de la forêt de montagne
+
+## Réponse
+
+*Agriculture, JO du 2004-08-26, page 1919*
+
+La sous-mesure i.7.1 du Plan de développement rural national (PDRN) a pour objectif d'aider à la préservation ou à l'amélioration de la stabilité écologique des forêts ayant un rôle protecteur d'intérêt public. Les conséquences budgétaires des modalités d'aide initialement envisagées, engageant l'Etat sur une période de cinq à dix ans, soit au-delà même de la période de programmation du PDRN, n'ont pas permis la mise en oeuvre de cette sous-mesure. Néanmoins, la gestion des forêts à rôle de protection, insuffisamment rémunératrices, reste un enjeu important de la gestion forestière durable, au risque de voir des peuplements vieillis se déstabiliser. Pour répondre à cette attente, tout en tenant compte des contraintes budgétaires, de nouvelles formes d'intervention ont été étudiées par les services du ministère de l'agriculture, de l'alimentation, de la pêche et des affaires rurales, en lien avec les professionnels forestiers publics et privés. Le principe d'une nouvelle sous-mesure - intitulée i.2.9 - a ainsi été proposé à l'approbation de la Commission dans le cadre des procédures de révision du PDRN. Cette proposition est actuellement en cours d'examen. Elle est fondée sur une aide à l'investissement, qui concerne les mêmes types de peuplements que la sous-mesure i.7.1, et qui permet d'aider un propriétaire à réaliser des travaux sylvicoles déficitaires qu'il n'aurait pas entrepris spontanément. Des crédits sont d'ores et déjà réservés pour cette opération sur l'exercice 2004. Le Gouvernement est attentif à apporter une réponse réaliste et efficace pour assurer une gestion durable des forêts de montagne, notamment celles qui ont un rôle de protection marqué.
