@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021002910
+
+- Question : [SEQ021002910](seq021002910.md) — Moyens de l'Agence française de sécurité sanitaire environnementale
+
+## Réponse
+
+*Écologie, JO du 2003-03-27, page 1042*
+
+La ministre de l'écologie et du développement durable a pris connaissance, avec intérêt, de la question relative aux moyens humains et matériels attribués à l'Agence française de sécurité sanitaire environnementale (AFSSE) pour mener à bien ses missions. Pour l'exercice 2002, le budget de l'AFSSE, fixé par arrêté du 7 octobre 2002, a été établi à 2 030 000 EUR. La contribution du ministère de l'écologie et du développement durable (MEDD) s'élève à 635 000 EUR sur le titre III en tant que dépenses ordinaires, et à 380 000 EUR sur le titre VI en tant que crédits d'investissements du budget civil de recherche et développement (BCRD) consacrés aux projets sélectionnés dans le cadre de l'appel à propositions de recherche en santé-environnement, lancé conjointement par le MEDD et l'AFSSE en juin 2002. Compte tenu des délais nécessaires à l'instruction de ces projets, les crédits ne seront engagés que sur l'exercice 2003. Pour l'exercice 2003, le projet de loi de finances du MEDD a prévu une dotation de 1 524 000 EUR sur le titre III et de 1 124 000 EUR sur le titre VI (sur les crédits du BCRD). Une dotation de 1 999 633 EUR est prévue par le ministère de la santé, de la famille et des personnes handicapées (MSFPH). S'agissant des moyens humains de l'AFSSE, pour ce qui concerne le MEDD, il est prévu la création de douze emplois sur l'exercice 2003, lesquels s'ajoutent aux douze emplois qui avaient été prévus sur l'exercice 2002. La création de cinq emplois a été accordée pour le MSFPH sur l'exercice 2003, portant à un total de vingt-neuf emplois les effectifs budgétaires de l'AFSSE pour 2003.
