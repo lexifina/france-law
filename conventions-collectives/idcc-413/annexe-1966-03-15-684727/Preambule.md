@@ -1,0 +1,11 @@
+# Article Préambule
+
+Par application des arrêtés et décrets cités dans les dispositions générales, les candidats :
+
+- au certificat d'aptitude aux fonctions d'aide médico-psychologique ;
+
+- au certificat d'aptitude aux fonctions de moniteur-éducateur ;
+
+- au diplôme d'éducateur spécialisé,
+
+désireux d'entrer dans un cycle de formation en cours d'emploi, devront répondre aux conditions d'embauche et de recrutement ci-dessous :

@@ -1,0 +1,9 @@
+# Article 1er
+
+Le présent protocole a pour but de préciser les dispositions particulières applicables aux personnels salariés ne répondant pas à la qualification professionnelle établie pour les emplois :
+
+- d'aide-médico-psychologique ;
+
+- de moniteur-éducateur ;
+
+- d'éducateur spécialisé.
