@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971003286
+
+- Question : [SEQ971003286](seq971003286.md) — Situation des sans-papiers
+
+## Réponse
+
+*Intérieur, JO du 1997-12-04, page 3393*
+
+Réponse. - La circulaire no NOR/INT/D/97/00104/C du 24 juin 1997, à laquelle fait référence l'honorable parlementaire, permet à certaines catégories d'étrangers en situation irrégulière de demander aux préfets de métropole de procéder à un examen ou réexamen de leur situation. Le nombre de ressortissants étrangers ayant déposé une demande de régularisation de leur situation administrative est de l'ordre de 150 000 à la date du 31 octobre 1997. Le nombre de personnes qui ont pu bénéficier d'une admission exceptionnelle au séjour est, à cette même date, de l'ordre de 5 000. A ce chiffre il convient d'ajouter près de 12 600 récépissés de demande de titre de séjour qui doivent normalement déboucher sur la délivrance d'un titre, une centaine d'autorisations provisoires de séjour et un millier de bénéficiaires du regroupement familial sur place. Le Gouvernement n'entend pas procéder à la régularisation systématique de tous les étrangers séjournant irrégulièrement en France mais remédier à des situations individuelles inextricables ou humainement difficiles (époux qui ne pouvaient vivre ensemble, parents séparés de leurs enfants, personnes en situation irrégulière mais protégées par la loi contre une mesure d'éloignement en raison de leur situation personnelle ou familiale, etc.). C'est pourquoi, lorsque la délivrance d'un titre de séjour ne sera pas possible, au vu des dossiers des intéressés, les représentants de l'Etat dans les départements prendront, à leur encontre, une décision motivée de refus de séjour suivie d'une invitation à quitter le territoire. Les ressortissants étrangers dont l'admission exceptionnelle au séjour aura été refusée pourront bénéficier du programme d'aide à la réinsertion dans leur pays, mis en oeuvre par l'office des migrations internationales (OMI).
