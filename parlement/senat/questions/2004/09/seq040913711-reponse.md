@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040913711
+
+- Question : [SEQ040913711](seq040913711.md) — Brevet d'invention communautaire
+
+## Réponse
+
+*Industrie, JO du 2005-01-13, page 115*
+
+La France regrette en effet vivement que l'accord politique intervenu en mars 2003 n'ait pas pu, à ce jour, se traduire par l'adoption d'un projet de règlement. Il a été pris bonne note de la suggestion de compromis concernant la question des traductions qui consisterait à ne procéder à une traduction complète du brevet (revendications et description de l'invention) que dans un nombre limité de langues (cinq ou six). Cette suggestion ne répond toutefois pas aux difficultés actuelles qui portent sur le délai de traduction des revendications dans toutes les langues officielles de la communauté après la délivrance du brevet et sur la valeur juridique des traductions ainsi opérées, sachant que la traduction des revendications doit dans tous les cas être assurée dans les trois langues officielles de l'Office européen des brevets (OEB) dès la phase de la procédure d'examen. En augmentant le nombre de traductions de l'intégralité du brevet et des langues pivots, elle réduirait l'intérêt du brevet communautaire pour les entreprises et diluerait la place relative de la langue française qui est l'une des trois langues officielles de l'OEB. La France joue un rôle actif pour rechercher un accord rapide sur le brevet communautaire, qui est un élément important de la stratégie de Lisbonne. Le Gouvernement est soucieux d'envisager toute évolution du droit des brevets avec la volonté d'améliorer la compétitivité de nos entreprises, tout en veillant au respect de la langue française. Il entend intégrer l'ensemble des dimensions de la question avant de retenir les voies les mieux adaptées pour rendre le système de brevets plus efficace au service de l'innovation et des entreprises françaises, en particulier les petites et moyennes entreprises.
