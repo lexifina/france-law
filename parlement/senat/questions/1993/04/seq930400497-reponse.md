@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930400497
+
+- Question : [SEQ930400497](seq930400497.md) — Diversification de l'agriculture aux Antilles
+
+## Réponse
+
+*Départements et territoires d'Outre-mer (DOM-TOM), JO du 1993-07-22, page 1193*
+
+Réponse. - Comme l'indique l'honorable parlementaire, la diversification de l'agriculture des DOM peut valoriser la situation géographique des régions ultramarines grâce à des cultures de contre-saison. Si de telles productions peuvent être aidées au niveau national par l'office de développement de l'économie agricole des départements d'outre-mer (Odeadom), et au plan européen grâce aux dispositions du Poséidom, il n'en demeure pas moins que le choix des productions à promouvoir doit tenir compte de l'existence de marchés porteurs et d'une compétitivité reconnue à la région concernée tant en matière de coût de production qu'en matière de savoir-faire. Ces considérations sont partagées par l'Odeadom ainsi que par la Commission des communautés européennes. En effet, à l'occasion de l'établissement de programmes sectoriels permettant de trouver la meilleure adéquation entre les contraintes économiques et les moyens de l'Odeadom, cet office ne manque pas de financer des audits sur les filières agricoles des DOM. La commission, de son côté, en application de l'article 14 du règlement n° 3763/91 du conseil du 16 décembre 1991 portant mesures spécifiques concernant certains produits agricoles en faveur des DOM, finance à hauteur de 200000 écus une étude économique d'analyse et de prospective sur le secteur des fruits et légumes transformés dans les DOM. Cette étude est en cours de réalisation. Aussi, il ne me semble donc pas opportun d'envisager, pour l'instant, la création d'une mission ad hoc qui ne pourra se justifier et trouver sa meilleure efficacité qu'au vu des résultats de ladite étude.
