@@ -1,0 +1,8 @@
+# 38421 : délibération 21 — Subvention aux colonies de vacances – année 1960
+
+- Collectivité : 38421
+- SIREN : 213804214
+- Code INSEE : 38421
+- Date : 1960-06-09
+- Objet : Subvention aux colonies de vacances – année 1960
+- Jeu de données : https://www.data.gouv.fr/datasets/6580dde723f2191fe975059e
