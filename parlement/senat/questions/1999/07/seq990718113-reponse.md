@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990718113
+
+- Question : [SEQ990718113](seq990718113.md) — Taux de TVA et situation des centres équestres
+
+## Réponse
+
+*Agriculture, JO du 2000-02-03, page 392*
+
+Réponse. - Les personnes qui exercent une activité commerciale sont normalement soumises aux impôts commerciaux (notamment la taxe sur la valeur ajoutée). Dès lors que les sociétés de capitaux, au nombre desquelles figurent les SARL (société à responsabilité limitée), exercent par nature une activité commerciale, la TVA s'applique. Plus généralement, les activités des centres équestres réalisées à titre onéreux entrent dans le champ d'application de la TVA. Toutefois, conformément aux dispositions prévues à l'article 261-7-1º du code général des impôts, les centres équestres constitués sous forme associative peuvent ne pas être soumis aux impôts précités dès lors qu'ils remplissent certaines conditions de gestion désintéressée et d'absence de but lucratif. Les instructions des 15 septembre 1998 (BOI 4H-5-98) et 16 février 1999 (BOI 4H-1-99) ont clarifié les critères d'application du régime fiscal spécifique des associations. De plus, lorsqu'ils sont dispensés sans le concours de salariés par une personne physique rémunérée directement par ses élèves, les cours ou leçons relevant de l'enseignement sportif sont exonéré de TVA en application de l'article 261-4-4ºb du code général des impôts. Demeurent donc soumis à la TVA les centres équestres importants qui présentent un caractères commercial. Les prestations fournies par ces centres sont constituées en grande partie de leçons d'équitation et de location de matériels et de montures qui ne figurent pas parmi les opérations que les Etats membres ont la faculté de soumettre au taux réduit de la TVA, en application de la directive nº 92/77 du 19 octobre 1992. L'application du taux réduit aux activités équestres ne peut donc pas être envisagée.
