@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870907731
+
+- Question : [SEQ870907731](seq870907731.md) — Règlement des dossiers de candidatures de maître d'oeuvre à l'agrément en architecture
+
+## Réponse
+
+*Équipement, JO du 1988-02-11, page 201*
+
+Réponse. -La loi du 3 janvier 1977 sur l'architecture pose le principe de l'intervention obligatoire d'un architecte ou d'un agréé en architecture pour la conception des bâtiments dont la surface hors oeuvre nette dépasse 170 mètres carrés ou 800 mètres carrés hors oeuvre brute lorsqu'il s'agit d'un bâtiment agricole. Afin de permettre aux maîtres d'oeuvre en bâtiment installés avant 1977 de poursuivre leur activité de conception architecturale, la loi sur l'architecture a prévu dans son article 37, alinéas 1 et 2, deux procédures donnant la possibilité à des personnes qui exerçaient avant la publication de cette loi une activité de conception architecturale à titre principal sous leur responsabilité personnelle, d'être inscrites au tableau de l'ordre des architectes sous le titre d'agréé en architecture. 3 700 candidats ont été agréés au titre des deux procédures susvisées et 2 700 dossiers environ restent à examiner qui concernent les personnes qui ont formé un recours contre une décision de refus en première instance. La plupart de ces dossiers ayant été constitués il y a plusieurs années, le ministre de l'équipement, du logement, de l'aménagement du territoire et des transports a demandé aux directeurs départementaux de l'équipement de lui fournir un certain nombre de renseignements sur l'activité professionnelle actuelle de chaque candidat. Ce complément d'information était nécessaire pour mieux apprécier la situation professionnelle des personnes concernées et les conséquences qu'aurait pour celles-ci un refus d'agrément. L'examen des dossiers de recours est en cours. Il est précisé que, pour l'examen de ces dossiers de recours, seuls les critères du 3 janvier 1977 seront appliqués.
