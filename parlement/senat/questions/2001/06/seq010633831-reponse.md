@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010633831
+
+- Question : [SEQ010633831](seq010633831.md) — Inscription consulaire : preuves de la nationalité
+
+## Réponse
+
+*Affaires étrangères, JO du 2001-08-09, page 2594*
+
+Comme l'indique l'article 6 du décret n° 99-176 du 9 mars 1999, l'immatriculation consulaire consiste à inscrire, après justificatifs, sur un fichier qui peut être informatisé, les principaux renseignements concernant l'identité, la nationalité, l'état civil, la situation de famille, la résidence, la profession des intéressés, l'inscription sur les listes électorales du poste et, jusqu'à de vingt-cinq ans, la situation au regard du service national. Par conséquent, les postes diplomatiques et consulaires doivent s'assurer, lors de l'immatriculation, que les documents fournis par les demandeurs permettent de recueillir, sans aucun doute possible, les renseignements concernant notamment l'identité, la nationalité et l'état civil, requis par ce décret. Lorsqu'un doute apparaît sur l'authenticité des documents produits, les postes sont amenés à demander la copie intégrale ou l'extrait de l'acte de naissance du demandeur. Cette exigence, qui peut parfois paraître contraignante, est justifiée par la nécessité de contrôler, avec la plus grande exactitude possible, la réalité de l'état civil et de la nationalité française des personnes demandant leur première immatriculation consulaire. Par la suite, tant lors du renouvellement de l'immatriculation initiale qu'à l'occasion d'une demande de délivrance de carte nationale d'identité ou de passeport, ou encore lors de l'inscription sur les listes électorales du poste, les Français qui ont déjà présenté une copie intégrale ou un extrait de leur acte de naissance pour leur première immatriculation sont effectivement dispensés de fournir de nouveau ce document.
