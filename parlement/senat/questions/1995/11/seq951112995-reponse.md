@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951112995
+
+- Question : [SEQ951112995](seq951112995.md) — Exactitude des informations diffusées sur une chaîne de radio
+
+## Réponse
+
+*Culture, JO du 1996-03-14, page 580*
+
+Réponse. - France Info, actuellement première radio française d'information se devait de mieux faire connaître l'équipe qui la compose ainsi que l'ensemble des programmes et fréquences accessibles. C'est dans ce cadre qu'un dossier de presse a été conçu et entièrement réalisé par le services de Radio France. Seuls l'impression et le façonnage de la plaquette ont été effectués à l'extérieur pour un coût unitaire d'environ 13 francs. Ce chiffre est à comparer avec celui du budget de promotion de France Info qui s'élève à 2,2 MF, mais également avec ceux des grandes radios privées telles qu'Europe no 1 d'un montant de 140 MF ou de RTL d'un montant de 180 MF. Par ailleurs, en ce qui concerne la rigueur de l'information, il convient de préciser que, s'il est en effet regrettable que des erreurs aient pu apparaître lors de la présentation de certains événements, force est de constater que cette situation est très exceptionnelle comparée à l'ensemble des chroniques ou reportages traités et diffusés quotidiennement. C'est également dans un souci de rigueur d'information, mais aussi d'attention à la qualité d'expression orale de ses collaborateurs intervenant à l'antenne, que Radio France consacre chaque année 4,5 p. 100 de sa masse salariale à la formation de l'ensemble de ses personnels. En tout état de cause, même confortée par la progression de ses résultats dont les récents sondages indiquent 11,6 p. 100 en audience cumulée sur le plan national, la chaîne entend poursuivre ses efforts en renforçant sa vigilance professionnelle, base de la confiance que lui témoignent ses auditeurs.
