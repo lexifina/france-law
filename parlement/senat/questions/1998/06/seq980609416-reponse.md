@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980609416
+
+- Question : [SEQ980609416](seq980609416.md) — Politique de sauvegarde et de conservation du Grand Palais
+
+## Réponse
+
+*Culture, JO du 1998-10-15, page 3254*
+
+Réponse. - La restauration du Grand Palais est un objectif prioritaire de la ministre de la culture et de la communication. Une première tranche de travaux a été programmée dans la grande nef et la partie sud du Palais, afin de consolider les fondations et les charpentes métalliques, ainsi que les verrières et toitures. Ce programme a été financé en 1994 à hauteur de 33 MF et de 150 MF en 1998. Le ministère de la culture et de la communication sollicite l'ouverture de 217 MF au titre de cette opération dans le projet de loi de finances pour 1999. Le retard pris dans le démarrage des travaux découle de l'allongement des études préalables rendu nécessaire par l'importance et la complexité de la restauration à entreprendre. L'ensemble des études relatives à la consolidation des fondations et structures ont été aujourd'hui effectuées. Un second programme de travaux, portant sur la restauration de la partie nord, sera financé à partir de l'année 2000 pour un montant de l'ordre de 400 MF. Dans la perspective de la restauration prochaine du Grand Palais, le ministère de la culture et de la communication a engagé une nouvelle réflexion sur l'avenir de cet édifice, et a confié récemment à M. Serge Louveau, ancien secrétaire général de l'établissement public du Grand Louvre, une mission de synthèse sur les éléments juridiques, financiers et domaniaux, ainsi que sur les études déjà réalisées quant à la destination du Grand Palais. Cette mission permettra en particulier d'analyser les problèmes fonciers au regard des textes organisant les rapports de l'Etat avec la ville de Paris, et les conditions d'exploitation les plus favorables au maintien du Grand Palais parmi les lieux les plus prestigieux d'expositions internationales.
