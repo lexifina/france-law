@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930400295
+
+- Question : [SEQ930400295](seq930400295.md) — Nomination des membres du comité des régions
+
+## Réponse
+
+*Affaires européennes, JO du 1993-10-14, page 1891*
+
+Réponse. - Le comité des régions institué par l'article 189 A du traité de l'Union européenne comprendra 189 membres, dont 24 pour chacun des grands Etats membres. Les membres sont nommés pour quatre ans, sur proposition des Etats membres respectifs, par le Conseil statuant à l'unanimité. La présidence danoise a adressé aux Etats membres, au mois d'avril, une lettre leur demandant d'accélérer la désignation des membres qui siègent à ce comité afin que celui-ci puisse exercer les fonctions que lui a conférées le traité sur l'Union européenne dès l'entrée en vigueur de celui-ci. Au vu des informations disponibles sur les procédures de désignation engagées dans les différents Etats membres, le comité des régions devrait être composé d'élus locaux selon les modalités qui varient d'un Etat membre à l'autre. La procédure est achevée aux Pays-Bas et en Allemagne. Aux Pays-Bas, six membres seront proposés par l'association des communes néerlandaises et six membres par l'union des provinces. En Allemagne, seize sièges seront attribués aux Länder, les cinq plus grands d'entre eux bénéficiant de cinq sièges supplémentaires et trois sièges pour les représentants des autres collectivités. La procédure est en cours dans les autres Etats membres. Il est acquis au Royaume-Uni, en Espagne et en Belgique que seul un élu pourra être désigné comme membre du comité des régions. Il en est de même en France où la procédure n'est pas non plus achevée. Les principales associations représentatives d'élus ont été consultées à plusieurs reprises. Le Gouvernement devrait arrêter prochainement par décret les conditions de désignation des vingt-quatre sièges attribués à la France et leur répartition géographique et territoriale.
