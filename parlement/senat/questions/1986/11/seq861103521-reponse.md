@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861103521
+
+- Question : [SEQ861103521](seq861103521.md) — Réception de la télévision dans les hauts cantons du département de l'Hérault et zones d'ombre
+
+## Réponse
+
+*Culture, JO du 1987-10-01, page 1550*
+
+Réponse. -Les zones d'ombre résiduelles de l'Hérault dues aux accidents de relief dans le Nord de ce département préoccupent depuis déjà longtemps les élus locaux ainsi que les responsables de T.D.F. Le recensement actuel fait état d'une vingtaine de zones mal desservies en télévision, la population concernée étant de l'ordre de 5 000 habitants. Fin 1986, deux nouvelles stations de réémission ont été mises en service à Lunas et à Bédarieux. Un troisième site (Saint-Gély-du-Fesc) est en cours de réalisation ; financé par T.D.F. et par les collectivités locales, il devrait être opérationnel fin 1987. Pour les autres zones d'ombre, en ce qui concerne Antenne 2 et F.R. 3, la procédure est définie par la circulaire du Premier ministre du 29 novembre 1983 relative à l'amélioration de la desserte en télévision. C'est dans ce cadre que les communes concernées doivent prendre l'initiative de demander au conseil général de l'Hérault et au conseil régional de Languedoc-Roussillon l'attribution d'un financement sur les crédits de T.D.F. destinés à faire disparaître les zones d'ombre encore existantes. Quant à T.F. 1, il faut noter que les sites de Lunas, Bédarieux et Saint-Gély-du-Fesc en cours d'achèvement avaient été programmés par le cahier des charges applicable après la privatisation de la société. La poursuite de la couverture des zones d'ombre devra résulter de la volonté des nouveaux propriétaires de T.F. 1, en liaison avec les collectivités locales et l'organisme chargé de la diffusion, moyennant l'autorisation de la Commission nationale de la communication et des libertés.
