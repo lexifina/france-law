@@ -1,0 +1,9 @@
+# Réponse à la question SEQ891006598
+
+- Question : [SEQ891006598](seq891006598.md) — Bilan de l'application de la loi " montagne "
+
+## Réponse
+
+*Collectivités territoriales, JO du 1990-06-07, page 1237*
+
+Réponse. - Pendant la période transitoire ayant précédé le renouvellement général des conseils municipaux en 1989 et en application de l'article 66 de la loi n° 85-30 du 9 janvier 1985 qui régit les sections de communes, seules dix-sept préfectures ont été saisies dans leur ensemble de deux cent vingt-huit demandes de constitutions de commissions syndicales. Le tableau ci-joint fait apparaître que les conseils municipaux ont présenté des demandes pour deux cent douze sections. Quant aux électeurs, leurs demandes concernent seize sections. Sept demandes ont été rejetées comme irrecevables. La réforme instituée par la loi précitée du 9 janvier 1985 paraît donc n'avoir suscité qu'un intérêt extrêmement modéré dans les conseils municipaux et auprès des électeurs des sections de communes. Par ailleurs, dans vingt départements (essentiellement dans les départements forestiers) a été doublé le montant du revenu minimal annuel moyen de revenu cadastral des sections, prévu par l'article L. 151-5 et aménagé par le décret du 8 janvier 1988 et au-dessus duquel la commission syndicale peut être constituée. Dans un seul département (l'Aveyron) ce montant a été diminué de moitié. La nouvelle loi n° 90-85 du 23 janvier 1990 a donc tiré les conséquences du bilan de l'application de la loi du 9 janvier 1985 pendant la période transitoire en s'inspirant des dispositions provisoires de son article 66 qui limitait déjà les demandes de constitution de commissions syndicales par rapport aux dispositions prévues de la loi. Le nouveau texte a réservé la constitution des commissions syndicales aux seules sections qui manifestent une vitalité économique et sociale incontestée. Voir tableaux p. 1237 et 1238.
