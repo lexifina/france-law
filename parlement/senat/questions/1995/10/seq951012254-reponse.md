@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951012254
+
+- Question : [SEQ951012254](seq951012254.md) — Projet de rapprochement entre les directions départementales de l'agriculture et de l'équipement
+
+## Réponse
+
+*Agriculture, JO du 1996-02-29, page 468*
+
+Réponse. - Le projet de rapprochement entre les directions départementales de l'agriculture et de la forêt et celles de l'équipement résulte en particulier du rapport sur la déconcentration et la réorganisation de l'administration, qui a conclu à la nécessité d'un " rapprochement fonctionnel " entre les services déconcentrés. En application d'une décision du CIATER, une mission DDAF/DDE a été mise en place, au début de l'année 1995, par les ministères de l'équipement et de l'agriculture, en vue notamment d'explorer les possibilités de coopération et de rapprochement dans des domaines de compétences communes ou complémentaires. Un certain nombre de thèmes ont été identifiés, parmi lesquels peuvent être cités la gestion et le contrôle de la qualité des eaux, la planification et l'utilisation de l'espace, la prévention des risques naturels, le développement local. A l'heure actuelle, la forme la plus aboutie de coopération et de coordination est constituée par la mise en place, à l'initiative des préfets et dans la quasi-totalité des départements, de missions interservices de l'eau, dont le pilotage est assuré, dans 85 p. 100 des cas, par un chef de service ou le directeur de la DDAF. Si certaines missions exercées par les DDAF et les DDE sont complémentaires et nécessitent, de ce fait, la mise en place de modalités particulières de gestion pour répondre aux besoins de lisibilité exprimés par les usagers, les DDAF exercent, en pleine responsabilité, des missions de service public à part entière, dont la légitimité n'est pas remise en cause. Les DDAF sont et doivent rester les interlocuteurs privilégiés des usagers du monde rural, dans l'ensemble de ses dimensions économique, sociale et environnementale.
