@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950410873
+
+- Question : [SEQ950410873](seq950410873.md) — Fusion des responsabilités de délégué du personnel et de représentant des salariés au comité d'entreprise
+
+## Réponse
+
+*Travail, JO du 1996-06-20, page 1536*
+
+Réponse. - L'honorable parlementaire a attiré l'attention du ministre du travail et des affaires sociales sur l'incidence de la nouvelle possibilité, offerte aux entreprises de moins de 200 salariés, de mettre en place des délégués du personnel constituant la délégation du personnel au comité d'entreprise sur le nombre de PME-PMI disposant d'un comité d'entreprise. L'enquête réalisée par la DARES sur les élections d'une délégation unique pour l'année 1994 (" Premières Informations " no 508 du 23 février 1996) a fait apparaître que 80 p. 100 des établissements ayant mis en place ce mode de représentation du personnel disposaient déjà d'un comité d'entreprise. Il faut cependant souligner que, dans 60 p. 100 des cas recensés, cette élection d'une délégation unique a eu lieu dans des entreprises qui ne disposaient jusqu'alors que d'une seule des deux institutions, et, plus précisément que, dans 20 p. 100 des cas recensés, soit plus de 290 sur les 1 455 élections analysées, cette élection concernait des établissements ne disposant pas jusqu'alors de comité d'entreprise ; la délégation du personnel s'y trouve donc désormais investie de l'ensemble des attributions du comité, ce qui constitue indéniablement un résultat tout à fait positif. De plus, si l'enquête n'a pas eu les moyens, pour ces premiers résultats, d'identifier le nombre de ceux qui, pouvant opter pour la délégation unique, ne l'ont pas fait, on peut souligner en revanche un autre aspect de cette nouvelle forme de représentation salariale, qui est l'importance de la mobilisation électorale, le taux de participation dans les PME-PMI à cette occasion ayant dépassé les 67 p. 100.
