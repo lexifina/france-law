@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941208983
+
+- Question : [SEQ941208983](seq941208983.md) — Promotion dans l'ordre national du Mérite du ministère de l'aménagement du territoire et femmes
+
+## Réponse
+
+*Aménagement du territoire, JO du 1995-01-19, page 134*
+
+Réponse. - Le nombre de femmes nommées ou promues dans l'ordre national du Mérite au titre de l'aménagement du territoire apparaît, en effet, peu élevé. Il convient cependant de remarquer que les personnes décorées à ce titre sont essentiellement des élus. Or les plus récentes statistiques montrent que le nombre de femmes exerçant une activité élective reste faible (6,1 p. 100 de femmes élues lors des dernières élections législatives) et reste compris, en pourcentage, dans une fourchette allant de 4,8 p. 100 (élections sénatoriales de 1992) à 29,8 p. 100 (élections européennes de 1994). S'agissant plus particulièrement des élus locaux, qui ont vocation à une décoration dans les deux principaux ordres nationaux, on constate que les taux de féminisation s'élèvent à 17,1 p. 100 pour les élections municipales de 1989, à 5,6 p. 100 pour les élections cantonales de 1992 et à 12,3 p. 100 pour les élections régionales de la même année. Si l'on considère que le taux de femmes décorées dans l'ordre national du Mérite, ces deux dernières années, au titre de l'aménagement du territoire, se situe entre 5,9 p. 100 (promotion de novembre 1994) et 25 p. 100 (promotion de mai 1993), on s'aperçoit que la proportion de femmes ayant bénéficié d'une distinction honorifique correspond sensiblement à celle de leur représentation dans les conseils municipaux, généraux et régionaux. Néanmoins l'égalité de traitement entre les hommes et les femmes demeure un souci permanent du ministère de l'intérieur et de l'aménagement du territoire, et un effort particulier va être consenti en ce qui concerne la répartition des distinctions honorifiques.
