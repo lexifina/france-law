@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000222956
+
+- Question : [SEQ000222956](seq000222956.md) — Calcul de l'attribution de compensation neutralisant les effets de la spécialisation des impôts locaux sur les budgets communaux lors de la création d'une communauté d'agglomérations
+
+## Réponse
+
+*Intérieur, JO du 2000-05-04, page 1606*
+
+Réponse. - L'article 1609 nonies C du code général des impôts qui régit les établissements publics de coopération intercommunale soumis au régime fiscal de la taxe professionnelle unique indique les modalités de calcul de l'attribution de compensation. Cette attribution de compensation est une dépense obligatoire versée par l'établissement public de coopération intercommunale à ses communes membres. Les règles de calcul de cette dernière sont précises et doivent être strictement respectées. Au cas particulier, la commune subit, pour l'année de référence servant au calcul de l'attribution de compensation, une perte de produit de taxe professionnelle par suite de cessation d'activité d'un établissement, établissement qui est racheté l'année suivante. Dans ce cas, la commune voit sa perte de bases de taxe professionnelle compensée par le fonds national de péréquation de la taxe professionnelle, mais l'attribution de compensation que lui verse l'établissement public de coopération intercommunale est diminuée, car la loi ne permet pas de tenir compte de la compensation versée à la commune au titre du fonds national de péréquation de la taxe professionnelle. Néanmoins, l'établissement public de coopération intercommunale à taxe professionnelle unique qui a récupéré les bases de taxe professionnelle de l'établissement l'année suivante peut, dans ce cas, reverser une partie du produit de taxe professionnelle à la commune par le biais de la dotation de solidarité communautaire
