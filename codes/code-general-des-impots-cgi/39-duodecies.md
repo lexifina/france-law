@@ -4,7 +4,7 @@
 
 2. Le régime des plus-values à court terme est applicable :
 
-a. Aux plus-values provenant de la cession d'éléments acquis ou créés depuis moins de deux ans ;
+a. Aux plus-values provenant de la cession d'éléments acquis ou créés depuis moins de deux ans. ((Le cas échéant, ces plus-values sont majorées du montant des amortissements expressément exclus des charges déductibles ainsi que de ceux qui ont été différés en méconnaissance des dispositions de l'article 39 B ;)) (1)(1') (2)
 
 b. Aux plus-values réalisées à l'occasion de la cession d'éléments détenus depuis deux ans au moins, dans la mesure où elles correspondent à des amortissements déduits pour l'assiette de l'impôt. Le cas échéant, ces plus-values sont majorées du montant des amortissements expressément exclus des charges déductibles ainsi que de ceux qui ont été différés en contravention aux dispositions de l'article 39 B;
 
@@ -28,14 +28,22 @@ Pour l'application des dispositions de l'alinéa précédent, les titres reçus 
 
 8. En cas de cession par le prêteur initial de titres qui lui sont restitués à l'issue d'un contrat de prêt mentionné à l'article 31 de la loi n° 87-416 du 17 juin 1987 sur l'épargne, le délai de deux ans prévu aux 2 et 4 s'apprécie à compter de la date de la première inscription à son bilan des titres prêtés.
 
-9. ((Lorsque la vente d'un élément de l'actif immobilisé est annulée ou résolue pendant un exercice postérieur à celui au cours duquel la vente est intervenue, le cédant inscrit à son bilan cet élément ainsi que les amortissements et provisions de toute nature y afférents tels qu'ils figuraient dans ses comptes annuels à la date de la cession.
+9. Lorsque la vente d'un élément de l'actif immobilisé est annulée ou résolue pendant un exercice postérieur à celui au cours duquel la vente est intervenue, le cédant inscrit à son bilan cet élément ainsi que les amortissements et provisions de toute nature y afférents tels qu'ils figuraient dans ses comptes annuels à la date de la cession.
 
-((La somme correspondant au montant de la plus-value à long terme réalisée au titre de la vente de l'élément en cause est admise en déduction directement ou sous forme de provisions, selon le régime applicable aux moins-values à long terme.
+La somme correspondant au montant de la plus-value à long terme réalisée au titre de la vente de l'élément en cause est admise en déduction directement ou sous forme de provisions, selon le régime applicable aux moins-values à long terme.
 
-((Il en est de même en cas de réduction du prix de cession postérieurement à la clôture de l'exercice au cours duquel la cession est réalisée. Dans ce cas, la perte correspondante est soumise au régime des moins-values à long terme dans la limite de la plus-value de cession qui a été considérée comme une plus-value à long terme.
+Il en est de même en cas de réduction du prix de cession postérieurement à la clôture de l'exercice au cours duquel la cession est réalisée. Dans ce cas, la perte correspondante est soumise au régime des moins-values à long terme dans la limite de la plus-value de cession qui a été considérée comme une plus-value à long terme.
 
-((Lorsque la vente ayant donné lieu à la constatation d'une moins-value à long terme est annulée ou résolue, le profit qui en résulte est imposable selon le régime des plus-values à long terme.
+Lorsque la vente ayant donné lieu à la constatation d'une moins-value à long terme est annulée ou résolue, le profit qui en résulte est imposable selon le régime des plus-values à long terme.
 
-((Ces dispositions sont applicables pour la détermination des résultats des exercices clos à compter du 31 décembre 1992)) (M).
+Ces dispositions sont applicables pour la détermination des résultats des exercices clos à compter du 31 décembre 1992 (3).
 
-(M) Modification de la loi.
+((10. Lorsqu'une société ou un organisme qui cesse d'être soumis à l'un des régimes mentionnés au premier alinéa du II de l'article 202 ter cède des éléments de l'actif immobilisé inscrits au bilan d'ouverture du premier exercice ou de la première période d'imposition dont les résultats sont soumis à l'impôt sur les sociétés, le délai de deux ans prévu aux 2 et 4 est apprécié à compter de la date d'ouverture de cet exercice ou de cette période d'imposition. La fraction de la plus-value correspondant aux amortissements visés au deuxième alinéa du II du même article est considérée comme à court terme pour l'application du b du 2)) (1)
+
+(1) Modification de la loi 93-1353.
+
+(1')
+
+(2) Les dispositions de la deuxième phrase du présent a sont applicables pour la détermination des plus-values ou moins-values réalisées au cours des exercices clos à compter du 31 décembre 1993.
+
+(3)

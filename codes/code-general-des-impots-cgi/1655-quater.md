@@ -8,7 +8,7 @@ La société ne peut céder ses stocks qu'à un prix supérieur ou égal au coû
 
 a) Sur injonction du ministre chargé des hydrocarbures, prise en vertu des dispositions réglementaires en vigueur ;
 
-b) Pour ajuster le stock à l'obligation de stockage assurée par la société pour le compte de ses associés.
+b) A la demande du comité professionnel institué en application de l'article 3 de la loi n° 92-1443 du 31 décembre 1992 portant réforme du régime pétrolier.
 
 A quantités constantes, les mouvements du stock, produit par produit, destinés à maintenir sa qualité physique, se font valeur pour valeur.
 
