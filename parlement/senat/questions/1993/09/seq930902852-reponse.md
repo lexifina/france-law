@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930902852
+
+- Question : [SEQ930902852](seq930902852.md) — Rattachement des recettes commerciales et non commerciales accessoires aux recettes agricoles
+
+## Réponse
+
+*Budget, JO du 1994-05-26, page 1286*
+
+Réponse. - l'article 34 de la loi des finances pour 1994 a étendu le régime spécial d'imposition des bénéfices retirés d'activités accessoires défini à l'article 72 bis du code général des impôts aux exploitants agricoles soumis au régime transitoire et prévu que les sociétés civiles au forfait ne soient pas assujetties à l'impôt sur les sociétés dès lors qu'elles respectent les seuils fixés par cet article. Il n'y a pas de différence de traitement des groupements agricoles d'exploitation en commun (GAEC) à cet égard. Cela étant, le plafond de 200 000 F a été adopté à l'unanimité des parlementaires, qui ont souligné la nécessité de fixer un pourcentage et un plafond raisonnables. Le plafond de 200 000 F est particulièrement adapté aux petites exploitations pour lesquelles la diversification des activités est vitale, car elles constituent l'essentiel du tissu de la ruralité qu'il faut sauvegarder. Aller au-delà de ces limites ne serait pas justifié car les exploitations plus importantes qui exercent une véritable pluriactivité tiennent déjà une comptabilité. L'extension de ce régime créerait donc une concurrence déloyale à l'égard des entrepreneurs ruraux non agriculteurs qui exercent les mêmes activités sans bénéficier des mêmes avantages fiscaux. Compte tenu des nouvelles dispositions, la tolérance de 10 p. 100 est rapportée pour les exercices ouverts à compter du 1er janvier 1993, tant pour les exploitants individuels que pour les sociétés agricoles. Enfin, une étude est actuellement menée en vue de rapprocher les règles d'assujettissement à la TVA de celles qui s'appliquent pour le rattachement des recettes commerciales aux bénéfices agricoles.
