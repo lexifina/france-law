@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020137888
+
+- Question : [SEQ020137888](seq020137888.md) — Recrutement des gardiens de police municipale
+
+## Réponse
+
+*Intérieur, JO du 2002-03-28, page 930*
+
+L'article 1er de la loi du 12 juillet 1984 relative à la formation des agents de la fonction publique territoriale a instauré parmi les différentes formations susceptibles d'être mises en oeuvre la formation avant titularisation qui est une obligation prévue par les statuts particuliers de certains cadres d'emplois dont celui des agents de police municipale. L'objectif recherché à travers cette formation est de permettre une meilleure adaptation des agents recrutés aux missions du cadre d'emplois qu'ils intègrent. Si l'utilité de cette formation ne saurait être remise en cause, la question doit néanmoins être posée de l'instauration d'une durée de service minimum dans la collectivité ayant financé la formation. Un dispositif réglementaire de cette nature a d'ores et déjà été mis en place pour le congé de formation, qui correspond à une formation personnelle et non obligatoire dont peuvent bénéficier les agents territoriaux, ainsi que dans le cadre de la formation initiale obligatoire à laquelle sont astreints les sapeurs-pompiers professionnels de catégorie A et B. La réglementation en vigueur prévoit en effet que ces derniers " s'engagent à servir dans la collectivité territoriale qui a pris en charge leur formation, pendant une durée égale à trois fois la durée de leur formation à l'école départementale de sapeurs-pompiers ". Toutefois, afin de ne pas interdire toute possibilité de mobilité pendant cette période, un système de remboursement entre collectivités peut intervenir, la charge de la rémunération versée à l'agent incombant alors au nouvel employeur. C'est en ce sens qu'une réflexion sera prochainement engagée sur le recrutement des agents de police municipale.
