@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030507459
+
+- Question : [SEQ030507459](seq030507459.md) — Avenir du système de bonification des prêts à l'agriculture
+
+## Réponse
+
+*Agriculture, JO du 2003-07-31, page 2463*
+
+Les enveloppes départementales de prêts bonifiés à l'agriculture sont à présent déléguées dans les directions départementales de l'agriculture et de la forêt. Aussi, la remise en cause du dispositif des prêts bonifiés à l'agriculture n'est pas à l'ordre du jour. Ce dispositif nécessitait, cependant, des évolutions pour tenir compte des critiques formulées par la Commission européenne et pour mieux encadrer les dépenses publiques au profit du secteur agricole. Il était indispensable de pérenniser cet instrument efficace pour favoriser la modernisation des exploitations et encourager l'installation des jeunes agriculteurs. Les six banques, déjà habilitées en 2002 et qui s'étaient portées candidates lors du concours d'habilitation tenu le 25 avril 2003, à savoir BNP Paribas, le Crédit mutuel, le CIC, les Banques populaires, le Crédit lyonnais et le Crédit agricole, ont signé la convention les liant à l'Etat et qui leur offre la possibilité de distribuer ces prêts jusqu'en 2006, permettant d'assurer ainsi la continuité dans l'accès aux prêts jusqu'à la fin du plan de développement rural national. Les enveloppes nationales de chacune des catégories de prêt sont reconduites à leur niveau de 2002. Les prêts spéciaux d'élevage et les prêts aux productions végétales spéciales voient leur taux réglementaire passer de 4,5 % à 4 %. Concernant les situations difficiles qui auraient pu naître de la mise en place tardive des prêts bonifiés, des instructions précises sont données aux directions départementales de l'agriculture et de la forêt pour que les jeunes agriculteurs et les coopératives d'utilisation de matériel agricole ne pâtissent pas des difficultés liées à la réforme du dispositif.
