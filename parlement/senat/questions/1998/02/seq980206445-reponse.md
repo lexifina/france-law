@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980206445
+
+- Question : [SEQ980206445](seq980206445.md) — Caisses de retraite des avocats et bâtonniers
+
+## Réponse
+
+*Justice, JO du 1998-10-22, page 3365*
+
+Réponse. - Le mécanisme de compensation institué par la loi nº 74-1094 du 24 décembre 1974 repose sur le principe d'une harmonisation des régimes légaux de base avec le régime général des travailleurs salariés. Il s'inscrit dans le cadre d'une nécessaire solidarité interprofessionnelle, destinée à neutraliser les inégalités démographiques et économiques structurelles. En vertu de ce mécanisme, les travailleurs indépendants, et notamment les avocats, participent, au même titre que les travailleurs salariés, au financement d'un système général de protection sociale reconnu comme l'un des vecteurs essentiels de cohésion sociale. Encore convient-il de préciser qu'en vertu de l'article L. 134-1 du code de la sécurité sociale, la compensation entre l'ensemble des régimes de salariés et les régimes de non-salariés n'a pour objet que de remédier aux seuls déséquilibres démographiques, les capacités de l'ensemble des non-salariés ne pouvant être définies dans les mêmes conditions que celles des salariés. C'est d'ailleurs à ce titre que le régime de base des avocats est confronté à une augmentation des sommes mises à sa charge, augmentation directement proportionnelle à la croissance de la profession et au rapport démographique de six actifs pour un pensionné, qui la caractérise. Certes, un autre mécanisme de compensation pourrait être envisagé. Compte tenu toutefois de la situation particulièrement favorable de la Caisse nationale des barreaux français et des impératifs de solidarité financière, tout nouveau dispositif serait proportionnel à la capacité contributive de la profession. Dans tous les cas, son institution ne pourrait s'envisager que dans le cadre des réflexions relatives à l'avenir des régimes de retraite, engagées par le Gouvernement.
