@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861003006
+
+- Question : [SEQ861003006](seq861003006.md) — Délai de présentation des demandes de pension d'invalidité
+
+## Réponse
+
+*Affaires sociales, JO du 1987-01-29, page 123*
+
+Réponse. -Lorsqu'à l'issue du versement des prestations en espèces de l'assurance maladie, une caisse ne procède pas à la liquidation d'une pension d'invalidité, cela est généralement dû au fait que l'intéressé ne remplit pas les conditions médicales pour y prétendre, mais une omission de la part de la caisse est également possible. En cas d'omission ou si l'intéressé estime que son état de santé ne lui permet pas de reprendre une activité professionnelle normale, il dispose alors d'un délai d'un an pour déposer une demande de pension. Dans le cas d'une personne qui ne reprendrait pas d'activité professionnelle et qui cesserait donc de remplir les conditions pour relever en qualité d'assuré du régime général ou des régimes qui lui sont rattachés, ce délai d'un an correspond à la période durant laquelle il conserve le bénéfice du maintien de ses droits aux prestations des assurances maladie, maternité, invalidité et décès. Passé ce délai, l'intéressé ne peut plus prétendre qu'aux prestations en nature. Ce délai d'un an paraît très suffisant pour qu'une personne, sans activité professionnelle et donc vraisemblablement sans ressources, demande le bénéfice d'une pension d'invalidité. En revanche, si, à l'issue du versement des prestations en espèces de l'assurance maladie, une personne reprend une activité professionnelle même réduite et qu'au bout d'un an son état de santé se dégrade au point de justifier une demande de mise en invalidité, rien ne s'oppose à cette demande dès lors que les conditions médicales sont remplies et qu'elle justifie de la double condition de durée minimale d'immatriculation et de salariat prévu par la réglementation.
