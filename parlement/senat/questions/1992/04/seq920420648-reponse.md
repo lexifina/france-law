@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920420648
+
+- Question : [SEQ920420648](seq920420648.md) — Financement de la dissimulation des réseaux aériens
+
+## Réponse
+
+*Postes, JO du 1992-06-25, page 1453*
+
+Réponse. - France Télécom consent traditionnellement d'importants efforts en faveur de la protection de l'environnement. C'est ainsi que, depuis 1973, sont élaborés, conjointement avec Electricité de France, des programmes annuels d'opérations de dissimulation des lignes aériennes dans les sites protégés et naturels. En outre, plusieurs directions opérationnelles de France Télécom ont signé avec différents partenaires des accords permettant d'exécuter de tels travaux, souvent dans des sites non protégés, en complément aux programmes précités. Tel est notamment le cas de la direction opérationnelle de Lyon qui a signé en 1991 et reconduit en 1992 une convention tripartite avec EDF et le syndicat départemental des collectivités concédantes d'électrification du Rhône (SYDER), par laquelle elle s'engage à effectuer les opérations de dissimulation retenues par un comité de pilotage. Le comité interministériel pour l'aménagement du territoire (CIAT) a décidé le 28 novembre 1991 de consacrer une partie du Fonds d'amortissement des charges d'électrification (FACE) à l'aménagement esthétique des réseaux électriques en zone rurale. D'ores et déjà les différents partenaires (EDF, FACE, France Télécom) se sont concertés afin d'étudier les modalités d'application de cette décision. Le fonds mis à disposition des exploitants de réseaux sera géré conjointement par les ministères de l'agriculture et de la forêt, d'une part, de l'industrie et du commerce extérieur, d'autre part, et les dossiers seront traités au niveau national. Aussi n'est-il pas possible de connaître dès à présent la liste des opérations qui seront retenues pour le département du Rhône.
