@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931203929
+
+- Question : [SEQ931203929](seq931203929.md) — Situation des radios locales
+
+## Réponse
+
+*Communication, JO du 1994-03-03, page 491*
+
+Réponse. - Le Gouvernement a souhaité, tout en réaffirmant le maintien du pluralisme, favoriser la constitution et le développement de groupes de communication capables d'affronter la concurrence internationale, en France comme à l'étranger. La loi qui vient d'être adoptée par le Parlement, modifiant la loi no 86-1067 du 30 septembre 1986, a ainsi allégé les contraintes qui pèsent sur la constitution de réseaux de radiodiffusion afin de donner aux opérateurs nationaux la possibilité d'acquérir une taille économique suffisante pour leur permettre de se battre à armes égales sur le marché européen et international. Cependant, et afin de veiller, conformément à sa mission, au respect des principes d'équilibre et de pluralisme, le Gouvernement est particulièrement attentif au maintien d'un secteur radiophonique local diversifié et puissant. Dans ce cadre, le ministère de la communication a mené avec l'ensemble des organismes professionnels représentatifs des opérateurs radiophoniques et de la presse écrite une concertation approfondie sur les conditions dans lesquelles le marché publicitaire local pouvait être ouvert aux services locaux de radiodiffusion sonore. Le Gouvernement élabore actuellement un décret qui réserve aux seuls opérateurs s'engageant à réaliser et diffuser un certain volume horaire de programmes locaux la possibilité d'avoir accès au marché publicitaire local. Ce décret définira la notion de programme local, fixera précisément les conditions dans lesquelles ces programmes devront être diffusés et arrêtera les modalités de diffusion de la publicité locale.
