@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980910789
+
+- Question : [SEQ980910789](seq980910789.md) — Aides aux commerçants et artisans
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 1999-03-04, page 701*
+
+Réponse. - En l'état actuel de la réglementation, le dispositif de financement particulier à l'artisanat, incluant la possibilité de prêts bonifiés pour faciliter la première installation d'artisans qualifiés et les opérations de mise aux normes, issues de la transposition de directives européennes, est régi par le décret du 15 avril 1983 relatif au crédit à l'artisanat, et par l'arrêté du 25 avril 1997, complété par celui du 15 septembre 1997. Ces deux derniers textes ont été pris suite à l'engagement du Premier ministre le 13 novembre 1996 d'ouvrir une enveloppe de prêts bonifiés au taux de 3,5 %, et d'étendre son bénéfice aux entreprises indépendantes de l'alimentation de détail et de la restauration traditionnelle ayant à financer un programme de mise en conformité avec les règles d'hygiène et de sécurité, validé par les centres locaux d'action qualité. Afin d'accompagner cet élargissement exceptionnel, les crédits budgétaires ont dû être abondés par recours à des ressources spécialement affectées par le FISAC. Une enveloppe de 1,5 milliard de francs est ainsi venue compléter les enveloppes ouvertes par les lois de finances 1997 (1,9 milliard de francs) et 1998 (2,3 milliards de francs), alors que l'enveloppe 1996 n'avait pu s'élever qu'à 1,1 milliard de francs. Pour 1999, il est apparu, compte tenu du niveau actuel des taux d'intérêt, préférable de recenser les prêts bonifiés sur les investissements de mise aux normes et de contrainte liée au passage à l'euro ou à l'an 2000, et de prévoir un mécanisme de garantie aidé par l'Etat permettant un meilleur accès au crédit des TPE, c'est-à-dire toutes les entreprises de moins de 10 salariés. Des négociations sont en cours pour mettre en place ce système de garantie.
