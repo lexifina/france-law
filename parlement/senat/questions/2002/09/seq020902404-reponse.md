@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020902404
+
+- Question : [SEQ020902404](seq020902404.md) — Clarification des relations financières entre la SNCF et l'Etat
+
+## Réponse
+
+*Équipement, JO du 2003-03-27, page 1052*
+
+La SNCF est un établissement public industriel et commercial depuis l'entrée en vigueur de la loi d'orientation des transports intérieurs (LOTI) du 30 décembre 1982. Cet établissement est assujetti à certaines obligations de service public en contrepartie desquelles l'Etat lui octroie des aides conformément aux dispositions communautaires en vigueur. Ces obligations et les compensations qui en découlent sont prévues de manière explicite dans le cahier des charges prévu par l'article 24 de la LOTI et qui a été approuvé par le décret n° 83-817 du 13 septembre 1983 après son adoption par le conseil d'administration de la SNCF du 10 mai 1983. Par ailleurs, l'ensemble des crédits alloués dans le cadre de ce cahier des charges est voté annuellement par le Parlement dans le cadre de l'adoption de la loi de finances. Les crédits alloués à la SNCF concernent ainsi la compensation pour la SNCF du régime particulier de retraite de ses agents, la compensation pour les tarifs sociaux accordés à la demande de l'Etat sur les services d'intérêt national, et enfin la contribution de l'Etat à l'amortissement de la dette qui a été logée au service annexe d'amortissement de la dette (SAAD) en 1991. Le SAAD a été rechargé en 1998. Les subventions d'exploitation au transport combiné seront, à partir de 2003, versés directement aux opérateurs et non plus à la SNCF. Enfin, depuis la loi de finances pour 2003, la contribution de l'Etat aux régions pour les services régionaux de voyageurs figure désormais sur le budget du ministère de l'intérieur, de la sécurité intérieure et des libertés locales.
