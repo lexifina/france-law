@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860702346
+
+- Question : [SEQ860702346](seq860702346.md) — Statut des anciens prisonniers du Vietnam
+
+## Réponse
+
+*Anciens combattants, JO du 1986-09-18, page 1309*
+
+Réponse. -Le Conseil d'Etat, consulté sur la possibilité de reconnaître aux Français prisonniers du Viet-minh entre 1946 et 1954 la qualité de déporté ou d'interné politique prévue par la loi du 9 septembre 1948, a estimé (avis du 12 mars 1957) ne pouvoir lier la période d'hostilité contre le Viet-minh, de 1946 à 1954, à la guerre de 1939-1945, ni recommander par voie de conséquence l'application de la loi précitée aux intéressés. En matière de pensions, les militaires capturés par le Viet-minh bénéficient des dispositions spéciales qui ont été prises pour faciliter la reconnaissance de l'imputabilité de leurs affections à la détention (décrets n° 73-74 du 17 janvier 1973, n° 77-1081 du 20 septembre 1977 et n° 81-315 du 6 avril 1981, validés par la loi n° 83-1109 du 21 décembre 1983 (J.O. du 22 décembre)). Le secrétaire d'Etat aux anciens combattants a décidé la création d'une commission médicale où siégeront des médecins de l'administration et les médecins désignés par différentes associations regroupant les anciens d'Indochine. Cette commission sera appelée à formuler un avis sur une éventuelle pathologie propre aux intéressés concernant les affections suivantes : troubles pulmonaires, autres que tuberculeux, troubles oculaires et auditifs, podalgie, dermatose-parasitose. Elle pourra, en outre, formuler des suggestions sur les séquelles de la captivité dans les camps d'Indochine, qui ne seraient pas prises en compte actuellement dans le cadre des textes précités. Enfin, en ce qui concerne les maladies prévues par les décrets de 1973, 1974, 1977 et 1981, il a été estimé nécessaire de revoir pour les améliorer les conditions de production des constats et les délais imposés.
