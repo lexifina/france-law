@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990718131
+
+- Question : [SEQ990718131](seq990718131.md) — Interdiction des hormones de croissance dans la viande bovine
+
+## Réponse
+
+*Agriculture, JO du 1999-09-30, page 3217*
+
+Réponse. - L'interdiction des hormones en tant qu'activateurs de croissance chez les animaux de boucherie est effective sur le territoire communautaire depuis 1988. L'Union européenne (UE) a maintenu sa position par l'adoption, en 1996, de textes réaffirmant la prohibition des hormones en tant qu'activateurs de croissance et le renforcement de la lutte contre l'usage frauduleux de ces substances. La même année, les Etats-Unis ont engagé une procédure contentieuse auprès de l'Organisation mondiale du commerce (OMC) en contestant les mesures applicables aux importations de viandes bovines provenant des Etats-Unis dans l'UE. L'OMC a conclu que les mesures européennes n'étaient pas suffisamment justifiées par une évaluation des risques. Cependant, l'UE a maintenu sa position, vu l'avis rendu entre-temps par le comité scientifique sur les mesures vétérinaires relatives à la santé publique. Des mesures de rétorsion ont été récemment mises en place sur certains produits européens par les Etats-Unis. Depuis que certaines substances interdites ont été détectées dans des viandes américaines importées, un contrôle de la totalité des viandes provenant des Etats-Unis est effectué à l'importation de manière à s'assurer que ces viandes proviennent d'animaux élevés sans hormones. Par ailleurs, les résultats de plusieurs études scientifiques commandées par la commission sur les risques éventuels liés à l'utilisation d'hormones en tant qu'activateurs de croissance chez les animaux sont attendus pour le début de l'année prochaine. La France soutient la commission sur cette question : en effet, elle a toujours défendu une approche prudente sur cette question et privilégié la précaution en cas de risque pour la santé.
