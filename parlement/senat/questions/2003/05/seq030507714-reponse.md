@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030507714
+
+- Question : [SEQ030507714](seq030507714.md) — Paris Air Show : nouvelle dénomination du salon aéronautique du Bourget
+
+## Réponse
+
+*Coopération, JO du 2003-08-07, page 2530*
+
+L'honorable parlementaire a appelé l'attention du ministre délégué à la coopération et à la francophonie sur la nouvelle dénomination du salon aéronautique du Bourget, " Paris Air Show ", telle qu'elle est apparue dans diverses annonces qui, parallèlement à la dénomination en français " 45e Salon aéronautique ", ont signalé l'événement. Si cet affichage en anglais n'est pas formellement en contradiction avec les dispositions de la loi relative à l'emploi de la langue française en date du 4 août 1994, lesquelles ne concernent pas la désignation de telles manifestations, une dénomination en français eût été toutefois mieux appropriée, s'agissant d'un salon qui présente sur notre territoire des réalisations françaises de haut niveau, concourant à la renommée industrielle de notre pays. Le recours à la langue anglaise, comprise par un nombre important d'habitants de la planète, peut dans certaines circonstances être utile à la compréhension d'une annonce destinée à des visiteurs étrangers, mais il ne se justifie pas dans le cas du 45e Salon aéronautique du Bourget, manifestation connue sous ce nom depuis près d'un demi-siècle et fréquentée par de très nombreux francophones. Désigner le salon du Bourget par des termes français ne peut que valoriser, à l'occasion de la présentation des productions de notre industrie aéronautique, le savoir-faire, la technologie et l'image moderne propres à notre pays. A ces fins, le ministre délégué à la coopération et à la francophonie s'emploie, en étroite liaison avec le ministre de la défense qui participe au parrainage du salon du Bourget, à rechercher avec son collègue le moyen le plus adéquat de sensibiliser la société de communication responsable et l'engager à reconsidérer sa dénomination.
