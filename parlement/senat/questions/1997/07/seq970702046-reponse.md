@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970702046
+
+- Question : [SEQ970702046](seq970702046.md) — Conséquences du passage à la monnaie unique sur la tenue de la comptabilité des entreprises
+
+## Réponse
+
+*Économie, JO du 1997-11-27, page 3293*
+
+Réponse. - Le problème du passage de la comptabilité des entreprises à l'euro est l'une des questions importantes qui a fait l'objet d'un examen approfondi de la part du groupe de travail établi à la demande du directeur du Trésor du ministère de l'économie, des finances et de l'industrie et coprésidé par MM. Creyssel et Simon, respectivement directeur général chargé des affaires économiques et de la coordination stratégique du Conseil national du patronat français et président du comité de pilotage " monnaie unique " de l'Association française des établissements de crédit et des entreprises financières. Lors du comité national de l'euro du 25 juin 1997, présidé par le ministre de l'économie, des finances et de l'industrie, l'existence d'un accord unanime a été constatée pour modifier l'article 16 du code du commerce qui fait obligation aux entreprises d'établir leurs documents comptables en francs, afin de permettre aux entreprises de tenir leur comptabilité en francs ou en euros à partir du 1er janvier 1999. Un projet de loi, incluant une disposition en ce sens, sera soumis dans les prochains mois au Parlement. Les entreprises qui le souhaiteront pourront donc basculer leur comptabilité à l'euro sans avoir, de ce fait, à tenir une double comptabilité à compter du 1er janvier 1999. Le comité national de l'euro a également constaté que la proposition selon laquelle les entreprises qui auront basculé à l'euro avant 2002 devraient se mettre techniquement en mesure, à leurs frais, d'entretenir des relations en francs avec leurs partenaires commerciaux qui le souhaiteront (clients et fournisseurs) fait l'objet d'un consensus.
