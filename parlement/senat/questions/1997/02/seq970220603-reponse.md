@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970220603
+
+- Question : [SEQ970220603](seq970220603.md) — Extension aux jeunes des contrats d'accès à l'emploi destinés aux chômeurs
+
+## Réponse
+
+*Travail, JO du 1997-05-29, page 1592*
+
+Réponse. - Le ministre du travail et des affaires sociales est très soucieux du problème posé par le chômage des jeunes et de la mise en place d'outils aptes à lutter contre ce phénomène. Le contrat d'accès à l'emploi tel qu'il a été expérimenté à Tours et à Saint-Malo et qui aujourd'hui, avec le plein encouragement des pouvoirs publics, a été étendu sur une trentaine d'autres sites est effectivement un dispositif efficace en termes de réinsertion professionnelle. Si le principe sur lequel il repose, à savoir une obligation d'embauche pour une durée minimale de 6 mois après une formation en alternance dans une entreprise, peut fort bien s'appliquer à des jeunes de 18 à 26 ans, ses modalités de financement ne peuvent être conservées s'agissant de bénéficiaires qui n'ont pas travaillé et ne perçoivent pas par conséquent d'allocations de chômage. En effet l'allocation formation reclassement (AFR) servie pendant les 6 premiers mois aux intéressés et qui est financée par l'Etat et par l'UNEDIC, n'est allouée qu'à des demandeurs d'emploi indemnisés au titre de l'allocation unique dégressive (AUD). Pour que les jeunes, non éligibles à l'AFR, titulaires d'un CAE puissent, pendant ces 6 premiers mois percevoir une rémunération de stage, il conviendrait que les régions auxquelles cette compétence appartient, acceptent de prendre en charge le coût de leur rémunération. Dans une telle hypothèse le service public de l'emploi se mobiliserait naturellement pour assurer le bon fonctionnement du dispositif comme il le fait pour les expérimentations en cours au profit de demandeurs d'emploi adultes.
