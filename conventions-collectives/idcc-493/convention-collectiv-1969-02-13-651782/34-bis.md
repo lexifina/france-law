@@ -1,0 +1,91 @@
+# Article 34 BIS
+
+1. Le compte épargne temps (C.E.T.) mis en place sur décision de l'employeur et basé sur le volontariat, a pour but de reporter du temps en vue de financer des congés ultérieurs de longue durée et de permettre l'embauche de salariés temporaires remplaçants.
+
+Il est alimenté par du temps déjà acquis ou par des éléments de rémunération convertis en temps.
+
+Il ne crée pas un nouveau type de congé mais permet le financement de catégories de congés existants ou d'un congé de fin de carrière.
+
+A défaut d'accord d'entreprise ou d'établissement instituant des modalités différentes, le compte d'épargne temps pourra être mis en oeuvre dans les conditions prévues par le présent article.
+
+2. Tous les salariés de l'entreprise sont susceptibles de bénéficier du compte épargne temps (C.E.T.) dès lors qu'ils ont acquis un an d'ancienneté dans l'entreprise.
+
+3. Le compte épargne temps est alimenté, en application de l'article L. 227-1 du code du travail, par :
+
+- le report des congés payés annuels dans la limite de dix jours ouvrables par an ;
+
+- l'affectation des jours de congés supplémentaires pour ancienneté ou des jours de congés supplémentaires attribués au personnel d'encadrement en application de l'article 40 de la convention collective nationale et des annexes I et V ;
+
+- la conversion de tout ou partie des primes conventionnelles en jours de congés supplémentaires (1) ;
+
+- la conversion d'une fraction de l'augmentation individuelle de salaire prévue par un accord de salaires (1) ;
+
+- le repos récupérateur dont le salarié bénéficie et représentant l'équivalent du paiement majoré des heures supplémentaires (code du travail, art. L. 212-5 et art. 34 de la convention collective nationale) ;
+
+- la conversion de tout ou partie des primes d'intéressement en jours de congés supplémentaires dans les conditions prévues par la loi ;
+
+- la conversion de la gratification annuelle (1) prévue par l'article 42 ter de la convention collective nationale ;
+
+- le repos compensateur pouvant être capitalisé dans les conditions et selon les modalités prévues à l'article 34 des annexes I et V de la convention collective nationale.
+
+Une information est donnée au salarié sur la situation de son C.E.T. dès lors qu'il y effectue un versement.
+
+Les droits du salarié inscrits au C.E.T. peuvent faire l'objet d'une majoration par l'employeur. Les modalités de cette éventuelle majoration seront précisées par l'accord d'entreprise ou d'établissement.
+
+Les droits acquis dans le cadre du compte épargne temps sont garantis dans les conditions de l'article L. 143-11-1 du code du travail. L'employeur prendra les mesures nécessaires afin de garantir le paiement de l'indemnité due aux salariés dont le montant des droits précités est supérieur à celui résultant de l'application de l'article L. 143-11-1 ci-dessus.
+
+4. Le compte épargne temps a pour vocation de financer la rémunération de congés en principe sans solde. Tel est le cas du congé parental, du congé pour création d'entreprise et du congé sabbatique prévus respectivement aux articles L. 122-28-1, L. 122-32-12 et L. 122-32-17 du code du travail ; ces congés ne pourront être pris que dans les conditions et selon les modalités légales.
+
+Seule peut être envisagée la prise d'un congé à temps complet et ininterrompu d'une durée d'au moins quatre mois. Si le compte est insuffisamment pourvu au regard de ces quatre mois de congé, l'insuffisance pourra être prise à la demande du salarié au titre de congé sans solde.
+
+Le compte épargne temps peut également servir à la prise d'un congé pour convenance personnelle. Ce congé sera sollicité trois mois à l'avance par écrit, l'employeur devra répondre dans un délai d'un mois à la demande du salarié ; le défaut de réponse de l'employeur vaudra acceptation, tout refus devra être motivé.
+
+Le salarié dont la demande a fait l'objet d'un refus, peut, six mois après la première demande, de nouveau solliciter un congé qui ne peut alors être refusé, sauf circonstances exceptionnelles.
+
+Le compte épargne temps peut être aussi utilisé dans le cadre d'un départ aménagé en retraite, ou d'un congé de fin de carrière d'au moins quatre mois, selon le nombre de jours capitalisés ; il est accordé sans autres conditions sauf à respecter un délai de prévenance :
+
+- de six mois pour le personnel ouvriers et employés ;
+
+- de douze mois pour le personnel d'encadrement.
+
+5. Rémunération du congé :
+
+Les sommes versées au salarié à l'occasion de la prise d'un congé visé au point 4 ci-dessus sont calculées sur la base du salaire normal perçu par l'intéressé au moment de son départ en congé.
+
+Les versements sont effectués mensuellement à moins qu'une autre périodicité ait été convenue entre l'employeur et le salarié au moment du départ.
+
+La rémunération est soumise à cotisations sociales dans les conditions de droit commun.
+
+6. Remplacement :
+
+Pendant l'absence du salarié ayant pris un congé dans le cadre du C.E.T., l'employeur organisera son remplacement suivant la nécessité.
+
+Sauf circonstances exceptionnelles justifiées par la situation de fait, lorsque la durée du congé pris par le salarié est au moins égal à quatre mois, son absence sera récompensée par une embauche temporaire au niveau de l'entreprise ou de l'établissement.
+
+7. Droit à réintégration :
+
+Le contrat de travail est suspendu pendant la durée du congé.
+
+A l'issue de ce congé, le salarié est réintégré dans son précédent emploi. A défaut, il lui sera proposé un emploi similaire assorti d'une rémunération au moins équivalente. Si cela s'avère nécessaire il pourra bénéficier d'une formation de mise à niveau.
+
+8. Absence d'utilisation (ou renonciation à l') des droits à congé :
+
+Tout salarié peut renoncer volontairement à ses droits à congés portés à son C.E.T. et obtenir le versement automatique de l'indemnité correspondante si le montant de ses droits a atteint deux mois. La faculté de déblocage est automatique lorsqu'elle s'inscrit dans le cadre d'une rupture du contrat de travail.
+
+Les droits à congé sont maintenus lorsque le contrat fait l'objet d'un transfert à une autre société du même groupe. Il en sera de même en cas de fusion, d'absorption ou de scission de la société dès lors que les engagements de l'entreprise au regard du compte épargne temps sont effectivement repris par le traité d'apport.
+
+Dans le cas contraire, comme en cas de rupture du contrat de travail ou de renoncement du salarié à la prise d'un congé, l'intéressé a droit au versement d'une indemnité correspondant aux droits acquis au moment de la renonciation ou de la rupture du contrat.
+
+Cette indemnité sera versée en une seule fois :
+
+- soit trois mois après la renonciation à la prise d'un congé ;
+
+- soit dès la fin du contrat de travail en cas de rupture de ce contrat (c'est-à-dire dès la fin du préavis).
+
+9. Les parties signataires s'engagent à faire le point à l'expiration de deux années à compter de la date d'entrée en vigueur du présent accord et à procéder à un bilan des résultats de son application. Elles pourront en fonction de ce bilan procéder à des ajustements conventionnels qu'elles estimeront nécessaires.
+
+(1) La conversion se fait au moment du dépôt, en jours, sur la base du salaire journalier lequel s'obtient en multipliant le taux horaire de l'intéressé par l'horaire journalier moyen.
+
+NOTA :
+
+(1) La conversion se fait au moment du dépôt, en jours, sur la base du salaire journalier lequel s'obtient en multipliant le taux horaire de l'intéressé par l'horaire journalier moyen.
