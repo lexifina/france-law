@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960716603
+
+- Question : [SEQ960716603](seq960716603.md) — Passation des marchés d'achat de machines-outils pour les établissements d'enseignement
+
+## Réponse
+
+*Éducation, JO du 1996-08-29, page 2223*
+
+Réponse. - Les lois de décentralisation ont confié aux collectivités territoriales et aux établissements publics locaux d'enseignement la responsabilité de la gestion des crédits de fonctionnement et d'investissement de l'enseignement du second degré public. Même si parfois, et c'est le cas en l'espèce, l'Etat continue à assurer une mission sur les équipements pédagogiques, c'est chacune des personnes publiques précitées qui assume, y compris en collaboration avec l'Union des groupements d'achats publics (UGAP), l'opportunité des choix réalisés. Les machines-outils, dans leur ensemble, doivent répondre aux exigences du code du travail relatives à la sécurité des utilisateurs et porter la marque de conformité européenne CE. L'UGAP est naturellement conduite à contrôler la conformité aux normes des équipements qu'elle destine à faire figurer dans son catalogue. D'autre part, les établissements de l'enseignement technique peuvent également passer des marchés publics dans le cadre d'appels à la concurrence s'adressant directement aux fournisseurs de machines-outils. Le code des marchés publics reposant sur le respect des principes d'égalité d'accès et de traitement des candidats, toute notion de préférence géographique apparaîtrait contraire à l'esprit de cette réglementation, mais également aux dispositions du traité de Rome modifié. Néanmoins, les gestionnaires des lycées demeurent particulièrement attentifs aux conditions d'attribution des marchés, la sécurité des élèves et des installations étant un domaine sensible. La notion d'entreprise la mieux-disante prend donc tout son sens, la qualité et la sécurité étant des éléments déterminant en matière de jugement des offres.
