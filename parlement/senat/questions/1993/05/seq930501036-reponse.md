@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930501036
+
+- Question : [SEQ930501036](seq930501036.md) — Suite donnée au rapport sur l'européanisation des labels dans l'agroalimentaire
+
+## Réponse
+
+*Agriculture, JO du 1994-07-14, page 1746*
+
+Réponse. - Dans son rapport sur la certification réalisé à la demande des ministres chargés de l'industrie, de l'agriculture et de la consommation, M. Brune avait proposé de limiter l'identification et la certification de la qualité des produits agricoles et alimentaires à quatre outils : l'appellation d'origine contrôlée, le label rouge, la certification de conformité et l'agriculture biologique. Les protections définies par les règlements communautaires relatifs à la protection des indications géographiques et des appellations d'origine et aux attestations de spécificité ne devraient être attribuées qu'aux produits faisant l'objet d'une de ces reconnaissances officielles. Ces propositions ont été reprises dans le cadre d'un projet de loi adopté par le Parlement le 23 décembre 1993 et promulgué le 3 janvier 1964 (loi no 94-2 du 3 janvier 1994, J.O. du 4 janvier). Le dispositif adopté permettra ainsi de protéger au plan communautaire les produits faisant l'objet d'une reconnaissance de qualité officielle. Par ailleurs et conformément aux propositions de M. Brune, la commission nationale des labels et de la certification de conformité sera réorganisée en une section " examen des référentiels " et une section d' " agrément des organismes certificateurs " pour assurer ses missions dans les meilleures conditions. La section " agrément des organismes certificateurs " sera chargée de vérifier l'indépendance, l'impartialité, la compétence et l'efficacité de ces organismes au regard de la réglementation et de la norme EN 45011. Cette réorganisation permettra de favoriser les accords de reconnaissance entre le système français et les systèmes des autres pays européens en conformité avec les normes européennes.
