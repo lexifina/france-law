@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880600397
+
+- Question : [SEQ880600397](seq880600397.md) — Petites communes rurales : organisation des carrières d'emplois communaux
+
+## Réponse
+
+*Intérieur, JO du 1988-09-01, page 964*
+
+Réponse. - L'arrêté du 25 mai 1970 modifié portant réorganisation de carrière de certains emplois communaux fixe les règles d'avancement, au sein d'un même grade, spécifiques aux emplois de catégorie C. Ces règles, dites du chevronnement, on fait l'objet de diverses modifications qui ont progressivement élargi les possibilités de promotion d'un groupe de rémunération au groupe de rémunération supérieur. L'arrêté du 8 octobre 1987, qui avait modifié en dernier lieu l'arrêté du 25 mai 1970, avait ouvert à 50 p. 100 de l'effectif des fonctionnaires remplissant les conditions requises la possibilité de chevronner. Il avait prévu en outre que lorsque cet effectif était inférieur à deux fonctionnaires, le bénéfice du chevronnement était néanmoins possible pour l'agent concerné. Cette disposition était en particulier applicable aux collectivités locales de petite taille. Ces dispositions ont été reprises dans le décret n° 87-1107 du 30 décembre 1987 portant organisation des carrières des fonctionnaires territoriaux, qui se substitue à l'arrêté du 25 mai 1970. En effet, en son article 4, ce décret dispose que : " lorsque la collectivité ou l'établissement n'emploie qu'un fonctionnaire du cadre d'emplois, le bénéfice du classement dans le groupe immédiatement supérieur peut être accordé à ce fonctionnaire. " Ainsi les fonctionnaires territoriaux, qu'ils appartiennent à l'un des cadres d'emplois de la fonction publique territoriale qui ont été publiés, ou qu'ils soient titulaires des emplois prévus par la nomenclature des emplois communaux, bénéficient-ils d'ores et déjà de ce dispositif.
