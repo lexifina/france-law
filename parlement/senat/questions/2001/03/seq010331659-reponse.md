@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010331659
+
+- Question : [SEQ010331659](seq010331659.md) — Subventions accordées à l'association " Terrain d'entente "
+
+## Réponse
+
+*Culture, JO du 2001-05-10, page 1594*
+
+Réponse. - L'association " Terrain d'entente " ne reçoit pas de financement du ministère de la culture et de la communication au titre du fonctionnement. Cependant, a été retenu le principe de soutenir, au titre de l'investissement, l'opération de réinstallation des studios de répétition musicale " Campus " situés au 12bis, rue de Froment à Paris 11e, et gérés par cette association. L'association " Terrain d'entente " fonctionne depuis environ 14 ans et soutient la formation et l'insertion professionnelle des jeunes musiciens. Les studios permettent, à travers des activités de répétition, de mettre en uvre des initiatives originales, intermédiaires entre le secteur associatif, la pratique amateur et les réseaux professionnels et constituent de ce fait une structure expérimentale unique. Dans un contexte parisien où le manque de studios de répétition adaptés et spacieux se fait cruellement sentir, les studios " Campus " occupent un espace de création indispensable. Le coût total de l'opération d'investissement, incluant les aménagements et l'acquisition des bâtiments, acquisition pour laquelle les services des domaines ont été consultés, s'est monté à 9 185 900 francs (T.T.C.) (8 434 000 francs H.T.). Le ministère de la culture et de la communication a décidé d'apporter son concours à hauteur de 3 300 000 francs. Sur la subvention de 3,3 millions de francs, au vu des factures acquittées, un montant total de 2 453 759 francs a d'ores et déjà été versé à l'association par le ministère de la culture et de la communication. Les travaux devraient être terminés prochainement. Néanmoins, une partie des studios a d'ores et déjà commencé à fonctionner et l'inauguration du site est prévue pour septembre 2001.
