@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981212780
+
+- Question : [SEQ981212780](seq981212780.md) — Bilan des actions du Centre européen pour les langues vivantes
+
+## Réponse
+
+*Affaires européennes, JO du 1999-01-21, page 177*
+
+Réponse. - Le Centre européen pour les langues vivantes de Graz (Autriche) a été créé, en 1994, sous la forme d'un accord partiel élargi du Conseil de l'Europe. La France fait partie des pays fondateurs avec l'Autriche, la Grèce, le Liechtenstein, Malte, les Pays-Bas, la Slovénie et la Suisse ; depuis, ils ont été rejoints par seize autres Etats. Plusieurs autres pays pourraient prochainement confirmer leur adhésion, ce qui permettrait de porter le nombre d'Etats membres à près des deux tiers des pays membres du Conseil de l'Europe. Le centre a pour missions la mise en uvre de politiques linguistiques et la promotion des innovations dans le domaine de l'apprentissage et de l'enseignement des langues vivantes. Toutes les décisions concernant les contenus et l'organisation sont prises par le comité de direction constitué de vingt-quatre membres, chaque Etat signataire ayant droit à un délégué. Ce comité élit un bureau de cinq membres dont la vice-présidence est assurée par le représentant français. La France contribue au budget de l'accord partiel à hauteur de deux millions de francs - soit vingt pour cent -, ce qui fait de notre pays le plus gros contributeur. La réalisation du programme est assurée par le secrétariat du Centre européen pour les langues vivantes, dont le directeur actuel est de nationalité française. Quinze ateliers et un colloque sont organisés annuellement : un formateur français a participé à chaque atelier en 1997 et en 1998, et, du 9 au 12 décembre 1998, huit Français ont assisté au colloque annuel organisé par le Centre européen pour les langues vivantes en collaboration avec la direction générale XXII de la Commission européenne.
