@@ -1,0 +1,13 @@
+# Réponse à la question SEQ900208460
+
+- Question : [SEQ900208460](seq900208460.md) — Fonctionnement de la centrale nucléaire de Cattenom et observations des communautés européennes
+
+## Réponse
+
+*Industrie, JO du 1990-07-05, page 1487*
+
+Réponse. - La décision de la cour de justice des communautés européennes du 22 septembre 1988 portait sur l'interprétation à donner aux dispositions de l'article 37 du traité instituant la communauté européenne de l'énergie atomique. Cet article prévoit la transmission de tout projet de rejets d'effluents radioactifs à la commission des communautés européennes, et l'émission de l'avis de la commission dans un délai de six mois. L'arrêté concerné par la décision était celui du 21 février 1986 relatif aux rejets d'effluents radioactifs gazeux des tranches 1 et 2 de la centrale. L'interprétation de l'article 37 jusque-là retenue était que la commission devait être saisie du projet pour avis avant intervention des rejets. C'est ainsi que la commission avait été saisie de ce texte le 29 avril 1986. La cour a estimé que cette saisine devait avoir lieu avant la parution de l'arrêté. Le gouvernement français a donc rapporté l'arrêté contesté le 21 octobre 1988 ; il a pris le même jour un nouvel arrêté conforme à l'interprétation nouvelle donnée par la décision de la cour. Il n'a pas reçu depuis cette date de nouvelles observations de la part de la C.E.E.
+
+*Affaires européennes, JO du 1990-08-02, page 1701*
+
+Réponse. - La décision de la cour de justice des communautés européennes du 22 septembre 1988 portait sur l'interprétation à donner aux dispositions de l'article 37 du traité instituant la communauté européenne de l'énergie atomique. Cet article prévoit la transmission de tout projet de rejets d'effluents radioactifs à la commission des communautés européennes, et l'émission de l'avis de la commission dans un délai de six mois. L'arrêté concerné par la décision était celui du 21 février 1986 relatif aux rejets d'effluents radioactifs gazeux des tranches 1 et 2 de la centrale. L'interprétation de l'article 37 jusque-là retenue était que la commission devait être saisie du projet pour avis avant intervention des rejets. C'est ainsi que la commission avait été saisie de ce texte le 29 avril 1986. La cour a estimé que cette saisine devait avoir lieu avant la parution de l'arrêté. Le gouvernement français a donc rapporté l'arrêté contesté le 21 octobre 1988 ; il a pris le même jour un nouvel arrêté conforme à l'interprétation nouvelle donnée par la décision de la cour. Il n'a pas reçu depuis cette date de nouvelles observations de la part de la C.E.E.
