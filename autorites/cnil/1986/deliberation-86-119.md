@@ -1,0 +1,15 @@
+# Délibération relative à la déclaration de modification du système automatisé de gestion des prestations familiales versées par la Caisse d'Allocations Familiales de la Région Parisienne destinée à permettre l'accès par terminaux portables
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 86-119
+- Date : 1986-12-09
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017654768
+
+La Commission Nationale de l'Informatique et des Libertés, Vu la Convention du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ; Vu la loi n° 78-17 du 6 Janvier 1978 relative à l'informatique, aux fichiers et aux libertés, et notamment ses articles 19 et 29 ; Vu le décret n° 78-774 du 17 Juillet 1978 relatif à l'application de la loi susvisée ; Vu l'article 378 du code pénal et l'article 225 du code de la famille et de l'aide sociale sur le secret professionnel ; Vu la déclaration de modification, présentée par la Caisse des Allocations Familiales de la Région Parisienne. relative à l'accès au fichier des comptes allocataires par terminaux portables ; Après avoir entendu Monsieur Roland CADET en son rapport et Madame Charlotte-Marie PITRAT, Commissaire du Gouvernement, en ses observations ;
+
+Considérant que la modification envisagée a pour objet de permettre la consultation à distance, par terminaux portables, de toutes les informations enregistrées dans le fichier des allocataires ; Considérant que les informations seront consultables par les agents de la caisse, qui pourront ainsi notamment fournir des réponses immédiates et personnalisées aux allocataires se rendant dans les permanences qui appartiennent à la caisse ou à des organismes extérieurs ; Considérant qu'une telle finalité est légitime dans la mesure où elle peut permettre d'améliorer le service rendu aux allocataires et le fonctionnement du service public de la protection sociale ; Considérant que les permanences extérieures aux caisses dans lesquelles sont installés les terminaux sont reliées par l'intermédiaire du réseau commuté ; que l'utilisation de terminaux portables et d'un réseau de transmission public comporte un risque de divulgation d'informations nominatives ; Considérant qu'il faut donc envisager des mesures particulières de sécurité afin de garantir la confidentialité des données ainsi transmises, conformément à l'article 29 de la loi du 6 Janvier 1978 ; Considérant que l'accès aux données est contrôlé par une procédure d'identification individuelle des utilisateurs ; Considérant que seuls sont destinataires des données les agents de la caisse d'allocations familiales de la région parisienne, qui sont soumis au secret professionnel et au contrôle de leur supérieur hiérarchique ; Considérant que dès lors le système paraît apporter des garanties suffisantes et permettre le contrôle d'un usage anormal des terminaux portables ;
+
+Emet, dans ces conditions, un AVIS FAVORABLE à la modification qui lui est soumise. Le Président, Jacques FAUVET.
