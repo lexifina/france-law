@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930902607
+
+- Question : [SEQ930902607](seq930902607.md) — Police des ports et des zones de mouillage en période estivale
+
+## Réponse
+
+*Équipement, JO du 1993-11-25, page 2260*
+
+Réponse. - La police des ports de plaisance maritimes relevant des communes ou des départements est de la compétence des maires et des présidents de conseil général. L'exercice de cette police est fréquemment confié à des surveillants de ports, agents auxiliaires de l'Etat, mis à disposition des collectivités locales. L'honorable parlementaire relève l'insuffisance des effectifs de ces personnels, notamment en période estivale. Ces agents de l'Etat sont en nombre certes insuffisant pour permettre le contrôle permanent de la totalité des ports de plaisance, dont un certain nombre ont été créés ou se sont développés postérieurement au transfert de compétences en matière portuaire. Un projet de loi portant réforme de la police portuaire et tendant notamment à tirer les conséquences de la décentralisation des compétences a été adopté en première lecture à l'Assemblée nationale en octobre 1990. Il devrait permettre aux collectivités locales compétentes de confier directement à des personnels territoriaux des fonctions de " surveillants de port " dont les compétences seraient reconnues et qui devraient disposer de pouvoirs leur donnant la possibilité d'assurer efficacement la police des ports décentralisés. Ce texte de loi n'a pu être adopté au cours de la précédente législature, mais devrait être soumis à l'examen du Sénat lors d'une prochaine session. Dans l'attente de la promulgation de cette loi et de ses textes d'application, il est possible pour les collectivités territoriales de confier des missions de surveillance du respect de la réglementation portuaire à du personnel territorial, mais celui-ci ne disposerait pas de l'ensemble des pouvoirs dévolus aux surveillants de port, dans la configuration actuelle ou future.
