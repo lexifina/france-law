@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860400363
+
+- Question : [SEQ860400363](seq860400363.md) — Détermination des crédits affectés aux établissements d'enseignement privés sous contrat: respect d'une décision du Conseil constitutionnel
+
+## Réponse
+
+*Éducation, JO du 1986-08-14, page 1168*
+
+Réponse. -Le Conseil constitutionnel, dans sa décision n° 84-184 D.C. du 29 décembre 1984, déclarant conforme à la Constitution la dernière phrase du paragraphe 1 de l'article 119 de la loi de finances pour 1985 (n° 84-1208 du 29 décembre 1984), a estimé que cet article, en prévoyant qu'aucun contrat nouveau ne peut être conclu que dans la limite des crédits affectés à la rémunération des personnels enseignants des classes sous contrat dont le montant est déterminé chaque année par la loi de finances, ne fait pas obstacle à la modification en cours d'année du montant des crédits par une loi de finances rectificative en cas d'évolution des données qui servent de base à leur calcul, bien qu'il ne prévoit pas expressément l'intervention de cette dernière. L'absence de référence à une loi de finances rectificative dans la circulaire n° 85-103 du 13 mars 1985 ne signifie donc aucunement que cette loi ne peut intervenir, conformément à la réponse publiée au Journal officiel, Sénat, n° 51 du 21 décembre 1985 à la question n° 23-541 du 9 mai 1985 adressée au prédécesseur du ministre de l'éducation nationale. Le principe d'égalité de traitement entre les deux secteurs d'enseignement, public et privé sous contrat, a conduit à la création, dans le cadre de la loi de finances rectificative, de quatre cents emplois nouveaux destinés aux établissements privés pour la rentrée de 1986 ; ceux-ci ont été répartis entre les académies et permettront aux commissaires de la République de signer de nouveaux contrats. L'existence menée de cette loi de finances rectificative et la création des 400 emplois à laquelle elle a procédé est la preuve menée de la démonstration présentée.
