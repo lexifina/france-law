@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960515498
+
+- Question : [SEQ960515498](seq960515498.md) — Responsabilité pénale des maires
+
+## Réponse
+
+*Justice, JO du 1996-08-29, page 2243*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que la loi no 96-393 du 13 mai 1996, relative à la responsabilité pénale pour des faits d'imprudence ou de négligence, est venue préciser les conditions dans lesquelles la faute pénale d'imprudence ou de négligence devait être appréciée par les juridictions répressives. Elle a ainsi modifié la rédaction de l'article 121-3 du code pénal afin d'indiquer que cette faute devait être appréciée in concreto, compte tenu, le cas échéant, de la nature des missions ou des fonctions de l'auteur des faits, de ses compétences ainsi que des pouvoirs et des moyens dont il disposait. En raison de l'indéniable spécificité de la situation des élus locaux, qui ne maîtrisent pas directement les moyens nécessaires à l'exercice de leurs missions et qui sont tenus de respecter le principe de continuité du service public, le législateur a rappelé les termes de cet article 121-3 dans le code général des collectivités territoriales, en ce qui concerne les maires, les présidents de conseils généraux et les présidents de conseils régionaux. Ce rappel montre la volonté du législateur de voir le principe de l'appréciation in concreto de la faute pénale appliqué avec une particulière attention aux élus locaux dont la responsabilité serait recherchée à la suite d'accidents survenus dans leurs circonscriptions, ce qui peut notamment être le cas à la suite de l'autorisation de manifestations folkloriques sur la voie publique, ou de toute autre manifestation. Ces nouvelles dispositions paraissent ainsi exactement répondre aux inquiétudes exprimées par l'honorable parlementaire.
