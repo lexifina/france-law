@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930702265
+
+- Question : [SEQ930702265](seq930702265.md) — Conséquences de la nouvelle politique d'aménagement du territoire par le développement de l'Est du Val-d'Oise
+
+## Réponse
+
+*Intérieur, JO du 1994-04-14, page 896*
+
+Réponse. - L'honorable parlementaire a appelé l'attention du Gouvernement sur les conséquences de la nouvelle politique d'aménagement du territoire pour le développement de la région Est du Val d'Oise. En application des décisions du comité interministériel d'aménagement du territoire du 12 juillet 1993, un meilleur équilibre devra être recherché entre la région Ile-de-France et le reste du territoire national. Dans cette perspective, l'évolution de la population de la région capitale a été globalement revue en baisse. Mais si l'hypothèse démographique a été réduite, le rythme annuel prévu des constructions de logements l'a été dans une proportion moindre afin de satisfaire la demande qui s'exprimera dans les années à venir. Par ailleurs, la maîtrise de la croissance de l'Ile-de-France ne doit pas se traduire par un affaiblissement de son rayonnement notamment dans le cadre européen. Bien au contraire, celui-ci doit être renforcé. C'est ainsi que les opportunités de création d'emplois liées à la fonction transport autour du pôle de Roissy seront encouragées et devraient favoriser le développement de l'Est du Val d'Oise. Les orientations du syndicat intercommunal d'études de ce secteur qui portent sur la nécessité de structurer un tissu urbain hétérogène, sur l'amélioration de la qualité urbaine et la création de centres d'équipements et de services sont compatibles avec les perspectives nationales tracées en Ile-de-France. Le futur schéma directeur de la région Ile-de-France devra en assurer la cohérence. Il appartient cependant aux élus de renforcer la coopération intercommunale autour de leurs propres projets d'aménagement.
