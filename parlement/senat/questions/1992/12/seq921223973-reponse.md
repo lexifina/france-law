@@ -1,0 +1,9 @@
+# Réponse à la question SEQ921223973
+
+- Question : [SEQ921223973](seq921223973.md) — Salon des artistes français
+
+## Réponse
+
+*Éducation, JO du 1993-03-29, page 589*
+
+Réponse. - Contrairement à ce qu'affirme l'Honorable Parlementaire, l'accueil des salons d'artistes et notamment du salon des artistes français dans la nef du Grand Palais fait l'objet de soins attentifs afin de promouvoir la rencontre des créateurs avec leur public. La programmation des manifestations qui se tiennent au Grand Palais permet d'ailleurs d'accueillir un grand nombre de salons d'artistes. Elle est établie en concertation avec le comité de liaison des sociétés, associations et syndicats d'arts graphiques et plastiques et avec les autres utilisateurs du lieu (Fiac, salon du livre, etc.). Seule la densité des manifestations conduit à un calendrier très serré dans lequel il ne peut être accordé aux exposants des durées aussi importantes qu'il le souhaiteraient. S'il est vrai que certaines expositions commerciales ont été déprogrammées du fait des délais trop courts impartis à leur préparation, la non-occupation de la nef du Grand Palais ne se reproduira pas en 1993 excepté pour la période du mois d'août consacrée chaque année aux travaux d'entretien. Il est à noter qu'aucun salon d'artistes n'a été déprogrammé. Ils continuent à bénéficier de conditions financières très favorables. Ceux qui sont programmés pendant l'hiver ne sont pas défavorisés. Les statistiques prouvent au contraire que cette saison connaît précisément la fréquentation la plus importante. Enfin, une réflexion d'ensemble sur les salons d'artistes et les salons commerciaux a été confiée à M. Gérald Gassiot Talabot. Les propositions contenues dans son rapport sont actuellement à l'étude et permettront d'aboutir en concertation avec les professionnels concernés à améliorer les conditions d'exposition offertes aux salons d'artistes tels que le salon d'artistes français.
