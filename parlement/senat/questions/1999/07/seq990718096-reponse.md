@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990718096
+
+- Question : [SEQ990718096](seq990718096.md) — Déconcentration du fonds d'intervention pour la sauvegarde de l'artisanat et du commerce (FISAC)
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2000-06-08, page 2094*
+
+Réponse. - La déconcentration d'une large partie de la procédure d'attribution des subventions du Fonds d'intervention pour la sauvegarde de l'artisanat et du commerce (FISAC) a fait l'objet d'études approfondies pendant plusieurs années. Le principe de déconcentrer ou de déléguer le pouvoir d'accorder des subventions au titre du FISAC détenu par la secrétaire d'Etat aux petites et moyennes entreprises, au commerce, à l'artisanat et à la consommation, ou au moins une partie de celui-ci, est au c ur des travaux menés pour améliorer le fonctionnement de ce fonds. Les solutions juridiques, techniques ou de procédure que soulève une telle démarche sont en cours d'élaboration, le but étant de parvenir en 2001 à donner, par décret, la possibilité aux préfets de procéder à l'attribution de subventions pour certaines catégories d'opérations, par exemple celle des opérations rurales. La compétence ainsi dévolue aux préfets, ayant pour but de rendre plus efficace encore la gestion du FISAC, doit être encadrée afin de veiller à ce que la qualité de la gestion du fonds et l'égalité de traitement des demandeurs soit maintenue. Ce sont principalement les modalités de ce contrôle, la définition précise des catégories d'opération concernées et des méthodes d'évaluation des actions ainsi placées sous la responsabilité des préfets qui font actuellement l'objet de mises au point, afin que la déconcentration recherchée s'effectue dans les meilleures conditions possible et réponde parfaitement à l'objectif recherché de simplification et de rationalisation des procédures d'octroi des subventions FISAC.
