@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990617412
+
+- Question : [SEQ990617412](seq990617412.md) — Aspect juridique des accidents liés à un traumatisme crânien
+
+## Réponse
+
+*Justice, JO du 1999-12-02, page 3977*
+
+Réponse. - Le garde des sceaux, ministre de justice, fait connaître à l'honorable parlementaire qu'il est exact que les dommages corporels subis par les victimes de traumatisme crânien présentent une spécificité en termes tant d'évaluation que de réparation. A cet égard, une formation particulière des médecins à l'expertise apparaît nécessaire. Celle-ci ne cesse de s'améliorer ; ainsi un diplôme inter-universitaire sur le traumatisme crânien a été créé. Certes des améliorations sont encore souhaitables, mais la question relève de la compétence du ministère de l'éducation nationale, de la recherche et de la technologie, dont l'attention a été appelée. La chancellerie a par ailleurs entrepris des réflexions concernant l'établissement et la révision des listes d'experts judiciaires afin d'en accroître encore la qualité et d'en harmoniser la présentation. Il y a toutefois lieu d'observer que la possibilité dont disposent en l'état les experts de s'adjoindre un sapiteur devrait permettre la prise en compte, lors des opérations d'expertise, du handicap particulier dû au traumatisme crânien. En tout état de cause, l'ensemble des questions soulevées par l'indemnisation des personnes cérébro-lésées seront examinées dans le cadre du groupe de travail interministériel consacré à l'indemnisation des victimes qui sera mis en place à la chancellerie à l'automne. Ce groupe ne manquera pas d'entendre toutes les personnes dont l'audition lui apparaîtra utile et de poursuivre ainsi la concertation que la chancellerie a engagée avec l'Union nationale des associations de familles des traumatisés crâniens - dont elle a reçu le président à la fin du printemps dernier - sur les propositions formulées à l'issue de sa dernière assemblée générale.
