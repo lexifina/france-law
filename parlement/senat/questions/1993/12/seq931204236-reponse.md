@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931204236
+
+- Question : [SEQ931204236](seq931204236.md) — Création de places dans les centres d'aide par le travail
+
+## Réponse
+
+*Affaires sociales, JO du 1994-02-17, page 366*
+
+Réponse. - On constate actuellement une demande importante de places en structures spécialisées dans l'accueil des personnes handicapées. Ce besoin trouve essentiellement son origine dans la conjugaison de facteurs structurels, comme la prolongation de la durée de la vie ou l'évolution rapide de notre société, qui rendent l'insertion plus difficile. D'une manière générale, le nombre actuel d'établissements et de places demeure encore insuffisant et le Gouvernement est très préoccupé par ce problème de l'accueil en structure spécialisée. Les évolutions constatées depuis deux décennies rendent indispensable une politique active d'accueil visant à créer des places en nombre suffisant et à se doter des instruments permettant d'améliorer qualitativement le fonctionnement des établissements et services. A ce titre, les redéploiements de moyens, lorsqu'ils sont possibles, ainsi que la mise en oeuvre de programmes pluriannuels de places nouvelles, dans un cadre déconcentré et partenarial, ont constitué les instruments majeurs de l'effort entrepris par les pouvoirs publics en vue d'accroître les capacités existantes. L'analyse des bilans de réalisation des deux plans pluriannuels CAT et MAS, en voie d'achèvement, permettra d'apprécier l'opportunité et l'ampleur des créations de places encore nécessaires dans ce secteur, sachant que le financement de 2 000 places supplémentaires en CAT figure déjà à la loi de finances pour 1994. Enfin, il faut préciser que l'attribution de postes d'instituteurs spécialisés relève, pour l'essentiel, des attributions du ministère de l'éducation nationale.
