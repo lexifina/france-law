@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040612354
+
+- Question : [SEQ040612354](seq040612354.md) — Modification de la législation relative à la création de casinos
+
+## Réponse
+
+*Intérieur, JO du 2004-08-05, page 1793*
+
+Le principe de l'interdiction des jeux de hasard a été posé par la loi du 12 juillet 1983, qui reprenait les termes de l'article 410 de l'ancien code pénal. C'est uniquement par dérogation à ce principe d'interdiction que les casinos sont autorisés par le ministre en charge de l'intérieur, en vertu de la loi du 15 juin 1907 qui a été modifiée, notamment, par l'ordonnance n° 59-67 du 7 janvier 1959 et la loi n° 77-584 du 9 juin 1977. Comme le précise l'honorable parlementaire, ce texte dispose qu'un casino ne peut être implanté que dans une commune classée station balnéaire, thermale ou climatique et au terme d'une procédure de délégation de service public. L'article 57 de la loi n° 88-13 du 5 janvier 1988 a étendu ce dispositif à la ville principale d'une agglomération de plus de 500 000 habitants répondant à des critères d'ordre culturel. Si de nombreuses communes classées sont situées sur le littoral, d'autres le sont dans le monde rural, notamment parmi celles classées stations thermales ou climatiques. C'est notamment le cas dans la région Limousin citée par l'honorable parlementaire, comme l'illustre le cas de la commune d'Evaux-les-Bains, dans la Creuse, classée station thermale en 1935. Cette commune possède d'ailleurs un casino depuis 1999. On peut également noter l'implantation de casinos dans des espaces à dominante rurale, par exemple en Lozère ou dans le Cantal, dans des communes qui ont résolument engagé des politiques de développement touristique à partir de l'obtention d'un classement. Le Gouvernement n'envisage pas de remettre en cause le lien exigé par la réglementation actuelle entre le classement de la station et l'implantation d'un casino mais a lancé une réforme de la procédure et des critères de ce classement.
