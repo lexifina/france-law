@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890805953
+
+- Question : [SEQ890805953](seq890805953.md) — Financement des classes-foot
+
+## Réponse
+
+*Sports, JO du 1990-04-12, page 809*
+
+Réponse. - La réforme des sections sport-études entrera en vigueur à la rentrée scolaire de 1990. L'instruction co-signée par le ministre d'Etat, ministre de l'éducation nationale, de la jeunesse et des sports et le secrétaire d'Etat chargé de la jeunesse et des sports, n° 90047 JS du 7 février 1990, précise les modalités de mise en oeuvre du nouveau dispositif déconcentré des " sections sportives " dans lequel s'inscrira, à compter de la rentrée 1990, la pratique sportive en milieu scolaire. L'instruction n° 90066 JS du 23 février 1990 communique les instructions relatives aux conséquences budgétaires de la mise en oeuvre de ce dispositif. Les moyens déconcentrés sont maintenus et mis à la disposition du directeur régional de la jeunesse et des sports, à savoir : 1° le chapitre 31.91, article 50, destiné à prendre en charge les rémunérations des cadres d'appoint ; 2° le chapitre 34.90, article 50, destiné à prendre en charge les acquisitions de matériel ; 3°le chapitre 36.91, article 30, destiné à prendre en charge les dépenses résultant des suppléments alimentaires. A ces crédits s'ajoutent les moyens qui seront consacrés au suivi médical des élèves des sections sportives dans le cadre de la dotation régionale déléguée au titre du plan de développement régional de la médecine du sport (chapitre 43.91, art. 60). Enfin et par décision de la commission régionale de F.N.D.S., peuvent s'ajouter des crédits issus de la part régionale comme le précise la note d'orientation n° 90007 JS du 9 janvier 1990. Une évaluation annuelle du dispositif régional des sections sportives servira de base à la répartition des moyens qui seront déconcentrés les années suivantes.
