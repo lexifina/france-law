@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021103990
+
+- Question : [SEQ021103990](seq021103990.md) — Dimension humaine des soins
+
+## Réponse
+
+*Santé, JO du 2003-11-13, page 3347*
+
+La réforme de la deuxième partie du deuxième cycle des études médicales, publiée au Journal officiel du 17 octobre 2000, a été conçue en modules thématiques transdisciplinaires, afin de permettre à l'étudiant d'aborder non plus la maladie mais le malade dans l'ensemble de ses caractéristiques et de répondre notamment à la demande d'amélioration de la dimension humaine des soins dans la formation des médecins. Pour chacun de ces thèmes, l'enseignement porte entre autres sur les facteurs psychologiques et d'environnement éventuellement impliqués dans les processus pathologiques en question, les modalités thérapeutiques recommandées, y compris pour la prise en charge de la douleur et les soins palliatifs. A cette fin, le préambule au programme de formation insiste sur l'apprentissage des outils de la relation et de la communication. Ce programme est appliqué aux étudiants s'inscrivant en deuxième partie du deuxième cycle des études médicales depuis la rentrée universitaire 2001-2002. La réforme du premier cycle des études médicales devrait s'inscrire dans le projet de création d'une première année des études de santé, commune à l'ensemble des formations de santé. La commission pédagogique nationale de la première année des études de santé, présidée par le professeur Debouzie, s'est penchée sur le contenu de cette formation et sur les modalités de sélection des étudiants à la fin de cette première année, et notamment sur la nécessité de renforcer dès cette première année la formation aux sciences humaines et sociales. A l'issue des travaux de cette commission, le professeur Debouzie a élaboré un rapport qui a été remis aux ministres chargés de la santé et de l'éducation nationale en septembre 2003.
