@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010231107
+
+- Question : [SEQ010231107](seq010231107.md) — Redéfinition des missions de la politique agricole commune (PAC)
+
+## Réponse
+
+*Agriculture, JO du 2001-06-07, page 1907*
+
+Les décisions prises à Berlin en mars 1999 concernent certaines organisations communes de marché (OCM) agricoles et ont donné un cadre financier global pour 2000-2006. Dans ce cadre, l'agriculture doit respecter deux sous-plafonds : l'un concerne les dépenses de marché, l'autre concerne le développement rural. Pour autant, les crises de sécurité sanitaire des aliments ont montré que nous devions accélérer les évolutions engagées à Berlin visant à renforcer le " deuxième pilier " de la politique agricole commune (PAC). Sans changer les termes du contrat passé avec les agriculteurs, nous devons utiliser toutes les marges de l'agenda 2000 pour marquer cette inflexion, en direction d'une agriculture plus soucieuse des consommateurs. S'agissant de l'élevage en particulier, le Gouvernement a demandé à la Commission d'étudier les modalités permettant de développer la culture des protéines végétales en Europe et d'aider les formes d'élevage extensives. En outre, l'agenda 2000 avait ouvert aux Etats membres la possibilité de " moduler " les aides de marché pour abonder lescrédits consacrés au développement rural. La généralisation de ce dispositif utilisé aujourd'hui par le Royaume Uni, le Portugal et la France, à l'ensemble de l'Union européenne, serait aussi un signal important de notre capacité à faire évoluer la PAC. Le Parlement européen a demandé à plusieurs reprises que les perspectives financières soient revues, afin d'augmenter les crédits prévus pour la politique extérieure. Cependant les Etats membres, au premier rang desquels la France, ainsi que la Commission ont toujours soutenu qu'il n'était pas opportun de remettre en cause le cadre de Berlin.
