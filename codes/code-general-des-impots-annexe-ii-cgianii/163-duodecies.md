@@ -6,7 +6,7 @@ La déclaration prévue à l'article 235 ter J du code général des impôts doi
 
 2° Le montant brut de la contribution incombant à l'employeur;
 
-3° Le montant des dépenses effectivement consenties en vertu des articles L 950-2 et L 950-6 du code du travail ainsi que le montant correspondant à la fraction de la participation instituée par l'article L. 950-2 du même code dont l'employeur lié par un engagement de développement de la formation est réputé s'acquitter ;
+3° Le montant des dépenses effectivement consenties en vertu des articles L.951-1 et L.951-11 du code du travail ainsi que le montant correspondant à la fraction de la participation instituée par l'article L. 951-1 du même code dont l'employeur lié par un engagement de développement de la formation est réputé s'acquitter ;
 
 4° La répartition de ces dépenses selon les catégories suivantes :
 
@@ -28,7 +28,7 @@ Rémunérations versées aux stagiaires par l'entreprise;
 
 Versements effectués au titre de fonds d'assurance formation et versements à un organisme paritaire agréé en application de l'article 235 ter H bis du code général des impôts ;
 
-Versements effectués dans les conditions prévues par l'article L 235-2-4° du code du travail;
+Versements effectués dans les conditions prévues par le 4° de l'article L951-1 du code du travail;
 
 Versements effectués au titre d'une taxe parafiscale affectée à la formation professionnelle;
 
@@ -36,7 +36,7 @@ Versements effectués au titre d'une taxe parafiscale affectée à la formation 
 
 6° Eventuellement, le montant restant à reporter au titre des dépenses effectuées au cours de chacune des trois années précédentes;
 
-7° Le cas échéant, la majoration prévue à l'article 235 ter G du code général des impôts;
+7° Le cas échéant, la majoration prévue au I de l'article 235 ter G du code général des impôts;
 
 8° Le montant total du versement à effectuer à la caisse du comptable des impôts;
 
@@ -54,4 +54,4 @@ c. Par âge ;
 
 d. Par type d'action au sens de l'article L. 900-2 du code du travail ;
 
-12° Le nombre de jeunes travailleurs au sens de l'article L. 931-21 du code du travail qui ont bénéficié d'une formation au cours de l'année.
+12° Le nombre de jeunes travailleurs au sens de l'article L. 931-28 du code du travail qui ont bénéficié d'une formation au cours de l'année.
