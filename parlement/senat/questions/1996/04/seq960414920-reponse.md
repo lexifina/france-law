@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960414920
+
+- Question : [SEQ960414920](seq960414920.md) — Situation financière des télévisions locales diffusant sur le câble
+
+## Réponse
+
+*Économie, JO du 1996-12-26, page 3499*
+
+Réponse. - La diffusion des messages publicitaires télévisés est régie par le décret no 92-280 du 27 mars 1992. Ce texte, dans son article 8, précise les produits et secteurs économiques pour lesquels la publicité télévisée est interdite. Le décret no 92-882 du 1er septembre 1992, fixant le régime applicable aux différentes catégories de services de radiodiffusion sonore et de télévision distribués par câble, prévoit dans son article 10 que les règles applicables à la publicité sur les réseaux câblés sont celles définies par le décret du 27 mars 1992, ce qui exclut donc toute possibilité de publicité à la télévision en faveur du secteur de la distribution sur le territoire métropolitain. Aucun projet de décret modifiant ces dispositions n'est actuellement à l'étude pour permettre la publicité télévisée dans le secteur de la distribution. Au-delà des télévisions locales, la plupart des chaînes thématiques diffusées sur le câble connaît un équilibre financier précaire alors que l'apparition de nouveaux vecteurs de diffusion, notamment le satellite entraîne une multiplication des projets de création de nouvelles chaînes thématiques, renforçant la concurrence existante. En conséquence, toute extension du champ des produits de secteurs économiques dont la publicité est autorisée au profit des télévisions locales entraînerait des demandes reconventionnelles de la part des autres acteurs de ce marché auxquelles il serait difficile de s'opposer. On ne peut donc exclure que la mesure proposée n'entraîne à moyen terme un renforcement de la part de marché de la télévision au détriment de la presse écrite, nationale et régionale.
