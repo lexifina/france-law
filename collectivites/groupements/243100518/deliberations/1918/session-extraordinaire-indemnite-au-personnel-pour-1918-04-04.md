@@ -1,0 +1,7 @@
+# Toulouse métropole : délibération — Session extraordinaire. Indemnité au personnel pour cherté de vie. Dispositions complémentaires p. 77
+
+- Collectivité : Toulouse métropole
+- SIREN : 243100518
+- Date : 1918-04-04
+- Objet : Session extraordinaire. Indemnité au personnel pour cherté de vie. Dispositions complémentaires p. 77
+- Jeu de données : https://www.data.gouv.fr/datasets/56b0c2c1a3a7294d39b88a5b
