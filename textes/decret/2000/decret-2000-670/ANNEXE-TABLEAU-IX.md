@@ -1,8 +1,6 @@
 # Article ANNEXE TABLEAU IX
 
-DÉFINITION DE L'EMPLOI
-
-justifiant de l'obtention de la nouvelle bonification indiciaire
+DÉFINITION DE L'EMPLOI justifiant de l'obtention de la nouvelle bonification indiciaire
 
 1. Agent exerçant des fonctions d'enquêteur spécialisé dans les directions d'enquête à compétence nationale (direction nationale des enquêtes Concurrence et direction nationale des enquêtes Répression des fraudes) et chargé, à ce titre, de missions d'investigation sur l'ensemble du territoire.
 
@@ -14,7 +12,7 @@ justifiant de l'obtention de la nouvelle bonification indiciaire
 
 5. Agent chargé à la direction générale d'un secteur d'activité particulièrement important et exerçant, à ce titre, de façon autonome des fonctions comportant un niveau de responsabilité supérieur à celui normalement dévolu à son grade.
 
-6. Agent exerçant, à titre exceptionnel par rapport aux fonctions normalement dévolues à son grade la responsabilité autonome du contentieux dans un département et habilité, à ce titre, à représenter l'administration auprès des tribunaux.
+6. Agent exerçant, à titre exceptionnel par rapport aux fonctions normalement dévolues à son grade, la responsabilité autonome du contentieux dans un département et habilité, à ce titre, à représenter l'administration auprès des tribunaux.
 
 7. Agent exerçant des fonctions d'inspecteur technique interrégional en matière de vins et spiritueux ou régional en matière de fruits et légumes.
 
@@ -43,3 +41,9 @@ justifiant de l'obtention de la nouvelle bonification indiciaire
 19. Responsable de l'assurance qualité dans les laboratoires de la DGCCRF (mise à jour du manuel qualité, mise en place des plans qualité spécifiques, réalisation périodique des audits qualité des laboratoires, gestion des anomalies et des réclamations).
 
 20. Régisseur d'avances dans un laboratoire.
+
+21. Agent exerçant des fonctions d'enquêteur dans les brigades interrégionales d'enquêtes.
+
+NOTA :
+
+Le décret n° 91-1060 du 14 octobre 1991 est annulé en tant qu'il concerne l'attribution de la nouvelle bonification indiciaire aux emplois comportant l'exercice à temps plein de fonctions itinérantes dans le service de la redevance audiovisuelle.
