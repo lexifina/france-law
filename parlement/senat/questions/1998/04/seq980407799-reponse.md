@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980407799
+
+- Question : [SEQ980407799](seq980407799.md) — " Nouvel habillage " des centrales hydroélectriques
+
+## Réponse
+
+*Économie, JO du 1998-06-18, page 1942*
+
+Réponse. - La question évoque le coût de la réalisation de la nouvelle centrale hydroélectrique d'Albas, sur le Lot, et si d'autres centrales vont être incitées à utiliser les mêmes matériaux, dont le verre. La centrale hydroélectrique d'Albas est équipée de " groupes bulbes ". Cette technique, utilisée pour les basses chutes, consiste à mettre la turbine et la génératrice dans une enceinte étanche noyée dans la veine d'eau. Ainsi, seuls les matériels de conduite, de " contrôle commande " et d'évacuation de l'énergie sont dans les superstructures. Ces matériels doivent être placés à l'abri des plus hautes eaux. La solution technique retenue ici, à savoir surélever la salle de commande sur des piliers, se prêtait bien à l'utilisation de matériaux légers. L'utilisation du verre ne peut être retenue de façon générale en raison de la nécessité de créer, autour des groupes de production, une enceinte de protection acoustique qui évite la propagation du bruit à l'extérieur de l'usine. Dans le cas particulier de la centrale d'Albas, qui existe depuis une trentaine d'années, plusieurs circonstances ont conduit à ce projet : la nécessité pour Electricité de France de moderniser cette installation, la demande des collectivités locales d'améliorer l'intégration de cette usine dans l'environnement et l'existence d'une convention entre Electricité de France et l'ordre des architectes qui prévoit de confier annuellement, après concours, un projet à une jeune architecte de moins de trente-cinq ans. C'est dans le cadre de cette convention que ce projet de construction en verre des superstructures de la centrale a été retenu pour un montant de 2,8 MF.
