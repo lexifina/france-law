@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880700546
+
+- Question : [SEQ880700546](seq880700546.md) — Vocation européenne de la septième chaîne de télévision
+
+## Réponse
+
+*Culture, JO du 1988-12-08, page 1391*
+
+Réponse. - La société d'édition de programmes de télévision (S.E.P.T.) a été créée le 21 février 1986 avec pour objet la production, l'acquisition et la vente d'oeuvres audiovisuelles ou cinématographiques à caractère culturel, dans la perspective tracée par l'article 45 de la loi du 30 septembre 1986, qui prévoit qu'une société nationale de programme peut être chargée de la conception et de la programmation d'émissions de télévision à destination d'un public européen. En attendant l'entrée en service du satellite T.D.F. 1, sur lequel la S.E.P.T. a vocation à être diffusée, celle-ci diffuse régulièrement des programmes à caractère culturel sur l'antenne de FR 3, en vertu d'un accord qui vient d'être reconduit et enrichi. On ne peut donc pour le moment parler d'une " septième chaîne de télévision ", la transformation de la S.E.P.T. en société nationale de programme n'ayant pas été effectuée. L'orientation européenne de la S.E.P.T. se traduit par la participation au comité des programmes de quatre sociétés de télévision européennes. Par ailleurs, des discussions sont en cours avec les autorités allemandes sur le principe et les modalités de création d'une chaîne culturelle franco-allemande. L'évolution de la société vers un statut et une activité de radiodiffuseur est donc conditionnée par la levée prochaine de ces différentes incertitudes. Les moyens financiers qui seront mis à sa disposition en 1989 s'élèveront à 437,4 MF, soit le budget 1988 reconduit (327 MF) auquel s'ajoutent 110,4 MF supplémentaires pour permettre à la S.E.P.T. de poursuivre l'augmentation de son stock de programmes.
