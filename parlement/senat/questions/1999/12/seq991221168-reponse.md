@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991221168
+
+- Question : [SEQ991221168](seq991221168.md) — Création de fonctions de médiateurs dans chaque entreprise de médias
+
+## Réponse
+
+*Culture, JO du 2000-02-24, page 672*
+
+Réponse. - La création de médiateurs, initiative développée par quelques entreprises de presse et de communication audiovisuelle, contribue au respect de l'éthique professionnelle des journalistes et à la réponse des interrogations du public. Dans une perspective d'autorégulation et de responsabilisation, le Gouvernement a manifesté le souhait que des missions de médiation entre les téléspectateurs et les chaînes de télévision soient mises en place au sein des entreprises de l'audiovisuel public pour mieux répondre aux attentes des auditeurs et des téléspectateurs. Au cours de l'année 1998, à la demande de la ministre de la culture et de la communication, des médiateurs ont été nommés par les présidents des chaînes publiques au sein des rédactions et des programmes, afin d'assurer ce travail d'analyse, de suivi et de réflexion. L'attitude du service public de l'audiovisuel pourrait avoir une valeur d'exemple par les autres medias. Une réunion périodique de l'ensemble de ces médiateurs, suggérée par le rapport Charon sur la déontologie des journalistes, permettrait en outre à ces derniers d'échanger leurs expériences et tirer un bilan de leur activité. La proposition du rapport du conseil économique et social tendant à créer un fonds spécial destiné à assurer l'indépendance de ces médiateurs soulève en revanche certaines réticences. En effet, la reconnaissance du médiateur par les journalistes de la rédaction constitue une condition essentielle à l'efficacité de sa fonction. La prise en charge de la rémunération des médiateurs par l'Etat serait susceptible d'entacher leur crédibilité auprès des journalistes.
