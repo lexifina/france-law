@@ -16,11 +16,11 @@ e) plus de 50 % des droits sociaux attachés aux actions ou parts de la sociét�
 
 La condition prévue au premier alinéa n'est pas exigée en cas de souscription au capital d'entreprises solidaires au sens de l'article L. 443-3-1 du code du travail.
 
-II. Les versements ouvrant droit à la réduction d'impôt mentionnée au I sont ceux effectués jusqu'au 31 décembre 2006. Ils sont retenus dans la limite annuelle de 20 000 euros pour les contribuables célibataires, veufs ou divorcés et de 40 000 euros pour les contribuables mariés soumis à imposition commune.(1)
+II. Les versements ouvrant droit à la réduction d'impôt mentionnée au I sont ceux effectués jusqu'au 31 décembre 2006. Ils sont retenus dans la limite annuelle de 20 000 euros pour les contribuables célibataires, veufs ou divorcés et de 40 000 euros pour les contribuables mariés soumis à imposition commune.
 
 La fraction d'une année excédant, le cas échéant, les limites mentionnées au premier alinéa ouvre droit à la réduction d'impôt dans les mêmes conditions au titre des trois années suivantes.
 
-III. Les souscriptions donnant lieu aux déductions prévues au 2° quater de l'article 83, aux articles 163 septdecies et 163 duovicies ou à la réduction d'impôt prévue à l'article 199 undecies A ainsi que les souscriptions financées au moyen de l'aide financière de l'Etat exonérée en application du 35° de l'article 81 n'ouvrent pas droit à la réduction d'impôt mentionnée au I.
+III. Les souscriptions donnant lieu aux déductions prévues au 2° quater de l'article 83, aux articles 163 septdecies et 163 duovicies ou à la réduction d'impôt prévue à l'article 199 undecies A ainsi que les souscriptions financées au moyen de l'aide financière de l'Etat exonérée en application du 35° de l'article 81 et les souscriptions au capital de sociétés uni-personnelles d'investissement à risque visées à l'article 208 D n'ouvrent pas droit à la réduction d'impôt mentionnée au I.
 
 Les actions ou parts dont la souscription a ouvert droit à la réduction d'impôt ne peuvent pas figurer dans un plan d'épargne en actions défini à l'article 163 quinquies D ou dans un plan d'épargne prévu au chapitre III du titre IV du livre IV du code du travail.
 
@@ -30,7 +30,7 @@ Lorsque tout ou partie des actions ou parts ayant donné lieu à la réduction e
 
 Ces dispositions ne s'appliquent pas en cas de licenciement, d'invalidité correspondant au classement dans la deuxième ou la troisième des catégories prévues à l'article L. 341-4 du code de la sécurité sociale ou du décès du contribuable ou de l'un des époux soumis à une imposition commune.
 
-Lorsque le contribuable obtient sur sa demande, pour une souscription, l'application de la déduction prévue à l'article 163 octodecies A, une reprise des réductions d'impôt obtenues pour cette même souscription est pratiquée au titre de l'année de la déduction.
+Lorsque le contribuable obtient sur sa demande, pour une souscription, l'application de la déduction prévue à l'article 163 octodecies A ou opte pour l'exonération mentionnée au 7 du III de l'article 150-0 A, une reprise des réductions d'impôt obtenues pour cette même souscription est pratiquée au titre de l'année de la déduction ou de l'option.
 
 V. Un décret fixe les modalités d'application du présent article, notamment les obligations déclaratives incombant aux contribuables et aux sociétés.
 
@@ -49,7 +49,3 @@ VI bis. - Les dispositions du 1 et du 3 du VI s'appliquent aux souscriptions en 
 Les présentes dispositions ne s'appliquent pas aux parts de fonds d'investissement de proximité donnant lieu à des droits différents sur l'actif net ou sur les produits du fonds, attribuées en fonction de la qualité de la personne.
 
 VII. Un décret fixe les modalités d'application du VI et du VI bis, notamment les obligations déclaratives incombant aux porteurs de parts ainsi qu'aux gérants et dépositaires des fonds.
-
-NOTA :
-
-NOTA : (1) Ces dispositions s'appliquent aux versements réalisés à compter du 1er janvier 2003.

@@ -22,11 +22,11 @@ b) Les vols locaux au sens du 2 de l'article 1er du règlement (CEE) n° 2407/92
 
 II. - Le tarif de la taxe est le suivant :
 
-3,92 euros par passager embarqué à destination de la France ou d'un autre Etat membre de la Communauté européenne ;
+4,48 euros par passager embarqué à destination de la France ou d'un autre Etat membre de la Communauté européenne ;
 
-6,66 euros par passager embarqué vers d'autres destinations ;
+7,60 euros par passager embarqué vers d'autres destinations ;
 
-1,02 euro par tonne de courrier ou de fret embarquée.
+1,17 euro par tonne de courrier ou de fret embarquée.
 
 Le tarif défini ci-dessus pour le fret et le courrier s'applique au tonnage total déclaré par chaque entreprise le mois considéré, arrondi à la tonne inférieure.
 

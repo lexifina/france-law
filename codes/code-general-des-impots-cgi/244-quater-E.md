@@ -26,7 +26,7 @@ Pour le calcul du crédit d'impôt, le prix de revient des investissements est d
 
 L'agrément mentionné au premier alinéa est accordé si l'octroi du crédit d'impôt aux investissements prévus dans le cadre du plan de restructuration présenté par l'entreprise n'altère pas les échanges dans une mesure contraire à l'intérêt commun.
 
-II. - Les dispositions du présent article s'appliquent sur option de l'entreprise à compter du premier jour de l'exercice ou de l'année au titre duquel elle est exercée. Cette option emporte renonciation au bénéfice des régimes prévus aux articles 44 sexies, 208 sexies et 208 quater A. Elle est irrévocable.
+II. - Les dispositions du présent article s'appliquent sur option de l'entreprise à compter du premier jour de l'exercice ou de l'année au titre duquel elle est exercée. Cette option emporte renonciation au bénéfice des régimes prévus aux articles 44 sexies, 44 sexies A, 208 sexies et 208 quater A. Elle est irrévocable.
 
 Lorsque les investissements sont réalisés par les sociétés soumises au régime d'imposition de l'article 8 ou par les groupements mentionnés aux articles 239 quater ou 239 quater C, le crédit d'impôt peut être utilisé par leurs associés, proportionnellement à leurs droits dans ces sociétés ou ces groupements, à condition qu'il s'agisse de redevables de l'impôt sur les sociétés ou de personnes physiques participant à l'exploitation au sens du 1° bis du I de l'article 156.
 
@@ -37,7 +37,3 @@ Toutefois, les dispositions de l'alinéa précédent ne sont pas applicables lor
 Lorsque l'investissement est réalisé par une société soumise au régime d'imposition prévu à l'article 8 ou un groupement mentionné aux articles 239 quater ou 239 quater C, les associés ou membres mentionnés au deuxième alinéa du II doivent, en outre, conserver les parts ou actions de cette société ou ce groupement pendant un délai de cinq ans à compter de la réalisation de l'investissement. A défaut, le crédit d'impôt qu'ils ont imputé fait l'objet d'une reprise au titre de l'exercice ou de l'année de la cession, du rachat ou de l'annulation de ces parts ou actions.
 
 IV. - Les dispositions du présent article s'appliquent aux investissements réalisés à compter du 1er janvier 2002 au cours d'un exercice clos à compter de la date de publication de la loi n° 2002-92 du 22 janvier 2002 relative à la Corse.
-
-NOTA :
-
-NOTA : Ces dispositions s'appliquent aux investissements réalisés à compter du 1er janvier 2002 au cours d'un exercice clos à compter de la date de publication de la loi n° 2002-92 du 22 janvier 2002 relative à la Corse.

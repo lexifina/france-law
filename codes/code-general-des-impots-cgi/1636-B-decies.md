@@ -17,3 +17,9 @@ Pour l'application du b du 1, ainsi que des 2 et 3, du premier alinéa du 4 et d
 Lorsque les taux définis aux 1° et 2° n'ont pas varié l'année précédant celle au titre de laquelle l'établissement public de coopération intercommunale vote son taux de taxe professionnelle ou celui applicable dans la zone d'activité économique, la variation prise en compte est celle constatée au titre de l'antépénultième année.
 
 III. - Pour l'application du 3 du I de l'article 1636 B sexies, le taux de taxe professionnelle à prendre en compte correspond au taux moyen national constaté pour cette taxe l'année précédente pour les communes et leurs établissements publics de coopération intercommunale.
+
+IV. - A compter de 2004, pour les établissements publics de coopération intercommunale visés au II, la différence constatée au titre d'une année entre le taux maximum de taxe professionnelle résultant des dispositions du deuxième alinéa du b du 1 du I de l'article 1636 B sexies et le taux de taxe professionnelle voté conformément à ces mêmes dispositions peut être, sous réserve des dispositions de l'article 1636 B septies, ajoutée, partiellement ou totalement, au taux de taxe professionnelle voté par l'établissement public de coopération intercommunale au titre de l'une des trois années suivantes.
+
+La majoration du taux de taxe professionnelle dans les conditions visées au premier alinéa n'est pas applicable l'année au titre de laquelle l'établissement public de coopération intercommunale fait application des dispositions du 3 ou du 4 du I de l'article 1636 B sexies, du deuxième alinéa ou du dernier alinéa du II du présent article.
+
+Les décisions relatives aux taux transmises aux services fiscaux dans les conditions prévues au I de l'article 1639 A doivent indiquer le montant à reporter conformément au premier alinéa ainsi que les modalités selon lesquelles le taux de l'année est majoré dans les conditions prévues audit alinéa.
