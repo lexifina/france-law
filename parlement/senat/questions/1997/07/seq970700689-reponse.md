@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970700689
+
+- Question : [SEQ970700689](seq970700689.md) — Lutte contre le paracommercialisme
+
+## Réponse
+
+*Intérieur, JO du 1997-10-09, page 2732*
+
+Réponse. - Le ministre chargé du tourisme a engagé en 1995 un plan de résorption du paracommercialisme dans l'économie touristique afin de lutter contre les pratiques commerciales déloyales qui portent gravement atteinte aux professionnels de ce secteur d'activité. En particulier, il a demandé aux préfets d'associer les maires aux actions de contrôle menées par les services de l'Etat dans ce domaine, en raison de la connaissance qu'ils peuvent avoir de la réalité locale de ce phénomène sous ses diverses manifestations, notamment lorsqu'il a pour cadre les salles communales. L'intervention du maire en la matière relève des attributions qu'il exerce au nom de l'Etat en vertu de l'article L. 2122-27 du code général des collectivités territoriales, au titre desquelles il peut être amené à apporter son concours aux administrations de l'Etat. Les imprimés proposés par le ministère du tourisme, que le préfet du Nord a communiqués aux maires à cette fin par circulaire du 2 novembre 1995, ne constituent à cet égard que l'un des éléments concourant à la lutte contre le paracommercialisme. Il n'est pas exclu que des prescriptions générales nouvelles complètent ou se substituent à ce dispositif, en tant que de besoin, dans un deuxième temps. Dores et déjà, l'article 37 de l'ordonnance n° 86-1243 du 1er décembre 1986 interdit à toute personne d'offrir à la vente des produits ou de proposer des services en utilisant, dans des conditions irrégulières, le domaine public de l'Etat, des collectivités locales et de leurs établissements publics. La même interdiction s'applique aux associations lorsque ces activités ne sont pas prévues dans leurs statuts.
