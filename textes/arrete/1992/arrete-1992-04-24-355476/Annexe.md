@@ -28,7 +28,7 @@ Comités locaux des pêches maritimes et des élevages marins de Dunkerque et de
 
 Boulogne-sur-Mer (Pas de Calais) |
 
-20
+26
 
 |
 
@@ -64,7 +64,7 @@ Comités locaux des pêches maritimes et des élevages marins de Saint-Malo, Sai
 
 Rannes (ille-et-Vilaine) |
 
-40
+70
 
 |
 
