@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930702058
+
+- Question : [SEQ930702058](seq930702058.md) — Insuffisance du nombre d'inspecteurs des permis de conduire dans le Pas-de-Calais
+
+## Réponse
+
+*Équipement, JO du 1993-09-16, page 1651*
+
+Réponse. - L'effectif des inspecteurs du permis de conduire et de la sécurité routière est fixé, chaque année, dans le cadre de la loi de finances. Il est rationnellement réparti entre les différentes circonscriptions et toutes dispositions sont prises par le service des examens pour une utilisation optimale de ces personnels. C'est ainsi que le nombre de postes budgétaires d'inspecteurs du permis de conduire, contrairement à l'évolution générale des effectifs dans la fonction publique de l'Etat, non seulement a été maintenu, mais encore a été augmenté de dix unités au budget de 1993. Ainsi, cinquante-quatre inspecteurs ont été affectés dans les circonscriptions au 1er juillet 1993 dont deux dans le Pas-de-Calais, afin d'assurer un fonctionnement satisfaisant du service des examens du permis de conduire. Toutefois, il est exact que des difficultés ont pu être observées au début de l'année 1993 dans le fonctionnement du service des examens du permis de conduire. Toutes les dispositions qu'il a été possible de mettre en oeuvre l'ont été afin d'assurer un fonctionnement convenable du service public. Ainsi, 36 jours de renfort ont été effectués dans le Pas-de-Calais au cours du premier semestre 1993. En tout état de cause, l'examen des indicateurs de gestion montre que pour l'année 1992 et les cinq premiers mois de l'année 1993, le coefficient d'attribution de places d'examen de la catégorie B, dans le département du Pas-de-Calais, a été respectivement de 1,52 et 1,64, aligné sur la moyenne nationale. Cette dotation aurait en conséquence dû permettre aux auto-écoles de fonctionner dans des conditions satisfaisantes.
