@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000424627
+
+- Question : [SEQ000424627](seq000424627.md) — Nouvelles technologies de l'information et de la communication dans l'administration : besoin d'un partage des expériences entre les départements ministériels
+
+## Réponse
+
+*Fonction publique, JO du 2000-09-28, page 3330*
+
+Réponse. - Le déploiement de l'administration électronique requiert à l'évidence une coordination interministérielle renforcée pour favoriser la mise en uvre des chantiers prioritaires, assurer la synergie des services de l'Etat, au niveau central et déconcentré, proscrire les projets redondants et dégager des économies d'échelle. La délégation interministérielle à la réforme de l'Etat (DIRE) et la mission de soutien technique au développement des technologies de l'information dans l'administration (MTIC) sont chargées, depuis 1998, d'assurer cette coordination et de veiller à l'élaboration de systèmes d'information cohérents et interopérables pour l'administration. Grâce à l'édiction régulière de normes et recommandations organisationnelles ou techniques dans les domaines d'intérêt commun, à l'animation de réseaux ou groupes de travail interministériels spécialisés, au suivi permanent des grands chantiers du PAGSI, au pilotage de grands projets structurants, ces deux organismes facilitent l'identification et la mise en valeur des actions les plus intéressantes ainsi que la diffusion des meilleures pratiques au sein des administrations. En outre, par le biais d'instruments financiers appropriés (fonds de réforme de l'Etat, fonds interministériel de modernisation), la DIRE et la MTIC soutiennent chaque année de nombreux projets innovants dans le domaine de la création de systèmes télématiques et de services publics en ligne et contribuent ainsi à développer le partage d'expérience entre les départements ministériels.
