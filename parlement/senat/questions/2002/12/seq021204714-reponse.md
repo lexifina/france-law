@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021204714
+
+- Question : [SEQ021204714](seq021204714.md) — Lutte contre les allergies alimentaires : développement de la recherche de produits de substitution aux allergènes majeurs
+
+## Réponse
+
+*Agriculture, JO du 2003-04-10, page 1233*
+
+L'Agence française de sécurité sanitaire des aliments a rendu public, en janvier 2002, un rapport concernant les allergies alimentaires. Ce rapport dresse un état des lieux des connaissances scientifiques en matière d'allergies et d'intolérances alimentaires et formule des propositions d'orientations en vue de réduire l'incidence et la gravité de ces pathologies. L'Agence préconise notamment, dans le cadre de la prévention primaire des allergies alimentaires, que les industriels de l'agroalimentaire veillent à limiter l'utilisation d'allergènes majeurs dans leurs produits en développant la recherche de substances pouvant s'y substituer. L'utilisation d'allergènes majeurs devrait en effet être évitée lorsque cela est possible, en particulier lorsque l'ingrédient allergène n'est pas caractéristique du produit fini et qu'un ingrédient de substitution existe. Cette substitution devrait également concerner les additifs alimentaires qui, même employés à faible dose, peuvent être à l'origine de réactions allergiques. Bien qu'il existe une vaste gamme d'additifs autorisés, dont une grande partie est obtenue par synthèse, la substitution d'un additif allergène par un autre additif peut toutefois s'avérer techniquement difficile. La recherche de nouveaux additifs de substitution permettrait d'élargir la gamme des additifs disponibles et constituerait une alternative à l'indication systématique des allergènes dans l'étiquetage des denrées alimentaires. Il appartient avant tout aux professionnels concernés de développer ce type de recherche et de solliciter, le cas échéant, le soutien des pouvoirs publics.
