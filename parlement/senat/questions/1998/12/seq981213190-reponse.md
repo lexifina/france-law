@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981213190
+
+- Question : [SEQ981213190](seq981213190.md) — Réflexion sur les missions des secrétaires de mairie
+
+## Réponse
+
+*Fonction publique, JO du 1999-04-08, page 1184*
+
+Réponse. - Il a été indiqué, en effet, qu'une réflexion pourrait être engagée sur les missions, la mobilité et les perspectives d'évolution du cadre d'emplois des secrétaires de mairie, en concertation notamment avec l'Association des maires de France, la situation particulière des secrétaires de mairie ayant été abordée par le rapport que M. Rémy Swartz a remis au ministre de la fonction publique, de la réforme de l'Etat et de la décentralisation, au terme de la mission d'étude qui lui avait été confiée sur le recrutement, la formation et le déroulement de carrière des fonctionnaires territoriaux. Cette réflexion doit se poursuivre en prenant en compte, au-delà de l'avancée significative qu'a constituée la tranformation du cadre d'emplois de secrétaires de mairie en cadre d'emplois de catégorie A en 1995, conformément au protocole Durafour, certaines difficultés persistantes résulant de la nature même de ce cadre d'emplois où la détention du grade correspond à l'exercice d'un seul type de fonctions. C'est ce particularisme qui explique ainsi les limitations que ces agents peuvent rencontrer, notamment au regard de leur mobilité, qui ne leur permettent pas, par exemple, d'être détachés dans d'autres cadres d'emplois de la fonction publique territoriale de catégorie A. De ce point de vue, même si l'accès par la voie de la promotion interne leur est ouvert dans le cadre d'emplois des attachés territoriaux, l'hypothèse d'une intégration des fonctionnaires du cadre d'emplois des secrétaires de mairie dans un autre cadre d'emplois de catégorie A de portée générale constituerait une solution offrant des possibilités de gestion et de déroulement de carrière plus complètes.
