@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880901623
+
+- Question : [SEQ880901623](seq880901623.md) — Reconstitution de carrière des fonctionnaires rapatriés anciens combattants
+
+## Réponse
+
+*Économie, JO du 1989-01-19, page 91*
+
+Réponse. - Le titre Ier de la loi n° 87-503 du 8 juillet 1987 relative à certaines situations résultant des événements d'Afrique du Nord a modifié certaines dispositions de la loi n° 82-1021 du 3 décembre 1982 tendant à réparer les préjudices subis par les fonctionnaires, magistrats et militaires exclus des cadres pour des motifs liés aux événements d'Afrique du Nord ou ayant subi des retards de carrière pour des faits en relation avec la Seconde Guerre mondiale. Les personnes concernées par ces dispositions doivent en faire la demande conformément aux articles 1er et 9 de la loi du 3 décembre 1982 modifiée. Les conditions d'application des lois précitées ont été précisées par une circulaire interministérielle du 25 janvier 1988 publiée au Journal officiel du 29 janvier 1988. L'instruction des demandes déjà déposées auprès des administrations dont dépendent les agents (ou dont ils dépendaient lors de leur cessation d'activité) a pu être retardée du fait des modifications apportées par la loi du 8 juillet 1987 à la loi du 3 décembre 1982, et en raison de la complexité des opérations de révision des situations individuelles, notamment les reclassements prévus à l'article 9 de la loi du 3 décembre 1982 modifiée, qui nécessite le réexamen de la situation des agents depuis les événements de la Seconde Guerre mondiale. Le ministère de l'économie, des finances et du budget étudie avec les départements ministériels siégeant à la commission administratives de reclassement, instituée par l'article 9 de la loi du 3 décembre 1982, les moyens d'accélérer l'instruction des dossiers de demandes présentées aux diverses administrations.
