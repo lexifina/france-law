@@ -460,7 +460,9 @@ ponts et chaussées).
 
 |
 
-Ministère de l'intérieur. |
+Ministère de l'outre-mer.
+
+|
 
 Secrétaires d'administration (en fonctions
 
@@ -472,7 +474,7 @@ Trésor ou des impôts).
 
 Secrétaires administratifs d'administration
 
-centrale. Secrétaires administratifs des
+centrale, secrétaires administratifs des
 
 préfectures et secrétaires administratifs
 
@@ -484,7 +486,9 @@ autres que ceux du Trésor ou des impôts).
 
 |
 
-Secrétaires administratifs. |
+Secrétaires administratifs.
+
+|
 
 Secrétaires administratifs des préfectures.
 
@@ -508,21 +512,19 @@ impôts ou de la justice).
 
 |
 
-Commis des services extérieurs.
+Adjoints administratifs.
 
 |
 
-Commis des services extérieurs. |
+Adjoints administratifs des préfectures. |
 
-Inspecteur adjoint d'hygiène.
-
-|
+Inspecteur adjoint d'hygiène. |
 
 Commis des services extérieurs. |
 
-Commis des services extérieurs. |
+Adjoints administratifs. |
 
-Commis des services extérieurs. |
+Adjoints administratifs des préfectures. |
 
 Commis (en fonctions dans les services
 
@@ -532,11 +534,9 @@ autres que ceux de la justice).
 
 |
 
-Agents de bureau.
+Adjoints administratifs. |
 
-|
-
-Agents de bureau. |
+Adjoints administratifs des préfectures. |
 
 Sous-agents.
 
@@ -544,9 +544,11 @@ Sous-agents.
 
 |
 
-Agents de bureau. |
+Adjoints administratifs. |
 
-Agents de bureau. |
+Adjoints administratifs des préfectures. |
+
+Ministère de l'intérieur. |
 
 Inspecteur de police.
 
@@ -554,17 +556,19 @@ Inspecteur de police.
 
 |
 
-Inspecteur de police. |
+Commandement et encadrement de la
 
-Inspecteur de la police nationale. |
+police.
+
+|
+
+Commandement et encadrement de la
+
+police nationale. |
 
 Officiers de paix. |
 
 |
-
-Officiers de paix. |
-
-Officiers de paix. |
 
 Brigadiers et brigadiers-chefs de police.
 
@@ -572,11 +576,9 @@ Brigadiers et brigadiers-chefs de police.
 
 |
 
-Gradés et gardiens de la paix.
+Maîtrise et application de la police. |
 
-|
-
-Gradés et gardiens de la paix. |
+Maîtrise et application de la police nationale. |
 
 Gardiens de la paix et sous-brigadiers de
 
@@ -585,10 +587,6 @@ police.
 |
 
 |
-
-Gradés et gardiens de la paix. |
-
-Gradés et gardiens de la paix. |
 
 Ministère de la justice.
 
