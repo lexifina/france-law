@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860501089
+
+- Question : [SEQ860501089](seq860501089.md) — Statut de la fonction publique territoriale
+
+## Réponse
+
+*Intérieur, JO du 1986-07-31, page 1092*
+
+Réponse. -Le Gouvernement a décidé, avant de mettre en oeuvre les dispositions relatives à la fontion publique territoriale, de procéder à une large concertation destinée à permettre aux élus comme aux organisations syndicales et professionnelles d'exprimer leur position. Devant les critiques formulées à l'encontre des textes déjà publiés et devant les divergences qui existent sur ce sujet complexe et délicat, il était indispensable en effet de dresser un bilan et d'engager une discussion générale. Ce n'est qu'à l'issue de cette procédure de consultation, dont la table ronde qui s'est tenue le 6 juin 1986 sous la présidence du secrétaire d'Etat chargé des collectivités locales constitue une étape importante, que le Gouvernement se prononcera sur les dispositions et proposera des mesures destinées à améliorer et assouplir le dispositif de la loi du 26 janvier 1984 ainsi que les textes pris pour l'application de celle-ci, et notamment le décret n° 86-479 du 15 mars 1986, sur lequel portent les observations de l'honorable parlementaire concernant les personnels des départements. Dans l'immédiat, et en tout état de cause, le texte précité n'est pas entré en vigueur car il doit être complété par plusieurs textes, relatifs notamment à la formation et au recrutement des agents intéressés, qui n'ont pas encore été pris. Il en est de même du décret n° 86-417 du 13 mars 1986 portant statut particulier des administrateurs territoriaux. Un projet de décret, reportant les délais impartis aux fonctionnaires ayant vocation à bénéficier de la procédure d'intégration pour déposer leur dossier, a été élaboré et est en cours d'examen.
