@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860902590
+
+- Question : [SEQ860902590](seq860902590.md) — Transformation du régime fiscal américain et réforme fiscale
+
+## Réponse
+
+*Budget, JO du 1987-01-08, page 43*
+
+Réponse. -La réforme fiscale américaine, intéressante dans son principe - baisse des taux, élargissement de l'assiette de l'impôt - ne saurait être transposée en France sans tenir compte des spécificités du système fiscal français. Comme la plupart de ses principaux partenaires économiques, la France s'est engagée résolument dans une politique de réduction des prélèvements fiscaux. La loi de finances rectificative pour 1986 du 11 juillet 1986 a déjà supprimé l'impôt sur les grandes fortunes et abaissé le taux de l'impôt sur les sociétés à 45 p. 100 sur la totalité des bénéfices. Cette politique est activement poursuivie dans le cadre du projet de loi de finances pour 1987. Ce texte propose de réduire le taux le plus élevé de l'impôt sur le revenu de 65 p. 100 à 58 p. 100 et de réduire toutes les cotisations de 3 p. 100. Pour les entreprises, il prévoit de réduire les bases de la taxe professionnelle, d'alléger la fiscalité sur le fioul lourd et le gaz naturel et de supprimer rapidement la taxe sur certains frais généraux. Le taux de cette taxe serait ramené de 30 p. 100 à 15 p. 100 dès 1987. La limite d'application de l'abattement de 20 p. 100 accordé aux adhérents de centres de gestion et d'associations agréés serait également relevée de 192 200 francs à 250 000 francs pour l'imposition des revenus de 1986, puis à 320 000 francs pour celle des revenus de 1987. En outre, le Gouvernement a annoncé son intention d'abaisser le taux de l'impôt sur les sociétés à 42 p. 100 dans la loi de finances pour 1988 et de ramener le taux maximum de l'impôt sur le revenu à 50 p. 100 en trois ans. Enfin, le déficit budgétaire sera simultanément réduit afin que l'équilibre, hors charge de la dette, puisse être retrouvé en trois ans.
