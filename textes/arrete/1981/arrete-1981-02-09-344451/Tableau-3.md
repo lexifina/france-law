@@ -12,11 +12,11 @@ dans les groupes
 
 |
 
-Jury du concours d'entrée dans le corps des ingénieurs de l'armement
+Jury pou l'avancement du groupe des ouvriers (Groupes III et IV)
 
 |
 
-I
+V
 
 |
 
@@ -45,14 +45,6 @@ II
 |
 
 Jury d'examen professionnel pour le recrutement, au choix, dans le corps des ingénieurs des études et techniques des travaux maritimes
-
-|
-
-II
-
-|
-
-Jury de sortie de l'école nationale supérieure des ingénieurs des études et techniques d'armement
 
 |
 
@@ -282,14 +274,6 @@ III
 
 |
 
-Jury de concours pour l'admission directe à l'emploi d'agent technique du service hydrographique et océanographique
-
-|
-
-IV
-
-|
-
 Jury de concours pour l'accès au corps des agents techniques de l'électronique
 
 |
@@ -306,14 +290,6 @@ IV
 
 |
 
-Jury du concours d'entrée de l'école technique normale de l'armement
-
-|
-
-IV
-
-|
-
 Jury de sortie de l'école de formation technique normale
 
 |
@@ -322,23 +298,7 @@ IV
 
 |
 
-Jury de l'examen probatoire des agents techniques principaux du service hydrographique et océanographique candidats au grade d'ingénieur des études et techniques des travaux maritimes
-
-|
-
-II
-
-|
-
 Jury de concours pour l'accès au corps des agents des transmissions et de l'électronique
-
-|
-
-IV
-
-|
-
-Jury de concours pour l'accès au corps des techniciens d'exécution
 
 |
 
@@ -440,14 +400,6 @@ IV
 
 |
 
-Jury de concours pour l'accès au corps des caserniers du génie
-
-|
-
-V
-
-|
-
 Jury d'examen professionnel pour la vérification d'aptitude aux fonctions de :
 
 |
@@ -497,5 +449,11 @@ Jury pour l'avancement de groupe des ouvriers du livre (O. S. 1 et O. S. 2)
 |
 
 V
+
+|
+
+Jury d'examen professionnel pour la vérification d'aptitude aux fonctions de chef de projet |
+
+II
 
 |

@@ -244,11 +244,11 @@ IV
 
 |
 
-Préparation aux concours d'accès au corps des techniciens d'exécution
+Préparation pour l'avancement de groupe des ouvriers des professions non graphiques (groupes III et IV)
 
 |
 
-IV
+V
 
 |
 
@@ -265,5 +265,11 @@ Préparation pour l'avancement de groupe des ouvriers du livre (0. S. 1 et O. S.
 |
 
 V
+
+|
+
+Préparation à l'examen professionnel pour la vérification d'aptitude aux fonctions de chef de projet |
+
+II
 
 |

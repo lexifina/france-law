@@ -34,14 +34,6 @@ I
 
 |
 
-Ecole nationale supérieure des ingénieurs des études et techniques d'armement
-
-|
-
-II
-
-|
-
 Ecole nationale supérieure des ingénieurs des constructions aéronautiques
 
 |
@@ -102,11 +94,11 @@ B. - Cycles de formation.
 
 |
 
-Cycles de formation des ingénieurs de l'armement
+Cycles de formation des agents sur contrat de 1er, 2e et 3e catégorie B
 
 |
 
-I
+III
 
 |
 
@@ -180,11 +172,11 @@ I bis
 
 |
 
-Cycles de formation des ingénieurs des études et techniques d'armement
+Cycles de formation des secrétares administratifs
 
 |
 
-II
+III
 
 |
 
@@ -226,11 +218,11 @@ II
 
 |
 
-Cycles de formation des agents supérieurs
+Cycles de formation des infirmiers et infirmières civiles de l'Etat
 
 |
 
-II
+III
 
 |
 
@@ -314,7 +306,7 @@ III
 
 |
 
-Cycles de formation des agents techniques du service hydrographique et océanographique
+Cycles de formation des maîtres ouvriers
 
 |
 
@@ -490,11 +482,11 @@ IV
 
 |
 
-Cycles de formation des techniciens d'exécution et des agents de maîtrise spécialisés
+Cycles de formation des agents de service, agents civils de gardiennage de la marine
 
 |
 
-IV
+V
 
 |
 
@@ -514,11 +506,11 @@ IV
 
 |
 
-Cycles de formation des agents techniques du service de santé des armées
+Cycles de formation des ouvriers professionnels
 
 |
 
-IV
+V
 
 |
 
@@ -592,7 +584,7 @@ IV
 
 |
 
-Cycles de formation des agents de bureau
+Cycles de formation des ouvriers groupes III et IV
 
 |
 
@@ -617,14 +609,6 @@ V
 |
 
 Cycles de formation des ouvriers professionnels des administrations centrales de l'Etat
-
-|
-
-V
-
-|
-
-Cycles de formation des auxiliaires de bureau et de service
 
 |
 
