@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961118921
+
+- Question : [SEQ961118921](seq961118921.md) — Prolifération des cormorans
+
+## Réponse
+
+*Agriculture, JO du 1997-03-20, page 850*
+
+Réponse. - Vous avez appelez mon attention sur les dommages provoqués par la prolifération des cormorans. Je suis intervenu auprès de mon collègue, ministre de l'environnement, pour souligner la gravité du problème posé aux aquaculteurs et lui demander de mettre en oeuvre des mesures plus efficaces pour protéger les régions d'étangs. Le ministre de l'environnement, qui a la charge de ce dossier, a demandé la réalisation d'une mission d'expertise qui vient de déposer ses conclusions dont il ressort que : le rythme observé de croissance des populations de cormorans est actuellement de l'ordre de 15 % par an ; l'impact économique sur la pisciculture extensive d'étangs est reconnu et peut mettre en péril l'avenir des exploitations piscicoles mais que, sur les eaux libres, les auteurs du rapport sont plus nuancés ; que le quota de prélèvement de cormorans, qui était de 5 % l'année dernière dans les régions de piscicultures d'étangs, est passé, cette année, à 10 % et qu'un dépassement de cette limite peut être autorisé localement par le préfet (hors Dombes et Brenne, qui demeurent sans quotas). En ce qui concerne les eaux libres, le ministère de l'environnement envisage de réaliser quelques opérations expérimentales de régulation du cormoran sur des sites naturels ayant une faune piscicole en cours de restauration ou à haute valeur patrimoniale. Les auteurs du rapport d'expertise soulignent qu'il subsiste encore beaucoup d'incertitudes dans la connaissance de la dynamique des populations de cormorans et proposent une gestion adaptative de sa régulation en fonction des comptages réalisés, notamment en janvier 1997, et des résultats des mesures mises en place au cours de l'hiver 1996-1997.
