@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880310015
+
+- Question : [SEQ880310015](seq880310015.md) — Recours pour refus de POS
+
+## Réponse
+
+*Équipement, JO du 1988-05-10, page 677*
+
+Réponse. -Dans les communes non dotées d'un plan d'occupation des sols approuvé, ainsi que dans les cas prévus à l'article 421-2-1, alinéa 4 du code de l'urbanisme, les décisions en matière de permis de construire sont prises au nom de l'Etat, conformément aux dispositions de l'article L. 421-2 de ce code. Dans cette hypothèse, la demande de permis de construire est instruite par le service de l'Etat dans le département, chargé de l'urbanisme, en application de l'article R. 421-25 du même code. Le maire fait connaître son avis au responsable de ce service dans le délai d'un mois à compter de la réception de la demande, conformément à l'article R. 421-26 du code de l'urbanisme. Il s'agit d'un avis simple qui doit être dûment motivé s'il est défavorable ou si, favorable, il est assorti d'une demande de prescriptions particulières. L'article R. 421-36 du code de l'urbanisme prévoit une compétence de droit commun du maire pour les permis de construire délivrés au nom de l'Etat, à l'exception de certains cas énumérés dans cet article où le préfet demeure compétent pour statuer, notamment lorsque le maire et le responsable du service de l'Etat dans le département, chargé de l'urbanisme, ont émis des avis en sens contraire. Dans ce dernier cas, lorsque l'avis du maire n'est pas retenu par le préfet, le maire a évidemment la possibilité de demander à ce dernier les raisons de sa décision : en général, la difficulté est ainsi résolue directement. Le maire dispose également de la possibilité soit d'effectuer un recours gracieux auprès du préfet pour lui demander de réformer sa décision, soit d'adresser un recours hiérarchique au ministre chargé de l'urbanisme, soit de saisir le tribunal administratif d'un recours contentieux selon les voies de droit commun en la matière.
