@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000323856
+
+- Question : [SEQ000323856](seq000323856.md) — Rencontre avec le coordinateur allemand pour les relations franco-allemandes
+
+## Réponse
+
+*Affaires européennes, JO du 2000-04-20, page 1420*
+
+Réponse. - L'honorable parlementaire a bien voulu appeler l'attention du ministre délégué chargé des affaire seuropéennes sur sa rencontre avec le coordinateur allemand pour les relations franco-allemandes. A l'occasion d'un séjour à Paris, Rudolf von Thadden a effectivement rencontré le ministre délégué chargé des affaires européennes. Le nouveau coordinateur allemand a exposé les grandes lignes de l'action qu'il compte mener pour renforcer encore davantage les liens entre Français et Allemands. Comme le sait l'honorable parlementaire, M. von Thadden et son homologue, M. Bord, président de la CICFA (commission interministérielle de coopération franco-allemande), ont été investis lors du sommet franco-allemand de Toulouse, en leur qualité de coordinateurs, d'une mission de rapprochement entre les sociétés civiles. Le ministre délégué chargé des affaires européennes s'est félicité de la nomination, côté allemand, de M. von Thadden dont les qualités personnelles et la contribution à la relation franco-allemande sont reconnus de part et d'autre du Rhin. Il a souligné l'importance que le Gouvernement français attache à la relation franco-allemande, par son exemplarité et par le rôle qu'elle exerce dans l'approfondissement de la construction européenne. Il a enfin rappelé que le caractèr privilégié de la coopération entre la France et l'Allemagne repose non seulement sur l'action des autorités des deux pays, mais se nourrit également de la densité des contacts entre les sociétés civiles française et allemande. Le rôle des deux coordinateurs sera à cet égard déterminant.
