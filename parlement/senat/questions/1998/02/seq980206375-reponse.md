@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980206375
+
+- Question : [SEQ980206375](seq980206375.md) — Police nationale : réforme des sections de nuit
+
+## Réponse
+
+*Intérieur, JO du 1998-04-02, page 1064*
+
+Réponse. - Mise en place au début de l'année 1997, la réforme horaire de la police nationale a retenu très majoritairement pour les unités de roulement un cycle de quatre jours de travail suivis de deux jours de repos, fonctionnant avec trois brigades de journée et une brigade fixe de nuit. Les comités techniques paritaires départementaux de la police nationale ont émis un avis favorable à cette modalité pour plus de 84 % des circonscriptions de sécurité publique. Un tel vote (onze départements l'ayant d'ailleurs effectué à l'unanimité) a été obtenu grâce à la perspective d'un volontariat suffisant pour créer dans chaque circonscription une unité de nuit. Les policiers sont par ailleurs astreints, au nom du principe de continuité du service public et par la nature même de leurs missions, à une disponibilité particulière prévue par leur statut. Ainsi, la réglementation dispose que tout policier peut être maintenu ou rappelé au service. Loin de pouvoir s'exercer de façon systématique, une telle disposition subit les limitations suivantes : tout rappel doit être justifié par les nécessités de service ; il ne peut être procédé à plus de deux reports consécutifs du repos légal hebdomadaire que sur décision ministérielle ; les repos destinés à compenser les heures supplémentaires et les rappels ne peuvent pas être reportés sur l'année suivante, à l'exception d'un volant de trente heures. La nouvelle organisation du travail a donc su concilier les nécessités du service public avec les intérêts des policiers eux-mêmes en limitant la possibilité du rappel et en réglementant strictement les conditions de recours aux heures supplémentaires.
