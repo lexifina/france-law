@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040612653
+
+- Question : [SEQ040612653](seq040612653.md) — Conditions du passage pour une communauté de communes, d'une fiscalité additionnelle à la taxe professionnelle unique
+
+## Réponse
+
+*Intérieur, JO du 2004-09-02, page 2005*
+
+L'article 1609 quinquies du code général des impôts prévoit que le conseil communautaire ayant créé, créant ou gérant une zone d'activités économiques qui se situe sur le territoire d'une ou plusieurs communes membres peut, à la majorité simple de ses membres, décider de se substituer à ces dernières pour la perception de la taxe professionnelle acquittée par les entreprises implantées dans la zone. Les mentions devant figurer dans les statuts d'un établissement public de coopération intercommunale ne sont pas exhaustivement définies. L'article 171 de la loi relative aux libertés et responsabilités locales, actuellement en cours d'examen par le Conseil constitutionnel, prévoit que les statuts doivent mentionner notamment la liste des communes membres de l'établissement, son siège, le cas échéant la durée pour laquelle il est constitué, les modalités de répartition des sièges, le nombre de sièges attribué à chaque commune membre, l'institution éventuelle de suppléants et les compétences transférées à l'établissement. Les statuts de l'établissement peuvent en outre comprendre d'autres précisions parmi lesquelles la perception par l'établissement public de coopération intercommunale d'une taxe professionnelle unique. Toutefois, la possibilité d'instituer une taxe professionnelle unique ressort clairement, conformément au code général des impôts, du conseil communautaire se prononçant à la majorité simple. Il n'est par conséquent pas utile que les communes membres approuvent une modification statutaire traduisant une décision leur échappant. Le cas échéant, la modification statutaire doit être constatée par arrêté du représentant de l'Etat dans le département.
