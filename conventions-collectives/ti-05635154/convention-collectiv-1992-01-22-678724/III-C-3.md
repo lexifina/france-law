@@ -12,7 +12,7 @@ En cas d'absence au travail justifiée par l'incapacité résultant de maladie o
 
 Pour les salariés non cadres après 6 mois d'ancienneté :
 
-- à partir du 11e jour d'absence inclus, 90 p. 100 de la rémunération brute pendant 90 jours par année civile, 80 p. 100 par la suite et ce durant l'incapacité temporaire indemnisée par la sécurité sociale ;
+- à partir du 4e jour d'absence inclus, 90 p. 100 de la rémunération brute pendant quatre-vingt-dix jours par année civile, 80 p. 100 par la suite et ce durant l'incapacité temporaire indemnisée par la sécurité sociale ;
 
 - lorsque l'incapacité totale temporaire de travail relève de la législation des accidents du travail et des maladies professionnelles, l'indemnisation complémentaire est versée à compter du premier jour d'absence.
 
