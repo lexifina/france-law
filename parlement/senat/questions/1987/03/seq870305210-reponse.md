@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870305210
+
+- Question : [SEQ870305210](seq870305210.md) — Problèmes de la sécurité à Montpellier (Hérault)
+
+## Réponse
+
+*Intérieur, JO du 1987-05-14, page 765*
+
+Réponse. - Le tableau ci-dessous retrace l'évolution des effectifs de la circonscription de police urbaine de Montpellier depuis les cinq dernières années. Nota : voir tableau page 765. On peut constater que ce service a bénéficié de renforts substantiels parmi lesquels figurent 20 gardiens de la paix affectés en supplément le 1er octobre 1986, par anticipation sur les créations d'emplois 1987. Ainsi, depuis 1982, l'effectif global du commissariat de Montpellier, dont la compétence s'étend aux communes de Montpellier et Palavas, a augmenté de 14,51 p. 100. Au 1er janvier 1987, ce service dispose de 434 fonctionnaires pour une population contrôlée de 205 247 habitants (recensement 1982), soit 1 fonctionnaire pour 473 habitants. Cette dotation s'inscrit dans la moyenne des circonscriptions de province d'importance démographique comparable dont le ratio police-population s'élève à 1 fonctionnaire pour 488 habitants. Cette année, le mouvement général des mutations a été programmé pour maintenir au niveau budgétaire l'effectif du commissariat de Montpellier. Par ailleurs, les renforts saisonniers traditionnellement accordés à Palavas seront reconduits. La possiblité d'accroître le nombre de policiers en civil sera étudiée en 1988, à l'issue de la scolarité des personnels supplémentaires recrutés au titre du budget 1987. En outre, dans le cadre des mesures adoptées par le Gouvernement et permettant aux appelés du contingent d'effectuer leur service national dans la police, 10 policiers auxiliaires ont pris leurs fonctions à Montpellier le 2 février 1987. La possibilité de poursuivre cet effort sera examinée en 1988.
