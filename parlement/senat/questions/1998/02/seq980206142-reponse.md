@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980206142
+
+- Question : [SEQ980206142](seq980206142.md) — Brochure d'information relative aux professions libérales d'Ile-de-France
+
+## Réponse
+
+*Éducation, JO du 1998-05-07, page 1471*
+
+Réponse. - Les jeunes collégiens et lycéens reçoivent une éducation à l'orientation selon trois axes : connaissance du monde économique et social et des métiers qui le composent, connaissance des formations, représentation positive de soi. Dans le cadre du premier axe, les contacts sont établis par les chefs d'établissement et les services d'information et d'orientation avec les différents représentants des professions, dont ceux des professions libérales. Peuvent être organisés des entretiens entre les professionnels et les élèves, des visites ou des stages courts en entreprise. De nombreux documents sont distribués aux élèves sur toutes les professions et en particulier les professions libérales. Des brochures sont à leur disposition au centre d'information et d'orientation (CIO) et au centre de documentation et d'information de leur établissement scolaire. Ils peuvent trouver, en outre, auprès du conseiller d'orientation-psychologue de leur établissement, au centre d'information et d'orientation (CIO), toutes les informations plus ponctuelles dont ils pourraient avoir besoin. L'Office national d'information sur les enseignements et les professions (ONISEP) a la possibilité de mettre au point, avec les représentants des professions des fiches métiers spécifiques ou des chapitres dans ses brochures consacrés plus spécialement aux professions libérales. Il ne peut être prévu de crédit particulier alors que l'ONISEP a été créé pour informer sur tous les métiers, professions libérales comprises. L'opération souhaitée par le rapport du conseil économique et social d'Ile-de-France doit donc être examinée dans le cadre d'activités normales de l'ONISEP et de sa délégation régionale.
