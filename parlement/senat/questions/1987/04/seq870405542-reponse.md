@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870405542
+
+- Question : [SEQ870405542](seq870405542.md) — Accès au musée d'Orsay
+
+## Réponse
+
+*Culture, JO du 1987-07-30, page 1185*
+
+Réponse. -Le succès du musée d'Orsay se traduit par une fréquentation très importante, qui dépasse les prévisions initiales : pour la période allant du 9 décembre 1986 au 3 mai 1987, le musée a accueilli en moyenne 12 200 visiteurs par jour, avec un maximum de 22 000. Cette fréquentation se traduit à certains moments de la journée, notamment le dimanche, par des temps d'attente qui peuvent paraître excessifs. Quatre guichets sont installés à l'entrée du musée et un personel suffisant a été mis en place pour qu'ils fonctionnent de façon ininterrompue. L'architecture de la zone d'accueil du musée permettrait difficilement d'accroître le nombre de caisses, sans que soient perturbés les flux d'entrée et de sortie. En tout état de cause, la multiplication des guichets ne serait pas le moyen de réduire les files d'attente. Celles-ci s'expliquent aussi par la capacité d'accueil du bâtiment : pour assurer la sécurité des oeuvres et du public ainsi que le confort des visiteurs, le nombre de personnes présentes au même moment dans le musée doit rester limité, et cette limite est bien souvent atteinte actuellement, notamment dans la galerie des impressionnistes. Pour l'ensemble du musée, la fréquentation maximale instantanée qu'autorisent les services de sécurité a été fixée à 5 600 personnes (visiteurs et personnel). Le moyen le plus adéquat de réduire l'attente est d'informer le public des heures " creuses ". La direction du musée s'y emploie, par l'intermédiaire des médias. La politique d'accueil des groupes, dont les visites sont planifiées, oeuvre également dans ce sens. Par ailleurs, les conférences proposées aux visiteurs comportent des thèmes dont la variété ira croissant, afin de répartir le public dans les divers espaces du musée.
