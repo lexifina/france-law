@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910113454
+
+- Question : [SEQ910113454](seq910113454.md) — Faux baux de location
+
+## Réponse
+
+*Justice, JO du 1992-07-16, page 1634*
+
+Réponse. - Des difficultés de fait et de droit nuisent à l'efficacité de l'action judiciaire menée à l'encontre des squatters. Ces derniers sont souvent eux-mêmes victimes de faussaires sans scrupules qui leur remettent de faux bons de location. Les squatters ignorent leur identité réelle et perdent leur trace dès remises du faux contrat. Or, le délit de violation de domicile suppose que soit établie l'intention délictueuse de l'occupant précaire qui, dans ces conditions, peut exciper valablement de sa bonne foi. Toutefois, les poursuites pénales sont intentées avec succès dans tous les cas où l'accusation parvient à prouver que les baux ont été conclus dans des conditions de clandestinité telles que l'occupant sans droit ni titre ne pouvait ignorer l'illicité du contrat de location qu'il a conclu ou lorsque sont relevées des traces d'effraction de la porte ou de la serrure du logement indûment habité. Par ailleurs, la loi n° 91-650 du 9 juillet 1991 portant réforme des procédures civiles d'exécution tend à faciliter au propriétaire la libération des locaux occupés dans les conditions évoquées par l'auteur de la question. En premier lieu, elle prévoit que le juge peut réduire ou supprimer le délai du commandement qui doit précéder l'exécution de la décision d'expulsion lorsque les personnes dont l'expulsion a été ordonnée sont entrées dans les locaux par voie de fait. En second lieu, et sous réserve de la prise en considération de l'exceptionnelle dureté que représenterait l'expulsion, la loi soustrait les personnes entrées par voie de fait dans les locaux d'habitation du bénéfice de l'article L. 613-3 du code de la construction et de l'habitation prévoyant un sursis aux expulsions pendant la période hivernale.
