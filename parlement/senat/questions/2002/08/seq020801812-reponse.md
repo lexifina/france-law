@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020801812
+
+- Question : [SEQ020801812](seq020801812.md) — Situation des salariés à temps partiel au regard de l'assurance maladie
+
+## Réponse
+
+*Santé, JO du 2003-11-13, page 3347*
+
+Les règles de versement d'indemnités journalières par la sécurité sociale prévoient que, pour avoir droit aux indemnités journalières de moins de six mois de l'assurance maladie, l'assuré doit justifier à la date de l'interruption de travail soit d'un montant minimal de cotisations au titre des assurances maladie, maternité, invalidité et décès assises sur les rémunérations perçues pendant les six mois civils précédents, soit d'au moins 200 heures de travail salarié ou assimilé au cours des trois mois civils ou des quatre-vingt dix jours précédents. La législation actuelle subordonne ainsi le droit aux indemnités journalières maladie à la justification d'une activité professionnelle suffisante. S'agissant d'un droit contributif qui ouvre des avantages pour une période de six mois, le principe d'une condition minimale de travail avant ouverture des droits n'apparaît pas illégitime. Par ailleurs, il convient d'observer que le minimum de 200 heures d'activité requis pour une période de trois mois est faible puisqu'il correspond à un peu moins de six semaines de travail à temps plein sur un trimestre ou bien encore à l'équivalent de 3 heures travaillées par jour pour une semaine de six jours ouvrables. Enfin, il faut rappeler que ces règles sont d'ores et déjà aménagées pour les salariés exerçant une profession à caractère saisonnier ou discontinu de façon à leur donner la possibilité de valider les conditions de salaire ou d'activité sur une période plus longue (douze mois). Il n'est pas envisagé à ce jour de procéder à une modification de ces règles.
