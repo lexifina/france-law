@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000323302
+
+- Question : [SEQ000323302](seq000323302.md) — Devenir des personnels contractuels au sein de la mission générale d'insertion de l'éducation nationale
+
+## Réponse
+
+*Éducation, JO du 2000-06-22, page 2216*
+
+Réponse. - Les personnels non titulaires exerçant leurs fonctions à la mission générale d'insertion de l'éducation nationale peuvent - sous réserve qu'ils remplissent certaines conditions, notamment d'ancienneté - bénéficier des opérations de recrutement exceptionnel organisées dans le cadre de l'application de la loi nº 96-1097 du 16 décembre 1996 relative à l'emploi dans la fonction publique et à diverses mesures d'ordre statutaire. Plusieurs décrets, publiés depuis cette date, permettent en effet à ces agents de se présenter, jusqu'au 16 décembre 2000, à des concours qui leur sont réservés. Ils doivent avoir une ancienneté de services publics de quatre années équivalent temps plein, et exercer, soit des fonctions de catégorie C, soit des fonctions d'enseignement, ou des fonctions d'information ou d'orientation. Le décret nº 97-349 du 16 avril 1997 a ainsi permis le recrutement de professeurs certifiés exerçant dans des disciplines générales ou dans des disciplines d'enseignement technique, de professeurs d'éducation physique et sportive, de professeurs de lycée professionnel, de conseillers principaux d'éducation et de conseillers d'orientation-psychologues. Les maîtres auxiliaires exerçant des fonctions d'enseignement au sein de la mission ne sont donc pas écartés de ce dispositif. S'agissant de l'accès à la catégorie C, des décrets communs à plusieurs ministères ont constitué la base réglementaire de ces opérations. Les mesures qui pourront, le cas échéant, être prises à l'égard de ces personnels postérieurement au 16 décembre 2000 relèveront du dispositif que le Gouvernement entendra mettre en place en matière de résorption de l'emploi précaire.
