@@ -149,3 +149,5 @@ Abbaye du Thoronet (Provence-Alpes-Côte d'Azur).
 Trophée des Alpes (La Turbie - Provence-Alpes-Côte d'Azur).
 
 Abbaye de Brou (Rhône-Alpes).
+
+Domaine de Ferney-Voltaire (Rhône-Alpes).
