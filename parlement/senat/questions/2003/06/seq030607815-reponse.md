@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030607815
+
+- Question : [SEQ030607815](seq030607815.md) — Situation des agents d'entretien des emplois techniques au regard de l'indemnité d'administration et de technicité
+
+## Réponse
+
+*Fonction publique, JO du 2003-09-11, page 2795*
+
+L'annexe du décret n° 91-875 du 6 septembre 1991 relatif aux régimes indemnitaires des fonctionnaires territoriaux a établi le principe d'une assimilation des agents d'entretien relevant de la filière technique au corps des agents des travaux publics de l'État (TPE). Le nouveau régime indemnitaire de certains personnels de la filière exploitation du ministère de l'équipement, institué par les décrets n° 2002-532 et 2002-534 du 16 avril 2002 complétés chacun par un arrêté du même jour, est donc transposable aux agents d'entretien. Il est constitué de la prime technique de l'entretien, des travaux et de l'exploitation ainsi que de l'indemnité de sujétion horaire, qui prend en compte les caractéristiques particulières de l'organisation du travail en vigueur dans les services d'affectation des agents des TPE. Ce nouveau régime d'indemnisation est exclusif de l'indemnité d'administration et de technicité. C'est la raison pour laquelle les agents d'entretien ne sont pas pris en compte dans le décret n° 2002-61 du 14 janvier 2002. Cependant, la part correspondant à l'indemnité de sujétion horaire ne peut être appliquée aux agents d'entretien dont l'organisation du travail n'est pas comparable à celle des agents des TPE, ce qui entraîne une diminution de leur régime indemnitaire. Il a donc été proposé, pour pallier cette difficulté, d'assimiler les agents d'entretien sur le 1er grade d'ouvrier professionnel, ce corps étant éligible à l'indemnité d'administration et de technicité. Cette proposition sera mise en oeuvre dans les meilleurs délais.
