@@ -1,6 +1,6 @@
 # Article 9 bis
 
-Le président de la chambre de métiers inscrit d'office au dossier individuel de la personne immatriculée au répertoire des métiers ou au registre institué à l'article 16 les déclarations de cessation de paiement ou d'inexécution des engagements financiers d'un règlement amiable, ainsi que les décisions intervenues dans les procédures de redressement et de liquidation judiciaires avec l'indication de leur date et du tribunal dont elles émanent :
+Le président de la chambre de métiers et de l'artisanat inscrit d'office au dossier individuel de la personne immatriculée au répertoire des métiers ou au registre institué à l'article 16 les déclarations de cessation de paiement ou d'inexécution des engagements financiers d'un règlement amiable, ainsi que les décisions intervenues dans les procédures de redressement et de liquidation judiciaires avec l'indication de leur date et du tribunal dont elles émanent :
 
 1° Ouvrant la procédure de redressement judiciaire avec l'indication des pouvoirs conférés à l'administrateur ;
 
@@ -35,7 +35,3 @@ Le président de la chambre de métiers inscrit d'office au dossier individuel d
 16° Prononçant la faillite personnelle ou l'interdiction prévue à l'article 192 de la loi du 25 janvier 1985 précitée.
 
 Pour les décisions figurant au 16°, l'inscription comporte, en outre, la durée de la mesure prononcée par le tribunal.
-
-NOTA :
-
-Nota - voir arrêté du 30 août 1983, article 9 ter : champ d'application.

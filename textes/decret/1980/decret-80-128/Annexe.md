@@ -26,7 +26,7 @@
 
 : Chambre d'agriculture : 1 : Par la chambre d'agriculture. : |
 
-: Chambre de métiers : 1 : Par la chambre de métiers. : |
+: Chambre de métiers : 1 : Par la chambre de métiers et de l'artisanat. : |
 
 : : : : |
 
