@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990918965
+
+- Question : [SEQ990918965](seq990918965.md) — Tarification des transports en commun
+
+## Réponse
+
+*Équipement, JO du 1999-12-02, page 3967*
+
+Réponse. - Hors la région Ile-de-France, la loi d'orientation des transports intérieurs du 30 décembre 1982 attribue aux collectivités locales la compétence dans le domaine de l'organisation et du financement des transports publics urbains. De ce fait, l'autorité organisatrice de transports est l'entité à même de décider des tarifs applicables et de la définition des catégories d'usagers susceptibles de bénéficier des réductions tarifaires ou de la gratuité dans les transports publics, et il paraîtrait contraire aux principes de la décentralisation de remettre en cause la compétence des collectivités locales en ce domaine. Il n'en reste pas moins que beaucoup de collectivités de province mènent, depuis quelques années, des réflexions souvent convergentes sur le redéploiement des tarifs sociaux entre les différentes catégories d'usagers et s'interrogent sur le bien-fondé d'avantages tarifaires et de gratuité accordés traditionnellement essentiellement aux seules personnes âgées, familles nombreuses et personnes handicapées. Globalement, elles tendent à remettre en question le principe de la gratuité totale attribuée à des catégories d'usagers, afin de baser davantage l'attribution de réductions tarifaires sur des critères de ressources, et d'offrir des réductions à un nombre plus important de personnes en difficulté sociale. C'est ainsi qu'un nombre croissant de réseaux de province accordent des réductions aux chômeurs et aux bénéficiaires du RMI. En région Ile-de-France, la création en 1998 des " chèques mobilité " pour certains demandeurs d'emplois et de la carte " imagine R " pour les jeunes ont permis de répondre aux besoins spécifiques de ces populations.
