@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010231389
+
+- Question : [SEQ010231389](seq010231389.md) — Lutte contre la torture
+
+## Réponse
+
+*Affaires étrangères, JO du 2001-03-29, page 1080*
+
+Réponse. - La France est partie à tous les instruments internationaux prohibant la torture ou les peines et traitements inhumains ou dégradants. Elle a ainsi ratifié la convention contre la torture et autres peines ou traitements cruels, inhumains ou dégradants, élaborée dans le cadre des Nations unies. Elle est également partie à deux instruments élaborés au sein du Conseil de l'Europe : la convention de sauvegarde des droits de l'homme et des libertés fondamentales, et la convention européenne pour la prévention de la torture et des peines ou traitements inhumains ou dégradants, qui a mis en place un mécanisme de visites de toute personne privée de sa liberté, par un comité d'experts indépendants. Ce comité s'est d'ailleurs rendu en France au mois de mai 2000, dans le cadre de son programme de visites périodiques. La France manifeste un intérêt majeur à la lutte contre la torture et les peines ou traitements inhumains ou dégradants. C'est ainsi qu'elle a coparrainé le projet de protocole additionnel à la convention contre la torture des Nations unies, qui vise à établir, au plan universel, un mécanisme de visites comparable à celui existant dans le cadre du Conseil de l'Europe. Les négociations sur ce protocole sont menées depuis dix ans et n'ont pas permis, à ce jour, de parvenir à un accord (la dernière saison de négociations s'est tenue du 12 au 23 février 2001, la prochaine session aura lieu au mois d'octobre prochain). Plus récemment, elle a proposé à ses partenaires européens, alors qu'elle assurait la présidence de l'Union européenne, l'élaboration d'orientations contre la torture, afin de faciliter les interventions de l'Union en la matière. La présidence suédoise s'est engagée à poursuivre la réflexion menée en vue d'élaborer ces orientations.
