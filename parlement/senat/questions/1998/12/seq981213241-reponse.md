@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981213241
+
+- Question : [SEQ981213241](seq981213241.md) — Cancer : révision périodique des autorisations de mise sur le marché et du remboursement des médicaments
+
+## Réponse
+
+*Santé, JO du 1999-04-08, page 1199*
+
+Réponse. - A ce jour, les médicaments anticancéreux sont classés dans la catégorie des médicaments réservés à l'usage hospitalier, telle que prévue par les articles R. 5143-5-1 et suivants du code de la santé publique. En application de ces articles, ils ne peuvent être prescrits et délivrés que dans un établissement de santé. En conséquence, le dispositif de réinscription triennale sur la liste des médicaments remboursables aux assurés sociaux prévu par les articles L. 162-17 et L. 163-2 du code de la sécurité sociale, qui s'applique uniquement aux médicaments commercialisés en ville, ne leur est pas applicable. Toutefois, les conditions de prescription et de délivrance de certains médicaments anticancéreux sont en cours de révision afin de juger de l'opportunité d'une délivrance en officine de ville des médicaments concernés, dans les meilleures conditions de sécurité d'emploi. Dans ces conditions, ces médicaments devront faire l'objet d'une inscription sur la liste des médicaments remboursables et seront soumis à l'obligation de réinscription triennale. De même, la révision des conditions de prescription et de délivrance des médicaments anticancéreux aboutira à une mise à jour de l'ensemble de l'information destinée aux professionnels de santé et au public. Cette mise à jour tiendra notamment compte des nouvelles données concernant lesdits médicaments. Il convient enfin d'ajouter que, dans le cadre de la réévaluation des classes thérapeutiques de médicaments, l'admission au remboursement des médicaments anticancéreux fera l'objet d'une réévaluation particulière et les stratégies thérapeutiques seront révisées.
