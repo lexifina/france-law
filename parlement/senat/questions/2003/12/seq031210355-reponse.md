@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031210355
+
+- Question : [SEQ031210355](seq031210355.md) — Devenir des caisses de crédit maritime des départements d'outre-mer
+
+## Réponse
+
+*Économie, JO du 2004-06-10, page 1270*
+
+Le Gouvernement est attentif aux évolutions du Crédit maritime mutuel qui est en cours de réorganisation sous l'égide de la Banque fédérale des Banques populaires, organe d'affiliation des caisses régionales de Crédit maritime mutuel. C'est pourquoi, il a été désigné un commissaire du gouvernement chargé de suivre l'exercice des missions d'intérêt général de cet établissement. D'une manière générale, son adossement à un grand réseau bancaire national constitue un atout considérable pour le Crédit maritime mutuel, qui conserve pour autant toute sa spécificité dans ce réseau. Le Comité des établissements de crédit et des entreprises d'investissement (CECEI) a d'ailleurs approuvé cette opération. Dans ce cadre, il appartient à la Banque fédérale des Banques populaires de présenter au CECEI un schéma organisationnel des caisses régionales du Crédit maritime mutuel qui leur permette de remplir leur mission dans des conditions garantissant leur viabilité et leur pérennité. Un projet d'adossement des caisses régionales d'outre-mer à une autre caisse régionale métropolitaine semble envisagé par les Banques populaires. L'Etat ne peut intervenir dans ce choix d'organisation, qui relève de la responsabilité des Banques populaires et du CECEI. Ce dernier prendra sa décision au regard de l'objectif de bon fonctionnement du système bancaire qui lui permet d'apprécier toutes les conséquences d'un tel projet. Le fonctionnement des établissements à statut mutualiste et la culture interne du groupe Crédit maritime mutuel devraient permettre de garantir l'autonomie de gestion des établissements des départements d'outre-mer et la prise en compte des spécificités ultramarines.
