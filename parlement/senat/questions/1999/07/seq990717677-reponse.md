@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990717677
+
+- Question : [SEQ990717677](seq990717677.md) — Bilan des accidents de chasse lors de la saison 1998-1999
+
+## Réponse
+
+*Aménagement du territoire, JO du 1999-10-07, page 3301*
+
+Réponse. - La ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question relative au bilan des accidents de chasse lors de la saison 1998-1999. Les statistiques réunies par l'Office national de la chasse sur les accidents de chasse durant la campagne de chasse 1998-1999 font état de 40 accidents mortels et de 219 accidents non mortels. Un débat sur la sécurité de l'exercice de la chasse a été engagé au sein du Conseil national de la chasse et de la faune sauvage, qui réunit des représentants de plusieurs ministères, de l'Office national de la chasse, des chasseurs, des collectivités locales, des organisations professionnelles agricoles et forestières, d'organismes scientifiques et d'associations de protection de la nature. Les principales mesures évoquées lors de ce débat viseraient à : sanctionner la formation pratique préalable au permis de chasser par une épreuve pratique obligatoire faisant partie de l'examen du permis de chasser ; améliorer la sécurité lors de l'organisation des battues. Le 26 juillet 1999, le Premier ministre a confié à M. François Patriat, député de la Côte d'Or, une mission auprès de la ministre de l'aménagement du territoire et de l'environnement portant sur l'adaptation de la législation relative à la pratique et à l'organisation de la chasse. Ses conclusions comporteront vraisemblablement des propositions sur la sécurité lors de l'exercice de la chasse qui permettront de conclure les débats engagés au sein du Conseil national de la chasse et de la faune sauvage et d'arrêter les propositions de mesures réglementaires pertinentes.
