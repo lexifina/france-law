@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870606508
+
+- Question : [SEQ870606508](seq870606508.md) — Cotisations sociales dues pour l'encadrement des adultes handicapés dans les centres de vacances et de loisirs
+
+## Réponse
+
+*Affaires sociales, JO du 1987-12-17, page 1963*
+
+Réponse. -L'extension du bénéfice de l'arrêté du 11 octobre 1976 relatif aux cotisations dues pour les personnes qui assurent l'encadrement des mineurs handicapés ou non dans les centres de vacances et de loisirs à celles qui exercent des fonctions similaires auprès des handicapés adultes ne peut être envisagée. Cet arrêté a été élaboré pour favoriser le développement de structures ouvertes à l'ensemble des mineurs à l'occasion de leurs congés scolaires ; il ne peut s'analyser comme un élément de la politique d'aide aux handicapés menée, par ailleurs, par les pouvoirs publics. En outre, si le caractère temporaire de l'intervention d'animateurs auprès d'enfants momentanément hors de leur famille peut justifier l'adoption d'un mécanisme simplifié de cotisations, il ne peut en être de même à l'égard d'une population dépendante qui fait l'objet d'une prise en charge permanente. Dans ce dernier cas, les animateurs, fussent-ils recrutés à titre temporaire, ne sont pas dans une situation différente des autres professionnels qui exercent auprès de ces personnes ; ils ne peuvent donc recevoir un traitement particulier en matière de sécurité sociale. Il en résulterait une inégalité entre structures selon le caractère permanent ou temporaire de leur accueil. Toutefois, des instructions sont adressées à l'agence centrale des organismes de sécurité sociale afin que, dans un souci de simplicité, l'accueil de quelques handicapés adultes dans un centre de loisirs pour enfants ne conduise pas les organismes de recouvrement à remettre en cause l'application de l'arrêté du 11 octobre 1976.
