@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990516425
+
+- Question : [SEQ990516425](seq990516425.md) — Archéologie préventive : devenir des services territoriaux d'archéologie
+
+## Réponse
+
+*Culture, JO du 1999-07-22, page 2491*
+
+Réponse. - Les interrogations que soulève l'honorable parlementaire sur certains aspects du projet de loi sur l'archéologie préventive seront certainement évoquées, discutées et si nécessaire, levées lors du travail législatif prochain. Concernant la question particulière du rôle et de l'avenir des services territoriaux d'archéologie dans le nouveau paysage qui doit se dessiner à la suite de l'adoption du texte législatif en question, il convient de noter en premier lieu qu'il n'est pas envisagé de modifier la configuration des organismes consultatifs en matière d'archéologie nationale telle qu'établie par le décret nº 94-423 du 27 mai 1994 et qui comprend en partiuclier six commissions interrégionales de la recherche archéologique (CIRA) détentrices d'une vaste compétence sur les questions relatives aux recherches archéologiques dans leur ressort. Chacune de ces CIRA compte parmi ses huit membres un agent d'une collectivité territoriale compétent en archéologie. En second lieu, dans la rédaction actuelle du projet de loi, les dispositions relatives à la composition du conseil d'administration de l'établissement public à caractère administratif, qui doit être chargé de la recherche en archéologie préventive, n'exclut pas a poriori une présence soit de représentant de collectivités territoriales qui se sont dotées de services d'archéologie, soit d'agent de ces services territoriaux d'archéologie. Ainsi les divers acteurs de l'archéologie, doivent-ils pouvoir continuer à être activement présents et entendus, particulièrement dans le champ de l'archéologie préventive.
