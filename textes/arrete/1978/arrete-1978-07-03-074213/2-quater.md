@@ -1,26 +1,34 @@
 # Article 2 quater
 
-A compter du 1er janvier 2001, pour l'application de l'article R. 351-17-5, le taux de participation personnelle (TP) du ménage, exprimé en pourcentage, est calculé selon la formule suivante :
+Pour l'application de l'article R. 351-17-5, le taux de participation personnelle (TP) du ménage, exprimé en pourcentage, est calculé selon la formule suivante :
 
 TP = TF + TL,
 
 dans laquelle :
 
-TF représente un taux fonction de la taille du ménage, donné par le tableau suivant :
+TF représente un taux fonction de la taille de la famille, donné par le tableau suivant :
 
-BÉNÉFICIAIRE
-
-|
-
-TF (en pourcentage)
+BÉNÉFICIAIRES
 
 |
 
-Personne isolée sans une personne à charge
+TF du 1er juillet 2001 au 31 décembre 2001(en pourcentage)
+
+|
+
+TF à compter du 1er janvier 2002 (en pourcentage)
+
+|
+
+Personne seule
 
 |
 
 3,08
+
+|
+
+3,54
 
 |
 
@@ -32,7 +40,11 @@ Couple sans personne à charge
 
 |
 
-Personne isolée ou couple avec une personne à charge
+3,94
+
+|
+
+Personne seule ou couple avec une personne à charge
 
 |
 
@@ -40,7 +52,11 @@ Personne isolée ou couple avec une personne à charge
 
 |
 
-Personne isolée ou couple avec deux personnes à charge
+3,38
+
+|
+
+Personne seule ou couple avec deux personnes à charge
 
 |
 
@@ -48,7 +64,11 @@ Personne isolée ou couple avec deux personnes à charge
 
 |
 
-Personne isolée ou couple avec trois personnes à charge
+2,97
+
+|
+
+Personne seule ou couple avec trois personnes à charge
 
 |
 
@@ -56,11 +76,19 @@ Personne isolée ou couple avec trois personnes à charge
 
 |
 
-Personne isolée ou couple avec quatre personnes à charge
+2,51
 
 |
 
-2,27
+Personne seule ou couple ayant quatre personnes à charge
+
+|
+
+2,17
+
+|
+
+2,31
 
 |
 
@@ -68,51 +96,87 @@ Par personne à charge supplémentaire
 
 |
 
-- 0,06
+-0,06
 
 |
 
-TL représente un taux complémentaire fixé ci-dessous en fonction de la valeur du rapport RL entre le loyer retenu dans la limite du plafond et un loyer de référence. RL est exprimé en pourcentage arrondi à la deuxième décimale. Le loyer de référence est défini selon le tableau suivant :
-
-PERSONNE ISOLEE
-
-sans personne à charge
+- 0,07
 
 |
 
-COUPLE sans personne à charge
+TL représente un taux complémentaire fixé ci-dessous en fonction de la valeur du rapport RL entre le loyer retenu dans la limite du plafond et un loyer de référence. RL est exprimé en pourcentage arrondi à la deuxième décimale.
+
+Le loyer de référence est défini selon le tableau suivant :
+
+BENEFICIAIRE
 
 |
 
-MENAGE AYANT une personne à charge
+VALEURS en francs du 1er juillet 2001 au 31 décembre 2001
 
 |
 
-MENAGE AYANT deux personnes à charge
+VALEURS en euros à compter du 1er janvier 2002
 
 |
 
-PAR PERSONNE à charge supplémentaire
+Personne seule
 
 |
 
-1 385 F
+1402
 
 |
 
-1 696 F
+213,73
 
 |
 
-1 908 F
+Couple sans personne à charge
 
 |
 
-2 186 F
+1716
 
 |
 
-278 F
+261,60
+
+|
+
+Personne seule ou couple ayant une personne à charge
+
+|
+
+1931
+
+|
+
+294,38
+
+|
+
+Personne seule ou couple ayant deux personnes à charge
+
+|
+
+2212
+
+|
+
+337,22
+
+|
+
+Par personne supplémentaire à charge
+
+|
+
+281
+
+|
+
+42,84
 
 |
 
