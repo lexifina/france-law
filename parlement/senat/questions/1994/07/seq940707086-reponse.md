@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940707086
+
+- Question : [SEQ940707086](seq940707086.md) — Projet de schéma directeur des aéroports européens
+
+## Réponse
+
+*Équipement, JO du 1994-09-08, page 2216*
+
+Réponse. - La commission européenne a présenté au conseil transport des 13 et 14 juin 1994 une proposition de décision sur les orientations communautaires pour le développement du réseau transeuropéen de transport. Le conseil en a pris note et a demandé au comité des représentants permanents de poursuivre l'examen de ce dossier. Cette proposition comporte des dispositions relatives au réseau aéroportuaire. Il est exact que l'application des critères destinés à identifier les aéroports d'intérêt commun conduit à classer les aéroports de Clermont-Ferrand, Limoges et Rodez, ainsi que plusieurs autres aéroports situés dans le Massif central, parmi les composantes d'accessibilité. Le classement proposé vise en principe à rendre compte de la fonction de chaque plate-forme au sein du réseau aéroportuaire transeuropéen, mais les critères choisis sont uniquement fondés sur le trafic actuel des aéroports. Cela ne permet pas d'intégrer les spécificités régionales ni les préoccupations d'aménagement du territoire. C'est pourquoi les représentants du gouvernement français ont demandé que des modifications soient apportées aux dispositions du projet de la Commission portant sur la classification des plates-formes mais aussi sur les spécifications définissant les projets aéroportuaires considérés comme étant d'intérêt commun. Il importe en effet, si le classement ne reflète pas l'importance réelle de certaines plates-formes pour les régions qu'elles desservent, qu'il ne soit pas déterminant pour l'octroi d'éventuelles aides financières communautaires. En tout état de cause, les orientations propres à la politique aéroportuaire française pourront différer, si nécessaire, de celles définies au niveau européen qui n'auront qu'un caractère indicatif.
