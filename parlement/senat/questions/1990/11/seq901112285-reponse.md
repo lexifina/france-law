@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901112285
+
+- Question : [SEQ901112285](seq901112285.md) — Ecoutes téléphoniques
+
+## Réponse
+
+*Intérieur, JO du 1991-03-28, page 665*
+
+Réponse. - L'article 371 du code pénal punit des peines prévues à l'article 368 du même code quiconque fabrique, importe, vend ou offre, sans autorisation ministérielle, des appareils permettant notamment d'écouter, d'enregistrer ou de transmettre des paroles prononcées dans un lieu privé par une personne sans le consentement de celle-ci, dès lors que ces appareils figurent sur une liste dressée par un décret en Conseil d'Etat. Cet article, introduit dans notre code pénal par la loi du 17 juillet 1970 relative à la protection de la vie privée, n'a jamais été appliqué dans la mesure où le décret qui fixe la liste des appareils soumis à autorisation ministérielle n'a, à ce jour, pas pu, pour des raisons techniques, être pris. L'évolution des techniques rend, en effet, difficile l'établissement d'une liste actualisée de ces appareils. Il apparaît en revanche que l'utilisation de ces matériels pour écouter des propos tenus dans un endroit privé pourrait tomber, sous réserve de l'interprétation souveraine des tribunaux, sous le coup de l'article 368-1 du code pénal qui réprime d'un emprisonnement de deux mois à un an et d'une amende de 2 000 à 60 000 francs ou de l'une de ces deux peines le fait d'écouter, d'enregistrer ou de transmettre au moyen d'un appareil quelconque des paroles prononcées dans un lieu privé par une personne sans son consentement. Il convient enfin de préciser que les questions soulevées par la définition d'une réglementation applicable à ce type d'appareils font actuellement l'objet d'une étude approfondie dans le cadre de la réflexion qui s'est engagée en vue de doter notre pays d'une législation susceptible d'appréhender tous les aspects du problème posé par les écoutes téléphoniques.
