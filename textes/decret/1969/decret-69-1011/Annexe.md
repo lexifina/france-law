@@ -138,6 +138,16 @@ TOUS DÉPARTEMENTS MINISTÉRIELS
 
 |
 
+Disponibilité pour formation professionnelle d'une durée maximale de trois ans.
+
+|
+
+Décret n° 83-523 du 20 juin 1983.
+
+|
+
+|
+
 Congé non rémunéré en vue de favoriser la formation de cadres et d'animateurs pour la jeunesse (loi n° 61-1448 du 29 décembre 1961).
 
 |
