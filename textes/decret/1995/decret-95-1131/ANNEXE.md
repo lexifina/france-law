@@ -4,47 +4,27 @@ FONCTIONS EXERCÉES POUVANT DONNER DROIT
 
 AU VERSEMENT DE LA NOUVELLE BONIFICATION INDICIAIRE
 
-I. - Corps des commandants et officiers de paix
+I. - Corps de commandement et d'encadrement
 
 de la police nationale
-
-Chef de service opérationnel.
-
-Chef de bureau opérationnel.
-
-Adjoint au chef de service ou de bureau opérationnels.
-
-Chef opérationnel.
-
-Adjoint opérationnel.
-
-Chef délégation C.R.S.
-
-Adjoint au chef délégation C.R.S.
-
-Commandant Centre national d'entraînement à l'alpinisme et au ski.
-
-Responsable d'un service de formation.
-
-Formateur conseil.
-
-II. - Corps des inspecteurs de la police nationale
 
 Chef de circonscription.
 
 Chef de groupe technique ou opérationnel.
 
-Chef d'unité de police judiciaire.
+Chef délégation C.R.S.
 
-Chef de service départemental.
+Adjoint au chef délégation C.R.S.
 
-Chef de poste.
+Commandant C.N.E.A.S. (Centre national d'entraînement à l'alpinisme et au ski).
 
-Chef de brigade.
+Responsable d'un service de formation.
+
+Formateur conseil.
 
 Chef de groupe liaison et documentation.
 
-III. - Corps des gradés et gardiens de la paix
+II. - Corps de maîtrise et d'application
 
 de la police nationale
 
@@ -84,8 +64,6 @@ Responsable d'unité aux services techniques.
 
 Technicien spécialisé.
 
-IV. - Corps des enquêteurs de la police nationale
-
 Chef de groupe, de secteur, de poste ou d'équipe à responsabilité particulièrement importante.
 
 Chef ou adjoint de groupe, de secteur, de poste ou d'équipe.
@@ -94,7 +72,7 @@ Assistant officier de quart à Roissy et Orly.
 
 Assistant officier de quart.
 
-Responsables d'unités pédagogiques ou d'encadrement dans les services de formation.
+Responsable d'unité pédagogique ou d'encadrement dans les services de formation.
 
 Chef de groupe de documentation opérationnelle.
 
