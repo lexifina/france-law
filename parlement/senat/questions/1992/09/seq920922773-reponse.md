@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920922773
+
+- Question : [SEQ920922773](seq920922773.md) — Application ou non à la campagne référendaire des dispositions relatives à la communication en période préélectorale
+
+## Réponse
+
+*Intérieur, JO du 1992-10-29, page 2439*
+
+Réponse. - Les dispositions de la loi du 15 janvier 1990 insérées dans le code électoral ne sont pas elles-mêmes applicables au référendum. Leur application est donc conditionnée par un renvoi exprès opéré par les textes d'organisation du référendum. Ainsi, lors du référendum du 20 septembre 1992, l'article L. 51 du code électoral, interdisant tout affichage en dehors des emplacements spéciaux attribués à chaque formation politique habilitée à participer à la campagne, et l'article L. 52-1 (1er alinéa) interdisant tout procédé de publicité commerciale par voie de presse ont-ils été rendus applicables à la campagne, par l'article 2 du décret n° 92-772 du 6 août 1992, à partir du 1er septembre 1992. Le deuxième alinéa de l'article L. 52-1 du code électoral, prohibant, à compter du premier jour du sixième mois précédant le mois au cours duquel il doit être procédé à des élections, toute campagne de promotion publicitaire des réalisations ou de la gestion d'une collectivité organisée sur le territoire des collectivités intéressées par le scrutin, n'a, au contraire, pas été rendu applicable à la campagne en vue du référendum. Mais il convient de remarquer que la période de six mois qui précède le premier jour du mois de la prochaine élection législative a débuté le 1er septembre 1992. L'interdiction prévue à l'article L. 52-1 (2e alinéa) était donc à ce titre en vigueur pendant la campagne référendaire. La publicité politique par message audiovisuel est enfin interdite en permanence par l'article 14 de la loi du 30 septembre 1986 relative à la liberté de communication.
