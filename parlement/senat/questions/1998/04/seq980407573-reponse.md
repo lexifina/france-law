@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980407573
+
+- Question : [SEQ980407573](seq980407573.md) — Bilan de l'opération " itinéraires véhicules volés "
+
+## Réponse
+
+*Intérieur, JO du 1998-05-28, page 1718*
+
+Réponse. - Destinées à intensifier les contrôles de véhicules sur les frontières de l'Est, dans les principaux ports maritimes et sur les routes de transit les plus importantes de l'espace Schengen, trois opérations dites " itinéraires véhicules volés " ont été organisées en 1997 dans le cadre de la coopération policière prévue par la convention de Schengen. Elles se sont déroulées du 10 au 12 avril, du 24 au 26 avril et du 2 au 4 juin 1997. Elles ont associé treize pays, dont sept reliés au Système d'Information Schengen et six non signataires de la convention (Autriche, Danemark, Finlande, Grèce, Italie et Suède). Sur le territoire français, les services de police et de douane ainsi que les unités de gendarmerie mobilisés sur ces opérations ont procédé à 35 142 contrôles de véhicules notamment sur l'axe nord-sud et sur les couloirs vers l'Espagne, l'Allemagne et l'Italie. Cela a permis la découverte de 140 véhicules volés (dont 63 % en France), l'interpellation de 74 receleurs et la constatation de 300 infractions connexes. Sur nos frontières, les pays voisins associés à ces actions ont procédé à 22 800 contrôles de véhicules débouchant sur la découverte de 71 véhicules signalés volés, l'interpellation de 58 personnes et le placement sous écrou de 18 d'entre elles. Très sollicité pendant toute la durée de ces opérations " itinéraires véhicules volés ", le bureau Sirene-France du Système d'Information Schengen (direction centrale de la police judiciaire - police nationale) qui fonctionne vingt-quatre heures sur vingt-quatre a répondu à soixante-deux demandes de vérifications émanant de nos partenaires étrangers. La reconduite en 1998 de ces opérations, particulièrement lourdes à organiser d'un point de vue logistique est, d'ores et déjà, envisagée.
