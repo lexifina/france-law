@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960515501
+
+- Question : [SEQ960515501](seq960515501.md) — Statut des infirmières de bloc opératoire de l'Institut Gustave-Roussy de Villejuif (Val-de-Marne)
+
+## Réponse
+
+*Travail, JO du 1997-04-03, page 1062*
+
+Réponse. - Comme le relève justement l'honorable parlementaire, la formation - et la qualification - spécifique d'infirmière de bloc opératoire ne sont pas reconnues par la convention collective des centres de lutte contre le cancer. Seul le grade d'infirmière anesthésiste se distingue staturairement de celui d'infirmière diplômée d'Etat sans spécialisation. Cette situation résulte d'un choix des gestionnaires et des partenaires sociaux fixé par la négociation collective. Il n'appartient pas à l'Etat d'influer sur celle-ci et encore moins de se substituer à l'un ou l'autre partenaire de la négociation. L'avenant 109 à la convention nationale des centres de lutte contre le cancer a eu pour finalité de transposer les mesures salariales adoptées pour la fonction publique hospitalière dans la mesure où les partenaires sociaux en acceptaient le principe et les modalités. En ce qui concerne ces établissements et cette convention collective, le choix a été fait d'un ajustement différencié de ces catégories de personnel. La révision en cours de la convention collective apportera quelques changements à sa structure générale et au mode de classification des emplois : c'est ainsi que le groupe des personnels paramédicaux intervenant au sein des CLCC acquerra une plus grande homogénéité et admettra la qualification spécifique d'infirmière de bloc opératoire diplômée d'Etat. La détermination de la rémunération spécifique de cette catégorie d'emploi relève de la négociation à venir entre la fédération et les représentations syndicales qui devra s'engager sur le principe de ce nouveau dispositif statutaire et sur ses conséquences salariales.
