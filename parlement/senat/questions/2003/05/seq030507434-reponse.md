@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030507434
+
+- Question : [SEQ030507434](seq030507434.md) — Lutte contre le paludisme
+
+## Réponse
+
+*Coopération, JO du 2003-07-17, page 2294*
+
+L'honorable parlementaire a appelé l'attention du ministre délégué à la coopération et à la francophonie sur la participation de la France à la lutte contre le paludisme. En 2003 la France participe au financement de l'initiative de l'OMS " Faire reculer le paludisme " par un projet de trois ans d'un montant d'un million quatre cent mille euros. Elle intervient également par des projets bilatéraux qui visent à renforcer les capacités des systèmes de santé des pays du Sud dans lesquels la lutte contre le paludisme est une des priorités. Enfin dans certains pays comme le Rwanda et le Surinam des projets du Fonds de solidarité prioritaire développent des composantes plus spécifiques de lutte contre le paludisme. En termes de recherche, le ministère des affaires étrangères soutient des instituts, travaillant dans les pays en développement, (instituts Pasteur de Dakar, Bangui et Tananarive ; centre Pasteur de Yaoundé ; Centre international de recherche médicale de Franceville au Gabon ; Centre de recherche médicale et sanitaire de Niamey et Centre Muraz à Bobo Dioulasso) qui ont tous sur financement français des programmes de recherche locaux concernant cette maladie. La participation de l'Etat français au Fonds mondial sida tuberculose et paludisme (FMSTP) d'un montant de cinquante millions d'euros pour l'année 2002 a permis de financer des projets paludisme pour un montant de l'ordre de sept millions d'euros car ces projets représentent quatorze pour cent du montant financé par le FMSTP. Annoncée au G8 d'Evian, la contribution française au Fonds mondial sera désormais de cent cinquante millions d'euros annuellement, ce qui permettra d'augmenter substantiellement notre appui à la lutte contre le paludisme.
