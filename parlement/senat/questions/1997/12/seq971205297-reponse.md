@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971205297
+
+- Question : [SEQ971205297](seq971205297.md) — Taux de cotisation des scieries au Fonds forestier national
+
+## Réponse
+
+*Économie, JO du 1998-02-19, page 574*
+
+Réponse. - Le Fonds forestier national (FFN) a connu en 1993 une très sérieuse crise financière due principalement aux difficultés de la filière bois et à la nécessité d'adapter la taxe forestière au règles communautaires. Face à la gravité de la situation pour les opérateurs de la filière bois, un ensemble important de mesures a été adopté dans le cadre de la loi de finances pour 1994. Le taux de la taxe forestière sur les sciages a ainsi été porté de 1 % à 1,65 %. Mais l'Etat a également consenti un effort financier très important, de l'ordre de 230 millions de francs, sous forme notamment d'une prise en charge de dépenses de personnel et d'une compensation pour le BAPSA de la suppression de la taxe sur les produits forestiers simultanément décidée. Ces dispositions ont permis de redresser la situation financière du Fonds forestier national et de sauvegarder ainsi de nombreux emplois liés à l'exploitation de la forêt et situés le plus souvent en milieu rural. L'effort engagé pour assurer la pérennité du FFN a été poursuivi en 1994. Ainsi, l'article 30 de la loi de finances pour 1995 a supprimé le prélèvement des 15 % opéré au profit du budget général sur le produit de la taxe forestière. Cette suppression a permis de réduire de 20 % les taux de la taxe et de ramener notamment le taux relatif aux sciages de 1,65 % à 1,30. Ce taux a été une nouvelle fois abaissé à 1,20 % par la loi de finances pour 1996. Il n'est pas possible de poursuivre la baisse des taux sans compromettre l'équilibre financier du FFN ou les actions qu'il mène en faveur des propriétaires forestiers et de l'ensemble de la filière bois. Cette diminution de taux conduirait en effet à une perte de recettes de 25 millions de francs environ.
