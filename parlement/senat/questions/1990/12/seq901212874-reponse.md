@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901212874
+
+- Question : [SEQ901212874](seq901212874.md) — Présence de panneaux publicitaires le long des routes
+
+## Réponse
+
+*Environnement, JO du 1991-11-28, page 2643*
+
+Réponse. - La loi n° 79-1150 du 29 décembre 1979 relative à la publicité, aux enseignes et aux pré-enseignes fixe des règles applicables aux dispositifs d'affichage publicitaire visibles de toutes voies ouvertes à la circulation publique. Ainsi la publicité est-elle interdite hors agglomération sauf dans des zones de publicité autorisée. En agglomération, elle a été admise sous certaines conditions. La réglementation prévoit notamment un rapport entre la surface maximale du dispositif publicitaire non lumineux et l'importance de la population municipale de l'agglomération où elle s'insère. Par ailleurs, la publicité est interdite en agglomération quand les panneaux publicitaires sont implantés dans des sites protégés. Dès la constatation d'une irrégularité au regard des dispositions de la présente loi ou des textes réglementaires pris pour son application, le maire ou le préfet prend un arrêté ordonnant soit la suppression, soit la mise en conformité du dispositif en infraction et le cas échéant, la remise en état des lieux. Conformément à l'article 13 de la loi précitée, le conseil municipal d'une commune peut, après constitution d'un groupe de travail, délimiter des zones de réglementation spéciale pour adapter la réglementation nationale aux circonstances locales. Ainsi, le dispositif réglementaire actuel est-il suffisant et il appartient aux autorités locales d'en assurer la meilleure application dans le cadre de leurs compétences respectives. Par ailleurs, bien qu'il ne concerne pas les problèmes esthétiques, le décret n° 76-148 du 11 février 1976 apporte également, dans l'intérêt de la sécurité routière, des restrictions pour les publicités et enseignes visibles des voies ouvertes à la circulation.
