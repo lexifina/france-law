@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030105278
+
+- Question : [SEQ030105278](seq030105278.md) — Exonération d'impôt sur les sociétés des régies municipales facilitant l'accès à la télévision
+
+## Réponse
+
+*Économie, JO du 2003-04-24, page 1403*
+
+Une régie communale dotée de l'autonomie financière qui exploite un service de télédistribution dans des conditions différentes de celles des entreprises, au regard notamment de l'intérêt général, n'exerce pas d'activité lucrative et ne sera donc pas redevable de l'impôt sur les sociétés de droit commun. A l'inverse, elle sera assujettie à cet impôt, en application des dispositions combinées des articles 206 (1) et 1654 du code général des impôts, ainsi que de l'article 165 de l'annexe IV à ce même code, si son activité concurrence celle des entreprises dans des conditions d'exercice similaires relatives, notamment, au produit offert, aux prix pratiqués, au public bénéficiant du service et à la publicité réalisée. Cette activité ne peut en outre bénéficier de l'exonération prévue à l'article 207 (1.6°) du code déjà cité qui est réservée par la jurisprudence aux régies créées pour exploiter ou exécuter un service public indispensable à la satisfaction des besoins collectifs des habitants de la collectivité locale où elles sont situées, à l'exclusion de celles qui n'offrent pour cette collectivité qu'un intérêt purement économique ou financier. Or l'exploitation d'un réseau câblé de distribution de programmes télévisés par une commune ne peut être regardée comme indispensable à la satisfaction des besoins collectifs des habitants de cette commune. L'assujettissement à l'impôt sur les sociétés d'une régie communale exerçant une activité de télédistribution dans des conditions similaires à celles du secteur concurrentiel apparaît donc pleinement justifié au regard des dispositions précitées.
