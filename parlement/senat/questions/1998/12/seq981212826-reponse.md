@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981212826
+
+- Question : [SEQ981212826](seq981212826.md) — Employés de maison : décès de l'employeur
+
+## Réponse
+
+*Économie, JO du 2000-06-08, page 2067*
+
+Réponse. - Il résulte des dispositions de l'article 768 du code général des impôts que pour être déduites de l'actif héréditaire pour la liquidation des droits de mutation par décès les dettes doivent être à la charge du défunt le jour de son décès. Or, les indemnités évoquées par l'auteur de la question dues à raison de la rupture du contrat de travail du fait même du décès de l'employeur ne répondent pas à ces conditions dès lors que ces dettes n'ont pris naissance qu'après le décès et incombent aux successibles. Toutefois, il est admis, à titre dérogatoire, que ces indemnités soient retenues au passif de la succession de l'employeur à la condition que celles-ci ne soient pas prises en compte comme une charge déductible d'une exploitation industrielle, commerciale, artisanale, agricole ou libérale. En ce qui concerne la réduction d'impôt prévue à l'article 199 sexdecies du code général des impôts, cet avantage fiscal est assis sur les sommes rémunérant des services rendus par un salarié travaillant pour le contribuable à son domicile. Dès lors que le dernier salaire et l'indemnité de congés payés sont exigibles au titre d'une activité exercée pendant une période antérieure au décès de l'employeur, les dépenses payées à ce titre par les ayants droit du défunt entrent dans l'assiette de la réduction d'impôt imputable sur la cotisation d'impôt sur le revenu due au nom du défunt pour la période du 1er janvier à la date du décès. Tel n'est pas le cas, en revanche, comme le souligne le parlementaire, des indemnités de préavis et de licenciement qui sont destinées à réparer le préjudice résultant de la rupture du contrat de travail consécutive au décès de l'employeur.
