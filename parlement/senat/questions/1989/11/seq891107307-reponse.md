@@ -1,0 +1,9 @@
+# Réponse à la question SEQ891107307
+
+- Question : [SEQ891107307](seq891107307.md) — Refus de réintégration d'un fonctionnaire à l'issue d'un congé parental
+
+## Réponse
+
+*Équipement, JO du 1990-03-08, page 488*
+
+Réponse. - Les conditions de réintégration du fonctionnaire après un congé patental sont prévues à l'article 80 de la loi n° 87-588 du 30 juillet 1987 qui modifie l'article 54 de la loi no 84-16 du 11 janvier 1984. En vertu de ce texte le bénéficiaire d'un congé parental est réintégré de plein droit, au besoin en surnombre, dans son corps d'origine. Il est réaffecté dans son emploi. Dans le cas où celui-ci ne peut lui être proposé, le fonctionnaire est affecté dans un emploi le plus proche de son dernier lieu de travail. S'il le demande, il peut également être affecté dans un emploi le plus proche de son domicile sous réserve de l'application de l'article 60 de la loi n° 84-16 susvisée. Il résulte de ces dispositions que l'absence d'emploi vacant dans le corps d'origine du fonctionnaire concerné ne peut faire obstacle à sa réintégration, celle-ci est alors prononcée en surnombre budgétaire. Cependant son affectation dans son dernier emploi n'est possible que dans la mesure où celui-ci est vacant. A défaut, le fonctionnaire est affecté dans l'emploi le plus proche de son dernier lieu de travail. Il peut également demander une affectation dans l'emploi le plus proche de son domicile. Toutefois sa demande ne peut être satisfaite que dans le respect des dispositions du 4e alinéa de l'article 60 de la loi du 11 janvier 1984 susvisée selon lequel priorité est donné, dans les conditions prévues par les statuts particuliers, aux fonctionnaires séparés de leur conjoint pour des raisons professionnelles et aux fonctionnaires ayant la qualité de travailleur handicapé reconnu par la commission prévue à l'article 323-11 du code du travail.
