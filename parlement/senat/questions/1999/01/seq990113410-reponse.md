@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990113410
+
+- Question : [SEQ990113410](seq990113410.md) — Avenir des trufficulteurs
+
+## Réponse
+
+*Agriculture, JO du 1999-03-04, page 672*
+
+Réponse. - La trufficulture est une production dont l'impact sur le revenu des exploitations situées dans des zones rurales fragiles est pris en compte par les pouvoirs publics. Ainsi, pour assurer le développement de ce secteur, un dispositif national a été mis en place en partenariat entre l'Office national interprofessionnel des fruits et légumes et la fédération française des trufficulteurs. Ce dispositif comporte un important volet technique de recherche appliquée conduite dans les réseaux des stations régionales d'expérimentation. Il reçoit le soutien financier de l'Etat par le biais des contrats de plan Etat-région. D'autres travaux sont poursuivis par le centre technique interprofessionnel des fruits et légumes en collaboration avec l'Institut national de la recherche agronomique et le Centre national de la recherche scientifique. Ils portent notamment sur la micropropagation des chênes pédonculés et des chênes verts ainsi que sur la mise au point d'une méthode d'identification moléculaire des espèces de Tubers. Les résultats de ces recherches actuellement en cours, et qui seront très bientôt appliqués au terrain, permettront, d'une part, d'augmenter le potentiel de la récolte et, d'autre part, de contrôler les dénominations commerciales utilisées par les professionnels. Dans le domaine économique, les pouvoirs publics, à la demande de l'interprofession des fruits et légumes, ont rendu obligatoires, à tous les membres de la filière, les dispositions de l'accord interprofessionnel établi par la fédération française des trufficulteurs. Cet accord, qui se présente sous la forme d'une norme définissant l'ensemble des caractéristiques de commercialisation de la truffe, devrait permettre de renforcer la transparence de ce secteur confronté à la concurrence internationale.
