@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900710736
+
+- Question : [SEQ900710736](seq900710736.md) — Insuffisance des enveloppes financières des prêts bonifiés aux jeunes agriculteurs
+
+## Réponse
+
+*Agriculture, JO du 1992-01-23, page 176*
+
+Réponse. - Les enveloppes de prêts bonifiés ont été stabilisées cette année. Mais, depuis 1986, les prêts d'installation et les prêts spéciaux de modernisation - catégories les plus bonifiées - ont progressé plus vite que le total des enveloppes de prêts. Ils sont passés de 7,3 milliards de francs à 10,5 milliards de francs en 1991. Les pouvoirs publics se montrent particulièrement attentifs à l'évolution des délais d'attente et ont pris, cette année,un certain nombre de décisions destinées à les réduire significativement. Tout d'abord, la répartition départementale des enveloppes de prêts bonifiés a été effectuée en fonction de critères techniques et économiques, mais aussi de critères retraçant le dernier état de la demande exprimée en 1990, à savoir les volumes de prêts en attente au 31 décembre 1990. La situation des quotas départementaux de prêts bonifiés gérés par les préfets fait en outre l'objet d'un suivi régulier et a donné lieu à des abondements en coursd'année, dans la limite des réserves conservées au niveau national. C'est ainsi que le Premier ministre a décidé, à l'automne, de débloquer 1 872 millions de francs qui avaient été mis en réserve au début de cette année, afin de ramener le délai d'attente sur chaque catégorie de prêts à trois mois au plus au 31 décembre 1991, dans le cadre du plan d'urgence mis en oeuvre par le ministère de l'agriculture et de la forêt. Le montant des enveloppes attribuées au département de la Loire en 1991 a permis d'éviter que ne se constituent des files d'attentes significatives. Au 30 novembre 1991, le montant des files d'attente était inférieur à un mois de quota pour toutes les catégories de prêts.
