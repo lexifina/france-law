@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021204726
+
+- Question : [SEQ021204726](seq021204726.md) — Réglementation des acquisitions d'ouvrages par les collectivités locales
+
+## Réponse
+
+*Intérieur, JO du 2005-02-03, page 303*
+
+En permettant, dans le respect des règles existantes, aux acheteurs publics d'engager avec les candidats intéressés une procédure d'achat pour satisfaire un besoin qu'ils ont clairement identifié, le code des marchés publics s'attache à ne favoriser aucune catégorie de fournisseurs potentiels. Aussi, au regard des dispositions du code, la commande de livres s'analyse comme un marché de fournitures pour lequel l'acheteur s'adresse à l'ensemble des candidats susceptibles de répondre à ses besoins, qu'ils soient libraires ou éditeurs. Rien dans le code des marchés publics ne s'oppose donc à ce que des éditeurs puissent se porter candidats aux procédures d'achat d'ouvrages lancées par les collectivités publiques. Jusqu'à un montant de 230 000 euros, l'article 28 du code des marchés publics permet de recourir à une procédure adaptée pour effectuer ces achats de fourniture. Les marchés adaptés doivent faire l'objet d'une publicité suffisante pour permettre une mise en concurrence : de 90 000 euros à 230 000 euros, un avis d'appel public à la concurrence ; en deçà de ce montant, une publicité adaptée au montant et à la nature de la prestation, qui peut être sommaire. S'agissant de l'acquisition d'ouvrages distribués directement par leur seul éditeur, l'article 35-III-4 du code des marchés publics sur les procédures négociées permet aux collectivités publiques de s'adresser directement à lui pour négocier l'acquisition de tels ouvrages. Par ailleurs, le décret n° 2004-1298 du 26 novembre 2004 a introduit dans le code des marchés publics un seuil de 4 000 euros (HT) en deçà duquel les achats peuvent être effectués sans publicité ni mise en concurrence préalable.
