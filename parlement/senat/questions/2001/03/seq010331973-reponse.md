@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010331973
+
+- Question : [SEQ010331973](seq010331973.md) — Formation des collégiens à la sécurité routière
+
+## Réponse
+
+*Éducation, JO du 2001-07-19, page 2389*
+
+Afin de renforcer la continuité de la formation à la sécurité routière, le comité interministériel du 25 octobre 2000 a décidé de valoriser les attestations scolaires de sécurité routière délivrées à la suite de contrôles effectués en classes de cinquième et de troisième. D'une part, le brevet de sécurité routière sera désormais exigé pour conduire un cyclomoteur à partir de quatorze ans, et ce, sans limite d'âge. D'autre part, l'attestation scolaire de sécurité routière de second niveau, organisée en classe de troisième, sera, dans un proche avenir, prise en compte dans les épreuves du permis de conduire, en tant que premier module de l'épreuve théorique. Ces épreuves de l'attestation scolaire de sécurité routière, tant au niveau de la classe de cinquième qu'au niveau de la classe de troisième, sont organisées dans les collèges depuis 1994. La direction de l'enseignement scolaire réalise, avec le concours du ministère des transports, à la fois les livrets pédagogiques permettant de préparer ces épreuves et les documents vidéos qui servent de supports à l'examen. Tous les établissements publics et privés sous contrat du ministère de l'éducation nationale, du ministère de l'agriculture, de la justice, de la santé, tous les établissements scolaires français à l'étranger ainsi que le Centre national d'enseignement à distance (CNED), sont destinataires de l'ensemble de ces supports et organisent ces épreuves chaque année au mois de mars. En mars 2000, dans le département du Rhône, 16 745 élèves se sont présentés aux épreuves du premier niveau et 13 663 ont été reçus, soit 82 % de réussite. Pour le second niveau, 14 699 élèves se sont présentés et 12 764 ont été reçus, soit un pourcentage de réussite de 87 %.
