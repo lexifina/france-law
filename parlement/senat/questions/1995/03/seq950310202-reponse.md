@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950310202
+
+- Question : [SEQ950310202](seq950310202.md) — Modalités d'étalement de la plus-value nette à court terme
+
+## Réponse
+
+*Économie, JO du 1995-08-31, page 1672*
+
+Réponse. - En application des dispositions de l'article 7 de la loi de finances pour 1995, la plus-value nette à court terme afférente à l'ensemble des éléments amortissables de l'actif immobilisé, réalisée à la suite de la perception d'indemnités d'assurances ou de l'expropriation d'immeubles figurant à l'actif, peut être répartie, par fractions égales, sur plusieurs exercices à compter de celui suivant la réalisation de la plus-value. Chaque fraction est égale au rapport du montant de cette plus-value nette, dans la limite du montant global de la plus-value nette à court terme de l'exercice au cours duquel elle est réalisée, à la durée moyenne d'amortissement déjà pratiquée sur les biens détruits ou expropriés, pondérée en fonction du prix d'acquisition de ces biens et limitée à quinze ans. Lorsque le sinistre ne concerne que des biens acquis au cours de l'exercice de sa survenance ou intervient avant la clôture du premier exercice social, la plus-value nette à court terme doit être réintégrée en totalité au titre de l'exercice suivant celui de sa réalisation. Cette règle s'applique même si l'entreprise ne constate pas d'amortissement au titre de l'exercice au cours duquel les biens ont été acquis puis détruits. Cela étant, un bien acquis depuis moins d'un an ne génère normalement pas de plus-value. Dès lors, il paraît peu probable que l'imposition de la plus-value nette dans le cas visé soit en pratique de nature à créer des difficultés de trésorerie particulières. Toutefois, si tel était le cas, les entreprises concernées pourraient utilement se rapprocher du comptable du Trésor dont elles dépendent pour demander, compte tenu de leur situation particulière, un étalement de paiement de leur dette fiscale.
