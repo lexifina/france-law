@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940606858
+
+- Question : [SEQ940606858](seq940606858.md) — Situation de certains agents employés à titre temporaire par les communes
+
+## Réponse
+
+*Intérieur, JO du 1994-08-25, page 2089*
+
+Réponse. - L'article 8 du décret n° 91-298 du 20 mars 1991 portant dispositions statutaires applicables aux fonctionnaires territoriaux nommés dans des emplois permanents à temps non complet dispose qu'un fonctionnaire ne peut occuper un ou plusieurs emplois permanents à temps non complet que si la durée totale de services qui en résulte n'excède pas de plus de 15 p. 100 celle afférente à un emploi à temps complet. Ces dispositions n'étant applicables qu'à la date de publication du décret du 20 mars 1991, soit le 22 mars 1991, les fonctionnaires à temps non complet dont la durée totale de service dépassait avant cette date le maximum autorisé conservent leurs emplois au titre des droits acquis. Le respect par les fonctionnaires de la durée maximale hebdomadaire de service dans le cas de recrutements effectués après la date de publication du décret du 20 mars 1991 doit être vérifié par chaque maire recrutant un agent à temps non complet. En outre, l'article 12 du décret-loi du 29 octobre 1936 relatif aux cumuls de retraite, de rémunérations et de fonctions indique que toutes les rémunérations mises en paiement par les collectivités, à quelque titre que ce soit, devront être notifiées à l'ordonnateur du traitement principal qui sera chargé de les centraliser et d'en établir chaque année un relevé certifié exact et complet par l'intéressé. Ce relevé vaudra titre de perception pour le reversement à la collectivité des sommes perçues en dépassement de la limite de cumul ; il sera en ce cas établi en la forme exécutoire. Le décret n° 58-430 du 11 avril 1958 modifié par le décret n° 72-201 du 9 mars 1972 précise les conditions d'application de cet article.
