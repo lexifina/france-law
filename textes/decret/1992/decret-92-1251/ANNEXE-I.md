@@ -1,61 +1,85 @@
 # Article ANNEXE I
 
-Emplois occupés par des fonctionnaires titulaires
+Fonctions exercées pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire
 
-Fonctions exercées pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire (sauf lorsque ces fonctions sont exercées par des fonctionnaires appartenant à un corps dont le dernier échelon est doté d'un indice brut supérieur à 901) :
+(sauf lorsque ces fonctions sont exercées par des fonctionnaires appartenant à un corps dont le dernier échelon est doté d'un indice brut supérieur à 966)
 
-- chef des services d'exploitation ;
+Chef des services d'exploitation.
 
-- premier fondé de pouvoir de l'agent comptable ;
+Premier fondé de pouvoir de l'agent comptable.
 
-- chef d'atelier de liquidation des prestations aux services d'exploitation ;
+Chef d'atelier de liquidation des prestations aux services d'exploitation.
 
-- agent d'accueil et de renseignements téléphoniques ;
+Agent d'accueil et de renseignements téléphoniques.
 
-- adjoint au chef des services d'exploitation ;
+Responsable d'étude et de formation professionnelle aux services d'exploitation.
 
-- responsable d'étude et de formation professionnelle aux services d'exploitation ;
+Responsable du contrôle à l'agence comptable.
 
-- responsable du contrôle à l'agence comptable ;
+Chef de division du contrôle à l'agence comptable.
 
-- chef de division du contrôle à l'agence comptable ;
+Chef d'atelier de contrôle à l'agence comptable.
 
-- chef d'atelier de contrôle à l'agence comptable ;
+Chef d'équipe des services médicaux.
 
-- chef d'équipe des services médicaux ;
+Responsable du courrier-vaguemestre.
 
-- responsable du courrier-vaguemestre ;
+Chef de cabinet du directeur de la Caisse nationale militaire de sécurité sociale.
 
-- chef de cabinet du directeur de la Caisse nationale militaire de sécurité sociale ;
+Chef du bureau personnels et pensions.
 
-- chef du bureau personnels et pensions ;
+Chef du bureau financier.
 
-- chef du bureau financier ;
+Chef du bureau réglementation.
 
-- chef du bureau réglementation ;
+Chef du bureau contentieux.
 
-- chef du bureau contentieux ;
+Chef du bureau documentation.
 
-- chef du bureau documentation ;
+Chef du bureau justification archives.
 
-- chef du bureau justification archives ;
+Adjoint administratif au chef des services médicaux.
 
-- adjoint administratif au chef des services médicaux ;
+Chef du service du matériel et de l'infrastructure.
 
-- chef du service du matériel et de l'infrastructure ;
+Chef de section au service du matériel et de l'infrastructure.
 
-- chef de section au service du matériel et de l'infrastructure ;
+Animateur de salle de décompte aux services d'exploitation.
 
-- animateur de salle de décompte aux services d'exploitation ;
+Chef de groupe aux services d'exploitation.
 
-- chef de groupe aux services d'exploitation ;
+Responsable de formation professionnelle aux services médicaux.
 
-- conducteur de machine à insérer aux services d'exploitation ;
+Responsable de l'imprimerie.
 
-- responsable de formation professionnelle aux services médicaux ;
+Gérant du restaurant.
 
-- responsable de l'imprimerie ;
+Chef de section documentation aux services médicaux.
 
-- gérant du restaurant ;
+Chargé du secrétariat particulier du directeur de la Caisse nationale militaire de sécurité sociale.
 
-- chef de section documentation aux services médicaux.
+Chef de section aux services de direction.
+
+Chef de section réglementation aux services de direction.
+
+Deuxième fondé de pouvoir de l'agent comptable.
+
+Chef du bureau comptabilité à l'agence comptable.
+
+Chef du bureau paiements techniques à l'agence comptable.
+
+Chef des divisions de contrôle à l'agence comptable.
+
+Adjoint administratif au chef de l'antenne de Paris.
+
+Chef du bureau des relations extérieures.
+
+Liquidateur de marchés.
+
+Adjoint au chef du bureau du personnel et des pensions.
+
+Adjoint au chef du bureau financier.
+
+Adjoint au chef du bureau réglementation.
+
+Chef de division aux services d'exploitation.
