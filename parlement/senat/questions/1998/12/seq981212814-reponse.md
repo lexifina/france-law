@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981212814
+
+- Question : [SEQ981212814](seq981212814.md) — Etablissement d'une doctrine sur la fongibilité des enveloppes sanitaires et médicosociales
+
+## Réponse
+
+*Emploi, JO du 1999-03-25, page 977*
+
+Réponse. - L'article 16 de l'ordonnance nº 96-346 du 24 avril 1996 portant réforme de l'hospitalisation publique et privée autorise les transferts de crédits des établissements publics de santé, des établissements de santé privés à but lucratif admis à participer à l'exécution du service public hospitalier ou à prix de journée préfectoral ayant opté pour la dotation globale en 1996, vers les structures médico-sociales énumérées à l'article 1er de la loi nº 75-535 du 30 juin 1975 relative aux institutions sociales et médico-sociales. La fongibilité des enveloppes sanitaires et médico-sociales est un levier en faveur de la politique d'adaptation et de reconversion des établissements hospitaliers. Elle permet de réorienter les moyens financiers vers des besoins actuellement insuffisamment satisfaits dans le secteur des personnes handicapées et des personnes âgées. Dans le cadre de l'élaboration de la loi de financement de la sécurité sociale, un recensement sur les mouvements entre ces enveloppes est effectué à partir d'informations communiquées par les directions départementales et régionales des affaires sanitaires et sociales, d'une part, et par les agences régionales de l'hospitalisation, d'autre part. Après validation de ces données et concertation entre les directions de l'administration centrale concernées, les transferts de crédits sont pris en compte dans le calcul de l'objectif prévisionnel des dépenses des établissements sanitaires sous dotation globale et dans celui de l'objectif prévisionnel des dépenses des établissements médico-sociaux. Ainsi, le montant des crédits transférés de l'enveloppe sanitaire vers l'enveloppe médico-sociale s'élève à 267 MF pour 1999.
