@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980910641
+
+- Question : [SEQ980910641](seq980910641.md) — Fonds d'investissement des transports terrestres et des voies navigables (FITTVN)
+
+## Réponse
+
+*Équipement, JO du 1999-06-24, page 2159*
+
+Réponse. - Le Fonds d'investissement des transports terrestres et des voies navigables (FITTVN) est un compte d'affectation spéciale qui, comme l'a rappelé le Conseil constitutionnel à plusieurs reprises, fait partie intégrante du budget de l'Etat. Les recettes et la nature des engagements financiers qu'ils permettent sont soumis au vote et au contrôle du Parlement dans le cadre de la loi de finances initiale. Des parlementaires sont désignés par les assemblées pour participer à son comité de gestion. Le Fonds d'investissement des transports terrestres et des voies navigables (FITTVN) constitue un outil budgétaire efficace pour promouvoir l'intermodalité et contribuer à l'aménagement du territoire. Les programmes routiers financés par ce fonds qui portent actuellement pour l'essentiel sur des liaisons destinées à irriguer le Massif central et le Morvan, comme l'A 20 Vierzon-Brive, l'A 75 Clermont-Fernand-Béziers, ou la route nationale 7, ou des liaisons financées dans le cadre des contrats de plan, correspondent à la vocation assignée par le législateur. Par ailleurs, afin de compenser l'instauration puis le doublement du montant de la taxe d'aménagement du territoire (TAT) institué pour alimenter le FITTVN, des mesures de rééquilibrage ont été accordées, soit sous forme d'allongement de la durée des concessions, soit par le biais de majorations de tarifs, étalées sur quatre ans à partir de 1996 pour éviter des augmentations trop importantes. L'instauration de la TAT n'a donc pas entraîné de diminution des ressources des sociétés concessionnaires d'autoroutes.
