@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961119099
+
+- Question : [SEQ961119099](seq961119099.md) — Situation des Français en Algérie
+
+## Réponse
+
+*Affaires étrangères, JO du 1996-12-26, page 3489*
+
+Réponse. - Le gouvernement français suit avec la plus grande attention l'évolution de la situation sécuritaire en Algérie. Dans la détermination de sa politique, la sécurité des Français dans ce pays reste une préoccupation essentielle. Pour les agents de l'Etat français, des travaux ont été entrepris pour accroître la sécurité du parc Peltzer où ils ont été regroupés. Les centres culturels dans tout le pays et les consulats généraux d'Oran et d'Annaba ont été mis en sommeil. Nous continuons à conseiller à nos compatriotes, dans la mesure où leur présence en Algérie n'est pas indispensable, de différer leur projet de s'y rendre. Aux ressortissants français qui résidaient en Algérie, et qui le souhaitaient, nous avons conseillé de rentrer dans la mesure où ils n'estimaient pas leur présence absolument nécessaire. A ceux qui ont choisi de demeurer sur place, nous recommandons la plus grande vigilance. Notre consulat général à Alger reste en liaison avec ceux qui se sont signalés à son attention, soit parce qu'ils sont immatriculés, soit parce qu'ils ont établi un contact avec ses services à l'occasion d'une démarche administrative. Pour ce qui est de nos entreprises présentes en Algérie dans le cadre de contrats passés avec des sociétés algériennes, dans le secteur des hydrocarbures en particulier, leurs personnels sont regroupés, comme tous les expatriés, sur des sites appropriés, bénéficiant de protections particulières. Enfin, si la sécurité des communautés religieuses est du ressort des autorités catholiques de l'Algérie, nous restons bien évidemment disposés, lorsque cela nous est demandé, à contribuer à son amélioration.
