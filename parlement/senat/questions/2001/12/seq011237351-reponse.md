@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011237351
+
+- Question : [SEQ011237351](seq011237351.md) — Application du nouveau code des marchés publics en cas d'empêchement ponctuel d'un élu membre de la commission d'appels d'offres
+
+## Réponse
+
+*Économie, JO du 2002-02-21, page 568*
+
+Les règles relatives à la désignation des suppléants des membres titulaires des commissions d'appel d'offres ont été fixées à l'article 22-III du code des marchés publics qui prévoit " qu'il est pourvu au remplacement d'un membre titulaire de la commission d'appel d'offres par le suppléant inscrit sur la même liste et venant immédiatement après le dernier titulaire élu de ladite liste ". Le code des marchés publics simplifie ainsi les modalités de fonctionnement des commissions d'appel d'offres en permettant que le remplacement définitif d'un membre titulaire n'implique plus désormais l'élection d'une nouvelle commission d'appel d'offres, mais se fasse par la titularisation du suppléant figurant en première position sur la même liste que le titulaire en cause. Le fait que le code fixe ainsi les conditions dans lesquelles un suppléant peut être admis à remplacer définitivement un titulaire ne remet toutefois pas en cause la vocation classique du suppléant à remplacer momentanément un titulaire sans acquérir lui-même la qualité de titulaire. Cette disposition réglementaire nouvelle, tout comme le commentaire qui en est fait au point 22.1 de l'instruction d'application du code, n'ont donc ni pour objet ni pour effet d'empêcher un remplacement momentané d'un membre titulaire par un suppléant. Une telle interdiction risquerait en effet de paralyser le fonctionnement des commissions d'appel d'offres dans le cas, qui ne saurait toutefois constituer un mode habituel de fonctionnement des commissions, où plusieurs titulaires se trouveraient empêchés.
