@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871108505
+
+- Question : [SEQ871108505](seq871108505.md) — Avenir de l'aviation légère et sportive
+
+## Réponse
+
+*Transports, JO du 1987-12-24, page 2018*
+
+Réponse. -En 1988, la dotation pour l'aviation légère est prévue à hauteur de 9,3 millions de francs. Il est en effet apparu nécessaire au Gouvernement de poursuivre la politique de réduction des aides publiques et d'accroissement de l'autonomie des fédérations. Il faut cependant noter que la réduction envisagée (9 p. 100 est faible, en particulier comparativement à celles supportées par d'autres secteurs d'activité subventionnés. Il a été tenu compte à cet égard de la nécessité d'aider les clubs dans leur action de formation des jeunes, ça qui concourt à l'accroissement de la sécurité dans l'aviation légère et permet de fournir largement les effectifs de pilotes nécessaires au transport et au travail aériens. En effet, plus de 3 500 brevets sont délivrés chaque année aux pilotes privés, pour des besoins annuels, dans l'aviation commerciale, de l'ordre de 300 pilotes, dont 180 pilotes professionnels de 1re classe. Le besoin en pilotes qui se fait actuellement sentir dans le transport aérien ne provient donc pas d'un nombre insuffisant de pilotes privés formés par les aéro-clubs, mais de la saturation des moyens de formation des pilotes professionnels. Pour remédier à cette pénurie qui se fera surtout sentir en 1988 et 1989, les mesures nécessaires ont été prises. A partir de 1989, la réforme des licences entraînée par la suppression, à l'échelon international, du brevet de pilote professionnel de 1re classe, permettra la mise en place de structures de formation plus adaptées à la production d'un nombre suffisant de pilotes et placera ainsi le transport aérien français dans les meilleures conditions pour préparer l'échéance de 1992.
