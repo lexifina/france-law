@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940405915
+
+- Question : [SEQ940405915](seq940405915.md) — Structures locales d'intervention dans le traitement du chômage
+
+## Réponse
+
+*Travail, JO du 1994-07-14, page 1777*
+
+Réponse. - L'honorable parlementaire attire l'attention du ministre du travail, de l'emploi et de la formation professionnelle sur l'intervention des structures locales dans le traitement du chômage et le rôle qu'elles peuvent jouer en appui du travail effectué par l'ANPE. Le cadre général de l'action de l'ANPE est, depuis le 18 juillet 1990, le contrat de progrès signé avec l'Etat. Deux objectifs prioritaires indissociables lui ont été fixés : la satisfaction d'un plus grand nombre d'offres d'emploi dans les délais les plus brefs d'une part, l'appui précoce aux personnes à la recherche d'un emploi ou d'une formation en veillant à limiter les risques d'exclusion d'autre part. Les réflexions relatives au nouveau contrat de progrès qui sera signé entre l'Etat et l'Agence intègrent et intensifient les dimensions portant sur la déconcentration de l'établissement et le développement du partenariat avec les collectivités territoriales, les services déconcentrés du ministère et les ASSEDIC, afin d'assurer à la fois une plus grande cohérence entre la gestion de l'emploi et les réalités socio-économiques locales et une marge d'initiative plus large aux opérateurs locaux. Dans le cadre de la mise en oeuvre des espaces-jeunes (art. 76 de la loi no 93-1313 du 23 décembre 1993), il est prévu d'établir des conventions entre l'Etat, les PAIO, les missions locales, les collectivités territoriales et l'ANPE. Ces conventions comprendront des dispositions précisant les moyens mobilisés par chaque partie. L'Etat participe d'ores et déjà au financement des structures d'accueil des jeunes, à hauteur de plus de 600 millions de francs en 1994, soit 70 p. 100 du budget global de ces structures au plan national.
