@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860802395
+
+- Question : [SEQ860802395](seq860802395.md) — Elections sénatoriales: désignation des délégués des conseils municipaux
+
+## Réponse
+
+*Intérieur, JO du 1986-09-18, page 1322*
+
+Réponse. -L'article L. 288 du code électoral autorise, dans les communes de moins de 9 000 habitants, les conseillers municipaux à voter par procuration dans les conditions définies par l'article L. 121-12 du code des communes (ancien art. 27 du code de l'administration communale). En revanche, l'article L. 289, complété par l'article R. 139 du même code, n'ouvre cette possibilité, dans les communes de 9 000 habitants et plus, qu'aux seuls députés et conseillers généraux. Contrairement aux hypothèses émises par les auteurs de la question, ces deux dispositions trouvent leur source dans le même texte, l'ordonnance n° 58-1098 du 15 novembre 1958 (art. 8 et 10), relative à l'élection des sénateurs. Ils n'ont pas été modifiés depuis lors. Cette différence de traitement provient du souci d'assurer la plus grande représentativité possible aux délégués élus par les conseils municipaux des communes de moins de 9 000 habitants, en nombre le plus souvent très inférieur a` l'effectif du conseil municipal. En revanche, ce problème se posait avec moins d'acuité dans les communes de 9 000 habitants et plus, où tous les conseillers municipaux sont délégués de droit, ce qui assurait automatiquement la représentation de l'ensemble des tendances du conseil municipal. Il convient, en outre, de préciser qu'en 1958 l'usage du vote par procuration dans les conseils municipaux demeurait relativement récent, puisque autorisé seulement par une loi du 6 septembre 1947. Cela étant, le Gouvernement ne verrait aucun inconvénient à l'examen d'une proposition de loi alignant, en cette matière, la situation des communes de 9 000 habitants et plus sur celles de moins de 9 000 habitants.
