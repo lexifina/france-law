@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960314683
+
+- Question : [SEQ960314683](seq960314683.md) — Système d'écrêtement de la contribution des communes aux dépenses d'action sociale et de santé des départements
+
+## Réponse
+
+*Fonction publique, JO du 1996-05-30, page 1333*
+
+Réponse. - La participation des communes aux dépenses d'aide sociale obligatoire et de santé des départements est régie par les dispositions du décret no 87-1146 du 31 décembre 1987. L'article 7 de ce décret prévoit un mécanisme d'" écrêtement " qui corrige les dispositions des articles 5 et 6 afin que la contribution d'une commune, au titre d'un exercice donné, ne puisse augmenter de plus de trois points par rapport au pourcentage de variation constaté pour l'ensemble des communes du département. M. le sénateur fait valoir que ce seuil de trois points pour la mise en place du mécanisme d'écrêtement ne permettrait pas d'éviter dans certains cas une très forte dérive de la participation des communes et propose de l'abaisser. Dans le même temps, l'on peut considérer que ce mécanisme d'écrêtement contribue à annihiler les effets d'une prise en compte des critères évolutifs telle qu'elle est prévue à l'article 5 du décret précité. D'autres demandes visent d'ailleurs à ce que le seuil en dessus duquel le mécanisme d'écrêtement est déclenché soit élevé. L'exploitation d'une enquête menée auprès des préfectures à la fin de l'année 1995 a confirmé que les modalités de répartition de la contribution globale entre les communes sont très variables selon les départements et peuvent introduire des disparités entre communes. Elle confirme aussi que les modifications susceptibles d'être apportées au dispositif actuel peuvent se traduire par des mouvements financiers importants. C'est pourquoi une concertation interministérielle est en cours sur les travaux d'analyse des résultats de l'enquête.
