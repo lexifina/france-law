@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960817178
+
+- Question : [SEQ960817178](seq960817178.md) — Marché de la mesure et du contrôle de la qualité de l'air
+
+## Réponse
+
+*Environnement, JO du 1996-09-26, page 2492*
+
+Réponse. - Mme le ministre de l'environnement a pris connaissance avec intérêt de la question posée par l'honorable parlementaire relative au marché de la mesure et du contrôle de la qualité de l'air. L'information parue dans le journal Le Progrès de Lyon, le 30 juillet 1996, est issue d'une étude réalisée pour le ministère de l'environnement par BIPE Conseil en date du 25 juin 1996 relative à la conjoncture des activités éco-industrielles. Les chiffres cités par l'honorable parlementaire concernent le marché intérieur français de la seule instrumentation de mesure et de contrôle dans le domaine de l'air et du gaz. Les chiffres fournis par l'étude n'intègrent pas la prise en compte de la future loi sur l'air et l'utilisation rationnelle de l'énergie, dont l'adoption imprimera une accélération au marché des mesures et contrôles, tout particulièrement dans l'air ambiant compte tenu de la couverture progressive du territoire national par des réseaux de surveillance de la qualité de l'air. L'instrumentation est le domaine de constructeurs très spécialisés, qui sont leaders sur le marché. Les perspectives de croissance des exportations pourraient conduire à des taux de croissance de leur chiffre d'affaires et de leur effectif supérieurs à la seule croissance du marché intérieur. Le marché des dépoussiéreurs et des systèmes d'épuration des gaz est quant à lui estimé à 420 millions de francs en 1995, avec une perspective de croissance de 3 p. 100 en 1996 et 4 p. 100 en 1997. Il devrait rester porteur à terme sous l'effet conjugué de la réglementation, en particulier des textes d'application de la loi sur l'air et l'utilisation rationnelle de l'énergie, et du redressement de l'investissement industriel.
