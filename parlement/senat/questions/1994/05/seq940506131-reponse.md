@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940506131
+
+- Question : [SEQ940506131](seq940506131.md) — Sécurité des établissements scolaires des départements d'outre-mer
+
+## Réponse
+
+*Éducation, JO du 1994-06-30, page 1615*
+
+Réponse. - La commission présidée par M. Schléret a remis ses conclusions au ministre de l'éducation nationale le 19 avril. Elle a étudié l'ensemble des établissements scolaires, publics et privés, situés sur le territoire métropolitain et dans les départements et territoires d'outre-mer. Une échelle de risques a été établie en matière de sécurité incendie ; un examen des autres questions de sécurité a été effectué, qu'il s'agisse de l'intrusion des tiers dans les établissements scolaires ou des risques particuliers liés aux ateliers ou à la pratique de l'éducation physique et sportive. Un paragraphe spécifique a été consacré aux départements et territoires d'outre-mer ; il mentionne leurs difficultés climatiques, leur forte croissance démographique et leur faible potentiel fiscal. Sur les bases du rapport de la commission présidée par M. Schléret, le nouveau contrat pour l'école a retenu différentes propositions et, notamment, la création d'un observatoire national de la sécurité, l'élaboration d'un projet de sécurité et la désignation d'un correspondant sécurité dans chaque établissement. Parallèlement, le Gouvernement a décidé d'apporter des aides exceptionnelles aux collectivités compétentes. 12 milliards de francs de prêts bonifiés vont être mis à leur disposition, avec une première tranche de 4 milliards de francs dont la répartition vient d'être effectuée. Par ailleurs, 2,5 milliards de francs de subventions sont prévus, dont une première tranche de 500 millions de francs sur le présent exercice budgétaire. Ces aides faciliteront le règlement rapide des situations les plus critiques en matière de sécurité des bâtiments tant en métropole qu'outre-mer.
