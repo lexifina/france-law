@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991019861
+
+- Question : [SEQ991019861](seq991019861.md) — Prise en compte des années de service en Algérie et préretraite
+
+## Réponse
+
+*Anciens combattants, JO du 2000-01-20, page 197*
+
+Réponse. - L'honorable parlementaire appelle l'attention du secrétaire d'Etat à la défense chargé des anciens combattants sur la mise en uvre de l'article 121 de la loi de finances pour 1991, prévoyant un régime particulier en faveur des anciens combattants pour la préretraite ARPE. Cette mesure était très attendue car elle étend à tous les combattants d'Afrique du Nord salariés du secteur privé le droit à une préretraite dans des conditions avantageuses. En outre, elle vient compléter, en faveur des actifs, la mesure de retraite anticipée prise au profit des chômeurs de longue durée par la loi de finances pour 1998. Les dispositions de la loi de finances pour 1991 ne pouvaient être appliquées en l'état, le régime de l'ARPE ayant été modifié entre-temps dans des conditions qui en auraient dénaturé le sens et augmenté le coût sans profit pour les bénéficiaires puisqu'elles auraient seulement transféré sur l'Etat une grande partie du financement, jusqu'alors assuré par des cotisations patronales et salariales. Le secrétaire d'Etat a cependant tenu à rechercher une solution pour sortir de cette impasse. Avec l'accord du ministre de l'économie, des finances et de l'industrie, une convention vient d'être conclue le 7 décembre 1999 avec l'UNEDIC au terme de laquelle le dispositif " ARPE ancien combattant " pourra être accordé aux salariés à qui cette préretraite a été refusée par leur employeur entre le 1er janvier et le 31 décembre 1999, l'Etat prenant à sa charge l'intégralité de l'allocation due. La mise en uvre de cette convention sera assurée par les guichets des ASSEDIC auxquels les intéressés peuvent d'ores et déjà s'adresser.
