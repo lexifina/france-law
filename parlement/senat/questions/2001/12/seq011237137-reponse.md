@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011237137
+
+- Question : [SEQ011237137](seq011237137.md) — Avenir du musée de l'Homme
+
+## Réponse
+
+*Recherche, JO du 2002-04-11, page 1060*
+
+C'est dans le cadre de la rénovation du Muséum national d'histoire naturelle que doit être envisagée la réflexion sur l'avenir du musée de l'Homme, de ses collections, de sa bibliothèque et de ses locaux, qui dépendent du Muséum. Cette réflexion devra être conduite en prenant en compte l'histoire propre et les spécificités de ce laboratoire-musée, la nécessité de sa rénovation matérielle, la création du musée du quai Branly et le souci d'élaborer un projet scientifique novateur qui constitue, à l'ère post-coloniale, un véritable retour à l'esprit des fondateurs du musée de l'Homme. En effet, le regard porté sur les objets réunis dans les collections a été profondément renouvelé. La recherche scientifique dans ce domaine, en France et à l'étranger, s'articule désormais autour de deux directions principales : d'une part, l'étude de la constitution des collections, qui nous permet de mieux comprendre l'histoire de la société française, de son regard sur l'autre, de ses orientations esthétiques et scientifiques, d'autre part, l'analyse des objets eux-mêmes, qui sont des signes essentiels à toute interprétation des cultures, des sociétés ou des arts desquels ils ont été extraits. Ces éléments nouveaux devront trouver toute leur place dans un projet scientifique qui veille à la préservation des collections et de l'héritage du musée de l'Homme. Ce projet a fait et continuera à faire l'objet de discussions approfondies associant les différentes communautés scientifiques et toutes les institutions concernées. Le nouveau président du Muséum, M. Bernard Chevassus, a fait de ce projet l'une des priorités de son action.
