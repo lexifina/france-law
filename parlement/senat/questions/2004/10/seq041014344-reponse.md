@@ -1,0 +1,9 @@
+# Réponse à la question SEQ041014344
+
+- Question : [SEQ041014344](seq041014344.md) — Action des services de gendarmerie et de police en matière de contraventions courantes
+
+## Réponse
+
+*Intérieur, JO du 2005-01-06, page 37*
+
+L'honorable parlementaire appelle l'attention du ministre de l'intérieur, de la sécurité intérieure et des libertés locales sur les compétences des services de police et de gendarmerie nationales en matière de verbalisation des contraventions aux arrêtés de police municipaux. L'article L. 2212-5 du code général des collectivités territoriales dispose que les agents de police municipale exécutent les tâches relevant de la compétence du maire que celui-ci leur confie, sans préjudice de la compétence générale de la police nationale et de la gendarmerie nationale. Ainsi, la compétence des agents de l'Etat n'a pas été remise en cause par l'apparition d'agents de police municipale, et demeure générale à la fois en matière de police administrative et en matière de police judiciaire, dans la limite de leurs attributions fixées par le code de procédure pénale. Lorsqu'il existe un service de police municipale, l'exécution des arrêtés du maire et la constatation de leurs infractions lui sont naturellement confiées en priorité, conformément au code général des collectivités territoriales. La police municipale est en effet par nature une police de proximité, exerçant ses missions sous l'autorité du maire, et elle est ainsi mieux à même d'exécuter ces tâches, sans remettre en cause la compétence générale de la police ou de la gendarmerie nationales. Il revient aux conventions de coordination conclues entre le maire et le préfet de prévoir les modalités d'une coordination entre la police et la gendarmerie nationales, d'une part, et la police municipale, d'autre part, en matière d'exécution des arrêtés de police du maire et de constatation des infractions à ces arrêtés.
