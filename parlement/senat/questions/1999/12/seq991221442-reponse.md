@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991221442
+
+- Question : [SEQ991221442](seq991221442.md) — Recensement et élections municipales dans les communes rurales
+
+## Réponse
+
+*Intérieur, JO du 2000-02-24, page 692*
+
+Réponse. - Le décret nº 98-403 du 22 mai 1998 fixant la date et les conditions d'exécution du recensement général de la population a établi des règles de prises en compte des étudiants logés hors communautés différentes de celles qui avaient été retenues pour le recensement de 1990. En effet, en 1999, ces étudiants logés hors communautés sont recensés deux fois : une première fois dans la population municipale de la commune où ils se trouvent logés pour leurs études et une seconde fois dans la population comptée à part de la commune où se trouve leur résidence familiale. En 1990, ils n'étaient comptés qu'une fois, dans la population municipale de la commune où ils se trouvaient logés pour leurs études. Loin de pénaliser les communes abritant des résidences familiales d'étudiants, cette modification contribue au contraire à un accroissement de leur population. Toutefois, s'il est vrai que certaines personnes peuvent être recensées dans la population totale de deux communes, nul ne peut l'être dans la population municipale de deux communes, les doubles comptes figurant tous dans la population comptée à part. Les étudiants logés hors communautés ont donc été reclassés dans la population comptée à part de la commune de leur résidence familiale. Ils figurent ainsi dans la population totale de cette commune, obtenue par sommation de la population municipale et de la population comptée à part. C'est la population totale qui sert de base à l'attribution d'un certain nombre de dotations de l'Etat aux communes, notamment la dotation globale de fonctionnement. On estime que nombre d'habitants ainsi ajoutés à la population des communes abritant des résidences familiales d'étudiants est de l'ordre de 538 000.
