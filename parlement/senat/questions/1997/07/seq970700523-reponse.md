@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970700523
+
+- Question : [SEQ970700523](seq970700523.md) — Incidence de la délivrance du permis de construire à la subordination de réalisation d'aires de stationnement sur les transports en commun
+
+## Réponse
+
+*Logement, JO du 1997-09-11, page 2392*
+
+Réponse. - La gestion du stationnement constitue un élément-clé des politiques des déplacements urbains. Aujourd'hui les études préalables à la définition des normes de stationnement dans les documents d'urbanisme et donc des prescriptions imposées aux constructeurs au moment de la délivrance du permis de construire, doivent prendre en compte les réflexions menées notamment dans le domaine des transports collectifs. Si les collectivités compétentes en matière de documents d'urbanisme souhaitent développer les transports en commun et limiter l'accès des véhicules individuels dans le centre-ville, le nombre de stationnements peut y être limité, voire plafonné, indépendamment de la circulation, afin d'inciter les automobilistes à laisser leur véhicule aux abords du centre et utiliser les transports collectifs. Cette politique nécessite l'aménagement de parcs de stationnement public, situés en périphérie et servant de relais entre les transports individuels et collectifs. Par ailleurs les prescriptions imposées en matière de stationnement dans les documents d'urbanisme peuvent être différenciées selon la destination des constructions. En ce qui concerne plus particulièrement les constructions à usage d'activités économiques (bureau, commerce, industrie, activités artisanales), le nombre de places de stationnement imposées au constructeur doit tenir compte de la desserte des lieux de travail par les transports en commun. Les dispositions actuelles du code de l'urbanisme permettent de répondre en grande partie au problème du stationnement en milieu urbain. Pour cette raison, il n'est pas envisagé de le modifier sur ce point.
