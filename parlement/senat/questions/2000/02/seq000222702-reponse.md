@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000222702
+
+- Question : [SEQ000222702](seq000222702.md) — Réalisation d'ensembles immobiliers privés aux frontières des zones sensibles
+
+## Réponse
+
+*Logement, JO du 2001-02-22, page 676*
+
+Réponse. - Le Gouvernement partage l'avis de l'honorable parlementaire sur l'intérêt de favoriser la réalisation d'ensembles immobiliers privés aux franges des zones sensibles, afin d'y amener à la fois des accédants à la propriété et des investisseurs privés. C'est pourquoi il a été décidé que, dans le cadre de la loi solidarité et renouvellement urbains, les organismes HLM seront autorisés à conduire dans ce type de quartiers des opérations d'accession à la propriété dans des conditions de sécurité optimales. L'expérience des organismes HLM sur ce type de marché sera en effet précieuse pour développer des programmes adaptés. Afin de renforcer l'accession sociale dans ces quartiers, il a en outre été décidé de porter la quotité du prêt à taux zéro de 20 % à 30 % dans les zones urbaines sensibles (ZUS). Par ailleurs, dans le secteur du locatif intermédiaire, le prêt pour la location sociale du Crédit foncier de France sera réformé pour donner naissance à un produit à l'efficacité renforcée assis sur la ressource du livret A, qui pourra être utilisé par des investisseurs privés, à proximité des zones sensibles, pour y développer la mixité sociale. Il doit être toutefois souligné que la difficulté à trouver des accédants ou des investisseurs privés pour de telles opérations réside également dans l'image qu'ils pourraient avoir de la future zone en cours d'aménagement. L'effort pour les amener à y résider ou à y investir dépend donc aussi d'une politique locale volontariste et cohérente d'aménagement de cette zone : création de commerces et d'activités, transports urbains, services publics, commissariat, crèches etc., et ne saurait se limiter à la seule question de l'offre de logement adaptée.
