@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870505944
+
+- Question : [SEQ870505944](seq870505944.md) — Crédits pour la campagne précarité-pauvreté en 1986-1987 dans le Val-d'Oise
+
+## Réponse
+
+*Affaires sociales, JO du 1987-10-01, page 1540*
+
+Réponse. -Au titre du plan d'action contre la pauvreté et la précarité 1986-1987, le ministère des affaires sociales et de l'emploi a délégué au préfet du Val-d'Oise 1 979 500 F. Ce chiffre n'inclut pas l'aide alimentaire, contrairement aux hivers précédents. En effet, d'une part, les subventions à la Fédération nationale des banques alimentaires et aux restaurants du coeur ont été sensiblement augmentées ; d'autre part, les surplus agricoles de la Communauté économique européenne ont permis d'assurer des aides en quantités suffisantes. Dans le Val-d'Oise, elles ont été utilisées par cinq associations. En ce qui concerne les subventions aux associations caritatives nationales, la responsabilité de leur ventilation géographique appartient à ces fédérations. Dans le Val-d'Oise, les associations locales ont reçu par leur intermédiaire des subventions d'un montant total de 1 223 000 F (délégués par huit fédérations : A.T.D. quart monde, Entraide protestante, Emmaüs-France, Croix-rouge française, Secours catholique, Secours populaire français, Société Saint-Vincent-de-Paul, Union des foyers de jeunes travailleurs). Enfin, il faut noter que le département du Val-d'Oise ne bénéficie pas encore, le conseil général ne s'étant pas prononcé, du dispositif de complément local de ressources que l'Etat finance à hauteur de 40 p. 100 et qui permet de verser une allocation mensuelle de 2 000 F pendant six mois aux personnes démunies de toutes ressources, en contrepartie d'un travail à mi-temps. Lorsque ce dispositif sera institué dans le Val-d'Oise, la participation de l'Etat à la lutte contre la pauvreté en sera accrue d'autant.
