@@ -1,4 +1,4 @@
-# Article Annexe II relative aux services de la circulation aérienne
+# Article Annexe II : Appendice B
 
 PRINCIPES D'IDENTIFICATION DES ROUTES ATS ET DES POINTS SIGNIFICATIFS
 
@@ -176,9 +176,7 @@ c) De l'indicateur d'itinéraire mentionné en 1.2.2.1.1 e si nécessaire.
 
 2. Points significatifs.
 
-2.1. Indicatifs des points significatifs identifiés
-
-par l'emplacement d'une aide de radionavigation
+2.1. Indicatifs des points significatifs identifiés par l'emplacement d'une aide de radionavigation
 
 2.1.1 Noms en langage clair pour les points significatifs identifiés par l'emplacement d'une aide de radionavigation.
 
@@ -204,15 +202,17 @@ Le même indicatif codé ne doit pas être employé deux fois à moins de 1 100 
 
 par l'emplacement d'une aide de radionavigation
 
-2.2.1. Lorsqu'il est nécessaire d'établir un point significatif à un endroit qui n'est pas identifié par l'emplacement d'une aide de radionavigation, ce point significatif doit être désigné par un groupe " nom-indicatif codé " unique de cinq lettres qui soit prononçable. Ce " nom de code " sert alors de nom aussi bien que d'indicatif codé au point significatif.
+2.2.1. Lorsqu'il est nécessaire d'établir un point significatif à un endroit qui n'est pas identifié par l'emplacement d'une aide de radionavigation, ce point significatif doit être désigné par un groupe " nom-indicatif codé unique de cinq lettres qui soit prononçable. Ce " nom de code sert alors de nom aussi bien que d'indicatif codé au point significatif.
 
 2.2.2. Le nom de code doit être choisi de manière à éviter toute difficulté de prononciation pour les pilotes ou le personnel ATS.
 
 2.2.3. Le nom de code doit être facilement identifiable dans les communications en phonie et ne doit pas prêter à confusion avec les indicatifs utilisés pour d'autres points significatifs de la même région d'ensemble.
 
-2.2.4. Le nom de code assigné à un point significatif ne doit pas, si possible, être assigné à un autre point significatif. Si cette spécification ne peut être respectée, il convient de ne pas répéter un nom de code à moins de 11 000 km (6 000 milles marins) de l'emplacement du point significatif pour lequel il a été utilisé pour la première fois.
+2.2.4. Le nom de code assigné à un point significatif ne doit pas, si possible, être assigné à un autre point significatif. Si cette spécification ne peut être respectée, il convient de ne pas répéter un nom de code à moins de 11 000 km (6 000 milles marins) de l'emplacement du point significatif pour lequel il a été utilisé pour
 
-2.2.5. Dans les régions où il n'existe pas de système de routes fixes ou lorsque les routes suivies par des aéronefs varient en fonction de considérations opérationnelles, les points significatifs doivent être désignés par leurs coordonnées géographiques exprimées en degrés et, au besoin, en minutes et dixièmes de minutes de latitude et de longitude ; toutefois, les points significatifs établis de manière permanente et servant de points d'entrée ou de points de sortie dans ces régions doivent être désignés conformément aux dispositions pertinentes de 2.1 et 2.2.
+la première fois.
+
+2.2.5. Dans les régions où il n'existe pas de système de routes fixes ou lorsque les routes suivies par des aéronefs varient en fonction de considérations opérationnelles, les points significatifs doivent être désignés par leurs coordonnées géographiques exprimées en degrés, minutes et secondes de latitude et de longitude ; toutefois, les points significatifs établis de manière permanente et servant de points d'entrée ou de points de sortie dans ces régions doivent être désignés conformément aux dispositions pertinentes des 2.1 et 2.2.
 
 2.3. Emploi des indicatifs dans les communications
 

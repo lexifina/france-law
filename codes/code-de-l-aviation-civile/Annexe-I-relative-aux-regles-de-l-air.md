@@ -1,10 +1,10 @@
-# Article Annexe I relative aux règles de l'air
+# Article Annexe I : Chapitre Ier
 
 CHAPITRE Ier : Définitions.
 
 Dans la présente annexe I aux articles D. 131-1 à D. 131-10 du code de l'aviation civile :
 
-- le terme "service" correspond à la notion de fonction ou de service assurés alors que le terme "organisme" désigne une entité administrative chargée d'assurer un service ;
+- le terme " service correspond à la notion de fonction ou de service assurés alors que le terme " organisme désigne une entité administrative chargée d'assurer un service ;
 
 - les expressions ci-dessous employées dans les chapitres II à V ont la signification suivante :
 
@@ -76,7 +76,9 @@ Centre de coordination de sauvetage (RCC) : organisme chargé d'assurer l'organi
 
 Centre d'information de vol (FIC) : organisme de la circulation aérienne institué pour assurer le service d'information de vol et le service d'alerte.
 
-Circuit d'aérodrome : trajet de principe associé à un aérodrome indiquant les manoeuvres successives que doivent effectuer en tout ou partie les aéronefs en vol utilisant l'aérodrome.
+Circuit d'aérodrome : trajet de principe associé à un aérodrome
+
+indiquant les manoeuvres successives que doivent effectuer en tout ou partie les aéronefs en vol utilisant l'aérodrome.
 
 Circuit de circulation au sol : cheminements spécifiés que les aéronefs doivent suivre sur l'aire de manoeuvre.
 
@@ -86,7 +88,7 @@ Circulation aérienne : ensemble des aéronefs évoluant dans l'espace aérien o
 
 La circulation aérienne comprend la circulation aérienne générale et la circulation aérienne militaire.
 
-Note. - Dans le présent texte, sauf mention contraire, l'expression " circulation aérienne " désigne la circulation aérienne générale.
+Note. - Dans le présent texte, sauf mention contraire, l'expression " circulation aérienne désigne la circulation aérienne générale.
 
 Circulation aérienne générale (CAG) : ensemble des mouvements des aéronefs civils et des aéronefs d'Etat soumis à la réglementation propre à ce type de circulation.
 
@@ -100,13 +102,15 @@ Circulation d'aérodrome : ensemble de la circulation des aéronefs et des véhi
 
 Circulation en surface : déplacement d'un aéronef, par ses propres moyens, à l'exclusion des décollages et atterrissages, à la surface d'un aérodrome, ou encore, dans le cas d'un hélicoptère, déplacement en vol rasant au-dessus de la surface de l'aérodrome à une hauteur permettant d'utiliser l'effet de sol et à une vitesse correspondant à celle de la circulation au sol.
 
-Clairance : autorisation accordée à un aéronef de manoeuvrer dans des conditions spécifiées par un organisme du contrôle de la circulation aérienne dans le but de lui fournir le service du contrôle de la circulation aérienne.
+Clairance : autorisation délivrée à un aéronef de manoeuvrer dans des conditions spécifiées par un organisme du contrôle de la circulation aérienne dans le but de lui fournir le service du contrôle de la circulation aérienne.
 
 Clairance initiale : clairance délivrée avant le départ ou avant la pénétration dans un espace aérien contrôlé.
 
 Clairance de séparation à vue : clairance complémentaire accordée à un aéronef en vol contrôlé lui permettant de s'affranchir des espacements réglementaires vis-à-vis d'un seul autre aéronef contrôlé et d'assurer visuellement sa propre séparation par rapport à celui-ci.
 
-Clairance VMC ; clairance complémentaire accordée à un aéronef en vol IFR, lui permettant, sur sa demande, en VMC, de s'affranchir des espacements réglementaires vis-à-vis de tous les autres aéronefs en vol IFR et d'assurer visuellement sa propre séparation par rapport à ceux-ci.
+Clairance VMC ; clairance complémentaire accordée à un aéronef en vol IFR, lui permettant, sur sa demande, en VMC, de s'affranchir des
+
+espacements réglementaires vis-à-vis de tous les autres aéronefs en vol IFR et d'assurer visuellement sa propre séparation par rapport à ceux-ci.
 
 Code transpondeur : numéro assigné à une réponse émise par un transpondeur.
 
@@ -128,9 +132,9 @@ Dirigeable : aérostat entraîné par un organe moteur.
 
 Espace aérien contrôlé : portion de région d'information de vol, ou de région supérieure d'information de vol, de dimensions déterminées, à l'intérieur de laquelle le service du contrôle de la circulation aérienne est assuré au bénéfice des vols contrôlés.
 
-Note 1. - " Espace aérien contrôlé " est un terme générique qui désigne l'un ou l'autre des espaces aériens contrôlés de classe A, B, C, D ou E.
+Note 1. - " Espace aérien contrôlé est un terme générique qui désigne l'un ou l'autre des espaces aériens contrôlés de classe A, B, C, D ou E.
 
-Note 2. - Certains espaces aériens contrôlés dans lesquels le service du contrôle de la circulation aérienne est rendu simultanément à la circulation aérienne générale et à la circulation aérienne militaire et où la cohabitation et la densité des deux types de circulation aérienne rendent nécessaire la mise en place de mesures complémentaires afin d'assurer les services de la circulation aérienne sont désignés " espaces aériens contrôlés spécialisés " (S/CTA, S/CTR, S/TMA, etc.).
+Note 2. - Certains espaces aériens contrôlés dans lesquels le service du contrôle de la circulation aérienne est rendu simultanément à la circulation aérienne générale et à la circulation aérienne militaire et où la cohabitation et la densité des deux types de circulation aérienne rendent nécessaire la mise en place de mesures complémentaires afin d'assurer les services de la circulation aérienne sont désignés " espaces aériens contrôlés spécialisés (S/CTA, S/CTR, S/TMA, etc.).
 
 Espace aérien contrôlé de classe A : espace aérien où sont admis les vols IFR et où ne sont pas admis les vols VFR.
 
@@ -140,7 +144,9 @@ Espace aérien contrôlé de classe B : espace aérien où sont admis les vols I
 
 Dans cet espace, les organismes de contrôle de la circulation aérienne assurent des espacements entre les vols IFR, entre les vols IFR et les vols VFR et entre les vols VFR.
 
-Espace aérien contrôlé de classe C : espace aérien où sont admis les vols IFR et les vols VFR.
+Espace aérien contrôlé de classe C : espace aérien où sont admis les
+
+vols IFR et les vols VFR.
 
 Dans cet espace, les organismes du contrôle de la circulation aérienne assurent des espacements entre les vols IFR et entre les vols IFR et les volsVFR, et fournissent des informations de trafic aux vols VFR sur les autres vols VFR.
 
@@ -174,7 +180,9 @@ Note. - L'heure réelle à laquelle l'aéronef quitte le repère d'attente dépe
 
 Heure estimée d'arrivée : pour les vols IFR, heure à laquelle il est estimé que l'aéronef arrivera à la verticale du repère d'approche initiale, défini par référence à des aides à la navigation, à partir duquel il est prévu qu'une procédure d'approche aux instruments sera amorcée ou, si l'aérodrome n'est équipé d'aucune aide à la navigation, heure à laquelle l'aéronef arrivera à la verticale de l'aérodrome. Pour les vols VFR, heure à laquelle il est estimé que l'aéronef arrivera à la verticale de l'aérodrome.
 
-Identification d'un aéronef : groupe de lettres, de chiffres ou combinaison de lettres et de chiffres qui, soit est identique à l'indicatif d'appel de l'aéronef à utiliser dans les communications air-sol, soit en est l'équivalent en code, et qui est utilisé pour identifier l'aéronef dans les communications sol-sol des services de la circulation aérienne.
+Identification d'un aéronef : groupe de lettres, de chiffres ou combinaison de lettres et de chiffres qui, soit est identique à
+
+l'indicatif d'appel de l'aéronef à utiliser dans les communications air-sol, soit en est l'équivalent en code, et qui est utilisé pour identifier l'aéronef dans les communications sol-sol des services de la circulation aérienne.
 
 IFR : abréviation utilisée pour désigner les règles de vol aux instruments.
 
@@ -196,7 +204,7 @@ c) Calé sur une pression de 1 013,2 hectopascals, indique l'altitude pression e
 
 Niveau de croisière : niveau auquel un aéronef se maintient pendant une partie appréciable d'un vol.
 
-Niveau de transition : niveau de vol égal ou supérieur à l'altitude de transition auquel et au-dessus duquel la position verticale d'un aéronef est donnée par son niveau de vol.
+Niveau de transition : premier niveau de vol, multiple de 10, égal ou supérieur à l'altitude de transition auquel et au-dessus duquel la position verticale d'un aéronef est donnée par son niveau de vol.
 
 Niveau de vol (FL) : surface isobare liée à une pression de référence spécifiée : 1013,2 hectopascals et séparée des autres surfaces analogues par des intervalles de pressions spécifiés.
 
@@ -214,11 +222,13 @@ Observation d'aéronef : évaluation d'un ou plusieurs éléments météorologiq
 
 Organisme accepteur : le prochain organisme du contrôle de la circulation aérienne à prendre en charge un aéronef.
 
-Organisme AFIS : organisme de la circulation aérienne chargé d'assurer le service d'information de vol et le service d'alerte au bénéfice de la circulation d'aérodrome d'un aérodrome non contrôlé.
+Organisme AFIS : organisme de la circulation aérienne chargé d'assurer le service d'information de vol et le service d'alerte au bénéfice de la circulation d'aérodrome d'un aérodrome non
+
+contrôlé.
 
 Organisme de la circulation aérienne : terme générique désignant soit un organisme chargé de prendre l'ensemble des services de la circulation aérienne ou certains d'entre eux, soit un bureau de piste.
 
-Note. - Dans le présent texte, sauf mention contraire, l'expression " organisme de la circulation aérienne " recouvre également les organismes de la circulation aérienne militaire lorsque ceux-ci rendent des services à la circulation aérienne générale.
+Note. - Dans le présent texte, sauf mention contraire, l'expression " organisme de la circulation aérienne recouvre également les organismes de la circulation aérienne militaire lorsque ceux-ci rendent des services à la circulation aérienne générale.
 
 Organisme du contrôle de la circulation aérienne : terme générique désignant soit un centre de contrôle régional, soit un centre de contrôle d'approche, soit une tour de contrôle, soit un organisme de contrôle de la circulation aérienne militaire.
 
@@ -248,7 +258,9 @@ Plan de vol réduit : éléments de vol en nombre limité communiqués en radiot
 
 Plan de vol répétitif (RPL) : plan de vol concernant une série de vols assurés régulièrement, souvent répétés et présentant les mêmes caractéristiques de base, fourni par un exploitant pour être conservé et utilisé, de manière répétitive, par les organismes de la circulation aérienne.
 
-Planeur : aérodyne non entraîné par un organe moteur, et dont la sustentation en vol est obtenue principalement par des réactions aérodynamiques sur des surfaces qui restent fixes dans des conditions données de vol.
+Planeur : aérodyne non entraîné par un organe moteur, et dont la
+
+sustentation en vol est obtenue principalement par des réactions aérodynamiques sur des surfaces qui restent fixes dans des conditions données de vol.
 
 Point d'arrêt : position caractéristique du circuit de circulation au sol d'un aérodrome où un aéronef ou un véhicule peut être amené à attendre pour laisser libre la piste en service.
 
@@ -268,13 +280,17 @@ Procédure d'attente : manoeuvre prédéterminée exécutée par un aéronef en 
 
 Publication d'information aéronautique : publication d'un Etat, ou éditée par décision d'un Etat, renfermant des informations aéronautiques de caractère durable et essentielles à la navigation aérienne.
 
-Région de contrôle (CTA) : espace aérien contrôlé dont la limite inférieure n'est pas la surface du sol ou de l'eau.
+Région de contrôle : espace aérien contrôlé dont la limite inférieure n'est pas la surface.
+
+Région inférieure de contrôle (LTA) : région de contrôle, établie à l'intérieur d'une région d'information de vol, comprise entre une limite inférieure fixée et la limite inférieure de la région supérieure de contrôle.
 
 Région de contrôle terminale (TMA) : région de contrôle établie en principe, au carrefour de routes ATS aux environs d'un ou plusieurs aérodromes importants.
 
 Région supérieure de contrôle (UTA) : région de contrôle, établie à l'intérieur d'une région supérieure d'information de vol, et qui n'est pas une voie aérienne.
 
-Région d'information de vol (FIR) : espace aérien de dimensions latérales définies à l'intérieur duquel le service d'information de vol et le service d'alerte sont assurés.
+Région d'information de vol (FIR) : espace aérien de dimensions latérales définies à l'intérieur duquel le service d'information de
+
+vol et le service d'alerte sont assurés.
 
 Note. - Cet espace aérien n'a de limite supérieure que s'il est surmonté par une région supérieure d'information de vol.
 
@@ -308,7 +324,9 @@ service assuré dans le cadre du service d'information de vol dans le but de fou
 
 Services de la circulation aérienne : terme générique désignant à la fois le service du contrôle de la circulation aérienne, le service d'information de vol et le service d'alerte.
 
-Service du contrôle de la circulation aérienne : service assuré dans le but de :
+Service du contrôle de la circulation aérienne : service assuré dans
+
+le but de :
 
 1. Prévenir :
 
@@ -325,6 +343,8 @@ Service de gestion d'aire de trafic : service fourni pour assurer la régulation
 Service d'information de vol : service assuré dans le but de fournir les avis et renseignements utiles à l'exécution sûre et efficace des vols.
 
 Service d'information de vol d'aérodrome (AFIS) : service d'information de vol pour la circulation d'aérodrome.
+
+Système embarqué d'anti-abordage (ACAS) : système embarqué qui, au moyen des signaux du transpondeur de radar secondaire de surveillance (SSR), et indépendamment des systèmes au sol, renseigne le pilote sur la présence des aéronefs dotés d'un transpondeur de SSR qui risquent d'entrer en conflit avec son aéronef.
 
 Tour de contrôle (TWR) : organisme de la circulation aérienne chargé d'assurer les services de la circulation aérienne au bénéfice de la circulation d'aérodrome.
 
