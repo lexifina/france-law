@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930400526
+
+- Question : [SEQ930400526](seq930400526.md) — Réglementation concernant la commercialisation et la vente en pépinière
+
+## Réponse
+
+*Agriculture, JO du 1993-09-23, page 1702*
+
+Réponse. - La rubrique " pommier " du catalogue officiel des espèces et variétés de plantes cultivées en France comporte plus de 200 variétés de pommiers dont la commercialisation est totalement autorisée. Dans cet ensemble, qui fait l'objet très régulièrement de mises à jour et dont le nombre exact change très souvent, 106 variétés sont particulièrement recommandées pour la production et répertoriées en classe I, soixante-huit autres apparaissent en classe II et vingt-sept variétés sont inscrites sur la liste des variétés anciennes dite " d'amateurs ". Cette dernière existe depuis l'arrêté du 16 mai 1986 portant modification du catalogue des variétés d'arbres fruitiers. En effet, le ministère de l'agriculture et de la pêche s'est toujours efforcé et continue de s'efforcer de favoriser la diffusion des variétés dans tous les domaines de la création variétale en vue de protéger tout aussi bien la liberté de choix des producteurs qui utilisent les semences et les plants que la diversité du patrimoine génétique. Ainsi la liste des variétés anciennes est-elle ouverte à toute variété connue depuis au moins trente ans, présentant ou pouvant présenter soit un intérêt local en raison de sa qualité de rusticité, soit une valeur de symbole pour les amateurs, soit un patrimoine génétique incontestable. La liste du catalogue officiel ainsi que les textes officiels établissant les critères d'admission des variétés à ce catalogue peuvent être obtenus, soit auprès du ministère de l'agriculture et de la pêche, soit du secrétariat du comité technique permanent de la sélection des plantes cultivées (78280 Guyancourt), soit du centre national interprofessionnel de l'horticulture (94152 Rungis).
