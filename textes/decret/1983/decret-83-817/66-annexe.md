@@ -1,5 +1,5 @@
 # Article 66, annexe
 
-La S.N.C.F. peut mettre à la disposition d'une collectivité territoriale ou de plusieurs d'entre elles regroupées en syndicat, une ligne ou une section de ligne du réseau ferré national, pour la mise en oeuvre d'une exploitation touristique sur cette ligne ou section de ligne.
+Les mandats de maîtrise d'ouvrage mentionnés au cinquième alinéa de l'article 1er de la loi du 13 février 1997 précitée portent soit sur un ensemble de travaux concernant une catégorie particulière d'ouvrage, soit sur une opération globale d'aménagement ou de développement du réseau. Ces mandats précisent le programme des travaux et les enveloppes financières prévisionnelles, ainsi que les conditions de rémunération prévues.
 
-Les conditions juridiques et financières de cette mise à disposition et les modalités selon lesquelles la S.N.C.F. assure le contrôle technique de l'exploitation, des installations et du matériel sont réglées par convention passée entre la S.N.C.F., les collectivités territoriales intéressées et la personne morale désignée par ces collectivités pour assurer l'exploitation touristique de la ligne. La signature par la S.N.C.F. de ces conventions est soumise à autorisation du ministre chargé des transports.
+Afin d'assurer la sécurité des personnes et des circulations, la SNCF se voit confier par Réseau ferré de France une mission de maîtrise d'oeuvre pour les opérations sur le réseau en exploitation.

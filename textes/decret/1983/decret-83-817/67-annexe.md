@@ -1,5 +1,5 @@
 # Article 67, annexe
 
-La S.N.C.F. est tenue, à la demande du ministre chargé des transports, sur proposition des ministres ayant des attributions en matière de défense, et après avis du ministre chargé du budget, de maintenir ou de remettre en état les lignes ou les installations jugées nécessaires aux besoins de la défense du pays.
+Dans le cadre des missions prévues à l'article 62, ou lorsqu'elle intervient en qualité de mandataire de Réseau ferré de France pour des opérations d'investissement sur le réseau ferré national, la SNCF n'a pas, vis-à-vis de Réseau ferré de France, la qualité d'entreprise extérieure au sens des articles R. 237-1 et suivants du code du travail ; elle assure le rôle d'entreprise utilisatrice vis-à-vis des entreprises auxquelles elle fait appel.
 
-Les charges imposées à la S.N.C.F. en application du présent article donnent lieu à une contributiuon de l'Etat correspondante, la S.N.C.F. entendue.
+La SNCF désigne notamment le coordonnateur en matière de sécurité et de santé pour les opérations mentionnées à l'alinéa ci-dessus et entrant dans le champ d'application des articles L. 235-3 et suivants du code du travail.

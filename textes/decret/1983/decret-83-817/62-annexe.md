@@ -1,7 +1,13 @@
 # Article 62, annexe
 
-La consistance du réseau ferré national confié par l'Etat à la S.N.C.F. peut être modifiée par décret. Lorsque des lignes ou sections de lignes sont incorporées au réseau ferré national, le décret qui prononce l'incorporation est pris sur le rapport du ministre chargé des transports, après avis de la S.N.C.F..
+Compte tenu des impératifs de sécurité et de continuité du service public, la SNCF assure, pour le compte de Réseau ferré de France et selon les objectifs et principes de gestion qu'il définit, la gestion du trafic et des circulations sur le réseau ferré national, ainsi que le fonctionnement et l'entretien des installations techniques et de sécurité correspondantes.
 
-Les conditions financières de l'incorporation sont déterminées par convention passée entre l'Etat et l'établissement public.
+Ces missions comportent en particulier :
 
-Lorsque les biens immobiliers afférents aux lignes incorporées appartiennent à l'Etat, ils sont remis en dotation à l'établissement public par décret en Conseil d'Etat.
+- l'établissement du système d'organisation de l'ensemble des circulations ferroviaires sur le réseau, dit "graphique de circulation";
+
+- la gestion opérationnelle de ces circulations et les mesures propres à assurer leur fluidité, leur régularité et leur acheminement en toute sécurité, ainsi que la mise en oeuvre des dispositions nécessaires pour assurer le rétablissement de la situation normale en cas de perturbation de la circulation ;
+
+- la gestion des systèmes de régulation et de sécurité ;
+
+- la surveillance, l'entretien régulier, les réparations, dépannages et mesures nécessaires au fonctionnement du réseau et à la sécurité de l'ensemble des plates-formes, ouvrages d'art, voies, quais, réseaux, installations et bâtiments techniques s'y rattachant.

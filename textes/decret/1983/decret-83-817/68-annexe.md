@@ -1,15 +1,9 @@
 # Article 68, annexe
 
-Le ministre chargé des télécommunications dispose de la faculté d'implanter le long des voies ferrées de la S.N.C.F. les équipements nécessaires à l'établissement de lignes de télécommunications.
+Au titre des missions rappelées à l'article précédent, la SNCF établit le rapport technique préalable à la délivrance, par le ministre chargé des transports, du certificat de sécurité prévu à l'article 4 du décret n° 98-1190 du 23 décembre 1998 relatif à l'utilisation pour certains transports internationaux de l'infrastructure du réseau ferré national et portant transposition des directives du Conseil des Communautés européennes 91/440 du 29 juillet 1991, 95/18 et 95/19 du 19 juin 1995.
 
-Ces équipements ne doivent pas nuire à l'exploitation du chemin de fer et doivent satisfaire aux normes techniques de sécurité définies par le ministre chargé des transports, la S.N.C.F. entendue.
+Elle veille au respect des dispositions de l'arrêté prévu à l'article 14 de ce décret.
 
-Les modalités techniques et financières selon lesquelles ces équipements sont surveillés, entretenus, et le cas échéant utilisés par la S.N.C.F. pour ses propres besoins sont réglées par convention passée entre le ministre chargé des télécommunications, au nom de l'Etat, et la S.N.C.F..
+En cas de manquement grave ou répété aux obligations prévues par l'arrêté précité par une entreprise ferroviaire exploitant des services de transports combinés internationaux ou par un regroupement international d'entreprises ferroviaires, elle peut proposer au ministre chargé des transports le retrait total ou partiel du certificat de sécurité.
 
-Les personnels des services techniques de l'administration des télécommunications ont accès aux gares et voies ferrées pour les besoins de leur service. Ils doivent se conformer aux règles sur la police et l'exploitation du chemin de fer.
-
-La S.N.C.F. peut construire, entretenir et utiliser des lignes de télécommunications pour ses besoins propres. La construction de ces lignes est soumise à l'autorisation du ministre chargé des télécommunications, qui approuve leur tracé, et leur utilisation donne lieu aux redevances d'usage applicables aux services publics. Ces lignes ne peuvent en aucun cas être utilisées par des tiers.
-
-L'exploitation des lignes de chemin de fer nouvelles, ou nouvellement électrifiées, ne doit pas nuire aux installations de télécommunications existantes situées hors du domaine géré par la S.N.C.F. et au voisinage de ces lignes.
-
-Une convention passée entre le ministre chargé des télécommunications, au nom de l'Etat, et la S.N.C.F. fixe les modalités d'études, de mise en place, et de financement des équipements de protection des installations de télécommunications situées hors du domaine géré par la S.N.C.F..
+En cas de risque grave et imminent, elle peut décider d'immobiliser un convoi à titre conservatoire. Elle en informe alors immédiatement le ministre chargé des transports et Réseau ferré de France.

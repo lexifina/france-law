@@ -1,5 +1,5 @@
 # Article 65, annexe
 
-La S.N.C.F. peut, lorsqu'elle l'estime nécessaire, affermer une ligne ou une section de ligne du réseau ferré national, ou passer convention pour charger un autre exploitant qu'elle-même d'exploiter une de ces lignes ou sections de ligne.
+La rémunération de la SNCF pour l'exercice des missions effectuées pour le compte de Réseau ferré de France, prévues au présent titre, est définie sur une base forfaitaire pour chaque catégorie de missions précisée dans la convention. Cette rémunération forfaitaire peut toutefois être ajustée en fonction de l'évolution constatée des caractéristiques du réseau et des indicateurs de qualité par rapport aux hypothèses figurant dans la convention.
 
-Les conventions d'affermage ou d'exploitation passées par la S.N.C.F. sont soumises à l'approbation du ministre chargé des transports. Sont soumises également à son approbation, lorsqu'elles sont renouvelées, celles de ces conventions qui ont été passées par l'ancienne société anonyme et qui viendront à expiration à compter de la date d'entrée en vigueur du présent cahier des charges.
+La convention prévoit les conditions dans lesquelles certaines interventions peuvent donner lieu à un ajustement de rémunération, en particulier celles qui sont rendues nécessaires en fonction d'événements exceptionnels et imprévisibles.
