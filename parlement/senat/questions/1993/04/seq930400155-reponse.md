@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930400155
+
+- Question : [SEQ930400155](seq930400155.md) — Indemnisation du chômage des militaires retraités
+
+## Réponse
+
+*Travail, JO du 1993-06-17, page 984*
+
+La commission paritaire nationale du régime d'assurance chômage, en application de l'avenant n° 9 au règlement annexé à la convention du 1er janvier 1990 relative à l'assurance chômage, puis en application du règlement annexé à la convention du 1er janvier 1993, avait, en effet, adopté des délibérations limitant le cumul d'une allocation d'assurance chômage et d'un avantage de vieillesse. Le montant de l'allocation de chômage était diminué de 75 p. 100 du montant de l'avantage de vieillesse pour tout allocataire titulaire d'un avantage de vieillesse à caractère viager, liquidé ou liquidable dès lors qu'il ne remplissait pas les conditions d'âge et de durée d'assurance requises pour bénéficier d'une retraite entraînant l'interruption du service des allocations. Cette situation apparaissant pénalisante, les pouvoirs publics sont intervenus auprès des partenaires sociaux pour leur demander de réexaminer le plus rapidement possible cette question et d'assouplir les règles de cumul. La commission paritaire nationale du régime d'assurance chômage, réunie le 28 avril 1993, a modifié la délibération n°5 et assoupli la règle du cumul, en ce qui concerne les pensions militaires. Ainsi, à compter du 1er avril 1993, l'allocation d'assurance peut être cumulée intégralement avec la pension militaire pour les personnes âgées de moins de cinquante ans. Pour les allocataires âgés de cinquante à cinquante-cinq ans, l'allocation de chômage est diminuée de la moitié de la pension militaire. La règle antérieure de diminution à hauteur de 75 p. 100 de la pension ne subsiste pour les anciens militaires qu'à l'égard des allocataires âgés de cinquante-cinq ans ou plus.
