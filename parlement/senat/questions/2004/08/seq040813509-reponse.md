@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040813509
+
+- Question : [SEQ040813509](seq040813509.md) — Abandon du mur dit de sécurité par Israël
+
+## Réponse
+
+*Affaires étrangères, JO du 2004-12-23, page 2957*
+
+La France souligne en toute occasion qu'Israël a le droit de prendre des mesures pour se protéger et protéger sa population contre la violence et le terrorisme, qu'elle condamne sans réserve. Elle considère toutefois que la barrière de séparation actuellement en construction est contraire au droit international dans la mesure où son tracé pénètre dans les territoires palestiniens. Ce tracé crée des conditions de vie très difficiles pour les Palestiniens et accentue les frustrations. En modifiant de facto la situation sur le terrain, la barrière construite sur ce tracé préempte en outre les négociations futures et constitue un obstacle à la recherche d'une paix négociée. La France a défendu cette approche auprès de la Cour internationale de justice lorsque celle-ci avait été interrogée par l'Assemblée générale des Nations unies sur " les conséquences juridiques de l'édification d'un mur dans le territoire palestinien occupé ". La Cour internationale de justice a estimé que la construction de cet ouvrage par Israël dans les territoires palestiniens était contraire au droit international. Cet avis, même s'il ne revêt pas le caractère d'une décision juridiquement contraignante, détermine l'état du droit applicable à la situation créée par le tracé retenu. A la suite de l'avis de la Cour internationale de justice, la France a voté en faveur du projet de résolution soumis à l'Assemblée générale des Nations unies le 20 juillet, qui exige qu'Israël tire les conséquences de l'avis de la Cisjordanie. Ce projet a été adopté à une très large majorité, avec notamment le soutien des membres de l'Union européenne.
