@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000626219
+
+- Question : [SEQ000626219](seq000626219.md) — Conséquences du passage à l'euro  pour la tenue du budget des collèges
+
+## Réponse
+
+*Économie, JO du 2000-11-02, page 3778*
+
+Réponse. - La conception, la réalisation et la maintenance de l'ensemble des applications informatiques nationales à caractère budgétaire et comptable dont disposent les établissements publics locaux d'enseignement (EPLE) sont intégralement financées par l'Etat à partir des crédits informatiques inscrits sur le budget de l'enseignement scolaire. En conséquence, les EPLE n'ont pas à supporter l'incidence financière de l'adaptation de leur matériel comptable national à la mise en place de l'euro. Cela a été le cas pour l'échéance du 1er janvier 1999, qui a marqué l'entrée dans la période transitoire au cours de laquelle le franc et l'euro peuvent être utilisés pour les paiements autres qu'en monnaie fiduciaire. Ainsi, depuis cette date, les lycées et collèges sont en mesure de procéder aux paiements en euros lorsque leurs créanciers le leur demandent. Le travail d'adaptation à l'échéance du 1er janvier 2002 des applications informatiques pour la gestion comptable et financière mises à la disposition des établissements par le ministère de l'éducation nationale est actuellement en cours. Ils se trouvent à cet égard dans une situation plus favorable que celle des autres agents économiques (particuliers, entreprises, collectivités locales, associations) qui assument intégralement les charges induites par l'entrée en vigueur de la monnaie unique. S'agissant des éventuelles applications développées par les EPLE dans le cadre des compétences transférées aux collectivités territoriales en application des lois de décentralisation (fonctionnement, entretien, équipement des collèges et des lycées), le coût de leur remise à niveau n'est pas à la charge de l'Etat.
