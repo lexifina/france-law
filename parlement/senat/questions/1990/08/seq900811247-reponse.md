@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900811247
+
+- Question : [SEQ900811247](seq900811247.md) — Tarifs SNCF et carte vermeil
+
+## Réponse
+
+*Équipement, JO du 1990-10-18, page 2265*
+
+Réponse. - Les anciens combattants ne disposent d'aucune réduction tarifaire à ce titre et seuls les réformés pensionnés de guerre ayant au moins 25 p. 100 de handicap, et titulaires, de ce fait, d'une carte d'invalidité délivrée par l'Office national des anciens combattants et victimes de guerre, peuvent bénéficier de réductions sur le plein tarif exprimant ainsi la reconnaissance de la nation à leur égard. Il s'agit là d'une tarification sociale pour laquelle la perte de recettes correspondante pour la S.N.C.F. est compensée par l'Etat. En revanche, la carte vermeil est un tarif purement commercial offert par la S.N.C.F. dans le cadre de l'autonomie de gestion que lui confère la loi d'orientation des transports intérieurs du 30 décembre 1982. Cette carte ouvre droit, pour ses titulaires, à une réduction de 50 p. 100 sur les billets plein tarif dès lors que les trajets commencent en période bleue du calendrier " voyageurs " c'est-à-dire au cours de la période la moins chargée et donc celle pour laquelle le coût du transport est le moins élevé pour l'entreprise. Ceci oblige certes, les voyageurs disposant d'une telle carte à décaler de quelques heures leur voyage afin de bénéficier de la réduction offerte ; mais il paraît légitime, de la part de la S.N.C.F., et ceci dans une optique de saine gestion, d'inciter les titulaires de la carte à voyager en période creuse, lorsque le prix de revient du voyage est le moindre, en contrepartie de l'avantage tarifaire accordé. Enfin, il convient de préciser que la période bleue représente environ 240 jours par an ce qui offre un éventail assez large dans le choix des horaires de train.
