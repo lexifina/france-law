@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508029
+
+- Question : [SEQ980508029](seq980508029.md) — Prévention du suicide et formation des médecins
+
+## Réponse
+
+*Santé, JO du 1998-11-26, page 3807*
+
+Réponse. - Depuis dix ans, le nombre de suicides dans la population générale s'élève à 12 000 cas par an environ, ce qui représente chez les jeunes de quinze à vingt-quatre ans la seconde cause de mortalité après les accidents de la circulation et chez les jeunes adultes de vingt-cinq à trente-quatre ans, la première cause de mortalité. La tranche d'âge la plus touchée par les tentatives de suicide est celle des quinze/vingt-quatre ans qui commettent un tiers des 120 000 tentatives annuelles. Problème majeur, le thème du suicide a été identifié comme une des dix priorités de santé par les deux premières conférences nationales de la santé et neuf régions ont engagé des programmes régionaux sur ce thème. Sur le plan national, un programme sur la prévention du suicide, en direction notamment des adolescents et des jeunes adultes, a été annoncé par le secrétaire d'Etat à la santé le 4 février 1998. Ses principaux axes sont les suivants : développer une approche globale prenant en compte l'ensemble des dimensions de ce problème complexe de santé publique, tant sur le plan de la prévention que de la prise en charge, mettre en place un système de recueil de connaissances épidémiologiques indispensable à la détermination des orientations stratégiques et engager une campagne de communication sur ce thème dans une perspective de prévention. Enfin, il a été demandé à l'ANAES de réaliser une revue de la littérature internationale et d'élaborer des recommandations pour améliorer l'accueil et la prise en charge des suicidants à l'hôpital et inciter les établissements à élaborer des projets de sortie pour chaque suicidant.
