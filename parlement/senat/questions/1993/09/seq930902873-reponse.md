@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930902873
+
+- Question : [SEQ930902873](seq930902873.md) — Prise en compte de la DDASS dans la DGF des enfants
+
+## Réponse
+
+*Affaires sociales, JO du 1993-12-02, page 2296*
+
+Réponse. - L'honorable parlementaire a appelé l'attention sur les problèmes que rencontrent les maires des petites communes rurales pour assurer la scolarité des enfants confiés, par les services de l'aide sociale à l'enfance, à des familles d'accueil résidant dans leur commune. Ces enfants, nouveaux chaque année, ne sont pas recensés et ne se trouvent donc pas pris en compte dans le calcul de la DGF. S'agissant de la prise en compte des frais de scolarité de ces enfants, c'est la commune de résidence où est implanté l'établissement scolaire qu'ils fréquentent qui doit assurer les frais de scolarité, dans la mesure où les enfants confiés aux familles d'accueil résident effectivement et habituellement au domicile de celle-ci. En effet, la réglementation issue des lois de décentralisation relative à la participation des communes aux dépenses de fonctionnement des établissements d'enseignement public ne fixe aucune condition de séjour ou de statut juridique pour les enfants confiés à ces établissements, si ce n'est de résider sur le territoire des communes concernées. Quant aux autres charges liées à la présence de ces enfants sur le territoire de ces communes, elles sont normalement compensées par l'activité économique résultant de la présence de ces enfants qui sont autant de consommateurs nouveaux et de celle des personnes qui les accueillent, puisque celles-ci bénéficient d'un contrat de travail passé avec le président du conseil général. Enfin, la présence d'enfants nouveaux dans les petites communes rurales permet dans certains cas d'éviter la fermeture d'écoles, ce qui contribue à maintenir leur équilibre et à préserver la vie locale.
