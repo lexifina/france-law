@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970119832
+
+- Question : [SEQ970119832](seq970119832.md) — Mise en oeuvre sur Internet d'annuaires professionnels de chercheurs
+
+## Réponse
+
+*Industrie, JO du 1997-03-13, page 782*
+
+Réponse. - L'architecture mondiale du réseau Internet constitue un instrument privilégié pour les communications et les échanges entre chercheurs du monde entier en favorisant le développement de la coopération internationale grâce à une connaissance amplifiée des personnes et des thèmes de recherche au sein de la communauté scientifique internationale. La Commission nationale informatique et libertés (CNIL) s'est de ce fait trouvée saisie de plusieurs demandes d'avis relatives à la mise en oeuvre d'annuaires professionnels de chercheurs. Or, la diffusion de ces annuaires par le biais de réseaux internationaux offrant une grande facilité d'accès, de consultation et de copie des informations suscite certaines difficultés au regard de la loi du 6 janvier 1978, et notamment de celles de ses dispositions relatives au principe de finalité, aux catégories de destinataires, à la sécurité et aux flux transfrontières. La CNIL a ainsi souhaité entourer de garanties suffisantes la mise en oeuvre de ces traitements. A cette fin, elle a demandé que l'accord des chercheurs soit recueilli et qu'avant d'accéder aux informations nominatives recherchées, un avais rappelle aux utilisateurs des droits, garanties et protections des personnes figurant sur un annuaire ainsi que l'interdiction de captage des informations à des fins d'enrichihssement de bases de données commerciales ou publicitaires. L'avis délivré par cette autorité, entourant des nécessaires garanties la mise en oeuvre d'annuaires électroniques sur Internet, paraît avoir trouvé le juste point d'équilibre entre la libertéd'expression et la protection des personnes.
