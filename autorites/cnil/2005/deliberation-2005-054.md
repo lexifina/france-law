@@ -1,0 +1,70 @@
+# Délibération portant avis sur le projet d'ordonnance relatif au service public du changement d'adresse, sur le projet de décret pris en application de l'ordonnance relative au service de changement d'adresse et sur le projet d'arrêté du Premier ministre créant un traitement de données à caractère personnel mettant en place le téléservice "monchangementdadresse".
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 2005-054
+- Date : 2005-03-30
+- Publication : 2019-11-13
+- NOR : CNIX0508434X
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017653256
+
+La Commission nationale de l'informatique et des libertés,
+
+Saisie le 25 mars 2005 par le secrétariat général du Gouvernement d'une demande d'avis sur le projet d'ordonnance relatif au service public du changement d'adresse, sur le projet de décret pris en application de l'ordonnance et sur le projet d'arrêté pris en application du décret et constituant également l'acte réglementaire créant le traitement de données à caractère personnel ;
+
+Saisie également d'un dossier de formalités préalables portant sur le projet de téléservice correspondant au projet d'arrêté ;
+
+Vu la convention n° 108 du 28 janvier 1981 du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ;
+
+Vu la directive n° 95/46/CE du Parlement européen et du Conseil en date du 24 octobre 1995 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, modifiée par la loi n° 2004-801 du 6 août 2004 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel, et notamment son article 27-II (4°) ;
+
+Après avoir entendu Mme Isabelle Falque-Pierrotin, commissaire, en son rapport et Mme Catherine Pozzo di Borgo, commissaire adjoint du Gouvernement, en ses observations,
+
+Emet les avis suivants :
+
+Sur le projet d'arrêté :
+
+Sur l'article 1er :
+
+L'article 1er du projet d'arrêté dispose que le traitement de données à caractère personnel créé pour le service du changement d'adresse est mis en oeuvre par l'Agence de développement de l'administration électronique (ADAE). Dans un souci de cohérence de la rédaction du projet d'arrêté avec le projet d'ordonnance et avec le projet de décret, la commission souhaite que la mention "téléservice" ainsi que la mention du "caractère facultatif" de ce service figurent à l'article 1er du projet d'arrêté.
+
+Sur l'article 2 :
+
+L'article 2 du projet d'arrêté précise la finalité du traitement de données à caractère personnel.
+
+La commission considère que la finalité statistique doit être ajoutée à l'article 2 du projet d'arrêté créant le traitement.
+
+Sur l'article 3 :
+
+L'article 3 du projet d'arrêté fixe les informations qui seront recueillies par le téléservice du changement d'adresse.
+
+La commission souligne la nécessité de faire figurer à l'alinéa 3 du projet d'arrêté les mentions selon lesquelles les organismes partenaires du téléservice ne peuvent demander des informations complémentaires que "lorsqu'ils sont habilités par voie législative ou réglementaire à recueillir ces informations". Elle rappelle que seules les informations complémentaires indispensables au changement d'adresse doivent être recueillies. Elle propose également l'ajout à l'alinéa 3 de la formulation : "des informations strictement nécessaires à la prise en compte du changement d'adresse peuvent être, le cas échéant, enregistrées par le traitement".
+
+La commission rappelle que, conformément à l'article 6 (3°) de la loi du 6 janvier 1978 modifiée, les données doivent être adéquates et pertinentes au regard des finalités pour lesquelles elles sont collectées. Elle estime, en conséquence, que l'alinéa 3 du projet d'article 3 doit être modifié afin que soit précisée pour chaque destinataire la liste des informations qu'il est habilité à obtenir.
+
+La commission estime, par ailleurs, que l'indication du changement de situation familiale doit être ajoutée à l'arrêté.
+
+Sur l'article 5
+
+La commission relève que l'article 5 du projet d'arrêté, qui fait mention du droit d'accès prévu par la loi du 6 janvier 1978, devrait être complété des indications relatives au droit de rectification et de suppression des données concernant l'usager du téléservice.
+
+Sur le projet de traitement de données à caractère personnel :
+
+Sur l'authentification de l'usager :
+
+L'authentification de l'usager sera assurée par la saisie d'un numéro de dossier et d'un mot de passe. La commission souligne les risques forts d'utilisation détournée du service inhérents à ce procédé d'authentification de faible niveau. Elle demande qu'un bilan de l'utilisation de ce niveau d'authentification soit établi à bref délai. Elle estime, en conséquence, qu'un dispositif d'authentification renforcé, par exemple, par un système de certificat électronique ou de signature électronique doit être mis en place lors de la prochaine évolution du dispositif.
+
+Sur la possibilité d'effectuer un changement d'adresse pour une tierce personne :
+
+La commission relève que les modalités prévues de fonctionnement du service comportent le risque d'inscription de tierces personnes à leur insu. Elle estime que le site internet devrait comporter un avertissement précisant que l'accord des tierces personnes doit être préalablement obtenu et qu'un mineur ne peut effectuer un changement d'adresse dans la mesure où il est légalement rattaché au domicile de ses parents.
+
+Sur le référentiel géopostal :
+
+Le traitement prévoit l'utilisation d'un référentiel géopostal destiné à éviter l'indication d'adresses inconnues des services postaux. La commission recommande que l'utilisation de ce référentiel figure dans les projets de décret et d'arrêté susvisés et qu'il soit précisé que ce référentiel n'est pas alimenté par les informations recueillies par le service public du changement d'adresse.
+
+Fait à Paris, le 30 mars 2005.
+
+Le président, A. TURK.
