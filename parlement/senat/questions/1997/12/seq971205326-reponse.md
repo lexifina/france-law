@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971205326
+
+- Question : [SEQ971205326](seq971205326.md) — Performance des élèves français dans les matières scientifiques
+
+## Réponse
+
+*Éducation, JO du 1998-09-24, page 3065*
+
+Réponse. - Les résultats obtenus par les jeunes Français aux évaluations internationales dans les disciplines scientifiques préoccupent le ministre de l'éducation nationale, de la recherche et de la technologie. Les raisons de cette situation sont multiples : certaines sont conjoncturelles, comme, par exemple, les écarts entre les programmes d'enseignement des différents pays, le nombre d'élèves concernés par rapport à celui d'une génération, l'importance faite à la préparation de ces évaluations... ; d'autres sont plus fondamentales, comme, par exemple, la nature des activités proposées aux élèves habituellement, les objectifs de formation visés, la forme même des tests d'évaluation (les jeunes Français sont par exemple peu entraînés à répondre à des questionnaires à choix multiples - QCM). En dépit de ces différentes explications, le ministre de l'éducation nationale, de la recherche et de la technologie va remédier à cette situation de la façon suivante : en recentrant dès le primaire les apprentissages en mathématiques sur un petit nombre de concepts essentiels ; en privilégiant, dans les programmes, des contenus qui impliquent de la part des élèves une initiative réelle, qui mettent en uvre leur imagination et leur esprit créatif : à cet égard, l'expérience " la main à la pâte " devrait être développée dans les prochaines années ; en renforçant la formation scientifique des enseignants du primaire ; en développant dans les collèges, en sciences de la vie et de la Terre et en physique-chimie, la démarche expérimentale qui devrait remplacer progressivement une présentation trop modélisante et mathématique de ces disciplines.
