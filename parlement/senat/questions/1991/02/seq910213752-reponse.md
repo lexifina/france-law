@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910213752
+
+- Question : [SEQ910213752](seq910213752.md) — Censure de l'information concernant la guerre du Golfe
+
+## Réponse
+
+*Premier ministre, JO du 1991-05-02, page 922*
+
+Réponse. - La loi du 30 septembre 1986 fixe à la liberté de communication un certain nombre de limites tenant, notamment, au respect de la dignité de la personne humaine, aux besoins de la défense nationale et à la sauvegarde de l'ordre public. Faisant légitimement usage de son pouvoir général de recommandation, le Conseil supérieur de l'audiovisuel a, en application de cet article, édicté en janvier dernier un certain nombre de principes destinés à régir la couverture de l'information dans le Golfe. Par ailleurs, les journalistes présents sur le théâtre des opérations pendant les événements du Golfe avaient signé une charte avec le ministère de la défense aux termes de laquelle ils s'engageaient à ne pas divulguer certaines informations de nature à porter atteinte à la sécurité des troupes et au secret des opérations, et à recueillir l'autorisation d'un officier préalablement à tout interview de militaires. Si les journalistes faisaient partie des pools organisés et convoyés par l'autorité militaire, aucun contrôle obligatoire préalable des images diffusées à partir du théâtre des opérations n'a été organisé. Des missions se sont par ailleurs rendues sur place pour étudier les moyens d'améliorer les conditions de travail des journalistes et d'importants progrès ont ainsi pu être accomplis. Quant à la prééminence de C.N.N. lors de la couverture de ces événements, elle met en lumière la nécessité de faire aboutir dans les meilleurs délais le projet de chaîne européenne d'information continue Euronews, ce à quoi la France s'emploie activement tant au sein de l'Union européenne de radiodiffusion qu'auprès des instances européennes compétentes.
