@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981212770
+
+- Question : [SEQ981212770](seq981212770.md) — Industrie alimentaire : meilleure coordination des acteurs publics
+
+## Réponse
+
+*Agriculture, JO du 1999-03-04, page 670*
+
+Réponse. - Le Conseil économique et social, dans son avis sur " l'industrie agro-alimentaire, force industrielle et chaîne de valorisation ", préconise des interventions plus cohérentes des différentes administrations chargées de contrôler les entreprises. Le Gouvernement partage cet avis et pour cela, diverses mesures ont été prises. Dans le domaine de l'expertise et de l'analyse des risques, la loi nº 98-535 du 1er juillet 1998, relative au renforcement de la veille sanitaire et du contrôle de la sécurité alimentaire des produits destinés à l'homme, prévoit la création de l'agence française de sécurité sanitaire des aliments. L'agence française de sécurité sanitaire des aliments sera consultée sur les programmes de contrôle et de surveillance sanitaires mis en uvre par les services compétents de l'Etat et pourra proposer des priorités ou formuler des recommandations, ce qui renforcera encore la cohérence des interventions des services de l'Etat. Par ailleurs, à l'initiative des préfets, plus de quinze pôles de compétence ont été mis en place, qui s'assurent de la complémentarité des actions des nombreux services qui, à un titre ou un autre, ont à participer à la sécurité sanitaire des aliments (services vétérinaires, et services de la répression des fraudes surtout, mais aussi actions sanitaires et sociales, douanes, gendarmerie...). De même, au niveau national, les directions concernées des ministères compétents se réunissent régulièrement afin de cordonner leurs actions. Aussi aux niveaux international, national et départemental, la cohérence des actions de l'Etat en faveur du secteur agro-alimentaire, ou en matière d'évaluation des risques ou de contrôle, sera améliorée.
