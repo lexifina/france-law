@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040411776
+
+- Question : [SEQ040411776](seq040411776.md) — Couverture sociale des mineurs souhaitant exercer des stages en entreprises
+
+## Réponse
+
+*Insertion professionnelle des jeunes, JO du 2004-08-26, page 1953*
+
+L'attention du Gouvernement est appelée sur la situation de jeunes effectuant des stages en entreprise afin de se familiariser avec la vie active. Actuellement, les jeunes suivant un cursus scolaire, du collège à l'enseignement supérieur, ont la possibilité ou l'obligation d'aller à la découverte du monde de l'entreprise. Ils sont près d'un million à suivre chaque année des stages sous statut scolaire. Ce type de stage est encadré systématiquement par une convention tripartite signée entre l'élève (ou l'étudiant), l'entreprise et l'établissement scolaire, si le stage est prévu dans la formation. Deux cas de figure sont cependant à distinguer : celui des stages obligatoires dans le cadre de la scolarité ; celui des stages non obligatoires mais qui peuvent faciliter l'orientation du jeune ou être un atout dans la poursuite des études. Dans le premier cas, la couverture sociale du jeune stagiaire reste celle dont il bénéficie sous son statut d'étudiant, de lycéen ou de collégien. A cela s'ajoute une couverture au titre des accidents du travail, prise en charge soit par l'établissement d'enseignement, soit par l'entreprise. Dans le second cas, l'employeur est tenu de verser des cotisations patronales de sécurité sociale sur la base d'un montant forfaitaire égal à 25 % du SMIC, que le jeune perçoive ou non une gratification. Dans tous les cas, la couverture sociale du jeune est bien assurée. En matière de responsabilité civile, c'est le régime du droit commun de ce type d'assurance qui doit s'appliquer en tenant compte de la qualité d'élève ou d'étudiant.
