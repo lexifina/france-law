@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911118238
+
+- Question : [SEQ911118238](seq911118238.md) — Construction du futur lycée français d'Alger
+
+## Réponse
+
+*Affaires étrangères, JO du 1992-06-04, page 1257*
+
+Réponse. - La situation actuelle du lycée français d'Alger est garantie par un accord bilatéral signé le 6 septembre 1988 à Alger. Selon cet accord, la mise à disposition du lycée de Ben Aknoun en remplacement du lycée Descartes ne peut être remise en cause que sur la base d'une solution mutuellement acceptable. D'autre part, le bâtiment dans lequel sont dispensés les cours du lycée français d'Alger a été aménagé afin de satisfaire aux normes en vigueur dans les établissements français comparables. S'agissant du futur lycée qui pourrait être construit à Alger, l'engagement pris au plus haut niveau par les autorités algériennes en septembre 1988 d'accorder un terrain à la France a toujours été réaffirmé par nos partenaires à l'occasion des conversations qui ont eu lieu au niveau ministériel, à Paris ou à Alger, et en réponse aux démarches répétées que notre ambassadeur à Alger a effectuées auprès des responsables gouvernementaux et administratifs algériens. La situation politique de l'Algérie depuis le mois d'octobre 1988 et les multiples échéances qui se sont succédé durant trois ans et demi ont conduit les autorités algériennes à différer l'exécution de la décision de mise à disposition d'un terrain. L'honorable parlementaire peut cependant être convaincu que, à aucun moment depuis l'accord de 1988, les représentants de la France n'ont cessé de rappeler aux autorités algériennes l'importance de ce dossier et l'urgence, pour des raisons techniques et budgétaires, d'être fixé sur le lieu d'implantation de cet établissement. Il peut enfin être assuré de la volonté du Gouvernement de s'en tenir à la parole donnée par l'Algérie concernant l'attribution à la France d'un terrain nu pour le futur lycée français d'Alger.
