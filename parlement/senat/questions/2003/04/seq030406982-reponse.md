@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030406982
+
+- Question : [SEQ030406982](seq030406982.md) — Fiscalité des offrandes aux associations religieuses
+
+## Réponse
+
+*Économie, JO du 2003-07-17, page 2298*
+
+L'article 15 de la loi de finances pour 1992, codifié au deuxième alinéa de l'article 757 du code général des impôts, a institué une obligation de déclaration ou d'enregistrement pour les dons manuels révélés à l'administration fiscale et a assujetti ces dons aux droits de mutation à titre gratuit dans les mêmes conditions que les autres donations. La cour d'appel de Versailles a, dans un arrêt rendu le 28 février 2002, concernant une entité non représentative du monde associatif, effectivement considéré que la présentation de la comptabilité par une association vérifiée constituait une révélation au sens de l'article 757 précité. S'agissant d'un arrêt d'espèce, il serait hasardeux d'en tirer des conséquences à l'égard des associations d'intérêt général visées par l'auteur de la question. Par ailleurs, il est précisé qu'aucune directive particulière, visant à orienter le contrôle des associations à partir notamment, de l'exploitation systématique des attestations et reçus délivrés en application des dispositions de l'article 200 du code général des impôts, n'a été donnée. Enfin, le Parlement a adopté en première lecture du projet de loi relatif au mécénat, aux associations et aux fondations, une mesure précisant que les dispositions de l'article 757 déjà cité ne s'appliquent pas aux dons manuels consentis aux organismes d'intérêt général mentionnés à l'article 200 du code général des impôts. Cette légalisation de la non-perception des droits de mutation à titre gratuit, pour les dons consentis aux organismes éligibles au dispositif d'impôt sur le revenu existant en matière de mécénat, au nombre desquels figurent les associations cultuelles autorisées à recevoir des dons et legs est de nature à répondre aux préoccupations exprimées.
