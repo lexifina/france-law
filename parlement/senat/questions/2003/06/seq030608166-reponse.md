@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030608166
+
+- Question : [SEQ030608166](seq030608166.md) — Représentation des conseils généraux dans les différentes commissions sociales
+
+## Réponse
+
+*Affaires sociales, JO du 2003-10-02, page 2956*
+
+Les commissions dans le secteur social et médicosocial sont nombreuses compte tenu de la diversité des secteurs et des activités. Afin d'assurer la représentation des différents partenaires, ces instances peuvent, en fonction de leur nature et de leurs missions, associer à la préparation de leurs décisions, l'État, les collectivités territoriales, des établissements publics ou parapublics spécialisés, des acteurs économiques ou sociaux et des représentants de la société civile. Or, cette composition collégiale conduit à un absentéisme important dans la mesure où les mêmes partenaires sont souvent représentés au sein de ces diverses commissions. C'est pourquoi, dans le cadre des mesures de simplification administrative et de codification du droit, le Gouvernement souhaite poursuivre l'évolution observée depuis la première loi d'habilitation qui a permis de supprimer des instances redondantes ou de les simplifier en renvoyant à l'autorité politique le soin d'organiser la concertation au plus près des acteurs concernés. Cette tendance doit se poursuivre, dans le but de réorganiser ces commissions en fonction des grandes politiques sociales et d'adapter leur organisation au projet de loi de décentralisation qui impose notamment d'améliorer la représentation des collectivités territoriales dans ces instances, leur permettant ainsi de suivre la mise en oeuvre des politiques sociales qui relèvent de leur compétence. Les éléments jurisprudentiels relatifs à l'article 6-1 de la Convention européenne des droits de l'homme seront pris en compte dans ce cadre nouveau.
