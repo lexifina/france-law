@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900309111
+
+- Question : [SEQ900309111](seq900309111.md) — Conditions juridiques et politiques requises pour l'unification des deux Etats allemands
+
+## Réponse
+
+*Affaires étrangères, JO du 1990-09-20, page 2043*
+
+Réponse. - Ainsi que le rappelle l'honorable parlementaire, la France, les Etats-Unis, le Royaume-Uni et l'U.R.S.S. sont titulaires de droits et responsabilités pour Berlin et l'Allemagne dans son ensemble. Le cadre des négociations sur les aspects externes de l'unification de l'Allemagne a été mis en place à Ottawa le 13 février dernier; il réunit les deux Etats allemands et les quatre puissances alliées. Au cours des réunions qui se sont déroulées depuis lors, les divers aspects externes de l'unité allemande ont été évoqués, de telle sorte qu'après la réunion ministérielle du 17 juillet qui s'est tenue à Paris et à laquelle était convié le ministre des affaires étrangères de la République de Pologne les principales difficultés soulevées par la réunification peuvent être considérées comme surmontées. Le texte du règlement final de droit international devrait pouvoir être établi au cours de la prochaine réunion au niveau ministériel qui se tiendra à Moscou, le 12 septembre. En ce qui concerne les aspects internes de l'unification, la France, par la voix du Président de la République, a toujours précisé qu'ils étaient d'abord et avant tout l'affaire des Allemands eux-mêmes. Dès lors que ce processus se déroulait démocratiquement et en application du droit de libre autodétermination, il appartenait aux Allemands de choisir le rythme et les modalités de sa mise en oeuvre. L'honorable parlementaire comprendra en outre que le ministre des affaires étrangères ne puisse se prononcer sur les modalités d'application de l'article 23 de la loi fondamentale allemande, ces questions relevant du droit constitutionnel d'un Etat étranger.
