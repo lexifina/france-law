@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910515272
+
+- Question : [SEQ910515272](seq910515272.md) — Respect du droit du travail dans le domaine de l'esthétique-parfumerie
+
+## Réponse
+
+*Travail, JO du 1992-01-02, page 47*
+
+Réponse. - L'honorable parlementaire a bien voulu appeler l'attention de Mme le ministre de l'emploi et de la formation professionnelle sur le problème posé par le non-respect dans certaines catégories professionnelles et notamment dans le domaine de la parfumerie. Esthétique des dispositions réglementaires et conventionnelles relatives à la répartition de la durée du travail. Il ressort en effet des stipulations de la convention collective nationale de la parfumerie esthétique du 11 mai 1978 étendue par arrêté du 20 mai 1980 que les parties signataires entendent rappeler la réglementation relative aux deux jours de repos consécutifs prévus par le décret n° 57-472 du 8 avril 1957 fixant la durée du travail hebdomadaire et la répartition des horaires de travail dans les magasins et salons de coiffure. Il convient de rappeler que les inspecteurs du travail sont chargés, en vertu de l'article L. 611-1 du code du travail, de veiller à l'application des dispositions du code du travail et des lois et règlements non codifiés relatifs au régime du travail, ainsi qu'à l'application des stipulations des conventions collectives ayant fait l'objet d'un arrêté d'extension leur ayant conféré un caractère obligatoire. Aussi, si les manquements dont fait état l'honorable parlementaire s'avèrent d'une telle fréquence, il appartient aux organisations syndicales ou aux salariés victimes de telles pratiques de saisir l'inspecteur du travail qui pourra ainsi dresser procès-verbal des infractions relevées et les faire sanctionner par les peines prévues à l'article R. 261-3 du code du travail.
