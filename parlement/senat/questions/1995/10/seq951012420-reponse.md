@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951012420
+
+- Question : [SEQ951012420](seq951012420.md) — Situation de l'institut national des appellations d'origine (INAO)
+
+## Réponse
+
+*Agriculture, JO du 1996-02-01, page 200*
+
+Réponse. - La loi no 90-558 du 2 juillet 1990 a étendu les compétences de l'Institut national des appellations d'origine (INAO) à l'ensemble des appellations d'origine contrôlées des produits agro-alimentaires. Par ailleurs, dans le cadre de la mise en oeuvre du règlement du conseil no 2081-92 du 14 juillet 1992 relatif aux appellations d'origine protégées (AOP) et aux indications géographiques protégées (IGP), la loi du 4 janvier 1994 relative à la reconnaissance de qualité des produits agricoles et alimentaires et ses décrets d'application confient à l'INAO de nouvelles responsabilités, notamment en matière de protection des IGP. Il importe de noter que, dans l'exercice de telles missions qui impliquent des décisions importantes de portée économique souvent majeure, le caractère public de l'INAO offre aux consommateurs la nécessaire garantie d'objectivité, de neutralité et d'indépendance. C'est pourquoi le choix d'un financement public de l'INAO adopté dès sa création paraît toujours pertinent. Le Gouvernement, dans un contexte budgétaire difficile, a donc proposé au Parlement, qui l'a votée, la reconduction pour 1996 de la dotation de l'Etat de 1995 en faveur de l'INAO, ainsi que la création de dix postes supplémentaires. De leur côté, les représentants professionnels du comité des vins et eaux-de-vie de l'INAO ont décidé d'accompagner l'effort de l'Etat en augmentant leur contribution en faveur de l'institut. Ils ont également décidé de débloquer le travail des commissions d'enquête, qui sont à la base des propositions de l'institut. Dans ces conditions, l'INAO se voit doté dès 1996 des moyens nécessaires à son bon fonctionnement.
