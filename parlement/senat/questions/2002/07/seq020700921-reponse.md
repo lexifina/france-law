@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700921
+
+- Question : [SEQ020700921](seq020700921.md) — Situation des personnels techniciens ouvriers de service
+
+## Réponse
+
+*Jeunesse, JO du 2002-08-22, page 1867*
+
+Il convient de rappeler en préalable l'esprit et la méthode qui présideront à la mise en oeuvre d'une politique de décentralisation et de réforme de l'Etat. Celle-ci est destinée à construire une " République de proximité " et sera assortie du transfert des ressources correspondantes. Elle sera mise en place dans la concertation, avec pragmatisme et, le cas échéant, après expérimentation. Le Parlement sera très directement associé, dès l'automne prochain, à cette démarche à travers l'examen, d'une part, d'un projet de loi constitutionnelle visant notamment à inscrire la région dans la Constitution et à autoriser l'expérimentation et, d'autre part, d'un projet de loi qui comprendra un volet de transfert de compétences immédiat et général et un volet traçant le cadre des expérimentations. Il s'agit d'une réforme renforçant la démocratie locale après un débat national et une large concertation. S'il est trop tôt pour préjuger du résultat de la discussion qui va s'ouvrir, il convient néanmoins, dans l'intérêt même du service public, de s'engager résolument dans cette démarche de modernisation. Tout sujet mérite débat et les solutions qui seront adoptées seront toujours marquées par le souci de la rationalisation de l'action publique et la cohérence des interventions de l'Etat et des collectivités territoriales. Sans préjuger des propositions qui pourraient être faites par les collectivités territoriales, le ministre de la jeunesse, de l'éducation nationale et de la recherche n'envisage pas actuellement de modification du statut des personnels ouvriers et techniciens de l'éducation nationale.
