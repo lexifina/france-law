@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870606480
+
+- Question : [SEQ870606480](seq870606480.md) — Financement des établissements d'enseignement agricole privés
+
+## Réponse
+
+*Agriculture, JO du 1987-08-06, page 1220*
+
+Réponse. -Le montant de la contribution financière de l'Etat au fonctionnement des établissements d'enseignement agricole privés de rythme approprié, comme les maisons familiales et les instituts ruraux d'éducation et d'orientation est actuellement déterminée conformément aux dispositions de l'article 14 de la loi n° 84-1285 du 31 décembre 1984. Grâce aux dotations supplémentaires de crédits venues abonder, au mois de décembre 1986, le chapitre 43-22 la situation des centres de formation va être très améliorée. Ainsi les maisons familiales dont la subvention de fonctionnement correspondait en 1985 et pour les deux-tiers de l'année 1986 à 80 p. 100 du montant des charges salariales payées pour les formateurs et, pour les quatre derniers mois de 1986, à 90 p. 100 de ce montant - ce qui était ressenti comme une profonde injustice - bénéficieront à compter du 1er janvier 1987 d'une prise en compte à 100 p. 100 de ces mêmes charges. En phase d'application définitive de la loi, le financement des maisons familiales rurales et de tous les établissements de même type sera déterminé par les décrets d'application prévus aux articles 3 et 5 de la loi du 31 décembre 1984 précitée - selon les orientations données dans ce dernier article, la subvention devrait alors être établie en fonction : 1° du nombre de postes de formateurs nécessaires à la mise en oeuvre de filières de formation retenues par le schéma prévisionnel national, compte tenu des modalités d'organisation interne de ces filières au sein des établissements ou des groupes d'établissements ; 2° du coût d'un poste, déterminé pour chaque filière de formation, par référence au coût moyen des formateurs qui participent aux filières analogues existant dans les établissements visés à l'article 4.
