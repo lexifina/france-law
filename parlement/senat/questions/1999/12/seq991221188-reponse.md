@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991221188
+
+- Question : [SEQ991221188](seq991221188.md) — Secteur agroalimentaire : formation professionnelle mieux prise en compte
+
+## Réponse
+
+*Droits des femmes, JO du 2000-07-06, page 2383*
+
+Réponse. - L'honorable parlementaire a appelé l'attention de madame la secrétaire d'Etat sur ces préoccupations concernant les questions de formation professionnelle dans le secteur de l'agroalimentaire et notamment son souhait de connaître les mesures envisagées pour inciter toutes les entreprise de l'agroalimentaire à plus et mieux investir dans la formation de leur salariés. Le ministère chargé de la formation professionnelle a, depuis 1989, conclu deux accords cadres successifs d'engagement de développement de la formation (EDDF) avec 32 des branches professionnelles du secteur de l'agroalimentaire, réprésentées par l'association nationale des industries agroalimentaires (A.N.I.A.), accords qui ont permis de former plus de 90 000 salariés au cours de 1 295 000 heures de formationet ont représenté une participation financière de l'Etat s'élevant à 203 millions de Francs (hors aides communautaires). Le dernier accord cadre est arrivé à échéance le 31 décembre 1998 et a fait l'objet d'une évaluation durant l'année 1999. Cette évaluation a permis de constater que l'impact de l'EDDF sur les entreprises signataires a été positif et a notamment eu pour effet, pour certaines d'entre elles, de susciter une réflexion sur les enjeux de la formation et de concevoir des plans de formation plus ambitieux. Afin de renforcer l'effet levier des aides de l'Etat au profit de l'investissement, formation des entreprises de ces secteurs, les accords qui pourront être conclus à l'avenir devront meiux prendre en compte la nécessité de soutenir prioritairement des formations visant l'accès à une qualification reconnue et permettre de promouvoir les dispositifs de vacation des acquis de l'expérience.
