@@ -1,10 +1,6 @@
 # Article 39 quaterdecies
 
-1 Le montant net des plus-values à court terme peut être réparti par parts égales :
-
-- sur l'année de leur réalisation;
-
-- et sur les quatre ou deux années suivantes, selon que ces plus-values ont été réalisées au cours d'exercices clos le 1er octobre 1972 au plus tard, ou d'exercices clos après cette date.
+1 Le montant net des plus-values à court terme peut être réparti par parts égales sur l'année de leur réalisation et sur les deux années suivantes.
 
 Il s'entend de l'excédent de ces plus-values sur les moins-values de même nature qui ont été effectivement subies au cours du même exercice.
 
