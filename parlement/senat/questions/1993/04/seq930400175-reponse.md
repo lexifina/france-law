@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930400175
+
+- Question : [SEQ930400175](seq930400175.md) — Distribution du lait à l'école
+
+## Réponse
+
+*Agriculture, JO du 1993-09-09, page 1579*
+
+La distribution des produits laitiers dans les écoles maternelles, élémentaires et secondaires fait l'objet d'une aide communautaire depuis 1977. Son objectif était notamment de faciliter l'écoulement de produits, alors plus que maintenant, excédentaires, mais aussi d'habituer les enfants à consommer des produits laitiers à haute qualité nutritionnelle, en espérant qu'ils conserveraient cette habitude de consommation à l'âge adulte. Chaque année, ce sont 550 000 tonnes d'équivalent lait qui sont subventionnées au niveau communautaire, soit une dépense de plus de 200 MECU (1,59 milliard de francs). Les pouvoirs publics français ont pris l'habitude de participer avec des fonds nationaux à cette action. Pour l'année scolaire 1991-1992, qui est la dernière année pour laquelle les chiffres sont connus, l'aide au lait scolaire a représenté en France 366 millions de francs, se répartissant en 346 millions de francs d'origine communautaire et 20 millions de francs d'origine nationale. Les quantités se sont élevées à près de 145 000 tonnes et 16 825 élèves ont pu bénéficier du régime. Une part importante du financement communautaire provenait de la taxe de corresponsabilité payée par les producteurs de lait européens, au motif que cette action constituait une mesure d'aide à l'écoulement des excédents ; le reste était imputé sur le budget du FEOGA, section garantie. Cette taxe a été supprimée à compter du 1er avril 1993, ce qui pose le problème de la pérennité de la totalité du financement communautaire. Néanmoins tout sera mis en oeuvre pour que le régime puisse se poursuivre au niveau actuel et que les 17 000 élèves qui bénéficient de ce régime continuent à le faire dans des conditions satisfaisantes.
