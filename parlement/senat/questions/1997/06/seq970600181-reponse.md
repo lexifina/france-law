@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970600181
+
+- Question : [SEQ970600181](seq970600181.md) — Garanties des droits des souscripteurs face aux produits d'assurance vie
+
+## Réponse
+
+*Économie, JO du 1998-10-29, page 3445*
+
+Réponse. - La suppression de la réduction d'impôt attachée aux primes d'assurance vie répond à la volonté de rééquilibrer la fiscalité de l'ensemble des instruments d'épargne longue. Le bénéfice de la réduction d'impôt est toutefois maintenu au profit des titulaires de contrats à primes périodiques souscrits avant certaines dates, afin de ne pas bouleverser l'équilibre des contrats pour lesquels la modification du traitement fiscal se traduirait pour les souscripteurs par une pénalisation économique particulièrement rigoureuse en cas de rupture du contrat. Ces contrats s'entendent de ceux qui présentent cumulativement les caractéristiques énoncées dans les instructions des 22 février 1996 et 16 janvier 1997 publiées au Bulletin officiel des impôts, c'est-à-dire ceux pour lesquels les commissions versées par l'assureur à ses intermédiaires sont précomptées sur les premières primes du contrat ou qui ne comportent pas de valeur de rachat pendant au moins deux ans. Ainsi le dispositif adopté par le Parlement préserve le respect des engagements pris par les contribuables antérieurement à la mesure. Par ailleurs, sauf les cas où le retrait est effectué par une personne non imposable à l'impôt sur le revenu et titulaire d'un plan épargne populaire (PEP) ouvert avant le 25 août 1993 ou si le retrait a été effectué entre le 1er janvier et le 30 septembre 1996 par un contribuable titulaire d'un PEP ouvert avant le 20 décembre 1995, la résiliation du PEP avant l'expiration du délai minimum de six ans mentionné à l'article 199 septies du code général des impôts expose l'épargnant à la reprise des réductions d'impôts précédemment obtenues.
