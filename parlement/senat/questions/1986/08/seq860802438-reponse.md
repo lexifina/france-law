@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860802438
+
+- Question : [SEQ860802438](seq860802438.md) — Avenir de Renault véhicules industriels (RVI) dans ses activités poids lourds
+
+## Réponse
+
+*Industrie, JO du 1986-11-13, page 1599*
+
+Réponse. -La situation de Renault Véhicules Industriels (R.V.I.) s'inscrit dans un contexte de marché en dégradation continue depuis plusieurs années. Le plan d'amélioration de la compétitivité 1986-1987, défini par la direction de l'entreprise en accord avec son actionnaire, est un moyen privilégié de retour à l'équilibre financier de R.V.I. et la condition nécessaire de son maintien parmi les grands constructeurs mondiaux de poids lourds. Ce programme a pour objet d'assurer une meilleure définition de la vocation industrielle de chaque site et de déterminer le niveau d'équilibre de chaque établissement au regard des perspectives d'évolution de ses débouchés. L'amélioration de la compétitivité requiert au surplus d'identifier clairement les centres de pertes et les centres de profits de la société et d'adapter l'outil industriel en fonction des conclusions de cette analyse. Ceci implique d'accroître l'adéquation de la politique d'achat aux besoins réels de R.V.I. et de définir le niveau optimal d'intégration des activités. Cette nécessaire redéfinition est d'ores et déjà largement engagée, mais elle reste étroitement subordonnée au souci permanent des dirigeants de R.V.I. de maintenir la compétence technique de l'entreprise au meilleur niveau et de garantir, en toutes circonstances, l'entière disponibilité des composants industriels. Les dirigeants de R.V.I. estiment que la mise en oeuvre de ce plan devrait permettre à l'entreprise de retrouver l'équilibre financier à la fin de l'année 1987. Ce redressement est en effet nécessaire pour assurer à terme le maintien d'une capacité de conception et de fabrication indépendante de véhicules industriels en France.
