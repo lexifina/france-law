@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871208857
+
+- Question : [SEQ871208857](seq871208857.md) — Développement de l'aéroport de Fréjorgues (Hérault)
+
+## Réponse
+
+*Transports, JO du 1988-01-28, page 131*
+
+Réponse. -Dans le cadre de l'ouverture vers l'extérieur de la région Languedoc-Roussillon, un effort relatif au développement de la plate-forme aéroportuaire de Montpellier est entrepris en vue de lui permettre de se tourner notamment vers les pays de l'espace méditerranéen et ceux de l'Europe du Nord. Un programme d'extension de l'aéroport est donc prévu afin de faire face aux perspectives d'évolution du trafic. Ce programme d'investissements de 144,5 MF de 1987 à 1990 sera financé par les subventions de la Communauté économique européenne, du conseil régional, du conseil général et du district, et par une participation de l'Etat et du gestionnaire. La capacité de cet aéroport sera portée ainsi à 1,5 million de passagers par an, avec la possibilité de traiter simultanément deux avions gros porteurs et un avion de 150 places. La chambre de commerce et d'industrie de Montpellier, gestionnaire de l'aéroport, et les collectivités locales souhaitent, après cette première phase d'investissement, un allongement de la piste à 3 200 mètres pour accueillir du trafic long courrier. Le ministre délégué, chargé des transports, est prêt à soutenir ce projet si des études de marché précises justifient la rentabilité d'un tel investissement. Il n'est toutefois pas possible de fixer des délais ni d'envisager à court terme une aide de l'Etat pour cette opération, compte tenu des contraintes budgétaires. S'agissant du développement des liaisons internationales, Air-France étudie actuellement l'ouverture de lignes au départ de Montpellier vers le Benelux et l'Allemagne, à l'aide d'appareils affrétés à une compagnie régionale. Ce projet pourrait être concrétisé au début de 1989.
