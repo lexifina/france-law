@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860702068
+
+- Question : [SEQ860702068](seq860702068.md) — Police des baignades et activités nautiques
+
+## Réponse
+
+*Mer, JO du 1986-10-16, page 1460*
+
+Réponse. -La nécessité d'améliorer l'information des baigneurs et des autres pratiquants des sports nautiques de plage répond à un problème très réel. C'est pourquoi la " loi littoral " a rendu obligatoire l'information par les maires du public, au moyen d'une publicité appropriée sur les conditions dans lesquelles la baignade et les activités nautiques sont réglementées. Cependant, la bonne compréhension par le public tant de cette publicité que des systèmes de balisage est une condition indispensable d'une réelle efficacité du dispositif de sécurité mis en place. La normalisation des panneaux et balisage étant de nature à améliorer nettement ce point, les propositions de M. Josselin de Rohan rejoignent les réflexions de nombreux intervenants en matière de sécurité des plages, et notamment celles du groupe des communes maritimes de l'association des maires de France. Il est par ailleurs certain que la présence de nombreux estivants étrangers sur les plages françaises justifie l'existence d'un dispositif approprié. Pour répondre aux légitimes préoccupations des élus des communes littorales, il a été demandé à la mission interministérielle de la mer de mettre en place un groupe d'étude et de réflexion ayant pour objectif de présenter au secrétaire d'Etat à la mer, au titre de ses compétences relatives à la coordination des actions en mer de l'Etat, un ensemble de propositions de nature à améliorer la sécurité des baignades et des loisirs nautiques dans la zone maritime littorale. Ce groupe d'étude et de réflexion ne manquera pas de prendre contact avec les différents partenaires concernés, et notamment avec les organisations représentatives des élus du littoral et les diverses associations qui se préoccupent de ces questions.
