@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961119068
+
+- Question : [SEQ961119068](seq961119068.md) — Publication tardive du nombre de postes offerts aux concours de recrutement de l'éducation nationale
+
+## Réponse
+
+*Éducation, JO du 1997-01-23, page 211*
+
+Réponse. - Le second degré se caractérise par une diminution des effectifs d'élèves : 20 850 élèves en moins entre les rentrées scolaires 1995 et 1996 et 62 900 entre les rentrées 1993 et 1996. Au regard de cette tendance qui devrait s'accroître dans les prochaines années, la suppression d'emplois budgétaires qui figure dans le projet de loi de finances 1997, s'avère marginale : 975 emplois de professeurs stagiaires, à rapporter aux 13 080 emplois de professeurs stagiaires ouverts en 1996. Cette mesure ne mettra pas en cause les moyens dévolus, à la rentrée scolaire 1997, à l'encadrement des élèves puisqu'elle concerne le recrutement de nouveaux enseignants. La structure démographique des corps des enseignants du second degré et la baisse prévisible des effectifs d'élèves autorise, en effet, un léger resserrement de la politique de recrutement. La loi de finances relative au budget de l'année 1997 ayant été définitivement approuvée au mois de décembre 1996, les projets de recrutement adaptés à cette mesure pourront être élaborés. Les arrêtés fixant les volumes de places offertes aux concours doivent ensuite être publiés au Journal officiel, après visa du contrôleur financier et contreseing du ministre de la fonction publique, de la réforme de l'Etat et de la décentralisation. Il convient, à ce titre, de souligner que les besoins globaux en nouveaux enseignants titulaires à horizon de cinq et de dix ans, calculés par la direction de l'évaluation et de la prospective s'établissent à 11 000 par an, soit à un niveau inférieur aux prévisions antérieures.
