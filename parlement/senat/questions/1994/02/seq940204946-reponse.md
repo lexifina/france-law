@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940204946
+
+- Question : [SEQ940204946](seq940204946.md) — Multiplication des anglicismes et néologismes utilisés par l'administration française
+
+## Réponse
+
+*Culture, JO du 1994-03-31, page 726*
+
+Réponse. - Le ministre de la culture et de la francophonie remercie l'honorable sénateur de signaler le fait, particulièrement choquant, que de nombreux services publics, en particulier ceux de La Poste et des télécommunications, utilisent des termes étrangers. C'est ainsi que les années récentes ont vu l'apparition d'appellations, telles que " Chronopost " (sans e), France Telecom, (sans accent, le " Shuttle ", " Eurostar ", " Authentics " (produit financier de La Poste) au milieu de tant d'autres et d'une abondance d'anglicismes. Cette situation, qui traduit en partie le désir des services publics anciens de se donner de manière illusoire et futile une image " moderne ", est particulièrement préoccupante. Elle tend à vider de son sens le principe selon lequel le français est la langue de la République. Elle décourage les efforts de nos partenaires francophones. Elle n'apporte en tout état de cause rien aux organismes qui sont responsables de ces dérives, qui sont finalement mal ressenties par l'opinion, comme en témoigne l'abondant courrier de protestation, qui parvient aux administrations chargées de la politique de la langue française. Le Gouvernement est déterminé à agir dans ce domaine avec fermeté : le Premier ministre signera prochainement une circulaire intimant aux administrations d'être exemplaires en cette matière. Le projet de loi déposé sur le bureau du Sénat contient une disposition interdisant pour l'avenir l'emploi par les services publics de marques formulées en langue étrangère. Il sera par ailleurs demandé aux administrations de renoncer, autant que possible, aux appellations et graphies concernées.
