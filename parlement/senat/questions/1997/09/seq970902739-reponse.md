@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970902739
+
+- Question : [SEQ970902739](seq970902739.md) — Réglementation des débits de boisson en milieu rural
+
+## Réponse
+
+*Budget, JO du 1997-10-30, page 2977*
+
+Réponse. - L'article L. 41 du code des débits de boissons impose la conservation de la dernière licence à consommer sur place de quatrième catégorie de la commune. Par cette mesure, le législateur a voulu préserver le pôle d'animation local que constitue le café. Le Parlement a confirmé cette démarche par le vote des dispositions visant à lutter contre la désertification des zones rurales dans le cadre de la loi no 95-115 du 4 février 1995 relative à l'orientation pour l'aménagement et le développement du territoire, dont l'article 54 a porté de un à trois ans le délai de péremption des licences à consommer sur place. Par ailleurs, en vertu de l'article L. 36 du code des débits de boissons, une commune dépourvue de tout débit de boissons à consommer sur place de quatrième catégorie peut bénéficier du transfert d'une licence de même nature exploitée dans un rayon de 50 kilomètres et, dans la mesure où le quota défini à l'article L. 27 du code précité le permettrait, il est loisible à la personne désirant exploiter un débit de boissons de solliciter l'octroi d'une licence à consommer sur place de deuxième ou troisième catégorie. Ce dispositif législatif a donc déjà fait l'objet d'assouplissements notables. Cependant, en raison de la diminution du nombre de licences IV et de la nécessité de favoriser la revitalisation des zones rurales, le groupe de travail constitué au sein du comité interministériel de lutte contre l'alcoolisme examine actuellement les modifications propres à assurer une meilleure adéquation entre les besoins tant des professionnels que des consommateurs et le parc de licences disponibles.
