@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701915
+
+- Question : [SEQ970701915](seq970701915.md) — Engorgement des commissions de surendettement
+
+## Réponse
+
+*Économie, JO du 1997-11-13, page 3145*
+
+Réponse. - Le nombre de dossiers déposés par les ménages devant les commissions départementales de traitement des situations de surendettement des particuliers a connu une croissance nette à partie de 1995. On peut également observer que le profil des dossiers déposés a quelque peu évolué, car bon nombre de personnes ayant saisi les commissions récemment sont confrontées à des problèmes d'absence ou d'insuffisance de revenus permettant de faire face aux dépenses courantes. Les pouvoirs publics ont fait face à cette recrudescence des dépôts de dossiers de surendettement en augmentant les moyens mis à la disposition des commissions. Le secrétariat général des commissions de surendettement étant assuré par la Banque de France, les effectifs de cette dernière consacrés à cette activité se sont accrus de façon significative. La Banque de France a également réalisé des efforts importants pour améliorer l'efficacité du suivi administratif des dossiers, de façon à accélérer leur traitement sans accroître de façon excessive le coût de la procédure. L'entrée en vigueur de la réforme intervenue en 1995, qui simplifie l'ensemble du dispositif en donnant aux commissions la possibilité de formuler des propositions de plans de redressement judiciaire pouvant être validées ensuite par les tribunaux d'instance, a également permis d'améliorer l'efficacité du dispositif. Enfin, dès que les commissions se sont prononcées sur la recevabilité du dossier, ce qui intervient en général dans un délai de quelques semaines, les créanciers en sont rapidement informés, ce qui conduit le plus souvent à une suspension des procédures contentieuses lancées contre les débiteurs.
