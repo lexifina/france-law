@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870104180
+
+- Question : [SEQ870104180](seq870104180.md) — Durée du congé de maternité des épouses d'exploitants agricoles
+
+## Réponse
+
+*Agriculture, JO du 1987-02-26, page 286*
+
+Réponse. -L'allocation de remplacement maternité des agricultrices a été instituée pour permettre à ces dernières d'interrompre temporairement leur activité sur l'exploitation à l'occasion de la naissance d'un enfant. Depuis sa création en 1977, le montant de cette prestation et sa durée de versement ont été régulièrement améliorés ; elle peut ainsi actuellement être servie pendant une durée de cinquante-six jours, auxquels viennent s'ajouter, le cas échéant, des congés supplémentaires pour grossesse pathologique, accouchement par césarienne ou naissances multiples, qui peuvent porter la durée totale de remplacement indemnisé à quatre-vingt-dix-huit jours. Il n'est pas envisagé actuellement de modifier la réglementation sur ce point ; en effet, l'allongement de la durée de remplacement, outre les charges supplémentaires qu'elle impliquerait pour la profession, paraît moins prioritaire que la nécessité de permettre à toutes les agricultrices de bénéficier de la prestation dans les mêmes conditions. C'est pourquoi une action est engagée pour tenter de réduire les disparités existant d'une région à l'autre dans le montant de la part restant à la charge de l'agricultrice qui recourt au remplacement, disparités qui tiennent à l'écart existant dans un certain nombre de départements entre le plafond de prise en charge fixé annuellement et le tarif de remplacement maternité pratiqué par les services. Un groupe de travail comportant des représentants des organisations professionnelles et des services de remplacement procède actuellement à une étude approfondie des données recueillies et recherche les solutions qui peuvent être mises en oeuvre pour mettre fin aux disparités qui ont été constatées.
