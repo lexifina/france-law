@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701461
+
+- Question : [SEQ970701461](seq970701461.md) — Financement de l'amélioration de la qualité de l'environnement et aides aux communes
+
+## Réponse
+
+*Aménagement du territoire, JO du 1999-07-15, page 2402*
+
+Réponse. - La ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question relative au financement de la politique environnementale par les collectivités territoriales, notamment les communes rurales. Celles-ci sont actuellement engagées dans une politique particulièrement dynamique de modernisation de la gestion des déchets ménagers et assimilés, pour mettre en uvre les plans départementaux d'élimination et pour bien préparer l'échéance de 2002, c'est-à-dire la fin de la mise en stockage des déchets non ultimes. L'ADEME vient en conséquence d'adopter un dispositif de soutien financier aux opérations de collecte sélective, de traitement, de recyclage et d'élimination des déchets, qui fournira un cadre stable pour les interventions de l'agence jusqu'à 2001. A ces aides vient, en outre, s'ajouter la baisse de la TVA intervenue en 1999 en faveur de la collecte sélective des déchets. De ce fait, le coût final de la collecte et du traitement d'une tonne de déchets municipaux, qui bénéficie à la fois des aides de l'ADEME et de celles d'Eco-Emballages, peut diminuer significativement. Selon une étude réalisée à la demande de l'Association des maires de France sur un exemple jugé représentatif, le coût moyen passe de 1 181 francs (soit 180,04 euros) en 1997 à 1 115 francs (soit 169,98 euros) en 1998, et à seulement 987 francs (soit 150,46 euros) en 1999. Enfin, les collectivités locales et leurs groupements peuvent solliciter les établissements de crédit pour bénéficier de prêts à des conditions avantageuses, compte tenu de l'évolution favorable que connaît actuellement le marché.
