@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920320604
+
+- Question : [SEQ920320604](seq920320604.md) — Réévaluation cadastrale des valeurs locatives des locaux à usage professionnel
+
+## Réponse
+
+*Budget, JO du 1992-07-16, page 1614*
+
+Réponse. - Chaque local à usage professionnel est classé en fonction de ses caractéristiques physiques et de son utilisation dans une nomenclature comportant 48 catégories définie en application de la loi n° 90-669 du 30 juillet 1990 par le décret n° 90-1091 du 4 décembre 1990. A chaque catégorie est attaché un tarif distinct établi par secteur d'évaluation et au besoin par tranche de superficie à l'issue d'une étude approfondie du marché locatif. Ainsi, les locaux des centres commerciaux font l'objet d'un classement spécifique et les tarifs les concernant sont déterminés à partir des loyers afférents à ces seuls locaux dans le cadre géographique du secteur d'évaluation défini par l'article 6 de la loi précitée. Toutes les décisions concourant à la délimitation des secteurs d'évaluation des locaux à usage professionnel, à leur classement et à la détermination de leurs tarifs ont été prises en accord avec les commissions et comité réunissant des élus locaux et des représentants des contribuables. Par ailleurs, l'article 47-1 de la loi précitée prévoit qu'un rapport retraçant l'ensemble des conséquences de la révision pour les contribuables et les collectivités sera présenté au Parlement avant le 30 septembre 1992. Ce rapport sera fondé sur des simulations qui porteront sur tous les départements et feront apparaître les transferts de charges par type de local ou de propriété. Des simulations relatives à la dotation globale de fonctionnement pour chaque collectivité locale seront par ailleurs réalisées par le ministère de l'intérieur. Ces travaux devraient permettre au Parlement de se prononcer sur les conditions d'intégration des résulats de la révision dans les rôles.
