@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971104542
+
+- Question : [SEQ971104542](seq971104542.md) — Amélioration de l'organisation du traitement du trafic aérien
+
+## Réponse
+
+*Équipement, JO du 1998-04-16, page 1260*
+
+Réponse. - L'amélioration de la compatibilité entre la circulation aérienne générale (CAG) et la circulation aérienne militaire (CAM), relevant, respectivement, du ministère des transports et du ministère de la défense, constitue un enjeu majeur pour l'écoulement du trafic aérien civil, dans un contexte de forte croissance de ce dernier, en moyenne de plus de 5 % par an depuis plus de 10 ans (+ 6,5 % en 1997). Le concept européen de gestion flexible de l'espace aérien qui se met en place progressivement en France et dans les autres pays européens permettra, dans le cadre d'une gestion d'ensemble de l'espace aérien (routes aériennes civiles et zones militaires), une meilleure utilisation de l'espace aérien au profit des deux circulations aériennes civiles et militaires. S'agissant plus particulièrement du trafic de la circulation essais-réception (CER), qui relève du ministère de la défense, celle-ci fait l'objet depuis plusieurs années d'un traitement particulier, destiné à en améliorer la compatibilité avec le trafic aérien civil. Le contrôle de la majorité des activités de la CER s'effectue à partir de positions de contrôle spécifiques, implantées à proximité des positions de contrôle civiles, soit dans les centres de contrôle civils en route, soit dans les salles de contrôle d'approche de certains aérodromes. De ce fait, les matériels employés par les contrôleurs civils sont utilisés par les contrôleurs de la CER travaillant dans les centres civils. Cette coopération donne aujourd'hui satsifaction. Elle connaîtra une étape supplémentaire avec une exploitation identique des futures stations de travail de nouvelles générations qui seront progressivement installées dans les centres civils de contrôle en route à partir de l'automne 1998.
