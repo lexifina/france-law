@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021002838
+
+- Question : [SEQ021002838](seq021002838.md) — Diplôme d'enseignement supérieur dans les IUT
+
+## Réponse
+
+*Jeunesse, JO du 2002-11-21, page 2799*
+
+Les instituts universitaires de technologie (IUT) sont dans l'université dont ils sont partie intégrante. Ils accueillent des étudiants dont un grand nombre est appelé à faire des études longues et qui sont intéressés par une approche technologique des problèmes, par le lien avec les professions et par des méthodes pédagogiques s'appuyant sur une démarche de projet. Les projets, visant hier à faire un diplôme universitaire de technologie (DUT) en trois ans, aujourd'hui à créer des licences technologiques sur un modèle analogue, ne constituent pas une approche suffisamment féconde. Dans le contexte actuel, les licences professionnelles qui s'inscrivent, à bac + 3, dans l'exigence d'harmonisation européenne des niveaux de sortie, doivent être développées. Elles ont vocation à permettre des poursuites d'études bien adaptées aux titulaires d'un DUT. Par ailleurs, dans le cadre des dispositions de l'arrêté du 23 avril 2002 relatif aux études universitaires conduisant au grade de licence, les universités ont la possibilité, tout en préservant les caractéristiques professionnalisantes des diplômes universitaires de technologie (DUT), d'aménager les études en IUT par l'organisation d'enseignements facilitant la poursuite d'études des étudiants qui le souhaitent vers les divers types de licence. Enfin, s'il est exact que le nombre d'étudiants préparant un DUT a diminué à la rentrée 2001-2002 (- 0,3 %), ce très faible ralentissement, qui fait suite à une croissance annuelle régulière de 2 % continue depuis 1995, n'est en aucune façon dû à l'absence de préparation à une licence. Cette très légère diminution est la conséquence de la situation démographique générale.
