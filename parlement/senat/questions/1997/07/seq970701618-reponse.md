@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701618
+
+- Question : [SEQ970701618](seq970701618.md) — Psychologues scolaires
+
+## Réponse
+
+*Enseignement scolaire, JO du 1997-09-18, page 2472*
+
+Réponse. - Les psychologues scolaires dont le rôle est essentiel pour le soutien des élèves exercent principalement leurs fonctions au sein des réseaux d'aides spécialisées aux élèves en difficulté (RASED) mis en place par la circulaire no 90-082 du 9 avril 1990. Au plan national, on constate que le nombre d'emplois occupés par les personnels spécialisés des réseaux (maîtres chargés des aides à dominante pédagogique, maîtres chargés des aides à dominante rééducative et psychologues scolaires), est en progression : 1992-1993 : 11 367 emplois ; 1993-1994 : 11 719 emplois ; 1994-1995 : 11 974 emplois ; 1995-1996 : 12 016 emplois. Toutefois, c'est au niveau départemental que l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, fixe l'organisation des réseaux d'aides spécialisées, notamment leur zone d'intervention, et attribue les moyens en postes et crédits nécessaires à leur fonctionnement. Pour l'année scolaire 1995-1996, ce sont 3 450 psychologues scolaires qui exerçaient dans les réseaux d'aides dont 69 pour le seul département du Rhône. Hormis Paris et les départements d'Ile-de-France, le Rhône est l'un des départements les mieux dotés en emplois de psychologues scolaires. Il convient d'ajouter que le secteur de l'adaptation et de l'intégration scolaires nécessite la spécialisation du corps enseignant du premier degré qui s'effectue sur la base du volontariat et c'est souvent faute de candidats que les postes de psychologue scolaire ne peuvent être pourvus par les inspecteurs d'académie. Seule une campagne de sensibilisation menée au niveau local pourra redonner un élan à la spécialisation de ces enseignants.
