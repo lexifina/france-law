@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000524923
+
+- Question : [SEQ000524923](seq000524923.md) — Fonction publique : limitation à un renouvellement des contrats à durée déterminée
+
+## Réponse
+
+*Fonction publique, JO du 2000-09-07, page 3092*
+
+Réponse. - Le rapport du groupe de travail présidé, dans le cadre du commissariat général du Plan, par M. Bernard Cieutat et consacré à la gestion de l'emploi public a dédié une partie de ses réflexions à l'organisation des carrières des agents. Dans ce contexte, il a notamment réfléchi aux voies et moyens qui permettraient de réduire l'importance de l'emploi précaire, et a effectivement suggéré que les renouvellements de contrats à durée déterminée soient limités à une seule possibilité. Cette suggestion, qui pourrait au demeurant s'analyser comme un retour à la rédaction initiale de l'article 4 de la loi nº 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat, rencontre également certaines préoccupations du Conseil européen, qui a adopté, le 28 juin 1999, une directive tendant notamment à limiter les possibilités de renouvellement des contrats à durée déterminée. Par ailleurs, des négociations en vue de résorber l'emploi précaire et de mieux gérer l'emploi public se sont ouvertes le 15 juin dernier avec les organisations syndicales représentatives des personnels des trois fonctions publiques. Elles se sont achevées le 10 juillet par la signature d'un " protocole d'accord sur la résorption de l'emploi précaire dans les trois fonctions publiques et sur une meilleure gestion de l'emploi public ". Dans sa partie consacrée à ce dernier aspect, ce document prévoit la constitution d'un groupe de travail, associant administration et organisations syndicales, afin de réexaminer les conditions du recours à des agents contractuels. Ce groupe devra rendre ses conclusions dans un délai de six mois suivant la signature du protocole.
