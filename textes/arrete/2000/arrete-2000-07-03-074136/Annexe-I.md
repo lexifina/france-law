@@ -1,6 +1,6 @@
 # Article Annexe I
 
-LISTE DES ETABLISSEMENTS AYANT FABRIQUE DES MATERIAUX CONTENANT DE L'AMIANTE SUSCEPTIBLES D'OUVRIR DROIT A L'ALLOCATION DE CESSATION ANTICIPEE D'ACTIVITE
+Liste des établissements ayant fabriqué des matériaux contenant de l'amiante et des établissements de flocage et de calorifugeage à l'amiante, susceptibles d'ouvrir droit à l'allocation de cessation anticipée d'activité.
 
 Alsace
 
@@ -20,7 +20,7 @@ Everit Sitube/Everit/Everitube :
 
 Isothig :
 
-- 40140 Soustons : de 1960 à 1974.
+- 40140 Soustons : de 1960 à 1996.
 
 Tissot SA :
 
@@ -60,7 +60,7 @@ Etablissements Knauf-Isba/Ferlam/SAF/Ferodo/Isba Isolation : ZI Sud, route de Ly
 
 Etablissements Piques/Exploitation des établissements Piques :
 
-- 21440 Poncey-sur-Lignon ; puis 1, rue Champeau, ZAE Cap Nord, BP 72, 21074 Dijon : de 1906 à 1993.
+- 21440 Poncey-sur-Lignon ; puis 1, rue Champeau, ZAE Cap Nord, BP 72, 21074 Dijon : depuis 1906.
 
 Eternit :
 
@@ -178,7 +178,7 @@ Ferodo/Ferodo Abex/Necro/Abex Industrie SA/American Brackblock/Abex Pagide Equip
 
 - 58, rue Juliette-Adam, BP 20, 91192 Gif-sur-Yvette : de 1936 à 1996 ;
 
-- 9, rue Klock, 92110 Clichy : de 1977 à 1983 ;
+- 9, rue Klock, 92110 Clichy : de 1972 à 1983 ;
 
 Ferodo/Société Isba/Valeo :
 
@@ -186,7 +186,7 @@ Ferodo/Société Isba/Valeo :
 
 Ferodo/Valeo/centre de Saint-Ouen :
 
-- 10 et 21, rue Blanqui, et 13, rue Dieumegard, 93400 Saint-Ouen : de 1923 à 1991.
+- 10 et 21, rue Blanqui, et 13, rue Dieumegard, 93400 Saint-Ouen : de 1923 à 1992.
 
 Flertex :
 
@@ -268,9 +268,9 @@ Aubertin SA :
 
 - 10, rue des Métiers, 57790 Yutz : de 1982 à 1991.
 
-Babcock Entreprise/Babcock Holding/Lardet-Babcock :
+Ateliers Henri Lardet, puis lardet Babcock, puis Babcock entreprise, puis CNIM :
 
-- 50, rue du Fort, BP 29, 88191 Golbey Cedex 2 : de 1929 à 1996.
+- 7, rue du Fort, BP 29, 88191 Golbey Cedex : de 1929 à 1996.
 
 Buflon :
 
@@ -288,9 +288,9 @@ Eurogest/Tecafiltres ! CEAC :
 
 - rue Jean-Jaurès, 88100 Saint-Dié : de 1960 à 1974.
 
-Girling Moselle SA/Freins Girling/Lucas Girling/Lucas système de freinage :
+Girling Moselle SA puis Freins Girling (division de Lucas France SA), puis Lucas Girling (division de lucas France SA), puis Lucas Systèmes de freinage (division de Lucas France SA/branche de Lucas Automotive), puis Lucas système de freinage (division de lucas France Sa/groupe Lucas Varity), puis Lucas systèmes de freinage SAs (groupe TRW) :
 
-- avenue de la Gare, 57320 Bouzonville : de 1968 à 1996.
+- avenue de la Gare, 57320 Bouzonville : de 1968 à 2000.
 
 Groupe International Paper/Papeteries de Lana/Aussedat Rey et Docelles :
 
@@ -352,7 +352,7 @@ Flertex :
 
 HGD/Norsolor/Atochem :
 
-- 62880 Vendin-le-Vieil : de 1973 à 1992.
+- 62880 Vendin-le-Vieil : de 1973 au 30 juin 1981.
 
 Isolindustries/Isolamiante/Cape Asbestos et Cie :
 
@@ -368,13 +368,13 @@ La Nervienne :
 
 Wanner/Wanner Isofi :
 
-- 62200 Boulogne-sur-Mer : de 1933 à 1977 ;
+- 62200 Boulogne-sur-Mer
 
-- 51, route de Saint-Omer, 62100 Calais : de 1933 à 1977 ;
+- 51, route de Saint-Omer, 62100 Calais ;
 
-- 38, rue Kléber, 59155 Faches-Thumesnil : de 1973 à 1997 ;
+- 38, rue Kléber, 59155 Faches-Thumesnil rue B.-Delespaul, 59000 Lille ;
 
-- rue B.-Delespaul, 59000 Lille : de 1967 à 1973.
+- 23, rue du Comte-Jean 59760 Grande-Synthe : de 1933 à 1997.
 
 Basse-Normandie
 
@@ -492,9 +492,9 @@ Technisol :
 
 - 47, rue Paul-Doumer, 14600 Honfleur : de 1957 à 1984.
 
-Travisol/Echafisol/Norisol Isomarbat/Agrovisol Sud-Isopec :
+Travisol/Echafisol/Norisol Isomarbat/Agrovisol Sud-Isopec/Norisolec :
 
-- 18, rue Georges-Clemenceau, 76330 Notre-Dame-de-Gravenchon : de 1950 à 1997.
+- 18, rue Georges-Clemenceau, 76330 Notre-Dame-de-Gravenchon et 2, rue Lefort, 76530 Grand-Couronne : de 1950 à 1997.
 
 Wanner/Wanner Isofi :
 
@@ -594,9 +594,9 @@ Joseph Oliva isolation :
 
 - 94, avenue Roger-Salengro, 13003 Marseille : de 1965 à 1981.
 
-La Rochette Cempa/Eurofiltec/Filtralfa :
+Alpha, puis Rochette Cempa, puis Rochette Alfa, puis Filtralfa, puis Eurofiltec :
 
-- 18, rue de l'Estérel, 84130 Le Pontet : de 1974 à 1990.
+- RN 7, 84130 Le Pontet : de 1947 à 1996.
 
 Poujaud isolation :
 
@@ -660,7 +660,7 @@ Etablissements Gascheaux :
 
 Etablissements Gonet :
 
-- 12, avenue Jean-Moulin, 69270 Saint-Laurent-de-Marc : de 1970 à 1977.
+- 12, avenue Jean-Moulin, 69270 Saint-Laurent-de-Mure : de 1970 à 1977.
 
 Etablissements Nimal :
 
