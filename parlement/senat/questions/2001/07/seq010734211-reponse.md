@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010734211
+
+- Question : [SEQ010734211](seq010734211.md) — Régime de protection sociale des créateurs d'entreprise
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2002-01-10, page 96*
+
+Les artisans et les professionnels industriels et commerciaux qui sont affiliés au régime maladie des travailleurs non salariés non agricoles bénéficient d'un régime d'indemnités journalières au titre des prestations supplémentaires dont ils se sont volontairement dotés conformément aux dispositions de l'article L. 615-20 du code de la sécurité sociale. Ainsi, les artisans ont-ils bénéficié les premiers d'un régime d'indemnités journalières, créé par le décret n° 95-556 du 6 mai 1995. Ils ont été rejoints en cela par les professions industrielles et commerciales à la faveur du décret n° 2000-207 du 8 juin 2000. Selon les souhaits exprimés par les administrateurs élus concernés, les conditions d'attribution des indemnités journalières divergent de celles qui sont applicables dans le régime général des salariés. Cela concerne notamment la durée d'affiliation minimale dans le régime maladie des travailleurs non salariés non agricoles qu'il convient d'obtenir afin de pouvoir prétendre au versement d'indemnités journalières. Cette durée est de douze mois chez les travailleurs indépendants alors qu'elle n'est que de trois mois chez les salariés du régime général. Cette situation peut s'avérer pénalisante pour les créateurs d'entreprise qui n'ont jamais été affiliés au régime général des salariés. Aussi, afin de permettre une évolution, les sections professionnelles concernées au sein du conseil d'administration de la Caisse nationale d'assurance maladie des travailleurs indépendants (CANAM) s'apprêtent-elles à émettre des préconisations à partir desquelles les autorités de tutelle élaboreront le texte réglementaire nécessaire afin de réduire la durée d'affiliation minimale exigée pour le versement des indemnités journalières.
