@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971003894
+
+- Question : [SEQ971003894](seq971003894.md) — Campagne double pour les anciens d'Afrique du Nord
+
+## Réponse
+
+*Anciens combattants, JO du 1997-12-04, page 3380*
+
+Réponse. - La question posée par l'honorable parlementaire concerne les droits à la retraite des fonctionnaires et agents assimilés en considération des services militaires accomplis lors du conflit d'Afrique du Nord. De ce point de vue, ces services sont considérés comme services d'activité et comptent pour l'ancienneté. Depuis le décret no 57-495 du 14 février 1957, le temps passé en Afrique du Nord ouvre droit au bénéfice de la campagne simple, c'est-à-dire que, pour les anciens combattants d'Afrique du Nord fonctionnaire et assimilés, cette période compte pour deux fois sa durée dans le calcul de leur retraite, ce qui constitue un avantage significatif au regard des autres catégories d'appelés du contingent affiliés à d'autres régimes d'assurance vieillesse relevant du secteur privé. L'extension éventuelle du bénéfice de la campagne double reviendrait à prendre en compte trois fois le temps passé en Afrique du Nord pour ces anciens combattants fonctionnaires et assimilés. Le secrétaire d'Etat aux anciens combattants a demandé à ses services de chiffrer le coût entraîné par la satisfaction éventuelle de la revendication en cause. La décision qui sera prise dépendra naturellement du résultat de l'étude demandée. En effet, ainsi qu'il l'a indiqué au comité d'entente de la fonction publique reçu en audience et aux associations regroupant les anciens combattants d'Afrique du Nord avec qui il vient d'engager une concertation, le secrétaire d'Etat, tout en affirmant sa détermination de faire avancer le dossier, a tenu à souligner que les défis économiques et sociaux dans lesquels la France est engagée ne permettait ni de tout promettre ni de tout donner.
