@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890604994
+
+- Question : [SEQ890604994](seq890604994.md) — Situation de la chasse française
+
+## Réponse
+
+*Environnement, JO du 1989-08-24, page 1328*
+
+Réponse. - Le secrétaire d'Etat chargé de l'environnement et de la prévention des risques technologiques et naturels majeurs conduit une large politique d'information dans tous les domaines relevant de sa compétence et de ses responsabilités propres. C'est ainsi que les décisions réglementaires relatives à la chasse font l'objet d'une importante diffusion aussi bien à l'intérieur qu'à l'extérieur du monde cynégétique. En revanche, il ne lui paraît pas envisageable de reprendre à son compte les faits dont l'initiative revient aux seules organisations représentatives des chasseurs. On peut citer en particulier l'action menée par la Fondation nationale pour la protection des habitats de la faune sauvage, dont les ressources proviennent des chasseurs eux-mêmes par l'intermédiaire de leurs fédérations. Du reste, l'Union nationale des fédérations de chasseurs dispose grâce au comité chasse-nature d'un instrument spécifiquement destiné à l'information. Son efficacité devrait d'ailleurs être accrue par la récente création d'un Fonds national de promotion de la chasse alimenté également par une contribution des chasseurs. Enfin, il doit être rappelé que l'Office national de la chasse a fait de l'information et de la communication l'une de ses priorités budgétaires : cette priorité a été approuvée par le secrétaire d'Etat. S'agissant des périodes de chasse, il doit être relevé que, si le pigeon ramier est effectivement chassé toute l'année en Grande-Bretagne, cette période est comparable à la période d'autorisation en France, où la chasse puis la destruction du pigeon peuvent avoir lieu du 1er septembre au 31 juillet, soit onze mois sur douze. En revanche, la chasse du perdreau en Grande-Bretagne n'est pas ouverte toute l'année mais seulement du 1er septembre au 1er février.
