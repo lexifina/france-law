@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980306606
+
+- Question : [SEQ980306606](seq980306606.md) — Garanties financières des entreprises exploitant un centre d'enfouissement de déchets
+
+## Réponse
+
+*Aménagement du territoire, JO du 1999-01-28, page 272*
+
+Réponse. - La ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question concernant la constitution de garanties financières par les entreprises exploitant un centre d'enfouissement technique de déchets ménagers et assimilés, et la participation des collectivités locales à celles-ci dans la proportion des nuisances apportées. Ces garanties financières, instituées par la loi du 13 juillet 1992, ont pour but d'éviter de faire supporter à l'impôt les conséquences de la défaillance d'un exploitant dans le financement des travaux de réaménagement, de surveillance post-exploitation et des interventions en cas de pollution d'une installation de stockage de déchets. Les coûts de ces trois événements sont élevés. Le plus élevé correspond à la surveillance post-exploitation qui doit couvrir une période pouvant aller jusqu'à trente ans. Par conséquent, le montant des garanties financières est important mais sa justification ne paraît pas contestable. Les garanties financières représentent effectivement un coût supplémentaire non négligeable pour l'exploitant d'une installation de stockage de déchets, qui les répercute bien évidemment sur le coût de la mise en décharge. Les collectivités locales doivent vérifier, dans leurs contrats passés avec les exploitants, que la somme imputée aux garanties financières est bien proportionnelle à la quantité des déchets apportés. Les provisions constituées par l'exploitant de l'installation de stockage de déchets correspondent à une dépense effective en fin d'exploitation pour la remise état du site et sa surveillance sur une période trentenaire.
