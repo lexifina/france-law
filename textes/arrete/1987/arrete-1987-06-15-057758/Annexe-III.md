@@ -6,7 +6,7 @@ Végétaux ou produits végétaux originaires ou en provenance des Etats membres
 
 - au contrôle du service de la protection des végétaux.
 
-Numéro du tarif douanier et Désignation des végétaux ou produits végétaux :
+Numéro du tarif douanier et désignation des végétaux ou produits végétaux :
 
 06-01 : bulbes, oignons, tubercules, racines tubéreuses, griffes et rhizomes en repos végétatif, en végétation ou en fleurs.
 
@@ -64,22 +64,20 @@ Ex 06-02 : autres plantes et racines vivantes, y compris les boutures et greffon
 
 Ex 08-02 : agrumes frais à l'exception des citrons 08-02 C (Citrus limon) et 08-02 E (Citrus medica).
 
-08-06 : Pommes, poires et coings, frais.
+08-06 : pommes, poires et coings, frais.
 
-08-07 : Fruits à noyau, frais.
+08-07 : fruits à noyau, frais.
 
-Ex 12-03 A : Graines de betteraves à sucre.
+Ex 12-03 A : graines de betteraves à sucre.
 
-12-03 ex B : Graines forestières de chêne (Quercus L).
+12-03 ex B : graines forestières de chêne (Quercus L).
 
-12-03 C ex III : Graines à ensemencer de luzerne (Medicago sativa).
+12-03 C ex III : graines à ensemencer de luzerne (Medicago sativa).
 
-12-03 ex E : Graines à ensemencer de tomate (Solanum lycopersicum).
+12-03 ex E : graines à ensemencer de tomate (Solanum lycopersicum).
 
-Ex 25-32 : Terres de jardin, de bruyère, de marais, de limon destinés à la culture.
+Ex 25-32 : terres de jardin, de bruyère, de marais, limon destinés à la culture, terreaux.
 
-Ex 27-03 A : Tourbe.
+Ex 31-01 : engrais naturels d'origine animale ou végétale, même mélangés entre eux mais non élaborés chimiquement, à l'exception de engrais d'origine animale.
 
-Ex 31-01 : Engrais naturels d'origine animale ou végétale, même mélangés entre eux mais non élaborés chimiquement, à l'exception de engrais d'origine animale.
-
-Ex 31-05 : Engrais naturels d'origine végétale, compost.
+Ex 31-05 : engrais naturels d'origine végétale, compost.

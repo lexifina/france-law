@@ -30,6 +30,8 @@ Ex 08-01 D : avocats. Tous pays.
 
 Ex 08-02 : agrumes frais. Tous pays.
 
+08-06 : pommes, poires et coings, frais. Tous pays.
+
 08-07 : fruits à noyau, frais. Tous pays.
 
 08-12 C : pruneaux séchés. Tous pays.
@@ -58,15 +60,15 @@ Ex 31-01 : engrais naturels d'origine animale ou végétale même mélangés ent
 
 Ex 31-05 : engrais naturels d'origine végétale, terreaux additionnés d'un seul ou d'un mélange des éléments fertilisants suivants : azote, phosphore ou potassium, compost. Tous pays.
 
-Ex 44-01 : Bois de chauffage en rondins, bûches, ramilles ou fagots, déchets de bois, y compris les sciures des genres : Castanea (châtaignier), Quercus (chêne), Ulmus (Orme), Eucalyptus (eucalyptus) et des conifères. Tous pays.
+Ex 44-01 : bois de chauffage en rondins, bûches, ramilles ou fagots, déchets de bois, y compris les sciures des genres : Castanea (châtaignier), Quercus (chêne), Ulmus (Orme), Eucalyptus (eucalyptus) et des conifères. Tous pays.
 
-44-03 ex B : Bois bruts même écorcés ou simplement dégrossis des genres : Castanea (châtaignier), Quercus (chêne), Ulmus (Orme), Populus (peuplier), Eucalyptus (eucalyptus) et des conifères. Tous pays.
+44-03 ex B : bois bruts même écorcés ou simplement dégrossis des genres : Castanea (châtaignier), Quercus (chêne), Ulmus (Orme), Populus (peuplier), Eucalyptus (eucalyptus) et des conifères. Tous pays.
 
-Ex 44-04 : Bois simplement équarris des genres : Castanea (châtaignier), Quercus (chêne) et des conifères. Canada, Etats-Unis d'Amérique.
+Ex 44-04 : bois simplement équarris des genres : Castanea (châtaignier), Quercus (chêne) et des conifères. Canada, Etats-Unis d'Amérique.
 
 Eucalyptus (eucalyptus). Tous pays.
 
-44-05 ex C : Bois simplement sciés longitudinalement tranchés d'une épaisseur supérieure à 5 mm : des genres :
+44-05 ex C : bois simplement sciés longitudinalement tranchés d'une épaisseur supérieure à 5 mm : des genres :
 
 - Castanea (châtaignier) ; Tous pays.
 
