@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951012473
+
+- Question : [SEQ951012473](seq951012473.md) — Déficit en places dans les structures d'accueil pour les personnes handicapées
+
+## Réponse
+
+*Travail, JO du 1996-03-14, page 605*
+
+Réponse. - En 1995, la création des 2 000 places de centres d'aide par le travail a eu pour objectif prioritaire de permettre l'accueil des jeunes adultes handicapés maintenus dans les établissements de l'éducation spéciale en application de l'article 22 de la loi no 89-09 du 13 janvier 1989. Sur le fondement de ce critère et en application des dispositions du décret no 92-604 du 1er juillet 1992 portant charte de la déconcentration et de celles du décret no 94-1054 du 6 décembre 1994, les services des préfets de région ont procédé à la répartition de leur dotation en tenant compte des situations particulières. C'est ainsi que le préfet de la région Bretagne a procédé à l'affectation d'une dotation de 110 places. La répartition des 2 750 places nouvelles de CAT dont le financement est inscrit en loi de finances pour 1996 aura le même objectif prioritaire et se fera selon cette même procédure déconcentrée. Par ailleurs, il est précisé à l'honorable parlementaire que la résorption du déficit en places dans les structures pour adultes lourdement handicapés est une préoccupation constante du Gouvernement. Celui-ci consacrera cette année 100 MF de crédits d'assurance-maladie à la création de places nouvelles dans les maisons spécialisées et les foyers à double tarification. Elles seront dans leur totalité réservées aux jeunes adultes maintenus dans les établissements d'enfants au titre de " l'amendement Creton ". A ce titre, la région Bretagne bénéficiera d'une enveloppe qui lui permettra d'améliorer de façon sensible la prise en charges des jeunes adultes lourdement handicapés.
