@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991019209
+
+- Question : [SEQ991019209](seq991019209.md) — Reclassement de salariés du SAO et du SAM
+
+## Réponse
+
+*Défense, JO du 1999-12-02, page 3948*
+
+Réponse. - L'antenne de la direction du commissariat de la marine à Rochefort-sur-Mer figure parmi les établissements concernés par les mesures de restructuration prévues en 2002. Toutefois, les antennes rochefortaises du service d'approvisionnement des ordinaires (SAO) et du service d'approvisionnement des marins (SAM) de Lorient ne pourront être maintenues au-delà de l'année 2000. Cette décision est motivée par l'insuffisance du chiffre d'affaires réalisé par ces antennes qui vont perdre une grande partie de leur clientèle en raison de la disparition, en 1999, du centre de formation maritime des appelés du contingent d'Hourtin. Les salariés de ces établissements, recrutés sur contrat de droit privé, peuvent être reclassés dans les cercles, mess et autres services de restauration ou organismes du ministère de la défense employant du personnel de même statut. Toutes les solutions locales sont actuellement recherchées. La concertation mise en place, entre le commandement de la marine de Lorient, l'animateur du dispositif Proxima et l'ensemble des représentants participant à la commission locale de reclassement, a permis d'envisager des possibilités de reclassement dans les meilleures conditions. Toutefois, pour les agents qui ne souhaitent pas bénéficier de ces voies de reclassement, des aides en matière de reconversion professionnelle seront apportées et financées par les SAO et SAM de Lorient. Par ailleurs, s'ils désirent intégrer la fonction publique et devenir ouvriers fonctionnaires, une formation leur sera dispensée afin qu'ils puissent participer au prochain concours d'ouvrier professionnel ou de maître ouvrier organisé en décembre 1999 par le ministère de la défense.
