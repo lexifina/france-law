@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950209696
+
+- Question : [SEQ950209696](seq950209696.md) — Cristallisation des pensions des anciens soldats de l'armée française ressortissants de pays devenus indépendants
+
+## Réponse
+
+*Anciens combattants, JO du 1995-02-23, page 437*
+
+Réponse. - Un groupe de travail interministériel réuni sous la présidence du ministre des anciens combattants et victimes de guerre, à l'initiative du Premier ministre, a réfléchi aux moyens d'améliorer la situation matérielle des anciens combattants dont les pensions sont cristallisées. Ainsi, le Premier ministre soucieux d'améliorer la situation matérielle des anciens combattants d'outre-mer vient de prendre en leur faveur d'importantes décisions. Les pensions des invalides à plus de 100 p. 100 sont revalorisées de 20 p. 100. Ces grands mutilés, placés du fait de leurs invalidités dans l'impossibilité d'exercer une activité manuelle, sont au nombre de 1 600. La retraite du combattant, qui intéresse la totalité des 65 000 titulaires de la carte du combattant est majorée de 30 p. 100. Les pensions d'invalidité inférieures à 100 p. 100 et de retraite sont revalorisées de 4,75 p. 100. Elles sont versées, pour les premières, à 25 000 invalides et à 12 000 veuves, pour les secondes à l'ensemble des retraités civils et militaires. Ces mesures, qui ont été annoncées par M. le Premier ministre au cours de son dernier voyage en Afrique sont, de loin, les plus importantes qui ont été prises depuis l'indépendance de leur pays en faveur des anciens combattants d'outre-mer dont l'héroïsme a été tout particulièrement commémoré à l'occasion des cérémonies du cinquantième anniversaire du débarquement et des combats de Provence. Ainsi, cinquante ans après leur participation décisive aux combats de la Seconde Guerre mondiale, les anciens combattants de l'armée d'Afrique et de l'armée coloniale obtiennent de la Nation un témoignage de reconnaissance tangible.
