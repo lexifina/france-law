@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981011427
+
+- Question : [SEQ981011427](seq981011427.md) — Reconnaissance et indemnisation des maladies à évolution lente des marins
+
+## Réponse
+
+*Équipement, JO du 1999-06-10, page 1965*
+
+Réponse. - Les difficultés rencontrées par les marins pour obtenir réparations des maladies professionnelles dont ils peuvent être atteints, telles que les maladies liées à l'amiante, résultent de la réglementation actuellement applicable au régime de sécurité sociale des gens de mer. En effet, la notion de maladies professionnelles n'existant pas dans cette réglementation, l'indemnisation des maladies à l'amiante ne peut intervenir que dans des conditions particulières qui tiennent notamment à la reconnaissance de l'existence d'un risque professionnel maritime. Ces insuffisances ont conduit à entreprendre une modification de la réglementation, afin de faire bénéficier les marins atteints de maladies professionnelles d'une protection similaire à celle assurée aux salariés relevant du régime général de sécurité sociale. Les travaux nécessaires à la mise en uvre de cette modification ont été conduits en étroite concertation avec les représentants des professionnels concernés, qui siègent au sein du Conseil supérieur de l'Etablissement national des invalides de la marine. Un projet de décret a été soumis à ce conseil, qui a unanimement émis un avis favorable. Ce texte devrait donc prochainement entrer en vigueur. Le ministre de l'équipement, des transports et du logement tient enfin à rassurer l'honorable parlementaire sur l'existence d'un lien de causalité entre le métier de marin et les maladies liées à l'amiante. Il suffit d'avoir exercé une activité professionnelle maritime pour que soit établie la réalité d'une exposition à l'amiante et donc d'un risque professionnel.
