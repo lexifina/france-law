@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030306282
+
+- Question : [SEQ030306282](seq030306282.md) — Hausse du coût du foncier
+
+## Réponse
+
+*Équipement, JO du 2003-06-05, page 1811*
+
+Les collectivités locales disposent de différents outils pour mettre en place une stratégie de maîtrise foncière adaptée à la pression constatée et leur articulation peut contribuer à une action foncière maîtrisée, c'est-à-dire à l'adéquation d'un projet et d'un territoire : notamment le droit de préemption urbain et le droit de préemption urbain renforcé, la procédure de zone d'aménagement concerté, la variation des taux de la taxe foncière sur le bâti et de la taxe foncière sur le non-bâti, la fiscalité de l'urbanisme. Par ailleurs, la loi favorise la création d'un établissement public foncier local, outil intercommunal dont le financement peut être assis sur la taxe spéciale d'équipement, taxe additionnelle aux 4 taxes locales. Le financement d'un tel établissement par l'impôt local est particulièrement adapté au niveau durablement élevé des prix fonciers dans une région comme le Languedoc-Roussillon, en l'affranchissant des aléas liés à l'attribution de subventions au coup par coup. L'Etat accompagne les politiques foncières et toutes les actions foncières anticipatrices des élus par l'attribution de subventions qu'il peut attribuer aux maîtres d'ouvrage dans des conditions privilégiées, notamment pour des acquisitions foncières ou pour la constitution d'un établissement public foncier local. Les moyens prévus actuellement dans le contrat de plan de la région Languedoc-Roussillon sont de plus de 6 millions d'euros pour la durée du CPER 2000-2006 pour aider, notamment, la mise en place de politiques d'acquisitions foncières visant à la réalisation de logements sociaux et favorisant la diversité urbaine.
