@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960616166
+
+- Question : [SEQ960616166](seq960616166.md) — Difficulté de la collecte du lait en zone de montagne
+
+## Réponse
+
+*Agriculture, JO du 1996-08-22, page 2133*
+
+Réponse. - Le comité des interprofessions laitières de montagne a récemment établi un rapport relatif au problème de collecte en zone de montagne. Ce rapport fait état d'un surcoût de la collecte en zone de montagne évalué à 5,8 centimes par litre et sollicite à ce titre un soutien financier auprès de l'Union européenne. Dans le cas particulier de la collecte, il faut malheureusement rappeler que le ministère de l'agriculture a dû renoncer en 1991 au versement d'une aide à la collecte, en raison de l'opposition de la Commission européenne à la mise en place d'aides directement proportionnelles à la quantité produite. Le ministère de l'agriculture a pu trouver début 1993 une solution afin d'assurer la pérennité de cette aide nationale, dans un cadre rénové et en accord avec la Commission européenne. C'est ainsi qu'a été créée l'aide à la " qualité du lait en zone de montagne ". Ce système s'inscrit désormais dans une stratégie de maîtrise qualitative des produits puisque l'aide est attribuée aux producteurs mettant en oeuvre des actions d'amélioration de la qualité de leur production. Pour la mise en place de cette nouvelle mesure des modalités particulières ont pu être arrêtées par l'Onilait dans le cadre d'une convention type, la maîtrise d'oeuvre des actions étant confiée à un organisme régional interprofessionnel. Le versement des aides en question a pris du retard. Alors que les aides pour les années 1992 et 1993 ont été octroyées avec difficulté, les aides pour l'année 1994 sont encore loin d'être versées en totalité et toutes les conventions pour 1995 ne sont pas encore signées. La procédure actuelle étant inadaptée, elle fait l'objet d'un examen attentif par le ministère de l'agriculture.
