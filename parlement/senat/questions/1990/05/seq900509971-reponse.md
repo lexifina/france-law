@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900509971
+
+- Question : [SEQ900509971](seq900509971.md) — Versement de la taxe d'apprentissage
+
+## Réponse
+
+*Éducation, JO du 1992-07-02, page 1512*
+
+Réponse. - En matière de taxe d'apprentissage, les versements aux établissements de formation doivent intervenir avant le 1er mars de l'année suivant celle au titre de laquelle la taxe est due. Cette disposition, antérieure à la réforme de 1971 trouve sa justification dans le fait que les entreprises n'ont connaissance du montant total des salaires réellement versés au cours de l'année précédente qu'au cours des mois de janvier, voire février. La législation en vigueur incite les entreprises à investir dans les premières formations technologiques et professionnelles en versant aux établissements bénéficiaires plutôt qu'au Trésor public. Le système est aujourd'hui bien assimilé par les assujettis puisque plus de 95 p. 100 du montant total de la taxe due correspond soit à des dépenses directes en entreprises liées à l'accueil d'apprentis ou de stagiaires de l'enseignement technique soit, le plus souvent, à des versements aux organismes de formation. Ce système et fondé sur le principe de la liberté d'affectation, ce qui implique que, le 5 avril, tout assujetti doit avoir versé sa taxe au Trésor ou faire la preuve qu'il a effectué des dépenses d'un montant équivalent. Or, la seconde hypothèse suppose qu'un délai d'un mois soit laissé à l'assujetti pour récupérer les reçus libératoires délivrés par des établissements bénéficiaires de ces financements. Le souci de maintenir une certaine souplesse de fonctionnement conduit au maintien de dates distinctes dont il convient de ne pas surestimer les conséquences sur les entreprises puisque celles-ci sont chaque année plus nombreuses à préférer financer directement les premières formations plutôt que de verser le montant de leur impôt au Trésor.
