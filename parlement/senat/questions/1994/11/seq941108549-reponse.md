@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941108549
+
+- Question : [SEQ941108549](seq941108549.md) — Congé de représentation
+
+## Réponse
+
+*Environnement, JO du 1995-04-06, page 827*
+
+Réponse. - La loi no 91-772 du 7 août 1991 relative au congé de représentation en faveur des associations et des mutuelles prévoit que, lorsqu'un salarié membre d'une association est désigné par cette dernière pour la représenter dans une instance créée par voie législative ou réglementaire, l'employeur est tenu de lui accorder le temps nécessaire à cette participation. Si le salarié subit à cette occasion une diminution de rémunération, il reçoit de l'Etat une indemnité forfaitaire destinée à compenser tout ou partie de cette baisse de rémunération (art. L. 225-8 du code du travail). Le décret no 92-1508 du 30 septembre 1992 organise l'application de cette disposition législative : il en fixe les modalités d'application et prévoit (art. R. 225-21 du code du travail) que " la liste des instances mentionnées à l'article L. 225-8 est établie et tenue à jour par arrêté conjoint du ministre dont elles relèvent et du ministre du budget ". Pour ce qui est des instances relevant du ministère de l'environnement, la question est actuellement en cours d'étude. La difficulté réside dans le grand nombre des commissions concernées, et donc dans la nécessaire sélection de celles que le législateur a entendu viser. De plus, de nombreuses commissions ne relèvent pas exclusivement du ministère de l'environnement, mais revêtent un caractère interministériel, ce qui conduit à des discussions entre administrations qui pourraient déboucher prochainement. En outre, une évaluation est en cours, quant au coût financier qui serait engendré pour l'application des dispositions du décret en fonction des commissions concernées. Ce n'est qu'au vu de cette évaluation que l'arrêté ministériel prévu par le décret no 92-1508 du 30 septembre 1992 pourra être pris.
