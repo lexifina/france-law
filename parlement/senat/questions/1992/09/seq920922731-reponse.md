@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920922731
+
+- Question : [SEQ920922731](seq920922731.md) — Suites données à la mission sur le cinéma
+
+## Réponse
+
+*Éducation, JO du 1992-10-29, page 2433*
+
+Réponse. - Le cinéma français traverse une phase de mutations : baisse de la fréquentation, restructuration du parc de salles, concentration des entreprises, poids croissant des diffuseurs télévisuels, montée en puissance des nouveaux supports de diffusion des films, diversification des modes de financement, modification des structures industrielles et de l'emploi. Sous la pression de l'environnement international, notamment de la concurrence des films américains, ces mutations se sont accélérées au cours des cinq dernières années. Afin de mieux cerner la nature et les perspectives ouvertes par ces évolutions, et pour permettre d'adapter en conséquence les modalités de l'intervention de l'Etat dans le secteur du cinéma, une mission de réflexion et de proposition a été confiée le 29 juin 1992 à M. Cluzel (Jean-Paul), inspecteur général des finances. Quatre thèmes, couvrant l'ensemble des problématiques actuelles du secteur du cinéma, seront plus particulièrement étudiés au cours de cette mission : la stratégie de développement de la fréquentation et la mutation du parc de salles ; le pluralisme de la création cinématographique et le statut du producteur ; les relations du cinéma avec les supports de diffusion secondaire du film (télévision, câble, chaînes cryptées, vidéo...), et la question de l'exportation du film français ; l'avenir des industries techniques du cinéma. Pour chacun de ces thèmes, une commission restreinte, composée de professionnels représentatifs, a été constituée et placée sous la présidence de M. Cluzel (Jean-Paul). Les directeurs du centre national de la cinématographie exercent les fonctions de rapporteur des travaux de ces commissions. Le rapport final de M. Cluzel (Jean-Paul) sera remis le 15 novembre prochain.
