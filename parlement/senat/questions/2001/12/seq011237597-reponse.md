@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011237597
+
+- Question : [SEQ011237597](seq011237597.md) — Suppléants pour les conseillers généraux
+
+## Réponse
+
+*Intérieur, JO du 2002-03-07, page 729*
+
+Entre 1991 et 2001, 497 élections cantonales partielles ont été organisées en métropole, soit une moyenne de 45 scrutins par an et 1,1 % du nombre total de cantons métropolitains. Ce phénomène très limité, tant en chiffres bruts qu'en pourcentage, ne justifie pas l'institution d'un suppléant pour chaque conseiller général. Par ailleurs, la démission, notamment en application de la législation sur le cumul des mandats électoraux et des fonctions électives, a constitué le motif de 165 élections partielles sur la période considérée soit seulement un tiers des scrutins. Le nombre élevé des démissions en 2001 (45 sur 54 scrutins) s'explique par l'effet combiné de la loi n° 2000-295 du 5 avril 2000 et des élections cantonales des 11 et 18 mars 2001. Une phase d'adaptation analogue avait été enregistrée en 1989-1990 (respectivement 74 scrutins partiels puis 32) où les dispositions de la précédente loi n° 85-1406 du 30 décembre 1985 tendant à limiter le cumul des mandats électoraux et des fonctions électives s'appliquaient aux conseillers généraux élus lors du renouvellement cantonal des 25 septembre et 2 octobre 1988. En outre, les scrutins cantonaux partiels organisés en 1989 intervenaient pour l'essentiel après les élections municipales des 12 et 19 mars 1989. En 2001, le lien est encore plus souligné compte tenu de la concomitance des élections municipales et cantonales. Il y a donc tout lieu de croire que les conseillers généraux se conformeront de la même manière à la nouvelle législation et que le nombre d'élections cantonales partielles diminuera comme précédemment pour atteindre un niveau plus proche de la moyenne précitée.
