@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910515044
+
+- Question : [SEQ910515044](seq910515044.md) — Mesures en faveur de l'emploi des conjoints des Français de l'étranger
+
+## Réponse
+
+*Affaires étrangères, JO du 1992-03-12, page 606*
+
+Réponse. - Les bourses d'emploi existent depuis 1988 dans les consulats dotés d'un comité consulaire pour l'emploi et la formation professionnelle (C.C.P.E.F.P.). Les C.C.P.E.F.P. ont été créés par l'arrêté du 8 février 1986 dans les circonscriptions consulaires de plus de 5 000 immatriculés pour toutes les questions relatives à l'emploi et à la formation des resssortissants français en vue de faciliter leur insertion sur place. Une cinquantaine de comités ont ainsi été créés, y compris en tant que de besoin dans des circonscriptions de moins de 5 000 immatriculés. Ces comités interviennent directement dans les locaux du consulat ou bien par l'intermédiaire d'associations locales ayant une bourse d'emploi qu'ils financent et appuient (exemple : centre Charles-Péguy, à Londres, A.M.P.E., à Montréal). Les résultats obtenus par ces comités entre le 1er juillet 1990 et le 30 juin 1991 sont les suivants : offres d'emploi reçues : 2 504 ; demandes d'emploi reçues : 8 669; placements connus : 1 017 dont 46 post-formation. Enfin, s'agissant de l'emploi des conjoints, les conventions fiscales (qui partagent le droit d'imposer entre les Etats contractants) et sociales (qui coordonnent les régimes de sécurité sociale) ne constituent pas le cadre approprié pour aborder cette question, celle-ci relevant des dispositions des conventions d'établissement ou du droit commun en matière de séjour et d'emploi du pays de résidence. Les deux époux rencontrent dans la recherche d'un emploi les mêmes obstacles dressés par la réglementation locale et la protection du marché national du travail.
