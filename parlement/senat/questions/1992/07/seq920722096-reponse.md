@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920722096
+
+- Question : [SEQ920722096](seq920722096.md) — Conservation des chemins et sentiers
+
+## Réponse
+
+*Environnement, JO du 1992-10-29, page 2435*
+
+Réponse. - Le ministre de l'environnement s'associe pleinement à cette préoccupation qui est en accord avec une de ses priorités : la protection et la reconquête des paysages. Nos sentiers font en effet partie de notre patrimoine, ils sont une mémoire de la civilisation rurale. Les chemins, les haies sont en outre nécessaires à l'équilibre écologique local. C'est enfin une source de développement touristique, puisqu'ils permettent de découvrir chaque " pays ", chaque vallée, chaque rivage, au rythme de la randonnée. Un des moyens pour sauver ces chemins consiste à mettre en place dans chaque département un plan départemental des itinéraires de promenade et de randonnée. Ces plans de par la loi n° 83-663 du 22 juillet 1983 sont de la compétence des départements et mettent à la disposition des randonneurs (à pied ou à cheval essentiellement) un réseau de chemins qui ne peuvent plus être aliénés ; on constate cependant que peu de départements ont à ce jour adopté de tels plans. Le ministère de l'environnement a un rôle d'incitation et de sensibilisation des élus des départements et des communes pour qu'ils réalisent l'inventaire des chemins, puis qu'ils mettent en place et entretiennent des itinéraires. Il s'associe au ministère de l'agriculture et à celui du tourisme pour promouvoir la randonnée, facteur de développement touristique des petites régions rurales. Les représentants de la Fédération nationale de la randonnée pédestre ont été reçus récemment au cabinet du ministre de l'environnement et ont convenu avec lui d'une série d'actions communes, comme la rénovation des modes de balisages dans le sens d'une découverte des paysages ou des actions d'urgence de restauration de la continuité des sentiers dans des régions où elle est particulièrement menacée.
