@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701443
+
+- Question : [SEQ970701443](seq970701443.md) — Sûreté nucléaire
+
+## Réponse
+
+*Industrie, JO du 1997-10-30, page 3003*
+
+Réponse. - Le nombre des incidents sur les réacteurs nucléaires français d'EDF pour l'année 1996 se monte selon la direction de la sûreté des installations nucléaires à 488, soit une augmentation de 29 % par rapport à l'année 1995 en partie due à la mise en service de deux nouveaux réacteurs de 1450 MWe sur la site de Chooz dans les Ardennes et à plusieurs anomalies à caractère générique (c'est-à-dire affectant plusieurs réacteurs). Le chiffre de 437 incidents significatifs avancé par EDF repose sur un mode de comptabilisation différent des incidents génériques. La composition de ces 488 incidents significatifs a été détaillée par la direction de la sûreté des installations nucléaires dans son rapport d'activité pour l'année 1996 rendu public et présenté à la presse le 27 février 1996. Ces 488 incidents sont classés sur l'échelle internationale des événements nucléaires INES qui comporte 8 niveaux : le niveau 0 correspond à des " écarts ne présentant aucune importance du point de vue de la sureté ", le niveau 1 à des " anomalies avec sortie du régime de fonctionnement autorisé ", le niveau 2 à des " incidents assortis de défaillances importantes des dispositions de sûreté ", etc. Le niveau 7, le plus grave, est celui de l'accident de Tchernobyl, tandis que l'accident de Three Mile Island relèverait sur cette échelle du niveau 5. Les 488 incidents connus par le parc d'EDF en 1996 se sont répartis en : deux indicents de niveau 2 contre zéro l'année précédente, l'un relatif à des problèmes sur les grappes de commande et l'autre à des anomalies dans les serrages des tirants des butées des puits de cuve ; 79 incidents classés au niveau 1 contre 78 l'année précédente ; 407 incidents classés au niveau 0.
