@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990516339
+
+- Question : [SEQ990516339](seq990516339.md) — Rôle de la normalisation internationale dans la libre circulation des produits
+
+## Réponse
+
+*Industrie, JO du 1999-07-22, page 2502*
+
+Réponse. - L'organisation mondiale du commerce (OMC) est chargée d'administrer les accords commerciaux multinationaux de l'Uruguay Round, et notamment les nouveaux codes sur les obstacles techniques au commerce. Sa politique est d'encourager l'adoption et l'emploi de normes internationales chaque fois que possible. L'objectif actuel des discussions en cours est de clarifier ce que sont les normes internationales. L'Union européenne défend l'idée que les organismes internationaux de normalisation sont les instances chargées de l'élaboration des normes internationales. Au-delà, l'Union européenne souhaite que ces normes soient reprises dans les collections régionales et nationales. C'est déjà largement le cas en Europe à travers des accords de partenariat entre organismes européens et internationaux de normalisation. Aujourd'hui, l'Institut international de normalisation (ISO) est reconnu dans son rôle de soutien technique spécial en liaison avec les nouveaux programmes élargis de l'OMC. Il est certain que l'ISO compte développer et renforcer le partenariat avec l'OMC. Cet organisme international s'est, par ailleurs, engagé à apporter un soutien à la mise en application de l'accord sur les obstacles techniques au commerce. C'est aussi dans ce sens que l'ISO cherche à élargir des relations du même type avec la conférence des Nations unies sur le commerce et le développement (CNUCED) ou l'Organisation des Nations unies pour le développement industriel (ONUDI), par exemple. Toujours très présente au sein de l'ISO, l'Association française de normalisation (AFNOR) poursuit sa mission d'ordre général de défense des positions et des intérêts français dans les instances dans lesquelles elle représente la France.
