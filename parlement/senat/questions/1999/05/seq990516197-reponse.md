@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990516197
+
+- Question : [SEQ990516197](seq990516197.md) — Agriculteurs : utilisation de produits toxiques subordonnée à une formation
+
+## Réponse
+
+*Agriculture, JO du 1999-09-02, page 2921*
+
+Réponse. - Les produits antiparasitaires, depuis la loi du 2 novembre 1943, sont soumis à une autorisation délivrée par les services du ministère de l'agriculture et de la pêche avant leur mise en marché. Cette autorisation implique un avis préalable favorable de la commission d'étude de la toxicité des produits antiparasitaires à usage agricole et une proposition du comité d'homologation de ces mêmes produits. Certains arrêtés ministériels subordonnent déjà l'utilisation des produits présentant des risques particuliers à des conditions adaptées (agrément des entreprises, certification des utilisateurs, modalités d'emploi). Ces dispositions s'appliquent par exemple aux fumigants ou au bromadiolone qui est un anticoagulant employé dans la lutte contre les rongeurs. Dans ce dernier cas, seules les fédérations de défense contre les ennemis des cultures sont habilitées à la préparation des appâts à base de bromadiolone. La loi du 17 juin 1992 fait obligation à certains distributeurs et aux applicateurs professionnels de produits antiparasitaires d'obtenir un agrément délivré par le ministère de l'agriculture et de la pêche. Cet agrément est conditionné par l'existence au sein des entreprises considérées de personnels certifiés. La certification est reconnue sur la base de la formation initiale des personnels concernés, de la reconnaissance des acquis professionnels ou du suivi d'une formation spécifique. Ainsi donc, la proposition 197 du rapport " Agriculture, monde rural et environnement : qualité oblige " est déjà largement mise en uvre en France. La législation et la réglementation, actuellement en place, pourront bien entendu donner lieu à des adaptations prenant en compte les évolutions techniques et scientifiques à venir.
