@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040612604
+
+- Question : [SEQ040612604](seq040612604.md) — Projet de simplification des dispositions régissant les associations syndicales de propriétaires
+
+## Réponse
+
+*Agriculture, JO du 2005-02-03, page 285*
+
+En application de l'article 12 de la loi du 2 juillet 2003 habilitant le Gouvernement à simplifier le droit, le ministère de l'intérieur, de la sécurité intérieure et des libertés locales a élaboré un projet d'ordonnance relative aux associations syndicales de propriétaires (loi du 21 juin 1865). Ce texte a donné lieu à une concertation interministérielle au cours de laquelle mes services ont émis des observations afin de faire valoir les implications du projet pour les associations acteurs du monde rural. En outre, en accord avec le cabinet du Premier ministre, mon département a organisé une concertation avec les chambres d'agriculture et d'autres partenaires ruraux. L'ordonnance a été présentée au Conseil des ministres le 30 juin 2004. Elle modernise le régime juridique applicable aux associations syndicales de propriétaires en réorganisant des dispositions jusqu'alors dispersées et en garantissant le meilleur équilibre possible entre l'exercice du droit de propriété et les responsabilités collectives auxquelles celle-ci peut, le cas échéant, conduire. Elle clarifie les modalités de création et de fonctionnement des associations syndicales ainsi que le rôle, les règles de fonctionnement et les moyens d'action de leurs organes. Elle renforce la qualité de l'information des différents intervenants dans le fonctionnement des associations syndicales. Elle crée, en outre, des règles simplifiées pour faciliter les évolutions statutaires des associations syndicales. Les modalités d'application de cette ordonnance, notamment en ce qui concerne les règles budgétaires et comptables et le régime du contrôle aux actes des associations syndicales, seront précisées par décret en Conseil d'Etat.
