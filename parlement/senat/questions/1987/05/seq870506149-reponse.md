@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870506149
+
+- Question : [SEQ870506149](seq870506149.md) — Professions juridiques ou judiciaires: publicité
+
+## Réponse
+
+*Justice, JO du 1987-08-06, page 1237*
+
+Réponse. -En l'état de la réglementation, la publicité personnelle est interdite aux membres des professions judiciaires et juridiques. Notamment l'article 75 de la loi n° 71-1130 du 31 décembre 1971 prohibe tout démarchage en vue de donner des consultations ou de rédiger des actes en matière juridique, tandis que l'article 2 du décret du 25 août 1972 interdit la publicité en vue de donner des consultations, de rédiger des actes ou de proposer son assistance en matière juridique réalisée par voie de tracts, lettres, affiches, films cinématographiques, émissions radiophoniques ou télévisées ; cette interdiction est assortie de sanctions pénales en application de l'article 5 de ce même décret. Toutefois, ces dispositions n'ont pas pour effet de prohiber pour ces professions le recours à une publicité fonctionnelle à l'instar par exemple de celle que vient de réaliser le notariat, ou de celle effectuée par les commissaires-priseurs à l'occasion de certaines ventes aux enchères publiques. Une telle publicité, en améliorant l'image de marque de la profession, favorise chaque professionnel dans le contexte concurrentiel qui est le sien. Par ailleurs, la possibilité de permettre une publicité personnelle fait l'objet de réflexions au sein des diverses organisations professionnelles. C'est ainsi que plusieurs organisations d'avocats mènent une expérience tendant à permettre à ces professionnels la mention de spécialisation déjà permise pour les conseils juridiques. La chancellerie, qui est favorable à toute initiative de nature à améliorer l'information du public et à promouvoir la compétence du professionnel, sera très attentive aux propositions qui lui seront faites en cette matière.
