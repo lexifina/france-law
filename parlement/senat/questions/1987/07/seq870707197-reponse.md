@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870707197
+
+- Question : [SEQ870707197](seq870707197.md) — Suppression des cabines téléphoniques en milieu rural
+
+## Réponse
+
+*Postes et télécommunications, JO du 1987-09-17, page 1479*
+
+Réponse. -L'évolution dans les prochaines années du parc de téléphones publics ne peut s'analyser uniquement en termes de suppressions. En effet il faut savoir que, globalement, le nombre de points publics d'accès au téléphone doit augmenter de 45 000 unités d'ici à 1989. Cette croissance résultera d'un développement du point-phone, implanté dans des lieux protégés accessibles au public ; quant aux cabines installées sur la voie publique, leur parc devrait diminuer d'environ 10 000, soit de quelque 8 p. 100 seulement du parc existant, sur la même période et sur l'ensemble du territoire national, étant entendu que dans le même temps ce parc sera modernisé pour lui permettre de mieux résister au vandalisme (augmentation du nombre des publiphones à carte à mémoire et des publiphones à pièces renforcés dits " TE 80 "). Ces suppressions ne toucheront que des cabines pour lesquelles la recette est manifestement beaucoup trop faible par rapport à l'amortissement et aux charges d'exploitation, mais en tout état de cause, ce redéploiement respecte le maintien d'au moins une cabine par commune, étant entendu que, lorsque les municipalités le souhaitent, il leur est possible d'en faire installer davantage sous le régime de la location-entretien. En outre, les télécommunications disposeront, dans le courant de 1988, d'un matériel nouveau appelé " uniphone ", d'une conception beaucoup plus simple que les postes actuels et permettant d'appeler soit les numéros d'appel d'urgence (et ce gratuitement), soit tout autre numéro sous la seule réserve d'être titulaire d'une carte Télécom. Ce nouveau matériel est particulièrement destiné aux zones rurales.
