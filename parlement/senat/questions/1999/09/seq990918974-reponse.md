@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990918974
+
+- Question : [SEQ990918974](seq990918974.md) — Développement des jumelages entre les villes françaises et éthiopiennes
+
+## Réponse
+
+*Coopération, JO du 1999-11-04, page 3628*
+
+Réponse. - L'interrogation de l'honorable parlementaire porte sur le souci de voir les relations entre les villes françaises et éthiopiennes développées. Cette préoccupation bien légitime et que je partage totalement ne peut néanmoins avoir écho que dans le cadre d'une volonté partagée des villes françaises et partenaires. Le dispositif de coopération décentralisé est positif en ce qu'il permet aux liens créés de se renforcer. A titre d'exemple, actuellement, une coopération de ce type existe entre la ville éthiopienne de Debre Berhan et celle de Blanc-Mesnil. D'autre part, à la suite de la visite de M. Chabert en Ethiopie, le maire d'Addis Abeba, M. Ali Abdo s'est rendu en visite à Lyon. Une mission de l'agence d'urbanisme de la Courly (Communauté urbaine de Lyon) est actuellement à Addis Abeba pour une évaluation des éventuelles coopérations possibles dans le domaine de l'urbanisme. Enfin, dans le cadre des manifestations autour de l'inauguration de la " Maison Rimbaud " à Harar, le maire de Charleville a fait part de sa disponibilité à se rendre en Ethiopie afin de représenter la ville de naissance du poète. Cela pourrait constituer les prémices d'un échange plus profond entre les deux villes. Le souci affiché par le Gouvernement, dans le cadre de sa politique en faveur de la coopération décentralisée, est la recherche de la cohérence et de la coordination sur un même territoire de solidarité. En conséquence, une initiative des collectivités françaises intervenant déjà en Ethiopie ou souhaitant le faire constituerait une image positive de cette préoccupation. Mes services restent à votre disposition pour vous y aider.
