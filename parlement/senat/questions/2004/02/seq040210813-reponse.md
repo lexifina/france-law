@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040210813
+
+- Question : [SEQ040210813](seq040210813.md) — Dépistage du cancer colorectal
+
+## Réponse
+
+*Santé, JO du 2004-03-25, page 739*
+
+Deux appels successifs à candidature, en décembre 2001 puis en octobre 2002, ont permis de sélectionner vingt-deux départements pilotes pour proposer le dépistage du cancer colo-rectal selon un cahier des charges élaboré par le groupe technique national sur le dépistage de ce cancer, tenant compte des recommandations nationales et européennes. Pour accompagner ce dispositif, des outils d'information du public cible de ces départements ainsi qu'un outil de formation des médecins généralistes sur ce thème ont été produits. Différents problèmes ont retardé la mise en place de ce dépistage, notamment la possibilité de rémunérer les médecins généralistes pour leur participation au dépistage, ainsi que les modalités de transport par La Poste des tests Hémocult, pour être en conformité avec la directive européenne sur les transports de produits biologiques ; ces problèmes sont maintenant résolus. La campagne a commencé dans onze départements, et elle commencera dans les onze autres avant la fin du premier trimestre 2004. Ces délais de mise en oeuvre sont essentiellement liés à la nécessité de former les médecins généralistes. Le suivi de la mise en oeuvre du dépistage est réalisé par le groupe technique national piloté par la direction générale de la santé, qui réunit périodiquement les coordinateurs des programmes. Il permet de s'assurer de la bonne application du cahier des charges, et d'apporter un appui local si nécessaire. L'évaluation de ces actions pilotes de dépistage est prévue après un temps suffisant de fonctionnement, et débutera à la fin de l'année 2004, permettant de vérifier si les critères nécessaires à l'efficacité du programme sont bien réunis. Cette évaluation, préalable à la définition d'une stratégie nationale, sera réalisée par la direction générale de la santé.
