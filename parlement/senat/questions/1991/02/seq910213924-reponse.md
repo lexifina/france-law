@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910213924
+
+- Question : [SEQ910213924](seq910213924.md) — Intensification des relations politiques et culturelles avec les peuples arabes
+
+## Réponse
+
+*Affaires étrangères, JO du 1991-04-18, page 804*
+
+Réponse. - Concourir au développement des Etats d'Afrique du Nord et du Moyen-Orient et au renforcement des solidarités de part et d'autre de la Méditerranée constitue un objectif permanent poursuivi par la France. Comme le sait l'honorable parlementaire, c'est à l'initiative du Président de la République qu'a été relancé, en décembre 1989, le dialogue euro-arabe. S'agissant du renforcement des relations entre les Etats riverains de la Méditerranée, c'est également à l'initiative du chef de l'Etat que s'est mis en place un processus de coopération en Méditerranée occidentale, associant la France, l'Espagne, le Portugal et l'Italie aux cinq membres de l'union du Maghreb arabe ; une première réunion des ministres des affaires étrangères des neuf pays concernés s'est tenue en octobre 1990 à Rome. Le Gouvernement s'est également prononcé en faveur de l'établissement, au niveau de la région tout entière allant du Golfe à l'océan Atlantique, d'un cadre général de stabilité et de coopération inspiré de ce que les Etats européens ont réalisé avec la C.S.C.E. Il s'agit d'une démarche progressive qui suppose le règlement des crises actuelles dans la région afin de permettre la mise en place d'un système de relations destinées à garantir la sécurité et la prospérité entre des pays unis par une communauté d'intérête et de destin. La France a, par ailleurs, eu un rôle déterminant dans la définition d'une politique méditerranéenne rénovée entre la Communauté économique européenne et les pays riverains de la Méditerranée. Elle encourage aussi la négociation en cours entre la C.E.E. et le conseil de coopération du Golfe pour l'établissement entre eux d'une zone de libre échange.
