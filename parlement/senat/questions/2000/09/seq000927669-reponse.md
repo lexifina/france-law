@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000927669
+
+- Question : [SEQ000927669](seq000927669.md) — Non-prise en compte des services de stagiaire dans le calcul des droits à pension
+
+## Réponse
+
+*Fonction publique, JO du 2000-11-16, page 3931*
+
+Réponse. - En application de l'article L. 5 (7e) du code des pensions civiles et militaires de retraite, seuls " les services de stage ou de surnumérariat accomplis à partir de l'âge de 18 ans peuvent être pris en compte dans la constitution du droit à pension ". L'article 1er de l'ordonnance nº 82-297 du 31 mars 1982 permet la prise en compte, sans condition d'âge, des services d'auxiliaire, de temporaire, d'aide ou de contractuel si la validation des services de cette nature a été autorisée par un arrêté ministériel. La loi nº 96-1093 du 16 décembre 1996 créant le congé de fin d'activité prévoit notamment en son article 13 qui traite des conditions d'accès au dispositif que " la condition d'âge n'est pas opposable au fonctionnaire justifiant de 40 années de services effectifs au sens de l'article L. 5 du code des pensions civiles et militaires de retraite ". De l'application combinée de ces dispositions, il résulte que les services de stagiaire effectués avant 18 ans n'étant pas validables au titre du code des pensions ne peuvent être considérés comme des services effectifs et ne sont pas totalisés à ce titre dans les conditions d'accès au congé de fin d'activité. En revanche, les services de non-titulaire validés peuvent être pris en compte. Ces conditions d'accès se réfèrent étroitement au code des pensions. Leur révision supposerait donc une modification préalable de ces dispositions légales. Une telle réforme n'est pas envisagée, en raison de ses conséquences qui dépasseraient le cadre strict du congé de fin d'activité et de sa lourdeur qui ne serait pas en rapport avec le caractère provisoire de ce dispositif qui n'est actuellement reconduit que jusqu'au 31 décembre 2000.
