@@ -1,0 +1,8 @@
+# 38421 : délibération 3 — Taxes et produits irrécouvrables budget ville
+
+- Collectivité : 38421
+- SIREN : 213804214
+- Code INSEE : 38421
+- Date : 1986-05-29
+- Objet : Taxes et produits irrécouvrables budget ville
+- Jeu de données : https://www.data.gouv.fr/datasets/6580dde7fd644f35bc554dd0
