@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911017723
+
+- Question : [SEQ911017723](seq911017723.md) — Détention de Sarahouis au Maroc
+
+## Réponse
+
+*Affaires étrangères, JO du 1992-04-09, page 855*
+
+Réponse. -Comme le sait l'honorable parlementaire, la France a toujours pris une part active à l'élaboration et à l'adoption des différentes résolutions du Conseil de sécurité des Nations Unies concernant le Sahara occidental, comme elle n'a cessé de veiller à leur application. La mise en oeuvre du plan de paix du secrétaire général des Nations Unies sur la question du Sahara occidental, (résolutions 658 et 690 du Conseil de sécurité), qui a débuté le 17 mai dernier, fait l'objet d'une vigilante attention de la part de la France. Ce plan inclut un règlement du problème des prisonniers politiques sahraouis détenus au Maroc. Son article 70 précise que le représentant spécial du secrétaire général pour la question du Sahara " fera des démarches auprès des deux parties pour faire en sorte que tous les prisonniers ou détenus politiques sahraouis soient libérés avant le début de la campagne référendaire. " Il dispose également que le représentant spécial " bénéficiera dans cette tâche du concours d'un juriste indépendant désigné par le secrétaire général ". La France, qui a déployé tous ses efforts pour que les parties respectent l'échéance fixée pour l'entrée en vigueur du cessez-le-feu, le 6 septembre, a dépêché un contingent de trente observateurs, entre le 6 et le 18 septembre, conformément à ses engagements. Notre pays veillera également au bon déroulement des opérations prévues dans le plan de règlement et qui, outre le déploiement complet de la Minurso, concernent le retrait d'une partie des troupes marocaines, le cantonnement de celles autorisées à rester ainsi que l'échange des prisonniers de guerre et le rapatriement des Sahraouis de l'extérieur.
