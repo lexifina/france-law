@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020902524
+
+- Question : [SEQ020902524](seq020902524.md) — Rapide dépendance des enfants à la nicotine
+
+## Réponse
+
+*Santé, JO du 2003-01-30, page 376*
+
+Selon le baromètre santé 2000 de l'Institut national de prévention et d'éducation pour la santé, 29,9 % des jeunes Français fument régulièrement. La dépendance induite par le tabagisme se situerait à trois niveaux : comportemental, physique et psychique. D'après les conclusions du rapport Roques de 1999, la dépendance physique liée au tabac est considérée comme " forte " et la dépendance psychique " très forte ". Si la nicotine joue un rôle fondamental dans la dépendance physique, il ne faut pas négliger la pression de l'environnement, en particulier chez les jeunes qui sont particulièrement sensibles aux relations avec leur groupe de pairs. D'autre part, l'initiation précoce au tabagisme est un facteur péjoratif de pronostic, car la dépendance au produit peut s'installer rapidement. Ces éléments confortent la détermination des pouvoirs publics à intensifier leurs efforts sur plusieurs niveaux : en réduisant l'offre par une politique dissuasive sur les prix, en informant le public, et particulièrement les jeunes, en facilitant l'accès au sevrage. L'information auprès des jeunes porte sur les dangers du tabac mais aussi sur la manipulation dont ils sont l'objet. De nombreuses actions sont mises en place en milieu scolaire, comme les " clubs pataclop " et le concours " classe non fumeur ". Plusieurs émissions radiophoniques, réalisées en partenariat avec des stations très écoutées par les jeunes, ont été enregistrées en 2001, et un site Internet " jesuismanipule.com " a été ouvert par l'Institut national de prévention. Ce site a reçu plus de 308 000 visites ces trois derniers mois, et rencontre un vrai succès auprès des jeunes, qui trouvent ainsi des éléments de sensibilisation et d'information sur les dangers liés à la consommation.
