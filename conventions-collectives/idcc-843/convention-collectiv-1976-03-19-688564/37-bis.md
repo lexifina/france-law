@@ -13,3 +13,9 @@
 Les cotisations sont payées trimestriellement par les employeurs au titre du régime de retraite.
 
 6° Il est nettement déclaré, par les parties signataires, que la création et le fonctionnement de ce fonds de péréquation ne diminue en rien les obligations imposées à l'employeur par la loi sur la mensualisation et l'avenant n° 7 à la convention collective. Vis-à-vis du salarié, l'employeur demeure l'unique responsable du respect de ces obligations.
+
+Afin de faciliter l'application des dispositions de l'accord du 6 septembre 1995 relatif au développement de l'emploi en contrepartie de la cessation d'activité de salariés totalisant 160 trimestres et plus d'assurances aux régimes de base d'assurance vieillesse, il est convenu que l'indemnité de départ en retraite due dans ce cas par l'employeur sera remboursée à l'employeur par le fonds de péréquation de la profession.
+
+Les dispositions de l'alinéa précédent (1) restent en vigueur jusqu'à l'expiration de l'accord du 6 septembre 1995 soit en principe jusqu'au 31 décembre 1996.
+
+NOTA : (1) Termes exclus de l'extension par arrêté du 2 mai 1996.
