@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508192
+
+- Question : [SEQ980508192](seq980508192.md) — Reconnaissance du rôle de la famille
+
+## Réponse
+
+*Justice, JO du 1998-08-20, page 2728*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que les rapports déposés au cours de ces derniers mois dans le domaine de la famille (rapports Gillot, Thélot et Villac sur les aides financières à la famille ; rapport André sur la vie quotidienne des familles ; rapport Thery sur le droit face aux mutations de la famille et de la vie privée ; rapport Hauser sur les conséquences de la séparation des couples) montrent la nécessité d'une adaptation du droit de la famille à l'évolution de la société. D'une façon générale, elle entend renforcer le rôle de la famille, laquelle joue - comme l'a constaté la conférence sur la famille tenue par le Premier ministre le 12 juin 1998 - un rôle irremplaçable dans la formation des jeunes générations. Dans le domaine juridique, une réflexion va être engagée à la chancellerie englobant tous les secteurs du droit de la famille : mariage, régimes matrimoniaux, situation des couples vivant ensemble sans être mariés, divorce et ses conséquences tant pécuniaires qu'extra-patrimoniales, autorité parentale, filiations légitime et naturelle, adoption, successions. C'est en effet par une étude globale de l'ensemble de ces domaines que pourra être déterminée une politique rénovée et cohérente de la famille. A cette fin, un groupe de travail sera prochainement constitué à la chancellerie qui, après avoir procédé à des consultations auprès des praticiens, des organismes institutionnels et des personnalités qualifiées, proposera avant la fin du deuxième trimestre 1999 les réformes législatives qui pourraient apparaître nécessaires.
