@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901011881
+
+- Question : [SEQ901011881](seq901011881.md) — Sécurité dans les prisons
+
+## Réponse
+
+*Justice, JO du 1991-01-17, page 116*
+
+Réponse. - Un programme de mesures sur la sécurité dans les établissements a été arrêté pour renforcer la sécurité dans les établissements. S'agissant des moyens matériels destinés à renforcer la sécurité des établissements pénitentiaires, un plan de quatre ans est en cours d'élaboration sur la base des propositions faites par les directions régionales des services pénitentiaires et les préfets. Ce programme comporte quatre types d'opérations regroupées selon quatre axes prioritaires : les structures inertes (réfection des murs et clôtures, obstacles mécaniques, serrures blindages et vitrages pare-balles) ; les structures sensibles (détection, surveillance audiovisuelle) ; les moyens de communication (émetteurs-récepteurs, interphones, contrôleurs de ronde) ; les moyens d'intervention et de défense (armement et matériel de maintien de l'ordre). Le financement de ce programme est prévu sur quatre exercices pour un montant global de 200 MF par tranche annuelle de 50 MF dont 35 MF d'investissement (chapitre 57.20) et 15 MF au fonctionnement (chapitre 37.98). Une première mesure de 50 MF a donc été inscrite au projet de budget 1991. Par ailleurs, il apparaît nécessaire de prendre en compte la fonction sûreté dans la gestion des ressources humaines. Cette fonction sera assurée au plan central par une cellule " sûreté des établissements " intégrée au bureau des équipements de la direction de l'administration pénitentiaire et comportant un directeur d'établissement pénitentiaire, un ingénieur spécialisé et une secrétaire. Cette cellule centrale est relayée à l'échelon régional par un délégué régional à la sécurité dont le poste est confié à un surveillant-chef. Par ailleurs, il est précisé que le projet de création de directions régionales supplémentaires est à l'étude.
