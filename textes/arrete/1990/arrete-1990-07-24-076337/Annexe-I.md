@@ -1,25 +1,65 @@
-# Article Annexe
+# Article Annexe I
 
-Attestation complémentaire pour les aliments composés et prémélanges en provenance d'un état membre ou d'un pays tiers destinés à des animaux des espèces dont la chair ou les produits sont destinés à la consommation humaine, à l'exception des poissons :
+Attestation complémentaire pour aliments composés et prémélanges en provenance d'un état membre destinés à des animaux des espèces dont la chair ou les produits sont destinés à la consommation humaine.
 
-Le produit ci-dessus désigné ne contient pas et n'a pas été préparé à partir :
+1. Aliments composés ou prémélanges destinés à des ruminants :
 
-- de farines de viande, des farines d'os, des farines de viande osseuse ainsi que toute autre protéine d'origine animale, à l'exception des protéines issues du lait, des produits laitiers et des ovoproduits, ainsi que de la gélatine issue de couenne de porc ;
+"Le produit ci-dessus désigné ne contient pas et n'a pas été préparé à partir :
 
-- de graisses issues de la transformation des os destinés à la production de gélatine et des graisses obtenues à partir des farines de viande, des farines d'os et des farines de viande osseuse, des farines de volailles, des farines de plumes et des farines de poissons.
+- de graisses issues de la transformation des os destinés à la production de gélatine :
 
-Dans le cas d'aliments composés et prémélanges destinés à des animaux autres que ruminants, le premier alinéa est remplacé par l'alinéa suivant :
+- de graisses obtenues à partir de farines de viande, de farines d'os, de farines de viande osseuse, de farines de volailles, de farines de plumes ou de farines de poisson ;
 
-- de farines de viande, des farines d'os, des farines de viande osseuse ainsi que toute autre protéine d'origine animale, à l'exception des farines de poisson, des protéines issues du lait, des produits laitiers et des ovoproduits, ainsi que de la gélatine issue de couenne de porc.
+- de graisses non visées aux points précédents contenant ou préparées à partir de tissus osseux de ruminants ;
 
-Attestation complémentaire pour les aliments composés et prémelanges en provenance d'un état membre ou d'un pays tiers destinés à des poissons :
+- des autres graisses de ruminants à l'exception des seuls tissus adipeux de bovins collectés à l'abattoir avant la fente de la colonne vertébrale".
 
-Le produit ci-dessus désigné ne contient pas et n'a pas été préparé à partir :
+2. Aliments composés ou prémélanges destinés à des animaux autres que ruminants :
 
-- de farines de viande, des farines d'os, des farines de viande osseuse ainsi que toute autre protéine d'origine animale, à l'exception des protéines issues du lait, des produits laitiers, des ovoproduits, des poissons, des crustacés et des coquillages, ainsi que de la gélatine issue de couenne de porc ;
+"Le produit ci-dessus désigné ne contient pas et n'a pas été préparé à partir :
 
-- de graisses issues de la transformation des os destinés à la production de gélatine et des graisses obtenues à partir des farines de viande, des farines d'os et des farines de viande osseuse, des farines de volailles et des farines de plumes.
+- de graisses issues de la transformation des os destinés à la production de gélatine ;
 
-Attestation complémentaire pour les aliments composés et prémélanges destinés à des animaux de compagnie en provenance d'un état membre ou d'un pays tiers :
+- de graisses obtenues à partir de farines de viande, de farines d'os, de farines de viande osseuse, de farines de volailles, de farines de plumes ;
 
-Les produits protéiques d'origine animale incorporés dans le produit ci-dessus désigné sont exclusivement des protéines issues du lait, des produits laitiers ou des ovoproduits, des cretons, et des produits issus, sans transformation intermédiaire, d'un établissement agréé pour la mise sur le marché de produits animaux destinés à la consommation humaine. Les graisses d'origine animale incorporées dans le produit ci-dessus désigné sont exclusivement issues d'un établissement agréé pour la mise sur le marché de produits animaux destinés à la consommation humaine.
+- de graisses non visées aux points précédents contenant ou préparées à partir de tissus osseux de ruminants ;
+
+- des autres graisses de ruminants à l'exception des seuls tissus adipeux de bovins collectés à l'abattoir avant la fente de la colonne vertébrale ;
+
+- de protéines hydrolysées autres que de poissons ou de plumes".
+
+Attestation complémentaire pour les aliments composés et prémélanges en provenance d'un pays tiers destinés à des animaux des espèces dont la chair ou les produits sont destinés à la consommation humaine.
+
+1. Aliments composés ou prémélanges destinés à des ruminants :
+
+"Le produit ci-dessus désigné ne contient pas et n'a pas été préparé à partir :
+
+- de farines de viandes, de farines d'os, de farines de viande osseuse ainsi que toute autre protéine d'origine animale, à l'exception des protéines issues du lait, des produits laitiers, des ovoproduits, ainsi que de la gélatine de non ruminants pour l'enrobage des additifs ;
+
+- de graisses obtenues à partir de farine de viande, de farines d'os, de farines de viande osseuse, de farines de volailles, de farines de plumes ou de farines de poissons ;
+
+- de graisses issues de la transformation des os destinés à la production de gélatine ;
+
+- de graisses non visées aux points précédents contenant ou préparées à partir de tissus osseux de ruminants ;
+
+- des autres graisses de ruminants à l'exception des seuls tissus adipeux de bovins collectés à l'abattoir avant la fente de la colonne vertébrale ;
+
+- de protéines hydrolysées issues de produits animaux ;
+
+- de phosphate bi-calcique dérivé d'os".
+
+2. Aliments composés destinés à des animaux autres que ruminants :
+
+"Le produit ci-dessus désigné ne contient pas et n'a pas été préparé à partir :
+
+- de farines de viande, de farines d'os, de farines de viande osseuse ainsi que toute autre protéine d'origine animale, à l'exception des farines de poissons, des protéines issues du lait, des produits laitiers, des ovoproduits, ainsi que de la gélatine de non ruminants pour l'enrobage des additifs ;
+
+- de graisses obtenues à partir de farines de viande, de farines d'os, de farines de viande osseuse, de farines de volailles ou de farines de plumes ;
+
+- de graisses issues de la transformation des os destinés à la production de gélatine ;
+
+- de graisses non visées aux points précédents contenant ou préparées à partir de tissus osseux de ruminants ;
+
+- des autres graisses de ruminants à l'exception des seuls tissus adipeux de bovins collectés à l'abattoir avant la fente de la colonne vertébrale ;
+
+- de protéines hydrolysées autres que de poissons ou de plumes".
