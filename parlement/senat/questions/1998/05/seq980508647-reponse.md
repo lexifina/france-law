@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508647
+
+- Question : [SEQ980508647](seq980508647.md) — Tourisme en France : évolution de la demande étrangère en l'an 2000
+
+## Réponse
+
+*Tourisme, JO du 1998-10-08, page 3202*
+
+Réponse. - Le rapport de prospective établi par le Commissariat général du Plan et de la direction du tourisme sur la demande touristique en 2010, " Réinventer les vacances, la nouvelle galaxie du tourisme " envisage, dans un chapitre analysant les déterminants de la demande, la palette des effets de la mise en place de l'euro. L'attention de l'honorable parlementaire est appelée sur les différences existant entre la teneur de l'article du Monde du 13 mai 1998 et celle du rapport lui-même. Les acceptions sur " l'Europe supermarché des vacances " et sur les conséquences affectant les entreprises touristiques françaises figurent dans le rapport sous une forme interrogative. Il est bien, en effet, dans la logique d'un rapport de prospective de laisser ouvert le champ des futurs possibles mais de laisser ensuite aux acteurs publics et privés le soin de tenter de les infléchir dans le sens qui leur apparaît le meilleur pour l'économie du secteur. Ainsi en est-il de l'image touristique de la France que nous saurons présenter au sein de la zone européenne au regard d'un visiteur lointain. Ainsi en est-il également face à la transparence des prix, de la notoriété que nous saurons donner à nos produits et de notre savoir-faire pour mettre en avant l'ensemble de nos avantages comparatifs. Il est clair que les leçons de la réussite des différentes actions qui ont été menées à l'occasion de la Coupe du monde ainsi que des différentes formes de partenariat entre le public et le privé que la France a su développer ces dernières années nous donnent quelques garanties quant à la manière dont la France saura se positionner dans une Europe à monnaie commune mais à produits riches et diversifiés.
