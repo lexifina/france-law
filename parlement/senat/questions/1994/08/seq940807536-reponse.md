@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940807536
+
+- Question : [SEQ940807536](seq940807536.md) — Soutien de la France à la République slovaque
+
+## Réponse
+
+*Affaires européennes, JO du 1994-10-20, page 2511*
+
+Réponse. - Comme le sait l'honorable parlementaire, la visite du Premier ministre slovaque en France était la première visite officielle à l'étranger du chef du gouvernement slovaque depuis son entrée en fonction en mars dernier. Elle répondait à l'invitation du Premier ministre français et à notre souci de maintenir un dialogue régulier avec les autorités slovaques dans la perspective du rapprochement de leur pays avec l'Union européenne. Cette visite a permis de confirmer aux autorités slovaques notre volonté d'approfondir et de densifier nos relations bilatérales. Depuis lors, le Président slovaque, M. Kovac, a été invité aux cérémonies du cinquantième anniversaire du débarquement et MM. Thierry de Beaucé, représentant du Président de la République, et Mestre, ministre des anciens combattants, ont participé aux cérémonies du cinquantième anniversaire du soulèvement slovaque en août dernier. Dans le domaine économique, plusieurs entreprises françaises ont des projets déjà très avancés en Slovaquie. Elles bénéficient dans leur approche du soutien des autorités française qui souhaitent améliorer notre position de cinquième investisseur étranger dans ce pays. Notre action en matière culturelle, scientifique et technique est très largement appréciée par nos partenaires slovaques. Pour ce qui est de la coopération en matière économique par exemple, une bourse de partenariat industriel a été mise en place sur financement et la promotion des PME-PMI. Cette coopération vise à recréer dans ce pays des élites francophones et une familiarité entre nos cultures d'entreprises, nos cultures scientifiques et industrielles.
