@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990415519
+
+- Question : [SEQ990415519](seq990415519.md) — Direction des lycées et collèges : diffusion du système de répartition qualitative des dotations en moyens d'enseignement entre les académies
+
+## Réponse
+
+*Éducation, JO du 1999-05-27, page 1770*
+
+Réponse. - Comme il en est ainsi depuis de nombreuses années, la direction de l'enseignement scolaire diffuse largement aux académies et aux organisations représentatives un document retraçant la démarche de répartition des moyens d'enseignement entre les académies. Le contenu de ce document procédant de la méthode d'allocation des moyens mise en uvre par l'administration centrale, ce n'est que récemment qu'il fait figurer également la démarche qualitative adoptée en liaison avec l'approche quantitative jusque-là privilégiée. Cette année encore, il présente les prévisions démographiques des académies, les enveloppes nationales de moyens budgétaires votés par la représentation nationale à partir desquelles démarre l'exercice d'allocation des dotations académiques, la philosophie générale de la méthode de répartition retenue (globalisation, équité de la répartition...), et les critères de cette distribution de moyens, les modes de calculs qui la fondent par type de moyens (enseignement, remplacement, éducation, encadrement...). Dans la détermination des enveloppes académiques, un accent particulier est porté à l'approche qualitative tenant à l'intégration en particulier du poids des écoles et collèges implantés en zone rurale, des disparités sociales et d'environnement observées parmi la population scolaire accueillie. La prise en compte de ces spécificités marque la préoccupation du ministère de l'éducation nationale de favoriser l'approche qualitative dans la mise en uvre de la politique éducative dans les établissements.
