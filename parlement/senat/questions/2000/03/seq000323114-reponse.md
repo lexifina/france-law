@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000323114
+
+- Question : [SEQ000323114](seq000323114.md) — Mareyage boulonnais et redevances pour l'inspection sanitaire des produits de la pêche
+
+## Réponse
+
+*Agriculture, JO du 2000-05-04, page 1581*
+
+Réponse. - L'instauration des redevances sanitaires des produits de la pêche et de l'aquaculture prévues par la directive 96/43/CE du 26 juin 1996 a donné lieu par le ministère de l'agriculture et de la pêche à l'information et à la consultation des représentants des professionnels concernés. Dans ce cadre, les demandes des opérateurs ont systématiquement été prises en compte dès lors qu'elles s'inscrivaient dans les possibilités offertes par la directive et par la loi de finances rectificative du 30 décembre 1998 qui introduit à cette fin au code général des impôts l'article 302 bis WA créant la redevance sanitaire dite de premier achat et l'article 302 bis WB instituant la redevance sanitaire de la transformation. Les professionnels de la filière ont émis la requête de voir la redevance sanitaire de transformation des produits de la pêche assise sur les tonnages sortant des établissements. Cette demande ne peut être satisfaite. En effet, la directive précitée prévoit explicitement le calcul de cette taxe sur les tonnages entrant. Par ailleurs, ces professionnels demandent l'application de toutes les minorations permises par la directive. C'est le principe qui a été retenu dans le cadre de l'arrêté pris pour la fixation des montants de ces taxes. Celles-ci ont été établies après application du coefficient maximum de minoration autorisé aux a) et b) du point 4 de la section I du chapitre III de l'annexe de la directive. La mise en place pratique de ce dispositif de redevances sanitaires donne lieu, par ailleurs, à la poursuite des consultations avec les professionnels concernés.
