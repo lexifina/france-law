@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010734238
+
+- Question : [SEQ010734238](seq010734238.md) — Dépistage du cancer colorectal
+
+## Réponse
+
+*Santé, JO du 2001-09-27, page 3139*
+
+L'ANAES a émis en janvier 1998 des recommandations sur le dépistage du cancer colorectal, proches des recommandations du comité consultatif de l'Union européenne de 2001. Un groupe technique a été constitué qui a établi, selon les recommandations de l'ANAES, des cahiers des charges pour sa mise en oeuvre. Les textes réglementaires seront publiés prochainement. Le dépistage du cancer colorectal sera proposé dans dix départements dès la fin de l'année 2001. Un appel à candidature sera lancé à l'automne par le FNPEIS (Fonds national de prévention, d'éducation et d'information en santé), qui assurera le financement de ces programmes dans l'attente de leur généralisation d'ici à 2003. Ce programme garantira un égal accès de tous au dépistage et fera bénéficier chacun des mêmes garanties de qualité. Tous les deux ans, les hommes et les femmes de cinquante à soixante-quatorze ans ne relevant pas d'autres stratégies de prise en charge seront invités à effectuer un test de détection de sang occulte dans les selles. Ces tests seront remis par les médecins traitants, dont la participation est un élément essentiel pour l'efficacité de la campagne de dépistage. La lecture des tests sera réalisée par du personnel formé, selon un cahier des charges précis comprenant un contrôle de qualité. La gestion de la campagne de dépistage sera effectuée par une structure opérationnelle unique pour tous les dépistages des cancers, à l'échelle d'un ou plusieurs départements. Celle-ci s'assurera de la réalisation des tests et de leurs résultats, de la qualité du dispositif et du suivi des personnes dépistées positives avec le concours des gastro-entérologues.
