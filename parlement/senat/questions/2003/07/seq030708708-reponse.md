@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030708708
+
+- Question : [SEQ030708708](seq030708708.md) — Utilisation des fonds d'Etat
+
+## Réponse
+
+*Premier ministre, JO du 2004-02-12, page 351*
+
+La loi de finances pour 2002 du 28 décembre 2001 a profondément réformé le dispositif antérieur des fonds spéciaux sur deux points essentiels. En premier lieu, les fonds spéciaux figurant au chapitre 37-91 du budget des services généraux du Premier ministre concernent désormais les seules actions liées à la sécurité. En second lieu, l'article 154 de cette loi a institué une " commission de vérification " chargée de s'assurer chaque année que les crédits du chapitre 37-91 du budget des services généraux du Premier ministre sont utilisés conformément à la destination qui leur a été assignée par la loi de finances. Cette commission est composée de quatre parlementaires et de deux membres issus de la Cour des comptes ; elle établit un rapport sur les conditions d'emploi des crédits. Ce rapport est remis au Président de la République, au Premier ministre et aux présidents et rapporteurs généraux des commissions de l'Assemblée nationale et du Sénat chargées des finances. Par ailleurs, le Gouvernement a fait le choix en 2002 de soumettre l'association SOS Racisme à un contrôle administratif et budgétaire rigoureux, mis en oeuvre conjointement par l'inspection générale des affaires sociales et par le ministère de l'économie, des finances et de l'industrie, ce dernier ayant, par arrêté, désigné un contrôleur financier à compter du 1er janvier 2003. Ces choix témoignent du fait que le Gouvernement partage les conclusions de la Cour des comptes quant à la nécessité de réformer les modalités de fonctionnement et de gestion de cette association, dans la mesure où l'essentiel de ses ressources provient de subventions publiques.
