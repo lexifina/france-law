@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911018124
+
+- Question : [SEQ911018124](seq911018124.md) — Rapport Prada relatif aux délais de paiement
+
+## Réponse
+
+*Économie, JO du 1991-12-26, page 2920*
+
+Réponse. - S'appuyant sur les conclusions du rapport Prada et sur les travaux du groupe administratif créé par le Gouvernement pour examiner les initiatives à prendre par les pouvoirs publics, le plan P.M.E.-P.M.I. présenté par le Premier ministre le 16 septembre dernier retient, parmi les mesures présentées, un objectif de réduction des délais de paiement. Pour aboutir à la réduction des délais, deux voies ont été retenues. D'une part, les organisations professionnelles ont été incitées à engager des négociations afin d'aboutir à la signature de codes de bonne conduite couvrant chaque branche professionnelle et comprenant la définition de délais reconnus raisonnables ainsi que la mise en place d'un système d'escompte en cas de paiement anticipé. De son côté, le Gouvernement prendra des initiatives pour accompagner la démarche des professionnels et stimuler son aboutissement. Pour cela, il veillera à une application rigoureuse des textes existants, qui obligent lesentreprises à prévoir, dans leurs conditions générales de vente, leurs délais de règlement usuels ainsi que les agios ou escomptes prévus en cas de paiement tardif ou accéléré. Le Gouvernement proposera également au Parlement de rendre obligatoires ces informations sur les factures. Ces mesures amélioreront la transparence et devraient rendre beaucoup plus difficile l'usage de délais de paiement excessifs ou discriminatoires. Les conditions de paiement de l'Etat, des collectivités locales et des établissements sous tutelle seront améliorées. De plus, le Premier ministre a décidé la création d'un " observatoire des délais de paiement " qui permettra aux partenaires et aux pouvoirs publics de suivre l'évolution réelle des délais de paiement.
