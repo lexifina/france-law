@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971205111
+
+- Question : [SEQ971205111](seq971205111.md) — Dispositif des aides à la scolarité
+
+## Réponse
+
+*Emploi, JO du 1999-09-30, page 3230*
+
+Réponse. - Le rapport annuel de la Cour des comptes au Parlement sur la sécurité sociale paru en septembre 1997 a procédé, en ce qui concerne les dépenses de la branche famille, à un examen particulier de l'aide à la scolarité. Cette prestation créée en 1994 s'est substituée aux bourses des collèges. Le rapport en a souligné les aspects positifs (allégement des procédures incombant aux familles, progression du montant de l'aide) mais a également rappelé que cette mesure avait pu avoir une influence négative quant au constat de désaffection des cantines scolaires notamment dans les zones d'éducation prioritaire. En outre, certaines familles percevaient l'aide à la scolarité pendant quatre ans et d'autres pendant cinq ans, en raison uniquement de la date anniversaire de l'enfant (l'enfant devait atteindre son onzième anniversaire avant le 1er février de l'année suivant celle de la rentrée scolaire et l'enfant qui atteignait son seizième anniversaire après le 15 septembre de l'année de référence n'ouvrait plus droit au bénéfice de l'aide). Enfin, le bénéfice de l'aide à la scolarité n'était pas uniquement soumis à des conditions de ressources mais aussi au bénéfice d'une prestation familiale, de l'aide personnalisée au logement, de l'allocation aux adultes handicapés ou du revenu minimum d'insertion : dès lors, un certain nombre de familles d'un enfant ne pouvait bénéficier de l'aide à la scolarité. Pour ces motifs, les articles 144 et 145 de la loi nº 98-657 du 29 juillet 1998 d'orientation relative à la lutte contre les exclusions ont remplacé l'aide à la scolarité par une bourse nationale de collège accordée, sous condition de ressources et à l'exclusion de toute autre condition, à toutes les familles de collégiens, quel que soit l'âge de ces derniers.
