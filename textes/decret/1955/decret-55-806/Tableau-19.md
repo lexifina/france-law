@@ -1,49 +1,65 @@
 # Article Tableau 19
 
-CARACTERISATION DE LA MALADIE
+DESIGNATION DES MALADIES
 
-Anémie progressive grave du type hypoplastique ou aplasique ... 3 ans
+Affections acquises isolées ou associées de type hypoplasique, aplasique ou dysplasique :
 
-Leucoses
+- anémie ;
 
-DELAI de prise en charge : 10 ans
+- leuconeutropénie ;
 
-Etats Leucémoïdes :
+- thrombopénie.
 
 DELAI de prise en charge : 3 ans
 
-Leucopénie avec neutropérie :
+DESIGNATION DES MALADIES
 
-DELAI de prise en charge : 1 an
+Hypercytoses d'origine myélodysplasique.
 
-Anémie progressive légère du type hypoplatique ou aplastique DELAI de prise en charge : 1 an
+DELAI de prise en charge : 3 ans
 
-Syndrome hémorragique
+DESIGNATION DES MALADIES
 
-DELAI de prise en charge : 1 an
+Syndrome myéloprolifératif.
 
-Syndrome hémorragique
+DELAI de prise en charge : 15 ans
 
-DELAI de prise en charge : 1 an
+DESIGNATION DES MALADIES
 
-Purpura
+Leucémies (sous réserve d'une durée d'exposition de 1 an).
 
-DELAI de prise en charge : 1 an
+DELAI de prise en charge : 15 ans
 
-Troubles gastro-intestinaux accompagnés de vomissements à répétition
+LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies:
 
-DELAI de prise en charge : 3 mois
+Opérations de séchage de tous les produits, articles, préparations, substances où le benzène (ou les produits en renfermant) est intervenu au cours des opérations ci-dessus énumérées.
 
-Accidents aigus (coma, convulsions), en dehors des cas considérés comme accidents du travail
+Emplois du benzène ou des produits en renfermant comme agent d'extraction, d'élution, d'imprégnation, d'agglomération ou de nettoyage, de décapage, de dissolution ou de dilution.
 
-DELAI de prise en charge : 3 jours.
+Préparation et emploi des vernis, peintures, émaux, mastics, colles, encres, produits d'entretien renfermant du benzène.
 
-LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer la maladie
+Tableaux des maladies professionnelles.
 
-Travaux comportant l'emploi, la manipulation du benzène, de ses homologues, de ses homologues, de ses sels composés, des carbures benzéniques, des benzols et tout produit en renfermant, notamment :
+19 bis. Affections gastro-intestinales et neurologiques
 
-- décapage ou dégraissage de pièces métalliques et de tous autres objets souillés de matière grasse ;
+provoquées par le benzène, le toluène, les xylènes et tous les produits en renfermant
 
-- travaux d'imprimerie par le procédé offset ;
+DESIGNATION DES MALADIES
 
-- préparation et application de vernis, peintures, émaux, mastics, produits d'entretien renfermant du benzène.
+Troubles gastro-intestinaux apyrétiques accompagnés de vomissements à répétition.
+
+DELAI de prise en charge : 7 jours
+
+LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies
+
+Emploi du benzène, du toluène, des xylènes et de tous les produits en renfermant comme agents d'extraction, d'élution, d'imprégnation, d'agglomération ou de nettoyage, de décapage, de dissolution ou de dilution.
+
+Opérations de séchage de tous les produits, articles, préparations, substances où le benzène, le toluène, les xylènes ou les produits en renfermant sont intervenus au cours des opérations ci-dessus énumérées.
+
+Préparation et emploi des vernis, peintures, émaux, mastics, colles, encres, produits d'entretien contenant du benzène, du toluène, des xylènes ou des produits en renfermant.
+
+DESIGNATION DES MALADIES
+
+Troubles neurologiques :
+
+(Cf. tableau 48 a).
