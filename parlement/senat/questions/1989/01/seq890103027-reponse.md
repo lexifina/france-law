@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890103027
+
+- Question : [SEQ890103027](seq890103027.md) — Modernisation des équipements de l'industrie
+
+## Réponse
+
+*Industrie, JO du 1989-04-20, page 635*
+
+Réponse. - La procédure MECA comportait jusqu'en 1988 deux volets : l'un appelé " première référence " correspondait à la partie de la procédure destinée à aider les utilisateurs à acquérir un matériel nouvellement produit par un constructeur de façon à compenser le risque technologique qui en résulte. L'aide a en outre un effet direct sur l'offre française d'équipement puisqu'elle permet au constructeur de valider un nouvel équipement et de disposer d'une référence commerciale ; l'autre dit " catalogue ", avait pour objet d'aider l'investissement des P.M.I. pour tout investissement mécanique. En 1988, les 120 M.F. ont été consacrés à la procédure MECA dont 35 M.F. pour le premier volet et 85 M.F. pour le second : dans ce cas, le taux de refus des dossiers a été anormalement élevé pour une procédure qui devrait être automatique. Pour 1989, il est prévu de limiter la procédure MECA à l'aspect " première référence " et de la développer dans ce cadre à hauteurde 50 M.F., ce qui permettra d'accroître significativement le taux de l'aide. La garantie de reprise du matériel et le suivi du matériel par l'Adepa qui y sont attachés semblent une bonne solution pour aider les industriels de la machine-outil à développer de nouveaux modèles. Le relais du deuxième volet de la procédure MECA sera pris par les plans productiques et les opérations pilotes productiques des contrats de plan Etat-régions, dont les interventions sont maintenues à un niveau élevé. Au-delà des efforts généraux faits par le Gouvernement pour améliorer la situation financière des entreprises et leur permettre ainsi d'investir pour préparer l'avenir, le système retenu pour 1989 paraît ainsi répondre de façon satisfaisante aux besoins des P.M.I.
