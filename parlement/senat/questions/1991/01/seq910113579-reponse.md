@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910113579
+
+- Question : [SEQ910113579](seq910113579.md) — Prestations en espèces de l'assurance maladie
+
+## Réponse
+
+*Affaires sociales, JO du 1991-05-02, page 924*
+
+Réponse. - Aux termes des articles L. 323-1 et R. 323-1 du code de la sécurité sociale, l'indemnité journalière versée par l'assurance maladie en cas d'incapacité physique de travail, peut être servie pendant une période d'une durée maximale de trois ans. Les malades reconnus atteints d'affections de longue durée donnant lieu à l'application de la procédure de l'article L. 324-1, bénéficient de conditions d'attribution privilégiées : la période de trois ans est calculée de date à date pour chaque affection ; il n'est pas fait application de la règle limitant à 360 le nombre maximal d'indemnités journalières susceptibles d'être servies dans le délai de trois ans ; l'assuré conserve le bénéfice du montant initial de l'indemnité journalière, éventuellement majorée pour enfants à charge et le cas échéant revalorisée, tel qu'il a été déterminé lors du premier arrêt de travail dû à l'affection en cause, en cas de nouvelle interruption de travail motivée par la même affection quelle que soit la durée de la reprise intermédiaire ; à l'expiration du délai d'attribution des indemnités journalières ou, en tout état de cause, dès lors que l'état du malade apparaît stabilisé et que celui-ci est reconnu atteint d'une réduction des deux tiers de sa capacité de travail ou de gain, une pension d'invalidité peut lui être allouée dans les conditions prévues aux articles R. 341-4 à 6 du code de la sécurité sociale. Il n'est pas envisagé, dans l'immédiat, de modifier ce dispositif réglementaire propre à garantir au profit des assurés atteints d'affections de longue durée le versement d'un revenu de remplacement.
