@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000625662
+
+- Question : [SEQ000625662](seq000625662.md) — Avenir du site Vivienne-Colbert
+
+## Réponse
+
+*Culture, JO du 2000-08-24, page 2908*
+
+Réponse. - La libération des espaces du quadrilatère Richelieu et du site Vivienne-Colbert permettra l'installation de l'Institut national d'histoire de l'art tout en favorisant le redéploiement des départements spécialisés de la Bibliothèque nationale de France. A l'issue d'un accord entre le ministère de la culture et de la communication et le ministère de l'éducation nationale, les espaces de l'ensemble du site ont été répartis en tenant compte des besoins des deux établissements qui les occuperont. Les départements spécialisés de la Bibliothèque nationale de France bénéficieront, dans le quadrilatère Richelieu, d'une superficie équivalant à environ 29 000 mètres carrés. Les magasins seront étendus et modernisés, permettant ainsi d'améliorer la conservation des grands formats qui seront désormais posés à plat. Le public bénéficiera également de ce redéploiement puisque certaines salles de lecture, comme celles des départements des estampes et des manuscrits (orientaux), s'agrandiront. Enfin, le département des arts et spectacles, jusqu'ici hébergé par la bibliothèque de l'Arsenal, rejoindra les autres départements spécialisés. L'Institut national d'histoire de l'art occupera le reste du quadrilatère Richelieu - soit 16 000 mètres carrés - et recevra les locaux du site Vivienne-Colbert, précédemment affectés aux services de la Bibliothèque nationale de France désormais installés sur le site François-Mitterrand (Tolbiac). Dans le quadrilatère s'installeront la bibliothèque et le centre de documentation de l'INHA, ainsi que l'Ecole nationale des chartes. Le site Vivienne-Colbert accueillera les autres activités rassemblées autour de l'INHA, notamment les enseignements en histoire de l'art de plusieurs universités parisiennes ainsi que l'Ecole nationale du patrimoine.
