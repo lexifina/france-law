@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000726674
+
+- Question : [SEQ000726674](seq000726674.md) — Vols fumeurs
+
+## Réponse
+
+*Équipement, JO du 2000-10-26, page 3698*
+
+Réponse. - De nombreux pays, parmi lesquels les Etats-Unis et le Canada, ont adopté des législations prohibant totalement l'usage du tabac à bord des aéronefs commerciaux effectuant des vols internationaux de passagers. Toutefois, les données statistiques par l'association du transport aérien international (IATA) révèlent, ainsi que le souligne l'honorable parlementaire, que la privation de tabac, particulièrement sur les vols long-courriers, serait au nombre des facteurs favorisant les incidents liés, à bord des avions, aux comportements indisciplinés de passagers, dont la progression a été sensible au cours de ces dernières années. C'est la raison pour laquelle la France, qui dispose depuis 1992 d'une réglementation prohibant l'usage du tabac sur tous les vols intérieurs français d'une durée inférieure à deux heures, s'est jusqu'à présent montrée réservée sur le principe d'une interdiction générale de fumer à bord des aéronefs assurant des vols internationaux de passagers, qu'a préconisé l'Organisation de l'aviation civile internationale (OACI) par une résolution de septembre 1992. Les pouvoirs publics français restent donc attentifs aux résultats des études menées en la matière dans le cadre de l'OACI, en liaison avec l'Organisation mondiale de la santé (OMS), afin de mesurer l'impact d'une interdiction totale de fumer sur la sécurité des vols. Dans cette attente, les pouvoirs publics français estiment préférable de laisser aux transporteurs aériens le soin de proposer à leur clientèle, dans le cadre de leur politique commerciale, le choix entre vols fumeurs ou vols entièrement non fumeurs sur les destinations long-courriers qu'ils exploitent.
