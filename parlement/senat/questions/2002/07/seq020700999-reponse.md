@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700999
+
+- Question : [SEQ020700999](seq020700999.md) — Contrôle des médias et protection de l'enfant
+
+## Réponse
+
+*Culture, JO du 2002-10-03, page 2231*
+
+L'honorable parlementaire appelle l'attention du ministre de la culture et de la communication sur les suites données à la publication du rapport du collectif interassociatif enfance et médias (CIEM) : " L'environnement médiatique des jeunes de zéro à dix-huit ans : que transmettons-nous à nos enfants ? ", dont la version intermédiaire a été présentée à la ministre en charge de la famille et de l'enfance le 12 mars 2002. Ce rapport, offrant une vision très étendue de la dialectique entre médias et jeunes, affirme que l'omniprésence médiatique exige une prise de conscience collective mettant en jeu l'ensemble des acteurs sociaux et en tout premier lieu les familles. Sur la base du rapport, le Conseil supérieur de l'audiovisuel a par exemple modifié la signalétique qu'il avait mise en place de façon à la rendre plus explicite. C'est donc au prix d'une responsabilité partagée entre les diffuseurs, l'instance de régulation, les parents et adultes ayant autorité sur les enfants que peut se concevoir une véritable politique de prévention de la violence à la télévision. Il faut rappeler à cet égard que la loi du 30 septembre 1986 repose sur le principe de la liberté de communication audiovisuelle. Toute limitation des programmes violents ou pornographiques sur les chaînes prend alors sa source dans une exigence de protection des personnes et en particulier du jeune public. Il convient donc de trouver les solutions permettant de concilier et d'équilibrer ces deux impératifs de manière satisfaisante. Dans cet objectif, le Gouvernement expertise actuellement les propositions contenues dans le rapport du CIEM et compte sur les conclusions de la mission spécifique confiée à Mme Blandine Kriegel sur la violence à la télévision qui seront rendues avant la fin de l'année.
