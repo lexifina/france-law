@@ -22,6 +22,4 @@ Pour la poursuite de ses objectifs, la fédération est chargée :
 
 10° De détenir à titre onéreux ou gratuit, éventuellement dans le cadre des articles L. 232-1 et L. 235-5 du code rural, des droits de pêche qu'elle exploite dans l'intérêt des membres des associations adhérentes. Elle est alors assujettie aux mêmes obligations de protection et de gestion que ces associations pour les droits ainsi exploités ;
 
-11° De contracter une assurance collective de responsabilité civile pour les dégâts commis par les membres des associations adhérentes aux propriétés riveraines de leurs lots de pêche. Elle peut éventuellement souscrire tout autre contrat d'assurance en couverture complémentaire dans l'intérêt des pêcheurs (cf. art. 35).
-
 En outre, la fédération peut être chargée de toute mission d'intérêt général en rapport avec ses activités.
