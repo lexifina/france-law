@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970902657
+
+- Question : [SEQ970902657](seq970902657.md) — Création d'un Haut Conseil de l'école
+
+## Réponse
+
+*Éducation, JO du 1998-09-10, page 2903*
+
+Réponse. - Le ministre de l'éducation nationale, de la recherche et de la technologie n'entend pas donner suite à la proposition faite au printemps 1996 de " créer un Haut Conseil de l'école indépendant du ministère de l'éducation nationale ". En revanche, des initiatives ont été prises pour répondre aux attentes de la société française vis-à-vis de son école. Ainsi la réflexion sur les lycées, organisée dans le cadre du colloque " Quels savoirs enseigner pour les lycées ? " a-t-elle permis une très large consultation : celle-ci a mis en évidence de nombreuses pistes visant à faire évoluer le fonctionnement des établissements ; ils devraient mieux répondre aux exigences de la société actuelle et mieux préparer les élèves d'aujourd'hui à être acteurs de la société de demain. Par ses communications au Sénat et à l'Assemblée nationale et en saisissant les confédérations syndicales et patronales, le ministre a souhaité également élargir le débat en le sortant de son cadre confiné. Enfin, pour aider le ministre de l'éducation nationale dans ses missions, le Conseil national des programmes a été créé par décret, en date du 23 février 1990. Son article 2 indique que " le Conseil national des programmes donne des avis et adresse des propositions au ministre sur la conception générale des enseignements, les grands objectifs à atteindre, l'adéquation des programmes et des champs disciplinaires à ces objectifs et leur adaptation au développement des connaissances ". Le Conseil national des programmes participe donc à la réflexion générale sur les formations dispensées dans les établissements scolaires et joue un rôle primordial de conseil auprès du ministre.
