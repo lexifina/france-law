@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870104123
+
+- Question : [SEQ870104123](seq870104123.md) — CNRACL: pension de réversion du conjoint survivant d'un agent de sexe féminin
+
+## Réponse
+
+*Collectivités locales, JO du 1987-02-12, page 207*
+
+Réponse. -Les dispositions de l'article 12 de la loi de finances pour 1973 publiée au Journal officiel du 23 décembre 1973, instituant la réversion de la pension des femmes fonctionnaires au profit de leur époux ont été étendues aux fonctionnaires affiliés à la caisse nationale de retraites des agents des collectivités locales par l'article 4 du décret n° 74-344 du 7 octobre 1974 modifiant le décret n° 65-773 du 9 septembre 1965. Pour ne pas pénaliser les fonctionnaires territoriaux, l'article 5 du décret précité disposait, à titre exceptionnel, que la mesure prendrait effet à la date d'application de l'article 12 de la loi de finances de 1973, soit le 24 décembre 1973. Il est de jurisprudence constante que les dispositions modifiant les régimes des pensions ne sont jamais rétroactives. En effet, une application rétroactive remettrait en cause des droits à pension acquis. Ainsi dans le cas des fonctionnaires bénéficiant d'un droit à pension de réversion du chef de leur épouse, la réglementation a été à nouveau modifiée par le décret n° 77-797 du 29 juin 1977 qui reconnaît désormais un droit à pension, sous certaines conditions, au mari divorcé ou séparé de corps. Si le principe de rétroactivité était admis, les droits à pension du dernier conjoint survivant, acquis en application du décret du 7 octobre 1974, pourraient être remis en cause par un ex-époux divorcé non remarié au titre de la réglementation de 1977. Il ne serait pas admissible que les droits à pension concédés soient modifiés à chaque changement de législation. Telles sont les raisons qui s'opposent à une application rétroactive des dispositions du décret du 7 octobre 1974.
