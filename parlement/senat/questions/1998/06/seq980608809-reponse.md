@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980608809
+
+- Question : [SEQ980608809](seq980608809.md) — Conditions de recrutement des personnels de surveillance des baignades
+
+## Réponse
+
+*Intérieur, JO du 1998-07-09, page 2255*
+
+Réponse. - Les lois nº 96-370 et 96-369 du 3 mai 1996, relatives au développement du volontariat dans le corps de sapeurs-pompiers et à l'organisation des services d'incendie et de secours, ont de même que leurs décrets d'application, modifié les dispositions applicables aux sapeurs-pompiers volontaires recrutés pour la surveillance des baignades et des activités nautiques, imposant de fait une modification de l'arrêté du 14 mai 1991. Les modifications induites par l'arrêté du 6 avril 1998 ne concernent en aucune manière les diplômes d'Etat : BNSSA, diplôme de maître nageur sauveteur et brevet d'Etat d'éducateur sportif des activités de la nation, nécessaires à l'activité de surveillance. Elles portent uniquement sur les conditions visant à renforcer le statut de sapeur-pompier volontaire donné aux personnels recrutés pour cette activité. Par ailleurs, il est rappelé à l'honorable parlementaire que les maires ont le choix pour le recrutement des sauveteurs saisonniers entre plusieurs types de statuts : mise à disposition d'agents de la fonction publique d'Etat ; agents non titulaires de la fonction publique territoriale ou agents titulaires de la fonction publique territoriale. Enfin, une large concertation avec les associations d'élus (association des maires de France et association nationale des maires des stations classées et des communes touristiques), ainsi qu'avec les organisations représentatives de sapeurs-pompiers (Fédération nationale des sapeurs-pompiers de France et association nationale des directeurs départementaux des services d'incendie et de secours) a permis d'intégrer les propositions des différentes organisations pour l'élaboration de l'arrêté du 6 avril 1998.
