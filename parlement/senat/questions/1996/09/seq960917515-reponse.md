@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960917515
+
+- Question : [SEQ960917515](seq960917515.md) — Gratuité de la carte orange pour les RMistes et réduction pour les scolaires
+
+## Réponse
+
+*Équipement, JO du 1996-11-28, page 3157*
+
+Réponse. - L'octroi de facilités de circulation aux personnes en situation de précarité ainsi qu'aux jeunes fréquentant les écoles, les collèges, les lycées et les universités n'est possible que si les transporteurs sont remboursés des pertes de recettes résultant pour eux des tarifications sociales correspondantes. Les études réalisées par le Syndicat des transports parisiens (STP), autorité organisatrice des transports en Ile-de-France, font apparaître que généraliser la gratuité des transports aux seuls chômeurs et bénéficiaires de revenu minimum d'insertion (RMI) en Ile-de-France, soit environ 800 000 personnes, coûterait près de 1,5 milliard de francs pour une carte Orange permettant de se déplacer à l'intérieur d'un bassin d'emploi, soit trois zones. Pour les élèves et les étudiants, l'hypothèse du demi-tarif a été examinée ; une telle mesure coûterait chaque année 1,6 milliard de francs. Les sommes en jeu rendent difficile la mise en place de tarifications à caractère général. Dans ce contexte, le STP privilégie deux approches. D'une part, en vue de favoriser une convergence des réflexions et des initiatives, il rassemble des informations sur les différentes catégories sociales en situation de fragilité et sur les dispositifs déjà mis en place par les différentes collectivités locales qui disposent des compétences d'action sociale et des fonds destinés à l'insertion. D'autre part, dans le cadre de l'appel à projets " Transports publics et intégration urbaine " lancé à l'initiative de l'Etat, il prévoit de favoriser la mise en oeuvre, en liaison avec ces collectivités, de certaines expériences tarifaires sur une durée limitée dont un bilan sera établi.
