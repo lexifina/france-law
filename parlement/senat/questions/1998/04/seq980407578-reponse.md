@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980407578
+
+- Question : [SEQ980407578](seq980407578.md) — Bilan pour 1997 de l'apprentissage de la conduite anticipée
+
+## Réponse
+
+*Équipement, JO du 1999-04-01, page 1072*
+
+Réponse. - En 1997, le nombre de candidats au permis de conduire inscrits dans le cadre de la filière de l'apprentissage anticipé de la conduite (AAC) dans le département du Rhône s'est élevé à 6 103 (j 13,9 % par rapport à 1996). Par ailleurs, le taux de réussite au permis de conduire des candidats du Rhône ayant suivi ce mode d'apprentissage a été de 64,5 % en première présentation et de 63,6 % toutes présentations confondues contre respectivement 38,1 % et 41,9 % pour les candidats ayant suivi la formation traditionnelle. Au niveau national, près de 20 % des candidats ont obtenu leur permis de la catérorie " B " par la voie de l'AAC, avec un taux de réussite en première demande de 74,5 % (contre 50,23 % pour les autres candidats). Le comité interministériel de sécurité routière du 26 novembre 1997 a confirmé la volonté des pouvoirs publics de favoriser l'apprentissage anticipé de la conduite. A cette fin, l'épreuve théorique du permis de conduire doit être modernisée dans son contenu et rendue accessible à tous les candidats à partir de seize ans. cette mesure devrait inciter les jeunes à accéder plus tôt à l'apprentissage de la conduite et donc à choisir la filière de l'apprentissage anticipé de la conduite, dans le prolongement direct de l'obtention de l'attestation scolaire de sécurité routière de deuxième niveau en fin de classe de troisième. L'évaluation de l'impact de l'AAC sur les risques d'accidents ne peut être menée que par les assureurs : le permis de conduire délivré est identique quels que soient les modes d'apprentissage de la conduite. Une convention entre l'Etat et les assureurs a été signée le 1er juillet 1998. Dans ce cadre, il est prévu que les assureurs procédent à cette évaluation.
