@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920621449
+
+- Question : [SEQ920621449](seq920621449.md) — Projets de loi concernant la bioéthique
+
+## Réponse
+
+*Santé, JO du 1992-10-08, page 2308*
+
+Réponse. - Les problèmes éthiques posés par les progrès récents de la biologie et de la génétique ont fait l'objet de nombreux débats, tant au plan national qu'international. En France, ils ont donné lieu à un grand nombre de réflexions et propositions formulées notamment dans les avis du comité consultatif national d'éthique, dans le rapport du Conseil d'Etat établi par la section du rapport et des études présidée par M. Braibant et dans le rapport de Mme Lenoir. Les parlementaires se sont également préoccupés de ces problèmes : rapport de la mission d'information des commissions des lois et des affaires sociales de l'Assemblée nationale, présidée par M. Bioulac, et étude de l'office parlementaire des choix scientifiques et technologiques, sous la présidence de M. Sérusclat. C'est justement dans l'objectif d'encadrer l'utilisation des techniques biomédicales sur l'homme afin d'éviter tout dérapage que ces différents rapports, établis après une analyse approfondie de tous les aspects majeurs du droit et des pratiques en vigueur dans notre pays et à l'étranger et après audition de nombreuses personnalités, ont conclu à la nécessité d'une intervention législative. Le projet de loi présenté par le ministre chargé de la santé et de l'action humanitaire a été élaboré sur la base de ces travaux. En ce qui concerne les principes généraux posés au début du projet de loi, ils ne sont pas contredits par les dispositions des articles suivants ; certains d'entre eux font simplement l'objet d'un aménagement dans le cas où cela se révèle inévitable : ainsi la règle de l'anonymat ne peut à l'évidence s'appliquer dans le cas de dons d'organes à l'intérieur d'une même famille, dons qui sont permis par le projet de loi dans des conditions strictement définies.
