@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860500603
+
+- Question : [SEQ860500603](seq860500603.md) — Ingénieurs sous contrat en poste dans les arsenaux
+
+## Réponse
+
+*Défense, JO du 1986-06-26, page 887*
+
+Réponse. -Les ingénieurs civils sur contrat du ministère de la défense et des ingénieurs à statut militaire constituent deux catégories de personnels complémentaires l'une de l'autre. Chacune d'elles est régie par des dispositions réglementaires qui lui sont propres et qui correspondent à des contraintes spécifiques. On ne peut donc valablement comparer ces deux catégories de personnels quant au niveau de leurs emplois et de leur rémunération ou aux règles d'avancement qui leurs sont applicables ; au demeurant, l'existence des ingénieurs civils contractuels ne saurait se justifier par les difficultés de recrutement des ingénieurs à statut militaire. S'agissant plus particulièrement des possibilités d'avancement des ingénieurs civils, il est à remarquer que le passage de la catégorie A à la hors-catégorie s'analyse comme une nomination au choix dans un corps supérieur pour les fonctionnaires et obéit à des règles identiques dans leur esprit : d'une part, les statuts particuliers des corps de fonctionnaires fixent une proportion des emplois susceptibles d'être pourvus par les nominations au choix (1/9 ou 1/6 selon le cas) par rapport au nombre de nominations dans le corps après concours ; d'autre part, un arrêté du 25 août 1980 fixe à 1/9 la proportion des agents sur contrat de catégorie A susceptibles d'être promus au choix en hors-catégorie par rapport au nombre des agents recrutés sur diplôme dans cette catégorie au cours de l'année précédente. Cela étant, il est exact que les dispositions régissant les ingénieurs sur contrat posent certaines difficultés d'application. Le ministre de la défense, auquel ces difficultés n'ont pas échappé, a d'ores et déjà soumis la situation des intéressés à un examen attentif.
