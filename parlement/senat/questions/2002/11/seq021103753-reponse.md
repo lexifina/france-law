@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021103753
+
+- Question : [SEQ021103753](seq021103753.md) — Pérennisation des emplois-jeunes du secteur associatif
+
+## Réponse
+
+*Affaires sociales, JO du 2003-02-27, page 692*
+
+L'honorable parlementaire fait part de ses interrogations sur le soutien de l'Etat aux emplois créés par les associations dans le cadre du programme " Nouveaux services emplois jeunes ". Il s'interroge également sur le rôle que pourra jouer le futur contrat d'insertion à la vie sociale (CIVIS) auprès de ces mêmes associations qui ont des besoins d'emploi. Sur le premier point, deux types de mesures sont mobilisables afin d'aider à pérenniser l'activité d'utilité sociale créée et les emplois correspondants : une mesure d'épargne consolidée pour celles qui, sur la période initiale de cinq ans du versement de l'aide de l'Etat, ont déjà pu dégager des recettes complémentaires publiques ou privées et une mesure de soutien complémentaire dégressif sur trois ans au moyen d'une nouvelle convention conclue entre l'Etat et l'employeur créateur de l'activité. Sur le second point des besoins d'emploi des associations, le Gouvernement reconnaît toute l'importance dans notre société d'un mouvement associatif fort, et l'ouverture, aux associations comme aux entreprises, du bénéfice du contrat jeunes prévu par la loi du 29 août 2002 en est un signe manifeste. La même philosophie inspire les travaux du Gouvernement relativement à la mise en oeuvre d'un contrat d'insertion dans la vie sociale (CIVIS), conformément à la promesse faite par le Président de la République, pour permettre à des jeunes d'acquérir, les qualifications nécessaires à l'exercice d'un parcours professionnel. L'aide de l'Etat, mais aussi des collectivités locales, permettrait dans ce cadre d'atteindre ce double objectif, mobilisateur pour la collectivité nationale, en se distinguant du programme emplois jeunes qui a trop bénéficié à des jeunes très qualifiés.
