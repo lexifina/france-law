@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870405769
+
+- Question : [SEQ870405769](seq870405769.md) — Rôle des conseillers d'orientation
+
+## Réponse
+
+*Éducation, JO du 1987-11-19, page 1836*
+
+Réponse. -Le nombre des emplois de directeur de centre d'information et d'orientation et de conseiller d'orientation figurant dans le budget de 1987 au titre des services d'information et d'orientation s'élève à 4 273. Ce nombre est rapproché de l'effectif des élèves qui fréquentent les établissements publics d'enseignement du second degré au bénéfice desquels les personnels d'orientation dinterviennent pour la majeure partie de leur activité, soit 4,5 millions d'élèves. Le rapport entre les emplois d'orientation et les effectifs scolaires se situe donc à un niveau inférieur à celui indiqué, puisqu'il est de 1 à 1 053. La décision de réduire de 120 à 60 le nombre des emplois d'élèves-conseillers d'orientation offerts aux concours de recrutement de 1987 a été prise dans le cadre de la politique de contrôle des dépenses publiques. Il faut cependant remarquer qu'un flux de formation de 60 élèves-conseillers d'orientation par an se situe au-delà des besoins de remplacement du corps. Cette mesure qui n'aura d'effet qu'à la rentrée de septembre 1989 ne met donc pas en cause la qualité du service public de l'Education nationale auquel les personnels d'orientation contribuent. La réduction du nombre d'élèves-conseillers d'orientation a conduit en effet à fermer les centres de formation de Lille et de Marseille. Les centres de Lyon, Paris et Strasbourg sont donc seuls à la rentrée à assurer la formation en première année. Les problèmes posés par l'application des dispositions de l'article 44 de la loi n° 85-772 du 25 juillet 1985, relatives à la profession de psychologue sont nombreux et complexes. L'étude de ces problèmes a été entreprise afin d'apprécier les conditions éventuelles de leur application à certains personnels du ministère de l'éducation nationale.
