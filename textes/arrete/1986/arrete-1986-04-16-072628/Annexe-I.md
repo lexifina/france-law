@@ -1,4 +1,4 @@
-# Article Annexe
+# Article Annexe I
 
 Conditions sensorielles
 
@@ -10,130 +10,146 @@ ACUITÉ VISUELLE
 
 |
 
-ACUITÉ AUDITIVE
+PERCEPTION
+
+des couleurs 15)
 
 |
 
-PERCEPTION
-
-des couleurs (1)
+ACUITÉ AUDITIVE
 
 |
 
 Normes I
 
-Aptitudes toutes fonctions, toutes spécialités.
+Aptitude toutes fonctions, toutes navigations.
 
 |
 
-I. - Entrée dans la profession
+Entrée dans la profession
 
-1) Vision de loin (3) :
+•1) Vision de loin : 7/10 pour l'oeil le plus faible.
 
-8/10 - 7/10
+Correction admise sous réserve d'une acuité visuelle sans correction de 1/10 pour l'oeil le plus faible à condition que la différence entre les deux yeux soit inférieure ou égale à 3 dioptries (vision des reliefs et des distances) (1) (2) (3).
 
-ou 9/10 - 6/10
+2) Absence d'héméralopie.
 
-correction admise sous réserve d'un minimum d'acuité visuelle sans correction de (2) :
+3) Vision de près satisfaisante à l'échelle 2 de Parinaud, correction admise.
 
-6/10 - 4/10
+4) Champ visuel binoculaire temporal normal.
 
-ou 5/10 - 5/10
+En cours de carrière
 
-2) Vision de près satisfaisante à l'échelle 2 de Parineau.
-
-|
-
-Voix chuchotée :
-
-OD - 1 m
-
-OG - 1 m
-
-Voix haute :
-
-OD - 10 m
-
-OG - 10 m
-
-Absence de déficit moyen de plus de 30 dB aux fréquences conversationnelles
+Toute décision concernant des dépassements des normes est du ressort de la CMRA.
 
 |
 
-S.P.C. 2
+SPC 2 (6)
 
 |
 
-II. - Après trois ans de navigation effective au quart ou à la veille
+Entrée dans la profession
 
-1) Vision de loin (3) :
+En audiométrie tonale par voie aérienne, déficit pour la plus mauvaise oreille n'excédant pas :
 
-6/10 - 6/10
+25 dB pour les fréquences 500 Hz et 1 000 Hz;
 
-correction admise sous réserve d'un minimum d'acuité
+30 dB pour la fréquence 2 000 Hz;
 
-visuelle sans correction de :
+40 dB pour la fréquence 4 000 Hz (7).
 
-3/10 - 3/10
+En cours de carrière
 
-2) Vision de près satisfaisante à l'échelle 3 de Parineau.
+30 dB pour les fréquences 500 Hz et 1 000 Hz.
 
-|
+35 dB pour la fréquence 2 000 Hz.
 
-S.P.C. 2
+50 dB pour la fréquence 4 000 Hz.
 
 |
 
 Normes II
 
-Aptitudes toutes fonctions, toutes spécialités sauf commandement et veille.
+Aptitude toutes fonctions, toutes navigations sauf commandement et veille.
 
 |
 
-1) Vision de loin :
+Entrée dans la profession
 
-5/10 - 4/10
+1) Vision de loin : 4/10 pour l'oeil le plus faible.
 
-correction admise sous réserve d'un minimum d'acuité
+Correction admise sous réserve d'une acuité visuelle sans correction de 1/10 pour l'oeil le plus faible, à condition que la différence entre les deux yeux soit inférieure à 3 dioptries (1) (2) (3) (4).
 
-visuelle sans correction de (2) :
+(2) Vision de près satisfaisante à l'échelle 3 de Parinaud, correction admise.
 
-2/10 - 1/10
+(3) Champ visuel binoculaire temporal normal.
 
-2) Vision de près satisfaisante à l'échelle 3 de Parineau.
+(4) Monophtalmes, sur avis de la CMRA.
 
-|
+En cours de carrière
 
-Voix chuchotée, perception globale :
-
-0,50 m
-
-Voix haute perception globale :
-
-5 m
-
-Absence de déficit moyen de plus de 35 dB aux fréquences conversationnelles
+Toute décision concernant des dépassements des normes est du ressort de la CMRA.
 
 |
 
-S.P.C. 2 (4)
+SPC 2 (6)
 
 |
 
-(I) Standard de perception des couleurs :
+Entrée dans la profession
 
-S.P.C. 1 : Aucune erreur à la lecture des tables d'Ishihara.
+Voie haute perçue à au moins trois mètres, deux mètres pour la plus mauvaise.
 
-S.P.C. 2 : Erreurs à la lecture des tables d'Ishihara. Aucune erreur à la lecture des feux colorés à l'appareil de Beyne, norme marine.
+Déficit pour chaque oreille en audiométrie tonale par voie aérienne n'excédant pas :
 
-S.P.C. 3 : Erreurs aux deux épreuves (tables et feux).
+- pour la meilleure oreille: 30 dB pour les fréquences 500 Hz, 1 000 Hz, 2 000 Hz et 3000 Hz ;
 
-(2) Lorsque les normes exigées ne sont obtenues qu'à l'aide d'une correction optique, la possession à bord d'une paire de lunettes de rechange est obligatoire.
+- pour la plus mauvaise : 40 dB pour les mêmes fréquences ;
 
-(3) Chez les sujets jeunes dont la vue n'est pas corrigée à 10/10 un examen spécialisé sera nécessaire avant décision médicale.
+Pas de norme minima pour la fréquence des 4 000 Hz.
 
-(4) Les normes II avec S.P.C. 3 peuvent permettre d'exercer, compte tenu des conditions de navigation, toutes les fonctions à la petite pèche de jour seulement sur les navires armés en 5 catégorie et à la conchyliculture dans les mêmes conditions, de goémonier, ainsi que les fonctions de médecin, commissaire, agent de service général, et du personnel employé uniquement au travail du poisson.
+En cours de carrière
 
-Les normes II avec S.P.C. 3 sont compatibles avec des fonctions de mécanicien, sous réserve que les intéressés satisfassent à un test de différenciation des couleurs.
+Toute décision concernant les dépassements des normes est du ressort de la CMRA.
+
+|
+
+(1) Chirurgie réfractive acceptée sous réserve que l'intervention date de plus de deux ans et que la résistance à l'éblouissement se révèle normale, la décision définitive étant du ressort de la CMRA. L'attention des intéressés est attirée sur les deux années de délai pendant lesquelles ils seront, au minimum, déclarés inaptes temporaires normes I ; ceci concerne tout particulièrement les candidats à la profession qui se feraient, de leur propre initiative, opérer pour corriger une déficience visuelle, afin de rentrer dans les normes.
+
+(2) Pour le personnel d'exécution, lorsque l'acuité visuelle sans correction est inférieure à 4/1D pour l'oeil le plus faible l'aptitude porte la mention restrictive: sauf travail en équipe de plus de trois personnes sur pont découvert u.
+
+(3) Lorsque les normes exigées ne sont obtenues qu'a l'aide d'une correction optique, la possession à bord d'une paire de lunettes de rechange est obligatoire.
+
+(4) Les officiers mécaniciens, radios, électriciens et les membres d'équipage effectuant du quart à la machine doivent répondre aux critères minimums des normes II et avoir un test de capacité chromatique professionnelle satisfaisant.
+
+(5) Standard de perception des couleurs :
+
+SPC 1: aucune erreur à la lecture des tables d'Ishihara ;
+
+SPC 2 : erreurs à la lecture des tables, mais aucune erreur à l'identification des feux colorés émis au moyen de la lanterne chromoptomé‑
+
+trique de Beyne, type marine (longueur d'onde spécifique pour le rouge et le vert);
+
+SPC 3: erreurs aux deux épreuves (tables et feux).
+
+(6) SPC 3 est compatible avec les fonction de médecin, commissaire, agent du service général et de personnel employé uniquement au travail du poisson.
+
+SPC3 est également compatible avec les fonctions de mécanicien et de radio, sous réserve que les intéressés satisfassent au test de capacité chromatique professionnelle.
+
+Les normes II avec SPC 3 peuvent permettre d'exercer, de jour seulement et, compte tenu des conditions locales de navigation, toutes les fonctions sur les navires armés en 5' catégorie à la petite pèche et à la conchyliculture.
+
+(7) Lorsque l'acuité auditive en audiométrie tonale par voie aérienne se révèle inférieure à celle exigible pour les normes I, un examen spécialisé est nécessaire avant toute décision d'aptitude, notamment celle concernant l'exposition eu bruit de la machine.
+
+Toute exploration est effectuée sans prothèse auditive.
+
+En cours de carrière, un marin présentant une perte de l'audition supérieure aux limites indiquées en audiométrie tonale peut être déclaré apte normes I, si l'épreuve d'audiométrie vocale avec un bruit blanc de fond de 75 décibels en champ libre, utilisant des listes de mot dissylla­biques ide type J.-E. Fournier) répond aux normes suivantes pour chaque oreille :
+
+- courbe d'allure normale;
+
+- 100 % d'intelligibilité à 60 dB ;
+
+- déficit au seuil à 50% n'excédant pas 40 dB.
+
+Il sera déclaré normes II, si, ne répondant pas aux conditions ci-dessus, la courbe audiométrique vocale est cependant compatible avec le poste de travail à bord et le genre de navigation pratiquée.
 
 |
