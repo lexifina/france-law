@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940506253
+
+- Question : [SEQ940506253](seq940506253.md) — Situation de la Caisse nationale des retraités des agents des collectivités locales (CNRACL)
+
+## Réponse
+
+*Budget, JO du 1994-07-21, page 1810*
+
+Réponse. - La Caisse nationale de retraite des agents des collectivités locales (CNRACL) gère un régime de retraite qui offre à ses assurés, fonctionnaires territoriaux et hospitaliers, les mêmes prestations que le régime des fonctionnaires. La relative jeunesse du régime de la CNRACL les droits applicables aux agents affiliés sont définis par le décret no 65-773 du 9 septembre 1965 explique un rapport démographique particulièrement favorable : 3,7 en 1992, à comparer à 2,3 pour les fonctionnaires civils de l'Etat et 1,9 pour le régime général de la sécurité sociale. En tant que régime de retraite géré en répartition et bénéficiant d'un rapport démographique plus favorable que de nombreux autres régimes, la CNRACL., comme le régime des fonctionnaires de l'Etat, contribue par ailleurs aux mécanismes de compensation démographique institués entre régimes de retraite. Ces mécanismes ont pour objectif de pallier l'existence d'un grand nombre de régimes en mutualisant les éléments démographiques, en cohérence avec la logique d'un financement en répartition. Au fur et à mesure que le régime de retraite des agents des collectivités locales parvient à maturité, son rapport démographique se dégrade, ce qui n'est pas sans impact sur le taux de cotisation nécessaire à son équilibre. Toutefois, la CNRACL bénéficie encore d'un niveau de taux de cotisation très favorable. Ainsi, pour le même taux de retenue pour pension à la charge des fonctionnaires et pour les mêmes garanties, le taux de cotisation implicite de l'Etat employeur atteint 41,5 p. 100 en 1992 (fonctionnaires civils), à comparer avec le taux de cotisation employeur à la CNRACL, soit 21,3 p. 100.
