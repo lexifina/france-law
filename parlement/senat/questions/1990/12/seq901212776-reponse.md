@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901212776
+
+- Question : [SEQ901212776](seq901212776.md) — Délivrance de certificats de nationalité aux Français de l'étranger
+
+## Réponse
+
+*Justice, JO du 1991-01-31, page 206*
+
+Réponse. - Le code de la nationalité française a institué, dès 1945, un régime de preuve légale de la nationalité française, exprimé dans ses articles 138, 142 et 149, qui exclut les présomptions et fait du certificat de nationalité française le seul document ayant par lui-même force probante légale. L'importance de ce document exige qu'il soit établi avec la plus grande rigueur. Il appartient au juge d'instance de solliciter du demandeur - à qui, conformément à l'article 138 du code de la nationalité française, incombe la charge de la preuve - de fournir les pièces et documents permettant de prouver sa nationalité. La complexité de certaines demandes rend parfois indispensables des vérifications et des enquêtes, effectuées à la diligence du magistrat, qui en pratique allongent les délais d'obtention des certificats de nationalité française. La délivrance des certificats de nationalité française aux personnes domiciliées à l'étranger relève principalement de la compétence du tribunal d'instance spécialisé du 1er arrondissement de Paris. La situation de ce service est assez délicate. Au 1er septembre 1990, 13 500 dossiers se trouvaient soit classés, en attente de pièces réclamées aux requérants ou de résultats d'enquêtes diligentées auprès des différentes administrations, soit en cours de traitement par les rédacteurs. Pour améliorer le fonctionnement de cette juridiction, trois postes supplémentaires de fonctionnaires ont été créés en 1990. Dans le même temps, des crédits ont également été délégués pour permettre le recrutement de vacataires. Les services de la Chancellerie sont à la recherche de solutions acceptables pour améliorer le fonctionnement des services de nationalité des tribunaux d'instance.
