@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920621743
+
+- Question : [SEQ920621743](seq920621743.md) — Investissement industriel en France
+
+## Réponse
+
+*Économie, JO du 1992-08-27, page 1961*
+
+Réponse. - La réduction des investissements observée en 1991 n'est pas anormale au regard des comportements habituels dans une phase de ralentissement de la croissance des découchés, d'autant qu'en niveau l'investissement est resté élevé compte tenu de la très forte progression des six années précédentes. En 1992, la reprise graduelle de l'activité attendue au deuxième semestre devrait avoir un impact rapide sur l'investissement. Les chiffres de baisse en moyenne annuelle des investissements industriels donnés par les dernières enquêtes de conjoncture traduisent les acquis négatifs en début d'année et sont compatibles avec un début de redressement de l'investissement en cours d'année. La politique économique suivie depuis 1988 a permis à l'économie française de réaliser d'importants gains de compétitivité. Ainsi, grâce à l'accroissement de nos parts de marché, nous sommes sur la voie d'une croissance plus forte que celle de nos partenaires européens. Cette politique économique doit être poursuivie car la croissance est le déterminant principal de l'investissement et des créations d'emplois ; les entreprises n'augmentent leurs facteurs de production que lorsqu'elles anticipent un accroissement de leurs débouchés. Par ailleurs, le redressement de l'investissement est favorisé par la réduction de l'impôt sur les sociétés décidée dans la loi de finances pour 1992. Pour l'emploi, des mesures spécifiques ont également été prises (programme contre le chômage de longue durée, relance de l'apprentissage, exonération des cotisations patronales pour l'emploi des jeunes sans qualification, encouragement à la création d'emplois familiaux).
