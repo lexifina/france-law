@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010432660
+
+- Question : [SEQ010432660](seq010432660.md) — Produits alimentaires : amélioration du fonctionnement des instances en charge de la politique de qualité et d'origine
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2002-02-07, page 375*
+
+La suggestion contenue dans l'avis du 14 mars 2001 du Conseil économique et social sur l'amélioration du fonctionnement des instances en charge de la politique de la qualité est partagée par le secrétariat d'Etat aux petites et moyennes entreprises, au commerce, à l'artisanat et à la consommation puisqu'elle ne peut qu'être favorable à la politique générale de qualité à laquelle les pouvoirs publics sont attachés. La principale de ces instances est l'Institut national des appellations d'origine (INAO), établissement public sous tutelle du ministère de l'agriculture et de la pêche. Les services de la direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) participent activement aux travaux de l'INAO, notamment au sein de ses comités ou de son conseil permanent. La seconde instance est la Commission nationale des labels et certifications (CNLC), avec laquelle la DGCCRF travaille également en étroite collaboration, notamment au sein de sa commission permanente et de ses trois sections (agriculture biologique, organismes certificateurs et examens des référentiels). L'action de la DGCCRF en matière de politique de qualité est une action de surveillance et de contrôle du dispositif de signes officiels de qualité. Cette action de contrôle est complétée par une action de conseil visant à mieux connaître, analyser et surveiller les procédures de délivrance de ces signes : c'est en ce sens que la participation de ses agents aux travaux de l'INAO et de la CNLC concourt à l'amélioration du fonctionnement de ces deux instances.
