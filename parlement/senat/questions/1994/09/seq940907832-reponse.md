@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940907832
+
+- Question : [SEQ940907832](seq940907832.md) — Modalités d'application du vote par procuration
+
+## Réponse
+
+*Intérieur, JO du 1994-10-13, page 2476*
+
+Réponse. - La loi no 93-894 du 6 juillet 1993 a apporté deux modifications à l'article L. 71 du code électoral qui énumère les catégories de citoyens autorisées à faire usage du vote par procuration : d'une part, une modification de fond, en ajoutant à l'article en cause un paragraphe III étendant la faculté de recourir au vote par procuration à toutes les personnes, qu'elles soient actives ou non, qui ont quitté leur résidence habituelle pour prendre des vacances ; d'autre part, une modification de forme, pour simplifier la rédaction du paragraphe I du même article, sans en charger la portée. Ainsi, en matière d'exercice du vote par procuration, n'existe-t-il plus de différence de traitement entre les retraités et les personnes actives absents de leur résidence habituelle pour cause de vacances. Depuis lors, sur le fondement de l'article R. 73 du code électoral (deuxième et troisième alinéas), le décret no 93-1223 du 10 novembre 1993 a modifié en conséquence le décret no 76-158 du 12 février 1976 fixant les justifications à produire par les électeurs demandant à voter par procuration. L'instruction relative aux modalités d'exercice du droit de vote par procuration (circulaire ministérielle no 76-28 du 23 janvier 1976) a fait l'objet d'une nouvelle mise à jour qui a été diffusée par l'intermédiaire des préfectures à toutes les autorités habilitées à délivrer les procurations. Il ne devrait donc subsister aucune ambiguïté, ni sur les situations ouvrant droit à voter par procuration ni sur les attestations et justifications à fournir par les électeurs désireux de recourir à cette procédure de vote.
