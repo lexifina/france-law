@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021003342
+
+- Question : [SEQ021003342](seq021003342.md) — Saisie de cannabis
+
+## Réponse
+
+*Intérieur, JO du 2003-02-06, page 469*
+
+L'affaire judiciaire réalisée à Lyon est représentative de l'action que mènent les groupes d'intervention régionaux, récemment créés, dans les quartiers difficiles de nos villes où se sont développés un approvisionnement massif de stupéfiants, notamment de cannabis et, parallèlement, une importante économie souterraine. En l'espèce, il a été mis fin à l'activité d'une équipe organisée de trafiquants d'envergure. Six d'entre eux, impliqués à divers niveaux, ont été écroués. Outre les 500 kg de cannabis, des véhicules de luxe, d'importantes sommes d'argent et des armes ont été saisis. Sur le territoire national, au cours du premier semestre 2002, parmi les drogues les plus répandues, près de 20 tonnes de cannabis, plus d'une tonne de cocaïne, 250 kg d'héroïne et plus d'un million de cachets d'ecstasy ont été saisis. Toutefois, s'agissant des volumes saisis, il convient de ne pas accorder aux chiffres une importance démesurée. En effet, l'interception conjoncturelle d'une seule quantité exceptionnelle d'un stupéfiant peut en effet modifier les états statistiques sans être nécessairement représentative de l'ensemble de l'action répressive. Au cours de la même période, le nombre des saisies a dépassé le chiffre de 30 000 et des interpellations, toutes infractions à la législation sur les stupéfiants confondues, celui de 45 000. Les applications de la loi d'orientation et de programmation pour la sécurité intérieure du 29 août 2002, permettant la mise en oeuvre de moyens humains, matériels et juridiques, et développant des synergies dans la lutte contre la délinquance, devraient déboucher, pour le second semestre 2002 et l'année à venir, sur un accroissement de la pression sur le trafic. Les statistiques pourront être communiquées dès consolidation des chiffres.
