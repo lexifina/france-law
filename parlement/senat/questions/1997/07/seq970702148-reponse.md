@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970702148
+
+- Question : [SEQ970702148](seq970702148.md) — Situation précaire des chômeurs âgés de moins de soixante ans
+
+## Réponse
+
+*Emploi, JO du 1998-07-30, page 2465*
+
+Réponse. - Le Gouvernement a fait de la lutte contre les exclusions un axe majeur de sa politique. Il est à ce titre conscient que les chômeurs âgés qui bénéficient de l'allocation de solidarité spécifique ou du revenu minimum d'insertion doivent pouvoir connaître une amélioration de leur revenu lorsqu'ils justifient d'au moins 160 trimestres d'assurance dans les régimes de base obligatoires d'assurance vieillesse. Une telle mesure répond en effet à un objectif de reconnaissance sociale envers des personnes ayant commencé à travailler très jeunes, qui sont sans emploi à un âge où il leur devient particulièrement difficile d'en retrouver un et qui ne peuvent prétendre ni à l'ARPE, qui ne peut concerner que des salariés encore en activité, ni à l'ACA (allocation chômeurs âgés) réservée aux bénéficiaires de l'allocation unique dégressive. C'est pourquoi le Parlement vient d'adopter une loi en date du 17 avril 1998 instituant une allocation spécifique forfaitaire complémentaire au profit des chômeurs âgés percevant l'allocation de solidarité spécifique (ASS) ou le revenu minimum d'insertion (RMI) âgés de moins de soixante ans et qui totalisent 160 trimestres validés au titre des régimes de base obligatoires de l'assurance vieillesse. Cette " allocation spécifique d'attente " est d'un montant de 1 750 francs par mois. Elle sera servie jusqu'à la date de l'admission de ses bénéficiaires à une pension de retraite. Les personnes dont les ressources, complétées par l'ASA, resteraient inférieures à 5 000 francs par mois, bénéficieront d'un complément leur permettant d'atteindre ce plancher.
