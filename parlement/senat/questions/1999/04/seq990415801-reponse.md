@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990415801
+
+- Question : [SEQ990415801](seq990415801.md) — Entrepreneurs de travaux agricoles et ruraux et sociétés coopératives agricoles
+
+## Réponse
+
+*Agriculture, JO du 1999-06-10, page 1938*
+
+Réponse. - Les entrepreneurs de travaux agricoles, ruraux et forestiers constituent un élément important d'animation et de développement local. Ils contribuent au maintien du tissu économique et social en milieu rural. En ce sens, il convient que leur dynamisme soit préservé et que leurs actions soient facilitées. Les coopératives d'utilisation de matériel agricole, qui constituent un groupe de sociétés de service statutairement non distinct au sein de l'ensemble des coopératives agricoles, possèdent comme caractéristiques d'exercer leur activité dans le domaine de l'agro-équipement. Elles revendiquent la possibilité de mettre leurs services à disposition des collectivités locales pour l'entretien de l'espace rural. L'état actuel du droit ne permet pas une telle utilisation. En effet, aux termes des articles L. 521-1 et R. 521-1 du code rural, l'entretien de l'espace rural n'entre pas dans l'objet d'une coopérative agricole. Par ailleurs, une commune n'a pas la capacité à adhérer à une coopérative agricole sauf si elle est en mesure de souscrire un engagement coopératif au titre de son domaine privé (art. L. 521-3 et L. 522-1 du code rural). Toutefois, une coopérative ayant levé l'option statutaire permettant de déroger à la règle de l'exclusivisme peut mettre ses services à la disposition de tiers non associés, quels qu'ils soient, à concurrence de 20 % du chiffre d'affaires. Cette faculté entraîne l'obligation de tenir une comptabilité séparée correspondant à ces activités afin de permettre leur soumission à une fiscalité de droit commun. Il apparaît inopportun de faire suite à ces demande afin d'éviter toute discussion de concurrence en défaveur des autres entreprises du secteur non coopératif.
