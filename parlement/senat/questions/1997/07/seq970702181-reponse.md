@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970702181
+
+- Question : [SEQ970702181](seq970702181.md) — Compétences de la Cour de justice dans l'application de l'acquis de Schengen
+
+## Réponse
+
+*Justice, JO du 1997-11-27, page 3319*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que sa question a retenu toute son attention. Elle rappelle que l'un des objectifs du traité d'Amsterdam est de supprimer les dernières entraves à la libre circulation et de renforcer la sécurité en intégrant l'acquis Schengen à l'Union européenne en vue d'instaurer " une coopération plus étroite " et en transférant une partie des compétences du troisième pilier dans le premier pilier. Un protocole annexé au nouveau traité prévoit les modalités d'intégration avec notamment une compétence de la Cour de justice des Communautés européennes dans le cadre du dispositif Schengen à l'exception des mesures portant sur le maintien de l'ordre public et de la sauvegarde de la sécurité intérieure. C'est le Conseil qui va déterminer la base juridique pour chacune des dispositions ou décisions qui constituent l'acquis de Schengen et le ventiler entre le premier et le troisième pilier. La compétence de la Cour de justice pourrait ainsi porter sur les matières Schengen qui devraient être transférées dans le premier pilier, soit ce qui concerne les visas, l'asile, l'immigration et les mesures d'accompagnement concernant la libre circulation et le contrôle aux frontières extérieures. En ce qui concerne la coopération judiciaire et policière mise en place dans le cadre de la convention de Schengen, qui devrait être intégrée dans le troisième pilier, les Etats pourront faire une déclaration au moment de la signature du traité d'Amsterdam pour accepter la compétence de la Cour de justice à titre préjudiciel sur la validité et l'interprétation des conventions, des décisions et leurs mesures d'application.
