@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980205839
+
+- Question : [SEQ980205839](seq980205839.md) — Réduction de crédits relatifs à la recherche
+
+## Réponse
+
+*Éducation, JO du 1998-05-28, page 1706*
+
+Réponse. - En janvier dernier, afin de répondre aux besoins les plus urgents des chômeurs en difficulté, le Gouvernement a décidé d'ouvrir un crédit exceptionnel d'un milliard de francs. Cette mesure de solidarité nationale a été financée par des annulations de crédits qui ont touché tous les départements ministériels. Elle ne remet nullement en cause, la politique de relance de l'emploi scientifique qui s'est traduite, en loi de finances pour 1998, par la création de 400 emplois de chercheurs dans les établissements publics de recherche à caractère scientifique et technologique (EPST), dont 50 à l'INSERM. Elle n'entame pas non plus significativement la progression du budget de la recherche et de la technologie qui a atteint en 1998, à périmètre constant, 1 263 millions de francs en dépenses ordinaires et autorisations de programme, soit p 3,3 %, par rapport à 1997. En ce qui concerne les EPST, les annulations ont en effet épargné les dotations de soutien des programmes qui constituent l'essentiel des moyens de fonctionnement des laboratoires, ainsi que les crédits de personnel. Elles ont porté exclusivement sur les crédits d'investissement pour un montant total de 50 millions de francs en autorisations de programmes et de 20 millions de francs en crédits de paiement. Ces annulations représentent 3,7 % des seules dotations d'investissement des organismes concernés, ou 1,3 % de l'ensemble de leurs dotations en capital. Dans le cas particulier de l'INSERM, l'annulation a été de 4,8 millions de francs en autorisations de programme et 1,9 million de francs en crédits de paiement. Cette réduction n'est pas de nature à affecter de manière significative la capacité d'investissement de l'institut pour 1998.
