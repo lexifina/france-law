@@ -1,0 +1,9 @@
+# Réponse à la question SEQ041114664
+
+- Question : [SEQ041114664](seq041114664.md) — Implantations raisonnées d'éoliennes
+
+## Réponse
+
+*Écologie, JO du 2005-02-10, page 383*
+
+Le ministre de l'écologie et du développement durable a pris connaissance, avec intérêt, de la question relative à l'implantation raisonnée d'éoliennes. L'article 98 de la loi n° 2003-590 du 2 juillet 2003 Urbanisme et Habitat a introduit un cadre juridique pour traiter et instruire les questions d'urbanisme, d'évaluation environnementale et de participation du public liées au développement de projets éoliens. Il précise notamment que les régions peuvent mettre en place un schéma régional éolien, après avis des départements et des établissements publics de coopération intercommunale à fiscalité propre. La circulaire interministérielle du 10 septembre 2003, signée par les ministères chargés de l'industrie, de l'équipement et de l'écologie, donne des indications aux préfets sur les conditions de mise en oeuvre de cette loi. Elle précise notamment que ce schéma " aura une valeur indicative et d'information mais ni valeur de prescription, ni valeur d'autorisation des futurs projets ". Par ailleurs, une enquête publique est dorénavant obligatoire pour tout projet dont la puissance dépasse 2,5 MW. Ces deux nouvelles dispositions permettent aux différents acteurs locaux d'être informés et de participer, à tous les stades de la procédure, à l'élaboration des projets éoliens. Il est ainsi possible, à l'aide de ces schémas, tant à l'échelle régionale que pour chaque projet, de prendre la mesure des incidences des installations d'éoliennes. Le ministère de l'écologie et du développement durable est très attentif à ce que l'essor de cette source d'énergie non polluante et non émettrice de gaz à effet de serre ne soit pas préjudiciable à la qualité et au cadre de vie de nos concitoyens.
