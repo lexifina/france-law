@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000323528
+
+- Question : [SEQ000323528](seq000323528.md) — Fonctionnement des services d'information et d'orientation
+
+## Réponse
+
+*Éducation, JO du 2000-07-27, page 2657*
+
+Réponse. - Le loi d'orientation sur l'éducation nº 89-486 du 10 juillet 1989 institue une véritable éducation à l'orientation dans les établissements secondaires. Celle-ci est organisée sous la responsabilité du chef d'établissement, et implique tous les membres de l'équipe éducative. Aussi, la situation des effectifs des conseillers d'orientation-psychologues (COP) doit-elle être appréciée par rapport à celle de l'ensemble des membres de l'équipe éducative. Par ailleurs, les conseillers d'orientation-psychologues et les chefs d'établissements interviennent directement aurès des élèves lorsque leurs compétences spécifiques sont requises. Ceci étant, dans le cadre de la répartition des moyens d'orientation créés par la loi de finances de l'an 2000 au nombre de soixante emplois, une attention particulière a été portée à la situation de l'académie de Montpellier. Ainsi, au titre de la rentrée scolaire prochaine, suivant le principe de répartition équitable des moyens et pour tenir compte des spécificités de cette académie, trois emplois lui ont été notifiés, soit 5 % de l'autorisation budgétaire de création d'emplois d'orientation. Cette dotation accroît ainsi le stock d'emplois de COP de p 2,5 %, alors que la démographie dans l'enseignement du second degré devrait augmenter de 1,6 % à la rentrée scolaire 2000. En application de la déconcentration administrative, il appartient aux autorités académiques de répartir ces moyens mis à leur disposition, entre les établissements, de la manière la plus équitable possible en tenant compte des priorités qu'elles ont été amenées à définir en fonction des caractéristiques locales.
