@@ -18,15 +18,13 @@ Anciens assistants spécialistes ;
 
 Médecins étrangers ressortissants d'un Etat membre de la Communauté économique européenne pouvant justifier d'une qualification reconnue équivalente.
 
-Montant au 1er août 1991 : 274,61 F.
-
-Montant au 1er novembre 1991 : 277,34 F.
+Montant au 1er février 1992 : 280,89 F.
 
 2. Anciens internes des hôpitaux publics ;
 
 Titulaires d'un D.E.S. ou d'un diplôme sanctionnant l'internat de recherche ;
 
-Médecins spécialistes qualifiés ;
+Médecins spécialistes qualifiés au regard du conseil de l'ordre ou de la législation de la sécurité sociale ;
 
 Anciens praticiens du service de santé des armées répondant aux conditions requises pour l'inscription sur la liste d'aptitude aux fonctions de praticien hospitalier à temps plein prévue à l'article 13 du décret n° 84-131 du 24 février 1984 ;
 
@@ -34,15 +32,11 @@ Anciens assistants généralistes ;
 
 Médecins étrangers ressortissants d'un Etat membre de la Communauté économique européenne pouvant justifier d'une qualification reconnue équivalente.
 
-Montant au 1er août 1991 : 233,75 F.
-
-Montant au 1er novembre 1991 : 236,08 F.
+Montant au 1er février 1992 : 239,10 F.
 
 3. Toutes autres catégories :
 
-Montant au 1er août 1991 : 206,78 F.
-
-Montant au 1er novembre 1991 : 208,84 F.
+Montant au 1er février 1992 : 211,51 F.
 
 B. - Taux des vacations des attachés des centres hospitaliers régionaux faisant partie de centres hospitaliers et universitaires établis sur la base de la demi-journée de trois heures trente, en fonction des titres dont ces personnels justifient au moment de leur nomination :
 
@@ -62,26 +56,22 @@ Anciens assistants spécialistes ;
 
 Médecins étrangers ressortissants d'un Etat membre de la Communauté économique européenne pouvant justifier d'une qualification reconnue équivalente.
 
-Montant au 1er août 1991 : 330,15 F.
-
-Montant au 1er novembre 1991 333,44 F.
+Montant au 1er février 1992 : 337,71 F
 
 2. Anciens internes des hôpitaux publics ;
 
 Titulaires d'un D.E.S. ou d'un diplôme sanctionnant l'internat de recherche ;
 
-Médecins spécialistes qualifiés ;
+Médecins spécialistes qualifiés au regard du conseil de l'ordre ou de la législation de la sécurité sociale ;
 
-Anciens praticiens du service de santé des armées répondant aux conditions requises pour l'inscription sur la liste d'aptitude aux fonctions de praticien hospitalier à temps plein prévue à l'article 13 du décret n° 84-131 du 24 février 1984,
+Anciens praticiens du service de santé des armées répondant aux conditions requises pour l'inscription sur la liste d'aptitude aux fonctions de praticien hospitalier à temps plein prévue à l'article 13 du décret n° 84-131 du 24 février 1984 ;
+
+Anciens assistants généralistes ;
 
 Médecins étrangers ressortissants d'un Etat membre de la Communauté économique européenne pouvant justifier d'une qualification reconnue équivalente.
 
-Montant au 1er août 1991 : 275,81 F.
-
-Montant au 1er novembre 1991 : 278,56 F.
+Montant au 1er février 1992 : 282,12 F
 
 3. Toutes autres catégories :
 
-Montant au 1er août 1991 : 245,23 F.
-
-Montant au 1er novembre 1991 : 247,67 F.
+Montant au 1er février 1992 : 250,84 F.
