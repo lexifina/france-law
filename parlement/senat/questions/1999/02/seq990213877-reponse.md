@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990213877
+
+- Question : [SEQ990213877](seq990213877.md) — Revenu des éleveurs laitiers
+
+## Réponse
+
+*Agriculture, JO du 1999-07-01, page 2216*
+
+Réponse. - La commission des comptes de l'agriculture, lors de sa réunion du 15 décembre dernier, a effectivement constaté, pour l'année 1998, une hausse de revenu de 12 % pour les éleveurs laitiers. Comme vous le rappelez, cette évolution positive s'explique par la bonne tenue des cours de la viande bovine en 1998, ainsi que par la baisse des prix de l'alimentation animale. Ces données prévisionnelles sont établies au niveau national grâce aux comptes par catégorie d'exploitations établis au sein du ministère de l'agriculture et de la pêche par le service central des enquêtes et études statistiques. Au niveau départemental, l'information disponible est moins riche. D'une part, il n'existe pas de version prévisionnelle des comptes, la mobilisation de l'information à un niveau géographique infranational à une date aussi avancée rendant en effet fragile une telle estimation. D'autre part, les comptes départementaux sont calculés toutes exploitations confondues. Pour ces raisons, les comptes départementaux de l'agriculture sont seulement établis dans une version, dite provisoire, au printemps de l'année suivante. Les comptes départementaux de l'année 1998 sont donc actuellement en cours d'élaboration. Ils seront présentés le 15 juin prochain à la commission des comptes de l'agriculture de la nation. Ces comptes ne présenteront toutefois pas de résultat pour les producteurs de lait spécialisés au niveau de chaque département, mais pour l'ensemble des exploitations du département, toutes spécialisations confondues. Le suivi des résultats économiques des exploitations spécialisées au niveau régional peut en revanche se faire à partir du réseau d'information comptable agricole (RICA), dont les résultats pour 1998 seront disponibles en octobre 1999.
