@@ -12,8 +12,6 @@ Tranche 1991
 
 Gestion administrative et financière de la section des O.N.G. (actions en France).
 
-Gestion des coopérants en perte d'emploi à la sous-direction des personnels en coopération.
-
 Préparation et diffusion de la revue de presse au département de la communication.
 
 Responsable de la cellule financière au département de la formation.
@@ -72,8 +70,6 @@ Gestion prévisionnelle et administrative des agents exerçant leurs fonctions �
 
 Gestion des effectifs et suivi de la programmation de l'assistance technique au bureau de l'organisation et de la gestion prévisionnelle ;
 
-Encadrement de la cellule financière à la sous-direction de l'informatique ;
-
 Suivi des réponses aux questions parlementaires et des interventions à la direction du développement ;
 
 Suivi de la gestion financière et des affaires générales au bureau Production agricole, industrielle et échange ;
@@ -101,3 +97,19 @@ Suivi informatique de la programmation, suivi des engagements au département de
 Mise en place et suivi des crédits et des contrats au bureau Production agricole, industrielle et échange ;
 
 Gestion financière à la sous-direction de l'éducation, de la recherche et de la culture.
+
+Tranche 1995 :
+
+Secrétaire de direction (directeur, chef de service, sous-directeur) :
+
+- gestion prévisionnelle et administrative des agents exerçant leur fonction à l'administration centrale ou dans les services à l'étranger ;
+
+- encadrement d'une section au bureau du fonds d'aide et de coopération ;
+
+- ordonnancement ou gestion de titre budgétaire à la sous-direction chargée du budget ;
+
+- agent chargé du suivi des dossiers de recrutement au bureau des ressources documentaires, financières et humaines ;
+
+- organisation et suivi du comité d'évaluation des primes de fonction ;
+
+- vérification comptable au bureau du fonds d'aide et de coopération.
