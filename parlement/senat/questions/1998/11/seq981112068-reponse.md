@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981112068
+
+- Question : [SEQ981112068](seq981112068.md) — Perception des allocations chômage pour les salariés à employeurs multiples
+
+## Réponse
+
+*Emploi, JO du 1999-08-26, page 2871*
+
+Réponse. - Le régime d'assurance chômage a pour vocation d'indemniser la privation totale d'emploi. Il prévoit donc l'interruption du versement des allocations en cas de reprise d'activité. Toutefois, afin de ne pas dissuader les travailleurs privés d'emploi de reprendre ou conserver une activité réduite ou accessoire pouvant faciliter leur réinsertion professionnelle, les partenaires sociaux ont apporté une exception à ce principe. Ainsi, il est rappelé à l'honorable parlementaire que les partenaires sociaux, pleinement conscients des difficultés qui peuvent naître de certaines situations, ont défini les conditions dans lesquelles les salariés, qui, ayant plusieurs employeurs, perdent un emploi et conservent une ou plusieurs activités, peuvent cumuler le revenu que leur procure cette activité avec une allocation d'assurance chômage. Si une personne conserve une activité dont l'intensité mensuelle n'excède pas 136 heures et si cette activité ne lui procure pas une rémunération supérieure à 70 % du total de la rémunération antérieure à la perte du premier emploi, elle peut bénéficier de l'allocation unique dégressive (AUD). Il convient de signaler que les partenaires sociaux ont récemment amélioré les conditions d'indemnisation de ces personnes, puisque, jusqu'au 28 février 1998, ce seuil était fixé à 47 %. D'autre part, le cumul des allocations de chômage journalières avec la rémunération de la ou des activités conservées est désormais intégral. Enfin, dans le cas où le demandeur d'emploi perd successivement une ou plusieurs activités conservées postérieurement à sa prise en charge par le régime d'assurance chômage, le niveau de son allocation est recalculé en fonction de l'ensemble du revenu qu'il a perdu.
