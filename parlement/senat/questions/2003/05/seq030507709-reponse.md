@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030507709
+
+- Question : [SEQ030507709](seq030507709.md) — Frais de reprographie dans les écoles primaires
+
+## Réponse
+
+*Jeunesse, JO du 2003-09-18, page 2850*
+
+L'utilisation collective par les enseignants d'oeuvres de l'esprit doit respecter les droits des auteurs et de leurs ayants droit dont le consentement est requis avant toute reproduction par reprographie. A défaut d'autorisation de l'auteur, la reprographie est illicite et constitutive du délit de contrefaçon, conformément à l'article L. 122-4 du code de la propriété intellectuelle. Pour ce qui concerne l'enseignement du premier degré, la question s'est posée de savoir quelle collectivité publique devait supporter la charge des droits de reprographie. Le ministre de la jeunesse, de l'éducation nationale et de la recherche a saisi pour avis le Conseil d'Etat, qui a confirmé son analyse. Dans son avis du 14 janvier 2003, la Haute Assemblée a estimé que la prise en charge des dépenses pédagogiques des écoles du premier degré, parmi lesquelles figurent les dépenses dues en contrepartie de la photocopie d'oeuvres protégées, incombait aux communes, au titre des dépenses obligatoires, conformément aux dispositions de l'article L. 212-5 du code de l'éducation. L'Etat n'a à sa charge, conformément à l'article L. 211-8 du même code, que les rémunérations du personnel enseignant des écoles élémentaires et maternelles. Dès lors, il appartient aux communes et non à l'Etat de mettre en place les dispositions permettant la reproduction par reprographie d'oeuvres protégées dans les écoles et d'en supporter la charge financière. Une circulaire conjointe du ministre de l'intérieur, de la sécurité intérieure et des libertés locales et du ministre de la jeunesse, de l'éducation nationale et de la recherche, destinée aux communes, est en cours d'élaboration.
