@@ -1,68 +1,118 @@
 # Article ANNEXE III
 
-I. - Le programme de la deuxième épreuve d'admission
+I. - Pour la spécialité administration générale
 
-(finances publiques) du concours externe est fixé comme suit
+Finances publiques
 
-Le problème des finances publiques, ses aspects politiques, économiques et sociaux, ses rapports avec le Plan.
+Principes généraux et budget de l'Etat
 
-Le budget de l'Etat : les aspects politiques et économiques du budget de l'Etat : les principes traditionnels du droit budgétaire et leurs adaptations.
+A. - Aspects généraux :
 
-Les ressources publiques : fiscalité et prélèvements sociaux (répartition, évolution, mécanisme), les dépenses publiques, nature et portée des autorisations budgétaires. La préparation du budget. La loi de finances de l'année et les lois de finances rectificatives.
+Les aspects politiques et économiques du budget de l'Etat ;
 
-L'exécution du budget. Les principes généraux de la comptabilité publique, les agents d'exécution du budget : ordonnateurs et comptables ; la période d'exécution du budget.
+Les principes traditionnels du droit budgétaire et leurs adaptations ;
 
-La procédure d'exécution des dépenses ; engagement, constatation du service fait, liquidation, ordonnancement, paiement.
+Les ressources publiques : fiscalité et prélèvements sociaux (répartition, évolution, mécanisme) ;
 
-Le contrôle financier de responsabilité des ordonnateurs et des comptables.
+Les dépenses publiques, nature et portée des autorisations budgétaires.
 
-Le contrôle de l'exécution du budget. Caractères généraux du contrôle, les contrôles administratifs. Les contrôles juridictionnels : la Cour des comptes, la Cour de discipline budgétaire. Le contrôle parlementaire, la loi de règlement du budget.
+B. - La préparation du budget :
 
-Le Trésor public : organisation actuelle, attributions et rôle. Crédits publics.
+La préparation du projet de loi de finances ;
 
-Les finances locales.
+Le vote du budget ;
 
-Ressources et dépenses des collectivités territoriales ; le budget des collectivités territoriales, principes généraux : annualité, universalité et équilibre.
+Les lois de finances initiale, rectificative et de règlement.
 
-Elaboration exécutive et contrôle du budget des collectivités territoriales : les chambres régionales des comptes.
+C. - L'exécution du budget :
 
-Aspect économique et social du budget des collectivités territoriales.
+Les principes généraux de la comptabilité publique, les agents d'exécution du budget (ordonnateurs et comptables), la période d'exécution du budget ;
 
-Notions sommaires sur le décret n° 62-1587 du 29 décembre 1962 portant règlement de la comptabilité publique.
+La procédure d'exécution des dépenses ;
 
-CONCOURS INTERNE
+La responsabilité des ordonnateurs et des comptables.
 
-I. - Finances publiques, se référer au programme
+D. - Le contrôle de l'exécution du budget :
 
-de la deuxième épreuve d'admission du concours externe
+Les caractères généraux du contrôle ;
 
-II. - Droit civil
+Les contrôles administratifs ;
 
-1. Les personnes physiques : nom, domicile
+Les contrôles juridictionnels : la Cour des comptes, la Cour de discipline budgétaire et financière ;
 
-La personnalité morale des personnes morales de droit privé :
+Le contrôle parlementaire.
 
-sociétés, associations, fondations.
+Les finances locales
 
-2. La formation du mariage et le divorce
+A. - Les budgets locaux :
 
-Les devoirs et les droits respectifs des époux (art. 212 à 226 du code civil).
+Principaux généraux ;
 
-Les mineurs : l'autorité parentale, l'administration légale et la tutelle.
+Le budget primitif, les décisions modificatives, le compte administratif ;
 
-Les régimes de protection des incapables majeurs.
+Préparation et vote des budgets locaux ;
 
-3. Propriété et possession
+Notions sur le plan comptable général : classification, codification, contenu ;
 
-L'usufruit ; les servitudes.
+Notions sur les instructions budgétaires et comptables applicables aux collectivités locales ;
 
-Les constructions sur le terrain d'autrui.
+L'exécution des budgets locaux ;
 
-La copropriété des immeubles divisés par appartements.
+Le comptable public ;
 
-La règle " en fait de meubles ... ".
+Le contrôle des budgets locaux : organe délibérant ; contrôles des services préfectoraux ; les chambres régionales des comptes.
 
-4. Les obligations
+B. - Les ressources locales :
+
+Les ressources fiscales ;
+
+Les transferts de l'Etat ;
+
+Les emprunts et les revenus ;
+
+La tarification des services locaux.
+
+C. - Les dépenses locales.
+
+D. - La trésorerie des collectivités locales : la gestion de la dette.
+
+E. - Les transferts de compétences et leur compensation financière.
+
+Droit civil
+
+Les personnes :
+
+- les personnes physiques : nom, domicile ;
+
+- la situation juridique des personnes physiques ;
+
+- la personnalité morale et les personnes morales de droit privé :
+
+sociétés, associations, fondations ;
+
+- les règles de capacité et d'incapacité.
+
+Le mariage, la filiation, le divorce :
+
+- le mariage : les conditions, les devoirs et les droits respectifs des époux ;
+
+- la filiation : la filiation légitime, filiation naturelle, l'adoption ;
+
+- le divorce : causes, conséquences, procédure ;
+
+- les mineurs : l'autorité parentale, l'administration légale et la tutelle ;
+
+- les régimes de protection des incapables majeurs.
+
+La propriété et la possession :
+
+- la propriété des immeubles et des meubles ;
+
+- l'usufruit : les servitudes ;
+
+- la copropriété.
+
+Les obligations :
 
 Le contrat, en son entier, et notamment :
 
@@ -80,126 +130,278 @@ Le contrat, en son entier, et notamment :
 
 - la responsabilité civile (art. 1382 à 1386 du code civil) ;
 
-- gestion d'affaires et enrichissement sans cause.
+- gestion d'affaires et enrichissement sans cause ;
 
-5. La vente immobilière
+- contrats spéciaux : la vente immobilière, les principes généraux de la publicité foncière.
 
-Les principes généraux de la publicité foncière.
+Droit de l'urbanisme
 
-III. - Droit de l'urbanisme
+Le domaine :
 
-" 1. Le domaine :
+Le domaine public :
 
-" Le domaine public :
+- l'étendue du domaine public (constitution, composition, voisinage) ;
 
-" - l'étendue du domaine public (constitution, composition, voisinage) ;
+- la gestion du domaine public (inaliénabilité, imprescriptibilité, entretien, conservation, utilisation).
 
-" - la gestion du domaine public (inaliénabilité, imprescriptibilité, entretien, conservation, utilisation).
+Le domaine privé :
 
-" Le domaine privé :
+- l'étendue du domaine privé (composition, constitution, aliénation) ;
 
-" - l'étendue du domaine privé (composition, constitution, aliénation) ;
+- la gestion du domaine privé (utilisation, problème du régime juridique applicable).
 
-" - la gestion du domaine privé (utilisation, problème du régime juridique applicable).
+Les travaux publics :
 
-" 2. Les travaux publics :
+La notion de travail public (critères et applications) ;
 
-" La notion de travail public (critères et applications) ;
+Les modes de réalisation des travaux publics (marché de travaux publics, régie, concession, autorisation unilatérale, offre de concours) ;
 
-" Les modes de réalisation des travaux publics (marché de travaux publics, régie, concession, autorisation unilatérale, offre de concours).
+Le régime juridique des travaux publics.
 
-" Le régime juridique des travaux publics.
+L'urbanisme :
 
-" 3. L'urbanisme :
+Les documents prévisionnels ;
 
-" Les documents prévisionnels ;
+Les opérations d'urbanisme ;
 
-" Les opérations d'urbanisme ;
+Le permis de construire et les règles de construction ;
 
-" Le permis de construire et les règles de construction ;
+L'expropriation pour cause d'utilité publique.
 
-" L'expropriation pour cause d'utilité publique.
+L'aménagement du territoire et la législation relative à l'environnement :
 
-" 4. L'aménagement du territoire et la législation relative à l'environnement : notions générales. "
+Notions générales.
 
-IV. - Gestion administrative
+L'habitat, la politique de la ville et le développement social urbain :
 
-1. Les organisations et leur gestion
+Notions générales.
 
-Les organisations en tant que système : typologie des organisations en fonction de leurs finalités, leur structure, leurs relations avec l'environnement, leurs modes de gestion, leur dimension humaine et sociologique.
+Gestion administrative
 
-La gestion en tant qu'ensemble complexe comprenant la formulation des objectifs, la prise en compte des contraintes, l'élaboration d'une solution, la définition des moyens et procédés, la planification de l'action, le suivi de l'exécution.
+Les organisations et leur gestion :
 
-La gestion et le travail administratif : traitement et utilisation de l'information en vue de la décision.
+Les organisations en tant que système : typologie des organisations en fonction de leurs finalités, leur structure, leurs relations avec l'environnement, leurs modes de gestion, leur dimension humaine et sociologique ;
 
-L'introduction des nouvelles méthodes de gestion : aspects psychologiques et humains.
+La gestion et le travail administratif : traitement et utilisation de l'information en vue de la décision ;
 
-L'organisation des services ; l'information des personnels et des partenaires internes et externes.
+L'introduction des nouvelles méthodes de gestion : aspects psychologiques et humains ;
 
-2. Les méthodes du traitement administratif
+L'organisation des services : l'information des personnels et des partenaires internes et externes.
 
-La notion d'information : nature, structure, représentation.
+Les méthodes du traitement administratif :
 
-La gestion des informations : saisie, collecte, traitement, diffusion.
+La notion d'information : nature, structure, représentation ;
 
-Les supports d'information : étude comparative.
+La gestion des informations : saisie, collecte, traitement, diffusion ;
 
-La mise en ordre des informations : définition, conception, organisation, utilisation et archivage des fichiers.
+Les supports d'information : étude comparative ;
 
-Le mode de traitement des informations : traitement manuel, mécanisé, automatisé. Conséquence du choix sur l'organisation du travail administratif.
+La mise en ordre des informations : définition, conception, organisation, utilisation et archivage des fichiers ;
+
+Le mode de traitement des informations : traitement manuel, mécanisé, automatisé. Conséquence du choix sur l'organisation du travail administratif ;
 
 L'automatisation des traitements de données et les libertés individuelles.
 
-3. Systèmes et techniques d'information et de communication
+Systèmes et techniques d'information et de communication :
 
-Les circuits d'information : le flux d'information, l'organisation et la conception des réseaux. Analyse critique des processus.
+Les circuits d'information : le flux d'information, l'organisation et la conception des réseaux. Analyse critique des processus ;
 
 L'information des destinataires : l'adaptation de l'information à la qualité des destinataires en volume, délai, mode de présentation.
 
-4. L'optimisation du travail administratif
+L'optimisation du travail administratif :
 
-Ordonnancement des tâches.
+Ordonnancement des tâches ;
 
-Détermination des coûts administratifs et leur minimisation.
+Détermination des coûts administratifs et leur minimisation ;
 
 Contrôle du travail administratif.
 
-EPREUVES FACULTATIVES COMMUNES AUX CONCOURS EXTERNE ET INTERNE
+II. - Pour la spécialité Gestion
 
-I. - Epreuve facultative d'exercices physiques commune aux concours externe et interne ".
+du secteur sanitaire et social
 
-L'épreuve d'exercices physiques des concours externe et interne comprend quatre options, au choix des candidats :
+Institutions sociales et droit social
 
-Première option
+L'organisation de la protection sociale :
 
-Natation : 50 mètres nage libre, départ plongé ; lancer du poids (6 kg pour les hommes, 4 kg pour les femmes) ; saut en hauteur.
+Notions sur les administrations et les juridictions intervenant dans les domaines des relations du travail, de l'emploi, de la protection sociale et de la santé. Les structures de l'aide et de la protection sociales dans la commune et le département.
 
-Deuxième option
+L'organisation de la sécurité sociale :
 
-Natation : 50 mètres, nage libre, départ plongé ; lancer du poids (6 kg pour les hommes, 4 kg pour les femmes) ; course de vitesse (100 mètres pour les hommes, 60 mètres pour les femmes).
+Le système français de sécurité sociale (régime général, régimes spéciaux et autonomes) ; principes essentiels, organisation, évolution, principaux types de prestations, financement, problèmes résultant de la multiplicité des régimes.
 
-Troisième option
+Notions sur les autres grands systèmes de protection sociale :
 
-Natation : 50 mètres nage libre, départ plongé ; saut en longueur ; lancer du poids (6 kg pour les hommes, 4 kg pour les femmes).
+Régimes complémentaires, mutualité, assurance chômage.
 
-Quatrième option
+L'organisation de l'aide sociale :
 
-Course de résistance (1 000 mètres pour les hommes, 300 mètres pour les femmes) ; saut en longueur ; lancer du poids (6 kg pour les hommes, 4 kg pour les femmes).
+L'aide sociale légale, l'aide sociale complémentaire ; le rôle de l'Etat et des collectivités territoriales ;
 
-Les candidats font connaître l'option choisie au moment des inscriptions.
+Les structures de l'aide et de la protection sociales dans les communes et les départements.
 
-La notation des épreuves est assurée par un groupe d'examinateurs spécialisés placés sous l'autorité d'un membre du jury, président.
+Notions de démographie :
 
-L'ordre de passage des candidats dans les différents exercices est fixé à la discrétion du président en fonction des nécessités de l'organisation.
+Les données élémentaires de la démographie française, la politique de la population et des migrations.
 
-Si, par suite des conditions atmosphériques, les installations sportives sont impraticables, certains des exercices ci-dessus indiqués peuvent être reportés par décision du président.
+Institutions sanitaires et droit de la santé
 
-Les barèmes de notation des épreuves, distincts pour les hommes et les femmes, figurent sur les tableaux ci-après.
+L'organisation de la santé :
 
-Pour chacun des exercices, tout résultat se situant entre deux échelles de mesure sera systématiquement arrondi à l'unité inférieure.
+Notions sur les administrations et les institutions intervenant dans le domaine de la santé : les structures de l'administration centrale, de l'administration d'Etat déconcentrée et des administrations publiques décentralisées ; les ordres professionnels ; les personnes de droit privé susceptibles de concourir au service public de la santé.
 
-Une bonification d'un point est attribuée à chaque candidat par année d'âge au-delà de vingt-sept ans (âge apprécié au 1er janvier de l'année du concours). Cette bonification est ajoutée au total général obtenu à l'issue des différents exercices et avant calcul de la moyenne.
+Le système hospitalier :
 
-La note attribuée est constituée par la moyenne des notes obtenues aux différents exercices, arrondie au demi-point le plus proche.
+Le service public hospitalier, les établissements d'hospitalisation publics, les personnels des établissements de soins publics ; le régime administratif et financier des établissements d'hospitalisation publics ; les établissements d'hospitalisation privés.
 
-Si un candidat, pour quelque cause que ce soit ne peut effectuer la totalité des exercices prévus, la note qui lui est attribuée à la fin de l'épreuve est calculée en divisant par le nombre total des exercices prévus la somme des notes obtenues par lui, à chacun des exercices qu'il a effectués.
+La protection de la santé publique :
+
+Techniques et politiques de protection ; le régime juridique des soins médicaux ; le régime juridique des médicaments.
+
+Economie sanitaire et sociale
+
+et grandes politiques sociales
+
+Les sujets de l'économie sanitaire et sociale :
+
+Les familles ; les professions et les catégories socioprofessionnelles ; les populations cibles.
+
+Budget et comptabilité en matière sanitaire et sociale :
+
+Plan comptable ; comptabilité analytique ; budget principal et budgets annexes ; indicateurs.
+
+Les grandes politiques sociales :
+
+La politique de l'emploi, le marché de l'emploi, la lutte contre le chômage. Les accidents du travail : prévention et réparation ;
+
+La politique de formation, de perfectionnement et de promotion ;
+
+La politique de l'enfance et de la famille, la politique de la santé, le service public hospitalier, la politique de la vieillesse.
+
+III. - Pour la spécialité Analyste
+
+Généralités : l'informatique dans l'organisation administrative. L'introduction des nouvelles technologies dans les méthodes de gestion administrative.
+
+Connaissances de base :
+
+A. - Représentation de l'information : notion de bit, octet, mot, codages, représentation alphanumérique ;
+
+B. - Les opérations élémentaires ;
+
+C. - Les supports de l'information : les supports imprimés et leur conception ; les magnétiques : disques, bandes, etc., autres supports ;
+
+D. - Les différents moyens de saisie des données ;
+
+E. - Diffusion et exploitation des résultats après traitement.
+
+Systèmes informatiques :
+
+A. - Organisation informatique : centralisée, départementale, répartie ;
+
+B. - L'informatique lourde : les matériels (unités centrales, canaux, périphériques et frontaux) ; les logiciels : systèmes d'exploitation, utilitaires, application des utilisateurs ; les langages ; les modes d'exploitation : temps réel, par lots, monoprogrammation, multiprogrammation ;
+
+C. - La bureautique : mini et micro-ordinateurs, matériels périphériques ; les logiciels : système d'exploitation, progiciels spécialisés ou intégrés ; leur utilisation ;
+
+D. - La télématique : notions générales : les réseaux, les terminaux ;
+
+E. - Sécurité des systèmes informatiques ;
+
+F. - Internet.
+
+Notions générales sur le droit de l'informatique :
+
+Principes généraux du droit du logiciel ;
+
+Informatique et libertés ;
+
+L'accès aux documents administratifs.
+
+IV. - Pour la spécialité Animation
+
+Psychologie sociale
+
+La conduite et le comportement.
+
+Psychosociologie du comportement affectif, de la perception, de l'intelligence, du langage.
+
+Normes et valeurs.
+
+Statut et rôles.
+
+Attitudes et opinions.
+
+Motivations.
+
+Caractère et personnalité.
+
+La personnalité de base.
+
+Relations interpersonnelles.
+
+Les difficultés d'insertion. Les facteurs de marginalisation.
+
+Les interactions : coopérations, conflit, agression, négociation.
+
+Interaction et discussion.
+
+Interaction et jeu.
+
+Interaction et échange.
+
+La créativité.
+
+Société globale, assemblées, groupes restreints.
+
+La discussion de groupe : directivité et non-directivité.
+
+La dynamique des groupes.
+
+Les communications dans les groupes et entre les groupes.
+
+L'insertion des groupes dans la société.
+
+Les phénomènes de marginalisation des groupes et leur prévention.
+
+L'information et les communications.
+
+Les mass media ; la propagande.
+
+Environnement juridique,
+
+social et culturel de l'animation
+
+Données essentielles de la législation et de la réglementation spécifiques aux secteurs des loisirs, du travail social et en matière de protection des mineurs.
+
+Notions essentielles concernant les politiques publiques et, notamment, l'intervention des collectivités territoriales et de leurs partenaires publics et privés, dans les secteurs périscolaire, de la culture, de la jeunesse, de l'animation des quartiers, du développement social urbain, du développement des territoires, du développement rural et de l'insertion.
+
+Notions générales sur les politiques sectorielles relatives à l'éducation, au logement, à la sécurité, à la prévention, à l'environnement, aux transports et au développement culturel.
+
+Les politiques d'aide à l'emploi, et notamment à l'emploi des jeunes.
+
+Approche des phénomènes urbains et politique de la ville :
+
+a) Approche sociologique :
+
+Histoire des mouvements sociaux ;
+
+Les rapports sociaux dans la ville : exclusion ; intégration.
+
+b) Approche géographique et urbanistique :
+
+Démographie : évolution de la population urbaine ;
+
+Les villes contemporaines : organisation et fonctions ;
+
+Politiques d'urbanisme et tendances actuelles de l'urbanisation.
+
+c) Approche globale :
+
+La notion de développement local ;
+
+Le développement social urbain ;
+
+Les tendances actuelles des politiques culturelles et sociales dans l'approche des phénomènes urbains.
+
+d) Les acteurs de la ville :
+
+L'Etat, les collectivités locales, les mouvements associatifs, les entreprises, les habitants ; organisation, rôle et stratégies.
