@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930124480
+
+- Question : [SEQ930124480](seq930124480.md) — Agents du ministère des affaires étrangères recrutés au concours de chancellerie
+
+## Réponse
+
+*Affaires étrangères, JO du 1993-03-29, page 562*
+
+Réponse. - Instituée par les décrets du 18 juillet 1990, la double vocation donne en effet désormais aux fonctionnaires du ministère des affaires étrangères la possibilité statutaire de servir aussi bien à l'étranger qu'à l'administration centrale dans le cadre de la procédure normale d'affectation. Sans modifier la vocation principale des deux cadres, liée aux caractéristiques de leur recrutement, la double vocation est donc un élément de souplesse qui met fin au cloisonnement artificiel qui existait encore entre les corps alors que leur missions, loin d'être exclusives, sont profondément complémentaires. En outre, cette disposition n'est en aucune façon contraire aux dispositions du décret n° 71-453 du 7 juin 1971 relatif au statut particulier des agents du cadre de chancellerie, lequel stipule dans son article 11 que ces fonctionnaires peuvent, dans l'intérêt du service, être affectés à l'administration centrale. Si sa portée est générale, sa mise en pratique est progressive et différenciée. Elle tient naturellement compte de la situation particulière de chaque agent quant à ces aspects à la fois personnel et professionnel. Sont ainsi systématiquement affectés à Paris ou à Nantes tous les nouveaux agents du département (lauréats, détachés...). Sont ainsi prioritairement invités à rentrer à l'administration centrale les agents totalisant le plus grand nombre d'années à l'étranger, ce principe étant modulé en fonction de leur âge. Enfin les agents appartenant à un corps de chancellerie ayant satisfait à cette nécessité de l'alternance peuvent à nouveau postuler pour un emploi à l'étranger, après un séjour minimum de deux ans à l'administration centrale.
