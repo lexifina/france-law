@@ -1,0 +1,9 @@
+# Réponse à la question SEQ041215216
+
+- Question : [SEQ041215216](seq041215216.md) — Promotion de l'utilisation des biocarburants
+
+## Réponse
+
+*Économie, JO du 2005-02-17, page 470*
+
+Dans le cadre de la loi de finances pour 2005, deux mesures destinées à augmenter le volume des biocarburants consommés en France ont été adoptées. La première consiste en une augmentation de 130 000 tonnes des volumes défiscalisés de biocarburants pour l'année 2005 (le nouveau total est donc de 728 500 tonnes). La seconde crée une nouvelle composante de la taxe générale sur les activités polluantes visant à inciter les opérateurs pétroliers à incorporer des biocarburants dans les carburants qu'ils commercialisent. Un article 266 quindéciès est ainsi inséré dans le code des douanes. Il prévoit que les opérateurs qui mettent à la consommation des essences et du gazole sont redevables de cette taxe s'ils n'incorporent pas un minimum de biocarburants dans ces produits. En outre, deux mesures destinées à créer un cadre réglementaire favorable au développement des biocarburants ont été votées. La loi de finances pour 2005 prévoit ainsi, qu'à partir du 1er janvier, un opérateur, propriétaire de plusieurs unités agréées de production de biocarburant, sera autorisé à mutualiser les agréments dont il dispose. Grâce à cette mesure de simplification, il pourra mener une gestion globale des agréments accordés à ses différentes unités de production. Enfin, la loi de finances rectificative pour 2004 crée un entrepôt fiscal de produits énergétiques destiné au stockage et à la production de biocarburant en suspension d'accise. Cette mesure était indispensable pour mettre la réglementation nationale relative aux biocarburants en conformité avec la législation communautaire, et assurer ainsi le développement durable de cette filière. Elle permet, en outre, la circulation intracommunautaire en régime fiscal suspensif des biocarburants.
