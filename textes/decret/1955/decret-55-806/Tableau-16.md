@@ -1,51 +1,51 @@
 # Article Tableau 16
 
-DESIGNATION DES MALADIES -A-
+- A -
 
-Tuberculose cutanée ou sous-cutanée
+DÉSIGNATION DES MALADIES
 
-DELAI de prise en charge : 6 mois
+Affections dues à Mycobacterium bovis :
 
-Tuberculose ganglionnaire
+- tuberculose cutanée ou sous-cutanée ;
 
-DELAI de prise en charge : 6 mois
+DÉLAI de prise en charge : 6 mois
 
-Synovite
+- tuberculose ganglionnaire ;
 
-DELAI de prise en charge : 1 an
+DÉLAI de prise en charge : 6 mois
 
-Ostéoarthrite
+- synovite, ostéo-arthrite ;
 
-(Pour les synovites et les ostéoarthrites, la nature tuberculeuse des lésions devra, dans tous les cas, être confirmée par des examens bactériologiques ou anatomo-pathologiques).
+DÉLAI de prise en charge : 1 an
 
-DELAI de prise en charge : A : 1 an.
+- autres localisations.
 
-TRAVAUX SUSCEPTIBLES DE PROVOQUER LA MALADIE
+DÉLAI de prise en charge : 6 mois
 
-Travaux concernant l'abattage, la transformation et la vente du bétail et des viandes.
+A défaut des preuves bactériologiques, le diagnostic devra s'appuyer sur des examens anatomopathologiques ou d'imagerie ou, à défaut, par traitement d'épreuve spécifique.
 
-Travaux effectués dans les entreprises d'équarissage.
+LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES
 
-Manipulation et traitement du sang, des glandes, des os, des cornes, des cuirs verts.
+de provoquer ces maladies
 
-Soins vétérinaires.
+Travaux susceptibles de mettre en contact avec des animaux porteurs de bacilles bovins ou exécutés dans des installations où ont séjourné de tels animaux.
 
-Travaux de laboratoires de biologie.
+Travaux exécutés dans les abattoirs, les boucheries, les charcuteries, les triperies ou boyauderies, les entreprises d'équarrissage.
 
-Travaux susceptibles de mettre en contact avec des animaux porteurs de bacilles tuberculeux ou exécutés dans des installations où ont séjourné de tels animaux.
+Manipulation ou traitement du sang, des glandes, des os, des cornes, des cuirs verts.
 
-DESIGNATION DES MALADIES -B-
+- B -
 
-Tuberculose pleurale
+DÉSIGNATION DES MALADIES
 
-DELAI de prise en charge : 6 mois
+Affections cutanées dues à Mycobacterium marinum et forfuitum :
 
-Tuberculose pulmonaire
+Infection cutanée granulomateuse ulcéreuse prolongée dont l'étiologie doit être confirmée par des examens bactériologiques.
 
-DELAI de prise en charge : 6 mois.
+DÉLAI de prise en charge : 30 jours
 
-TRAVAUX SUSCEPTIBLES DE PROVOQUER LA MALADIE.
+LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES
 
-Travaux de laboratoire de bactériologie.
+de provoquer ces maladies
 
-Travaux susceptibles de mettre en contact avec des animaux porteurs de bacilles tuberculeux ou exécutés dans des installations où ont séjourné de tels animaux.
+Travaux en milieu aquatique mettant en contact avec des eaux contaminées.
