@@ -14,4 +14,4 @@ En outre, les dispositions restrictives ci-dessus ne s'appliquent pas aux produi
 
 B. - Mélanges contenant des produits du tableau 3 :
 
-Pour tous les mélanges contenant un produit du tableau 3, le seuil de concentration de ce produit au-dessus duquel sont soumises à autorisation toutes opérations d'exportation, de commerce et de courtage à destination d'un Etat non partie est fixé à 10 %.
+Pour tous les mélanges contenant un produit du tableau 3, le seuil de concentration de ce produit au-dessus duquel sont soumises à autorisation toutes opérations d'exportation, de commerce et de courtage à destination d'un Etat non partie est fixé à 30 %.
