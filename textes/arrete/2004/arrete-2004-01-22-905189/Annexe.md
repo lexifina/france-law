@@ -6,10 +6,6 @@ A. - TAXE POUR LE DÉVELOPPEMENT DES INDUSTRIES
 
 DE L'AMEUBLEMENT
 
-A-I. - Produits, activités et prestations
-
-relevant du centre technique du bois et de l'ameublement
-
 Classe 20.51. Pour les produits désignés ci-après :
 
 20.51.14. Autres ouvrages en bois pour les cercueils, cadres en bois, enceintes acoustiques en bois, cages d'horlogerie.
@@ -51,10 +47,6 @@ Classe 36.14. Autres meubles et services associés, pour les postes :
 Classe 36.50. Jeux et jouets et services associés pour le poste :
 
 36.50.43. Pour les tables de billard et autres meubles pour jeux.
-
-A-II. - Produits, activités et prestations
-
-relevant du centre technique des industries mécaniques
 
 36.14.11. Meubles métalliques divers.
 
@@ -378,7 +370,7 @@ Les chaudières à fluide caloporteur liquide fonctionnant à une température s
 
 - de chaudronnerie et de tuyauterie industrielle ;
 
-- de tôlerie et de mécano-soudure,
+- de tôlerie forte et de mécano-soudure,
 
 à l'exclusion :
 
@@ -402,13 +394,21 @@ Les chaudières à fluide caloporteur liquide fonctionnant à une température s
 
 - du vernissage, du laquage, de la peinture à façon et de la plastification.
 
-28.52.20. Opérations de mécanique générale, pour les façons et les produits de l'usinage par enlèvement de métal quel que soit le procédé, y compris :
+28.52.20 Opérations de mécanique générale pour :
+
+- les façons et les produits de l'usinage par l'enlèvement de métal quel que soit le procédé ;
+
+- l'affûtage des outils pour machine ;
+
+- la reconstruction des moteurs thermiques autres que pour automobiles ;
+
+- la reconstruction ou réparation de machines ou équipements, pour le compte de tiers, n'impliquant pas, normalement, les services du constructeur,
+
+y compris :
 
 - les opérations d'usinage de matériaux non métalliques ou composites ;
 
-- la sous-traitance,
-
-à l'exclusion des opérations de montage et démontage dans le cadre de l'entretien.
+- la sous-traitance.
 
 28.61. Articles de coutellerie, à l'exclusion :
 
@@ -428,7 +428,7 @@ Les chaudières à fluide caloporteur liquide fonctionnant à une température s
 
 - des articles de bouchage et de surbouchage.
 
-28.73.1. Articles en fil métallique, pour aiguilles, petites fournitures métalliques diverses et articles en fil, à l'exclusion des produits mentionnés au paragraphe E-II.
+28.73.1. Articles en fil métallique, pour aiguilles, épingles et articles en fil sur plans ou modèles, à l'exclusion des produits mentionnés au paragraphe E-II.
 
 28.74. Vis, boulons, chaînes et ressorts, y compris tous les articles de fixation mécanique, à l'exclusion des produits mentionnés au paragraphe E-III.
 
@@ -626,11 +626,11 @@ Les chaudières à fluide caloporteur liquide fonctionnant à une température s
 
 31.62.12. Electroaimants et aimants permanents, pour accouplements, embrayages, variateurs de vitesse, paliers électromagnétiques, freins électromagnétiques ainsi que plateaux, mandrins et dispositifs électromagnétiques similaires.
 
-31.62.13. Appareillage électrique spécialisé, pour les machines et matériels de revêtements électrolytiques des pièces métalliques.
+31.62.13. Appareillage électrique spécialisé, pour les machines et matériels de revêtements électrolytiques.
 
-31.10.13. Matériels dentaires.
+33.10.13. Matériels dentaires.
 
-31.10.14. Stérilisateurs médicaux.
+33.10.14. Stérilisateurs médicaux.
 
 33.10.15. Appareils médicaux divers, notamment ciseaux, seringues, bistouris électriques ou non, pinces hémostatiques, instruments tranchants divers, incubateurs pour prématurés et appareils de dialyse et de circulation sanguine extra-corporelle.
 
@@ -796,7 +796,7 @@ du centre technique industriel de la construction métallique
 
 - les portes flottantes, bateaux-portes, docks flottants, ponts-bateaux ;
 
-- les barges et caissons à ossature en poutrelles métalliques.
+- les barges ou caissons ou pontons, à ossature métallique.
 
 E-V. - Produits, activités et prestations relevant
 
@@ -878,7 +878,7 @@ y compris :
 
 - les systèmes d'aspiration centralisée industriels, tertiaires ou domestiques ;
 
-- les matériels montés sur site.
+- les matériels assemblés sur site.
 
 29.23.2. Appareils de ventilation non domestique, pour les ventilateurs industriels et plus généralement tous les appareils comportant ou non des organes mobiles, ayant pour but de mettre en mouvement des gaz, et en particulier de l'air, dans le domaine des basses pressions, quels que soient les matériaux de contruction, à l'exclusion de tous appareils générant une pression supérieure à 30 000 Pa.
 
@@ -943,3 +943,7 @@ et de recherches de l'industrie du béton
 F-II. - Produits relevant du centre technique
 
 des tuiles et briques
+
+Vous pouvez consulter le tableau dans le JO
+
+n° 62 du 13/03/2004 page 4945 à 4951
