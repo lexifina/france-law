@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990718132
+
+- Question : [SEQ990718132](seq990718132.md) — Promotion de la construction de bâtiments " bioclimatiques "
+
+## Réponse
+
+*Logement, JO du 1999-10-07, page 3315*
+
+Réponse. - Comme le souligne l'honorable parlementaire, la limitation de l'émission de gaz à effet de serre passe en premier lieu par la réduction des besoins énergétiques grâce à une conception des bâtiments économe en énergie. Les principes du " bioclimatisme " permettent cette conception économe en énergie et vont dans le sens d'une architecture locale en harmonie avec l'environnement ; il est souhaitable qu'ils soient bien connus et appliqués. C'est ainsi qu'un projet de nouvelle réglementation thermique est en préparation, les travaux préalables à son élaboration prennent en compte cette démarche. D'autre part, le thème de la qualité environnementale des bâtiments va être développé dans le secteur pilote d'initiative régionale mis en uvre au travers de la politique technique du logement. Il permettra de faire fructifier les enseignements des recherches menées par le plan Urbanisme, construction et architecture. Cette approche, plus large et plus ambitieuse que le " bioclimatisme ", tire pleinement parti de ses apports. Un document d'information et des outils méthodologiques seront mis à la disposition des acteurs de la filière de construction pour le montage, le suivi et l'évaluation d'opérations de référence. Les résultats feront l'objet d'une information des services déconcentrés du ministère de l'équipement, des transports et du logement et d'une campagne de communication, notamment auprès des concepteurs, de leurs organisations professionnelles et des organismes de conseil et de formation. Cette action sera menée en concertation avec le ministère de la culture et de la communication, qui exerce la tutelle de l'architecture, et de l'Agence de l'environnement et de la maîtrise de l'énergie.
