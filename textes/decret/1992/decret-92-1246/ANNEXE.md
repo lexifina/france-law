@@ -19,3 +19,7 @@ Conseillers d'orientation - psychologues et directeurs de centre d'information e
 professeurs de lycée professionnel (décret n° 92-1189 du 6 novembre 1992) ;
 
 Personnels d'enseignement supérieur : professeurs, professeurs techniques adjoints et chefs de travaux pratiques de l'Ecole nationale supérieure d'arts et métiers (décret n° 88-651 du 6 mai 1988 modifié).
+
+PERSONNELS DE SANTÉ
+
+Médecins de l'éducation nationale (décret n° 91-1195 du 27 novembre 1991).
