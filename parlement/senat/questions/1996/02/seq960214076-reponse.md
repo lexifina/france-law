@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960214076
+
+- Question : [SEQ960214076](seq960214076.md) — Publicités mensongères sur les panneaux publicitaires bordant les routes
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 1996-05-02, page 1088*
+
+Réponse. - La loi du 29 décembre 1979 et ses décrets d'application relatifs à la publicité, aux enseignes et préenseignes réglementent les atteintes que toute publicité peut porter à l'environnement. Par ces dispositions, le législateur, soucieux d'assurer la sécurité routière, a clairement entendu interdire toute publicité sur l'emprise des voies ouvertes à la circulation publique, c'est-à-dire sur le domaine public longeant ces voies et sur les ouvrages surplombant celles-ci. En outre, dans l'intérêt de la sécurité routière, est interdite toute publicité de nature soit à réduire la visibilité ou l'efficacité des signaux réglementaires, soit à éblouir les usagers des voies publiques, soit à solliciter leur attention (décret no 76-148 du 11 février 1976). Par ailleurs, le régime applicable en matière de publicité trompeuse est de nature à répondre aux préoccupations de l'honorable parlementaire. En effet, l'annonceur de toute publicité mensongère ou trompeuse s'expose à un emprisonnement de deux ans et/ou une amende de 250 000 francs (art. L. 126-6, alinéa 1, du code de la consommation). Le montant maximum de l'amende peut être porté à 50 p. 100 des dépenses de la publicité constituant le délit. Le tribunal peut également prononcer une astreinte de 30 000 francs par jour en cas, notamment, de non-exécution des annonces rectificatives. Il demeure que la réglementation en vigueur devra faire l'objet d'une réflexion menée en collaboration avec le ministère de l'environnement dans la mesure où le respect de règles claires et adaptées est de nature à favoriser les conditions d'une concurrence loyale.
