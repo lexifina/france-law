@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030105466
+
+- Question : [SEQ030105466](seq030105466.md) — Réforme de l'aide médicale d'Etat
+
+## Réponse
+
+*Lutte contre la précarité, JO du 2003-05-22, page 1701*
+
+L'article 31-A de la loi de finances rectificative pour 2002, introduit par voie d'amendement parlementaire en décembre dernier, institue un ticket modérateur au titre de l'aide médicale d'Etat (AME). Cet article précise, dans son point IV, que l'entrée en vigueur des dispositions proposées sont conditionnées à la parution d'un décret d'application, signé par le Premier ministre. A la demande du Premier ministre, Mme la secrétaire d'Etat à la lutte contre la précarité et l'exclusion a pris en charge l'examen de ce dossier. Elle a reçu l'ensemble des associations qui interviennent sur ce secteur, et a analysé les conclusions d'un rapport, commandé à l'IGAS, afin de déterminer l'origine des dérives des dépenses, sources de l'inquiétude des parlementaires. Les premiers éléments de cette enquête ont révélé que l'accès à l'AME n'est pas contrôlé partout avec la même rigueur, et notamment en Ile-de-France qui représente 50 % des dépenses induites par l'AME. De plus, la délivrance de l'AME n'est pas gérée par la caisse d'assurance maladie, comme elle le devrait, mais déléguée à des antennes locales d'action sociale. De même, la plupart des justificatifs de domicile et de ressources sont remplacés par des déclaration sur l'honneur. Cette situation a vraisemblablement créé des abus, c'est pourquoi sur les recommandations de Mme la secrétaire d'Etat, le Premier ministre a décidé de surseoir à la signature du décret d'application et de repréciser le dispositif par voie de circulaire. L'objectif est d'observer pendant au moins un an le fonctionnement du dispositif dans des conditions de fonctionnement normalisées et d'en dresser un bilan.
