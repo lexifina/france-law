@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910314291
+
+- Question : [SEQ910314291](seq910314291.md) — Impact économico-financier de l'aéroport Roissy - Charles-de-Gaulle pour les communes du Val-d'Oise
+
+## Réponse
+
+*Économie, JO du 1992-08-27, page 1960*
+
+Réponse. - Près de 400 entreprises sont installées sur l'aéroport de Roissy - Charles-de-Gaulle et 37 000 personnes y sont employées. L'impact économique annuel de l'aéroport sur la région Ile-de-France peut être estimé par la masse salariale perçue par les employés (9 milliards de francs) et par les achats réalisés par les entreprises (7 milliards de francs). La part de cet impact sur les communes peut être appréciée en considérant qu'environ 15 p. 100 des employés de la plate-forme habitent le département du Val-d'Oise. On estime à 87 millions de francs la fiscalité locale (taxe professionnelle + taxe foncière) payés dans le département du Val-d'Oise par l'ensemble des entreprises présentes sur l'aéroport de Roissy - Charles-de-Gaulle avec une répartition de 39 millions de francs pour la commune, 30 millions de francs pour le département, 2,7 millions de francs pour la région, 15,3 millions de francs de péréquation et divers. Le nombre total des emplois de l'aéroport à l'horizon de son développement maximal potentiel (environ 80 millions de passagers sachant qu'il en a traité 22 millions en 1991) pourrait atteindre 100 000. Il est vraisemblable que le nombre d'employés de l'aéroport habitant le Val-d'Oise augmentera en proportion, voire davantage. Le renforcement des infrastructures ferroviaires et routières de rocade est prévu à l'avant-projet du schéma directeur de la région Ile-de-France. En renforçant les échanges avec le département du Val-d'Oise, ces infrastructures augmenteront la contribution de l'aéroport de Roissy - Charles-de-Gaulle à la vie économique du département.
