@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971104530
+
+- Question : [SEQ971104530](seq971104530.md) — Professeurs certifiés hors classe en retraite
+
+## Réponse
+
+*Éducation, JO du 1998-02-05, page 393*
+
+Réponse. - La transposition aux corps des professeurs certifiés du groupe sur la rénovation de la grille des classifications et des rémunérations s'est traduite par la création, dans la hors-classe de ce corps, d'un septième échelon doté de l'indice brut (IB 966) indice nouveau majoré (INM 780), à compter du 1er septembre 1996. Cet échelon est accessible aux enseignants en activité justifiant de trois ans au sixième échelon de la hors-classe (IB 901 et INM 731). L'article L. 16 du code des pensions civiles et militaires de retraite dispose qu'en cas de réforme statutaire, l'indice de traitement servant au calcul de la pension et fixé conformément à un tableau d'assimilation annexé au décret déterminant les modalités de cette réforme. Pour les personnels enseignants retraités ayant atteint le sixième échelon de la hors-classe du corps des professeurs certifiés, l'assimilation a été opérée sur la base de l'indice précédemment détenu. Toutefois, ces personnels retraités pourront bénéficier de la revalorisation dudit indice de 901 à 910 points bruts. L'obligation légale tenant en l'établissement d'un tableau d'assimilation n'emporte pas pour conséquence que les mesures indiciaires dont bénéficient, pour leur fin de carrière, les personnels en activité doivent être étendues aux personnels retraités de même corps ou grade. C'est dans ce cadre que le précédent Gouvernement a élaboré le décret no 97-565 du 30 mai 1997. Il n'est pas envisagé de revenir sur ces dispositions, dont les principes ont été également retenus pour d'autres corps de fonctionnaires, dans le cadre de la mise en oeuvre du protocole d'accord sur la rénovation de la grille des classifications et des rémunérations.
