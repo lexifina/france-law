@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981212837
+
+- Question : [SEQ981212837](seq981212837.md) — Projet de réforme des fonds structurels européens
+
+## Réponse
+
+*Aménagement du territoire, JO du 2000-03-16, page 951*
+
+Réponse. - La ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question concernant l'éligibilité du département du Gard à l'objectif 2 des fonds structurels. La Commission européenne, aux termes de l'article 4 du règlement communautaire portant dispositions générales pour la mise en uvre des fonds structurels, établit la liste des départements qui répondent aux critères d'éligibilité fixés par ce même article. Le département du Gard, qui ne remplit pas les conditions exigées, ne figure pas dans cette liste. Pour autant, cela ne signifie nullement qu'aucun territoire du Gard ne peut être éligible. En effet, la seule contrainte réglementaire est que, sur le plafond de population éligible dont bénéficie la France au titre de l'objectif 2, soit 18 678 000 habitants, 50 % au moins doivent être situés dans les départements admissibles. Ainsi, 50 % au plus, mais ce n'est pas négligeable, de la population éligible peut être située en dehors de ces départements admissibles. La proposition de zonage, présentée par le Gouvernement français à la Commission européenne le 18 novembre 1999, s'appuie sur les travaux conduits en région sous l'autorité des préfets de région après consultation des partenaires régionaux, notamment réunis au sein des conférences régionales d'aménagement et de développement du territoire (CRADT). La Commission a, dans sa réunion du 18 janvier 2000, pris, à l'égard de la France, une décision de principe en faveur du zonage objectif 2 qui comprend, pour le département du Gard, 307 741 habitants éligibles au titre de l'objectif 2 et 156 879 habitants éligibles au titre des zones en transition.
