@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910314509
+
+- Question : [SEQ910314509](seq910314509.md) — Motifs de l'absence de publication dans les territoires d'outre-mer du décret portant adaptation de certaines dispositions de la loi d'orientation sur l'éducation
+
+## Réponse
+
+*Éducation, JO du 1991-09-19, page 2019*
+
+Réponse. - La loi d'orientation sur l'éducation n° 89-486 du 10 juillet 1989 est applicable dans les territoires d'outre-mer et dans les collectivités territoriales de Mayotte et Saint-Pierre-et-Miquelon. Le décret n° 91-116 du 28 janvier 1991 porte adaptation de certaines de ses dispositions. La promulgation et la publication de ces textes dans le territoire de Polynésie française avaient été reportées dans l'attente de la publication de la charte territoriale sur l'éducation, sous réserve que celle-ci aboutisse rapidement. La charte n'étant pas encore adoptée, le haut-commissaire a procédé par arrêtés n° 627/DRCL ET 628/DRCL du 3 juillet 1991 à la promulgation de ces textes. Les arrêtés ont été publiés au Journal officiel de la Polynésie française. Les dispositions des articles 2 et 3 du décret n° 91-116 du 28 janvier 1991, relatives aux adaptations des programmes nationaux et au calendrier scolaire, ne concernent, en Polynésie française, que les enseignements post-baccalauréat assurés dans les lycées mais qui relèvent de la compétence de l'Etat. Le texte, visant expressément, conformément à l'avis émis par le Conseil d'Etat le 16 octobre 1990, la convention n° 88-003 du 31 mars 1988 sur l'éducation en Polynésie française, ne remet nullement en cause les compétences du territoire sur le premier et le second degré. Il appartient au vice-président d'établir pour ces classes un calendrier scolaire qui soit en harmonie avec celui fixé par le territoire pour le premier et le second degré.
