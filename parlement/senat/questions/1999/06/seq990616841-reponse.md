@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990616841
+
+- Question : [SEQ990616841](seq990616841.md) — Possibilités de réorientation des enseignants confrontés à des difficultés pédagogiques
+
+## Réponse
+
+*Éducation, JO du 1999-07-22, page 2500*
+
+Réponse. - D'une manière générale, et au même titre que l'ensemble des fonctionnaires, les enseignants qui souhaitent se reconvertir dans d'autres fonctions ou d'autres administrations que les leurs, peuvent bénéficier des dispositions offertes par le statut général des fonctionnaires, tels que les concours dits internes ou le détachement. Toutefois, si les difficultés rencontrées par les enseignants dans le cadre de leur activités sont telles qu'elles engendrent des troubles de santé, voire une inaptitude à exercer en classe, ces enseignants peuvent avoir recours à plusieurs dispositifs : la réadaptation et le réemploi, dispositifs propres à l'éducation nationale, le reclassement, procédure prévue par la loi nº 84-16 du 11 janvier 1984 et le décret nº 84-1051 du 30 novembre 1984, applicable à l'ensemble des fonctionnaires. Ces dernières dispositions ont pour objectif de permettre à un agent reconnu inapte à l'exercice de ses fonctions d'être reclassé dans un autre corps, soit par la voie du détachement, soit par concours, examen professionnel ou liste d'aptitude. Afin de renforcer ces mesures, le ministre de la fonction publique, de la réforme de l'Etat et de la décentralisation, étudie actuellement avec l'ensemble des administrations concernées, les modifications réglementaires qui pourraient y contribuer, ainsi que la possibilité d'organiser les passerelles utiles entre ces administrations. S'agissant du ministère de l'éducation nationale, de la recherche de la technologie, des stages organisés dans le cadre de la formation continue pourront contribuer à faciliter la reconversion des enseignants qui le souhaitent et favoriser ainsi, en tant que de besoin, leur départ vers d'autres administrations.
