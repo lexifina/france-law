@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930400397
+
+- Question : [SEQ930400397](seq930400397.md) — Réglementation relative aux plans de redressement et d'adaptation
+
+## Réponse
+
+*Agriculture, JO du 1993-07-22, page 1188*
+
+Réponse. - Le programme d'aide au revenu agricole a été mis en oeuvre par la France en 1990 et 1991. Cette aide, accordée dans le cadre d'un plan d'adaptation, est versée sous forme annuelle sur une période de cinq ans. Parallèlement la procédure " agriculteurs en difficulté " a permis d'aider les exploitations redressables. Il a ainsi été possible de prendre en charge, sous forme capitalisée, leurs frais financiers bancaires pendant une période maximale de trois ans et partiellement leurs cotisations sociales restées impayées. Par ailleurs, les exploitants, dont l'exploitation n'est pas viable, sont orientés en fonction de leur âge soit vers l'aide à la réinsertion professionnelle, soit vers la préretraite. Confermément à la réglementation nationale et communautaire, les intéressés ne peuvent bénéficier de plusieurs plans. Toutefois, les aides sont cumulables avec le fonds d'allégement des charges géré par le Crédit agricole. En ce qui concerne la poursuite de la procédure " agriculteurs en difficulté " en 1993, des enveloppes budgétaires limitatives ont été déléguées aux directeurs départementaux de l'agriculture et de la forêt pour financer la quatrième annuité du plan d'adaptation ovin et le plan de redressement. La troisième annuité du plan d'adaptation bovin sera financée au deuxième semestre, l'aide devant être attribuée à l'agriculteur à l'anniversaire de son plan. Il n'est toutefois pas prévu d'ouvrir à nouveau la procédure des plans d'adaptation, aucun programme d'aide au revenu agricole ne pouvant désormais être approuvé par la Commission des communautés européennes.
