@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980205934
+
+- Question : [SEQ980205934](seq980205934.md) — Placement des excédents de trésoreries de La Poste
+
+## Réponse
+
+*Économie, JO du 1998-04-09, page 1146*
+
+Réponse. - Le Gouvernement est interrogé sur les conséquences qui ont pu être tirées de la constatation de pertes financières exceptionnelles dans les comptes de l'exercice 1994 de La Poste suite à la gestion des excédents de trésorerie que l'établissement public avait dégagés. Dès le début de l'année 1995, le ministre de l'économie et des finances a été informé par La Poste de l'existence d'opérations de gestion de trésorerie comportant des risques financiers importants. Ces opérations résultaient de prises de positions effectuées dans des conditions de sécurité, de contrôle et de suivi insuffisantes. Une série de mesures internes de redressement a été décidée par la direction générale de La Poste, après consultation de ses tutelles et de son conseil d'administration. D'importants travaux d'audit et la consultation d'experts indépendants ont été réalisés en vue de définir un corpus réglementaire qui encadre strictement le champ des opérations de gestion de trésorerie possibles et qui détermine des procédures précises de remontée d'information et de contrôle des opérations effectuées. Un audit externe des positions prises par l'établissement public en matière de gestion de trésorerie est désormais régulièrement effectué. La gestion de la trésorerie fait à présent l'objet d'une information régulière du conseil d'administration et les tutelles portent sur cette activité une attention très vigilante compte tenu des risques qu'elle représente. Enfin, à partir de 1994, La Poste a affecté les excédents de trésorerie dont elle disposait au remboursement de sa dette à long et moyen terme : celle-ci a ainsi été ramenée de 36 milliards de francs à la fin de 1993 à 24,9 milliards de francs à la fin de 1997.
