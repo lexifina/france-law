@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030407019
+
+- Question : [SEQ030407019](seq030407019.md) — Amende infligée par la Commission européenne à six organisations syndicales agricoles
+
+## Réponse
+
+*Agriculture, JO du 2003-10-02, page 2963*
+
+La décision de la Commission européenne d'infliger une amende à six fédérations agricoles françaises pour avoir pris part à une " entente " conclue le 24 octobre 2001 et fixant un prix minimum " pour certaines catégories de viandes bovines " surprend par sa sévérité. Le niveau très élevé des amendes ne paraît pas tenir suffisamment compte de la réalité des faits et de leur contexte. En effet, dans le contexte de la crise de l'ESB qui a entraîné une très forte chute des cours, la réglementation communautaire avait limité l'accès à l'intervention, privant pour une bonne part le marché d'un instrument de régulation pourtant utile. La Commission reconnaît d'ailleurs elle-même que les mesures prises par ailleurs aux niveaux communautaire et national n'avaient, à l'époque, que très peu d'effet. Cette décision, qui intervient près de dix-huit mois après l'accord en cause, a perdu de vue l'ampleur de la crise et du traumatisme de la profession. Loin du contexte d'origine, sa pertinence semble, sur certains points, sujette à caution. C'est la raison pour laquelle le Gouvernement partage l'émotion du monde agricole et suit avec la plus grande attention les développements de ce dossier, et notamment des actions contentieuses que s'apprêtent à engager les organisations professionnelles agricoles. Cette décision illustre la nécessité que la réflexion engagée à Bruxelles sur l'avenir de la PAC prenne en compte le besoin d'instruments efficaces de gestion des crises conjoncturelles de marché.
