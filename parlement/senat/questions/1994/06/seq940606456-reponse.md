@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940606456
+
+- Question : [SEQ940606456](seq940606456.md) — Scolarisation d'enfants issus de communes rurales dans des communes urbaines
+
+## Réponse
+
+*Éducation, JO du 1994-07-14, page 1760*
+
+Réponse. - L'article 23 de la loi no 83-663 du 22 juillet 1983 modifiée a fixé le régime de participation financière des communes de résidence aux dépenses de fonctionnement afférentes à la scolarisation d'enfants originaires de ces communes dans une commune d'accueil. Le principe posé par ce texte est l'accord préalable du maire de la commune de résidence pour la scolarisation d'un enfant hors de sa commune lorsque celle-ci est pourvue des capacités d'accueil nécessaires. Toutefois, quelques dérogations à ce principe sont prévues afin de prendre en compte certaines situations familiales. Il en est ainsi, notamment, de l'inscription d'un frère ou d'une soeur la même année scolaire dans la commune d'accueil qui justifie, dans les conditions fixées par le décret no 86-425 du 22 mars 1986, l'inscription dans la même commune d'un autre enfant de la fratrie. L'article de loi précité prévoit par ailleurs que la scolarisation d'un enfant dans une école d'une commune autre que celle de sa résidence ne peut être remise en cause avant le terme, soit de la formation préélémentaire, soit de la scolarité élémentaire, commencée dans une école "du même cycle" de la commune d'accueil. La notion de "cycle" doit être entendue au sens des textes en vigueur lors du vote de la loi, c'est à dire, cycle maternel ou cycle élémentaire. En conséquence, le droit au maintien dans la commune d'accueil ne vaut que jusqu'au terme de la scolarité, soit à l'école maternelle, soit à l'école élémentaire. Le passage d'un enfant de l'école maternelle à l'école élémentaire d'une commune d'accueil ne constitue donc pas un droit.
