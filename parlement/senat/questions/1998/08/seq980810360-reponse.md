@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980810360
+
+- Question : [SEQ980810360](seq980810360.md) — Aménagement du temps scolaire et transports scolaires
+
+## Réponse
+
+*Éducation, JO du 1998-12-10, page 3954*
+
+Réponse. - Les recteurs d'académie et les inspecteurs d'académie, directeurs des services départementaux de l'éducation nationale, peuvent procéder localement à certaines adaptations du calendrier scolaire national, dans le cadre d'un aménagement de l'organisation du temps scolaire des écoles publiques ou pour répondre à des circonstances locales particulières, susceptibles de perturber le fonctionnement du service public d'enseignement. Toute modification du calendrier ou des heures d'entrée et de sortie des élèves ayant, de fait, une incidence sur l'organisation des transports scolaires implique une concertation préalable entre les services déconcentrés de l'éducation nationale et les autorités organisatrices de transports scolaires. Cette nécessité d'un dialogue avec les conseils généraux, déjà soulignée dans le cadre de la procédure d'aménagement du temps scolaire à l'école, a été rappelée à plusieurs reprises aux services académiques, et tout particulièrement par une note de service du 22 mars 1996 relatvie à la concertation pour l'amélioration des transports scolaires. Des précisions vont prochainement être données aux recteurs et aux inspecteurs d'académie, sur la possibilité de libérer de cours les élèves de certains établissements scolaires les vendredi et samedi suivant l'Ascension, en 1999, dans le cadre de leurs compétences en matière d'adaptation du calendrier scolaire. A cette occasion, l'accent sera mis notamment sur l'importance d'une consultation des collectivités organisatrices de transports scolaires, préalablement à toute décision, et sur celle d'une information rapide de tous les partenaires concernés.
