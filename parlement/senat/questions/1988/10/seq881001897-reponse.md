@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881001897
+
+- Question : [SEQ881001897](seq881001897.md) — Difficultés de l'industrie textile
+
+## Réponse
+
+*Industrie, JO du 1988-11-24, page 1334*
+
+Réponse. - Les difficultés de l'industrie du textile-habillement résultent d'une aggravation de la concurrence internationale due aux importations en provenance des pays à bas salaires, mais aussi - et principalement - de nos partenaires européens. Pour résorber ces difficultés, le Gouvernement a adopté des mesures qui bénéficieront en premier lieu aux industries du textile et de l'habillement : le déplafonnement et l'allégement des cotisations familiales vont dans le sens d'une diminution des charges sociales pesant particulièrement sur les entreprises de main-d'oeuvre ; le plafond de la taxe professionnelle doit être abaissé de 5 p. 100 à 4,5 p. 100 de la valeur ajoutée ; 15 milliards de francs de Codevi ont été réorientés vers le financement à court terme des entreprises ; les entreprises du textile et de l'habillement, dont l'activité est saisonnière, sont tout particulièrement concernées par cette mesure ; 3 milliards de francs de Codevi seront chaque année destinés au financement à moyen et long terme des petites et moyennes entreprises. Le secteur du textile-habillement, principalement constitué de P.M.I., bénéficiera en priorité de ces dispositions. S'agissant de l'accord multifibres, la France en applique avec rigueur les dispositifs de gestion. En 1987, première année d'application de l'A.M.F., elle a obtenu dix des dix-neuf nouvelles limites d'importation négociées par la Communauté. Pour 1988, la France a présenté sept demandes supplémentaires de limites, qui n'ont pu faire encore l'objet de décisions positives à Bruxelles. Le Gouvernement réaffirme à cette occasion son attachement au respect très rigoureux de ces accords tant par la France que par nos partenaires européens et fera en sorte que la Communauté adopte une position ferme à cet égard.
