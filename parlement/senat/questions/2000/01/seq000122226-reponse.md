@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000122226
+
+- Question : [SEQ000122226](seq000122226.md) — Information sur les droits et obligations des artistes plasticiens
+
+## Réponse
+
+*Culture, JO du 2000-03-23, page 1053*
+
+Réponse. - Le ministre précise à l'honorable parlementaire que la délégation aux arts plastiques, du ministère de la culture et de la communication, fait l'objet actuellement d'une réorganisation. Un département des artistes et des professions doit être créé, ce qui montre bien que l'artiste-créateur est au c ur du dispositif de la délégation aux arts plastiques. A cet effet, il est envisagé la mise en place progressive au cours de l'année 2000 de différents instruments d'information à l'usage des artistes ; 1º la création d'un centre de ressources afin de fournir une information claire, disponible, fiable, sous différents formats (papier, en ligne, téléphonique) sur les aides et allocations en direction des artistes ainsi que de l'ensemble des professionnels de l'art contemporain ; 2º l'intégration d'un certain nombre d'informations sur le site internet du ministère de la culture et de la communication : l'ensemble des formulaires (allocations recherches, allocations d'aide à la création, aides à l'édition ; à la première exposition...) ainsi que des renseignements sur ls démarches à effectuer, les dossiers à constituer, les interlocuteurs à contacter ; les informations concernant les différents appels d'offre, appels à projets, appels à candidatures, offres de résidence d'artistes ; les dates de dépôts de dossiers pour l'académie de France à Rome, les commissions d'allocations, bourse Agora, design, Andam... ; 3º l'organisation de journées d'information en direction des artistes par les DRAC avec l'aide de la délégation aux arts plastiques. Ces nouvelles orientations permettront d'assurer une information beaucoup plus régulière et complète à destination des artistes.
