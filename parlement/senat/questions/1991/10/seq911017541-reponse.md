@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911017541
+
+- Question : [SEQ911017541](seq911017541.md) — Attribution de la nouvelle bonification indiciaire : adjoints administratifs exerçant les fonctions de secrétaire de mairie
+
+## Réponse
+
+*Intérieur, JO du 1991-12-05, page 2722*
+
+Réponse. - L'application des dispositions de l'article 1er, 4° du décret n° 91-711 du 24 juillet 1991 portant attribution de la nouvelle bonification indiciaire à certains personnels de la fonction publique territoriale conduit à refuser cet avantage aux adjoints administratifs exerçant les fonctions de secrétaire de mairie dans les communes de plus de 2 000 habitants. Cependant, le passage d'une commune à une strate démographique supérieure à la suite d'un recensement général dont les résultats ont été authentifiés et les conséquences qu'il entraîne pour la carrière des agents exerçant leurs fonctions dans cette collectivité ont déjà été prévus. C'est ainsi que l'article 9 du décret n° 90-412 du 16 mai 1990 relatif aux conditions générales de recrutement des agents de la fonction publique territoriale dispose que " lorsqu'une collectivité passe à la suite d'un recensement général... d'une catégorie démographique à une catégorie démographique supérieure, le fonctionnaire exerçant des fonctions de secrétaire de mairie... continue sur sa demande à exercer ses fonctions, nonobstant les dispositions particulières à ces emplois ". Dans cet esprit, il apparait que l'adjoint administratif qui exerçait, au 1er août 1990, les fonctions de secrétaire de mairie dans une commune de moins de 2 000 habitants, situation qui lui ouvrait droit à la nouvelle bonification indiciaire, peut continuer à bénéficier de celle-ci, à titre personnel, pendant toute la durée de cette affectation dans cette même commune, bien que cette dernière ait dépassé le seuil des 2 000 habitants selon les résultats du dernier recensement authentifiés par le décret n° 90-1172 du 21 décembre 1990.
