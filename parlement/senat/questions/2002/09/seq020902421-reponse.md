@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020902421
+
+- Question : [SEQ020902421](seq020902421.md) — Responsabilités dans les dysfonctionnements du centre médical Oscar-Lambret
+
+## Réponse
+
+*Santé, JO du 2004-08-05, page 1798*
+
+L'honorable parlementaire demande à M. le ministre de la santé et de la protection sociale comment l'inspection générale des affaires sociales (IGAS) a pu ignorer les errements financiers dans la gestion du centre de lutte contre le cancer (CLCC) Oscar-Lambret à Lille, dénoncés en 2001 par la Cour des comptes. Il convient de rappeler que si les centres de lutte contre le cancer entrent bien dans le champ de compétence de l'inspection générale des affaires sociales, celle-ci n'intervient qu'à la demande du ministre, lui-même alerté par les services déconcentrés qui sont chargés des contrôles internes dans les établissements de santé, tant sur le plan financier que sur celui du fonctionnement. En l'espèce, c'est l'enquête approfondie menée par la Cour des comptes qui a révélé les graves errements évoqués. Dès lors que le contrôle de la Cour avait clairement mis en évidence les dysfonctionnements du CLCC, une enquête supplémentaire de l'IGAS n'est pas apparue nécessaire. En revanche, le ministre a veillé à ce que l'agence régionale de l'hospitalisation du Nord - Pas-de-Calais dûment avertie par ses soins de la situation, apporte toute son attention à la mise en oeuvre des mesures correctives appropriées, tant sur le plan de l'organisation interne que sur celui du contrôle externe de l'établissement. Ainsi, un plan de redressement a été mis en oeuvre, consacré par un contrat d'objectifs et de moyens. En ce qui concerne la maîtrise de la masse salariale, le centre Oscar-Lambret s'est engagé à respecter les clauses de la convention collective. Enfin, les systèmes d'information nécessaires à la gestion et au suivi de l'activité ont été mis en place.
