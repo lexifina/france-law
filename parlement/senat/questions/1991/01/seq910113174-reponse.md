@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910113174
+
+- Question : [SEQ910113174](seq910113174.md) — Application de la charte de la déconcentration
+
+## Réponse
+
+*Premier ministre, JO du 1991-04-04, page 700*
+
+Réponse. - Le projet de loi d'orientation relative à l'organisation territoriale de la République dont le texte est actuellement soumis au Parlement prévoit, dans son article 5, que la charte de la déconcentration prendra la forme d'un décret en Conseil d'Etat qui précisera, en application de la loi, les modalités des transferts d'attributions des administrations centrales aux services extérieurs des administrations civiles de l'Etat ainsi que les principes d'organisation de ces services. La préparation de cette charte est en cours et des informations sur le contenu de ce projet seront fournies à l'Assemblée nationale et au Sénat au cours de la discussion parlementaire. Indépendamment de ce texte de portée générale, une réflexion interministérielle a été menée à partir des propositions contenues dans les projets d'administration déconcentrée préparés sous l'autorité des préfets de région et des décisions arrêtées en séminaire gouvernemental sur le renouveau du service public. C'est ainsi que plus de 100 mesures de déconcentration réglementaire ont été décidées et vont faire l'objet d'une mise en oeuvre par modification des textes concernés au cours de l'année 1991. Par ailleurs, le souci d'augmenter la part déconcentrée des crédits d'investissement de l'Etat a inspiré un projet de refonte du décret n° 70-1222 du 23 décembre 1970 portant classement des investissements de l'Etat. L'objectif fixé par le séminaire gouvernemental sur le renouveau du service public du 21 septembre 1989, porter en cinq ans de 10 p. 100 à 30 p. 100 le taux de crédits gérés de manière déconcentrée, sera ainsi pratiquement atteint dès 1992.
