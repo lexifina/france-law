@@ -1,0 +1,27 @@
+# Article 5 L'entretien professionnel
+
+Tout salarié ayant au minimum 2 années d'activité dans une même entreprise bénéficie, au moins tous les 2 ans, d'un entretien professionnel mis en oeuvre à l'initiative de l'entreprise. Les entreprises peuvent mettre en oeuvre cet entretien suivant un rythme annuel.
+
+Les modalités de mise en oeuvre de cet entretien, qui peuvent également être fixées par accord d'entreprise, font l'objet d'une consultation du comité d'entreprise ou, à défaut, des délégués du personnel ou, à défaut, de représentant, d'une information préalable du personnel.
+
+En toute hypothèse, le salarié est informé préalablement de la tenue de l'entretien et dans un délai suffisant pour s'y préparer, qui ne peut être inférieur à 3 jours. Cet entretien se déroule sur le temps de travail. Le temps passé en entretien est rémunéré comme du temps de travail effectif.
+
+Il est rappelé que l'entretien professionnel a pour finalité de permettre à chaque salarié d'élaborer son projet professionnel à partir de ses souhaits d'évolution dans l'entreprise, de ses aptitudes et en fonction de la situation de l'entreprise.
+
+Au cours de l'entretien professionnel sont abordés notamment les points suivants :
+
+- les moyens d'accès à l'information sur les dispositifs relatifs à l'orientation et à la formation des salariés tout au long de leur vie professionnelle ;
+
+- l'identification des objectifs de professionnalisation qui pourraient être définis au bénéfice du salarié pour lui permettre d'améliorer ses compétences ou de renforcer sa qualification ;
+
+- l'identification du ou des dispositifs de formation auxquels il pourrait être fait appel en fonction des objectifs retenus ;
+
+- les initiatives du salarié pour l'utilisation de son droit individuel à la formation ;
+
+- les conditions de réalisation de la formation, notamment au regard du temps de travail.
+
+Sauf opposition du salarié, les conclusions de l'entretien sont formalisées par écrit.
+
+Cet entretien professionnel a lieu à l'initiative de l'employeur ou de son représentant ou du salarié. Tout salarié peut saisir directement le responsable d'établissement (voire le supérieur hiérarchique de ce dernier) de toute difficulté constatée dans le déroulement de l'entretien professionnel.
+
+Les entreprises sont invitées à développer des actions de sensibilisation du personnel d'encadrement sur le contenu et la conduite d'un entretien professionnel.

@@ -1,0 +1,149 @@
+# Article 6 La formation des salariés
+
+Elle peut être mise en oeuvre à l'initiative de l'employeur dans le cadre du plan de formation, ou par le salarié en concertation avec l'employeur dans le cadre du droit individuel à la formation ou à l'initiative du salarié au moyen du congé individuel de formation.
+
+6.1. Le plan de formation
+
+Le plan de formation de l'entreprise relève de la compétence de l'employeur. Son élaboration doit tenir compte des orientations et du projet de formation professionnelle de l'entreprise. Il prend en compte les besoins de formation nés du droit individuel à la formation. Lors de l'élaboration du plan et en fonction de sa finalité, celui-ci s'efforcera de prendre également en compte les demandes exprimées par les salariés et/ ou par leurs représentants.
+
+Afin de permettre aux membres du comité d'entreprise et aux membres de la commission formation, lorsqu'elle existe, de participer à l'élaboration de ce plan et de préparer des délibérations dont il fait l'objet, le chef d'entreprise leur communique, dans les délais légaux requis, les documents prévus par le code du travail.
+
+Le plan de formation précise la nature des actions proposées par l'employeur en distinguant celles qui correspondent à des actions d'adaptation au poste de travail, celles qui correspondent à des actions de formation liées à l'évolution des emplois ou au maintien dans l'emploi des salariés et celles qui participent au développement des compétences des salariés.
+
+Il est rappelé que :
+
+-toute action de formation suivie par le salarié pour assurer l'adaptation au poste de travail constitue un temps de travail effectif et donne lieu, pendant sa réalisation, au maintien par l'entreprise de la rémunération ;
+
+-les actions de formation liées à l'évolution des emplois ou celles qui participent au maintien dans l'emploi sont mises en oeuvre pendant le temps de travail et donnent lieu pendant leur réalisation au maintien par l'entreprise de la rémunération ; toutefois, sous réserve d'un accord d'entreprise ou, à défaut, de l'accord écrit du salarié, le départ en formation peut conduire le salarié à dépasser la durée légale ou conventionnelle du travail dans le respect des dispositions légales applicables ;
+
+-les actions de formation ayant pour objet le développement des compétences des salariés peuvent, en application d'un accord écrit entre le salarié et l'employeur, qui peut être dénoncé dans les 8 jours de sa conclusion, se dérouler hors du temps de travail effectif conformément aux dispositions légales.
+
+Dans le cadre du développement d'une gestion prévisionnelle des emplois et des qualifications, les politiques de formation des entreprises doivent s'inscrire, compte tenu de leurs spécificités, dans les objectifs et les priorités de la formation professionnelle définis par le présent accord.
+
+6.2. Le droit individuel à la formation
+
+6.2.1. Bénéficiaires.
+
+Tout salarié titulaire d'un contrat de travail à durée indéterminée, à l'exclusion des salariés titulaires d'un contrat de professionnalisation ou d'apprentissage, disposant d'une ancienneté d'au moins 1 an dans l'entreprise qui l'emploie, bénéficie chaque année d'un droit individuel à la formation d'une durée de 20 heures.
+
+Pour les salariés à temps partiel, cette durée est calculée pro rata temporis du nombre d'heures payées et effectuées sur l'année civile, sans que celui-ci puisse être inférieur au nombre d'heures contractuel.
+
+Les salariés employés en vertu d'un contrat de travail à durée déterminée peuvent, dans les conditions prévues par la loi, bénéficier du droit individuel à la formation pro rota temporis, dès lors qu'ils comptent une ancienneté de 4 mois, consécutifs ou non, au cours des 12 derniers mois.
+
+*En cas de suspension du contrat de travail à l'initiative du salarié pour prendre un congé de longue durée non rémunéré par l'employeur (congé parental, congé sans solde, congé sabbatique, congé pour création d'entreprise), le salarié garde le bénéfice du droit acquis. Les suspensions du contrat telles que définies ci-dessus interrompent l'acquisition du droit. L'acquisition du droit sera de nouveau ouvert dès la reprise du travail par le salarié. * (1)
+
+6.2.2. Appréciation des droits et information.
+
+6.2.2.1. Principe.
+
+Les droits du salarié sont, compte tenu de l'ancienneté acquise, appréciés par année civile au 31 décembre de chaque année, alloués au 1er janvier de l'année suivante.
+
+Chaque salarié est informé par écrit annuellement du total des droits acquis au titre du dispositif du droit individuel à la formation. L'écrit est communiqué à l'intéressé par tout moyen approprié, y compris, s'il y a lieu, par un moyen informatique au plus tard avant la fin du 1er trimestre de l'année au cours de laquelle les droits sont alloués.
+
+6.2.2.2. Disposition transitoire.
+
+Les salariés qui comptent 1 an d'ancienneté au 7 mai 2005 sont informés, au plus tard avant la fin du mois de mai 2005, des droits acquis (20 heures) et du fait qu'ils pourront les exercer à compter du 1er janvier 2006 conformément aux dispositions de l'article 6.2.11, sauf cas de démission ou de licenciement.
+
+6.2.3. Cumul des droits.
+
+Le cumul des droits ouverts est au plus égal à une durée de 120 heures sur 6 ans ou, pour les salariés à temps partiel, au montant cumulé des heures calculées chaque année conformément aux dispositions ci-dessus, dans la limite de 120 heures.
+
+6.2.4. Actions prioritaires.
+
+Les actions de formation mises en oeuvre prioritairement dans le cadre du droit individuel à la formation sont celles définies à l'article 4.2 du présent accord qui peuvent être complétées ou actualisées dans les conditions énoncées audit article. L'exercice des droits peut s'articuler avec les actions du plan de formation notamment.
+
+6.2.5. Mise en oeuvre des droits.
+
+Les modalités et leur calendrier de mise en oeuvre sont arrêtés par le chef d'entreprise après consultation du comité d'entreprise ou, à défaut, des délégués du personnel. En l'absence de représentant élu, le personnel est préalablement informé. Cette consultation, ou cette information, porte notamment sur les étapes suivantes de mise en oeuvre :
+
+-à l'occasion de l'entretien professionnel ou de tout autre entretien sollicité par le salarié ou initié par ce dernier suivant les modalités en vigueur dans l'entreprise, l'intéressé évoque avec l'employeur ses orientations en termes d'action de formation ;
+
+-à la fin de la période consacrée aux entretiens, le salarié formalise sa demande par écrit. Outre la nature de la formation envisagée, il précise sur sa demande la date et les heures prévisibles de l'absence ainsi que les références de l'organisme dispensateur et le coût de la formation. Il appartient à l'employeur de préciser le délai accordé aux salariés sur l'année pour formaliser leur demande ;
+
+-à défaut de réponse dans le délai de 1 mois à compter de la réception de la demande, le silence gardé par l'employeur vaut acceptation du choix de l'action de formation.
+
+La réponse négative de l'employeur devra être motivée notamment pour l'un des motifs suivants :
+
+-l'action de formation ne correspond pas aux priorités définies à l'article 4.2 du présent accord ;
+
+-la demande du salarié ne respecte pas les modalités de mise en oeuvre ou la forme définies ci-dessus ;
+
+-la demande du salarié ne peut être satisfaite en raison de sa durée ou de sa date de mise en oeuvre compte tenu des contraintes de fonctionnement de l'entreprise ;
+
+-la demande excède les moyens financiers que l'entreprise peut consacrer au droit individuel à la formation pour l'année
+
+considérée.
+
+Lorsque, durant 2 exercices civils consécutifs, le salarié et l'entreprise sont en désaccord sur le choix de l'action de formation au titre du droit individuel à la formation, l'organisme paritaire agréé au titre du congé individuel de formation dont relève son entreprise assure par priorité la prise en charge financière de l'action dans le cadre d'un congé individuel de formation, sous réserve que cette action corresponde aux priorités et aux critères définis par ledit organisme. Dans ce cas, l'employeur est tenu de verser à cet organisme le montant de l'allocation de formation correspondant aux droits acquis par l'intéressé au titre du droit individuel à la formation et les frais de formation calculés conformément aux dispositions de l'article L. 933-4 du code du travail et sur la base forfaitaire applicable aux contrats de professionnalisation mentionnés à l'article L. 983-1 du code du travail.
+
+6.2.6. Consultation du comité d'entreprise ou des délégués du personnel.
+
+Dans les entreprises qui en sont dotées, le comité d'entreprise, ou à défaut les délégués du personnel, donne son avis sur les conditions de mise en oeuvre du droit individuel à la formation à l'occasion de la consultation annuelle organisée sur le plan de formation. Les informations sont, s'il y a lieu, transmises préalablement à la commission
+
+formation.
+
+6.2.7. Suivi de la formation.
+
+La formation suivie dans le cadre du droit individuel à la formation se déroule en dehors du temps de travail (exemples : jours RTT, congés payés, congés sans solde...). Toutefois, pour des raisons particulières, l'employeur et le salarié peuvent d'un commun accord convenir que la formation s'exerce, en tout ou partie, pendant le temps de travail.
+
+Pour les travailleurs de nuit, l'exercice des droits au titre du droit individuel à la formation ne doit pas affecter le respect du temps de repos entre 2 journées de travail.
+
+6.2.8. Allocation de formation et protection sociale.
+
+Lorsque les heures de formation sont effectuées hors du temps de travail, le salarié bénéficie du versement par l'employeur d'une allocation, cumulable avec l'indemnité compensatrice de congés payés s'il y a lieu, calculée dans les conditions légales en vigueur. Pendant la durée de cette formation, le salarié bénéficie de la législation de la sécurité sociale relative à la protection en matière d'accidents du travail et de maladies professionnelles conformément aux dispositions légales.
+
+6.2.9. Financement du droit individuel à la formation.
+
+Le montant de l'allocation de formation ainsi que les frais de formation correspondant aux droits ouverts sont à la charge de l'employeur et sont imputables sur sa participation au développement de la formation professionnelle continue. Afin de permettre au plus grand nombre d'exercer les droits en termes de droit individuel à la formation, des coûts indicatifs par type de formation pourront être arrêtés annuellement après consultation du comité d'entreprise dont l'avis sera éclairé par les réflexions de la commission formation. A défaut de comité d'entreprise, les délégués du personnel seront consultés. En l'absence de représentation élue, le personnel sera informé préalablement des orientations arrêtées par le chef d'entreprise.
+
+L'employeur peut s'acquitter de ses obligations relatives aux frais de formation par l'utilisation d'un titre spécial de paiement émis par des entreprises spécialisées. Les modalités pratiques de mise en oeuvre seront définies ultérieurement par accord de branche et s'effectueront dans les conditions fixées par décret.
+
+Il est en outre expressément convenu que l'organisme paritaire collecteur agréé désigné au niveau de la branche, contribue notamment, dans la limite de 20 % des sommes collectées au titre de la professionnalisation, au financement des coûts pédagogiques et, le cas échéant, de transport, d'hébergement et de restauration liés à la réalisation d'actions de formation reconnues prioritaires par la branche professionnelle au sens de l'article 4-2 du présent accord, pour l'exercice du droit individuel à la formation. La section paritaire professionnelle (SPP) s'assure du suivi du financement.
+
+Dans une limite équivalente, les sommes versées à l'OPCA désigné par la convention collective de la restauration rapide, au titre du versement obligatoire lié à la mise en oeuvre du plan de formation, sont consacrées au financement de l'allocation ainsi que des frais de formation, de transport, d'hébergement et de restauration selon le barème en vigueur dans l'entreprise. Dans le cadre de ces dispositions, lorsque l'entreprise n'a pas répondu favorablement à une demande du salarié, au motif que celle-ci excède les moyens financiers que l'entreprise peut consacrer au droit individuel à la formation pour l'année considérée, elle en informe l'OPCA désigné par la branche qui examine en priorité le financement de cette action dès lors qu'elle s'inscrit dans les priorités définies à l'article 4.2 du présent accord.
+
+6.2.10. Départ de l'entreprise.
+
+6.2.10.1. Licenciement.
+
+Le droit individuel à la formation est transférable en cas de licenciement du salarié, sauf pour faute grave ou faute lourde. Dans ce cas, le montant de l'allocation de formation, correspondant aux heures acquises au titre du droit individuel à la formation et n'ayant pas été utilisées, est calculé sur la base du salaire net perçu par le salarié avant son départ de l'entreprise. Les sommes correspondant à ce montant doivent permettre de financer tout ou partie d'une action de bilan de compétences, de validation des acquis de l'expérience ou de formation, lorsqu'elle a été demandée par le salarié avant la fin du délai-congé. A défaut d'une telle demande, le montant correspondant au droit individuel à la formation n'est pas dû par l'employeur. Dans la lettre de licenciement, l'employeur est tenu, le cas échéant, d'informer le salarié qu'il licencie de ses droits en matière de droit individuel à la formation, notamment de la possibilité de demander, pendant le délai-congé, à bénéficier d'une action de bilan de compétences, de validation des acquis de l'expérience ou de formation.
+
+6.2.10.2. Démission.
+
+En cas de démission, le salarié peut demander à bénéficier de son droit individuel à la formation sous réserve que l'action de bilan de compétences, de validation des acquis de l'expérience ou de formation soit engagée avant la fin du délai-congé.
+
+6.2.10.3. Départ en retraite.
+
+En cas de départ à la retraite, le droit individuel à la formation n'est pas transférable.
+
+6.2.10.4. Changement d'employeur.
+
+Tout salarié tranféré en application de l'article L. 122-12 du code du travail bénéficie auprès du nouvel employeur des droits acquis au titre du droit individuel à la formation chez le précédent employeur.
+
+6.2.11. Entrée en application et dispositions transitoires.
+
+Tout salarié qui compte 1 an d'ancienneté au 7 mai 2005 et qui est présent à l'effectif au 31 décembre 2005 bénéficie d'un droit acquis de 34 heures au titre du droit individuel à la formation. Les droits sont appréciés pro rata temporis pour les salariés à temps partiel.
+
+Les droits alloués seront mis en oeuvre à compter du 1er janvier 2006.
+
+La période qui s'étend jusqu'à cette date est mise à profit par chaque entreprise pour, avec le concours de l'OPCA désigné au niveau de la branche :
+
+-assurer l'information des salariés, s'il y a lieu dans le cadre de l'entretien professionnel notamment, et des représentants du personnel, à l'occasion de la consultation sur le plan de formation ;
+
+-mettre en oeuvre les outils internes nécessaires à l'entrée en application du droit individuel à la formation ;
+
+-permettre aux salariés de pouvoir exercer les droits acquis au titre du droit individuel à la formation à compter du 1er janvier 2006.
+
+6.3. Le congé individuel de formation
+
+Le congé individuel de formation a pour objet de permettre à tout salarié, dans le respect des dispositions légales applicables, quelle que soit l'entreprise dans laquelle il exerce son activité au cours de sa vie professionnelle de suivre, à son initiative et à titre individuel, des actions de formation de son choix indépendamment de sa participation aux actions comprises dans le plan de formation de l'entreprise ou mises en oeuvre au titre du droit individuel à la formation ou des périodes de professionnalisation.
+
+NOTA : Arrêté du 13 juillet 2005 :
+
+Accord étendu, à l'exclusion :
+
+(1)-du dernier alinéa de l'article 6.2.1 (Bénéficiaires), étant contraire aux dispositions de l'article L. 933-1 du code du travail, aux termes desquelles tout salarié titulaire d'un contrat de travail bénéficie d'un droit individuel à la formation de 20 heures par an, que le contrat de travail soit exécuté ou non.
+
+Le premier alinéa de l'article 6.2.2.1 (Le droit individuel à la formation/ principe) de l'accord est étendu sous réserve de l'application des dispositions de l'article L. 933-2 du code du travail, aux termes desquelles un accord collectif peut aménager la mise en oeuvre du droit individuel à la formation tant que le cumul des droits ouverts est égal à 120 heures sur six ans.
+
+Le premier tiret du deuxième alinéa de l'article 6.2.5 de l'accord est étendu sous réserve de l'application des dispositions de l'article L. 933-2, alinéa 2, du code du travail, aux termes desquelles des priorités d'action peuvent être définies par accord collectif sans avoir pour effet de limiter les actions de formation à ces seuls cas.

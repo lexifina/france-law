@@ -1,0 +1,7 @@
+# Article 8 Passeport formation
+
+Il est rappelé que, afin de favoriser sa mobilité interne ou externe, chaque salarié doit être en mesure d'identifier et de faire certifier ses connaissances, ses compétences et ses aptitudes professionnelles, acquises dans le cadre de la formation initiale ou continue, ou du fait de ses expériences professionnelles.
+
+Dans cette perspective, les parties signataires du présent accord souhaitent que chaque salarié puisse, à son initiative, établir son passeport formation qui reste sa propriété et dont il garde la responsabilité d'utilisation. Les entreprises du secteur sont invitées à favoriser la mise en oeuvre de ces passeports dans le respect des dispositions légales et conventionnelles applicables.
+
+Ce passeport formation est un document personnel contenant des déclarations rédigées par son titulaire.

@@ -1,0 +1,3 @@
+# Article 3 Objet
+
+Le présent accord transpose au secteur de la restauration rapide les dispositions conventionnelles et légales relatives à la formation professionnelle tout au long de la vie, issues de l'accord national interprofessionnel du 5 décembre 2003 et de la loi du 4 mai 2004 et de leurs textes subséquents.
