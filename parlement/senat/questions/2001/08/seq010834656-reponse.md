@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010834656
+
+- Question : [SEQ010834656](seq010834656.md) — Coopération franco-roumaine
+
+## Réponse
+
+*Affaires étrangères, JO du 2001-09-27, page 3093*
+
+La visite officielle du Premier ministre en Roumanie les 23 et 24 juillet dernier, à laquelle a participé notamment le ministre délégué chargé des affaires européennes, a permis de conforter le dynamisme des relations franco-roumaines qui s'inscrivent plus particulièrement dans la préparation de l'adhésion de la Roumanie à l'Union européenne. Les perspectives de cette adhésion ont été au centre des entretiens du Premier ministre avec le Président Lliescu et le Premier ministre Nastase. Les hautes autorités roumaines ont rappelé au Premier ministre l'objectif qu'elles se sont fixé à elles-mêmes d'une adhésion de leur pays au début de l'année 2007. Le Premier ministre a, pour sa part, rappelé que le Conseil européen de Göteborg, en soulignant l'irréversibilité du processus d'élargissement, venait de réaffirmer six mois après la conclusion du traité de Nice que la vocation de la Roumanie à rejoindre l'Union européenne. Il a salué la détermination du gouvernement roumain à faire aboutir cette candidature et l'a assuré, une nouvelle fois, du soutien de la France tout en rappelant que l'aboutissement de sa candidature dépendrait, avant tout, de ses propres progrès. S'agissant de la suspension des adoptions internationales, les autorités roumaines ont confirmé au Premier ministre qu'elles avaient décidé de suspendre, à compter du 21 juin 2001, la réception de nouvelles demandes d'adoption, afin de pouvoir procéder à la réforme en profondeur du système actuel et à sa mise en conformité avec la convention de La Haye, à laquelle la Roumanie est partie. Depuis lors, les autorités roumaines compétentes ont précisé que seuls les dossiers d'adoption enregistrés avant le 14 décembre 2000 pourraient être traités.
