@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950109429
+
+- Question : [SEQ950109429](seq950109429.md) — Francophonie en Algérie
+
+## Réponse
+
+*Affaires étrangères, JO du 1995-03-09, page 552*
+
+Réponse. - Comme le sait l'honorable parlementaire, la question linguistique est toujours sensible en Algérie. Les observations suivantes peuvent toutefois être faites. Les mesures d'arabisation généralisée sont atténuées en 1992 et le Gouvernement a récemment mis en place une commission chargée de réfléchir à l'introduction des langues berbères dans l'enseignement. La transition vers l'économie de marché devrait favoriser le maintien de l'usage du français ; un plan général de formation des professeurs a été lancé en 1993 ; il s'accompagne d'un renforcement de l'enseignement du français à l'université et dans les écoles supérieures ; l'épreuve écrite de français a été généralisée à toutes les séries du baccalauréat de 1994, avec des coefficients renforcés. Si le français n'est plus langue d'enseignement à l'école ni au lycée, il demeure langue optionnelle d'enseignement dans le premier et le second cycle du supérieur (choisi par environ 50 p. 100 des étudiants, et langue unique des études de troisième cycle). Les bibliothèques universitaires sont essentiellement pourvues de livres en français. Notre langue demeure enseignée de la 4e année du primaire au baccalauréat, à environ 4 300 000 élèves. Le français demeure langue d'accès à l'information scientifique, mais aussi langue des média les plus diffusés : environ 700 000 exemplaires pour les quotidiens francophones. On évalue, d'autre part, à 13 millions le nombre de personnes susceptibles de capter les chaînes françaises de télévision. Le français demeure enfin langue du commerce et des affaires. Il est d'un usage courant dans l'administration et reste pour beaucoup d'Algériens une " langue seconde ".
