@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870305222
+
+- Question : [SEQ870305222](seq870305222.md) — Législation funéraire: interprétation
+
+## Réponse
+
+*Intérieur, JO du 1987-07-02, page 1045*
+
+Réponse. -Le nouvel article R. 363-4 du code des communes, dont la rédaction résulte de l'article 18 du décret n° 87-28 du 14 janvier 1987, permet au maire de la commune du lieu de décès, si ce dernier ne s'est pas produit au domicile du défunt, d'autoriser le transport du corps avant mise en bière de ce lieu au domicile du défunt ou à la résidence d'un membre de sa famille. Sous réserve des dispositions particulières prévues par l'article R. 361-38, qui donne compétence aux autorités de police ou de gendarmerie pour autoriser l'admission en chambre funéraire du corps d'une personne décédée sur la voie publique ou dans un lieu ouvert au public, les termes " lieu de décès " ont une portée générale. Ils incluent, notamment, l'hypothèse d'un décès chez un particulier. S'agissant de l'acte de décès, l'article 78 du code civil dispose qu'il " sera dressé par l'officier de l'état civil de la commune où le décès a eu lieu, sur la déclaration d'un parent du défunt ou surcelle d'une personne possédant sur son état vicil les renseignements les plus exacts et les plus complets qu'il sera possible ". L'acte de décès doit, conformément aux dispositions de l'article 39 du code civil, être signé par l'officier de l'état civil et par la personne ayant déclaré le décès, telle qu'elle est définie à l'article 78 précité du code civil. Il résulte de ces dispositions que toute personne accomplissant les formalités relatives au transport de corps n'est pas en cette qualité habilitée à effectuer la déclaration de décès. En revanche, si cette personne possède sur l'état civil du défunt des renseignements exacts et complets, elle peut effectuer, aux termes de l'article 78 du code civil, la déclaration de décès.
