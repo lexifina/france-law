@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960314423
+
+- Question : [SEQ960314423](seq960314423.md) — Ecole française de Bujumbura (Burundi)
+
+## Réponse
+
+*Affaires étrangères, JO du 1996-04-25, page 1003*
+
+Réponse. - L'avenir de l'école française de Bujumbura doit être apprécié dans le contexte plus large de la situation au Burundi. Ce pays vit une crise quasi permanente depuis la tentative de coup d'Etat d'octobre 1993 et les massacres qui ont suivi. A cela, est venue s'ajouter, quelques mois plus tard, la tragédie rwandaise qui, avec l'afflux de plus de deux millions de réfugiés aux frontières rwandaise et burundaise, n'a fait qu'accroître l'instabilité dans l'ensemble de la région. Au Burundi même, la présence de réfugiés rwandais et de déplacés et dispersés burundais, notamment dans le Nord du pays et dans les environs de la capitale, a provoqué un climat d'insécurité tel que nombre d'activités sont aujourd'hui gelées. La quasi-totalité des programmes d'aide au développement a dû être abandonnée, faisant place à un développement substantiel de l'aide humanitaire. Il en est résulté une baisse significative des effectifs de l'assistance technique étrangère, et donc de la fréquentation des écoles étrangères de Bujumbura. C'est ainsi que l'école française, qui comptait 600 élèves à la rentrée 1993-1994, n'en accueillait plus que 300, dont un tiers de Français, à la rentrée 1995-1996. D'une manière générale, il est normal que les autorités françaises se préoccupent avant tout de la sécurité de nos ressortissants, quel que soit l'endroit où ils se trouvent. S'agissant du Burundi, cette préoccupation continuera d'inspirer leur attitude. Elles forment naturellement l'espoir que la situation évoluera dans un sens positif et permettra le maintien sur place d'un nombre significatif de Français ainsi que de notre actuel dispositif scolaire, dont l'honorable parlementaire a rappelé à juste titre la grande importance.
