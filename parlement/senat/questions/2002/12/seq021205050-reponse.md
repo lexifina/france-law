@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021205050
+
+- Question : [SEQ021205050](seq021205050.md) — Bilan du programme de lutte contre le diabète
+
+## Réponse
+
+*Santé, JO du 2003-04-10, page 1259*
+
+Le programme d'actions de prévention et de prise en charge du diabète de type 2, annoncé en novembre 2001, prévoit des actions concernant la prévention, le dépistage, la qualité et l'organisation des soins, l'éducation thérapeutique et le suivi épidémiologique. La prévention relève de la politique nutritionnelle mise en oeuvre dans le Programme national nutrition santé (PNNS) 2001-2005 tel qu'il a été rappelé dans la réponse à la question écrite n° 2547 du 19 septembre 2002. Des recommandations en matière de dépistage du diabète de type 2 ont été demandées à l'ANAES. Ces travaux sont en cours de finalisation et devraient être publiés prochainement. Plusieurs mesures prévues pour améliorer la qualité de soins ont été réalisées. L'AFSSAPS a terminé le travail de réévaluation et de standardisation des réactifs de dosage de l'hémoglobine glyquée A1c, dosage sur lequel repose le suivi du diabétique, afin de s'assurer des performances des tests. L'arrêté portant inscription à la nomenclature générale des actes professionnels (NGAP) d'un article consacré aux soins infirmiers à domicile d'un patient insulino-traité vient d'être signé, améliorant ainsi la qualité de la prise en charge à domicile des patients diabétiques. Les réseaux de soins ont été développés et l'éducation thérapeutique à l'hôpital a fait l'objet d'un appel d'offre national en 2002. Enfin, un programme de surveillance du diabète a été créé au sein de l'Institut de veille sanitaire et des études épidémiologiques sont en cours mais il est encore trop tôt pour connaître leurs résultats. Les autres actions du programme feront l'objet de travaux en 2003 et 2004. L'impact de ces différentes mesures ne pourra être évalué qu'en fin de réalisation du programme.
