@@ -1,0 +1,9 @@
+# Réponse à la question SEQ891207731
+
+- Question : [SEQ891207731](seq891207731.md) — Diffusion télévisuelle extérieure : rémunérations des ayants droit
+
+## Réponse
+
+*Premier ministre, JO du 1990-06-21, page 1363*
+
+Réponse. - Au cours de la première réunion du Conseil audiovisuel extérieur de la France qui s'est tenue le 22 décembre 1989 sous la présidence du Premier ministre, il a été rappelé que l'action audiovisuelle extérieure devait se faire dans le respect de la législation sur les droits d'auteurs et décidé que les négociations nécessaires avec les organisations professionnelles compétentes, notamment dans la perspective du développement international d'Antenne 2, seraient engagées au plus vite. Une réunion des ayants droit avec le ministre délégué à la francophonie s'est tenue à cette fin le 23 janvier dernier. Cette date marque le début officiel des négociations. Celles-ci ont été entamées par les pouvoirs publics sur la base d'un principe simple : la nécessité de respecter le droit à une juste rémunération des ayants droit pour toute représentation de leurs oeuvres hors de nos frontières. En contrepartie, les ayants droit doivent reconnaître la nature essentiellement culturelle de l'action audiovisuelle extérieure : le but de cette action n'est pas en effet de procéder à des ventes commerciales générant des bénéfices et les programmes diffusés ne le sont pas en langues locales par doublage ou sous-titrage. Le but de cette action est de faire connaître hors de nos frontières nos oeuvres, nos programmes et notre langue et d'en attendre en retour un effet bénéfique notamment sur le plan de l'exportation des produits de notre industrie cinématographique et audiovisuelle. Dans ces conditions la négociation devrait permettre de fixer un montant de rémunération satisfaisant pour les ayants droit dont, dans le même temps, la charge reste compatible avec les moyens affectés au développement international de l'audiovisuel public français.
