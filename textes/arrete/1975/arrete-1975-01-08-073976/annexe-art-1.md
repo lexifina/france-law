@@ -4,9 +4,9 @@ Le régime d'assurance invalidité-décès des travailleurs non salariés des pr
 
 1° Se trouver dans un état d'invalidité totale et définitive l'empêchant de se livrer à une activité rémunératrice quelconque ;
 
-2° Etre ou avoir été immatriculé au moment de l'accident ou de la maladie ayant entraîné l'invalidité totale au régime d'assurance vieillesse et, le cas échéant, au régime d'assurance invalidité-décès des professions industrielles et commerciales dans les conditions définies par la législation et la réglementation propres à ces régimes ;
+2° Etre ou avoir été immatriculé à la date à compter de laquelle le requérant a été reconnu en état d'invalidité totale au régime d'assurance vieillesse et, le cas échéant, au régime d'assurance invalidité-décès des professions industrielles et commerciales dans les conditions définies par la législation et la réglementation propres à ces régimes ;
 
-3° Avoir versé toutes les cotisations dues depuis le 1er janvier 1975 au titre obligatoires d'assurance vieillesse et du régime d'assurance invalidité-décès, sans préjudice de l'application des dispositions des articles 6 et 7 du décret n° 75-19 du 8 janvier 1975 et de l'article 12 ci-dessous et avoir cotisé six mois au moins au régime d'assurance vieillesse de base ;
+3° Avoir versé toutes les cotisations dues depuis le 1er janvier 1975 au titre des régimes obligatoires d'assurance vieillesse et du régime d'assurance invalidité-décès, sans préjudice de l'application des dispositions des articles 6 et 7 du décret n° 75-19 du 8 janvier 1975 et de l'article 12 ci-dessous et avoir cotisé six mois au moins au régime d'assurance vieillesse de base à la date indiquée au 2° ci-dessus.
 
 4° Etre radié du registre du commerce et, le cas échéant, du répertoire des métiers ou, à défaut de telles radiations, être en mesure de justifier avoir cessé effectivement toute activité personnelle au sein de l'entreprise ;
 
