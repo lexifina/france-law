@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971204870
+
+- Question : [SEQ971204870](seq971204870.md) — Statut des agents de l'assistance technique pour la mise en oeuvre des fonds européens
+
+## Réponse
+
+*Intérieur, JO du 1998-11-26, page 3802*
+
+Réponse. - Pour la mise en uvre des programmes régionaux européens, des agents non titulaires ont été recrutés afin d'assurer des missions d'assistance technique dans les préfectures, dans les secrétariats généraux pour les affaires régionales et dans certains services déconcentrés de l'Etat. A la suite d'un rapport de la Cour des comptes relatif aux modalités de gestion des agents non titulaires recrutés à ce titre et après arbitrage du Premier ministre, ces agents, qui étaient jusqu'alors rémunérés par des associations dans le cadre de conventions conclues avec les préfectures destinataires des fonds structurels européens, ont été pris en charge par le centre national pour l'aménagement des structures des exploitations agricoles (CNASEA), le ministère de l'agriculture et de la pêche, le ministère de l'emploi et de la solidarité et le ministère de l'intérieur, à compter du 1er janvier 1998. Le ministère de l'intérieur assure ainsi, depuis cette date, la rémunération de 78 agents non titulaires. Des contrats d'engagement, d'une durée d'un an renouvelable, adaptés à la durée des programmes européens, ont été proposés à ces personnels. Ils ont bénéficié, à cette occasion, d'un reclassement leur garantissant le maintien de leur rémunération antérieure. Les contrats de ces agents arrivent pour la plupart à échéance fin décembre 1998. Ils sont en cours de renouvellement, sur la proposition des préfets de région. Les missions de ces agents restent liées à l'évolution des programmes européens, ce qui justifie le caractère temporaire de ces contrats qui leur a été d'ailleurs précisé lors de leur recrutement.
