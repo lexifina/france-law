@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980206279
+
+- Question : [SEQ980206279](seq980206279.md) — Situation des communes subissant les nuisances des aéroports
+
+## Réponse
+
+*Équipement, JO du 1998-08-20, page 2700*
+
+Réponse. - La loi nº 92-1444 du 31 décembre 1992 relative à la lutte contre le bruit a instauré, par ses articles 16 à 20, un dispositif d'aide financière à l'insonorisation au bénéfice des riverains des principaux aéroports français, parmi lesquels figure Marseille - Provence. Un plan de gêne sonore définit l'éligibilité à l'aide à l'insonorisation, qui est financée au moyen d'une taxe payée par les compagnies aériennes et gérée par l'agence de l'environnement et de la maîtrise de l'énergie. Cette aide, s'élevant à 80 % du coût des travaux d'insonorisation, concerne également les bâtiments publics. La commune de Saint-Victoret citée par l'honorable parlementaire entre dans le champ d'application du dispositif. Un décret en cours d'élaboration prévoit, au niveau national, de simplifier l'accès à l'aide et d'augmenter la prise en charge des travaux d'insonorisation, notamment pour les établissements d'enseignement et locaux à caractère sanitaire ou social. S'agissant de la question de la taxe professionnelle, dans le cadre particulier du développement de l'aéroport de Roissy, une mission d'étude de la répartition des ressources liées à l'activité de cet aéroport entre les différentes communes riveraines qui en subissent les nuisances, a été confiée à Monsieur Lachenaud. Les conclusions de cette mission ont été remises au Gouvernement qui examine les propositions du rapport dans la perspective d'un projet de loi qui sera déposé au Parlement dans le courant de l'année. Ces travaux constituent un premier élément de réflexion en la matière. Une extension éventuelle de certaines dispositions à d'autres aéroports que celui de Roissy sera appréciée à l'issue des débats parlementaires.
