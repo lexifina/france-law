@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970700941
+
+- Question : [SEQ970700941](seq970700941.md) — Dispense du paiement des droits d'auteurs pour les organismes à but caritatif et non lucratif
+
+## Réponse
+
+*Culture, JO du 1997-08-21, page 2159*
+
+Réponse. - Le code de la propriété intellectuelle reconnaît aux auteurs le droit exclusif d'exploiter leurs oeuvres pour leur communication au public par un procédé quelconque. La société des auteurs, compositeurs et éditeurs de musique - SACEM - est chargée par ses sociétaires de percevoir et de répartir les rémunérations qui leur sont dues en référence à cette norme de droit privé. Consciente des difficultés qu'engendre le paiement de la juste rémunération des auteurs, la SACEM a toujours cherché à adapter ses règles générales aux différentes catégories d'utilisateurs d'oeuvres musicales. Des partenariats et des protocoles d'accord ont été signés avec des fédérations d'associations, tandis que le caractère philanthropique ou social de certaines manifestations est pris en compte dans le calcul des rémunérations à payer. Le montant des rémunérations demandé aux écoles pour l'utilisation d'oeuvres musicales est généralement forfaitaire et peu élevé. Les délégations régionales de la SACEM se tiennent à la disposition des associations et des directeurs d'établissements scolaires pour les informer de leurs droits et des règles précises de tarification des rémunérations dues lors de l'utilisation d'oeuvres musicales. Par ses initiatives, cette société civile se conforme aux dispositions de l'article L. 321-8 du code de la propriété intellectuelle qui impose aux sociétés de perception et de répartition des droits de pratiquer des réductions au bénéfice seulement des " associations ayant un but d'intérêt général pour leurs manifestations ne donnant pas lieu à entrée payante ".
