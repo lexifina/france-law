@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901112531
+
+- Question : [SEQ901112531](seq901112531.md) — Statut spécifique des inspecteurs des affaires sanitaires et sociales mis à disposition
+
+## Réponse
+
+*Intérieur, JO du 1991-01-31, page 202*
+
+Réponse. - L'article 122 de la loi du 26 janvier 1984 modifiée, portant dispositions statutaires relatives à la fonction publique territoriale, a posé le principe du droit d'option pour les personnels mis à disposition, notamment, dans le cadre des partitions fonctionnelles des services extérieurs de l'Etat, en précisant que celui-ci s'applique aux fonctionnaires de l'Etat exerçant leurs fonctions dans un service transféré aux collectivités locales et aux fonctionnaires des collectivités territoriales exerçant leurs fonctions dans un service relevant de l'Etat. Les modalités de mise en oeuvre de ce droit d'option ont été précisées par l'article 123 de la même loi. Afin de permettre aux agents de certains services d'effectuer dans des conditions équitables le choix entre le changement ou le maintien de leur statut, la date d'expiration du délai pendant lequel le droit d'option doit être exercé a été prorogée, en dernier lieu, au 31 décembre 1991 par la loi n° 90-1067 du 28 novembre 1990 pour tous les agents visés à l'article 125 de la loi du 26 janvier 1984 modifiée à l'exception de ceux qui ont été mis à disposition dans le cadre du partage des services extérieurs du ministère de l'intérieur. Les fonctionnaires mis à disposition dans le cadre de la participation fonctionnelle des directions départementales des affaires sanitaires et sociales sont donc appelés à bénéficier de cette disposition. Par ailleurs, les études relatives aux futurs statuts particuliers de la filière sanitaire et sociale de la fonction publique territoriale sont en voie d'achèvement et devraient faire l'objet dans les mois qui viennent de discussions sur la base de projets précis.
