@@ -1,6 +1,6 @@
 # Article 1609 vicies
 
-I. – Il est institué au profit du budget annexe des prestations sociales agricoles, en France continentale et en Corse, une taxe spéciale sur les huiles végétales, fluides ou concrètes, effectivement destinées, en l'état ou après incorporation dans tous produits alimentaires, à l'alimentation humaine.
+I. – Il est institué au profit du Fonds de financement des prestations sociales des non-salariés agricoles mentionné à l'article L. 731-1 du code rural, en France continentale et en Corse, une taxe spéciale sur les huiles végétales, fluides ou concrètes, effectivement destinées, en l'état ou après incorporation dans tous produits alimentaires, à l'alimentation humaine.
 
 Cette taxe est due :
 
@@ -21,9 +21,3 @@ III. – Les huiles, y compris celles qui sont contenues dans les produits alime
 IV. – La taxe spéciale est établie et recouvrée selon les modalités, ainsi que sous les sûretés, garanties et sanctions applicables aux taxes sur le chiffre d'affaires.
 
 Sont toutefois fixées par décret les mesures particulières et prescriptions d'ordre comptable notamment, nécessaires pour que la taxe spéciale ne frappe que les huiles effectivement destinées à l'alimentation humaine, pour qu'elle ne soit perçue qu'une seule fois, et pour qu'elle ne soit pas supportée en cas d'exportation, de livraison exonérée en vertu du I de l'article 262 ter ou de livraison dans un lieu situé dans un autre Etat membre de la Communauté européenne en application de l'article 258 A.
-
-NOTA :
-
-NOTA : Dans les dispositions de nature réglementaire, les références au "budget annexe des prestations sociales agricoles" sont remplacées par les références à "l'établissement de gestion du fonds de financement des prestations sociales des non-salariés agricoles", cf décret 2004-1428 du 23 décembre 2004 article 14.
-
-Ces dispositions entrent en vigueur le 1er janvier 2005.
