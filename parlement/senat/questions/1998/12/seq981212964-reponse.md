@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981212964
+
+- Question : [SEQ981212964](seq981212964.md) — Fermeture de l'Institut Aubert à Vincennes
+
+## Réponse
+
+*Premier ministre, JO du 1999-03-11, page 762*
+
+Réponse. - La proposition de loi à laquelle l'honorable parlementaire fait allusion a été votée en termes identiques par les deux assemblées et publiée au Journal officiel du 22 décembre 1998 (loi nº 98-1165 du 18 décembre 1998 tendant à renforcer le contrôle de l'obligation scolaire). Les décrets d'application prévus aux articles 3 et 6 de la loi sont actuellement soumis aux instances consultatives compétentes et devraient intervenir dans les meilleurs délais. Par ailleurs, la mission interministérielle instituée par le décret nº 98-890 du 7 octobre 1998 a commencé ses travaux. L'équipe permanente qui a pour tâche de l'animer se met en place progressivement. Elle est déjà intervenue à la demande du président de la mission, et sous son autorité, auprès de divers services publics pour qu'ils prennent des mesures de sauvegarde et de prévention adaptées aux situations qu'elle leur a signalées. Elle a de même saisi des instances de régulation pour qu'il soit mis fin à des situations anormales relevant de la compétence de ces autorités. Le groupe opérationnel composé des représentants des administrations principalement concernées a été mis en place au mois de janvier 1999. Il se réunira chaque fois qu'une question mettant en cause plusieurs administrations aura à être débattue et, au-delà, chaque fois que cela se révélera nécessaire. Enfin, le conseil d'orientation, composé de membres des deux assemblées et de personnalités choisies pour l'intérêt que chacune porte au phénomène des sectes, a été installé le 28 janvier 1999. Il doit se réunir à nouveau prochainement pour étudier diverses questions qui lui sont déjà soumises pour avis.
