@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871208869
+
+- Question : [SEQ871208869](seq871208869.md) — Tatouage des équidés
+
+## Réponse
+
+*Agriculture, JO du 1988-03-10, page 334*
+
+Réponse. - la suite de l'officialisation par le ministère de l'agriculture du tatouage des équidés, le document d'identification des chevaux immatriculés et tatoués sur la face interne de la lèvre inférieure, à la demande de leurs propriétaires, doit obligatoirement suivre les animaux à l'occasion de tout changement de propriétaire et de toute transaction commerciale, y compris celle destinée à l'abattage du cheval. Afin d'exploiter les avantages de cette identification des chevaux par tatouage, il peut être envisagé de vérifier que les animaux tatoués introduits dans les abattoirs sont effectivement livrés avec leur document d'identification, l'absence de ce document pouvant en effet faire soupçonner qu'il y a eu vol de l'animal. Ainsi qu'il a déjà été répondu à l'auteur de la question, le contrôle ante mortem de l'existence d'un tatouage sur la face interne de la lèvre inférieure des chevaux est impossible, en raison de ses difficultés de mise en oeuvre dans les écuries d'abattoirs. Cependant, des instructions seront prochainement données aux agents des services vétérinaires présents dans les abattoirs pour qu'un contrôle post mortem soit systématiquement réalisé. L'application d'un tel contrôle, qui permettra la mise en évidence d'éventuelles filières de fourniture aux abattoirs de chevaux volés au pâturage, constituera une mesure dissuasive. Quant aux possibilités de contrôle ante mortem, celles-ci ne pourraient être étudiées que dans l'hypothèse où une identification des chevaux, apparente et facilement lisible, serait largement mise en place. Il convient, par ailleurs, de préciser qu'il n'est prévu aucune mesure réglementaire imposant le tatouage des équidés pour toute cession à titre gratuit ou onéreux de ces animaux.
