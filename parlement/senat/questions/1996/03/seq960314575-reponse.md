@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960314575
+
+- Question : [SEQ960314575](seq960314575.md) — Consommation de drogue des chauffeurs routiers
+
+## Réponse
+
+*Équipement, JO du 1996-07-18, page 1846*
+
+Réponse. - A la demande du comité interministériel de sécurité routière réuni en décembre 1993, la question de la drogue au volant a fait l'objet d'un important travail d'actualisation par des experts. Un Livre blanc, consacré à ce sujet, a été remis au Gouvernement et rendu public en octobre dernier. Toutefois, à l'heure actuelle, le ministère chargé des transports ne dispose pas de données statistiques précises sur la consommation de drogue par les conducteurs de poids lourds. La diffusion du Livre blanc a suscité des initiatives et des propositions qui devraient répondre au souhait de l'honorable parlementaire. Le Gouvernement a annoncé qu'il soutiendrait la proposition de loi visant à lutter contre la conduite sous l'influence de produits stupéfiants et qui devrait être examinée prochainement par le Parlement. A cette occasion, la consommation de cannabis et celle d'amphétamines devraient notamment être prises en compte. Parallèlement, devraient être étudiées les modalités pratiques de dépistage par des techniques et des méthodes fiables et simples permettant de donner des éléments de preuve d'une conduite sous l'influence de ces produits. Dans le but de rendre ces mesures les plus efficaces possibles, le Gouvernement se propose d'adopter une démarche qui fait appel à la progressivité, à la sensibilisation et à la formation du public et des acteurs concernés : chefs d'entreprises, familles, médecins, forces de l'ordre. Enfin, en ce qui concerne le transport routier, un contrat de progrès a été signé avec la profession dont les mesures sont actuellement mises en place, y compris celles relatives à la durée de travail des conducteurs routiers, ainsi qu'au rythme des périodes de conduite.
