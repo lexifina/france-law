@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001230161
+
+- Question : [SEQ001230161](seq001230161.md) — Développement de l'enseignement artistique à l'école primaire
+
+## Réponse
+
+*Éducation, JO du 2001-05-17, page 1680*
+
+Réponse. - Pour mettre en uvre le plan de cinq ans en faveur de l'éducation artistique et de l'action culturelle, vont être nommés, dans chaque académie, un délégué académique à l'éducation artistique et l'action culturelle (DAAC) et, dans chaque inspection académique, un coordonnateur pour l'éducation artistique et l'action culturelle. Les DAAC auront, sous l'autorié du recteur et en collaboration étroite avec les IA-IPR, à informer les partenaires institutionnels et culturels, à susciter les initiatives, à expliquer les choix, à faciliter la mise en uvre des projets retenus, des actions de formation, à contribuer à préparer les décisions budgétaires correspondantes, à évaluer et faire connaître les résultats. Au niveau académique, un groupe de pilotage sera constitué. Sous la responsabilité du recteur, le DAAC animera ce groupe, réunissant les inspecteurs d'académie, directeurs des services départementaux de l'éducation nationale et leurs coordonnateurs, les IA-IPR des disciplines concernées, le conseiller technique chargé de la formation, les responsables du centre régional de documentation pédagogique (CRDP) et de l'institut universitaire de la formation des maîtres (IUFM). Ce groupe de pilotage pourra être élargi aux services déconcentrés des départements ministériels concernés, aux collectivités locales quand l'ordre du jour le rendra nécessaire, ainsi qu'à d'autres partenaires institutionnels ou culturels. Au niveau de chaque département, l'IA-DSDEN en liaison avec le DAAC pilotera un groupe départemental. Les noms des délégués seront communiqués à la direction de l'enseignement scolaire avant la fin de cette présente année scolaire.
