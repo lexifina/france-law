@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920521220
+
+- Question : [SEQ920521220](seq920521220.md) — Proposition du Conseil d'Etat concernant le remplacement des SDAU par des directives territoriales d'aménagement
+
+## Réponse
+
+*Équipement, JO du 1992-08-27, page 1967*
+
+Réponse. - Le rapport du Conseil d'Etat consacré au droit de l'urbanisme qui vient d'être rendu public comporte un nombre important de propositions et de recommandations. L'ensemble de ces propositions et recommandations fait actuellement l'objet d'une réflexion approfondie, en vue notamment d'un projet de loi qui pourrait être déposé à l'automne devant le Parlement.Au nombre de celles-ci figure l'élaboration de directives territoriales d'aménagement. Le Conseil d'Etat ne préconise pas le remplacement pur et simple des actuels schémas directeurs par ces directives, mais, dans un souci de simplification et de clarté, il estime opportun que les schémas qui n'auraient pas été mis en compatibilité avec ces futures directives dans un délai de deux ans après leur entrée en vigueur soient considérés comme caducs. Les directives territoriales d'aménagement peuvent être l'occasion pour l'Etat de définir, en liaison avec les grandes collectivités territoriales, une stratégieà moyen ou à long terme pour des territoires pertinents, comme par exemple les grandes régions urbaines, les grands couloirs où sont concentrées des infrastructures et des activités ou encore des territoires fragiles comme le littoral ou la montagne, etc. Sans remettre en question les acquis de la décentralisation, il s'agit plutôt, dans le cadre des compétences établies depuis 1982, de faire en sorte que l'Etat s'exprime de façon claire et cohérente vis-à-vis des collectivités territoriales sur les politiques dont il est responsable. C'est pourquoi ces directives n'ont nullement vocation à se substituer aux schémas directeurs qui, élaborés dans le cadre des agglomérations, sont de nature intercommunale.
