@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860601545
+
+- Question : [SEQ860601545](seq860601545.md) — Enseignement et transfert de compétences
+
+## Réponse
+
+*Éducation, JO du 1986-12-18, page 1753*
+
+Réponse. -Le ministre de l'éducation nationale souligne qu'il est très attaché au maintien de l'école dans les communes rurales en vue notamment de permettre la scolarisation sur place d'un certain nombre d'enfants. Il rappelle à cet égard que ses services favorisent chaque fois que possible la création de regroupements pédagogiques intercommunaux qui sont une des solutions à la baisse des effectifs en milieu rural. S'agissant des possibilités d'inscription en dehors de la commune de résidence, il faut souligner la difficulté d'assurer un équilibre entre la liberté de choix des parents et celle des maires, les préoccupations des uns et des autres étant le plus souvent également légitimes. Pour tenir compte en particulier des problèmes financiers rencontrés par les petites communes rurales, il a été décidé de différer de deux ans l'entrée en vigueur des dispositions relatives à la répartition intercommunale des charges des écoles élémentaires et maternelles accueillant des enfants de plusieurs communes qu'avait prévues la loi du 22 juillet 1983. Ce report va permettre une nouvelle réflexion sur ce sujet délicat. Dans l'immédiat aucune participation financière ne peut être exigée sans accord préalable d'une commune de résidence dont les élèves sont scolarisés dans une autre commune. En ce qui concerne le problème particulier posé en milieu rural par l'accueil des enfants de cinq ans à l'école élémentaire, le ministre de l'éducation nationale y est tout à fait favorable et rappelle d'ailleurs les dispositions de l'article 2 de la loi n° 75-620 du 11 juillet 1975 selon lesquelles à l'âge de cinq ans tout enfant doit pouvoir, selon le voeu de sa famille, être accueilli à l'école maternelle ou, à défaut, être admis dans une section enfantine de l'école élémentaire.
