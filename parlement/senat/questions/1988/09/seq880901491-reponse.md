@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880901491
+
+- Question : [SEQ880901491](seq880901491.md) — Cotisations sociales des agriculteurs
+
+## Réponse
+
+*Agriculture, JO du 1988-10-20, page 1166*
+
+Réponse. - L'objectif poursuivi par le Gouvernement dans le domaine des cotisations sociales des agriculteurs est de mettre un terme aux inégalités et de rapprocher le niveau des prévèlements des capacités contributives des cotisants. Il s'est traduit notamment par des augmentations de cotisations plus importantes dans les hautes tranches que dans les tranches inférieures de revenu cadastral du barème de l'assurance maladie. Ainsi, de 1983 à 1988, les cotisations globales ont augmenté de 50 p. 100 au titre de la mise en valeur d'exploitations dont le revenu cadastral est, cette année, supérieure à 31 354 F, ce qui correspond à des superficies de plus de 100 hectares. Par contre, pour la grande majorité des exploitations qui sont comprises entre 12 et 50 hectares, cette augmentation varie entre 34 et 40 p. 100, d'où une différence non négligeable de 10 à 16 p. 100. En tout état de cause, il ne peut être envisagé de calculer le montant global des cotisations de telle manière qu'il soit exactement proportionnel aux superficies et au revenu cadastral des exploitations et procéder, de ce fait, au déplafonnement intégral de l'assiette des cotisations. En effet, par rapport à l'importance des exploitations, les revenus des agriculteurs n'augmentent pas selon une progression linéaire, compte tenu du fait que les grandes exploitations doivent supporter des charges supplémentaires, notamment salariales. Il convient par ailleurs de rappeler que, à l'instar des autres régimes légaux de protection sociale, les cotisations cadastrales d'assurance vieillesse sont nécessairement plafonnées dans la mesure où la retraite proportionnelle des agriculteurs est elle-même limitée à concurrence de l'obtention de soixante points retraite.
