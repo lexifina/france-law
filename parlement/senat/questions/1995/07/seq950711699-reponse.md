@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950711699
+
+- Question : [SEQ950711699](seq950711699.md) — Publication d'un document unique d'information sur les aides aux entreprises
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 1996-02-08, page 272*
+
+Réponse. - Comme l'a souhaité le Premier ministre, des " guichets initiative-emploi " sont en place dans tous les départements. Plus précisément, début octobre, plus de 300 guichets étaient déjà ouverts sur l'ensemble du territoire national. Ils réunissent en un même lieu des agents des DDTEFP, ANPE, URSSAF, chambres consulaires,... Ils ont pour vocation, d'une part, d'informer largement les chefs d'entreprise, artisans et commerçants, sur l'ensemble des aides publiques pouvant leur être octroyées dans le cadre du maintien et du développement de l'emploi, et, d'autre part, d'aider les PME à l'accomplissement de leurs démarches administratives. Depuis le 1er janvier 1996, avec la mise en place de la déclaration unique d'embauche, les chefs d'entreprise peuvent disposer, dans ces guichets, d'une information et d'une aide au remplissage de l'ensemble des formalités liées à l'embauche d'un salarié. La mise en place de ces guichets initiative-emploi s'inscrit dans une volonté politique de simplification des formalités administratives qui est confirmée par les mesures annoncées par le Premier ministre, le 27 novembre dernier, lors de la présentation du " plan PME pour la France ". Enfin, le ministre des petites et moyennes entreprises, du commerce et de l'artisanat, a chargé quatre députés (MM. Carayon, Forissier, Fourgous et Mathot), tous chefs d'entreprise, de procéder à un véritable audit des aides publiques aux entreprises. Ils proposeront au Gouvernement des mesures de simplication et de redéploiement qui permettront de concentrer et de coordonner le dispositif de soutien sur quelques grands objectifs fondamentaux : création d'entreprise, innovation, exportation, aménagement du territoire, mise aux normes...
