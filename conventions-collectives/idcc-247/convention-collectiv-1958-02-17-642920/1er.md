@@ -1,52 +1,70 @@
 # Article 1er
 
-La présente convention et ses annexes régissent, sur l'ensemble du territoire métropolitain y compris la Corse ainsi que le territoire de Monaco,
+La présente convention et ses annexes régissent sur tout le territoire national français, non compris les départements d'outre-mer, les rapports entre les employeurs et les salariés, dans les entreprises relevant des activités ci-après énumérées, par référence à la Nomenclature d'activités (NAF), instaurée par le décret n° 92-1129 du 2 octobre 1992.
 
-(1)
+Cette référence n'apporte pas de modification au contenu détaillé précédemment déterminé par les parties signataires de la présente convention.
 
-les rapports entre les employeurs et les salariés, dans les industries ci-dessous énumérées
+Il est rappelé que le code d'activité attribué par l'INSEE n'a pas de valeur juridique en matière d'applicabilité des conventions collectives, mais une simple valeur indicative. Il conviendra toujours de rechercher l'activité principale réellement exercée par l'entreprise pour déterminer si elle est comprise dans le champ d'application de la présente convention.
 
-(2)
+Il est rappelé que l'activité " industrie de l'habillement " recouvre non seulement les entreprises assurant la fabrication des articles énumérés et référencés ci-après, mais également la création, la conception desdits articles, ainsi que leur commercialisation.
 
-:
+Nomenclature
 
-Confection de vêtements masculins :
+(Etablie en application du décret n° 92-129 du 2 octobre 1992)
 
-Numéro N. A. P : 47-01
+18. Industrie de l'habillement. (1)
 
-Confection de vêtements féminins :
+18.1.Z Fabrication de vêtements en cuir.
 
-Numéro N. A. P : 47-02
+18.2.A Fabrication de vêtements de travail.
 
-Confection de vêtements enfants :
+18.2.D Fabrication de vêtements de dessus pour hommes et garçonnets.
 
-Numéro N. A. P : 47-03
+N'est pas visée dans cette classe la fabrication de vêtements de dessus en bonneterie.
 
-Confection de chemiserie et lingerie :
+18.2.E Fabrication de vêtements de dessus pour femmes et fillettes.
 
-Numéro N. A. P : 47-05
+N'est pas visée dans cette classe la fabrication de vêtements de dessus en bonneterie.
 
-Confection de vêtements en matières plastiques :
+18.2 G Fabrication de vêtements de dessous.
 
-Numéro N. A. P : 47-06
+Cette classe comprend notamment :
 
-Confection de corsets, gaines et soutiens-gorge :
+- la fabrication d'articles de chemiserie et de lingerie ;
 
-Numéro N. A. P : 47-07
+- la fabrication de soutiens-gorge, gaines et corsets.
 
-Fabrication de casquettes, chapeaux piqués et coiffures d'uniformes :
+N'est pas visée dans cette classe la fabrication de sous-vêtements en bonneterie.
 
-Numéro N. A. P : partie du 47-08
+18.2 J Fabrication d'autres vêtements et accessoires.
 
-Fabrication de parapluies et de parasols :
+Sont visées dans cette classe :
 
-Numéro N. A. P : partie du 47-09
+- la fabrication de casquettes, chapeaux piqués et coiffures d'uniforme ;
 
-Fabrication de cravates et pochettes, écharpes, foulards :
+- la fabrication de cravates et pochettes, d'écharpes et de foulards.
 
-Numéro N. A. P : partie du 47-09.
+Ne sont pas visées dans cette classe :
 
-Fabrication d'accessoires de l'uniforme et d'équipements administratifs civils et militaires.
+- la fabrication d'autres vêtements (y compris la layette) en bonneterie et d'articles divers en bonneterie ;
+
+- la fabrication des jarretelles, supports-chaussettes, accessoires de passementerie et filets pour cheveux ;
+
+- la fabrication de bretelles et de ceintures.
+
+25.2 G Fabrication d'articles divers en matières plastiques.
+
+Est visée dans cette classe la fabrication de vêtements en matières plastiques et de casques d'uniforme.
+
+36.6 E Autres activités manufacturières NCA.
+
+Est visée dans cette classe la fabrication de parapluies, d'ombrelles et de parasols.
+
+Les parties signataires conviennent en outre des dispositions suivantes visant les activités relevant de la classe 18 qui entrent dans les champs d'application respectifs de la convention collective nationale des industries de l'habillement, d'une part, et de la convention collective nationale de l'industrie textile, d'autre part :
+
+- les entreprises relevant du champ d'application de la classe 18 visées ci-dessus qui appliquent au moment de l'entrée en vigueur du présent accord la convention collective nationale des industries de l'habillement resteront régies exclusivement par cette dernière convention ;
+
+- il est également rappelé que les ateliers de confection rattachés accessoirement à des établissements textiles bénéficient de la convention collective nationale de l'industrie textile, sauf s'il s'agit d'établissements juridiquement distincts et sous réserve d'accords régionaux contraires.
 
 La présente convention contient les dispositions communes à toutes les catégories de personnel ainsi que les conventions ou annexes particulières applicables à chacune des catégories intéressées :
 
@@ -56,26 +74,18 @@ La présente convention contient les dispositions communes à toutes les catégo
 
 3° Agents de maîtrise et d'encadrement technique et administratif ;
 
-4° Ingénieurs et cadres.
+2° Ingénieurs et cadres.
 
-Les conditions de travail et de salaires applicables aux travailleurs à domicile sont définies à l'annexe 6.
+Les conditions de travail et de salaires applicables aux travailleurs à domicile sont définies à l'annexe VI.
 
-La présente convention est également applicable aux sièges sociaux, dépôts et agences des établissements appartenant aux professions ci-dessus énumérées.
+La présente convention est également applicable aux sièges sociaux, dépôts pour vente en gros et agences des établissements appartenant aux professions ci-dessus énumérées.
 
-Les rapports entre les employeurs des industries visées par la présente convention et leurs voyageurs, représentants et placiers sont réglés par la réglementation en vigueur et la convention collective interprofessionnelle du 3 octobre 1975 modifiée par l'avenant du 25 septembre 1978 et complétée par l'accord national interprofessionnel du 29 mai 1978.
+Les rapports entre les employeurs des industries visées par la présente convention et leurs voyageurs, représentants et placiers sont régis par la réglementation en vigueur et la convention collective interprofessionnelle du 3 octobre 1975, modifiée par l'avenant du 25 septembre 1978 et complétée par l'accord national interprofessionnel du 29 mai 1978.
 
-Salariés divers occupés dans les industries de la confection.
+Salariés divers occupés dans l'industrie de l'habillement :
 
 Les salariés n'appartenant pas directement aux industries de la confection, mais employés constamment par elles à l'entretien, tels que mécaniciens, électriciens, menuisiers, etc., les ouvriers des services de livraison et de transport, bénéficient de la présente convention.
 
-Cependant, la classification professionnelle de ces ouvriers devra leur assurer pour des postes occupés dans des conditions équivalentes une rémunération qui ne pourra être inférieure à celle résultant des dispositions concernant les professions d'origine, rémunération comprenant les accessoires de salaires inhérents aux conditions spécifiques de leur travail.
+Cependant, la classification professionnelle de ces ouvriers devra leur assurer pour des postes occupés dans des conditions équivalentes une rémunération qui ne pourra être inférieure à celle résultant des dispositions concernant les professions d'origine, rémunération comprenant les accessoires de salaire inhérents aux conditions spécifiques de leur travail.
 
-(1) Termes exclus de l'extension (arrêté du 23 juillet 1959, art. 1er).
-
-(2) Pour les entreprises de la confection administrative, se référer également à l'accord national professionnel du 26 septembre 1979 (arrêté d'extension du 19 février 1980).
-
-NOTA :
-
-Par arrêté ministériel du 5 janvier 2017, pris en application de l'article L. 2261-32 du code du travail relatif à la restructuration des branches professionnelles, le champ d'application de la convention collective nationale des industries de la mode et de la chapellerie (IDCC 350) a fusionné avec celui de la convention collective nationale des industries de l'habillement (IDCC 247), désignée comme branche de rattachement.
-
-Dans un délai maximal de 5 ans à compter de l'entrée en vigueur de la fusion des champs, les stipulations des conventions collectives concernées peuvent être maintenues, dans l'attente de la conclusion d'un accord remplaçant par des stipulations communes les stipulations régissant des situations équivalentes dans chacune des conventions. A défaut d'accord au terme de ce délai, les stipulations de la convention rattachée cessent de s'appliquer, à l'exception de celles régissant des situations spécifiques (Conseil constitutionnel, décision n° 2019-816 QPC du 29 novembre 2019).
+(1) Les entreprises utilisant principalement pour la confection d'articles d'habillement des tissus à maille relèvent du champ d'application de la convention collective nationale de l'industrie textile.
