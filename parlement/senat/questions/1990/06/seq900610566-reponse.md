@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900610566
+
+- Question : [SEQ900610566](seq900610566.md) — Enseignement technique privé sous contrat : reconversion des maîtres
+
+## Réponse
+
+*Éducation, JO du 1990-12-13, page 2647*
+
+Réponse. - Depuis l'année scolaire 1987-1988, des stages de reconversion organisés par les organismes de formation continue conventionnés avec l'Etat sont suivis par des maîtres contractuels exerçant leurs fonctions dans les lycées professionnels privés, par référence aux actions prévues dans le cadre du plan de formation continue des personnels enseignants de l'enseignement public. Dans le cadre de ce plan de formation continue, le dispositif Ariane qui vise à l'adaptation des professeurs des lycées professionnels et des lycées techniques à une nouvelle option de leur spécialité, voire à la reconversion de ces personnels dans une autre spécialité, suppose une gestion prévisionnelle des structures des établissements, des emplois et des personnels des académies. Ces actions d'adaptation et de reconversion ne sont pas organisées à la seule demande des intéressés ni dans la perspective des modifications de la carte scolaire, mais également au regard de l'évolution de secteurs professionnels. Elles doivent, finalement, concourir à une meilleure adéquation des qualifications des enseignants de lycée technique ou professionnel aux besoins du système éducatif, compte tenu des exigences du marché de l'emploi et des obligations de résultat que s'est fixées l'Etat en matière de réussite scolaire. Il appartient aux organismes de formation continue des personnels des établissemements d'enseignement privés, en liaison avec les services rectoraux, de proposer un dispositif comparable, s'ils souhaitent le mettre en place, dans le cadre des crédits de formation qui leur sont alloués.
