@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970702118
+
+- Question : [SEQ970702118](seq970702118.md) — Traitement des médicaments périmés
+
+## Réponse
+
+*Santé, JO du 1997-10-09, page 2745*
+
+Réponse. - Il est précisé à l'honorable parlementaire que la destruction des médicaments périmés incombe essentiellement aux producteurs de médicaments et aux établissements de santé, qui ont en effet à respecter des procédures spécifiques pour l'élimination des déchets dangereux. Néanmoins, les articles R. 5143 (k) et R. 5128-2 (t) du code de la santé publique prévoient que soient mentionnés respectivement sur l'étiquetage et dans le résumé des caractéristiques du produit les précautions particulières d'élimination des produits non utilisés ou des déchets dérivés de ces produits, s'il y a lieu. Par ailleurs, l'association Cyclamed, qui regroupe, sous l'égide du Conseil national de l'ordre des pharmaciens, le Syndicat national de l'industrie pharmaceutique, la Fédération des syndicats pharmaceutiques de France, l'Union nationale des pharmaciens de France et l'Association de pharmacie rurale, a mis au point depuis 1993, en application du décret du 1er avril 1992 relatif à l'élimination des déchets, un dispositif de collecte des médicaments non utilisés en vue de leur distribution à des fins humanitaires ou de leur destruction par incinération. Des campagnes ont dans ce cadre été organisées, afin d'inciter le consommateur à rapporter à la pharmacie les médicaments non utilisés. Il est, par ailleurs, précisé à l'honorable parlementaire que l'Agence du médicament autorise les industriels qui le souhaitent à spécifier dans la notice d'utilisation de leurs produits, à l'aide du logo " Cyclamed " et d'une mention spéciale, que ceux-ci participent à l'action entreprise par l'association et qu'en conséquence ils demandent aux patients de rapporter aux pharmaciens l'emballage des médicaments, vide ou non.
