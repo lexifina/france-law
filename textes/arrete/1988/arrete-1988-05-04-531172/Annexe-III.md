@@ -17,5 +17,3 @@ Prime de risque des expérimentateurs d'essais effectués au laboratoire de méd
 Indemnités de sujétions spécifiques pour l'exercice de fonctions sur un site isolé et d'accès réglementé (décret n° 2001-297 du 4 avril 2001 portant attribution d'indemnités journalières de sujétions spécifiques pour l'exercice de fonctions sur un site isolé et d'accès réglementé au profit de certains personnels civils du ministère chargé de la défense).
 
 Indemnité de difficulté d'accès aux installations du ministère de la défense implantées sur l'île Longue (décret n° 2000-1108 du 14 novembre 2000 relatif à l'attribution d'une indemnité de difficulté d'accès aux fonctionnaires et aux agents non titulaires de l'Etat exerçant leurs fonctions dans les installations du ministère de la défense implantées sur l'île Longue Finistère).
-
-Indemnité spéciale pour travaux de recherches scientifiques (décret n° 2002-741 du 2 mai 2002 portant attribution d'une indemnité spéciale pour travaux de recherches scientifiques à certains personnels civils et militaires du ministère de la défense).
