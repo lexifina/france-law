@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900108020
+
+- Question : [SEQ900108020](seq900108020.md) — Réorganisation du service public d'EDF-GDF
+
+## Réponse
+
+*Industrie, JO du 1990-05-24, page 1146*
+
+Réponse. - Electricité de France et Gaz de France ont engagé une réflexion sur la réforme des structures de la direction de la distribution ; cette réforme a pour but de renforcer l'efficacité de ces entreprises, qui doivent se préparer aux échéances du Marché unique, et d'améliorer les relations entre E.D.F. et G.D.F. et leurs clients. Cette réforme répond à un double objectif : mieux définir les missions et renforcer les responsabilités des cent deux centres de distribution ; établir une relation plus directe entre les centres de distribution et le niveau de direction central. Pour ce faire, il est prévu de regrouper les fonctions de pilotage, de contrôle et d'animation des centres autour de directeurs exécutifs responsables de zones ; un responsable sera désigné au siège de chaque région pour assurer les relations avec les autorités et élus régionaux. Les conseils d'administration d'Electricité de France du 27 octobre 1989 et de Gaz de France du 25 octobre 1989 ont approuvé les grandes orientations du projet de réforme de l'organisation et du fonctionnement interne de la direction de la distribution. Par ailleurs, le conseil supérieur de l'électricité et du gaz, au cours de ses séances du 20 décembre 1989 et du 22 février 1990, a émis un avis favorable sur le projet. Les décisions concernant la mise en oeuvre de ces projets seront prises dans le respect des procédures internes de concertation applicables en matière de réforme de structure. L'intérêt général de la qualité des relations avec les responsables régionaux seront pris en compte dans la définition précise des nouvelles structures.
