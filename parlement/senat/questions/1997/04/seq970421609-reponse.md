@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970421609
+
+- Question : [SEQ970421609](seq970421609.md) — Conséquences de l'instauration de la taxe d'équarrissage pour les bouchers-charcutiers
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 1997-06-02, page 1640*
+
+Réponse. - La loi no 96-1139 du 26 décembre 1996 relative à la collecte et à l'élimination des cadavres d'animaux et de déchets d'abattoirs, a instauré une taxe prélevée au niveau de la vente au détail et assise sur la valeur hors taxes sur la valeur ajoutée des achats de viandes, de salaison et produits de charcuterie et d'aliments pour animaux. Cette taxe est, par principe, moins élevée pour le petit commerce que pour la grande distribution, puisqu'elle est plafonnée à 0,8 % des achats, hors taxes sur la valeur ajoutée, quand ceux-ci sont inférieurs à 125 000 francs par mois, alors qu'elle peut monter à 1 % au-delà. Les taux appliqués en 1997 seront de 0,5 % et 0,9 %. Les professionnels de la boucherie ont souhaité une exonération de la taxe pour les entreprises ayant un chiffre d'affaires annuel inférieur à 5 000 000 francs. Ce point a été largement débattu au cours des débats parlementaires. Le Gouvernement a accepté, à l'issue de la discussion, de relever le seuil d'exonération à 2,5 MF hors taxes. C'est sur cette base que la loi a été votée et promulguée. Ceci permettrait, selon les statistiques de l'INSEE, et du SCEES, à plus de 92 % des boucheries-charcuteries, 87 % des charcuteries et 87 % des épiceries d'être exonérées. Ce seuil semble être un bon compromis entre la nécessité de ne pas aller vers des taux de taxation qui soient trop élevés et celle de préserver le petit commerce. Conscient des difficultés à valider ces différents chiffres, le ministre de l'agriculture, de la pêche et de l'alimentation, en accord avec les parlementaires, s'est engagé à faire un bilan d'application de cette taxe au bout de un an, afin d'apporter des ajustements si nécessaire.
