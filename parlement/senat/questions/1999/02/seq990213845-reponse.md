@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990213845
+
+- Question : [SEQ990213845](seq990213845.md) — Eleveurs d'ovins
+
+## Réponse
+
+*Agriculture, JO du 1999-04-08, page 1147*
+
+Réponse. - Le projet de réforme de la politique agricole commune ne concerne pas l'organisation commune de marché dans le secteur ovin. Il faut toutefois être prudent avant d'aventurer toute révision de cette OCM dont la plupart des modalités restent globalement favorables aux spécificités de l'élevage ovin français. Une révision des conditions d'attribution de la PCO ou de la prime monde rural (aide spécifique aux exploitations des zones les plus fragiles dont bénéficient 85 % des producteurs français) aurait certainement pour conséquence une diminution du taux de retour de la France. Si des évolutions s'avèrent souhaitables, les solutions sont donc sans doute à rechercher d'abord en dehors de l'OCM. Le rôle fondamental que joue l'élevage ovin dans la gestion de l'espace lui confère des atouts qu'il convient de faire valoir dans les futures mesures structurelles européennes et s'inscrit dans l'esprit du projet de loi d'orientation agricole, adopté par le Sénat à une large majorité début février. Le ministère de l'agriculture et de la pêche est très attaché à la reconnaissance, à travers des mesures plus découplées, de la dimension territoriale et environnementale de l'élevage ovin dans son ensemble. A ce titre, celui-ci devrait trouver toute sa place dans le cadre des contrats territoriaux d'exploitation prévus par le projet de loi d'orientation agricole (adopté par le Sénat début février à une très large majorité). En effet, les CTE comportent un ensemble d'engagements portant sur les orientations de la production de l'exploitation, l'emploi, la contribution de l'activité de l'exploitation à la préservation des ressources naturelles et à l'occupation de l'espace, qui sont autant de caractéristiques propres à l'élevage ovin.
