@@ -2,17 +2,17 @@
 
 I. Les dépenses de grosses réparations afférentes à la résidence principale du contribuable dont il est propriétaire et payées entre le 1er janvier 1985 et le 31 décembre 1989 ouvrent droit à une réduction d'impôt sur le revenu lorsque l'immeuble est situé en France et est achevé depuis plus de quinze ans. La réduction est égale à 25 % du montant de ces dépenses.
 
-Pour une même résidence, le montant des dépenses ouvrant droit à réduction ne peut excéder au cours de la période définie au premier alinéa la somme de 8.000 F pour une personne célibataire, veuve ou divorcée et de 16.000 F pour un couple marié. Cette somme est majorée de 2.000 F par personne à charge au sens des articles 196 à 196 B. Cette majoration est fixée à 2.500 F pour le second enfant et à 3.000 F par enfant à partir du troisième.
+Pour une même résidence, le montant des dépenses ouvrant droit à réduction ne peut excéder au cours de la période définie au premier alinéa la somme de 10.000 F pour une personne célibataire, veuve ou divorcée et de 20.000 F pour un couple marié. Cette somme est majorée de 2.000 F par personne à charge au sens des articles 196 à 196 B. Cette majoration est fixée à 2.500 F pour le second enfant et à 3.000 F par enfant à partir du troisième.
 
 Au titre d'une année, les dépenses ouvrant droit à réduction d'impôt sont limitées à la moitié des montants définis à l'alinéa précédent ; l'excédent ouvre droit à réduction d'impôt au titre de l'année suivante.
 
-Les dispositions des articles 199 sexies-1°-b et 199 sexies A-II s'appliquent à cette réduction d'impôt.
+Les dispositions de l'article 199 sexies-1°-b et du 7 de l'article 199 undecies s'appliquent à cette réduction d'impôt.
 
 La réduction d'impôt est accordée sur présentation de factures mentionnant la nature et le montant des travaux.
 
 II. Lorsque, pour une opération déterminée, le contribuable opte pour l'application des dispositions prévues au I, les intérêts des emprunts contractés à compter du 1er janvier 1985 pour financer les dépenses de grosses réparations afférentes à la résidence principale n'ouvrent pas droit à la réduction d'impôt prévue à l'article 199 sexies-1°-a.
 
-III. a) La réduction mentionnée au paragraphe I bénéficie sous les mêmes conditions, aux dépenses payées du 1er janvier 1990 au 31 décembre 1992 par les contribuables dont le revenu net imposable par part n'excède pas la limite inférieure de la douzième tranche du barème de l'impôt.
+III. a) La réduction mentionnée au paragraphe I bénéficie sous les mêmes conditions, aux dépenses payées du 1er janvier 1990 au 31 décembre 1995.
 
 Les dépenses ouvrant droit à cette réduction sont limitées, au cours de cette période, aux montants prévus au deuxième alinéa du paragraphe I.
 
@@ -26,4 +26,8 @@ c) Lorsque le bénéficiaire de la réduction d'impôt est remboursé dans un d�
 
 Toutefois, la reprise d'impôt n'est pas pratiquée lorsque le remboursement fait suite à un sinistre survenu après que les dépenses ont été payées.
 
-(1) Ces dispositions s'appliquent aux dépenses payées à compter du 1er janvier 1991. (2) Voir Annexe IV, art. 17 M à 17 O. En ce qui concerne la liste des dépenses de régulation de chauffage, voir Annexe 4, art. 17 P à 17 S.
+(1) Ces dispositions s'appliquent aux dépenses payées à compter du 1er janvier 1991.
+
+(2) Voir Annexe IV, art. 17 M à 17 O.
+
+En ce qui concerne la liste des dépenses de régulation de chauffage, voir Annexe 4, art. 17 P à 17 S.
