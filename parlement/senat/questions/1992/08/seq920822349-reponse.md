@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920822349
+
+- Question : [SEQ920822349](seq920822349.md) — Prévention des risques d'accidents liés à l'exercice des sports d'eau vive
+
+## Réponse
+
+*Jeunesse et sports, JO du 1992-10-08, page 2304*
+
+Réponse. - L'activité de descente de canyon est une activité récente mais en rapide expansion. Les risques liés à cette activité tiennent notamment au fait que celle-ci ne peut être pratiquée sans encadrement par des néophytes puisqu'elle fait appel aux techniques de l'escalade, de la nage en eaux vives, de la spéléologie, voire d'autres disciplines et se déroule sur des sites parfois dangereux. Les fédérations sportives et organismes professionnels concernés par cette activité sont nombreux et doivent se coordonner pour structurer une activité qui se déroule actuellement le plus souvent en dehors d'eux. L'Etat, bien sûr, ne peut se désintéresser des conséquences de ce nouvel engouement. C'est ainsi que le ministère de la jeunesse et des sports a entrepris depuis quelques mois avec l'ensemble des partenaires précédemment évoqués une réflexion sur le contenu d'une réglementation de l'exercice, à titre professionnel, de l'encadrement de l'activité de descente de canyons. Cette réflexion doit déboucher sur la création d'une qualification appropriée qui sera délivrée par l'Etat. Par ailleurs, cette activité est soumise au régime de police de droit commun. Les risques qui pèsent sur les pratiquants concernent en effet le maire - autorité de police compétente au plan local - qui, en vertu de l'article L. 131-1 du code des communes a la responsabilité du bon ordre et de la sécurité publics sur le territoire de la commune, et dans ce cadre peut réglementer notamment l'accès aux sites de pratique. Ce dispositif devrait permettre de maîtriser la situation décrite par l'honorable parlementaire.
