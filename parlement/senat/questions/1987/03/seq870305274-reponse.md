@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870305274
+
+- Question : [SEQ870305274](seq870305274.md) — Diffamations commises à l'étranger à l'encontre de membres du conseil supérieur des Français de l'étranger
+
+## Réponse
+
+*Justice, JO du 1987-06-18, page 975*
+
+Réponse. -Le délit de diffamation qui serait commis par des Français à l'étranger semble susceptible d'être poursuivi et réprimé en France, sous réserve de la réunion de deux conditions : il faut, d'une part, que les mis en cause n'aient pas été jugés définitivement à l'étranger ou, s'ils y ont été condamnés, que leur peine n'ait été ni subie ni prescrite et qu'ils n'en aient pas obtenu la grâce ; d'autre part, que le fait délictueux soit puni par la législation du pays où il a été commis. Sous réserve de l'appréciation souveraine des tribunaux, l'article 31 de la loi du 29 juillet 1881 paraît pouvoir s'appliquer aux diffamations commises à l'égard des membres du Conseil supérieur des Français à l'étranger. Les délais prévus aux articles 54 et 57 de la loi sur la liberté de la presse ne doivent pas être augmentés des délais de distance prévus par l'article 522, alinéa 2, du code de procédure pénale, les dispositions de la loi du 29 juillet 1881 dérogeant expressément aux principes généraux posés par cet article. Les dispositions des articles 54, alinéa 2, et 57, alinéa 2, de la loi du 29 juillet 1881 semblent pouvoir recevoir application à l'occasion des élections au Conseil supérieur des Français à l'étranger, la jurisprudence donnant de la détermination du " candidat à une fonction électorale " une interprétation très extensive. " La période électorale " visée par l'article 54 de la loi sur la liberté de la presse s'étend de la période qui sépare les déclarations de candidatures, antérieures au décret de convocation des électeurs, à la date du scrutin.
