@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900509923
+
+- Question : [SEQ900509923](seq900509923.md) — Coût des dégradations dans le métropolitain
+
+## Réponse
+
+*Équipement, JO du 1990-08-09, page 1764*
+
+Réponse. - Le phénomène de dégradation volontaires dans l'enceinte du métro, outre le fait qu'il concourt au développement d'un sentiment d'insécurité chez les usagers, s'avère très pénalisant pour la R.A.T.P. et la collectivité publique, puisque pour la seule année 1989, le coût de la lutte contre les graffitis s'est élevé à 35 millions de francs. Pour combattre ce phénomène, la R.A.T.P. a élaboré un plan " sécurité " et un plan " propreté " dans lesquels la lutte anti-graffitis s'inscrit comme un enjeu primordial de la reconquête et de la maîtrise de son territoire. Des moyens humains et techniques accrus sont consacrés à cette politique. La multiplication des missions opérationnelles des services de sécurité effectuées en collaboration avec les forces de police de jour comme de nuit a permis d'interpeller 160 graffiteurs en janvier et février 1990. La R.A.T.P. a attiré l'attention du parquet sur la nécessité d'exercer des poursuites accrues et sur l'intérêt d'infliger aux délinquants pris en flagant délit des travaux de nettoyage à titre de peine de substitution. La R.A.T.P. a par ailleurs mis en place des dispositions permettant de retirer du service, pour être nettoyées, toutes les rames recouvertes de graffitis. A cette fin, les équipes de nettoyage ont été renforcées. Des mesures préventives d'ordre plus général viennent compléter ces actions : parmi ces mesures, il convient de souligner la volonté d'informer les jeunes et d'instaurer avec eux un dialogue. Toutes ces actions ont pour seul but de maîtriser un phénomène préoccupant afin de rendre aux usagers des transports en commun la qualité du service au quotidien à laquelle ils peuvent légitimement prétendre.
