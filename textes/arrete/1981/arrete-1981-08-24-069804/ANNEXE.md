@@ -44,9 +44,9 @@
 
 : a) En cas d'examen en culture : : : : : |
 
-: par année d'expérimentation : 1.800 : 1.800 : 1.000 : |
+: par année d'expérimentation : 2.140 : 2.140 : 1.190 : |
 
-: b) En cas d'examen simplifié : " : " : 300 : |
+: b) En cas d'examen simplifié : " : " : 356 : |
 
 : c) Lorsqu'il n'est pas procédé à : : : : |
 
