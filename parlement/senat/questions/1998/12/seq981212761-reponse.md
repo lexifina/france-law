@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981212761
+
+- Question : [SEQ981212761](seq981212761.md) — Dématérialisation des déclarations et du paiement des cotisations sociales
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 1999-02-04, page 396*
+
+Réponse. - Toutes les entreprises peuvent désormais effectuer leurs déclarations de cotisations sociales selon des protocoles unifiés et par voie électronique. Ce service est principalement destiné aux petites entreprises, mais il est accessible sans limitation de taille. Il permet à une entreprise d'effectuer par Minitel l'ensemble des formalités périodiques de déclarations et de paiement de cotisations sociales auxquelles elle est soumise vis-à-vis des URSSAF, des ASSEDIC et des caisses de retraites complémentaires. L'utilisation de la DUCS Minitel est soumise à une procédure d'adhésion simple : l'entreprise remplit un formulaire qu'elle remet à l'un de ses organismes de protection sociale. Celui-ci se charge de le transmettre à tous les organismes concernés. L'entreprise est ensuite avertie de la date à partir de laquelle elle peut utiliser le service et elle reçoit communication d'un mot de passe initial (qu'elle peut ensuite modifier). L'entreprise se connecte ensuite au service par le 3614 DUCS ; elle s'identifie (par son numéro SIRET et un mot de passe). Elle saisit les montants des différentes assiettes de cotisations pour chacun des organismes. Elle n'a plus à effectuer le calcul de ses cotisations, qui est fait par le service. Si elle le souhaite, l'entreprise peut aussi procéder au télépaiement de ses cotisations aux différents organismes par le service de DUCS Minitel. Le système retenu est le télérèglement (prélèvement déclenché par les organismes aux dates d'échéance prévues et sur la base des montants calculés lors de la déclaration). Un justificatif de télédéclaration est affiché en fin de connexion. Une copie écrite peut être envoyée à l'entreprise par télécopie ou par courrier.
