@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990214060
+
+- Question : [SEQ990214060](seq990214060.md) — Instauration pour les commissaires de police d'une prime à la mobilité à versement échelonné
+
+## Réponse
+
+*Intérieur, JO du 1999-07-15, page 2432*
+
+Réponse. - Les commissaires de police sont soumis à un double impératif de disponibilité permanente et de mobilité. Du fait des sujétions qui leur sont imparties, la situation de ces hauts fonctionnaires fait l'objet de toute l'attention de l'administration. Ainsi, indépendamment des avantages matériels accordés au travers de concessions de logement dont ils sont bénéficiaires, le régime indemnitaire qui leur est applicable a été modernisé et revalorisé par l'allocation de service, créée par le décret du 25 mars 1996. Le montant de cette allocation, versée mensuellement, est déterminé en fonction du grade des bénéficiaires selon le mode de répartition résultant de l'arrêté du 25 mars 1996. Ce montant varie ainsi entre 4 600 F et 10 300 F par mois. Par ailleurs, comme l'ensemble des fonctionnaires actifs de la police nationale, les intéressés bénéficient d'une indemnité de sujétions spéciales de police représentant, en moyenne, 17 % du traitement principal et intégrée dans le calcul de la pension de retraite. Enfin, leur est versé un certain nombre d'indemnités destinées, en particulier, à tenir compte de la difficulté de certaines affectations, notamment au plan géographique. Il n'est donc pas envisagé de retenir la proposition évoquée par l'honorable parlementaire et visant à instaurer une prime à la mobilité en faveur des commissaires de la police nationale : en cette matière, les règles communes à l'ensemble de la fonction publique s'appliquent aux intéressés. Toute modification à cet égard relèverait principalement de la compétence du secrétariat d'Etat au budget et du ministère de la fonction publique, de la réforme de l'Etat et de la décentralisation.
