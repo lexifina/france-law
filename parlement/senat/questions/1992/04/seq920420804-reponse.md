@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920420804
+
+- Question : [SEQ920420804](seq920420804.md) — Recrutement de professeurs d'universités (appels de candidature et situation des candidats en poste à l'étranger)
+
+## Réponse
+
+*Éducation, JO du 1992-07-16, page 1619*
+
+Réponse. - Des dispositions appropriées à la situation des résidants à l'étranger, candidats à l'inscription sur une liste de qualification aux fonctions de professeur des universités ou de maître de conférences ont été prises. C'est ainsi qu'une note du 16 mars 1992 leur a été adressée par les services réceptionnaires de leur dossier pour leur recommander d'indiquer le nom et l'adresse d'un correspondant sur le territoire métropolitain français susceptible de se charger de la transmission de leurs travaux au rapporteur désigné ; c'est à ce correspondant qu'ont été indiquées les coordonnées du rapporteur. Par ailleurs, les arrêtés du 30 janvier 1992 concernant l'ensemble des candidats à l'inscription sur une liste de qualification aux fonctions de maître de conférences devaient nécessairement être publiés au Journal officiel de la République française ; cependant, tous les textes publiés au Journal officiel ne sont pas nécessairement repris dans le Bulletin officiel du ministère de l'éducation nationale. Compte tenu de la nécessité de pourvoir de nombreux emplois à la prochaine rentrée universitaire afin d'assurer la formation des étudiants en nombre croissant, il n'est pas possible d'envisager de rouvrir les délais de candidature fixés par l'arrêté du 30 janvier 1992. Les arrêtés d'ouverture des concours et les listes d'emplois offerts au recrutement sont publiés au Bulletin officiel n° 19 du 7 mai 1992 pour les maîtres de conférences. Ils sont publiés au Journal officiel (20 mai et 6 juin 1992) pour les emplois de professeurs des universités.
