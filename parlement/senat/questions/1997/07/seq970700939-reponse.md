@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970700939
+
+- Question : [SEQ970700939](seq970700939.md) — Calcul des charges sociales dans le secteur agricole
+
+## Réponse
+
+*Agriculture, JO du 1997-10-02, page 2622*
+
+Réponse. - En application de la loi de financement de la sécurité sociale no 96-1160 du 27 décembre 1996, l'assiette de la contribution sociale généralisée (CSG) prévue par les articles L. 136-1 et suivants du code de la sécurité sociale est depuis le 1er janvier 1997 strictement alignée, s'agissant des revenus d'activité, sur l'assiette de la contribution pour le remboursement de la dette sociale (CRDS) prévue par les articles 14 et suivants de l'ordonnance no 96-50 du 29 janvier 1996. Dans un souci de clarté pour les employeurs et leurs salariés, la circulaire du 7 avril 1997 relative à la simplification du bulletin de paie prévoit notamment en ce qui concerne la méthode de calcul de la CSG et de la CRDS, la possibilité, pour la plupart des cas, de reporter sur le taux l'abattement d'assiette de 5 % prévu par la loi. Par ailleurs, s'agissant de la CSG et de la CRDS dues sur les contributions patronales destinées au financement des prestations supplémentaires de retraite et de prévoyance, l'employeur est autorisé à précompter au plus tard sur le dernier bulletin de paie de l'année et à reverser en une seule fois à l'échéance à laquelle se rattache la paie ainsi précomptée, le montant de la CSG et de la CRDS dû sur les contributions patronales destinées au financement de prestations complémentaires de retraite et de prévoyance, lorsque ce montant n'excède pas 1 % du plafond annuel de la sécurité sociale par entreprise ou par établissement. S'agissant de la taxe sur les contributions des employeurs pour le financement des prestations complémentaires de prévoyance prévue par les articles L. 137-1 et suivants du code de la sécurité sociale, les employeurs de moins de 9 salariés en sont exonérés, ce qui rejoint le souhait de l'honorable parlementaire.
