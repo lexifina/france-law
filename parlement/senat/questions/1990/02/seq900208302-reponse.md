@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900208302
+
+- Question : [SEQ900208302](seq900208302.md) — Préoccupations des avocats audois
+
+## Réponse
+
+*Justice, JO du 1990-04-12, page 810*
+
+Réponse. - Un avant-projet de loi portant réforme des professions judiciaires et juridiques et un avant-projet de loi relatif à l'exercice sous forme de sociétés des professions libérales soumises à un statut législatif ou réglementaire ou dont le titre est protégé ont été communiqués à la fin du mois de novembre 1989 à l'ensemble des organisations professionnelles représentatives concernées, notamment celles d'avocats, en vue de recueillir leurs avis sur les solutions retenues qui tendent à offrir à ces professionnels les moyens de nature à leur permettre de se situer au plus haut niveau de la compétitivité et de la compétence. C'est au vu de toutes les observations ainsi recueillies que le texte des projets de loi soumis au Conseil d'Etat a été arrêté. En ce qui concerne l'aide judiciaire, le fonctionnement du dispositif existant actuellement fait l'objet de critiques qui émanent tant des justiciables que des auxiliaires de justice, et qui portent à la fois sur les conditions d'admission à l'aide judiciaire et sur la rémunération des auxiliaires de justice : en raison de ces difficultés, le Premier ministre a confié au Conseil d'Etat, à la demande du garde des sceaux, une étude tendant à une réforme globale du système. Cette étude devra notamment concerner l'étendue du domaine couvert par l'aide judiciaire et la commission d'office ainsi que les procédures d'octroi, les modalités et le niveau de rémunération des auxiliaires de justice. Le groupe de travail institué à cette fin au sein de la section du rapport et des études au Conseil d'Etat a été installé le 3 janvier 1990. Il est prévu qu'il remette au Gouvernement ses premières conclusions dans le courant du mois d'avril prochain.
