@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000424106
+
+- Question : [SEQ000424106](seq000424106.md) — Union européenne et visite du roi du Maroc en France
+
+## Réponse
+
+*Affaires étrangères, JO du 2000-06-22, page 2195*
+
+Réponse. - Le roi du Maroc a fait part, à plusieurs reprises, de son souhait de se rapprocher de l'Europe et, plus encore, de voir fixée une perspective d'intégration pour son pays. Dès le 15 juin 1984, le roi Hassan II avait adressé une lettre au Président Mitterrand, président en exercice du Conseil européen, par laquelle il faisait part de la volonté du Royaume d'adhérer aux Communautés européennes. Trois années plus tard, en juillet 1987, le roi Hassan II avait adressé à la présidence du Conseil des Communautés européennes une lettre présentant une demande formelle d'adhésion pour son pays. Le roi rappelait à cet égard la communauté d'intérêt unissant son pays à l'Europe, tous deux appartenant à un " même espace de sauvegarde et de paix ", ainsi que la parenté des choix politiques et institutionnels des deux parties. La France avait alors encouragé ses partenaires européens à répondre de la manière la plus positive possible aux attentes du Maroc à l'égard de l'Europe et à ne ménager aucun effort pour favoriser un rapprochement euro-marocain. La France a bien pris acte des aspirations marocaines dont le roi s'est fait l'interprète auprès du Président de la République lors de sa visite d'Etat à Paris. Il a ainsi été rappelé que le Maroc pouvait compter sur le soutien de notre pays pour se rapprocher davantage encore de l'Union européenne, laquelle est déjà le premier partenaire économique du Maroc et le sera plus encore dans l'avenir grâce à l'accord d'association entré en vigueur le 1er mars dernier. Cette relation euro-marocaine forte s'inscrit également dans le prolongement du partenariat euro-méditerranéen engagé à Barcelone en 1995 et au sein duquel le Maroc est appelé à jouer un rôle éminent.
