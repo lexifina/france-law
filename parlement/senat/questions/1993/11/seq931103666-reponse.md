@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931103666
+
+- Question : [SEQ931103666](seq931103666.md) — Réforme de l'Office national des forêts
+
+## Réponse
+
+*Agriculture, JO du 1994-01-13, page 73*
+
+Réponse. - Les causes du déficit de la filière bois sont complexes ; elles sont notamment liées à la concurrence internationale dans les secteurs de la transformation de ce matériau. Le commerce international du bois et des produits dérivés se mondialise, dépassant largement les frontières de la Communauté européenne. Or, il n'existe, dans ce domaine, aucune organisation commune des marchés. Par contre, la gestion de la forêt publique ne saurait être considérée comme un handicap pour la filière bois ; bien au contraire, le regroupement des ventes facilite la commercialisation et diminue la charge que constitue la prospection de l'offre pour les acheteurs éventuels. Certains courants d'opinion contestent le bien fondé de la réelle motivation de l'Office national des forêts, au sein duquel les ingénieurs du génie rural des eaux et des forêts occupent une part importante, vis-à-vis des questions économiques et commerciales. Il est donc surprenant que soit fait à ces ingénieurs, dans le même temps, le reproche inverse. L'Ecole nationale du génie rural, des eaux et des forêts, qui a pris la suite, en matière forestière, de l'Ecole nationale des eaux et forêts, a développé un important volet de formation économique. Ceux des élèves qui se destinent plus particulièrement à des activités orientées vers la forêt reçoivent, pendant une partie significative de leur scolarité, des formations en matière d'environnement, d'économie générale, de développement et d'équipement du milieu rural, de gestion des filières de production et de transformation, qui élargissent leur horizon au delà des aspects forestiers et constituent autant d'ouvertures sur les questions qui se posent à la société actuelle.
