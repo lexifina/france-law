@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991019379
+
+- Question : [SEQ991019379](seq991019379.md) — Chefs d'établissement d'enseignement privé sous contrat
+
+## Réponse
+
+*Éducation, JO du 2000-05-25, page 1862*
+
+Réponse. - Les dépenses de fonctionnement matériel et pédagogiques des établissements primaires d'enseignement privé sous contrat avec l'Etat sont en partie subventionnées par l'Etat et les communes dans les limites définies par les décrets nº 60-389 et nº 60-390 du 22 avril 1960 relatifs aux établissements sous contrat d'association et sous contrat simple. Les charges de fonctionnement matériel des classes sous contrat donnent lieu à l'allocation par les communes d'un " forfait matériel " calculé par référence aux dépenses de même nature constatées dans les classes correspondantes des écoles publiques. Cependant, les communes ont le choix entre diverses modalités de paiement : soit verser une subvention forfaitaire, soit mettre des personnels de service à disposition, soit payer des factures. Quant aux dépenses qui incombent à l'Etat, mon département en assure la prise en charge sous diverses formes : le paiement des rémunérations, indemnités et cotisations concernant les maîtres agréés et contractuels, la prise en charge des coûts de recrutement par concours des maîtres classés dans l'échelle de rémunération de professeur des écoles, l'allocation de subventions destinées aux centres chargés de la formation initiale et continue des maîtres du 1er degré. En outre, les mesures budgétaires prévues pour la réalisation des réformes pédagogiques dans l'enseignement public sont transposées à parité dans l'enseignement privé. Ainsi, un abondement du contingent des heures d'enseignement des langues vivantes en primaire est-il intervenu dans le cadre des lois de finances 1991, 1992, 1993 et 2000 en vue de diffuser cet enseignement aux classes de l'enseignement public et privé.
