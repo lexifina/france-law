@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970902603
+
+- Question : [SEQ970902603](seq970902603.md) — Refus d'une société de portage de considérer ses employés comme salariés
+
+## Réponse
+
+*Équipement, JO du 1997-11-27, page 3308*
+
+Réponse. - Le problème évoqué par l'honorable parlementaire n'avait pas échappé à l'attention du ministre de l'équipement, des transports et du logement, qui, dès le mois de juillet 1997, alerté sur les pratiques de cette entreprise et la situation des travailleurs concernés, avait donné des instructions pour qu'une enquête soit immédiatement diligentée par l'Inspection du travail des transports. Celle-ci a constaté, dans les conditions d'emploi de ces personnels, de graves anomalies qui l'ont conduite à dresser, après un contrôle du 24 juillet 1997, un procès-verbal, pour délit de travail illégal et délit de marchandage. Ce procès-verbal a été transmis au parquet le 12 septembre. Par ailleurs, l'U.R.S.S.A.F. avait reconnu la qualité de salariés aux porteurs, qualifiés abusivement d'" indépendants " par la société. Le tribunal de commerce de Nanterre, de son côté, avait auparavant refusé d'inscrire au registre du commerce l'un de ces travailleurs dits " indépendants ". La direction d'Aéroports de Paris, consciente de ce problème, a décidé de réexaminer les modalités d'exécution du service, en cherchant à définir les conditions les plus correctes, pour l'emploi du personnel et, pour la qualité de l'offre qu'elle doit aux usagers. Dans cet esprit, elle a entamé, à l'égard de la société, une procédure, qui doit lui permettre la remise en ordre nécessaire, sans exclure, le cas échéant, l'interruption de la concession. Il convient de continuer à suivre de très près cette affaire et à veiller à ce que sa conclusion soit conforme à l'intérêt des salariés et au respect de la législation sociale.
