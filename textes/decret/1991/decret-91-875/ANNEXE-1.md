@@ -180,7 +180,37 @@ Assistant technique.
 
 |
 
-Prime de rendement et, pour les techniciens jusqu'au 7e échelon, indemnités horaires pour travaux supplémentaires (I.H.T.S.) (décret n° 50-1248 du 6 octobre 1950 modifié).
+Prime de rendement et, pour les techniciens jusqu'au 7e échelon, indemnités horaires pour travaux supplémentaires (I.H.T.S.) (décret
+
+n° 50-1248 du 6 octobre 1950 modifié).
+
+|
+
+Contrôleur territorial de travaux :
+
+- contrôleur principal ;
+
+- contrôleur.
+
+|
+
+Contrôleur de travaux publics de l'Etat :
+
+- contrôleur principal ;
+
+- contrôleur.
+
+|
+
+Prime de rendement et, pour les
+
+contrôleur jusqu'au 7e échelon,
+
+indemnités horaires pour travaux
+
+supplémentaires (I.H.T.S.) (décret
+
+n° 50-1248 du 6 octobre 1950 modifié).
 
 |
 
@@ -470,17 +500,19 @@ Hors classe ;
 
 |
 
-Médecin de l'éducation nationale :
+Médecin inspecteur de la santé.
 
-Conseiller technique ;
+Médecin général.
 
-1re classe ;
+Médecin inspecteur en chef.
 
-2e classe.
+Médecin inspecteur.
 
 |
 
-Indemnité de sujétions spéciales des médecins de l'éducation nationale (décret n° 92-731 du 27 juillet 1992).
+Indemnité spéciales des médecins inspecteurs de la santé (décret n° 73-964 du 11 octobre 1973).
+
+Indemnité de technicité des médecins inspecteurs de la santé (décret n° 91-657 du 15 juillet 1991).
 
 |
 
