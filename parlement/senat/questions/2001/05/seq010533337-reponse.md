@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010533337
+
+- Question : [SEQ010533337](seq010533337.md) — Réglementation relative à l'installation d'antennes paraboliques
+
+## Réponse
+
+*Logement, JO du 2001-09-13, page 2989*
+
+La loi n° 66-457 du 2 juillet 1966 relative à l'installation d'antennes réceptrices de radiodiffusion a institué un " droit à l'antenne ". Elle s'applique aux immeubles soumis au régime de la copropriété de la loi n° 65-557 du 10 juillet 1965. L'installation d'une antenne parabolique individuelle par un copropriétaire confronte ces deux législations. Le copropriétaire doit préalablement informer le syndic de son projet dans les conditions prévues par le décret n° 67-1171 du 22 décembre 1967 fixant les conditions d'application de la loi n° 66-457 précitée. Si le lot est loué, la demande est sollicitée par l'intermédiaire du copropriétaire bailleur. Ces travaux effectués par un copropriétaire à ses frais et affectant l'aspect extérieur de l'immeuble sont du ressort du syndicat des copropriétaires. Ce syndicat autorise ou non le projet dans le cadre d'une assemblée générale qui se prononce à la majorité de l'article 25 b. Pour refuser, le syndicat doit justifier d'un intérêt légitime et sérieux notamment s'il est possible de se raccorder à une antenne collective ou à un réseau interne d'immeuble. Mais les programmes offerts doivent présenter des prestations équivalentes à celles que le demandeur entendait obtenir avec sa propre installation. D'autres motifs peuvent être invoqués, soit d'ordre technique comme la préservation et la sécurité de l'immeuble, soit d'ordre esthétique comme l'atteinte à l'harmonie de l'immeuble. En cas de contestation, il appartient au juge d'instance compétent, en application du décret n° 67-1171 du 22 décembre 1967, saisi dans les trois mois de la demande d'installation, de statuer. Par ailleurs, la réglementation applicable au titre de l'urbanisme doit être respectée.
