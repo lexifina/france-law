@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930902661
+
+- Question : [SEQ930902661](seq930902661.md) — Activité de la police judiciaire
+
+## Réponse
+
+*Justice, JO du 1993-11-11, page 2154*
+
+Réponse. - Dans son rapport du 5 juin 1991, la commission de contrôle du Sénat chargée d'examiner les modalités d'organisation et les conditions de fonctionnement des services relevant de l'autorité judiciaire avait souhaité que soient renforcés les pouvoirs de direction, de contrôle et de surveillance de l'autorité judiciaire sur la police judiciaire. La question de l'honorable parlementaire évoque plus particulièrement la proposition de la commission tendant à l'affirmation de la vocation exclusive du garde des sceaux et des parquets à s'exprimer sur l'activité de la police judiciaire. Sur le plan général, il appartient au garde des sceaux de définir les orientations générales de politique pénale et d'adresser à cet effet toutes instructions qu'il juge utiles aux parquets généraux et aux parquets. Les procureurs de la République dans le ressort de chaque tribunal de grande instance appliquent ces orientations et assument la direction des opérations de police judiciaire. Il apparaît dès lors du ressort exclusif de ces magistrats de s'exprimer sur les activités de police judiciaire. Par ailleurs, il convient de souligner que l'article 11 du code de procédure pénale dispose que toute personne qui concourt à la procédure au cours de l'enquête ou de l'instruction est tenue au secret professionnel. Ce texte est donc applicable aux officiers de police judiciaire et, a fortiori, aux administrations intervenantes. D'ores et déjà, le garde des sceaux a souhaité réunir un groupe de travail au sein de la Chancellerie afin d'étudier les problèmes de communication entre les juridictions et la presse et de formuler à bref délai des propositions.
