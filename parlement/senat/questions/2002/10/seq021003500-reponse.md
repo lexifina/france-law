@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021003500
+
+- Question : [SEQ021003500](seq021003500.md) — Recensement des personnes " mobiles "
+
+## Réponse
+
+*Intérieur, JO du 2003-06-19, page 2017*
+
+Dans le recensement traditionnel, les personnes vivant habituellement dans des habitations mobiles et les personnes sans abri étaient recensées par les agents recenseurs recrutés par les soins des maires. La loi du 27 février 2002, qui confie aux communes la responsabilité de préparer et de réaliser les enquêtes de recensement sous le contrôle de l'INSEE, et le projet de décret d'application de celle-ci ne changent rien à cet égard. En effet, une condition nécessaire pour assurer un bon dénombrement est d'avoir pu recenser effectivement les personnes dont il s'agit. Chacune des 36 500 communes de France est en situation de connaître à tout moment la présence d'habitations mobiles sur son territoire. Tel n'est pas le cas de l'INSEE. Face aux interrogations sur l'éventualité d'une utilisation des informations tirées du recensement à d'autres fins que statistiques, il convient de rappeler que la collecte des informations individuelles est encadrée par la loi du 7 juin 1951 sur le secret statistique et, sous le contrôle de la Commission nationale de l'informatique et des libertés (CNIL), par la loi du 6 janvier 1978 sur l'informatique, les fichiers et les libertés. Les questionnaires du recensement sont destinés à une utilisation statistique et ne peuvent connaître d'autre utilisation. Les détourner de cette finalité exposerait à de lourdes sanctions pénales. Tout au long de la collecte, l'INSEE aura sur le terrain des responsables chargés de conseiller les communes sur la bonne exécution des enquêtes de recensement et de contrôler la mise en oeuvre des dispositions législatives et réglementaires qui encadrent le recensement de la population. Ces dispositions s'appliquent à toutes les personnes recensées, sans aucune exception.
