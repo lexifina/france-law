@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960314588
+
+- Question : [SEQ960314588](seq960314588.md) — Prévention des accidents du travail
+
+## Réponse
+
+*Travail, JO du 1996-08-08, page 2088*
+
+Réponse. - Les dernières statistiques en matière d'accidents du travail de la Caisse nationale de l'assurance maladie des travailleurs salariés effectuées à partir des données disponibles fin décembre 1995 indiquent les résultats définitifs suivants pour 1991, 1992 et 1993. Les chiffres pour 1994 sont des estimations.Accidents du travail ( NOTA Voir tableau page 2088 ). La politique de prévention des risques professionnels figure au nombre des priorités d'action des pouvoirs publics. La sécurité sociale y consacre, en effet, des moyens institutionnels, humains et financiers importants. La Caisse nationale de l'assurance maladie des travailleurs salariés et les caisses régionales mobilisent des financements dépassant, pour 1996, 2 milliards de francs (2 071 409 000 francs), soit environ 5 p. 100 du produit des cotisations de la branche accidents du travail et maladies professionnelles du régime général, contre 4,8 p. 100 en 1995,3,06 p. 100 en 1990 et 2,15 p. 100 en 1988. Ces crédits sont affectés au Fonds national de prévention des accidents du travail et des maladies professionnelles dans le cadre d'une enveloppe financière autorisée par arrêté interministériel et gérée par la commission des accidents du travail et des maladies professionnelles. Ce fonds finance notamment les actions propres et services de la caisse nationale en matière de prévention et de tarification, les services de prévention et de tarification des caisses régionales, le budget de l'Institut national de recherche et de sécurité (INRS) à hauteur de 360 millions de francs et le budget d'Eurogip à hauteur d'environ 5 millions de francs.
