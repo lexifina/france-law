@@ -8,7 +8,7 @@ Les décors pour aménagements scéniques doivent être réalisés en matériaux
 
 Les tentures doivent être réalisées en matériaux de catégorie M 2.
 
-Les velums éventuels doivent être réalisés en matériaux de catégorie M 2 et être pourvus de dispositifs d'accrochage suffisamment nombreux, ou d'armatures de sécurité suffisamment résistantes, pour empêcher leur chute pendant la présence du public.
+Les velums éventuels doivent être réalisés en matériaux de catégorie M 2. Le procès-verbal de classement de réaction au feu doit mentionner qu'il y a eu percement. Les velums doivent être pourvus de dispositifs d'accrochage suffisamment nombreux, ou d'armatures de sécurité suffisamment résistantes, pour empêcher leur chute pendant la présence du public.
 
 § 2. Les revêtements de sol éventuels doivent être réalisés en matériaux de catégorie M 4. En outre, ils doivent être fixés de manière à prévenir tout risque de chute lors de la circulation des personnes.
 
