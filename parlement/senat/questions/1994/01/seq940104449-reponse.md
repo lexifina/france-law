@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940104449
+
+- Question : [SEQ940104449](seq940104449.md) — Moyens mis à la disposition de la caisse d'allocations familiales de Lyon (Rhône)
+
+## Réponse
+
+*Affaires sociales, JO du 1994-04-21, page 941*
+
+Réponse. - Les caisses d'allocations familiales connaissent, depuis la mise en place du revenu minimum d'insertion et plus récemment de l'allocation logement à caractère social, un accroissement notable de leur charge de travail. La caisse d'allocations familiales de Lyon a ainsi dû faire face, comme tous les autres organismes, à de nombreuses difficultés liées à la mise en oeuvre de ces nouvelles réglementations. En ce qui concerne les effectifs, il convient de souligner que les ratios de la caisse d'allocations familiales de Lyon correspondent à la moyenne des 114 caisses de la branche famille. Toutefois, des efforts de productivité ont été réalisés par les caisses d'allocations familiales. Ce point a d'ailleurs fait l'objet d'un examen très attentif, dans le cadre du troisième plan pluriannuel de gestion entre la CNAF et l'Etat. Des moyens spécifiques ont été accordés à la branche famille pour la période 1994-1996 qui doivent lui permettre de faire face à une charge importante de travail tout en préservant la qualité du service rendu aux utilisateurs. La branche famille dispose d'effectifs supplémentaires dédiés à la politique de contrôle et à l'amélioration des relations avec les allocataires ; ces deux pôles constituant un objectif majeur du contrat triennal conclu avec la branche famille. Enfin, il convient de préciser que les autorités de tutelle allouent de manière globale des moyens à la branche et qu'il appartient ensuite à cette dernière de les répartir entre les caisses d'allocations familiales sur la base de ratios de gestion qui lui sont propres.
