@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010533148
+
+- Question : [SEQ010533148](seq010533148.md) — Non-imposition des sommes perçues par les salariés élus directement par le personnel des caisses d'épargne, siégeant au conseil de surveillance
+
+## Réponse
+
+*Économie, JO du 2001-09-06, page 2882*
+
+En règle générale, le reversement par les administrateurs salariés de sommes équivalentes au montant de jetons de présence qu'ils ont perçus constitue un acte personnel de disposition du revenu. Les jetons de présence sont donc normalement imposables à l'impôt sur le revenu au nom des administrateurs concernés. Toutefois, par dérogation à ce principe, il est admis d'exonérer d'impôt sur le revenu les jetons de présence versés aux représentants élus du personnel salarié qui siègent au sein des conseils d'administration ou de surveillance des sociétés privatisées lorsque certaines conditions, citées par l'auteur de la question, sont remplies (cf. instruction administrative du 24 septembre 1990 publiée au Bulletin officiel des impôts sous la référence 5-I-6-90). Il est admis que cette dérogation s'applique, dans les mêmes conditions, aux jetons de présence versés aux représentants élus du personnel salarié des caisses d'épargne. A cet égard, il est précisé, dans l'hypothèse où l'entreprise ne verse pas directement les jetons de présence à l'organisation syndicale à laquelle ils ont été abandonnés, qu'ils demeurent exonérés d'impôt sur le revenu si, avant d'être immédiatment reversés à l'organisation syndicale, ils sont crédités sur un compte bancaire personnel de l'administrateur, ouvert pour toute la durée de son mandat et destiné exclusivement à leur encaissement et reversement. Cette règle, qui constitue un assouplissement des conditions d'application de l'instruction administrative du 24 septembre 1990 précitée, s'applique à l'ensemble des représentants élus du personnel salarié qui reçoivent des jetons de présence dans l'exercice de leur mandat.
