@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971205311
+
+- Question : [SEQ971205311](seq971205311.md) — Surveillance de la qualité de l'air : qualités des données recueillies
+
+## Réponse
+
+*Aménagement du territoire, JO du 1998-04-23, page 1313*
+
+Réponse. - Mme la ministre de l'aménagement du territoire et de l'environnement a pris connaissance avec intérêt de la question concernant l'article paru à la page 27 du quotidien Le Figaro du 10 décembre 1997, sous le titre " Les poussières échappent à la surveillance de l'air ", et plus particulièrement la partie concernant les hydrocarbures aromatiques polycycliques, les composés organiques volatils et les aldéhydes. Les prélèvements des hydrocarbures aromatiques polycycliques et des aldéhydes sont manuels ; ils sont suivis d'analyses en laboratoire effectuées par le laboratoire d'hygiène de la ville de Paris et par le laboratoire central de la préfecture de police, qui mettent en uvre des technologies d'analyse de pointe. Les hydrocarbures aromatiques polycycliques sont mesurés une fois par semaine, le mardi, sur trois sites " de fond " représentatifs d'une large zone. Sur l'un des sites, un prélèvement est effectué en plus tous les 6 jours afin de contrôler si le mardi est bien représentatif de l'ensemble de la semaine. Les aldéhydes sont prélevés sur un site proche de la circulation routière tous les 6 jours et deux campagnes de 15 jours sont effectuées en avril et en septembre durant lesquelles les prélèvements sont réalisés tous les jours. Les composés organiques volatils sont analysés automatiquement par campagnes de mesure sur un site " de fond " depuis 1996. Mme le ministre de l'aménagement du territoire et de l'environnement estime, comme les experts qui ont audité Airparif, que la mesure de ces polluants doit encore être développée à Paris et dans toutes les grandes agglomérations.
