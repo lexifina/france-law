@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930501282
+
+- Question : [SEQ930501282](seq930501282.md) — Présence de familles polygames d'origine africaine sur le sol français
+
+## Réponse
+
+*Intérieur, JO du 1993-12-16, page 2416*
+
+Réponse. - La présence en France d'étrangers polygames qui vivent sur le territoire français en état de polygamie a fait l'objet de rapports, notamment celui du Haut Conseil à l'intégration de février 1992 consacré au statut personnel des étrangers. La loi no 93-1027 du 24 août 1993 relative à la maîtrise de l'immigration et aux conditions d'entrée, d'accueil et de séjour des étrangers en France a repris certaines des mesures préconisées dans le rapport du Haut Conseil dont la présidence est assurée par le vice-président du Conseil d'Etat. Les nouvelles dispositions législatives en effet ont pour objet de lutter contre la polygamie qui est incompatible avec un certain nombre de nos principes fondamentaux, tels que l'égalité des sexes et les droits de la femme. Elles permettent désormais de s'opposer au regroupement familial de plus d'une épouse pour les étrangers polygames, voire à leur maintien sur le territoire, lorsqu'ils se font rejoindre par une autre épouse et les enfants de celle-ci alors qu'une première épouse réside déjà régulièrement sur le territoire. La loi du 24 août 1993 prévoit également le refus de délivrance et le retrait de la carte de résident à l'étranger ainsi qu'à son conjoint qui vivent en France en état de polygamie. Cette dernière mesure permet ainsi de mettre un terme au paradoxe de la législation applicable avant la loi du 24 août 1993 qui permettait de conférer le statut de résident statut privilégié par excellence par la durée de dix ans de séjour qu'il permet et les droits afférents à des personnes qui, alors qu'elles ont vocation à demeurer durablement en France, ne renoncent pas pour autant à leur statut personnel lorsque celui-ci heurte le fondement de la famille dans notre société.
