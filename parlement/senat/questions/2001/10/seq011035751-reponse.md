@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011035751
+
+- Question : [SEQ011035751](seq011035751.md) — Contrats éducatifs locaux
+
+## Réponse
+
+*Éducation, JO du 2002-01-31, page 303*
+
+Les contrats éducatifs locaux (CEL) favorisent une organisation de la journée de l'enfant qui met en cohérence le temps scolaire et le temps périscolaire, en s'appuyant sur un projet éducatif. Le nombre de contrats signés à ce jour (environ 2 400) montre l'intérêt que l'ensemble des acteurs accorde à ce dispositif. En ce qui concerne les espaces d'accueil des jeunes, la circulaire n° 98-144 du 9 juillet 1998 précise que " les locaux scolaires seront ouverts au maximum pour accueillir les enfants et les adolescents au cours des activités périscolaires prévues par le contrat éducatif local. Ce contrat comporte, autant que de besoin, autorisation d'utiliser les locaux scolaires, conformément aux dispositions des circulaires du 22 mars 1985 et du 15 octobre 1993, prises en application de l'article 25 de la loi n° 83-663 du 22 juillet 1983. Préalablement à la signature du contrat éducatif local, d'une part, le conseil d'école ou d'administration, selon le cas, doit être consulté pour avis, d'autre part, le maire doit obtenir l'accord de la collectivité propriétaire ou attributaire des bâtiments ". La mise en cohérence des activités, leur déroulement dans l'espace et dans le temps supposent une coordination entre toutes les structures d'accueil susceptibles d'être mobilisées sur un même territoire. L'éducation nationale n'a pas compétence sur les locaux scolaires du fait des lois de décentralisation, cette compétence étant dévolue aux collectivités locales. La mise à disposition de ces locaux scolaires (salles de classe, BCD, salles de musique, salles informatique...), mais aussi celle d'autres lieux (bibliothèque municipale, gymnase, piscine, maison de quartier...), doit être prévue dès la signature des contrats.
