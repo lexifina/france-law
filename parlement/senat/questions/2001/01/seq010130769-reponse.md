@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010130769
+
+- Question : [SEQ010130769](seq010130769.md) — Attribution de " droits nouveaux " aux jeunes agriculteurs
+
+## Réponse
+
+*Agriculture, JO du 2001-03-15, page 915*
+
+Réponse. - L'attribution des droits nouveaux aux jeunes viticulteurs sera régie, pour la campagne 2001-2002, par un décret en Conseil d'Etat dont le texte est en préparation interministérielle et qui tient compte du nouveau régime de droits de plantations régi par l'Organisation commune du marché (OCM) viti-vinicole (R >CE> 1493/999). Ce nouveau décret doit se substituer aux dispositions actuellement en vigueur, qui découlent de l'ancien règlement portant OCM viti-vinicole (R >CE> 882/87), du décret nº 53/977 de 1953 et des textes d'application, et qui ont été appliquées encore pour la campagne 2000-2001. Il prévoit la mise en place d'une réserve nationale de droits, qui pourra être alimentée par les droits nouveaux et les droits périmés, et des droits en cours de validité achetés aux viticulteurs. Ces droits seront attribués à chaque campagne selon deux contingents distincts : un contingent de droits gratuits destinés aux jeunes agriculteurs ; un contingent de droits attribués aux autres viticulteurs moyennant une contrepartie financière. Les contingents et les critères d'attribution de ces droits seront fixés par arrêté interministériel, notamment pour les jeunes agriculteurs, en fonction de la situation des producteurs et de la production envisagée (vin de pays au vin d'appellation d'origine). En ce qui concerne la région des Charentes, où l'excédent structurel demeure très préoccupant, il conviendra de mettre en place un dispositif qui assure en priorité le réencépagement du vignoble d'uni-blanc existant, afin de permettre que l'installation de nouveaux jeunes s'insère dans un projet économique viable.
