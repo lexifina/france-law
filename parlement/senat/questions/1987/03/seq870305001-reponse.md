@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870305001
+
+- Question : [SEQ870305001](seq870305001.md) — Service national au titre de la coopération: résiliation du volontariat
+
+## Réponse
+
+*Défense, JO du 1987-04-16, page 583*
+
+Réponse. -L'article L. 9 du code du service national accorde aux jeunes gens qui souhaitent occuper un emploi au titre du service de l'aide technique ou du service de la coopération un report d'incorporation dont l'échéance est fixée au plus tard au 31 décembre de l'année civile au cours de laquelle ils atteignent l'âge de vingt-cinq ans. Ce report est destiné à leur permettre d'acquérir les diplômes correspondant à l'emploi qu'ils doivent occuper. Par ailleurs, l'article L. 12 du code précité fixe à seize mois la durée de leur service actif et cette durée reste de seize mois s'ils ne poursuivent plus, après l'âge de vingt-trois ans, les études pour lesquelles ils ont obtenu le report ; si, au moment de leur incorporation à vingt-cinq ans, ils ont abandonné le cycle d'étude correspondant à leur demande, ou n'ont pas obtenu la qualification requise pour l'emploi considéré, ou refusent l'emploi qu'ils ont obtenu. Par contre, les jeunes gens ayant obtenu un report au titre de l'article L. 9 n'effectuent que douze mois de service s'ils résilient ce report et sont incorporés avant l'âge de vingt-trois ans ou si l'administration n'est pas en mesure de fournir un emploi correspondant à leur qualification à l'issue de ce report. Il n'est pas envisagé de modifier les présentes dispositions afin d'éviter de trop nombreuses défections. Les reports au titre de l'article L. 9 sont en effet accordés en nombre tel que les emplois offerts par l'aide technique et la coopération soient tous pourvus. Enfin, il est à souligner qu'un jeune homme ayant obtenu la qualification requise avant l'échéance de son report n'est pas tenu d'attendre l'âge de vingt-cinq ans pour demander un emploi à l'aide technique ou à la coopération.
