@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981011066
+
+- Question : [SEQ981011066](seq981011066.md) — Changement d'appellation d'un parc naturel
+
+## Réponse
+
+*Aménagement du territoire, JO du 1999-01-14, page 111*
+
+Réponse. - Le territoire du Marais poitevin, val de Sèvre et Vendée n'est plus classé en parc naturel régional depuis le 1er janvier 1997. Ce non-renouvellement de classement entraîne la cessation de l'autorisation d'utiliser la dénomination " parc naturel régional ", propriété de l'Etat, déposée sous forme d'une marque collective auprès de l'Institut national de la propriété industrielle. Le syndicat mixte, qui a géré jusqu'au 31 décembre 1996 le parc naturel régional, a décidé de modifier son appellation et d'adopter le nom de " syndicat mixte du parc interrégional du Marais poitevin ". Dès que l'information relative à ce changement d'appellation a été connue par mon prédécesseur, celle-ci a réagi en indiquant que la nouvelle dénomination n'était pas acceptable car beaucoup trop proche de la marque collective déposée par l'Etat. Elle est donc susceptible de créer un risque de confusion ou d'association avec le parc naturel régional existant auparavant sur ce territoire. La ministre de l'aménagement du territoire et de l'environnement souhaite qu'une solution amiable puisse être trouvée dans cette affaire. C'est en ce sens que l'avocat qui est chargé au nom de l'Etat de ce dossier a adressé, cet été, un courrier au président du syndicat mixte pour lui proposer d'autres appellations ne présentant pas le risque de confusion précédemment évoqué avec l'ancienne dénomination du parc. En l'absence de modification de la dénomination choisie par le syndicat mixte, une action contentieuse devra être engagée vis-à-vis de celui-ci pour contrefaçon de marque. Le président du syndicat mixte aura, sans doute, à c ur, tout comme la ministre, de rechercher une nouvelle dénomination pour ce syndicat mixte.
