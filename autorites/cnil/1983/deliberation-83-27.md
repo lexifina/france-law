@@ -1,0 +1,15 @@
+# Délibération relative aux systèmes nationaux informatiques présentés par la Caisse Nationale d'Assurance Vieillesse
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 83-27
+- Date : 1983-04-12
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017654293
+
+La Commission Nationale de 1 'Informatique et des Libertés, Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, et notamment ses articles 15 et 48 ; Vu le décret n° 78-774 du 17 juillet 1978 pris pour l'application des chapitres I à IV et VII de la loi du 6 janvier 1978 ; Vu le code de la Sécurité Sociale et notamment la loi n° 80-546 du 17 juillet 1980 ; Vu la délibération du conseil d'administration de la Caisse Nationale d'Assurance Vieillesse des Travailleurs Salariés en date du 5 mai 1982 ; Vu les projets d'actes réglementaires présentés par la Caisse Nationale d'Assurance Vieillesse relatif aux traitements effectués pour ce qui concerne les comptes individuels, l'identification des assurés sociaux et l'assurance veuvage ;
+
+Considérant que, compte tenu de l'importance des traitements déclarés par la Caisse Nationale d'Assurance Vieillesse, La Commission, usant des pouvoirs qui lui sont conférés par l'article 48 de la loi du 6 janvier 1978, a décidé d'évoquer les traitements concernant les systèmes relatifs à l'identification et aux comptes individuels, et de leur faire application de l'article 48 en demandant à la Caisse de lui présenter des actes réglementant lesdits traitements ; que, pour le système relatif à l'assurance-veuvage, la Commission est saisie, par contre, d'une demande d'avis en application de l'article 15 de la loi ;
+
+Prend acte de ce que : - pour ce qui concerne le système d'identification des assurés sociaux et le système des comptes individuels, la durée de conservation des données nominatives est limitée à l'extinction des droits des assurés sociaux et de leurs ayants droit ; - pour ce qui concerne le système des comptes individuels, celui-ci ne comporte de transmission de données nominatives qu'à des organismes participant au calcul des pensions ou accordant des compléments à celles-ci ; - pour ce qui concerne l'assurance-veuvage, les intéressées sont tenues de déclarer leurs ressources en vertu des dispositions de l'article 8 du décret du 31 décembre 1980 ; Considère qu'il est indispensable que, pour chacun des trois systèmes informatiques, soient prises par la Caisse Nationale des instructions adressées aux organismes d'exécution concernant la sécurité des installations et la confidentialité des données nominatives enregistrées ; que ces instructions, qui devront être soumises à l'avis préalable de la CNIL, devront comporter un contrat-type précisant les relations entre les caisses régionales et les sociétés de service ou les organismes de stockage auxquels les caisses font éventuellement appel ; EMET, sous les réserves ci-dessus énoncées, un AVIS FAVORABLE aux trois actes réglementaires qui lui ont été soumis.
