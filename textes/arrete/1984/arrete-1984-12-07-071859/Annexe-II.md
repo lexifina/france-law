@@ -4,44 +4,82 @@ Huiles raffinées autres que l'huile d'olive.
 
 "Huile", complétée :
 
-- par le qualificatif, selon le cas, "végétale" ou "animale" ou par l'indication de l'origine spécifique végétale ou animale ;
+- soit par le qualificatif, selon le cas, "végétale" ou "animale" ;
 
-- par la mention "hydrogénée" s'il a été fait usage d'un tel traitement, dès lors qu'il s'agit d'une huile végétale ou que l'origine spécifique végétale ou animale est indiquée.
+- soit par l'indication de l'origine spécifique végétale ou animale.
+
+Le qualificatif "hydrogénée" doit accompagner la mention d'une huile hydrogénée.
 
 Graisses raffinées.
 
-"Graisse", complétée :
+"Graisse" ou "matière grasse", complétée :
 
-- par le qualificatif, selon le cas, "végétale" ou "animale" ou par l'indication de l'origine spécifique végétale ou animale ;
+- soit par le qualificatif, selon le cas, "végétale" ou "animale" ;
 
-Lorsqu'il s'agit d'une denrée alimentaire essentiellement constituée de matières grasses, ou de sauces émulsionnées, l'indication de la catégorie suivie du nom spécifique de chacune des huiles ou graisses utilisées est obligatoire, ainsi que la mention "hydrogénée", lorsqu'il a été fait usage d'un tel traitement.
+- soit par l'indication de l'origine spécifique végétale ou animale.
 
-Mélanges de farines provenant de deux ou de plusieurs espèces de céréales : "Farine" suivie de l'énumération des espèces de céréales dont elle provient par ordre d'importance pondérale décroissante.
+Le qualificatif "hydrogénée" doit accompagner la mention d'une graisse hydrogénée.
 
-Amidon et fécules natifs et amidons et fécules modifiés par voie physique ou enzymatique : Amidon, fécule.
+Mélanges de farines provenant de deux ou de plusieurs espèces de céréales.
 
-Toute espèce de poisson lorsque le poisson constitue un ingrédient d'une autre denrée alimentaire et sous réserve que la dénomination et la présentation de cette denrée ne se réfèrent pas à une espèce de poisson : Poisson.
+"Farine" suivie de l'énumération des espèces de céréales dont elle provient par ordre d'importance pondérale décroissante.
 
-Toute espèce de viande de volaille lorsque cette viande constitue un ingrédient d'une autre denrée alimentaire et sous réserve que la dénomination et la présentation de cette denrée ne se réfèrent pas à une espèce précise de viande de volaille : Viande de volaille.
+Amidon et fécules natifs et fécules modifiés par voie physique ou enzymatique.
 
-Toute espèce de fromage lorsque le fromage ou un mélange de fromage constitue un ingrédient d'une autre denrée alimentaire et sous réserve que la dénomination et la présentation de cette denrée ne se réfèrent pas à une espèce précise de fromage : Fromage.
+"Amidon(s) / Fécule(s)".
 
-Toutes épices et leurs extraits n'excédant pas 2 p. 100 en poids de la denrée : Epice (s) ou mélange d'épices.
+Toute espèce de poisson lorsque le poisson constitue un ingrédient d'une autre denrée alimentaire et sous réserve que la dénomination et la présentation de cette denrée ne se réfèrent pas à une espèce précise de poisson.
 
-Toutes plantes ou parties de plantes aromatiques n'excédant pas 2 p. 100 en poids de la denrée : Plante(s) aromatique(s) ou mélange de plantes aromatiques.
+"Poisson(s)".
 
-Toutes préparations de gommes utilisées dans la fabrication de gomme base pour les gommes à mâcher : Gomme base.
+Toute espèce de fromage lorsque le fromage ou le mélange de fromages constitue un ingrédient d'une autre denrée alimentaire et sous réserve que la dénomination et la présentation de cette denrée ne se réfèrent pas à une espèce précise de fromage.
 
-Chapelure de toute origine : Chapelure.
+"Fromage(s)".
 
-Toutes catégories de saccharose : Sucre.
+Toutes épices n'excédant pas 2 % en poids de la denrée.
 
-Dextrose anhydre ou monohydraté : Dextrose.
+"Epices" ou "mélanges d'épices".
 
-Sirop de glucose et sirop de glucose déshydraté : Sirop de glucose.
+Toutes plantes ou parties de plantes aromatiques n'excédant pas 2 % en poids de la denrée.
 
-Caséinates de toute nature : Caséinates.
+"Plante(s) aromatique(s)" ou "mélange(s) de plantes aromatiques".
 
-Beurre de cacao sous pression, d'expeller ou raffiné : Beurre de cacao.
+Toutes préparations de gommes utilisées dans la fabrication de gomme de base pour les gommes à mâcher.
 
-Tous fruits confits n'excèdant pas pas en poids 10 p. 100 de la denrée : Fruits confits.
+"Gomme base".
+
+Chapelure de toute origine.
+
+"Chapelure".
+
+Toutes catégories de saccharoses.
+
+"Sucre".
+
+Dextrose anhydre ou monohydraté.
+
+"Dextrose".
+
+Sirop de glucose et sirop de glucose déshydraté.
+
+"Sirop de glucose".
+
+Toutes les protéines du lait (caséines, caséinates et protéines du petit lait et du lactosérum) et leurs mélanges.
+
+"Protéines de lait".
+
+Beurre de cacao de pression d'expeller ou raffiné.
+
+"Beurre de cacao".
+
+Tous fruits confits n'excédant pas en poids 10 % de la denrée.
+
+"Fruits confits".
+
+Tout mélange de légumes n'excédant pas 10 % du poids de la denrée.
+
+"Légumes".
+
+Tous les types de vins tels que définis dans le règlement (C.E.E.) n° 822/87 du Conseil.
+
+"Vin".
