@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040713270
+
+- Question : [SEQ040713270](seq040713270.md) — Sructures d'accueil spécialisées
+
+## Réponse
+
+*Fonction publique, JO du 2004-11-18, page 2639*
+
+La question posée par l'honorable parlementaire évoque un sujet intéressant ; la simplification et la clarification des structures d'accueil des usagers. La notion de " maison " dédiée à une catégorie d'usagers (maison de l'enfance, de l'adolescence) ou à un segment de l'action publique (maison de l'accès au droit) a été conçue dans le but de centraliser les informations susceptibles d'intéresser les usagers dans une situation ou sur un sujet particulier. Cette " centralisation " était établie non dans un but de fractionnement des publics mais dans l'objectif d'offrir une pluralité de services relevant d'administrations ou de services différents. En ce sens, les maisons évoquées par l'honorable parlementaire constituent moins une segmentation de l'action publique qu'une opportunité de recevoir, sur un même lieu géographique, des problématiques et des processus administratifs relevant de divers services. Le succès de ce concept a entraîné, comme c'est souvent le cas, une multiplication de ces structures d'accueil du public sous le vocable commun de " maison ". Il est possible que ce développement puisse parfois nuire à la clarté de l'action administrative. Cependant, cette nouvelle culture pour l'administration française, habituée historiquement à une segmentation assez rigide, est l'un des moyens permettant d'unifier les différents " guichets " administratifs dans le but de faciliter les formalités des usagers. L'idée de tendre vers un " guichet unique " demeure moins un objectif que la toile de fond devant présider aux mesures de simplifications, qui s'en inspirent dans leur conception et leur mise en place.
