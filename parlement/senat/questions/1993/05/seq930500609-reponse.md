@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930500609
+
+- Question : [SEQ930500609](seq930500609.md) — Réforme du statut des ingénieurs des travaux publics de l'Etat
+
+## Réponse
+
+*Fonction publique, JO du 1993-07-01, page 1059*
+
+Réponse. - Les ingénieurs des travaux publics de l'Etat contribuent de manière primordiale à l'efficacité de la politique de travaux publics dans notre pays. C'est pourquoi le Gouvernement a décidé dans le cadre de l'application du protocole du 9 février 1990 une substantielle revalorisation de leur carrière. Ces décisions gouvernementales ont été portées à la connaissance des organisations syndicales signataires du protocole précité, lors de la commission de suivi du 4 février 1993. Les mesures annoncées sont les suivantes : fusion des deux classes du grade d'ingénieur des travaux et augmentation de l'indice terminal de l'indice 577 majoré à 614 majoré (effet au 1er août 1993) ; revalorisation du grade d'ingénieur divisionnaire maintenu à une classe dont l'indice terminal est porté de 655 majoré à 780 majoré, soit l'équivalent de 966 indice brut (effet au 1er août 1994) ; rénovation de l'emploi de débouché de chef d'arrondissement dont l'indice terminal est porté de 693 majoré à 818 majoré (effet au 1er août 1994) assorti d'une nouvelle bonification indiciaire d'un montant minimum de 40 points majorés. Ces importantes revalorisations se traduisent par un gain de traitement annuel pour les fonctionnaires classés au sommet de leur grade ou emploi égal à : 947 francs par mois au 1er août 1993 pour les ingénieurs des travaux ; 3 200 francs par mois au 1er août 1994 pour les ingénieurs divisionnaires ; 4 223 francs par mois au 1er août 1994 pour les chefs d'arrondissement (y compris la NBI). Il peut donc être considéré que les mesures arrêtées par le Gouvernement constituent une amélioration cohérente et très significative, compte tenu des circonstances, du statut des ingénieurs des travaux publics de l'Etat.
