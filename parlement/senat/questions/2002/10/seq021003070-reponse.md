@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021003070
+
+- Question : [SEQ021003070](seq021003070.md) — Discrimination à l'embauche fondée sur la langue maternelle dans certaines organisations internationales
+
+## Réponse
+
+*Affaires étrangères, JO du 2002-12-19, page 3140*
+
+Le ministère des affaires étrangères est très attentif à la question des aptitudes linguistiques exigées lors des recrutements dans les organisations internationales. Il faut distinguer deux types de postes : 1. Les emplois de traducteurs et d'interprètes : pour cette catégorie de personnels, il est d'usage que la langue vers laquelle le travail doit être effectué soit la langue maternelle du titulaire du poste ; il n'est donc pas surprenant que la mention " english mother tongue " ou " english native speaker " soit parfois indiquée sur les appels à candidatures ; et cette exigence de telle ou telle langue maternelle joue aussi en faveur du français ou d'autres langues ; 2. Tous les autres postes d'administrateurs : un examen attentif des avis de vacances d'emploi n'a pas fait apparaître de discrimination explicite au profit des anglophones de langue maternelle, et notamment à la Cour internationale de justice, à l'Organisation mondiale de la santé, au Programme des Nations unies pour l'environnement et au Haut Commissariat aux droits de l'homme. On ne peut donc pas parler d'une discrimination à l'embauche. Il est vrai toutefois qu'une " parfaite maîtrise " de l'anglais est parfois exigée, alors qu'une " bonne connaissance " du français est seulement demandée. Il arrive aussi que les avis de vacances ne soient publiés qu'en anglais. Nos représentants permanents auprès des organisations internationales ont été sensibilisés à cette question et ont pour instruction de faire des démarches en cas de discriminations manifestes.
