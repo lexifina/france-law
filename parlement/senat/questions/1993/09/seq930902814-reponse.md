@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930902814
+
+- Question : [SEQ930902814](seq930902814.md) — Suite donnée au rapport du plan relatif au travail social et à l'action sociale
+
+## Réponse
+
+*Affaires sociales, JO du 1994-04-07, page 777*
+
+Réponse. - Les propositions du groupe de travail du XIe Plan relatif au travail social et à l'action sociale suivent deux axes principaux : améliorer l'organisation territoriale des services d'action sociale et redéfinir les professions sociales dans leurs missions, leurs formations, leurs statuts. Ces orientations correspondent aux objectifs retenus pour 1994 par le ministre des affaires sociales, de la santé et de la ville et précisés dans sa circulaire d'objectifs. En particulier, les services de la direction de l'action sociale, plus particulièrement concernée par le rapport du Plan, auquel elle a d'ailleurs contribué, et les services déconcentrés du ministère ont pour mission de moderniser les instruments de l'action sociale sur la base d'une meilleure connaissance du travail social et des professionnels, afin d'adapter le dispositif social et médico-social à l'évolution des besoins et de renforcer les différentes actions menées pour le maintien de la cohésion sociale. Parmi les différentes mesures actuellement mises en oeuvre figurent notamment un programme d'études d'observation des qualifications sociales et la réalisation en 1994 d'une évaluation du dispositif de formation des travailleurs sociaux. Par ailleurs, le Conseil supérieur du travail social a été mandaté par le ministre pour contribuer au travail des services par une réflexion et des propositions sur les thèmes suivants : adaptation du marché de l'emploi des travailleurs sociaux, image de marque des travailleurs sociaux, intervention sociale individualisée, travail éducatif et social en internat, travail social et entreprises.
