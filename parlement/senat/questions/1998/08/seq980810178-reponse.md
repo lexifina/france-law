@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980810178
+
+- Question : [SEQ980810178](seq980810178.md) — Construction d'un prototype de réacteur nucléaire European pressurized reactor (EPR)
+
+## Réponse
+
+*Industrie, JO du 1998-09-24, page 3075*
+
+Réponse. - Le fléchissement du marché mondial des centrales nucléaire a conduit Framatome et Siemens à créer en 1989, à parité égale, une filiale commune baptisée Nuclear Power International (NPI) pour commercialiser et fournir sur le marché international les réacteurs à eau sous pression développés par les deux constructeurs. Cette alliance commerciale a fait place à une coopération industrielle lorsqu'en 1991 les deux constructeurs ont décidé de concevoir en commun un nouveau réacteur pour répondre aux besoins des marchés à l'export, mais aussi en France et en Allemagne. Ce projet commun, dénommé European Pressurized Water Reactor (EPR), est conçu en vue d'améliorer d'une part la sûreté (notamment par une division par dix des risques de fusion du c ur et par une atténuation des conséquences à l'extérieur du site en cas d'accident grave) et d'autre part les performances techniques (par une augmentation de la disponibilité et une optimisation de l'utilisation du combustible nucléaire). Le projet est déjà bien avancé : les électriciens et les constructeurs ont arrêté les principaux choix techniques ; les autorités de sûreté française et allemande ont défini des exigences communes de sûreté. La phase en cours (dite phase d'optimisation) a pour but d'accroître autant que possible la compétitivité du produit EPR, quitte à en simplifier certaines caractéristiques. En conclusion, la coopération franco-allamande sur l'EPR a été jusqu'ici parfaitement exemplaire. L'avenir de cette coopération dépend essentiellement de la possibilité d'engager à la fin de la phase d'optimisation, c'est-à-dire vers la fin de l'année 1998, les études de définition d'un prototype EPR.
