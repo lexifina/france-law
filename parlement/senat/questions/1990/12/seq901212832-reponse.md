@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901212832
+
+- Question : [SEQ901212832](seq901212832.md) — Politique de lutte contre la délinquance
+
+## Réponse
+
+*Premier ministre, JO du 1990-12-27, page 2741*
+
+Réponse. - Parvenir à développer une politique urbaine qui évite à notre pays la constitution de ghettos ou de villes à deux vitesses est effectivement essentiel. Dès mon arrivée dans mes fonctions de Premier ministre, j'ai souligné devant la représentation nationale l'enjeu que représentait un développement social urbain équilibré. Nous avons depuis, par la création de la délégation interministérielle à la ville, cherché à améliorer les réponses expérimentales que la commission des quartiers, créée par M. Dubedout, ou le Conseil national de prévention de la délinquance, dirigé par M. Bonnemaison, avait pu concevoir. Par la loi Besson, le Gouvernement a cherché à améliorer le logement des plus défavorisés. J'ai renforcé considérablement les moyens de la délégation interministérielle à la ville en ce qui concerne la prévention de la délinquance et ceux de la délégation à la lutte contre la drogue et la toxicomanie pour 1991. Mais un nouvel élan était nécessaire. A la suite des orientations définies par le chef de l'Etat, j'ai fixé quatre objectifs au Gouvernement : assurer la solidarité intercommunale pour lutter contre la ségrégation sociale et aider les communes à faire face à leurs missions ; améliorer l'efficacité des interventions de l'Etat par l'unité de commandement, la globalisation budgétaire et l'accès de tous au service public ; aider les jeunes à trouver leur place dans la cité ; créer les conditions d'une plus grande sécurité dans la ville. Sur chacun de ces objectifs, des mesures vont être prises dont je ne me cache pas qu'elles vont heurter avantages acquis et corporatismes. Je ne vois qu'intérêt à ce qu'un débat ait lieu devant le Parlement et je viendrai exposer la politique de mon gouvernement, en cette matière, le 18 décembre prochain.
