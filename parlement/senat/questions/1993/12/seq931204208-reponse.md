@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931204208
+
+- Question : [SEQ931204208](seq931204208.md) — Contribution annuelle des professions libérales et non salariées au financement d'actions de formation professionnelle continue
+
+## Réponse
+
+*Travail, JO du 1994-04-14, page 901*
+
+Réponse. - La loi n° 91-1405 du 31 décembre 1991 a prévu qu'à compter du 1er janvier 1992, les travailleurs indépendants, les membres des professions libérales et des professions non salariées consacrent chaque année au développement de la formation professionnelle continue une contribution forfaitaire égale à 0,15 p. 100 du montant annuel du plafond de la sécurité sociale (soit 216 francs pour l'année 1992). Il convient de rappeler que c'est suite à l'accord national interprofessionnel sur la formation professionnelle conclu le 3 juillet 1991 par les partenaires sociaux que la contribution a été instaurée. La contribution est recouvrée par les organismes chargés du recouvrement des cotisations du régime général de sécurité sociale selon les règles applicables au recouvrement des cotisations personnelles d'allocations familiales. A ce titre, les compositeurs de musique peuvent être assujettis à la contribution à la formation professionnelle continue. Cependant, l'article 2 de la loi quinquennale relative au travail, à l'emploi et à la formation professionnelle prévoit que dans un délai d'un an à compter de la promulgation de la loi le Gouvernement présentera au Parlement un rapport portant sur les conséquences qu'aurait principalement sur l'emploi et la situation financière des bénéficiaires actuels, une modification de l'assiette des contributions pesant sur les entreprises, notamment au titre de la participation des employeurs au développement de la formation professionnelle continue. A l'issue de ce rapport, les modalités de participation des travailleurs indépendants, des membres des professions libérales et des professions non salariées pourront, le cas échéant, être revues.
