@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971003574
+
+- Question : [SEQ971003574](seq971003574.md) — Sanctions des personnes consommant des substances classées comme stupéfiants
+
+## Réponse
+
+*Justice, JO du 1998-01-08, page 111*
+
+Réponse. - Le garde des sceaux, ministre de la justice, a l'honneur de faire connaître à l'honorable parlementaire que, les statistiques judiciaires pour 1996 et 1997 n'étant pas encore définitivement établies, les dernières statistiques font état de 6 201 condamnations du chef d'usage illicite de stupéfiants en 1994 et de 4 447 condamnations du même chef en 1995. La baisse sensible observée en 1995 est liée au fait que l'infraction entrant dans le champ de la loi du 3 août 1995 a pu être amnistiée à raison du quantum de la peine. Ces condamnations s'inscrivent dans un contexte particulier ; sept décisions sur dix sont motivées par le cumul de l'infraction d'usage de stupéfiants avec d'autres délis. La structure des peines fait ressortir cet état de fait. La peine d'emprisonnement est la peine la plus fréquemment prononcée : 4 660 en 1994 et 3 430 en 1995. L'emprisonnement comporte, dans la majorité des cas, une partie ferme, qui s'est élevée en moyenne à 8,2 mois en 1994 et à 9,3 mois en 1995. L'amende est prononcée dans 15 % des cas. Son montant moyen est de 2 000 francs en 1994 et de 2 500 francs en 1995. Enfin, les peines alternatives à l'emprisonnement sont rarement prononcées (297 en 1994 et 211 en 1995). Dans ce domaine, l'activité des juridictions de jugement ne doit pas faire oublier que le traitement de ce contentieux ne se limite pas au seul exercice de l'action publique, le code de la santé publique prévoyant, dans son article L. 628-1, l'extinction de l'action publique dès lors que l'usager de produits stupéfiants s'est conformé aux obligations de soins imposées par le procureur de la Répubique. A ce titre, 7 678 injonctions thérapeutiques ont été ordonnées en 1994 et 8 630 en 1995.
