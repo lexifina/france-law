@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890604899
+
+- Question : [SEQ890604899](seq890604899.md) — Modification du régime juridique des accédants à la propriété
+
+## Réponse
+
+*Logement, JO du 1989-08-24, page 1353*
+
+Réponse. - L'amélioration de la protection des accédants à la propriété d'une maison individuelle est une des préoccupations prioritaires du ministre chargé du logement. Les diverses études engagées à ce sujet ces dernières années ont permis d'enrichir la réflexion et conduisent à proposer une réforme de fond que le ministre s'est engagé à soumettre à la concertation avec les différents partenaires dans le courant du mois de septembre. Ce projet de réforme aura pour objectif premier d'apporter à l'accédant les garanties nécessaires jusqu'à la livraison du bien, objet du contrat. De même, l'amélioration des garanties de paiement des sous-traitants sera recherchée. A cet effet, les mesures appropriées seront prises pour accroître l'information des candidats accédants préalablement à tout engagement définitif de leur part, notamment en ce qui concerne le financement du bien. D'autre part, un dispositif de désistement pourrait être proposé pour le cas où le p rojet définitif serait différent du projet contractuel initial. Par ailleurs, des mesures de contrôle de l'état d'avancement des travaux de correspondance avec les appels de fonds effectués sont à l'étude. L'ensemble du dispositif envisagé impliquera un engagement de responsabilité de la part des différents partenaires intervenant dans la construction de la maison individuelle (constructeur, banquier, établissement garant, maître d'ouvrage). D'ores et déjà, et à l'issue d'une première concertation conduite avec les professionnels et les consommateurs, un projet de décret visant à inciter les constructeurs à offrir plus fréquemment une garantie financière d'achèvement des travaux est en cours de contreseing interministériel.
