@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890303864
+
+- Question : [SEQ890303864](seq890303864.md) — Contrôle de connaissances des conducteurs de véhicules sans permis
+
+## Réponse
+
+*Transports, JO du 1989-07-06, page 1052*
+
+Réponse. - Le système statistique actuellement en place ne permet pas de retrouver dans le fichier les accidents dans lesquels sont impliquées les voiturettes. Par contre, d'après une enquête réalisée par le goupement technique des assurances, sur un parc d'environ 60 000 véhicules (estimé par la chambre syndicale nationale des carrossiers et constructeurs de semi-remorques et moteurs), plus de la moitié (52,7 p. 100) circulent en zone rurale, 50,6 p. 100 d'entre elles sont conduites par des personnes de soixante-cinq ans et plus, et plus généralement par des hommes mariés, 76,2 p. 100 des voiturettes ont plus de deux ans. La proportion de sinistres corporels avec suite est de 9,6 p. 100 pour les voiturettes contre 12,3 p. 100 pour les voitures particulières, 13 p. 100 pour les cyclomoteurs et 27 p. 100 pour les motocyclettes. En ce qui concerne les coût de ces sinistres corporels, on constate que le pourcentage des remboursements affecté aux dommages corporels est de 13,2 p. 100 pour les voiturettes, 59 p. 100 pour les voitures particulières, 71 p. 100 pour les cyclomoteurs et 65,6 p. 100 pour les motocyclettes. Les voiturettes apparaissent donc, d'après les statistiques des assurances, comme nettement moins dangereuses que les autres véhicules. Etant des engins correspondant aux besoins de certaines catégories de la population, l'obligation de l'obtention d'un permis pour leur conduite aurait pour conséquence d'en limiter considérablement l'intérêt. C'est la raison pour laquelle les pouvoirs publics, tout en surveillant l'évolution du parc et la sinistralité de ces véhicules, n'envisagent pas à l'heure actuelle de renforcer la réglementation de leurs règles d'utilisation.
