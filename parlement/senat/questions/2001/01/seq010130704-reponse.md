@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010130704
+
+- Question : [SEQ010130704](seq010130704.md) — Collectivités territoriales : reconnaissance du rôle institutionnel des instances participatives des habitants dans les conférences communales ou intercommunales
+
+## Réponse
+
+*Logement, JO du 2001-07-05, page 2254*
+
+Le renforcement du rôle des associations de locataires dans les différentes instances compétentes en matière de logement constitue pour le Gouvernement un objectif prioritaire. Les associations de locataires sont ainsi d'ores et déjà représentées dans les commissions d'attribution des logements locatifs sociaux instituées auprès de chaque organisme d'HLM où siège l'un des administrateurs de l'organisme représentant les locataires. Elles sont également représentées dans les conférences intercommunales de logement en vertu de l'article L. 441-1-4 du code de la construction et de l'habitation, ainsi que dans les commissions de médiation dont la création est prévue dans chaque département et qui sont chargées de recevoir toutes réclamations des demandeurs de logement qui ne se seraient pas vus attribuer de logement au-delà d'un délai anormalement long fixé par l'accord collectif départemental. Cette commission comprend notamment deux représentants des associations de locataires. En outre, différentes mesures visant à renforcer le rôle des associations de locataires ont été introduites dans la loi relative à la solidarité et au renouvellement urbains en date du 13 décembre 2000. Ces dispositions visent en particulier à permettre l'émergence de nouvelles pratiques de concertation en rendant obligatoire dans le patrimoine des bailleurs " personnes morales ", la formalisation des modalités d'information et de concertation avec les locataires sur les sujets relatifs à la gestion locative dans le cadre de plans de concertation locative et grâce à la mise en place de lieux de concertation : les conseils de concertation locative.
