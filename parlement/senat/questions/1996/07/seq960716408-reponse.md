@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960716408
+
+- Question : [SEQ960716408](seq960716408.md) — Instruction des dossiers éligibles à l'opération " 1 000 villages "
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 1996-08-29, page 2245*
+
+Réponse. - Lancée en juin 1993, l'opération " 1000 Villages de France " s'est vu fixer comme objectif de revitaliser en deux ans un millier de villages en y maintenant, recréant ou aménageant les structures commerciales et artisanales de base, et en y favorisant la mise à la disposition de la population des services minimaux, tant publics que privés, nécessaires à la satisfaction de ses besoins les plus élémentaires, notamment par l'instrallation de commerces multiservices. Cette opération connaît un grand succès puisqu'à ce jour plus de mille cent projets ont bénéficié d'un soutien financier du fonds d'intervention pour la sauvegarde de l'artisanat et du commerce (FISAC). Les délais moyens d'instruction des dossiers sont tout à fait raisonnables puisqu'entre la date du dépôt du dossier à la préfecture et la décision d'attribution de la subvention le temps écoulé n'excède pas trois mois, sauf cas particuliers. L'administration est tenue de respecter les dispositions de l'article 10 du décret no 72-196 du 10 mars 1972 portant réforme du régime des subventions d'investissement accordées par l'Etat, qui stipule que, sauf dérogations, la décision attributive de subvention doit être préalable au commencement d'exécution de l'opération à subventionner. Des dérogations peuvent être accordées par le préfet sur demande justifiée par l'urgence, dès lors que le dossier complet aura été déposé en préfecture. L'accord donné ne préjuge en aucun cas la décision définitive. Cette réglementation étant tout à fait adaptée aux situations rencontrées, il n'est pas envisagé de la modifier.
