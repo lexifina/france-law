@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870204538
+
+- Question : [SEQ870204538](seq870204538.md) — Transports ferroviaires: mesures préventives contre le froid
+
+## Réponse
+
+*Transports, JO du 1987-06-11, page 936*
+
+Réponse. -Le réseau banlieue de la S.N.C.F. et le R.E.R. ont été perturbés par le froid et les chutes de neige du mois de janvier 1987. Ces intempéries ont entraîné une réduction de la capacité du système de transport. Cette réduction provient de l'allongement des temps de stationnement en gare (la neige sur les quais ralentissant les mouvements de voyageurs) et la fréquence accrue des dérangements d'installations dont la remise en état est retardée par les difficultés de circulation des agents chargés de l'entretien. Sur le matériel roulant les incidents fréquents en hiver (blocage des portes provoqué par le gel de la neige dans les glissières, gel des boggies, entrée de neige dans les moteurs et les appareils électriques) ont été aggravés par le fait que cette période d'intempéries a immédiatement suivi une période de grève. Au cours de celle-ci, seul un entretien réduit a été assuré. Or, les difficultés rencontrées ne peuvent être surmontées que par des mesures d'exploitation coûteuses en personnel : surveillance vigilante du matériel et préparation des voitures pendant la nuit, modification des tableaux de service des ateliers d'entretien. Les circonstances n'ont pas permis de mettre en oeuvre de manière efficace de telles mesures. Pour le cas particulier du R.E.R., le matériel le plus ancien de type MI 79, déjà modifié à la fin de 1986, fera l'objet d'améliorations complémentaires, étudiées conjointement par la S.N.C.F. et la R.A.T.P. Quant aux installations fixes, un effort d'investissement étalé sur plusieurs années permettra de développer et rendre plus efficaces les systèmes de réchauffage d'aiguilles.
