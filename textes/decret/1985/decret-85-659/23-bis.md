@@ -1,11 +1,7 @@
 # Article 23 bis
 
-La délégation aux techniques de l'aménagement développe les techniques de l'urbanisme et de l'aménagement ainsi que des transports urbains, départementaux et régionaux. Dans ces domaines, elle concourt à l'élaboration et à l'utilisation des connaissances, des méthodes et des instruments. Elle assure la synthèse des travaux, leur coordination et leur diffusion en direction des collectivités territoriales, des services techniques et des milieux professionnels.
+Le secrétariat général au tunnel sous la Manche assiste la délégation française à la commission intergouvernementale créée par le traité entre la République française et le Royaume-Uni concernant la liaison fixe transmanche ; il assure, à ce titre, la préparation et l'exécution des décisions de la commission ainsi que le secrétariat du comité de sécurité créé par le traité.
 
-Elle arrête, en accord avec les directions d'administration centrale, la participation des services placés sous son autorité à la mise en oeuvre des politiques conduites ou soutenues par l'Etat.
+Le secrétariat général administre les moyens nécessaires au fonctionnement de la commission intergouvernementale et du comité de sécurité. Il est chargé, en liaison avec les administrations concernées, du suivi et de la coordination des actions nécessaires à la construction et à l'exploitation de la liaison fixe transmanche.
 
-Elle anime et oriente, dans son domaine, le réseau technique du ministre de l'urbanisme, du logement et des transports, et apporte aux services extérieurs, départementaux, régionaux et interrégionaux un appui technique leur permettant de développer et consolider leurs compétences des différents acteurs de l'aménagement.
-
-La délégation a autorité sur le service technique de l'urbanisme et le centre d'études des transports urbains.
-
-La délégation aux techniques de l'aménagement est dirigée par un délégué nommé par décret en conseil des ministres.
+Le secrétariat général au tunnel sous la Manche est placé sous l'autorité du secrétaire général de la délégation française à la commission intergouvernementale.
