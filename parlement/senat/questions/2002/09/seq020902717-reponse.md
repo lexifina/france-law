@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020902717
+
+- Question : [SEQ020902717](seq020902717.md) — Accueil dans les hôpitaux publics des spécialistes installés en ville
+
+## Réponse
+
+*Santé, JO du 2003-06-12, page 1931*
+
+L'attention du ministre de la santé, de la famille et des personnes handicapées est appelée sur la diminution du recours aux médecins attachés dans les hôpitaux publics. La contrainte budgétaire pesant sur les hôpitaux publics a incité ces derniers à mener leur politique de recrutement de personnel médical à moyens constants. De ce fait, les établissements sont conduits, pour recruter des médecins sous le statut de praticien hospitalier temps plein ou temps partiel - ce qui constitue le cadre normal de recrutement de praticiens à l'hôpital - à supprimer des postes relevant d'autres statuts, et notamment du statut d'attaché. Le faible taux de rémunération caractérisant ces postes d'attachés, ainsi que la grande souplesse des décisions de nomination dont relèvent les attachés conduisent à ce qu'un grand nombre de vacations soient prioritairement supprimées pour dégager les marges financières nécessaires au recrutement de praticiens hospitaliers. Conformément aux engagements pris par le ministre en décembre 2002, un nouveau statut va être publié avant la fin du deuxième trimestre 2003 pour offrir un cadre d'exercice professionnel rénové aux actuels attachés. Les deux avancées essentielles contenues dans ce nouveau statut sont une rémunération très nettement revalorisée et une plus grande stabilité des contrats. De ce fait, la pratique actuelle consistant à gager des vacations au profit de postes de praticiens hospitaliers devrait trouver ses limites. Par ailleurs, ce nouveau statut, plus attractif, a pour ambition de faire venir, ou revenir à l'hôpital public des praticiens exerçant en ville, dans le but d'une meilleure articulation entre médecine ambulatoire et médecine hospitalière.
