@@ -358,6 +358,6 @@ Socamel, quartier d'Allivet, 38140 Renage-sur-Rives : de 1960 à 1996 ;
 
 Valeo, 8, rue Yves-Toudic, 69200 Vénissieux : de 1974 à 1987 ;
 
-Voisin et Pascal/Société Guichard, Usine Nicolas, 38 Vermelle : de 1971 à 1988 ;
+Voisin et Pascal, société Guichard, 38300 Nivolas-Vermelle, de 1971 à 1988 ;
 
 Wanner Isofi, quai Fulchiron, 69500 Lyon : de 1967 à 1973 ; - 42, rue A.-Charial, 69003 Lyon : de 1973 à 1985 ; - 63-65, rue André-Sentuc, 69200 Vénissieux : de 1985 à 1997.
