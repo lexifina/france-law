@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960716514
+
+- Question : [SEQ960716514](seq960716514.md) — Difficultés des entreprises du bâtiment et réduction du taux de TVA sur le logement
+
+## Réponse
+
+*Économie, JO du 1996-10-03, page 2559*
+
+Réponse. - La mesure proposée serait contraire aux engagements communautaires de la France. L'article 12-3-a et l'annexe H de la sixième directive 77/388-CEE modifiée du 17 mai 1977 ne permettent pas, en effet, d'appliquer le taux réduit de la TVA à l'ensemble des opérations se rapportant au logement dont le coût, de l'ordre de 23 milliards de francs, ne serait par ailleurs pas supportable par nos finances publiques. Cela étant, le Gouvernement est bien conscient de l'importance du secteur de l'artisanat et des entreprises du bâtiment, au regard de l'emploi et du développement local. C'est pourquoi, afin de soutenir ce domaine d'activité, diverses mesures destinées à favoriser le logement et la réhabilitation du patrimoine immobilier existant ont été récement adoptées. Il s'agit de la réduction des droits de mutation sur l'acquisition de logements, de la reconduction jusqu'au 31 décembre 1996 de la réduction d'impôts sur le revenu pour dépenses de grosses réparations, de l'exonération des plus-values de cessions de titres d'OPCVM monétaires ou obligataires de capitalisation en cas de réinvestissement dans l'immobilier d'habitation ou encore de l'exonération de ces mêmes plus-values dans la limite de 100 000 F en cas de remploi dans la réalisation de travaux d'entretien ou d'amélioration du logement. A ces mesures fiscales s'ajoutent des dispositions très importantes d'ordre financier, notamment la mise en place du prêt à taux zéro qui a été élargi aux acquisitions de logements anciens nécessitant des travaux pour un montant compris entre 20 et 35 p. 100 du coût total de l'opération. Ces efforts récemment consentis favorisent l'activité du bâtiment et vont dans le sens des préoccupations exprimées.
