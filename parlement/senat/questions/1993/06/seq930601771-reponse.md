@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930601771
+
+- Question : [SEQ930601771](seq930601771.md) — Décentralisation de l'enseignement supérieur
+
+## Réponse
+
+*Enseignement supérieur, JO du 1994-03-24, page 675*
+
+Réponse. - Le rapport no 248 de la mission d'information du Sénat sur la déconcentration en date du 27 mars 1991 trace un bilan de la politique de décentralisation et propose d'amplifier les transferts de compétence de l'Etat aux collectivités territoriales. S'agissant de l'enseignement supérieur, le rapport étudie un nouveau partage de responsabilités qui confierait aux conseils régionaux, dans un premier temps, la responsabilité de l'équipement et du fonctionnement puis, dans un second temps, celle du personnel. Le rapport prévoit également que l'Etat et les régions définissent ensemble des plans régionaux de développement de l'enseignement supérieur portant sur les filières de formation et le choix des implantations. Le rapport de la mission d'information sénatoriale contient nombre d'analyses intéressantes ; pour autant, le Gouvernement n'envisage pas aujourd'hui de modifier de manière aussi radicale la ligne de partage des compétences entre l'Etat et les collectivités locales, dans un domaine qui traditionnellement relève de la responsabilité étatique. Cependant, le Premier ministre a récemment confié à M. de Boishue, député de l'Essonne, mission de lui faire des propositions pour définir, entre l'Etat et les collectivités territoriales, un partenariat plus étroit et mieux maîtrisé, notamment dans le domaine de l'établissement de la carte universitaire. C'est sur le fondement des propositions qui lui seront faites que le ministre de l'enseignement supérieur proposera, le cas échéant, au Premier ministre, les aménagements qu'il semblerait nécessaire d'apporter aux textes ou aux pratiques pour que les collectivités territoriales soient mieux associées à des responsabilités que l'Etat doit continuer d'exercer.
