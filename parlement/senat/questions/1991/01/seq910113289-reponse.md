@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910113289
+
+- Question : [SEQ910113289](seq910113289.md) — Demande d'amélioration du fonctionnement du tribunal de grande instance de Thionville
+
+## Réponse
+
+*Justice, JO du 1991-03-21, page 600*
+
+Réponse. - L'effectif budgétaire du greffe du tribunal de grande instance de Thionville se compose de deux greffiers en chef, douze greffiers, vingt fonctionnaires de catégorie C et deux agents de service. L'effectif réel est actuellement d'un greffier en chef, de dix greffiers, de dix-huit fonctionnaires de catégorie C et de deux agents de service. Les postes vacants n'ont pu être pourvus après réunion des commissions administratives paritaires compétentes, aucune candidature ne s'étant portée sur ces emplois. Ils feront l'objet d'une nouvelle publication en vue des prochaines réunions des commissions administratives paritaires, dans le courant du premier semestre 1991. Les postes vacants de catégorie C pourront être offerts au concours pour le recrutement de 469 commis des services judiciaires dont les résultats seront publiés en mars 1991. Les emplois de greffiers vacants pourront également être offerts aux stagiaires issus de l'école nationale des greffes en septembre 1991. Enfin des crédits permettant le recrutement exceptionnel d'agents vacataires pourront être délégués par les chefs de la cour d'appel de Metz. En 1989, 2 485 affaires civiles nouvelles ont été enregistrées, 2 164 terminées dont 1 688 jugements prononcés, et le délai moyen de traitement d'une affaire civile était de 7,2 mois. En outre 2 537 jugements correctionnels ont été rendus. Au cours des trois premiers trimestres de l'année 1990, 1 928 affaires civiles nouvelles ont été enregistrées. Le renforcement de l'effectif budgétaire du tribunal de grande instance de Thionville fera l'objet d'une étude attentive de la part de la chancellerie, en fonction de la charge de travail du greffe comparée à la moyenne nationale.
