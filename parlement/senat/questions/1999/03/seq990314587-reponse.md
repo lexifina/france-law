@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990314587
+
+- Question : [SEQ990314587](seq990314587.md) — Dangers liés à l'incivilité de nombreux conducteurs de deux-roues type " booster "
+
+## Réponse
+
+*Intérieur, JO du 1999-04-22, page 1339*
+
+Réponse. - L'honorable parlementaire évoque les difficultés liées à la circulation des véhicules motorisés à deux roues de type " booster " de moins de 50 cc dans les quartiers urbains et plus spécifiquement, l'impossibilité d'identifier tant les conducteurs que leurs véhicules en l'absence d'immatriculation de ces engins. Depuis plusieurs années, de multiples infractions à la réglementation des cyclomoteurs ont conduit les pouvoirs publics à engager une réflexion d'ensemble sur les différents moyens permettant de résoudre ce problème. A cet égard, le comité interministériel de la sécurité routière du 26 novembre 1997 a décidé de rendre obligatoire l'immatriculation des cyclomoteurs qui, aux termes de l'article R. 188 du code de la route, sont des véhicules à deux ou trois roues équipés d'un moteur d'une cylindrée ne dépassant pas 50 cc. Ainsi, l'immatriculation sera rendue obligatoire pour les cyclomoteurs neufs à partir du 1er janvier 2000 et l'immatriculation du parc existant sera effectuée avant 2001. Cette décision répond à un double objectif d'identification et de responsabilisation des conducteurs de ces véhicules. D'une part, l'immatriculation entraînera systématiquement l'association d'un nom à une carte grise permettant d'identifier à la fois le véhicule et le détenteur du titre. D'autre part, la décision de soumettre les cyclomoteurs à immatriculation doit contribuer à une plus grande responsabilisation des jeunes conducteurs dont le véhicule sera enregistré dans un fichier informatique et, de ce fait, à une limitation des infractions constatées.
