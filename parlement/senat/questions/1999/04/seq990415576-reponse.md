@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990415576
+
+- Question : [SEQ990415576](seq990415576.md) — Remplacement temporaire de fonctionnaires titulaires de la fonction publique territoriale
+
+## Réponse
+
+*Fonction publique, JO du 1999-07-08, page 2333*
+
+Réponse. - Dans un avis rendu le 25 juillet 1995 par le Conseil d'Etat sur des questions de droit posées par un tribunal administratif, la Haute Assemblée a rappelé qu'il ne résulte d'aucune disposition, d'aucun texte ni d'aucun principe général que les agents non titulaires, recrutés par les collectivités locales sur le fondement de l'article 3, 1er alinéa, de la loi nº 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale, doivent être rémunérés sur la base de l'échelon de début de l'emploi vacant. Il appartient à l'autorité territoriale de fixer, au cas par cas, sous le contrôle du juge, la rémunération de ces agents en prenant en compte principalement la rémunération accordée aux titulaires qu'ils remplacent et, à titre accessoire, d'autres éléments tels que le niveau de diplôme et l'expérience professionnelle des non-titulaires ainsi recrutés. Le niveau de la rémunération est donc apprécié sous le contrôle de l'erreur manifeste d'appréciation. Ce niveau doit tenir compte à la fois de l'équivalence avec les rémunérations versées à des fonctionnaires titulaires de niveau comparable et du degré de qualification ou d'expérience professionnelle correspondant au poste considéré. Dans ce cadre, la combinaison des articles 136 de la loi du 26 janvier 1984 précitée et 20 de la loi nº 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires rendrait possible, sous le contrôle de l'erreur manifeste d'appréciation, de définir un niveau global de rémunération d'un agent non titulaire en prenant en compte le régime indemnitaire d'un fonctionnaire territorial placé dans une situation comparable.
