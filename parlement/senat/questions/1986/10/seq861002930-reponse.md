@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861002930
+
+- Question : [SEQ861002930](seq861002930.md) — Transports publics au moyen de tracteurs agricoles: réglementation
+
+## Réponse
+
+*Transports, JO du 1987-03-12, page 381*
+
+Réponse. -Le décret n° 86-567 du 14 mars 1986 relatif au transport routier de marchandises a exempté dans son article 45-2 les agriculteurs exécutant des transports sur une distance de moins de 100 kilomètres au moyen de véhicules et d'appareils agricoles définis par l'article 138 A du code de la route, des obligations auxquelles sont soumis les transporteurs publics, et notamment de l'inscription au registre des transporteurs ainsi que de la possession d'une attestation de capacité. Si ces dispositions peuvent laisser apparaître, a priori, une concurrence possible des entrepreneurs de travaux agricoles, il convient de préciser que ces entreprises exercent leur activité dans un champ géographique où le transport routier est complètement décontigenté et que les matériels employés - tracteurs agricoles et remorques définis par l'article 138 A du code de la route - sont, par construction, limités à des vitesses de circulation très inférieures à celles des véhicules routiers. Les entreprises de travaux agricoles offrent, en outre, un ensemble de prestations dans lesquelles le transport n'entre que pour une part limitée. Il est clair enfin que toute disposition d'assimilation des entrepreneurs de travaux agricoles à des transporteurs publics les aurait conduits à développer des activités de transport public parallèles. Il est bien évident, en revanche, que l'utilisation de matériels autres que ceux destinés à l'exploitation agricole, au sens de l'article 138 A du code de la route, et notamment celle des véhicules de transport routier, ramènerait ces entreprises dans le champ d'application du décret n° 86-567 du 14 mars 1986.
