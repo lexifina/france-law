@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880700477
+
+- Question : [SEQ880700477](seq880700477.md) — Droits aux allocations familiales
+
+## Réponse
+
+*Famille, JO du 1988-11-24, page 1333*
+
+Réponse. - L'âge limite de versement des prestations familiales est fixé à seize ans par le code de la sécurité sociale. Cette limite est portée à dix-sept ans dans le cas des enfants inactifs ou de ceux qui perçoivent une rémunération inférieure à 55 p. 100 du S.M.I.C. Elle est fixée à vingt ans notamment lorsque l'enfant poursuit des études ou est placé en apprentissage ou en stage de formation professionnelle au sens du livre X du code du travail à condition qu'il ne perçoive pas une rémunération supérieure au plafond mentionné ci-dessus. L'extension des limites d'âge actuelles représenterait un coût très élevé. Le maintien actuel des prestations familiales entre seize et vingt ans intéresse plusieurs catégories de jeunes (inactifs, étudiants, apprentis, etc.). Prévoir l'extension de l'âge limite au profit d'une seule d'entre elles est socialement difficile à envisager. Une telle mesure accroîtrait les inégalités entre familles, selon que les enfants ont été ou non à même de poursuivre leurs études. Une extension des âges limites jusqu'à vingt-cinq ans au profit de l'ensemble des catégories de jeunes entraînerait un surcoût très important, difficilement envisageable à l'heure actuelle. Les contraintes budgétaires imposent des choix au Gouvernement dans le domaine de la politique familiale. Compte tenu de ces contraintes, le Gouvernement estime que le système des bourses et des oeuvres sociales de l'enseignement supérieur est le plus adapté pour répondre aux besoins des familles dont les enfants poursuivent leurs études. Il faut rappeler enfin que la législation fiscale prévoit des dispositions particulières en faveur des familles qui ont la charge de grands enfants. 201
