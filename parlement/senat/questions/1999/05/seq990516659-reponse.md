@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990516659
+
+- Question : [SEQ990516659](seq990516659.md) — Elections des représentants des commissions administratives paritaires de l'éducation nationale
+
+## Réponse
+
+*Éducation, JO du 1999-08-26, page 2868*
+
+Réponse. - Aucune disposition du décret nº 82-451 du 28 mai 1982 modifié relatif aux commissions administratives paritaires n'impose que le dépouillement soit effectué dès la clôture du scrutin et, s'il est vrai que cette procédure est mise en place pour certaines élections (attachés d'administration centrale, inspecteurs de l'éducation nationale...), en ce qui concerne les élections professionnelles des personnels enseignants des premier et second degrés, d'éducation et d'orientation, cette opération ne peut être organisée. En effet, le dépouillement des votes à l'issue du scrutin, c'est-à-dire dans les établissements scolaires et écoles, comporte deux écueils. D'une part, il entraînerait la multiplication des lieux de dépouillement préjudiciable à la connaissance du quorum. Il convient en effet de rappeler que, compte tenu de la modification de l'article 23 bis du décret du 28 mai 1982 précité par le décret nº 98-1092 du 4 décembre 1998, lorsque le nombre de votants est inférieur de moitié à celui des inscrits, il n'est pas procédé au dépouillement du premier tour de scrutin. D'autre part, il ne garantirait pas le secret du vote, notamment pour les personnels appartenant à des corps peu nombreux dans les établissements (conseillers d'éducation, conseillers principaux d'éducation). Pour toutes ces raisons, et en application des dispositions de l'article 18 du décret du 28 mai 1982 susmentionné, le dépouillement aura lieu dans le délai de trois jours ouvrables à compter de la date de l'élection. S'agissant des conditions de conservation des suffrages, toutes les précautions sont prises pour assurer la sécurité des enveloppes et de leur contenu.
