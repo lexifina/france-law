@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991221461
+
+- Question : [SEQ991221461](seq991221461.md) — Marianne de l'an 2000
+
+## Réponse
+
+*Intérieur, JO du 2000-02-24, page 693*
+
+Réponse. - L'initiative de la nouvelle représentation de la République revient à l'Association des maires de France (AMF) qui a décidé de faire participer pour la première fois tous les maires aux choix d'une nouvelle Marianne en organisant l'élection de la personnalité servant de modèle à un artiste sculpteur. Cette opération de communication intitulée " Marianne 2000 " a été présentée par l'AMF lors d'une conférence de presse le 7 septembre 1999 au cours de laquelle la signification du symbole de la République française a été rappelée ainsi que l'histoire de " Marianne " depuis son origine, qui remonte à 1789, jusqu'à nos jours. Au fil du temps, de nombreuses représentation de " Marianne " réalisées par des sculpteurs connus se sont succédé. En 1968 pour la première fois, une vedette célèbre prêtait ses traits à " Marianne ". Mais d'autres bustes anonymes ont aussi été réalisés et ont pu figurer dans les mairies puisqu'aucun texte législatif ou réglementaire n'impose de modèle spécifique aux maires, ni même ne les oblige à placer une Marianne dans leur mairie. En effet, si le Gouvernement provisoire avait, en 1848, recommandé l'emploi d'un buste réalisé par le sculpteur Dubray, les pouvoirs publics, par respect des libertés locales, n'ont pas estimé, depuis lors, devoir imposer un modèle spécifique. La fabrication et la vente de ces bustes sont donc laissés à l'initiative privée et chaque municipalité dispose du libre choix du modèle. Depuis cette élection de la " Marianne de l'an 2000 ", certains maires ont d'ailleurs récemment organisé des élections locales pour élire leur propre Marianne au sein de leur commune.
