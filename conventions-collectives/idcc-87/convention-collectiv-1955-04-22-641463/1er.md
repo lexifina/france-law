@@ -1,55 +1,37 @@
-# Article 1er
+# Article 1
 
 La présente convention est conclue en application du chapitre IV bis du titre II du livre 1er du code du travail.
 
 Elle s'applique avec ses annexes à l'ensemble du territoire métropolitain, y compris la Corse.
 
-Elle règle les conditions de travail des ouvriers occupés dans les entreprises appartenant aux industries ci-après énumérées, par référence à la nomenclature des activités économiques (décret du 9 avril 1959).
+Elle règle les conditions de travail des ouvriers occupés dans les entreprises appartenant aux industries ci-après énumérées, en application du décret n° 92-1129 du 2 octobre 1992, portant approbation de la nomenclature d'activité française (N.A.F.) :
 
-1° Toute la section 14 : Extraction de matériaux de construction et d'autres produits de carrière, à l'exception de :
+14-1 A : - Extraction et transformation de pierres pour la construction.
 
-141 : Ardoisière, carrière d'ardoises ; de schiste ardoisier.
+14-1 C : - Extraction de calcaire industriel, de gypse et de craie.
 
-146-0 : Carrière d'argile (indépendante d'un établissement de céramique).
+14-2 A : - Production de sables et de granulats.
 
-146-1 : Extraction de terre à brique, de terre à poterie : glaise, glaisière.
+14-3 Z : - Extraction de terres colorantes.
 
-146-2 : Extraction d'argiles réfractaires, terres réfractaires.
+14-5 Z : - Extraction de matières abrasives naturelles.
 
-146-3 : Extraction de kaolin et d'argiles kaoliniques.
+26-5 E : - Fabrication de plâtre (à l'exception des entreprises appliquant la convention collective de l'industrie du ciment).
 
-146-4 : Extraction d'argiles décolorantes.
+26-6 A : - Fabrication d'éléments en béton pour la construction.
 
-2° Dans la section 15 : Extraction et préparation de minéraux divers :
+26-6 C : - Fabrication d'éléments en plâtre pour la construction (à l'exception des entreprises appliquant la convention collective de l'industrie du ciment).
 
-Les rubriques et sous-rubriques 157-3 : Extraction de silice fossile de kieselguhr, de diatomites.
+26-6 E : - Fabrication du béton prêt à l'emploi.
 
-157-31 : Extraction avec ou sans préparation de briques.
+26-6 J : - Fabrication d'ouvrages en fibre-ciment.
 
-157-32 : Préparation de briques ou enduits de silice fossile.
+26-6 L : - Fabrication d'autres ouvrages en béton ou en plâtre.
 
-3° Toute la section 32 : Matériaux de construction, à l'exception de :
+26-7 Z : - Travail de la pierre (uniquement transformation).
 
-La rubrique 321-3 : Taille d'ardoise.
+26-8 A : - Fabrication de produits abrasifs.
 
-Dans le sous-groupe 324 : Fabrication de plâtre, les usines rattachées à des sociétés appliquent déjà la convention collective de l'industrie du ciment.
+26-8 C : - Fabrication de matières minérales isolantes (laines de roche et de laitier, vermiculite, argiles expansées).
 
-Groupe 325 : Fabrication de chaux et ciments.
-
-La sous-rubrique 327-22 : Fabrication de matériaux d'étanchéité :
-
-feutres bitumés et goudronnés, bitume armé.
-
-La convention s'applique également :
-
-- aux dépôts et agences des établissements soumis à la présente convention ;
-
-- aux salariés exerçant des métiers ressortissant à d'autres professions, tels que mécaniciens, électriciens, menuisiers, maçons, plombiers, couvreurs, soudeurs, mais employés dans l'industrie qui fait l'objet de la présente convention, étant entendu que leurs salaires ne pourront être inférieurs à ceux de la classification résultant des accords ou conventions de leur profession ou industrie d'origine.
-
-Des annexes à la présente convention, établies par branches professionnelles nationales ou régionales, détermineront les dispositions particulières qui leur sont applicables.
-
-NOTA :
-
-Par accord du 11 juillet 2019, conclu en application de l’article L. 2261-33 du code du travail relatif à la restructuration des branches professionnelles, le champ d’application de la convention collective nationale des industries de la fabrication de la chaux (IDCC 3227) a fusionné avec celui de la convention collective nationale des cadres des industries de carrières et matériaux (IDCC 211), avec celui de la convention collective nationale des employés, techniciens et agents de maîtrise des industries de carrières et de matériaux (IDCC 135) et avec celui de la convention collective nationale des ouvriers des industries de carrières et de matériaux (IDCC 87), désignée comme branche de rattachement.
-
-Dans un délai maximal de 5 ans à compter de l’entrée en vigueur de la fusion des champs, les stipulations des conventions collectives concernées peuvent être maintenues, dans l’attente de la conclusion d’un accord remplaçant par des stipulations communes les stipulations régissant des situations équivalentes dans chacune des conventions. A défaut d’accord au terme de ce délai, les stipulations de la convention rattachée cessent de s’appliquer, à l’exception de celles régissant des situations spécifiques (Conseil constitutionnel, décision n° 2019-816 QPC du 29-11-2019).
+93-0 H : - Fourniture, pose et gravure de dalles funéraires (marbrerie funéraire).

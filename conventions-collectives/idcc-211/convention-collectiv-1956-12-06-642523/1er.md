@@ -14,7 +14,7 @@ Sont considérés comme cadres, pour l'application de la présente convention, l
 
 Leur activité s'exerce, par délégation de l'employeur, avec une liberté d'action les amenant à prendre toutes initiatives utiles au bon exercice de la fonction qui leur a été confiée.
 
-Hormis le cas de certains cadres débutants, l'ensemble des exigences de ces postes est plus important que celui correspondant au niveau des postes supérieurs de la catégorie ETAM
+Hormis le cas de certains cadres débutants, l'ensemble des exigences de ces postes est plus important que celui correspondant au niveau des postes supérieurs de la catégorie E.T.A.M.
 
 Sont hors du domaine de la présente convention :
 
@@ -25,9 +25,3 @@ b) Les stagiaires en cours ou en fin d'études non titulaires d'un contrat de tr
 c) Les titulaires de diplômes ou possesseurs de formations qui, aux termes de leur contrat, occupent des postes ne correspondant pas au niveau des connaissances qu'ils ont acquises ou à des connaissances équivalentes.
 
 d) Les agents de maîtrise et autres collaborateurs qui, bien que bénéficiant de la convention collective nationale de retraite des cadres du 14 mars 1947, ne remplissent pas les conditions définies ci-dessus.
-
-NOTA :
-
-Par accord du 11 juillet 2019, conclu en application de l’article L. 2261-33 du code du travail relatif à la restructuration des branches professionnelles, le champ d’application de la convention collective nationale des cadres des industries de carrières et matériaux (IDCC 211) a fusionné avec celui de la convention collective nationale des employés, techniciens et agents de maîtrise des industries de carrières et de matériaux (IDCC 135), avec celui de la convention collective nationale des industries de la fabrication de la chaux (IDCC 3227) et avec celui de la convention collective nationale des ouvriers des industries de carrières et de matériaux (IDCC 87), désignée comme branche de rattachement.
-
-Dans un délai maximal de 5 ans à compter de l’entrée en vigueur de la fusion des champs, les stipulations des conventions collectives concernées peuvent être maintenues, dans l’attente de la conclusion d’un accord remplaçant par des stipulations communes les stipulations régissant des situations équivalentes dans chacune des conventions. A défaut d’accord au terme de ce délai, les stipulations de la convention rattachée cessent de s’appliquer, à l’exception de celles régissant des situations spécifiques (Conseil constitutionnel, décision n° 2019-816 QPC du 29-11-2019).
