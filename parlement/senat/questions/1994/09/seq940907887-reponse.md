@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940907887
+
+- Question : [SEQ940907887](seq940907887.md) — Conséquences de certaines dispositions des cadres d'emplois de garde champêtre et de gardien de police municipale
+
+## Réponse
+
+*Aménagement du territoire, JO du 1994-12-08, page 2897*
+
+Réponse. - Les décrets nos 94-731 et 94-732 du 24 août 1994 portant statuts particuliers des cadres d'emplois des gardes champêtres et des agents de police municipale ont prévu que ces agents sont, dès leur recrutement, astreints à une formation initiale d'application préalable à leur titularisation. Les décrets nos 94-333 et 94-334 fixent, pour chacun des cadres d'emplois concernés, les conditions d'organisation de cette formation initiale. Le dispositif de formation retenu ne pouvait s'inscrire que dans le cadre légal et réglementaire en vigueur. Il ne pouvait donc préjuger du vote des assemblées parlementaires sur les dispositions relatives à la formation des fonctionnaires territoriaux contenues dans le projet de loi modifiant certaines dispositions relatives à la fonction publique territoriale actuellement soumis à l'examen du Parlement, notamment celles relatives à l'institution d'une formation initiale avant recrutement et à la mise en place d'une formation d'adaptation à l'emploi étalée dans le temps après la titularisation. Pour l'instant, les conditions dans lesquelles cette formation est dispensée restent régies par les dispositions légales et réglementaires en vigueur. Il en est ainsi des modalités de rémunération des stagiaires suivant une formation avant titularisation : ces derniers étant, aux termes de l'article 4 de la loi no 84-594 du 12 juillet 1984 modifiée, maintenus en position d'activité durant leur formation, leur rémunération est prise en charge par la collectivité locale qui les a recrutés.
