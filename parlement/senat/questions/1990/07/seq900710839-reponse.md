@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900710839
+
+- Question : [SEQ900710839](seq900710839.md) — Réforme de la protection sociale agricole : publication de décrets
+
+## Réponse
+
+*Agriculture, JO du 1990-08-30, page 1885*
+
+Réponse. - L'état d'avancement des quatres décrets évoqués par l'honorable parlementaire est le suivant : le décret pris en application de l'article 61 de la loi n° 90-85 du 23 janvier 1990 et fixant notamment le montant des cotisations minimales d'assurance maladie, invalidité, maternité et d'assurance vieillesse des exploitants agricoles a été publié au Journal officiel le 23 juin 1990 (décret n° 90-498 du 21 juin 1990) ; le décret fixant pour l'année 1990, le barème et les taux des cotisations dues au régime de protection sociale des non-salariés agricoles ainsi que le décret modifiant le barème des points de retraite proportionnelle de manière à harmoniser totalement les retraites des agriculteurs sur celles des salariés ont été signés par le ministre de l'agriculture et de la forêt et sont actuellement soumis au contreseing du ministre de l'économie, des finances et du budget et du ministre délégué, chargé du budget. Leur publication devrait intervenir très prochainement ; le décret pris pour l'application de l'article 41 de la loi n° 88-1202 du 30 décembre 1988 et fixant les modalités de gestion et de fonctionnement du régime complémentaire d'assurance vieillesse institué au profit des exploitants agricoles ainsi que de leurs conjoints et des membres de leur famille a été élaboré, mais quelques-unes de ses dispositions font encore l'objet d'un examen interministériel. Il est précisé à cet égard, que la publication tardive de ce texte ne sera pas préjudiciable aux agriculteurs désireux d'adhérer à ce régime puisqu'ils auront la possibilité de racheter les cotisations à compter du 1er janvier 1989.
