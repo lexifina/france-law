@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970600244
+
+- Question : [SEQ970600244](seq970600244.md) — Elimination des déchets ménagers
+
+## Réponse
+
+*Aménagement du territoire, JO du 1997-08-28, page 2204*
+
+Réponse. - Mme la ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question posée par l'honorable parlementaire concernant la valorisation des déchets ménagers fermentescibles. La loi du 13 juillet 1992 relative à l'élimination des déchets ainsi qu'aux installations classées pour la protection de l'environnement fixe les priorités de la politique des déchets, et notamment de leur valorisation. Dans ce cadre, Mme la ministre de l'aménagement du territoire et de l'environnement souhaite soutenir la valorisation matière des déchets ménagers organiques qui peuvent faire l'objet d'un compostage. Ce procédé aboutit à la fabrication d'amendement organique, valorisable en agriculture. Il permet de réduire la mise en stockage de ces déchets et constitue un traitement complémentaire à l'incinération. Un soutien financier des installations de compostage est possible à l'aide du Fonds de modernisation de la gestion des déchets (FMGD), dont la gestion a été confiée à l'ADEMIE, et qui a notamment pour objet la participation au financement d'installations de traitement de déchets. Il est ainsi prévu d'augmenter le taux d'aide actuel du FMGD pour la mise en place d'installations de compostage de déchets verts et de déchets ménagers organiques issus d'une collecte sélective. En effet, afin de produire du compost de bonne qualité, il est nécessaire de développer une meilleure collecte sélective des déchets ménagers et de déterminer les moyens techniques nécessaires. Cela contribuera à améliorer leur image de marque, notamment auprès du monde agricole.
