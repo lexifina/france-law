@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980608958
+
+- Question : [SEQ980608958](seq980608958.md) — Campagne de sensibilisation à la sécurité routière en Martinique
+
+## Réponse
+
+*Équipement, JO du 1998-10-08, page 3191*
+
+Réponse. - Le Tour des Yoles a été reconduit à l'initiative de la préfecture et en partenariat avec le conseil général en 1998. Il a rencontré un grand succès et la présence des responsables et partenaires de la sécurité routière a permis d'engager une sensibilisation du public sur différents thèmes comme le port de la ceinture de sécurité, les risques de la conduite après consommation d'alcool, le respect du code de la route. Si cette manifestation a reçu un accueil très favorable de la part du public, il n'est pas possible d'en évaluer les effets directs et immédiats sur le comportement des Martiniquais au volant. Toutefois les résultats du premier semestre 1998 comparés à ceux du premier semestre 1997 montrent une légère amélioration de l'ensemble des indicateurs. Comme tous les départements, la Martinique a élaboré à la fin de l'année 1997, un document général d'orientations pour lutter contre l'insécurité routière, sur la période 1998-2002. Les principaux partenaires de la sécurité routière ont signé une charte départementale dans laquelle ils s'engagent à unir leurs efforts pour diviser par deux l'insécurité routière dans le département au terme des cinq prochaines années et à concentrer leur action sur les principaux enjeux de l'insécurité routière locale. En ce qui concerne le Tour de France, le délégué interministériel à la sécurité routière intervient chaque année devant les membres de la caravane pour leur rappeler les risques encourus et les règles de sécurité à respecter. Par ailleurs certains départements, et notamment les Hautes-Pyrénées, organisent une manifestation pour la sécurité routière à l'étape du jour. En revanche, les conseils régionaux, peu concernés par la manifestation, ne sont pas sollicités pour y participer.
