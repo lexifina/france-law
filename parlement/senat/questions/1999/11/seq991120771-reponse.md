@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991120771
+
+- Question : [SEQ991120771](seq991120771.md) — Droits d'inscription complémentaires dans les universités
+
+## Réponse
+
+*Éducation, JO du 2000-01-06, page 44*
+
+Réponse. - Sur le fondement de l'article 41 de la loi nº 84-52 du 26 janvier 1984 modifiée sur l'enseignement supérieur, les établissements publics à caractère scientifique, culturel et professionnel peuvent percevoir des contributions complémentaires provenant de rémunérations pour services rendus. Cette faculté de percevoir ces contributions ne leur est toutefois offerte, en vertu d'une jurisprudence constante, qu'à condition que celles-ci soient facultatives et clairement identifiées, qu'elles soient perçues en échange des prestations effectivement rendues aux usagers et que leur non-paiement ne puisse écarter l'étudiant du cursus qu'il souhaite poursuivre. Chaque fois que des anomalies ont pu être constatées, le ministère de l'éducation nationale, de la recherche et de la technologie a demandé aux établissements de mettre leurs pratiques en matière de droits d'inscription en conformité avec la réglementation en vigueur. En outre, il convient de préciser que le recteur, chancelier des universités, peut déférer devant le tribunal administratif les décisions et délibérations des autorités des établissements qu'il estimerait entachées d'illégalité. Enfin, le ministre procède actuellement à un état des lieux des pratiques qui se seraient développées en la matière. Sur cette base, le cadre contractuel sera utilisé pour mettre fin aux éventuelles dérives constatées. Aucun contrat ne sera dorénavant signé si l'établissement ne s'engage pas formellement à respecter les termes de l'article 41 de la loi nº 84-52 du 26 janvier 1984 modifiée sur l'enseignement supérieur afin que toutes les pratiques en matière de droits d'inscription soient en conformité avec la réglementation en vigueur.
