@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871008131
+
+- Question : [SEQ871008131](seq871008131.md) — Redevances perçues par l'Institut national de la propriété industrielle
+
+## Réponse
+
+*Rapatriés, JO du 1987-11-12, page 1807*
+
+Réponse. - Les opérations patrimoniales portant sur des fonds de commerce dans lesquels sont compris des titres de propriété industrielle (brevets, marques, dessins et modèles) tombent sous le coup de deux catégories de dispositions dont le champ peut parfois se recouvrir. Les premières procèdent du principe général, posé par les lois du 2 janvier 1968 sur les brevets et du 31 décembre 1964 sur les marques, selon lequel tout acte modifiant ou transmettant les droits attachés à de tels titres est inopposable aux tiers s'il n'est pas inscrit sur le registre public, dit " registre national des brevets " ou " registre national des marques ", tenu par l'Institut national de la propriété industrielle (I.N.P.I.). Les secondes résultent de la loi du 17 mars 1909 relative à la vente et au nantissement des fonds de commerce, aux termes de laquelle le privilège du vendeur ou le gage du créancier nanti ne s'étendent aux brevets, marques, dessins et modèles éventuellement inclus dans le fonds, que si l'acte correspondant a été inscrit à l'I.N.P.I. En l'état de la réglementation, ces inscriptions donnent lieu à la perception par cet établissement public d'une redevance de 145 francs, à laquelle s'ajoutent des centimes additionnels lorsque la loi de 1909 est également applicable. L'occasion d'un décret portant simplification de diverses formalités incombant aux entreprises a été saisie pour assurer une meilleure coordination entre les deux catégories de publicité évoquées. Cette coordination aura accessoirement pour conséquence d'entraîner la suppression des centimes additionnels.
