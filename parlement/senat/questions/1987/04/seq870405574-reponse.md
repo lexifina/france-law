@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870405574
+
+- Question : [SEQ870405574](seq870405574.md) — Calendrier des concours de la session 1988
+
+## Réponse
+
+*Éducation, JO du 1987-05-07, page 709*
+
+Réponse. -En 1987, plus de 85 000 candidats se sont inscrits aux 226 concours de recrutement qui mettent en compétition 15 746 places ; les services académiques et centraux ont à traiter, pour cette session, près de 200 000 copies réparties entre plus de 800 épreuves différentes. Le nombre de candidats admissibles qui passeront devant les jurys d'admission sera vraisembablement de l'ordre de 22 à 25 000 ; les jurys des concours à effectifs de candidats importants (C.A.P.E.S. externe de lettres modernes, 4 200 inscrits, d'histoire-géographie, 3 900 inscrits) devront siéger sans désemparer en juin, voire juillet, y compris le samedi et le dimanche, pour que les listes d'admission soient publiées à une date telle que les travaux d'affectation en C.P.R. et en E.N.N.A. des professeurs stagiaires puissent être achevés au plus tard dans la deuxième quinzaine d'août. Les perspectives d'évolution en hausse des besoins en enseignants de type lycée conduiront probablement en 1988 à ce que le chiffre de 100 000 candidats inscrits soit dépassé, et ne pourront qu'accroître les difficultés d'organisation actuelles. Dans ces conditions, il est clair que l'organisation convenable des concours l'année prochaine est subordonnée à un étalement du calendrier des recrutements ; c'est sur cette base qu'a été bâti le projet qui prévoit effectivement d'avancer les épreuves écrites du concours externe du C.A.P.E.S. (25 000 candidats en 1987) au début mars 1988. Le problème des préparations n'avait pas échappé à l'attention du ministre de l'éducation nationale et ses services s'emploient actuellement à rechercher une solution avec le concours de toutes les parties concernées.
