@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930501248
+
+- Question : [SEQ930501248](seq930501248.md) — Application de la loi relative à la protection et la mise en valeur des paysages
+
+## Réponse
+
+*Environnement, JO du 1993-12-02, page 2309*
+
+Réponse. - La loi no 93-24 du 8 janvier 1993 relative à la protection et à la mise en valeur des paysages et modifiant certaines dispositions législatives en matière d'enquêtes publiques, prévoit de nombreux décrets d'application. Trois de ces décrets sont directement de la responsabilité du ministère de l'environnement. Il s'agit du décret d'application de l'article 1er qui concerne les directives de protection et de mise en valeur des paysages. Le décret a déjà fait l'objet d'un examen par le Conseil d'Etat et devrait être publié prochainement : il s'agit là de l'aspect le plus important et le plus novateur de la loi. Le second est le décret d'application de l'article 2 qui concerne les parcs naturels régionaux. Ce décret est en préparation en liaison avec la fédération nationale des parcs naturels régionaux. Le troisième décret est celui de l'article 21 de la loi, relatif aux commissaires-enquêteurs. Les dispositions de cet article 21 posent des difficultés pour la rédaction du décret qui est actuellement à l'étude. Les autres dispositions de la loi " paysages " relèvent de la compétence soit du ministère de l'agriculture, en ce qui concerne l'aménagement de la procédure de remembrement rural, soit du ministère de l'équipement, en ce qui concerne les procédures du code de l'urbanisme et notamment le " volet paysager " du permis de construire. Ces deux ministères travaillent en étroite collaboration avec le ministère de l'environnement pour la préparation des décrets qui les concernent. Le décret relatif au " volet paysager " sera publié dans les prochaines semaines.
