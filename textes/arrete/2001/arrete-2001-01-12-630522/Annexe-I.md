@@ -4,7 +4,7 @@ SUBSTANCES, PRODUITS
 
 |
 
-ALIMENTS POUR ANIMAUX
+PRODUITS DESTINES AUX ALIMENTS POUR ANIMAUX
 
 |
 
@@ -318,7 +318,7 @@ Aliments complets, à l'exception de :
 
 |
 
-- aliments pour animaux domestiques sauf les oiseaux et poissons d'ornement.
+- aliments pour animaux familiers sauf les oiseaux et poissons d'ornement.
 
 |
 
@@ -342,7 +342,7 @@ Matières premières pour aliments des animaux d'origine animale, à l'exception
 
 |
 
-- aliments pour animaux domestiques.
+- aliments pour animaux familiers.
 
 |
 
@@ -378,7 +378,7 @@ Autres aliments complets, à l'exception de :
 
 |
 
-- aliments pour animaux domestiques.
+- aliments pour animaux familiers.
 
 |
 
@@ -408,7 +408,7 @@ B. - Produits
 
 |
 
-1. Aflatoxines B1.
+1. Aflatoxines B1
 
 |
 
@@ -1014,17 +1014,87 @@ Tous les aliments, à l'exception de :
 
 |
 
-21. Dioxine (somme des PCDD et PCDF, exprimée en équivalents toxiques internationaux).
+21. Dioxine (somme des dibenzo-paradioxines polychlorées [PCDD] et des dibenzofuranes polychlorées [PCDF]), exprimée en équivalents toxiques de l'Organisation mondiale de la santé (OMS), en utilisant les TEF-OMS (facteurs d'équivalence toxique, 1997) PCDD/F.
 
 |
 
-Pulpes d'agrumes
+a) Toutes les matières premières d'origine végétale pour aliments des animaux, y compris les huiles végétales et les sous-produits.
 
 |
 
-500 pg I-TEQ/kg
+0,75 ng OMS-PCDD/F-TEQ/kg (2).
 
-(seuil de détection supérieur) (2)
+|
+
+b) Minéraux au sens du décret du 15 septembre 1986 susvisé.
+
+|
+
+1,0 ng OMS-PCDD/F-TEQ/kg (2).
+
+|
+
+c) Argiles kaolinitiques, sulfate de calcium dihydraté, vermiculite, natrolite-phonolite, aluminates de calcium synthétiques et clinoptilolite d'origine sédimentaire appartenant au groupe des agents liants, antimottants et coagulants autorisés en vertu du décret du 28 novembre 1973 susvisé.
+
+|
+
+0,75 ng OMS-PCDD/F-TEQ/kg (2).
+
+|
+
+d) Matières grasses animales, y compris les matières grasses du lait et de l'œuf.
+
+|
+
+2,0 ng OMS-PCDD/F-TEQ/kg (2).
+
+|
+
+e) Autres produits d'animaux terrestres, y compris le lait, les produits laitiers, les œufs et les ovoproduits.
+
+|
+
+0,75 ng OMS-PCDD/F-TEQ/kg (2).
+
+|
+
+f) Huile de poisson.
+
+|
+
+6 ng OMS-PCDD/F-TEQ/kg (2).
+
+|
+
+g) Poissons, autres animaux aquatiques, leurs produits et sousproduits, à l'exception de l'huile de poisson et des hydrolysats de protéines de poisson contenant plus de 20 % de matières grasses (3).
+
+|
+
+1,25 ng OMS-PCDD/F-TEQ/kg (2).
+
+|
+
+h) Hydrolysats de protéines de poisson contenant plus de 20 % de matières grasses.
+
+|
+
+2,25 ng OMS-PCDD/F-TEQ/kg (2).
+
+|
+
+i) Aliments complets ou complémentaires pour animaux, à l'exception des aliments pour animaux à fourrure, pour animaux familiers et pour poissons.
+
+|
+
+0,75 ng OMS-PCDD/F-TEQ/kg (2).
+
+|
+
+j) Aliments pour poissons et aliments pour animaux familiers.
+
+|
+
+2,25 ng OMS-PCDD/F-TEQ/kg (2).
 
 |
 
@@ -1094,4 +1164,6 @@ Les graines et fruits et dérivés de leur transformation des espèces végétal
 
 (1) Teneur en fluor pour 1 % de phosphore.
 
-(2) Les teneurs sont calculées en supposant que toutes les valeurs des congénères différents au-dessous du seuil de détection sont égales au seuil de détection.
+(2) Concentrations supérieures ; les concentrations supérieures sont calculées en supposant que toutes les valeurs des différents congénères au-dessous du seuil de quantification sont égales au seuil de quantification.
+
+(3) Le poisson frais fourni et utilisé directement sans traitement intermédiaire pour la production d'aliments pour animaux à fourrure n'est pas soumis à ce seuil maximal : le poisson frais utilisé pour l'alimentation directe des animaux familiers et des animaux de zoo et de cirque est soumis à un seuil maximum de 4,0 ng OMS-PCDD/F-TEQ/kg. Les produits et protéines animales transformées issus de ces animaux (animaux à fourrure, animaux familiers, animaux de zoo et de cirque) ne peuvent entrer dans la chaîne alimentaire et leur utilisation est interdite dans l'alimentation des animaux dont la chair ou les produits sont destinés à la consommation humaine.
