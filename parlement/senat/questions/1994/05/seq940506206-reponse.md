@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940506206
+
+- Question : [SEQ940506206](seq940506206.md) — Contrôle de l'état physiologique des conducteurs
+
+## Réponse
+
+*Santé, JO du 1994-07-14, page 1776*
+
+Réponse. - Les conséquences en termes de sécurité routière de la conduite automobile sous l'emprise de produits stupéfiants et de substances psychotropes sont mal connues. Ainsi, une étude récente menée en 1989 et 1990 pour le compte de la sécurité routière sur près de 3 000 conducteurs accidentés et hospitalisés n'a pas permis de mettre en évidence de relation significative entre la présence de dérivés du cannabis dans le sang et la responsabilité dans l'accident. De telles études sont délicates à mener en raison notamment de la difficulté de définir la relation entre la concentration de drogue dans le sang et son effet sur le comportement, compte tenu de la très longue persistance de certaines drogues dans les milieux biologiques et de l'importance des variations individuelles. En ce qui concerne les moyens de contrôle, ils exigent pour l'essentiel des prélèvements de sang ou d'urine difficiles à organiser sur le bord des routes ; en outre, sauf à mettre en oeuvre des techniques d'analyse légères dont la fiabilité est toute relative, l'utilisation de techniques sûres de dosage conduirait à mobiliser des moyens lourds peu compatibles avec un dépistage massif. Au total, les connaissances scientifiques et les matériels de dépistage sont encore insuffisants pour permettre d'envisager un contrôle efficace de la conduite automobile sous l'emprise de produits stupéfiants ou de substances psychotropes. Devant ces difficultés, le Gouvernement a décidé, lors du dernier comité interministériel de sécurité routière qui s'est tenu le 17 décembre 1993, de lancer un nouveau programme de recherche sur le thème : " Drogue et sécurité routière ".
