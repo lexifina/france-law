@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040512075
+
+- Question : [SEQ040512075](seq040512075.md) — Plan d'action communautaire concernant la gestion des anguilles européennes
+
+## Réponse
+
+*Agriculture, JO du 2004-08-12, page 1840*
+
+La communication de la Commission en date du le 1er octobre 2003 concerne la mise en place d'un plan d'action communautaire relatif à la gestion des anguilles européennes. Les dispositions réglementaires nationales, visant à modérer la pression de la pêche sur cette espèce, répondent déjà en partie aux préoccupations de la commision. C'est la baisse du stock de l'anguille qui a incité la commision à proposer des actions en vue de mieux gérer les captures de l'espèce et de faciliter sa migration, afin de garantir l'avenir des pêcheries. Toutefois, eu égard à la dimension du stock, il est nécessaire de prendre en considération les spécificités de chaque bassin versant, et pour cela d'avoir une approche équilibrée tenant compte des trois phases du développement de l'anguille et des différentes activités humaines concernées par son exploitation. De ce point de vue, il faut noter favorablement l'approche de la commision, qui se propose, dans sa communication d'octobre 2003, d'encadrer le programme d'actions en vue de préserver l'anguille, tout en laissant, aux autorités de gestion, le soin de choisir les modalités pratiques adaptées aux situations locales. Les organisations professionnelles des filières de la pêche en eau douce et en estuaire ont été informées de l'initiative de la commision et ont déjà été consultées sur les conséquences du plan d'action communautaire. Lors des négociations ouvertes par la communication de la commision, les pouvoirs publics seront extrêmement vigilants à ce que les intérêts de tous les professionnels, pêcheurs, mareyeurs et pisciculteurs, concernés par les pêcheries de l'anguille soient préservés sur l'ensemble du littoral français.
