@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941208865
+
+- Question : [SEQ941208865](seq941208865.md) — Retour dans leur région d'origine des jeunes postiers
+
+## Réponse
+
+*Industrie, JO du 1995-02-02, page 277*
+
+Réponse. - Les agents affectés en région parisienne à la suite de leur réussite aux concours peuvent demander leur retour dans leur région d'origine en s'incrivant sur les tableaux de mutation. Sur ces tableaux, les intéressés sont départagés selon plusieurs critères : en premier le millésime de la première demande, en second les charges de famille. Chaque année, un récolement des voeux est organisé afin de permettre à chaque agent de déposer sa demande, de la renouveler s'il souhaite toujours être muté ou d'annuler certains voeux s'il n'est plus intéressé. Par ailleurs, pour les conjoints séparés et pour les agents dont l'état de santé nécessite un changement de climat, deux listes de voeux dérogatoires sont également en vigueur. Lorsque des postes deviennent vacants, il est fait appel, en priorité, aux agents qui se trouvent actuellement sur des postes d'un niveau inférieur à leur grade et qui bénéficient d'un dispositif spécial de reclassification ou d'un plan de qualification, cela leur permet ainsi d'être placés sur un poste correspondant à leur grade. Il est fait ensuite appel aux agents appartenant à des services qui sont en restructuration ou qui vont être délocalisés, puis aux agents figurant sur les tableaux de mutation. Ainsi, en 1994, près de 3 000 agents de La Poste en fonction dans la région parisienne ont obtenu une affectation en province. Pour sa part, France Télécom vient de lancer une consultation afin d'obtenir une visibilité de l'état réel des souhaits de mobilité. Elle permettra de rechercher un meilleur équilibre entre les souhaits du personnel et les besoins de France Télécom.
