@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030205894
+
+- Question : [SEQ030205894](seq030205894.md) — Financement des campagnes des élections régionales
+
+## Réponse
+
+*Intérieur, JO du 2004-03-04, page 531*
+
+L'article L. 52-4 du code électoral dispose qu'un candidat à une élection dont les dépenses électorales sont plafonnées ne peut recueillir des fonds en vue du financement de sa campagne que par l'intermédiaire d'un mandataire financier, lequel peut être une personne physique ou une association de financement électorale. Dans le cas d'un scrutin de liste, comme les élections régionales, cette désignation est effectuée par le candidat tête de la liste. Dans l'état antérieur des textes, le candidat qui décidait de financer sa campagne exclusivement sur ses deniers personnels n'était pas tenu de désigner un mandataire financier, et pouvait donc régler personnellement les dépenses de sa campagne. Il n'était donc pas astreint à ouvrir un compte bancaire spécifique. Dans le cas d'un scrutin de liste, les dépenses réalisées par les membres de la liste devaient être retracées dans le compte de campagne établi par le candidat tête de liste, et étaient donc assimilées à l'apport personnel de ce dernier. L'ordonnance du 8 décembre 2003 portant simplification en matière électorale prise en application de la loi n° 2003-591 du 2 juillet 2003, habilitant le Gouvernement à simplifier le droit, modifie l'article L. 52-4 et rend obligatoire la désignation d'un mandataire financier au plus tard à la date à laquelle le candidat déclare sa candidature. Il s'agit d'obtenir dans tout les cas un compte unique et spécifique retraçant complètement les opérations de recettes et de dépenses de la campagne dès que celle-ci est ouverte. Tous les justificatifs pourront ainsi être regroupés à l'appui d'un seul compte dédié à la campagne dont le contrôle sera simplifié. Ces nouvelles dispositions seront applicables pour les prochaines élections régionales.
