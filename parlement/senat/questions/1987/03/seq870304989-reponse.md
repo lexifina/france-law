@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870304989
+
+- Question : [SEQ870304989](seq870304989.md) — Projet de loi relatif à certaines situations résultant des évènements d'Afrique du Nord
+
+## Réponse
+
+*Rapatriés, JO du 1987-04-16, page 594*
+
+Réponse. -L'article 9 de la loi n° 82-1021 du 3 décembre 1982 doit permettre la prise en compte, pour certains effets pécuniaires, de périodes qui l'auraient été si les intéressés avaient exercé leur fonction en métropole. Etaient concernés les agents dont l'activité ou l'accès à un emploi public avaient été interrompus ou empêchés du fait de leur engagement dans la Résistance. L'article 11 étend les dispositions de la loi précitée aux agents et anciens agents non titulaires de l'Etat, aux personnels et anciens personnels titulaires ou non titulaires des collectivités locales, aux ouvriers de l'Etat ou a leurs ayants cause. Des hésitations se sont cependant manifestées à l'occasion de l'examen des dossiers, du fait des instructions divergentes contenues dans les circulaires du 28 mai 1985, publiées au Journal officiel du 1er juin 1985, et n° 2 A 138 et FP/1 n° 1610 du 8 octobre 1985. Les commissions administratives de reclassement n'ont pu, de ce fait, examinerles dossiers qui leur étaient soumis. Le secrétariat d'Etat aux rapatriés a présenté, dès le mois de juillet 1986 au conseil des ministres, un projet de loi permettant un assouplissement des dispositions prévues par la loi du 3 décembre 1982. Ce texte aujourd'hui déposé sur le bureau du Sénat, sera discuté lors de la prochaine session parlementaire. Dès sa promulgation, une nouvelle circulaire d'application devra être élaborée en conformité avec les nouvelles dispositions législatives, qui permettra à la commission administrative de reclassement de se réunir et, dans les plus brefs délais, aux administrations concernées, de répondre à la légitime attente des intéressés.
