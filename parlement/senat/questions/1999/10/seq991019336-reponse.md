@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991019336
+
+- Question : [SEQ991019336](seq991019336.md) — Responsabilité personnelle des membres d'associations
+
+## Réponse
+
+*Économie, JO du 2000-02-10, page 526*
+
+Réponse. - Aucune disposition légale ou réglementaire ne permet de rechercher directement les membres d'une association en paiement des impôts et taxes dus par celle-ci auprès des comptables de la direction générale des impôts. Toutefois, l'article L. 267 du livre des procédures fiscales prévoit que quelqu'un dirigeant d'une société, d'une personne morale ou de tout autre groupement, est responsable des man uvres frauduleuses ou de l'inobservation grave et répétée des obligations fiscales qui ont rendu impossible le recouvrement des impositions et des pénalités dues par la société, la personne morale ou le groupement, ce dirigeant peut, s'il n'est pas déjà tenu au paiement des dettes sociales en application d'une autre disposition, être déclaré solidairement responsable du paiement de ces impositions et pénalités par le président du tribunal de grande instance. Ce texte, qui est applicable à toute personne exerçant en droit ou en fait, directement ou indirectement, la direction effective de la société, de la personne morale ou du groupement, peut être mis en uvre à l'encontre des dirigeants d'associations. Les dirigeants d'une société peuvent également être poursuivis pour le paiement des dettes fiscales de cette dernière en cas de condamnation par les juridictions répressives en vertu de l'article 1745 du code général des impôts, dès lors que le gérant est déclaré complice ou coauteur du délit de fraude fiscale ; en application de la solidarité légale dictée par l'article 1763 A du code général des impôts, à l'encontre du gérant de fait gestionnaire de l'association, pour le paiement de la pénalité pour distributions occultes.
