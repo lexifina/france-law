@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861103496
+
+- Question : [SEQ861103496](seq861103496.md) — Bénéficiaires du plan "contre la pauvreté et la précarité"
+
+## Réponse
+
+*Sécurité sociale, JO du 1987-05-28, page 863*
+
+Réponse. -Le plan d'action adopté par le Gouvernement le 29 octobre dernier s'articule autour de deux axes : 1° apporter une réponse aux besoins prioritaires et urgents ; 2° mettre en place des conventions Etat/département en faveur des personnes totalement démunies de ressources. Les personnes qui sont domiciliées dans le département depuis deux ans et qui sont effectivement exclues du second dispositif relèvent du premier : aide alimentaire, accueil d'urgence, accès et maintien dans le logement. Des fonds d'impayés de loyer existent maintenant dans la plupart des départements, et les fonds d'aide au relogement et de garantie se généralisent. Ces dispositifs s'inscrivent dans l'ensemble des mesures mises en place pour faciliter le logement des plus défavorisés. En ce qui concerne les conventions Etat/département, elles ont pour objectif d'assurer aux plus démunis un revenu minimal et de leur offrir l'espoir d'une réinsertion. Le montant de l'allocation a été déterminé en fonction de celui des minima sociaux déjà en vigueur. Il est versé à des personnes appartenant à des ménages n'ayant ni revenus réguliers provenant d'un travail, ni revenus de remplacement, les prestations familiales n'étant pas prises en compte. Il s'agit donc d'une aide réelle pour ces personnes. Il est souhaité que la contrepartie travail exigée s'accompagne d'une formation. Celle-ci doit être personnalisée en fonction de chaque cas et doit s'envisager comme une large palette allant de l'alphabétisation à la formation professionnelle qualifiante. Une première évaluation interviendra au mois de juin prochain, afin de rechercher les améliorations susceptibles d'être apportées à ce dispositif, qui devrait toucher 20 000 personnes d'ici à la fin de l'année.
