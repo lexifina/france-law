@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508133
+
+- Question : [SEQ980508133](seq980508133.md) — Modestie de la dotation de solidarité urbaine (DSU) par rapport à la dotation globale de fonctionnement (DGF)
+
+## Réponse
+
+*Ville, JO du 1998-08-20, page 2746*
+
+Réponse. - Dans sa question écrite nº 8133 du 7 mai 1998, M. le sénateur Emmanuel Hamel reprend la constatation établie par M. Sueur dans son rapport " Demain la Ville " selon laquelle la dotation de solidarité urbaine ne représente qu'une enveloppe modeste par rapport à la DGF, alors qu'il existe d'importantes disparités entre les collectivités locales. Il demande par quels moyens le Gouvernement envisage de remédier à cette situation. Créée en 1991, la dotation de solidarité urbaine est rapidement montée en charge passant d'une enveloppe de 700 millions au moment de sa création, à une enveloppe de près de 3 milliards en 1998 (2,867 millions de francs exactement). Ce montant reste néanmoins marginal au regard de l'enveloppe globale de la DGF et ne permet pas suffisamment de compenser les disparités de ressources entre les collectivités locales, au regard des charges qu'elles ont à supporter. C'est la raison pour laquelle le Gouvernement entend s'engager dans deux directions : un meilleur partage de la fiscalité locale et un redéploiement des dotations de l'Etat au profil des communes. Le projet de réforme de l'intercommunalité présenté par le ministre de l'intérieur vise à une meilleure répartition de la taxe professionnelle entre les communes qui s'engageront dans une démarche de création d'une communauté d'agglomération, dotée d'une taxe professionnelle unique. Par ailleurs, s'agissant des dotations de l'Etat, le Gouvernement, dans le cadre de la discussion engagée avec les élus relative à la sortie du pacte de stabilité, envisage de proposer une forte augmentation de la dotation de solidarité urbaine, afin de mieux répondre aux charges spécifiques supportées par certaines communes.
