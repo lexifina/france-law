@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860601722
+
+- Question : [SEQ860601722](seq860601722.md) — Versement des indemnités ASSEDIC aux retraités entre 65 ans et 65 ans et 3 mois
+
+## Réponse
+
+*Affaires sociales, JO du 1986-11-06, page 1554*
+
+Réponse. -Il est précisé que l'arrêt à 65 ans de l'indemnisation au titre de la garantie de ressources ou des allocations de chômage, évoqué par l'honorable parlementaire, a pour but d'éviter le cumul pendant trois mois de l'indemnisation du chômage et des pensions de retraite à taux plein dont bénéficiaient les demandeurs d'emploi. Cette situation n'était pas justifiée puisque les actifs qui partaient en retraite à 65 ans ne bénéficiaient pas du même avantage et percevaient leur retraite à terme échu sans qu'aucune allocation ne leur soit versée pendant les trois premiers mois. Toutefois, afin de résoudre les problèmes financiers que la mise en oeuvre de cette décision peut entraîner pour les préretraités, diverses mesures ont été prises par les pouvoirs publics et les partenaires sociaux. En ce qui concerne les allocations de chômage, les partenaires sociaux ont décidé de poursuivre leur versement jusqu'à la date où l'allocataire atteint 65 ans si sonanniversaire tombe le 1er jour d'un mois civil, ou jusqu'au 1er jour du mois civil suivant la date à laquelle l'allocataire a eu 65 ans. En matière de retraite, la caisse nationale d'assurance vieillesse a mis au point un dispositif permettant une liquidation accélérée de la pension des demandeurs d'emploi ou des préretraités ayant 65 ans. Ainsi, par le double jeu de ces mesures, les bénéficiaires des allocations de chômage ou de la garantie de ressources passent du régime d'assurance-chômage au régime de retraite sans qu'il y ait une interruption entre le versement des allocations de chômage et celui de la pension de retraite.
