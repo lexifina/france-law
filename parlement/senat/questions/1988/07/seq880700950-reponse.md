@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880700950
+
+- Question : [SEQ880700950](seq880700950.md) — Statut des médecins attachés aux hôpitaux publics
+
+## Réponse
+
+*Solidarité, JO du 1988-10-13, page 1144*
+
+Réponse. - Il est précisé à l'honorable parlementaire que le décret n° 88-674 du 6 mai 1988 a modifié le décret n° 81-291 du 30 mars 1981 portant statut des attachés et des attachés associés des établissements d'hospitalisation publics. Ce texte améliore la couverture sociale des attachés, replace leurs fonctions dans l'ensemble de l'activité hospitalière, en soulignant qu'ils y participent à part entière. Dans le même esprit, le port du titre " d'ancien attaché en premier " et " d'ancien attaché consultant " est autorisé, alors que seul le titre " d'ancien attaché " était prévu par le texte initial du décret du 30 mars 1981. La protection sociale des attachés est améliorée sur deux points : le congé annuel est porté d'un mois à cinq semaines et étendu aux attachés effectuant les trois vacations requises dans plusieurs établissements ; la durée de congé de maternité est alignée sur la durée fixée par la législation du régime général de la sécurité sociale. Par ailleurs, le texte tient compte des modifications législatives et réglementaires récemment intervenues (possibilité de recrutement d'attachés en pharmacie ouverte depuis la dernière modification de la loi hospitalière, création des fonctions d'assistant hospitalo-universitaire et d'assistant spécialiste des hôpitaux). Enfin, il est rappelé que seuls les praticiens n'ayant pas d'autre activité que leur activité hospitalière cotisent au régime de retraite complémentaire Ircantec sur la totalité de leurs émoluments. Il n'est pas apparu possible, jusqu'à présent, d'étendre cette mesure aux praticiens qui sont susceptibles de constituer, de par leur activité libérale, une pension au titre d'un autre régime.
