@@ -192,7 +192,7 @@ Cornille, 29, rue M.-Bourderiez, 59492 Villeneuve-d'Ascq : de 1957 à 1997 ;
 
 Eternit, établissement de Prouvy-Thiant, 59224 Haulchin-Thiant : de 1922 à 1997 ;
 
-Flertex, 59220 Rouvignies : de 1960 à 1996 ;
+Ferodo/Valéo/Sime industrie/Flertex, 79, boulevard Anatole-France, 59410 Anzin, puis ZI n° 2, 59300 Valenciennes : de 1960 à 1996 ;
 
 HGD/Norsolor/Atochem, 62880 Vendin-le-Vieil : de 1973 au 30 juin 1981 ;
 
