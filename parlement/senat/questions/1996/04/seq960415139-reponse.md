@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960415139
+
+- Question : [SEQ960415139](seq960415139.md) — Baisse des mises en chantier de logements
+
+## Réponse
+
+*Logement, JO du 1996-09-19, page 2428*
+
+Réponse. - Perceptible dès la fin de 1994, la tendance au repli de la demande de logements neufs de la part des ménages ne s'est réelement inversée qu'à la fin de l'année 1995 : c'est ainsi que les statistiques des mises en chantiers de maisons individuelles des sept premiers mois de 1996 dépassent de 3,7 p. 100 le niveau des mois correspondants de 1995. Il n'en est pas de même pour la construction collective où la complexité et la longueur du montage des opérations expliquent que les effets sur l'activité de la croissance des ventes ne soit pas aussi rapide. L'amélioration du marché du logement devrait se poursuivre au cours des prochains mois car des mesures fortes ont été prises pour redonner aux ménages le goût de l'investissement dans la pierre : depuis le 1er octobre 1995, le prêt à 0 p. 100 aide les ménages à accéder à la propriété. Son succès ne se dément pas, ce qui soutient l'activité de la moitié de la construction neuve ; la réforme de la fiscalité immobilière par l'introduction de la technique de l'amortissement, dont les décrets ont été publiés au Journal officiel du 18 juillet 1996, devrait relancer l'investissement locatif privé. Par ailleurs, la baisse des taux d'intérêt qui accompagne la politique d'assainissement financier menée par le Gouvernement, augmente la solvabilité des ménages et donc leur capacité à financer leur projet. Enfin, des mesures conjoncturelles ont été prises, notamment pour rendre les prêts d'épargne logement plus attractifs. Ces mesures sont de nature à favoriser la reprise de l'activité du secteur du bâtiment, qui sera perceptible qu'après un délai inhérent à la réalisation des opérations immobilières. Elles visent à répondre efficacement aux besoins en logements de nos citoyens.
