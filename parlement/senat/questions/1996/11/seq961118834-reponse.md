@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961118834
+
+- Question : [SEQ961118834](seq961118834.md) — Retraite anticipée des anciens combattants d'Afrique du Nord
+
+## Réponse
+
+*Anciens combattants, JO du 1997-01-02, page 28*
+
+Réponse. - Au sujet du souhait exprimé de voir les anciens combattants d'Afrique du Nord bénéficier d'une retraite anticipée, il peut être précisé à l'honorable parlementaire que dès la fin des travaux de la commission tripartite chargée d'évaluer le coût de cette mesure, les services du département ministériel se sont mis en rapport avec ceux du ministère du travail et des affaires sociales pour trouver des solutions. Le ministre délégué aux anciens combattants et victimes de guerre a déjà eu plusieurs entretiens avec le ministre du travail et des affaires sociales. Ils ont reçu ensemble, le 23 juillet, les représentants du Front Uni qu'il a également accompagnés lors de l'entrevue qui leur a été accordée par le Premier ministre, le 1er août dernier. Cette réunion a permis d'examiner les attentes du monde combattant et les réponses que peut y apporter le Gouvernement. Le Premier ministre a exposé les raisons pour lesquelles les contraintes économiques et budgétaires actuelles ne permettaient pas la mise en oeuvre de la retraite anticipée. Le Président de la République, qui a également reçu en audience le Front Uni des associations d'anciens combattants d'Afrique du Nord le 18 septembre dernier, a confirmé cette prise de position et a assuré ses interlocuteurs de son appui pour que les dispositions de solidarité arrêtées puissent être rapidement mises en oeuvre. Aussi, le ministre délégué aux anciens combattants et victimes de guerre a proposé au Parlement, qui vient de les adopter dans le cadre du débat sur le projet de loi de finances pour 1997, une série de mesures de solidarité de la nation en faveur des anciens combattants d'Afrique du Nord qui rencontrent aujourd'hui des difficultés économiques et sociales.
