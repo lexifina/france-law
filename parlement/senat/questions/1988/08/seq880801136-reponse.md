@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880801136
+
+- Question : [SEQ880801136](seq880801136.md) — Difficultés rencontrées par les accédants à la propriété
+
+## Réponse
+
+*Équipement, JO du 1988-12-15, page 1431*
+
+Réponse. - Le Gouvernement est préoccupé par la situation difficile de certains accédants à la propriété. Il s'agit essentiellement des accédants qui ont souscrit des prêts à l'accession à la propriété (P.A.P.) pendant les années 1981 à 1984. Compte tenu de la baisse du taux d'inflation intervenue depuis lors, les taux des crédits de cette période sont en effet élevés et font peser une charge de remboursement importante sur les ménages concernés. Cette charge tend à s'alourdir d'année en année car ces prêts prévoyaient une progression des remboursements allant de 3,5 p. 100 à 4 p. 100 par an. La stagnation observée des revenus nominaux ne permet pas aujourd'hui aux accédants de supporter cette forte progressivité des annuités de leur prêt. Dans ce contexte, le Gouvernement vient de décider une mesure générale et automatique de réaménagement des P.A.P. à taux fixes souscrits entre le 1er janvier 1981 et le 31 janvier 1985 inclus. Le réaménagement de ces pr^ets prend effet à compter du 1er octobre 1988, à la date anniversaire du prêt : le montant des échéances de remboursement est stabilisé durant un an à son niveau actuel ; ensuite, la progressivité des charges est ramenée à 2,75 p. 100 l'an (au lieu de 3,50 p. 100 à 4 p. 100) jusqu'à l'extinction du prêt sans allongement de durée. Ces mesures sont immédiatement applicables sans démarches administratives préalables et sans frais pour les emprunteurs concernés. Elles permettront aux emprunteurs d'obtenir une baisse sensible du taux d'intérêt de leur prêt pour les années à courir. Compte tenu de l'importance des encours concernés, cette action aura un coût proche de 24 milliards de francs répartis sur quinze ans et constitue un effort considérable de l'Etat dans ce domaine.
