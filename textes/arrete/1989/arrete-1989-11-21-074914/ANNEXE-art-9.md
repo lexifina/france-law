@@ -1,3 +1,0 @@
-# Article ANNEXE art. 9
-
-Le ramasseur agréé doit disposer dans chaque zone où il est agréé d'une capacité de stockage au moins égale au 1/10 du tonnage collecté annuellement et d'un minimum de 50 tonnes assurant la séparation entre les huiles stockées et tous autres déchets et substances d'une autre nature et permettant la séparation entre les différentes qualités d'huiles collectées (huiles usagées moteurs, huiles industrielles et huiles claires). Cette capacité de stockage devra être constituée de stockage fixe avec cuvette de rétention et en conformité avec la réglementation des installations classées pour la protection de l'environnement.
