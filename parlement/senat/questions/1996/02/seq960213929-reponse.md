@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960213929
+
+- Question : [SEQ960213929](seq960213929.md) — Dépistage du cancer colo-rectal
+
+## Réponse
+
+*Santé, JO du 1996-05-02, page 1090*
+
+Réponse. - Le dépistage du cancer colo-rectal par l'hémocult fait l'objet en France d'expériences dans une douzaine de départements. En 1995, 19 MF leur ont été réservés par le Fonds national de prévention et d'intervention en santé publique. A ce jour, les expérimentations ne permettent pas encore de conclure sur l'efficacité de l'action entreprise, les taux de participation de la population restant faibles. D'autre part, le rapport du professeur Dubois suggère que le rythme triennal de dépistage ne permet pas de réduire la mortalité par rapport à l'absence d'intervention. De ces éléments et des recommandations très récentes des experts cancérologues européens, il apparaît pour l'instant prématuré d'étendre ces programmes expérimentaux. C'est pourquoi, avant toute extension de ce dépistage sur le territoire national, il est nécessaire d'évaluer les expériences en cours, éventuellement redéfinies, en recherchant des modalités plus efficaces de participation de la population et des médecins, en améliorant les règles d'assurance de qualité des programmes et de leur suivi, et en assurant une évaluation épidémiologique et économique en continu. Un comité scientifique sera très prochainement nommé sur ces objectifs. Composé de médecins de santé publique, d'épidémiologistes, d'économistes de la santé et de représentants des professionnels concernés, il aura notamment pour mission d'élaborer un cahier des charges très précis pour homogénéiser les pratiques, d'évaluer et de suivre les programmes expérimentaux, à l'image du groupe permanent du programme de dépistage du cancer du sein, et de proposer des orientations pour le dépistage du cancer colo-rectal.
