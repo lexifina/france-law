@@ -1,0 +1,15 @@
+# Délibération portant avis sur le projet d'arrêté du directeur général de l'Assistance Publique de Paris concernant la mise en oeuvre à l'hôpital Robert Debré d'un système de gestion des laboratoires d'hématologie, de bactériologie et de biochimie
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 88-47
+- Date : 1988-04-26
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017654146
+
+La Commission Nationale de l'Informatique et des Libertés, Vu la Convention du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ; Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, et notamment ses articles 15, 19, 29, 34 et 40 ; Vu l'article 378 du Code Pénal relatif au secret professionnel ; Vu la loi n° 70-1318 du 31 décembre 1970 portant réforme hospitalière ; Vu le décret n° 78-774 du 17 juillet 1978 pris pour l'application de la loi du 6 janvier 1978 ; Vu le projet d'arrêté présenté par le Directeur Général de l'Assistance Publique de Paris ; Après avoir entendu Monsieur Gérard JAQUET en son rapport et Madame Charlotte-Marie PITRAT, Commissaire du Gouvernement en ses observations ;
+
+Considérant que l'Assistance Publique de Paris met en oeuvre à l'hôpital pédiatrique Robert Debré, une application destinée à assurer d'une part la gestion interne des laboratoires de biochimie, de bactériologie et d'hématologie, et d'autre part le renvoi vers les services prescripteurs des résultats d'examens pratiqués par ces laboratoires ; Considérant qu'à cet effet, les laboratoires seront dotés de terminaux connectés à un ordinateur relié au système informatique de gestion des patients auxquels sont eux-mêmes reliés les terminaux des services prescripteurs ; Considérant que l'accès à cette application est protégé par des procédures d'authentification et d'identification individuelles des utilisateurs qui devront être placées sous la responsabilité conjointe du médecin chef de service et du médecin responsable de l'information médicale ; Considérant qu'il importe également de rappeler aux personnels du centre hospitalier leurs obligations de secret, ainsi que la nécessité de respecter strictement les consignes de sécurité émises ; Considérant que le système doit comporter un dispositif indiquant systématiquement à l'utilisateur les dates et heures de la dernière connexion sous le même mot de passe ; Considérant que le droit d'accès constitue l'une des garanties essentielles de la protection des malades ; qu'en conséquence, l'existence et les modalités d'exercice de ce droit, telles que prévues aux articles 34 et 40 de la loi du 6 janvier 1978, doivent être portées expressément à la connaissance de ces derniers ou de leurs représentants légaux ; Prenant acte des mesures d'information envisagées à cet effet ;
+
+Emet sous la réserve précitée un avis favorable à la mise en oeuvre, à l'hôpital Robert Debré d'une application de gestion des laboratoires. Le Président, Jacques FAUVET
