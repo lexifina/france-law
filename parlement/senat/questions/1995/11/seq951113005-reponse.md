@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951113005
+
+- Question : [SEQ951113005](seq951113005.md) — Situation des veuves de résistants morts en France ou en déportation
+
+## Réponse
+
+*Anciens combattants, JO du 1996-01-18, page 99*
+
+Réponse. - Les pensions de veuves attribuées au titre du code des pensions militaires d'invalidité et des victimes de guerre constituent une réparation forfaitaire du préjudice économique subi du fait du décès de l'époux. C'est pourquoi a été institué un taux spécial de pension, pour tenir compte de la situation économique des veuves ayant les plus faibles ressources. L'âge d'ouverture de ce droit au taux spécial vient d'être ramené de cinquante-sept ans à cinquante ans par un amendement adopté par le Sénat dans le cadre du projet de budget pour 1996, sur proposition du ministre délégué aux anciens combattants et victimes de guerre. Les intéressées verront ainsi leur pension revalorisée d'un taux annuel de 500 points à celui de 667 points à compter du 1er juillet 1996. Le coût de cette mesure est estimé à 8,2 MF. Par ailleurs, et nonobstant le critère économique sus-mentionné, les pensions allouées aux veuves de déportés résistants et politiques morts en déportation bénéficient de supplément exceptionnel, sans condition d'âge, d'invalidité ou de ressources. Ce bénéfice a été étendu par la loi no 89-1013 du 31 décembre 1989 aux veuves des prisonniers du Viet-Minh décédés au cours de leur détention. Lié à un contexte historique bien déterminé, cet avantage exorbitant du droit commun a été institué dans le but de tenir compte du préjudice moral particulièrement grave résultant de l'horreur des circonstances du décès survenu dans des camps d'extermination. C'est pourquoi il n'a jamais été envisagé d'étendre le bénéfice de cette mesure à d'autres catégories de veuves.
