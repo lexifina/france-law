@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021003543
+
+- Question : [SEQ021003543](seq021003543.md) — Kinésithérapeutes diplômés dans un Etat membre de l'Union européenne hors France
+
+## Réponse
+
+*Santé, JO du 2003-05-29, page 1758*
+
+Les directives 89/48/CEE du Conseil du 21 décembre 1988 et 92/51/CEE du Conseil du 18 juin 1992, relatives à la reconnaissance mutuelle des diplômes d'enseignement supérieur et des formations professionnelles, prévoient le principe d'une procédure d'examen d'une demande d'autorisation d'exercice pour les professions visées par ces directives, notamment la profession de masseur-kinésithérapeute. Pour que la demande du diplômé soit recevable, celui-ci doit déposer un dossier complet auprès de l'autorité compétente de l'Etat d'accueil. Le demandeur doit justifier des conditions de nationalité, de diplôme, de formation et d'exercice dans le pays d'origine. Les directives précitées prévoient également que l'État d'accueil puisse exiger du diplômé la validation d'une épreuve d'aptitude ou d'un stage d'adaptation, dans le cas où la formation reçue par le diplômé ne couvre pas la formation requise dans l'Etat d'accueil. L'autorisation d'exercice peut être refusée au demandeur si celui-ci ne répond pas aux critères énoncés par les directives sus-mentionnées ou si sa formation ne correspond pas à celle de masseur-kinésithérapeute. Cette procédure est aussi applicable, en France, aux orthophonistes et aux pédicures podologues. En conséquence, le respect des directives européennes et la nécessité de garantir la qualité des soins en massokinésithérapie ne permettent pas de déroger à la procédure d'examen précitée. Par ailleurs, les services du ministre de la santé, de la famille et des personnes handicapées étudient la possibilité d'une déconcentration de l'instruction des dossiers d'autorisation d'exercice, afin d'en améliorer les délais.
