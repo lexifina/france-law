@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860701925
+
+- Question : [SEQ860701925](seq860701925.md) — Budget 1987: création de nouveaux centres de virologie
+
+## Réponse
+
+*Santé et famille, JO du 1986-10-23, page 1502*
+
+Réponse. -L'honorable parlementaire attire l'attention de Mme le ministre délégué auprès du ministre des affaires sociales et de l'emploi, chargé de la santé et de la famille, sur l'éventuelle création de centres spécialisés dans les traitements antiviraux et la détection d'agents infectieux, destinés aux malades atteints du S.I.D.A., dans le cadre du budget de 1987. Il n'existe pas actuellement de traitement antiviral actif contre le virus responsable du S.I.D.A. bien que certains médicaments soient actuellement en cours d'expérimentation. La création de centres spécialisés pour le S.I.D.A. n'est pas une nécessité : les malades atteints de cette maladie souffrent d'affections non spécifiques, infections opportunistes, tumeurs cutanées, lymphomes, et sont au mieux pris en charge dans les services de spécialités médicales correspondant à ces pathologies. En revanche, l'organisation de consultations dans le cadre de ces services spécialisés, particulièrement destinées à la prise en charge médicale des patients, atteints de S.I.D.A. ou de formes cliniques mineures de l'infection par le virus V.I.H. (virus de l'immunodéficience humaine) a été mise en oeuvre, conformément à une circulaire du 26 juillet 1985. Actuellement, cent quatre-vingt-neuf établissements hospitaliers publics, situés dans cent soixante-dix villes françaises, disposent de telles consultations. Les moyens supplémentaires permettant la réalisation des objectifs de prise en charge médicale, ou l'amélioration de l'équipement des laboratoires, quand ils sont nécessaires, sont obtenus dans le cadre du redéploiement des moyens humains et financiers dans les établissements sanitaires, sociaux et médicosociaux.
