@@ -1,0 +1,13 @@
+# Délibération portant avis sur les traitements relatifs à une opération de contrôle des déclarations de ressources des allocataires des Caisses d'Allocations Familiales
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 83-18
+- Date : 1983-02-01
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017654284
+
+La Commission Nationale de l'Informatique et des Libertés : Vu la loi N° 78-17 du 6 Janvier 1978, relative à l'informatique, aux fichiers et aux libertés, et notamment ses articles 1er, 15, 19, 27 ; Vu le décret N° 78-774 du 17 Juillet 1978, pris en application des chapitres I à IV et VII de la loi du 6 Janvier 1978 ; Vu le code de la Sécurité Sociale ; Vu le code général des impôts et notamment ses articles 2016 et 2020 ; Vu sa délibération N° 83-11 du 18 Janvier 1983, portant avis sur le modèle national MNT-V3 d'automatisation des prestations familiales des Caisses de Sécurité Sociale ; Vu les deux projets de décisions relatifs à la réalisation d'une opération de contrôle des déclarations de ressources des allocataires des Caisses d'Allocations Familiales, l'un afférent à la CNAF, l'autre destiné aux Caisses qui accepteront de participer à la dite opération ; Après avoir entendu Monsieur Roland CADET en son rapport et Monsieur Philippe LEMOINE, Commissaire du Gouvernement, en ses observations ;
+
+PREND ACTE . que les finalités des traitements sont : - le tirage par les Caisses d'Allocations Familiales d'un échantillon de 2 % des seuls allocataires percevant une prestation soumise à condition de ressources, en vue, d'une part, du contrôle de leurs déclarations de ressources et des régularisations de leurs droits, s'il y échet, d'autre part, de transmettre à la CNAF des données individuelles les concernant, à l'exception de l'identité des intéressés ; - l'exploitation par la CNAF des données précitées en vue de l'élaboration de statistiques nécessaires à l'étude d'une stratégie de contrôle de l'institution vis-à-vis des populations à risque de déclarations inexactes ; . que cette opération est unique dans le temps ; CONSIDERANT que le traitement à cette occasion des informations portant sur les ressources des intéressés, ne saurait préjuger des décisions ultérieures relatives au modèle national "MNT V3" d'automatisation des prestations familiales des Caisses d'Allocations Familiales ; RAPPELLE à la Caisse Nationale que l'intégralité des mentions prévues à l'article 27 de la loi du 6 Janvier 1978, doivent figurer sur la lettre adressée aux allocataires, par laquelle il leur est demandé de produire leur avis d'imposition ; EMET sous ces réserves un avis favorable aux projets de décisions qui lui ont été soumis.
