@@ -1,0 +1,9 @@
+# Réponse à la question SEQ041114437
+
+- Question : [SEQ041114437](seq041114437.md) — Réglementation de l'accès d'engins de gros gabarit aux chemins forestiers et débardage des bois
+
+## Réponse
+
+*Intérieur, JO du 2005-02-10, page 400*
+
+L'article L. 161-5 du code rural dispose que " l'autorité municipale est chargée de la police et de la conservation des chemins ruraux ". Cette compétence s'étend à toutes les mesures relatives à la circulation et aux travaux. Le maire peut notamment interdire, d'une manière temporaire ou permanente, l'usage de tout ou partie des chemins ruraux aux véhicules et matériels dont les caractéristiques sont incompatibles avec la constitution de ces chemins et notamment avec la résistance et la largeur de la chaussée (article R. 161-10 du code rural). Il y a d'autant plus intérêt que la responsabilité de la commune pourrait être engagée en cas d'accident occasionné ou d'entrave à la circulation, par défaut de surveillance ou d'entretien d'un chemin ouvert à la circulation publique (CAA Nancy - 29 avril 1997). Il est en effet interdit de nuire aux chaussées des chemins ruraux et de compromettre la sécurité ou la commodité de la circulation (article R. 161-14 du code rural). Lorsque des dégradations sont commises par des propriétaires ou des entrepreneurs, la commune peut imposer à ces derniers des contributions spéciales pour financer les travaux nécessaires (article L. 161-8 du code rural) dans les conditions prévues à l'article L. 141-9 du code de la voirie routière. La quotité doit être proportionnée à la dégradation causée. Ces contributions, acquittées en argent ou en nature, peuvent faire l'objet d'un abonnement. A défaut d'accord amiable, le juge administratif, saisi par la commune, en fixe annuellement le montant, après expertise. Elles sont recouvrées comme en matière d'impôts directs.
