@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920922843
+
+- Question : [SEQ920922843](seq920922843.md) — Etude tendant à mettre fin aux contestations relatives au nombre de chômeurs
+
+## Réponse
+
+*Travail, JO du 1992-11-05, page 2488*
+
+Réponse. - Dans le but d'améliorer l'observation conjoncturelle de la population active, de l'emploi et du chômage selon les concepts du Bureau international du travail (BIT), l'INSEE vient de mettre en place une enquête trimestrielle sur l'emploi, réalisée pour la première fois en juin 1992. Cette enquête porte sur un échantillon de 22 000 ménages, soit trois fois moins que l'enquête annuelle de mars. Cette précision est importante pour juger de la qualité de ses résultats : compte tenu du volume limité de personnes interrogées, les données obtenues doivent être interprétées avec précaution. Sous cette réserve importante, cette enquête fournit des informations intéressantes. Concernant l'évolution de la population active, elle augmente globalement de 0,5 point entre mars et juin 1992. Cette augmentation est due pour l'essentiel à l'arrivée sur le marché du travail des jeunes, en particulier de jeunes filles. Concernant l'évolution de l'emploi, 177 000 nouveaux emplois ont été créés sur la période. Il s'agit là de données non corrigées des variations saisonnières : le même phénomène d'augmentation de l'emploi est observé tous les ans à cette période. Ces créations d'emploi bénéficient pour deux tiers aux femmes et un tiers aux hommes. Enfin, concernant le chômage, le nombre de chômeurs au sens du BIT s'établissait en juin en données brutes à 2 462 000, soit une légère baisse (- 1,4 p. 100) par rapport aux résultats de mars. Aussi le taux de chômage est-il passé de 10,1 p. 100 en mars à 9,9 p. 100 en juin. Ce sont surtout les femmes qui bénéficient de cette amélioration, leur taux de chômage baissant de 0,5 point contre 0,1 point pour les hommes.
