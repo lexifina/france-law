@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970119824
+
+- Question : [SEQ970119824](seq970119824.md) — Apprentissage des langues étrangères dans le diplôme donnant accès aux métiers de service
+
+## Réponse
+
+*Éducation, JO du 1997-05-22, page 1526*
+
+Réponse. - Les dispositions réglementaires en vigueur, concernant l'enseignement des langues vivantes dans les lycées professionnels prévoient actuellement deux heures d'enseignement hebdomadaire en certificat d'aptitude professionnelle dans le secteur tertiaire (cet horaire étant facultatif pour les certificats d'aptitude professionnelle des sections industrielles) et deux heures d'enseignement hebdomadaire pour les brevets d'études professionnelles. Pour tenir compte de la spécificité des professions concernées, cet horaire a été porté de deux à trois heures pour les brevets d'études professionnelles vente action marchande et hôtellerie-restauration. Il est également prévu, pour ce dernier brevet d'études professionnelles, un enseignement facultatif de deux heures hebdomadaires d'une seconde langue vivante étrangère. L'enseignement des langues vivantes pour les élèves préparant un certificat d'aptitude professionnelle ou un brevet d'études professionnelles a pour but de leur faire acquérir une langue simple et pratique. La maîtrise de la première langue est pour l'élève une priorité car elle est un élément de la culture générale. L'enseignement d'une seconde langue, quand il est proposé à titre facultatif, doit permettre aux jeunes actuellement en formation dans les lycées professionnels, d'envisager une poursuite d'études dans la filière technologique. Dans cet esprit, un arrêté du 31 juillet 1996 a introduit un enseignement facultatif d'une heure hebdomadaire d'une seconde langue vivante pour les brevets professionnels des métiers de la comptabilité et des métiers du secrétariat.
