@@ -1,47 +1,111 @@
 # Article 1
 
-La présente convention a pour objet de définir le statut des membres du personnel des entreprises d'ingénierie et de conseils et des cabinets d'ingénieurs-conseils dont le siège social ou les activités se situent en France métropolitaine ou dans les départements d'outre-mer et les territoires d'outre-mer.
+La présente convention a pour objet de définir le statut des membres du personnel des entreprises d'ingénierie et de conseil et des cabinets d'ingénieurs-conseils dont le siège social ou les activités se situent en France métropolitaine ou dans les départements d'outre-mer et territoires d'outre-mer.
 
-Le champ d'application de la convention collective, conformément à la nomenclature des activités économiques instituée par le décret n° 73-1036 du 9 novembre 1973, est le suivant :
+Le champ d'application de la convention collective, conformément à la nouvelle nomenclature des activités économiques, est le suivant :
 
-7701 Cabinets d'études techniques : ce groupe comprend notamment :
+72.1Z Conseil en systèmes informatiques
 
-- la réalisation pour des tiers d'études techniques, spécialisées ou non ;
+Cette classe comprend notamment :
 
-- l'ingénierie (études portant sur un programme complet, assorties de la maîtrise d'oeuvre).
+- les activités d'études et de conseil en matière de systèmes informatiques, tant en ce qui concerne les matériels, les logiciels, les progiciels et les réseaux.
 
-Il ne comprend pas les activités marchandes de recherche.
+72.2Z Réalisation de logiciels
 
-Les cabinets d'études ayant une activité de contrôle et de vérifications techniques ne relèvent du champ d'application de la présente convention qu'après adhésion volontaire.
+Cette classe comprend notamment :
 
-7702 Cabinets d'études économiques et sociologiques : ce groupe comprend les entreprises d'enquêtes, d'études de marchés, de conseils en organisation.
+- les services de développement, production, fourniture et documentation de logiciels et progiciels (utilitaires d'application, développements, etc...), ainsi que leur édition ;
 
-7703 Cabinets d'études informatiques et d'organisation : ce groupe comprend notamment les études informatiques, les conseils informatiques, l'assistance technique, l'analyse et la programmation.
+- les services de développement, production, fourniture et documentation de logiciels " à la demande ", réalisés sur cahiers des charges ;
 
-Il comprend aussi l'organisation et la mise en place des opérations de formation du personnel des entreprises.
+- les services de conseils informatiques et de suivi des applications.
 
-7704 Travaux à façon informatiques : ce groupe comprend notamment la réalisation de travaux informatiques pour des tiers, en utilisant les programmes fournis ou exceptionnellement des programmes standard.
+72.3Z Traitement des données
 
-7707 Cabinets de conseils en information et documentation : ce groupe comprend notamment :
+Cette classe comprend notamment :
 
-- conseils en relations publiques, y compris organisation de congrès ;
+- le traitement des données fournies par le client, sans étude de logiciel ;
 
-- documentation : collecte et classification d'informations de toutes natures : technique, économique, etc., avec éventuellement publication de fiches ou de revues.
+- les travaux spécialisés de saisie de données ou de conversion de fichiers.
 
-La présente convention ne fait pas obstacle à la conclusion d'accords particuliers ou d'accords d'entreprises.
+Cette classe comprend aussi :
 
-Les dispositions de la présente convention s'appliquent également aux fonctionnaires qui, bénéficiant du statut de la fonction publique, sont détachés dans une entreprise et pour la durée de ce détachement, sauf pour certaines dispositions particulières, et notamment celles relatives au préavis, à la retraite, au licenciement.
+- la mise à disposition de matériels ou de réseaux informatiques par exemple " énergie informatique " ;
 
-Entreprises d'organisation de foires et salons relevant du code NAF 74.8 J et ayant les activités ci-dessous définies :
+- les services d'exploitation de sites informatiques pour des tiers, par exemple sous forme de gérance d'exploitation ou de prise en charge complète de la fonction informatique pour le compte de tiers.
 
-A titre principal :
+72.4Z Activité de banque de données
 
-- l'organisation et l'accueil de manifestations économiques :
+Cette classe comprend notamment :
 
-salons ou expositions professionnels, périodiques ou non ;
+- la mise à disppoisiton des clients ou du public de données pré-existantes (horaires, catalogues industriels, données scientifiques, etc...), organisées pour la consultation ou l'exploitation au travers d'un serveur informatique.
 
-- l'organisation de rencontres scientifiques ou culturelles et de congrès.
+Cette classe comprend aussi :
 
-Et accessoirement :
+- la constitution de fonds documentaires de toutes natures ;
 
-- la fourniture et la mise en place des matériels et services d'exposition.
+- la production de microfiches, listings ou données autrement autrement enregistrées, à partir de banques de données, et de leur consultation.
+
+74.1E Etudes de marché et sondages
+
+Cette classe comprend notamment :
+
+- la fourniture d'études portant sur le marché et le comportement de la clientèle, préalables à la mise au point de produits nouveaux ou à la conception de campagnes publicitaires ;
+
+- la réalisation, pour des tiers, de sondages d'opinions sur des questions politiques, économiques et sociales.
+
+74.1G Conseil pour les affaires et la gestion
+
+Cette classe comprend notamment :
+
+- les conseils et l'assistance aux entreprises et organismes divers en matière de planification, d'organisation, de contrôle, d'information, de gestion, etc. ;
+
+- les conseils en matière financière (ingénierie, planification, expertises, etc..) ;
+
+- les conseils et l'assistance aux entreprises ou organismes divers en matière de relations publiques et de communication interne ou externe ;
+
+- l'arbitrage et la conciliation entre direction et salariés.
+
+74.2C Ingénierie, études techniques
+
+Cette classe comprend notamment :
+
+- les activités d'ingénierie : études portant sur un programme complet, assorties de la maîtrise d'oeuvre, dans les domaines du génie industriel (génie minier, génie chimique, génie mécanique, etc..) et du génie logistique ;
+
+- les activités d'études techniques spécialisées pour l'industrie : procédés et prroduction, climatisation, réfrigération, assainissement et lutte contre la pollution acoustique, etc.. ;
+
+- les activités d'esthétique industrielle ;
+
+- les activités d'ingénierie concernant les ouvrages de génie civil ou de bâtiment et les infrastructures (pouvant inclure la maîtrise d'oeuvre de ces opérations), l'organisation et le pilotage des chantiers ;
+
+- les activités d'étude techniques spécialisées pour la construction (fondations, structures, etc..) ;
+
+- les activités de prospections géologiques, mesures de surface par des techniques sismiques, gravimétriques, magnétiques, aéroportées, etc. ;
+
+- les activités d'études techniques en économie agricole.
+
+74.3B Analyses, essais et inspection techniques
+
+Cette classe comprend notamment :
+
+- les analyses, essais et inspections portant sur la composition, les caractéristiques physiques et les performances, la conformité à des textes réglementaires et à des normes ou à un cahier des charges de matériaux, de produits, de matériels, d'installations, de processus ou de services ;
+
+- les mesures portant sur la présence d'agents polluants dans l'air ou les eaux courantes ;
+
+- les analyses ou essais en laboratoire et inspections visant à la vérification du bon fonctionnement ou du vieillissement des installations et matériels.
+
+Les cabinets d'études ayant une activité de contrôle et de vérifications techniques (74.3B) ne relèvent du champ d'application de la présente convention qu'après adhésion volontaire.
+
+74.5A Sélection et mise à disposition de personnel
+
+Cette classe comprend notamment :
+
+- la recherche et la sélection de personnel :
+
+formulation des descriptions de postes ou rédaction de C.V. ;
+
+sélection et présentation des candidats ;
+
+- les services spécialisés (par exemple : recherche et placement de personnel de direction, reconversion professionnelle, bilan de compétences personnelles et professionnelles, etc..);
+
+- les services de mise à disposition de main-d'oeuvre, sauf travail temporaire.
