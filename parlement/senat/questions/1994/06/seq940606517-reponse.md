@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940606517
+
+- Question : [SEQ940606517](seq940606517.md) — Situation des géomètres experts urbanistes et aménageurs
+
+## Réponse
+
+*Équipement, JO du 1994-08-11, page 2003*
+
+Réponse. - Les directions départementales de l'équipement, comme les directions départementales de l'agriculture et de la forêt peuvent apporter leur concours, en application des lois du 29 septembre 1948 et du 26 juillet 1955 aux collectivités territoriales et à d'autres maîtres d'ouvrage, pour des missions de maîtrise d'oeuvre, de conduite d'opération, d'aide technique à la gestion communale et de conseil et d'assistance. Ces missions ont un véritable caractère de service public, notamment pour les communes rurales dont les projets sont de faible taille. En réalité, ces projets intéressent modérément le secteur privé, et les services techniques de l'Etat sont souvent le seul recours des petites communes pour mener à bien, dans la limite de leur capacité financière, leurs projets d'infrastructure. Toutefois les interventions des services techniques de l'Etat faites en application des lois susmentionnées ne peuvent être réalisées qu'après autorisation préfectorale, laquelle ne peut être délivrée que sous réserve de vérification qu'elles ne sont pas de nature à concurrencer, de façon abusive, l'activité normale des techniciens privés. Par ailleurs, cette possibilité de recours aux services de l'Etat a été réaffirmée à l'article 12 de la loi du 7 janvier 1983, relative à la répartition des compétences entre les communes, les départements, les régions et l'Etat. Enfin, le cadre dans lequel s'exercent ces interventions est tel que les rémunérations des agents de l'Etat sont sans lien direct avec les prestations que les services techniques auxquels ils appartiennent fournissent aux collectivités locales en la matière.
