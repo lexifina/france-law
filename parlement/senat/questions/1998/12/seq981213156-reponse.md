@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981213156
+
+- Question : [SEQ981213156](seq981213156.md) — Réduction d'impôt liée à l'emploi d'un salarié à domicile
+
+## Réponse
+
+*Budget, JO du 1999-02-18, page 515*
+
+Réponse. - Les associations intermédiaires agréées au sens de l'article L. 128 du code du travail ont pour objet d'embaucher des personnes sans emploi rencontrant des difficultés particulières d'insertion, pour les mettre à la disposition de personne physiques ou morales à titre onéreux. L'emploi généré par ces associations participe à l'objectif social d'insertion par l'économique et se trouve largement encouragé par des aides publiques. Ainsi, au-delà de la réduction d'impôt pour emploi familial dont peut bénéficier le particulier employeur d'un salarié à domicile, ces emplois donnent lieu, aux termes de l'article 261-7-I bis du code général des impôts, à une exonération de taxe sur la valeur ajoutée. En outre, selon les dispositions des articles L. 241-11 et D. 241-6 du code de la sécurité sociale, la rémunération d'un salarié d'une association intermédiaire donne lieu à une exonération de charges sociales patronales d'assurances sociales et d'allocations familiales, dans la limite d'une durée d'activité fixée à sept cent cinquante heures sur une période de douze mois consécutifs. Selon les mêmes dispositions, elle est soumise à une cotisation forfaitaire, donc minorée, d'accident du travail. Enfin, toute association intermédiaire qui se créée bénéficie d'une aide au démarrage, de 50 000 à 100 000 francs, financée par l'Etat. L'ensemble de ce dispositif public permet d'aider l'emploi de travailleurs inscrits dans les associations intermédiaires, et bénéficie indirectement aux particuliers employeurs quel que soit le niveau de leur revenu. Aussi, le Gouvernement n'envisage-t-il pas, à ce stade, d'instaurer une nouvelle subvention couvrant une partie des frais engagés du fait de l'emploi de ces travailleurs.
