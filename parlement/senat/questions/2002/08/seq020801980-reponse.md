@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020801980
+
+- Question : [SEQ020801980](seq020801980.md) — Suspensions au cours des procédures d'appel des décisions du tribunal de contentieux de l'incapacité
+
+## Réponse
+
+*Affaires sociales, JO du 2002-11-07, page 2621*
+
+Conformément aux dispositions des articles L. 143-2 et L. 143-3 du code de la sécurité sociale, les contestations mentionnées aux 1°, 2°, 3° de l'article L. 143-1 sont soumises en première instance à des tribunaux du contentieux de l'incapacité et portées en appel devant la cour nationale de l'incapacité et de la tarification de l'assurance des accidents du travail. Par ailleurs, les décisions prises par les commissions techniques d'orientation et de reclassement professionnel, d'une part (L. 323-11 du code du travail), les commissions départementales d'éducation spéciale, d'autre part (article 6 de la loi du 30 juin 1975) et les organismes de sécurité sociale enfin (R. 143-6 du code de la sécurité sociale) sont, à l'égard des intéressés, soit " dépourvues d'effet suspensif " soit " exécutoires par provision ". En conséquence, par application des articles 539 du nouveau code de procédure civile et R. 143-14 du code de la sécurité sociale, seul l'appel a un effet suspensif. De fait, ne sont donc concernées par une non-exécution des jugements des tribunaux du contentieux de l'incapacité que les décisions, frappées d'appel, accordant aux intéressés l'avantage sollicité. Dès lors la notion de " suspension de versement " ne peut être opportunément utilisée au cours d'une instance contentieuse engagée par un assuré ou une personne handicapée, suite à une décision préalable d'attribution ou suite à un jugement favorable après refus initial, sachant que toute partie a la possibilité de mettre fin à l'instance, à tout stade de la procédure.
