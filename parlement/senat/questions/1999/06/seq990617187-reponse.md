@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990617187
+
+- Question : [SEQ990617187](seq990617187.md) — Application de la circulaire comptable M 14 par les communes
+
+## Réponse
+
+*Intérieur, JO du 1999-09-02, page 2945*
+
+Réponse. - De nombreuses simplifications et allégements ont été apportés à l'intruction budgétaire et comptable depuis sa généralisation au 1er janvier 1997. Un effort important de pédagogie a ainsi permis de rendre plus lisible les maquettes budgétaires désormais agrémentées de notes et aides au calcul. De plus, une réflexion approfondie sur la structure des maquettes a permis d'en réduire le volume, en particulier en permettant de déclarer sans les produire les annexes budgétaires sans objet pour les communes et de ne pas mentionner les articles budgétaires pour lesquels aucun montant n'est à inscrire. Par ailleurs, pour répondre aux demandes des élus locaux, la nomenclature a été précisée rapprochant ainsi le plan de comptes M 14 abrégé et le plan de comptes détaillé et des informations nouvelles offrant une vision plus large de la situation financière ont été ajoutées. Ainsi, l'instruction budgétaire et comptable dans sa version applicable à l'exercice 1999 a concilié la triple exigence de transparence budgétaire - harmonisation des pratiques sur l'ensemble du territoire national -, de modernisation de la gestion des collectivités locales - un grand nombre de communes de moins de 500 habitants, dotées d'outils informatiques, n'utilisent plus le plan de comptes abrégé et le budget simplifié élaboré à leur intention mais le logiciel édité pour les communes de 500 à 3 500 habitants -, et de simplification administrative - les budgets 1999 ont été clarifiés et réorganisés et les comptes administratifs 1999 ont été élaborés conformément aux budgets primitifs 1999, ils seront publiés prochainement. L'objectif du gouvernement est à présent de stabiliser l'instruction M 14 afin de permettre aux élus d'en maîtriser les divers aspects.
