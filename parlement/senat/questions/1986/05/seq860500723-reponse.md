@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860500723
+
+- Question : [SEQ860500723](seq860500723.md) — Contrôle des vins en provenance d'Italie
+
+## Réponse
+
+*Économie, JO du 1986-08-28, page 1214*
+
+Réponse. -L'affaire des vins italiens frelatés au méthanol a conduit, dès le 26 mars 1986, les services de la direction générale de la concurrence, de la consommation et de la répression des fraudes et ceux de la direction générale des douanes et des droits indirects à procéder à des contrôles très stricts de tous les types de vins importés d'Italie et détenus aux différents stades de la commercialisation. Ces contrôles se sont traduits par un blocage systématique des importations et des analyses répétées d'échantillons afin de vérifier l'innocuité des produits concernés. Ainsi, du 26 mars au 11 mai 1986, 2 944 prélèvements ont été réalisés sur un volume de 422 000 hectolitres de vin. Trente-six résultats d'analyses se sont révélés non conformes : ils portaient sur un volume de 28 000 hectolitres de vin détenu en vrac exclusivement au stade de l'importation avant la mise sur le marché français. Il faut souligner la liaison étroite qui s'est établie, dès le début de ces opérations, entre l'administration et la profession. La rapidité avec laquelle ces précautions ont été prises a permis d'éviter tout risque éventuel d'accident sur notre territoire et la protection des consommateurs français a été à tout moment parfaitement assurée. De plus, depuis le 29 mars 1986, l'exportation des vins italiens est subordonnée à la production d'un certificat d'analyse délivré par les laboratoires agréés par les autorités italiennes, attestant que la quantité de méthanol relevée ne dépasse pas les doses admises. Enfin, dans un souci de protection de la santé des consommateurs, les produits d'origine italienne à base de vin et d'alcool destinés à être commercialisés sur le territoire français sont régulièrement contrôlés par les agents des directions précédemment citées.
