@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950711564
+
+- Question : [SEQ950711564](seq950711564.md) — Relations commerciales avec l'Australie
+
+## Réponse
+
+*Commerce extérieur, JO du 1995-09-21, page 1816*
+
+Réponse. - La France enregistre un solde commercial positif (son vingt-deuxième excédent au niveau mondial, 1,615 milliard FRF) avec l'Australie. En 1994, les exportations françaises vers ce pays étaient de 5,8 milliards FRF soit 0,45 p. 100 du total exporté par la France et les importations de 4,1 milliards (0,33 p. 100 de nos achats à l'étranger). L'Australie est le trente et unième client et le trente-sixième fournisseur, cette positions est globalement stable sur le court terme. L'excédent de la France est dû en majorité aux produits transformés de la branche industrielle (biens d'équipement professionnels pour 2,18 milliards de francs d'exportations et produits chimiques pour 860 millions FRF d'exportations) moins sensibles aux questions d'image. La France vend néanmoins pour 232,6 millions FRF de boissons, alcools et tabacs à l'Australie et pour près de 600 millions de francs de produits pharmaceutiques et de la parfumerie. Les déficits sectoriels enregistrés dans le commerce bilatéral portent sur des matières premières, sous-produits de l'élevage (laine, cuirots et peaux brutes) ou encore sur des minéraux (charbon et minerai de fer, métaux non ferreux). Ces caractéristiques sont traditionnellement celles d'un commerce entre pays industrialisés et " pays en voie de développement " et le taux de couverture français avec l'Australie est traditionnellement positif (102 p. 100 en 1992, 145 p. 100 en 1993 et 138 p. 100 en 1994).Echanges commerciaux français avec l'Australie (En millions de francs CAF/FAB.) ( NOTA Voir tableau page 1816 ). Echanges commerciaux français avec l'Australie en 1994 (En milliers de francs CAF/FAB) ( NOTA Voir tableau page 1816 ).
