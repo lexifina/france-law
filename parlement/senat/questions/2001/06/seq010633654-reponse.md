@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010633654
+
+- Question : [SEQ010633654](seq010633654.md) — Lutte contre le bruit des transports terrestres ferroviaires
+
+## Réponse
+
+*Aménagement du territoire, JO du 2001-11-15, page 3627*
+
+Le ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question concernant la faisabilité de la mise en oeuvre, par la SNCF, d'un programme de remplacement systématique et accéléré des actuels sabots de frein en fonte par des nouveaux équipements moins bruyants. La SNCF a examiné au cours des années 2000 et 2001, dans le cadre de travaux internationaux, les conditions de faisabilité technique et économique de la mise en oeuvre d'un programme de remplacement systématique et accéléré des actuels sabots de frein en fonte par des sabots de frein en matériaux composites. Pour les matériels destinés aux voyageurs, appelés à circuler encore au moins une dizaine d'années, des solutions efficaces, permettant de réduire de 5 dB(A) au moins les émissions sonores, devraient être disponibles à court terme, dans des conditions économiques acceptables. En revanche, pour ce qui concerne les wagons de fret, dont le trafic est amené à se développer dans le cadre des schémas de service collectif, les solutions techniques aujourd'hui disponibles ne permettent pas d'être aussi optimiste ; la SNCF a, d'ores et déjà, informé les ministères chargés de l'environnement et des transports qu'elle ne peut, à ce jour, seule, prendre d'engagements sur ce type de matériel. Des propositions seront présentées par la SNCF, avant la fin de l'année 2001, aux ministères chargés de l'environnement et des transports, ce qui devrait permettre d'arrêter les modalités techniques et financières qu'il conviendra de mettre en oeuvre afin d'engager ce programme dans les meilleures conditions.
