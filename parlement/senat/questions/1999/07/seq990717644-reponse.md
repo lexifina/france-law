@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990717644
+
+- Question : [SEQ990717644](seq990717644.md) — Dangers d'utilisation de " l'agent orange "
+
+## Réponse
+
+*Affaires étrangères, JO du 1999-10-14, page 3385*
+
+Réponse. - La France est particulièrement sensibilisée à cette délicate et douloureuse question, comme l'illustre la visite effectuée lors de son déplacement au Vietnam en mars dernier par M. Jean-Pierre Masseret, secrétaire d'Etat auprès du ministre de la défense, chargé des anciens combattants, au village de l'amitié de Van Ganh, qui accueille des enfants et des personnages âgées affectés par des troubles imputables à l'agent orange. Il existe maintenant des textes internationaux qui interdisent de causer des dommages à l'environnement naturel, dommages qui peuvent affecter directement ou indirectement la population civile (notamment le protocole I de 1977 et la convention de 1977 sur l'interdiction d'utiliser des techniques de modification de l'environnement à des fins militaires ou à toutes fins hostiles). Pour information, la France adhérera prochainement au protocole I de 1977. Le fait de lancer une attaque délibérée, en sachant qu'elle causera incidemment des dommages étendus, durables et graves à l'environnement naturel qui seraient manifestement excessifs par rapport à l'ensemble de l'avantage militaire concret et direct attendu, est considéré comme un crime de guerre dans le statut de la Cour pénale internationale adpoté le 17 juillet 1998. Ces trois textes ont été adoptés après les faits cités, et n'ont aucune portée réotractive. En droit international, la responsabilité d'un Etat qui viole un traité multilatéral auquel il est partie est engagée si cette violation cause un préjudice à un autre Etat. La question du dédommagement relève normalement d'accords spécifiques entre les Etats concernés.
