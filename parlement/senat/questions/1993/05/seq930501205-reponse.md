@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930501205
+
+- Question : [SEQ930501205](seq930501205.md) — Délocalisation du CEMAGREF
+
+## Réponse
+
+*Intérieur, JO du 1993-06-24, page 1021*
+
+Réponse. - La nécessité de lutter contre la concentration en Ile-de-France des fonctions tertiaires supérieures est impérieuse. Le Gouvernement n'envisage pas de laisser se poursuivre un mouvement qui draine vers la capitale l'intelligence, le dynamisme et la jeunesse, au détriment de la province. Or, à ce jour, le déséquilibre est tel que 41 p. 100 des cadres et professions intellectuelles supérieures et 52 p. 100 des effectifss de la recherche publique se situent sur 2,2 p. 100 du territoire national. Cela ne peut perdurer. C'est pourquoi le redéploiement territorial des activités publiques à partir de l'Ile-de-France, qui éprouve elle-même le besoin de maîtriser sa croissance, doit être confirmé et poursuivi. Certes, des décisions dites de ont parfois méconnu, dans le passé, les contraintes fonctionnelles des organismes concernés. Plus fréquemment, les formes requises n'ont pas été respectées. Elles méritent d'être réexaminées et le Gouvernement s'y emploie activement. Cependant, de tels examens doivent demeurer d'une portée aussi limitée que possible, la priorité consistant à mieux tenir compte des intérêts des administrations et des entreprises en cause ainsi que de leurs personnels sans pour autant altérer l'objectif recherché. Le prochain comité interministériel d'aménagement du territoire statuera sur ces sujets. Il arrêtera des décisions intégrant mieux la dimension financière de réalisations complexes sur lesquelles l'honorable parlementaire appelle l'attention à juste titre. En ce qui concerne le cas particulier du CEMAGREF, il est prématuré à ce jour de se prononcer sur les modalités de mise en oeuvre d'une décision de transfert qui s'est conclue le 13 octobre 1992 par une convention entre l'Etat et la ville de Clermont-Ferrand.
