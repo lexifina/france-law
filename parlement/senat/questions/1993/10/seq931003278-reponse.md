@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931003278
+
+- Question : [SEQ931003278](seq931003278.md) — Producteurs de foin de Crau
+
+## Réponse
+
+*Affaires européennes, JO du 1994-04-28, page 998*
+
+Réponse. - Les dispositions retenues dans le cadre de réforme de la PAC concernant les grandes cultures, ainsi que le règlement actuel régissant l'OCM " fourrages déshydratés " ne permettent pas en effet d'apporter à ce jour une réponse directe aux préoccupations des producteurs de foin de Crau. Cependant, les spécificités de la région de Crau, notamment sur le plan de l'environnement, lui permettent de profiter de " l'article 19 " du règlement sociostructurel, CEE 797/85, modifié successivement par les règlements 1760/87, 3008/89 et 2078/92. L'objectif de ce texte, l'un des premiers à prendre en compte l'environnement dans la politique agricole, est d'inciter les agriculteurs à intégrer le respect de l'environnement et des paysages dans leurs pratiques culturales. Cette procédure est désormais intégrée dans le volet agri-environnemental des mesures d'accompagnement de la réforme de la PAC. Le montant des primes, calculé en fonction du cahier des charges, peut atteindre 1 100 francs par hectare et par an. De plus, ce programme " article 19 " comporte généralement des mesures agricoles complémentaires destinées à améliorer les structures foncières et moderniser les outils de production. Aussi, les producteurs de Crau sont-ils des " Européens " à part entière et les opportunités ouvertes par les instruments décrits ci-dessus devraient leur permettre de jouer un rôle majeur et gratifiant dans la création et la gestion des paysages. Les communes, le département et la région doivent participer eux aussi à la mise en oeuvre des programmes en élargissant les réflexions à l'ensemble de leur territoire et en participant par ailleurs au financement des opérations " article 19 ".
