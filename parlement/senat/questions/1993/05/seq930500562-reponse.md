@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930500562
+
+- Question : [SEQ930500562](seq930500562.md) — Application de la directive européenne sur la protection de l'environnement
+
+## Réponse
+
+*Environnement, JO du 1993-11-04, page 2090*
+
+Réponse. - La directive 82 501 CEE et ses applications récentes sont transcrites en droit français par la loi 76 663 du 19 juillet 1976 sur les " installations classées " et les décrets et arrêtés pris en son application. Si le nombre d'usines total soumises à la directive " SEVESO " est de 367 en France, le nombrfe des unités de fabrication et de stockage devant faire l'objet d'investigations poussées de la part des exploitants et de l'inspection des installations classées est bien supérieur (environ 600) compte-tenu de l'existence de grandes plateformes industrielles où de nombreux ateliers sont réunis sur le même site. Ces études sont remises à l'administration par les exploitants. Au-delà des mesures de prévention des risques et d'organisation des secours, il est apparu que pour certaines activités, un éloignement minimum des habitations était nécessaire. La loi du 22 juillet 1987 a complété la loi du 19 juillet 1976 pour permettre une réelle maîtrise de l'urbanisation autour des sites industriels présentant des dangers pour leur voisinage. Deux dispositifs ont été définis pour les sites industriels nouveaux ou existants. Une large information et une participation de chacun des intervenants (élus, administration, exploitants) sera indispensable pour leur mise en oeuvre harmonieuse. Le droit à l'information des citoyens a d'ailleurs été confirmé par la loi du 22 juillet 1987 votée à l'unanimité : " les citoyens ont un droit à l'information sur les risques majeurs auxquels ils sont soumis dans certaines zones du territoire et sur les mesures de sauvegarde qui les concernent ".
