@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880801292
+
+- Question : [SEQ880801292](seq880801292.md) — Délivrance des certificats de propriété par les mairies
+
+## Réponse
+
+*Intérieur, JO du 1988-12-08, page 1399*
+
+Réponse. - Les certificats de propriété sont dressés par les notaires, les juges d'instance ou les greffiers, ainsi que par certaines autorités étrangères. Ils ne peuvent être établis par les maires. Les documents servant à faire la preuve de la qualité d'hétitier qui sont délivrés par les magistrats municipaux sont appelés certificats d'hérédité. Ces certificats ne tirent pas leur origine d'une disposition législative ou réglementaire, mais résultent d'une pratique administrative régie par des circulaires de la direction de la comptabilité publique qui prévoient que, jusqu'à un montant fixé actuellement à 10 000 francs, le remboursement des sommes dues aux héritiers des créanciers de l'Etat et des collectivités publiques peut être effectué sur présentation d'un simple certificat d'hérédité délivré par un maire. Par ailleurs, dans les faits, ces documents sont aussi utilisés dans des hypothèses non prévues par les instructions de la direction de la comptabilité publique, par exemple pour l'immatriculation des véhicules tombés dans une succession, ou pour la transmission aux héritiers des valeurs mobilières inscrites en compte. Les certificats d'hérédité, qui sont dressés rapidement et sans frais, rendent de grands services aux usagers. Mais les maires ne sont pas tenus de les délivrer, et il leur appartient, de toute manière, d'apprécier souverainement dans chaque cas d'espèce s'ils disposent des éléments d'information suffisants pour établir les attestations qui leur sont demandées et qui engagent, de ce fait, leur responsabilité. A défaut, les héritiers sont tenus de s'adresser au notaire dont la compétence, pour délivrer des documents attestant la qualité d'héritier, ne saurait être remise en cause par cette mesure de simplification.
