@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971205161
+
+- Question : [SEQ971205161](seq971205161.md) — Autorisation d'urbanisme commercial pour les complexes cinématographiques
+
+## Réponse
+
+*Culture, JO du 1998-03-19, page 897*
+
+Réponse. - La loi no 96-603 du 5 juillet 1996 qui a modifié la loi dite " loi Royer " relative au développement et à la promotion du commerce et de l'artisanat prévoit l'obligation d'une autorisation préalable d'urbanisme commercial dès lors que la surface des commerces de détail dépasse 300 mètres carrés. Cette autorisation est délivrée par une commission départementale d'équipement commercial. Cette même loi, dans ses articles 36-1 à 36-6, soumet également à autorisation la création ou l'extension d'équipements cinématographiques lorsqu'ils comportent plus de 1 500 places, seuil porté à 2 000 places dans le cas où il s'agit d'une extension d'un établissement fonctionnant depuis plus de cinq ans. L'autorisation est dans ce cas délivrée par une commission départementale d'équipement cinématographique. S'il existe un certain parallélisme dans la construction juridique de ces deux autorisation, il s'agit bien pourtant de dispositions ayant des champs d'application tout à fait distincts et une double autorisation serait nécessaire dans le cas d'un projet remplissant chacun des critères ci-dessus énoncés. L'examen serait réalisé par chacune des commissions pour son secteur, de manière autonome, sans que leurs avis respectifs soient liés juridiquement. Le fait que les recours contre les décisions soient portés devant une commission commune, la commission nationale de l'équipement commercial, siégeant en formation différente selon qu'elle a à statuer sur une demande relative au cinéma ou au commerce de détail, ne saurait induire une interférence entre ces deux procédures qui ont leur autonomie propre et peuvent donc être cumulables.
