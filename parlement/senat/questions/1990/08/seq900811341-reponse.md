@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900811341
+
+- Question : [SEQ900811341](seq900811341.md) — Délais de réponse aux questions écrites et disparition de jeunes majeurs
+
+## Réponse
+
+*Intérieur, JO du 1990-11-01, page 2361*
+
+Réponse. - Les moyens et les procédures mis en oeuvre pour la recherche des personnes disparues dépendent essentiellement de deux facteurs, l'âge de la personne disparue et les circonstances de la disparition. Les disparitions de personnes mineures sont toujours considérées comme inquiétantes et donnent lieu à la mise en oeuvre de moyens et de procédures adaptés aux caractéristiques concrètes de chaque disparition. Les disparitions de personnes majeures ne sont considérées comme inquiétantes que dans la mesure où les circonstances de la disparition laissent supposer que la personne disparue est en danger en raison de son état physique ou mental ou parce qu'elle semble avoir été victime d'un crime ou d'un délit. Cette distinction ,rendue nécessaire par l'abaissement de l'âge de la majorité à dix-huit ans, n'en conduit pas moins les services de police à agir avec la plus grande diligence dans les cas de disparitions de jeunes majeurs. Il convient à cet égard de souligner que la disparition d'un jeune majeur apparaîtra d'autant plus inquiétante aux services de police qu'elle restera inexpliquée aux yeux de la famille, eu égard au comportement habituel du jeune disparu. Compte tenu de ces éléments, il ne semble pas opportun d'envisager de traiter de la même manière les recherches d'enfants mineurs et celles des jeunes majeurs âgés de dix-huit à vingt et un ans. Une telle assimilation ne manquerait pas de créer des difficultés en raison des conséquences de l'abaissement de l'âge de la majorité à dix-huit ans sur la liberté d'aller et de venir des intéressés ; en outre elle ne serait, en raison de sa généralité même, pas pertinente dès lors qu'il s'agit de situations qui doivent s'apprécier au cas par cas.
