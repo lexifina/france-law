@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861002821
+
+- Question : [SEQ861002821](seq861002821.md) — Impôt sur le foncier non bâti: montant excessif dans le département du Cantal
+
+## Réponse
+
+*Budget, JO du 1987-03-05, page 327*
+
+Réponse. -Les taux d'imposition des quatre taxes directes locales sont actuellement plafonnés dans les conditions prévues à l'article 1636 B septies du code général des impôts. Il n'est pas possible d'envisager l'institution d'un butoir spécifique à la taxe foncière sur les propriétés non bâties. Les possibilités ouvertes aux élus locaux pour moduler les taux des quatre taxes locales s'en trouveraient réduites et la répartition actuelle entre ces taxes serait figée. D'autre part, compte tenu des contraintes budgétaires, l'Etat ne pourrait compenser aux collectivités locales les pertes de ressources qui résulteraient d'une telle mesure. Celle-ci provoquerait donc des transferts de charges sur les redevables des autres taxes. Cela dit, il est vrai que le taux moyen de la taxe foncière sur les propriétés non bâties est plus élevé que le taux moyen des autres taxes. Il est également très variable selon les communes. Mais cette situation résulte davantage du vieillissement des évaluations cadastrales que de l'élévation de la pression fiscale. C'est pourquoi le Parlement a adopté le principe d'une révision générale des valeurs locatives foncières en 1990. Une expérimentation en grandeur réelle est actuellement en cours dans huit départements. Elle permettra d'éclairer le choix des méthodes d'évaluation et des mesures susceptibles de limiter les effets de transferts entre contribuables. Les résultats devraient en être connus en 1987. Cette révision générale permettra une remise en ordre des évaluations foncières plus conforme à la réalité économique et aux capacités contributives des redevables.
