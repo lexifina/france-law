@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961219576
+
+- Question : [SEQ961219576](seq961219576.md) — Amélioration de la pratique des délégations de compétences
+
+## Réponse
+
+*Fonction publique, JO du 1997-04-17, page 1196*
+
+Réponse. - Dans un rapport intitulé La responsabilité pénale des agents publics en cas d'infractions non intentionnelles, le Conseil d'Etat a appelé l'attention des responsables administratifs sur la nécessité d'améliorer la pratique des délégations de compétences. La proposition du Conseil rejoint sur ce point la démarche engagée par le Gouvernement dans le cadre de la réforme de l'Etat. Ainsi, parmi les lignes d'action définies par le Premier ministre, l'un des objectifs de la déconcentration vise à simplifier l'organisation des services déconcentrés et à déléguer la prise de décision. A ce titre, la gestion déconcentrée des crédits de fonctionnement et d'investissement sera améliorée. De même, sera renforcée la déconcentration de la gestion des personnels de l'Etat. Des contrats de service, établis après un dialogue approfondi entre le préfet et les chefs de service déconcentré, définiront les modalités d'une plus large responsabilité des gestionnaires locaux sur leur budget et d'une association des agents à l'amélioration de la gestion des services. Par ailleurs, le schéma de réorganisation des services déconcentrés de l'Etat prévoit, outre une simplification des structures de l'Etat, une déconcentration accrue de compétences et de moyens aux services territoriaux. Cette nouvelle répartition des responsabilités devra être assortie d'une nouvelle organisation des délégations de pouvoir et de signature. Enfin, le Gouvernement précisera, dans le cadre de contrats pluriannuels, le rôle des établissements publics et de certains organismes publics, ainsi que les modalités de mise en cohérence de l'action des établissements publics dans les régions et les départements.
