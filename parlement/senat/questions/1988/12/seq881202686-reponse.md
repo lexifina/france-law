@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881202686
+
+- Question : [SEQ881202686](seq881202686.md) — Développement des sports motorisés hors des sites aménagés
+
+## Réponse
+
+*Environnement, JO du 1990-02-01, page 213*
+
+Réponse. - La pratique des sports motorisés, qui s'exerce souvent au détriment des espaces ruraux et naturels, s'est accentuée récemment. Pour faire face à cette pression accrue, le secrétaire d'Etat chargé de l'environnement a pris l'initiative d'engager une large consultation des partenaires concernés dans le cadre de journées d'information interrégionales, puis d'une table ronde nationale qui s'est tenue en avril 1989. Les travaux de ces journées, des études d'évaluation des impacts des véhicules tout terrain sur l'environnement et une enquête menée dans dix départements ont permis de mettre au point un programme d'action, en liaison avec les autres administrations concernées (agriculture, équipement, intérieur, jeunesse et sports, tourisme). Ce programme comporte une modification de la réglementation actuelle et des actions d'information et de sensibilisation à la protection des milieux naturels. Les mesures d'ordre réglementaire visent, d'une part, à renforcer la protection des espaces déjà protégés au titre de la loi du 2 mai 1930 relative à la protection des monuments naturels et des sites et de la loi du 10 juillet 1976 relative à la protection de la nature et, d'autre part, à préserver de dégradations éventuelles les espaces naturels en zone de montagne, sur le littoral et en forêt. Des actions de sensibilisation sur les milieux naturels seront menées en direction des pratiquants de randonnées motorisées au plan local. Enfin, il est prévu d'élaborer des outils spécifiques destinés aux élus, visant à les aider à contrôler, mais aussi à accueillir de façon raisonnable sur des itinéraires ou des circuits, les amateurs de loisirs motorisés.
