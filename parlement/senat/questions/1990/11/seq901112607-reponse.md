@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901112607
+
+- Question : [SEQ901112607](seq901112607.md) — Demandes en matière de fiscalité collectivité publique de certaines communes
+
+## Réponse
+
+*Intérieur, JO du 1991-02-21, page 376*
+
+Réponse. - Les services d'eau et d'assainissement sont soumis aux dispositions budgétaires et comptables des instructions n° 67-113/M.O. du 12 décembre 1967 et n° 69-67/M.O. du 12 juin 1969, qui prévoient l'amortissement technique des installations. Pour les services d'assainissement, les charges relatives à l'amortissement figurent expressément parmi l'ensemble des charges du service. L'instruction M 49 sur les services d'eau et d'assainissement, qui sera obligatoirement applicable à compter du 1er janvier 1992, maintient également la procédure de l'amortissement. Il en résulte que le service d'eau cité par l'honorable parlementaire aurait dû pratiquer, depuis sa création, ou au minimum depuis 1967, des amortissements réguliers de ses installations, selon des taux fixés par l'assemblée délibérante. Cette charge répartie annuellement aurait permis au service de dégager l'autofinancement nécessaire, en tout ou partie, au renouvellement des immobilisations, sans provoquer de hausse brutale des tarifs, en évitant l'inconvénient que représente la fixation d'un prix du mètre cube à un niveau anormalement bas, puisqu'il ne comprend pas cette charge de renouvellement. Il conviendrait dans le cas d'espèce que l'assemblée délibérante se détermine au plus tôt sur les conditions dans lesquelles elle entend mettre en place la procédure de l'amortissement technique à l'avenir, et se prononce notamment sur les durées à retenir. Il est rappelé par ailleurs à l'honorable parlementaire que la règle de dépôt au Trésor des fonds libres des collectivités locales ne permet pas d'envisager, dans l'état actuel de la réglementation, la rémunération des fonds correspondant aux dotations aux provisions et aux amortissements.
