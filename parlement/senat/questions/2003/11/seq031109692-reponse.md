@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031109692
+
+- Question : [SEQ031109692](seq031109692.md) — Révision des rentes viagères allouées avant l'entrée en vigueur  de la loi n° 2000-596
+
+## Réponse
+
+*Justice, JO du 2004-04-22, page 924*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que le projet de loi relatif au divorce, issu des réflexions du groupe de travail chargé de préparer la réforme du droit de la famille, a été adopté par le Sénat le 8 janvier dernier. Ce texte élargit les modalités de révision des rentes allouées avant l'entrée en vigueur de la loi du 30 juin 2000. A cet effet, un nouveau cas de révision est prévu lorsque le maintien de la rente produirait un avantage manifestement excessif au regard des critères posés à l'article 276 du code civil, qui s'ajoute à celui de changement important dans les ressources ou les besoins de l'une ou l'autre des parties prévu à l'article 20 de la loi du 30 juin 2000. Toutefois, afin d'éviter que la rédaction initiale ne donne lieu à une interprétation selon laquelle le nouveau critère de révision se substituerait à celui du changement important, un amendement de clarification a été adopté par le Sénat, ce qui lève toute ambiguïté. En outre, le projet met fin au principe de la transmissibilité passive de la rente. La prestation compensatoire sera convertie en capital lors du décès du débiteur et les héritiers ne seront tenus que dans les limites des forces de la succession, sauf si ces derniers décident d'un commun accord de maintenir les modalités de paiement dont bénéficiait l'époux débiteur lors de son décès. Le montant du capital à substituer se fera selon des modalités fixées par décret en Conseil d'Etat après déduction des pensions de réversion. Le projet de loi, pour lequel l'urgence a été déclarée, sera soumis à l'Assemblée nationale tout prochainement.
