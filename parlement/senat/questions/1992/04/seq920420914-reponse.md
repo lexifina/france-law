@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920420914
+
+- Question : [SEQ920420914](seq920420914.md) — Plan Armée 2000 : dissolution de la 8e division d'infanterie
+
+## Réponse
+
+*Défense, JO du 1992-06-25, page 1428*
+
+Réponse. - Le ministère de la défense est engagé dans un processus de réorganisation d'ampleur pour adapter ses forces armées au nouveau contexte international, rationaliser l'outil de défense et dégager d'indispensables économies de fonctionnement. Dans cet esprit, pour ce qui concerne l'armée de terre, la 3e division blindée a été dissoute à l'été dernier et la 5e division blindée le sera à l'été prochain. Cet effort se poursuivra en 1993 et dans les années à venir. Le 16 avril 1992, le ministre de la défense a annoncé devant les commission de la défense des deux assemblées la liste des restructurations qui seront mises en oeuvre à partir de juillet 1993, conformément à sa déclaration devant l'Assemblée nationale, le 13novembre 1991, et le Sénat, le 26 novembre 1991, lors de la présentation des crédits du ministère de la défense. C'est ainsi que la modificatdtion du format de l'armée de terre se traduira notamment par la dissolution, en 1993, de la 8e division d'infanterie dont plusieurs régiments et autres organismes sont stationnés dans le département de l'Aisne. Le ministère de la défense est conscient des difficultés suscitées localement par la mise en oeuvre de ces mesures difficiles. C'est dans cette perspective que la délégation aux restructurations, créée à cet effet, à été chargée d'étudier, en liaison avec l'ensemble des partenaires locaux, les mesures propres à en atténuer l'impact. Par ailleurs, l'objectif de coordination des efforts civils et militaires au sein de la zone de défense nord dont le siège est à Lille, comme l'étaient le siège et les infrastructures de l'ancienne 2e région militaire, a guidé le choix de l'implantation de l'état-major de la circonscription militaire de défense (CMD) à Lille.
