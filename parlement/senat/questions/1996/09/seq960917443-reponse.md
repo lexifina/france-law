@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960917443
+
+- Question : [SEQ960917443](seq960917443.md) — Supplément de loyer de solidarité
+
+## Réponse
+
+*Logement, JO du 1996-10-17, page 2720*
+
+Réponse. - Ainsi que l'a annoncé le Gouvernement, notamment lors de l'examen par l'Assemblée nationale du projet de loi relatif à la mise en oeuvre du pacte de relance pour la ville, la liste des zones urbaines sensibles sera actualisée d'ici à la fin de l'année 1996. Les quartiers " emplois de ville " (décret no 96-445 du 28 mai 1996) préfigurent la future géographie des zones urbaines sensibles, sans toutefois que ces quartiers bénéficient à ce jour des effets juridiques attachés aux zones urbaines sensibles s'ils ne figurent pas dans la liste du décret no 93-203 du 5 février 1993. Notamment, l'exonération du supplément de loyer de solidarité (loi no 96-162 du 4 mars 1996) et de la contribution des bailleurs sociaux (art. 302 bis ZC du code général des impôts) ne s'applique que dans les quartiers du décret du 5 février 1993. Pour accélérer la mise en oeuvre du pacte de relance pour la ville, le ministre de l'économie et des finances, le ministre de l'aménagement du territoire, de la ville et de l'intégration, le ministre délégué au logement et le ministre délégué à la ville et à l'intégration ont demandé aux préfets, par une circulaire du 22 août 1996, de recommander aux bailleurs sociaux de suspendre jusqu'à la fin de l'année le recouvrement du supplément de loyer dans les quartiers " emplois de ville ". Afin d'inciter les bailleurs sociaux à appliquer cette recommandation, le Gouvernement a décidé de les exonérer en 1996 du paiement de la contribution prévue à l'article 302 bis ZC du code général des impôts afférent aux logements situés dans les quartiers " emplois de ville ". Cette décision sera précisée dans une instruction fiscale qui paraîtra prochainement. Ces dispositions vont dans le sens souhaité par l'honorable parlementaire.
