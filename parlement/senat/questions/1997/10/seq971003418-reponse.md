@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971003418
+
+- Question : [SEQ971003418](seq971003418.md) — Risques de vaccin contre l'hépatite B
+
+## Réponse
+
+*Santé, JO du 1998-02-19, page 606*
+
+Réponse. - Une enquête de pharmacovigilance approfondie des déclarations d'effets indésirables de la vaccination contre l'hépatite B a été mise en place par l'Agence du médicament (ADM) en septembre 1994, portant sur l'ensemble des déclarations recensées depuis la mise sur le marché du premier des quatre vaccins contre cette maladie (Genhevac BR, Engérix B 10$GMg/0,5 mlR, Engérix B 20$GMg/mlR et HBvax DNAR) en 1981. Elle est coordonnée par le centre régional de pharmacovigilance de Strasbourg et mise à jour régulièrement pour prendre en compte toutes les nouvelles déclarations validées par les différents centres. Par ailleurs, l'ADM a fait procéder au recueil de l'ensemble des données concernant les atteintes démyélinisantes aiguës postvaccinales et particulièrement les cas observés chez des sujets ayant des antécédents familiaux de sclérose en plaques, auprès de la fédération de neurologie du centre hospitalier Pitié-Salpêtrière. Une enquête cas-témoins a ainsi été confiée à l'unité 360 de l'INSERM. Les résultats de cette deuxième enquête, qui a porté sur l'ensemble des vaccins, examinés par la Commission nationale de pharmacovigilance du 10 juillet 1997, ne permettent pas de conclure à un lien entre une vaccination (dont celle contre l'hépatite B) et le risque de survenue d'une atteinte démyélinisante centrale sans pour autant l'exclure totalement. Le bénéfice de la vaccination contre l'hépatite B (compte tenu d'un risque de contamination qui reste non négligeable) par rapport au risque de survenue d'une sclérose en plaques a été à nouveau souligné. Il a donc été décidé de mettre en place deux études complémentaires, de plus grande envergure susceptibles de répondre définitivement sur l'existence d'un risque et de caractériser d'éventuels sujets à risque.
