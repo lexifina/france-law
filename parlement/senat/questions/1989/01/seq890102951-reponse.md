@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890102951
+
+- Question : [SEQ890102951](seq890102951.md) — Admission des agriculteurs au bénéfice des procédures collectives
+
+## Réponse
+
+*Justice, JO du 1989-02-16, page 283*
+
+Réponse. - La loi n° 88-1202 du 30 décembre 1988 relative à l'adaptation de l'exploitation agricole à son environnement économique et social, parue au Journal officiel du 31 décembre 1988, devrait donner entière satisfaction à l'auteur de la question. Les dispositions de son chapitre II, en effet, ont pour objet d'instituer une procédure de règlement amiable spécifique à l'exploitation agricole et de soumettre les agriculteurs personnes physiques aux dispositions de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidations judiciaire des entreprises. Des règles dérogatoires, peu nombreuses, ont cependant pour finalité de prendre en compte la spécificité de l'exploitation agricole. Il s'agit principalement de l'obligation pour les créanciers qui assignent en redressement judiciaire de saisir au préalable le président du tribunal de grande instance aux fins de désignation d'un conciliateur, de la possibilité pour le tribunal d'imposer à certaines conditions la cession du bail rural. Ces deux règles particulières concernent aussi bien l'exploitation agricole individuelle que la personne morale à objet agricole (G.A.E.C., E.A.R.L., S.C.E.A. par exemple). Enfin, le président du tribunal pourra accorder à l'agriculteur en liquidation judiciaire des délais pour quitter sa maison d'habitation. Les tribunaux de commerce n'auront pas à connaître des procédures ouvertes contre des exploitants agricoles puisque l'article 2 de la loi du 30 décembre 1988 précitée qui définit l'activité agricole lui reconnaît un caractère civil. Toutefois, les sociétés agricoles à forme commerciale demeurent soumises à la juridiction consulaire.
