@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860601306
+
+- Question : [SEQ860601306](seq860601306.md) — Aide personnalisée au logement en faveur des personnes âgées
+
+## Réponse
+
+*Équipement, JO du 1986-11-27, page 1660*
+
+Réponse. -Le principe, en matière d'aides personnelles au logement (allocation de logement, A.L., ou aide personnalisée au logement, A.P.L.), est actuellement qu'une aide ne peut être accordée à la même personne au titre de plusieurs logements, mais seulement au titre de la résidence principale. En conséquence, une personne hébergée de façon temporaire ne peut bénéficier d'une aide à la personne (A.L. ou A.P.L.) au titre de cette habitation si elle continue de percevoir une aide à la personne pour le logement conservé par ailleurs. Par contre, dans le cas où l'intéressée ne bénéficie pas d'une aide à la personne au titre du logement conservé, le centre d'hébergement temporaire peut être assimilé à une résidence principale : l'A.P.L. peut donc être versée à condition que le centre d'hébergement temporaire réponde à certains critères quant à son mode de financement le rendant éligible à l'A.P.L. En effet, la notion de résidence principale entendue au sens de logement effectivement occupé huit mois par an ne s'applique pas aux personnes hébergées dans un logement-foyer, mais concerne uniquement les personnes bénéficiaires de l'A.P.L. et résidant dans des logements banalisés. Plus généralement, le rapport du Conseil national de l'habitat relatif aux logements-foyers a fait des propositions afin d'assouplir la réglementation des aides à la personne, et notamment d'admettre la possibilité d'un cumul de deux aides en cas d'hébergement temporaire de personnes conservant par ailleurs leur domicile. Ces propositions sont actuellement étudiées par les services compétents, mais leur mise en oeuvre paraît difficilement envisageable dans le contexte budgétaire actuel.
