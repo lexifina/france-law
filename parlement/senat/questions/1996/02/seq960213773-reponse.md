@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960213773
+
+- Question : [SEQ960213773](seq960213773.md) — Normes de sécurité applicables en matière de signalisation horizontale
+
+## Réponse
+
+*Équipement, JO du 1996-03-14, page 590*
+
+Réponse. - Les motards sont particulièrement sensibles aux qualités d'adhérence des produits utilisés pour les marquages sur chaussée. Une tendance actuelle de nombreux gestionnaires de voirie (notamment dans les collectivités territoriales) est d'utiliser abondamment divers produits ou peintures en signalisation horizontale sur les chaussées. Mais ces produits ne respectent pas toujours les caractéristiques d'adhérence exigées pour l'homologation des produits de marquage et sont parfois appliqués en contradiction avec la réglementation relative à la signalisation horizontale. Dans ce contexte, il convient de souligner que les dispositions réglementaires et les solutions techniques existent pour lutter contre la glissance des produits de marquage ; ceux-ci doivent en effet être certifiés ou faire l'objet d'une autorisation préalable d'emploi délivrée par le ministre chargé des transports. En particulier, leurs qualités de surface doivent satisfaire aux normes en vigueur et aux spécifications concernant l'adhérence. Dans le cadre des initiatives mises en oeuvre en 1994 en faveur de la sécurité des motards, notamment avec la désignation d'un " Monsieur moto " et l'ouverture d'une boîte aux lettres " motards " dans chaque département, toutes les directions départementales de l'équipement ont été sensibilisées à l'importance qui s'attache à la réalisation de marquages conformes à la réglementation. Les obligations des maîtres d'ouvrage et gestionnaires de voirie en matière de signalisation horizontale seront rappelées prochainement par circulaire adressée aux préfets.
