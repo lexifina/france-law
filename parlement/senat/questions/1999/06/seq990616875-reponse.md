@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990616875
+
+- Question : [SEQ990616875](seq990616875.md) — Lutte contre le bruit en matière routière
+
+## Réponse
+
+*Équipement, JO du 1999-11-04, page 3637*
+
+Réponse. - Dans la mesure où le bruit de roulement est plus important que les autres bruits émis par les véhicules, aux vitesses habituellement pratiquées sur les voies rapides, la mise au point et l'utilisation de révêtements non bruyants méritent une attention particulière et ont effectivement fait l'objet de recherches au sein des entreprises routières et du réseau technique du ministère de l'équipement depuis de nombreuses années. A ce jour, différents types d'enrobés peuvent être employés à cet effet : bétons bitumineux drainants, bétons bitumineux très minces ou ultraminces auxquels des éléments à base de caoutchouc, comme les pneus usagers, peuvent être ajoutés. Le gain obtenu par l'emploi de ces revêtements est, par rapport aux revêtements généralement uttilisés, de deux à trois dB (A), le surcoût attaché à ces techniques étant le plus souvent de l'ordre de vingt à trente pour cent. Toutefois, outre le fait que le gain acoustique obtenu par ces revêtements spéciaux peut s'avérer insuffisant pour traiter les points noirs du bruit, certains problèmes techniques n'ont pas encore pu être résolus. En effet, la pérennité des qualités acoustiques n'est pas totalement assurée ; de plus, il subsiste des difficultés de prédictibilité et de reproductivité des performances au sein d'une même technique. Enfin, certains types de revêtement peuvent ne pas être adaptés par exemple certaines difficultés d'exploitation en période hivernale. Dans ces conditions, les revêtements antibruit sont de plus en plus employés sur le réseau routiuer national, comme un complément aux écrans antibruit ou aux traitements de façades. Les recherches se poursuivent dans le but d'améliorer la fiabilité et les performances de ces techniques.
