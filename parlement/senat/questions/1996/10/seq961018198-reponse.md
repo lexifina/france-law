@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961018198
+
+- Question : [SEQ961018198](seq961018198.md) — Situation des personnels reclassés de France Télécom
+
+## Réponse
+
+*Poste, JO du 1996-11-28, page 3170*
+
+Réponse. - Les nouvelles règles de gestion instaurées à France Télécom et à La Poste reposent sur des principes, définis par l'accord social conclu le 9 juillet 1990 puis présentés en comité technique paritaire ministériel le 21 décembre 1990. Ces principes consistent essentiellement en une déconcentration de la gestion afin de la rapprocher des agents, et en une meilleure prise en compte du professionnalisme, qui vise à favoriser la promotion. Cette gestion déconcentrée s'exprime également dans le nouveau dispositif de notation, avec l'entretien d'appréciation qui permet de mieux évaluer la valeur professionnelle de l'agent en faisant le bilan de l'activité de l'année. Ces principes s'appliquent de la même manière à l'ensemble des personnels, quel que soit le choix individuel de l'agent entre le grade de classification et le grade de reclassement. De plus, la loi du 26 juillet dernier relative à l'entreprise nationale France Télécom n'a, en aucune manière, modifié la situation des personnels fonctionnaires, qu'ils relèvent des corps de reclassement ou des corps de classification. Ces fonctionnaires conservent leur statut, qui repose sur les dispositions de l'article 29 de la loi du 2 juillet 1990, lesquelles demeurent applicables, comme le prévoit l'article 5 de la loi du 26 juillet 1996. Ainsi la loi apporte aux personnels fonctionnaires de France Télécom l'ensemble des garanties qu'ils étaient en droit d'attendre dans le cadre de l'évolution de la nature juridique de cette entreprise. Enfin, les agents titulaires d'un grade de reclassement ou de classification disposent bien évidemment de la possibilité d'être détachés, dans les conditions prévues par le statut général des fonctionnaires, dans une administration.
