@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880801260
+
+- Question : [SEQ880801260](seq880801260.md) — Commerce et artisanat en zone de montagne : bilan des mesures prises
+
+## Réponse
+
+*Commerce et artisanat, JO du 1988-11-24, page 1321*
+
+Réponse. - Le Gouvernement, soucieux de favoriser le maintien du commerce et de l'artisanat en zone de montagne, a, en application de la loi du 9 janvier 1985, mis en place le Conseil national de la montagne et les comités de massifs au sein desquels le secteur des métiers a trouvé sa place. Ces instances ont développé deux axes d'interventions prioritaires : en premier lieu, le soutien au développement des entreprises commerciales, artisanales et de services existant en zone de montagne : des actions ont été développées dans chaque secteur d'activités pour encourager des regroupements d'entreprises, des efforts de commercialisation, et pour donner aux entreprises des conseils spécialisés en innovation, technologies nouvelles et organisation ; en second lieu, l'implantation d'entreprises nouvelles et la transmission-reprise des fonds artisanaux et commerciaux ; les collectivités locales et les organisations consulaires ont été invitées à soutenir l'accueil des entreprises nouvelles dans le cadre des contrats de plan, essentiellement par l'octroi des crédits du F.I.D.A.R. Elles doivent également étudier le rapprochement des cédants et repreneurs des entreprises tout en vérifiant la vitalité économique de celles-ci. Le ministère du commerce et de l'artisanat au cours de la période écoulée a consacré l'essentiel de ses crédits d'intervention économique au profit des entreprises situées dans les zones rurales fragiles. Les prochains contrats Etat-Région qui couvriront la période 1989-1993 confirment l'engagement du ministère du commerce et de l'artisanat ainsi que des fonds interministériels (F.I.D.A.R. et fonds d'aide aux initiatives en faveur de l'emploi local) en faveur des zones rurales fragiles.
