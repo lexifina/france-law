@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910716245
+
+- Question : [SEQ910716245](seq910716245.md) — Conditions de reconnaissance de la qualité de combattant volontaire de la Résistance
+
+## Réponse
+
+*Anciens combattants, JO du 1991-11-28, page 2637*
+
+Réponse. - Le secrétaire d'Etat aux anciens combattants et victimes de guerre, soucieux de mettre un terme à l'une des revendications les plus importantes du monde combattant, a présenté à l'agrément du Gouvernement un texte qui, adopté par le Parlement à l'unanimité, est devenu la loi n° 89-295 du 10 mai 1989 (J.O. du 12 mai 1989). Ce texte vise à lever la forclusion de fait qui existe depuis la fin de l'homologation des services de résistance par l'autorité militaire en 1951. Il n'est pas en effet normal de pénaliser les résistants qui, pour certains motifs de nature diverse, n'ont pas, malgré leurs mérites, pu demander la qualité de C.V.R. dans les délais impartis. Mais, s'il s'agit de donner satisfaction aux mérites acquis dans le combat clandestin, il est nécessaire de conserver rigoureusement toute sa valeur au titre de C.V.R. En effet, la Résistance, l'une des plus belles pages de l'histoire contemporaine de la nation, ne peut être exposée, à travers des titres dévalorisés, à se voir contestée à une époque où un certain révisionnisme historique tend à minimiser, voire à nier les crimes hitlériens et par conséquent à contester la valeur de la lutte menée contre l'opposition nazie. Le décret d'application n° 89-771 du 19 mai 1989 a été publié au Journal officiel du 21 octobre 1989, après avoir reçu un avis favorable du Conseil d'Etat. Cependant, une association d'anciens résistants a contesté la légalité du décret précité et a introduit un pourvoi devant le Conseil d'Etat. Le secrétaire d'Etat a adressé au Conseil d'Etat un mémoire en défense dans cette affaire. Il convient donc d'attendre la décision que rendra la Haute juridiction.
