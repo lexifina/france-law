@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861203912
+
+- Question : [SEQ861203912](seq861203912.md) — Suppression de postes de formateurs en école normale
+
+## Réponse
+
+*Éducation, JO du 1987-03-05, page 331*
+
+Réponse. -Il est effectivement prévu de supprimer 300 postes de professeur dans les écoles normales à la rentrée de septembre 1987. Le ministre de l'éducation nationale a, en effet, décidé d'appliquer le décret n° 86-487 du 14 mars 1986, pris par son prédécesseur, qui modifie le régime de formation des futurs instituteurs. Le régime antérieur fixait à trois ans la scolarité des élèves instituteurs. Le nouveau régime porte à quatre ans la durée totale des études, en vertu des deux principes suivants : deux années d'études à l'université après le baccalauréat, sanctionnées par l'obtention d'un D.E.U.G. ; deux années de formation professionnelle à l'école normale. La diminution du nombre d'années passées par les élèves instituteurs à l'école normale a pour conséquence logique la réduction des besoins en postes de professeur dans ces établissements. C'est pourquoi il a été décidé, ce qui constitue une mesure très modérée pour une réduction de la scolarité de trois à deux années, de retirer 300 postes sur les 2 500 qui existent actuellement, soit 12 p. 100 des emplois. Ces emplois retourneront, bien évidemment, à l'enseignement du second degré, particulièrement dans les lycées où des effectifs supplémentaires d'élèves sont attendus à la prochaine rentrée. Pour ce qui concerne plus spécialement les écoles normales de la Seine-Saint-Denis, les opérations de retrait de postes ont été effectuées sous l'autorité du recteur de l'académie de Créteil, qui mettra par ailleurs tout en oeuvre pour que les professeurs concernés par les suppressions de postes voient leurs compétences utilisées au mieux et retrouvent un poste qui soit le plus possible conforme à leurs voeux.
