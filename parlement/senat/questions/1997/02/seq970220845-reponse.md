@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970220845
+
+- Question : [SEQ970220845](seq970220845.md) — Autorisation pour les chorales regroupées en associations de photocopier intégralement des partitions
+
+## Réponse
+
+*Culture, JO du 1997-04-10, page 1115*
+
+Réponse. - Le ministre de la culture a agréé par arrêté du 17 avril 1996 la Société des éditeurs de musique (SEM), désormais dénommée Société des éditeurs et auteurs de musique (SEAM), pour la gestion du droit de reproduction par reprographie dans le domaine de l'édition musicale graphique. Les perceptions dues aux auteurs ou à leurs ayants droit au titre du droit de reproduction par reprographie ont pour objet de leur apporter une rémunération visant à compenser le préjudice que leur fait subir la reproduction partielle des oeuvres protégées en provoquant une limitation ou une baisse des ventes de partitions. Ce droit de reproduction ne peut avoir pour objet la reproduction intégrale d'une oeuvre dont l'autorisation n'est donnée par l'auteur à l'éditeur que dans les formes et conditions prévues au contrat d'édition conformément aux dispositions de l'article L. 132-11 du code de la propriété intellectuelle. L'éditeur et l'auteur, liés par les termes du contrat qui les unit, ne sont pas en mesure d'autoriser la reproduction intégrale d'une oeuvre par reprographie et ne peuvent ainsi transmettre une telle autorisation à la SEAM, dont ils sont les associés. Les chorales, conservatoires et écoles de musique qui souhaitent utiliser les partitions d'une oeuvre entière doivent en acquérir les exemplaires auprès des éditeurs. Le Gouvernement ne peut envisager de proposer au Parlement de modifier sur ce point la récente loi no 95-4 du 3 janvier 1995, dont l'objet est précisément de protéger les auteurs et les éditeurs contre la pratique excessive de la reprographie des oeuvres protégées, alors que l'édition musicale française subit de fortes contraintes économiques.
