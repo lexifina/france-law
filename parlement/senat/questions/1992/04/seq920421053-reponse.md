@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920421053
+
+- Question : [SEQ920421053](seq920421053.md) — Nombre d'avions acquis par des sociétés bénéficiaires de la loi de défiscalisation dans les DOM
+
+## Réponse
+
+*Budget, JO du 1992-08-27, page 1950*
+
+Réponse. - Le régime d'aide fiscale aux investissements productifs réalisés dans les départements et territoires d'outre-mer, prévu à l'article 238 bis HA du code général des impôts, a favorisé le renouvellement et l'extension de la flotte des compagnies aériennes locales. Il a ainsi permis une amélioration du service public des transports et un accroissement du nombre et de la fréquence des liaisons contribuant à l'essor touristique de ces territoires. De 1986 à 1991, dix-huit appareils d'un coût unitaire supérieur à 30 MF ont bénéficié d'un accord préalable du ministre du budget. Pendant cette période, les investissements d'un montant inférieur à 30 MF ne devaient pas être portés, préalablement à leur réalisation, à la connaissance du ministre du budget et bénéficiaient de plein droit de l'avantage fiscal. En conséquence le nombre d'avions, d'un coût inférieur à 30 MF ayant été défiscalisés, n'est pas connu. Cependant, la loi de finances pour 1992 a prévu que, pour bénéficier de ce régime, les investissements réalisés à compter du 1er janvier 1992 dans un certain nombre de secteurs, dont le tourisme et les transports, devraient avoir reçu un agrément préalable du ministre du budget. Ne sont dispensés de cette procédure du ministre du budget. Ne sont dispensés de cette procédure que les programmes d'investissement d'un montant inférieur à 1 MF réalisés par des entreprises qui exercent leur activité outre-mer depuis deux ans au moins. Le gouvernement présentera chaque année au Parlement un rapport faisant le point des demandes d'agrément reçues et des suites qui leur auront été données. Ces aménagements vont dans le sens que souhaite l'honorable parlementaire.
