@@ -1,0 +1,9 @@
+# Réponse à la question SEQ921224038
+
+- Question : [SEQ921224038](seq921224038.md) — Nombre de cartes " G " délivré à des dockers de Lorient
+
+## Réponse
+
+*Mer, JO du 1993-03-04, page 388*
+
+Réponse. - Les tensions que connaît actuellement le port de Lorient ne sont pas tant imputables à la réforme de la manutention portuaire qu'aux difficultés que rencontrent les armateurs à la pêche dans ce port et à la nécessité, qui en découle, de restructurer ce secteur. On peut d'ailleurs observer qu'un accord entre les partenaires sociaux, entreprises de manutention et ouvriers dockers, a bien pu être conclu pour le secteur commerce du port de Lorient. Depuis 1981, confronté à la montée du taux d'inemploi des ouvriers dockers, découlant lui-même de l'évolution des techniques de manutention et de conditionnement, le Gouvernement n'a délivré de nouvelles cartes d'ouvrier docker professionnel que dans les ports où la situation le justifiait. Ainsi, à Lorient, neuf cartes ont été accordées en 1981, soixante-seize en 1982, seize en 1983, une en 1984, trente-cinq en 1985 et quinze en 1989. Mais il faut souligner que de 1981 à 1991 le trafic du port de commerce est passé de 2,3 à 3,3 millions de tonnes. En outre, en 1982, l'augmentation de l'effectif des dockers s'est trouvé justifiée par un développement significatif de l'activité pêche. De fait, depuis 1982, le taux d'inemploi au port de Lorient a toujours été inférieur à 25 p. 100, taux maximum qui résultait de la loi du 6 septembre 1947. Enfin, les trente-cinq cartes de 1985 ont été accordées à des trieuses de poisson, dont l'activité n'était pas assurée précédemment par des dockers professionnels, de telle sorte que le taux d'inemploi ne devait pas s'en trouver augmenté. Au total, on peut remarquer que l'effectif des dockers est passé de 106 à 189 de 1970 à 1980 et de 189 à 231 de 1980 à 1990.
