@@ -1,61 +1,101 @@
 # Article ANNEXE III
 
-1. Les épreuves pratiques en vol sont effectuées sur un avion approuvé par le jury des examens et dont le candidat possède la qualification de type. Elles se composent d'une épreuve en ligne et d'une épreuve de maniabilité.
+A. - PROGRAMME DE L'ÉPREUVE PRATIQUE SUR SIMULATEUR
 
-2. Epreuve de maniabilité.
+1. Dans les rubriques comportant un astérisque (*), les conditions de vol doivent être IMC (conditions météorologiques de vol aux instruments).
 
-Après approbation du jury des examens, des exercices en conditions de vol dégradées ou pouvant affecter la sécurité de l'aéronef et faisant partie de l'épreuve de maniabilité peuvent être effectués sur un simulateur agréé du type de l'avion sur lequel sont subies les épreuves.
+2. Lorsque la lettre "M" apparaît dans la colonne de l'épreuve d'aptitude, ceci indique que l'exercice correspondant est obligatoire.
 
-2.1. L'épreuve de maniabilité comprend les exercices suivants :
+EPREUVE D'APTITUDE EN VUE DE L'OBTENTION DE LA LICENCE DE PILOTE DE LIGNE
 
-Décollages avec une panne de moteur avant V2 dont au moins un en IMC réel ou simulé.
+*Tableau non reproduit*.
 
-Evolutions (virages, vol dissymétrique, changements de configuration, manoeuvres de secours) en VMC ou IMC réel ou simulé.
+B. - PROGRAMME DE L'ÉPREUVE PRATIQUE DE MANIABILITÉ SUR AVION
 
-Vol avec panne simulée d'un ou de plusieurs instruments de contrôle du vol : évolutions comportant des changements de régime et de configuration. Ce vol sera réalisé en IMC réel ou simulé.
+Dispositions applicables en l'absence de simulateur de vol ayant un niveau de qualification approprié :
 
-Matérialisation.
+- un tour de piste standard (sans panne) ;
 
-Approches VFR de jour ou de nuit dans diverses configurations.
+- un tour de piste basse altitude ;
 
-Attentes et procédures d'arrivée en IMC réel ou simulé dont :
+- un décollage ou une remise de gaz avec panne moteur simulée à la rotation ;
 
-- une arrivée avec remise des gaz ;
+- un tour de piste et un atterrissage avec un moteur en panne simulée.
 
-- une autre avec atterrissage à vue précédée éventuellement d'une approche indirecte.
+C. - MODALITÉS DE PASSAGE DE L'ÉPREUVE PRATIQUE
 
-2.2. L'examinateur fait exécuter par le candidat un certain nombre d'exercices choisis parmi ceux énumérés ci-dessus, jusqu'à ce qu'il soit en mesure de porter une appréciation définitive sur l'aptitude ou l'inaptitude du candidat.
+Généralités
 
-3. Epreuve en ligne.
+1. Les rubriques sur lesquelles porte l'épreuve d'aptitude sont définies dans la présente annexe. Avec l'accord du jury de l'examen, différents scénarios d'épreuve d'aptitude peuvent être développés, comportant des opérations simulées de transport public. L'examinateur sélectionne l'un de ces scénarios.
 
-3.1. L'épreuve en ligne consiste en un voyage IFR d'une durée de deux heures au moins, comportant une ou plusieurs étapes incluant un parcours international.
+2. Tout candidat doit passer avec succès toutes les rubriques de l'épreuve d'aptitude. En cas d'échec dans plus de cinq rubriques, le candidat doit se soumettre de nouveau à la totalité de l'épreuve. En cas d'échec dans cinq rubriques au plus, le candidat doit passer de nouveau lesdites rubriques. En cas d'échec dans l'une des rubriques lors du nouveau passage de l'épreuve, y compris les rubriques qu'il avait passées avec succès lors d'une tentative antérieure, le candidat doit se soumettre de nouveau à la totalité de l'épreuve.
 
-3.2. Les appréciations de l'examinateur doivent porter sur les points suivants :
+3. Il peut être exigé du candidat qu'il suive un complément de formation à la suite d'un échec à une épreuve. Le fait de ne pas avoir réussi à toutes les rubriques à l'issue de deux tentatives implique un complément de formation déterminé par le jury de l'examen sur proposition de l'examinateur. Le nombre de tentatives n'est pas limité.
 
-Préparation du voyage.
+4. Si un candidat décide d'interrompre une épreuve commencée pour des raisons que l'examinateur ne juge pas recevables, il sera considéré comme ayant échoué aux rubriques qu'il n'a pas entreprises. Si l'épreuve est interrompue pour des raisons jugées recevables par l'examinateur, seules les rubriques non entreprises feront l'objet d'une épreuve ultérieure.
 
-Exploitation des renseignements météorologiques et des informations aéronautiques ; établissement d'un plan de vol ; vérification des documents de bord ; préparation machine ; devis de masse, centrage, calcul de carburant.
+5. A l'appréciation de l'examinateur, toute manoeuvre ou procédure de l'épreuve peut être répétée une fois par le candidat. L'examinateur peut arrêter l'épreuve à tout moment s'il estime que la démonstration du niveau de compétence du candidat exige une nouvelle épreuve complète.
 
-Exécution du voyage.
+CONDUITE DE L'ÉPREUVE
 
-Pilotage en ligne.
+6. Les procédures et les contrôles doivent être effectués conformément au manuel d'exploitation de l'avion utilisé pour l'épreuve, ainsi qu'au concept de travail en équipage. Les données relatives aux performances pour le décollage, l'approche et l'atterrissage doivent être calculées par le candidat conformément au manuel d'exploitation ou au manuel de vol du type d'avion considéré et doivent être convenues avec l'examinateur. Les hauteurs/altitudes de décision et les hauteurs/altitudes minimales de descente et d'approche interrompues doivent être déterminées à l'avance par le candidat et acceptées par l'examinateur.
 
-Travail en équipage.
+7. L'épreuve pratique doit être effectuée dans un environnement multipilote. Un deuxième candidat ou un autre pilote peut remplir les fonctions de deuxième pilote. Lorsqu'un avion, plutôt qu'un simulateur, est utilisé pour l'épreuve, le deuxième pilote doit être un instructeur.
 
-Navigation.
+8. Le candidat à la délivrance de la licence de pilote de ligne doit agir en qualité de pilote en fonction (PF) pendant toutes les phases de l'épreuve. En outre, le candidat doit démontrer sa capacité à agir en qualité de pilote non en fonction (PNF). Le candidat peut choisir la place gauche ou droite pour l'épreuve.
 
-Bonne exécution des réglages altimétriques.
+9. Les matières suivantes sont spécifiquement contrôlées lors des épreuves du candidat à la licence de pilote de ligne, qu'il exerce ses fonctions en qualité de pilote en fonction ou de pilote non en fonction :
 
-Tenue des documents.
+a) Gestion du travail en équipage ;
 
-Procédures de radiotéléphonie en anglais.
+b) Maintien d'une surveillance générale de fonctionnement de l'avion par une supervision appropriée ;
 
-Connaissance du manuel d'exploitation.
+c) Et établissement de priorités et prises de décisions conformément aux aspects de sécurité et aux règlements appropriés à la situation opérationnelle, y compris les situations d'urgence.
 
-Connaissance des procédures de dégagement.
+10. L'épreuve pratique sur simulateur doit simuler, autant que possible, un vol de transport public en conditions IFR. L'élément essentiel est la capacité à planifier et à effectuer le vol à partir d'éléments de briefing courants.
 
-Connaissance de la réglementation.
+PERFORMANCES ACCEPTABLES
 
-Gestion des ressources humaines et techniques.
+11. Le candidat doit démontrer sa capacité à :
 
-4. A la suite des épreuves en vol, le candidat est déclaré apte ou inapte par le jury d'examen, sur proposition de l'examinateur.
+a) Manoeuvrer l'avion dans le cadre de ses limitations ;
+
+b) Exécuter toutes les manoeuvres avec souplesse et précision ;
+
+c) Faire preuve de jugement et de comportement d'aviateur ;
+
+d) Appliquer ses connaissances aéronautiques ;
+
+e) Garder à tout instant le contrôle de l'avion de telle manière que la réussite d'une procédure ou d'une manoeuvre ne fasse jamais de doute ;
+
+f) Comprendre et appliquer les procédures de travail en équipage et d'incapacité, le cas échéant ;
+
+g) Et communiquer effectivement avec les autres membres de l'équipage.
+
+12. Les limitations ci-dessous constituent une orientation générale. L'examinateur doit tenir compte des conditions de turbulence et des qualités manoeuvrières et des performances du type d'avion utilisé.
+
+Hauteur :
+
+- généralement : 100 pieds ;
+
+- au début d'une remise des gaz à la hauteur de décision : + 50 pieds/- 0 pied ;
+
+- hauteur/altitude minimale de descente : + 50 pieds/- 0 pied.
+
+Alignement :
+
+- sur les aides radio : 5° ;
+
+- approche de précision : demi-déviation de l'index d'alignement de piste et d'alignement de descente.
+
+Cap :
+
+- tous les moteurs en fonctionnement : 5° ;
+
+- avec panne de moteur simulée : 10°.
+
+Vitesse :
+
+- tous les moteurs en fonctionnement : 5 noeuds ;
+
+- avec panne de moteur simulée : + 10 noeuds/- 5 noeuds.
