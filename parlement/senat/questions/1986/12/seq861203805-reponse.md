@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861203805
+
+- Question : [SEQ861203805](seq861203805.md) — Emploi des jeunes durant les vacances scolaires d'été
+
+## Réponse
+
+*Affaires sociales, JO du 1987-05-21, page 795*
+
+Réponse. -Il est exact que les étudiants qui, durant la période des vacances, occupent un emploi temporaire en remplacement des personnels en congés annuels relèvent du régime général de la sécurité sociale en application de l'article L. 311-2 du code de la sécurité sociale. En effet, dès lors que les intéressés sont affectés à un poste de travail déterminé, qu'ils effectuent une activité productrice, qu'ils doivent se plier à un horaire de travail préfixé et qu'ils perçoivent une rémunération, les cotisations qui les concernent doivent être calculées dans les conditions de droit commun (art. R. 242-1 du code de la sécurité sociale). Le fait qu'ils bénéficient d'une protection à un autre titre et qu'ils acquièrent peu de droits nouveaux par le biais de leur travail d'été ne doit pas dispenser ces jeunes de participer à l'effort collectif de solidarité qui repose sur le principe d'une cotisation proportionnelle au revenu. Toutefois, les sommes versées à l'occasion de stages faisant partie intégrante d'un enseignement ne sont pas considérées comme des salaires lorsqu'elles n'excèdent pas, sur une base mensuelle, 30 p. 100 du S.M.I.C. applicable au 1er janvier de l'année civile au cours de laquelle débute le stage (soit 1 365 F pour 1987). Le stagiaire étant alors assimilé à un travailleur en formation, non rémunéré en espèces, l'entreprise n'est tenue, durant le stage, qu'au seul versement de l'ensemble des cotisations patronales, sur la valeur forfaitaire de la formation, égale mensuellement à 25 p. 100 du S.M.I.C. en vigueur au 1er janvier de l'année (soit 1 138 F en 1987).
