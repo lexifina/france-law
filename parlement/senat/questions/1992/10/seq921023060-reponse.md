@@ -1,0 +1,9 @@
+# Réponse à la question SEQ921023060
+
+- Question : [SEQ921023060](seq921023060.md) — Situation de la République fédérale islamique des Comores
+
+## Réponse
+
+*Affaires étrangères, JO du 1992-11-12, page 2524*
+
+Réponse. - Depuis leur indépendance, les Comores sont l'objet d'une grande instabilité. La tentative de coup d'Etat menée par les fils de l'ancien président Abdallah le 26 septembre a échoué en raison du loyalisme de l'armée. Les soldats qui avaient participé à cette opération n'ont pas fait l'objet de poursuites judiciaires. Ils se sont de nouveau mutinés le 13 octobre pour essayer de libérer leurs chefs emprisonnés, puis après avoir forcé l'encerclement du camp militaire dans lequel ils étaient retranchés, se sont refugiés à M'beni, fief du principal opposant au président Djohar. L'armée a repris cette localité, fait des prisonniers et récupéré du matériel militaire. Cependant, la plupart des rebelles se sont échappés et un petit groupe d'entre eux a été neutralisé le 19 octobre dans le centre de Moroni, après un violent affrontement armé. Bien que les forces loyalistes semblent avoir repris le contrôle de la situation, celle-ci demeure très confuse. Ces événements interviennent alors que le pays est secoué par une grave crise économique et financière et que le climat social se dégrade. Le processus de démocratisation mis en place avec l'élection du président Djohar se poursuit néanmoins. Une nouvelle constitution a été approuvée par référendum le 7 juin 1992 et des élections législatives sont prévues pour les 8 et 15 novembre. Les incidents de ces derniers jours, si la stabilisation de la situation se confirmait, ne semblent pas de nature à accroître le flux migratoire à destination de Mayotte, dont l'origine est à rechercher essentiellement dans la dégradation des conditions économiques et sociales dans l'archipel.
