@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860500557
+
+- Question : [SEQ860500557](seq860500557.md) — Pénétration du vin frelaté italien sur le marché français
+
+## Réponse
+
+*Économie, JO du 1986-08-07, page 1129*
+
+Réponse. -1 Dès l'annonce de l'existence de cas d'empoisonnement en Italie par absorption de vin frelaté au méthanol, les services de la direction générale de la concurrence, de la consommation et de la répression des fraudes et de la direction générale des douanes et des droits indirects ont procédé au blocage, ainsi qu'à un échantillonnage, à des fins analytiques, des différents types de vins italiens détenus aussi bien par les importateurs français (notamment à Sète et à Marseille) qu'à tous les stades de la commercialisation. Du 26 mars au 11 mai 1986, 2 944 prélèvements ont été ainsi réalisés portant sur un volume de 422 000 hectolitres. Trente-six analyses seulement se sont révélées non conformes pour un volume de 28 000 hectolitres. Cette présence de méthanol à des doses anormales a été mise en évidence essentiellement sur des vins détenus en vrac au stade de l'importation. La rapidité et la multiplication des prélèvements d'une part, le blocage des vins suspects d'autre part, ont permis d'éviter la livraison de vins italiens au méthanol aux consommateurs français. Il faut également souligner la liaison étroite qui s'est établie, dès le début de ces opérations, entre l'administration et la profession. 2 Depuis le 29 mars 1986, l'exportation des vins italiens est subordonnée à la production d'un certificat d'analyse délivré par les laboratoires agréés par le ministère de l'agriculture italien précisant le taux de méthanol, par millilitre d'alcool, et attestant que la quantité de méthanol relevée ne dépasse pas les doses admises. De plus, les services douaniers français continuent à procéder à des analyses sur tous les produits à base de vin ou d'alcool en provenance de ce pays.
