@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901011913
+
+- Question : [SEQ901011913](seq901011913.md) — Transport de spiritueux par les traiteurs
+
+## Réponse
+
+*Budget, JO du 1990-12-20, page 2693*
+
+Réponse. - Les spiritueux libérés des droits, transportés à l'occasion de réceptions par les traiteurs titulaires d'une licence à consommer sur place de 4e catégorie, doivent, conformément aux articles 444 et 445 du code général des impôts, être accompagnés de laissez-passer n° 8161-3 établis par les intéressés dans la limite de six litres en volume par destinataire. Lorsque cette limite est dépassée, le commerçant doit se rendre à la recette locale des impôts du lieu d'expédition qui lui établit un passavant n° 8161-3 B. Cependant, diverses mesures d'assouplissement ont été prévues pour tenir compte des conditions particulières d'exercice de la profession. D'une part, les boissons invendues peuvent être rapportées sous le couvert du laissez-passer ou du passavant primitif, simplement annotés d'une mention de retour indiquant le volume et le degré des spiritueux, l'heure d'enlèvement et la durée du transport. D'autre part, un registre de passavants peut être confiéaux traiteurs amenés à se rendre fréquemment à la recette locale. Il est utilisé exclusivement pour l'approvisionnement en spiritueux, par quantité supérieure à six litres en volume, des réceptions au cours desquelles les traiteurs assurent la fourniture à la fois des boissons et de la nourriture (repas, buffets). Le premier registre est délivré par la recette locale sur présentation des congés ou des factures-congés justifiant le paiement des droits sur les boissons appelées à être réexpédiées. Par la suite, un nouveau registre est remis sous les mêmes conditions et après vérification de la régularité de l'utilisation de celui qui est épuisé.
