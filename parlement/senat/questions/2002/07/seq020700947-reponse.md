@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700947
+
+- Question : [SEQ020700947](seq020700947.md) — Lutte contre le cancer du sein
+
+## Réponse
+
+*Santé, JO du 2002-12-12, page 3082*
+
+Actuellement, trente-trois départements offrent un dépistage organisé du cancer du sein. D'ici à la fin 2002, une quinzaine de départements supplémentaires proposera le dépistage organisé, ce qui portera le nombre des départements avec dépistage organisé à près de cinquante, la généralisation à l'ensemble de la France intervenant courant 2003. Dans le dispositif du dépistage organisé, géré par une structure de gestion au niveau départemental ou interdépartemental, les partenaires sont nombreux et doivent tous être informés et mobilisés. Le rôle des médecins traitants est primordial et, comme cela est noté dans les cahiers des charges, ce sont eux qui conseillent à la femme d'effectuer une mammographie, lui en indiquent le rythme, lui expliquent les modalités du dépistage, lui communiquent les résultats des examens et la conduite à tenir. Un effort d'information des médecins traitants est nécessaire, afin qu'ils connaissent notamment les améliorations qualitatives apportées par le nouveau cahier des charges. Certains départements ont d'ailleurs déjà mis en place des bulletins d'information des médecins sur ce sujet. Au plan national, un CDRom de formation des médecins généralistes au dépistage des cancers, élaboré avec l'Institut national de prévention et d'éducation pour la santé, sera mis à la disposition des régions et des départements en novembre 2002. Pour faciliter l'accès au dépistage dans les départements où les centres de radiologie sont éloignés, un mammobile vient à la rencontre des femmes. Cette modalité, permise par le cahier des charges, doit cependant rester l'exception, car elle ne permet notamment pas de contact direct entre la femme et le radiologue.
