@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970220637
+
+- Question : [SEQ970220637](seq970220637.md) — Financement des organismes d'accueil des objecteurs de conscience
+
+## Réponse
+
+*Travail, JO du 1997-06-02, page 1647*
+
+Réponse. - La réforme des conditions de prise en charge des objecteurs de conscience entrée en vigueur le 15 janvier 1997 répond au souci d'harmoniser les modalités de financement des différentes formes de service à finalité civile et à la nécessité de veiller plus strictement à ce que les fonctions confiées revêtent une véritable utilité sociale. Les représentants des associations ont été appelés à faire connaître leur point de vue sur les nouvelles dispositions préalablement à leur mise en application et les organismes d'accueil en ont été informés individuellement en temps utile. Ces dispositions ne concernent que les jeunes gens affectés après le 15 janvier 1997. Les dépenses d'entretien des personnes affectées avant cette date sont prises en charge par l'Etat dans les conditions antérieures. Le Gouvernement est, en effet, soucieux d'éviter qu'un certain nombre d'organismes, et notamment d'associations, ne soient conduits à interrompre des actions revêtant un caractère social manifeste, en raison du nouveau régime de prise en charge des objecteurs de conscience. La situation des organismes qui se trouveraient dans ce cas fera l'objet d'un examen attentif de la part des services de l'Etat, en tenant compte de l'intérêt de leur projet et des moyens financiers dont ils disposent. Il appartient aux préfets de veiller au respect de ces instructions, qui sont claires et sans ambiguïté. La réforme mise en oeuvre, si elle vise à clarifier la responsabilité de différents acteurs, ne porte donc en rien atteinte au droit que possède tout individu appelé à effectuer son service national de se déclarer objecteur de conscience ni au statut des intéressés.
