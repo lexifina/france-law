@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001129394
+
+- Question : [SEQ001129394](seq001129394.md) — Aide aux entreprises et aménagement du territoire
+
+## Réponse
+
+*Aménagement du territoire, JO du 2001-12-06, page 3846*
+
+Le ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question relative aux zones de revitalisation rurale (ZRR) et aux zones de redynamisation urbaine (ZRU). La politique menée en faveur de la réduction du temps de travail a eu, il est vrai, pour effet indirect de diminuer, en raison de règles de non-cumul, l'impact des mesures d'exonération de cotisations patronales attachées à ces zonages. En revanche, les autres mesures d'exonération relatives à la taxe professionnelle et à l'impôt sur les bénéfices continuent de produire leurs effets. Ces territoires fragiles bénéficient également, en règle générale, des dispositions les plus favorables des programmes européens. La politique de " discrimination positive " en faveur des très ou toutes petites entreprises (TPE), aujourd'hui principales créatrices d'emplois, n'est pas remise en cause et reste un des pivots de l'aménagement du territoire. Pour le milieu urbain, le récent comité interministériel de la ville a conforté le dispositif actuel et annoncé de nouvelles mesures. Enfin, le dispositif législatif et réglementaire constitué par la loi d'orientation pour l'aménagement et le développement durable du territoire (LOADDT) et ses décrets d'application crée un cadre nouveau : il incite à inscrire, dès maintenant, ces politiques de soutien au développement économique local dans une logique de contrat territorialisé fondé sur des projets, au niveau des pays, des agglomérations et des parcs naturels régionaux. Cette évolution est également recommandée par Mme Geneviève Perrin-Gaillard et M. Philippe Duron dans le rapport intitulé " Du zonage au contrat : une stratégie pour l'avenir ", qu'ils ont remis au Premier ministre.
