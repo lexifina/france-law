@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950912215
+
+- Question : [SEQ950912215](seq950912215.md) — Clarification de l'ordonnance no 59-2 du 2 janvier 1959 relative aux lois de finances
+
+## Réponse
+
+*Économie, JO du 1996-06-13, page 1449*
+
+Réponse. - Il n'est pas actuellement envisagé de procéder à une modification de l'ordonnance no 59-2 du 2 janvier 1959 portant loi organique relative aux lois de finances. La recherche d'une meilleure lisibilité et d'une plus grande pertinence de l'action publique, ne passe pas, en effet, prioritairement par une modification de ce texte. D'une part, l'ordonnance du 2 janvier 1959 ne constitue pas un obstacle à une réforme de la présentation dans un sens privilégiant la clarté et la lisibilité : une telle réforme, initiée dans le cadre de l'examen du projet de loi de finances pour 1996, trouvera son plein aboutissement lors de l'examen du projet de finances pour 1997. Il s'agit, pour l'essentiel, de la production de nouveaux documents budgétaires plus explicites, comportant notamment les indicateurs physiques d'activité par ministère. D'autre part, l'ordonnance du 2 janvier 1959 n'interdit aucunement le développement de moyens modernes d'évaluation de l'efficacité de l'action publique, tels que des instruments de contrôle de gestion adaptés au secteur public. Elle n'interdit pas non plus qu'il soit recouru à des présentations utilisées à des fins pédagogiques, comme cela a été le cas dans le cadre du rapport du Gouvernement au Parlement pour le début d'orientation budgétaire. Pour ces raisons, il ne semble pas que la modification de l'ordonnance no 59-2 du 2 janvier 1959, qui fournit un cadre précis et rigoureux pour l'élaboration et l'exécution des lois de finances, constitue un préalable à l'amélioration de la lisibilité et de la pertinence de l'action publique.
