@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020137709
+
+- Question : [SEQ020137709](seq020137709.md) — Localisation du siège de l'autorité européenne chargée de la sécurité alimentaire
+
+## Réponse
+
+*Affaires européennes, JO du 2002-02-21, page 555*
+
+L'honorable parlementaire a bien voulu appeler l'attention du ministre délégué chargé des affaires européennes sur la localisation de l'autorité européenne chargée de la sécurité alimentaire. Les chefs d'Etat ou de gouvernement ont été saisis au Conseil européen de Laeken, en décembre dernier, d'une proposition de compromis de la présidence belge concernant les sièges des agences européennes en voie de création. Le choix des sièges doit faire l'objet d'un consensus entre les Etats membres. Or, celui-ci n'a pu être réuni à Laeken en raison notamment de la vigoureuse opposition italienne à la localisation de l'autorité alimentaire à Helsinki. Pour sa part, la France a également rappelé que la candidature de Lille à ce siège était au premier rang de ses priorités dans la discussion et a plaidé pour la prise en compte des critères techniques et financiers dans l'examen des mérites des différentes candidatures. La France maintient son soutien à la candidature de Lille, qui réunit toutes les qualités pour permettre un fonctionnement efficace de l'autorité chargée de la sécurité alimentaire. Devant les réactions négatives d'un grand nombre d'Etats membres au " paquet " proposé à Laeken, la présidence belge a rapidement interrompu les discussions pour mettre un terme final à un Conseil européen par ailleurs riche d'avancées importantes pour l'avenir de l'Union européenne. La présidence espagnole du Conseil de l'Union européenne a désormais repris ce dossier et l'inscrira à l'ordre du jour d'une prochaine réunion du Conseil européen, si elle estime que les bases d'un consensus entre Etats membres sont réunies.
