@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930902893
+
+- Question : [SEQ930902893](seq930902893.md) — Mesures d'accession à la propriété mises en place par le département des Alpes-Maritimes
+
+## Réponse
+
+*Logement, JO du 1994-05-12, page 1170*
+
+Réponse. - Les services du ministre de l'économie, consultés sur la possibilité par les collectivités locales d'octroyer des prêts aux accédants à la propriété, précisent que la loi no 84-46 du 24 janvier 1984 modifiée relative à l'activité et au contrôle des établissements de crédit dispose dans son article 10 qu'" il est interdit à toute personne autre qu'un établissement de crédit d'effectuer des opérations de banque à titre habituel ". L'article 1er de la même loi range parmi les opérations de banque les opérations de crédit. La dérogation prévue au 1o de l'article 11 de la loi vise les organismes sans but lucratif qui, dans le cadre de leur mission et pour les motifs d'ordre social, accordent, sur leurs ressources propres, de prêts à des conditions préférentielles à certains de leurs ressortissants. Elle ne peut, pas plus que les autres dérogations prévues à l'article 11 et à l'article 12 de la loi, s'appliquer à une collectivité locale. Par ailleurs, il convient de souligner que le produit d'un emprunt, quelles que soient ses modalités, ne peut contribuer à la constitution des 10 p. 100 d'apport personnel réel nécessaires à l'obtention d'un prêt aidé d'accession à la propriété (PAP). Dans ces conditions, une modification de la loi bancaire en vue d'autoriser les collectivités locales à consentir des crédits aux candidats à l'accession à la propriété ne serait pas de nature à relancer les PAP. Il convient de noter que le problème soulevé concerne exclusivement les prêts et non les subventions également consenties par certaines collectivités locales qui contribuent à l'apport personnel en PAP comme en prêts conventionnés.
