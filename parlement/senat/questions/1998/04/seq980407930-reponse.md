@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980407930
+
+- Question : [SEQ980407930](seq980407930.md) — Emplois-jeunes de l'éducation nationale
+
+## Réponse
+
+*Enseignement scolaire, JO du 1998-08-06, page 2564*
+
+Réponse. - Les aides éducateurs recrutés dans le cadre du dispositif emplois-jeunes et affectés dans un collège peuvent, en application de la circulaire ministérielle nº 97-263 du 16 décembre 1997, exercer des fonctions d'aide à la surveillance et de présence active lors des interclasses, des entrées et des sorties des élèves, en liaison avec les autres personnes affectées à ces tâches. Si la présence d'adultes supplémentaires améliore sensiblement l'efficacité de l'organisation de la surveillance dans les établissements du second degré, l'action des aides éducateurs ne se substitue pas à celle des maîtres d'internat et des surveillants qui conservent la responsabilité que leur statut respectif leur donne dans ce domaine d'activité. Il n'est pas envisagé de modifier les fonctions de ces personnels dont le recrutement n'est pas remis en cause. Dans le cadre de fonctions d'aide à la surveillance, l'aide éducateur, souvent plus proche par l'âge des élèves, est un acteur de proximité qui trouve son rôle dans l'écoute démultipliée, facilitée et personnalisée des jeunes élèves. Il constitue un relais, une instance nouvelle très accessible qui enrichit le lien enfant-adulte. Par ailleurs, les aides éducateurs assurent fréquemment une aide à la surveillance pour une partie seulement de leur service qui est, dans la plupart des cas, complété par d'autres fonctions, générales ou spécialisées : assistance documentaire auprès des élèves, animation socio-culturelle, aide à une meilleure utilisation des matériels informatiques... Cette polyvalence, perçue et appréciée par les élèves qui en sont les premiers bénéficiaires, contribue à faire de l'aide éducateur un acteur de la communauté éducative distinct des autres et identifié.
