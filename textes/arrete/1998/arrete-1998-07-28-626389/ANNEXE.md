@@ -1,10 +1,8 @@
 # Article ANNEXE
 
-CAHIER DES CHARGES RELATIF À LA FOURNITURE
+CAHIER DES CHARGES RELATIF À LA FOURNITURE DU SERVICE TÉLÉPHONIQUE AU PUBLIC
 
-DU SERVICE TÉLÉPHONIQUE AU PUBLIC
-
-Titulaire de l'autorisation : Interoute Communications France.
+Titulaire de l'autorisation : Wavecrest Communications France.
 
 Définitions
 
@@ -12,9 +10,9 @@ Dans le présent cahier des charges, il est fait usage de termes qui sont entend
 
 L'opérateur
 
-Il s'agit du titulaire de l'autorisation de fourniture au public du service téléphonique visé à l'article 1er de l'arrêté auquel est annexé le présent cahier des charges.
+Il s'agit du titulaire de l'autorisation visé à l'article 1er de l'arrêté auquel est annexé le présent cahier des charges.
 
-L'ETSI
+ETSI
 
 Il s'agit de l'Institut européen de normalisation en matière de télécommunications (European Telecommunications Standards Institute).
 
@@ -32,45 +30,65 @@ Il s'agit des spécifications techniques approuvées par un organisme reconnu à
 
 Les conventions d'interconnexion
 
-Les conventions d'interconnexion précisent les modalités techniques et financières de l'ensemble des relations entre l'opérateur et les opérateurs de réseaux ouverts au public ou les autres fournisseurs de service téléphonique au public entrant dans le cadre défini au chapitre X du présent cahier des charges.
+Les conventions d'interconnexion précisent les modalités techniques et financières de l'ensemble des relations entre l'opérateur et les autres opérateurs de réseaux ouverts au public ou les fournisseurs de service téléphonique au public entrant dans le cadre défini au chapitre X du présent cahier des charges.
 
 Chapitre Ier
 
-Nature, caractéristiques, zone de couverture
+Nature, caractéristiques, zone de couverture, et calendrier
 
-et calendrier de déploiement des services
+de déploiement du réseau et des services
 
-1.1. Services
+1.1. Description, zone de couverture et calendrier
 
-L'opérateur peut fournir le service téléphonique au public sur l'ensemble du territoire métropolitain.
+de déploiement du réseau
+
+L'opérateur peut fournir le service téléphonique au public dans la zone mentionnée à l'article 1er de l'arrêté d'autorisation auquel est annexé le présent cahier des charges.
+
+L'opérateur peut fournir sur son réseau tous services de télécommunications autres que le service téléphonique au public, en application de l'article L. 34-2 du code des postes et des communications électroniques.
+
+Le service de l'opérateur doit permettre aux clients du service téléphonique au public de l'opérateur raccordés directement à son réseau d'établir des communications téléphoniques avec l'ensemble des clients des autres réseaux ouverts au public (sous réserve des restrictions éventuelles, d'acheminement du poste demandeur ou demandé, accès à l'interurbain, à l'international).
+
+De la même façon, un client du service téléphonique au public de l'opérateur raccordé directement au réseau de l'opérateur doit pouvoir être joint par l'ensemble des clients des autres réseaux ouverts au public (sous réserve des restrictions éventuelles d'acheminement du poste demandeur ou demandé, accès à l'interurbain, à l'international).
 
 1.2. Engagement international
 
-L'opérateur respecte les règles définies par la convention de l'UIT, par le règlement des télécommunications internationales, par le règlement des radiocommunications, par les accords internationaux et par la réglementation de la Communauté européenne. Il tient le ministre chargé des télécommunications informé des dispositions qu'il prend en ce domaine.
+L'opérateur respecte les règles définies par la convention de l'UIT, par le règlement des télécommunications internationales, par le règlement des radiocommunications, par les accords internationaux et par la réglementation de la Communauté européenne. Il tient le ministre chargé des télécommunications informés des dispositions qu'il prend en ce domaine.
 
 Chapitre II
 
-Conditions de permanence, de qualité,
+Conditions de permanence, de qualité, de disponibilité et modes d'accès
 
-de disponibilité et modes d'accès
+2.1. Conditions de permanence du réseau et des services
 
-2.1. Conditions de permanence du service
-
-L'opérateur doit prendre les dispositions nécessaires pour assurer de manière permanente et continue l'exploitation du service téléphonique au public et pour qu'il soit remédié aux effets de la défaillance du système dégradant la qualité du service pour l'ensemble ou une partie des clients, dans les délais les plus brefs.
+L'opérateur doit prendre les dispositions nécessaires pour assurer de manière permanente et continue l'exploitation du réseau et du service téléphonique au public et pour qu'il soit remédié aux effets de la défaillance du système dégradant la qualité du service pour l'ensemble ou une partie des clients, dans les délais les plus brefs.
 
 L'opérateur met en oeuvre les protections et redondances nécessaires pour garantir une qualité et une disponibilité de service satisfaisantes.
 
-2.2. Disponibilité et qualité du service
+2.2. Disponibilité et qualité du réseau et des services
 
-L'opérateur met en oeuvre les équipements et les procédures nécessaires afin que les objectifs de qualité de service demeurent au niveau prévu par les normes en vigueur, en particulier au sein de l'UIT et de l'ETSI, notamment pour ce qui concerne les taux de disponibilité et les taux d'erreur de bout en bout.
+L'opérateur met en oeuvre les équipements et les procédures nécessaires, afin que les objectifs de qualité de service demeurent au niveau prévu par les normes en vigueur en particulier au sein de l'UIT et de l'ETSI, notamment pour ce qui concerne les taux de disponibilité et les taux d'erreur de bout en bout.
 
-2.3. Modes d'accès au service
+Dix-huit mois après qu'il a commencé à établir ou exploiter son réseau ou à fournir le service téléphonique au public, il mesure les valeurs des indicateurs de qualité de service conformément à l'annexe III de la directive 98/10/CE du Parlement européen et du Conseil du 26 février 1998 concernant l'application de la fourniture d'un réseau ouvert (ONP) à la téléphonie vocale et l'établissement d'un service universel des télécommunications dans un environnement concurrentiel.
 
-L'opérateur ne peut s'opposer à la connexion, à son service, d'un équipement terminal qui a fait l'objet d'une attestation de conformité.
+L'opérateur communique les résultats de ces mesures à l'Autorité de régulation des communications électroniques et des postes lorsqu'elle les demande.
 
-Lorsque les équipements terminaux ayant fait l'objet de l'attestation de conformité connectés à un réseau ouvert au public perturbent le bon fonctionnement du réseau ou des services de l'opérateur, notamment en raison de leur sous-dimensionnement ou d'une utilisation non conforme à celle pour laquelle l'attestation de conformité a été délivrée, l'opérateur effectue, sans délai, sur demande de l'Autorité de régulation des télécommunications toutes vérifications techniques nécessaires et en informe celle-ci.
+L'Autorité de régulation des communications électroniques et des postes peut demander à l'opérateur de rendre publiques ces informations sous une forme appropriée.
 
-Pour préserver l'intégrité du réseau et le bon fonctionnement des services, l'Autorité de régulation des télécommunications peut adresser une mise en demeure à l'utilisateur de l'équipement terminal concerné l'invitant à prendre toutes mesures pour mettre fin aux perturbations dans un délai déterminé. Si, à l'expiration de ce délai, cet utilisateur ne s'est pas conformé à la mise en demeure, l'Autorité de régulation des télécommunications demande à l'opérateur de suspendre la fourniture du service qui utilise les terminaux à l'origine des perturbations.
+2.3. Modes d'accès au réseau
+
+L'accès du client au réseau de l'opérateur se fera par connexion directe de ses équipements terminaux au réseau de l'opérateur ou via un autre opérateur de boucle locale.
+
+L'opérateur publie les spécifications relatives aux interfaces de son réseau dans les conditions prévues par la décision n° 2000-329 de l'Autorité de régulation des communications électroniques et des postes en date du 5 avril 2000. Ces spécifications sont suffisamment détaillées pour permettre la conception d'équipements terminaux de télécommunications capables d'utiliser tous les services fournis par l'interface correspondante.
+
+L'opérateur ne peut s'opposer à la connexion, à son réseau, d'un équipement conforme.
+
+Est conforme tout équipement ayant fait l'objet d'une évaluation de conformité et qui respecte les exigences essentielles, les spécifications, les marquages et est accompagné des informations prévues par l'article L. 34-9 du code des postes et des communications électroniques et par les textes pris pour son application.
+
+Lorsqu'un équipement conforme, connecté à un réseau ouvert au public, occasionne un dommage grave à un réseau ou des perturbations radioélectriques, ou une atteinte au réseau ou à son fonctionnement, l'opérateur effectue, sans délai, toutes vérifications techniques nécessaires et en communique les résultats à l'Autorité de régulation des communications électroniques et des postes.
+
+Pour préserver l'intégrité du réseau et le bon fonctionnement des services, l'Autorité de régulation des communications électroniques et des postes peut adresser une mise en demeure à l'utilisateur de l'équipement terminal concerné l'invitant à prendre toutes mesures pour mettre fin aux perturbations dans un délai déterminé. Si, à l'expiration de ce délai, cet utilisateur ne s'est pas conformé à la mise en demeure, l'Autorité de régulation des communications électroniques et des postes demande à l'opérateur de suspendre la fourniture du service qui utilise les terminaux à l'origine des perturbations.
+
+Lorsque des équipements non conformes sont connectés au réseau de l'opérateur, l'Autorité de régulation des communications électroniques et des postes peut, sans préjudice d'éventuelles poursuites pénales, demander à l'opérateur de suspendre la fourniture du service à l'utilisateur des équipements concernés.
 
 Chapitre III
 
@@ -80,7 +98,7 @@ Conditions de confidentialité et de neutralité au regard des messages transmis
 
 L'opérateur prend les mesures nécessaires pour garantir la neutralité de ses services vis-à-vis du contenu des messages transmis sur son réseau et le secret des correspondances.
 
-A cet effet, l'opérateur assure ses services sans discrimination, quelle que soit la nature des messages transmis, et prend les dispositions utiles pour assurer l'intégrité des messages.
+A cet effet, l'opérateur assure ses services sans discrimination quelle que soit la nature des messages transmis et prend les dispositions utiles pour assurer l'intégrité des messages.
 
 Conformément à l'article 1er de la loi du 10 juillet 1991 relative au secret des correspondances émises par la voie des télécommunications, il ne peut être porté atteinte à ce secret que par l'autorité publique, dans les cas et conditions posés par la loi.
 
@@ -88,51 +106,71 @@ L'opérateur est tenu de porter à la connaissance de son personnel, et en parti
 
 3.2. Traitement des données à caractère personnel
 
-L'opérateur prend les mesures propres à assurer la protection, l'intégrité et la confidentialité des informations identifiantes qu'il détient et qu'il traite.
+3.2.1. L'opérateur prend les mesures propres à assurer la protection, l'intégrité et la confidentialité des données à caractère personnel qu'il détient et qu'il traite.
 
-En particulier, l'opérateur garantit le droit pour toute personne :
+En particulier, l'opérateur garantit à toute personne physique ou morale le droit :
 
-- de ne pas être mentionnée sur les listes d'abonnés ou d'utilisateurs publiées. L'opérateur assure la gratuité de cette faculté ou, à défaut, subordonne son exercice au paiement d'une somme raisonnable et non dissuasive ;
+- de ne pas être mentionnée sur les listes d'abonnés ou d'utilisateurs publiées. L'exercice de ce droit est gratuit ;
 
-- de s'opposer gratuitement à l'inscription sur ces listes de l'adresse complète de son domicile dans la mesure où les données disponibles permettent de distinguer cet abonné de ses homonymes ainsi que, s'il y a lieu, d'une référence à son sexe ;
+- de ne pas être mentionnée sur les listes d'abonnés ou d'utilisateurs accessibles par un service de renseignements téléphoniques ;
 
-- de s'opposer gratuitement à l'utilisation de données de facturation la concernant par l'opérateur à des fins de prospection commerciale ;
+- de s'opposer gratuitement à la publication et à la communication de l'adresse complète de son domicile, dans la mesure où les données publiées ou communicables permettent de distinguer cette personne de ses homonymes, ainsi que de s'opposer, s'il y a lieu, à l'indication du sexe ;
 
-- d'interdire gratuitement que les informations identifiantes la concernant issues des listes d'abonnés soient utilisées dans des opérations commerciales soit par voie postale, soit par voie de télécommunications, à l'exception des opérations concernant l'activité autorisée et relevant de la relation contractuelle entre l'opérateur et l'abonné ;
+- de recevoir des factures non détaillées et, sur sa demande, des factures détaillées ;
 
-- ainsi que de pouvoir gratuitement obtenir communication des informations identifiantes la concernant et exiger qu'elles soient rectifiées, complétées, clarifiées, mises à jour ou effacées.
+- d'interdire gratuitement que les données à caractère personnel la concernant, issues des listes d'abonnés ou d'utilisateurs, soient employées pour des opérations de prospection directe par voie postale ou par voie de télécommunications, à l'exception des opérations concernant l'activité autorisée et relevant de la relation contractuelle entre l'opérateur et l'abonné ;
 
-L'opérateur est tenu d'exploiter les données à caractère personnel conformément aux finalités déclarées. L'opérateur peut légitimement utiliser, conserver et, le cas échéant, transmettre à des tiers les données collectées dans le cadre de son activité, pour les besoins de la transmission des communications, de la facturation et du paiement des services rendus.
+- d'exercer gratuitement son droit d'accès aux données à caractère personnel la concernant ainsi que son droit de rectification de celles-ci.
 
-L'opérateur permet à tous ses clients de s'opposer gratuitement, appel par appel ou de façon permanente, à l'identification de leur numéro ou de leur nom par le poste appelé. Cette fonction doit être également proposée pour des communications effectuées à partir de cabines téléphoniques publiques. En outre, l'opérateur met en oeuvre un dispositif particulier de suppression de cette fonction pour les raisons liées au fonctionnement des services d'urgence ou à la tranquillité de l'appelé, conformément à la réglementation en vigueur.
+L'opérateur est tenu d'exploiter les données à caractère personnel conformément aux finalités déclarées.
 
-L'opérateur doit prévoir des modalités permettant, à la demande de l'abonné vers lequel les appels sont transférés, d'interrompre le transfert d'appel.
+3.2.2. Lorsque les clients de l'opérateur reçoivent une facturation détaillée, les factures adressées :
 
-Lorsque l'opérateur fait appel à des sociétés de commercialisation de services, il doit veiller, dans les relations contractuelles avec ces sociétés, au respect de ses obligations relatives aux conditions de confidentialité et de neutralité au regard des messages transmis et des informations liées aux communications.
+- comportent un niveau de détail suffisant pour permettre la vérification des montants facturés ;
+
+- ne mentionnent pas les appels gratuits pour l'utilisateur ;
+
+- n'indiquent pas les quatre derniers chiffres des numéros appelés, à moins que le client n'ait expressément demandé que cela soit le cas.
+
+La facturation détaillée est disponible gratuitement pour l'abonné. Toutefois, des prestations supplémentaires peuvent être, le cas échéant, proposées à l'abonné à un tarif raisonnable.
+
+3.2.3. L'opérateur permet à chacun de ses clients de s'opposer gratuitement et par un moyen simple, appel par appel ou de façon permanente (secret permanent), à l'identification de leur ligne par les postes appelés.
+
+Lorsqu'un usager dispose de plusieurs lignes, cette fonction est offerte pour chaque ligne. Cette fonction doit également être proposée pour des communications effectuées à partir de cabines téléphoniques publiques. L'opérateur met en oeuvre un dispositif particulier de suppression de cette fonction pour des raisons liées au fonctionnement des services d'urgence ou à la tranquillité de l'appelé, conformément à la réglementation en vigueur.
+
+Lorsqu'un abonné dispose du secret permanent, l'opérateur lui permet de supprimer cette fonction, appel par appel, gratuitement et par un moyen simple.
+
+3.2.4. L'opérateur informe les abonnés lorsqu'il propose un service d'identification de la ligne appelante ou de la ligne connectée. Il les informe également des possibilités prévues aux deux alinéas suivants.
+
+Dans le cas où l'identification de la ligne appelante est offerte, l'opérateur permet à tout abonné d'empêcher par un moyen simple et gratuit que l'identification de la ligne appelante soit transmise vers son poste. Dans le cas où l'identification de la ligne connectée est offerte, l'opérateur permet à tout abonné d'empêcher par un moyen simple et gratuit l'identification de la ligne connectée auprès de la personne qui appelle.
+
+Dans le cas où l'identification de la ligne appelante est offerte et est indiquée avant l'établissement de l'appel, l'opérateur permet à tout abonné de refuser, par un moyen simple, les appels entrants émanant d'une ligne non identifiée. L'opérateur peut, pour des raisons techniques justifiées, demander à l'Autorité de régulation des communications électroniques et des postes de disposer d'un délai pour la mise en oeuvre de cette fonction.
+
+3.2.5. L'opérateur permet à l'abonné vers lequel des appels sont transférés d'interrompre ou de faire interrompre le transfert d'appel gratuitement et par un moyen simple.
+
+3.2.6. L'opérateur informe tout abonné, préalablement à la souscription du contrat, des droits dont il dispose en application du 2.1 de la présente clause.
+
+Lorsque l'opérateur fait appel à des sociétés de commercialisation de services, il veille, dans les relations contractuelles avec celles-ci, au respect de ses obligations relatives aux conditions de confidentialité et de neutralité au regard des messages transmis et des informations liées aux communications.
 
 3.3. Sécurité des communications
 
-L'opérateur prend toutes les dispositions nécessaires pour assurer la sécurité des communications empruntant son réseau. Il se conforme aux prescriptions techniques en matière de sécurité éventuellement édictées par l'Autorité de régulation des télécommunications selon l'article L. 36-6. Dans ce cadre et à titre confidentiel, l'Autorité de régulation des télécommunications peut se faire communiquer les dispositions prises pour la sécurisation du réseau.
+L'opérateur prend toutes les dispositions nécessaires pour assurer la sécurité des communications empruntant son réseau. Il se conforme aux prescriptions techniques en matière de sécurité éventuellement édictées par l'Autorité de régulation des communications électroniques et des postes selon l'article L. 36-6. Dans ce cadre et à titre confidentiel, l'Autorité de régulation des communications électroniques et des postes peut se faire communiquer les dispositions prises pour la sécurisation du réseau.
 
-L'opérateur informe ses clients des services existants permettant, le cas échéant, de renforcer la sécurité des communications.
+L'opérateur informe ses clients des services existants permettant le cas échéant de renforcer la sécurité des communications.
 
 Chapitre IV
 
-Normes et spécifications des services
+Normes et spécifications du réseau et des services
 
-Les matériels, logiciels et installations utilisés pour la fourniture du service, à l'exception de ceux relatifs à l'interface d'interconnexion pour lesquels s'appliquent les dispositions du chapitre X, sont établis librement par l'opérateur.
+L'opérateur privilégie l'utilisation des normes en vigueur, notamment des normes européennes. Il communique à l'Autorité de régulation des communications électroniques et des postes, à sa demande, les normes auxquelles répondent les équipements qu'il utilise.
 
-L'opérateur privilégie l'utilisation des normes en vigueur, notamment des normes européennes.
-
-L'opérateur communique à l'Autorité de régulation des télécommunications, à sa demande, les normes auxquelles répondent les équipements qu'il utilise.
+L'opérateur communique à l'Autorité de régulation des communications électroniques et des postes, avant leur mise en oeuvre et selon les modalités qu'elle définit, les spécifications techniques détaillées concernant l'interface d'accès au réseau.
 
 Chapitre V
 
-Prescriptions exigées par la défense
+Prescriptions exigées par la défense et la sécurité publique
 
-et la sécurité publique
-
-Conformément aux directives du ministre chargé des télécommunications, responsable au titre de la défense du fonctionnement général des transmissions conformément au décret n° 93-1036 du 2 septembre 1993 relatif à l'organisation des télécommunications en matière de défense, l'opérateur prend les mesures utiles, notamment en prévision des circonstances évoquées aux articles 2 et 6 de l'ordonnance n° 59-147 du 7 janvier 1959 portant sur l'organisation générale de la défense et dans les décrets n° 65-28 du 13 janvier 1965 relatif à l'organisation de la défense civile et n° 83-321 du 20 avril 1983 relatif au pouvoir des préfets en matière de défense non militaire, pour :
+Conformément aux directives du ministre chargé des télécommunications, responsable au titre de la défense du fonctionnement général des transmissions conformément au décret n° 93-1036 du 2 septembre 1993 relatif à l'organisation des télécommunications en matière de défense, l'opérateur prend les mesures utiles, notamment en prévision des circonstances évoquées aux articles 2 et 6 de l'ordonnance n° 59-147 du 7 janvier 1959 portant sur l'organisation générale de la défense et dans les décrets n° 65-28 du 13 janvier 1965 relatif à l'organisation de la défense civile et n° 83-321 du 20 avril 1983 relatif au pouvoir des préfets en matière de défense non militaire pour :
 
 - assurer le fonctionnement régulier de ses installations ;
 
@@ -166,17 +204,15 @@ vers le centre compétent correspondant à la localisation de l'appelant, en fon
 
 Chapitre VI
 
-Contribution de l'opérateur à la recherche
-
-et à la formation en matière de télécommunications
+Contribution de l'opérateur à la recherche et à la formation en matière de télécommunications
 
 L'opérateur doit justifier qu'il a contribué aux missions de recherche et développement et de formation dans le domaine des télécommunications à hauteur d'un montant annuel minimal de 5 % du montant hors taxe de ses investissements d'infrastructures, équipements et logiciels de télécommunications pour l'activité de l'année précédente couverte par l'autorisation.
 
-L'opérateur satisfait à cette obligation par des contributions en nature ou par des contributions financières à des actions de recherche et de développement et de formation favorisant le développement des télécommunications en France, dont une part consacrée à la recherche coopérative ou précompétitive.
+L'opérateur satisfait à cette obligation par des contributions en nature ou par des contributions financières à des actions de recherche et de développement et de formation favorisant le développement des télécommunications dans la Communauté européenne, dont une part consacrée à la recherche coopérative ou précompétitive.
 
-L'opérateur est libre de la répartition de ces sommes, dont il rend compte a posteriori. A cet effet, il présente à l'Autorité de régulation des télécommunications et au ministre chargé des télécommunications un récapitulatif précisant ses actions de promotions et de subventions et ses travaux, études, recherches, développement et formation en matière de télécommunications, notamment ses actions avec des organismes de recherche.
+L'opérateur est libre de la répartition de ces sommes, dont il rend compte a posteriori. A cet effet, il présente à l'Autorité de régulation des communications électroniques et des postes et au ministre chargé des télécommunications un récapitulatif précisant ses actions de promotions et de subventions et ses travaux, études, recherches, développement et formation en matière de télécommunications, notamment ses actions avec des organismes de recherche.
 
-L'Autorité de régulation des télécommunications peut, à la demande de l'opérateur qui présente alors un plan pluriannuel, autoriser la réalisation des dépenses correspondantes sur plusieurs années afin d'assurer une contribution plus régulière sur l'ensemble de la durée de l'autorisation.
+L'Autorité de régulation des communications électroniques et des postes peut, à la demande de l'opérateur qui présente alors un plan pluriannuel, autoriser la réalisation des dépenses correspondantes sur plusieurs années afin d'assurer une contribution plus régulière sur l'ensemble de la durée de l'autorisation.
 
 Chapitre VII
 
@@ -184,11 +220,11 @@ Numérotation
 
 7.1. Modalités d'attribution de ressources en numérotation
 
-L'opérateur utilise les ressources en numérotation qui lui ont été attribuées dans les conditions définies par l'Autorité de régulation des télécommunications. L'attribution de ressources en numérotation à l'opérateur ainsi que toute modification de cette attribution font l'objet d'une décision de l'Autorité de régulation des télécommunications qu'elle rend publique.
+L'opérateur utilise les ressources en numérotation qui lui ont été attribuées dans les conditions définies par l'Autorité de régulation des communications électroniques et des postes. L'attribution de ressources en numérotation à l'opérateur ainsi que toute modification de cette attribution font l'objet d'une décision de l'Autorité de régulation des communications électroniques et des postes qu'elle rend publique.
 
 7.2. Redevances
 
-L'opérateur doit s'acquitter des redevances dues pour les ressources en numérotation attribuées, dans les conditions prévues par les textes en vigueur, notamment l'article L. 34-10 du code des postes et télécommunications et le décret du 27 décembre 1996 modifié relatif aux redevances dues pour les frais de gestion du plan national de numérotation et de contrôle de son utilisation.
+L'opérateur doit s'acquitter des redevances dues pour les ressources en numérotation attribuées, dans les conditions prévues par les textes en vigueur, notamment l'article L. 34-10 du code des postes et des communications électroniques et le décret du 27 décembre 1996 relatif aux redevances dues pour les frais de gestion du plan national de numérotation et de contrôle de son utilisation.
 
 Chapitre VIII
 
@@ -198,15 +234,13 @@ Service universel et services obligatoires
 
 Chapitre IX
 
-Fourniture des informations nécessaires à la constitution
-
-et à la tenue de la liste prévue à l'article L. 35-4
+Fourniture des informations nécessaires à la constitution et à la tenue de la liste prévue à l'article L. 35-4
 
 L'opérateur doit apporter toute son aide dans le cadre de relations continues avec l'entité créée par l'article L. 35-4 pour le bon accomplissement des tâches incombant à l'entité et doit en particulier assurer la transmission de sa liste d'abonnés et le contrôle de la qualité des données transmises.
 
 La transmission s'effectue selon les modalités et la périodicité déterminées par l'entité en matière de formats, de protocoles de communication uniformisés et autres modalités techniques, dans le cadre défini par l'article L. 35-4 et les textes pris pour son application.
 
-La transmission est, dans tous les cas, obligatoire, y compris lorsque l'opérateur souhaite tenir un annuaire universel ou un service de renseignements universel.
+La transmission est dans tous les cas obligatoire y compris lorsque l'opérateur souhaite tenir un annuaire universel ou un service de renseignements universel.
 
 La communication porte sur les données nécessaires pour identifier un abonné particulier et empêcher une confusion entre différents abonnés. Elle comporte au minimum les données suivantes : nom et/ou dénomination sociale, prénom, adresse et coordonnées téléphoniques.
 
@@ -230,15 +264,21 @@ Interconnexion : droits et obligations
 
 10.1. Dispositions générales
 
-Les conventions d'interconnexion conclues par l'opérateur sont communiquées à l'Autorité de régulation des télécommunications dans un délai de dix jours suivant leur conclusion.
+Les conventions d'interconnexion conclues par l'opérateur sont communiquées à l'Autorité de régulation des communications électroniques et des postes à sa demande.
 
-Avant la mise en oeuvre effective de l'interconnexion, les interfaces font l'objet d'essais définis et réalisés conjointement par les deux opérateurs concernés. Ces essais sont réalisés sur site si l'une des parties le demande. Dans le cas où les essais d'interconnexion ne s'effectueraient pas dans des conditions techniques et de délai normales, l'une ou l'autre des parties peut saisir l'Autorité de régulation des télécommunications.
+Avant la mise en oeuvre effective de l'interconnexion, les interfaces font l'objet d'essais définis et réalisés conjointement par les deux opérateurs concernés. Ces essais sont réalisés sur site si l'une des parties le demande. Dans le cas où les essais d'interconnexion ne s'effectueraient pas dans des conditions techniques et de délai normales, l'une ou l'autre des parties peut saisir l'Autorité de régulation des communications électroniques et des postes.
 
-Les interfaces d'interconnexion doivent être conformes aux spécifications techniques adoptées et publiées par l'Autorité de régulation des télécommunications, en application de l'article D. 99-8 du code des postes et télécommunications, en vue de garantir le respect des exigences essentielles et la qualité de bout en bout.
+Les interfaces d'interconnexion doivent être conformes aux spécifications techniques adoptées et publiées par l'Autorité de régulation des communications électroniques et des postes, en application de l'article D. 99-8 du code des postes et des communications électroniques, en vue de garantir le respect des exigences essentielles et la qualité de bout en bout.
 
-Sur demande de l'opérateur, des codes de points sémaphores peuvent lui être attribués par l'Autorité de régulation des télécommunications, dans des conditions transparentes et non discriminatoires.
+Sur demande de l'opérateur, des codes d'identification de réseaux de transmission de données (DNIC) ou des codes de points sémaphores peuvent lui être attribués par l'Autorité de régulation des communications électroniques et des postes, dans des conditions transparentes et non discriminatoires.
 
-10.2. Respect des exigences essentielles
+10.2. Dispositions spécifiques aux opérateurs figurant sur les listes
+
+établies en application des a et b du 7° de l'article L. 36-7
+
+Dans l'hypothèse où l'opérateur vient à figurer sur les listes établies en application des a et b du 7° de l'article L. 36-7 du code des postes et des communications électroniques, le cahier des charges sera modifié afin d'y intégrer les obligations correspondantes et, notamment, de préciser les conditions de publication de son offre technique et tarifaire d'interconnexion.
+
+10.3. Respect des exigences essentielles
 
 L'opérateur prend l'ensemble des mesures, qu'il précise dans ses conventions d'interconnexion, nécessaires pour garantir le respect des exigences essentielles et en particulier :
 
@@ -252,19 +292,17 @@ L'opérateur prend l'ensemble des mesures, qu'il précise dans ses conventions d
 
 L'opérateur identifie les dispositions prises pour garantir le maintien de l'accès aux réseaux et aux services de télécommunications dans des cas de défaillance du réseau ou des cas de force majeure.
 
-Lorsqu'une interconnexion avec un tiers porte gravement atteinte au respect des exigences essentielles, l'opérateur en informe l'Autorité de régulation des télécommunications. Celle-ci peut alors, si cela est nécessaire, autoriser la suspension de l'interconnexion. Elle en informe les parties et fixe alors les conditions de son rétablissement.
+Lorsqu'une interconnexion avec un tiers porte gravement atteinte au bon fonctionnement du réseau de l'opérateur ou au respect des exigences essentielles, l'opérateur, après vérification technique de son réseau, en informe l'Autorité de régulation des communications électroniques et des postes. Celle-ci peut alors, si cela est nécessaire, autoriser la suspension de l'interconnexion. Elle en informe les parties et fixe alors les conditions de son rétablissement.
 
-Lorsque l'opérateur a conclu une convention d'interconnexion avec un autre opérateur, il a l'obligation de l'informer avec un préavis au moins égal à un an, sauf accord mutuel, ou si l'Autorité de régulation des télécommunications en décide autrement, des modifications qui contraignent l'opérateur interconnecté à modifier ou à adapter ses propres installations.
+Lorsque l'opérateur a conclu une convention d'interconnexion avec un autre opérateur, il a l'obligation de l'informer avec un préavis au moins égal à un an, sauf accord mutuel, ou si l'Autorité de régulation des communications électroniques et des postes en décide autrement, des modifications de son réseau qui contraignent l'opérateur interconnecté à modifier ou à adapter ses propres installations.
 
 Chapitre XI
 
-Conditions nécessaires pour assurer
+Conditions nécessaires pour assurer une concurrence loyale
 
-une concurrence loyale
+L'opérateur tient à la disposition de l'Autorité de régulation des communications électroniques et des postes les informations ou documents nécessaires permettant à cette dernière de s'assurer, à sa demande, que la concurrence loyale est respectée sur le marché ou les marchés couverts par la présente autorisation.
 
-L'opérateur tient à la disposition de l'Autorité de régulation des télécommunications les informations ou documents nécessaires permettant à cette dernière de s'assurer, à sa demande, que la concurrence loyale est respectée sur le marché ou les marchés couverts par la présente autorisation.
-
-Le présent chapitre pourra être révisé pour tenir compte de l'évolution de la situation du titulaire au regard des conditions d'exercice de la concurrence sur le marché ou les marchés couverts par la présente autorisation. Si l'opérateur le demande, ces modifications peuvent comprendre une disposition précisant un délai à l'expiration duquel elles s'appliqueront.
+Le présent chapitre pourra être révisé pour tenir compte de l'évolution de la situation de l'opérateur au regard des conditions d'exercice de la concurrence sur le marché ou les marchés couverts par la présente autorisation. Si l'opérateur le demande, ces modifications peuvent comprendre une disposition précisant un délai à l'expiration duquel elles s'appliqueront.
 
 Chapitre XII
 
@@ -272,35 +310,33 @@ Conditions nécessaires pour assurer l'équivalence de traitement des opérateur
 
 L'opérateur est tenu de répondre, dans les conditions fixées par l'article L. 34-8, aux demandes d'interconnexion émanant d'opérateurs autorisés dans les pays offrant l'équivalence de traitement.
 
-L'équivalence de traitement se traduit dans un pays par l'existence de droits d'accès au marché et d'interconnexion équivalents à ceux reconnus par la réglementation française. L'équivalence de traitement est assurée de plein droit pour les pays appartenant à l'Espace économique européen et, pour les autres pays, est appréciée par le ministre chargé des télécommunications sur proposition de l'Autorité de régulation des télécommunications, en fonction notamment des accords internationaux en vigueur.
+L'équivalence de traitement se traduit dans un pays par l'existence de droits d'accès au marché et d'interconnexion équivalant à ceux reconnus par la réglementation française. L'équivalence de traitement est assurée de plein droit pour les pays appartenant à l'Espace économique européen et, pour les autres pays, est appréciée par le ministre chargé des télécommunications sur proposition de l'Autorité de régulation des communications électroniques et des postes, en fonction notamment des accords internationaux en vigueur.
 
-Pour l'acheminement du trafic international en provenance ou à destination d'un pays où l'équivalence de traitement n'est pas assurée, l'opérateur prend toute disposition utile pour garantir l'absence de discrimination entre lui et ses concurrents, notamment dans la détermination des taux de retour du trafic et des taxes de répartition appliqués par les opérateurs de ce pays. Il informe l'Autorité de régulation des télécommunications de toutes mesures prises à cet effet et de toutes difficultés éventuelles rencontrées dans la recherche de cet objectif.
+Pour l'acheminement du trafic international en provenance ou à destination d'un pays où l'équivalence de traitement n'est pas assurée, l'opérateur prend toute disposition utile pour garantir l'absence de discrimination entre lui et ses concurrents, notamment dans la détermination des taux de retour du trafic et des taxes de répartition appliqués par les opérateurs de ce pays. Il informe l'Autorité de régulation des communications électroniques et des postes de toutes mesures prises à cet effet et de toutes difficultés éventuelles rencontrées dans la recherche de cet objectif.
 
 Lorsque :
 
-- l'opérateur achemine du trafic téléphonique international en provenance ou à destination de pays où l'équivalence de traitement n'est pas assurée, soit directement, soit par l'intermédiaire d'un pays n'appartenant pas à l'Espace économique européen,
+- l'opérateur achemine du trafic téléphonique international en provenance ou à destination de pays où l'équivalence de traitement n'est pas assurée, soit directement, soit par l'intermédiaire d'un pays n'appartenant pas à l'Espace économique européen ;
 
-- et que l'Autorité de régulation des télécommunications constate, pour le trafic téléphonique entre la France et ce pays, que l'égalité des conditions de concurrence ne peut être préservée au bénéfice des autres opérateurs autorisés,
+- et que l'Autorité de régulation des communications électroniques et des postes constate, pour le trafic téléphonique entre la France et ce pays, que l'égalité des conditions de concurrence ne peut être préservée au bénéfice des autres opérateurs autorisés,
 
-l'opérateur peut être tenu, sur demande de l'Autorité de régulation des télécommunications, d'offrir aux opérateurs autorisés, en application des articles L. 33-1 et L. 34-1, l'accès aux infrastructures de transmission et de commutation utilisées pour l'acheminement du trafic concerné, dans des conditions propres à rétablir l'égalité des conditions de concurrence. Les dispositions des articles L. 34-8 et L. 36-8 s'appliquent aux demandes formulées par les autres opérateurs et aux accords conclus dans ce cadre.
+l'opérateur peut être tenu, sur demande de l'Autorité de régulation des communications électroniques et des postes, d'offrir aux opérateurs autorisés en application des articles L. 33-1 et L. 34-1 l'accès aux infrastructures de transmission et de commutation utilisées pour l'acheminement du trafic concerné, dans des conditions propres à rétablir l'égalité des conditions de concurrence. Les dispositions des articles L. 34-8 et L. 36-8 s'appliquent aux demandes formulées par les autres opérateurs et aux accords conclus dans ce cadre.
 
 L'application de la présente clause s'effectue dans le respect des engagements internationaux souscrits par la France.
 
 Chapitre XIII
 
-Conditions nécessaires pour assurer
+Conditions nécessaires pour assurer l'interopérabilité des services
 
-l'interopérabilité des services
-
-L'opérateur se conforme en particulier aux prescriptions techniques arrêtées par l'Autorité de régulation des télécommunications dans les conditions prévues à l'article L. 36-6 (3°) du code des postes et télécommunications et applicables au réseau et aux services fournis sur ce réseau en vue de garantir leur interopérabilité. L'opérateur se conforme également aux conditions d'interconnexion définies au chapitre X qui garantissent l'interopérabilité des services.
+L'opérateur se conforme en particulier aux prescriptions techniques arrêtées par l'Autorité de régulation des communications électroniques et des postes dans les conditions prévues à l'article L. 36-6 (3°) du code des postes et des communications électroniques et applicables au réseau et aux services fournis sur ce réseau en vue de garantir leur interopérabilité. L'opérateur se conforme également aux conditions d'interconnexion définies au chapitre X, qui garantissent l'interopérabilité des services.
 
 Chapitre XIV
 
 Obligations permettant le contrôle du cahier des charges
 
-par l'Autorité de régulation des télécommunications
+par l'Autorité de régulation des communications électroniques et des postes
 
-L'opérateur doit fournir à l'Autorité de régulation des télécommunications des éléments chiffrés relatifs à l'exploitation de son réseau dans les domaines financiers, commerciaux et techniques. Il s'engage notamment à communiquer à l'Autorité de régulation des télécommunications les informations suivantes :
+L'opérateur doit fournir à l'Autorité de régulation des communications électroniques et des postes des éléments chiffrés relatifs à l'exploitation de son réseau dans les domaines financiers, commerciaux et techniques. Il s'engage notamment à communiquer à l'Autorité de régulation des communications électroniques et des postes les informations suivantes :
 
 Sans délai :
 
@@ -316,23 +352,25 @@ Avant leur mise en oeuvre :
 
 - tarifs et conditions générales de l'offre ;
 
-Selon une périodicité qui sera définie par décision de l'Autorité de régulation des télécommunications :
+Selon une périodicité qui sera définie par décision de l'Autorité de régulation des communications électroniques et des postes :
 
 - les données de trafic et de chiffre d'affaires ;
 
-- les informations relatives à l'utilisation qualitative et quantitative des ressources attribuées par l'Autorité de régulation des télécommunications, notamment fréquences et numéros ;
+- les informations relatives à l'utilisation qualitative et quantitative des ressources attribuées par l'Autorité de régulation des communications électroniques et des postes, notamment fréquences et numéros ;
 
 - les informations nécessaires au calcul des contributions au financement du service universel ;
 
 - les données relatives à la qualité de service, notamment au regard des indicateurs pertinents permettant de l'apprécier, et aux conventions d'acheminement de trafic signées avec un opérateur français ou étranger ;
 
-Dès leur conclusion :
+A la demande de l'Autorité de régulation des communications électroniques et des postes :
 
-- l'ensemble des conventions d'interconnexion.
+- l'ensemble des conventions d'interconnexion ;
 
-Lorsque l'opérateur fait appel contractuellement à des sociétés de commercialisation de services, il doit veiller, dans ses relations contractuelles avec ces sociétés, au respect de ses engagements au regard des informations à transmettre à l'Autorité de régulation des télécommunications.
+- les accords relatifs à l'accès spécial au réseau.
 
-A la demande de l'Autorité de régulation des télécommunications motivée au titre de l'exercice de l'une de ses compétences, l'opérateur fournit d'autres informations nécessaires qui sont traitées dans le respect du secret des affaires, et notamment :
+Lorsque l'opérateur fait appel contractuellement à des sociétés de commercialisation de services, il doit veiller, dans ses relations contractuelles avec ces sociétés, au respect de ses engagements au regard des informations à transmettre à l'Autorité de régulation des communications électroniques et des postes.
+
+A la demande de l'Autorité de régulation des communications électroniques et des postes motivée au titre de l'exercice de l'une de ses compétences, l'opérateur fournit d'autres informations nécessaires qui sont traitées dans le respect du secret des affaires, et notamment :
 
 - les contrats entre l'opérateur et les distributeurs, revendeurs ou sociétés de commercialisation ;
 
@@ -342,19 +380,17 @@ A la demande de l'Autorité de régulation des télécommunications motivée au 
 
 - les contrats avec les clients ;
 
-- toute information nécessaire à l'instruction par l'Autorité de régulation des télécommunications des demandes de conciliation en vue de régler les litiges entre opérateurs, conformément aux dispositions de l'article L. 36-9 ;
+- toute information nécessaire à l'instruction par l'Autorité de régulation des communications électroniques et des postes des demandes de conciliation en vue de régler les litiges entre opérateurs conformément aux dispositions de l'article L. 36-9 ;
 
 - les contrats avec les opérateurs des pays tiers ;
 
 - toute information nécessaire pour vérifier le respect de l'égalité des conditions de concurrence, et notamment les conventions ou contrats conclus entre les filiales de l'opérateur, les sociétés appartenant au même groupe ou des branches d'activité de l'opérateur distinctes de celles couvertes par la présente autorisation.
 
-L'Autorité de régulation des télécommunications peut exercer un contrôle du respect des conditions de l'autorisation. Ce contrôle s'effectue dans les conditions définies par le code des postes et télécommunications, et notamment les articles L. 32-4 et L. 36-13.
+L'Autorité de régulation des communications électroniques et des postes peut exercer un contrôle du respect des conditions de l'autorisation. Ce contrôle s'effectue dans les conditions définies par le code des postes et des communications électroniques et notamment les articles L. 32-4 et L. 36-13.
 
 Chapitre XV
 
-Taxes dues pour la délivrance, la gestion
-
-et le contrôle de l'autorisation
+Taxes dues pour la délivrance, la gestion et le contrôle de l'autorisation
 
 L'opérateur doit acquitter les taxes de constitution de dossier, de gestion et de contrôle dont les montants et les modalités sont précisés dans les lois de finances.
 
@@ -370,29 +406,33 @@ Le service fourni dans le cadre de la présente autorisation tel que décrit dan
 
 L'opérateur informe le public sur :
 
-- les conditions générales et contractuelles de fourniture du service fourni dans le cadre de la présente autorisation, y compris celles relatives à la qualité de service ;
+- les conditions générales et contractuelles de fourniture du service fourni dans le cadre de la présente autorisation, qui précisent les conditions de renouvellement des contrats ainsi que, le cas échéant, toute durée contractuelle minimale y compris celles relatives à la qualité de service ;
 
 - les tarifs de ses offres, y compris les formules de réductions tarifaires.
 
-Il met à disposition ces informations, tenues à jour, dans ses points de vente et par un moyen téléphonique ou électronique accessible en temps réel à un tarif raisonnable.
+Il met à disposition ces informations, tenues à jour, dans ses points de vente et par un moyen téléphonique ou électronique accessible gratuitement en temps réel.
 
-L'opérateur communique ces informations à l'Autorité de régulation des télécommunications avant de les porter à la connaissance du public.
+L'opérateur communique ces informations à l'Autorité de régulation des communications électroniques et des postes avant de les porter à la connaissance du public.
 
 16.3. Contrats
+
+Les contrats respectent les dispositions de la loi du 10 janvier 1978 modifiée sur la protection et l'information des consommateurs et ne contiennent pas de clause contraire au code des postes et des communications électroniques ou aux dispositions prises pour son application.
 
 Les contrats conclus avec les utilisateurs pour la fourniture du service téléphonique au public précisent au minimum :
 
 - les conditions générales d'offres, notamment les délais de fourniture et les caractéristiques techniques du service et les types de services de maintenance offerts ;
 
+- des informations sur les niveaux de qualité de service offerts ;
+
 - les compensations accordées par l'opérateur à l'utilisateur en cas de manquement aux exigences de qualité précisées au chapitre II du présent cahier des charges ;
 
 - les procédures de recours et d'indemnisation dont dispose l'utilisateur en cas de préjudice qu'il subit dont les conditions de traitement amiable des litiges ;
 
-- les conditions d'interruption du service, en cas de factures impayées, après mise en demeure de l'abonné.
+- les conditions d'interruption du service, en cas de factures impayées, après mise en demeure de l'abonné. Sauf en cas de fraude, de retard ou de défaut de paiement persistants, ces conditions prévoient, lorsque cela est techniquement possible, que seul le service pour lequel des factures sont restées impayées est interrompu.
 
 Chaque utilisateur reçoit les contrats conclus avec l'opérateur pour les prestations qu'il souscrit.
 
-Les conditions contractuelles sont communiquées, sur demande, à l'Autorité de régulation des télécommunications.
+Les conditions contractuelles sont communiquées, sur demande, à l'Autorité de régulation des communications électroniques et des postes.
 
 16.4. Mode de commercialisation des services offerts
 
