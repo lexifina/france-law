@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980609317
+
+- Question : [SEQ980609317](seq980609317.md) — Guyane : création d'un second tribunal de grande instance à Saint-Laurent-du-Maroni
+
+## Réponse
+
+*Justice, JO du 1998-10-22, page 3371*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire qu'aucune décision de création de juridiction n'a été décidée en l'état. En effet, dans la ligne des orientations fixées par le Premier ministre, madame la ministre de la justice a engagé une réforme d'ensemble de la justice, qu'elle a présenté lors du conseil des ministres le 29 octobre 1997, visant à moderniser le fonctionnement des juridictions et à faciliter l'accès des citoyens au droit et leur accueil dans les tribunaux. A cet égard, l'évolution de la carte judiciaire constitue un élément essentiel de cette réforme et doit être conduite en tenant compte des réalités locales, des évolutions démographiques et des temps de transport. Les solutions de proximité et la spécialisation des juridictions doivent, en même temps, être privilégiées. C'est dans cet esprit que madame la ministre a nommé, auprès du directeur des services judiciaires, un délégué à la réforme de la carte judiciaire qui, avec le concours de professionnels qualifiés aux compétences diversifiées, sera chargé de formuler, à partir des résultats de la consultation et de déplacements dans les ressorts, des propositions permettant de rendre plus simples, plus compréhensibles et plus efficaces les implantations judiciaires. En tout état de cause, les décisions à intervenir seront préalablement soumises à une large concertation associant, outre les magistrats et les professions de justice, les élus et les autorités locales concernés. En tout état de cause, l'honorable parlementaire peut être assuré que l'implantation des juridictions dans le département de la Guyane et notamment à Saint-Laurent-du-Maroni sera examinée attentivement.
