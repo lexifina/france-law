@@ -62,6 +62,18 @@ Bacteroides fragilis |
 
 |
 
+Bartonella (Rochalimaea) spp. |
+
+2 |
+
+|
+
+Bartonella quintana (Rochalimaea quintana) |
+
+2 |
+
+|
+
 Bordetella bronchiseptica |
 
 2 |
@@ -123,6 +135,18 @@ Brucella melitensis 1 |
 |
 
 Brucella suis |
+
+3 |
+
+|
+
+Burkholderia mallei (Pseudomonas mallei) |
+
+3 |
+
+|
+
+Burkholderia pseudomallei (Pseudomonas mallei) |
 
 3 |
 
@@ -283,6 +307,12 @@ Escherichia coli (à l'exception des souches non pathogènes) |
 2 |
 
 |
+
+Escherichia coli, souches cytotoxiques (par exemple : 0157 : H7 ou 0103) |
+
+3 |
+
+T (*) |
 
 Flavobacterium meningosepticum |
 
@@ -506,6 +536,18 @@ Mycobacterium xenopi |
 
 |
 
+Mycoplasma caviae |
+
+2 |
+
+|
+
+Mycoplasma hominis |
+
+2 |
+
+|
+
 Mycoplasma pneumoniae |
 
 2 |
@@ -632,18 +674,6 @@ Pseudomonas aeruginosa |
 
 |
 
-Pseudomonas mallei |
-
-3 |
-
-|
-
-Pseudomonas pseudomallei |
-
-3 |
-
-|
-
 Rhodococcus equi |
 
 2 |
@@ -704,12 +734,6 @@ Rickettsia spp. |
 
 |
 
-Rochalimaea quintana |
-
-2 |
-
-|
-
 Salmonella arizonae |
 
 2 |
@@ -753,6 +777,12 @@ Serpulina spp. |
 |
 
 Shigella boydii |
+
+2 |
+
+|
+
+Shigella dysenteriae (autre que le type 1) |
 
 2 |
 
@@ -896,9 +926,9 @@ Adenoviridae |
 
 Arenaviridae : |
 
-Virus Junin |
+Complexe de la chorioméningite lymphocytaire-Lassa (arénavirus ancien monde) : |
 
-4 |
+|
 
 |
 
@@ -920,19 +950,55 @@ Virus de la chorioméningite lymphocytaire (autres souches) |
 
 |
 
+Virus Mopeia |
+
+2 |
+
+|
+
+Autres complexes de la chorioméningite lymphocytaire-Lassa |
+
+2 |
+
+|
+
+Complexe Tacaribe (arénavirus nouveau monde) : |
+
+|
+
+|
+
+Virus Guanarito |
+
+4 |
+
+|
+
+Virus Junin |
+
+4 |
+
+|
+
+Virus Sabia |
+
+4 |
+
+|
+
 Virus Machupo |
 
 4 |
 
 |
 
-Virus Mopeia et virus du complexe Tacaribe |
+Virus Flexal |
 
-2 |
+3 |
 
 |
 
-Astroviridae |
+Autres complexes Tacaribe |
 
 2 |
 
@@ -940,7 +1006,25 @@ Astroviridae |
 
 Bunyaviridae : |
 
+Virus Belgrade (également appelé Dobrava) |
+
+3 |
+
+|
+
+Virus Bhanja |
+
+2 |
+
+|
+
 Virus Bunyamwera |
+
+2 |
+
+|
+
+Virus Germiston |
 
 2 |
 
@@ -955,6 +1039,12 @@ Virus Oropouche |
 Virus de l'encéphalite de Californie |
 
 2 |
+
+|
+
+Virus Sir Nombre (anciennement Muerto Canyon) |
+
+3 |
 
 |
 
@@ -1049,6 +1139,12 @@ Coronaviridae |
 2 |
 
 |
+
+Virus de l'hépatite E |
+
+3 |
+
+(*) |
 
 Filoviridae : |
 
@@ -1186,6 +1282,12 @@ Autres Flavivirus connus pour être pathogènes |
 
 |
 
+Virus de l'hépatite G |
+
+3 |
+
+(*) |
+
 Hepadnaviridae : |
 
 Virus de l'hépatite B |
@@ -1203,6 +1305,18 @@ V (*) (b) |
 Herpesviridae : |
 
 Cytomégalovirus |
+
+2 |
+
+|
+
+Herpesvirus hominis 7 |
+
+2 |
+
+|
+
+Herpesvirus hominis 8 |
 
 2 |
 
@@ -1590,25 +1704,37 @@ Toroviridae : |
 
 Virus non classés : |
 
-Virus d'hépatites à transmission sanguine non encore identifiés |
+Morbillivirus équin |
+
+4 |
+
+|
+
+Virus d'hépatites non encore identifiés |
 
 3 |
 
 (*) |
 
-Virus de l'hépatite E |
-
-3 |
-
-(*) |
-
-Agents non classiques associés avec les affections suivantes : (h) |
+Agents non classiques associés avec les encéphalopathies spongiformes transmissibles (EST) : |
 
 Maladie de Creutzfeldt-Jakob |
 
 3 |
 
 (*) |
+
+Variante de la maladie de Creutzfeld-Jakob |
+
+3 |
+
+(*) |
+
+Encéphalopathie spongiforme bovine (ESB) et autres EST animales associées |
+
+3 |
+
+(*) (h) |
 
 Syndrome de Gerstman-Sträussler-Scheinker |
 
@@ -2074,6 +2200,18 @@ Candida albicans |
 
 A |
 
+Candida tropicalis |
+
+2 |
+
+|
+
+Cladophialophora bantiana (anciennement Xylohypha bantiana, Cladosporium bantianum ou trichoïdes) |
+
+3 |
+
+|
+
 Coccidioides immitis |
 
 3 |
@@ -2170,6 +2308,18 @@ Penicillium marneffei |
 
 A |
 
+Scedosporium apiospertnum (Pseudallescheria boydii) |
+
+2 |
+
+|
+
+Scedosporium prolificans (inflatum) |
+
+2 |
+
+|
+
 Sporothrix schenckii |
 
 2 |
@@ -2246,4 +2396,4 @@ Il n'existe actuellement aucune preuve de maladie de l'homme par les autres rét
 
 (h) |
 
-Bien qu'il n'y ait pas de preuve concernant l'existence chez l'homme d'infections dues aux agents responsables de l'encéphalite bovine spongiforme, le niveau de confinement 2 est recommandé comme mesure de protection pour les travaux en laboratoire. |
+Il n'y a pas de preuve concernant l'existence chez l'homme d'infections dues aux agents responsables d'autres EST animales. Néanmoins, les mesures de confinement des agents classés dans le groupe de risque 3 (*) sont recommandées par précaution pour les travaux en laboratoire, à l'exception des travaux en laboratoire portant sur un agent identifié de tremblante du mouton, pour lequel le niveau de confinement 2 est suffisant. |
