@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970119913
+
+- Question : [SEQ970119913](seq970119913.md) — Suppression de l'aide aux chômeurs créateurs ou repreneurs d'entreprises (ACCRE)
+
+## Réponse
+
+*Économie, JO du 1997-03-27, page 956*
+
+Réponse. - La loi de finances pour 1997 a prévu la suppression, à compter du 1er janvier 1997, de l'aide financière accordée jusqu'alors par l'Etat aux demandeurs d'emploi qui créent leur activité. Toutefois, une exonération temporaire de charges sociales continuera de pouvoir être accordée aux projets dont la réalité, la consistance et la viabilité paraîtront le mieux assurées. Par ailleurs, l'Etat financera l'amélioration de la formation des chefs d'entreprises grâce à la formule des chèques-conseil. La loi de finances pour 1997 prévoit de plus de maintenir, au profit des bénéficiaires de minima sociaux (revenu minimum d'insertion, allocation de solidarité spécifique) qui souhaiteraient créer leur emploi, le versement de ces minima pendant les six premiers mois de leur nouvelle activité. Il s'agit là d'un effort sensible qui complète le soutien de l'Etat à l'initiative individuelle, y compris celle de nos concitoyens les moins favorisés. Enfin, la création d'entreprise devrait être facilitée à l'avenir grâce à l'intervention de la nouvelle banque des petites et moyennes entreprises dont le Gouvernement a décidé la mise en place. Celle-ci aura pour mission de faciliter le financement des entreprises et d'aider ainsi à l'émergence de leurs projets. D'une manière générale, le Gouvernement est convaincu qu'une politique déterminée de réduction des dépenses et des déficits publics accompagnant l'allégement des prélèvements obligatoires permettra d'établir les conditions d'une croissance saine et durable qui est le meilleur moyen de favoriser les créations d'entreprises.
