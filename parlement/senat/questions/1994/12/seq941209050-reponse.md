@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941209050
+
+- Question : [SEQ941209050](seq941209050.md) — Cumul pension de retraite et pension de réversion
+
+## Réponse
+
+*Affaires sociales, JO du 1995-02-02, page 259*
+
+Réponse. - Le Gouvernement est particulièrement sensible aux difficultés que peuvent rencontrer les conjoints survivants, et notamment ceux qui n'ont pas de droits personnels à la retraite ou qui perçoivent une pension de vieillesse de faible montant. C'est pourquoi il a décidé de revaloriser le taux des pensions de réversion du régime général, de celui des salariés agricoles et des régimes des commerçants, industriels et artisans, progressivement de 52 à 60 p. 100. Ainsi, dès le 1er janvier 1995, le taux servant à calculer le montant des pensions de réversion a été porté à 54 p. 100. Dans un souci d'équité, le bénéfice de cette mesure a été étendu aux personnes déjà titulaires d'un avantage de réversion. Le montant des pensions actuellement servies a été majoré de 3,84 p. 100 à la même date. Par ailleurs, la pension de réversion est attribuée sous conditions de ressources. En outre, cette pension ne peut se cumuler avec des avantages personnels de vieillesse ou d'invalidité que dans la limite de 52 p. 100 du total de ces avantages et de la pension de l'assuré décédé, cette limite ne pouvant toutefois être inférieure à 73 p. 100 du montant maximum de la pension de vieillesse du régime général. Compte tenu du coût de la mesure et de la volonté d'aider en priorité les titulaires des pensions les plus faibles, il a été décidé de ne pas modifier ce mode de calcul. Il n'a, en effet, pas été possible, au vu des difficultés des comptes sociaux et de la volonté du Gouvernement d'arriver à un retour à l'équilibre financier, d'aller au-delà de cet important effort, dont le coût annuel sera, au terme du calendrier de mise en oeuvre, de l'ordre de 2 milliards de francs pour le régime général.
