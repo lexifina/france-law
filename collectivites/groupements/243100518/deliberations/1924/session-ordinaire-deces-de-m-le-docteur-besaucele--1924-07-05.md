@@ -1,0 +1,7 @@
+# Toulouse métropole : délibération — Session ordinaire. Décès de M. le docteur Besaucèle ancien conseiller municipal. Condoléances p. 132
+
+- Collectivité : Toulouse métropole
+- SIREN : 243100518
+- Date : 1924-07-05
+- Objet : Session ordinaire. Décès de M. le docteur Besaucèle ancien conseiller municipal. Condoléances p. 132
+- Jeu de données : https://www.data.gouv.fr/datasets/56b0c2c1a3a7294d39b88a5b
