@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970220269
+
+- Question : [SEQ970220269](seq970220269.md) — Environnement
+
+## Réponse
+
+*Environnement, JO du 1997-04-10, page 1128*
+
+Réponse. - Le ministre de l'environnement a pris connaissance avec intérêt de la question posée par l'honorable parlementaire concernant le régime juridique des carrières. La loi n° 93-3 du 4 janvier 1993 a prévu que toute demande d'exploitation de carrières, au sens du décret n° 94-485 du 9 juin 1994 modifiant la nomenclature des installations classées, serait soumise à autorisation. Sont ainsi considérées comme exploitations de carrières les extractions qui ont pour vocation première la production de matériaux en vue de leur utilisation. Ces dispositions ont été votées notamment pour mettre fin au régime déclaratif et aux dispenses d'enquêtes publiques que permettait l'ancien système. La multitude d'exploitation de petite taille, dont le produit est destiné à l'entretien des voiries communales, des bâtiments publics ou encore à l'amendement agricole, a eu dans certaines régions un impact tout aussi important que les carrières industrielles compte tenu : de la destruction de zones écologiques intéressantes ; des atteintes au paysage ; de l'absence de remise en état des lieux ; de la transformation des carrières en dépôts non contrôlés de déchets. La loi prévoit donc que l'ouverture d'une carrière, quelle que soit la substance à extraire, est soumise à autorisation préfectorale. Le pétitionnaire doit notamment présenter une étude d'impact et constituer des garanties financières. Le contenu de l'étude d'impact et le montant des garanties financières sont en rapport avec l'importance de la carrière et la sensibilité du milieu, ce qui signifie qu'en l'espèce le dossier de demande d'autorisation peut être relativement simple et d'un coût modeste.
