@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970802417
+
+- Question : [SEQ970802417](seq970802417.md) — Bilan des retards sur les lignes aériennes intérieures françaises
+
+## Réponse
+
+*Équipement, JO du 1997-12-25, page 3659*
+
+Réponse. - L'honorable parlementaire a souhaité obtenir des informations précises quant à la qualité de service des vols effectués par le groupe Air France, et, en particulier, celle des vols desservant Clermont-Ferrand au départ d'Orly. S'agissant de la ponctualité, ligne par ligne, de l'ensemble des vols intérieurs exploités par l'ex-Air France Europe, figure en annexe un relevé précis portant sur la période d'avril à septembre 1997 en distinguant le pourcentage des vols à l'heure à trois minutes et quinze minutes près. En ce qui concerne l'éventuelle disparité de traitement des vols domestiques évoquée par l'honorable parlementaire, les statistiques, du 1er avril au 31 juillet 1997, des avions traités au contact à l'atterrissage et au décollage d'Orly, c'est-à-dire sans qu'un transport par car soit nécessaire, sont les suivantes :( NOTA Voir tableau page 3659 ). D'après la compagnie, les taux de contact moyens plus élevés observés pour les vols exploités sous forme de navettes trouvent leur justification dans la contrainte purement technique de réaliser un temps de demi-tour de 35 minutes en escale. Enfin, l'attention de l'honorable parlementaire est appelée sur les termes de la lettre de mission adressée par le Gouvernement au nouveau président de la compagnie nationale Air France, lettre qui stipule que celui-ci devra veiller à renforcer la qualité et l'efficacité du réseau domestique de la compagnie dans le cadre de choix économiques qu'il lui appartiendra d'apprécier.Pourcentage de vols à l'horaire par ligne ( NOTA Voir tableau page 3659 ). ( NOTA Voir tableau page 3659 ).
