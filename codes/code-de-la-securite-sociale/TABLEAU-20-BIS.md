@@ -1,17 +1,29 @@
-# Article TABLEAU 20 BIS
+# Article Annexe II : Tableau n° 20 BIS
+
+CANCER BRONCHIQUE PRIMITIF PROVOQUE PAR L'INHALATION DE POUSSIERES OU DE VAPEURS ARSENICALES.
 
 Date de création : 23 juin 1985.
 
-Dernière mise à jour : - DESIGNATION DES MALADIES :
+DÉSIGNATION DES MALADIES
 
-Cancer bronchique primitif
+|
 
-DELAI DE PRISE EN CHARGE : 40 ans
+DÉLAI DE prise en charge
 
-LISTE INDICATIVE DES TRAVAUX SUSCEPTIBLES DE PROVOQUER CETTE MALADIE :
+|
 
-Travaux de pyro-métallurgie exposant à l'inhalation de poussières ou de vapeurs arsenicales.
+LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES de provoquer cette maladie »
 
-Travaux de fabrication et de conditionnement de l'anhydride arsénieux.
+|
 
-Fabrication de pesticides arsenicaux à partir de composés inorganiques pulvérulents de l'arsenic.
+Cancer bronchique primitif.
+
+|
+
+40 ans
+
+|
+
+Travaux de pyro-métallurgie exposant à l'inhalation de poussières ou de vapeurs arsenicales. Travaux de fabrication et de conditionnement de l'anhydride arsénieux. Fabrication de pesticides arsenicaux à partir de composés inorganiques pulvérulents de l'arsenic.
+
+|

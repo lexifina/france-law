@@ -1,12 +1,8 @@
-# Article TABLEAU 52
-
-Date de création : 9 novembre 1972.
-
-Dernière mise à jour : 6 février 1983.
+# Article Annexe II tableau 52
 
 DESIGNATION DES MALADIES :
 
-Troubles angioneurotiques des doigts et des orteils
+Troubles angioneurotiques des doigts et des orteils.
 
 DELAI DE PRISE EN CHARGE : 5 ans
 
@@ -19,6 +15,18 @@ DELAI DE PRISE EN CHARGE : 3 ans
 DESIGNATION DES MALADIES :
 
 Angiosarcome
+
+. DELAI DE PRISE EN CHARGE : 30 ans
+
+: :
+
+DESIGNATION DES MALADIES :
+
+Syndrome d'hypertension portale spécifique :
+
+- soit avec varices oesophagiennes, splénomégalie et thrombocytopénie ;
+
+- soit avec fibrose ou dysplasie des cellules endothéliales
 
 DELAI DE PRISE EN CHARGE : 30 ans
 

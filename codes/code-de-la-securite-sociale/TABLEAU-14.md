@@ -1,75 +1,71 @@
-# Article TABLEAU 14
+# Article Annexe II : Tableau n° 14
+
+AFFECTIONS PROVOQUEES PAR LES DERIVES NITRES DU PHENOL (DINITROPHENOLS, DINITRO-ORTHOCRESOLS, DINOSEB), PAR LE PENTACHLOROPHéNOL, LES PENTACHLOROPHENATES ET PAR LES DERIVES HALOGENES DE L'HYDROXYBENZONITRILE (BROMOXYRIL, IOXYNIL)
 
 Date de création : 14 décembre 1938.
 
-Dernière mise à jour : 23 juin 1985
+Dernière mise à jour : 23 juin 1985.
 
-DESIGNATION DES MALADIES :
+DÉSIGNATION DES MALADIES
 
-A - Intoxication suraiguë avec hyperthermie oedème pulmonaire, éventuellement atteinte hépatique, rénale et myocardique
+|
 
-DELAI DE PRISE EN CHARGE : 3 jours
+DÉLAI DE prise en charge
 
-DESIGNATION DES MALADIES :
+|
 
-B - Intoxication aiguë ou subaiguë avec asthénie, amaigrissement rapide, hypersudation suivie d'hyperthermie avec gêne respiratoire
+LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies
 
-DELAI DE PRISE EN CHARGE : 7 jours
+|
 
-DESIGNATION DES MALADIES :
+A. - Intoxication suraiguë avec hyperthermie, oedème pulmonaire, éventuellement atteinte hépatique, rénale et myocardique.
 
-C - Manifestations digestives (douleurs abdominales, vomissements, diarrhées) associées à la présence du toxique ou de ses métabolites dans le sang ou les urines
+|
 
-DELAI DE PRISE EN CHARGE : 7 jours
+3 jours
 
-DESIGNATION DES MALADIES :
+|
 
-D - Irritation des voies aériennes supérieures et conjonctivites
+Préparation, emploi, manipulation des dérivés nitrés du phénol (dinitrophénols, dinitro-orthocrésol, dinoseb, leurs homologues et leurs sels) notamment : - fabrication des produits précités. - fabrication de matières colorantes au moyen des produits précités ; - préparation et manipulation d'explosifs renfermant l'un ou l'autre des produits précités ; - travaux de désherbage utilisant les produits précités ; - travaux antiparasitaires entraînant la manipulation de ces produits précités. Préparation, emploi, manipulation des dérivés halogénés de l'hydroxybenzonitrile notamment : - fabrication des produits précités ; - fabrication et conditionnement des pesticides en contenant. Préparation, manipulation, emploi du pentachlorophénol, des pentachlorophénates » ainsi que des produits en renfermant notamment au cours des travaux ci-après : - trempage du bois ; - empilage du bois fraîchement trempé ; - pulvérisation du produit ; - préparation des peintures en contenant ; - lutte contre les xylophages ; - traitement des charpentes en place par des préparations associant du pentachlorophénol, ses homologues et ses sels à du lindane.
 
-DELAI DE PRISE EN CHARGE : 7 jours
+|
 
-DESIGNATION DES MALADIES :
+B. - Intoxication aiguë ou subaiguë avec asthénie, amaigrissement rapide, hypersudation suivie d'hyperthermie avec gêne respiratoire.
 
-E - Dermites irritatives
+|
 
-DELAI DE PRISE EN CHARGE : 7 jours
+7 jours
 
-DESIGNATION DES MALADIES :
+|
 
-F - Syndrome biologique caractérisé par : Neutropénie franche (moins de 1000 polynucléaires neutrophiles par mm3) liée à des préparations associant du pentachlorophénol, ses homologues ou ses sels, à du lindane
+C. - Manifestations digestives (douleurs abdominales, vomissements, diarrhées) associées à la présence du toxique ou de ses métabolites dans le sang ou les urines.
 
-DELAI DE PRISE EN CHARGE : 90 jours
+|
 
-LISTE INDICATIVE DES PRINCIPAUX TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
+7 jours
 
-Préparation, emploi, manipulation des dérivés nitrés du phénol (dinitrophénol, dinitro-orthocrésol, dinoseb, leurs homologues et leurs sels) notamment :
+|
 
-Fabrication des produits précités ;
+D. - Irritation des voies aériennes supérieures et conjonctivites.
 
-Fabrication de matières colorantes au moyen des produits précités ;
+|
 
-Préparation et manipulation d'explosifs renfermant l'un ou l'autre des produits précités ;
+7 jours
 
-Travaux de désherbage utilisant les produits précités ;
+|
 
-Travaux antiparasitaires entraînant la manipulation de ces produits précités.
+E. - Dermites irritatives.
 
-Préparation, emploi, manipulation des dérivés halogénés de l'hydroxybenzonitrile notamment :
+|
 
-Fabrication des produits précités ;
+7 jours
 
-Fabrication et conditionnement des pesticides en contenant.
+|
 
-Préparation, manipulation, emploi du pentachlorophénol, ses homologues et ses sels ainsi que des produits en renfermant notamment au cours des travaux ci-après :
+F. - Syndrome biologique caractérisé par : Neutropénie franche (moins de 1.000 polynucléaires neutrophiles par mm3) liée à des préparations associant du pentachlorophénol, ses homologues ou ses sels, à du lindane.
 
-Trempage du bois ;
+|
 
-Empilage du bois fraîchement trempé ;
+90 jours
 
-Pulvérisation du produit ;
-
-Préparation des peintures en contenant ;
-
-Lutte contre les xylophages ;
-
-Traitement des charpentes en place par des préparations associant du pentachlorophénol, ses homologues et ses sels à du lindane.
+|
