@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880901452
+
+- Question : [SEQ880901452](seq880901452.md) — Situation matérielle de la magistrature
+
+## Réponse
+
+*Justice, JO du 1988-10-13, page 1142*
+
+Réponse. - Le garde des sceaux est convaincu de la nécessité de revaloriser le niveau des indemnités de fonctions allouées aux magistrats de l'ordre judiciaire. Dans le cadre du vote de la loi de finances pour 1988, le montant de la revalorisation des indemnités fixé initialement à 22 millions de francs avait pu, à l'issue des débats budgétaires devant l'Assemblée nationale et le Sénat, être porté à 49,6 millions de francs. Cette première étape a permis de porter à environ 24 pour cent le rapport moyen entre les indemnités versées aux magistrats et leur rémunération de base qui était antérieurement de l'ordre de 19 pour cent. Ainsi, il a été possible en 1988 de retenir au profit de l'ensemble des magistrats de la Cour de cassation et des chefs de juridiction des taux de 27 pour cent ou 28 pour cent afin de mieux prendre en compte les charges que représentent des fonctions judiciaires de haut niveau et comportant de lourdes responsabilités. Quant au taux indemnitaire le plus faible, il est passé de 13 pour cent à 21 pour cent, réalisant une amélioration notable au profit des magistrats concernés. Les efforts ainsi entrepris ont favorisé un rapprochement de la situation indemnitaire des magistrats de l'ordre judiciaire de celle des agents de l'Etat appartenant à des corps de niveau comparable, sans toutefois parvenir à une équivalence de traitement. L'objectif de la chancellerie est de parvenir à un alignement du montant des indemnités des magistrats sur celles des membres d'autres corps exerçant des fonctions juridictionnelles. Le projet de loi de budget pour 1989 n'a pas permis, dans un contexte de rigueur, dont l'honorable parlementaire n'ignore pas les contraintes, de prendre en compte, dans sa version actuelle, cette préoccupation essentielle.
