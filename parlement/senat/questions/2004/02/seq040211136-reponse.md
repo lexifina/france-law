@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040211136
+
+- Question : [SEQ040211136](seq040211136.md) — Place de la langue française à l'université internationale française du Vietnam
+
+## Réponse
+
+*Coopération, JO du 2004-06-17, page 1339*
+
+Le projet de création d'une université internationale française au Vietnam, lancé à la suite de la visite d'Etat du Président vietnamien en octobre 2002, est en cours de redéfinition. Notre préoccupation vise en particulier à réserver une place centrale au français dans les enseignements proposés. C'est précisément pour renforcer cette position que le premier projet qui avait été élaboré fait l'objet d'un réexamen. S'agissant de la maquette pédagogique de cette université, de la structure des cursus et des langues d'enseignement, ces éléments ne sont pas encore définis. Il s'agira de tenir compte à la fois de nos objectifs de rayonnement de la langue française et de la francophonie, et des conditions propres à rendre la future université attractive. Il va de soi que les enseignements en français resteront au centre du futur dispositif, mais une ouverture raisonnable à d'autres langues d'enseignement pourrait faciliter le recrutement et la sélection des meilleurs étudiants locaux et renforcer notre vivier francophone, en élargissant l'accès à la culture française pour de nouveaux publics. Cette diversification éventuelle des langues d'enseignement demandera, en tout état de cause, à être accompagnée de la mise en place de formations linguistiques intensives en français adaptées aux besoins des étudiants non francophones. Ces orientations, conformes en tous points aux lignes fixées par le Premier ministre pour renforcer l'attractivité de la France, feront l'objet sur place, d'une réflexion avec les opérateurs de la francophonie, et notamment l'Agence universitaire de la francophonie (AUF), fortement présente au Vietnam.
