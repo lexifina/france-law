@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990918583
+
+- Question : [SEQ990918583](seq990918583.md) — Organisation des scrutins populaires
+
+## Réponse
+
+*Intérieur, JO du 1999-10-14, page 3407*
+
+Réponse. - L'article 9, paragraphe 2, de l'Acte international du 20 septembre 1976, qui fonde l'élection du Parlement européen au suffrage universel direct, dispose que " les opérations de dépouillement des bulletins de vote ne peuvent commencer qu'après la clôture du scrutin dans l'Etat membre où les électeurs voteront les derniers ". Comme notre code électoral prescrit lui-même (art. L. 65) que le dépouillement débute immédiatement après la clôture du scrutin, il en découle que, dans notre pays, l'heure de cette clôture doit nécessairement coïncider avec celle où le scrutin est clos dans l'Etat de l'Union européenne où l'on vote le plus tard. Les bureaux de vote restant ouverts en Italie jusqu'à 22 heures, le dimanche où l'on vote en France, c'est à cette heure-là qu'ils peuvent être clos en France, comme cela a été le cas lors de toutes les élections européennes depuis 1979. Tels sont les fondements juridiques de la disposition du décret de convocation des électeurs qui prescrit la fermeture des bureaux de vote à 22 heures. La France ne pouvait s'affranchir de cette obligation sans violer les accords internationaux auxquels elle a souscrit. Le Gouvernement n'en méconnaît pas moins les sujétions qui en résultent pour les membres des bureaux de vote et pour les scrutateurs. C'est pourquoi il s'emploiera, lors des prochaines négociations sur la réforme de la procédure électorale européenne, à obtenir que le dépouillement effectif puisse commencer avant l'heure de clôture du scrutin dans d'autres pays de l'Union européenne à condition qu'aucun résultat ne soit diffusé avant cet échéance. Cette solution serait de nature à permettre une clôture des bureaux de vote en France aux heures habituelles.
