@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900811407
+
+- Question : [SEQ900811407](seq900811407.md) — Application de la loi relative à l'information et à la protection des consommateurs
+
+## Réponse
+
+*Consommation, JO du 1990-09-27, page 2090*
+
+Réponse. - Il est indiqué à l'honorable parlementaire que tous les décrets d'application de la loi n° 89-421 du 23 juin 1989 relative à l'information et à la protection des consommateurs ainsi qu'à diverses pratiques commerciales ont été publiés : décret du 4 janvier 1990 fixant le taux de l'intérêt légal (J.O. du 5 janvier 1990, p. 172) ; décret n° 90-235 du 16 mars 1990 portant application de l'article 12 de la loi n° 88-14 du 5 janvier 1988 modifiée relative aux actions en justice des associations agréées de consommateurs et à l'information des consommateurs (J.O. du 18 mars 1990, p. 334) ; décret n° 90-264 du 23 mars 1990 relatif à la consignation des emballages dans le secteur des liquides alimentaires (J.O. du 25 mars 1990, p. 3656) ; décret n° 90-422 du 16 mai 1990 portant application, en ce qui concerne les offres de rencontres en vue de la réalisation d'un mariage ou d'une union stable, de la loi n° 89-421 du 23 juin 1989 relative à l'information et à la protection des consommateurs ainsi qu'à diverses pratiques commerciales (J.O. du 22 mai 1990, p. 6120) ; décret n° 90-493 du 15 juin 1990 déterminant les sanctions applicables en cas d'infraction aux dispositions du quatrième alinéa de l'article 35 de la loi n° 78-23 du 10 janvier 1978 modifiée sur la protection et l'information des consommateurs de produits et de services (J.O. du 21 juin 1990, p. 7200) ; décret n° 90-567 du 5 juillet 1990 relatif aux portes automatiques de garage (J.O. du 7 juillet 1990, p. 8038) ; décret n° 90-749 du 22 août 1990 relatif à certaines opérations publicitaires tendant à faire naître l'espérance d'un gain (J.O. du 24 août 1990, p. 10307).
