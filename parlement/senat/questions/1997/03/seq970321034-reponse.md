@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970321034
+
+- Question : [SEQ970321034](seq970321034.md) — Politique en matière d'enseignement primaire
+
+## Réponse
+
+*Éducation, JO du 1997-05-02, page 1372*
+
+Réponse. - Dans l'enseignement primaire, la baisse des effectifs à la rentrée de 1996 (- 46 000 élèves) faisant suite à celle constatée à l'occasion de la rentrée 1995 (- 21 000 élèves) a permis, en l'absence de suppression d'emplois, d'améliorer l'encadrement des élèves et notamment d'abaisser à 26 élèves l'effectif moyen des classes de maternelle en zone d'éducation prioritaire. Les suppressions d'emplois inscrites dans la loi de finances pour 1997 ne touchent pas les postes implantés sur le terrain - les 500 postes concernés sont, en outre, à rapprocher des 311 000 emplois du premier degré. Compte tenu de la baisse de près de 60 000 élèves attendue à la prochaine rentrée, l'encadrement des élèves s'améliorera encore. Les objectifs ministériels seront atteints en 1997 : davantage de maîtres seront mis en présence des élèves dans les classes ; une moyenne de 25 élèves sera obtenue dans les écoles maternelles de zone d'éducation prioritaire, alors qu'on en comptait près de 30 en 1993 ; aucune fermeture de la dernière classe d'une commune ne sera réalisée contre l'avis des élus. Le " moratoire rural ", appliqué strictement pour la quatrième année consécutive, sera reconduit en 1997 ; les décharges de service des directeurs d'école à 6 classes seront effecutées partout, tandis que les décharges de service des directeurs d'école à 5 classes seront initiées. Quant à la scolarisation des enfants de deux ans, elle est privilégiée dans les zones d'éducation prioritaire, conformément à la décision no 13 du nouveau contrat pour l'école. Une politique éducative de qualité pourra ainsi être maintenue dans le premier degré.
