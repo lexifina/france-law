@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931204309
+
+- Question : [SEQ931204309](seq931204309.md) — Maîtrise des dépenses publiques: distinction entre recettes fiscales et recettes des privatisations
+
+## Réponse
+
+*Budget, JO du 1994-03-17, page 591*
+
+Réponse. - La loi d'orientation quinquennale relative à la maîtrise des finances publiques intègre, en effet, en ressources du budget général, une partie des recettes de privatisation. Estimées à 50 milliards de francs en 1994, conformément à la loi de finances, ces recettes sont supposées évoluer comme les autres recettes non fiscales de l'Etat, soit pas hypothèse les deux-tiers de la progression du produit intérieur brut. Ces recettes améliorent le déficit budgétaire à due concurrence ; mais, comme le fait remarquer l'honorable parlementaire, elles ne peuvent pas être prises en compte dans le besoin de financement des administrations publiques qui est le critère pertinent au regard des conditions d'entrée en phase 3 de l'Union économique et monétaire. Le besoin de financement de l'Etat est une notion de comptabilité nationale. Sa comparaison avec le déficit budgétaire nécessite des retraitements comptables complexes. Parmi ceux-ci, il convient, en effet, de noter l'exclusion de certaines recettes comme celles liées aux privatisations ; mais il faut noter également l'exclusion de certaines dépenses qui, alourdissant le déficit budgétaire, sont sans effet sur le besoin de financement de l'Etat, par exemple, les prêts et les dotations en capital. On ne peut donc en déduire que le besoin de financement de l'Etat est supérieur au déficit budgétaire du montant des privatisations. Il s'agit de deux notions différentes qui ne recouvrent pas les mêmes opérations. Enfin, le critère retenu par le traité de Maastricht ne porte pas sur le seul besoin de financement de l'Etat mais sur le besoin de financement de l'ensemble des administrations publiques.
