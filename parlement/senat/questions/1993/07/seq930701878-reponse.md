@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930701878
+
+- Question : [SEQ930701878](seq930701878.md) — Révision des conditions d'attribution de l'assurance veuvage
+
+## Réponse
+
+*Premier ministre, JO du 1993-09-02, page 1509*
+
+Réponse. - La loi du 17 juillet 1980 a institué une assurance veuvage qui permet aux personnes veuves de bénéficier d'une aide temporaire afin de pouvoir, dans les meilleures conditions possibles, s'insérer ou se réinsérer dans la vie professionnelle, lorsque, parce qu'elles assument ou ont assumé les charges familiales de leur foyer, elles se trouvent, au décès de leur conjoint, sans ressources suffisantes. Le conjoint survivant, âgé de moins de cinquante-cinq ans et dont les ressources ne dépassent pas un certain plafond, bénéficie d'une allocation mensuelle et degressive pendant une durée maximum de trois ans. Toutefois, lorsque celui-ci est âgé d'au moins cinquante ans au moment du décès de l'assuré, le bénéfice de cette prestation peut être maintenu jusqu'à cinquante-cinq ans, âge d'obtention de la pension de réversion du régime général. Quant à l'amélioration des conditions d'attribution des pensions de réversion, le Gouvernement ne méconnaît pas les aspirations des personnes veuves. Toutefois, l'ampleur des déficits sociaux conduit actuellement le Gouvernement, d'une part, à réformer le financement des régimes de Sécurité sociale , notamment celui du régime général, d'autre part, à mettre prochainement en oeuvre des mesures tendant à accroître le caractère contributif des pensions de droit direct. Les efforts ainsi demandés aux actifs et aux futurs retraités se justifient par le souci constant de pérenniser les systèmes de retraite par répartition. Dans ce contexte, les marges de manoeuvre pour améliorer à court terme les droits des assurés et de leur conjoint sont très étroites et la sauvegarde de notre protection sociale impose en effet la participation de tous les citoyens.
