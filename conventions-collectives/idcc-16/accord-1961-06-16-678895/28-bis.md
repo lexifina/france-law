@@ -1,0 +1,19 @@
+# Article 28 bis
+
+1. Equivalences
+
+Sous réserve du respect des dispositions de l'article 5 (§ 2) du décret du 26 janvier 1983, la durée de service réputée équivalente à trente-neuf heures de travail effectif peut être fixée compte tenu de la nature et de l'importance du service entre trente-neuf heures et quarante-deux heures, après avis des délégués du personnel.
+
+2. Répartition des horaires de travail sur un cycle
+
+Sous réserve du respect des dispositions de l'article 4 (§ 3) du décret du 26 janvier 1983 pour le personnel roulant " marchandises " et " déménagement " affecté habituellement à des services dont les horaires de travail sont prévus après avis des délégués du personnel, dans le cadre d'un cycle régulier, la durée hebdomadaire du travail effectif est calculée, en moyenne, sur la durée de ce cycle.
+
+La répartition des horaires de travail sur un cycle régulier peut se traduire à la limite par une semaine de trois jours ouvrés.
+
+Est considérée comme cycle régulier, au sens du présent article, toute période de deux semaines consécutives :
+
+- comportant une répartition inégale de l'horaire de travail sur chacune des semaines ;
+
+- impliquant une durée de travail inférieure à la durée légale au cours de l'une de ces semaines ;
+
+- se renouvelant au moins une fois chaque mois.
