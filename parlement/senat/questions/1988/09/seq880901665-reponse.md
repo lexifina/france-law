@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880901665
+
+- Question : [SEQ880901665](seq880901665.md) — Projet de convention sur la télévision " transfrontière "
+
+## Réponse
+
+*Communication, JO du 1989-09-21, page 1544*
+
+Réponse. - Le 15 mars 1989, la convention sur la télévision " transfrontière " du Conseil de l'Europe a été adoptée par le comité des ministres. La procédure de signature a été ouverte le 22 mars 1989 par décision des ministres. Enfin, le 5 mai 1989, lors du 40e anniversaire du Conseil de l'Europe, dix états ont signé la convention. La signature sera suivie d'une procédure de ratification. La convention entrera en vigueur après sept ratifications. La convention est un code minimal de bonne conduite que chaque chaîne de télévision relevant d'un état membre du conseil de l'Europe qui aura signé la convention devra respecter. L'article 14 intitulé " insertion de publicité " prévoit que la publicité doit être insérée entre les émissions, qu'elle ne doit pas porter atteinte à l'intégrité et à la valeur des émissions de manière à préserver les droits des ayants-droit (alinéa 1). La transmission d'oeuvres audiovisuelles comme les longs métrages cinématographiques et les films conçus pour la télévision (à l'exclusion des séries, feuilletons, émissions de divertissement et documentaires), à condition que leur durée soit supérieure à 45 minutes, peut être interrompue une fois par tranche complète de 45 minutes (alinéa 3). Ces dispositions plus souples que celles existant dans la législation française ne présentent cependant pas de contradiction formelle avec les règles effectivement appliquées en France, qui prévoient notamment la limitation en durée des écrans publicitaires et l'impossibilité de couper plus d'une fois les oeuvres cinématographiques et audiovisuelles (art. 73 de la loi du 30 septembre 1986 modifiée). Elles ne sont donc pas de nature à handicaper les sociétés privées de télévision.
