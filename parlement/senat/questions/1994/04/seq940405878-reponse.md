@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940405878
+
+- Question : [SEQ940405878](seq940405878.md) — Multiplication des actes de vandalisme dans la communauté urbaine de Lyon
+
+## Réponse
+
+*Intérieur, JO du 1994-06-16, page 1497*
+
+Réponse. - La sécurité des personnes et des biens constitue une priorité gouvernementale. L'autorité de l'Etat doit naturellement s'exercer à tout moment et en tous lieux, particulièrement lorsque des violences troublent l'ordre public ou lorsqu'il s'agit de lutter contre toutes les formes de délinquance. Parmi les moyens mis en oeuvre pour y parvenir, l'emploi des compagnies républicaines de sécurité en mission de sécurisation dans les secteurs sensibles, en renfort de personnels de la sécurité publique, contribue à la réalisation de ces objectifs. A ce titre, la direction départementale de la sécurité publique du Rhône bénéficie du renfort permanent d'une CRS. Des patrouilles sont organisées dans les quartiers sensibles en diversifiant les heures et lieux d'utilisation pour les adapter à la délinquance repérée dans le département. Lorsque surviennent des incidents tels que ceux qui se sont produits entre le 13 et le 18 avril, en complément des effectifs locaux de la sécurité générale, sont engagés, sous l'autorité du préfet du département, des moyens supplémentaires adaptés à la nature de la menace. A titre d'exemple, durant cette période, les agissements des bandes organisées ont nécessité l'envoi à Lyon de trois CRS et deux escadrons de gendarmerie mobile. Après la fin des incidents et jusqu'au 25 avril, une mission de sécurisation a été maintenue. Elle a été confiée à deux CRS sur l'ensemble des sites qui avaient été particulièrement touchés par les phénomènes de violence. Le dispositif adopté semble répondre à la menace potentielle puisque aucun acte d'autodéfense n'a été enregistré sur les sites lyonnais concernés.
