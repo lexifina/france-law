@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040110725
+
+- Question : [SEQ040110725](seq040110725.md) — Redevance des opérateurs de télécommunications
+
+## Réponse
+
+*Industrie, JO du 2004-12-09, page 2843*
+
+Le décret destiné à remplacer les dispositions du décret n° 97-683 du 30 mai 1997 relatif aux droits de passage sur le domaine public routier et aux servitudes prévus par les articles L. 47 et L. 48 du code des postes et télécommunications annulées par le Conseil d'Etat est en préparation. Ce décret doit fixer, d'une part, les modalités de mise en oeuvre du droit de passage des exploitants de réseaux de communications électroniques ouverts au public sur le domaine public routier et les redevances maximales assorties à l'occupation de ce domaine, en application de l'article L. 47 du code des postes et des communications électroniques et, d'autre part, le montant maximal des redevances assorties à l'occupation du domaine public non routier, en application de l'article L. 45-1 du même code. Le projet de décret a fait l'objet d'une consultation publique qui s'est achevée le 22 septembre 2004. Il fait actuellement l'objet d'un examen interministériel. L'ART sera ensuite consultée, en application de l'article L. 36-5 du code des postes et des communications électroniques, puis le Conseil d'Etat saisi. Dans le cadre de la préparation de ce texte, l'introduction de plafonds de redevances plus élevés pour les lignes téléphoniques aériennes que pour les artères souterraines est envisagée. Une telle approche serait en effet cohérente avec la volonté d'encourager l'enfouissement des lignes téléphoniques que traduit notamment l'adoption du nouvel article L. 2224-35 du code général des collectivités territoriales dans le cadre de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique.
