@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010230980
+
+- Question : [SEQ010230980](seq010230980.md) — Paiement de la TVA par les collectivités locales
+
+## Réponse
+
+*Économie, JO du 2001-05-24, page 1766*
+
+Réponse. - L'article 4 du décret du 6 septembre 1989 prévoit que les dépenses réelles d'investissement prises en considération pour l'attribution, au titre d'une année déterminée, du fonds de compensation pour la taxe sur la valeur ajoutée (FCTVA), sont celles afférentes à la pénultième année. Ce décalage de deux ans s'explique par le fait que les attributions du FCTVA sont calculées sur la base d'états déclaratifs établis à partir des dépenses inscrites dans les comptes administratifs par les collectivités territoriales et contrôlées par les services de préfecture pour être ensuite liquidées et mandatées par les comptables locaux. Ce sont donc des considératins d'ordre technique qui expliquent ce décalage de deux ans entre l'assiette du FCTVA et l'année de son versement. Deux catégories d'exceptions dérogent toutefois à ce dispositif. D'une part, les communautés de communes, les communautés de villes ainsi que les communautés d'agglomération bénéficient d'un traitement particulier qui trouve sa justification dans l'encouragement apporté à la coopération intercommunale. D'autre part, par dérogation au 1er alinéa du II de l'article L. 1615-6 du code général des collectivités territoriales, les dépenses réelles d'investissement réalisées par les bénéficiaires du FCTVA en 1999 ou en 2000 ouvrent droit temporairement à des attributions l'année même de la réalisation des dépenses, dès lors qu'elles interviennent en réparation des dommages directement causés par les intempéries survenues les 12 et 13 novembre 1999 et du 25 au 29 décembre 1999. Le Gouvernement n'envisage pas de modifier ce dispositif, dont la modification aurait de surcroît un coût budgétaire important.
