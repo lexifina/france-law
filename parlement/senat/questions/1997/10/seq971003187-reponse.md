@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971003187
+
+- Question : [SEQ971003187](seq971003187.md) — Création d'un poste d'enseignement de l'italien dans l'arrondissement de Lodève
+
+## Réponse
+
+*Éducation, JO du 1998-01-22, page 229*
+
+Réponse. - Dans le contexte d'une rentrée 1997 préparée à moyens constants pour l'ensemble du second degré, l'académie de Montpellier s'est vu attribuer soixante emplois et quatre cent quatre-vingt-dix heures supplémentaires/année, soit l'une des plus fortes dotations de la métropole. En outre, pour tenir compte des difficultés particulières de cette académie, un complément exceptionnel de dotation de six emplois d'enseignants lui a été accordé à la rentrée. Au-delà de ces dispositions, la priorité à l'éducation indiquée par le Premier ministre s'est manifestée par diverses mesures qui constituent une réponse énergique visant à l'amélioration du service public de l'éducation. Le réemploi des maîtres auxiliaires à la rentrée 1997 apporte des compléments et des enrichissement dans le cadre d'une mission d'assistance éducative (participation à des activités de soutien, suivi individualisé des élèves, aide au travail personnel) et donne une meilleure réponse aux besoins d'encadrement éducatif de certains établissements. Cela étant, tous les moyens ayant été mis à la disposition de l'académie de Montpellier, il appartenait au recteur, en liaison avec les inspecteurs académiques pour les collèges, d'en rechercher l'utilisation la plus rationnelle possible. S'agissant de la mise en place de l'enseignement de l'italien dans le département de l'Hérault et plus particulièrement dans l'arrondissement de Lodève, on peut indiquer que cette question relève de la compétence des autorités académiques, seules à même de procéder aux implantations géographiques de postes les plus satisfaisantes possible par rapport à la demande recensée au plan local, dans le cadre des moyens dont elles disposent.
