@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991221395
+
+- Question : [SEQ991221395](seq991221395.md) — Transfert de services des douanes de Menton à Nice
+
+## Réponse
+
+*Économie, JO du 2000-04-06, page 1259*
+
+Réponse. - Afin de s'adapter aux besoins des usagers et à l'évolution de ses missions, la direction générale des douanes et droits indirects procède régulièrement à la réorganisation de son réseau. Dans ce cadre, et afin de favoriser une meilleure efficacité du service public, il a été décidé de regrouper, au sein de la recette de Nice port, le service d'assiette des contributions indirectes (SACI) et le service de la navigation de Menton. Cette mesure, privilégiant un schéma organisationnel plus performant, ne portera pas atteinte à la qualité du service public rendu aux usagers. En effet, les SACI n'ont pas vocation à recevoir le public ou les professionnels puisqu'ils exercent des missions de contrôle sur pièces et sur place qui concernent essentiellement les marchands en gros et les débitants de boissons et de tabac. Aussi, l'intégration du SACI de Menton dans un ensemble plus important, disposant d'un effectif plus conséquent, permettra d'optimiser les contrôles en coordination avec les services douaniers de la surveillance du secteur de Menton. De même, à la suite des récentes mesures applicables dans le domaine de la navigation de plaisance, seulement un tiers des mille navires enregistrés auprès du service de Menton sera redevable, désormais, du droit annuel de francisation et de navigation dont le paiement peut être effectué par la voie postale. Ainsi, la réorganisation entreprise vise à concilier le souci de maintenir à Menton un service public répondant aux besoins des usagers et la nécessité d'adapter l'organisation des services en regroupant les moyens en effectifs dans des structures plus importantes et donc plus opérationnelles.
