@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030607933
+
+- Question : [SEQ030607933](seq030607933.md) — Transport rail/route
+
+## Réponse
+
+*Équipement, JO du 2004-01-01, page 26*
+
+Le transport combiné a connu une progression jusqu'en 1997 puis une stagnation, voire une régression, durant les premiers mois de 2003. Il doit être développé pour constituer un vecteur majeur de report du transport de marchandises vers les modes massifiés ferroviaire, fluvial et cabotage maritime. A cet égard, le nouveau système d'aide aux opérateurs de transport combiné, mis en place en 2003 pour favoriser l'attractivité de l'offre par rapport au transport tout routier, sera poursuivi en 2004. Cette aide qui revêt un caractère provisoire devra s'accompagner d'une amélioration sensible de la productivité et de la qualité de service de la part de l'ensemble des acteurs des chaînes intermodales. Ces gains de performance passent notamment par la sélection des trafics les plus pertinents : trafics massifiés, en particulier à partir des ports maritimes, trafics internationaux à longue distance. Désormais, l'aide de l'Etat n'a plus rien de commun avec la subvention qui était attribuée à la SNCF de 1995 à 2002. Elle est une incitation transitoire. Elle est destinée à attirer les choix logistiques des professionnels vers le transport combiné. Ce dernier représente une bien meilleure solution pour la collectivité que le transport routier de bout en bout (sécurité, environnement, énergie) tout en devant constituer une offre suffisante (fréquence, régularité, variété d'opérateurs) pour devenir une alternative pérenne et économiquement viable. Corrélativement, l'Etat poursuivra ses investissements pour la création et la modernisation des terminaux de transport combiné les plus pertinents. Ainsi, le transport combiné pourra répondre aux besoins, à la fois du développement durable et de l'économie, et prendre la place qui doit être la sienne dans le marché du transport de marchandises.
