@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030306295
+
+- Question : [SEQ030306295](seq030306295.md) — Importance de l'intercommunalité en matière de gestion des écoles
+
+## Réponse
+
+*Jeunesse, JO du 2003-05-22, page 1697*
+
+Les modalités de fonctionnement de l'école, qui n'ont guère changé depuis l'origine de l'école publique, doivent évoluer. C'est pourquoi une réflexion est actuellement engagée sur les adaptations qui pourraient être apportées à l'organisation des écoles et du réseau scolaire. Le regroupement d'écoles, tel qu'il est réalisé depuis une trentaine d'années dans le cadre des regroupements pédagogiques intercommunaux traditionnels, ou tel qu'il s'est développé plus récemment dans le cadre de réseaux d'écoles innovants, répond à plusieurs nécessités, pédagogique, matérielle et administrative, et constitue l'un des aspects de la modernisation de l'école. Pour faire le point sur les évolutions intervenues en la matière et alimenter la réflexion en cours, une enquête a été lancée récemment, afin de recenser les regroupements d'écoles innovants fonctionnant actuellement et de dresser un bilan qualitatif détaillé de leur fonctionnement et de leur organisation. Les regroupements pédagogiques intercommunaux et les réseaux d'écoles rurales s'appuient souvent sur un établissement public de coopération intercommunale, qui confère une stabilité juridique au groupement d'écoles concerné. Les liens entre l'école et la structure intercommunale à compétence scolaire éventuelle sont l'un des aspects qui seront observés au travers de cette enquête. Les réflexions portant sur l'évolution du dispositif des réseaux d'écoles font actuellement l'objet d'un groupe de travail avec les représentants des collectivités locales, ainsi que de consultations des organisations syndicales. Les conclusions de cette concertation seront portées à la connaissance des parlementaires dès qu'elles auront pu être formalisées.
