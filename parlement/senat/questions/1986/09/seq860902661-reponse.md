@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860902661
+
+- Question : [SEQ860902661](seq860902661.md) — Calcul des annuités de retraite pour les Français engagés volontaires ADL (au-delà de la durée légale) en 1951 et 1952
+
+## Réponse
+
+*Affaires sociales, JO du 1987-04-09, page 528*
+
+Réponse. -Les périodes de service militaire en temps de paix sont validées pour l'ouverture et le calcul de la retraite dans le régime général sous réserve de l'affiliation préalable au régime avant l'interruption de l'activité. Compte tenu de l'alignement sur le régime général des régimes d'assurance vieillesse des artisans, industriels et commerçants prévu par la loi n° 72-554 du 3 juillet 1972 à compter du 1er janvier 1973, cette règle de validation est également applicable dans ces régimes lorsque la période de service se situe après cette date. En outre, dans le cadre de la réglementation en vigueur avant le 1er janvier 1973, dans le régime d'assurance vieillesse des industriels et commerçants, la période correspondant au service militaire peut être validée lorsque l'intéressé avait suspendu son activité commerciale (art. 25, décret n° 66-248 du 31 mars 1966). En ce qui concerne le régime d'assurance vieillesse de base des professions libérales, des dispositions de ce type ne sont pas prévues. Cette différence de traitement peut s'expliquer par les conditions respectives d'entrée dans la vie professionnelle des uns et des autres. En effet, contrairement aux travailleurs salariés, les membres des professions libérales ont généralement accompli leurs obligations de service national avant d'exercer leur activité professionnelle. Cette situation n'a d'ailleurs pas fait l'objet de demandes particulières de la part du conseil d'administration de la Caisse nationale d'assurance vieillesse des professions libérales.
