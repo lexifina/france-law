@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961018578
+
+- Question : [SEQ961018578](seq961018578.md) — Difficultés des communes de montagne en matière d'équipement
+
+## Réponse
+
+*Agriculture, JO du 1997-02-06, page 363*
+
+Réponse. - Le ministère de l'agriculture, de la pêche et de l'alimentation intervient en faveur de l'économie locale des zones de montagne par le soutien financier qu'il apporte aux actions de développement rural privilégiant la diversification rurale et la pluriactivité. Les enveloppes financières consacrées à de telles actions sont contractualisées dans le cadre des contrats de plan Etat-région. Les crédits de la section locale et de la section générale du Fonds national d'aménagement et de développement du territoire (FNADT) participent au soutien des initiatives locales, y compris dans les zones de montagne. D'autre part, dans le cadre de la politique communautaire structurelle, les programmes de développement rural des régions éligibles à l'objectif 5 b intègrent la problématique des massifs qui bénéficient du concours de trois fonds : le FEOGA, le FSE et le FEDER. De même, le programme d'initiative communautaire LEADER 2 (liaison entre actions de développement de l'économie rurale) permet aux acteurs et aux territoires ruraux de valoriser leurs propres potentialités. Dans une politique à plus long terme, le ministère de l'agriculture, de la pêche et de l'alimentation s'attache à créer les conditions propices à ce développement en encourageant l'agriculture et la forêt de montagne. A cet effet, un mémorandum, déposé à Bruxelles le 16 septembre 1996, comporte des propositions de mesures visant à instaurer une politique de gestion durable de l'espace et à diversifier les activités par la mise en place de filières de qualité des produits et des services provenant de ces zones.
