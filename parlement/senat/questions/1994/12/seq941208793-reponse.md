@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941208793
+
+- Question : [SEQ941208793](seq941208793.md) — Compétences de la Commission européenne en matière de gestion des productions de matériels de défense
+
+## Réponse
+
+*Défense, JO du 1995-07-27, page 1491*
+
+Réponse. - Les autorités françaises (ministère des affaires étrangères, ministère de l'économie, ministère de la défense et comité interministériel pour les questions de coopération économique européenne), ont négocié avec la commission européenne un " mode d'emploi " relatif aux modalités d'examen, par Bruxelles, des opérations de concentration dans le domaine de l'armement. Ces opérations posent le problème des relations entre l'article 223 du traité de Rome et le règlement no 4064-89 du 21 décembre 1989 instituant un contrôle communautaire des concentrations. Les autorités françaises et la commission européenne sont convenues des mesures suivantes : les opérations de nature strictement militaire, quel que soit le caractère privé ou public des entreprises concernées, ne seront pas notifiées à la commission européenne, l'Etat français ayant recours aux dispositions de l'article 223 ; lorsqu'une opération intéresse plusieurs Etats membres et présente les caractéristiques justifiant des autorités françaises la mise en oeuvre de l'article 223, celles-ci s'efforceront de dégager un consensus avec les autres Etats membres concernés relatif au contrôle de la commission européenne. En cas d'insuccès, les autorités françaises se sont engagées à ne pas adopter une position de nature à nuire aux intérêts des entreprises en cause ou à aboutir à une situation de blocage. En contrepartie, la commission européenne devra veiller tout particulièrement à ce que les impératifs stratégiques et de confidentialité spécifiques au secteur de la défense soient préservés.
