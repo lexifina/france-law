@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890304160
+
+- Question : [SEQ890304160](seq890304160.md) — Financement des opérations de sauvetage en mer et sanctions pénales
+
+## Réponse
+
+*Logement, JO du 1989-06-29, page 1007*
+
+Réponse. - La participation des usagers au financement des opérations de secours en mer est une préoccupation constante du ministère chargé de la mer. C'est pourquoi des actions tendant à une application plus stricte des dispositions de la loi du 7 juillet 1967 relative aux événements de mer en cas d'assistance aux biens ont été entreprises. En effet, une part de plus en plus importante des opérations dirigées par les centres régionaux opérationnels de surveillance et de sauvetage entre dans cette catégorie. Par ailleurs, le ministère chargé de la mer soutient les actions de la Société nationale de sauvetage en vue d'encourager les plaisanciers à adhérer ou à la soutenir. Ceux-ci sont bénéficiaires de plus de 80 p. 100 de ses interventions. Cette campagne commence à donner des résultats significatifs. Pour ce qui est d'éventuelles sanctions pénales, si l'imprudence ou la négligence ne constitue pas en droit une infraction, par contre, dès lors que des manquements à la réglementation auraient conduit à des opérations d'assistance, des poursuites pénales doivent être engagées : c'est le cas du non-respect des règles de route, des règlements pour éviter les abordages, des arrêtés des préfets maritimes touchant la navigation en mer, des règles de sécurité. Des instructions fermes ont été données aux services du ministère chargé de la mer pour la répression des infractions qui pourraient être constatées dans ce domaine. Par ailleurs, la mission interministérielle de la mer a été chargée de développer l'aspect préventif de la Campagne Sécurité Plaisance 1989 autour de trois thèmes : 1° mieux former ; 2° mieux informer ; 3° mieux contrôler.
