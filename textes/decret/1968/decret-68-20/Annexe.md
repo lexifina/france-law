@@ -846,11 +846,17 @@ aérienne.
 
 |
 
-Techniciens de l'aviation civile.
+Techniciens des études et de l'exploitation de
+
+l'aviation civile.
 
 |
 
-Techniciens de l'aviation civile. |
+Techniciens des études et de l'exploitation de
+
+l'aviation civile.
+
+|
 
 Agents de la navigation aérienne.
 
