@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930701857
+
+- Question : [SEQ930701857](seq930701857.md) — Couverture sociale des personnels contractuels non-titulaires de la fonction publique recrutés localement
+
+## Réponse
+
+*Affaires étrangères, JO du 1993-11-11, page 2135*
+
+Réponse. - Le décret no 80-754 du 16 septembre 1980 relatif au régime de sécurité sociale des personnels de l'Etat non titulaires en service ou en mission à l'étranger stipule que ces personnels français bénéficient des dispositions du code de la sécurité sociale " s'ils ont été recrutés en France. " Mais, dès lors qu'ils sont recrutés localement, ils sont soumis aux dispositions de la circulaire du département no 14365 du 2 novembre 1987 sur la gestion du personnel auxiliaire. Ainsi, ces agents recrutés aux conditions locales sont affiliés obligatoirement au régime social local, ce qui signifie le versement des cotisations et le service des prestations locales. Toutefois, il est rappelé que trois possibilités de maintien à titre volontaire au système français sont offertes : option pour le régime français de sécurité sociale, s'il existe une convention internationale entre la France et le pays d'emploi le permettant ; adhésion à la caisse des Français de l'étranger ; inscription auprès de la mutuelle des affaires étrangères (soit pour l'intégralité de la protection, régime de base et mutuelle complémentaire, soit pour la seule mutuelle). Sachant que l'élaboration d'un nouveau texte permettant l'affiliation systématique du personnel auxiliaire au régime général de sécurité sociale n'est pas d'actualité, le département s'est efforcé de trouver une solution satisfaisante ; mais sa proposition de participer à la protection sociale de cette catégorie de personnel en prenant en charge une partie des cotisations à la mutuelle des affaires étrangères n'a pas été retenue.
