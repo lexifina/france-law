@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991120308
+
+- Question : [SEQ991120308](seq991120308.md) — Titre de reconnaissance de la nation aux réfractaires au service du travail obligatoire
+
+## Réponse
+
+*Anciens combattants, JO du 2000-01-06, page 33*
+
+Réponse. - Le secrétaire d'Etat à la défense chargé des anciens combattant tient à rappeler en premier lieu que le titre de reconnaissance de la Nation (TRN) a été créé par l'article 77 de la loi nº 67-1114 du 21 décembre 1967, pour les militaires de tous grades et de toutes armes ayant pris part aux opérations d'Afrique du Nord, à une époque où ces opérations n'ouvraient pas droit à la carte du combattant. Par la suite, la détermination de critères d'attribution spécifiques à la nature des conflits d'Afrique du Nord a permis d'attribuer la carte du combattant au titre de ces conflits. Le TRN a, en conséquence, pu être attribué aux combattants des conflits antérieurs ou postérieurs par la loi nº 93-7 du 4 janvier 1993 et le décret nº 93-1117 du 16 septembre 1993. Les réfractaires au service du travail obligatoire en Allemagne, quant à eux, se sont cachés pour échapper à la réquisition de main-d' uvre ; ils ont été nombreux à rejoindre le maquis et les organisations de la Résistance. Si ces derniers peuvent accéder au statut de résistant, le comportement des premiers est pris en compte par l'attribution du titre de réfractaire. Celui-ci confère des droits, notamment en matière de retraite et de pension pour invalidité contractée au cours du réfractariat. Toutefois, le secrétaire d'Etat à la défense chargé des anciens combattants n'est pas hostile à ce que le titre de reconnaissance de la Nation puisse être accordé aux réfractaires. Cela exige cependant la modification de la loi du 4 janvier 1993 instituant le TRN Il envisage d'engager une réflexion d'ensemble sur cette question dès le début de l'année prochaine.
