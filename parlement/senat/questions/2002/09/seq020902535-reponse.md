@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020902535
+
+- Question : [SEQ020902535](seq020902535.md) — Cheptel bovin : lutte contre l'épidémie de paratuberculose
+
+## Réponse
+
+*Agriculture, JO du 2003-01-02, page 33*
+
+Un groupe de travail a été chargé depuis la fin de l'année 2000 de conduire une large réflexion, en partenariat avec les professionnels, les scientifiques et les administrations concernées, sur les besoins exprimés en matière de certification de la paratuberculose bovine. Ces travaux visent essentiellement, sur la base d'une étude technique et économique approfondie, à établir les fondements d'une qualification nationale volontaire des cheptels bovins. Les schémas proposés par cette étude sont techniquement adaptés et économiquement viables. Ils reçoivent pleinement l'adhésion du ministère de l'agriculture, de l'alimentation, de la pêche et des affaires rurales. Néanmoins la décision finale de mettre en place ce type d'action, sur un mode strictement contractuel, reste à ce stade du ressort de l'association pour la certification en santé animale (ACERSA), structure associative reconnue par l'Etat au sens de l'arrêté du 20 novembre 2001, associant les différentes familles professionnelles représentatives, qui n'a pas encore statué sur son engagement. A ce titre, il est important de lever toute confusion entre les rôles respectif : des directions départementales des services vétérinaires du ministère de l'agriculture, de l'alimentation, de la pêche et des affaires rurales, qui n'interviennent dans le suivi de cette pathologie qu'au titre de son interférence éventuelle avec le dépistage allergique de la tuberculose ; et des groupements de défense sanitaire, dont l'activité est liée à l'amélioration de l'état sanitaire des cheptels pour les maladies qui ne font pas l'objet d'une prophylaxie dirigée par l'Etat.
