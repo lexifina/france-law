@@ -56,8 +56,6 @@ L'établissement ou l'intermédiaire doit veiller à ce que le transport des pro
 
 Outre les enregistrements visés à l'article 5 du présent arrêté, l'établissement doit disposer d'un système documentaire comprenant les textes réglementaires pertinents et les documents de référence visant à définir les points critiques du procédé de fabrication, à en assurer la maîtrise ainsi qu'à établir et mettre en oeuvre le plan de contrôle de la qualité. Les résultats de l'ensemble des contrôles effectués indiquant notamment les méthodes d'analyse utilisées sont également conservés. L'ensemble de ces documents doit permettre de retracer l'historique de chaque lot fabriqué et d'établir les responsabilités en cas de réclamation sur des produits commercialisés ou distribués.
 
-Dans le cas où l'établissement utilise des matières premières dans lesquelles une substance ou produit indésirable est présente à une teneur supérieure à celles fixées en annexe I de l'arrêté du 16 mars 1989 susvisé, il doit compléter les enregistrements prévus à l'article 5 du présent arrêté en précisant, pour chaque livraison de matière première concernée, la nature et la teneur du produit ou de la substance indésirable en question.
-
 7. Réclamations et rappel de produits.
 
 Un système d'enregistrement et de traitement des réclamations des utilisateurs doit être mis en oeuvre.
