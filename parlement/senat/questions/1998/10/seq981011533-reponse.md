@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981011533
+
+- Question : [SEQ981011533](seq981011533.md) — Réhabilitation de la ligne ferroviaire Béziers-Paris
+
+## Réponse
+
+*Équipement, JO du 1999-03-04, page 698*
+
+Réponse. - Le Gouvernement entend promouvoir une approche globale des transports dans le Massif central. Cette approche globale devra prévaloir lors de l'élaboration prochaine des schémas multimodaux des services de transport de voyageurs et de marchandises. C'est ainsi que plusieurs projets d'amélioration des liaisons ferroviaires du Massif central sont en cours d'examen actuellement dont celui de la liaison entre Béziers et Paris évoquée par l'honorable parlementaire. Les études concernant la liaison Béziers-Neussargues ont été produites. Elles permettent de considérer que cette ligne pourrait constituer une alternative possible, pour certaines catégories de fret, à l'itinéraire de la vallée du Rhône aujourd'hui saturé. Cette ligne est donc un enjeu en termes d'aménagement du territoire et de développement économique et social pour les régions traversées. Une première tranche de travaux, permettant d'améliorer la qualité de cet axe, a été identifiée : elle comprend l'électrification de Clermont-Ferrand à Neussargues et la remise à niveau de la ligne de Neussargues à Béziers. Celle-ci a été évaluée à un montant d'environ 1,5 milliard de francs. Cette opération pourra donc être proposée dans le cadre des prochains contrats de plan Etat-région. Dès lors que les collectivités régionales et territoriales participeraient à son financement, l'Etat serait prêt à prendre en charge 25 % du coût total du projet, RFF prenant en charge les travaux de régénération de la ligne. Enfin, il conviendra que la SNCF mette au point un programme rénové d'offre sur cette ligne, en particulier en ce qui concerne le fret.
