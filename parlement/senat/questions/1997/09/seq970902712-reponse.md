@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970902712
+
+- Question : [SEQ970902712](seq970902712.md) — Politique de développement de la voie fluviale
+
+## Réponse
+
+*Équipement, JO du 1997-11-27, page 3308*
+
+Réponse. - Le Gouvernement a confirmé la décision d'abandonner la construction de la liaison fluviale à grand gabarit entre la Saône et le Rhin. L'importance des atteintes directes et irréversibles au patrimoine naturel et, plus généralement, au cadre de vie des régions traversées n'était, en effet, pas compensée par l'intérêt intrinsèque d'un projet dont le coût d'investissement et le déficit prévisionnel de fonctionnement étaient très élevés. Le Gouvernement reste très attaché à la voie d'eau, qui est indiscutablement un mode de transport peu onéreux, écologique, sûr et fiable. Aussi est-il déterminé, avec l'ensemble des opérateurs publics, des professionnels et des partenaires locaux concernés, à faire progresser le transport fluvial, pour qu'il occupe toute la place qui doit lui revenir dans le cadre d'une politique des transports équilibrée. A cet égard, l'axe rhodanien offre un potentiel qu'il convient de développer. L'abandon du projet de canal Rhin-Rhône n'est évidemment pas un refus de toute nouvelle infrastructure fluviale, puisque les études préliminaires relatives au projet de liaison à grand gabarit Seine-Nord se poursuivent. La concertation locale sur le choix du tracé, sous la coordination du préfet de la région Picardie, a débuté comme prévu le 15 septembre 1997. D'autre part, le projet de loi de finances pour 1998 propose une augmentation de 23 % des crédits inscrits au fonds d'intervention pour les transports terrestres et les voies navigables (FITTVN) pour l'entretien et les réparations des voies navigables, ce qui montre également une inflexion certaine de la politique de l'Etat en faveur du transport fluvial.
