@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991221391
+
+- Question : [SEQ991221391](seq991221391.md) — Marges arrière
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2000-03-16, page 981*
+
+Réponse. - Les accords de coopération commerciale qui se sont développés ces dernières années ne comportent pas toujours des contreparties proportionnées et peuvent représenter pour le fournisseur une charge importante. Conscient des limites des règles actuelles, mais également de la nécessité en la matière d'une approche globale des problèmes constatés, le Gouvernement a entrepris une large consultation de l'ensemble des professionnels concernés. Celle-ci a débouché sur la tenue le 13 janvier 2000 d'assises du commerce et de la distribution destinées notamment à évaluer l'efficacité des dispositifs en vigueur pour garantir la loyauté et l'équité des rapports commerciaux. Ce bilan a permis au Gouvernement d'arrêter un certain nombre d'aménagements législatifs et réglementaires qui seront présentés au Parlement dans les prochains mois. Le Gouvernement veut tout d'abord améliorer l'efficacité de la réglementation des concentrations. Ensuite, des mesures vont être proposées pour supprimer les abus de la coopération commerciale entre distributeurs et fournisseurs et mieux réprimer l'abus de dépendance économique. Le Gouvernement proposera de renforcer les pouvoirs du conseil de la concurrence et de donner au ministre de l'économie, des finances et de l'industrie la possibilité de se substituer au fournisseur devant les tribunaux pour obtenir la nullité des clauses illicites, la réparation des préjudices et des amendes civiles. Enfin, une commission des pratiques commerciales et des relations contractuelles entre fournisseurs et distributeurs va être créée dans un but de meilleure prévention des conflits dans ce domaine et de définition des bonnes pratiques.
