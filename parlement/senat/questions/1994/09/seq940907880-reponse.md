@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940907880
+
+- Question : [SEQ940907880](seq940907880.md) — Révision du code de la mutualité
+
+## Réponse
+
+*Affaires sociales, JO du 1994-10-20, page 2515*
+
+Réponse. - Il convient de rappeler que, depuis le 18 juin 1992 avec la troisième directive d'assurance dommages, dite " non-vie " car elle concerne des risques non liés à la vie humaine (maladie, accident, incapacité, invalidité), les mutuelles sont reconnues au plan européen comme organismes habilités à diffuser des produits d'assurance. La troisième directive d'assurance " vie " (qui couvre les risques vie, décès, retraite) a été adoptée le 10 novembre 1992. Ces directives imposent une refonte du code de la mutualité, aux plans législatif et réglementaire, afin d'intégrer dans ce code les dispositions rendues obligatoires par l'ensemble des directives européennes concernant l'activité d'assurance. L'idée de base de cette réforme telle qu'elle est imposée par les directives est que les autorités nationales accorderont aux mutuelles un agrément, valable dans toute la communauté européenne et couvrant un ou plusieurs risques regroupés au sein de différentes branches (accident, maladie, vie, décès, etc). Pour obtenir cet agrément, la mutuelle devra notamment présenter un programme d'activités et apporter la preuve qu'elle apporte des garanties financières suffisantes. Tenant compte des problèmes que ces directives d'assurance posent aux mutuelles, il a été effectiment confié à M. le président de la section du Conseil d'Etat une mission destinée à étudier les marges de manoeuvre offertes par les directives afin de préserver la spécificité de la mutualité française. Le Gouvernement réfléchit actuellement à un projet de loi qui intégrerait les directives européennes d'assurance dans le droit national tout en préservant la spécificité de la mutualité française.
