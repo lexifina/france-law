@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010734355
+
+- Question : [SEQ010734355](seq010734355.md) — Simplification des procédures dans l'instruction des dossiers forestiers
+
+## Réponse
+
+*Agriculture, JO du 2001-10-04, page 3185*
+
+L'instruction des demandes d'aides liées aux projets d'investissements forestiers est conduite depuis deux ans dans un contexte difficile, caractérisé notamment par les conséquences des tempêtes de décembre 1999 et la convergence de plusieurs réformes. La parution des subventions de l'Etat pour des projets d'investissement, la mise en oeuvre du plan de développement rural national en application du règlement n° 1257/99 du 17 mai 1999 du Conseil de l'Union européenne et l'installation d'un nouvel organisme payeur (le Centre national pour l'aménagement des structures des exploitations agricoles) ont conduit à refondre les procédures d'instruction des dossiers forestiers. La circulaire n° 2001-3007 du 26 mars 2001 vise à prendre en compte ces nouvelles règles, en soulignant les mesures de simplification administrative concernant l'instruction des dossiers. Celles-ci se traduisent notamment par la possibilité accordée au demandeur de commencer l'exécution des travaux dès que son dossier de demande est déclaré complet. Le dispositif privilégie ainsi la souplesse et la rapidité d'intervention. Les difficultés d'application subsistant aujourd'hui devraient s'estomper au cours des prochains mois, au fur et à mesure du traitement des dossiers. Il convient de préciser, toutefois, que les mesures de contrôle prévues par la réglementation européenne pour les aides cofinancées par les fonds européens obligent à l'élaboration d'un dispositif complet et rigoureux de contrôles au niveau national, et à une très grande vigilance quant au respect des règles d'instruction des dossiers.
