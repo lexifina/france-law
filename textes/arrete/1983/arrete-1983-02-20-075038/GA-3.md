@@ -1,4 +1,6 @@
-# Article Annexe, art. GA. 3
+# Article GA 3
+
+Détermination des effectifs, de la catégorie et de l'activité ferroviaire des gares.
 
 Pour déterminer les effectifs et la catégorie des gares, toutes leurs parties définies à l'article 2 sont prises en compte, à l'exception des emplacements visés en 2.2.2..
 
@@ -51,3 +53,13 @@ Le classement des gares est fixé comme suit :
 Première, deuxième, troisième ou quatrième catégorie : celles dont l'effectif global est supérieur à 200 personnes, la catégorie étant déterminée conformément à l'article R.123-19 du code de la construction et de l'habitation.
 
 Cinquième catégorie : celles dont l'effectif global est, au plus, égal à 200 personnes.
+
+§ 3. Détermination du type d'activité ferroviaire :
+
+Le type d'activité ferroviaire, défini à l'article GA 2, § 3, est un critère pris en compte pour la détermination du degré de résistance au feu des dalles d'isolement avec un tiers superposé, et,
+
+dans le cas de gares souterraines comprenant plusieurs niveaux de sous-sols accessibles au public, de leurs structures principales et des dalles situées immédiatement au-dessus des voies (art. GA 4, § 9.1, art. GA 5, § 2, et art. GA 6, § 2 ci-après).
+
+Le type d'activité est justifié par une déclaration de l'exploitant, jointe à la demande de permis de construire. A défaut, c'est l'activité type "voyageurs plus marchandises" qui sera prise en compte pour la détermination du degré de résistance au feu des structures considérées.
+
+En application de l'article R. 123-21 du code de la construction et de l'habitation, toute modification des conditions d'exploitation ayant pour résultat de passer d'une activité exclusivement voyageurs à une activité de transit de trains de marchandises telles qu'indiquées à l'article GA 2, § 3, devra faire l'objet d'une déclaration au préfet qui pourra imposer, après avis de la commission visée à l'article 4 de l'arrêté portant approbation des règles de sécurité et des modalités de contrôle applicables aux locaux accessibles au public, situés sur le domaine public du chemin de fer et rigoureusement indispensables à l'exploitation de celui-ci (1), les mesures complémentaires rendues nécessaires par cette nouvelle situation.

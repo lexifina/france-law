@@ -1,4 +1,6 @@
-# Article Annexe, art. GA. 2
+# Article GA 2
+
+Domaine d'application.
 
 2.1. On distingue trois types de gares :
 
@@ -44,6 +46,14 @@ Couloirs, escaliers fixes ou mécaniques, trottoirs roulants, ascenseurs.
 
 Salles des pas perdus, salles de vente des billets, salles de correspondance, plates-formes transversales (1) ainsi que les quais pour les gares souterraines, et les quais souterrains des gares mixtes.
 
-Nota :
+§ 3. Type d'activité ferroviaire :
+
+On distingue deux types d'activités :
+
+3.1. Les gares exclusivement voyageurs dans lesquelles ne circulent et ne stationnent que des trains de voyageurs avec éventuellement leurs fourgons à bagages ou postaux et où les autres activités effectuées sur les voies de service sont uniquement liées aux trains de voyageurs (nettoyage, visites techniques, avitaillement, etc.).
+
+3.2. Les gares de voyageurs dans lesquelles transitent également des trains de marchandises.
+
+NOTA :
 
 (1) Plates-formes situées perpendiculairement aux voies qui existent dans les gares têtes de lignes de chemin de fer.

@@ -1,15 +1,23 @@
-# Article Annexe, art. GA. 6
+# Article GA 6
 
-6.1. Généralités.
+Gares exclusivement voyageurs, telles que définies à l'article GA 2, § 3.1 ci-dessus
 
-Les dispositions à appliquer sont les mêmes que celles de l'article 5 à l'exception des modalités du 5-2 ci-avant.
+§ 1. Généralités.
 
-6.2. Stabilité et degré coupe-feu :
+Les dispositions à appliquer sont les mêmes que celles de l'article 5 à l'exception des modalités de l'article GA 5 (§ 2) ci-avant.
 
-Une heure, si l'emplacement situé au-dessus de la dalle n'est pas construit ou s'il est surmonté d'une construction à un seul niveau pour laquelle n'est pas exigée de stabilité au feu ;
+§ 2.Stabilité et degré coupe-feu :
 
-Deux heures, si la construction implantée sur cette dalle ne comporte pas plus de deux niveaux ;
+2.1. Gares souterraines à un seul niveau :
 
-Trois heures, si la construction implantée sur cette dalle comporte plus de deux niveaux,
+Le degré de stabilité au feu de la structure ainsi que le degré coupe-feu de la dalle d'isolement supérieure de la gare souterraine doivent être les suivants :
 
-Quatre heures, s'il existe sur dalle un immeuble de grande hauteur, ou une construction réglementée en raison des dangers d'incendie ou d'explosion.
+- deux heures, s'il existe sur cette dalle une construction dont le plancher bas du dernier niveau est situé à une hauteur inférieure ou égale à vingt-huit mètres par rapport au niveau d'accès des engins d'incendie et de secours, ou une construction réglementée en raison des dangers d'incendie ou d'explosion ;
+
+- trois heures, s'il existe sur cette dalle un immeuble à usage d'habitation de la quatrième famille ou un immeuble de grande hauteur.
+
+2.2. Gares comprenant plusieurs niveaux de sous-sols, accessibles au public :
+
+Les structures principales de ces gares doivent avoir un degré de stabilité au feu d'au moins deux heures.
+
+En outre, les structures porteuses de la dalle supérieure d'isolement avec les tiers doivent avoir un degré de stabilité au feu égal au degré coupe-feu défini dans les conditions du § 2.1 ci-dessus.
