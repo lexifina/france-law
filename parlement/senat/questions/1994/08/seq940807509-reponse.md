@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940807509
+
+- Question : [SEQ940807509](seq940807509.md) — Conséquences du décret du 4 janvier 1991 pour les actionnaires salariés de sociétés non côtées en bourse
+
+## Réponse
+
+*Économie, JO du 1995-12-14, page 2348*
+
+Réponse. - Le décret no 91-15 du 4 janvier 1991, pour protéger les avoirs des salariés porteurs de parts, impose aux fonds communs de placement d'entreprise dits de l'article 20 de la loi du 23 décembre 1988, investis à plus de 10 p. 100 en titres de l'entreprise de prévoir les conditions de la liquidité des valeurs composant leur actif. L'objet de ce décret était de faciliter la sortie des salariés qui avaient investi dans ce type de fonds. L'application de ce texte a suscité des dificultés, en particulier pour les sociétés non cotées, qui devraient être prochainement surmontées. En effet, la promulgation de la loi no 94-640 du 25 juillet 1994 relative à l'amélioration de la participation des salariés dans l'entreprise a rendu nécessaire la refonte de ce décret. Aux termes du décret no 95-1049 du 20 septembre 1995, ne sont désormais soumises aux nouvelles contraintes de liquidité prévues par le décret de 1991 modifié que les entreprises non cotées qui n'offriraient pas un choix de placement à leurs salariés. Il prévoit également que sont considérés comme liquides au sens de la loi précitée les titres qui figurent sur un marché réglementé en fonctionnement régulier, définition plus large que précédemment et qui recouvre notamment les actions inscrites à la cote et au second marché. Le Gouvernement conservant pour objectif de mieux associer les salariés aux résultats et à la vie même de l'entreprise ne méconnaît pas pour autant la nécessité de renforcer la sécurité de l'épargne salariale tout en poursuivant une politique de renforcement de la structure financière des entreprises.
