@@ -1,0 +1,8 @@
+# Ville de Nancy : délibération II-3 — Avis du conseil municipal sur les délibérations prises par la commission administrative de la maison des orphelines.
+
+- Collectivité : Ville de Nancy
+- SIREN : 215403957
+- Code INSEE : 54395
+- Date : 1993-05-24
+- Objet : Avis du conseil municipal sur les délibérations prises par la commission administrative de la maison des orphelines.
+- Jeu de données : https://www.data.gouv.fr/datasets/5d96e6f38b4c410e2b3803a1
