@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960214018
+
+- Question : [SEQ960214018](seq960214018.md) — Discrimination entre les grandes et les petites ou moyennes entreprises dans les appels d'offres
+
+## Réponse
+
+*Économie, JO du 1996-04-25, page 1014*
+
+Réponse. - Le Gouvernement partage les préoccupations du parlementaire concernant les petites et moyennes entreprises, dont l'activité est vitale pour l'économie de notre pays. Il porte un intérêt particulièrement marqué à ce qu'elles puissent accéder à la commande publique dans le respect des principes de concurrence et d'égalité de traitement. A cet égard, il est essentiel de simplifier les règles des marchés publics, afin de les rendre plus accessibles aux utilisateurs. Une première étape a visé à introduire des mesures très concrètes, parmi lesquelles figure la généralisation, au 1er janvier 1996, d'un certificat unique attestant de la régularité fiscale et sociale des candidats à un marché public, qui se substitue aux multiples documents exigés auparavant, et qui ont pu être fréquemment source d'éviction de certaines entreprises pour de simples raisons de forme. Par ailleurs, la mise au point de nouveaux formulaires destinés à faciliter la constitution des dossiers de candidature est actuellement en cours, en liaison avec les utilisateurs. Une deuxième étape, plus ambitieuse et plus large, se concrétisera par une réforme drastique du code des marchés publics, qui vise à donner à tous les utilisateurs - acheteurs publics et entreprises - des règles simples et efficaces. Dans ce but, le Premier ministre a confié à M. Alfred Trassy-Paillogues, député de Seine-Maritime, une mission, chargée de formuler des propositions dans ce sens. C'est à la lumière des conclusions de ce rapport, qui vient d'être remis au Premier ministre, que le Gouvernement engagera les réflexions, accompagnées d'une large concertation, qui permettront de proposer au Parlement, avant la fin de cette année, le dispositif de la réforme.
