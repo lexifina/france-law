@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930400369
+
+- Question : [SEQ930400369](seq930400369.md) — Européanisation de la certification
+
+## Réponse
+
+*Industrie, JO du 1993-07-15, page 1144*
+
+Réponse. - La certification, comme la normalisation, constituent des outils majeurs de développement de la qualité au sein des entreprises et de conquête des marchés. Le rapport de M. Alain Brune met en évidence les forces et faiblesses de notre système de certification, tant de produits industriels, avec la marque NF, que d'entreprises, avec la création récente de L'AFAQ (association française pour l'assurance de la qualité). Il souligne la nécessité de création d'un système national d'accréditation des organismes de certification et d'inspection, afin de permettre aux organismes français d'obtenir la reconnaissance européenne et internationale à laquelle ils peuvent prétendre. Dans ce cadre, il a été demandé aux services du ministère de l'industrie, des postes et télécommunications et du commerce extérieur, en liaison avec le ministère de l'agriculture et de la pêche et le ministère de l'économie en charge de la consommation de constituer un comité consultatif qui proposera des modalités concrètes de mise en oeuvre d'une telle association, regroupant l'ensemble des acteurs concernés. Elle pourrait voir le jour avant la fin de l'année.La réforme de la loi du 10 janvier 1978, régissant la certification de produits industriels et biens d'équipement, sera engagée en parallèle, dans le sens d'un allégement des procédures administratives auxquelles sont actuellement soumis les organismes de certification. Cette réforme, qui s'appuiera sur le système d'accréditation à créer, devrait permettre au système de tarification français de gagner en souplesse et en adaptabilité au marché et, ainsi, de mieux se démarquer des seules contraintes réglementaires.
