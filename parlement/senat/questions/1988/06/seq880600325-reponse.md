@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880600325
+
+- Question : [SEQ880600325](seq880600325.md) — Contrats de production cinématographique antérieurs à 1985
+
+## Réponse
+
+*Culture, JO du 1988-09-08, page 987*
+
+Réponse. - L'article 17, alinéa 3, de la loi du 11 mars 1957 était antérieurement à la loi du 3 juillet 1985 rédigé de la façon suivante : " Les auteurs de l'oeuvre cinématographique autres que l'auteur de compositions musicales, avec ou sans paroles, sont liés au producteur par un contrat qui, sauf clause contraire, emporte cession à son profit du droit exclusif d'exploitation cinématographique, sans préjudice des droits reconnus à l'auteur par les dispositions du titre II et notamment des articles 26 à 35. " La même présomption a été reprise pour le contrat de production audiovisuelle, qui " emporte, sauf clause contraire, cession au profit du producteur des droits exclusifs d'exploitation de l'oeuvre audiovisuelle " (article 63-1 de la loi du 3 juillet 1985). L'exploitation de l'oeuvre cinématographique nécessite en effet la réunion, au profit du producteur, des droits d'exploitation appartenant à chacun des coauteurs de l'oeuvre. La possibilité pour le réalisateur, peu envisageable en pratique, de prévoir une clause contraire donne à cette présomption le caractère d'une présomption simple. En conséquence, lorsque les parties au contrat n'ont pas précisé la portée de la cession au producteur, sont présumés cédés les droits exclusifs d'exploitation cinématographique de l'oeuvre. Les autres modes d'exploitation, sous l'empire de la loi du 11 mars 1957 dans sa rédaction antérieure, ne rentrent pas dans le champ d'application de cette présomption et doivent faire l'objet d'une mention distincte dans l'acte de cession, en application de l'article 31. Le domaine d'exploitation de chacun des droits cédés doit être délimité quant à son étendue et à sa destination, quant au lieu et quant à la durée.
