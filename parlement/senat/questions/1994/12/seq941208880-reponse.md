@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941208880
+
+- Question : [SEQ941208880](seq941208880.md) — Politique de prévention de la toxicomanie
+
+## Réponse
+
+*Santé, JO du 1995-03-23, page 701*
+
+Réponse. - Suite à l'action menée par l'association Apothicom en région Provence-Alpes-Côte d'Azur et en Ile-de-France, la mise en vente dans le réseau officinal de la trousse de prévention Stéribox a été généralisée à l'ensemble du territoire depuis le 15 septembre 1994, les DOM étant approvisionnés depuis début décembre 1994. Du 15 septembre au 15 octobre 1994, des problèmes d'approvisionnement ont pu être constatés, la demande des pharmacies ayant été très importante sur l'ensemble du territoire. Les pharmaciens d'Ile-de-France, déjà engagés de longue date dans cette opération, ont pu en effet souffrir de cette situation au début de l'opération. Un premier bilan effectué fin novembre 1994 a permis de régler les différents problèmes encore existants avec l'ensemble des partenaires concernés. Actuellement, la vente nationale dépasse les 370 000 unités (chiffres au 10 décembre 1994). Afin de renforcer le succès de l'opération, le conseil de l'ordre des pharmaciens s'est engagé à promouvoir auprès des pharmaciens d'officine la mise en place et la délivrance des trousses de prévention. De son côté, le ministère des affaires sociales, de la santé et de la ville mettra prochainement à disposition des pharmaciens des documents d'information et de prévention pour leur permettre de répondre aux interrogations des usagers de drogues. Des crédits ont également été prévus pour financer des projets de formation des pharmaciens sur les problèmes liés à la toxicomanie et au sida, ainsi que pour mettre en place ou renforcer les réseaux de prises en charge des toxicomanes dans lesquels sont intégrés ces pharmaciens.
