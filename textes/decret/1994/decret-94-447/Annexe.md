@@ -8,13 +8,13 @@ Ces aménagements doivent être distants entre eux de 150 mètres au maximum.
 
 Article 2
 
-L'implantation des ralentisseurs est limitée aux agglomérations telles que définies à l'article R. 1er du code de la route, aux aires de service ou de repos routières ou autoroutières ainsi qu'aux chemins forestiers.
+L'implantation des ralentisseurs est limitée aux agglomérations telles que définies à l'article R. 110-2 du code de la route, aux aires de service ou de repos routières ou autoroutières ainsi qu'aux chemins forestiers.
 
 A l'intérieur des zones visées à l'alinéa ci-dessus, ils ne doivent être implantés que :
 
-- sur une section de voie localement limitée à 30 km/h ;
+-sur une section de voie localement limitée à 30 km/ h ;
 
-- dans une zone 30 telle que définie à l'article R. 225 du code de la route.
+-dans une zone 30 telle que définie à l'article R. 225 du code de la route.
 
 Article 3
 
@@ -22,15 +22,15 @@ L'implantation des ralentisseurs est interdite sur des voies où le trafic est s
 
 Elle est également interdite en agglomération au sens du code de la route :
 
-- sur les voies à grande circulation, sur les voies supportant un trafic poids lourds supérieur à 300 véhicules en moyenne journalière annuelle, sur les voies de desserte de transport public de personnes ainsi que sur celles desservant des centres de secours, sauf accord préalable des services concernés ;
+-sur les voies à grande circulation, sur les voies supportant un trafic poids lourds supérieur à 300 véhicules en moyenne journalière annuelle, sur les voies de desserte de transport public de personnes ainsi que sur celles desservant des centres de secours, sauf accord préalable des services concernés ;
 
-- à moins d'une distance de 200 mètres des limites d'une agglomération ou d'une section de route à 70 km/h ;
+-à moins d'une distance de 200 mètres des limites d'une agglomération ou d'une section de route à 70 km/ h ;
 
-- sur les voies dont la déclivité est supérieure à 4 p. 100 ;
+-sur les voies dont la déclivité est supérieure à 4 p. 100 ;
 
-- dans les virages de rayon inférieur à 200 mètres et en sortie de ces derniers à une distance de moins de 40 mètres de ceux-ci ;
+-dans les virages de rayon inférieur à 200 mètres et en sortie de ces derniers à une distance de moins de 40 mètres de ceux-ci ;
 
-- sur ou dans un ouvrage d'art et à moins de 25 mètres de part et d'autre.
+-sur ou dans un ouvrage d'art et à moins de 25 mètres de part et d'autre.
 
 Article 4
 
