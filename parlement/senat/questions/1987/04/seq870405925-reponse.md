@@ -1,0 +1,11 @@
+# Réponse à la question SEQ870405925
+
+- Question : [SEQ870405925](seq870405925.md) — Diffusion du livre scientifique et technique français en République fédérale d'Allemagne (RFA): bilan d'étude
+
+## Réponse
+
+*Éducation, JO du 1987-11-19, page 1837*
+
+Réponse. -L'étude évoquée a été confiée par la D.B.M.I.S.T. à la maison des sciences de l'homme. Elle s'intitule " La production française dans les bibliothèques de recherche en Allemagne fédérale ". Son auteur est le professeur Walter Engel de l'université de Heidelberg. Pour l'essentiel, cette étude vise à évaluer les fonds français de recherche en sciences humaines et sociales en République fédérale d'Allemagne. La lecture des ouvrages français y apparaît limitée et en régression par rapport aux ouvrages en anglais et aux traductions. Le français conserve cependant une place importante en linguistique et littérature. Les origines de cette faiblesse mentionnées par le rapport sont, outre la méconnaissance du français chez les étudiants et enseignants allemands, l'insuffisance qualitative et quantitative des relations établies entre les éditeurs et libraires français et les bibliothèques et le public allemands. Il a donc semblé souhaitable de publier ce rapport (in Bulletin des bibliothèques de France T 31, n° 2, 1986) et de le présenter aux organismes représentatifs du secteur de l'édition et de la librairie. S'agissant des conclusions de l'étude qui s'appliquaient à l'activité de l'administration, on soulignera que : la centralisation souhaitée de la reproduction et de la diffusion des thèses est effective depuis janvier 1986. Un programme d'échanges entre bibliothèques est venu renforcer la coopération entre les partenaires des deux pays. Ce programme a été élaboré au cours d'une mission de M. Varloot, directeur des bibliothèques, des musées et de l'information scientifique et technique en République fédérale d'Allemagne en avril 1986. Il comprend, notamment, un mécanisme de bourses d'étude croisées pour les bibliothécaires des deux pays et une conférence d'experts qui se sont réunis en juin 1987, à l'initiative de la direction des bibliothèques, des musées et de l'information scientifique et technique et du Deutsche
+
+s Bibliotheks Institut, pour examiner les problèmes du catalogage collectif.
