@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960716452
+
+- Question : [SEQ960716452](seq960716452.md) — Départements d'outre-mer : préretraite dans le secteur du bâtiment et des travaux publics
+
+## Réponse
+
+*Outre-mer, JO du 1996-10-03, page 2571*
+
+Réponse. - le ministre de l'outre-mer partage l'avis de l'honorable parlementaire sur la nécessité de mettre en oeuvre dans les départements d'outre-mer la mesure de préretraite pour les salariés du BTP, mesure de nature à favoriser l'emploi des jeunes. CertaXnes caractéristiques de ce dispositif ont été fixées dès l'annonce de la mesure lors des assises de l'égalité sociale active et du développement. Il en est ainsi de l'âge minimum d'entrée dans le dispositif, 52 ans et 6 mois ; du principe de recrutements en nombre équivalent de jeunes sans emploi en contrepartie des départs, et de la participation de l'Etat au financement de 50 p. 100 du coût de la mesure. De nombreux éléments demeurent encore cependant à déterminer pour parfaire concrètement la mise en oeuvre de cette mesure. Il s'agit notamment : de la durée d'appartenance à un régime de sécurité sociale ; de l'ancienneté dans l'entreprise ; des catégories professionnelles concernées ; du délai accordé aux entreprises pour réaliser les recrutements en solidarité ; des caractéristiques du public concerné par l'obligation d'embauche. Il restera, en outre, à arrêter le montant et les modalités de la participation des entreprises au financement du dispositif ainsi que ceux des autres participants éventuels telles les collectivités locales. L'ensemble de ces points fait actuellement l'objet d'un examen conjoint par les services du ministère du travail et des affaires sociales et du ministère de l'outre-mer en association avec les partenaires sociaux qui sont actuellement consultés. De même, j'ai demandé aux préfets de solliciter les collectivités locales pour connaître la manière dont elles entendent s'associer à la mise en oeuvre du dispositif.
