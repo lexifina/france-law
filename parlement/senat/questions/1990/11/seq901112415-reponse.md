@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901112415
+
+- Question : [SEQ901112415](seq901112415.md) — Conditions d'exploitation par la RATP de la ligne de bus 304
+
+## Réponse
+
+*Équipement, JO du 1991-01-10, page 64*
+
+Réponse. - La ligne de bus n° 304 de la R.A.T.P. assure d'ores et déjà une desserte de fin de soirée. En effet, pour les bus desservant la totalité de la ligne, le dernier départ pour Nanterre est à 21 h 10, ce dernier départ pour Asnières à 21 h 40. En outre, les bus circulant entre la cité du Luth et Asnières-Gennevilliers-Gabriel-Péri assurent une correspondance avec le dernier métro, vers 0 h 30. Les mesures prises à la suite de récentes agressions de conducteurs, qui ont souligné la situation préoccupante de certains secteurs de banlieue sur le plan de la sécurité, ne remettent pas en question cette desserte. Si la R.A.T.P. a décidé d'interrompre le 15 octobre 1990 l'exploitation de certaines lignes sensibles, dont la ligne n° 304, de 20 heures à la fin du service, le service normal a été rétabli le 17 octobre. Des réunions, organisées dans les départements de la banlieue parisienne à l'initiative des préfets, ont permis de définir plusieurs mesures immédiatement mises en oeuvre : renforcement des forces de police en soirée et pendant la nuit ; généralisation des liaisons directes entre le P.C. Exploitation des bus de la R.A.T.P. et les salles de commandement de la police urbaine, en vue de déclencher le plus rapidement possible les interventions sur le terrain ; renforcement des contacts directs entre les responsables locaux de la R.A.T.P. et ceux de la police nationale et accompagnement par la police, pendant les heures sensibles, de certains bus desservant des secteurs à risque. Un effort sera également engagé pour prévenir la délinquance en liaison avec les établissements scolaires et les organismes sociaux des secteurs de banlieue les plus concernés par ce problème.
