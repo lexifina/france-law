@@ -328,9 +328,15 @@ En aval du pont de chemin de fer, commune de Pontivy. |
 
 Morbihan. |
 
-Le ruisseau de Kergroix. |
+Le ruisseau de Kergroix (ou ru de la Demi-ville). |
 
-Totalité du cours d'eau. |
+En totalité, y compris en amont du Pont Neuf sur le C.D. 102 :
+
+- le bras descendant de la fontaine de Goah-Gicquel ou Gouarh-Viquel (ou Er Hoch-Vilin) ;
+
+- le bras descendant de Corn Er Houét et Lann Vrehan, commune de Baud, par Mane Cumun (commune de Pluvignier) ;
+
+- le bras dit successivement ruisseau du Moulin de Chaquel, puis ruisseau du Moulin de Saint-Varicq. |
 
 Morbihan. |
 
