@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900610476
+
+- Question : [SEQ900610476](seq900610476.md) — Restauration des retables de Flandre
+
+## Réponse
+
+*Culture, JO du 1990-08-23, page 1812*
+
+Réponse. - Les retables de Flandre constituent un ensemble considérable dont l'intérêt a été mis en lumière par l'important travail de recensement auquel a procédé le ministère de la culture, de la communication, des grands travaux et du Bicentenaire. Effectué par la conservation des antiquités et objets d'art, cet inventaire a permis de faire connaître un patrimoine exceptionnel par sa quantité et sa qualité. La fragilité de ce patrimoine est liée à son matériau constitué d'un bois tendre. Sa restauration soulève, du fait du caractère monumental des retables, des problèmes techniques et financiers, notamment pour nombre de petites communes faiblement peuplées, au pouvoir fiscal réduit et qui possèdent souvent plusieurs de ces oeuvres aux dimensions impressionnantes et foisonnantes de sculptures. Le ministère de la culture, de la communication, des grands travaux et du Bicentenaire s'attache avec ses services régionaux à la prise en compte de la restauration des retables dans ses programmes annuels de travaux en tenant compte des priorités et des disponibilités financières des différents partenaires susceptibles de participer aux opérations : Etat, région, collectivités locales, sans négliger l'éventualité d'une aide privée par des actions de mécénat qui contribuerait à apporter en l'espèce une solution à l'insuffisance des moyens de nombreuses petites communes. L'Etat, en règle générale, concourt pour moitié aux travaux sur les oeuvres classées. En outre a été instaurée en 1989 une participation de l'Etat, dans une mesure moindre mais modulable, à la restauration des objets inscrits sur l'inventaire supplémentaire des monuments historiques. Cette disposition permettra d'étendre le champ de l'action de l'Etat en faveur des retables de Flandre.
