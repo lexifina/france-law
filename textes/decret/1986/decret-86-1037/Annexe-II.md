@@ -36,21 +36,27 @@ Dans le cas d'aliments composés dont la teneur en cendres insolubles dans l'aci
 
 II. - Mentions obligatoires et facultatives relatives aux constituants analytiques.
 
-Aliments pour animaux (1), constituants analytiques (2), espèce animale ou catégories d'animaux (mentions obligatoires selon l'article 15 f (3), mentions facultatives selon l'article 16 j (4)).
+Aliments pour animaux, constituants analytiques, espèce animale ou catégories d'animaux, mentions obligatoires selon l'article 15 f, mentions facultatives selon l'article 16 j.
 
 Aliments complets :
 
-- Protéine brute, matières grasses brutes, cellulose brute, cendres brutes : (3) animaux, à l'exception des animaux familiers autres que les chiens et les chats, (4) animaux familiers autres que les chiens et les chats.
+Protéine brute, matières grasses brutes, cellulose brute, cendres brutes : Animaux, à l'exception des animaux familiers autres que les chiens et chats. Animaux familiers autres que les chiens et les chats.
 
-- Lysine : (3) porcs, (4) animaux autres que les porcs.
+Lysine : Porcs. Animaux autres que les porcs.
 
-- Méthionine : (3) volailles, (4) animaux autres que les volailles.
+Méthionine : Volailles. Animaux autres que les volailles.
 
-- Cystine, Thréonine, Tryptophane : tous les animaux.
+Cystine, thréonine, tryptophane : Tous les animaux.
 
-- Valeur énergétique : (4) volailles (indication selon la méthode de calcul fixée par arrêté conjoint des ministres chargés de la consommation et de l'agriculture), porcs et ruminants (indication selon la méthode de calcul fixée par arrêté conjoint des ministres chargés de la consommation et de l'agriculture).
+Valeur énergétique :
 
-- Amidon, sucres totaux (saccharose), sucres totaux + amidon, calcium, sodium, phosphore, magnésium, potassium : tous les animaux.
+- Volailles (indication selon la méthode de calcul fixée par arrêté conjoint des ministres chargés de la consommation et de l'agriculture).
+
+- Porcs et ruminants (indication selon la méthode de calcul fixée par arrêté conjoint des ministres chargés de la consommation et de l'agriculture).
+
+Amidon, sucres totaux (saccharose), sucres totaux + amidon, calcium, sodium, magnésium, potassium : Tous les animaux.
+
+Phosphore : Poissons, à l'exception des poissons d'ornement. Tous les animaux autres que les poissons, à l'exception des poissons d'ornement.
 
 Aliments minéraux.
 
