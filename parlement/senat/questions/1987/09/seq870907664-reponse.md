@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870907664
+
+- Question : [SEQ870907664](seq870907664.md) — Mesures d'incitation à la création de groupements industriels
+
+## Réponse
+
+*Affaires européennes, JO du 1987-11-26, page 1859*
+
+Réponse. -Comme le note l'honorable parlementaire, les programmes communautaires de recherche ont déjà eu des résultats très positifs, que l'adoption du programme cadre de recherche de la communauté dotés de près de 6 500 millions d'ECU ne pourra que renforcer, 1 600 millions d'ECU étant notamment prévus pour le programme Esprit et 550 pour le programme Race. La constitution de groupements industriels peut effectivement être un complément indispensable, dans certains secteurs, pour que la recherche soit plus efficace et puisse déboucher sur la commercialisation de produits de haute technologie et compétitifs. Il convient à ce titre de noter ; que ces regroupements se sont déjà opérés dans des secteurs stratégiques ; ainsi le programme Race concernera des entreprises européennes qui ont largement atteint la taille critique, en particulier bien sûr Alcatel N.V. (provenant de l'absorption par la C.G.E. des filiales européennes d'I.T.T. dans le domaine des télécommunications), deuxième firme mondiale dans son secteur ; que si la vocation du programme de recherche communautaire est bien aussi de faciliter la mise sur le marché de produits européens, la mise au point et la fabrication de produits immédiatement commercialisables revient surtout au programme Eurêka, d'initiative française ; ce programme regroupe aujourd'hui 165 projets de recherche et de développement, à l'occasion desquels de très grandes entreprises, mais aussi des P.M.E., mettent leurs efforts en commun, dans des domaines aussi variés que la production automobile, la mise au point de logiciels, la robotique ou la biotechnologie.
