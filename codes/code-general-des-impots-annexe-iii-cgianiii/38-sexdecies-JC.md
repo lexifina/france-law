@@ -11,3 +11,7 @@ En outre, la variation de prix à retenir entre la date d'ouverture et de clôtu
 D'autre part, sur option des exploitants intéressés, la valeur des stocks de vins et spiritueux, déterminée à la clôture de l'exercice suivant celui au cours duquel est levée la récolte, demeure inchangée jusqu'à la vente de ces produits. Cette option doit être formulée au plus tard dans le délai de déclaration des résultats du premier exercice auquel elle s'applique. Elle est valable pour cinq ans ou, pour les contribuables soumis sur option au régime simplifié, jusqu'à la fin de la période d'option en cours.
 
 Les choix prévus aux deux alinéas précédents se reconduisent tacitement par période de cinq ans, sauf décision contraire notifiée au service des impôts dans le délai de dépôt de la déclaration des résultats du dernier exercice de chaque période d'option.
+
+Les exploitants agricoles qui pratiquent la déduction prévue à l'article 72 D du code général des impôts renoncent définitivement aux dispositions prévues au troisième alinéa du présent article pour les stocks qui auraient pu y ouvrir droit.
+
+.
