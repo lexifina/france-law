@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010130549
+
+- Question : [SEQ010130549](seq010130549.md) — Possibilité offerte aux agents de l'équipement d'opter pour la fonction publique territoriale
+
+## Réponse
+
+*Équipement, JO du 2001-04-12, page 1282*
+
+Réponse. - Le devenir des services déconcentrés est l'un des thèmes essentiels de la réflexion qui doit être menée dans le cadre de la modernisation de l'administration du ministère de l'équipement, des transports et du logement. Les parties de service qui sont placées sous l'autorité fonctionnelle du président du conseil général restent des services de l'Etat mis à disposition du département, en application de l'article 7 de la loi du 2 décembre 1992. Les personnels sont placés sous l'autorité fonctionnelle du président du conseil général et conservent leur statut de la fonction publique de l'Etat. Les personnels et les organisations syndicales sont très attachés à ce dispositif. Dans ce cadre, certaines situations individuelles ont pu être constatées, où l'exercice du droit d'option vers la fonction publique territoriale a pu être ressenti par quelques agents comme une possibilité à envisager. Le 1er août 2000, le ministre a demandé au conseil général des ponts et chaussées de mener un travail de réflexion et, en étroite concertation avec la direction du personnel et des services du ministère, de procéder à l'évaluation de la mise en uvre de l'article 7 de la loi du 2 décembre 1992. Cette évaluation pourra porter, notamment, sur la situation des agents en poste dans les parties de service placées sous l'autorité fonctionnelle du président du conseil général. Les problèmes liés à l'existence d'une double autorité hiérarchique et fonctionnelle, ainsi que la façon dont ils sont resssentis par les agents, constituent en effet un aspect nécessairement important de cette évaluation.
