@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040311431
+
+- Question : [SEQ040311431](seq040311431.md) — Rachat des années d'études par les fonctionnaires affiliés à la CNRACL
+
+## Réponse
+
+*Fonction publique, JO du 2004-12-30, page 3014*
+
+L'article 45 de la loi n° 2003-775 du 21 août 2003 a introduit un article 9 bis dans le code des pensions civiles et militaires de retraites, qui accorde aux fonctionnaires une possibilité de prise en compte, dans la limite de douze trimestres, des périodes d'études, accomplies dans les établissements, écoles et classes mentionnés à l'article L. 381-4 du code de la sécurité sociale sous réserve de l'obtention du diplôme et du versement des cotisations nécessaires. L'article 12 du décret n° 2003-1306 du 26 décembre 2003 transpose ces dispositions pour les fonctionnaires des collectivités territoriales. Les modalités d'application de ce dispositif ont été précisées par les décrets n° 2003-1308 du 26 décembre 2003 relatif à la prise en compte des périodes d'études pour le calcul de la pension et n° 2003-1310 du 26 décembre 2003 relatif au barème et aux modalités de paiement pour la prise en compte des périodes d'études pour le calcul de la pension. Conformément au I de l'article 5 du décret n° 2003-1308 précité, le versement des cotisations dues au titre d'une demande est effectué en une seule fois si elle porte sur un trimestre. Si elle porte sur plus d'un trimestre, le versement est effectué, au choix de l'intéressé, soit en une seule, soit en plusieurs fois. Dans le cas d'un versement échelonné des cotisations, le premier versement correspond à la cotisation due au titre d'un trimestre et fait l'objet d'un versement particulier. Les versements suivants sont effectués selon des échéances mensuelles. Le premier versement ne peut être inférieur à un trimestre, l'échelonnement des cotisations étant prévu au-delà de cette durée. Il n'est pas prévu de modifier ces dispositions.
