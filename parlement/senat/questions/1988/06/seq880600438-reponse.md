@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880600438
+
+- Question : [SEQ880600438](seq880600438.md) — Tarification des honoraires des chirurgiens-dentistes de la Martinique
+
+## Réponse
+
+*Solidarité, JO du 1988-12-08, page 1400*
+
+Réponse. - Dans le département de la Martinique ainsi du reste qu'en Guadeloupe et en Guyane, certaines professions de santé bénéficient effectivement d'une majoration de leurs honoraires. En effet, il résulte des accords interministériels ayant conduit à l'établissement de l'arrêté du 31 juillet 1962 fixant les tarifs plafonds initiaux des honoraires des praticiens dans les départements d'outre-mer que les tarifs applicables aux différentes lettres clés sont calculés par référence aux tarifs métropolitains majorés, pour tenir compte de la situation particulière de ces départements, de 10 p. 100 pour les départements des Antilles et de la Guyane. Il a toutefois été prévu que cette majoration ne s'appliquerait pas aux lettres clés affectées alors d'une valeur nationale (K, PC, D, R). Ces modalités de majoration continuent à s'appliquer et les chirurgiens-dentistes exerçant dans les départements considérés bénéficient pour leurs honoraires de majorations identiques à celles des médecins. Les lettres clés les plus couramment utilisées par les chirurgiens-dentistes, soit le D, le DC et le SCP, ne bénéficient donc pas de la majoration qui n'est pas davantage étendue aux actes correspondants pratiqués par les médecins cotés en K, KC et SPM. L'assuré peut être dispensé d'avancer la part des dépenses prise en charge par l'assurance maladie lorsque les cotations correspondantes des actes sont supérieures à SCP 40. Les modalités d'application de cette dispense d'avance de frais seront examinées par les parties conventionnelles lors de la prochaine négociation de la convention nationale des chirurgiens-dentistes.
