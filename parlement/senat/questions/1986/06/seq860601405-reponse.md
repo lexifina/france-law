@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860601405
+
+- Question : [SEQ860601405](seq860601405.md) — Conséquences fiscales du rétablissement de l'anonymat sur l'or
+
+## Réponse
+
+*Budget, JO du 1987-01-08, page 42*
+
+Réponse. -Le décret n° 86-774 du 20 mai 1986 a rétabli l'anonymat sur les transactions d'or monnayé et d'or en barres ou lingots mais, à la différence du dispositif en vigueur avant 1981, laisse au client la possibilité de faire enregistrer son identité par l'intermédiaire. Par ailleurs, l'article 27 de la loi de finances rectificative pour 1986 assouplit les dispositions de l'article L. 16 du livre des procédures fiscales relatives à l'inopposabilité en cas de contrôle fiscal des cessions d'or couvertes par l'anonymat en précisant que le contribuable peut alléguer la vente d'or et en faire la preuve à tout moment et par tout moyen, même s'il avait choisi l'anonymat au moment de la transaction. Un de ces moyens pourra consister en une attestation de l'intermédiaire retraçant les éléments figurant dans la comptabilité de celui-ci. L'ensemble de ce dispositif est donc équilibré et cohérent. Il est enfin précisé que la suppression des dispositions de l'article 95 de la loi n° 1160 du 30 décembre 1981 ne dispenserait pas les contribuables d'apporter la justification, en cas de contrôle, de la réalité de la vente d'or invoquée. Il ressort en effet d'une jurisprudence constante du Conseil d'Etat que l'existence d'un anonymat légal ne dispense pas le contribuable de justifier de la réalité de la ou des cessions d'or anonymes qu'il allègue pour expliquer un excédent de ressources constaté par rapport à ses revenus déclarés. Si aucune justification ne pouvait être demandée, il en résulterait une impossibilité totale d'appliquer pleinement la loi en ce qui concerne l'imposition des revenus.
