@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040913644
+
+- Question : [SEQ040913644](seq040913644.md) — Résorption des zones blanches pour le téléphone portable dans le département de la Moselle
+
+## Réponse
+
+*Économie, JO du 2005-02-10, page 385*
+
+Le Gouvernement incite les opérateurs à poursuivre la densification de leur réseau de téléphonie mobile ainsi que l'extension de la couverture du territoire français par le biais de la couverture des zones non desservies. Une convention nationale pour la couverture en téléphonie mobile des " zones blanches " a été signée le 15 juillet 2003 entre l'ART, l'Assemblée des départements de France (ADF) et l'Association des maires de France (AMF), les trois opérateurs et le Gouvernement. Cette convention nationale prévoit l'équipement, en deux phases, d'environ 2 000 sites permettant de couvrir 3 000 communes. Conformément aux principes de la convention nationale, la liste des communes a été élaborée sous l'égide des préfectures de région en concertation avec les élus locaux et les opérateurs. Un protocole d'accord a ainsi été signé le 27 septembre 2004 entre le conseil général de la Moselle et les opérateurs. La remise en cause de cet accord risquerait d'allonger fortement les délais. Enfin la liste finale des neuf communes en phase I, issue de la signature du protocole d'accord, est la suivante Bousseviller, Hanviller, Haspelschiedt, Liederschiedt, Rolbing, Roppeviller, Sturzelbronn, Waldhouse, Walschbronn. Pour la phase Il ont été retenues huit communes : Belles-Forêts, Budling, Colmen, Flastroff, Lafrimbolle, Obergailbach, Turquestein-Blancrupt, Waldweistroff. Conformément aux engagements pris par le Gouvernement le 13 juillet 2004, lors de la signature de l'avenant à la convention nationale permettant le lancement de la phase II, l'ensemble des zones blanches de cette phase sera couvert d'ici fin 2007.
