@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910515402
+
+- Question : [SEQ910515402](seq910515402.md) — Indemnisation des patriotes résistants à l'occupation des départements du Rhin et de la Moselle
+
+## Réponse
+
+*Anciens combattants, JO du 1991-08-08, page 1695*
+
+Réponse. - En premier lieu, s'agissant de l'indemnisation des souffrances subies, il est rappelé que les patriotes résistant à l'occupation des départements du Rhin et de la Moselle (P.R.O.) bénéficient de dispositions spéciales prises depuis 1973 (validées par la loi du 21 décembre 1983, Journal officiel du 22 décembre) " en tant que ces dispositions déterminent le mode d'imputabilité de certaines infirmités, fixent les délais de constatation de celles-ci et énumèrent les personnes auxquelles elles sont applicables ". Les améliorations qui pourraient être apportées à cette réglementation ont été examinées par une commission médicale composée de médecins des associations et de l'administration centrale du secrétariat d'Etat aux anciens combattants et victimes de guerre. Cette commission a formulé des propositions d'ordre médical concernant les délais de constatation des infirmités visées dans les décrets des 18 janvier 1973, 31 décembre 1974, 20 septembre 1977 et 6avril 1981 ainsi que l'adjonction de nouvelles infirmités à celles déjà retenues. Un projet de loi reprenant les conclusions de la commission médicale a été transmis pour avis au ministre en charge du budget. Il demeure que les dossiers de pension des P.R.O. peuvent être soumis à la commission spéciale nationale de réforme des déportés et internes, résistants et politiques. En second lieu, s'agissant de l'indemnisation éventuelle des P.R.O. par l'Allemagne, il est précisé que cette question fait actuellement l'objet de discussions avec des services du ministère des affaires étrangères.
