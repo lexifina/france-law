@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910314226
+
+- Question : [SEQ910314226](seq910314226.md) — Négociation du volet agricole du GATT
+
+## Réponse
+
+*Agriculture, JO du 1991-05-30, page 1097*
+
+Réponse. - Le ministre de l'agriculture et de la forêt partage pleinement l'inquiétude des agriculteurs face à leur avenir. S'agissant plus particulièrement des négociations dans le cadre du GATT, la position du Gouvernement français peut se résumer en deux points : la diminution du soutien accordé par la C.E.E. à ses agriculteurs n'est acceptable que si elle s'accompagne de concessions équivalentes de nos partenaires dans cette négociation et si elle ne remet pas en cause les principes de base de la politique agricole commune, et notamment la préférence communautaire ; d'autre part, dans la Communauté, la baisse du soutien devra être accompagnée par des mesures de compensation qui permettront aux agriculteurs de s'adapter aux nouvelles conditions d'organisation des marchés et des prix. Le mandat de négociation donné à la Commission des communautés européennes par le conseil des ministres du 6 novembre 1990 répond à ces exigences. Quant à la réforme de la P.A.C., le projet présenté par le commisaire Mac Sharry au conseil des 5 et 6 mars a été récusé par une large majorité des ministres de l'agriculture. Le ministre de l'agriculture et de la forêt veillera, au cours des négociations à venir, à ce que le potentiel de l'agriculture française, qui compte parmi les plus compétitives de la C.E.E., ne soit pas mis en cause. Dans le même temps, il souhaite parvenir à un accord permettant une meilleure utilisation des fonds destinés aux actions socio-structurelles afin que soient pris en compte, de façon adaptée, les situations de handicaps naturels et les services rendus à la collectivité par les agriculteurs.
