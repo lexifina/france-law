@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951213101
+
+- Question : [SEQ951213101](seq951213101.md) — Accès des hameaux isolés du Limousin aux réseaux numériques
+
+## Réponse
+
+*Industrie, JO du 1996-04-04, page 817*
+
+Réponse. - Le Gouvernement a décidé, le 16 octobre 1995, d'octroyer le label " expérimentation d'intérêt public " à 170 projets déposés dans le cadre de l'appel à propositions lancé par les pouvoirs publics pour stimuler le développement des applications et des plates-formes d'expérimentation des autoroutes de l'information. Un nouvel ensemble de projets devrait être prochainement sélectionné par le Gouvernement. Il est essentiel que l'ensemble des régions françaises puissent participer à la démarche engagée. La déclinaison au plan régional d'initiatives similaires est tout à fait positive et eoncouragée. La région Limousin accueille d'ailleurs une grande plate-forme régionale d'expérimentations et de services à travers le projet mené par Val de Creuse Initiative, ce qui lui permettra de tester un premier bouquet de services locaux. Il a été constaté qu'une grande partie des services proposés dans le cadre de l'initiative nationale pouvait utiliser les infrastructures existantes de communication, rendant accessibles les services nationaux mis en place. Il importe, à ce stade, de développer également les services d'usages locaux, aptes à susciter le renforcement des infrastructures. Plusieurs projets de services en habitat rural et dispersé vont également être testés à travers la France. Ils permettront d'évaluer les différentes technologies possibles en vue d'une généralisation par les acteurs intéressés. Ces éléments ainsi que l'évolution de l'infrastructure de réseau de l'opérateur national de télécommunications contribueront directement à l'objectif de couverture progressive du territoire d'ici à 2015 par les autoroutes de l'information.
