@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508631
+
+- Question : [SEQ980508631](seq980508631.md) — Informatique et libertés : conservation des informations sous une forme nominative
+
+## Réponse
+
+*Justice, JO du 1998-07-23, page 2383*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que les propositions dont celui-ci souligne l'intérêt ont fait l'objet d'une mise en uvre dans le cadre du projet de loi relatif aux droits des citoyens dans leurs relations avec les administrations, que le Gouvernement a récemment déposé sur le bureau de l'Assemblée nationale. En effet, l'article 6 de ce projet prévoit d'introduire, aux articles 28 et 40-3 de la loi nº 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, conformément aux suggestions de la section du rapport et des études du Conseil d'Etat, un ensemble de précisions destinées à rendre possible une conciliation entre, d'une part, le principe de limitation de la durée de conservation des informations nominatives et, d'autre part, les finalités historiques, statistiques ou scientifiques susceptibles de justifier une conservation ultérieure de ces informations dans les conditions prévues par la loi du 3 janvier 1979 sur les archives. Ces dispositions déterminent notamment la procédure et les garanties applicables aux traitements informatisés susceptibles d'être mis en uvre afin de répondre aux besoins de situations où il s'avère nécessaire, dans l'intérêt des personnes concernées par les données nominatives ayant fait l'objet d'un archivage, de réutiliser celles-ci en vue d'une finalité qui n'est ni historique, ni statistique, ni scientifique, y compris dans l'hypothèse particulière où il s'agit de données de la nature de celles visées à l'article 31 de la loi susvisée du 6 janvier 1978.
