@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861002960
+
+- Question : [SEQ861002960](seq861002960.md) — Comités techniques paritaires des corps de sapeurs-pompiers
+
+## Réponse
+
+*Intérieur, JO du 1986-12-25, page 1789*
+
+Réponse. -La loi du 26 janvier 1984 relative à la fonction publique territoriale a prévu en son article 117 que les sapeurs-pompiers professionnels, fonctionnaires territoriaux, sont régis par des dispositions statutaires spécifiques pour répondre à la nature même de leurs missions. Un décret en Conseil d'Etat doit être pris pour fixer les règles applicables à ces personnels. En l'attente de sa publication, les dispositions antérieures du livre III du code des communes continuent de s'appliquer, notamment celles des articles R. 352-13 à R. 352-19 relatives au conseil d'administration des corps de sapeurs-pompiers dont les compétences sont très proches de celles des comités techniques paritaires. Ainsi et comme il a été indiqué dans plusieurs circulaires adressés aux préfets, les comités techniques paritaires propres aux sapeurs-pompiers professionnels n'ont pas été installés, seul le principe dérogatoire au droit commun de leur création pour un effectif de personnels supérieur à vingt agents ayant été fixé par le décret du 23 novembre 1985 ; un décret particulier doit fixer notamment la composition et les missions de ces comités. Le fait que ces organes n'aient pas été mis en place actuellement est sans incidence sur les droits des organisations syndicales en matière de décharges d'activité de service. Le décret du 3 avril 1985 relatif à l'exercice du droit syndical a en effet prévu, à titre transitoire et jusqu'à installation des comités techniques paritaires, que la représentativité des organisations syndicales devait s'apprécier par rapport au nombre de voix obtenues à l'élection des représentants du personnel aux commissions paritaires.
