@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870505974
+
+- Question : [SEQ870505974](seq870505974.md) — Gestion des établissements publics hospitaliers: déduction des moins-values des excédents de recettes
+
+## Réponse
+
+*Affaires sociales, JO du 1987-08-13, page 1274*
+
+Réponse. -La structure du compte 873 " produits imputables aux exercices antérieurs " ne permet pas de connaître avec précision la nature des recettes qui y sont inscrites. C'est en raison de ce fait qu'il n'a pas été jugé opportun d'étendre le champ d'application des dispositions de l'article 28-1 du décret n° 83-744 du 11 août 1983 modifié à ce poste de recettes, d'autant que des instructions précises ont été données aux ordonnateurs afin de limiter le nombre de titres de recettes annulés sans possibilité de réémission. Il s'agit en premier lieu de la règle dite des 45 jours, mise en place par la circulaire n° 122 du 15 novembre 1985, qui permet à l'établissement hospitalier de valoriser les séjours soit au taux de base du régime concerné, soit éventuellement à 100 p. 100 chaque fois qu'une demande de prise en charge n'est pas suivie d'une décision de prise en charge dans un délai de 45 jours à compter de la date d'envoi de la demande. En second lieu, la circulaire n° 135 du 10 février 1986 dispose que, pour les séjours pour lesquels cette règle ne peut jouer ou qui ont fait l'objet d'un refus de prise en charge pour des motifs formels autres que l'absence de droits ouverts, les ordonnateurs peuvent émettre avant la clôture de l'exercice des titres de recettes partiels correspondant uniquement au ticket modérateur. En tout état de cause, l'application de ces dispositions et la généralisation de la pratique de la présomption de prise en charge doivent permettre de minimiser à l'extrême un éventuel écart entre prévision et réalisation des recettes inscrites au compte 873, et d'éviter ainsi de mettre en péril la situation de trésorerie des établissements.
