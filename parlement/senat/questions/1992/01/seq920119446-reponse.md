@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920119446
+
+- Question : [SEQ920119446](seq920119446.md) — Règlement des dossiers présentés dans le cadre d'opérations groupées d'aménagement foncier
+
+## Réponse
+
+*Agriculture, JO du 1992-04-16, page 937*
+
+Réponse. - Selon les indications fournies par les services concernés, certains retards ont été notés dans le traitement des demandes d'aide présentées dans le cadre des opérations groupées d'aménagement foncier (O.G.A.F.). Toutefois, l'analyse de ces retards montre que ceux-ci tiennent en général à la nécessité pour des dossiers incomplets de respecter la procédure établie. Ainsi, pour certains d'entre eux, le paiement de l'aide prévue ne peut être effectué, parce que la demande a recueilli un avis favorable du comité de pilotage de l'O.G.A.F., assortie d'une réserve qui n'a pu être levée, le plus souvent parce que le bénéficiaire de l'action n'a pas fait le nécessaire auprès du service instructeur pour régulariser son dossier. En ce qui concerne les autres dossiers en instance de règlement, au nombre de cinquante-cinq pour l'O.G.A.F. du Narbonnais, il convient de noter qu'un avenant concernant une nouvelle répartition des crédits permettant un abondement substantiel d'une des actions pilote a été pris le 17 janvier 1992. Cet avenant a été adressé à la délégation régionale du C.N.A.S.E.A., organisme payeur, qui a dû l'envoyer à son agence comptable à Paris pour validation. Une fois cette validation effectuée, l'organisme responsable des paiements pourra procéder au règlement de ces 55 dossiers, et ce, avant la fin mars. D'une façon générale, lorsqu'un dossier ne présente pas de difficultés particulières et que par conséquent sa mise en paiement n'est conditionnée par l'accomplissement d'aucune formalité supplémentaire, le cheminement normal depuis sa création jusqu'à sa mise en paiement est de l'ordre de six mois.
