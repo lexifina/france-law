@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000222570
+
+- Question : [SEQ000222570](seq000222570.md) — Modification du document " demande de renseignements "
+
+## Réponse
+
+*Budget, JO du 2000-04-20, page 1432*
+
+Réponse. - Les demandes de renseignements réalisées au moyen de l'imprimé évoqué dans la question sont effectuées dans le cadre du droit de communication. C'est à ce titre que l'imprimé fait référence aux articles du livre des procédures fiscales régissant ce droit. Le droit de communication s'exerce effectivement, en principe, sur place, dans la mesure où les personnes et organismes assujettis ont l'obligation de laisser libre accès aux documents qu'ils détiennent (documents sur tous supports, y compris magnétiques, comprenant notamment les registres et livres divers). Le refus de laisser les agents habilités du Trésor public consulter ces documents, visés pour chaque type de personnes ou d'organismes par les articles L. 83 à L. 95 du livre des procédures fiscales, peut être sanctionné par l'amende à l'article 1740-1 du code général des impôts. Avec l'accord des personnes et organismes sollicités, le droit de communication peut être exercé par correspondance. Comme le souligne l'auteur de la question, le formulaire visé indique les références des dispositions du livre des procédures fiscales qui autorisent la demande. La formule qui figure sur les imprimés actuels n'énumère pas les quelque vingt articles qui peuvent être concernés, mais seulement les articles " L. 81 à L. 95 " ; il sera demandé aux agents habilités de la DGCP de veiller à préciser la demande en mentionnant les références correspondant à la situation. Par ailleurs, à l'occasion de la réédition de cet imprimé, pourrait être étudiée la possibilité de mieux faire apparaître l'article spécifiquement visé par la demande.
