@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970321082
+
+- Question : [SEQ970321082](seq970321082.md) — Accès des Français aux services consulaires de Dakar (Sénégal)
+
+## Réponse
+
+*Affaires étrangères, JO du 1997-05-15, page 1469*
+
+Réponse. - Le nécessaire renforcement de la sécurité dans toutes nos implantations diplomatiques et consulaires implique le contrôle de l'accès des bâtiments pour assurer aussi bien la sécurité des fonctionnaires qui y travaillent que celle des visiteurs, compatriotes ou étrangers. La mise en place, à Dakar, d'un système d'accès répondant à ces exigences, a entraîné la création d'un sas commun au consulat et à l'ambassade, n'autorisant l'entrée que d'une seule personne à la fois. Le ministère des affaires étrangères est bien conscient que le fonctionnement de ce système à une période de forte affluence comme celle des retraits et dépôts des dossiers de bourses, génère des délais importants d'accès à la chancellerie consulaire entraînant une attente mal perçue des usagers. Notre consul général à Dakar s'efforce de trouver des solutions qui, sans entraîner des coûts supplémentaires, permettront d'atténuer les attentes des usagers, notamment en leur indiquant un créneau horaire pendant lequel ils pourront être reçus. En temps d'affluence normal, la contrainte d'un contrôle individuel est relativement légère et ne constitue qu'un ralentissement des flux d'entrée tel qu'on peut le constater auprès de nombreux organismes sensibles recevant du public. De façon générale, le ministère des affaires étrangères est actuellement engagé dans le cadre de la réforme de l'Etat dans une réflexion sur l'amélioration des conditions de l'accueil du public. A cet effet le ministre des affaires étrangères a confié à un ambassadeur une mission d'étude et de propositions visant à l'amélioration des conditions d'accueil dans les postes à l'étranger.
