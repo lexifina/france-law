@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990214073
+
+- Question : [SEQ990214073](seq990214073.md) — Bilan de l'organisation des actions de formation dans les domaines de l'archéologie, de l'inventaire des biens culturels, menées en République d'Haïti
+
+## Réponse
+
+*Culture, JO du 1999-05-06, page 1486*
+
+Réponse. - A la demande de la Direction du patrimoine du ministère de la culture d'Haïti, la Direction de l'architecture et du patrimoine (sous-direction des études, de la documentation et de l'inventaire) est intervenue dans ce pays depuis 1997, au titre d'une formation aux méthodes de l'inventaire dans les domaines de l'architecture et du mobilier. Après une première mission exploratoire financée par l'Unesco du 28 août au 4 septembre 1997, deux autres missions, prises en charge par le ministère des affaires étrangères (coopération), ont eu lieu en 1998. L'une, du 16 au 24 juin 1998, constituée de trois personnes de l'inventaire général avait pour objectif de former une douzaine de personnes, architectes pour la plupart et ingénieurs, aux méthodes de travail de l'inventaire, en milieu urbain : analyse de fiches, constitution de bases de données. L'autre mission (deux agents) du 25 novembre au 1er décembre 1998 avait pour but d'évaluer le travail pratique réalisé depuis le mois de juin et de mesurer les chances d'une mise en place d'une structure pérenne chargée de l'inventaire à Haïti. Dans ce sens, le bilan de l'année 1998 a été positif puisque deux postes ont été pourvus à l'Ispan (Institut de sauvegarde du patrimoine haïtien) avec la nomination d'une responsable de l'inventaire d'Haïti. Un travail est mené, à titre expérimental, en 1999 sur les maisons en bois de la ville de Port-au-Prince. Il devrait être validé au mois de novembre lors d'une prochaine mission, à laquelle on souhaite associer le conservateur régional de l'archéologie en Guadeloupe pour la mise en place de la carte archéologique et du patrimoine.
