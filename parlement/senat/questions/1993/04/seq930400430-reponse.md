@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930400430
+
+- Question : [SEQ930400430](seq930400430.md) — Statut des agents de l'Etat détachés dans la fonction publique territoriale
+
+## Réponse
+
+*Fonction publique, JO du 1993-07-01, page 1056*
+
+Réponse. - Les nouvelles dispositions statutaires concernant le corps des techniciens de l'équipement seront mises en oeuvre à compter du 1er août 1994. Elles seront applicables à tous les fonctionnaires du corps, y compris ceux qui sont en position de détachement auprès des collectivités territoriales, dans le cadre du droit d'option. Il faut rappeler, en effet, que les fonctionnaires détachés continuent dans leur corps d'origine de bénéficier de leur droit à avancement et à pension de retraite, selon le principe dit de la . Cela ne préjuge pas, par contre, de l'extension éventuelle des dispositions concernant les techniciens des travaux publics de l'Etat au cadre d'emploi des techniciens territoriaux, qui bénéficieront de toute manière des dispositions du protocole Durafour relatives à la catégorie B. Il reste que les modifications statutaires prévues pour les techniciens des travaux publics de l'Etat ne peuvent remettre en question le droit d'option, valablement exercé, des personnels ayant opté pour la fonction publique territoriale. Ceux-ci, en effet, ont choisi, pour la plupart, dans le cadre d'un transfert de compétence de l'Etat, aux collectivités territoriales, de privilégier la poursuite de l'activité exercée au lieu d'exercice de celle-ci plutôt que le maintien dans le statut de fonctionnaire de l'Etat qui suppose notamment l'acceptation d'une mobilité plus grande. Ce choix n'impliquait pas que les dispositions statutaires du corps ou cadre d'emploi d'accueil soient strictement identiques, ni que l'évolution des statuts à l'avenir soit strictement parallèle dès lors que les fonctionnalités, missions ou sujétions pourraient être différentes.
