@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880801240
+
+- Question : [SEQ880801240](seq880801240.md) — Maintien en zones défavorisées, notamment dans les Vosges, des services publics et des moyens de communication
+
+## Réponse
+
+*Équipement, JO du 1989-03-16, page 449*
+
+Réponse. - La S.N.C.F., dans le cadre de l'autonomie de gestion que lui a conférée la loi d'orientation des transports intérieurs du 30 décembre 1982, se doit d'apporter le service le plus adapté aux besoins réels de sa clientèle de manière à respecter les contraintes financières qui sont les siennes. Les derniers résultats du trafic des lignes Remiremont-Bussang, Remiremont-Cornimont et Mirecourt-Epinal se traduisent par un déséquilibre important entre les charges et les recettes d'un montant de 21 MF que les conditions actuelles d'exploitation ne permettent pas d'améliorer. La fréquentation des autorails (quinze voyageurs par circulation) et les potentiels de trafic très faibles ont amené la S.N.C.F. à envisager le transfert sur route de ces circulations à partir de l'été 1989. Cette desserte routière devrait permettre d'offrir un service public moins onéreux et de bien meilleurs qualité répondant plus exactement aux besoins des usagers. En effet, la desserte routière autorisera la mise en place d'horaires mieux adaptés, la réduction des temps de parcours avec la création d'autocars directs, et de meilleures correspondances vers les métropoles lorraines ainsi que vers Paris en desservant les centres villes. En outre l'avenir de cette desserte doit être examiné dans la perspective d'un conventionnement de l'ensemble des services d'intérêt régional, conformément aux dispositions de la loi d'orientation des transports intérieurs qui donne vocation aux régions pour organiser ces services. Des négociations sont actuellement en cours entre la S.N.C.F. et la région Lorraine en vue de la signature d'une telle convention.
