@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941108647
+
+- Question : [SEQ941108647](seq941108647.md) — Délocalisation du service technique de la navigation maritime et des transmissions de l'équipement (STNMTE)
+
+## Réponse
+
+*Équipement, JO du 1995-01-26, page 199*
+
+Réponse. - Le comité interministériel d'aménagement du territoire du 20 septembre 1994 a inscrit, dans la liste des nouveaux projets de transferts de services de l'Etat à effectuer hors de la région Ile-de-France, la délocalisation à Nantes du service technique de la navigation maritime et des transmissions de l'équipement (STNMTE). A la demande du ministre de l'équipement, des transports et du tourisme, un groupe de travail regroupant les directeurs d'administration centrale concernés à été chargé d'élaborer des propositions, accompagnées d'un calendrier, sur les différents aspects de l'opération de délocalisation du STNMTE. Cette délocalisation doit être l'occasion de préciser les missions de l'Etat et les compétences techniques dont il doit disposer dans le domaine de la navigation, et de permettre également la mise en oeuvre d'un projet de service fixant des objectifs ambitieux qu'autorisent les évolutions de la technologie et qui correspondent aux exigences accrues en matière de sécurité. En tout état de cause, la réussite d'une telle opération demeure subordonnée à la préservation des acquis de compétence et de savoir-faire. Il convient de rappeler en outre que cette opération se fera sur la base du seul volontariat des agents et donnera lieu à la mise en place d'un plan d'accompagnement social qui devra notamment offrir les moyens de traiter individuellement les questions de logement, d'emploi des conjoints et de scolarité des enfants. Enfin, les modifications d'implantation seront effectuées en accordant une attention toute particulière à la continuité des travaux menés par le service dans le cadre du système mondial de détresse et de sécurité en mer.
