@@ -128,6 +128,32 @@ Article 17, II
 
 |
 
+Décret n° 2002-535 du 18 avril 2002 relatif à l'évaluation et à la certification de la sécurité offerte par les produits et les systèmes des technologies de l'information.
+
+1
+
+|
+
+Délivrance du certificat attestant qu'un produit ou un système satisfait aux caractéristiques de sécurité spécifiées.
+
+|
+
+- premier alinéa de l'article 8
+
+|
+
+2
+
+|
+
+Délivrance et retrait de l'agrément des centres d'évaluation de la sécurité des technologies de l'information.
+
+|
+
+- premier alinéa de l'article 12 et deuxième alinéa de l'article 14
+
+|
+
 Arrêté du 2 octobre 1992 modifié relatif à la procédure d'importation, d'exportation et de transfert des matériels de guerre, armes et munitions et des matériels assimilés.
 
 1
