@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991019579
+
+- Question : [SEQ991019579](seq991019579.md) — Cas de jeunes non scolarisables et pris en charge par les services de l'aide sociale à l'enfance
+
+## Réponse
+
+*Emploi, JO du 2000-01-13, page 125*
+
+Réponse. - Certains lieux d'accueil associatifs se voient confiés par les services d'aide sociale à l'enfance des jeunes sortis prématurément du système scolaire, présentant un niveau d'étude suffisant pour accéder à une formation ou entrer en apprentissage. Ils s'interrogent sur les mesures existantes pour faciliter l'insertion de ces jeunes. En application de l'article 5 de la loi d'orientation relative à la lutte contre les exclusions du 29 juillet 1998, qui affirme le droit à l'emploi, notamment pour ceux qui en sont les plus éloignés, il a été créé un dispositif intitulé " Trace " (trajet d'accès à l'emploi) destiné aux jeunes de 16 à moins de 26 ans, sans diplôme ni qualification professionnelle ou présentant des handicaps sociaux ou familiaux, qui faute de pouvoir accéder directement à l'emploi ou à une formation qualifiante sont confrontés à un risque d'exclusion professionnelle. Ce programme permet aux jeunes d'entrer dans un parcours pouvant aller jusqu'à dix-huit mois, avec un acccompagnement personnalisé, mobilisant tous les dispositifs d'accès à l'emploi (mise en situation professionnelle, stages de formation...). Aucune condition d'inscription comme demandeur d'emploi n'est exigée. Le pilotage de ce dispositif est confié par le préfet de région soit à une mission locale, une PAIO, soit à une agence locale pour l'emploi. Avant la fin de l'an 2000, 110 000 jeunes doivent bénéficier d'un parcours d'insertion personnalisé, 40 000 en 1999, 60 000 en 2000. Les adolescents et les jeunes adultes fréquentant les lieux de vie ont vocation à intégrer ce dispositif.
