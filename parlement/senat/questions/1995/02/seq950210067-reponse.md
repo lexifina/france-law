@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950210067
+
+- Question : [SEQ950210067](seq950210067.md) — Fonds français pour l'environnement mondial
+
+## Réponse
+
+*Environnement, JO du 1995-08-10, page 1590*
+
+Réponse. - Madame le ministre de l'environnement a pris connaissance de la question posée par l'honorable parlementaire à son prédécesseur, concernant le Fonds français pour l'environnement mondial. Dans le cadre de sa participation au Fonds pour l'environnement mondial, la France a créé un fonds à vocation similaire, mais bilatéral : le Fonds français pour l'environnement mondial. Son montant a été fixé à 440 MF, pour la période 1994/1997. Les ressources du FFEM, comme celles du FEM, sont des ressources additionnelles à celles allouées budgétairement à l'Aide française publique au développement. Ce mécanisme de financement accorde des dons pour la réalisation de projets relatifs à la protection de l'environnement dans les quatre domaines suivants : la réduction des émissions de gaz à effet de serre, la protection de la diversité biologique, la protection des eaux internationales, et le maintien de la couche d'ozone. Les actions de lutte contre la déforestation et la désertification y sont également éligibles, dans la mesure où elles s'inscrivent dans au moins un des quatre domaines cités. La France, avec l'appui de ce nouvel outil, finance des projets s'intégrant dans des programmes plus larges de développement durable. L'accent est mis sur le renforcement des capacités nationales, le processus d'apprentissage, lié à des techniques et technologies nouvelles, y a une place prépondérante. Deux premières tranches de projets ont été approuvées par le comité de pilotage. A ce jour, l'enveloppe sollicitée sur le FFEM a été d'environ 55 millions de francs pour un montant total d'environ 450 MF deprojets.
