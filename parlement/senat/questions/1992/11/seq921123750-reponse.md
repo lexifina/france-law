@@ -1,0 +1,9 @@
+# Réponse à la question SEQ921123750
+
+- Question : [SEQ921123750](seq921123750.md) — Tenue des fiches des centres départementaux de transfusion sanguine
+
+## Réponse
+
+*Santé, JO du 1993-02-04, page 194*
+
+Réponse. - Il convient d'abord de souligner l'intérêt pour le système transfusionnel français de disposer de donneurs de sang fidélisés. La sélection des donneurs et l'ensemble des mesures visant à assurer la sécurité transfusionnelle la plus grande possible sont en effet beaucoup plus aisé à mettre en oeuvre avec des donneurs réguliers qu'avec des donneurs occasionnels. Lorsque les donneurs se présentant spontanément dans les différents centres de transfusion ne sont pas assez nombreux, ces centres sont amenés à écrire à leurs anciens donneurs pour leur demander de renouveler leur geste. Il va bien entendu de soi que, si l'état sérologique du donneur a changé, le centre pourra être amené à refuser un nouveau don ou à détruire la poche de sang prélevé si les différents dépistages obligatoires montrent un risque de transmission d'un virus tel celui du sida. Le cas évoqué par l'honorable parlementaire constitue probablement une erreur ponctuelle, vite réparée et il faut souligner que le test de dépistage obligatoire aurait en tout état de cause permis d'écarter le don. Toutefois, cette erreur déplorable illustre la nécessité d'une part de doter les établissements de transfusion sanguine de bonnes pratiques pour la collecte, d'autre part de mettre en place en France un dispositif national d'hémovigilance : c'est ce que prévoit la loi du 4 janvier 1993 relative à la sécurité en matière de transfusion sanguine et de médicament. Il conviendra de mettre en place rapidement un système de recueil systématique des informations relatives au donneur. Le décret prévu par l'article L. 666-11 du code de la santé publique est en cours de préparation.
