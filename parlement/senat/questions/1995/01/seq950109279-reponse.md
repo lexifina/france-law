@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950109279
+
+- Question : [SEQ950109279](seq950109279.md) — Suppression de bureaux de poste
+
+## Réponse
+
+*Industrie, JO du 1995-03-16, page 641*
+
+Réponse. - Les projets de restructuration de la distribution que mène La Poste, tant au plan national que dans l'Oise, visent à améliorer la qualité du traitement du courrier par une rationalisation des structures de tri existantes. Ils ne constituent que des mesures techniques d'organisation interne à La Poste, n'affectant en rien l'offre de services et n'ayant aucune incidence sur le maintien des bureaux de poste. Il faut rappeler à cet égard que le réseau postal est resté stable au cours de ces dernières années (16 877 bureaux et agences postales en 1993 poue 17 028 en 1988, soit moins de 1 p. 100 de différence). Concernant la polyvalence administrative, la convention passée entre La Poste de l'Oise et la SNCF est exemplaire : l'effort financier nécessaire a d'ailleurs été fourni par ces deux entreprises, sans participation directe des communes. A Cuise-la-Motte, un guichet SNCF est ouvert depuis le 17 septembre 1994 dans le bureau de poste toutes les après-midi et le samedi. A Bacouel, le bureau de poste fonctionne dans la gare SNCF depuis le 2 décembre dernier. Loin de se désengager du monde rural, La Poste s'attache donc à mettre en place une organisation, adaptée au mieux aux besoins réels de la population, qui permette d'assurer la pérennité d'un service public de qualité. Elle recherche ainsi toute solution visant à réactiver le trafic des petits bureaux de poste et à accompagner le développement local. Cela se traduit par deux catégories de partenariats : intégration aux bureaux de poste d'activités non postales (polyvalence administrative, services privés comme la vente de journaux ou le dépôt de pain dans le respect de la concurrence), ou prestations postales dans des locaux non postaux comme dans l'opération " mille villages ".
