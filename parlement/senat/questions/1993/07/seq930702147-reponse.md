@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930702147
+
+- Question : [SEQ930702147](seq930702147.md) — Diminution de la quotité de travaux obligatoires dans l'habitat ancien pour l'accession sociale à la propriété
+
+## Réponse
+
+*Logement, JO du 1993-10-21, page 1962*
+
+Réponse. - Le Gouvernement vient de mettre en place un plan en faveur du logement qui a fait l'objet notamment de la loi de finances rectificative du 22 juin 1993. Ce dispositif, pour lequel l'Etat a dégagé une enveloppe de plus de 6 milliards de francs, doit permettre tout à la fois de soutenir l'activité du bâtiment et de répondre aux besoins de logements des Français. Ce plan comporte plusieurs mesures en faveur de l'accession à la propriété. Le nombre de prêts aidés à l'accession à la propriété (PAP) a été porté de 35 000 à 55 000 en 1993. Le taux d'intérêt a été minoré à 7,7 p. 100 (au lieu de 8,97 p. 100), puis 6,95 p. 100. Les plafonds de ressources sont relevés de 5 p. 100 en Ile-de-France et en zone II, et de 10 p. 100 en zone III. Les plafonds de prêts ont été revalorisés de 20 p. 100 en zone I, de 10 p. 100 en zone II, et de 3 p. 100 en zone III. En matière d'acquisition-amélioration, les PAP sont réservés aux opérations concernant les logements nécessitant d'importants travaux d'amélioration correspondant à au moins 35 p. 100 du coût de l'acquisition-amélioration, soit 54 p. 100 du coût de l'acquisition proprement dite. L'Etat consacre une aide importante aux prêts PAP, ce qui justifie d'une contrepartie au niveau de l'emploi et de l'activité de secteur du bâtiment. C'est pourquoi il n'est pas actuellement envisagé de modifier la réglementation dans le sens souhaité par l'honorable parlementaire. Les acquéreurs peuvent recourir à des prêts d'accession sociale (PAS) garantis par l'Etat et ouvrant droit à l'aide personnalisée au logement (APL) qui n'imposent aucune obligation minimale de travaux.
