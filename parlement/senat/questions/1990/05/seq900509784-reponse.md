@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900509784
+
+- Question : [SEQ900509784](seq900509784.md) — Pouvoir d'achat des fonctionnaires
+
+## Réponse
+
+*Fonction publique, JO du 1990-07-26, page 1655*
+
+Réponse. - Le maintien du pouvoir d'achat des fonctionnaires constitue un objectif majeur de la politique salariale du Gouvernement. Le dispositif salarial mis en oeuvre pour 1989 a permis une augmentation du pouvoir d'achat de la rémunération moyenne des agents en place de 3 p. 100 si bien que, même sans tenir compte des mesures individuelles de promotion et de la prime de croissance, le pouvoir d'achat moyen en masse a été maintenu sur la période 1988-1989. Cet objectif du maintien du pouvoir d'achat doit cependant rester compatible avec le souci du Gouvernement de ne pas compromettre le redressement de notre économie ; il convient à cet égard de rappeler que les dépenses induites par la fonction publique représentent la charge la plus importante du budget de l'Etat (près de 40 p. 100 en 1989) et que les décisions prises en matière de rémunérations concernent directement 4,8 millions d'agents de l'Etat, des collectivités locales et du secteur hospitalier. En ce qui concerne la politique contractuelle, l'absence d'accord sur les conditions d'apurement du bilan salarial 1988-1989 et la revalorisation unilatérale du traitement de base de 1,2 p. 100 au 1er avril 1990 ne constituent en aucun cas une rupture de la politique engagée par le ministre de la fonction publique et des réformes administratives, et qui a conduit notamment à la signature des accords sur la formation continue et la rénovation de la grille des classifications et des rémunérations. Le Gouvernement reste en effet soucieux de maintenir une concertation active et continue avec les syndicats de fonctionnaires, et il est disposé à ouvrir à tout moment une négociation salariale pour 1990.
