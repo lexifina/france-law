@@ -2,14 +2,10 @@
 
 Blocs autonomes d'éclairage de sécurité
 
-§ 1. L'éclairage de sécurité par blocs autonomes doit être réalisé par des appareils conformes à la norme NFC 71-800 ou NFC 71-801. Cette conformité doit être attestée par l'apposition sur chaque appareil de la marque NF correspondante.
+§ 1. L'éclairage de sécurité par blocs autonomes doit être réalisé par des appareils conformes aux normes de la série NF C 71-800 et admis à la marque NF AEAS ou faire l'objet de toute autre certification de qualité en vigueur dans un Etat membre de la Communauté économique européenne. Cette certification devra alors présenter des garanties équivalentes à celles de la marque NF AEAS, notamment en ce qui concerne l'intervention d'une tierce partie indépendante et les performances prévues par les normes correspondantes.
 
-§ 2. Le flux lumineux nominal d'un bloc autonome doit être au moins égal à 60 lumens.
+§ 2. Le flux lumineux assigné d'un bloc autonome doit être au moins égal à 45 lumens pendant la durée de fonctionnement assignée.
 
-L'éclairage d'ambiance doit être assuré par des blocs à fluorescence de type permanent ou non.
+Les appareils doivent être alimentés en dérivation sur les circuits de l'éclairage normal correspondant, en aval du dispositif de protection et en amont du dispositif de commande de chaque circuit.
 
-L'éclairage de balisage peut être assuré par des blocs à incandescence ou des blocs à fluorescence de type permanent ou non.
-
-Tous ces appareils doivent être alimentés par un circuit " éclairage normal " de l'établissement, en aval de la protection divisionnaire et en amont du dispositif de commande de ce circuit.
-
-§ 3. Le personnel doit être instruit des manoeuvres à effectuer lors de chaque démontage pour assurer la mise à l'aide d'un dispositif spécifique incorporé. Un système centralisé de télécommande pour la mise à l'état de repos peut également être installé.
+§ 3. Un système centralisé de télécommande pour la mise à l'état de repos doit être installé.

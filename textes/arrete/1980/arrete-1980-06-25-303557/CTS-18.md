@@ -1,7 +1,7 @@
 # Article CTS 18
 
-Installations à la charge des utilisateurs
+Installations ajoutées par les utilisateurs
 
-§ 1. Les installations électriques citées à l'article CTS 16 (§ 1 b) doivent respecter les dispositions ci-après ; celles citées à l'article CTS 16 (§ 1 c) doivent être respecter les dispositions de l'article CTS 17.
+§ 1. Les tableaux des installations ajoutées par les utilisateurs doivent être placés dans des coffrets ou des armoires fermés à clé, fixés à des éléments stables ; les circuits alimentés à partir de ces tableaux doivent être protégés dans tous les cas par des dispositifs de protection à courant différentiel-résiduel à haute sensibilité.
 
-§ 2. Les installations électriques doivent comporter à leur origine des dispositifs de protection à courant différentiel-résiduel et ce, quels que soient les dispositifs de protection existants dans l'installation qui les alimente.
+§ 2. Les parties d'installations situées en amont des tableaux qui sont alimentés par un branchement indépendant doivent respecter les dispositions du paragraphe 2 de l'article CTS 17.

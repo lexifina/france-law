@@ -8,7 +8,7 @@ Etablissements assujettis
 
 - espaces scéniques comportant des dessous ou des décors de catégorie M 2, M 3 ou M 4 ;
 
-- installation de projection utilisant des appareils fonctionnant avec une lampe à arc ;
+- installation de projection cinématographique utilisant des appareils fonctionnant avec une lampe à arc non installée dans un ballon étanche sans échange gazeux avec l'extérieur ;
 
 - locaux réservés au sommeil ;
 
@@ -22,4 +22,4 @@ Etablissements assujettis
 
 En outre, les structures gonflables ne doivent pas abriter des activités entraînant la présence d'un potentiel calorifique dépassant 250 MJ/m² en moyenne, ou 400 MJ/m² localement.
 
-§ 3. Les dispositions des livres Ier et II du règlement de sécurité sont applicables, selon le type et la catégorie, aux structures gonflables; les mesures spécifiques précisées dans la suite du présent chapitre complètent ces dispositions.
+§ 3. Les dispositions des livres Ier et II du règlement de sécurité sont applicables, à l'exception des articles CO et DF. Toutefois, les articles CO relatifs aux dégagements sont applicables.
