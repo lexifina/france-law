@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991221197
+
+- Question : [SEQ991221197](seq991221197.md) — Lutte contre le bruit et animation des communes
+
+## Réponse
+
+*Aménagement du territoire, JO du 2000-02-10, page 517*
+
+Réponse. - La ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question relative à l'importance des salles des fêtes communales et aux conditions de mise en uvre, pour ces salles, des prescriptions du décret nº 98-1143 du 15 décembre 1998 relatif aux établissements recevant du public et diffusant à titre habituel de la musique amplifiée. Lorsqu'une salle des fêtes communale est régulièrement utilisée, par exemple selon un rythme mensuel, pour la diffusion de musique amplifiée, elle entre dans le champ d'application du décret susvisé. La réglementation impose alors au maire, en tant que gestionnaire de ce lieu, d'établir une étude de l'impact des nuisances sonores et de prendre toutes dispositions propres à garantir la tranquillité des riverains, en particulier par la limitation du niveau sonore. Ce niveau ne doit par ailleurs pas dépasser 105 dB(A), afin de protéger la santé auditive des personnes présentes dans la salle. Aucune limitation du nombre de fêtes ou de diffusions de musique amplifiée n'est prévue par la réglementation, dont la finalité est de favoriser le déroulement des animations et la vie culturelle et associative des communes, dans les meilleures conditions possibles. Le respect des prescriptions du décret nº 98-1143 n'implique pas obligatoirement la réalisation de travaux dont le coût serait économiquement insupportable pour les communes rurales. Les diagnostics acoustiques comportant une étude de l'impact des nuisances sonores accompagnée de solutions pour y remédier et la pose éventuelle de limiteurs de pression acoustique peuvent faire l'objet d'une aide au titre des mécanismes financiers existants.
