@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980810153
+
+- Question : [SEQ980810153](seq980810153.md) — Action de la France pour aider les pays en voie de développement à combattre la tuberculose
+
+## Réponse
+
+*Coopération, JO du 1998-10-01, page 3121*
+
+Réponse. - La tuberculose, responsable d'un décès sur sept dans le monde, constitue un problème majeur de santé publique. Une personne sur trois dans le monde est infectée par le bacille (bacille de Koch). Chaque année, 100 millions de personnes sont affectées, dont 10 millions environ développent la maladie tuberculeuse et 3 millions en meurent. La diffusion de l'épidémie de sida a joué un rôle d'amplificateur. L'OMS estime entre 30 % et 50 % les cas de tuberculose chez les malades atteints du sida, avec chez eux d'importants problèmes de résistance médicamenteuse. Les projections prévoient, d'ici à 2004, 4 millions de décès par an si les stratégies mises au point par l'UNICTMR (Union internationale contre la tuberculose et les maladies respiratoires) et l'OMS ne sont pas appliquées. Le ministère des affaires étrangères - coopération et francophonie - soutient depuis plusieurs années et dans plusieurs pays les programmes nationaux au travers d'un dispositif d'assistance technique (Madagascar, RCA, Djibouti, Angola) et de projets financés par le Fonds d'aide et de coopération (Madagascar, RCA, Congo Brazzaville, Djibouti, Burkina-Faso, Angola). En complément de ces soutiens opérationnels, deux projets d'intérêt général (7 MF et 12 MF) destinés à appuyer les activités de formation, d'information, de recherche et de projets pilotes sont venus compléter notre dispositif d'intervention. Leur évaluation vient d'être réalisée récemment par l'inspection générale des affaires sociales et devrait conduire, en s'appuyant sur les recommandations, à l'élaboration d'un nouveau projet.
