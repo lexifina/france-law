@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980307141
+
+- Question : [SEQ980307141](seq980307141.md) — Eventuelle exclusion de l'activité des opticiens des lunettes pour presbytes
+
+## Réponse
+
+*Santé, JO du 1998-11-12, page 3657*
+
+Réponse. - Le code de la santé publique impose des conditions de qualification aux opticiens-lunetiers détaillants. Ces dispositions ont pour effet de réserver à ces professionnels la vente de l'ensemble des produits corrigeant la vue, qu'il s'agisse de produits visant à corriger une amétropie ou la presbytie, la prescription médicale n'étant obligatoire que pour la délivrance de verres correcteurs aux personnes de moins de seize ans. Dans ce contexte sont apparus des produits standardisés, prémontés industriellement, sans référence à une prescription, visant à apporter aux presbytes une aide visuelle à la lecture. Cette aide visuelle est nécessairement temporaire du fait du caractère approximatif de la correction apportée par ces produits standardisés. Les lunettes prémontées pour vision de près sont caractérisées par leurs verres (sphériques, ni bifocaux ni multifocaux, non teintés, de puissance identique, de p 1 à p 3 dioptries, d'une hauteur maximale de 30 mm), et leur monture exclusivement de forme demi-lune, où le haut du verre est positionné à 4 ou 5 mm au-dessous du pont du nez, qui les destinent à la compensation des seules presbyties. Aucun incident grave n'ayant été signalé, se pose la question de lever la restriction à la diffusion, sans prescription médicale, des lunettes prémontées définies comme précédemment, sans, bien sûr, remettre en question la possibilité pour les opticiens-lunetiers de vendre ces produits, ni la possibilité pour le consommateur de trouver auprès de ces professionnels le conseil nécessaire à une bonne correction de la vue. A ce jour, aucune décision n'a été prise modifiant la réglementation.
