@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881202801
+
+- Question : [SEQ881202801](seq881202801.md) — Avenir de l'éducation surveillée
+
+## Réponse
+
+*Justice, JO du 1989-04-06, page 563*
+
+Réponse. - Le garde des sceaux remercie l'honorable parlementaire de lui donner acte des premiers efforts qu'il a entrepris pour permettre aux services de l'éducation surveillée de reprendre souffle après deux années très difficiles. Ces efforts se sont traduits par une progression des moyens budgétaires de fonctionnement de la direction de l'éducation surveillée et la prise en compte dans le protocole d'accord conclu le 14 décembre avec les principales organisations syndicales représentatives des personnels d'une partie importante de leurs revendications prioritaires (reprise des recrutements, amélioration des primes, règlement de la situation des contractuels). Le renforcement des moyens de la protection judiciaire de la jeunesse constitue, pour les années à venir, un objectif prioritaire pour le ministère de la justice afin d'assurer le droit à l'éducation et à l'insertion sociale des jeunes les plus en difficulté, et de réduire durablement le recours à l'incarcération. L'éducation surveillée a entrepris un effort d'adaptation de ses structures pour tenir compte de la décentralisation. Des études sont en cours pour réduire les disparités territoriales dans l'exercice de la mission de service public à laquelle secteur associatif habilité et secteur public sont associés. Les dispositifs territoriaux de protection judiciaire seront renforcés en conséquence sur plusieurs exercices budgétaires. Cette dynamique sera soutenue par une politique des ressources humaines concertée : revalorisation des métiers, développement des carrières, priorité à la formation des personnels. Le projet de budget 1990 traduira la volonté d'assurer à la protection judiciaire de la jeunesse les moyens de ces ambitions.
