@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980910997
+
+- Question : [SEQ980910997](seq980910997.md) — Rôle du tamoxifène dans la prévention du cancer du sein
+
+## Réponse
+
+*Santé, JO du 1999-01-07, page 59*
+
+Réponse. - En France, le tamoxifène est un médicament indiqué dans le traitement du carcinome mammaire. Son utilisation comporte un risque d'apparition de cancer de l'endomètre et d'accidents thrombo-emboliques. Ce risque, bien connu des prescripteurs, ne remet pas en cause le rapport bénéfice/risque du tamoxifène pour la prévention du cancer controlatéral et des rechutes chez les patientes atteintes de cancer du sein. En revanche, l'utilisation à titre préventif chez des femmes saines ou présentant des facteurs de risque de développer un cancer du sein ne peut être préconisée en l'absence de validation de ces nouvelles voies thérapeutiques. Les études italiennes et britanniques publiées dans la revue britannique The Lancet mettent en doute l'effet protecteur du tamoxifène sur les cas de cancers du sein, contrairement aux études américaines. Cette divergence de résultats peut s'expliquer par des différences dans l'organisation des essais. Ces résultats indiquent, d'après les auteurs, que d'autres essais seront nécessaires pour recommander la prévention du cancer par le tamoxifène, en particulier un suivi à plus long terme des patientes incluses dans les essais pour évaluer l'impact du tamoxifène sur la mortalité par cancer du sein. En France, pour le groupe d'experts réunis par la FNLCC, un essai est apparu souhaitable pour les femmes ayant un sur-risque de développer un cancer du sein. A ce jour, aucun essai du tamoxifène en prévention du cancer du sein n'a été déclaré à l'Agence du médicament conformément aux dispositions de la loi sur la protection des personnes qui se prêtent à des recherches biomédicales.
