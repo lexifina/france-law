@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861003137
+
+- Question : [SEQ861003137](seq861003137.md) — Régime de retraite minière
+
+## Réponse
+
+*Affaires sociales, JO du 1987-02-12, page 198*
+
+Réponse. -Depuis le 1er décembre 1982, le taux de la pension de réversion a été porté de 50 à 52 p. 100 dans le régime général et les régimes légaux alignés sur lui (salariés agricoles, artisans et commerçants). La mise en oeuvre d'une disposition similaire dans les régimes spéciaux (notamment le régime minier) ne saurait être envisagée sans un rapprochement des autres conditions d'attribution. Or ces conditions sont moins rigoureuses dans les régimes spéciaux car, à la différence du régime général, les pensions de réversion sont servies sans condition d'âge ni de ressources. Par ailleurs, le régime minier ne prévoit pas de bonifications d'annuités pour les mères de famille. Il en est de même dans d'autres régimes spéciaux, tel celui des marins. Cette situation résulte, pour une large part, des conditions historiques et démographiques qui ont présidé à l'institution de ces régimes, et notamment du très faible degré de féminisation de la profession minière. Enfin, l'article 4 du décret n° 85-339 du 15 mars 1985 permet la prise en compte, pour la détermination des droits aux prestations de vieillesse et aux pensions de survivants versées par le régime spécial de sécurité sociale dans les mines, des périodes pendant lesquelles l'affilié a bénéficié de l'ouverture anticipée du droit à pension de retraite. Ces dispositions, qui sont applicables aux retraites anticipées prenant effet à compter du 1er juillet 1984, dérogeant au principe général de non-rétroactivité des textes, il n'est pas envisagé de les étendre. De façon générale, les perspectives financières du régime minier, financé à 92 p. 100 par l'Etat et par la compensation à la charge d'autre régimes de sécurité sociale, rendent difficile une modification des conditions actuelles de liquidation des pensions.
