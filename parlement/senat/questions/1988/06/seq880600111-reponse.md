@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880600111
+
+- Question : [SEQ880600111](seq880600111.md) — Politique de redéploiement des postes
+
+## Réponse
+
+*Postes, JO du 1988-08-25, page 947*
+
+Réponse. - Les habitants des zones rurales sont desservis par un réseau d'accueil comprenant plus de 13 000 bureaux de poste et un réseau de contact représenté par plus de 37 000 facteurs qui desservent chaque jour l'ensemble des communes. Du fait des mouvements migratoires et de l'introduction d'organisations nouvelles, une disparité de plus en plus prononcée est apparue dans de nombreuses communes entre les potentialités des bureaux existants et leur niveau réel d'activité. Sur un plan général, le maintien de la présence postale en zone rurale demeure l'un des objectifs prioritaires du Gouvernement, mais dans un souci d'optimisation des moyens du service public, la poste est conduite à ajuster la forme que revêt cette présence à l'évolution du trafic postal et financier, ceci en plein accord avec la politique d'aménagement du territoire qui vise à assurer un développement harmonieux du monde rural. Le ministère des postes, des télécommunications et de l'espace est d'ailleurs en contact avec l'association des maires de France et la délégation de l'aménagement du territoire et à l'action régionale, afin d'étudier les moyens de réactiver les petits établissements postaux. Au cas particulier du canton de Guiscard, la recette rurale de Villeselve est suivie très attentivement par le chef de service départemental, car son activité chute de façon régulière et elle se situe aujourd'hui très en deçà du seuil minimum nécessaire. S'agissant du bureau de poste de Guiscard, un projet, en relation avec la municipalité, va se concrétiser par la construction d'un bureau neuf. Cette mesure apportera une amélioration certaine dans la desserte postale de ce canton.
