@@ -1,9 +1,0 @@
-# Article 21 bis
-
-*Voir accord du 4 juillet 1988 en annexe*
-
-Nota - la CCN du 15 octobre 1996 se substitue à l'ensemble des conventions et accords antérieurs.
-
-NOTA :
-
-Nota - la CCN du 15 octobre 1996 se substitue à l'ensemble des conventions et accords antérieurs.
