@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010331619
+
+- Question : [SEQ010331619](seq010331619.md) — Situation des conseillers des directions régionales des affaires culturelles
+
+## Réponse
+
+*Patrimoine, JO du 2001-05-10, page 1608*
+
+Réponse. - Les conseillers sectoriels qui, auprès des directeurs régionaux des affaires culturelles, mettent en uvre la politique du ministère, notamment dans les domaines de la musique, de la danse, du théâtre et des spectacles, des arts plastiques et, plus largement, de l'action culturelle, sont, pour la plupart, recrutés sur des contrats à durée déterminée. Les compétences dans ces domaines ne se rencontrant pas dans des corps de fonctionnaires, il a en effet été nécessaire de faire appel, pour exercer ces fonctions, à des professionnels recrutés sur contrat, en nombre limité au départ. Avec le développement des politiques de déconcentration et face à des interlocuteurs locaux aux prérogatives élargies, la ministère a progressivement accru le nombre des conseillers sectoriels. La professionnalisation de ces fonctions et le souci de donner aux personnels concernés une perspective de carrière ont conduit le ministère à réfléchir à leur intégration dans un corps de fonctionnaires, dans le respect des règles du statut général de la fonction publique. L'hypothèse évoquée par l'honorable parlementaire de créer un corps spécifique aux effectifs nécessairement restreints et qui viendrait s'ajouter au nombre déjà excessif des corps de fonctionnaires a été écartée au profit d'une intégration dans le corps actuel des inspecteurs de la création et des enseignements artistiques, dont les missions seraient élargies à celles exercées par les conseillers sectoriels. La ministre de la culture et de la communication vient de transmettre pour examen à ses collègues en charge de la fonction publique et du budget un projet de décret établi sur cette base.
