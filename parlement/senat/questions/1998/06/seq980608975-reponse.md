@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980608975
+
+- Question : [SEQ980608975](seq980608975.md) — Sécurité routière au collège
+
+## Réponse
+
+*Enseignement scolaire, JO du 1998-10-29, page 3460*
+
+Réponse. - Institué par la loi nº 57-831 du 26 juillet 1957, l'enseignement du code de la route est mis en uvre sous la forme d'une éducation dans le domaine de la sécurité routière, et les programmes de l'école primaire et ceux du collège incluent cet enseignement. Les articles 3 et 4 du décret nº 93-204 du 12 février 1993 portant sur l'enseignement de la sécurité routière précisent que les enseignants peuvent faire appel à des agents d'administrations compétentes en matière de sécurité routière ou à des membres d'associations intervenant dans le même domaine et que les actions spécifiques dans le domaine de la sécurité routière s'inscrivent dans le cadre du projet d'école ou du projet d'établissement. Les établissements ayant toute liberté pour organiser des journées de sensibilisation à la sécurité routière, celles-ci ne sont pas comptabilisées au niveau national. Les " correspondants sécurité routière " placés auprès des recteurs et des inspecteurs d'académie peuvent apporter des informations sur les opérations académiques et départementales de sensibilisation à la sécurité routière. Des réunions nationales et interacadémiques permettent la formation des correspondants sécurité et sont le lieu d'échanges d'expériences locales particulièrement innovantes. La semaine de sensibilisation à la sécurité routière des jeunes collégiens du Morbihan fait partie d'actions locales qu'il convient d'encourager en liaison avec la passation des deux attestations scolaires de sécurité routière qui sanctionnent, en classe de cinquième et en classe de troisième, la formation théorique générale donnée à tous les élèves.
