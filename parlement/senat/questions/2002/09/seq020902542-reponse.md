@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020902542
+
+- Question : [SEQ020902542](seq020902542.md) — SNCF : bilan des actions menées par la direction des opérations
+
+## Réponse
+
+*Équipement, JO du 2002-12-19, page 3157*
+
+Depuis sa création en janvier 2002, la direction des opérations de la SNCF a mis en oeuvre des actions permanentes de coordination visant à améliorer la qualité de la production ferroviaire, en particulier la régularité des trains. On peut citer, à titre d'exemple, la préparation des pointes de trafic saisonnières, la mise en oeuvre avec Météo France d'un réseau d'alerte interne permettant de prévenir les conséquences des aléas climatiques, la réalisation de référentiels pour la gestion des matériels de traction, l'organisation des postes de commandement régionaux et la diffusion, dès le 5 du mois, d'un compte rendu de la régularité du mois précédent. Le résultat concret de ces actions se traduit par une meilleure régularité des trains de voyageurs en 2002. C'est ainsi que, de janvier à fin septembre 2002, par rapport à la même période en 2001, le nombre de trains grandes lignes arrivés avec moins de dix minutes de retard est passé de 89,3 % à 91,7 %, et celui des trains " Transilien " arrivés avec moins de cinq minutes de retard lors des pointes de trafic est passé de 91,2 % à 92,5 %. Par ailleurs, le nombre quotidien de trains de fret en attente d'acheminement a diminué de 52 %. La direction des opérations intervient également dans le pilotage des crises liées à la production. C'est ainsi que son action a permis le rétablissement très rapide des circulations voyageurs et fret à la suite des graves inondations du début du mois de septembre, dans le sud de la France, en définissant rapidement des axes alternatifs pour le trafic, des priorités de circulation et en organisant les moyens de production correspondants.
