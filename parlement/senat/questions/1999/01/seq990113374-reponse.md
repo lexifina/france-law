@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990113374
+
+- Question : [SEQ990113374](seq990113374.md) — Statut des étudiants en chirurgie dentaire
+
+## Réponse
+
+*Santé, JO du 1999-03-04, page 704*
+
+Réponse. - L'attention du secrétaire d'Etat à la santé et à l'action sociale a été appelée sur les souhaits exprimés par les étudiants en chirurgie dentaire d'obtenir le statut d'étudiants hospitaliers et la gratuité des études universitaires. Les représentants de l'Union des étudiants en chirurgie dentaire ont été reçus le 7 janvier 1999. Cette rencontre faisait suite à plusieurs réunions de travail qui se sont tenues au cours des derniers mois. Il leur a été précisé que les étudiants en chirurgie dentaire étaient assurés pour les accidents du travail, au même titre que les autres étudiants, en application de l'article 412-8 du code de la sécurité sociale. D'autre part, les mesures suivantes leurs ont été annoncées. Un statut d'étudiant en chirurgie dentaire sera reconnu aux étudiants de la quatrième à la sixième année incluse. Ce statut sera élaboré en concertation avec les étudiants, notamment dans le cadre d'un groupe de travail réunissant la direction des hôpitaux et l'union des étudiants et il sera mis en uvre dans les meilleurs délais, dans toute la mesure du possible avant la prochaine rentrée universitaire. En outre, une rémunération sera accordée aux étudiants de cinquième et sixième année dès la prochaine rentrée universitaire de 1999 qui sera identique à celle des étudiants en médecine de cinquième et sixième année. Enfin, le contenu des stages cliniques, fixé par l'arrêté interministériel du 27 septembre 1994, sera revu en concertation avec les étudiants. En particulier, un quart de l'activité clinique de sixième année sera consacré à des actions de prévention à destination d'étudiants d'autres disciplines dans le cadre de la médecine universitaire.
