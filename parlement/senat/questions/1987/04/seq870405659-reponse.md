@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870405659
+
+- Question : [SEQ870405659](seq870405659.md) — Modifications des horaires scolaires
+
+## Réponse
+
+*Éducation, JO du 1987-07-02, page 1040*
+
+Réponse. -Du 3 septembre 1986, date de la rentrée des classes, au 30 juin 1987, fin de l'année scolaire, les élèves auront eu 172 jours de classe et 123 jours de congé. Il est exact que la France figure parmi les pays qui ont le nombre le plus faible de journées de classe et, corrélativement, les horaires hebdomadaires et quotidiens les plus lourds. Alléger la fatigue des enfants implique donc un raccourcissement de chaque journée de travail et un allongement de l'année scolaire. Le calendrier scolaire 1987-1988, publié au Journal officiel du 18 décembre 1986, va dans ce sens, puisqu'il porte à trente-six semaines la durée des cours. De même, la décision de maintenir le mercredi libre pour les enfants de l'enseignement élémentaire respecte les recommandations émises par le recteur Magnin dans son rapport d'octobre 1986. Comme le précise la note de service n° 87-113 du 16 avril 1987, les " contrats bleus " proposés, à compter de la rentrée scolaire 1987-1988, par le secrétariat d'Etat à la jeunesse et aux sports, " permettent de proposer à tous les élèves des écoles élémentaires, publiques ou privées, en dehors du temps scolaire, des activités sportives et culturelles complémentaires à celles de l'école. Tout en augmentant de façon significative (de 4 à 8 heures hebdomadaires) les quantités de pratique offertes à l'enfant, elles peuvent se situer très heureusement dans le prolongement des enseignements de l'école ". Il est demandé aux inspecteurs d'académie, directeurs des services départementaux de l'éducation, " de participer à une politique départementale d'ensemble, cohérente et orientée vers des objectifs éducatifs précis, recouvrant le domaine des activités sportives, artistiques et culturelles ".
