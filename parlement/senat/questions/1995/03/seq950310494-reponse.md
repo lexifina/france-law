@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950310494
+
+- Question : [SEQ950310494](seq950310494.md) — Prix de vente pratiqués par un groupement d'indépendants de la distribution
+
+## Réponse
+
+*Économie, JO du 1995-08-03, page 1546*
+
+Réponse. - Selon une jurisprudence constante, des prix maxima de vente ou des prix conseillés, même lorsque ces commerçants se situent sur la même zone de chalandise, ne constituent pas une pratique prohibée. En revanche, la pratique de prix identiques sur une même zone de chalandise par des groupements de commerçants relève d'une action concertée contraire à l'article 7 de l'ordonnance no 86-1243 du 1er septembre 1986. Le conseil de la concurrence n'a pu que constater, d'ailleurs en accord avec les dispositions communautaires applicables aux réseaux de franchise, que les adhérents des groupements " Intermarché " et " Leclerc " sont des commerçants indépendants exploitant sous forme d'entités juridiques constituées, dotées de la personnalité morale. Il n'a pu qu'en déduire que la pratique de prix identiques sur le même marché constitue une coordination de comportements interdite par les dispositions de l'ordonnance précitée. S'agissant de groupements de grande taille, disposant de parts de marchés très importantes dans certaines zones, le Conseil n'a pas estimé possible d'accorder à de telles pratiques l'exemption prévue à l'article 10 du même texte. Un projet de décret d'exemption, actuellement à l'étude, vise à exempter des pratiques de coopération entre petites et moyennes entreprises concurrentes entre elles. Il ne traite pas du problème des restrictions de concurrence tenant aux rapports entre franchiseur et franchisé, puisque ces pratiques sont déjà couvertes par un règlement d'exemption européen, texte qui interdit expressément aux franchiseurs d'imposer des prix à leurs franchisés.
