@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000525013
+
+- Question : [SEQ000525013](seq000525013.md) — Difficultés d'immatriculation par les chambres des métiers des gens de voyage exerçant une activité artisanale
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2000-07-27, page 2673*
+
+Réponse. - La loi nº 96-603 du 5 juillet 1996 relative au développement et à la promotion du commerce et de l'artisanat a imposé aux personnes physiques et morales exerçant une activité artisanale l'oligation de s'immatriculer au répertoire des métiers. Cette obligation légale s'applique également aux gens du voyage poursuivant ce type d'activité. Au terme de la réglementation actuelle relative à la tenue du répertoire des métiers, les personnes qui demandent leur immatriculation doivent indiquer notamment l'adresse de leur domicile personnel ou, pour les personnes sans domicile ni résidence fixe, la commune a laquelle elles sont rattachées administrativement, conformément aux dispositions de la loi modifiée nº 69-3 du 3 janvier 1969 et du décret modifié nº 70-708 du 31 juillet 1970 relatifs à l'exercice des activités ambulantes et au régime applicable aux personnes circulant en France sans domicile ni résidence fixe. L'attribution d'une commune de rattachement permet aux personnes n'ayant ni domicile ni résidence fixe d'accomplir l'ensemble des obligations fiscales et sociales résultant de leur activité. Sans méconnaître les difficultés des chambres de métiers vis-à-vis de cette population, aucune mesure particulière n'est actuellement envisagée pour modifier cette réglementation. Toutefois, la commission nationale consultative des gens du voyage, qui est chargée d'étudier les problèmes spécifiques de cette population, pourrait être saisie de cette question si les difficultés des chambres de métiers persistaient.
