@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940405837
+
+- Question : [SEQ940405837](seq940405837.md) — Détérioration du climat social de La Poste
+
+## Réponse
+
+*Industrie, JO du 1994-06-09, page 1445*
+
+Réponse. - A ce jour, La Poste est le seul établissement public important à ne pas disposer d'un contrat de plan pluriannuel, régissant ses relations avec l'Etat. Les projets élaborés depuis 1991 n'ont pas abouti et aucun document ne fixe actuellement les paramètres financiers des relations entre l'Etat et La Poste. Face à cette situation, qu'il a découverte en 1993, et devant la détérioration du climat social qui l'accompagnait, le Gouvernement a décidé d'engager rapidement des discussions pour la conclusion d'un contrat de plan qui devra couvrir les trois prochaines années. Ce contrat de plan est actuellement en cours d'élaboration et les travaux réalisés à ce jour laissent espérer une conclusion prochaine. Son objectif prioritaire consiste à préciser les conditions d'un équilibre durable de l'entreprise dans le cadre fixé par la loi du 2 juillet 1990 relative à l'organisation du service public de la poste et des télécommunications. Cet équilibre financier passe par une clarification des relations entre l'Etat et La Poste. L'Etat doit définir précisément ses attentes vis-à-vis de La Poste et assurer une juste rémunération des missions d'intérêt général à l'entreprise. De son côté, dans le respect des orientations du gouvernement en matière d'emploi et de la négociation en cours sur le volet social de la réforme, l'entreprise doit s'engager à améliorer sa compétitivité et maîtriser ses dépenses pour tendre vers l'équilibre de chacune de ses activités. Enfin, le futur contrat de plan devra préciser la manière dont La Poste, entreprise en charge d'un service public de proximité accessible à tous, sera appelée à jouer un rôle spécifique dans le maintien de la présence des services publics en zone rurale et dans la mise en oeuvre de la politique de la ville.
