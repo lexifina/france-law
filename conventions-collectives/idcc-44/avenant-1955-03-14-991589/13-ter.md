@@ -1,0 +1,17 @@
+# Article 13 ter
+
+1. Les jours fériés légaux, autres que le 1er Mai, chômés par le personnel, n'entraîneront aucune réduction de la rémunération toutes primes comprises.
+
+2. Les agents de maîtrise et techniciens travaillant un jour férié, autre que le 1er mai, auront droit, en plus de leur rémunération mensuelle, à 1 jour de repos compensateur ; si les nécessités du service ne permettent pas d'accorder ce repos compensateur, ils recevront une indemnité égale à la rémunération afférente audit jour férié, à l'exclusion des primes prévues à l'article 13.
+
+Ces dispositions sont valables pour les agents de maîtrise et techniciens travaillant en service continu, également, lorsqu'ils sont de repos le jour considéré.
+
+3. Le cas du 1er mai est réglé conformément aux dispositions légales. Toutefois, les agents de maîtrise et techniciens des services continus, qu'ils travaillent ou qu'ils soient de repos ce jour-là auront droit, en plus de leur rémunération mensuelle, soit à un jour de repos compensateur, soit à l'indemnité prévue à l'article 3 de la loi du 30 avril 1947.
+
+4. Pour l'application des dispositions ci-dessus, le jour de repos compensateur n'entraînera aucune réduction de la rémunération qui aurait été perçue ce jour-là.
+
+5. L'apurement des droits résultant pour les intéressés des dispositions qui précèdent devra intervenir au plus tard le dernier jour du trimestre civil suivant celui au cours duquel se place le jour férié considéré.
+
+NOTA :
+
+NOTA : (1) Les jours fériés légaux autres que le 1er Mai sont actuellement les suivants : 1er janvier, lundi de Pâques, Ascension, lundi de Pentecôte, 14 juillet, 15 août (Assomption), 1er novembre, 11 novembre, 25 décembre (Noël).
