@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950410623
+
+- Question : [SEQ950410623](seq950410623.md) — Licenciement d'employées de maison
+
+## Réponse
+
+*Travail, JO du 1995-05-18, page 1172*
+
+Réponse. - Les dispositions de l'article L. 122-14-12 du code du travail rendent nulles et de nul effet les clauses des conventions et accords collectifs de travail et des contrats de travail prévoyant une rupture de plein droit du contrat de travail d'un salarié en raison de son âge ou du fait qu'il serait en droit de bénéficier d'une pension de vieillesse. En revanche, aux termes de l'article L. 122-14-13, la rupture du contrat de travail peut résulter d'une décision de l'employeur lorsque le salarié est susceptible de bénéficier d'une pension de vieillesse à taux plein, au sens du chapitre Ier du titre V du livre III du code de la sécurité sociale, et remplit les conditions d'ouverture à la pension de vieillesse ou, si elles existent, les conditions d'âge prévues par la convention ou l'accord collectif, ou le contrat de travail. Si les conditions ci-dessus mentionnées sont remplies, la mise à la retraite du salarié sur décision de l'employeur ne constitue pas un licenciement mais un dispositif autonome de rupture du contrat de travail. L'employeur est alors tenu, en application de l'article L. 122-14-13, alinéa 4, de se conformer aux dispositions de l'article L. 122-6 du code du travail qui définissent les modalités de calcul du délai-congé. Il doit également verser à l'intéressé une indemnité de départ en retraite équivalente à l'indemnité minimum de licenciement prévue à l'article L. 122-9 du code du travail. Le régime juridique ainsi décrit est applicable aux employées de maisons âgées d'au moins soixante-cinq ans, qui ont l'âge requis pour bénéficier de plein droit du taux plein en application de l'article R. 351-27 du code de la sécurité sociale, d'une part, et pour demander la liquidation de leur pension de vieillesse, d'autre part.
