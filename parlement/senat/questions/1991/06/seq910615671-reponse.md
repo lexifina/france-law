@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910615671
+
+- Question : [SEQ910615671](seq910615671.md) — Sécurité des Français en Côte-d'Ivoire
+
+## Réponse
+
+*Affaires étrangères, JO du 1991-12-19, page 2842*
+
+Réponse. - Comme le sait l'honorable parlementaire, la sécurité des personnes et des biens relève de la compétence exclusive des Etats dans lesquels résident nos compatriotes. Il va de soi, notamment lorsque des atteintes graves à la sécurité des personnes sont relevées, que nos représentations diplomatiques et consulaires ne manquent pas de rappeler aux autorités locales compétentes leurs responsabilités en ce domaine. A la suite du décès de notre compatriote à Abidjan le 1er juin dernier, un contact à haut niveau a eu lieu avec les autorités ivoiriennes, dont l'attention a été appelée avec toute l'insistance requise sur l'émotion suscitée parmi la communauté française et sur la nécessité de prendre des mesures pour assurer une plus grande sécurité à nos compatriotes. Compte tenu de la dégradation des conditions de sécurité en Côte d'Ivoire, le Gouvernement français a décidé d'apporter son concours financier, par l'intermédiaire du fonds d'aide et de coopération, au programme triennal de lutte contre l'insécurité et le banditisme que viennent de mettre en place les autorités ivoiriennes. En outre, la France apporte un appui aux responsables locaux de la police, du fait de la présence à Abidjan d'une délégation du service de coopération internationale technique de police. Par ailleurs, un dialogue constant s'est instauré entre nos représentations diplomatiques et consulaires en Côte-d'Ivoire et les représentants de la communauté française portant à la fois sur les moyens d'améliorer les conditions de sécurité de la vie quotidienne et sur les dispositions à prendre pour faire face à des situations de crise : mise en place de réseaux de communication notamment.
