@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980307241
+
+- Question : [SEQ980307241](seq980307241.md) — Aide à l'action des Restaurants du c ur
+
+## Réponse
+
+*Emploi, JO du 1999-02-25, page 614*
+
+Réponse. - A partir du début des années 90, le ministère de l'emploi et de la solidarité a développé une politique de conventions d'objectifs avec les grands réseaux de solidarité, dont les Restaurants du c ur. Ces conventions ont été placées sous le signe de l'innovation dans les domaines de l'insertion, de la formation des bénévoles et de l'évaluation des actions. Ainsi en 1996, la convention d'objectifs passée avec les Restaurants du c ur correspondait à un montant de 4,5 MF. Depuis cette date, il n'y a pas eu de nouvelle convention au niveau national entre l'Etat et les Restaurants du c ur, dont le financement des actions est très largement assuré par la générosité privée. En revanche, certaines directions départementales des affaires sanitaires et sociales continuent d'apporter leur concours à des actions locales des Restaurants du c ur. Ainsi à Paris, la DASS soutient l'action exemplaire d'hébergement assurée par la " Péniche du C ur ". Par ailleurs, les liens qu'entretiennent les pouvoirs publics avec les Restaurants du c ur sont maintenus au travers d'instances diverses de réflexion et consultation au sein desquelles les Restaurants du c ur sont représentés ainsi que les autres grands réseaux de solidarité. Les pouvoirs publics sont particulièrement attentifs à l'évolution des conceptions qui orientent l'action des Restaurants du c ur. Initialement limitée à la distribution alimentaire, l'action des Restaurants du c ur s'est progressivement élargie à d'autres domaines : l'accueil, la santé, l'hébergement, le logement et l'insertion par l'économique. Cette évolution considérable invite à voir dans les Restaurants du c ur un partenaire à part entière dans la mise en uvre de l'ensemble des actions visant l'insertion des personnes en difficulté.
