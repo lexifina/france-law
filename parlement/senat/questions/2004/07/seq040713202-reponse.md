@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040713202
+
+- Question : [SEQ040713202](seq040713202.md) — Répartition d'une dotation communautaire de solidarité entre communes récentes et anciennes au sein d'une communauté de communes
+
+## Réponse
+
+*Intérieur, JO du 2004-10-21, page 2402*
+
+En application du VI de l'article 1609 nonies C du code général des impôts (CGI) tel que modifié par l'article 185 de la loi relative aux libertés et responsabilités locales du 13 août 2004, les établissements publics de coopération intercommunale (EPCI) à taxe professionnelle unique, autres que les communautés urbaines, peuvent instituer une dotation de solidarité communautaire en faveur de leur communes membres et, le cas échéant, de certains EPCI à fiscalité propre limitrophes. L'institution de la dotation de solidarité communautaire est facultative. Cette dotation a pour objet, à partir de critères prédéfinis, de permettre la mise en oeuvre d'une solidarité financière entre l'EPCI et ses communes membres. Le conseil communautaire statuant à la majorité des deux tiers en fixe le principe et les critères de répartition, en tenant compte prioritairement de l'importance de la population et du potentiel fiscal par habitant. Il en détermine ensuite librement le montant. Les deux critères précités, l'importance de la population et le potentiel fiscal par habitant, doivent être utilisés en priorité par l'EPCI dans le mode d'attribution de cette dotation. Des critères complémentaires peuvent par ailleurs être définis librement par les EPCI pour la répartition du solde. Cela étant, l'EPCI ne peut détourner le sens des dispositions légales en n'utilisant que de manière marginale les critères prioritaires. En tout état de cause, les modalités de répartition de la dotation de solidarité communautaire restent soumises à l'appréciation souveraine du juge administratif.
