@@ -1,0 +1,5 @@
+# Article 38 BIS
+
+Au cas où, à la suite d'un appel d'offres ou d'une adjudication, un marché correspondant à une activité entrant dans le champ d'application de la présente convention collective et concernant un chantier déterminé, serait attribué à un titulaire distinct du titulaire antérieur, pour le même chantier, la continuité des contrats de travail, existants au dernier jour du marché, des salariés du premier employeur affectés audit chantier depuis au moins quatre mois, sera assurée chez l'employeur entrant. Ce dernier ne sera tenu que par les clauses et obligations de ladite convention collective mais aura la charge d'assumer le coût des modifications d'effectif et d'organisation, éventuellement rendues nécessaires pour le nouveau marché.
+
+L'entreprise sortante aura par ailleurs à rembourser à son successeur sur le chantier les sommes prises en charge par ce dernier relatives aux droits acquis par les salariés en matière de congés payés et de primes à périodicité annuelle au titre de la période au cours de laquelle les salairés du chantier étaient encore employés par l'entreprise sortante.
