@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010633811
+
+- Question : [SEQ010633811](seq010633811.md) — Dons d'organes et de tissus humains
+
+## Réponse
+
+*Santé, JO du 2001-12-06, page 3862*
+
+Les mesures annoncées le 22 juin 2000 dans le cadre de la première Journée nationale de promotion du don d'organes ont été mises en oeuvre depuis selon le calendrier prévu. Le " plan greffe " sera en effet réalisé en trois ans, de 2001 à 2003. Il s'agit de la construction d'une véritable politique de santé publique du prélèvement et de la greffe, en affectant la première priorité à la valorisation du prélèvement. En effet, à l'inverse de la greffe, parfaitement reconnue comme une activité de soins indispensable, l'activité de prélèvement est insuffisamment valorisée auprès du public. De plus, elle ne trouve guère de place dans la législation sanitaire, que ce soit dans la loi hospitalière ou la loi bioéthique. Cette situation aboutit à une non-reconnaissance de l'activité de prélèvement qui est sans doute préjudiciable à son développement. C'est pourquoi, parmi les vingt-cinq mesures du " plan greffe ", plusieurs visent à valoriser l'acte de prélèvement, telles que le renforcement des coordinations hospitalières, notamment par la création en trois ans de 120 postes de coordonnateur, l'inscription du prélèvement dans le PMSI, la garantie aux établissements effectuant ces prélèvements du remboursement de leurs frais par les établissements greffeurs et le développement des réseaux de prélèvement. La reconnaissance de la valeur du prélèvement passe aussi par l'affirmation de principes au niveau législatif. Le projet de révision de la loi bioéthique comporte des dispositions qui valorisent ou facilitent l'activité de prélèvement (extension du champ des donneurs vivants, reconnaissance de la valeur médicale de l'acte de prélèvement, notamment).
