@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871108376
+
+- Question : [SEQ871108376](seq871108376.md) — Rétablissement du Mérite combattant
+
+## Réponse
+
+*Anciens combattants, JO du 1988-04-14, page 502*
+
+Réponse. -L'ordre du Mérite combattant institué par un décret du 14 décembre 1953 était destiné à récompenser les personnes qui se sont distinguées par leur compétence, leur activité et leur dévouement dans le soutien, la défense et la gestion des intérêts moraux et matériels des anciens combattants et victimes de guerre, notamment comme dirigeants nationaux, départementaux et locaux des associations et des oeuvres ayant cet objet. Il a été supprimé en 1963 à la suite de la création par le général de Gaulle de l'ordre national du Mérite qui peut être attribué au titre des activités susvisées et il n'est pas prévu, pour le moment du moins, de le rétablir.
