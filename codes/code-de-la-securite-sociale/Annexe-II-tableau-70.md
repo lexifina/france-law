@@ -1,49 +1,57 @@
-# Article Annexe II tableau 70
+# Article Annexe II : Tableau n° 70
 
-Date de création : 19 juillet 1980.
+AFFECTIONS PROFESSIONNELLES PROVOQUEES PAR LE COBALT ET SES COMPOSES
 
-DESIGNATION DES MALADIES :
+DÉSIGNATION DES MALADIES
 
-Dyspnée asthmatiforme
+|
 
-Rhinite spasmodique
+DÉLAI de prise en charge
 
-DELAI DE PRISE EN CHARGE : 15 jours
+|
 
-DESIGNATION DES MALADIES :
+LISTE INDICATIVE DES TRAVAUX SUSCEPTIBLES de provoquer ces maladies
 
-Syndrome irritatif respiratoire à type de toux et de dyspnée, récidivant après nouvelle exposition au risque
+|
 
-DELAI DE PRISE EN CHARGE : 15 jours
+Lésions eczématiformes récidivant après nouvelle exposition au risque ou confirmées par un test épicutané positif spécifique.
 
-DESIGNATION DES MALADIES :
+|
 
-Syndrome irritatif respiratoire chronique confirmé par des épreuves fonctionnelles respiratoires
+15 jours
 
-DELAI DE PRISE EN CHARGE : 1 an
+|
 
-DESIGNATION DES MALADIES :
+Préparation, emploi et manipulation du cobalt et de ses composés.
 
-Fibrose pulmonaire diffuse, avec signes radiologiques et troubles fonctionnels, confirmée par des épreuves fonctionnelles respiratoires
+|
 
-Complications infectieuses pulmonaires ;
+Rhinite récidivant en cas de nouvelle exposition au risque ou confirmée par test spécifique.
 
-Complications cardiaques : insuffisance ventriculaire droite
+|
 
-DELAI DE PRISE EN CHARGE : 5 ans
+7 jours
 
-LISTE INDICATIVE DES PRINCIPAUX TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
+|
 
-Travaux exposant à l'inhalation de poussières de carbures métalliques frittés tels que :
+|
 
-- Fabrication des carbures métalliques frittés : mélange des poudres, travail aux presses et aux fours, travaux d'usinage avant frittage et de rectification après frittage.
+Asthme ou dyspnée asthmatiforme objectivé(e) par exploration fonctionnelle respiratoire récidivant en cas de nouvelle exposition au risque ou confirmé(e) par test spécifique.
 
-- Transformation des carbures métalliques frittés : fabrication d'outils à extrémité en carbures métalliques frittés, de pièces en carbures métalliques frittés.
+|
 
-- Affûtage d'outils ou pièces en carbures métalliques frittés.
+7 jours
 
-- Autres travaux effectués :
+|
 
-Dans les locaux où sont fabriqués ou transformés les carbures métalliques frittés ;
+|
 
-Dans les locaux où sont entretenus les outils ou pièces en carbures métalliques frittés.
+Insuffisance respiratoire chronique obstructive secondaire à la maladie asthmatique.
+
+|
+
+1 an
+
+|
+
+|
