@@ -2,6 +2,8 @@
 
 Corps de catégorie A
 
+Attachés de l'emploi et de la formation professionnelle.
+
 Ingénieurs d'études sanitaires.
 
 Inspecteurs des affaires sanitaires et sociales.
