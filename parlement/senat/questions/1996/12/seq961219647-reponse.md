@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961219647
+
+- Question : [SEQ961219647](seq961219647.md) — Assurance chômage des intermittents du spectacle
+
+## Réponse
+
+*Culture, JO du 1997-02-20, page 529*
+
+Réponse. - Le régime d'assurance chômage des artistes et des techniciens du spectacle devait être négocié entre les partenaires sociaux avant le 31 décembre 1996. Un groupe de travail mixte, constitué à l'initiative du ministre de la culture, a permis des rapprochements de position entre les représentants des employeurs et les représentants des salariés. Ces propositions ont été transmises par le ministre de la culture, tant auprès de la présidence de l'UNEDIC que du ministre du travail, à qui il appartient, au sein du Gouvernement, de suivre au plus près l'ensemble du dossier de l'assurance chômage. Le ministre de la culture n'a pas manqué de rappeler en toutes occasions son attachement à un régime spécifique, légitimement démarqué du régime général puisque s'appliquant à des professions dans lesquelles l'emploi est discontinu, au rythme des contrats. Comme il en avait pris l'engagement le 1er juillet dernier, au cours du Conseil national des professions du spectacle, le ministre a également noué des contacts personnels auprès de la présidence du CNPF, afin de lui exposer les enjeux des négociations en cours pour l'avenir des professions du spectacle. Ces démarches ont abouti à un délai de quatre mois qui devra être mis à profit pour une négociation spécifique. M. Pierre Cabanes, conseiller d'Etat, a été chargé le 24 décembre 1996 par le ministre du travail et des affaires sociales et par le ministre de la culture de prendre tous les contacts nécessaires et de proposer le calendrier, les modalités et le cadre des négociations qui devront aboutir avant fin avril 1997.
