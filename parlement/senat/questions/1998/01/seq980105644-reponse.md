@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980105644
+
+- Question : [SEQ980105644](seq980105644.md) — Calcul de l'imposition concernant la culture de l'ail
+
+## Réponse
+
+*Économie, JO du 1998-04-16, page 1238*
+
+Réponse. - Conformément aux dispositions de l'article L. 1 du livre des procédures fiscales, l'administration soumet devant la commission départementale des impôts directs et des taxes sur le chiffre d'affaires des propositions portant notamment sur les natures de cultures qui doivent faire l'objet d'une évaluation spéciale. Ainsi, dans le département du Nord, comme dans celui du Pas-de-Calais, cette instance a décidé, ces dernières années, de fixer un tarif pour la culture de l'ail. Ce tarif est discuté en commission départementale à partir d'un compte d'exploitation-type " Ail " dressé par le département du Nord. Ce compte retrace l'évolution des rendements, des prix et des coûts de production spécifiques recensés essentiellement sur la région d'Arleux. Pour 1996, le bénéfice a été voté à l'unanimité sur la base de 670 francs pour chacun des 10 premiers ares et 600 francs par are en sus. Ce tarif est d'ailleurs identique à celui arrêté en 1995. Le département du Pas-de-Calais a accepté à l'unanimité en commission départementale un bénéfice identique, applicable sans restriction à l'ensemble du département et déterminé à partir des bases du compte du département du Nord. Cette décision répond aux conditions de l'article L. 3 du livre des procédures fiscales permettant aux exploitants agricoles qui se livrent à des productions spécialisées d'être imposés sur la base des forfaits établis pour les mêmes productions dans un département comportant le même type de production. Il y a donc parfaite égalité de traitement entre les producteurs d'ail du département du Nord et du Pas-de-Calais.
