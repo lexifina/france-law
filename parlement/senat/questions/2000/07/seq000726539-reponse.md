@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000726539
+
+- Question : [SEQ000726539](seq000726539.md) — Pratiques des sociétés de recouvrement
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2000-09-21, page 3267*
+
+Réponse. - Le recours à la procédure de traitement des situations de surendettement des ménages n'entraîne pas la suspension de l'exécution des obligations financières des débiteurs. C'est pourquoi la circulaire d'application du 24 mars 1999 recommande aux débiteurs, dès qu'ils sont admis au bénéfice de la procédure de surendettement, de continuer à assurer, dans la mesure des moyens dont ils disposent, le remboursement de leurs dettes. Pour autant, cette recommandation ne saurait aucunement justifier le recours par certains créanciers, agissant directement ou par l'intermédiaire d'organismes spécialisés, à des méthodes agressives de recouvrement des créances et qui pourraient, en tant que telles, être de nature à affecter les débiteurs surendettés dans leur emploi ou dans leur vie privée. Dans le même esprit, le fait pour certains créanciers de ne pas respecter des plans amiables de redressement ou les mesures recommandées par les commissions, dans l'unique but d'accroître le recouvrement de leurs créances, peut être révélateur d'un comportement fautif susceptible, de surcroît, de nuire au caractère indivisible des mesures adoptées dans le cadre de la procédure du traitement du surendettement des ménages. Les dommages subis du fait de ces comportements abusifs peuvent donc d'ores et déjà donner lieu, dans les conditions de droit commun, à réparation devant les tribunaux. Toutefois, la concertation entre les représentants des principaux créanciers des surendettés, des associations de consommateurs et des services de la Banque de France, qui assurent le secrétariat des commissions de surendettement, pourrait contribuer à faire cesser les errements constatés.
