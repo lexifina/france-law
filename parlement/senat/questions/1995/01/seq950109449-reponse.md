@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950109449
+
+- Question : [SEQ950109449](seq950109449.md) — Réglementation limitant le volume sonore des baladeurs
+
+## Réponse
+
+*Santé, JO du 1995-02-23, page 460*
+
+Réponse. - Des études tendent à montrer que l'écoute de la musique à des niveaux sonores élevés et pendant des durées importantes peut provoquer des dommages pour l'audition des utilisateurs. Le ministre de la santé se préoccupe de cette question et vient de faire réaliser une synthèse des travaux effectués dans divers pays sur ce sujet, en même temps qu'une campagne de mesures acoustiques dans les lieux de loisirs bruyants. Les résultats de cette synthèse et de cette série de mesures montrent que les niveaux actuellement pratiqués peuvent présenter dans certains cas des risques pour l'audition, en particulier lors de la fréquentation de concerts et de discothèques. En complément, le ministre de la santé a fait procéder à une recherche sur les risques auditifs liés aux chaînes stéréophoniques, dont les résultats paraîtront prochainement, et a lancé une étude sur les baladeurs. De plus, le Conseil supérieur d'hygiène publique de France, informé des premiers résultats sur les risques pour la santé de l'écoute de la musique à haut niveau sonore, a émis le 15 septembre 1994 un avis sur ce sujet, demandant notamment " qu'une action particulière soit menée pour limiter les risques dus aux baladeurs, aussi bien en direction des utilisateurs, que vis-à-vis des fabricants et importateurs, et que soient étudiées les mesures pouvant être envisagées pour les cas dangereux ". Aussi les services préparent une réglementation tendant à limiter le niveau sonore des baladeurs. Le projet à l'étude vise à imposer des dispositions constructives pour ces appareils, telles qu'elles permettent d'apprécier la musique tout en restant à des niveaux compatibles avec la santé des utilisateurs.
