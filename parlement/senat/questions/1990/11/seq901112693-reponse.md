@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901112693
+
+- Question : [SEQ901112693](seq901112693.md) — Remboursement des opérations médicales effectuées à l'étranger
+
+## Réponse
+
+*Affaires sociales, JO du 1991-03-07, page 462*
+
+Réponse. - Les relations entre la France et les Etats-Unis d'Amérique en matière de sécurité sociale sont régies par l'accord de sécurité sociale du 2 mars 1987, mais du fait de l'absence dans ce dernier pays d'une législation fédérale relative à l'assurance maladie, ledit accord ne prévoit aucune disposition de coordination pour le service des prestations d'assurance maladie. La situation évoquée par l'honorable parlementaire, celle d'une intervention thérapeutique ne pouvant, pour des raisons techniques, se dérouler qu'à l'étranger, n'est pas cependant une situation ignorée de la réglementation française. Par exception au principe de territorialité qui prévaut en la matière, l'article R. 332-2, troisième alinéa, du code de la sécurité sociale dispose que " les caisses d'assurance maladie pourront, à titre exceptionnel, et après avis favorable du contrôle médical, procéder au remboursement forfaitaire des soins dispensés en dehors de la France à un assuré social ou ayant droit d'assuré social, lorsque celui-ci aura établi qu'il ne pouvait recevoir sur le territoire français les soins appropriés à son état ". Il est précisé que l'avis favorable est donné par l'échelon national du contrôle médical en tenant compte de l'équipement français dans la discipline médicale concernée et que le remboursement forfaitaire est effectué sur la base des frais réellement exposés et dans la limite des tarifs de responsabilité des caisses françaises, le montant total des prestations en nature versées à l'occasion d'un tel traitement médical à l'étranger ne pouvant excéder le montant du remboursement qui aurait été alloué si l'intéressé avait reçu les soins de France.
