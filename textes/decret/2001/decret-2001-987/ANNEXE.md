@@ -8,7 +8,7 @@ A. - Fonctions pouvant donner lieu au versement d'une nouvelle bonification indi
 
 3° Chef de service et adjoint à un directeur ou à un délégué ;
 
-4° Sous-directeur ;
+4° Sous-directeur ou responsable de la mission emplois jeunes ;
 
 5° Responsable de la mission scientifique universitaire ;
 

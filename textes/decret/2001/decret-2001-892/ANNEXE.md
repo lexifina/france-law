@@ -34,21 +34,15 @@ Responsable du bureau d'aide juridictionnelle.
 
 Responsable du service dactylographique informatisé du contentieux.
 
-Responsable du service des notifications à la section du contentieux.
-
 Assistant de secrétariat des sections administratives.
 
 Régisseur (secrétariat général).
-
-Assistant de secrétariat et de greffe à la commission spéciale de cassation des pensions.
 
 Responsable de la préparation informatique des documents de la section du rapport et des études.
 
 Adjoint du responsable du service de reprodiffusion.
 
 Adjoint du responsable administratif du service informatique.
-
-Adjoint du chef du service du budget et de la comptabilité.
 
 Adjoint du secrétaire de la section du contentieux.
 
@@ -66,11 +60,7 @@ Responsable du magasin des fournitures et de la gestion des stocks.
 
 Responsable des effectifs, des concours et du comité médical.
 
-Assistant du rapporteur général de la section du rapport et des études.
-
 Secrétaire adjoint des sections administratives.
-
-Aide de bibliothèque.
 
 Technicien support au service informatique.
 
@@ -82,8 +72,6 @@ Adjoint du responsable du secrétariat particulier du président de la section d
 
 Assistant de secrétariat auprès du responsable des services de la bibliothèque.
 
-Assistant du responsable des ordonnancements concernant les greffes des juridictions administratives.
-
 Responsable du bureau du courrier.
 
 Responsable du suivi financier des affaires immobilières.
@@ -91,8 +79,6 @@ Responsable du suivi financier des affaires immobilières.
 Responsable du suivi de la jurisprudence des tribunaux administratifs et des cours administratives d'appel et de la préparation de l'édition du recueil Lebon.
 
 Assistant du responsable administratif et logistique du service informatique.
-
-Assistant de l'ordonnateur principal.
 
 Assistant de secrétariat au bureau central.
 
@@ -128,13 +114,9 @@ Responsable du suivi technique des affaires immobilières.
 
 Chef du bureau de la gestion financière et comptable (service des tribunaux administratifs et des cours administratives d'appel).
 
-Responsable de l'ordonnancement.
-
 Assistant du secrétaire de la section du contentieux.
 
 Administrateur principal de l'application Skipper.
-
-Responsable de la transcription des débats d'assemblée générale.
 
 Secrétariat de l'assemblée générale.
 
@@ -151,3 +133,25 @@ Secrétaire de la mission d'inspection des juridictions administratives.
 Adjoint de l'administrateur principal de l'application Skipper.
 
 Assistant de secrétariat (service informatique).
+
+Responsable des rémunérations et de la comptabilité.
+
+Responsable du budget et du contrôle de gestion.
+
+Chef du bureau des magistrats (STACAA).
+
+Chef du bureau des affaires générales (STACAA).
+
+Chef du bureau des marchés et crédits de fonctionnement (STACAA).
+
+Chef de la section du contrôle de gestion.
+
+Responsable du bureau des référés.
+
+Chef de la section ordonnancement.
+
+Adjoint du responsable du bureau des référés.
+
+Responsable du bureau des notifications de la section du contentieux.
+
+Secrétaire du secrétaire général des tribunaux administratifs et des cours administratives d'appel.

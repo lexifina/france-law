@@ -1,6 +1,6 @@
 # Article Annexe II
 
-Plafonds de ressources imposables prévus à l'article R. 331-12 du code de la construction et de l'habitation applicables aux logements mentionnés au deuxième alinéa de l'article R. 331-1 (PLA d'intégration)
+PLAFONDS DE RESSOURCES ANNUELLES IMPOSABLES PRÉVUS À L'ARTICLE R. 331-12 DU CODE DE LA CONSTRUCTION ET DE L'HABITATION APPLICABLES AUX LOGEMENTS MENTIONNÉS AU II DE L'ARTICLE R. 331-1 (PLA D'INTÉGRATION)
 
 CATÉGORIE
 
@@ -14,7 +14,7 @@ et communes
 
 limitrophes
 
-(en francs)
+(en euros)
 
 |
 
@@ -26,7 +26,7 @@ et communes
 
 limitrophes
 
-(en francs)
+(en euros)
 
 |
 
@@ -34,7 +34,7 @@ AUTRES
 
 régions
 
-(en francs)
+(en euros)
 
 |
 
@@ -42,15 +42,15 @@ régions
 
 |
 
-50 035
+8 190
 
 |
 
-50 035
+8 190
 
 |
 
-43 501
+7 120
 
 |
 
@@ -58,15 +58,15 @@ régions
 
 |
 
-81 575
+13 352
 
 |
 
-81 575
+13 352
 
 |
 
-63 370
+10 373
 
 |
 
@@ -74,15 +74,15 @@ régions
 
 |
 
-106 939
+17 504
 
 |
 
-98 059
+16 051
 
 |
 
-76 210
+12 474
 
 |
 
@@ -90,15 +90,15 @@ régions
 
 |
 
-117 035
+19 157
 
 |
 
-107 672
+17 624
 
 |
 
-84 796
+13 880
 
 |
 
@@ -106,15 +106,15 @@ régions
 
 |
 
-139 246
+22 792
 
 |
 
-127 464
+20 864
 
 |
 
-99 209
+16 239
 
 |
 
@@ -122,15 +122,15 @@ régions
 
 |
 
-156 691
+25 648
 
 |
 
-143 433
+23 487
 
 |
 
-111 800
+18 300
 
 |
 
@@ -138,14 +138,14 @@ Par personne supplémentaire
 
 |
 
-17 458
+2 858
 
 |
 
-15 980
+2 616
 
 |
 
-12 470
+2 041
 
 |
