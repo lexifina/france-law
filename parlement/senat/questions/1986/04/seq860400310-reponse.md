@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860400310
+
+- Question : [SEQ860400310](seq860400310.md) — Création de circonscriptions supplémentaires à Paris, Lyon et Marseille
+
+## Réponse
+
+*Intérieur, JO du 1986-05-29, page 752*
+
+Réponse. - Il est de tradition constante, depuis 1945 notamment, que, sous réserve de l'attribution minimale de deux sièges aux départements les moins peuplés, le nombre de députés élus dans chaque département soit fixé par référence à la population. C'est d'ailleurs le seul moyen de respecter le principe, réaffirmé par l'article 3 de la Constitution de 1958, d'égalité du suffrage pour la représentation de la population des différentes fractions du territoire. C'est ainsi que les départements des Bouches-du-Rhône, du Rhône et de Paris désignent, depuis les lois n° 85-688 et 85-690 du 10 juillet 1985, respectivement 16, 14 et 21 députés, en application des critères exclusivement démographiques qui ont présidé à la répartition des sièges entre les départements : deux sièges pour les départements comptant 216 000 habitants et moins, un siège supplémentaire par tranche de 108 000 habitants au-delà. Le Gouvernement, dans le cadre de la réforme du mode de scrutin législatif qu'il proposera prochainement au Parlement d'approuver, a décidé de maintenir inchangés le nombre total des députés et leur répartition entre les départements. Compte tenu du principe sus-rappelé, il n'était pas envisageable d'accorder une surreprésentation aux villes de Paris, Lyon et Marseille, comme le suggère l'honorable parlementaire, sur le seul fondement du mode particulier de fonctionnement de l'administration municipale de ces communes. Il n'existe en effet aucun lien juridique entre d'une part l'élection des conseillers municipaux et celles des conseillers de Paris, qui ont pour objet la désignation d'assemblées chargées d'administrer des collectivités locales et, d'autre part, l'élection des députés qui concourent à l'exercice de la souveraineté nationale.
