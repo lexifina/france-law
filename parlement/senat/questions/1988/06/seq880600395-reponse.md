@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880600395
+
+- Question : [SEQ880600395](seq880600395.md) — Calcul de la retraite des agents permanents communaux à temps non complet
+
+## Réponse
+
+*Intérieur, JO du 1990-06-21, page 1373*
+
+Réponse. - La loi n° 84-53 du 26 janvier 1984 a rendu obligatoire l'affiliation à la Caisse nationale de retraite des agents des collectivités locales des fonctionnaires à temps non complet effectuant un nombre minimal d'heures fixé par délibération de cette caisse. Ce nombre minimal d'heures qui, avant la loi précitée, rendait possible cette affiliation, a été abaissé par délibération en date du 11 janvier 1983 de 35 heures à 31 h 30. Cette évolution a rendu nécessaire la modification du décret du 19 septembre 1947 cité par l'honorable parlementaire. Il convenait en effet, d'une part, de permettre aux fonctionnaires qui n'avaient pas été affiliés avant 1984 de faire valider les périodes au titre desquelles ils auraient pu l'être, d'autre part, de fixer la date d'affiliation des agents concernés par l'abaissement du seuil de 35 heures à 31 h 30. Loin de se contredire, les dispositions du décret du 19 septembre 1947 et celles du décret du 9 septembre 1965 se complètent : la validation des services prévue par l'article 47 du décret du 9 septembre 1965 ne peut être accordée que pour autant que lesdits services ont été accomplis au cours d'une période où la durée hebdomadaire de service de l'intéressé était égale ou supérieure au seuil d'affiliation, le point de départ de la période coïncidant, en vertu de l'article 1er-2° du décret de 1947, avec la date d'effet de la délibération fixant le seuil d'affiliation. Enfin, il est à noter que le IV de l'article 48 du décret du 9 septembre 1965 prévoit que " Les contributions rétroactives dues par les collectivités pour la validation des services visés aux articles 46 et 47 du présent règlement ont le caractère de dépenses obligatoires. "
