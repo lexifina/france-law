@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960113399
+
+- Question : [SEQ960113399](seq960113399.md) — Affaire dite des " disparus de Mourmelon "
+
+## Réponse
+
+*Justice, JO du 1996-06-13, page 1458*
+
+Réponse. - Le garde des sceaux tient tout d'abord à faire savoir à l'honorable parlementaire combien les magistrats qui ont à connaître de cette affaire et lui-même sont sensibles à l'immense peine et à la profonde détresse de ces parents qui doivent, depuis de trop longues années, vivre dans l'ignorance du sort de leur fils. L'institution judiciaire n'est pas restée inerte face à un tel drame humain, d'autant plus cruellement ressenti qu'il reste à ce jour inexpliqué. Ainsi, une information judiciaire relative aux disparitions constatées est toujours suivie au tribunal de grande instance de Châlons-en-Champagne. Le magistrat instructeur en charge de cette procédure a multiplié les diligences et exploité avec ténacité toutes les pistes qui se sont offertes à lui. Récemment, le dossier d'une procédure pouvant présenter quelques similitudes avec cette affaire lui a été joint afin de faciliter d'éventuels rapprochements significatifs. Le juge d'instruction a ordonné de nouvelles investigations de nature scientifique qui permettront peut-être de parvenir enfin à la manifestation de la vérité. L'honorable parlementaire peut être certain que les services compétents de la chancellerie restent extrêmement attentifs au cheminement de cette procédure et veillent avec constance à ce qu'elle ne subisse aucun retard injustifié. Par ailleurs, la commission d'indemnisation des victimes d'infractions pénales siégeant près le tribunal de grande instance de Châlons-en-Champagne a déclaré recevables les requêtes en indemnisation de cinq familles et leur a accordé au titre de la réparation de leurs préjudices une somme totale de 1 028 000 francs.
