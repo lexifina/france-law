@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860400348
+
+- Question : [SEQ860400348](seq860400348.md) — Conseil supérieur des Français de l'étranger: élaboration d'un statut
+
+## Réponse
+
+*Affaires étrangères, JO du 1986-07-10, page 956*
+
+Réponse. -Le projet de statut des élus au C.S.F.E. adopté par l'assemblée plénière au cours de sa 38e session fait actuellement l'objet d'une étude attentive du ministère des affaires étrangères en vue de sa prise en compte dans la préparation du projet de loi gouvernemental portant statut des élus locaux. Dans l'attente de l'adoption de ce texte qui fixera les modalités d'exercice de la fonction d'élu, le ministère des affaires étrangères s'attache à faciliter dans tous les cas qui lui sont soumis, l'exercice du mandat de délégué au C.S.F.E. et, en particulier, l'obtention d'autorisations d'absence auprès des employeurs pour permettre aux élus d'assister aux réunions des différentes formations du conseil. Pour les fonctionnaires internationaux, le ministère des affaires étrangères n'a jamais eu, jusqu'à présent, connaissance de difficultés particulières qu'ils auraient rencontrées pour participer aux travaux du C.S.F.E. Il convient, en effet, d'observer que leur accession à des fonctions, électives ou non, exercées hors du cadre des activités spécifiques à l'organisation internationale est soumise à l'approbation préalable du chef du secrétariat de l'organisation qui apprécie souverainement, au cas par cas, si l'exercice de ces fonctions n'est pas de nature à porter atteinte à l'indépendance de l'organisation dans laquelle ils servent. Cependant, il paraît possible au département, le cas échéant, d'appeler l'attention des responsables des organisations internationales sur l'intérêt que peut présenter la participation de fonctionnaires internationaux français aux travaux du conseil.
