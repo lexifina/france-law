@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980307155
+
+- Question : [SEQ980307155](seq980307155.md) — Absence de conventions fiscales entre la France et Djibouti
+
+## Réponse
+
+*Économie, JO du 1998-06-04, page 1800*
+
+Réponse. - La France et Djibouti ne sont pas liés par une convention fiscale destinée à éviter les doubles impositions. Cela étant, il est précisé que la majeure partie des Français installés à Djibouti est visée par les accords de coopération franco-djiboutiens actuellement en vigueur. Or, la convention relative au concours en personnel apporté par la République française au fonctionnement des services publics de la République de Djibouti du 28 avril 1978, qui est l'accord de référence en la matière, prévoit une imposition exclusive à Djibouti des rémunérations du personnel d'assistance technique français. Afin de prévenir les doubles impositions existantes dans tous les autres cas, notamment dans ceux décrits par l'auteur de la question, la France a proposé à deux reprises, en 1985 et en 1990, aux autorités fiscales djiboutiennes de négocier une convention fiscale. Ces démarches n'ont pas abouti à ce jour. Ainsi, en l'absence d'un tel traité entre la France et cet Etat, les dispositions du droit fiscal interne de chacun des deux Etats sont pleinement applicables. En ce qui concerne la France, il en résulte que les personnes considérées comme ayant leur domicile fiscal en France au sens de l'article 4 B du code général des impôts y sont imposables à raison de l'ensemble de leurs revenus conformément aux dispositions de l'article 4 A dudit code, c'est-à-dire le cas échéant à raison de pensions publiques de source djiboutienne. Il est cependant admis que les impôts acquittés à Djibouti à raison de ces pensions peuvent être déduits de la base imposable en France, ce qui contribue à atténuer le cas échéant la double imposition subie.
