@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961018510
+
+- Question : [SEQ961018510](seq961018510.md) — Nécessaire intégration d'Israël dans les institutions francophones
+
+## Réponse
+
+*Francophonie, JO du 1997-01-30, page 298*
+
+Réponse. - Comme le sait l'honorable parlementaire, l'adhésion à la conférence des chefs d'Etat et de gouvernement des pays ayant le français en partage ne peut être prononcée par celle-ci qu'au terme d'une procédure engagée à l'initiative du pays intéressé, et doit l'être à l'unanimité des participants. La réponse à donner à une candidature officielle n'incombe donc pas seulement à la France. Israël avait effectivement présenté sa candidature, en 1993, avant le sommet de Maurice. A ce moment-là, elle avait été déclarée non recevable, car trop tardive. A quelque temps du sommet de Cotonou (décembre 1995), le Liban a fait savoir qu'il s'opposerait à l'entrée d'Israël dans les circonstances actuelles. Pour sa part, consciente des titres que peut faire valoir Israël à participer à la francophonie et s'étant exprimée en faveur de cette participation, la France continue d'appeler de ses voeux la réalisation des conditions permettant d'envisager favorablement une candidature israélienne, et use de son influence dans ce sens. Dans cette perspective, Israël pourrait se signaler d'une manière plus concrète à l'attention de la communauté francophone par l'usage du français dans les organisations internationales dont il fait partie, ainsi que par le canal d'associations israéliennes qui mèneraient certaines actions avec les opérateurs reconnus par les sommets, notamment l'Agence de la francophonie (ACCT), l'Association des universités partiellement ou entièrement de langue française (AUPELF-UREF) ou l'Association internationale des maires et responsables des capitales et métropoles partiellement ou entièrement francophones (AIMF).
