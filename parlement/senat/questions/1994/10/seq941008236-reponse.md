@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941008236
+
+- Question : [SEQ941008236](seq941008236.md) — Projet européen de construction d'un hélicoptère
+
+## Réponse
+
+*Défense, JO du 1995-01-26, page 191*
+
+Réponse. - Les besoins en matière de mobilité et d'action défensive liés à l'évolution du contexte géostratégique ainsi que les enjeux pour l'industrie européenne des hélicoptères ont conduit le ministre d'Etat, ministre de la défense, à décider la poursuite du programme européen d'hélicoptère de transport et de lutte anti-sous-marine NH 90 dans le cadre de la loi de programmation militaire 1995-2000 adoptée en juin 1994. La décision de poursuivre le programme NH 90 a toutefois été subordonnée à une révision des spécifications opérationnelles et des choix techniques qui leur sont associés afin d'en réduire le coût. Les actions de recherche de réduction des coûts ont donc été approuvées, après concertation avec nos partenaires, au mois d'octobre 1994, par les directeurs nationaux d'armement des quatre pays participants. Ces actions, qui consistent en particulier en un réexamen de la définition vis-à-vis des besoins exprimés par les états-majors et en un réaménagement des procédures d'appel d'offres en vue de permettre la sélection de solutions plus économiques, ont conduit à l'identification d'un certain nombre de possibilités aujourd'hui à l'étude. Par ailleurs, un groupe de quatre " sages " a été créé afin de conduire un audit indépendant sur ces réductions de coût. Ces mesures ont pour objectif la construction d'un hélicoptère à un prix compétitif, condition essentielle à sa commercialisation sur les marchés civils et militaires. Le développement d'une version civile du NH 90 est toujours envisagé. Toutefois, le calendrier de cette version n'est pas aujourd'hui fixé et, en accord avec nos partenaires, il ne devrait pas interférer avec celui des versions militaires.
