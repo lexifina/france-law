@@ -10,4 +10,8 @@ a Aux actions acquises par les entreprises auprès des sociétés ou organismes 
 
 b Aux souscriptions, effectuées en numéraire par les entreprises françaises, au capital agréé des sociétés financières d'innovation visées à l'article 4-III de la loi n° 72-650 du 11 juillet 1972.
 
-1) Annexe II, art. 16.
+Toutefois, le taux de l'amortissement exceptionnel est porté à 75 % pour les souscriptions au capital dont le montant est affecté, à titre principal, au financement d'opérations tendant à la réalisation d'un programme de recherche et de mise en oeuvre industrielle de techniques ou de produits nouveaux et associant à la société financière d'innovation des entreprises et des chercheurs dans le cadre d'une convention approuvée par l'autorité compétente. Un décret fixe les modalités d'application du présent alinéa (2).
+
+(1) Annexe II, art. 16.
+
+(2) Décret à émettre.
