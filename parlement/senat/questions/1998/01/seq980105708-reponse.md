@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980105708
+
+- Question : [SEQ980105708](seq980105708.md) — Situation des souscripteurs d'assurance vie auprès d'Europavie
+
+## Réponse
+
+*Économie, JO du 1998-06-04, page 1791*
+
+Réponse. - La Commission de contrôle des assurances, qui a exercé un contrôle régulier et attentif sur Europavie, notamment depuis son changement d'actionnariat en 1995, a déployé tous les efforts afin de tenter un sauvetage de l'entreprise, notamment par cession ou par une solution de place, quand les problèmes de liquidité d'Europavie liés à la fermeture de la banque allemande BVH sont apparus. C'est ainsi qu'elle a lancé un appel d'offres visant à transférer le portefeuille d'Europavie à une entreprise saine. En dépit des efforts de la Commission de contrôle des assurances, cet appel d'offres est malheureusement resté infructueux. En conséquence, la seule solution permettant de préserver les intérêts des assurés a été le retrait d'agrément de l'entreprise et la désignation à sa demande d'un liquidateur par le président du tribunal de commerce de Nanterre. Il lui revient d'arrêter le bilan de la liquidation, qui n'est pas encore connu. A aucun moment le ministère de l'économie, des finances et de l'industrie n'a avancé de chiffres à ce sujet. Ce liquidateur est désormais responsable du dénouement des engagements d'Europavie à l'égard des assurés, dans l'objectif de sauvegarder, au mieux, leurs intérêts. Ceux-ci gagneraient certainement à faire valoir leurs créances dans les plus brefs délais auprès de ce liquidateur, que les assurés peuvent joindre à l'adresse d'Europavie. La plus grande attention est portée à ce dossier et le ministre de l'économie, des finances et de l'industrie a clairement indiqué que des mesures seraient rapidement prises pour qu'à l'avenir les assurés bénéficient d'un dispositif de garantie.
