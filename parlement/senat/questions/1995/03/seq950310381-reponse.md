@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950310381
+
+- Question : [SEQ950310381](seq950310381.md) — Distorsions de concurrence en matière d'opérations funéraires
+
+## Réponse
+
+*Intérieur, JO du 1995-07-27, page 1500*
+
+Réponse. - L'article L. 362-1 du code des communes tel que modifié par l'article premier de la loi no 93-23 du 8 janvier 1993 modifiant le titre VI du livre III du code des communes et relative à la législation dans le domaine funéraire, a énuméré les prestations funéraires qui relèvent de la mission de service public du service extérieur des pompes funèbres. En outre, l'article L. 362-2-1 du nouveau code des communes précise que " les régies, les entreprises ou les associations et chacun de leurs établissements qui, habituellement, sous leur marque ou non, fournissent aux familles des prestations énumérées à l'article L. 362-1 ou définissent cette fourniture ou assurent l'organisation des funérailles doivent être habilités à cet effet selon les modalités et une durée prévues par décret en conseil d'Etat ". Il résulte de ce qui précède que les opérateurs funéraires publics ou privés, et parmi ces derniers notamment les marbriers, qui fournissent de manière habituelle aux familles l'une ou l'autre des prestations du service extérieur des pompes funèbres doivent être habilités par l'autorité préfectorale. En vertu du décret no 95-330 du 21 mars 1995 relatif aux modalités et à la durée de l'habilitation dans le domaine funéraire, la procédure d'habilitation doit entrer en vigueur à compter du 1er juin 1995. Ce dernier décret a été pris en application de la loi no 93-23 du 8 janvier 1993 précitée et après avis du conseil national des opoérations funéraires, instance consultative chargée de rendre des avis sur les textes relatifs au domaine funéraire, et dans laquelle sont représentés les professionnels de la marbrerie.
