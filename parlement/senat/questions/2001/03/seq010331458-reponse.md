@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010331458
+
+- Question : [SEQ010331458](seq010331458.md) — Réfugiés kurdes
+
+## Réponse
+
+*Affaires étrangères, JO du 2001-04-26, page 1422*
+
+Réponse. - Les personnes débarquées sur les rivages français suite à l'échouage d'un navire transportant près d'un millier de réfugiés kurdes ont été aussitôt prises en charge par les services de l'Etat. Leur situation à Fréjus aussi bien que dans les différents foyers d'accueil a fait l'objet de toute l'attention du ministère des affaires étrangères. Elles ont été admises sur le territoire national au titre de l'asile. Leurs demandes en vue d'obtenir le statut de réfugié, pour les personnes qui les ont formulées, seront examinées par l'OFPRA, qui statuera en toute indépendance. Les conditions déplorables qui ont marqué le périple de ces réfugiés ne peuvent que renforcer la détermination du Gouvernement à lutter contre les filières d'immigration clandestine mais il importe également de veiller à assurer une bonne intégration aux étrangers qui résident de façon régulière sur le territoire de l'Union. Ces questions importantes font actuellement l'objet de discussions au niveau des ministres de l'intérieur et de la justice de l'Union européenne. S'agissant des populations d'origine kurde, la France encourage les gouvernements des pays où elles sont établies à dialoguer avec leurs représentants légalement élus. Le Gouvernement incite les différentes capitales à rechercher une solution au problème kurde, qui passe notamment par la reconnaissance de leurs droits culturels dans le cadre des frontières internationalement reconnues et de l'intégrité territoriale des pays concernés. La France souhaite que la stabilité de ces pays et de leurs régions ainsi que la sécurité de leurs populations civiles soient durablement garanties.
