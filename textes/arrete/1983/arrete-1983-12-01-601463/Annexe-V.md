@@ -44,15 +44,21 @@ Si l’amateur utilise une station transportable, mobile ou mobile maritime, il 
 
 Une station mobile fluviale d’amateur est assimilée à une station mobile terrestre (lettre M).
 
-4. OPÉRATEURS SUPPLÉMENTAIRES
+4. RADIO-CLUBS.
 
-Une station d’amateur peut être utilisée :
+Les installations de radioamateurs peuvent être utilisées par un radio-club. Dans ce cas, le titulaire de la licence est le responsable technique du radio-club, désigné par celui-ci.
 
-Soit par le titulaire de la licence ;
+L’établissement et l’exploitation des installations de radio-club sont soumises à la réglementation des services d’amateur dans les mêmes conditions que pour les radioamateurs individuels. Le responsable technique du radio-club est tenu de posséder un certificat français d’opérateur du service amateur du groupe E ou de son équivalent obtenu dans un des Etats membres de la Communauté économique européenne ; il est le titulaire de la licence du radio-club, qui est délivrée contre l’acquittement de la taxe de licence annuelle.
 
-Soit par les opérateurs supplémentaires dûment agréés à cet effet par les ministères intéressés, titulaires du certificat d’opérateur au même titre que le permissionnaire de la station et qui ne peuvent utiliser que la station pour laquelle l’autorisation a été délivrée.
+Les installations de radio-club sont exploitées sous la responsabilité du titulaire de la licence du radio-club.
 
-Les stations d’écoles, de clubs, de groupements professionnels ou de jeunesse peuvent être manœuvrées par des opérateurs supplémentaires remplissant les conditions susmentionnées, sous la responsabilité d’une personne habilitée à représenter le groupement (professeur, président d’association, etc.). Cette personne, qui doit être agréée par les ministères intéressés n’est pas tenue de subir l’examen opérateur si elle ne doit pas utiliser elle-même la station.
+Elles peuvent être exploitées par :
+
+- le titulaire de la licence ;
+
+- des opérateurs secondaires, utilisant l’indicatif du radio-club suivi de leur indicatif personnel.
+
+Pour participer à une compétition internationale de radioamateurs, l’indicatif du radio-club peut être utilisé seul, sous réserve que la liste des opérateurs secondaires du radio-club concerné (noms, adresses et indicatifs personnels français ou d’un des Etats membres de la Communauté économique européenne) soit déclarée au préalable au ministère de l’industrie, des postes et télécommunications et du commerce extérieur (centre de gestion des radiocommunications).
 
 5. OPERATEURS OCCASIONNELS
 
@@ -209,7 +215,3 @@ L’utilisation de deux fréquences différentes, l’une pour l’émission, l�
 Utilisation de la méthode opératoire radiotéléphonique ou radiotélégraphique ;
 
 Enonciation de l’indicatif du correspondant ainsi que de sa fréquence, celle-ci avec une précision suffisante pour en permettre le contrôle par l’administration.
-
-NOTA :
-
-La présente annexe a été publiée au Journal officiel, édition des Documents administratifs n° 143 en date du 31 décembre 1983.
