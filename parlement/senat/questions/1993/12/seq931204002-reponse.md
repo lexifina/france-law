@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931204002
+
+- Question : [SEQ931204002](seq931204002.md) — Financement des centres d'apprentissage
+
+## Réponse
+
+*Travail, JO du 1994-06-09, page 1449*
+
+Réponse. - L'honorable parlementaire a attiré l'attention de monsieur le ministre du travail, de l'emploi et de la formation professionnelle sur l'effet dissuasif, au regard de l'objectif de développement de l'apprentissage, de l'obligation faite par l'article 20 de la loi no 92-675 du 17 juillet 1992 relatif à l'apprentissage dans le secteur public non industriel et commercial de prendre en charge les coûts de formation dans les centres de formation d'apprentis. Il craint en conséquence que les collectivités territoriales préfèrent accueillir des stagiaires de lycées professionnels. Cette disposition a été prise en raison du fait que les centres de formation d'apprentis sont en partie financés par la taxe d'apprentissage versée par les entreprises et à laquelle ne sont pas assujettis les employeurs du secteur public non industriel et commercial. Conscient des difficultés des collectivités locales pour prendre en charge le coût de la formation des apprentis, il a été prévu par la circulaire interministérielle du 21 avril 1994 que ces employeurs n'auraient pas à assumer ces frais. Les Régions, dont c'est la compétence, pourront, en cas de difficulté de financement des centres de formation d'apprentis, faire appel au fonds partenarial créé par l'article 21 de la loi quinquennale no 93-1313 du 20 décembre 1993 relative au travail, à l'emploi et à la formation professionnelle. A cet effet et à partir du coût supplémentaire effectif généré par l'accueil d'apprentis du secteur public dans les centres de formation d'apprentis, une convention sera passée entre le Préfet de région et le président du conseil régional pour fixer le montant de l'intervention de l'Etat.
