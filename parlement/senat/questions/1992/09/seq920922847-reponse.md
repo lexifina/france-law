@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920922847
+
+- Question : [SEQ920922847](seq920922847.md) — Application de la sanction pénale à l'encontre des sociétés ne respectant pas les obligations de consolidation
+
+## Réponse
+
+*Justice, JO du 1992-12-24, page 2823*
+
+Réponse. - L'article 481 de la loi du 24 juillet 1966, modifié par la loi no 85-11 du 3 janvier 1985 réprime d'une peine d'amende de 2 000 à 60 000 F les membres du directoire, du conseil d'administration ou les gérants des sociétés astreintes, en application de l'article 357-1 de la loi, à l'établissement des comptes consolidés, qui n'auraient pas satisfait à cette obligation dans le délai imparti par le législateur. Sans méconnaître l'intérêt que pourrait présenter, à titre d'information, l'établissement de statistiques globales sur le nombre de sociétés en situation irrégulière au regard des dispositions précitées, il apparaît toutefois que l'action publique ne saurait être utilement mise en oeuvre qu'à la lumière d'éléments précis et spécifiques à chaque affaire. Dès lors, la détection de telles infractions repose, en premier lieu, sur la vigilance des commissaires aux comptes qui, en vertu de l'article 233 de la loi sur les sociétés signalent à l'assemblée générale les irrégularités et inexactitudes qu'ils ont pu relever au cours de leur mission. Parallèlement à ce rôle préventif, ils doivent révéler au procureur de la République les faits délictueux dont ils ont eu connaissance, tout manquement à cette obligation étant passible des sanctions pénales prévues par l'article 457 du même texte. L'honorable parlementaire peut être assuré de ce que la Chancellerie veille, dans la limite de ses attributions à ce que des réponses efficaces et d'une juste sévérité soient apportées à la violation de dispositions légales qui, au-delà d'une simple obligation comptable, visent à assurer l'exacte information des intervenants économiques sur la réalité financière des groupes de sociétés.
