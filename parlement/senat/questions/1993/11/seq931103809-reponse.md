@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931103809
+
+- Question : [SEQ931103809](seq931103809.md) — Prix des carburants
+
+## Réponse
+
+*Économie, JO du 1994-02-03, page 246*
+
+Réponse. - Les prix de vente au détail des carburants relèvent des dispositions de l'ordonnance no 86-1243 du 1er décembre 1986 relative à la liberté des prix et à la concurrence. Ce texte prévoit, dans son article 1er, que les prix sont librement déterminés par le jeu de la concurrence et précise qu'ils ne peuvent être réglementés par décret en Conseil d'Etat, après avis du Conseil de la concurrence, que dans les secteurs où la concurrence par les prix est limitée. Tel n'est pas aujourd'hui le cas de la distribution des carburants. Ce secteur se caractérise en effet par la présence d'opérateurs nombreux et diversifiés, tant par le niveau de prix que par la qualité des services qu'ils offrent aux consommateurs. Aussi l'instauration d'une obligation, pour les distributeurs, de répercuter la baisse de leurs prix d'approvisionnement sur les prix de vente au détail ne peut-elle être envisagée, car elle constituerait un retour à une forme d'encadrement des prix. L'examen des prix de vente pratiqués fait apparaître que des baisses sont effectivement intervenues entre août et décembre 1993. L'amplitude du mouvement pour le gazole a sans doute été plus faible que pour le supercarburant sur la période considérée ; il faut rappeler que la hausse de la taxe intérieure sur les produits est intervenue pour ce type de carburant à la fin du mois d'août, elle a constitué un frein à la possibilité de baisser le prix de vente au consommateur. Les mêmes enquêtes montrent qu'il existe une réelle disparité des prix pratiqués selon les réseaux et les modes de distribution. Cela atteste de l'existence d'une concurrence qu'il appartient au consommateur d'utiliser pour bénéficier des conditions d'approvisionnement optimales compte tenu du service dont il entend bénéficier.
