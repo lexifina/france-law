@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010432718
+
+- Question : [SEQ010432718](seq010432718.md) — Ecart des salaires entre hommes et femmes dans la fonction publique
+
+## Réponse
+
+*Fonction publique, JO du 2001-08-23, page 2760*
+
+Différents éléments peuvent expliquer les différences de salaires moyens entre les hommes et les femmes dans la fonction publique : forte concentration des femmes dans l'enseignement où les taux de primes, et donc les rémunérations globales, sont plus faibles, interruption plus fréquente des carrières, accès plus rare aux emplois d'encadrement. Depuis la remise du rapport Colmou sur la place des femmes dans la fonction publique, notamment au sein de l'encadrement supérieur, plusieurs mesures ont été prises par le Gouvernement pour y remédier : la circulaire du premier ministre du 8 mars 2000 relative à l'adaptation de l'appareil statistique de l'Etat pour améliorer la connaissance de la situation respective des femmes et des hommes, publiée au Journal officiel du 9 mars 2000, recommande la production de données et la réalisation d'études permettant de mieux cerner les causes des inégalités entre les sexes dans les déroulements de carrière ; la circulaire du Premier ministre du 6 mars 2000 relative à la préparation de plans pluriannuels d'amélioration de l'accès des femmes aux emplois de direction et d'encadrement, publiée au Journal officiel du 7 mars 2000, demande à chaque ministère de définir en termes d'objectifs le taux de féminisation à atteindre pour les emplois de direction. Chaque ministère a élaboré au cours de l'année 2000 un plan d'objectifs qui a été soumis pour avis au comité technique paritaire ministériel. Un rapport de synthèse concernant la mise en oeuvre de ces plans au sein des administrations a été remis au Premier ministre le 8 mars 2001.
