@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870606512
+
+- Question : [SEQ870606512](seq870606512.md) — Amélioration du fonctionnement des Cotorep
+
+## Réponse
+
+*Affaires sociales, JO du 1988-02-11, page 188*
+
+Réponse. -La loi n° 87-517 du 10 juillet 1987 en faveur de l'emploi des travailleurs handicapés applicable à compter du 1er janvier 1988 va permettre incontestablement d'améliorer sensiblement l'insertion professionnelle de ces personnes. Cette législation concerne tant le secteur privé que le secteur public, sur la base d'une obligation d'emploi de 6 p. 100 de bénéficiaires. Pendant une période transitoire de trois ans, débutant le 1er janvier 1988, le taux sus indiqué sera respectivement de 3 p. 100 pour la première année, 4 p. 100 pour la seconde année et 5 p. 100 pour la troisième année. Ces employeurs pourront être exonérés partiellement de l'obligation d'emploi en passant des contrats de fournitures, de sous-traitance ou de prestations de services avec des ateliers protégés, des centres de distribution de travail à domicile ou des centres d'aide par le travail. De plus, les employeurs du secteur privé pourront remplir leur obligation en mettant en oeuvre au profit de travailleurs handicapés des plans d'insertion et de formation, d'adaptation aux mutations technologiques, de maintien dans l'entreprise en cas de licenciements, ou en versant une contribution au fonds d'insertion professionnelle des handicapés créé lui-même par la loi susvisée. L'effort en faveur des travailleurs handicapés doit se traduire aussi par un fonctionnement toujours amélioré des Cotorep. Dans cette perspective se poursuit l'informatisation des Cotorep, déjà réalisée ou en cours de réalisation dans vingt-huit départements. De plus, la mise en place de la généralisation du formulaire unique de demandes faites par les personnes handicapées va se faire dans les mois à venir, ce qui va sans aucun doute faciliter les démarches administratives à accomplir par ces dernières.
