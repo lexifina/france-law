@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000122017
+
+- Question : [SEQ000122017](seq000122017.md) — Avenir des DNTS
+
+## Réponse
+
+*Éducation, JO du 2000-05-18, page 1776*
+
+Réponse. - La licence professionnelle est un diplôme national homologué au niveau II de la nomenclature ministérielle des niveaux de formation, créé par un arrêté en date du 17 novembre 1999. Sa mise en place sera effective dès la rentrée 2000. La licence professionnelle sera délivrée par les universités, seules ou conjointement avec d'autres établissements publics d'enseignement supérieur, habilités à cet effet par le ministre chargé de l'enseignement supérieur (art. 12 de l'arrêté). Le dispositif prévu n'exclut pas les lycées puisque l'article 9 de l'arrêté précise que " les enseignements peuvent être organisés par l'établissement habilité en association, le cas échéant, avec d'autres établissements d'enseignement dans le cadre d'une convention ". Le partenariat peut porter, par exemple, sur les moyens techniques dont dispose un établissement, comme sur des heures d'enseignement effectuées dans le cadre de la formation par des professeurs de l'établissement partenaire. Le ministre de l'éducation nationale, de la recherche et de la technologie a indiqué, à diverses reprises, que la création de la licence professionnelle n'aurait pas pour corollaire de mettre fin à l'existence d'autres diplômes professionnels. Le diplôme national de technologie spécialisé (DNTS) a d'ailleurs fait l'objet d'une reconduction pour l'année scolaire 1999-2000 par un arrêté du 4 janvier 2000. Nouveau diplôme national, la licence professionnelle trouvera sa cohérence tout au long du dispositif de développement prévu sur trois ans. Elle fera l'objet d'une étude attentive du comité de suivi prévu par l'article 15 de l'arrêté ; un bilan et une évaluation effectués lors d'une table ronde associant l'ensemble des partenaires concernés sont également prévus.
