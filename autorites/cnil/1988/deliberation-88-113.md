@@ -1,0 +1,15 @@
+# Délibération concernant une déclaration de modification du ministère de l'économie, des finances et du budget, relative à la mise à la disposition du public sur minitel des relevés de prix des prestations de services établis par les services extérieurs de la direction générale de la concurrence de la consommation et de la répression des fraudes.
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 88-113
+- Date : 1988-10-25
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017652572
+
+La Commission Nationale de l'Informatique et des Libertés, Vu la Convention du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ; Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés ; Vu le décret n° 78-774 du 17 juillet 1978 pris pour l'application des chapitres I à IV et VII de la loi précitée ; Vu l'arrêté du 3 décembre 1987 relatif à l'information du consommateur sur les prix ; Vu l'avis de la Commission n° 88-721 du 5 septembre 1988 ; Vu le projet d'arrêté modificatif présenté par le Ministère de l'Economie, des Finances et du Budget ; Après avoir entendu Monsieur Jean-Emile VIE, en son rapport et Madame Charlotte-Marie PITRAT, Commissaire du Gouvernement, en ses observations ;
+
+Considérant que le projet d'arrêté modificatif du Ministre de l'Economie, des Finances et du Budget tend à autoriser la mise à la disposition du public sur minitel des relevés de prix des services établis par les agents des services extérieurs de la Direction Générale de la Concurrence, de la Consommation et de la Répression des Fraudes ; Considérant que la mise à disposition du public sur minitel des relevés des prix des services constitue une nouvelle finalité du traitement précédemment mis en oeuvre ; Considérant que les catégories d'informations nominatives enregistrées sont relatives à la raison sociale, l'enseigne, l'adresse de l'entreprise où sont établis les relevés de prix ayant été l'objet d'un enquête, la date de ceux-ci ainsi qu'éventuellement les noms des commerçants concernés. Considérant que les intéressés seront informés de l'existence du traitement, des destinataires des informations collectées et du droit d'accès et de rectification prévu par les articles 34 et suivants de la loi du 6 janvier 1978 par les agents des services compétents lors de l'établissement des relevés de prix ; Considérant que toutes mesures seront prises par les services de la Direction Générale de la Concurrence, de la Consommation et de la répression des fraudes pour assurer rapidement les rectifications et mises à jour demandées ; Considérant que le droit d'accès et de rectification s'exercera auprès de la Direction Générale de la Concurrence, de la Consommation et de la répression des fraudes ainsi qu'auprès des Directions départementales et régionales dépendant de celle-ci ;
+
+Emet un AVIS FAVORABLE au projet d'arrêté modificatif présenté par le Ministre de l'Economie, des Finances et du Budget. Jacques FAUVET
