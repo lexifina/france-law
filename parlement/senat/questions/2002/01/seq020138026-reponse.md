@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020138026
+
+- Question : [SEQ020138026](seq020138026.md) — Mise en place de formations supérieures pour les filières SMS
+
+## Réponse
+
+*Éducation, JO du 2002-04-04, page 973*
+
+Les titulaires du baccalauréat sciences médico-sociales (SMS) s'orientent principalement vers des brevets de techniciens supérieurs (BTS " économie sociale familiale ", " assistant de direction ", " diététique ", " esthétique cosmétique ", diplôme de technicien supérieur " imagerie médicale et radiologie thérapeutique "), des écoles spécialisées, accessibles par concours, préparant aux diplômes paramédicaux et sociaux, et des formations universitaires (DEUG de psychologie, de sociologie ou d'administration économique et sociale). S'agissant des concours d'accès aux formations paramédicales et sociales, un rapport réalisé en 1997 établissait que les titulaires du bac SMS étaient soumis à une forte concurrence des candidats venant de l'enseignement supérieur et se trouvaient par là même en difficulté pour réussir ces concours. Ce même rapport révélait que le projet de création d'un BTS médico-social, proposé en vue d'offrir une voie de poursuite d'études supplémentaire au bac SMS, n'était pas opportun dans la mesure où les besoins dans le domaine du secrétariat médical ou médico-social restaient très limités. D'autres propositions sont actuellement à l'étude pour améliorer les débouchés des titulaires du bac SMS, telles la création d'une option " sanitaire et social " dans le cadre du BTS " assistant de direction ", la mise en place d'une année complémentaire " de préparation aux concours paramédicaux et sociaux " post-bac et la création d'un BTS dans le domaine de la médiation sociale. Il convient de souligner que le BTS doit permettre une insertion professionnelle immédiate et qu'à ce titre la création de nouvelles spécialités ne pourra être envisagée que si l'existence d'emplois, solvables et pérennes en nombre suffisant, est avérée.
