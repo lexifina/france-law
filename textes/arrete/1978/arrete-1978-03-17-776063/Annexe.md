@@ -340,6 +340,8 @@ Algrange, Fameck, Florange, Hayange, Knutange, Manom, Nilvange, Serémange-Erzan
 
 59 - Nord
 
+Cysoing, Louvil, Bourghelles.
+
 Béthune.
 
 (Complément en Pas-de-Calais.)
