@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010231210
+
+- Question : [SEQ010231210](seq010231210.md) — Participation souhaitable des collectivités locales aux entretiens de l'emploi
+
+## Réponse
+
+*Emploi, JO du 2001-09-13, page 2981*
+
+L'honorable parlementaire attire l'attention de Mme le ministre de l'emploi et de la solidarité sur la deuxième édition des " Entretiens de l'emploi " organisée par l'Agence nationale pour l'emploi (ANPE), les 13 et 14 mars. Cette manifestation, qui constitue l'un des piliers majeurs de l'Observatoire de l'ANPE, rassemble entreprises, professionnels de l'emploi, chercheurs et praticiens de l'insertion ou du recrutement, services publics de l'emploi français et étrangers pour " faire le point ", débattre et partager l'état de leurs savoirs et de leurs pratiques, favoriser une réflexion commune et faire émerger de nouvelles pistes pour l'action. Les " Entretiens de l'emploi " constituent une manifestation organisée à l'initiative et sous la responsabilité de la direction générale de l'ANPE. Le directeur général de l'ANPE a convié à cette manifestation, consacrée cette année au " recrutement dans le nouveau contexte économique et technologique ", l'ensemble des conseils régionaux. Une dizaine de responsables régionaux se sont effectivement inscrits et le directeur de la formation professionnelle du conseil régional d'Aquitaine a participé à la table ronde intitulée " les difficultés de recrutement : diagnostic et réponses ". Les collectivités territoriales qui ont participé aux " Entretiens de l'emploi " ont souligné le partenariat très riche en matière de formation et d'emploi développé au sein de leur région ou de leur département, et l'ANPE développe dans son action territorialisée de nombreuses actions partenariales avec les partenaires sociaux et les collectivités engagées dans les actions de formation et d'adaptation à l'emploi.
