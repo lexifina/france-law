@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021204976
+
+- Question : [SEQ021204976](seq021204976.md) — Diminution de l'aide fiscale aux biocarburants
+
+## Réponse
+
+*Agriculture, JO du 2003-05-15, page 1607*
+
+L'article 22 de la loi de finances rectificative pour 2002 a fixé à 38 euros par hectolitre l'avantage fiscal accordé à l'éthanol-ETBE à compter du 1er janvier 2003. Ce montant, en diminution sensible par rapport à 2002 (50,23 euros), est néanmoins en progression par rapport aux 34,2 euros envisagés dans le projet de loi initial, dans un contexte de hausse du cours des produits pétroliers favorisant la compétitivité des filières biocarburants. S'agissant des esters-méthyliques d'huiles végétales (issus principalement de colza), la réduction minime de l'exonération décidée par le Parlement (moins 0,6 euros par hectolitre) n'est pas de nature à entraver le développement de cette filière. En tout état de cause, ces ajustements s'inscrivent dans le cadre de la décision du Conseil du 25 mars 2002 autorisant la France à appliquer des réductions de droits d'accises sur les biocarburants sous réserve qu'elles soient modulées en fonction de l'évolution des cours des matières premières afin d'éviter toute surcompensation. A cet effet, un groupe de travail constitué sous l'égide du ministère de l'économie, des finances et de l'industrie et associant les opérateurs agricoles et industriels concernés travaille actuellement à la mise au point d'une formule d'indexation de l'exonération fiscale tenant compte notamment du cours des produits pétroliers et des matières premières agricoles. Le ministère de l'agriculture, de l'alimentation, de la pêche et des affaires rurales associé à ces travaux ne manquera pas de veiller à la prise en compte des intérêts et des contraintes des agriculteurs engagés au sein des filières de production des carburants d'origine végétale.
