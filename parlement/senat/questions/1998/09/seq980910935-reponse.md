@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980910935
+
+- Question : [SEQ980910935](seq980910935.md) — Création du brevet communautaire
+
+## Réponse
+
+*Industrie, JO du 1998-12-24, page 4132*
+
+Réponse. - Le secrétaire d'Etat à l'industrie a pris connaissance avec intérêt des propositions que contient le rapport du Conseil économique et social intitulé " Le rôle des brevets et des normes dans l'innovation et l'emploi " sur les voies et moyens permettant de réunir les conditions d'une meilleure utilisation des brevets par les acteurs économiques français. Ces propositions rejoignent largement les conclusions du rapport " Le brevet pour l'innovation " que M. Didier Lombard a remis début 1998. La question de la réforme du système des brevets en Europe est ouverte depuis longtemps. Toutes les études tentent de prouver que l'Europe souffre, dans la protection de ses innovations, d'un déficit par rapport aux deux autres grands pôles économiques modernes, les Etats-Unis et le Japon. Il faut donc construire en Europe un système de brevets plus sûr, moins onéreux et plus simple. La France se félicite de la proposition de la Commission de créer un brevet communautaire par la voie d'un règlement. Elle soutiendra cette initiative : dans un marché unique et avec une monnaie unique, il faut un brevet unique. Cependant, il est très probable, étant donné la complexité des problèmes soulevés et la necessité d'obtenir l'accord unanime des Etats membres que l'instauration et la mise en uvre du brevet communautaire prendra du temps. C'est pourquoi, sans attendre, il convient d'améliorer, vingt ans après sa création, le système de Munich, lequel coexistera encore un certain temps avec le brevet communautaire. La France a proposé, à cette fin, la tenue d'une conférence intergouvernementale des Etats membres de l'Office européen des brevets (OEB).
