@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930902651
+
+- Question : [SEQ930902651](seq930902651.md) — Apposition d'une mention sur l'attestation d'assurance en cas de conduite en état d'ivresse
+
+## Réponse
+
+*Économie, JO du 1993-10-28, page 2028*
+
+Réponse. - Il convient de distinguer, d'une part, la mise en jeu de la responsabilité civile à l'égard des tiers, qui est obligatoirement couverte par une assurance, et, d'autre part, les garanties facultatives que peut souscrire un conducteur. S'agissant de l'assurance obligatoire, l'article L. 211-6 du code des assurances prévoit qu' " est réputée non écrite toute clause stipulant la déchéance de la garantie de l'assuré en cas de condamnation pour conduite en état d'ivresse ou sous l'emprise d'un état alcoolique ". Les victimes d'un accident seront donc indemnisées par l'assurance obligatoire " dommage aux tiers " du conducteur fautif, même si ce dernier conduisait en état d'ivresse. Les personnes transportées par le conducteur fautif, y compris sa famille, sont considérées comme des tiers par rapport à ce dernier et seront donc indemnisées par l'assurance dans les mêmes conditions. Au contraire, l'assurance obligatoire n'emporte pas l'indemnisation du conducteur. Il appartient à ce dernier, s'il le souhaite, de souscrire une ou plusieurs garanties facultatives telles que " tous risques " ou " dommages corporels du conducteur ". Ces garanties précisent généralement qu'elles ne jouent pas lorsque le conducteur était en état d'ivresse au moment de l'accident. Lorsque cette restriction existe, le conducteur en est informé car elle figure de manière explicite sur le contrat qu'il souscrit. Dans ces conditions, il ne paraît pas souhaitable de surcharger l'attestation d'assurance d'une mention qui serait inexacte à l'égard des victimes, voire inutile pour le conducteur.
