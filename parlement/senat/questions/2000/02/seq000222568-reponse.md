@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000222568
+
+- Question : [SEQ000222568](seq000222568.md) — Compétence d'un greffe
+
+## Réponse
+
+*Budget, JO du 2000-05-18, page 1767*
+
+Réponse. - L'article 396 bis de l'annexe II au code général des impôts précise les conditions d'inscription des sommes privilégiées dues au Trésor et détermine le greffe du tribunal compétent pour procéder à ces inscriptions en fonction de la qualité du redevable. Les inscriptions doivent être requises au greffe du tribunal dans le ressort duquel se trouve le principal établissement du redevable lorsqu'il s'agit d'une personne physique ou son siège social pour une société. A l'appui de sa demande d'immatriculation au registre du commerce et des sociétés, toute entreprise justifie auprès du greffe, qui vérifie l'exactitude des renseignements fournis, du titre de jouissance privative des locaux où est installé son siège et lui fournit une copie du titre de propriété, du bail commercial ou du contrat de domiciliation. Lorsqu'une entreprise est ainsi immatriculée au greffe dans le ressort duquel se trouve la société de domiciliation où elle a installé son siège social, c'est auprès de ce greffe qu'est effectuée la publicité. Lorsque l'adresse de domiciliation d'une entreprise est différente de son lieu d'imposition, il n'est pas procédé à une double publicité. Cela étant, les personnes physiques ou morales assujetties à l'immatriculation au registre du commerce et des sociétés sont tenues, si elles exploitent un ou plusieurs établissements commerciaux dans le ressort d'autres tribunaux, de souscrire une déclaration secondaire au greffe du tribunal dans le ressort duquel sont situés ces établissements. L'entreprise doit à cette occasion préciser notamment le greffe où elle est immatriculée. Dans ces conditions, l'information des tiers, qui peuvent donc, le cas échéant, consulter les greffes concernés, est ainsi assurée.
