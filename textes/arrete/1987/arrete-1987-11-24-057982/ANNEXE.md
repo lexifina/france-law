@@ -16,8 +16,6 @@ Tous les cours d'eau des deux catégories, à l'exception de :
 
 Département de l'Aude
 
-Tous les cours d'eau de 1re catégorie, à l'exception de l'Aude, en aval de la chute de Nantilla sur le territoire de la commune de Roquefort-de-Sault.
-
 Département de l'Aveyron
 
 1° Tous les affluents et sous-affluents du Lot, rive droite, en amont de son confluent avec la Truyère ;
