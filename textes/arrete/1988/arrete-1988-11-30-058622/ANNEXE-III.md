@@ -47,3 +47,19 @@ Infirmier spécialisé en anesthésie-réanimation, surveillant des services mé
 2e échelon Indices bruts : 423
 
 1er échelon Indices bruts : 384.
+
+Infirmier spécialisé en anesthésie-réanimation, surveillant chef des services médicaux :
+
+7e échelon Indices bruts : 619
+
+6e échelon Indices bruts : 586
+
+5e échelon Indices bruts : 552
+
+4e échelon Indices bruts : 518
+
+3e échelon Indices bruts : 489
+
+2e échelon Indices bruts : 462
+
+1er échelon Indices bruts : 431.
