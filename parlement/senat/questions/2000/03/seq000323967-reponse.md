@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000323967
+
+- Question : [SEQ000323967](seq000323967.md) — Divorce et transmissibilité de la prestation compensatoire
+
+## Réponse
+
+*Justice, JO du 2000-08-03, page 2741*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que l'examen par le Parlement de la réforme de la prestation compensatoire est en voie d'achèvement. La proposition de loi réaffirme le principe du paiement en capital et différentes mesures sont prévues pour favoriser en pratique l'octroi de ce capital. En effet, celui-ci peut être versé sur une période de huit annuités et des aménagements fiscaux conduisent à ne plus pénaliser ce mode de versement de la prestation compensatoire. Les rentes sont supprimées, à l'exception des rentes viagères, qui peuvent être exceptionnellement allouées, lorsque l'âge ou l'état de santé du créancier le justifie. Elles sont alors révisables en cas de changement important dans la situation des parties. Conformément au droit commun de la transmission des dettes d'un défunt, la charge de la prestation passe aux héritiers, lesquels sont, au demeurant, en droit de refuser la succession. Il ne semble pas en effet fondé se s'écarter du principe de transmissibilité alors que le créancier est le plus souvent une femme qui s'est consacrée pendant de longues années à l'éducation des enfants et qui, au moment de la séparation, peut ne pas être en mesure de trouver une activité professionnelle et d'assurer son autonomie financière. En revanche, l'éventuelle pension de réversion versée du chef du conjoint décédé sera automatiquement soustraite du montant de la rente versée, pour les prestations allouées après l'entrée en vigueur de la loi. Ce dispositif apparaît équilibré et suffisamment souple pour répondre à la diversité des situations particulières.
