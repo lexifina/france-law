@@ -1,6 +1,6 @@
 # Article Annexe
 
-Tableau des limites de l'inscription maritime dans les estuaires,
+Tableau des limites des affaires maritimes dans les estuaires,
 
 fleuves, rivières et canaux fréquentés par les bâtiments de mer
 
@@ -8,7 +8,7 @@ ESTUAIRES, FLEUVES, etc.
 
 |
 
-LIMITES DE L'INSCRIPTION MARITIME
+LIMITES DES AFFAIRES MARITIMES
 
 |
 
@@ -44,7 +44,7 @@ Canal de Tancarville.
 
 |
 
-Compris dans l'inscription maritime sur tout son cours.
+Compris dans les affaires maritimes sur tout son cours.
 
 |
 
@@ -652,7 +652,7 @@ Chenaux du grand et petit Margot.
 
 |
 
-Compris dans l'inscription maritime sur tout leur cours.
+Compris dans les affaires maritimes sur tout leur cours.
 
 |
 
@@ -660,7 +660,7 @@ Chenal de la Basse-Souche.
 
 |
 
-Compris dans l'inscription maritime sur tout son cours.
+Compris dans les affaires maritimes sur tout son cours.
 
 |
 
@@ -692,7 +692,7 @@ Chenal dé Liman.
 
 |
 
-Compris dans l'inscription maritime sur tout son cours.
+Compris dans les affaires maritimes sur tout son cours.
 
 |
 
@@ -708,7 +708,7 @@ Chenal du Luzac et ses affluents.
 
 |
 
-Compris dans l'inscription maritime sur tout leur cours.
+Compris dans les affaires maritimes sur tout leur cours.
 
 |
 
@@ -732,7 +732,7 @@ Chenal de Bombedeau.
 
 |
 
-Compris dans l'inscription maritime sur tout son cours.
+Compris dans les affaires maritimes sur tout son cours.
 
 |
 
@@ -748,7 +748,7 @@ Chenal de Mornac.
 
 |
 
-Compris dans l'inscription maritime sur tout son cours.
+Compris dans les affaires maritimes sur tout son cours.
 
 |
 
@@ -756,7 +756,7 @@ Chenal de Coulonge.
 
 |
 
-Compris dans l'inscription maritime sur tout son cours.
+Compris dans les affaires maritimes sur tout son cours.
 
 |
 
@@ -780,7 +780,7 @@ Chenal des Grandes-Roches.
 
 |
 
-Compris dans l'inscription maritime sur tout son cours.
+Compris dans les affaires maritimes sur tout son cours.
 
 |
 
@@ -788,7 +788,7 @@ Chenal d'Orivol.
 
 |
 
-Compris dans l'inscription maritime sur tout son cours.
+Compris dans les affaires maritimes sur tout son cours.
 
 |
 
@@ -796,7 +796,7 @@ Chenal de Grignon.
 
 |
 
-Compris dans l'inscription maritime sur tout son cours.
+Compris dans les affaires maritimes sur tout son cours.
 
 |
 
@@ -804,7 +804,7 @@ Chenal de l'Eguillate.
 
 |
 
-Compris dans l'inscription maritime sur tout son cours.
+Compris dans les affaires maritimes sur tout son cours.
 
 |
 
@@ -812,7 +812,7 @@ Chenal de Coux.
 
 |
 
-Compris dans l'inscription maritime sur tout son cours.
+Compris dans les affaires maritimes sur tout son cours.
 
 |
 
@@ -820,7 +820,7 @@ Chenal de la Lasse.
 
 |
 
-Compris dans l'inscription maritime sur tout son cours.
+Compris dans les affaires maritimes sur tout son cours.
 
 |
 
@@ -828,7 +828,7 @@ Chenal de la Péride.
 
 |
 
-Compris dans l'inscription maritime sur tout son cours.
+Compris dans les affaires maritimes sur tout son cours.
 
 |
 
@@ -836,7 +836,7 @@ Chenal de Brandelle.
 
 |
 
-Compris dans l'inscription maritime sur tout son cours.
+Compris dans les affaires maritimes sur tout son cours.
 
 |
 
@@ -852,7 +852,7 @@ Chenal de Putet.
 
 |
 
-Compris dans l'inscription maritime sur tout son cours.
+Compris dans les affaires maritimes sur tout son cours.
 
 |
 
@@ -1172,7 +1172,7 @@ Canal de Sète.
 
 |
 
-Compris dans l'inscription maritime sur tout son cours.
+Compris dans les affaires maritimes sur tout son cours.
 
 |
 
@@ -1208,7 +1208,7 @@ Canal du Grau-du-Roi.
 
 |
 
-Compris dans l'inscription maritime sur tout son cours.
+Compris dans les affaires maritimes sur tout son cours.
 
 |
 
@@ -1250,7 +1250,7 @@ Canal d'Arles à Bouc.
 
 |
 
-Compris dans l'inscription maritime sur tout son cours.
+Compris dans les affaires maritimes sur tout son cours.
 
 |
 
