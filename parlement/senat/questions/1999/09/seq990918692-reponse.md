@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990918692
+
+- Question : [SEQ990918692](seq990918692.md) — Saturation des aéroports européens
+
+## Réponse
+
+*Affaires européennes, JO du 1999-10-28, page 3550*
+
+Réponse. - L'honorable parlementaire a bien voulu appeler l'attention du ministre délégué chargé des affaires européennes sur la saturation des aéroports européens due à l'absence d'unitification dont souffre le contrôle aérien en Europe. Il s'agit là d'une dimension d'un problème complexe, s'inscrivant dans un contexte de fort taux de croissance du trafic aérien. Des mesures pour répondre à cet accroissement continu sont mises en uvre à la fois sur le plan national et dans le cadre d'actions coordonnées par l'Agence européenne de la navigation aérienne Eurocontrol, en étroite collaboration avec les acteurs du transport aérien. Ainsi, en France, divers efforts sont-ils consentis (formation des contrôleurs, modernisation des équipements de navigation aérienne, nouvelles capacités en fréquence radio) alors que sur le plan européen, un nouveau réseau de routes aériennes a été mis en place cette année. Dans la pratique, Eurocontrol permet depuis de nombreuses années les échanges de données entre les centres de contrôle européens, les différences entre les logiciels et les matériels utilisés n'entraînant pas d'incompatibilités de fonctionnement entre eux. Il n'en reste pas moins que la situation actuelle demande à être encore améliorée. La nouvelle commissaire européenne en charge des transports, Mme Loyola de Palacio, vice-présidente de la Commission, a annoncé que " l'une des priorités la plus marquante de la nouvelle commission concernerait la lutte contre l'augmentation des retards dans le transport aérien ". Le prochain conseil des ministres des transports de l'Union européenne examinera le problème de la congestion du trafic aérien, en vue d'y apporter des réponses appropriées.
