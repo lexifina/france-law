@@ -10,7 +10,7 @@ II La déclaration de résultat que ces entreprises souscrivent en application d
 
 - le relevé des provisions.
 
-Ces entreprises sont, par ailleurs, dispensées de fournir à l'administration le bilan et les autres documents prévus par le premier alinéa de l'article 54. En outre, lors des vérifications de comptabilité, elles sont dispensées de présenter leur bilan.
+Ces entreprises sont tenues de produire un bilan abrégé à l'appui de leurs déclarations de résultats. Elles sont, par ailleurs, dispensées de fournir à l'administration les autres documents prévus par le premier alinéa de l'article 54.
 
 III Le bénéfice des dispositions du II est réservé :
 

@@ -20,11 +20,11 @@ Les éléments d'actif désignés à l'alinéa précédent s'entendent uniquemen
 
 L'exclusion des terrains et participations prévue à la dernière phrase du premier alinéa du 1 bis A bis est applicable pour l'utilisation de la provision constituée en vertu du premier alinéa (1).
 
-1 bis A bis. Les entreprises de presse mentionnées au 1 sont autorisées à constituer en franchise d'impôt, par prélèvement sur les résultats imposables des exercices 1980, 1981 et 1982, une provision exclusivement affectée à l'acquisition de matériels et constructions strictement nécessaires à l'exploitation du journal ou à déduire de ces résultats les dépenses exposées en vue du même objet. Sont notamment exclues de la présente provision les acquisitions de terrains et les participations dans les entreprises.
+1 bis A bis. Les entreprises de presse mentionnées au 1 sont autorisées à constituer en franchise d'impôt, par prélèvement sur les résultats imposables des exercices 1980, 1981, 1982 et 1983, une provision exclusivement affectée à l'acquisition de matériels et constructions strictement nécessaires à l'exploitation du journal ou à déduire de ces résultats les dépenses exposées en vue du même objet. Sont notamment exclues de la présente provision les acquisitions de terrains et les participations dans les entreprises.
 
 Les sommes prélevées ou déduites en vertu de l'alinéa précédent sont limitées à :
 
-- 40 % pour la généralité des publications et 65 % pour les quotidiens du bénéfice de l'exercice 1980, - 30 % pour la généralité des publications et 60 % pour les quotidiens du bénéfice des exercices 1981 et 1982.
+- 40 % pour la généralité des publications et 65 % pour les quotidiens du bénéfice de l'exercice 1980, - 30 % pour la généralité des publications et 60 % pour les quotidiens du bénéfice des exercices 1981, 1982 et 1983.
 
 1 bis B. Pour l'application des 1 bis, 1 bis A et 1 bis A bis, sont assimilées à des quotidiens, les publications à diffusion départementale ou régionale consacrées principalement à l'information politique et générale, paraissant au moins une fois par semaine et dont le prix de vente n'excède pas de 75 % celui de la majorité des quotidiens. Un arrêté du ministre de l'économie et des finances fixe les conditions de cette assimilation (2).
 
@@ -34,13 +34,13 @@ Les entreprises désignées au 1 peuvent, dans les mêmes limites que celles pr�
 
 La limite des deux tiers prévue aux deux alinéas précédents ne s'applique ni aux quotidiens ni aux publications cités au premier alinéa.
 
-1 bis B bis. Les sommes prélevées ou déduites des résultats imposables en vertu du 1 bis A bis ne peuvent être utilisées qu'au financement d'une fraction du prix de revient des matériels et constructions qui y sont définis. Pour les éléments acquis au moyen des sommes prélevées ou déduites des bénéfices de l'exercice 1980, cette fraction est égale à 55 % pour la généralité des publications et à 90 % pour les quotidiens et les publications assimilées définies au 1 bis B, premier alinéa. Ces pourcentages sont ramenés respectivement à 40 % et à 80 % pour les éléments acquis au moyen des sommes prélevées ou déduites des bénéfices des exercices 1981 et 1982.
+1 bis B bis. Les sommes prélevées ou déduites des résultats imposables en vertu du 1 bis A bis ne peuvent être utilisées qu'au financement d'une fraction du prix de revient des matériels et constructions qui y sont définis. Pour les éléments acquis au moyen des sommes prélevées ou déduites des bénéfices de l'exercice 1980, cette fraction est égale à 55 % pour la généralité des publications et à 90 % pour les quotidiens et les publications assimilées définies au 1 bis B, premier alinéa. Ces pourcentages sont ramenés respectivement à 40 % et à 80 % pour les éléments acquis au moyen des sommes prélevées ou déduites des bénéfices des exercices 1981, 1982 et 1983.
 
 1 bis C. Pour la détermination des résultats des exercices 1975 et suivants, sont exclues du bénéfice du régime prévu aux 1 bis, 1 bis A et 1 bis A bis les publications pornographiques, perverses ou de violence figurant sur une liste établie, après avis de la commission de surveillance et de contrôle des publications destinées à l'enfance et à la jeunesse, par un arrêté du ministre de l'intérieur.
 
 Les réclamations et les recours contentieux relatifs aux décisions d'inscription sur la liste sont instruits par le département de l'intérieur.
 
-1 bis C bis. Les entreprises de presse ne bénéficient pas du régime prévu aux 1 bis A et 1 bis A bis pour la partie des publications qu'elles impriment à l'étranger (3).
+1 bis C bis. Les entreprises de presse ne bénéficient pas du régime prévu aux 1 bis A et 1 bis A bis pour la partie des publications qu'elles impriment à l'étranger.
 
 1 ter. Les éléments d'actif acquis au moyen des bénéfices ou des provisions mentionnés au présent article sont amortis pour un montant égal à la fraction du prix d'achat ou de revient qui a été prélevée sur lesdits bénéfices ou provisions.
 
@@ -51,5 +51,3 @@ Sans préjudice de l'application des dispositions de l'article 39-1-5°, huitiè
 (1) Dispositions applicables aux acquisitions réalisées à compter du 1er janvier 1980.
 
 (2) Annexe IV, art. 4 octies.
-
-(3) Dispositions applicables aux exercices clos à compter du 31 décembre 1979.
