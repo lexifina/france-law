@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940907757
+
+- Question : [SEQ940907757](seq940907757.md) — Faible présence audiovisuelle française en Amérique latine
+
+## Réponse
+
+*Affaires étrangères, JO du 1994-10-20, page 2511*
+
+Réponse. - Depuis 1992, TV 5 Québec-Canada pilote la diffusion, en compression numérique, de la chaîne francophone sur le continent latino-américain. Actuellement, cette diffusion atteint 550 000 foyers câblés répartis dans douze pays. Il convient d'indiquer que ce chiffre est en dessous des prévisions de la chaîne, sa diffusion au Mexique, qui représente 400 000 foyers potentiels, n'ayant pas été poursuivie après une période expérimentale. Par ailleurs, en Argentine où TV 5 enregistre sa plus forte présence quantitative, on a pu constater une réduction de place de la chaîne sur le câble. Conscient des améliorations à apporter afin de conforter la présence de TV 5 en Amérique latine, le Conseil audiovisuel extérieur de la France du 22 avril 1994 a souhaité que la chaîne entreprenne une politique de relations publiques étoffée et une adaptation linguistique (sous-titrage en espagnol d'un journal télévisé quotidien et d'une fiction par semaine). Des moyens financiers supplémentaires ont été prévus dans ce sens dans le cadre du plan quinquennal d'action audiovisuelle extérieure de la France. Il ressort par ailleurs que la stratégie commerciale de TV 5, face aux chaînes internationales concurrentes qui offrent gratuitement leurs programmes devra adapter ses conditions aux différentes situations locales. Enfin, le prochain passage de la chaîne sur le satellite Panamsat 3 qui permettra une diminution de la dimension des paraboles réceptrices au sol et la perspective de la banalisation des décompresseurs d'images devraient faciliter sa reprise par les réseaux câblés mais permettre également le développement de la réception satellitaire individuelle.
