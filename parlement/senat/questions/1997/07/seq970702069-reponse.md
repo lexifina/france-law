@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970702069
+
+- Question : [SEQ970702069](seq970702069.md) — Répercussion de l'augmentation du pouvoir d'achat du salaire minimum interprofessionnel de croissance (SMIC)
+
+## Réponse
+
+*Emploi, JO du 1997-11-27, page 3304*
+
+Réponse. - La lutte contre le chômage des jeunes est un des objectifs prioritaires du Gouvernement. En effet, le taux de chômage des jeunes est rarement passé en dessous de 20 % depuis 1983, soit le double du taux de chômage général, en dépit d'une évolution démographique et d'un allongement de la scolarité qui auraient dû contribuer à faciliter l'insertion des jeunes actifs sur le marché du travail. Face à ces problèmes, le débat sur le chômage des jeunes a porté sur le coût du travail et l'adéquation des formations aux emplois. Ces deux points ont été examinés par l'Observatoire français des conjonctures économiques, avec l'aide des données issues de l'enquêtre Emploi réalisée chaque année par l'INSEE (revue de l'OFCE de juillet 1997). Il ressort de cette étude que le chômage des jeunes, comme le chômage des adultes d'ailleurs, est très sensible aux fluctuations de l'activité économique. En revanche, cette étude ne montre pas que le coût du travail, et notamment l'évolution du SMIC, avait un impact significatif sur le chômage des jeunes au cours de la période 1970-1994. Les questions de formation sont mises en évidence par le fait que le manque d'emplois se reporte sur les jeunes en général, mais plus encore sur les jeunes non qualifiés. Il apparaît ainsi que le chômage des jeunes est dû principalement à une question d'employabilité des jeunes actifs. La réduction dégressive des cotisations patronales de sécurité sociale sur les salaires inférieurs à 1,3 SMIC permet en outre de réduire le coût du travail des jeunes à faible qualification.
