@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001129259
+
+- Question : [SEQ001129259](seq001129259.md) — Délai de remboursement de la CRDS aux travailleurs frontaliers
+
+## Réponse
+
+*Économie, JO du 2001-04-05, page 1174*
+
+Réponse. - La Cour de justice des Communautés européennes a jugé le 15 février 2000 que l'assujettissement à la contribution sociale généralisée (CSG) et à la contribution au remboursement de la dette sociale (CRDS) des frontaliers résidents de France et travaillant dans un autre Etat membre de l'Union européenne était contraire à l'article 13 du règlement communautaire nº 1408/71 et au principe de libre circulation des personnes posé par l'article 48 du traité de Rome. Par un communiqué de presse du 2 mars 2000, commun au ministère de l'emploi et de la solidarité et au ministère de l'économie, des finances et de l'industrie, il a été indiqué que les litiges en cours seraient réglés conformément à ces décisions et que les personnes qui auraient acquitté ces prélèvements seraient remboursées sur leur demande. Toutes directives ont alors été données aux services territoriaux concernés, afin que les dégrèvements correspondants soient prononcés le plus rapidement possible. Dans un département, l'importance du nombre de dégrèvements et de remboursements à effectuer a nécessité, en vue de procéder à un règlement d'ensemble des litiges, la mise en place d'un dispositif informatique qui a pu induire des délais de traitement relativement longs. Toutefois, à ce jour, les services ont procédé à la régularisation de la quasi-totalité des dossiers en instance. Cela étant, s'agissant des cas particuliers évoqués, il ne pourra être répondu avec précision à la question posée que si, par l'indication des noms et domiciles des personnes concernées, l'administration est en mesure de procéder à une instance détaillée.
