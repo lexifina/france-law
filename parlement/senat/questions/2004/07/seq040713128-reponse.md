@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040713128
+
+- Question : [SEQ040713128](seq040713128.md) — Application de l'article 20 du décret n° 2003-1279 aux sapeurs-pompiers
+
+## Réponse
+
+*Intérieur, JO du 2005-02-24, page 548*
+
+L'honorable parlementaire appelle l'attention de M. le ministre de l'intérieur, de la sécurité intérieure et des libertés locales sur l'application, aux sapeurs-pompiers professionnels, d'une disposition du décret n° 2003-1306 du 26 décembre 2003, relatif au régime de retraite des fonctionnaires affiliés à la Caisse nationale de retraites des agents des collectivités locales. Le II de l'article 20 du décret du 26 décembre 2003 précise que, lorsque la durée d'assurance, définie au I, est supérieure au nombre de trimestres nécessaires pour obtenir le pourcentage maximum mentionné à l'article 16 et que le fonctionnaire a atteint l'âge de soixante ans, un coefficient de majoration s'applique au montant de la pension liquidée en application des articles 16 et 17. Le nombre de trimestres pris en compte pour ce calcul est égal, à la date de la liquidation de pension, au nombre de trimestres effectués exclusivement après le 1er janvier 2004 au-delà de l'âge de soixante ans dans la limite de vingt trimestres. En effet, tous les services effectués avant l'âge de soixante ans et avant le 1er janvier 2004, même si la condition de durée de services nécessaire à l'obtention du taux plein est remplie avant ces deux conditions, sont exclus. Ainsi, les sapeurs-pompiers professionnels ayant décidé de ne pas faire valoir leur droit à la retraite anticipée à cinquante-cinq ans et exerçant leurs fonctions jusqu'à soixante ans, ne peuvent bénéficier de cette surcote. Celle-ci peut en revanche être envisagée dans certains cas pour les périodes qui pourraient être travaillées au-delà de soixante ans.
