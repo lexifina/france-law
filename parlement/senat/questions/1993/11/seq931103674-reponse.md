@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931103674
+
+- Question : [SEQ931103674](seq931103674.md) — Pollution de la centrale EDF de la Réunion
+
+## Réponse
+
+*Industrie, JO du 1994-12-29, page 3095*
+
+Réponse. - La centrale du Port est en conformité avec la réglementation sur les installations classées pour la protection de l'environnement (ICPE). Néanmoins, comme le souligne l'honorable parlementaire, les rejets atmosphériques émis par les groupes diesel de cette centrale, qui fonctionnent au fuel lourd à forte teneur en soufre (3,6 p. 100 en moyenne), ne sont pas totalement satisfaisants. A la demande des pouvoirs publics, Electricité de France a récemment mis en oeuvre plusieurs mesures destinées à mieux contrôler et à réduire ces rejets. Un arrêté préfectoral, pris le 7 janvier 1993 au titre des installations classées pour la protection de l'environnement, a imposé à Electricité de France la construction d'une cheminée de trente-cinq mètres permettant une diffusion satisfaisante des rejets dans l'atmosphère. Cette cheminée est opérationnelle depuis janvier 1994. Par ailleurs, à la demande de la direction régionale de l'industrie, de la recherche et de l'environnement de la Réunion, Electricité de France à niveau, en août 1993, un réseau de surveillance de la pollution atmosphérique. Ce réseau est composé de trois stations de mesure placées sur des sites géographiques représentatifs. Les mesures obtenues ont permis de montrer que les retombées sont très faibles sur ces sites. D'autres mesures sont envisagées. Un arrêté préfectoral devrait prochainement imposer à Electricité de France de mettre en place des dispositifs de mesures en continu de la teneur en poussières et en dioxyde de soufre à la sortie des cheminées de la centrale du Port, et d'étudier les possibilités d'approvisionnement de la centrale en fuel à très basse teneur en soufre (TBTS).
