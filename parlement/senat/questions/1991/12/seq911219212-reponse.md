@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911219212
+
+- Question : [SEQ911219212](seq911219212.md) — Français au Canada : formalités en matière de pensions de vieillesse
+
+## Réponse
+
+*Affaires sociales, JO du 1992-03-19, page 666*
+
+Réponse. - Aux termes de l'article 33 de l'arrangement administratif franco-québécois du 11 juillet 1980 pris pour l'application de l'entente franco-québécoise de sécurité sociale du 12 février 1979, le ressortissant français ou québécois qui, au cours de sa carrière, a été affilié successivement ou alternativement aux régimes d'assurance vieillesse des deux pays, doit adresser sa demande de pension de vieillesse à la régie des rentes du Québec s'il réside au Québec ou dans une autre province du Canada. Il est précisé à l'honorable parlementaire que cette procédure, commune à l'ensemble des accords de sécurité sociale signés par la France, est instituée dans l'intérêt même du demandeur puisqu'il n'a ainsi qu'un seul dossier de demande de pension à constituer, qui sera utilisé à la fois par la liquidation de ses droits à pension québécoise et à pension française. Au surplus cette procédure évite l'envoi de pièces justificatives du Québec en France, celles-ci étant remplacées par des informations attestées par la régie des rentes, et permet à l'institution française compétente d'avoir rapidement connaissance des périodes d'assurance et assimilées québécoise, prises en compte comme périodes équivalentes pour l'obtention éventuelle d'une pension française au taux plein. Bien entendu le ressortissant français ou québécois résidant au Québec et n'ayant été soumis au cours de sa carrière professionnelle qu'au seul régime français d'assurance vieillesse peut, s'il le souhaite, adresser sa demande de pension française directement à l'institution française compétente.
