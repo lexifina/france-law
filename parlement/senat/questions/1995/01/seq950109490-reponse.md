@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950109490
+
+- Question : [SEQ950109490](seq950109490.md) — Présentation du concours d'entrée au Centre de formation à la profession d'avocat en candidat libre
+
+## Réponse
+
+*Enseignement supérieur, JO du 1995-03-09, page 571*
+
+Réponse. - L'article 11 de la loi du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques, modifiée par la loi no 90-1259 du 31 décembre 1990, prévoit que " nul ne peut accéder à la profession d'avocat s'il ne remplit les conditions suivante : ... 2o être titulaire ... d'au moins une maîtrise en droit ou de titres ou de diplômes reconnus comme équivalents pour l'exercice de la profession par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre chargé des universités... ". L'article 51 du décret du 27 novembre 1991 organisant la profession d'avocat précise que " pour être inscrits dans un centre de formation professionnelle, les candidats doivent avoir subi avec succès l'examen d'accès au centre..., et qui est organisé par les universités qui sont désignées à cet effet par le ministre chargé des universités, après avis du garde des sceaux, ministre de la justice " ; aux termes de l'article 52 dudit décret, " pour être admis à se présenter à l'examen d'accès au centre régional de formation professionnelle, les candidats doivent être titulaires d'un des titres ou diplômes prévus à l'article 11 de la loi du 31 décembre 1971... ". Le programme et les modalités de l'examen sont fixés par l'arrêté du 7 janvier 1993. Il résulte de l'ensemble des dispositions législatives et réglementaires en vigueur que les universités chargées d'organiser l'examen d'accès ne peuvent subordonner l'admission des candidatures ni à l'inscription préalable dans un centre de préparation ni au versement de droits d'inscription.
