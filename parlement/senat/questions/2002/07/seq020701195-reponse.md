@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020701195
+
+- Question : [SEQ020701195](seq020701195.md) — Institut national d'études démographiques
+
+## Réponse
+
+*Affaires sociales, JO du 2002-09-12, page 2009*
+
+L'INED dispose en 2001 de 163 postes budgétaires, dont 62 postes de chercheurs, auxquels s'ajoutent une quarantaine de chercheurs en accueil temporaire (chercheurs étrangers, administrateurs de l'INSEE, enseignants-chercheurs associés, doctorants). L'INED bénéficie d'un budget de 13,95 millions d'euros en 2001, dont 10,04 de dépenses ordinaires et 3,92 de crédits de paiement. L'INED prépare chaque année le rapport sur la situation démographique de la France présenté au Parlement par le ministre en charge des questions de population. Les collections de l'INED ont publié 34 ouvrages dans les cinq dernières années. L'institut édite un bulletin mensuel, Population & Sociétés, qui tire à 12 000 exemplaires et est accessible sur Internet, ainsi qu'une revue bimensuelle de rang international, Population, publiée simultanément en français et en anglais. La production scientifique des chercheurs de l'INED se répartit dans un large éventail de revues françaises et étrangères, tandis que, réciproquement, les périodiques de l'INED accueillent de nombreux auteurs étrangers. Au sein du monde scientifique, les chercheurs sont recrutés de la même façon que dans l'ensemble des établissements publics scientifiques et technologiques (EPST) : par voie de concours, selon des critères scientifiques (détention d'une thèse, qualité et rayonnement des publications). Le conseil scientifique doit approuver, le cas échéant, la définition des profils de postes. Il faut rappeler toutefois qu'environ 60 % des chercheurs actuels de l'INED ont été directement recrutés sur titre par la direction de l'établissement à une époque où l'INED n'avait pas encore le statut d'EPST, les premiers concours de recrutement remontant seulement à 1990.
