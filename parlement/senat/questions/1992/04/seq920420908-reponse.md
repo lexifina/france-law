@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920420908
+
+- Question : [SEQ920420908](seq920420908.md) — Fermeture de plusieurs consulats
+
+## Réponse
+
+*Affaires étrangères, JO du 1992-12-03, page 2670*
+
+Réponse. - Dans le cadre du remodelage de la carte diplomatique et consulaire, le département a décidé de la fermeture du consultat de France à Bouaké. Celle-ci est devenue effective à la date du 31 juillet 1992. Il s'avère en effet que, malgré l'importance de la communauté française, l'activité consulaire du poste était très réduite. Alors que le département préconisait un redécoupage des circonscriptions consulaires visant à renforcer le consulat en intégrant les départements du nord du pays, les ressortissants français ont fait valoir qu'ils n'avaient aucune raison de se rendre à Bouaké alors qu'ils se déplacent fréquemment et commodément à Abidjan (voie aérienne) où se trouvent le siège des affaires et des administrations ainsi que les services de la mission de coopération et d'action culturelle. Les ressortissants français pourront aisément avoir recours à notre consulat à Abidjan qui est de surcroît informatisé. Une agence consulaire est en cours de création à Bouaké complétant utilement le dispositif déjà existant à Abengourou, Daloa, Korhogo, Man, San Pedro et Yamassoukro. Nos agents consulaires rendent d'importants services, délivrant des certificats de vie, de résidence, des fiches d'état civil, des certifications..., et n'hésitant pas à venir en aide aux Français en difficulté. Enfin, en vue de conserver un indispensable contact de proximité à l'attention de nos compatriotes à Bouaké, des tournées consulaires seront régulièrement organisées. S'agissant du consulat de France à Alicante, la décision de fermeture est différée afin de poursuivre la réflexion sur le réseau diplomatique et consulaire français.
