@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930702078
+
+- Question : [SEQ930702078](seq930702078.md) — Restructuration de la production bovine
+
+## Réponse
+
+*Agriculture, JO du 1994-02-10, page 300*
+
+Réponse. - La production de l'élevage allaitant en France est caractérisée à la fois par une forte proprotion de troupeaux de taille réduite et par une pyramide des âges déséquilibrée. Ainsi, plus de 40 p. 100 des exploitations allaitantes possèdent un cheptel de moins de dix vaches nourrices - qui ne représentent toutefois que 10 p. 100 du cheptel total français, et le nombre d'exploitants âgés (de plus de soixante ans) correspond à 20 p. 100 de l'ensemble de ces exploitations. La proportion des exploitants âgés de plus de soixante ans est d'ailleurs d'autant plus forte que la taille des troupeaux est faible, puisqu'ils représentent plus de 35 p. 100 des exploitants qui disposent d'un effectif inférieur à cinq vaches. Il ressort de ce constat que dans les dix années à venir, un mouvement de restructuration affectera le secteur de la viande bovine de par le seul fait de l'évolution démographique. Il n'y a toutefois pas de crainte à avoir sur d'éventuels effets néfastes de cette restructuration sur l'équilibre économique de la filière. En effet, en accord avec les organisations professionnelles agricoles, le ministre de l'agriculture et de la pêche a institué une gestion administrative départementale des droits à la prime à la vache allaitante. Ce dispositif permettra de maintenir le potentiel de production de chaque département et d'éviter ainsi toute délocalisation. D'autre part, c'est dans le cadre des commissions mixtes départementales qui associent les représentants de la profession et des administrations que se feront les attributions de droits à primes hors transfert d'exploitation, ce qui permettra de répondre à l'objectif légitime d'une restructuration concertée et coordonnée.
