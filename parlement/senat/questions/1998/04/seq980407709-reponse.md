@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980407709
+
+- Question : [SEQ980407709](seq980407709.md) — Campagnes d'information en faveur des prélèvements d'organes
+
+## Réponse
+
+*Santé, JO du 1998-07-30, page 2497*
+
+Réponse. - Les actions d'information sur le don d'éléments du corps humain évoqués par l'honorable parlementaire s'inscrivent dans un plan d'éducation sanitaire élaboré par l'Etablissement français des greffes pour une durée de trois ans. La campagne de 1996 orientée sur le prélèvement en milieu hospitalier a concerné 155 établissements de santé en plus des 40 centres hospitaliers universitaires. Celle de 1997, menée à l'attention des professions médicales et des pharmaciens d'officine, se prolonge actuellement notamment dans le cadre de la formation médicale continue. Dès juillet 1998, les pharmaciens d'officine ainsi que 10 000 médecins généralistes recevront des documents d'information sur le prélèvement et la greffe, en vue de provoquer une réflexion sur le don d'organes et des tissus, à tenir à la disposition du public. L'information sur cette mise à disposition sera relayée par la presse écrite et audiovisuelle. Par ailleurs, l'établissement français des greffes prévoit également, au cours du second semestre 1998, une émission de télévision nationale d'information ainsi que des interventions dans diverses émissions radiophoniques pour inviter les citoyens à une prise de position sur le don. Ces interventions témoignent de l'attention constante que porte l'établissement aux médias : ainsi en 1997, l'EFG a collaboré à 124 projets de journalistes, à 4 émissions radiophoniques et à 9 émissions de télévision. Toutefois, compte tenu de la gravité du sujet traité qui confronte l'individu à la fin de son existence, l'EFG privilégie avec raison une information en profondeur, prolongée dans le temps.
