@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021002945
+
+- Question : [SEQ021002945](seq021002945.md) — Manque de personnel qualifié chez les auxiliaires puéricultrices
+
+## Réponse
+
+*Santé, JO du 2002-12-19, page 3177*
+
+Assurer aux jeunes enfants de bonnes conditions d'accueil et d'encadrement constitue une préoccupation constante du ministère de la santé, de la famille et des personnes handicapées. Afin d'atteindre cet objectif, la qualité de la formation dispensée aux auxiliaires de puériculture est essentielle. Cette qualité de formation est garantie par le programme actuel des études défini par l'arrêté du 22 juillet 1994 modifié relatif au diplôme professionnel d'aide-soignant et au diplôme professionnel d'auxiliaire de puériculture. Ce programme comporte 1 575 heures d'enseignement, dont 630 heures d'enseignement théorique et 945 heures d'enseignement clinique. Le volume horaire des enseignements centrés sur l'enfant est de 315 heures en ce qui concerne l'enseignement théorique et de 595 heures en ce qui concerne l'enseignement clinique. Il apparaît par ailleurs nécessaire, dans une période où les jeunes éprouvent des difficultés d'accès à l'emploi, de ne pas relever l'âge minimum d'accès à la formation, actuellement fixé à dix-sept ans, étant précisé qu'il n'existe pas d'âge limite supérieur. Une actualisation de la formation des aides-soignants et des auxiliaires de puériculture est néanmoins apparue souhaitable. A cette fin, un groupe de travail a été constitué, associant des représentants des professionnels concernés et des représentants de l'administration. Ce groupe est notamment chargé de formuler des propositions sur les conditions d'accès à la formation, les modalités d'évaluation des élèves au cours de leur scolarité ainsi que sur les épreuves finales sanctionnant la formation.
