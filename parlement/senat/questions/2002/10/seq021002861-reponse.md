@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021002861
+
+- Question : [SEQ021002861](seq021002861.md) — Observatoire du foncier en Guadeloupe
+
+## Réponse
+
+*Équipement, JO du 2003-02-13, page 569*
+
+Comme l'indique l'honorable parlementaire, les subventions issues des fonds régionaux d'aménagement foncier et urbain (FRAFU) permettent de subventionner des études foncières, à condition que ces études concernent la mise en place de programmes pluriannuels communaux ou intercommunaux d'intervention foncière, ou d'établissements publics fonciers locaux. En outre, les subventions issues des FRAFU ne peuvent être allouées aux associations loi 1901. L'agence foncière, d'urbanisme et d'aménagement de la Guadeloupe (AFUAG) ne peut donc en bénéficier. En ce qui concerne les observatoires fonciers, il existe une grande diversité de structures et de sources de financement. Ainsi, un observatoire foncier peut être créé par une agence d'urbanisme comme c'est le cas pour l'Agence pour l'observation de la Réunion, l'aménagement et l'habitat (AGORAH) qui agit dans le cadre d'un large partenariat et bénéficie à la fois du financement de l'Etat et des collectivités locales. A ce titre, il convient de préciser que l'AFUAG n'est pas une agence d'urbanisme au sens de l'article L. 121-3 du code de l'urbanisme. Un observatoire foncier peut également être créé par une agence foncière comme les observatoires des agences foncières de l'Hérault et du Doubs, essentiellement financées par leur conseil général, ou encore prendre la forme d'une structure autonome comme l'Observatoire régional de l'habitat et de l'aménagement du Nord - Pas-de-Calais (ORHA) dont les financements proviennent du conseil général et du conseil régional, pour le compte desquels il travaille. En tout état de cause, il convient de rappeler que l'action foncière est une politique décentralisée. L'Etat n'y intervient que de façon subsidiaire.
