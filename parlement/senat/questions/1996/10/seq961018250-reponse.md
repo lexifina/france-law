@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961018250
+
+- Question : [SEQ961018250](seq961018250.md) — Composition de la commission d'homologation pour l'encadrement du tourisme équestre
+
+## Réponse
+
+*Jeunesse, JO du 1997-02-27, page 632*
+
+Réponse. - L'article 43 de la loi no 84-610 du 16 juillet 1984 modifiée relative à l'organisation et à la promotion des activités physiques et sportives dispose que " nul ne peut enseigner, encadrer ou animer contre rémunération une de ces activités s'il n'est titulaire d'un diplôme inscrit sur une liste d'homologation des diplômes des activités physiques et sportives ". Le décret no 93-1035 du 31 août 1993 relatif au contrôle de l'enseignement contre rémunération des activités physiques et sportives fixe les conditions d'inscription sur cette liste, laquelle inscription ne peut avoir lieu qu'après avis de la commission susmentionnée dont la composition est fixée par l'article 3 du décret précité. Cette disposition prévoit que, lorsqu'elle est amenée à rendre des avis en application de l'article 43, la commission comprend les dix-huit membres suivants : six représentants de l'Etat, six représentants du mouvement sportif et six représentants des personnes exerçant les professions intéressées, nommés par le ministre chargé des sports sur proposition des organisations syndicales les plus représentatives. Les membres de la commission qui siègent au titre des représentants des professionnels représentent les enseignants des activités physiques et sportives dans leur globalité et non pas seulement dans un secteur déterminé. Les six personnes ainsi désignées ont été proposées par les syndicats professionnels les plus représentatifs et l'on comprendra aisément qu'il n'était pas possible que les professionnels de chacune des disciplines sportives soient directement représentés dans une commission chargée d'émettre des avis sur des demandes concernant environ soixante-dix disciplines.
