@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990214025
+
+- Question : [SEQ990214025](seq990214025.md) — Modalités d'extension de la desserte gazière
+
+## Réponse
+
+*Économie, JO du 1999-05-20, page 1686*
+
+Réponse. - L'article 50 de la loi nº 98-546 du 2 juillet 1998 dispose, notamment, que seules les communes dont la desserte donne lieu à une rentabilité au moins égale à un taux fixé par un décret en conseil d'Etat peuvent figurer au plan national de desserte gazière. Le décret nº 99-278 du 12 avril 1998 a fixé ce ratio de rentabilité minimale à 0, ce qui signifie que le total actualisé des recettes doit être au moins égal au total actualisé des dépenses. Comme l'indiquait déjà le rapport de la commission des finances, de l'économie générale et du Plan de l'Assemblée nationale sur le projet de loi, une telle valeur de ratio de rentabilité implique qu'aucune subvention de la part des communes raccordées, ou d'une tierce partie, n'est nécessaire. Il n'y a donc plus lieu de parler d'un cofinancement entre GDF et les collectivités locales. Ce système n'avait de sens que dans le cadre réglementaire préexistant où une forte rentabilité était exigée et où des financements complémentaires des collectivités territoriales pouvaient s'avérer nécessaires afin d'atteindre cette rentabilité. En ce qui concerne les aides commerciales de GDF dont fait état la question posée, elles sont régies par l'article 8 du chapitre III du contrat Etat-entreprise de GDF pour la période 1997-1999. Cet article précise que le développement des placements en gaz sera accompagné d'appuis commerciaux à caractère financier pour certaines opérations délimitées à caractère innovant ou de nature à faciliter l'équipement des ménages en appareils au gaz. Ces aides commerciales dont le montant reste limité au niveau fixé dans le précédent contrat 1994-1996, soit 500 MF/an, restent soumises aux règles de la concurrence sous le contrôle des juridictions compétentes.
