@@ -1,5 +1,3 @@
 # Article Annexe art. 17
 
-La caisse s'interdit toute action contentieuse contre une autre caisse de l'organisation autonome d'assurances vieillesse des professions industrielles et commerciales sans l'accord préalable d'une commission constituée auprès de la caisse nationale dans les conditions fixées par les statuts de ladite caisse.
-
-Cette commission ne peut refuser son accord qu'à l'unanimité.
+La caisse s'interdit de porter directement devant les juridictions du contentieux général de la sécurité sociale les litiges qui pourraient l'opposer à une caisse relevant d'une autre organisation autonome d'assurance vieillesse des travailleurs non salariés, visée à l'article L. 621-3 du code de la sécurité sociale, lorsque la caisse nationale de cette organisation et celle de l'organisation des professions industrielles et commerciales ont conclu entre elles un accord en vue de soumettre préalablement ces litiges à une commission paritaire d'arbitrage organisée à la diligence des deux caisses nationales.

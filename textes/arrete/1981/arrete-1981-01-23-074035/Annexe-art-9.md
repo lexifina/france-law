@@ -1,13 +1,21 @@
 # Article Annexe art. 9
 
-Lors de son installation et après chaque renouvellement, le conseil d'administration élit parmi ses membres au scrutin secret et à la majorité absolue des voix les membres du bureau. Si un troisième tour de scrutin est nécessaire, l'élection a lieu à la majorité relative et, en cas d'égalité de voix, le candidat le plus âgé est proclamé élu.
+Le conseil d'administration a pour rôle de régler par ses délibérations les affaires de la caisse dans les conditions prévues par l'article R. 633-12, notamment :
 
-Le bureau comprend : un président, un ou plusieurs vice-présidents, un secrétaire (disposition facultative : un secrétaire adjoint), un trésorier (disposition facultative : un trésorier adjoint).
+1. D'établir les statuts de la caisse qui doivent reproduire les dispositions obligatoires des statuts types approuvés par arrêté du ministre chargé de la sécurité sociale et du ministre chargé du commerce ainsi que, le cas échéant, le règlement intérieur ;
 
-Le nombre total des membres du bureau ne peut excéder le tiers arrondi à l'unité supérieure des membres composant le conseil.
+2. D'orienter et de contrôler l'activité de la caisse en se prononçant sur le ou les rapports qui lui sont soumis par le directeur et l'agent comptable, notamment sur ceux relatifs au fonctionnement administratif et financier de l'organisme, aux relations avec les usagers et à l'action sociale ;
 
-Le doyen d'âge assure la présidence de la première réunion jusqu'à l'élection du président.
+3. D'autoriser le président à signer le contrat pluriannuel de gestion ;
 
-Le bureau procède, le cas échéant, à l'étude préalable des affaires inscrites à l'ordre du jour des séances du conseil d'administration.
+4. De voter les budgets de gestion administrative et de l'action sociale dans le cadre du contrat pluriannuel liant la caisse de base à la caisse nationale ;
 
-Le conseil peut, par délégation expresse et spéciale, confier au bureau une partie de ses attributions, à l'exception de celles visées aux 1°, 2°, 3° et 4° de l'article 10 ci-dessous.
+5. D'arrêter les comptes annuels de l'organisme ;
+
+6. De nommer le directeur, le directeur adjoint, l'agent comptable et, sur la proposition du directeur, les titulaires des autres emplois de direction dont la désignation est soumise à l'agrément ministériel prévu à l'article R. 123-48 du code de la sécurité sociale. Ces nominations ne peuvent être prononcées qu'après avis de la caisse nationale.
+
+Toute décision du conseil d'administration en matière de rétrogradation, révocation ou licenciement d'un agent de direction ou de l'agent comptable ne peut être prise qu'après avis du directeur général de la caisse nationale, ainsi que de la commission instituée en application de l'article R. 123-51 ;
+
+7. De veiller à l'amélioration des relations avec les usagers ;
+
+8. De contrôler l'application par le directeur et l'agent comptable des dispositions législatives et réglementaires, ainsi que l'exécution de ses propres délibérations.

@@ -1,6 +1,6 @@
 # Article Annexe art. 12
 
-Le(s) vice-président(s) seconde(nt) le président dans toutes ses fonctions. Il(s) le remplace(nt) en cas d'empêchement.
+Le premier vice-président seconde le président dans toutes ses fonctions. Il le remplace en cas d'empêchement.
 
 Le secrétaire est chargé des convocations aux différentes réunions et de la rédaction des procès-verbaux.
 
