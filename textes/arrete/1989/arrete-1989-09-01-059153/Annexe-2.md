@@ -72,7 +72,9 @@ Situation antérieure : 286
 
 Au 1er août 1991 : 291
 
-Au 1er août 1992 : 301 ------------------------- (1) Echelon exceptionnel accessible suivant les dispositions mentionnées aux articles 13 et 21 du décret n° 89-613 du 1er septembre 1989 susvisé.Technicien de laboratoire de classe supérieure
+Au 1er août 1992 : 301 ------------------------- (1) Echelon exceptionnel accessible suivant les dispositions mentionnées aux articles 13 et 21 du décret n° 89-613 du 1er septembre 1989 susvisé.
+
+Technicien de laboratoire de classe supérieure
 
 Manipulateur d'électroradiologie médicale de classe supérieure
 
@@ -90,32 +92,50 @@ Manipulateur d'électroradiologie médicale de classe supérieure
 
 :1er : 418 : |
 
-------------------------- |
-
-|
-
-Technicien de laboratoire, surveillant |
-
-Manipulateur d'électroradiologie médicale, surveillant |
-
-|
-
------------------------- |
-
-:Echelons:Indices bruts: |
-
-:7e : 579 : |
-
-:6e : 547 : |
-
-:5e : 510 : |
-
-:4e : 479 : |
-
-:3e : 448 : |
-
-:2e : 423 : |
-
-:1er : 384 : |
-
 -------------------------
+
+Technicien de laboratoire, surveillant
+
+Manipulateur d'électroradiologie médicale, surveillant
+
+7e échelon Indices bruts :
+
+Situation antérieure : 579
+
+Situation nouvelle à compter du 1er août 1992 : 638
+
+6e échelon Indices bruts :
+
+Situation antérieure : 547
+
+Situation nouvelle à compter du 1er août 1992 : 595
+
+5e échelon Indices bruts :
+
+Situation antérieure : 510
+
+Situation nouvelle à compter du 1er août 1992 : 557
+
+4e échelon Indices bruts :
+
+Situation antérieure : 479
+
+Situation nouvelle à compter du 1er août 1992 : 522
+
+3e échelon Indices bruts :
+
+Situation antérieure : 448
+
+Situation nouvelle à compter du 1er août 1992 : 485
+
+2e échelon Indices bruts :
+
+Situation antérieure : 423
+
+Situation nouvelle à compter du 1er août 1992 : 455
+
+1er échelon Indices bruts :
+
+Situation antérieure : 384
+
+Situation nouvelle à compter du 1er août 1992 : 422
