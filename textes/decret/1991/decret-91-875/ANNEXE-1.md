@@ -180,9 +180,7 @@ Assistant technique.
 
 |
 
-Prime de rendement et, pour les techniciens jusqu'au 7e échelon, indemnités horaires pour travaux supplémentaires (I.H.T.S.) (décret
-
-n° 50-1248 du 6 octobre 1950 modifié).
+Prime de rendement et, pour les techniciens jusqu'au 7e échelon, indemnités horaires pour travaux supplémentaires (I.H.T.S.) (décret n° 50-1248 du 6 octobre 1950 modifié).
 
 |
 
@@ -190,17 +188,13 @@ Contrôleur territorial de travaux :
 
 - contrôleur principal ;
 
-- contrôleur.
-
-|
+- contrôleur. |
 
 Contrôleur de travaux publics de l'Etat :
 
 - contrôleur principal ;
 
-- contrôleur.
-
-|
+- contrôleur. |
 
 Prime de rendement et, pour les
 
@@ -1023,5 +1017,57 @@ Adjoint administratif.
 |
 
 I.H.T.S.
+
+|
+
+F. - Animation
+
+FONCTION PUBLIQUE TERRITORIALE
+
+Cadres d'emplois concernée
+
+|
+
+FONCTION PUBLIQUE DE L'ÉTAT
+
+Corps équivalents
+
+|
+
+RÉGIME INDEMNITAIRE DE RÉFÉRENCE
+
+|
+
+Animateur.
+
+|
+
+Secrétaire administratif.
+
+|
+
+IFTS pour les animateurs chefs, les animateurs principaux et les animateurs à partir du 8e échelon.
+
+IHTS pour les animateurs du 1er au 7e échelon.
+
+|
+
+Adjoint d'animation.
+
+Agent d'animaton.
+
+|
+
+Adjoint administratif des services
+
+extérieurs.
+
+Agent administratif.
+
+|
+
+IHTS.
+
+IHTS.
 
 |
