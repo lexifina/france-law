@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970702178
+
+- Question : [SEQ970702178](seq970702178.md) — Clause de sauvegarde de l'article 2 paragraphe 2 de la convention d'application des accords de Schengen
+
+## Réponse
+
+*Intérieur, JO du 1997-08-28, page 2232*
+
+Réponse. - Le projet de réforme approuvé au Conseil européen d'Amsterdam des 16 et 17 juin 1997 comporte un protocole sur l'incorporation de l'acquis Schengen dans le Traité sur l'Union européenne. Dès l'entrée en vigueur du traité, l'acquis Schengen, c'est-à-dire l'accord du 14 juin 1985, sa convention d'application et les décisions du comité exécutif sera intégré dans le droit communautaire et applicable aux Etats membres de l'Union européenne, sauf le Royaume-Uni et l'Irlande. Les décisions d'approfondissement de l'acquis Schengen seront prises désormais dans le cadre institutionnel de l'Union européenne, toujours à l'unanimité, selon les modalités de décision prévues pour les matières se rattachant à la libre circulation. La clause de sauvegarde contenue dans l'article 2, paragraphe 2, de la Convention d'application de l'accord de Schengen n'est donc pas remise en cause par ce protocole. Elle restera valide tout en s'inscrivant désormais dans le cadre des institutions de l'Union européenne, chaque partie pouvant rétablir les contrôles frontaliers pour une période limitée, après consultation des autres parties, lorsque l'ordre public ou la sécurité nationale l'exigent. L'utilisation de cette clause de sauvegarde devrait échapper au contrôle de la Cour de Justice des Communautés européennes qui, selon les termes du protocole, " n'est pas compétente pour statuer sur les mesures ou décisions portant sur le maintien de l'ordre public et la sauvegarde de la sécurité intérieure ". L'attention de l'honorable parlementaire est toutefois appelée sur le fait que le texte du traité n'est pas encore définitif, la signature étant prévue au mois d'octobre 1997.
