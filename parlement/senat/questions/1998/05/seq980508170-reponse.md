@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508170
+
+- Question : [SEQ980508170](seq980508170.md) — Situation des cheminots anciens combattants
+
+## Réponse
+
+*Anciens combattants, JO du 1998-07-02, page 2135*
+
+Réponse. - La profession d'agent de la SNCF n'entraîne aucun droit particulier envers ceux qui sont anciens combattants. La réponse aux deux questions posées par l'honorable parlementaire se situera donc sur le plan des règles de droit commun. 1º Il peut être précisé en premier lieu que le secrétaire d'Etat aux anciens combattants n'envisage pas de modifier le décret du 19 octobre 1989 qui réglemente les témoignages produits à l'appui des demandes de carte de combattant volontaire de la résistance (CVR). Les exigences qu'il impose, plus de 54 ans après les faits, semblent parfaitement légitimes : seuls sont recevables les témoignages produits par des résistants titulaires du titre quand celui-ci a été obtenu sur la base de documents d'époque. Cette procédure induit une certaine restriction qui ne peut être contestée, mais qui est néanmoins parfaitement compréhensible. Il a été cependant décidé que les dossiers des résistants manifestement authentiques peuvent faire l'objet d'une procédure de vérification particulière et d'un avis de la commission nationale de la carte de CVR. 2º Alors que les nouvelles dispositions adoptées par la loi de finances pour l'attribution de la carte du combattant pour la participation à la guerre d'Algérie viennent tout juste d'entrer en vigueur, il est tôt pour envisager de les modifier. La commission nationale de la carte du combattant dresse la liste des difficultés que cette mesure peut présenter dans son application. Seul, le bilan des cartes attribuées et des problèmes rencontrés permettra d'apprécier si le nouveau critère adopté doit ou non être ajusté.
