@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890605289
+
+- Question : [SEQ890605289](seq890605289.md) — Remodelage du capital de la Société générale
+
+## Réponse
+
+*Économie, JO du 1989-10-05, page 1640*
+
+Réponse. - Les informations demandées par l'honorable parlementaire à propos de l'évolution des structures juridiques de la Société immobilière de gestion et de participation (S.I.G.P.) portent sur les éléments et les étapes du développement d'une entreprise privée, et ne peuvent donc être fournies par les pouvoirs publics, qui n'ont pas vocation à les diffuser. De même, le prix de cession de ses actions Société générale par la Caisse des dépôts, ainsi que leur prix de revient, constituent des éléments d'une transaction privée de marché. De manière donc bien normale, ils sont couverts par le secret des affaires. Les modalités de cette opération de cession n'appellent par ailleurs pas d'observation particulière : elles ont été normalement portées à la connaissance des autorités boursières, et elles n'ont pas reçu de traitement spécifique en matière fiscale. La participation directe du groupe de la Caisse des dépôts, acquise dans le cadre de la privatisation de la Société générale pour l'essentiel et à titre d'opérations de placement pour le solde, représente 4,23 p. 100 du capital de la Société générale et est répartie, sur la base d'un capital de 57 877 763 actions, entre : la section générale qui détient 762 102 actions, soit 1,32 p. 100 du capital ; les sections d'épargne qui détiennent 981 814 actions, soit 1,70 p. 100 du capital ; la Caisse nationale de prévoyance, dont le portefeuille est géré par la Caisse des dépôts, qui détient 700 040 actions, soit 1,21 p. 100 du capital de la Société générale. A l'issue des opérations de recomposition du capital de la Société générale, qui passent notamment par un reclassement des titres de la S.I.G.P., détenus par la section générale de la C.D.C., la C.D.C. détiendra 6 p. 100 du capital de la banque.
