@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870204594
+
+- Question : [SEQ870204594](seq870204594.md) — Libéralisation des finances des collectivités locales
+
+## Réponse
+
+*Collectivités locales, JO du 1987-07-09, page 1080*
+
+Réponse. -La question d'une réforme des modes de placement des " fonds libres " des collectivités locales ne peut être examinée indépendamment du contexte plus général et plus complexe des relations de trésorerie de ces collectivités avec l'Etat. Ces relations sont caractérisées par des obligations réciproques. D'une part, l'Etat avance mensuellement le produit des impôts votés par les collectivités locales, d'autre part, les collectivités locales ont l'obligation de déposer au Trésor leurs fonds disponibles. Ainsi, une réforme des relations de trésorerie devrait naturellement être équilibrée et porter à la fois sur les avances de l'Etat et sur les dépôts des collectivités au Trésor. Mais il n'en demeure pas moins qu'une modification du système existant se heurte à des problèmes complexes : principe de l'unité de trésorerie, rôle du comptable public entre autres, dont il est nécessaire d'évaluer toutes les incidences. Des études sont actuellement en cours sur les modalités d'un système de rémunération croisée des dépôts des collectivités locales au Trésor et des avances consenties par l'Etat. En tout état de cause, une modification éventuelle du système existant ne pourrait intervenir qu'après expérimentation sur certaines collectivités, et en concertation étroite avec les élus locaux. Mais à priori il ressort des études actuelles que la gestion de trésorerie est globalement une charge pour le budget de l'Etat (de l'ordre de 2,7 milliards de francs en 1985). Dans ces conditions, le Gouvernement exclut toute modification de la législation en vigueur qui pourrait se traduire par un transfert de charges de l'Etat vers les collectivités locales.
