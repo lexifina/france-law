@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000626447
+
+- Question : [SEQ000626447](seq000626447.md) — Conséquences financières de la tempête de décembre dernier pour le budget du service d'incendie et de secours du Cantal
+
+## Réponse
+
+*Intérieur, JO du 2000-11-23, page 4013*
+
+Réponse. - L'honorable parlementaire appelle l'attention du ministre de l'intérieur sur les conséquences financières de la tempête du 29 décembre 1999 pour le budget du service départemental d'incendie et de secours du Cantal. A la suite de la tempête de décembre 1999, il a été décidé, suite à l'instruction du ministre, la mise en place d'un dispositif exceptionnel d'aide aux services départementaux d'incendie et de secours (SDIS) des départements les plus touchés. En effet, ces services ont eu à supporter un surcoût financier important en raison même du nombre très élevé des interventions de secours et de l'usure notable des matériels mis en uvre. C'est pourquoi il a été demandé aux services départementaux d'incendie et de secours d'établir l'état des surcoûts ainsi occasionnés. C'est ainsi que les SDIS dont les surcoûts représentent au moins 7 % de leur budget de fonctionnement ont reçu une contribution financière exceptionnelle. La répartition s'opérait comme suit : l'Etat intervenait à hauteur de 30 % pour les départements dont le surcoût financier était compris entre 7 et 14 % de leur budget de fonctionnement. Pour les départements dont le surcoût financier était supérieur à 14 % de leur budget de fonctionnement, le taux d'intervention de l'Etat était porté à 40 %. Le surcoût des opérations supportées par le service départemental d'incendie et de secours du Cantal n'atteignant pas 7 % au minimum, il n'a pu, de ce fait, recevoir une contribution financière exceptionnelle. Il convient enfin de rappeler qu'après la tempête de 1999 l'effort de solidarité à l'égard du Cantal s'est traduit notamment par l'attribution de 2 455 484 francs au titre des secours d'extrême urgence.
