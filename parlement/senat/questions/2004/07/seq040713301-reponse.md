@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040713301
+
+- Question : [SEQ040713301](seq040713301.md) — Conditions d'intégration des titulaires d'un doctorat dans les mille nouveaux postes de jeunes chercheurs
+
+## Réponse
+
+*Éducation, JO du 2004-12-23, page 2965*
+
+Le 7 avril 2004, le ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche a présenté des mesures exceptionnelles de création de 1 000 nouveaux emplois destinés à renforcer la recherche dans l'enseignement supérieur. A ce jour, le projet de budget 2005 pour l'enseignement supérieur prévoit la création, d'une part, de 700 emplois d'enseignants-chercheurs et de 150 emplois d'ingénieurs et personnels techniques de recherche et de formation (ITRF) créés le 1er janvier 2005 et, d'autre part, de 150 emplois de maîtres de conférences, qui seront recrutés le 1er septembre 2005. En outre, les crédits destinés aux 150 nouveaux emplois d'attachés temporaires d'enseignement et de recherche (ATER) annoncés au mois d'avril dernier sont également inscrits au budget 2005 pour l'enseignement supérieur. Il convient de préciser que le décret n° 88-654 du 7 mai 1988 donne la possibilité aux établissements publics d'enseignement supérieur de recruter des ATER. Ce dispositif permet à ces derniers soit de préparer un doctorat, soit, pour ceux qui sont déjà titulaires de ce diplôme, de préparer un concours de recrutement dans l'enseignement supérieur. Les concours de maîtres de conférences constituent, pour les titulaires d'un doctorat, le moyen d'intégrer l'enseignement supérieur. Sur les 700 nouveaux emplois d'enseignants-chercheurs annoncés en avril, 366 (260 emplois de maîtres de conférences et 106 emplois de professeurs des universités) ont été publiés le 1er octobre 2004, les autres devant être publiés en 2005. Au total, ce sont 429 emplois de maîtres de conférences et 185 emplois de professeurs des universités qui ont été publiés à la 2e session 2004.
