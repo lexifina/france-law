@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950310191
+
+- Question : [SEQ950310191](seq950310191.md) — Hôtels Méridien
+
+## Réponse
+
+*Équipement, JO du 1996-07-18, page 1846*
+
+Réponse. - Le processus de redressement qu'a engagé la compagnie nationale Air France et qui conditionne la pérennité de l'entreprise et le maintien de ses emplois comporte la cession d'actifs dont l'activité ne relève pas directement du transport aérien. La vente en 1994 de la société des Hôtels Méridien s'inscrit dans cette démarche. Au demeurant, cette cession fait partie des engagements pris par le Gouvernement envers la Commission européenne en contrepartie de l'autorisation du versement à Air France d'une dotation en capital de 20 milliards de francs. Le groupe Forte a été sélectionné au terme d'une procédure rigoureuse et transparente qui a permis une cession des parts détenues par la compagnie nationale dans les meilleures conditions financières, commerciales et juridiques. Cette vente s'est accompagnée d'un accord de coopération d'une durée de sept ans entre la compagnie et cette société dans les domaines de la réservation, de la publicité, de l'informatique et de l'hébergement des équipages. Par ailleurs, l'offre d'achat du groupe Forte comporte l'engagement de maintenir dans la catégorie " haut de gamme " les hôtels Méridien, d'en assurer le développement et de conserver le siège de la société à Paris. C'est ainsi que le groupe a entamé un programme de conversion sur trois ans d'hôtels Forte Grande en hôtels Méridien, a ouvert récemment deux nouveaux établissements sous contrat et a prévu d'investir 20 millions de francs pour la rénovation des trois hôtels implantés en France. Par ailleurs, il appartient à la société des Hôtels Méridien d'assurer l'adéquation de ses effectifs au niveau de son activité, dans le cadre des dispositions du code du travail et des accords collectifs dont il appartient aux pouvoirs publics de veiller au respect.
