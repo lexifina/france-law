@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000222575
+
+- Question : [SEQ000222575](seq000222575.md) — Pouvoirs d'un principal de collège pour assurer l'ordre et la sécurité
+
+## Réponse
+
+*Éducation, JO du 2000-07-27, page 2656*
+
+Réponse. - Les principaux de collège n'ont pas de responsabilité directe en ce qui concerne le maintien de l'ordre et de la sécurité en dehors de l'enceinte scolaire. La sécurité aux abords des établissements scolaires relève en effet des pouvoirs de police. Toutefois, la mise en place, depuis 1997, d'un ensemble de moyens et de mesures spécifiques en vue de garantir ou rétablir la sécurité à l'intérieur et aux abords des établissements, devrait permettre aux chefs d'établissement d'être en mesure d'assurer la sécurité des personnes et des biens et de restaurer un climat plus propice à la scolarité des élèves. C'est ainsi que les chefs d'établissement doivent informer les autorités académiques et les collectivités territoriales de rattachement des problèmes qu'ils rencontrent en matière de protection physique des établissements (clôtures, accès, contrôle des entrées et sorties, systèmes d'alarme, moyens de communication avec l'extérieur). Ils peuvent solliciter le concours des services de police, de la gendarmerie et des collectivités locales pour élaborer un bilan de sécurité de l'établissement. Par ailleurs, comme le prévoit la circulaire du 28 octobre 1997, la garantie de la sécurité dans les établissements et leur environnement doit constituer une des priorités contenues dans les contrats locaux de sécurité. D'une manière générale, lorsqu'une situation de danger ou une infraction commise l'imposent, le chef d'établissement doit faire appel aux services de police ou de gendarmerie ainsi qu'à l'autorité judiciaire. Il peut être décidé, alors, de renforcer la surveillance aux abords des établissements scolaires, notamment par des rondes plus fréquentes et par l'emploi d'effectifs renforcés.
