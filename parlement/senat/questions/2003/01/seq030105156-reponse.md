@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030105156
+
+- Question : [SEQ030105156](seq030105156.md) — Gestion des marais communaux du marais poitevin
+
+## Réponse
+
+*Agriculture, JO du 2003-07-24, page 2374*
+
+La mise en place d'un dispositif spécifique a été décidée sur certaines zones des marais atlantiques. Ce dispositif, auquel est affecté en 2003 un budget global de 4,4 millions d'euros reconductibles, permettra aux agriculteurs qui ont souscrit une opération locale agri-environnementale (OLAE) venant à échéance de maintenir les mesures agro-environnementales appropriées à la gestion de ces milieux représentant un fort intérêt environnemental. Ainsi, à tous les bénéficiaires d'OLAE concernant les marais côtiers de Vendée, Deux-Sèvres, Charente-Maritime et Loire-Atlantique arrivées à échéance entre le 1er février 2002 et le 31 août 2003, il sera proposé de renouveler leur engagement à partir d'un dispositif simple fondé sur la contractualisation de la mesure agro-environnementale de gestion extensive des marais (mesure 1806) telle qu'elle figure dans les synthèses régionales agro-environnementales des régions Poitou-Charentes et Pays de la Loire. Les communes sont éligibles à ce dispositif, en effet dans le projet de décret sur les engagements agro-environnementaux qui sera le fondement juridique de ce dispositif, il est prévu que sont éligibles les " personnes morales mettant des terres à disposition d'exploitants de manière indivise ". Par ailleurs, différentes mesures spécifiques à la gestion des zones couvertes par une OLAE sont prévues dans la mise en oeuvre des contrats d'agriculture durable (CAD). De plus, le calcul des enveloppes de droits à engager notifiées aux préfets de région pour financer les CAD tient compte de la superficie actuellement couverte par des OLAE. Le projet de décret sur les CAD prévoit également que les communes seront également éligibles aux CAD.
