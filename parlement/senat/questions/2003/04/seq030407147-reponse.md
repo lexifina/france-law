@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030407147
+
+- Question : [SEQ030407147](seq030407147.md) — Insonorisation des logements à proximité des aéroports d'Orly et de Roissy
+
+## Réponse
+
+*Équipement, JO du 2004-03-11, page 600*
+
+Les personnes résidant dans une zone déterminée par le plan de gêne sonore (PGS) d'un des dix grands aéroports français, dont ceux de Paris-Orly et Paris-Roissy - Charles-de-Gaulle, pouvaient jusqu'à présent bénéficier sous certaines conditions d'aides de l'Agence de l'environnement et de la maîtrise de l'énergie. Ces aides à l'insonorisation des logements représentent 80 % du montant des travaux et études acoustiques préalables, ce taux pouvant être plus important pour les revenus les plus modestes. Conscients que ce dispositif montrait ses limites face à l'extension des PGS, qui sont passés de 68 000 logements en 2001 à près de 140 000 logements en 2003, le ministre de l'écologie et du développement durable et le ministre de l'équipement, des transports, du logement, du tourisme ont décidé de le rénover sur les bases suivantes : à compter du 1er janvier 2004, ce sont les gestionnaires des 10 principaux aéroports qui bénéficieront directement du produit de la taxe prélevée sur les compagnies aériennes, qui passera de 17 millions d'euros en 2003 à 55 millions d'euros en 2004, et sera intégralement affectée à l'isolation acoustique des logements situés dans les PGS. Cette augmentation devrait permettre d'aider 8 800 logements par an contre 3 000 précédemment. La gestion des aides à l'insonorisation des logements situés dans les PGS des dix aéroports est transférée à partir du 1er janvier 2004 aux gestionnaires de ces aéroports, et la procédure de traitement des dossiers sera simplifiée, dans le respect de la transparence et de l'information du public. Ces mesures répondent au souhait de voir améliorer le nombre de logements insonorisés et les délais de traitement des dossiers.
