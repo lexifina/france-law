@@ -1,0 +1,13 @@
+# Article 1er
+
+Le personnel des offices ou groupements d'huissiers de justice entrant dans le champ d'application de la convention collective nationale bénéficie obligatoirement d'un régime de prévoyance assurant les prestations suivantes :
+
+– versement d'un capital décès ;
+
+– versement d'une rente de conjoint survivant ;
+
+– versement de rentes d'éducation ;
+
+– versement d'indemnités journalières en cas d'incapacité de travail ;
+
+– versement d'une rente d'invalidité.
