@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040110694
+
+- Question : [SEQ040110694](seq040110694.md) — Perspectives concernant la détention de ressortissants français à Guantanamo
+
+## Réponse
+
+*Affaires étrangères, JO du 2004-02-19, page 409*
+
+La situation des personnes détenues sur la base américaine de Guantanamo fait l'objet d'un suivi très attentif de la part du Gouvernement. La France, depuis janvier 2002, est en contact régulier avec les autorités américaines sur ce dossier, que le garde des sceaux a évoqué à plusieurs reprises avec son homologue américain. Elle a demandé notamment aux Etats-Unis que des informations précises nous soient communiquées quant aux faits qui sont reprochés à nos compatriotes et aux charges qui pèsent sur eux. Une nouvelle mission française s'est rendue à Guantanamo, du 19 au 24 janvier, et a pu à cette occasion rencontrer les détenus français afin de s'informer de leurs conditions de détention et de leur état général. Les autorités françaises se sont déclarées, dès le début, favorables au principe d'un jugement en France et n'ont pas manqué de rappeler que ces nationaux, tout comme les 660 autres détenus, devaient bénéficier des garanties reconnues par le droit international concernant les conditions de leur détention et le droit à un procès juste et équitable. La France se concerte par ailleurs sur ce dossier avec ceux de nos partenaires européens qui ont également des ressortissants détenus à Guantanamo. Cette question a été abordée à Bruxelles, le 18 novembre 2003, lors de l'entretien des ministres des affaires étrangères européens avec le secrétaire d'Etat américain, qui a reconnu la nécessité de trouver une solution aussi rapide que possible pour les Européens détenus à Guantanamo. Le ministère des affaires étrangères reste en contact régulier avec les familles des ressortissants français et avec leurs avocats, qui ont été à nouveau reçus le 2 décembre 2003.
