@@ -1,6 +1,6 @@
 # Article Annexe IX
 
-Valeurs de Bo et de Co à compter du 1er janvier 1994.
+Valeurs de Bo et de Co à compter du 1er janvier 1995.
 
 :-----------------------------: |
 
@@ -16,21 +16,21 @@ Valeurs de Bo et de Co à compter du 1er janvier 1994.
 
 :---------:-------------------: |
 
-: 1 : 105.485 : 12.830 : |
+: 1 : 107.065 : 13.020 : |
 
-: 1 bis : 173.445 : 18.630 : |
+: 1 bis : 176.045 : 18.910 : |
 
-: 2 : 207.235 : 27.225 : |
+: 2 : 210.345 : 27.635 : |
 
-: 3 : 279.615 : 43.400 : |
+: 3 : 247.740 : 36.045 : |
 
-: 4 : 320.830 : 52.595 : |
+: 4 : 283.810 : 44.050 : |
 
-: 5 : 351.725 : 59.470 : |
+: 5 : 325.640 : 53.385 : |
 
-: 6 : 393.645 : 59.470 : |
+: 6 : 357.000 : 60.360 : |
 
-: 7 : 393.645 : 68.830 : |
+: 7 : 399.550 : 69.860 : |
 
 :-----------------------------: |
 
@@ -50,19 +50,19 @@ Valeurs de Bo et de Co à compter du 1er janvier 1994.
 
 : 1 : 0 : 0 : |
 
-: 1 bis : 173.445 : 27.840 : |
+: 1 bis : 176.045 : 28.260 : |
 
-: 2 : 207.235 : 40.685 : |
+: 2 : 210.345 : 41.295 : |
 
-: 3 : 244.080 : 53.105 : |
+: 3 : 247.740 : 53.900 : |
 
-: 4 : 279.615 : 64.910 : |
+: 4 : 283.810 : 65.885 : |
 
-: 5 : 320.830 : 78.645 : |
+: 5 : 325.640 : 79.825 : |
 
-: 6 : 351.725 : 88.910 : |
+: 6 : 357.000 : 90.245 : |
 
-: 7 : 393.645 : 102.885 : |
+: 7 : 399.550 : 104.430 : |
 
 :-----------------------------: |
 
@@ -80,15 +80,15 @@ Par emplacement individuel de stationnement dans un garage enterré ou incorpor�
 
 :---------:---------: |
 
-: I : 45.480 : |
+: I : 46.160 : |
 
-: II : 31.555 : |
+: II : 42.180 : |
 
-: III : 39.350 : |
+: III : 39.940 : |
 
 :-------------------- |
 
-(1) A partir du 1er janvier 1994 (en francs). Par emplacement individuel de stationnement dans un garage collectif construit en superstructure séparé ou accolé au bâtiment d'habitation.
+(1) A partir du 1er janvier 1995 (en francs). Par emplacement individuel de stationnement dans un garage collectif construit en superstructure séparé ou accolé au bâtiment d'habitation.
 
 :-------------------: |
 
@@ -100,12 +100,12 @@ Par emplacement individuel de stationnement dans un garage enterré ou incorpor�
 
 :---------:---------: |
 
-: I : 32.050 : |
+: I : 32.530 : |
 
-: II : 29.150 : |
+: II : 29.585 : |
 
-: III : 27.685 : |
+: III : 28.100 : |
 
 :-------------------- |
 
-(1) A partir du 1er janvier 1994 (en francs).
+(1) A partir du 1er janvier 1995 (en francs).
