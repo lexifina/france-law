@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861003139
+
+- Question : [SEQ861003139](seq861003139.md) — Centres communaux d'action sociale et dossiers d'aide légale
+
+## Réponse
+
+*Affaires sociales, JO du 1987-01-29, page 123*
+
+Réponse. -Les centres communaux d'action sociale font l'objet d'un remboursement par le département des frais qu'ils engagent pour l'établissement des dossiers d'aide sociale légale. Ces remboursements des départements au profit des centres communaux d'action sociale sont imputés aux frais communs d'aide sociale. L'Etat, en application de l'article 55 bis de la loi n° 83-663 du 22 juillet 1983, modifiée par la loi n° 86-29 du 9 janvier 1986, verse chaque année au titre de sa participation aux dépenses communes d'action sociale, une dotation forfaitaire pour frais communs, qui tient compte des dépenses d'établissement des dossiers d'aide sociale. En raison du partage intervenant entre l'Etat et le département pour le financement des frais communs d'aide sociale, des dispositions réglementaires sont actuellement en préparation afin de définir les modalités de leur prise en charge respective des dépenses liées aux indemnités allouées aux centres communaux d'action sociale pour l'établissement des dossiers d'aide sociale. Ce partage devrait s'opérer sur la base du nombre de dossiers relevant de l'une ou l'autre collectivité publique. Ainsi que le note l'honorable parlementaire, les taux de remboursement consentis aux centres communaux d'action sociale sont actuellement très variables. Les écarts constatés ne sont toutefois pas injustifiés. En effet, ils recouvrent la diversité même des structures de ces établissements publics communaux, dont l'importance du personnel affecté à l'établissement des dossiers d'aide sociale légale est fonction de critères divers : importance de la population communale, diversité des caractéristiques sociales et économiques, notamment.
