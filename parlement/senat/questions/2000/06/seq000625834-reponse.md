@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000625834
+
+- Question : [SEQ000625834](seq000625834.md) — Situation de la maternité du centre hospitalier du Mans
+
+## Réponse
+
+*Emploi, JO du 2001-02-22, page 669*
+
+Réponse. - La maternité du centre hospitalier du Mans a connu une augmentation d'activité du fait notamment de la fermeture de maternités périphériques dans le département de la Sarthe et d'une maternité privée au Mans. La maternité du centre hospitalier se verra prochainement reconnaître le statut de maternité de niveau III, c'est-à-dire pratiquant la réanimation néonatale, à l'instar des deux maternités des deux CHU de Nantes et d'Angers dans la région Pays de la Loire. Elle participe également activement au réseau " sécurité naissance " régional et reçoit de ce fait les transferts des parturientes présentant un risque. Le centre hospitalier a signé avec l'ARH, des Pays de la Loire un contrat d'objectifs et de moyens le 18 mai 1999. Devant l'évolution de l'activité constatée, notamment en fin d'année 1999 et au début de l'année 2000, le directeur de l'établissement, en accord avec le directeur de l'ARH, a procédé à des recrutements supplémentaires sur les moyens accordés par le contrat, en attendant la conclusion de l'enquête régionale menée dans l'ensemble des maternités de la région. Au vu des résultats de l'enquête, le centre hospitalier du Mans a reçu un crédit complémentaire de 1,5 MF sur l'exercice budgétaire 2000, permettant un renforcement notable de ses moyens en personnels. L'ARH des Pays de la Loire a aussi engagé une mise aux normes pluriannuelle des établissements d'obstétrique. Par ailleurs, dans le cadre du protocole national signé avec les organisations syndicales représentatives de la fonction publique hospitalière, le centre hospitalier a bénéficié d'un montant de crédits de remplacements de 7,410 millions de francs, ce qui va contribuer directement à améliorer les conditions de travail du personnel.
