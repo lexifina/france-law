@@ -1,0 +1,15 @@
+# Article 1er
+
+Article 1er
+
+Sont rendues obligatoires, pour tous les employeurs et tous les salariés compris dans le champ d'application professionnel de la convention collective nationale des organismes de formation du 10 juin 1988, tel qu'étendu par arrêté du 16 mars 1989, les dispositions de l'avenant du 6 juillet 1999 modifiant l'accord du 3 juillet 1992 relatif à la prévoyance, conclu dans le cadre de la convention collective susvisée.
+
+Article 2
+
+L'extension des effets et sanctions de l'avenant susvisé est faite à dater de la publication du présent arrêté pour la durée restant à courir et aux conditions prévues par ledit avenant.
+
+Article 3
+
+Le directeur des relations du travail est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+
+Nota. - Le texte de l'avenant susvisé a été publié au Bulletin officiel du ministère, fascicule Conventions collectives n° 99/30 en date du 3 septembre 1999, disponible à la Direction des Journaux officiels, 26, rue Desaix, 75727 Paris Cedex 15, au prix de 45,50 F (6,94 Euro).
