@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900208509
+
+- Question : [SEQ900208509](seq900208509.md) — Instituteurs de SES
+
+## Réponse
+
+*Éducation, JO du 1991-05-30, page 1101*
+
+Réponse. - Les instituteurs et institutrices exerçant en section d'éducation spécialisée de collège bénéficient, depuis le 1er mars 1989, dans le cadre du plan de revalorisation de la fonction enseignante, d'une indemnité d'un montant annuel fixé à 8 128 francs depuis le 1er décembre 1990, incluant l'indemnisation des conseils de classe et se substituant à l'indemnité spéciale de 1 800 francs qu'ils percevaient, en application du décret n° 66-542 du 20 juillet 1966 modifié, et à l'indemnité de maître d'éducation spécialisée instituée par le décret n° 71-884 du 2 novembre 1971 modifié. En ce qui concerne les obligations de service de ces personnels, il n'est pas prévu, pour le moment, de les abaisser. Les instituteurs et institutrices en section d'éducation spécialisée de collège ont actuellement des obligations d'enseignement de vingt-quatre heures hebdomadaires, ce qui est un régime plus favorable que celui des instituteurs et institutrices exerçant dans des écoles primaires. La situation des instituteurs spécialisés exerçant dans les sections d'éducation spécialisée a été particulièrement étudiée dans le cadre de la procédure d'intégration dans le corps des écoles, corps équivalant à celui des certifiés. D'une part, les intéressés accéderont de façon privilégiée au corps des écoles, du fait de la prise en compte, dans le barème établi pour l'inscription sur la liste d'aptitude, des diplômes professionnels dont ils sont titulaires. D'autre part, il est prévu de leur attribuer, lors du classement dans le corps des écoles, une bonification d'ancienneté égale à un an. Enfin, les professeurs des écoles spécialisés bénéficient d'une indemnité de 4 300 francs équivalant aux quinze points de bonification indiciaire perçus dans le corps des instituteurs.
