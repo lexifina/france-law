@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980306644
+
+- Question : [SEQ980306644](seq980306644.md) — Aménagement du territoire et organisation du service public de La Poste
+
+## Réponse
+
+*Industrie, JO du 1998-04-16, page 1266*
+
+Réponse. - L'article 21 de la loi du 2 juillet 1990 relative à l'organisation du service public de la poste et des télécommunications prévoit qu'en contrepartie des contraintes de desserte du territoire national et de participation à l'aménagement du territoire qui sont imposées à La Poste, celle-ci bénéficie d'un abattement égal à 85 % de l'assiette de la taxe foncière et de la taxe professionnelle. Il dispose également que le Gouvernement dépose un rapport au Parlement retraçant le bilan des contraintes d'aménagement du territoire supportées par La Poste, ainsi que des coûts qui en résultent pour elle. Conformément à ces dispositions, les services du secrétariat d'Etat à l'industrie ont élaboré un rapport établissant le bilan des actions conduites par La Poste au titre de sa contribution à l'aménagement du territoire. Ce document, qui s'appuie notamment sur le travail d'une mission conjointe confiée à l'inspection générale des finances et à l'inspection générale des postes et télécommunications, a été communiqué pour avis à la commission supérieure du service public des postes et télécommunications. Le rapport sera ensuite adressé, comme le prévoit la loi, aux assemblées parlementaires. Parallèlement, la négociation du prochain contrat d'objectifs et de progrès de La Poste portant contrat de plan est l'occasion d'une large concertation sur les grandes orientations qui, conformément aux missions de service public qui lui ont été confiées par la loi du 2 juillet 1990, s'imposeront à l'exploitant public en matière de participation à l'aménagement du territoire et de présence postale.
