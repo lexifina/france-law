@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911017650
+
+- Question : [SEQ911017650](seq911017650.md) — Bilan de l'effort d'automatisation du courrier
+
+## Réponse
+
+*Postes, JO du 1991-11-28, page 2650*
+
+Réponse. - Le plan d'automatisation du courrier (P.A.C.) s'inscrit dans le cadre de la stratégie de La Poste, comme un projet d'investissement portant sur le domaine du traitement du courrier, avec notamment pour objectif, l'amélioration de la qualité de service et de celle des conditions de travail. Fondé sur une forte automatisation des tâches, le P.A.C. engagé dès 1990, nécessitera un effort d'investissement d'environ 1,5 milliard de francs, planifié sur les cinq années à venir. Ce projet est particulièrement avancé sur les programmes de développement de la lecture optique des plis de petit format et de la mécanisation du tri des paquets, puisque trente-huit nouveaux lecteurs, capables désormais de lire les adresse manuscrites précasées seront mis en service fin 1992, ainsi que douze nouvelles machines à trier les paquets. Ce résultat correspond pour le premier programme à plus de 40 p. 100 des objectifs initiaux, et à environ un tiers pour le second. Dès 1993, commenceront à être installées en série les premières machines à trier les objets plats (T.O.P.), parallèlement, le développement de la conteneurisation du trafic postal, sera activement poursuivi. En ce qui concerne le Pas-de-Calais, l'équipement actuellement prévu se répartit comme suit : centre de tri d'Arras : un lecteur de codes en 1991, avec possibilité d'extension à la lecture d'adresse ; un lecteur de codes et d'adresses en 1992 ; une machine à trier les paquets en 1992 ; une T.O.P., période d'installation non encore arrêtée. Il convient de préciser que la nature des équipements prévus est toujours susceptible de connaître des évolutions en fonction des disponibilités budgétaires de La Poste, et des évolutions technologiques des matériels en cours de conception (comme la T.O.P.).
