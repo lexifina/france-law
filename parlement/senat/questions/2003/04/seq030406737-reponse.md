@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030406737
+
+- Question : [SEQ030406737](seq030406737.md) — Scolarisation précoce des enfants de moins de trois ans
+
+## Réponse
+
+*Jeunesse, JO du 2003-05-22, page 1699*
+
+La loi d'orientation sur l'éducation du 10 juillet 1989 précise que l'accueil précoce à l'école maternelle est une priorité dans les secteurs présentant un environnement social défavorisé ; c'est là que l'effet d'une scolarisation précoce semble le plus évident. Dans ces secteurs qui constituent pour l'essentiel les zones ou réseaux d'éducation prioritaire, les enfants qui ont atteint l'âge de deux ans au jour de la rentrée scolaire peuvent être admis dans les écoles et classes maternelles dans la limite des places disponibles, les enfants ayant atteint l'âge de trois ans étant scolarisés en priorité. Les solutions d'accueil pour les enfants de moins de trois ans ne peuvent consister uniquement en une scolarisation dans les formes traditionnelles. Tous les enfants de deux ans ne sont pas prêts à profiter d'une scolarisation précoce et les écoles ne sont pas toutes à même de les recevoir dans les conditions qui permettent de répondre à leurs besoins. S'agissant de l'accueil des tout-petits, il convient de s'attacher à la qualité des locaux et du matériel qui doivent être adaptés et à la présence en nombre suffisant d'agents territoriaux spécialisés des écoles maternelles pour que les jeunes enfants bénéficient de l'assistance dont ils ont besoin en complément de l'action pédagogique des maîtres. Les études dont on dispose ne démontrent pas que la scolarisation précoce constitue un avantage notoire dans toutes les situations par rapport à d'autres modes d'accueil. Une évaluation à l'entrée en cours préparatoire a mis en évidence des effets légèrement positifs de la fréquentation de l'école avant l'âge de trois ans pour des élèves scolarisés en zone d'éducation prioritaire.
