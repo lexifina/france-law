@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860601284
+
+- Question : [SEQ860601284](seq860601284.md) — Production charbonnière de Moselle: prévisions
+
+## Réponse
+
+*Industrie, JO du 1986-08-28, page 1225*
+
+Réponse. -Les Charbonnages de France ont reçu comme objectif d'adapter leurs conditions de production aux contraintes économiques actuelles. En particulier, ils doivent veiller à ne produire que les quantités susceptibles d'être vendues et doivent obtenir les meilleurs résultats possibles à la tonne extraite. Cela implique la nécessité de rationaliser les capacités de production de la Lorraine. En effet, les H.B.L. doivent tenir compte d'une baisse prévisible des débouchés vers la production d'électricité et vers la cokéfaction. De plus, la perte annuelle à la tonne pourrait atteindre 200 francs en 1986 et la perte par emploi 86 000 francs. Ces résultats sont nettement détériorés par rapport à ceux de 1985 à cause de la baisse des prix des produits pétroliers et du charbon importé. L'adaptation des structures de production de l'entreprise à ces nouvelles données économiques ne permet pas de se fixer un objectif en terme de production. En effet, l'entreprisedoit réduire son déficit, compte tenu de l'amélioration des coûts de production et de l'évolution des prix. Le niveau de production sera la conséquence du processus d'adaptation. La construction d'un groupe VII à Carling n'aurait de sens que si la production d'électricité par des centrales au charbon devait augmenter. Or, les mises en service de nouvelles centrales nucléaires parmi lesquelles celle de Cattenom permettront de ne faire appel aux centrales à charbon que pour les périodes de pointe, ce qui contribuera à réduire le prix de l'électricité. Dans ces conditions, la construction d'un nouveau groupe de 600 MW au charbon ne pourrait pas être rentabilisée.
