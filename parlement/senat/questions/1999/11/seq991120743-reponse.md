@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991120743
+
+- Question : [SEQ991120743](seq991120743.md) — Renforcement des effectifs de l'inspection générale des finances
+
+## Réponse
+
+*Économie, JO du 1999-12-30, page 4311*
+
+Réponse. - Les effectifs budgétaires de l'inspection générale des finances (IGF), service administratif de l'Etat, sont inscrits sur le budget du ministère de l'économie, des finances et de l'industrie. Comme l'ensemble des services de l'Etat, ces effectifs sont arrêtés par le Parlement dans le cadre du vote de la loi de finances. Dans le cadre de l'élaboration et de la discussion du projet de loi de finances pour 2000, ces effectifs ont été arrêtés à 110 emplois, soit un montant inchangé depuis de nombreuses années. Les effectifs réels de l'IGF dépendent des recrutements réalisés parmi les élèves de l'école nationale d'administration (ENA). La répartition des postes entre les différentes administrations est effectuée annuellement par un arrêté du Premier Ministre ; le nombre de postes offerts s'établissait à cinq en 1999 et à quatre en 2000. Le nombre d'inspecteurs des finances recruté au tour extérieur dépend du nombre d'inspecteurs recrutés à la sortie de l'ENA : en application du statut de l'IGF, un recrutement est opéré pour trois nominations réalisées parmi les élèves sortis de l'ENA. Enfin, le nombre d'inspecteurs généraux en fonction au service résulte de l'application des dispositions du statut général de la fonction publique quant aux positions administratives des inspecteurs généraux (activité dans les cadres, détachement, disponibilité...). Au 1er novembre 1999, les effectifs réels des inspecteurs dans les cadres s'établissait à 81 personnes dont 33 inspecteurs généraux et 48 inspecteurs des finances qui exercent leurs fonctions soit au service de l'IGF, soit dans des directions du ministère de l'économie, des finances et de l'industrie, soit dans des cabinets ministériels.
