@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000525262
+
+- Question : [SEQ000525262](seq000525262.md) — Situation des effectifs dans l'académie de Nice
+
+## Réponse
+
+*Éducation, JO du 2000-08-10, page 2825*
+
+Réponse. - Grâce à un effort de solidarité entre les académies, il a été possible d'abonder la dotation de l'académie de Nice qui connaît une augmentation démographique. Les enveloppes de moyens ont été notifiées au recteur de l'académie de Nice qui a désormais l'entière maîtrise de la répartition des dotations académiques entre les différents lycées et entre les départements pour le premier degré et les collèges. S'agissant du premier degré, 80 nouveaux emplois lui ont été notifiés dans le cadre de la préparation de la rentrée scolaire 2000, soit une augmentation de son potentiel de moyens de 0,9 % tandis que les effectifs d'élèves devraient croître de p 0,7 % à la même date. Cette mesure devrait préserver, voire légèrement améliorer, le taux d'encadrement global (nombre d'emplois pour 100 élèves) de l'académie. Pour ce qui concerne le second degré, le potentiel de moyens d'enseignement et de remplacement de l'académie a été accru de 245,9 équivalents temps plein, soit p 2,15 % alors que l'effectif d'élèves prévisionnel devrait croître de p 1,85 % à la rentrée scolaire 2000. Par ailleurs, l'académie a bénéficié, au titre de l'enseignement professionnel intégré, de l'attribution de moyens supplémentaires correspondant à 87,9 équivalents temps pleins. Ainsi, les conditions d'enseignement dans les établissements de l'académie devraient s'améliorer. Enfin, pour prendre en compte le projet de l'académie et l'importance relative des disparités sociales qu'elle rencontre, l'académie de Nice a été délégataire de 10 équivalents-temps pleins de maître d'internat et surveillant d'externat et de 4 emplois de conseiller principal d'éducation.
