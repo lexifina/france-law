@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980206105
+
+- Question : [SEQ980206105](seq980206105.md) — Baisse du taux de TVA sur le disque
+
+## Réponse
+
+*Culture, JO du 1998-05-28, page 1703*
+
+Réponse. - La France est intervenue pour demander l'inscription du disque et du Cédérom dans la liste des biens et services pouvant bénéficier du taux réduit de TVA. La contrainte juridique la plus forte est la directive européenne de 1992 sur la TVA, qui énumère limitativement les biens et services potentiellement bénéficiaires du taux réduit, sans référence à la notion de produit culturel. Une proposition française pourrait s'inscrire dans la réforme en cours de la fiscalité européenne pour 1999. Si des difficultés demeurent prévisibles sur ce dossier, qui nécessite pour aboutir l'unanimité de nos partenaires, l'enjeu justifie que les efforts soient poursuivis, afin que cesse l'inégalité de traitement fiscal des uvres de l'esprit selon qu'elles sont écrites ou musicales. Une telle mesure permettrait de surcroît de diminuer le prix public du disque, ce à quoi les jeunes notamment seraient particuilèrement sensibles. Le ministère de la culture et de la communication souhaite organiser, de façon conjointe avec le ministère de l'économie, des finances et de l'industrie, une mission de réflexion destinée à étudier la mise en uvre, dans le domaine du disque, de mécanismes visant à diversifier la production et la distribution. Il en va de la survie d'une production de qualité, notamment indépendante, et d'un meilleur accès du public à la diversité de la création musicale, et donc du renouvellement de celle-ci. Cette mission, pourrait être confiée à deux hauts fonctionnaires, de chacun des ministères concernés. Cette décision devrait intervenir rapidement et devrait pouvoir bénéficier du concours technique de la direction générale de la concurrence, de la consommation et de la répression des fraudes d'une part, de la direction de la musique et de la danse de l'autre.
