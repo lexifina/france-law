@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861103396
+
+- Question : [SEQ861103396](seq861103396.md) — Règlement des créances nées après l'ouverture d'une procédure collective
+
+## Réponse
+
+*Justice, JO du 1987-01-01, page 24*
+
+Réponse. -L'article 40 de la loi n° 85-98 relative au redressement et à la liquidation judiciaire des entreprises dispose que " les créances nées régulièrement après jugement d'ouverture sont payées à leur échéance lorsque l'activité est poursuivie. En cas de cession totale ou de liquidation ou lorsqu'elles ne sont pas payées à l'échéance en cas de continuation, elles sont payées par priorité à toutes les autres créances, assorties ou non de privilèges ou sûretés, à l'exception des créances garanties par le privilège établi aux articles L. 143-10, L. 143-11, L. 742-6 et L. 751-15 du code du travail ". Ces dernières créances correspondent essentiellement aux rémunérations de toute nature dues pour les soixante derniers jours de travail ou d'apprentissage ainsi qu'à leurs accessoires. Si l'entreprise ne dispose pas de fonds suffisants pour en effectuer le règlement, l'association pour la gestion du régime des créances des salaires (A.G.S.) qui gère le fonds national de garantie des salaires (F.N.G.S.) est appelée à intervenir. Il est exact que dans ce cas, l'A.G.S. est subrogée dans les droits des salariés en application de l'article L. 143-11-9 du code du travail. Toutefois, la garantie de cet organisme est limitée pour toutes les catégories de bénéficiaires à un montant fixé par l'article D. 143-1 du code du travail à deux fois le plafond retenu par mois pour le calcul des cotisations de sécurité sociale. Il convient de souligner par ailleurs que la loi du 25 janvier 1985 dans le souci de ne pas alourdir le passif d'exploitation du redressement, a écarté la subrogation de l'A.G.S. dans le paiement des indemnités de licenciements intervenant pendant et après la période d'observation.
