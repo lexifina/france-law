@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971003225
+
+- Question : [SEQ971003225](seq971003225.md) — Encouragement à l'achat de vélos électriques
+
+## Réponse
+
+*Équipement, JO du 1998-01-22, page 238*
+
+Réponse. - Le développement de la pratique du vélo en milieu urbain est encouragé. Il constitue l'un des moyens de réduire les encombrements des agglomérations et de lutter contre la pollution atmosphérique urbaine. Un comité de suivi a été récemment mis en place ; le ministère de l'équipement, des transports et du logement et le ministère de l'aménagement du territoire et de l'environnement ont missionné conjointement une personnalité pour formuler, dans les prochains mois, un ensemble de propositions permettant de mieux définir une politique globale en faveur du vélo. Il faut bien évidemment pour cela prendre en considération l'intérêt et la spécificité du vélo électrique dont le principe s'appuie sur l'utilisation d'une force d'appoint fournie par une batterie permettant, par exemple, d'aider le cycliste à franchir des tronçons à forte pente. L'autonomie du matériel disponible reste faible et il est peu probable que celui-ci puisse séduire le cycliste sportif ou randonneur, quelles que soient les incitations qui pourraient être mises en oeuvre. Le créneau de ce vélo électrique est sans doute davantage celui des courts déplacements urbains ; son utilisation par les personnes les plus fragiles peut conduire à un recours quasi permanent au palliatif du dispositif électrique, ce qui amènera à se poser la question de sa cohabitation avec les vélos dans les voies ou bandes qui leur sont réservées. En l'état actuel, le vélo électrique ne peut être considéré comme la solution universelle aux problèmes que posent les déplacements urbains. Il ne saurait réduire les efforts engagés pour favoriser l'utilisation des bicycletttes classiques.
