@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941208934
+
+- Question : [SEQ941208934](seq941208934.md) — Politique de santé publique en direction des acouphéniques
+
+## Réponse
+
+*Affaires sociales, JO du 1995-02-23, page 433*
+
+Réponse. - Les médecins généralistes ou spécialistes oto-rhino-laryngologistes observent en effet une augmention des patients souffrant d'acouphènes. Cette symptomatologie peut être l'expression d'une pathologie bien individualisée, comme le neurinome de l'acoustique ou la maladie de Ménière, ou bien la séquelle d'un accident traumatique, notamment en cas de fracture du rocher. Le plus souvent, cependant, le bilan étiologique est négatif et les acouphènes paraissent essentiels, touchant plutôt des patients dans la deuxième partie de leur vie avec une plus ou moins grande intensité ; de ce fait, il est difficile de connaître le nombre de patients atteints, la gêne pouvant être uniquement occasionnelle ou représenter une entrave importante à la vie psycho-sociale. Les moyens thérapeutiques employés, essentiellement les tranquillisants ou les oxygénateurs vasculaires, sont d'une efficacité inconstante. De plus, il existe un terrain particulier, fait d'émotivité et d'anxiété, dans lequel une prise en charge médicale attentive joue un rôle important. Il s'agit là d'éléments difficiles à évaluer et qui sont, de ce fait, autant d'obstacles à une recherche médicale basée sur une méthodologie rigoureuse. L'industrie pharmaceutique tent actuellement de développer des médicaments spécifiques qui pourraient avoir un effet thérapeutique plus constant. Cependant, il n'apparaît pas nécessaire, en ce qui concerne la prise en charge de ces patients, de recourir au développement de structures spécifiques. Les pouvoirs publics, sensibles aux problèmes qui peuvent se poser aux personnes acouphéniques, suivent actuellement cette question avec une particulière attention.
