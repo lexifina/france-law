@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860400293
+
+- Question : [SEQ860400293](seq860400293.md) — Contrôle des services de transports publics d'intérêt local
+
+## Réponse
+
+*Transports, JO du 1986-07-10, page 979*
+
+Réponse. -La loi n° 85-30 du 9 janvier 1985 prévoit en son article 50 que " les services de transports terrestres de personnes, organisés par les collectivités territoriales ou leurs groupements, sont soumis au contrôle technique et de sécurité de l'Etat. Les frais afférents à ce contrôle sont mis à la charge des exploitants ". La loi précise également que les modalités d'application de l'article 50 seront précisées par décret en Conseil d'Etat. Ces dispositions remplacent donc celles édictées par la loi n° 79-475 du 19 juin 1979 relative aux transports publics d'intérêt local et son décret d'application du 7 avril 1981 relatif au contrôle, à la police, à la sûreté et à l'exploitation des transports publics d'intérêt local. Le principe de la prise en charge par le concessionnaire des frais afférents au contrôle en matière de transport était déjà affirmé dans la loi du 31 juillet 1913 relative aux voies ferrées d'intérêt local et se retrouve dans d'autres matières que le transport, telles que distribution d'énergie électrique, aviation civile, énergie nucléaire. Il faut d'ailleurs noter que, en matière de transport, les frais de contrôle pris en charge par les exploitants ne constituent que le remboursement partiel de l'ensemble des frais engagés par l'Etat pour l'exercice du contrôle qui lui est imparti. La protection des usagers transportés constitue donc la finalité du contrôle de sécurité institué par l'Etat. Dès lors que la sécurité nécessite des interventions importantes des services de l'Etat, il est légitime qu'une partie de ces prestations soient prises en charge par les entreprises faisant l'objet du contrôle.
