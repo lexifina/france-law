@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030808777
+
+- Question : [SEQ030808777](seq030808777.md) — Rapprochement des administrations fiscales
+
+## Réponse
+
+*Économie, JO du 2004-06-10, page 1269*
+
+La réflexion menée actuellement par le ministère de l'économie, des finances et de l'industrie (MINEFI) sur son système de formation professionnelle correspond aux préoccupations du conseil des impôts, rappelées par l'auteur de la question écrite. Elle a d'ores et déjà débouché sur des mesures concrètes. Un plan d'action a été arrêté en début d'année pour renforcer les synergies entre les écoles de formation initiale et favoriser le développement d'une culture ministérielle. Des modules de formation communs sur des matières comme la comptabilité privée et le management sont en cours de développement. Le cycle de formation initiale qui regroupe les inspecteurs élèves des écoles de la direction générale des impôts (DGI), de la direction générale de la comptabilité publique (DGCP) et de la direction générale des douanes et des droits indirects (DGDDI) est rénové pour lui donner un caractère plus opérationnel et professionnel. Ce cycle se déroule sur cinq semaines et fait partie intégrante de la formation initiale des futurs cadres A du ministère. Une démarche identique est lancée pour améliorer la formation des cadres B. Un concours de recrutement commun aux agents de catégorie C a été décidé. Ce concours sera ouvert en 2006 et sera accompagné d'une formation adaptée mettant l'accès sur la dimension ministérielle. La réflexion se poursuit sur la formation continue en cours de carrière, l'objectif étant de donner aux agents tous les moyens d'exercer leur métier dans le cadre de la loi organique relative aux lois de finances (LOLF), et notamment du programme commun aux trois directions chargées de la gestion fiscale et financière de l'Etat et du secteur public local.
