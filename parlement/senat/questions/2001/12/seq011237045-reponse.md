@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011237045
+
+- Question : [SEQ011237045](seq011237045.md) — Réforme du décret du 31 mai 1990 concernant les enseignants français à l'étranger
+
+## Réponse
+
+*Affaires étrangères, JO du 2002-02-28, page 634*
+
+En ce qui concerne la progression annuelle du montant de l'indemnité spécifique de vie locale, le décret n° 2002-22 du 4 janvier 2002, relatif à la situation administrative et financière des personnels des établissements français à l'étranger, précise que les montants de cette indemnité sont ajustés annuellement, pour tenir compte notamment des variations des changes et des conditions locales d'existence, par arrêté conjoint du ministre des affaires étrangères et du ministre chargé du budget. S'agissant ensuite de la possibilité de concilier les nouvelles dispositions introduites par le nouveau décret avec la législation locale, il convient de rappeler que la logique de ce décret est de doter les personnels résidents d'un employeur unique, ce qui n'était pas le cas auparavant. L'ensemble des éléments de la rémunération de ces personnels est désormais versé par la seule agence pour l'enseignements français à l'étranger, ce qui devrait contribuer à éliminer les problèmes de compatibilité avec la législation locale. Pour ce qui est des résidents ayant des enfants scolarisés dans l'établissements où ils enseignent, il est à souligner que l'avantage familial qui leur est versé depuis le 1er septembre 2000, à hauteur de 30 % des majorations familiales servies aux expatriés et par anticipation de 40 % à compter du 1er septembre 2001, a été instauré spécifiquement pour les aider à acquitter les droits de scolarité pratiqués par l'établissement. Enfin, il n'existe pas de personnels résidents dans les établissements simplement homologués. Ceux-ci sont exclusivement affectés dans les établissements conventionnés avec l'agence pour l'enseignement français à l'étranger ou gérés directement par elle.
