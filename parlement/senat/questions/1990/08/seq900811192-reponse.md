@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900811192
+
+- Question : [SEQ900811192](seq900811192.md) — Enseignement de l'architecture à l'Ecole nationale supérieure des beaux-arts
+
+## Réponse
+
+*Équipement, JO du 1991-01-17, page 113*
+
+Réponse. - Des mesures de restructuration en faveur des enseignants contractuels vont être mises en place : 450 enseignants (300 au 1er septembre 1991 et 150 au 1er septembre 1992) verront leur situation revalorisée par changement de catégorie de contrat entraînant des gains indiciaires et par possibilité d'accès à la catégorie supérieure après trois ans d'ancienneté. Le statut des enseignants titulaires en architecture, qui vient d'être décidé par le Gouvernement et dont la mise en oeuvre se fera à partir de 1992, répond à deux exigences principales : garantir la qualité de l'enseignement en assurant un déroulement de carrière satisfaisant pour les enseignants ainsi que le renouvellement et la mobilité ; permettre un équilibre entre ceux qui se consacreront totalement à l'enseignement et l'apport indispensable de professionnels en activité. Ce statut offre un débouché de carrière valorisant comparable à celui des corps de l'enseignement supérieur. L'exigence de qualité sera, quant à elle, assurée par le recrutement sur concours avec des conditions de diplômes similaires, pour le concours externe, à celles en vigueur à l'université. Ainsi, l'enseignement de l'architecture sera ancré sans ambiguïté dans l'enseignement supérieur et pourra faire face aux enjeux de demain, en vue notamment d'affronter l'ouverture européenne de 1993 dans de bonnes conditions. En ce sens, l'enseignement de l'architecture sera diversifié, en particulier par la mise en place de filières doctorales complètes, D.E.A. et encadrement de thèses. Dès la rentrée 1991, plusieurs écoles d'architecture, habilitées dans le cadre des procédures réglementaires, créeront des D.E.A. en architecture, seules ou en association avec des établissements universitaires.
