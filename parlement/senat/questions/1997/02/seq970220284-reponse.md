@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970220284
+
+- Question : [SEQ970220284](seq970220284.md) — Conditions d'exonération de l'impôt sur les grandes fortunes pour les biens professionnels
+
+## Réponse
+
+*Économie, JO du 1997-04-24, page 1301*
+
+Réponse. - Il résulte des dispositions de l'article 885 O bis 2o du code général des impôts que l'exonération d'impôt de solidarité sur la fortune (ISF), au titre des biens professionnels, des parts ou actions détenues par un redevable dans une société assujettie à l'impôt sur les sociétés, est soumise à deux conditions principales, la première tenant à l'exercice au sein de l'entreprise d'une des fonctions de direction énumérées par la loi, la seconde étant liée à un seuil minimal de détention de 25 % du capital de la société. Ce dispositif d'exonération est justifié par le fait que les titres en cause sont nécessaires à l'exercice de la profession principale d'un ou de plusieurs redevables. Tel n'est pas le cas des parts ou actions détenues par les membres de leur groupe familial qui n'exercent aucune fonction de direction au sein de l'entreprise familiale. En outre, la prise en compte, pour l'appréciation du seuil minimal de détention précité, des participations détenues par l'intermédiaire des membres du groupe familial du redevable ne paraît pas contradictoire avec le principe de leur imposition dans le patrimoine de leurs propriétaires. En effet, cette mesure favorable a pour objet de permettre aux contribuables qui ne sont pas directement propriétaires de 25 % du capital de l'entreprise, mais dont le contrôle économique atteint ce niveau au travers d'une participation indirecte, de bénéficier de l'exonération au titre des biens professionnels qu'ils détiennent, lorsque toutes les autres conditions prévues pour le bénéfice de ce régime sont, par ailleurs, réunies.
