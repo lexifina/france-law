@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010230903
+
+- Question : [SEQ010230903](seq010230903.md) — Traduction en langue étrangère du site Internet du ministère de l'aménagement du territoire et de l'environnement
+
+## Réponse
+
+*Aménagement du territoire, JO du 2001-11-15, page 3627*
+
+Le ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question relative à la mise en place d'un dispositif de traduction sur son site Internet. Le ministre ne méconnaît pas le rapport au Parlement de la délégation générale à la langue française au titre de l'année 2000, qui indique que rares sont les ministères dont les sites Internet comprennent une traduction en langues étrangères, et que son ministère ne fait pas partie de ceux qui disposent d'un service de traduction professionnel. Seules quelques pages de présentation du ministère sur le site sont traduites à l'heure actuelle en anglais, allemand et espagnol. Toutefois, un important marché public, destiné à procurer au ministère l'aide d'un prestataire professionnel en vue de faire évoluer significativement le site Internet du ministère, est actuellement en cours de notification. L'accessibilité des textes de présentation d'un maximum de rubriques, c'est-à-dire des pages dont la durée de vie est la plus longue, dans les trois langues ci-dessus évoquées, fait partie du cahier des charges de cet appel à concurrence. Bien entendu, l'ensemble des pages de la rubrique internationale feront également l'objet du même effort. Le ministre souligne qu'il s'agit bien de mettre en place des pages traduites préalablement et dont les traductions seront validées par les services compétents, et non d'un dispositif de traduction automatique des pages en français. D'autre part, le ministère de l'aménagement du territoire et de l'environnement, compte tenu des moyens qui lui sont alloués, ne peut pas disposer à l'heure actuelle d'un service propre de traduction professionnelle.
