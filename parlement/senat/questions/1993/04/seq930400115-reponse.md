@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930400115
+
+- Question : [SEQ930400115](seq930400115.md) — Pouvoirs des vétérinaires universitaires investis d'une mission de service public
+
+## Réponse
+
+*Justice, JO du 1993-06-24, page 1022*
+
+Le ministre d'Etat, garde des sceaux, ministre de la justice, a l'honneur de faire connaître à à l'honorable parlementaire que les infractions pénales relatives à la lutte contre les maladies des animaux, prévues aux articles 214 à 252 et réprimées par les articles 327 à 335 du code rural peuvent être constatées par les vétérinaires inspecteurs, qu'il s'agisse de fonctionnaires comme d'agents contractuels à temps complet de l'Etat. De nombreux textes confèrent à diverses catégories d'agents publics ou appartenant à un établissement public le pouvoir de constater des infractions à la loi pénale. De telles dispositions ne sont pas inconstitutionnelles dans la mesure où ces pouvoirs de constatation sont prévus par la loi, la procédure pénale relevant, aux termes de l'article 34 de la Constitution, du domaine de la loi. Dès lors, si aucun obstacle de nature juridique ne paraît s'opposer à ce que de nouvelles catégories de personnes se voient reconnaître le pouvoir de constater des infractions à la loi pénale, la multiplication des agents auxquels sont attribuées certaines fonctions de police judiciaire n'est pas souhaitable. La constatation des infractions à la loi pénale constitue en effet l'une des missions essentielles confiées à la police judiciaire. En toute hypothèse, les vétérinaires qui se verraient investis de cette nouvelle mission ne devraient être désignés qu'au terme d'une procédure comparable à celle qui est exigée pour l'obtention du mandat sanitaire et selon les règles habituelles d'agrément et d'assermentation des agents auxiliaires occasionnels de police judiciaire.
