@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990415252
+
+- Question : [SEQ990415252](seq990415252.md) — Conditions de recrutement de certains adjoints de sécurité
+
+## Réponse
+
+*Intérieur, JO du 2000-01-27, page 327*
+
+Réponse. - La procédure suivie dans le cadre de la sélection des candidats à un recrutement en qualité d'adjoint de sécurité est prévue par le décret du 30 octobre 1997 et précisée dans la circulaire du 30 octobre 1997 relative aux conditions de recrutement, de formation et d'emploi des adjoints de sécurité. Le secrétariat général pour l'administration de la police (SGAP) compétent procède à l'instruction des dossiers pour le compte des préfets de département et s'assure de la recevabilité des candidatures au regard des critères suivants : la possession de la nationalité française ; un âge compris entre dix-huit ans révolus et vingt-six ans au plus au 1er janvier de l'année de dépôt du dossier ; l'absence, au bulletin nº 2 du casier judiciaire, de toute mention incompatible avec l'exercice des missions ; une situation régulière au regard du code du service national. Le SGAP est également chargé de saisir la direction départementale des renseignements généraux pour mettre en uvre l'enquête administrative préalable à la délivrance de l'agrément. Ce n'est qu'après que l'ensemble de ces conditions a été vérifié et l'avis des renseignements généraux sollicité, que, le dossier ayant été jugé recevable, les candidats sont convoqués en vue de subir les tests psychologiques. Si l'avis rendu s'avère favorable, l'intéressé subit un entretien de sélection, devant une commission présidée par le préfet du département. La procédure conduisant au recrutement des adjoints de sécurité se déroule donc suivant plusieurs phases successives, afin de renforcer les garanties auxquelles le recrutement des jeunes concernés est subordonné.
