@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900811298
+
+- Question : [SEQ900811298](seq900811298.md) — Réglementation européenne concernant le travail à durée déterminée
+
+## Réponse
+
+*Affaires européennes, JO du 1990-09-13, page 1994*
+
+Réponse. - L'un des principes affirmés par la charte communautaire des droits sociaux fondamentaux des travailleurs, adoptée les 8 et 9 décembre 1989 par le Conseil européen de Strasbourg énonce que la réalisation du marché intérieur doit conduire à une amélioration des conditions de vie et de travail des travailleurs de la communauté. Cette amélioration doit notamment porter sur une harmonisation des formes de travail atypiques telles que le travail à durée déterminée, le travail à temps partiel, le travail intérimaire et le travail saisonnier, afin d'éviter d'éventuels abus. Sur ces sujets, le programme d'action de la commission des Communautés européennes prévoit, en raison de la diversité des formes d'emploi autres qu'à durée indéterminée, l'élaboration d'une norme communautaire visant à assurer une cohérence entre les différentes formes de contrat de travail, en vue d'éviter des distorsions de concurrence et de renforcer au niveau communautaire la transparencedu marché du travail. La commission a adopté le 14 juin 1990 trois propositions de directives : la première, sur les conditions de travail (accès comparable aux services sociaux, à la formation ; prise en compte des salariés pour le calcul de la représentation des travailleurs), est présentée sur le fondement de l'article 100 du traité ; la seconde (comparabilité de la protection sociale et limitation du recours à ces contrats) a pour objet d'éviter les distorsions de concurrence et repose sur l'article 100 A ; la troisième, relative à la protection de la santé et de la sécurité des travailleurs, repose sur l'article 118 B.
