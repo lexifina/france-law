@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990415933
+
+- Question : [SEQ990415933](seq990415933.md) — Filière bois dans le secteur du bâtiment et de la construction
+
+## Réponse
+
+*Logement, JO du 1999-06-24, page 2168*
+
+Réponse. - Dans le cadre de la loi sur l'air et du plan national de lutte contre l'effet de serre, le Gouvernement a prévu de mener une action pour développer l'utilisation du bois dans la construction. Cette action comporte deux dispositifs complémentaires, l'un réglementaire, l'autre incitatif. Le premier volet, à caractère réglementaire, prend la forme d'un décret en application de l'article 21V de la loi nº 96-1236 du 30 décembre 1996 sur l'air. Ce décret fixera " les conditions dans lesquelles certaines constructions nouvelles devront comporter une quantité minimale de matériaux en bois ". Son champ serait en priorité celui des constructions publiques qui se doivent d'être exemplaires et pourraient avoir un effet d'entraînement sur l'ensemble du secteur de la construction. La publication de ce décret, après consultation interministérielle et concertation avec les acteurs concernés, notamment les collectivités locales, devrait avoir lieu prochainement. Le second volet, à caractère incitatif, se traduira par un accord-cadre national avec les organisations professionnelles, s'engageant de manière volontaire à développer le bois dans la construction. Un observatoire permettra de mesurer la progression par rappoort à un objectif chiffré et daté. Cet accord-cadre comprendra des actions de promotion, de formation et d'information, de recherche-développement. Il devrait prévoir la mise en place d'un dispositif de suivi et d'évaluation de la politique menée. Une concertation est en cours, sous la responsabilité des services du secrétaire d'Etat au logement avec les ministères, les organismes publics et les organisations professionnelles concernées.
