@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030708728
+
+- Question : [SEQ030708728](seq030708728.md) — Pérennisation du taux de TVA réduit pour les travaux dans les bâtiments anciens
+
+## Réponse
+
+*Économie, JO du 2004-02-26, page 470*
+
+La directive communautaire n° 1999/85/CE du 22 octobre 1999 a autorisé les Etats membres à appliquer, à titre expérimental, pour une durée de trois ans, un taux réduit de taxe sur la valeur ajoutée à certains services à forte intensité de main-d'oeuvre. Cette expérience, qui permet à la France d'appliquer le taux réduit de la TVA aux travaux portant sur les logements achevés depuis plus de deux ans ainsi qu'aux services d'aide à la personne, expirait, en principe, le 31 décembre 2002. Pour permettre à la Commission européenne d'examiner les rapports d'évaluation transmis à l'automne dernier par les Etats membres qui ont mis en oeuvre l'expérimentation, le Conseil a décidé le 3 décembre 2002 de proroger le dispositif d'un an, soit jusqu'au 31 décembre 2003. Le rapport d'évaluation que la France a remis à la Commission fait clairement apparaître les effets bénéfiques de l'expérience sur l'emploi. Les emplois créés ont été estimés à environ 40 000 dans le secteur du logement et 3 000 dans le secteur des services à domicile. Les effets observés dans les autres pays de l'Union sont contrastés. Seule l'Italie indique qu'elle a constaté dans le secteur de la rénovation et de la réparation des logements la création de 65 000 emplois. La proposition de directive du 16 décembre 2003 autorisant les Etats membres concernés à continuer d'appliquer pendant deux années supplémentaires (soit jusqu'au 31 décembre 2005) le taux réduit de TVA aux services à forte intensité de main-d'oeuvre a fait l'objet d'un accord politique lors du Conseil du 22 décembre. Cette prorogation est traduite en droit français par l'article 24 de la loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003).
