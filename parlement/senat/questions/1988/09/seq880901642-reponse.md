@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880901642
+
+- Question : [SEQ880901642](seq880901642.md) — Situation des conservateurs des antiquités et objets d'art
+
+## Réponse
+
+*Culture, JO du 1988-12-22, page 1460*
+
+Réponse. - La situation des conservateurs départementaux des antiquités et objets d'art fait actuellement l'objet d'une étude confiée par le ministère de la culture, de la communication, des grands travaux et du Bicentenaire à l'inspection générale de l'administration. Cette étude porte notamment sur les points suivants : 1° Le rôle des conservateurs des antiquités et objets d'art dans le domaine de la protection, des travaux, du récolement et de la surveillance des objets protégés ; 2° Les problèmes actuels à différents niveaux : situation au niveau départemental : présence sur le terrain, rôle des autorités préfectorales et des conseils généraux, collaboration avec les architectes des bâtiments de France et les services de gendarmerie ; relations avec les autorités régionales déconcentrées : conservateurs régionaux des monuments historiques, directeurs régionaux des affaires culturelles, préfets de régions ; relations avec l'inspecteur des monuments historiques territorialement compétent et l'inspection générale ; 3° L'étude comporte parallèlement l'examen des procédures et des instances de protection des objets mobiliers : commissions départementales des objets mobiliers, relations avec les Corephae, examen des dossiers par la commission supérieure des monuments historiques. Cette étude s'appuie sur les réponses à un questionnaire à l'adresse des parties concernées et est menées en liaison avec l'association des conservateurs des antiquités et objets d'art. Les conclusions de l'étude permettront au ministre de la culture et de la commission d'examiner les mesures à envisager concernant les conservateurs des antiquités et objets d'art.
