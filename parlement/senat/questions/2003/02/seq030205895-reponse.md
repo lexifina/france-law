@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030205895
+
+- Question : [SEQ030205895](seq030205895.md) — Conséquences pour la pêche de la pollution d'une section du canal de la Marne au Rhin
+
+## Réponse
+
+*Écologie, JO du 2003-06-12, page 1900*
+
+La ministre de l'écologie et du développement durable a pris connaissance, avec intérêt, de la question relative à la demande de gratuité des baux de pêche ou à la reconduction sans augmentation de ceux-ci, pour les associations locales de pêcheurs, à la suite d'une importante pollution du canal de la Marne-au-Rhin. Le droit de pêche de l'Etat sur le domaine public fluvial fait l'objet d'une location pour cinq ans. Le montant de cette location est déterminé en début de bail. Les dispositions applicables actuellement résultent du cahier des charges figurant en annexe à l'arrêté du 23 février 1998. Il est mentionné à l'article 4 de ce cahier des charges que les locataires s'engagent à renoncer à toute réduction de prix pour les phénomènes accidentels ou naturels affectant soit la structure du lit ou du fond et des berges de la voie d'eau ou du plan d'eau, soit des peuplements halieutiques. Il n'est donc juridiquement pas possible de donner une suite favorable à la demande des associations locales de pêcheurs qui ont contractualisé avec l'Etat dans les conditions prévues par le cahier des charges. Toutefois, il y a lieu de préciser que ces associations peuvent demander aux responsables de la pollution, à l'origine de l'atteinte au milieu aquatique, une indemnité couvrant la perte engendrée dans leur patrimoine au titre des dommages-intérêts. En ce qui concerne les futurs baux, il est possible de faire valoir, auprès des services locaux chargés de la pêche et du domaine de l'Etat, une demande de réduction du montant de la location en la motivant par une diminution de l'intérêt des lots en cause.
