@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990415703
+
+- Question : [SEQ990415703](seq990415703.md) — Evolution du concept et de l'utilisation pratique par l'agriculture de ses ressources en eau
+
+## Réponse
+
+*Agriculture, JO du 2000-01-06, page 25*
+
+Réponse. - La proposition faite à la page 69 du rapport " agriculture, monde rural et environnement : qualité oblige " tend à faire évoluer profondément la conception et l'utilisation pratique par l'agriculture des ressources en eau " par une modération des prélèvements ou une gestion partenariale fondée sur la définition concertée d'objectifs et le suivi ". Cette proposition est conforme aux orientations actuelles défendues par le ministère de l'agriculture et de la pêche. Les prélèvements d'eau pour l'irrigation sont mieux connus grâce au développement des moyens de comptage, qui se généralisent. Les économies d'eau sont possibles grâce à une meilleure gestion dans le transport de l'eau, depuis la ressource jusqu'à la borne d'irrigation. D'autres économies sont réalisées par la modernisation de réseaux existants, notamment par le passage de l'irrigation gravitaire à l'irrigation sous pression. Ces actions font l'objet d'aides financières de la part du ministère de l'agriculture et de la pêche. La profession agricole, consciente de la valeur de l'eau, s'engage à travers des actions volontaires, telle l'opération Irri-Mieux, à assurer une meilleure maîtrise de l'eau. Un groupe de travail " eau-agriculture " a été mis en place le 24 mars 1998, à la suite de la communication au conseil des ministres de Mme Voynet, ministre de l'aménagement du territoire et de l'environnement. Ce groupe de travail, associant des représentants des administrations, de la profession agricole, des agences de l'eau, ainsi que des représentants des associations de protection de la nature et de la défense des consommateurs, réfléchit notamment aux questions relatives à l'irrigation agricole.
