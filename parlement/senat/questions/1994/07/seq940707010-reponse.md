@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940707010
+
+- Question : [SEQ940707010](seq940707010.md) — Amputations des crédits d'Etat destinés aux associations de jeunesse et d'éducation populaire
+
+## Réponse
+
+*Jeunesse et sports, JO du 1994-09-08, page 2220*
+
+Réponse. - Pour le ministre de la jeunesse et des sports, le rôle des associations lorsqu'elles agissent pour créer des activités et développer des solidarités là où il est particulièrement besoin d'initiatives et d'engagement est irremplaçable. C'est pour cette raison qu'il a réservé, en 1994, une enveloppe de crédits légèrement supérieure à celle effectivement utilisée en 1993, d'une part pour soutenir l'emploi associatif à travers le FONJEP 122 MF et d'autre part pour encourager la réalisation de projets tournés vers la prise en compte des besoins des jeunes sur leurs lieux de vie 48 MF. Ces deux aspects du soutien accordé aux associations de jeunesse et d'éducation populaire sont formalisés dans une convention d'objectifs annuelle. A cette date, la procédure de notification des décisions est engagée et plus de la moitié de l'enveloppe financière est déjà versée aux associations bénéficiaires, principalement via le FONJEP et sous forme d'acomptes. Le ministre de la jeunesse et des sports relève avec grand intérêt que les associations de jeunesse et d'éducation populaire appellent de leurs voeux une véritable politique partenariale destinée à tous les jeunes de ce pays ; c'est précisément un des objectifs de la consultation nationale des jeunes que de faire dialoguer les décideurs économiques, associatifs et politiques avec les jeunes, au plan national, mais aussi et surtout au plan local. Il veut, enfin, croire que les associations de jeunesse et d'éducation populaire saisiront cette occasion exceptionnelle pour démontrer leur capacité à organiser ce dialogue avec les jeunes et faire valoir leurs initiatives et leurs projets.
