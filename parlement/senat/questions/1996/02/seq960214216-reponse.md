@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960214216
+
+- Question : [SEQ960214216](seq960214216.md) — Date unique de fermeture de la chasse aux oiseaux migrateurs
+
+## Réponse
+
+*Environnement, JO du 1996-03-28, page 735*
+
+Réponse. - Mme le ministre de l'environnement a pris connaissance avec intérêt de la question posée par l'honorable parlementaire concernant le problème de la chasse aux espèces migratrices. La Commission européenne a proposé en 1994 une modification de la directive 79-409 relative à la conservation des oiseaux sauvages. Cette modification vise à apporter des précisions sur les modalités de fixation des dates de la saison de la chasse à apporter des précisions sur les modalités de fixation des dates de la saison de la chasse des oiseaux migrateurs dans chaque Etat membre. Elle a été formulée sur la base de propositions élaborées au sein du Comité d'adaptation de la directive, dit comité " ORNIS ", et publiées dès 1993 par la commission européenne dans le " deuxième rapport sur l'application de la directive 79-409 ". Ces propositions permettent un échelonnement des dates de fermeture de la chasse durant le mois de février en tenant compte des dates de début de migration et du statut de conservation de l'espèce. Le Gouvernement français soutient cette proposition qui lui paraît équilibrée dans la fixation de principes pour la gestion d'un patrimoine commun, tout en permettant à chaque état de mettre en oeuvre ces principes en tenant compte des réalités locales. Le Parlement européen a été saisi de cette proposition pour avis, en application des articles 130 et 189 C du traité instituant la Communauté européenne. Comme le rappelle l'honorable parlementaire, la Commission de l'environnement du Parlement européen a adopté les propositions d'amendement présentées par son rapporteur Mme Van Putten en concluant à une fermeture de la chasse aux oiseaux migrateurs au 31 janvier.
