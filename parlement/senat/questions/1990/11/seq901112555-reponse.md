@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901112555
+
+- Question : [SEQ901112555](seq901112555.md) — Direction de l'enseignement français en Allemagne
+
+## Réponse
+
+*Éducation, JO du 1991-01-17, page 111*
+
+Réponse. - Le plan de repli des Forces françaises en Allemagne doit s'effectuer selon un échelonnement prévu de 1991 à 1994. Le ministre de la défense a fait connaître le 12 novembre les premières mesures de ce repli seulement pour l'année 1991-1992. Trois garnisons : Karlsruhe, Mülheim, Rastatt seront supprimées dès l'automne 1991. Cinq écoles sises dans ces garnisons devront donc être fermées. Seront en outre touchées par des mesures partielles de repli cinq autres garnisons : Fribourg, Offenburg, Rastatt, Tübingen, Reutlingen. Il n'est pas encore possible d'évaluer dans l'immédiat l'effectif exact des personnels enseignants qui devront être réintégrés dès la rentrée 1991. En effet, ces mesures partielles de repli nécessitent une profonde modification de la carte scolaire selon les procédures habituelles de concertation avec l'autorité militaire, les conseils d'administration, les représentants des personnels et des parents d'élèves. Il est probable que seul un nombre relativement restreint d'enseignants devra rentrer en France pour la rentrée 1991. Des mesures de redéploiement devraient, en effet, permettre de réaffecter une partie de ces personnels des garnisons supprimées sur les garnisons maintenues, en fonction du nombre de postes restés vacants. En ce qui concerne plus généralement l'avenir des établissements d'enseignement de la D.E.F.A., une concertation interministérielle est en cours afin d'étudier les solutions qui pourraient être envisagées après 1994. Il va de soi que l'évolution inévitable de cette structure, liée au repli des forces françaises, n'altérera en aucune façon la coopération bilatérale en matière éducative, au développement de laquelle le ministre de l'éducation nationale est particulièrement attaché.
