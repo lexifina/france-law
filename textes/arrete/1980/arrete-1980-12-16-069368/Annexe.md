@@ -30,6 +30,10 @@ NF A 49-212 (juin 1979).
 
 NF A 49-213 (juin 1979).
 
+NF A 49-242 (novembre 1980).
+
+NF A 49-243 (novembre 1980).
+
 2. L'article 1er (§ 2) peut être appliqué lorsque les tôles utilisées sont définies par référence à la qualité 1 de la norme NF A 36-205 (édition de juin 1978) et à la condition :
 
 a) Qu'elles aient fait l'objet d'un contrôle spécifique ;
