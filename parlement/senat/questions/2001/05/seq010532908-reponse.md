@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010532908
+
+- Question : [SEQ010532908](seq010532908.md) — Délais de communication des actes d'état civil
+
+## Réponse
+
+*Culture, JO du 2001-06-28, page 2159*
+
+En réponse à la question de l'honorable parlementaire, il est précisé que le troisième alinéa de l'article 7 de la loi du 3 janvier 1979 fixe à cent ans le délai de libre communicabilité de l'ensemble des registres de l'état civil. Ce délai avait été déterminé à une époque où l'exploitation de ces documents dans le cadre de recherches généalogiques était encore limitée. Avec le développement de la généalogie depuis le début des années 1980, les consultations de registres de l'état civil se sont considérablement accrues. De ce fait, le délai de cent ans applicable à ces registres peut à présent apparaître comme une entrave à la recherche. Sensible au souhait des généalogistes de voir ce délai réduit, le ministère de la culture et de la communication a élaboré, dans le cadre des dispositions réformant le régime de communicabilité des archives publiques, un dispositif relatif aux registres de l'état civil conciliant la simplification de l'accès à ces registres et la nécessaire protection de la vie privée. Il propose de ne conserver un délai de cent ans que pour les registres de naissance, qui contiennent des informations relatives à la filiation. Les registres de mariage, qui mettent en cause le secret de la vie privée, deviendraient librement communicables à l'expiration d'un délai de cinquante ans. Quant aux registres de décès et aux tables annuelles et décennales de l'état civil, ils seraient désormais immédiatement communicables à toute personne, puisqu'ils ne mettent pas en cause, de par leur contenu, aucun des secrets protégés par la loi. Les dispositions réformant le régime de communicabilité des archives publiques sont intégrées dans l'avant-projet de loi relatif à la société de l'information. Ce texte est actuellement soumis au Conseil d'Etat.
