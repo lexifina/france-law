@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000727047
+
+- Question : [SEQ000727047](seq000727047.md) — Situation des sapeurs-pompiers volontaires permanents
+
+## Réponse
+
+*Intérieur, JO du 2000-12-07, page 4147*
+
+Réponse. - L'honorable parlementaire appelle l'attention du ministre de l'intérieur sur la situation d'agents de la fonction publique territoriale exerçant une activité de sapeur-pompier volontaire à temps complet dans un centre de secours. Il souhaite savoir s'il est possible de réaliser leur intégration, sur le modèle de la procédure issue du décret nº 93-135 du 2 février 1993 modifiant certaines dispositions relatives aux sapeurs-pompiers professionnels. Il apparaît que le décret du 2 février 1993 précité a permis d'intégrer dans les cadres d'emplois de sapeurs-pompiers professionnels, après un examen ou concours exceptionnel, les fonctionnaires des collectivités territoriales ou de leurs établissements publics qui exerçaient, à temps complet, une activité de sapeur-pompier volontaire antérieurement au 27 septembre 1990, sur la base du protocole d'accord destiné à résorber l'emploi précaire dans la fonction publique. Toutefois, afin d'éviter que de telles situations ne perdurent, l'article 15 du décret de 1993 précité interdisant explicitement aux agents de la fonction publique territoriale d'exercer une activité de sapeur-pompier volontaire " pendant le temps de service propre à leur activité principale ", ce qui rendait dorénavant impossible l'engagement de fonctionnaires territoriaux en tant que sapeurs-pompiers volontaires à temps complet. Si des affectations d'agents territoriaux dans des fonctions permanentes de sapeur-pompier ont été réalisées en contradiction avec les dispositions du décret de 1993, il n'est en conséquence pas possible d'envisager l'intégration de ces agents dans les cadres d'emplois de sapeurs-pompiers professionnels.
