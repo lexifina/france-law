@@ -12,22 +12,32 @@ Section 1 :Champ d'application
 
 1. Le présent accord est applicable aux entreprises comprises dans le champ d'application objet de l'article 2 de la convention collective nationale dont il constitue l'annexe III bis. A compter de sa date d'application, il annule et remplace le précédent accord du 14 février 1985 sur les objectifs et les moyens de la formation professionnelle continue qui est dénoncée.
 
-2. Le champ d'application délimité par l'article 2 précité de la convention collective nationale comportant différentes branches d'activité. Au sens du présent accord, la branche d'activité est constituée par l'ensemble des entreprises ayant le même code A.P.E. et entrant dans le champ d'application de la convention collective nationale.
+2. Le champ d'application délimité par l'article 2 précité de la convention collective nationale comporte différentes branches d'activité (1) dont chacune a ses spécificités en raison, notamment, de la nature industrielle ou commerciale de l'activité des entreprises, de la nature et du processus d'élaboration des produits, de l'implantation géographique, etc.
 
-dont chacune a ses spécificités (en raison, notamment, de la nature industrielle ou commerciale de l'activité des entreprises, de la nature et du processus d'élaboration des produits, de l'implantation géographique, etc.), il est expressément convenu que chacune des branches d'activité précitée peut être rattachée. Sans préjudice du respect de toutes les autres dispositions du présent accord, le rattachement à un O.P.C.A. réalisé selon d'autres modalités que celles prévues à la section 1 n'est cependant pas remis en cause s'il est intervenu par un accord collectif dans les conditions de délai et de dépôt prévues à l'avant-dernier paragraphe de la section 5 du présent accord.
+Sous réserve du respect des dispositions de la présente annexe, chacune de ces branches d'activité peut être rattachée (2) par accord collectif (3) négocié et conclu conformément à l'article L. 133-1 du code du travail :
 
-sous réserve du respect des dispositions du présent accord, selon l'une ou l'autre des modalités ci-après :
+- soit à un organisme paritaire collecteur agréé (O.P.C.A.) à compétence nationale professionnelle ;
 
-- a) soit à un organisme paritaire collecteur agréé (O.P.C.A.)O.P.C.A. de branche ou interbranches.
+- soit à des O.P.C.A. à compétence régionale interprofessionnelle (OPCAREG).
 
-à compétence nationale professionnelle de son choix, par accord collectif conclu entre le Conseil national des vins et spiritueux et tout ou partie des organisations syndicales de salariés signataires de la convention collective nationale du 13 février 1969 ;
+Le champ d'application territorial de l'accord collectif ci-dessus est national ou régional.
 
-- b) soit à des O.P.C.A. à compétence régionale (OPCAREG), par avenant régional à la convention collective nationale, ou, à défaut, par adhésion individuelle des entreprises, sous réserve du respect, lorsqu'il existe, de l'accord collectif visé au point a ci-dessus ou à l'alinéa ci-après.
+A défaut d'accord collectif d'adhésion à un O.P.C.A. à compétence nationale professionnelle ou à un O.P.C.A. régional interprofessionnel, qui leur serait applicable, les entreprises pourront adhérer individuellement à l'OPCAREG territorialement compétent.
 
-Toutefois, un tel avenant pourra prévoir le rattachement à un O.P.C.A. du type visé au point a ci-dessus à la condition expresse que l'organisation professionnelle patronale régionale signataire soit représentative au plan national d'une branche d'activité à caractère spécifiquement régional, la branche d'activité étant entendue au sens du présent accord.
+Les accords collectifs d'adhésion sont énumérés en annexe du présent accord.(4)
 
-Ces accords collectifs d'adhésion seront énumérés en annexe du présent accord.
+3. Pour l'application du présent accord, une entreprise est dite relever d'un O.P.C.A. lorsqu'elle appartient à une branche d'activité (5) ayant adhéré à cet O.P.C.A. conformément aux dispositions du point 2 ci-dessus ; à défaut et pour chacun de ses établissements, elle relève obligatoirement des OPCAREG des régions où elle est implantée dans les conditions précisées ci-dessus.
 
-3. Pour l'application du présent accord, une entreprise est dite relever d'un O.P.C.A. lorsqu'elle appartient à une branche d'activité. Au sens du présent accord, la branche d'activité est constituée par l'ensemble des entreprises ayant le même code A.P.E. et entrant dans le champ d'application de la convention collective nationale.
+(1) Pour l'application de la présente annexe, les parties signataires conviennent qu'il faut entendre par branche d'activité l'ensemble des entreprises exerçant la même activité économique (entreprises ayant en principe le même code A.P.E.) et entrant dans le champ d'application de la convention collective nationale. (2) Sans préjudice du respect de toutes les autres dispositions de la présente annexe, le rattachement à un O.P.C.A. réalisé selon d'autres modalités que celles prévues à la section 1 n'est cependant pas remis en cause s'il est intervenu par accord collectif dans les conditions de délai et de dépôt prévues à l'avant-dernier paragraphe de la section 5 du présent accord. (3) Ces accords sont conclus entre les organisations syndicales de salariés représentatives et le Conseil national des vins et spiritueux ou, le cas échéant, par l'organisation patronale régionale à la condition qu'elle soit représentative d'une branche d'activité entrant dans le champ d'application défini à l'article 2 de la convention collective nationale. (4) Le cas échéant, les organisations patronales régionales signataires devront adresser copie de ces accords au Conseil national des vins et spiritueux dans les quinze jours suivant leur signature. (5) Pour l'application de la présente annexe, les parties signataires conviennent qu'il faut entendre par branche d'activité l'ensemble des entreprises exerçant la même activité économique (entreprise ayant en principe le même code A.P.E.) et entrant dans le champ d'application de la convention collective nationale.
 
-ayant adhéré à un O.P.C.A. à compétence nationale professionnelle dans les conditions précisées au point 2 a ou 2 b, dernier alinéa ci-dessus ; si tel n'est pas le cas, elle relève obligatoirement d'un O.P.C.A. régional interprofessionnel dans les conditions précisées au point 2 b, premier alinéa ci-dessus.
+NOTA :
+
+(1) Pour l'application de la présente annexe, les parties signataires conviennent qu'il faut entendre par branche d'activité l'ensemble des entreprises exerçant la même activité économique (entreprises ayant en principe le même code A.P.E.) et entrant dans le champ d'application de la convention collective nationale.
+
+(2) Sans préjudice du respect de toutes les autres dispositions de la présente annexe, le rattachement à un O.P.C.A. réalisé selon d'autres modalités que celles prévues à la section 1 n'est cependant pas remis en cause s'il est intervenu par accord collectif dans les conditions de délai et de dépôt prévues à l'avant-dernier paragraphe de la section 5 du présent accord.
+
+(3) Ces accords sont conclus entre les organisations syndicales de salariés représentatives et le Conseil national des vins et spiritueux ou, le cas échéant, par l'organisation patronale régionale à la condition qu'elle soit représentative d'une branche d'activité entrant dans le champ d'application défini à l'article 2 de la convention collective nationale.
+
+(4) Le cas échéant, les organisations patronales régionales signataires devront adresser copie de ces accords au Conseil national des vins et spiritueux dans les quinze jours suivant leur signature.
+
+(5) Pour l'application de la présente annexe, les parties signataires conviennent qu'il faut entendre par branche d'activité l'ensemble des entreprises exerçant la même activité économique (entreprise ayant en principe le même code A.P.E.) et entrant dans le champ d'application de la convention collective nationale.
