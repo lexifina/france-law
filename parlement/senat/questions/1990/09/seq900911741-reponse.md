@@ -1,0 +1,11 @@
+# Réponse à la question SEQ900911741
+
+- Question : [SEQ900911741](seq900911741.md) — Situation du transport public de voyageurs
+
+## Réponse
+
+*Équipement, JO du 1990-12-20, page 2705*
+
+Réponse. - L'action du Gouvernement en faveur des transports collectifs de province a été redéfinie en janvier 1989 : aide à la réalisation des infrastructures de transport en site propre, modernisation des transports départementaux, appui à la politique de conventionnement ferroviaire menée par les conseils régionaux. Dans ce cadre général, la préparation du budget 1991 a été articulée sur les axes suivants : en premier lieu, soutien significatif aux agglomérations de province engagées dans des opérations de métro ou de tramway, la dotation prévue pour 1991 (450 millions de francs), en hausse de 36 p. 100 par rapport à celle ouverte en 1990, permettra la poursuite des travaux en cours à Grenoble, à Marseille et à Toulouse et la mise en place des premiers financements, pour la deuxième ligne du Val, à Lille, et les réseaux de tramway de Strasbourg, Rouen et Reims. En second lieu, poursuite de la pratique des contrats avec les agglomérations de province, notamment po
+
+ur la mise en place d'axes lourds pour autobus, et avec les départements et les régions pour la modernisation de leurs réseaux de transports collectifs par route. Des financements spécifiques sont également prévus pour les régions Corse, Lorraine et Rhône-Alpes, pour leurs investissements ferroviaires sur les lignes d'intérêt régional. En dernier lieu, apport de financements d'études et d'expérimentations pour les réseaux de transports urbains (enquêtes sur la mobilité et la répartition modale des déplacements) et participation au programme interministériel de recherche et de développement pour l'innovation et la technologie dans les transports terrestres (Predit 1990-1994). 38 millions de francs sont prévus à ces deux titres dans le budget des transports terrestres en 1991. Une appréciation complète de l'effort budgétaire de l'Etat en faveur des transports collectifs de province nécessiterait de prendre également en compte les sommes transférées au titre des transferts de compétences (D.G.D. scolaire) et la contribution globale de l'Etat à la S.N.C.F. pour les services ferroviaires d'intérêt régional. Les sommes correspondantes pour 1991 s'élèveront à plus de 7 milliards de francs.
