@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001028331
+
+- Question : [SEQ001028331](seq001028331.md) — Enseignement du français dans les institutions scolaires et universitaires au Nigeria
+
+## Réponse
+
+*Coopération, JO du 2000-12-14, page 4242*
+
+Réponse. - Un projet du fonds de solidarité prioritaire est un acte de coopération instruit en partenariat avec les autorités du pays bénéficiaire. Le ministère nigérian de l'éducation maintient son objectif d'enseigner le français dans ses institutions scolaires et universitaires. Toutefois, pour des raisons internes à ce pays, la mise en place des moyens financiers et humains a été quelque peu retardée, si bien que le projet décrit dans la réponse à la question nº 22932 de M. le sénateur Emmanuel Hamel n'est pas encore opérationnel. Ce délai supplémentaire a permis de poursuivre la réflexion entre le ministère nigérian de l'éducation, le service de coopération et d'action culturelle de l'ambassade de France au Nigéria et la sous-direction du français du ministère des affaires étrangères, afin de mener au mieux ce projet. Ainsi, dès la rentrée scolaire et universitaire 2001-2002, le projet sera renforcé par des mesures répondant aux attentes nigérianes, comme une plus grande intégration régionale de la formation continue des professeurs de français et un appui plus important aux centres nationaux de formation initiale. Par ailleurs, des sessions de formation continue de professeurs de français, mettant l'accent sur le développement de l'intégration régionale par la communication linguistique et prévues dans le plan 2000-2001 de l'Agence intergouvernementale de la francophonie, sont en cours de réalisation. Un séminaire de réflexion se déroulera d'ailleurs courant novembre 2000 sur ce sujet au Togo. Ces actions sont liées à celles qui seront mises en uvre dans le cadre du projet sur le fonds de solidarité prioritaire, ces opérations formant un ensemble cohérent.
