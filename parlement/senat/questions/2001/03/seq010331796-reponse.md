@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010331796
+
+- Question : [SEQ010331796](seq010331796.md) — Politique des stocks alimentaires dans l'Union européenne et dans des associations
+
+## Réponse
+
+*Agriculture, JO du 2001-05-24, page 1762*
+
+Réponse. - Le ministre de l'agriculture et de la pêche s'accorde sur la nécessité à moyen terme d'une réforme du programme communautaire d'aide aux plus démunis. ce programme qui est fondé sur le principe de l'utilisation d'une petite partie des stocks d'intervention à des fins sociales et humanitaires est en effet remis en cause par les orientations de la politique agricole commune à travers les dernières réformes qui conduiront à une baisse tendancielle des stocks d'intervention, voire leur disparition. Le ministère de l'agriculture et de la pêche conduit une réflexion sur les propositions qu'il conviendrait de faire à la commission pour préserver l'effet positif de ce programme en faveur des plus démunis, en modifiant l'économie générale de ce programme et les modalités de sa mise en uvre. Pour le court terme, en dépit de ses nombreuses démarches auprès de la commission, la France n'a, à ce jour, reçu aucune dotation en viande bovine au titre du programme communautaire d'aide aux plus démunis. C'est la raison pour laquelle le ministère de l'agriculture et de la pêche a pris la décision de mettre de la viande de volaille à la disposition des organisations caritatives concernées par ce programme pour un montant de crédits nationaux de 5 millions de francs. Enfin dans le cadre du régime communautaire d'achat spécial de viande bovine approuvé lors du comité de gestion du 16 mars 2001, la France examine avec la commission la possibilité de donner aux organisations caritatives les quantités de viande bovine transformée correspondant à leur demande. Cette initiative permettrait de répondre conjointement à des objectifs de régulation du marché et à des objectifs sociaux et humanitaires.
