@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020902317
+
+- Question : [SEQ020902317](seq020902317.md) — Accroissement des moyens budgétaires en matière d'accueil et de réinsertion sociale
+
+## Réponse
+
+*Lutte contre la précarité, JO du 2002-12-12, page 3074*
+
+La lutte contre les exclusions s'inscrit parmi les priorités du Gouvernement telles que présentées par le Premier ministre Jean-Pierre Raffarin dans son discours de politique générale devant l'Assemblée nationale le 3 juillet. Dans cette perspective, Mme Versini, secrétaire d'Etat à la lutte contre la précarité et l'exclusion, présentera, dans les prochains mois, un programme d'action dans ce domaine. Dès à présent, pour répondre aux besoins des plus démunis de nos concitoyens en matière d'accueil, d'hébergement et d'insertion, le projet de loi de finances pour 2003 prévoit une hausse des crédits de fonctionnement destinés aux centres d'hébergement et de réinsertion sociale comprenant une mesure d'ajustement de 4 428 130 euros pour la prise en compte de l'évolution de la masse salariale et une mesure nouvelle de création de 500 places supplémentaires de CHRS pour un montant de 6 400 000 euros. La dotation destinée au financement des CHRS atteindra en 2003 un montant de 428 385 988 euros, correspondant à 30 000 places. Ces mesures s'inscrivent dans la poursuite simultanée de l'augmentation des capacités d'accueil des centres d'hébergement et de l'adaptation du secteur de l'hébergement et de l'insertion aux nouvelles formes d'exclusions. Au total, les ressources du chapitre budgétaire 46-81, qui finance notamment les centres d'hébergement, les centres d'accueil d'urgence et de façon plus générale l'ensemble des dispositifs de lutte contre l'exclusion, augmentent de 3,55 % (+ 23 millions d'euros) pour atteindre 671 millions d'euros. A ce jour, 79 000 places d'hébergement, y compris les 11 000 places en centres d'accueil des demandeurs d'asile, sont disponibles sur le territoire.
