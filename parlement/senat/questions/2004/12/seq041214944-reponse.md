@@ -1,0 +1,9 @@
+# Réponse à la question SEQ041214944
+
+- Question : [SEQ041214944](seq041214944.md) — Rachat de périodes d'études pour le calcul de la pension de retraite pour les fonctionnaires de l'Etat
+
+## Réponse
+
+*Économie, JO du 2005-03-10, page 678*
+
+Le dispositif de rachat des années d'études permet aux fonctionnaires civils de l'Etat et aux militaires relevant du code des pensions civiles et militaires de l'Etat, ainsi qu'aux fonctionnaires affiliés à la Caisse nationale de retraites des agents des collectivités locales (CNRACL), d'acquérir des trimestres supplémentaires qui viendront compléter le nombre de trimestres qu'ils ont acquis au titre de leur activité professionnelle et d'améliorer le montant de leur retraite. La direction générale de l'administration et de la fonction publique du ministère de la fonction publique et de la réforme de l'Etat a élaboré au début de l'année 2004 un guide du rachat des années d'études dans les régimes des fonctionnaires. Ce guide, disponible en ligne sur le site internet du ministère de la fonction publique et de la réforme de l'Etat (http ://www.fonction-publique.retraites.gouv.fr/data/public/guides.html), fournit des informations précises sur les personnels concernés par le rachat, sur son contenu et son impact sur la pension, sur les conditions d'accès, sur la demande de rachat ainsi que sur les modalités de paiement de rachat. En outre, les fonctionnaires souhaitant racheter des années d'études peuvent obtenir toutes les informations complémentaires utiles auprès du service gestionnaire de personnel de leur administration, pour ce qui concerne les fonctionnaires d'Etat et les militaires, et auprès de la CNRACL, pour ce qui concerne les fonctionnaires territoriaux et hospitaliers. Dans ces conditions, il n'est pas envisagé de publier de circulaire en matière de rachat des années d'études.
