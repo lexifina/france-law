@@ -4,22 +4,26 @@ Annexe I
 
 Classement des emplois dans les groupes.
 
-GROUPE II :
+GROUPE III :
 
-Agent de bureau
+Téléphoniste
 
-Manoeuvre spécialisé (cadre d'extinction)
+Conducteur d'automobile de 2e catégorie
 
-Manoeuvre de 1re catégorie
+Aide de pharmacie
 
-Agent du service intérieur de 1re catégorie
+Aide de laboratoire
 
-Agent des services hospitaliers de 1re catégorie.
+Aide d'électroradiologie
 
-GROUPE I :
+Aide-soignant (cadre permanent)
 
-Manoeuvre de 2e catégorie (cadre d'extinction)
+Dactylographe
 
-Agent du service intérieur de 2e catégorie
+Ouvrier professionnel de 3e catégorie
 
-Agent des services hospitaliers de 2e catégorie.
+Chauffeur de chaudière basse pression
+
+Aide-soignant (cadre d'extinction)
+
+Surveillant du service intérieur.
