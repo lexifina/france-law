@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010633962
+
+- Question : [SEQ010633962](seq010633962.md) — Régime social des élèves de l'enseignement agricole
+
+## Réponse
+
+*Agriculture, JO du 2001-08-23, page 2699*
+
+L'attention du ministère de l'agriculture et de la pêche a été rappelée sur la couverture sociale des élèves de l'enseignement agricole. Monsieur le sénateur fait remarquer qu'il serait souhaitable que les élèves de l'enseignement agricole soient rattachés à la mutualité sociale agricole pour l'ensemble des branches de la protection sociale. Depuis la loi n° 76-622 du 10 juillet 1976 portant dispositions diverses relatives aux assurances sociales et aux accidents en agriculture, les élèves des établissements d'enseignement technique et de formation professionnelle agricoles bénéficient pour les accidents survenus par le fait ou à l'occasion de cet enseignement ou de cette formation, du même régime d'assurance obligatoire contre les accidents du travail et les maladies professionnelles que les salariés des professions agricoles (article L. 751-1 du code rural). Cette disposition est le pendant de l'article L. 412-8 du code de la sécurité sociale qui étend le régime des accidents du travail aux élèves en stage, des établissements relevant de l'éducation nationale. Pour tous les autres risques, il en va dans l'enseignement agricole comme à l'éducation nationale, à savoir qu'il faut distinguer selon que l'élève est majeur ou mineur. L'élève mineur est couvert par l'assurance de son tuteur légal en qualité d'ayant droit d'un assuré social, il sera par conséquent rattaché à la mutualité sociale agricole s'il est ayant droit d'un salarié agricole ou d'un professionnel agricole. En revanche, l'élève ou étudiant majeur, est obligatoirement affilié au régime général en vertu de l'article L. 381-4 du code de la sécurité sociale.
