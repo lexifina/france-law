@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890806096
+
+- Question : [SEQ890806096](seq890806096.md) — Références à respecter pour le calcul d'un loyer nouveau
+
+## Réponse
+
+*Logement, JO du 1990-02-01, page 220*
+
+Réponse. - La recherche de références dans des agglomérations de plus d'un million d'habitants peut poser parfois quelques problèmes de recueil de ces données. Ces problèmes peuvent, à l'évidence, être surmontés soit par une enquête menée auprès de personnes du voisinage, soit par la recherche de renseignements auprès de professionnels de l'immobilier ou des services d'informations présents localement. En tout état de cause, il n'apparaît pas anormal qu'un acte aussi conséquent que celui conduisant à la fixation d'un nouveau loyer soit accompagné des justifications économiques nécessaires. Au surplus, la contrainte que suppose une telle recherche n'apparaît pas comme ayant été, dans les faits, de nature à entraîner d'importantes difficultés. S'agissant des petites communes et des zones rurales, il peut arriver effectivement que la fourniture de références soit plus délicate à opérer. il faut cependant souligner que, en pratique et dans la très grande généralité des cas, les rapports entre bailleurs et locataires s'établissent dans des conditions suffisamment satisfaisantes pour que les règles de procédure soient appliquées avec le réalisme nécessaire. Pour autant, et pour les cas où un bailleur ne parviendrait pas à fournir les trois références exigées, l'on est en droit de penser que le juge prendrait en compte l'impossibilité objective résultant du caractère particulier de certaines situations locales. Enfin, le Gouvernement souhaite encourager la mise en place des observatoires des loyers prévus par l'article 16 de la loi du 6 juillet 1989, tout particulièrement dans les villes ou agglomérations où existent de sérieuses tensions sur le marché locatif, à l'image de celui qui existe déjà sur l'agglomération parisienne.
