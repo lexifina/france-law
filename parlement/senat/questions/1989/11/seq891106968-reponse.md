@@ -1,0 +1,9 @@
+# Réponse à la question SEQ891106968
+
+- Question : [SEQ891106968](seq891106968.md) — Situation des personnels de l'éducation surveillée de l'Essonne
+
+## Réponse
+
+*Justice, JO du 1990-04-12, page 810*
+
+Réponse. - Les difficultés rencontrées actuellement dans certains établissements relevant du secteur public de l'éducation surveillée sont liées étroitement aux décisions de suppressions d'emplois prises par le précédent Gouvernement en 1987 et à l'absence de concours de recrutement en 1988 pour le personnel éducatif. Cette politique a été inversée dès le 2e semestre 1988 et la confirmation de cette inversion de tendance est inscrite dans la loi de finances pour 1990 (création de 30 emplois d'éducateurs). Les années 1989 et 1990 constituent, malgré cela, deux années difficiles car les départs d'agents ne peuvent être immédiatement compensés : la reprise des recrutements (plus de 400 prévus en 1989 et 1990) ne produira ses effets qu'à partir de 1991, notamment pour le personnel éducatif, au terme de deux années de formation des élèves éducateurs de la promotion 1989. La spécificité des besoins de chaque direction départementale est examinée attentivement par la chancellerie au regard des exercices budgétaires et en fonction des orientations retenues dans le cadre de l'élaboration des schémas départementaux de protection judiciaire de la jeunesse. Les données établies à ce jour ne faisant pas apparaître le département de l'Essonne parmi les départements les plus en difficulté sur le plan du nombre global des personnels du secteur public, un effort important a été engagé et doit être poursuivi avec l'appui de l'ensemble des partenaires du ministère de la justice (autres administrations et collectivités locales en particulier) pour que les services et les personnels adaptent en permanence leurs prestations aux besoins prioritaires.
