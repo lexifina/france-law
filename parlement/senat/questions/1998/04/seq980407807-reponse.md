@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980407807
+
+- Question : [SEQ980407807](seq980407807.md) — Conflits collectifs du travail dans les services publics : instauration d'une procédure de médiation
+
+## Réponse
+
+*Fonction publique, JO du 1998-09-03, page 2841*
+
+Réponse. - L'idée d'instaurer une procédure de médiation préalable en cas de grève dans les services publics n'est pas nouvelle. Elle a fait l'objet de plusieurs propositions de loi, notamment celles déposées en 1987 et en 1992. Cependant, aucune de ces propositions de loi n'a abouti. En effet, plusieurs arguments conduisent à revaloriser la pertinence de l'application d'une telle procédure dans la fonction publique. Comme l'a souligné le Conseil d'Etat dans son avis du 9 février 1984, un dispositif de règlement concerté des différends (médiation, conciliation, arbitrage) apparaît en effet peu compatible avec le régime statutaire applicable aux agents publics. Ceux-ci, soumis au principe de subordination hiérarchique, ne se trouvent pas, vis-à-vis des autorités publiques, dans la même situation que les autres travailleurs dans leurs relations avec les employeurs. Il serait, de surcroît, difficilement concevable que l'avis du médiateur, tel qu'évoqué par la question de l'honorable parlementaire, puisse s'imposer à l'Etat. Enfin, l'introduction d'une procédure de médiation en cas de grève dans les services administratifs ne semble pas devoir s'imposer, dans la mesure où la pratique du dialogue social dans l'administration, notamment dans le cadre des organismes consultatifs tels que le Conseil supérieur de la fonction publique de l'Etat et les comités techniques paritaires, permet aux syndicats de faire part de leurs points de vue. Dans la pratique, des négociations avec les pouvoirs publics, avant le dépôt du préavis et pendant sa durée, permettent bien souvent de dénouer la crise et de prévenir ainsi les conflits.
