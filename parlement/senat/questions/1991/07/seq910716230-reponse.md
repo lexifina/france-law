@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910716230
+
+- Question : [SEQ910716230](seq910716230.md) — Bilan du programme SESAM
+
+## Réponse
+
+*Commerce et artisanat, JO du 1992-05-28, page 1215*
+
+Réponse. - Le programme SESAM permet à des jeunes ayant terminé un cycle d'études professionnelles dans le secteur des métiers de bénéficier des mêmes possibilités d'échanges au sein de la Communauté que les étudiants des filières universitaires ; il a été expérimenté pendant l'année scolaire 1990-1991. Les obstacles rencontrés dans la mise en place des partenariats projetés (hétérogénéité des structures nationales et des statuts juridiques des stagiaires, difficultés pour l'obtention des concours financiers nécessaires) ont ramené de 200 à 62 le nombre des participants ; 58 jeunes Français sont ainsi allés parfaire leurs connaissances professionnelles dans un pays membre de la CEE ; 4 jeunes des pays tiers de la Communauté sont venus travailler dans des entreprises françaises. Le résultat de cette première phase expérimentale, à première vue limité, est toutefois tout à fait positif pour l'avenir, car l'expérience a permis : d'obtenir l'adhésion de la Commission de la Communauté européenne. Le programme SESAM doit se trouver inscrit dans le programme d'initiative communautaire (1991-1993) EUROFORM, qui fera suite au concours du FSE pour l'année 1990 ; de mieux cibler le public concerné : non plus des jeunes sous contrat d'apprentissage mais des jeunes qui, à l'issue d'un apprentissage, ont acquis une qualification et désirent ajouter à celle-ci une ouverture européenne par un stage de longue durée (huit mois) dans un pays tiers ; d'entraîner une adhésion devenue active de plusieurs des pays de la Communauté : pour la phase 1991-1992, l'Allemagne a prévu l'envoi de 150 jeunes, la Belgique de 70 ; l'Irlande, le Portugal, les Pays-Bas ont fait connaître leur intention d'y participer ; cent jeunes Français bénéficieront de ce deuxième programme.
