@@ -1,0 +1,8 @@
+# Ville de Nancy : délibération III-5 — Appel d'offres ouvert - Groupe scolaire Lafontaine - Restructuration de la chaufferie.
+
+- Collectivité : Ville de Nancy
+- SIREN : 215403957
+- Code INSEE : 54395
+- Date : 1994-03-28
+- Objet : Appel d'offres ouvert - Groupe scolaire Lafontaine - Restructuration de la chaufferie.
+- Jeu de données : https://www.data.gouv.fr/datasets/5d96e6f38b4c410e2b3803a1
