@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980709524
+
+- Question : [SEQ980709524](seq980709524.md) — Fiscalité du patrimoine
+
+## Réponse
+
+*Économie, JO du 1999-02-11, page 452*
+
+Réponse. - Il n'appartient pas au Gouvernement de faire quelque mise au point que ce soit sur les termes d'un rapport du Conseil des impôts qui est une institution indépendante. Le rapport sur la fiscalité du patrimoine n'indique pas, au demeurant, que l'assurance-vie est une " forme d'évasion fiscale " mais se borne à constater que " puisque les contrats d'assurance sur la vie sont utilisés par la frange de la population la mieux dotée en patrimoine, non pas comme des produits de prévoyance mais comme des produits d'épargne permettant en outre d'échapper aux droits de mutation à titre gratuit, il paraît nécessaire de mettre fin à cette forme d'évasion fiscale ". Ce simple constat ne méconnaît ni le rôle irremplaçable de l'assurance-vie comme instrument de prévoyance, ni son importance dans l'épargne des ménages et, par conséquent, dans le financement de l'économie. Il souligne simplement le caractère anormal de l'avantage dont jouissait l'assurance-vie. C'est pourquoi l'article 37 de la loi de finances pour 1999 tend à moraliser les avantages liés à la transmission des patrimoines par le biais de l'assurance-vie et à lutter contre la fraude et l'évasion fiscales pratiquées par certains détenteurs de patrimoines importants. Ainsi, les sommes versées à chaque bénéficiaire d'une assurance-vie par les organismes d'assurance et assimilés, à raison du décès de l'assuré, sont assujetties à un prélèvement de 20 % sur la fraction de ces sommes qui excède un million de francs. Ce nouveau dispositif qui ne s'appliquera qu'aux contrats souscrits à compter du 13 octobre 1998 et, pour les contrats en cours, aux seules primes versées après cette date est simple et équitable. Il ne concernera en effet que les patrimoines importants.
