@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910716450
+
+- Question : [SEQ910716450](seq910716450.md) — Contrôle des flux migratoires en région Provence-Alpes-Côte d'Azur
+
+## Réponse
+
+*Intérieur, JO du 1991-09-19, page 2037*
+
+Réponse. - Les deux tableaux présentés ci-dessous contiennent les éléments statistiques répondant successivement aux points 1 et 2 de la question de l'honorable parlementaire. Le deuxième tableau retrace le nombre annuel de reconduites à la frontière prononcées dans les départements riverains de la frontière franco-italienne et, à titre indicatif, dans l'ensemble des départements français. Il convient de noter que, si une large majorité des mesures d'éloignement prononcées dans les départements frontaliers de l'Italie s'applique à des étrangers ayant transité par cette frontière (ce qui reste difficile à établir de façon certaine), la part des reconduites en direction de la frontière franco-italienne est quasi nulle, ce qu'explique l'origine géographique (pays du Maghreb, Turquie, Yougoslavie) de la plupart de ces étrangers qui font l'objet, même dans ces départements, d'un réacheminement direct vers leur pays. (Nota voir tableau p.2037. (Nota voir tableau p.2037. Concernant le troisième point, relatif à la teneur des sanctions prises à l'encontre des passeurs, l'ordonnance du 2 novembre 1945 modifiée dresse l'échelle des peines qui leur sont applicables. Aux termes de l'article 21, " tout individu qui, par aide directe ou indirecte, a facilité ou tenté de faciliter l'entrée, la circulation ou le séjour irrégulier d'un étranger est passible d'un emprisonnement de deux mois à deux ans et d'une amende de 2 000 à 20 000 F ". L'observation de la pratique révèle une application très variable des peines en fonction du tribunal territorialement compétent et du cas d'espèce.
