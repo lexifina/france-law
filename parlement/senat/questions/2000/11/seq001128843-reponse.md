@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001128843
+
+- Question : [SEQ001128843](seq001128843.md) — Organisation commune du marché du sucre
+
+## Réponse
+
+*Agriculture, JO du 2001-01-25, page 239*
+
+Réponse. - La proposition de règlement du Conseil portant organisation commune des marchés dans le secteur du sucre, adoptée par le collège des commissaires le 4 octobre 2000, a été soumise sans délai, par la présidence française, à l'examen des instances techniques et du conseil des ministres de l'agriculture du 19 décembre 2000. La présidence a constaté lors de ce conseil qu'une majorité qualifiée était réunie en faveur d'un compromis basé sur les orientations suivantes : prorogation du régime actuel pour cinq campagnes, assorti d'un rapport intermédiaire à présenter par la Commission ; maintien du régime de péréquation des frais de stockage et donc, en conséquence, du dispositif d'aides au raffinage, avec toutefois suppression de l'obligation de stock minimal ; maintien des quotas actuels et des besoins maximaux d'approvisionnement de l'industrie du raffinage ; pleine application du principe d'autofinancement au régime d'aide spéciale pour l'industrie chimique ; maintien des aides nationales au niveau atteint pour la campagne 2000/2001 pour le sud de l'Italie, l'Espagne en ce qui concerne la production de cannes à sucre et le Portugal dans sa région continentale ; consolidation des éléments rédactionnels issus des travaux préparatoires, y compris les prix d'intervention dérivés. Le Parlement européen devrait rendre son avis sur la proposition de la Commission en session plénière de février 2001. L'adoption finale du règlement portant organisation commune des marchés dans le secteur sucre devrait pouvoir intervenir en conseil des ministres de l'agriculture, sous présidence suédoise, à partir du mois de mars 2001.
