@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940606464
+
+- Question : [SEQ940606464](seq940606464.md) — Fiscalité des stocks de cognac des viticulteurs charentais
+
+## Réponse
+
+*Agriculture, JO du 1994-09-08, page 2205*
+
+Réponse. - Aux termes des dispositions de l'article 38 ter de l'annexe III du CGI, les stocks comprennent l'ensemble des marchandises, matières et produits appartenant à l'entreprise et dont la vente en l'état ou après transformation permet la réalisation du bénéfice de l'exploitation. Ainsi les profits que procure à un agriculteur la vente de ses stocks constituent des bénéfices d'exploitation imposables dans la catégorie des bénéfices agricoles. Les plus-values doivent être distinguées des bénéfices d'exploitation. Alors que ces derniers représentent le résultat des opérations que l'entreprise réalise en vertu de son objet, les plus-values désignent des profits de caractère occasionnel résultant d'une opération ayant pour effet de faire sortir un élément de l'actif de l'entreprise, par exemple la vente d'un matériel ou d'un immeuble d'exploitation ; elles bénéficient d'un régime d'imposition plus favorable que la taxation au taux progressif de l'impôt sur le revenu du bénéfice courant de l'entreprise. Compte tenu de ces éléments, il n'est pas possible d'assimiler les profits résultant de vente de stocks à des plus-values à long terme. Toutefois il y a lieu de rappeler que les agriculteurs sont autorisés, sous certaines conditions, à demander l'imposition du bénéfice exceptionnel selon le mécanisme du quotient ou de la division par cinq prévu à l'article 75-OA du CGI. Conçu pour atténuer les effets de la progressivité du barême de l'impôt sur le revenu, ce mécanisme permet de rattacher par cinquième au revenu du contribuable, le bénéfice exceptionnel considéré ; l'impôt total acquitté sur ce bénéfice sera la somme des suppléments d'impôt supportés pendant les cinq années e de l'étalement.
