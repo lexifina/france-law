@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020701150
+
+- Question : [SEQ020701150](seq020701150.md) — Conditions de qualification aux fonctions de maître de conférences par le Conseil national des universités
+
+## Réponse
+
+*Jeunesse, JO du 2002-10-17, page 2398*
+
+Le statut particulier des maîtres de conférences et des professeurs des universités prévoit que, pour se présenter aux concours ouverts dans les établissements d'enseignement supérieur, les candidats doivent avoir été préalablement inscrits sur une liste de qualifications établie par le Conseil national des universités (CNU). Les sections du CNU se prononcent sur les candidatures qui leur sont soumises dans les conditions et avec les garanties qui sont celles des jurys de recrutement. Elles déterminent librement les critères de sélection qu'elles souhaitent appliquer et établissent leurs propositions en toute souveraineté. S'agissant de la charge de travail incombant aux membres de cette instance, il convient de faire observer que le caractère pluriannuel des listes de qualifications atténue le nombre de dossiers qu'ils ont à examiner chaque année. Quoi qu'il en soit, il est exact que cette charge de travail demeure importante. Une indemnité vient donc d'être instituée en leur faveur. Elle variera en fonction des responsabilités exercées par les intéressés au sein de l'instance et du nombre de dossiers de demande d'inscription sur les listes de qualifications que la section envisagée aura examinés. D'un point de vue plus général, le principe d'une qualification préalable au recrutement réalise un équilibre satisfaisant entre le respect de l'autonomie des universités et la nécessité de sélectionner des candidatures dont la valeur scientifique a été reconnue au plan national. A ce jour, la communauté universitaire, à travers les diverses instances qui la représentent, n'a pas exprimé le souhait d'une réforme radicale de ce dispositif.
