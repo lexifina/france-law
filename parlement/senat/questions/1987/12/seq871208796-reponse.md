@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871208796
+
+- Question : [SEQ871208796](seq871208796.md) — Utilisation des crédits du Fonds forestier national
+
+## Réponse
+
+*Agriculture, JO du 1988-04-28, page 566*
+
+Réponse. -Le Fonds forestier national a été créé en 1947. Les cérémonies qui viennent d'en marquer le 40e anniversaire ont mis en lumière l'oeuvre remarquable accomplie grâce à ce fonds, que plusieurs Etats ont imité. Au départ, le fonds s'est intéressé aux reboissements, en mettant à la disposition des propriétaires, publics ou privés, plusieurs possibilités : prêts sous forme de travaux, prêts en numéraire, subventions... A partir de 1967, le Fonds forestier national est également intervenu dans la filière bois en apportant un soutien financier aux acteurs de la première transformation. Une baisse corrélative des crédits affectés à l'amont en est résultée, étant toutefois observé que les améliorations induites par ces aides bénéficiaient aux producteurs, c'est-à-dire les propriétaires sylviculteurs, qui ont intérêt à l'écoulement et la valorisation des produits de leurs forêts. Seule la formule des prêts en travaux a été abandonnée en raison notammentdu fait qu'elle démobilisait le propriétaire. Les demandes de collectivités sont donc, pour l'instant, satisfaites dans des conditions comparables à ce qu'elles ont été depuis des années. Les transferts de forêts de collectivités vers des spéculateurs français ou étrangers dont fait état l'honorable parlementaire constituent pour l'instant de très rares exceptions qu'il convient toutefois de suivre et d'analyser, afin que soit préservé le rôle éminent joué en matière de gestion et d'entretien d'espaces forestiers, par les collectivités publiques et d'abord les communes qui vont trouver des opportunités accrues à l'occasion des mutation dans l'utilisation des terres, en cours et à venir.
