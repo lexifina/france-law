@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941008032
+
+- Question : [SEQ941008032](seq941008032.md) — Relations entre la SNCF et les régions en matière de transports de voyageurs
+
+## Réponse
+
+*Équipement, JO du 1994-12-08, page 2911*
+
+Réponse. - L'échelon régional est souvent le plus pertinent pour apprécier l'adéquation de l'offre de transport, particulièrement celle que propose le chemin de fer, aux besoins des usagers. C'est pourquoi le ministre chargé des transports a, par lettre en date du 8 novembre 1993, confié à M. le sénateur Haenel une mission visant à définir un nouveau cadre de relations entre l'Etat, les régions et la SNCF. Les propositions remises par M. le sénateur Haenel tendent à faire des régions de véritables autorités organisatrices des services de voyageurs et de la SNCF un prestataire de services concourant au développement régional. Le Gouvernement a approuvé cette démarche et a décidé qu'il convenait de poursuivre ce processus. En conséquence, le ministre chargé des transports a réuni, le 5 octobre dernier, l'ensemble des présidents des régions volontaires ainsi que M. le sénateur Haenel et le président de la SNCF. Il a été décidé de procéder, dans quelques régions, à l'expérimentation de conventions donnant aux régions une plus grande responsabilité dans le domaine ferroviaire. Cela suppose un travail préalable dans deux domaines. Tout d'abord, les différents acteurs doivent disposer d'une connaissance très fine de l'offre et de la demande de déplacements. Aussi l'élaboration d'un véritable plan régional multimodal des transports constitue-t-elle la première étape de la mise en pratique des propositions du rapport. L'Etat y contribuera financièrement. En second lieu, la SNCF doit clarifier et simplifier son système comptable et financier afin que ses rapports avec les régions permettent un partage équitable des résultats et des risques.
