@@ -1,0 +1,5 @@
+# Article Préambule
+
+Aucun report de congé ne sera accepté au-delà du 31 mai.
+
+Les congés non pris seront perdus et ne donneront pas lieu à indemnité.
