@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860701901
+
+- Question : [SEQ860701901](seq860701901.md) — Dégradation du commerce des antiquités
+
+## Réponse
+
+*Commerce et artisanat, JO du 1986-10-09, page 1418*
+
+Réponse. -Le ministre du commerce, de l'artisanat et des services est attentif en permanence au problème soulevé par l'honorable parlementaire. Le commerce clandestin des objets mobiliers d'occasion peut être à l'heure actuelle poursuivi à plusieurs titres. Des instructions, toujours en vigueur, du 13 décembre 1974 et 5 février 1976, émanant du ministère de l'intérieur, recommandent aux commissaires de la République de surveiller étroitement les foires et marchés à la brocante et de faire en sorte que les personnes non patentées dont la présence est relevée à plusieurs reprises sur les marchés soient signalées, d'une part, aux greffiers des tribunaux de commerce, qui peuvent enjoindre aux intéressés de s'inscrire au registre du commerce et des sociétés, d'autre part, aux services fiscaux. Ces personnes peuvent être en outre poursuivies pour infraction aux dispositions du décret n° 68-786 du 29 août 1968 relatif à la police du commerce de revendeur d'objetsmobiliers, qui impose aux professionnels diverses obligations et en particulier la tenue d'un registre. Dans les instructions précitées, fréquemment rappelées, il est également demandé aux commissaires de la République d'appeler l'attention des maires sur le caractère exceptionnel que doit revêtir l'autorisation, pour les non-professionnels, de participer à des foires ou marchés de brocante qui se déroulent pour la plupart sur le domaine municipal et dont, par suite, l'organisation du pouvoir de police des maires. En tout état de cause, ces problèmes, qui concernent plusieurs département ministériels, notamment le ministère de l'intérieur, font actuellement l'objet d'un examen d'ensemble, dans le cadre des dispositions plus générales visant la lutte contre le recel.
