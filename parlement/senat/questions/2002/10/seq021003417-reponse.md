@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021003417
+
+- Question : [SEQ021003417](seq021003417.md) — Représentation légale de la société par actions simplifiée (SAS)
+
+## Réponse
+
+*Justice, JO du 2002-12-19, page 3165*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que l'article L. 227-6 du code de commerce, qui dispose que la société par actions simplifiée (SAS) est représentée à l'égard des tiers par un président désigné dans les conditions prévues par les statuts, constitue la déclinaison pour la société par actions simplifiée d'une règle applicable dans les autres formes de société. Cette règle institue, dans chacune de celles-ci, un représentant légal investi des pouvoirs les plus étendus à l'égard des tiers (directeur général, gérant...). Le président est le représentant légal de la SAS et doit à ce titre être déclaré au registre du commerce et des sociétés (RCS) lors de l'immatriculation de la société et mentionné sur l'extrait des inscriptions portées au registre. Par ailleurs, la SAS peut être dirigée par une ou plusieurs autres personnes dont les modalités de nomination et l'étendue des pouvoirs ne sont pas fixées par la loi. En l'état des textes législatifs et réglementaires, lorsque ces dirigeants sont des associés ou des tiers investis par les statuts du pouvoir de diriger, de gérer ou d'engager à titre habituel la société, ils doivent également être déclarés au RCS et figurer sur l'extrait du registre du commerce et des sociétés, en plus du président, en application de l'article 15 A-10° a du décret du 30 mai 1984. Dans son arrêt du 2 juillet 2002, la Cour relève que le représentant légal de la SAS est son président. La lecture de l'arrêt n'autorise pas à déduire de ce constat qu'il n'existe nulle possibilité de délégation de pouvoir statutaire ou conventionnelle dans la SAS. Ces délégations doivent être mentionnées au registre du commerce et des sociétés pour être opposables aux tiers.
