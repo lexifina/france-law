@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970702060
+
+- Question : [SEQ970702060](seq970702060.md) — Renforcement des effectifs des formateurs d'enseignants et des personnels d'encadrement dans le domaine des applications pédagogiques des nouvelles technologies
+
+## Réponse
+
+*Éducation, JO du 1997-10-23, page 2898*
+
+Réponse. - La formation continue est le lieu privilégié de l'appropriation par les enseignants des technologies nouvelles de l'information et de la communication et de leurs applications pédagogiques. Les missions académiques à la formation des personnels de l'éducation nationale (MAFPEN) ont développé depuis de nombreuses années une part importante de leur activité pour répondre aux besoins et attentes des enseignants qui exprimaient la préoccupation d'intégrer à leur enseignement les ressources de ces technologies. A cet effet, elles ont proposé, dans les domaines de l'informatique, de l'audiovisuel et de la télématique, des dispositifs et actions de formation distincts et constitué dans chaque académie un vivier de formateurs spécialisés ; des enseignants de toute discipline ont ainsi déjà pu bénéficier de stages de formation. Il devient de plus en plus clair que, dans ces domaines, aux formules nouvelles de stages doivent s'ajouter des périodes très courtes où l'enseignant peut obtenir des réponses à des questions qu'il s'est posé tout au long de sa pratique. Par ailleurs, l'importance du nombre de réseaux créés et l'implantation de centres de ressources académiques témoignent à elles seules de la prise de conscience des enjeux que ces technologies soulèvent dans l'évolution actuelle du système éducatif. Les instructions données par le ministère de l'éducation nationale, de la recherche et de la technologie afin de fixer les orientations prioritaires des plans académiques de formation des enseignants doivent permettre de renforcer rapidement le potentiel de formation en ce domaine.
