@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880801148
+
+- Question : [SEQ880801148](seq880801148.md) — Fonction publique territoriale : centres départementaux de gestion
+
+## Réponse
+
+*Collectivités territoriales, JO du 1988-09-29, page 1082*
+
+Réponse. - Aux termes de l'article 15 de la loi du 26 janvier 1984 modifiée, " sont obligatoirement affiliés aux centres de gestion les communes et leurs établissements publics qui emploient moins de 250 fonctionnaires titulaires et stagiaires à temps complet. Pour les communes, sont pris en compte les effectifs cumulés des fonctionnaires de la commune, du centre communal d'action sociale et, le cas échéant, de la caisse des écoles qui lui sont rattachés ". Cette disposition a pour but, dans un souci de cohérence, de rattacher, pour leur gestion, les fonctionnaires des centres communaux d'action sociale et ceux des caisses des écoles à la commune. Il convient en effet de rappeler que l'autorité territoriale dont relèvent les fonctionnaires d'une commune exerce de droit la présidence de ces établissements publics. Ainsi, les conditions d'affiliation d'une commune s'analysent en prenant en compte l'ensemble des effectifs de la commune, du centre communal d'action so ciale et de la caisse des écoles. Ces conditions valent tant pour la commune elle-même que pour l'un et l'autre de ces deux établissements publics. Dès lors, si l'ensemble des effectifs est supérieur à 250 agents à temps complet, l'affiliation n'est obligatoire ni pour la commune, ni pour le centre communal d'action sociale, ni pour la caisse des écoles même si chacun de ces organismes compte moins de 250 agents à temps complet. Dans cette hypothèse, si la commune décide de s'affilier volontairement, cette affiliation emporte également affiliation du centre communal d'action sociale et de la caisse des écoles.
