@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980810332
+
+- Question : [SEQ980810332](seq980810332.md) — Rapport relatif à la mission concernant les droits de l'homme au Tibet
+
+## Réponse
+
+*Affaires étrangères, JO du 1998-10-29, page 3430*
+
+Réponse. - L'honorable parlementaire a bien voulu attirer l'attention du ministre des affaires étrangères sur la mission au Tibet de la " troïka " de l'Union européenne et sur les conclusions qu'en tire le Gouvernement. Cette visite des ambassadeurs en formation " troïka " de l'Union européenne, qui a précédé d'un mois celle de notre ambassadeur en Chine, a notamment permis d'approfondir notre appréciation des conditions de vie de la population et de l'impact de la modernisation. La France est entièrement solidaire des conclusions de cette mission, qui figurent dans le rapport publié le 8 juillet. Ce texte a confirmé la conviction du Gouvernement français que le Tibet peut bénéficier du développement accéléré en cours actuellement dans le reste de la Chine, sans perdre pour autant les fondements de sa culture et de sa religion et accru notre volonté de multiplier les programmes de coopération avec la région tibétaine. Lors de sa mission, du 31 mai au 6 juin dernier, notre ambassadeur en Chine a tiré les mêmes conclusions de ses entretiens avec les autorités locales. C'est la raison pour laquelle la France et ses partenaires de l'Union européenne prônent des actions de coopération au Tibet afin de soutenir les efforts actuels de scolarisation, de médicalisation et de développement des populations tibétaines. Mais cette politique de coopération et de développement doit naturellement s'accompagner de la poursuite du dialogue avec les autorités chinoises, auprès desquelles la France rappelle, régulièrement et au plus haut niveau, son attachement à la préservation de l'identité culturelle et spirituelle tibétaine et au respect des droits de l'homme dans cette région, comme dans le reste de la Chine.
