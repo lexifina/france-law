@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040512041
+
+- Question : [SEQ040512041](seq040512041.md) — Prévention des conséquences d'une nouvelle canicule dans les établissements pour personnes âgées
+
+## Réponse
+
+*Personnes âgées, JO du 2004-12-23, page 2971*
+
+L'attention du secrétaire d'Etat aux personnes âgées est appelée sur la prévention des conséquences d'une nouvelle période de canicule dans les établissements d'hébergement pour personnes âgées. Cette prévention appelait l'installation d'une pièce rafraîchie dans chaque établissement pour permettre aux personnes âgées de récupérer en restant au moins 3 heures par jour dans un lieu à température maîtrisée. Pour ce faire, le Gouvernement a annoncé le 5 mai 2004 l'instauration d'une aide financière substantielle de l'Etat pour aider les établissements à s'équiper. Cette aide est une aide différentielle qui prend en compte les aides des collectivités locales de telle sorte que le total des aides publiques aux établissements atteigne 40 % du montant de l'investissement dans la limite d'un certain plafond (15 000 euros pour 80 places), soit 6 000 euros par établissement. Elle s'applique à l'ensemble des établissements d'hébergement pour personnes âgées habilités, totalement ou partiellement, à l'aide sociale, y compris les logements foyers. Les investissements pris en compte sont ceux réalisés entre le 1er septembre 2003 et le 31 juillet 2004. Pour que cette mesure fût opérationnelle rapidement, importateurs, fabricants et installateurs d'appareils rafraîchissants ont été mobilisés. Ces derniers s'étaient engagés à livrer en priorité toutes les commandes qui leur étaient signalées par les DDASS, dans le cadre de " l'opération santé ". L'Etat a consacré 40 millions d'euros au financement de cette aide. Au 15 septembre 2004, 88,7 % des maisons de retraite étaient équipées en pièce rafraîchie contre seulement 12 % des établissements publics et 24 % des établissements privés en février 2004.
