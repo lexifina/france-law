@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880209537
+
+- Question : [SEQ880209537](seq880209537.md) — Retraite complémentaire des anciens salariés devenus artisans
+
+## Réponse
+
+*Commerce et artisanat, JO du 1988-04-14, page 507*
+
+Réponse. -Les artisans qui, âgés de soixante ans, demandent la liquidation de leur pension alors qu'ils ont accompli une partie de leur carrière en tant que salarié ne peuvent bénéficier sans abattement de la retraite complémentaire de salariés qu'à partir de l'âge de soixante-cinq ans. Le Gouvernement est sensible aux difficultés que soulève pour les intéressés l'application de la réglementation en vigueur. Il est cependant rappelé à l'honorable parlementaire que l'adoption de dispositions relatives aux retraites complémentaires servies dans le cadre des régimes obligatoires des salariés cadres et non-cadres relève de la seule compétence des organisations syndicales d'employeurs et de salariés qui en sont gestionnaires, le Gouvernement ne disposant dans ce domaine que d'un pouvoir d'approbation. C'est ainsi que l'accord du 4 février 1983, qui a permis la liquidation des retraites complémentaires dès l'âge de soixante ans au taux plein, a réservé cet avantageaux personnes ayant exercé en dernier lieu une activité salariée ou ayant bénéficié d'une indemnisation au titre du chômage. Les partenaires sociaux ont fait valoir que l'extension de cette disposition aux personnes ayant terminé leur carrière dans les régimes autres que ceux des salariés se heurterait au problème de l'équilibre financier des régimes dont ils ont la charge. Dans le souci de progresser dans la voie de l'harmonisation de la protection sociale des travailleurs indépendants avec celle des salariés, le Gouvernement s'attache, pour la part qui lui revient, à la recherche des solutions qui pourraient être apportées à cette question.
