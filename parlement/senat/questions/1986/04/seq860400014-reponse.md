@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860400014
+
+- Question : [SEQ860400014](seq860400014.md) — Information sur la sécurité sociale
+
+## Réponse
+
+*Affaires sociales, JO du 1987-01-29, page 122*
+
+Réponse. -L'information de l'opinion sur la situation de la sécurité sociale est assurée de plusieurs manières. Le ministre des affaires sociales et de l'emploi attache une importance particulière à cette information, qu'il assure lui-même par ses interventions, et notamment ses conférences de presse consacrées aux problèmes de la sécurité sociale, aux solutions à y apporter et au cours desquelles il indique l'orientation de la politique gouvernementale en la matière ; il en a été ainsi, notamment de celles du 1er juillet et du 18 novembre 1986. Deux fois par an, en juillet et en décembre, se réunit la commission des comptes de la sécurité sociale, qui examine, sur la base d'un rapport, les résultats de l'année précédente et les prévisions de recettes et de dépenses. Les réunions qui se sont tenues le 24 juillet et le 12 décembre 1986 ont présenté les projections sur les années 1986 et 1987. La composition de cette commission, qui associe des parlementaires, des partenaires sociaux, des représentants des régimes de sécurité sociale et de l'administration, donne une large audience à ses travaux. Le rapport est remis au Parlement et à la presse. Une formation plus restreinte de cette commission, mais comprenant les mêmes catégories de participants, a été mise en place en octobre 1986 ; elle se réunira régulièrement pour faire le point de la situation du régime général de sécurité sociale ; ses travaux font l'objet d'une publication. Enfin, les organismes de sécurité sociale dont les conseils d'administration sont composés notamment de représentants des assurés sociaux et d'employeurs assurent dans leurs domaines respectifs une information statistique et financière par des publications ou communications périodiques.
