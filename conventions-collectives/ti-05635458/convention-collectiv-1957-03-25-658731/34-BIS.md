@@ -48,78 +48,6 @@ Taux : 75 p. 100
 
 Accidents du travail :
 
-Durée de l'indemnisation : 30 jours
-
-Taux : 90 p. 100
-
-Durée de l'indemnisation : 150 jours
-
-Taux : 75 p. 100
-
-Ancienneté :
-
-Plus de huit ans et moins de treize ans
-
-Maladie :
-
-Durée de l'indemnisation : 40 jours
-
-Taux : 90 p. 100
-
-Durée de l'indemnisation : 50 jours
-
-Taux : 75 p. 100
-
-Accidents du travail :
-
-Durée de l'indemnisation : 40 jours
-
-Taux : 90 p. 100
-
-Durée de l'indemnisation : 140 jours
-
-Taux : 75 p. 100
-
-Ancienneté :
-
-Plus de treize ans et moins de dix-huit ans
-
-Maladie :
-
-Durée de l'indemnisation : 50 jours
-
-Taux : 90 p. 100
-
-Durée de l'indemnisation : 50 jours
-
-Taux : 75 p. 100
-
-Accidents du travail :
-
-Durée de l'indemnisation : 50 jours
-
-Taux : 90 p. 100
-
-Durée de l'indemnisation : 130 jours
-
-Taux : 75 p. 100
-
-Ancienneté :
-
-Plus de dix-huit ans et moins de vingt-trois ans
-
-Maladie :
-
-Durée de l'indemnisation : 60 jours
-
-Taux : 90 p. 100
-
-Durée de l'indemnisation : 60 jours
-
-Taux : 75 p. 100
-
-Accidents du travail :
-
 Durée de l'indemnisation : 60 jours
 
 Taux : 90 p. 100
@@ -130,51 +58,43 @@ Taux : 75 p. 100
 
 Ancienneté :
 
-Plus de vingt-trois ans et moins de vingt-huit ans
+Plus de huit ans et moins de vingt-cinq ans
 
 Maladie :
 
-Durée de l'indemnisation : 70 jours
+Durée de l'indemnisation : 90 jours
 
 Taux : 90 p. 100
 
-Durée de l'indemnisation : 70 jours
+Durée de l'indemnisation : 30 jours
 
 Taux : 75 p. 100
 
 Accidents du travail :
 
-Durée de l'indemnisation : 70 jours
+Durée de l'indemnisation : 120 jours
 
 Taux : 90 p. 100
 
-Durée de l'indemnisation : 110 jours
+Durée de l'indemnisation : 60 jours
 
 Taux : 75 p. 100
 
 Ancienneté :
 
-Plus de vingt-huit ans
+Plus de vingt-cinq ans :
 
 Maladie :
 
-Durée de l'indemnisation : 90 jours
+Durée de l'indemnisation : 180 jours
 
 Taux : 90 p. 100
-
-Durée de l'indemnisation : 90 jours
-
-Taux : 75 p. 100
 
 Accidents du travail :
 
-Durée de l'indemnisation : 90 jours
+Durée de l'indemnisation : 180 jours
 
 Taux : 90 p. 100
-
-Durée de l'indemnisation : 90 jours
-
-Taux : 75 p. 100
 
 Le taux doit s'entendre par référence à la rémunération brute que les salariés auraient perçue s'ils avaient continué à travailler, à l'exclusion des primes liées à l'exécution de services et des indemnités non assujetties aux cotisations sociales, la rémunération à prendre en considération est celle correspondant à l'horaire pratiqué pendant l'absence de l'intéressé par l'entreprise ou l'établissement.
 
