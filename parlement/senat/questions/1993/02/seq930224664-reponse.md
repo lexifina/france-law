@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930224664
+
+- Question : [SEQ930224664](seq930224664.md) — Fonctionnement des crèches parentales
+
+## Réponse
+
+*Famille et personnes âgées, JO du 1993-03-25, page 527*
+
+Réponse. - Le secrétaire d'Etat à la famille, aux personnes âgées et aux rapatriés ne méconnaît pas l'intérêt que représentent les crèches parentales, ni les problèmes spécifiques qu'elles rencontrent. Le montant des prestations de service versées aux crèches pour l'accueil permanent des enfants de moins de trois ans est calculé en pourcentage des prix plafonds fixés par la CNAF, en fonction des coûts effectifs de chacun des modes de garde. Ainsi, le prix plafond fixé par la CNAF pour les crèches collectives et mini-crèches est de 190,87 francs par jour, et celui des crèches parentales est de 132,19 francs par jour. Il a été demandé aux différents partenaires concernés, Caisse nationale d'allocations familiales et associations, de se rapprocher, afin qu'une analyse approfondie des problèmes puisse être effectuée. Des enquêtes sont actuellement en cours, tant au sein des réseaux des crèches parentales qu'au sein des CAF, dans l'objectif d'améliorer les connaissances relatives aux prix de revient des crèches parentales - y inclus le bénévolat - et d'évaluer l'impact de l'aide aux familles pour l'emploi d'une assistante maternelle agréée sur ce mode d'accueil. Par ailleurs, le décret relatif aux établissements et services accueillant des enfants de moins de six ans est actuellement à l'étude dans les services du ministère des affaires sociales et de l'intégration. Ce texte doit être soumis à un examen interministériel, puis proposé à une concertation avec les différentes associations et syndicats concernés. Sa publication interviendra dès lors qu'un consensus se sera dégagé avec les différents partenaires.
