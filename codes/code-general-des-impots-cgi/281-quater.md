@@ -6,8 +6,10 @@ Un décret définit la nature des oeuvres et fixe le nombre de représentations 
 
 Ces dispositions ne s'appliquent pas aux recettes provenant :
 
-a. Des représentations théâtrales à caractère pornographique;
+a. Des représentations théâtrales à caractère pornographique ;
 
-b. (Disposition devenue sans objet).
+c. de la vente de billets imposée au taux réduit dans les conditions prévues au b bis a de l'article 279.
 
-(1) Annexe III, art. 89 ter.
+NOTA :
+
+(1) Voir l'article 89 ter de l'annexe III.
