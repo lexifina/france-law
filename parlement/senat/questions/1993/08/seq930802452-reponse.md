@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930802452
+
+- Question : [SEQ930802452](seq930802452.md) — Producteurs de porcs
+
+## Réponse
+
+*Agriculture, JO du 1994-01-27, page 184*
+
+Réponse. - Ce secteur connaît, en effet, actuellement, une très grave crise de marché. C'est pourquoi le Gouvernement a décidé de lui apporter son soutien afin de préserver l'outil de production et la compétitivité des éleveurs de porcs. Les éleveurs vont ainsi bénéficier d'importants allègements de leurs charges financières par restructuration de leurs emprunts et report d'échéance. En association avec les établissements bancaires concernés, les mesures suivantes ont été arrêtées, elles répondent très largement aux demandes de la profession : l'échéance 93 (intérêts p capital) des prêts non bonifiés à moyen et long terme sera reportée. Elle fera l'objet d'un prêt sur 4 ans avec différé d'un an (le premier remboursement se situant fin 1995) et sans charge d'intérêts la première année. Cette mesure permettra une reconstitution immédiate de la trésorerie des éleveurs qui n'auront donc eu aucun remboursement à effectuer en 1993 ; la durée des prêts à taux bonifiés souscrits entre 1988 et 1992 sera allongée de 3 ans ce qui se traduira par une réduction significative de la charge annuelle de remboursement. En outre, lors du dernier conseil des ministres de l'agriculture des 18 et 19 octobre à Luxembourg, il a été obtenu que soit programmée une nouvelle opération de dégagement du marché communautaire. La Commission des Communautés européennes devrait faire connaître prochainement les modalités pratiques de cette nouvelle tranche exceptionnelle de restitutions à l'exportation. Ces mesures financières d'une ampleur sans précédent, seront de nature à atténuer les difficultés que connaissent les producteurs de porcs.
