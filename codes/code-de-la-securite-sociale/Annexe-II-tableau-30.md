@@ -1,55 +1,99 @@
-# Article Annexe II tableau 30
+# Article Annexe II : Tableau n° 30
+
+AFFECTIONS PROFESSIONNELLE CONSECUTIVES A L'INHALATION DES POUSSIERES D'AMIANTE.
 
 Date de création : 3 août 1945.
 
 Dernière mise à jour : 23 juin 1985.
 
-Délais de prise en charge fixés sous réserve des dispositions des articles D. 461-5 à D. 461-24 et notamment des articles D. 461-23 et D. 461-24. DESIGNATION DES MALADIES :
+Délais de prise en charge fixés sous réserve des dispositions des articles D. 461-5 à D. 461-24 et notamment des articles D. 461-23 et D. 461-24.
 
-A - Asbestose : fibrose pulmonaire diagnostiquée sur des signes radiologiques spécifiques qu'il y ait ou non des modifications des explorations fonctionnelles respiratoires Complications :
+DÉSIGNATION DES MALADIES
 
-insuffisance respiratoire aiguë, insuffisance ventriculaire droite
+|
 
-DELAI DE PRISE EN CHARGE : 10 ans
+DÉLAI de prise en charge
 
-DESIGNATION DES MALADIES :
+|
 
-B - Lésions pleurales bénignes : avec ou sans modifications des explorations fonctionnelles respiratoires :
+LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies
 
-Pleurésie exsudative ; Plaques pleurales plus ou moins calcifiées bilatérales, pariétales, diaphragmatiques ou médiastinales ;
+|
 
-Plaques péricardiques ; Epaississements pleuraux bilatéraux, avec ou sans irrégularités diaphragmatiques
+|
 
-DELAI DE PRISE EN CHARGE : 10 ans
+|
 
-DESIGNATION DES MALADIES :
+Cette liste est commune à l'ensemble des affections désignées aux paragraphes A, B, C, D et E
 
-C - Mésothéliome malin primitif de la plèvre, du péritoine, du péricarde, quand la relation avec l'amiante est médicalement caractérisée
+|
 
-DELAI DE PRISE EN CHARGE : 15 ans
+A. - Asbestose : fibrose pulmonaire diagnostiquée sur des signes radiologiques spécifiques, qu'il y ait ou non des modifications des explorations fonctionnelles respiratoires. Complications : insuffisance respiratoire aiguë, insuffisance ventriculaire droite.
 
-DESIGNATION DES MALADIES :
+|
 
-D - Autres tumeurs pleurales primitives, quand la relation avec l'amiante est médicalement caractérisée
+35 ans (sous réserve d'une durée d'exposition de 2 ans)
 
-DELAI DE PRISE EN CHARGE : 15 ans
+|
 
-DESIGNATION DES MALADIES :
+Travaux exposant à l'inhalation de poussières d'amiante, notamment : - extraction, manipulation et traitement de minerais et roches amiantifères. Manipulation et utilisation de l'amiante brut dans les opérations de fabrication suivantes : - amiante-ciment ; amiante-plastique ; amiante-textile ; amiante-caoutchouc ; carton, papier et feutre d'amiante enduit ; feuilles et joints en amiante ; garnitures de friction contenant de l'amiante ; produits moulés ou en matériaux à base d'amiante et isolants. Travaux de cardage, filage, tissage d'amiante et confection de produits contenant de l'amiante. Application, destruction et élimination de produits à base d'amiante : - amiante projeté ; calorifugeage au moyen de produits contenant de l'amiante ; démolition d'appareils et de matériaux contenant de l'amiante, déflocage. Travaux de pose et de dépose de calorifugeage contenant de l'amiante. Travaux d'équipement, d'entretien ou de maintenance effectués sur des matériels ou dans des locaux et annexes revêtus ou contenant des matériaux à base d'amiante. Conduite de four. Travaux nécessitant le port habituel de vêtements contenant de l'amiante.
 
-E - Cancers broncho-pulmonaires primitifs, quand la relation avec l'amiante est médicalement caractérisée
+|
 
-DELAI DE PRISE EN CHARGE : 15 ans
+B. - Lésions pleurales bénignes avec ou sans modifications des explorations fonctionnelles respiratoires :
 
-LISTE INDICATIVE DES PRINCIPAUX TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
+|
 
-Travaux exposant à l'inhalation de poussières d'amiante, notamment :
+|
 
-Extraction, manipulation et traitement de minerais et roches amiantifères ;
+- plaques calcifiées ou non péricardiques ou pleurales, unilatérales ou bilatérales, lorsqu'elles sont confirmées par un examen tomodensitométrique ;
 
-Manipulation et utilisation de l'amiante brut dans les opérations de fabrication suivantes : amiante-ciment ;
+|
 
-amiante-plastique ; amiante-textile ; amiante-caoutchouc ; cardage ;
+40 ans
 
-filature ; tissage et confection ; carton, papier et feutre d'amiante ; feuilles et joints en amiante ; garnitures de friction ; produits moulés et isolants ;
+|
 
-Application, destruction et élimination de produits d'amiante ou à base d'amiante : amiante projeté ; calorifugeage au moyen de produits d'amiante ; maintenance et entretien de matériels, démolition, déflocage.
+- pleurésie exsudative ;
+
+|
+
+35 ans (sous réserve d'une durée d'exposition de 5 ans)
+
+|
+
+- épaississement de la plèvre viscérale, soit diffus soit localisé lorsqu'il est associé à des bandes parenchymateuses ou à une atélectasie par enroulement. Ces anomalies constatées devront être confirmées par un examen tomodensitométrique.
+
+|
+
+35 ans (sous réserve d'une durée d'exposition de 5 ans)
+
+|
+
+C. - Dégénérescence maligne bronchopulmonaire compliquant les lésions parenchymateuses et pleurales bénignes ci-dessus mentionnées.
+
+|
+
+35 ans (sous réserve d'une durée d'exposition de 5 ans)
+
+|
+
+D. - Mésothéliome malin primitif de la plèvre, du péritoine, du péricarde.
+
+|
+
+40 ans
+
+|
+
+E. - Autres tumeurs pleurales primitives.
+
+|
+
+40 ans (sous réserve d'une durée d'exposition de 5 ans)
+
+|
+
+NOTA :
+
+Conseil d'Etat n° 222313 et n° 222505 : le Conseil d'Etat a annulé les dispositions du II de l'art. 1 du décret 2000-343 du 14 avril 2000 modifiant le tableau n° 30 des maladies professionnelles annexé au livre IV de code de la sécurité sociale en tant qu'elles prévoient que l'épaississement de la plèvre viscérale n'est une maladie professionnelle que s'il est constaté " en l'absence d'antécédents de pleurésie de topographie concordante de cause non asbestosique ".
