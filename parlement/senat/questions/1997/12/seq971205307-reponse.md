@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971205307
+
+- Question : [SEQ971205307](seq971205307.md) — Modification du réseau de surveillance de la qualité de l'air pour une meilleure adaptation au milieu
+
+## Réponse
+
+*Aménagement du territoire, JO du 1998-06-04, page 1776*
+
+Réponse. - Mme la ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question relative à l'article paru dans le quotidien Le Figaro du 10 décembre 1997 sous le titre " Les poussières échappent à la surveillance de l'air ", et plus particulièrement à la partie concernant la structure de la surveillance de la qualité de l'air. Les experts préconisent une réduction sensible du nombre d'appareils de mesure du dioxyde de soufre. Ce nombre important de capteurs est un héritage de l'histoire d'Airparif, la pollution par le soufre ayant été dans les années 1970-1980 le problème principal de la capitale. Les experts recommandent par ailleurs une augmentation du nombre de stations de mesure de l'ozone (6 analyseurs) et, dans un moindre mesure, de stations de mesure du monoxyde de carbone. Comme le remarquent les experts, sur 170 appareils de mesure installés dans les stations fixes, 137 ont été mis en service depuis 1992. Le développement d'Airparif a donc été important et très rapide. Depuis l'audit, des analyseurs ont été installés ou sont en cours d'installation, avec pour priorité la mesure de l'ozone et de ses précurseurs. Il est également prévu d'en acheter d'autres dès lors que les partenaires qui financent l'investissement et le fonctionnement (collectivités locales, entreprises, Etat) tomberont d'accord. Il est en effet essentiel pour le développement à long terme que les partenaires continuent d'apporter à Airparif un financement équilibré, conformément aux orientations confirmées par la loi du 30 décembre 1996.
