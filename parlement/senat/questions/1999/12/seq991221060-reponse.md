@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991221060
+
+- Question : [SEQ991221060](seq991221060.md) — Service national : report d'incorporation et emploi
+
+## Réponse
+
+*Défense, JO du 2000-01-27, page 297*
+
+Réponse. - L'article L. 5 bis A, inséré dans le code du service national par la loi nº 97-1019 du 28 octobre 1997, portant réforme du service national, réalise un juste équilibre entre les besoins des forces armées pendant la période de transition conduisant à leur professionnalisation et la priorité qu'accorde le Gouvernement à l'emploi des jeunes Français. Cet article permet aux jeunes gens titulaires d'un contrat de travail de droit privé de bénéficier d'un report d'incorporation, s'il s'avère que leur incorporation immédiate est de nature à compromettre une première expérience professionnelle ou leur insertion professionnelle. Dans l'hypothèse où le report d'incorporation est accordé, celui-ci peut faire l'objet d'une prolongation, conformément au premier alinéa de l'article L. 5 bis A, dans le cas d'un contrat de travail à durée indéterminée. La demande sera déposée par l'intéressé et instruite selon les mêmes modalités que la demande initiale, conformément à l'article R.* 9-4 du code du service national. Les membres de la commission régionale examineront la réalité de l'insertion et de la première expérience professionnelle du jeune homme qui aura travaillé deux années en contrat de travail à durée indéterminée au sein de la même entreprise. Il appartiendra aux commissions régionales de dispense de fixer la durée de prolongation du report pour emploi initial susceptible d'être accordé au titre de l'article L. 5 bis A. Une directive a été transmise aux services pour leur préciser les modalités pratiques de gestion des dossiers afin que les jeunes puissent déposer leur demande dans les meilleures conditions.
