@@ -1,0 +1,9 @@
+# Réponse à la question SEQ891106946
+
+- Question : [SEQ891106946](seq891106946.md) — Bénéfice des régimes " BC Net " pour les entreprises artisanales des DOM-TOM
+
+## Réponse
+
+*Commerce et artisanat, JO du 1991-04-04, page 704*
+
+Réponse. - Le réseau des conseillers d'entreprises " BC Net " a été constitué à l'initiative de la Commission des Communautés européennes. Celle-ci a proposé, par appel d'offres, aux sociétés ou organismes compétents en matière de rapprochement d'entreprises de participer à un réseau d'échanges d'offres et de demandes émanant des entreprises de la Communauté, en particulier des P.M.E. et des entreprises artisanales. La Commission offrait aux conseillers d'entreprises une méthode unifiée et un système informatisé de transmission de données. En France, le réseau des chambres de commerce et d'industrie a largement participé à cette initiative. Les C.C.I. de Guyane et de Martinique, également partenaires de la Commission des Communautés européennes au sein du réseau des Euro-info-centres, sont membres du BC Net, ainsi que les services du conseil régional en Guadeloupe. Les résultats du réseau BC Net dépendent très largement de l'information faite auprès des entreprisessur l'existence de ce service et de la formation des personnes chargées de son fonctionnement dans les Antilles et en Guyane. S'agissant en particulier de régions périphériques de la Communauté, handicapées par les distances, il appartient, le cas échéant, aux membres de BC Net aux Antilles et en Guyane de demander une assistance complémentaire à la Commission des Communautés européennes. Quant au secteur de l'artisanat, les chambres de métiers de ces départements peuvent soit participer à l'activité BC Net existante sur place, soit se porter candidates elles-mêmes. Dans un cas comme dans l'autre, les services du ministère du commerce et de l'artisanat sont à leur disposition pour les aider à faire aboutir ces projets.
