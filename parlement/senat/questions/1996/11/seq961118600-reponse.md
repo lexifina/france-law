@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961118600
+
+- Question : [SEQ961118600](seq961118600.md) — Information des chefs d'entreprise et embauche des jeunes sous contrat
+
+## Réponse
+
+*Travail, JO du 1997-01-16, page 145*
+
+Réponse. - L'honorable parlementaire appelle l'attention de monsieur le ministre du travail et des affaires sociales sur les difficultés rencontrées par les chefs de petites et moyennes entreprises pour embaucher des jeunes sous contrats proposés par l'Etat. Les " guichets initiative-emploi " mis en place dans chaque département, en application de l'instruction du Premier ministre du 22 mai 1995, ont été aménagés par la circulaire du 20 juillet 1995. Conçus initialement comme des outils de simplification des démarches administratives liées au recrutement et à l'embauche d'un nouveau salarié, ils sont appelés à s'adapter aux besoins de leurs usagers, et tout particulièrement à ceux des petites entreprises. Ils doivent apporter un conseil au moment du recrutement et s'imposer des objectifs de qualité de service qui peuvent être résumés ainsi : un objectif de qualité de la prestation ; un objectif de rapidité et de fiabilité dans une réponse aussi globale que possible ; un objectif de suivi et de " service après-vente " de la prestation. Dans certains départements, l'association avec les experts comptables, les services techniques des chambres consulaires ou des URSSAF permet de prendre en charge les formalités, par ailleurs simplifiées, liées à une première embauche, de proposer une présentation personnalisée d'embauche selon les diverses formules, voire de prendre en charge la confection des premières fiches de paie. C'est dans ce cadre que l'Etat entend apporter aux chefs d'entreprise le soutien et le conseil dont ils ont besoin pour faire les choix les mieux adaptés à leurs besoins pour l'embauche et la formation des jeunes.
