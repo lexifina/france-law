@@ -12,4 +12,4 @@ ou
 
 - en cinq paiements mensuels à raison de un cinquième du montant total de la participation.
 
-Les sommes non payées aux dates limites d'exigibilité sont passibles des majorations de retard fixées par l'article 12 du règlement annexé à la convention du 6 janvier 1987 et selon les modalités énoncées par cette disposition.
+Les sommes non payées aux dates limites d'exigibilité sont passibles des majorations de retard fixées par l'article 12 du règlement annexé à la convention du 26 février 1988 et selon les modalités énoncées par cette disposition.
