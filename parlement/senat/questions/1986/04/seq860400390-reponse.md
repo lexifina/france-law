@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860400390
+
+- Question : [SEQ860400390](seq860400390.md) — Français de l'étranger: vente d'un immeuble en France, plus-value
+
+## Réponse
+
+*Budget, JO du 1986-09-04, page 1253*
+
+Réponse. -Un dispositif visant à atténuer les contraintes résultant, pour les contribuables domicilés hors de France, de l'application de l'article 244 bis A du code général des impôts a été mis en place en 1978 (BODGI 8 M-4-78). Il prévoit, sous certaines conditions, la dispense de désignation d'un représentant ou la limitation de la durée de la responsabilité de celle-ci. Lorsque le bénéfice des dispositions précitées ne peut être obtenu et que le cédant se trouve privé de tout ou partie des fonds par la banque désignée comme représentant, il est admis qu'il puisse obtenir de l'administration qu'elle lui indique, dans les meilleurs délais possibles, si elle entend ou non procéder au redressement de la plus-value déclarée, afin de lui permettre de négocier, à nouveau, en meilleure connaissance de cause, les conditions financières de la représentation. Des difficultés subsistent néanmoins en la matière, certaines banques, par méconnaissance des mesures de tempérament ainsi mises en oeuvre, surestimant parfois le montant des garanties à exiger de leurs clients. Aussi, dans l'impossibilité de réglementer strictement les actes de représentation en raison de leur caractère exclusivement personnel, l'administration a-t-elle été amenée, en 1983 et 1984, à habiliter une société anonyme, dénommée " société accréditée de représentation fiscale " à représenter tout redevable, personne physique ou morale, établi ou domicilié hors de France et passible du prélèvement institué par les articles 244 bis A et B du code général des impôts. Pour éviter toute ambiguïté, ces dispositions seront prochainement rappelées aux services fiscaux.
