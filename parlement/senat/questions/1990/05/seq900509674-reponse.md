@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900509674
+
+- Question : [SEQ900509674](seq900509674.md) — Taux d'intérêt réel à la charge des agriculteurs depuis 1984
+
+## Réponse
+
+*Agriculture, JO du 1990-07-05, page 1463*
+
+Réponse. - Il est exact que l'agriculture française a accentué son effort de modernisation à une période où l'inflation dissimulait aux yeux des emprunteurs la charge financière de leur endettement. Lorsque l'inflation a été maîtrisée, ces mêmes emprunteurs ont pris conscience à la fois de la nécessité et de l'intérêt d'éclairer leurs choix d'investissement en fonction du coût réel de l'emprunt, tandis que l'ensemble du secteur agricole bénéficiait du coup d'arrêt ainsi donné à la dévalorisation de leurs actifs. Cela étant, l'Etat n'a jamais cessé d'accompagner cette évolution par une politique de financement spécifique à l'agriculture. Ainsi les prêts bonifiés, et notamment les prêts d'installation et de modernisation à taux fortement réduits (de 2,75 p. 100 à 5 p. 100 selon le statut, jeune agriculteur ou non, et selon les zones défavorisées ou de plaine) permettent-ils de compenser les contraintes qui caractérient l'investissement agricole : forte in tensité capitalistique et rentabilité limitée des capitaux investis. Par ailleurs, les agriculteurs trop fortement endettés ou dont les charges d'emprunt mettent en péril la situation financière peuvent bénéficier de dispositifs d'allégement d'intérêts, d'application générale ou individualisée, mis en oeuvre depuis trois ans et gérés sous la responsabilité des préfets après consultation de commissions départementales consacrées aux agriculteurs en difficulté. Au total, ces mesures bonification et prises en charge d'intérêts permettent de contenir le niveau des intérêts réels à acquitter par les agriculteurs. Pour ce qui est des prêts, bonifiés ou non, en cours au Crédit agricole, ce taux d'intérêt réel a d'ailleurs diminué de 1986 à 1989, passant de 8,56 à 6,90 p. 100.
