@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870305258
+
+- Question : [SEQ870305258](seq870305258.md) — Suppression de personnel administratif dans les établissements scolaires publics
+
+## Réponse
+
+*Éducation, JO du 1987-05-28, page 853*
+
+Réponse. -Les impératifs de la politique budgétaire mis en oeuvre entraînent un allégement des effectifs des administrations. A ce titre, 2 000 suppressions d'emplois de personnel non enseignant ont dû être envisagées dans la loi de finances pour 1987 votée par le Parlement, dont 400 de personnel administratif dans les établissements du second degré, soit une réduction de 1,4 p. 100 des effectifs existants. La répartition des suppressions sur le territoire national a fait l'objet d'un examen rigoureux tenant compte des charges supportées par chaque académie (effectifs d'élèves notamment) et des moyens en emplois dont elle dispose. Ainsi, les suppressions d'emplois de personnel administratif affectant les établissements scolaires de l'académie d'Orléans-Tours, classée en vingt-quatrième position dans le classement national, ont pu être limitées à quatorze, ce qui correspond à l'un des plus faibles pourcentages de suppressions appliqués sur l'ensemble de la France (1,2 p. 100 des effectifs existants). L'académie de Paris, classée quant à elle en troisième position dans ce même classement, supporte le plus fort taux de suppressions d'emplois, soit 1,7 p. 100 des effectifs. L'académie d'Orléans-Tours doit cependant restituer un nombre d'emplois très voisins de celui de Paris, en dépit de son faible taux de suppressions, car sa dotation en emplois de personnel administratif des établissements du second degré est plus importante. Cette réduction des moyens budgétaires ne paraît pas de nature à compromettre le fonctionnement des lycées et collèges, d'autant que le recteur, chargé de répartir les suppressions, les fera porter en priorité sur les établissements les mieux dotés au regard de la moyenne académique.
