@@ -1,0 +1,85 @@
+# Article 1er
+
+Le présent protocole d'accord s'applique aux organisations patronales représentatives des activités suivantes :
+
+Commerce de gros de bois et dérivés de bois (négoce et importation).
+
+Référence NAPE : 5907
+
+Fabrication d'articles en liège.
+
+Référence NAPE : 5408
+
+Commerce de gros de liège et articles en liège.
+
+Référence NAPE : 5907
+
+Commerce de détail de liège et articles en liège.
+
+Référence NAPE : 6422
+
+Scieries relevant du régime de travail du ministère du travail.
+
+Référence NAPE : 4801
+
+Production de charbons de bois.
+
+Référence NAPE : Néant
+
+Parquets, moulures, baguettes.
+
+Référence NAPE : 4803
+
+Bois de placage, placages tranchés et déroulés.
+
+Référence NAPE : 4804
+
+Panneaux de fibragglos.
+
+Référence NAPE : 4804
+
+Poteaux, traverses, bois injectés.
+
+Référence NAPE : 4804
+
+Application de traitement des bois.
+
+Référence NAPE : 4804
+
+Emballages en bois (caisses, tonnellerie, emballeurs).
+
+Référence NAPE : 4805
+
+Emballages légers en bois, boîtes à fromages.
+
+Référence NAPE : 4805
+
+Palettes.
+
+Référence NAPE : 4805
+
+Tourets.
+
+Référence NAPE : 4805
+
+Objets divers en bois (matériel industriel, agricole et ménager en bois, bois multiplis multiformes).
+
+Référence NAPE : 4807
+
+Fibre de bois.
+
+Référence NAPE : 4807
+
+Farine de bois.
+
+Référence NAPE : 4807
+
+Articles de sport, à l'exclusion des ballons, matériels divers pour sports nautiques, matériels de camping.
+
+Référence NAPE : 5402
+
+Articles de pêche (pour les cannes et lignes).
+
+Référence NAPE : 5402
+
+A l'exclusion des entreprises dont l'activité principale est consacrée au travail du pin maritime dans les zones de la forêt de Gascogne.
