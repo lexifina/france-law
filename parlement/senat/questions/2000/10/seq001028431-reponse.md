@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001028431
+
+- Question : [SEQ001028431](seq001028431.md) — Dommages causés aux monuments funéraires privés à la suite de la tempête de décembre 1999
+
+## Réponse
+
+*Intérieur, JO du 2000-12-14, page 4278*
+
+Réponse. - Les contrats portant attribution d'une concession funéraire sont considérés comme des contrats administratifs qui confèrent à leur titulaire un droit d'occupation du domaine public conformément à l'article L. 2223-13 du code général des collectivités territoriales. Ce droit ne présentant pas le caractère précaire et révocable généralement attaché à l'occupation privative du domaine public communal, il incombe en contrepartie aux concessionnaires une obligation d'entretien et de remise en état des terrains, des caveaux, des monuments et tombeaux en vue de leur conservation et de leur solidité. Aussi, les frais engagés pour la réparation des monuments funéraires endommagés du fait des récentes tempêtes sont normalement à la charge des concessionnaires dès lors que la responsabilité contractuelle ou extra-contractuelle de la commune n'est pas engagée, en particulier en raison de la chute d'arbres de l'espace collectif. En l'état actuel du droit, les communes ne sont pas susceptibles de prendre en charge les travaux nécessaires aux réparations des biens privés assurables. En revanche, il leur appartient de financer la totalité des travaux à engager pour la réparation des parties publiques communes du cimetière communal. L'Etat s'est effectivement engagé à aider les collectivités publiques à faire face aux réparations indispensables à leurs biens non assurables mais ne peut directement prendre également en charge les réparations sur des biens privés. Néanmoins, les communes peuvent envisager, par l'intermédiaire des centres communaux d'action sociale, diverses modalités en vue du versement d'une aide financière directe aux familles qui en éprouvent le besoin.
