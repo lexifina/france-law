@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040712954
+
+- Question : [SEQ040712954](seq040712954.md) — Conséquences de la mise en oeuvre progressive de la politique agricole commune
+
+## Réponse
+
+*Agriculture, JO du 2005-02-10, page 375*
+
+En application de l'article 10 du règlement (CE) 1782/2003, les paiements directs alloués à tout agriculteur sont réduits chaque année d'un pourcentage au titre de la modulation (3 % en 2005, 4 % en 2006, 5 % en 2007 et 5 % pour les années suivantes et ce jusqu'en 2012). Le produit de la modulation sert à soutenir les actions de développement rural qui constituent le deuxième pilier de la politique agricole commune. Plutôt que de parler d'une diminution nette du revenu agricole, il convient de parler d'une réorientation des soutiens à l'agriculture en faveur du développement rural, lequel répond à une demande sociale forte. Par ailleurs, le règlement (CE) 1782/2003 prévoit que 80 % du produit de la modulation sera intégralement reversé à l'Etat membre qui l'a généré. Cette possibilité permettra de financer notamment des mesures pour la qualité alimentaire, des mesures agro-environnementales, des mesures en faveur des jeunes agriculteurs ou encore de servir à la gestion des crises affectant certaines productions sensibles. Par ailleurs, la France a obtenu de la Commission la possibilité de recoupler partiellement certaines aides, ce qu'elle a décidé de faire dans le secteur des céréales et des oléo-protéagineux (25 % recouplés), ainsi que dans les filières allaitantes (100 % recouplées). Cette possibilité permettra de maintenir l'acte de production au coeur de l'activité agricole et ce d'autant plus que la France compte définir un niveau de contraintes environnementales suffisant pour décourager la spéculation liée à des terres non mises en production et qui ne seraient utilisées que comme un support pour recevoir des aides.
