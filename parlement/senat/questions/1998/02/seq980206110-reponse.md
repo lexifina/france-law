@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980206110
+
+- Question : [SEQ980206110](seq980206110.md) — SAMU 38
+
+## Réponse
+
+*Emploi, JO du 1998-11-19, page 3711*
+
+Réponse. - Le décret nº 97-620 du 30 mai 1997, auquel fait référence l'honorable parlementaire, fixe les moyens humains et matériels nécessaires au fonctionnement des services mobiles d'urgence et de réanimation (SMUR), dont les missions ont été simultanément définies par le décret nº 97-619 du 30 mai 1997. Les dispositions relatives à la qualification du personnel médical et paramédical affecté au SMUR, sont identiques à celles du décret nº 95-648 du 9 mai 1995, énonçant les conditions requises pour exercer dans un service d'accueil et de traitement des urgences, sans lequel aucun SMUR ne peut être implanté. En l'espèce, l'équipe médicale doit, d'une part, être formée à la prise en charge des urgences par une qualification universitaire ou par une expérience professionnelle d'un an dans le domaine de l'urgence de la réanimation, et, d'autre part, être placée sous la responsabilité d'un médecin possédant à la fois une qualification universitaire et une expérience professionnelle de deux années. Les interventions du SMUR constituant une activité médicale non dissociable des autres missions de soins des établissements de santé, les moyens qui lui sont affectés tant humains que matériels sont confondus dans le budget de l'établissement de santé. Le centre hospitalier universitaire de Grenoble figure, au regard de son activité, parmi les quatre établissements les mieux dotés de la région Rhône-Alpes et se situe au neuvième rang national des établissements universitaires. Dans ces conditions, la progression de son budget de 0,94 % en 1998 lui permet d'appliquer dans le cadre de sa dotation budgétaire les dispositions relatives à la qualification du personnel des SMUR fixées par décret du 30 mai 1997.
