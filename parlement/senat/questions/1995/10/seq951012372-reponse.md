@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951012372
+
+- Question : [SEQ951012372](seq951012372.md) — Retrait par une administration municipale de la Communauté européenne du permis de conduire d'un automobiliste étranger
+
+## Réponse
+
+*Intérieur, JO du 1996-01-11, page 64*
+
+Réponse. - Aux termes de l'article 42 de l'acte final de la conférence des Nations unies sur la circulation routière tenue à Vienne en 1968, les parties contractantes peuvent " se faire remettre le permis de conduire et le conserver jusqu'à l'expiration du délai pendant lequel le droit de faire usage du permis est retiré ou jusqu'à ce que le conducteur quitte son territoire, si ce départ intervient avant l'expiration de ce délai ". Cette faculté offerte aux Etats s'applique à tout conducteur commettant sur leur territoire une infraction susceptible d'entraîner le retrait ou une suspension du permis de conduire en vertu de leur législation. L'autorité compétente ayant retiré le droit de faire usage du permis de conduire peut informer par ailleurs l'autorité qui a délivré ce titre. Chaque Etat détermine la nature des infractions et les sanctions qui s'y attachent et les autorités en charge de leur application et il appartient à tout citoyen de quelque origine qu'il soit de s'y conformer. Même si une sanction peut apparaître hors de proportion en regard de l'infraction commise et en regard du niveau de sanctions existant pour des faits similaires dans l'Etat d'appartenance, celle-ci relève de l'appréciation de chaque Etat. Il n'en demeure pas moins que dans le respect du principe de territorialité des lois pénales et de la convention de Vienne, le titre de conduite doit être remis lors de la sortie du territoire, si le délai de sanction n'a pas expiré lors du séjour. Enfin, il convient de noter qu'en France, l'article R. 266 du code de la route prévoit que peut donner lieu à suspension de permis de conduire " , - alinéa 9, article R. 37-2 l'arrêt ou le stationnement dangereux ".
