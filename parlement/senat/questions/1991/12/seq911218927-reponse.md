@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911218927
+
+- Question : [SEQ911218927](seq911218927.md) — Versement d'allocation chômage
+
+## Réponse
+
+*Travail, JO du 1992-10-29, page 2441*
+
+Réponse. - Le règlement du régime d'assurance chômage prévoit, sous certaines conditions d'activité antérieure et de durée de chômage, au bénéfice des allocataires encore indemnisés à cinquante-huit ans et demi ou cinquante-sept ans et demi pour ceux dont le préavis a commencé avant le 1er janvier 1992, le maintien des allocations jusqu'à soixante ans s'ils justifient à cet âge de 150 trimestres validés au titre de l'assurance vieillesse. Dans le cas contraire, les allocations sont maintenues jusqu'à ce que les intéressés justifient de cette dernière condition et, au plus tard jusqu'à soixante-cinq ans. Les personnes qui n'ont pas droit au bénéfice de ces dispositions peuvent, si elles remplissent certaines conditions d'activité antérieure et de ressources, percevoir l'allocation de solidarité spécifique. Cette allocation est accordée par périodes de six mois renouvelables ou, pour les bénéficiaires d'une dispense de recherche d'emploi, pour une durée indéterminée.Pour les personnes qui continuent à remplir l'ensemble des conditions requises, elles est versée jusqu'au moment où, à partir de soixante ans, ces personnes justifient de 150 trimestres validés au titre de l'assurance vieillesse ou au plus tard jusqu'à soixante-cinq ans. Cette allocation est majorée pour les allocataires âgés de cinquante-cinq ans ou plus et justifiant de vingt ans d'activité salariée ainsi que pour les allocataires âgés de cinquante-sept ans et demi et justifiant de dix ans d'activité salariée. Depuis le 1er juillet 1992, le montant journalier de l'allocation simple est fixé à 71,98 francs et celui de l'allocation majorée à 103,38 francs.
