@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980608869
+
+- Question : [SEQ980608869](seq980608869.md) — Statut juridique des commissions syndicales forestières
+
+## Réponse
+
+*Intérieur, JO du 1998-12-03, page 3873*
+
+Réponse. - La commission syndicale d'une section de commune n'a pas la personnalité juridique car elle est un simple organe de gestion de cet organisme et il n'y a pas de régime spécial en matière forestière. Elle ne peut donc être affiliée au centre départemental de gestion. Ses attributions limitativement énumérées aux articles L. 2411-6, L. 2411-7, L. 2411-8, L. 2411-11, L. 2411-15, L. 2411-18 et L. 2412-1 du code général des collectivités territoriales ne prévoient pas de pouvoir en matière de personnel. Ce dernier relève de la compétence de droit commun du conseil municipal, conformément à l'article L. 2411-2 du code précité. Le conseil municipal recrute et gère le personnel travaillant dans le cadre de la section de commune, même s'il est directement affecté au fonctionnement de la commission syndicale. Cependant, la commission syndicale est appelée à donner son avis sur l'emploi des revenus en espèces de la section (art. L. 2411-7). Ceux-ci ne peuvent être employés que dans l'intérêt des membres de la section (art. L. 2411-10). En cas de désaccord avec le conseil municipal, il est statué par arrêté motivé du représentant de l'Etat dans le département. Par ailleurs, l'article L. 2412-1 précité prévoit que la commission syndicale établit le projet de budget qui est ensuite voté par le conseil municipal. D'après la jurisprudence récente du Conseil d'Etat (14 janvier 1998 - Commune d'Andilly), ce dernier peut seulement refuser de le voter. Il en résulte que si la commission syndicale n'a pas l'initiative ni la compétence en matière de personnel, elle n'est cependant pas dépourvue de tout moyen.
