@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860902685
+
+- Question : [SEQ860902685](seq860902685.md) — Coût de la rentrée scolaire
+
+## Réponse
+
+*Éducation, JO du 1986-11-20, page 1625*
+
+Réponse. -Il convient d'abord d'observer que les organisations de consommateurs incluent dans le coût de la rentrée scolaire différents types de dépenses dont certaines, comme les frais d'habillement, ne sont que très indirectement reliées à la scolarisation des enfants. Aussi bien faut-il distinguer, dans l'aide apportée aux familles, celles qui relèvent de la compétence générale du ministère des affaires sociales et de l'emploi, et celles spécifiques accordées par tel ou tel département ministériel pour un objet déterminé. C'est ainsi que les caisses d'allocations familiales versent aux familles bénéficiaires d'une prestation familiale une allocation de rentrée scolaire pour chaque enfant inscrit en exécution de l'obligation scolaire dans un établissement ou organisme d'enseignement public ou privé. Le ministère de l'éducation nationale n'accorde, quant à lui, d'aide que lorque les enfants sont scolarisés dans le second degré ou dans l'enseignement supérieur.S'il est vrai que le montant de la bourse est faible dans le premier cycle, il faut remarquer qu'à ce niveau les frais le sont aussi puisque toutes les familles bénéficient de la gratuité des manuels, et un grand nombre d'entre elles de l'allocation de rentrée scolaire. Par contre, dans les seconds cycles, les bourses atteignent un montant substantiel, allant jusqu'à atteindre 6 411 francs pour certains niveaux de scolarité dans l'enseignement professionnel. L'aide est encore plus élevée pour l'enseignement supérieur. L'aide du ministère de l'éducation nationale vise en effet à inciter les familles les plus modestes à poursuivre la scolarisation de leurs enfants au-delà de l'obligation scolaire.
