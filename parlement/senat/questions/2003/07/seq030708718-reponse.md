@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030708718
+
+- Question : [SEQ030708718](seq030708718.md) — Traitement préventif de l'ostéoporose
+
+## Réponse
+
+*Santé, JO du 2004-01-22, page 190*
+
+L'attention du ministre de la santé, de la famille et des personnes handicapées est attirée sur la prise en charge des examens de mesure de la densité minérale osseuse pour des personnes menacées d'ostéoporose. L'Agence nationale d'accréditation et d'évaluation en santé (ANAES) a été récemment amenée à actualiser ses rapports de 1991 et 1998 sur les indications cliniques et techniques de l'acte de mesure de la densité minérale osseuse pour des personnes menacées d'ostéoporose. Les recommandations ne concluent pas à la nécessité d'un dépistage systématique de l'ostéoporose mais proposent plutôt de cibler les méthodes diagnostiques sur des personnes présentant des facteurs de risques particuliers, notamment les femmes ménopausées et les sujets traités par corticoïdes. Dans l'attente de disposer de preuves scientifiques sur l'efficacité de la mesure de la densité minérale osseuse, l'ANAES propose de limiter la prise en charge à certaines indications spécifiques, et notamment à l'existence d'une pathologie ou d'un traitement connu pour induire une ostéoporose secondaire. L'actuelle nomenclature générale des actes professionnels ne permet pas de soumettre le remboursement d'un acte à certaines indications médicales. Cependant, la loi de financement de la sécurité sociale pour 2004 prévoit une disposition visant à rendre désormais possible la prise en charge de tels actes, sous réserve toutefois du respect de certaines indications thérapeutiques ou de critères relatifs à l'état du patient. C'est dans ce nouveau cadre que se situera l'inscription de l'acte d'ostéodensitométrie, dont les indications précises de remboursement sont en cours d'étude.
