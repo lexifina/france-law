@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960616215
+
+- Question : [SEQ960616215](seq960616215.md) — Fabrication et délivrance des nouvelles cartes d'identité
+
+## Réponse
+
+*Intérieur, JO du 1996-08-08, page 2073*
+
+Réponse. - La carte nationale d'identité a été créée par le décret no 55-1397 du 22 octobre 1955 à l'effet de certifier l'identité de son titulaire. Dans ce but, l'article 4 de ce décret prévoit que ce document est délivré sur présentation d'extraits authentiques d'actes de l'état civil et l'arrêté ministériel du 24 avril 1991 pris en application de cette disposition indique la nature des pièces d'état civil à produire pour la délivrance de la carte nationale d'identité : l'extrait d'acte de naissance du demandeur comportant l'indication de la filiation de celui-ci ou son livret de famille ou celui des parents. L'extrait d'acte de naissance du demandeur ou, à défaut, le livret de famille, constitue donc le document essentiel pour la délivrance de la carte nationale d'identité. En outre, dans la très grande majorité des cas, c'est à partir de la lecture de l'extrait d'acte de naissance qu'il est possible d'apprécier la nationalité française des demandeurs. La mise en place d'une nouvelle carte, beaucoup mieux protégée contre les falsifications que l'ancien modèle, s'inscrit dans une politique plus générale de lutte contre les fraudes à l'identité. Il est donc nécessaire que sa première délivrance soit subordonnée à la production de justificatifs incontestables. En conséquence, il ne peut être envisagé, comme le suggère l'honorable parlementaire, de supprimer dans le cadre de mesures de simplification administrative l'exigence de ce document à l'occasion des premières demandes de cartes nationales d'identité sécurisées. En revanche, au moment du renouvellement de ces cartes, la production de l'ancienne carte sécurisée périmée dispensera en règle générale les demandeurs de produire les pièces d'état civil prévues par la réglementation en vigueur.
