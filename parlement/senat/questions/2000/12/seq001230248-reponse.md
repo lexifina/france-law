@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001230248
+
+- Question : [SEQ001230248](seq001230248.md) — Résultats agricoles pour l'an 2000
+
+## Réponse
+
+*Agriculture, JO du 2001-04-26, page 1426*
+
+Réponse. - L'attention du ministre de l'agriculture et de la pêche a été appelée sur les orientations du Gouvernement pour l'agriculture française. Tout d'abord, lors des négociations de l'Agenda 2000, le Gouvernement s'est attaché à préserver le revenu des agriculteurs pour les années à venir, en donnant la priorité aux secteurs apparaissant comme les plus fragiles. Ainsi, dans le cadre des accords de Berlin, la priorité à l'élevage allaitant a de nouveau été reconnue. De même, la France a uvré pour l'instauration d'un deuxième pilier de la politique agricole commune, le développement rural. En France, dans ce contexte communautaire, de façon à consolider le modèle agricole français et à prévenir les crises, le Gouvernement a proposé au Parlement une nouvelle loi d'orientation agricole promulguée le 9 juillet 1999. Celle-ci vise à promouvoir une agriculture multifonctionnelle qui prend en compte les fonctions économiques, environnementales et sociales de l'agriculture et participe à l'aménagement du territoire en vue d'une agriculture durable. Cette agriculture doit répondre aux attentes de la société, promouvoir des productions de qualité tout en respectant l'environnement et en assurant la vitalité des territoires. Un outil a été développé pour aller dans ce sens, il s'agit du contrat territorial d'exploitation. Il doit permettre d'accompagner l'agriculteur vers une meilleure valorisation de ses pratiques agroenvironnementales en cohérence avec les enjeux de territoire et son projet individuel. Ces nouvelles orientations et ces nouveaux outils doivent permettre à l'agriculture française à taille humaine de se maintenir et de continuer à allier compétitivité, respect de l'environnement et vitalité des territoires.
