@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861203697
+
+- Question : [SEQ861203697](seq861203697.md) — Distribution de l'essence sans plomb
+
+## Réponse
+
+*Industrie, JO du 1987-02-12, page 218*
+
+Réponse. -Le conseil de la Communauté économique européenne a adopté le 20 mars 1985 une directive concernant le rapprochement des législations des Etats membres relatives à la teneur en plomb de l'essence. Cette directive prévoit notamment l'introduction d'au moins une qualité d'essence sans plomb sur le territoire des Etats membres de la Communauté de manière obligatoire à partir du 1er octobre 1989 et de façon optionnelle avant cette date. La République fédérale allemande et la Suisse, notamment, ont précédé le calendrier adopté par les autres pays européens. En France, la vente de véhicules exigeant du carburant sans plomb ne devrait pas débuter avant octobre 1989. Jusqu'à cette échéance, les ventes de ce produit ne correspondront qu'aux besoins des touristes étrangers. Actuellement, quatre-vingt-dix stations-service, situées sur les principaux axes routiers empruntés par les touristes étrangers, distribuent du supercarburant sans plomb. Les ventes totales de ce carburant en 1986 s'élèveraient environ à 1 600 mètres cubes. Des difficultés de ravitaillement sont apparues dans certaines régions et notamment en Bretagne au cours de l'été dernier. Malgré le caractère limité de la demande, les conséquences sur l'activité touristique de la distribution d'essence sans plomb ne peuvent être ignorées. C'est la raison pour laquelle les services du ministère de l'industrie, des P. et T. et du tourisme, en concertation avec les sociétés pétrolières, étudient actuellement les possibilités d'améliorer le maillage du réseau distribuant ce produit et l'information des touristes étrangers. Une centaine de nouveaux points de vente sont ainsi susceptibles d'être installés avant l'été 1987.
