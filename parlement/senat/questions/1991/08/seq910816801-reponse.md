@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910816801
+
+- Question : [SEQ910816801](seq910816801.md) — Personnels enseignants résidents des établissements de l'agence pour l'enseignement français à l'étranger : recrutements parallèles
+
+## Réponse
+
+*Affaires étrangères, JO du 1992-01-30, page 244*
+
+Réponse. - A l'occasion de la rentrée scolaire 1990, des recrutements d'agents titulaires de la fonction publique sur des contrats locaux de dix mois ont été effectués, dans la plupart des cas à l'initiative des organismes gestionnaires et à l'insu du service de l'enseignement français à l'étranger, qui s'est donc vu confronté à une situation de fait. Depuis sa création, l'agence pour l'enseignement français à l'étranger s'est donné les moyens nécessaires pour régler tous les cas qui lui ont été soumis. En effet, les quelque dizaines d'agents titulaires recrutés sur contrat de dix mois en septembre 1990 bénéficieront d'un emploi de résident dès la rentrée scolaire 1991. Sur un plan général, il paraît utile de rappeler que les postes de résidents sont des emplois développés, dûment inscrits au budget de l'agence. Leur nombre étant intangible pour la durée d'un exercice budgétaire, l'agence n'a pas la possibilité de créer, hors du contingent global de postes ainsi fixé, de nouveaux emplois de résidents pour satisfaire un établissement qui aurait décidé d'engager un enseignant titulaire sans accord préalable. En tout état de cause, l'agence pour l'enseignement français à l'étranger ne favorise d'aucune manière ce type de recrutement, pour lequel elle n'est pas en mesure de donner des assurances formelles quant aux délais de régularisation administrative. Tous les établissements français de l'étranger ont été avertis des préjudices qu'ils pourraient faire courir aux nouveaux enseignants recrutés selon cette procédure à compter des prochaines rentrées.
