@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960917364
+
+- Question : [SEQ960917364](seq960917364.md) — Répression de l'incitation aux troubles de l'ordre public et à la violence en Corse
+
+## Réponse
+
+*Premier ministre, JO du 1996-10-31, page 2837*
+
+Réponse. - Le Premier ministre a l'honneur d'indiquer à l'honorable parlementaire que la provocation aux crimes et délits commise par voie de presse ou tout autre moyen de publication est incriminée par les articles 23 et 24 de la loi du 29 juillet 1881. Non suivie d'effet, une telle provocation n'est punissable que si elle tend directement à la commission des infractions limitativement énumérées par l'article 24 de la loi du 29 juillet 1881 au rang desquelles figurent notamment les destructions, dégradations et détériorations dangereuses pour les personnes définies par le Livre III du code pénal ainsi que les actes de terrorisme prévus par le titre II du Livre IV. A cet égard, la jurisprudence exige, d'une part, que, par sa signification, l'expression orale ou écrite incriminée dévoile l'intention certaine et véritable de l'auteur à provoquer et, d'autre part, que, par ses termes mêmes, elle incite à commettre un fait constituant l'infraction spécifiée en fournissant des indications et des précisions suffisantes sur l'acte à accomplir (temps, lieu, personne le cas échéant). Or, force est de constater que les déclarations auxquelles pourrait éventuellement faire référence l'honorable parlementaire ne paraissent pas répondre à ces exigences légales et jurisprudentielles dès lors qu'elles ne visaient pas directement à la commission de faits matériellement déterminés et que l'intention réelle de leurs auteurs pouvait donner lieu à interprétation. En tout état de cause, le Premier ministre tient, s'il en était besoin, à assurer l'honorable parlementaire de la ferme détermination du Gouvernement à rétablir la paix publique en Corse, détermination illustrée notamment pas les multiples interpellations opérées récemment.
