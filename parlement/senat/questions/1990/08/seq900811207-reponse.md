@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900811207
+
+- Question : [SEQ900811207](seq900811207.md) — Suppression des commissariats de police dans les villes de moins de 15 000 habitants
+
+## Réponse
+
+*Intérieur, JO du 1991-01-17, page 114*
+
+Réponse. - Les évolutions démographiques, économiques et sociologiques intervenues au cours des dernières décennies sur l'ensemble du territoire national ont fait apparaître la nécessité d'adapter la répartition des compétences et des implantations territoriales des forces de police et de gendarmerie aux nouvelles exigences de la sécurité publique. Aussi, le Gouvernement a-t-il décidé, dans le souci d'améliorer l'efficacité du service public dans la lutte contre la délinquance, d'adapter la carte de leurs zones d'action respectives. Conformément à ces orientations, un groupe de travail réunissant des représentants des deux directions générales est chargé de rechercher, de définir et proposer des critères objectifs tenant compte de l'importance démographique des communes, de la notion d'unité urbaine et de l'homogénéité de leurs zones d'intervention. L'honorable parlementaire peut être assuré de ce que l'Etat continuera, quel que soit le service chargé des tâches desécurité publique sur ces communes, d'assumer sa mission essentielle de protection des personnes et des biens. En effet, il est bien évident que tout désengagement de la police qui pourrait résulter de l'application des critères ainsi retenus sera compensé simultanément par une prise en compte des missions par la gendarmerie, et réciproquement à la périphérie d'un certain nombre de grandes agglomérations. En tout état de cause, la mise en oeuvre d'une telle procédure sera précédée d'une très large concertation, notamment avec les élus locaux et les représentants des personnels de la police, à l'initiative des préfets.
