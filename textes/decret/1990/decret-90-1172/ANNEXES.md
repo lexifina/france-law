@@ -198,7 +198,7 @@ POPULATION
 
 (sans doubles comptes dans la population comptée à part)
 
-1 595 081
+1 595 109
 
 NUMERO 72
 
@@ -310,7 +310,7 @@ POPULATION
 
 (sans doubles comptes dans la population comptée à part)
 
-249 737
+250 371
 
 NUMERO 01
 
@@ -670,7 +670,7 @@ NUMERO : 2 A
 
 DEPARTEMENT : Corse-du-Sud
 
-POPULATION : 118 174
+POPULATION : 118 808
 
 (sans doubles comptes dans la population comptée à part).
 
@@ -1742,7 +1742,7 @@ NUMERO : 86
 
 DEPARTEMENT : Vienne
 
-POPULATION : 379 977
+POPULATION : 380 005
 
 (sans doubles comptes dans la population comptée à part).
 
@@ -1960,11 +1960,11 @@ POPULATION : 597 823
 
 - TOTAL Communes : 36 664
 
-- TOTAL POPULATION : 58 073 553
+- TOTAL POPULATION : 58 074 215
 
 (sans doubles comptes dans la population comptée à part).
 
-- dont métropole : 56 614 493
+- dont métropole : 56 615 155
 
 - dont départements d'outre-mer 1 459 060
 
