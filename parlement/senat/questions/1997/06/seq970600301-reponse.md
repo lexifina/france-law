@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970600301
+
+- Question : [SEQ970600301](seq970600301.md) — Refus de transmission d'information par l'association agréée pour l'étude et la surveillance de la pollution de l'air dans le Nord lorrain
+
+## Réponse
+
+*Aménagement du territoire, JO du 1997-12-25, page 3630*
+
+Réponse. - Mme la ministre de l'aménagement du territoire et de l'envisonnement est très sensible à la question touchant au droit à l'information du public. Aussi, les associations agréées pour l'étude et la surveillance de la qualité de l'air doivent, incontestablement, assurer la diffusion permanente vers les citoyens des résultats des mesures de la qualité de l'air. Dans la mesure où cela n'entraîne pas de charge excessive de traitement des informations stockées, il est par ailleurs souhaitable que l'association communique des bilans des mesures passées à toute personne qui en ferait la demande. Le projet de décret relatif à l'agrément des organismes de surveillance de la qualité de l'air reprend cette obligation d'information du public. Les autres conditions d'agrément prévues dans ce projet sont principalement l'obligation d'une structure quadripartite, Etat, collectivité, industriels et associations de protection de l'environnement ainsi que l'obligation de garantir la qualité des mesures effectuées. Ces organismes agréés bénéficient de subventions de l'Etat, soit directement, soit par le biais de l'agence de l'environnement et de la maîtrise de l'énergie (ADEME), de contributions volontaires ou de dons de toute nature des collectivités et des industriels qui font partie du conseil d'administration. Les associations de surveillance bénéficient aussi de crédits provenant de la taxe parafiscale sur la pollution atmosphérique. Lorsque l'organisme ne respecte pas les conditions qui lui incombent, notamment en matière d'information du public, l'agrément peut être suspendu ou abrogé.
