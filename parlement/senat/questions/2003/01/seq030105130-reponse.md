@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030105130
+
+- Question : [SEQ030105130](seq030105130.md) — Certificats de nationalité : conditions de retrait par les administrations
+
+## Réponse
+
+*Affaires étrangères, JO du 2003-02-27, page 689*
+
+Les articles 30 et 31-2 du code civil disposent que le certificat de nationalité française fait foi jusqu'à preuve du contraire. Dès lors, les instructions données à nos postes consulaires précisent qu'un certificat de nationalité française doit être considéré comme valable jusqu'à son annulation judiciaire et sans limitation de durée. Lorsque, sur présentation d'un certificat de nationalité française ancien, le consul estime que des événements sont survenus dans la situation juridique du demandeur (indépendance de son territoire d'origine, acquisition d'une nationalité étrangère, par exemple) de nature à induire un doute sérieux sur sa situation actuelle au regard de la nationalité française, il peut demander la production d'un nouveau certificat de nationalité française, sans pour autant retirer l'ancien. Les postes consulaires sont tenus de notifier à leurs destinataires les certificats de nationalité française qui sont établis par les greffiers en chef des tribunaux d'instance et qui leur sont adressés. Si éventuellement ils estiment que certains certificats sont erronés ou établis sur la base de documents frauduleux, ils ont pour instruction de saisir le ministère de la justice d'une demande d'annulation judiciaire, sur la base d'une copie du certificat en cause, et d'en informer l'intéressé. Le certificat de nationalité française original ne peut être retiré qu'après annulation par le tribunal de grande instance et sur demande du ministère de la justice. Cependant, il peut arriver que la notification de certains certificats de nationalité française soit retardée par les difficultés rencontrées par les consulats pour établir de façon certaine l'identité du destinataire.
