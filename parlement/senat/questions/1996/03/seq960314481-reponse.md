@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960314481
+
+- Question : [SEQ960314481](seq960314481.md) — Poursuite des essais nucléaires en Russie
+
+## Réponse
+
+*Défense, JO du 1996-04-25, page 1009*
+
+Réponse. - Le Washington Times, puis Le Figaro ont repris une déclaration du secrétaire à la défense américain William Perry qui a indiqué, début mars, devant le Congrès américain, que les Etats-Unis disposaient " d'éléments de preuve " permettant de supposer que la Russie avait procédé en janvier à un essai nucléaire, tout en reconnaissant l'existence d'une " ambiguïté dans la preuve ". En effet, une activité anormale sur le site de la Nouvelle Zemble a bien été détectée à la mi-janvier par les services américains. Toutefois pour l'instant, rien ne prouve qu'il se soit agi d'un essai nucléaire souterrain. Ce site, fermé en 1991, a été rouvert un an plus tard par le Président Boris Eltsine dans l'éventualité d'une reprise des essais nucléaires russes, mais la Russie observe depuis 1992 un moratoire sur ces essais. Par ailleurs, l'Agence internationale de l'énergie atomique a fait connaître, le 18 mars 1996, qu'elle n'avait pas d'éléments pour confirmer ou infirmer les soupçons du Pentagone. Le même jour, devant la commission du désarmement à Genève, le secrétaire d'Etat américain, Warren Christopher, a indiqué que " les Etats-Unis considèrent que la Russie respecte le moratoire qu'elle s'est imposé depuis 1992 ". De son côté, le ministre russe des affaires étrangères a déclaré que " la rumeur ne correspond pas à la réalité ", ce qui ne constitue toutefois pas un démenti formel. Membre de la conférence sur le désarmement, la Russie est active dans les négociations actuelles sur le traité d'interdiction complète des essais nucléaires (CTBT). Néanmoins, elle tarde à adopter officiellement l'interdiction de toute explosion nucléaire quel qu'en soit le niveau, dite " option zéro ", retenue par la France, les Etats-Unis et le Royaume-Uni.
