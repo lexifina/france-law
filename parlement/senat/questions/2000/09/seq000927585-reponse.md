@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000927585
+
+- Question : [SEQ000927585](seq000927585.md) — Fonds de garantie en assurance dommages
+
+## Réponse
+
+*Économie, JO du 2001-01-18, page 170*
+
+Réponse. - Les pouvoirs publics, conscients de la gravité de la situation que peut poser pour les assurés la défaillance des entreprises d'assurance de dommages, étudient, en liaison avec les professions concernées, les solutions susceptibles d'être trouvées dans de telles circonstances. Ces solutions seront destinées à garantir les droits des assurés, notamment des personnes physiques, assurés et tiers, dépourvus de couverture à la suite de la défaillance d'une entreprise d'assurance. Parmi les solutions struturelles envisagées, les services du ministère de l'économie, des finances et de l'industrie étudient actuellement les conditions techniques de création d'un fonds de garantie en assurance de dommages. A ce stade de la concertation avec les professionnels, il a été possible de dégager des solutions techniques visant à améliorer la protection des assurés en instituant un filet de sécurité minimal pour les " assurés dommages " sur le modèle du fonds de garantie des dépôts bancaires, du fonds pour défaillance des cautions obligatoires et du " fonds vie ". Le fonds dommages vise également à l'efficacité du contrôle prudentiel. Il n'est bien entendu pas question d'introduire un mécanisme qui ne puisse être maîtrisé financièrement. Il n'est pas question non plus de déresponsabiliser les clients " avertis ", notamment les entreprises, dans le choix de leur assureur. Le fonds dommages sera donc limité dans son champ géographique, dans ses montants d'intervention et dans les risques couverts, comme cela est le cas pour les fonds de garantie existant chez nos partenaires. Ce projet devra faire l'objet de dispositions législatives qui seront prochainement soumises à la représentation nationale.
