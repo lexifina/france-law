@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960314304
+
+- Question : [SEQ960314304](seq960314304.md) — Respect des réglementations par les sociétés de transport routier d'hydrocarbures
+
+## Réponse
+
+*Équipement, JO du 1996-05-23, page 1270*
+
+Réponse. - Pour assurer le respect de la législation il est procédé notamment à des contrôles sur route et en entreprise. Le bilan des contrôles effectués lors de plans de contrôle, par les différents corps concernés (gendarmerie, police, contrôleurs des transports terrestres, service des douanes) au cours de l'année 1993 (dernières statistiques annuelles détaillées connues) se résume comme suit : nombre de véhicules contrôlés sur route, 333 723, dont véhicules transportant des matières dangereuses, 25 178 ; nombre d'infractions à la réglementation sociale, 39 705 ; nombre d'infractions au code de la route, 23 341 ; nombre d'infractions à la réglementation " matières dangereuses ", 2 645. En outre, des contrôles relatifs à la réglementation sociale, effectués au siège de 4 532 entreprises, ont permis de contrôler 353 517 journées de travail, correspondant à 23 167 conducteurs et ont fait l'objet de 18 058 procès verbaux d'infraction. Par ailleurs, un arrêté du 29 février 1996 a modifié l'arrêté du 19 mai 1987, relatif aux documents devant se trouver à bord des véhicules de transport routier de marchandises ; la feuille de route actuellement en vigueur est remplacée par une lettre de " voiture-transports de lots ", qui comprend diverses mentions à compléter par le transporteur, notamment celles relatives aux horaires de chargement et de déchargement. Le nouveau document peut tenir lieu d'ordre de mission dans les conditions prévues par l'arrêté du 6 janvier 1993. Ces nouvelles mesures clarifient les différents points évoqués relatifs à l'application des textes concernant les temps de travail et de repos et devraient permettre d'en faciliter le contrôle.
