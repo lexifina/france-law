@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020339061
+
+- Question : [SEQ020339061](seq020339061.md) — Réalisation du projet de constitution d'une banque de données multilingues de traduction
+
+## Réponse
+
+*Affaires étrangères, JO du 2002-05-02, page 1228*
+
+A la demande du service d'information du Gouvernement, le ministère des affaires étrangères, a pris la responsabilité d'un groupe interministériel pour étudier les solutions qui pouvaient permettre aux administrations de l'Etat de répondre à l'accroissement considérable de la demande de traductions engendrée par la croissance soutenue de moyens de communication et de l'internet en particulier. A l'issue des travaux de ce groupe, ce ministère a réuni à plusieurs reprises des représentants des départements ministériels disposant d'implantations à l'étranger ou de services ayant un intérêt marqué pour les questions internationales et confié l'évaluation des besoins à un cabinet d'audit spécialisé. Au vu des conclusions de cette étude, le ministère s'est porté chef de file du projet qui est aujourd'hui mis en oeuvre. Ainsi, grâce à une subvention de 1 MF du Fonds de modernisation de l'Etat (FRE), des licences d'utilisation d'un outil d'aide à la traduction automatique ont été acquises fin 2001, qui seront mises en place tant à l'administration centrale que dans plusieurs postes du réseau diplomatique spécifiquement chargés de la traduction de documents d'actualité. Ces logiciels doivent être mis en réseau pour que l'opération puisse effectivement débuter. Compte tenu des contraintes qui pèsent actuellement sur les services techniques du ministère, cette phase est retardée. Dès que le système aura été mis en place, le ministère des affaires étrangères s'efforcera de tirer les conclusions et, sur la base de l'expérience acquise, une reprise des travaux du groupe sera envisagée pour évaluer l'intérêt d'étendre à d'autres partenaires la mutualisation des outils mis en place.
