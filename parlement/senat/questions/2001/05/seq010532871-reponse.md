@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010532871
+
+- Question : [SEQ010532871](seq010532871.md) — Financement de l'archéologie
+
+## Réponse
+
+*Culture, JO du 2001-08-23, page 2716*
+
+La loi du 17 janvier 2001 relative à l'archéologie préventive ne comporte pas de disposition particulière concernant le financement de la recherche archéologique programmée. Cela n'a rien de particulièrement surprenant : bien que partageant le champ de la recherche archéologique avec la recherche archéologique programmée, la recherche archéologique préventive, discipline scientifique, assure une fonction économique spécifique ; les contraintes qui lui sont imposées justifient un mode de financement également spécifique. Il n'est pas exact que les moyens de financement publics provenant du ministère de la culture et destinés aux opérations ne dépendant pas du domaine de l'archéologie préventive diminuent d'année en année : de 1994 à 2000, le montant des subventions pour fouilles programmées est passé de près de 15 MF à plus de 20 MF. Il est vrai que dans cet ensemble il faut distinguer deux composantes. La première bénéficie des subventions imputées sur le chapitre 66-98 et correspond aux opérations les plus nombreuses. Elle a progressé moins vite que la seconde qui reçoit des subventions imputées sur le chapitre 66-20 : s'y manifestent spécialement des engagements particulièrement forts de collectivités qui assurent la fonction de maître d'ouvrage. La ministre de la culture et de la communication est par ailleurs attentive aux échos des difficultés rencontrées par les responsables d'opérations de recherche archéologique du fait de l'application du décret du 16 décembre 1999 relatif aux subventions de l'Etat pour des projets d'investissement. En relation avec son collègue de l'économie, des finances et de l'industrie, elle cherche à y porter remède.
