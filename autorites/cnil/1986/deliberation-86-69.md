@@ -1,0 +1,15 @@
+# Délibération portant avis sur un projet de décret présenté par le Ministre de l'Agriculture et relatif à la communication des informations concernant les structures des exploitations figurant dans les fichiers de la Mutualité Sociale Agricole
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 86-69
+- Date : 1986-06-03
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017654593
+
+La Commission Nationale de l'Informatique et des Libertés, Vu la Convention du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ; Vu la loi n° 78-17 du 6 Janvier 1978 et notamment son article 15 ; Vu le décret n° 78-774 du 17 Juillet 1978 et notamment son article 1er ; Vu la loi n° 84-741 du 1er Août 1964 et notamment son article 7 ; Vu le code rural ; Vu le projet de décret présenté par le Ministre de l'Agriculture et relatif à la communication des informations concernant les structures des exploitations figurant dans les fichiers de la Mutualité Sociale Agricole ; Après avoir entendu Monsieur Roland CADET en son rapport et Madame Charlotte-Marie PITRAT, Commissaire du Gouvernement, en ses observations ;
+
+Considérant qu'aux termes de l'article 188-5 du code rural : "les informations concernant les structures des exploitations figurant dans les fichiers de la Mutualité Sociale Agricole et nécessaires au contrôle des structures prévu par la loi n° 84-741 du 1er Août 1984 sont communiquées, annuellement ou sur sa demande, au représentant de l'Etat dans le Département" ; Considérant que ces dispositions législatives autorisent les caisses de Mutualité Sociale Agricole à fournir les données relatives aux exploitations agricoles et nécessaires au contrôle des structures figurant dans leurs fichiers informatisés ; Considérant que la communication de ces informations est indispensable à l'examen des demandes d'autorisation d'exploiter prévues par l'article 188-2 du Code Rural et qui sont soumises à la décision des Préfets après avis de la Commission départementale des structures agricoles et au contrôle du respect des dispositions de la loi susvisée du 1er Août 1984 pour ce qui concerne les structures des exploitations ; Considérant néanmoins que la transmission par les caisses de Mutualité Sociale Agricole des données précitées, nécessite la présentation de déclarations de modification incluant les Préfets au nombre des destinataires des traitements concernés précédemment déclaré à la Commission Nationale de l'Informatique et des Libertés ; Considérant que toute exploitation automatisée par les Directions Départementales de l'Agriculture des données ainsi fournies, devra faire l'objet au préalable d'une demande d'avis auprès de la Commission et qu'elles ne pourront être traitées à d'autres fins que celles résultant des dispositions de la loi n° 84-741 du 1er Août 1984 ;
+
+Compte tenu de ces observations, émet un AVIS FAVORABLE au projet de décret qui lui est soumis. Le Président, Jacques FAUVET.
