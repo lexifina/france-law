@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870204627
+
+- Question : [SEQ870204627](seq870204627.md) — Campagne publicitaire pour la privatisation de Paribas
+
+## Réponse
+
+*Économie, JO du 1987-04-09, page 540*
+
+Réponse. -L'opération de privatisation de la Compagnie financière de Paribas a remporté un succès considérable, puisque 3 804 834 particuliers se sont portés acquéreurs d'actions de la société à l'occasion de l'offre publique de vente. En raison de ce succès, et conformément à l'article 4 du décret n° 86-1140 du 24 octobre 1986 pris pour l'application de la loi n° 86-912 du 6 août 1986 relative aux modalités d'application des privatisations, seuls les ordres prioritaires des particuliers ont pu être servis et ils ont dû être réduits à hauteur de quatre titres par personne. Aucun ordre émanant d'investisseurs institutionnels n'a donc pu être servi. Bien entendu, les avantages prévus par la loi en faveur des petits porteurs - attibution d'une action gratuite pour dix actions acquises et conservées pendant dix-huit mois - sont maintenus, à proportion des titres effectivement reçus. Ainsi, les particuliers servis à hauteur de quatre actions auront-ils droit,le cas échéant, à quatre dixièmes d'action gratuite. A aucun moment, la campagne de publicité n'a annoncé d'autres avantages que ceux prévus par la loi. Cette campagne de publicité a été assurée par l'agence Eurocom, qui a été choisie et rémunérée par la Compagnie financière de Paribas. L'ensemble des réseaux et des intermédiaires qui ont assuré le placement auprès du grand public des titres Paribas, sous la forme d'une offre publique de vente, ont perçu, d'une part, les commissions qui sont d'usage pour une telle opération et, d'autre part, une commission forfaitaire de placement en couverture des frais de gestion liés au traitement des ordres émanant de millions de petits porteurs.
