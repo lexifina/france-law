@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000726618
+
+- Question : [SEQ000726618](seq000726618.md) — Conditions de préfinancement du programme européen Leader-Gentiane en Auvergne
+
+## Réponse
+
+*Aménagement du territoire, JO du 2000-10-05, page 3382*
+
+Réponse. - La ministre de l'aménagement du territoire et de l'environnement a pris connaissance avec intérêt, de la question relative au préfinancement du solde de 20 % des crédits du programme européen Leader-Gentiane. Comme il est souligné, la réglementation communautaire des fonds structurels pour la période 1994-1999 prévoit effectivement que les avancs communautaires ne doivent pas excéder 80 % des crédits d'intervention d'un programme. Le paiement du solde intervient sur présentation d'un rapport, au plus tard dans les six mois qui suivent la clôture des paiements, la date limite de clôture des paiements étant fixé au 31 décembre 2001. Ces dispositions s'appliquent de plein droit aux programmes régionalisés Leader II. Toutefois, en vue d'accélérer le paiement du solde par la commission, il est possible - dès lors que les opérations d'une région sont clôturées - de transmettre la demande de solde accompagnée d'un rapport aux services de la commission, sans attendre la date du 31 décembre 2001. Dans l'attente de ce versement, il est effectivement nécessaire de préfinancer les dépenses engagées, aucune disposition budgétaire particulière n'ayant été prise à ce jour. Néanmoins, pour les maîtres d'ouvrage ne disposant pas d'une trésorerie suffisante, une circulaire de la délégation à l'aménagement du territoire et à l'action régionale (DATAR) en date du 2 juillet 1999 a encouragé les préfets de région à utiliser, autant que possible, la souplesse liée à la " fongibilité " des crédits de paiement afin d'assurer le paiement prioritaire de certaines actions.
