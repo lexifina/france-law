@@ -8,4 +8,4 @@ Lorsqu'une société agréée visée à l'article 209 quinquies du code généra
 
 La fraction non distribuée de ce bénéfice ;
 
-Ou le montant obtenu en appliquant à ce même bénéfice un pourcentage égal à IF/IS ; à cet égard, IS est égal à la dette d'impôt sur les sociétés, au taux de 50 % , pour l'exercice considéré ; IF est la part de cette dette qui a été acquittée sans utilisation des crédits mentionnés à l'article 122 de l'annexe II au code général des impôts.
+Ou le montant obtenu en appliquant à ce même bénéfice un pourcentage égal à IF/IS ; à cet égard, IS est égal à la dette d'impôt sur les sociétés, au taux normal prévu au deuxième alinéa du I de l'article 219 du code général des impôts, pour l'exercice considéré ; IF est la part de cette dette qui a été acquittée sans utilisation des crédits mentionnés à l'article 122 de l'annexe II au code précité.
