@@ -128,7 +128,7 @@ Pont de Beauvoir.
 
 |
 
-Département des Côtes-du-Nord
+Département des Côtes-d'Armor
 
 |
 
