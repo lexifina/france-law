@@ -1,13 +1,7 @@
 # Article 13 bis
 
-Peuvent être promus au grade de directeur d'établissement de tri postal ou de directeur d'établissement de télécommunications, au choix, les fonctionnaires des postes et télécommunications titulaires de l'un des grades ci-dessous :
+Les receveurs et chefs de centre de 1re classe âgés de cinquante-neuf ans au 1er janvier de l'année au titre de laquelle le tableau d'avancement est établi peuvent après inscription audit tableau être nommés sans changement d'affectation au grade de receveur ou chef de centre hors classe dans la limite de 10 % de l'effectif budgétaire de ce grade. Ils doivent dans l'année qui suit occuper une fonction correspondant à leur grade.
 
-Administrateur de 1re classe ayant atteint le 5e échelon.
+NOTA :
 
-Directeur départemental adjoint ayant atteint le 2e échelon ;
-
-Attaché principal d'administration centrale de 1re classe ayant atteint le 2e échelon ;
-
-Receveur ou chef de centre de classe exceptionnelle ayant atteint le 2e échelon.
-
-Les dispositions des articles 15 et 16 ci-après sont applicables pour l'accès au grade de directeur d'établissement.
+Décret n° 2000-518 du 13 juin 2000 art. 1 : les dispositions du décret n° 58-776 du 25 août 1958 sont abrogées en ce qu'elles concernent les directeurs d'établissement de tri postal, les directeurs d'établissement des télécommunications et les receveurs et chefs de centre hors série.
