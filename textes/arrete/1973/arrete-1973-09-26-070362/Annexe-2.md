@@ -10,7 +10,7 @@ Dictée du niveau du brevet d'études du premier cycle de l'enseignement du seco
 
 III - Arithmétique et mathématiques.
 
-A - Problèmes ou exercices d'arithmétique.
+A - Arithmétique :
 
 Addition, soustraction, multiplication, division des nombres entiers, décimaux et complexes ; fractions ordinaires et décimales ; plus grand commun diviseur et plus petit commun multiple ; système métrique ; surface des carré, rectangle, triangle et cercle ; volume des cube, parallélépipède rectangle, cylindre et prisme droit ; proportions, partages proportionnels ; échelles des cartes et plans ; règle de trois, pourcentages, intérêts (la solution pourra également être obtenue par l'algèbre).
 
@@ -18,7 +18,7 @@ B - Mathématiques modernes.
 
 1° Nombres relatifs :
 
-Technique des opérations (addition, soustraction, multiplication) sur les nombres relatifs entiers (en base 10) et décimaux. Encadrements décimaux d'un nombre réel.
+Technique des opérations (addition, soustraction, multiplication) sur les nombres relatifs (en base 10) et décimaux. Encadrements décimaux d'un nombre réel.
 
 Ordre et valeur absolue dans l'ensemble des nombres réels.
 
@@ -26,15 +26,17 @@ On admet que pour tout nombre réel a non nul il existe un nombre réel a' et un
 
 Pour tout couple (a, b) (a différent de 0) de nombres réels, il existe un nombre réel unique x, appelé quotient de b par a, tel que a x = b ;
 
-b x est égal à b a' et est noté -.
+a x est égal à b a' et est noté -.
 
-a b Calcul sur des quotients notés - (b et a réels, a différent de 0) ;
+b b Calcul sur des quotients notés - (b et a réels, a différent de 0) ;
 
 a valeurs approchées décimales de tels quotients.
 
-Notions de moyenne.
+Notion de moyenne.
 
-b b' Propriétés usuelles relatives à une égalité de la forme - = -.
+Propriétés usuelles relatives à une égalité de la forme :
+
+b = b' - -.
 
 a a' Systèmes de nombres proportionnels ; partages proportionnels. Usages des exposants entiers (positifs, négatifs, nuls).
 
@@ -46,67 +48,25 @@ Diviseurs d'un nombre entier naturel ; nombres premiers.
 
 Pratique de la décomposition d'un entier naturel en produit de nombres premiers ; multiples communs et diviseurs communs à deux ou plusieurs entiers naturels.
 
-3° Calculs algébriques - Fonctions numériques :
+C - Mathématiques appliquées :
 
-Fonctions polynômes ; fonctions rationnelles.
+Utilisation des nombres pour des mesures :
 
-Calculs sur les fonctions polynômes, sur les fonctions rationnelles (cette rubrique concerne deux sortes de calculs élémentaires) :
+Segment de droite : longueur.
 
-1° Le calcul de la valeur d'une fonction pour une valeur de la variable réelle ;
+Echelle d'une carte ; échelle d'un plan.
 
-2° La recherche de la fonction polynôme ou rationnelle obtenue à partir de fonctions polynômes ou rationnelles au moyen des opérations élémentaires d'addition, de soustraction, de multiplication, de division.
+Surface des carré, triangle, rectangle, trapèze, parallélogramme et cercle.
 
-Produits (x+a)au carré, (x-a)au carré, (x + a) (x - a) ; applications à la factorisation.
+Arcs de cercle et secteurs angulaires.
 
-Equation et inéquation du premier degré à une inconnue, à coefficients numériques.
-
-Equation du premier degré à deux inconnues, à coefficients numériques.
-
-Système de deux équations du premier degré à deux inconnues, à coefficients numériques.
-
-Problèmes du premier degré à une ou deux inconnues.
-
-Application d'un ensemble dans un ensemble (on se bornera à des ensembles de nombres réels). Fonction linéaire (x tend vers ax). fonction affine (x tend vers ax + b), fonction en escalier.
-
-Repérage d'un point sur un axe ; relation de Chasles. Repérage d'un point dans un plan (repère orthonormé).
-
-Représentation graphique d'une fonction linéaire, d'une fonction affine, d'une fonction en escalier.
-
-Représentation graphique des solutions d'une équation du premier degré à deux inconnues.
-
-4° Utilisation des nombres pour des mesures (choix d'une unité, ordre de grandeur, encadrement) ;
-
-Segment de droite : longueur. Echelle d'une carte ; échelle d'un plan.
-
-Cercle, longueur du cercle. Arcs de cercles et secteurs angulaires.
-
-Latitude et longitude.
-
-Aire d'un triangle, d'un rectangle, d'un trapèze, d'un parallélogramme, d'un disque. Mesures agraires.
-
-Volume d'un parallélépipède rectangle, d'un cylindre de révolution.
+Volume des cube, parallélépipède rectangle et cylindre.
 
 Mesures de capacité.
 
-Masse ; masse volumique.
+Mesures agraires.
 
-Mesures du temps. Durée : Vitesse d'un mouvement uniforme ;
-
-vitesse moyenne. Débit.
-
-La monnaie, le franc.
-
-Calculs commerciaux et financiers : pourcentages.
-
-Prix d'achat ; coût d'achat, prix de revient.
-
-Bénéfice et perte. Prix de vente hors taxe. Taxe à la valeur ajoutée.
-
-Prix marqués ; remise (ou réduction).
-
-Intérêts simples ; escompte.
-
-Notions sur les rentes, actions, obligations.
+Prix d'achat. Prix de revient.
 
 IV - Droit public.
 
@@ -114,8 +74,8 @@ Notions générales sur l'organisation administrative et financière de la commu
 
 V - Droit privé.
 
-Notions générales d'état civil : naissance, filiation, divorce, séparation de corps, décès, absence et domicile, actes de l'état civil "mariage" (1).
+Notions générales d'état civil : naissance, filiation, mariage, divorce, séparation de corps, décès, absence et domicile, actes de l'état civil.
 
 VI - Comptabilité.
 
-Notions générales sur le budget et les principes de comptabilité communale ; distinction entre impôts directs, impôts indirects, taxes "notions sommaires sur le plan comptable communal".
+Notions générales sur le budget et les principes de comptabilité communale ; distinction entre impôts directs, impôts indirects, taxes ; notions sommaires sur le plan comptable communal.
