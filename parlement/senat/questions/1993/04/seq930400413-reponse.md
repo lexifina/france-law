@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930400413
+
+- Question : [SEQ930400413](seq930400413.md) — Garantie d'emprunt des collectivités locales
+
+## Réponse
+
+*Intérieur, JO du 1993-06-24, page 1020*
+
+Réponse. - Les lois de décentralisation ont entendu exclure toute forme de tutelle d'une collectivité locale sur une autre. La libre administration des collectivités locales constitue explicitement un principe de valeur constitutionnelle, selon la jurisprudence du Conseil constitutionnel. Un département ne peut prévoir, à son profit, l'existence d'un pouvoir d'approbation préalable des actes communaux. Toutefois, il reste naturellement libre d'apprécier les conditions dans lesquelles il accorde son soutien financier à des projets communaux soit sous forme de financement complémentaire, soit sous forme de garantie d'emprunt. L'appréciation de l'opportunité financière ne peut être assimilée, dans un cadre conventionnel, à un pouvoir de tutelle sur les actes des communes concernées, ni, a fortiori, des organismes de logement social bénéficiant d'une garantie communale. Aucune disposition législative ou réglementaire n'empêche les établissements de crédit de lier leurs offres à l'obtention d'une garantie d'emprunt, dans le cadre de la liberté contractuelle qui leur est reconnue. Il n'en demeure pas moins que les collectivités locales n'ont pas essentiellement vocation à assurer la solvabilité des différents organismes intervenant sur leur territoire, ni à supporter systématiquement l'aléa financier d'opérations dont la maîtrise leur échappe pour une large part. Si aucune modification des conditions d'octroi des garanties d'emprunt n'est actuellement envisagée sur le plan législatif ou réglementaire, il est loisible aux collectivités locales de fixer elles-mêmes les limites au-delà desquelles aucune garantie d'emprunt ne pourrait être sollicitée auprès d'elles, afin d'assurer une répartition équitable des risques financiers.
