@@ -1,71 +1,61 @@
-# Article Annexe
+# Article ANNEXE
 
-===================================================================
+Composition du conseil.
 
-: : SIEGES : : |
+Parlementaires ... 20
 
-:----------------------------------------------:------------:-----: |
+Représentants élus par les conseils généraux ... 13
 
-: A : B : C : D : E : F : G : H : I : |
+Représentants élus par les conseils municipaux ... 4
 
-:--------------------:-----------:----:---:----:---:---:----:-----: |
+Représentants élus par les communautés urbaines ... 3
 
-: BAS-RHIN : 882.121 : 11 : 1 : 12 : : : 8 : 12 : |
+--
 
-: Strasbourg : 252.017 : : : : 1 : : : : |
+Effectif du conseil ... 40
 
-: Schiltigheim : 30.107 : : : : 1 : : : : |
+Département : Bas-Rhin
 
-: Communauté urbaine : : : : : : : : : |
+. Population INSEE 1982 915.676
 
-: de Strasbourg : 390.407 : : : : : 2 : : : |
+. Sièges par attribution directe 11
 
-: : : : : : : : : : |
+. Sièges par répartition des restes 1
 
-: HAUT-RHIN : 635.209 : 8 : : 8 : : : 5 : 8 : |
+--
 
-: Colmar : 64.197 : : : : 1 : : : : |
+Total 12
 
-: Mulhouse : 116.517 : : : : 2 : : : : |
+. Sièges attribués aux communes :
 
-:-----------------------------------------------------------: : |
+Strasbourg (population INSEE 247.309) 1
 
-: : : |
+. Sièges attribués à la communauté urbaine
 
-: Composition du conseil régional. : : |
+de Strasbourg (population INSEE 401.400) 3
 
-: Parlementaires 20 : 20 : |
+. Sièges attribués aux conseils généraux : 8
 
-: Représentants élus par les conseils généraux 13 : : |
+Total des sièges du département 12
 
-: Représentants élus par les conseils municipaux 5 : : |
+Département : Haut-Rhin
 
-: Représentants élus par les communautés urbaines 2 : : |
+. Population INSEE 1982 650.372
 
-: --- :-----: |
+. Sièges par attribution directe 8
 
-: Effectif du conseil 40 : 40 : |
+. Sièges par répartition des restes -
 
-===================================================================
+--
 
-(A) Départements.
+Total 8
 
-Communes.
+. Sièges attribués aux communes :
 
-Communautés urbaines.
+Colmar (population INSEE 62.187) 1
 
-(B) Population (base INSEE 1975) : Population municipale.
+Mulhouse (population INSEE 111.752) 2
 
-(C) Sièges par attribution directe.
+. Sièges attribués aux conseils généraux : 5
 
-(D) Sièges par répartition des restes.
-
-(E) Total des deux colonnes précédentes.
-
-(F) Communes.
-
-(G) Communautés urbaines.
-
-(H) Conseils généraux.
-
-(I) Total des sièges de la région.
+Total des sièges du département 8
