@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900308752
+
+- Question : [SEQ900308752](seq900308752.md) — Pollution : préoccupation des maires des communes maritimes
+
+## Réponse
+
+*Agriculture, JO du 1990-05-24, page 1116*
+
+Réponse. - Pour lutter contre la pollution azotée des eaux, les deux départements ministériels de l'agriculture et de l'environnement ont, dès 1984, mis en place le Comité d'orientation pour la réduction et la pollution des eaux par les nitrates et les phosphates d'origine agricole (C.O.R.P.E.N.). Dans ce cadre, un important travail de sensibilisation et d'information pour la mise en oeuvre de nouvelles pratiques agricoles a été réalisé. Un des axes principaux d'intervention consiste à mieux ajuster la fertilisation azotée aux exportations par les cultures. Il s'agit : dans les régions d'élevage, de mieux valoriser les déjections animales, sources d'azote, en intégrant leur valeur dans le plan de fumure et donc réduire la consommation des engrais de synthèse ; dans le cas de zones à forte densité d'élevage, conduisant à un excédent structurel d'azote, de recourir au transport ou au traitement des déjections (porcines et avicoles) pour diminuer la " pression azote ". Des réflexions et des opérations pilotes sont actuellement en cours notamment en Bretagne (bassin versant du Trieux, baie de Saint-Brieuc) ; dans les zones de grande culture d'une part, de mieux ajuster la fertilisation azotée aux besoins des cultures pour éviter les surfertilisations et, par voie de conséquence, de réduire dans bien des cas la consommation d'engrais, d'autre part de développer la couverture hivernale des sols. Le ministère a pour objectif de multiplier ces actions pour aboutir dès 1991 à un véritable programme d'action dans des zones particulièrement sensibles à la pollution des eaux par les nitrates pouvant inclure des modifications d'assolement ou la réduction importante des apports d'engrais.
