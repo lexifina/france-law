@@ -6,7 +6,7 @@ Modalités de règlement des comptes.
 
 13.11. Avant la fin de chaque mois, l'entrepreneur remet au maître d'oeuvre un projet de décompte établissant le montant total, arrêté à la fin du mois précédent, des sommes auxquelles il peut prétendre du fait de l'exécution du marché depuis le début de celle-ci.
 
-Ce montant est établi à partir des "prix de base", c'est-à-dire des prix figurant dans le marché, y compris les rabais ou majorations qui peuvent y être indiqués mais sans actualisation ni revision des prix et hors T.V.A..
+Ce montant est établi à partir des "prix de base", c'est-à-dire des prix figurant dans le marché, y compris les rabais ou majorations qui peuvent y être indiqués mais sans actualisation ni révision des prix et hors T.V.A..
 
 Si des ouvrages ou travaux non prévus ont été exécutés, les prix provisoires mentionnés au 3 de l'article 14 sont appliqués tant que les prix définitifs ne sont pas arrêtés.
 
@@ -76,19 +76,51 @@ d) Le montant de l'acompte total à régler, ce montant étant la somme des post
 
 13.22. Le maître d'oeuvre notifie à l'entrepreneur, par ordre de service, l'état d'acompte, accompagné du décompte ayant servi de base à ce dernier si le projet établi par l'entrepreneur a été modifié.
 
-13.23. Le mandatement de l'acompte doit intervenir quarante-cinq jours au plus tard après la date à laquelle le projet de décompte est remis par l'entrepreneur au maître d'oeuvre.
+13.23.
+
+13.231. Lorsque le règlement est effectué par un moyen autre que la lettre de change-relevé, il est fait application des dispositions ci-après.
+
+Le mandatement de l'acompte intervient dans un délai fixé par le marché et courant à compter de la date de remise du projet de décompte par l'entrepreneur au maître d'oeuvre. Ce délai ne peut excéder quarante-cinq jours.
 
 Lorsque, en application des règles de la comptabilité publique, le comptable assignataire de la dépense suspend le paiement, le maître d'oeuvre en informe l'entrepreneur. Le mandatement suivi d'une suspension de paiement est assimilable au défaut de mandatement.
 
 Si la personne responsable du marché est empêchée, du fait du titulaire ou de l'un de ses sous-traitants, de procéder à une opération nécessaire au mandatement, le délai de mandatement est suspendu pour une période égale au retard qui en est résulté.
 
-La suspension du délai ne peut intervenir qu'une seule fois et par l'envoi par le maître d'oeuvre à l'entrepreneur, huit jours au moins avant l'expiration du délai de mandatement, d'une lettre recommandée avec demande d'avis de réception postal lui faisant connaître les raisons qui, imputables à l'entrepreneur ou à ses sous-traitants, s'opposent au mandatement, et précisant les pièces à fournir ou à compléter. Cette lettre doit indiquer qu'elle a pour effet de suspendre le délai de mandatement.
+La suspension du délai ne peut intervenir qu'une seule fois et par l'envoi par le maître d'oeuvre à l'entrepreneur, huit jours au moins avant l'expiration du délai de mandatement, d'une lettre recommandée avec demande d'avis de réception postal lui faisant connaître les raisons qui, imputables à l'entrepreneur ou à ses sous-traitants, s'opposent au mandatement, et précisant notamment les pièces à fournir ou à compléter. Cette lettre doit indiquer qu'elle a pour effet de suspendre le délai de mandatement.
 
 La suspension débute au jour de réception par l'entrepreneur de cette lettre recommandée.
 
 Elle prend fin au jour de réception par le maître d'oeuvre de la lettre recommandée avec demande d'avis de réception postal envoyée par l'entrepreneur comportant la totalité des justifications qui lui ont été réclamées ainsi qu'un bordereau des pièces transmises.
 
 Si le délai de mandatement restant à courir à compter de la fin de la suspension est inférieur à quinze jours, l'ordonnateur dispose toutefois pour mandater d'un délai de quinze jours.
+
+13.232. Lorsque le règlement de l'acompte est effectué au moyen d'une lettre de change-relevé, il est fait application des dispositions ci-après.
+
+Les travaux exécutés sont rémunérés grâce à l'émission par le titulaire, sur autorisation de la personne publique, de lettres de change-relevé, selon la réglementation en vigueur.
+
+L'envoi de l'autorisation d'émettre une lettre de change-relevé pour le montant de l'acompte intervient dans le délai fixé dans le marché et courant à compter de la remise du projet de décompte par l'entrepreneur au maître d'oeuvre. Ce délai ne peut excéder trente jours.
+
+Dans le cas d'entrepreneurs groupés payés directement en application du 9 de l'article 11, il est adressé autant d'autorisations d'émettre une lettre de change-relevé qu'il y a d'entrepreneurs à payer séparément, à concurrence du montant dû à chacun.
+
+Chaque autorisation ne constitue en aucun cas un engagement définitif de la collectivité ou de l'établissement contractant.
+
+En cas de contestation sur le montant de la somme due, la personne responsable du marché envoie, dans le délai prévu au troisième alinéa, une autorisation pour les sommes qu'elle a admises. Le complément fait l'objet, le cas échéant, d'une nouvelle autorisation d'émettre une lettre de change-relevé, après règlement du différend ou du litige.
+
+Toutefois, si la personne responsable du marché est empêchée, du fait du titulaire ou de l'un de ses sous-traitants, de procéder à une opération nécessaire à l'envoi de l'autorisation, ledit délai est suspendu pour une période égale au retard qui en est résulté.
+
+La suspension du délai ne peut intervenir qu'une seule fois, et par l'envoi par le maître d'oeuvre à l'entrepreneur, huit jours au moins avant l'expiration du délai d'envoi, d'une lettre recommandée avec demande d'avis de réception postal lui faisant connaître les raisons qui, imputables à l'entrepreneur ou à ses sous-traitants, s'opposent à l'envoi de l'autorisation, et précisant notamment les pièces à fournir. Cette lettre doit indiquer qu'elle a pour effet de suspendre le délai d'envoi de l'autorisation.
+
+La suspension débute du jour de réception par l'entrepreneur de cette lettre recommandée.
+
+Elle prend fin au jour de réception par le maître d'oeuvre de la lettre recommandée avec demande d'avis de réception postal, envoyée par l'entrepreneur, comportant la totalité des justifications qui lui ont été réclamées ainsi qu'un bordereau des pièces transmises.
+
+Le délai d'envoi de l'autorisation ouvert à la personne responsable du marché à compter de la fin de la suspension ne saurait, en aucun cas, être inférieur à quinze jours.
+
+La lettre de change-relevé ne peut pas faire l'objet d'une acceptation.
+
+En cas de contestation sur le montant de la somme due, postérieure à l'envoi de l'autorisation, il peut être procédé à un paiement partiel de la lettre de change-relevé. Le complément est payé, le cas échéant, après règlement du différend ou du litige, par l'un des moyens de paiement prévus par la réglementation de la comptabilité publique.
+
+Un règlement consécutif à un défaut de paiement ou à un paiement partiel d'une lettre de change-relevé à sa date d'échéance est effectué dans les conditions prévues à l'alinéa précédent.
 
 13.24. Les montants figurant dans les états d'acomptes mensuels n'ont pas un caractère définitif et ne lient pas les parties contractantes, sauf en ce qui concerne l'effet de l'actualisation ou de la revision des prix mentionné au b du 21 du présent article lorsque l'entrepreneur n'a pas fait de réserves à ce sujet à la réception de l'ordre de service mentionné au 22 du présent article.
 
@@ -98,9 +130,7 @@ Si le délai de mandatement restant à courir à compter de la fin de la suspens
 
 Ce projet de décompte est établi à partir des prix de base comme les projets de décomptes mensuels et comporte les mêmes parties que ceux-ci, à l'exception des approvisionnements et des avances ; il est accompagné des éléments et pièces mentionnés au 17 du présent article s'ils n'ont pas été précédemment fournis.
 
-13.32. Le projet de décompte final est remis au maître d'oeuvre dans le délai de quarante-cinq jours à compter de la date de notification de la décision de réception des travaux telle qu'elle est prévue au 3 de l'article 41, ce délai étant réduit à quinze jours pour les marchés dont le délai d'exécution n'excède pas trois mois.
-
-Toutefois, s'il est fait application des dispositions du 5 de l'article 41, la date du procès-verbal constatant l'exécution des prestations complémentaires est substituée à la date de notification de la décision de réception des travaux comme point de départ des délais ci-dessus.
+13.32. Le projet de décompte final est remis au maître d'oeuvre dans le délai de quarante-cinq jours à compter de la date de notification de la décision de réception des travaux telle qu'elle est prévue au 3 de l'article 41, ce délai étant réduit à quinze jours pour les marchés dont le délai d'exécution n'excède pas trois mois. Toutefois, s'il est fait application des dispositions du 5 de l'article 41, la date du procès-verbal constatant l'exécution des prestations complémentaires est substituée à la date de notification de la décision de réception des travaux comme point de départ des délais ci-dessus.
 
 En cas de retard dans la présentation du projet de décompte final, l'entrepreneur est passible des pénalités prévues au 3 de l'article 20 dans les conditions qui y sont précisées.
 
@@ -124,7 +154,7 @@ La récapitulation des acomptes mensuels et du solde.
 
 Le montant du décompte général est égal au résultat de cette dernière récapitulation.
 
-13.42. Le décompte général, signé par la personne responsable du marché, doit être notifié à l'entrepreneur par ordre de service avant la plus tardive des deux dates ci-après :
+13.42. Le décompte général, signé par la personne responsable du marché, doit être notifié à l'entrepreneur par ordre de service avant la plus tardive des duex dates ci-après :
 
 Quarante-cinq jours après la date de remise du projet de décompte final.
 
@@ -132,9 +162,17 @@ Trente jours après la publication de l'index de référence permettant la revis
 
 Le délai de quarante-cinq jours est ramené à un mois pour les marchés dont le délai d'exécution n'excède pas trois mois.
 
-13.43. Le mandatement du solde doit intervenir dans un délai de deux mois à compter de la notification du décompte général.
+13.43.
 
-La date de mandatement du solde est portée à la connaissance de l'entrepreneur.
+13.431. Lorsque le règlement est effectué par un moyen autre que la lettre de change-relevé, il est fait application des dispositions ci-après.
+
+Le mandatement du solde intervient dans le délai fixé par le marché et courant à compter de la notification du décompte général. Ce délai ne peut être supérieur à quarante-cinq jours si la durée contractuelle d'exécution du marché est inférieure ou égale à six mois.
+
+Il ne peut dépasser soixante jours si la durée d'exécution contractuelle du marché est supérieure à six mois.
+
+13.432. Lorsque le règlement est effectué au moyen d'une lettre de change-relevé, il est fait application des dispositions ci-après.
+
+L'autorisation pour le montant du solde est envoyée en même temps qu'est notifié le décompte général.
 
 13.44. L'entrepreneur doit, dans un délai compté à partir de la notification du décompte général, le renvoyer au maître d'oeuvre, revêtu de sa signature, sans ou avec réserves, ou faire connaître les raisons pour lesquelles il refuse de le signer. Ce délai est de trente jours, si le marché a un délai d'exécution inférieur ou égal à six mois. Il est de quarante-cinq jours dans le cas où le délai contractuel d'exécution du marché est supérieur à six mois.
 
@@ -148,13 +186,23 @@ Si les réserves sont partielles, l'entrepreneur est lié par son acceptation im
 
 13.5. règlement en cas d'entrepreneurs groupés ou de sous-traitants payés directement :
 
-13.51. Les cotraitants mentionnés au 92 de l'article 11 étant payés directement, les décomptes sont décomposés en autant de parties qu'il y a d'entrepreneurs à payer séparément.
+13.51. Les cotraitants mentionnés au 92 de l'article 11 étant payés directement, les décomptes sont décomposés en autant de parties qu'il y a d'entrepreneurs à payer séparément, à concurrence du montant dû à chacun.
 
-Lorsqu'un sous-traitant est payé directement, l'entrepreneur ou le mandataire joint au projet de décompte une attestation indiquant la somme à prélever, sur celles qui lui sont dues, ou qui sont dues à un cotraitant, pour la partie de la prestation exécutée, et que la personne responsable du marché devra faire régler à ce sous-traitant.
+Lorsqu'un sous-traitant est payé directement, l'entrepreneur ou le mandataire joint au projet de décompte une attestation indiquant la somme à prélever, sur celles qui lui sont dues, ou qui sont dues à un cotraitant, pour la partie de la prestation exécutée, et que la personne responsable devra faire régler à ce sous-traitant.
 
-Les mandatements au profit des divers intéressés sont établis dans la limite du montant des états d'acomptes et de solde ainsi que des attestations prévues à l'alinéa précédent.
+13.511. Lorsque le règlement est effectué par un moyen autre que la lettre de change-relevé, il est fait application des dispositions ci-après.
+
+Les mandatements au profit des divers intéressés sont établis dans la limite du montant des états d'acomptes et de solde ainsi que des attestations prévues au deuxième alinéa du 51 de l'article 13.
 
 Le montant total des mandatements effectués au profit d'un sous-traitant ramené aux conditions du mois d'établissement des prix du marché ne peut excéder le montant à sous-traiter qui est stipulé dans le marché, ou en dernier lieu l'avenant ou l'acte spécial.
+
+13.512. Lorsque le règlement est effectué par lettre de change-relevé, il est fait application des dispositions ci-après.
+
+Sauf stipulation contraire de l'avenant ou de l'acte spécial, le paiement des sous-traitants s'effectue dans les conditions prévues au marché.
+
+Le montant total des autorisations d'émettre une lettre de change-relevé au profit des divers intéressés est établi dans la limite du montant des états d'acomptes et de solde ainsi que des attestations prévues au deuxième alinéa du 51 de l'article 13.
+
+Le montant total des autorisations d'émettre une lettre de change-relevé établies au profit d'un sous-traitant, ramené aux conditions du mois d'établissement des prix du marché, ne peut excéder le montant à sous-traiter, qui est stipulé dans le marché ou en dernier lieu l'avenant ou l'acte spécial.
 
 13.52 Le mandataire ou l'entrepreneur est seul habilité à présenter les projets de décomptes et à accepter le décompte général ; sont seules recevables les réclamations formulées ou transmises par ses soins.
 
@@ -162,21 +210,23 @@ Le montant total des mandatements effectués au profit d'un sous-traitant ramen�
 
 Si l'éventualité ci-dessus survient ou si l'un des entrepreneurs groupés est défaillant, l'entrepreneur en cause ne peut s'opposer à ce que les autres entrepreneurs demandent à la personne responsable du marché que les paiements relatifs aux travaux qu'ils exécuteront postérieurement à ces demandes soient faits à un nouveau compte unique ouvert à leurs seuls noms.
 
-13.54. Les mandatements à faire au sous-traitant sont effectués sur la base des pièces justificatives et de l'acceptation de l'entrepreneur donnée sous la forme d'une attestation, transmises par celui-ci conformément aux stipulations de l'article 13-51.
+13.54. Les mandatements et, le cas échéant, les autorisations d'émettre une lettre de change-relevé au profit des sous-traitants sont effectués sur la base des pièces justificatives et de l'acceptation de l'entrepreneur donnée sous la forme d'une attestation, transmises par celui-ci, conformément aux stipulations du 51 de l'article 13.
 
 Dès réception de ces pièces, le maître d'oeuvre avise directement le sous-traitant de la date de réception du projet de décompte et de l'attestation envoyés par l'entrepreneur, et lui indique les sommes dont le paiement à son profit a été accepté par l'entrepreneur.
 
-Le mandatement des sommes dues au sous-traitant doit intervenir dans les délais prévus aux articles 13-23 et 13-43.
+Lorsque le règlement est effectué par un moyen autre que la lettre de change-relevé, le mandatement des sommes dues au sous-traitant doit intervenir dans les délais prévus aux 231 et 431 de l'article 13. Un avis de mandatement est adressé à l'entrepreneur et au sous-traitant.
 
-Un avis de mandatement est adressé à l'entrepreneur et au sous- traitant.
+Lorsque le règlement est effectué au moyen d'une lettre de change-relevé, les autorisations d'émettre sont envoyées dans les délais prévus aux 232 et 432 de l'article 13.
 
 L'entrepreneur dispose d'un délai de quinze jours, comptés à partir de la réception des pièces justificatives servant de base au paiement direct, pour les accepter ou pour signifier au sous-traitant son refus motivé d'acceptation. Passé ce délai, le titulaire est réputé avoir accepté celles des pièces justificatives ou des parties de pièces justificatives qu'il n'a pas expressément acceptées ou refusées.
 
-Dans le cas où l'entrepreneur n'a, dans le délai de quinze jours suivant la réception du projet de décompte du sous-traitant, ni opposé un refus motivé, ni transmis celui-ci au maître d'oeuvre, le sous-traitant envoie directement au maître d'oeuvre une copie du projet de décompte. Il y joint une copie de l'avis de réception de l'envoi du projet de décompte à l'entrepreneur.
+Dans le cas où l'entrepreneur n'a, dans le délai de quinze jours suivant la réception du projet de décompte du sous-traitant, ni opposé un refus motivé ni transmis celui-ci au maître d'oeuvre, le sous-traitant envoie directement au maître d'oeuvre une copie du projet de décompte. Il y joint une copie de l'avis de réception de l'envoi du projet de décompte à l'entrepreneur.
 
-Le maître d'oeuvre met aussitôt en demeure l'entrepreneur, par lettre recommandée avec demande d'avis de réception postal, de lui faire la preuve dans un délai de quinze jours à compter de la réception de cette lettre qu'il a opposé un refus motivé à son sous-traitant dans le délai prévu au cinquième alinéa ci-dessus. Dès réception de l'avis, le maître d'oeuvre informe le sous-traitant de la date de cette mise en demeure.
+Le maître d'oeuvre met aussitôt en demeure l'entrepreneur, par lettre recommandée avec demande d'avis de réception postal, de lui apporter la preuve dans un délai de quinze jours à compter de la réception de cette lettre qu'il a opposé un refus motivé à son sous-traitant dans le délai prévu au cinquième alinéa ci-dessus. Dès réception de l'avis, le maître d'oeuvre informe le sous-traitant de la date de cette mise en demeure.
 
-A l'expiration de ce délai, et au cas où l'entrepreneur ne serait pas en mesure d'apporter cette preuve, le maître de l'ouvrage dispose du délai prévu à l'article 13-23 pour mandater les sommes à régler au sous-traitant, à due concurrence des sommes restant dues à l'entrepreneur au titre des projets de décompte qu'il a présenté.
+A l'expiration de ce délai, et au cas où l'entrepreneur ne serait pas en mesure d'apporter cette preuve, le maître de l'ouvrage dispose des délais prévus au 231 et au 232 de l'article 13 pour mandater les sommes à régler ou envoyer l'autorisation d'émettre une lettre de change-relevé au sous-traitant.
+
+Le montant de ces sommes ne peut excéder le montant des sommes restant dues à l'entrepreneur au titre des projets de décompte qu'il a présentés.
 
 13.6. Réclamation ou action directe d'un sous-traitant :
 
