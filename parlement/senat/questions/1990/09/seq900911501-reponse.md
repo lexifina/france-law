@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900911501
+
+- Question : [SEQ900911501](seq900911501.md) — Dépistage du cancer du sein
+
+## Réponse
+
+*Santé, JO du 1991-01-17, page 117*
+
+Réponse. - L'intérêt présenté par le dépistage précoce du cancer du sein, première cause de mortalité chez la femme par cancer, est manifeste et justifie la politique menée dans ce domaine par le ministre délégué à la santé. En ce qui concerne les âges cibles auxquels une mammographie de dépistage peut être effectuée, il y a actuellement un concensus scientifique pour procéder à cet examen dans la tranche d'âge de cinquante à soixante-cinq ans, avec une périodicité de trois ans entre chaque examen. Dans le cadre de la politique menée par le fonds de prévention, créé par la loi du 5 janvier 1988, le dépistage du cancer du sein constitue une des priorités. En 1989, six expériences pilotes ont été retenues, étendues à huit départements en 1990. Ces actions doivent être évaluées, notamment en ce qui concerne la participation des populations intéressées, le nombre de cancers dépistés et l'évolution de la mortalité spécifique à cette pathologie. En fonction des résultatsobtenus, une généralisation de ce dépistage pourra être envisagée et devrait aboutir, par réduction du dépistage spontané actuellement pratiqué, à un transfert de charges du poste " risque " au poste " prévention " pour les budgets de l'assurance maladie. Par ailleurs, les personnes à risques, notamment celles qui présentent des antécédents familiaux, justifient une surveillance plus stricte qui doit se faire dans le cadre de la médecine de soins, l'appréciation de ceux-ci ne pouvant se faire qu'à l'occasion d'une consultation médicale personnalisée. La mammographie de diagnostic est inscrite à la nomenclature générale des actes professionnels et, à ce titre, remboursée aux assurés sociaux.
