@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000625989
+
+- Question : [SEQ000625989](seq000625989.md) — Visite officielle du Premier secrétaire du parti communiste vietnamien
+
+## Réponse
+
+*Affaires étrangères, JO du 2000-08-03, page 2708*
+
+Réponse. - La visite officielle de M. Le Kha Phieu a été l'occasion pour la France de rappeler l'importance qu'elle accorde à la poursuite des réformes au Vietnam ainsi que la nécessité pour ce pays de ne pas restreindre le champ de sa politique d'ouverture au seul secteur économique. D'une manière générale, les autorités françaises, à l'occasion des différents contacts qui ont lieu entre les deux pays, soulignent systématiquement le prix qu'elles attachent au renforcement de l'état de droit et des libertés civiles et religieuses au Vietnam. C'est également le message que la France et ses partenaires européens adressent aux autorités vietnamiennes à travers des démarches régulières en vue de la libération des prisonniers politiques et de conscience. En outre, dans le cadre des organisations internationales, la France fait valoir son attachement au respect et à la promotion des droits de l'homme. Ainsi, à l'occasion de la huitième conférence des chefs d'Etat et de gouvernement ayant le français en partage, qui s'est tenue à Moncton du 3 au 5 septembre 1999, les membres ont réaffirmé leur volonté de consolider l'état de droit, les processus démocratiques ainsi que le respect des droits de l'homme. Certaines évolutions positives ont pu être observées ces deux dernières années, notamment à la faveur d'amnisties qui ont porté sur un certain nombre de prisonniers politiques et de conscience. La France continuera à uvrer, tant à titre bilatéral qu'en liaison avec ses partenaires européens, pour que de telles évolutions se poursuivent. Le renforcement de l'Etat de droit représente à cet égard un axe important de notre coopération bilatérale, avec notamment la maison franco-vietnamienne du droit de Hanoï.
