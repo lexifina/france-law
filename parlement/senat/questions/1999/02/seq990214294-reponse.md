@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990214294
+
+- Question : [SEQ990214294](seq990214294.md) — Cadre juridique pour les maisons de service public
+
+## Réponse
+
+*Fonction publique, JO du 1999-04-29, page 1421*
+
+Réponse. - Le projet de loi relatif aux droits des citoyens dans leurs relations avec les administrations (DCRA), examiné en première lecture par le Sénat le 10 mars 1999, prévoit de donner un cadre juridique stable aux maisons des services publics, afin d'harmoniser et clarifier les conditions dans lesquelles les différentes catégories de collectivités publiques (Etat, collectivités locales, établissements publics) et les autres organismes chargés d'une mission de service public, comme les organismes sociaux, associent leurs initiatives et mettent en commun des moyens pour faciliter les démarches administratives des usagers et renforcer l'implantation territoriale des services publics. Le projet donne ainsi une définition des maisons des services publics et énonce les principales activités qu'elle peut assurer : réception des demandes des usagers, instruction et transmission des dossiers, délivrance de prestations et prise de décisions, par délégation des autorités qui participent à la maison des services publics. Sont ensuite précisées les modalités de coopération entre les services publics, par la conclusion d'une convention, approuvée par le représentant de l'Etat ; le projet définit également les principaux éléments du contenu de la convention et institue notamment la possibilité, pour le responsable d'une maison de services publics, de bénéficier de délégations de signature de la part d'autorités relevant d'une autre personne morale. Enfin, le projet prévoit la création d'une nouvelle catégorie de groupements d'intérêt public afin de poursuivre les mêmes objectifs, si les administrations contractantes souhaitent adopter cette forme.
