@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700837
+
+- Question : [SEQ020700837](seq020700837.md) — Réglementation relative à la sécurité incendie dans les petites communes
+
+## Réponse
+
+*Intérieur, JO du 2003-01-02, page 59*
+
+Les dispositions visant à assurer dans les meilleures conditions l'utilisation du réseau d'eau potable pour la lutte contre l'incendie sont précisées par la circulaire interministérielle n° 465 du 10 décembre 1951 complétée par la circulaire du 9 août 1967 du ministère de l'agriculture, cette dernière concernant spécifiquement les communes rurales. Parmi les recommandations que comportent ces textes, figure celle de la distance entre bornes et poteaux à incendie, soit 200 à 300 mètres, afin de faciliter et d'améliorer l'efficacité de la lutte contre les incendies éventuels. Aucune interdiction de construction n'est en revanche prévue sur des terrains situés à plus de 200 mètres de ces prises d'eau. Ce type d'installation dans les zones d'habitat dispersé représente en effet un coût très élevé et hors de portée de communes disposant de faibles ressources financières. Les circulaires évoquées proposent alors d'autres solutions, telles que l'utilisation de points d'eau naturels (utilisables en permanence) ou l'aménagement de réserves artificielles. Ces points d'eau permettent d'assurer une défense suffisante contre un risque moyen situé dans un rayon de 400 mètres. Les seules obligations lors de la délivrance des permis de construire, en matière de sécurité incendie, sont celles figurant dans l'article R. 111-4 du code de l'urbanisme aux termes duquel " le permis de construire peut être refusé sur des terrains qui ne seraient pas desservis par des voies publiques ou privées dans des conditions répondant à l'importance ou à la destination de l'immeuble ou de l'ensemble d'immeuble envisagé, et notamment si les caractéristiques de ces voies rendent difficile la circulation ou l'utilisation des engins de lutte contre l'incendie ".
