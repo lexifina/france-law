@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911118519
+
+- Question : [SEQ911118519](seq911118519.md) — Décret d'application concernant les modalités de dépistage et de traitement des MST par les centres de planification ou d'éducation familiale
+
+## Réponse
+
+*Santé, JO du 1993-01-21, page 113*
+
+Réponse. - L'article 6 bis de la loi n° 67-1176 du 28 décembre 1967 modifiée relative à la régulation des naissances et abrogeant les articles L. 4648 et L. 649 du code de la santé publique ne donnait la possibilité de dépister et de traiter des maladies sexuellement transmissibles qu'aux centres de planification ou d'éducation familiale agréés. Or, la loi n° 89-899 du 18 décembre 1989 a supprimé l'agrément pour les centres relevant d'une collectivité publique, lesquels constituent près de 90 p. 100 de l'effectif total, ce qui revient à les exclure du champ d'application de l'article 6 bis. La condition de l'agrément, qui n'a donc plus de raison d'être, a été supprimée par l'article 21-I de la loi n° 91-1406 du 31 décembre 1991 portant diverses dispositions d'ordre social. Le décret n° 92-784 du 6 août 1992 relatif aux centres de planification ou d'éducation familiale fixe les conditions d'application de l'article 6 bis de la loi du 28 décembre 1967 ; ainsi, les centres de planification ou d'éducation familiale peuvent dépister l'infection par le VIH et dépister et traiter la chlamydiose, la gonococcie et les vaginites aiguës. Les frais d'analyses de laboratoire et de pharmacie sont pris en charge par l'assurance maladie selon le droit commun ; la gratuité est assurée aux mineurs qui en font la demande et aux personnes qui ne bénéficient à aucun titre de prestations d'assurance maladie ; la part de l'Etat est alors de 30 p. 100 et celle de l'assurance maladie de 70 p. 100. Une circulaire précisera les modalités d'application de ce décret.
