@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900710996
+
+- Question : [SEQ900710996](seq900710996.md) — Récupération par l'Etat des sommes versées au titre du FNS sur les successions : revalorisation du montant de l'actif
+
+## Réponse
+
+*Affaires sociales, JO du 1990-11-01, page 2354*
+
+Réponse. - L'allocation supplémentaire du Fonds national de solidarité (F.N.S.) est une prestation non contributive, c'est-à-dire servie sans contrepartie de cotisations préalables et dont le versement représente un effort de solidarité très important de la part de la collectivité nationale, de l'ordre de 20 milliards de francs en 1990, intégralement à la charge du budget de l'Etat. Dans ces conditions, il n'est pas envisagé de relever le seuil actuel de recouvrement de cette allocation sur la succession du bénéficiaire, seuil fixé à 250 000 francs par le décret n° 82-116 du 1er février 1982 (art. D. 815-1 du code de la sécurité sociale). Le recouvrement des arrérages de F.N.S. sur la part de succession attribuée au conjoint survivant peut être différé jusqu'au décès de ce dernier ; il en est de même pour les héritiers âgés ou infirmes qui étaient à la charge de l'allocataire à la date de son décès (art. D. 815-3 du code de la sécurité sociale) et des remises de dettes, totales ou partielles, ainsi que des délais de paiement peuvent être accordés aux héritiers, après enquête sociale, par la commission de recours amiable de l'organisme débiteur de l'allocation. S'agissant des exploitants agricoles, lorsque leur succession est constituée, en tout ou en partie, par un capital d'exploitation : terres, cheptel mort ou vif, bâtiments d'exploitation, éléments végétaux constituant le support permanent de la production, tels que arbres fruitiers, vignes, etc., ce capital n'est retenu que pour 70 p. 100 de sa valeur (art. L. 815-12 du code de la sécurité sociale).
