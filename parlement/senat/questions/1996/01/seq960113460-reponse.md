@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960113460
+
+- Question : [SEQ960113460](seq960113460.md) — Prix de vente des lots de lotissements communaux à usage d'habitation en milieu rural
+
+## Réponse
+
+*Fonction publique, JO du 1996-03-28, page 738*
+
+Réponse. - Le gouvernement est tout à fait conscient des préoccupations exprimées par l'honorable parlementaire. Toutefois, même quand elle est justifiée par un souci de revitalisation de la commune, la vente de lotissements doit s'effectuer conformément aux règles en vigueur. En effet, l'article L. 2241-1 du code général des collectivités territoriales stipule que toute cession d'immeubles ou de droits réels immobiliers par une commune de plus de 2 000 habitants doit donner lieu à délibération motivée du conseil municipal, après consultation du service des domaines. L'avis formulé est un avis simple, qui ne s'impose pas à la commune, qui peut, par conséquent, procéder à une cession en retenant un prix différent de celui résultant de l'évaluation domaniale. Celle-ci doit alors, dans sa délibération, motiver les raisons de son choix. Cette obligation ne concerne en tout état de cause que les communes de plus de 2 000 habitants. Cependant, si la collectivité choisit de retenir un prix de cession très inférieur à la valeur du bien, cette décision peut être analysée par le juge comme une forme de libéralité contraire aux principes dégagés par le Conseil constitutionnel qui, aux termes d'une décision des 25 et 26 juin 1986, rappelle que la Constitution, au regard du principe d'égalité des citoyens, s'oppose à ce que des biens appartenant au patrimoine public soient cédés à des personnes poursuivant des fins d'intérêt privé pour des prix manifestement inférieurs à leur valeur. Cette règle s'applique à l'ensemble des communes, quelle que soit leur importance démographique.
