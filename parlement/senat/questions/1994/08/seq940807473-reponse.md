@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940807473
+
+- Question : [SEQ940807473](seq940807473.md) — Accueil des personnes handicapées
+
+## Réponse
+
+*Affaires sociales, JO du 1994-10-13, page 2455*
+
+Réponse. - Les évolutions constatées depuis deux décennies rendent indispensable une politique active d'accueil visant à créer des places en nombre suffisant et à se doter des instruments permettant d'améliorer qualitativement le fonctionnement des établissements et services destinés aux personnes handicapées. A ce titre, les redéploiements de moyens, lorsqu'ils sont possibles, ainsi que la mise en oeuvre de programmes pluriannuels de places nouvelles, dans un cadre déconcentré et partenarial, ont constitué les instruments majeurs de l'effort entrepris par les pouvoirs publics en vue d'accroître les capacités existantes. L'Etat, les organismes de sécurité sociale, et les conseils généraux ont engagé depuis quelques années un effort remarquable pour multiplier les créations de places pour adultes handicapés dans des établissements spécialisés, De 1990 à 1993, 14 400 places de travail protégé, 2 171 places de maisons d'accueil spécialisé et 2 170 places de foyers à double tarification ont été créées. De plus, pour ce qui concerne les CAT, le Gouvernement a prévu le financement de 2 000" places en 1994 et décidé que cet effort serait poursuivi en 1995. Enfin, d'une manière générale, la question des mesures en faveur des personnes handicapées ne peut être isolée du contexte économique, ni de celui de notre système de protection sociale et dont le Gouvernement entend bien assurer le redressement. Dans ce but, et dans cette situation difficile, une politique d'envergure a déjà été engagée qui fait appel à l'effort de chacun. Les actions existantes en direction des personnes handicapées représentent, dès lors, un effort de solidarité nationale très important que le Gouvernement a décidé de poursuivre dans le même temps que la situation d'ensemble se rétablira.
