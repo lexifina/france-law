@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951213041
+
+- Question : [SEQ951213041](seq951213041.md) — Fiscalité appropriée à l'encouragement des synergies entre la recherche scientifique et les industriels
+
+## Réponse
+
+*Éducation, JO du 1996-03-21, page 649*
+
+Réponse. - Les grands équipements scientifiques nécessitent, en effet, des développements technologiques de pointe qui, le plus souvent, associent des industriels à des établissements de recherche publique. Ces réalisations contribuent à faire progresser les compétences des entreprises ou à leur ouvrir de nouveaux champs d'activité. Un bénéfice qui, s'il est plus difficile à mesurer, ne doit pas pour autant être négligé provient du dialogue qu'elles conduisent à instaurer entre chercheurs et ingénieurs et qui peuvent, dans certains cas, se poursuivre au-delà de l'objectif initial. Parmi les grandes installations, il en est qui peuvent être utilisées par des industriels. Les sources de rayonnements électromagnétiques (lasers de puissance, rayonnement synchroton...), ou de neutrons, les microscopes de grande puissance et les installations de résonance magnétique en sont des exemples et concernent les secteurs de l'électronique, des matériaux, de la chimie fine ou de la pharmacie. Cette ouverture des entreprises vers l'usage des moyens lourds de la recherche est inscrite dans l'évolution naturelle des industries de pointe et la prise en compte de ces besoins, qui pour le moment restent très minoritaires vis-à-vis de ceux de la recherche fondamentale, est certainement à envisager. Cela devrait évidemment conduire dans le futur à mieux associer ces industriels à la définition des projets, voire au financement des investissements qui leur garantirait des droits d'utilisation. D'ores et déjà, les industriels peuvent bénéficier du crédit d'impôt recherche qui est basé sur l'accroissement des dépenses de personnel consacrées aux activités de recherche, mais ne concerne pas la part d'investissement.
