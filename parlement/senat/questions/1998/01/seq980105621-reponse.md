@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980105621
+
+- Question : [SEQ980105621](seq980105621.md) — Pénurie de vaccins anticoquelucheux
+
+## Réponse
+
+*Santé, JO du 1999-07-01, page 2238*
+
+Réponse. - Le laboratoire qui commercialise les vaccins (tétravalent et pentavalent) contre la diphtérie, le tétanos, la poliomyélite, l'Haemophilus influenzae b et la coqueluche (à germes entiers), a rencontré, durant la fin de l'année 1997 et en début d'année 1998, des difficultés de production, portant sur la valence coqueluche des produits. Deux incidents successifs ont entraîné une rupture d'approvisionnement de ces deux spécialités pharmaceutiques et ont conduit le laboratoire à proposer pour les praticiens un dispositif provisoire sous la forme d'un coffret contenant les cinq vaccins (conditionnement spécial nécessitant deux injections au lieu d'une). Devant la persistance du problème, le secrétaire d'Etat à la santé a publié un communiqué de presse le 6 janvier 1998 et a réuni, en urgence, le 29 janvier 1998, les experts du comité technique des vaccinations (CTV), afin d'analyser la situation et de proposer des recommandations claires et homogène, pour les professionnels de santé. Dans un avis du 29 janvier 1998, qui a été diffusé dans la presse spécialisée, le CTV a émis les recommandations suivantes : privilégier la primo-vaccination et la pratiquer aux âges habituels ; différer si nécessaire le premier rappel, moins urgent (habituellement réalisé autour de 18 mois), et la vaccination contre la poliomyélite (disponible dans le conditionnement spécial). S'agissant du bilan de l'utilisation du dispositif provisoire, entre janvier et mars 1998, 457 700 coffrets ont été vendus. Aujourd'hui, les difficultés de production semblent résolues. Le laboratoire a néanmoins souhaité conserver l'autorisation de mise sur le marché pour ce conditionnement spécial jusqu'à la fin de l'année 1999.
