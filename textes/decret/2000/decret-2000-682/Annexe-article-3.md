@@ -24,7 +24,7 @@ Toutefois elle pourra, après accord du port, confier à un tiers l'exécution d
 
 Toute cession totale ou partielle de l'activité exercée par l'entreprise sur le terminal ne peut intervenir, sous peine de résiliation de la convention, qu'avec l'accord du port.
 
-L'entreprise est tenue d'informer le port de tout changement dans la participation des associés, la composition de son capital ou la répartition des droits de vote, de nature à modifier le contrôle de l'entreprise au sens de l'article 355-1 de la loi n° 66-537 du 24 juillet 1966 modifiée sur les sociétés commerciales (1).
+L'entreprise est tenue d'informer le port de tout changement dans la participation des associés, la composition de son capital ou la répartition des droits de vote, de nature à modifier le contrôle de l'entreprise au sens de l'article L233-3 du code de commerce.
 
 3.3. Prestations de services du port autonome
 
@@ -35,7 +35,3 @@ Le port, à la demande de l'entreprise, peut effectuer des prestations de servic
 Sous réserve de l'application des dispositions du livre III du code des ports maritimes et du règlement d'exploitation du port, et sauf cas de force majeure ou motifs de sécurité, l'entreprise bénéficie d'une priorité permanente d'usage du ou des quais dont les caractéristiques sont précisées ci-après :
 
 L'entreprise indique en temps utile à la capitainerie du port l'ordre d'accostage souhaitable des navires au droit du terminal.
-
-NOTA :
-
-NOTA : (1) article abrogé par l'ordonnance n° 2000-912 (art. 4) et codifié sous l'article L. 233-3 du code de commerce.
