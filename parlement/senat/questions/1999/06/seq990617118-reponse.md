@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990617118
+
+- Question : [SEQ990617118](seq990617118.md) — Distribution d'un document d'information concernant les régimes matrimoniaux
+
+## Réponse
+
+*Justice, JO du 1999-10-28, page 3570*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire qu'en application de l'article 75 du code civil l'officier d'état civil se borne effectivement, au moment de la célébration de l'union, à interpeller les époux sur leur régime matrimonial, sans énoncer les règles principales afférentes à celui-ci. La question de l'information des époux, avant leur mariage, sur l'étendue des droits et obligations qui découlent de leur régime matrimonial conduit en réalité à distinguer deux hypothèses selon qu'un contrat de mariage a été conclu ou non avant l'union. Si un tel contrat a été conclu, le notaire rédacteur de l'acte, tenu par un devoir de conseil, doit informer les futurs époux sur l'organisation et le fonctionnement de leur régime matrimonial conventionnel. Dans le cas contraire, aucune disposition ne prévoit l'information des époux sur les principales règles du régime matrimonial légal auxquelles ils sont de droit soumis. Aussi, la Chancellerie n'est-elle pas insensible aux préoccupations de l'auteur de la question. Cependant, la remise aux futurs époux, lors de la publication des bans, soit dix jours seulement avant la célébration de l'union, d'un document d'information, paraît trop rapprochée de la date du mariage pour être d'une réelle utilité à ceux-ci. En revanche, il pourrait être envisagé de leur remettre un document informatif lors de la constitution du dossier de mariage. Cependant, cette mesure, qui relève d'une concertation entre les ministères de la justice et de l'intérieur et qui pourraît être élargie à l'association des maires de France, implique au préalable une étude de faisabilité que la Chancellerie se propose d'initier.
