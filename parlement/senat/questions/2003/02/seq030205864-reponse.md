@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030205864
+
+- Question : [SEQ030205864](seq030205864.md) — Baisse des fonds sociaux accordés aux collèges de la Seine-Saint-Denis
+
+## Réponse
+
+*Jeunesse, JO du 2003-04-17, page 1351*
+
+Deux délégations de crédits ont été effectuées en 2002 au titre des fonds sociaux (fonds social collégien, fonds social lycéen et fonds social pour la cantine) : la première en avril 2002 d'un montant de 32 338 711 euros, la deuxième en octobre 2002 d'un montant de 11 450 000 euros. Suite aux enquêtes pluriannuelles réalisées par mes services concernant les crédits affectés aux fonds sociaux, il apparaît que des reliquats importants subsistent dans un grand nombre d'établissements, même si une baisse sensible de ces reliquats a été constatée cette année. Afin d'obtenir une gestion saine et rigoureuse, la présence de ces reliquats m'a amené, lors des délégations de crédits d'avril 2002 et d'octobre 2002, à procéder à des répartitions de crédits très affinées. Il a ainsi été demandé aux recteurs d'académie de répartir ces crédits de manière ciblée en tenant compte des crédits disponibles dans les établissements afin de privilégier les situations faisant apparaître les besoins les plus pressants de crédits. Par ailleurs, les recteurs sont invités à veiller personnellement à la bonne information des établissements et à ce qu'en leur sein une attention particulière soit apportée à la situation des élèves les plus démunis, notamment en ce qui concerne l'accès à la restauration scolaire. Au titre de l'année scolaire 2003, une délégation anticipée a été effectuée fin décembre 2002. Elle constitue une provision destinée à faire face aux situations difficiles des élèves dont peuvent être saisis les chefs d'établissement au début de ce deuxième trimestre de l'année scolaire.
