@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920721981
+
+- Question : [SEQ920721981](seq920721981.md) — Assouplissement des modalités de vote par procuration
+
+## Réponse
+
+*Intérieur, JO du 1992-09-24, page 2193*
+
+Réponse. - Certes, la possibilité de voter par procuration est prévue par l'article L. 71 du code électoral, mais ce même article énumère limitativement les catégories de citoyens qui peuvent y avoir recours. Aucune de ces dispositions n'autorise à voter par procuration les retraités qui ont quitté leur domicile habituel pour le seul motif qu'ils seraient en villégiature, que ces personnes partent dans le cadre de voyages organisés ou non, comme le précise l'instruction relative aux modalités d'exercice du droit de vote par procuration, diffusée dans les préfectures et les mairies, et comme l'a confirmé la jurisprudence du Conseil d'Etat (CE, 29 décembre 1989, élections municipales de Vigneulles-lès-Hattonchâtel). Quant au fond, les ministres de l'intérieur successifs ont eu à maintes reprises l'occasion d'exposer les raisons de principe qui font obstacle à ce que les retraités soient autorisés à voter par procuration pour le motif qu'ils seraient absents de leur commune d'inscription le jour du scrutin. Le principe constitutionnel d'égalité se trouverait violé si ce droit leur était accordé, alors qu'il serait refusé aux chômeurs ou aux inactifs, lesquels sont objectivement dans une situation exactement identique. Et, dès lors que le droit de voter par procuration serait reconnu à ceux qui n'ont pas - ou qui n'ont plus - d'activité professionnelle, on ne voit pas pourquoi il serait dénié aux autres citoyens. Ainsi, le vote par procuration se trouverait banalisé et deviendrait une procédure ordinaire d'expression du suffrage, au mépris d'un autre principe, fondamental en démocratie, selon lequel le vote est personnel et secret.
