@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960616125
+
+- Question : [SEQ960616125](seq960616125.md) — Crédits d'équipement du parc naturel du Nord - Pas-de-Calais au titre du contrat de plan Etat-région
+
+## Réponse
+
+*Environnement, JO du 1996-09-12, page 2358*
+
+Réponse. - Mme le ministre de l'environnement a pris connaissance avec intérêt de la question posée par l'honorable parlementaire concernant le financement du parc naturel régional du Nord - Pas-de-Calais dans le cadre du contrat de plan Etat-région. Les engagements financiers pris par l'Etat dans le cadre des contrats de plan sont globaux sur la durée convenue au départ. Leur versement en parts égales chaque année bien que généralement pratiqué ne figure pas dans le contrat. C'est pourquoi le " déficit " constaté sur une année donnée sera compensé d'ici à l'expiration du contrat en cours et ne peut en aucun cas être perçu comme le signe d'un désengagement de l'Etat. En ce qui concerne les parcs naturels régionaux, les nouveaux textes ont réaffirmé l'initiative régionale et le rôle central des régions dans cette politique. Le financement des parcs incombe, de ce fait, avant tout, à la région et aux autres collectivités concernées. Toutefois, le principe d'une participation financière de l'Etat au financement des parcs tant en ce qui concerne le fonctionnement que l'équipement est défendu par le ministère de l'environnement. Il va de pair avec une plus grande exigence sur l'intérêt du patrimoine des territoires classés et sur la qualité des chartes proposées. La convention d'application de la charte, prévue par l'article R. 244-14 du code rural, qui lie l'Etat et l'organisme de gestion du parc permet de définir les moyens à mettre en oeuvre par l'Etat pour atteindre les objectifs de la charte. Il s'agit de mettre en commun les compétences et les moyens humains et financiers de tous les partenaires (collectivités et Etat) pour optimiser les résultats sur le territoire et minimiser la dépense publique.
