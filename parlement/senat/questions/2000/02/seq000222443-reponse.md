@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000222443
+
+- Question : [SEQ000222443](seq000222443.md) — Diffusion en clair des chaînes de télévision thématiques
+
+## Réponse
+
+*Culture, JO du 2000-05-25, page 1854*
+
+Réponse. - L'honorable parlementaire demande à madame la ministre de la culture et de la communication de lui indiquer la position du Gouvernement concernant l'information parue à la page XII du Figaro Economie du 19 janvier 2000 selon laquelle le conseiller d'Etat Raphaël Hadas-Label dans son rapport " Télévision numérique de terre : proposition pour une stratégie de développement ", remis en janvier à la ministre, préconise d'inciter les chaînes thématiques à être diffusées en clair dans l'offre de la télévision numérique de terre. La télévision numérique de terre est un nouveau mode de diffusion des programmes et des services audiovisuels reçus grâce à la traditionnelle antenne " râteau " utilisée par 80 % des foyers français pour capter les chaînes analogiques hertziennes terrestres. Le rapport remis à la ministre préconise l'élargissement de l'offre de programmes et de services accessibles par les téléspectateurs sans rémunération de leur part et propose, lors des appels aux candidatures et lors de l'assignation des ressources en fréquences, de privilégier les programmes en clair. Le rapport estime que certaines chaînes thématiques actuelles pourraient s'orienter vers une diffusion en clair dès le démarrage de la télévision numérique de terre ou après une première phase d'existence. Lors de la seconde lecture du projet de loi portant réforme de la communication audiovisuelle devant l'Assemblée nationale, la ministre de la culture et de la communication a présenté, au nom du Gouvernement, le cadre juridique retenu pour le déploiement de la télévision numérique de terre, qui, entre autres, devra permettre à la technologie numérique de rencontrer le plus large public.
