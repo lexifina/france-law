@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880901525
+
+- Question : [SEQ880901525](seq880901525.md) — Compétences des associations syndicales à la prévention des avalanches
+
+## Réponse
+
+*Risques technologiques, JO du 1988-12-29, page 1493*
+
+Réponse. - L'article 79 de la loi n° 85-30 du 9 janvier 1985, dite " loi montagne ", a complété l'article 1er de la loi du 21 juin 1865 qui prévoyait déjà la possibilité de créer des associations syndicales entre propriétaires intéressés par l'exécution et l'entretien de travaux de défense contre... les torrents..., en y ajoutant la défense contre les avalanches, les chutes de rochers ou de blocs, les glissements de terrain et les manifestations volcaniques. Il s'agit d'une disposition destinée principalement à assurer l'entretien d'ouvrages généralement établis par la puissance publique, l'Etat ou les collectivités locales. L'expérience a montré en effet que s'il est relativement aisé de trouver un financement et des maîtres d'ouvrages publics pour la réalisation de dispositifs de protection, il est, par contre, plus difficile d'en faire assurer l'entretien. Il faut convenir que près de trois ans après la promulgation de ce texte, aucune association syndicale de défense contre les avalanches n'a pu être constituée, ni pour la construction, ni pour l'entretien d'ouvrages. Des tentatives ont cependant été faites à Avoriaz dans le département de la Haute-Savoie ou à Bourg-d'Oisans dans le département de l'Isère, mais sans succès. Ce sont généralement soit les communes, soit un syndicat mixte (Flaine) soit les stations (Val-d'Isère) qui prennent en charge l'entretien des ouvrages paravalanches, avec la participation parfois d'aménageurs privés, mais non pas celle de propriétaires. Dans un domaine voisin, celui de la protection contre les torrents, d'anciennes associations sont tombées en désuétude du fait de l'abandon de l'espace rural montagnard par les agriculteurs.
