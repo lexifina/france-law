@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940506068
+
+- Question : [SEQ940506068](seq940506068.md) — Affranchissement du coupon mensuel de pointage par les demandeurs d'emploi
+
+## Réponse
+
+*Industrie, JO du 1994-06-16, page 1493*
+
+Réponse. - Aux termes du décret no 67-24 du 2 janvier 1967, la franchise postale est réservée " à la correspondance exclusivement relative au service de l'Etat, échangée entre fonctionnaires chefs d'un service d'une administration de l'Etat, ainsi qu'à la correspondance de même nature adressée par ces fonctionnaires aux chefs de service des établissements à caractère administratif. " le courrier des services de l'Etat acheminé et distribué en franchise fait l'objet d'une rémunération forfaitaire du budget général au profit de La Poste. Ce système doit être maintenu de façon transitoire au plus tard jusqu'au 31 décembre 1995, l'objectif du cahier des charges étant de généraliser un régime de droit commun fondé sur l'affranchissement des objets. Le ministre de l'industrie, des postes et télécommunications et du commerce extérieur partage la volonté de l'honorable parlementaire de faciliter autant que possible les relations de nos concitoyens temporairement privés d'emploi avec les organismes chargés de la lutte contre le chômage ou de l'indemnisation de celui-ci. D'ailleurs, toutes mesures sont prises par les agences locales de l'ANPE pour que les demandeurs d'emploi puissent déposer leur carte d'actualisation gratuitement dans une boîte aux lettres disposée à cet effet dans chaque agence. En revanche, la prise en charge des frais d'affranchissement des différents courriers adressés par les demandeurs d'emploi aux services de l'ANPE ou des ASSEDIC ne peut être assurée financièrement par La Poste, mais nécessite une réflexion plus globale dans le cadre des actions en faveur de l'emploi.
