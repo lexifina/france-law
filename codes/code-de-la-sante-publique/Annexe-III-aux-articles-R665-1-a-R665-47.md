@@ -24,7 +24,7 @@ Elle comporte :
 
 - les résultats des calculs de conception, de l'analyse des risques, des études, des essais techniques, etc., qui ont été effectués ;
 
-- une déclaration indiquant si le dispositif incorpore comme partie intégrante une substance visée à l'annexe I.A., point 7.4, et I.B, point 10, et des données relatives aux essais effectués à cet égard ;
+- une déclaration indiquant si le dispositif incorpore comme partie intégrante une substance visée à l'annexe I-A, point 7.4, et I-B, point 10, ou une substance mentionnée à l'annexe I-A, point 7.4 bis, et I-B, point 10 bis, et des données relatives aux essais effectués à cet égard qui sont nécessaires pour évaluer la sécurité, la qualité et l'utilité de cette substance en tenant compte de la destination du dispositif ;
 
 - les données cliniques visées à l'annexe X ;
 
@@ -42,9 +42,9 @@ Elle comporte :
 
 5. Lorsque le type satisfait aux dispositions du livre V bis du code de la santé publique, l'organisme habilité délivre au demandeur un certificat d'examen CE de type. Le certificat comporte le nom et l'adresse du fabricant, les conclusions de l'inspection, les conditions de validité et les données nécessaires à l'identification du type approuvé. Les parties pertinentes de la documentation sont annexées au certificat et une copie est conservée par l'organisme habilité.
 
-Dans le cas de dispositifs visés au point 7.4 de l'annexe I, avant de prendre une décision l'organisme habilité consulte, pour ce qui est des aspects visés sous ce point, l'Agence française de sécurité sanitaire des produits de santé ou l'un des organismes compétents désignés par les autres Etats membres de l'Union européenne ou parties à l'accord sur l'Espace économique européen, conformément aux dispositions nationales transposant la directive 65/65/CEE du Conseil des Communautés européennes.
+S'il s'agit de dispositifs visés à l'annexe I-A, point 7.4, e t à l'annexe I-B, point 10, l'organisme habilité consulte, pour ce qui est des aspects visés sous ce point, l'Agence française de sécurité sanitaire des produits de santé ou l'un des organismes compétents désignés par les autres Etats membres de la Communauté européenne ou parties à l'accord sur l'Espace économique européen, conformément aux dispositions nationales transposant la directive 2001/83 du Parlement européen et du Conseil, avant de prendre une décision. En arrêtant sa décision, l'organisme habilité prend dûment en considération les avis exprimés lors de la consultation. Il informe l'organisme compétent consulté de sa décision finale.
 
-En arrêtant sa décision, l'organisme habilité prendra dûment en considération les avis exprimés lors de la consultation. Il informera l'organisme compétent concerné de sa décision finale.
+S'il s'agit de dispositifs visés à l'annexe I-A, point 7.4 bis, et à l'annexe I-B, point 10 bis, l'avis scientifique de l'Agence européenne pour l'évaluation des médicaments doit être intégré dans la documentation concernant le dispositif. En arrêtant sa décision, l'organisme habilité prend dûment en considération l'avis de l'Agence européenne pour l'évaluation des médicaments. L'organisme habilité ne peut pas délivrer le certificat si cet avis scientifique est défavorable. Il informe l'Agence européenne pour l'évaluation des médicaments de sa décision finale.
 
 6. Le demandeur informe l'organisme habilité qui a délivré le certificat d'examen CE de type de toute modification importante apportée au produit approuvé. Pour les dispositifs médicaux implantables actifs, toute modification apportée au produit approuvé initialement doit être notifiée dans les conditions précitées. Les modifications du produit approuvé doivent recevoir une approbation complémentaire de l'organisme habilité qui délivre le certificat d'examen CE de type, lorsque ces modifications peuvent remettre en cause la conformité aux exigences essentielles ou aux conditions prescrites pour l'utilisation du produit.
 
@@ -59,3 +59,9 @@ Cette approbation complémentaire prend, le cas échéant, la forme d'un addendu
 7.3. Le fabricant ou son mandataire conserve avec la documentation technique une copie des attestations d'examen CE de type et de leurs compléments pendant une durée d'au moins cinq ans après la fabrication du dernier dispositif ;
 
 7.4. Lorsque ni le fabricant ni son mandataire ne sont établis sur le territoire des Etats membres de l'Union européenne ou parties à l'accord sur l'Espace économique européen, l'obligation de tenir la documentation technique à la disposition des autorités incombe à la personne responsable de la mise sur le marché de ces Etats du dispositif concerné ou à l'importateur visé à l'annexe I, point 13.3, a.
+
+NOTA :
+
+Conformément à l'article 4 du décret n° 2004-802 du 29 juillet 2004, l'abrogation des annexes du livre V bis prendra effet à la date de la publication de chacun des arrêtés prévus aux articles R. 5211-7, R. 5211-16, R. 5211-24 et R. 5211-53 du code de la santé publique.
+
+L'arrêté du 20 avril 2006 fixant les modalités d'application des procédures de certification de la conformité définies aux articles R. 5211-39 à R. 5211-52, pris en application de l'article R. 5211-53 du code de la santé publique, est paru au JORF du 8 juin 2006.

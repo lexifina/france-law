@@ -188,6 +188,8 @@ Tous les autres dispositifs actifs font partie de la classe I.
 
 Tous les dispositifs incorporant comme partie intégrante une substance qui, si elle est utilisée séparément, peut être considérée comme un médicament au sens de l'article L. 511 du code de la santé publique et qui est susceptible d'agir sur le corps par une action accessoire à celle des dispositifs font partie de la classe III ;
 
+Tous les dispositifs médicaux incorporant une substance mentionnée à l'article R. 665-37-1 font partie de la classe III.
+
 4.2. Règle 14 :
 
 Tous les dispositifs utilisés pour la contraception ou pour prévenir la transmission de maladies sexuellement transmissibles font partie de la classe II b, sauf s'il s'agit de dispositifs implantables ou de dispositifs invasifs à long terme auxquels cas ils font partie de la classe III ;
@@ -217,3 +219,9 @@ Les poches à sang figurent dans la classe II b ;
 5.2. Règle 19 :
 
 Les implants mammaires figurent dans la classe III.
+
+NOTA :
+
+Conformément à l'article 4 du décret n° 2004-802 du 29 juillet 2004, l'abrogation des annexes du livre V bis prendra effet à la date de la publication de chacun des arrêtés prévus aux articles R. 5211-7, R. 5211-16, R. 5211-24 et R. 5211-53 du code de la santé publique.
+
+L'arrêté du 20 avril 2006 fixant les règles de classification des dispositifs médicaux, pris en application de l'article R. 5211-7 du code de la santé publique, est paru au JORF du 25 mai 2006.
