@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980306655
+
+- Question : [SEQ980306655](seq980306655.md) — Eventuelle facturation des frais de conversion en euros
+
+## Réponse
+
+*Économie, JO du 1998-08-27, page 2773*
+
+Réponse. - La facuration de frais de conversion bancaires après le 1er janvier 1999 constitue un enjeu important tant pour les entreprises, parmi lesquelles figurent les établissements de crédit, que pour les particuliers. Cette question est examinée dans le cadre du Comité national de l'euro, instance de concertation qui associe l'ensemble des parties concernées, notamment les représentants des entreprises et du commerce, des consommateurs et des établissements de crédit. Les travaux menés par ce comité ont permis d'aboutir à la définition de principes d'application ou non de frais de conversion bancaire. Ainsi, les établissements de crédit se sont engagés à respecter à partir du 1er janvier 1999 les règles suivantes : les banques ne prendront aucune mesure discriminatoire vis-à-vis de l'euro. Les opérations bancaires en euros ne seront pas tarifées différemment de celles libellées en monnaie nationale ; les conversions scripturales entre l'euro et le franc se feront, entre 1999 et 2002, sans frais, avec une possible exception dans les cas où ces conversions impliqueraient un service substantiel de la part de la banque : dans ce cadre, plusieurs établissements bancaires ont déjà annoncé qu'ils convertiraient gratuitement les comptes de la monnaie nationale eu euros. De même, ils ne factureront pas la conversion des paiements domestiques entrants et sortants ; les opérations de change entre les pièces et billets des pays participants entre 1999 et 2002 ne donneront pas lieu à des prélèvements de commissions en contrepartie d'un risque de change (qui n'existera plus à partir du 1er janvier 1999). En revanche, il ne peut être exclu que d'autres frais (manipulation, etc.) soient prélevés sur ces opérations par les établissements de crédit.
