@@ -4,8 +4,10 @@ Les entreprises soumises à l'impôt sur les sociétés peuvent pratiquer dans l
 
 En cas de cession de tout ou partie des titres souscrits dans les cinq ans de leur acquisition, le montant de l'amortissement exceptionnel est réintégré au bénéfice imposable de l'exercice au cours duquel intervient la cession et majoré d'une somme égale au produit de ce montant par le taux de l'intérêt de retard prévu au troisième alinéa de l'article 1727 et appliqué dans les conditions mentionnées à l'article 1727 A.
 
-Un décret fixe les obligations déclaratives (1).
+Un décret fixe les obligations déclaratives (1) (2).
 
 NOTA :
 
 (1) Ces dispositions s'appliquent pour l'établissement de l'impôt sur les sociétés dû à raison des résultats des exercices ouverts à compter du 1er janvier 2002.
+
+(2) Voir l'article 46 quater-0 ZZ sexies de l'annexe III.
