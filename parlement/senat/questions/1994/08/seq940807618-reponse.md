@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940807618
+
+- Question : [SEQ940807618](seq940807618.md) — Dispositions du programme cadre de maîtrise des pollutions agricoles
+
+## Réponse
+
+*Environnement, JO du 1995-01-19, page 146*
+
+Réponse. - Le dispositif mis en oeuvre par le ministère de l'environnement pour la maîtrise des pollutions d'origine agricole comporte deux volets : un volet financier d'aide à la mise aux normes des installations au regard de la protection de la ressource en eau et un volet réglementaire déterminé par les arrêtés de février 1992. La parfaite maîtrise des épandages n'est qu'un volet de ces dispositions, certes le plus important, puisqu'il doit, à terme, respecter les engagements d'équilibre agronomique prévus par les textes européens, y compris dans les zones dites vulnérables, et grâce aux programmes d'action qui seront mis en place. A terme, les excédents structurels de certaines régions doivent disparaître comme disparaîtront les situations irrégulières, à charge pour les uns et les autres d'assumer leurs responsabilités dans le respect des procédures. Quoi qu'il en soit, les programmes de résorption devront être effectifs avant le 1er janvier 1997. Par ailleurs, il convient de noter qu'après régularisation administrative au regard de la loi no 76-663 du 19 juillet 1976 relative aux installations classées pour la protection de l'environnement, l'exploitant bénéficiera de l'exonération de responsabilité civile telle que prévue à l'article L. 112-16 du code de la construction. Le ministre de l'environnement a pris la décision d'inviter les préfets à suivre l'évolution de ce dispositif en requérant l'effort de tous les services de l'Etat dans leur département et à tenir informé très régulièrement le conseil départemental d'hygiène afin de marquer une volonté commune d'aboutir.
