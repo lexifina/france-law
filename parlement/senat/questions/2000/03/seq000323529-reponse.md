@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000323529
+
+- Question : [SEQ000323529](seq000323529.md) — Allocation d'études
+
+## Réponse
+
+*Éducation, JO du 2000-06-01, page 1969*
+
+Réponse. - Dans le cadre du plan social étudiant une commission académique d'allocation d'études a été créée à la rentrée 1999 dans chaque académie. Elle est présidée par le recteur assisté d'un vice-président étudiant. Cette commission a vocation à apporter une aide, dans le cadre de la phase expérimentale actuelle, à des étudiants se trouvant dans des situations financières particulièrement difficiles (dégradation des conditions de vie, situation de rupture familiale). Des instructions ont été données aux recteurs d'académie afin que les dossiers des étudiants socialement le plus en difficulté soient traités et aidés en priorité. En ce qui concerne le nombre d'allocations d'études allouées, le chiffre constaté au début du mois de janvier n'est pas définitif. A la fin du mois de mars il s'élève à plus de 3 500. L'objectif de ces aides étant de répondre à tout moment à des situations d'étudiants en difficulté financière, c'est à la fin de l'année universitaire qu'un bilan pertinent pourra être dressé au vu des résultats des commissions académiques d'allocations d'études qui se réunissent chaque mois. Par ailleurs une action de communication est en cours pour mieux faire connaître aux étudiants le nouveau dispositif et utiliser pleinement les potentialités offertes par le contingent des 7 000 allocations d'études disponibles pour l'année universitaire.
