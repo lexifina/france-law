@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020137786
+
+- Question : [SEQ020137786](seq020137786.md) — Réglementation applicable à l'archivage des envois postaux
+
+## Réponse
+
+*Fonction publique, JO du 2002-04-04, page 978*
+
+L'article 16 de la loi n° 2000-321 du 12 avril 2000, relative aux droits des citoyens dans leurs relations avec les administrations, pose la règle de la preuve du respect par l'usager d'un délai, pour accomplir une démarche ou s'acquitter d'une obligation, par le cachet des services postaux, apposé sur l'enveloppe, qui fait foi de la date d'envoi. L'article 16, en d'autres termes, a substitué à la règle de la date de réception celle de l'envoi effectif. Il est souhaitable de rappeler que la loi n'a fait que généraliser et donner force législative à une règle de fait, très largement observée, depuis de nombreuses années, par une très grande majorité d'autorités administratives. Ainsi que cela été indiqué, à l'occasion d'une réponse à une question précédente posée par l'honorable parlementaire, l'opposition par l'autorité administrative de l'inobservation du délai imparti nécessite la conservation des enveloppes. Des contestations pourraient s'élever, encore, entre l'usager et l'autorité administrative quant au contenu de l'enveloppe ; il semble qu'une telle contestation ne pourrait venir que de l'administration. L'usager ne pourrait avoir un quelconque intérêt à alléguer la méconnaissance, de son fait, de son obligation. Il appartiendrait à l'autorité administrative d'apporter la preuve du fondement de sa contestation, en produisant notamment le contenu réel du pli réceptionné par ses services. Cette solution est à retenir dans la phase gracieuse du litige comme dans son éventuelle phase contentieuse. Le cas échéant, le juge statuera en l'état des pièces du dossier, et sauf preuve contraire apportée par l'usager, accueillera le moyen soulevé devant lui par l'autorité administrative.
