@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990718182
+
+- Question : [SEQ990718182](seq990718182.md) — Situation des secrétaires de mairie
+
+## Réponse
+
+*Fonction publique, JO du 1999-11-11, page 3733*
+
+Réponse. - Le cadre d'emplois des secrétaires de mairie a bénéficié d'une réforme importante à compter du 1er août 1995 puisqu'il est passé de la catégorie B à la catégorie A ; les agents ont ainsi bénéficié d'une revalorisation indiciaire et se sont vu ouvrir la possibilité d'exercer leurs fonctions dans les communes de moins de 3 500 habitants et non plus seulement de moins de 2 000 habitants. Une réflexion n'en paraît pas moins nécessaire sur les missions, la mobilité et les perspectives d'évolution du cadre d'emplois des secrétaires de mairie, la situation particulière de ces derniers ayant été abordée par le rapport que M. Rémy Schwartz a remis, au terme de la mission d'étude qui lui avait été confiée sur le recrutement, la formation et le déroulement de carrière des fonctionnaires territoriaux. Au-delà de l'avancée significative évoquée ci-dessus, la réflexion doit prendre en compte les difficultés tenant principalement au caractère atypique du statut des secrétaires de mairie (recrutement externe à BAC p 2, grade unique comportant des indices bruts compris entre 374 et 695, identité entre le grade et les fonctions) qui ne permet pas autant que cela serait souhaitable d'assurer la fluidité des déroulements de carrière et la mobilité fonctionnelle des agents. De ce point de vue, même si l'accès par la voie de la promotion interne leur est ouvert dans le cadre d'emplois des attachés territoriaux, l'hypothèse d'une intégration, sous conditions à définir, des fonctionnaires du cadre d'emplois des secrétaires de mairie dans un autre cadre d'emplois de catégorie A de portée générale, constituerait une solution offrant des possibilités de gestion et de déroulement de carrière plus complètes, sur laquelle une étude approfondie est en cours.
