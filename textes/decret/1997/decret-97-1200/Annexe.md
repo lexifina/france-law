@@ -538,13 +538,17 @@ Décisions relatives aux établissements publics de l'Etat dont les attributions
 
 .
 
+Décret n° 2002-89 du 16 janvier 2002 pris pour l'application de la loi n° 2001-44 du 17 janvier 2001 et relatif aux procédures administratives et financières en matière d'archéologie préventive
+
 1
 
 |
 
-Décisions à caractère financier prises pour l'exécution d'une décision de justice mettant en cause la responsabilité de l'Etat à raison de l'activité des services du ministère de la culture et de la communication.
+Prescription de mesures de détection, conservation ou sauvegarde par l'étude scientifique des vestiges archéologiques menacés par les travaux sur des biens culturels maritimes.
 
 |
+
+Deuxième alinéa de l'article 2.
 
 |
 
@@ -552,8 +556,22 @@ Décisions à caractère financier prises pour l'exécution d'une décision de j
 
 |
 
-Décisions amiables d'indemnisation des préjudices résultant de la mise en cause de la responsabilité de l'Etat a raison de l'activité des services du ministère de la culture et de la communication.
+Octroi et retrait de l'agrément des services archéologiques des collectivités territoriales.
 
 |
+
+Article 39 quatrième alinéa de l'article 41 et dernier alinéa de l'article 42.
+
+|
+
+3
+
+|
+
+Evaluation de l'importance d'une découverte archéologique
+
+|
+
+Dernier alinéa de l'article 5.
 
 |
