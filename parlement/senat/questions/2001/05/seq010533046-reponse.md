@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010533046
+
+- Question : [SEQ010533046](seq010533046.md) — Attribution du titre de reconnaissance de la nation aux résistants
+
+## Réponse
+
+*Anciens combattants, JO du 2001-07-05, page 2240*
+
+Le secrétaire d'Etat à la défense chargé des anciens combattants tient à rappeler en premier lieu que le titre de reconnaissance de la nation (TRN) a été créé initialement par l'article 77 de la loi n° 67-1114 du 21 décembre 1967 pour les militaires de tous grades et de toutes armes ayant pris part aux opérations d'Afrique du Nord, à une époque où ces opérations n'ouvraient pas droit à la carte du combattant. La loi n° 93-7 du 4 janvier 1993 a étendu ces dispositions aux militaires des forces armées françaises et aux personnes civiles de nationalité française ayant servi, pendant quatre-vingt-dix jours au moins, au cours de conflits, opérations ou missions ouvrant droit à la carte du combattant, sauf évacuation pour blessure reçue ou maladie contractée au cours de cette période. Ce texte n'a pas pour autant modifié la nature du titre en question qui marque la participation à un conflit armé. C'est d'ailleurs ce qu'a confirmé une étude récente d'où il ressort que l'attribution du TRN doit rester liée à la notion de conflit et de participation à des opérations comportant un risque d'ordre militaire. Or la situation des réfractaires au STO ne correspond à aucune des conditions rappelées ci-dessus. En revanche, de nombreux réfractaires se cachèrent pour se soustraire à cette réquisition et constituèrent parfois des maquis pris en charge par des organisations de Résistance. Dans ce cas, rien ne s'oppose à ce qu'un réfractaire qui a rejoint les forces françaises ou alliées ou celles de la Résistance bénéficie à ce titre de la législation applicable à la carte du combattant au titre de la Résistance ou à celle de combattant volontaire de la Résistance.
