@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040210976
+
+- Question : [SEQ040210976](seq040210976.md) — Implantation de Promotrans en Bourgogne et en Franche-Comté
+
+## Réponse
+
+*Transports, JO du 2004-06-03, page 1219*
+
+L'arrêté du 10 octobre 2002, pris en application de l'article 7 du décret n° 97-608 du 31 mai 1997 modifié, relatif à la formation professionnelle initiale et continue des conducteurs salariés du transport routier public de marchandises, définit les conditions d'agrément par les préfets de région des centres de formation habilités à dispenser les formations obligatoires initiales et continues des conducteurs routiers. L'article 2 de ce texte, reprenant sur ce point l'arrêté initial du 30 juillet 1997, prévoit notamment que l'agrément est attribué aux centres de formation professionnelle effectuant depuis au moins trois ans à la date de la première demande des formations professionnelles diplômantes ou qualifiantes de conducteurs routiers ou, à défaut, des formations longues au-delà du permis de conduire d'une durée supérieure ou égale à 156 heures. Ces dispositions ont été introduites à la demande des partenaires sociaux, pour veiller à la qualité et à l'efficacité des formations dispensées. Toutefois, pour tenir compte des évolutions intervenues dans ce domaine depuis 1997, date de mise en oeuvre du dispositif réglementaire, il est envisagé de modifier la réglementation en vigueur afin d'assouplir les critères de recevabilité des demandes d'agrément tout en maintenant un niveau d'exigence approprié concernant les moyens affectés à ces formations obligatoires. Des propositions en ce sens seront soumises prochainement à l'avis de la Commission nationale paritaire professionnelle de l'emploi et de la formation professionnelle des transports routiers et des activités auxiliaires du transport.
