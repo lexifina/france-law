@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890203334
+
+- Question : [SEQ890203334](seq890203334.md) — Statut des ENSAAMA
+
+## Réponse
+
+*Éducation, JO du 1989-05-18, page 767*
+
+Réponse. - L'Ecole nationale supérieure des arts appliqués et des métiers d'art située rue Olivier-de-Serres dans le 15e arrondissement a actuellement le statut d'un lycée technique, donc d'un établissement public local dont la gestion est assurée par la région Ile-de-France. Cet établissement dispense des formations post-baccalauréat dans le domaine des arts appliqués et son intégration dans l'enseignement supérieur fait actuellement l'objet d'une étude approfondie. L'actuel lycée technique provient de la fusion de deux écoles municipales en un collège d'enseignement technique en 1969. Ces circonstances expliquent que le personnel enseignant y soit exclusivement du personnel du second degré, ce qui constitue l'une des difficultés techniques à surmonter pour la transformation de l'établissement. Cependant, diverses solutions visant à assurer à l'école une plus grande économie sont d'ores et déjà envisagées. Mais la procédure d'intégration, si elle est juridiquement possible, se heurte à des obstacles d'ordre technique qui ne peuvent être levés dans un avenir immédiat. Aussi, afin de donner à l'établissement une plus grande autonomie, des mesures d'assouplissement de sa gestion sont en cours d'élaboration. En vue d'amorcer un rapprochement avec l'enseignement supérieur il est prévu, dans le cadre institutionnel, des conventions de coopération avec des universités parisiennes. Une convention de ce type a d'ores et déjà été signée avec l'université de Paris-I et une dotation particulière de 100 000 F a été attribuée à cet établissement pour lui permettre de développer concrètement des actions concernant les arts appliqués menées en liaison avec l'E.N.S.A.A.M.A., manifestant ainsi la relation de plus en plus étroite avec l'enseignement supérieur.
