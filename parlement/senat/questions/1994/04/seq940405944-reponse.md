@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940405944
+
+- Question : [SEQ940405944](seq940405944.md) — Ingénieurs des travaux publics de l'Etat
+
+## Réponse
+
+*Fonction publique, JO du 1994-08-04, page 1944*
+
+Réponse. - Conformément à la parole donnée, le Gouvernement a tenu à respecter les accords signés par ses prédécesseurs, particulièrement le protocole d'accord sur la rénovation de la grille des rémunérations et des classifications des fonctionnaires de l'Etat, territoriaux et hospitaliers, conclu le 9 février 1990, avec cinq des sept organisations syndicales représentatives. S'agissant des ingénieurs des travaux publics de l'Etat dont le rôle essentiel pour l'équipement de notre pays et l'aménagement du territoire est connu et apprécié, diverses mesures de revalorisation ont été prévues et sont en cours d'application. C'est ainsi que le décret no 94-29 du 11 janvier 1994 a réalisé la fusion des deux grades d'ingénieur de classe normale et d'ingénieur de classe exceptionnelle en un nouveau grade dont l'indice terminal a été porté de l'indice brut 701 à l'indice brut 750. Cette mesure, représentant un accroissement de 49 points bruts (soit plus de 1 000 francs d'augmentation par mois), a été mise en oeuvre au 1er août 1993. Par ailleurs, deux autres importantes mesures, qui prennent effet au 1er août 1994, représenteront une majoration de rémunération d'environ 3 300 francs par mois. Elles concernent : d'une part, l'indice terminal du grade d'ingénieur divisionnaire qui est porté de l'indice brut 801 à l'indice brut 966 (soit 165 points bruts de majoration) ; d'autre part, l'indice terminal de l'emploi fonctionnel de chef d'arrondissement qui passe de l'indice brut 852 à l'indice brut 1015 (soit 163 points bruts de majoration). Il en résulte une amélioration tout à fait significative de la situation des ingénieurs des travaux publics de l'Etat.
