@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040411570
+
+- Question : [SEQ040411570](seq040411570.md) — Fermeture des agences postales
+
+## Réponse
+
+*Économie, JO du 2004-08-26, page 1936*
+
+Avec 17 000 points de contact sur le territoire, La Poste est un des premiers réseaux de proximité en France et en Europe. Elle entend maintenir cette présence et s'est engagée à ne pas diminuer le nombre de ses points de contact sur le territoire national. Toutefois, elle doit adapter la gestion à l'évolution des besoins et à la demande de sa clientèle, dont la localisation et les habitudes de vie ont été fortement modifiées au cours des décennies précédentes, alors que les implantations de La Poste sont restées quasiment inchangées. Dans le département du Morbihan, les quatre agences postales initialement concernées par des projets de fermetures ponctuelles durant les congés de leur gérant ont des horaires d'ouverture très importants par rapport au trafic enregistré. Toutefois, après concertation avec les maires concernés, il leur a été proposé une réduction des horaires d'ouverture à la place des fermetures estivales ponctuelles envisagées. Par ailleurs, il a été convenu de procéder à une transformation du statut de ces agences postales afin que l'activité postale dans ces communes vienne en complément d'une autre activité, soit communale dans le cadre d'une agence postale communale, soit privée dans le cadre d'un point poste. Aujourd'hui, ces évolutions sont en attente des délibérations de chacun des conseils municipaux concernés. La Poste, soucieuse de rester présente sur les territoires dont il s'agit, dans des conditions économiquement viables, ne souhaite pas fermer ses points de contact au public mais doit en permanence s'adapter et rechercher le meilleur équilibre entre sa mission de contribution à l'aménagement du territoire, qui est confirmée dans le contrat de plan et l'équilibre financier de ses activités.
