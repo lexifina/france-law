@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930802357
+
+- Question : [SEQ930802357](seq930802357.md) — Marché du cassis
+
+## Réponse
+
+*Agriculture, JO du 1993-09-23, page 1715*
+
+Réponse. - Le secteur du cassis est actuellement confronté à une crise grave en raison de l'offre excédentaire sur le marché communautaire. La mécanisation de la récolte de ce fruit ayant abaissé les coûts de production agricole, des plantations importantes ont eu lieu ces dernières années dans les Etats membres de la Communauté comme dans les pays d'Europe centrale et orientale. De plus, la fermeture de certains débouchés traditionnels a conduit les producteurs polonais à se tourner vers la CEE à partir de 1992. Les stocks importants de la dernière campagne ont provoqué un effondrement des cours de la nouvelle récolte. Dès mai 1993, la perception de cette situation critique avait conduit le ministre de l'agriculture et de la pêche à intervenir fermement au conseil à Bruxelles pour demander une amélioration du système de surveillance des importations de petits fruits en provenance des pays tiers. La commission a mis en place en juillet dernier des taxes compensatoires à l'importation de certains cassis congelés, montrant ainsi sa détermination à protéger des productions communautaires. Cependant, leur impact sur le prix de vente des cassis français vendus à l'état frais sera limité dans la mesure où la récolte est déjà achevée. C'est pourquoi les producteurs organisés sous forme de groupements ont reçu une aide de 3,2 MF en vue, d'une part, de passer des contrats avec des industriels français susceptibles de privilégier un raisonnement de filière, et, d'autre part, de conserver un marché d'exportation. Au plan communautaire, des démarches sont faites en vue d'assurer la préférence communautaire dans le respect des accords d'association passés entre la Communauté économique européenne et les pays d'Europe centrale et orientale.
