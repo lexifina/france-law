@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000222290
+
+- Question : [SEQ000222290](seq000222290.md) — Transferts sociaux des Français résidant en Mauritanie
+
+## Réponse
+
+*Économie, JO du 2000-05-18, page 1773*
+
+Réponse. - Le réseau des comptables du Trésor à l'étranger ne peut être utilisé que pour effectuer des opérations financières entre la France et les Etats étrangers. Cette règle est d'autant plus justifiée s'agissant des pays en voie de développement que l'utilisation du réseau du Trésor pour effectuer des transferts financiers émanant de particuliers se traduirait de facto par un effet d'éviction au détriment du réseau bancaire privé local, dont le renforcement constitue pourtant une condition nécessaire au développement économique de ces pays et un axe majeur de la politique de coopération de la France. En ce qui concerne le cas particulier de la Mauritanie, l'auteur de la question relève à juste titre que, par le passé, des obstacles au libre transfert, liés à la politique de change appliquée par ce pays, ont pu apparaître, créant ainsi des difficultés pour nos compatriotes souhaitant effectuer des opérations de transfert. Des progrès sont cependant intervenus à la suite des mesures de libéralisation des changes adoptées récemment par le pays. La fluidité totale des transferts n'est toutefois pas encore totalement assurée et la France insistera par la voie de son administrateur auprès du Fonds monétaire international pour que cette question reçoive le traitement approprié dans le cadre du programme suivi par ce pays avec le Fonds. Aussi, à titre exceptionnel, afin de tenir compte des caractéristiques du système de change mauritanien, la direction du Trésor a autorisé pour l'année 2000 les transferts privés à caractère social par voie de chancellerie. Cette autorisation, pour les raisons mentionnées ci-dessus, pourra être renouvelée en fonction de l'appréciation portée sur la fluidité des transferts financiers entre la Mauritanie et l'extérieur.
