@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010633938
+
+- Question : [SEQ010633938](seq010633938.md) — Harmonisation des règles servant à la détermination des ressources
+
+## Réponse
+
+*Emploi, JO du 2002-03-28, page 917*
+
+Les revenus pris en considération pour l'attribution des prestations soumises à condition de ressources correspondent, pour l'essentiel, au revenu imposable : est en effet pris en compte à ce titre le total des ressources nettes catégorielles retenues pour le calcul de l'impôt sur le revenu d'après le barème de l'année civile de référence qui précède le paiement, celui-ci débutant le 1er juillet de chaque année. Il existe cependant quelques exceptions à ce principe, limitées et ciblées ; il en est ainsi des indemnités journalières versées au titre d'accidents du travail, qui sont prises en considération pour l'attribution des aides personnelles au logement et des prestations familiales soumises à condition de ressources. Bien que non assujetties à l'impôt sur le revenu, les indemnités journalières accident du travail constituent bien, au même titre que les indemnités journalières maladie ou maternité, un revenu de remplacement. De même, l'abattement fiscal dont bénéficient les personnes âgées de plus de soixante-cinq ans en vertu de l'article 157 bis du code général des impôts ne s'applique plus, depuis le 1er janvier 1996, pour le calcul des aides au logement, qu'aux personnes nées avant le 1er janvier 1931. Enfin, s'agissant des professions indépendantes, seul le déficit constaté au titre d'une année est déduit des revenus de l'allocataire, sans pouvoir être porté sur les années suivantes, comme l'admet l'administration fiscale. Ces exceptions répondent au souci de mieux appréhender le montant réel des ressources effectivement perçues par les allocataires dans l'attribution des prestations sous condition de ressources servies par la branche famille.
