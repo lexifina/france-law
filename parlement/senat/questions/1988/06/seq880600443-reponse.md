@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880600443
+
+- Question : [SEQ880600443](seq880600443.md) — Collectivités territoriales et fonds de concours du Feder
+
+## Réponse
+
+*Départements et territoires d'Outre-mer (DOM-TOM), JO du 1989-03-02, page 364*
+
+Réponse. - Depuis l'adoption par le Conseil des communautés européennes du règlement Feder n° 1787-84 en 1984, les collectivités locales peuvent bénéficier des remboursements de ce fonds. Les crédits remboursés par la Communauté dans le cadre de cette procédure, dite de complémentarité, s'effectuent au prorata des montants engagés par les différents intervenants financiers, et avec un taux d'intervention du Feder variant généralement de 50 à 55 p. 100 du montant de l'investissement. Conformément à ces règles, les collectivités locales de la Martinique ont pu bénéficier de 1984 à 1987 des crédits indiqués dans le tableau suivant : Nota : voir tableau page 364. On peut remarquer que sur environ 144 MF de remboursement du Feder, les collectivités locales de la Martinique ont bénéficié de plus de 100 MF de concours, soit 69,4 p. 100 des crédits. Par ailleurs, s'agissant de la règle française relative à une participation minimale de 20 p. 100 de l'Etat dans le cadrede la procédure de la complémentarité, il est rappelé à l'honorable parlementaire que les D.O.M. ont bénéficié d'un régime particulier, prévoyant notamment des dérogations ramenant à 15 p. 100 ce taux minimum. Il faut cependant souligner qu'avec la réforme des fonds structurels initiée par le règlement cadre n° 2052-88 relatif aux missions des fonds structurels, la Communauté européenne s'est engagée à privilégier le recours à la procédure du cofinancement pour laquelle la règle évoquée ci-dessus ne s'applique pas ; c'est ainsi que la Martinique a déjà pu bénéficier de ce type de concours en cofinancement dans le cadre du programme Star (Système de télécommunications avancées).
