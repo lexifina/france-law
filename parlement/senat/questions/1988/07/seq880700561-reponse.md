@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880700561
+
+- Question : [SEQ880700561](seq880700561.md) — Mensualisation des impôts locaux
+
+## Réponse
+
+*Économie, JO du 1988-07-28, page 869*
+
+Réponse. - La loi n° 80-10 du 10 janvier 1980, portant aménagement de la fiscalité directe locale, a prévu en son article 30-II, modifié par l'article 54 de la loi n° 80-1094 du 30 décembre 1980, la faculté pour les personnes assujetties à la taxe d'habitation et aux taxes foncières pour une somme globale supérieure à 750 francs, de verser spontanément avant le 30 mars et le 31 juillet de l'année d'imposition, deux acomptes représentant chacun un tiers des cotisations dont ils ont été passibles l'année précédente. Il en résulte que les redevables de taxes d'habitation et de taxes foncières relativement importantes ont déjà le choix entre le paiement de ces impositions en une seule fois à l'échéance normale et un paiement spontané fractionné en trois échéances. Il appartient aux contribuables qui souhaiteraient s'acquitter de leurs impôts locaux par acomptes d'en faire la demande à leur comptable du Trésor. Un système de paiement mensuel de la taxe d'habitation fonctionnant dans la région Centre a par ailleurs été institué par l'article 30-I de la loi du 10 janvier 1980. Compte tenu des difficultés que connaissent certains contribuables pour payer leurs impôts locaux, il a été demandé aux services d'étudier les voies et moyens d'une possible extension et d'une généralisation de ces facilités de paiement. D'autre part, des instructions ont été adressées aux comptables du Trésor pour qu'ils examinent dans un esprit de large compréhension, les demandes de délai de paiement ou de remise de pénalités qui seraient formulées par les contribuables qui, en raison de difficultés dûment justifiées, ne peuvent s'acquitter de leur impôt aux échéances légales.
