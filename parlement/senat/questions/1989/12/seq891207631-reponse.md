@@ -1,0 +1,9 @@
+# Réponse à la question SEQ891207631
+
+- Question : [SEQ891207631](seq891207631.md) — Lutte contre l'infection dans les hôpitaux
+
+## Réponse
+
+*Solidarité, JO du 1990-03-15, page 577*
+
+Réponse. - Comme le rappelle l'honorable parlementaire, le décret n° 88-657 du 6 mai 1988 et la circulaire du 13 octobre organisent la lutte contre les infections acquises à l'hôpital par le moyen de comités dont l'existence est rendue obligatoire dans tous les établissements participant au service public hospitalier. Les mesures gouvernementales visent à promouvoir sous l'égide du Conseil supérieur de l'hygiène publique en France un triple objectif d'accompagnement, de suivi et de coordination des interventions à mettre en oeuvre dans chaque établissement. Il s'agit d'abord de développer en priorité les actions de formation du personnel soignant et de sensibilisation de l'ensemble des agents hospitaliers dans le cadre de programmes de formation ; ensuite de mettre en place des instruments d'observation intrahospitalier assurant sous une stricte confidentialité l'exploitation des informations recueillies dans les services cliniques et biologiques permettant d'exercer une surveillance des infections et une intervention efficace des comités ; enfin de promouvoir des formules de coopération et d'assistance technique interhospitalière avec le concours direct des services d'hygiène implantés et développés dans les centres hospitaliers régionaux et le relais permanent des associations ou des sociétés de service assurant la diffusion des programmes d'intervention et la promotion des expériences locales. Les crédits affectés sont donc d'origines diverses et pour la plupart non spécifiques aux infections (formation permanente, dépenses de soins, d'examens et d'analyses, frais de fonctionnement, etc.) qui constituent des charges courantes d'exploitation intégrées dans les budgets de chaque établissement conformément aux dispositions de l'article 5 du décret précité.
