@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980810456
+
+- Question : [SEQ980810456](seq980810456.md) — Application de la loi relative au renforcement de la protection de l'environnement
+
+## Réponse
+
+*Aménagement du territoire, JO du 1998-10-01, page 3120*
+
+Réponse. - La ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question concernant l'application de l'article 94 de la loi nº 95-101 du 2 février 1995, codifié à l'article L. 2213-25 du code général des collectivités territoriales. Cet article permet au maire, pour des motifs d'environnement, d'obliger les propriétaires de terrains non entretenus, situés en zone habitée ou à proximité de bâtiments d'habitation ou d'activités, à faire des travaux sur leur propriété. Il s'ajoute au dispositif existant qui autorise déjà le maire à intervenir sur un terrain privé non entretenu, soit au titre de ses pouvoirs de police générale, soit dans le cadre de textes spéciaux, tels que la procédure de déclaration d'état d'abandon manifeste ou l'article L. 322-4 du code forestier. La préparation du décret en Conseil d'Etat, qui devra fixer les modalités d'application de cet article, a révélé l'existence de problèmes juridiques importants. En effet, l'application de l'article L. 2213-25 devra rester compatible avec l'usage de la propriété privée, alors que les notions de " motifs d'environnement " ou de terrains non entretenus ne sont définies dans aucun texte de loi. Par ailleurs, l'application de cet article ne devra pas interférer avec celle des autres textes précités. Ces questions d'ordre juridique expliquent le retard qu'a connu le projet de décret. Afin de surmonter ces difficultés, le ministère de l'intérieur et le ministère de l'aménagement du territoire et de l'environnement se sont à nouveau rapprochés pour préparer un projet de décret qui sera soumis au Conseil d'Etat.
