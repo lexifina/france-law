@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980609277
+
+- Question : [SEQ980609277](seq980609277.md) — Substitution de l'appellation " travaux dirigés " à celle des " modules "
+
+## Réponse
+
+*Éducation, JO du 1998-09-10, page 2903*
+
+Réponse. - Le ministre de l'éducation nationale, de la recherche et de la technologie a engagé une consultation de très grande ampleur organisée par M. Philippe Meirieu, professeur d'université, sur les enseignements en lycée afin de les adapter aux exigences de notre temps. Elle a concerné l'ensemble des acteurs du système éducatif : élèves, enseignants, chefs d'établissement qui ont été consultés sous forme de questionnaires diffusés à des millions d'exemplaires dans tout le pays. Un colloque national qui s'est tenu les 28 et 29 avril 1998 à Lyon a synthétisé l'ensemble de ces réflexions et consultations dans un rapport qui a été remis au ministre. A partir de ce rapport, le ministre a dégagé un certain nombre de grandes orientations et principes qui ont été présentés devant le Parlement. Ces orientations ont également été soumises pour consultation, aux confédérations syndicales et aux organisations d'employeurs. Les fédérations syndicales représentatives des personnels de lycées sont consultées, comme les différentes associations concernées, puis le Conseil national des programmes sera saisi. S'agissant plus particulièrement des heures de travail dirigé, aucune décision n'a été prise à l'heure actuelle. Les principes énoncés par le ministre doivent trouver une traduction dans des textes réglementaires qui préciseront dans le détail les modifications à apporter à la structure actuelle des enseignements, mais la réflexion à ce sujet n'en est qu'à ses débuts. Il convient, en effet, de se donner du temps afin de mettre en place, dans les meilleures conditions, une rénovation des études en lycées.
