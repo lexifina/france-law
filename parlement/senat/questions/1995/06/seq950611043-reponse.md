@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950611043
+
+- Question : [SEQ950611043](seq950611043.md) — Modalités de radiation des listes électorales
+
+## Réponse
+
+*Justice, JO du 1995-09-21, page 1824*
+
+Réponse. - En réponse à la question de l'honorable parlementaire, il convient préalablement d'observer que l'inscription pour la cinquième année consécutive, sans interruption, au rôle des impôts communaux n'est pas une condition exclusive pour figurer sur la liste électorale. Le domicile réel ou la résidence depuis six mois au moins font également partie des critères prévus par l'article L. 11 du code électoral. L'hypothèse évoquée par l'honorable parlementaire dans sa question paraît être celle d'un électeur qui disposerait du choix entre deux communes selon ces critères. En principe, après clôture des opérations de révision, l'électeur radié ne peut plus demander son inscription avant la révision suivante, nonobstant les cas expressément prévus par l'article L. 30 du code électoral. Mais l'électeur estimant avoir été radié des listes électorales, sans avoir été averti par le maire de la commune ou mis en mesure de présenter ses observations, peut jusqu'au jour du premier tour de scrutin effectuer un recours devant le tribunal d'instance. La suggestion émise par l'honorable parlementaire de permettre à un électeur radié des listes électorales en raison du défaut d'inscription au rôle des impôts d'être, sans transition, inscrit sur d'autres listes, ne paraît pas satisfaire au principe en vertu duquel seul l'électeur choisit la liste où il désire être inscrit au cas où il a vocation à figurer sur plusieurs d'entre elles. La date de clôture fixée répond à des impératifs de fiabilité des listes électorales qui rejoignent le souci du renforcement des droits civiques exprimé par l'auteur de la question. Il n'est donc pas envisagé d'apporter des modifications aux textes en vigueur.
