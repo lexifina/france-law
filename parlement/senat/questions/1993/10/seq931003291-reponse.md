@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931003291
+
+- Question : [SEQ931003291](seq931003291.md) — Suppression de sociétés de secours miniers
+
+## Réponse
+
+*Affaires sociales, JO du 1993-12-30, page 2527*
+
+Réponse. - . La Cour des comptes a souligné, au début de l'année 1992, le caractère insuffisant des efforts de regroupement de sociétés de secours minières effectués par les pouvoirs publics, en liaison avec les administrateurs du régime minier. Pour la région Nord - Pas-de-Calais, le Gouvernement a préparé un projet d'arrêté organisant le regroupement des cinq organismes existant en deux sociétés de secours minières à compétence départementale. En proposant ce regroupement, le Gouvernement n'a nullement entendu porter atteinte au niveau des soins et de protection sociale dont bénéficie la population couverte par le régime minier. Bien au contraire, cette mesure devrait permettre de réunir les conditions d'une adaptation des structures de ce régime aux difficultés actuelles, notamment par la conclusion de conventions d'ouverture des oeuvres sanitaires, et ce afin de garantir aux assurés le maintien d'une protection sociale de haut niveau et des soins de qualité. Afin de préparer cette opération dans la meilleure concertation possible, il est prévu un groupe de travail associant paritairement des représentants des cinq sociétés de secours minières de Valenciennes, du Douaisis, de la Haute-Deule et de la Gohelle et des représentants des services déconcentrés de l'Etat. Ce groupe sera chargé de faire des propositions relatives, d'une part, au regroupement des organismes selon un calendrier qui devra permettre celui-ci au plus tard le 1er janvier 1995, d'autre part, aux conditions dans lesquelles l'ouverture des oeuvres du régime minier dans la région pourra être réalisée dans les délais les plus brefs possibles. Par ailleurs cette opération de regroupement ne s'accompagnera d'aucun licenciement des personnels des sociétés de secours minières.
