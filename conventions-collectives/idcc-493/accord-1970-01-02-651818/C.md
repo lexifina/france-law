@@ -1,0 +1,3 @@
+# Article C
+
+Les frais de voyage et de séjour exposés pour les besoins du service sont à la charge de l'employeur et seront remboursés, sur justificatifs produits par l'intéressé, selon des modalités fixées par l'employeur.
