@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880901626
+
+- Question : [SEQ880901626](seq880901626.md) — Développement du sport
+
+## Réponse
+
+*Sports, JO du 1989-03-30, page 527*
+
+Réponse. - L'objectif de la politique sportive du secrétariat d'Etat à la jeunesse et aux sports est de " mettre le sport à sa vraie place " dans la société afin que chacun puisse disposer d'une liberté de choix pour pratiquer une activité sportive en fonction de ses aspirations ou de ses capacités, quels que soient son âge ou sa condition sociale. Cette politique doit s'articuler selon quatre axes : la dynamisation du sport de haut niveau ; l'aménagement du temps de l'enfant ; le développement de la pratique sportive ; la formation et la recherche. Les actions d'aménagement du temps de l'enfant dépassent maintenant le stade de l'expérience : plus d'un million d'enfants sont concernés cette année, soit 130 000 de plus que l'an passé. Compte tenu de l'évolution de la situation en ce domaine, il sera possible d'inscrire cette action comme un des axes de la loi d'orientation pour l'éducation nationale. La composition des commissions régionales du Fonds national pour le développement du sport définie par le décret n° 87-65 du 4 février 1987 prévoit la participation de représentants de l'Etat et du mouvement sportif. Le préfet de région préside la commission et peut y inviter toute personne dont les compétences permettent d'éclairer la commission sur tout ou partie des points inscrits à l'ordre du jour. Des représentants des collectivités locales peuvent donc être ainsi amenés à donner leur avis sur la répartition des crédits du F.N.D.S. Par ailleurs, les députés et sénateurs rapporteurs du budget de la jeunesse et des sports sont régulièrement invités aux réunions du conseil du Fonds national pour le développement du sport.
