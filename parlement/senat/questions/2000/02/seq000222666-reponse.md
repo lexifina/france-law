@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000222666
+
+- Question : [SEQ000222666](seq000222666.md) — Suppression d'une antenne de la direction départementale de l'agriculture à Montmorillon
+
+## Réponse
+
+*Agriculture, JO du 2000-06-01, page 1943*
+
+Réponse. - La question posée par l'honorable parlementaire concerne la suppression de l'antenne de la direction départementale de l'agriculture et de la forêt de Montmorillon dans la Vienne. Cette antenne mis en place en 1941 conduisait une activité d'appui aux collectivités. Légitimement appréciée par ces dernières, celle-ci était néanmoins fortement réduite depuis plusieurs années. Par ailleurs, la petite taille de l'équipe en place et son éloignement du siège de la direction départementale de l'agriculture et de la forêt se traduisaient par des difficultés pour garantir la qualité du service rendu aux usagers, avec une organisation du travail largement partagée avec le service de Poitiers. Il a donc été décidé, en accord avec M. le préfet de la Vienne, de procéder, le 3 janvier dernier, à la fermeture de l'antenne. Cette décision n'est en aucune manière le signe d'un désengagement de l'Etat et particulièrement du ministère de l'agriculture et de la pêche vis-à-vis du sud de la Vienne. Au contraire, la restructuration mise en uvre doit permettre de maintenir, voire de renforcer, le niveau d'assistance aux collectivités de cette petite région en assurant une prestation de meilleure qualité au regard de leurs attentes. Les deux agents de l'antenne disposeront en effet à Poitiers d'un encadrement et d'un appui logistique et technique qui permettra d'assurer une réponse plus complète aux besoins exprimés en matière de développement et d'aménagement rural. L'organisation retenue me semble de nature à répondre efficacement à ces attentes et à maintenir ainsi les liens tissés de longue date avec les collectivités du sud de la Vienne pour la réalisation des travaux d'infrastructures nécessaires.
