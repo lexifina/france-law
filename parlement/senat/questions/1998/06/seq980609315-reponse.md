@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980609315
+
+- Question : [SEQ980609315](seq980609315.md) — Guyane : organisation des services du travail, de la formation professionnelle en pôle de compétence
+
+## Réponse
+
+*Outre-mer, JO du 1998-08-06, page 2575*
+
+Réponse. - L'honorable parlementaire a bien voulu attirer l'attention du Gouvernement sur l'organisation des services chargés des questions de travail, d'emploi et de la formation professionnelle dans le département de la Guyane. A ce jour, la Guyane est dotée, comme chacun des départements d'outre-mer, d'une direction départementale du travail, de l'emploi et de la formation professionnelle et d'une délégation régionale à la formation professionnelle. S'ajoute à ce dispositif une direction régionale du travail et de l'emploi, basée à Créteil, compétente pour tous les départements d'outre-mer. Afin de permettre une prise en charge globale et plus cohérente de l'ensemble des missions confiées à ces services, le ministre de l'emploi et de la solidarité envisage, en collaboration avec le secrétariat d'Etat à l'outre-mer, de créer dans chacun des départements d'outre-mer un service unique par fusion de l'actuelle direction départementale du travail, de l'emploi et de la formation professionnelle avec les deux directions régionales susmentionnées. Cette réorganisation a été amorcée par l'article nº 98-522 du 24 juin 1998 portant actualisation et adaptation du droit du travail dans les territoires, collectivités et départements d'outre-mer (Journal officiel du 27 juin 1998, p. 9814). Les attributions de la nouvelle direction du travail, de l'emploi et de la formation professionnelle de Guyane ainsi que l'organisation des services du ministère de l'emploi et de la solidarité dans les départements d'outre-mer feront l'objet d'un décret en Conseil d'Etat qui sera soumis pour avis aux conseils régionaux des départements d'outre-mer et devrait être publié avant la fin de l'année 1998.
