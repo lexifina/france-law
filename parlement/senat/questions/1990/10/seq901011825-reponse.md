@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901011825
+
+- Question : [SEQ901011825](seq901011825.md) — Branche famille du régime général de la sécurité sociale
+
+## Réponse
+
+*Famille, JO du 1990-12-27, page 2752*
+
+Réponse. - Si l'excédent réel de la branche famille s'élève à 3,5 milliards de francs au titre de l'année 1989, seule une valeur approximative de 4 milliards de francs peut être fournie pourl'année 1990. Les chiffres prévisionnels pour l'année 1991 communiqués dans le rapport de la commission des comptes de la sécurité sociale de juin 1990 faisaient état d'une somme de 9,8 milliards de francs, en cours de révision, compte tenu des éléments nouveaux survenus depuis lors. L'allégement de l'excédent initialement envisagé en 1989 résulte de l'accroissement des transferts effectués par la caisse nationale des allocations familiales à la branche vieillesse au titre des cotisations d'assurance vieillesse des parents au foyer. Il faut souligner que les avantages distribués par la branche famille ne sont pas dissociables des avantages alloués par l'ensemble des branches de la sécurité sociale. Ainsi la prise en charge par la branche famille des cotisations d'assurance vieillesse des parents au foyer représente un coût annuel variable de l'ordre de plusieurs milliards de francs et ne peut être considéré comme étant un excédent, dans la mesure où l'affiliation concernée, gratuite pour le bénéficiaire, est liée à la perception de certaines prestations familiales et entre de ce fait dans le cadre de la politique familiale. Il est de plus rappelé à l'honorable parlementaire que les mesures instituées au cours du premier semestre 1990, représentent une dépense de 1,2 milliard de francs et intéressent l'institution familiale dans son ensemble. Les choix gouvernementaux retenus en la matière satisfont à des objectifs de justice sociale tout en restant compatibles avec l'effort de maîtrise des grands équilibres nationaux.
