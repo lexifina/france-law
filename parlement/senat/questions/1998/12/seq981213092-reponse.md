@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981213092
+
+- Question : [SEQ981213092](seq981213092.md) — Accessibilité dans les transports en commun
+
+## Réponse
+
+*Équipement, JO du 1999-03-25, page 980*
+
+Réponse. - Comme toute entreprise de transport, la RATP doit parfois répondre à des exigences difficilement conciliables. Tel est bien le cas dans les domaines de la lutte contre la fraude et de l'accessibilité des réseaux. Il convient toutefois de souligner que, dans les stations de métro, le renforcement des lignes de contrôle antifraude s'accompagne, à chaque fois, de la mise en place d'un portillon de service, situé à proximité des guichets, commandé à distance par les agents de la régie. Les nouvelles stations, quant à elles, sont équipées de passages spécialement destinés aux personnes à mobilité réduite et aux utilisateurs de fauteuils roulants. En effet, sur le prolongement de la ligne 13 et sur la totalité de la ligne 14, des ascenseurs permettent l'accès depuis le trottoir et les lignes de contrôle sont équipées de sas dimensionnés pour les fauteuils roulants et les poussettes. Ces équipements sont difficilement généralisables aux anciennes stations trop exiguës. Pour les gares du RER, les voyageurs encombrés ou à mobilité réduite peuvent demander au personnel l'ouverture des portillons de service, aussi bien en entrée qu'en sortie. La RATP étudie actuellement l'automatisation de la validation des billets et de la télécommande des portillons pour cette catégorie de voyageurs. Cette automatisation facilitera l'accessibilité de la quasi-totalité des gares du RER aux personnes handicapées. Sur le réseau routier, l'équipement en cours d'autobus à plancher surbaissé, dotés de systèmes d'agenouillement et de palettes, devrait encore améliorer les déplacements des personnes à mobilité réduite.
