@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911219099
+
+- Question : [SEQ911219099](seq911219099.md) — Centres d'information et d'orientation
+
+## Réponse
+
+*Éducation, JO du 1992-03-31, page 783*
+
+Réponse. - L'article 67 de la loi de finances n° 66-935 du 17 décembre 1966 a prévu que les centres d'information et d'orientation pourraient être transformés en services d'Etat. Depuis, 280 C.I.O. ont été étatisés, ce qui représente environ 54 p. 100 de l'ensemble des services. 238 C.I.O. restent encore à la charge des départements. L'académie de Nantes possède douze C.I.O. départementaux et huit C.I.O. d'Etat. S'agissant des budgets de fonctionnement des centres d'information et d'orientation qui émargent au budget de l'Etat, il convient de préciser que la gestion des crédits d'équipement et de fonctionnement des services académiques est désormais globalisée. Les missions et charges des C.I.O. sont prises en compte dans la détermination des budgets des académies. Les C.I.O. bénéficient donc de crédits de fonctionnement et d'équipement du rectorat et des ressources provenant de la taxe d'apprentissage recouvrée par voie de fonds de concours. Dans le cadre de cettedéconcentration, le recteur de l'académie de Nantes a toute latitude pour répartir l'enveloppe de crédits notifiée entre les différents services académiques, en fonction des priorités déterminées localement. Au cours de l'exercice 1991, les C.I.O., comme tous les services des académies, ont été soumis au dispositif de régulation budgétaire mis en place à la demande du Premier ministre, afin de mieux étaler dans le temps la dépense publique. Depuis la levée du dispositif, intervenue dans le courant du mois d'octobre, le solde de la dotation des services académiques a pu être délégué et les C.I.O. ont donc pu obtenir l'intégralité des crédits qui leur avaient été accordés par le recteur.
