@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030205633
+
+- Question : [SEQ030205633](seq030205633.md) — Conséquences de la mise en place d'un guichet social unique pour les travailleurs indépendants
+
+## Réponse
+
+*Affaires sociales, JO du 2003-04-10, page 1228*
+
+L'attention du ministre des affaires sociales, du travail et de la solidarité est appelée sur la mise en place du " guichet social unique " pour le recouvrement des cotisations et contributions sociales des commerçants et des artisans inscrites dans le projet de loi portant habilitation du Gouvernement à prendre, par ordonnance, des mesures législatives portant simplification dans le domaine de la protection sociale et de la santé. Cette mesure a également été introduite, par voie d'amendement, dans le projet de loi sur l'initiative économique, actuellement en discussion devant le Sénat. Le Gouvernement tient à réaffirmer sa volonté de répondre aux attentes des commerçants et des artisans en simplifiant et en allégeant les formalités sociales auxquelles ils sont confrontés. Il le fera dans le respect des intérêts des personnels des organismes de sécurité sociale et avec la plus large concertation. Aucune décision n'est aujourd'hui prise sur les modalités pratiques de mise en place de ce recouvrement unifié pour les commerçants et artisans et tous les scénarios restent ouverts. Il ne saurait donc être question de choisir à ce stade quel organisme pourrait jouer le rôle de guichet unique. Le Gouvernement souhaite expertiser, préalablement à toute décision, l'ensemble des voies possibles d'évolution. C'est pourquoi une mission conjointe de l'inspection générale des affaires sociales, de l'inspection générale des finances et de l'inspection générale de l'industrie et du commerce a été diligentée. Celle-ci examinera sans a priori les différentes solutions envisageables avec leurs incidences pour les régimes et leurs agents et rendra ses conclusions très rapidement.
