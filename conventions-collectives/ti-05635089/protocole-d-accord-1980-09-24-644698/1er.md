@@ -1,16 +1,16 @@
-# Article 1
+# Article 1er
 
 Il est créé un régime de prévoyance en faveur des catégories de personnel des entreprises de transports de marchandises et de voyageurs et des activités auxiliaires du transport relevant de :
 
 - la convention collective nationale des transports routiers et activités auxiliaires du transport ;
 
-- la convention collective nationale des tramways, autobus et trolley-bus ;
+- la convention collective nationale des transports publics urbains de voyageurs ;
 
 - la convention collective nationale de travail du personnel des voies ferrées d'intérêt local.
 
 Sont intéressées par les dispositions du présent accord les catégories de personnel des entreprises visées à l'alinéa précédent :
 
-- occupant de manière effective et permanente un des emplois de conduite cités par la Convention collective de la branche professionnelle concernée ;
+- occupant de manière effective et permanente un des emplois de conduite cités par la convention collective de la branche professionnelle concernée ;
 
 - et affectées :
 
