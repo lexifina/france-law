@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930802328
+
+- Question : [SEQ930802328](seq930802328.md) — Recherche de débouchés pour les produits français de fruits et légumes
+
+## Réponse
+
+*Affaires sociales, JO du 1993-10-21, page 1948*
+
+Réponse. - La filière fruits et légumes a fait l'objet des travaux du Conseil national de l'alimentation (CNA) qui a émis le 29 avril 1993 un avis sur " les consommateurs et la qualité dans la filière des fruits et légumes frais ". Cette instance à laquelle participent activement les ministères de l'économie, de l'agriculture et de la santé ainsi que les professionnels, les consommateurs et les scientifiques, a consacré plusieurs séances à cette question afin de permettre aux différents partenaires de mieux se comprendre et de dégager les voies d'une amélioration. Par ailleurs, la mise en place de l'observatoire des consommations alimentaires doit permettre à terme de mieux connaître la consommation de fruits et légumes en France et éventuellement d'encourager la population à améliorer cette consommation lorsque celle-ci est insuffisante. La consommation française en fruits et légumes n'est pas négligeable mais elle pourrait sans doute être un peu stimulée à l'instar de certains pays européens (Grèce, Turquie, Italie, Espagne, Suisse) qui ont des consommations plus importantes. Dans d'autres pays où la consommation est particulièrement faible, des campagnes promotionnelles importantes en faveur des fruits et légumes ont été organisées par des associations (Royaume-Uni par exemple). En France, la tradition culturelle d'une alimentation assurant un apport quotidien suffisant en fruits et légumes doit être maintenue, en particulier chez les jeunes souvent tentés par des modèles alimentaires qui ont fait ailleurs la preuve de leurs effets plutôt négatifs. Dès 1989, les recommandations " Bien manger pour mieux se porter ", qui faisaient suite à un avis du CNA, conseillaient trois prises quotidiennes de fruits et légumes.
