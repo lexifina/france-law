@@ -1,6 +1,8 @@
-# Article 3 ancien
+# Article 3 nouveau
 
-En sus de leur salaire, les employés recevront une majoration selon leur temps de présence dans l'entreprise, qui ne devra pas être inférieure à :
+Les employés bénéficient d'une prime forfaitaire d'ancienneté, en fonction de leur temps de présence dans l'entreprise.
+
+Le montant de la prime est calculé en pourcentage du salaire minimum attribué à l'employé en application des articles 1er et 2 de l'annexe I, soit :
 
 3 p. 100 après trois ans ;
 
@@ -12,6 +14,6 @@ En sus de leur salaire, les employés recevront une majoration selon leur temps 
 
 15 p. 100 après quinze ans ;
 
-18 p. 100 après vingt ans.
+18 p. 100 après dix-huit ans.
 
-çette majoration est calculée sur le salaire minimum attribué à l'employé en application des articles 1er et 2 de la présente annexe.
+La rémunération de l'employé ne peut être inférieure au total du salaire minimum de sa catégorie et de la prime d'ancienneté à laquelle il a droit.

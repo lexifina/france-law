@@ -1,3 +1,5 @@
-# Article 17 ancien
+# Article 17 nouveau
 
-La présente convention s'appliquant indistinctement aux agents de l'un et l'autre sexes, les jeunes filles et les femmes remplissant les conditions requises pourront, au même titre que les jeunes gens et les hommes, accéder à tous les emplois, sans discrimination dans les classifications ou rémunérations, le tout sous réserve de l'application en leur faveur des dispositions légales ou réglementaires.
+Les jours fériés sont chômés.
+
+Toutefois, le personnel de surveillance, de sécurité et d'entretien peut être amené à travailler les jours fériés contre compensation équivalente.

@@ -1,13 +1,21 @@
-# Article 15 ancien
+# Article 15 nouveau
 
-En dehors des congés annuels normaux et des congés de naissance de trois jours pris dans les conditions prévues par la loi du 18 mai 1946, des congés exceptionnels payés sont accordés aux cadres ou assimilés à l'occasion des événements familiaux suivants. Ils ne peuvent être inférieurs à :
+La cessation d'activité des agents de maîtrise et cadres appelés à bénéficier d'une pension de retraite ou de la garantie de ressources instituée par l'accord interprofessionnel du 13 juin 1977 et ses avenants intervient dans les conditions suivantes, par dérogation à l'article 13 de l'annexe II :
 
-- mariage du cadre : six jours ouvrables ;
+- chacune des parties doit prévenir l'autre trois mois avant la date de départ effectif ;
 
-- décès du conjoint, du père, de la mère ou d'un enfant : quatre jours ouvrables augmentés, le cas échéant, du temps nécessaire au voyage aller et retour en chemin de fer dans la métropole ;
+- l'entreprise verse à l'agent de maîtrise ou au cadre en même temps que son dernier salaire mensuel, en sus de celui-ci et de l'indemnité représentative de congés payés, une indemnité égale à trois mois de salaire. Cette indemnité est portée à quatre mois de salaire, lorsque l'agent de maîtrise ou le cadre a vingt ans révolus de présence dans l'entreprise.
 
-- décès d'un frère ou d'une soeur, d'un autre ascendant direct ou d'un autre descendant direct du cadre ou de son conjoint : un jour ouvrable augmenté, le cas échéant, du temps nécessaire au voyage aller et retour en chemin de fer dans la métropole ;
+L'indemnité de licenciement n'est, en aucun cas, exigible.
 
-- cérémonies civiles ou religieuses intéressant les descendants directs : un jour ouvrable.
+L'indemnité due est calculée :
 
-çes congés sont pris dans les jours mêmes où ils sont justifiés par les événements de famille.
+- sur les appointements mensuels de l'agent de maîtrise ou du cadre au moment du départ,
+
+et
+
+- sur le douzième des autres rémunérations acquises au titre des douze derniers mois, à l'exclusion des frais de déplacement et des indemnités ou rémunérations n'ayant pas le caractère de salaire.
+
+En cas de suspension du contrat de travail pendant tout ou partie des douze mois précédents, pour toute autre cause que la force majeure ou une faute de l'agent de maîtrise ou du cadre, l'indemnité est calculée en fonction des salaires qui auraient été acquis s'il avait été présent dans l'entreprise.
+
+Le jour du départ à la retraite doit, le cas échéant et dans la mesure du possible, être fixé en conformité avec les règles définies par les institutions de retraite.

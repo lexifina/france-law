@@ -1,3 +1,3 @@
-# Article 15 ancien
+# Article 15 nouveau
 
-Les dispositions applicables en cas de maladie, d'accident ou de maternité, sont définies, pour chaque catégorie, dans les annexes I (Employés) et II (Agents de maîtrise et cadres) à la présente convention.
+Les règles relatives à la prime forfaitaire d'ancienneté sont définies aux articles 3 de l'annexe I (Employés), 3 de l'annexe II (Agents de maîtrise et cadres), 5 de l'annexe IV (Correcteurs à domicile).

@@ -1,13 +1,13 @@
-# Article 10 ancien
+# Article 10 nouveau
 
 La période d'essai est de :
 
-Un mois pour les employés ;
+- un mois pour les employés et les correcteurs relevant de l'annexe IV ;
 
-Deux mois pour les agents de maîtrise, les cadres de Ire catégorie et assimilés ;
+- deux mois pour les agents de maîtrise et les cadres des catégories G et I ;
 
-Trois mois pour les cadres des 2e, 3e et 4e catégories et assimilés.
+- trois mois pour les autres cadres.
 
-Au cours de la période d'essai, l'agent peut donner ou recevoir congé sans préavis, sur simple signification.
+Au cours de la période d'essai, le salarié peut donner ou recevoir congé à tout moment, sans préavis.
 
-A l'issue de la période d'essai, tout engagement est confirmé par une lettre précisant la fonction de l'agent, son coefficient hiérarchique, ses appointements et les rémunérations de caractère assuré.
+A l'issue de la période d'essai, tout engagement est confirmé par une lettre précisant la fonction du salarié, sa catégorie, ses appointements et les rémunérations de caractère assuré.

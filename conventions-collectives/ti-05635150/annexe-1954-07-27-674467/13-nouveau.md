@@ -1,13 +1,35 @@
-# Article 13 ancien
+# Article 13 nouveau
 
-En dehors des congés annuels normaux et des congés de naissance de trois jours, pris dans les conditions prévues par la loi du 18 mai 1946, des congés exceptionnels payés seront accordés au personnel à l'occasion des événements familiaux suivants. Ils ne pourront être inférieurs à :
+Les employés ont droit, chaque année, à :
 
-Mariage de l'employé : six jours ouvrables ;
+- un congé principal de :
 
-Décès du conjoint, du père, de la mère ou d'un enfant : quatre jours ouvrables, augmentés, le cas échéant, du temps nécessaire au retour des obsèques, si, en raison du lieu et du moment où celles-ci ont lieu, ce retour ne peut être effectué avant l'expiration des quatre jours ;
+- deux jours ouvrables par mois de présence dans l'entreprise au-dessous d'un an ;
 
-Décès d'un frère ou d'une soeur, d'un autre ascendant direct ou d'un autre descendant direct de l'employé ou de son conjoint : 1 jour ouvrable, augmenté, le cas échéant, du temps nécessaire au retour des obsèques, si en raison du lieu et du moment où celles-ci ont lieu, ce retour ne peut être effectué avant l'expiration de la journée ;
+- vingt-quatre jours ouvrables après un an de présence dans l'entreprise ;
 
-çérémonies civiles ou religieuses intéressant les descendants directs : un jour ouvrable.
+- un mois de date à date après dix ans de présence dans l'entreprise,
 
-çes congés sont pris dans les jours mêmes où ils sont justifiés par les événements de famille.
+pris en principe en une fois et pendant la période légale des congés payés,
+
+- et à un congé supplémentaire d'une demi-journée par mois avec un maximum de six jours ouvrables pris, en principe, en dehors de la période légale de congés payés à tout moment de l'année.
+
+Le droit au congé supplémentaire n'est ouvert que lorsque l'employé a trois mois de présence dans l'entreprise.
+
+Le congé supplémentaire constitue le prolongement du congé principal.
+
+Pour le calcul du droit au congé, tant principal que supplémentaire, la période de référence commence le 1er juin pour se terminer le 31 mai de l'année suivante.
+
+Le samedi est considéré comme jour ouvrable même lorsque, la durée hebdomadaire de travail étant répartie sur cinq jours, il est en fait un jour de repos.
+
+Toutefois, lorsqu'un employé part en congé à la fin de la semaine de travail, le lundi suivant est considéré comme le premier jour ouvrable du congé.
+
+Les femmes âgées de moins de vingt et un ans et ayant un enfant à charge bénéficient, en outre, du congé prévu à l'article L. 223-5 du code du travail.
+
+Pour la fixation des dates de départ, la priorité du choix à l'ancienneté ne constitue pas une règle absolue.
+
+Pour l'appréciation du droit au congé, sont notamment considérées comme période de travail effectif les périodes militaires de réserve obligatoires et non provoquées par l'intéressé ; les congés exceptionnels définis à l'article 14 de la présente annexe ; les congés conventionnels de maternité ; les absences pour accident du travail, les absences pour maladie pendant la période où le salaire est entièrement maintenu par l'employeur.
+
+Il ne peut être effectué de retenues sur les congés pour compenser les absences dues à la maladie et, de manière générale, à un cas de force majeur dûment justifié auprès de l'employeur.
+
+Les congés sont dus aux employés démissionnaires ou licenciés pour tout autre motif que la faute lourde suivant les règles ci-dessus édictées et au prorata du temps de travail effectif.

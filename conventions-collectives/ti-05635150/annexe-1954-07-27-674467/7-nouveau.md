@@ -1,5 +1,3 @@
-# Article 7
+# Article 7 nouveau
 
-Le bulletin de paie doit porter la mention exacte de l'emploi et du coefficient hiérarchique.
-
-Il doit, en outre, faire apparaître les différents éléments du salaire brut : prime d'ancienneté, heures supplémentaires, primes et accessoires divers.
+Les frais d'entretien, réparations et assurance des bicyclettes ou autres engins des livreurs sont à la charge de l'employeur.

@@ -1,19 +1,29 @@
-# Article 13 ancien
+# Article 13 nouveau
 
-Le préavis de licenciement et de congé est fixé à :
+Le délai-congé en cas de démission ou de licenciement est fixé à :
 
-- deux mois pour les cadres de 1re catégorie et assimilés ;
+- deux mois pour les agents de maîtrise, les cadres des catégories G et I ;
 
-- trois mois pour les cadres des 2e, 3e et 4e catégories et assimilés.
+- trois mois pour les autres cadres.
 
-En plus de ce préavis, il sera alloué aux cadres licenciés une indemnité de licenciement distincte du préavis et se montant à un demi-mois par semestre, avec un minimum d'un mois après six mois de présence et maximum de dix-huit mois.
+Les agents de maîtrise et les cadres licenciés se voient verser une indemnité de licenciement calculée de la manière suivante :
 
-L'indemnité sera calculée :
+- un demi-mois de salaire par semestre avec minimum d'un mois après six mois de présence et maximum de dix-huit mois.
 
-1° Sur les appointements mensuels du cadre au moment du licenciement ;
+L'indemnité est calculée :
 
-2° Sur la moyenne des autres rémunérations acquises au cours des douze derniers mois, à l'exclusion des frais de déplacement et indemnités spéciales pour charges de famille.
+- sur les appointements mensuels de l'agent de maîtrise ou du cadre au moment de la fin du délai-congé,
 
-Il est bien entendu qu'en cas de licenciement l'indemnité payée n'exclut pas le paiement des congés dus et que la durée des congés s'ajoute à la période de préavis.
+et
 
-Toutefois, lorsque le licenciement a pour motif la mise à la retraite, le préavis et l'indemnité de licenciement sont fixés par l'article 7 de l'annexe III.
+- sur le douzième des autres rémunérations acquises au titre des douze derniers mois, à l'exclusion des frais de déplacement et des indemnités et rémunérations n'ayant pas le caractère de salaire.
+
+En cas de suspension du contrat de travail pendant tout ou partie des douze mois précédents pour toute cause autre que la force majeure ou une faute de l'agent de maîtrise ou du cadre, l'indemnité est calculée en fonction des salaires qui auraient été acquis s'il avait été présent dans l'entreprise.
+
+Lorsque l'agent de maîtrise ou le cadre est autorisé à ne pas effectuer le délai-congé, le calcul des douze derniers mois s'effectue à compter de la date normale de fin du délai-congé.
+
+Lorsque la cause du licenciement entraîne la suppression du délai-congé, l'indemnité de licenciement n'est pas due.
+
+En cas de licenciement, l'indemnité versée n'exclut pas le paiement des congés dus et la durée des congés dus s'ajoute à la période du préavis.
+
+Les règles ci-dessus définies ne trouvent pas application dans les cas visés aux articles 14 et 15 de l'annexe II (Agents de maîtrise et cadres) à la présente convention.

@@ -1,6 +1,8 @@
-# Article 3 ancien
+# Article 3 nouveau
 
-Les agents de maîtrise, les cadres de commandement des 1re, 2e et 3e catégories et les cadres techniques jusqu'au coefficient 525 bénéficient d'une majoration d'ancienneté suivant leur temps de classement dans les cadres, que ce temps soit acquis dans la maison même ou antérieurement dans une autre entreprise de la profession. Cette majoration ne peut être inférieure à :
+Les agents de maîtrise et les cadres jusqu'à la catégorie R incluse bénéficient d'une prime forfaitaire d'ancienneté en fonction de leur temps de classement dans les cadres, dans l'entreprise ou dans une autre maison d'édition.
+
+Le montant de la prime est calculé en pourcentage du salaire minimum attribué au cadre ou à l'agent de maîtrise, en application des articles 1er et 2 de l'annexe II, soit :
 
 3 p. 100 après trois ans ;
 
@@ -12,8 +14,8 @@ Les agents de maîtrise, les cadres de commandement des 1re, 2e et 3e catégorie
 
 15 p. 100 après quinze ans ;
 
-18 p. 100 après vingt ans.
+18 p. 100 après dix-huit ans.
 
-Tous les cadres (cadres techniques et cadres de commandement de la 4e catégorie) bénéficient pareillement des majorations d'ancienneté sous les réserves et dans les conditions suivantes : dans le cas où leur rémunération fixée par d'éventuels accords et contrats particuliers comporte des avantages personnels égaux ou supérieurs à la majoration d'ancienneté à laquelle peuvent prétendre les intéressés, ladite majoration s'imputera sur ces avantages particuliers sans qu'il y ait jamais cumul entre l'une et les autres.
+La rémunération du cadre ou de l'agent de maîtrise ne peut être inférieure au total du salaire minimum de sa catégorie et de la prime d'ancienneté à laquelle il a droit.
 
-La majoration pour ancienneté est calculée sur le salaire minimum correspondant à la fonction de l'intéressé tel qu'il ressort des articles 1er et 2 de la présente annexe.
+Tous les cadres et agents de maîtrise visés à l'alinéa 1er bénéficient pareillement de la prime d'ancienneté, sous les réserves et dans les conditions suivantes : dans le cas où leur rémunération fixée par d'éventuels accords et contrats particuliers comporte des avantages personnels égaux ou supérieurs à la prime d'ancienneté à laquelle peuvent prétendre les intéressés, ladite prime s'impute sur les avantages personnels sans qu'il y ait jamais cumul.

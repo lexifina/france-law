@@ -1,3 +1,3 @@
-# Article 23 ancien
+# Article 23 nouveau
 
-Dans tous les cas de réclamations collectives, les parties contractantes s'engagent à respecter un délai d'une semaine franche en vue de l'examen desdites réclamations et avant toute mesure de fermeture d'établissement ou de cessation de travail.
+Les règles relatives aux congés payés sont définies aux articles 12 de l'annexe I (Employés), 14 de l'annexe II (Agents de maîtrise et cadres), 4 de l'annexe IV (Correcteurs à domicile).

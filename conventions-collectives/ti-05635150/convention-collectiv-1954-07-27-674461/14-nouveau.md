@@ -1,7 +1,3 @@
-# Article 14 ancien
+# Article 14 nouveau
 
-Les salaires minima sont fixés par les tableaux de classification et les barèmes inclus dans l'annexe I (Employés) et l'annexe II (Agents de maîtrise et cadres) à la présente convention.
-
-Les jours fériés sont chômés.
-
-Toutefois, le personnel de surveillance, de sécurité et d'entretien pourra être amené à travailler les jours fériés contre compensation équivalente.
+Les salaires minima sont fixés par les articles 1er et 2 de l'annexe I (Employés), 1 et 2 de l'annexe II (Agents de maîtrise et cadres), 3 de l'annexe IV (Correcteurs à domicile) à la présente convention.
