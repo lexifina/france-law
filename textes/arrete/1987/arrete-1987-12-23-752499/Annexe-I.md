@@ -1,253 +1,51 @@
 # Article Annexe I
 
-Référence : programmes du second cycle de l'enseignement secondaire
+I. - Programme de biologie
 
-Biologie humaine
+Le programme de l'épreuve de biologie porte sur les points suivants du programme de sciences de la vie et de la terre de première scientifique (arrêté du 10 juillet 1992, publié au Bulletin officiel de l'éducation nationale hors série du 24 septembre 1992, tome II) et de terminale scientifique (arrêté du 8 avril 1994, publié au Bulletin officiel de l'éducation nationale n° 6 du 9 juin 1994) :
 
-Appareil locomoteur :
+A. - Points issus de première scientifique
 
-- les os ;
+1. Edification de l'organisme, maintien de son identité biologique et information génétique.
 
-- les articulations ;
+2. Quelques aspects du métabolisme énergétique.
 
-- les muscles.
+B. - Points issus de terminale scientifique
 
-Appareil circulatoire :
+1. Unicité génétique des individus et polymorphisme des espèces
 
-- le sang ;
+1. Origine du polymorphisme génique.
 
-- le coeur et les vaisseaux.
+2. Mécanismes fondamentaux de la reproduction sexuée ; cycle de développement.
 
-Appareil respiratoire.
+3. Brassage génique assuré par la reproduction sexuée et unicité génétique des individus.
 
-Appareil digestif.
+4. Diversité génétique des populations.
 
-Glandes endocrines.
+5. Prévisions en génétique humaine.
 
-Appareil urinaire.
+2. Mécanismes de l'immunité
 
-Appareil génital.
+1. Soi et non-soi.
 
-Les microbes et les virus.
+2. Bases de l'immunocompétence.
 
-Le système nerveux central et périphérique.
+3. Déroulement de la réponse immunitaire.
 
-Les fonctions motrices : la contraction musculaire et sa commande.
+3. Aspects du fonctionnement des centres nerveux
 
-Motricité volontaire.
+1. Les propriétés intégratrices des centres nerveux et le fonctionnement des neurones.
 
-L'activité cérébrale.
+2. L'activité cérébrale.
 
-Les fonctions sensorielles.
+4. Fonctionnement d'un système de régulation
 
-Biologie cellulaire :
+Régulation des taux d'hormones sexuelles.
 
-- échanges cellulaires ;
+5. Histoire et évaluation de la terre et des êtres vivants
 
-- la synthèse des protéines (notions succinctes) ;
+Evolution biologique et changement de l'environnement : la lignée humaine.
 
-- phénomènes énergétiques : respiration, fermentation.
+II. - Programme de physique et de chimie
 
-Fonctionnement de la cellule musculaire.
-
-Autotrophie et hétérotrophie.
-
-Equilibre acido-basique.
-
-Equilibre hydro-électrolytique.
-
-L'hérédité : notions générales de génétique.
-
-Physique
-
-A - Mécanique
-
-Notion de force.
-
-Principe d'inertie : action et réaction.
-
-Statique de la rotation.
-
-La translation : statique et cinétique.
-
-Notion de travail d'une force :
-
-- travail des forces de pesanteur ;
-
-- travail d'un couple ;
-
-- les machines simples : treuil, poulie, palan, plan incliné.
-
-Puissance développée.
-
-Théorème de l'énergie cinétique.
-
-B - Echanges thermiques
-
-Notion de température.
-
-Définitions : chaleur massique, capacité calorifique, valeur en eau.
-
-Echanges de chaleur : calorimètre et mesures calorimétriques.
-
-C - Changement d'état
-
-Fusion et solidification.
-
-Chaleur de fusion.
-
-Evaporation et ébullition.
-
-Chaleur de vaporisation.
-
-Condensation.
-
-D - Electrostatique
-
-Champ électrique.
-
-Loi de Coulomb.
-
-Notion de différence de potentiel.
-
-E - Electrocinétique
-
-Courant continu
-
-1. Intensité et tension.
-
-1.1. Extraction d'électrons de la matière par effet thermo-électronique : visualisation d'un faisceau d'électrons ; oscillographe (aspect qualitatif).
-
-1.2. Courant électrique continu : circulation des porteurs de charge, sens conventionnel du courant, détermination du sens du courant et mesure de l'intensité d'un courant, notion de quantité d'électricité.
-
-1.3. Tension électrique ou différence de potentiel entre deux points d'un circuit : sa mesure.
-
-2. Etudes de dipôles : quelques dipôles passifs simples.
-
-2.1. Etude des caractéristiques intensité-tension de quelques dipôles passifs ; conducteur ohmique, résistance et conductance d'un conducteur ohmique.
-
-2.2. Etude de la caractéristique intensité-tension d'une pile, résistance interne et force électro-motrice.
-
-Courants variables
-
-Existence de tensions variables.
-
-F - Phénomènes vibratoires et propagation
-
-1. Propagation d'un signal : onde progressive.
-
-1.1. Mise en évidence expérimentale de la propagation d'un signal célérité. Variation d'une part, au cours du temps, d'autre part, selon la distance à la source des grandeurs associées à un signal qui se propage.
-
-1.2. Phénomènes vibratoires entretenus : période, fréquence.
-
-1.3. Propagation d'un phénomène vibratoire entretenu : longueur d'onde, onde progressive, dans un milieu unidimensionnel, double périodicité du phénomène.
-
-1.4. Mise en évidence expérimentale des phénomènes de réflexions, de transmission, de diffraction et d'interférences.
-
-2. Les ondes lumineuses.
-
-2.1. Propagation rectiligne et diffraction, réflexion, réfraction de la lumière. Image. Interférences lumineuses.
-
-2.2. Dispersion de la lumière : spectres.
-
-2.3. Applications aux instruments d'optique : miroirs, dioptre plan, lame à faces parallèles, lentilles sphériques, microscopes, prismes.
-
-G - Physique atomique et nucléaire
-
-Aspect corpusculaire de la lumière : effet photo-électrique, énergie du photon.
-
-Notions sur les rayons X.
-
-Le noyau atomique et les réactions nucléaires.
-
-Masse et énergie, relation d'Einstein (approche).
-
-Réactions nucléaires spontanées : rayonnements, applications, protection contre ces rayonnements.
-
-Réactions nucléaires provoquées.
-
-H - Electromagnétisme
-
-Les aimants.
-
-Le champ magnétique.
-
-Application : le champ magnétique terrestre, le champ magnétique créé par un courant.
-
-Chimie (chimie générale, chimie minérale et chimie organique)
-
-L'atome et son noyau (niveau d'énergie, isotopie, écriture spectroscopique).
-
-Les liaisons chimiques (covalence, ionique et dative).
-
-Loi d'Avogadro-Ampere, la mole.
-
-Loi de Lavoisier,
-
-L'oxydo-réduction :
-
-- définition ;
-
-- exemples d'oxydants et de réducteurs ;
-
-- réactions d'oxyda-réduction ;
-
-- nombre d'oxydation ;
-
-- la pile de Daniell ;
-
-- électrolyse.
-
-Réaction acide-base.
-
-Notion de pH.
-
-Acides forts, faibles (en utilisant des exemples).
-
-Bases fortes, faibles (en utilisant des exemples).
-
-Propriétés essentielles de quelques corps ;
-
-- oxygène ;
-
-- hydrogène ;
-
-- chlorure d'hydrogène et acide chlorhydrique ;
-
-- acide sulfurique ;
-
-- acide nitrique :
-
-- carbone : monoxyde de carbone, dioxyde de carbone (gaz carbonique) :
-
-- sodium :
-
-- soude.
-
-- le chlore.
-
-Tétravalence du carbone.
-
-Les hydrocarbures :
-
-- alcanes, alcènes, alcynes ;
-
-- hydrocarbures aromatiques ;
-
-- nomenclature, réactions d'addition et de substitution.
-
-L'éthanol.
-
-L'acide éthanoique.
-
-La monoéthylamine.
-
-Les acides aminés.
-
-Généralités sur les protéines.
-
-Généralités sur les glucides.
-
-Généralités sur les lipides.
-
-Unités internationales.
+Le programme des épreuves de physique et de chimie porte sur l'intégralité du programme de physique et de chimie de première et de terminale scientifiques (arrêté du 10 juillet 1992, Bulletin officiel de l'éducation nationale hors série du 24 septembre 1992, tome I, et arrêté du 12 janvier 1995, publié au Bulletin officiel de l'éducation nationale spécial n° 3 du 16 février 1995).
