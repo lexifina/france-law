@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960213627
+
+- Question : [SEQ960213627](seq960213627.md) — Utilisation des boues urbaines en agriculture par épandage
+
+## Réponse
+
+*Environnement, JO du 1996-03-28, page 733*
+
+Réponse. - Mme le ministre de l'environnement a pris connaissance avec intérêt de la question posée par l'honorable parlementaire concernant l'utilisation des boues urbaines en agriculture par épandage. Si plusieurs raisons militent en faveur du recyclage des boues urbaines en agriculture, et notamment leurs apports en éléments fertilisants et en oligo-éléments aux sols agricoles, cette technique ne peut être pérenne à terme que si elle est effectuée dans des conditions techniques irréprochables, aptes à garantir l'innocuité vis-à-vis des utilisateurs, des consommateurs, des cultures, des sols et des nappes phréatiques, et à préserver les populations riveraines des nuisances éventuelles. Plusieurs initiatives ont déjà été prises en ce sens, parmi lesquelles l'élaboration d'une charte nationale en vue d'une démarche de qualité pour l'épandage des boues urbaines en agriculture et la mise en place d'un groupe de réflexion sous l'autorité du conseil supérieur d'hygiène publique de France. Ces premières réflexions ont conduit à relever que la réglementation existante, pourtant très fournie, devait être simplifiée, homogénéisée et complétée de manière à couvrir l'ensemble des risques potentiels, à exercer un meilleur suivi sur ces activités, et à rendre plus lisible le droit pour faire en sorte qu'il soit mieux appliqué. Ce débat est engagé actuellement, et les chambres d'agriculture y sont étroitement associées compte tenu de leur expérience sur le terrain, aux côtés de l'agence de l'environnement et de la maîtrise de l'énergie, et des agences de l'eau qui ont su démontrer jusqu'à présent leur efficacité pour défendre les intérêts environnementaux et agronomiques.
