@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931204240
+
+- Question : [SEQ931204240](seq931204240.md) — Utilisation des reliquats des fonds destinés aux dépenses d'insertion
+
+## Réponse
+
+*Affaires sociales, JO du 1994-04-21, page 941*
+
+Réponse. - L'honorable parlementaire appelle l'attention de madame le ministre d'Etat, ministre des affaires sociales, de la santé et de la ville sur l'utilisation des crédits d'insertion départementaux non consommés pour couvrir en partie les dépenses d'aide médicale. La loi fait en effet obligation aux départements de consacrer à l'insertion des bénéficiaires du RMI, un minimum de 20 p. 100 de l'allocation versée par l'Etat dans le département l'année précédente. Entre 1989 et 1992, le taux de consommation des crédits d'insertion départementaux est passé respectivement de 24 p. 100 à 94 p. 100 en métropole. En 1992, 51 départements ont consommé plus de 100 p. 100 de leur obligation légale et 13 départements n'ont pas de reports sur 1993. Si le volume des reports sur 1993 s'élève globalement, pour la France métropolitaine à 1 576 milliards de francs, il reflète le retard pris par les départements dans la consommation des crédits d'insertion les premières années de mise en place du dispositif RMI. L'imputabilité partielle des dépenses d'aide médicale, souhaitée par l'honorable parlementaire a été prévue par la loi du 29 juillet 1992, à hauteur de 15 p. 100 de l'obligation légale de l'année (18,75 p. 100 pour les DOM) et correspond à une prise en charge forfaitaire du surcoût des dépenses d'aide médicale. Si l'on observe une croissance des dépenses d'aide médicale, celle-ci est liée à la croissance des effectifs de bénéficiaires du RMI que doivent porter en priorité les efforts des départements, par le biais des crédits d'insertion, et notamment par la consommation des reports accumulés les années précédentes.
