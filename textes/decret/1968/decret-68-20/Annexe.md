@@ -110,11 +110,7 @@ de l'élevage.
 
 |
 
-Agents techniques de la protection
-
-des végétaux.
-
-|
+Techniciens de l'agriculture. |
 
 Agents d'agriculture et d'élevage.
 
