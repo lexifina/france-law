@@ -1,0 +1,9 @@
+# Réponse à la question SEQ891207626
+
+- Question : [SEQ891207626](seq891207626.md) — Fiscalité des sociétés civiles immobilières
+
+## Réponse
+
+*Budget, JO du 1991-08-29, page 1830*
+
+Réponse. - La réduction d'impôt prévue à l'article 199 decies du code général des impôts est applicable aux seules souscriptions de parts de sociétés immobilières d'investissement (S.I.I., loi du 15 mars 1963) ou de sociétés civiles de placement immobilier (S.C.P.I., loi du 31 décembre 1970). Il est admis que la réduction d'impôt mentionnée à l'article 199 nonies du code déjà cité s'applique aux souscriptions de part de sociétés civiles citées à l'article 1655 ter du même code. En effet, dans ces sociétés d'attribution, les associés sont réputés propriétaires des logements qui correspondent à leurs droits dans la société au même titre que s'ils avaient acquis directement un logement. En revanche, les souscriptions de parts de toute autre forme de société, notamment les sociétés civiles immobilières dites de gestion, ne bénéficient pas de ces dispositions. Il est précisé que les dispositions relatives aux logements neufs s'appliquent aux travaux effectués sur un ancien immeuble d'habitation lorsque, par leur importance et par leur nature, ils peuvent être assimilés à des opérations de reconstruction au sens de la jurisprudence du Conseil d'Etat en matière de revenus fonciers, de T.V.A. ou d'impôts locaux. En outre, ces travaux doivent avoir donné lieu à un permis de construire ou à une déclaration préalable rendus obligatoires par le code de l'urbanisme. Toutefois, s'agissant d'un cas particulier, il ne pourrait être répondu précisément à la question posée par l'honorable parlementaire que si, par l'indication des nom et adresse de la société concernée, le service était mis à même de procéder à une instruction détaillée.
