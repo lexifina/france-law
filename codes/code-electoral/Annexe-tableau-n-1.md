@@ -1,5 +1,5 @@
 # Article Annexe tableau n° 1
 
-Vous pouvez consulter le tableau en téléchargeant la version PDF du JORF du 28 octobre 1964 contenant le décret n° 64-1086 du 27 octobre 1964 portant révision du code électoral via le lien suivant :
+Vous pouvez consulter le tableau en téléchargeant la version PDF du JORF du 11 juillet 1985 contenant la loi n° 85-690 du 10 juillet 1985 modifiant le code électoral et relative à l'élection des députés via le lien suivant :
 
-https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000670066
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000317296
