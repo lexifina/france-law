@@ -105,3 +105,39 @@ Groupe de réflexion Recherche clinique ;
 Groupe de travail sur les matériaux ;
 
 Mission d'information des commissaires du Gouvernement des groupements d'intérêt public et mission d'expertise sur l'activité de ces groupements.
+
+Comité Biotechnologies ;
+
+Comité pour les composants passifs et interconnexions ;
+
+Comité pour l'électronique ;
+
+Comité pour l'informatique ;
+
+Comité pour l'instrumentation ;
+
+Comité Grands colloques de prospective ;
+
+Comité pour l'optique ;
+
+Comité Physicochimie des interfaces ;
+
+Comité de pilotage Aliment 2002 ;
+
+Comité Ressources naturelles ;
+
+Comité scientifique Anthropologie ;
+
+Comité scientifique du programme national d'électronique et d'informatique ;
+
+Commission Gestion de l'arbre dans l'espace rural en zone tropicale humide ;
+
+Groupe d'experts Capteurs ;
+
+Groupe d'experts Génie des procédés ;
+
+Groupe de réflexion sur les actions de recherche de base en informatique du ministère de la recherche et de la technologie.
+
+NOTA :
+
+Décret 2006-781 du 3 juillet 2006 art. 12 X : Dans tous les textes où il est fait mention, pour les déplacements temporaires, des décrets des 12 mars 1986,12 avril 1989,28 mai 1990 et 22 septembre 1998, ces références sont remplacées par celles du présent décret à compter du 1er novembre 2006.
