@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980306562
+
+- Question : [SEQ980306562](seq980306562.md) — Réforme de l'allocation pour garde d'enfants à domicile
+
+## Réponse
+
+*Emploi, JO du 1998-06-25, page 2072*
+
+Réponse. - L'article 24 de la loi du 19 décembre 1997 de financement de la sécurité sociale pour 1998 institue notamment une majoration de l'allocation de garde d'enfant à domicile (AGED) pour les familles dont les revenus annuels tels que déclarés à l'administration fiscale sont inférieurs à un seuil correspondant à un salaire net de 300 000 francs. L'allocation prend dans ce cas en charge 75 % des cotisations sociales dues pour l'emploi dans la limite de 9 627 francs par trimestre. Le 2º a de cet article 24 renvoie à un décret le soin de déterminer l'ensemble des conditions relatives à cette majoration de l'allocation. Le deuxième alinéa du III de l'article 1er du décret du 10 mars 1998 relatif à l'AGED rend applicables au versement de cette allocation les dispositions du premier alinéa des articles R. 531-7 et R. 531-9 du code de la sécurité sociale relatif à l'allocation pour jeune enfant (prestation versée sous condition de ressources) qui prévoient respectivement un examen du droit sur une période de douze mois débutant le 1er juillet de chaque année en fonction de la situation de la famille à cette date et la prise en compte des ressources de l'année civile précédant le début de la période au cours de laquelle le droit à l'allocation est ouvert. En conséquence, pour la période du 1er janvier 1998 au 30 juin 1998, sont prises en compte pour le versement de l'AGED les ressources des familles de l'année 1996 et pour celle du 1er juillet 1998 au 30 juin 1999 les ressources de l'année 1997. Ces mêmes modalités s'appliquent pour l'attribution de l'ensemble des prestations familiales versées sous condition de ressources.
