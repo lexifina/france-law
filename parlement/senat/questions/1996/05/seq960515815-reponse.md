@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960515815
+
+- Question : [SEQ960515815](seq960515815.md) — Situation des fonctionnaires anciens combattants rapatriés
+
+## Réponse
+
+*Économie, JO du 1996-08-29, page 2219*
+
+Réponse. - La composition actuelle des commissions administratives de reclassement (CAR) mentionnées à l'article 9 de la loi no 82-1021 du 3 décembre 1982 modifiée relative au règlement de certaines situations résultant de la Seconde Guerre mondiale, est fixée par le décret no 94-993 du 16 novembre 1994 dont le Conseil d'Etat statuant au contentieux vient de confirmer la parfaite légalité (arrêt no 161225-164095 du 15 mai 1996). Par ailleurs, le fonctionnement de ces commissions dont le secrétariat a été confié par le décret précité au ministre chargé du budget apparaît tout à fait satisfaisant. En effet, dans leur nouvelle composition résultant de ce décret, les CAR ont examiné près de 700 dossiers et ont émis à cette occasion 212 avis favorables pour une reconstitution de carrière susceptible d'entraîner le versement d'un rappel de traitement et la révision subséquente de la pension de retraite allouée aux intéressés au titre du code des pensions civiles et militaires de retraite. Au moment où ces commissions sont consultées, les travaux de reconstitution de carrière, qui nécessitent des délais relativement importants en raison de leur complexité, ont déjà été effectués dans la plupart des cas. Des recommandations ont donc été adressées encore tout récemment aux administrations et établissements concernés afin d'accélérer le règlement de ces dossiers dès que les CAR se sont prononcées. Les rappels de traitement versés aux intéressés ne peuvent faire l'objet d'une réévaluation compte tenu, d'une part, de la règle selon laquelle un préjudice résultant de la privation d'émoluments doit être apprécié à la date où il est subi et, d'autre part, des conséquences financières qu'une telle mesure serait susceptible d'entraîner dans d'autres domaines
