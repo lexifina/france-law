@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000424230
+
+- Question : [SEQ000424230](seq000424230.md) — Aménagement d'un droit à la création
+
+## Réponse
+
+*Économie, JO du 2000-10-26, page 3667*
+
+Réponse. - Le Conseil constitutionnel assimile la liberté d'entreprendre à une liberté fondamentale qui s'impose au législateur lui-même. Cette liberté recouvre à la fois la liberté d'établissement et la liberté d'exercice ou d'exploitation d'une acitvité professionnelle. Ce sont, en particulier, ces deux composantes de la liberté d'entreprendre qui assurent aux créateurs d'entreprise la possibilité de mener à bien leurs projets professionnels. Il n'est donc pas nécessaire de reconnaître formellement l'existence d'un droit à la création d'entreprise qui est déjà pris en compte, sous d'autres formes, dans le droit positif français. En revanche, le Gouvernement s'emploie à faciliter l'exercice de cette liberté fondamentale, ainsi que le montrent les mesures annoncées lors des états généraux de la création d'entreprise qui se sont tenus le 11 avril 2000. Le développement de l'esprit d'entreprise en a constitué un des thèmes forts. L'importance d'une démarche pédagogique, qui s'adresse aux jeunes, pour stimuler l'esprit et la création d'entreprise a été soulignée, et les orientations préconisées par la commission " Esprit d'entreprise " du Conseil national pour la création d'entreprises (CNCE) ont été rappelées. Le ministère de l'économie, des finances et de l'industrie et la Commission européenne (DG Entreprises), avec l'appui des ministres chargés de l'éducation nationale et de la recherche, organisent un forum européen sur le thème " Former pour entreprendre ", les 19 et 20 octobre 2000 à Nice Sophia-Antipolis. Ce forum sera l'occasion de repérer, en France et chez nos partenaires européens, les bonnes pratiques en matière de diffusion de l'esprit d'entreprise et de formation à la création.
