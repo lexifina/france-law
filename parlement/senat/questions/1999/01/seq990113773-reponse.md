@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990113773
+
+- Question : [SEQ990113773](seq990113773.md) — Sensibilisation à " la musique des langues "
+
+## Réponse
+
+*Éducation, JO du 2001-09-27, page 3102*
+
+Dans l'histoire familiale et sociale de chaque enfant, les occasions de maniement du langage oral comme les rencontres avec l'écrit sont extrêmement variables. Les premières formes de la communication doivent être encouragées dans le respect de l'histoire linguistique de chacun. Très tôt, cenpendant, dans les activités conduites à l'école maternelle, la connaissance de formulettes, comptines, poèmes, chansons, en français comme dans différentes langues étrangères, vient enrichir le dialogue et les échanges. Au-delà de ces premières approches qui constituent une sensibilisation à la diversité des formes et des sons des langues étrangères, une extension de l'enseignement d'une langue vivante aux classes de grande section, à l'école maternelle, a également été décidée. Elle devrait intervenir dès l'année scolaire 2002-2003 qui coïncidera avec l'entrée en vigueur des nouveaux programmes de l'école primaire actuellement en cours d'élaboration. Cette mesure s'intègre dans le plan de généralisation des langues vivantes à l'école mis en oeuvre pour que dans cinq ans tout les élèves, de la grande sectionde l'école maternelle au CM2, apprennent une langue vivante à l'école primaire. Utiliser des mots, des expressions de la vie quotidienne, chanter, dire des poésies en français et dans diverses langues, en prenant par exemple appui sur la langue maternelle ou la langue d'origine d'enfants de la classe, mais aussi la langue régionale locale, permet à ces très jeunes élèves d'exercer certaines habiletés à analyser une langue, de développer l'identification des rimes et des syllabes ; en étendant leur expérience, les enseignants conduisent leurs très jeunes élèves à un travail de réflexion, de compréhension sur le fonctionnement du langage.
