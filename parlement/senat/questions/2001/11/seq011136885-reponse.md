@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011136885
+
+- Question : [SEQ011136885](seq011136885.md) — Indemnisation par l'Etat des dégâts miniers
+
+## Réponse
+
+*Économie, JO du 2002-03-07, page 717*
+
+La question concerne le régime de la responsabilité civile applicable aux dommages découlant de travaux qui ont affecté une substance passée, ultérieurement à la réalisation de ces travaux, de la classe des carrières à celle des mines, et plus particulièrement le point de savoir si les nouvelles dispositions du code minier issues de la loi du 30 mars 1999, relatives à la garantie de l'Etat en cas de disparition ou de défaillance de l'exploitant, trouveraient à s'appliquer. En présence des dommages, il sera nécessaire de rechercher à quelle date ont été réalisés les travaux à l'origine desdits dommages et de vérifier si l'exploitation a été poursuivie sous le régime minier. Si tel est le cas, c'est-à-dire si l'exploitation dans le cadre du régime des carrières n'est pas détachable de celle qui a été poursuivie sous le régime minier, c'est la responsabilité minière qui s'applique : l'exploitant est présumé responsable des dommages causés par ses travaux, sauf à démontrer la preuve d'une cause étrangère. Sa responsabilité n'est limitée ni par la durée de validité du titre ni par son périmètre. En cas de disparition ou de défaillance, l'Etat est garant de la réparation des dommages et il est subrogé dans les droits des victimes (article 75-1 du code minier). Si l'exploitation a été effectuée dans le cadre du régime des carrières, le régime de responsabilité applicable est celui des carrières, sauf à faire rétroagir irrégulièrement les décrets qui ont classé ces substances en mines. Les victimes devront s'adresser au carrier s'il existe encore ou, sinon, au propriétaire du terrain, à charge pour lui de se retourner contre le carrier. En tout état de cause, des expertises techniques seront nécessaires.
