@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940204909
+
+- Question : [SEQ940204909](seq940204909.md) — Affaires sociales
+
+## Réponse
+
+*Affaires sociales, JO du 1994-08-11, page 1985*
+
+Réponse. - L'honorable parlementaire a appelé l'attention de Mme le ministre d'Etat, ministre des affaires sociales, de la santé et de la ville, sur le problème du statut des lieux de vie ou structures non traditionnelles qui accueillent les mineurs. Depuis une dizaine d'années la situation des lieux de vie ou structures non traditionnelles d'accueil a beaucoup évolué. La population accueillie s'est diversifiée. Ces structures sont utilisées non seulement par l'aide sociale à l'enfance et la protection judiciaire de la jeunesse mais également par les services psychiatriques hospitaliers et les institutions médicosociales. Par ailleurs, la décentralisation a placé ces lieux sous la responsabilité directe des départements qui ont adopté des attitudes très diverses quant à leur utilisation, leur statut et leur financement. Dans la mesure où les lieux de vie se voient confier une population requérant une protection particulière et qu'ils privilégient le statut de personne morale, il paraît souhaitable de les intégrer dans le dispositif des institutions sociales et médicosociales organisé par la loi no 75-535 du 30 juin 1975 et cela notamment lorsqu'ils accueillent en long séjour des mineurs relevant de l'assurance maladie. En effet, à défaut d'un cadre réglementaire solide, il ne saurait être envisagé à l'heure actuelle la généralisation d'une prise en charge au titre de l'assurance maladie autre qu'à l'acte, même sur la base d'accords contractuels. C'est pourquoi mes services étudient la possibilité de conférer un cadre juridique aux lieux de vie ou d'accueil, lequel pourrait soit prendre la forme d'un texte réglementaire spécifique, soit, le cas échéant, d'une intégration dans la loi no 75-535 du 30 juin 1975 relative aux institutions sociales et médicosociales.
