@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040813435
+
+- Question : [SEQ040813435](seq040813435.md) — Présence persistante de bâtiments préfabriqués qui déshonorent la perspective des Tuileries
+
+## Réponse
+
+*Culture, JO du 2004-10-21, page 2391*
+
+En réponse à la question de l'honorable parlementaire sur la présence de bâtiments préfabriqués de type Algéco dans le jardin du Carrousel, le ministre de la culture et de la communication tient à rappeler que le chantier du Grand Louvre, commencé au début des années quatre-vingt n'est pas complètement achevé. D'importants travaux concernant le réaménagement de la salle des Etats ou la restauration de la galerie d'Apollon sont notamment en cours et nécessitent la présence d'installations provisoires aux abords du palais. Par ailleurs, un important chantier va ouvrir dans la cour Visconti où seront créés 3 000 mètres carrés de surfaces muséographiques dédiées aux arts de l'Islam. Dans ce contexte, des bâtiments préfabriqués ont dû demeurer dans le jardin du Carrousel, afin d'abriter des agents du musée du Louvre qui ne pouvaient être logés dans le palais. Ils hébergent aussi des bureaux provisoires destinés au personnel du musée de l'Orangerie, également en travaux. L'établissement public du musée du Louvre, évidemment soucieux de mettre un terme à la nuisance esthétique de ces préfabriqués, en raison également des conditions de travail difficiles qui sont imposées aux personnels qui les occupent, poursuit une politique locative aux abords du palais pour couvrir les besoins les plus urgents. 2 500 mètres carrés de bureaux ont ainsi déjà été loués. Les services du musée national de l'Orangerie seront, pour ce qui les concerne, temporairement installés au Grand Palais jusqu'à l'ouverture au public, début 2006, de l'Orangerie des Tuileries. Le ministre de la culture et de la communication a ainsi le plaisir de confirmer la disparition des bâtiments préfabriqués du jardin du Carrousel dans les six mois à venir.
