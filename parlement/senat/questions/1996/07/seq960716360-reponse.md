@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960716360
+
+- Question : [SEQ960716360](seq960716360.md) — Compétence territoriale d'un médiateur-conciliateur
+
+## Réponse
+
+*Justice, JO du 1996-10-17, page 2719*
+
+Réponse. - Le garde des sceaux, ministre de la justice fait connaître à l'honorable parlementaire qu'en ce qui concerne la conciliation hors procédure judiciaire, l'article 4 du décret no 78-381 du 20 mars 1978 modifié relatif aux conciliateurs prévoit que " l'ordonnance du premier président de la cour d'appel nommant le conciliateur indique la circonscription dans laquelle celui-ci exerce ses fonctions ainsi que le tribunal d'instance auprès duquel il doit déposer les procès-verbaux de conciliation ". En pratique, la détermination du ressort territorial dans lequel le conciliateur est appelé à exercer ses fonctions et qui correspond généralement à un ou plusieurs cantons, prend en considération les besoins de l'institution judiciaire mais également la situation personnelle du conciliateur, et notamment son domicile. Dans ces conditions, si le conciliateur peut être éventuellement désigné pour exercer ses fonctions auprès d'une autre juridiction que celle de son domicile, il ne peut valablement accomplir sa mission que dans les limites du ressort territorial qui lui a été assigné dans l'ordonnance de nomination. S'agissant de la désignation d'un médiateur ou d'un conciliateur par les juridictions civiles en cours de procédure, le décret n° 96-652 du 22 juillet 1996, qui précise les modalités d'application des dispositions de la loi du 8 février 1995 relative à la procédure civile administrative et pénale, n'autorise la délégation judiciaire de la conciliation à une tierce personne qu'au profit d'un conciliateur remplissant les conditions prévues par le décret du 20 mars 1978. En revanche, ce texte n'introduit aucune restriction à la compétence territoriale des médiateurs judiciaires.
