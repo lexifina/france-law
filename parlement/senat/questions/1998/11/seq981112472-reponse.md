@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981112472
+
+- Question : [SEQ981112472](seq981112472.md) — Contrats de qualification
+
+## Réponse
+
+*Emploi, JO du 1999-05-06, page 1506*
+
+Réponse. - M. le ministre de l'éducation nationale, de la recherche et de la technologie a transmis à Mme la ministre de l'emploi et de la solidarité la question de M. le sénateur sur le versement des primes liées à l'embauche des jeunes en contrats de qualification. Ce dispositif bénéficie d'une aide structurelle et permanente de l'Etat au travers d'une exonération de cotisations patronales de sécurité sociale. 2,6 milliards de francs sont inscrits à ce titre au projet de budget pour 1999. En outre, le décret nº 97-278 du 24 mars 1997 a prévu que la conclusion d'un contrat de qualification ouvre droit pour l'employeur à une aide forfaitaire de l'Etat d'un montant de 5 000 francs, si la durée du contrat est inférieure à dix-huit mois, et de 7 000 francs, si elle est de dix-huit mois ou plus. Cette prime, à caractère conjoncturel, s'appliquait aux contrats conclus entre le 1er janvier et le 31 décembre 1997. Elle a été reconduite du 1er janvier 1998 au 14 octobre 1998. Compte tenu de la diminution de la part relative des jeunes sans qualification et de premier niveau de qualification dans les entrées en contrat de qualification, qui n'a pas été compensée par une croissance globale des entrées, le Gouvernement a décidé, en cohérence avec les objectifs fixés par le programme de prévention et de lutte contre les exclusions de cibler l'aide forfaitaire sur les embauches de jeunes non titulaires du baccalauréat, ou d'un titre de niveau équivalent, à compter du 15 octobre 1998. Il va de soi que la prise en charge des exonérations par l'Etat et de la formation par les fonds de l'alternance, qui constituent l'essentiel de l'aide de la collectivité, demeurent pour tous les contrats.
