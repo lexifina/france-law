@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990314446
+
+- Question : [SEQ990314446](seq990314446.md) — Réforme de la taxe professionnelle
+
+## Réponse
+
+*Économie, JO du 1999-06-10, page 1950*
+
+Réponse. - Dans le cadre de la réforme de la taxe professionnelle, la perte de bases résultant pour les collectivités locales et leurs groupements de la suppression progressive de la part salariale fait l'objet d'une compensation calculée de façon à leur procurer une garantie de ressources quelle que soit par ailleurs l'évolution de l'activité et du tissu fiscal sur leur territoire. En outre, au titre des années 2000 à 2003, la compensation sera actualisée chaque année en fonction du taux d'évolution de la dotation globale de fonctionnement entre 1999 et l'année de versement. Ce mode d'indexation est favorable aux collectivités locales dans la mesure où l'évolution de la DGF est, pour ces dernières années, tout à fait comparable, voire supérieure à l'évolution de la masse salariale. Par ailleurs, les collectivités locales continueront de bénéficier de la taxe professionnelle sur tous les investissements nouveaux et, jusqu'en 2002, sur la fraction imposable des salaires qui excède le montant de l'abattement prévu à l'article 1467 bis du code général des impôts. Enfin, la suppression de la réduction pour embauche et investissement à compter de l'an 2000 permettra à ces collectivités de bénéficier dès la première année d'imposition de la dynamique des bases et notamment de la croissance des bases liée à l'investissement. Ces mesures permettent aux collectivités de bénéficier de ressources susvisées tout en préservant le principe de libre administration des collectivités locales et la dynamique des bases d'imposition reposant sur les investissements dans les zones de croissance. Elles n'entraînent donc pas les effets pervers supposés par l'auteur de la question.
