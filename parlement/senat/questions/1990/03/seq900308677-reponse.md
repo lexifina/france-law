@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900308677
+
+- Question : [SEQ900308677](seq900308677.md) — Maintien des classes préparatoires à l'apprentissage
+
+## Réponse
+
+*Éducation, JO du 1990-11-08, page 2405*
+
+Réponse. - En vertu des mesures de déconcentration administrative, les modifications de l'organisation pédagogique des collèges et des lycées professionnels relèvent respectivement de la compétence des inspecteurs d'académie, directeurs des services départementaux, et des recteurs. Il leur appartient de prendre les mesures nécessaires, compte tenu de la situation du dispositif de formation ainsi que des moyens mis à leur disposition. Il en est ainsi pour les C.P.A. des collèges et des L.P. Il s'agit de décisions ponctuelles justifiées par la nécessité d'adapter chaque année la carte des enseignements mais ne remettant pas en cause l'avenir de ces classes. Il en est de même pour les classes préparatoires à l'apprentissage auprès des centres de formation d'apprentis. En 1988-1989, 10 554 élèves ont fréquenté une classe préparatoire à l'apprentissage rattachée à un centre de formation d'apprentis. Par ailleurs, les modalités particulières de formation prévues dans le cadre des classes préparatoires à l'apprentissage qui comportent 14 à 18 semaines de présence en entreprise constituent toujours la voie d'accès privilégiée à l'apprentissage. C'est ainsi que 33,9 p. 100 des apprentis qui effectuent leur première année d'apprentissage en sont issus. S'il est exact que les efforts faits pour permettre le relèvement du niveau de qualification des jeunes conduisent à maintenir dans les classes d'enseignement général ou technologique des collèges une part plus importante d'élèves, il n'en demeure pas moins que les réponses appropriées doivent être apportées aux situations particulières de tous les publics scolaires. Les C.P.A. constituent actuellement une de ces réponses.
