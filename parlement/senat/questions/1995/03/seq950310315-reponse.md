@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950310315
+
+- Question : [SEQ950310315](seq950310315.md) — Création d'une allocation dépendance pour les retraités du commerce
+
+## Réponse
+
+*Affaires sociales, JO du 1995-04-20, page 936*
+
+Réponse. - Le dépôt d'un projet de loi portant création d'une allocation dépendance, n'a pas été retenu lors de la session de printemps par le Gouvernement. A l'issue d'une large concertation, il est en effet apparu que les conditions n'étaient pas réunies pour qu'une allocation spécifique soit créée dès le 1er janvier 1995 et le Gouvernement a estimé inopportun d'instituer, en l'état actuel des choses, le prélèvement supplémentaire qui aurait été indispensable à son financement. Cependant, il a été décidé de mener une expérimentation dans plusieurs départements, conformément au principe posé par l'article 38 de la loi du 25 juillet 1994, relative à la sécurité sociale. Le ministre d'Etat, ministre des affaires sociales, de la santé et de la ville a donc transmis, le 6 octobre 1994, à tous les présidents de conseils généraux, un dossier de consultation comportant un cahier des charges, établi en concertation avec leur assemblée à la Caisse nationale d'assurance vieillesse. Quarante et un dossiers lui ont été communiqués à la suite de cette démarche. Leur nombre et leur qualité ont rendu nécessaire un examen complet et rigoureux des solutions proposées, au regard des objectifs fixés. Au vu des propositions de la Caisse nationale vieillesse et après avoir recueilli l'avis de l'Assemblée des présidents de conseils généraux et du Comité national des retraités et des personnes âgées, douze départements ont été retenus, dans lesquels les expérimentations ont commencé cette année. Elles permettront de disposer ainsi, à leur issue, des enseignements indispensables à la mise en place d'une politique de prise en charge de la dépendance des personnes âgées, adaptée à leurs besoins et à ceux de leur famille.
