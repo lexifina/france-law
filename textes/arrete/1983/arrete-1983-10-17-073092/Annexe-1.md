@@ -6,13 +6,13 @@ Liste des médicaments ne renfermant pas de substances vénéneuses autorisés a
 
 Heptaminol et ses sels (formes orales) ;
 
-Nicethamide (formes orales).
+Nicéthamide (formes orales).
 
 2. Antiacides gastriques :
 
 Aluminium (hydroxydes, phosphates ou silicates) ;
 
-Dimeticone ;
+Diméticone ;
 
 Magnésium (trisilicate).
 
@@ -28,7 +28,7 @@ Alcool à 70 degrés dans la limite de 250 ml par ordonnance ;
 
 Cetrimonium et dérivés ;
 
-Chlorhexidine au titre maximum de 5 p. 100 ;
+Chlorhéxidine au titre maximum de 5 p. 100 ;
 
 Nonoxinol ;
 
@@ -38,7 +38,11 @@ Soluté neutre dilué d'hypochlorite de soude (solute dit de Dakin) ;
 
 Solution aqueuse et alcoolique d'éosine ;
 
-Triclocarban.
+Triclocarban ;
+
+Polyvidone iodée au titre maximum de 10 p. 100 ;
+
+Hexomidine présentée en solution ou en poudre.
 
 5. Antispasmodiques :
 
@@ -46,7 +50,7 @@ Phloroglucinol et dérivés ;
 
 Dipropyline ;
 
-Tiémonium.
+Tiemonium.
 
 6. Laxatifs.
 
@@ -66,4 +70,14 @@ Soluté de glucose isotonique ;
 
 Soluté de glucose à 30 p. 100 en ampoules de 20 ml ;
 
-Soluté de sulfate de magnésie à 15 p. 100 dans la limite de 20 ml.
+Soluté de sulfate de magnésie à 15 p. 100 dans la limite de 20 ml ;
+
+Solutés de remplissage vasculaire (gélatine modifiée uniquement) en cas d'urgence pour usage professionnel ;
+
+Immunoglobuline anti-D dans le post parxum des femmes Rhésus négatif.
+
+9. Topiques à usage externe :
+
+Solutions salines sursaturées ;
+
+Cataplasme à base de kaolin.

@@ -24,7 +24,13 @@ Médicaments à usage gynécologique à base de :
 
 - Miconazole (à doses exonérées) ;
 
-- Nystaline (tableau C).
+- Nystaline (tableau C) ;
+
+Collyres contenant les substances suivantes inscrites au tableau A ;
+
+Idoxuridine et ses sels à une teneur maximum de 0,12 p. 100 ;
+
+Trifluridine et ses sels à une teneur maximum de 1 p. 100.
 
 4. Antiseptiques :
 
@@ -50,7 +56,7 @@ Scopolamine et ses sels (tableau A).
 
 6. Hémostatiques utérins :
 
-Méthylergométrine (tableau A).
+Méthylergométrine (tableau A)
 
 Cette préparation ne peut être administrée par les sages-femmes qu'en cas d'hémorragie post-partum et après l'évacuation totale de la cavité utérine (enfant et placenta).
 
@@ -65,3 +71,9 @@ L'emploi des médicaments renfermant de l'oxytocine n'est autorisé que :
 a) Pendant le travail sous perfusion à débit contrôlé et sous réserve d'une surveillance cardio-tocographique permanente ;
 
 b) En cas d'hémorragie post-partum et après l'évacuation totale de la cavité utérine (enfant et placenta).
+
+9. Antiprolactine :
+
+Bromocriptine (mesilate) à une teneur maximum de 2,5 mg
+
+(tableau A).
