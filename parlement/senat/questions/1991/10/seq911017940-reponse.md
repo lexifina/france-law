@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911017940
+
+- Question : [SEQ911017940](seq911017940.md) — Travailleurs sociaux du comité de probation et d'assistance d'Evry (Essonne)
+
+## Réponse
+
+*Justice, JO du 1992-01-23, page 207*
+
+Réponse. - Les comités de probation et d'assistance aux libérés de l'Ile-de-France comptent actuellement 164 travailleurs sociaux se répartissant de la façon suivante : C.P.A.L. Bobigny, 23 ; C.P.A.L. Créteil, 23 ; C.P.A.L. Evry, 16 ; C.P.A.L. Fontainebleau, 1 ; C.P.A.L. Meaux, 6 ; C.P.A.L. Melun, 3 ; C.P.A.L. Nanterre, 27 ; C.P.A.L. Paris, 44 ; C.P.A.L. Pontoise, 11 ; C.P.A.L. Versailles, 10 ; pour un total de 164. Au titre du projet de loi de finances de l'année 1991, 57 emplois budgétaires de personnel éducatif ont été créés (29 emplois budgétaires d'éducateurs et 28 emplois budgétaires d'assistants sociaux). De plus, la vingt-sixième promotion d'élèves éducateurs, composée de 49 personnes, sera affectée dans les services, à l'issue de deux années de formation statutaire en octobre 1992 ; ceux de la vingt-septième promotion, au nombre de 106, le seront à l'automne 1993. Il en résultera un accroissement d'environ 20 p. 100 des effectifs réels. En outre, un recrutement d'assistants sociaux récemment organisé va permettre de disposer de trente postes supplémentaires de personnel socio-éducatif. Un travail est actuellement mené en concertation avec les directions régionales pour établir une liste des lieux prioritaires d'affectation de ces personnels supplémentaires. La situation particulière du comité de probation et d'assistance aux libertés d'Evry sera examinée à cette occasion. Il convient cependant de préciser que d'ores et déjà une assistante sociale issue d'une collectivité territoriale va venir, dans le cadre d'une procédure de détachement, renforcer les effectifs du comité de probation et d'assistance aux libérés d'Evry.
