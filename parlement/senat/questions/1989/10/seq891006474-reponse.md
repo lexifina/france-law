@@ -1,0 +1,9 @@
+# Réponse à la question SEQ891006474
+
+- Question : [SEQ891006474](seq891006474.md) — Transfert des services de l'hôpital Sédillot de Nancy (Meurthe-et-Moselle)
+
+## Réponse
+
+*Défense, JO du 1989-12-21, page 2124*
+
+Réponse. - La politique hospitalière du service de santé des armées a pour objectif d'offrir à ses ressortissants les meilleures prestations possibles en tenant compte à la fois des ses exigences et de l'évolution des techniques médicales, ce qui conduit inévitablement à modifier le nombre ou le lieu d'implantation des établissements. C'est dans cette optique qu'à été retenu le principe d'un regroupement sur un même site des activités jusqu'alors réparties entre le centre hospitalier des armées Sédillot de Nancy et le centre hospitalier des armées Legouest à Metz au bénéfice du second qui dispose d'une infrastructure et d'un plateau technique supérieurs. Le maintien des activités de l'hôpital Sédillot n'aurait été envisageable qu'avec la réalisation de travaux très coûteux sans commune mesure avec ceux financés dans un passé récent pour son maintien à niveau (5,5 millions de francs en quatre ans). Le transfert des services de neurologie et de psychiatrie se traduira par un coût d'environ 30 millions de francs dont le financement sera assuré en 1990 et 1991, alors que l'économie de fonctionnement annuel résultant de la fermeture du centre hospitalier des armées Sédillot peut être estimée à 60 millions de francs. Il est également à noter que le rétablissement au titre du budget du service de santé de la réalisation d'un actif immobilier important lui permettra de poursuivre sa politique dynamique d'équipement et d'amélioration des plateaux techniques. Cette opération permettra enfin un gain en personnels qui pourront être redéployés dans d'autres formations hospitalières régionales ou nationales, afin d'y améliorer la qualité des soins et de l'accueil.
