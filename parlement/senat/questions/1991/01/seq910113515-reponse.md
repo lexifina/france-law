@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910113515
+
+- Question : [SEQ910113515](seq910113515.md) — Harmonisation fiscale entre marchands ambulants et commerçants sédentaires effectuant des ventes ambulantes
+
+## Réponse
+
+*Économie, JO du 1991-05-09, page 980*
+
+Réponse. - L'article 33 de la loi n° 89-936 du 29 décembre 1989, portant loi de finances rectificative pour 1989, a institué un remboursement de la taxe intérieure de consommation sur les produits pétroliers, dans la limite de 1 500 litres de carburant par entreprise et par an, au profit des commerçants sédentaires dont le principal établissement est situé dans une commune de moins de 3 000 habitants, et qui réalisent une partie de leur chiffre d'affaire par des ventes ambulantes. Cette disposition fiscale s'inscrit dans le cadre général d'une politique d'aménagement du territoire en milieu rural ; par l'allégement des coûts de distribution qu'elle induit, la mesure a pour objectif d'inciter les commerçants sédentaires à maintenir les tournées qu'ils effectuent dans les zones rurales. Le bénéfice de la mesure fiscale a été volontairement limité aux commerçants sédentaires, car elle ne peut avoir d'effet incitatif qu'à l'égard des commerçants qui peuvent choisir de maintenir ou de supprimer les tournées, en fonction notamment du niveau attractif ou dissuasif du prix des carburants. Ainsi, un tel effet ne peut jouer à l'égard des commerçants qui exercent une activité exclusivement ambulante. En effet, quelle que soit l'évolution du prix des carburants, ces derniers n'ont pas, par définition, la possibilité de délaisser leur activité ambulante au profit d'une activité plus sédentaire, sans modifier la nature même de leur situation juridique et commerciale. Dès lors, et contrairement aux commerçants sédentaires, l'octroi d'un tel avantage fiscal aux commerçants exclusivement ambulants ne saurait constituer un élément de choix déterminant pour le maintien de leurs tournées en zones rurales.
