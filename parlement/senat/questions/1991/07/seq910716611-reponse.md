@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910716611
+
+- Question : [SEQ910716611](seq910716611.md) — Bilan des accidents de la circulation
+
+## Réponse
+
+*Équipement, JO du 1992-07-30, page 1735*
+
+Réponse. - En 1991, le bilan des accidents de la circulation routière, France entière, s'est établi à 148 890 accidents corporels (moins 8,4 p. 100 par rapport à 1990), 9 617 tués (soit moins 6,5 p. 100) et 205 968 blessés (soit moins 8,8 p. 100). Par catégories d'usagers, le nombre de victimes, pour 1991 et 1990, s'est établi à : ( NOTA Voir tableau page 1735 ). Toutes les catégories d'usagers ont des nombres de tués et de blessés en diminution, sauf les motocyclistes pour lesquels on enregistre une augmentation du nombre de tués de 3,6 p. 100. Pour le premier quadrimestre 1992, comparé au premier quadrimestre 1991, les résultats sont les suivants (quad. : quadrimestre) : ( NOTA Voir tableau page 1735 ). On assiste à une diminution sensible du nombre de piétons tués (moins 10,8 p. 100) et à une diminution beaucoup plus faible du nombre de motocyclistes tués (moins 0,9 p. 100). Toutes les autres catégories voient leur nombre de tués augmenter, en particulier les cyclomotoristes (plus 15,3 p. 100) et les usagers de véhicules utilitaires (plus 30,1 p. 100). Pour les blessés, trois catégories enregistrent des diminutions : les piétons et les " deux-roues " légers (cyclistes et cyclomotoristes), et les trois autres des augmentations : motocyclistes et usagers de " quatre-roues " (voitures et utilitaires). Les fichiers informatiques ne permettent pas de connaître de façon fiable la responsabilité des véhicules d'origine étrangère dans les accidents de la route. En revanche, ils permettent de repérer le nombre de véhicules immatriculés à l'étranger impliqués dans les accidents, comme le montre le tableau suivant en 1991 :
