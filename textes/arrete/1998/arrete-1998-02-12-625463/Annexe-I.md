@@ -1,0 +1,435 @@
+# Article Annexe I
+
+1. Dispositions générales
+
+1.1 - Conformité de l'installation à la déclaration
+
+L'installation doit être implantée, réalisée et exploitée conformément aux plans et autres documents joints à la déclaration, sous réserve du respect des prescriptions ci-dessous.
+
+1.2 - Modifications
+
+Toute modification apportée par le déclarant à l'installation, à son mode d'exploitation ou à son voisinage, entraînant un changement notable des éléments du dossier de déclaration initiale, doit être portée, avant sa réalisation, à la connaissance du préfet qui peut exiger une nouvelle déclaration (référence : article 31 du décret du 21 septembre 1977).
+
+1.3 - Justification du respect des prescriptions de l'arrêté
+
+La déclaration doit préciser les mesures prises ou prévues par l'exploitant pour respecter les dispositions du présent arrêté (référence : article 25 du décret du 21 septembre 1977).
+
+1.4 - Dossier installation classée
+
+L'exploitant doit établir et tenir à jour un dossier comportant les documents suivants :
+
+- le dossier de déclaration,
+
+- les plans tenus à jour,
+
+- le récépissé de déclaration et les prescriptions générales,
+
+- les arrêtés préfectoraux relatifs à l'installation concernée, pris en application de la législation relative aux installations classées pour la protection de l'environnement, s'il y en a,
+
+- les résultats des dernières mesures sur les effluents et le bruit, les rapports des visites,
+
+- les documents prévus aux points 3.5, 3.6, 4.3, 4.7, 4.8, 5.1 du présent arrêté.
+
+1.5 - Déclaration d'accident ou de pollution accidentelle
+
+L'exploitant d'une installation est tenu de déclarer, dans les meilleurs délais, à l'inspection des installations classées, les accidents ou incidents survenus du fait du fonctionnement de cette installation qui sont de nature à porter atteinte aux intérêts mentionnés à l'article 1er de la loi du 19 juillet 1976 (référence : article 38 du décret du 21 septembre 1977).
+
+1.6 - Changement d'exploitant
+
+Lorsque l'installation change d'exploitant, le nouvel exploitant ou son représentant doit en faire la déclaration au préfet dans le mois qui suit la prise en charge de l'exploitation. Cette déclaration doit mentionner, s'il s'agit d'une personne physique, les nom, prénoms et domicile du nouvel exploitant et, s'il s'agit d'une personne morale, sa dénomination ou sa raison sociale, sa forme juridique, l'adresse de son siège social ainsi que la qualité du signataire de la déclaration (référence : article 34 du décret du 21 septembre 1977).
+
+1.7 - Cessation d'activité
+
+Lorsqu'une installation cesse l'activité au titre de laquelle elle était déclarée, son exploitant doit en informer le préfet au moins un mois avant l'arrêt définitif. La notification de l'exploitant indique les mesures de remise en état prévues ou réalisées (référence : article 34-1 du décret du 21 septembre 1977).
+
+1.8 (*)
+
+non concerné
+
+2. Implantation - aménagement
+
+2.1 - Règles d'implantation
+
+2.1.1 - Prescriptions spécifiques pour l'hydrogène liquide
+
+L'installation doit être implantée à une distance d'au moins 20 mètres des limites de propriété. Il est interdit de stocker ou d'employer de l'hydrogène liquide dans des bâtiments.
+
+2.1.2 - Prescriptions spécifiques pour l'hydrogène gazeux
+
+L'installation doit être implantée à une distance d'au moins :
+
+- si elle est située à l'air libre ou sous auvent, à 8 mètres des limites de propriété ou de tout bâtiment,
+
+- si le local contenant l'installation est fermé, à 5 mètres des limites de propriété ou de tout bâtiment.
+
+Les distances de 8 à 5 mètres entre le bâtiment et le stockage de récipients d'hydrogène gazeux ne sont pas exigibles s'ils sont séparés par un mur plein sans ouverture, construits en matériaux incombustibles et de caractéristiques coupe-feu 2 heures, d'une hauteur minimale de 3 mètres et prolongé du stockage par un auvent construit en matériaux incombustibles et pare-flamme de degré 1 heure, d'une largeur minimale de minimale de 3 mètres en projection sur un plan horizontal. Ce mur doit être prolongé de part et d'autre et du côté du stockage par des murs de retour sans ouverture, construits en matériaux incombustibles et coupe-feu de degré 1 heure, d'une hauteur de 3 mètres et d'une longueur de 2 mètres au moins.
+
+2.2 - Intégration dans le paysage
+
+L'exploitant prend les dispositions nécessaires pour satisfaire à l'esthétique du site. L'ensemble du site doit être maintenu en bon état de propreté (peinture, plantations, engazonnement...).
+
+2.3 - Interdiction d'habitations au-dessus des installations
+
+L'installation ne doit pas être surmontée de locaux occupés par des tiers ou habités.
+
+2.4 - Comportement au feu des bâtiments
+
+Les locaux abritant les installations d'hydrogène gazeux doivent présenter les caractéristiques de réaction et de résistance au feu minimales suivantes :
+
+- murs et planchers hauts coupe-feu de degré 2 heures,
+
+- toiture légère incombustible,
+
+- portes intérieures coupe-feu de degré 2 heures et munies d'un ferme-porte ou d'un dispositif assurant leur fermeture automatique,
+
+- porte donnant vers l'extérieur pare-flamme de degré 2 heures,
+
+- matériaux de classe M0 (incombustibles).
+
+Les locaux fermés doivent être équipés en partie haute de dispositifs permettant l'évacuation de l'hydrogène, des fumées et gaz de combustion dégagés en cas d'incendie (lanterneaux en toiture, ouvrants en façade ou tout autre dispositif équivalent). Les commandes d'ouverture manuelle sont placées à proximité des accès. Le système de désenfumage doit être adapté aux risques particuliers de l'installation.
+
+2.5 - Accessibilité
+
+L'installation doit être accessible pour permettre l'intervention des services d'incendie et de secours. Elle est desservie, sur au moins une face, par une voie-engin ou par une voie-échelle si le plancher haut de cette installation est à une hauteur supérieure à 8 mètres par rapport à cette voie.
+
+En cas de local fermé, une des façades est équipée d'ouvrant permettant le passage de sauveteurs équipés.
+
+2.6 - Ventilation
+
+Sans préjudice des dispositions du code du travail, les locaux doivent être convenablement ventilés pour éviter tout risque d'atmosphère explosible. Le débouché à l'atmosphère de la ventilation doit être placé aussi loin que possible des habitations voisines.
+
+2.7 - Installations électriques
+
+Les installations électriques, doivent être réalisées conformément au décret n° 88-1056 du 14 novembre 1988 relatif à la réglementation du travail.
+
+2.8 - Mise à la terre des équipements
+
+Les équipements métalliques (réservoirs, cuves, canalisations) doivent être mis à la terre conformément aux règlements et aux normes applicables, compte tenu notamment de la nature inflammable de l'hydrogène.
+
+2.9 - Rétention des aires et locaux de travail
+
+2.9.1 - Prescriptions spécifiques pour l'hydrogène liquide
+
+Le sol des aires comportant un ou plusieurs récipients d'hydrogène liquide doit être étanche, incombustible, non poreux et réalisé en matériaux inertes vis-à-vis de l'hydrogène liquide.
+
+2.10 (*)
+
+non concerné
+
+2.11 - Epanchement d'hydrogène liquide
+
+2.11.1 Prescriptions spécifiques pour l'hydrogène liquide
+
+Dans le cas où l'installation comporte un ou plusieurs récipients fixes d'hydrogène liquide, la disposition du sol doit être horizontale ou s'opposer à tout épanchement éventuel d'hydrogène liquide dans les zones où il présenterait un danger ou d'aggravation de danger (fosses, trous d'homme, passage de câbles électriques en sol, caniveaux, regard, etc.) doivent être éloignés de 5 mètres au moins du (des) récipient(s). Cette distance n'est pas exigée si les dispositions sont prises pour éviter qu'un épanchement éventuel d'hydrogène liquide puisse s'écouler vers lesdites zones, par exemple en imposant une distance horizontale dec ontournement au moins égale à 5 mètres.
+
+3. Exploitation - entretien
+
+3.1 - Surveillance de l'exploitation
+
+L'exploitation doit se faire sous la surveillance, directe ou indirecte, d'une personne nommément désignée par l'exploitant et ayant une connaissance de la conduite de l'installation et des dangers et inconvénients des produits utilisés ou stockés dans l'installation.
+
+3.2 - Contrôle de l'accès
+
+Les personnes étrangères à l'établissement ne doivent pas avoir un accès libre aux installations. De plus, en l'absence du personnel d'exploitation , l'installation doit être rendue inaccessible aux personnes étrangères (clôture, fermeture à clé, etc.)
+
+3.3 - Connaissance des produits - Etiquetage
+
+L'exploitant doit avoir à sa disposition des documents lui permettant de connaître la nature et les risques de l'hydrogène, en particulier les fiches de données de sécurité prévues par l'article R. 231-53 du code du travail.
+
+Les récipients doivent porter en caractères très lisibles le nom du produit ou la couleur d'identification des gaz normalisée et, s'il y a lieu, les symboles de danger conformément à l'arrêté du 20 avril 1994 relatif à la déclaration, la classification, l'emballage et l'étiquetage des substances ou aux réglements relatifs au transport de matières dangereuses.
+
+3.4 - Propreté
+
+Les locaux doivent être maintenus propres et régulièrement nettoyés notamment de manière à éviter les amas de matières dangereuses ou polluantes et de poussières. Le matériel de nettoyage doit être adapté aux risques présentés par les produits et poussières.
+
+Le matériel de nettoyage doit être adapté aux risques présentés par les produits.
+
+3.5 - Registre entrée/sortie
+
+La quantité d'hydrogène présente dans les installations doit pouvoir être estimée à tout moment à l'intention de l'inspection des installations classées et des services de secours.
+
+La présence dans les ateliers de matières dangereuses ou combustibles est limitée aux nécessités de l'exploitation.
+
+3.6 - Vérification périodique des installations électriques
+
+Toutes les installations électriques doivent être entretenues en bon état et doivent être contrôlées, après leur installation ou leur modification par une personne compétente. La périodicité, l'objet et l'étendue des vérifications des installations électriques ainsi que le contenu des rapports relatifs aux dites vérifications sont fixés par l'arrêté du 20 décembre 1988 relatif à la réglementation du travail.
+
+3.7 - Vérification des lignes annexes
+
+Des substances non imflammables et non comburantes peuvent être stockées dans le local ou sur l'aire de stockage de l'installation.
+
+Des substances inflammables ou comburantes peuvent être stockées dans le local ou sur l'aire du stockage de l'installation si elles sont séparées des récipients d'hydrogène :
+
+- soit par une distance de 8 mètres (distance portée à 20 mètres par rapport aux récipients d'hydrogène liquide),
+
+- soit par un ur plein sans ouverture présentant une avancée de 1 mètre, construit en matériaux de caractéristique coupe-feu de degré deux heures, s'élevant jusqu'à une hauteur de 3 mètres ou jusqu'à la toiture sauf indications plus contraignantes d'une autre réglementation.
+
+4. Risques
+
+4.1 - Protection individuelle
+
+Sans préjudice des dispositions du code du travail, des matériels de protection individuelle, adaptés aux risques présentés par l'installation et permettant l'intervention en cas de sinistre, doivent être conservés à proximité du dépôt et du lieu d'utilisation. Ces matériels doivent être entretenus en bon état et vérifiés périodiquement. Le personnel doit être formé à l'emploi de ces matériels.
+
+4.2 - Moyens de lutte contre l'incendie
+
+4.2.1 - Prescriptions spécifiques à l'hydrogène liquide
+
+L'installation doit être dotée de moyens de secours contre l'incendie appropriés aux risques et conformes aux normes en vigueur, notamment :
+
+- d'une borne d'incendie normalisée de 100 mm de diamètre avec le matériel nécessaire pour mettre en batterie une grosse lance et deux petites,
+
+- 1 extincteur à poudre de 50 kg sur roues,
+
+- 2 extincteurs à poudre de 9 kg,
+
+- 1 extincteur CO² de 6 kg.
+
+Ces matériels doivent être disposés à proximité de l'installation, maintenus en bon état et vérifiés au moins une fois par an. Le personnel doit être formé à l'utilisation des moyens de secours contre l'incendie. En cas d'incendie dans le voisinage de l'installation des dipositions doivent être prises pour protéger l'installation.
+
+4.2.2 - Prescriptions spécifiques à l'hydrogène gazeux
+
+L'installation doit être dotée de moyens de secours contre l'incendie appropriés aux risques et conformes aux normes en vigueur, notamment :
+
+- 1 extincteur à poudre de 50 kg sur roues ;
+
+- 1 robinet d'eau de 40 mm, équipé d'une lance susceptible d'être mise instantanément en service.
+
+Ces matériels doivent être disposés à proximité de l'installation, maintenus en bon état et vérifiés au moins une fois par an. Le personnel doit être formé à l'utilisation des moyens de secours contre l'incendie. En cas d'incendie dans le voisinage de l'installation des dispositions doivent être prises pour protéger l'installation.
+
+4.3 - Localisation des risques
+
+L'exploitant recense, sous sa responsabilité, les parties de l'installation qui, en raison des caractéristiques qualitatives et quantitatives des matières mises en œuvre, stockées, utilisées ou produites, sont susceptibles d'être à l'origine d'un sinistre pouvant avoir des conséquences directes ou indirectes sur l'environnement, la sécurité publique ou le maintien en sécurité de l'installation.
+
+L'exploitant détermine pour chacune de ces parties de l'installation la nature du risque (incendie ou atmosphères explosives). Ce risque est signalé.
+
+4.4 - Matériel électrique de sécurité
+
+Dans les parties de l'installation visées au point 4.3 "atmosphères explosives", les installations électriques doivent être réduites à ce qui est strictement nécessaire aux besoins de l'exploitation. Elles doivent être entièrement constituées de matériels utilisables dans les atmosphères explosives. Cependant, dans les parties de l'installation où les atmosphères explosives peuvent apparaître de manière épisodique avec une faible fréquence et une courte durée, les installations électriques peuvent être constituées de matériel électrique de bonne qualité industrielle qui, en service normal, n'engendrent ni arc ni étincelle, ni surface chaude susceptible de provoquer une explosion. Les canalisations ne doivent pas être une cause possible d'inflammation et doivent être convenablement protégées contre les chocs, contre la propagation des flammes et contre l'action des produits présents dans la partie de l'installation en cause.
+
+4.5 - Interdiction des feux
+
+Dans les parties de l'installation, visées au point 4.3, présentant des risques d'incendie ou d'explosion, il est interdit d'apporter du feu sous une forme quelconque, sauf pour la réalisation de travaux ayant fait l'objet d'un "permis de feu". Cette interdiction doit être affichée en caractères apparents.
+
+4.6 - "Permis de travail" et/ou "permis de feu" dans les parties de l'installation visées au point 4.3
+
+Dans les parties de l'installation visées au point 4.3, tous les travaux de réparation ou d'aménagement conduisant à une augmentation des risques (emploi d'une flamme ou d'une source chaude, purge des circuits...) ne peuvent être effectués qu'après délivrance d'un "permis de travail" et éventuellement d'un "permis de feu" et en respectant les règles d'une consigne particulière.
+
+Le "permis de travail" et éventuellement le "permis de feu" et la consigne particulière doivent être établis et visés par l'exploitant ou par la personne qu'il aura nommément désignée. Lorsque les travaux sont effectués par une entreprise extérieure, le "permis de travail" et éventuellement le "permis de feu" et la consigne particulière relative à la sécurité de l'installation, doivent être cosignés par l'exploitant et l'entreprise extérieure ou les personnes qu'ils auront nommément désignées.
+
+Après la fin des travaux et avant la reprise de l'activité, une vérification des installations doit être effectuée par l'exploitant ou son représentant.
+
+4.7- Consignes de sécurité
+
+Sans préjudice des dispositions du code du travail, des consignes précisant les modalités d'application des dispositions du présent arrêté doivent être établies, tenues à jour et affichées dans les lieux fréquentés par le personnel. Ces consignes doivent notamment indiquer :
+
+- l'interdiction d'apporter du feu sous une forme quelconque, dans les parties de l'installation visées au point 4.3 "incendie" et "atmosphères explosives",
+
+- l'obligation du "permis de travail" pour les parties de l'installation visées au point 4.3,
+
+- les mesures à prendre en cas de fuite sur un récipient ou une canalisation contenant de l'hydrogène, notamment les conditions de rejet prévues au point 5.7,
+
+- les mesures à prendre en cas d'échauffement d'un récipient,
+
+- les moyens d'extinction à utiliser en cas d'incendie,
+
+- la procédure d'alerte avec les numéros de téléphone du responsable d'intervention de l'établissement, des services d'incendie et de secours, etc,
+
+- les procédures d'arrêt d'urgence et de mise en sécurité de l'installation (électricité, réseaux de fluides).
+
+4.8 - Consignes d'exploitation
+
+Les opérations comportant des manipulations dangereuses et la conduite des installations (démarrage et arrêt, fonctionnement normal, entretien, etc.) doivent faire l'objet de consignes d'exploitation écrites. Ces consignes prévoient notamment :
+
+- les modes opératoires,
+
+- la fréquence de contrôle des dispositifs de sécurité et de traitement des pollutions et nuisances générées,
+
+- les instructions de maintenance et de nettoyage.
+
+4.9 - Détection de gaz
+
+Les détecteurs de gaz sont mis en place dans les parties de l'installation visées au point 4.3 présentant des risques en cas de dégagement et d'accumulation importante de gaz. Ces zones sont équipées de systèmes de détection dont les niveaux de sensibilité sont adaptés aux situations.
+
+5. Eau
+
+5.1 - Prélèvements
+
+Les installations de prélèvement d'eau dans le milieu naturel doivent être munies de dispositifs de mesure totalisateurs de la quantité d'eau prélevée. Ces dispositifs doivent être relevés toutes les semaines si le débit moyen prélevé est supérieur à 10 m³/j. Le résultat de ces mesures doit être enregistré et tenu à la disposition de l'inspecteur des installations classées.
+
+Le raccordement à une nappe d'eau ou au réseau public de distribution d'eau potable doit être muni d'un dispositif anti-retour.
+
+L'usage du réseau d'eau incendie est strictement réservé aux sinistres et aux exercices de secours, et aux opérations d'entretien ou de maintien hors gel de ce réseau.
+
+5.2 - Consommation
+
+Toutes dispositions doivent être prises pour limiter la consommation d'eau.
+
+5.3 - Réseau de collecte
+
+Le réseau de collecte doit être de type séparatif permettant d'isoler les eaux résiduaires polluées des eaux pluviales non susceptibles d'être polluées.
+
+Les points de rejet des eaux résiduaires doivent être en nombre aussi réduit que possible et aménagés pour permettre un prélèvement aisé d'échantillons et l'installation d'un dispositif de mesure du débit.
+
+5.4 (*)
+
+non concerné
+
+5.5 (*)
+
+non concerné
+
+5.6 - Interdiction des rejets en nappe
+
+Le rejet direct ou indirect, même après épuration, d'eaux résiduelles dans une nappe souterraine est interdit.
+
+5.7 - Prévention des pollutions accidentelles
+
+Des dispositions doivent être prises pour qu'il ne puisse pas y avoir en cas d'accident (rupture de récipient, cuvette, etc.), déversement de matières dangereuses dans les égouts publics ou le milieu naturel. Leur évacuation éventuelle après un accident doit se faire comme des déchets dans les conditions prévues au titre 7 ci-après.
+
+5.8 (*)
+
+non concerné
+
+5.9 (*)
+
+non concerné
+
+6. Air - odeurs
+
+6.1 - Captage et épuration des rejets à l'atmosphère
+
+Les installations susceptibles de dégager des gaz doivent être munies de dispositifs permettant de collecter et canaliser autant que possible les émissions. Ces dispositifs, après épuration des gaz collectés en tant que de besoin, sont munis d'orifices obturables et accessibles aux fins d'analyse.
+
+Le débouché des cheminées doit être éloigné au maximum des habitations et ne pas comporter d'obstacles à la diffusion des gaz (chapeaux chinois...).
+
+6.2 - Valeurs limites et conditions de rejet
+
+6.2.1 - Prescriptions spécifiques à l'hydrogène liquide
+
+Les soupapes, dispositifs de mise à l'atmosphère ou de purge devront être reliés sans possibilité d'obstruction accidentelle à une cheminée située à l'intérieur de la clôture.
+
+La cheminée devra être équipée d'un système d'extinction de flamme facilement manœuvrable (par exemple, un système d'injection d'azote ou équivalent).
+
+De plus elle devra déboucher de manière telle qu'il n'y ait pas d'obstacles ou d'équipements (bâtiment, ligne électrique, etc.) en partie haute dans une zone délimitée par une demi-sphère de rayon 20 mètres et de centre le point situé à 3 mètres au-dessous de la sortie de la cheminée.
+
+6.2.2 - Prescriptions spécifiques à l'hydrogène gazeux
+
+Tout rejet de purge d'hydrogène devra se faire à l'air libre et, dans tous les cas, en un lieu et à une hauteur suffisante pour ne présenter aucun risque.
+
+6.3 (*)
+
+non concerné
+
+7. Déchets
+
+7.1 - Récupération - recyclage
+
+Toutes dispositions doivent être prises pour limiter les quantités de déchets produits, notamment en effectuant toutes les opérations de valorisation possibles.
+
+Les déchets qui ne peuvent être valorisés sont éliminés dans les installations réglementées à cet effet au titre de la loi du 19 juillet 1976, dans des conditions permettant d'assurer la protection de l'environnement.
+
+7.2 (*)
+
+non concerné
+
+7.3 (*)
+
+non concerné
+
+7.4 (*)
+
+non concerné
+
+7.5 - Brûlage
+
+Le brûlage des déchets à l'air libre est interdit.
+
+8. Bruit et vibrations
+
+8.1 - Valeurs limites de bruit
+
+Au sens du présent arrêté, on appelle :
+
+- émergence : la différence entre les niveaux de pression continus équivalents pondérés A du bruit ambiant (installation en fonctionnement) et du bruit résiduel (en l'absence du bruit généré par l'installation),
+
+- zones à émergence réglementée :
+
+- l'intérieur des immeubles habités ou occupés par des tiers, existant à la date de la déclaration, et leurs parties extérieures les plus proches (cour, jardin, terrasse),
+
+- les zones constructibles définies par des documents d'urbanisme opposables aux tiers et publiés à la date de la déclaration,
+
+- l'intérieur des immeubles habités ou occupés par des tiers qui ont été implantés après la date de la déclaration dans les zones constructibles définies ci-dessus, et leurs parties extérieures éventuelles les plus proches (cour, jardin, terrasse) à l'exclusion de celles des immeubles implantés dans les zones destinées à recevoir des activités artisanales ou industrielles.
+
+Pour les installations existantes (déclarées avant le 1er juillet 1998) la date de la déclaration est remplacée, dans la définition ci-dessus des zones à émergence réglementée, par la date du présent arrêté.
+
+L'installation est construite, équipée et exploitée de façon telle que son fonctionnement ne puisse être à l'origine de bruits transmis par voie aérienne ou solidienne susceptibles de compromettre la santé ou la sécurité du voisinage ou de constituer une nuisance pour celui-ci.
+
+Les émissions sonores émises par l'installation ne doivent pas être à l'origine, dans les zones à émergence réglementée, d'une émergence supérieure aux valeurs admissibles précisées dans le tableau suivant :
+
+Niveau de bruit ambiant existant dans les zones à émergence réglementée (incluant le bruit de l'installation)
+
+|
+
+Emergence admissible pour la période allant de 7h00 à 22h00, sauf dimanches et jours fériés
+
+|
+
+Emergence admissible pour la période allant de 22h00 à 7h00, ainsi que les dimanches et jours fériés
+
+|
+
+supérieur à 35 et inférieur ou égal à 45 dB (A)
+
+|
+
+6 dB (A)
+
+|
+
+4 dB (A)
+
+|
+
+supérieur à 45 dB (A)
+
+|
+
+5 dB (A)
+
+|
+
+3 dB (A)
+
+|
+
+De plus, le niveau de bruit en limite de propriété de l'installation ne devra pas dépasser, lorsqu'elle est en fonctionnement, 70 dB (A) pour la période de jour et 60 dB (A) pour la période de nuit, sauf si le bruit résiduel pour la période considérée est supérieur à cette limite.
+
+Dans le cas où le bruit particulier de l'établissement est à tonalité marquée au sens du point 1.9 de l'annexe de l'arrêté du 23 janvier 1997 relatif à la limitation des bruits émis dans l'environnement par les installations classées pour la protection de l'environnement, de manière établie ou cyclique, sa durée d'apparition ne peut excéder 30 % de la durée de fonctionnement de l'établissement dans chacune des périodes diurne ou nocturne définies dans le tableau ci-dessus.
+
+Lorsque plusieurs installations classées, soumises à déclaration au titre de rubriques différentes, sont situées au sein d'un même établissement, le niveau de bruit global émis par ces installations devra respecter les valeurs limites ci-dessus.
+
+8.2 - Véhicules - engins de chantier
+
+Les véhicules de transport, les matériels de manutention et les engins de chantier utilisés à l'intérieur de l'installation doivent être conformes aux dispositions en vigueur en matière de limitation de leurs émissions sonores. En particulier, les engins de chantier doivent être conformes à un type homologué.
+
+L'usage de tous appareils de communication par voie acoustique (sirènes, avertisseurs, haut parleurs, etc.), gênant pour le voisinage, est interdit, sauf si leur emploi est exceptionnel et réservé à la prévention et au signalement d'incidents graves ou d'accidents.
+
+8.3 (*)
+
+non concerné
+
+8.4 - Mesure de bruit
+
+Les mesures sont effectuées selon la méthode définie en annexe de l'arrêté du 23 janvier 1997.
+
+9. Remise en état en fin d'exploitation
+
+9.1 - Elimination des produits dangereux en fin d'exploitation
+
+En fin d'exploitation, tous les produits dangereux ainsi que tous les déchets doivent être valorisés ou évacués vers des installations dûment autorisées.
+
+9.2 (*)
+
+non concerné
+
+(*) Un modèle a été constitué pour la rédaction des arrêtés de prescriptions générales applicables aux installations soumises à déclaration. Certaines dispositions de ce modèle, qui ne se justifient pas pour les installations visées par la rubrique n° 1416 ont été supprimées. Néanmoins, la numérotation a été conservée pour permettre une homogénéité entre les arrêtés de prescriptions générales de toutes les rubriques de la nomenclature.
