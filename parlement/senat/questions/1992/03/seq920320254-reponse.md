@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920320254
+
+- Question : [SEQ920320254](seq920320254.md) — Justification du versement à la SNCF, avant travaux, d'un emprunt contracté par une collectivité locale
+
+## Réponse
+
+*Équipement, JO du 1992-06-25, page 1441*
+
+Réponse. - La loi n° 866 du 15 septembre 1942, modifiée par la loi du 10 mars 1948 et le décret n° 77-785 du 13 juillet 1977 ont fixé les dispositions relatives à l'institution et à la perception des surtaxes locales temporaires sur les chemins de fer d'intérêt général, les voies ferrées des quais des ports maritimes ou fluviaux et les services de transports routiers en liaison avec les chemins de fer. Les surtaxes définies par la loi de 1942 sont destinées à couvrir les emprunts permettant de réaliser certains travaux ferroviaires présentant un intérêt direct et certain pour les usagers du chemin de fer mais que ce dernier n'est pas tenu, par la loi ou par son cahier des charges, d'exécuter pour satisfaire aux besoins du trafic. L'intérêt de ce mode de financement est indéniable, car il est le seul moyen de réaliser des travaux importants de modernisation des gares voyageurs. Actuellement, les projets de surtaxes sont préparés par le transporteur, après accord avec la collectivité ou l'organisme intéressé, puis, après affichage du programme des surtaxes dans les gares concernées, soumis au préfet du département où les travaux sont envisagés. L'autorisation de mise en perception des surtaxes est donnée au transporteur par arrêté du préfet. Elle est subordonnée au versement, dans les caisses du transporteur, du montant de la dépense, celui-ci ne pouvant engager les travaux avant d'avoir obtenu leur financement. Les surtaxes font l'objet d'un compte spécial dans la comptabilité des chemins de fer ou des entreprises de transport. Le montant en est versé aux collectivités, aux époques d'échéance des annuités d'emprunt et jusqu'à concurrence de ces annuités.
