@@ -37,3 +37,7 @@ b) Les charges relatives à l'emploi de personnel assurant les soins, y compris 
 c) L'amortissement du matériel médical dont la liste est fixée par arrêté du ministre chargé des affaires sociales ;
 
 2° En produits, ceux mentionnés au 2° de l'article 11 du décret n° 99-317 du 26 avril 1999 susvisé lorsqu'ils relèvent de la présente section d'imputation tarifaire.
+
+NOTA :
+
+NOTA : Décret 2003-1010 du 22 octobre art. 133 II : à l'annexe I du décret 99-316, les mots "article 39 du décret 99-317 du 26 avril 1999 susvisé sont remplacés par " article 50 du décret n° 2003-1010 du 22 octobre 2003 relatif à la gestion budgétaire, comptable et financière, et aux modalités de financement et de tarification des établissements et services sociaux et médico-sociaux mentionnés au I de l'article L. 312-1 du code de l'action sociale et des familles, et aux établissements mentionnés au 2° de l'article L. 6111-2 du code de la santé publique."
