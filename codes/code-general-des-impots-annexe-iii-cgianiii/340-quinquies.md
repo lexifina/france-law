@@ -1,6 +1,6 @@
 # Article 340 quinquies
 
-1. Les taux des contributions prévues pour l'alimentation du fonds de garantie des victimes d'accidents d'automobile sont fixés comme suit :
+1. Les taux des contributions prévues pour l'alimentation du fonds de garantie au profit des victimes d'accidents d'automobile sont fixés comme suit :
 
 a. Contribution des sociétés d'assurances : 10 % de la totalité des charges du fonds de garantie;
 
