@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010331498
+
+- Question : [SEQ010331498](seq010331498.md) — Réseau pour la recherche et l'innovation en audiovisuel et multimédia (RIAM)
+
+## Réponse
+
+*Recherche, JO du 2001-05-10, page 1613*
+
+Réponse. - Le réseau de recherche et d'innovation technologiques sur l'audiovisuel et le multimédia (RIAM) est le quatorzième réseau de ce type que met en place le ministère de la recherche. Il vient compléter le dispositif sur les thèmes concernant les technologies de l'information et de la communication (TIC), dans le cadre de la convergence " informatique - télécommunications - audiovisuel ", dispositif qui comportait déjà le réseau national sur la recherche en télécommunications (RNRT), celui sur les micro et nano-technologies (RMNT) et celui sur les technologies du logiciel (RNTL). Le ministère de la recherche a très fortement augmenté les moyens du fonds de la recherche technologique (FRT) affectés aux technologies de l'information et de la communication, qui passent de 165 MF en 2000 à 250 MF en 2001. Cette augmentation, d'environ 50 %, traduit l'importance que leur accorde le Gouvernement dans le cadre du plan d'action gouvernemental pour la société de l'information (PAGSI). Les moyens 2001 du FRT ont été répartis a priori de la manière suivante entre les quatres réseaux : 85 MF pour le RNRT et pour le RNTL, 60 MF pour le RMNT et 20 MF pour le RIAM. Le soutien plus faible accordé à RIAM par le ministère de la recherche tient compte du fait que trois ministères contribuent au budget de RIAM, alors que deux seulement alimentent les trois autres réseaux, ce qui assure globalement à RIAM un budget voisin des autres réseaux. Par ailleurs, la répartition a priori des crédits du FRT entre les quatre réseaux pourra toujours être revue en cours d'année, en fonction du nombre et de la qualité des projets qui parviendront au ministère en réponse aux différents appels à propositions.
