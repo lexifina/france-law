@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881202587
+
+- Question : [SEQ881202587](seq881202587.md) — Publicité en faveur des boissons alcoolisées
+
+## Réponse
+
+*Solidarité, JO du 1989-02-16, page 289*
+
+Réponse. - En raison des effets néfastes de l'alcoolisme sur notre communauté nationale et du lourd tribut que celle-ci paie à ce fléau, le législateur a entendu définir précisément le champ des activités publicitaires en faveur des boissons alcooliques, en modifiant les articles L. 17 et L. 18 du code des débits de boissons et des mesures contre l'alcoolisme par la loi du 30 juillet 1987 portant diverses mesures d'ordre social. Ainsi, l'article L. 17 nouveau porte une interdiction générale de diffusion de messages publicitaires en faveur des boissons contenant plus de un degré d'alcool par les organismes et services de télévision publics ou privés, dans les publications destinées à la jeunesse, sur les stades, terrains de sports publics ou privés et dans les enceintes où se déroulent habituellement des manifestations sportives, ou bien se tiennent des réunions de jeunesse ou d'éducation populaire. L'article L. 18 pose, d'une part, l'obligation d'assortir tout message publicitaire, quel qu'en soit le support, d'un conseil de modération et, d'autre part, prohibe, du contenu des messages, toute incitation envers les mineurs à consommer des boissons alcooliques, ainsi que l'évocation du sport, de la sexualité, du travail, des machines et des véhicules à moteur. La publicité ne peut présenter les boissons alcooliques comme dotées ou dénuées d'effets physiologiques ou psychologiques. Cet article réglemente, en outre, les activités de parrainage se rapportant au sport et aux manifestations de jeunesse ou d'éducation populaire visées à l'article L. 18. Des difficultés d'interprétation de ces articles se sont fait jour mais la jurisprudence intervenue depuis lors a levé les ambiguïtés.
