@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030507353
+
+- Question : [SEQ030507353](seq030507353.md) — Vigilance des services publics auprès des usagers après une coupure réglementaire d'eau, d'électricité ou de téléphone
+
+## Réponse
+
+*Lutte contre la précarité, JO du 2003-07-31, page 2479*
+
+Le Gouvernement a engagé un travail de simplification et de rationalisation des dispositifs d'aide aux impayés d'énergie, d'eau et des services téléphoniques en proposant la création dans un fonds unique d'aide : le fonds de solidarité logement. Cette disposition novatrice est intégrée dans l'avant-projet de loi relatif à la décentralisation, prochainement soumis au Parlement, qui prévoit de confier la gestion de ce fonds aux départements. Dans ce texte, le principe d'une libre adhésion des entreprises chargées du service public de l'électricité, des distributeurs d'eau et des opérateurs agréés pour le service public du téléphone aux fonds de solidarité logement sera institué. Il appartiendra aux présidents de conseils généraux d'établir localement, par convention les modalités du partenariat avec l'ensemble de ces partenaires, selon le principe de la libre administration des collectivités décentralisées. La vigilance à l'égard des plus démunis de nos concitoyens doit néanmoins demeurer une préoccupation constante de l'État. le Gouvernement ne manquera pas d'étudier la préoccupation de l'honorable parlementaire quant aux possibilités de mise en oeuvre d'un dispositif d'alerte impliquant l'ensemble des partenaires concernés. L'instauration d'une charte de bonnes pratiques signées des représentants de ces institutions au plan national pourrait, à cet égard, être envisagée. Elle pourrait prendre appui sur la charte interne adoptée par l'ensemble Electricité de France, qui prévoit qu'aucune coupure d'électricité ne peut être effectuée sans qu'un contact avec le client n'ait été possible.
