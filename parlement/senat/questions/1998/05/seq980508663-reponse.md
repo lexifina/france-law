@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508663
+
+- Question : [SEQ980508663](seq980508663.md) — Recrutement des enseignants
+
+## Réponse
+
+*Éducation, JO du 1998-07-30, page 2463*
+
+Réponse. - La consultation des chefs d'établissements par les services académiques préalablement à l'affectation de nouveaux enseignants est un processus qui est déjà organisé lors de l'examen des candidatures pour certains mouvements particuliers des personnels enseignants du second degré (mouvement pour pourvoir les postes dans les petits établissements ruraux isolés de certaines académies, pour procéder à des affectations dans les établissements isolés de la Guadeloupe et de la Guyane, affectations dans les établissements sensibles). Pour la rentrée 1999, des mesures sont engagées afin de procéder à la déconcentration du mouvement des personnels enseignants du second degré et des personnels d'éducation et d'orientation qui gardera un caractère national pour ce qui est de la mutation entre académies, mais confiera aux recteurs l'affectation précise dans l'établissement ou dans des fonctions de remplacement. Ce nouveau mouvement national à gestion déconcentrée offrira aux recteurs, ne serait-ce que par leur proximité et une bonne connaissance du contexte local, la possibilité d'engager progressivement une gestion qualicative conforme aux attentes des personnels et à l'intérêt des élèves. Améliorer l'information, accueillir et conseiller de façon personnalisée les enseignants, établir dans la concertation des règles transparentes pour les postes à exigences particulières de service public, comme ceux qui sont évoqués plus haut, tels sont les objectifs de la déconcentration qui se met en place. Mais il est clair que les chefs d'établissements ne se verront pas confier de nouvelles compétences en matière de recrutement des enseignants affectés dans leur établissement.
