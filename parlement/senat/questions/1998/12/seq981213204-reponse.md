@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981213204
+
+- Question : [SEQ981213204](seq981213204.md) — Fermeture de deux usines de production de la société Schweppes implantées à Pantin et Gonesse (Ile-de-France)
+
+## Réponse
+
+*Agriculture, JO du 1999-12-09, page 4046*
+
+Réponse. - La société Schweppes a fermé deux usines de fabrication situées à Pantin (Seine-Saint-Denis) et Gonesse (Val-d'Oise), respectivement fin 1996 pour la première et fin 1997 pour la seconde. La restructuration devait permettre une amélioration de la productivité et un développement des activités. La production des deux sites franciliens est assurée depuis par l'établissement de Donnery (Loiret) créé en partenariat avec San Bennedetto, groupe italien producteur d'eaux de source. Les deux unités industrielles abandonnées employaient 166 salariés au total. L'honorable parlementaire s'inquiète des conséquences pour le bassin d'emploi et les ressources des collectivités locales. En association avec les représentants du personnel et les municipalités, la société avait établi un plan social orienté vers le maintien des emplois. A cette fin, trois antennes emplois avaient été mises en place. Une partie de l'effectif - soit 80 personnes - avait rejoint le site industriel de Donnery (Loiret). Enfin, la direction de l'entreprise avait saisi, dès l'annonce du projet de restructuration, un cabinet spécialisé pour chercher des solutions de reprise des sites. En 1998, la société Schweppes affirme sa volonté de recentrer ses activités boissons rafraîchissantes sur le marché nord américain. A cet effet, elle cède certaines de ses marques à Coca Cola, premier groupe mondial du secteur. Mais cet accord ne concerne pas la France. D'ailleurs, le repreneur Coca Cola a précisé qu'il avait pour principal objectif, sur le territoire national, le rachat d'Orangina à la société Pernod Ricard, opération en attente de la décision prochaine du ministère de l'économie, des finances et de l'industrie.
