@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961119034
+
+- Question : [SEQ961119034](seq961119034.md) — Rationalisation des travaux du Parlement européen
+
+## Réponse
+
+*Affaires européennes, JO du 1997-01-02, page 25*
+
+Réponse. - Au fil des années, le parlement européen a en effet vu ses pouvoirs s'accroître de façon importante. Ceci résulte tant de l'extension de ses compétences législatives que de ses compétences budgétaires, les dépenses non obligatoires, sur lesquelles, dans le cadre de certaines limites, il a le dernier mot, constituant désormais plus de la moitié du budget communautaire. C'est pourquoi le Gouvernement partage la préoccupation de l'honorable parlementaire, afin de rapprocher cette institution des citoyens européens. L'établissement d'une procédure électorale uniforme qui rendrait les membres du parlement européen plus responsables vis-à-vis des électeurs, est l'un des objectifs du Gouvernement. En l'absence de progrès à quinze dans cette voie, les autorités françaises pourraient, pour ce qui les concerne, envisager de modifier le mode d'élection applicable à la France. En matière budgétaire, les pouvoirs du parlement européen sont encadrés par des dispositions du traité ainsi que par le cadre que constituent les perspectives financières fixées à Edimbourg. Il convient également de rappeler que les ressources propres de la communauté sont arrêtées par le conseil, à l'unanimité, la décision devant ensuite être adoptée par les Etats membres conformément à leurs règles constitutionnelles respectives. La conférence intergouvernementale ne devrait pas introduire de modifications substantielles dans ses règles. Celles-ci, et il convient de le relever, ont permis à l'autorité budgétaire communautaire d'arrêter un projet de budget pour 1997 conforme aux orientations du conseil, c'est-à-dire sans accroissement significatif du niveau d'appel des contributions des Etats membres.
