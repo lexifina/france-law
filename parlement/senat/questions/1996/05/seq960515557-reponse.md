@@ -1,0 +1,11 @@
+# Réponse à la question SEQ960515557
+
+- Question : [SEQ960515557](seq960515557.md) — Statut des agents documentalistes
+
+## Réponse
+
+*Fonction publique, JO du 1996-10-24, page 2784*
+
+Réponse. - Le principe de la fusion des corps de documentalistes et de chargés d'études documentaires a été entériné lors de la réunion du 9 janvier 1996 de la commission de suivi du protocole d'accord du 9 février 1990, dans le cadre de la 7e tranche de ce protocole. Cette fusion doit s'opérer par l'adoption d'un statut commun permettant à l'ensemble des personnels de documentation de connaître une carrière unique. L'origine de ce projet de fusion réside dans l'application du protocole du 9 février 1990 aux corps de chargés d'études documentaires des différents ministères. Ces corps devaient être revalorisés selon le modèle des corps de A type, en les portant à l'indice sommital IB 966. L'opportunité de cette revalorisation a été saisie pour fusionner les corps de documentalistes avec ceux de chargés d'études documentaires, de façon à n'avoir plus qu'un seul corps de catégorie A pour l'ensemble des personnels d'encadrement exerçant des fonctions de documentation. U
+
+n élargissement interministériel de ce corps a été souhaité pour que les ministères dépourvus de corps de personnels de documentation puissent s'adjoindre au nouveau corps ainsi créé, par l'intégration de leurs personnels non titulaires exerçant de telles fonctions. La structure de la carrière qui a été élaborée au terme d'une concertation élargie avec l'ensemble des personnels concernés est la suivante ; carrière en deux grades avec principalat en deux classes, culminant à l'indice terminal IB 966, et emploi de chef d'études documentaires (IB 1015). Cependant, si le statut interministériel est commun, quatre corps ministériels sont prévus, dont celui de la culture. Le maintien de quatre corps permettra aux différents ministères de préserver la spécificité des missions de leurs personnels de documentation. Ainsi, le ministère de la culture sera habilité à faire valoir la spécificité de ses missions lors de l'élaboration du statut commun, qui se fera sous l'égide du ministère de la fonction publique, en concertation étroite avec les ministères intéressés. Cette concertation va s'engager à l'automne avec les administrations et les partenaires sociaux.
