@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001229898
+
+- Question : [SEQ001229898](seq001229898.md) — Interprétation et application identiques des textes européens dans les pays membres
+
+## Réponse
+
+*Affaires étrangères, JO du 2001-03-15, page 910*
+
+Réponse. - L'article 189 du traité instituant la Communauté européenne dispose que " la directive lie tout Etat membre destinataire quant à son résultat à atteindre, tout en laissant aux instances nationales la compétence quant aux formes et aux moyens ". L'entrée en vigueur de la directive ouvre un délai de mise en uvre de durée variable selon le cas. A l'expiration de ce délai, le droit des Etats destinataires doit être en conformité avec les prescriptions de la directive. Dans le cas de la directive 2000/36/CE relative aux produits de cacao et de chocolat destinés à l'alimentation humaine adoptée le 23 juin 2000, l'article 8 fixe le délai de transposition au 3 août 2003. A cette date, les Etats membres devront avoir pris toutes les mesures nécessaires pour se conformer aux obligations posées par le texte communautaire. Cependant, rien n'empêche les Etats membres de procéder à l'adaptation de leur droit national avant cette date butoir. En revanche, l'article 8, paragraphe 2, précise bien que ce n'est qu'à cette date que l'interdiction de la commercialisation des produits de cacao ne répondant pas aux critères posés dans la directive pourra être effectivement appliquée par les Etats membres. La fixation de cette échéance vise à répondre aux risques de distorsion de concurrence qui pourraient survenir si un Etat membre se fondait sur la transposition anticipée de la directive pour refuser la commercialisation d'un produit de cacao importé d'un Etat membre qui n'aurait pas encore pris les mesures requises pour conformer ses produits de cacao aux prescriptions de la directive.
