@@ -1,3 +1,7 @@
 # Article ANNEXE
 
 .
+
+NOTA :
+
+.
