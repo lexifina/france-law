@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930400247
+
+- Question : [SEQ930400247](seq930400247.md) — Membres élus du CSFE : participation à la gestion des établissements d'enseignement français à l'étranger
+
+## Réponse
+
+*Affaires étrangères, JO du 1993-09-23, page 1696*
+
+Réponse. - La présence de membres élus du CSFE dans les conseils d'établissement ou d'école des établissements français à l'étranger n'est pas laissée à la discrétion des chefs d'établissement mais est expressément prévue par les circulaires de l'Agence pour l'enseignement français à l'étranger. En ce qui concerne les comités de gestion des établissements conventionnés, les associations gestionnaires de ces établissements sont libres d'y admettre ou non la présence de délégués du CSFE : il n'est pas au pouvoir de l'Agence ni de ses ministères de tutelle d'imposer cette présence à des institutions privées de droit local et il n'est pas souhaitable d'exercer sur elles des pressions en ce sens, qui seraient interprétées comme une atteinte à l'autonomie des établissements à laquelle nos compatriotes de l'étranger et leurs représentants sont, à juste titre, très attachés. A l'intérieur des comités de gestion, le contrôle des moyens mis par l'Etat à la disposition des établissements est assuré par des membres de droit représentant le directeur de l'Agence pour l'enseignement français à l'étranger et désignés par l'ambassadeur de France. Les délégués du CSFE peuvent obtenir des informations exhaustives sur les conditions de fonctionnement, de gestion et sur les moyens budgétaires et en personnel des établissements français de leurs circonscription en s'adressant aux responsables géographiques de l'Agence pour l'enseignement à l'étranger qui édite annuellement des statistiques et ratios de gestion très complets et largement diffusés au sein du CSFE.
