@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010533433
+
+- Question : [SEQ010533433](seq010533433.md) — Revendications des étudiants des formations de travailleurs sociaux
+
+## Réponse
+
+*Emploi, JO du 2001-12-20, page 4027*
+
+Les revendications des étudiants en travail social font l'objet d'une attention particulière. Ainsi, en ce qui concerne le coût des études, une circulaire en date du 11 septembre 2001 permet d'aligner les modalités d'attribution des bourses attribuées aux étudiants en travail social sur celles du régime des bourses sur critères sociaux l'enseignement supérieur. Cette disposition est mise en oeuvre dès l'année soclaire 2001/2002. Les questions relatives au coût des sélections ainsi qu'aux frais induits par les stages feront l'objet d'une concertation associant l'ensemble des partenaires concernés. En ce qui concerne les budgets des centres de formation, un décret en préparation confortera les relations juridiques et financières entre l'Etat et les centres de formation par l'instauration d'un contrat pluriannuel de financement. Par ailleurs, le nouveau programme national de lutte contre les exclusions prévoit un plan pluriannuel d'augmentation des effectifs d'étudiants en travail social sur la base d'une évaluation des besoins réalisée dans le cadre du schéma national des formations sociales qui vient d'être arrêté pour la période 2001-2005. Enfin, ce même schéma national prévoit la création d'une commission professionnelle consultative qui aura pour mission d'élaborer et d'actualiser les référentiels professionnels ainsi que les référentiels de certification et de formation correspondants. Ainsi, le nombre d'années de formation ne saurait être le seul critère conduisant à attribuer un niveau et un diplôme, celui-ci doit également correspondre au niveau de compétence nécessaire qui est indentifié pour l'exercice de chacun des métiers.
