@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931003092
+
+- Question : [SEQ931003092](seq931003092.md) — Fonctionnement des bibliothèques du centre pénitentiaire de Fleury-Mérogis
+
+## Réponse
+
+*Justice, JO du 1993-12-09, page 2361*
+
+Réponse. - Conformément aux articles D. 443 et 445 du code de procédure pénale et à la circulaire AP 9208-GB1 du 14 décembre 1992, sur le développement de la lecture et le fonctionnement des bibliothèques en établissement pénitentiaire, l'administration pénitentiaire met progressivement en place dans chaque prison une bibliothèque permettant l'accès direct aux livres pour l'ensemble des personnes incarcérées et un budget annuel de fonctionnement. Cent dix-huit établissements sont actuellement pourvus de cet équipement. Ce programme devrait être achevé à la maison d'arrêt de Fleury-Mérogis avec la restructuration avant la fin de cette année d'une septième bibliothèque, implantée au centre de jeunes détenus. Ces investissements importants traduisent la volonté de l'administration pénitentiaire de répondre aux responsabilités qui sont les siennes en permettant aux personnels compétents, bibliothécaires de lecture publique des villes et des départements, de venir exercer leur mission auprès des personnes provisoirement privées de liberté. Soucieux de la nécessité de reconnaître le caractère professionnel des interventions des membres de l'association Lire c'est vivre par le financement d'un poste de bibliothécaire à temps complet, les services de l'administration pénitentiaire et ceux du ministère de la culture et de la francophonie étudient avec l'ensemble des personnels concernés la mise en oeuvre de ce projet. Conformément à un dispositif existant déjà dans d'autres départements, l'objectif recherché est la signature d'une convention intégrant les collectivités territoriales.
