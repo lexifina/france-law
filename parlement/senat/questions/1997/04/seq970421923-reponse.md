@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970421923
+
+- Question : [SEQ970421923](seq970421923.md) — Biens immobiliers en Tunisie
+
+## Réponse
+
+*Affaires étrangères, JO du 1997-05-15, page 1472*
+
+Réponse. - L'honorable parlementaire a bien voulu appeler l'attention de M. le ministre des affaires étrangères sur les difficultés que rencontrent nos compatriotes, propriétaires de biens en Tunisie. Au cours des diverses négociations menées à tous les niveaux, la France ne manque jamais de rappeler son vif intérêt pour un règlement définitif et global de ce dossier. Notre position s'articule notamment autour de la suppression de l'autorisation de vente, procédure longue et complexe, qui pénalise nos ressortissants. Comme l'a rappelé l'honorable parlementaire, cette procédure est appliquée depuis le décret du 4 juin 1957, aux biens construits ou acquis avant 1956. Cependant, à l'origine, ce décret relatif aux opérations immobilières concernait toutes les ventes, sans distinction de nationalité des propriétaires. L'égalité de traitement a pris fin avec le décret-loi du 21 septembre 1977, dispensant les propriétaires tunisiens de l'autorisation de vente. Par ailleurs, la loi du 27 juin 1983 a renforcé la procédure administrative pour les propriétaires étrangers, car à l'autorisation préalable du Gouvernement, est venue s'ajouter l'autorisation du ministère de l'habitat, auquel s'est substitué le ministère des domaines de l'Etat et des affaires foncières en 1992 (loi du 3 février 1992). Ainsi, la suppression de l'autorisation de vente constitue notre revendication prioritaire car elle concerne potentiellement deux mille de nos ressortissants. Cette position est fondée sur le respect du principe de réciprocité stipulé dans la Convention de 1963, ainsi que sur les demandes des associations de propriétaires français en Tunisie.
