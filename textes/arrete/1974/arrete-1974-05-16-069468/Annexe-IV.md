@@ -2,15 +2,11 @@
 
 I - Dispositions communes à tous les modèles de livret.
 
-Renseignements relatifs à l'état civil.
+Renseignements relatifs à l'état civil :
 
-Délivrance des extraits d'acte de l'état civil.
+Délivrance des extraits d'acte de l'état civil :
 
-On peut obtenir des copies ou extraits d'actes de l'état civil en s'adressant :
-
-Soit à la mairie qui a établi l'acte ;
-
-Soi au greffe du tribunal de grande instance dans le ressort duquel a été établi l'acte.
+On peut obtenir des copies ou extraits d'actes de l'état civil en s'adressant à la mairie qui a établi l'acte.
 
 Lorsque l'acte concernant un Français a été établi à l'étranger (ou dans un ancien territoire français d'outre-mer ou sous tutelle devenu indépendant), la demande doit en être adressée au service central d'état civil du ministère des affaires étrangères, B.P. 1056, 44035 Nantes Cédex.
 
@@ -40,9 +36,9 @@ En outre, dans certains cas, la fiche peut être délivrée par les administrati
 
 II - Dispositions particulières au livret de famille d'époux.
 
-Renseignements relatifs au droit de la famille.
+Renseignements relatifs au droit de la famille :
 
-Droits et devoirs respectifs des époux.
+Droits et devoirs respectifs des époux :
 
 Les époux se doivent mutuellement fidélité, secours, assistance. Ils s'obligent à une communauté de vie.
 
@@ -50,19 +46,19 @@ Ils assurent ensemble la direction morale et matérielle de la famille. Ils pour
 
 Les époux doivent contribuer aux charges du mariage à proportion de leurs facultés respectives. Ils peuvent demander au juge d'instance, le cas échéant, de fixer cette contribution.
 
-Nom des époux.
+Nom des époux :
 
 Le mariage est sans effet sur le nom des époux, qui continuent d'avoir pour seul patronyme officiel celui qui résulte de leur acte de naissance. Toutefois, chacun des époux peut utiliser dans la vie courante, s'il le désire, le nom de son conjoint, en l'ajoutant à son propre nom ou même, pour la femme, en le substituant au sien.
 
 Il peut en être ainsi même lorsque le conjoint a pris l'usage d'un nom double composé des noms de ses parents.
 
-Régime matrimonial.
+Régime matrimonial :
 
 Les époux qui préalablement à leur union n'ont pas fait de contrat de mariage sont soumis au régime de la communauté légale.
 
 Sous ce régime, tous les biens acquis par les époux durant le mariage sont des biens communs. Sont au contraire propres (ou personnels) à chacun des époux les biens qui leur appartenaient avant le mariage et ceux dont ils sont devenus propriétaires, même après le mariage, par succession, donation ou legs.
 
-Chacun des époux a l'administration de ses biens propres. Il peut en percevoir les revenus. Il peut aussi les vendre librement. Chacun des époux a aussi le pouvoir d'administrer seul les biens communs et d'en disposer. Toutefois ces biens ne peuvent être donnés ou vendus que de l'accord des deux époux.
+Chacun des époux a l'administration de ses biens propres. Il peut en percevoir les revenus. Il peut aussi les vendre librement. Chacun des époux a le pouvoir d'administrer seul les biens communs et d'en disposer. Toutefois s'il s'agit d'immeubles ou de fonds de commerce, la vente de ces biens nécessite l'accord du conjoint. Le consentement des deux époux est également requis pour la donation de tout bien commun.
 
 Quel que soit le régime matrimonial, chacun des époux a pouvoir pour passer seul les contrats qui ont pour objet l'entretien du ménage ou l'éducation des enfants : toute dette ainsi contractée par l'un oblige également l'autre, sauf si elle est manifestement excessive. Chacun des époux peut se faire ouvrir librement, sans le consentement de l'autre, tout compte de dépôt (compte courant postal, compte bancaire, livret de caisse d'épargne, etc.) et tout compte de titres en son nom personnel. Il peut disposer librement de ces fonds et de ces titres. En revanche un époux ne peut vendre sans l'autre le logement du ménage ou résilier le bail de ce logement ni vendre les meubles qui le garnissent.
 
@@ -70,17 +66,17 @@ Si l'un des époux se trouve hors d'état de manifester sa volonté ou s'il met 
 
 Lorsque l'un des époux a une créance à faire valoir contre l'autre il peut demander au tribunal d'ordonner qu'une hypothèque légale sera inscrite sur les biens de son conjoint. Le tribunal peut également décider qu'une hypothèque sera prise sur les biens de l'époux qui se fait transférer l'administration des biens de l'autre.
 
-Autorité parentale.
+Autorité parentale :
 
 La loi attribue aux père et mère l'autorité parentale sur leurs enfants mineurs. Les père et mère ont à l'égard de l'enfant droit et devoir de garde, de surveillance et d'éducation.
 
-Pendant le mariage, les père et mère exercent en commun leur autorité. Toutefois les actes usuels de l'autorité parentale concernant la personne de l'enfant sont accomplis valablement par l'un ou l'autre des époux. Ainsi le mari, comme la femme, peuvent sous leur seule signature inscrire l'enfant dans un établissement scolaire, l'autoriser à voyager hors de France ou à subir les épreuves du permis de conduire, etc.
+Pendant le mariage, les père et mère exercent en commun leur autorité. Toutefois les actes usuels de l'autorité parentale concernant la personne de l'enfant sont accomplis valablement par l'un ou l'autre des époux. Ainsi le mari, comme la femme, peuvent sous leur seule signature inscrire l'enfant dans un établissement scolaire, l'autoriser à voyager hors de France ou à subir les épreuves du permis de conduire, etc....
 
 Les père et mère peuvent également décider qu'au nom du père sera adjoint, à titre d'usage, le nom de la mère.
 
 Les père et mère ne peuvent, sauf motif grave, faire obstacle aux relations personnelles de l'enfant avec ses grands-parents.
 
-Droits du conjoint survivant.
+Droits du conjoint survivant :
 
 Au décès de l'un des époux, le conjoint survivant conserve la propriété de ses biens personnels et a droit, s'il est marié sous un régime de communauté, à la moitié des biens communs. La loi lui accorde en outre un droit de jouissance sur les biens attribués à l'époux prédécédé (biens personnels de cet époux et moitié de la communauté qui lui revient). Ce droit de jouissance est d'un quart s'il y a des enfants, de moitié si le défunt laisse des frères et soeurs ou ses père et mère, de la totalité dans les autres cas.
 
@@ -88,9 +84,9 @@ Les droits du conjoint survivant peuvent être considérablement augmentés par 
 
 III - Dispositions particulières au livret de famille de la mère ou du père naturel ou adoptif.
 
-Renseignements d'ordre juridique intéressant la famille naturelle.
+Renseignements d'ordre juridique intéressant la famille naturelle :
 
-Reconnaissance de l'enfant naturel.
+Reconnaissance de l'enfant naturel :
 
 L'enfant naturel peut être reconnu à tout moment devant un officier de l'état civil quelconque (sans qu'il soit nécessaire de s'adresser à celui qui a reçu la déclaration de naissance).
 
@@ -98,15 +94,15 @@ Il peut également être reconnu devant un notaire.
 
 La reconnaissance est possible, même si le père ou la mère de l'enfant naturel est marié.
 
-Etablissement en justice de la paternité naturelle.
+Etablissement en justice de la paternité naturelle :
 
 Lorsque l'enfant n'a pas été reconnu par son père, la mère peut, dans de nombreux cas, demander au tribunal de déclarer la paternité. L'action doit être intentée dans les deux années de la naissance de l'enfant ou dans les deux années qui suivent la cessation du concubinage ou de la participation du père à l'entretien ou à l'éducation de l'enfant. L'action peut aussi être exercée par l'enfant, devenu majeur, dans les deux années qui suivent sa majorité.
 
 Lorsque l'action en recherche de paternité n'est pas possible, la mère peut réclamer en justice au père le versement de subsides (c'est-à-dire d'une pension alimentaire) pendant la minorité de l'enfant, si elle est en mesure de prouver l'existence de relations intimes pendant la période de la conception.
 
-Si la mère ne dispose pas de ressources suffisantes pour payer les frais de justice et les honoraires de l'avocat, elle peut demander le bénéfice de l'aide judiciaire.
+Si la mère ne dispose pas de ressources suffisantes pour payer le frais de justice et les honoraires de l'avocat, elle peut demander le bénéfice de l'aide judiciaire.
 
-Nom de l'enfant naturel.
+Nom de l'enfant naturel :
 
 L'enfant naturel prend le nom de celui de ses père et mère qui l'a reconnu le premier. S'il a été reconnu simultanément par l'un et l'autre, il prend le nom du père.
 
@@ -118,7 +114,7 @@ Ces déclarations sont faites devant le juge des tutelles (juge d'instance) du d
 
 Le parent qui exerce l'autorité parentale peut décider qu'au nom de l'enfant sera adjoint, à titre d'usage, le nom de parent qui ne lui a pas transmis le sien.
 
-Autorité parentale sur l'enfant naturel.
+Autorité parentale sur l'enfant naturel :
 
 L'autorité parentale est exercée sur l'enfant naturel par celui des père et mère qui l'a volontairement reconnu, s'il n'a été reconnu que par l'un d'eux.
 
@@ -126,7 +122,7 @@ Si l'un et l'autre l'ont reconnu, l'autorité parentale est exercée par la mèr
 
 Les père et mère ne peuvent, sauf motif grave, faire obstacle aux relations personnelles de l'enfant avec ses grands-parents.
 
-Légitimation de l'enfant naturel.
+Légitimation de l'enfant naturel :
 
 L'enfant naturel a en principe les mêmes droits et les mêmes devoirs que l'enfant légitime. Toutefois s'il est né d'une personne mariée et d'un autre que son conjoint, ses droits successoraux peuvent subir certaines restrictions. Ces restrictions disparaissent si l'enfant vient à être légitimé.
 
