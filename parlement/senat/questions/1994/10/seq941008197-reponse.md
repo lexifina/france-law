@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941008197
+
+- Question : [SEQ941008197](seq941008197.md) — Etablissement des budgets communaux en matière d'aide sociale
+
+## Réponse
+
+*Fonction publique, JO du 1996-02-15, page 340*
+
+Réponse. - La moyenne nationale de participation des communes aux dépenses nettes d'aide sociale obligatoire et de santé des départements après avoir diminé de 1985 à 1991 de 15,9 p. 100 à 15 p. 100, est stable depuis trois ans. Cette moyenne de participation porte toutefois sur des masses budgétaires en forte progession, puisqu'en effet les dépenses nettes d'aide sociale obligatoire et de santé des départements ont évolué de 45,3 milliards en 1989 à 68,8 milliards de francs en 1994 ce qui traduit un taux d'augmentation de 52 p. 100. Au cours de la période de 1989-1993 le contingent communal d'aide sociale a progressé de 6,85 milliards de francs à 9,42 milliards de francs, soit un taux d'augmentation de 37,5 p. 100. Cette évolution globale recouvre toutefois des situations très contrastées, puisqu'en effet les taux de participation des communes aux dépenses d'aide sociale divergent fortement selon les départements. Par ailleurs les modalités de répartition de la contribution globale entre les communes qui sont actuellement fondées sur les dispositions des articles 5 à 7 du décret no 87-1146 du 31 décembre 1987, peuvent, dans certains cas, se révéler pénalisantes pour les communes dont la population comprend un nombre important de bénéficiaires de prestations d'aide sociale. C'est pourquoi, parmi les thèmes prioritaires de réflexion à mener en concertation avec les élus figure la nécessité de pallier ces dysfonctionnements préjudiciables aux intérêts des communes dont la population est en situation de difficulté sociale et qui se sont engagées largement, au titre de l'action sociale facultative, dans la lutte contre l'exclusion.
