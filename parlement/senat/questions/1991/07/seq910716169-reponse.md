@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910716169
+
+- Question : [SEQ910716169](seq910716169.md) — Disparition de l'école des beaux-arts de Clermont-Ferrand
+
+## Réponse
+
+*Culture, JO du 1991-10-10, page 2226*
+
+Réponse. - Les mesures annoncées le 16 avril dernier concernant la formation de réseaux régionaux liant entre eux, sur la base d'évidentes complémentarités, les écoles d'art d'une même région, ont été formulées en ayant pour objectif l'amélioration et le renforcement d'un réseau d'écoles, dont la densité est une des originalités de la situation française. Cette évolution est apparue souhaitable dans la perspective désormais proche d'échéances européennes qui ne manqueront pas d'avoir sur ce réseau un certain nombre de répercussions qu'il convient, dès aujourd'hui, d'analyser et de prévoir. Cette réorganisation ne saurait être interprétée comme un désengagement de l'Etat vis-à-vis des écoles d'art. Le ministère de la culture et de la communication est décidé, au contraire, à conforter son soutien à l'égard des établissements faisant preuve de l'exigence et de la qualité artistiques et pédagogiques nécessaires. S'agissant de l'école d'art de Clermont-Ferrand, l'inspec tion générale de l'enseignement artistique du ministère de la culture et de la communication a informé la municipalité qu'elle souhaitait analyser avec elle le projet pégagogique de l'école et la manière dont il peut s'inscrire dans le contexte général de la réorganisation en cours. A aucun moment il n'a été envisagé la fermeture de cet établissement et rien ne permet de prétendre qu'il soit, d'une quelconque manière, menacé. Le ministre de la culture et de la communication souhaite que, tirant le meilleur parti de sa situation et de son environnement, l'école d'art de Clermont-Ferrand puisse jouer un rôle actif et dynamique dans la restructuration du réseau dans son ensemble.
