@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940305080
+
+- Question : [SEQ940305080](seq940305080.md) — Promotion spéciale dans l'ordre du Mérite des anciens combattants de la Première Guerre mondiale
+
+## Réponse
+
+*Défense, JO du 1994-04-14, page 877*
+
+Réponse. - Les anciens combattants du premier conflit mondial ont constamment fait l'objet d'une attention toute particulière reconnaissant leur appartenance à la plus ancienne génération du feu et qui leur a notamment permis de bénéficier, par dérogation aux autres contingents militaires, de deux promotions annuelles dans l'ordre de la Légion d'honneur. Actuellement, les conditions de concours pour l'ordre national du Mérite ne permettent pas de les distinguer à ce titre. Il ne peut donc être institué de promotion spéciale dans cet ordre pour les anciens combattants de la Première Guerre mondiale qui n'ont pu obtenir la Légion d'honneur. Par ailleurs, il est à noter que les conditions d'attribution de la Légion d'honneur et de la médaille militaire aux anciens combattants de 1914-1918 sont moins rigoureuses que celles retenues pour les conflits postérieurs ce qui traduit bien l'intérêt particulier porté aux anciens de la grande guerre. En effet, les candidatures présentées avec une citation ou une blessure de guerre sont recevables pour la médaille militaire, première décoration pour tout militaire non officier. En outre, les médaillés militaires sont admis à concourir pour une nomination dans la Légion d'honneur dès lors qu'ils sont titulaires de deux citations ou blessures de guerre. Enfin, il est à souligner qu'une action est actuellement menée par les services du ministère de la défense pour que tous les participants à ce conflit qui se sont signalés par l'acquisition des titres précités au cours des combats, fassent bien l'objet d'un dossier qui sera examiné aussi rapidement que possible.
