@@ -1,0 +1,17 @@
+# Délibération portant avis sur le projet de délibération du conseil d'administration du Centre hospitalier général de Valenciennes portant sur la communication informatisée des résultats de laboratoire dans les unités de soins (CIRUS) et portant adoption d'un modèle-type de traitement
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 90-60
+- Date : 1990-05-29
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017652892
+
+La Commission Nationale de l'Informatique et des Libertés, Vu la Convention du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ; Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, notamment ses articles 15, 19, 29, 34 et 40 ; Vu l'article 378 du Code pénal relatif au secret professionnel ; Vu la loi n° 70-1318 du 31 décembre 1970 portant réforme hospitalière ; Vu le décret n° 78-774 du 17 juillet 1978 pris pour l'application de la loi du 6 janvier 1978 ; Vu les projets de délibération du conseil d'administration du Centre hospitalier régional de Valenciennes ;
+
+Après avoir entendu Monsieur Gérard JAQUET en son rapport et Madame Charlotte-Marie PITRAT, Commissaire du Gouvernement en ses observations ; Considérant que le Centre hospitalier général de Valenciennes met en oeuvre une application dénommée CIRUS dont l'objet est la mise à disposition rapide des résultats d'analyses médicales dans les unités de soins. Considérant que les laboratoires d'analyses intéressés seront dotés de moyens informatiques connectés par le biais de l'application CIRUS à l'ordinateur du service informatique de l'hôpital relié à des terminaux associés à des imprimantes situées à des unités de soins ; Considérant que l'utilisation d'un réseau de type téléinformatique dédié, strictement interne à l'hôpital, est de nature à garantir l'intégrité des données transmises ;
+
+Considérant que cette configuration technique permet non seulement de consulter les résultats d'examens transmis mais également d'enrichir les fichiers des laboratoires, des renseignements administratifs concernant les malades hospitalisés, issus de l'application de gestion administrative ; Considérant que l'accès à ces applications est protégé par des procédures d'authentification et d'identification individuelles des utilisateurs ; Considérant qu'il importe également de rappeler aux personnels du centre hospitalier leurs obligations de secret, ainsi que la nécessité de respecter strictement les consignes de sécurité émises ; Considérant que le droit d'accès constitue l'une des garanties essentielles de la protection des malades ; qu'en conséquence, l'existence et les modalités d'exercice de ce droit, telles que prévues aux articles 34 et 40 de la loi du 6 janvier 1978, doivent être portées expressément à la connaissance de ces derniers ou de leurs représentants légaux ;
+
+Prenant acte des mesures d'information envisagées à cet effet ; Emet un avis favorable à la mise en oeuvre par le Centre hospitalier général de Valenciennes de l'application de gestion des laboratoires ; Décide que les centres hospitaliers qui adopteront cette application constituant un modèle type de traitement devront présenter à la Commission une demande d'avis allégée de référence, accompagnée d'un engagement de conformité y compris sur les dispositifs de sécurité et les mesures d'information des patients et d'un projet d'acte réglementaire. Le Président, Jacques FAUVET
