@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880600350
+
+- Question : [SEQ880600350](seq880600350.md) — Définition de la notion de catastrophe naturelle
+
+## Réponse
+
+*Économie, JO du 1988-09-29, page 1085*
+
+Réponse. - La loi n° 82-600 du 13 juillet 1982 relative à l'indemnisation des victimes de catastrophes naturelles est appelée à intervenir chaque fois qu'un sinistre a pour cause déterminante l'intensité anormale d'un agent naturel. Cette notion d'intensité " anormale " est certes difficile à saisir dans une définition car elle supposerait la prise en compte de nombreux paramètres qui, aussi complets soient-ils, ne permettront jamais de répondre à tous les cas d'espèce. Le législateur, conscient de cette difficulté, n'a pas voulu donner une définition plus précise à la notion de catastrophe naturelle, laissant au Gouvernement le soin d'interpréter et de qualifier les faits permettant l'application de ce nouveau régime d'indemnisation, par la reconnaissance au cas par cas au moyen d'arrêtés interministériels. Le recours à l'arrêté interministériel a donc été jugé comme le moyen le plus apte à résoudre chaque situation. Les ministres concernés peuvent ainsi apprécier si un phénomène climatique, compte tenu de son caractère inhabituel et intensif, est conforme à l'esprit du régime d'indemnisation institué par la loi précitée. En tout état de cause, le système d'indemnisation des catastrophes naturelles n'est pas destiné à couvrir les dommages résultant de simples phénomènes climatiques répétitifs et habituels qui sont pris en charge au titre de l'extension de garantie " tempête, grêle et poids de la neige sur les toitures ". Le régime d'indemnisation institué en 1982 paraît à ce jour donner satisfaction et n'a pas suscité de difficultés d'application. La formation d'une jurisprudence devrait permettre de préciser en tant que de besoin tel ou tel aspect du système, et le législateur lui-même avait, en son temps, envisagé cette éventualité.
