@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040511939
+
+- Question : [SEQ040511939](seq040511939.md) — Non-respect des emplacements de stationnement réservés aux personnes handicapées
+
+## Réponse
+
+*Intérieur, JO du 2004-07-01, page 1456*
+
+L'honorable parlementaire appelle l'attention du ministre de l'intérieur, de la sécurité intérieure et des libertés locales sur le manque de respect par certains automobilistes des places de stationnement réservées aux véhicules des personnes handicapées, il lui demande de lui indiquer les mesures qui pourraient être engagées pour faire respecter ces emplacements. En application de l'article L. 2213-2, 3° du code général des collectivités territoriales, les maires ont le pouvoir de réserver, sur la voie publique ou dans tout autre lieu de stationnement ouvert au public des emplacements de stationnement aménagés pour les véhicules des personnes titulaires d'un macaron " Grand invalide civil (GIC) ", " Grand invalide de guerre (GIG) " ou de la carte européenne de stationnement pour personne handicapée à mobilité réduite. En outre, l'article 36 de la loi du 12 juin 2003 renforce la lutte contre la violence routière et l'article R. 417-11 du code de la route sanctionne le non-respect de ces réservations comme stationnement gênant par l'amende prévue pour les contraventions de la 4e classe et, le cas échéant, par la mise en fourrière du véhicule en infraction. Ainsi les personnels habilités de la police nationale ou de la gendarmerie et les policiers municipaux sont-ils fondés à verbaliser et prendre les mesures de police nécessaires après avoir vérifié que ces emplacements réservés au stationnement des véhicules de personnes handicapées sont convenablement signalés. En ce qui les concerne, les services de la police nationale ont reçu des instructions en vue de prévenir et de réprimer, dans le cadre de leurs missions, l'occupation irrégulière par les autres usagers de ces emplacements.
