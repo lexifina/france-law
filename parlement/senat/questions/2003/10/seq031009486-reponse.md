@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031009486
+
+- Question : [SEQ031009486](seq031009486.md) — Déploiement géographique du réseau ACROPOL notamment dans la région Limousin
+
+## Réponse
+
+*Intérieur, JO du 2004-01-22, page 187*
+
+Le réseau radio-cellulaire numérique de la police nationale, Acropol (automatisation des communications radioélectriques opérationnelles de police), permettra de doter, d'ici fin 2006, les forces de police d'un moyen de transmission présentant des fonctionnalités accrues, la principale étant la confidentialité des messages. La planification départementalisée du déploiement obéit à des priorités telles que l'importance des circonscriptions chef-lieu de département et le taux de délinquance. Le réseau Acropol se déploie actuellement sur treize départements : Rhône, Isère, Haute-Savoie, Loire, Somme, Oise, Aisne, Haute-Corse, Corse du Sud, Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne et Paris. En 2003, Paris et les trois départements de la petite couronne ont été optimisés et réactualisés. L'ouverture opérationnelle du réseau Acropol est imminente sur les départements de l'Eure-et-Loir, de la Côte-d'Or et des Alpes-Maritimes et dans les villes de Bordeaux, Lille, Arras et Marseille. Le déploiement sur les départements de la Gironde, du Nord, du Pas-de-Calais et des Bouches-du-Rhône devrait être finalisé en 2004. Par ailleurs, en 2004, dix-sept autres départements sont planifiés dans le cadre d'une phase accélérée dont la mise en place est en cours : Bas-Rhin, Yvelines, Val-d'Oise, Essonne, Seine-et-Marne, Calvados, Territoire de Belfort, Yonne, Pyrénées-Atlantiques, Puy-de-Dôme, Haute-Garonne, Ain, Drôme, Var, Vaucluse, Pyrénées-Orientales, Doubs, Jura, Saône-et-Loire et Seine-Maritime. S'agissant particulièrement de la région Limousin, elle sera dotée de la couverture radio en 2006.
