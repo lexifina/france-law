@@ -1,0 +1,9 @@
+# Réponse à la question SEQ041215107
+
+- Question : [SEQ041215107](seq041215107.md) — Taxation du fioul domestique
+
+## Réponse
+
+*Économie, JO du 2005-02-10, page 390*
+
+Il convient tout d'abord de préciser que le fioul domestique ne se trouve pas dans une situation atypique en matière de taxation. En effet, l'article 265-3 du code des douanes national prévoit que tout hydrocarbure destiné à être utilisé comme combustible est assujetti à la taxe intérieure de consommation. Ce principe de taxation sera en outre étendu lors de la transposition de la directive 2003/96/CE " restructurant le cadre communautaire de taxation des produits énergétiques et de l'électricité " aux produits dits énergétiques. Par ailleurs, le niveau d'imposition de ce produit, taxé en France à hauteur de 5,66 euros/hl, se situe dans la moyenne des taux pratiqués par l'ensemble des Etats membres de l'Union européenne. Certes, en raison même de son niveau réduit de taxation, le fioul domestique s'est révélé plus sensible aux variations des cours du pétrole survenues en 2004 que d'autres produits pétroliers plus imposés et ayant bénéficié, de ce fait, de l'effet de l'amortisseur fiscal. Toutefois, alors même que les cours du pétrole sont actuellement orientés à la baisse et que la parité euro-dollar demeure favorable à la monnaie européenne, toute baisse de la fiscalité sur ce produit serait hautement préjudiciable pour l'équilibre des finances publiques. Une baisse du taux de la taxe intérieure sur les produits pétroliers sur le fioul domestique à usage combustible n'est donc pas possible, s'agissant d'un produit qui, en ce qu'il est destiné au chauffage des ménages, est d'ores et déjà sept fois moins taxé que son équivalent destiné à la carburation, le gazole, actuellement imposé au taux de 41,69 euros/hl.
