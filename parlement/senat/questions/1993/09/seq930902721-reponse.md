@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930902721
+
+- Question : [SEQ930902721](seq930902721.md) — Avenir des artistes musiciens
+
+## Réponse
+
+*Culture, JO du 1993-12-09, page 2355*
+
+Réponse. - Le 22 juin dernier, j'ai installé le conseil national des professions du spectacle auquel participent les organisations syndicales et professionnelles de salariés et d'employeurs des secteurs professionnels du spectacle vivant et enregistré. Le conseil, qui a été chargé par décret du 29 mars 1993 d'examiner et de suggérer les mesures propres à améliorer l'emploi culturel et les politiques de formation, s'est saisi des questions relatives à l'emploi des artistes confrontés à une concurrence étrangère de plus en plus présente. Cette question devrait faire l'objet d'une étude approfondie par un groupe de travail issu du conseil. Par ailleurs, conscient des difficultés d'emploi des salariés de ce secteur, je suis intervenu à plusieurs reprises auprès de Mme Notat, présidente de l'UNEDIC, pour que le régime spécifique d'assurance-chômage des intermittents applicable jusqu'au 30 juin 1993 soit prorogé. Les annexes 8 et 10, applicables aux intermittents du spectacle, ont depuis lors été prorogées deux fois, permettant ainsi aux partenaires sociaux d'entamer des négociations en vue de leur refonte. Je suis extrêmement attaché au maintien de ces règles spécifiques aux intermittents, en ce qu'elles tiennent compte des particularités de leurs métiers et de la nécessaire solidarité professionnelle. En outre, les professionnels viennent de constituer le 29 septembre 1993 la commission paritaire nationale emploi-formation du spectacle vivant ; celle-ci s'est donné pour objectif l'élaboration d'une politique d'ensemble et sectorielle en matière d'emploi-formation. Cette instance de réflexion permettra, sans nul doute, d'alimenter la réflexion en cours du ministère sur le sujet.
