@@ -1,0 +1,8 @@
+# Ville de Nancy : délibération VIII-1 — Attribution de subventions aux coopératives scolaires des écoles organisant des classes de découvertes en 2000
+
+- Collectivité : Ville de Nancy
+- SIREN : 215403957
+- Code INSEE : 54395
+- Date : 2000-02-07
+- Objet : Attribution de subventions aux coopératives scolaires des écoles organisant des classes de découvertes en 2000
+- Jeu de données : https://www.data.gouv.fr/datasets/5d96e6f38b4c410e2b3803a1
