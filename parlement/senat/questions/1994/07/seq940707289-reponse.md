@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940707289
+
+- Question : [SEQ940707289](seq940707289.md) — Suites réservées aux propositions du comité interministériel des villes
+
+## Réponse
+
+*Affaires sociales, JO du 1994-11-24, page 2773*
+
+Réponse. - Le Premier ministre a arrêté le 22 février 1994 les domaines dans lesquels les objectifs de la politique de la ville devraient être atteints et les instruments d'évaluation mis au point. Les moyens de mesurer ces objectifs ont été définis avec les administrations concernées. Sans entrer dans le détail de dispositions techniques, il peut être indiqué que : la mesure de l'écart de taux de chômage et de son évolution sera faite par retraitement des fichiers de l'ANPE, afin d'en extraire des statistiques liées à l'adresse ; les statistiques tenues par la police nationale et la gendarmerie seront complétées pour donner le niveau de délinquance dans les quartiers. Des données existent dans une dizaine de quartiers importants. On constate, dans certains d'entre eux, une baisse de la délinquance de proximité, qui concourt le plus au sentiment d'insécurité. Cette baisse est le résultat d'une action locale très complète de police et de prévention ; les travaux d'évaluation très importants menés par l'éducation nationale pour suivre le niveau des élèves pourront être retraités sans difficulté pour donner l'écart de connaissances à l'entrée en sixième pour les ZEP. Le rapprochement des périmètres des ZEP avec ceux des quartiers prioritaires permet d'utiliser ces indicateurs ; le ministère du logement tient à jour la liste des opérations HLM restant à réhabiliter. Son exploitation ne posera pas de problème ; le logiciel mis au point par le ministère de la fonction publique pour évaluer la présence et le niveau de service des services publics dans les quartiers sera à la base de l'indicateur de présence des services publics.
