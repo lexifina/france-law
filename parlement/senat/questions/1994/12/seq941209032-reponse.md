@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941209032
+
+- Question : [SEQ941209032](seq941209032.md) — Application du chèque-service dans les départements d'outre-mer
+
+## Réponse
+
+*Travail, JO du 1995-02-16, page 391*
+
+Réponse. - En réponse à l'honorable parlementaire, les éléments suivants peuvent être apportés à sa question relative à l'extension du chèque emploi-service aux départements d'outre-mer. Le décret du 11 novembre portant application de l'article 5 de la loi quinquennale no 93-1313 du 20 décembre 1993 prévoit que l'utilisation du chèque emploi-service sera limitée, pendant la phase d'expérimentation, soit jusqu'au 31 décembre 1995, au territoire métropolitain. Ce choix se justifie par une volonté de simplification des modalités de mise en oeuvre pendant la période d'expérimentation. Le montant du SMIC horaire étant différent dans les DOM de celui qui est en vigueur en métropole, l'utilisation du chèque emploi-service dans l'ensemble des départements français aurait nécessité la conception et l'application d'un système de contrôles et de vérifications que l'URSSAF de Saint-Etienne qui est chargée du traitement de volets sociaux des chèques emploi-service et des relations avec l'ensemble des organismes de sécurité sociale, n'aurait pu assurer dans les délais très brefs qui lui ont été impartis. Cependant, à l'issue de cette période d'expérimentation qui devrait permettre la mise au point définitive de ce nouveau dispositif, et en fonction des résultats de l'évaluation qui a déjà été engagée concernant celui-ci, la généralisation de l'utilisation du chèque emploi-service à l'ensemble du territoire pourra entrer en vigueur. Les résultats des travaux du comité d'évaluation du dispositif, mis en place par le ministère du travail, de l'emploi et de la formation professionnelle, seront communiqués, s'il le souhaite, à l'honorable parlementaire.
