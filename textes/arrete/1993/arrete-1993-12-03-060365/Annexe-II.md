@@ -89,3 +89,15 @@ Acides organiques
 13
 
 |
+
+Différentes formes de salatrim (triacylglycérides à chaîne courte et longue définis dans la décision du 1er décembre 2003 susvisée)
+
+|
+
+6
+
+|
+
+25
+
+|
