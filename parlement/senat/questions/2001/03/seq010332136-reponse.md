@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010332136
+
+- Question : [SEQ010332136](seq010332136.md) — Utilisation des comptes pivots dans les établissements pour adultes handicapés
+
+## Réponse
+
+*Justice, JO du 2001-09-06, page 2904*
+
+La garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que selon l'article 500 du code civil le gérant de tutelle perçoit les revenus de la personne protégée et les applique à l'entretien et au traitement de celle-ci. S'il y a un excédent, il le verse sur un compte ouvert chez un dépositaire agréé. Lorsque le gérant de tutelle relève du statut associatif et gère en conséquence de nombreuses mesures de tutelle, l'ouverture d'un compte unique peut être envisagée, à la condition que la comptabilité de l'association puisse permettre de connaître à tout moment et avec exactitude le montant en principal et intérêts revenant à chaque majeur protégé. En effet, les intérêts attachés aux fonds déposés appartiennent par voie d'accession au propriétaire du capital. Mais le rapport d'enquête des inspections générales des affaires sociales, des services judiciaires et des finances, rendu public en juillet 1998, a révélé des excès auxquels avait pu conduire cette pratique, dite du " compte pivot ", par certaines associations tutélaires en souligant les risques qu'elles encouraient. C'est à la suite de ce constat et parallèlement aux travaux menés par le groupe de travail interministériel sur le dispositif de protection des majeurs, présidé par Jean Favard, conseiller honoraire à la Cour de cassation, que les associations tutélaires affiliées à l'UNAF ont pris la dicision de mettre un terme à ce procédé. Dans ce contexte et en l'absence de toute base légale, le dispositif consistant à utiliser les fonds appartenant aux majeurs protégés pour des opérations de la nature de celles-ci visées par l'auteur de la question, fût-ce dans un intérêt collectif, ne saurait être admis.
