@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931204167
+
+- Question : [SEQ931204167](seq931204167.md) — Notion de responsabilité suite à des dégâts provoqués sur la voirie
+
+## Réponse
+
+*Intérieur, JO du 1994-07-14, page 1772*
+
+Réponse. - Les articles L. 116-1 à L. 116-8 et R. 116-1 et R. 116-2 du code de la voirie routière relatifs à la police de la conservation du domaine public routier disposent notamment que " ceux qui auront laissé écouler ou qui auront répandu ou jeté sur les voies publiques des substances susceptibles de nuire à la salubrité et à la sécurité publique ou d'incommoder le public ", peuvent être considérés comme pénalement responsables d'une infraction à la police de la conservation du domaine public objet de ces atteintes. Dans le cas exposé par l'honorable parlementaire, il serait concevable d'envisager que les responsables des dégâts, et notamment la commune, puissent être condamnés devant le juge pénal à une peine d'amende contraventionnelle et à la réparation de l'atteinte portée au domaine public routier départemental. Il convient toutefois d'ajouter que, en considération de la complexité de la distinction des parts respectives de responsabilité des différents auteurs présumés, en l'occurence les fonds privés des riverains et la commune cette dernière comme détentrice d'une voie relevant de son domaine privé le juge tient compte, de manière généralement restrictive, de ce qui est effectivement imputable au contrevenant par opposition à la part irrésistible du phénomène. Ainsi, dans l'hypothèse ou l'élément nature à l'origine des dommages serait constitutif d'un événement de force majeure, la commune notamment ne saurait voir sa responsabilité recherchée, cette dernière pouvant toutefois être engagée pour faute caractérisée dans l'exercice des pouvoirs de police s'il était démontré que les dégâts résultaient d'un ccarence de la commune à avoir pris des mesures préventives simples.
