@@ -146,6 +146,20 @@ Deuxième alinéa de l'article 26.
 
 |
 
+Décret n° 2004-490 du 3 juin 2004 relatif aux procédures administratives et financières en matière d’archéologie préventive
+
+1
+
+|
+
+Octroi et retrait de l’agrément pour les opérateurs d’archéologie préventive (arrêté conjoint du ministre chargé de la culture et du ministre chargé de la recherche).
+
+|
+
+Premier alinéa de l’article 75, troisième alinéa de l’article 77, premier alinéa de l’article 79.
+
+|
+
 2. Décisions administratives individuelles prises par le ministre chargé de la culture et de la communication
 
 Décret du 18 mars 1924 modifié portant règlement d'administration publique pour l'application de la loi du 31 décembre 1913 sur les monuments historiques
