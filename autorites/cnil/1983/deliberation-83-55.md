@@ -1,0 +1,21 @@
+# Délibération portant avis sur le modèle national "MNT-V3" d'automatisation des prestations familiales des caisses d'allocations familiales.
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 83-55
+- Date : 1983-11-15
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017654411
+
+La Commission Nationale de l'Informatique et des Libertés, Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, et notamment ses articles 1er, 15, 19, 27 et 48 ; Vu le décret n° 78-774 du 17 juillet 1978 pris pour l'application des chapitres I à IV et VII de la loi du 6 janvier 1978 ; Vu le Code de la famille ; Vu le Code de la Sécurité Sociale ; Vu l'ordonnance modifiée n° 67-706 du 21 août 1967 ; Vu sa délibération n° 83-11 du 18 janvier 1983 ; Vu le projet d'acte réglementaire soumis à la Commission ; Après avoir entendu M. Roland CADET en son rapport et M. le commissaire du Gouvernement en ses conclusions ;
+
+Considérant que le système informatique "MNT-V3" établi par la Caisse Nationale des Allocations Familiales avant l'entrée en vigueur de la loi du 6 janvier 1978 a fait l'objet, de la part de la Commission, d'une décision spéciale faisant application des dispositions de l'article 15 de la loi ; que la Caisse Nationale a, en conséquence, adressé à la Commission un projet d'acte réglementant le système informatique "MNT-V3". Considérant qu'il résulte des dispositions de ce projet d'acte réglementaire que sont collectées et enregistrées dans les fichiers des données nominatives portant notamment sur les ressources des ménages ; que ces informations sont utiles pour l'ouverture automatique des droits aux prestations soumises à condition de ressources, ainsi que pour la recherche de leurs bénéficiaires potentiels ;
+
+Considérant néanmoins que les assurés sociaux ne sont pas tenus de répondre aux questionnaires qui leur sont adressés en vue de la déclaration des ressources de leur ménage, s'ils estiment que celles-ci ne leur ouvrent pas droit à une allocation soumise à condition de ressources ; que ces questionnaires doivent par suite indiquer de façon précise et sans équivoque le caractère facultatif des réponses, et être accompagnés d'une notice explicative décrivant les différentes prestations soumises à condition de ressources, ainsi que le minimum requis pour l'octroi de chacune d'elles ; que les questionnaires actuellement en usage dans les Caisses doivent être modifiés pour tenir compte des observations qui précèdent, et que leur rédaction doit être soumise à l'approbation de la Commission ;
+
+Considérant, d'autre part, que compte tenu du caractère confidentiel des données nominatives recueillies, il est indispensable qu'interviennent des mesures de sécurité destinées à éviter toute divulgation de ces données ; que, de ce point de vue, la "Charte des sécurités" établie par la Caisse nationale ne doit pas se limiter à donner aux Caisses d'allocations familiales des orientations sans caractère contraignant ; que la Caisse nationale, usant des pouvoirs qu'elle tient de la loi du 31 juillet 1968, doit au contraire imposer à ces Caisses des mesures sévères garantissant le maintien du secret des informations, dont elle doit, en outre, veiller à la stricte application ;
+
+Considérant, enfin, que plusieurs des indications mentionnées dans le projet d'acte réglementaire ou dans les codes qui y sont joints doivent être modifiées ; que tels sont les cas des mentions concernant la nationalité et la situation familiale qui doivent être respectivement remplacées par celles de "Français, étranger, bénéficiaire d'une convention internationale" et de "seul ou en couple" ; que la mention du concubinage ne peut subsister que pour les bénéficiaires de l'allocation de logement ; que les mentions de "bigame" et de "détenu" doivent être supprimées ; Considérant que les Caisses d'allocations familiales qui n'observeraient pas les mesures prévues aux alinéas précédents sont tenues d'adresser à la Commission une demande d'avis dans les conditions prévues par l'article 15 de la loi du 6 janvier 1978 ;
+
+Emet un avis favorable au projet d'acte réglementaire qui lui est soumis, sous réserve qu'il soit tenu compte des observations qui précèdent.
