@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980105595
+
+- Question : [SEQ980105595](seq980105595.md) — Participation effective des collectivités accueillant les services délocalisés
+
+## Réponse
+
+*Fonction publique, JO du 1998-06-25, page 2086*
+
+Réponse. - Le ministre de la fonction publique, de la réforme de l'Etat et de la décentralisation, a tiré le plus grand profit du débat qui s'est tenu au Conseil économique et social le 23 septembre dernier et auquel se réfère la question posée par l'honorable parlementaire. Le CIADT qui s'est tenu le 15 décembre 1997 a renforcé les principes antérieurs en matière de délocalisations publiques tout particulièrement en matière de concertation. Cette concertation approfondie et constante implique tous les acteurs : les ministères, les organismes concernés, les personnels et leurs représentants, mais aussi les élus. Ce dialogue se concrétise au travers des conventions de localisation qui fixe les engagements respectifs de l'Etat et des collectivités locales. Ce dispositif contractuel précise notamment un niveau de participation financière adaptée aux ressources de la collectivité d'accueil. Il indique également les mesures que celle-ci a prévu de prendre pour l'insertion des agents et de leurs conjoints. Comme le souligne le rapport du Conseil économique et social, il apparaît normal que les collectivités locales participent aux opérations dont elles bénéficient. En effet, les délocalisations publiques contribuent à dynamiser la vie économique locale. D'une étude théorique de l'INSEE doublée d'une analyse portant sur trois cas, il ressort que l'activité marchande transférée est de l'ordre de 1 MF par emploi sur cinq ans et que pour trois emplois délocalisés, un à deux sont induits sur place, selon les opérations. En outre, l'image des agglomérations d'accueil est fortement valorisée par les transferts d'organismes. Ces éléments expliquent qu'il existe une forte demande des élus en la matière.
