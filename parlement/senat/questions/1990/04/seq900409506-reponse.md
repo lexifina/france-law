@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900409506
+
+- Question : [SEQ900409506](seq900409506.md) — Attitude de l'administration pénitentiaire en faveur des surveillants non grévistes
+
+## Réponse
+
+*Justice, JO du 1990-07-05, page 1490*
+
+Réponse. - Le garde des sceaux, ministre de la justice, a l'honneur de rappeler à l'honorable parlementaire qu'à l'occasion des derniers mouvements revendicatifs des personnels de l'administration pénitentiaire, le Gouvernement a seulement entendu mettre en oeuvre les dispositions du statut spécial. Si certains de ces agents ont cru malheureusement devoir ignorer les obligations qui leur sont imposées par la loi, notamment en refusant d'accomplir leur service, et se sont ainsi exposés à des sanctions, d'autres, au contraire, ont continué à exercer dans des conditions fort difficiles leurs fonctions. Dès lors, a-t-il paru équitable de mettre en oeuvre à leur égard les dispositions du statut spécial permettant de reconnaître le sens élevé du service public dont les agents font preuve. Ces mesures ne sauraient être interprétées comme dirigées contre les organisations syndicales et signifier la moindre hostilité à leur égard. La fréquence des réunions des instances de concertation dans lesquelles les organisations les plus représentatives siègent, la multiplicité des contacts informels qui se lient entre l'administration et l'ensemble des organisations sont là pour prouver que celles-ci, loin d'être ignorées, constituent au contraire l'interlocuteur légitime des pouvoirs publics. Il convient en conclusion d'ajouter qu'un démenti formel doit être opposé aux allégations mettant en cause la probité du jury lors des épreuves d'admission du dernier examen professionnel d'accès au grade de premier surveillant. Les vérifications opérées permettent bien évidemment d'affirmer que la sélection a été organisée sans considération de l'attitude des candidats pendant les mouvements.
