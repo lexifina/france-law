@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900811201
+
+- Question : [SEQ900811201](seq900811201.md) — Plafonnement des dépenses électorales et imputation des comptes rendus de mandat
+
+## Réponse
+
+*Intérieur, JO du 1990-09-27, page 2097*
+
+Réponse. - Les deux réponses ministérielles auxquelles se réfère l'auteur de la question n'ont rien de contradictoire car elles concernaient deux problèmes différents. La réponse à la question écrite n° 9676 posée le 3 mai 1990 portait sur l'imputabilité dans les comptes de campagne d'un candidat des dépenses afférentes à la diffusion d'un compte rendu de mandat. Elle a permis de préciser que " la diffusion par un élu d'une brochure retraçant ses activités en cours de mandat doit bien être considérée comme une action de campagne destinée à promouvoir sa candidature car, même dans le cas où elle ne contient pas d'appel explicite à voter en faveur de l'intéressé, il serait invraisemblable qu'elle présente ladite activité sous un jour défavorable ". Au contraire, la question écrite n° 25897 posée par M. Arthur Dehaine le 19 mars 1990 touchait au point de savoir si " le traditionnel bilan de mandat " tombait sous le coup de l'interdiction édictée par l'article L. 52-1 du code électoral, lequel prohibe, dans les six mois précédant une élection générale, toute campagne de promotion publicitaire des réalisations ou de la gestion d'une collectivité sur le territoire des collectivités intéressées par le scrutin. Il a été indiqué dans la réponse que la présentation d'un compte rendu de mandat ne pouvait être assimilée à une campagne de promotion publicitaire au sens de l'article L. 52-1 précité. Il s'agit donc là d'une action de campagne autorisée et c'est bien la raison pour laquelle la dépense correspondante doit être incluse dans le compte de campagne du candidat.
