@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030105158
+
+- Question : [SEQ030105158](seq030105158.md) — Constitution des droits à la retraite des élus aux CASDIS
+
+## Réponse
+
+*Intérieur, JO du 2003-08-07, page 2542*
+
+En application de l'article L. 2123-28 du code général des collectivités territoriales, les élus locaux percevant une indemnité de fonction sont affiliés au régime complémentaire de retraite institué au profit des agents non titulaires des collectivités publiques (IRCANTEC). Les élus locaux peuvent se trouver dans deux situations au regard de leur droit à constitution d'une pension de retraite : les élus ayant abandonné leur activité professionnelle pour se consacrer exclusivement à leur mandat électif sont affiliés à titre obligatoire, au terme des dispositions de l'article L. 2123-26 du code général des collectivités territoriales, à l'assurance vieillesse du régime général de la sécurité sociale ; les élus exerçant leur mandat électif conjointement à la poursuite d'une activité professionnelle peuvent constituer une retraite par rente leur permettant de compenser les éventuelles pertes de droit à retraite qu'ils peuvent subir du fait des baisses de salaires potentielles (art. L. 2123-27). Les diverses revalorisations des régimes indemnitaires des élus locaux, notamment des maires, en 2000, et des adjoints au maire, en 2002, ont des conséquences favorables sur les montants futurs des pensions de retraite des intéressés. S'agissant plus particulièrement des élus membres des conseils d'administration des services départementaux d'incendie et de secours (SDIS), la réglementation actuelle ne leur permet pas d'acquérir des droits à retraite à ce titre. Une réflexion est actuellement en cours en vue de l'extension prochaine des droits à retraite des élus locaux aux présidents et vice-présidents des SDIS, lesquels seraient alors affiliés à l'IRCANTEC.
