@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700273
+
+- Question : [SEQ020700273](seq020700273.md) — Désarroi du groupement régional des entreprises de réseaux secs souterrains de Bourgogne
+
+## Réponse
+
+*Économie, JO du 2002-09-26, page 2149*
+
+Gaz de France développe depuis plusieurs années un programme ambitieux d'investissements pour étendre la desserte en gaz à de nouvelles communes, répondre aux demandes des clients et améliorer la qualité et la sécurité des réseaux de distribution. Pour faire face à ses missions, répondre aux obligations de la réglementation européenne et aux exigences économiques, Gaz de France doit adapter sa politique d'achat et son organisation aux programmes d'investissements et à l'offre des entreprises. Cette adaptation nécessite une vision à la fois locale, régionale, voir nationale des besoins de travaux et des possibilités des entreprises. Elle se fait toujours en prenant en compte les compétences, la disponibilité et la qualité des entreprises. Les représentants locaux de Gaz de France restent ainsi les interlocuteurs des entreprises dans la définition, la réalisation et la réception des travaux. Pour certains types de travaux pour lesquels la proximité et la rapidité d'intervention sont primordiales, une demande soutenue auprès des entreprises locales et régionales est en effet privilégiée. Pour d'autres, en revanche, Gaz de France est amené à élargir les consultations aux entreprises communautaires, dans le respect de la réglementation européenne qui exige le plus souvent une prise en compte globale des besoins. Dans le cas spécifique du Groupement régional des entreprises de réseaux secs souterrains (GRERS) de Bourgogne, cette proximité a joué favorablement. Le volume de travaux confié par EDF-GDF Services sur la région représente 18 millions d'euros pour l'année 2000 et 22 millions d'euros pour l'année 2001. La compétitivité du GRERS semble ainsi suffisante pour accroître sa part de marché.
