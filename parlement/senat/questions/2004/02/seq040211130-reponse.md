@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040211130
+
+- Question : [SEQ040211130](seq040211130.md) — Généralisation du système Traqueur
+
+## Réponse
+
+*Intérieur, JO du 2004-05-27, page 1133*
+
+La loi d'orientation et de programmation pour la sécurité intérieure, du 29 août 2002, pose le principe de la mise en place de dispositifs permettant la localisation des véhicules volés, dans les meilleurs délais, en partenariat avec les constructeurs, les compagnies d'assurances ou les opérateurs conventionnés. Deux expérimentations, dont l'une avec la société citée par l'honorable parlementaire, sont actuellement en cours, dans un cadre contractuel avec le ministère de l'intérieur, de la sécurité intérieure et des libertés locales. D'autres dispositifs électroniques, permettant la localisation, basés sur des technologies autres que celle utilisée par cette société sont également proposés sur le marché pour assurer la protection des automobiles, du fret (protection du véhicule et/ou des marchandises transportées) ou de divers types de biens mobiliers : billets de banque, objets précieux, mallettes de représentants en bijouterie, produits hi-fi. C'est donc, à terme, un nombre important de biens mobiliers, et notamment d'automobiles qui seront amenés à être protégés par des dispositifs de natures diverses ressortant du principe de radiolocalisation et qui, pour certains, ont démontré leur pleine efficacité. Seuls, les assureurs sont libres de proposer les tarifs de couverture des risques à leurs clients pouvant le cas échéant prendre en compte les divers dispositifs faisant appel à des techniques de radio localisation dans la négociation de tarif avec leur assurés, comme cela a été déjà fait avec certains autres dispositifs de sécurité. Le Gouvernement n'envisage pas à l'heure actuelle d'accompagner les préconisations actuelles formulées par la loi sur la sécurité intérieure du 29 août 2002 d'incitation financière.
