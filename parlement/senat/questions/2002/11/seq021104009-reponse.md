@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021104009
+
+- Question : [SEQ021104009](seq021104009.md) — Développement de l'imagerie médicale
+
+## Réponse
+
+*Santé, JO du 2003-04-24, page 1426*
+
+Le retard important de la France concernant le taux d'équipement en appareils d'imagerie médicale dans notre pays est un exemple frappant des effets d'une excessive rigidité de la planification sanitaire. C'est pourquoi, dans le cadre du plan Hôpital 2007, la suppression du verrou de la carte sanitaire et des indices de besoins au profit d'un encadrement reposant sur un schéma régional d'organisation sanitaire rénové sera effective avant la fin de l'année 2003. Il importe également d'encourager les formules de coopération qui favorisent le décloisonnement entre établissements de santé publics et privés et les professionnels libéraux ainsi qu'une meilleure utilisation commune des moyens, en particulier humains. Les agences régionales de l'hospitalisation, désormais compétentes pour toutes les autorisations en matière d'imagerie médicale, s'emploient actuellement à la mise en oeuvre de ces mesures, dans un esprit de concertation avec les représentants de la profession rassemblés au sein des comités régionaux de l'imagerie. Concernant plus particulièrement la technique de l'imagerie à positons (PET-Scan), c'est un groupe de travail composé de professionnel, qui a proposé de porter le nombre d'équipements à 60 appareils pour la France. Actuellement, 51 sont autorisés, dont 11 sont déjà opérationnels, le délai moyen de mise en fonctionnement étant d'environ deux ans. Tout cela permet d'affirmer que la France se situera donc dans les prochains mois au même niveau d'équipement que la plupart des autres pays européens et que les délais d'attente pour les examens d'imagerie médicale constatés actuellement seront très sensiblement diminués.
