@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960515515
+
+- Question : [SEQ960515515](seq960515515.md) — Situation des centres techniques régionaux de la consommation
+
+## Réponse
+
+*Économie, JO du 1996-08-29, page 2217*
+
+Réponse. - L'effort général de maîtrise des dépenses publiques a contraint le Gouvernement à opérer une réduction du budget d'aide au mouvement consommateur de 4,5 p. 100 en 1995 ; cette réduction, il convient de le souligner, reste inférieure aux régulations budgétaires appliquées à d'autres secteurs. Dans le même temps, les dotations des CTRC ont été réduites de 3,4 p 100. Les crédits affectés à ces organismes pour le fonctionnement et la réalisation des émissions télévisées se sont élevés à 20 millions de francs, soit 39 p. 100 des subventions aux associations de consommateurs (38 p. 100 en 1994). Dans un contexte budgétaire tendu les pouvoirs publics, conscients du rôle joué par les CTRC dans le soutien du mouvement consommateur local, se sont donc efforcés de maintenir le niveau de financement de ces structures. En outre, dans le prolongement des directives du premier ministre, l'allocation des subventions aux CTRC s'effectue sur la base d'une étude approfondie permettant d'attribuer les financements publics aux structures les plus actives dans leurs missions d'appui technique aux associations. Ainsi, le renforcement des échanges entre l'Institut national de la consommation et les CTRC, que les pouvoirs publics ont voulu promouvoir, devrait permettre à ces centres de mieux faire face à leurs missions. Enfin, dans le cadre des réformes engagées par le premier ministre en faveur du mouvement associatif, chaque ministère pourra accorder dès 1997 aux associations des financements pluriannuels d'une durée de trois ans sur la base de conventions d'objectifs, dans les secteurs priotaires qu'il fixera. La circulaire relative aux modalités d'application de ce dispositif a été publiée au Journal officiel du 12 juin 1996.
