@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870204454
+
+- Question : [SEQ870204454](seq870204454.md) — Fonctionnement de la médecine scolaire
+
+## Réponse
+
+*Santé et famille, JO du 1988-03-24, page 413*
+
+Réponse. -La situation statutaire des médecins de santé scolaire a fait l'objet d'un examen approfondi dans le cadre de la préparation d'un projet de statut tendant à réunir dans un même corps les différentes catégories de médecins intervenant en santé publique ; celui-ci n'ayant pu aboutir, de nouvelles réflexions doivent être engagées pour chacune d'entre elles. Actuellement, en l'absence d'un corps de fonctionnaires susceptibles d'assurer ces fonctions, des médecins contractuels de santé scolaire sont recrutés, dans la limite des emplois disponibles, conformément aux dispositions de l'article 4 de la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique de l'Etat. Par ailleurs, le problème de la titularisation des médecins de santé scolaire ne peut être dissocié du problème, plus général, que pose celle des agents non titulaires de l'Etat ayant vocation à être intégrés, au titre des dispositions transitoires de la loi du 11 janvier 1984, dans des corps de fonctionnaires des catégories A et B. Il s'agit d'un dossier à tous égards encore plus complexe que celui, maintenant pratiquement réglé, de la titularisation des agents du niveau des catégories C et D. Aussi le Gouvernement s'est-il accordé un délai de réflexion pour en étudier toutes les données, juridiques et budgétaires notamment. En outre, seuls peuvent se prévaloir de ces dispositions les agents non titulaires qui occupent un emploi permanent à temps complet. Tel n'est pas notamment le cas des médecins vacataires de santé scolaire recrutés pour effectuer un service inférieur à 150 heures mensuelles.
