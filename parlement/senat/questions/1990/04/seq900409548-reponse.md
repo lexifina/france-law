@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900409548
+
+- Question : [SEQ900409548](seq900409548.md) — Déclin de l'enseignement du russe dans le département du Gard
+
+## Réponse
+
+*Éducation, JO du 1990-09-20, page 2050*
+
+Réponse. - Le développement de l'enseignement des langues vivantes constitue une priorité dans le système éducatif français. Cet enseignement repose sur deux principes : pluralisme des langues offertes au travers d'un éventail de quatorze langues au lycée, dont le russe, et libre choix des familles. En ce qui concerne l'enseignement du russe et des autres langues de l'Europe de l'Est, la situation dans les lycées est la suivante : le russe peut être étudié en première, seconde, troisième langue vivante étrangère suivant les séries. Il peut faire l'objet d'une épreuve obligatoire ou facultative au baccalauréat. Les programmes de russe, comme ceux des autres langues vivantes, ont été rénovés à la rentrée scolaire 1987, en classe de seconde, en 1988 en classe de première et en 1989 en classe de terminale. L'objectif poursuivi en matière de programme est triple : communicationnel, culturel et linguistique. Pour la présente année scolaire, 2 302 élèves pratiquent le russe comme première langue (diminution de 3,2 p. 100 par rapport aux effectifs de l'année dernière), 5 407 comme seconde langue (augmentation de 12,6 p. 100 par rapport aux effectifs de l'année dernière), 13 307 en troisième langue (augmentation de 25,8 p. 100 par rapport aux effectifs de l'année dernière). Le russe se classe ainsi au 5e rang des langues étudiées derrière l'anglais, l'espagnol, l'allemand et l'italien mais au premier rang des langues extérieures à la communauté européenne. Dans le cadre de la déconcentration, il appartient au recteur de l'académie de Montpellier d'apprécier l'opportunité de modifier le dispositif d'enseignement du russe, compte tenu des priorités académiques, des moyens disponibles et des besoins d'enseignement.
