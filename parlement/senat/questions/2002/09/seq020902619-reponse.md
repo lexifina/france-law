@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020902619
+
+- Question : [SEQ020902619](seq020902619.md) — Baisse du nombre de médecins dans les zones rurales
+
+## Réponse
+
+*Santé, JO du 2002-10-31, page 2566*
+
+La démographie des médecins constitue une des préoccupations prioritaires du Gouvernement. La réduction sensible des effectifs des professionnels de santé, prévue dès l'horizon 2005, rend indispensable le développement d'une véritable politique démographique qui réponde aux enjeux de notre époque. C'est dans ce sens que la mission " Démographie des professions de santé ", que le ministre de la santé, de la famille et des personnes handicapées vient de mettre en place sous la présidence du professeur Berland, devra formuler des propositions opérationnelles dès novembre prochain. Parmi celles-ci, les conditions d'installation et d'exercice des professionnels de santé en milieu rural auront fait l'objet d'une analyse particulièrement minutieuse. En effet, l'accès aux médecins, que ceux-ci exercent en milieu rural ou urbain, en cabinet libéral ou au sein des établissements de santé publics ou privés, doit être garanti à la population dans des conditions satisfaisantes.
