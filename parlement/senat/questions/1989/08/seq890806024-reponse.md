@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890806024
+
+- Question : [SEQ890806024](seq890806024.md) — Application de la loi relative à la protection des personnes dans la recherche biomédicale
+
+## Réponse
+
+*Solidarité, JO du 1989-11-23, page 1958*
+
+Réponse. - La loi n° 88-1138 du 20 décembre 1988 a édicté un ensemble de règles nouvelles protégeant les personnes qui se prêtent aux recherches biomédicales. Parmi ces dispositions nouvelles, certaines connaissent une application immédiate depuis la promulgation de la loi. Ce sont les conditions générales que doivent satisfaire toutes les recherches biomédicales : utilité, connaissances scientifiques préalables suffisantes, risque acceptable par rapport au bénéfice escompté, direction et surveillance par un médecin justifiant d'une expérience appropriée. Il en est de même des mesures rendant obligatoires l'information des personnes et le recueil de leur consentement selon les formes prévues, ainsi que des dispositions particulières protégeant certaines personnes vulnérables, tels les femmes enceintes, les mineurs et les majeurs sous tutelle. Par ailleurs, l'article 6 de la loi prévoit pour d'autres dispositions la nécessité de fixer les modalités d'application par des décrets en Conseil d'Etat. Dans le souci d'apporter une meilleure sécurité et protection aux personnes concernées, quatre projets de décrets sont actuellement présentés à différentes instances spécialisées, notamment le Comité consultatif national d'éthique pour les sciences de la vie et de la santé, les académies nationales de médecine et de pharmacie, les instances universitaires, ordinales, hospitalières, l'industrie de la pharmacie, du médicament et des technologies biomédicales. Il sera donc très prochainement possible de soumettre ces projets au Conseil d'Etat et de les publier.
