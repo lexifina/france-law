@@ -1,0 +1,8 @@
+# Ville de Nancy : délibération II-2 — Approbation du projet de programme local de l'habitat (P.L.H.) proposé par le district de l'agglomération nancéienne.
+
+- Collectivité : Ville de Nancy
+- SIREN : 215403957
+- Code INSEE : 54395
+- Date : 1994-06-13
+- Objet : Approbation du projet de programme local de l'habitat (P.L.H.) proposé par le district de l'agglomération nancéienne.
+- Jeu de données : https://www.data.gouv.fr/datasets/5d96e6f38b4c410e2b3803a1
