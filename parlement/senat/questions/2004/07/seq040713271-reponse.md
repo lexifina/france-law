@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040713271
+
+- Question : [SEQ040713271](seq040713271.md) — Situation de l'Orchestre national de chambre de Toulouse
+
+## Réponse
+
+*Culture, JO du 2004-09-30, page 2215*
+
+Créé en 1953, l'Orchestre de chambre national de Toulouse a réalisé en effet pendant près de cinquante ans, en dépit de son effectif réduit de onze musiciens permanents, un remarquable travail de diffusion musicale auprès d'un large public. Dès 1995, toutefois, il a rencontré de très importantes difficultés financières qui ont rendu nécessaires des interventions complémentaires successives des pouvoirs publics, Etat et collectivités territoriales, tous également attachés à préserver les capacités de développement de cette formation originale. Malgré ces efforts, notamment ceux de l'année 2001, qui ont conduit à apurer un déficit de 343 000 euros, il n'a pas été possible de créer les conditions d'un retour à l'équilibre, l'expertise du tribunal de grande instance de Toulouse, effectuée dans le cadre de la procédure de redressement judiciaire, ayant démontré que les abondements financiers consentis par les partenaires publics ne permettaient pas de corriger le fonctionnement structurellement déficitaire de cette formation. Devenue inévitable, la liquidation de l'association support de l'Orchestre de chambre national de Toulouse ouvre une nouvelle phase de réflexion sur les différentes hypothèses qui permettraient de traiter les questions sociales et artistiques posées par cette situation. Le dialogue avec les collectivités territoriales devrait notamment conduire à étudier les conditions d'une redéfinition des missions jusqu'alors confiées à l'Orchestre de chambre national de Toulouse en lien avec celles assumées par les autres formations musicales agissant en région Midi-Pyrénées.
