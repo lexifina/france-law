@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010532850
+
+- Question : [SEQ010532850](seq010532850.md) — Suppression d'enseignants dans l'académie de Lille
+
+## Réponse
+
+*Éducation, JO du 2001-07-26, page 2456*
+
+Les décisions prises au plan national en ce qui concerne les moyens d'enseignement et d'encadrement pédagogique reposent sur une méthode rénovée qui fait l'objet d'une harmonisation entre le premier degré et le second degré. L'équité de répartition est assurée en pondérant la démographie scolaire par des critères sociaux, territoriaux et structurels, mesurés par des indicateurs, objectifs et reconnus, établis par l'INSEE. Les dotations ainsi définies et notifiées globalement permettent la mise en oeuvre de la politique nationale dans chaque académie. L'académie de Lille bénéficie pour le second degré, malgré l'importante baisse démographique de près de 5 000 élèves prévue à la rentrée 2001, de l'attribution de 15 équivalents-temps plein, incluant le coût des réformes pédagogiques et statutaires. Pour le premier degré, les mesures d'ajustement prises permettront d'améliorer le taux d'encadrement global. En particulier, on constate que celui de l'académie de Lille s'est constamment amélioré de 1997 à la rentrée 2000 passant de 5,17 postes pour cent élèves à 5,30. Ce taux devrait encore progresser et atteindre 5,1 à la rentrée 2001, alors même que la perte démographique est estimée à 3 000 élèves. Les recteurs et les inspecteurs d'académie, directeurs des services départementaux de l'éducation nationale, associés à la préparation de la rentrée scolaire selon leur niveau de responsabilité, déterminent alors l'affectation des moyens aux établissements et aux diverses structures scolaires d'appui à l'enseignement relevant de leur compétences respectives. C'est en se référant à des données objectives et après consultation des instances de concertation que les mesures prises au titre de la " carte scolaire " 2001 ont été examinées par les autorités.
