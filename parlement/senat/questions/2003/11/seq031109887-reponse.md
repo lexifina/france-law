@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031109887
+
+- Question : [SEQ031109887](seq031109887.md) — Situation du Lucernaire Centre national d'art et d'essai, à Paris 6e
+
+## Réponse
+
+*Culture, JO du 2004-01-22, page 167*
+
+L'honorable parlementaire a raison de rappeler que, depuis 1982, ce lieu est soutenu par l'Etat par une subvention de fonctionnement supérieure à celles accordées à la majorité des scènes nationales qui sont eux des théâtres publics. La qualité du projet artistique de son propriétaire justifiait cette décision. Depuis 1982, Paris a vu naître d'autres lieux, soutenus par l'Etat, et dont les projets rayonnent aujourd'hui plus largement. Le propriétaire a fait part au ministère de la culture et de la communication fin 2001 de son intention de vendre Le Lucernaire. Le ministère a souhaité à l'époque que cette vente se réalise dans les meilleures conditions. Il a ainsi maintenu l'intégralité de sa subvention en 2002. Le ministère a décidé de reconduire cette subvention jusqu'en juin 2003, la vente n'étant pas réalisée fin 2002. Pour permettre au propriétaire de transmettre ce lieu dans des conditions qui respectent sa vocation culturelle, le ministère de la culture et de la communication et la Ville de Paris ont décidé de lui adresser en 2004 une subvention d'un montant global maximal de 300 000 euros (soit 150 000 euros chacun), mais dont le montant définitif dépendra de la date de vente. Ce dispositif a reçu l'accord du propriétaire. Cette aide revêt un caractère tout à fait exceptionnel. Concernant l'avenir, tout dépend de la nature et de la qualité du projet artistique, de la personnalité culturelle et artistique de son porteur, de son rayonnement dans le milieu professionnel, de sa complémentarité ou non avec les autres lieux artistiques de Paris. Le ministère de la culture et de la communication arrêtera sa position compte tenu de ces différents paramètres.
