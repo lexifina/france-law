@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971204795
+
+- Question : [SEQ971204795](seq971204795.md) — Restriction de l'accès au prêt à taux zéro
+
+## Réponse
+
+*Outre-mer, JO du 1998-02-19, page 601*
+
+Réponse. - Le décret no 97-1000 du 30 octobre 1997 a modifié les dispositions du décret no 95-1064 du 29 septembre 1995 modifiant le code de la construction et de l'habitation et portant création d'une aide de l'Etat à l'accession à la propriété pour l'acquisition d'une résidence principale plus communément appelée prêt à taux zéro. Les dispositions de ce décret entrent dans le cadre des mesures d'économie décidées par le Gouvernement dans le cadre du projet de loi de finances pour 1998. Elles concernent la métropole et l'outre-mer. L'article 1 du décret en cause dispose que désormais le prêt à taux zéro est réservé aux primo-accédants. Mais la notion de primo-accédants a été élargie à toutes les personnes n'ayant pas été propriétaire de leur résidence principale au cours des deux années précédant l'offre du prêt. Les dispositions de ce décret qui s'applique dans les DOM comme en métropole ne posent pas de difficultés particulières dans les DOM où les primo-accédants constituent la quasi-totalité des acquéreurs bénéficiant d'un prêt à 0 %. En revanche, il est fait remarquer à l'honorable parlementaire que l'arrêté du 30 octobre 1997 relatif aux conditions d'octroi de l'avance aidée par l'Etat pour l'acquisition d'une résidence principale en accession à la propriété en ce qu'il réduit les durées de différé de remboursement accordées aux bénéficiaires d'un prêt à taux zéro, n'est pas applicable dans les DOM. C'est donc l'arrêté du 29 avril 1997 qui continue à s'appliquer dans ces départements. Il a paru judicieux de ne pas réduire les durées de différé dans le contexte domien où le prêt à 0 % vient d'être introduit.
