@@ -1,0 +1,15 @@
+# Délibération portant avis relatif au traitement automatisé de la gestion des services civils du greffe des cours d'appel
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 87-08
+- Date : 1987-01-20
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017654826
+
+La Commission Nationale de l'Informatique et des Libertés, Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés ; Vu le nouveau Code de procédure civile ; Vu le décret n° 78-774 du 17 juillet 1978 pris pour l'application des chapitres 1er à IV et VII de la loi du 6 janvier 1978 susvisée ; Vu le décret n° 86-835 du 10 juillet 1986 relatif aux modalités d'utilisation du numéro d'inscription au répertoire national d'identification des personnes physiques dans les traitements automatisés concernant le Ministère de la Justice ; Après avoir entendu Monsieur Michel MONEGIER DU SORBIER en son rapport et Madame Charlotte-Marie PITRAT, Commissaire du Gouvernement, en ses observations ;
+
+Considérant que les traitements automatisés destinés à être mis en oeuvre dans les services des greffes des cours d'appel ont pour objet d'assurer les fonctions du répertoire général, l'édition des pièces de procédure, la gestion de la mise en état, la gestion des expertises, la gestion de l'aide judiciaire, l'édition des arrêts, la délivrance des certificats de non-appel et la production de statistiques ; Considérant que les informations nominatives enregistrées concernant les parties et leurs représentants à l'instance, les magistrats et greffiers, les experts éventuellement désignés, sont pertinentes au regard de la finalité du traitement ; Considérant que le numéro de sécurité sociale des personnes physiques ne pourra être enregistré que dans les hypothèses autorisées par le décret n° 86-835 du 10 juillet 1986 susvisé pris après avis de la Commission, et ne pourra en aucun cas servir d'identifiant ; Considérant que sont destinataires des données, les magistrats et les fonctionnaires du greffe ; qu'une liaison quotidienne entre le greffe civil et la chambre des avoués près de chaque cour d'appel mettant en oeuvre le traitement est également prévue ; qu'à cet égard, il appartient aux premiers présidents des cours d'appel et aux présidents des chambres des avoués concernées de prendre, conformément aux dispositions de l'article 29 de la loi du 6 janvier 1978 susvisée, toutes précautions utiles afin de préserver la sécurité et de garantir la confidentialité des données traitées ; Considérant que l'existence du traitement sera portée à la connaissance des intéressés par des affiches apposées dans tous les locaux du greffe accessibles au public ; qu'il en sera de même du droit d'accès prévu par les articles 34 et suivants de la loi du 6 janvier 1978 qui s'exercera auprès du premier président de la Cour d'appel ; Considérant que les modalités techniques d'accès aux informations paraissent de nature à éviter tout accès par des personnes non habilitées ;
+
+Emet un avis favorable au projet d'arrêté qui lui a été soumis. Le Président : Jacques FAUVET
