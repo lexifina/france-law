@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881102211
+
+- Question : [SEQ881102211](seq881102211.md) — Aide à l'agriculture en RFA
+
+## Réponse
+
+*Agriculture, JO du 1990-03-15, page 565*
+
+Réponse. - Le Traité de Rome interdit le maintien ou la mise en place d'aides d'Etat susceptibles de créer des distorsions de concurrence et d'affecter les échanges entre les Etats membres. La mise en oeuvre de cette prohibition de principe des aides publiques au vu de leur effet économique repose principalement sur l'action de la Commission des communautés européennes dans la mesure où les dispositions communautaires sur les aides n'ont pas d'effet direct dans l'ordre juridique interne des Etats membres. Il n'en reste pas moins que les dépenses nationales et régionales des Etats membres en faveur de leur agriculture restent très élevées et que leur accumulation peut effectivement provoquer de réelles distorsions dans les échanges. C'est pourquoi tous les Etats membres doivent fournir à la Commission, depuis 1975, un relevé exhaustif des aides en agriculture existant sur leur territoire. Les données actuelles, collectées par cette institution, ne permettent cependant pas de mesurer avec précision le niveau de soutien financier accordé au secteur agricole. Une harmonisation du recensement, secteur par secteur, des aides nationales et locales existantes est en cours de réalisation et sera communiquée, dès son achèvement, à chacun des Etats membres. Sur la base de ces données indiscutables, le Gouvernement français pourra alors connaître l'effort financier réalisé par la République fédérale d'Allemagne dans le secteur agricole et pourra présenter ses observations aux institutions communautaires, comme le prévoit le Traité C.E.E., si la comparaison avec ses propres aides révèle un soutien préjudiciable à nos intérêts.
