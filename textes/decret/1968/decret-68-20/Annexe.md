@@ -836,7 +836,7 @@ Ouvriers d'état de 3e catégorie. |
 
 Ouvriers d'état de 3e catégorie. |
 
-Ministère des transports.
+Ministère de l'équipement et de l'aménagement du territoire.
 
 |
 
@@ -848,11 +848,11 @@ aérienne.
 
 |
 
-Techniciens de la navigation aérienne.
+Techniciens de l'aviation civile.
 
 |
 
-Techniciens de la navigation aérienne. |
+Techniciens de l'aviation civile. |
 
 Agents de la navigation aérienne.
 
