@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901012212
+
+- Question : [SEQ901012212](seq901012212.md) — Qualification des artisans du taxi
+
+## Réponse
+
+*Commerce et artisanat, JO du 1990-11-29, page 2529*
+
+Réponse. - Le ministère du commerce et de l'artisanat mène une politique active en faveur de l'artisanat du taxi, visant à revaloriser les conditions d'exercice de la profession prévues par le décret du 2 mars 1973, en améliorant la qualification des chauffeurs et le service rendu aux usagers. A cet effet, le ministère du commerce et de l'artisanat vient d'ouvrir une table ronde avec la participation des ministères concernés et des organisations représentatives de la profession. Une étude menée par l'Observatoire des qualifications servira de base de travail et de discussion afin de proposer la mise en place d'un parcours de formation à la profession de chauffeur de taxi. Le ministère étudie également en liaison avec le ministère de l'intérieur la création d'un certificat national de capacité de chauffeur de taxi. Ce diplôme permettrait d'harmoniser les différentes réglementations locales en imposant les mêmes conditions d'accès à la profession à tous les candidats. Pour ce qui est de la formation continue, les fonds d'assurance formation (F.A.F.) permettent à de nombreux chefs d'entreprise de taxi de suivre, de façon efficace, des stages de durée généralement courte, afin de perfectionner leur technique professionnelle et d'assurer dans les meilleures conditions la conduite et le développement de leur entreprise (cours de gestion, de mécanique, d'anglais, de tourisme et d'information sur les charges sociales des entreprises de taxi). Le F.A.F. transport dispose de plusieurs centres de formation répartis sur l'ensemble du territoire. Ces centres sont ouverts à tous les chefs d'entreprise de taxi immatriculés au répertoire des métiers.
