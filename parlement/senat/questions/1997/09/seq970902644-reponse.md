@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970902644
+
+- Question : [SEQ970902644](seq970902644.md) — Présence d'un magistrat parmi le personnel enseignant des écoles de commissaires de police et d'officiers de gendarmerie
+
+## Réponse
+
+*Justice, JO du 1998-05-14, page 1560*
+
+Réponse. - Le garde des sceaux, ministre de la justice, rappelle à l'honorable parlementaire que la commission présidée par le premier président de la Cour de cassation avait reçu directement du Président de la République une mission de réflexion et de proposition sur la justice, qui s'articulait autour de deux thèmes majeurs : d'une part, la question de l'organisation et des moyens pouvant assurer un meilleur respect de la présomption d'innocence, d'autre part, la question de l'indépendance de la justice à l'égard du pouvoir politique. Les conclusions du rapport de la commission, rédigées sous la seule responsabilité de celle-ci, ont été portées à la connaissance du ministère de la justice en juillet 1997. Une communication relative à la réforme de la justice a été présentée par le garde des sceaux au conseil des ministres du 29 octobre 1997. Un débat parlementaire a eu lieu sur ce sujet les 15 et 22 janvier 1998. S'agissant de la proposition consistant à placer un magistrat parmi le personnel enseignant des écoles de commissaires de police et d'officiers de gendarmerie, il convient de rappeler que depuis plusieurs années les magistrats de l'ordre judiciaire, comme ceux de l'ordre administratif, interviennent régulièrement à la demande des directions des différentes écoles, pour assurer des cours et des conférences, dans le cadre des cycles d'enseignement organisés, d'une part, par l'Ecole nationale supérieure de la police de Saint-Cyr-au-Mont-d'Or, qui assure la formation initiale et continue des commissaires de police, et, d'autre part, par l'école des officiers de la gendarmerie nationale de Melun, qui assure la formation des officiers de gendarmerie.
