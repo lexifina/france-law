@@ -1,16 +1,18 @@
 # Article ANNEXE 8
 
+Taux des vacations des attachés des établissements hospitaliers publics (montant au 1er octobre 1988) :
+
 A. - Taux des vacations des attachés des établissements publics autres que les centres hospitaliers régionaux faisant partie de centres hospitaliers et universitaires établis sur la base de la demi-journée de trois heures trente, en fonction des titres dont ces personnels justifient au moment de leur nomination :
 
-1. Taux 256,65 pour :
+1. Taux 257,61 :
 
 - anciens chefs de clinique de faculté ou école nationale de médecine (ancien régime) ;
 
-- anciens assistants d'un hôpital de ville, siège de faculté ou école nationale de médecine (ancien régime) ;
+- anciens assistants d'un hôpital de ville siège de faculté ou école nationale de médecine (ancien régime) ;
 
-- anciens chefs de clinique ou anciens assistants des universités - assistants des hôpitaux (nouveau régime) ;
+- anciens chefs de clinique ou anciens assistants des universités-assistants des hôpitaux (nouveau régime) ;
 
-- anciens praticiens hospitaliers universitaires ;
+- anciens praticiens hospitaliers-universitaires ;
 
 - anciens assistants hospitalo-universitaires ;
 
@@ -18,7 +20,7 @@ A. - Taux des vacations des attachés des établissements publics autres que les
 
 - médecins étrangers ressortissants d'un Etat membre de la Communauté économique européenne pouvant justifier d'une qualification reconnue équivalente.
 
-2. Taux 218,04 pour :
+2. Taux 219 :
 
 - anciens internes des hôpitaux publics ;
 
@@ -30,21 +32,19 @@ A. - Taux des vacations des attachés des établissements publics autres que les
 
 - médecins étrangers ressortissants d'un Etat membre de la Communauté économique européenne pouvant justifier d'une qualification reconnue équivalente.
 
-3. Taux 192,55 pour :
-
-Toutes autres catégories.
+3. Taux 193,51 : toutes autres catégories.
 
 B. - Taux des vacations des attachés des centres hospitaliers régionaux faisant partie de centres hospitaliers et universitaires établis sur la base de la demi-journée de trois heures trente, en fonction des titres dont ces personnels justifient au moment de leur nomination :
 
-1. Taux 309,15 pour :
+1. Taux 310,11 :
 
 - anciens chefs de clinique de faculté ou école nationale de médecine (ancien régime) ;
 
-- anciens assistants d'un hôpital de ville, siège de faculté ou école nationale de médecine (ancien régime) ;
+- anciens assistants d'un hôpital de ville siège de faculté ou école nationale de médecine (ancien régime) ;
 
-- anciens chefs de clinique ou anciens assistants des universités - assistants des universités - assistants des hôpitaux (nouveau régime) ;
+- anciens chefs de clinique ou anciens assistants des universités-assistants des hôpitaux (nouveau régime) ;
 
-- anciens praticiens hospitaliers universitaires ;
+- anciens praticiens hospitaliers-universitaires ;
 
 - anciens assistants hospitalo-universitaires ;
 
@@ -52,7 +52,7 @@ B. - Taux des vacations des attachés des centres hospitaliers régionaux faisan
 
 - médecins étrangers ressortissants d'un Etat membre de la Communauté économique européenne pouvant justifier d'une qualification reconnue équivalente.
 
-2. Taux 257,79 pour :
+2. Taux 258,75 :
 
 - anciens internes des hôpitaux publics ;
 
@@ -64,6 +64,4 @@ B. - Taux des vacations des attachés des centres hospitaliers régionaux faisan
 
 - médecins étrangers ressortissants d'un Etat membre de la Communauté économique européenne pouvant justifier d'une qualification reconnue équivalente.
 
-3. Taux 228,88 pour :
-
-Toutes autres catégories.
+3. Taux 229,84 : toutes autres catégories.
