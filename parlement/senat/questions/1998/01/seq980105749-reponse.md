@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980105749
+
+- Question : [SEQ980105749](seq980105749.md) — Statut des infirmiers psychiatriques
+
+## Réponse
+
+*Santé, JO du 1998-04-16, page 1274*
+
+Réponse. - Le diplôme d'Etat d'infirmier est encadré par une directive communautaire relative aux infirmiers de soins généraux. Les infirmiers de secteur psychiatrique ont été formés jusqu'en 1992 et leur formation n'est pas conforme aux exigences essentielles de cette directive. Toutes les tentatives faites précédemment pour leur accorder une équivalence ont été annulées par le Conseil d'Etat. Le secrétaire d'Etat à la santé rappelle à l'honorable parlementaire que c'est à la demande même des infirmiers de secteur psychiatrique qu'ils ont été exclus du champ des mesures transitoires de cette directive lors de sa négociation en 1975-1976. Il a donc été proposé une autre solution qui remporte l'adhésion des principales centrales syndicales CFDT, CGT, FO et Fédération nationale des autonomes. Cette solution consiste à créer un déplôme d'Etat d'infirmier de secteur psychiatrique, attribué de droit aux infirmiers concernés afin de leur montrer qu'ils sont autant considérés que les infirmiers de soins généraux. Dans le même temps, leurs lieux d'exercice seront étendus pour être identiques à ceux des infirmiers de soins généraux, à l'exception de l'activité libérale. Enfin, des passerelles seront créées vers le diplôme d'Etat d'infirmier, sous forme de stages de formation complémentaire qui seront réservés en priorité aux infirmiers exerçant déjà et souhaitant exercer en service de soins généraux. La durée et la nature du stage dépendront de la formation initiale et complémentaire et de l'expérience professionnelle de chaque candidat. L'ensemble de ces dispositions seront proposées au Parlement dans le cadre du prochain projet de loi portant diverses mesures d'ordre social.
