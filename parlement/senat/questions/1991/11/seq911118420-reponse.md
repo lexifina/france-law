@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911118420
+
+- Question : [SEQ911118420](seq911118420.md) — Suppression de l'expédition de colis hors CEE par voie maritime
+
+## Réponse
+
+*Postes, JO du 1992-01-16, page 141*
+
+Réponse. - Dans le but d'améliorer la qualité de service, la voie maritime, dont l'utilisation conduisait à des délais en général très longs (quarante à cinquante jours pour certaines destinations) et difficilement acceptables par la clientèle, a été supprimée et remplacée par la voie aérienne avec embarquement différé dénommée S.A.L., abréviation de l'expression anglaise " Surface Air Lifted " retenue par l'Union postale universelle. Cette amélioration de l'acheminement a un coût que La Poste répercute sur ses prix de vente sous forme d'une surtaxe S.A.L. en moyenne inférieure de 50 p. 100 à la surtaxe en vigueur pour le service rapide. Toutefois, cette surtaxe S.A.L. n'est pas appliquée pour les envois de petits paquets du service économique à destination de l'Europe et de l'Afrique du Nord. Ces petits paquets bénéficient, par ailleurs, vers les pays de la C.E.E., de l'Autriche, du Liechtenstein et de la Suisse d'un acheminement par voie rapide, sans surtaxe. De même, dans un souci de répondre aux besoins des exportateurs, La Poste propose la création, au début de l'année 1992, d'un service rénové d'envoi par la voie maritime. Pour leurs envois économiques, les expéditeurs importants (100 kilogrammes au moins par pays et par expédition) auront le choix entre l'acheminement maritime et le S.A.L. selon qu'ils privilégient le prix ou les délais d'acheminement. Ce nouveau service sera ouvert avec les relations suivantes : Australie, Bénin, Brésil, Cameroun, Canada, Congo, Côte-d'Ivoire, Etats-Unis d'Amérique, Gabon, Haïti, Japon, Sénégal, Togo. D'autres pays pourront être desservis selon les besoins du marché et la faisabilité.
