@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911118586
+
+- Question : [SEQ911118586](seq911118586.md) — Suppression des crédits de formation affectés notamment à la rémunération des stagiaires des établissements agricoles
+
+## Réponse
+
+*Travail, JO du 1992-01-23, page 213*
+
+Réponse. - Comme le souligne l'honorable parlementaire, certains organismes de formation et des stagiaires se sont inquiétés de la suppression des crédits du fonds de la formation professionnelle et de la promotion sociale affectés aux dépenses de fonctionnement du programme des ministères et de la réduction correspondante de la dotation retenue pour la rémunération des stagiaires. Cette décision prise à l'occasion de la préparation du projet de loi de finances pour 1992 a eu un effet immédiat dès le dernier trimestre 1991, car la programmation habituelle du dispositif conventionnel de la formation professionnelle et des décisions relatives à la rémunération des stagiaires comporte des incidences financières sur le budget de l'exercice suivant. Conscient des difficultés d'application de cette décision, notamment à cause des délais très courts ne permettant pas les adaptations nécessaires, le Gouvernement a rapidement mis en oeuvre une concertation interministérielle avec pour objectif de rechercher des solutions aux problèmes exprimés par les centres de formation et les stagiaires. C'est ainsi que des mesures d'ordre budgétaire ont pu être prises permettant à l'ensemble des ministères ayant un programme de formation professionnelle d'assurer le financement des stages pluriannuels et de ceux qui s'engagent au plus tard au courant du dernier trimestre 1991, la rémunération des stagiaires étant maintenue. Avant la fin de l'année, le programme des stages devant commencer en 1992 sera arrêté dans un souci de maintenir les formations répondant à des besoins prioritaires.
