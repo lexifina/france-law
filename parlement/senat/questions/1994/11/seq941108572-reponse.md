@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941108572
+
+- Question : [SEQ941108572](seq941108572.md) — Fonctionnement du bureau du sceau de France instruisant les dossiers relatifs aux changements de noms
+
+## Réponse
+
+*Justice, JO du 1995-01-12, page 98*
+
+Réponse. - Jusqu'au 1er février 1994, la procédure de changement de nom était régie par la loi du 11 germinal an XI. L'instruction de chaque demande nécessitait l'intervention du service civil du parquet du tribunal de grande instance, qui diligentait une enquête, de la Cour d'appel et du Conseil d'Etat qui rendaient chacun un avis sur les dossiers soumis à leur examen, avant que le service du sceau établisse une proposition et la soumette à la signature du Premier ministre. La multiplicité des intervenants expliquait que cette procédure soit particulièrement longue. De 1988 à 1993, le nombre de décrets de changement de nom s'est situé entre 12 et 19, chaque année, représentant 300 à 500 autorisations annuelles ainsi que 70 à 90 rejets. La loi no 93-22 du 8 janvier 1993 est entrée en application le 1er février 1994. Depuis cette date, soit onze mois après, le service du sceau de France a préparé 33 décrets, représentant 900 décisions positives ainsi que 216 rejets. L'accélération de l'instruction des dossiers est donc notable même si elle nécessite encore plusieurs mois, eu égard au fait qu'il convient d'opérer un certain nombre de vérifications et de contrôles. En outre, la nouvelle procédure exige que la notification de la décision soit faite désormais dans un bref délai (deux mois au lieu d'un an). Le nombre des requêtes en changement de nom, chaque année depuis 1988, se situe entre 750 et 900. De sorte que le déficit annuel de traitement, selon l'ancienne procédure, représentait 300 à 400 dossiers. La mise en place de la nouvelle a permis de résorber une partie du retard des années passées.
