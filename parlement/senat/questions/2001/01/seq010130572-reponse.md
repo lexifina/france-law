@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010130572
+
+- Question : [SEQ010130572](seq010130572.md) — Archives relatives aux camps de concentration
+
+## Réponse
+
+*Affaires étrangères, JO du 2001-02-22, page 646*
+
+Réponse. - La question de l'ouverture à la recherche historique du Service international de recherche (SIR) d'Arolsen se pose, effectivement, avec acuité depuis le début des années 1990. Une première avancée a été réalisée en 1996 avec la mise en lecture publique des dossiers généraux. En 2000, sous présidence belge, les onze Etats membres de la Commission internationale pour le service international de recherche (CISIR) ont pris la décision d'ouvrir le SIR à la recherche historique. Le texte du protocole modification de l'accord de Bonn du 6 juin 1955 a donc été approuvé et paraphé à Bruxelles le 26 mai 2000. Ainsi, le principe de l'ouverture est désormais acquis. Celle-ci pourrait intervenir, si les procédures de ratification sont effectuées dans les délais par les onze Etats membres, à partir du 1er janvier 2003. Dès lors, les inventaires des sources documentaires conservées au SIR pourront notamment être mises en lecture publique. La France, qui assure la présidence de la CISIR jusqu'au 17 mai 2001, s'attachera, lors de la réunion annuelle, à préparer la mise en uvre de la décision d'ouverture prise par la CISIR, en réglant notamment deux questions importantes. La première concerne l'accomplissement des formalités d'ouverture à la signature et de ratification du protocole paraphé. Comme il en a été convenu lors de la réunion de Bruxelles, les autorités allemandes, dépositaires des accords de base, se chargent des procédures à engager pour la signature par les Etats parties. La seconde vise à arrêter concrètement les modalités de cette ouverture. Dans cette perspective, les Etats membres ont décidé d'instaurer un comité d'experts, chargé d'assister la CISIR. La mise en place de ce comité sera donc l'autre priorité de la présidence française.
