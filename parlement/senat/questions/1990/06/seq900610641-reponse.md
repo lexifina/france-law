@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900610641
+
+- Question : [SEQ900610641](seq900610641.md) — Fiscalité locale et entreprises de transport
+
+## Réponse
+
+*Économie, JO du 1990-09-27, page 2094*
+
+Réponse. - En matière de fiscalité directe locale, les modalités d'imposition des entreprises à l'intérieur de la Communauté économique européenne sont liées aux structures administratives propres à chaque pays. Comme le champ d'intervention de l'Etat et des collectivités locales diffère d'un pays à l'autre, il n'est pas possible de comparer directement la situation des entreprises françaises à celle des autres entreprises de la Communauté économique européenne. Cela étant, la valeur locative des biens et équipements mobiliers prise en compte dans l'assiette de la taxe professionnelle est déterminée à partir du prix de revient retenu pour le calcul des amortissements conformément aux dispositions de l'article 1469-3o du code général des impôts. Il n'est pas envisagé de modifier ces modalités de calcul. D'une part, une telle mesure ne pourrait être limitée aux seuls transporteurs routiers sans encourir un risque d'inconstitutionnalité. D'autre part, retenir la valeur nette comptable rendrait instables les ressources des communes, réduirait fortement les bases de certaines d'entre elles et aboutirait à des transferts de charges au détriment des autres redevables. Une telle disposition serait au surplus un frein à l'investissement puisque le remplacement d'un matériel entraînerait un ressaut d'imposition considérable et désavantagerait les entreprises en développement. En tout état de cause, les entreprises de transports routiers ont bénéficié au cours des récentes années des réductions du taux du plafonnement des cotisations de taxe professionnelle qui est passé de 5 à 4,5 p. 100 de la valeur ajoutée des entreprises pour les impositions afférentes à l'année 1989 puis à 4 p. 100 pour celles établies à compter de 1990.
