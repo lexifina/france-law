@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030708304
+
+- Question : [SEQ030708304](seq030708304.md) — Situation du secteur textile en Ariège
+
+## Réponse
+
+*Affaires sociales, JO du 2003-10-23, page 3149*
+
+L'honorable parlementaire a attiré l'attention du ministre des affaires sociales, du travail et de la solidarité sur la situation du secteur textile dans le département de l'Ariège. Ce secteur est actuellement soumis à des mutations dont les conséquences économiques et sociales sont importantes. Face à l'enjeu de reconversion de ces salariés, l'Etat a recherché des solutions locales les mieux adaptées à chaque situation. La direction départementale du travail, de l'emploi et de la formation professionnelle de l'Ariège a signé avec la fédération des industries textiles sud une convention de cellule de reclassement interentreprises en vue de prendre en charge 80 salariés qui pourraient être licenciés dans les entreprises. La question de la formation reste aussi au coeur de l'accompagnement de ces mutations. En effet, elle contribue à la pérennité des entreprises par le développement des compétences et favorise aussi un Conseil national pilote pour la formation et l'emploi (2003-2005) a été signé le 7 avril dernier avec la branche professionnelle pour envisager des actions de formation dans un cadre régional et permettre une déclinaison au niveau des bassins concernés. L'accompagnement de ces mutations et de cet engagement en faveur de la formation mérite un effort collectif A ce titre, le ministère des affaires sociales, du travail et de la solidarité a mobilisé les crédits du Fonds national de l'emploi ainsi que ceux de la formation. Cette enveloppe financière a été déléguée avec un certain délai en raison des tensions liées au gel budgétaire. Toutefois, la situation s'est rétablie depuis cet été.
