@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911017692
+
+- Question : [SEQ911017692](seq911017692.md) — Article L 6 du code des pensions militaires d'invalidité et des victimes de guerre
+
+## Réponse
+
+*Anciens combattants, JO du 1991-12-26, page 2911*
+
+Réponse. - La question posée par l'honorable parlementaire est de savoir si l'article L. 16 du code des pensions militaires d'invalidité et des victimes de la guerre modifié par l'article L. 124-I de la loi de finances pour 1990 n'est pas en fait en contradiction avec les dispositions de l'article L. 6 quant à la fixation du point de départ du droit à pension, pour les pensions temporaires renouvelées ou les pensions définitives révisées en aggravation postérieurement au 31 décembre 1989, date à partir de laquelle s'applique le nouvel article L. 16. L'article L. 6 du code des pensions militaires d'invalidité et des victimes de la guerre fixe le point de départ d'un droit à pension à la date du dépôt de la demande par le postulant, qu'il s'agisse d'une première demande de pension, d'une demande de renouvellement d'une pension concédée à titre temporaire ou de la révision en aggravation d'une pension concédée à titre temporaire ou définitif. Cette règle étant posée, rien ne s'oppose à l'application à ces demandes, telles que définies ci-dessus, de l'article L. 124-I de la loi de finances pour 1990 relativement à la limitation des majorations dites " suffixes ", dès lors que lesdites demandes ont été déposées postérieurement au 31 octobre 1989. Il s'agit de l'application d'une législation nouvelle à partir d'une date déterminée par la loi elle-même. C'est d'ailleurs, ainsi qu'il l'a déjà été précisé dans la réponse précédente publiée le 8 août 1991, dans ce sens que le Conseil d'Etat a émis l'avis n° 350-071 du 3 juin 1991 concernant les pensions concédées à titre temporaire, lorsqu'elles viennent à être renouvelées postérieurement au 31 octobre 1989.
