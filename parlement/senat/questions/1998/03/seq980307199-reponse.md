@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980307199
+
+- Question : [SEQ980307199](seq980307199.md) — Délais d'instruction des dossiers des demandes d'emplois-jeunes
+
+## Réponse
+
+*Emploi, JO du 1998-08-06, page 2564*
+
+Réponse. - Selon le dernier bilan d'étape, établi au 31 mars 1998, la qualité de l'instruction des dossiers du programme " nouveaux services, nouveaux emplois " par les directions départementales du travail, de l'emploi et de la formation professionnelle est en constante amélioration depuis le lancement de ce programme au 4e trimestre 1997. Ainsi, dans 86 % des départements, les délais d'instruction sont inférieurs à quatre semaines (dans 36 % des départements, ces délais sont inférieurs à trois semaines et dans 12 % des départements ils sont inférieurs à deux semaines). Seuls 14 départements indiquent des délais d'instruction supérieurs à quatre semaines. Le ministère de l'emploi et de la solidarité a demandé à ce que, sur l'ensemble du territoire national, les délais d'instruction des dossiers soient, le plus rapidement possible, ramenés à une durée inférieure à trois semaines. Il faut cependant remarquer que les dossiers de création d'activités nouvelles déposées dans le cadre du programme " nouveaux services, nouveaux emplois " sont souvent complexes, nécessitant la plupart du temps la consultation des services des préfectures ou des autres services déconcentrés des divers ministères intéressés dans la mise en uvre de ce programme, et que l'exigence de qualité pour les dossiers retenus oblige les directions départementales du travail, de l'emploi et de la formation professionnelle à un examen approfondi des projets, notamment au regard des nombreux critères d'éligibilité définis (professionnalisation des jeunes et des emplois, pérennisation et solvabilisation à terme des activités, non-substitution d'emplois, non-concurrence avec le secteur marchand...).
