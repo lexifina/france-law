@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981011780
+
+- Question : [SEQ981011780](seq981011780.md) — Réintroduction en milieu naturel du loup et élevage ovin
+
+## Réponse
+
+*Agriculture, JO du 1999-01-21, page 193*
+
+Réponse. - Les éleveurs d'ovins du sud-est de la France rencontrent, depuis quelques années, des difficultés liées à la réapparition du loup. Installé depuis cinq ans dans les Alpes-du-Sud, le loup vient d'apparaître dans les Alpes-du-Nord. Afin de prévenir les dommages causés par cette espèce sur les élevages, en particulier ovins, une concertation a été engagée, tant au niveau local que national. Par ailleurs, des mesures d'indemnisation ont été prises au niveau local. Le ministère de l'agriculture et de la pêche est très attaché à la préservation de l'élevage ovin, dont le rôle fondamental pour la protection et l'entretien des espaces naturels est reconnu. Cependant, l'éradication du loup n'est pas envisageable compte tenu des engagements internationaux de la France et des textes réglementaires en vertu desquels le loup est protégé. Le 15 octobre 1998, la ministre de l'aménagement du territoire et de l'environnement et le ministre de l'agriculture et de la pêche ont confié à M. Pierre Bracque, inspecteur général de l'agriculture, une mission interministérielle sur la cohabitation entre l'activité d'élevage pastoral et la présence du loup. Les deux ministres ont demandé à M. Pierre Bracque d'évaluer l'ensemble des actions conduites par l'Etat, les éleveurs et les autres partenaires, tant sur le plan local que national. Sur la base de ce bilan, cette mission devra conduire à des propositions visant à adapter les dispositifs législatifs ou réglementaires et à orienter les moyens humains ou financiers afin de concillier le maintien de l'activité pastorale et la protection du loup. Un rapport d'étape sera remis aux deux ministres le 15 janvier 1999.
