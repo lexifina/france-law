@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701363
+
+- Question : [SEQ970701363](seq970701363.md) — Emballages alimentaires
+
+## Réponse
+
+*Agriculture, JO du 1997-09-04, page 2274*
+
+Réponse. - Au Japon sont apparus, depuis plusieurs années, des emballages aptes à modifier la durée de conservation de certaines denrées alimentaires, par absorption ou dégagement de certains gaz. Ces emballages sont dits " actifs ", par opposition aux emballages traditionnels qui jouent le rôle d'une barrière inerte vis-à-vis des conditions extérieures (températures, contaminations, etc.). Ces emballages font l'objet de très nombreuses études en France depuis quelques années. La réglementation française ou européenne actuelle relative " aux matériaux au contact des denrées alimentaires " est basée sur deux principes : 1.Inertie des matériaux, c'est-à-dire absence " dans les conditions normales ou prévisibles de leur emploi, de migration des constituants dans une quantité susceptible de présenter un danger pour la santé humaine ou animale ou d'entraîner une modification inacceptable de la composition des denrées alimentaires ou une altération de leurs caractères organoleptiques " ; 2.Etablissement d'une liste positive de substances autorisées pour le contact alimentaire. Sur le plan réglementaire, les emballages actifs représentent donc un cas particulier. En tant que matériaux au contact de l'aliment, ils doivent répondre à la réglementation précédemment citée. L'élément actif, dans la mesure où il joue un rôle technologique doit, quant à lui, répondre à la réglementation relative aux " auxiliaires technologiques ". Lors d'une demande d'autorisation, ces dossiers sont traités au cas par cas, après avis de la commission de technologie alimentaire ou du Conseil supérieur d'hygiène publique de France, instances qui rassemblent des experts scientifiques, des représentants des industriels et des pouvoirs publics.
