@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860702309
+
+- Question : [SEQ860702309](seq860702309.md) — Contestation des factures téléphoniques: amélioration des procédures
+
+## Réponse
+
+*Postes et télécommunications, JO du 1986-09-18, page 1324*
+
+Réponse. -Le ministre est bien conscient du caractère peu satisfaisant de nombreuses situations litigieuses dans lesquelles, actuellement, faute de garder en mémoire les communications, aucune des parties ne peut pleinement convaincre l'autre. Aussi apparaît-il que l'amélioration première à apporter dans ce dommaine est d'offrir aux clients la possibilité de connaître, s'ils le souhaitent, le détail de leurs communications, tout au moins celles susceptibles d'engendrer une dépense élevée. Cette facturation détaillée a été offerte progressivement depuis cinq ans aux abonnés rattachés sur certains types de centraux électroniques, et ceux susceptibles d'en bénéficier sont actuellement environ 9 millions. Différentes mesures d'ordres technique et financier permettront, dès la fin de 1986, d'atteindre le chiffre de 15 millions d'abonnés, soit deux sur trois. Ainsi qu'il en a été décidé, tous les abonnés le souhaitant devraient pouvoir y accéder en 1989, au besoin enprocédant à leur dénumérotage. Des instructions ont été données aux services compétents pour, dans l'intervalle, procéder avec une vigilance toute particulière aux vérifications faites lors des litiges (qui, il convient de le rappeler, représentent environ 3,5 pour mille des factures émises). Enfin le système Gestax, qui permet déjà dans certains cas de ventiler par journée la consommation de l'abonné, et sera progressivement généralisé à l'ensemble des centraux électroniques existants d'ici à la mi-1988 (soit à cette époque plus des trois quarts des abonnés), fournira des indications utiles pour renseigner l'abonné sur le rythme de son trafic et permettra de détecter d'éventuelles utilisations abusives.
