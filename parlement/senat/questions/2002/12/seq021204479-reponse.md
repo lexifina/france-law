@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021204479
+
+- Question : [SEQ021204479](seq021204479.md) — Allocation unique d'accueil du jeune enfant
+
+## Réponse
+
+*Famille, JO du 2003-01-09, page 133*
+
+Conformément aux engagements du Président de la République, le Gouvernement, soucieux d'offrir une liberté de choix aux parents quant au mode de garde de leurs enfants et de simplifier le dispositif d'aides existant, envisage d'instaurer très prochainement une nouvelle prestation d'accueil du jeune enfant. Elle entend aussi offrir aux parents la liberté de reprendre leur activité ou non. La prestation de libre choix aura pour objectif de : simplifier l'existant, puisqu'il s'agit de réduire très significativement le nombre de prestations et de mieux articuler les différentes formes d'intervention (allocations, remboursement ou allègement de charges, avantages fiscaux) ; garantir le libre choix du comportement d'activité, puisque cette prestation pourrait être accordée au parent qui travaille ou qui ne travaille pas, tout en évitant un phénomène de désincitation au travail dont les conséquences pourraient être néfastes pour les familles les plus fragiles ; garantir le libre choix du mode de garde, puisqu'elle doit aider les familles à trouver et financer le mode de garde le plus adapté à leurs besoins. A cet effet, le ministre délégué à la famille a souhaité engager, dès cet automne, une démarche de concertation approfondie avec l'ensemble des partenaires de la politique familiale. Ainsi, un groupe de travail préparatoire à la conférence de la famille a pour mission de présenter au ministre délégué à la famille, en février 2003, un ou plusieurs scénarios relatifs à cette future prestation. Le ministre délégué à la famille présentera lors de la conférence de la famille, au printemps prochain, la nouvelle prestation qui sera susceptible d'être mise en oeuvre dès le premier semestre 2004.
