@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980306736
+
+- Question : [SEQ980306736](seq980306736.md) — Justification à la non-imposition sur le revenu des personnes handicapées vivant chez leurs parents
+
+## Réponse
+
+*Économie, JO du 1998-05-21, page 1636*
+
+Réponse. - Le principe de l'imposition par foyer fiscal s'oppose à la délivrance de certificats de non-imposition aux personnes comptées à charge par leur parents ou rattachées au foyer fiscal qui les accueille. En effet, en application de l'article 6 du code général des impôts, chaque foyer fiscal est imposé à raison de l'ensemble des bénéfices et des revenus des membres qui le composent. Cette imposition est calculée en fonction d'un quotient familial qui est majoré en présence d'un enfant à charge ou d'une personne invalide rattachée. En outre, compte tenu des personnes à charge ou rattachées, le foyer fiscal peut bénéficier de majoration des plafonds retenus pour le calcul de certaines réductions d'impôts et de certains allégements en matière de taxe d'habitation. Les contribuables et les personnes handicapées sont donc en mesure d'exercer un choix entre les avantages d'une imposition commune ou d'une imposition séparée. Dans ces conditions, il n'est pas envisageable d'émettre des avis d'imposition qui ne serait pas conformes à cette options. La proposition du Médiateur de la République, tendant à la délivrance de certificats d'imposition aux majeurs handicapés dès lors qu'ils ne sont pas inscrits sur le rôle, ne peut être retenue. Cependant, les personnes concernées ne devraient pas être pénalisées puisque l'avis d'impôt sur le revenu comprend le détail des revenus imposables de chacun des membres du foyer fiscal. Il permet donc aux organismes sociaux qui le souhaitent de prendre connaissance de revenus propres de la personne handicapée comptée à charge ou rattachée et de déterminer ainsi les prestations auxquelles elle a droit.
