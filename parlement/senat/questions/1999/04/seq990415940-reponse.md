@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990415940
+
+- Question : [SEQ990415940](seq990415940.md) — Aides accordées par l'ADEME pour les investissements effectués dans le domaine des déchets
+
+## Réponse
+
+*Aménagement du territoire, JO du 1999-09-16, page 3064*
+
+Réponse. - La ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question relative à l'octroi d'aides financières par l'Agence de l'environnement et de la maîtrise de l'énergie (ADEME) à des sociétés de droit privé prestataires des collectivités locales. La loi nº 82-223 du 2 mars 1982, relative aux droits et libertés des communes, des départements et des régions, ne comporte pas de dispositions limitant les modalités d'interventions financières d'un établissement public, tel l'ADEME, en faveur de sociétés délégataires de services publics. Tant dans le cadre du fonds de modernisation de la gestion des déchets, durant la période 1973-1998, qu'aujourd'hui sur ses ressources budgétaires, l'ADEME a toujours veillé à ce que les aides qu'elle octroyait ne créent pas de distorsion de concurrence entre projets publics et privés. Dans le cas des projets privés, l'aide a été assortie d'une obligation de répercussion dans le prix facturé aux collectivités publiques, qui vaut également en cas de changement de société délégataire. Dans le cas de projets publics, les tribunaux ont encore récemment confirmé la nécessité de ne pas faire payer par l'usager les charges étrangères à l'objet du service public pour lequel il est sollicité. A partir de 1999, l'ADEME, en accord avec ses ministères de tutelle, a modifié ses conditions d'intervention dans le domaine des déchets ménagers et assimilés, en différenciant le taux d'aide aux projets relevant des collectivités locales ou de leurs délégataires (20 à 30 % suivant le type d'équipement) et ceux entrant dans le champ concurrentiel (15 % maximum).
