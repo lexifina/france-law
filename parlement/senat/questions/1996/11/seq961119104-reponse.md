@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961119104
+
+- Question : [SEQ961119104](seq961119104.md) — Aide spécifique aux chartes pour l'environnement et intercommunalité
+
+## Réponse
+
+*Environnement, JO du 1997-04-17, page 1191*
+
+Réponse. - Le ministre de l'environnement a pris connaissance avec intérêt de la question posée par l'honorable parlementaire concernant l'aide spécifique aux chartes pour l'environnement et intercommunalité. La circulaire du 11 mai 1994 définit les modalités d'octroi de l'aide de l'Etat aux collectivités qui réalisent une charte pour l'environnement. Le taux d'aide maximum est fixé à 50 % du montant hors taxe des dépenses engagées pour les études préalables à la mise en oeuvre de la charte. S'agissant d'un maximum, les montants réels observés varient en fonction de la complexité, de la situation de départ, des données disponibles, de l'ambition du projet. Concernant les études préalables, le chiffre de 250 000 francs, parfois cité, est une valeur moyenne qui ressort de l'analyse des dossiers déjà engagés depuis l'origine. Il ne constitue pas une référence absolue. La maîtrise des dépenses publiques, telle qu'elle s'exprime au travers des derniers budgets votés, a conduit l'Etat, depuis 1995, à réduire les crédits affectés aux chartes pour l'environnement et donc leur nombre et les montants d'aide. S'agissant d'une action déconcentrée, les enveloppes budgétaires affectées à chaque région s'efforcent de tenir compte de leur particularité et des projets effectivement recensés. Il appartient, dans ce cadre, aux services déconcentrés du ministère de l'environnement sous l'autorité du préfet de région, d'instruire les dossiers et de déterminer, en fonction de la qualité des projets et des crédits disponibles, le montant de l'aide apportée. Rien dans cette procédure ne conduit donc, à qualité équivalente, à défavoriser les projets intercommunaux.
