@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960314299
+
+- Question : [SEQ960314299](seq960314299.md) — Suppression de postes d'instituteur dans la Creuse
+
+## Réponse
+
+*Éducation, JO du 1996-04-11, page 869*
+
+Réponse. - La rentrée scolaire dans le premier degré est marquée par la poursuite de la baisse des effectifs. 50 000 élèves de moins sont attendus dans les écoles en 1996, après moins 25 000 en 1995 et moins 8 000 en 1994. Rapportée au nombre des élèves dans les écoles publiques, la baisse des effectifs est de l'ordre de 1 p. 100. Elle est significative. Or, si les effectifs diminuent au niveau national, ils continuent de croître dans dix-neuf départements où il faudra accueillir 7 200 élèves supplémentaires. Cette situation contrastée rend indispensable le rééquilibrage des moyens entre départements. Les départements qui perdent des élèves ou bénéficient d'une excellente dotation doivent donner des postes d'instituteurs à ceux qui gagnent des élèves. En ce qui concerne le département de la Creuse, il connaît depuis plusieurs années une baisse de ses effectifs. Cette tendance s'est poursuivie en 1995 et s'accentuera encore en 1996 (118 élèves de moins). C'est dans ce contexte qu'il a été prévu de retirer huit emplois d'enseignant du premier degré de la dotation départementale pour la rentrée 1996. Ce prélèvement n'est cependant pas de nature à détériorer des conditions de scolarisation favorables qui se traduisent, notamment, par un taux d'encadrement global " postes/effectifs " (6,69 postes pour 100 élèves) supérieur au taux d'encadrement de référence retenu pour les départements comparables par la structure du réseau des écoles (5,50 postes pour 100 élèves). En tout état de cause et compte tenu de l'excellence du taux d'encadrement global affecté au département de la Creuse, ce dernier disposera de suffisamment de moyens pour conduire une politique éducative de qualité. Le taux d'encadrement global devrait d'ailleurs s'améliorer à la rentrée 1996.
