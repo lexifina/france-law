@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030708507
+
+- Question : [SEQ030708507](seq030708507.md) — Déclin des candidats aux concours (enseignement professionnel et CAPES)
+
+## Réponse
+
+*Jeunesse, JO du 2003-09-18, page 2854*
+
+Les décisions d'ouverture des postes mis au concours de recrutement de professeurs certifiés (CAPES) et de lycée professionnel (CAPLP) dans les disciplines scientifiques s'appuient sur les prévisions relatives aux départs des enseignants et l'évolution attendue de la démographie scolaire. Ils doivent également tenir compte de l'occupation des emplois inscrits en loi de finances. Pour les disciplines concernées (mathématiques, sciences physiques, sciences de la vie et de la Terre), il a été offert un nombre supérieur de postes aux concours externes à la session 2003, soit 2 905 au CAPES et 496 au CAPLP, alors qu'en 2002 il s'élevait respectivement à 2 852 et 460. Le nombre de candidats inscrits, 14 191 au CAPES, 2 712 au CAPLP, a permis aux jurys de pourvoir la totalité des postes tout en assurant un recrutement de qualité. Un arrêté en date du 11 juin 2003, publié au Journal officiel du 24 juin, assouplit les conditions de diplômes et de titres exigées des candidats. A compter de la session 2004, seront admis les titres ou diplômes sanctionnant un cycle d'études postsecondaires d'au moins trois années délivrés en France ou dans un autre Etat et attestés par l'Etat considéré ainsi que les attestations d'inscription sans réserve en quatrième année d'études postsecondaires pour la délivrance d'un diplôme national ou d'un diplôme délivré au nom de l'Etat, obtenus, le cas échéant, après une décision de validation des études, expériences professionnelles ou acquis personnels prise en application de l'article L. 613-5 du code de l'éducation. Cette mesure devrait permettre à des candidats jusque-là exclus des concours de s'inscrire dès la prochaine session.
