@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040712811
+
+- Question : [SEQ040712811](seq040712811.md) — Application du taux réduit de TVA à la coiffure
+
+## Réponse
+
+*Économie, JO du 2004-08-12, page 1859*
+
+Le secteur de la coiffure figure sur la liste des services auxquels la directive relative aux services à forte intensité de main-d'oeuvre, adoptée le 22 octobre 1999, autorise l'application du taux réduit de la TVA, jusqu'au 31 décembre 2002. Cela étant, chaque Etat membre est tenu de limiter l'expérience à deux, voire trois, à titre exceptionnel, des catégories de services ainsi définies. En décidant d'appliquer le taux réduit de la TVA, d'une part aux travaux de réparation, d'amélioration, de transformation, d'aménagement et d'entretien portant sur les locaux à usage d'habitation achevés depuis plus de deux ans, et, d'autre part, aux services d'aide à la personne, y compris le nettoyage des logements privés fournis par les entreprises agréées en application de l'article L. 129-1-II du code du travail, la France a utilisé toutes ses marges de manoeuvre. Cette mesure a été reconduite jusqu'au 31 décembre 2003. S'agissant des discussions communautaires actuellement en cours sur le champ des taux réduits de TVA dans l'Union européenne, les priorités du Gouvernement sont d'obtenir, d'une part, la pérennisation de l'application du taux réduit aux travaux dans les logements et aux services d'aide à domicile à la personne et, d'autre part, la possibilité d'appliquer ce taux aux services de restauration ainsi qu'aux phonogrammes. La proposition de directive du 16 décembre 2003 autorisant les Etats membres concernés à continuer d'appliquer pendant deux années supplémentaires (soit jusqu'au 31 décembre 2005) le taux réduit de TVA aux services à forte intensité de main-d'oeuvre a fait l'objet d'un accord politique lors du Conseil du 22 décembre. Cette prorogation est traduite en droit français par l'article 24 de la loi de finances pour 2004.
