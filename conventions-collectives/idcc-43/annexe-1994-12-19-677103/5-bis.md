@@ -1,89 +1,63 @@
 # Article 5 bis
 
-A. - Objet
+Les contrats de professionnalisation et les périodes de professionnalisation associent des enseignements généraux, professionnels et technologiques dispensés dans des organismes publics ou privés de formation ou, lorsqu'elle dispose d'un service de formation structuré et clairement identifié, par l'entreprise, et l'acquisition d'un savoir-faire par l'exercice en entreprise d'une ou de plusieurs activités professionnelles en relation avec les qualifications recherchées.
 
-Les parties signataires conviennent de mettre en oeuvre le principe du capital de temps de formation au bénéfice des salariés des entreprises relevant du champ d'application du présent accord.
+L'information des instances représentatives du personnel s'effectue conformément aux dispositions de l'article D. 932-1 du code du travail.
 
-Ce capital devra être perçu comme un outil d'accès à la formation sur la base du volontariat du salarié dans un esprit analogue à celui du congé individuel de formation.
+Article 5.1
 
-L'employeur et l'OPCA FORCO participent financièrement à sa prise en charge dans les conditions fixées au présent accord.
+Le contrat de professionnalisation
 
-L'objectif du dispositif est de rendre accessible des actions de formation relevant du plan de formation de l'entreprise en vue du perfectionnement professionnel ou de la progression en qualification de tout salarié de l'entreprise.
+Les parties signataires décident la mise en place d'un contrat de professionnalisation dont l'objet est de favoriser l'insertion ou la réinsertion professionnelle des jeunes et des demandeurs d'emploi.
 
-Dans le cadre du projet de plan de formation à présenter aux institutions représentatives du personnel avant la fin de chaque année civile, l'entreprise devra définir les actions de formation éligibles au titre du capital de temps de formation.
+Les partenaires sociaux incitent les entreprises de la branche à intégrer dans leurs effectifs, à l'issue de leur formation, les bénéficiaires d'un contrat de professionnalisation ayant acquis un diplôme, un titre ou un CQP.
 
-A cet effet, les parties signataires s'engagent à tout mettre en oeuvre, notamment par le biais du FORCO, afin d'assurer l'information des entreprises et de leurs salariés sur les dispositions relatives au capital de temps de formation.
+Le contrat de professionnalisation est ouvert :
 
-La diffusion de cette information auprès des salariés des entreprises relevant du champ d'application de la présente convention sera effectuée notamment à l'aide des panneaux d'affichage de l'entreprise.
+-aux jeunes de moins de 26 ans sans qualification professionnelle et à ceux qui veulent compléter leur formation initiale, quel qu'en soit le niveau, pour pouvoir accéder aux métiers souhaités ;
 
-B. - Publics prioritaires
+-aux demandeurs d'emploi âgés de 26 ans et plus lorsqu'une professionnalisation s'avère nécessaire pour favoriser leur retour vers l'emploi. Il a pour but de permettre à son bénéficiaire d'acquérir un diplôme ou un titre à finalité professionnelle, ou une qualification professionnelle établie par la CPNEFP ou visée à la convention collective.
 
-Sont considérés comme publics prioritaires éligibles au capital de temps de formation :
+L'action de professionnalisation qui fait l'objet d'un contrat à durée déterminée ou l'action de professionnalisation qui se situe au début d'un contrat à durée indéterminée est d'une durée minimale comprise entre 6 et 12 mois.
 
-- les salariés sans qualification professionnelle reconnue par un titre, un diplôme de l'enseignement technologique ou professionnel ou un certificat professionnel ;
+Cette durée minimale peut être portée jusqu'à 24 mois notamment pour les personnes sorties du système éducatif sans qualification professionnelle reconnue, ou lorsque la nature des qualifications visées l'exige notamment les diplômes de l'éducation nationale, les titres du ministère du travail, ainsi que les CQP validés par la branche.
 
-- les salariés relevant des coefficients inférieurs à 225 de la grille de classification de la convention collective nationale importation-exportation (CCNIE) ;
+Les actions d'évaluation, de personnalisation du parcours de formation, d'accompagnement externe et de formation, dont bénéficie le titulaire du contrat de professionnalisation, doivent être d'une durée comprise entre 15 %, sans être inférieure à 150 heures, et 25 % de la durée totale du contrat ou de l'action de professionnalisation.
 
-- les salariés désirant s'adapter à l'introduction dans l'entreprise de nouvelles technologies ou de nouveaux modes de gestion, d'organisation ou de dynamique commerciale ;
+La durée des actions peut être portée au-delà de 25 % pour certaines catégories de bénéficiaires, notamment pour les jeunes n'ayant pas achevé un second cycle de l'enseignement secondaire et qui ne sont pas titulaires d'un diplôme de l'enseignement technologique ou professionnel ou pour les personnes qui visent des formations diplômantes.
 
-- les salariés n'ayant pas bénéficié d'une action de formation au titre du plan de formation de l'entreprise au cours des quatre dernières années ;
+Les salariés âgés de moins de 26 ans perçoivent pendant la durée du contrat à durée déterminée ou de l'action de professionnalisation du contrat à durée indéterminée un salaire minimum calculé en fonction de leur âge et de leur niveau de formation.
 
-- les membres de l'encadrement nouvellement intégrés ou promus ;
+Ce salaire ne peut être inférieur :
 
-C. - Durée minimale de formation
+-à 65 % du SMIC pour les bénéficiaires âgés de moins de 21 ans ;
 
-Une formation ouverte au titre du capital de temps aura une durée minimale de 80 heures, consécutives ou non, calculée sur les 12 mois suivant le démarrage de l'action de formation.
+-et à 80 % du SMIC pour les bénéficiaires âgés de 21 ans et plus.
 
-D. - Délai de franchise
+Ces rémunérations ne peuvent être inférieures, respectivement à 75 % pour le bénéficiaires âgé de moins de 21 ans et 90 % du SMIC pour le bénéficiaire âgé de 21 ans et plus, dès lors que le bénéficiaire est titulaire d'une qualification au moins égale à celle d'un baccalauréat professionnel ou d'un titre ou diplôme à finalité professionnelle de même niveau.
 
-Entre deux actions de formation au titre du capital de temps, pour un même salarié, il devra s'écouler un délai de franchise fixé à deux ans minimum, porté à cinq ans pour une formation longue de plus d'un an ou 1 200 heures dans le cadre d'un cycle complet de formation.
+Les titulaires de contrats de professionnalisation âgés d'au moins 26 ans perçoivent pendant la durée du contrat à durée déterminée ou de l'action de professionnalisation du contrat à durée indéterminée, une rémunération qui ne peut être inférieure ni au salaire minimum de croissance ni à 85 % de la rémunération minimale prévue par les dispositions de la convention ou de l'accord collectif de branche dont relève l'entreprise.
 
-E. - Condition d'accès
+Article 5.2
 
-Pour les salariés concernés, l'ancienneté requise pour l'ouverture de leurs droits à utilisation de leur capital de temps de formation est fixée à 18 mois, quelle qu'ait été la nature de leurs contrats de travail successifs éventuels dans l'entreprise.
+La période de professionnalisation
 
-En outre, le salarié ne doit pas avoir bénéficié d'une formation au titre du plan de formation de l'entreprise au cours des deux dernières années précédant la date de la notification de sa demande.
+La période de professionnalisation a pour objet de permettre à son bénéficiaire d'acquérir une des qualifications prévues à l'article L. 900-3, ou de participer à une action de formation dont l'objectif est défini par la CPNEFP de la convention collective nationale de l'import-export n° 3100.
 
-F. - Formalités de la demande du salarié
+La période de professionnalisation doit favoriser, par des actions de
 
-Les salariés remplissant les conditions requises au présent accord pourront demander, par écrit, à l'employeur de participer aux actions relevant du capital de temps de formation.
+formation, le maintien dans l'emploi de salariés en contrat à durée indéterminée.
 
-Cette demande écrite devra parvenir à l'employeur au plus tard 60 jours avant le début de la formation sollicitée.
+Elle est ouverte :
 
-L'employeur donnera une réponse écrite au salarié. Si la réponse est de différer sa demande, l'employeur devra motiver cette décision.
+-aux salariés dont la qualification est insuffisante au regard de l'évolution des organisations et des technologies ;
 
-G. - Absences simultanées
+-aux salariés qui comptent 20 ans d'activité professionnelle, ou âgés d'au moins 45 ans et disposant d'une ancienneté minimum de 1 an de présence dans l'entreprise qui les emploie ;
 
-En cas de concurrence entre des demandes valables simultanées, l'accord à certaines d'entre elles pourra être différé :
+-aux salariés qui envisagent la création ou la reprise d'une entreprise ;
 
-- si, dans un établissement de plus de 200 salariés, le pourcentage de salariés simultanément absents au titre du capital de temps de formation dépasse 2 % du nombre total des salariés de l'établissement ;
+-aux femmes qui reprennent leur activité professionnelle après un congé de maternité ou aux hommes et aux femmes après un congé parental ;
 
-- si, dans un établissement de moins de 200 salariés, le nombre annuel d'heures de formation demandées au titre du capital de temps de formation dépasse 2 % du nombre total d'heures de travail effectuées dans l'année ;
+-aux personnes handicapées bénéficiaires de l'obligation d'emploi mentionnées à l'article L. 323-3 ;
 
-- si, dans une entreprise de moins de 10 salariés, le départ, au titre du capital de temps de formation aboutit à l'absence simultanée d'au moins deux salariés.
-
-H. - Modalités de l'accord de prise en charge
-
-Sur la base des demandes présentées par les salariés éligibles au capital de temps de formation dans les conditions fixées ci-dessus, l'entreprise dépose auprès du FORCO une demande de prise en charge partielle des dépenses afférentes aux actions de formation conduites en application du capital temps de formation.
-
-Le FORCO instruit les demandes de prise en charge et fait connaître sa décision à l'employeur.
-
-L'employeur informe par écrit le salarié de l'acceptation ou des raisons du rejet de sa demande de départ en formation conformément à la précédure décrite au point F ci-dessus.
-
-I. - Coïnvestissement
-
-Les actions au titre du capital de temps de formation concernant des formations diplomantes ou qualifiantes reconnues par un certificat de qualification professionnelle (CQP) supérieures à 300 heures peuvent être réalisées avec le consentement du salarié en partie hors de son temps de travail. Cette partie correspond à 20 % de la durée de la formation.
-
-J. - Financement
-
-Afin d'assurer le financement d'une partie des dépenses liées aux actions de formation conduites en application du capital de temps de formation, incluant outre les frais pédagogiques, les frais de transport et d'hébergement ainsi que les salaires et charges sociales légales et conventionnelles afférentes à ces actions, les entreprises employant au minimum dix salariés versent au FORCO une contribution égale à 0,05 % du montant des salaires de l'année de référence.
-
-Ce versement intervient avant le 1er mars de l'année suivant celle au titre de laquelle est due la participation au développement de la formation professionnelle continue.
-
-Cette contribution affectée au financement du capital de temps de formation s'impute en déduction de l'obligation de l'entreprise au titre du congé individuel de formation.
-
-NOTA : Arrêté du 3 octobre 1997 art. 1 : Le paragraphe I (Co-investissement) de l'article 5 bis créé par l'article 1er est étendu, sous réserve de l'application de l'article L. 932-1 du code du travail.
-
-NOTA :
-
-NOTA : Arrêté du 3 octobre 1997 art. 1 : Le paragraphe I (Co-investissement) de l'article 5 bis créé par l'article 1er est étendu, sous réserve de l'application de l'article L. 932-1 du code du travail.
+-aux salariés ayant eu un arrêt de travail continu de plus de 6 mois. L'adaptation de la définition des salariés bénéficiaires peut être confiée à la CPNEFP de la convention collective nationale de l'import-export n° 3100.
