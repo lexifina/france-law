@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000625842
+
+- Question : [SEQ000625842](seq000625842.md) — Conditions d'application du nouveau régime fiscal des associations
+
+## Réponse
+
+*Économie, JO du 2001-08-30, page 2813*
+
+La circulaire administrative 4 H-5-98 publiée le 15 septembre 1998 au Bulletin officiel des impôts a précisé le régime fiscal des associations. S'inspirant largement des conclusions d'un rapport demandé par le Premier ministre à un membre du Conseil d'Etat, M. Goulard, elle conforte le principe selon lequel les associations à but non lucratif dont la gestion est désintéressée ne sont pas soumises aux impôts commerciaux (taxe sur la valeur ajoutée, impôt sur les sociétés et taxe professionnelle). Cette instruction précise les conditions dans lesquelles une association peut être soumise à ces impôts commerciaux lorsqu'elle exerce une activité lucrative, c'est-à-dire en concurrence avec des entreprises dans les mêmes conditions d'exercice. Les critères permettant de déterminer le caractère lucratif ou non d'un organisme sont communs aux trois impôts. L'application de ces critères doit donc, en principe, aboutir, soit à l'absence d'imposition à l'ensemble de ces impôts, soit à la taxation aux trois impôts commerciaux. Cela étant, des dispositions légales particulières peuvent conduire un organisme à soumettre à la TVA certaines opérations, pourtant non lucratives, sans remettre en cause l'absence de taxation de ces opérations aux impôts directs. Tel est le cas des publications éditées par les organismes sans but lucratif qui peuvent, sous réserve d'en remplir les conditions, bénéficier des dispositions de l'article 298 septies du code général des impôts et soumettre à la TVA les recettes tirées de la vente de ces publications sans entraîner, pour autant, leur assujettissement à l'impôt sur les sociétés et à la taxe professionnelle. Toutefois, il est précisé qu'il n'existe aucune disposition comparable en matière de spectacle vivant.
