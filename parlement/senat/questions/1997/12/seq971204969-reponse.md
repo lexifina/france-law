@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971204969
+
+- Question : [SEQ971204969](seq971204969.md) — Financement des couches pour personnes handicapées à domicile
+
+## Réponse
+
+*Santé, JO du 1998-04-16, page 1273*
+
+Réponse. - Les dépenses de soins liées au handicap ou à la maladie sont prises en charge par les régimes de base obligatoires, pour les prestations énumérées à l'article L. 321-1 du code de la sécurité sociale et selon les conditions prévues par les nomenclatures d'actes et de prestations remboursables : le tarif interministériel des prestations sanitaires (TIPS) en ce qui concerne les appareils à usage individuel et accessoires de traitement à domicile, y compris le petit matériel consommable (sondes urinaires, gazes, pansements...). Pour les frais non couverts, tels que ceux occasionnés par le maintien à domicile d'une personne incontinente non éligible à la prestation spécifique dépendance (frais de couches à usage unique ou recyclables, frais de nettoyage et de blanchissage, voire frais d'acquisition d'aides techniques), une participation financière complémentaire peut être accordée à l'assuré qui en fait la demande auprès de sa caisse d'affiliation, en cas d'insuffisance de ressources au regard des frais exposés, au titre des prestations supplémentaires financées sur crédits d'action sanitaire et sociale. Par ailleurs, s'agissant plus particulièrement des difficultés matérielles rencontrées par les parents d'enfants handicapés, il y a lieu de rappeler que l'allocation d'éducation spéciale (AES), accordée après examen du dossier par la commission départementale d'éducation spéciale, devrait permettre d'alléger sensiblement la charge financière liée au maintien d'un enfant handicapé dans son milieu familial. Au-delà de vingt ans, l'allocation aux adultes handicapés (AAH), attribuée après passage par la commission technique d'orientation et de reclassement professionnel (COTOREP), répond à une finalité de même nature.
