@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860601361
+
+- Question : [SEQ860601361](seq860601361.md) — Profits de construction: sociétés transparentes vendant des locaux équipés d'éléments mobiliers
+
+## Réponse
+
+*Budget, JO du 1987-06-11, page 919*
+
+Réponse. -Dans son arrêté du 20 mai 1981 (requête n° 13460), le Conseil d'Etat a considéré que la circonstance que le prix demandé aux acquéreurs de studios comprenne la fourniture d'éléments fixes de réfrigération et de cuisson équipant les cuisines de ce type d'appartements ne suffit pas à établir qu'une société s'est livrée à des opérations autres que la construction d'un immeuble en vue de la vente au sens des dispositions de l'article 239 ter du code général des impôts et n'est donc pas de nature à lui faire perdre le bénéfice de l'exemption d'impôt sur les sociétés édictée par ce texte. Cette jurisprudence concerne les équipements mobiliers actuellement compris dans le champ d'application de la mesure de tempérament prévue par les instructions du 12 septembre 1974 et du 20 janvier 1975 (BODGI 8-H-1-74 et 8 H-1-75), lorsqu'ils présentent le caractère d'effets mobiliers attachés au fonds à perpétuelle demeure au sens de l'article 525 du code civil. La livraison de locaux comportant de tels éléments incorporés à titre définitif, doit être regardée désormais comme comprise dans l'objet exclusif des sociétés civiles de construction-vente régies par l'article 239 ter du code général des impôts. La solution figurant dans les instructions citées ci-dessus continue à s'appliquer pour les éléments ou appareils meubles qui, entrant dans son champ d'application, conservent un caractère mobilier une fois posés. Il en est ainsi des meubles autonomes de cuisine dont le scellement a pour seul but d'en assurer la stabilité et des appareils ménagers proprement dits qui, incorporés ou non, sont susceptibles d'être déplacés ou changés sans inconvénient.
