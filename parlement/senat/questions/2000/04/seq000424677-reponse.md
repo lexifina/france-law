@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000424677
+
+- Question : [SEQ000424677](seq000424677.md) — Dysfonctionnements de la bibliothèque Cujas
+
+## Réponse
+
+*Éducation, JO du 2000-07-13, page 2502*
+
+Réponse. - Si, en règle générale, les bibliothèques universitaires se sont sensiblement développées et modernisées à partir de 1989, à la suite de la remise du rapport Miquel, il est exact que la situation des plus anciennes bibliothèques du quartier latin (Cujas, Sorbonne, Sainte-Geneviève, Médecine) est globalement mauvaise pour des raisons qui tiennent principalement à la saturation, à la non-fonctionnalité, à la vétusté des locaux et à l'insuffisance du nombre de places de travail au centre de Paris. S'agissant plus particulièrement de la bibliothèque Cujas, qui a vocation à accueillir les enseignants et les étudiants avancés, des travaux de mise en sécurité, de désamiantage et de rénovation du hall et de la salle de lecture ont permis d'améliorer le confort des lecteurs. L'informatisation du catalogue permet en outre de multiplier les critères de recherche, d'obtenir des informations sur la disponibilité des documents et d'interroger la base à distance via Internet. Son service d'accès aux ressources électroniques juridiques est par ailleurs très sollicité. Il reste que le fonctionnement et la capacité d'acquisitions de cette bibliothèque, qui est effectivement la plus importante dans le domaine juridique, ne sont pas à la mesure des enjeux et souffrent de la comparaison avec plusieurs de ses homologues étrangères. C'est la raison pour laquelle le plan U3M porte une attention particulière à la situation de Paris centre (Quartier latin, Jussieu, ZAC Paris rive gauche) en prévoyant d'augmenter fortement le nombre de places de travail et d'engager la mise en sécurité, la modernisation et, dans la mesure du possible, l'extension des bibliothèques patrimoniales, et notamment de la bibliothèque Cujas.
