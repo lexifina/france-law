@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030306427
+
+- Question : [SEQ030306427](seq030306427.md) — Application de l'article L. 911-9 du code de la justice administrative
+
+## Réponse
+
+*Justice, JO du 2003-06-12, page 1919*
+
+Le jugement par lequel un tribunal administratif a prononcé la condamnation de l'Etat au paiement d'une somme d'argent dont ce jugement a fixé le montant est exécutoire dès sa notification. L'obligation d'exécuter n'est susceptible d'être suspendue ou annulée que par la juridiction d'appel compétente saisie de conclusions en ce sens. Elle demeure tant que la juridiction d'appel ne s'est pas prononcée. Si les dispositions combinées de l'article L. 911-9 du code de justice administrative et de l'article 1er de la loi n° 80-539 du 16 juillet 1980, auxquelles les premières renvoient, ne s'appliquent qu'aux jugements des tribunaux administratifs passés en force de chose jugée, elles ne sauraient être interprétées comme ayant pour objet ou pour effet de suspendre l'obligation d'exécution d'un jugement de tribunal administratif. L'ordonnancement de la dépense n'est pas subordonné à la condition que ce jugement ait acquis la force de chose jugée, ni à l'expiration d'un délai de deux mois à compter de la notification du jugement. La garantie d'exécution énoncée par les textes susmentionnés en faveur des justiciables bénéficiaires d'une décision juridictionnelle de condamnation d'une personne publique au paiement d'une somme d'argent dont la décision a fixé le montant n'est en revanche applicable que si le jugement produit par le créancier à l'appui de sa demande est passé en force de chose jugée. Aussi n'est-ce que dans cette hypothèse que le comptable assignataire de la dépense est tenu de procéder à la liquidation et au paiement à défaut d'ordonnancement dans le délai de deux mois à compter de la notification du jugement.
