@@ -1,0 +1,8 @@
+# Ville de Nancy : délibération IX-5 — Commissions d'appels d'offres – désignation des membres
+
+- Collectivité : Ville de Nancy
+- SIREN : 215403957
+- Code INSEE : 54395
+- Date : 2000-12-18
+- Objet : Commissions d'appels d'offres – désignation des membres
+- Jeu de données : https://www.data.gouv.fr/datasets/5d96e6f38b4c410e2b3803a1
