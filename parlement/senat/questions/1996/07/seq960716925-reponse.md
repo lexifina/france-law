@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960716925
+
+- Question : [SEQ960716925](seq960716925.md) — Mise en place d'un marché à terme international français (MATIF) pour le blé dur
+
+## Réponse
+
+*Agriculture, JO du 1996-10-10, page 2627*
+
+Réponse. - Le marché à terme (MAT) sur le blé tendre fonctionne depuis le 5 juillet 1996 à Paris. Il a été rendu possible par la levée, par le Parlement, de l'interdiction de la cotation des blés dans les bourses du commerce, en vigueur depuis la loi du 15 août 1936. Le marché à terme a pour but de couvrir les risques pris par les professionnels européens. Toutefois, il ne saurait être considéré comme un substitut à une organisation commune de marché. En premier lieu, il est peu probable qu'un instrument de cotation sur une seule céréale établi dans un Etat membre puisse remplacer les structures communautaires de gestion de la production de 190 millions de tonnes de céréales des quinze pays constituant l'Union européenne. En second lieu, il n'est en aucun cas dans les intentions du ministère de l'agriculture, de la pêche et de l'alimentation de laisser jouer au marché à terme sur le blé un rôle autre que celui qui est le sien, à savoir un indicateur de prix. Le mécanisme de l'intervention reste en place avec ses critères et son fonctionnement propres. Ce recours pour le producteur qui ne trouve pas preneur pour sa marchandise sera maintenu. Il est indispensable à la fois pour le revenu agricole comme la régularité d'approvisionnement du marché en contribuant à l'établissement de stocks régulateurs. Il convient de souligner d'ailleurs ici le rôle de revente des stocks d'intervention lorsque les prix atteignent des niveaux excessifs et les moyens extrêmes auxquels la commission a eu recours - les taxes à l'exportation - lorsque ces stocks sont venus à manquer.
