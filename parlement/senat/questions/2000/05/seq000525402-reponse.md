@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000525402
+
+- Question : [SEQ000525402](seq000525402.md) — Décalage entre missions des CHRS et moyens budgétaires
+
+## Réponse
+
+*Emploi, JO du 2000-09-21, page 3263*
+
+Réponse. - L'article 157 de la loi nº 98-657 du 29 juillet 1998 d'orientation relative à la lutte contre les exclusions crée les conditions nécessaires pour consolider et élargir les missions des centres d'hébergement et de réinsertion sociale (CHRS). Le décret en Conseil d'Etat précisant les conditions de fonctionnement et de financement des CHRS doit prochainement être signé. Ce décret a donné lieu à une large concertation avec les principaux réseaux associatifs représentatifs du secteur des CHRS. Par ailleurs, le décret nº 2000-502 du 7 juin 2000, pris en application de l'article L. 322-4-16-7 du code du travail (article 11 de la loi précitée), prévoit les conditions selon lesquelles les CHRS peuvent être conventionnés au titre de l'insertion par l'activité économique. Dès 1998, dans le cadre du programme triennal de prévention et de lutte contre les exclusions, le Gouvernement, conscient des difficultés que rencontrent un certain nombre de nos concitoyens, s'est attaché à développer l'offre d'hébergement et d'accompagnement vers l'insertion en créant chaque année un nombre important de places de CHRS. Ainsi 559 places ont été créées en 1998, 561 en 1999 et 570 en 2000, soit 1 690 places en trois ans, ce qui dépasse l'objectif de création de 1 500 places que s'était fixé le Gouvernemet. En outre, afin de tenir compte de la situation particulière de l'Ile-de-France, un plan pluriannuel de l'hébergement d'urgence (2000-2003) a été adopté avec affectation de crédits supplémentaires. Au-delà de ce plan propre à l'Ile-de-France, l'effort déjà réalisé sera poursuivi pour améliorer les conditions de prise en charge des personnes en grande difficulté sociale par les dispositifs d'accueil et d'insertion sur l'ensemble du territoire.
