@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010432644
+
+- Question : [SEQ010432644](seq010432644.md) — Aide publique au développement : dimension " coopération " renforcée dans les fonctions des ambassades
+
+## Réponse
+
+*Affaires étrangères, JO du 2001-09-06, page 2866*
+
+La réforme du dispositif français de coopération, entreprise en 1998 et mise en oeuvre dès le 1er janvier 1999, a notamment réaffirmé le rôle central des ambassadeurs et transformé les missions de coopération et d'action culturelle, en services au sein des ambassades (décret n° 98-1238 du 29 décembre 1998). Le mode de désignation des responsables de ces services a été modifié, facilitant ainsi l'intégration des équipes au sein du poste diplomatique. Pour les pays de la zone de solidarité prioritaire (ZSP), la dimension coopération au développement est l'une des composantes essentielles des fonctions des ambassades, cette priorité se traduisant explicitement dans les instructions données et dans le plan d'action des ambassades accrédités dans les pays de cette zone. Sur le terrain, les relations de coopération ne passant pas par les canaux institutionnels étatiques se sont considérablement développées ces dernières années, parfois sous la contrainte (pays en crise), le plus souvent par volonté politique. Ainsi, depuis 1994, le Fonds social de développement (FSD) est devenu un instrument d'intervention à la disposition des postes de la ZSP et permet d'intervenir en faveur de la société civile locale, sans passer par les structures de l'Etat. Les crédits FSD ont représenté un engagement de 118 MF en 2000, soit plus de 22 % des crédits bilatéraux attribués par le fonds de solidarité prioritaire. Pour l'année 2000, près de la moitié des projets attribués dans le cadre du fonds de solidarité prioritaire ont contribué directement au renforcement des sociétés civiles locales (appui aux organisations professionnelles, structuration du milieu rural, etc.).
