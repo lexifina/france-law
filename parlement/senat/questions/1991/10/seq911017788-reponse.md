@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911017788
+
+- Question : [SEQ911017788](seq911017788.md) — Restauration de monuments historiques
+
+## Réponse
+
+*Culture, JO du 1991-12-19, page 2851*
+
+Réponse. - La protection et la restauration du patrimoine monumental en milieu rural constituent l'une des priorités du ministère de la culture et de la communication. L'effort du ministère de la culture pour le patrimoine situé en milieu rural peut être estimé en 1991 à près de 500 M.F. Il est précisé à l'honorable parlementaire que, depuis 1985, le ministre de la culture et de la communication incite régulièrement les préfets de région, chargés de programmer les crédits de restauration des monuments historiques n'appartenant pas à l'Etat, à moduler les aides de l'Etat en fonction des possibilités contributives des communes. Le taux de participation de l'Etat aux travaux de réhabilitation d'une église classée peut ainsi atteindre 80 p. 100, ce qui permet grâce aux subventions des conseils généraux, éventuellement régionaux, de réduire de façon considérable la part incombant à la commune. Cette modulation est généralement appliquée en matière de travaux sur les monuments inscrits, les communes dont les disponibilités financières sont limitées pouvant bénéficier du taux de participation maximum fixé par la législation de 1913. Ce taux maximum est fixé à 40 p. 100 du coût de la dépense subventionnable. Enfin, pour les propriétaires, notamment les communes rurales qui ne souhaitent pas assurer la maîtrise d'ouvrage des opérations de restauration sur les édifices classés au titre des monuments historiques, l'Etat prend en charge cette responsabilité. Ceci a pour conséquence d'éviter au propriétaire d'avancer la totalité des fonds nécessaires à la réalisation de cette opération ; celui-ci procède alors seulement au remboursement de sa quote-part sous forme de fonds de concours établis au profit de l'Etat.
