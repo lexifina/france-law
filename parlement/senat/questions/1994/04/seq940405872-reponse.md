@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940405872
+
+- Question : [SEQ940405872](seq940405872.md) — Bénéfice de l'allocation compensatrice pour tierce personne
+
+## Réponse
+
+*Affaires sociales, JO du 1994-09-01, page 2132*
+
+Réponse. - L'honorable parlementaire appelle l'attention sur les termes de l'article 59 de la loi no 94-43 du 18 janvier 1994 relative à la santé publique et à la protection sociale selon lesquels " le service de l'allocation compensatrice peut être suspendu ou interrompu lorsqu'il est établi, dans des conditions déterminées par décret en Conseil d'Etat, que son bénéficiaire ne reçoit pas l'aide effective d'une tierce personne pour accomplir les actes essentiels de l'existence ". L'aide de la tierce personne ne doit pas être conçue exclusivement comme l'aide requise pour effectuer les actes essentiels de l'existence, encore que celle-ci en soit l'illustration la plus fréquente. Elle doit être appréciée, de façon plus large, comme toute aide de proximité et d'accompagnement fournie dans le cadre de la vie quotidienne. En ce sens, on considère que les personnes handicapées mentales qui nécessitent d'être dirigées en permanence sont en droit de prétendre à l'allocation compensatrice, afin de pouvoir rétribuer l'aide qui leur est ainsi accordée. Dans ce contexte, l'article 59 de la loi 94-43 du 18 janvier 1994 n'a pas entendu remettre en cause les fondements, et donc les cas d'ouverture, de la prestation. C'est pourquoi le décret d'application aura pour vocation essentielle d'organiser les modalités pratiques de sa suspension ou de son interruption, notamment en prévoyant des procédures et des délais protecteurs de la personne handicapée, ainsi qu'une intervention de la Commission technique d'orientation et de reclassement professionnel (COTOREP), seule habilitée à se prononcer sur son attribution.
