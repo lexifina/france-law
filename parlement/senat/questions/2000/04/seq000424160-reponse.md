@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000424160
+
+- Question : [SEQ000424160](seq000424160.md) — Contrôle de qualification des entreprises
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2000-07-06, page 2406*
+
+Réponse. - L'article 16 de la loi nº 96-603 du 5 juillet 1996, relative au développement et à la promotion du commerce et de l'artisanat, ne subordonne aucunement la création d'une entreprise, dans les secteurs définis par le législateur, notamment le bâtiment, à un niveau de qualification professionnelle du chef d'entreprise. En revanche, l'exercice d'une telle activité par une entreprise, quels que soient la taille et son statut, et à quelque moment que ce soit, ne peut s'effectuer que sous le contrôle effectif et permanent d'une personne qualifiée, chef d'entreprise ou salarié. Le contrôle de ces dispositions a été confié, exclusivement, aux officiers et agents de police judiciaire et aux agents de la direction générale de la concurrence, de la consommation et de la répression des frudes (DGCCRF) par l'article 24 de la loi. Les conditions de la qualification obligatoire ont été fixées par le décret nº 98-246 du 2 avril 1998, après avis du conseil de la concurrence, de la commission de la sécurité des consommateurs, des assemblées consulaires et des organisations professionnelles. Il est ainsi exigé, soit un diplôme ou titre homologué de niveau égal ou supérieur au certificat d'aptitude professionnelle, soit une expérience de trois ans.Les chambres de métiers qui tiennent le répertoire des métiers et assurent l'immatriculation des entreprises n'ont pas de pouvoir en matière de contrôle de la qualification professionnelle des entreprises artisanales. Elles ont, en revanche, un devoir d'information et de conseil. Il appartient aux seuls services de contrôle définis par la loi de veiller à l'application de ces dispositions. La DGCCRF a été invitée à une grande vigilance en cette matière.
