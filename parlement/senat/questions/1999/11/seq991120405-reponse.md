@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991120405
+
+- Question : [SEQ991120405](seq991120405.md) — Création d'un bureau des droits de l'homme au ministère des affaires étrangères
+
+## Réponse
+
+*Affaires étrangères, JO du 2000-01-20, page 191*
+
+Réponse. - Le dossier des droits de l'homme est suivi avec beaucoup d'attention au ministère des affaires étrangères où il est abordé sous ses différences facettes : suivi de la situation dans chaque pays, suivi des mécanismes des Nations unies (en particulier Commission des droits de l'homme), traitement des aspects juridiques en relation avec les organes compétents (cour des droits de l'homme, comités conventionnels), relations avec les ONG, relations avec la Commission nationale consultative des droits de l'homme, coopération technique bilatérale et communautaire. Plusieurs services sont compétents pour traiter de ces questions, souvent complexes, sur les plans politique et juridique. La sous-direction des droits de l'homme et des questions sociales (direction des Nations unies) anime la réflexion sur la politique en matière de droits de l'homme et assure l'interface avec la Commission nationale consultative des droits de l'homme. Les autres services concernés sont la direction juridique (sous-direction des droits de l'homme), la direction générale de la coopération internationale et du développement (bureau de l'Etat de droit), ainsi que les différentes directions géographiques qui suivent, en liaison avec nos ambassades, l'évolution de la situation des droits de l'homme sur le terrain. Cette organisation permet au ministère des affaires étrangères d'intégrer la dimension des droits de l'homme dans chacun des volets de la politique étrangère. Enfin, le ministre des affaires étrangères dispose au sein de son cabinet d'un conseiller technique chargé de ces questions.
