@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931003352
+
+- Question : [SEQ931003352](seq931003352.md) — Distributeurs de jeux automatiques
+
+## Réponse
+
+*Intérieur, JO du 1993-12-16, page 2417*
+
+Réponse. - Les fabricants et exploitants des jeux dits d'amusement de type flipper et jeux vidéo ont fait part au ministre d'Etat, ministre de l'intérieur et de l'aménagement du territoire, de leurs vives inquiétudes concernant la prolifération, dans les débits de boissons, d'appareils de jeux dits " distributeurs de confiserie " dont le fonctionnement repose sur le hasard. Bien que ces appareils de jeu revêtent souvent l'apparence des machines à sous, ils sont essentiellement différents des machines autorisées dans les seuls casinos. Par dérogation au principe de prohibition posé par la loi du 12 juillet 1983, la loi no 86-1019 du 9 septembre 1986 et le décret no 87-264 du 13 avril 1987 ont autorisé l'exploitation des " distributeurs de confiserie " qui offrent, par une mise unitaire de dix francs maximum, des lots en nature d'une valeur qui ne peut excéder trois cents francs, à l'exclusion de tout gain en numéraire. Ces appareils, du fait de l'attirance certaine du public pour les jeux de hasard, peuvent effectivement concurrencer fortement les appareils de jeu dont le fonctionnement repose sur l'adresse des joueurs. L'exploitation irrégulière des distributeurs de confiserie, parfois transformés en véritables machines à sous par trucage mécanique ou convention de jeu, contribue aussi au mécontentement légitime des professionnels qui respectent la réglementation. L'administration est informée de ces pratiques de détournement de la loi. Les contrôles se sont renforcés et affinés et des procédures judiciaires ont été engagées. Parallèlement, les services concernés procèdent à une nouvelle étude de la réglementation en vigueur dans la perspective d'un assainissement de cette situation.
