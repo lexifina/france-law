@@ -10,7 +10,7 @@ Le champ d'application de la convention collective, conformément à la nomencla
 
 - l'ingénierie (études portant sur un programme complet, assorties de la maîtrise d'oeuvre).
 
-Il comprend aussi les activités de contrôle et de vérifications techniques(1). Il ne comprend pas les activités marchandes de recherche.
+Il comprend aussi les activités de contrôle et de vérifications techniques (1). Il ne comprend pas les activités marchandes de recherche.
 
 Il correspond à l'ancien groupe de la nomenclature I.N.S.E.E. 802-2, édition 1-131-1959.
 
@@ -26,7 +26,7 @@ Il correspond à l'ancien groupe de la nomenclature I.N.S.E.E. 802-2, édition 1
 
 7704 Travaux à façon informatique : ce groupe comprend notamment la réalisation de travaux informatiques pour des tiers, en utilisant les programmes fournis ou exceptionnellement des programmes standard.
 
-Cependant, lorsque les entreprises visées au code APE ci-dessus ont aussi une activité de fabrication, les règles de la clause d'attribution suivante s'appliqueront :
+Cependant, lorsque les entreprises visées aux codes APE ci-dessus ont aussi une activité de fabrication, les règles de la clause d'attribution suivante s'appliqueront :
 
 1. Sont soumis à la présente convention les entreprises dont le personnel concourant aux études, y compris le personnel administratif, représente au moins 80 p. 100 de l'effectif total.
 
@@ -37,6 +37,12 @@ Cette option sera portée à la connaissance du personnel dans un délai de troi
 3. Lorsque le personnel concourant aux études au sens indiqué ci-dessus représente moins de 20 p. 100, le paragraphe 2 ne s'applique pas.
 
 Toutefois, les entreprises visées aux paragraphes 1 et 3 ci-dessus pourront continuer d'appliquer la convention collective qu'elles appliquaient à la date du présent texte.
+
+7707 cabinets de conseils en information et documentation : ce groupe comprend :
+
+- conseils en relations publiques, y compris organisation de congrès ;
+
+- documentation : collecte et classification d'informations de toutes natures : technique, économique, etc, avec éventuellement, publication de fiches ou de revues .
 
 La présente convention ne fait pas obstacle à la conclusion d'accords particuliers ou d'accords d'entreprises.
 
