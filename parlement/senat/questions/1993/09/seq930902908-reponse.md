@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930902908
+
+- Question : [SEQ930902908](seq930902908.md) — Effectifs des médecins scolaires
+
+## Réponse
+
+*Éducation, JO du 1993-12-23, page 2470*
+
+Réponse. - Le rattachement en 1991 de la médecine scolaire au ministère de l'éducation nationale n'a pas permis de combler l'ensemble du retard pris au cours des décennies passées. Certes, un effort déjà significatif a été engagé par le ministère de l'éducation nationale ; ainsi, entre 1990 et 1993, le taux d'encadrement est passé d'un médecin pour 8 700 élèves à un médecin pour 7 300 élèves. Ce renforcement des moyens mis à la disposition de la santé scolaire sera poursuivi en 1994, le projet de budget prévoyant la création de soixante-cinq emplois supplémentaires, dont quarante-cinq emplois d'infirmières d'établissement. Il demeure que, compte tenu de l'ampleur des besoins et du caractère encore insuffisant de l'offre de santé scolaire dans les établissements, de nouvelles solutions sont à rechercher. Davantage que dans le recrutement de quantités massives de nouveaux fonctionnaires, la solution réside dans l'utilisation des moyens dont disposent les différents réseaux sociaux et éducatifs. Le ministère de l'éducation nationale, avec l'aval des autres ministères concernés, a engagé une réflexion pour aboutir rapidement à un meilleur partenariat impliquant l'ensemble des acteurs de la santé scolaire : collectivités territoriales, services de la protection maternelle infantile, caisses de sécurité sociale. En complément de l'effort engagé pour augmenter le nombre de médecins et d'infirmières de l'éducation nationale, les acteurs extérieurs à l'éducation nationale devraient pouvoir, selon des modalités qui seront définies prochainement, renforcer sensiblement les actions de prévention dans les établissements scolaires.
