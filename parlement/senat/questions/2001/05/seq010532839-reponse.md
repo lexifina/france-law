@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010532839
+
+- Question : [SEQ010532839](seq010532839.md) — Situation des entreprises de l'artisanat rural travaillant avec le secteur agricole
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2001-07-05, page 2256*
+
+Le Gouvernement a décidé de mettre en oeuvre un plan destiné à aider les exploitants et les entreprises des filières bovine et avicole en difficulté à retrouver le plus rapidement possible une situation normale. Le ministre de l'économie, des finances et de l'industrie a donné des instructions précises à la direction de la comptabilité publique et à la direction générale des impôts afin que leurs services déconcentrés examinent avec bienveillance les délais de paiement qui pourraient être sollicités par les exploitants et les entreprises de ce secteur qui justifieront de difficultés particulières pour acquitter leurs impôts, lorsqu'ils sont à jour de leurs obligations déclaratives. Il n'est cependant pas envisagé d'étendre cette disposition aux entreprises artisanales travaillant avec le secteur agricole dans la mesure où la crise ne concerne pas l'ensemble du secteur, et que des facilités ont été données aux exploitants agricoles concernés afin de surmonter leurs difficultés actuelles de trésorerie, ce qui a dû limiter l'impact négatif de la crise sévère qui touche la filière viande depuis quelques années. Par ailleurs, si les conditions météorologiques ont pesé sur l'activité agricole, les besoins de matériels et de réparations vont être certainement importants. Enfin, la crise sévère qui a touché la filière viande a débuté il y a déjà qualques années et le secteur des distributeurs, réparateurs et installateurs de matériels agricoles a pu s'adapter à la nouvelle donne économique. Pour ces raisons, il n'est pas envisagé à ce stade de prendre des mesures spécifiques à ce secteur.
