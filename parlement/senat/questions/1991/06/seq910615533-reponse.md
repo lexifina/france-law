@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910615533
+
+- Question : [SEQ910615533](seq910615533.md) — Position de la France concernant les propositions de construction de l'Europe sociale
+
+## Réponse
+
+*Affaires européennes, JO du 1991-09-12, page 1946*
+
+Réponse. - Au cours des trente dernières années d'application du traité de Rome, la politique sociale de la communauté n'a pas toujours été considérée comme prioritaire par rapport aux objectifs économiques poursuivis par les Etats membres de la communauté. Les choses ont changé depuis une dizaine d'années, notamment à l'initiative de la France. La prise en compte croissante de la dimension sociale du marché intérieur répond à une double préoccupation : l'Europe sociale constitue une composante fondamentale de l'Europe des citoyens : l'Europe de la libre circulation des marchandises, des capitaux et des services ne saurait en effet se développer sans tenir compte de sa dimension sociale ; la réalisation du grand marché intérieur implique un minimum d'harmonisation sociale pour éviter la renaissance d'entraves à la libre circulation (tirées notamment du droit du travail) et le risque du " dumping social " que provoquerait le maintien, dans certains pays, de conditions de travail et d'emploi très inférieures à ce qui se pratique dans les pays plus développés du Nord. La charte sociale des droits sociaux fondamentaux adoptée sous présidence française à Strasbourg en 1989 vise à répondre à ces préoccupations. Il est vrai cependant que nombre des mesures d'application du programme d'action de cette charte rencontrent des difficultés d'adoption, du fait de l'exigence d'unanimité qui prévaut au sein du conseil pour de nombreux secteurs de la politique sociale. La France, pour cette raison, a proposé, au sein de la conférence intergouvernementale sur l'union politique, une extension du recours à la majorité qualifiée dans le domaine social.
