@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980206276
+
+- Question : [SEQ980206276](seq980206276.md) — Marchés publics concernant le traitement des ordures ménagères
+
+## Réponse
+
+*Aménagement du territoire, JO du 1998-07-30, page 2452*
+
+Réponse. - Mme la ministre de l'aménagement du territoire et de l'envrionnement a pris connaissance, avec intérêt, de la question concernant l'adéquation des plans départementaux d'élimination des déchets ménagers et assimilés et des règles du code des marchés publics. Il faut noter qu'il n'y a pas de contradiction entre le code des marchés publics et l'établissement de plans départementaux. Dans tous les cas, ce code doit être mis en uvre, et le cas échéant une consultation, à l'échelle européenne, peut être nécessaire au-delà d'un certain montant d'investissements. D'autre part, la loi du 13 juillet 1992 dispose en son article 10-2 que chaque département doit être couvert par un plan départemental ou interdépartemental d'élimination des déchets ménagers et assimilés. Il est précisé que le plan tient compte des besoins et des capacités des zones voisines hors de son périmètre d'application et des propositions de coopération intercommunale. Dans la pratique, on constate que de nombreux plans prévoient des transferts de déchets d'un département à l'autre, au gré des choix des collectivités qui ont participé à l'élaboration de ces documents. Un des objectifs de la loi du 13 juillet 1992 est de remettre de l'ordre dans la gestion des déchets ménagers, notamment en imposant une gestion transparente et respectueuse de l'environnement, en appliquant la législation en vigueur aux installations de traitement de déchets, en résorbant les décharges brutes. Une circulaire sur les plans départementaux a été rendue publique le 28 avril dernier. Elle précise le cadre dans lequel les plans doivent être élaborés, mis en uvre et révisés.
