@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981111891
+
+- Question : [SEQ981111891](seq981111891.md) — Politique forestière
+
+## Réponse
+
+*Agriculture, JO du 1999-01-28, page 269*
+
+Réponse. - Le versement compensateur est la subvention du budget général, prévu par l'article L. 123-1 du code forestier, qui finance l'écart entre le coût de mise en uvre du régime forestier par l'ONF et le montant des frais de garderie versés par les communes dont les forêts sont soumises au régime forestier. Depuis 1996, le montant du versement compensateur, proposé par le Gouvernement et voté par le Parlement, ne permet plus à l'Office national des forêts d'équilibrer son budget de mise en uvre du régime forestier. Cette situation anormale conduit l'Office national des forêts à équilibrer ses comptes depuis 1996 en prélevant sur sa provision pour variation de conjoncture du marché du bois. A la demande du ministre de l'économie, des finances et de l'industrie, l'inspection générale des finances réalise un audit de l'Office national des forêts, afin d'aider le Gouvernement à arrêter les dispositions nécessaires. La loi de finances pour 1999 a fixé le versement compensateur à 875 MF, en hausse de 28 MF sur la loi de finances pour 1998. Par ailleurs, un contrat d'objectif pluriannuel, signé entre l'Etat et l'Office national des forêts avant la fin du premier trimestre 1999, fixera les priorités de l'Etat et les grandes orientations de la politique économique, écologique et sociale de la gestion des forêts publiques. Le projet stratégique de l'office servira de base à la négociation de ce contrat. Dans ce cadre, une attention particulière sera portée au réexamen du montant du versement compensateur dès le budget de l'an 2000, en intégrant l'ensemble des analyses en cours, en concertation entre l'Etat, l'Office national des forêts et les communes forestières. Les moyens nécessaires au développement de la mobilisation supplémentaire de bois en forêt communale seront alors définis.
