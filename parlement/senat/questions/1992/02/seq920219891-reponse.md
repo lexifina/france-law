@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920219891
+
+- Question : [SEQ920219891](seq920219891.md) — Statut des agents municipaux chargés de la sécurité des communes
+
+## Réponse
+
+*Intérieur, JO du 1992-10-15, page 2355*
+
+Réponse. - Au terme d'une large concertation avec les représentants des associations de maires et des principales organisations professionnelles, trente-deux propositions susceptibles de constituer un statut rénové des agents municipaux ont été faites, lors de l'étude réalisée en 1991 par le préfet Clauzel. Outre des dispositions pour le déroulement et la valorisation des carrières, cette étude envisage de leur confier certaines fonctions de police judiciaire clairement définies. Parmi ces attributions, figure la possibilité de constater par procès-verbaux les infractions aux arrêtés de police du maire, aussi bien ceux pris dans le cadre de la police générale que des nombreuses polices spéciales relevant de sa compétence, de même que la plupart des contraventions au code de la route et les infractions aux règlements de police touchant au bon ordre dans la commune. Ces propositions, qui traitent également des aspects touchant à la formation et aux principes déontologiques guidant l'exercice des activités de policiers municipaux, vont dans le sens d'un élargissement de leur domaine de responsabilité et assurent, à ce titre, une indispensable complémentarité entre leurs missions et celles des fonctionnaires de la police d'Etat. Elles ne constituent toutefois que l'un des éléments de réflexion à partir desquels un projet de loi pourra être élaboré. S'agissant des règles statutaires applicables aux agents de la police municipale, il sera prochainement engagé une concertation avec les organisations représentatives de cette catégorie de personnel ainsi qu'avec les associations d'élus locaux en vue d'en définir les dispositions réglementaires.
