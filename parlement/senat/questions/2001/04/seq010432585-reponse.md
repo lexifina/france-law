@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010432585
+
+- Question : [SEQ010432585](seq010432585.md) — Coopération spatiale franco-italienne : mise en place d'un système d'observation de la terre multicapteur à vocation civile et militaire
+
+## Réponse
+
+*Recherche, JO du 2001-05-31, page 1858*
+
+Réponse. - L'accord intergouvernemental entre la France et l'Italie qui met en place la coopération franco-italienne sur le système dual (civil et militaire) d'observation de la Terre à haute résolution optique et radar a été signé le 29 janvier 2001 à Turin par les premiers ministres italien et français. Il s'agit maintenant de ratifier l'accord et de le mettre en uvre. Le CNES s'y prépare avec l'Agence spatiale italienne (ASI) en relation avec les ministères de la recherche et de la défense des deux pays. Ce futur programme doit comprendre plusieurs types de satellites avec des capteurs multiples, répondant aux besoins scientifiques et des applications, notamment celles qui concernent l'environnement et la sécurité. Il est destiné à répondre aux besoins de la société civile, aux utilisateurs institutionnels ainsi qu'à un besoin de souveraineté, et doit être compatible avec une activité commerciale. La réalisation du système doit être accompagnée d'une politique de diffusion des données qui permette un très large accès à l'imagerie d'origine spatiale dans l'ensemble des secteurs concernés de la société (science, agriculture et géographie), de façon à favoriser le développement de cette technologie et de ses applications à valeur ajoutée. La composante spatiale optique doit être réalisée par la France, la composante spatiale radar par l'Italie et le segment sol doit être réalisé en commun, la coopération étant ouverte à d'autres pays européens et notamment aux partenaires actuels de SPOT que sont la Belgique et la Suède.
