@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920822618
+
+- Question : [SEQ920822618](seq920822618.md) — Réglementation concernant la distillation des excédents de vin
+
+## Réponse
+
+*Agriculture, JO du 1992-10-29, page 2431*
+
+Réponse. - La distillation des excédents de vin, issus de cépages classés simultanément comme variétés à raisin de cuve et comme variétés destinées à l'élaboration d'eau-de-vie, au-delà des quantités normalement vinifiées est régie par : - l'article 36 du règlement (CEE) n° 822-87 portant organisation commune du marché viti-vinicole ; - les titres II et IV du règlement (CEE) n° 3105-88 établissant les modalités d'application des distillations obligatoires visées aux articles 35 et 36 du règlement (CEE) n° 822-87. Ces règlements prévoient que la distillation directe des quantités excédant la quantité normalement vinifiée ne peut aboutir qu'à un alcool titrant au moins 92°. Par contre, ces quantités produites en excédent peuvent également être transformées en vins vinés qui, conformément à l'article 67, du paragraphe 6, alinéa 3 du règlement (CEE) n° 822-87 et à l'article 25 du règlement (CEE) n° 2046-89 établissant les règles générales relatives à la distillation des vins et sous-produits de la vinification, ne peuvent qu'être distillés pour obtenir de l'eau-de-vie. Le ministre de l'agriculture et de la forêt est conscient que ces dispositions peuvent, surtout en cas de récoltes très abondantes, entraîner l'élaboration de produits pouvant concurrencer le cognac. Aussi est-il décidé, en accord avec les professionnels, à demander une modification de la règlementation communautaire lors des discussions préalables à la prochaine réforme de l'organisation commune du marché viti-vinicole : il défendra la distillation des quantités excédant la quantité normalement vinifiée à 96° minimum et l'interdiction de les transformer en vin vinés, ceux-ci ne devant être élaborés qu'avec des vins produits à l'intérieur de la quantité normalement vinifiée.
