@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000222585
+
+- Question : [SEQ000222585](seq000222585.md) — Organisation de l'audience du 25 janvier 2000 au palais de justice de Bobigny
+
+## Réponse
+
+*Justice, JO du 2000-08-03, page 2741*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que les dysfonctionnements qui se sont révélés au tribunal de grande instance de Bobigny, le 25 janvier 2000, ne permettant pas la tenue normale de l'audience consacrée au contentieux né de l'application de l'ordonnance du 2 novembre 1945 modifiée, relative à la prolongation du placement des étrangers dans des locaux ne relevant pas de l'administration pénitentiaire et à la prolongation du maintien des étrangers, non admis sur le territoire français, en zone d'attente, sont à situer dans le contexte d'une évolution importante de ce contentieux qui a doublé en 1999 par rapport à 1998, passant respectivement de 2 905 décisions rendues en 1998 à 5 305 décisions rendues en 1999. Cette augmentation rapide a généré, en ce qui concerne la justice, des difficultés d'adaptation tant en termes d'organisation que d'effectifs de magistrats, de fonctionnaires et de locaux. Une salle d'audience supplémentaire et une salle d'attente vont être aménagées. Les crédits nécessaires seront engagés pour un montant de 1 million de francs et les travaux devraient être achevés le 15 juillet 2000. Une analyse des besoins en effectif est en cours afin de déterminer les besoins réels de renforcement de la juridiction. Enfin, une étude sera menée avec toutes les parties concernées, du cheminement d'un dossier depuis l'arrivée des étrangers à l'aéroport jusqu'à l'audience au tribunal, afin de déterminer les améliorations susceptibles d'être apportées à l'organisation de ce contentieux. Les chefs de la cour d'appel de Paris sont pleinement engagés dans la recherche des solutions satisfaisantes.
