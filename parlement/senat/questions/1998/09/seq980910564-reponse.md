@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980910564
+
+- Question : [SEQ980910564](seq980910564.md) — Situation du Tibet en Asie
+
+## Réponse
+
+*Affaires étrangères, JO du 1998-12-10, page 3943*
+
+Réponse. - L'honorable parlementaire a bien voulu attirer l'attention du ministre sur la réponse faite à sa précédente question écrite nº 8793, en date du 4 juin dernier. Comme le sait l'honorable parlementaire, le Dalaï Lama avait présenté de façon complète ses idées lors de sa visite au Parlement de Strasbourg en juin 1988. Après avoir indiqué que " le Tibet pouvait devenir une entité autonome en association avec la République populaire de Chine ", il déclarait que le " Gouvernement de la Répuplique populaire de Chine pourrait demeurer responsable pour la politique étrangère du Tibet ". Le Dalaï Lama a très récemment commenté cette déclaration devant un journaliste américain en déclarant : " J'ai dit clairement que je ne cherchais pas l'indépendance pour le Tibet ; je cherche une véritable autonomie, et ceci reconnaît indirectement la souveraineté chinoise " (repris dans la revue mensuelle Tibet Press Watch d'août 1998). A d'autres occasions, le Dalaï Lama a souligné les avantages pour le Tibet à être lié avec la Chine, notamment lors de sa visite en Autriche en juin dernier. Ainsi, il semble au Gouvernement français que les prises de position répétées du Dalaï Lama en faveur d'une formule d'autonomie indiquent qu'aux yeux du chef spirituel tibétain la base du dialogue avec les autorités chinoises se conçoit à partir de l'hypothèse d'un Tibet appartenant à la Répuplique populaire de Chine. Pour sa part, le Gouvernement français en appelle au dialogue entre les autorités chinoises et le Dalaï Lama. Le Premier ministre a, lors de sa visite en Chine du 24 au 26 septembre, souligné auprès de ses interlocuteurs l'importance que nous attachons à un tel dialogue.
