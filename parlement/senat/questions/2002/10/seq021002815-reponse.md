@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021002815
+
+- Question : [SEQ021002815](seq021002815.md) — Prix des timbres
+
+## Réponse
+
+*Industrie, JO du 2002-11-07, page 2654*
+
+Dans le cadre de la loi du 2 juillet 1990, La Poste doit accorder une attention toute particulière à sa présence territoriale afin d'assurer un service public de qualité accessible à tous. Des orientations ont été définies dans le contrat de plan de La Poste, pour préciser les conditions d'évolution et d'amélioration du service postal, tant en zone rurale qu'en zone urbaine, notamment dans les quartiers en difficulté. Ces orientations ont fait l'objet d'une large concertation, en particulier avec les représentants des maires et des élus locaux. Le réseau des points de contact de La Poste participe de façon importante à l'aménagement du territoire et deux règles président à son évolution. En premier lieu, toute évolution de la présence postale territoriale doit être précédée d'une concertation dont les outils ont été mis en place au niveau local. En second lieu, toute évolution de la présence postale territoriale doit se faire au bénéfice des usagers des services postaux, soit en leur proposant de nouveaux services, en mettant à leur disposition des services de substitution ou bien en améliorant les services déjà rendus. Concernant les évolutions tarifaires importantes, elles sont, conformément à la loi du 2 juillet 1990, du ressort du contrat de plan de La Poste qui " détermine le cadre financier global de La Poste, en particulier dans le domaine des tarifs ". Les questions tarifaires seront un sujet important du futur contrat de plan. Elles seront traitées dans une perspective dynamique, tournée vers l'avenir. L'évolution à inscrire dans ce contrat devra permettre à La Poste de poursuivre sa modernisation et de s'adapter au contexte d'un marché plus ouvert, où le consommateur est plus exigeant.
