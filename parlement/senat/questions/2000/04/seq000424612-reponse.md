@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000424612
+
+- Question : [SEQ000424612](seq000424612.md) — Recours aux services des consultants juridiques et commerciaux performants dans les pays émergents par les entreprises régionales d'envergure mondiale (EREM)
+
+## Réponse
+
+*Économie, JO du 2000-07-27, page 2654*
+
+Réponse. - L'activité d'appui commercial aux entreprises conduite par le réseau de la direction des relations économiques extérieures (DREE) a été de longue date orientée de façon à ne pas faire obstacle à l'activité privée de conseil à l'exportation ou à l'implantation à l'étranger. La facturation de certaines prestations des postes d'expansion économique (PEE) introduite en 1990 avait été en partie adoptée pour sortir d'une logique de gratuité qui pénalisait les autres acteurs et notamment les consultants opérant souvent directement à partir des principaux marchés visés par les entreprises. Le développement de consultants juridiques et commerciaux performants dans les pays émergents a été encouragé par le référencement au sein des PEE des professionnels de ces secteurs et notamment les consultants liés directement ou indirectement à la France et l'orientation systématique des entreprises cherchant à s'implanter vers les spécialistes (juristes, fiscalistes, logisticiens, publicitaires, agents commerciaux). Les PEE dans les principaux pays émergents, notamment en Asie, ont été dotés de secteurs spécialisés dans les services, en complément des secteurs plus traditionnels des biens d'équipement et des biens de consommation. L'activité de ces agents en approfondissant les questions d'accès au marché a permis d'appuyer l'implantation ou le développement d'une offre locale de consultance d'origine française. Compte tenu de la faiblesse constatée de notre offre de services dans ce secteur, cette politique d'encouragement mérite d'être poursuivie sur le long terme.
