@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960214029
+
+- Question : [SEQ960214029](seq960214029.md) — Opération de " désamiantage " des bâtiments publics
+
+## Réponse
+
+*Travail, JO du 1996-05-30, page 1340*
+
+Réponse. - L'honorable parlementaire attire l'attention de M. le ministre du travail et des affaires sociales sur l'importance qui doit être accordée aux opérations de désamiantage des bâtiments publics. Conscient des risques présentés par ce type d'opérations, le Gouvernement a pris une série de mesures réglementaires et soutenu l'initiative des acteurs du bâtiment qui ont souhaité s'organiser pour délivrer une qualification propre à l'amiante. Le décret n° 96-98 du 7 février 1996 précise, dans la section II du chapitre III, les dispositions spécifiques à ce type d'activités (retrait et confinement de l'amiante ou de matériaux en contenant). L'une d'entre elles exige que l'entreprise intervenant pour ces travaux dépose auprès de l'inspection du travail, un mois avant le début desdits travaux, un plan précisant notamment les caractéristiques des équipements de protection. Par ailleurs, le décret prévoit un arrêté qui définira très prochainement les règles techniques que devront respecter les entreprises. De plus, une mesure législative a étendu le pouvoir des inspecteurs afin de leur donner la possibilité d'arrêter les chantiers de retrait et de confinement d'amiante dès lors qu'ils ne comportent pas les moyens de protection indispensables. Enfin, l'ensemble des acteurs du bâtiment s'est doté d'un organisme de qualification (Qualibat) qui délivrera très prochainement une qualification propre à l'amiante aux entreprises présentant toutes les garanties nécessaires pour effectuer des travaux de retrait et de confinement d'amiante. Cette procédure, à l'initiative des acteurs du bâtiment, est une première étape préalable à la mise en place d'un système d'accréditation des entreprises.
