@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861002906
+
+- Question : [SEQ861002906](seq861002906.md) — Bénéficiaires de la dispense du certificat d'aptitude à la profession d'avocat
+
+## Réponse
+
+*Justice, JO du 1986-11-27, page 1664*
+
+Réponse. -L'article 50-III de la loi n° 71-1130 du 31 décembre 1971 qui permet notamment aux conseils juridiques titulaires de la licence ou du doctorat en droit et justifiant de cinq années de pratique professionnelle d'être dispensés du certificat d'aptitude à la profession d'avocat et du stage en vue de leur inscription au tableau d'un barreau est une disposition à caractère transitoire puisqu'elle ne vise que les personnes remplissant ces conditions au 31 décembre 1972, avec toutefois la possibilité de compléter le temps d'exercice professionnel postérieurement à cette date (art. 50-IV). La dispense du certificat d'aptitude à la profession d'avocat et du stage dont bénéficient les anciens conseils juridiques résulte, à titre permanent, de l'article 44-1 du décret n° 72-469 du 9 juin 1972 pris en application de l'article 53 (1°) de la loi précitée du 31 décembre 1971, tel que modifié par le décret n° 85-1123 du 22 octobre 1985. Ce texte exige notamment que l'ancien conseil juridique ait exercé ses fonctions pendant cinq ans au moins, c'est-à-dire qu'il ait été inscrit pendant cette durée sue la liste des conseils juridiques prévue à l'article 54 de la loi précitée du 31 décembre 1971. Or, aux termes du second alinéa de l'article 58 de la même loi, le conseil juridique exerce sa profession soit à titre individuel ou en groupe, soit en qualité de collaborateur d'un autre conseil juridique personne physique ou morale. Il s'ensuit que l'inscription sur une liste de conseils juridiques est incompatible avec tout autre emploi salarié, et qu'un conseil juridique ne peut en conséquence exercer sa profession en tant que collaborateur salarié d'un avocat.
