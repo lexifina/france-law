@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941209222
+
+- Question : [SEQ941209222](seq941209222.md) — Déductibilité du salaire du conjoint dans une entreprise artisanale
+
+## Réponse
+
+*Entreprises, JO du 1995-02-23, page 448*
+
+Réponse. - La loi du 11 février 1994 sur l'initiative et l'entreprise individuelle comporte un certain nombre de mesures en faveur des conjoints exerçant dans l'entreprise familiale. L'article 22 de la loi a porté de 24 à 36 fois le SMIC brut mensuel les limites de déductibilité de l'impôt sur le revenu du salaire du conjoint (charges comprises) de l'entrepreneur individuel adhérent d'un centre ou d'une association agréés, le montant déductible du non-adhérent restant fixé à 17 000 F. La majoration de l'abattement en faveur des entreprises ayant adhéré à ces structures constitue un encouragement à ce mode de gestion comptable. Par ailleurs, la déductibilité du salaire du conjoint est intégrale lorsque les époux sont mariés sous un régime de séparation de biens, même si l'entreprise n'adhère pas à un centre de gestion agréé. La suppression de l'obligation d'adhérer à un centre de gestion agréé, à laquelle est subordonnée l'application des conditions les plus favorables de déductibilité fiscale, aurait pour conséquence de permettre aux exploitants individuels d'obtenir l'abattement de 20 p. 100 de leur revenu professionnel à hauteur de la partie de ce revenu qui serait présentée comme un salaire versé au conjoint. Une telle mesure irait à l'encontre de la politique menée depuis plusieurs années, qui consiste à subordonner le bénéfice de l'abattement de 20 p. 100 à l'adhésion à un centre agréé, seul à même d'apporter une garantie d'amélioration de la connaissance des revenus, préalable indispensable au rapprochement des conditions d'imposition des travailleurs salariés et non salariés.
