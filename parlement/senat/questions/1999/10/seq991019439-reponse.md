@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991019439
+
+- Question : [SEQ991019439](seq991019439.md) — Caractère discriminatoire de certains formulaires administratifs
+
+## Réponse
+
+*Emploi, JO du 2000-01-27, page 315*
+
+Réponse. - Les formulaires administratifs sont conformes aux dispositions prévues par l'article R. 513-1 du code de la sécurité sociale qui, à défaut d'exercice du droit d'option par un couple, reconnaissant la qualité d'allocataire à l'épouse ou la concubine. Le droit aux prestations familiales est fondé sur le principe de rattachement de l'enfant à un seul foyer. L'octroi des prestations est subordonné à la condition de charge effective et permanente de l'enfant et la qualité d'allocataire n'est reconnue qu'à un seul parent au titre du même enfant. Antérieurement à la loi du 4 juillet 1975 portant généralisation de la sécurité sociale, la qualité d'allocataire n'était reconnue à la mère qu'à titre subsidiaire, le droit aux prestations étant ouvert par priorité au père, voire au conjoint ou concubin de la mère en cas de séparation des parents de l'enfant. La loi précitée, en étendant, à compter du 1er janvier 1978, le bénéfice des prestations à toute personne résidant en France, assumant la charge effective d'enfants demeurant eux-mêmes en France, a mis un terme à la disparité observée en accordant à l'épouse ou la concubine des droits analogues à ceux du père, dès lors qu'ils assument tous deux à leur foyer la charge de l'enfant. Le droit d'option qui découle de cette disposition, en permettant aux deux membres du couple de désigner l'allocataire d'un commun accord, confirme la complète égalité entre le père et la mère. Lorsque ce droit n'est pas exercé, l'allocataire est l'épouse ou la concubine. Le silence motivé dans la plupart des cas par la mésentente du couple sur ce point ne paraît pas justifier une modification réglementaire conduisant à reconnaître prioritairement la qualité d'allocataire au père.
