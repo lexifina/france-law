@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961018366
+
+- Question : [SEQ961018366](seq961018366.md) — Insuffisance des redressements fiscaux liés à la non-déclaration des revenus
+
+## Réponse
+
+*Économie, JO du 1997-02-06, page 374*
+
+Réponse. - Dans le cadre de ses missions, l'administration fiscale s'attache en priorité à la détection et à l'imposition des contribuables défaillants. Il est effet essentiel, à la fois pour respecter le principe d'égalité des citoyens devant la loi et pour garantir le niveau des recettes budgétaires, que l'ensemble des contribuables s'acquittent de leurs obligations. Des dispositifs faisant largement appel à l'informatique ont été mis en place afin de détecter et rechercher les personnes susceptibles de se soustraire à l'impôt sur le revenu. Les évolutions à la baisse constatées dans les résultats en 1994 par rapport à 1987 s'expliquent notamment par des adaptations techniques qui ont conduit à partir de 1992 à ne plus prendre en compte, au titre des impositions suite à relances et des taxations d'office, les déclarations souscrites tardivement par les contribuables non imposables. Elles résultent également des progrès accomplis en matière de gestion du système déclaratif. La régularisation plus rapide des premières défaillances constatées pour des personnes déjà connues à l'impôt sur le revenu, qui progressivement tend à ne concerner qu'une année de revenu, se traduit logiquement dans un premier temps par une baisse des résultats. La recherche des contribuables qui ne sont pas encore connus du système déclaratif s'effectue également grâce aux outils informatiques. L'exploitation des bulletins dits " orphelins " qui sont détectés de manière automatique est déterminée à partir d'un seuil très sensiblement inférieur au seuil d'imposition des revenus perçus par une personne célibataire. L'ensemble de ces précisions paraissent de nature à répondre aux préoccupations exprimées.
