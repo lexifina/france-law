@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940707071
+
+- Question : [SEQ940707071](seq940707071.md) — Avenir d'Air Inter
+
+## Réponse
+
+*Équipement, JO du 1994-11-17, page 2723*
+
+Réponse. - Comme le souligne l'honorable parlementaire, les personnels d'Air Inter ont, en effet, à plusieurs reprises, exprimé leur inquiétude et leur crainte que le développement de la compagnie ne soit limité par la décision de la Commission européenne relative à la dotation en capital prévue pour Air France. Dans sa décision du 27 juillet sur ce projet, la Commission européenne a pris acte des engagements du Gouvernement : la compagnie nationale Air France étant la seule bénéficiaire de la dotation, la décision de la Commission européenne s'applique exclusivement à celle-ci. Ainsi, aucune entrave ne sera mise à l'activité d'Air Inter. Dans cet esprit, le Gouvernement a décidé en juillet dernier la création d'une société holding " groupe Air France ", qui détiendra une participation majoritaire dans les deux compagnies aériennes Air France et Air Inter, et sera en mesure de garantir la pleine efficacité de leur stratégie dans le cadre d'un partenariat privilégié entre ces deux compagnies, et dans le respect de leur spécificité. Parallèlement, Air Inter, qui doit faire face à l'arrivée inéluctable de la concurrence sur son réseau domestique, prévoit d'exploiter, au-delà de son réseau actuel, de nouvelles liaisons internationales vers la péninsule ibérique, le Royaume-Uni et le Maghreb. Cette sortie internationale plus significative d'Air Inter lui permettra de se préparer à la création, en 1997, d'une grande compagnie européenne, regroupant les activités d'Air Inter et celles du centre de résultat (CDR) Europe d'Air France, qui a été proposée aux organisations syndicales d'Air France et d'Air Inter par les présidents des deux compagnies.
