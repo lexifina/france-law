@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861203812
+
+- Question : [SEQ861203812](seq861203812.md) — Convoyeurs de fonds victimes d'agressions
+
+## Réponse
+
+*Affaires sociales, JO du 1987-11-05, page 1748*
+
+Réponse. -La politique gouvernementale en matière d'accidents du travail obéit d'abord à un souci de prévention. La réparation des accidents et maladies professionnelles est identique pour tous les salariés quels que soient la nature et le degré des risques encourus mais en revanche les mesures de sécurité sont adaptées à chaque profession. Toute entreprise qui exerce une activité consistant à assurer le convoyage et la sécurité des transports de fonds, de bijoux ou de métaux précieux ainsi que tout document permettant d'effectuer un paiement est soumise aux dispositions de la loi n° 83-629 du 12 juillet 1983. Le décret n° 79-618 du 13 juillet 1979 fixe par ailleurs que les transports de fonds d'un montant égal ou supérieur à 200 000 francs doivent être assurés au moyen de véhicules blindés. Ces véhicules sont aménagés de manière que soit assurée la sécurité du personnel ; ils sont équipés d'un système destiné à donner l'alarme en cas de nécessité et doiventavoir un équipage d'au moins trois hommes, y compris le conducteur, chacun d'entre eux, porteur d'une arme de première ou de quatrième catégorie ainsi que les munitions correspondantes. Le ministre chargé de l'intérieur recommande en outre, dans sa circulaire n° 86-343 du 24 novembre 1986, aux dirigeants de ces entreprises de se conformer aux dispositions du décret du 13 juillet 1979 pour tout transport d'objets ou de produits dangereux (armes, substances toxiques, produits pharmaceutiques, etc.). Enfin, un projet de conventions collectives est actuellement à l'étude qui pourra répondre, quant à la prise en compte des risques particuliers à la profession dans la rémunération des convoyeurs de fonds, au soucis de l'honorable parlementaire.
