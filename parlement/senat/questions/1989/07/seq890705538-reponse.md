@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890705538
+
+- Question : [SEQ890705538](seq890705538.md) — Créances hospitalières impayées
+
+## Réponse
+
+*Solidarité, JO du 1990-05-17, page 1071*
+
+Réponse. - Les établissements hospitaliers sont effectivement confrontés à des difficultés de trésorerie du fait du retard apporté par les pays étrangers à honorer les dettes nées de l'hospitalisation de leurs ressortissants. Il est vrai, néanmoins, que ces difficultés subsistent, en dépit des engagements formellement souscrits par certains de ces pays dans le cadre de conventions bilatérales de sécurité sociale ou d'accords spécifiques de rééchelonnement de la dette signés entre Etats. Dans ces conditions, les établissements hospitaliers se trouvent dans l'obligation de concilier les contraintes d'une gestion rigoureuse et l'impératif de remplir la mission de service public dont ils ont la charge. Quoi qu'il en soit, leurs responsables ont été appelés à la plus grande vigilance quant aux conditions d'admission de ressortissants étrangers dépourvus de prise en charge. A cet égard et en dehors des situations d'urgence, l'admission est refusée si cette décision necompromet pas gravement l'état de santé du malade, attesté par un médecin de l'hôpital, et si le ressortissant étranger n'est pas en mesure de verser une provision renouvelable égale à dix jours d'hospitalisation, conformément aux dispositions de l'article 29 du décret n° 59-1510 du 29 décembre 1959 relatif aux dispositions financières et comptables à adopter à l'égard des hôpitaux et hospices publics. Dans certains établissements, ces mesures ont permis de noter un fléchissement sensible du montant des dettes étrangères. Il n'apparaît pas que la conclusion d'avenants aux accords bilatéraux soit, dans ces conditions, plus efficace pour régler le problème évoqué que les mesures déjà mises en oeuvre par les hôpitaux, dans leur ensemble.
