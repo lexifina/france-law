@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880410398
+
+- Question : [SEQ880410398](seq880410398.md) — Exclusion de certains retraités des avantages des majorations pour enfants
+
+## Réponse
+
+*Fonction publique, JO du 1988-05-10, page 680*
+
+Réponse. -Les mesures portant attribution de droits nouveaux n'ont pas d'effet sur les pensions concédées antérieurement à l'entrée en vigueur du texte législatif les instituant. Cette règle a été rigoureusement appliquée par les gouvernements précédents pour éviter l'extension automatique à tous les pensionnés des mesures successives prises en faveur des retraités et génératrices de dépenses à la charge du budget de l'Etat. Il ne peut être envisagé de renoncer à ce principe, en raison des incidences budgétaires particulièrement lourdes qui en résulteraient puisque cette renonciation reviendrait à prendre en charge les conséquences de nombreuses années d'application systématique de la non-rétroactivité et conduirait à un réexamen de l'ensemble des dossiers des retraités. Il n'est dès lors pas envisagé de modifier les conditions d'attribution de la majoration pour enfants fixées par la loi pour pouvoir l'accorder aux titulaires de pensions proportionnelles. Il convient cependant de rappeler que les anciens militaires titulaires d'une pension militaire proportionnelle devenus par la suite fonctionnaires civils peuvent, en application des dispositions de l'article 9 du décret n° 66-809 du 20 octobre 1966, bénéficier de la majoration pour enfants au titre de la pension militaire proportionnelle. Les anciens militaires titulaires de pensions proportionnelles liquidées avant 1964, qui ont repris une activité dans le secteur privé, ont droit eux aussi, en vertu des dispositions de l'article L. 351-12 du code de la sécurié sociale à une majoration de 10 p. 100 de leur pension de vieillesse.
