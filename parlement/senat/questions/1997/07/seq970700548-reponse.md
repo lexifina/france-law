@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970700548
+
+- Question : [SEQ970700548](seq970700548.md) — Complications administratives pour les associations intermédiaires dans le domaine de l'insertion des demandeurs d'emploi
+
+## Réponse
+
+*Emploi, JO du 1998-05-21, page 1639*
+
+Réponse. - L'honorable parlementaire attire l'attention du ministre de l'emploi et de la solidarité sur les complications administratives auxquelles les associations intermédiaires sont confrontées depuis le 1er janvier 1997, à l'occasion notamment des informations statistiques annuelles qu'elles doivent communiquer aux directions départementales du travail, de l'emploi et de la formation professionnelle. Aucune mesure nouvelle n'est intervenue depuis l'entrée en vigueur de la circulaire d'application no 95-20 du 28 avril 1995 prise en application de la loi no 95-116 du 4 février 1995, c'est-à-dire antérieurement au 1er janvier 1997, demandant aux associations intermédiaires lors du renouvellement de la demande d'agrément de fournir aux directions départementales du travail, de l'emploi et de la formation professionnelle les documents suivants : état statistique mensuel ; liste des principaux utilisateurs consistant en un état annuel des clients ayant utilisé plus de 2 000 heures ; compte rendu de l'activité ; tableau statistique du compte rendu annuel d'activité. Les associations intermédiaires sont des associations régies par la loi de 1901 agréées par les services de l'Etat. Elles reçoivent une aide au démarrage comprise entre 50 000 et 100 000 francs et bénéficient d'une exonération de charges sociales jusqu'à 750 heures par année civile pour chaque salarié mis à disposition de tiers ainsi que des aides au niveau local. Dans ces conditions, il n'est pas anormal que l'Etat leur demande un compte rendu de leurs activités, dont la vérification et la bonne exécution conditionne le renouvellement de leur agrément.
