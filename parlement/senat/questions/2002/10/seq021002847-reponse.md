@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021002847
+
+- Question : [SEQ021002847](seq021002847.md) — Regroupement des services hospitaliers, notamment des services de stérilisation, du CHU de Toulouse
+
+## Réponse
+
+*Santé, JO du 2003-03-13, page 891*
+
+Depuis près de deux ans, le CHU de Toulouse a confié au Sicoval, communauté d'agglomération de Toulouse Sud-Est, la réalisation d'une étude de faisabilité portant sur la construction d'une unité de stérilisation des dispositifs médicaux pour le compte d'établissements de santé publics et privés de l'agglomération toulousaine. Cette activité serait réalisée dans le cadre d'une formule de coopération associant les différents établissements intéressés, au sein d'un groupement d'intérêt économique permettant d'offrir toutes les garanties de sécurité requises en matière de stérilisation des dispositifs médicaux et de réduire les charges financières liées à cette activité. Ce projet est soutenu par la Datar, qui apporte une contribution financière dans le cadre du " programme système productif local de santé ". Quatre établissements de santé privés et le CHU de Toulouse s'intéressent actuellement à ce projet pour lequel, à ce jour, aucune décision n'a été prise par l'Agence régionale de l'hospitalisation de Midi-Pyrénées qui le suit, en liaison étroite avec les différents intervenants. L'externalisation de l'activité de stérilisation des dispositifs médicaux constitue une alternative qui s'offre aux établissements parmi d'autres solutions faisant également l'objet, de la part du CHU, d'études comparatives complémentaires en termes de sécurité, de coût et d'impact sur l'emploi des personnels concernés. Le conseil d'administration du CHU de Toulouse sera appelé à se prononcer dans les prochains mois sur ce dossier dans le respect des intérêts de l'établissement et des personnels concernés.
