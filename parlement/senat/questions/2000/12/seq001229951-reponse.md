@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001229951
+
+- Question : [SEQ001229951](seq001229951.md) — Gestion des déchets du bâtiment
+
+## Réponse
+
+*Aménagement du territoire, JO du 2001-03-08, page 830*
+
+Réponse. - La ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question concernant l'application des dispositions de la circulaire du 15 février 2000. Si les commissions ont quelque peu tardé à se mettre en place, la fin de l'année 2000 a vu une accélération très nette du processus d'élaboration des plans. Plus de 70 commissions départementales ont été créées par les préfets et ont entamé un état des lieux et deux plans ont été établis à ce jour. Le ministère de l'aménagement du territoire et de l'environnement a rappelé dans cette circulaire qu'en juillet 2002, seuls les déchets ultimes pourront être mis en décharge. Toutefois, cela ne signifie pas la fin des décharges. Tous les déchets ne pourront être recyclés et devront pouvoir être éliminés dans des décharges autorisées. Les plans de gestion des déchets de chantiers doivent prendre en compte cette nécessité et prévoir un nombre de décharges pour déchets inertes cohérent avec les prévisions sur le flux de déchets du bâtiment et des travaux publics. Les deux plans déjà élaborés ont bien intégré cette problématique et le ministère ne manque pas de la rappeler aux préfets et aux secrétaires au Plan. Concernant l'état d'avancement des centres de tri, de regroupement et de dépôt pour les matériaux valorisables, l'ADEME (Agence de l'environnement et de la maîtrise de l'énergie) fera un point sur les installations existantes ou dont les réalisations sont en cours, courant 2001. Toutefois, il faut noter que plusieurs appels à projet de mise en place des filières de collecte, de tri et de valorisation soutenus par l'ADEME n'ont pu aboutir en raison de problème fonciers ou de phénomènes de rejet des populations.
