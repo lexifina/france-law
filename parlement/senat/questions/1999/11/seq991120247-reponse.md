@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991120247
+
+- Question : [SEQ991120247](seq991120247.md) — Réglementation relative aux pistes cyclables
+
+## Réponse
+
+*Équipement, JO du 2000-05-25, page 1867*
+
+Réponse. - L'article 20 de la loi nº 96-1236 du 30 décembre 1996 sur l'air et l'utilisation rationnelle de l'énergie est effectivement applicable, à compter du 1er janvier 1998, à tous les maîtres d'ouvrages de voiries qui réalisent ou rénovent des voies urbaines, à l'exception des autoroutes et voies rapides. S'agissant des travaux réalisés sur la route départementale nº 17 entre Baillancourt et Saint-Vrain dans l'Essonne, il appartient en premier lieu au conseil général, maître d'ouvrage des travaux, d'expliciter les conditions dans lesquelles l'article 20 de la loi sur l'air a été appliqué. Le préfet du département est habilité, dans le cadre du contrôle de légalité, à déterminer si la loi a été respectée. Aucune circulaire destinée à résoudre les difficultés d'interprétation de cet article 20 n'est actuellement parue. Une note de commentaires a effectivement été préparée par le centre d'études sur les réseaux, les transports, l'urbanisme et les constructions publiques (CERTU) et est actuellement à l'étude dans les services du ministère de l'aménagement du territoire et de l'environnement. Concernant l'attitude que doivent adopter les cyclistes sur une voie étroite, il convient de rappeler à tous les usagers les prescriptions du code de la route dont le respect par tous, cyclistes et automobilistes, est de nature à garantir la meilleure sécurité. Il s'agit, en particulier, de respecter les règles précisées à l'article R. 4 du code de la route, pour la circulation des véhicules près du bord droit de la chaussée, et l'article R. 14 pour les conditions dans lesquelles doivent s'effectuer les dépassements.
