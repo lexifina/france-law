@@ -1,0 +1,5 @@
+# Article 1.10 : Salaires minima
+
+Le passage à la durée légale du travail à 35 heures et son application dans les entreprises n'entraînera pas de diminution du montant mensuel des salaires minima conventionnels, bien que calculés à l'origine pour une base 169 heures sur chacun des 12 mois de l'année. En contrepartie, les parties conviennent d'un maintien de ces salaires minima à leur niveau actuel. Ainsi, les salaires minima conventionnels seront maintenus, pendant 3 ans à compter de la date d'application du présent accord, à leur niveau atteint en valeur absolue à la date d'application du présent accord. Pendant ce délai, l'application de l'article I-30 bis de la convention collective nationale est par conséquent suspendue.
+
+Les parties reverront les modalités de mise en oeuvre du présent article en cas de modification du montant du SMIC ou de sa définition. Ces modalités pourront aussi être revues si, lors de la négociation annuelle prévue à l'article L. 132-12 du code du travail, il est constaté un dérapage significatif du taux d'inflation hors tabac.

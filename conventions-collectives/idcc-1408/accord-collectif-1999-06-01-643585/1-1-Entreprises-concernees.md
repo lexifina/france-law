@@ -1,0 +1,3 @@
+# Article 1.1 : Entreprises concernées
+
+Les entreprises entrant dans le champ d'application de la convention collective nationale des entreprises du négoce et de distribution de combustibles solides, liquides, gazeux et produits pétroliers du 20 décembre 1985 pourront appliquer le présent accord de branche à partir des échéances légales du 1er janvier 2000 (pour les entreprises de plus de 20 salariés) et du 1er janvier 2002 (pour les entreprises de 20 salariés et moins), et dès sa date d'entrée en vigueur pour celles anticipant la réduction de la durée légale du travail à 35 heures prévue par la loi n° 98-461 du 13 juin 1998 (indépendamment du recours aux aides financières prévues par ce texte).
