@@ -1,52 +1,102 @@
-# Article Annexe 2
+# Article ANNEXE 2
 
-I - Rédaction.
+1 - Rédaction.
 
-Rédaction sur un sujet d'ordre général pouvant porter sur l'histoire de France depuis 1789 (programme d'histoire du premier cycle de l'enseignement du second degré).
+Rédaction sur un sujet d'ordre général.
 
 II - Dictée.
 
-Dictée du niveau du brevet d'études du premier cycle de l'enseignement du second degré.
+Dictée du niveau du brevet des collèges.
 
-III - Arithmétique et mathématiques.
+III - Mathématiques.
 
-A - Arithmétique :
+A - Mathématiques traditionnelles :
 
-Addition, soustraction, multiplication, division des nombres entiers, décimaux et complexes ; fractions ordinaires et décimales ; plus grand commun diviseur et plus petit commun multiple ; système métrique ; surface des carré, rectangle, triangle et cercle ; volume des cube, parallélépipède rectangle, cylindre et prisme droit ; proportions, partages proportionnels ; échelles des cartes et plans ; règle de trois, pourcentages, intérêts (la solution pourra également être obtenue par l'algèbre).
+1° Arithmétique :
 
-B - Mathématiques modernes.
+Nombres entiers, nombres décimaux. - Les quatre opérations :
 
-1° Nombres relatifs :
+addition, soustraction, multiplication, division. Puissances d'un nombre entier, d'un nombre décimal (exposant entier positif). Opérations sur les puissances.
 
-Technique des opérations (addition, soustraction, multiplication) sur les nombres relatifs (en base 10) et décimaux. Encadrements décimaux d'un nombre réel.
+Multiples, diviseurs d'un nombre entier non nul. Caractère de divisibilité. Nombres premiers. Multiples communs, diviseurs communs à deux ou plusieurs nombres entiers non nuls.
 
-Ordre et valeur absolue dans l'ensemble des nombres réels.
+Fractions ordinaires, fractions décimales. - Valeur décimale d'une fraction ; addition, soustraction, multiplication et division des fractions.
 
-On admet que pour tout nombre réel a non nul il existe un nombre réel a' et un seul tel que a a'= 1 ; recherche d'encadrements décimaux de a' lorsque a est un nombre décimal.
+Rapports, proportions : propriétés. Nombres directement proportionnels, nombres inversement proportionnels. Partages égaux, inégaux. Partages proportionnels.
 
-Pour tout couple (a, b) (a différent de 0) de nombres réels, il existe un nombre réel unique x, appelé quotient de b par a, tel que a x = b ;
+2° Mathématiques appliquées :
 
-a x est égal à b a' et est noté -.
+Mesures :
 
-b b Calcul sur des quotients notés - (b et a réels, a différent de 0) ;
+Mesures des longueurs, des aires, des volumes, des capacités, des masses. Mesures agraires.
 
-a valeurs approchées décimales de tels quotients.
+Système sexagésimal :
 
-Notion de moyenne.
+Mesures du temps, des angles, des arcs. Addition, soustraction, multiplication, division sur ces mesures.
 
-Propriétés usuelles relatives à une égalité de la forme :
+Périmètre, aire :
 
-b = b' - -.
+Carré, rectangle, losange, parallélogramme, triangle, trapèze, cercle. Aire d'une couronne.
 
-a a' Systèmes de nombres proportionnels ; partages proportionnels. Usages des exposants entiers (positifs, négatifs, nuls).
+Aire latérale, aire totale, volume :
 
-2° Arithmétique (dans l'ensemble des entiers naturels) :
+Cube, parallélépipède rectangle ou pavé droit, cylindre droit, prisme droit, sphère. Volume du manchon droit.
 
-Ensemble des multiples d'un entier naturel ; division euclidienne d'un entier naturel par un entier naturel.
+Masse volumique, densité, débit, vitesse moyenne, mouvement uniforme d'un seul mobile.
 
-Diviseurs d'un nombre entier naturel ; nombres premiers.
+Echelles des plans, des cartes.
 
-Pratique de la décomposition d'un entier naturel en produit de nombres premiers ; multiples communs et diviseurs communs à deux ou plusieurs entiers naturels.
+Pourcentages, intérêts simples, le franc. Quelques monnaies étrangères (Marché commun).
+
+Prix d'achat, prix de revient, prix de vente, T.V.A..
+
+B - Mathématiques modernes :
+
+1. Ensembles. - Relations :
+
+Généralités : ensemble, élément, sous-ensemble, intersection, réunion, produit cartésien.
+
+Relation d'un ensemble vers un ensemble : fonction, application, bijection.
+
+Relation dans un ensemble. Relation d'ordre, relation d'équivalence.
+
+2. Multiples. - Diviseurs. - Nombres premiers dans N :
+
+Multiples, diviseurs d'un entier naturel non nul ;
+
+Division euclidienne, caractères de divisibilité ;
+
+Nombres premiers dans N ;
+
+Multiples communs, diviseurs communs à deux ou plusieurs entiers naturels non nuls.
+
+3. Ensembles Z, D, Q, R :
+
+Addition, soustraction, multiplication dans Z, D, R.
+
+Distributivité de la multiplication pour l'addition ou la soustraction.
+
+Puissances de dix. Puissances d'un réel (exposant appartenant à Z). Opérations sur les puissances.
+
+Valeur approchée d'un quotient de réels. Encadrement d'un réel X sous la forme a x 10 P égal ou inférieur à X et supérieur à (a + 1) x 10 P (a et P étant éléments de Z).
+
+Fractions. Rationnels. Ensemble Q. Addition, soustraction, multiplication, division dans Q.
+
+Nombres directement proportionnels, nombres inversement proportionnels. Applications.
+
+4. Fonctions. - Equations. - Inéquations. - Problèmes.
+
+Fonctions numériques, monômes, polynômes. Opérations addition, soustraction, multiplication sur ces fonctions. Développement, factorisation des polynômes. Produits remarquables.
+
+Applications linéaires, affines. Représentation graphique (on se limitera à la représentation dans un repère orthonormé dont on donnera seulement la définition.
+
+Equations, inéquations du premier degré à une inconnue, à coefficients numériques.
+
+Fonctions rationnelles. Domaine de définition et simplification seulement.
+
+Systèmes de deux équations du premier degré à deux inconnues et à coefficients numériques.
+
+Problèmes d'algèbre du premier degré à une ou deux inconnues.
 
 C - Mathématiques appliquées :
 
