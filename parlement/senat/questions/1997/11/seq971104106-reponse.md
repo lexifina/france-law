@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971104106
+
+- Question : [SEQ971104106](seq971104106.md) — Charges fiscales liées au stockage des déchets ménagers
+
+## Réponse
+
+*Aménagement du territoire, JO du 1998-03-05, page 745*
+
+Réponse. - Mme la ministre de l'aménagement du territoire et de l'environnement a pris connaissance de la question concernant la situation des petites communes au regard de la taxe sur les installations de stockage de déchets ménagers et assimilés. La loi prévoit la perception d'un montant minimal quelle que soit la taille de l'installation de stockage, ce qui peut être mal ressenti par les petites communes. Mais il faut préciser que le législateur a voulu fixer un seuil minimal de perception pour encourager la résorption des petites décharges sauvages qui souillent trop souvent notre environnement. Ce seuil n'est donc en aucun cas une pénalité ou une sanction. Son abaissement de 5 000 francs à 2 000 francs par la loi du 2 février 1995 a permis de mieux concilier les nécessités environnementales et les nécessités économiques. Il convient néanmoins de noter que l'exploitation par une commune d'une décharge non autorisée n'est pas une fatalité. L'intercommunalité est un moyen efficace pour permettre à nos petites communes de mieux traiter les déchets ménagers. Il faut également rappeler que la loi précitée a élargi les conditions d'emploi du fonds de modernisation de la gestion des déchets alimenté par la taxe. Il sera désormais possible à l'exploitant d'une installation collective de stockage de déchets ménagers ou assimilés de requérir l'aide du fonds pour réaménager son site. Ce soutien financier pourra notamment servir aux petites communes pour résorber les décharges brutes qui existent sur le territoire. Ce même fonds pourra par exemple contribuer à y implanter une déchetterie, en remplacement de la décharge brute, plus à même d'offrir à leurs administrés un service d'élimination des déchets respectueux de l'environnement.
