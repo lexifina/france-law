@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870506293
+
+- Question : [SEQ870506293](seq870506293.md) — URSS: constitution de sociétés mixtes avec la participation de capitaux occidentaux
+
+## Réponse
+
+*Commerce extérieur, JO du 1987-10-22, page 1678*
+
+Réponse. -L'Union soviétique a retenu le principe de création de sociétés mixtes sur son territoire avec la participation de capitaux étrangers. Le texte officiel de référence, daté du 16 février 1987, laisse de grandes marges d'interprétation qu'il convient de préciser. Dans cette perspective et afin que les entreprises françaises soient clairement informées des possibilités offertes par cette nouvelle forme de coopération avec l'Union soviétique, le ministre délégué chargé du commerce extérieur a souhaité constituer un groupe de travail chargé de préciser les règles et les modalités de fonctionnement des sociétés conjointes. Il a confié à M. Froment Meurice, ambassadeur de France, la présidence de ce groupe composé d'entreprises industrielles et de banques. M. Iouri Ivanov, président de la Banque soviétique du commerce extérieur, copréside ce groupe qui doit tenir sa première réunion à Moscou en novembre. De nombreuses entreprises françaises sont en effet intéressées. Si à ce jour aucun accord de création de société mixte engageant une société française n'a été signé, une trentaine d'entre elles ont cependant fait part de leur grand intérêt pour cette initiative et formulé des propositions. Les travaux du groupe de travail devraient permettre de les éclairer sur les possibilités réelles offertes par cette nouvelle forme de coopération, en précisant à la fois les règles de fonctionnement de ces nouvelles structures mais aussi leur application. L'information recueillie par le groupe de travail sera ensuite diffusée auprès de l'ensemble des organismes professionnels et sociétés françaises intéressés par ces accords.
