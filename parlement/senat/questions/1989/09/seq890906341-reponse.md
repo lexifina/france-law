@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890906341
+
+- Question : [SEQ890906341](seq890906341.md) — Classement d'urgence des abords du château de Farcheville à Bouville (Essonne)
+
+## Réponse
+
+*Culture, JO du 1990-01-25, page 159*
+
+Réponse. - Le terroir de Farcheville présente un intérêt certain, tant du point de vue historique par la présence du château médiéval que sous son aspect spécifiquement rural, intérêt qui justifie son classement au titre de la loi du 2 mai 1930 sur la protection des sites. La délimitation du périmètre à classer sur 875 hectares tient compte de l'échelle du paysage qui environne le château. Le projet de classement a été instruit régulièrement, dans le respect des procédures légales en la matière : concertations locales, enquêtes réglementaires, délibérations des conseils municipaux, examen par les commissions des sites. Il est précisé à ce propos que la commission supérieure des sites a été normalement consultée, en l'absence malheureusement des représentants de l'Assemblée nationale qui n'avaient pas encore été désignés lors de la réunion de la commission. Cette circonstance ne constitue pas, en tout état de cause, un empêchement au fonctionnement de la commission, puisqu'en l'occurrence, le quorum était atteint. La commission supérieure des sites a ainsi jugé, à l'unanimité, qu'il était indispensable de classer le site de Farcheville tel que défini dans le projet. Au terme de ces procédures, le dossier sera soumis à l'avis du Conseil d'Etat. Compte tenu de la durée de la procédure de classement d'un site et en raison de l'existence de risques sérieux d'atteinte au site de Farcheville, une mesure d'instance de classement a été prise par le ministre d'Etat, ministre de l'équipement et du logement le 5 août 1988, mesure conservatoire valable pendant le délai maximal d'un an. Cette mesure d'urgence ne portait que sur un périmètre restreint limité au secteur le plus sensible autour du château.
