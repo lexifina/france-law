@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950912120
+
+- Question : [SEQ950912120](seq950912120.md) — Personnes hospitalisées en service de gériatrie
+
+## Réponse
+
+*Travail, JO du 1996-05-16, page 1216*
+
+Réponse. - Les établissements de santé assurent la prise en charge des personnes âgées dans l'ensemble des services hospitaliers qu'ils regroupent : services de soins de courte durée qu'ils soient ou non à orientation gériatrique, services de soins de suite et de réadaptation et services de soins de longue durée. Le mode de tarification applicable à ces derniers services prévoit la fixation, d'une part, d'un tarif journalier de soins qui est forfaitaire et, d'autre part, d'un prix de journée pour l'hébergement. Pour un établissement donné, ce tarif journalier de soins est identique quel que soit le niveau de dépendance de chacune des personnes âgées qui y sont admises. Les sections de cure médicale rattachées aux maisons de retraite disposent également d'un tarif de soins forfaitaire dont le montant est inférieur à celui relatif aux soins de longue durée. Il est exact que ce mode de tarification tient davantage compte du statut juridique des établissements que de l'état effectif de santé et de dépendance des personnes accueillies, ce qui ne manque pas de produire des effets pervers. Une étude sur la tarification en établissement accueillant des personnes âgées dépendantes a été menée qui montre bien la nécessité d'une réforme de cette tarification. Un groupe de travail est chargé de faire des propositions dans des délais rapprochés et il bénéficie pour cela de l'appui d'une mission réunissant l'inspection générale des affaires sociales et l'inspection générale des finances. Il importe que ces propositions soient élaborées en cohérence avec le projet de création de la prestation d'autonomie.
