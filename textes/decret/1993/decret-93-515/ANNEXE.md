@@ -1,0 +1,67 @@
+# Article ANNEXE
+
+ANCIENNE SITUATION
+
+NOUVELLE SITUATION
+
+Grade et échelon
+
+Ancienneté d'échelon
+
+Agent d'exploitation du service général
+
+Cadre de premier niveau de La Poste ou cadre de premier niveau de France Télécom
+
+12e échelon 5e
+
+Sans ancienneté.
+
+11e échelon 4e
+
+Un quart de l'ancienneté acquise.
+
+10e échelon 3e
+
+Un tiers de l'ancienneté acquise.
+
+9e échelon 2e
+
+Un tiers de l'ancienneté acquise.
+
+8e échelon 1er
+
+Un tiers de l'ancienneté acquise.
+
+7e échelon 1er
+
+Sans ancienneté.
+
+6e échelon 1er
+
+Sans ancienneté.
+
+5e échelon 1er
+
+Sans ancienneté.
+
+4e échelon 1er
+
+Sans ancienneté.
+
+3e échelon 1er
+
+Sans ancienneté.
+
+2e échelon 1er
+
+Sans ancienneté.
+
+1er échelon 1er
+
+Sans ancienneté.
+
+NOTA :
+
+Décret 2004-768 du 29 juillet 2004 art. 17 : Les dispositions du décret 93-515 sont abrogées en tant qu'elles concernent le corps des cadres de France Télécom.
+
+Décret n° 2007-1330 du 10 septembre 2007 art. 25 : Le décret n° 93-515 du 25 mars 1993 est abrogé à l'exception de son annexe dont les dispositions demeurent applicables aux agents qui n'avaient pas opté pour le statut prévu par ce décret et qui sont intégrés dans le corps des cadres de La Poste régi par le présent décret.
