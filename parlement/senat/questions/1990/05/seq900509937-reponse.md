@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900509937
+
+- Question : [SEQ900509937](seq900509937.md) — Reconnaissance de la qualité de ressortissante de l'Office national des anciens combattants
+
+## Réponse
+
+*Anciens combattants, JO du 1990-07-26, page 1647*
+
+Réponse. - Les veuves d'anciens combattants souhaitent se voir reconnaître la qualité de ressortissantes de l'Office national des anciens combattants et victimes de guerre. Il s'agit là d'une revendication ancienne qui n'a pu aboutir jusqu'à présent, car elle se heurte à des obstacles d'ordres psychologique, juridique et financier. Seules, en effet, sont actuellement ressortissantes de l'Office, les veuves de guerre, c'est-à-dire les veuves de soldats morts au combat ou des suites des combats. Leurs associations sont très réservées sur l'assimilation qui pourrait être faite de la situation des veuves d'anciens combattants à la leur. Par ailleurs, l'adoption d'une telle mesure nécessiterait l'inscription de crédits sociaux supplémentaires. En outre, les attributions de l'Office national des anciens combattants étant fixées par la loi et strictement limitées par elle, ses interventions devraient être élargies. Il convient d'ajouter, cependant, que le Gouvernement n'ignore pas les difficultés auxquelles sont confrontées celles qui se retrouvent sans le soutien de leur époux ancien combattant. C'est pourquoi, il a été admis que les intéressées puissent obtenir : 1° dans l'année qui suit le décès, des secours permettant de participer, si besoin est, aux frais de dernière maladie et d'obsèques ; 2° en permanence et sans condition de délai, l'aide administrative de l'établissement public. Enfin, les conseils départementaux peuvent utiliser des ressources provenant des subventions des collectivités locales, au profit de veuves d'anciens combattants présentant un cas exceptionnel, à apprécier localement.
