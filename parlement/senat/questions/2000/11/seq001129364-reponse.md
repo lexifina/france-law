@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001129364
+
+- Question : [SEQ001129364](seq001129364.md) — Prolongation des prestations familiales
+
+## Réponse
+
+*Emploi, JO du 2001-04-12, page 1278*
+
+Réponse. - Des mesures importantes ont été prises ces trois dernières années en faveur des familles ayant des jeunes adultes à charge. L'âge limite jusqu'auquel un jeune inactif ou dont la rémunération est au plus égale à 55 % du SMIC est considéré comme étant à charge de sa famille a été relevé, sans condition de poursuites d'études ou d'apprentissage, de 18 à 19 ans en 1998 puis à 20 ans en 1999. Le Gouvernement a souhaité ainsi renforcer les aides aux familles qui ont des enfants à charge étudiants, chômeurs ou inactifs. Le coût en 1999 de l'extension de l'âge limite des prestations familiales à 20 ans a été de 490 millions de francs pour la branche famille. En 2000, afin d'atténuer la diminution des prestations familiales lorsque l'aîné des enfants atteint l'âge de 20 ans, l'âge limite pour la prise en compte des enfants dans le calcul des allocations de logement et pour l'attribution du complément famillial versé sous condition de ressources aux familles d'au moins trois enfants a été porté à 21 ans. Cette mesure est entrée en vigueur depuis le 1er janvier 2000. Le coût de cette mesure a été de 500 millions de francs en 2000 pour la branche famille. En 2001, l'effort porte sur d'autres axes définis lors de la conférence de la famille du 15 juin 2000, à savoir l'amélioration de l'accueil des jeunes enfants, la réforme des aides au logement, l'aide aux familles ayant un enfant gravement malade. L'ensemble des mesures nouvelles représente une dépense d'environ 10,5 milliards de francs. La situation des jeunes adultes à la charge de leur famille reste des priorités de la politique familiale. A ce titre, elle sera, avec la promotion de la coparentalité, un des axes de réflexion de la prochaine conférence de la famille de 2001.
