@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980407733
+
+- Question : [SEQ980407733](seq980407733.md) — Francisation des prénoms imposés par les Allemands en Alsace-Lorraine entre 1940 et 1945
+
+## Réponse
+
+*Intérieur, JO du 1998-06-18, page 1958*
+
+Réponse. - Lors de la mise en place du système de fabrication et de gestion informatisée de la carte nationale d'identité sécurisée, il a été décidé, afin de renforcer la valeur juridique de ce document, de renforcer les contrôles relatifs à l'état civil et à la nationalité française. S'agissant de l'état civil, les mentions portées sur le titre d'identité doivent être conformes à celles figurant sur l'acte civil produit. Lorsque l'usager n'est en mesure de ne présenter qu'un acte de l'état civil rédigé en langue étrangère, celui-ci doit être traduit ; la traduction qui incombe à l'usager doit être effectuée par un traducteur assermenté. Toutefois, pour ce qui concerne les personnes nées dans les départements du Bas-Rhin, du Haut-Rhin, de la Moselle entre 1940 et 1945 pendant l'annexion de ces départements par l'Allemagne, il a été décidé, en accord avec le ministère de la justice, d'assouplir les règles relatives à la traduction des actes de l'état civil. Il sera désormais possible de faire figurer sur la carte nationale d'identité de ces personnes un prénom traduit en langue française par les agents des préfectures. Cette procédure de francisation du ou des prénoms pourra être appliquée sous réserve que les intéressés soient en mesure de présenter d'autres documents officiels mentionnant leur prénom francisé et qu'elle ne mette pas en cause les mentions figurant sur les registres d'état civil. Si tel n'était pas le cas, l'usager devrait introduire une procédure de changement de prénom dans les conditions prévues par l'article 60 du code civil. Il est précisé à l'honorable parlementaire que des instructions vont être adressées en ce sens aux préfets.
