@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900409427
+
+- Question : [SEQ900409427](seq900409427.md) — Détermination des quantités de référence des acheteurs de lait
+
+## Réponse
+
+*Agriculture, JO du 1990-07-19, page 1585*
+
+Réponse. - Une des dispositions, introduite à l'occasion d'une modification, intervenue le 23 février dernier, de l'arrêté de campagne laitière 1989-1990, en date du 26 avril 1989, concerne les entreprises qui ont pu couvrir les besoins en références supplémentaires de l'ensemble de leurs producteurs prioritaires sous forme de suppléments à caractère définitif et/ou d'allocations provisoires et qui disposent, après cette première répartition, d'un reliquat inutilisé. Elle les autorise à attribuer ce dernier, à tous leurs producteurs, sous forme d'allocations provisoires. Cette répartition est autorisée dans la limite de 20 p. 100 des références individuelles et en respectant un maximum de 40 000 litres par producteur. Les interlocuteurs de l'honorable parlementaire contestent l'introduction, en cours de campagne, de ce plafond en volume. Cette limite a été introduite pour éviter que la plus grande partie des références disponibles aille aux producteurs qui disposent déjà des références les plus importantes. Elle est à rapprocher des mesures prises au cours des campagnes précédentes en faveur des producteurs disposant des références les plus modestes. Le montant de 40 000 litres a été établi en fonction du plafond appliqué dans la procédure d'attribution de références supplémentaires : 200 000 litres est en effet, dans la plupart des cas, la référence maximale au-delà de laquelle l'attribution d'une référence supplémentaire n'est plus possible. Cette mesure a été présentée le 7 décembre 1989 au conseil de direction de l'office du lait (Onilait), qui a émis un avis favorable.
