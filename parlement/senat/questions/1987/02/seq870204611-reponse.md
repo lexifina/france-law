@@ -1,0 +1,11 @@
+# Réponse à la question SEQ870204611
+
+- Question : [SEQ870204611](seq870204611.md) — Répartition des aides aux agriculteurs
+
+## Réponse
+
+*Agriculture, JO du 1987-06-18, page 962*
+
+Réponse. -La conférence annuelle a donné lieu à plusieurs mesures d'allégement de charges financières, qui sont d'application nationale et bénéficieront donc sans restriction aux agriculteurs de toutes les régions. Ainsi en est-il de l'aménagement de l'endettement en prêts d'équipement non bonifiés contractés entre 1982 et 1986. Souscrits à un taux moyen de 13 p. 100, leurs taux seront ramenés en 1987 aux taux actuels des prêts non bonifiés agricoles, soit 10 p. 100 en moyenne. Le coût de ce réaménagement est pris en charge par le Crédit agricole. Tous les jeunes agriculteurs bénéficieront d'un abaissement de deux points des intérêts dus cette année sur leurs prêts d'installation souscrits aux taux les plus élevés (6 p. 100 ou 4,75 p. 100 selon les zones), soit entre octobre 1981 et juin 1986. Enfin, les producteurs de bovins de toutes les régions, et prioritairement les producteurs de lait affectés par la maîtrise de la production laitière, feront l'objet
+
+d'une mesure de remise d'intérêt de l'ordre de deux points sur leurs prêts bonifiés hors les M.T.S.-J.A. déjà traités, soit les P.S.E. et les P.S.M. souscrits avant la mise en place des quotas laitiers. Les enveloppes départementales affectées à cette mesure résultent de critères fondés sur l'encours des prêts à traiter et sur l'orientation laitière des exploitations. Ainsi, les départements lorrains disposeront, comme les autres départements, des moyens nécessaires pour mettre en oeuvre l'aide financière consentie dans les meilleures conditions. Pour ce qui concerne les productions bovine et ovine, une enveloppe globale de 450 millions de francs a pu être dégagée. Cette enveloppe a été distribuée entre les départements sur la base de critères objectifs. Par ailleurs, il est nécessaire de tenir compte des critères spécifiques de production propres à chaque région afin de définir les conditions précises d'attribution de ces aides aux éleveurs individuels. C'est la raison pour laquelle il a été mis en place des commissions départementales dans lesquelles siègent les représentants des éleveurs, et qui sont précisément chargées de définir les critères d'éligibilité à cette aide.
