@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020238798
+
+- Question : [SEQ020238798](seq020238798.md) — Réinsertion des pilotes licenciés par Air-Liberté - AOM
+
+## Réponse
+
+*Équipement, JO du 2002-04-18, page 1121*
+
+En application de la réglementation du travail, le règlement des indemnités de licenciement incombe à l'administrateur judiciaire. L'administrateur d'AOM et d'Air Liberté a fait savoir à l'inspection du travail des transports (ITT) que les indemnités de licenciement des navigants licenciés, dont le traitement s'est heurté à des difficultés de gestion, ont maintenant été versées aux intéressés. L'ITT n'enregistre plus de réclamation à ce sujet. Les pilotes qui ont adhéré à la convention de conversion bénéficient de la prise en charge, par les ASSEDIC, des heures de simulateur nécessaires à la prorogation réglementaire de leur qualification multipilote. Tous les pilotes qui en ont fait la demande ont pu en profiter. Le ministre de l'équipement, des transports et du logement a pris l'engagement de faire en sorte que les salariés licenciés d'AOM/Air Liberté puissent se voir offrir des solutions en vue de leur reclassement professionnel. Ainsi, une cellule de reclassement a été mise en place afin de les accompagner dans leur recherche. Swissair n'ayant pas versé la contribution qui lui incombait, le ministre a veillé à ce que son financement soit pris en charge par l'Etat. Vingt-quatre pilotes ont retrouvé un emploi grâce au concours de cette cellule. Cependant, les compagnies rencontrent actuellement des difficultés liées à la dégradation de la conjoncture et il leur est difficile de déterminer l'échéance à laquelle elles procéderont à nouveau à des recrutements. Dans l'immédiat, les anciens salariés d'AOM/Air Liberté doivent élargir le champ de leur recherche d'emploi et, le cas échéant, redéfinir leur projet professionnel avec le concours du service public de l'emploi.
