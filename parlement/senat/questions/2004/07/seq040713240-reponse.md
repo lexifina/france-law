@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040713240
+
+- Question : [SEQ040713240](seq040713240.md) — Conséquences de l'accord de libre-échange entre l'Union européenne et le Mercosur
+
+## Réponse
+
+*Affaires européennes, JO du 2004-08-26, page 1911*
+
+L'Union européenne et le Mercosur (Brésil, Argentine, Uruguay, Paraguay) négocient depuis 2000 un accord d'association prévoyant l'instauration d'une zone de libre-échange. Cet accord a pour objectif de renforcer davantage les relations politiques et économiques entre les deux régions. L'Union européenne est en effet le premier partenaire commercial du Mercosur. Ces négociations en vue de parvenir à un tel accord sont toujours en cours. L'objectif de la France est de parvenir à un résultat ambitieux et équilibré sans que celui-ci porte atteinte à ses intérêts. Les autorités françaises ont clairement réaffirmé ce message lors du sommet Union européenne-Amérique latine de Guadalajara le 28 mai dernier, aussi bien à la Commission européenne qu'aux pays du Mercosur. En particulier, dans le domaine agricole, la France est opposée à ce que l'Europe " paie deux fois " dans le cadre des négociations birégionales Union européenne-Mercosur, mais également dans le cadre des négociations multilatérales de l'OMC. Ces différentes négociations ne sauraient avoir pour résultat de remettre en cause l'existence d'une agriculture économique forte et écologiquement responsable en Europe. Par ailleurs, la France s'est montrée ferme sur la question des subventions agricoles européennes. Elle a fait savoir que cette question ne devait pas être traitée dans le cadre des négociations avec le Mercosur, ce dont la Commission, qui négocie au nom de l'Union européenne, est pleinement consciente. Les autorités françaises resteront vigilantes à ce que la Commission européenne maintienne une position de fermeté sur ces principes.
