@@ -1,30 +1,34 @@
 # Article Annexe
 
-1. Brevets d'invention, certificats d'utilité, certificats d'addition et certificats complémentaires de protection.
+1. Brevets d'invention, certificats d'utilité et certificats complémentaires de protection :
 
-Dépôt (1).
+Dépôt (1) ;
 
-Revendication supplémentaire à partir de la onzième.
+Rapport de recherche (1) (2) ;
 
-Déclaration d'un droit de priorité.
+Revendication supplémentaire à partir de la onzième ;
 
-Avis documentaire (1) (2), avis de nouveauté ou rapport de recherche.
+Déclaration d'un droit de priorité ;
 
-Nouvelles revendications entraînant rapport de recherche complémentaire.
+Requête du bénéfice de la date du dépôt d'une demande antérieure ;
 
-Rectification d'erreur matérielle.
+Nouvelles revendications entraînant rapport de recherche complémentaire ;
 
-Requête en poursuite de la procédure.
+Requête en rectification d'erreurs ;
 
-Renouvellement de délai.
+Requête en poursuite de la procédure ;
 
-Délivrance et impression du fascicule de brevet.
+Délivrance et impression du fascicule ;
 
-Maintien en vigueur.
+Maintien en vigueur ;
 
-Supplément pour requête tardive de l'avis documentaire (3).
+Supplément pour paiement tardif de la redevance de dépôt ou de rapport de recherche ;
 
-Supplément pour paiement tardif de la redevance annuelle (3).
+Supplément pour requête tardive du rapport de recherche ;
+
+Supplément pour paiement tardif de la redevance annuelle ;
+
+Recours en restauration ;
 
 Certificat complémentaire de protection.
 
@@ -36,31 +40,39 @@ Etablissement et transmission de copies de la demande de brevet européen aux é
 
 Etablissement et transmission de copies de la demande de brevet européen aux états destinataires.
 
-3. Demandes internationales (P.C.T.).
+3. Demandes internationales (P.C.T.) :
 
-Transmission d'une demande internationale.
+Transmission d'une demande internationale ;
+
+Confirmation de désignation d'Etats ;
+
+Supplément pour paiement tardif ;
 
 Préparation d'exemplaires complémentaires.
 
 4. Marques de fabrique, de commerce ou de service :
 
-- Dépôt ;
+Dépôt ;
 
-- Classe de produits ou de services ;
+Classe de produits ou de services ;
 
-- Revendication d'un droit de priorité ;
+Revendication d'un droit de priorité ;
 
-- Régularisation ;
+Régularisation ;
 
-- Opposition ;
+Opposition ;
 
-- Rectification d'erreur matérielle ;
+Rectification d'erreur matérielle ;
 
-- Renouvellement ;
+Renouvellement ;
 
-- Renonciation ;
+Supplément pour paiement tardif de la redevance de renouvellement ;
 
-- Demande d'inscription au registre international des marques ; - Relevé de déchéance.
+Renonciation ;
+
+Demande d'inscription au Registre international des marques ;
+
+Relevé de déchéance.
 
 5. Dessins et modèles.
 
@@ -76,19 +88,15 @@ Régularisation, rectification, relevé de déchéance.
 
 Enregistrement et gardiennage d'enveloppe spéciale.
 
-6. Droits voisins de la propriété industrielle.
+6. Droits voisins de la propriété industrielle :
 
-- Topographies de produits semi-conducteurs :
+Topographie de produits semi-conducteurs ;
 
-dépôt et conservation ;
+Dépôt et conservation ;
 
-consultation d'un dépôt ;
+Inscription d'un acte modifiant ou transmettant les droits ;
 
-inscription d'un acte modifiant ou transmettant les droits ;
-
-délivrance de certificats et copie du registre national.
-
-- Récompenses industrielles : enregistrement d'un palmarès, d'une récompense, ou transcription d'une déclaration de cession ou de transmission.
+Récompenses industrielles : enregistrement d'un palmarès, d'une récompense, ou transcription d'une déclaration de cession ou de transmission.
 
 7. Registres nationaux des brevets, marques, dessins et modèles. Demande d'inscription.
 
