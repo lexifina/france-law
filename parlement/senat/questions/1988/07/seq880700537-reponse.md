@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880700537
+
+- Question : [SEQ880700537](seq880700537.md) — Rapport sur l'ajustement structurel et la performance de l'économie
+
+## Réponse
+
+*Économie, JO du 1990-05-17, page 1063*
+
+Réponse. - Le thème des politiques structurelles a retenu une attention croissante dans les années quatre-vingt. Les risques et les limites des politiques de gestion de la demande, matérialisés par une accélération de l'inflation et un ralentissement de la croissance de la production en volume entre les années soixante et les années quatre-vingt, ont conduit les pays industrialisés à mener des politiques destinées à retrouver un potentiel de croissance plus élevé en agissant sur les structures de l'économie. Les travaux de l'O.C.D.E. ont contribué à identifier les domaines prioritaires où une action structurelle est nécessaire : échanges internationaux, agriculture, subventions à l'industrie, investissements directs internationaux, marchés financiers, fiscalité, politique de la concurrence, marchés du travail, secteur public. La poursuite des efforts entrepris dans ces domaines conditionne en partie la capacité des économies industrialisées à poursuivre sans déséquilibre macroéconomique majeur la croissance rapide qu'elles connaissent depuis deux ans. C'est pourquoi la France est attachée à ce que les mesures structurelles fassent l'objet d'une véritable coordination et d'une surveillance internationale, comme le principe en a été décidé lors du sommet des pays industrialisés de Toronto, en 1988. Ces politiques structurelles ne doivent néanmoins pas être conçues comme un substitut, mais comme un complément des politiques macroéconomiques classiques, en particulier dans la réduction des déséquilibres extérieurs, excédents et déficits, que connaissent plusieurs grands pays industrialisés.
