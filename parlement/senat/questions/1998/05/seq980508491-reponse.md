@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508491
+
+- Question : [SEQ980508491](seq980508491.md) — Multiplication des partenariats entrepreneuriaux
+
+## Réponse
+
+*Industrie, JO du 1998-07-16, page 2330*
+
+Réponse. - La Poste a reçu de la loi du 2 juillet 1990 une mission de participation à l'aménagement du territoire et a comme objectif d'assurer un service public de qualité sur l'ensemble du territoire. Dans le cadre du contrat d'objectifs et de progrès, portant contrat de plan, ont été définies de façon concertée, en particulier avec les représentants des maires et des élus locaux, des orientations qui doivent permettre au service postal d'évoluer pour mieux répondre aux besoins des populations tant rurales qu'urbaines, notamment dans les zones sensibles. A cet effet, toutes les solutions doivent être explorées, notamment, comme le préconisait le rapport d'information du Sénat auquel se réfère l'honorable parlementaire, celles offertes par le développement de partenariats entre La Poste, les collectivités locales qui le souhaitent et d'autres acteurs publics ou privés, pour permettre à l'exploitant public de développer et d'enrichir les services de proximité offerts au public et d'exercer pleinement ses missions en matière d'aménagement du territoire, dans le cadre de l'autonomie de gestion que lui confère la loi. Les partenariats peuvent revêtir différentes formes : maisons des services publics, points publics, agences postales, accords de distribution avec d'autres partenaires publics ou privés, et donnent lieu à la signature de conventions qui définissent les engagements des parties. En tout état de cause, tous les projets envisagés par La Poste doivent faire l'objet d'une concertation préalable et réelle avec les élus, les associations d'usagers, les organisations syndicales, de manière à parvenir à un vrai consensus.
