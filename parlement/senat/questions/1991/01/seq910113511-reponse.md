@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910113511
+
+- Question : [SEQ910113511](seq910113511.md) — Protection sociale des non-salariés agricoles
+
+## Réponse
+
+*Agriculture, JO du 1991-04-25, page 861*
+
+Réponse. - L'extension aux exploitants agricoles d'un régime d'indemnités journalières en cas d'arrêt de travail, identique à celui dont bénéficient les salariés ou proche de celui mis en place par le régime d'assurance maladie des travailleurs non salariés des professions non agricoles est difficilement envisageable en raison des problèmes que pose l'évaluation de toute perte de revenus pour un exploitant malade alors qu'il est facile de connaître avec précision la perte de revenu d'un salarié, voire d'un artisan ou d'un commerçant en arrêt de maladie. Par ailleurs, en raison de la nature de leur activité et de la période au cours de laquelle a lieu l'arrêt de travail, le maintien du revenu des intéressés est fréquemment assuré, notamment lorsqu'il n'est pas nécessaire de procéder à l'embauche d'un salarié à titre temporaire. La mise en place d'un tel système nécessiterait enfin d'augmenter la contribution financière des exploitants agricoles à leur régime de protection sociale, ce qui n'apparaît pas envisageable. Il convient d'ajouter que les exploitants qui souhaitent bénéficier d'une telle garantie peuvent s'adresser aux assureurs privés qui proposent dans de nombreux départements un contrat couvrant la charge du remplacement de l'agriculteur ou de l'agricultrice en cas de maladie ou d'accident, selon des modalités variables suivant les régions. Ainsi, les caisses régionales d'assurances mutuelles agricoles ont mis en place dans certains départements une formule de contrat collectif d'assurance de remplacement maladie-accident dans lequel les services de remplacement sont partie prenante, le chef d'exploitation pouvant souscrire le contrat directement ou par l'intermédiaire du service de remplacement auquel il a adhéré.
