@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508393
+
+- Question : [SEQ980508393](seq980508393.md) — Réglementation communautaire sur les nitrates
+
+## Réponse
+
+*Aménagement du territoire, JO du 1998-09-03, page 2820*
+
+Réponse. - La ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question concernant le respect de la directive 91/676/CEE relative à la protection des eaux contre la pollution par les nitrates de sources agricoles, par les différents Etats membres de l'Union européenne et les mesures prises par le ministère pour appliquer les dispositions de cette directive en France. Selon le rapport de la Commission européenne au Conseil et au Parlement européen paru en 1998, la majorité des Etats n'ont pas respecté le calendrier de mise en uvre de la directive. Pas moins de treize Etats membres font l'objet de procédures de recours en manquement à des stades divers : lettre de mise en demeure, avis motivé, procédure devant la Cour de justice. La France fait partie des cinq pays qui ont pris du retard dans l'application de la directive et a reçu, à ce titre, un avis motivé de la Commission auquel elle a répondu. Au 25 mai 1998, treize départements sur soixante-quinze n'avaient pas encore signé l'arrêté relatif au programme d'action à mettre en uvre dans les zones vulnérables. Ils représentent moins de 10 % des superficies et 8 % des exploitations et concernent notamment les cinq départements qui n'ont délimité leurs zones vulnérables qu'en 1997, à savoir la Somme, la Seine-et-Marne, les Yvelines, l'Essonne et le Val-d'Oise. Afin de se conformer aux exigences de la directive, une lette de la ministre de l'aménagement du territoire et de l'environnement a été adressée aux préfets de ces treize départements pour leur demander de soumettre immédiatement le projet d'arrêté aux procédures de consultation et de signer l'arrêté à l'issue des délais de consultation impartis.
