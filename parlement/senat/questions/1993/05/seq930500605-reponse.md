@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930500605
+
+- Question : [SEQ930500605](seq930500605.md) — Enseignement de la langue française en Algérie
+
+## Réponse
+
+*Culture, JO du 1993-09-02, page 1514*
+
+Réponse. - La déclaration du 15 avril 1993 de M. Tahar Zehrouni, secrétaire d'Etat à l'enseignement fondamental et secondaire, qui indiquait que l'anglais sera mis en concurrence avec le français, dès la quatrième année du cycle fondamental (CE 1), doit être interprétée en ayant à l'esprit plusieurs données importantes. Tout d'abord, cette annonce est la mise en application d'une décision déjà prise en 1991 et différée jusqu'ici. Elle s'inscrit dans un mouvement plus vaste de réforme de l'enseignement public algérien dont on connaît les grandes difficultés. L'honorable parlementaire n'ignore pas que la langue française est en Algérie l'objet d'un débat qui oppose islamistes et tenants de la laïcité. Mais la possibilité d'un enseignement plus précoce d'une seconde langue vivante permet des avancées dans la réforme du système éducatif et, ainsi une amélioration de l'enseignement du français puisqu'il ne devrait plus être placé au centre de discussions idéologiques. Il est à ce sujet significatif de constater que trois universités viennent tout dernièrement d'adhérer à l'AUPELF-UREF tandis que nos contacts avec le ministère algérien de l'éducation se sont intensifiés ces dernières semaines. Par ailleurs, l'étroitesse des liens et des échanges humains entre nos deux pays fait que le français demeure la langue la plus " demandée " par les Algériens, comme le corroborent tous les éléments statistiques d'information dont nous pouvons disposer. Il faut relever également que, par le nombre de professeurs algériens et l'effort de notre pays, le français demeure la langue dont l'enseignement précoce et de masse est le seul vraiment possible.
