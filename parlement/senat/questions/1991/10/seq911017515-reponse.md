@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911017515
+
+- Question : [SEQ911017515](seq911017515.md) — Protection du patrimoine historique de Paris
+
+## Réponse
+
+*Culture, JO du 1992-02-20, page 429*
+
+Réponse. - C'est l'architecte Fontaine qui construisit à la demande de Louis-Philippe la galerie de Chartres, avec son péristyle, située devant le Théâtre Français ainsi que la galerie d'Orléans. Cette dernière galerie édifiée en 1830, est un vaste portique à deux colonnades, qui fut coiffée d'une verrière. Celle-ci fut supprimée en 1935 ainsi que les boutiques installées entre les colonnes. Une étude concernant la restauration de l'ensemble des portiques entourant la cour d'honneur du Palais-Royal a été remise par l'architecte en chef des bâtiments civils et des palais nationaux en avril 1989. Il ressort de cette étude que la restauration de la galerie et du péristyle de Chartres est estimée à 2 MF, celle de la galerie d'Orléans comprenant la galerie de la cour et celle du jardin et le péristyle de Valois est estimée à 3,4 MF (valeur 1989). Ces travaux portent sur la réfection des colonnes et entablements ainsi que sur la réfection ou la reconstitution des caissons et rosaces. Le ministère de la culture a, devant l'urgence des travaux à mener sur les couvertures du Palais-Royal, décidé de programmer en 1991 une première tranche de travaux portant sur la restauration des couvertures du Théâtre Français, du Conseil constitutionnel ainsi que du Conseil d'Etat pour un montant estimé à 6 MF. Le financement de la deuxième tranche de travaux de couvertures qui portera sur le Conseil d'Etat est prévu sur le budget 1992 (pour un coût estimé de 4,5 MF). La programmation des travaux de restauration des péristyles sera étudiée lorsque les urgences concernant la sécurité de l'édifice seront terminées. Toutefois des travaux de réfection de la galerie des Proues qui est la partie la plus ancienne du Palais alors " Cardinal " construit pour Richelieu ont été réalisés en 1989.
