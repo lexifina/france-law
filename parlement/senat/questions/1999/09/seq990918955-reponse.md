@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990918955
+
+- Question : [SEQ990918955](seq990918955.md) — Campagne de lutte contre la toxicomanie : messages de prévention élaborés en commun par la mission interministérielle de lutte contre la drogue et la toxicomanie (MILDT) et les administrations concernées
+
+## Réponse
+
+*Emploi, JO du 1999-12-16, page 4159*
+
+Réponse. - Le plan triennal de lutte contre la drogue et de prévention des dépendances, adopté par le comité interministériel du 16 juin 1999, rappelle le rôle central que doit jouer la MILDT en matière de coordination et de validation des actions de communication et de prévention des différents services de l'Etat. Afin d'être en mesure d'expertiser et de soutenir les actions proposées par les ministères, la MILDT s'est dotée de deux collèges d'experts : le comité de pilotage de la communication et la commission de validation des outils de prévention. La question de la consommation de produits dopants, qui dépasse largement le cadre du sport de haut niveau, s'inscrit dans ces travaux. Elle fait effectivement l'objet d'une réflexion commune entre la MILDT et le ministère de la jeunesse et des sports, dans le cadre d'une approche plus globale des conduites à risques et des comportements de dépendance. Le plan triennal souligne les grands axes des actions de formation et de sensibilisation qui doivent être conduites auprès des éducateurs sportifs et des responsables des clubs sportifs en ce qui concerne les risques liés à l'utilisation des produits dopants et autres substances psychoactives. Ces actions s'inscrivent dans la mise en uvre de l'article 9 de la loi du 23 mars 1999, relative à la protection de la santé des sportifs et à la lutte contre le dopage. Elles visent tout particulièrement à permettre aux éducateurs sportifs de repérer, au-delà des symptômes apparents, les jeunes ayant des consommations abusives ou à risques afin de leur fournir l'aide et l'orientation nécessaires.
