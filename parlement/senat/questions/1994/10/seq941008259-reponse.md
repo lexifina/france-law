@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941008259
+
+- Question : [SEQ941008259](seq941008259.md) — Bénéfice de l'exonération de la taxe foncière pour les titulaires d'une pension militaire
+
+## Réponse
+
+*Budget, JO du 1995-02-23, page 440*
+
+Réponse. - Le bénéfice de l'exonération de taxe foncière sur les propriétés bâties est accordé, pour leur résidence principale, aux contribuables âgés de plus de soixante-quinze ans, aux titulaires de l'allocation supplémentaire du fonds national de solidarité ainsi qu'aux invalides percevant l'allocation aux adultes handicapés dès lors qu'ils ne sont pas imposables sur le revenu et vivent seuls, ou avec leur conjoint ou avec des personnes elles-mêmes non passibles de l'impôt sur le revenu. Ces exonérations constituent une exception aux principes qui régissent les taxes foncières puisque celles-ci sont des impôts réels qui sont dus, quels que soient l'utilisation de la propriété et les revenus du propriétaire. Ces exonérations doivent, par conséquent, conserver une portée limitée. La mesure proposée par l'honorable parlementaire ne manquerait pas, au surplus, d'être revendiquée par d'autres catégories de contribuables dont la situation est tout aussi digne d'intérêt. Or, ces exonérations sont à la charge de l'Etat et une extension de leur champ d'application serait incompatible avec les contraintes budgétaires actuelles. C'est pourquoi il n'est pas envisagé d'exonérer de la taxe foncière sur les propriétés bâties les titulaires d'une pension militaire d'invalidité âgés de moins de soixante-quinze ans non imposables à l'impôt sur le revenu. Cela étant, les services fiscaux ont pour instruction d'examiner avec bienveillance les demandes de modération gracieuses présentées par les redevables qui rencontrent de réelles difficultés pour acquitter leurs cotisations.
