@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900309071
+
+- Question : [SEQ900309071](seq900309071.md) — Conditions d'accès au secteur des métiers du bâtiment
+
+## Réponse
+
+*Commerce et artisanat, JO du 1990-07-05, page 1472*
+
+Réponse. - Comme le rappelle l'honorable parlementaire, un trop grand nombre d'entreprises nouvellement créées dans le secteur des métiers disparaissent dans les trois premières années de leur existence, malgré l'institution par la loi du 23 décembre 1982 du stage obligatoire d'initiation à la gestion. Conscient de ce problème, le ministère du commerce et de l'artisanat envisage, en liaison avec l'assemblée permanente des chambres de métiers, de mettre en place un bilan des connaissances de chaque stagiaire à l'issue du stage obligatoire. Ce bilan devrait permettre au futur créateur d'entreprise de prendre conscience de ses besoins de formation complémentaire et l'inciter à se former dans les domaines qui nécessitent un approfondissement. Le programme du stage obligatoire comporte d'ores et déjà une introduction à la prévision et au contrôle de l'activité de l'entreprise par l'application des notions comptables de base. Il n'apparaît pas possible de dispenser, dans le cadre du stage obligatoire, des connaissances liées à un secteur d'activité professionnelle particulier. Enfin les personnes bénéficiaires de l'aide aux chômeurs créateurs d'entreprise ou du concours alloué par le fonds départemental pour l'initiative des jeunes ont la faculté d'obtenir l'appui d'organismes de conseil et d'accroître ainsi leur chance de réussite. Le chèque-conseil qui initialement portait sur la première année d'activité a depuis cette année une validité de dix-huit mois. Il convient d'ajouter que plusieurs procédures initiées par le ministère du commerce et de l'artisanat et destinées à favoriser des opérations concertées au plan local comportent une offre de conseil.
