@@ -1,0 +1,17 @@
+# Délibération concernant la demande d'avis présentée par le ministère de l'Economie, des Finances et de la Privatisation relative à un procédé d'examen et de recherche des changements d'évaluation des propriétés bâties et non-bâties (traitement PERCEVAL)
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 88-15
+- Date : 1988-02-02
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017654114
+
+La Commission Nationale de l'Informatique et des Libertés, Vu la Convention du Conseil de l'Europe du 28 janvier 1981, pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel, Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, Vu le décret n° 78-774 du 17 juillet 1978 pris pour l'application des dispositions des chapitres I à V et VII de la loi précitée, Vu l'article L103 du Livre des procédures fiscales, Vu le projet d'arrêté présenté par le Ministère de l'Economie, des Finances et de la Privatisation, Après avoir entendu Monsieur Jean-Emile VIE en son rapport, et Madame Charlotte-Marie PITRAT, Commissaire du Gouvernement, en ses observations,
+
+Considérant que le traitement présenté a pour unique finalité la détermination de la valeur locative foncière des propriétés bâties et non bâties servant d'assiette à l'établissement des impositions locales, Considérant que le traitement doit permettre l'édition des listes de locaux ou parcelles destinées aux services chargés de l'évaluation et du contrôle de la valeur locative des immeubles, Considérant que les fichiers utilisés sont les fichiers des propriétaires, les fichiers des propriétés bâties et non-bâties, et les fichiers relatifs à la situation des immeubles (circonscriptions territoriales, taux d'imposition communaux), Considérant que des contrôles de cohérence pourront être effectués à partir des informations contenues dans les fichiers d'imposition des personnes (FIP), impôts sur le revenu (IR) et taxe d'habitation dans le seul but de vérifier la pertinence des dégrèvements et exonérations, Considérant que les informations produites seront conservées une année sur support magnétique,
+
+Considérant que les questionnaires adressés aux contribuables pour collecter les informations relatives à l'établissement des impositions locales devront comporter les mentions prescrites aux articles 27 et 34 de la loi et indiquer comme destinataires les services gérant les fichiers des propriétaires, les fichiers des propriétés bâties et des propriétés non bâties ; que les documents emportant rectification de la valeur locative devront indiquer l'existence du droit d'accès et de rectification prévu aux articles 34 et 35 de la loi du 6 janvier 1978, Considérant que les intéressés devront être informés de l'existence du traitement par publication de l'acte réglementaire au recueil des actes administratifs du département et par affichage dans chaque Centre des Impôts Fonciers mettant en oeuvre le traitement. Considérant que les mesures destinées à garantir la sécurité et la confidentialité des informations sont prises, Considérant que le droit d'accès et de rectification prévu aux articles 34, 35 et 36 de la loi du 6 janvier 1978 s'exercera auprès du Centre des Impôts ou du bureau du cadastre du lieu de situation de l'immeuble,
+
+Emet sous ces réserves un avis favorable au projet d'arrêté présenté par le Ministère de l'Economie, des Finances et de la Privatisation. Jacques FAUVET
