@@ -22,27 +22,57 @@ Nouvelle-Calédonie
 
 |
 
-1,92 |
+Communes de Nouméa, Mont-Dore, Dumbéa et Paita
+
+|
+
+1,82 |
+
+Autres communes
+
+|
+
+1,94 |
 
 Nouvelles-Hébrides
 
 |
 
-2,45 |
+Communes de Port-Vila et agglomérations voisines (îlot Vila, Eracor, Manco, Mele et Melemaat), commune de Luganville et station I.R.H.O.
+
+|
+
+2,22 |
+
+Autres localités
+
+|
+
+2,36 |
 
 Polynésie française
 
 |
 
-2,13
+|
+
+Iles du Vent et îles Sous-le-Vent
 
 |
+
+1,93 |
+
+Autres subdivisions
+
+|
+
+2,08 |
 
 Saint-Pierre et Miquelon
 
 |
 
-1, 63
+1,85
 
 |
 
@@ -50,7 +80,7 @@ Terres australes et antarctiques françaises
 
 |
 
-1, 65
+1,65
 
 |
 
@@ -58,7 +88,7 @@ Kerguelen, Crozet, Terre Adélie
 
 |
 
-1, 73 |
+1,73 |
 
 Nouvelle-Amsterdam, Saint-Paul
 
