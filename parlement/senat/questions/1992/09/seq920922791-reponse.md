@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920922791
+
+- Question : [SEQ920922791](seq920922791.md) — Composition des commissions professionnelles de taxi
+
+## Réponse
+
+*Intérieur, JO du 1993-02-11, page 251*
+
+Réponse. - Le décret n° 86-427du 13 mars 1986 portant création de la commission des taxis et des voitures de petite remise prévoit dans son article 3 que " les commissions communales et départementales comprennent en nombre égal des représentants de l'administration, des représentants des organisations professionnelles les plus représentatives au plan local et des représentants des usagers ", chacun disposant d'une voie délibérative. La circulaire n° 86-161 du 25 avril 1986 du ministère de l'intérieur relative à l'application du décret susvisé ajoute qu'" à l'intérieur de chaque profession, il conviendra de moduler la représentativité de chacun des syndicats considérés, notamment en tenant compte des résultats obtenus à des élections professionnelles ". La commission est notamment obligatoirement consultée par le maire pour la fixation du nombre des taxis à exploiter dans chaque commune, afin de mettre en place une politique cohérente de transports fondée sur les besoins des usagers et d'éviter la prolifération des autorisations d'exploiter. La modification des règles de fonctionnement de la commission dans le sens d'un renforcement de ses prérogatives ne peut remettre en cause le pouvoir de police qui appartient au maire, autorité compétente en matière d'autorisation de stationnement, conformément aux dispositions du code des communes. La réglementation de 1986 a été édictée dans le souci de permettre la concertation entre les représentants des usagers, des professionnels et de l'administration. C'est pourquoi, il n'est pas envisagé de revenir sur la composition tripartite de ces commissions.
