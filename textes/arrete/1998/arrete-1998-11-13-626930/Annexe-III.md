@@ -6,23 +6,23 @@ Pour les actes médicaux effectués dans un établissement de santé privé ou �
 
 Lorsque le médecin opte pour la dispense d'avance des frais, la part garantie par la caisse peut être versée, selon son choix :
 
-- soit globalement à un médecin, désigné par ses confrères, ou à une société de médecins ou un groupement de médecins exerçant dans l'établissement ;
+- soit globalement à un médecin, désigné par ses confrères, ou à une société de médecins ou à un groupement de médecins exerçant dans l'établissement ;
 
 - soit individuellement, à chaque praticien.
 
 b) Actes réalisés à titre libéral par un praticien hospitalier dans un établissement public de santé :
 
-L'ensemble des actes dispensés, dans le secteur libéral d'un établissement public de santé, avec ou sans hébergement, à l'exclusion des soins externes, ainsi que le montant correspondant aux frais sont facturés individuellement.
+L'ensemble des actes dispensés dans le secteur libéral d'un établissement public de santé, avec ou sans hébergement, à l'exclusion des soins externes, ainsi que le montant correspondant aux frais sont facturés individuellement.
 
-L'option prévue à l'article L. 714-32 du code de la santé publique est portée à la connaissance de la caisse lors de l'adhésion prévue à l'article 16 du présent règlement.
+L'option prévue à l'article L. 714-32 du code de la santé publique est portée à la connaissance de la caisse lors de l'adhésion prévue à l'article 15 du présent règlement.
 
 c) Actes réalisés à titre libéral dans un établissement ou une structure médico-sociale :
 
-Pour les actes dispensés à titre libéral dans un établissement ou une structure médico-sociale, les médecins doivent noter sur la feuille de soins, à côté de leur pavé d'identification, la raison sociale, l'adresse et le numéro d'identification de l'établissement, ou structure, dans lequel sont dispensés les soins.
+Pour les actes dispensés à titre libéral dans un établissement ou une structure médico-sociale, les médecins doivent noter sur la feuille de soins, à côté de leur pavé d'identification, la raison sociale, l'adresse et le numéro d'identification de l'établissement ou structure dans lequel sont dispensés les soins.
 
 d) Dispense de l'avance des frais :
 
-L'assuré peut régler le médecin de la part des dépenses prises en charge par l'assurance maladie au moyen d'un titre de paiement appelé titre-médecin. Cette modalité est applicable aux cas suivants :
+L'assuré peut régler le médecin de la part des dépenses prises en charge par l'assurance maladie, au moyen d'un titre de paiement appelé titre-médecin. Cette modalité est applicable aux cas suivants :
 
 Actes de spécialités dont le coefficient inscrit à la Nomenclature générale des actes professionnels (ou la somme des coefficients pour les actes effectués au cours d'une même séance) est égal ou supérieur à :
 
@@ -50,7 +50,7 @@ Les actes de scanographie et d'IRM sont rémunérés par l'addition d'une base f
 
 Les modalités pratiques de facturation et de règlement du forfait technique, auquel sont appliquées la dispense d'avance des frais et l'exonération du ticket modérateur, sont fixées par une convention conclue au niveau local et conforme au modèle défini par les caisses nationales d'assurance maladie.
 
-Le montant du forfait technique varie en fonction de l'année d'installation de l'appareil, c'est-à-dire l'année civile pendant laquelle a eu lieu la visite de conformité (prévue par l'article L. 712-12 du code de la santé publique), de la classe à laquelle appartient l'appareil autorisé (appareil de scanographie), de la puissance du champ magnétique de l'appareil autorisé (appareil d'IRM) et du nombre d'examens effectués.
+Le montant du forfait technique varie en fonction de l'année d'installation de l'appareil, c'est-à-dire l'année civile pendant laquelle a eu lieu la visite de conformité (prévue par l'article L. 712.12 du code de la santé publique), de la classe à laquelle appartient l'appareil autorisé (appareil de scanographie), de la puissance du champ magnétique de l'appareil autorisé (appareil d'IRM) et du nombre d'examens effectués.
 
 Au-delà du nombre d'examens correspondant à l'activité de référence, un forfait réduit est appliqué.
 
@@ -74,7 +74,9 @@ Pour les actes de scanographie, dans le cas où deux actes sont facturés pour u
 
 Le décompte des actes doit être effectué par année civile : il débute le 1er janvier de l'année concernée et s'achève le 31 décembre de la même année. Si l'installation de l'appareil a lieu en cours d'année (nouvelle implantation ou renouvellement), le décompte des actes débute lors du premier acte présenté au remboursement effectué sur l'appareil et s'achève au 31 décembre de l'année d'installation.
 
-Dispositions applicables aux appareils de scanographe en attente de tarification
+Dispositions applicables aux appareils de scanographe
+
+en attente de tarification
 
 Pour les appareils autorisés à fonctionner et pour lesquels aucun des tarifs des forfaits techniques n'est applicable à la date d'installation, il convient d'appliquer, jusqu'à la fixation du tarif applicable :
 
@@ -82,6 +84,8 @@ Pour les appareils autorisés à fonctionner et pour lesquels aucun des tarifs d
 
 - pour les appareils en attente de classification, le montant du forfait technique et l'activité de référence correspondant aux appareils de classe 2 installés l'année précédente dans la région concernée.
 
-Dispositions applicables aux appareils IRM en attente de tarification
+Dispositions applicables aux appareils IRM
 
-Pour les appareils autorisés à fonctionner et pour lesquels aucun des tarifs des forfaits techniques n'est applicable à la date d'installation, il convient d'appliquer jusqu'à la fixation du tarif le montant du forfait technique correspondant aux appareils de même puissance du champ magnétique, installés l'année précédente, dans la zone géographique où est installé l'appareil.
+en attente de tarification
+
+Pour les appareils autorisés à fonctionner et pour lesquels aucun des tarifs des forfaits techniques n'est applicable à la date d'installation, il convient d'appliquer jusqu'à la fixation du tarif, le montant du forfait technique correspondant aux appareils de même puissance du champ magnétique, installés l'année précédente, dans la zone géographique où est installé l'appareil.
