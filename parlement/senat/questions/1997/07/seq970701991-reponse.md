@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701991
+
+- Question : [SEQ970701991](seq970701991.md) — Valeur réglementaire des schémas de développement commercial
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 1997-10-16, page 2821*
+
+Réponse. - La loi no 96-603 du 5 juillet 1996 relative au développement et à la promotion du commerce et de l'artisanat prévoit la mise en place de schémas de développement commercial et renvoie à des décrets d'application les conditions de leur établissement. La question se pose donc de savoir si ces schémas, destinés à assurer un développement harmonieux des différentes formes de distribution, doivent revêtir un caractère obligatoire et réglementaire. Ils pourraient alors s'imposer aux schémas directeurs intercommunaux et aux plans d'occupation des sols ou aux documents qui en tiennent lieu, mais aussi aux commissions départementales d'équipement commercial qui devraient s'y référer pour arrêter leurs décisions. Une position définitive sur ces différents aspects ne pourra être envisagée que lorsque les résultats des expériences de schémas de développement commercial seront connus et analysés. En effet, à l'intérieur de zones géographiques pertinentes, des expérimentations ont été lancées au printemps dernier. Une première série intéressant surtout les agglomérations importantes s'appuie sur le réseau des agences d'urbanisme, une seconde série, pour des territoires de taille et de configuration diverses, s'appuie sur des opérateurs locaux auxquels sont associés les réseaux consulaires. Dans les deux cas, les expériences sont coordonnées par un comité de pilotage placé sous l'autorité préfectorale. Un rapport sur ces expériences, leur méthodologie et leurs résultats sera déposé au Parlement en application de l'article 28 de la loi précitée du 5 juillet 1997. Ce document servira de base à la réflexion qui sera menée pour apprécier la valeur qu'il convient de donner à ces schémas de développement commercial.
