@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010734458
+
+- Question : [SEQ010734458](seq010734458.md) — Réduction du temps de travail dans les collectivités locales
+
+## Réponse
+
+*Fonction publique, JO du 2001-11-01, page 3473*
+
+En application des dispositions de l'article 107 de la loi du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale, il appartient au conseil d'administration de la caisse nationale de retraites des agents des collectivités locales (CNRACL) de déterminer, par délibération, le nombre minimal d'heures de travail que doit effectuer un fonctionnaire territorial nommé dans un emploi à temps non complet pour être affilié à cette caisse. Le conseil d'administration de la CNRACL délibérera prochainement sur les conséquences qu'il entend tirer de la réduction du temps de travail sur le niveau de ce seuil. S'agissant plus particulièrement des petites collectivités locales, il est à noter que celles-ci peuvent, pour les négociations à venir, bénéficier des mécanismes de mise à disposition de personnels en temps partagé susceptibles d'être mis en oeuvre par les centres de gestion dont les missions, en matière de gestion prévisionnelle des emplois, ont été élargies par la loi du 3 janvier 2001 relative à la résorption de l'emploi précaire et à la modernisation du recrutement dans la fonction publique ainsi qu'au temps de travail dans la fonction publique territoriale. Enfin, si le Gouvernement n'a pas envisagé de mesures financières d'accompagnement spécifiques pour les collectivités locales, il convient, toutefois, de replacer le dispositif dans le contexte de l'évolution globale favorable, compte tenu de l'application du contrat de croissance et de solidarité, des concours versés par l'Etat aux collectivités. Ainsi, la dotation globale de fonctionnement s'élève en 2001 à 116,16 milliards de francs, augmentant de 3,42 %. Cette évolution favorable des concours de l'Etat sera confirmée en 2002.
