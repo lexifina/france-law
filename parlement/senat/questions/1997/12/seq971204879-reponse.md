@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971204879
+
+- Question : [SEQ971204879](seq971204879.md) — Recrutement exceptionnel de magistrats administratifs
+
+## Réponse
+
+*Justice, JO du 1998-07-02, page 2152*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que la loi organique nº 98-105 du 24 février 1998 autorise pour cette année le recrutement exceptionnel de 100 magistrats de l'ordre judiciaire afin de faire face à des besoins urgents non satisfaits par les modes de recrutement ordinaires. En ce qui concerne le recrutement des membres des tribunaux administratifs et des cours administratives d'appel, le problème se pose en des termes différents. Sans doute les modes de recrutement habituels que sont les concours d'accès à l'Ecole nationale d'administration et le recrutement direct sur titres, ainsi que les détachements dans le corps, se sont-ils révélés insuffisants pour faire face aux vacances de postes constatées dans les juridictions administratives. Mais une solution générale à ce problème a été apportée par la loi nº 80-511 du 7 juillet 1980, relative au recrutement des membres des tribunaux administratifs et des cours administratives d'appel, qui a institué un recrutement complémentaire de conseillers de tribunal administratif. Depuis cette date, ce recrutement par concours, initialement prévu jusqu'au 31 décembre 1985, a été prolongé à plusieurs reprises, la loi nº 95-125 du 8 février 1995, relative à l'organisation des juridictions et à la procédure civile, pénale et administrative, l'ayant prorogé en dernier lieu jusqu'au 31 décembre 1999. Le concours ainsi prévu, joint aux autres modes de recrutement ci-dessus évoqués, permet, chaque année, de recruter le nombre de magistrats nécessaire afin de pourvoir aux vacances de postes et rend ainsi inutile le recours à un recrutement exceptionnel tel que celui organisé en 1998 pour les magistrats judiciaires.
