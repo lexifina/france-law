@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990717731
+
+- Question : [SEQ990717731](seq990717731.md) — Revalorisation des rentes viagères
+
+## Réponse
+
+*Économie, JO du 2000-12-28, page 4463*
+
+Réponse. - L'absence, depuis 1996, de revalorisation légale des rentes viagères souscrites auprès d'organismes débirentiers, notamment la Caisse nationale de prévoyance, résulte de l'évolution du contexte économique et de la quasi-disparition de l'inflation, qui en diminuait autrefois le pouvoir d'achat et du changement de finalité des rentes viagères ; en effet, celles-ci relèvent aujourd'hui d'une logique de placement plus que de prévoyance, puisque le système d'assurance vieillesse repose non plus sur une épargne individuelle volontaire mais sur un dispositif universel fondé sur la répartition. A ce titre, l'intervention de l'Etat a été réduite dans le domaine des majorations de rentes depuis l'institution d'un plafond de ressources en 1979 et la disparition des majorations légales pour les contrats souscrits après 1987. Depuis 1996, la revalorisation des majorations légales des rentes viagères concerne deux catégories principales, à savoir les rentes versées aux anciens combattants et celles servies en réparation d'un préjudice. Aujourd'hui, toute nouvelle revalorisation des majorations légales versées pour les rentes viagères de droit commun accroîtrait l'inégalité de traitement avec les nouveaux crédirentiers qui, depuis 1987, ne bénéficient d'aucune majoration légale. C'est donc dans le cadre des relations contractuelles entre les organismes débirentiers et les crédirentiers qu'évoluent ces rentes. A ce titre, la Caisse nationale de prévoyance assure, selon les contrats souscrits, une revalorisation des rentes qui dépend du niveau des taux d'intérêt et des résultats dégagés par l'établissement.
