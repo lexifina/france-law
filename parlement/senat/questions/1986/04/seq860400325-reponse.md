@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860400325
+
+- Question : [SEQ860400325](seq860400325.md) — Coopérants: mouvements et affectations
+
+## Réponse
+
+*Coopération, JO du 1986-11-20, page 1622*
+
+Réponse. - Le tableau suivant donne : 1° le nombre de postes déclarés vacants au 1er octobre 1985 par pays ; 2° le nombre de dérogations accordées par pays ; 3° le nombre de postes ouverts au mouvement définitif ; 4° le nombre de candidats déclarés (pressentis et recrutés). Pour les enseignants, le tableau est entièrement rempli car les opérations de mutations et de recrutements sont examinées globalement dans la perspective de la rentrée scolaire. En ce qui concerne le mouvement des coopérants techniciens, le départ de ces agents s'échelonne tout au long de l'année, et il en est de même des recrutements, même si beaucoup d'entre eux s'effectuent d'août à octobre. Les colonnes 3 et 4 du tableau ne peuvent dans ces conditions être remplies. Dans la colonne 1, ont été mentionnés les chiffres concernant le nombre d'agents atteints par la limitation du temps de séjour, et dans la colonne 2 le nombre de dérogations accordées. Notons que les autorités ivoiriennes se sont opposées à toute mesure de limitation de temps de séjour pour le personnel non enseignant. La différence entre ces deux chiffres ne correspond pas intégralement à des postes à pourvoir ou déclarés vacants, car beaucoup de ces postes ont été mis en réserve pour des redéploiements ultérieurs. Le nombre important des dérogations tient à la mise en oeuvre des nouvelles dispositions concernant le temps de séjour. Les règles, précédemment fixées, ont en effet été assouplies pour permettre de prendre mieux en compte aussi bien les souhaits de nos partenaires que les situations personnelles des agents eux-mêmes. Nota : voir tableau page 162
