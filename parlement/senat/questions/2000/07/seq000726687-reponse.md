@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000726687
+
+- Question : [SEQ000726687](seq000726687.md) — Moyens des instituts de formation en soins infirmiers
+
+## Réponse
+
+*Santé, JO du 2000-10-05, page 3408*
+
+Réponse. - Afin d'accueillir dans les meilleures conditions les 26 436 étudiants infirmiers prévus par l'arrêté du 6 avril 2000 relatif à la fixation des quotas d'entrée dans les instituts de formation en soins infirmiers, 313,5 postes de moniteur ont été créés au plan national en vue de leur affectation dans les instituts pour la rentrée de septembre 2000. L'augmentation du nombre d'étudiants infirmiers nécessite la mobilisation de l'ensemble des forces pédagogiques présentes dans les instituts de formation en soins infirmiers. La question de la création de postes de conseillère pédagogique a été évoquée à plusieurs reprises avec les organisations professionnelles concernées. L'opportunité et la faisabilité d'une telle mesure sont aujourd'hui à l'étude dans les services du ministère. Une réflexion est également en cours sur les aménagements à apporter à la réglementation en vigueur, en vue d'accorder aux directeurs des instituts de formation en soins infirmiers une plus grande autonomie dans la planification des stages tout au long de la scolarité. En ce qui concerne l'accès des directeurs d'instituts de formation en soins infirmiers et des moniteurs à la formation continue, le plan de formation des établissements publics de santé prévu par les dispositions du décret nº 90-319 du 5 avril 1990 relatif à la formation professionnelle des agents de la fonction publique hospitalière porte notamment sur des actions d'adaptation en vue de faciliter le maintien des qualifications requises dans les emplois occupés. Quant au statut de ces personnels, le protocole du 14 mars 2000 a prévu un calendrier de négociations sur les filières professionnelles dont la filière paramédicale dès décembre 2000. Une étude est par ailleurs en cours sur le rôle de l'encadrement.
