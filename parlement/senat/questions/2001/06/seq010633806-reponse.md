@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010633806
+
+- Question : [SEQ010633806](seq010633806.md) — Opportunité de mission pour les astronautes européens sur le segment russe de la station spatiale Zvezda
+
+## Réponse
+
+*Recherche, JO du 2001-08-09, page 2639*
+
+Le CNES a engagé avec Rozaviakosmos et l'ESA des négociations, qui ont débuté en octobre 2000, sur un vol " taxi " (changement du vaisseau Soyouz amarré à la station spatiale internationale et servant de véhicule de secours) d'une durée de dix jours sur le segment russe de la station. Un mémorandum d'accord a été signé entre le CNES, Rozaviakosmos et RKK Energia, le 23 décembre 2000, sur les conditions de réalisation de la mission. La mission du CNES, baptisée Andromède, au cours de laquelle un programme scientifique et technologique sera effectué par l'astronaute française de l'ESA, Claudie Haigneré, sera réalisée en octobre 2001. L'astronaute aura également la fonction d'ingénieur de bord et, à ce titre, fera partie de l'équipage opérationnel du vol. L'accord du CNES est précurseur d'un accord-cadre signé en avril 2001 entre l'ESA et Rozaviakosmos pour la réalisation de vols européens dans le segment russe de la Station spatiale internationale, dans la période 2001-2006. L'accord ESA-Rozaviakosmos fixe les modalités de la coopération entre les deux agences ; le type de vol, le contenu du programme d'expérimentation et le coût de chacun des vols seront négociés au cas par cas. L'hypothèse d'une mission par an est retenue. Au titre de cet accord, l'Agence spatiale italienne (ASI) a déjà pris une option pour un astronaute de l'ESA de nationalité italienne, qui volera probablement en avril 2002. Des négociations sont en cours pour le vol d'un astronaute de l'ESA de nationalité belge en 2003. Ces accords se traduiront par un renforcement important des compétences opérationnelles des astronautes européens avant que la Station spatiale internationale ne soit pleinement opérationnelle.
