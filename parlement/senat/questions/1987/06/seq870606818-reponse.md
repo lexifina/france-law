@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870606818
+
+- Question : [SEQ870606818](seq870606818.md) — Grèves des contrôleurs aériens
+
+## Réponse
+
+*Transports, JO du 1987-09-03, page 1390*
+
+Réponse. -Le ministre délégué chargé des transports, conscient des conséquences de la grève des contrôleurs de la navigation aérienne sur l'économie des entreprises, avait depuis plusieurs semaines recherché, par la négociation, une solution raisonnable à ce conflit. Les propositions de l'administration sont allées aussi loin qu'il était possible d'aller dans le cadre de la fonction publique. Ces propositions ont été rejetées en mai et juin par les organisations syndicales. Le ministre délégué chargé des transports a alors confié à un groupe de trois experts la tâche d'étudier la solution de ces problèmes dans le cadre d'un établissement public. Les conclusions des experts approuvées par le ministre ont été proposées aux organisations syndicales le 9 juillet. Elles concluaient à la faisabilité et à l'intérêt de la formule " établissement public " pour résoudre les problèmes de la navigation aérienne et allaient donc dans le sens de la proposition de l'assemblée permanente des chambres de commerce et d'industrie. A la suite du rejet de ces dernières propositions par les organisations syndicales, de nouvelles discussions se sont tenues au cours de la dernière semaine de juillet et se sont conclues par un protocole d'accord signé le 31 juillet par toutes les organisations syndicales sauf une. Les dispositions adoptées prévoient, d'une part, diverses mesures sociales et, notamment, une amélioration de la fin de carrière des contrôleurs et, en conséquence, de leurs retraites, et, d'autre part, des engagements portant sur la qualité et la productivité du service de la navigation aérienne. Elles ont permis de mettre fin au conflit en cours.
