@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971104330
+
+- Question : [SEQ971104330](seq971104330.md) — Traduction en langue française des brevets européens
+
+## Réponse
+
+*Affaires européennes, JO du 1997-12-18, page 3546*
+
+Réponse. - Comme l'indique l'honorable parlementaire, un projet appelé " solution globale ", visant à réduire le coût des brevets européens, a été proposé par le président de l'Office européen des brevets, M. Kober, aux Etats membres de l'OEB. Il s'agirait de supprimer la traduction intégrale des brevets. Le gouvernement français est convaincu des effets néfastes que pourrait avoir une telle proposition si elle était adoptée, notamment pour le statut européen et international de la langue française. Il a été donné instruction au représentant de la France à l'OEB de s'opposer systématiquement à la solution globale. De fait, cette propositon n'a pas été adoptée lors de la réunion des chefs de délégation au conseil d'administration de l'OEB qui s'est tenue à Munich le 4 mars dernier, certains pays comme la France l'ayant fermement refusé. Il a été convenu à Munich que l'OEB devait étudier des solutions alternatives permettant de réduire le coût des brevets sans pour autant porter atteinte à leur traduction. Les services français concernés ont été chargés des contre-propositions. Par ailleurs, dans son livre vert sur le brevet communautaire, la commission aborde le problème du coût des brevets. Elle présente les propositions qui ont été faites pour réduire ce poste budgétaire, et notamment celles qui passent par une limitation des traductions, comme la solution globale. Cela n'équivaut pas, à ce stade, à une prise de position de sa part, d'autant que le livre vert doit être discuté avec les Etats membres et les autres institutions communautaires. Le moment venu, les autorités françaises feront connaître à la commission leur opposition à la solution globale.
