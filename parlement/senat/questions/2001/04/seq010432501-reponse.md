@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010432501
+
+- Question : [SEQ010432501](seq010432501.md) — Egalité professionnelle à l'éducation nationale
+
+## Réponse
+
+*Fonction publique, JO du 2001-06-14, page 2012*
+
+La situation des agents de l'éducation nationale, comme celle des autres fonctionnaires,, est régie par le code des pensions. Celui-ci contient effectivement un certain nombre de dispositions inégalitaires entre l'homme et la femme. Ainsi, l'article L. 24 réserve aux seules femmes fonctionnaires, mères de trois enfants, le bénéfice d'une pension à jouissance immédiate après 15 ans de services publics. De même, l'article L. 12 n'accorde une bonification d'un an par enfant qu'aux femmes fonctionnaires. En revanche, la majoration de 10 % de l'article L. 18 est attribuée, sans distinction de sexe, à tout fonctionnaire ayant élevé trois enfants. En ce qui concerne les dispositions inégalitaires, elles sont actuellement examinées au regard du principe d'égalité entre hommes et femmes qui constitue une règle fondamentale du droit communautaire. Celui-ci admet, toutefois, des exceptions lorsque l'inégalité sert à compenser un désavantage et peut donc trouver une justification. La Cour de justice européenne examine actuellement, sous ce double aspect, la bonification de l'article L. 12 du code des pensions. D'une manière générale, les modifications susceptibles d'être apportées au régime spécial des fonctionnaires, au regard notamment des exigences européennes, ne pourront être définies que lorsque la réflexion engagée sur l'avenir des régimes de retraite aura été menée à son terme. A cet égard, il est rappelé que le Conseil d'orientation des retraites a été créé par le décret n° 2000-393 du 10 mai 2000. Cette structure qui associe syndicats, patronat, parlementaires et personnalités diverses pourra formuler des recommandations et proposer les réformes qui lui paraîtront nécessaires.
