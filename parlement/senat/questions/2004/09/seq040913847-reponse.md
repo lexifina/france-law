@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040913847
+
+- Question : [SEQ040913847](seq040913847.md) — Avenir de la ligne Nantes-Bordeaux
+
+## Réponse
+
+*Équipement, JO du 2004-12-09, page 2840*
+
+Il est aujourd'hui du ressort de la SNCF d'exploiter les liaisons existantes dans le cadre du monopole dont elle bénéficie et du système de péréquation financière qui lui permet d'assumer à la fois des missions relevant du service public et des missions à caractère davantage commercial. Dans ce cadre, il est légitime qu'elle réfléchisse à une meilleure adéquation de l'offre qu'elle propose avec les trafics existants ou potentiels. Les lignes dites transversales telles que Nantes - Bordeaux assurent de multiples fonctions, à la fois d'intérêt régional, interrégional ou national et conduisent la SNCF à souhaiter refondre les services pour proposer une nouvelle offre, qui puisse répondre à la fois aux volontés exprimées par certaines régions et au souci de maintenir une liaison structurante. Après une rencontre en septembre dernier entre le ministre de l'équipement, des transports, de l'aménagement du territoire, du tourisme et de la mer et le président de l'association des régions de France, M. Rousset, il a été convenu que, dès le dernier trimestre 2004, des groupes de travail avec les représentants des régions, la SNCF et l'Etat seraient mis en place à l'initiative de ce dernier, pour effectuer un diagnostic précis et partagé de l'état actuel de ces liaisons (pour les trafics et les aspects financiers). Dès 2005, l'ensemble des partenaires recherchera des solutions au cas par cas permettant de rénover en profondeur ces dessertes pour leur rendre une pertinence en matière de services offerts et d'équilibre économique. Ces résultats devront être disponibles pour le mois de juin 2005 afin de pouvoir les intégrer au plan de transport 2006 de la SNCF.
