@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910615532
+
+- Question : [SEQ910615532](seq910615532.md) — Suite donnée à la proposition de réunion d'une conférence des ministres européens de l'espace
+
+## Réponse
+
+*Premier ministre, JO du 1991-09-26, page 2073*
+
+Réponse. - Lors de la dernière conférence des ministres européens de l'espace, réunie à La Haye en novembre 1987, les ministres avaient fixé à l'Europe l'objectif de se doter des moyens d'effectuer de façon autonome des vols humains en orbite basse, et décidé le démarrage des programmes de développement correspondants : le lanceur Ariane 5, l'avion spatial Hermès, les laboratoires pressurisés Colombus, le système de satellite relais de données D.R.S. A l'exception d'Ariane 5, qui a essentiellement des objectifs commerciaux, la décision ferme portait seulement sur la première phase du développement, et rendez-vous était pris trois ans après le démarrage des travaux pour vérifier si les objectifs des programmes pouvaient être atteints à l'intérieur de l'enveloppe financière et pour confirmer la poursuite des programmes. Cette période de trois ans a permis de préciser la définition des programmes et d'améliorer leur cohérence. Ils ont maintenant atteint une maturité suffisante pour passer en phase de réalisation, et les estimations de coût ont pu être précisées. La conférence des ministres européens de l'espace, qui doit se réunir en novembre 1991 en Allemagne, devra se prononcer sur le passage en phase de réalisation de l'ensemble cohérent constitué par les programmes suivants : Hermès, avion spatial chargé de tranporter équipage et fret vers le laboratoire autonome visitable de Colombus ; Colombus, ensemble constitué par un laboratoire autonome, un autre laboratoire associé à la station internationale Freedom et un ensemble de satellites destinés à l'étude de l'environnement ; D.R.S. (système de satellites de relais de données) permettant les communications entre les divers éléments.
