@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700460
+
+- Question : [SEQ020700460](seq020700460.md) — Exclusion de trois communes du littoral picard de l'application du décret n° 2001-1315 du 28 décembre 2001
+
+## Réponse
+
+*Économie, JO du 2002-09-05, page 1952*
+
+L'article 79 de la loi de finances pour 2001 a étendu le bénéfice de la réduction d'impôt au titre des investissements locatifs réalisés dans les résidences de tourisme classées situées dans les zones rurales, autres que les zones de revitalisation rurale, inscrites sur la liste des zones concernées en France par l'objectif n° 2 prévu à l'article 4 du règlement (CE) n° 1260/1999 du Conseil du 21 juin 1999 portant dispositions générales sur les fonds structurels. Les nouvelles zones éligibles à l'avantage fiscal sont délimitées par le décret n° 2001-1315 du 28 décembre 2001. Les zones rurales visées par ce décret s'entendent des communes qui, selon les données de l'INSEE, comptent moins de 2 000 habitants agglomérés ou ne font pas partie d'une unité urbaine pluri-communale répondant à cette condition. Cette notion repose sur la continuité de l'habitat, qui s'apprécie en fonction de la distance et de la nature des terrains séparant les habitations. Une unité urbaine peut ainsi être composée d'une commune ou d'un ensemble de communes entières selon que l'agglomération s'étend sur une ou plusieurs communes. Les communes de Cayeux-sur-Mer, Mers-les-Bains et Saint-Valery-sur-Somme font partie d'unités urbaines qui dépassent chacune la limite de 2 000 habitants. C'est la raison pour laquelle ces communes ne figurent pas sur la liste des zones rurales annexées au décret précité. En effet, la liste des zones concernées en France a été établie à partir des critères définis à l'article 4 du règlement communautaire précité, en concertation étroite avec la Commission européenne. De ce fait, la modification du décret du 28 décembre 2001 ne peut être envisagée.
