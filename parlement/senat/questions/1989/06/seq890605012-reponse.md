@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890605012
+
+- Question : [SEQ890605012](seq890605012.md) — Obtention de doctorats au centre de Nouméa de l'université française du Pacifique
+
+## Réponse
+
+*Départements et territoires d'Outre-mer (DOM-TOM), JO du 1990-04-26, page 917*
+
+Réponse. - L'unité française du Pacifique, créée par décret n° 87-360 du 29 mai 1987, a notamment pour mission la recherche. Aux termes de l'article 3 du décret précité " elle dispense, par convention avec des établissements d'enseignement supérieur ou organismes de recherche, des formations de troisième cycle ". Il entre donc dans la vocation de cet établissement et de son centre universitaire situé à Nouméa de développer des formations de ce niveau. Le centre universitaire de Nouméa a ouvert ses portes en février 1989. Pour cette première année universitaire, ont été logiquement mis en place un certain nombre de D.E.U.G. destinés à permettre aux bacheliers de Nouvelle-Calédonie de commencer des études supérieures sur le territoire. Il developpe progressivement les filières d'enseignement dispensées. L'universitè française du Pacifique développera donc les enseignements de troisième cycle. Ce développement sera fonction du nombre d'étudiants potentiels du territoire et des pays de la zone, du potentiel de recherche et des besoins du territoire. Est actuellement examinée, par l'université française du Pacifique et par le ministère de l'éducation nationale, de la jeunesse et des sports la possibilité d'ouvrir sur la période 1991-1993, trois D.E.A. au centre universitaire de Nouméa, en droit et en sciences. En outre, les titulaires du diplôme d'études approfondies (D.E.A.) peuvent, si leur projet de thèse a été accepté par un directeur de thèse, préparer celle-ci à l'université française du Pacifique, après accord du président de cet établissement.
