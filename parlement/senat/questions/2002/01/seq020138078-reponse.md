@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020138078
+
+- Question : [SEQ020138078](seq020138078.md) — Enseignement de la philosophie en terminale
+
+## Réponse
+
+*Éducation, JO du 2002-03-28, page 916*
+
+Le nouveau programme des séries générales, qui s'applique depuis la rentrée dernière, est la version remaniée après consultation des enseignants d'un programme initialement publié en août 2000. Cette version, tout comme la première, a reçu un avis favorable du Conseil national des programmes et un vote positif au Conseil supérieur de l'éducation. Afin de tenir compte de l'inquiétude exprimée par les enseignants, ce programme amendé a été publié au Bulletin officiel n° 28 du 12 juillet 2001 accompagné d'une note de service indiquant que la partie intitulée " Questions d'approfondissement ", qui rencontrait le plus d'opposition, était facultative pour l'année 2001-2002. En juin 2001, le texte de ce nouveau programme a été envoyé à tous les professeurs concernés, assorti d'une lettre de la direction de l'enseignement scolaire expliquant les motivations de cette réforme et les modalités de son application. Afin d'accompagner au mieux cette dernière, une Commission nationale de suivi de l'enseignement philosophique a été créée. Composée exclusivement de professeurs de philosophie exerçant en université, en IUFM, en classes préparatoires ou en lycée, sa mission est d'observer les difficultés rencontrées sur le terrain et d'émettre des propositions pour y remédier. Le nouveau groupe d'experts sur les programmes scolaires de philosophie, qui a pris ses fonctions en début d'année scolaire et a été chargé dans un premier temps d'élaborer un projet de programme de philosophie pour les classes terminales des séries technologiques, vient d'être saisi des recommandations de la Commission nationale de suivi pour modifier le programme des séries générales. Ses propositions seront soumises au ministre dans les semaines à venir.
