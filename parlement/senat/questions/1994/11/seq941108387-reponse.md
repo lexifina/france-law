@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941108387
+
+- Question : [SEQ941108387](seq941108387.md) — Situation des centres d'hébergement et de réadaptation sociale (CHRS)
+
+## Réponse
+
+*Affaires sociales, JO du 1995-02-02, page 255*
+
+Réponse. - Les conclusions de l'inspection commune confiée à l'inspection générale des affaires sanitaires et sociales et à l'inspection des finances, pour apprécier et évaluer la situation financière des CHRS, ont effectivement confirmé que la situation de ces structures est hétérogène. Certaines d'entre elles se trouvent ainsi dans une situation financière plus difficile que d'autres. La priorité est donc actuellement de corriger les situations particulièrement inéquitables. Pour ce faire, la dotation nationale inscrite dans la loi de finances pour 1995 au titre de la reconduction connaît une progression de 8,9 p. 100 de la dotation initiale votée en 1994. Cette augmentation des moyens doit conduire à la remise à niveau de certaines dotations budgétaires départementales permettant notamment la prise en compte du coût des avenants salariaux non encore financés. Aussi, afin de permettre une répartition optimale des crédits destinés au financement des dépenses de fonctionnement des CHRS, il a été demandé aux services déconcentrés de procéder au réexamen systématique des conventions et des budgets. Ces travaux de clarification et de rationalisation des missions et des dépenses de ces structures doivent être menés à bien au cours des exercices 1995 et 1996. De plus, les crédits budgétaires prévoient également la création, en 1995, de plus de 500 places nouvelles qui permettra l'extension ainsi que les adaptations et modernisations nécessaires du dispositif d'accueil des populations les plus démunies en situation de grande précarité, notamment dans les centres urbains.
