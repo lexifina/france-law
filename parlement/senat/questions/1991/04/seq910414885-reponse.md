@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910414885
+
+- Question : [SEQ910414885](seq910414885.md) — Définition d'une doctrine d'emploi de brigades de surveillance nocturnes
+
+## Réponse
+
+*Intérieur, JO du 1991-06-27, page 1332*
+
+Réponse. - Les brigades de surveillance nocturne, dont la création, l'organisation et le fonctionnement étaient fixés par différentes notes de services internes aux polices urbaines, ne pouvaient être utilisées que dans des plages horaires déterminées. Seule la police parisienne disposait d'unités spécialisées (brigades de surveillance de voie publique) pouvant être employées en journée. Afin de permettre à la police nationale d'adapter son dispositif aux évolutions de la criminalité, dans le cadre des seize mesures pour lutter contre la petite et moyenne délinquance formulées le 16 octobre 1990, il avait été annoncé qu'une étude porterait sur la définition d'emploi de ces unités et sur l'élaboration de règles précises d'encadrement et de formation. Un projet de note de service traitant de la création, de l'organisation, du recrutement, du fonctionnement, de l'équipement, de l'emploi et de la formation des brigades anti-criminalité, ce terme générique regroupant les appellations des brigades spécialisées dans la lutte contre la criminalité de voie publique (B.S.N., B.S.V.P., B.A.C.) a été soumis au comité technique paritaire de la police nationale qui l'a adopté le 14 mai 1991. Le texte retenu répond à deux préoccupations essentielles pour la police nationale : recherche d'une plus grande efficacité vis-à-vis du phénomène criminel et sécurité accrue des interventions par une série de mesures portant sur l'organisation, l'emploi, la formation et le recrutement de ces personnels. Pour répondre à l'interrogation de l'honorable parlementaire, les instructions relatives à la mise en oeuvre des brigades anti-criminalité devraient être définies très prochainement.
