@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870707240
+
+- Question : [SEQ870707240](seq870707240.md) — Aides-ménagères : exonération des charges sociales
+
+## Réponse
+
+*Affaires sociales, JO du 1987-11-26, page 1862*
+
+Réponse. -En étendant le champ d'application du dispositif d'exonération prévu par l'article L. 241-10 du code de la sécurité sociale, la loi n° 87-39 du 27 janvier 1987 répond au souhait, maintes fois exprimé par les organisations représentatives des personnes invalides ainsi que les élus, de mettre un terme aux inégalités qui pouvaient subsister entre des situations de dépendance souvent très proches, au regard des dispositions introduites par le décret n° 72-230 du 24 mars 1972. La quasi-totalité des personnes handicapées et l'ensemble des personnes âgées se voient désormais ouvrir le droit à l'exonération totale des cotisations de sécurité sociale dans la limite de 6 000 francs par trimestre de cotisations dues. La loi permet donc aux personnes, dont les revenus pouvaient les éloigner de l'aide institutionnelle procurée principalement par les services d'aide ménagère, de bénéficier de l'effort de la collectivité pour supporter les charges liées à leur âge ou à leur handicap. Elle contribue ainsi davantage à compléter le vaste dispositif d'assistance aidé tant par l'Etat sous la forme de subventions spéciales et d'exonérations fiscales propres que par les organismes de sécurité sociale (dont l'effort financier se poursuit), et qui doit faire face à une demande en progression constante, qu'à introduire les éléments d'une éventuelle concurrence. Il faut souligner enfin que la disparité des rémunérations dont il est fait état est très relative : elle s'atténue en effet très vite pour disparaître à compter du quatrième échelon de la carrière des aides ménagères telle qu'elle se déroule dans le cadre de la convention collective nationale qui régit cette profession.
