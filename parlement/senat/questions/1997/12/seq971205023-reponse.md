@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971205023
+
+- Question : [SEQ971205023](seq971205023.md) — Coût des formations proposées aux bénéficiaires du RMI
+
+## Réponse
+
+*Éducation, JO du 1998-06-18, page 1943*
+
+Réponse. - Le dispositif tarifaire du CNED est établi en fonction, d'une part, de la nature des prestations assurées par l'établissement et des publics concernés. D'autre part, certains tarifs, correspondant à des prestations complètes, recouvrent la mise en place d'un parcours de formation, le suivi personnalisé de la formation ainsi que les attestations d'assiduité. Les prestations sont celles d'une prestation classique de formation professionnelle continue. Dans ce cadre, l'établissement pratique des tarifs qui prennent en compte la totalité des dépenses qu'il a engagées. Le tarif de 3 350 francs, cité en exemple et correspondant à une inscription à une préparation au concours de conseiller pédagogique psychologue, s'inscrit dans cette logique tarifaire. Il faut préciser que, s'il s'agit de demandeurs d'emplois et notamment d'allocataires du RMI, quand leur formation est prise en charge par le département dans le cadre de programmes locaux d'insertion sur la base d'avis rendus par les commissions locales d'insertion, ceux-ci bénéficient de tarifs auxquels est appliquée une remise de 40 %. Le tarif de 1 300 francs, également pratiqué par le CNED pour la même formation dans le cadre d'une inscription individuelle, c'est-à-dire dans le cadre d'une démarche de promotion sociale, correspond en revanche à des prestations de base qui n'incluent pas de contrôle d'assiduité ni de mesures d'accompagnement tel que le regroupement ou accompagnement présentiel. De plus, il s'agit dans ce cas de droits d'inscription établis en tenant compte de subventions versées par le ministère de tutelle du CNED.
