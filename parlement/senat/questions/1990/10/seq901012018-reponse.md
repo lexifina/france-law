@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901012018
+
+- Question : [SEQ901012018](seq901012018.md) — Situation de l'emploi à GIAT Industries au Mans (Sarthe)
+
+## Réponse
+
+*Défense, JO du 1990-12-20, page 2696*
+
+Réponse. - Les difficultés structurelles liées au statut du Groupement industriel des armements terrestres (G.I.A.T.) ont conduit à transformer ce dernier en société nationale à capitaux d'Etat, lui offrant ainsi un cadre plus favorable pour la résolution de ses problèmes industriels. L'insuffisance de charge du G.I.A.T. a fait apparaître la nécessité, au-delà des mesures de réduction d'effectifs déjà décidées sur la période 1987-1990, d'accompagner la création de la société G.I.A.T. Industries d'une déflation supplémentaire de 1 200 postes d'ici la fin de l'année 1991, répartis sur les différents sites de la société. Il appartient à la nouvelle société G.I.A.T. Industries de mettre en oeuvre les solutions qui lui permettront d'atteindre la meilleure efficacité industrielle possible pour défendre sa place dans la sévère compétition internationale actuelle. Le ministre de la défense suit avec une attention particulière son évolution. La vocation du site du Mans concerne la production des munitions de petit calibre, pour l'essentiel les munitions de 5,56 millimètres. Pour consolider cette vocation, il est indispensable que G.I.A.T. Industries améliore sa compétitivité, ce qui ne permet pas l'augmentation de son potentiel productif, en l'absence de perpectives de pénétration durable sur le marché international. Pour faire fructifier les atouts nouveaux dont il dispose notamment dans le domaine commercial G.I.A.T. Industries doit rechercher en permanence les gains de productivité qui lui permettront, dans un contexte particulièrement difficile, de développer ses parts de marché. Les éventuelles embauches auxquelles la société souhaiterait procéder interviendraient en tout état de cause sous le régime de la convention collective.
