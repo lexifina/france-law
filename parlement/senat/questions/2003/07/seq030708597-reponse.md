@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030708597
+
+- Question : [SEQ030708597](seq030708597.md) — Pérennisation des coopératives d'utilisation de matériel agricole (CUMA)
+
+## Réponse
+
+*Agriculture, JO du 2003-10-02, page 2969*
+
+Le dispositif des prêts bonifiés à l'agriculture, instrument important du financement de l'agriculture, est bien maintenu après les adaptations indispensables à sa pérennisation et dans des modalités garantissant l'égalité de traitement de tous les exploitants. Les banques habilitées à distribuer des prêts bonifiés le sont désormais sur quatre ans (2003 à 2006), ce qui garantit, sur cette période, la continuité dans l'accès aux prêts. Le système de bonification nécessitait des évolutions afin de mieux encadrer la dépense budgétaire au profit du secteur agricole et de répondre aux exigences communautaires en matière de " traçabilité " des dépenses présentées au cofinancement du FEOGA. L'enveloppe nationale des prêts à moyen terme spéciaux aux coopératives d'utilisation en commun de matériel agricole (MTS-CUMA) a été reconduite à 121 MEUR pour 2003 et les taux des prêts MTS-CUMA sont maintenus à 3 % ou 4 % selon que la CUMA se situe en zone défavorisée ou en zone de plaine. La fixation de ces taux relève d'une décision conjointe du ministère de l'économie, des finances et de l'industrie et du ministère de l'agriculture, de l'alimentation, de la pêche et des affaires rurales. Si les taux du marché continuent à baisser, il pourrait être envisagé, dans le cadre des négociations annuelles des enveloppes de prêts bonifiés avec le ministère de l'économie, des finances et de l'industrie, de demander la révision des taux des prêts bonifiés à la baisse. Il était important de pérenniser le dispositif des prêts bonifiés, qui permet d'encourager l'installation des jeunes agriculteurs et de soutenir les investissements, réalisés notamment dans le cadre des CUMA.
