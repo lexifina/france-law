@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900610155
+
+- Question : [SEQ900610155](seq900610155.md) — Préleveurs contractuels de la façade Manche en poste à Rouen (Seine-Maritime)
+
+## Réponse
+
+*Agriculture, JO du 1990-08-02, page 1702*
+
+Réponse. - La direction générale de l'administration au ministère de l'agriculture et de la forêt n'a à aucun moment déclaré qu'il y avait impossibilité juridique de renouveler les contrats à durée déterminée des préleveurs de l'Office national interprofessionnel des céréales (O.N.I.C.). A une demande d'avis de la direction générale de cet établissement concernant la possibilité de renouveler des contrats souscrits avant la loi n° 87-588 du 30 juillet 1987, qui a modifié l'article 4 de la loi n° 84-16 du 11 janvier 1984, le ministère de l'agriculture et de la forêt a répondu, en s'appuyant sur les termes mêmes de la loi, que dans les administrations de l'Etat, les contrats à durée déterminée qui ne sont pas du niveau de la catégorie A ne peuvent être conclus que dans l'hypothèse où il n'existe pas de corps de fonctionnaires susceptibles d'assurer les fonctions correspondantes. La sous-direction de la fonction publique interrogée sur cette affaire a fait exactement la même réponse. Le problème posé par les préleveurs de l'O.N.I.C. n'est donc pas un problème juridique, mais plutôt un problème de gestion. Cependant, bien qu'il n'appartienne pas au ministre de l'agriculture et de la forêt de s'immiscer dans la gestion courante des établissements publics placés sous sa tutelle, devant l'émotion suscitée par le problème du renouvellement de six contrats à durée déterminée, le ministre de l'agriculture a demandé à l'O.N.I.C. que, dans le cas où aucun corps de fonctionnaires ne pourrait assurer les fonctions de préleveur, les contrats fussent renouvelés à hauteur des besoins.
