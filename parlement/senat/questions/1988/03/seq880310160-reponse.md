@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880310160
+
+- Question : [SEQ880310160](seq880310160.md) — Français de l'étranger : titres d'identité délivrés à des enfants mineurs
+
+## Réponse
+
+*Affaires étrangères, JO du 1988-05-10, page 639*
+
+Réponse. -Les consulats français à l'étranger sont effectivement amenés à délivrer des titres d'identité et de voyage à des enfants mineurs français qui possèdent également une autre nationalité. Ces documents sont délivrés à la demande du parent qui exerce à l'égard de l'enfant l'autorité parentale. Si la loi française prévoit que pour les enfants légitimes chacun des deux parents est investi de l'autorité parentale, il n'en est pas de même dans certains pays étrangers, y compris européens, dans lesquels la législation prévoit au contraire que seul le père a qualité pour agir au nom de son enfant ou encore que l'accord des deux parents est indispensable. Pour des enfants ayant la seule nationalité française, ce double accord serait une formalité inutile et n'est donc pas exigé. En ce qui concerne les enfants français également ressortissants du pays dans lequel ils résident, il résulte de la consultation interministérielle effectuée à ce sujet qu'il y a bien lieu, dans le domaine dont il s'agit, de tenir compte de la législation locale, en vertu notamment de la règle de la " priorité d'allégeance au pays de résidence ". Par ailleurs, l'article 5 h de la convention de Vienne du 24 avril 1963 sur les relations consulaires, qui codifie sur ce point le droit international coutumier, dispose que les représentations consulaires ont notamment pour mission de sauvegarder, " dans les limites fixées par les lois et règlements de résidence ", les intérêts des mineurs. Tels sont les principes sur lesquels se fondent nos consulats pour instruire les demandes de délivrance de titres nationaux d'identité ou de voyage à des enfants mineurs possédant également la nationalité du pays de leur résidence.
