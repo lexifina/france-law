@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910213997
+
+- Question : [SEQ910213997](seq910213997.md) — Insuffisance des allocations servies aux handicapés et accidentés de la vie
+
+## Réponse
+
+*Handicapés, JO du 1991-05-16, page 1035*
+
+Réponse. - L'allocation aux adultes handicapés (A.A.H.), prestation non contributive, est un minimum garanti par la collectivité nationale à toute personne reconnue handicapée par la COTOREP. Elle est égale au montant de l'allocation aux vieux travailleurs salariés augmentée de l'allocation supplémentaire du Fonds national de solidarité, c'est-à-dire au minimum vieillesse. Le montant de ce minimum a été nettement revalorisé ces dernières années : il a été porté de 1 416,66 francs mensuel au 1er janvier 1981 à 2 980,83 francs au 1er janvier 1991, ce qui représente une progression en dix ans de l'ordre de 110,4 p. 100. En termes de pouvoir d'achat le montant de l'A.A.H. représente aujourd'hui 66,5 p. 100 du S.M.I.C. net. L'A.A.H. a été revalorisée de 3,35 p. 100 en 1990 et de 1,7 p. 100 au 1er janvier 1991. La revalorisation de 1,7 p. 100 au 1er janvier 1991 représente plus de la moitié de l'évolution prévisible des prix pour 1991. Il est utile de préciser que, contrairement aux années précédentes, l'augmentation retenue pour le 1er janvier 1991 a été fixée à titre provisoire. La revalorisation des pensions et allocations versées aux personnes handicapées sera réexaminée au 1er juillet. Le Gouvernement disposera en effet à cette époque d'une appréciation plus précise des conditions économiques de l'année en cours, notamment des conséquences de la situation internationale qui aujourd'hui demeurent très incertaines. Les contraintes budgétaires actuelles ne permettent pas d'envisager de porter dans l'immédiat le montant de l'A.A.H. à la hauteur de 80 p. 100 du S.M.I.C. brut.
