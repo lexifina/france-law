@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890705630
+
+- Question : [SEQ890705630](seq890705630.md) — Etalement des vacances scolaires
+
+## Réponse
+
+*Éducation, JO du 1989-08-24, page 1326*
+
+Réponse. - Le calendrier scolaire national, établi pour les années 1990-1991, 1991-1992, 1992-1993, prend appui sur la loi d'orientation sur l'éducation n° 89-486 du 10 juillet 1989. Il tient compte dans toute la mesure du possible des données économiques et sociales. Son objectif essentiel est de répondre aux rythmes de vie des enfants et aux impératifs de l'enseignement. Le calendrier scolaire triennal garantit aux élèves des enseignements élémentaires et secondaires un juste équilibre entre les périodes de travail et les périodes de vacances. Le zonage des vacances d'hiver et de printemps a été réduit à deux zones pour respecter cet équilibre. Une rotation des zones est par équité prévue d'une année sur l'autre. Les vacances de Toussaint durent une semaine, celles de Noël, d'hiver et de printemps en comportent deux. En conséquence, si la période fixée pour les congés de printemps est moins favorable aux activités sportives de neige, leur durée donne toute satisfaction au secteur touristique. La durée des vacances d'été est égale ou supérieure à neuf semaines. Leur début a été retardé d'une semaine environ mais la rentrée scolaire a été également retardée d'une semaine. Ces dispositions ont recueilli l'avis favorable des organismes concernés. Les familles pourront, selon leur souhait, utiliser pleinement les équipements touristiques pendant la totalité du mois d'août. Les contraintes liées au système éducatif, celles notamment relatives à l'organisation des examens, et celles touchant aux concours de recrutement des personnels enseignants ne permettent pas d'envisager encore une répartition en zones des académies pendant la période de vacances d'été.
