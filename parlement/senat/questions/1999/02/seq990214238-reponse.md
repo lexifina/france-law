@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990214238
+
+- Question : [SEQ990214238](seq990214238.md) — Risques liés aux incendies de voitures fonctionnant au gaz liquéfié (GPL)
+
+## Réponse
+
+*Aménagement du territoire, JO du 2001-01-11, page 81*
+
+Réponse. - La ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question relative à la dangerosité des véhicules fonctionnant au gaz liquéfié. Suite à l'accident de Vénissieux en 1999 au cours duquel un pompier a été grièvement blessé lors de l'explosion d'un véhicule GPL, les mesures suivantes ont été prises par les pouvoirs publics. - Arrêté du ministre de l'équipement, des transports et du logement du 4 août 1999 spécifiant que tout véhicule GPL mis en circulation ou équipé en 2e monte sera équipé d'une soupape de sécurité conforme au règlement nº 67 CEE/ONU modifié à compter du 1er février 2000. - Examen des cartes grises lors du contrôle technique afin de s'assurer que le mode de carburation est bien spécifié. - Arrêté de la ministre de l'aménagement du territoire et de l'environnement du 3 avril 2000 portant interdiction aux véhicules GPL d'accéder aux parcs de stationnement couverts (capacité supérieure à 250 places) lorsque ces véhicules ne sont pas équipés de soupapes. - Décret interministériel du 7 septembre 2000 instituant la mise à niveau des véhicules non équipés de soupapes, soit 120 000 véhicules pour un coût de 150 MF environ. De plus, une convention a été signée entre l'Etat et le groupement d'intérêt économique de distributeurs GPL constitué à cet effet afin d'aider financièrement cette mise à niveau. Toutes ces mesures ont été prises pour améliorer la sécurité des véhicules alimentés au GPL qui permettront, lorsque tout le parc de véhicules sera équipé de soupapes de sécurité, de minimiser le risque éventuel d'explosion.
