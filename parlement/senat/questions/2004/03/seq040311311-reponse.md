@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040311311
+
+- Question : [SEQ040311311](seq040311311.md) — Epizootie de grippe aviaire dans les pays asiatiques et obligation d'affichage de l'origine des viandes de volaille
+
+## Réponse
+
+*Agriculture, JO du 2004-07-29, page 1717*
+
+Les conditions sanitaires d'importation des produits d'origine animale sont totalement harmonisées au niveau communautaire. Ainsi, des mesures de protection contre l'influenza aviaire hautement pathogène ont été adoptées au niveau communautaire, dès le mois de janvier 2004, à l'encontre des pays tiers dans lesquels sévit cette épizootie. Les importations de volailles vivantes et de produits avicoles à risque sont depuis lors suspendues en provenance de ces pays tiers. Pour ce qui concerne l'importation des oiseaux de volière et des oiseaux de compagnie autres que les volailles, la suspension d'importation prévue au niveau communautaire a été étendue au niveau national par l'arrêté interministériel du 29 janvier 2004. Pour ce qui concerne les aspects liés à l'information du consommateur, un marquage de salubrité identifiant l'origine du produit est requis pour son autorisation d'introduction de ce produit. Toutefois, la directive 2000/13/CE du Parlement européen et du Conseil du 20 mars 2000 relative au rapprochement des législations des Etats membres concernant l'étiquetage et la présentation des denrées alimentaires ainsi que la publicité faite à leur égard ne prévoit pas d'obligation d'étiquetage obligatoire du lieu d'origine ou de provenance, à l'exception des cas où l'omission de cette mention serait susceptible d'induire le consommateur en erreur sur l'origine ou la provenance réelle de la denrée alimentaire. Cette mention est une mention facultative. Ainsi, l'apposition d'une telle mention ne peut donc que résulter d'une démarche volontaire des acteurs économiques.
