@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960113462
+
+- Question : [SEQ960113462](seq960113462.md) — Avenir du service des douanes dans le département de la Moselle
+
+## Réponse
+
+*Économie, JO du 1996-06-06, page 1382*
+
+Réponse. - L'administration des douanes adapte régulièrement son réseau à l'évolution des flux des opérations de commerce extérieur et des mouvements de voyageurs aux frontières extérieures dans le double but de répondre aux besoins des opérateurs économiques et de maintenir les conditions d'une lutte efficace contre les trafics illicites. L'ouverture du grand marché intérieur a eu des conséquences importantes sur le volume des échanges commerciaux et les conditions d'exercice des missions de surveillance de la direction générale des douanes et droits indirects, particulièrement dans la direction régionale de Metz dont les effectifs ont diminué de 27 p. 100 en 1992 et 1995. Cette baisse, qui a principalement concerné les services des opérations commerciales, a eu un impact limité sur les effectifs des services de surveillance (365 emplois en 1995 contre 417 en 1992). L'élargissement de l'Union européenne à trois nouveaux membres a imposé de nouvelles adaptations tant en ce qui concerne les méthodes de travail que le niveau des effectifs. La loi de finances pour 1996 prévoit une réduction des effectifs budgétaires de la direction générale des douanes et droits indirects de 250 agents. Après les mouvements sociaux de l'automne, la reprise du dialogue social se traduit par la réunion de nombreux groupes de travail avec les représentants syndicaux. La concertation ainsi entreprise porte sur l'ensemble des domaines d'action de la direction générale des douanes et droits indirects et doit permettre l'adoption de mesures concertées, dans le cadre des comités techniques paritaires locaux.
