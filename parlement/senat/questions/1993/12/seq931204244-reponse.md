@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931204244
+
+- Question : [SEQ931204244](seq931204244.md) — Titularisation des agents non titulaires de l'Etat de catégorie A du ministère des affaires étrangères
+
+## Réponse
+
+*Affaires étrangères, JO du 1994-03-31, page 713*
+
+Réponse. - L'article 73 de la loi no 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relative à la fonction publique de l'Etat dispose que, moyennant certaines conditions, " les agents non titulaires qui occupent un emploi présentant les caractères définis à l'article 3 du titre 1er du statut général ont vocation à être titularisés, sur leur demande, dans des emplois de même nature qui sont vacants ou qui seront créés par les lois de finances ". Un certain nombre d'agents contractuels du ministère des affaires étrangères exerçant des fonctions du niveau de la catégorie A ont en effet sollicité leur titularisation en application du texte susvisé. Le ministère des affaires étrangères est bien conscient des obligations qui pèsent sur l'ensemble des administrations au profit des agents concernés par la loi susvisée. Il estime cependant nécessaire, avant d'entreprendre sa réflexion sur le problème de la titularisation de ces agents, d'établir le bilan de l'opération de titularisation des personnels de catégorie B qui vient de s'achever. Cette évaluation apparaît d'autant plus nécessaire que le principe de la titularisation des agents de catégorie A pose des problèmes nettement plus complexes que les deux précédentes titularisations s'agissant notamment de la détermination des corps d'accueil, des conditions de diplôme qui ne peuvent trouver leur solution que dans un cadre interministériel. Une fois cette réflexion technique achevée, il sera nécessaire d'en saisir la direction générale de l'administration de la fonction publique et le ministère du budget, sans lesquels un tel processus ne pourra utilement être mené à bien.
