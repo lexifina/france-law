@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870204637
+
+- Question : [SEQ870204637](seq870204637.md) — Recrutement de professeurs d'éducation physique et sportive
+
+## Réponse
+
+*Éducation, JO du 1987-04-16, page 584*
+
+Réponse. -Pour appréhender avec équité la situation de l'éducation physique et sportive en 1987, il convient de rappeler que, dès son rattachement au ministère de l'éducation nationale, la discipline a bénéficié d'une priorité qui a permis d'affecter dans les établissements du second degré un nombre important d'emplois nouveaux d'enseignants d'éducation physique et sportive. Les efforts consentis ont apporté une amélioration notable puisqu'aussi bien une étude effectuée sur l'année 1985-1986 montre que les horaires prévus sont satisfaits à 97 p. 100 dans les collèges, 89 p. 100 dans les lycées professionnels et 100 p. 100 dans les lycées. Durant l'année 1986, une procédure nouvelle a été appliquée, répondant à la politique d'intégration de la discipline dans l'ensemble du système éducatif ; il n'a pas été défini au niveau national de contingent d'emplois d'enseignant d'éducation physique et sportive, les besoins de cette discipline devant être considérés de la même façon que les services des autres disciplines. Pour la rentrée de septembre 1987, les postes d'E.P.S. font donc partie de l'enveloppe globale de moyens nouveaux. En 1987, il y aura 270 postes au C.A.P.E.P.S. et 32 postes à l'agrégation, soit pour ce dernier concours une augmentation de 7 postes par rapport à 1986. Toutes dispositions vont être prises pour que les flux de ces concours qui constituent désormais les seules voies d'accès à l'enseignement de la discipline puissent, dans la limite du potentiel global disponible, tenir compte dans les meilleures conditions possibles des besoins liés à la fois aux sorties de corps et à l'application des horaires réglementaires.
