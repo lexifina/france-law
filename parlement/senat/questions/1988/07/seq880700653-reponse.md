@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880700653
+
+- Question : [SEQ880700653](seq880700653.md) — Aménagement d'îlots en béton sur les routes : bilan des accidents
+
+## Réponse
+
+*Transports routiers et fluviaux, JO du 1988-12-29, page 1494*
+
+Réponse. - Le nombre des accidents imputables directement à l'implantation d'îlots en saillie est très faible si on le compare à l'ensemble des accidents mettant en cause d'autres obstacles inertes. D'après les enquêtes Réagir, portant sur 10 000 accidents mortels, dans un seul de ces 10 000 cas, on a pu mettre en évidence que la hauteur de l'îlot directionnel a été un facteur aggravant. Par ailleurs, une enquête plus systématique sur les circonstances générales des accidents corporels fait apparaître la présence d'un obstacle fixe dans environ 13 p. 100 des cas et celle d'un îlot directionnel dans 0,16 p. 100 des cas. L'un et l'autre chiffres, provenant des enquêtes Réagir et de l'enquête générale citée ci-dessus, mettent en évidence que ce n'est que dans certains cas très exceptionnels que les îlots directionnels peuvent aggraver les conséquences d'un accident ou d'une erreur de conduite. Cela est surtout vrai pour les aménagements anciens qui ne respectent pas les recommandations en vigueur (hauteur limitée à 10 centimètres et bordures chanfreinées). Les règles pour le choix entre îlots en saillie ou îlots en peinture ont été établies en tenant compte de toutes les analyses des accidents précédemment cités. Par ailleurs, les évolutions des accidents sur un certain nombre de carrefours ayant reçu un aménagement de ce type font apparaître une diminution de 50 p. 100 du nombre d'accidents, de 90 p. 100 du nombre de tués et de 70 p. 100 du nombre de blessés graves. Il ne saurait donc être question de remettre en cause la politique générale d'utilisation d'îlots en saillie. En revanche, il est nécessaire de veiller à leur bonne utilisation et à leur conformité par rapport aux recommandations en vigueur.
