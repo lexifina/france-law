@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860702253
+
+- Question : [SEQ860702253](seq860702253.md) — Elaboration d'une législation propre à l'assurance-crédit garantissant le crédit inter-entreprises
+
+## Réponse
+
+*Économie, JO du 1986-12-11, page 1724*
+
+Réponse. -L'assurance crédit joue dans les économies développées un rôle essentiel puisqu'elle accompagne le crédit inter-entreprises. L'assureur crédit apporte au souscripteur d'une telle garantie la sécurité de ses créances, ce qui lui permet de faire crédit à ses clients et réduit les risques de faillite en cascade que pourrait entraîner la défaillance d'un ou plusieurs d'entre eux. Naturellement, les sociétés d'assurance crédit sont amenées à suivre attentivement l'évolution de l'activité économique générale et sectorielle, de même que la situation des entreprises qu'elles garantissent. Ces sociétés doivent, en particulier lorsque la conjoncture est difficile, sélectionner les risques qu'elles couvrent. L'assurance crédit est une technique permettant avant tout à des entreprises saines de le rester et sa fonction n'est pas de soutenir des entreprises en difficulté. L'expérience a montré, tant en France qu'à l'étranger, qu'une attitude laxiste en matièrede souscription et de conservation serait fatale aux sociétés d'assurance crédit, et très dommageable pour l'ensemble de l'appareil économique. La pratique montre qu'il est rare qu'un assureur crédit refuse ou retire sans motif sérieux sa garantie sur un client. S'il en était autrement, cette forme de garantie financière ne rencontrerait pas le succès qu'elle connaît depuis longtemps. Compte tenu de la spécificité et de la fragilité de cette activité, il ne paraît pas opportun d'y introduire une réglementation trop stricte. En tout état de cause une modification du droit la régissant ne pourrait intervenir que dans le cadre des travaux d'harmonisation en cours au niveau européen.
