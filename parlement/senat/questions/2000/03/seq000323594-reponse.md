@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000323594
+
+- Question : [SEQ000323594](seq000323594.md) — Surveillance des encéphalopathies spongiformes transmissibles (EST) : étude relative à des tests obligatoires sur des groupes ciblés de bovins
+
+## Réponse
+
+*Affaires européennes, JO du 2000-06-22, page 2198*
+
+Réponse. - L'honorable parlementaire a bien voulu appeler l'attention du ministre délégué chargé des affaires européennes sur le Libre blanc relatif à la sécurité alimentaire, adopté le 12 janvier 2000 par la Commission européenne. Ce Livre blanc comporte un plan d'action très ambitieux pour les trois prochaines années, qui vise à effectuer une refonte d'ensemble de la législation communautaire. Il fait actuellement l'objet d'un examen exhaustif au sein des instances du Conseil de l'Union européenne. En première approche, la France a accueilli favorablement les orientations proposées par la Commission, qui correspondent à la plupart des attentes exprimées par notre pays dans sa réponse à une précédente communication de la Commission relative à la législation alimentaire (Livre vert de 1997). Le renforcement de l'épidémio-surveillance des encéphalopathies spongiformes transmissibles (EST) au niveau communautaire correspond à une demande constante des autorités françaises. C'est pourquoi elles approuvent dans son principe la proposition soumise récemment par la Commission aux Etats membres visant à mettre en place sur l'ensemble du territoire de l'Union européenne un programme de surveillance de l'encéphalopathie spongiforme bovine fondé sur des tests de détection rapide. Pour sa part, la France a décidé de mieux connaître le niveau de prévalence de la maladie au sein de son cheptel ; elle compte mettre en uvre très prochainement un programme d'évaluation plus intensif que le dispositif discuté actuellement dans les instances communautaires.
