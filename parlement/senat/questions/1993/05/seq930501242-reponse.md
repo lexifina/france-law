@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930501242
+
+- Question : [SEQ930501242](seq930501242.md) — Multiplication des contentieux relatifs au droit de l'urbanisme
+
+## Réponse
+
+*Justice, JO du 1993-09-02, page 1536*
+
+Réponse. - Le ministère de la justice est attentif aux conséquences de l'augmentation constante, observée depuis plusieurs années, du contentieux administratif relatif au droit de l'urbanisme. D'ores et déjà, le décret n° 92-245 du 17 mars 1992 qui a notamment organisé le transfert aux cours administratives d'appel des recours contre les décisions prises en application du code de l'urbanisme à compter du 1er septembre 1992, a contribué à désencombrer le conseil d'Etat et à réduire la durée de traitement des affaires. Dans son récent rapport intitulé " l'Urbanisme : pour un droit plus efficace ", le conseil d'Etat s'est penché sur la lenteur des procédures et a estimé inopportun d'assortir d'une sanction le non-respect du délai d'un mois imparti aux tribunaux administratifs par l'article L. 421-9 du code de l'urbanisme en matière de sursis à exécution. De façon générale, il est délicat d'imposer un délai de jugement aux juridictions. Non sanctionnée, une telle obligation devient illusoire. Dessaisir, en revanche, le juge en cas de non-respect du délai conduit à rallonger la procédure, contrairement à l'objectif recherché. Un projet de loi portant diverses dispositions en matière d'urbanisme et de construction, et comprenant certaines règles relatives au contentieux de l'urbanisme, au nombre desquelles la limitation de la possibilité d'invoquer des vices de procédure par la voie de l'exception d'illégalité, devrait être examiné par le Parlement au cours de la prochaine session. Ce texte, qui reprend sur ce point une proposition du conseil d'Etat, paraît aller dans le sens souhaité par l'honorable parlementaire.
