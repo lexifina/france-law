@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930702301
+
+- Question : [SEQ930702301](seq930702301.md) — Situation des éleveurs ovins
+
+## Réponse
+
+*Agriculture, JO du 1993-09-23, page 1715*
+
+Réponse. - Conformément à la demande exprimée par les organisations professionnelles agricoles, la France a opté pour une gestion non marchande, c'est-à-dire administrative des droits à prime. Un décret précisant les modalités d'affectation de la réserve nationale et l'organisation des transferts entre producteurs est actuellement en cours d'examen par le Conseil d'Etat et ne pourra selon toute vraisemblance être signé avant la fin de l'été. Afin de ne pas retarder les versements des deux premiers acomptes de la prime compensatrice ovine, dans l'attente de ce décret, un dispositif transitoire a été arrêté de façon suivante : les références sont communiquées à chaque éleveur sur la base du nombre de brebis qu'il a déclaré en 1991. Un éleveur qui a moins de brebis en 1993 qu'en 1991 dispose donc de droits inutilisés, tandis qu'un éleveur dont le cheptel s'est accru est " en déficit " de droits et susceptibles de ne pas voir primée l'intégralité de son troupeau. Afin de faire face à cette situation, en accord avec la profession, les éleveurs ayant des droits en excédant ont été invités à prêter à titre provisoire et gratuit ces droits inutilisés à des éleveurs en déficit de droits, dans le cadre d'une redistribution par l'administration. La réussite de cette opération reposait naturellement sur le fait que le cheptel national est actuellement en nombre inférieur à ce qu'il était en 1991 et que la France disposait globalement d'un excès de droits à primes. Cette redistribution provisoire est actuellement terminée, les prêts de droits ayant été en nombre suffisant pour satisfaire l'ensemble des demandes déposées par les éleveurs en début d'année.
