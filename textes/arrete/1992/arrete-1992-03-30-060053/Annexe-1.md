@@ -10,6 +10,8 @@ b) Représentants de l'organisme gestionnaire et personnalités compétentes :
 
 Le président du conseil d'administration de l'organisme gestionnaire ou son représentant, membre du conseil d'administration ;
 
+Le directeur de l'organisme gestionnaire ou son représentant ;
+
 L'infirmier général, directeur du service des soins infirmiers de l'établissement public de santé gestionnaire du centre de formation en soins infirmiers ou son représentant. Pour les centres de formation en soins infirmiers qui ne sont pas gérés par un établissement public de santé, le représentant de l'Etat dans le département désigne un infirmier général, directeur du service des soins infirmiers d'un établissement public de santé ou son représentant, ou une personne remplissant des fonctions équivalentes dans un établissement privé de santé. La personne désignée doit exercer ses fonctions dans un établissement dans lequel les étudiants du centre de formation en soins infirmiers concerné effectuent des stages ;
 
 Un médecin ou un pharmacien résident ou gérant proposé par le conseil d'administration de l'organisme gestionnaire ;
@@ -31,3 +33,7 @@ Un médecin, élu par ses pairs.
 e) La conseillère technique régionale en soins infirmiers ou la conseillère pédagogique dans les régions où il en existe.
 
 f) Un enseignant de statut universitaire lorsque le centre de formation en soins infirmiers a conclu une convention avec une université, élu par ses pairs.
+
+NOTA :
+
+Arrêté du 30 mars 1992 art. 2 : le présent arrêté s'applique aux conseils techniques et aux conseils de discipline des centres de formation en soins infirmiers qui seront renouvelés postérieurement au 1er octobre 1992. Décret 92-510 du 5 juin 1992 : à compter du 12 juin 1992, les mots " centre de formation en soins infirmiers " sont remplacés par les mots " institut de formation en soins infirmiers " dans tout acte administratif en comportant la mention.
