@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981011183
+
+- Question : [SEQ981011183](seq981011183.md) — Immatriculation des cyclomoteurs
+
+## Réponse
+
+*Intérieur, JO du 1998-11-12, page 3648*
+
+Réponse. - Le comité interministériel de la sécurité routière (CISR) du 26 novembre 1997 a retenu le principe d'une immatriculation obligatoire des cyclomoteurs dans un délai compris entre dix-huit et vingt-quatre mois, soit à la fin de 1999. L'honorable parlementaire souligne les incidences positives de cette mesure tant en matière de renforcement de la sécurité routière que de lutte contre la délinquance, et souhaite obtenir des précisions sur les conditions de mise en uvre de cette décision. L'immatriculation des cyclomoteurs va se traduire par la délivrance d'un certificat d'immatriculation (la carte grise) qui sera remis au propriétaire du véhicule et par l'enregistrement de ces véhicules dans un fichier informatique. Cette mesure doit ainsi permettre de lutter plus efficacement contre les conduites dangereuses, d'exercer un contrôle crédible des différentes infractions qui peuvent être constatées et, par voie de conséquence, d'améliorer les conditions de sécurité routière. L'immatriculation des cyclomoteurs, qui doit contribuer à responsabiliser les jeunes utilisateurs de ces véhicules et qui, en outre, va permettre de les identifier, est également de nature à susciter une limitation des vols et des agressions commis sur la voie publique. Tenant compte de ces objectifs, et afin de satisfaire aux attentes manifestées en la matière, notamment de la part des maires de France, le ministère de l'intérieur s'est engagé à mettre en place le principe retenu par le CISR dans les délais prescrits et a d'ores et déjà commencé le travail interministériel nécessaire à la réalisation de cette importante réforme.
