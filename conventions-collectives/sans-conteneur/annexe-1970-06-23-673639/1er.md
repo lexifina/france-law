@@ -1,9 +1,33 @@
-# Article 1
+# Article 1er
 
 a) Agents de maîtrise.
 
-A la différence des employés principaux qui ont pour fonctions, outre leur travail personnel, de distribuer, coordonner et contrôler le travail d'une équipe d'employés selon les directives de leurs chefs directs, sont considérés comme agents de maîtrise les salariés qui, recevant des directives précises d'un chef d'établissement ou d'un cadre, sont chargés en plus de leur travail, de façon permanente et sous leur responsabilité, non seulement de distribuer et de coordonner le travail d'un ensemble d'employés et ouvriers, mais aussi d'assurer et de contrôler le rendement et la discipline. Le coefficient hiérarchique à lui seul n'entraîne pas la qualité d'agent de maîtrise.
+Leur responsabilité implique :
 
-b) Techniciens et assimilés.
+Animation :
 
-Bénéficient des avantages assurés aux agents de maîtrise par le présent avenant certains employés hautement qualifiés dans un domaine technique, commercial ou administratif, même s'ils n'exercent pas de commandement, lorsque leurs fonctions comportent effectivement des responsabilités d'une importance équivalente à celle des agents de maîtrise.
+- veiller à l'intégration des nouveaux membres de son groupe ;
+
+- transmettre et expliquer les informations ascendantes et descendantes ;
+
+- veiller à l'enseignement des procédures et au développement du niveau de compétence ;
+
+- participer à l'appréciation des compétences et des résultats des membres de son groupe ;
+
+- rechercher des améliorations aux conditions de travail.
+
+Organisation :
+
+- répartir les travaux et donner les instructions adaptées ;
+
+- contrôler les réalisations et signaler en temps utile les difficultés ;
+
+- faire toute suggestion propre à améliorer le fonctionnement du groupe du travail ;
+
+- assurer les liaisons nécessaires à la réalisation des objectifs de son groupe.
+
+b) Techniciens.
+
+La définition des fonctions des techniciens se fait dans la continuité de celle des employés. Ils sont classés aux niveaux V et VI définis au chapitre II "Description du système".
+
+c) Le présent avenant ne s'applique pas aux voyageurs représentants et placiers.
