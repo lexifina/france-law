@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980608852
+
+- Question : [SEQ980608852](seq980608852.md) — Revalorisation des retraites agricoles
+
+## Réponse
+
+*Agriculture, JO du 1998-07-30, page 2449*
+
+Réponse. - L'article 102 de la loi de finances pour 1998, auquel se réfère l'honorable parlementaire, limite effectivement la mesure de revalorisation des retraites forfaitaires aux 274 000 conjoints, aides familiaux ou personnes à carrières mixte dont la retraite a pris effet jusqu'au 31 décembre 1997 inclus. Pour autant, le Gouvernement a toujours été conscient que cette valorisation devait être étendue aux personnes parties en retraite après cette date. A cet égard, une disposition particulière est contenue dans le projet de loi d'orientation agricole qui sera prochainement examiné par le Parlement. Cette disposition, qui s'appliquera à titre rétroactif s'agissant des pensions liquidées entre le 1er janvier 1998 et la date de parution de cette dernière loi, permettra un traitement équitable des intéressés qu'elle que soit la date de leur départ en retraite. Sur un plan général, la mesure prévue par l'article 102 précité constitue la première étape d'un plan pluriannuel de revalorisation. Le Gouvernement considère que cet effort important en faveur des retraites agricoles est encore insuffisant. Il faut donc continuer la revalorisation en cours pour que, sur la durée de la législature, elles atteignent un niveau satisfaisant. Il convient de prendre particulièrement en considération les catégories de retraités dont les pensions sont les plus faibles pour fixer les objectifs à atteindre par étapes progressives. A cet égard, la réflexion conduite par la représentation parlementaire sera d'un grand intérêt. Les mesures de la deuxième étape de ce plan pluriannuel seront donc proposées, après concertation avec les associations représentatives des retraités agricoles. Elles trouveront leur traduction dans le projet de loi de finances pour 1999.
