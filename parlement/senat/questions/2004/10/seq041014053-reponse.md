@@ -1,0 +1,9 @@
+# Réponse à la question SEQ041014053
+
+- Question : [SEQ041014053](seq041014053.md) — Réforme de la transmission du nom de famille
+
+## Réponse
+
+*Justice, JO du 2005-02-10, page 403*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que la chancellerie a accompli un travail préparatoire important afin de permettre l'entrée en vigueur de la réforme de la dévolution du nom de famille le 1er janvier 2005 dans de bonnes conditions. Ainsi, le décret n° 2004-1159 du 29 octobre 2004 portant application de la loi n° 2002-304 du 4 mars 2002 modifiée relative au nom de famille modifiant différentes dispositions relatives à l'état civil précise les modalités selon lesquelles les parents effectuent la déclaration de choix, d'adjonction ou de changement de nom. Une circulaire interministérielle du 6 décembre 2004, présentant de manière exhaustive chacun des aspects du nouveau dispositif de dévolution du nom de famille, a fait l'objet d'une large diffusion et est disponible sur le site internet du ministère de la justice. Les très nombreux exemples qui étayent cette circulaire en font un véritable vade mecum pour les officiers de l'état civil afin de leur permettre de trouver les solutions aux difficultés auxquelles ils pourraient être confrontés. Des modèles de déclaration de choix de nom par les parents, annexés à cette circulaire, ont été repris notamment par les éditeurs de livrets de famille qui ont élaboré des formulaires simples et faciles à remplir disponibles dans les mairies, les maternités et sur internet. Enfin, l'entrée en vigueur de la réforme a été préparée en étroite collaboration avec les officiers de l'état civil, les éditeurs de logiciels et les éditeurs de livrets de famille afin que les programmes informatiques et les documents remis aux familles soient à jour au 1er janvier 2005 et que la mise en oeuvre de la réforme ne pose pas de difficultés.
