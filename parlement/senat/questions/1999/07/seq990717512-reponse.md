@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990717512
+
+- Question : [SEQ990717512](seq990717512.md) — Suppression de la taxe professionnelle frappant les véhicules de tournée
+
+## Réponse
+
+*Économie, JO du 1999-11-04, page 3631*
+
+Réponse. - La taxe professionnelle est, en règle générale, établie sur la valeur locative des installations foncières (boutiques, usines...) et des équipements (véhicules, matériels...). Cela étant, aux termes de l'article 1469-4º du code général des impôts, il n'est pas tenu compte de la valeur locative des équipements pour l'imposition des redevables sédentaires dont le chiffre d'affaires n'excède pas 400 000 F ou 1 000 000 F selon la nature de l'activité exercée (prestations de services ou ventes). En revanche, les commerçants qui ne disposent d'aucune installation fixe et dont le véhicule peut être assimilé à une boutique sont imposés sur la valeur locative de leur véhicule de tournées quelle que soit l'importance de leur chiffre d'affaires. Enfin, les redevables qui disposent d'un magasin et réalisent aussi des tournées ne sont pas imposés sur la valeur locative de leurs équipements, en particulier sur leur véhicule de tournées, lorsque leur principal établissement est situé dans une commune de moins de 3 000 habitants et que leur chiffre d'affaires est inférieur aux limites ci-dessus rappelées. Cette dernière disposition permet d'éviter que ces redevables, qui maintiennent une activité commerciale dans des zones rurales, ne supportent une imposition cumulée pour un établissement et un véhicule de tournées. Un nouvel aménagement de ces dispositions risquerait de rompre l'égalité de traitement entre commerçants sédentaires et non sédentaires ; il n'est donc pas envisagé de les modifier. Enfin, comme pour l'ensemble des redevables, le plafonnement des cotisations de taxe professionnelle en fonction de la valeur ajoutée permet d'adapter le poids de la taxe professionnelle des commerçants à leurs réelles facultés contributives.
