@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881202823
+
+- Question : [SEQ881202823](seq881202823.md) — Fermeture du musée du Louvre
+
+## Réponse
+
+*Culture, JO du 1989-03-16, page 442*
+
+Réponse. - Le musée du Louvre et l'établissement public du Grand Louvre, maître d'ouvrage, préparent activement l'ouverture au public des nouveaux espaces situés sous la Pyramide au début du mois d'avril 1989 ainsi que des nouvelles salles de peinture situées dans l'aile nord de la cour carrée du Louvre et aménagées par l'Etat. Si les travaux majeurs de remaniement des espaces muséographiques du Palais ne doivent se dérouler qu'ensuite, dans le cadre de la seconde tranche d'aménagement du Palais du Louvre par l'établissement public du Grand Louvre, et si, aux yeux du grand public, les salles actuelles du musée n'auront subi que peu de changement pour 1989, un très grand nombre d'opérations doivent cependant être achevées dans le Palais d'ici le mois d'avril : redéploiement des collections de peintures ; mouvements d'oeuvres entre les réserves et les salles ; nettoyages approfondis ; travaux ponctuels de réaménagement des salles ; remise en service de la porte Jaujeard à l'extrémité de l'aile de Flore ; installation des sculptures dans les salles du Manège et des Caryatides ; restauration d'escaliers ; installation d'une nouvelle signalétique et dépose de l'ancienne. Par ailleurs, des groupes d'étudiants en histoire de l'art et les spécialistes français et internationaux continueront à être accueillis, sur rendez-vous, par le musée. Même si la gêne temporaire pour le public est indéniable, elle doit être considérée en fonction de la complexité particulière de ces opérations d'aménagement qui, à la différence d'autres grands projets, doivent être conduites non pas sur un site nouveau et vide mais dans un lieu fonctionnant en permanence : ne fermer le Louvre que cinq semaines en cinq ans de travaux constitue en réalité une performance.
