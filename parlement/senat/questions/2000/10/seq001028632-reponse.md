@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001028632
+
+- Question : [SEQ001028632](seq001028632.md) — Barème et tarification de la restauration scolaire
+
+## Réponse
+
+*Économie, JO du 2001-01-18, page 172*
+
+Réponse. - L'article 147 de la loi du 29 juillet 1998 d'orientation relative à la lutte contre les exclusions prévoit que " les tarifs des services publics à caractère facultatif peuvent être fixés en fonction du niveau du revenu des usagers et du nombre de personnes vivant au foyer ". Pour mieux appliquer ces dispositions, le décret nº 2000-672 du 19 juillet 2000 a donné aux établissements scolaires la possibilité de pratiquer des tarifs différenciés en fonction des catégories d'usagers. De nombreuses communes pratiquent déjà, pour les écoles maternelles et élémentaires, une modulation des tarifs destinée à permettre l'accès au service de la restauration scolaire des familles aux revenus les plus modestes. Le décret du 19 juillet 2000 étend donc cette possibilité aux collèges et lycées. Le Gouvernement a en outre prévu de limiter la charge des familles. L'article 147 prévoit aussi que " les droits les plus élevés ainsi fixés ne peuvent être supérieurs au coût par usager de la prestation concernée ". De plus, l'article 3 du décret du 19 juillet 2000 précise que " pour une catégorie d'usagers, la variation maximale du prix des repas ne peut excéder à la hausse le taux visé au premier alinéa de l'article 1er de plus de 10 points ". Pour l'année scolaire 2000-2001, les augmentations appliquées aux familles les plus aisées ne pourront donc pas dépasser 12 %. En outre, dans le cadre de la politique d'hébergement fixée par les conseils d'administration des collèges et lycées, il est possible à ces établissements d'utiliser les fonds sociaux lycéens et collégiens pour venir en aide aux familles qui ont des difficultés financières pour régler les dépenses de restauration scolaire
