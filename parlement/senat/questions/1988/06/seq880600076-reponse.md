@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880600076
+
+- Question : [SEQ880600076](seq880600076.md) — Salariés français à l'étranger : rapatriement
+
+## Réponse
+
+*Travail, JO du 1989-01-05, page 37*
+
+Réponse. - L'article 2 du décret n° 88-24 du 7 janvier 1988 relatif à l'office des migrations internationales aux termes duquel l'O.M.I. peut entreprendre " les opérations de recrutement en France des travailleurs de toutes nationalités pour l'étranger, prévues au même article " comporte également une disposition selon laquelle le mot " immigrants ", tel qu'il figure au deuxième alinéa de l'article R. 341-9 du code du travail, est remplacé par le mot " migrants ". Cet alinéa se lit donc, en effet, désormais comme suit : " Il peut notamment accomplir toute opération connexe concernant l'accueil, l'information, l'adaptation sociale et professionnelle ainsi que l'aide à apporter au rapatriement des migrants. " Cette dernière disposition ne signifie pas que l'O.M.I. se voit conférer des attributions particulières en matière de rapatriement de nos compatriotes qui exercent ou ont exercé une activité professionnelle à l'étranger. Toutefois, ainsi que le sait l'honorable parlementaire le rapatriement de nos compatriotes qui se trouvent à l'étranger se réalise actuellement sous la responsabilité des pouvoirs publics, selon deux types de procédure : celle prévue par la loi du 26 décembre 1961, pour les Français qui se trouvent sur le territoire de nos anciennes colonies et celle mise en oeuvre par le ministère des affaires étrangères, pour les Français indigents. S'agissant en revanche des besoins des ressortissants français ayant accepté de prendre un emploi à l'étranger et qui y sont victimes d'un licenciement, l'O.M.I. qui souhaite apporter un accompagnement social à nos compatriotes, se préoccupera de les aider à l'occasion de leur retour en France et s'attachera si nécessaire à faciliter leur réinsertion.
