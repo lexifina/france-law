@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950611219
+
+- Question : [SEQ950611219](seq950611219.md) — Contrôle des instruments de pesage et producteurs de champagne
+
+## Réponse
+
+*Industrie, JO du 1995-08-24, page 1624*
+
+Réponse. - Sur le fond, la réglementation mise en place par l'arrêté du 22 mars 1993 n'instaure pas de mesure nouvelle, mais délègue seulement les opérations de contrôle à des organismes agréés. Les modalités techniques du contrôle des instruments de pesage sont tout à fait comparables à celles qui prévalent dans les pays voisins. La qualité des instruments de pesage utilisés dans les professions agricoles, et tout particulièrement dans la profession viticole, est importante, et la plupart des détenteurs ont conclu avec des réparateurs des contrats d'entretien annuels pour leurs instruments, en application desquels ces derniers sont révisés et ajustés. Les services du ministère de l'industrie ont rencontré la Confédération des coopératives vinicoles de France, et la Fédération française des coopératives agricoles. A l'occasion de ces réunions, il est apparu que des possibilités de réduction de coûts, permises par la réglementation, n'avaient pas été exploitées par les détenteurs. En effet, la plupart des réparateurs agréés sont en même temps organismes agréés pour la vérification périodique, et il est possible de procéder à la vérification périodique des instruments à l'occasion des interventions prévues par les contrats d'entretien. Dans ces conditions, le surcoût de cette vérification périodique devrait être modéré. Il a été convenu d'engager un dialogue avec la profession des réparateurs afin de l'engager à utiliser cette possibilité plus largement et afin d'aboutir à un coût de contrôle plus faible. Une prochaine réunion avec la Confédération des coopératives vinicoles de France permettra de faire le point sur les progrès accomplis.
