@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010432661
+
+- Question : [SEQ010432661](seq010432661.md) — Produits alimentaires : amélioration pour les opérateurs économiques du dispositif des signes officiels d'identification de la qualité et de l'origine
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2002-02-07, page 375*
+
+Le seul cas où la réglementation a autorisé des organismes certificateurs à déposer des cahiers des charges a été celui de la certification de conformité de 1990 à 1996, lorsque le décret n° 90-859 du 25 septembre 1990 relatif à la certification de conformité des denrées alimentaires et des produits agricoles non alimentaires et non transformés était en vigueur. Pendant cette période, seul un organisme certificateur a effectivement utilisé cette possibilité. Celle-ci n'a pas été reconduite dans le décret n° 96-193 du 12 mars 1996 remplaçant le décret initial de 1990. Il est apparu nécessaire d'impliquer et de responsabiliser les filières en leur réservant exclusivement l'élaboration des cahiers des charges. Les opérateurs peuvent faire appel à des tiers pour leur apporter un soutien technique. Ainsi des organismes certificateurs ont-ils pu participer à l'élaboration de certains cahiers des charges, sans toutefois en être responsables à titre principal. Cette participation est désormais extrêmement réduite. En effet, l'obligation faite aux organismes certificateurs de respecter la norme internationale 45011, relative aux organismes procédant à la certification de produits, ne leur permet plus d'exercer simultanément des activités de conseil et de certification au sein de la même entité juridique. Cette évolution a permis de clarifier le rôle des organismes certificateurs. Ils veillent au respect des cahiers des charges en exerçant auprès des opérateurs des contrôles réguliers complétés par ceux des services officiels.
