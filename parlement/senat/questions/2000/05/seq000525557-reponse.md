@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000525557
+
+- Question : [SEQ000525557](seq000525557.md) — Fonds social lycéen
+
+## Réponse
+
+*Éducation, JO du 2000-09-28, page 3327*
+
+Réponse. - Le ministre de l'éducation nationale met en place, depuis 1991, des crédits pour le fonds social lycéen, destinés à faire face à des situations difficiles que peuvent connaître des lycéens et des élèves de l'enseignement spécialisé du second degré, ou leur famille, pour assumer les dépenses de scolarité et de vie scolaire. En 1999, la dotation attribuée aux recteurs, qui sont chargés de la répartition de ces fonds entre les différents établissements de leur académie, au regard de critères sociaux-économiques qu'ils auront établis, a été de 134 340 000 francs. Pour l'année 2000, la dotation du fonds social lycéen s'élève à 149 251 000 francs. Les données concernant l'utilisation des crédits ainsi que le nombre de bénéficiaires sont connues pour le premier trimestre de l'année scolaire 1998-1999. En effet, cette enquête lancée auprès des établissements est excessivement lourde en charge de travail et ne peut être demandée, chaque année, aux chefs d'établissements et à leurs gestionnaires. Seule une enquête concernant l'utilisation des crédits est faite annuellement. Pendant le premier trimestre de l'année scolaire 1998-1999, 97 063 lycéens ont bénéficié d'une aide sur le fonds social lycéen ; 27 521 d'entre eux ont été aidés au titre de la restauration scolaire. Cette aide représentait une dépense de 58 448 000 francs, soit une aide moyenne par élève d'un peu plus de 602 francs. Il est à noter que ces données ne sont pas complètement exhaustives, le taux de réponses à l'enquête, pour les lycées de métropole et des DOM étant de 91,5 %. Par ailleurs, il n'est pas prévu, dans l'immédiat, d'étendre le dispositif du fonds social lycéen aux élèves des lycées privés.
