@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901213070
+
+- Question : [SEQ901213070](seq901213070.md) — Conseillers d'orientation
+
+## Réponse
+
+*Éducation, JO du 1991-02-28, page 424*
+
+Réponse. - Le nouveau décret portant statut des directeurs de centre d'information et d'orientation et conseillers d'orientation psychologues doit être publié prochainement. Ce texte prévoit la mise en place, à compter de session 1991 des concours, de nouvelles modalités de recrutement des conseillers d'orientation psychologues, et par ailleurs, à titre transitoire, notamment pour les sessions 1991 et 1992, un certificat d'aptitude aux fonctions de conseiller d'orientation psychologue (C.A.F.C.O.). Ce concours est ouvert, d'une part, aux élèves conseillers d'orientation qui, engagés dans l'actuel processus de formation, justifient de deux années de scolarité en centre de formation, d'autre part, aux personnels non titulaires exerçant des fonctions d'information et d'orientation dans les services d'information et d'orientation et dans les établissements publics relevant du ministre chargé de l'éducation, justifiant de trois années de services publics et d'une licence ou d'un titre de niveau égal ou supérieur sanctionnant un cycle d'études postsecondaires d'au moins trois années. Les modalités d'organisation aussi bien que les épreuves dudit concours sont définies selon un dispositif proche de celui qui était en vigueur jusqu'à la session 1990 pour le concours antérieurement ouvert aux élèves conseillers d'orientation. En outre, les épreuves précitées portent sur le programme de la formation dispensée aux élèves conseillers d'orientation durant les deux années de formation qu'ils ont suivies. Par ailleurs, l'augmentation du nombre de postes offerts, en 1991, au C.A.F.C.O., devrait permettre, sauf défaillance grave, aux cinquante-sept élèves conseillers qui ont bénéficié d'une formation spécifique de satisfaire aux épreuves prévues.
