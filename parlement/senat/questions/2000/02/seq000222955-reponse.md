@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000222955
+
+- Question : [SEQ000222955](seq000222955.md) — Foyers à double tarification
+
+## Réponse
+
+*Santé, JO du 2000-07-06, page 2411*
+
+Réponse. - La création des foyers à double tarification (FDT), en 1986, par la mise en place d'un programme expérimental d'établissements d'hébergement pour adultes gravement handicapés, visait à remédier à l'insuffisance de places existantes en maisons d'accueil spécialisées. Elle répondait, ce faisant, à l'objectif d'un exercice conjoint des compétences dans le domaine de la prise en charge des adultes lourdement handicapés associant l'Etat et le département, conformément aux règles de répartition établies par les lois de décentralisation, dans le champ social. Depuis lors, comme le souligne l'honorable parlementaire, aucun texte législatif ou réglementaire n'a conféré à ces établissements un véritable statut juridique. Or, il est patent que l'évolution des besoins des publics pris en charge et des réponses qui leur sont apportées nécessite une adaptation du cadre juridique existant. En dépit de sa fragilité soulignée par une décision récente du Conseil d'Etat, l'assise juridique actuelle des FDT consistant en une circulaire a pu faciliter leur mise en place. Néanmoins, elle s'avère aujourd'hui un frein à leur développement. Il est donc devenu indispensable et urgent de doter les FDT du fondement juridique qui leur fait défaut afin de ne pas mettre en péril les structures existantes et de ne pas bloquer les nouvelles créations. C'est pourquoi, le Gouvernement prépare actuellement un projet de décret sur la base des dispositions des articles 3 et 27 de la loi nº 75-535 du 30 juin 1975 relative aux institutions sociales et médico-sociales, qui permettra de confirmer le rôle de ces structures dans la prise en charge des personnes lourdement handicapées et de déterminer les participations respectives de l'assurance maladie et des départements à leur financement.
