@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890906177
+
+- Question : [SEQ890906177](seq890906177.md) — Responsabilité des communes en cas d'accident de baignade
+
+## Réponse
+
+*Intérieur, JO du 1990-01-11, page 76*
+
+Réponse. - Aux termes de l'article L. 131-2-1 du code des communes, " le maire exerce la police des baignades et des activités nautiques pratiquées à partir du rivage avec des engins de plage et des engins non immatriculés " et " réglemente l'utilisation des aménagements réalisés pour la pratique de ces activités ". En ce qui concerne la police des rives des cours d'eau, la responsabilité de la commune s'étend aux lieux de baignades aménagés et à ceux où les bains sont habituellement pratiqués (C.E., 2 juillet 1986, compagnie La Nationale ; C.E., 18 mai 1983, veuve Lefebvre). Il convient, en outre, de rappeler que l'article L. 131-2 du code des communes oblige le maire à " prévenir par des précautions convenables " et " faire cesser par la distribution des secours nécessaires les accidents ", ainsi qu'à " pourvoir d'urgence à toutes les mesures d'assistance et de secours ". De ce fait, la responsabilité du maire est entière en cas, notamment, " d'absence à proximité des lieux de la baignade de tous moyens d'alerter rapidement un centre de secours " (C.E., 10 mai 1989, Mme Rince). Par conséquent, la responsabilité du maire en matière d'accidents de baignades non surveillées peut être engagée, notamment, lorsqu'il : s'abstient d'interdire la baignade alors que la gravité du danger le justifie ; néglige d'apposer un panneau signalant les dangers autres que ceux que l'on rencontre normalement dans les cours d'eau utilisés pour la baignade ; ne prévoit pas les moyens d'alerte et de secours appropriés et, d'une façon générale, les mesures nécessaires à la sécurité des personnes qui ressortissent des pouvoirs de police municipale du maire.
