@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010130630
+
+- Question : [SEQ010130630](seq010130630.md) — Avenir de l'enseignement agricole
+
+## Réponse
+
+*Agriculture, JO du 2001-02-22, page 655*
+
+Réponse. - Les représentants des enseignements agricoles privés, enseignement privé confessionnel, maisons familiales rurales et Union nationale rurale d'éducation et de promotion manifestent leur crainte de voir l'enseignement agricole remis en question suite à la séance du Conseil national de l'enseignement agricole du 30 novembre 2000. Ces craintes sont infondées puisque, lors de cette séance, la direction générale de l'enseignement et de la recherche du ministère de l'agriculture et de la pêche a présenté un dossier d'évolution des structures pédagogiques qui fait apparaître pour l'année 2001 un solde net de 47 ouvertures de classes dans l'enseignement agricole public et de 46 ouvertures de classes dans l'enseignement agricole privé. D'autre part, le ministère de l'agriculture et de la pêche n'a pas l'intention de se séparer de certaines formations. En ce qui concerne les formations de niveau V, c'est-à-dire les 4e, 3e et les certificats d'aptitude professionnelle agricole (CAPA), ce sont 34 classes nouvelles qui ouvriront à la rentrée 2001. Pour ce qui est de la filière " services ", la direction générale de l'enseignement et de la recherche est associée à une réflexion générale sur le niveau CAP de ces formations, menée par le ministère délégué à l'enseignement professionnel. En attendant ses conclusions, la rénovation de ces formations entreprise dans l'enseignement agricole a été suspendue. Enfin, pour la prériode 1992-2000, la subvention de fonctionnement aux établissements privés a augmenté de 121 %. En 2001, ces crédits de fonctionnement s'élèvent à 1 600 millions de francs, en augmentation de 21 millions de francs (soit p 1,33 %). Il n'y a donc aucune remise en question de l'enseignement privé de la part du ministère de l'agriculture et de la pêche.
