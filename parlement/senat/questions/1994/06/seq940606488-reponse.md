@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940606488
+
+- Question : [SEQ940606488](seq940606488.md) — Distribution de l'automobile dans l'Union européenne
+
+## Réponse
+
+*Économie, JO du 1994-09-22, page 2298*
+
+Réponse. - Le règlement no 123/85 du 12 décembre 1985 organise les modalités de la distribution automobile à l'intérieur de la communauté européenne. Le système de droit commun repose sur les réseaux de concessionnaires et agents auxquels les constructeurs peuvent réserver la vente de leurs automobiles sur un territoire délimité. Toutefois, ce règlement prévoit que chaque concessionnaire ne peut refuser de livrer des véhicules à des clients qui ne sont pas sur le territoire qui lui a été réservé, dès lors que ce sont des clients qui prennent l'initiative de s'adresser à lui. Cela est vrai en particulier pour des consommateurs situés dans un autre Etat membre. En conséquence un consommateur installé en France peut directement s'adresser à un concessionnaire situé dans un autre Etat de la Communauté européenne. Les différences de prix des véhicules automobiles dans les différents Etats membres, encore accrues à la suite des dévaluations monétaires récentes, ont favorisé le développement des importations parallèles. Les autorités françaises ne peuvent s'opposer à une telle évolution qui résulte directement de l'existence d'un marché unique avec libre circulation des marchandises sans union monétaire. Dans l'attente de l'harmonisation des prix qui devrait résulter naturellement de l'égalisation des conditions de la concurrence au sein du marché unique, le Gouvernement français ne manquera pas, dans le cadre de la renégociation prochaine du règlement no 123/85, de souligner l'importance de trouver des règles, qui tout en respectant les principes de la concurrence, tiennent suffisamment compte des intérêts légitimes de la profession.
