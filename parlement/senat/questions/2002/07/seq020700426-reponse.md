@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700426
+
+- Question : [SEQ020700426](seq020700426.md) — Subvention par une collectivité de travaux d'assainissement
+
+## Réponse
+
+*Intérieur, JO du 2003-01-16, page 188*
+
+Comme rappelé dans la réponse à la question écrite citée par l'honorable parlementaire, les branchements au réseau d'assainissement, situés sur les fonds privés, sont à la charge exclusive des propriétaires, conformément aux dispositions de l'article L. 1331-4 du nouveau code de la santé publique. Les frais engagés restent ainsi totalement à leur charge et ne peuvent être financés par la collectivité locale, même si celle-ci assure la maîtrise d'oeuvre des travaux, au moyen notamment de subventions en provenance des agences de l'eau. Les agences de l'eau accordent des aides financières aux collectivités locales pour la réalisation des travaux d'assainissement, en ce qui concerne les travaux réalisés par elles sur le domaine public. S'agissant des branchements, leur réalisation tant sous la voie publique que sous les terrains privés incombe aux propriétaires. Cependant, l'article L. 1331-2 du code de la santé publique offre, pour la partie située sous la voie publique, la possibilité de prise en charge totale ou partielle par la collectivité, qui aura éventuellement perçu une aide de l'agence de l'eau concernée à cette occasion. Les subventions relatives aux travaux de branchement réalisés sous des fonds privés ne peuvent par contre bénéficier directement qu'aux propriétaires de ces fonds, en leur qualité de maître d'ouvrage, qu'ils fassent appel à l'entreprise de leur choix ou qu'ils fassent réaliser les travaux par la collectivité locale. Le choix de l'entreprise retenue ne peut être conditionné par l'octroi d'une aide. S'agissant de l'attribution des aides des agences de l'eau, fonds publics attribués par une personne de droit public, l'éventuel contentieux pouvant naître de ces situations relève du juge administratif.
