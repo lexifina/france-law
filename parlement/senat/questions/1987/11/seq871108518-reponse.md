@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871108518
+
+- Question : [SEQ871108518](seq871108518.md) — Pouvoir d'achat des actifs et des retraités de la fonction publique
+
+## Réponse
+
+*Fonction publique, JO du 1988-02-18, page 229*
+
+Réponse. -Sur le plan des principes, le mode d'appréciation de l'évolution du pouvoir d'achat des fonctionnaires retenu par l'honorable parlementaire appelle trois objections. En premier lieu, il est rappelé que le revenu des agents de l'Etat a toujours été évalué en termes bruts par les gouvernements successifs. En second lieu, en procédant à une comparaison de date à date, l'auteur de la question adopte un raisonnement en niveau que ses insuffisances méthodologiques avaient conduit à écarter, dès 1983, du cadre des négociations salariales au profit du raisonnement en masse résultant d'un rapprochement de période à période, l'année civile en général. En troisième lieu, l'ensemble des éléments salariaux concourant à la formation du revenu des agents doit être pris en compte, qu'il soient de caractère général, catégoriel ou individuel. S'agissant plus particulièrement de l'année 1987, le dispositif salarial mis en oeuvre dans la fonction publique a permis d'assurer une progression moyenne de 3,5 p. 100 de la rémunération des agents en place. Sur la base des plus récents résultats en matière de hausse des prix, qui indiquent une progression en moyenne annuelle de 3,2 p. 100 en 1987, l'objectif de maintien du pouvoir d'achat moyen en masse que s'était fixé le Gouvernement a donc été, comme en 1986, respecté. Un effort exceptionnel a en outre été consenti en faveur des pensionnés de l'Etat par l'achèvement complet du processus de mensualisation du paiement des arrérages engagé en 1975. Cette évolution d'ensemble des rémunérations dans la fonction publique en 1987 a été du même ordre que celle constatée dans les entreprises.
