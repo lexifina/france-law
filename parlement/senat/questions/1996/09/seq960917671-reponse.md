@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960917671
+
+- Question : [SEQ960917671](seq960917671.md) — Proclamation de l'indépendance de la Padanie
+
+## Réponse
+
+*Affaires européennes, JO du 1997-01-02, page 24*
+
+Réponse. - En réponse aux questions de l'honorable parlementaire, le ministre délégué aux affaires européennes souhaite tout d'abord indiquer qu'il n'est pas dans les intentions des autorités françaises de s'immiscer dans une question qui ressortit exclusivement au domaine des affaires intérieures de l'Italie. Pour ce qui est plus précisément de l'interprétation du droit européen dans une circonstance similaire, il peut être relevé en réponse aux deux questions soulevées que : le droit communautaire est neutre, en ce sens qu'il n'encourage ni ne s'oppose à une quelconque modification de territoire, et ce, que ce soit dans le sens d'une extension (exemple de la réunification allemande de 1990) ou d'une diminution du champ géographique de son application (un Etat peut décider de sortir de l'Union, et une région, devenue indépendante, ne peut réintégrer l'Union européenne qu'à la faveur de la négociation d'un nouveau traité d'adhésion). Les systèmes de gouvernement et d'organisation administrative des Etats membres ne relèvent pas des compétences de l'Union ou de la Communauté. C'est le principe de subsidiarité qui s'applique à une action éventuelle menée dans le cadre de l'Union, l'article 3 B du traité stipulant notamment que " dans les domaines qui ne relèvent pas de sa compétence exclusive, la Communauté n'intervient, conformément au principe de subsidiarité, que si et dans la mesure où les objectifs de l'action envisagée ne peuvent être réalisés de manière suffisante par les Etats membres et peuvent donc, en raison des dimensions ou des effets de l'action envisagée, être mieux réalisés au niveau communautaire ".
