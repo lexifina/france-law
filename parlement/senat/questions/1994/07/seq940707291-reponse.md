@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940707291
+
+- Question : [SEQ940707291](seq940707291.md) — Développement de la diffusion en langue française de l'agence France-Presse
+
+## Réponse
+
+*Communication, JO du 1994-09-15, page 2260*
+
+Réponse. - Le ministre de la culture et de la francophonie a souhaité la création d'un groupe de travail entre l'AFP, la délégation générale à la langue française, le ministère des affaires étrangères et le ministère de la communication. Ce groupe doit réfléchir aux moyens concrets qui pourraient être mis en oeuvre afin de développer la diffusion en langue française de l'agence, tout en favorisant sa vocation mondiale. Le groupe de travail s'est réuni à plusieurs reprises. L'Agence France-Presse a à cette occasion souligné que 70 p. 100 de la production des dépêches était effectuée directement en français et que, sur le plan de la distribution, le pourcentage des services diffusés en français restait fortement majoritaire. L'AFP a rappelé qu'elle avait fourni d'importants efforts afin d'améliorer en qualité et en volume son service Europe en français (100 000 mots par jour en 1993 contre 60 000 en 1983). Il est apparu à la lumière des réflexions menées par ce groupe que le problème du développement de la diffusion en langue française se situait essentiellement au niveau de la formation linguistique et culturelle des jeunes générations de journalistes appelés à utiliser les services des grandes agences dans les rédactions des médias étrangers. L'AFP s'est déclarée à ce propos disposée, en liaison avec les pouvoirs publics, à apporter son concours à la création de programme de perfectionnement de journalistes francophones dans le cadre de structures dont la forme et le financement restent à déterminer. Le ministère des affaires étrangères s'est, pour sa part, déclaré prêt à offrir une aide à la traduction afin de contribuer au rayonnement mondial de cet organisme d'information.
