@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860400227
+
+- Question : [SEQ860400227](seq860400227.md) — Rémunération des personnels communaux titulaires à temps incomplet lors de dépassements d'horaire
+
+## Réponse
+
+*Intérieur, JO du 1986-07-10, page 971*
+
+Réponse. - Le temps de travail, pour lequel est créé un emploi permanent à temps non complet, est fixé par l'organe délibérant au prorata de la durée hebdomadaire de travail à temps complet. Il s'impose à l'autorité exécutive comme au fonctionnaire. Toutefois, dans le cas de travaux supplémentaires exceptionnels dont l'exécution ne souffre aucun retard, il est possible de demander à un fonctionnaire embauché à temps non complet de travailler exceptionnellement au-delà des horaires prévus initialement. Dans cette hypothèse, il n'est pas nécessaire de reprendre une délibération et un arrêté de nomination, ce qui serait indispensable s'il agissait d'une situation pouvant être considérée comme habituelle. Les heures effectuées au-delà du temps de travail habituel sont payées sur la base des heures normales, les dispositions de l'arrêté du 1er août 1951 n'étant applicables qu'en cas de dépassement de la durée réglementaire du travail à temps complet. Par ailleurs, il faut rappeler que le premier alinéa de l'article 3 de la loi n° 84-53 du 26 janvier 1984 permet aux collectivités territoriales de recruter des agents non titulaires pour occuper des emplois permanents pour assurer le remplacement momentané de titulaires autorisés à exercer leurs fonctions à temps partiel ou indisponibles en raison d'un congé de maladie, d'un congé de maternité ou d'un congé parental, ou de l'accomplissement du service national, du rappel ou du maintien sous les drapeaux. En outre, le centre départemental de gestion peut, à la demande des collectivités affiliées, recruter des fonctionnaires en vue d'assurer le remplacement de titulaires momentanément indisponibles.
