@@ -1,0 +1,9 @@
+# Réponse à la question SEQ041214837
+
+- Question : [SEQ041214837](seq041214837.md) — Réglementation relative aux locations saisonnières
+
+## Réponse
+
+*Équipement, JO du 2005-03-17, page 771*
+
+Les préoccupations exprimées, en particulier par les centrales de réservation, sur les incidences préjudiciables à leur activité des nouvelles dispositions de l'ordonnance n° 2004-634 du 1er juillet 2004 modifiant la loi du 2 janvier 1970 - dite loi Hoguet - relative à l'entremise et à la gestion immobilière, sont liées à l'obligation qui pourrait leur être faite de se soumettre à l'ensemble de cette réglementation alors qu'aujourd'hui elles n'y sont soumises que partiellement. Ces professionnels du tourisme sont favorables à une modification de la loi du 13 juillet 1992, intégrée dans le code du tourisme, relative à l'organisation et à la vente de voyages et séjours qui les régit, dans un souci de concurrence équitable avec les professionnels de l'immobilier. La solution qui doit concilier l'impératif de protection des consommateurs (locataires et propriétaires) et les demandes des professionnels du tourisme doit être trouvée en concertation avec le ministre chargé de la justice à l'occasion du décret d'application de l'ordonnance n° 2004-634 du 1er juillet 2004 actuellement en cours d'élaboration. Le ministre délégué au tourisme a appelé l'attention du garde des sceaux sur l'importance du secteur des locations saisonnières qui génère un chiffre d'affaires annuel estimé à quatre milliards d'euros et a suggéré notamment une évolution des modalités de réservation des séjours et de leur date de règlement. Le projet d'ordonnance relatif à l'organisation et à la vente de voyages et séjours et modifiant le code du tourisme, actuellement soumis à l'examen du Conseil d'Etat, répond à ces préoccupations.
