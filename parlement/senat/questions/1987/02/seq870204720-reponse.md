@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870204720
+
+- Question : [SEQ870204720](seq870204720.md) — Décompte des intérêts moratoires réclamés aux communes de faible population
+
+## Réponse
+
+*Économie, JO du 1987-04-23, page 633*
+
+Réponse. -Le code des marchés publics fixe le délai maximum dont dispose le maître d'ouvrage public pour procéder aux opérations de mandatement. En matière de travaux, ce délai est de quarante-cinq jours et soixante jours pour le solde des marchés d'une durée d'exécution supérieure à six mois (article 353 du code des marchés publics) ; ce dispositif vise un règlement rapide des entreprises, tout en laissant un délai suffisant au maître d'ouvrage public. A cet égard le recours à une personne tierce au marché, le maître d'oeuvre, chargée de recevoir le projet de décompte pour le vérifier et transmettre le projet d'acompte au maître d'ouvrage, ne doit être pénalisant ni pour l'entreprise titulaire du marché, ni pour la collectivité. C'est pourquoi le délai de mandatement court dans ce cas à compter de la remise du projet de décompte par l'entreprise au maître d'oeuvre, personne nommément désignée dans le marché à cet effet ; une modification de cette règle irait à l'encontre des objectifs poursuivis par les pouvoirs publics pour veiller au règlement rapide des marchés. Il appartient toutefois au maître de l'ouvrage de préciser dans le contrat ou le marché conclu avec le maître d'oeuvre les conditions de son intervention. Ce contrat doit prévoir le délai maximum laissé au maître d'oeuvre pour procéder aux vérifications qui lui incombent, délai qui ne peut être inférieur à dix jours (article 359 du code des marchés publics) ; enfin pour que ce délai maximum soit respecté, le marché de maîtrise d'oeuvre doit prévoir l'application de pénalités au maître d'oeuvre en cas de dépassement du délai.
