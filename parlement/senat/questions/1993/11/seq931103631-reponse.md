@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931103631
+
+- Question : [SEQ931103631](seq931103631.md) — Bénéfice du cumul de la retraite personnelle et de la pension de réversion pour les non-salariés agricoles
+
+## Réponse
+
+*Agriculture, JO du 1994-01-27, page 188*
+
+Réponse. - Aux termes de l'article 1122 du code rural, les veuves d'exploitants agricoles ne peuvent prétendre à la pension de réversion de ces derniers, que si elles ne sont pas elles-mêmes titulaires d'un avantage de vieillesse acquis au titre d'une activité professionnelle. Toutefois, si la pension de réversion susceptible d'être servie est d'un montant supérieur à celui de la retraite personnelle du conjoint survivant, la différence leur est servie sous forme d'un complément différentiel. Par ailleurs, le régime agricole est plus favorable que ceux des salariés de l'industrie, du commerce et de l'agriculture lorsque le conjoint survivant est âgé de moins de 60 ans, puisqu'il bénéficie alors d'un taux de réversibilité de 70 à 80 p. 100 de la pension du défunt contre 52 p. 100 dans le cas d'un salarié. Il est vrai, néanmoins, que des disparités subsistent entre ces régimes au détriment des veuves d'agriculteurs. Mais, compte tenu des charges du budget annexe des prestations sociales agricoles, dont l'équilibre n'est assuré que grâce à une très importante participation de la collectivité nationale, il n'a pas été possible jusqu'à maintenant de réaliser une modification de la législation, de manière à instituer une possibilité de cumul des avantages de vieillesse personnels et de réversion dans les mêmes conditions que pour les salariés. Après l'étape qui vient d'être franchie en faveur des petites retraites des chefs d'exploitation, telle qu'elle a été annoncée lors de la conférence agricole du 15 novembre dernier, la question difficile de l'amélioration des pensions de réversion dans le régime agricole devra être examinée en priorité.
