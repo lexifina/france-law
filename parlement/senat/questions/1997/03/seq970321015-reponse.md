@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970321015
+
+- Question : [SEQ970321015](seq970321015.md) — Calcul de l'indice des prix à la consommation et indice des services d'assurances
+
+## Réponse
+
+*Économie, JO du 1997-04-24, page 1303*
+
+Réponse. - Un premier calcul de l'indice du service des assurances (assurance habitation et assurance automobile) vient d'être effectué pour le mois de janvier 1997. Ceci marque la première réalisation concrète du très important travail d'élaboration statistique qu'a nécessité la mise en place de cet indice. Pour répondre à la réglementation communautaire, l'indice du service des assurances a été introduit dans l'indice des prix à la consommation harmonisé (IPCH) que la Commission européenne diffuse à compter du mois de mars 1997. Cette intégration rapide présente toutefois quelques inconvénients : manque de recul pour porter un jugement fin sur les estimations réalisées, absence d'historique pour les séries qui interdit pour le moment toute possibilité de comparaison temporelle. Il a ainsi été convenu avec Eurostat, le service statistique de la Commission européenne, que l'indice des assurances et son niveau de regroupement immédiatement supérieur ne seraient pas diffusés en 1997, bien que contribuant au calcul de l'IPCH global dès le mois de janvier. Une révision de l'IPCH est prévue chaque année. Lorsque la prochaine sera effectuée, une série révisée des assurances sera introduite, si le besoin s'en fait sentir. Dans l'hypothèse très probable où une année d'observations aura montré la pertinence de la méthodologie retenue pour la construction de l'indice des assurances et la fiabilité des informations collectées, l'indice des assurances sera introduit dans l'indice national en 1998. La pondération de ce nouveau poste est telle (1 % de la consommation des ménages) que son introduction ne risque pas de modifier sensiblement l'indice d'ensemble des prix à la consommation.
