@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000323433
+
+- Question : [SEQ000323433](seq000323433.md) — Extension du chèque emploi service aux associations et artisans
+
+## Réponse
+
+*Emploi, JO du 2001-08-30, page 2822*
+
+L'extension du chèque emploi service aux petites associations et aux artisans a été envisagée dans le but de simplifier pour l'employeur les obligations matérielles liées à l'établissement des fiches de paie et les déclarations auprès des organismes sociaux (caisses de sécurité sociale, assurance chômage, caisses de retraite complémentaire et de prévoyance). Cette extension se heurte cependant à certaines difficultés. En effet, il convient de rappeler que la mise en place du chèque emploi service pour les particuliers employeurs avait été facilitée, d'une part, par l'existence d'une seule convention collective couvrant tous les employés de maison et, d'autre part, par le nombre relativement faible des paramètres servant à établir la rémunération. Dans le cas des associations et des artisans, la situation est beaucoup plus complexe, car les salariés exercent leurs activités dans plusieurs secteurs et sont, à ce titre, couverts par autant de conventions collectives. En outre, les éléments variables des conditions de travail sont nombreux (durée de travail, heures supplémentaires, congés, chômage partiel, primes diverses, avantages en nature) et nécessitent l'apport d'une information très détaillée qui devrait figurer sur les deux volets du " chèque emploi " en cause. Des travaux sont en cours afin de résoudre le problème du calcul de la rémunération nette et celui de l'établissement du volet bulletin de paie. Par ailleurs, la mise en oeuvre d'un tel projet nécessite de définir les conditions de prise en charge par les URSSAF de la gestion globale du dispositif et une large consultation des partenaires sociaux.
