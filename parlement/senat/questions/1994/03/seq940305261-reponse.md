@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940305261
+
+- Question : [SEQ940305261](seq940305261.md) — Fonctionnement du système d'information de Schengen
+
+## Réponse
+
+*Affaires européennes, JO du 1994-04-28, page 999*
+
+Réponse. - Les Etats parties contractantes de la convention d'application Schengen ont confié à la France la signature en leur nom du marché du système central et des interfaces du système d'information Schengen (SIS), en l'espèce avec le consortium dirigé par SEMA. Le comité exécutif des ministres Schengen, réuni à Paris le 14 décembre 1993, a indiqué que toutes les conditions juridiques et politiques permettant la mise en vigueur de la convention étaient désormais remplies. Toutefois, il a constaté que le problème technique qui demeurait quant aux fonctionnements du système d'information Schengen (SIS) n'était toujours pas réglé. Conformément aux décisions prises par le comité exécutif, les travaux techniques de mise en place du SIS se poursuivent activement. C'est ainsi que, d'une part, les opérations de vérification d'aptitude du SIS sont actuellement engagées, d'autre part, le rapport d'expertise est en cours d'établissement. Le consortium dirigé par SEMA participe bien évidemment aux phases de tests. Dès que les éléments seront suffisants pour permettre d'apprécier la situation, ceux-ci seront transmis au comité exécutif qui lors d'une prochaine réunion examinera les décisions à prendre. Pour ce qui la concerne, la France participe activement à ces travaux tant dans le cadre du groupe de travail permanent que dans celui de la cellule de crise spécialement mise en place. Actuellement, aucune date pour déclarer opérationnel le SIS ne peut être avancée : la France, comme ses partenaires des autres Etats Schengen, tient à s'assurer du bon fonctionnement de l'ensemble du système.
