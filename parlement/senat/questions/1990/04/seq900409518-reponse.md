@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900409518
+
+- Question : [SEQ900409518](seq900409518.md) — Mise en oeuvre de l'initiative communautaire REGIS
+
+## Réponse
+
+*Affaires européennes, JO du 1990-07-26, page 1643*
+
+Réponse. - L'initiative communautaire dénommée REGIS, " Régions isolées ", concerne les régions ultrapériphériques de la Communauté. Parmi ces régions figurent les Canaries, les Açores et Madère ainsi que les départements français d'outre-mer. Le Gouvernement suit avec une attention toute particulière l'évolution de ce dossier important pour les départements d'outre-mer. L'initiative REGIS devrait permettre de prendre en compte grâce aux fonds structurels européens des opérations importantes qui n'ont pu être financées dans les cadres communautaires d'appui des D.O.M. pour des raisons qui tenaient soit à des questions d'éligibilité aux règles communautaires, soit à des problèmes d'enveloppes budgétaires. Dès l'adoption du règlement communautaire REGIS, le Gouvernement disposera d'un délai de six mois pour la mise au point des programmes opérationnels. Ces échéances sont bien connues et elles devront bien évidemment être respectées. C'est pourquoi sans attendrela parution du règlement REGIS auJournal officiel des Communautés européennes, les autorités nationales, l'Etat et les partenaires institutionnels locaux, recensent les opérations susceptibles d'être cofinancées par la Communauté conformément aux orientations probables du futur règlement. Il s'agit : de dévelpppement économique endogène ; du désenclavement de ces régions par rapport aux pays voisins et à la Communauté ; de l'agriculture tropicale ; de la prévention des risques naturels. Par la suite, et lorsque le règlement apportera les précisions définitives, un exercice d'ajustement sera effectué. Cette démarche associera étroitement les conseils régionaux.
