@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991221518
+
+- Question : [SEQ991221518](seq991221518.md) — Taxe sur la valeur ajoutée applicable pour l'installation d'un ascenseur pour handicapés
+
+## Réponse
+
+*Économie, JO du 2000-12-14, page 4246*
+
+Réponse. - L'article 23 de la loi de finances pour 1996, codifié à l'article 278 quinquies du code général des impôts, a soumis au taux réduit de la taxe sur la valeur ajoutée les ascenseurs et matériels assimilés spécialement conçus pour les personnes handicapées et qui répondent à certaines caractéristiques fixées par arrêté ministériel. Ces caractéristiques, reprises à l'article 30-0C de l'annexe IV au code général des impôts, ont pour objets de garantir le respect de critères de sécurité des matériels en vue d'une utilisation par des personnes handicapées. Les ascenseurs qui ne répondent pas à ces exigences ne peuvent donc pas, même s'ils peuvent être utilisés par des personnes handicapées et notamment par des personnes circulant en fauteuil roulant, bénéficier du taux réduit de 5,5 %. Cela étant, aux termes de l'article 2000 quater du code général des impôts, issu de l'article 5 de la loi de finances pour 200, les dépenses facturées et payées entre le 15 septembre 1999 et le 31 décembre 2002 pour l'acquisition d'ascenseurs répondant ou non aux caractéristiques fixées à l'article 30-0C de l'annexe IV au même code, fournis dans le cadre de travaux d'installation ou de remplacement, ouvrent droit, sous certaines conditions et dans la limite d'un certain plafond, à un crédit d'impôt sur le revenu égal à 15 % du montant de l'équipement figurant sur la facture de l'entreprise ayant réalisé les travaux. Ces travaux doivent notamment être afférents à la résidence principale du contribuable et être éligibles au taux réduit de la TVA en application de l'article 279-0 bis du code général des impôts. Ces précisions sont de nature à répondre aux préoccupations exprimées.
