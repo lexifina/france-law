@@ -4,11 +4,11 @@ Rémunération mensuelle
 
 a) Principe :
 
-La rémunération sera faite au mois et sera, pour un horaire hebdomadaire de travail déterminé et effectivement accompli pendant le mois considéré, indépendante du nombre de jours travaillés dans le mois.
+Pour les salariés sous contrat à durée indéterminée ainsi que pour le personnel sous contrat à durée déterminée sous réserve que la durée de ce contrat soit supérieure à un mois, la rémunération sera faite au mois et sera, pour un horaire hebdomadaire de travail déterminé et effectivement accompli pendant le mois considéré, indépendante du nombre de jours travaillés dans le mois.
 
 b) Rémunération mensuelle minimale :
 
-La rémunération mensuelle minimale, pour l'horaire hebdomadaire de trente-neuf heures, sera obtenue en multipliant par 169,65 le salaire horaire minima garanti résultant pour la catégorie de l'intéressé, de la convention collective ou de l'accord de salaire applicable dans l'entreprise.
+La rémunération mensuelle minimale pour l'horaire hebdomadaire de 39 heures est fixée à l'annexe IV de la convention collective nationale. La rémunération horaire minimale se calculera, en divisant par 169 la rémunération mensuelle minimale résultant pour la position hiérarchique de l'intéressé de la convention collective ou de l'accord de salaire applicable dans l'entreprise".
 
 c) Rémunération mensuelle effective :
 

@@ -2,11 +2,9 @@
 
 1. Les rémunérations sont déterminées par les deux facteurs ci-après :
 
-a) Le salaire mensuel de base correspondant au coefficient 100, dont la valeur est fixée par les organisations signataires ;
+- La classification professionnelle et la position hiérarchique y afférante ;
 
-b) La classification professionnelle et le coefficient y afférent.
-
-2. Les rémunérations garanties ainsi établies comprennent le traitement de base auquel peuvent s'ajouter les majorations ayant le caractère de fait d'un complément de traitement, telles que gratifications contractuelles ou d'usage constant, avantages en nature qui ne sont pas la contrepartie d'une sujétion.
+- Le barème des salaires minima prévu à l'article 16 ci-après 2. Les rémunérations garanties ainsi établies comprennent le traitement de base auquel peuvent s'ajouter les majorations ayant le caractère de fait d'un complément de traitement, telles que gratifications contractuelles ou d'usage constant, avantages en nature qui ne sont pas la contrepartie d'une sujétion.
 
 3. Elles ne comprennent pas les primes (par exemple celles de l'intéressement à la prospérité, à l'accroissement de la productivité, etc.), les gratifications exceptionnelles et bénévoles ni les indemnités ayant un caractère de remboursement de frais.
 
