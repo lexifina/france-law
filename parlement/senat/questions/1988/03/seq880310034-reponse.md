@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880310034
+
+- Question : [SEQ880310034](seq880310034.md) — Situation des petits épargnants
+
+## Réponse
+
+*Économie, JO du 1988-05-10, page 669*
+
+Réponse. -Il est rappelé à l'honorable parlementaire que les cours en Bourse des valeurs mobilières s'établissent en fonction de la loi de l'offre et de la demande de titres. Toute intervention des pouvoirs publics visant à régulariser les cours ou à modifier les conditions dans lesquelles ils se forment ne pourrait qu'introduire un regrettable élément d'arbitraire dans le fonctionnement du marché boursier. Le cours des actions qui avait sensiblement fléchi au mois de janvier - l'indice de la compagnie des agents de change passant de 280,7 au 31 décembre 1987 à 251,3 au 29 janvier 1988 s'est redressé pendant le mois de février avant de marquer une pause le mois suivant, l'indice C.A.C. s'établissant à 284,1 le 31 mars 1988. Ainsi, pendant le premier trimestre cet indice a progressé de 1,21 p. 100 ; au cours de la même période, la valeur du " portefeuille " pondéré des titres de sociétés privatisées a augmenté de 3,8 p. 100. Il apparaît donc qu'après avoir traversé une période de turbulences, le marché boursier a retrouvé un fonctionnement normal. Le Gouvernement n'a pas été étranger à cette stabilisation pour avoir, à plusieurs reprises, confirmé sa volonté d'assurer le maintien et l'amélioration d'un dispositif favorable à l'épargne financière des ménages. Ainsi, le mécanisme du compte d'épargne en actions est prolongé d'un an jusqu'au 31 décembre 1988. Par ailleurs, le plafond des sommes déductibles du revenu imposable, versées sur un plan d'épargne en vue de la retraite, passe à 16 000 francs pour un couple marié ayant moins de trois enfants à charge, 20 000 francs pour un couple marié avec trois enfants à charge, 8 000 francs pour un célibataire et 12 000 francs pour un célibataire ayant trois enfants à charge.
