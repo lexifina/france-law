@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890605069
+
+- Question : [SEQ890605069](seq890605069.md) — Suppression du guichet de la gare de Sanry-sur-Nied (Moselle)
+
+## Réponse
+
+*Équipement, JO du 1989-08-10, page 1248*
+
+Réponse. - Dans le cadre de l'autonomie de gestion que lui a conféré la loi d'orientation des transports intérieurs du 30 décembre 1982, la S.N.C.F. se doit de prendre des dispositions permettant de concilier ses objectifs d'équilibre financier avec la nécessité de maintenir un service adapté aux besoins de la population. C'est ainsi qu'elle a été amenée à examiner les conditions d'ouverture au public des gares qui présentent un coût élevé eu égard à leur faible activité, et à envisager la transformation de certaines d'entre elles en points d'arrêt non gérés. Tel est le cas pour la gare de Sanry-sur-Nied, dont les recettes, qui sont parmi les plus faibles de la région S.N.C.F. de Metz, ne permettent pas de couvrir les frais de personnel et d'entretien de la gare. Cette décision n'affecte pas la desserte proprement dite qui ne sera pas modifiée. Pour assurer la vente des billets, la S.N.C.F. a prévu la création d'un abri voyageurs et l'installation d'un appareil distributeur sous cet abri. Les billets peuvent également être délivrés par les contrôleurs à bord des trains. De telles dispositions permettent de desservir de petites communes dans des conditions moins coûteuses sans créer des contraintes trop importantes pour les usagers. La S.N.C.F. veille par ailleurs à ce que cette évolution de ses services commerciaux s'effectue dans les meilleures conditions de sécurité. Lorsqu'un point d'arrêt est ainsi susceptible de changer de régime d'exploitation, les éventuelles particularités en matière de visibilité, de densité des circulations ferroviaires, de nombre de voies et d'importance de la fréquentation sont systématiquement examinées.
