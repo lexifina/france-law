@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011237468
+
+- Question : [SEQ011237468](seq011237468.md) — Remboursement de la cotisation Paniblé
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2002-02-14, page 503*
+
+En 1991, à l'initiative de la Confédération nationale de la boulangerie française (CNBF), une cotisation volontaire appelée " Paniblé ", ayant pour objet le financement de la promotion du métier de boulanger-pâtissier, a été demandée aux artisans boulangers, pâtissiers et minotiers. Cette cotisation ayant donné lieu à contestation a été supprimée le 31 décembre 1999. Le 13 juillet 2000, les professionnels du secteur de la boulangerie-pâtisserie ont conclu un accord collectif national mettant en place une nouvelle contribution dont l'objet est de financer le paritarisme dans la branche et de permettre l'exercice du droit à la négociation collective. Afin de respecter les dispositions de l'article L. 131-1 du code du travail, cette cotisation ne peut pas financer la promotion du métier de boulanger. Cet accord a été étendu par arrêté en date du 12 octobre 2000 et s'applique, désormais, à l'ensemble des employeurs de la branche, ainsi qu'à leurs salariés, comme le prévoient les articles L. 133-8 et suivants du code du travail. En ce qui concerne les cotisations recouvrées entre 1991 et fin 1999 par l'ISICA, cet organisme a fait connaître sa décision de procéder au remboursement de la cotisation " Paniblé " sur cette période pour les cotisants qui en font expressément la demande avant le 15 juin 2002. Tout contentieux relatif à ce remboursement relève de rapports d'ordre privé ou d'une action en justice, qu'il revient éventuellement aux intéressés d'engager, s'ils le jugent nécessaire. En tout état de cause, il n'appartient pas aux pouvoirs publics de se substituer aux requérants et d'intervenir à leur place dans des contestations juridiques d'ordre privé.
