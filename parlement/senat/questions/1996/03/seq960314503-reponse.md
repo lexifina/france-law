@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960314503
+
+- Question : [SEQ960314503](seq960314503.md) — Stage de gestion pour les créateurs d'entreprises non spécialisées dans le funéraire
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 1996-07-18, page 1856*
+
+Réponse. - La section 3 du décret no 95-652 du 9 mai 1995, relatif au règlement des pompes funèbres, instaure une formation professionnelle dispensée aux dirigeants et agents des régies, entreprises ou associations habilitées qui correspond à la gestion particulière de ce type d'entreprise. Cette nouvelle réglementation a été élaborée en concertation avec le conseil national des opérations funéraires où sont représentés les communes et leurs groupements, les régies et les différentes catégories d'entreprises de pompes funèbres, ainsi que les organisations syndicales de la profession et les associations de consommateurs. Cette instance a émis un avis favorable au nouveau dispositif visant à améliorer la qualité du service public et à renforcer les garanties accordées aux familles dans des circonstances où elles sont particulièrement vulnérables. Néanmoins, conscients des difficultés d'application de cette réglementation également imposée aux petites entreprises implantées en milieu rural, les services concernés des ministère de tutelle ont reporté la mise en oeuvre de ces modalités pour ne pas contraindre certains artisans ruraux à cesser momentanément leurs activités. De plus, le conseil national des opérations funéraires, instance consultative dans laquelle sont représentés notamment l'ensemble des organisations syndicales et des professionnels du secteur, a décidé de créer un groupe de travail sous la présidence de M. René André, député de la Manche, dont la mission sera d'examiner la réalité des difficultés d'exercice de l'activité funéraire en milieu rural et de suggérer, le cas échéant, des assouplissement à la mise en oeuvre de cette nouvelle réglementation.
