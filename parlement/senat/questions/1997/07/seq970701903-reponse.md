@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701903
+
+- Question : [SEQ970701903](seq970701903.md) — Prêts bonifiés à l'artisanat
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 1997-10-16, page 2821*
+
+Réponse. - La mise en oeuvre des prêts bonifiés à l'artisanat pour 1997 a débuté le 7 février 1997 par l'adjudication d'une première enveloppe de 25 lots de 40 MF de prêts bonifiés, soit 1 MDF, associés à 80 MF de prêts conventionnés, soit 2 MDF. Grâce à la baisse des taux d'intérêts et à une concurrence ravivée, l'Etat a pu porter ces montants à 1,930 MDF pour les prêts bonifiés (contre 1,060 MDF en 1996) et à 3,860 MDF pour les prêts conventionnés. Les taux d'intérêts des offres retenues ont permis d'établir le taux moyen des prêts conventionnés à 5,75 % et celui des prêts bonifiés par l'Etat à 3,50 %. Au 30 juin 1997, la consommation de l'enveloppe de prêts bonifiés atteignait près de 50 %, avec une situation cependant fort disparate selon les réseaux bancaires (entre 10 et 100 %), et celle des prêts conventionnés s'élevait à plus de 70 %. Le second milliard de prêts bonifiés prévu a fait l'objet d'une seconde adjudication le 24 juillet 1997. Les conditions de marché ont permis de porter le montant de cette seconde enveloppe à 1,550 MDF de prêts bonifiés et à 3,100 MDF de prêts conventionnés. Ainsi, il a été attribué 3,480 MDF de possibilités de prêts bonifiés, contre 2 MDF initialement prévus, aux banques adjudicataires qui n'avaient pu en mettre en place que 1,111 MDF en 1996. Ces enveloppes sont attribuées à l'échelon national à chaque direction centrale des banques adjudicataires qui les répartissent entre leurs unités régionales, qui gèrent plus de 22 000 agences. Les difficultés de mise à disposition signalées ne peuvent être que ponctuelles, ou d'ordre réglementaire, puisque, selon les dernières informations recueillies, plus des deux tiers de l'enveloppe sont encore disponibles pour les entreprises artisanales.
