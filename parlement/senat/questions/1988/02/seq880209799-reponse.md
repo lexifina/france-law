@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880209799
+
+- Question : [SEQ880209799](seq880209799.md) — Date de versement des allocations d'études
+
+## Réponse
+
+*Recherche et enseignement supérieur, JO du 1988-04-14, page 516*
+
+Réponse. -Il convient de rappeler qu'un certain nombre de dispositions ont été prises pour que les étudiants perçoivent leurs termes de bourse en temps utile. C'est ainsi qu'un arrêté du 17 février 1981 prévoit que les bourses d'enseignement supérieur peuvent être mises en paiement dès le début de la période trimestrielle ou mensuelle au titre de laquelle elles sont dues. De plus, l'automatisation de la gestion de ces aides, mise en place depuis plusieurs années dans certaines académies, est en cours d'extension. A l'avenir, ceci devrait permettre d'accélérer l'établissement des titres de paiement. En outre, une partie des crédits des bourses d'enseignement supérieur au titre du trimestre octobre-décembre est déléguée aux recteurs avant la rentrée universitaire. Les ajustements au moyen de délégations complémentaires interviennent au cours du trimestre en fonction des indications des recteurs sur les effectifs prévisibles des boursiers, leur nombre réel n'étant connu qu'à la fin du mois de janvier. Des causes de retard peuvent néanmoins subsister au plan local pour des raisons touchant notamment aux calendriers d'inscription de certains étudiants, bien que des mesures aient été prises, en liaison avec les universités, afin d'améliorer les procédures d'inscription des intéressés ou pour des raisons relatives aux délais de vérification des documents de paiement des bourses, ou aux transferts des dossiers d'une académie à une autre. Les étudiants concernés ne sont toutefois pas démunis puisqu'ils ont alors la possibilité de solliciter une avance sur bourse auprès des centres régionaux des oeuvres universitaires et scolaires.
