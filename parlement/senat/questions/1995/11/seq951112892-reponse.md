@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951112892
+
+- Question : [SEQ951112892](seq951112892.md) — Proposition de directive européenne instaurant une taxe sur les émissions de dioxyde de carbone et sur l'énergie
+
+## Réponse
+
+*Budget, JO du 1996-05-09, page 1134*
+
+Réponse. - Le Gouvernement accorde la plus grande importance à la lutte contre les effets nocifs pour l'environnement des émissions de dioxyde de carbone. Dans ce cadre, il considère que l'instrument fiscal est pertinent, mais s'oppose à la proposition révisée de directive de la Commission européenne créant une taxe nouvelle assise sur le CO2 et la valeur énergétique. En effet, pour être simple, toute mesure doit s'appuyer sur un instrument fiscal existant ; pour être équitable, elle doit prendre en compte les efforts déjà réalisés par certains Etats, dont la France ; pour être efficace, elle doit viser exclusivement les produits qui émettent du dioxyde de carbone et qui n'affectent pas la compétitivité de l'industrie communautaire. Il est donc nécessaire d'utiliser les accises pour lesquelles il a déjà été reconnu, au niveau communautaire, l'opportunité d'instaurer des taux minimaux, afin de fixer, à un niveau élevé, un seuil minimum et obligatoire de taxation. La présidence espagnole n'a d'ailleurs pu trouver un compromis entre les Etats membres qui, autour de l'Allemagne et des Etats du Nord de l'Europe, souhaitaient une taxe obligatoire et harmonisée à aussi brève échéance que possible et ceux qui, comme le Royaume-Uni, l'Irlande, la Grèce ou le Portugal, ne pouvaient accepter qu'une taxe facultative pour ne pas être contraints de l'appliquer. C'est la raison pour laquelle la proposition française, reprise dans un mémorandum de mars 1994, bénéficie désormais du soutien de nombreux Etats dont, notamment, l'Allemagne, l'Autriche et la Suède.
