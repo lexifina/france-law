@@ -1,74 +1,76 @@
 # Article Annexe I
 
-I - Objectif.
+1. Objet.
 
-Cette méthode est utilisée pour déterminer la capacité d'irritation primaire d'une substance. On désigne par irritant primaire toute substance provoquant une réaction cutanée après une application unique. L'irritation obtenue dépend de la nature de la substance testée, de sa concentration et du temps d'exposition sur la peau.
+La présente méthode est utilisée pour la détermination de l'indice d'irritation primaire cutanée d'un produit cosmétique ou d'hygiène corporelle.
 
-II - Matériel et réactifs.
+2. Domaine d'application.
 
-1. Boîte à double contention pour lapin laissant libre le dos de l'animal ;
+La méthode s'applique aux produits ne colorant pas la peau d'une manière indélébile.
 
-2. Lapin albinos, mâles de 2,5 à 3,5 kg environ. Les animaux doivent avoir séjourné dans l'animalerie huit jours au minimum, afin d'être parfaitement acclimatés ;
+3. Principe.
 
-3. Tondeuse électrique pour animal ;
+La méthode est fondée sur l'observation des réactions cutanées provoquées par l'application unique du principe.
 
-4. Rasoir électrique à grille ;
+4. Animaux d'expérience et équipement.
 
-5. Vaccinostyle stérile ;
+4.1. Lapins albinos mâles, de souche définie, de 2,5 kg environ. Les animaux doivent avoir séjournés dans l'animalerie en cage individuelle, une semaine au minimum afin d'être parfaitement acclimatés et reçoivent, dès leur arrivée, une alimentation de composition constante et équilibrée.
 
-6. Bandes de fixation, largeur 3,8 mm ;
+4.2. Dispositif de maintien permettant la bonne réalisation du protocole expérimental.
 
-7. Gaze hydrophile : carrés à quatre épaisseurs de 2,5 cm de côté ;
+4.3. Tondeuse électrique pour animal, munie d'un peigne (hauteur de coupe 0,05 mm).
 
-8. Coton hydrophile ;
+4.4. Vaccinostyles stériles.
 
-9. Rouleaux de sparadrap de 10 cm de large ;
+4.5. Pièces de gaze hydrophile Codex à 8 épaisseurs d'une surface de 6,2 cm carrés (carrées de 2,5 cm de côté, ou rondes de 2,8 cm de diamètre), dont une des faces est recouverte d'une pellicule adhésive hypoallergénique et imperméable, ou tout système équivalent (par exemple une capsule souple et inerte empêchant la diffusion des liquides très fluides à l'extérieur du pansement).
 
-10. Seringue de 1 ml au 1/100 ;
+4.6. Bande de fixation microporeuse adhésive hypoallergénique de largeur 50 mm, ou tout système équivalent non occlusif.
 
-11. Balance de précision.
+4.7. Compresse de protection en gaze hydrophile Codex de dimensions appropriées.
 
-III - Mode opératoire.
+4.8. Dispositif de maintien souple et aéré des pansements (bande lissée ou sparadrap).
 
-A - Préparation de la peau.
+4.9. Seringue stérile de 1 ml au dixième.
 
-1. Tondre le dos et les flancs de six lapins à la tondeuse électrique pour dégager une surface d'environ 14 cm x 14 cm.
+4.10. Balance de laboratoire sensible au moins au milligramme.
 
-2. Raser la surface tondue au rasoir électrique. Opérer avec précaution de manière à éviter toute irritation due au contact du rasoir.
+5. Mode opératoire.
 
-3. Laisser la peau rasée au repos pendant vingt-quatre heures. 4. Conserver le flanc gauche de chaque lapin intact, pour servir de témoin.
+5.1. Préparation de la peau.
 
-5. Effectuer sur le flanc droit, au vaccinostyle, conservé jusque-là en état de stérilité, trois incisions parallèles de 3 cm de long environ et espacées de 0,5 cm environ. L'incision doit être pratiquée de façon à attaquer l'épiderme sans atteindre le derme. Tout saignement doit être évité et en aucun cas le muscle sous-jacent ne doit apparaître sous l'incision.
+5.1.1. La veille de l'application du produit, tondre le dos et les flancs de lapins (4.1.) à la tondeuse (4.3.) pour dégager une surface d'environ 14 cm X 14 cm ; opérer avec précaution de manière à éviter toute irritation. Vérifier l'état de la peau pour ne retenir que six animaux présentant une peau saine et glabre.
 
-B - Application de la substance.
+5.1.2. Effectuer à la droite de l'axe vertébral, à l'aide d'un vaccinostyle (4.4.), trois scarifications parallèles sur une longueur d'environ 2,5 cm, espacées de 0,5 cm environ. Les scarifications de l'épiderme sont réalisées sans atteindre le derme, c'est-à-dire sans saignement.
 
-1. Déposer une quantité déterminée de la substance à tester sur deux carrés de gaze :
+5.2. Application du produit :
 
-Produit pâteux, 0,5 gramme ;
+5.2.1. Appliquer le produit sur la peau (zones scarifiées et non scarifiées), soit directement, soit après l'avoir déposé sur les pièces de gaze, de manière à éviter toute perte, à raison de :
 
-Produit liquide, 0,5 ml ;
+Produits liquides : 0,5 ml.
 
-Produit solide, 0,5 gramme dispersé à l'état de pâte dans un solvant approprié.
+Produits semi-liquides et pâteux : 0,5 ml ou 0,5 g.
 
-2. Appliquer un carré de gaze ainsi préparé sur le flanc non incisé et un second sur le flanc incisé de l'animal. Les maintenir à l'aide de deux bandes de fixation de 7 cm de long environ disposées en diagonales.
+Produits solides et pulvérulents : 0,5 g.
 
-3. Placer un petit tampon de 1 gramme environ de coton hydrophile au point de croisement des bandes de fixation. Ceci permettra de maintenir une pression uniforme sur toute la surface du carré de gaze.
+5.2.1.1. Les produits liquides seront déposés, à l'aide de la seringue (4.9.) sur deux pièces de gaze (4.5.) que l'on appliquera immédiatement sur la peau (5.2.1.).
 
-4. Enrouler l'animal, au niveau des carrés, avec une bande de sparadrap de 10 cm de large de manière à envelopper le tronc et à bloquer les carrés de gaze.
+5.2.1.2. Les produits semi-liquides et pâteux seront appliqués directement sur la peau (5.2.1.), puis recouverts des pièces de gaze (4.5.).
 
-5. Maintenir le lapin dans la boîte à double contention pendant vingt-quatre heures.
+5.2.1.3. Les produits solides et pulvérulents seront appliqués sur la peau (5.2.1.), puis recouverts des pièces de gaze (4.5.) préalablement humidifiées par 0,5 ml d'eau distillée ou de qualité équivalente.
 
-6. Enlever le carré de gaze vingt-quatre heures après l'application.
+5.2.2. Maintenir en contact avec la peau le produit et la pièce de gaze sur chacune des deux zones avec la bande de fixation (4.6.).
 
-C - Evaluation de l'irritation primaire cutanée.
+5.2.3. Placer la compresse de protection(4.7.).
 
-L'indice d'irritation primaire doit être évalué immédiatement après enlèvement des carrés de gaze et de nouveau quarante-huit heures plus tard (vingt-quatre heures et soixante-douze heures après l'application respectivement).
+5.2.4. Maintenir l'ensemble par le dispositif de pansement (4.8.) qui sera précisé dans le compte rendu d'expérimentation.
 
-Ces observations doivent se faire sur le côté incisé et sur le côté non incisé.
+5.2.5. Enlever le pansement et les pièces de gaze vingt-quatre heures après l'application du produit.
 
-D - Echelle numérique.
+5.3. Evaluation de l'irritation primaire cutanée :
 
-- Erythème et formation d'escarres :
+L'irritation primaire cutanée doit être évaluée trente minutes environ après enlèvement du pansement et de nouveau quarante-huit heures plus tard, c'est-à-dire environ soixante-douze heures après l'application du produit. Les observations sont faites sur les deux zones, scarifiée et non scarifiée, selon l'échelle numérique suivante :
+
+5.3.1. Erythème et formation d'escarres :
 
 - Pas d'érythème : 0.
 
@@ -76,42 +78,38 @@ D - Echelle numérique.
 
 - Erythème bien visible : 2.
 
-- Erythème modéré à important : 3.
+- Erythème important : 3.
 
-- Erythème grave (rouge pourpre) avec formation de légères escarres (lésions profondes) : 4.
+- Erythème grave (rouge pourpre) avec ou sans escarres (lésions profondes) : 4.
 
-E - Echelle numérique.
-
-Formation d'oedème :
+5.3.2. Formation d'oedème :
 
 - Pas d'oedème : 0.
 
 - Très léger oedème (à peine visible) : 1.
 
-- Léger oedème (contours bien définis, gonflement apparent) : 2. - Oedème moyen (épaisseur environ 1 mm) : 3.
+- Léger oedème (contours bien définis, gonflement apparent : 2. - OEdème moyen (épaisseur environ 1 mm) : 3.
 
-- Oedème grave (épaisseur supérieure à 1 mm et surface supérieure à celle du carré) : 4.
+- OEdème grave (épaisseur supérieure à 1 mm et surface supérieure à celle de la zone d'application) : 4.
 
-F - Notation.
+6. Détermination de l'indice d'irritation primaire.
 
-1. Additionner les notes obtenues pour l'oedème et pour l'érythème après vingt-quatre heures et soixante-douze heures sur les six zones correspondant aux surfaces incisées.
+6.1. Additionner les chiffres obtenus pour l'érythème et pour l'oedème après vingt-quatre heures et soixante-douze heures, d'une part, sur les six zones non scarifiées, d'autre part, sur les six zones scarifiées.
 
-2. Effectuer le même total pour les six zones correspondant aux surfaces non incisées.
+6.2. Additionner les chiffres ainsi obtenus et calculer la moyenne en divisant le total par 24.
 
-3. Effectuer le total des chiffres obtenus pour les lectures des six zones (surfaces incisées et non incisées).
+Cette moyenne représente l'indice d'irritation primaire cutanée (I.P.).
 
-4. Calculer la note moyenne en divisant le total précédent par 24. 5. La moyenne obtenue (toujours inférieure à 8) est désignée comme étant l'indice d'irritation primaire cutanée.
+7. Expression des résultats.
 
-Nota - L'évaluation des érythèmes est facilitée en effectuant une injection intraveineuse dans l'oreille du lapin, d'une solution à 1 p. 100 de trypan bleu dans le sérum physiologique stérile à raison de 1 ml de solution par kilogramme de lapin. Les zones vascularisées se colorent en bleu et l'intensité de la coloration est proportionnelle à l'intensité de l'irritation.
+Non irritant : IP supérieur ou égal à 0,5.
 
-IV - Interprétation des résultats.
+Légèrement irritant : IP supérieur à 0,5 et inférieur ou égal à 2. Irritant : IP supérieur à 2 et inférieur ou égal à 5.
 
-La substance est considérée comme :
+Très irritant : IP supérieur à 5 et inférieur ou égal à 8.
 
-- Non irritante pour un indice nul ;
+Nota :
 
-- Légèrement irritante pour un indice compris entre 0 et 2 ;
+1. En cas d'impossibilité absolue d'utiliser la méthodologie décrite, l'expérimentateur devra mentionner avec précision et justifier dans son compte rendu les modifications apportées.
 
-- Moyennement irritante pour un indice compris entre 2 et 5 ;
-
-- Sévèrement irritante pour un indice compris entre 5 et 8.
+2. Les animaux morts en cours d'essai seront remplacés par d'autres animaux qui seront traités dans les mêmes conditions.
