@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970702070
+
+- Question : [SEQ970702070](seq970702070.md) — Compensation de l'augmentation du salaire minimum interprofessionnel de croissance (SMIC) par l'allègement des charges sociales
+
+## Réponse
+
+*Emploi, JO du 1998-02-12, page 481*
+
+Réponse. - Il est rappelé qu'il a été institué jusqu'au 31 décembre 1997 un allègement de charges sociales sur les bas salaires. Cet allègement est égal à 1 212 francs pour un salaire égal au SMIC mensuel, soit l'équivalent d'un allègement de 60 % des cotisations patronales de sécurité sociale. Le montant de cet allègement est ensuite dégressif pour les salaires supérieurs au SMIC mensuel et s'annule pour les salaires mensuels égaux au SMIC majoré de 33 %. Ainsi, en cas d'augmentation du SMIC, le montant de l'allègement et le plafond de salaire ouvrant droit à cette réduction sont revalorisés dans la même proportion que le SMIC. Il bénéficie ainsi à un plus grand nombre de salariés. La loi de finances pour 1998 (art. 115) reconduit le principe de cet allègement sans limitation de durée tout en le recentrant sur les bas salaires. Le plafond de salaire ouvrant droit à cette mesure sera ainsi ramené au SMIC mensuel majoré de 30 % et le montant de l'allègement sera proratisé en cas d'activité inférieure au temps plein. Il n'est pas envisagé de modifier ce dispositif de manière à ce que l'allègement absorbe entièrement l'augmentation du coût du travail en cas de revalorisation du SMIC. Il en résulterait une très importante augmentation du coût de cette mesure pour les finances publiques, si la compensation intégrale devait bénéficier à l'ensemble des salaires. Si la compensation devait être limitée aux salariés rémunérés au SMIC, le coût du travail augmenterait très rapidement pour les salaires légèrement supérieurs au SMIC, créant un fort effet de seuil.
