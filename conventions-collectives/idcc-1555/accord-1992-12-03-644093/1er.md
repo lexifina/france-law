@@ -1,0 +1,21 @@
+# Article 1er
+
+1.1. Entreprises entrant dans le champ d'application du présent accord et affiliées, lors de son entrée en vigueur, aux contrats groupes professionnels souscrits le 28 septembre 1962 et le 6 avril 1967, auprès des AGF, dont le caractère obligatoire a été repris par la convention collective du 1 er juin 1989 dans la fabrication et le commerce des produits à usage pharmaceutique, parapharmaceutique et vétérinaire.
+
+Les entreprises entrant dans le champ d'application du présent accord, affiliées à la date du 31 décembre 1992 aux contrats groupes professionnels susvisés en application de la convention collective du 1 er juin 1989, sont réputées affiliées de plein droit au contrat d'assurance groupe relatif au risque maladie-chirurgie-maternité souscrit auprès de l'association de prévoyance générale interprofessionnelle des salariés (APGIS), en application du présent accord. Elles sont automatiquement transférées auprès de cet organisme, leurs salariés devenant de plein droit participants de ce contrat groupe.
+
+Lorsque tout ou partie de leurs salariés bénéficiaient, dans le cadre des anciens contrats souscrits auprès des AGF, de l'un ou des deux régimes supplémentaires facultatifs, les entreprises se verront automatiquement appliquer le ou les deux régimes supplémentaires optionnels prévus aux annexes correspondantes ci-après.
+
+En tout état de cause, les entreprises entrant dans le champ d'application du présent accord, mais n'adhérant pas au régime de prévoyance, sont dans l'obligation d'offrir à leurs salariés un niveau de garanties au moins équivalent à celui visé dans les différentes annexes du présent accord.
+
+1.2. Entreprises entrant dans le champ d'application du présent accord mais assurées, lors de son entrée en vigueur, en dehors des contrats groupes professionnels souscrits auprès des AGF.
+
+Les entreprises qui ont confié la gestion de leur régime de prévoyance à un autre organisme, ainsi que celles qui sont couvertes pour l'ensemble de leurs risques par un contrat autre que les contrats groupes professionnels souscrits auprès des AGF, pourront demander leur adhésion aux organismes visés ci-dessous, qui soumettront la demande au comité paritaire de gestion.
+
+En tout état de cause, les entreprises entrant dans le champ d'application du présent accord mais n'adhérant pas au régime de prévoyance, sont dans l'obligation d'offrir à leurs salariés un niveau de garanties au moins équivalent à celui visé dans les différentes annexes du présent accord.
+
+1.3. Entreprises sortant du champ d'application du présent accord ou appartenant à un groupe économique dont l'activité principale est autre que celle relevant de la fabrication et du commerce des produits à usage pharmaceutique, parapharmaceutique et vétérinaire.
+
+Les entreprises qui, notamment à l'occasion de modification dans leur situation juridique ayant pour effet de remettre en cause l'application du présent accord en vertu du dernier alinéa de l'article L. 132-8 du code du travail, ou appartenant à un groupe économique dont l'activité principale ne relève pas de la fabrication et du commerce des produits à usage pharmaceutique, parapharmaceutique et vétérinaire, seraient amenées à cesser leurs relations avec les organismes visés ci-dessous dans le cadre du présent accord, devraient, d'une part, négocier avec les organisations syndicales représentatives dans l'entreprise, un accord collectif d'entreprise ou faire ratifier par référendum un projet de la direction visant expressément le changement d'assureur et, d'autre part donner, en application de l'article L. 132-22 du code du travail, toutes informations utiles au comité d'entreprise, à défaut aux délégués du personnel, d'une part, aux représentants syndicaux (cas de l'accord collectif) ou aux salariés (cas du référendum), d'autre part, leur permettant de prendre position en toute connaissance de cause.
+
+En tout état de cause, la solution différente retenue doit être plus favorable pour les salariés au moins au niveau des prestations assurées, sauf lorsque l'entreprise, en raison d'un changement d'activité principale, ne relève plus du champ d'application de la convention collective de la fabrication et du commerce des produits à usage pharmaceutique, parapharmaceutique et vétérinaire.
