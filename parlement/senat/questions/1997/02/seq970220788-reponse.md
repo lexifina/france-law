@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970220788
+
+- Question : [SEQ970220788](seq970220788.md) — Ligne budgétaire pour 1997 consacrée aux entreprises d'insertion par l'économique
+
+## Réponse
+
+*Économie, JO du 1997-05-22, page 1526*
+
+Réponse. - La loi de finances pour 1997 a inscrit un montant de 453 millions de francs au titre de l'aide de l'Etat aux entreprises d'insertion par l'économique : 320,40 millions de francs sur le budget du travail (chapitre 44-76) et 132,60 millions de francs sur le budget de l'action sociale et de la solidarité (chapitre 47-22). L'aide de l'Etat reste donc à un niveau pratiquement inchangé par rapport aux crédits inscrits en loi de finances initiale de 1996 (455 millions de francs), dans un contexte de réduction des dépenses publiques. Ce fait confirme bien l'attention particulière portée par le Gouvernement aux entreprises du secteur de l'insertion par l'économique, lesquelles réalisent un travail irremplaçable et reconnu de réinsertion dans l'emploi des personnes qui connaissent des difficultés spécifiques sur le marché du travail. Le Gouvernement a effectivement l'intention de mettre en réserve certains crédits votés au titre de 1997 pour assurer le financement de dépenses nouvelles décidées depuis le vote de la loi de finances ainsi que la maîtrise du niveau de déficit public par rapport à l'objectif fixé par le Président de la République. En tout état de cause, la décision du Gouvernement relative à l'inclusion ou non de crédits de l'insertion par l'économique dans le dispositif de gel de crédits n'est pas encore arrêtée. Si des crédits devaient être gelés, le Gouvernement veillerait à ce que l'intervention de l'Etat en faveur de l'insertion par l'économique ne soit pas quantitativement et qualitativement affectée, en tenant compte des capacités de mise en oeuvre du budget en 1997.
