@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901212961
+
+- Question : [SEQ901212961](seq901212961.md) — Personnel des collectivités territoriales à temps non complet
+
+## Réponse
+
+*Intérieur, JO du 1991-08-01, page 1626*
+
+Réponse. - Le décret n° 91-298 du 20 mars 1991 portant dispositions statutaires applicables aux fonctionnaires territoriaux nommés dans des emplois permanents à temps non complet a été publié au Journal officiel du 22 mars 1991. Compte tenu de la situation spécifique des agents concernés, l'objectif retenu a été, dans tous les cas, de leur assurer des droits équivalents à ceux dont bénéficient les fonctionnaires à temps complet. Les fonctionnaires territoriaux nommés dans des emplois permanents à temps non complet ont dorénavant, outre la possibilité d'être intégrés dans un cadre d'emplois lorsque leur durée hebdomadaire de service atteint celle qui est fixée par la Caisse nationale de retraite des agents des collectivités locales (31 h 30), la faculté de solliciter leur placement dans la plupart des positions prévues par le chapitre V de la loi n° 84-53 du 26 janvier 1984 modifiée. Ils bénéficient en outre, en application de l'article 104, 2o, de la loi précitée, et selon qu'ils sont ou non intégrés dans un cadre d'emplois, d'un régime de prise en charge ou d'indemnités en cas de suppression ou de modification de l'emploi occupé. Un régime de protection sociale a, de plus, été mis en place pour les agents non affiliés à la C.N.R.A.C.L., qui relèvent du régime général de la sécurité sociale. Ces agents peuvent désormais bénéficier d'avantages complémentaires, notamment en cas d'accident de travail ou de maladies qui ouvriraient droit à congé de longue durée ou de longue maladie en cas d'affiliation à la C.N.R.A.C.L., soit par le maintien du plein traitement pendant trois mois, soit par le moyen d'un congé de grave maladie tel qu'il existe pour les agents non titulaires.
