@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991120087
+
+- Question : [SEQ991120087](seq991120087.md) — Frais de déplacement des emplois jeunes ou des apprentis
+
+## Réponse
+
+*Emploi, JO du 2000-05-04, page 1593*
+
+Réponse. - Le décret nº 91-573 du 19 juin 1991 relatif aux conditions et modalités de règlement des frais occasionnés par les déplacements des personnels relevant de la fonction publique territoriale peut s'appliquer aux personnels recrutés par les collectivités territoriales, dans le cadre du programme " Nouveaux services, Emplois jeunes " ou en tant qu'apprentis du secteur public, bien que ceux-ci soient soumis aux règles de droit privé de code du travail. En effet, l'article premier de ce décret fixe " les conditions et les modalités de règlement des frais engagés à l'occasion des déplacements temporaires effectués (...) par toute personne dont les frais de déplacement sont à la charge des budgets de ces collectivités ou de ces établissements ". En outre, l'article 2 du même décret précise que " les personnes autres que celles qui reçoivent d'une collectivité ou d'un de ses établissements à caractère administratif une rémunération au titre de leur activité principale ne peuvent être réglées de leurs frais de déplacement que sur décision de l'autorité territoriale ou du fonctionnaire ayant reçu délégation à cet effet. Les frais de transport ou de séjour qu'elles sont appelées à engager pour le compte de la collectivité de l'établissement peuvent être remboursés dans les conditions fixées par le présent décret pour les déplacements temporaires... ". Ainsi, dans la mesure où le déplacement effectué par le jeune recruté dans le cadre du programme " Nouveaux services, Emplois jeunes ", ou en contrat d'apprentissage, a fait l'objet d'une décision de l'autorité administrative, il apparaît possible d'assurer le remboursement des frais de ce déplacement selon les modalités applicables aux fonctionnaires de la collectivité territoriale.
