@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020902609
+
+- Question : [SEQ020902609](seq020902609.md) — Administrateurs des postes et télécommunications
+
+## Réponse
+
+*Industrie, JO du 2002-11-07, page 2654*
+
+La réforme du service public des postes et télécommunications et la séparation des activités de nature réglementaire et de contrôle relevant du ministère, des activités à caractère industriel et commercial caractérisant La Poste et France Télécom, a conduit à poser la question de la place des administrateurs des postes et télécommunications au sein des nouvelles structures mises en place par la loi du 2 juillet 1990. L'évolution du corps des administrateurs des postes et télécommunications a fait l'objet d'études et de propositions qui ont conclu à sa mise en extinction, eu égard principalement aux politiques de recrutement envisagées par les principaux employeurs, La Poste et France Télécom. Les principes de cette mise en extinction ont été fixés en accord avec le ministère chargé de la fonction publique et en concertation avec le conseil consultatif du corps des administrateurs des postes et télécommunications et les représentants du corps. Les modalités prévoient l'arrêt des recrutements des administrateurs des postes et télécommunications au 31 décembre 2002 avec la garantie pour les membres du corps d'un déroulement de carrière normal en parité avec le corps des administrateurs civils. De plus, les administrateurs des postes et télécommunications auront la possibilité d'intégrer le corps des administrateurs civils après une période de détachement de deux ans. Une disposition transitoire du décret du 26 avril 2002 permet aux administrateurs des postes et télécommunications affectés au ministère ou détachés dans le corps des administrateurs civils d'intégrer directement ce corps. Bien entendu, les administrateurs des postes et télécommunications continuent d'exercer, sans changement, leurs fonctions de cadres dirigeants à La Poste et à France Télécom.
