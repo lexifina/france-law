@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871008007
+
+- Question : [SEQ871008007](seq871008007.md) — Création d'un observatoire économique du disque
+
+## Réponse
+
+*Culture, JO du 1988-05-10, page 651*
+
+Réponse. -La création d'un observatoire économique du disque doit être examinée dans le cadre des efforts déployés en faveur de l'activité phonographique française. Ces efforts se sont traduits, en premier lieu, par une mesure jugée prioritaire, l'abaissement du taux de la T.V.A. sur les disques et les cassettes enregistrées, effectif depuis le 1er décembre 1987, qui répondait à une très longue attente des professionnels. Cette mesure représente pour l'Etat une perte fiscale d'environ 680 MF, qui devrait être en partie compensée puisqu'elle améliore à terme les perspectives de vente pour chaque titre nouveau à paraître et incitera les éditeurs phonographiques à prendre davantage de risques artistiques au bénéfice de la musique française. Le succès de cette mesure a posé les bases d'un nouveau dialogue entre les pouvoirs publics et les professionnels, en particulier grâce au bureau de liaison interprofessionnel de la musique, permettant de définir le principe d'une mise en place de mesures d'accompagnement. Dans le cadre de ces travaux de réflexion, priorité a été donnée à des mesures concrètes de redressement dans le secteur (création du fonds d'intervention pour la diffusion des industries phonographiques). Cependant, les discussions engagées entre professionnels et pouvoirs publics font apparaître la nécessité d'une information statistique générale sur l'économie du secteur. Ensemble, les partenaires doivent donc réfléchir à la mise au point d'un dispositif financé conjointement pour répondre à l'attente des uns et des autres et c'est dans ce sens que la création d'un observatoire économique du disque, comme outil d'analyse et de proposition, est envisagée.
