@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000525111
+
+- Question : [SEQ000525111](seq000525111.md) — Délais d'examen des pourvois au sein de la Cour de cassation
+
+## Réponse
+
+*Justice, JO du 2001-01-25, page 279*
+
+Réponse. - La garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire qu'elle est attentive aux difficultés de fonctionnement de la Cour de cassation. A cet égard, il ressort du rapport annuel de la Cour pour l'année 1999 que le nombre des affaires nouvelles a connu une diminution sensible de 8,5 % comparé à celui de l'année précédente et que le nombre des dossiers en attente s'est consécutivement stabilisé (41 410 et 40 586 au 31 décembre respectivement 1998 et 1999). Le premier président et le procureur général ont souligné, lors de l'audience solennelle de rentrée de la Cour, le 6 janvier 2000, que ce stock avait une incidence néfaste sur la durée de règlement des affaires, actuellement de plus de deux ans en moyenne, en dépit tant des dernières réformes adoptées, permettant aux chambres civiles comme à la chambre criminelle de statuer en formation restreinte à trois magistrats lorsque la solution du litige s'impose, que de la rationalisation des méthodes et de la mise en uvre de pratiques novatrices. Ils ont appelé de leurs v ux, les efforts d'organisation interne ayant trouvé leurs limites, une augmentation des effectifs humains et des réformes de procédure telles que la généralisation de la représentation obligatoire et l'instauration d'un dispositif de filtrage des pourvois. En conséquence, il apparaît que les pratiques de la Cour, ne semblent pas en cause. S'agissant des remèdes proposés, il est prévu, d'une part, de créer cinq emplois de conseiller référendaire dans la loi de finances pour 2001, d'autre part, d'engager une concertation entre la Chancellerie et la Cour de cassation pour apporter des solutions équilibrées aux délicates questions que soulèvent les réformes souhaitées.
