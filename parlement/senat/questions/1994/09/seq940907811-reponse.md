@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940907811
+
+- Question : [SEQ940907811](seq940907811.md) — Développement des moyens de transport par voie d'eau
+
+## Réponse
+
+*Équipement, JO du 1994-12-29, page 3093*
+
+Réponse. - Le transport par voies navigables dispose de sérieux atouts sur le plan de la capacité, de la consommation d'énergie et de l'environnement. Il peut également contribuer à prévenir la saturation d'autres infrastructures de transport. C'est pourquoi une réflexion sur ses perspectives de développement, notamment par la création de liaisons fluviales à grand gabarit, est en cours. Dans le cadre de la discussion du projet de loi d'orientation pour l'aménagement et le développement du territoire, le Gouvernement a déposé un amendement, visant à créer une société ayant pour mission l'achèvement de la liaison fluviale à grand gabarit Rhin-Rhône. Il devrait ainsi être possible de faire franchir une nouvelle étape à ce projet dont les études ont été reprises et approfondies afin de tirer profit des connaissances récentes en matière d'écologie. La prise en compte de la liaison Rhin-Rhône n'obérera naturellement en rien l'effort envisagé par ailleurs pour l'ensemble des voies navigables grâce à la création du fonds d'investissement des transports terrestres prévue par l'article 15 du projet de loi d'orientation pour l'aménagement et le développement du territoire. Pour ce qui concerne le projet Seine-Nord, un débat s'est récemment déroulé, conduit par le préfet de la région Picardie, préfet coordinateur, dans le cadre de la première phase de la nouvelle procédure préalable à la déclaration d'utilité publique, conformément à la circulaire du 15 décembre 1992 relative à la conduite des grands projets nationaux d'infrastructure. La décision concernant la poursuite des études sera prise par le Gouvernement sur la base du projet de cahier des charges transmis par le préfet.
