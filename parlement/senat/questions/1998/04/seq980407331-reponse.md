@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980407331
+
+- Question : [SEQ980407331](seq980407331.md) — Droit des femmes
+
+## Réponse
+
+*Droits des femmes, JO du 1999-04-01, page 1066*
+
+Réponse. - Les centres d'information sur les droits des femmes (CIDF), associations relevant de la loi du 1er juillet 1901, sont destinés à assurer l'accès des femmes à l'information sur leurs droits dans les domaines juridique, professionnel, économique, social et familial. Les CIDF peuvent percevoir de l'Etat une subvention de fonctionnement dans le cadre de conventions passées avec le préfet de la région. L'arrêté du 14 février 1997 relatif à l'habilitation des CIDF et portant création du Conseil national d'agrément en fixe les conditions. En application de ces dispositions, les CIDF doivent adhérer à une charte déontologique et répondre à des critères d'activité précis. Le Conseil national d'agrément (CNA) est chargé de veiller au respect des principes de la Charte et formule un avis sur les demandes d'habilitation de CIDF. Un arrêté du ministre fixe la liste des CIDF habilités par le CNA pour une période de trois ans. Certains CIDF ont choisi de constituer des unions régionales dont le financement est, dans la plupart des cas, assuré par leurs cotisations volontaires. Les unions régionales n'étant pas habilitées par l'arrêté du 14 février 1997 précité, elles ne sauraient, d'un point de vue juridique, percevoir une subvention de l'Etat dans ce cadre ni, conformément à l'article 15 du décret loi du 2 mai 1938, être bénéficiaires des subventions destinées aux CIDF. Les CIDF demeurent en tout état de cause des partenaires privilégiés, notamment des déléguées régionales et des chargées de mission départementales aux droits des femmes. Le Gouvernement entend non seulement soutenir mais également optimiser l'action du réseaux des CIDF afin d'assurer au public concerné la meilleure qualité d'écoute et d'information possible.
