@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920219975
+
+- Question : [SEQ920219975](seq920219975.md) — Age minimum pour l'accueil d'enfants en maternelle
+
+## Réponse
+
+*Éducation, JO du 1992-03-31, page 786*
+
+Réponse. - L'article 2 du décret n° 90-788 du 6 septembre 1990 dispose que " les enfants qui ont atteint l'âge de deux ans au jour de la rentrée scolaire peuvent être admis dans les écoles et les classes maternelles ". Cette disposition exclut la possibilité de scolariser des enfants qui n'auraient pas deux ans révolus à la date de la rentrée scolaire. En effet, si l'accueil de très jeunes enfants en école maternelle constitue pour de nombreux parents un mode de garde, son objectif principal est à caractère pédagogique. Il s'agit, notamment, par une scolarisation précoce, de pallier les handicaps culturels que subissent les enfants de milieux déshérités. C'est pourquoi l'accueil à deux ans s'effectue en priorité dans les zones défavorisées. Il est apparu toutefois que l'accueil en cours d'année scolaire d'enfants ayant à peine atteint l'âge de deux ans ne constituait pas un facteur favorable à la réalisation de cet objectif. En effet, l'adaptation de très jeunes enfants au milieu scolaire, en cours d'année, est particulièrement difficile et peut perturber le fonctionnement de la classe. Sur un plan plus général, le ministre d'Etat, ministre de l'éducation nationale, souligne que l'effort de son département ministériel en matière d'accueil de jeunes enfants est considérable. Ainsi, l'année scolaire 1991-1991, le taux de scolarisation des enfants de deux ans est de 34,6 p. 100 et celui des enfants de trois ans est de 99,5 p. 100. Cet effort lui paraît devoir être partagé avec les partenaires responsables des autres modalités d'accueil que sont les crèches, les gardes à domicile, les haltes-garderies. C'est pourquoi il a signé un protocole dans ce sens avec les partenaires ministériels concernés.
