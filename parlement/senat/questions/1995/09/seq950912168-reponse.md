@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950912168
+
+- Question : [SEQ950912168](seq950912168.md) — Conditions d'attribution des marchés publics
+
+## Réponse
+
+*Finances, JO du 1996-02-15, page 340*
+
+Réponse. - Le Gouvernement a confié à M. Alfred Trassy-Paillogues, député de Seine-Maritime, une mission de réflexion sur l'évolution du droit de la commande publique. Afin de donner aux réflexions déjà engagées une traduction aussi concrète que possible, ces travaux s'appuient sur une large concertation qui associe l'ensemble des partenaires de la commande publique - acheteurs publics et entreprises -, et visent à mettre en oeuvre des règles simples et réalistes, dans le respect des principes de transparence et d'efficacité de la commande publique. Il en résultera une simplification très importante pour l'entreprise qui constitue son dossier de réponse à un appel d'offres ainsi que pour la collectivité publique, qui assure l'organisation de la consultation et de dépouillement des réponses. Dans son rapport d'études remis le 30 octobre 1995 au Premier ministre, M. Alfred Trassy-Paillogues a présenté les grands axes de la réforme envisagée, et en a précisé le calendrier : le texte de loi nécessaire devrait être établi pour le printemps 1996. Concernant plus particulièrement l'analyse des offres des entreprises, un groupe de travail devra élaborer, puis valider après expérimentation, un guide permettant aux maîtres d'ouvrage d'éliminer les offres anormalement basses et de privilégier celles qui apparaissent les plus pertinentes économiquement. Les travaux en cours permettront également de poursuivre l'effort de réduction des délais de paiement. Enfin, il a d'ores et déjà été décidé de généraliser, à compter du 1er janvier 1996, la possibilité pour les entreprises d'obtenir du trésorier payeur général, au vu des différents certificats de régularité fiscale et sociale, un " état annuel des certificats reçus ".
