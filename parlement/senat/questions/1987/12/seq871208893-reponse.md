@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871208893
+
+- Question : [SEQ871208893](seq871208893.md) — Remise en fonctionnement de Superphénix
+
+## Réponse
+
+*Industrie, JO du 1988-02-11, page 204*
+
+Réponse. -La construction de la centrale de Creys-Malville a été décidé afin de permettre l'étude du fonctionnement des surgénérateurs sur un prototype de taille industrielle. L'exploitation de cette centrale, dont le coût de l'énergie électrique fournie est très sensiblement supérieur à celui de l'énergie fournie par un réacteur à eau légère, ne peut se justifier que par l'intérêt d'améliorer les connaissances techniques sur ce type de réacteurs. La sûreté des installations constitue un préalable incontournable au développement de cette filière, comme pour toutes les installations nucléaires. Dans ce cadre, à la suite de l'incident qui a affecté en mars 1987 le barillet de stockage, le ministre de l'industrie, des P&T et du tourisme a demandé avant d'autoriser la remise en service de l'installation que soient satisfaites un certain nombre d'exigences concernant les procédures d'exploitation sans barillet. Ces demandes concernent essentiellement la mise en place de consignes et de dispositions pratiques très détaillées, relatives en particulier au déchargement du combustible sans barillet dans le cas très improbable où celui-ci pourrait être nécessaire. L'avenir des surgénérateurs dépendra très largement de leur compétitivité face aux autres sources d'énergie et sera notamment lié à l'évolution des prix des matières énergétiques. Les perspectives actuelles concernant en particulier le prix de l'uranium ne permettent pas d'envisager à court terme le développement de cette filière. Dans ces conditions, les délais nécessaires avant le redémarrage de la centrale de Creys-Malville ne devraient pas avoir de conséquences sur la préparation des programmes d'équipement futurs.
