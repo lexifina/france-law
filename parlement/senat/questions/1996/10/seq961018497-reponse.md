@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961018497
+
+- Question : [SEQ961018497](seq961018497.md) — Insuffisance des crédits destinés aux stages d'insertion et de formation à l'emploi (SIFE) collectifs à la Réunion
+
+## Réponse
+
+*Travail, JO du 1997-04-24, page 1321*
+
+Réponse. - L'honorable parlementaire attire l'attention du ministre du travail et des affaires sociales sur l'insuffisance des crédits SIFE collectifs accordés à la Réunion eu égard au nombre de ses demandeurs d'emploi de longue durée. Compte tenu d'une situation de l'emploi particulièrement dégradée, la Réunion a fait l'objet d'un traitement spécifique dans l'attribution des SIFE collectifs pour 1997. S'il n'a pas été possible d'augmenter l'enveloppe des SIFE, la Réunion, avec une première dotation de 2 266 SIFE collectifs, n'a subi en 1997 qu'une baisse de 19,7 % par rapport à 1996, inférieure de plus de 18 points à la baisse nationale de 37,5 %. La baisse des crédits SIFE collectifs s'inscrit dans un souci de meilleure utilisation des moyens de la politique de l'emploi. L'aggravation du chômage de longue durée nécessite en effet qu'un effort soit consenti au profit des publics de demandeurs d'emploi les plus en difficulté. C'est pourquoi, en accord avec les recommandations de la commission d'enquête parlementaire sur les aides à l'emploi, la loi de finances pour 1997, dans son article 137, a modifié l'article L. 322-4-1 du code du travail, en insérant une disposition réservant expressément le bénéfice des SIFE collectifs aux demandeurs d'emploi de longue durée, ainsi qu'aux bénéficiaires de l'allocation de solidarité spécifique, du revenu minimum d'insertion et aux travailleurs handicapés. Enfin, la dotation de la Réunion est la plus importante au sein des DOM qui ont, globalement, subi une réduction du programme inférieure à celle de la métropole.
