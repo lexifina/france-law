@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930802379
+
+- Question : [SEQ930802379](seq930802379.md) — Appréciation des pourvois en cassation par une commission de magistrats
+
+## Réponse
+
+*Justice, JO du 1993-10-14, page 1908*
+
+Réponse. - L'honorable parlementaire a bien voulu appeler l'attention du garde des sceaux sur la situation de la Cour de cassation à laquelle 25 825 affaires ont été adressées en 1992, soit une augmentation de 59 p. 100 depuis 1982, la durée moyenne des procédures étant actuellement de dix-sept mois. Il lui demande plus particulièrement quelles sont les perspectives et les échéances de l'élaboration d'un projet de loi relatif à la création d'une commission chargée d'apprécier les pourvois. Il convient de souligner, d'une part, que depuis l'année 1989 une certaine stabilisation du nombre des pourvois enregistrés a été constatée et d'autre part, que si la durée moyenne des procédures s'élève, comme en 1991, à dix-sept mois, de nombreux dossiers sont traités dans un délai beaucoup plus bref, certains l'étant en trois mois. S'agissant d'un projet permettant une meilleure sélection des pourvois, une expérience, s'appuyant sur l'article L. 131-1, paragraphe 2 du Code de l'organisation judiciaire, est menée, depuis mars 1991, à la demande et sous le contrôle des chefs de la Cour de cassation. Celle-ci repose sur un tri rigoureux des pourvois par une formation restreinte chargée de les sélectionner et de traiter de façon rapide les dossiers les plus simples. Une réflexion sur les textes est menée parallèlement dans le but d'étendre cette expérience aux autres chambres civiles, sociale et commerciale. Sans constituer une renaissance de la chambre des requêtes, cette action devrait permettre la mise en oeuvre de l'idée fondamentale selon laquelle le pourvoi en cassation est une voie de recours extraordinaire et qu'il appartient à la Cour de cassation de se prémunir contre l'afflux des pourvois dilatoires.
