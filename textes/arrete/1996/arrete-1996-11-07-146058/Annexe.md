@@ -1,6 +1,6 @@
 # Article Annexe
 
-A N N E X E
+ANNEXE
 
 COMITE TECHNIQUE PARITAIRE |
 
@@ -381,48 +381,6 @@ C.H.S. locaux :
 |
 
 |
-
-|
-
-|
-
-Guadeloupe
-
-|
-
-3
-
-|
-
-5
-
-|
-
-|
-
-Guyane
-
-|
-
-3
-
-|
-
-5
-
-|
-
-|
-
-Martinique
-
-|
-
-3
-
-|
-
-5
 
 |
 
