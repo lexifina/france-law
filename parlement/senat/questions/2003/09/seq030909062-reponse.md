@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030909062
+
+- Question : [SEQ030909062](seq030909062.md) — Obligations de sécurité incendie pour les maires de communes rurales
+
+## Réponse
+
+*Intérieur, JO du 2004-03-18, page 657*
+
+Consciente des nombreuses interrogations que la défense extérieure des communes contre l'incendie suscite, et particulièrement celle des communes rurales, la direction de la défense et de la sécurité civiles, service du ministère de l'intérieur, de la sécurité intérieure et des libertés locales, étudie des dispositions techniques et juridiques permettant de clarifier l'ensemble des aspects de ce domaine. La défense contre l'incendie de chaque commune, placée sous l'autorité du maire au titre de ses pouvoirs de police administrative, doit être proportionnée aux risques à défendre. A cet effet, les solutions techniques adaptées doivent être trouvées au niveau local en partenariat avec les sapeurs-pompiers. Quant à l'imputation du coût de tels équipements sur les budgets communaux, le ministère de l'intérieur, de la sécurité intérieure et des libertés locales n'entend pas actuellement modifier les règles de leur financement. Pour le cas de projet de nouvelles constructions, il convient de rappeler les dispositions de l'article R. 111-13 du code de l'urbanisme. Celles-ci permettent, sous certaines conditions, de faire supporter au dépositaire d'un permis de construire tout ou partie des dépenses consacrées à de nouveaux aménagements de défense incendie rendus nécessaires par l'implantation de la future construction. L'article susvisé précise : " Le permis de construire peut être refusé ou n'être accordé que sous réserve de l'observation de prescriptions spéciales si les constructions, par leur situation ou leur importance imposent soit la réalisation par la commune d'équipements publics nouveaux hors de proportion avec ses ressources actuelles, soit un surcroît important des dépenses de fonctionnement des services publics ".
