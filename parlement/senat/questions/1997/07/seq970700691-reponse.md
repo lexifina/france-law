@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970700691
+
+- Question : [SEQ970700691](seq970700691.md) — Examen de santé offert aux assurés sociaux
+
+## Réponse
+
+*Emploi, JO du 1997-10-09, page 2722*
+
+Réponse. - Depuis 1992, le contenu des bilans de santé effectués dans les centres d'examens de santé s'appuie sur un guide de " recommandations pour les examens de santé " élaboré par le service médical de la Caisse nationale de l'assurance maladie des travailleurs salariés. Ce référentiel, qui a été approuvé par le Haut comité médical de la sécurité sociale et le Haut comité de santé publique, permet d'adapter les examens en fonction de l'âge et du sexe de l'assuré. Le bilan de santé comprend généralement des examens biologiques, un examen bucco-dentaire, un contrôle de la vue, de l'audition et du souffle ainsi qu'un entretien clinique avec un médecin. Un questionnaire de santé permet d'identifier les facteurs de risques et d'adapter à l'assuré les examens nécessaires. En 1996, les crédits destinés aux allocations budgétaires aux centres d'examens de santé s'élevaient à 766 MF. Ils ont été fixés à 790,69 MF pour 1997. Le nombre d'assurés ayant fait l'objet d'un examen de santé est de 650 000 environ. L'arrêté du 20 juillet 1992 a identifié des publics prioritaires (jeunes, chômeurs, RMistes) vers lesquels les centres d'examens de santé ont été invités à réorienter leur activité : en effet, les bilans effectués permettent à cette population fragilisée de se réinsérer par une démarche de prévention dans le système de soins. La convention d'objectifs et de gestion signée entre l'Etat et la CNAMTS renforce ce recentrage et prévoit qu'afin de concourir au renforcement de la cohésion sociale, les centres d'examens de santé poursuivront leur politique d'offre de médecine préventive en faveur des populations en situation de précarité.
