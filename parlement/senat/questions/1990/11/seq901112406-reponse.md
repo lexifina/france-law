@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901112406
+
+- Question : [SEQ901112406](seq901112406.md) — Transmission des exploitations agricoles et droits d'enregistrement
+
+## Réponse
+
+*Économie, JO du 1991-01-31, page 198*
+
+Réponse. - La première mesure évoquée par l'honorable parlementaire aurait pour effet d'étendre l'exonération partielle prévue en faveur des biens ruraux loués par bail à long terme à l'ensemble des immeubles affectés à l'exercice d'une activité agricole. Or, le régime fiscal privilégié des biens ruraux loués par bail à long terme se justifie par les contraintes juridiques imposées aux bailleurs, qui assurent la sécurité et la stabilité du preneur en le garantissant contre toute reprise du propriétaire pendant une période de dix-huit ans. Il n'est donc pas envisagé d'étendre ce dispositif aux transmissions de biens libres de toute occupation. Cela étant, les dispositions actuellement en vigueur et, notamment, les avantages liés à la donation-partage, aux donations avec réserve d'usufruit, à la prise en charge des droits par le donateur et au paiement différé et fractionné afférent à la transmission des entreprises agricoles permettent, d'ores et déjà, de résoudre les difficultés évoquées par l'honorable parlementaire. La seconde proposition consisterait à réduire à 4,80 p. 100 tous les taux actuellement pratiqués sur les mutations à titre onéreux de biens ruraux. Or, la taxe exigible sur les mutations à titre onéreux des immeubles ruraux est depuis 1984 transférée aux départements. Ses tarifs sont désormais fixés annuellement par les conseils généraux qui peuvent les réduire jusqu'à 1 p. 100 en fonction de la politique foncière qu'ils entendent mener. Le Gouvernement n'envisage pas de proposer au Parlement une mesure qui serait contraire aux principes de la décentralisation et empiéterait sur la liberté accordée aux conseils généraux.
