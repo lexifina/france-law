@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930702033
+
+- Question : [SEQ930702033](seq930702033.md) — Versement des premiers acomptes des aides compensatoires
+
+## Réponse
+
+*Agriculture, JO du 1993-10-28, page 2016*
+
+Réponse. - La mise en oeuvre du dispositif des aides compensatoires liées à la réforme de la politique agricole commune va entraîner des modifications très importantes dans le calendrier de perception des revenus des agriculteurs. C'est ainsi que l'aide compensatoire liée à la baisse des prix des céréales et des oléagineux doit être versée, conformément à la réglementation communautaire, entre le 16 octobre et le 31 décembre alors que le revenu correspondant était, avant la mise en oeuvre de cette réforme, disponible à la livraison. La réglementation communautaire interdit d'anticiper la date de versement des aides et notamment de verser une avance, puisque ce serait une aide indirecte complémentaire considérée comme un élément de distorsion de concurrence entre agriculteurs européens. Le Gouvernement a par contre mis en oeuvre les moyens nécessaires pour que ces aides compensatoires soient versées aux agriculteurs au cours de la seconde quinzaine d'octobre. La profession a souhaité cependant qu'un système complémentaire soit élaboré, pour apporter dès le mois d'août une aide de trésorerie aux agriculteurs, en anticipation des versements des aides compensatoires. Ce système, se présentant sous forme de prêts de trésorerie, est géré par le réseau bancaire et les organismes collecteurs. L'Etat apportera sa contribution à ce dispositif, puisqu'il prendra en charge, à concurrence de 100 millions de francs, les charges d'intérêt de ces prêts, de telle sorte qu'ils seront à taux nuls pour les agriculteurs. En outre, des avances ont été versées aux producteurs d'oléagineux au cours du premier trimestre 1993 (pour le colza d'hiver) et au mois de juillet et d'août (pour les autres oléagineux).
