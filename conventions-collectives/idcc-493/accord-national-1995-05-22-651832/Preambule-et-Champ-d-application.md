@@ -1,4 +1,6 @@
-# Article Préambule et Champ d'application
+# Article KALIARTI000005785578
+
+Champ d'application
 
 L'accord du 14 février 1985 sur les objectifs et les moyens de la formation professionnelle continue a marqué la volonté des partenaires sociaux de la profession de développer la formation professionnelle.
 
@@ -28,15 +30,13 @@ Les accords collectifs d'adhésion sont énumérés en annexe du présent accord
 
 3. Pour l'application du présent accord, une entreprise est dite relever d'un O.P.C.A. lorsqu'elle appartient à une branche d'activité (5) ayant adhéré à cet O.P.C.A. conformément aux dispositions du point 2 ci-dessus ; à défaut et pour chacun de ses établissements, elle relève obligatoirement des OPCAREG des régions où elle est implantée dans les conditions précisées ci-dessus.
 
-(1) Pour l'application de la présente annexe, les parties signataires conviennent qu'il faut entendre par branche d'activité l'ensemble des entreprises exerçant la même activité économique (entreprises ayant en principe le même code A.P.E.) et entrant dans le champ d'application de la convention collective nationale. (2) Sans préjudice du respect de toutes les autres dispositions de la présente annexe, le rattachement à un O.P.C.A. réalisé selon d'autres modalités que celles prévues à la section 1 n'est cependant pas remis en cause s'il est intervenu par accord collectif dans les conditions de délai et de dépôt prévues à l'avant-dernier paragraphe de la section 5 du présent accord. (3) Ces accords sont conclus entre les organisations syndicales de salariés représentatives et le Conseil national des vins et spiritueux ou, le cas échéant, par l'organisation patronale régionale à la condition qu'elle soit représentative d'une branche d'activité entrant dans le champ d'application défini à l'article 2 de la convention collective nationale. (4) Le cas échéant, les organisations patronales régionales signataires devront adresser copie de ces accords au Conseil national des vins et spiritueux dans les quinze jours suivant leur signature. (5) Pour l'application de la présente annexe, les parties signataires conviennent qu'il faut entendre par branche d'activité l'ensemble des entreprises exerçant la même activité économique (entreprise ayant en principe le même code A.P.E.) et entrant dans le champ d'application de la convention collective nationale.
-
 NOTA :
 
 (1) Pour l'application de la présente annexe, les parties signataires conviennent qu'il faut entendre par branche d'activité l'ensemble des entreprises exerçant la même activité économique (entreprises ayant en principe le même code A.P.E.) et entrant dans le champ d'application de la convention collective nationale.
 
 (2) Sans préjudice du respect de toutes les autres dispositions de la présente annexe, le rattachement à un O.P.C.A. réalisé selon d'autres modalités que celles prévues à la section 1 n'est cependant pas remis en cause s'il est intervenu par accord collectif dans les conditions de délai et de dépôt prévues à l'avant-dernier paragraphe de la section 5 du présent accord.
 
-(3) Ces accords sont conclus entre les organisations syndicales de salariés représentatives et le Conseil national des vins et spiritueux ou, le cas échéant, par l'organisation patronale régionale à la condition qu'elle soit représentative d'une branche d'activité entrant dans le champ d'application défini à l'article 2 de la convention collective nationale.
+(3) Ces accords sont conclus entre les organisations syndicales de salariés représentatives et le Conseil national des vins et spiritueux ou, le cas échéant, par le conseil national des vins et spiritueux et l'organisation patronale régionale à la condition qu'elle soit représentative d'une branche d'activité entrant dans le champ d'application défini à l'article 2 de la convention collective nationale.
 
 (4) Le cas échéant, les organisations patronales régionales signataires devront adresser copie de ces accords au Conseil national des vins et spiritueux dans les quinze jours suivant leur signature.
 
