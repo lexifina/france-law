@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870907574
+
+- Question : [SEQ870907574](seq870907574.md) — Allégement des bases de la taxe professionnelle : compensation
+
+## Réponse
+
+*Intérieur, JO du 1988-01-28, page 123*
+
+Réponse. -La loi de finances pour 1987 comporte diverses mesures d'allégement de taxe professionnelles. Dès 1987, il a été appliqué un abattement de 16 p. 100 aux bases d'imposition de la taxe professionnelle. A compter de 1988, ne sera retenu, l'année de leur constatation, que la moitié des augmentations de bases de taxe professionnelle. En ce qui concerne plus particulièrement l'abattement de 16 p. 100, les collectivités locales bénéficient d'une compensation calculée par application du taux voté en 1986 à la perte de bases résultant de cette mesure, constatée en 1987. En effet, l'abattement de 16 p. 100 doit être compris comme une nouvelle règle de détermination de l'assiette de la taxe professionnelle. La compensation des pertes de base en 1987 est intégrale, dans la mesure où il a été tenu compte des diminutions de bases effectivement constatées au titre de cette année pour chaque collectivité. Il n'est en revanche pas possible de tenir compte des pertes debases de taxe professionnelle, qui ne sont qu'hypothétiques. Par ailleurs, le Gouvernement a retenu pour le calcul de la compensation la partie des bases de taxe professionnelle exonérée par les collectivités au titre de l'article 1465 (exonération accordée dans le cadre de l'aménagement du territoire) ou de l'article 1464 B (exonération des entreprises nouvelles) du code général des impôts. Cette mesure est favorable aux collectivités locales. Enfin, il convient de remarquer que la compensation versée à chaque collectivité est évolutive, car indexée sur l'évolution des recettes fiscales nettes de l'Etat, ce qui n'est pas le cas de celles versées depuis 1983 aux collectivités en application des dispositions de la loi n° 82-540 du 28 juin 1982.
