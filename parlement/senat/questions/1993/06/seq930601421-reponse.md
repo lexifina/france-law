@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930601421
+
+- Question : [SEQ930601421](seq930601421.md) — Commande par la Grèce d'avions chasseurs américains
+
+## Réponse
+
+*Affaires étrangères, JO du 1993-09-16, page 1628*
+
+Réponse. - L'honorable parlementaire soulève la question du respect par les pays membres de la Communauté européenne d'une priorité européenne dans les achats d'armements. Pour ce qui la concerne, la France s'efforce de respecter cette priorité chaque fois que cela est possible compte tenu des exigences techniques et financières des marchés qu'elle passe. Elle veille par ailleurs au développement de la coopération européenne dans le domaine des armements, notamment par l'élaboration de programmes d'équipements communs et le renforcement de structures de concertation appropriées. Ainsi a-t-elle contribué à ce qu'une agence des armements puisse être établie auprès de l'UEO, cette organisation étant appelée, selon les termes de la déclaration sur le rôle de l'UEO adoptée fin 1991 à l'occasion de la signature du traité de Maastricht, à jouer un rôle croissant dans la mise en oeuvre de certains aspects de la politique étrangère et de sécurité commune. Il faut toutefois noter qu'il n'existe pas au niveau de la Communauté de prescriptions concernant les achats d'armements, qui ne sont pas visés par le traité de Rome (cf. art. 223), non modifié sur ce point par le traité de Maastricht. Malgré l'absence d'obligations juridiques, la France s'attache à faire prévaloir, chaque fois que le cas se présente, l'intérêt qu'il y a pour tous les pays de la Communauté à recourir à un équipement européen lorsque les conditions appropriées sont réunies. Le ministère des affaires étrangères rappelle à cette occasion à l'honorable parlementaire que la Grèce a notamment acheté quarante Mirage 2000 et qu'une négociation conduite ces dernières années à abouti en 1992 à la commande par ce pays d'équipements français de contre-mesures électroniques.
