@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991220938
+
+- Question : [SEQ991220938](seq991220938.md) — Equipements solaires pour enfants : fabrication et vente de lunettes solaires en plastique coloré interdite
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2000-06-08, page 2094*
+
+Réponse. - Pour que les lunettes solaires, quelle que soit leur taille, soient des équipements de protection individuelle destinés à la protection des yeux, elles doivent obéir à certaines caractéristiques, notamment en ce qui concerne leur pouvoir filtrant qui doit être précisé sur chaque produit. En revanche, les imitations de lunettes solaires conçues et destinées par les fabricants aux jeux des enfants sont considérées comme des jouets et les consommateurs doivent être clairement informés que ces imitations ne protègent pas des rayonnements solaires, par exemple par l'apposition d'un marquage " Attention ! Ne protège pas contre les rayonnements ultra-violets ". Les services de la direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) opèrent des contrôles périodiques sur la sécurité des lunettes solaires, y compris celles destinées aux enfants. Lors de ces contrôles, les enquêteurs déterminent la conformité des lunettes de petites tailles à la réglementation que le professionnel applique, jouets ou équipements de protection individuelle. En particulier, la publicité et la présentation des jouets ne doivent pas laisser penser qu'il s'agit d'équipements de protection individuelle. En ce sens, des marquages tels que " UV protection " apposés sur des imitations sont proscrits. Les infractions relevées aboutissent à des mises en conformité ou à des saisies et à l'établissement de procès-verbaux de tromperie et de publicité mensongère. A ce jour, aucun accident consécutif à des lunettes-jouets en plastique coloré, utilisées à tort comme lunettes solaires, n'a été porté à la connaissance de la DGCCRF.
