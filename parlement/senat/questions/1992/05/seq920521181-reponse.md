@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920521181
+
+- Question : [SEQ920521181](seq920521181.md) — Application de la retenue de la contribution sociale généralisée aux retraités de la fonction publique
+
+## Réponse
+
+*Premier ministre, JO du 1992-11-12, page 2521*
+
+Réponse. - La contribution sociale généralisée est un prélèvement affecté au financement des prestations familiales, qui constitue l'un des éléments de la politique nationale de solidarité à laquelle le législateur a entendu que participent l'ensemble des titulaires de revenus, quelle que soit la nature de ces revenus. La légitimité de la contribution des retraités, qui concerne l'ensemble des retraités et pas seulement ceux de la fonction publique, doit s'apprécier en considérant l'ensemble des charges qui pèsent au titre de la protection sociale sur chaque type de revenu. A cet égard, la contribution des retraités reste largement inférieure à celle des actifs. En apportant leur part à son financement, les retraités contribuent à assurer la pérennité de notre système de sécurité sociale rendu ainsi plus équitable, pérennité dont ils seront bénéficiaires avec tous les Français. Il faut souligner, en outre, que le législateur a prévu des dispositions spécifiques afin que les retraités les plus modestes ne soient pas redevables de la CSG : ainsi, ceux qui ne sont pas imposables, soit environ 45 p. 100 d'entre eux, en sont exonérés. Enfin, il est rappelé, qu'a été supprimé simultanément le prélèvement exceptionnel de 0,4 p. 100 sur les revenus imposables, ce dont bénéficient également les retraités assujettis à la CSG. La proposition consistant à annuler les effets de la contribution sociale généralisée au profit des retraités de la fonction publique s'opposerait directement à l'objet même et au caractère général de cette contribution.
