@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970700568
+
+- Question : [SEQ970700568](seq970700568.md) — Organisation du cycle central des collèges
+
+## Réponse
+
+*Enseignement scolaire, JO du 1997-10-09, page 2725*
+
+Réponse. - Le collège, qui accueille en sixième l'ensemble des élèves issus de l'école élémentaire, leur dispense une formation commune dont les objectifs et les contenus sont définis par des programmes d'nseignement nationaux s'imposant à tous. Les établissements disposent d'une souplesse d'au moins deux heures trente par classe qui se substituent aux trois heures " libres " de la grille horaire de 1985. Ces deux heures trente doivent permettre des démarches différentes prenant appui sur les centres d'intérêt des élèves pour leur permettre d'acquérir les éléments fondamentaux nécessaires à toute formation ultérieure. L'utilisation de la dotation horaire traduit le projet pédagogique de l'établissement soumis au conseil d'administration de l'établissement qui en décide. S'agissant de l'enseignement de l'éducation civique, cette discipline bénéficie en sixième d'une démarche qui implique non seulement les enseignants d'histoire et de géographie mais aussi ceux des autres disciplines ainsi que tous les membres de l'équipe éducative. Cet enseignement s'appuie désormais sur le nouveau programme, appliqué depuis la rentrée 1996, qui précise la contribution des différentes disciplines, et sur les expériences de nombreux collèges qui, dans leur projet d'établissement, considèrent cet enseignement comme une préoccupation commune à toute l'équipe éducative. L'éducation civique, l'éducation à la citoyenneté et aux valeurs républicaines sont une priorité absolue du ministère de l'éducation nationale, de la recherche et de la technologie. Cet enseignement va encore être renforcé et des mesures en ce sens seront prochainement publiées.
