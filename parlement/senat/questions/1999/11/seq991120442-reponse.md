@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991120442
+
+- Question : [SEQ991120442](seq991120442.md) — Formation des personnels de direction
+
+## Réponse
+
+*Éducation, JO du 2000-01-13, page 122*
+
+Réponse. - L'arrêté du 15 juillet 1999 et la note de service nº 99-117 du 5 août 1999 fixent de nouvelles modalités de formation initiale des personnels de direction d'établissements d'enseignement ou de formation. La formation statutaire des personnels de direction est maintenue dans sa durée sur deux années. L'aspect nouveau de cette formation initiale consiste en l'affectation des lauréats du concours sur poste d'adjoint, dès la rentrée scolaire qui suit leur succès. L'intérêt pour les lauréats est double, d'une part, cette procédure leur garantit une affectation sur le même poste durant trois années scolaires au moins, alors qu'auparavant l'affectation se déroulait après une formation sans champ de responsabilité de six mois, d'autre part, la qualité et l'impact de la formation y trouvent leur compte. Les stagiaires qui auront eu l'occasion d'affronter des problèmes professionnels seront plus réceptifs et plus acteurs de la formation proposée. Le nombre effectif de journées de regroupement, hors du contexte professionnel direct, n'est pas moindre qu'auparavant. Il est seulement réparti sur deux ans et non plus bloqué sur six mois avant la prise de fonction. Enfin, la mise en uvre des nouvelles modalités de la formation des personnels de direction s'accompagne d'un effort très intense pour la formation des tuteurs, l'animation de leur réseau et pour celle des chefs d'établissement d'accueil des stagiaires. La formation initiale et continue des personnels de direction est l'un des thèmes de travail retenu pour la concertation engagée avec les représentants des personnels de direction à la suite du rapport de M. le recteur Blanchet.
