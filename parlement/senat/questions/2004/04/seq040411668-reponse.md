@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040411668
+
+- Question : [SEQ040411668](seq040411668.md) — Projet d'incinération des cimenteries Lafarge sur la commune de Contes (Alpes-Maritimes)
+
+## Réponse
+
+*Écologie, JO du 2004-08-12, page 1848*
+
+Le ministre de l'écologie et du développement durable a pris connaissance, avec intérêt, de la question relative au projet de co-incinération et de valorisation en matière de déchets de la cimenterie Lafarge implantée à Contes. Pour ce projet, la société Lafarge a déposé auprès du préfet le 16 octobre 2003 un dossier de demande d'autorisation établi dans les formes prévues par la réglementation relative aux installations classées, qui est en cours d'instruction. Un premier arrêté préfectoral d'autorisation de co-incinérer des déchets, daté du 18 décembre 1998, avait été annulé par le tribunal administratif de Nice le 4 juillet 2002. Dans l'intervalle, un arrêté préfectoral temporaire a été pris le 11 février 2003 concernant le traitement par la société Lafarge de boues provenant des stations d'épuration des parfumeurs de Grasse. L'enquête publique relative au nouveau dossier s'est déroulée du 18 mars au 18 avril 2004 et le commissaire enquêteur a transmis au préfet son rapport et ses conclusions. Le conseil départemental d'hygiène sera saisi par le préfet et fera connaître son avis sur le projet. C'est à l'issue de la procédure réglementaire et au vu de tous les avis qui lui auront été communiqués que le préfet, compétent sur ce dossier, sera amené à se prononcer. En tout état de cause, si l'activité était autorisée, elle devrait respecter les dispositions de l'arrêté ministériel du 20 septembre 2002 relatif aux installations d'incinération et de co-incinération de déchets dangereux, qui transpose en droit français la directive européenne du 4 décembre 2000.
