@@ -4,56 +4,600 @@ La présente convention collective régit, sur l'ensemble du territoire métropo
 
 Elle ne s'applique pas, dans les zones de la forêt de Gascogne, aux entreprises dont l'activité principale est consacrée au travail du pin maritime et qui relèvent de la convention particulière à la forêt de Gascogne.
 
-A N N E X E I
+ANNEXE I modifiée
 
-20.1 A Sciage et rabotage du bois.
+CODE |
 
-51.5 E Importation du bois du Nord, de bois tropicaux et américains défini comme étant le commerce de gros de bois et dérivés dont l'activité principale d'approvisionnement résulte de l'achat à l'importation, ou sur les marchés internationaux, lesdites opérations étant supérieures à 50 % des achats totaux de bois et dérivés du bois.
+ACTIVITE |
 
-20.5 C Fabrication d'objets en liège, travail du liège : dalles, bouchons, agglomérés.
+|
 
-51.5 E Commerce de gros de liège et produits en liège.
+|
 
-51.4 S Commerce de gros d'ouvrages en liège.
+|
 
-52.4 J Commerce de détail de liège et d'ouvrages en liège.
+sciage et rabotage du |
 
-52.4 U Commerce de détail de revêtements de sols et de murs en liège.
+20.1.A |
 
-20.1 A Fabrication de parquets et lambris.
+bois |
 
-20.3 Z Fabrication de baguettes, moulures.
+|
 
-26.6 J Panneaux de fibragglos.
+Importation de bois |
 
-20.1 A Fabrication et imprégnation industrielle de traverses en bois pour voies ferrées et de poteaux de lignes, en bois.
+|
 
-Séchage et imprégnation industrielle de tous bois extérieurs et intérieurs.
+du Nord, de bois |
 
-20.1 B Imprégnation et traitement chimique à façon des charpentes et matériaux annexes dans la construction existante en vue de leur préservation.
+51.5.E |
 
-20.4 Z Fabrication d'emballages industriels en bois, conditionnement de biens d'équipement.
+tropicaux et américains |
 
-20.4 Z Fabrication d'emballages légers en bois : cageots, cagettes et emballages similaires en bois, y compris les boîtes à fromage.
+|
 
-20.4 Z Fabrication de palettes, caisses, palettes et plateaux de chargement de bois.
+définis comme étant |
 
-20.4 Z Fabrication de tourets.
+|
 
-20.5 A Fabrication d'objets divers en bois tels que notamment manches montures pour outils, échelles, cintres et autres formes en bois, bois multiplis, multiformes, portemanteaux et ustensiles ménages, coffrets, bobines et articles en bois tournés, articles d'ornement et marqueterie.
+le commerce de gros |
 
-20.1 A Fabrication de fibre de bois.
+|
 
-20.1 A Fabrication de farine de bois.
+de bois et dérivés dont |
 
-36.4 Z Fabrication d'articles de sport à l'exclusion notamment des balles et ballons, des filets montés pour la pratique du sport, des matériels et équipements pour les sports nautiques, des gants et coiffures en cuir, des patins à glace ou à roulettes, des protections sportives, des boules à jouer, du matériel de camping.
+|
 
-36.4 Z Fabrication d'articles de pêche (cannes et lignes pour la pêche de loisirs.
+l'activité principale |
 
-36.6 C Fabrication de brosserie de toilette et des pinceaux pour artistes, y compris les pinceaux de maquillage.
+|
 
-Fabrication de brosserie industrielle, des brosses et pinceaux à peindre.
+d'approvisionnement |
 
-Fabrication de brosserie de ménage.
+|
 
-Fabrication de brosse à habits et à chaussures.
+résulte de l'achat à |
+
+51.5.E |
+
+l'importation, ou sur |
+
+|
+
+les marchés |
+
+|
+
+internationaux, |
+
+|
+
+lesdites opérations |
+
+|
+
+étant supérieures à |
+
+|
+
+50 % des achats totaux |
+
+51.5.E |
+
+de bois et dérivés |
+
+|
+
+du bois |
+
+|
+
+Fabrication d'objets |
+
+|
+
+en liège, travail |
+
+20.5.C |
+
+du liège |
+
+dalles, |
+
+|
+
+bouchons, agglomérés |
+
+|
+
+Commerce de gros |
+
+51.5.E |
+
+de liège et produits |
+
+|
+
+en liège |
+
+51.4.S |
+
+Commerce de gros |
+
+|
+
+d'ouvrages en liège |
+
+|
+
+Commerce de détail |
+
+52.4.U |
+
+de revêtements de sols |
+
+|
+
+et de murs en liège |
+
+|
+
+Fabrication de parquets |
+
+20.1.A |
+
+et lambris |
+
+|
+
+Fabrication de |
+
+20.3.Z |
+
+baguettes, moulures |
+
+CODE |
+
+ACTIVITE |
+
+|
+
+|
+
+26.6.J |
+
+Panneaux de fibragglos |
+
+|
+
+Fabrication et |
+
+|
+
+imprégnation |
+
+|
+
+industrielle de |
+
+20.1.A |
+
+traverses en bois pour |
+
+|
+
+voies ferrées et de |
+
+|
+
+poteaux de lignes, |
+
+|
+
+en bois |
+
+|
+
+Séchage et imprégnation |
+
+|
+
+industrielle de tous |
+
+20.1.A |
+
+bois extérieurs et |
+
+|
+
+intérieurs |
+
+|
+
+Imprégnation et |
+
+|
+
+traitement chimique |
+
+|
+
+à façon des charpentes |
+
+20.1.B |
+
+et matériaux annexes |
+
+|
+
+dans la construction |
+
+|
+
+existante en vue |
+
+|
+
+de leur préservation |
+
+|
+
+Fabrication d'emballages |
+
+|
+
+industriels en bois, |
+
+20.4.Z |
+
+conditionnement de |
+
+|
+
+biens d'équipement |
+
+|
+
+Fabrication |
+
+|
+
+d'emballages |
+
+|
+
+légers en bois |
+
+|
+
+20.4.Z |
+
+cageots, cagettes et |
+
+|
+
+emballages similaires |
+
+|
+
+en bois, y compris les |
+
+|
+
+boîtes à fromage |
+
+|
+
+Fabrication de |
+
+|
+
+palettes, caisses |
+
+20.4.Z |
+
+palettes et plateaux de |
+
+|
+
+chargement de bois |
+
+|
+
+Fabrication de |
+
+20.4.Z |
+
+tourets |
+
+CODE |
+
+ACTIVITE |
+
+|
+
+|
+
+|
+
+Fabrication d'objets |
+
+|
+
+divers en bois tels |
+
+|
+
+que notamment manches |
+
+|
+
+et montures pour |
+
+20.5.A |
+
+outils, échelles, |
+
+|
+
+cintres et autres |
+
+|
+
+formes en bois |
+
+|
+
+(à l'exclusion des |
+
+|
+
+formes en bois |
+
+|
+
+destinées à l'industrie |
+
+|
+
+de la chaussure et des |
+
+20.5.A |
+
+articles chaussants), |
+
+|
+
+bois multiplis, |
+
+|
+
+multiformes, |
+
+|
+
+porte-manteaux et |
+
+|
+
+ustensiles ménagers, |
+
+|
+
+coffrets, bobines et |
+
+|
+
+articles en bois |
+
+|
+
+tournés, articles |
+
+|
+
+d'ornement et |
+
+20.5.A |
+
+marqueterie |
+
+|
+
+, tabletterie, et à |
+
+|
+
+l'exclusion de la |
+
+|
+
+fabrication de |
+
+|
+
+cercueils , la |
+
+|
+
+fabrication |
+
+|
+
+d'enveloppes en bois |
+
+|
+
+pour matériel |
+
+|
+
+électroacoustique |
+
+20.5.A |
+
+audiovisuel,hi-fi, |
+
+|
+
+machines à coudre, la |
+
+|
+
+fabrication de cages et |
+
+|
+
+cadres d'horlogerie, |
+
+|
+
+la fabrication de bois |
+
+|
+
+pour luminaires |
+
+|
+
+Fabrication de fibre |
+
+20.1.A |
+
+de bois |
+
+|
+
+Fabrication de farine |
+
+20.1.A |
+
+de bois |
+
+|
+
+Fabrication d'articles |
+
+|
+
+de sport à l'exclusion |
+
+|
+
+notamment des balles |
+
+|
+
+et ballons, des filets |
+
+36.4.Z |
+
+montés pour la pratique |
+
+|
+
+du sport, des matériels |
+
+|
+
+et équipements pour |
+
+|
+
+les sports nautiques, |
+
+|
+
+des gants et coiffures |
+
+|
+
+en cuir, des patins |
+
+|
+
+à glace ou à roulettes, |
+
+36.4.Z |
+
+des protections |
+
+|
+
+sportives, des boules |
+
+|
+
+à jouer, du matériel |
+
+|
+
+de camping |
+
+|
+
+Fabrication d'articles |
+
+|
+
+de pêche (cannes et |
+
+36.4.Z |
+
+lignes pour la pêche |
+
+|
+
+de loisirs |
+
+|
+
+Fabrication de |
+
+|
+
+brosserie de toilette |
+
+|
+
+et des pinceaux pour |
+
+|
+
+artistes, y compris les |
+
+36.6.C |
+
+pinceaux de maquillage. |
+
+|
+
+Fabrication de |
+
+|
+
+brosserie industrielle, |
+
+|
+
+des brosses et |
+
+|
+
+pinceaux à peindre. |
+
+36.6.C |
+
+Fabrication de |
+
+|
+
+brosserie de ménage. |
+
+|
+
+Fabrication de brosse à |
+
+|
+
+habits et à chaussures. |
