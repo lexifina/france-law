@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991019809
+
+- Question : [SEQ991019809](seq991019809.md) — Rénovation de l'assurance chômage
+
+## Réponse
+
+*Emploi, JO du 2000-05-18, page 1780*
+
+Réponse. - L'ouvrage du MEDEF Cartes sur tables. - Faire gagner la France comporte un chapitre intitulé " Rénover l'assurance chômage - Restaurer un nouveau partage ". Il s'agit de l'une des propositions du programme du MEDEF publié en avril 1999, soit un peu avant l'ouverture des négociations qui auraient dû avoir lieu en vue de conclure une nouvelle convention d'assurance chômage visant à se substituer à celle du 1er janvier 1997. Puis, au cours du second semestre 1999, le MEDEF a considéré qu'il lui appartenait, avec les autres partenaires sociaux, de jeter de nouvelles bases pour améliorer le fonctionnement du paritarisme, notamment dans les institutions gestionnaires des régimes sociaux. Il a donc préféré prolonger la durée de validité de la convention d'assurance chômage du 1er janvier 1997 jusqu'au 30 juin 2000, afin de renégocier globalement le régime d'assurance chômage. La réflexion du MEDEF sur ce que devrait être à l'avenir l'assurance chômage relève de sa seule responsabilité et il n'appartient pas au Gouvernement d'intervenir sur cette question qui relève de la compétence exclusive des partenaires sociaux très atachés à leur autonomie en ce domaine. Il convient néanmoins de savoir que l'élargissement de la couverture d'assurance chômage est une question qui à l'heure actuelle reste posée puisque la part des demandeurs d'emploi indemnisés par le régime d'assurance chômage s'élève à 40,9 % et que cette part enregistre une diminution constante depuis presque dix ans. Par ailleurs, parmi les demandeurs d'emploi de moins de 25 ans, 65,9 % d'entre eux ne sont pas indemnisés contre 21,9 % pour les plus de 50 ans.
