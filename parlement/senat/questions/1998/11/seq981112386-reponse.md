@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981112386
+
+- Question : [SEQ981112386](seq981112386.md) — DOM : Projet de loi d'orientation pour l'aménagement et le développement durable du territoire portant modification de la LOADT
+
+## Réponse
+
+*Aménagement du territoire, JO du 2000-07-13, page 2490*
+
+Réponse. - La ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question relative à la prise en compte des départements d'outre-mer dans la mise en uvre de la politique d'aménagement du territoire. La loi d'orientation pour l'aménagement et le développement durable du territoire (LOADDT) comprend un ensemble de dispositions qui s'appliquent aussi bien aux territoires français métropolitains qu'aux départements d'outre-mer. Il en est ainsi des schémas de services collectifs dont l'élaboration fait l'objet de concertations approfondies qui ont été menées au niveau régional, sous l'autorité des préfets en métropole et dans les quatre régions d'outre-mer : Guadeloupe, Guyane, Martinique et Réunion. De même, les contrats de plan signés avec ces quatre régions comprennent des dispositions permettant de mettre en uvre les politiques d'agglomération et de pays dans ces régions. Par ailleurs, la loi a reconnu la spécificité de ces territoires ultrapériphériques en introduisant une nouvelle catégorie de zonages dans l'article 42 de la loi du 4 février 1995 qui se trouve ainsi modifié. Mais le Gouvernement a jugé que les caractéristiques propres aux départements d'outre-mer, pour être convenablement prises en compte, devraient faire l'objet d'une loi spécifique. L'article 36 de la LOADDT annonçait donc la présentation par le Gouvernement d'un projet de loi d'orientation pour les départements d'outre-mer, projet aujourd'hui en discussion devant le Parlement.
