@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011237308
+
+- Question : [SEQ011237308](seq011237308.md) — Réseau de téléphonie mobile
+
+## Réponse
+
+*Industrie, JO du 2002-01-24, page 235*
+
+Comme le sait l'honorable parlementaire, le Gouvernement s'est fixé comme objectif d'assurer d'ici à la fin 2003 la couverture de l'ensemble des lieux de vie permanents et occasionnels ainsi que des axes routiers prioritaires par les réseaux de téléphonie mobile. Il s'agit notamment de faire en sorte que les 1 480 communes qui ne sont couvertes par aucun des trois réseaux de téléphonie mobile bénéficient de cette technologie. Le dispositif arrêté par le Gouvernement lors du CIADT du 9 juillet 2001 et précisé cet automne dans le cadre de discussions avec les opérateurs est le suivant : l'Etat et les collectivités territoriales financeront les infrastructures passives nécessaires ; ces infrastructures passives permettront d'accueillir les équipements de réseaux des trois opérateurs GSM ; Orange France et SFR ont accepté d'étendre leur réseau afin que chaque village des 1 480 communes concernées soit couvert par au moins un des deux opérateurs d'ici la fin 2003, selon les modalités suivantes : Orange et SFR équiperont tous les deux en stations de base 50 % des pylônes concernés ; les 50 % restants seront équipés soit par Orange, soit par SFR, à part égale, en fonction de la proximité de leur réseau actuel. Ce dispositif permet de remplir l'objectif prioritaire du Gouvernement qui est de permettre aux habitants de chaque village des 1 480 communes concernées de bénéficier de la téléphonie mobile. De plus, les offres des opérateurs mobiles étant péréquées sur l'ensemble du territoire, les habitants des zones concernées bénéficieront des conditions qui prévalent dans les zones concurrentielles même si in fine un seul des trois opérateurs mobile aussure la couverture de leur lieu de résidence.
