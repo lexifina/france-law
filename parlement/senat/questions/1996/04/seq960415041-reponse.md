@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960415041
+
+- Question : [SEQ960415041](seq960415041.md) — Renforcement de l'embargo appliqué à Cuba
+
+## Réponse
+
+*Affaires étrangères, JO du 1996-05-23, page 1256*
+
+Réponse. - L'honorable parlementaire a bien voulu interroger le ministre des affaires étrangères sur les répercussions que la loi renforçant les mesures d'embargo contre Cuba adoptée le 6 mars 1996 par le Congrès américain pourrait avoir sur les investissements français à Cuba. Comme le sait l'honorable parlementaire, le " Cuban Liberty and Democratic Solidarity Act " devrait entrer en vigueur le premier août 1996. L'effet dissuasif inhérent à ce nouveau dispositif législatif visant au renforcement de l'embargo contre Cuba pourrait avoir des répercussions sur les investissements étrangers, en particulier depuis la mise en circulation aux Etats-Unis d'une liste d'entreprises internationales supposées être implantées ou commercer avec Cuba. De fait, plusieurs grandes sociétés françaises ont fait part de leur hésitation à s'implanter sur le marché cubain en raison des importants intérêts commerciaux qu'elles ont aux Etats-Unis. En revanche, la plupart de nos entreprises déjà présentes à Cuba ont confirmé leur intention de poursuivre leur activité. Le risque existe donc, si la législation américaine était appliquée, y compris dans ses dispositions les plus contestables du point de vue du droit international et des principes de l'organisation mondiale du commerce, d'une érosion de notre position commerciale à Cuba, dont nous sommes le premier fournisseur européen. Inquiet de ces effets possibles, le gouvernement français, à titre bilatéral et dans le cadre de l'Union européenne, a fait connaître son opposition à la loi Helms-Burton, et étudie actuellement quelles mesures pourraient être prises pour pallier les effets négatifs de cette législation.
