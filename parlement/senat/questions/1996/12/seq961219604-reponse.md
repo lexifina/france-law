@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961219604
+
+- Question : [SEQ961219604](seq961219604.md) — Conditions de renvoi devant un autre tribunal des affaires mettant en cause un agent public
+
+## Réponse
+
+*Justice, JO du 1997-02-13, page 473*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire qu'il a pris connaissance avec un extrême intérêt des propositions contenues dans le rapport du Conseil d'Etat relatif à la responsabilité pénale des agents publics en cas d'infractions non intentionnelles et tendant à l'assouplissement des conditions dans lesquelles les affaires mettant en cause un agent public pourraient être renvoyées, dans l'intérêt d'une bonne administration de la justice, dans un autre tribunal. En effet, depuis l'abrogation des articles 679 et suivants du code de procédure pénale par la loi du 4 janvier 1993, un agent public poursuivi pour une infraction pénale est normalement justiciable du tribunal dans le ressort duquel il exerce ses fonctions. Or le renvoi des affaires intéressant une personne dépositaire de l'autorité publique à une autre juridiction apparaît fréquemment nécessaire. En l'état actuel du droit, la chambre criminelle de la Cour de cassation, saisie par le procureur général près la cour d'appel compétente, peut ordonner le dépaysement de l'affaire dans l'intérêt d'une bonne administration de la justice. Mais, comme le remarque le Conseil d'Etat, la complexité de la procédure suivie peut dissuader certains parquets de solliciter le renvoi dans les cas où il serait pourtant justifié. Le rapport du Conseil d'Etat propose donc de permettre que le renvoi dans l'intérêt d'une bonne administration de la justice puisse être décidé par la cour d'appel chaque fois que l'affaire peut être attribuée à une juridiction située dans le ressort de la même cour. Une modification en ce sens pourra être étudiée dans le cadre de la réflexion plus générale qui va s'engager sur la procédure pénale.
