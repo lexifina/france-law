@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870104230
+
+- Question : [SEQ870104230](seq870104230.md) — Marché de l'endive
+
+## Réponse
+
+*Agriculture, JO du 1987-06-04, page 880*
+
+Réponse. -Le début de la campagne endive s'est caractérisé par une augmentation très importante de l'offre face à une demande plutôt calme, ce qui a eu pour effet de peser sur les cours. Cette situation, qui prévalait également chez nos voisins belges et hollandais, a été modifiée par la vague de froid de janvier. Celle-ci a entraîné, en effet, une remontée des cours qui semble se maintenir. Face à cette situation, les pouvoirs publics qui suivent très attentivement les évolutions de ce marché depuis le début de campagne sont intervenus en faveur des agriculteurs faisant partie de l'organisation économique. A ce titre, il a été notamment dégagé un budget de 2,6 millions de francs pour la campagne endive, au titre d'actions promotionnelles. Cette somme est en augmentation de 10 p. 100 par rapport à celle de l'année dernière, et ceci dans un contexte de diminution de l'enveloppe globale. De plus, des crédits destinés à la publicité des produits sont à la disposition des professionnels (Afcofel, section nationale par produits) pour l'organisation de campagnes publi-promotionnelles. A ce titre deux campagnes publicitaires ont été menées, qui se sont traduites par des résultats positifs sur la consommation intérieure. Enfin, le projet de décret prévoyant la mensualisation du paiement des cotisations sociales dues par les employeurs agricoles occupant plus de neuf salariés, qui doit entrer en application le 1er juillet 1987, comporte des mesures transitoires d'étalement d'une partie de ces cotisations afin d'atténuer l'effort de trésorerie qui sera demandé la première année à ces employeurs, et notamment aux producteurs faisant appel à de la main-d'oeuvre.
