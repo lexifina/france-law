@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030406992
+
+- Question : [SEQ030406992](seq030406992.md) — Poursuite du programme d'exploration de la planète Mars
+
+## Réponse
+
+*Recherche, JO du 2003-07-03, page 2170*
+
+Compte tenu des difficultés techniques et financières posées par la mise en orbite martienne par aérocapture, le programme Mars Premier a connu une première évolution début 2002, avec le lancement d'un nouvel appel d'offres industriel sur la base d'une solution technique plus classique. Le programme a ensuite été reporté sur décision de la présidence du CNES, qui souhaitait réexaminer l'ensemble des programmes non engagés. Le ministère chargé de la recherche et des nouvelles technologies a alors indiqué au CNES qu'il souhaitait pouvoir disposer de tous les scénarios possibles pour ce programme. Quatre hypothèses ont ainsi été élaborées puis proposées par le CNES, correspondant à des cadres programmatiques bilatéraux ou européens. La nécessité, apparue fin 2002, de procéder à une revue de l'ensemble des programmes du CNES, a alors conduit à l'arrêt du programme Mars Premier en bilatéral Etats-Unis - France. Les éléments qui ont pesé sur cette décision sont les contraintes budgétaires, mais aussi l'annonce par la NASA, le 12 mars 2003, de l'annulation pour des raisons budgétaires de sa participation à Netlander (réseau de stations déployées sur la planète Mars) et à son emport sur l'orbiteur Télésat prévu en 2009. Il apparaît désormais que le cadre le plus naturel pour un programme martien à participation française serait celui de l'Europe et notamment d'AURORA, programme optionnel de l'ESA lancé à la suite de la conférence ministérielle de 2001 et destiné à préparer, sur le long terme, les vols habités vers Mars. Il est toutefois prématuré de se prononcer sur la participation française à un tel programme. Le prochain conseil ministériel de l'ESA, prévu vers fin 2004, pourrait permettre de débattre de cette question.
