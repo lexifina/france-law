@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020902335
+
+- Question : [SEQ020902335](seq020902335.md) — Problématique de l'alignement du prix du livre dans les départements d'outre-mer
+
+## Réponse
+
+*Culture, JO du 2002-11-07, page 2635*
+
+La loi d'orientation pour l'outre-mer du 13 décembre 2000 a prévu, dans son article 37, le principe, à compter du 1er janvier 2002, d'un alignement du prix des livres dans les départements d'outre-mer sur celui pratiqué en métropole. Afin de réduire les conséquences négatives d'un alignement intégral des prix des livres dès le 1er janvier 2002, la loi de finances rectificative du 28 décembre 2001 a prévu une mise en oeuvre progressive de l'alignement des prix et des modalités de sa compensation, l'application du mécanisme d'ensemble étant reportée au 1er janvier 2003. Les premières évaluations faites de ces mesures ont montré qu'il importe de permettre aux libraires d'adapter leur activité au nouveau contexte créé par l'alignement des prix des livres scolaires et la baisse importante des prix des autres ouvrages. L'application d'un alignement intégral dès le 1er janvier 2003 risquant dans ces conditions de fragiliser leur équilibre économique, il est proposé, dans le cadre du projet de loi de finances pour 2003 (art. 63), de modifier l'article 10 de la loi du 10 août 1981 afin de suspendre l'alignement des prix des livres non scolaires entre les départements d'outre-mer et la métropole. Le Gouvernement présentera au Parlement avant le 1er juin 2005 un rapport sur le prix de ces ouvrages dans les départements d'outre-mer permettant d'examiner si les conditions d'un alignement intégral des prix sont alors réunies. En tout état de cause, pour 2003, les mesures de compensation de l'Etat consisteront, comme en 2002, en un allégement des coûts d'acheminement des livres vers les départements d'outre-mer.
