@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020801530
+
+- Question : [SEQ020801530](seq020801530.md) — Tribunal international de la mer
+
+## Réponse
+
+*Justice, JO du 2002-11-21, page 2809*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que M. Jean-Pierre Cot a été nommé aux fonctions de juge pour le Tribunal international du droit de la mer le 19 avril 2002. Ce tribunal international a été institué par la Convention des Nations unies sur le droit de la mer de 1982, convention dite de Montego Bay. Cette convention dont la France est partie, établit un cadre juridique global régissant tous les espaces marins ainsi que l'utilisation et les ressources de la mer. Elle contient, entre autres, des dispositions relatives à la mer territoriale, à la zone contiguë, au plateau continental, à la zone économique exclusive et à la haute mer. Le tribunal est un des quatre moyens ouverts pour régler les différends interétatiques relatifs à l'interprétation ou à l'application de la convention de Montego Bay (Partie XV de la convention). A ce titre, seuls les Etats peuvent saisir cette juridiction. Conformément à l'article 57-1 du règlement du tribunal, la procédure contentieuse démarre par l'introduction d'une requête par l'Etat demandeur. Une procédure consultative est également prévue. Les arrêts du tribunal international pour le droit de la mer, s'ils revêtent l'autorité de la chose jugée et sont obligatoires pour les Etats parties au litige (article 33, annexe VI, de la convention), ne sont pas directement exécutoires sur le territoire français. Il appartient donc aux parties de se prévaloir de cette décision devant le juge national (par exemple le juge qui a ordonné la saisie d'un navire). Quant à son mode de financement, le Tribunal international du droit de la mer est une organisation internationale qui à ce titre fonctionne grâce aux contributions des États. La dernière contribution française s'élève à 465 320 dollars.
