@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890805922
+
+- Question : [SEQ890805922](seq890805922.md) — Prise en charge des soins de santé du personnel des transports internationaux
+
+## Réponse
+
+*Solidarité, JO du 1990-06-28, page 1412*
+
+Réponse. - La situation des personnes travaillant dans des entreprises de transports internationaux est prise en compte par les accords internationaux de sécurité sociale conclus par la France, tant bilatéraux que multilatéraux. En premier lieu, le règlement (C.E.E.) n° 1408/71 relatif à l'application des régimes de sécurité sociale aux travailleurs qui se déplacent dans la Communauté comporte des règles applicables au personnel salarié roulant ou navigant d'entreprises de transports internationaux ayant leur siège sur le territoire d'un Etat membre. L'article 14-2 a de ce règlement prévoit que ce personnel est, sauf exceptions, soumis à la législation de sécurité sociale de l'Etat membre où l'entreprise a son siège. Ainsi, en principe, le travailleur employé par une entreprise française de transports internationaux qui exerce son activité à la fois en France et dans un ou plusieurs Etats membres de la Communauté est affilié au régime général. Il peut bénéficierd'une prise en charge de soins de santé reçus au cours d'un séjour dans un autre Etat membre dans les conditions prévues à l'article 22 du règlement 1408/71 déjà cité. En ce qui concerne les conventions bilatérales de sécurité sociale auxquelles la France est partie, le même principe est retenu. Dès lors les personnels ambulants des entreprises publiques ou privées de transports internationaux de l'un des Etats contractants sont soumis à la législation de sécurité sociale de l'Etat contractant où l'entreprise a son siège, et la charge des soins de santé incombe au régime de sécurité sociale de l'Etat précité.
