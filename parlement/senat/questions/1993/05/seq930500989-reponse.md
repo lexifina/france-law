@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930500989
+
+- Question : [SEQ930500989](seq930500989.md) — Contribution patriotique à l'effort de guerre décrété par le Gouvernement djiboutien
+
+## Réponse
+
+*Affaires étrangères, JO du 1993-09-16, page 1628*
+
+Réponse. - L'assujettissement d'un certain nombre de nos compatriotes résidant à Djibouti à l'impôt de " contribution patriotique " décidé récemment par les autorités djiboutiennes n'a pas manqué d'attirer tout particulièrement l'attention du ministère des affaires étrangères. Cependant l'honorable parlementaire aura certainement noté que cet impôt, quelle que soit sa dénomination, est une mesure qui relève, par tradition, pleinement de la souveraineté des Etats et qui s'applique à tous, y compris aux Français résidents. Une décision d'exemption ne peut donc dépendre que du bon vouloir des autorités locales, sauf accord bilatéral particulier sur le statut des résidents étrangers. Tout en assurant l'honorable parlementaire que les autorités françaises poursuivront leurs démarches en faveur de nos compatriotes touchés par cette mesure, le ministère des affaires étrangères tient à préciser que nos ressortissants ont déjà bénéficié d'une exonération de cette contribution jusqu'au mois de mars (alors que la contribution a été mise en place en janvier 1992). L'honorable parlementaire aura certainement déjà noté que les revenus des Français relevant de la coopération demeurent exemptés de cette disposition qui ne devrait donc concerner, si elle s'applique, que trois cent trente à trois cent cinquante Français au maximum, dont environ la moitié relèvent du secteur privé. Les démarches effectuées par notre ambassade auprès des autorités djiboutiennes tendent, en tout état de cause, à obtenir que les catégories de Français qui pourraient être effectivement touchées par cette mesure soient les plus restreintes et si possible que tous les Français soient exonérés de cette contribution.
