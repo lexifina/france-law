@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000525582
+
+- Question : [SEQ000525582](seq000525582.md) — Participation des retraités agricoles
+
+## Réponse
+
+*Agriculture, JO du 2000-09-28, page 3318*
+
+Réponse. - Le Gouvernement est très attaché à la participation des retraités et des personnes âgées au sein des instances sociales amenées à débattre de leurs problèmes. Lors de sa déclaration du 21 mars dernier sur l'avenir des régimes de retraite, le Premier ministre a, d'ailleurs, rappelé qu'il entend saisir le Conseil économique et social afin qu'il fasse des propositions aux pouvoirs publics pour mieux reconnaître et valoriser le rôle social des retraités. Depuis 1992, avaient été institués le Comité national des retraités et personnes âgées (CNRPA) et les comités départementaux des retraités et personnes âgées (CODERPA), destinés à assurer la participation de cette population à l'élaboration et à la mise en uvre de la politique la concernant. Outre leur coopération au sein d'instances spécifiques, les retraités et personnes âgées sont également représentés au sein du Conseil national de la vie associative et des conseils d'administration des centres communaux d'action sociale. Par ailleurs, la participation des retraités au fonds de solidarité vieillesse (FSV) a été organisée par le décret nº 93-1354 du 30 décembre 1993. Le comité de surveillance qui assiste le conseil d'administration de ce fonds comprend trois représentants du CNRPA. Enfin, tout dernièrement, le décret nº 2000-393 du 10 mai 2000 portant création du conseil d'orientation des retraites a mis en place une structure de réflexion et de proposition, dont est membre de droit le vice-président du CNRPA. Il apparaît donc que la représentation des retraités au plus haut niveau des instances de consultation et de décision s'est progressivement développé ces dernières années, complétant ainsi le système de représentation sociale traditionnel.
