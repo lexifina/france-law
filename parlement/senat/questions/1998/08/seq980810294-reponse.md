@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980810294
+
+- Question : [SEQ980810294](seq980810294.md) — Médecine du travail et prévention des maladies et accidents professionnels
+
+## Réponse
+
+*Emploi, JO du 1999-11-11, page 3727*
+
+Réponse. - Les décrets nº 79-231 du 20 mars 1979 et nº 86-569 du 14 mars 1986 ont largement étendu les attributions du médecin du travail et renforcé son action en milieu de travail. Son rôle ne se limite plus aux visites annuelles d'aptitude mais s'est élargi aux missions de prévention en matière de santé au travail. Il consacre ainsi le tiers de son temps de travail à sa mission en milieu de travail, à l'occasion notamment de visites d'entreprises et d'examens des postes de travail. Le médecin du travail est le conseiller du chef d'entreprise et des salariés en ce qui concerne notamment l'amélioration des conditions de vie et de travail dans l'entreprise, l'adaptation des postes, des techniques et des rythmes de travail à la physiologie humaine, la protection des salariés contre l'ensemble des nuisances, et notamment contre les risques d'accidents du travail ou l'utilisation des produits dangereux, l'hygiène générale de l'établissement, la prévention et l'éducation sanitaire dans le cadre de l'établissement en rapport avec l'activité professionnelle. Il peut participer en liaison avec le médecin inspecteur régional du travail et de la main-d' uvre à des recherches, études et enquêtes entrant dans le cadre des missions qui lui sont confiées. Ces travaux traitant des principaux problèmes de santé des salariés peuvent orienter le choix des priorités politiques en matière de santé au travail. Par ailleurs, une réforme de la médecine du travail est actuellement en cours, qui a pour objectif le renforcement de l'indépendance du médecin du travail, le développement de son rôle comme acteur de la prévention dans l'entreprise, la création progressive d'équipes pluridisciplinaires, et un contrôle social des services médicaux du travail.
