@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991221067
+
+- Question : [SEQ991221067](seq991221067.md) — Hébergement des personnes handicapées vieillissantes
+
+## Réponse
+
+*Santé, JO du 2000-07-06, page 2411*
+
+Réponse. - Le devenir des personnes handicapées vieillissantes constitue une préoccupation constante des pouvoirs publics. Il importe d'anticiper les effets de ce phénomène démographique et de proposer des solutions de nature à éviter toute rupture brutale à ces personnes, notamment en adaptant les dispositifs d'accueil à leurs besoins spécifiques et à leurs souhaits. Des solutions diversifiées sont d'ores et déjà mises en uvre par les associations, dans un grand nombre de départements, avec l'aide des Conseils généraux, pour offrir aux personnes handicapées la palette la plus large de solutions d'hébergement. De plus, afin de poursuivre les efforts consentis en matière de prise en charge des personnes lourdement handicapées, le Premier ministre a annoncé, le 25 janvier 2000, devant le Conseil national consultatif des personnes handicapées (CNCPH), la création de places supplémentaires destinées notamment aux plus âgées d'entre elles, dans le cadre de sections ou de structures d'accueil spécifiques. A cet effet, le plan pluriannuel de création de places pour adultes handicapés (1999-2003) se verra attribuer une enveloppe complémentaire de 45 millions de francs de crédits d'assurance maladie. Par ailleurs, le Gouvernement envisage actuellement, sur l'ensemble des aspects institutionnels, comme sur la question du régime d'aide sociale applicable aux personnes handicapées vieillissantes, la constitution d'un groupe de travail, afin de proposer notamment des modes de prise en charge adaptés, et de répondre, par là même, à leurs besoins spécifiques et aux inquiétudes légitimes des familles. Tous les partenaires, institutionnels et associatifs, seront étroitement associés à la concertation qu'il s'agit de mener.
