@@ -1,295 +1,485 @@
-# Article Annexe 3
+# Article Annexe 3 à l'art. R611-28
 
 TABLEAU RELATIF AUX CIRCONSCRIPTIONS ET AUX CONSEILS D'ADMINISTRATION DES CAISSES MUTUELLES REGIONALES D'ASSURANCE MALADIE ET MATERNITE DES TRAVAILLEURS NON-SALARIES DES PROFESSIONS NON-AGRICOLES (FRANCE METROPOLITAINE)
 
-I - Caisses mutuelles régionales communes aux groupes des professions artisanales et des professions industrielles et commerciales.
+I. - Caisses mutuelles régionales communes aux groupes des professions artisanales et des professions industrielles et commerciales
 
-CAISSES : Caisse mutuelle régionale du Nord
+CAISSES : Caisse mutuelle régionale du Nord.
 
-CIRCONSCRIPTIONS : Département du Nord
+CIRCONSCRIPTIONS : Département du Nord.
 
-NOMBRE DE MEMBRES des conseils d'administration (toutes catégories comprises) : 24
+NOMBRE de membres des conseils d'administration (toutes catégories comprises) : 24
 
-NOMBRE DE MEMBRES représentants des affiliés :
+NOMBRE DE MEMBRES représentants des assurés :
 
-- Artisans : 9
+Artisans :
 
-- Industriels et commerçants : 9
+Actifs : 7
 
-CAISSES : Caisse mutuelle régionale du Pas-de-Calais
+Retraités : 2
 
-CIRCONSCRIPTIONS : Département du Pas-de-Calais
+Industriels et commerçants :
 
-NOMBRE DE MEMBRES des conseils d'administration (toutes catégories comprises) : 22
+Actifs : 7
 
-NOMBRE DE MEMBRES représentants des affiliés :
+Retraités : 2
 
-- Artisans : 8
+CAISSES : Caisse mutuelle régionale du Pas-de-Calais.
 
-- Industriels et commerçants : 8
+CIRCONSCRIPTIONS : Département du Pas-de-Calais.
 
-CAISSES : Caisse mutuelle régionale de Picardie
+NOMBRE de membres des conseils d'administration (toutes catégories comprises) : 22
 
-CIRCONSCRIPTIONS : Département de l'Aisne, de l'Oise et de Somme
+NOMBRE DE MEMBRES représentants des assurés :
 
-NOMBRE DE MEMBRES des conseils d'administration (toutes catégories comprises) : 22
+Artisans :
 
-NOMBRE DE MEMBRES représentants des affiliés :
+Actifs : 6
 
-- Artisans : 8
+Retraités : 2
 
-- Industriels et commerçants : 8
+Industriels et commerçants :
 
-CAISSES : Caisse mutuelle régionale de Haute-Normandie
+Actifs : 6
 
-CIRCONSCRIPTIONS : Départements de l'Eure et de la Seine-Maritime
+Retraités : 2
 
-NOMBRE DE MEMBRES des conseils d'administration (toutes catégories comprises) : 22
+CAISSES : Caisse mutuelle régionale de Picardie.
 
-NOMBRE DE MEMBRES représentants des affiliés :
+CIRCONSCRIPTIONS : Départements de l'Aisne, de l'Oise et de la Somme.
 
-- Artisans : 8
+NOMBRE de membres des conseils d'administration (toutes catégories comprises) : 22
 
-- Industriels et commerçants : 8
+NOMBRE DE MEMBRES représentants des assurés :
 
-CAISSES : Caisse mutuelle régionale de Basse-Normandie
+Artisans :
 
-CIRCONSCRIPTIONS : Départements du Calvados, de l'Orne et de la Manche
+Actifs : 6
 
-NOMBRE DE MEMBRES des conseils d'administration (toutes catégories comprises) : 22
+Retraités : 2
 
-NOMBRE DE MEMBRES représentants des affiliés :
+Industriels et commerçants :
 
-- Artisans : 8
+Actifs : 6
 
-- Industriels et commerçants : 8
+Retraités : 2
 
-CAISSES : Caisse mutuelle régionale de Bretagne
+CAISSES : Caisse mutuelle régionale de Haute-Normandie.
 
-CIRCONSCRIPTIONS : Département d'Ille-et-Vilaine, des Côtes-du-Nord, du Finistère et du Morbihan
+CIRCONSCRIPTIONS : Départements de l'Eure et de la Seine-Maritime.
 
-NOMBRE DE MEMBRES des conseils d'administration (toutes catégories comprises) : 26
+NOMBRE de membres des conseils d'administration (toutes catégories comprises) : 22
 
-NOMBRE DE MEMBRES représentants des affiliés :
+NOMBRE DE MEMBRES représentants des assurés :
 
-- Artisans : 10
+Artisans :
 
-- Industriels et commerçants : 10
+Actifs : 6
 
-CAISSES : Caisse mutuelle régionale des Pays de la Loire
+Retraités : 2
 
-CIRCONSCRIPTIONS : Départements de la Mayenne, de la Sarthe, du Maine-et-Loire, de la Loire-Atlantique et de la Vendée
+Industriels et commerçants :
 
-NOMBRE DE MEMBRES des conseils d'administration (toutes catégories comprises) : 26
+Actifs : 6
 
-NOMBRE DE MEMBRES représentants des affiliés :
+Retraités : 2
 
-- Artisans : 10
+CAISSES : Caisse mutuelle régionale de Basse-Normandie.
 
-- Industriels et commerçants : 10
+CIRCONSCRIPTIONS : Départements du Calvados, de l'Orne et de la Manche.
 
-CAISSES : Caisse mutuelle régionale du Centre
+NOMBRE de membres des conseils d'administration (toutes catégories comprises) : 22
 
-CIRCONSCRIPTIONS : Départements d'Eure-et-Loir, du Loiret, du Loir-et-Cher, du Cher, de l'Indre et d'Indre-et-Loire
+NOMBRE DE MEMBRES représentants des assurés :
 
-NOMBRE DE MEMBRES des conseils d'administration (toutes catégories comprises) : 24
+Artisans :
 
-NOMBRE DE MEMBRES représentants des affiliés :
+Actifs : 6
 
-- Artisans : 9
+Retraités : 2
 
-- Industriels et commerçants : 9
+Industriels et commerçants :
 
-CAISSES : Caisse mutuelle régionale de Poitou-Charentes
+Actifs : 6
 
-CIRCONSCRIPTIONS : Départements des Deux-Sèvres, de la Vienne,
+Retraités : 2
 
-de la Charente et de la Charente-Maritime
+CAISSES : Caisse mutuelle régionale de Bretagne.
 
-NOMBRE DE MEMBRES des conseils d'administration (toutes catégories comprises) : 24
+CIRCONSCRIPTIONS : Départements d'Ille-et-Vilaine, des Côtes-d'Armor, du Finistère et du Morbihan.
 
-NOMBRE DE MEMBRES représentants des affiliés :
+NOMBRE de membres des conseils d'administration (toutes catégories comprises) : 30
 
-- Artisans : 9
+NOMBRE DE MEMBRES représentants des assurés :
 
-- Industriels et commerçants : 9
+Artisans :
 
-CAISSES : Caisse mutuelle régionale du Limousin
+Actifs : 9
 
-CIRCONSCRIPTIONS : Départements de la Haute-Vienne, de la Corrèze et de la Creuse
+Retraités : 3
 
-NOMBRE DE MEMBRES des conseils d'administration (toutes catégories comprises) : 22
+Industriels et commerçants :
 
-NOMBRE DE MEMBRES représentants des affiliés :
+Actifs : 9
 
-- Artisans : 8
+Retraités : 3
 
-- Industriels et commerçants : 8
+CAISSES : Caisse mutuelle régionale des Pays de la Loire.
 
-CAISSES : Caisse mutuelle régionale d'Aquitaine
+CIRCONSCRIPTIONS : Départements de la Mayenne, de la Sarthe, de Maine-et-Loire, de la Loire-Atlantique et de la Vendée.
 
-CIRCONSCRIPTIONS : Départements de la Dordogne, de la Gironde, du Lot-et-Garonne, des Landes et des Pyrénées-Atlantiques
+NOMBRE de membres des conseils d'administration (toutes catégories comprises) : 30
 
-NOMBRE DE MEMBRES des conseils d'administration (toutes catégories comprises) : 26
+NOMBRE DE MEMBRES représentants des assurés :
 
-NOMBRE DE MEMBRES représentants des affiliés :
+Artisans :
 
-- Artisans : 10
+Actifs : 9
 
-- Industriels et commerçants : 10
+Retraités : 3
 
-CAISSES : Caisse mutuelle régionale de Midi-Pyrénées
+Industriels et commerçants :
 
-CIRCONSCRIPTIONS : Départements du Lot, de l'Aveyron, du Tarn-et-Garonne, du Tarn, de la Haute-Garonne, du Gers, des Hautes-Pyrénées et de l'Ariège
+Actifs : 9
 
-NOMBRE DE MEMBRES des conseils d'administration (toutes catégories comprises) : 26
+Retraités : 3
 
-NOMBRE DE MEMBRES représentants des affiliés :
+CAISSES : Caisse mutuelle régionale du Centre.
 
-- Artisans : 10
+CIRCONSCRIPTIONS : Départements d'Eure-et-Loir, du Loiret, de Loir-et-Cher, du Cher, de l'Indre et d'Indre-et-Loire.
 
-- Industriels et commerçants : 10
+NOMBRE de membres des conseils d'administration (toutes catégories comprises) : 24
 
-CAISSES : Caisse mutuelle régionale du Languedoc-Roussillon
+NOMBRE DE MEMBRES représentants des assurés :
 
-CIRCONSCRIPTIONS : Départements de la Lozère, du Gard, de l'Hérault, de l'Aude et des Pyrénées-Orientales
+Artisans :
 
-NOMBRE DE MEMBRES des conseils d'administration (toutes catégories comprises) : 24
+Actifs : 7
 
-NOMBRE DE MEMBRES représentants des affiliés :
+Retraités : 2
 
-- Artisans : 9
+Industriels et commerçants :
 
-- Industriels et commerçants : 9
+Actifs : 7
 
-CAISSES : Caisse mutuelle régionale Provence
+Retraités : 2
 
-CIRCONSCRIPTIONS : Départements des Hautes-Alpes, des Alpes de Haute-Provence, du Vaucluse et des Bouches-du-Rhône
+CAISSES : Caisse mutuelle régionale de Poitou-Charentes.
 
-NOMBRE DE MEMBRES des conseils d'administration (toutes catégories comprises) : 24
+CIRCONSCRIPTIONS : Départements des Deux-Sèvres, de la Vienne, de la Charente et de la Charente-Maritime.
 
-NOMBRE DE MEMBRES représentants des affiliés :
+NOMBRE de membres des conseils d'administration (toutes catégories comprises) : 24
 
-- Artisans : 9
+NOMBRE DE MEMBRES représentants des assurés :
 
-- Industriels et commerçants : 9
+Artisans :
 
-CAISSES : Caisse mutuelle régionale de la Côte d'Azur
+Actifs : 7
 
-CIRCONSCRIPTIONS : Départements des Alpes-Maritimes et du Var
+Retraités : 2
 
-NOMBRE DE MEMBRES des conseils d'administration (toutes catégories comprises) : 24
+Industriels et commerçants :
 
-NOMBRE DE MEMBRES représentants des affiliés :
+Actifs : 7
 
-- Artisans : 9
+Retraités : 2
 
-- Industriels et commerçants : 9
+CAISSES : Caisse mutuelle régionale du Limousin.
 
-CAISSES : Caisse mutuelle régionale de la Corse
+CIRCONSCRIPTIONS : Départements de la Haute-Vienne, de la Corrèze et de la Creuse.
 
-CIRCONSCRIPTIONS : Départements de la Haute-Corse et de la Corse du Sud
+NOMBRE de membres des conseils d'administration (toutes catégories comprises) : 22
 
-NOMBRE DE MEMBRES des conseils d'administration (toutes catégories comprises) : 22
+NOMBRE DE MEMBRES représentants des assurés :
 
-NOMBRE DE MEMBRES représentants des affiliés :
+Artisans :
 
-- Artisans : 8
+Actifs : 6
 
-- Industriels et commerçants : 8
+Retraités : 2
 
-CAISSES : Caisse mutuelle régionale du Rhône
+Industriels et commerçants :
 
-CIRCONSCRIPTIONS : Départements de l'Ain, de la Loire, du Rhône et de l'Ardèche, arrondissement de Vienne et cantons de La Verpillière et de l'Isle- d'Abeau (Isère)
+Actifs : 6
 
-NOMBRE DE MEMBRES des conseils d'administration (toutes catégories comprises) : 26
+Retraités : 2
 
-NOMBRE DE MEMBRES représentants des affiliés :
+CAISSES : Caisse mutuelle régionale d'Aquitaine.
 
-- Artisans : 10
+CIRCONSCRIPTIONS : Départements de la Dordogne, de la Gironde, de Lot-et-Garonne, des Landes et des Pyrénées-Atlantiques.
 
-- Industriels et commerçants : 10
+NOMBRE de membres des conseils d'administration (toutes catégories comprises) : 30
 
-CAISSES : Caisse mutuelle régionale des Alpes
+NOMBRE DE MEMBRES représentants des assurés :
 
-CIRCONSCRIPTIONS : Départements de la Savoie, de la Haute-Savoie, de l'Isère (arrondissement de Vienne et Canton de La Verpillière exclus) et de la Drôme
+Artisans :
 
-NOMBRE DE MEMBRES des conseils d'administration (toutes catégories comprises) : 24
+Actifs : 9
 
-NOMBRE DE MEMBRES représentants des affiliés :
+Retraités : 3
 
-- Artisans : 9
+Industriels et commerçants :
 
-- Industriels et commerçants : 9
+Actifs : 9
 
-CAISSES : Caisse mutuelle régionale d'Auvergne
+Retraités : 3
 
-CIRCONSCRIPTIONS : Départements de l'Allier, du Puy-de-Dôme, du Cantal et de la Haute-Loire
+CAISSES : Caisse mutuelle régionale de Midi-Pyrénées.
 
-NOMBRE DE MEMBRES des conseils d'administration (toutes catégories comprises) : 24
+CIRCONSCRIPTIONS : Départements du Lot, de l'Aveyron, de Tarn-et-Garonne, du Tarn, du Gers, des Hautes-Pyrénées et de l'Ariège.
 
-NOMBRE DE MEMBRES représentants des affiliés :
+NOMBRE de membres des conseils d'administration (toutes catégories comprises) : 30
 
-- Artisans : 9
+NOMBRE DE MEMBRES représentants des assurés :
 
-- Industriels et commerçants : 9
+Artisans :
 
-CAISSES : Caisse mutuelle régionale de Bourgogne
+Actifs : 9
 
-CIRCONSCRIPTIONS : Départements de la Côte-d'Or, de Saône-et-Loire, de la Nièvre et de l'Yonne
+Retraités : 3
 
-NOMBRE DE MEMBRES des conseils d'administration (toutes catégories comprises) : 24
+Industriels et commerçants :
 
-NOMBRE DE MEMBRES représentants des affiliés :
+Actifs : 9
 
-- Artisans : 9
+Retraités : 3
 
-- Industriels et commerçants : 9
+CAISSES : Caisse mutuelle régionale de Languedoc-Roussillon.
 
-CAISSES : Caisse mutuelle régionale de Franche-Comté
+CIRCONSCRIPTIONS : Départements de la Lozère, du Gard, de l'Hérault, de l'Aude et des Pyrénées-Orientales.
 
-CIRCONSCRIPTIONS : Départements de la Haute-Saône, du Doubs, du Jura et Territoire de Belfort
+NOMBRE de membres des conseils d'administration (toutes catégories comprises) : 24
 
-NOMBRE DE MEMBRES des conseils d'administration (toutes catégories comprises) : 22
+NOMBRE DE MEMBRES représentants des assurés :
 
-NOMBRE DE MEMBRES représentants des affiliés :
+Artisans :
 
-- Artisans : 8
+Actifs : 7
 
-- Industriels et commerçants : 8
+Retraités : 2
 
-CAISSES : Caisse mutuelle régionale d'Alsace
+Industriels et commerçants :
 
-CIRCONSCRIPTIONS : Départements du Haut-Rhin et du Bas-Rhin
+Actifs : 7
 
-NOMBRE DE MEMBRES des conseils d'administration (toutes catégories comprises) : 22
+Retraités : 2
 
-NOMBRE DE MEMBRES représentants des affiliés :
+CAISSES : Caisse mutuelle régionale de Provence.
 
-- Artisans : 8
+CIRCONSCRIPTIONS : Départements des Hautes-Alpes, des Alpes-de-Haute-Provence, de Vaucluse et des Bouches-du-Rhône.
 
-- Industriels et commerçants : 8
+NOMBRE de membres des conseils d'administration (toutes catégories comprises) : 24
 
-CAISSES : Caisse mutuelle régionale de Lorraine
+NOMBRE DE MEMBRES représentants des assurés :
 
-CIRCONSCRIPTIONS : Départements de la Moselle, de la Meuse, de la Meurthe-et-Moselle et des Vosges
+Artisans :
 
-NOMBRE DE MEMBRES des conseils d'administration (toutes catégories comprises) : 24
+Actifs : 7
 
-NOMBRE DE MEMBRES représentants des affiliés :
+Retraités : 2
 
-- Artisans : 9
+Industriels et commerçants :
 
-- Industriels et commerçants : 9
+Actifs : 7
 
-CAISSES : Caisse mutuelle régionale de Champagne-Ardennes
+Retraités : 2
 
-CIRCONSCRIPTIONS : Départements des Ardennes, de la Marne, de l'Aube et de la Haute-Marne
+CAISSES : Caisse mutuelle régionale de la Côte d'Azur.
 
-NOMBRE DE MEMBRES des conseils d'administration (toutes catégories comprises) : 22
+CIRCONSCRIPTIONS : Départements des Alpes-Maritimes et du Var.
 
-NOMBRE DE MEMBRES représentants des affiliés :
+NOMBRE de membres des conseils d'administration (toutes catégories comprises) : 24
 
-- Artisans : 8
+NOMBRE DE MEMBRES représentants des assurés :
 
-- Industriels et commerçants : 8
+Artisans :
+
+Actifs : 7
+
+Retraités : 2
+
+Industriels et commerçants :
+
+Actifs : 7
+
+Retraités : 2
+
+CAISSES : Caisse mutuelle régionale de la Corse.
+
+CIRCONSCRIPTIONS : Départements de la Haute-Corse et de la Corse-du-Sud.
+
+NOMBRE de membres des conseils d'administration (toutes catégories comprises) : 22
+
+NOMBRE DE MEMBRES représentants des assurés :
+
+Artisans :
+
+Actifs : 6
+
+Retraités : 2
+
+Industriels et commerçants :
+
+Actifs : 6
+
+Retraités : 2
+
+CAISSES : Caisse mutuelle régionale du Rhône.
+
+CIRCONSCRIPTIONS : Départements de l'Ain, de la Loire, du Rhône et de l'Ardèche, arrondissement de Vienne et cantons de La Verpillière et de L'Isle-d'Abeau (Isère).
+
+NOMBRE de membres des conseils d'administration (toutes catégories comprises) : 30
+
+NOMBRE DE MEMBRES représentants des assurés :
+
+Artisans :
+
+Actifs : 9
+
+Retraités : 3
+
+Industriels et commerçants :
+
+Actifs : 9
+
+Retraités : 3
+
+CAISSES : Caisse mutuelle régionale des Alpes.
+
+CIRCONSCRIPTIONS : Départements de la Savoie, de la Haute-Savoie, de l'Isère (arrondissement de Vienne et canton de La Verpillière exclus) et de la Drôme.
+
+NOMBRE de membres des conseils d'administration (toutes catégories comprises) : 24
+
+NOMBRE DE MEMBRES représentants des assurés :
+
+Artisans :
+
+Actifs : 7
+
+Retraités : 2
+
+Industriels et commerçants :
+
+Actifs : 7
+
+Retraités : 2
+
+CAISSES : Caisse mutuelle régionale d'Auvergne.
+
+CIRCONSCRIPTIONS : Départements de l'Allier, du Puy-de-Dôme, du Cantal et de la Haute-Loire.
+
+NOMBRE de membres des conseils d'administration (toutes catégories comprises) : 24
+
+NOMBRE DE MEMBRES représentants des assurés :
+
+Artisans :
+
+Actifs : 7
+
+Retraités : 2
+
+Industriels et commerçants :
+
+Actifs : 7
+
+Retraités : 2
+
+CAISSES : Caisse mutuelle régionale de Bourgogne.
+
+CIRCONSCRIPTIONS : Départements de la Côte-d'Or, de Saône-et-Loire, de la Nièvre et de l'Yonne.
+
+NOMBRE de membres des conseils d'administration (toutes catégories comprises) : 24
+
+NOMBRE DE MEMBRES représentants des assurés :
+
+Artisans :
+
+Actifs : 7
+
+Retraités : 2
+
+Industriels et commerçants :
+
+Actifs : 7
+
+Retraités : 2
+
+CAISSES : Caisse mutuelle régionale de Franche-Comté.
+
+CIRCONSCRIPTIONS : Départements de la Haute-Saône, du Doubs, du Jura et territoire de Belfort.
+
+NOMBRE de membres des conseils d'administration (toutes catégories comprises) : 22
+
+NOMBRE DE MEMBRES représentants des assurés :
+
+Artisans :
+
+Actifs : 6
+
+Retraités : 2
+
+Industriels et commerçants :
+
+Actifs : 6
+
+Retraités : 2
+
+CAISSES : Caisse mutuelle régionale d'Alsace.
+
+CIRCONSCRIPTIONS : Départements du Haut-Rhin et du Bas-Rhin.
+
+NOMBRE de membres des conseils d'administration (toutes catégories comprises) : 22
+
+NOMBRE DE MEMBRES représentants des assurés :
+
+Artisans :
+
+Actifs : 6
+
+Retraités : 2
+
+Industriels et commerçants :
+
+Actifs : 6
+
+Retraités : 2
+
+CAISSES : Caisse mutuelle régionale de Lorraine.
+
+CIRCONSCRIPTIONS : Départements de la Moselle, de la Meuse, de Meurthe-et-Moselle et des Vosges.
+
+NOMBRE de membres des conseils d'administration (toutes catégories comprises) : 24
+
+NOMBRE DE MEMBRES représentants des assurés :
+
+Artisans :
+
+Actifs : 7
+
+Retraités : 2
+
+Industriels et commerçants :
+
+Actifs : 7
+
+Retraités : 2
+
+CAISSES : Caisse mutuelle régionale de Champagne-Ardenne.
+
+CIRCONSCRIPTIONS : Départements des Ardennes, de la Marne, de l'Aube et de la Haute-Marne.
+
+NOMBRE de membres des conseils d'administration (toutes catégories comprises) : 22
+
+NOMBRE DE MEMBRES représentants des assurés :
+
+Artisans :
+
+Actifs : 6
+
+Retraités : 2
+
+Industriels et commerçants :
+
+Actifs : 6
+
+Retraités : 2

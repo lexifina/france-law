@@ -1,19 +1,27 @@
-# Article Annexe 4
+# Article Annexe 4 à l'art. R611-34
 
-II - Caisses mutuelles régionales compétentes pour un groupe professionnel (autre que le groupe des professions libérales) :
+II - Caisses mutuelles régionales compétentes pour un groupe professionnel (autre que le groupe professions libérales) :
 
-- Caisse mutuelle régionale des professions artisanales de la région parisienne
+CAISSES : Caisse mutuelle régionale des professions artisanales de la région parisienne.
 
-CIRCONSCRIPTIONS : Départements de Paris, Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne, Val-d'Oise, Essonne, Yvelines et Seine-et-Marne
+CIRCONSCRIPTIONS : Départements de Paris, Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne, Val-d'Oise, Essonne, Yvelines et Seine-et-Marne.
 
-Nombre de membres des conseils d'administration : 26
+NOMBRE DE MEMBRES des conseils d'administration (toutes catégories comprises) : 26
 
-Nombre de membres représentant les affiliés : 20
+NOMBRE DE MEMBRES représentants des assurés :
 
-- Caisse mutuelle régionale des professions industrielles et commerciales de la région parisienne
+Actifs : 15
 
-Circonscriptions : Départements de Paris, Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne, Val-d'Oise, Essonne, Yvelines et Seine-et-Marne
+Retraités : 5
 
-Nombre de membres des conseils d'administration : 30
+CAISSES : Caisse mutuelle régionale des professions industrielles et commerciales de la région parisienne.
 
-Nombre de membres représentant les affiliés : 24
+CIRCONSCRIPTIONS : Départements de Paris, Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne, Val-d'Oise, Essonne, Yvelines et Seine-et-Marne.
+
+NOMBRE DE MEMBRES des conseils d'administration (toutes catégories comprises) : 30
+
+NOMBRE DE MEMBRES représentants des assurés :
+
+Actifs : 18
+
+Retraités : 6
