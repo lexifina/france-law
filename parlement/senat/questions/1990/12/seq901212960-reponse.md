@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901212960
+
+- Question : [SEQ901212960](seq901212960.md) — Assurance vieillesse des Français expatriés
+
+## Réponse
+
+*Affaires sociales, JO du 1991-12-19, page 2844*
+
+Réponse. - Il est rappelé à l'honorable parlementaire que l'assurance volontaire vieillesse, dont la loi n° 65-555 du 10 juillet 1965, dite loi Armengaud, a étendu le bénéfice aux personnes de nationalité française salariées ou assimilées travaillant hors du territoire français, est ouverte, dans des conditions analogues, à d'autres catégories de personnes, notamment aux anciens assurés obligatoires et aux personnes qui remplissent les obligations de la tierce personne auprès de leur conjoint ou d'un membre de leur famille. Une modification de l'article R. 742-4 du code de la sécurité sociale prévoyant la répartition des assurés sociaux volontaires en quatre catégories pour le calcul du montant de la cotisation ne pourrait intervenir au bénéfice des seuls français expatriés. Elle devrait concerner l'ensemble des assurés volontaires qui participent, sur la base de leurs facultés contributives respectives, au financement du régime général de la sécurité sociale, dontils perçoivent en retour les prestations. Les difficultés que connaissent actuellement les régimes de retraite ne permettent pas d'envisager une mesure aboutissant à une diminution des ressources du régime général de la sécurité sociale. Il ne semble pas, enfin, qu'une cotisation calculée sur une assiette forfaitaire égale à la moitié du plafond de la sécurité sociale (3e catégorie) représente un effort contributif hors de mesure pour bénéficier d'une pension de retraite aux mêmes conditions que l'ensemble des assurés du régime général et selon les mêmes règles de calcul de la prestation, qu'il s'agisse de la détermination du taux, de la validation des périodes ou du calcul de la pension elle-même.
