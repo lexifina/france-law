@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900107754
+
+- Question : [SEQ900107754](seq900107754.md) — Analyse des eaux des étangs de production de coquillages
+
+## Réponse
+
+*Mer, JO du 1990-03-08, page 502*
+
+Réponse. - L'Institut français de recherche pour l'exploitation de la mer (Ifremer) est un établissement public placé sous la double tutelle du ministère délégué chargé de la mer et du ministère chargé de la recherche et de la technologie. Pour le compte du ministère délégué chargé de la mer, il a notamment pour mission d'assurer le suivi de la qualité du milieu marin du point de vue bactériologique. La méthode d'analyse des échantillons prélevés a été définie dans une circulaire conjointe " Mer-Agriculture " d'avril 1988 visant à " l'harmonisation du contrôle bactériologique des coquillages ". Lorsqu'il a paru nécessaire, en décembre 1989, de renforcer le suivi microbiologique de la qualité de l'eau de l'étang de Thau en faisant appel à trois laboratoires, chacun d'entre eux a, au cours de ses analyses, mis en évidence, à un moment ou à un autre, la présence de salmonelles dans cet étang. Ceci confirme, s'il en était besoin, la fiabilité des analyses effectuées par le laboratoire Ifremer de Sète et le caractère incontestable de ses résultats. Quant à la communication entre le ministère, les instituts et les exploitants, elle a été réalisée très rapidement au sein d'une cellule mise en place à cet effet au ministère délégué chargé de la mer ; en faisaient notamment partie des représentants des autres ministères concernés (agriculture, santé, environnement, consommation...) et de l'Ifremer ainsi que le président du comité interprofessionnel de la conchyliculture. Chaque réunion de cette cellule a été suivie de la publication d'un communiqué largement diffusé. La même volonté de concertation s'est manifestée au niveau local par de nombreuses réunions organisées à l'initiative de la préfecture de l'Hérault.
