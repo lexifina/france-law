@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010332116
+
+- Question : [SEQ010332116](seq010332116.md) — Législation relative à la taxe professionnelle et aux handicapés
+
+## Réponse
+
+*Économie, JO du 2001-08-23, page 2721*
+
+Faciliter l'insertion professionnelle des personnes handicapées constitue un des objectifs du Gouvernement. Au total, ce sont ainsi plus de 5,85 millions de francs qui sont inscrits dans la loi de finances initiale pour 2001 sur le budget emploi afin de favoriser l'emploi des travailleurs handicapés. Des mesures spécifiques ont également été annoncées par le Premier ministre le 25 janvier 2000 dans le cadre du plan pluriannuel en faveur des personnes handicapées, qui représente un montant total de 2,52 millions de francs, incluant notamment la modernisation des ateliers protégés. La taxe professionnelle ne constitue pas l'outil le plus opérationnel pour soutenir l'initiative des employeurs dans ce domaine. La mesure proposée conduirait à distinguer les immobilisations retenues pour le calcul des bases de taxe professionnelle selon leur objet ou leur destination et remettrait en cause les principes de cette taxe. Un tel dispositif rendrait en outre plus complexe la gestion de la taxe, tant pour les redevables eux-mêmes que pour les services. Il existe, par ailleurs, diverses dispositions en matière de taxe professionnelle qui sont susceptibles d'atténuer les conséquences de l'acquisition d'équipements importants. Du fait de la période de référence retenue pour l'établissement de cette taxe, les matériels ne sont imposés que deux ans après leur acquisition. Enfin, les cotisations de taxe professionnelle sont plafonnées en fonction de la valeur ajoutée produite au cours de l'année d'imposition. Ces différentes mesures s'appliquent déjà aux redevables de la taxe professionnelle qui investissent dans des équipements spécifiques nécessaires à l'accueil de salariés handicapés.
