@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951112802
+
+- Question : [SEQ951112802](seq951112802.md) — Abaissement du seuil d'éligibilité à la prime d'aménagement du territoire
+
+## Réponse
+
+*Aménagement du territoire, JO du 1996-03-07, page 519*
+
+Réponse. - Le décret no 95-149 du 6 février 1995 fixe à 20 millions de francs le niveau minimal d'investissement exigé pour qu'une entreprise industrielle ayant un projet de création, d'extension, de reprise ou de conversion puisse bénéficier de la prime d'aménagement du territoire. Ces critères ont été fixés dans la continuité des textes antérieurs, de manière à mobiliser des crédits de l'Etat pour les projets qui paraissent de nature à peser fortement sur l'évolution économique d'un territoire en raison de leurs effets structurants en réservant le bénéfice de la prime d'aménagement du territoire aux projets industriels les plus importants. Par ailleurs, la création d'emplois résultant des initiatives des petites et moyennes entreprises et des services représente un enjeu important et des mesures très novatrices y sont consacrées dans la loi d'orientation pour l'aménagement et le développement du territoire du 4 février 1995. Certains avantages fiscaux prévus par la loi, notamment des exonérations de taxe professionnelle, peuvent ainsi s'appliquer, dès lors que l'implantation s'effecture dans une zone éligible au régime de la prime d'aménagement du territoire industrielle, sans pour autant nécessiter une attribution de crédits. D'autres outils peuvent également être mobilisés pour ces investissements tels que le Fonds de développement des petites et moyennes industries (FDPMI), dont les interventions sont également modulées en fonction de la carte de la PAT, ou des dispositifs d'aide mis en place à l'initiative des collectivités locales dans le cadre des lois de décentralisation.
