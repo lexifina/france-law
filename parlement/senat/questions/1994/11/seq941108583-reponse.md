@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941108583
+
+- Question : [SEQ941108583](seq941108583.md) — Financement des centres d'aide par le travail
+
+## Réponse
+
+*Affaires sociales, JO du 1994-12-08, page 2888*
+
+Réponse. - Les organismes publics et les associations gestionnaires des centres d'aide par le travail connaissent depuis plusieurs années des difficultés financières croissantes dont ils attribuent la responsabilité au décalage entre les évolutions salariales auxquelles ils sont soumis du fait des statuts ou des conventions collectives dont relèvent leurs personnels et l'évolution de leurs dotations budgétaires. Pour apprécier et évaluer la situation financière réelle de ces structures, une inspection commune a été confiée à l'inspection générale des affaires sociales et à l'inspection générale des finances. Les conclusions de cette mission, qui ont été publiées, confirment que les situations d'un établissement à l'autre et, plus généralement, d'un département à un autre sont disparates. La mission IGAS-IGF formule donc des recommandations à court et à moyen terme, notamment l'élaboration de budgets " base zéro ", ce qui implique le réexamen systématique des conventions et des budgets. En effet, les coûts moyens de fonctionnement d'une place de CAT étant très dispersés, une simple réactualisation de ce coût ne ferait qu'accroître les disparités constatées et ne résoudrait aucunement les difficultés des établissements les moins bien dotés. En conséquence, les services déconcentrés du ministère ont reçu pour tâche prioritaire d'examiner les conventions les liant aux établissements et sont aidés dans cette tâche par une mission d'appui. Dès maintenant, les situations les plus aiguës sont examinées au cas par cas, afin qu'aucun établissement ne ferme en raison de l'insuffisance des moyens financiers nécessaires à son fonctionnement.
