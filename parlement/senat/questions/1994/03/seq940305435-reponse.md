@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940305435
+
+- Question : [SEQ940305435](seq940305435.md) — Projet d'une constitution pour l'Union européenne
+
+## Réponse
+
+*Affaires européennes, JO du 1994-04-28, page 1000*
+
+Réponse. - Il est exact, comme le souligne l'honorable parlementaire, que la commission institutionnelle du Parlement européen a adopté le rapport Herman sur le projet de constitution de l'Union européenne. Il convient toutefois de préciser que, si les parlementaires européens se sont prononcés de façon positive en séance publique le mercredi 9 février sur une résolution relative à la constitution de l'union, ils ont aussi adopté un amendement précisant que le projet de constitution avait le statut d'annexe. Aucun vote n'a eu donc lieu en particulier sur ledit texte, qui n'est plus qu'un document de réflexion qui sera soumis au prochain Parlement européen. La résolution adoptée invite les chefs d'Etat et de gouvernement à désigner un groupe de personnalités indépendantes chargé d'examiner le projet. Les chefs d'Etat et de gouvernement n'ont pas réagi à cette invitation. D'une façon générale, le Gouvernement considère que le traité sur l'Union européenne a fixé un rendez-vous sur les questions institutionnelles, la conférence intergouvernementale de 1996. Le débat institutionnel ne doit pas être engagé de façon prématurée. Il devra être aussi soigneusement préparé. C'est en ayant à l'esprit ces préoccupations que les ministres des affaires étrangères ont envisagé le 25 mars, à la suite de leur rencontre informelle à Ioannina, de proposer la création, dans les mois à venir, d'un groupe de réflexion composé de représentants des ministres des affaires étrangères. Celui-ci commencerait ses travaux à l'été 1995 sur la base de rapports qui seraient établis entre-temps par la commission, le conseil, et le Parlement européen.
