@@ -44,4 +44,8 @@ IX. Le montant du crédit d'impôt à reverser est majoré de l'intérêt de ret
 
 X. Pour l'application du présent article, les souscriptions en numéraire versées entre le 15 novembre et le 31 décembre 1991 et liées à une augmentation de capital décidée au cours de la même période sont réputées avoir été versées le 1er janvier 1992.
 
-XI. Un décret fixe les conditions d'application du présent article, notamment les obligations déclaratives des sociétés. "
+X bis. Les dispositions du présent article ne sont pas applicables à la personne morale qui bénéficie du crédit d'impôt mentionné au I de l'article 220 septies.
+
+XI. Un décret fixe les conditions d'application du présent article, notamment les obligations déclaratives des sociétés (1).
+
+(1) Voir les articles 46 quater-0 YD et 46 quater-0 YE de l'annexe III.
