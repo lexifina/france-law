@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020238459
+
+- Question : [SEQ020238459](seq020238459.md) — Accès des infirmiers du secteur privé aux hôpitaux publics
+
+## Réponse
+
+*Santé, JO du 2002-04-25, page 1183*
+
+Les pouvoirs publics ont veillé à accompagner depuis de nombreuses années le recrutement des personnels infirmiers issus du secteur privé au sein des établissements publics de santé. Au préalable, il convient de souligner que la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière précise que les corps et emplois sont recrutés et gérés dans le cadre de chaque établissement. Au-delà de ce principe d'autonomie de gestion, il a été envisagé depuis de nombreuses années de favoriser l'expérience professionnelle acquise par les infirmiers du secteur privé. Ainsi le décret n° 93-317 du 10 mars 1993 prévoit-il la prise en compte de la totalité des services accomplis par les infirmiers diplômés d'Etat dans les établissements privés de santé avant leur recrutement dans la fonction publique hospitalière. Enfin, le décret n° 2001-1375 du 31 décembre 2001 portant statut particulier du corps des cadres de santé de la fonction publique hospitalière permet dorénavant au personnel infirmier titulaire du diplôme de cadre de santé et ayant exercé pendant au moins cinq ans à temps plein ou d'une durée de cinq ans équivalent temps plein, dans le secteur privé, de présenter leur candidature aux concours sur titres de cadre de santé organisés par les établissements publics de santé. 10 % des postes ouverts au concours leur sont réservés. Le futur décret portant statut particulier du corps de directeur des soins sera également ouvert, dans le cadre d'un concours externe, aux candidats du secteur privé titulaires du diplôme de cadre de santé appartenant, entre autres, à la filière infirmière ayant exercé pendant au moins dix ans dont cinq ans équivalent temps plein en qualité de cadre.
