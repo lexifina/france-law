@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010130445
+
+- Question : [SEQ010130445](seq010130445.md) — Conditions de financement par l'Etat des investissements forestiers de production
+
+## Réponse
+
+*Agriculture, JO du 2001-04-26, page 1427*
+
+Réponse. - Le seuil de surface minimale rendant éligible un projet de boisement ou de reboisement est fixé à quatre hectares d'un seul tenant par la circulaire du 18 août 2000, à l'exeption des plantations de peupliers ou de noyers pour lesquelles la surface minimale est fixée à un hectare. Dans le cas particulier des tempêtes de décembre 1999, le seuil de quatre hectares a été ramené à un hectare pour le nettoyage et la reconstitution des forêts sinistrées, afin de permettre à un plus grand nombre de propriétaires, notamment en Ile-de-France, de reconstituer leur patrimoine forestier. Des raisons techniques et économiques ont conduit à ne pas ramener se seuil en deçà d'un hectare d'un seul tenant. Les petites parcelles se régénèrent facilement de façon naturelle, notamment grâce aux effets de lisière et d'abri des arbres restants. Des critères économiques ont également été pris en considération. Les petites surfaces reconstituées sont très vulnérables aux dégâts de gibier et nécessitent de la part des propriétaires des frais de protection souvent disproportionnés compte tenu de l'enjeu économique de la plantation. Le morcellement de la propriété forestière privée a conduit à la mise en place d'une mesure nouvelle : lorsqu'un ensemble de petites parcelles contiguës appartenant à des propriétaires différents permet d'atteindre le seuil d'un hectare d'un seul tenant, ces propriétaires ont la possibilité de regrouper leurs dossiers de demande pour pouvoir bénéficier des aides. Une circulaire en date du 26 décembre 2000 précise les modalités d'application de cette mesure.
