@@ -8,8 +8,8 @@ Pour l'application de l'article R. 351-21-3 :
 
 - le coefficient y est fixé à 0,038 ;
 
-- le montant auquel le produit yR ne peut être inférieur est fixé à 234,12 euros.
+- le montant auquel le produit yR ne peut être inférieur est fixé à 228,15 euros.
 
 NOTA :
 
-NOTA : Arrêté du 23 décembre 2002 : Les dispositions du présent article sont applicables pour les prestations dues à compter du mois de juillet 2002.
+NOTA : Arrêté du 30 avril 2004 : Les dispositions du présent article sont applicables pour les prestations dues à compter du mois de juillet 2003.
