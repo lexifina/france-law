@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010332121
+
+- Question : [SEQ010332121](seq010332121.md) — Reconnaissance en paternité des enfants conçus hors mariage
+
+## Réponse
+
+*Justice, JO du 2001-07-05, page 2252*
+
+La garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que l'établissement volontaire de la filiation paternelle hors mariage ne peut résulter, hors le cas, en pratique subsidiaire, de la possession d'état, que d'un acte volontaire par lequel le père reconnaît officiellement sa paternité et accepte d'en assumer toutes les conséquences légales. Cet acte peut être antérieur, concomitant ou postérieur à la naissance. A cet égard, la pratique des reconnaissances prénatales, qui permet d'officialiser et de stabiliser au plus tôt la filiation d'un enfant, connaît uen augmentation significative. C'est ainsi qu'en 1995, sur 256 653 naissances hors mariage, 185 643 enfants ont été reconnus par le père au plus tard le jour de leur naissance. En outre, le nombre des reconnaissances prénatales conjointes par les père et mère, qui ont concerné 39 % des naissances hors mariage en 1995, a tendance à se généraliser depuis ces dernières années. Le Gouvernement a le souci de sécuriser le lien de filiation de l'enfant et de responsabiliser les parents. En revanche, subordonner l'établissement de la filiation des enfants nés hors mariage à la preuve préalable du lien biologique constituerait une règle discriminatoire en contradiction avec la volonté affirmée dans le cadre de la réforme du droit de la famille de parfaire l'égalité des enfants en supprimant la distinction entre filiation légitime et filiation naturelle et avec le principe de responsabilité qui fonde les règles d'établissement de la filiation à l'égard de ces enfants. En tout état de cause, une reconnaissance mensongère peut être contestée par tout intéressé.
