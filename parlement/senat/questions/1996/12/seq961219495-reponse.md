@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961219495
+
+- Question : [SEQ961219495](seq961219495.md) — Projet de réforme de l'établissement national des invalides de la marine
+
+## Réponse
+
+*Équipement, JO du 1997-02-27, page 628*
+
+Réponse. - L'honorable parlementaire reprend les différents éléments soulevés, lors de la séance du 16 juillet 1996, par le Conseil supérieur de l'Etablissement national des invalides de la marine (ENIM) en ce qui concerne la réforme de cette institution. Ces points ne paraissent plus aujourd'hui soulever de difficultés particulières. En effet, s'agissant en premier lieu de la délégation de signature du directeur général de l'ENIM, la réforme s'accompagne d'une modification des textes législatifs et réglementaires relatifs à la gestion du régime, qui prévoient que certaines décisions à caractère individuel relèvent du ministre chargé de la marine marchande. Ces actes, actuellement pris par le directeur de l'ENIM par délégation de l'autorité ministérielle, le seront dorénavant - conséquence de l'autonomie de gestion par rapport à l'Etat - sous la pleine responsabilité du directeur général du nouvel établissement. Tout naturellement, les actes réglementaires continueront de relever de la tutelle ministérielle à laquelle il appartiendra, s'il y a lieu, de veiller à éviter les éventuels éléments de complication que redoute votre correspondant. Cette tutelle, établie normalement comme sur tout établissement public, sera la plus légère possible, et n'altérera nullement le bon fonctionnement de l'établissement public. Pour ce qui concerne la question du secrétariat du Conseil supérieur, il a été décidé de retenir la formule proposée par son président ; le secrétariat sera donc placé sous l'autorité du président du Conseil supérieur, avec des moyens fournis par l'ENIM.
