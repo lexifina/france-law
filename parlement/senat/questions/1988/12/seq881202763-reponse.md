@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881202763
+
+- Question : [SEQ881202763](seq881202763.md) — Retraite des agriculteurs
+
+## Réponse
+
+*Agriculture, JO du 1989-01-26, page 137*
+
+Réponse. - La situation des agriculteurs qui ne sont pas en mesure de céder leurs terres en l'absence notamment de repreneur potentiel est réglée par l'article 12 de la loi du 6 janvier 1986. Aux termes de cet article, les exploitants agricoles qui sont dûment reconnus par la commission départementale des structures agricoles comme étant dans l'impossibilité de céder leurs terres dans les conditions normales du marché peuvent être autorisés temporairement à poursuivre leur activité tout en bénéficiant de leur pension de retraite. Il conviendrait donc de conseiller aux assurés, dont le cas est présentement évoqué, d'adresser une demande d'autorisation de poursuite d'activité au préfet, par l'intermédiaire de la direction départementale de l'agriculture et de la forêt. Ceci étant rappelé, il n'est pas envisagé de revenir sur le principe de la cessation d'activité imposée aux agriculteurs qui partent à la retraite. Lorsqu'elle est possible, cette condition est eneffet de nature à favoriser la modernisation des structures agricoles et l'installation des jeunes. En revanche, lorsque la cessation d'activité s'avère impossible, il est apparu nécessaire d'apporter des aménagements aux règles précitées, pour tenir compte de certaines difficultés constatées dans la pratique. Ainsi, le projet de loi d'adaptation de l'exploitation agricole à son environnement économique et social tend-il à conférer un pouvoir d'appréciation notablement élargi aux commissions départementales précitées, qui seront ainsi désormais en mesure de se prononcer sur les diverses raisons, notamment les motifs d'ordre juridique, qui s'opposent à une cession des terres et qui peuvent justifier une dérogation momentanée à l'obligation de cessation d'activité.
