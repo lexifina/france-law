@@ -1,0 +1,7 @@
+# Toulouse métropole : délibération — Session extraordinaire - Conseil municipal. Séance du 5 juin 1925 p. 145
+
+- Collectivité : Toulouse métropole
+- SIREN : 243100518
+- Date : 1925-05-06
+- Objet : Session extraordinaire - Conseil municipal. Séance du 5 juin 1925 p. 145
+- Jeu de données : https://www.data.gouv.fr/datasets/56b0c2c1a3a7294d39b88a5b
