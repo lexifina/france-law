@@ -2,7 +2,7 @@
 
 Pour la branche Service des lignes :
 
-1° Un premier concours est ouvert aux candidats masculins âgés de dix-sept ans au moins et de moins de quarante-cinq ans.
+1° Un premier concours est ouvert aux candidats âgés de dix-sept ans au moins et de moins de quarante-cinq ans.
 
 2° Un deuxième concours est réservé :
 
@@ -10,7 +10,7 @@ a) Aux fonctionnaires des postes et télécommunications âgés de moins de quar
 
 b) Aux agents non titulaires des postes et télécommunications âgés de moins de quarante-cinq ans, ces candidats pouvant bénéficier, dans la limite de cinq ans, d'un recul de la limite d'âge supérieure pour services valables ou validables pour la retraite accomplis dans l'administration des postes et télécommunications.
 
-c) Aux fils, âgés de dix-sept ans au moins et de moins de vingt-et-un ans, de fonctionnaires des postes et télécommunications décédés ou ayant dû cesser leurs fonctions à raison d'une invalidité pour laquelle ils bénéficient d'une pension.
+c) Aux enfants, âgés de dix-sept ans au moins et de moins de vingt-et-un ans, de fonctionnaires des postes et télécommunications décédés ou ayant dû cesser leurs fonctions à raison d'une invalidité pour laquelle ils bénéficient d'une pension.
 
 Le même nombre de places est offert pour chacun des deux concours.
 
