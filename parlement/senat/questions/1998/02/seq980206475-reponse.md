@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980206475
+
+- Question : [SEQ980206475](seq980206475.md) — Calendrier d'affectation des chars Leclerc
+
+## Réponse
+
+*Défense, JO du 1998-04-30, page 1387*
+
+Réponse. - La loi no 96-589 du 2 juillet 1996 relative à la programmation militaire pour les années 1997-2002 prévoit la réalisation de 406 chars Leclerc. Dans ce cadre, 222 blindés ont déjà été commandés à la société Giat-Industries. Les affectations de chars Leclerc au sein de l'armée de terre, à la fin de l'année 1997, ont été réalisées au profit de régiments des forces mais également en faveur des écoles ou des centres d'instruction. Ainsi, dans les forces, 80 chars ont été livrés au régiment de Mourmelon et 10 à celui de Fontevraud. S'agissant des écoles et des centres d'instruction, 5 blindés ont été affectés à l'école d'application de l'arme blindée cavalerie de Saumur, 8 au centre de Carpiagne, 10 à celui de Canjuers et un à l'école supérieure d'application du matériel de Bourges. S'agissant des prévisions d'affectation des chars Leclerc, celles-ci sont arrêtées selon le calendrier suivant : l'équipement du régiment d'Olivet s'effectuera de 1998 à mi-2000, celui de Fontevraud de 2000 à 2001, celui de Carpiagne et de Verdun étant respectivement prévu de 2002 à mi-2004 et de 2004 à 2006. Par ailleurs, concernant l'exportation de ce blindé, il convient de rappeler que 390 chars Leclerc ont été commandés en 1993 par les Emirats Arabes Unis. De plus, Giat-Industries prépare actuellement une réponse à un appel d'offres pour un nombre important de chars. Avec le concours et l'appui de l'Etat, Giat-Industries cherche à se positionner au mieux sur les marchés à l'exportation, afin de pouvoir répondre à toutes sollicitations en provenance de pays intéressés par ce type d'armement. Ainsi, plusieurs pays ont d'ores et déjà fait état de leur souhait d'acquérir des systèmes d'armes blindés.
