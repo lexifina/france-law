@@ -1,0 +1,9 @@
+# Réponse à la question SEQ891107354
+
+- Question : [SEQ891107354](seq891107354.md) — Accès des veuves d'anciens combattants à l'Office national des anciens combattants et victimes de guerre
+
+## Réponse
+
+*Anciens combattants, JO du 1990-02-08, page 275*
+
+Réponse. - La situation des veuves des anciens combattants est identique quel que soit le conflit auquel a participé leur mari, qu'il s'agisse d'anciens combattants des conflits mondiaux, de prisonniers de guerre ou d'anciens combattants d'Indochine ou d'Algérie. Les veuves non pensionnées souhaitent être ressortissantes de l'Office national des anciens combattants et victimes de guerre. Cette revendication ancienne n'a pu jusqu'à présent aboutir, car elle se heurte à des obstacles d'ordre psychologique, juridique et financier. Seules, en effet, sont actuellement ressortissantes de l'office les veuves de guerre, c'est-à-dire les veuves de soldats morts au combat ou des suites de combats. C'est pourquoi le secrétaire d'Etat chargé des anciens combattants et des victimes de guerre a demandé au préfet, directeur général de l'Office national des anciens combattants et victimes de guerre, et au conseil d'administration, de donner une large interprétation à la vocation sociale de l'Office national en admettant que les épouses d'anciens combattants décédés pourront obtenir, dans l'année qui suit le décès, des secours permettant de participer, si besoin est, aux frais de dernière maladie et d'obsèques. De plus, une circulaire du 27 mars 1984, diffusée dans tous les services départementaux de l'office, permet de maintenir en permanence et sans condition de délai l'aide administrative de l'établissement public à ces veuves. Enfin, il est désormais admis que les conseils départementaux pourront utiliser les ressources affectées provenant des subventions des collectivités locales au profit des veuves d'anciens combattants présentant un cas exceptionnel à apprécier localement.
