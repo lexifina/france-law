@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001229635
+
+- Question : [SEQ001229635](seq001229635.md) — Avenir des régies locales des douanes et des droits indirects en milieu rural viticole
+
+## Réponse
+
+*Économie, JO du 2001-05-17, page 1675*
+
+Réponse. - Les formalités applicables aux contributions indirectes ont fait l'objet de mesures de simplification, dans le cadre d'une réforme à laquelle la direction générale des douanes et droits indirects travaille depuis plusieurs années avec tous les acteurs de la filière viti-vinicole. La démarche retenue est fondée sur les principes de concertation et d'expérimentation préalables à toute décision. Ainsi, dans les régions viti-vinicoles, ces mesures ont été mises en uvre après avoir pris en compte l'avis des milieux professionnels sur la définition de règles au plus près des besoins des utilisateurs et sur la mise en place à titre expérimental de l'organisation la mieux adaptée à leurs attentes. L'objectif est de simplifier et de moderniser ces formalités, sans remettre en cause le service de proximité. C'est ainsi que les viticulteurs pourront soit continuer à travailler avec les recettes locales et les correspondants locaux, comme ils avaient l'habitude de le faire auparavant, soit accomplir désormais leurs formalités chez eux, sans se déplacer. Les correspondants locaux dont l'activité deviendrait résiduelle en matière de contributions indirectes, bénéficieront d'un plan d'accompagnement mis en place après une large concertation avec leurs représentants. Ceux d'entre eux qui le souhaitent pourront cesser leur activité et recevront une aide pécuniaire comprise entre 20 000 francs (3 048,98 euros) et 100 000 francs (15 244,90 euros). Le mode de rémunération de ceux qui souhaiteront continuer à exercer cette activité sera revu, dans un souci de simplification, par l'introduction d'un forfait.
