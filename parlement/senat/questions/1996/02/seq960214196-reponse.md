@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960214196
+
+- Question : [SEQ960214196](seq960214196.md) — Prise en compte de l'académie de la Réunion dans la politique de lutte contre la violence à l'école
+
+## Réponse
+
+*Éducation, JO du 1996-08-08, page 2065*
+
+Réponse. - Parmi les différentes mesures décidées par la Premier ministre dans le cadre du pacte de relance pour la ville et du plan gouvernemental de luttre contre la violence, figure la nécessité d'effectuer un bilan de la situation des ZEP et de réfléchir à une évolution possible de leur carte afin d'harmoniser ce dispositif avec celui des zones urbaines sensibles. Les deux inspections générales du ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche procédant à ce bilan en relation avec les directions du ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche concernées ainsi que les recteurs d'académie, afin d'évaluer l'impact du dispositif ZEP et d'éclairer les décisions à prendre pour aménager la carte des ZEP. L'arbitrage du Premier minstre entre le ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche et le ministre de l'économie et des finances, relatif à l'attribution de la nouvelle bonification indiciaire (NBI) aux personnels des établissements sensibles stabilise la liste à 175 établissements pour 1995 et les années suivantes. En conséquence, toute entrée supplémentaire dans la liste devra être compensée par une sortie concomitante. Toutefois, conscient de la réalité des problèmes rencontrés par l'académie de la Réunion, il a été décidé dans le cadre du plan de luttre contre la violence, de l'octroi exceptionnel pour la rentrée 1996, de 9 postes de maître d'internat et surveillants d'externat (MISE) et de 4 postes de conseillers principaux d'éducation.
