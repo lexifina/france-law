@@ -1,0 +1,3 @@
+# Article 1er
+
+Il est créé au sein de la commission paritaire nationale de l'emploi de la branche professionnelle des entrepositaires-grossistes en bière, eaux minérales, jus de fruits et boissons diverses, telle qu'elle est prévue à l'article 9.1-VIII de la convention collective nationale, un groupe technique paritaire sur la formation professionnelle continue composé d'un représentant par organisation syndicale de salariés signataire du présent accord et d'un nombre égal de représentants patronaux nommés par la fédération nationale des boissons. Le groupe technique paritaire pourra convier à participer à ses travaux, à titre d'expert, tout collaborateur de l'OPCA de branche professionnelle (AGEFAFORIA), de même que toute personne qu'elle jugera nécessaire.
