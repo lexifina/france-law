@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980307205
+
+- Question : [SEQ980307205](seq980307205.md) — Situation de l'Union de l'Europe occidentale (UEO)
+
+## Réponse
+
+*Affaires étrangères, JO du 1998-06-11, page 1866*
+
+Réponse. - Il est exact, comme le relève l'honorable parlementaire, que l'UEO n'est pas actuellement militairement présente en Bosnie, en Albanie et au Kosovo. L'UEO est, en revanche, présente au titre de l'Elément multinational de conseil en matière de police (EMCP), en Albanie. Cet engagement a été pris à l'initiative de la France, de manière concomitante (mai 1997), avec l'intervention de la Force multinationale de protection (opération Alba). L'EMCP, dirigé par un officier supérieur de la gendarmerie française, assure, depuis cette date, la formation des policiers albanais. S'il est, en effet, apparu qu'il n'y aurait pas consensus parmi nos partenaires européens pour engager l'UEO en Albanie notamment - et les décisions dans cette organisation se prennent par consensus - il n'est pas exact que ceux-ci souhaitent que l'alliance atlantique s'occupe seule de cette région. L'opération Alba, qui comptait des pays représentés à un titre ou à un autre à l'UEO (membres pleins : Italie, France, Portugal, Grèce ; membre associé : Turquie ; observateur : Autriche ; associés partenaires : Roumanie et Slovénie) s'est déroulée en dehors de l'Alliance atlantique sur une base ad hoc. S'agissant du Kosovo, nous n'en sommes pas au point de décider si l'Alliance atlantique ou l'UEO doivent intervenir. Le problème est d'enclencher une dynamique de négociation entre Serbes et Albanais afin de trouver une solution durable et mutuellement acceptable. La France concentre donc ses efforts sur le terrain diplomatique et veillera à ce que les pays du groupe de contact (outre la France, le Royaume-Uni, l'Allemagne, l'Italie, les Etats-Unis et la Russie) maintiennent une approche cohérente et unitaire afin de favoriser au mieux le dénouement de cette crise.
