@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881001815
+
+- Question : [SEQ881001815](seq881001815.md) — Préparation du débat parlementaire relatif au revenu minimum d'insertion
+
+## Réponse
+
+*Solidarité, JO du 1989-01-26, page 150*
+
+Réponse. - La loi n° 88-1088 du 1er décembre 1988 relative au revenu minimum d'insertion a été adoptée définitivement par l'Assemblée nationale le 30 novembre dernier, après deux lectures au Sénat. Le dispositif retenu par le Parlement prévoit que les décisions d'admission au revenu minimum d'insertion sont prises par le préfet, qui, à l'occasion du renouvellement de ce droit, recueille l'avis d'une commission locale d'insertion où siègent des élus locaux. Lors de l'examen de cet important projet de loi du Parlement, la question de la décentralisation a été évoquée à plusieurs reprises et la qualité de la gestion par les départements de l'aide sociale qui leur a été confiée en 1984 soulignée par tous les intervenants. S'agissant du bilan global de cette réforme, le rapport adopté par le Conseil économique et social en juin dernier sur les conséquences de la décentralisation en matière d'aide sociale constitue à ce jour la synthèse la plus complète. D'autre part,le législateur a prévu que le Gouvernement présentera au Parlement avant le 2 avril 1992 un rapport d'évaluation d'ensemble et déposera un projet de loi visant à procéder aux adaptations qui, au vu de ce rapport, lui apparaîtraient nécessaires, la durée d'application de la loi étant limitée au 30 juin 1992. Quant à l'évolution des dépenses d'aide sociale dépuis 1982, elles ont fait l'objet d'un document d'information n° 116 du 25 avril 1988 " dépenses d'aide sociale, évolution 1979-1985 " établi par le service des statistiques, des études et des syntèmes d'information, dont la densité ne permet pas sa publication dans le cadre de cette réponse mais qui a été transmis à l'honorable parlementaire.
