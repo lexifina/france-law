@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001028501
+
+- Question : [SEQ001028501](seq001028501.md) — Restauration scolaire : déséquilibres nutritionnels constatés
+
+## Réponse
+
+*Famille, JO du 2001-06-21, page 2098*
+
+Le régime alimentaire des enfants, ainsi que leur mode de vie, contribuent de façon majeure à l'augmentation très rapide de l'obésité de l'enfant que connaît la France. De plus, par rapport aux recommandations, certains déséquilibres des apports nutritionnels ont pu être constatés. La restauration scolaire, qui ne concerne qu'environ 180 repas sur les quelque 1 000 consommés annuellement, ne peut à elle seule renverser ces tendances et améliorer la situation, mais elle peut y contribuer, d'autant qu'elle a aussi un rôle pédagogique. Le ministère de la santé a lancé en janvier 2001 un programme national nutrition-santé qui implique divers ministères, notamment celui de l'éducation nationale. Il prévoit la publication de la " circulaire relative à la composition des repas servis en restauration scolaire et à la sécurité des aliments ", cosignée par les ministres de l'éducation nationale, de l'agriculture et de la pêche, le ministre délégué à la santé et le secrétaire d'Etat aux petites et moyennes entreprises, au commerce, à l'artisanat et à la consommation. Sur le plan de la nutrition, cette circulaire reprend notamment les recommandations du groupe permanent d'étude des marchés des denrées alimentaires, qui visent l'amélioration de la qualité nutritionnelle des repas pris en collectivité. Elle suggère diverses orientations pour améliorer plus globalement l'offre alimentaire dans les établissements scolaires, notamment par la mise en place de fontaines d'eau fraîche, l'amélioration sur le plan nutritionnel de l'offre des distributeurs. Elle insiste également sur le rôle de l'école dans l'acquisition d'attitudes et de comportements alimentaires favorables à la santé, y compris l'éducation du goût.
