@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990617196
+
+- Question : [SEQ990617196](seq990617196.md) — Situation dans la région de Jezzine, au Liban
+
+## Réponse
+
+*Affaires étrangères, JO du 1999-08-05, page 2641*
+
+Réponse. - L'Armée du Liban Sud a quitté, le 3 juin dernier, la région de Jezzine qu'elle occupait depuis 1985. Les plus hautes autorités libanaises se sont rendues à Jezzine dans les jours qui ont suivi : le Premier ministre le 4 juin et le Président de la République le 5 juin. Ils ont promis le retour de l'ensemble des services publics dans la région libérée et une unité de la gendarmerie libanaise s'est déployée pour assurer l'ordre public. Ces mesures ont réussi à rassurer les populations civiles. Les forces du Hezbollah n'ont pas tenté de s'installer dans la région et la population civile n'a été en aucune mesure inquiétée depuis le départ de l'ALS. Par contre, plus de deux cent miliciens ou anciens miliciens de l'ALS ont choisi de rester à Jezzine et de se mettre à disposition des autorités libanaises. Cent quatre-vingt un ont été arrêtés et doivent répondre de collaboration avec l'occupant israélien. Ils sont traités correctement et les visites des familles sont autorisées trois jours par semaine. Les avocats en charge de la défense des anciens miliciens peuvent leur rendre visite sans difficultés. Le gouvernement libanais a indiqué qu'il n'y aura pas de procès collectif et que chaque personne incriminée sera jugée dans le respect des règles de droit. La situation qui prévaut dans la région de Jezzine ne paraît pas devoir susciter de préoccupation particulière. La sécurité et la tranquillité des populations civiles sont assurées par les autorités libanaises. L'honorable parlementaire peut avoir l'assurance que la France continuera à suivre l'évolution de la situation à Jezzine et à être vigilante sur le respect des droits de l'homme au Liban.
