@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941209239
+
+- Question : [SEQ941209239](seq941209239.md) — Prime de rentrée scolaire
+
+## Réponse
+
+*Affaires sociales, JO du 1995-02-09, page 325*
+
+Réponse. - L'allocation de rentrée scolaire a été créée en 1974. Son bénéfice était alors lié à celui d'une autre prestation familiale et, en ce qui concerne la condition relative à l'âge des enfants ouvrant droit, référence était faite dans la loi, à l'exécution de l'obligation scolaire. A la rentrée scolaire de 1990, cette prestation a fait l'objet d'une double mesure d'extension : l'âge limite des enfants ouvrant droit à l'allocation a été porté à dix-huit ans, soit au-delà de l'obligation scolaire et son bénéfice a été ouvert aux allocataires bénéficiant d'une prestation familiale ou d'autres prestations versées par la caisse d'allocations familiales. Ces dispositions qui prennent en compte la prolongation de la scolarité ont permis également de couvrir largement le champ des familles aux revenus modestes et n'ayant qu'un enfant. En 1993 et 1994, la majoration de l'allocation de rentrée scolaire a représenté un coût d'environ 6 milliards de francs et a bénéficié à plus de deux millions et demi de familles pour chacune des deux années. Cette majoration qui est prise en charge par le budget de l'Etat, demeure une mesure à caractère exceptionnel. Il n'est donc pas possible d'en tenir compte dans une proposition de versement d'allocation dégressive. En outre, compte tenu du montant de l'allocation, hors majoration exceptionnelle, l'instauration d'une allocation différentielle pour les personnes dont les revenus excèdent le plafond de référence aurait un caractère plus symbolique que réel. Il faut par ailleurs rappeler que le Gouvernement a fait un effort considérable en faveur des familles avec les mesures contenues dans la loi du 25 juillet 1994 qui représentent un engagement financier de 60 milliards de francs sur les cinq années à venir.
