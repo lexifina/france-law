@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860400324
+
+- Question : [SEQ860400324](seq860400324.md) — Français établis en Espagne: permis de travail
+
+## Réponse
+
+*Affaires étrangères, JO du 1986-08-28, page 1196*
+
+Réponse. -Le texte de l'article 18 de la loi organique n° 7 du 1er juillet 1985 sur les droits et libertés des étrangers en Espagne prévoit, dans son troisième paragraphe, un traitement préférentiel pour l'obtention du permis de travail par le conjoint ou l'enfant d'un étranger possédant lui-même un permis. Par ailleurs, les instructions du 23 décembre 1985 du ministère du travail espagnol et de l'institut d'émigration, en leur chapitre VI relatif " aux parents de travailleurs communautaires permanents " (c'est-à-dire autorisés à exercer une activité pour une durée supérieure à une année), mentionnent au paragraphe 6.2.1 que le conjoint ou enfant de moins de vingt et un ans (ou majeurs à charge) peut séjourner en Espagne quelle que soit sa nationalité. En outre, le paragraphe 6.3 ajoute que ces derniers ont droit au permis de travail valable cinq ans s'ils peuvent justifier de trois années de résidence en Espagne lors de la demande de permis si cette dernières'effectue au cours des trois premières années faisant suite à l'adhésion de l'Espagne à la Communauté économique européenne, ou de dix-huit mois au cas où la demande serait faite au cours de la quatrième ou de la cinquième année postérieure à la date de l'adhésion (c'est-à-dire du 1er janvier 1989 au 31 décembre 1990). A partir de la sixième année, ou du 1er janvier 1991, les membres de la famille du travailleur communautaire pourront accéder à l'emploi sans avoir à justifier de conditions de séjour. Dans l'hypothèse où l'honorable parlementaire aurait connaissance de cas précis, qui contrediraient les termes de la loi et des instructions précitées, il pourrait en saisir aussitôt le ministère des affaires étrangères qui ne manquerait pas d'intervenir alors auprès des autorités espagnoles.
