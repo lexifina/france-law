@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960415166
+
+- Question : [SEQ960415166](seq960415166.md) — Conditions à remplir pour que les entreprises puissent bénéficier des aides à la réduction du temps de travail
+
+## Réponse
+
+*Emploi, JO du 1996-07-11, page 1751*
+
+Réponse. - Plusieurs régions ont mis en place des dispositifs d'aide aux entreprises en matière d'aménagement et de réduction du temps de travail. La région Ile-de-France se place au premier rang, depuis plusieurs années, avec la création du CATRAL, agence régionale pour l'aménagement du temps de travail du conseil régional qui, par les études qu'elle mène, les brochures qu'elle publie, apporte une information précieuse aux acteurs régionaux. La région Ile-de-France a mobilisé également le Fonds régional d'aide au conseil, dans une perspective d'emploi : 16,5 millions de francs sont affectés à l'aide à l'organisation et à l'aménagement du temps de travail, 56 entreprises ont été aidées en 1995, 36 dossiers sont déjà acceptés pour 1996. Ces aides visent les entreprises de moins de 500 salariés, ayant au moins trois ans d'existence et sans difficultés structurelles. Il s'agit de les aider au développement du temps partiel pour les fonctions de direction ou d'encadrement, au recrutement de cadres en temps partagé, à l'étude, à l'organisation et à l'évaluation de différentes formes d'aménagement du temps de travail ou d'organisation nouvelle (temps partiel, horaires variables, annualisation, travail à distance, partage des compétences). La région Rhône-Alpes, pour sa part, vient d'adopter définitivement un dispositif qui devra lui permettre d'apporter un soutien financier aux expériences de réduction du temps de travail pratiquées par les entreprises. Le ministère délégué pour l'emploi suit de très près ces différentes expériences, à l'élaboration et au suivi desquelles les services déconcentrés de l'Etat apportent une contribution active.
