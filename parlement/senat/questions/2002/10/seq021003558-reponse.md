@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021003558
+
+- Question : [SEQ021003558](seq021003558.md) — Inscription dans les universités françaises des jeunes Français de l'étranger
+
+## Réponse
+
+*Jeunesse, JO du 2003-01-23, page 287*
+
+Depuis 2001, des mesures visant à améliorer l'accueil des titulaires du baccalauréat français passé à l'étranger et qui souhaitent poursuivre leurs études en France ont été mises en place. Ces dispositions résultent d'une volonté commune des ministères en charge de l'éducation nationale et des affaires étrangères. Parmi les mesures adoptées figure l'accélération du traitement des dossiers de préinscription (dits dossiers " bleus ") pour les titulaires ou futurs titulaires du baccalauréat français obtenu à l'étranger. L'essentiel du dispositif consiste d'une part à avancer les dates jusque-là en vigueur, d'autre part à lever les restrictions conduisant à une " pré-affectation " d'office des élèves des lycées français dans leur académie de rattachement et en conséquence d'assouplir les dispositions de l'article 5 du décret n° 2000-457 du 23 mai 2000. Concernant le calendrier, les candidats sont désormais informés au plus tôt le 15 mars et au plus tard le 30 avril du résultat de leurs demandes (au lieu de juillet), ce qui constitue une avancée indéniable. En outre, les candidats bénéficient d'une priorité d'inscription dans l'université de leur premier choix. En toute hypothèse, en cas de refus des trois universités demandées, ils bénéficient d'une garantie d'inscription dans l'académie relevant de leur centre de délibération. D'après les éléments dont on dispose, ces dispositions semblent bénéficier d'un accueil favorable de l'ensemble des utilisateurs. Elles ont été rappelées par circulaire publiée au Bulletin officiel de l'éducation nationale du 14 novembre 2002.
