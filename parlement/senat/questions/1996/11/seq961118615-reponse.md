@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961118615
+
+- Question : [SEQ961118615](seq961118615.md) — Réforme des marchés publics
+
+## Réponse
+
+*Économie, JO du 1997-01-16, page 128*
+
+Réponse. - Le Gouvernement est pleinement conscient des difficultés que pose l'existence d'offres anormalement basses dans les marchés publics, tant pour les entreprises que pour les maîtres d'ouvrage. Le rapport de M. Alfred Trassy-Paillogues, qui soulignait à juste titre les difficultés qu'entraîne cette situation, a constitué une première étape dans la réflexion. Celle-ci s'est poursuivie de manière concertée avec les élus et l'ensemble des acteurs de la commande publique, afin de trouver une solution compatible avec les différentes contraintes qui environnent le traitement des offres anormalement basses : garantir d'une part la sécurité juridique de l'acheteur public en lui permettant d'éliminer sans risques contentieux des offres qui s'avéreraient entachées d'anormalité et assurer, d'autre part, l'efficacité de la commande publique en évitant tout dispositif discriminant à l'encontre d'entreprises qui auraient présenté des offres compétitives. De manière plus générale, le Gouvernement est également conscient de la nécessité de donner un cadre rénové à l'achat public, en simplifiant les règles de procédure, en les rendant plus pédagogiques par une présentation conforme à la chronologie de l'achat public, en renforçant la méthodologie, et notamment celle de l'expression des besoins, de manière à rendre plus transparents les choix des collectivités publiques, enfin en facilitant l'accès des entreprises à la commande publique et en améliorant les modalités de règlement. C'est à la lumière des enseignements qui seront retirés de la consultation que le Gouvernement arrêtera très prochainement le projet de loi visant à la mise en oeuvre de cette réforme.
