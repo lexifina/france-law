@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911219316
+
+- Question : [SEQ911219316](seq911219316.md) — Logement des professeurs d'école
+
+## Réponse
+
+*Éducation, JO du 1992-06-11, page 1323*
+
+Réponse. - Les instituteurs intégrés dans le corps des professeurs des écoles cessent de bénéficier, du fait de cette intégration, du droit au logement attaché à la qualité d'instituteur conformément aux dispositions du décret n° 90-680 du 1er août 1990 mais peuvent continuer d'occuper leur logement au titre d'un contrat de location. En effet, les dipositions de l'article 7 des lois des 19 juillet 1989 et 25 juillet 1893 ne sont pas applicables aux enseignants appartenant au corps des professeurs des écoles. Si le logement qu'ils occupaient antérieurement est situé dans l'enceinte scolaire et fait donc partie du domaine public communal, le contrat de location relève du droit administratif. Le bail passé avec un professeur des écoles doit comporter une clause prévoyant la possibilité pour la commune de demander la libération des locaux dans l'hypothèse où un instituteur ayant droit au logement demanderait l'attribution de ceux-ci. Il s'agit donc d'une location à titre précaire et révocable. Si le logement détenu antérieurement est situé hors de l'enceinte scolaire, il y a lieu de faire application de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs. Le bail à intervenir est donc un contrat de droit privé. En ce qui concerne la fixation du loyer, il appartient au conseil municipal d'en décider le montant en fonction des tarifs admis dans la commune, de ceux pratiqués dans les HLM ou de tout autre critère. Il n'y a en conséquence pas lieu d'envisager un transfert de ressources de l'Etat vers les communes en l'absence de charge particulière correspondant au logement des professeurs des écoles.
