@@ -16,4 +16,4 @@ L'étranger est convoqué par écrit au moins quinze jours avant la date de la r
 
 S'il ne dispose pas d'une carte de séjour temporaire ou si celle-ci est périmée, l'étranger reçoit, dès la saisine de la commission, un récépissé valant autorisation provisoire de séjour jusqu'à ce que le préfet ait statué.
 
-Les dispositions du présent article ne sont pas applicables dans le département de la Guyane, ni dans la commune de Saint-Martin (Guadeloupe) pendant une durée de cinq ans à compter de l'entrée en vigueur de la loi n° 98-349 du 11 mai 1998 relative à l'entrée et au séjour des étrangers en France et au droit d'asile.
+Les dispositions du présent article ne sont pas applicables dans le département de la Guyane, ni dans la commune de Saint-Martin (Guadeloupe).
