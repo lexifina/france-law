@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970802271
+
+- Question : [SEQ970802271](seq970802271.md) — Politique de santé publique
+
+## Réponse
+
+*Santé, JO du 1998-05-21, page 1651*
+
+Réponse. - La qualité des soins est un des objectifs principaux assignés par le Gouvernement et le Parlement au système de santé. Les priorités de la conférence nationale de santé pour 1997 ont ainsi été reprises par le Gouvernement dans le rapport présentant les orientations de la politique de santé et de sécurité sociale, approuvé par la loi de financement de la sécurité sociale pour 1998. Il s'agit en particulier de renforcer la prévention et la promotion de la santé des enfants, des adolescents et des jeunes ; d'améliorer la prévention, le dépistage et la prise en charge des cancers ; de diminuer l'incidence des affections iatrogènes et des infections nosocomiales ; et de réduire les inégalités de santé inter - et intrarégionales. Les contrats pluriannuels d'objectifs et de moyens permettront aux agences régionales de l'hospitalisation et aux établissements de santé de définir la participation du système hospitalier à cette politique de santé publique. La recomposition du tissu hospitalier a pour but d'assurer un égal accès à des soins de meilleure qualité sur tout le territoire, dans le cadre de l'objectif national de dépenses d'assurance maladie voté par le Parlement. Le système hospitalier fran çais doit désormais passer d'une logique où chaque établissement s'efforçait d'être polyvalent, voire autarcique, à une logique coopérative. L'offre doit répondre aux besoins, non plus seulement établissement par établissement, mais au niveau d'un bassin de population. C'est la raison pour laquelle le Gouvernement a lancé par anticipation la révision des schémas régionaux d'organisation sanitaire. Enfin, il travaille à l'amélioration de l'accès aux soins des populations les plus démunies dans le cadre plus général de la lutte contre les exclusions.
