@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980307219
+
+- Question : [SEQ980307219](seq980307219.md) — Carrière et marnière agricole
+
+## Réponse
+
+*Aménagement du territoire, JO du 1998-07-30, page 2455*
+
+Réponse. - La ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec attention, de la question sur les dispositions législatives applicables aux carrières et marnières exploitées par des agriculteurs. Les marnières et les carrières agricoles sont, au même titre que l'extraction de granulats en général, la cause d'excavations qui créent différents types de nuisances comme l'atteinte au paysage, la perturbation de la circulation des eaux souterraines et superficielles, la mise à nu des eaux souterraines et, en l'absence de remise en état, la transformation fréquente en décharge sauvage. La vocation d'une carrière, qu'elle soit commerciale, agricole ou communale, ne constitue pas un facteur de réduction de l'impact et des nuisances causés par l'extraction des matériaux. Ces problèmes ont conduit le législateur à adopter la loi nº 93-3 du 4 janvier 1993 qui prévoit que toute extraction de granulats est désormais soumise à autorisation dans le cadre de la législation sur les installations classées pour la protection de l'environnement, quel qu'en soit l'exploitant : agriculteurs, communes ou entreprises. La loi nº 76-663 du 19 juillet 1976 relative aux installations classées pour la protection de l'environnement prévoit qu'un dossier de demande d'autorisation, contenant notamment une étude d'impact, soit déposé en préfecture. Le contenu d'une étude d'impact doit être en relation avec l'importance de l'installation projetée et avec ses incidences prévisibles sur l'environnement. Cela signifie que, lorsque le projet porte sur une surface ou une production modeste, l'étude d'impact est simple à élaborer et d'un coût modéré ainsi que la remise en état.
