@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000323308
+
+- Question : [SEQ000323308](seq000323308.md) — Regroupement de la gestion des taxes d'urbanisme dans le département de la Loire
+
+## Réponse
+
+*Économie, JO du 2001-03-22, page 1008*
+
+Réponse. - Dans le domaine du recouvrement des impôts et taxes, il est apparu souhaitable de regrouper la gestion de certains produits particuliers sur un ou plusieurs postes comptables. Cette spécialisation concerne des produits spécifiques, pour lesquels elle est susceptible d'apporter un réel avantage en termes d'efficacité et de sécurité. Deux raisons principales ont conduit à entreprendre cette opération pour les taxes d'urbanisme : la constitution de pôles de compétence permettant l'amélioration du service rendu aux usagers, d'une part, et le renforcement de la sécurité du recouvrement de ce produit, d'autre part. En effet, la complexité et la spécificité des règles en matière de taxes d'urbanisme impliquent une spécialisation des agents chargés de ce secteur d'activité qui ne pouvait être réalisée dans de nombreuses trésoreries qui ne géraient qu'un très faible nombre de taxes. La spécialisation améliore l'efficacité des relations avec les services liquidateurs, et notamment avec les directions départementales de l'équipement. Elle permet par ailleurs de traiter plus rapidement les dossiers des contribuables, de façon homogène, sur l'ensemble du département et d'apporter un meilleur service aux collectivités ainsi qu'aux organismes bénéficiaires. Le regroupement a été mené en plusieurs phases successives et généralisé au 1er mars 2000. Les collectivités locales des départements concernés ont pour la plupart manifesté leur satisfaction sur les conditions de recouvrement de ces produits et apprécient la densité croissante de l'information qui leur est restituée.
