@@ -1,0 +1,13 @@
+# Réponse à la question SEQ910414876
+
+- Question : [SEQ910414876](seq910414876.md) — Diminution des crédits relatifs à la lutte contre la toxicomanie
+
+## Réponse
+
+*Premier ministre, JO du 1991-05-23, page 1062*
+
+Réponse. - La régulation budgétaire a touché les crédits toxicomanie comme tous les autres chapitres du ministère des affaires sociales et de la solidarité, exception faite des crédits Sida et le 47-21 (action sociale, pauvreté). Toutefois, il convient de souligner qu'en loi de finances initiale pour 1991 plus de 100 millions de francs ont été affectés en plus sur ce seul secteur pour contrôler l'augmentation sans précédent des capacités d'accueil du dispositif réalisé depuis trois ans. La lutte contre la drogue est une priorité du Gouvernement. Elle passe par la reconnaissance et le soutien aux professionnels qui s'occupent de prévention et de prise en charge. C'est pourquoi des crédits ont été redéployés pour éviter toute fragilisation du dispositif spécialisé de prise en charge. Ainsi, la baisse de 5 p. 100 des crédits inscrits au chapitre 47-15 ne portera pas sur les centres spécialisés pour toxicomanes et les directions départementales des affaires sanitaires et sociales se sont, elles, vu notifier par la direction générale de la santé des enveloppes départementales de crédits accordant au dispositif spécialisé le taux directeur du secteur médico-social (soit 2,9 p. 100 pour ce qui concerne la reconduction des moyens). L'augmentation du nombre de places d'accueil prévu dans le cadre du plan gouvernemental, soit le doublement des capacités sur trois ans, se fera en liaison avec Mme Georgina Dufoix, D.G.L.T., sur les crédits interministériels dont le montant (250 millions de francs) montre à lui seul combien la lutte contre la drogue constitue un enjeu pour lequel le Gouvernement ne ménage pas ses moyens.
+
+*Premier ministre, JO du 1991-10-17, page 2272*
+
+Réponse. - L'annulation de crédits intervenue sur le chapitre 47-15 n'a pas eu d'incidences sur les budgets des centres spécialisés pour toxicomanes. En effet, grâce à un redéploiement interne au chapitre 47-15 et à l'utilisation de crédits interministériels de lutte contre la toxicomanie, le ministère de la santé a accordé au dispositif spécialisé, cette année comme l'année précédente, le taux d'évolution fixé pour l'ensemble du secteur médicosocial, à savoir 2,9 p. 100, permettant le fonctionnement de ces structures dans des conditions normales. En outre, des crédits interministériels supplémentaires permettront de réaliser, en 1991, un accroissement des capacités d'accueil et de prise en charge des toxicomanes, dans la ligne du plan gouvernemental de lutte contre la drogue annoncé en mai 1990.
