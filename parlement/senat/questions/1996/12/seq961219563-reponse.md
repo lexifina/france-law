@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961219563
+
+- Question : [SEQ961219563](seq961219563.md) — Transport postal de la presse agricole et viticole
+
+## Réponse
+
+*Économie, JO du 1997-02-13, page 454*
+
+Réponse. - Les conditions générales de l'aide au transport postal de la presse sont désormais fixées par les accords Galmot du 4 juillet 1996, qui ont remplacé les accords Laurent de 1980 et qui prévoient, à partir du 1er janvier 1997, une revalorisation des tarifs de 50 % à l'horizon de cinq ans. La presse agricole et viticole, comme l'ensemble de la presse, est donc soumise à ce nouveau cadre tarifaire. Celui-ci ne signifie pas un désengagement des pouvoirs publics : ainsi, la loi de finances initiale pour 1997 prévoit un remboursement par l'Etat de 1,9 milliard de francs à La Poste au titre du transport de presse, qui représente, par ailleurs, dans les comptes de l'exploitant public un coût de 3,547 milliards de francs. Au-delà des allégements tarifiaires de droit commun, il est prévu d'instituer un tarif préférentiel au profit de la seule presse quotidienne et hebdomadaire d'information politique et générale, définie selon quatre critères : apporter de façon permanente sur l'actualité générale et politique, locale, nationale ou internationale, des informations et des commentaires tendant à éclairer le jugement des citoyens ; consacrer la majorité de leur surface rédactionnelle à cet objet ; présenter un intérêt dépassant d'une façon manifeste les préoccupations d'une catégorie de lecteurs ; avoir au plus la moitié de leur surface consacrée à de la publicité ou à des annonces. Par conséquent, cette définition ne permet pas une assimilation de la presse agricole et viticole, qui, en toute hypothèse, peut bénéficier des allégements tarifaires de droit commun, dès lors qu'elle en remplit les conditions.
