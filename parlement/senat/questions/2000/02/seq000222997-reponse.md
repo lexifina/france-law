@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000222997
+
+- Question : [SEQ000222997](seq000222997.md) — Recrutement de maîtres auxiliaires par le rectorat de l'académie de Nantes
+
+## Réponse
+
+*Éducation, JO du 2000-04-06, page 1274*
+
+Réponse. - Si les maîtres auxiliaires sont recrutés dans le cadre du décret nº 62-379 du 3 avril 1962, fixant les dispositions qui leur sont applicables, les contractuels recrutés pour des tâches d'enseignement le sont dans le cadre du décret nº 81-535 du 12 mai 1981 relatif au recrutement de professeurs contractuels. Ces professeurs contractuels ne sont donc en aucun cas des agents de droit privé. Comme les maîtres auxiliaires, ces contractuels sont donc des agents non titulaires de l'Etat, qui bénéficient également du droit de passer les concours internes de la fonction publique, dès lors qu'ils en remplissent les conditions (diplôme, ancienneté). Depuis 1997, le Gouvernement est soucieux de résorber l'emploi précaire dans la fonction publique. C'est pourquoi le ministre de l'éducation nationale, de la recherche et de la technologie, tout en garantissant le réemploi des maîtres auxiliaires, a donné pour consigne aux recteurs d'académie de ne plus en recruter de nouveaux. Ces dispositions ont été constamment réaffirmées aux rentrées 1997, 1998 et 1999. Dans ce contexte, il était normal d'avoir recours aux professeurs contractuels dans les disciplines pour lesquelles le recrutement de titulaires n'était pas à la hauteur des besoins du service public. Le recrutement comme professeur contractuel plutôt que comme maître auxiliaire ne causera aucun préjudice à de jeunes enseignants qui pourront, à défaut de réussir des concours externes, se présenter dans les mêmes conditions aux concours internes, plus professionnalisés et dans lesquels leur expérience de professeur contractuel sera mieux prise en compte.
