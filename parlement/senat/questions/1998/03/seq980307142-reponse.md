@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980307142
+
+- Question : [SEQ980307142](seq980307142.md) — Directeur d'école paramédicale et emploi d'infirmier général de 2e classe
+
+## Réponse
+
+*Santé, JO du 1998-07-30, page 2497*
+
+Réponse. - Les dispositions statutaires du décret nº 89-758 du 18 octobre 1989 modifié portant statut particulier des infirmiers généraux de la fonction publique hospitalière prévoient la possibilité de détacher sur les emplois d'infirmier général des directeurs d'écoles ou centres préparant aux professions paramédicales lorsque ces écoles ou centres assurent la formation d'infirmier. Les directeurs doivent compter cinq ans ou moins de services effectifs dans leur corps et avoir assuré pendant trois ans au moins des fonctions d'encadrement dans des services de soins. Les dispositions statutaires du décret nº 89-756 du 18 octobre 1989 modifié portant statut particulier des directeurs des écoles paramédicales de la fonction publique hospitalière prévoient la possibilité de détacher sur les emplois de directeur des infirmiers généraux. Les infirmiers généraux doivent compter cinq ans au moins de services effectifs dans leur corps et avoir assuré pendant trois ans au moins des fonctions d'enseignement ou d'encadrement dans les écoles ou centres assurant la formation d'infirmier. Les textes en vigeur soumettent en conséquence le passage d'un corps de fonctionnaires à l'autre à des conditions qui sont comparables, qu'il s'agisse des conditions d'ancienneté de services exigées ou de celles relatives aux fonctions antérieurs. Une évolution des règles de mobilité est cependant souhaitable dans un souci de simplification et de souplesse de la gestion des personnels de la fonction publique hospitalière. Des modifications pourraient être envisagées après une concertation de l'ensemble des représentants des organisations syndicales et professionnelles.
