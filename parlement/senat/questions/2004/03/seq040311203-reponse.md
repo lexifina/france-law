@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040311203
+
+- Question : [SEQ040311203](seq040311203.md) — Contrôle des abattages pratiqués à l'occasion de l'Aïd el Kébir
+
+## Réponse
+
+*Intérieur, JO du 2004-05-27, page 1135*
+
+L'abattage rituel est réglementé en France par le décret n° 97-903 du 1er octobre 1997 et l'arrêté du 12 décembre 1997, portant sur la protection des animaux au moment de leur abattage ou de leur mise à mort. Ces textes interdisent notamment la pratique de l'abattage rituel hors des abattoirs. En ce qui concerne la célébration de la fête musulmane de l'Aïd-el-Adha, une circulaire cosignée par le ministre de l'intérieur, de la sécurité intérieure et des libertés locales et le ministre de l'agriculture, de l'alimentation, de la pêche et des affaires rurales est adressée chaque année aux préfets, afin de concilier le légitime attachement des musulmans à la pratique de l'abattage rituel et l'indispensable respect des dispositions réglementaires en matière de protection animale, d'hygiène alimentaire et de protection de l'environnement. Depuis plusieurs années, cette circulaire propose des solutions alternatives, telles que la création d'abattoirs temporaires agréés répondant à des normes strictes, l'étalement du sacrifice sur plusieurs journées, ou une procédure de réservation préalable des animaux vivants, avec abattage en abattoir et retour des carcasses. De même indique-t-elle que des pratiques de substitution à l'abattage sur place sont possibles, telles que l'obole (don financier), ou l'accomplissement du sacrifice dans un autre pays, par des intermédiaires choisis par les musulmans intéressés. De telles mesures paraissent de nature à éviter l'abattage clandestin, source de souffrance animale et de conditions d'hygiène douteuses, soulignées par l'honorable parlementaire.
