@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941108670
+
+- Question : [SEQ941108670](seq941108670.md) — Situation des pilotes professionnels d'ultraléger motorisé (ULM) et de vol libre
+
+## Réponse
+
+*Équipement, JO du 1995-02-16, page 385*
+
+Réponse. - Aux termes du code de l'aviation civile (art. L. 410-1) et des textes réglementaires y afférents, un pilote d'ULM exerçant son activité contre rémunération doit être titulaire : de la licence de pilote ULM, pour la classe concernant l'aéronef utilisé, et éventuellement de l'autorisation d'emport de passager, d'une habilitation d'instructeur le cas échéant, d'une déclaration de niveau de compétence si nécessaire, telle que fixée par l'arrêté du 24 juillet 1991 relatif à l'utilisation des aéronefs civils en aviation générale. Il est à noter que la licence de pilote d'ULM autorise son détenteur à exercer contre rémunération, sans pouvoir accéder au statut de navigant professionnel. En ce qui concerne le vol libre (les aéronefs utilisés sont les planeurs ultralégers (PUL), le ministre chargé de l'aviation civile, considérant les spécificités de cet aéronef, a choisi de ne pas soumettre son utilisation à la possession d'une licence de navigant ou au respect de conditions techniques concernant la construction et la mise en oeuvre de cet aéronef, en application de l'article R. 133-1, 3e alinéa, du code de l'aviation civile. Par ailleurs, les planeurs ultralégers peuvent être utilisés pour une activité sportive. Ils sont alors soumis simultanément à la réglementation aéronautique mentionnée ci-dessus, aux dispositions réglementaires du ressort du ministre chargé des sports, et notamment à la loi sur le sport du 16 juillet 1984, modifiée en 1992. Il est de la compétence du ministre chargé des sports de définir ces activités sportives et les obligations qui s'y attachent. Celles-ci comprennent notamment l'obligation de détenir un diplôme d'Etat pour des activités sportives rémunérées.
