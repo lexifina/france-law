@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010734606
+
+- Question : [SEQ010734606](seq010734606.md) — Association des commerçants à l'élaboration des CLS
+
+## Réponse
+
+*Intérieur, JO du 2001-11-22, page 3714*
+
+Depuis la mise en oeuvre des contrats locaux de sécurité, un bilan d'étape a permis de relever l'importance de développement du partenariat avec les acteurs socio-économiques. A cet effet, la circulaire interministérielle du 7 juin 1999 précise que les organismes consulaires, notamment les chambres de commerce et d'industrie, les associations de commerçants et d'artisans, les grandes entreprises de distribution, les gestionnaires d'espaces commerciaux doivent également prendre leur part à la préparation et à l'impulsion des contrats locaux de sécurité. L'assemblée des chambres françaises de commerce et d'industrie s'est engagée plus avant en signant le 3 mars 2000 un " Protocole d'accord relatif à la mise en oeuvre des contrats locaux de sécurité " avec le ministère de l'intérieur. Cet accord spécifie que les chambres de commerce et d'industrie seront associées plus étroitement à l'élaboration des CLS, à l'établissement du diagnostic local de sécurité, à la définition du plan d'actions et à la mise en oeuvre. Cela se traduit, au niveau local, par une implication accrue des chambres de commerce et d'industrie dans la mise en oeuvre des contrats locaux de sécurité, comme en témoigne leur participation active lors des rencontres interrégionales et de la rencontre nationale des contrats locaux de sécurité organisées en mai et juin 2001. Des 549 contrats locaux de sécurité signés à la date d'octobre 2001, il ressort que l'implication des commerçants et de leurs représentants s'avère réelle et efficace : participation au diagnostic local préalable, prise en compte d'actions concernant le besoin de sécurité des commerces de centre-ville, des quartiers et des centres commerciaux.
