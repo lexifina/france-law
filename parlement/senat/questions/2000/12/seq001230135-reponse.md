@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001230135
+
+- Question : [SEQ001230135](seq001230135.md) — Problème posé par les animaux dangereux gardés dans les refuges des sociétés protectrices des animaux
+
+## Réponse
+
+*Justice, JO du 2001-03-01, page 757*
+
+Réponse. - La garde des sceaux, ministre de la justice, a l'honneur de faire connaître à l'honorable parlementaire que la procédure de comparution immédiate prévue aux articles 388 et 395 du code de procédure pénale ne trouve pas application s'agissant des délits de la loi nº 99-5 du 6 janvier 1999 relative aux animaux dangereux et errants et à la protection des animaux, concernant l'importation des chiens dangereux, leur introduction sur le territoire, leur vente, élevage ou acquisition, ainsi que leur détention par des personnes qui n'y sont pas autorisées. Cette procédure simplifiée est cependant applicable en cas d'agression physique de personne à l'aide d'un chien, considéré alors comme une arme, circonstance aggravante du délit de violences volontaires, ainsi que, le cas échéant, dans les cas d'homicide ou de blessures involontaires. Il serait particulièrement inopportun de modifier les règles de la comparution immédiate, qui est de portée générale puisqu'elle s'applique à toutes les infractions, au seul bénéfice d'une catégorie d'infractions particulières. Cette procédure se trouvant conditionnée par le niveau des pénalités encourues, une modification de ce seuil aurait un impact trop important et serait de nature à surcharger le rôle des tribunaux par des affaires dont l'importance ou la nature ne justifierait pas un traitement immédiat. Du reste, en cas d'agression du personnel des sociétés protectrices des animaux par des cheins placés, les dispositions de l'article 99-1 du code de procédure pénale sont susceptibles de trouver application, l'euthanasie de l'animal étant alors judiciairement ordonnée, notamment si les conditions du placement sont de nature à le rendre dangereux.
