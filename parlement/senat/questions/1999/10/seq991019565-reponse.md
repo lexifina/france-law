@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991019565
+
+- Question : [SEQ991019565](seq991019565.md) — Suppression de la compétence régionale des mandataires de justice liquidateurs
+
+## Réponse
+
+*Justice, JO du 2000-03-02, page 791*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que l'extension à l'ensemble du territoire de la compétence actuellement régionale des mandataires judiciaires à la liquidation des entreprises a été annoncée dès le 14 octobre 1998, lors du communiqué de presse sur la réforme de la justice commerciale et de l'environnement juridique de l'entreprise, puis confirmée lors du nouveau communiqué de presse du 31 mai 1999. Il est en conséquence envisagé de prévoir des dispositions en ce sens dans l'avant-projet de loi ayant pour objet de modifier la loi nº 85-99 du 25 janvier 1985 relative au statut des administrateurs judiciaires et des mandataires judiciaires à la liquidation des entreprises : ces derniers seraient donc inscrits sur une liste nationale par une commission nationale d'inscription et de discipline, à l'instar de ce qui existe déjà pour les administrateurs judiciaires. Cette mesure mettra, en effet, à la disposition des tribunaux un nombre plus important et plus varié de mandataires judiciaires à la liquidation des entreprises. Elle favorisera, en outre, le développement d'études mieux structurées et plus adaptées au traitement de missions importantes, susceptibles de mettre en place des procédures de contrôle interne efficaces. Elle permettra, enfin, pour les mandataires judiciaires à la liquidation des entreprises une harmonisation des décisions prises tant en matière d'accès à la profession que de discipline, les commissions actuellement instituées au siège des cours d'appel adoptant parfois des jurisprudences divergentes.
