@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931103529
+
+- Question : [SEQ931103529](seq931103529.md) — Conséquences pour EDF-GDF des propositions de directives européennes en matière d'énergie
+
+## Réponse
+
+*Industrie, JO du 1993-12-30, page 2543*
+
+Réponse. - L'honorable parlementaire a fait part des inquiétudes suscitées par les projets de la Commission des communautés européennes concernant le marché intérieur de l'électricité et du gaz. Le Gouvernement sera particulièrement vigilant pour conserver ou mettre en place, dans toute évolution du droit français et du droit communautaire, les moyens d'action publique qui garantissent les missions de service public du gaz et de l'électricité : sécurité d'approvisionnement en gaz, continuité de fourniture, universalité de la desserte électrique, péréquation tarifaire, gestion de la rareté des sites et protection de l'environnement. De plus, aucune modification du statut des personnels EDF-GDF n'est envisagée. Le rôle de gestionnaire unique du réseau de transport confié à EDF est confirmé. Le Gouvernement n'envisage pas de modifier fondamentalement l'organisation de la distribution, et notamment de recourir aux dispositions de la loi du 8 avril 1946 relatives aux établissements publics régionaux de distribution, même si les systèmes de distribution autonomes qui existent dans certaines agglomérations fonctionnent à la satisfaction des clients et en bonne harmonie avec Electricité de France. S'agissant de la production, et sans évidemment affecter le parc d'EDF et notamment le parc nucléaire, il apparaît possible d'organiser à l'avenir, dans le cadre de besoins globaux définis par la puissance publique et EDF, des appels d'offres pour l'implantation de nouveaux moyens de production, afin de favoriser les solutions les plus performantes ainsi que la cogénération et les énergies renouvelables.
