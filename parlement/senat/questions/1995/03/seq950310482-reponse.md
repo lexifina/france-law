@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950310482
+
+- Question : [SEQ950310482](seq950310482.md) — Abattage (conditions de transport des animaux)
+
+## Réponse
+
+*Agriculture, JO du 1996-10-17, page 2703*
+
+Réponse. - Les préoccupations légitimes des instances de l'Union européenne en matière de transport des animaux vivants ont permis d'aboutir, sous présidence française, à l'adoption de la directive no 95/29, qui renforce les exigences de protection animale en cours de transport. Ce nouveau texte, qui sera applicable à compter du 1er janvier 1997, s'appuie sur trois principes sur trois principes essentiels : le premier repose sur la fixation de durées de transport en fonction de l'équipement des camions, de l'âge, de la catégorie et de l'espèce des animaux transportés. De ce fait, les animaux devront, dans le cas de voyages de longue durée, être déchargés afin de se reposer dans des lieux prévus à cet effet, et d'y être abreuvés et alimentés. En application de la directive 95/29, un projet de décision communautaire fixant les critères d'agrément de ces points d'arrêt est à l'étude actuellement. Ces critères se fonderont sur des considérations à la fois d'ordre sanitaire, et liées à la protection animale. Les points d'arrêt qui sont déjà en fonctionnement sont soumis à des contrôles sanitaires. Le deuxième volet fondamental de la directive précitée consiste à imposer un agrément vétérinaire des entreprises de transport d'animaux, fondé sur le respect de la réglementation par les transports, et sur la formation des personnels, assurée par l'entreprise. En troisième lieu, la directive prescrit un renforcement des contrôles officiels et des sanctions qui peuvent y être associées. Cet ensemble de mesures devrait répondre au souci d'amélioration du bien-être des animaux, sans pour autant bouleverser les courants commerciaux découlant des structures agricoles actuelles de l'union européenne.
