@@ -12,15 +12,9 @@ Bulgarie.
 
 Corée du Sud.
 
-Estonie.
-
-Hong Kong.
+Hongkong.
 
 Islande.
-
-Lettonie.
-
-Lituanie.
 
 Malaisie.
 
@@ -31,8 +25,6 @@ Roumanie.
 Russie.
 
 Singapour.
-
-Slovaquie.
 
 Taïwan.
 
