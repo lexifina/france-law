@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871008311
+
+- Question : [SEQ871008311](seq871008311.md) — Augmentation du nombre de stations d'essence sans plomb
+
+## Réponse
+
+*Industrie, JO du 1987-12-17, page 1977*
+
+Réponse. -Le Conseil de la Communauté économique a adopté le 20 mars 1985 une directive prévoyant notamment l'introduction d'au moins une qualité d'essence sans plomb (supercarburant) sur le territoire des Etats membres de la communauté, de manière obligatoire à partir du 1er octobre 1989, et de façon optionnelle avant cette date. Dès l'été 1986, plus de quatre-vingts stations-service situées dans les principaux axes routiers et autoroutiers français ont commencé à distribuer du supercarburant sans plomb. En 1986, ces points de vente ont commercialisé 2 846 mètres cubes de supercarburant sans plomb, à l'usage exclusif des touristes étrangers, principalement suisses et allemands. Les ventes de ce produit, inférieures à 2 700 litres par mois et par station, sont donc restées très marginales. Des difficultés de ravitaillement sont survenues principalement dans les zones touristiques de l'Ouest de la France et sur les axes routiers qui y conduisent. Bien que les prévisions de consommation pour l'année 1987 demeurent très faibles, les sociétés pétrolières, en concertation avec les services compétents du ministère de l'industrie, des P. et T. et du tourisme, ont amélioré le réseau de carburant sans plomb en tenant compte des taux de fréquentation régionaux des touristes étrangers concernés. L'effort d'amélioration du maillage accompli a permis de porter de 89 à 253 stations, dont 88 autoroutières, le réseau qui distribue du supercarburant sans plomb depuis juin 1987. Le maillage réalisé dès à présent permet, compte tenu de l'autonomie des véhicules, des déplacements relativement aisés à l'intérieur des zones touristiques ; il sera progressivement amélioré, en tenant notamment compte des enseignements tirés de la présente saison touristique.
