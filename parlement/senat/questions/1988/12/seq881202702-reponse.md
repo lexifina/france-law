@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881202702
+
+- Question : [SEQ881202702](seq881202702.md) — Allocation de logement des personnes âgées hébergées en long séjour
+
+## Réponse
+
+*Équipement, JO du 1989-05-25, page 803*
+
+Réponse. - L'allocation logement sociale (A.L.S.), à l'origine, ne pouvait être accordée aux personnes âgées (soixante-cinq ans au minimum ou soixante ans en cas d'inaptitude au travail) que si elles étaient logées individuellement, et payaient un loyer, ou résidaient dans des établissements dotés de services collectifs et disposant d'une unité d'habitation autonome (logement-foyer). Le bénéfice de l'A.L.S. a été étendu aux personnes âgées résidant en maison de retraite, sous réserve qu'elles disposent d'une chambre d'une superficie suffisante (9 mètres carrés pour une personne seule, 16 mètres carrés pour deux personnes, sans possibilité de dérogation), l'allocation n'étant pas due si la chambre est occupée par plus de deux personnes. Sont concernées les personnes âgées résidant dans des maisons de retraite publiques ou privées, ainsi que dans les sections des hôpitaux ou hospices fonctionnant comme des maisons de retraite. L'A.L.S. est également susceptibled'être accordée aux personnes âgées résidant en logement-foyer ou maison de retraite et accueillies dans la section médicale de ces établissements. En revanche, sont exclues du champ d'application les personnes âgées résidant dans des établissements relevant de la loi hospitalière et notamment les centres de cure médicale de moyen ou long séjour qui ont le caractère d'établissements de soins. Il n'est pas possible d'aller plus loin dans l'extension du champ d'application de cette aide sans la dénaturer, puisque son objet est de compenser l'effort financier fait par les personnes âgées pour s'assurer, dans des conditions satisfaisantes, un habitat autonome.
