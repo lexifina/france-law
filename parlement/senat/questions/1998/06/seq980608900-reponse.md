@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980608900
+
+- Question : [SEQ980608900](seq980608900.md) — Diversification agricole : production céréalière pour les carburants type diester ou éthanol
+
+## Réponse
+
+*Agriculture, JO du 1998-07-16, page 2313*
+
+Réponse. - Depuis 1992, la France a engagé une démarche volontariste pour favoriser le développement des nouvelles utilisations non alimentaires des produits agricoles. S'agissant en particulier de l'éthanol élaboré à partir de blé, ce produit, incorporé à l'essence sans plomb sous forme d'ethyl-tertio-butyl-ether, bénéficie d'une exonération partielle de la taxe intérieure de consommation sur les produits pétroliers égale à 329,50 francs par hectolitre. Ainsi pour l'année 1997, l'avantage fiscal accordé à la seule filière blé-éthanol pour une utilisation en carburation est estimé à environ 100 millions de francs. Par ailleurs, les pouvoirs publics ont consenti dès 1994 un effort financier important afin de permettre au groupement d'intérêt scientifique (AGRICE) (agriculture pour la chimie et l'énergie) constitué au sein de l'ADEME (Agence pour la défense de l'environnement et la maîtrise de l'énergie) de soutenir des programmes de recherche portant sur les valorisations non alimentaires des productions agricoles dans les domaines de l'énergie, de la chimie, des biomatériaux et des biomolécules. A cet égard, pour la période 1994-1997, 217 programmes ont été retenus pour un montant d'aide égal à 161 millions de francs. Pour la filière blé-éthanol, les études portent notamment sur la sélection variétale, la définition de nouveaux itinéraires techniques économes en intrants, l'amélioration des procédés de fermentation et la valorisation des coproduits (sons et drèches). Au terme, ces travaux devraient permettre de réduire de un franc par litre le coût de production des biocarburants et d'améliorer ainsi la compétitivité des produits d'origine agricole par rapport à leurs concurrents fossiles.
