@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870807344
+
+- Question : [SEQ870807344](seq870807344.md) — Loi relative aux accidents du travail : extension aux élèves de l'enseignement général
+
+## Réponse
+
+*Éducation, JO du 1987-09-24, page 1511*
+
+Réponse. -Il n'apparaît pas possible, compte tenu des conséquences financières que cette mesure entraînerait, de modifier l'article 82 de la loi n° 85-10 du 3 janvier 1985, afin d'étendre le bénéfice de la législation sur les accidents du travail aux élèves de l'enseignement général qui sont victimes d'un accident corporel au cours d'une séance obligatoire d'éducation physique et sportive. Cette impossibilité n'avait d'ailleurs pas échappé au ministre des affaires sociales et de la solidarité nationale, chargé d'élaborer le projet de texte qui fut soumis au Parlement, lors de la précédente législature. Pour obtenir un dédommagement de l'Etat, les élèves de l'enseignement général victimes d'un accident survenu pendant un cours d'éducation physique et sportive doivent, en effet, démontrer l'existence d'une faute imputable à un membre de l'enseignement public ou établir que le dommage provient soit d'un ouvrage public dont l'entretien lui incombe, soit d'une mauvaise organisation du service de l'enseignement. Certes, la participation à un cours d'éducation physique et sportive comporte, pour les élèves, certains risques, dans la mesure où cet enseignement tend à développer leurs aptitudes et capacités physiques et à leur faire acquérir une plus grande maîtrise de leur corps, mais ces risques sont minimes et ils n'excèdent pas ceux qu'ils encourent quotidiennement, en dehors de la vie scolaire. Si elles le souhaitent, les familles des élèves peuvent souscrire une assurance individuelle qui couvre les dommages résultant des accidents engendrés par ces risques, en prévoyant notamment le versement d'indemnités forfaitaires.
