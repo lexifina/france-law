@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910917206
+
+- Question : [SEQ910917206](seq910917206.md) — Statut des fonctionnaires territoriaux à temps non complet
+
+## Réponse
+
+*Collectivités locales, JO du 1991-11-14, page 2528*
+
+Réponse. - L'arrêté du 8 février 1971 fixant la liste des emplois communaux permanents à temps non complet limitait non seulement les emplois pouvant être créés à temps non complet, mais prévoyait également deux seuils maxima de recrutement. Le décret du 20 mars 1991 a supprimé l'un de ces seuils et étendu aux établissements publics communaux et intercommunaux, ainsi qu'aux offices publics d'habitations à loyer modéré dont le nombre de logements n'excède pas 800, la possibilité de recruter ces agents. Cependant, selon le voeu émis par le Conseil supérieur de la fonction publique territoriale dans sa séance du 21 décembre 1989, le Gouvernement va procéder, dans le courant de l'année suivant la publication du décret précité, à l'examen des conséquences du maintien de la strate démographique de 5 000 habitants et à une éventuelle modification des cadres d'emplois ouverts aux agents à temps non complet. Les dispositions qui sont entrées en vigueur le 22 mars 1991 pourraient alors éventuellement être réexaminées. Dans cette attente, l'article 2 n° 85-1081 du 8 octobre 1985 modifié relatif au régime de la mise à disposition des fonctionnaires territoriaux prévoit qu'un fonctionnaire territorial peut être recruté en vue d'être mis à disposition pour effectuer tout ou partie de son service sur un ou plusieurs emplois permanents à temps non complet. De même, l'article 25 de la loi du 26 janvier 1984 modifiée autorise les centres de gestion à mettre des fonctionnaires à disposition d'une ou plusieurs collectivités ou établissements en vue de les affecter à des missions permanentes, pour accomplir un service à temps non complet auprès de chacune de ces collectivités ou chacun de ces établissements.
