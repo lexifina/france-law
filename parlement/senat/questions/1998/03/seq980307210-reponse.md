@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980307210
+
+- Question : [SEQ980307210](seq980307210.md) — Dépassements de superficies céréalières
+
+## Réponse
+
+*Agriculture, JO du 1998-05-21, page 1625*
+
+Réponse. - L'arrêté interministériel du 15 septembre 1997 fixe les pourcentages de dépassement des superficies de base constatés dans le cadre des paiements compensatoires à certaines cultures arables pour l'année 1997. Le règlement (CEE) no 1765/92 du Conseil du 30 juin 1992 (art. 2, alinéa 6) précise : " Lorsque la somme des superficies individuelles pour lesquelles l'aide est demandée au titre du régime de soutien aux producteurs de certaines cultures arables... est supérieure à la superficie de base régionale, les mesures suivantes sont appliquées dans la région en question : au cours de la même campagne, la superficie éligible par producteur sera réduite proportionnellement pour toutes les aides octroyées... ; au cours de la campagne suivante, les producteurs bénéficiant du régime général devront, sans aucune compensation, procéder à un gel extraordinaire des terres. " Conformément à cet article, une réduction a été appliquée à toutes les aides. En ce qui concerne le gel extraordinaire, le ministre de l'agriculture et de la pêche a obtenu lors des conseils des ministres de l'Union européenne que son application soit suspendue. S'agissant des superficies de référence, il est précisé à l'article 2, alinéa 2 du règlement précité : " La superficie de base régionale et établie en tant que nombre moyen d'hectares d'une région, qui, en 1989, 1990 et 1991, ont été consacrés à des cultures arables ou, le cas échéant, mis en jachère conformément à un régime d'aides publiques. " Cette moyenne représente 13 526 000 hectares répartis ainsi : une superficie de base maïs irrigué, 284 000 hectares ; une superficie de base maïs sec, 329 800 hectares ; une superficie de base nationale irriguée, 925 700 hectares ; une superficie de base nationale sec, 11 986 500 hectares.
