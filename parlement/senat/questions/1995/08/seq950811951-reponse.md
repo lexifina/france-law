@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950811951
+
+- Question : [SEQ950811951](seq950811951.md) — Filière laitière réunionnaise
+
+## Réponse
+
+*Outre-mer, JO du 1995-09-28, page 1862*
+
+Réponse. - Le ministre de l'outre-mer est pleinement conscient de la place essentielle de l'association réunionnaise interprofessionnelle du bétail, de la viande et du lait (ARIBEV) dans le développement de l'élevage à la Réunion et de l'importance cruciale de la réforme du financement de cette organisation interprofessionnelle. Les menaces qui pèsent actuellement sur le dispositif de soutien à la production laitière réunionnaise confirment, s'il en était besoin, la nécessité impérieuse d'une réforme du mode de financement de l'ARIBEV. Cette nécessité a été prise en compte par la Commission européenne, dont la proposition de règlement, visant à modifier le règlement-cadre agricole POSEIDOM du 16 décembre 1991, prévoit notamment l'octroi d'une aide annuelle pour la réalisation d'un programme global de soutien des activités de production et de commercialisation des produits locaux dans les secteurs de l'élevage et des produits laitiers. L'élaboration et l'exécution de ce programme devront être réalisées en concertation étroite avec les organisations interprofessionnelles existantes dans les DOM au 1er juillet 1994, dans les secteurs concernés. La négociation engagée au Conseil de l'Union européenne n'a pas permis jusqu'à présent l'adoption de cette proposition de règlement, en raison des réserves exprimées par certains Etats membres. Au début de juillet dernier, le ministre de l'outre-mer s'est rendu à Bruxelles afin notamment de sensibiliser les responsables de la Commission européenne à l'importance que le Gouvernement français attache à cette négociation et à son aboutissement favorable. Les discussions au sein du Conseil se poursuivent sous présidence espagnole et le ministre de l'outre-mer escompte une conclusion positive avant la fin de 1995.
