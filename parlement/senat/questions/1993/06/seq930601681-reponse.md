@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930601681
+
+- Question : [SEQ930601681](seq930601681.md) — Statistiques relatives au nombre de postes d'enseignants vacants
+
+## Réponse
+
+*Éducation, JO du 1993-08-05, page 1335*
+
+Réponse. - En application de l'article 16 du décret no 82-447 du 28 mai 1982 relatif à l'exercice du droit syndical dans la fonction publique, la dotation de décharges de service pour activité syndicale est fixée en fonction du total des emplois budgétaires des personnels administratifs, techniques, ouvriers et de service et des personnels enesignants relevant du ministère de l'éducation nationale. Ce contingent est ensuite réparti entre les organisations syndicales compte tenu de leur représentativité, évaluée essentiellement par leurs résultats aux élections professionnelles. Il est de plus accordé, conformément à l'article 14 du décret précité, un contingent de dispenses de service, assimilées pour leur gestion à des décharges de service et un contingent de journées d'autorisation spéciale d'absence réservées à la participation aux congrès locaux ou aux réunions statutaires d'organismes directeurs. Pour l'année 1993-1994, l'enveloppe globale de décharges de service s'élève à 1190,80 équivalents-emplois, soit 0,108 p. 100 des 1 097 939 emplois budgétaires inscrits en loi de finances. Les commissions administratives paritaires nationales des enseignants seront renouvelées en décembre 1993 et permettront de prendre en compte les changements intervenus dans la représentativité des différentes organisations syndicales. Il faut, enfin, souligner que l'administration n'est pas habilitée, sur le plan juridique, à s'immiscer dans les activités des syndicats. Il ne saurait être question, par respect de la liberté syndicale, constitutionnellement reconnue, d'exiger un bilan de l'action des agents déchargés de service en activité au sein de ces organisations.
