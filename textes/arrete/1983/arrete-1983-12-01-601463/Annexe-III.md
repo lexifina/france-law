@@ -14,15 +14,15 @@ Les amateurs sont tenus de signaler, dans un délai de deux mois, tout changemen
 
 3. DISPOSITIONS TRANSITOIRES CONCERNANT LE RECLASSEMENT DES OPÉRATEURS RADIOTÉLÉPHONISTES - RADIOTÉLÉGRAPHISTES
 
-Les amateurs titulaires du certificat d’opérateur radiotélégraphiste-radiotéléphoniste et titulaires depuis plus de trois ans des indicatifs F 2 AA à F 2 ZZ, F 3 AA à F 3 ZZ, F 5 AA à F 5 ZZ, F 8 AA à F 8 ZZ, F 9 AA à F9ZZ et des indicatifs de la série commençant par F 6 AA sont classés de plein droit dans le groupe E, sous réserve de n’avoir pas encouru de sanction pendant la période des trois ans précédant l’entrée en vigueur de l’arrêté.
+Les titulaires d’indicatifs des groupes C (équivalent à la classe 2 CEPT), D et E (équivalents à la classe 1 CEPT) sont reclassés suivant les dispositions de la grille de codification des indicatifs des services d’amateur publiée en annexe VI.
 
-Les autres amateurs titulaires du certificat d’opérateur radiotélégraphiste-radiotéléphoniste sont classés de plein droit dans le groupe D à la date d’entrée en application du présent arrêté.
+La lettre C figurant au préfixe des indicatifs est abrogée pour tous les indicatifs du groupe C. Les indicatifs de la série FC 1 XY sont reclassés dans la série F 1 XY sans changement de suffixe. Les indicatifs de la série FC 1 XYZ sont reclassés dans la série F 1 XYZ sans changement de suffixe.
 
-Les amateurs titulaires du certificat d’opérateur radiotéléphoniste sont classés de plein droit dans le groupe C à la date d’entrée en application du présent arrêté.
+La lettre E figurant au préfixe des indicatifs est abrogée pour tous les indicatifs du groupe E. Les indicatifs des séries FE 2 XY, FE 3 XY, FE 5 XY, FE 6 XYZ, FE 8 XY et FE 9 XY sont reclassés respectivement dans les séries F 2 XY, F 3 XY, F 5 XY, F 6 XYZ, F 8 XY et F 9 XY sans changement de suffixe. Les indicatifs des séries FE I XYZ et FD 1 XYZ sont reclassés dans la série F 5 XYZ sans changement de suffixe.
 
 4. EPREUVES DES EXAMENS
 
-1. L’examen pour l’obtention du certificat d’opérateur radiotéléphoniste (groupes C et D) consiste en une épreuve théorique comportant :
+1. L’examen pour l’obtention du certificat d’opérateur radiotéléphoniste (groupes C et E) consiste en une épreuve théorique comportant :
 
 a) Dix questions portant sur la réglementation des radiocommunications et du service d’amateur ainsi que sur la procédure générale en radiotéléphonie ;
 
@@ -54,7 +54,7 @@ Pour être admis, les candidats ne devront pas avoir commis plus de cinq fautes 
 
 5. PROGRAMMES DES EXAMENS
 
-1° Programme de l’examen de radiotéléphoniste (groupes C et D).
+1° Programme de l’examen de radiotéléphoniste (groupes C et E).
 
 A. — Réglementation.
 
