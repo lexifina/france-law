@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960314659
+
+- Question : [SEQ960314659](seq960314659.md) — Conditions d'application de la majoration spéciale de la taxe professionnelle
+
+## Réponse
+
+*Budget, JO du 1996-07-04, page 1657*
+
+Réponse. - Il n'est pas possible d'ajouter aux taux votés par le conseil municipal les taux votés par les structures intercommunales à fiscalité propre pour les comparer au seul taux moyen communal constaté au niveau national. En effet, afin de préserver la cohérence des termes de comparaison, il conviendrait de calculer le taux moyen national en tenant également compte des taux des groupements à fiscalité propre. Un tel système serait contraire à l'objectif de la majoration spéciale, dès lors qu'il aurait pour effet de faire dépendre l'application de la majoration spéciale du niveau de la pression fiscale exercée par les groupements. En effet, les exceptions aux règles de lien entre les taux ont pour objet de corriger une structure de taux particulièrement déséquilibrée dans une commune ou un département. Cela étant, l'article 87 de la loi de finances pour 1996 (no 95-1346 du 30 décembre 1995) permet de maintenir la possibilité d'appliquer la majoration spéciale de taxe professionnelle en franchise des règles de lien entre les taux pour les communes, qui, du fait de l'adhésion à un groupement de communes, ne remplissent plus la condition relative au niveau du taux moyen pondéré des taxes foncières et de taxe d'habitation, notamment lorsque, du fait des compétences transférées au groupement, elles ont été amenées à diminuer la pression fiscale pesant sur les ménages. Les communes pourront ainsi continuer à appliquer la majoration lorsque le taux moyen pondéré des trois taxes constaté l'année précédente est supérieur à 80 p. 100 du taux moyen national pondéré des trois taxes constaté cette même année, au niveau national, pour l'ensemble des communes.
