@@ -1,0 +1,70 @@
+# Délibération portant avis sur un projet de décret en Conseil d'Etat relatif à une expérimentation ayant pour objet d'améliorer, par comparaison d'empreintes digitales, les conditions et la fiabilité des contrôles effectués lors du passage de la frontière à l'aéroport Roissy-Charles-de-Gaulle.
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 2005-020
+- Date : 2005-02-10
+- Publication : 2019-11-13
+- NOR : CNIX0508456V
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017653264
+
+La Commission nationale de l'informatique et des libertés,
+
+Saisie pour avis par le ministère de l'Intérieur d'un projet de décret en Conseil d'Etat portant création, à titre expérimental, d'un traitement automatisé de données à caractère personnel ayant pour objet d'améliorer, par comparaison d'empreintes digitales, les conditions et la fiabilité des contrôles effectués lors du passage de la frontière à l'aéroport Roissy-Charles-de-Gaulle ;
+
+Vu la Convention n° 108 du 28 janvier 1981 du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ;
+
+Vu la convention du 19 juin 1990 d'application de l'Accord entre les gouvernements des États de l'union économique Benelux, de la République fédérale d'Allemagne et de la République française relatif à la suppression graduelle des contrôles aux frontières communes, fait à Schengen le 14 juin 1985 ;
+
+Vu la directive n° 95/46/CE du Parlement européen et du Conseil en date du 24 octobre 1995 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données ;
+
+Vu la Charte des droits fondamentaux de l'Union européenne proclamée par la Commission européenne, le Parlement européen et le Conseil de l'Union européenne lors du Conseil européen de Nice du 7 décembre 2000, et notamment son article 8 ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés modifiée par la loi n° 2004-801 du 6 août 2004 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel, et notamment son article 27 ;
+
+Vu l'arrêté du 15 mai 1996 relatif au fichier des personnes recherchées géré par le ministère de l'Intérieur et le ministère de la Défense ;
+
+Vu la délibération n° 04-075 du 5 octobre 2004 portant avis sur le projet de décret en Conseil d'État pris pour l'application de l'article 8-4 de l'ordonnance du 2 novembre 1945 relative aux conditions d'entrée et de séjour des étrangers en France et portant création à titre expérimental d'un traitement automatisé de données à caractère personnel relatives aux ressortissants étrangers sollicitant la délivrance d'un visa ;
+
+Après avoir entendu M. François Giquel, commissaire, en son rapport, et Mme Charlotte-Marie Pitrat, commissaire du Gouvernement, en ses observations ;
+
+Emet l'avis suivant
+
+Le ministère de l'Intérieur a, en application de l'article 27 de la loi du 6 janvier 1978 modifiée, saisi la Commission d'un projet de décret en Conseil d'État relatif à la mise en oeuvre, à titre expérimental, d'un dispositif de reconnaissance des empreintes digitales des voyageurs adhérant volontairement au programme "PEGASE", lors de leur passage à la frontière dans l'enceinte de l'aéroport Roissy-Charles-de-Gaulle.
+
+Aux termes du projet de décret soumis à la Commission, cette expérimentation a pour principale finalité d'améliorer les conditions du passage à la frontière et d'augmenter la fiabilité des contrôles que la France est tenue d'effectuer en vertu de ses engagements internationaux.
+
+Cette expérimentation a également pour objectifs de tester la performance du système d'authentification biométrique choisi, de mesurer les bénéfices que l'automatisation partielle du contrôle du passage aux frontières est susceptible d'apporter et d'étudier son impact sur les passagers s'y soumettant volontairement.
+
+La Commission rappelle que la mise en oeuvre d'un tel traitement doit être réalisée dans le respect des principes consacrés tant par l'article 8 de la Charte des droits fondamentaux de l'Union européenne que par la directive du 24 octobre 1995. Celle-ci doit en outre respecter les conditions de licéité posées à l'article 6 de la loi du 6 janvier 1978 modifiée, qui institue une protection des droits des personnes à l'égard du traitement automatisé de leurs données à caractère personnel.
+
+Cette expérimentation repose sur la constitution d'une base de données centralisée dans laquelle seront enregistrées les minuties des empreintes digitales des deux index des intéressés. La Commission rappelle à cet égard que le traitement, sous une forme automatisée et centralisée, de données biométriques telles que les empreintes digitales ne peut être admis, compte tenu à la fois des caractéristiques de l'élément d'identification physique retenu, des usages possibles de ces traitements et des risques d'atteintes graves à la vie privée et aux libertés individuelles en résultant, que dans la mesure où des exigences impérieuses en matière de sécurité ou d'ordre public le justifient.
+
+S'agissant de la création de la base centrale envisagée, la Commission observe à titre liminaire que les précautions prises pour la première inscription d'un passager, pourvu qu'elles soient sûres et fiables, devraient rendre inutiles la constitution et la consultation de la base projetée, si celle-ci n'a comme objet que d'éviter une deuxième inscription sous un faux nom.
+
+Elle observe également que la vérification de l'identité du passager pourrait être réalisée de façon tout aussi pertinente par une comparaison des empreintes digitales de la personne avec celles conservées dans une carte à puce détenue par l'intéressé, dès lors que cette carte serait infalsifiable.
+
+Au regard de la finalité du traitement projeté et compte tenu en l'espèce du caractère facultatif de l'adhésion au programme, la Commission estime toutefois que la création d'une base centrale comprenant les empreintes digitales des voyageurs, pour s'assurer que la personne inscrite au programme "PEGASE" est bien la même que celle qui se soumet au contrôle à la frontière, peut être admise à titre expérimental, dès lors que des précautions particulières sont adoptées lors de l'enrôlement des données biométriques et à la condition que soient strictement définies les conditions de mise en oeuvre, d'alimentation, de consultation, de mise à jour et d'effacement de cette base.
+
+Ce traitement ne saurait en tout état de cause être étendu à d'autres points de contrôle aux frontières ou pérennisé au-delà de la durée de l'expérimentation sans que la Commission ait été informée des avantages et des inconvénients précis retirés du recours à une base centrale, tout particulièrement sur le plan de la protection des droits des intéressés au regard du traitement des données biométriques les concernant et sur celui du respect du principe de proportionnalité.
+
+La Commission demande en conséquence que lui soit adressé tout document, d'étape ou définitif, propre à lui apporter l'information nécessaire.
+
+Ces éléments d'information devront être accompagnés :
+
+- du protocole d'évaluation qui aura été établi, lequel devrait intégrer la prise en compte d'incidents ou de défaillances techniques graves ou une défaillance due à une compromission interne ; le principe de cette évaluation pourrait être inscrit expressément dans le projet de décret ;
+
+- d'un rapport d'évaluation de la fiabilité des dispositifs et outils de lecture des empreintes digitales.
+
+La Commission recommande que sur le plan technique, l'élaboration de ces documents soit menée avec le concours de la direction centrale de la sécurité des systèmes d'information, responsable de la définition, de l'application et du suivi de la politique des systèmes d'information au niveau interministériel, ou de tout autre organisme habilité et susceptible d'homologuer tout ou partie des dispositifs prévus.
+
+S'agissant des informations traitées, la Commission prend acte qu'il est uniquement procédé, dans le cadre de cette expérimentation, à l'enregistrement de la date de la mise à jour de l'indicateur de passage des voyageurs à des fins de décompte des personnes concernées.
+
+La Commission demande toutefois, afin de pas permettre une possibilité de suivi des déplacements des intéressés, que l'annexe du projet de décret soit modifiée sur ce point.
+
+S'agissant de la durée de l'expérimentation, la Commission prend acte du fait que, conformément aux dispositions de l'article 7 du projet de décret, le traitement envisagé est autorisé pour une durée d'une année à compter de la publication de ce texte.
+
+La Commission prend acte des mesures d'information qui ont été prévues à destination des voyageurs s'inscrivant volontairement au programme "PEGASE".
+
+Le président, Alex TURK.
