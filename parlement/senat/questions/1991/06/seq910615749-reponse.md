@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910615749
+
+- Question : [SEQ910615749](seq910615749.md) — Politique de création d'entreprises agricoles
+
+## Réponse
+
+*Agriculture, JO du 1992-07-30, page 1723*
+
+Réponse. - L'établissement d'un registre de l'agriculture - prévu par l'article 3 de la loi n° 88-1202 du 30 décembre 1988 - a fait l'objet d'une expertise des services de l'assemblée permanente des chambres d'agriculture (APCA). Cette investigation a été conduite dans la perspective qui était celle des travaux parlementaires concernant la loi en cause, à savoir l'adaptation au secteur agricole de la notion de registre par analogie avec le répertoire des métiers conçu pour les artisans. Cette démarche s'est trouvée en conséquence plutôt orientée vers la connaissance des personnes actives travaillant sur les exploitations. Or, l'expérience de ces dernières années en matière d'indemnisation des calamités assortie des perspectives concernant le développement de mesures telles que la jachère, ou l'extensification - sans préjuger d'éventuelles mesures nouvelles liées à la réforme de la PAC - invitent à conférer une orientation différente à ce dossier, l'information essentielle ayant alors trait à la nature, au volume et à l'emplacement des productions. Certes, ces deux approches ne sont pas incompatibles, et le travail de recherche mené par l'APCA constitue, en tout état de cause, une contribution importante. Il reste que cet effort devra s'accompagner de l'étude des éléments nouveaux précités dont la prise en compte, de par l'importance des travaux qu'elle nécessite, mérite un examen complémentaire du dossier au terme duquel une nouvelle consultation des organisations professionnelles sera organisée. La simplification des procédures sera l'un des éléments essentiels de cette nouvelle étude comme elle a été le souci constant de l'étude de l'APCA.
