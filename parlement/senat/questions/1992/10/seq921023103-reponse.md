@@ -1,0 +1,9 @@
+# Réponse à la question SEQ921023103
+
+- Question : [SEQ921023103](seq921023103.md) — Protection du petit patrimoine immobilier rural
+
+## Réponse
+
+*Éducation, JO du 1993-01-14, page 77*
+
+Réponse. - M. Rémi Herment a attiré l'attention du ministre d'Etat, ministre de l'éducation nationale et de la culture, sur la nécessaire protection du petit patrimoine rural (calvaires, petits monuments commémoratifs civils ou religieux). Il suggère un mode de protection selon une procédure simple n'établissant aucune servitude sur leur environnement afin de permettre la multiplication des mesures de sauvegarde, sans entraver la nécessaire évolution du milieu rural que l'établissement de nombreux périmètres de protection ne pourrait que perturber. La préoccupation de l'honorable parlementaire rejoint celle des services du patrimoine qui interviennent d'ores et déjà en faveur de ce type de patrimoine soit en protégeant les plus intéressants au titre de la législation sur les monuments historiques, soit en finançant leur restauration sur la ligne budgétaire consacrée au patrimoine rural non protégé. En outre, la direction du patrimoine travaille, actuellement, dans le sens souhaité par cette intervention : à la lumière des réflexions de M. Jean Monnier, maire d'Angers, qui avait été chargé par le ministre de lui faire des propositions pour un mode complémentaire de protection des éléments du patrimoine qui n'entrent pas dans les critères de la loi du 31 décembre 1913, ses services mettent actuellement au point des mesures aptes à favoriser leur prise en compte dans les documents d'urbanisme. Cette procédure, qui ne générera pas de servitude de protection autour des éléments ainsi désignés à la sauvegarde, s'apparentera à la proposition de loi déposée par M. Bernard Bosson, député-maire d'Annecy.
