@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890605380
+
+- Question : [SEQ890605380](seq890605380.md) — Prix du pain dans les Alpes-Maritimes
+
+## Réponse
+
+*Consommation, JO du 1989-08-31, page 1403*
+
+Réponse. - Le prix du pain est librement déterminé par chaque commerçant depuis la libération des prix intervenue le 1er janvier 1987. Dans ces conditions, les différences qui peuvent être constatées dans une zone donnée traduisent principalement, des différences dans la structure de coût de revient des entreprises. L'intensité plus ou moins grande de la concurrence entre commerçants est également un facteur déterminant du niveau des prix pratiqués. S'agissant du prix du pain dans les Alpes-Maritimes, il apparaît qu'il n'est pas systématiquement plus élevé dans ce département que dans le reste de la France. Ainsi le prix moyen de la flûte de 200 grammes se situe à un niveau comparable à celui observé pour l'ensemble de la région Provence-Côte d'Azur, et pour le pain de 400 grammes (catégorie largement commercialisée) le prix observé dans les Alpes-Maritimes est inférieur tant au prix moyen total qu'au prix moyen régional. En ce qui concerne les carburants, les prix sont librement fixés par chaque distributeur depuis leur libération intervenue le 29 janvier 1985. Ils peuvent varier d'une pompe et d'une région à l'autre, sans que la constatation de ces écarts constitue une anomalie. Si dans certaines zones on observe des prix relativement bas, ce phénomène doit être imputé à la concurrence active due au grand nombre de stations de grandes surfaces commerciales qui vendent le carburant généralement aux environs de 20 centimes en dessous du prix moyen. Le Gouvernement, qui n'a pas l'intention de remettre en cause le principe de liberté de fixation des prix carburants, est très attentif à leur évolution et entend favoriser le développement de la concurrence dans ce secteur.
