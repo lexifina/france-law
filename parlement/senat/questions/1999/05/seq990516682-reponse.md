@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990516682
+
+- Question : [SEQ990516682](seq990516682.md) — Recours dans les lycées professionnels à des professeurs associés issus du monde de l'entreprise dans les formations " pointues " à faibles effectifs
+
+## Réponse
+
+*Éducation, JO du 1999-08-26, page 2868*
+
+Réponse. - Le décret nº 94-594 du 15 juillet 1994 relatif aux professeurs associés des établissements publics d'enseignement relevant du ministre chargé de l'éducation nationale, pris en application de l'article 73 de la loi nº 93-121 du 27 janvier 1993, prévoit d'ores et déjà que des professeurs associés peuvent être recrutés dans les disciplines d'enseignement technologique et professionnel. Les candidats aux fonctions de professeur associé à temps incomplet doivent justifier soit d'une activité professionnelle principale, autre que d'enseignement, soit d'une expérience professionnelle en rapport avec la discipline enseignée, autre qu'une activité d'enseignement, de cinq ans à temps plein ou l'équivalent, en qualité de cadre ou de technicien. Les intéressés sont nommés pour une durée de trois ans, renouvelable dans la même limite. Les candidats aux fonctions de professeur associé à temps complet doivent justifier d'une expérience professionnelle en rapport avec la discipline enseignée, autre qu'une activité d'enseignement, de dix ans à temps plein ou l'équivalent, en qualité de cadre ou de technicien. Les intéressés sont nommés pour une durée d'un an. Les demandeurs d'emploi de plus de trois mois ont priorité pour exercer les fonctions de professeur associé à temps plein. Le service annuel des professeurs associés à temps complet est fixé à 810 heures. Il a été rappelé aux recteurs d'académie par une note du 15 octobre 1998 qu'ils devaient avoir recours notamment aux professeurs associés pour faire face aux besoins de remplacement.
