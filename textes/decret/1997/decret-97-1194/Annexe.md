@@ -216,11 +216,11 @@ Décret n° 85-1108 du 15 octobre 1985 modifié relatif au régime des transport
 
 |
 
-Octroi de concession de transport de gaz combustibles.
+Autorisation de construction et d'exploitation de canalisations de transport de gaz naturel.
 
 |
 
-Article 11.
+Article 2 (dernier alinéa du 1°).
 
 |
 
@@ -536,7 +536,7 @@ Article 15
 
 |
 
-.Décret n° 2003-947 du 3 octobre 2003 modifiant le décret n° 92-647 du 8 juillet 1992 concernant l'aptitude à l'usage des produits de constriction
+Décret n° 2003-947 du 3 octobre 2003 modifiant le décret n° 92-647 du 8 juillet 1992 concernant l'aptitude à l'usage des produits de constriction
 
 1
 
@@ -3698,8 +3698,6 @@ Articles 8 et 10.
 
 Décisions entrant dans le champ des compétences de la direction générale de l'énergie et des matières première
 
-Décret n° 52-77 du 15 janvier 1952 portant approbation du cahier des charges type des transports de gaz à distance par canalisations en vue de la fourniture de gaz combustible
-
 1
 
 |
@@ -3932,11 +3930,11 @@ Décret n° 85-1108 du 15 octobre 1985 modifié relatif au régime des transport
 
 |
 
-Décision d'approbation des contrats d'importation de gaz.
+Décisions prises en matière d'autorisation de construction et d'exploitation de canalisations de transports de gaz naturel, d'approbation des projets de construction d'ouvrages de transport et de renonciation à une autorisation.
 
 |
 
-Article 3.
+Article 2 (1°), 31 et 33.
 
 |
 
@@ -3944,11 +3942,11 @@ Article 3.
 
 |
 
-Décision d'approbation des projets de construction d'ouvrages de transport et autorisation de mise en exploitation des canalisations de transport de gaz intervenant avant l'octroi de la concession.
+Suspension et retrait de l'autorisation de construction et d'exploitation de canalisations de transport de gaz naturel.
 
 |
 
-Articles 31 et 33.
+Article 42.
 
 |
 
