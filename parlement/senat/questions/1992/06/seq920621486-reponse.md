@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920621486
+
+- Question : [SEQ920621486](seq920621486.md) — Reconnaissance des diplômes entre les divers membres de la CEE
+
+## Réponse
+
+*Éducation, JO du 1992-09-17, page 2127*
+
+Réponse. - La reconnaissance académique des diplômes d'enseignement supérieur, qui permet à un ressortissant communautaire de poursuivre des études dans un autre Etat membre de la CEE, est, en règle générale, de la compétence de l'établissement d'accueil. Cependant, le programme d'action communautaire Erasmus en matière de mobilité des étudiants, adopté le 15 juin 1987 par le Conseil des communautés européennes, prévoit une reconnaissance académique complète de la période d'études effectuée dans un autre Etat membre par l'établissement d'origine. Dans ce programme, s'inscrit également le programme ECTS d'action communautaire en matière de mobilité des étudiants (programme pilote de six ans) qui permet aux étudiants de se voir intégralement reconnaître leurs périodes d'études obtenues avec succès dans n'importe quel établissement partenaire de l'ECTS. Afin de promouvoir la mobilité des étudiants, des enseignants et des chercheurs dans la Communauté, a été créé, en 1984, le réseau communautaire des centres nationaux d'information sur la reconnaissance académique (NARIC). Ces centres jouent un rôle d'information et de conseil auprès des instances concernées et des particuliers. En ce qui concerne la reconnaissance professionnelle des diplômes donnant accès à des professions réglementées, plusieurs directives ont été adoptées : des directives sectorielles et deux directives relatives à un système général de reconnaissance des diplômes sanctionnant des formations professionnelles d'au moins trois années d'études supérieures (directive 89-48 CEE du 21 décembre 1988) et jusqu'à un maximum de 2 années d'études supérieures (directive 92.51 CEE du 18 juin 1992).
