@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980306747
+
+- Question : [SEQ980306747](seq980306747.md) — Nouveaux métiers destinés au plan emploi-jeunes : agent d'entretien des espaces naturels
+
+## Réponse
+
+*Aménagement du territoire, JO du 1998-08-20, page 2658*
+
+Réponse. - Mme la ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question sur les nouveaux métiers recensés dans le cadre du plan emploi-jeunes. Vous souhaitez être informé à ce sujet du nombre d'emplois-jeunes créés notamment dans le département du Rhône, dans le secteur de l'entretien des espaces naturels et de la valorisation du patrimoine écologique. La mise en place du dispositif de la loi nouveaux services - nouveaux emplois se généralise à l'ensemble du territoire. Les premiers résultats, hors le domaine de l'éducation nationale qui relève d'une autre procédure de décision administrative, montrent une accélération de la croissance du nombre de conventions signées et des emplois effectivement créés. Cependant, comme cela avait été souligné lors de la préparation de la loi, le temps nécessaire à la définition et au montage des projets est important. Cela s'observe tout particulièrement dans le cas des projets environnementaux. Au niveau national, le nombre d'embauches effectives au titre de l'environnement à la date du 30 juin 1998 concerne 3 260 jeunes sur un total global, toutes filières confondues, de 21 662 embauches. Afin d'obtenir des renseignements plus détaillés par régions par type d'activités, le ministère de l'aménagement du territoire et de l'environnement a confié une mission statistique spéciale à l'IFEN. Les résultats sont publiés quatre fois par an, un mois et demi après la fin de chaque trimestre. Un numéro spécial " La Feuille de l'orme " sera publié par l'IFEN, à la fin août, pour présenter les grandes tendances observées au cours du premier semestre.
