@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971204660
+
+- Question : [SEQ971204660](seq971204660.md) — Obligation pour l'employeur de déclarer les procédés susceptibles de provoquer des maladies professionnelles
+
+## Réponse
+
+*Emploi, JO du 1998-03-05, page 760*
+
+Réponse. - Le Gouvernement a pris connaissance avec intérêt des conclusions du rapport qui lui a été remis par la commission d'experts mise en place en application de l'article 30 de la loi de financement de la sécurité sociale pour 1997. Cette commission, présidée par M. Alain Deniel, conseiller-maître à la Cour des comptes, a étudié de mai à septembre 1997 les dépenses de maladies professionnelles laissées à la charge de la branche maladie, maternité, invalidité, décès qui représenteraient plus de 900 millions de francs. Cette somme très importante justifie le principe du versement annuel effectué par la branche accidents du travail et maladies professionnelles à la branche maladie en application de l'article L. 176-1 du code de la sécurité sociale. Au-delà de cette disposition, le Gouvernement s'attache à améliorer la protection des salariés au travail et faciliter la reconnaissance des maladies professionnelles autour de cinq objectifs : améliorer l'information statistique, mettre en commun les compétences des médecins traitants, des médecins de la sécurité sociale et de l'inspection du travail ; améliorer très sensiblement la formation initiale et continue des praticiens en matière de pathologies professionnelles ; renforcer le rôle des 6 000 médecins du travail pour identifier très vite ces maladies dans les secteurs à risques ; enfin, faire remplir l'obligation légale faite aux employeurs de déclarer à la sécurité sociale et à l'inspection du travail les procédés susceptibles de provoquer ces maladies. Il a mis les mesures correspondantes à l'étude, avant de les soumettre aux partenaires sociaux.
