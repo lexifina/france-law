@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980105550
+
+- Question : [SEQ980105550](seq980105550.md) — Disparité dans le traitement des pensions des directeurs d'école
+
+## Réponse
+
+*Enseignement scolaire, JO du 1998-10-29, page 3458*
+
+Réponse. - Les directeurs d'école appartiennent soit au corps des instituteurs, soit à celui des professeurs des écoles. Dans le cadre du plan de revalorisation de la situation des personnels enseignants arrêté en 1989, le corps des professeurs des écoles a été créé. Corps classé dans la catégorie A, son échelonnement indiciaire est aligné sur celui des professeurs certifiés et assimilés : il est compris entre les indices bruts 379-801 (classe normale) et 587-966 (hors classe). Le nouveau corps doit à terme se substituer au corps des institueurs, corps classé en catégorie B, dont l'échelonnement indiciaire est compris entre les indices bruts 298 et 613. Les retraités ne peuvent bénéficier des réformes statutaires intervenues au profit des fonctionnaires de leur corps d'origine que l'orsqu'elles ont été appliquées à tous les actifs du corps auquel ils appartenaient. Il n'est pas possible d'anticiper sur l'achèvement d'un plan d'intégration de fonctionnaires à des niveaux supérieurs de rémunération pour les seuls retraités. En effet, une telle mesure conférerait à ces derniers un avantage par rapport à leurs collègues en activité, qui font l'objet de procédures sélectives de promotion. Ce n'est ainsi que lorsque le corps des instituteurs ne comportera plus d'actifs et en application de l'article L. 16 du code des pensions civiles et militaires de retraite qu'un tableau d'assimilation concernant les retraités, et notamment les instituteurs anciens directeurs d'école, pourra être établi. Ces dispositions de nature législative s'imposent à l'ensemble des fonctionnaires de l'Etat et non aux seuls personnels du ministère de l'éducation nationale, de la recherche et de la technologie.
