@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000626177
+
+- Question : [SEQ000626177](seq000626177.md) — Financement des services aux personnes âgées par les FAAS
+
+## Réponse
+
+*Agriculture, JO du 2000-11-16, page 3913*
+
+Réponse. - Une réflexion est actuellement conduite par le ministre de l'agriculture et de la pêche en vue de réformer le fonds additionnel d'action sociale (FAAS). Il est effectivement envisagé de fondre prochainement ce dispositif au sein de l'action sanitaire et sociale des caisses de mutualité sociale agricole. En effet, aux termes de l'article L. 726-3 du code rural, dans sa rédaction issue de la loi nº 80-1094 du 30 décembre 1980, le FAAS est destiné à apporter une contribution supplémentaire aux caisses départementales et pluridépartementales de mutualité sociale agricole en vue de leur permettre de développer leur action concernant les services ménagers pour les personnes âgées. L'existence d'un fonds additionnel d'action sociale, distinct des fonds d'action sanitaire et sociale des caisses de mutualité sociale agricole a permis dans un premier temps de développer les services ménagers, qui sont une composante de la politique de maintien à domicile des personnes âgées. Or, compte tenu des évolutions démographiques et des nouveaux besoins de la population concernée, le maintien à domicile des personnes âgées appelle des solutions plus diversifiées tels le portage des repas ou des médicaments à domicile, la télé-assistance ou la garde à domicile. La vocation restrictive du FAAS qui ne peut financer que les seuls services ménagers pour les personnes âgées apparaît aujourd'hui comme un frein à une approche globale du maintien à domicile de ces personnes dont la nécessité peut être prise en compte par l'action sanitaire et sociale des caisses de mutualité sociale agricole. Un projet en ce sens sera inséré dans la loi de financement de la sécurité sociale qui sera débattue par le Parlement en fin 2000.
