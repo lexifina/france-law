@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040813560
+
+- Question : [SEQ040813560](seq040813560.md) — Aide à la création d'entreprises en faveur des harkis
+
+## Réponse
+
+*Anciens combattants, JO du 2004-10-28, page 2467*
+
+Le ministre délégué aux anciens combattants tient à préciser à l'honorable parlementaire que l'accompagnement renforcé vers l'emploi des enfants d'anciens supplétifs a été mis en place par une circulaire interministérielle du 23 juillet 2003, complétée par celle du 15 mars 2004, ce dispositif se substituant aux mesures spécifiques antérieures. Le suivi particulier des membres de familles de harkis à la recherche d'un emploi qui font acte de candidature auprès des services des rapatriés des préfectures donne des résultats positifs puisque, à la fin du mois de juin 2003, sur un peu plus de 3 000 demandes recensées, environ 20 % des demandeurs avaient retrouvé un emploi ou une formation. Un dispositif pour les demandeurs titulaires d'un niveau bac + 2 a été mis en place avec l'Institut du mécénat de solidarité qui est chargé, par convention, de présenter leurs candidatures aux entreprises adhérentes en fonction de leurs compétences, en évitant les risques de discrimination à leur encontre. La création d'entreprise est également encouragée et les dossiers sont suivis attentivement par les directions départementales de l'emploi et de la formation professionnelle dans le cadre de la politique dynamique menée par le Gouvernement en faveur des petites et moyennes entreprises. Il convient de rappeler, par ailleurs, que le projet de loi portant reconnaissance de la nation et contribution nationale en faveur des rapatriés, voté en première lecture le 11 juin 2004 par l'Assemblée nationale, a prévu qu'un rapport sur la situation sociale des harkis et de leurs familles sera remis au Parlement un an après l'entrée en vigueur de la loi.
