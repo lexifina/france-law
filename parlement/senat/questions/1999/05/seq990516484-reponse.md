@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990516484
+
+- Question : [SEQ990516484](seq990516484.md) — Interruption volontaire de grossesse
+
+## Réponse
+
+*Santé, JO du 1999-09-30, page 3245*
+
+Réponse. - L'honorable parlementaire appelle l'attention de la secrétaire d'Etat à la santé et à l'action sociale sur le problème de l'entrave à l'interruption volontaire de grossesse. Le code de la santé publique prévoit, en cas d'entrave à l'interruption volontaire de grossesse (IVG), des sanctions dont il appartient aux établissements de santé victimes de ces agissements de demander la mise en uvre. Ainsi l'article L. 162-15 du code de la santé publique précise que sera puni d'un emprisonnement de deux ans et d'une amende de 30 000 francs ou de l'une de ces deux peines seulement, le fait d'empêcher ou de tenter d'empêcher une interruption volontaire de grossesse ou les actes préalables prévus par les articles L. 162-3 à L. 162-8 du code de la santé publique, soit en perturbant l'accès à l'établissement ou la circulation des personnes à l'intérieur de l'établissement, soit en exerçant des menaces ou tout acte d'intimidation à l'encontre des personnels médicaux et non médicaux travaillant dans l'établissement ou des femmes venues y subir une interruption volontaire de grossesse. Dans ces cas d'entrave à l'interruption volontaire de grossesse, les associations de défense des droits des femmes à accéder à la contraception et à l'avortement peuvent se porter partie civile (art. L. 162-15-1 du code de la santé publique). Par ailleurs, une circulaire du 11 janvier 1991 rappelait aux établissements les mesures à prendre en cas d'occupation des locaux où se pratiquent les IVG par des personnes agissant afin d'empêcher leur réalisation, ainsi que les différentes procédures judiciaires applicables en l'espèce.
