@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910314301
+
+- Question : [SEQ910314301](seq910314301.md) — Délais entre les différentes nominations nationales et locales
+
+## Réponse
+
+*Intérieur, JO du 1991-05-30, page 1119*
+
+Réponse. - La médaille d'honneur régionale, départementale et communale n'est pas attribuée, contrairement à ce qu'indique l'honorable parlementaire, uniquement en fonction de l'ancienneté des candidats, mais, ainsi que le précise le décret n° 87-594 du 22 juillet 1987, elle " est destinée à récompenser ceux qui ont manifesté une réelle compétence professionnelle et un dévouement constant au service des régions, des départements, des communes et de leurs établissements publics ". Par ailleurs, l'article R. 411-44 du décret précité interdisait lors de sa création l'attribution de cette médaille aux membres de la Légion d'honneur et de l'ordre national du Mérite. En effet, le grand chancelier de la Légion d'honneur, en sa qualité de responsable des ordres nationaux, d'une part, et de l'harmonisation du système des distinctions honorifiques, d'autre part, considérait qu'une nomination dans l'un ou l'autre des deux ordres nationaux récompensait l'ensemble des services rendus à la collectivité. Ce n'est qu'en raison des réactions suscitées par cette exclusion que le deuxième alinéa de l'article R. 411-44 a été abrogé par décret du 28 mars 1988 sous réserve toutefois qu'un délai, fixé à trois ans par le ministre de l'intérieur, s'écoule entre une nomination ou promotion dans les deux ordres nationaux et l'attribution ultérieure de l'un ou l'autre des échelons de la médaille d'honneur régionale, départementale et communale. En tout état de cause, une quasi-concomitance dans leur remise ne pourrait que nuire au prestige des distinctions honorofiques, et notamment à celui des deux ordres nationaux.
