@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021204601
+
+- Question : [SEQ021204601](seq021204601.md) — Participation des jeunes Français établis hors de France aux Journées de préparation à la défense
+
+## Réponse
+
+*Défense, JO du 2003-03-27, page 1041*
+
+L'article L. 114-8 du code du service national dispose que les Français âgés de moins de vingt-cinq ans qui résident à l'étranger participent, sous la responsabilité du chef de poste diplomatique ou consulaire accrédité, à l'appel de préparation à la défense, aménagé en fonction des contraintes de leur pays de résidence. La partie réglementaire du code précise que l'appel de préparation à la défense est accompli, selon les contraintes de l'Etat ou du pays de résidence, soit sous forme de sessions, soit par envoi d'un dossier individuel d'information. En cas d'impossibilité, les Français de l'étranger en sont provisoirement dispensés. Les Français qui, en raison de leur résidence à l'étranger, n'ont pu participer à une session d'appel de préparation à la défense ont la possibilité de le faire à l'occasion d'un séjour sur le territoire national. Ils y sont tenus dès lors qu'ils viennent résider habituellement en France avant l'âge de vingt-cinq ans. Ceux qui ont participé à une session adaptée en raison des contraintes du pays de résidence peuvent demander, à l'occasion d'un séjour sur le territoire national, à participer à une session de l'appel de préparation à la défense. Néanmoins l'objectif reste de permettre aux jeunes gens résidant à l'étranger d'accomplir la journée d'appel de préparation à la défense dans leur pays de résidence. C'est pourquoi seront recherchées, en association avec le Conseil supérieur des Français à l'étranger, les modalités pratiques permettant d'offrir aux jeunes gens des sessions auxquelles ils pourront facilement participer.
