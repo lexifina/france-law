@@ -1,8 +1,8 @@
-# Article 1
+# Article 1er
 
 La présente convention collective conclue en application des textes légaux et réglementaires régit les relations entre :
 
-- les agences de voyages à caractère commercial françaises ou étrangères situées sur le territoire français, titulaires de la licence d'Etat et/ou compris dans la nomenclature de l'I.N.S.E.E. sous le code 6330 Z ;
+- les agences de voyages à caractère commercial françaises ou étrangères situées sur le territoire français, titulaires de la licence d'Etat et/ou compris dans la nomenclature de l'INSEE sous le code 633 Z ;
 
 - leurs salariés, employés tant sur le territoire français que placés en situation de missions à l'étranger.
 
