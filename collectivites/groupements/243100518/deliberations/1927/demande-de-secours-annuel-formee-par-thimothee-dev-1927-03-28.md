@@ -1,0 +1,7 @@
+# Toulouse métropole : délibération — Demande de secours annuel formée par Thimothée Deville ancien ouvrier retrousseur au service du nettoiement p. 153
+
+- Collectivité : Toulouse métropole
+- SIREN : 243100518
+- Date : 1927-03-28
+- Objet : Demande de secours annuel formée par Thimothée Deville ancien ouvrier retrousseur au service du nettoiement p. 153
+- Jeu de données : https://www.data.gouv.fr/datasets/56b0c2c1a3a7294d39b88a5b
