@@ -1,9 +1,11 @@
 # Article 1628 quater
 
-Le fonds de garantie institué par l’article 15 de la loi n° 51-1508 du 31 décembre 1951, modifié par l’article 37 de la loi n° 53-1336 du 31 décembre 1953, au profit des victimes d’accidents d’automobile est alimenté par des contributions des sociétés d’assurances ou assureurs, des automobilistes assurés et des responsables d’accidents corporels d’automobiles non bénéficiaires d'une assurance. Cette dernière contribution fait l’objet, dans le cas d’une instance judiciaire, d’une condamnation expresse, conjointement à la condamnation principale d’indemnisation de la victime.
+I. Le fonds de garantie institué par l'article L. 420-1 du code des assurances, au profit des victimes d'accidents d'automobile est alimenté par des contributions des sociétés d'assurances ou assureurs, des automobilistes assurés et des responsables d'accidents d'automobile non bénéficiaires d'une assurance (1).
 
-Un règlement d’administration publique, pris après avis du conseil national des assurances, fixe les conditions d’application du présent article et, notamment, les taux et assiette des contributions prévues ci-dessus.
+II. Les dépenses résultant de l'application du premier alinéa de l'article 366 ter du code rural relatif à l'indemnisation des accidents corporels de chasse sont couvertes notamment par des contributions des sociétés d'assurances, des chasseurs assurés et des responsables d'accidents corporels de chasse non bénéficiaires d'une assurance.
 
-NOTA :
+Les taux, assiette, modalités de liquidation et de recouvrement de ces contributions sont déterminés par un décret en Conseil d'Etat, pris après avis du conseil national des assurances (2).
 
-Créé par l'article 1er du n° 54-1028 du 12 octobre 1954 portant incorporation dans le code général des impôts de divers textes modifiant et complétant certaines dispositions de ce code, JORF du 19 octobre 1954, p. 9775.
+(1) Annexe I, art. 305 AA à 305 AG.
+
+(2) Annexe II, art. 325 à 327.
