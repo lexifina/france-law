@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910716511
+
+- Question : [SEQ910716511](seq910716511.md) — Indemnités versées aux agents de brigade assurant l'intérim des receveurs des postes à Aubade
+
+## Réponse
+
+*Postes, JO du 1991-09-19, page 2038*
+
+Réponse. - Les agents des brigades de réserve départementales ont pour mission principale d'effectuer le remplacement ou l'intérim des receveurs des petits bureaux de poste ne disposant pas d'agents sur place susceptibles de pallier leurs absences. Ils perçoivent, afin d'assurer leur mission, des indemnités destinées à couvrir forfaitairement les frais supplémentaires de nourriture et de logement occasionnés lors de leurs déplacements. Ces agents obtiennent également une indemnisation de leurs frais de transport engagés pour se rendre sur les lieux où se déroulent la mission. Ces indemnités sont allouées conformément aux dispositions réglementaires relatives aux missions et déplacements des agents de La Poste, qui s'appuient sur le régime général applicable à l'ensemble des agents de l'Etat. Aussi, le logiciel Aubade, conçu conformément à la réglementation en vigueur, ne modifie-t-il en rien les droits des agents. S'agissant du retour hebdomadaire obligatoire, il convient d'observer qu'aucune disposition réglementaire ne permet aux brigadiers de s'opposer à ce retour lorsque le chef de service le prévoit. Le retour hebdomadaire à la résidence d'attache a été décidé compte tenu de la limitation de la zone géographique d'action de chacun des brigadiers. Cette organisation améliore les conditions de vie des brigadiers puisqu'ils peuvent retrouver pendant les repos dominicaux leur domicile et leur famille et réduit leurs frais engagés pour les besoins du service. Par ailleurs, les agents des brigades bénéficient d'un forfait annuel de neuf repos afin de compenser l'ensemble des sujétions attachées à leur activité.
