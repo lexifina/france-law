@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021204477
+
+- Question : [SEQ021204477](seq021204477.md) — Développement de l'intercommunalité
+
+## Réponse
+
+*Intérieur, JO du 2003-02-27, page 724*
+
+Le Conseil d'Etat a considéré dans l'arrêt commune de Laveyron (3 mai 2002) que, lorsqu'un transfert de compétences répondant aux conditions fixées par la loi a été régulièrement approuvé par l'organe délibérant d'un établissement public de coopération intercommunale et par la majorité des conseils municipaux requise par la création de cet établissement, le représentant de l'Etat est tenu de prononcer le transfert de compétences et peut prendre un arrêté en ce sens avant l'expiration du délai de trois mois dont les conseils municipaux disposent pour se prononcer. La décision rendue par le Conseil d'Etat permet de mieux cerner la portée de la décision qu'avait rendue le tribunal administratif de Melun le 25 mai 2000 (commune de Chennevières-sur-Marne, préfet du Val-de-Marne), dans laquelle le juge administratif avait considéré que le préfet ne peut prendre un arrêté portant création d'une communauté d'agglomération avant l'expiration du délai de trois mois dont disposent les conseils municipaux pour se prononcer que dans le cas où toutes les communes ont délibéré avant l'expiration de ce délai. Cette dernière jurisprudence demeure applicable dans tous les cas où le préfet dispose d'un pouvoir d'appréciation mais ne l'est pas lorsqu'il a compétence liée. Les représentants de l'Etat dans les départements ont bien évidemment été tenus informés de la portée de l'arrêt du Conseil d'Etat. Ainsi, il appartient à chaque représentant de l'Etat d'apprécier localement, compte tenu des circonstances propres à son département, s'il convient de constater ou non le transfert de compétences avant l'expiration du délai de trois mois imparti aux conseils municipaux pour se prononcer sur celui-ci.
