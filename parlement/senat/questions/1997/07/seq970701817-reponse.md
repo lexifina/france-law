@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701817
+
+- Question : [SEQ970701817](seq970701817.md) — Institut des hautes études de la justice
+
+## Réponse
+
+*Justice, JO du 1997-11-27, page 3319*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que l'Institut des hautes études sur la justice (IHEJ), organisme de recherche créé en 1990, a pour mission de développer une réflexion de qualité sur les évolutions du juridique et du judiciaire, de nature à permettre aux professionnels de la justice de mieux saisir le sens de leurs missions respectives. Il se veut un lieu d'échanges qui contribue à améliorer l'image de toutes les formes de justice auprès des décideurs politiques, économiques et sociaux, et s'ouvre à la dimension européenne en faisant la part de la culture juridique nationale. L'activité de l'IHEJ se partage en trois domaines essentiels : la réflexion, principalement par l'organisation de séminaires, les contacts internationaux et l'information, la formation ou l'animation de débats autour des questions de justice. Il n'a toutefois pas vocation à préconiser des mesures en vue d'une réforme de la justice. Néanmoins, ses travaux peuvent servir de base à une réflexion de nature plus technique mais tel n'est pas l'objet immédiat de cet institut de recherche. A titre d'illustrations, les thèmes développés dans le cadre des séminaires de philosophie du droit qu'organise l'IHEJ ont été, depuis sa création, les suivants : " Les grands courants de la philosophie du droit ", " juger ", " nouveaux risques, nouvelles responsabilités ", " justice et médias ", " le sujet de droit, entre vulnérabilité et autonomie ", " violence et insécurité ". Les sessions de formation proposées par l'IHEJ à l'ENM ont eu pour thème : " délinquance des jeunes ", " justice et médias ", " justice et psychiatrie ", " initiation à la philosophie politique ".
