@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030205614
+
+- Question : [SEQ030205614](seq030205614.md) — Respect des droits des non-fumeurs au travail et dans les restaurants
+
+## Réponse
+
+*Santé, JO du 2003-04-10, page 1260*
+
+La loi du 10 janvier 1991 relative à la lutte contre le tabagisme, qui pose le principe de l'interdiction de fumer dans les lieux affectés à un usage collectif, sauf dans les emplacements réservés aux fumeurs, est diversement respectée, en particulier sur les lieux de travail et dans les restaurants. Afin de renforcer le respect de l'application de la réglementation, le rapport d'experts sur le tabagisme passif élaboré à la demande de la direction générale de la santé (DGS), et rédigé par le professeur Bertrand Dautzenberg, propose la modification du code du travail pour rendre obligatoire dans le règlement intérieur le principe de l'interdiction de fumer et donner compétence aux inspecteurs du travail pour constater les infractions aux dispositions de la loi concernant la protection des non-fumeurs. Les conditions de mise en oeuvre de ces propositions font actuellement l'objet d'un travail en commun entre les services du ministère de la santé, de la famille et des personnes handicapées et ceux du ministère des affaires sociales, du travail et de la solidarité. En ce qui concerne les restaurants, il importe de mobiliser les directions départementales des affaires sanitaires et sociales pour s'assurer du respect des dispositions légales et réglementaires et rendre plus systématiques les sanctions prévues par la législation à l'encontre des restaurateurs contrevenants. De plus, le ministère chargé de la santé finance des associations de lutte contre le tabagisme qui ont conduit des actions dans ce domaine. Une réflexion est actuellement en cours à la DGS sur les moyens de renforcer l'application des textes en vigueur. Ces dispositions devraient se concrétiser avec le plan de lutte contre le cancer impulsé par le Président de la République.
