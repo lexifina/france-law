@@ -70,7 +70,7 @@ Un manipulateur d'électroradiologie médicale, recevant des élèves en stage, 
 
 Trois représentants des élèves dont au moins un par promotion tirés au sort parmi les élus au conseil technique.
 
-Conseil de discipline des centres de formation en soins infirmiers.
+Conseil de discipline des instituts de formation en soins infirmiers.
 
 Le représentant de l'Etat dans le département ou son représentant, président.
 
@@ -78,7 +78,7 @@ Le directeur de l'organisme gestionnaire ou son représentant, siégeant au cons
 
 Le médecin participant à la formation des étudiants, élu au conseil technique.
 
-Un surveillant participant à la formation des étudiants dans le centre de formation en soins infirmiers concerné, tiré au sort parmi les trois élus au conseil technique
+Un surveillant participant à la formation des étudiants dans l'institut de formation en soins infirmiers concerné, tiré au sort parmi les trois élus au conseil technique
 
 Un surveillant chargé de fonctions d'encadrement dans un service de soins d'un établissement public de santé ou d'un établissement de santé privé, tiré au sort parmi les deux élus au conseil technique.
 
