@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000222327
+
+- Question : [SEQ000222327](seq000222327.md) — Femmes : formations en alternance et aides à la création d'entreprises
+
+## Réponse
+
+*Droits des femmes, JO du 2000-09-14, page 3177*
+
+Réponse. - L'attention de la secrétaire d'Etat aux droits des femmes et à la formation professionnelle a été appelée sur les suites qu'elle réserve au rapport Génisson en matière d'accès des femmes aux formations en alternance et autres aides à la création d'entreprises. S'agissant de l'accès des jeunes femmes aux formations en alternance, l'objectif de progression de la part des filles dans l'apprentissage figurait dans le PNAE 1999 et cette orientation a été renforcée en 2000. Il s'agit, d'ici à la fin 2000, d'orienter 35 % de filles vers les contrats d'apprentissage. Des expérimentations en régions seront soutenues en ce sens. La région du Limousin est d'ores et déjà sélectionnée pour conduire la première de ces expérimentations. S'agissant de la place des femmes dans l'accès aux aides à la création d'entreprises, le PNAE 1999 affiche explicitement un objectif d'augmentation de la part des femmes dans l'initiative économique. Lors de son intervention du 8 mars 2000, le Premier ministre a défini les objectifs de l'action gouvernementale autour des axes suivants : faire progresser de 25 % le nombre de femmes créatrices d'entreprises ; mener des actions de sensibilisation des acteurs institutionnels et économiques ; renforcer les moyens d'accompagnement des créatrices d'entreprises ; favoriser l'accès au financement des créatrices, notamment par un abondement supplémentaire du fonds de garantie pour l'initiative des femmes ; améliorer la reconnaissance professionnelle des conjointes de travailleurs indépendants. Ces objectifs s'inscrivent et renforcent les dispositifs de droit commun de la politique publique déjà menée en faveur de la création d'entreprises.
