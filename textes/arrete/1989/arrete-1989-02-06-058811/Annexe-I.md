@@ -60,9 +60,13 @@ Hydrate d'hydrazine (en solution aqueuse à 16 p. 100 au maximum d'hydrazine) ;
 
 Dose d'emploi : pas plus de 10 g par tonne de betteraves (exprimée en hydrazine).
 
+Glutaraldéhyde (en solution aqueuse titrant au maximum 50 % de glutaraldéhyde) ;
+
+Dose d'emploi : pas plus de 250 g par tonne de betteraves (exprimés en glutaraldéhyde).
+
 III. - Floculants et coagulants :
 
-Copolymères d'acrylamide et d'acrylate de sodium (constitués de 90 à 50 p. 100 de motif acrylamide et de 10 à 50 p. 100 de motif acrylate).
+Copolymères d'acrylamide et d'acrylate de sodium (constitués de 90 à 50 p. 100 de motif acrylamide et de 10 à 50% de motif acrylate).
 
 Dose d'emploi : pas plus de 6 g par mètre cube de jus sucré.
 
@@ -76,7 +80,7 @@ Acide nitrilo-tri-méthylène phosphonique.
 
 Dose d'emploi : pas plus de 6 g par mètre cube de jus sucré.
 
-Teneur résiduelle : pas plus de 0,5 mg par kilogramme de sucre. Copolymères d'acrylamide et d'acrylate de sodium (constitués de 20 p. 100 du motif acrylamide et de 80 p. 100 du motif acrylate). Poids moléculaire compris entre 800 et 7 000.
+Teneur résiduelle : pas plus de 0,5 mg par kilogramme de sucre. Copolymères d'acrylamide et d'acrylate de sodium (constitués de 20% du motif acrylamide et de 80% du motif acrylate). Poids moléculaire compris entre 800 et 7 000.
 
 Dose d'emploi : pas plus de 10 g par mètre cube de jus sucré.
 
@@ -101,6 +105,14 @@ Acide 1-hydroxyéthylidène 1,1-diphosphorique (HEDP).
 Dose d'emploi : pas plus de 7 g par mètre cube de jus sucré.
 
 Teneur résiduelle : pas plus de 5 mg par kilogramme de sucre.
+
+Acide polymaléique ;
+
+Masse moléculaire : 550 à 600 ;
+
+Dose d'emploi : pas plus de 5 g par mètre cube de jus sucré ;
+
+Teneur résiduelle : pas plus de 1 mg/kg de sucre.
 
 V. - Antimousses :
 
@@ -188,15 +200,15 @@ Copolymères d'oxyde d'éthylène et d'oxyde de propylène estérifiés et conde
 
 Ces antimousses peuvent contenir les adjuvants suivants :
 
-- monoéthanolamine : pas plus de 0,1 p. 100 de l'antimousse ;
+- monoéthanolamine : pas plus de 0,1% de l'antimousse ;
 
 - silice ;
 
-- hexylène glycol : pas plus de 5 p. 100 de l'antimousse ;
+- hexylène glycol : pas plus de 5% de l'antimousse ;
 
-- acide mono-stéaryl-phosphorique : pas plus de 1,5 p. 100 de l'antimousse ;
+- acide mono-stéaryl-phosphorique : pas plus de 1,5% de l'antimousse ;
 
-- acide sorbique (E 200) et acide acétique (E 260) pas plus de 0,2 p. 100 de l'antimousse.
+- acide sorbique (E 200) et acide acétique (E 260) pas plus de 0,2% de l'antimousse.
 
 VI. - Résines échangeuses d'ions :
 
