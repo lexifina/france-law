@@ -2,11 +2,7 @@
 
 Agen-La Garenne.
 
-Aix-les-Milles.
-
-Ajaccio Campo - Dell'Oro.
-
-Angers-Avrillé.
+Ajaccio - Campo-Dell'Oro.
 
 Avignon-Caumont.
 
@@ -22,15 +18,11 @@ Béziers-Vias.
 
 Biarritz-Bayonne.
 
-Biscarosse-Parentis.
-
 Bordeaux-Mérignac.
 
 Brest-Guipavas.
 
 Caen-Carpiquet.
-
-Calais-Dunkerque.
 
 Calvi - Sainte-Catherine.
 
@@ -40,21 +32,13 @@ Carcassonne-Salvaza.
 
 Chambéry - Aix-les-Bains.
 
-Châteaudun.
-
 Châteauroux-Déols.
-
-Chavenay-Villepreux.
 
 Cherbourg-Maupertuis.
 
 Clermont-Ferrand - Aulnat.
 
 Colmar-Houssen.
-
-Cuers-Pierrefeu.
-
-Dax-Seyresses.
 
 Deauville - Saint-Gatien.
 
@@ -64,103 +48,67 @@ Dinard-Pleurtuit.
 
 Dole-Tavaux.
 
-Etampes-Mondésir.
-
 Figari - Sud-Corse.
-
-Fréjus - Saint-Raphaël.
-
-Grenoble-Le Versoud.
 
 Grenoble - Saint-Geoirs.
 
-Hyères-Le Palyvestre.
+Hyères - La Palyvestre.
 
-Istres-Le-Tubé.
+Istres - Le Tubé.
 
-La Rochelle-Laleu.
+La Rochelle - Laleu.
 
 Lannion.
 
-Le Havre-Octeville.
-
-Le Luc - Le Canet.
-
-Le Mans-Arnage.
-
-Le Touquet-Paris-Plage.
-
-Les Mureaux.
+Le Havre - Octeville.
 
 Lille-Lesquin.
 
 Limoges-Bellegarde.
 
-Lognes-Emerainville.
-
 Lorient - Lann-Bihoué.
-
-Lyon-Satolas.
 
 Lyon-Bron.
 
+Lyon-Satolas.
+
 Marseille-Provence.
 
-Meaux-Esbly.
-
-Merville-Calonne.
-
-Metz-Frescaty.
-
-Metz-Nancy-Lorraine.
+Metz-Nancy - Lorraine.
 
 Montpellier-Fréjorgues.
 
-Morlaix-Ploujean.
+Nantes-Atlantique.
 
-Mulhouse-Habsheim.
+Nice - Côte d'Azur.
 
-Muret-Lherm.
-
-Nantes - Château-Bougon.
-
-Nice-Côte d'Azur.
-
-Nîmes-Garon.
+Nîmes-Garons.
 
 Paris - Charles-de-Gaulle.
 
-Paris-Le Bourget.
+Paris - Le Bourget.
 
 Paris-Orly.
 
-Pau - Pont-Long-Uzein.
+Pau-Pyrénées.
 
 Perpignan-Rivesaltes.
 
-Poitiers - Biard.
+Poitiers-Biard.
 
 Pontoise - Cormeilles-en-Vexin.
 
-Quimper - Pluguffan.
+Quimper-Pluguffan.
 
-Reims - Champagne.
+Reims-Champagne.
 
 Rennes - Saint-Jacques.
-
-Rochefort - Saint-Agnant.
 
 Rodez-Marcillac.
 
 Rouen - Vallée de Seine.
 
 Saint-Brieuc.
-
-Saint-Cyr-l'Ecole.
-
-Saint-Yan.
-
-Saintes-Thénac.
 
 Saint-Etienne - Bouthéon.
 
@@ -170,30 +118,10 @@ Strasbourg-Entzheim.
 
 Tarbes-Ossun-Lourdes.
 
-Toulouse - Blagnac.
-
-Toulouse-Lasbordes.
+Toulouse-Blagnac.
 
 Tours - Saint-Symphorien.
 
 Toussus-le-Noble.
 
-Troyes-Barberey.
-
 Valence-Chabeuil.
-
-Vannes-Meucon.
-
-Vichy-Charmeil.
-
-Fort-de France - LeLamentin.
-
-Pointe-à-Pître - Le raizet.
-
-Cayenne - Rochambeau.
-
-Saint-Denis - Guillot.
-
-Nouméa - La Tontouta.
-
-Tahiti - Faaa.
