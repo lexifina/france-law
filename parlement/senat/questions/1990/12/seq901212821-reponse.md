@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901212821
+
+- Question : [SEQ901212821](seq901212821.md) — Remplacement des carbures chlorofluorés par des substituts
+
+## Réponse
+
+*Environnement, JO du 1991-02-21, page 372*
+
+Réponse. - Le remplacement des chlorofluorocarbures (C.F.C.) utilisés comme agents gonflants des mousses plastiques est indispensable pour prévenir la destruction de la couche d'ozone strastosphérique. Cette substitution ne fait que commencer dans le secteur des mousses et s'avère plus facile pour les mousses souples que pour les mousses rigides. A supposer que la substitution soit terminée, l'efficacité écologique ne pourrait être constatée aujourd'hui, puisque les C.F.C. ont une durée de vie si longue que les premiers effets des mesures prises aujourd'hui, c'est-à-dire la diminution des quantités de chlore présentes dans la stratosphère, ne pourront pas être observés avant une dizaine d'années. Dans le domaine de la sécurité, le remplacement des C.F.C. ne pose pas de problème particulier, puisque les substituts utilisés ou envisagés sont soit des substances anciennes telles que le dioxyde de carbone et l'eau, soit des hydrochlorofluorocarbures (H.C.F.C.) ou des hydrofluorocarbures (H.F.C.) dont la toxicité se sera révélée acceptable lors de la réalisation des très importants programmes d'essais réalisés pour les compagnies productrices de substituts. La commission d'évaluation de l'écotoxicité des substances chimiques dont le secrétariat est assuré par le ministère chargé de l'environnement, procède actuellement à l'étude systématique de tous les H.C.F.C. et H.F.C. qui pourraient être éventuellement utilisés. Certaines substances anciennes, telles que des hydrocarbures ou le chlore de méthylène peuvent également remplacer les C.F.C. dans les mousses : des mesures de sécurité doivent alors obligatoirement être prises en raison de leur inflammabilité ou de leur toxicité.
