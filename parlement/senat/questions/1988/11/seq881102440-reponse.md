@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881102440
+
+- Question : [SEQ881102440](seq881102440.md) — Taxation des fleurs en provenance de la Martinique
+
+## Réponse
+
+*Équipement, JO du 1989-03-09, page 405*
+
+Réponse. - Le système de taxation, appelé poids/volume, utilisé par la compagnie nationale Air France pour le transport des fleurs produites aux Antilles est adopté par tous les transporteurs aériens dès lors que les expéditions sont de faible densité. En effet, la taxation au poids de chargements très volumineux serait pénalisante pour l'économie du transporteur. Selon cette formule, le volume de l'expédition est alors traduit en poids selon le barème de 6 décimètres cubes pour un kilogramme. Les fleurs produites aux Antilles (anthuryum, roses de porcelaine...) peuvent difficilement être conditionnées de façon à constituer des envois de haute densité comme le sont les fleurs (oeillets, roses...) expédiées par les producteurs des Pays-Bas, ce qui permet l'application de la taxation au poids. La compagnie nationale Air France a, pour répondre aux préoccupations des producteurs antillais, abaissé en juin 1987 les tarifs applicables aux envois de fleurs de plus de 200 kilogrammes ; ces tarifs sont actuellement inférieurs à ceux de janvier 1984. Selon la compagnie, ces tarifs ne défavorisent pas les producteurs de fleurs par rapport aux producteurs de fruits et légumes, dont les envois ont une densité beaucoup plus forte. En effet, un conteneur de Boeing 747 cargo peut contenir trois fois plus de fruits que de fleurs conditionnées de façon avantageuse ; l'écart important entre les tarifs " fleurs " et les tarifs " fruits et légumes " n'est toutefois pas susffisant pour que la compagnie perçoive une recette équivalente : pour un volume égal (un conteneur de B 747), la compagnie ne peut escompter pour le transport de fleurs qu'une recette de 50 p. 100 inférieure à celle qu'elle obtiendrait en transportant des fruits.
