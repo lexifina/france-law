@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890504688
+
+- Question : [SEQ890504688](seq890504688.md) — Collectivités territoriales
+
+## Réponse
+
+*Collectivités territoriales, JO du 1989-08-10, page 1238*
+
+Réponse. - Le décret n° 88-625 du 6 mai 1988 précise les conditions d'application de la loi n° 88-13 du 5 janvier 1988 en ce qui concerne les modalités de détermination des seuils de capacité d'accueil pour figurer sur la liste des communes éligibles à la dotation supplémentaire aux communes et groupements de communes à vocation touristique. Ces textes ont apporté des aménagements substantiels au dispositif d'admission à la dotation tel qu'il résultait de la loi n° 85-1268 du 29 novembre 1985. La méthode d'évaluation de la capacité d'accueil des communes et groupements prévue par le décret n° 88-625 a fait l'objet d'une concertation très étroite avec les représentants des élus locaux et notamment l'assocation des maires des communes touristiques. Les nouvelles dispositions tendent à favoriser le développement d'un hébergement touristique de qualité et à éviter un saupoudrage des aides de l'Etat. Dans ces conditions, la capacité d'accueil pondérée minimale exigée a été relevée à 700 au lieu de 500 prévue par le décret du 10 janvier 1980 et 650 par le décret du 8 juillet 1983. Les préoccupations de petites communes ne sont cependant pas négligées dans la mesure où la réforme a également pour objet : de revaloriser les coefficients afférents aux terrains de camping et aux gîtes ruraux ; de prendre en compte les capacités d'accueil en voie de création. Par ailleurs, les communes qui ne remplissent plus les conditions d'éligibilité à la dotation reçoivent 80 p. 100 du montant alloué l'année précédente. Ce montant est diminué de 20 points par an. Ce dispositif permet d'éviter toute variation brusque des ressources des communes. Enfin, pour bénéficier de la dotation supplémentaire, les communes peuvent se regrouper dans un groupement à vocation touristique.
