@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960616250
+
+- Question : [SEQ960616250](seq960616250.md) — Commémoration du cessez-le-feu en Algérie
+
+## Réponse
+
+*Anciens combattants, JO du 1996-08-22, page 2135*
+
+Réponse. - La détermination d'une date pour célébrer la fin des combats en Algérie est une tâche délicate. La situation actuelle est celle du principe du libre choix de la journée du souvenir, puisqu'aucun accord n'est intervenu entre les organisations représentatives du monde combattant qui souhaitent célébrer ce souvenir, notamment le 19 mars, date anniversaire du cessez-le-feu de 1962 en Algérie, ou le 16 octobre, date anniversaire du transfert à Notre-Dame-de-Lorette du soldat inconnu d'Algérie. D'autres dates ont été envisagées. Les pouvoirs publics participent aux cérémonies commémoratives dans le respect d'une stricte égalité de traitement entre les associations attachées à l'une ou l'autre de ces journées du souvenir. Le représentant de l'Etat et les autorités militaires de rang correspondant sont présents et les honneurs militaires sont rendus par un détachement. A la demande du Premier ministre, le ministre des anciens combattants et victimes de guerre s'est employé, en concertation avec les associations concernées, à rechercher une date appropriée pour la commémoration de la fin des hostilités en Algérie. Il n'est pas certain qu'il soit davantage possible aujourd'hui d'aboutir à un accord. Il semble même qu'on s'en éloigne de plus en plus. L'idée d'une " journée nationale du souvenir ", soit le 8 mai, soit le 11 novembre, sans pour autant du reste supprimer ces célébrations, progresse. Elle est cependant certainement prématurée. Ce sont les générations futures qui décideront. Dans ces conditions, le ministre n'officialisera pas la date du 19 mars et propose le statu quo.
