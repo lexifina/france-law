@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971104072
+
+- Question : [SEQ971104072](seq971104072.md) — Réglementation de la profession de conducteur de taxi
+
+## Réponse
+
+*Intérieur, JO du 1998-02-19, page 596*
+
+Réponse. - L'honorable parlementaire demande si les conditions de délivrance des cartes professionnelles de conducteurs de taxi telles qu'elles sont fixées par le décret no 95-935 du 17 août 1995 portant application de la loi no 95-66 du 20 janvier 1995 relative à l'accès à l'activité de conducteur et à la profession d'exploitant de taxi permettent à un chauffeur ayant exercé l'activité de conducteur de taxi au sein d'une SARL unipersonnelle et y ayant apporté des fonds en numéraire et en industrie de se voir attribuer de droit la carte professionnelle s'il n'est pas en mesure de justifier de l'exercice de son activité effective et continue à la date du 15 décembre 1995. Conformément aux dispositions de l'article 14 du décret du 17 août 1995, tout candidat à la délivrance d'une carte professionnelle doit pouvoir prouver qu'il exerçait de manière effective et continue son activité à la date susmentionnée. Aucune dérogation n'y a été prévue. L'activité doit, de ce fait, pouvoir être justifiée par des documents comme l'attestation d'une prise en charge du conducteur par son employeur disposant d'une autorisation de stationnement, ou par une inscription au répertoire des métiers. Dans ces conditions, ou bien la personne en cause peut établir qu'elle a travaillé effectivement et de manière continue comme conducteur de taxi au 15 décembre 1995 et une carte professionnelle pourrait lui être délivrée, ou bien elle est dans l'impossibilité d'apporter les éléments nécessaires et elle devra normalement subir les épreuves de l'examen du certificat de capacité prévu à l'article 2 de la loi no 95-66 du 20 janvier 1995 précitée pour se voir délivrer une carte professionnelle.
