@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941209230
+
+- Question : [SEQ941209230](seq941209230.md) — Tribunaux d'instance
+
+## Réponse
+
+*Justice, JO du 1995-03-16, page 645*
+
+Réponse. - L'honorable parlementaire a bien voulu appeler l'attention de monsieur le ministre d'Etat, garde des sceaux, ministre de la justice, sur la situation des effectifs dans les tribunaux d'instance. Au cours de ces dernières années, le volume du contentieux a effectivement augmenté du fait des réformes instituant des procédures simplifiées et entraînant l'attribution de nouvelles compétences. Le renforcement éventuel de ces juridictions sera mis à l'étude en vue de la répartition des emplois de magistrat créés au budget 1995, au regard des multiples priorités auxquelles la Chancellerie doit faire face. S'agissant des effectifs de magistrats, 26 emplois de juge ont été créés dans les tribunaux d'instance depuis 1990. S'agissant des effectifs de fonctionnaires, d'une manière générale, le taux de vacance a atteint en 1994 son niveau le plus bas (3,72 p. 100). A l'issue de la réunion de la commission administrative paritaire du 24 janvier 1995, 38 postes restent vacants pour la catégorie des greffiers en chef dans les 473 tribunaux d'instance, dont 36 postes de chef de greffe. Toutefois, 5 postes de greffier en chef ont été créés au tribunal d'instance de Paris Ier (service de la nationalité). Cette politique de l'emploi est en outre poursuivie au titre du plan pluriannuel pour la justice, dans le cadre duquel est programmée la création de 300 postes de magistrat et 1 020 postes de fonctionnaire. Par ailleurs, dans le but de réduire les délais de jugement de cinq à trois mois dans les tribunaux d'instance d'ici à 1999, la loi prévoit une amélioration de l'organisation de la justice : l'institution de magistrats exerçant à titre temporaire dans les juridictions du premier degré ; la relance de la conciliation et de la médiation.
