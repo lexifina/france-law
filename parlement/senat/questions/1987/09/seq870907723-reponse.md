@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870907723
+
+- Question : [SEQ870907723](seq870907723.md) — Signalisation des " bouchons " sur les autoroutes
+
+## Réponse
+
+*Équipement, JO du 1987-12-03, page 1910*
+
+Réponse. -Il existe deux types de signalisation pour informer les usagers circulant sur autoroute, de la présence de bouchons en aval. D'une part, une signalisation rapprochée, annonçant la queue du bouchon est mise en oeuvre à l'aide de panneaux à messages variables montés sur un fourgon circulant à contresens sur la bande d'arrêt d'urgence. Le but de ce système mobile est, en suivant l'évolution du bouchon, d'avertir les usagers de la présence d'un ralentissement de la circulation ou de véhicules à l'arrêt sur la chaussée. Il vise, en incitant les automobilistes à réduire leur vitesse, à éviter les accidents en queue de bouchon. D'autre part, en cas de perturbation importante du trafic une signalisation appropriée à distance informe les usagers de la perturbation et conseille une sortie en amont sur le réseau parallèle à l'autoroute. Afin d'améliorer les conditions d'information des automobilistes en amont de la dernière sortie utile, une expérimentation à l'aide de panneaux à messages variables est actuellement en cours sur l'autoroute A 6, entre Paris et Lyon. Tous les enseignements seront tirés de cette expérimentation avant de généraliser ce système. Il convient notamment de savoir que, compte tenu de la distance entre les sorties sur autoroute et des détails de détection actuels des perturbations, seuls les événements imprévisibles d'une durée minimale de 45 minutes environ peuvent faire l'objet d'une information des usagers par un tel système. Ces mesures font partie des actions d'exploitation normales des autoroutes en cas de fort trafic, notamment lors des grandes migrations d'été et d'hiver, et en cas de coupures totales d'autoroute résultant en particulier d'accidents ou d'incidents impliquant des véhicules lourds.
