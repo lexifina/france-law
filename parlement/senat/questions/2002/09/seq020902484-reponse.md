@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020902484
+
+- Question : [SEQ020902484](seq020902484.md) — Direction départementale des affaires maritimes (DDAM) de la Manche
+
+## Réponse
+
+*Transports, JO du 2003-02-13, page 587*
+
+L'honorable parlementaire attire l'attention du secrétaire d'Etat aux transports et à la mer sur la situation de la direction départementale des affaires maritimes de la Manche sur deux points : la mutation sans préavis de l'adjoint du directeur à Paris, sans qu'il ait pu être remplacé, et l'avenir de la vedette Tourne-Pierre. Sur le premier point, les mutations des administrateurs des affaires maritimes sont décidées au cours du premier quadrimestre : l'examen très attentif préparatoire aux décisions n'exclut pas les évènements imprévisibles conduisant à modifier le schéma arrêté. Sans nier l'importance de chaque poste sur le littoral, l'urgence à pourvoir un poste à Paris a prévalu. Le poste vacant d'adjoint au directeur des affaires maritimes de la Manche sera pourvu au mois de mai 2003. Sur le second point, l'ensemble des moyens du dispositif de contrôle et de surveillance de la Manche et de la mer du Nord, dont dépend notamment la vedette régionale des affaires maritimes Tourne-Pierre, fait l'objet d'une restructuration pour mieux répondre aux besoins de sécurité maritime et de surveillance et de contrôle des pêches maritimes. Il est envisagé de remplacer avantageusement cette vedette par le second patrouilleur des affaires maritimes qui devrait rentrer en service actif au cours du premier semestre 2004. Ce futur navire, de dimensions plus importantes, de plus grande puissance et doté de meilleures autonomie et tenue à la mer, participera alors de manière efficace et positive aux nombreuses missions de sécurité et de surveillance maritimes que requièrent la Manche et la mer du Nord.
