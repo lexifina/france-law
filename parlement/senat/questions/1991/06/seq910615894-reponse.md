@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910615894
+
+- Question : [SEQ910615894](seq910615894.md) — Modalités d'octroi d'une prime d'intéressement aux employés municipaux
+
+## Réponse
+
+*Intérieur, JO du 1992-08-27, page 1973*
+
+Réponse. - Conformément à l'article 20 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires, les fonctionnaires ne peuvent bénéficier que des indemnités instituées par un texte législatif ou réglementaire. Pour ce qui est des fonctionnaires territoriaux, leur régime indemnitaire doit être défini désormais dans le cadre du décret n° 91-875 du 6 septembre 1991 pris pour l'application de l'article 88 de la loi du 26 janvier 1984 modifiée. Ce régime est déterminé par référence aux textes applicables aux fonctionnaires de l'Etat exerçant des fonctions équivalentes. Il ne remet pas en cause les avantages acquis, maintenus par l'article 111 de la loi du 26 janvier 1984, qui ne peuvent cependant être ni revalorisés ni étendus conformément à la jurisprudence du Conseil d'Etat. Si aucun texte en vigueur ne permet l'attribution spécifique de " primes d'intéressement " aux fonctionnaires territoriaux, il est rappelé que dans le nouveau cadre légal et réglementaire sus-évoqué, les collectivités territoriales ont la liberté de fixer, à l'intérieur des limites résultant des textes applicables aux services de l'Etat, le régime indemnitaire de leurs agents. Elles peuvent moduler et différencier les primes, selon les critères qu'elles déterminent, à concurrence des plafonds précisés par le décret du 6 septembre 1991 précité. Leur marge de manoeuvre se trouve ainsi fortement accrue par rapport aux textes indemnitaires particuliers, seuls applicables auparavant, notamment par le jeu de l'enveloppe complémentaire prévue par l'article 5 du décret du 6 septembre 1991. Ces possibilités paraissent pouvoir être utilisées dans un esprit proche de la préoccupation manifestée par l'honorable parlementaire.
