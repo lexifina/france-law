@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911017608
+
+- Question : [SEQ911017608](seq911017608.md) — Progrès accomplis dans la gestion des organismes de sécurité sociale
+
+## Réponse
+
+*Affaires sociales, JO du 1991-11-07, page 2468*
+
+Réponse. - Le ministre chargé de la sécurité sociale a pris connaissance de l'ensemble des rapports transmis par les comités départementaux d'examen des comptes des organismes de sécurité sociale. Une attention particulière est portée sur le suivi des avis du comité dès lors qu'ils sont assortis de réserves ou de recommandations. En effet, il est systématiquement demandé aux présidents des conseils d'administration de préciser la suite que l'organisme qu'il préside a donnée aux observations des Codec. Pour ce qui concerne le département du Rhône, des lettres ont été envoyées aux présidents des conseils d'administration de la caisse d'allocations familiales et de la caisse primaire d'assurance maladie. La C.P.A.M. de Lyon a pris toutes dispositions pour remédier à la procédure de virement de crédits, améliorer l'activité du service contentieux, revoir la procédure de passation des marchés publics. Toutefois, les effets réels de ces mesures ne pourront être évalués qu'au travers du rapport Codec sur l'exercice 1990. La C.A.F. de Lyon a, en liaison avec les représentants du Codec, trouvé une solution au problème de la détention de fonds par des agents non cautionnés ; par ailleurs une étude a été menée par la caisse pour établir une méthode visant à améliorer la sélectivité des dossiers en matière de recouvrement des indus. En outre, l'élaboration d'un programme informatique national, en cours d'études, devrait permettre une meilleure personnalisation de la phase pré-contentieuse. Là encore les actions menées par la C.A.F., notamment sur le deuxième point, ne porteront leur plein effet qu'au cours des prochains mois.
