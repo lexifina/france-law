@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930224724
+
+- Question : [SEQ930224724](seq930224724.md) — Délai des appels à activité des lauréats de concours de La Poste
+
+## Réponse
+
+*Postes, JO du 1993-03-25, page 533*
+
+Réponse. - Pour assurer la continuité du service public et permettre un comblement des vacances d'emploi au fur et à mesure qu'elles se produisent, La Poste et France Télécom doivent avoir en permanence des lauréats en instance d'appel à l'activité. A cet effet, les concours de recrutement sont organisés par anticipation, en tenant compte des mouvements de personnel prévisibles, des sorties définitives de fonctions envisagées, ainsi que des défections susceptibles d'intervenir parmi les lauréats au moment de l'appel à l'activité. De telles prévisions sont par nature difficiles à établir. Au 31 décembre 1992, 4 500 personnes reçues à différents concours externes ouverts en 1990 et 1991 pour le recrutement de fonctionnaires de La Poste et de France Télécom attendaient d'être appelés à l'activité. Les lauréats du concours de préposé de juin 1991 seront tous appelés à l'activité au cours de l'année 1993 et les lauréats des concours d'agent d'exploitation du service général de février 1990 et de contrôleur de mai 1991 seront appelés à l'activité suivant un échéancier qui est en cours d'élaboration à La Poste et qui s'échelonnera sur l'année 1993 et le début de 1994. De plus, les lauréats du concours interne de contrôleur de juin 1991 seront tous nommés le 1er avril 1993. A l'avenir, ces délais d'attente devraient être sensiblement réduits car, dans le cadre du nouveau dispositif de comblement des emplois en préparation, les exploitants publics envisagent de confier le recrutement aux échelons locaux, ce qui devrait permettre de déterminer les besoins avec une plus grande précision.
