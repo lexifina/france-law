@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508000
+
+- Question : [SEQ980508000](seq980508000.md) — Dissolution du département protection sécurité (DPS) du Front national
+
+## Réponse
+
+*Intérieur, JO du 1998-06-18, page 1959*
+
+Réponse. - L'honorable parlementaire appelle l'attention de Monsieur le ministre de l'intérieur sur le service d'ordre de sécurité du Front national, le département protection sécurité (DPS) et lui demande s'il envisage d'étudier à nouveau la possibilité de dissoudre ce service en vertu de la loi du 10 janvier 1936 relative aux groupes de combat et milices privées. La loi du 10 janvier 1936 sur les groupes de combat et milices privées prévoit sept cas de dissolution administrative d'associations : celles qui provoquent les manifestations armées dans la rue ; celles qui ont le caractère de groupe de combat ou de milice privée ; et cinq cas non pertinents en l'espèce, s'agissant de l'éventuelle dissolution du " département Protection sécurité " du Front national. Pour répréhensibles qu'ils soient, les agissements du " Département protection sécurité " n'ont pas paru rassembler les criètres exigés par la loi et la jurisprudence (Conseil d'Etat, 27 novembre 1936, La Croix de fer et Briscard) pour qu'ils puissent permettre de procéder à une mesure de dissolution administrative qui doit demeurer un acte exceptionnel. En particulier, les actions particulièrement condamnables de certains membres de ce département, qui sont incontestables, ne confèrent pas à l'ensemble de l'organisation le caractère de groupe de combat ou de milice privée défini par la loi. Les procédures judiciaires sont donc à privilégier. Le Gouvernement veille à ce que tout fait répréhensible dont se rendraient coupables des membres de ce service d'ordre donne lieu à des poursuites pénales. Cette organisation fait l'objet, en tout état de cause, d'une attention toute particulière.
