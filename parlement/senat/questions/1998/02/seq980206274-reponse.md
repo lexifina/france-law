@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980206274
+
+- Question : [SEQ980206274](seq980206274.md) — Paracommercialisme dans le secteur de la brocante et de l'antiquité
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 1998-04-30, page 1421*
+
+Réponse. - L'article 27 de la loi no 96-603 du 5 juillet 1996 relative au développement et à la promotion du commerce et de l'artisanat soumet à autorisation les ventes de marchandises effectuées dans des locaux ou sur des emplacements non destinés à la vente au public de ces marchandises. Par conséquent, les ventes de marchandises neuves ou d'occasion réalisées par des particuliers entrent dans le champ d'application de ce régime d'autorisation. Ce nouveau régime confère au demandeur la responsabilité du respect des dispositions que contiendra l'autorisation. Son bénéficiaire demeure bien évidemment garant du respect des textes relatifs à la prévention et à la répression du recel et organisant la vente ou l'échange d'objets mobiliers, codifiés dans les articles 321-7 et 321-8 du code pénal. Sur ces bases, l'autorité compétente apprécie l'opportunité de délivrer l'autorisation de vente au déballage et rappelle à chacun les obligations auxquelles il est soumis et les conséquences de leur non-respect. Par ailleurs, les particuliers ne peuvent en application des articles 1 et 632 du code du commerce réaliser des actes de commerce à titre habituel. L'exercice à but lucratif d'une activité commerciale par une personne physique qui n'a pas satisfait aux obligations légales pour l'exercice de ladite activité est sanctionnée par des peines de deux mois à deux ans de prison et/ou d'amende de 2000 à 200 000 francs (art. 362-3 du code du travail). Les instruments juridiques nécessaires existent donc pour limiter le nombre de ventes réalisées par des particuliers.
