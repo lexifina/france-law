@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971204901
+
+- Question : [SEQ971204901](seq971204901.md) — Réforme du système de remplacement des enseignants
+
+## Réponse
+
+*Éducation, JO du 1998-02-12, page 479*
+
+Réponse. - Le remplacement des personnels enseignants des lycées et collèges constitue l'une des préoccupations constantes du ministre de l'éducation nationale, soucieux d'assurer la permanence et la qualité du service public d'éducation. Cependant, compte tenu de la diversité des disciplines, l'organisation du remplacement des enseignants dans l'enseignement du second degré n'est pas aisée, les absences de courte durée étant particulièrement difficiles à gérer. Il revient donc aux établissements de rechercher les solutions permettant la prise en charge immédiate des élèves dont le professeur est absent pour une brève période, en rétribuant notamment un enseignant éventuellement d'autre discipline de l'établissement en heures supplémentaires. S'agissant, en revanche, des absences de moyenne et de longue durée, il est fait appel à des remplaçants : titulaires, maîtres auxiliaires, et surveillants agents vacataires temporaires. En tout état de cause, s'il existe nécessairement un décalage entre le moment où une absence de moyenne durée, notamment, est constatée et celui auquel il est possible de la suppléer ; la recherche d'une gestion optimale des moyens disponibles, adaptée à chaque type d'absence (de courte, moyenne ou de longue durée) doit permettre d'assurer la couverture de l'ensemble des besoins de remplacement. Ce dernier point fait l'objet de réflexions menées dans le cadre d'un groupe de travail dont la mission première est de proposer des solutions pour diminuer les causes d'absence imputables à la gestion administrative et par exemple à celle de la formation continue des enseignants et pour améliorer le dispositif de remplacement existant. Ce groupe sera amené, si besoin est, à proposer les modifications des textes en vigueur.
