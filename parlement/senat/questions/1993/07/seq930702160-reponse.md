@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930702160
+
+- Question : [SEQ930702160](seq930702160.md) — Difficultés des ostréiculteurs de l'Aude et des Pyrénées-Orientales
+
+## Réponse
+
+*Environnement, JO du 1993-12-16, page 2413*
+
+Réponse. - Les atteintes saisonnières à la qualité des eaux de l'étang de Salses-Leucate sont d'origines multiples : activités touristiques, rejets d'eaux résiduaires urbaines, apports diffus d'azote d'origine agricole, etc. Les interdictions temporaires de ventes de coquillages qui ont été nécessaires en juillet 1993 ne peuvent donner lieu à indemnisation dans l'état actuel des choses. La restauration de la qualité des eaux de l'étang de Salses-Leucate ne peut être assurée que par la mise en place d'une gestion intégrée de son bassin versant et des usages du plan d'eau, impliquant l'ensemble des riverains et des communes concernées qui doivent mettre en oeuvre les mesures nécessaires à la réduction des nuisances et au maintien d'une qualité des eaux compatible avec la poursuite des activités conchylicoles. La loi sur l'eau du 3 janvier 1992 a rénové le cadre législatif dans lequel peut être envisagé une telle gestion intégrée, notamment en prévoyant l'élaboration d'une planification des usages de l'eau au travers de schémas d'aménagement et de gestion des eaux. Les actions correspondantes peuvent faire l'objet de contrats entre l'ensemble des acteurs concernés, l'Etat et les agences de l'eau au travers de la procédure des contrats de baie pour les actions de restauration des eaux littorales. Le préfet de l'Aude a d'ailleurs eu l'occasion de proposer ce type de contrat aux élus locaux concernés. Dans ce cadre, l'agence de l'eau Rhône-Méditerranée-Corse peut apporter des subventions décisives en matière d'études préalables (50 p. 100) et de travaux d'assainissement (30 p. 100).
