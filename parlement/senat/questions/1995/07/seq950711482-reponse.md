@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950711482
+
+- Question : [SEQ950711482](seq950711482.md) — Fiscalité du gazole
+
+## Réponse
+
+*Équipement, JO du 1995-11-23, page 2223*
+
+Réponse. - Le ministre de l'équipement, du logement, des transports et du tourisme est particulièrement attentif aux conséquences d'une éventuelle hausse de la fiscalité sur le gazole pour les entreprises de transport routier. Les pouvoirs publics se sont engagés en mai 1994, avec l'ensemble des acteurs du transport routier, dans un " contrat de progrès " qui vise à moderniser les structures économiques de la profession et à renforcer le respect de la réglementation en matière routière et de droit du travail. Ce contrat de progrès a permis l'instauration d'un climat de concertation fructueux entre les pouvoirs publics et les entreprises de transport routier, de sorte que l'incidence de la fiscalité sur le gazole sur les conditions d'exploitation de ces entreprises est parfaitement connue. La reconnaissance de leur spécificité se traduit par la déductibilité de la TVA perçue sur les carburants. A ce titre, ils ne seront pas affectés par la hausse récente de 18,6 p. 100 à 20,6 p. 100 de cette taxe, qui frappera par contre les automobilistes particuliers. Les intérêts essentiels des utilisateurs professionnels de la route continueront donc à être pris en compte. Par ailleurs, la hausse envisagée du gazole en raison d'une augmentation de la TIPP dans le cadre du projet de loi de finances, maintient le prix du gazole dans la moyenne communautaire, ce qui est essentiel. En revanche, en dépit de la revendication ancienne des transporteurs routiers, la mise en place d'un carburant spécifiquement utilitaire n'apparaît pas possible tant pour des raisons techniques de distribution que pour des enjeux d'harmonisation communautaire.
