@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981011284
+
+- Question : [SEQ981011284](seq981011284.md) — Contrôle des sociétés d'assurance vie
+
+## Réponse
+
+*Économie, JO du 1998-12-03, page 3864*
+
+Réponse. - Depuis 1945, les difficultés d'entreprises d'assurance vie ont toujours donné lieu à un règlement dans le cadre de la profession. La Fédération française des sociétés d'assurance vient de décider de faire jouer la solidarité de place pour éviter que les assurés d'Europavie soient lésés par le défaut de cet établissement, ce dont le ministre de l'économie, des finances et de l'industrie se félicite, à la suite du souhait qu'il avait émis dès le mois d'août. La gestion et le règlement des contrats en cours des assurés et souscripteurs d'Europavie seront donc effectués par la profession selon des modalités que celle-ci définira en liaison avec le tribunal de commerce de Nanterre et la commission de contrôle des assurances. Par ailleurs, dès le mois de décembre 1997, le ministre de l'économie, des finances et de l'industrie a pris, devant la profession de l'assurance, l'engagement de présenter au Parlement un projet de loi instituant un système de garantie destiné à préserver les droits des assurés en cas de défaillance d'une entreprise d'assurance commercialisant des contrats spécialisés en assurance de personnes (vie, capitalisation ou dommages corporels). Après une concertation approfondie avec la profession de l'assurance, le projet de texte est aujourd'hui prêt. Il a reçu un avis favorable du Conseil national de l'assurance - organisme consultatif associant des parlementaires, et des représentants des assurés, de la profession et des personnels - lors de sa séance du 13 octobre dernier. Il est en cours d'examen par le Conseil d'Etat. Ce projet devrait être adopté par le conseil des ministres et déposé au Parlement au mois de décembre prochain.
