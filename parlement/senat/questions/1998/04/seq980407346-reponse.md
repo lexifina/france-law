@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980407346
+
+- Question : [SEQ980407346](seq980407346.md) — Droits de l'homme en Iran
+
+## Réponse
+
+*Affaires étrangères, JO du 1998-06-25, page 2038*
+
+Réponse. - La France, avec ses partenaires européens, suit avec une grande attention la situation des droits de l'homme en Iran, comme partout dans le monde. Depuis un an, des prorgrès ont été enregistrés en ce qui concerne le comportement iranien en la matière. Les autorités iraniennes affirment leur intention de faire prévaloir l'Etat de droit et de favoriser le respect des libertés civiles et politiques. Nous constatons, notamment dépuis les dernières élections présidentielles, qu'elles agissent progressivement en ce sens. Les déclarations du président Khatami en faveur de la liberté d'expression doivent également être soulignées. A ce stade, la mise en uvre de ces orientations a permis l'épanouissement du débat démocratique au sein d'une société civile qui s'exprime d'une façon plus libre. La liberté de la presse, en particulier, a progressé de manière appréciable. De telles ouvertures recueillent l'approbation d'une majorité de la population iranienne. Il reste naturellement du chemin à parcourir. Le cas hautement symbolique de l'écrivain britannique Salman Rushdie n'a toujours pas trouvé de solution. D'une manière générale, dans la résolution relative à l'Iran adoptée lors de sa dernière session, la Commission des droits de l'homme des Nations unies à appelé l'Iran à continuer d'aller de l'avant et à répondre aux attentes de la communauté internationale. Le Gouvernement français évoque la situation des droits de l'homme lors de ses contacts avec les autorités iraniennes. Elle ne manque pas de souligner que des avancées dans ce domaine continuent d'être nécesaire pour favoriser la réinsertion de l'Iran dans le concert des nations.
