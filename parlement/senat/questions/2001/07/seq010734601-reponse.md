@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010734601
+
+- Question : [SEQ010734601](seq010734601.md) — Aide au dépôt de plainte pour les commerçants
+
+## Réponse
+
+*Intérieur, JO du 2001-12-27, page 4105*
+
+L'honorable parlementaire interroge sur les moyens offerts par la police nationale aux commerçants pour faciliter leur dépôt de plainte. Les services de sécurité publique ont entrepris, depuis plusieurs années, l'amélioration des conditions d'accueil par un aménagement plus adapté des locaux. Cet effort s'est accompagné d'une formation des personnels afin d'évoluer vers un dispositif d'aide aux plaignants avec notamment une attention particulière portée aux victimes de violences. Plus récemment, la mise en place de la police de proximité a confirmé et amplifié cette évolution, et désormais les plaintes sont prises en continu. A ce titre, le traitement en temps réel devient le mode de fonctionnement habituel de la plupart des services où la réception des plaintes est effectuée 24 heures sur 24 et 7 jours sur 7. De plus, la multiplication des lieux d'accueil, grâce à l'ouverture de 619 implantations nouvelles, se répartissant en 223 nouveaux bureaux de police, 392 points de contacts de police de proximité et 4 commissariats subdivisionnaires, facilitera les démarches du public auprès de la police. La plupart des commissariats disposent aussi d'un logiciel d'accueil qui permet la remise à la victime, dès son arrivée, d'une fiche explicitant la procédure, et énumérant les documents et les renseignements qui lui seront demandés. Par ailleurs, en cas de nécessité, la prise de plainte peut être relevée sur rendez-vous, ou sur un carnet de déclarations le policier se déplaçant au domicile ou sur le lieu de travail du plaignant. L'ensemble de ces mesures a favorisé et amélioré les conditions d'accueil du public et doit satisfaire aux besoins spécifiques des commerçants comme de l'ensemble de nos concitoyens.
