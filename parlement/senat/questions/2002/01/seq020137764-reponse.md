@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020137764
+
+- Question : [SEQ020137764](seq020137764.md) — Inquiétudes du GRERS
+
+## Réponse
+
+*Économie, JO du 2002-02-28, page 654*
+
+Afin de répondre aux obligations de la réglementation européenne, Electricité de France (EDF) doit mettre en oeuvre des procédures transparentes et non discriminatoires pour l'attribution de ses marchés. Par ailleurs, l'établissement public s'efforce de tirer parti des nouvelles technologies de l'information pour améliorer la performance de ses achats. Des nouvelles techniques d'achat électroniques, qui viennent en complément des méthodes d'achat précédemment utilisées et gardent un caractère expérimental, sont ainsi développées. Elles ont été expérimentées pour la première fois par le centre EDF-GDF Bourgogne-Sud pour l'attribution de marchés de travaux de réseaux de moyenne importance. Les entreprises de la région ont formulé des remarques sur cette nouvelle méthode dont EDF tiendra compte pour les prochaines affaires qui pourraient faire appel à cette technique. En particulier, seul le classement relatif des offres sera indiqué à l'avenir. Par ailleurs, les années 2000 et 2001 ont été caractérisées par une tension importante du marché de l'offre, en raison notamment des travaux de consolidation des réseaux électriques endommagés par les tempêtes de décembre 1999, et EDF a été amené à élargir les consultations aux entreprises communautaires, dans le respect de la réglementation européenne. Cet élargissement de la consultation n'exclut pas pour autant le rôle des entreprise locales, proches du lieu des travaux et dont la rapidité d'intervention sur les réseaux est bienévidemment supérieure. Ainsi, le volume de travaux confié par EDF-GDF services aux entreprises du groupement régional des entreprises de réseaux secs souterrains (GRERS) de Bourgogne sur la région a représenté 18 millions d'euros en 2000 et 22 millions d'euros en 2001.
