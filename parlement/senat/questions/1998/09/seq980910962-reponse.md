@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980910962
+
+- Question : [SEQ980910962](seq980910962.md) — Renouvellement de la Convention de Lomé
+
+## Réponse
+
+*Coopération, JO du 1998-11-05, page 3537*
+
+Réponse. - La France a participé très activement à la négociation du mandat qui est actuellement proposé aux ACP. Elle a fait entendra sa voix pour que soit mise en place une transition douce entre le régime commercial actuel et un régime plus conforme aux règles de l'OMC. Aussi est-il proposé qu'à l'issue d'une période de transition de cinq ans (2000-2005), pendant laquelle les préférences non réciproques actuelles et les protocoles produits seront maintenus, des accords en vue de la libéralisation progressive des échanges soient conclus entre l'Union européenne et des sous-ensembles ACP. Ils permettraient de donner une impulsion à l'intégration régionale entre ACP et de stimuler l'intérêt des investissements pour ces Etats. Plus que des concessions tarifaires dont les ACP ont tiré un parti insuffisant et dont l'impact est appelé à se réduire compte tenu de l'érosion des préférences, ce nouveau partenariat économique offrira de meilleures perspectives d'insertion dans l'économie mondiale. Il a été décidé que les efforts d'adaptation des ACP exigés par cette évolution du régime commercial seraient accompagnés par l'Union. Il sera notamment tenu compte de la situation particulière des pays les moins avancés qui bénéficieront d'une aide à l'ajustement supplémentaire. Par ailleurs, le Conseil s'est engagé, dans la ligne de ses conclusions du 2 juin 1997, à ménager en faveur des PMA, ACP ou non, un accès à droit nul pour l'essentiel de leurs produits d'ici à 2005. Les ACP non PMA qui ne seraient pas en mesure de rejoindre à cette date les zones de libre-échange UE-ACP se verront offrir le moment venu un cadre garantissant des avantages équivalents à ceux dont ils disposent aujourd'hui.
