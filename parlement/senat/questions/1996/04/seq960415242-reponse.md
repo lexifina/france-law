@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960415242
+
+- Question : [SEQ960415242](seq960415242.md) — Diminution de l'enveloppe de prêts bonifiés des artisans
+
+## Réponse
+
+*Économie, JO du 1996-07-11, page 1748*
+
+Réponse. - Le Gouvernement a adopté depuis un an une série de mesures importantes en faveur des PME et plus particulièrement de l'artisanat. Pour faciliter l'accès au crédit des artisans, le Gouvernement a élargi l'éligibilité aux garanties octroyées par la société française pour l'assurance du capital risque (SOFARIS) à l'ensemble de ce secteur. En outre, la mise en place d'un fonds en faveur des très petites entreprises au sein de la SOFARIS a permis à cette institution d'avoir une action plus volontariste en faveur des entreprises dont la taille empêchait trop souvent un traitement dossier par dossier. Pour diminuer le coût de ce crédit au-delà de la baisse générale des taux, le Gouvernement a autorisé les établissements de crédit à octroyer des crédits sur ressources CODEVI à l'ensemble des artisans. Depuis le début de l'année, c'est ainsi plus de trois milliards de francs de crédit qui ont été accordés. Le taux maximum de ces prêts a été de plus ramené en avril 1996 de 8,25 p. 100 à 6,95 p. 100 pour les prêts à moins de 7 ans soit un taux inférieur au taux des prêts bonifiés à l'artisanat en 1995. Enfin une enveloppe de prêts de plus de 1 milliard de francs à un taux d'environ 3,50 p. 100 a été mise en place en faveur de l'installation des artisans et de la mise aux normes de leurs entreprises. A cette enveloppe s'ajoute une enveloppe de 2 milliards de francs de prêts conventionnés au taux de 7,50 p. 100 environ. Au total, c'est probablement près de 10 milliards de crédits à taux privilégiés qui devraient être offerts aux artisans au cours de l'année 1996. Dans ce contexte, il n'est pas envisagé d'augmenter l'enveloppe de prêts bonifiés mise en place.
