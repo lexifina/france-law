@@ -34,6 +34,10 @@ B. - Fonctions exercées dans un service déconcentré
 
 6° Contrôleur général ou directeur régional du travail des transports des régions Ile-de-France, Provence-Alpes-Côte d'Azur, Nord - Pas-de-Calais, Rhône-Alpes et Aquitaine.
 
+7° Directeur régional des affaires maritimes.
+
+8° Directeur départemental des affaires maritimes.
+
 C. - Fonctions exercées dans un service
 
 à compétence nationale ou dans un service technique central
