@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941209225
+
+- Question : [SEQ941209225](seq941209225.md) — Exercice de la profession de gérant de tutelle
+
+## Réponse
+
+*Justice, JO du 1995-05-18, page 1164*
+
+Réponse. - Le choix du régime de la tutelle en gérance suppose que le patrimoine du majeur protégé ait une faible consistance. Dès lors, la mission du gérant de tutelle s'attache principalement à la gestion de revenus par définition peu importants ; elle ne peut être étendue à d'autres actes que sur autorisation du juge des tutelles. Aux termes de l'article 499 du code civil, le gérant de tutelle peut être, soit un préposé de l'établissement de traitement, soit un administrateur spécial. Le décret no 69-169 du 15 février 1969 apporte des précisions en ce qui concerne la désignation de ces deux catégories de personnes. Pour le préposé de l'établissement de traitement, l'article 1er de ce texte dispose que la personne la plus qualifiée doit être désignée. L'article 2 du même décret énumère quatre catégories de personnes pouvant être nommées comme administrateur spécial, en raison de leur aptitude à exercer une telle fonction. S'il est exact qu'aucune condition tenant à la formation ou au recrutement n'est expressément requise, la désignation du gérant de tutelle est subordonnée en pratique à une exigence de qualification suffisante. Il convient, par ailleurs, de rappeler qu'outre les émoluments du gérant de tutelle pour l'exercice de ses pouvoirs ordinaires, une rémunération supplémentaire peut lui être allouée par le juge des tutelles dans les cas prévus à l'article 500 alinéa 2 du code civil. Les dispositions en vigueur répondent donc déjà largement aux préoccupations de l'honorable parlementaire. Néanmoins, la Chancellerie partage le souci exprimé par celui-ci de voir revaloriser le statut des gérants de tutelle. Une réflexion pourrait être entreprise à ce sujet.
