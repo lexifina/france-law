@@ -1,41 +1,35 @@
-# Article Annexe 2
+# Article Annexe 2 à l'art. R611-9
 
-I - Répartition des sièges d'administrateurs représentant les caisses mutuelles régionales des professions industrielles et commerciales, y compris la section mutuelle autonome de la batellerie et les collèges électoraux industriels et commerciaux des caisses mutuelles régionales communes aux groupes des professions artisanales et des professions industrielles et commerciales.
+Répartition des sièges d'administrateurs représentant la caisse mutuelle régionale des professions industrielles et commerciales de la région parisienne, y compris la section mutuelle autonome de la batellerie, et les collèges électoraux industriels et commerciaux de certaines caisses mutuelles régionales communes aux groupes des professions artisanales et des professions industrielles et commerciales.
 
-- Collèges industriels et commerciaux des CMR du Nord et du Pas-de-Calais : 1 siège
+La caisse mutuelle régionale des professions industrielles et commerciales de la région parisienne et la section mutuelle autonome d'assurance maladie et maternité des travailleurs non salariés de la batellerie
 
-- Collèges industriels et commerciaux des CMR de Picardie et de Champagne-Ardennes : 1 siège
+3 sièges
 
-- Collèges industriels et commerciaux des CMR de Haute-Normandie et de Basse-Normandie : 1 siège
-
-- Collège industriel et commercial de la CMR de Bretagne :
+Le collège industriel et commercial de la caisse mutuelle régionale d'Aquitaine
 
 1 siège
 
-- Collège industriel et commercial de la CMR des Pays de la Loire : 1 siège
-
-- Collèges industriels et commerciaux des CMR du Centre et d'Auvergne : 1 siège
-
-- Collèges industriels et commerciaux des CMR de Poitou-Charentes et du Limousin : 1 siège
-
-- Collège industriel et commercial de la CMR d'Aquitaine :
+Le collège industriel et commercial de la caisse mutuelle régionale de Bretagne
 
 1 siège
 
-- Collège industriel et commercial de la CMR de Languedoc-Roussillon : 1 siège
-
-- Collèges industriels et commerciaux des CMR de Provence, de la Côte d'Azur et de la Corse : 1 siège
-
-- Collège industriel et commercial de la CMR de Midi-Pyrénées :
+Le collège industriel et commercial de la caisse mutuelle régionale de Midi-Pyrénées
 
 1 siège
 
-- Collèges industriels et commerciaux des CMR du Rhône et des Alpes : 1 siège
+Le collège industriel et commercial de la caisse mutuelle régionale des Pays de la Loire
 
-- Collèges industriels et commerciaux des CMR de Bourgogne de Franche-Comté : 1 siège
+1 siège
 
-- Collèges industriels et commerciaux des CMR d'Alsace et de Lorraine : 1 siège
+Le collège industriel et commercial de la caisse mutuelle régionale du Rhône
 
-- Caisse mutuelle régionale des professions industrielles et commerciales de la région parisienne et section mutuelle autonome d'assurance maladie et maternité des travailleurs non-salariés de la batellerie : 3 sièges
+1 siège
 
-TOTAL : 17 sièges
+Total
+
+8 sièges
+
+NOTA :
+
+Conformément à l’article 17 II du décret n° 2018-174 du 9 mars 2018, jusqu’à leur dissolution les dispositions du présent article restent applicables aux caisses déléguées pour la sécurité sociale des indépendants dans leur rédaction antérieure à la publication dudit décret.
