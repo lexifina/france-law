@@ -1,6 +1,6 @@
 # Article 11 bis
 
-Les fonctionnaires du corps de l'expansion économique à l'étranger ne peuvent être nommés au grade de conseiller commercial de classe exceptionnelle de 2e catégorie que s'ils justifient avoir satisfait à l'obligation mentionnée à l'article 1er du décret n° 97-274 du 21 mars 1997 relatif à la mobilité des fonctionnaires des corps recrutés par la voie de l'Ecole nationale d'administration et des administrateurs des postes et télécommunications.
+Les fonctionnaires du corps de l'expansion économique à l'étranger ne peuvent être nommés au grade de conseiller commercial de classe exceptionnelle s'ils justifient avoir satisfait à l'obligation mentionnée à l'article 1er du décret n° 97-274 du 21 mars 1997 relatif à la mobilité des fonctionnaires des corps recrutés par la voie de l'Ecole nationale d'administration et des administrateurs des postes et télécommunications.
 
 Sont considérés comme ayant rempli cette obligation les conseillers commerciaux qui justifient avoir exercé, pendant deux ans, des activités différentes de celles normalement dévolues aux membres du corps auquel ils appartiennent ou relevant de l'administration à laquelle ils ont été initialement affectés. Cette période dite de mobilité peut être entamée dès la nomination dans le corps et est accomplie dans les institutions et administrations mentionnées au premier alinéa de l'article 2 du décret du 21 mars 1997 susmentionné.
 
