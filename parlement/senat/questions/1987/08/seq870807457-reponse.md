@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870807457
+
+- Question : [SEQ870807457](seq870807457.md) — Recours des associations de défense de l'environnement : limitation
+
+## Réponse
+
+*Environnement, JO du 1987-09-24, page 1513*
+
+Réponse. -Le ministre chargé de l'environnement fait observer que les recours déposés par les associations de défense de l'environnement contre des décisions d'aménagement ne peuvent engendrer de retard dans la réalisation des opérations que pour autant qu'ils aient été assortis d'une demande de sursis à exécution à laquelle la juridiction administrative a pu faire droit. Les conditions d'octroi du sursis à exécution ont été définies avec une grande rigueur, par la jurisprudence d'abord, par le législateur ensuite (loi du 10 juillet 1976 relative à la protection de la nature, loi du 12 juillet 1983 relative à la démocratisation des enquêtes publiques et à la protection de l'environnement), et elles laissent à penser qu'en tout état de cause celui-ci ne saurait être prononcé sur la base d'un recours " abusif ". Ces conditions reposent, en effet, sur le principe de l'invocation de moyens sérieux, de nature à permettre au juge, quand il statuera au fond, d'annuler la décision attaquée. De manière générale, si l'intervention contentieuse des associations met en lumière des conflits d'interprétation de l'intérêt général, elle permet aussi, à défaut d'une capacité d'autosaisine du juge, d'éclairer et de consolider un droit de l'environnement encore très récent. A cet égard, les associations se révèlent souvent comme de précieux auxiliaires du principe de la légalité, le respect de ce dernier restant à l'appréciation du juge. En tout état de cause, le caractère " abusif " d'une requête est défini par le droit et apprécié par la juridiction administrative pour chaque espèce. Celle-ci peut condamner son auteur à une amende dans le cas où cet abus a été relevé par le juge.
