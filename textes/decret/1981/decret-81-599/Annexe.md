@@ -66,9 +66,13 @@ Préparation d'exemplaires complémentaires.
 
 Dépôt.
 
-Maintien.
-
 Prorogation.
+
+Renonciation à l'ajournement de la publication.
+
+Renonciation aux effets du dépôt.
+
+Régularisation, rectification, relevé de déchéance.
 
 Enregistrement et gardiennage d'enveloppe spéciale.
 
@@ -76,13 +80,17 @@ Enregistrement et gardiennage d'enveloppe spéciale.
 
 - Topographies de produits semi-conducteurs :
 
-dépôt et conservation ; consultation d'un dépôt ; inscription d'un acte modifiant ou transmettant les droits ; délivrance de certificats et copie du registre national.
+dépôt et conservation ;
+
+consultation d'un dépôt ;
+
+inscription d'un acte modifiant ou transmettant les droits ;
+
+délivrance de certificats et copie du registre national.
 
 - Récompenses industrielles : enregistrement d'un palmarès, d'une récompense, ou transcription d'une déclaration de cession ou de transmission.
 
-7. Registres nationaux des brevets et des marques.
-
-Inscription.
+7. Registres nationaux des brevets, marques, dessins et modèles. Demande d'inscription.
 
 8. Registre du commerce et des sociétés.
 
