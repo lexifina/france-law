@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701187
+
+- Question : [SEQ970701187](seq970701187.md) — Bilan du plan de développement des bibliothèques
+
+## Réponse
+
+*Éducation, JO du 1997-10-30, page 2986*
+
+Réponse. - Un plan national de développement des bibliothèques centres documentaires (BCD) a été mis en place de 1993 à 1996. Ce plan a permis à chaque département de recevoir une dotation pour créer ou développer des BCD dans les écoles. Afin de mieux connaître le réseau des bibliothèques d'école, leur organisation, leur fonctionnement et leur influence, la direction des écoles a lancé une enquête en janvier 1996. Une brève note de service du 4 octobre 1996 publiée au Bulletin officiel de l'éducation nationale du 17 octobre a rendu compte du bilan de celle-ci. Parallèlement les résultats détaillés de cette enquête et un document de synthèse ont été envoyés dans chaque académie et dans chaque département. Ils ont fait l'objet d'une analyse fine dans le cadre des cinq séminaires interacadémiques réalisés durant l'année scolaire 1996-1997 à destination des coordinateurs départementaux " maîtrise de la langue ". En effet, afin de renforcer la continuité de ces actions et de multiplier les échanges entre les maîtres, des coordinateurs " maîtrise de la langue " ont été désignés dans chaque département durant l'année scolaire 1996-1997 ; ils représentent des personnes ressources qui avec l'appui du groupe départemental constitué par l'inspecteur d'académie, développent des projets, valorisent les réussites et concourent aux actions de formation et d'information, assurant ainsi une meilleure cohérence de l'action départementale en ce domaine. Un bilan précis des actions mises en place dans le département du Rhône peut être demandé à l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale.
