@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001129201
+
+- Question : [SEQ001129201](seq001129201.md) — Exode des personnes exclues vers les campagnes
+
+## Réponse
+
+*Agriculture, JO du 2001-04-05, page 1156*
+
+Réponse. - Plusieurs articles de presse, dont celui que cite l'honorable parlementaire, soulignent le déplacement de populations exclues vers les zones rurales. Si les acteurs du monde rural s'interrogent sur ce phénomène sociologique nouveau, il reste difficile de la quantifier. En effet, aucune statistique ne permet d'en mesurer l'ampleur, la diversité ou encore de pondérer ces constats par le taux d'échec. Un colloque organisé par le ministère de l'emploi et de la solidarité les 3 et 4 février 1999 par le Comité français de service social et d'action sociale sur le thème " La France et ses campagnes " a tenté d'identifier ces nouveaux enjeux sociaux ainsi que les stratégies liées à la redéfinition des contours des espaces ruraux comtemporains. De même, la caisse centrale de mutualité sociale agricole a traité cette question lors de la conférence européenne qu'elle a organisée les 19 et 20 octobre 2000, à Clermont-Ferrand, sur l'exclusion sociale en milieu rural. Si la reconversion en milieu rural peut constituer une opportunité pour certaines populations exclues provenant des zones urbaines, il convient néanmoins de ne pas méconnaître les difficultés posées par des installations de ce type. C'est pourquoi les services du ministère de l'agriculture et de la pêche uvrent à la promotion d'expérimentations d'accompagnement à l'installation progressive en agriculture avec le concours des diverses organisations professionnelles. Cette collaboration se fait également avec les services du ministère de l'emploi et de la solidarité ainsi que ceux des collectivités locales auxquels sont adjoints les différents organismes et associations à caractère social et économique.
