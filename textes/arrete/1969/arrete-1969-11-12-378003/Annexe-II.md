@@ -14,7 +14,11 @@ A. — Préfecture de police.
 
 4. Laboratoire de toxicologie: ingénieurs, aides techniques principaux, aides techniques et aides de laboratoire.
 
-5. Institut médico-légal : secrétaires administratifs faisant fonctions de contrôleurs adjoints.
+5. Institut médico-légal :
+
+secrétaires administratifs faisant fonctions de contrôleurs adjoints ;
+
+Agents du corps des identificateurs.
 
 B. — Préfecture de Paris.
 
