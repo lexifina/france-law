@@ -20,6 +20,8 @@
 
 : Centrafrique : 0,085 : |
 
+: Comores : 0,078 : |
+
 : Congo : 0,077 : |
 
 : Côte-d'Ivoire : 0,067 : |
