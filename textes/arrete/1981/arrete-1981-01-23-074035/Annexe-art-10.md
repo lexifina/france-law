@@ -12,9 +12,7 @@ Le conseil d'administration a notamment pour rôle :
 
 3° D'arrêter les comptes annuels ;
 
-4° De nommer le directeur, le directeur adjoint, l'agent comptable et sur la proposition du directeur les titulaires des autres emplois de direction dont la désignation est soumise à l'agrément ministériel prévu à l'article 19-1 du décret n° 60-452 du 12 mai 1960. Ces nominations ne peuvent être prononcées qu'après avis de la caisse nationale.
-
-Toute décision du conseil d'administration en matière de rétrogradation, révocation ou licenciement d'un agent de direction ou de l'agent comptable ne peut être prise qu'après avis de la caisse nationale, ainsi que de la commission instituée en application de l'article 19, II du décret n° 60-452 du 12 mai 1960.
+4° De nommer le directeur, le directeur adjoint, l'agent comptable et sur la proposition du directeur les titulaires des autres emplois de direction dont la désignation est soumise à l'agrément ministériel prévu à l'article R. 123-48 du code de la sécurité sociale. Ces nominations ne peuvent être prononcées qu'après avis de la caisse nationale. Toute décision du conseil d'administration en matière de rétrogradation, révocation ou licenciement d'un agent de direction ou de l'agent comptable ne peut être prise qu'après avis de la caisse nationale, ainsi que de la commission instituée en application de l'article 19, II du décret n° 60-452 du 12 mai 1960.
 
 5° De contrôler l'application par le directeur et l'agent comptable des dispositions législatives et réglementaires, le fonctionnement des services administratifs placés sous l'autorité de ceux-ci, ainsi que l'exécution de ses propres délibérations.
 
