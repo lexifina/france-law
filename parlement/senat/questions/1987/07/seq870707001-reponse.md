@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870707001
+
+- Question : [SEQ870707001](seq870707001.md) — Sécurité électrique des sites SNCF
+
+## Réponse
+
+*Transports, JO du 1987-11-19, page 1841*
+
+Réponse. -L'installation d'une clôture pour matérialiser la présence du chemin de fer est prévue par l'article 4 de la loi du 15 juillet 1845 sur la police des chemins de fer et par le décret n° 58-390 du 14 avril 1958 remplaçant l'article 10 du décret du 19 janvier 1934 déterminant les conditions dans lesquelles, en matière d'exploitation technique et commerciale, il pourra être dérogé, par les grands réseaux des chemins de fer d'intérêt général, aux prescriptions des lois, cahiers des charges et conventions. En ce qui concerne les accidents survenus en gare de Lens, les victimes sont mortes par électrocution après être montées sur le toit des wagons en stationnement et avoir ainsi été mises en contact avec la caténaire. Les pénétrations sur les emprises de la S.N.C.F. s'effectuent par le parc des Glissoires aménagé aux abords de la gare de Lens, par les communes de Lens et d'Avion sur des terrains cédés par les houillères du bassin Nord - Pas-de-Calais, aucune clôture n'ayant été installée ni par les aménageurs ni par la S.N.C.F. Aussi l'attention de la S.N.C.F. a été appelée sur la nécessité de prendre toutes les mesures propres à éviter la pénétration du public dans les installations qui ne lui sont pas accessibles, et à l'informer au moyen d'une signalisation appropriée. Cet effort pourrait être engagé en collaboration avec les collectivités locales et les différents intervenants au niveau local, notamment dans le cas d'aménagements à proximité des emprises ferroviaires. Dans ce cadre, la S.N.C.F. a proposé au recteur de l'académie de Lille une campagne de sensibilisation des élèves des établissements scolaires pour lutter efficacement contre ce type d'accidents.
