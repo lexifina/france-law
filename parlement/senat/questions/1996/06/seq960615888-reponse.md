@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960615888
+
+- Question : [SEQ960615888](seq960615888.md) — Indice INSEE de la construction
+
+## Réponse
+
+*Économie, JO du 1996-08-01, page 1989*
+
+Réponse. - La nature de l'indicateur sur lequel sont indexés les loyers est fixée par la loi du 6 juillet 1989 modifiée le 21 juillet 1994. Cette loi stipule que l'augmentation annuelle du loyer d'un appartement, en cas de révision en cours de bail, ne peut excéder la variation de la moyenne sur quatre trimestres de l'indice national mesurant le coût de la construction. Le choix de cet index par le législateur est destiné à favoriser l'amortissement du capital investi et son renouvellement. En revanche, cette définition exclut les charges de gestion du bailleur, comme l'entretien, les impôts fonciers, les taxes et les assurances. Il faut remarquer que le plafond fixé par la loi du 21 juillet 1994 ne s'applique qu'aux réévaluations en cours de bail : à chaque renouvellement de bail, il est possible de réévaluer les loyers manifestement sous-évalués en allant au-delà de ce plafond. L'évolution du coût de la construction est mesurée par l'indice du coût de la construction des logements neufs (ICC) publié par l'INSEE. Le prix des constructions neuves est relevé directement sur les marchés signés, pour des opérations ayant effectivement reçu le permis de construire. La situation difficile du bâtiment depuis trois ans explique que l'évolution de l'ICC soit actuellement plus faible que celle du coût des facteurs de construction (salaires et prix des matériaux). En 1995, les mises en chantier de logements ont baissé de 5,4 p. 100. Confrontés à une baisse de la demande, les constructeurs ont tenu leurs prix en compensant la hausse du coût des facteurs par une contraction de leurs marges et par des gains de productivité. En moyenne annuelle, le coût de la construction est resté stable en 1995 par rapport à 1994 (- 0,05 p. 100).
