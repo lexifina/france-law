@@ -20,9 +20,7 @@ DELAI de prise en charge : 21 jours
 
 Dans tous les cas, la maladie doit être confirmée par l'isolement du germe ou par un examen sérologique spécifique de chlamydia-psittaci.
 
-LISTE LIMITATIVE DES TRAVAUX
-
-susceptibles de provoquer cette maladie
+LISTE LIMITATIVE DES TRAVAUX susceptibles de provoquer cette maladie
 
 Travaux exposant au contact avec des oiseaux, des volailles ou leurs déjections :
 
@@ -33,3 +31,5 @@ Travaux exposant au contact avec des oiseaux, des volailles ou leurs déjections
 - travaux d'élevage, vente, abattage, conservation de volailles.
 
 Travaux de laboratoire comportant les manipulations de volailles et d'oiseaux, de leurs produits ou de leurs déjections.
+
+Travaux exécutés dans les élevages d'ovins.
