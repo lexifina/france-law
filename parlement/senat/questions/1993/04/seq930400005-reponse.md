@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930400005
+
+- Question : [SEQ930400005](seq930400005.md) — Suppression de l'heure d'été
+
+## Réponse
+
+*Industrie, JO du 1994-02-17, page 383*
+
+Réponse. - L'honorable parlementaire pose la délicate question de l'application en France de l'heure d'été, à l'égard de laquelle les opinions demeurent partagées. La réglementation actuelle concernant la période de l'heure d'été relève de l'application d'une directive communautaire, et ce jusqu'à la fin de l'année 1994. En effet, le marché intérieur communautaire requiert une harmonisation des dates de changement d'heure sous peine d'engendrer d'importantes difficultés, notamment dans le secteur des transports. La majorité des Etats membres de l'union s'est récemment prononcée en faveur de la reconduction de la période de l'heure d'été pour une durée de trois ans (1995, 1996, 1997). Au cours de cette période, le dispositif actuel devrait être maintenu pendant l'année 1995 (heure d'été : fin mars - fin septembre) et l'harmonisation complète des dates de fin de la période de l'heure d'été interviendrait à partir de 1996 (fin mars - fin octobre). Toutefois, l'adoption du régime applicable à partir de 1995 nécessite l'avis du Parlement européen qui devrait intervenir prochainement. Le ministre est conscient des difficultés que soulève, pour certains, l'application de l'heure d'été. C'est la raison pour laquelle il a veillé à ce que la France, lors de la discussion du dossier à la fin du mois de novembre dernier, demande à la commission européenne de faire réaliser les études appropriées pour déterminer factuellement les conséquences humaines, techniques et économiques qui résulteraient de sa suppression.
