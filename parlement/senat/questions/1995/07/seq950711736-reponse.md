@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950711736
+
+- Question : [SEQ950711736](seq950711736.md) — Etat d'avancement du chantier de l'autoroute A 75 dans le département de l'Hérault
+
+## Réponse
+
+*Aménagement du territoire, JO du 1995-10-10, page 1936*
+
+Réponse. - La R.N. 9 au sud de Ceyras assurera jusqu'en 1998 la continuité de l'autoroute A 75. Elle sera donc amenée à supporter un niveau de trafic supérieur au niveau actuel. C'est pourquoi l'Etat a décidé de participer à l'aménagement en giratoire du carrefour dit de l'Europe, situé à Clermont-l'Hérault, afin d'en améliorer significativement le fonctionnement, en le greffant à son programme initial de travaux. Toutefois, cette réalisation ne pourra s'engager que dans la mesure où les collectivités locales concernées, département de l'Hérault et commune de Clermont-l'Hérault, participeront elles aussi à cet investissement. Par ailleurs, au titre du déclassement de la route nationale actuelle, prévu simultanément à la mise en service de l'autoroute, la R.N. 9 fera l'objet d'une remise en état de la structure de la chaussée et des ouvrages d'art. Bien entendu, les communes qui le souhaient pourront accompagner ces investissements par des projets plus urbains de recomposition des traversées, conformément à la circulaire du 29 mai 1990 sur la répartition entre l'Etat et la commune du financement des travaux sur route nationale dans les traversées d'agglomération. En ce qui concerne la programmation financière des travaux de l'autoroute A 75, celle-ci sera établie de manière à respecter les objectifs de mise en service, notamment sur la section Clermont-l'Hérault-Pézenas prévue en fin d'année 1998. A cet égard, l'enveloppe globale de 810 MF allouée en 1995 à la réalisation de l'autoroute Clermont-Ferrand-Béziers devrait pouvoir être reconduite en 1996.
