@@ -1,0 +1,11 @@
+# Réponse à la question SEQ970120219
+
+- Question : [SEQ970120219](seq970120219.md) — Publicité dans les films retransmis à la télévision
+
+## Réponse
+
+*Culture, JO du 1997-06-02, page 1619*
+
+Réponse. - La directive Télévision sans frontières impose un plafond de neuf minutes par heure en moyenne aux diffuseurs européens. TF1 avait fait part au CSA de son souhait de ne pas maintenir son engagement initial de limiter à quatre minutes la durée des coupures publicitaires lors des diffusions de films. Le seuil autorisé a donc été monté à six minutes à l'occasion du renouvellement récent de son autorisation, mais cette modification n'affecte ni le volume global, ni la durée quotidienne, ni la durée horaire, ni la durée maximum, ni le nombre de coupures, fixés par la loi et les décrets d'application. M6, de son côté, a la faculté depuis 1987 de diffuser six minutes de publicité au milieu des films et des oeuvres audiovisuelles. Le Conseil supérieur de l'audiovisuel fait valoir que les deux minutes supplémentaires ont été concédées à TF1 en contrepartie d'engagements en matière d'éthique et de qualité des programmes, ce qui peut avoir pour effet d'affecter les
+
+rapports des diffuseurs avec les producteurs. En effet, compte tenu de ces nouvelles exigences, certains types de programmes (américains notamment) accéderaient plus difficilement au " prime time ". Les diffuseurs se retrouveraient donc en position de demandeurs de programmes moins violents notamment. En outre, ces deux minutes supplémentaires représentant un surplus potentiel de chiffre d'affaires estimé à 300 MF, 15 % de cette somme (soit 45 MF) seront affectés à la commande d'oeuvres audiovisuelles en vertu des obligations de production auxquelles TF1 est soumise, comme les autres chaînes de télévision par voie hertzienne terrestre. S'agissant enfin des éventuels " abus de dépendances économiques que les diffuseurs commettraient au détriment des producteurs "... tels que le relève l'honorable parlementaire, il convient de noter que le projet de loi modifiant la loi no 86-1067 du 30 septembre 1986 adopté en première lecture par le Parlement renforce la base légale d'une définition réglementaire plus précise des rapports producteurs/diffuseurs noués à l'occasion des commandes destinées à l'exploitation des télévisions par voie hertzienne terrestre.
