@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870305044
+
+- Question : [SEQ870305044](seq870305044.md) — Retraites prises avant le premier janvier 1975: révision des pensions
+
+## Réponse
+
+*Affaires sociales, JO du 1987-05-14, page 753*
+
+Réponse. -Le Gouvernement a été conscient, dès 1974, de la disparité de traitement faite aux retraités du régime général de la sécurité sociale qui, d'une part, avaient demandé la liquidation de leurs droits avant le 1er janvier 1975, date de plein effet de la loi du 31 décembre 1971 portant de 30 à 37,5 le nombre maximum d'années d'assurances susceptibles d'être prises en compte pour le calcul de la pension de vieillesse, et, d'autre part, n'avaient pu bénéficier, en raison de la date d'effet de leur prestation, de la prise en compte du salaire annuel moyen des dix meilleures années, conformément au décret du 29 décembre 1972 ayant pris effet au 1er janvier 1973. Afin d'atténuer les conséquences de l'application normale de la règle de non-rétroactivité, trois majorations forfaitaires de 5 % ont été appliquées aux pensions de vieillesse liquidées avant le 1er janvier 1972 et de deux majorations à celles liquidées au cours de l'année 1972, lorsque ces prestations avaient été concédées sur la base du maximum de trimestres susceptibles d'être pris en compte à la date d'entrée en jouissance de ces avantages. Ces majorations ont considérablement amélioré la situation des intéressés. Ces pensions de vieillesse ont, en outre, été majorées forfaitairement, à compter du 1er décembre 1982, de 6 % pour les prestations ayant pris effet avant le 1er janvier 1972, 4 % pour celles de 1972, 5,5 % pour celles de 1973 et 1,5 % pour celles de 1974. Il n'est pas envisagé d'aller plus avant dans la compensation de la non-rétroactivité de la loi dite " Boulin " au niveau de chaque individu, alors que le régime général d'assurance vieillesse traverse les difficultés financières que connaît l'honorable parlementaire.
