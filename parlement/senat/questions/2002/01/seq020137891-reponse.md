@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020137891
+
+- Question : [SEQ020137891](seq020137891.md) — Intégration des docteurs emplois jeunes
+
+## Réponse
+
+*Éducation, JO du 2002-03-21, page 857*
+
+Le décret du 4 décembre 1997, qui a modifié le décret du 6 juin 1984 fixant les dispositions statutaires communes applicables aux enseignants-chercheurs et portant statut particulier du corps des professeurs des universités et du corps des maîtres de conférences n'a eu ni pour objet ni pour effet de titulariser des agents en les dispensant de la procédure de qualification par le Conseil national des universités prévue par ce texte. Les jeunes docteurs, employés dans le cadre du développement d'activités pour l'emploi des jeunes mis en place par la loi du 16 octobre 1997, ont vocation, comme les autres jeunes docteurs, à être recrutés dans le corps des maîtres de conférences conformément aux procédures de droit commun. Il convient donc, d'une part, qu'ils demandent leur inscription sur la liste de qualification à ces fonctions établie par le Conseil national des universités et, d'autre part, qu'ils postulent un emploi ouvert au concours dans un établissement. Par ailleurs, ils pourront se présenter aux troisièmes concours d'accès à certains corps de l'enseignement et, notamment, aux corps des enseignants du second degré, qui devraient être mis en place dès cette année. Ces concours sont ouverts aux personnes qui, titulaires d'un diplôme sanctionnant au moins trois années d'études post-secondaires, ont exercé une activité professionnelle dans les domaines de l'éducation ou de la formation pendant quatre ans au cours des cinq années précédant la date de clôture des registres d'inscription. Les lauréats de ces troisièmes concours bénéficieront de la prise en compte de leurs activités professionnelles pour leur reclassement dans les corps du second degré.
