@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870405662
+
+- Question : [SEQ870405662](seq870405662.md) — Suppression des prêts aux jeunes ménages
+
+## Réponse
+
+*Santé et famille, JO du 1987-07-09, page 1094*
+
+Réponse. -Le plan famille du Gouvernement, dans son aspect fiscal et prestataire, mobilise au total 12,15 milliards de francs dont 4 milliards d'exemption et d'allégements fiscaux qui profiteront aux familles les plus modestes, un milliard de mesures fiscales prenant en compte les charges de toutes les familles nombreuses, près de 6 milliards pour favoriser la venue du troisième enfant et la constitution des familles nombreuses, et enfin plus d'un milliard pour augmenter les possibilités de garde des enfants. La loi du 29 décembre 1986 relative à la famille répond en outre à un objectif de simplification et de clarification du système des prestations familiales. Cette simplification qui a entraîné la suppression des prêts aux jeunes ménages a permis de procéder à un recentrage des aides visant à concentrer l'effort de la politique familiale sur les familles nombreuses et sur la naissance du troisième enfant. L'efficacité d'une politique familiale repose en effet sur des objectifs clairement définis et doit tendre à un ensemble d'aides regroupées et donc plus élevées et non dispersées en un éventail de prestations trop nombreuses et ponctuelles. S'agissant des prêts aux jeunes ménages, il faut préciser que le dispositif qui résultait de la loi du 4 janvier 1985 était d'une extrême complexité de gestion pour les caisses d'allocations familiales. Déjà transférés au secteur bancaire par la loi précitée, ces prêts relèveront entièrement désormais de ce secteur, ce qui, dans la conjoncture financière de désinflation, permet aux jeunes couples de trouver des réponses aux problèmes liés à leur installation.
