@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970220759
+
+- Question : [SEQ970220759](seq970220759.md) — Prestation compensatoire en cas de divorce
+
+## Réponse
+
+*Justice, JO du 1997-04-03, page 1055*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que la prestation compensatoire est destinée à compenser la disparité que la rupture du mariage crée dans les conditions de vie respectives des époux. A la différence de la pension alimentaire, elle présente un fondement indemnitaire et trouve sa source dans la dissolution même du lien matrimonial. Ce fondement implique le caractère forfaitaire de la prestation. Il en résulte qu'en principe la prestation compensatoire n'est pas pas révisable. Instaurer, par une modification législative, une faculté de révision de la prestation en liant expressément celle-ci à l'évolution de la situation de l'un des époux conduirait à remettre en cause une des options fondamentales de la réforme du divorce opérée par la loi du 11 juillet 1975 qui a entendu mettre fin, dans toute la mesure du possible, au contentieux pécuniaire entre ex-époux. S'agissant plus précisément du remariage de l'ex-époux créancier, cette circonstance n'emporte pas, en elle-même une modification du niveau de vie de l'autre ex-conjoint. Elle ne saurait donc constituer un critère autonome de révision. S'il n'est pas envisageable de revenir à la pratique antérieure en matière de pension alimentaire en raison des graves problèmes soulevés par la multiplication des contentieux, le ministère de la justice a, en revanche, engagé une réflexion globale sur les conséquences financières du divorce et examinera dans ce cadre, notamment l'opportunité de procéder aux aménagements ponctuels des dispositions en vigueur, propres à prendre en compte les situations les plus délicates.
