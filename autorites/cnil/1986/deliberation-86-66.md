@@ -1,0 +1,15 @@
+# Délibération portant avis sur le projet d'arrêté du Ministre de l'Economie, des Finances et de la Privatisation créant le traitement "Suivi du contrôle fiscal"
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 86-66
+- Date : 1986-06-24
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017654590
+
+La Commission Nationale de l'Informatique et des Libertés ; Vu la Convention du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ; Vu la loi n° 78-17 du 6 Janvier 1978 relative à l'informatique, aux fichiers et aux libertés ; Vu le décret n° 78-774 du 17 Juillet 1978 pris en application des chapitres I à IV et VII de la loi du 6 Janvier 1978 susvisée ; Vu le code général des impôts ; Vu le projet d'arrêté du Ministre de l'Economie, des Finances et de la Privatisation créant les traitements "Suivi du contrôle fiscal". Après avoir entendu Monsieur VIE en son rapport et Madame Charlotte-Marie PITRAT, Commissaire du Gouvernement en ses observations ;
+
+Considérant que le projet d'arrêté soumis à l'appréciation de la Commission, constitue un cadre définissant des traitements pouvant être mis en place dans l'ensemble des services extérieurs de la Direction générale des impôts, leur finalité étant d'assurer le déroulement des programmes annuels de contrôle fiscal. Considérant que ces traitements visent uniquement à répertorier les différentes phases des procédures de vérification engagées par les services fiscaux à l'encontre des contribuables. personnes physiques ou morales et ne procèderont à aucune sélection automatique des dossiers à vérifier. Considérant qu'à cette fin ne pourront être enregistrées que des données nominatives relatives à l'adresse, à l'identité des contribuables et à celle des agents chargés du contrôle ainsi qu'aux différentes étapes des procédures. Considérant qu'aucune interconnexion ne sera réalisée avec les traitements informatiques précédemment déclarés à la Commission ; Considérant que si la création de ces applications, qui seront développées sur micro-ordinateurs est laissée à l'initiative des directeurs des services fiscaux, elles ne sauraient excéder les compétences des services concernés ni les missions qui leurs sont dévolues par des textes législatifs ou réglementaires ; qu'en toute hypothèse, tout traitement qui n'entrerait pas dans le champ d'application de l'arrêté visé ci-dessus fera l'objet de formalités préalables distinctes auprès de la Commission Considérant que le droit d'accès des intéressés s'exerce auprès de la Direction compétente ; Considérant que toute mesure devra être prise afin d'assurer la publicité des traitements par publication au bulletin officiel départemental, affichage dans les locaux des directions, insertion dans la notice jointe aux imprimés de déclaration ;
+
+Compte tenu des observations formulées ci-dessus, émet un AVIS FAVORABLE au projet d'arrêté qui lui est soumis. Le Président, Jacques FAUVET.
