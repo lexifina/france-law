@@ -1,0 +1,5 @@
+# Article 7 **périmé**
+
+Les collaborateurs handicapés bénéficient des mêmes possibilités de formation que l'ensemble du personnel avec adaptation, si besoin, des conditions matérielles et recours éventuel à des aides extérieures (par exemple : interprète pour collaborateur handicapé auditif).
+
+En outre, tout collaborateur recruté en qualité de travailleur handicapé dispose d'un droit à formation spécifique d'une durée modulée en fonction des carences ou des besoins effectivement constatés destiné à lui permettre de mettre à niveau sa formation générale initiale en référence au poste tenu ou aux évolutions à envisager.

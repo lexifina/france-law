@@ -1,0 +1,3 @@
+# Article 15 **périmé**
+
+Les entreprises du groupe cherchent à développer et à diversifier la coopération avec les ateliers protégés et les centres d'aide par le travail de la façon la plus large possible.

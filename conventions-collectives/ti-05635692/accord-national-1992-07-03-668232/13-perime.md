@@ -1,0 +1,9 @@
+# Article 13 **périmé**
+
+Les entreprises du groupe s'engagent à conserver dans leur emploi les collaborateurs handicapés ou qui le deviendraient, pour autant que le handicap le permette.
+
+Si le maintien dans l'emploi ou une mutation dans un poste de qualification et de rémunération équivalentes à l'ancien emploi est impossible, un poste de qualification et de rémunération moindres peut être proposé au salarié handicapé, le passage de l'ancien au nouveau salaire, prévu par la convention collective de travail du personnel des banques, se faisant par paliers dégressifs sur six mois. Dans le cas où le handicap résulterait d un accident du travail où la responsabilité de l'entreprise serait engagée, la rémunération serait maintenue à titre individuel.
+
+En cas d'impossibilité de reclassement interne, l'entreprise aide le salarié concerné à trouver un nouvel emploi mieux adapté en prenant en charge, outre le paiement des indemnités de rupture dues, le financement d'une reconversion et d'une réinsertion externe dans la limite de 50.000 F.
+
+En outre, en cas de licenciement autre que pour faute, la durée du préavis est doublée pour les collaborateurs handicapés, ayant plus d'un an d'ancienneté, sans que toutefois, cette mesure puisse avoir pour effet de porter au-delà de quatre mois la durée totale du préavis : les intéressés peuvent demander à être dispensés d'exécuter leur préavis dont le paiement leur est cependant assuré.

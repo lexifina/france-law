@@ -1,0 +1,5 @@
+# Article 6 **périmé**
+
+Au sein de la direction des ressources humaines de chaque entreprise du groupe, une personne est spécifiquement affectée, pour une partie de son temps, à la promotion, au suivi et à la réalisation des actions en faveur des personnes handicapées, aux contacts avec l'administration et les organismes concernés, ainsi qu'aux liaisons avec le médecin du travail, le service social et les représentants du personnel.
+
+A la chambre syndicale des Banques populaires, organe central du Groupe, un responsable est chargé de faciliter les efforts entrepris par chaque banque pour favoriser l'emploi des personnes handicapés, en développant l'information nécessaire sur les différentes possibilités action et les moyens auxquels elles peuvent recourir, ainsi qu'en veillant à la promotion des réalisations internes ou externes au Groupe. Il représente les entreprises du Groupe dans les contacts à prendre au plan national avec les organismes publics ou privés spécialisés et assure le suivi des engagements contenus dans le présent accord, à l'égard des partenaires sociaux signataires notamment.

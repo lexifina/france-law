@@ -1,0 +1,5 @@
+# Article 12 **périmé**
+
+En liaison avec les C.H.S.C.T., les entreprises du groupe étudient les possibilités d'insertion ouvertes par la commercialisation de nouveaux matériels permettant l'accès de certains handicapés aux métiers du secteur bancaire.
+
+Dans les services touchés par des mutations technologiques importantes, les salariés handicapés directement concernés bénéficient d'une formation prioritaire, afin d'éviter que ne s'accentue, du fait de ces mutations, leur handicap relatif par rapport aux autres salariés.
