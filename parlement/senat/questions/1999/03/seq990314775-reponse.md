@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990314775
+
+- Question : [SEQ990314775](seq990314775.md) — Absence de réglementation européenne concernant la publicité en matière d'armes à feu
+
+## Réponse
+
+*Intérieur, JO du 1999-05-06, page 1518*
+
+Réponse. - L'honorable parlementaire a appelé l'attention du ministre de l'intérieur sur l'absence de réglementation européenne concernant la publicité en faveur des armes. En France, la loi nº 85-706 du 12 juillet 1985 relative à la publicité faite en faveur des armes à feu et de leurs munitions, interdit la publicité et le colportage de ces armes, en dehors des supports ayant trait à la chasse, la pêche ou le tir sportif. Tous les Etats membres de l'Union européenne n'ont, bien sûr, pas nécessairement la même réglementation. Il est fait état de ce que, dans le département du Bas-Rhin, des ressortissants français auraient reçu dernièrement dans leur boîte aux lettres une publicité sous forme de prospectus pour des armes à feu classées par la réglementation française en 4e catégorie et pour lesquelles toute publicité sous cette forme est interdite en France, conformément aux dispositions de l'article 3 de la loi du 12 juillet 1985. Toute infraction à ces dispositions est punie par l'article 6 de la même loi par une peine d'amende de 30 000 à 300 000 francs. Si cette publicité a été faite par voie de colportage, il est possible de poursuivre le colporteur. Si l'infraction commise sur le territoire national l'a été par voie postale, des poursuites peuvent être engagées à l'égard des auteurs, même si ceux-ci sont domiciliés à l'étranger, en application des dispositions de l'article 113-2 du code pénal. Le droit français permet donc de poursuivre et de réprimer les infractions commises par des ressortissants d'autres Etats de l'Union européenne à la législation sur la publicité des armes à feu. Il n'est pas envisagé de directive communautaire ayant pour objet la publicité sur les armes.
