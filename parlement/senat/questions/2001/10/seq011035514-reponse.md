@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011035514
+
+- Question : [SEQ011035514](seq011035514.md) — Possibilités de remboursement des frais de déplacement des fonctionnaires territoriaux et agents publics
+
+## Réponse
+
+*Fonction publique, JO du 2002-02-21, page 579*
+
+Pour permettre aux agents d'une collectivité de se déplacer pour leurs missions à l'intérieur de celle-ci, la réglementation prévoit trois cas : soit la mise à disposition de véhicules de service, acquis sur le budget d'équipement de la collectivité, ne donnant ainsi droit à aucune indemnisation directe de l'agent aux titres des frais de déplacement prévus par le décret n° 91-975 du 19 juin 1991 ; soit l'utilisation des transports en commun, donnant lieu, au titre de l'article 28 1er et 2e alinéas, à prise en charge dans la limite du tarif le moins onéreux du moyen de transport en commun le mieux adapté au déplacement et, si les déplacements sont fréquents, au remboursement de l'abonnement le mieux adapté au type de ces déplacements, sous réserve que cette procédure soit source d'économie pour l'administration par rapport au remboursement des titres de transport ; soit l'usage du véhicule personnel, donnant lieu à indemnisation forfaitaire annuelle, dès lors que la collectivité délibère en ce sens. Cette indemnisation s'élève à 198 euros 18. Par ailleurs, si l'agent effectue en dehors de sa résidence administrative et familiale une mission de service, en utilisant, sur autorisation expresse de l'autorité territoriale, son véhicule personnel, il peut bénéficier du remboursement forfaitaire des frais induits par l'utilisation de son véhicule sous forme d'indemnité kilométrique prévue à l'article 31 du décret précité. Le Gouvernement n'envisage pas d'évolution réglementaire quant aux modalités d'indemnisation d'un fonctionnaire pour l'usage de son véhicule personnel dans le cadre des besoins du service.
