@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960213585
+
+- Question : [SEQ960213585](seq960213585.md) — Revalorisation des emplois supérieurs de la fonction publique territoriale
+
+## Réponse
+
+*Fonction publique, JO du 1996-03-14, page 592*
+
+Réponse. - Le décret no 94-1157 du 28 décembre 1994 a, conformément au protocole d'accord sur la rénovation de la grille des classifications et des rémunérations des trois fonctions publiques conclu le 9 février 1990, revalorisé la carrière des attachés principaux et directeurs territoriaux et en a tiré les conséquences sur les emplois fonctionnels de direction pouvant être occupés par les titulaires de ces grades. Ces revalorisations ont effectivement pu conduire à des anomalies, telles celles des secrétaires généraux des villes de 40 000 à 80 000 habitants et des secrétaires généraux adjoints de ces mêmes villes. La grille indiciaire des seconds termine en effet à un indice brut supérieur à celui des premiers. La nécessaire correction à apporter à ce type de problème s'inscrit dans le cadre de la réflexion prévue par le protocole sur les incidences des revalorisations exposées ci-dessus sur les cadres d'emplois, grades ou emplois supérieurs. Le résultat de cette réflexion ne pourra toutefois trouver une traduction qu'après que les mesures échéancées par le protocole auront été prises dans leur totalité. La concertation avec l'ensemble des partenaires concernés est d'ores et déjà engagée. Dans l'immédiat, dans le but de mettre fin à l'inversion indiciaire existant entre les emplois fonctionnels précités de secrétaire général et de secrétaire général adjoint des villes de 40 000 à 80 000 habitants, une mesure réglementaire est en préparation et devrait pouvoir être soumise au conseil supérieur de la fonction publique territoriale dans le courant du premier semestre de cette année.
