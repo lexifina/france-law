@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000525059
+
+- Question : [SEQ000525059](seq000525059.md) — Conséquences de la CMU pour les bénéficiaires de l'allocation adultes handicapés
+
+## Réponse
+
+*Emploi, JO du 2000-09-21, page 3262*
+
+Réponse. - La protection complémentaire en matière de santé instituée par la loi du 27 juillet 1999 portant création d'une couverture maladie universelle constitue une prestation à caractère social sous condition de ressources. Le seuil retenu pour l'accès à la protection complémentaire en matière de santé permet de couvrir intégralement six millions de personnes alors que deux millions et demi de personnes bénéficiaient précédemment d'une prise en charge totale par l'aide médicale. La loi du 27 juillet 1999 constitue donc un progrès majeur pour l'accès aux soins par rapport à l'aide médicale gratuite. Les départements sont également habilités à prendre en charge les frais non couverts par l'assurance maladie sur leurs crédits d'aide sociale. Par ailleurs, la loi portant création d'une couverture maladie universelle a laissé aux organismes de protection complémentaire la possibilité de créer un fonds d'accompagnement à la protection complémentaire dans le but d'aider les personnes dont les ressources sont supérieures au plafond prévu pour l'attribution de la protection complémentaire en matière de santé à souscrire une couverture complémentaire. La mise en uvre d'un tel dispositif qui relève de la seule responsabilité des organismes de protection complémentaire serait de nature à permettre aux organismes s'adressant aux populations disposant de ressources modestes de leur offrir des contrats à des conditions compatibles avec leurs ressources. La mise en place de la couverture maladie universelle permet aux caisses d'assurance maladie de réorienter des ressources auparavant consacrées aux plus modestes qui pourront être affectées aux personnes dont les ressources excèdent le seuil.
