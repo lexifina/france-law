@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901213044
+
+- Question : [SEQ901213044](seq901213044.md) — Longueur du réseau autoroutier français
+
+## Réponse
+
+*Équipement, JO du 1991-07-25, page 1564*
+
+Réponse. - Le réseau autoroutier français dans son ensemble comprenait, au 31 décembre 1989, 5 367 kilomètres d'autoroutes concédées et 1 370 kilomètres d'autoroutes non concédées. Sur le réseau concédé, les sections à deux fois deux voies représentaient 4 443 kilomètres, celles à deux fois trois voies, 912 kilomètres, et à deux fois quatre voies, 12 kilomètres. Pour les autoroutes non concédées, les tronçons à deux fois deux voies totalisaient 950 kilomètres et ceux à plus de deux fois deux voies (deux fois trois voies, quatre voies, etc.) 344 kilomètres ; s'y ajoutaient 76 kilomètres d'autoroutes à une seule chaussée (un peu plus de 45 kilomètres à deux voies, un peu plus de 23 kilomètres à trois voies et environ 7 kilomètres à quatre voies et plus). En ce qui concerne les statistiques d'accidents, la dernière étude réalisée a montré que le taux d'accidents corporels sur les autoroutes à deux fois trois voies était inférieur de 10 p. 100 à 15 p. 100 à celui constaté sur les autoroutes à deux fois deux voies, avec un écart similaire pour les taux de tués et de blessés. Quant à la gravité des accidents, il n'y avait pas de différence significative entre ces deux types d'autoroutes ; enfin, ces résultats étaient pratiquement indépendants des volumes de trafic. Une étude menée plus récemment en République fédérale d'Allemagne a corroboré ces indications. A titre d'information, les taux d'accidents, de tués, de blessés (nombres pour 100 000 000 de kilomètres parcourus) et la gravité (mesurée par le nombre de tués pour 100 accidents corporels) sur les autoroutes, tous profils confondus, ont été les suivants en 1989 : Nota : voir tableau p. 1564.
