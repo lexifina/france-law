@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040311216
+
+- Question : [SEQ040311216](seq040311216.md) — Financement des établissements hospitaliers et d'assistance privés à but non lucratif
+
+## Réponse
+
+*Solidarités, JO du 2004-12-09, page 2848*
+
+La médicalisation des établissements hébergeant des personnes âgées est un sujet qui retient toute l'attention du ministre de la santé et de la protection sociale ainsi que celle du Gouvernement. Le Premier ministre a d'ailleurs annoncé le 6 novembre 2003 un plan de 4 ans qui va permettre, grâce à l'institution de la journée de solidarité, de renforcer très fortement les moyens consacrés aux soins dans les établissements hébergeant des personnes âgées dépendantes. 850 millions d'euros collectés par la Caisse nationale pour la solidarité et l'autonomie s'ajouteront aux moyens de l'assurance maladie destinés aux personnes âgées. Outre le financement de 8 500 nouvelles places d'accueil de jour, 4 500 nouvelles places d'hébergement temporaire et 17 000 nouvelles places de services de soins infirmiers à domicile, ce plan prévoit le financement de 15 000 emplois de personnels soignants sur 4 ans, pour la médicalisation des établissements existants et pour la création de 10 000 nouvelles places. Dès 2004, 180 millions d'euros de crédits de l'assurance maladie et de la caisse pour la solidarité et l'autonomie sont consacrés au financement des conventions tripartites signées entre les établissements hébergeant des personnes âgées, les conseils généraux et les représentants de l'Etat. En outre, pour accélérer la médicalisation des établissements, le Gouvernement a fixé à l'administration un objectif de 2000 signatures de conventions tripartites en 2004. Aucun " gel de crédit " n'est intervenu en 2004 qui bloquerait la médicalisation des établissements hébergeant des personnes âgées dépendantes.
