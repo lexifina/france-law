@@ -313,3 +313,105 @@ La mise en pratique dans l'entreprise telle que déterminée ci-dessus est réal
 Elle peut être différée par rapport au reste de la formation, à condition de débuter dans les 30 jours suivant la fin de la formation réalisée par l'organisme de formation.
 
 A l'issue de l'intégralité de la formation, le stagiaire reçoit une attestation établie par l'organisme de formation.
+
+Pour faciliter l'application des dispositions de l'avenant n° 70 les parties signataires apportent les précisions suivantes quant au stage de mise en pratique dans l'entreprise :
+
+- le stage pratique en entreprise est réalisé sous la responsabilité du chef d'établissement ou de sa délégation technique ;
+
+- il s'agit d'un stage d'application de la formation suivie ; ce stage est adapté aux différents véhicules utilisés dans l'entreprise, et aux matériels à transporter par celle-ci ;
+
+- ce stage est effectué dans l'entreprise ou sur l'un de ses sites, il pourra toutefois comporter des déplacements hors de l'enceinte de l'entreprise.
+
+A l'issue du stage, il sera remis au chauffeur ou conducteur une attestation de stage de mise en pratique de la formation dans l'entreprise.
+
+Programme de stage de mise en pratique dans l'entreprise
+
+FIMO applicable aux chauffeurs ou conducteurs
+
+effectuant plus de 400 heures effectives de conduite
+
+en moyenne dans l'année
+
+PROGRAMME DE STAGE/VOLUME HORAIRE
+
+Perfectionnement à la conduite professionnelle appliquée aux véhicules de l'entreprise.
+
+Prévention des accidents du travail en circulation comme à l'arrêt.
+
+Vérification de l'application de l'ensemble des réglementations transport, circulation et travail
+
+Volume horaire : 4
+
+Prise en main des véhicules de l'entreprise (manoeuvres d'accostage, de parking, de maniabilité,...)
+
+Volume horaire : 4
+
+Repérage des extincteurs et essais
+
+Volume horaire : 1
+
+Apprentissage des différents engins et matériels à transporter (identification et conduite)
+
+Volume horaire : 4
+
+Exercices de chargement, arrimage et déchargement des engins et matériels à transporter
+
+Volume horaire : 4
+
+Identification des personnes responsables de la réception et de l'expédition. Prise des connaissances des procédures internes
+
+Volume horaire : 2
+
+Prise en main des documents liés au transport
+
+Volume horaire : 2
+
+Total mise en pratique
+
+Volume horaire : 21
+
+FIMO applicable aux chauffeurs ou conducteurs
+
+effectuant moins de 400 heures de conduite
+
+effectives en moyenne dans l'année
+
+PROGRAMME DE STAGE/VOLUME HORAIRE
+
+...
+
+Perfectionnement à la conduite professionnelle appliquée aux véhicules de l'entreprise.
+
+Prévention des accidents du travail en circulation comme à l'arrêt.
+
+Vérification de l'application de l'ensemble des réglementations transport, circulation et travail
+
+Volume horaire : 0 h 30
+
+Prise en main des véhicules de l'entreprise (manoeuvres d'accostage, de parking, de maniabilité,...)
+
+Volume horaire : 1 h 30
+
+Repérage des extincteurs et essais
+
+Volume horaire : 0 h 30
+
+Apprentissage des différents engins et matériels à transporter (identification et conduite)
+
+Volume horaire : 1
+
+Exercices de chargement, arrimage et déchargement des engins et matériels à transporter
+
+Volume horaire : 2
+
+Identification des personnes responsables de la réception et de l'expédition. Prise des connaissances des procédures internes
+
+Volume horaire : 1
+
+Prise en main des documents liés au transport
+
+Volume horaire : 0 h 30
+
+Total mise en pratique
+
+Volume horaire : 7
