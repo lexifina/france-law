@@ -124,6 +124,16 @@ Effets de harnachement
 
 |
 
+Spécialistes de l’arme féminine de l’armée de terre
+
+|
+
+Effets d ’équipement |
+
+23.000 |
+
+35.000 |
+
 Sous-officiers et caporaux-chefs
 
 |
@@ -159,3 +169,7 @@ Néant
 Nota.— Les effets d ’équipement et de harnachement susceptibles de donner lieu A indemnité peuvent être remplacés en nature si les approvisionnements le permettent. Les effets ainsi remplacés ne donnent pas lieu à indemnisation en deniers.
 
 |
+
+NOTA :
+
+Conformément à l'article 3 du décret n° 51-1388 du 29 novembre 1951, ces dispositions auront effet à compter du 1er juillet 1951.
