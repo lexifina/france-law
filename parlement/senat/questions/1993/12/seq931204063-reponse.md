@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931204063
+
+- Question : [SEQ931204063](seq931204063.md) — Régime des amendes pratiqué par la RATP
+
+## Réponse
+
+*Équipement, JO du 1994-05-12, page 1167*
+
+Réponse. - La procédure mise en oeuvre par la RATP en matière de police des chemins de fer a été définie par le législateur. Il s'agit d'une procédure de transaction permettant au contrevenant de régulariser sur le champ sa situation moyennant le versement d'une indemnité forfaitaire. Son montant est de 250 francs en cas de franchissement illicite d'une ligne de contrôle sans validation d'un titre de transport. Si la transaction n'a pas lieu, un procès-verbal est dressé et le montant à payer est augmenté des frais de constitution de dossier, soit 150 francs ; le contrevenant dispose alors d'un délai de deux mois pour faire valoir ses observations. Passé ce délai, le procès-verbal est transmis à l'officier du ministère public et l'amende forfaitaire se trouve, de ce fait, majorée ; son montant est alors de 2 500 francs. Dans les trente jours de l'envoi de l'avis invitant le contrevenant à payer l'amende forfaitaire majorée, l'intéressé peut formuler auprès du ministère public une réclamation motivée qui a pour effet d'annuler le titre exécutoire. Cette procédure prévue par les articles 529 et 530 du code de procédure pénale présente donc, à chacune de ces étapes, un caractère contradictoire qui permet à la personne qui en est l'objet de faire entendre son point de vue. Elle est partie intégrante du dispositif mis en place par la régie afin de lutter contre la fraude, car il ne faut pas oublier que des taux de fraude de 6,8 p. 100 dans le métro, 9,2 p. 100 dans le RER et 13 p. 100 dans les autobus entraînent des pertes de recettes estimées à 650 millions de francs par an. Cette lutte témoigne, en outre, de la considération qui est due aux voyageurs qui prennent le soin d'acquérir des titres de transport pour effectuer leurs déplacements.
