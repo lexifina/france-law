@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010533143
+
+- Question : [SEQ010533143](seq010533143.md) — Contrats territoriaux d'exploitation en agriculture biologique
+
+## Réponse
+
+*Agriculture, JO du 2001-12-20, page 4016*
+
+L'attention du ministre de l'agriculture et de la pêche a été appelée sur la simplification des démarches administratives concernant la validation des modifications et propositions de mesures pour les agrobiologistes. En ce qui concerne les mesures agro-environnementales, une harmonisation régionale complétée par une analyse nationale est indispensable dans un souci d'adaptation locale et de cohérence globale. Au niveau de la validation par l'Union européenne, toute modification ou proposition de mesure doit généralement passer par une procédure de révision en comité STAR, qui n'a lieu en effet qu'une fois par an. Malgré une certaine lenteur liée à cette procédure administrative, le ministère de l'agriculture et de la pêche signale que des adaptations spécifiques aux agrobiologistes sont déjà présentes dans certaines synthèses régionales. Ainsi, dans la région Centre, pour l'action 2.1, " allonger les rotations/diversifier les cultures dans la rotation ", un agrobiologiste a plus de choix pour sa culture supplémentaire qu'un exploitant en agriculture conventionnelle. D'ailleurs, il est indispensable que les agrobiologistes aient plus facilement accès au contrat territorial d'exploitation (CTE) et c'est dans ce sens qu'une convention a été signée entre la direction des exploitations de la politique sociale et de l'emploi (DEPSE) et la FNAB (Fédération nationale d'agriculture biologique) afin de réaliser un guide pour l'élaboration des CTE en agriculture biologique. Ce guide présentera une liste de mesures, déjà validées par l'Union européenne, susceptibles d'intéresser les agriculteurs biologiques.
