@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960716378
+
+- Question : [SEQ960716378](seq960716378.md) — Commande éventuelle d'un deuxième porte-avions
+
+## Réponse
+
+*Défense, JO du 1996-09-12, page 2346*
+
+Réponse. - Le Président de la République a arrêté le 22 février 1996 ses orientations concernant l'évolution de notre appareil de défense, avec le souci de doter notre pays d'une défense tout à la fois " plus efficace, plus moderne et moins coûteuse ". Ces orientations permettent de dessiner les contours de ce que sera l'armée française à l'horizon 2015. Elle confirment notamment l'admission au service actif du porte-avions nucléaire (PAN) " Charles-de-Gaulle " au second semestre 1999. La présence d'un second porte-avions, au sein du groupe aéronaval, ne sera possible que si les conditions économiques et budgétaires le permettent. C'est pourquoi, l'état-major des armées examine diverses solutions de remplacement pour le cas où la construction de ce second bâtiment ne pourrait être lancée. Ainsi, parmi ces études, figure la construction d'un porte-aéronefs transport de troupes d'assaut doté d'hélicoptères et d'avions à décollage court ou vertical. Cette situation entraîne les coûts de possession qui ne sont pas inférieurs à ceux du PAN " Charles-de-Gaulle ", car il faut alors ajouter au coût du navire l'acquisition et l'entretien d'un nouveau parc d'aéronefs qui n'existent pas en France ainsi que la formation des pilotes et des techniciens. Les capacités opérationnelles sont également limitées aux missions d'assaut. C'est la raison pour laquelle la France souhaite mettre l'accent sur le développement des capacités opérationnelles européennes. Dans ce cadre, la constitution d'une force navale multinationale permettrait de gérer les indisponibilités du PAN " Charles-de-Gaulle " liées aux contraintes de son entretien.
