@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900911696
+
+- Question : [SEQ900911696](seq900911696.md) — Départs de hauts fonctionnaires vers le secteur privé
+
+## Réponse
+
+*Fonction publique, JO du 1990-12-06, page 2594*
+
+Réponse. - Il est précisé à l'honorable parlementaire que les autorisations de détachement, de mise en disponibilité pour convenance personnelle et les démissions ne sont pas de droit, mais peuvent être accordées ou acceptées sous réserve de l'intérêt du service. Les administrations procèdent dans tous les cas qui leur sont soumis à un examen du niveau des effectifs au regard des besoins du service d'une part et des problèmes déontologiques susceptibles de se poser en raison des nouvelles fonctions que doit assurer le fonctionnaire placé en disponibilité ou démissionnaire, d'autre part. En toute hypothèse, les intéressés entrent dans le champ d'application de l'article 175-1 du code pénal en vertu duquel tout agent public chargé de la surveillance, du contrôle d'une entreprise privée ou de la passation de marchés ou contrats de toute nature avec une entreprise privée et qui pendant un délai de cinq ans à compter de la cessation de la fonction, prendra ou recevra une participation par travail, conseils ou capitaux avec ces entreprises, sera puni d'une peine d'emprisonnement de six mois au moins et de deux ans au plus et sera condamné à une amende. Le Gouvernement partage avec l'honorable parlementaire le souci d'éviter que les départs de fonctionnaires vers le monde de l'entreprise - qui sont souvent positifs dans la perspective d'une plus grande mobilité et d'un enrichissement de l'expérience des intéressés - ne se traduisent ponctuellement par des situations choquantes au regard de la déontologie de la fonction publique. Il a ainsi engagé, lors du séminaire du 11 juin dernier consacré au renouveau du service public, une réflexion sur les améliorations susceptibles d'être apportées à la mise en oeuvre de ce dispositif.
