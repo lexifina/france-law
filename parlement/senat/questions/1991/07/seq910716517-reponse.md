@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910716517
+
+- Question : [SEQ910716517](seq910716517.md) — TVA frappant le marché de l'art français
+
+## Réponse
+
+*Économie, JO du 1992-04-09, page 867*
+
+Réponse. -Les dispositions relatives au régime de T.V.A. applicable aux cessions d'oeuvres d'art par les négociants ou par les artistes, instituées par la loi n° 91-716 du 26 juillet 1991 procèdent d'une démarche d'harmonisation communautaire en vue de l'échéance du 1er janvier 1993 à laquelle la France se prépare progressivement. Elles font partie d'un ensemble cohérent qui comprend l'application de la taxe sur la valeur ajoutée aux artistes et la taxation généralisée sur la marge des biens d'occasion et objets d'art revendus par des professionnels (projet de septième directive des Communautés européennes). L'application de la taxe sur la valeur ajoutée aux opérations des artistes, si leurs recettes dépassent 245 000 F, est conforme aux textes communautaires en vigueur, et met fin à la dérogation provisoire dont notre pays bénéficiait. Dès lors que les artistes sont assujettis à la T.V.A., le maintien d'un régime de taxation sur une marge forfaitaire et de l'exonération à l'importation dont bénéficiaient les négociants aurait entraîné d'importantes distorsions de concurrence selon que l'oeuvre est commercialisée directement par l'artiste créateur ou par l'intermédiaire d'une galerie d'art. De même, le maintien d'une exonération des oeuvres importées aurait favorisé les artistes étrangers au détriment des artistes français. En ce qui concerne le taux applicable, la taxe sur la valeur ajoutée est perçue jusqu'au 31 décembre 1992 au taux de 5,5 p. 100 sur les oeuvres d'art originales. Cette mesure est entrée en vigueur le 1er octobre 1991 pour les oeuvres d'art dont l'auteur est vivant, et le 1er janvier 1992 pour les autres oeuvres d'art. Cette mesure va dans le sens des préoccupations de l'honorable parlementaire.
