@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971003186
+
+- Question : [SEQ971003186](seq971003186.md) — Effectifs du tribunal de grande instance de Montpellier
+
+## Réponse
+
+*Justice, JO du 1998-01-22, page 248*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que l'amélioration des conditions de fonctionnement des juridictions et, notamment, de celles du ressort de la cour d'appel de Montpellier, constitue une priorité de son action au ministère de la justice. Le tribunal de grande instance de Montpellier a bénéficié, depuis 1993, de la création de quatre emplois de juges, dont deux spécialisés, et d'un emploi de substitut, en raison de l'augmentation du nombre des contentieux liés à la très forte progression démographique et au développement économique du ressort. Ce tribunal a connu, au cours de l'été dernier, une sucession normale de mutations aboutissant à des vacances d'emplois qui devaient être comblées dès les prochains mouvements de magistrats. Sur les trois postes vacants, depuis juillet et août, deux ont ainsi été pourvus (un de juge non spécialisé et un de juge chargé du service du tribunal d'instance de Lodève) par un décret de nomination publié le 8 novembre 1997. La vacance d'un emploi de vice-président du second grade est déjà compensée par l'affectation, en surnombre, d'un vice-président du premier grade. Par ailleurs, pour pallier les difficultés pouvant résulter de l'absence de magistrats dans les tribunaux du ressort de la cour d'appel de Montpellier, les chefs de cour disposent de la faculté d'y déléguer, temporairement, un ou plusieurs des six magistrats placés auprès d'eux à cet effet. Enfin, cette juridiction est maintenant logée dans les locaux dignes, modernes et spacieux, pour lesquels l'Etat a consenti un investissement de 240 millions de francs. Elle peut donc traiter, dans d'excellentes conditions matérielles, les affaires dont elle est saisie.
