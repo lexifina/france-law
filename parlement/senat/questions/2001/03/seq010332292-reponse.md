@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010332292
+
+- Question : [SEQ010332292](seq010332292.md) — Augmentation du nombre de délégués du procureur pour des médiations pénales
+
+## Réponse
+
+*Justice, JO du 2001-06-07, page 1929*
+
+La garde des sceaux, ministre de la justice, a l'honneur de faire connaître à l'honorable parlementaire que l'information parue dans la revue Le Courrier de la Chancellerie, n° 50 (juillet-août 2000), selon laquelle 509 délégués du procureur sont en fonction, est la seule disponible à ce jour. Un nouveau recensement du nombre de délégués du procureur de la République est actuellement effectué puisque, en mai 2000, les parquets signalaient le recrutement prévisible de 100 autres délégués. Il convient d'ajouter que le décret n° 2001-71 du 29 janvier 2001, relatif aux délégués et aux médiateurs du procureur de la République et à la composition pénale, prévoit une habilitation distincte pour les délégués et les médiateurs du procureur de la République. C'est ainsi que les premiers nommés peuvent se voir confier la mise en oeuvre des mesures alternatives aux poursuites (art. 41-1 1°, 2°, 3° et 4° du code de la procédure pénale) ainsi que de la composition pénale (art. 41-2 et 41-3 du même code), tandis que les personnes habilitées en qualité de médiateurs pourront seules mettre en oeuvre la médiation en matière pénale, ainsi que toutes les mesures inscrites dans les trois articles précités du code de procédure pénale. En conséquence, le recensement auquel il est actuellement procédé donnera une information précise sur le nombre de délégués du procureur de la République au sens des textes réglementaires. Par ailleurs, s'agissant du cas particulier du département du Rhône, le parquet près le tribunal de grande instance de Lyon dispose de treize délégués du procureur, tandis que celui de Villefranche-sur-Saône en a recruté un.
