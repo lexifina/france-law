@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941208809
+
+- Question : [SEQ941208809](seq941208809.md) — Difficultés des associations complémentaires de l'enseignement public
+
+## Réponse
+
+*Éducation, JO du 1995-02-09, page 333*
+
+Réponse. - Dans un contexte budgétaire de rigueur, les crédits d'intervention du ministère de l'éducation nationale ont subi d'importantes mesures d'annulations. Pour gérer cette situation, 8/12es des subventions 1993 ont été versés en juillet à toutes les associations bénéficiaires de conventions passées en 1986 et une procédure d'évaluation a été mise en place. Compte tenu des documents fournis à cette occasion par les associations, il n'a pas paru souhaitable de répercuter sur chacune d'elles une baisse sensible, qui aurait compromis l'ensemble des activités qu'elles mènent en complémentarité avec l'enseignement public. En revanche, compte tenu des moyens budgétaires disponibles, il a été décidé d'apporter un soutien prioritaire aux associations d'envergure nationale. Seules ces dernières ont donc reçu une dotation complémentaire de 3,25/12es, ce qui revenait à renouveler à hauteur de 94 p. 100 les subventions qu'elles ont perçues en 1993. Il est au demeurant inexact de parler de désengagement de la part du ministère de l'éducation nationale dans la mesure où l'effort financier au bénéfice des associations conventionnées depuis 1986 est resté en 1994 considérable, s'élevant à plus de 198 MF ; l'ensemble des agents mis à disposition a été renouvelé, tant à l'égard des associations ayant reçu 8/12es qu'à celles ayant obtenu 11,25/12es de leur subvention 1993. Cette aide a représenté un total de 459 équivalents-emplois ; de nouvelles conventions pluriannuelles, d'une durée de six années, allant du 1er janvier 1993 au 31 décembre 1998, ont déjà été signées avec douze des plus importantes associations et plusieurs dossiers sont actuellement soumis au visa du contrôleur financier.
