@@ -1,0 +1,5 @@
+# Article 1er
+
+L'article 29 de la convention collective nationale du notariat du 8 juin 2001 est abrogé et remplacé par les dispositions suivantes :
+
+(voir cet article)
