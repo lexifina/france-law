@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040713286
+
+- Question : [SEQ040713286](seq040713286.md) — Réglementation concernant les cadeaux de fin d'année pour les employés municipaux
+
+## Réponse
+
+*Intérieur, JO du 2004-10-21, page 2402*
+
+L'article 20 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires (titre 1er du statut général des fonctionnaires) prévoit que les fonctionnaires ont droit, après service fait, à une rémunération comprenant le traitement, l'indemnité de résidence, le supplément familial de traitement ainsi que les indemnités instituées par un texte législatif ou réglementaire. Le décret du 6 septembre 1991 modifié établit des équivalences entre les grades territoriaux et ceux de la fonction publique d'État. Dès lors et conformément aux dispositions de la loi du 13 juillet 1983, l'ensemble des primes et indemnités attribuées après délibération sont fondées soit sur un texte applicable à la fonction publique d'État, soit sur un texte propre à la fonction publique territoriale dans la limite du butoir imposé par l'article 88 de la loi du 26 janvier 1984. L'article 111, alinéa 3, de la loi n° 84-53 du 26 janvier 1984 permet le maintien, par exception au principe de parité énoncé ci-dessus, d'avantages collectivement acquis mis en place avant l'entrée en vigueur de cette loi s'ils étaient déjà pris en compte dans le budget de la collectivité. C'est dans ce cadre qu'est attribuée la prime de fin d'année ou 13e mois. Les cadeaux de fin d'année n'entrent pas dans le cadre du régime indemnitaire décrit ci-dessus et relèvent de la politique d'action sociale définie par la collectivité territoriale. Les prestations d'action sociale résultent d'une décision de l'assemblée délibérante et sont attribuées indépendamment du grade, de l'emploi ou de la manière de servir. Elles ont un caractère facultatif et peuvent donc être différentes selon les collectivités.
