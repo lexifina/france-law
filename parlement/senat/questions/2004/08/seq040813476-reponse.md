@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040813476
+
+- Question : [SEQ040813476](seq040813476.md) — Situation des élus locaux retraités
+
+## Réponse
+
+*Économie, JO du 2004-12-16, page 2897*
+
+En application des articles 79 et 82 du code général des impôts, les pensions, notamment les pensions de retraite servies par le régime général de sécurité sociale ou par les régimes de retraite complémentaire légalement obligatoires, entrent dans le champ d'application de l'impôt sur le revenu. Ces dispositions sont d'application générale. L'application aux pensions servies ès qualités aux anciens élus locaux, notamment par l'IRCANTEC, des modalités spécifiques d'imposition des indemnités de fonction perçues par les élus locaux prévues à l'article 204-0 bis du code général des impôts, qui sont liées à l'exercice effectif du mandat électif, ne serait pas justifiée. En particulier, la déduction de la fraction représentative de frais d'emploi, égale au montant des indemnités versées aux maires des communes de moins de 500 habitants en application de l'article 204-0 bis précité, ne se justifie que dans le cadre de la retenue à la source prévue à cet article applicable lorsque les intéressés exercent leur activité d'élu local. Cela étant, l'imposition des pensions de retraite s'effectue selon des règles favorables. En effet, elles bénéficient d'un abattement spécifique de 10 %, dont le montant pour l'imposition des revenus de l'année 2003 ne peut être inférieur pour chaque membre du foyer fiscal déclarant des pensions et retraites à 334 euros, montant qui devrait s'établir à 340 euros pour l'imposition des revenus de l'année 2004, puis de l'abattement général de 20 %. Ces dispositions favorables permettent de répondre aux préoccupations exprimées dans le strict respect du principe d'égalité devant l'impôt.
