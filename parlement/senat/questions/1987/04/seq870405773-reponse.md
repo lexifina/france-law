@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870405773
+
+- Question : [SEQ870405773](seq870405773.md) — Application du statut de l'archipel de Saint-Pierre-et-Miquelon
+
+## Réponse
+
+*Départements et territoires d'Outre-mer (DOM-TOM), JO du 1987-06-11, page 924*
+
+Réponse. -La loi n° 85-595 du 11 juin 1985 pose clairement les principes de la répartition des compétences entre l'Etat et la collectivité territoriale de Saint-Pierre et Miquelon. Elle dispose, par son article 25, que : " Le conseil général est saisi pour avis : 1° de tous projets d'accords concernant la coopération régionale en matière économique, sociale, technique, scientifique, culturelle, de sécurité civile ou d'environnement ; 2° de tout projet d'accord international portant sur la zone économique de la République française au large des côtes de Saint-Pierre et Miquelon. " Son article 26 dispose que " le président du conseil général est associé et peut participer à la négociation des accords mentionnés au 1° et au 2° de l'article 25 ". Par ailleurs, en matière d'exploration, d'exploitation, de conservation ou de gestion des ressources naturelles dans la zone économique de la République française au large des côtes de l'archipel, la loi statutaire prévoitque l'Etat associe la collectivité territoriale à ces opérations. C'est dans ce cadre institutionnel que le Gouvernement entreprend des actions et mène sa politique en faveur du développement économique de l'archipel. Le Gouvernement appliquera les procédures définies par la loi, à l'avenir, comme il les a toujours appliquées. Ainsi, le président du conseil général continuera d'être systématiquement associé aux négociations en cours avec le Canada, comme il l'a toujours été, et le conseil général sera, le cas échéant, consulté pour avis sur tout projet d'accord le concernant, conformément à l'article 25 de la loi statutaire.
