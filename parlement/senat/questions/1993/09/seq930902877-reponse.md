@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930902877
+
+- Question : [SEQ930902877](seq930902877.md) — Conflits de compétence en matière de police judiciaire
+
+## Réponse
+
+*Justice, JO du 1994-02-10, page 314*
+
+Réponse. - Dans son rapport du 5 juin 1991, la commission de contrôle du Sénat chargée d'examiner les modalités d'organisation et les conditions de fonctionnement des services relevant de l'autorité judiciaire avait constaté de graves déséquilibres policejustice dans l'exécution des missions de police judiciaire et formulé notamment une proposition tendant à déterminer la compétence exclusive du garde des sceaux pour trancher les conflits de compétence en matière de police judiciaire. En application des articles 12 et 41 du code de procédure pénale, le procureur de la République se voit attribuer la direction de la police judiciaire. En conséquence, il lui appartient de désigner les services devant enquêter sur les différentes affaires pénales. A ce titre, il est seul à même de trancher tout conflit de compétence pouvant se présenter entre tel ou tel service d'enquête. Le garde des sceaux peut assurer à l'honorable parlementaire qu'il veille avec la plus grande vigilance, par les instructions qu'il adresse aux procureurs généraux, à ce que les magistrats exercent de la manière la plus effective le pouvoir de direction de la police judiciaire qui lui est attribué par la loi. Par ailleurs, la participation de l'autorité judiciaire à la création des services chargés de missions de police judiciaire paraît une nécessité pour rendre encore plus effectif le pouvoir de direction de la police judiciaire par les magistrats. C'est la raison pour laquelle la Chancellerie vient de faire adopter par le Parlement un texte de loi visant à définir de manière précise les catégories de services de police judiciaire, ainsi que leurs compétences.
