@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880109219
+
+- Question : [SEQ880109219](seq880109219.md) — Réduction des crédits du Fonds d'amortissement des charges d'électricité
+
+## Réponse
+
+*Agriculture, JO du 1988-03-10, page 335*
+
+Réponse. -Les efforts entrepris dans le cadre du F.A.C.E. en faveur des collectivités locales ont permis une très nette amélioration de la qualité du service. Ainsi le taux d'abonnés mal alimentés en zone rurale, c'est-à-dire d'abonnés subissant des chutes de tension supérieure à 11 p. 100, est-il passé en moyenne nationale de 21,5 p. 100 en 1980 à 12,7 p. 100 en 1985. Les travaux, chaque année subventionnés par le F.A.C.E., ont été revalorisés et atteindront en 1988 un montant de 2 078 millions de francs, soit un peu plus que la reconduction en francs constants du programme 1987 (2 021 M.F.). Le Gouvernement a voulu, en adoptant une telle position, témoigner son attachement à maintenir l'action accomplie en faveur de l'électrification rurale. En effet, ce niveau permet de maintenir pour la métropole un programme principal de 1 798 millions de francs, c'est-à-dire le montant de l'année dernière ; les dotations de chaque département sont aussi maintenues puisque le conseil du F.A.C.E. a décidé de ne pas modifier les clés de répartition. De plus, 100 millions de francs ont été prévus pour des travaux prioritaires liés aux nouvelles lignes de transport. D'autre part, pour les besoins exceptionnels qui viennent de se manifester dans plusieurs départements gravement sinistrés, une enveloppe spéciale a été dégagée pour répondre aux demandes exprimées par les départements. Enfin une enveloppe a été prévue à titre exceptionnel pour répondre au souci d'une meilleure prise en compte des spécifications rurales. Ces deux dernières enveloppes totalisent 100 millions de francs.
