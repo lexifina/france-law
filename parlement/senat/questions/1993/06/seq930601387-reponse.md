@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930601387
+
+- Question : [SEQ930601387](seq930601387.md) — Risques occasionnés par l'utilisation du mercure
+
+## Réponse
+
+*Environnement, JO du 1993-09-30, page 1794*
+
+Réponse. - Depuis plusieurs années, les fabricants de piles ont réduit très fortement la teneur en mercure de leurs produits. Sur près de 600 millions de piles produites et importées annuellement en France, on ne trouve du mercure que dans les piles boutons à l'oxyde de mercure, représentant 5 millions d'unités par an, soit environ 3 tonnes de mercure. Ces piles boutons à l'oxyde de mercure sont essentiellement vendues en audioprothèse et les producteurs ont engagé une action de récupération spécifique de ces piles auprès des distributeurs concernés. De plus, un projet de décret transcrivant des dispositions de la directive CEE du 18 mars 1991 relative à l'élimination des piles et accumulateurs usagés contenant certaines matières dangereuses est actuellement en cours d'élaboration. Ce texte précise les obligations qui s'appliqueront aux producteurs des produits concernés pour assumer le fonctionnement des filières de récupération et de valorisation des piles et accumulateurs usagés correspondants. En ce qui concerne les déchets hospitaliers, une enquête menée en 1991 par les ministères de la santé et de l'environnement auprès de l'ensemble des établissements de santé publics et privés montre que 20 p. 100 des établissements procèdent à la récupération des thermomètres médicaux. Lors de la publication des résultats de cette enquête, l'attention des établissements a été attirée sur la nécessité de mettre en place des collectes sélectives de certains déchets, notamment des déchets mercuriels, permettant la valorisation de ceux-ci dans des conditions satisfaisantes pour l'environnement.
