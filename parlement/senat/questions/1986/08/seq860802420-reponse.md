@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860802420
+
+- Question : [SEQ860802420](seq860802420.md) — Statut de la coopération agricole
+
+## Réponse
+
+*Agriculture, JO du 1987-06-04, page 879*
+
+Réponse. -Les impératifs de la compétition nationale et internationale confirment la nécessité de rendre à l'ensemble des entreprises françaises des conditions fiscales équilibrées dans le sens de l'allégement de leurs charges financières. Le Gouvernement s'est ainsi engagé, dès la loi de finances pour 1987, vers d'importantes réductions d'impôts : suppression sur trois ans de la taxe sur les frais généraux, déductibilité de la provision pour congés payés du bénéfice et, surtout, réforme en profondeur de la taxe professionnelle avec, pour 1987, un allégement sous forme d'un abattement des bases de 16 p. 100. C'est donc dans cette voie, que le Gouvernement s'est attaché à suivre et où il entend à l'avenir continuer à franchir de nouvelles étapes, de même que dans celle d'une rénovation de l'ensemble du droit de la concurrence qu'il faut considérer les mesures de rééquilibrage annoncées et que doivent être prises en compte les relations respectives entre secteur coopératif et secteur non coopératif. Il n'est pas envisagé de la sorte de remettre en question les principes de base sur lesquels repose, historiquement, la coopération agricole en France. Ce statut particulier, s'il est assorti d'avantages spécifiques, présente également un certain nombre de contraintes, dont le régime fiscal accordé aux coopératives constitue effectivement la contrepartie. Les transformations et les efforts de recherche et de développement réalisés par les entreprises du secteur coopératif en réponse aux évolutions survenues dans l'environnement économique et commercial démontrent d'ailleurs, si besoin en était, que ce statut n'a pas fonctionné comme un cadre figé, à l'abri duquel se seraient trouvées les coopératives.
