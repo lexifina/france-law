@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960213754
+
+- Question : [SEQ960213754](seq960213754.md) — Immigration clandestine
+
+## Réponse
+
+*Intérieur, JO du 1996-07-11, page 1755*
+
+Réponse. - Le bilan de l'action de la DICCILEC du 1er mai 1995 au 1er mai 1996 est retracé dans le tableau suivant :( NOTA Voir tableau page 1755 ). Par ailleurs, 17 affrètements spéciaux, dont certains en coopération avec des Etats voisins, ont concerné 878 étrangers. De plus, le nombre d'éloignements depuis le 1er janvier 1996 a progressé de plus de 25 p. 100 par rapport à la même période de 1995. Il convient de noter que les résultats enregistrés pour la période allant du 1er mai 1995 au 30 avril 1996 sont supérieurs à ceux observés sur les mêmes périodes de 1993 et 1994, à l'exception des non-admis et des irréguliers. Si ces deux dernières données chiffrées peuvent faire penser à un recul d'activité, il convient de rappeler que le contexte réglementaire dans lequel s'inscrit l'action de la DICCILEC a radicalement été modifié en 1995 avec l'entrée en vigueur des dispositions de la convention d'application de l'accord de Schengen le 26 mars 1995. C'est ainsi notamment que les ressortissants des Etats tiers, résidant régulièrement dans l'un des pays membres, ne sont plus soumis à l'obligation du visa pour pénétrer sur le territoire français. En outre, les contrôles ont été levés jusqu'au mois de juillet 1995 aux frontières aériennes intracommunautaires. De plus, on ne peut méconnaître les effets complémentaires résultant de l'évolution des structures de la DICCILEC et la poursuite du redéploiement de ses effectifs des frontières intérieures vers les frontières extérieures, qui s'est concrétisée par l'abandon d'un certain nombre de postes. Tout sera entrepris afin que dans les mois à venir les résultats positifs enregistrés soient maintenus, voire amplifiés.
