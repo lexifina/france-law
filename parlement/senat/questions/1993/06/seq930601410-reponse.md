@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930601410
+
+- Question : [SEQ930601410](seq930601410.md) — Création de pharmacies
+
+## Réponse
+
+*Affaires sociales, JO du 1994-03-31, page 714*
+
+Réponse. - Les dispositions des articles L. 570 et L. 571 du code de la santé publique fixent les règles applicables aux créations et transferts d'officines de pharmacie. Le préfet, représentant de l'Etat dans le département, statue sur les demandes présentées par les pharmaciens dans le cadre de ces dispositions législatives. Ces décisions administratives peuvent être remises en cause par le ministre chargé de la santé lorsqu'il est saisi de recours hiérarchiques et sont soumises, le cas échéant, au contrôle du juge administratif. Pour prendre sa décision, le préfet s'appuie sur les avis prévus par la loi. En application de l'article L. 570 du code de la santé publique, toute ouverture d'une nouvelle officine, tout transfert d'une officine d'un lieu dans un autre sont subordonnés à l'octroi d'une licence délivrée par le représentant de l'Etat dans le département après avis du conseil régional de l'ordre des pharmaciens et du directeur régional des affaires sanitaires et sociales. Dans le cas de créations d'officines par voie dérogatoire, la décision du préfet ne peut intervenir qu'après avis motivé du directeur régional des affaires sanitaires et sociales, du pharmacien inspecteur régional de la santé, du conseil régional de l'ordre des pharmaciens et des syndicats professionnels conformément à la volonté du législateur telle qu'elle vient de s'exprimer à l'occasion du vote de la loi no 94-43 du 18 janvier 1994 relative à la santé publique et à la protection sociale. En revanche, la loi ne prévoit pas d'avis préalable obligatoire de la part de la municipalité concernée, ce qui n'empêche naturellement pas une municipalité de faire connaître son opinion au préfet, de façon à compléter son information.
