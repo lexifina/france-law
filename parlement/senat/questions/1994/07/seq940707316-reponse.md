@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940707316
+
+- Question : [SEQ940707316](seq940707316.md) — Règles de quorum applicables pour les décisions d'un syndicat intercommunal
+
+## Réponse
+
+*Intérieur, JO du 1994-09-15, page 2265*
+
+Réponse. - En vertu de l'article L. 163-10 du code des communes, les dispositions relatives aux convocations, à l'ordre du jour et à la tenue des séances des comités des syndicats de communes sont celles fixées pour les conseils municipaux. Ainsi, le comité d'un syndicat de communes ne peut délibérer que lorsque la majorité des membres en exercice assiste à la séance. Les délibérations, quant à elles, sont prises à la majorité absolue des suffrages exprimés. Le respect des règles de quorum impose certes aux élus une disponibilité d'autant plus grande qu'ils peuvent être titulaires de plusieurs mandats au sein d'organismes intercommunaux. Pour autant, ce dispositif se révèle protecteur des intérêts des communes, qui doivent pouvoir, au travers du comité syndical, assurer la gestion et le contrôle de l'organisme intercommunal délégataire de leurs compétences. Si cette charge s'avère présenter des contraintes excessives pour certains élus, il est possible de faire appel à des délégués suppléants appelés à siéger avec voix délibérative en cas d'empêchement du ou des délégués titulaires. La loi no 88-13 du 5 janvier 1988 l'a prévu : le texte est actuellement codifié au troisième alinéa de l'article L. 163-5 du code des communes. La seule formalité exigée par la loi est qu'une disposition soit prévue à cet effet dans la décision institutive. Par ailleurs, les textes admettent que les représentants des communes au sein des syndicats intercommunaux soient choisis parmi tous les citoyens réunissant les conditions requises pour faire partie d'un conseil municipal. Les délégués des communes peuvent donc, en l'état actuel des textes, être choisis en dehors des conseils municipaux.
