@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970702133
+
+- Question : [SEQ970702133](seq970702133.md) — Coopération judiciaire européenne
+
+## Réponse
+
+*Justice, JO du 1997-10-30, page 3008*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que le rapport du Sénat sur la coopération judiciaire européenne en date du 27 juin 1997 a retenu toute son attention. Elle estime, comme les rapporteurs, que l'harmonisation des dispositions pénales applicables aux formes de criminalité ayant une dimension transfrontalière constitue une des missions principales de la coopération judiciaire européenne. Elle rappelle que la France a largement contribué à l'élaboration et à l'adoption d'une première série de conventions destinées à harmoniser le droit pénal dans le domaine de la corruption et des délits économiques constituant une atteinte au budget communautaire : la convention relative à la protection des intérêts financiers de la Communauté signée le 26 juillet 1995 ; le protocole à la convention relative à la protection des intérêts financiers de la Communauté signée le 27 septembre 1996 ; la convention relative à la lutte contre la corruption impliquant des fonctionnaires des Communautés ou des Etats membres du 26 mai 1997. Les transpositions de ces nouvelles normes pénales sont prévues à bref délai. A l'issue de ce premier travail, la France a entrepris, comme le souhaitent les rapporteurs, une tâche d'harmonisation des législations dans le domaine des infractions liées à la criminalité organisée. A ce titre, la Chancellerie participe actuellement à plusieurs groupes de travail au sein de l'Union européenne : le groupe multidisciplinaire sur la criminalité organisée, le groupe droit pénal - droit communautaire, le groupe drogue et criminalité organisée.
