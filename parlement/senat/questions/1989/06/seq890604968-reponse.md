@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890604968
+
+- Question : [SEQ890604968](seq890604968.md) — Sociétés de capitaux : interdiction des apports en industrie
+
+## Réponse
+
+*Affaires européennes, JO du 1989-12-21, page 2115*
+
+Réponse. - Les apports en industrie dans les sociétés de capitaux font actuellement l'objet de limitations qui tiennent à la nature même des sociétés considérées, dont le capital social constitue une garantie pour les tiers. Il y a en effet apport en industrie lorsqu'un associé met à la disposition de la société ses connaissances techniques, son travail ou ses services. N'étant pas susceptible d'une réalisation forcée au profit des créanciers, l'apport en industrie ne peut pas être un élément du capital social. Par contre, dès lors que les connaissances techniques ou innovations auxquelles se réfère l'honorable parlementaire font l'objet de brevets, de dessins ou modèles, de marques, ou font partie d'un fonds de commerce, elles peuvent faire l'objet d'une évaluation économique sous le contrôle d'un commissaire aux apports, et constituent alors des apports en nature qui peuvent entrer sans limitation dans la composition du capital social minimal exigible des formes de sociétés les plus courantes. La mise en oeuvre de procédés innovants grâce au savoir-faire des associés potentiels peut en outre se réaliser également au moyen d'autres formes de sociétés, sociétés de personnes notamment. Ces règles protectrices des différents intérêts en jeux ont été fixées au niveau communautaire par l'adoption de la deuxième directive en matière de droit des sociétés. La sous-capitalisation traditionnelle de beaucoup de sociétés françaises ayant par ailleurs nécessité récemment un relèvement des minima légaux pour atteindre les seuils fixés au niveau européen, il n'est pas envisagé pour l'instant, tant au plan communautaire qu'au niveau national, de modification à cet état de droit.
