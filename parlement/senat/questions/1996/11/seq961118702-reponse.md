@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961118702
+
+- Question : [SEQ961118702](seq961118702.md) — Financement de la construction d'un nouveau lycée français à Singapour
+
+## Réponse
+
+*Affaires étrangères, JO du 1997-02-06, page 357*
+
+Réponse. - Le ministre des affaires étrangères et l'Agence pour l'enseignement français à l'étranger suivent avec une attention particulière le développement du lycée français à Singapour. Ainsi, l'Etat a, depuis 1985, régulièrement soutenu l'effort de financement et d'investissement de cet établissement, lesquel a ainsi prouvé une réelle capacité d'endettement à moyen terme. Il lui a notamment accordé en 1993 une subvention de 10 MF aux fins d'acquisition d'un nouveau terrain. Par ailleurs, comme elle l'a fait au cours des derniëres années - 10 postes d'expatriés et 15 postes de résidents auront été créés entre la rentrée de 1995 et celle de 1997 pour l'Asie du Sud-Est et la Chine, zones aujourd'hui prioritaires, dont 2 postes d'expatriés et 2 de résidents pour le seul lycée de Singapour - l'Agence continuera à accompagner la montée des effectifs d'élèves au lycée par une actualisation constante de la carte scolaire. Elle reste en outre disposée à venir en aide à l'établissement dans la mesure de ses moyens, s'il venait à connaître des difficultés. Il reste que, d'après l'étude financière menée par le conseil exécutif du lycée, il apparaît que l'établissement est en mesure de prendre à sa charge la totalité des investissements envisagés en vue de porter sa capacité à 1 000 élèves. L'Agence étant par ailleurs très sollicitée par d'autres établissements du réseau qui n'ont pas les mêmes capacités financières que celles du lycée de Singapour, et dont les besoins sont aussi réels, les moyens dont elle dispose sur son budget propre pour les établissements conventionnés lui imposent de faire des choix, qui, au demeurant, dans le cas d'espèce, ne lui paraissent pas de nature à freiner le développement de l'établissement.
