@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950811897
+
+- Question : [SEQ950811897](seq950811897.md) — Situation des vignerons du Languedoc-Roussillon
+
+## Réponse
+
+*Agriculture, JO du 1997-03-20, page 843*
+
+Réponse. - Dans les débats européens relatifs à la réforme de l'OCM du vin, le gouvernement français a toujours soutenu la nécessité de responsabiliser dans la future OCM les pays producteurs vis-à-vis de leurs excédents. Dans cette optique, les débouchés commerciaux de chaque pays producteur sur la période la plus récente possible constituent une référence évidemment beaucoup plus pertinente que leurs productions. C'est pourquoi le gouvernement français a demandé que, dans la proposition de réforme de la Commission de Bruxelles, soit substituée la notion de " marché national de référence " à celle de " production nationale de référence ". La nouvelle OCM doit en effet pour la France être en totale rupture avec l'actuelle OCM. Elle devra prévoir un mécanisme responsabilisant et dissuasif des excédents mais aussi offrir aux viticulteurs des différentes régions les moyens d'adapter en quantité et en qualité leur production à la demande en tenant compte de leurs spécificités. Enfin, dans la perspective d'une réforme de l'OCM, le relèvement du montant de la prime d'arrachage ne doit pas être envisagé. L'arrachage doit rester un instrument de politique structurelle pour les seules régions viticoles qui justifient encore d'un important effort de diminution de leur potentiel de production. Par ailleurs, pour la campagne 1995/1996, afin de contribuer à l'allègement des charges supportées par les viticulteurs qui s'imposent des conditions de production plus restrictives dans le but d'améliorer la qualité de leurs produits et de les adapter au marché, les pouvoirs publics ont décidé d'accorder une aide financière aux producteurs de vin de pays, sous la forme d'une prime de 270 F par hectare.
