@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900610391
+
+- Question : [SEQ900610391](seq900610391.md) — Statut de la mère de famille
+
+## Réponse
+
+*Famille, JO du 1990-08-23, page 1832*
+
+Réponse. - Un statut, légal ou réglementaire, de la mère de famille n'existe pas à l'heure actuelle : en effet, le code de la famille définit les principes de la protection de la famille et les missions des services de l'aide sociale à l'enfance, et le code civil détermine les conditions dans lesquelles s'exerce l'autorité parentale. Cependant, un certain nombre de droits sociaux sont ouverts aux mères de famille lorsque celles-ci n'exercent pas d'activité professionnelle afin d'élever leurs enfants. Il en est ainsi dans le domaine de la protection sociale et dans le domaine de l'emploi. Le code de la sécurité sociale (article R. 741-18) prévoit que les cotisations afférentes à l'assurance maladie et maternité peuvent être prises en charge, dans certaines conditions, par le régime des prestations familiales dont relève l'assurée. De même, il existe différents avantages de vieillesse qui prennent en compte la situation des mères de famille, et qui permettent soit deconstituer une retraite, soit d'obtenir des majorations de droits. Dans certaines situations, précisées par l'article L. 381-1 du code de la sécurité sociale, l'affiliation à l'assurance vieillesse est gratuite et les mères de famille peuvent bénéficier de l'allocation aux mères de famille définie par l'article L. 813-1 du code de la sécurité sociale. Les majorations pour enfant à charge s'appliquent à la fois à la durée d'assurance vieillesse et au taux de la pension, qu'il s'agisse d'assurance volontaire ou obligatoire. Dans le domaine de l'emploi, des droits particuliers sont accordés aux mères de famille, notamment des priorités d'accès aux stages de la formation professionnelle ou des rémunérations supérieures de ces stages.
