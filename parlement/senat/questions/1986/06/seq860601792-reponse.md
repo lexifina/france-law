@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860601792
+
+- Question : [SEQ860601792](seq860601792.md) — Revalorisation du salaire déductible du conjoint de commerçant ou d'artisan
+
+## Réponse
+
+*Budget, JO du 1986-10-01, page 1384*
+
+Réponse. -Lorsque les époux sont mariés sous un régime non exclusif de communauté, la rémunération du travail du conjoint de l'exploitant individuel ou de l'associé d'une société de personnes mentionnée à l'article 8 du code général des impôts présente le caractère d'une affectation de bénéfice et non celui d'une charge d'exploitation. Cependant, pour la détermination du bénéfice imposable de l'entreprise, la déduction du salaire du conjoint est autorisée dans les limites prévues à l'article 154 du code déjà cité. Cette déduction est limitée à 17 000 francs ou à douze fois la rémunération mensuelle minimale prévue à l'article L. 141-11 du code du travail selon que l'entreprise n'adhère pas, ou, au contraire, adhère à un centre de gestion agréé. A cet égard, le relèvement de la limite inférieure à une somme égale à douze fois le salaire minimum interprofessionnel de croissance (S.M.I.C.) mensuel aurait pour conséquence de permettre aux exploitants individuels et aux associés de sociétés de personnes d'obtenir l'abattement de 20 p. 100 sur le revenu professionnel, à hauteur de la partie de ce revenu qui serait présentée comme un salaire versé au conjoint. Cette mesure irait à l'encontre d'une politique constante qui consiste à subordonner le bénéfice de l'abattement de 20 p. 100 (10 p. 100 pour la fraction comprise entre 192 000 francs et 523 000 francs) à l'adhésion à un centre de gestion agréé. En effet, cette adhésion est destinée à améliorer la connaissance des revenus, qui est un préalable au rapprochement des conditions d'imposition des travailleurs salariés et non salariés. La mesure évoquée par l'honorable parlementaire n'est donc pas envisagée.
