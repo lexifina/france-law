@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920621801
+
+- Question : [SEQ920621801](seq920621801.md) — Références des textes réglementaires confiant aux ministères techniques la gestion des corps de l'Etat pour l'administration de la Polynésie française
+
+## Réponse
+
+*Départements et territoires d'Outre-mer (DOM-TOM), JO du 1992-09-24, page 2181*
+
+Réponse. - Le gestion des corps de fonctionnaires de l'Etat pour l'administration de la Polynésie française et l'imputation budgétaire des emplois résultent des dispositions combinées des textes créant les corps de l'Etat pour l'administration de la Polynésie française et des statuts particuliers des corps métropolitains correspondants. La loi n° 66-496 du 11 juillet 1966 relative à la création de corps de fonctionnaires de l'Etat pour l'administration de la Polynésie française indique dans son article 3 que les conditions de prise en charge par le budget de l'Etat et la participation du territoire sont fixées chaque année par loi de finances. Le décret n° 68-20 du 5 janvier 1968, fixant les conditions d'application de la loi susmentionnée, précise que ces corps de fonctionnaires sont soumis aux statuts des corps métropolitains correspondant et établit un tableau de concordance entre CEAPF et corps métropolitains. Ce décret a été modifié par le décret n° 72-944 du 6 octobre 1972 pour les corps relevant de l'agriculture, par le décret n° 77-928 du 9 avril 1977 relatif aux techniciens de l'aviation civile, par le décret n° 79-313 du 4 avril 1979 pour les personnels de police. En conséquence, chaque corps de l'Etat pour l'administration de la Polynésie française est géré, administrativement et budgétairement, par le ministère dont relève le corps métropolitain analogue sur la base des dispositions statutaires propres à ce corps et du décret du 5 janvier 1968 modifié.
