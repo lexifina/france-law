@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910716384
+
+- Question : [SEQ910716384](seq910716384.md) — Instructions techniques relatives à la voirie départementale
+
+## Réponse
+
+*Intérieur, JO du 1991-09-12, page 1971*
+
+Réponse. - La détermination des règles et normes applicables à la construction et à l'aménagement des voiries des collectivités locales ne se réfère pas à la qualité du maître d'ouvrage mais à des exigences générales en matière de circulation, de sécurité et de confort des usagers. Les mêmes règles, qui trouvent leur fondement dans le code de la route, le code de la voirie routière ou le code des marchés, s'appliquent ainsi indistinctement à tous les maîtres d'ouvrage. Sous l'effet de la réforme récente de la normalisation, ces textes sont peu à peu complétés, voire remplacés par des normes homologuées produites en concertation sous l'égide de l'A.F.N.O.R. par des techniciens et professionnels concernés, et dont la référence dans les marchés des collectivités locales est obligatoire. En dehors de ces contraintes réglementaires, il existe un grand nombre de documents techniques à valeur de recommandation ou de conseil pour les collectivités locales. Ce sont, par exemple, les cahiers des clauses techniques générales élaborés par les Groupes permanents d'étude des marchés, ou les nombreux documents créés par le S.E.T.R.A. (Service des études techniques des routes et autoroutes) ou le C.E.T.U.R. (Centre d'études des transports urbains). Il est par ailleurs possible, voire souhaitable, d'adapter aux contraintes spécifiques de la voirie locale certaines règles contenues dans l'instruction technique sur l'aménagement des routes nationales et inspitées de motivations de sécurité. Ainsi, en dehors des contraintes réglementaires, les communes et départements sont entièrement libres et responsables de leur choix technique, y compris lorsqu'ils font appel, pour la réalisation de leurs projets, au concours des services techniques de l'Etat.
