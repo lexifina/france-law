@@ -1,11 +1,5 @@
 # Article ANNEXE
 
-TABLEAU ANNEXÉ AU DÉCRET N° 93-219
-
-Attribution de la nouvelle bonification indiciaire
-
-au Conseil économique et social
-
 DÉFINITION DE L'EMPLOI justifiant de l'obtention de la nouvelle bonification indiciaire.
 
 NIVEAU DE L'EMPLOI justifiant de l'obtention de la nouvelle bonification indiciaire
@@ -54,44 +48,58 @@ Emploi administratif du niveau de la catégorie C.
 
 Emploi administratif du niveau de la catégorie C.
 
-12° Adjoint au chef de garage.
+12° Chef de garage.
 
 Emploi technique du niveau de la catégorie C.
 
-13. Agent responsable du bureau des voyages.
+13° Agent responsable du bureau des voyages.
 
 Emploi administratif du niveau de la catégorie B ou C.
 
-14. Agent responsable du service des archives et de la distribution.
+14° Agent responsable du service des archives et de la distribution.
 
 Emploi administratif du niveau de la catégorie B ou C.
 
-15. Agent responsable de la maintenance informatique.
+15° Agent responsable de la maintenance informatique.
 
 Emploi administratif du niveau de la catégorie B ou C.
 
-16. Agent responsable de l'atelier de composition.
+16° Agent responsable du service de saisie.
 
 Emploi administratif du niveau de la catégorie B ou C.
 
-17. Agent responsable du secrétariat d'un directeur.
+17° Agent responsable du secrétariat d'un directeur.
 
 Emploi administratif du niveau de la catégorie B ou C.
 
-18. Agent responsable des dossiers des membres du conseil.
+18° Agent responsable des dossiers des membres du conseil.
 
 Emploi administratif du niveau de la catégorie C.
 
-19. Agent responsable de la paie des membres du conseil.
+19° Agent responsable de la paie des membres du conseil.
 
 Emploi administratif du niveau de la catégorie C.
 
-20. Agent responsable de la buvette.
+20° Agent responsable de la buvette.
 
 Emploi technique du niveau de la catégorie C.
 
-21. Agent responsable du système de chauffage et de la
-
-climatisation.
+21° Agent responsable du système de chauffage et de la climatisation.
 
 Emploi technique du niveau de la catégorie C.
+
+22° Agent responsable de la liquidation et du paiement informatisé des pensions des anciens membres du conseil.
+
+Emploi administratif du niveau de la catégorie B ou C.
+
+23° Agent responsable du service des scrutins.
+
+Emploi administratif du niveau de la catégorie A.
+
+24° Agent chargé de l'encadrement des agents d'accueil et des huissiers de section.
+
+Emploi administratif du niveau de la catégorie C.
+
+25° Agent responsable de l'ensemble des services d'accueil.
+
+Emploi administratif du niveau de la catégorie B ou C.
