@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001229543
+
+- Question : [SEQ001229543](seq001229543.md) — Encouragement de la filière française de production de luzerne
+
+## Réponse
+
+*Agriculture, JO du 2001-04-05, page 1157*
+
+Réponse. - La filière française de luzerne déshydratée présente un certain nombre d'atouts face à la demande accrue en protéines d'origine végétale faisant suite au moratoire décidé fin 2000 sur l'utilisation de certaines farines et graisses animales. Cette filière représente une production de l'ordre de 1,4 million de tonnes sur un total communautaire qui pourrait atteindre 5 millions de tonnes en 2000-2001. Une aide à la déshydratation de 68,83 E/t est octroyée dans le cadre de l'organisation commmune de marché " fourrages séchés ". Ce secteur se caractérise par ailleurs par des outils de transformation nécessitant des investissements lourds et une consommation d'énergie élevée. La production de luzerne présente par ailleurs un intérêt agro-environnemental. Dans ce contexte, les axes de réflexion de la part du ministère de l'agriculture et de la pêche vis-à-vis de ce secteur ont été les suivants : en premier lieu, mise en place pour la période 2000-2006 d'un plan sectoriel en faveur de ce secteur des fourrages séchés, permettant de contribuer au financement de certains investissements ; en second lieu, prise en compte des particularités de ce secteur dans les débats qui ont eu lieu sur la taxe générale sur les activités polluantes, et notamment sur le volet " énergie " de cette taxe ; enfin, réflexion sur l'intégration de la luzerne, qui est une source intéressante de protéines végétales dans le " plan protéines ", en faveur de la production de protéines végétales d'origine communautaire. Pour ce dernier volet, il convient de garder à l'esprit la contrainte budgétaire forte qui pèse sur la politique agricole commune et limite considérablement les marges de man uvre.
