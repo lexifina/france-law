@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001129298
+
+- Question : [SEQ001129298](seq001129298.md) — Aménagement de la N 112 dans l'Hérault et le Tarn
+
+## Réponse
+
+*Équipement, JO du 2001-03-01, page 746*
+
+Réponse. - La route nationale 112, dans sa section comprise entre Albi et Béziers, fait l'objet d'une étude préliminaire, pilotée par la direction régionale de l'équipement Midi-Pyrénées. La première phase de cette étude, aujourd'hui achevée, a permis d'examiner différents scénarios d'amélioration de cette route ainsi que des itinéraires alternatifs à travers la Montagne Noire. L'aménagement de la RN 112 qui présente le plus d'intérêt pour assurer la liaison entre Albi et la Méditerranée permettra en outre d'améliorer la desserte des agglomérations d'Albi, de Castres, de Mazamet et de Béziers. Cependant, la traversée de la Montagne Noire, réalisable d'un point de vue technique, est néanmoins soumise à de fortes contraintes topographiques et environnementales. Ces scénarios vont désormais être soumis à l'avis des administrations, des collectivités locales et des responsables socio-économiques concernés. A l'issue de la concertation, les grandes options d'aménagement feront l'obet d'une approbation ministérielle au printemps. Parallèlement, les négociations menées par l'Etat avec les régions Midi-Pyrénées et Languedoc-Roussillon, dans le cadre du contrat de plan pour la période 2000-2006, ont permis d'inscrire les crédits nécessaires à la réalisation des déviations de Castres (rocade nord pour 260 millions de francs) et de Saint-Alby (amorce de la déviation de Mazamet pour 38 millions de francs) ainsi que la réalisation de plusieurs aménagements de sécurité et de fluidité pour un montant de 76 millions de francs, dans l'Hérault et le Tarn, dont la nature sera précisée à l'issue de la deuxième phase des études.
