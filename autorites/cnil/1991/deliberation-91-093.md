@@ -1,0 +1,23 @@
+# Délibération portant avis sur la demande d'avis présentée par l'Assistance Publique de Paris concernant la création d'un réseau interhospitalier de reprise vidéo et de transmission par le réseau numéris d'images médicales au service de radiologie de l'hôpital Trousseau.
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 91-093
+- Date : 1991-10-08
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017652863
+
+La Commission Nationale de l'Informatique et des Libertés, Vu la Convention du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel et notamment son article 6 ; Vu la loi n° 78-17 du 6 janvier 1978 relative à l'Informatique, aux fichiers et aux libertés, et notamment ses articles 1, 15, 19, 26, 27, 34 et 40 ; Vu l'article 378 du Code Pénal ; Vu la loi n° 79-18 du 3 janvier 1979 sur les archives ; Vu le projet d'acte réglementaire présenté par l'Assistance Publique de Paris ;
+
+Après avoir entendu Monsieur Gérard JAQUET en son rapport et Madame Charlotte-Marie PITRAT, Commissaire du Gouvernement en ses observations ; Considérant que l'Assistance Publique de Paris a saisi la CNIL d'une demande d'avis concernant la mise en place d'un réseau interhospitalier de reprise vidéo et de transmission, par le réseau numéris, d'images médicales et de données cliniques au service de radiologie de l'hôpital Trousseau ; Considérant que ce réseau a pour finalité d'améliorer la prise en charge des urgences pédiatriques chirurgicales en permettant à l'équipe d'urgence de l'hôpital Trousseau d'offrir à d'autres médecins hospitaliers de services de pédiatrie générale, grâce à la visualisation à distance des images médicales et la transmission de données cliniques nominatives, un avis consultatif qui constitue une aide au diagnostic et à la décision thérapeutique ;
+
+Considérant que le service de radiologie de l'hôpital Trousseau et les services de pédiatrie des centres hospitaliers participant au réseau seront dotés chacun d'une station technique constituée d'une caméra vidéo et d'un module de numérisation des clichés radiologiques, d'un microordinateur et d'une carte de communication numéris ; Considérant que, par le réseau numéris, les médecins des services précités comme l'équipe d'urgence de l'hôpital Trousseau disposeront sur leurs écrans d'ordinateurs respectifs de la même image médicale et pourront simultanément engager un dialogue téléphonique sur le cas observé ; Considérant qu'ensuite l'équipe d'urgences retransmettra par le réseau confirmation de son avis authentifié par le nom du médecin consultant ;
+
+Prenant acte de ce que l'avis qui est ainsi donné ne peut en aucun cas dégager le médecin ayant procédé à l'examen clinique du malade de la responsabilité en matière de diagnostic, traitement et décision de transférer ou non le malade à l'hôpital Trousseau ; Considérant que les médecins correspondants participant à ce réseau devront en être dûment informés, lors de chaque utilisation du réseau ; Considérant que les représentants légaux des enfants hospitalisés seront également informés par leur médecin traitant et par voie d'affichage dans les services de pédiatrie concernés de l'objet du traitement et des conditions d'exercice de leur droit d'accès ; Considérant que conformément à l'article 29 de la loi du 6 janvier 1978, toutes mesures techniques doivent être prises afin d'éviter toute déformation des images et de garantir leur qualité ;
+
+Considérant que les avis consultatifs rendus doivent être conservés sur un support durable, tant au niveau de l'hôpital émetteur que de l'hôpital Trousseau et que les images médicales transmises à cet hôpital doivent être transcrites sur un support durable également conservé ;
+
+Emet un avis favorable à la mise en oeuvre du réseau sous réserve : - que les médecins correspondants participant au réseau soient dûment informés lors de chaque utilisation du système que l'avis consultatif qui leur est fourni par l'équipe d'urgence de l'hôpital Trousseau ne peut en aucun cas les dégager de leur responsabilité en matière de diagnostic, traitement, et décision de transférer ou non le malade à l'hôpital Trousseau ; - que tant les avis consultatifs rendus, que les images médicales transmises soient conservés sur des supports durables et qu'il en soit fait mention dans la convention conclue entre l'Assistance Publique de Paris et chaque centre hospitalier ; - que les centres hospitaliers participant à ce réseau présentent à la CNIL des demandes d'avis identiques ;
+
+Demande à être saisie du bilan qui sera établi au terme d'une année de fonctionnement du réseau. Le Président, Jacques FAUVET.
