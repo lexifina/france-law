@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911218864
+
+- Question : [SEQ911218864](seq911218864.md) — Fonctionnement de l'Agence nationale pour les chèques-vacances
+
+## Réponse
+
+*Tourisme, JO du 1992-03-12, page 631*
+
+Réponse. - La mise en oeuvre des treize mesures proposées par le ministre délégué au tourisme lors de sa communication au conseil des ministres du 24 juillet dernier " pour une politique d'accès aux loisirs et aux vacances " se traduit en premier lieu par l'augmentation des crédits destinés au tourisme social dans le projet de loi de finances pour 1992. En effet, les crédits du titre affectés aux interventions publiques en faveur du tourisme associatif passeront de près de 4,5 millions de francs en 1991 à 13,5 millions en 1992 hors subvention exceptionnelle au Fonds de garantie des loyers ; ceux du titre IV destinés aux subventions d'investissement pour les hébergements à caractères associatif ou familial s'élèveront en 1992 à 43,5 millions de francs en autorisations de programme contre 33,3 millions en 1991. En ce qui concerne le projet de modification des structures exécutives de l'A.N.C.V., un accord a été trouvé entre le ministère de l'économie, des finances etdu budget et celui du tourisme afin d'alléger la structure et le fonctionnement de l'agence. Un projet de décret sera prochainement proposé à la signature de Mme le Premier ministre. L'arrêté fixant la répartition des premiers excédents de cet organisme est lui-même en préparation et permettra très prochainement de donner une forte impulsion aux actions menées pour la réinsertion ou l'insertion. Pour le programme expérimental et conventions pilotes et réinsertion par les vacances, des projets scientifiques seront élaborés dans le cadre des travaux de la commission interministérielle du tourisme social en liaison avec les partenaires du tourisme associatif et les collectivités locales.
