@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910716067
+
+- Question : [SEQ910716067](seq910716067.md) — Financement de l'opération de restructuration de l'artisanat et du commerce du pays ruffécois
+
+## Réponse
+
+*Artisanat et commerce, JO du 1991-12-05, page 2693*
+
+Réponse. - Les engagements pris par l'Etat dans le cadre de l'opération de restructuration de l'artisanat et du commerce du Ruffécois seront strictement respectés. Cette position n'a pas été modifiée lors de la conférence administrative régionale du 11 juin, à Poitiers. Une enveloppe de 400 000 francs a d'ores et déjà été subdéléguée au préfet ; le solde, soit 200 000 francs, devrait être disponible avant la fin de l'année. A titre exceptionnel, le ministère a accordé, au cours de l'année 1991, une dotation complémentaire de 200 000 francs, sur les crédits du fonds d'aménagement des structures artisanales (Fasa). Pour satisfaire les demandes les plus représentatives et les mieux structurées sur le plan économique, il est d'ores et déjà prévu d'abonder cette somme de crédits complémentaires en 1992. Les opérations de restructuration de l'artisanat et du commerce (O.R.A.C.), mises en oeuvre dans le cadre des contrats de plan Etat-Région, ont pour objectif de dynamiser les activités économiques d'un bassin d'emploi rural (comprenant un ou plusieurs cantons) en intervenant sur le tissu des petites entreprises commerciales et artisanales (étude préalable, animation, formation, conseil, promotion et réhabilitation des locaux). Seuls peuvent être retenus les projets créant une nette dynamique économique sur l'ensemble d'une zone. Les mesures d'accompagnement des communes, les actions nouvelles de formation et les initiatives prises collectivement par les associations de commerçants et d'artisans constituent donc des critères très importants dans l'appréciation de l'opportunité de mettre en place une O.R.A.C.
