@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991019413
+
+- Question : [SEQ991019413](seq991019413.md) — Projet de loi relatif à l'élection au Parlement européen
+
+## Réponse
+
+*Affaires européennes, JO du 1999-11-04, page 3621*
+
+Réponse. - L'honorable parlementaire a bien voulu appeler l'attention du ministre délégué chargé des affaires européennes sur la nécessité de réformer le mode de scrutin en application pour l'élection des députés européens. Comme le sait l'honorable parlementaire, le Gouvernement avait préparé un projet de loi visant à réformer ce mode de scrutin. Le Président de la République avait, lui aussi, exprimé le souhait d'une telle modification. Ce projet de loi a été adopté, lors du Conseil des ministres du 10 juin 1998. Ce texte proposait de rapprocher les députés des électeurs, en remplaçant le système actuel de la circonscription nationale unique par des circonscriptions territoriales de taille plus appropriée. L'examen en commission des lois, à l'Assemblée nationale, a révélé qu'une majorité ne pourrait pas se constituer pour soutenir ce projet de loi, du fait de l'opposition de plusieurs groupes. Prenant la mesure de cette situation, le Gouvernement a retiré son projet de loi, le 1er juillet 1998, tout en réaffirmant que cette réforme restait nécessaire pour instaurer un lien plus étroit entre les électeurs et les députés. Comme l'a indiqué l'honorable parlementaire, la forte abstention observée à l'occasion des élections européennes du 13 juin dernier vient illustrer avec force, entre autres choses, la faiblesse actuelle de ce lien et la nécessité de réformer le mode de scrutin de ces élections. Le Gouvernement y reste attaché et saisira toute nouvelle opportunité pour inscrire cette réforme à l'ordre du jour du Parlement et la faire adopter par une majorité claire.
