@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920421038
+
+- Question : [SEQ920421038](seq920421038.md) — Mise en place d'un casier viticole informatisé
+
+## Réponse
+
+*Budget, JO du 1992-08-27, page 1952*
+
+Réponse. - La constitution d'un casier viticole informatisé dans chaque pays de la Communauté dont la superficie totale du vignoble est supérieure à 500 hectares est imposée par le règlement (CEE) n° 2392/86 du conseil du 24 juillet 1986. La direction générale des impôts (DGI), chargée de la mise en place du système par décision interministérielle du 27 mai 1987, a proposé, dans le seul souci d'efficacité et de raccourcissement des délais d'exécution des travaux, une modification du circuit administratif des différentes déclarations et notamment des déclarations de récolte et de stocks déposées jusqu'alors en mairie. Ces orientations, définies en accord avec les autres organismes associés à la réalisation du casier (Institut national des appellations d'origine et Office national interprofessionnel de vins) ont été soumises à l'association des maires de France afin de recueillir son avis sur la modification du circuit actuel. Si ces propositions étaient retenues, les déclarations seraient adressées directement aux services spécialisés chargés de la viticulture sans transiter par les mairies. Pour la bonne information des élus locaux, la DGI éditerait par mairie une copie de chaque déclaration ou une liste des déclarations comportant l'identité des souscripteurs, la surface et la production déclarées. Cette édition réalisée au 15 janvier de l'année suvivant celle de la récolte permettrait le maintien de la publicité et de l'affichage. Bien entendu, rien ne s'opposerait à ce que les mairies continuent à conseiller les viticulteurs lors de la souscription des déclarations. Enfin, aucune décision n'étant encore intervenue dans cette affaire, les déclarations relatives à la prochaine campagne seront déposées dans les conditions habituelles.
