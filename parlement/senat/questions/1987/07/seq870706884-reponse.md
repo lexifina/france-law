@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870706884
+
+- Question : [SEQ870706884](seq870706884.md) — Effritement des berges de la Moselle
+
+## Réponse
+
+*Transports, JO du 1987-10-29, page 1727*
+
+Réponse. -En ce qui concerne les travaux de protection des berges, une distinction s'impose entre le régime général et les cas où le batillage est responsable des dégradations. L'entretien des berges,des rivières incombe aux propriétaires riverains en application de la loi du 16 septembre 1807. La loi du 10 juillet 1973 relative à la défense contre les eaux et son décret d'application du 8 octobre 1974 permettent aux départements, aux communes, à leurs groupements, ainsi qu'aux syndicats mixtes d'exécuter et de prendre en charge, dans les mêmes conditions que les associations syndicales, tous les travaux de protection contre les inondations lorsqu'ils présentent pour eux un caractère d'intérêt général. Les subventions qui pouvaient être accordées par le ministère chargé des transports pour les travaux de protection des berges ont été intégrées dans la dotation globale d'équipement des collectivités locales, en application de la loi n° 83-8 du 7 janvier 1983 relative à la répartition des compétences entre les communes, les départements, les régions et l'Etat. C'est donc aux collectivités qu'il appartient désormais de décider de l'affectation des crédits de la dotation globale d'équipement. En revanche, dans les cas où il est établi que le batillage constitue la cause majeure de la dégradation des berges, les travaux de remise en état sont financés par le budget des voies navigables. Cette distinction est applicable à la Moselle où un programme pluriannuel de protection des berges a été mis en place ; plus de 25 millions de francs ont déjà été affectés. Cet effort sera poursuivi dans le cadre des priorités d'entretien et de restauration du réseau navigable, en fonction des disponibilités budgétaires.
