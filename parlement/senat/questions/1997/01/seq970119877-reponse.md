@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970119877
+
+- Question : [SEQ970119877](seq970119877.md) — Conditions d'octroi de la croix du combattant volontaire 1939-1945
+
+## Réponse
+
+*Défense, JO du 1997-03-20, page 860*
+
+Réponse. - Les médailles commémoratives perpétuent le souvenir d'un conflit ou d'opérations de sécurité et de maintien de l'ordre. La barrette " engagé volontaire ", apposée sur la médaille commémorative française de la guerre 1939-1945, est destinée à distinguer les personnels qui, libérés de tout lien avec l'armée, ont néanmoins contracté un engagement ou rengagement à terme entre le 1er septembre 1939 et le 8 mai 1945. La croix du combattant volontaire avec barrette " guerre 1939-1945 " récompense, quant à elle, les personnes qui ont souscrit un engagement au titre d'un conflit alors qu'elles n'étaient astreintes à aucune obligation de service eu égard à leur âge ou à leur situation personnelle. Créée en 1920, à l'occasion du premier conflit mondial, cette décoration a, par la suite, été attribuée aux différentes générations de feu. C'est pourquoi, le législateur a subordonné son obtention au respect des deux conditions cumulatives suivantes : un volontariat matérialisé par un contrat souscrit par des personnes dans leur foyer ; une participation effective aux opérations militaires au sein d'une unité combattante. Il est à préciser que les dates officielles de déclenchement et de cessation des hostilités pour chaque conflit circonscrivent la période ouvrant droit à la médaille commémorative et à la croix du combattant volontaire. C'est pourquoi les personnes engagées avant le 1er septembre 1939 ne peuvent se voir attribuer ces deux décorations. Néanmoins, il convient de souligner que d'autres distinctions honorifiques telles que la médaille militaire ou la Légion d'honneur permettent de rendre régulièrement hommage à l'action accomplie par ces anciens combattants au cours du second conflit mondial.
