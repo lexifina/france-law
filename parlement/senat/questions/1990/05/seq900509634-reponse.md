@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900509634
+
+- Question : [SEQ900509634](seq900509634.md) — Politique française à l'égard des Khmers rouges
+
+## Réponse
+
+*Affaires étrangères, JO du 1991-03-14, page 528*
+
+Réponse. - L'année 1990 aura permis à la France, à l'Indonésie ainsi qu'aux membres permanents du Conseil de sécurité des Nations Unies d'élaborer patiemment au cours de plus de dix réunions internationales un projet d'accord politique global du conflit du Cambodge. L'objectif final de cet accord est l'autodétermination du peuple cambodgien par la voie d'élections libres et démocratiques. Les conditions de la réalisation de cet objectif sont connues : seuls une situation pleinement pacifiée ainsi qu'un climat politique neutre pourront effectivement permettre le développement d'un processus démocratique au Cambodge. Naturellement, la France, de même que l'ensemble de ses partenaires, a tenu compte, tout au long des négociations, de la nécessité de prendre toutes les mesures appropriées pour empêcher qu'une unique faction, en particulier les Khmers rouges, ne tente ou ne soit en mesure de prendre le pouvoir par les armes. Afin d'écarter cette menace, il a été décidé d'accorder à l'Organisation des Nations Unies un rôle majeur dans la période préélectorale. L'ensemble des dispositions prévues dans les textes du projet d'accord témoigne de ce souci unanime de la communauté internationale. Le mandat des Nations Unies, tel que décrit dans les documents approuvés par les Cambodgiens, a été conçu de manière à garantir que le peuple cambodgien puisse, en toute conscience et à l'abri de toute intimidation, décider librement de son avenir. La France, présidente de la Conférence de Paris sur le Cambodge et coauteur de l'accord cadre des cinq membres permanents, veillera attentivement, avec ses partenaires, au respect de la totalité des dispositions prévues dans les futurs textes d'accord.
