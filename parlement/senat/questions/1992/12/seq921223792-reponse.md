@@ -1,0 +1,9 @@
+# Réponse à la question SEQ921223792
+
+- Question : [SEQ921223792](seq921223792.md) — Pouvoir d'achat des retraités militaires
+
+## Réponse
+
+*Défense, JO du 1993-01-14, page 75*
+
+Réponse. - Aux termes de l'article L. 15 du code des pensions civiles et militaires de retraite, la détermination du montant de la pension s'effectue à partir des émoluments de base. Ceux-ci sont constitués par les derniers émoluments soumis à retenue afférents à l'indice correspondant à l'emploi, grade, classe et échelon effectivement détenus depuis six mois au moins par le fonctionnaire ou militaire au moment de la cessation des services valables pour la retraite. Le code susvisé exclut donc, en principe, la prise en compte des primes et indemnités dans la liquidation du montant de la pension. Les militaires, au même titre que tous les fonctionnaires, perçoivent : la solde de base ; l'indemnité de résidence, calculée en pourcentage du traitement soumis à retenue pour pension et à ce jour intégrée, pour sa plus grande partie, dans le calcul de la pension et le supplément familial de solde, lié aux charges de famille. Ils perçoivent par ailleurs l'indemnité pour charges militaires allouée pour tenir compte de sujétions propres à la fonction militaire et, le cas échéant, la prime de service et la prime de qualification. A titre spécifique, les militaires de la gendarmerie bénéficient de l'indemnité de sujétions spéciales de police qui fait l'objet, depuis 1984, d'une intégration progressive dans le calcul de la pension. Cette mesure à caractère exceptionnel se justifie par les contraintes permanentes spécifiques au service de la gendarmerie et par les risques particulièrement élevés auxquels sont exposés dans leur service quotidien les militaires concernés tout au long de leur carrière. Le caractère exceptionnel de cette disposition ne permet pas d'envisager son extension à d'autres primes.
