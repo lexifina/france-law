@@ -100,11 +100,17 @@ Ingénieur de l'école nationale de l'aviation civile.
 
 Ingénieur du génie sanitaire de l'école nationale de la santé publique de Rennes.
 
-Ingénieur de l'école spéciale militaire de Saint-Cyr (option sciences).
+Ingénieur de l'école spéciale militaire de Saint-Cyr (option Sciences).
 
 Ingénieur de l'école universitaire d'ingénieurs de l'université de Lille-I.
 
 Ingénieur de l'école nationale supérieure de mécanique et des microtechniques de Besançon.
+
+Ingénieur en génie biomédical et hospitalier (diplôme délivré à l'issue du cycle de spécialisation organisé conjointement par l'école nationale de la santé publique et l'université technologique de Compiègne);
+
+Ingénieur de l'école supérieure d'optique;
+
+Ingénieur de l'école nationale supérieure d'ingénieur de mécanique énergétique de Valenciennes.
 
 Ecole nationale supérieure des techniques industrielles et des mines d'Alès ;
 
