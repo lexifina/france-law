@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941008114
+
+- Question : [SEQ941008114](seq941008114.md) — Transfert au ministère de la justice des charges de propriétaire des bâtiments abritant les tribunaux
+
+## Réponse
+
+*Justice, JO du 1995-01-12, page 98*
+
+Réponse. - Le transfert des charges de justice des collectivités locales à l'Etat est intervenu au 1er janvier 1987 dans le cadre des lois de décentralisation. En application des articles 19 et suivants de la loi no 83-008 du 7 janvier 1983, les départements ont mis à la disposition de l'Etat les locaux occupés par les tribunaux de grande instance et de commerce, les communes procédant de même s'agissant des tribunaux d'instance. Ce dispositif ne concernait pas les cours d'appel et conseils de prud'hommes dont le fonctionnement et l'équipement étaient déjà à la charge de l'Etat à cette date. Comme le rappelle l'honorable parlementaire, l'article 20 de la loi précitée dispose que " la collectivité bénéficiaire assume l'ensemble des obligations du propriétaire (...), peut procéder à tous travaux de reconstruction, démolition ou d'addition de construction propre à assurer le maintien de l'affectation des biens ". L'article 21 dispose enfin que, en cas de désaffectation, la collectivité propriétaire retrouve l'ensemble de ses droits et obligations sur le patrimoine dont elle retrouve l'usage. Dès lors, si les travaux habituels entrepris par le propriétaire (ravalement, réfection de toiture...) sont dorénavant de la compétence de l'Etat, la collectivité locale conserve la faculté de prendre à sa charge tout ou partie desdits travaux, afin de s'assurer du parfait état des immeubles dont elle reste propriétaire en titre et dont elle retrouvera l'usage à terme, notamment lorsque l'Etat décide de reloger le tribunal dans d'autres locaux plus adaptés aux besoins actuels du service public de la justice.
