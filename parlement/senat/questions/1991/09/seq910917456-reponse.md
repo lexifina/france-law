@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910917456
+
+- Question : [SEQ910917456](seq910917456.md) — Evaluation du revenu des biens loués ou en usufruit effectuée pour l'attribution du FNS
+
+## Réponse
+
+*Agriculture, JO du 1992-01-30, page 251*
+
+Réponse. - L'allocation supplémentaire du fonds national de solidarité, qui est destinée à compléter les revenus des personnes âgées ou infirmes les plus modestes, est susceptible d'être attribuée à tout assuré titulaire d'une pension d'invalidité ou de retraite, quel que soit le régime ou le secteur professionnel dont il relève. L'interprétation et le suivi de la législation régissant cette allocation relève donc en premier lieu de la compétence du ministre des affaires sociales et de l'intégration. Il lui appartient d'apprécier, en liaison avec les autres départements ministériels concernés, l'opportunité des modifications qui pourraient être apportées aux règles en vigueur, notamment en ce qui concerne les modalités d'attribution de cette prestation. Cela étant, la complexité de la réglementation régissant l'allocation supplémentaire du fonds national de solidarité - rappelée par la Cour des comptes dans un rapport de 1988 - ne pourrait qu'être aggravée si l'on adoptait des modalités différenciées d'évaluation des revenus des allocataires, selon la nature et l'origine de ceux-ci. Il serait également inopportun de réviser à la baisse le mode de calcul du revenu censé être procuré par les biens immobiliers alors même que, dans son rapport, la Cour des comptes relevait que les règles actuellement appliquées conduisent déjà, d'une manière générale, à une sous-évaluation des ressources des postulants à cette prestation non contributive, qui requiert un effort de solidarité très important de la part de la collectivité nationale, de l'ordre de 19 milliards de francs en 1990.
