@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000726805
+
+- Question : [SEQ000726805](seq000726805.md) — Baisse du taux de TVA sur la collectivité et le traitement des déchets par les collectivités locales
+
+## Réponse
+
+*Économie, JO du 2000-12-28, page 4468*
+
+Réponse. - L'article 279 h du code général des impôts soumet au taux réduit de la TVA les prestations de collecte et de tri sélectifs des déchets ménagers et assimilés ainsi que les prestations de traitement de ces déchets portant sur des matériaux ayant fait l'objet d'un contrat conclu entre une collectivité locale et une entreprise ou un organisme agréé pour prendre en charge la valorisation des emballages ménagers. Le taux réduit bénéficie aux prestations de services, qu'elles relèvent ou non du code des marchés publics, rendues aux collectivités ayant conclu un tel contrat et s'applique, le cas échéant, à la redevance pour enlèvement des ordures ménagères lorsqu'elle est soumise à la TVA. Par ailleurs, peuvent également bénéficier de cette mesure les collectivités locales ayant recours pour l'exécution de tout ou partie du service public de collecte et de traitement des ordures ménagères, dont elles sont titulaires, à un établissement public de coopération intercommunale (EPCI) ayant conclu un tel contrat. Dans cette hypothèse, le taux réduit s'applique non seulement aux prestations rendues par les entreprises privées ou les collectivités locales prestataires de l'EPCI, mais également à celles des prestataires de la collectivité locale membre de l'EPCI. Ces précisions figurent dans l'instruction administrative du 12 mai 1999 publiée au BOI 3 C-3-99. Toutefois, compte tenu de la diversité des schémas juridiques susceptibles d'être rencontrés dans ce secteur d'activité, les collectivités locales sont invitées, en cas de doute sur la portée de ces dispositions ou de difficultés dans leur mise en uvre, à se rapprocher des services fiscaux locaux.
