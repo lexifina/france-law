@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011136272
+
+- Question : [SEQ011136272](seq011136272.md) — Diplômes et doubles cursus dans le domaine musical
+
+## Réponse
+
+*Culture, JO du 2002-03-14, page 787*
+
+Le sujet évoqué fait partie des sujets intégrés dans la réflexion engagée entre le ministère de l'éducation nationale et le ministère de la culture sur l'enseignement supérieur. Le rapprochement de ces deux ministères porte essentiellement sur la nécessité de créer des passerelles entre les diplômes délivrés par les établissements d'enseignement supérieur dépendants de ces deux ministères qui doit passer par une mise en cohérence et une harmonisation du niveau d'homologation des diplômes. Si aucun établissement supérieur du ministère de la culture n'a de diplôme habilité de niveau I, alors que plusieurs d'entre eux ont des cursus d'une durée de cinq ans, notamment les conservatoires nationaux supérieurs, les diplômés des établissements d'enseignement supérieur de musique, danse et d'art dramatique devraient avoir la possibilité de poursuivre un troisième cycle d'enseignement universitaire. Le principe de la validation des acquis selon la règle dite de " N-1 " doit être appliqué aux étudiants des établissements d'enseignement supérieur placés sous la tutelle du ministère de la culture qui souhaitent intégrer une université, même si la réciprocité est difficilement envisageable au regard des spécificités des contenus d'enseignement. Des conventions passées entre les établissements d'enseignement supérieur du ministère de la culture et de la communication et du ministère de l'éducation nationale fixeront les aménagements applicables aux programmes de formation pour permettre aux étudiants de suivre un double cursus. L'ensemble de ces mesures, conforté par une meilleure mise en réseau des établissements d'enseignement supérieur, est inclus dans le protocole d'accord qui vient d'être signé par les deux ministres.
