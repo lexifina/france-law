@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000222798
+
+- Question : [SEQ000222798](seq000222798.md) — Note relative aux langues étrangères admises aux épreuves des brevets de technicien supérieur de commerce international
+
+## Réponse
+
+*Éducation, JO du 2000-07-13, page 2499*
+
+Réponse. - Le décret nº 95-665 du 9 mai 1995 modifié fixant la nouvelle réglementation générale du brevet de technicien supérieur réaffirme que ce diplôme est un diplôme national de l'enseignement supérieur. A ce titre, la structure du diplôme est la même pour tous les candidats. Le programme et la définition des épreuves sont élaborés dans un souci de continuité avec les enseignements dispensés tout au long du cursus des étudiants. Le règlement d'examen des brevets de technicien supérieur prévoit, selon les spécialités, une ou deux langues vivantes obligatoires. La note de service nº 92-340 du 14 avril 1992 fixe le choix des langues autorisées pour les épreuves de ce diplôme. Il est, en outre, précisé que, quelle que soit leur origine, les candidats ne peuvent choisir une langue qui ne figurerait pas dans la liste des langues vivantes étrangères et régionales admises aux épreuves obligatoires. Il est indiqué enfin que, pour les brevets de technicien supérieur, les candidats ne doivent pas choisir leur langue maternelle et qu'aucune dérogation à ces dispositions ne peut être accordée. Les réflexions actuellement engagées sur les épreuves de langues vivantes étrangères dans les brevets de technicien supérieur ainsi que dans un certain nombre d'autres diplômes vont dans le sens d'une diminution et non d'un accroissement du nombre de langues autorisées. Il s'agit, d'une part, d'alléger l'organisation des examens et, d'autre part, d'être en cohérence avec la réalité économique, qui rend indispensable la connaissance et la pratique de l'anglais comme vecteur de communication internationale.
