@@ -28,17 +28,19 @@ d) La construction d'équipements culturels, sportifs ou de loisirs susceptibles
 
 10° Création de zone d'aménagement concerté en dehors du cas prévu au dernier alinéa de l'article L. 311-4 du code de l'urbanisme ;
 
-11° Lotissements permettant la construction de plus de 5 000 mètres carrés de surface hors oeuvre nette sur le territoire d'une commune non dotée, à la date du dépôt de la demande, d'un plan d'occupation des sols ou d'un document en tenant lieu ayant fait l'objet d'une enquête publique ;
+11° Lotissements permettant la construction de plus de 5 000 mètres carrés de surface hors oeuvre nette sur le territoire d'une commune non dotée, à la date du dépôt de la demande, d'un plan d'occupation des sols ou d'un document en tenant lieu ayant fait l'objet d'une enquête publique.
 
 12° Opérations autorisées par décret en application de l'article L. 130-2, alinéa 3, du code de l'urbanisme ;
 
-13° Défrichements d'un seul tenant soumis à autorisation et portant sur une superficie d'au moins 25 hectares ;
+13° Défrichements d'un seul tenant soumis à autorisation et portant sur une superficie d'au moins 25 hectares.
 
 14° Ouvrages destinés à l'épuration des eaux des collectivités locales permettant de traiter un flux de matières polluantes au moins équivalent à celui produit par 10 000 habitants, au sens du décret du 24 août 1961 modifié ;
 
 15° Carrières et déchets de carrières, haldes et terrils de mines soumis à autorisation après enquête publique en vertu de l'article 106 du code minier ;
 
 16° Piscicultures soumises à autorisation ou concession en vertu de l'article 432 du code rural et définies à l'article 10, premier alinéa, du décret n° 85-1400 du 27 décembre 1985 fixant les formes et les conditions des concessions et autorisations de pisciculture et les modalités de déclaration des plans d'eau existants mentionnés à l'article 433 du code rural ou à renouvellement de l'autorisation ou de la concession quand l'étude d'impact est exigée en vertu des articles 18 ou 28 du même décret ;
+
+17° Les laboratoires souterrains destinés à étudier l'aptitude des formations géologiques profondes au stockage des déchets radioactifs ;
 
 18° Travaux d'installation de remontées mécaniques dont le coût total est supérieur ou égal à 6 millions de francs ;
 
