@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941108465
+
+- Question : [SEQ941108465](seq941108465.md) — Système indemnitaire des commissions communales des impôts
+
+## Réponse
+
+*Économie, JO du 1995-12-21, page 2391*
+
+Réponse. - Le projet de loi de finances pour 1996, en cours d'examen devant le Parlement, propose de pérenniser la majoration de 0,4 point du prélèvement opéré au profit de l'Etat au titre des frais d'assiette et de recouvrement, qui était initialement prévue pour financer les travaux de la révision des évaluations cadastrales. Cela étant, les instances départementales instaurées par la loi no 90-669 du 30 juillet 1990 relative à la révision générale des évaluations cadastrales (comité de délimitation des secteurs d'évaluation, commission départementale des évaluations cadastrales, commission départementale des impôts directs locaux) présentent un caractère permanent et leurs membres, élus ou désignés pour une durée de trois ans, ont fait l'objet d'un renouvellement au début de l'année 1994. L'activité de ces instances est actuellement très réduite dès lors qu'elles ne peuvent être amenées à siéger que lorsque des décisions initiales ont été annulées par la juridiction administrative. De leur côté, les commissions communales des impôts directs continuent, chaque année, leur activité traditionnelle dans l'exécution des travaux de tournée générale de conservation cadastrale. En revanche, elles n'assument plus les tâches spécifiques qui leur ont incombé, en 1991 et 1992, dans le cadre des opérations de révision des évaluations cadastrales (en particulier, classement des propriétés bâties, rattachement des classes communales aux classes du secteur d'évaluation) et qui avaient conduit à mettre en place une indemnisation spécifique. Dans ce contexte, il n'est pas envisagé d'indemniser leurs membres.
