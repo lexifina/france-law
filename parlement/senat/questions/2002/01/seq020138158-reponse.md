@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020138158
+
+- Question : [SEQ020138158](seq020138158.md) — Déduction de l'impôt sur le revenu des frais de cures thermales restant à la charge des invalides de guerre
+
+## Réponse
+
+*Économie, JO du 2002-05-02, page 1254*
+
+Conformément aux dispositions de l'article 13 du code général des impôts, les dépenses engagées en vue de l'acquisition ou de la conservation du revenu sont admises en déduction du revenu imposable. Tel n'est pas le cas des frais de cures thermales qui constituent des dépenses d'ordre personnel. Cela étant, de nombreuses mesures fiscales prises en faveur des invalides de guerre témoignent de l'attention que les pouvoirs publics portent à leur situation. Ainsi, les victimes de guerre bénéficient d'une demi-part supplémentaire de quotient familial lorsqu'elles sont titulaires d'une pension militaire d'invalidité accordée au titre d'une invalidité d'au moins 40 %. En outre, en application du 5° du II de l'article 156 du code général des impôts, les versements effectués par les anciens combattants et victimes de guerre sont déductibles du revenu imposable lorsqu'ils sont destinés à la constitution d'une rente donnant lieu à une majoration de l'Etat. La retraite mutualiste perçue à l'issue de la période de cotisation est exonérée d'impôt sur le revenu à hauteur de la rente majorable par l'Etat en application du 12° de l'article 81 A du code déjà cité. De même, les pensions servies en vertu des dispositions du code des pensions militaires d'invalidité et des victimes de guerre ainsi que la retraite du combattant mentionnée aux articles L. 255 à L. 257 du même code sont également exonérées d'impôt sur le revenu en application du 4° de l'article 81 déjà cité. Enfin, ces revenus ne sont assujettis ni à la contribution sociale généralisée, ni à la contribution pour le remboursement de la dette sociale.
