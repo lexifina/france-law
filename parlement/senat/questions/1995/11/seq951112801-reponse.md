@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951112801
+
+- Question : [SEQ951112801](seq951112801.md) — Conditions de mise à disposition des conseillers municipaux minoritaires d'un local commun
+
+## Réponse
+
+*Fonction publique, JO du 1996-01-25, page 156*
+
+Réponse. - La loi d'orientation no 92-125 du 6 février 1992 relative à l'administration territoriale de la République a introduit dans le code des communes des dispositions destinées à faciliter l'exercice des mandats locaux. Afin d'étudier les dossiers communaux dont ils auront à débattre, les élus minoritaires ont-ils la possibilité de demander, en application de l'article L. 318-3 du code des communes, la mise à disposition d'un local administratif commun, dans les conditions précisées par l'article R. 318-1, issu du décret d'application no 92-1248 du 27 novembre 1992 ? Ces dispositions réglementaires ne fixent pas dans le détail les modalités d'aménagement et d'équipement du local. Elles ne sauraient être en effet imposées de façon générale, en raison de la grande disparité des moyens matériels et financiers des communes concernées par la mesure. En tout état de cause, il convient de rappeler que les dispositions législatives et réglementaires relatives aux droits des élus minoritaires dans les conseils municipaux ont pour objet de leur permettre d'exercer leur mandat électif dans de bonnes conditions, au même titre que pour les élus appartenant à la majorité municipale. En conséquence, dans le respect de l'esprit de la loi, les maires doivent éviter les discriminations entre membres de l'assemblée communale en ce qui concerne les facilités qui peuvent leur être accordées, et leur garantir une égalité de traitement, quelle que soit leur appartenance politique, dans les moyens mis à leur disposition (fournitures diverses, accès au téléphone, à une photocopieuse, etc.).
