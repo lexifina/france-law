@@ -1,0 +1,11 @@
+# Réponse à la question SEQ900710831
+
+- Question : [SEQ900710831](seq900710831.md) — Revendications des retraités de la gendarmerie
+
+## Réponse
+
+*Défense, JO du 1990-09-06, page 1950*
+
+Réponse. - Les problèmes des retraités militaires et des veuves de militaires sont suivis avec la plus grande attention par le ministre de la défense et leurs représentants sont associés aux réflexions les concernant dans le cadre du conseil supérieur de la fonction militaire ou du conseil permanent des retraités militaires. Les souhaits qu'ils expriment font l'objet d'études approfondies à l'occasion desquelles il convient toutefois de tenir compte des implications financières souvent très importantes des mesures susceptibles d'être prises, notamment pour celles qui devraient être appliquées à l'ensemble des militaires et des agents de la fonction publique. Le ministre de la défense n'en est pas moins très attaché à ce que la spécificité de la condition militaire et les contraintes particulières qui en résultent dans chaque armée entraînent la mise en oeuvre de dispositions adaptées lorsque cela apparaît justifié. Le récent plan de revalorisation de la condition mi litaire répond à cette exigence. Il veille également à ce que la situation des militaires actifs ou retraités ainsi que de leurs veuves, appréciée globalement, ne puisse se trouver décalée par rapport à celle des autres catégories sociales. Le statut général des militaires, ainsi que le code des pensions civiles de retraite, permettent notamment de poursuivre ce but. Ainsi, toute mesure de portée générale affectant la rémunération des fonctionnaires civils de l'Etat est, sous réserve des mesures d'adaptation nécessaires, appliquée avec effet simultané aux militaires et les retraités bénéficient régulièrement des mesures de revalorisation du pouvoir d'achat prises en leur faveur dans les conditions prévues par l'article L. 16 du code des pensions civiles et militaires de retraite. Les modalités de mise en oeuvre au profit des militaires de la récente réforme de la grille indiciaire de la fonction publique ont ainsi été étudiées au niveau interministériel et les premi
+
+ères d'entre elles entreront en application, avec effet rétroactif au 1er août 1990. Elles feront bien évidemment l'objet d'une transposition aux retraités.
