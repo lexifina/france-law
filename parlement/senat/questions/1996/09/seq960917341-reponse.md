@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960917341
+
+- Question : [SEQ960917341](seq960917341.md) — Problèmes du contentieux immobilier en Tunisie
+
+## Réponse
+
+*Affaires étrangères, JO du 1996-10-10, page 2627*
+
+Réponse. - Le règlement du contentieux immobilier est une des priorités de notre politique extérieure vis-à-vis de la Tunisie. Ce dossier fait l'objet d'une attention particulière de la part de notre représentation diplomatique à Tunis, laquelle est en relation étroite avec nos compatriotes, propriétaires de biens. La position française est ainsi constamment rappelée à tous les niveaux de négociation, que ce soit dans le cadre des comités techniques d'experts ou dans le cadre des commissions mixtes. Cette position consiste naturellement à défendre l'intérêt des propriétaires français en Tunisie, pour que ces derniers bénéficient d'une réelle réciprocité de traitement dans le cadre de la convention signée entre nos deux pays en 1963. Au cours des dernières négociations entreprises, les services compétents de ce ministère ont notamment soulevé le problème de l'application de la loi tunisienne du 27 juin 1983 aux propriétaires français. Cette disposition législative stipule en effet la nécessité d'une autorisation de vente du ministère de l'habitat, venant s'ajouter à l'autorisation du gouvernorat nécessaire depuis 1957. Cette procédure d'autorisation est très longue et ne s'applique pas aux propriétaires tunisiens. Il a donc été rappelé à nos interlocuteurs que l'application de cette loi aux propriétaires français était incompatible avec la convention franco-tunisienne de 1963, toujours en vigueur. Cette question, comme d'ailleurs l'ensemble du contentieux immobilier, sera un des thèmes de discussion abordés entre les deux chefs d'Etat lors de la visite du président Ben Ali en France, à moins que les travaux préparatoires ne conduisent à des avancées significatives.
