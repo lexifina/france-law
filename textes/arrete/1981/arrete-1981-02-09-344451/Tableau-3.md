@@ -68,7 +68,7 @@ II
 
 |
 
-Jury d'examen professionnel pour l'accès au corps des ingénieurs techniciens d'études et de fabrication
+Jury de concours pour l'accès au corps des ingénieurs d'études et de fabrications
 
 |
 
@@ -76,11 +76,11 @@ II
 
 |
 
-Jury de concours pour l'accès au corps des ingénieurs techniciens d'études et de fabrication
+Jury de concours ou d'examen pour l'accès au corps de techniciens supérieurs d'études et de fabrication
 
 |
 
-II
+III
 
 |
 
@@ -117,30 +117,6 @@ III
 |
 
 Jury de sortie de l'école technique normale
-
-|
-
-III
-
-|
-
-Jury de concours ou d'examen pour l'accès aux corps de techniciens d'études et de fabrication
-
-|
-
-III
-
-|
-
-Jury d'examen professionnel pour l'accès au grade de technicien chef de travaux principal
-
-|
-
-III
-
-|
-
-Jury d'examen professionnel pour l'accès au choix au corps des techniciens d'études et de fabrications
 
 |
 

@@ -180,7 +180,7 @@ III
 
 |
 
-Cycles de formation des ingénieurs techniciens d'études et de fabrications
+Cycles de formation des ingénieurs d'études et de fabrications
 
 |
 
@@ -290,7 +290,7 @@ lI
 
 |
 
-Cycles de formation des techniciens d'études et de fabrications
+Cycles de formation des techniciens supérieurs d'études et de fabrications
 
 |
 

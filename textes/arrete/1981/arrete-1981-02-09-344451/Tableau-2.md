@@ -44,14 +44,6 @@ II
 
 |
 
-Préparation au concours d'accès au corps des ingénieurs techniciens d'études et de fabrication
-
-|
-
-II
-
-|
-
 Cours préparatoire au concours d'ingénieurs des études et techniques d'armement
 
 |
@@ -132,15 +124,15 @@ III
 
 |
 
-Préparation aux concours d'accès aux corps de techniciens d'études et de fabrications
+Préparation aux concours d'accès aux corps des ingénieurs d'études et de fabrications
 
 |
 
-III
+II
 
 |
 
-Préparation aux examens professionnels de recrutement au choix dans les corps de techniciens d'études et de fabrications
+Préparation aux concours d'accès aux corps des techniciens supérieurs d'études et de fabrications
 
 |
 
