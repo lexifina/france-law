@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870104259
+
+- Question : [SEQ870104259](seq870104259.md) — Service d'assistance technique aux exploitants des stations d'épuration
+
+## Réponse
+
+*Équipement, JO du 1987-07-16, page 1125*
+
+Réponse. -Des services d'assistance technique pour l'exploitation des stations d'êpuration (S.A.T.E.S.E.) ont été mis en place dans la quasi-totalité des départements. Le rôle, les modalités de fonctionnement et de financement de ces services ont été précisés par la circulaire du ministre de l'environnement du 12 août 1981 qui reste d'actualité pour ce qui concerne les principes d'intervention des S.A.T.E.S.E. Leur mission essentielle est d'apporter une aide technique aux maîtres d'ouvrage et exploitants des stations d'épuration. Les S.A.T.E.S.E. ont notamment permis d'améliorer très sensiblement les rendements de ces ouvrages. La nature et la fréquence des interventions qui résultent de cette mission permettent par ailleurs de recueillir diverses données utiles aux administrations et organismes intervenant dans ce domaine et justifient à ce titre la participation financière de l'Etat (santé) et des agences de bassin au fonctionnement de ces services. Quelques perturbations ont été apportées récemment à ce système par la mise en place du transfert de compétences entre l'Etat et les départements dans le domaine de la santé publique. Le ministère de l'environnement est conscient de la nécessité de préserver cette mission d'assistance technique aux exploitants des stations d'épuration et de l'étendre à d'autres domaines tels que les réseaux et les installations d'assainissement autonome. Sur le plan financier, le S.A.T.E.S.E. continue de bénéficier de la participation des agences de bassin au titre de l'assistance technique dans la mesure où le programme d'activités du S.A.T.E.S.E. est clairement défini, dans le cadre, d'une convention entre les divers partenaires financiers (département, agence, Etat).
