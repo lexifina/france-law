@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980407815
+
+- Question : [SEQ980407815](seq980407815.md) — Francisation des prénoms
+
+## Réponse
+
+*Justice, JO du 1998-07-02, page 2161*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître aux honorables parlementaires qu'en l'état actuel des textes la francisation sur les documents d'état civil des prénoms des personnes nées en Alsace-Moselle pendant l'annexion de cette région par l'Allemagne et qui se sont vues doter, contre leur gré, de prénoms germanisés, ne peut résulter, conformément au droit commun, que la procédure judiciaire régie par l'article 60 du code civil relatif au changement de prénom. Une requête doit être déposée en ce sens auprès du juge aux affaires familiales, par ministère d'avocat. Bien que la procédure ne soit ni complexe ni longue, le garde des sceaux, n'est pas insensible aux préoccupations exprimées par les honorables parlementaires. Mais seul un texte de nature législative serait à même de répondre à celles-ci. Une telle orientation devrait faire l'objet d'une expertise d'autant plus approfondie, qu'elle conduirait à légiférer de manière sectorielle avec les inconvénients que peut présenter l'institution d'une procédure dérogatoire. Dans l'immédiat, il y a lieu de relever que le garde des sceaux, de concert avec le ministre de l'intérieur, a décidé de valider, non seulement dans les départements concernés, mais sur la France entière, la pratique des préfets consistant à retenir, pour les personnes considérées, dans les documents administratifs dont elles demandent la délivrance, un prénom français qui constitue la traduction dans notre langue, de leur prénom germanisé dès lors que les intéressés sont en mesure de produire d'autres documents officiels mentionnant ce prénom.
