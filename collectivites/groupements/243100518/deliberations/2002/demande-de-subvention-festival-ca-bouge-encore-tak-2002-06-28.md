@@ -1,0 +1,10 @@
+# Toulouse métropole : délibération — Demande de subvention Festival "Ca bouge encore" (Takticollectif)
+
+- Collectivité : Toulouse métropole
+- SIREN : 243100518
+- Date : 2002-06-28
+- Nature : Délibération
+- Séance : conseil
+- Objet : Demande de subvention Festival "Ca bouge encore" (Takticollectif)
+- Acte publié : http://deliberations.toulouse.fr/data/archive/doc313.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/5d2808999ce2e75655f50c0d
