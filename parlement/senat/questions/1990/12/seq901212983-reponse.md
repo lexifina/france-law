@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901212983
+
+- Question : [SEQ901212983](seq901212983.md) — Protection sociale des non-salariés agricoles réunionnais
+
+## Réponse
+
+*Agriculture, JO du 1991-03-14, page 532*
+
+Réponse. - L'augmentation des cotisations des agriculteurs de la Réunion telle qu'elle résulte du décret n° 90-1073 du 3 décembre 1990 relatif à la fixation des cotisations au régime de protection sociale des personnes non salariées des professions agricoles dans les départements d'outre-mer pour 1990 reste modérée ; pour ceux dont l'exploitation ne dépasse pas 12 hectares - ce qui est le cas de 90 p. 100 des exploitations à la Réunion - la hausse globale des cotisations varie de 3,16 p. 100 à 5,04 p. 100 pour un ménage et de 3,37 p. 100 à 5,02 p. 100 pour un exploitant ; l'augmentation des cotisations dans la branche assurance maladie est compensée par une baisse dans la branche prestations familiales ; en matière d'assurance vieillesse, les cotisations destinées au financement de la retraite proportionnelle ne subissent aucune modification, et les cotisations destinées au financement de la retraite forfaitaire restent inférieures de moitié à celles de la métropole. En définitive, la plupart des agriculteurs de la Réunion bénéficient en 1990 pour eux-mêmes et leur famille d'une couverture sociale en contrepartie de cotisations d'un montant très modéré : 3 238 francs pour un ménage travaillant sur une exploitation de 4 hectares, ce chiffre étant porté respectivement à 4 066 francs, 4 484 francs et 6 699 francs pour des exploitations de 6, 7 et 12 hectares. En tout état de cause, les agriculteurs dans l'impossibilité de régler leurs cotisations, sur lesquels l'honorable parlementaire appelle plus particulièrement l'attention, ne sont pas privés d'une protection sociale quand ils remplissent les conditions pour bénéficier du revenu minimum d'insertion.
