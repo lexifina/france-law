@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890504585
+
+- Question : [SEQ890504585](seq890504585.md) — Français établis en Côte-d'Ivoire : garanties de sécurité
+
+## Réponse
+
+*Coopération, JO du 1989-06-29, page 998*
+
+Réponse. - La situation des Français de Côte-d'Ivoire, confrontés depuis plusieurs mois à une recrudescence des agressions de toute nature, est suivie avec la plus grande attention par les autorités françaises. Notre ambassade et notre consul général à Abidjan sont déjà intervenus à plusieurs reprises auprès des responsables ivoiriens afin d'obtenir une meilleure protection de nos ressortissants. Lors des visites à Paris, en février et en décembre 1988, du ministre ivoirien des affaires étrangères, le secrétaire général de la présidence de la République et le ministre de la coopération et du développement ont signalé à M. Siméon Ake nos vives préoccupations dans ce domaine. Cette question a également été soulevée lors des dernières réunions des commissions mixtes de coopération. Conscientes de la dégradation de la sécurité dans l'ensemble du pays, les autorités locales ont pris des mesures tendant à accroître l'efficacité des moyens dont elles disposent. Elles ont en particulier réaménagé leurs dispositifs de surveillance et accru le nombre de patrouilles diurne dans la capitale. Par ailleurs, nos représentations consulaires sur place s'attachent à apporter aux victimes et à leurs familles des solutions satisfaisantes aux difficultés qu'elles rencontrent. Elles sont notamment en mesure de leur accorder, sous certaines conditions de ressources, des secours occasionnels sur les crédits mis à la disposition des comités consulaires pour la protection et l'action sociale et de faciliter en cas de besoin leur retour en France. Les efforts entrepris pour obtenir des autorités locales un renforcement de la protection de la communauté française en Côte-d'Ivoire seront bien évidemment poursuivis.
