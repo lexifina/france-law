@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990315049
+
+- Question : [SEQ990315049](seq990315049.md) — Ouvriers d'imprimeries : déduction fiscale supplémentaire pour frais professionnels
+
+## Réponse
+
+*Économie, JO du 1999-06-10, page 1953*
+
+Réponse. - Conformément à la jurisprudence du Conseil d'Etat, le bénéfice des déductions forfaitaires supplémentaires pour frais professionnels, prévues par le troisième alinéa du 3º de l'article 83 du code général des impôts, est strictement réservé aux salariés qui exercent effectivement l'une des activités limitativement énumérées à l'article 5 de l'annexe IV au même code. Par une décision du 5 novembre 1993, à laquelle se conforme l'administration fiscale, la Haute Assemblée a ainsi jugé que la déduction supplémentaire de 5 % prévue pour le personnel des imprimeries de journaux travaillant la nuit est instituée en faveur des seuls ouvriers, et qu'elle n'est pas applicable aux cadres, qui exercent une profession distincte de celle des ouvriers (arrêt du 5 novembre 1993, nº 132305, SA Le Courrier de l'Ouest). Il n'est donc pas possible, alors que de surcroît l'article 10 de la loi de finances pour 1998 supprime progressivement l'ensemble de ces déductions à compter de l'imposition des revenus de l'année 1998, d'accorder aux cadres d'imprimeries de journaux travaillant la nuit le bénéfice d'une déduction supplémentaire pour frais professionnels à laquelle ils ne peuvent légalement prétendre. Cela étant, si le montant de leurs frais professionnels excède la déduction forfaitaire de droit commun de 10 %, les intéressés peuvent opter pour la déduction de ces frais pour leur montant réel et justifié. A cet égard, une instruction administrative du 30 décembre 1998, publiée le 7 janvier 1999 au Bulletin officiel des impôts sous la référence 5 F-1-99, a procédé à une simplification et à une clarification d'ensemble du régime des frais professionnels réels.
