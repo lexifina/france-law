@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890906359
+
+- Question : [SEQ890906359](seq890906359.md) — Révision de l'article L 65 du code électoral concernant les opérations de dépouillement
+
+## Réponse
+
+*Intérieur, JO du 1989-11-09, page 1844*
+
+Réponse. - Il est de fait que, lors de l'élection des représentants au Parlement européen, la conjonction de l'article 9 de l'Acte international du 20 septembre 1976, qui dispose que les opérations de dépouillement ne peuvent commencer qu'après la clôture du scrutin dans l'Etat où les électeurs votent les derniers (soit 22 heures, heure de fermeture des bureaux de vote en Italie), et de l'article L. 65 du code électoral, aux termes duquel les opérations de dépouillement doivent commencer immédiatement après la clôture du scrutin, explique l'obligation de fermeture de tous les bureaux de vote en France à 22 heures. Ainsi qu'il l'a déjà été indiqué dans diverses réponses à des questions écrites, le Gouvernement s'efforce d'obtenir de nos partenaires un accord pour que l'Acte du 20 septembre 1976 soit interprété, sur ce point précis, de manière plus souple. En revanche, il n'est pas envisagé de modifier l'article L. 65 du code électoral, l'absence de délai entre la clôture du scrutin et le début des opérations de dépouillement étant essentielle pour éviter toute possiblité de manipulation intempestive des urnes pendant le laps de temps séparant les deux opérations. Au demeurant, il convient de signaler que, si le dépouillement n'était pas organisé immédiatement après la clôture du scrutin, il serait nécessaire de prévoir un dispositif particulier pour assurer la surveillance des urnes. Cette surveillance ne pourrait incomber qu'au bureau de vote lui-même, dont la composition garantit l'impartialité. Ainsi, la modification proposée de l'article L. 65 ne diminuerait en rien les sujétions imposées aux membres des bureaux de vote à l'occasion des élections européennes.
