@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920219945
+
+- Question : [SEQ920219945](seq920219945.md) — Responsabilité de l'Etat à l'égard des maires
+
+## Réponse
+
+*Intérieur, JO du 1992-05-07, page 1088*
+
+Réponse. - Les articles L. 121-25 et L. 122-17 du code des communes disposent que les communes sont responsables des dommages subis par leur édiles (maires, adjoints, présidents de délégation spéciale, conseillers municipaux, délégués spéciaux) lorsqu'ils sont victimes d'accidents survenus dans l'exercice de leurs fonctions et, en particulier, pour les conseillers municipaux et les délégués spéciaux, à l'occasion de séances de conseils municipaux ou de réunions de commissions dont ils sont membres ou au cours de l'exécution d'un mandat spécial. Lorsqu'un élu, désigné par une association de maires, participe à une commission à la demande du préfet, il agit dans le cadre de ses fonctions, souvent en vertu d'un mandat spécial. S'il est victime d'un accident à cette occasion, la responsabilité de la commune est engagée en application des articles L. 121-25 ou L. 122-17 du code précité. En cas de litige, il appartient au juge administratif de dire si la victime se trouvait ou non dans l'exercice de ses fonctions, en particulier de vérifier si l'élu était bien bénéficiaire d'un mandat spécial lui permettant d'accomplir une mission au profit de la collectivité. Il convient de rappeler que ce régime de responsabilité ne s'applique pas dans les deux cas suivants : lorsque l'élu agit au nom de l'Etat, c'est ce dernier qui est responsable (Conseil d'Etat du 10 décembre 1947, commune de Saint-Gilles-Lebon, p. 468 ; lorsque l'édile est membre d'un syndicat de communes, à l'occasion d'une réunion où il représente sa commune, seule la responsabilité du syndicat peut être engagée (article L. 163-9 du code des communes et arrêt du Conseil d'Etat du 22 mars 1968, commune de Faux-Mazuras-Lebon, p. 200).
