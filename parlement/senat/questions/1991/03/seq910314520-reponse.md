@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910314520
+
+- Question : [SEQ910314520](seq910314520.md) — Application de la mesure tendant au développement des patrouilles à deux et à l'expérimentation des véhicules adaptés
+
+## Réponse
+
+*Intérieur, JO du 1991-09-19, page 2034*
+
+Réponse. - Dans le cadre des mesures annoncées le 16 octobre et destinées à mieux lutter contre la petite et moyenne délinquance, le développement des patrouilles à deux fonctionnaires constitue un moyen privilégié de sécurisation en multipliant la présence policière sur la voie publique. Ce système exige cependant un effort accru de formation aux techniques d'intervention à deux, ainsi que la poursuite de l'amélioration quantitative et qualitative du parc roulant et des transmissions des services de police entreprise depuis 1985. Une telle pratique, modulée en fonction de spécificités locales, est appelée à s'étendre progressivement, les garanties de sécurité et d'efficacité étant d'autant mieux remplies qu'un dispositif coordonné de plusieurs patrouilles simultanées permet une couverture du terrain optimale et une assistance mutuelle immédiate. Par ailleurs, dans le but d'accroître la sécurité des personnels, des véhicules de patrouilles spécialement aménagés pour le transport des personnes interpellées ont été mis en service à Paris, Bobigny, Toulouse et Marseille, à titre expérimental. De plus, le programme d'installation de terminaux embarqués à bord des véhicules se poursuit et après Rouen et Bobigny il sera prochainement étendu à Strasbourg, Nantes et Marseille. L'efficacité des services devrait s'en trouver améliorée car il permet notamment d'accéder instantanément aux fichiers des personnes recherchées et des véhicules volés. Au vu des résultats obtenus ces deux expérimentations donneront lieu ensuite à un véritable plan d'équipement des services.
