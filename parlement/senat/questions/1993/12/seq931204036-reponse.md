@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931204036
+
+- Question : [SEQ931204036](seq931204036.md) — Exercice de la pêche sur les plans d'eau appartenant à des collectivités locales
+
+## Réponse
+
+*Environnement, JO du 1994-02-24, page 443*
+
+Réponse. - Il résulte de l'article 41 de la loi no 92-3 du 3 janvier 1992 sur l'eau que la pêche à la ligne peut être pratiquée dans les plans d'eau des piscicultures créées à des fins de valorisation touristique. Une pisciculture est une exploitation d'élevage de poissons, équipée de dispositifs permanents empêchant la libre circulation du poisson entre cette exploitation et les eaux avec lesquelles elle communique. Les plans d'eau qui ne communiquent pas avec le réseau hydrographique, couramment appelés " eaux closes ", n'entrent pas dans le champ d'application de ces dispositions : la pêche peut y être pratiquée librement. Lorsque des collectivités locales exploitent des plans d'eau répondant à la définition de la pisciculture, elles peuvent continuer à délivrer des cartes de pêche à la journée. Dans les piscicultures d'une superficie supérieure à un hectare, les pêcheurs doivent acquitter la taxe piscicole annuelle centralisée par le Conseil supérieur de la pêche, établissement public de l'Etat, chargé de la protection du milieu naturel aquatique et de la gestion des ressources piscicoles. Le taux de cette taxe est fixé à 51 francs en 1994. La personne physique propriétaire du plan d'eau, les enfants de moins de seize ans, les conjoints des personnes ayant acquitté la taxe, les grands invalides de guerre ou du travail et les appelés du contingent en sont exonérés. De même, les personnes qui ont déjà acquitté la taxe pour pêcher dans un autre plan d'eau ou dans une rivière n'ont pas à la payer une nouvelle fois, sauf dans le cas où le mode de pêche pratiqué nécessite le paiement d'un taux plus élevé.
