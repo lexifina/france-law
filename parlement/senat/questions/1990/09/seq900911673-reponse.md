@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900911673
+
+- Question : [SEQ900911673](seq900911673.md) — Collèges publics accueillant des classes de seconde
+
+## Réponse
+
+*Éducation, JO du 1991-02-07, page 252*
+
+Réponse. - Quinze collèges publics accueillent des classes de seconde dans leurs locaux pour la présente année scolaire et se répartissent entre les départements suivants : Bas-Rhin, Essonne, Gironde, Haute-Garonne, Isère, Loire-Atlantique, Loiret, Pyrénées-Atlantiques, Rhône, Somme, Val-de-Marne, Val-d'Oise (2 collèges) Yvelines (2 collèges). Si cette modalité d'accueil peut permettre de faire face à des situations d'urgence, dont l'appréciation relève des autorités académiques en liaison avec les élus régionaux et départementaux, elle doit cependant n'être qu'exceptionnelle et provisoire. En application de la loi n° 75-620 du 11 juillet 1975, les classes de seconde ne peuvent être organisées que dans un établissement ayant le statut de lycée. Même installées dans les locaux d'un collège, elles restent partie intégrante du lycée auquel elles sont rattachées au plan juridique, administratif et pédagogique : elles en constituent un antenne provisoire dans l'attente de la construction de locaux neufs - extension ou construction nouvelle selon le cas - qui permettra leur regroupement géographique avec les autres classes du lycée. L'installation d'une antenne de lycée dans les locaux d'un collège implique, par ailleurs, compte tenu des compétences respectives transférées aux départements et régions par la lois de décentralisation, que les collectivités concernées précisent les conditions de sa mise en place dans le cadre d'une convention d'occupation d'immeuble voire d'une convention d'utilisation de biens meubles (cf. circulaire du 9 mai 1989 publiée au B.O. n° 29 du 20 juillet 1989 concernant la désaffectation et les changements d'utilisation sans désaffectation préalable des biens des collèges et des lycées, paragraphe II B).
