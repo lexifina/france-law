@@ -6,7 +6,7 @@ Peut être maintenu, s'il y a nécessité absolue, par décision écrite motivé
 
 2° Soit, faisant l'objet d'un arrêté d'expulsion, ne peut quitter immédiatement le territoire français ;
 
-3° Soit, ayant été condamné à être reconduit à la frontière en application de l'article 19, ne peut quitter immédiatement le territoire français.
+3° Soit, devant être reconduit à la frontière, ne peut quitter immédiatement le territoire français.
 
 Pour l'application du 1° du présent article, le préfet peut déléguer sa signature à un fonctionnaire ayant la qualité d'officier de police judiciaire.
 
@@ -22,9 +22,9 @@ Assignation à un lieu de résidence ;
 
 A titre exceptionnel, prolongation du maintien dans les locaux visés au premier alinéa.
 
-En tout état de cause, l'application de ces mesures prend fin à l'expiration d'un délai de six jours à compter de l'ordonnance mentionnée ci-dessus.
+L'application de ces mesures prend fin au plus tard à l'expiration d'un délai de six jours à compter de l'ordonnance mentionnée ci-dessus.
 
-Cette ordonnance est susceptible d'appel devant le premier président de la cour d'appel, ou son délégué, qui est saisi sans forme et doit statuer dans les quarante-huit heures de sa saisine ; ce recours n'est pas suspensif.
+Les ordonnances mentionnées au huitième et au douzième alinéas sont susceptibles d'appel devant le premier président de la cour d'appel, ou son délégué, qui est saisi sans forme et doit statuer, le délai courant à compter de sa saisine, dans les quarante-huit heures dans le cas prévu aux huitième à onzième alinéas et dans les vingt-quatre heures dans le cas prévu au douzième alinéa ; outre à l'intéressé et au ministère public, le droit d'appel appartient au représentant de l'Etat dans le département ; ce recours n'est pas suspensif.
 
 Il est tenu, dans tous les locaux recevant des personnes maintenues au titre du présent article, un registre mentionnant l'état civil de ces personnes ainsi que les conditions de leur maintien.
 
