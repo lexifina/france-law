@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980307234
+
+- Question : [SEQ980307234](seq980307234.md) — Interventions d'entreprises privées dans des actions humanitaires d'urgence
+
+## Réponse
+
+*Coopération, JO du 1998-05-14, page 1547*
+
+Réponse. - La coordination entre les entreprises publiques ou privées et l'administration dans les actions humanitaires d'urgence a donné lieu à un certain nombre d'interventions notamment en matière d'électrification rurale dans les pays en développement. Ce partenariat a été particulièrement illustré par les actions menées au Congo-Brazzaville, où, avant même que la phase humanitaire d'urgence ne se termine, le Gouvernement a tenu à associer les entreprises françaises aux efforts de réhabilitation/reconstruction et à la restauration de la paix, notamment dans les secteurs de l'eau et du téléphone, avec la coopération en particulier d'Alcatel, de la Lyonnaise des eaux et d'EDF. Si aucun accord nouveau n'a été à ce jour formalisé, plusieurs entreprises ont en revanche manifesté leur intérêt pour participer aux opérations humanitaires menées par les ministères concernés. Ainsi le Crédit mutuel pourrait effectuer des prêts aux micro-entreprises dans la phase de post-urgence. Il pourrait de même gérer le transfert de l'épargne des immigrés, l'accompagner de prêts au retour et contribuer aux investissements productifs dans les pays d'origine. DHL serait prêt à transporter sur ses avions des produits humanitaires d'urgence, dans la limite de ses disponibilités, tandis que Bull pourrait contribuer par ses matériels recyclés à la création d'entreprises d'insertion et contribuer à la gestion de pharmacies communautaires. Pour le moment, les négociations avec les entreprises publiques ou privées se poursuivent et des réunions de concertation ont lieu avec ces dernières. Des points d'application sont en cours d'examen en vue de l'extension à d'autres domaines de type d'accord conclu avec EDF le 24 janvier 1997.
