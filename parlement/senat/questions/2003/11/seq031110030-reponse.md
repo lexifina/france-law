@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031110030
+
+- Question : [SEQ031110030](seq031110030.md) — Indemnisation des victimes d'affaissements miniers à Roncourt (Moselle)
+
+## Réponse
+
+*Justice, JO du 2004-01-08, page 80*
+
+Le garde des sceaux, ministre de la justice, rappelle à l'honorable parlementaire qu'il est conscient de la situation difficile dans laquelle se trouvent de nombreuses familles victimes d'affaissements miniers dans la région de Roncourt, en Moselle. Si le déroulement des procédures en indemnisation peut leur apparaître trop lent, il rappelle que les expertises ordonnées sont nécessitées par la complexité et la technicité des questions soulevées. La mise en jeu des responsabilités, eu égard au coût financier extrêmement élevé qui en résultera, exige en effet, de la part des experts, une analyse rigoureuse de la cause des effondrements constatés, afin que les décisions à intervenir ne puissent pas être remises en cause au détriment des victimes. C'est la raison pour laquelle les experts recueillent tous les éléments techniques incontestables susceptibles d'étayer solidement leurs conclusions. La particulière vigilance des autorités judiciaires locales au regard du suivi et du contrôle des expertises devrait néanmoins permettre d'aboutir, rapidement désormais, au jugement de ces affaires. Conscient des difficultés de toute nature que causent de tels accidents, le législateur a, dans la loi n° 2003-699 du 30 juillet 2003 relative à la prévention des risques technologiques et naturels et à la réparation des dommages, étendu le champ d'application du fonds de garantie contre les accidents de circulation et de chasse aux dommages immobiliers d'origine minière. L'indemnisation sera ainsi ouverte à l'égard des personnes propriétaires d'un immeuble occupé à titre d'habitation principale ayant subi des dommages à compter du 1er septembre 1998, à la suite d'un sinistre minier constaté par arrêté préfectoral.
