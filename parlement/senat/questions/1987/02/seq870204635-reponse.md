@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870204635
+
+- Question : [SEQ870204635](seq870204635.md) — Instruction de tous les appelés pour la lutte contre l'incendie
+
+## Réponse
+
+*Défense, JO du 1987-03-12, page 369*
+
+Réponse. -Le ministre de la défense confirme à l'honorable parlementaire que de nombreux appelés reçoivent une formation de sapeurs-pompiers au cours de leur service militaire. Il s'agit notamment des jeunes gens qui servent : 1° à la brigade de sapeurs-pompiers de Paris ; 2° au bataillon des marins-pompiers de Marseille ; 3° à l'unité d'intervention de la sécurité civile n° 1 de Nogent-le-Rotrou ; 4° à l'unité d'intervention de la sécurité civile n° 7 de Brignoles et à son escadron de Corte. De plus, comme il a été proposé au conseil des ministres du 16 juillet 1986, une nouvelle unité d'intervention de la sécurité civile va être créée. Elle aura, comme toutes les autres formations, un effectif de 616 hommes et sera composée en majeure partie d'appelés du contingent effectuant leur service national. Par ailleurs, il convient de noter que tous les appelés sont sensibilisés à la prévention et la lutte contre les incendies lors de leur passage sous les drapeaux. Certains reçoivent en outre une instruction particulière au sein de leur formation d'affectation ; cette instruction leur est dispensée sans qu'il soit exigé un profil ou des qualifications particulières des intéressés. Dans toute la mesure du possible, il est fait appel au volontariat. Ainsi, de nombreux jeunes gens ayant reçu une formation adaptée se trouvent donc en mesure de répondre aux sollicitations éventuelles des corps de sapeurs-pompiers dès leur retour à la vie civile. C'est pourquoi il n'est pas envisagé de modifier la réglementation actuellement en vigueur sans risquer de compromettre la finalité première du service militaire qui est la formation militaire.
