@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940807481
+
+- Question : [SEQ940807481](seq940807481.md) — Précautions médicales à l'occasion de l'incarcération d'un septuagénaire
+
+## Réponse
+
+*Justice, JO du 1995-01-12, page 97*
+
+Réponse. - Le ministre d'Etat, garde des sceaux, ministre de la justice, porte à la connaissance de l'honorable parlementaire que les juges d'instruction, magistrats du siège indépendants, disposent, pour procéder aux informations dont ils ont la charge, du pouvoir de mettre en examen toutes personnes contre lesquelles existent des indices graves et concordants. Ils procèdent, conformément à la loi, à tous les actes d'information nécessaires à la manifestation de la vérité (article 81 du code de procédure pénale) et peuvent décider le placement en détention provisoire, sous le contrôle de la chambre d'accusation. Lorsque l'incarcération est décidée, une notice individuelle est remplie par le magistrat instructeur en vue d'informer l'administration pénitentiaire des problèmes spécifiques que la personne mise en examen pourrait présenter ; des rubriques à caractère médical sont notamment incluses dans cette notice. Compte tenu de ces indications et des observations auxquelles elle procède ou fait procéder, l'administration pénitentiaire prend les mesures appropriées à la situation de l'intéressé. Le cas particulier évoqué par l'honorable parlementaire a fait l'objet d'un examen spécifique. Pour tenir compte de l'état de santé et de l'âge de la personne mise en cause, l'administration pénitentiaire a décidé, en accord avec le magistrat instructeur, que la détention se déroulerait, non à la maison d'arrêt normalement habilitée, mais dans un autre établissement disposant d'une structure médicalisée. Cette affectation permet une surveillance médicale quotidienne adaptée, sous la responsabilité du médecin de la maison d'arrêt.
