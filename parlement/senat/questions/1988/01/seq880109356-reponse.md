@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880109356
+
+- Question : [SEQ880109356](seq880109356.md) — Modification des programmes des classes de première et terminale
+
+## Réponse
+
+*Éducation, JO du 1988-03-10, page 340*
+
+Réponse. -Les nouveaux programmes des classes de première et des classes terminales des lycées se situent dans le prolongement de ceux de la classe de seconde qui sont entrés en vigueur depuis la dernière rentrée scolaire. Ils n'impliquent pas de changement dans les horaires d'enseignement. De manière générale, les nouveaux programmes d'histoire-géographie feront une large place à l'étude de l'Europe, tant d'un point de vue politique et institutionnel que culturel. Les nouveaux programmes de géographie des classes de première qui doivent entrer en vigueur à compter de la rentrée 1988 prévoient, outre l'étude d'un ou plusieurs pays de la Communauté économique européenne, de procéder à l'examen des institutions européennes et de l'évolution de la Communauté sous un triple aspect économique, social et politique. Les programmes d'histoire des classes de première et de terminale qui entrent respectivement en vigueur aux rentrées 1988 et 1989 aborderont également, autravers de l'étude du monde contemporain, les phénomènes politiques et de société, et notamment culturels, relatifs à l'histoire récente de l'Europe. Pour ce qui est de l'enseignement des langues vivantes, il fera lui aussi l'objet de nouveaux programmes tant dans les séries d'enseignement général que pour les séries technologiques. L'organisation des enseignements reste cependant inchangée. Les élèves des séries F, G et H doivent actuellement étudier obligatoirement une langue vivante et dans certaines séries ont la possibilité de prendre une seconde langue en option facultative. A l'examen du baccalauréat, la première langue fait l'objet d'une épreuve orale obligatoire tandis que la seconde langue peut être choisie par les candidats en tant qu'épreuve facultative.
