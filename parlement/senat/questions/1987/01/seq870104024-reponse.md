@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870104024
+
+- Question : [SEQ870104024](seq870104024.md) — Suppression de la taxe parafiscale horlogère
+
+## Réponse
+
+*Budget, JO du 1987-03-12, page 368*
+
+Réponse. - La taxe parafiscale perçue au profit du comité professionnel de développement de l'horlogerie (C.P.D.H.) et du centre technique de l'horlogerie (C.E.T.E.H.O.R.) a été prorogée pour cinq ans par le décret n° 86-163 du 4 février 1986. Cette taxe est due par tous les assujettis à la T.V.A. à raison des opérations de vente, de livraison et d'échange de produits horlogers. Les débiteurs sont soumis aux mêmes obligations administratives et comptables que les redevables de la T.V.A. et doivent, lors de leur déclaration, mentionner sur une ligne spécifique le montant de leur chiffre d'affaires réalisé sur les produits taxables. Les organismes bénéficiaires remboursent directement les sommes perçues sur les articles importés de la C.E.E. Le produit de la taxe est principalement utilisé pour financer les recherches menées par le centre technique de l'horlogerie, ainsi que les études économiques et les actions de promotion commerciale initiées par le comité professionnel de développement de l'horlogerie. Le décret de février 1986 a diminué le taux plafond de cette taxe de 0,95 p. 100 de la valeur de vente à 0,80 p. 100, dont 0,55 p. 100 affecté au comité professionnel de développement de l'horlogerie et 0,25 p. 100 alloué au centre technique de l'horlogerie. Conformément à la politique de baisse des charges pesant sur les entreprises, l'arrêté du 24 décembre 1986 a fixé les taux applicables en 1987 à 0,75 p. 100, dont 0,50 p. 100 pour le comité professionnel de développement de l'horlogerie et 0,25 p. 100 pour le centre technique de l'horlogerie, et à 0,70 p. 100 en 1988, réparti à hauteur de 0,45 p. 100 en faveur du comité professionnel de développement de l'horlogerie et 0,25 p. 100 au bénéfice du centre technique de l'horlogerie.
