@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900610327
+
+- Question : [SEQ900610327](seq900610327.md) — Réseau autoroutier français
+
+## Réponse
+
+*Équipement, JO du 1990-07-05, page 1483*
+
+Réponse. - En ce qui concerne les ratios entre la longueur du réseau autoroutier et l'importance des besoins à satisfaire appréciée par le parc de véhicules, le trafic et la superficie du territoire, le ministre de l'équipement, du logement, des transports et de la mer peut apporter les informations suivantes pour la France, l'Allemagne, l'Italie, le Benelux et la Suisse : nota voir tableau p.1484 Ces ratios ont été calculés sur la base des statistiques de la fédération routière internationale, qui permettent les comparaisons voulues à l'échelle internationale pour l'année 1988 (1987 pour l'Italie). En ce qui concerne le kilométrage d'autoroutes mis en chantier et en service depuis 1981, le ministre peut fournir les éléments ci-dessous : nota voir tableau p.1484 Le kilométrage d'autoroutes mis en chantier par les sociétés concessionnaires d'autoroutes est déterminé chaque année par le conseil de direction du fonds de développement économique et social. Il n'est pas possible d'apporter une réponse quant à la programmation des mises en chantier pour la période 1990-1995. S'agissant de la programmation des mises en service, elle n'est connue que pour les sections mises en chantier avant 1990 ; au 31 décembre 1989, pour les autoroutes concédées, les prévisions de mises en service des liaisons en cours de construction étaient les suivantes : nota voir tableau p.1484 ; S'agissant de la programmation des mises en service, elle n'est connue que pour les sections mises en chantier avant 1990 ; au 31 décembre 1989, pour les autoroutes concédées, les prévisions de mises en service des liaisons en cours de construction étaient les suivantes : nota voir tableau p.1484
