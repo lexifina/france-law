@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020238829
+
+- Question : [SEQ020238829](seq020238829.md) — Situation des agents d'EDF-GDF anciens combattants d'AFN
+
+## Réponse
+
+*Anciens combattants, JO du 2002-05-02, page 1245*
+
+Le droit aux bonifications de campagne est ouvert, pour tous les conflits, par les articles L. 12 et suivants et R. 14 et suivants du code des pensions civiles et militaires de retraite. L'application de ces dispositions aux fonctionnaires ou assimilés ayant servi en Afrique du Nord (AFN) pose des problèmes particuliers. Un groupe de travail a donc été réuni comprenant des associations d'anciens combattants. Il a exploré la possibilité que, à l'intérieur du temps de présence global en AFN donnant droit au bénéfice de campagne simple, le bénéfice de la campagne double soit réservé aux seules périodes passées dans les zones opérationnelles. Il a donc été demandé au Service historique de l'armée de terre (SHAT) de mener une étude afin de voir si la notion de " zone opérationnelle " dégagée par le groupe de travail, définie à la fois dans l'espace et dans le temps en fonction d'un niveau d'intensité des combats à déterminer, apparaît réalisable par l'étude des archives des unités ou de tous autres services. Le SHAT a précisé qu'une telle étude n'était pas possible car elle aurait exigé de ses services un examen des zones et des périodes à retenir impliquant un travail aussi conséquent que l'établissement de listes d'unités combattantes, une telle approche a donc dû être abandonnée. Deux autres réunions se sont tenues, mais elles n'ont pas permis de dégager des propositions acceptables. Le secrétaire d'Etat à la défense chargé des anciens combattants souhaite pour sa part que les réflexions se poursuivent dans le cadre du groupe de travail déjà constitué.
