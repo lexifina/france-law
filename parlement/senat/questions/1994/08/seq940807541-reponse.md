@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940807541
+
+- Question : [SEQ940807541](seq940807541.md) — Implantations nouvelles d'hôtels
+
+## Réponse
+
+*Équipement, JO du 1994-11-17, page 2723*
+
+Réponse. - L'apparition et de développement d'établissements d'herbergement hôtelier et l'accroissement général de l'activité touristique ont modifié dans certaines zones l'équilibre offre-demande et accentué les difficultés d'exploitation de certains hôtels dues à la dégradation de la conjoncture. Il est apparu judicieux de mettre en place un dispositif de maîtrise de l'offre, basé sur l'information, la concertation et la responsabilité des différents acteurs intéréssés. C'est dans cette perspective qu'a été décidée, dans un premier temps, la création d'un Observatoire des industries hôtelières, composé d'élus, de professionnels et des administrations concernées. Il est appelé, sous la présidence de M. Roques, député de l'Hérault, secondé par M. Pascallon, député du Puy-de-Dôme, et par M. Voisin, à rassembler l'information sur l'évolution du marché, les réalisations et les projets, à informer les décideurs locaux et toute instance amenée à éclairer les décisions d'investissement ou d'implantation. Dans un deuxième temps, il apparaît opportun d'intégrer cet observatoire dans une commission nationale de régulation des hébergements touristiques, dont la compétence sera élargie à d'autres formes d'hébergement marchand, qui s'attachera à déterminer par bassin d'hébergement d'offre hôtelière et para-hôtelière susceptible de connaître ce problème de surcapacité. La connaissance approfondie de ces bassins pourra seule permettre d'élaborer une stratégie visant à l'amélioration de la maîtrise de l'offre d'hébergement touristique, grâce notamment à l'établissement d'une carte de capacité des hébergements touristiques et à des mesures de régulation de l'offre d'hébergement par bassin.
