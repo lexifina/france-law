@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040612692
+
+- Question : [SEQ040612692](seq040612692.md) — Retards de versement de l'aide aux bâtiments d'élevage en Creuse
+
+## Réponse
+
+*Agriculture, JO du 2004-10-28, page 2464*
+
+Les crédits de l'OFIVAL destinés au financement des aides à la construction des bâtiments d'élevage sont répartis entre les régions. Depuis l'année 2000, environ 9,3 millions d'euros ont été consacrés à cette action dans le Limousin. Dans le département de la Creuse, le nombre important des demandes dépasse les disponibilités budgétaires, créant ainsi une file d'attente. Ce sont néanmoins 243 projets qui ont été retenus depuis 2000 dans le département. 37 autres dossiers sont en attente de notification d'aide ou bien sur liste d'attente. Pour renforcer l'accompagnement des évolutions que traversent les exploitations du secteur de l'élevage, une amplification des concours publics en faveur des bâtiments d'élevage et de leurs équipements a été décidée. Le bâtiment constitue, en effet, un facteur structurant et central en élevage, car il détermine l'organisation générale du travail dans l'exploitation, ainsi que sa rentabilité et son intégration dans l'environnement. A partir de 2005, un fonds unique regroupant les sources budgétaires existantes sera créé. Pour les années suivantes, à partir de 2006, l'effort national sera amplifié, et un appel maximum sera fait aux concours de l'Union européenne dans le cadre des mesures du nouveau plan de développement rural, qui couvre la période 2007-2013. Cet effort permettra à la dotation budgétaire d'atteindre 120 millions d'euros en 2007, dont la moitié de crédits communautaires. En outre, les collectivités territoriales seront incitées à participer à l'accompagnement des élevages français. Ce plan est actuellement en phase de conception dans le cadre d'une concertation approfondie avec les responsables professionnels des secteurs concernés. Il entrera en vigueur à compter du 1er janvier 2005.
