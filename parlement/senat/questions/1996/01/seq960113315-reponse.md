@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960113315
+
+- Question : [SEQ960113315](seq960113315.md) — Conséquences économiques des projets de réduction d'effectifs de l'établissement de Châtillon du groupe Aérospatiale
+
+## Réponse
+
+*Défense, JO du 1996-04-25, page 1009*
+
+Réponse. - Après une longue phase d'expansion, l'industrie aéronautique se trouve confrontée à une crise grave résultant de la diminution importante des budgets de défense au niveau mondial et de la concurrence exacerbée qui en découle sur les marchés à l'exportation. La société Aérospatiale n'échappe pas à ce contexte. Le maintien en France d'une industrie aéronautique compétitive, et donc viable, passera pour l'Aérospatiale, comme pour les autres industriels du secteur, par une adaptation de ses structures au nouveau contexte économique et social, et par une amélioration de la compétitivité. C'est ainsi que l'Aérospatiale a annoncé au comité central d'entreprise, le 2 février 1996, un plan d'adaptation et un sureffectif estimé à 3 044 postes pour la société. S'agissant de la division missiles, qui est dans une situation délicate, il est prévu de resserrer ses activités sur deux sites principaux : Bourges, en région Centre, pour la production et les études de composants, et Châtillon, en Ile-de-France, pour les études et les développements de systèmes. L'établissement de Châtillon, dont la fermeture n'est pas envisagée, devrait voir son effectif se stabiliser à environ 1 000 personnes. Par ailleurs, le Gouvernement a annoncé son intention de constituer un grand groupe aéronautique et spatial français, civil et militaire, capable de jouer un rôle fédérateur en Europe et de mieux faire face à la concurrence internationale. En tout état de cause, l'Etat veillera à ce que les solutions qui seront retenues préservent au mieux les intérêts du pôle aéronautique français tant en termes sociaux que technologiques et confortent en particulier ses pôles d'excellence.
