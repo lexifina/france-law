@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030608083
+
+- Question : [SEQ030608083](seq030608083.md) — Insertion professionnelle des personnes handicapées
+
+## Réponse
+
+*Personnes handicapées, JO du 2003-09-18, page 2857*
+
+L'honorable parlementaire attire l'attention de Mme la secrétaire d'État aux personnes handicapées sur l'insertion professionnelle des travailleurs handicapés dans les entreprises et sur la mise en oeuvre par celles-ci de l'obligation d'emploi fixée par la loi du 10 juillet 1987. Si l'emploi en milieu ordinaire, et notamment dans les entreprises, est d'ores et déjà au coeur de la politique en faveur de l'insertion professionnelle des personnes handicapées, le bilan de l'obligation d'emploi ne peut être toutefois considéré comme satisfaisant. En effet, le taux d'emploi direct de travailleurs handicapés dans les entreprises assujetties plafonne depuis plusieurs années autour de 4 % (4,1 % en 2000, dernier chiffre connu) ; en outre, 36,7 % des entreprises assujetties, satisfaisant à l'obligation d'emploi par d'autres voies, n'emploient aucun travailleur handicapé. En même temps, un sondage publié lors de la semaine de l'insertion professionnelle (novembre 2002) a montré que 87 % des entreprises qui avaient recruté des personnes handicapées étaient très satisfaites. Le Président de la République fait de l'insertion des personnes handicapées une priorité nationale et la refonte de la loi d'orientation de 1975 les concernant est engagée par le Gouvernement. C'est dans ce cadre que pourront être recherchées des dispositions propres à renforcer l'insertion professionnelle ainsi que la formation professionnelle des personnes handicapées en milieu ordinaire de travail, que ce soit dans les entreprises privées ou dans les trois fonctions publiques (État, territoriale et hospitalière), et ce, en prenant en compte les recommandations données en la matière au Gouvernement par le Conseil économique et social dans un rapport rendu public le 27 mai 2003.
