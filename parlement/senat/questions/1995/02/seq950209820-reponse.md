@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950209820
+
+- Question : [SEQ950209820](seq950209820.md) — Exclusion des ayants droit de la communication du rapport d'enquête suite à un accident du travail
+
+## Réponse
+
+*Affaires sociales, JO du 1995-04-06, page 814*
+
+Réponse. - L'article L. 455-3 du code de la sécurité sociale dispose que la victime d'un accident du travail peut obtenir communication du rapport d'enquête " sans que des motifs tirés du secret de la vie privée ou du secret en matière industrielle ou commerciale, portant exclusivement sur des faits qui lui sont personnels, puissent lui être opposés ". Ainsi que l'indique l'honorable parlementaire, la communication du rapport d'enquête n'est possible qu'au profit de la seule personne directement concernée par les faits et circonstances de l'accident relatés. Ceux-ci doivent, de surcroît, s'attacher exclusivement à l'intéressé afin d'être communicables. Toutefois, les ayants droit de la victime qui ont été exclus de cette procédure peuvent avoir recours aux voies de justice qui leur sont offertes afin d'obtenir tout éclaircissement sur la survenance de l'accident et les responsabilités des parties en cause, notamment dans les cas les plus graves. En effet, l'article L. 455-2 du code de la sécurité sociale organise dans un cadre juridictionnel précis le droit à communication de tous les renseignements détenus par la caisse au profit des victimes comme des ayants droit. Aux termes de cet article, les résultats complets de l'enquête ainsi que les renseignements (pièces de procédure) sont communicables aux ayants droit dès lors que cette communication se révèle nécessaire à la manifestation de la vérité, et dans les limites s'imposant au juge de poursuites pénales pour faute inexcusable ou intentionnelle de l'employeur ou de la victime, ou dans le cas de faute d'un tiers autre que l'employeur, et dans les cas prévus aux articles L. 452-1 à L. 452-4 du code de la sécurité sociale.
