@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960817139
+
+- Question : [SEQ960817139](seq960817139.md) — Retraite professionnelle anticipée des anciens combattants d'Afrique du Nord
+
+## Réponse
+
+*Anciens combattants, JO du 1996-09-12, page 2341*
+
+Réponse. - La commission tripartite avait évalué à 151 milliards de francs le coût de l'anticipation de la retraite professionnelle souhaitée par les anciens combattants d'Afrique du Nord. Même en s'attachant à la réduire par des modifications qui posaient par ailleurs des problèmes juridiques et d'équité aussi sérieux qu'insurmontables, il est clair que l'effort financier qui aurait été demandé aux contribuables serait sans commune mesure avec les efforts déjà réalisés pour d'autres catégories de Français par les gouvernements précédents, quels qu'ils aient été. Il faut en avoir conscience. Il devenait évident qu'il convenait de rechercher d'autres voies. Aussi, dès la fin des travaux de la commission les services du ministère délégué aux anciens combattants et victimes de guerre se sont-ils mis en rapport avec ceux du ministère du travail et des affaires sociales pour trouver des solutions. Les deux ministres ont reçu ensemble le 23 juillet les représentants du Front uni, qui ont également été reçus en audience par le Premier ministre le 1er août dernier, en présence du ministre délégué. Cette réunion a permis d'examiner les attentes du monde combattant et les réponses que peut y apporter le Gouvernement. Le Premier ministre a décidé une série de mesures de solidarité de la nation en faveur des anciens combattants d'Afrique du Nord qui rencontrent aujourd'hui des difficultés économiques et sociales. Ces mesures sont en préparation. S'agissant de la retraite anticipée, telle qu'elle résulte des travaux de la commission tripartite, les représentants du Front uni ont donné acte au Premier ministre de ce que les contraintes économiques et budgétaires actuelles ne permettaient pas sa mise en oeuvre.
