@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901011993
+
+- Question : [SEQ901011993](seq901011993.md) — Détérioration du fonctionnement de la RATP
+
+## Réponse
+
+*Équipement, JO du 1990-12-20, page 2706*
+
+Réponse. - Avec plus de 760 000 voyageurs par jour ouvrable, la ligne A du R.E.R. connaît des difficultés d'exploitation en raison d'une surcharge permanente et du comportement indiscipliné de certains voyageurs qui actionnent sans motif les freins de secours ou tentent de monter dans les trains sans attendre que ceux qui descendent aient pu le faire, prolongeant ainsi le temps de stationnement des trains dans les stations. Pour améliorer la régularité de la circulation des trains sur cette ligne, la R.A.T.P. a mis en service en mai 1989 un système d'aide à la conduite, à l'exploitation et à la maintenance des trains (S.A.C.E.M.). Il permet d'assurer, sur le tronçon central, un intervalle de 2 minutes entre deux trains aux heures de pointe au lieu de 2 minutes trente précédemment et donc d'offrir une capacité de transport supplémentaire. Seule la création d'infrastructures nouvelles déchargeant la ligne A d'une partie de son trafic permettra cependant d'offrir aux usagers une qualité de service optimale ; c'est pourquoi les pouvoirs publics ont décidé la réalisation de la liaison Eole reliant les lignes ferroviaires de la banlieue Est au quartier Saint-Lazare et celle de Météor, métro automatique reliant Maison-Blanche à Saint-Lazare en desservant notamment Gare de Lyon et Châtelet. Ces deux liaisons rendront possible une meilleure répartition du trafic et permettront donc de conserver à la ligne A sa pleine efficacité. Le caractère prioritaire de la réalisation de ces infrastructures nouvelles a conduit l'Etat et la région Ile-de-France a prévoir la mobilisation de moyens financiers très importants au cours de la période couverte par le contrat de plan. Cela permettra de conduire les travaux, qui débuteront dès 1991, avec le maximum de célérité.
