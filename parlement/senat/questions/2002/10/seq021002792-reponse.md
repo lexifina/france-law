@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021002792
+
+- Question : [SEQ021002792](seq021002792.md) — Institut national de prévention et d'éducation pour la santé
+
+## Réponse
+
+*Santé, JO du 2002-11-07, page 2672*
+
+La création de l'Institut national de prévention et d'éducation pour la santé par transformation du Comité français d'éducation pour la santé en établissement public administratif est effective depuis le 3 mai 2002. Il s'agit de l'une des dispositions essentielles prise en application du volet " Politique de prévention " (chapitre IV du titre III) de la loi n° 2002-303 du 4 mars 2002 relative aux droits des malades et à la qualité du système de santé. Cet établissement public de l'Etat a pour missions d'exercer une fonction d'expertise et de conseil en matière de prévention et de promotion de la santé et d'assurer le développement de l'éducation pour la santé, y compris de l'éducation thérapeutique, sur l'ensemble du territoire en tant que mission de service public. Cet établissement est par ailleurs chargé de mettre en oeuvre, pour le compte de l'Etat et de ses établissements publics, les programmes de prévention. En 2002, le budget primitif de l'Institut national de prévention et d'éducation pour la santé a été arrêté par le ministre chargé de la santé, à hauteur de 71 088 968 euros. Cette somme correspond à 20 140 433 euros en provenance de l'Etat et à 50 948 536 euros en provenance des organismes d'assurance maladie. Le jour de sa création, l'Institut national de prévention et d'éducation pour la santé disposait d'un effectif total de quatre-vingt-treize équivalents temps plein. Quinze emplois supplémentaires ont été créés depuis cette date au titre de l'année 2002. Ces postes correspondent au renforcement des fonctions transversales (notamment juridiques et financières) liées à la transformation de cette structure en établissement public administratif.
