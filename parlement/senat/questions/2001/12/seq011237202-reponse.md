@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011237202
+
+- Question : [SEQ011237202](seq011237202.md) — Chèques en francs établis par le Trésor public et passage à l'euro
+
+## Réponse
+
+*Économie, JO du 2002-03-28, page 912*
+
+Dès le 1er janvier 1999, l'Etat a émis des moyens de paiement dématérialisés (virements) en euros dès lors que le créancier en exprimait la volonté. Progressivement, au cours de l'année 2001, le choix de paiement en euros a été systématisé comme, par exemple, la paie des fonctionnaires et agents de l'Etat en juillet 2001. En revanche, la décision a été prise, après études, de maintenir en francs jusqu'au 31 décembre 2001 l'émission des chèques tirés sur la caisse du Trésor. Dans ce cas, en effet, le souhait du créancier ne pourrait être préalablement recueilli, et il a semblé plus lisible de maintenir une stricte concordance entre le montant du remboursement liquidé en francs et le moyen de paiement. La faible part que représente le recours aux chèques sur le Trésor en matière de paiement de la dépense publique, n'était pas non plus susceptible d'influer sur la bascule générale à l'euro des moyens de paiement alors que, par exemple, la paie des fonctionnaires a eu de ce point de vue une portée significative. Par ailleurs, dans le contexte particulier de l'émission en août 2001 des chèques pour le versement de la prime pour l'emploi, il est apparu que les circuits de compensation existant à cette date pour les chèques libellés en euros n'étaient pas compatibles avec la concentration, sur une période très courte, d'un volume extrêmement important (5,5 millions de chèques) et que le bon déroulement de cette opération était falicité par le maintien de l'expression en francs du montant du chèque. Bien entendu, les chèques sur le Trésor, comme l'ensemble des autres moyens de paiement utilisés en règlement de la dépense publique, sont, à compter du 1er janvier 2002, libellés en euros.
