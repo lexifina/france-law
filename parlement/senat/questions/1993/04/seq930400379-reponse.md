@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930400379
+
+- Question : [SEQ930400379](seq930400379.md) — Distribution de lait à l'école
+
+## Réponse
+
+*Éducation, JO du 1993-07-15, page 1140*
+
+Réponse. - Les actions entreprises en vue de promouvoir les distributions de lait aux enfants des écoles, distributions qui interviennent le plus souvent hors repas, à la pause du matin, représentent pour le ministère de l'éducation nationale un intérêt certain, qu'il n'est en aucune manière question de méconnaître. Il ne lui appartient pas, cependant, de se prononcer sur la contribution nationale prévue pour favoriser ces actions, qui s'ajoute à l'aide accordée par la Communauté économique européenne. Le dispositif d'aide à la consommation du lait par les élèves des écoles maternelles et élémentaires, qui est en France, il convient de le rappeler, antérieur à la réglementation communautaire, est assuré grâce à l'attribution de subventions accordées par l'Office national interprofessionnel du lait et des produits laitiers (ONILAIT), établissement public dépendant du ministère de l'agriculture. Les actions, dans les écoles où elles sont organisées, sont dans leur ensemble accueillies favorablement par les différents partenaires du système éducatif, élèves, parents d'élèves et enseignants. Les municipalités ou associations qui ont adhéré aux programmes de l'ONILAIT sont, de leur côté, activement associées à leur mise en oeuvre, puisque dans la plupart des écoles la distrubtion de lait aux enfants est entièrement gratuite. Il en résulte que les communes sont conduites à compléter la part, effectivement non négligeable, qui n'est pas couverte par les différentes contributions précitées. Le ministère de l'éducation nationale est, pour ce qui le concerne, tout à fait favorable au maintien, voire à la généralisation de ces distributions, aucune réserve n'ayant été portée à la connaissance de ses propres services au niveau de l'organisation matérielle des actions déjà en place.
