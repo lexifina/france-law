@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871208804
+
+- Question : [SEQ871208804](seq871208804.md) — Conservation de la forêt méditerranéenne
+
+## Réponse
+
+*Agriculture, JO du 1988-03-10, page 333*
+
+Réponse. -La politique du Gouvernement en faveur de la conservation de la forêt méditerranéenne mise en place en 1987 à la suite des grands incendies de 1986 et sa volonté déterminée de juguler le fléau que constituent les incendies de forêt ont été réaffirmées à l'occasion des débats parlementaires relatifs à la loi de finances pour 1988. C'est ainsi que le conservatoire de la forêt méditerranéenne, qui a été créé en 1987 pour permettre l'élaboration et le mise en oeuvre de façon coordonnée entre l'Etat, les départements et les régions des programmes d'actions concourant à prévenir les incendies, a été à nouveau doté de 100 millions de francs en autorisations de programme et en crédits de paiements. De même l'effort financier de 50 p. 100 consenti par l'Etat en 1987 pour moderniser les moyens terrestres et aériens consacrés à la lutte active et les mobiliser à titre préventif pendant les périodes à risques sévères sera maintenu en 1988. Parallèlement,un arrêté du Premier ministre en date du 28 octobre 1987 a mis en place le conseil d'orientation de la forêt méditerranéenne. Cette instance qui associera les élus locaux, les organisations socio-professionnelles et les administrations a reçu pour mission d'étudier et d'émettre un avis sur toute mesure nouvelle susceptible d'améliorer la politique mise en oeuvre pour protéger la forêt méditerranéenne contre les incendies. Enfin, le programme de reconstitution forestière engagé en 1980 avec le concours financier du F.E.O.G.A. au titre du règlement communautaire n° 269-79 parvenu à expiration en 1986 a été reconduit et complété par des actions à caractère économique en faveur des industries du bois grâce à l'individualisation au sein des programmes intégrés méditerranéens de sous-programmes forestiers.
