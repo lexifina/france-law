@@ -1,0 +1,15 @@
+# Délibération portant avis sur la mise en oeuvre d'un traitement informatique des dossiers d'infraction à la police des réseaux de la R.A.T.P.
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 82-64
+- Date : 1982-04-27
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017654335
+
+La Commission Nationale de l'Informatique et des Libertés, Vu l'article 15 de la loi n° 78-17 du 6 janvier 1978 ; Vu le décret n° 78-774 du 17 juillet 1978 ; Vu le projet de délibération du Conseil d'Administration de la R.A.T.P. ; Après avoir entendu le 27 Avril 1982, Monsieur MONEGIER DU SORBIER, Rapporteur, et Monsieur le Commissaire du Gouvernement en ses observations ;
+
+Considérant qu'il résulte de la demande d'avis : - que le traitement envisagé est conforme aux dispositions prévues par la loi du 15 juillet 1845, l'ordonnance du 5 mai 1945, la loi du 17 Août 1950, le décret du 22 mars 1942, le décret du 23 décembre 1953 et l'arrêté préfectoral du 9 décembre 1978 ; Considérant que la R.A.T.P. s'engage à ce que : 1°) les données nominatives figurant sur le traitement ne puissent directement ou indirectement porter atteinte à la vie privée ou aux libertés ; 2°) le traitement ne mentionne, en aucun cas, les jugements ou arrêts de condamnation ; 3°) ne figure dans ce traitement aucune des informations dont l'enregistrement est interdit par l'article 31 de la loi du 6 janvier 1978 et qui, directement ou indirectement feraient apparaître les origines raciales ou les opinions politiques, philosophiques ou religieuses, ou les appartenances syndicales des personnes ; 4°) les données soient effacées au bout d'une année pour les dossiers réglés à l'amiable, et de cinq années pour les affaires ayant fait l'objet d'une demande de poursuites ; 5°) le traitement n'ait pour seul objet que de collecter les informations relatives aux infractions à partir des rapports établis constatant des irrégularités commises par des usagers, de gérer des dossiers en vue d'obtenir un règlement amiable, et à défaut d'établir un procès-verbal transmis au Parquet compétent, de disposer de renseignements permettant de fournir toutes informations utiles aux services concernés de la R.A.T.P., aux Parquets et aux contrevenants. 6°) le traitement soit effectué par le service de l'informatique de la R.A.T.P., à l'exclusion de tout autre ; 7°) les seuls destinataires des informations enregistrées soient : - les services du contentieux et de l'exploitation du réseau ferré et du réseau routier de la R.A.T.P. ; - les Parquets des tribunaux ; - les contrevenants ; Considérant que ces dispositions sont prises pour assurer : 1°) l'exercice du droit d'accès prévu par l'article 34 de la loi du 6 janvier 1978 auprès du service du contentieux de la R.A.T.P. ; 2°) la sécurité du personnel des matériels et des locaux utilisés pour le fonctionnement de ce traitement ;
+
+Emet un avis favorable au projet de délibération du Conseil d'Administration de la R.A.T.P., sous réserve de l'insertion dans le projet d'acte réglementaire d'articles décrivant les mesures de sécurité prévues.
