@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960917750
+
+- Question : [SEQ960917750](seq960917750.md) — Reconnaissance juridique des secouristes en zone de montagne
+
+## Réponse
+
+*Intérieur, JO du 1996-12-05, page 3248*
+
+Réponse. - La réglementation applicable à la formation des pisteurs-secouristes résulte des dispositions des deux textes suivants : le décret du 30 août 1991 relatif à la formation aux premiers secours dispose dans son article 8 : " il est institué un certificat de formation aux activités de premiers secours en équipe (CFAPSE) dont l'obtention est obligatoire pour les personnes admises dans une équipe appelée à participer aux secours organisés sous le contrôle des autorités publiques ". Cette disposition réglementaire doit garantir la qualité de toute action des secouristes en équipe ; le décret du 30 décembre 1992 relatif aux formations de pisteur-secouriste et de maître pisteur-secouriste définit les qualifications qui permettent à leurs titulaires de pouvoir porter secours dans de bonnes conditions aux personnes en difficulté sur le domaine skiable. Cette formation constitue, de fait, l'adaptation des techniques du CFAPSE au milieu montagnard. S'agissant des pisteurs-secouristes, seule la définition des compétences nécessaires pour assurer les secours sur le domaine skiable entre dans les attributions du ministère de l'intérieur. A cet égard, il lui appartient de veiller à ce que les formations délivrées aux pisteurs-secouristes constituent une garantie d'efficacité dans les secours. Bien loin de fragiliser la situation des pisteurs-secouristes, ce cadre réglementaire pose les règles de base de toute action de secours et permet une reconnaissance de la valeur technique des intervenants. Ces formations sont délivrées aux candidats quel que soit leur statut professionnel. En effet, le pisteur-secouriste peut être un salarié de droit public ou privé, à temps plein ou à temps partiel, ou un bénévole membre d'une association.
