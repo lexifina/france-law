@@ -134,7 +134,7 @@ Trois personnes désignées par le représentant de l'Etat dans le département,
 
 Le directeur technique ou, lorsqu'il n'existe pas, un représentant supplémentaire de l'organisme gestionnaire.
 
-c) Six élèves élus par leurs pairs, à raison de trois par promotion.
+c) Six élèves élus par leurs pairs, à raison de deux par promotion.
 
 d) Six représentants des enseignants.
 
