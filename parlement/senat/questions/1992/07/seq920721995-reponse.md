@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920721995
+
+- Question : [SEQ920721995](seq920721995.md) — Travail des enfants de moins de seize ans
+
+## Réponse
+
+*Travail, JO du 1992-08-27, page 1983*
+
+Réponse. - Les services déconcentrés du ministère du travail, de l'emploi et de la formation professionnelle sont chargés de faire appliquer l'article L. 211-1 du code du travail relatif à l'âge d'admission des enfants dans les établisssements industriels et commerciaux mentionnés à l'article L. 200-1. Ne peuvent être admis dans ces établissements que les enfants régulièrement libérés de l'obligation scolaire fixée normalement à seize ans. Les dérogations admises au titre du code du travail concernent : les élèves suivant un enseignement alterné et accomplissant des stages en milieu professionnel durant les deux dernières années de leur scolarité ; les jeunes de quinze ans révolus apprentis sous contrat qui justifieraient avoir effectué la scolarité au premier cycle de l'enseignement secondaire ; les adolescents de plus de quatorze ans effectuant les travaux légers pendant les vacances scolaires ; les enfants employés dans les spectacles, les professions ambulantes, ou comme mannequins dans la publicité et la mode. Mes services ne disposent de statistiques nationales qu'en ce qui concerne les infractions à l'âge d'admission relevées par les services d'inspection du travail. En 1986, 535 infractions constatées dont 23 ayant donné lieu à procès-verbal ; en 1987, 632 infractions constatées dont 14 ayant donné lieu à procès-verbal ; en 1988, 729 infractions constatées dont 112 ayant donné lieu à procès-verbal ; en 1989, 670 infractions constatées dont 23 ayant donné lieu à procès-verbal ; en 1990, 634 infractions constatées dont 51 ayant donné lieu à procès-verbal. Les poursuites engagées sur la base de ces infractions ont donné lieu, en 1990, a des amendes dont 80 p. 100 se situent au minimum de 3 000 francs prévu pour les contraventions de 5e classe.
