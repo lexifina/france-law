@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861003132
+
+- Question : [SEQ861003132](seq861003132.md) — Développement de l'éducation physique et sportive
+
+## Réponse
+
+*Éducation, JO du 1987-02-26, page 292*
+
+Réponse. -Pour appréhender avec équité la situation de l'éducation physique et sportive en 1986, il convient de rappeler que dès son rattachement au ministère de l'éducation nationale, la discipline a bénéficié d'une priorité qui a permis d'affecter dans les établissements du second degré un nombre important d'emplois nouveaux d'enseignants d'éducation physique et sportive. Les efforts consentis ont apporté une amélioration notable puisqu'une étude effectuée sur l'année 1985-1986 fait ressortir une couverture des horaires prévus de 97 p. 100 dans les collèges, 89 p. 100 dans les lycées professionnels et de 100 p. 100 dans les lycées. Durant l'année 1986, une procédure nouvelle a été appliquée, répondant à la politique d'intégration de la discipline dans l'ensemble du système éducatif : il n'a pas été défini au niveau national de contingent d'emplois d'enseignants d'éducation physique et sportive, les besoins de cette discipline devant être considérés de la mêmefaçon que les besoins des autres disciplines. Pour la rentrée de septembre 1987 les postes d'éducation physique et sportive font donc partie de l'enveloppe globale de moyens nouveaux. S'agissant en outre des recrutements, les chiffres retenus pour 1987 correspondent à 270 pour le C.A.P.E.P.S. et trente-deux pour l'agrégation, soit pour ce dernier concours une augmentation de sept postes par rapport à 1986. Toutes dispositions vont être prises pour que les flux de ces concours, qui constituent désormais les seules voies d'accès à l'enseignement de la discipline puissent, dans la limite du potentiel global disponible, tenir compte dans les meilleures conditions possibles des besoins liés à la fois aux sorties de corps et à l'application des horaires réglementaires.
