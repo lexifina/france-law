@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040411777
+
+- Question : [SEQ040411777](seq040411777.md) — Dotation globale de fonctionnement des communautés de communes
+
+## Réponse
+
+*Intérieur, JO du 2004-10-21, page 2398*
+
+La dotation moyenne par habitant de chacune des catégories d'établissements publics de coopération intercommunale est fixée par le comité des finances locales, dans les conditions prévues par l'article L. 5211-29 du CGCT, à l'exception des communautés urbaines pour lesquelles la dotation est forfaitisée. Les dotations par habitant des différentes catégories d'EPCI ont été fixées pour 2004 par le comité des finances locales en augmentation uniforme de 1,5 %. Ainsi, la dotation d'intercommunalité s'élève, en 2004, à 40,34 euros par habitant pour les communautés d'agglomération et à 16,62 euros par habitant pour les communautés de communes à fiscalité additionnelle. La différence historique des montants de dotation globale de fonctionnement (DGF) par habitant entre les communautés d'agglomération et les communautés de communes à fiscalité additionnelle d'une part et, à plus juste titre, entre les communautés urbaines (81,40 euros en moyenne par habitant en 2004) et les communautés de communes à fiscalité additionnelle d'autre part, s'explique par le fait que les communautés d'agglomération ou les communautés urbaines doivent nécessairement exercer un nombre relativement élevé de compétences requises par le code général des collectivités territoriales, notamment dès leur création et, par ailleurs, les communautés d'agglomération ou les communautés urbaines subissent des charges de centralité plus importantes que celles supportées par les communautés de communes en raison de leur rayonnement territorial. Pour l'avenir, une réflexion sur les modalités de calcul de la DGF des groupements et sur la place respective des intercommunalités devrait s'inscrire dans le débat accompagnant la réforme des dotations de l'Etat.
