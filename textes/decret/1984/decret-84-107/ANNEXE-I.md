@@ -1,157 +1,221 @@
 # Article ANNEXE I
 
-AGRICULTURE.
+Agriculture et forêts
 
-Chapitre n° 61-40 : Adaptation de l'appareil de production agricole :
+61-40 - Adaptation de l'appareil de production agricole :
 
-Article 40 : Travaux d'hydraulique : opérations d'intérêt national.
+40 - travaux d'hydraulique : opérations d'intérêt national ;
 
-Chapitre n° 61-56 : Equipement de stockage, conditionnement, abattoirs publics :
+50 - travaux d'hydraulique : opérations d'intérêt régional et actions pilotes ;
 
-Article 10 : Stockage, conditionnement et mise en marché.
+60 - équipements d'analyse des sols ;
 
-Article 30 : Abattoirs publics.
+80 - aménagement foncier : actions hors programmes départementaux.
 
-Article 40 : Equipements de mise en marché.
+61-61 - Développement du stockage, de la transformation et de la commercialisation des produits agricoles et de la mer :
 
-Article 50 : Développement technologique et technologies nouvelles.
+10 - stockage, conditionnement et mise en marché ;
 
-Chapitre n° 61-70 : Promotion et contrôle de la qualité :
+30 - abattoirs publics ;
 
-Article 20 : Equipement de laboratoires et établissements vétérinaires.
+50 - développement technologique et technologies nouvelles ;
 
-Chapitre n° 61-92 : Forêts - Acquisition et travaux :
+60 - équipement de mise en marché.
 
-Article 50 : Production forestière.
+61-70 - Promotion et contrôle de la qualité :
 
-Article 80 : Sauvegarde de l'espace forestier : acquisitions.
+20 - équipement de laboratoires et établissements vétérinaires.
 
-Article 90 : Sauvegarde de l'espace forestier : travaux.
+61-80 - Amélioration du cadre de vie et aménagement de l'espace rural :
 
-CULTURE.
+61 - actions de développement et investissements coordonnés ;
 
-Chapitre n° 66-10 : Patrimoine écrit et documentaire :
+62 - aménagements et équipements collectifs en montagne et zones défavorisées.
 
-Article 10 : Archives de France.
+61-92 - Forêts : acquisitions et travaux :
 
-Article 20 : Lecture et livre.
+10 - conservatoire de la forêt méditerranéenne ;
 
-Chapitre n° 66-20 : Patrimoine monumental :
+50 - production forestière ;
 
-Article 10 : Archéologie.
+80 - sauvegarde de l'espace forestier : acquisitions ;
 
-Article 20 : Edifices non protégés.
+90 - sauvegarde de l'espace forestier : travaux.
 
-Article 40 : Architecture - Sites et espaces protégés.
+Culture, grands travaux et Bicentenaire
 
-Article 70 : Patrimoine ethnologique.
+66-10 - Patrimoine écrit et documentaire :
 
-Article 90 : Monuments historiques n'appartenant pas à l'Etat. Chapitre n° 66-30 : Patrimoine muséographique et arts plastiques :
+10 - archives de France.
 
-Article 21 : Musées classés et contrôlés.
+66-20 - Patrimoine monumental :
 
-Article 22 : Musées classés et contrôlés - Parties classées parmi les monuments historiques.
+10 - archéologie ;
 
-Article 23 : Musées de culture scientifique et technique.
+20 - édifices non protégés ;
 
-Article 50 : Arts plastiques.
+43 - abords ;
 
-Chapitre n° 66-40 : Spectacles :
+70 - patrimoine ethnologique ;
 
-Article 10 : Théâtre et spectacles.
+90 - monuments historiques n'appartenant pas à l'Etat.
 
-Article 30 : Musique.
+66-30 - Patrimoine muséographique et arts plastiques :
 
-Article 70 : Développement culturel.
+21 - musées classés et contrôlés ;
 
-Chapitre n° 66-98 : Enveloppe Recherche :
+22 - musées classés et contrôlés - Parties classées sur les monuments historiques ;
 
-Article 20 : Patrimoine monumental.
+23 - musées de culture scientifique et technique ;
 
-Article 31 : Musée.
+50 - arts plastiques.
 
-Article 70 : Développement culturel.
+66-40 - Spectacles :
 
-AFFAIRES SOCIALES ET SOLIDARITE NATIONALE. Chapitre n° 66-11 : Subventions d'équipement sanitaire :
+10 - théâtres et spectacles ;
 
-Article 10 : Modernisation et humanisation des centres hospitaliers régionaux et établissements d'intérêt général.
+30 - musique ;
 
-Article 20 : Modernisation et humanisation des établissements de de soins et de cure.
+70 - environnement culturel ;
 
-Article 30 : Etablissements et services de protection et de prévention sanitaire : investissements réalisés dans le cadre de la procédure des grands chantiers d'aménagement du territoire.
+90 - grandes opérations culturelles dans les régions.
 
-Article 40 : Etablissements de formation de personnels sanitaires. Chapitre 66-20 : Subventions d'équipement social :
+66-98 - Recherche :
 
-Article 30 : Etablissements sociaux d'aide à l'enfance, à l'adolescence et à la famille : investissements réalisés dans le cadre de la procédure des grands chantiers d'aménagement du territoire.
+20 - patrimoine monumental ;
 
-Article 40: Etablissements sociaux pour personnes âgées :
+31 - musées ;
 
-Médicalisation des maisons de retraite des hôpitaux publics ;
+70 - développement culturel.
 
-Médicalisation des maisons de retraite des hôpitaux publics autonomes ;
+Solidarité, santé et protection sociale
 
-Médicalisation des maisons de retraite des bureaux d'aide sociale ;
+66-11 - Subventions d'équipement sanitaire :
+
+10 - modernisation et humanisation des centres hospitaliers régionaux et établissements d'intérêt national ;
+
+20 - modernisation et humanisation des établissements de soins et de cure ;
+
+30 - établissements et services de protection et de prévention sanitaire : investissements réalisés dans le cadre de la procédure des grands chantiers d'aménagement du territoire ;
+
+40 - établissements de formation de personnels sanitaires ;
+
+50 - psychiatrie extra-hospitalière et lutte contre la toxicomanie et l'alcoolisme.
+
+66-20 - Subventions d'équipement social :
+
+30 - établissements sociaux d'aide à l'enfance, à l'adolescence et à la famille : investissements réalisés dans le cadre de la procédure des grands chantiers d'aménagement du territoire ;
+
+40 - établissements sociaux pour personnes âgées :
 
 Création d'établissements médicalisés ;
 
-Centres de soins infirmiers à domicile.
+Services de soins infirmiers à domicile ;
 
-Article 70 : Aménagement social concerté (ne sont éligibles que les investissements réalisés dans le cadre des contrats de plan Etat-région et des contrats Famille).
+70 - aménagement social concerté (investissements réalisés dans le cadre des contrats de plan Etat-région et des contrats famille) ;
 
-Article 80 : Mode de garde de la petite enfance : investissements réalisés dans le cadre de la procédure des grands chantiers d'aménagement du territoire.
+80 - mode de garde de la petite enfance : investissements réalisés dans le cadre de la procédure des grands chantiers d'aménagement du territoire ;
 
-Article 90 : Transformation des hospices.
+90 - transformation des hospices.
 
-COMMERCE ET ARTISANAT Chapitre 64-00 : Aides et primes à l'artisanat :
+Commerce et artisanat
 
-Article 50 : Aide à l'artisanat notamment dans les zones sensibles. Chapitre 64-01 : Aide au commerce :
+64-00 - Aides et primes à l'artisanat :
 
-Article 20 : Aide au commerce dans les zones sensibles.
+50 - aide à l'artisanat, notamment dans les zones sensibles ;
 
-ENVIRONNEMENT.
+80 - fonds d'aménagement des structures artisanales.
 
-Chapitre n° 67-10 : Interventions dans le domaine de l'eau et de lutte contre le bruit :
+64-01 - Aide au commerce :
 
-Article 10 : Prévention et lutte contre les pollutions et le bruit. Article 20 : Amélioration de la qualité des eaux et écrêtement des redevances. Article 70 : Grands barrages.
+20 - aide au commerce dans les zones sensibles.
 
-Article 80 : Autres travaux de protection contre les eaux.
+Environnement
 
-Article 90 : Bruits et vibrations. Chapitre n° 67-11 : Protection de la nature :
+67-20 - Protection de la nature et de l'environnement - Subventions d'équipement :
 
-Article 10 : Réserves naturelles. Article 40 : Parcs naturels régionaux. Article 70 : Equipement piscicole.
+10 - qualité de la vie, qualité de l'environnement, actions dans le domaine du bruit ;
 
-INTERIEUR ET DECENTRALISATION.
+20 - grands barrages et autres travaux de protection contre les eaux ;
 
-Chapitre n° 63-52 : Fonds spécial d'investissement routier - Voirie locale - Réseau national déclassé :
+30 - gestion des eaux ;
 
-Article 50 : Reconstruction des ponts détruits par fait de guerre - Voirie locale. Chapitre n° 67-50 : Subventions d'équipement aux collectivités pour les constructions publiques :
+40 - barrages et protection contre les eaux dans les départements et territoires d'outre-mer ;
 
-Article 30 : Recherche scientifique et technique. Chapitre n° 67-57 :
+50 - pollutions, nuisances, risques industriels, inspection des installations classées ;
 
-Article 10 : Dotation départementale d'équipement des collèges.
+60 - protection de la nature ;
 
-JEUNESSE ET SPORTS.
+94 - barrages et protection contre les eaux (opérations financées sur A.P. affectées ou déléguées antérieures au 1er janvier 1985) ;
 
-Chapitre n° 66-50 : Subventions d'équipement aux collectivités :
+96 - protection de la nature (opérations financées sur A.P. affectées ou déléguées antérieures au 1er janvier 1985).
 
-Article 10 : Equipements sportifs et socio-éducatifs d'intérêt national. Article 30 : Equipements sportifs et socio-éducatifs expérimentaux. Article 40 : Equipements sportifs et socio-éducatifs des bases de plein air et de loisir (contrat de plan).
+Prévention des risques technologiques et naturels majeurs
 
-TRANSPORTS. Chapitre n° 63-20 : Subventions et participations financières pour études, travaux et investissements :
+67-01 - Prévention des risques technologiques et naturels majeurs :
 
-Article 32 : Bases aériennes. Chapitre n° 63-41 : Transports terrestres - Subventions d'investissement :
+10 - recherche ;
 
-Article 14 : Aménagement d'infrastructures de voirie pour les transports collectifs en région d'Ile-de-France.
+20 - subventions aux collectivités locales.
 
-Article 21 : Aménagement d'infrastructures de voirie pour les transports collectifs urbains en province : tramways, métros.
+Intérieur
 
-Article 23 : Contrats de développement et d'infrastructures diverses.
+41-56 - Dotation générale de décentralisation :
 
-Article 30 : Etudes, recherche, développement et expérimentations de transports collectifs.
+20 - concours particulier des ports maritimes de commerce et de pêche.
 
-Article 40 : Transports collectifs régionaux, départementaux et locaux.
+67-50 - Subventions d'équipement et achèvement d'opérations en cours :
 
-Article 60 : Aide au développement de la productivité des transports de marchandises. Chapitre n° 63-42 : Routes - Participations :
+22 - reconstruction des ponts détruits par faits de guerre - Voirie locale.
 
-Article 30 : Opérations de voirie des collectivités territoriales intéressant la gestion du réseau routier national. Chapitre n° 63-45 : Voies navigables et ports fluviaux en métropole - Subventions d'équipement :
+67-57 - 10 - Dotation départementale d'équipement des collèges.
 
-Article 10 : Ports fluviaux - Ports et infrastructures fluviales de plaisance.
+Education nationale, jeunesse et sports
+
+66-50 - Subventions d'équipement aux collectivités :
+
+10 - équipements sportifs et socio-éducatifs d'intérêt national ; 30 - équipements sportifs et socio-éducatifs expérimentaux ;
+
+40 - équipements sportifs et socio-éducatifs des bases de plein air et de loisirs (contrat de plan).
+
+Equipement, logement, transports et mer
+
+65-06 - Dotation globale d'équipement des agglomérations nouvelles :
+
+20 - dotation de construction des collèges.
+
+63-20 - Subventions et participations financières pour études, travaux et investissements :
+
+32 - bases aériennes - Equipements d'intérêt régional.
+
+63-30 - Ports maritimes et protection du littoral :
+
+30 - protection et aménagement du littoral.
+
+63-41 - Transports terrestres - Subventions d'investissement :
+
+14 - aménagement d'infrastructures de voirie pour les transports collectifs en région d'Ile-de-France ;
+
+21 - aménagement d'infrastructure pour les transports collectifs urbains en province : tramways et métros ;
+
+23 - aides à l'amélioration de la qualité et de la productivité des transports urbains ;
+
+30 - études, recherche, développement et expérimentation de transports terrestres ;
+
+40 - transports collectifs régionaux, départementaux et locaux ;
+
+60 - aide au développement de la productivité des transports de marchandises.
+
+63-42 - Routes, participations :
+
+30 - opérations de voirie des collectivités territoriales intéressant la gestion du réseau routier national.
+
+63-45 - Voies navigables et ports fluviaux en métropole - Subventions d'équipement :
+
+10 - ports fluviaux - Ports et infrastructures fluviales de plaisance.
+
+Tourisme
+
+66-01 - Subventions aux équipements touristiques :
+
+30 - contrats de plan Etat-région.
