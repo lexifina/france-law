@@ -1,5 +1,5 @@
 # Article 302 octies
 
-Toute personne se livrant en France, ailleurs qu'en boutique ou magasin, à des ventes d'objets ou marchandises quelconques, est tenue, à toute réquisition des magistrats et fonctionnaires désignés à l'article L225 du livre des procédures fiscales, de justifier, soit qu'elle est inscrite au registre du commerce, soit qu'elle opère en qualité de commis ou employé pour le compte d'une personne inscrite audit registre, et, à défaut, de produire un récépissé de consignation qui lui est délivré après paiement d'une somme suffisante pour garantir le recouvrement des impôts et taxes visés au présent livre, 1ère partie, titre I, chapitre Ier et titre II (1).
+Quiconque exerce une activité lucrative sur la voie ou dans un lieu public sans avoir en France de domicile ou de résidence fixe depuis plus de six mois est tenu de se faire connaître à l'administration fiscale et de déposer une somme en garantie du recouvrement des impôts et taxes dont il est redevable. Le récépissé qui lui est délivré en contrepartie doit être produit à toute réquisition des fonctionnaires et magistrats désignés à l'article L. 225 du livre des procédures fiscales (1).
 
-(1) Annexe III, art. 111 quaterdecies à 111 octodecies.
+(1) Annexe III art. 111 quaterdecies à 111 novodecies.

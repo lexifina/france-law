@@ -10,15 +10,15 @@
 
 2° Un titre exécutoire a été émis, pour les taxes sur le chiffre d'affaires et assimilées et les contributions indirectes.
 
-4. La publicité est obligatoire lorsque les sommes dues par un redevable à un même poste comptable ou service assimilé et susceptibles d'être inscrites dépassent au dernier jour d'un e trimestre civil un montant minimum déterminé par arrêté du ministre de l'économie et du ministre du budget pris après avis du garde des sceaux, ministre de la justice (1). Les sommes qui ne dépassent pas le montant minimum peuvent également être inscrites.
+4. La publicité est obligatoire lorsque les sommes dues par un redevable à un même poste comptable ou service assimilé et susceptibles d'être inscrites dépassent au dernier jour d'un trimestre civil un montant minimum déterminé par arrêté du ministre de l'économie et du ministre du budget pris après avis du garde des sceaux, ministre de la justice (1). Les sommes qui ne dépassent pas le montant minimum peuvent également être inscrites.
 
 5. En cas de paiement avec subrogation, le subrogé aux droits du Trésor est tenu des obligations et formalités mises par le présent article à la charge de l'administration, quel que soit le montant du paiement.
 
 Si le paiement par le subrogé a lieu sans émission de titre exécutoire prévu au 3, l'inscription ne peut être requise que six mois au moins après le paiement.
 
-6. Les frais de l'inscription sont à la charge du redevable mais leur montant est avancé par le Trésor ou son subrogé. Les sommes ainsi avancées sont recouvrées sous les mêmes garanties et sous les mêmes sanctions que la créance à laquelle elles se rapportent.
+6. Les frais de l'inscription du privilège sont à la charge du Trésor.
 
-7. En cas de règlement judiciaire ou de liquidation des biens du redevable, ou d'un tiers tenu légalement au paiement des sommes visées au 1, le Trésor ou son subrogé ne peut exercer son privilège pour les créances qui étaient soumises à titre obligatoire à la publicité prévue aux 1 à 5 et dont l'inscription n'a pas été régulièrement requise à l'encontre du redevable.
+7. En cas de redressement judiciaire du redevable ou d'un tiers tenu légalement au paiement des sommes visées au 1, le Trésor ou son subrogé ne peut exercer son privilège pour les créances qui étaient soumises à titre obligatoire à la publicité prévue aux 1 à 5 et dont l'inscription n'a pas été régulièrement requise à l'encontre du redevable.
 
 8. Les inscriptions prises en application des 1 à 5 se prescrivent par quatre ans, sauf renouvellement.
 
