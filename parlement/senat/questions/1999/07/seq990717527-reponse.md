@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990717527
+
+- Question : [SEQ990717527](seq990717527.md) — Situation des coopérants exerçant au Mali
+
+## Réponse
+
+*Coopération, JO du 1999-08-19, page 2773*
+
+Réponse. - Le logement des coopérants au Mali est prévu par l'accord général de coopération technique du 2 février 1962 mais il représente une charge très lourde pour l'Etat malien en raison de la conjoncture économique et financière. Contraint par un arrêt du Conseil d'Etat de se substituer aux Etats défaillants, le département s'est engagé dans une politique de prise en charge des dépenses, soit par des subventions budgétaires, soit par des crédits d'appui gérés par les services de coopération et d'action culturelle. C'est ainsi qu'une convention d'aide budgétaire pour la période du 1er avril 1999 au 31 mars 2000 est actuellement en cours de signature afin de permettre le versement aux assistants techniques d'une indemnité forfaitaire de logement. Dans ce contexte, la constitution d'une association privée, sans apporter une solution d'ensemble et sous réserve du respect de la réglementation locale, peut contribuer à une bonne gestion de ce dossier. La possibilité enfin pour les assistants techniques d'être exonérés des droits de douane pour l'achat de groupes électrogènes doit être négociée sur place auprès des autorités maliennes compétentes, en application de l'accord de coopération du 2 février 1962 précité. En ce qui concerne le régime de congé, il est précisé d'une part que la prise en compte des services est conforme aux dispositions du décret nº 92-1331 et d'autre part que les fonctions des coopérants techniques dans les secteurs de l'enseignement ont évolué vers des tâches de conseil et d'expertise, prévues dans leurs lettres de mission, qui justifient leur présence pendant les vacances scolaires et l'application du régime de congés annuels.
