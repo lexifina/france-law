@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030507597
+
+- Question : [SEQ030507597](seq030507597.md) — Enseignement français en Côte d'Ivoire
+
+## Réponse
+
+*Affaires étrangères, JO du 2005-03-24, page 826*
+
+Complétant la réponse qu'il avait apportée sur ces points lors des événements survenus en 2003 en Côte d'Ivoire, le ministre des affaires étrangères confirme qu'à cette période, et compte tenu des prévisions établies, la remontée des effectifs avait conduit à maintenir ouverts les établissements d'Abidjan, de San Pedro et de Yamoussoukro. L'accueil des élèves était principalement assuré par des personnels résidents puis, à compter de la rentrée scolaire 2004, par des personnels expatriés. Cet encadrement a permis de rouvrir la filière STT ; en revanche le faible nombre de candidats en BEP ne justifiait pas la mise en place de cette section, présente par ailleurs au Cours Lamartine d'Abidjan. Les enseignants contraints de regagner la France ont bénéficié, qu'ils soient expatriés ou résidents, d'une prise en charge de leur voyage de retour, d'un billet d'avion aller-retour vers la Côte d'Ivoire afin de procéder à leur déménagement ou à la vente sur place de leurs effets personnels, d'une indemnité de changement de résidence pour les agents expatriés et d'une indemnité spécifique pour les personnels résidents qui ne pouvaient prétendre à cette aide, indemnité dont le principe avait été retenue à l'issue d'une concertation interministérielle. Par ailleurs, l'Agence pour l'enseignement français à l'étranger s'était engagée à aider financièrement les établissements confrontés à des situations financières délicates à faire face aux frais de licenciement des personnels et aux coûts liés à leur reprise d'activité. Au regard des circonstances, et bien que sa vocation ne soit pas de compenser les aléas financiers des établissements conventionnés, elle avait veillé à ce que ces derniers soient placés dans des conditions normales permettant la scolarisation des élèves.
