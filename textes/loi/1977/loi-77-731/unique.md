@@ -33,3 +33,7 @@ Décret n° 71-876 du 26 octobre 1971 instituant un comité de développement de
 Décret n° 73-31 du 4 janvier 1973 relatif à la commercialisation de la pomme de terre de conservation ;
 
 Les dispositions des articles 2 et 3 du décret n° 75-1365 du 31 décembre 1975 instituant une taxe parafiscale destinée à favoriser la rénovation de l'imprimerie de labeur, en ce qu'elles créent un comité de gestion de cette taxe parafiscale, et précisent ses attributions et sa capacité.
+
+- décret n° 63-575 du 11 juin 1963 portant création d'un comité interprofessionnel du gruyère de Comté ;
+
+- décret n° 65-94 du 9 février 1965 portant création d'un comité interprofessionnel des fromages produits dans le département du Cantal et dans l'aire géographique de l'appellation d'origine Cantal.
