@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940204682
+
+- Question : [SEQ940204682](seq940204682.md) — Double imposition de certains travailleurs frontaliers
+
+## Réponse
+
+*Budget, JO du 1994-04-21, page 944*
+
+Réponse. - La Convention fiscale entre la France et la Belgique du 10 mars 1964 prévoit que les salaires sont imposables exclusivement dans l'Etat sur le territoire duquel s'exerce l'activité personnelle source de ces revenus. Toutefois, le droit d'imposer les salaires n'appartient qu'à l'Etat de résidence du salarié lorsque la durée du séjour de ce dernier dans l'autre Etat n'excède pas 183 jours au cours de l'année civile, que sa rémunération est supportée par un employeur établi dans l'Etat de résidence et n'est pas à la charge d'un établissement stable de cet employeur situé dans l'autre Etat. En outre, l'article 24 de la convention précitée autorise les autorités compétentes à se concerter pour régler les difficultés d'application de la convention et lorsqu'elles sont saisies par les contribuables de demandes d'ouverture de procédure amiable pour éliminer les doubles impositions éventuelles. Dans le cas évoqué par l'honorable parlementaire, l'autorité compétente française a saisi l'autorité compétente belge pour lui demander notamment de prendre les mesures nécessaires pour surseoir au recouvrement des impositions litigieuses et ouvrir la procédure amiable, pour les contribuables qui en ont déjà fait la demande. Les salariés de la société Timmser ou d'autres entreprises de la région qui subissent une double imposition peuvent demander à bénéficier de cette procédure en écrivant, s'ils ne l'ont pas encore fait, au service de la législation fiscale, sous-direction E, bureau E 1, Télédoc 568, 139, rue de Bercy, 75572 Paris Cedex 12 et en joignant à leur lettre une copie de leurs avis d'imposition français et belge.
