@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960515690
+
+- Question : [SEQ960515690](seq960515690.md) — Secteur de l'artisanat et des petites entreprises du bâtiment de la Réunion
+
+## Réponse
+
+*Outre-mer, JO du 1996-07-18, page 1855*
+
+Réponse. - La situation du BTP à la Réunion et dans les autres départements d'outre-mer est particulièrement préoccupante. Les difficultés rencontrées par les entreprises locales pour contracter une police d'assurances en garantie décennale représentent un problème qu'il convient de résoudre le plus rapidement possible. A cette fin, j'ai saisi le ministre de l'économie et des finances qui assure la tutelle des compagnies d'assurances, ainsi que le ministre de l'équipement, du logement, du transport et du tourisme. Le 25 avril dernier, une réunion de travail s'est tenue au ministère de l'équipement avec l'ensemble des représentants des administrations concernées et des organisations socioprofessionnelles du BTP en vue d'élaborer une réflexion générale sur l'application de l'assurance décennale. La constitution d'un groupe de travail a été mise en place pour l'outre-mer intitulé : " les problèmes spécifiques " aux DOM. Il s'est réuni pour la première fois le 19 juin. Il rendra ses conclusions début octobre prochain. J'ai exprimé le souhait que ce groupe de travail puisse bénéficier du soutien technique des services de ce ministère pendant toute la durée de ses travaux. J'ai insisté, compte tenu de l'urgence qui s'attache à ces problèmes, pour que ce groupe remette ses conclusions le plus tôt possible afin que puissent être mises en oeuvre rapidement les solutions appropriées. Par ailleurs, s'agissant de l'amélioration des conditions d'accès à la commande publique, les applications du plan PME-PMI permettent d'envisager un allégement du formalisme imposé actuellement, en vue d'étendre le recours aux petites et moyennes entreprises.
