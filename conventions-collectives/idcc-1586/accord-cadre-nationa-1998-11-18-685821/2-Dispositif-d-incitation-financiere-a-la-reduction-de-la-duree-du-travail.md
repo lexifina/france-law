@@ -1,9 +1,9 @@
-# Article 2 : Dispositif d'incitation financière à la réduction de la durée du travail
+# Article 2
 
-La loi du 13 juin 1998 (art. 3) prévoit deux possibilités ouvrant droit à un allègement des charges sociales à la charge de l'employeur :
+La loi du 19 janvier 2000 prévoit un allègement des cotisations sociales à la charge de l'employeur en cas de réduction négociée de la durée collective de travail à 35 heures hebdomadaires au plus (ou 35 heures hebdomadaires en moyenne sur l'année) dès lors que l'entreprise s'engage en concertation avec les partenaires sociaux à créer ou à préserver des emplois.
 
-- soit une réduction d'au moins 10 % de la durée initiale du travail portant le nouvel horaire collectif de travail à 35 heures au plus (dans le cadre hebdomadaire, mensuel ou annuel) dès lors que cette réduction permet de créer au moins 6 % d'emplois ;
+En cas de création d'emplois, les embauches en contrat de travail à durée indéterminée devront être favorisées quelle que soit la catégorie professionnelle. Il pourra être également fait appel à des contrats d'insertion par alternance afin de faciliter l'embauche des jeunes demandeurs d'emploi (cf. article 11). La réduction du temps de travail doit être l'occasion d'étudier la transformation d'emplois précaires en contrats à durée indéterminée.
 
-- soit une réduction d'au moins 15 % de la durée initiale de travail pour 9 % au moins d'embauches. Dans ce cas, l'aide est majorée.
+Les embauches prévues devront être effectuées dans un délai de 1 an à compter de la réduction effective du temps de travail, ou dans le délai fixé par accord entre les partenaires sociaux au vu des perspectives économiques de l'entreprise.
 
-Ce dispositif d'aide de l'Etat doit, en règle générale, concerner l'ensemble du personnel de l'entreprise ou de l'établissement. Il est mis en oeuvre à l'initiative des entreprises par accord d'entreprise ou d'établissement. L'aide est subordonnée à la conclusion d'une convention entre l'entreprise et l'Etat.
+Le montant de cet allègement des cotisations sociales est calculé chaque mois civil, pour chaque salarié, en fonction décroissante de la rémunération et dans la limite d'un minimum. Il est déterminé par décret.

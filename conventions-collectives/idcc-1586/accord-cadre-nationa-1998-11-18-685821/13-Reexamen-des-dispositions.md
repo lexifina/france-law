@@ -1,5 +1,3 @@
-# Article 13 : Réexamen des dispositions
+# Article 13
 
-Les partenaires sociaux conviennent de se rencontrer fin 1999 après parution des textes législatifs et réglementaires attendus à l'automne 1999 concernant les modalités de mise en oeuvre et d'accompagnement de la baisse de la durée légale du travail, afin qu'il en soit éventuellement tenu compte par voie d'avenant.
-
-En cas de modification importante ou de non-reconduction des dispositions de la loi n° 98-461 du 13 juin 1998, les signataires réexamineront aussitôt l'ensemble des dispositions du présent accord.
+En cas de modification des dispositions de la loi du 19 janvier 2000 qui rendrait une disposition quelconque du présent accord, ou de non-extension du présent avenant, des négociations s'ouvriraient en vue d'examiner les possibilités d'adapter celui-ci aux nouvelles conditions de la législation.
