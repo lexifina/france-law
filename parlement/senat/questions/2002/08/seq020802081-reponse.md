@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020802081
+
+- Question : [SEQ020802081](seq020802081.md) — Accueil des jeunes enfants handicapés mentaux
+
+## Réponse
+
+*Personnes handicapées, JO du 2003-05-22, page 1702*
+
+Face aux importantes listes d'attente de placement en établissements, le Gouvernement entend accroître l'offre d'accueil des personnes handicapées sur l'ensemble du territoire pour répondre aux besoins de la population. Ainsi, sont prévus le doublement de la tranche 2003 du plan pluriannuel de création de places pour adultes lourdement handicapés (1999-2003), le renforcement des mesures du plan triennal en faveur des enfants, des adolescents et des adultes handicapés (2001-2003) et le développement du dispositif de soutien à domicile des personnes très lourdement handicapées. Pour 2003, le doublement de l'enveloppe nationale du plan pour adultes lourdement handicapés. dont le montant s'élève à 70,12 MEUR de crédits d'assurance maladie et à 30 MEUR de crédits d'Etat, correspond à un objectif de 2 200 places nouvelles de MAS et de FAM et de 3 000 places nouvelles de CAT. L'enveloppe de crédits concernant les enfants, les adolescents et les adultes handicapés (SESSAD, enfants polyhandicapés, autistes et traumatisés crâniens) prévue dans le cadre du plan triennal est, quant à elle, portée en 2003, au plan national, à 48,70 MEUR. L'enveloppe SESSAD, d'un montant de 40,59 MEUR sur les trois années du plan, permettra, à terme, la création d'au moins 2 392 places de SESSAD. Le plan triennal prévoit également une enveloppe spécifique de 9,15 MEUR pour financer des créations et des extensions de centres d'action médico-sociale précoce (CAMSP). Les crédits de 2001 et de 2002 ont déjà permis de financer 26 projets CAMSP sur l'ensemble du territoire. L'ensemble de ces mesures devrait permettre une amélioration de la prise en charge des personnes handicapées et, notamment, de celles atteintes d'un handicap mental.
