@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030407148
+
+- Question : [SEQ030407148](seq030407148.md) — Nombre de suppressions programmées de passages à niveau
+
+## Réponse
+
+*Équipement, JO du 2003-07-17, page 2303*
+
+Quarante-six passages à niveau préoccupants au titre de la sécurité ont été supprimés depuis la mise en oeuvre, en 1998, de la politique initiée pour mettre en sécurité ce type d'équipement. Pour l'avenir, Réseau ferré de France souhaite remplacer douze à quinze passages à niveau par an par la construction d'ouvrages d'art dans le cadre d'une politique menée avec l'Etat et les collectivités territoriales gestionnaires de voiries. L'Etat et RFF consacrent, chaque année, 15 millions d'euros à la politique d'amélioration de la sécurité aux passages à niveau. Les participations des collectivités territoriales, gestionnaires des voiries routières, viennent compléter le financement de ces actions. Au total, près de 50 millions d'euros sont consacrés chaque année, par les collectivités publiques, à des opérations de suppression des passages à niveau ou d'amélioration de leur sécurité. Les études de suppression en cours portent sur quarante passages à niveau. Les avant-projets d'études pour 2003 concernent une cinquantaine de ces équipements. Il apparaît cependant difficile de fournir la liste des passages à niveau qui vont être supprimés dans les cinq prochaines années. Leur suppression effective est en effet subordonnée aux négociations à mener entre les différents partenaires concernés. Une lettre-circulaire du 12 mai dernier demande, à cet effet, aux préfets de réunir les différentes collectivités territoriales intéressées afin d'examiner en liaison avec les services locaux de l'Etat, de RFF et de la SNCF la situation des passages à niveau jugés préoccupants au regard de la sécurité et de parvenir à un accord sur les équipements à traiter en priorité et sur les moyens à y consacrer.
