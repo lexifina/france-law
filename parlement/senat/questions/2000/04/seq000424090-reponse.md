@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000424090
+
+- Question : [SEQ000424090](seq000424090.md) — Alternance politique au Sénégal
+
+## Réponse
+
+*Coopération, JO du 2000-07-20, page 2567*
+
+Réponse. - Si la question des améliorations à apporter au statut de ressortissants sénégalais résidant en France a pu être abordée dans le cadre de la campagne pour la récente élection présidentielle au Sénégal, elle n'a donné lieu depuis lors à aucune intervention officielle auprès des autorités françaises. Très attaché aux liens étroits d'amitié et de coopération qui unissent la France et le Sénégal, le Gouvernement français a bien entendu le souci que la communauté sénégalaise installée en France puisse bénéficier de conditions de vie et d'assimilation aussi satisfaisantes que possible. Les ressortissants sénégalais résidant en France ne sont toutefois plus susceptibles désormais de faire l'objet d'un traitement dérogatoire au droit commun au regard des dispositions législatives ou réglementaires concernant le statut des étrangers. La France a entrepris de renégocier entre 1991 et 1996 les accords en matière de circulation/séjour et d'établissement passés avec les pays d'Afrique francophone après leur indépendance. Cette actualisation était devenue indispensable en raison de l'évolution de notre réglementation (ordonnance de 1945 modifiée) et de nos engagements internationaux (accords de Schengen). S'agissant précisément du Sénégal, la nouvelle convention de circulation et de séjour a été signée à Dakar le 1er août 1995 et une nouvelle convention d'établissement a été signée à Paris le 25 mai dernier, à l'occasion de la visite en France du Président Wade. Enfin, dans le même temps, une convention de codéveloppement entre la France et le Sénégal a été signée afin de favoriser la fluidité de la circulation entre la France et le Sénégal, dans le cadre de projets uvrant notamment au développement.
