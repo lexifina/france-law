@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040913923
+
+- Question : [SEQ040913923](seq040913923.md) — Difficultés rencontrées par les artisans du bâtiment dans le cadre de l'application de la loi n° 78-12 sur l'assurance construction
+
+## Réponse
+
+*Équipement, JO du 2005-01-13, page 110*
+
+L'article 40 du projet de loi habilitant le Gouvernement à simplifier le droit, adopté le 18 novembre 2004 par le Parlement et soumis actuellement au Conseil constitutionnel, autorise le Gouvernement à prendre, pendant un délai de six mois, par ordonnance, des mesures attendues par l'ensemble des acteurs de la construction. L'article 40 de ce projet, qui définit le champ des réformes que contiendra l'ordonnance sur l'assurance-construction, a pour objectif de clarifier et de délimiter plus rigoureusement le champ de l'assurance-construction en introduisant en particulier une liste d'ouvrages non soumis aux obligations d'assurances édictées par les articles L. 241-1, L. 241-2 et L. 242-1 du code des assurances. Cet article impose également aux assureurs de proposer une assurance facultative des dommages causés à des ouvrages existants par des travaux nouveaux soumis à l'obligation d'assurance. Le régime de responsabilité des sous-traitants sera également modifié dans une optique d'harmonisation. Le point de départ et le délai de prescription de la responsabilité des sous-traitants seront alignés sur le régime des constructeurs. Le Gouvernement souhaite ainsi sécuriser les relations juridiques entre les différents acteurs (constructeurs, assureurs et consommateurs) de l'assurance-construction pour assurer un meilleur équilibre économique de ce régime. Ces mesures ont fait l'objet, depuis 1996, d'une longue concertation au sein de la commission technique de l'assurance-construction, à laquelle a participé, entre autres, la confédération de l'artisanat et des petites entreprises du bâtiment. L'ordonnance devrait être adoptée dans les prochains mois.
