@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920822385
+
+- Question : [SEQ920822385](seq920822385.md) — Rapport sur la politique énergétique française
+
+## Réponse
+
+*Industrie, JO du 1992-10-22, page 2391*
+
+Réponse. - Les perspectives de croissance de la demande de transport, le risque de saturation du réseau routier, l'émergence des problèmes d'environnement donnent à la question des transports une acuité nouvelle. L'Agence internationale de l'énergie, dans son rapport consacré à la France, souligne que " la réduction de l'utilisation des produits pétroliers dans le secteur des transports est un problème que la France partage avec tous les pays de l'OCDE ". La mission interministérielle sur l'effet de serre, lors de sa réunion inaugurale du 21 juillet dernier, fait de la réduction des émissions de gaz carbonique par le secteur des transports l'une de ses toutes premières priorités et a envisagé différents types de mesures. La plupart de celles-ci, qu'elles concernent la fiscalité des transports et les péages autoroutiers, le développement du transport combiné et des transports urbains collectifs, la multiplication des plans de circulation dans les grandes agglomérations ou encore la réglementation relative aux véhicules, relèvent largement de la compétence du ministre de l'équipement, du logement et des transports. Le ministère de l'industrie et du commerce extérieur s'attachera à ce que les impératifs de la politique énergétique, notamment la réduction de notre dépendance vis-à-vis des importations de pétrole et le développement des utilisations d'énergies qui n'émettent pas de gaz à effet de serre, soient pris en compte dans les choix que fera le Gouvernement sur ce sujet. Le ministre de l'environnement et le ministre de l'industrie et du commerce extérieur ont par ailleurs signé, en juillet dernier, un accord cadre avec EDF et les constructeurs automobiles pour le développement du véhicule électrique.
