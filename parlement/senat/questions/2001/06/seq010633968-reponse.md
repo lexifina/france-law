@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010633968
+
+- Question : [SEQ010633968](seq010633968.md) — Déductibilité fiscale des cotisations d'assurances agricoles complémentaires
+
+## Réponse
+
+*Économie, JO du 2001-10-11, page 3268*
+
+Les exploitants agricoles soumis à un régime réel d'imposition peuvent déduire de leur bénéfice agricole imposable les primes d'assurances facultatives prévues à l'article L. 752-22 du code rural, souscrites en vue d'obtenir, en cas d'accidents ou de maladies spécifiquement professionnels, le paiement d'indemnités journalières ou de rentes. Corrélativement, les indemnités ou rentes perçues en exécution de ces contrats doivent être prises en compte pour la détermination des résultats. En revanche, les primes d'assurances facultatives souscrites par les exploitants agricoles en vue de se garantir contre les accidents de la vie privée ne sont pas déductibles et les indemnités ou rentes perçues en exécution de ces contrats ne sont pas imposables. Enfin, l'article 55 de la loi n° 97-1051 du 18 novembre 1997 d'orientation sur la pêche maritime et les cultures marines a mis en place un régime complémentaire facultatif d'assurance vieillesse pour les chefs d'exploitation ou d'entreprise agricole qui relèvent du régime d'assurance vieillesse des travailleurs non salariés agricoles, leur conjoint et les membres de leur famille participant à l'exploitation qui sont affiliés à ce même régime. Il s'agit de contrats d'assurance de groupe souscrits en vue du paiement d'une retraite complémentaire garantissant un revenu viager. L'article 154 bis-0A du code général des impôts prévoit que les cotisations versées au titre de ces contrats sont déductibles du bénéfice imposable dans la limite de 7 % d'une somme égale à trois fois le plafond visé à l'article L. 241-3 du code de la sécurité sociale en vigueur au 1er janvier de l'année au cours de laquelle l'exercice comptable est clos (37 674 francs
