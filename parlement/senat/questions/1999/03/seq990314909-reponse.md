@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990314909
+
+- Question : [SEQ990314909](seq990314909.md) — Création d'un " groupe de contact " réunissant des responsables de rédaction des chaînes de télévision et des magistrats
+
+## Réponse
+
+*Culture, JO du 1999-08-19, page 2775*
+
+Réponse. - Le Conseil supérieur de l'audiovisuel, conformément aux compétences qui lui sont dévolues par la loi du 30 septembre 1986, est le garant du respect des textes législatifs et réglementaires applicables aux diffuseurs publics et privés, ainsi que des engagements particuliers que ces derniers ont souscrits. A ce titre, il est habilité à veiller à ce que l'exercice de la liberté d'expression par les éditeurs de services de communication audiovisuelle ne porte pas atteinte aux droits fondamentaux de la personne. Préoccupé par les modalités de traitement de l'information diffusée par les chaînes de télévision, particulièrement pour des affaires dont la justice est saisie ou qui relèvent d'une procédure en cours, le conseil mène depuis plusieurs années une action de concertation avec les éditeurs de services de communication audiovisuelle aux fins de définir une approche déontologique portant sur la mesure et la réserve que les médias doivent observer à cet égard. C'est dans cet esprit qu'il a été amené à évoquer dans sa publication La Lettre du CSA de février 1998 la création sous son égide d'un " groupe de contact " réunissant des responsables des rédactions et des magistrats pour examiner les situations litigieuses. L'autorité indépendante n'a pas, depuis lors, concrétisé cette piste de réflexion mais a réaffirmé sa volonté de rester attentive à ce que les dossiers judiciaires soient relatés par les médias avec la rigueur et la sérénité qui s'imposent. Privilégiant le cadre de l'autorégulation, elle poursuit actuellement avec les représentants des chaînes des rencontres régulières qui devraient leur permettre de prendre la mesure de leurs engagements éditoriaux à ce sujet.
