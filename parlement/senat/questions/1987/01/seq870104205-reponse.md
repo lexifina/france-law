@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870104205
+
+- Question : [SEQ870104205](seq870104205.md) — Suppression du plan de revalorisation de carrière des infirmiers scolaires
+
+## Réponse
+
+*Éducation, JO du 1987-02-12, page 214*
+
+Réponse. -Les infirmiers et infirmières de santé scolaire appartiennent au corps particulier d'infirmiers et d'infirmières du ministère de l'éducation nationale prévue à l'article 3 du décret n° 84-99 du 10 février 1984 qui fixe les dispositions statutaires applicables aux infirmiers et infirmières occupant un emploi permanent à temps complet dans les services médicaux des administrations centrales de l'Etat, des services extérieurs qui en dépendent et des établissements publics de l'Etat. Ce corps classé dans la catégorie B comporte deux grades : celui d'infirmier et d'infirmière et celui d'infirmier et d'infirmière en chef à la différence du corps des personnels infirmiers des hôpitaux militaires, des services extérieurs de l'administration pénitentiaire et des hôpitaux psychiatriques à qui des statuts particuliers accordent un troisième grade au sein de la catégorie B. La mesure souhaitée en faveur des infirmiers et des infirmières du ministère de l'éducation nationale ne pourrait être mise en oeuvre isolément, mais devrait également s'appliquer aux autres corps d'infirmiers et d'infirmières régis par le même décret n° 84-99 du 10 février 1984, et de ce fait, relèverait de l'initiative du ministre des affaires sociales et de l'emploi. Malgré le contexte budgétaire actuel, visant à réduire les dépenses de l'Etat et à diminuer le déficit budgétaire et le montant des prélèvements fiscaux, la loi de finances pour 1987 comporte, au titre des mesures nouvelles, un crédit de 1 235 057 francs qui permettra la création de 141 emplois d'infirmiers et d'infirmières et de 12 emplois d'infirmiers chefs et d'infirmières chefs à la suite de la suppression d'emplois d'adjointes de santé scolaire dont le corps est en voie d'extinction.
