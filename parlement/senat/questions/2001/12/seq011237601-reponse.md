@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011237601
+
+- Question : [SEQ011237601](seq011237601.md) — Augmentation des crédits pour l'INAO
+
+## Réponse
+
+*Agriculture, JO du 2002-04-11, page 1043*
+
+L'Institut national des appellations d'origine (INAO) est un établissement public à caractère administratif, a multiplié son budget par 2,5 et a plus que doublé ses effectifs depuis 1990, date à laquelle la loi lui a confié des attributions nouvelles dans les secteurs des produits laitiers et des produits agroalimentaires. Cet effort budgétaire a été poursuivi du fait de l'extension des compétences de l'INAO, par la loi d'orientation agricole de juillet 1999, aux produits bénéficiant d'une indication géographique protégée (IGP). En conséquence, la subvention de l'Etat est passée entre 1990 et 2002 de 5,046 millions d'euros à 13,644 millions d'euros, et représente, à ce jour, environ 75 % du budget total de l'INAO. Pour la seule année 2002, le montant de la subvention de l'Etat a augmenté de plus de 9 % par rapport au montant de la subvention versée au titre de l'année 2001. En outre, au cours de l'année 2001, un projet de plan triennal, de 2002 à 2004, avait été élaboré en concertation avec les présidents de l'INAO, portant sur les missions et les moyens de l'établissement, mais celui-ci a été contesté par la Confédération nationale des producteurs des vins et eaux de vie à appellation d'origine (CNAOC). Toutefois, les pouvoirs publics restent disposés à mettre en oeuvre, avec les professionnels concernés et le personnel de l'INAO, un plan pluriannuel sur les missions et les moyens de l'INAO. En effet, compte tenu de l'importance des productions dont il a la charge, tant sur le plan économique que sur celui de l'aménagement du territoire, l'INAO doit être en mesure de mettre en oeuvre la politique de développement des productions à AOC et à IGP, telle que l'a voulue le législateur.
