@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701871
+
+- Question : [SEQ970701871](seq970701871.md) — Conséquences pour la France de l'adhésion d'Euratom à l'organisation pour le développement énergétique de la péninsule coréenne
+
+## Réponse
+
+*Économie, JO du 1997-09-25, page 2545*
+
+Réponse. - L'organisation pour le développement énergétique de la péninsule coréenne dit " KEDO " (Korean Energy Development Organization) a été créée à la suite de l'accord conclu fin 1994 entre les Etats-Unis et la Corée du Nord. Cette entité est une organisation internationale dont la mise en place effective date de mars 1995, conformément à l'accord passé entre les Etats-Unis, le Japon et la Corée du Sud. Cet accord a pour finalité de régler le problème nucléaire nord-coréen : il se propose notamment de financer et de réaliser deux tranches à eau sous pression (2 fois 1 000 MW), qui remplaceront les deux réacteurs graphite-gaz (50 MW et 200 MW), réacteurs proliférants de la Corée du Nord (désormais arrêtés). L'adhésion d'Euratom à la KEDO permet d'envisager des retombées positives sur les entreprises européennes et françaises du nucléaire. Elle leur ouvrira l'accès aux appels d'offres liées aux programmes de construction des réacteurs et aux programmes de gestion des combustibles usés nord-coréens provenant des deux réacteurs nord-coréens proliférants. Les entreprises françaises du nucléaire auront ainsi la possibilité d'exercer leurs compétences, en particulier dans le domaine de la gestion des combustibles usés et des déchets, et de participer au développement de la sûreté dans les installations nord-coréennes. Par ailleurs, et au-delà de l'adhésion de l'UE à la KEDO, la France a annoncé qu'elle apportera directement en bilatéral une aide à la KEDO, sous forme de contribution en nature, et a déjà fait des propositions concrètes en ce sens.
