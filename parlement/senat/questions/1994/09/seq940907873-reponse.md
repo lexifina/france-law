@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940907873
+
+- Question : [SEQ940907873](seq940907873.md) — Situation des accédants bénéficiaires de l'allocation logement sociale (ALS)
+
+## Réponse
+
+*Logement, JO du 1994-12-29, page 3098*
+
+Réponse. - Le décret no 92-1015 du 23 septembre 1992 a instauré un montant minimum de ressources pour le calcul de l'allocation de logement sociale ou familiale des personnes accédant à la propriété. Il est égal à 39 078 francs depuis le 1er octobre 1994. Ainsi, dans le cas où les ressources (revenu imposable) du bénéficiaire sont inférieures à 39 078 francs, le calcul de son allocation de logement est effectué sur la base de ce montant. Ce montant a pour objectif de dissuader les opérations d'accession à la propriété qui reposeraient sur des revenus insuffisants pour se réaliser dans de bonnes conditions. Toutefois, à l'occasion de l'actualisation des barèmes des aides personnelles au logement, le Gouvernement a décidé d'assouplir les dispositions de ce décret en ce qui concerne le calcul de l'allocation de logement des propriétaires occupants effectuant des travaux d'amélioration ou de mise aux normes de leurs logements, afin de répondre à leur situation spécifique. Le décret no 94-982 du 14 novembre 1994 modifiant le code de la sécurité sociale et relatif à la revalorisation des allocations de logement paru au Journal officiel du 16 novembre 1994 institue ainsi pour ces personnes un montant minimum forfaitaire de ressources, spécifique, égal à 20 000 francs nettement inférieur à celui applicable aux accédants à la propriété. Il permet ainsi à des personnes propriétaires disposant de ressources faibles de mener à bien un projet de mise aux normes de leur logement en augmentant sensiblement le montant de l'aide à laquelle ils peuvent prétendre. Cette disposition est applicable pour les prêts contractés à compter du 1er octobre 1994.
