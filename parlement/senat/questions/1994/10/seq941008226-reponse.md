@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941008226
+
+- Question : [SEQ941008226](seq941008226.md) — Avenir de l'octroi de mer
+
+## Réponse
+
+*Départements et territoires d'Outre-mer (DOM-TOM), JO du 1995-01-19, page 139*
+
+Réponse. - L'arrêt Lancry du 9 août 1994 confirme la jurisprudence de l'arrêt Legros rendu par la Cour de justice des Communautés européennes le 16 juillet 1992. Il ressort de ces arrêts que l'octroi de mer est assimilé à une taxe d'effet équivalant à une taxe douanière et qu'aucune disposition du traité ne permet de déroger à la prohibition générale d'une telle taxe. L'arrêt Legros limitait cependant les droits à restitution des taxes acquittées aux seuls plaideurs ayant, avant la date de l'arrêt, introduit un recours en justice tendant à obtenir remboursement ou soulevé une réclamation équivalente. L'arrêt Lancry précise que la décision par laquelle le Conseil des Communautés européennes a autorisé la République française à maintenir jusqu'au 31 décembre 1992 le régime en vigueur lors de l'adoption de cette décision est contraire au traité de Rome. Il en découle que l'octroi de mer perçu entre le 16 juillet 1992 et le 31 décembre 1992 doit être remboursé aux personnes qui l'ont acquitté et supporté. La loi du 17 juillet 1992, applicable à compter du 1er janvier 1993, pose le principe de l'assujettissement des introductions comme des productions intérieures. La nature de l'octroi de mer est donc modifiée. Cependant, et bien que le dispositif soit prévu pour une durée de dix ans, le Gouvernement partage les préoccupations de l'honorable parlementaire et engage actuellement une réflexion interministérielle sur les réformes à mettre en oeuvre pour remplacer l'actuel octroi de mer par un régime mieux adapté à la logique communautaire. Il ne manquera pas, le moment venu, d'associer les élus locaux comme les milieux professionnels à cette réflexion.
