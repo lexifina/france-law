@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990516126
+
+- Question : [SEQ990516126](seq990516126.md) — Réforme des fonds structurels et département des Deux-Sèvres
+
+## Réponse
+
+*Aménagement du territoire, JO du 2000-03-16, page 952*
+
+Réponse. - La ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, des questions concernant l'éligibilité du département des Deux-Sèvres à l'objectif 2 des fonds structurels. La Commission européenne, au titre de l'article 4 du règlement communautaire portant dispositions générales pour la mise en uvre des fonds structurels, établit la liste des départements qui répondent aux critères d'éligibilité fixés par ce même article. Le département des Deux-Sèvres, qui ne remplit pas les conditions exigées, ne figure pas dans cette liste. Pour autant, cela ne signifie nullement qu'aucun territoire du département des Deux-Sèvres ne peut être éligible. En effet, la seule contrainte réglementaire est que, sur le plafond de population éligible dont bénéficie la France au titre de l'objectif 2, soit 18 678 000 habitants, 50 % au moins doivent être situés dans les départements admissibles. Ainsi, 50 % au plus, mais ne n'est pas négligeable, de la population éligible peut être située en dehors de ces départements admissibles. La proposition de zonage présentée par le Gouvernement français à la Commission européenne le 18 novembre 1999 s'appuie sur les travaux conduits en région sous l'autorité des préfets de région et après consultation des partenaires régionaux, notamment réunis au sein de la conférence régionale d'aménagement et de développement du territoire (CRADT). La Commission a, dans sa réunion du 18 janvier 2000, pris, à l'égard de la France, une décision de principe en faveur du zonage objectif 2 qui comprend, pour le département des Deux-Sèvres, 114 899 habitants éligibles au titre de l'objectif 2 et 129 610 habitants éligibles au titre des zones en transition.
