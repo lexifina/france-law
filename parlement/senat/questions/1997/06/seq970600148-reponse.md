@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970600148
+
+- Question : [SEQ970600148](seq970600148.md) — Réorganisation de la carte judiciaire
+
+## Réponse
+
+*Justice, JO du 1997-08-21, page 2174*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire qu'un dispositif de consultation nationale de la carte judiciaire avait été mis en place par son prédécesseur puis suspendu pendant la période électorale. Dans ce cadre, il était demandé aux chefs de cour et de juridiction ainsi qu'aux préfets de procéder à de larges consultations et de présenter, à partir du diagnostic de chaque situation locale dressé en tenant compte de tous les paramètres possibles, des propositions d'adaptation de la carte judiciaire quand elles apparaissaient souhaitables. Dans la ligne des orientations fixées par le Premier ministre dans sa déclaration de politique générale du 19 juin 1997, il est prévu de moderniser le fonctionnement du service public de la justice, dont l'évolution de la carte judiciaire constitue un élément essentiel. L'objectif prioritaire est de faciliter l'accès des citoyens au droit et leur accueil dans les tribunaux, en favorisant les réponses de proximité. L'amélioration de l'efficacité de la justice, tout en préservant sa qualité, doit se conjugeur avec cette nécessaire modernisation qui implique la simplification et l'accélération des procédures et la mise en place de nouveaux modes de traitement des affaires. C'est dans cet esprit qu'il a été demandé aux chefs de cour et aux préfets de poursuivre la consultation sur la carte judiciaire et, dans le souci d'apporter les réponses le plus adaptées aux besoins des justiciables, d'ajouter aux interlocuteurs déjà rencontrés les représentants des associations directement concernées par le fonctionnement de la justice.
