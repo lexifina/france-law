@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981111901
+
+- Question : [SEQ981111901](seq981111901.md) — Montant de l'allocation pour adultes handicapés
+
+## Réponse
+
+*Économie, JO du 1999-01-14, page 123*
+
+Réponse. - Le montant mensuel de l'allocation pour adultes handicapés (AAH), fixé à 3 470,91 francs pour une personne seule depuis le 1er janvier 1998, est égal au douzième du monant global de l'allocation aux vieux travailleurs salariés et de l'allocation supplémentaire du Fonds national de solidarité (minimum vieillesse) en vigueur durant la période d'ouverture des droits, en application de l'article D.821-3 du code de la sécurité sociale. Il est donc automatiquement révisé lorsque le minimum vieillesse est revalorisé, c'est-à-dire généralement par indexation sur l'évolution prévisionnelle des prix hors tabac. Ces règles de revalorisation ont permis de maintenir et même d'accroître le pouvoir d'achat (montant de l'allocation rapporté à l'indice des prix à la consommation) de la prestation, qui a crû de 23,3 % de 1980 à 1998. En termes relatifs, l'allocation, qui correspondait à 62,3 % du salaire minimum interprofessionnel de croissance (SMIC) mensuel net en 1980 et à 68 % (et non 78 %) en 1984, est aujourd'hui équivalente à 64,4 % du SMIC mensuel net. Cette évolution est la traduction des revalorisations favorables dont a bénéficié le SMIC depuis deux ans et non d'une perte de pouvoir d'achat de l'AAH. De plus, depuis 1993, un complément d'AAH, d'un montant de 555 francs en 1998, versé aux allocataires vivant de façon autonome à leur domicile, permet de compléter les ressources d'un grand nombre d'allocataires. Enfin, l'AAH devrait bénéficier en 1999 d'une revalorisation de 2 % (supérieure de 0,8 à l'inflation prévisionnelle) compte tenu de la revalorisation du minimum vieillesse envisagée dans le cadre du projet de loi de financement de la sécurité sociale.
