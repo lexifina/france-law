@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970902860
+
+- Question : [SEQ970902860](seq970902860.md) — Développement des scooters électriques
+
+## Réponse
+
+*Industrie, JO du 1998-02-05, page 404*
+
+Réponse. - Le scooter électrique présente de nombreux avantages du point de vue du respect de l'environnement urbain ; il est peu bruyant et n'émet pas de polluant atmosphérique. Si son autonomie est limitée par la capacité des batteries qu'il emporte, celle-ci suffit pour la plupart des usages urbains. Le secrétaire d'Etat à l'industrie, qui est attaché au développement de véhicules urbains respectueux de l'environnement, soutient le démarrage de la filière électrique, voitures et scooters et celle des véhicules à gaz. Ce démarrage est aujourd'hui une réalité grâce aux importants efforts de recherche menés par les constructeurs français avec l'appui des pouvoirs publics dans le cadre du programme Predit de recherche dans les transports terrestres qui leur ont permis d'être les premiers à mettre sur le marché des véhicules électriques, voitures et scooters. Le marché du scooter électrique est, certes, modeste actuellement en comparaison du marché du scooter thermique. Il convient de noter que bien que l'offre de scooters électriques n'existe que depuis un peu moins d'une année en France, environ 800 scooters ont été livrés par les constructeurs français pendant cette période. Ces efforts se poursuivent, notamment sur les batteries, avec des financements significatifs. La perspective de batteries plus performantes, permettant à poids égal une plus grande autonomie du véhicule, s'accompagnera d'une ouverture du marché. Avec celle-ci le coût unitaire de l'ensemble des batteries nécessaires pur chaque véhicule se réduira. L'acquisition de scooters électriques par le public sera plus attractive, d'autant que l'électricité utilisée pour la recharge des batteries est moins coûteuse qu'un carburant ordinaire.
