@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870405497
+
+- Question : [SEQ870405497](seq870405497.md) — Personnel des collectivités territoriales
+
+## Réponse
+
+*Fonction publique, JO du 1987-05-21, page 814*
+
+Réponse. -Les conditions d'évolution des rémunérations des fonctionnaires en 1987 ont fait l'objet de négociations entre les représentants de l'ensemble des organisations syndicales représentatives des fonctionnaires et le ministre délégué auprès du Premier ministre, chargé de la fonction publique et du Plan. A l'issue de ces réunions, le Gouvernement a décidé de procéder à une augmentation de 1,7 p. 100 des traitements des fonctionnaires de l'Etat et des fonctionnaires des collectivités territoriales sous forme de trois mesures générales, dont la première, à hauteur de 0,6 p. 100, a été mise en oeuvre par le décret n° 87-108 du 18 février 1987 portant majoration de la rémunération des personnels civils et militaires de l'Etat et des personnels des collectivités territoriales à compter du 1er mars 1987. Les autres mesures générales de revalorisation de 0,5 p. 100 et 0,6 p. 100 doivent intervenir respectivement le 1er août et le 1er novembre 1987. Par ailleurs,des mesures spécifiques en faveur des agents des catégories C et D seront prises qui auront pour effet de revaloriser leur carrière de façon significative. L'objectif retenu par le Gouvernement dans le domaine des rémunérations de la fonction publique en 1987 est le maintien du pouvoir d'achat moyen des agents. Les considérations relatives aux services publics locaux et en particulier au prélèvement opéré sur le budget de la Caisse nationale de retraite des agents des collectivités locales et à l'augmentation du taux de la cotisation employeurs relèvent de la compétence de M. le ministre délégué auprès du ministre de l'intérieur, chargé des collectivités locales.
