@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881202752
+
+- Question : [SEQ881202752](seq881202752.md) — Incinération des personnes décédées
+
+## Réponse
+
+*Intérieur, JO du 1989-08-10, page 1250*
+
+Réponse. - Il est fait observer à l'honorable parlementaire que des dispositions ont été prises, dans un passé récent, dans le but de faciliter l'exercice du choix d'un mode de sépulture. Certaines mesures ont, en particulier, permis de faciliter le recours, pour ceux qui le souhaitent, à l'incinération. Le décret n° 87-28 du 14 janvier 1987 modifiant les dispositions du code des communes relatives aux opérations funéraires a notamment permis de simplifier la procédure d'autorisation de crémation et de déroger, dans certains cas, aux délais imposés pour la crémation. De plus, les exigences en matière de caractéristiques des cercueils destinés à la crémation ont été assouplies et d'autres mesures ont porté sur l'accès des corps aux chambres funéraires avant crémation. Il est précisé, en outre, à l'honorable parlementaire que le ministre de l'intérieur et le secrétaire d'Etat chargé des collectivités territoriales ont engagé une réflexion d'ensemble sur les conditions d'exercice du service public des pompes funèbres. Dans le cadre de cette réflexion, une mission d'enquête et d'étude a été confiée conjointement à l'inspection générale des finances, à l'inspection générale de l'administration et à l'inspection générale des affaires sociales. Cette mission doit établir un bilan des conditions d'application de la réglementation actuelle et faire des propositions dans la perspective d'une évolution du service public des pompes funèbres. Sur la base du rapport qui sera déposé par la mission conjointe, le Gouvernement envisagera, le cas échéant, d'adapter le fonctionnement de ce service public à l'évolution de moeurs qui se traduit, notamment, par un développement du recours à la crémation.
