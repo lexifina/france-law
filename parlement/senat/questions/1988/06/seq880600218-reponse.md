@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880600218
+
+- Question : [SEQ880600218](seq880600218.md) — Intégration des personnes présentant un handicap mental léger
+
+## Réponse
+
+*Handicapés, JO du 1989-02-23, page 325*
+
+Réponse. - Les personnes handicapées qui ne possèdent pas une capacité suffisante pour exercer une activité professionnelle même en milieu protégé mais qui, néanmoins, ont une autonomie suffisante pour se livrer à des occupations quotidiennes peuvent être accueillies, après décision de la commission technique d'orientation et de reclassement professionnel, dans des foyers qui mettent en oeuvre des soutiens médico-sociaux adaptés à leur état. Ces institutions sont créées à l'initiative des départements qui, depuis les lois de décentralisation, sont responsables de l'hébergement et du maintien à domicile des personnes handicapées. La participation des personnes handicapées à leurs frais d'hébergement est fixée par la commission d'admission à l'aide sociale conformément aux dispositions du décret n° 77-1548 du 31 décembre 1977, relatif au minimum de ressources qui doit être laissé à la personne handicapée dans des établissements ; celui-ci étant modulé, selon qu'il s'agit de ressources tirées du travail, dont le tiers est laissé à leur disposition, ou d'autres ressources, dont ils ne conservent que 10 p. 100, sans que ce minimum puisse être inférieur à 1 p. 100 du montant annuel de l'allocation aux adultes handicapés. Au surplus, la commission peut décider de conditions plus avantageuses laissant à l'intéressé des ressources supérieures au minimum réglementaire pour tenir compte de sa situation et favoriser son insertion. S'il y a lieu, ce qui est le plus souvent le cas, l'aide sociale départementale prend en charge les frais de séjour dans ces établissements non couverts par la participation des handicapés.
