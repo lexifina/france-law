@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880701086
+
+- Question : [SEQ880701086](seq880701086.md) — Fonctionnement des sociétés d'économie mixte, information des organes délibérants des collectivités territoriales actionnaires
+
+## Réponse
+
+*Intérieur, JO du 1988-09-08, page 998*
+
+Réponse. - Deux types de contrôle portent sur les activités des sociétés d'économie mixte locales. La loi n° 83-597 du 7 juillet 1983 relative aux sociétés d'économie mixte locales, en son article 5, précise que les sociétés d'économie mixte doivent soumettre chaque année à l'examen des assemblées délibérantes des collectivités locales un compte rendu financier des activités qu'elles conduisent dans le cadre des conventions passées avec ces collectivités, comportant, notamment en annexe, la production et l'actualisation annuelle d'un bilan prévisionnel des opérations et d'un plan de trésorerie faisant apparaître l'échéance des recettes et des dépenses. L'assemblée délibérante de la collectivité à laquelle sont soumis ces documents, a le droit de contrôler les renseignements fournis, les agents accrédités de la collectivité pouvant se faire présenter toutes pièces de comptabilité nécessaires à leur vérification. Par ailleurs, l'article 8 mentionne que les organes délibérants des collectivités territoriales actionnaires se prononcent sur le rapport écrit qui leur est soumis, au moins une fois par an, par leurs représentants au conseil d'administration. Le rapport écrit doit porter sur la situation de la société. Sur le second point de la question posée par l'honorable parlementaire, la loi du 7 juillet 1983 prévoyant que les assemblées délibérantes des collectivités actionnaires se prononcent sur ce rapport, les informations communiquées ainsi que la position adoptée par l'assemblée délibérante doivent être rapportées dans le procès-verbal de la séance.
