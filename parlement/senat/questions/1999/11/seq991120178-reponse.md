@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991120178
+
+- Question : [SEQ991120178](seq991120178.md) — Difficultés pour les résidents australiens percevant des pensions privées de source française d'obtenir un justificatif des cotisations payées
+
+## Réponse
+
+*Emploi, JO du 2001-11-08, page 3550*
+
+L'article 17, paragraphe 5, de la convention fiscale entre la France et l'Australie du 13 avril 1976, modifiée par l'avenant du 19 juin 1989, prévoit que les cotisations payées par ou pour le compte d'un résident australien sont déductibles du revenu imposable en Australie dès lors qu'elles sont versées à une institution ou à une caisse de retraite reconnue fiscalement par la législation française, de la même façon que des cotisations payées à une institution ou caisse de retraite qui est reconnue fiscalement en Australie. Les autorités compétentes australiennes ont confirmé que les résidents d'Australie pouvaient déduire, s'agissant de l'imposition de leurs retraites, une partie des cotisations qu'ils ont versées pour leur constitution. Par ailleurs, par lettre du 25 juin 1998, les autorités françaises ont communiqué à leur homologues australiens la liste des institutions et des caisses de retraite reconnues fiscalement par la législation française. Les autorités françaises se sont donc attachées à résoudre les problèmes d'application des dispositions de la convention fiscale franco-australienne. Quant aux difficultés de communication des justificatifs des cotisations payées aux organismes français de la protection sociale, celles-ci sont en passe d'être réglées. Les procédures se sont améliorées, même si des délais subsistent, étant liés aux opérations de vérification de la concordance des versements des cotisations patronales et salariales. Ces justificatifs sont communiqués, à la demande des intéressés, au cours du second semestre qui suit l'année concernée. Ce délai n'existe pas lorsque le salarié expatrié a cotisé à titre individuel.
