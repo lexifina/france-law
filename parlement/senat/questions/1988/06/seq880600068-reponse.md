@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880600068
+
+- Question : [SEQ880600068](seq880600068.md) — Droits de scolarité ou " minerval " dus par les parents français dont les enfants sont scolarisés en Belgique
+
+## Réponse
+
+*Affaires étrangères, JO du 1988-09-29, page 1079*
+
+Réponse. - Les interventions répétées du gouvernement français, comme les arrêts successifs de la Cour de justice des communautés européennes, ont amené le ministère belge de l'éducation à assouplir, peu à peu, les dispositions légales qui imposaient, en Belgique, aux élèves et aux étudiants d'origine étrangère de verser des droits de scolarité ou d'inscription supplémentaires dénommés " minerval ". Ainsi l'exemption de ces droits est-elle désormais acquise pour l'enseignement supérieur non universitaire et l'enseignement secondaire technique et professionnel. Quant aux universités, elles en dispensent les étudiants ressortissants de la C.E.E. si, ne prétendant pas échapper au numerus clausus fixé dans leur pays d'origine, ils font la preuve qu'ils auraient pu être admis, chez eux, à poursuivre le type d'études qu'ils souhaitent entreprendre en Belgique. Pour les enfants français, des dispositions particulières les dispensent du minerval prévu pour l'enseignement préscolaire, primaire et les différents types d'enseignement secondaire non professionnels, s'ils sont frontaliers ou résidents au Luxembourg. En revanche, ils doivent toujours acquitter ces droits, pour être admis dans les classes pré-élémentaires, primaires et secondaires de type général, si leurs parents ne résident pas en Belgique ou s'ils ne sont pas frontaliers ; à ce jour, la Cour de justice des communautés européennes n'a pas été appelée à se prononcer sur des cas de cette nature. En tout état de cause, ce département ministériel saisit chaque occasion d'intervenir auprès des autorités belges pour qu'elles adoptent une attitude conforme à l'esprit de la Communauté.
