@@ -34,4 +34,6 @@ Bennes à ordures ménagères.
 
 4.7 Véhicules de radio-protection des centrales nucléaires ;
 
-4.8 Véhicules procédant au marquage des chaussées.
+4.8 Véhicules procédant au marquage des chaussées ;
+
+4.9. Véhicules et engins d'intervention des services publics de l'eau et de l'assainissement
