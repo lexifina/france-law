@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981212537
+
+- Question : [SEQ981212537](seq981212537.md) — Inscription des commerçants et artisans à la chambre de commerce et d'industrie et à la chambre des métiers
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 1999-02-25, page 627*
+
+Réponse. - La loi nº 96-603 du 5 juillet 1996 relative au développement et à la promotion du commerce et de l'artisanat a maintenu une disposition antérieure : " L'immatriculation au répertoire des métiers ne dispense pas, le cas échéant, de l'immatriculation au registre du commerce et des sociétés " (art. 19-II). Les personnes qui relèvent de cette double immatriculation, en raison de la nature de leurs activités sont donc, en principe, soumises à une double fiscalité puisqu'elles doivent s'acquitter à la fois de la taxe pour frais de chambre de métiers et de la taxe pour frais de chambre de commerce et d'industrie (IATP). Toutefois, soucieux d'alléger les charges de ces professionnels, le législateur a permis aux chefs d'entreprise individuelle d'être exonérés du montant de l'IATP, à la condition de se faire radier des listes électorales des chambres de commerce et d'industrie (art. 22 de la loi nº 89-1008 du 31 écembre 1989). Les artisans commerçants qui souhaitent bénéficier de ces dispositions doivent en faire la demande au président de la commission d'établissement des listes électorales des chambres de commerce et d'industrie en justifiant de leur inscription au répertoire des métiers. Cependant, la possibilité d'être exonéré du montant de l'IATP, offerte par la loi nº 89-1008 du 21 décembre 1989 aux personnes qui relèvent d'une double immatriculation, est en fait peu utilisée. Elle est encore peu connue des intéressés et il convient de lui accorder une plus large publicité, ce à quoi s'emploie le secrétaire d'Etat.
