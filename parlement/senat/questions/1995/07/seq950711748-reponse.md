@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950711748
+
+- Question : [SEQ950711748](seq950711748.md) — Respect des engagements de la loi de programmation militaire
+
+## Réponse
+
+*Défense, JO du 1995-09-21, page 1819*
+
+Réponse. - L'ajustement des crédits de défense prévu par la loi de finances rectificative, votée au mois de juillet dernier, recouvre d'une part une ouverture de crédits de 2,8 milliards de francs, sur le titre III, destinée à couvrir le surcoût lié aux opérations extérieures dans lesquelles nos armées sont engagées et, d'autre part, une annulation de 8,4 milliards de francs sur le titre V. Cet ajustement se situe dans le cadre de la mise en oeuvre des grands objectifs économiques et sociaux fixés par le Gouvernement et la Défense prend sa part de l'effort général demandé à l'ensemble des ministères. Il convient maintenant de tirer les conséquences de ces annulations de crédits sur les programmes en cours de réalisation. Dès la mi-septembre, le comité stratégique présidé par le ministre de la défense prendra les décisions qui s'imposent au vu des propositions qui lui seront présentées par les états-majors et la délégation générale pour l'armement. Les options majeures retenues dans l'actuelle loi de programmation seront, dans la mesure du possible, maintenues. Parallèlement à ces mesures d'ajustement, un important effort de réflexion sur l'adaptation de notre outil de défense a été engagé au sein du ministère. Sans remettre en cause les grandes orientations du Livre blanc, certains choix sur le long terme, reportés jusqu'à aujourd'hui, devront être effectués. Leurs incidences sur le format des armées, l'équipement des forces, l'adaptation de l'industrie de défense et la modernisation de la gestion des moyens mis à la disposition de forces conduiront, sur la base des décisions arrêtées en Conseil de défense, à réviser l'actuelle loi de programmation. Un projet de loi, dans ce sens, sera présenté au Parlement en juin 1996.
