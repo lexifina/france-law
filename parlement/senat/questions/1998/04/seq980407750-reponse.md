@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980407750
+
+- Question : [SEQ980407750](seq980407750.md) — Vaccination des personnels hospitaliers
+
+## Réponse
+
+*Santé, JO du 1998-12-24, page 4140*
+
+Réponse. - Aux termes de l'article R. 242-16 du code du travail, le médecin du travail attaché à l'établissement de santé dont les personnels relèvent de la fonction publique hospitalière veille à l'application des dispositions du code de la santé publique sur les vaccinations obligatoires. L'obligation de vaccination est imposée dans un but préventif de certaines maladies transmissibles. Les professionnels de santé exposés doivent tous être immunisés contre l'hépatite B, le tétanos-polio, la diphtérie et vaccinés par le vaccin antituberculeux BCG. En outre, le personnel de laboratoire doit être immunisé contre la fièvre typhoïde. Le médecin du travail a pour mission de protéger la santé des agents. Si, en absence de contre-indication concernant l'agent, l'analyse des différents postes de travail et des circonstances possibles de contamination montre un risque réel, le médecin du travail doit en informer l'employeur, qui engage sa responsabilité dans le cas où une personne non vaccinée est contaminée à l'occasion de son activité professionnelle. Dans le cas de refus de vaccination, il convient d'éclairer la personne réticente sur les risques de contamination et les avantages de la vaccination. Bien que les vaccins modernes soient bien tolérés, très efficaces et faciles à administrer, la vaccination demeure un acte médical à part entière. C'est ainsi qu'à l'occasion de la proposition de vaccinations facultatives contre la grippe ou l'hépatite A, très régulièrement organisées et prises en charge par l'établissement de santé, il appartiendra au médecin du travail d'éclairer les personnels sur l'objectif de protection individuelle et collective poursuivi au regard des bénéfices recherchés en terme de santé compte tenu des risques liés à la vaccination.
