@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920219870
+
+- Question : [SEQ920219870](seq920219870.md) — Lutte contre le chômage
+
+## Réponse
+
+*Travail, JO du 1992-08-06, page 1820*
+
+Réponse. - Le chômage de longue durée est sans doute l'un des phénomènes majeurs qui marquent le marché du travail dans la plupart des pays européens depuis quinze ans. Il est le reflet de la sélectivité du marché du travail et, à ce titre, le simple jeu du marché et de la conjoncture économique ne résoudra pas le problème posé par le chômage de longue durée : il faut une action volontaire et simultanée sur l'offre et la demande de travail. Il faut en priorité favoriser tout ce qui peut rapprocher les demandeurs d'emploi de longue durée de l'emploi et donc des entreprises. Au plan des moyens, les choix budgétaires pour 1992 traduisent cette priorité puisque 150 000 contrats de retour à l'emploi sont prévus pour faciliter ce rapprochement. Par ailleurs, l'accent mis par le ministère du travail, de l'emploi et de la formation professionnelle sur la gestion préventive de l'emploi et la qualité des plans sociaux est de nature à freiner les phénomènes d'exclusion de l'entreprise des salariés les plus âgés ou les moins qualifiés qui sont surreprésentés parmi les chômeurs de longue durée. Du côté des demandeurs d'emploi, le Gouvernement a décidé d'amplifier l'effort entrepris en début d'année sous forme d'un programme d'entretiens individuels en faveur des jeunes et des adultes chômeurs de longue durée. Ce programme est destiné à permettre à 900 000 chômeurs de longue durée de se voir proposer, lorsqu'ils sont en mesure de l'exercer, un emploi, une formation ou une activité d'intérêt général, après un entretien personnalisé et approfondi. Il s'agit d'offrir à chaque demandeur d'emploi de longue durée la solution la mieux adaptée à sa situation et de favoriser sa réintégration effective dans l'emploi.
