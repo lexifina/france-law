@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940907938
+
+- Question : [SEQ940907938](seq940907938.md) — Etude du traitement de la pédiculose
+
+## Réponse
+
+*Santé, JO du 1994-12-15, page 2977*
+
+Réponse. - Une étude de ce type a effectivement été réalisée en 1992, qui comparait l'efficacité de deux catégories de produits sur la pédiculose d'enfants scolarisés en Ile-de-France. Cette étude a bénéficié d'un financement du ministère de la santé. Ses conclusions indiquaient une moindre efficacité des produits les plus fréquemment utilisés. A la suite de ce travail, le Conseil supérieur d'hygiène publique de France, section " prophylaxie des maladies transmissibles ", a élaboré des recommandations pour le traitement de la pédiculose du cuir chevelu. Celles-ci rappelaient d'une part les modalités pratiques des traitements, et d'autre part la conduite à tenir en cas d'échec thérapeutique. Ces recommandations publiées dans le numéro du 8 novembre 1993 du Bulletin épidémiologique hebdomadaire ont été diffusées à l'ensemble des directions départementales des affaires sanitaires et sociales pour diffusion aux services de santé scolaire. Par ailleurs, les services de santé scolaire sont chargés de la sensibilisation des enfants, des familles et des enseignants à l'intérêt d'un traitement efficace des enfants infestés. Ces services réalisent des visites d'examen des enfants dans de nombreux départements. Le remboursement des traitements de la pédiculose n'est pas possible dans la mesure où les anti-pédiculicides n'ont pas statut de médicament, leur autorisation relevant de dispositions de la loi du 6 juillet 1978 sur les antiparasitaires externes. Par ailleurs, dans l'hypothèse où ces produits deviendraient des médicaments et où leur inscription sur la liste des spécialités remboursables serait acquise, leur remboursement serait conditionné à l'établissement d'une prescription médicale.
