@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508648
+
+- Question : [SEQ980508648](seq980508648.md) — Service de secrétariat dans les hôtels
+
+## Réponse
+
+*Tourisme, JO du 1998-10-08, page 3202*
+
+Réponse. - Le rapport du commissariat général du Plan et de la direction du tourisme intitulé " Réinventer les vacances, la nouvelle galaxie du tourisme " rapporte les résultats des recherches récentes françaises ou étrangères concernant les différentes affectations du temps des hommes et des femmes, et notamment des actifs, dans les années à venir. Il apparaît qu'une partie de la population active - qui relève déjà dans son ensemble très majoritairement du secteur des services - sera susceptible, dans les années à venir, grâce à l'utilisation rendue courante des nouvelles technologies d'information et de communication, de résider hors de la ville siège de son employeur ou à distance matérielle de ses clients. Mais il est également apparu que cette possibilité de contacts immédiats par le truchement des technologies actuelles de communication entre un individu et son employeur ou son client pourrait permettre à certaines professions et à certains cadres d'associer dans une même journée, et notamment lors de courts séjours touristiques, travail et vacances ; on peut, dès aujourd'hui, négocier sur une plage, entouré de sa famille, la vente d'un bien immobilier situé à quelques centaines ou quelques milliers de kilomètres. Si l'objet du rapport émanant de la direction du tourisme et du commissariat général du Plan est bien de dégager pour des différents acteurs du tourisme les évolutions possibles de la demande touristique et leurs importances relatives, les décisions d'investissement et d'adaptation des hôteliers à ce type d'évolutions relèveront de leur désir ou de leur possibilité à s'adapter à ces évolutions, qui ne devraient pas entraîner des dépenses publiques.
