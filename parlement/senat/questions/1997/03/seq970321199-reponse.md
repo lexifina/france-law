@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970321199
+
+- Question : [SEQ970321199](seq970321199.md) — Sécurité des vélos tout terrain
+
+## Réponse
+
+*Économie, JO du 1997-05-08, page 1430*
+
+Réponse. - Les nombreux accidents survenus lors de l'utilisation des bicyclettes, et notamment des vélos tout-terrain, ont conduit à l'adoption du décret no 95-937 du 24 août 1995 relatif à la prévention des risques résultant de l'usage des bicyclettes. Ce décret détermine les exigences essentielles auxquelles doivent satisfaire les bicyclettes mises sur le marché français, et insiste tout particulièrement sur le dispositif de montage et de démontage rapide de la roue avant : existence d'un système de sécurité qui empêche la roue de se désolidariser de la fourche, notices de montage, de réglage et d'entretien des bicyclettes claires et complètes, schémas précis de chaque organe ou pièce dont le montage et l'utilisation corrects sont indispensables à l'usage normal des bicyclettes, indications nécessaires au montage et à la fixation des éléments susceptibles d'être démontés facilement par l'usager. Ces dispositions sont d'application obligatoire depuis le 1er octobre 1995. Dès la publication du texte, des campagnes d'information ont été organisées localement par les directions départementales de la concurrence, de la consommation et de la répression des fraudes. Deux émissions de télévision de la série " Info Conso " ont été consacrées à ce thème sous le titre " Les Vélos " (29 et 30 septembre 1995) et " La Sécurité à vélo " (11 et 14 novembre 1996). Une enquête organisée au 2e trimestre 1996 par les services de la direction générale de la concurrence, de la consommation et de la répression des fraudes a permis de constater que le décret était convenablement appliqué. La consolidation de ce résultat sera vérifiée à l'occasion d'une prochaine enquête.
