@@ -1,0 +1,3 @@
+# Article 1
+
+La présente convention collective nationale conclue en application du titre III du livre Ier du code du travail, tel qu'il résulte de la loi n° 82-957 du 13 novembre 1982, s'applique à l'ensemble des employeurs et des salariés travaillant en France métropolitaine dans des entreprises d'alimentation et de restauration rapides, appartenant notamment aux classes 67 et 38 de la nomenclature d'activités et de produits résultant du décret n° 73-1036 du 9 novembre 1973 et ayant pour vocation de vendre exclusivement au comptoir des aliments et des boissons présentés dans des conditionnements jetables, que l'on peut consommer sur place ou emporter.
