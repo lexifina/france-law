@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880600039
+
+- Question : [SEQ880600039](seq880600039.md) — Tarification de la ligne d'autobus entre Paulhan et Montpellier (Hérault)
+
+## Réponse
+
+*Transports, JO du 1988-06-30, page 779*
+
+Réponse. - Dans le cadre de la décentralisation, il a été décidé de confier aux collectivités la responsabilité d'organiser elles-mêmes leurs systèmes de transport. Ainsi, l'article 29 du décret 85-891 du 16 août 1985 définit les compétences et les modalités d'intervention des diverses collectivités pour les services assurés par la S.N.C.F. intégralement par des moyens routiers, c'est-à-dire ceux assurés sur des liaisons où ne circule aucun train de voyageur desservant la même liaison. En application de ce texte, ces services relèvent du régime général des services routiers de voyageurs et doivent donc être conventionnés par la collectivité responsable qui est en général le département. Il appartient donc aux collectivités, dans le cadre de ce conventionnement, de négocier avec le ou les transporteurs intéressés les conditions d'exploitation de ces services et notamment la tarification applicable. L'Etat, pour sa part, ne se désengage pas puisque ce transfert de compétence donne lieu à une affectation au département des contributions versées antérieurement à la S.N.C.F., actualisées chaque année. Ces sommes peuvent lui permettre de réorganiser les services de base de façon à mieux les adapter aux besoins de la clientèle pour un coût équivalent, grâce par exemple à des restructurations des dessertes ou à des mesures d'adaptation tarifaire. Les services desservant Paulhan - Montpellier ont été conventionnés par le département de l'Hérault en application de ces principes dès 1986. Dans ce cadre, les nouvelles conditions d'exploitation de cette ligne ont été définies par le département et relèvent de sa seule compétence.
