@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900911516
+
+- Question : [SEQ900911516](seq900911516.md) — Situation de l'association Enfance et partage
+
+## Réponse
+
+*Premier ministre, JO du 1990-12-06, page 2582*
+
+Réponse. - L'association Enfance et partage est une association régie par la loi de 1901. Créée en 1977, son objet est de s'occuper du problème de l'enfance maltraitée, notamment par des campagnes d'information et de sensibilisation de la population, la mise en place d'un numéro de téléphone spécialisé, l'ouverture d'une cellule d'urgence pluridisciplinaire, l'assistance d'avocats spécialisés auprès d'enfants en danger ou victimes. Cette association volontiers critique à l'égard de notre système de protection de l'enfance a créé une instance supérieure de défense et de protection de l'enfant qui n'est pas sans appeler quelques réserves, notamment en raison de ses compétences mal définies. En contrepartie, elle se voit reprocher par les professionnels dudit système son absence de rigueur et une utilisation par trop médiatique des affaires. La part visible de l'action d'Enfance et partage consiste essentiellement en campagnes publicitaires attirant l'attention sur lasituation des enfants maltraités et indiquant un numéro de compte en banque où verser des dons. Comme d'autres associations agissant dans ce domaine, Enfance et partage faisait transiter ses fonds par la Fondation de France, ce qui constituait une sorte de garantie de l'utilisation de l'argent recueilli pour l'usage annoncé ; or la Fondation de France a retiré son agrément à l'association en mai dernier après avoir demandé en vain des justifications précises sur l'utilisation des fonds recueillis. En ce qui concerne l'ouverture en l'état d'une enquête, on notera qu'aucune subvention de l'Etat n'a été versée à cette association.
