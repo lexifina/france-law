@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700934
+
+- Question : [SEQ020700934](seq020700934.md) — Retraités de l'enseignement avant 1989
+
+## Réponse
+
+*Jeunesse, JO du 2002-08-22, page 1867*
+
+Les personnels retraités bénéficient pour la revalorisation de leur pension, d'une part, des augmentations liées à la hausse de la valeur du point de la fonction publique, d'autre part, des revalorisations des indices correspondant à l'échelon sur la base duquel leur pension a été calculée. S'agissant plus particulièrement des professeurs agrégés, certifiés et assimilés retraités, partis à la retraite avant la création d'une hors classe dans leur corps d'origine en 1989, il n'est pas envisagé, à ce jour, de mettre en oeuvre une mesure d'assimilation de leur pension à celle des professeurs agrégés, certifiés et assimilés partis à la retraite postérieurement à cette réforme, après avoir atteint la hors classe de leur corps. En effet, l'accès à la hors classe des corps enseignants est ouvert dans la limite d'un contingent budgétaire fixé par chaque statut particulier. Aussi n'est-il pas possible de faire bénéficier d'un reclassement à la hors classe les personnels enseignants partis à la retraite avant la création de ce grade d'avancement, sauf à les traiter plus favorablement que leurs collègues en activité. Plus généralement, l'évolution permanente du métier d'enseignant, que les plans de revalorisation successifs de la fonction enseignante prennent précisément en compte, conduit à traiter différemment les personnels actifs et les personnels retraités, qui n'ont pas connu les mêmes conditions d'exercice de leur métier. Aussi n'est-il pas envisagé de mesures de revalorisation des pensions des personnels enseignants partis à la retraite avant la création d'un grade d'avancement dans leur corps d'origine.
