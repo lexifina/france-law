@@ -1,0 +1,11 @@
+# Réponse à la question SEQ881102494
+
+- Question : [SEQ881102494](seq881102494.md) — Respect des droits de l'homme en Turquie
+
+## Réponse
+
+*Affaires étrangères, JO du 1989-01-05, page 12*
+
+Réponse. - Le Gouvernement français a déjà eu l'occasion de faire part, le 25 octobre dernier au Sénat puis le 30 novembre à l'Assemblée nationale, de son analyse de la situation des droits de l'homme en Turquie. Il constate qu'un processus de démocratisation a été engagé à l'initiative du Premier ministre turc et observe que, dans ce contexte, des progrès indéniables ont été réalisés dans le sens d'un meilleur respect des droits de l'homme. Le Gouvernement français relève à cet égard que les autorités turques ont, dans la dernière période, pris des initiatives dans le domaine de la lutte contre la torture en ratifiant les deux conventions de l'O.N.U. et du Conseil de l'Europe et, sur le plan intérieur, en engageant des poursuites contre des policiers accusés de tortures et de mauvais traitements. Le Gouvernement d'Ankara a également reconnu aux citoyens turcs le droit de recours individuel devant la Commission européenne des droits de l'homme. Par ailleurs, le
+
+chef de l'Etat turc a récemment évoqué la possible abolition de la peine de mort dont l'application, il convient de le rappeler, est suspendue depuis 1984. Sans doute tout n'est-il pas parfait dans ce domaine et une grande partie du chemin reste- t-elle à parcourir. Nous ne manquons d'ailleurs jamais de saisir l'occasion de le dire au Gouvernement turc, avec lequel nous entretenons désormais un dialogue confiant. Nous entendons demeurer vigilant et nous nous réservons le droit d'appeler chaque fois que nous le jugerons nécessaire l'attention des autorités turques sur cette question. Plusieurs cas d'emprisonnement pour délit d'opinion et autres atteintes aux droits de l'homme ont ainsi été évoqués tout récemment au plus haut niveau. A la faveur de l'amélioration des rapports franco-turcs qu'atteste la récente visite du Premier ministre turc à Paris, le Gouvernement français entend encourager le mouvement engagé pour assurer un meilleur respect des libertés fondamentales en Turquie, mouvement auquel M. Ozal apporte une importante contribution personnelle.
