@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040311402
+
+- Question : [SEQ040311402](seq040311402.md) — Prise en compte des droits d'auteur par l'UNEDIC pour le calcul de l'assurance-chômage
+
+## Réponse
+
+*Culture, JO du 2004-05-06, page 979*
+
+La prise en compte des droits d'auteur et des droits voisins dans le calcul de la rémunération brute des allocataires des annexes VIII et X de l'assurance chômage avait été prévue par l'UNEDIC. Le Gouvernement a été conduit à rappeler àl'UNEDIC que le droit d'auteur et le droit voisin de l'artiste interprète sont des droits patrimoniaux exclusifs, opposables à tous. Ils constituent un élément du patrimoine mobilier du créateur ou de l'interprète qui leur est personnel durant leur vie et transmissible pour une durée de soixante-dix ans après la mort de l'auteur et de cinquante ans après la mort de l'artiste. L'objet de la propriété du bien incorporel est le droit lui-même qui permet au créateur d'exploiter l'oeuvre. Les rémunérations provenant des autorisations d'exploitation des droits patrimoniaux constituent des revenus d'un bien mobilier incorporel qui n'ont, en effet, rien de commun avec des honoraires ou des salaires, desquels la tradition culturelle de notre pays les distingue soigneusement. Dans ces conditions, le Gouvernement a estimé qu'il n'y avait pas lieu de modifier l'ordonnance du 6 novembre 2003, qui fixe la liste des organismes susceptibles de rapprocher les informations qu'ils détiennent de celles du régime d'assurance-chômage. L'UNEDIC a pris acte de cette position, et constaté dès lors l'impossibilité de prendre en compte les revenus correspondant aux droits d'auteur ou droits voisins pour apprécier les droits aux allocations d'assurance-chômage. En conséquence, la circulaire de l'UNEDIC relative à cette question est devenue inopérante, et les ASSEDIC en ont été informées.
