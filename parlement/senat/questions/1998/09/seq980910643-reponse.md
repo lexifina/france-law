@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980910643
+
+- Question : [SEQ980910643](seq980910643.md) — Centralisation de l'ensemble des recettes de péage
+
+## Réponse
+
+*Équipement, JO du 1999-07-08, page 2329*
+
+Réponse. - La réforme du système autoroutier est l'un des dossiers sur lesquels le Gouvernement s'est penché dès sa prise de fonction. Les réflexions engagées conjointement par le ministre de l'équipement, des transports et du logement et le ministre de l'économie, des finances et de l'industrie visent à améliorer la transparence et la rationalité des choix d'investissement, à faire évoluer les procédures d'attribution des conceptions, à renforcer les moyens d'entretien d'exploitation et de sécurité routière. Pour pouvoir être mises en uvre, les nouvelles dispositions devront respecter les directives européennes. Les conditions d'application de cet objectif font actuellement l'objet de discussions avec les instances communautaires. Le ministre de l'équipement a très clairement indiqué, dès l'été 1997, et rappelé pluisieurs fois, qu'il avait pour objectif d'assurer un niveau global suffisant d'investissement, de réaliser les investissements lorsqu'il y a des besoins réels, et d'assurer correctement l'entretien et l'exploitation du patrimoine, sans remise en cause ni des statuts des personnels ni des structures déconcentrées (directions départementales de l'équipement). Le budget 1998 a amorcé une inflexion réelle (augmentation de 5 % des crédits d'entretien, d'exploitation et de sécurité). Le budget de 1999 poursuit cette évolution. Conformément aux engagements du ministre, les réflexions en cours sur le financement des routes devraient prochainement aboutir, permettant ainsi d'améliorer le service public routier. Dans ce cadre, le projet de création d'un établissement public chargé de la gestion du réseau routier et autoroutier national n'a pas été retenu.
