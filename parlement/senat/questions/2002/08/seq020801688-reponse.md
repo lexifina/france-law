@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020801688
+
+- Question : [SEQ020801688](seq020801688.md) — Taxation de l'énergie solaire passive
+
+## Réponse
+
+*Équipement, JO du 2003-05-01, page 1482*
+
+L'article 317 septies de l'annexe II au code général des impôts dispose qu'est prise en compte pour l'assiette de la taxe locale d'équipement (TLE) la surface hors oeuvre nette des constructions (SHON) telle qu'elle est définie à l'article R. 112-2 du code de l'urbanisme. L'article R. 112-2 dispose que la SHON d'un bâtiment s'obtient en déduisant de la surface hors oeuvre brute (c'est-à-dire la surface totale des planchers) un certain nombre de surfaces dont les surfaces de plancher des combles et sous-sols non aménageables ainsi que les surfaces non closes situées en rez-de-chaussée. S'agissant de locaux faisant office de capteurs solaires (serres, etc.), leur taxation dépend de leurs caractéristiques. Si ces locaux sont situés dans des combles non aménageables, les surfaces de plancher correspondantes ne sont pas constitutives de SHON et sont donc placées hors du champ d'application de la TLE. En revanche, dès lors que les locaux situés en combles sont aménageables, ils sont constitutifs de SHON et entrent dans le champ d'application de la TLE. Il en va de même des locaux clos situés en rez-de-chaussée. Enfin, toutes les surfaces de plancher situées en étage sont réputées aménageables. Elles constituent de la SHON et sont donc taxables. L'attention de l'honorable parlementaire est attirée sur les modalités de calcul de la SHON qui intègrent depuis 1987 une déduction forfaitaire de 5 % de cette surface afin de compenser les surcoûts engendrés par l'isolation thermique du bâtiment. Par ailleurs, l'Agence de l'environnement et de la maîtrise de l'énergie (ADEME) octroie aux constructeurs des subventions significatives, destinées à encourager le développement de l'énergie solaire active, tant pour les logements individuels que collectifs.
