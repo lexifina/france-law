@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920621513
+
+- Question : [SEQ920621513](seq920621513.md) — Convention de sécurité sociale entre la France et la Finlande
+
+## Réponse
+
+*Affaires sociales, JO du 1992-07-16, page 1612*
+
+Réponse. - A ce jour aucune convention de sécurité sociale n'a été passée entre la France et la Finlande. Un projet de convention avait été mis à l'étude, mais ces travaux ont été abandonnés du fait de la perspective ouverte par la négociation entre la Communauté économique européenne (CEE) et l'Association européenne de libre échange (AELE), dont la Finlande est membre, d'un traité sur la création de l'Espace économique européen (EEE). Ce traité, qui a été signé le 2 mai dernier à Porto, au Portugal, et qui devrait entrer en vigueur le 1er janvier 1993, si sa ratification intervient dans les délais prévus, approfondit les liens économiques entre les Etats de la CEE et les Etats de l'AELE en mettant en oeuvre dans cet espace les quatre libertés fondatrices du traité de Rome (la libre circulation des marchandises, des personnes, des services et des capitaux) sur la base de l'acquis communautaire à la date d'entrée en vigueur du traité. Pour répondre à la préoccupation de l'honorable parlementaire, les dispositions des règlements (CEE) n° 1408/71 et 574/72, relatifs à l'application des régimes de sécurité sociale aux travailleurs salariés, aux travailleurs non salariés et aux membres de leur famille qui se déplacent à l'intérieur de la CEE, se trouveront étendus aux ressortissants finlandais et au territoire finlandais dès l'entrée en vigueur du traité créant l'EEE, rendant ainsi inutile la passation d'un accord bilatéral de coordination en matière de sécurité sociale. En effet les droits sociaux des travailleurs français expatriés en Finlande seront sauvegardés et leur couverture sociale assurée en cas de séjour temporaire en France ou sur le territoire de tout autre Etat membre de l'EEE.
