@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960616010
+
+- Question : [SEQ960616010](seq960616010.md) — Délivrance des cartes nationales d'identité aux Français résidant à l'étranger
+
+## Réponse
+
+*Affaires étrangères, JO du 1996-08-08, page 2052*
+
+Réponse. - Comme le sait l'honorable parlementaire, le département est particulièrement attentif à la lenteur de délivrance des certificats de nationalité, dont il cherche, avec le ministère de la justice - autorité de tutelle -, à réduire les inconvénients pour nos compatriotes. Des mesures importantes ont été prises, au demeurant, par la Chancellerie au cours des années dernières pour faciliter le traitement des demandes de CNF par les tribunaux d'instance. S'agissant des demandes de certificats de nationalité formulées auprès de nos compatriotes par les consuls de France à l'étranger, il convient de noter que nos représentants ont été, en août 1991, décembre 1992, décembre 1993, invités à ne pas exiger systématiquement un certificat de nationalité française mais à ne le demander que dans les seuls cas où il y a un doute suffisamment sérieux sur la nationalité du demandeur pour qu'il soit nécessaire d'établir celle-ci de façon incontestable. Il leur a par ailleurs été rappelé que les certificats de nationalité française sont valables sans limitation de durée, du moment qu'il n'est pas intervenu de faits susceptibles d'avoir modifié la situation d'une personne au regard de la nationalité française, postérieurement à la date de délivrance du CNF présenté. Ces instructions sont rappelées oralement à chaque réunion d'information consulaire. Mais, comme le sait l'honorable parlementaire, il est également nécessaire pour nos représentants de veiller avec beaucoup de vigilance aux preuves avancées en matière de nationalité française dans certains pays à risques.
