@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040713206
+
+- Question : [SEQ040713206](seq040713206.md) — Publications de marques à l'étranger et pénalisation des PME
+
+## Réponse
+
+*Justice, JO du 2004-09-16, page 2119*
+
+La protection des marques constitue non seulement une préoccupation mais également une priorité pour le ministère de la justice, comme en témoigne la récente publication d'une circulaire de politique pénale en date du 9 août 2004. Ce document, adressé à l'ensemble des procureurs généraux et des procureurs de la République, traite des actions à mener dans le secteur de la contrefaçon et notamment dans le domaine des marques. Cette volonté s'inscrit dans la continuité de l'article 34 de la loi n° 2004-204 du 9 mars 2004 portant adaptation de la justice aux évolutions de la criminalité, qui a considérablement renforcé les sanctions applicables aux contrefaçons de marques en portant la peine d'emprisonnement de deux ans à trois ans, voire quatre ou cinq ans dans les cas les plus graves, et en doublant la peine d'amende (300 000 euros au lieu de 150 000 euros). Bien que cette circulaire ne traite pas spécifiquement des cas d'escroquerie qui peuvent être liés à l'utilisation frauduleuse de marques, il s'agit d'une sensibilisation sans précédent de l'autorité judiciaire dans cette matière. S'agissant de la centralisation des plaintes, la création des juridictions interrégionales économiques et financières par la loi précitée autorise le regroupement des procédures à un niveau permettant un traitement marqué par une plus grande technicité, dans la mesure où l'escroquerie tout comme la contrefaçon font partie des infractions pour lesquelles la saisine de ces juridictions spécialisées est prévue. Une circulaire traitant notamment du fonctionnement des juridictions interrégionales économiques et financières et en particulier des modalités de saisine sera diffusée dans les prochaines semaines.
