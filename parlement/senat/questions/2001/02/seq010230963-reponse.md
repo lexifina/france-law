@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010230963
+
+- Question : [SEQ010230963](seq010230963.md) — Réforme du code des marchés publics
+
+## Réponse
+
+*Économie, JO du 2001-05-03, page 1517*
+
+Réponse. - Le décret nº 2001-210 du 7 mars 2001 portant code des marchés publics, publié au Journal officiel du 8 mars dernier, et qui a été pris à la suite d'une très large concertation à laquelle ont participé les associations représentatives des artisans, répond aux préoccupations de l'auteur de la question. En effet, conformément à l'un des grands objectifs que s'était fixé le Gouvernement, ce texte est de nature à faciliter l'accès des petites et moyennes entreprises à la commande publique, notamment en encourageant le recours à l'allotissement ainsi que le groupement des candidatures ou des offres. De plus, il impose la fixation de délais de paiement conformes aux nouvelles règles communautaires, et sanctionne ces retards par le versement d'intérêts moratoires dissuasifs. Il consacre les principes de liberté d'accès à la commande publique et d'égalité de traitement des candidats, moralise la sous-traitance, accroît le rôle de la commission d'appel d'offres, et rappelle la règle selon laquelle un avenant ne peut bouleverser l'économie d'un marché ni en changer l'objet. Enfin, il clarifie la question des critères de choix des offres par rapport à la notion de mieux-disant, et réforme la retenue de garantie en fixant un cadre très strict aux conditions de sa restitution. De plus, il est également envisagé de proposer au Parlement l'adoption de certaines mesures favorables aux petites et moyennes entreprises, en particulier dans le domaine de la sous-traitance. Ainsi, lorsqu'elle aura pleinement abouti, la réforme du code des marchés publics devrait se concrétiser à la fois au niveau législatif et au niveau réglementaire par des avancées importantes dans la simplification des règles de la commande publique garantissant aux artisans un accès facilité à ces marchés.
