@@ -1,25 +1,165 @@
 # Article Annexe 1
 
-Annexe I
+Classement des emplois dans les échelles
 
-Classement des emplois dans les groupes.
+EMPLOIS
 
-Echelle 3 :
+|
 
-Téléphoniste principal
+CLASSEMENT
 
-Agent de désinfection
+|
 
-Agent d'amphithéâtre
+|
 
-Chauffeur de chaudière haute pression
+Dessinateur chef de groupe.
 
-Conducteur d'automobile de 1re catégorie
+|
 
-Jardinière d'enfants (cadre d'extinction)
+Echelle 5.
 
-Adjoint et adjointe d'internat
+|
 
-Sténodactylographe
+|
 
-Ouvrier professionnel de 2e catégorie.
+Secrétaire médicale principale (cadre d'extinction).
+
+|
+
+Echelle 5.
+
+|
+
+|
+
+Aide-préparateur en pharmacie (cadre d'extinction).
+
+|
+
+Echelle 5.
+
+|
+
+|
+
+Aide technique de laboratoire (cadre d'extinction).
+
+|
+
+Echelle 5.
+
+|
+
+|
+
+Aide technique d'électroradiologie (cadre d'extinction).
+
+|
+
+Echelle 5.
+
+|
+
+|
+
+Dessinateur.
+
+|
+
+Echelle 4
+
+|
+
+|
+
+Secrétaire médicale (cadre d'extinction).
+
+|
+
+Echelle 4
+
+|
+
+|
+
+Jardinière d'enfants (cadre d'extinction).
+
+|
+
+Echelle 3
+
+|
+
+|
+
+Aide-soignant (cadre d'extinction).
+
+|
+
+Echelle 3
+
+|
+
+|
+
+Adjoint et adjointe d'internat.
+
+|
+
+Echelle 3
+
+|
+
+|
+
+Aide d'électroradiologie (cadre d'extinction).
+
+|
+
+Echelle 2
+
+|
+
+|
+
+Ouvrier professionnel de 3e catégorie (cadre d'extinction).
+
+|
+
+Echelle 2
+
+|
+
+|
+
+Chauffeur de chaudière basse pression (cadre d'extinction).
+
+|
+
+Echelle 2
+
+|
+
+|
+
+Manoeuvre (cadre d'extinction).
+
+|
+
+Echelle 1
+
+|
+
+|
+
+Agent de bureau (cadre d'extinction).
+
+|
+
+Echelle 1
+
+|
+
+|
+
+|
