@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700395
+
+- Question : [SEQ020700395](seq020700395.md) — Renforcement de la lutte contre les accidents de la route touchant des cyclistes
+
+## Réponse
+
+*Justice, JO du 2003-08-21, page 2634*
+
+Le garde des sceaux a l'honneur d'indiquer à l'honorable parlementaire que la lutte contre l'insécurité routière constitue, comme l'en a décidé le Président de la République, une des priorités du Gouvernement. Elle a ainsi justifié l'adoption de la loi du 12 juin 2003 renforçant la lutte contre la violence routière. Ce texte, que complètent deux décrets en date des 31 mars et 11 juillet 2003 ainsi que la loi du 3 février 2003 relative à l'usage de stupéfiants au volant, comporte de très nombreuses dispositions répressives ou préventives de nature à diminuer le nombre d'accidents survenant chaque année sur les routes, notamment à l'égard des cyclistes. Ainsi, les atteintes involontaires à la vie ou à l'intégrité physique commises par un conducteur sont désormais expressément réprimées par des articles spécifiques du code pénal, qui alourdissent sensiblement les sanctions, en prévoyant des peines allant jusqu'à dix ans d'emprisonnement, notamment lorsque sont caractérisées certaines circonstances aggravantes, dont celle résultant d'un délit de fuite. Par ailleurs, il n'est plus possible que les auteurs de ces infractions ainsi que des délits les plus graves prévus par le code de la route bénéficient d'un aménagement de la peine de suspension du permis de conduire lorsque celle-ci est prononcée par la juridiction, ce qui présente un caractère particulièrement dissuasif. Par circulaires des 10 et 20 juin 2003, le garde des sceaux a demandé aux magistrats du ministère public de faire preuve d'une particulière fermeté dans la mise en oeuvre de ces nouveaux textes. Ces dispositions répondent ainsi pleinement aux légitimes préoccupations de l'honorable parlementaire.
