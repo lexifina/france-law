@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971104472
+
+- Question : [SEQ971104472](seq971104472.md) — Coordination entre les caisses primaires d'assurance maladie (CPAM) et la Caisse nationale d'assurance maladie (CNAM) quant à la préparation des projets de filières de soins
+
+## Réponse
+
+*Santé, JO du 1998-04-02, page 1071*
+
+Réponse. - L'honorable parlementaire s'étonne qu'un manque de coordination puisse être relevé entre des responsables de caisses locales et la Caisse nationale d'assurance maladie des travailleurs salariés, en matière d'élaboration de projets d'actions expérimentales de filières et de réseaux de soins, en application de l'ordonnance no 96-789 du 24 avril 1996 et du décret no 96-789 du 11 septembre 1996. Il importe de rappeler qu'aux termes du décret susmentionné, les caisses nationales s'engagent par convention passée avec l'Etat à contribuer à la mise en oeuvre des actions expérimentales. Cet engagement est rappelé dans la convention d'objectifs et de gestion signée avec l'Etat le 30 avril 1997. En outre, une convention est en cours de signature avec la CNAMTS : celle-ci s'engage à donner aux organismes de base " toutes les recommandations pertinentes pour la conception, le montage juridique et financier des actions, que ces organismes en soient directement les promoteurs ou qu'ils agissent en qualité de partenaires d'actions initiées par les professionnels libéraux, les établissements de santé ou toute autre personne physique ou morale située dans leur ressort territorial ". Au plan pratique, la CNAMTS a diffusé des instructions dans un cahier des charges diffusé à l'ensemble du réseau des caisses primaires. Le Gouvernement ne peut que souhaiter que la caisse nationale joue effectivement un rôle actif d'animation et de soutien des caisses locales, sous forme d'appel à projets afin qu'émergent des initiatives innovantes, en concertation avec les professionnels de santé.
