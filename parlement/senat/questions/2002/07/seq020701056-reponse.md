@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020701056
+
+- Question : [SEQ020701056](seq020701056.md) — Comptabilisation des droits à la retraite correspondant aux emplois intermittents des jeunes
+
+## Réponse
+
+*Affaires sociales, JO du 2003-03-06, page 779*
+
+Les jeunes en activité saisonnière ne font pas l'objet d'un traitement particulier en matière de validation de trimestres d'assurance vieillesse. Les salaires perçus durant cette période d'activité sont, comme tout salaire, reportés au compte de l'assuré dans la limite du plafond de la sécurité sociale et permettent de valider un trimestre dès 200 heures rémunérées sur la base du SMIC au cours d'une année, en application de l'article R. 351-9 du code de la sécurité sociale. Il convient d'ajouter que ces règles permettent en fait d'avantager les personnes qui ont exercé une activité réduite (temps partiel, en CDD ou en intérim) même avec un salaire peu élevé. Ainsi, les 200 heures SMIC, sont atteintes pour cinq semaines de travail à temps plein au cours d'une année, ou pour un travail de quatre heures par semaine sur l'ensemble de l'année, alors qu'une application stricte du principe de contributivité aurait conduit à faire correspondre un trimestre d'assurance à un trimestre civil d'activité salariée à temps plein (soit au moins 450 heures SMIC). Sortir du cadre annuel de référence dans le calcul des droits à retraite pour les étudiants et jeunes scolaires reviendrait à bouleverser les règles du régime général qui apprécie l'effort contributif à travers le salaire annuel moyen. Une telle réforme, qui ne pourrait pas ne pas prendre en compte les autres salariés saisonniers ou occasionnels, ne serait pas forcément favorable aux intéressés car elle amènerait naturellement à considérer l'ensemble du salaire de carrière au lieu des vingt-cinq meilleures années comme dans le régime général.
