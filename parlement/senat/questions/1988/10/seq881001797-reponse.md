@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881001797
+
+- Question : [SEQ881001797](seq881001797.md) — Programme " Youth exchange scheme "
+
+## Réponse
+
+*Affaires européennes, JO du 1990-08-23, page 1801*
+
+Réponse. - Le programme " Jeunesse pour l'Europe " a été adopté par une décision du Conseil du 16 juin 1988. Il est destiné à promouvoir hors cadre scolaire les échanges de jeunes dans la Communauté. Doté d'une enveloppe financière de 18,5 millions d'ECU sur trois ans (1er juillet 1989 au 31 décembre 1991), ce programme regroupe des mesures relatives au développement d'échanges bilatéraux et multilatéraux effectués sur la base de projets communs par des groupes de jeunes de quinze à vingt-cinq ans, d'une durée minimale d'une semaine dans un autre Etat membre de la Communauté. Il a pour finalité spécifique de leur " permettre d'acquérir des aptitudes utiles à leur vie active et professionnelle de jeune et d'adulte dans la Communauté " ; ce programme entend notamment encourager la participation des jeunes qui ont le plus de difficultés à s'insérer dans les programmes existants d'échanges entre les Etats membres. Les mesures suivantes sont mentionnées dans l'annexe dela décision : aides financières aux " échanges de jeunes qui procèdent d'une démarche pédagogique explicite " (mais hors cadre scolaire). L'aide communautaire est accordée par priorité aux échanges réunissant des jeunes appartenant à des milieux socio-culturels différents, les sensibilisant à la dimension européenne, s'adressant à des jeunes défavorisés. L'aide aux échanges ne dépasse pas normalement 50 p. 100 des frais totaux exposés (voyage et programme). aides à l'organisation de visites d'études pour les animateurs socio-éducatifs ; aides visant au développement d'une politique d'information sur les possibilités d'échanges de jeunes ; aides à la formation d'animateurs de jeunesse.
