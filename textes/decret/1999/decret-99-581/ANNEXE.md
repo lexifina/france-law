@@ -26,7 +26,9 @@ Exercice de fonctions ou acquis professionnels jugés équivalents aux précéde
 
 |
 
-EXERCICE DE FONCTIONS CORRESPONDANT A LA QUALIFICATION DE PREMIER CONTRÔLEUR, DE PREMIER CONTRÔLEUR D'APPROCHE OU A LA QUALIFICATION DE CONTRÔLEUR D'APPROCHE
+EXERCICE DE FONCTIONS CORRESPONDANT A LA QUALIFICATION DE PREMIER CONTRÔLEUR,
+
+DE PREMIER CONTRÔLEUR D'APPROCHE OU A LA QUALIFICATION DE CONTRÔLEUR D'APPROCHE
 
 FONCTIONS EXERCÉES
 
@@ -88,19 +90,11 @@ QUALIFICATION ET EXPÉRIENCE
 
 |
 
-Maintenance et supervision technique des équipements.
+Maintenance et supervision technique des équipements, missions d'encadrement, d'instruction, d'étude ou de direction de service ou de partie de service.
 
 |
 
-Détention de la qualification technique supérieure depuis au moins douze ans par des IESSA parvenus au 8e échelon du grade de principal.
-
-|
-
-Missions d'encadrement, d'instruction, d'étude ou de direction de service ou de partie de service.
-
-|
-
-Exercice de ces fonctions pendant au moins vingt et un ans pour les IESSA parvenus au grade de principal.
+Détention de la qualification technique supérieure depuis 10 ans au moins par des IESSA parvenus au grade de principal.
 
 |
 
@@ -114,7 +108,7 @@ FONCTIONS D'ENCADREMENT D'ETUDES, D'EXPLOITATION, DE MISE EN OEUVRE DE MOYENS IN
 
 FONCTIONS EXERCÉES
 
-par les techniciens des études et de l'exploitation de l'aviation civile (TEEAC)
+par les techniciens supérieurs des études et de l'exploitation de l'aviation civile (TSEEAC)
 
 |
 
@@ -122,13 +116,11 @@ QUALIFICATION ET EXPÉRIENCE
 
 |
 
-Fonctions d'encadrement, d'études, d'exploitation, de mise en œuvre de moyens informatiques, d'instruction et d'enseignement
+Fonctions d'encadrement, d'études, d'exploitation, de mise en œuvre des moyens informatiques, d'instruction et d'enseignement
 
 |
 
-Exercice de ces fonctions pendant au moins quinze ans pour les TEEAC parvenus au 5e échelon du grade de principal.
-
-Détention de la première qualification depuis au moins onze ans.
+Exercice de ces fonctions depuis 18 ans au moins par des TSEEAC parvenus au grade de principal.
 
 |
 
@@ -161,7 +153,3 @@ Exercice de ces fonctions pendant au moins vingt-six ans pour les dessinateurs p
 Exercice de fonctions ou acquis professionnels jugés équivalents aux précédents.
 
 |
-
-|
-
-.
