@@ -1,0 +1,9 @@
+# Réponse à la question SEQ921224098
+
+- Question : [SEQ921224098](seq921224098.md) — Déflation des effectifs de l'armée de terre : situation des sous-officiers
+
+## Réponse
+
+*Défense, JO du 1993-02-25, page 329*
+
+Réponse. - Le ministère de la défense est engagé dans un processus de réorganisation d'ampleur de ses forces armées pour adapter la posture des unités au nouveau contexte international, rationaliser l'outil de défense et dégager d'indispensables économies de fonctionnement. Ce processus devra se poursuivre dans les années à venir de sorte que l'armée de terre soit réorganisée à l'horizon 1997, autour d'un format raméné à 225 000 hommes. La réduction des effectifs qui en résultera n'est pas susceptible de compromettre les perspectives de carrière des officiers, sous-officiers et militaires du rang sous contrat. Cette réduction pourra, en effet, être absorbée par un ajustement des recrutements, par la prise en compte des non-renouvellements de contrats habituels, dont la majorité intervient du fait des intéressés et des départs volontaires des militaires de carrière. Il est, par ailleurs, précisé que les réductions des effectifs envisagés ne peuvent en aucun cas provoquer le départ des militaires de carrière qui ne le souhaiteraient pas. En effet, le statut de ces personnels leur garantit de pouvoir servir jusqu'à la limite d'âge de leur grade. Dans la loi de finances pour 1993, des aménagements d'effectifs budgétaires sont prévus pour l'ensemble des armées et des services tant au titre de la restructuration des armées qu'au titre du repyramidage de grades lié à l'augmentation des limites d'âges et au mesures prises dans le cadre du protocole Durafour. L'armée de terre, pour sa part, enregistrera une diminution de 1 220 postes de sous-officiers. Par contre, pour les grades terminaux, la réduction de 110 adjudants-chefs sera compensée par la création de 102 postes de majors.
