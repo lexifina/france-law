@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920922681
+
+- Question : [SEQ920922681](seq920922681.md) — Repos dominical dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle
+
+## Réponse
+
+*Travail, JO du 1992-10-29, page 2443*
+
+Réponse. - Comme le souligne l'honorable parlementaire, la réglementation issue de la loi du 13 juillet 1906 et relative au repos dominical des salariés, n'est pas applicable dans les trois départements du Haut-Rhin, du Bas-Rhin et de la Moselle, qui relèvent des dispositions particulières du code local des professions, en vertu desquelles des statuts départementaux ont été instaurés. Le régime du repos dominical en Alsace-Moselle est a priori plus strict que celui applicable sur le reste du territoire, mais il convient pourtant de noter que les principales dérogations prévues par la loi de 1906 et par le décret n° 92-769 du 6 août 1992 existent déjà effectivement dans ces départements : soit parce que les activités concernées sont exclues expressément ou tacitement du champ d'application du code local organisant l'interdiction du travail le dimanche ; soit parce qu'elles constituent, dans le régime local, des dérogations de droit ou sur autorisation. De plus, et en cas de besoin, pour les activités prévues à l'article R. 221-4-1 qui ne seraient pas déjà incluses dans les dérogations locales existantes, elles pourraient être mises en place par les préfets sur le fondement de l'article 105 e du code professionnel. Cet article dispose que les préfets peuvent, par des dérogations collectives, autoriser le travail dominical dans les établissements justifiant d'une activité nécessaire les dimanches pour la satisfaction des besoins de la population, présentant un caractère journalier ou se manifestant plus particulièrement ces jours-là. Une instruction en ce sens est transmise aux préfets des départements concernés.
