@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011237234
+
+- Question : [SEQ011237234](seq011237234.md) — Relèvement du montant garanti des chèques
+
+## Réponse
+
+*Économie, JO du 2002-01-10, page 90*
+
+Aux termes de l'article L. 131-82 du code monétaire et financier, le tiré doit payer, nonobstant l'absence, l'insuffisance ou l'indisponibilité de provision, tout chèque établi sur une formule délivrée par lui d'un montant égal ou inférieur à 100 francs. Le titulaire du compte et le tiré sont ainsi réputés avoir légalement conclu lors de la délivrance de la formule une convention portant ouverture de crédit irrévocable. L'obligation du tiré prend fin un mois après la date d'émission du chèque et ne s'impose pas à lui si le rejet du chèque est justifié par un motif autre que l'absence ou l'insuffisance de provision. Il n'est pas envisagé par le Gouvernement de promouvoir, à l'occasion du passage à l'euro, une réévaluation du seuil de garantie institué par la loi du 3 janvier 1975, en le fixant, par exemple, à 50 euros pour les raisons suivantes. D'une part, une telle revalorisation ne paraît pas opportune. Cette solution irait, en effet, à l'encontre de l'évolution des moyens de paiement en France en favorisant l'utilisation des chèques de faible montant au détriment d'instruments de paiement plus adaptés. Il s'agit en particulier de la carte de paiement, instrument de paiement plus sécurisé et intégralement garanti et pour lequel d'importants investissements ont été réalisés. D'autre part, un relèvement du seuil aurait un effet contre-productif en réduisant la vigilance des émetteurs de chèques, moins responsabilisés, et des commerçants, alors moins portés à procéder aux vérifications élémentaires telles que le contrôle d'identité. Il fragiliserait donc le dispositif de lutte contre l'utilisation des chèques sans provision ou des chèques volés et risquerait d'encourager la fraude, ce qui se retournerait contre les consommateurs et les professionnels.
