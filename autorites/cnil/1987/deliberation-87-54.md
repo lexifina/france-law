@@ -1,0 +1,17 @@
+# Délibération sur une demande d'avis relative à la création par le centre communal d'action sociale de Chalon-sur-Saône d'un système informatique destiné à la gestion des demandes d'aides sociales
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 87-54
+- Date : 1987-05-26
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017654027
+
+La Commission Nationale de l'Informatique et des Libertés, Vu la Convention du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ; Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés et notamment ses articles 15, 19 et 27 ; Vu le décret n° 78-774 du 17 juillet 1978, pris pour l'application de la loi du 6 janvier 1978 ; Vu le code de la sécurité sociale et notamment son chapitre II - titre III (bénéficiaires des lois d'aide sociale) ; Vu la loi n° 83-663 du 22 juillet 1983 sur la décentralisation et notamment ses articles 32 et 33 ; Vu le projet d'acte réglementaire présenté par le Centre Communal d'Action Sociale de Chalon-sur-Saône portant création d'un système informatique destiné à la gestion des demandes d'aides sociales ; Après avoir entendu Monsieur Roland CADET, Commissaire en son rapport et Madame Charlotte-Marie PITRAT, Commissaire du Gouvernement en ses observations ;
+
+Considérant que le traitement envisagé par le Centre Communal d'Action Sociale de Chalon-sur-Saône a pour seule finalité la gestion des demandes d'aides sociales, que celles-ci soient obligatoires en vertu de textes légaux ou qu'elles soient allouées à l'initiative du Centre ; Considérant que, parmi les informations enregistrées figurent le numéro de sécurité sociale des demandeurs d'aides, leur nationalité et leur situation matrimoniale ; que ces informations qui revêtent un caractère sensible, ne peuvent être conservées que dans les conditions suivantes : - le numéro de sécurité sociale ne peut figurer dans le traitement qu'au cas où il y a récupération de prestations auprès des Caisses de sécurité sociale ou remboursement des cotisations de sécurité sociale des demandeurs ; - la nationalité doit être limitée aux indications de : "Français, Etranger, Ressortissant de la C.C.E. ou bénéficiaire d'une convention internationale" ; - aux informations détaillées sur la situation matrimoniale doit être substituée la mention "seule ou en couple" ;
+
+Considérant, à la vérité, qu'outre les informations mentionnées ci-dessus, le traitement enregistre un certain nombre d'informations qui, tout en ne présentant pas de caractère sensible, ne sont pas indispensables par rapport à la finalité du traitement ; que tel est le cas des mentions relatives au passeport, au titre de séjour des étrangers, aux véhicules automobiles des demandeurs, aux noms des caisses de retraite et mutuelle auxquelles ils sont affiliés ; que la Commission estime que le recueil de telles informations ne peut être admis que si sont respectées les dispositions de l'article 27 de la loi du 6 janvier 1978 et sous réserve que soit précisé aux demandeurs le caractère facultatif de leurs réponses ; Considérant enfin que le projet d'acte réglementaire doit comporter une durée de conservation des informations ; que celle-ci doit être fixée à 2 ans à partir de la date de cessation des aides sociales aux intéressés.
+
+Emet, sous les réserves précédentes, un avis favorable au projet qui lui est soumis. Le Président : Jacques FAUVET
