@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870405841
+
+- Question : [SEQ870405841](seq870405841.md) — Impact de la campagne publicitaire "bac ou pas bac"
+
+## Réponse
+
+*Éducation, JO du 1987-09-10, page 1429*
+
+Réponse. -Les conclusions de l'étude réalisée en 1985 par la société I.P.S.O.S. portant sur l'impact de la campagne publicitaire " Bac ou pas bac ", de l'Office national d'information sur les enseignements et les professions, ont été les suivantes : chaque année, l'O.N.I.S.E.P. édite une revue intitulée Bac ou pas bac, que faire après ?, complétée depuis 1986 par un autre titre : Bac ou pas bac technologique, que faire après ?, présentant l'ensemble des filières de l'enseignement supérieur. Cette revue, pour laquelle la demande est très forte, bénéficie d'une diffusion grand public, c'est-à-dire chez tous les marchands de journaux ; jusqu'en 1986, elle a, de plus, fait l'objet d'une campagne publicitaire spécifique. Pour la campagne 1985, le plan média, proposé par l'agence de communication de l'O.N.I.S.E.P., retenait une série de messages radio sur France Inter, R.T.L., R.M.C. et Europe 1, du 29 avril au 5 mai. A la demande du service d'information et de diffusion du Premier ministre et afin de mesurer la notoriété de cette revue pour les campagnes ultérieures, l'O.N.I.S.E.P. a présenté trois instituts spécialisés, afin qu'ils réalisent une enquête d'impact. C'est la société I.P.S.O.S. qui a été retenue pour cette commande. L'enquête a été réalisée le 6 mai 1985 dans le cadre d'une étude " Suivi impact radio ". Elle a abouti à des résultats jugés satisfaisants, confirmant l'intérêt du public pour la revue considérée. Ces résultats ont conforté l'O.N.I.S.E.P. dans sa volonté de changer sa stratégie de communication, c'est-à-dire de passer d'une publicité pour un produit à une publicité institutionnelle à partir de 1986.
