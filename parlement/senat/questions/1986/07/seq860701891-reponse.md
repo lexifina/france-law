@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860701891
+
+- Question : [SEQ860701891](seq860701891.md) — Financement de la dépollution des industries du cuir
+
+## Réponse
+
+*Environnement, JO du 1986-09-04, page 1260*
+
+Réponse. -Lors de son discours d'inauguration du 2e Cuir forum, le ministre de l'industrie s'est exprimé sur la réalité du problème de pollution permanente due à l'activité mégissière dans le département du Tarn. Il a évoqué naturellement les conditions financières d'une modernisation en vue d'une meilleure compétitivité de ce secteur d'activité. Le ministre délégué, chargé de l'environnement, est également intéressé à cette évolution de la mégisserie française, qui ne peut méconnaître ses obligations en matière de protection de l'environnement. C'est pourquoi il ne peut que favoriser l'octroi d'aides appropriées notamment du Feder et des agences financières de bassin pour que le contrat de branche signé en 1977 entre les mégisseries et le ministre de l'environnement aboutisse rapidement au résultat concret espéré primitivement pour 1982 d'une réduction de 80 p. 100 de la pollution. Il n'est toutefois pas envisagé un quelconque laxisme dans l'application de la loi du 19 juillet 1976 relative aux installations classées pour la protection de l'environnement dont relèvent les mégisseries. Parallèlement à une information constamment apportée aux professionnels concernés, le commissaire de la République du département a mis en oeuvre chaque fois que nécessaire l'ensemble des dispositions prévues par cette loi, dans un souci de protéger les intérêts des riverains et autres usagers des cours d'eau, d'obtenir la mise en place des techiques reconnues performantes et économiquement acceptables, d'éviter enfin de créer sur ce point des distorsions de concurrence aux dépens d'autres centres mégissiers ou d'autres secteurs industriels qui ont consenti les efforts nécessaires.
