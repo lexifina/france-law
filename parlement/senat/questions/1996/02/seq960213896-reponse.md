@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960213896
+
+- Question : [SEQ960213896](seq960213896.md) — Participation des employeurs à la cotisation d'assurance volontaire des salariés expatriés
+
+## Réponse
+
+*Budget, JO du 1996-06-20, page 1518*
+
+Réponse. - Le régime d'assurance volontaire de la caisse des Français de l'étranger applicable aux salariés expatriés est fixé par le livre VII du code de la sécurité sociale. Il est prévu notamment, aux articles L. 762-3 et D. 762-1 du code de la sécurité sociale, que l'employeur d'un salarié expatrié à l'étranger a la possibilité de faire une demande explicite, auprès de la caisse des Français de l'étranger, de prise en charge de tout ou partie des cotisations d'assurance volontaire qui sont à la charge du travailleur expatrié adhérant à ce régime. Lorsqu'un employeur s'engage à s'acquitter des cotisations d'assurance volontaire de ses salariés, sa participation ne peut pas être inférieure à la moitié de chaque assurance souscrite. Cette possibilité a été ouverte aux employeurs par la loi car il n'existe pas, en matière d'assurance volontaire, de cotisations patronales comme dans les régimes obligatoires de protection sociale. Dans les faits, peu d'entreprises ont fait appel à cette faculté. Cela étant, les entreprises effectuent le plus souvent les formalités administratives nécessaires d'appel et de paiement des cotisations dues à la caisse des Français de l'étranger par leurs salariés. Par la suite, l'entreprise peut prendre en charge tout ou partie de la cotisation versée pour le compte du travailleur. D'ailleurs, très fréquemment, l'employeur s'engage vis-à-vis de son salarié à prendre en charge le même montant de cotisations sociales patronales que celles qui seraient dues si ce dernier restait en France. Toutefois, la caisse n'est pas informée de la répartition entre l'employeur et les salariés de ces cotisations d'assurance volontaire.
