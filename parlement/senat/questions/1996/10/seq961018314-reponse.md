@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961018314
+
+- Question : [SEQ961018314](seq961018314.md) — Education à la santé à l'école
+
+## Réponse
+
+*Éducation, JO du 1996-12-05, page 3240*
+
+Réponse. - L'arrêté du 22 février 1995, publié au Bulletin officiel de l'Education nationale no 5 du 9 mars 1995, fixe les programmes de l'école primaire applicables depuis septembre 1995. Les programmes prévoient, pour chaque cycle, les compétences à acquérir dans le domaine de la " découverte du monde " en particulier du monde du vivant, avec le corps humain et l'éducation à la santé. Au cyle des apprentissages premiers, les élèves sont sensibilisés aux problèmes d'hygiène et de consommation : observation et prise de conscience des rythmes de vie (rôle du sommeil, du repos), approche concrète de l'hygiène de l'alimentation (régularité des repas, composition...), apprentissage des règles élémentaires d'hygiène (habitudes de propreté...). Des actions sont menées par le ministère de l'éducation nationale en collaboration avec le secrétariat d'Etat à la santé : il s'agit, en l'occurrence, des rencontres nationales " L'éducation à la santé, ça marche " ayant pour thème l'évaluation et l'efficacité du programme de santé à l'école maternelle. Dans le cadre de la prévention des conduites à risque à l'école élémentaire, la direction des écoles, en association avec différents partenaires, a mis en place un projet de quartier dans des écoles maternelles où sont programmées des actions telles que l'aménagement des lieux d'hygiène, l'élaboration et l'appropriation des règles de vie au quotidien dans la classe et dans l'école, l'organisation des classes de santé offrant l'occasion de réinventer des connaissances acquises, d'apprendre aux enfants à bien gérer leur capital santé pour mieux réussir à l'école, enfin de développer chez l'enfant de nouveaux comportements en matière d'hygiène alimentaire ou corporelle et d'hygiène de vie.
