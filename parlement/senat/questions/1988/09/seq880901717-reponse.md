@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880901717
+
+- Question : [SEQ880901717](seq880901717.md) — Renforcement des effectifs de gendarmerie dans les brigades rurales
+
+## Réponse
+
+*Défense, JO du 1988-12-01, page 1358*
+
+Réponse. - Les augmentations d'effectifs dont a pu bénéficier la gendarmerie nationale au cours de ces dernières années, et principalement jusqu'en 1984, ont permis de renforcer les unités les plus sollicitées dans les zones où la gendarmerie est seule responsable de l'exécution des missions de sécurité publique. L'effectif minimum de toutes les brigades qui ne comptaient jusqu'alors que quatre ou cinq sous-officiers a aussi été porté à six. Ces mesures ont profité essentiellement aux zones rurales et aux petites agglomérations. Actuellement, avec leurs moyens organiques, les brigades chargées de la surveillance de circonscriptions à vocation rurale font face dans de bonnes conditions aux tâches qui leur incombent, notamment dans le domaine de la sécurité publique générale. Aussi la priorité est-elle donnée aux formations particulièrement chargées, implantées dans des zones suburbaines où la gendarmerie est seule compétente. Le projet de loi de finances pour 1989 prévoit la transformation de 250 emplois de gendarme en postes de gradé. Par ailleurs, lors de la réunion du comité interministériel de la sécurité routière du 27 octobre dernier, il a été décidé que la gendarmerie bénéficierait l'année prochaine de 400 gendarmes auxiliaires supplémentaires pour renforcer les unités chargées de la sécurité routière. Ces mesures conjugées à la recherche permanente de réduction des charges " logistiques " et de l'optimisation de l'emploi des personnels, devraient permettre d'accroître la capacité opérationnelle des unités et de marquer plus encore la présence de la gendarmerie sur le terrain.
