@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020902344
+
+- Question : [SEQ020902344](seq020902344.md) — Intercommunalité et gestion des déchets
+
+## Réponse
+
+*Intérieur, JO du 2002-12-05, page 2986*
+
+Aux termes de l'article 109 de la loi de finances pour 2002, les établissements publics de coopération intercommunale (EPCI) à fiscalité propre disposant de l'ensemble de la compétence prévue à l'article L. 2224-13 du code général des collectivités territoriales, c'est-à-dire collecte et traitement des déchets, et qui adhèrent pour l'ensemble de cette compétence à un syndicat mixte peuvent décider soit d'instituer et de percevoir la taxe ou la redevance d'enlèvement des ordures ménagères dans le cas où le syndicat mixte n'aurait pas institué l'un de ces deux modes de financement avant le 1er juillet ; soit de percevoir en lieu et place du syndicat mixte la recette choisie par ce dernier. Une lecture littérale de ces dispositions avait amené à préciser dans la circulaire (NOR : INTB0200047C) du 21 février 2002 que l'adhésion de l'EPCI au syndicat mixte était l'élément déterminant qui permettrait à l'EPCI de bénéficier de ces mesures. Cette interprétation, qui excluait de facto les EPCI qui se substituent à leurs communes membres au sein de syndicats mixtes sans y adhérer formellement, tendait à générer des inégalités parmi les EPCI. Aussi, il convient de considérer que tous les établissements publics de coopération intercommunale à fiscalité propre membres d'un syndicat mixte peuvent faire usage des dispositions de l'article 109 de la loi de finances pour 2002 précitées quelle que soit la façon dont la qualité de membre leur a été acquise, par adhésion directe au syndicat ou par substitution à leurs communes membres au sein de ce dernier. Cette dernière précision fait l'objet d'une mention dans la circulaire (NOR : LBLB0210002C) du 13 juin 2002 du ministre délégué aux libertés locales.
