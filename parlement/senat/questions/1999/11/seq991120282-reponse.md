@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991120282
+
+- Question : [SEQ991120282](seq991120282.md) — Difficultés financières et fiscales des syndicats intercommunaux à vocation multiple lors de leur transformation en communautés de communes
+
+## Réponse
+
+*Intérieur, JO du 2000-02-24, page 686*
+
+Réponse. - Lorsque des communes appartenant à un EPCI sans fiscalité propre lui versaient avant le 1er mai 1991 une contribution budgétaire, les bases ecrêtées au profit du fonds départemental de péréquation de la taxe professionnelle (FDPTP) des établissements implantés sur ces communes sont diminuées d'un montant correspondant à l'équivalent des contributions budgétaires que ces communes versent à l'EPCI. Par application du taux coommunal à ces contributions, on détermine le montant de bases à déduire des bases écrêtées et s'ajoutant à celles imposées au profit de la commune. Le législateur a souhaité, dans le cadre de la loi du 12 juillet 1999 relative au renforcement et à la simplification de la coopération intercommunale, aménager ce dispositif qui freinait la tranformation d'EPCI sans fiscalité propre en EPCI à fiscalité propre. Deux cas peuvent se présenter : 1º Si l'EPCI, par exemple une communauté de communes, perçoit une fiscalité additionnelle, l'article 1648 A I du code général des impôts modifié par la loi du 12 juillet 1999 prévoit que la diminution des bases écrêtées visées ci-dessus est gelée et maintenue au profit de la commune. Son montant est toutefois réduit de 10 % par an à compter de la date de la transformation. 2º Si un EPCI sans fiscalité propre applique la taxe professionnelle unique, les bases écrêtées continuent à être diminuées du montant de la réduction de bases éventuellement accordée aux communes l'année précédant la perception de la taxe professionnelle unique. Contrairement au premier cas, le montant de cette réduction accordée à l'EPCI à taxe professionnelle unique ne diminue pas.
