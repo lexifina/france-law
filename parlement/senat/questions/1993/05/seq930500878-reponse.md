@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930500878
+
+- Question : [SEQ930500878](seq930500878.md) — Importation d'animaux en provenance d'Italie
+
+## Réponse
+
+*Agriculture, JO du 1993-08-12, page 1384*
+
+Réponse. - L'apparition de la fièvre aphteuse après l'importation de bovins contaminés a poussé de nombreux éleveurs à demander l'arrêt des importations en provenance des pays tiers et le renforcement des contrôles vétérinaires aux frontières externes de la Communauté. La Commission des communautés européennes, largement suivie et appuyée par les Etats membres, a pris les dispositions nécessaires pour que le statut sanitaire tant français qu'européen soit préservé. Des mesures restrictives ont été adoptées à l'égard des importations d'animaux des espèces sensibles ainsi que de leurs produits à partir d'Italie. Une décision communautaire a, dans un premier temps, suspendu toute importation des animaux et produits à risque en provenance des pays de l'Europe de l'Est. Depuis, seuls les pays tiers qui sont en mesure de répondre aux exigences draconiennes qui ont été fixées peuvent procéder à de nouvelles exportations. Ces exigences comprennent des procédures particulières de manière à rendre plus efficace leur contrôle dans les postes frontières ouverts aux importations. Pour sa part, la France avait pris un certain nombre de mesures propres à éviter l'introduction du virus aphteux sur le territoire. Ainsi dès la confirmation de l'existence de fièvre aphteuse en Italie avaient été mises en place des mesures conservatoires. Elles consistent en un contrôle systématique de toutes les bétaillères en provenance d'Italie à la frontière italo-française, et le refoulement de celles qui n'auraient pas été nettoyées et désinfectées. Ces contrôles concernent également les expéditions des produits sensibles d'origine animale. Ils sont toujours effectués conjointement par les services vétérinaires, les services de la gendarmerie et des douanes.
