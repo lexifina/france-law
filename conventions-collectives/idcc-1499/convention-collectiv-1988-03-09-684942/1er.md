@@ -4,7 +4,21 @@
 
 La convention est conclue en application des articles L. 131-1 et suivants du code du travail. Elle entrera en vigueur dans les entreprises concernées le 1er juillet 1988. Elle annule et remplace la convention collective précédente du 11 mai 1960, ses annexes et différents avenants et accords antérieurs à ce jour.
 
-2. Elle s'applique aux entreprises (usines, sièges sociaux, services commerciaux, dépôts de vente et tous établissements dépendant directement des entreprises) exerçant une ou plusieurs des activités principales mentionnées dans la nomenclature des activités et des produits en application du décret n° 73-1036 du 9 novembre 1973, concernant les activités référencées 1601, 1603, 5573, 6425, 5908 et 5810.
+2. Elle s'applique aux entreprises (usines, sièges sociaux, services commerciaux, dépôts de vente et tous établissements dépendant directement des entreprises) exerçant une ou plusieurs des activités principales ci-dessous mentionnées dans la nomenclature d'activités françaises (NAF 93) en application du décret n° 92-1129 du 2 octobre 1992. Ces activités concernent les techniques verrières et associées appliquées au verre platVerre destiné au vitrage, au parement, à l'ameublement, à la décoration et à l'industrie. :
+
+- 261 C ;
+
+- 454 H ;
+
+- 515 F (verre plat (1) et éléments d'accompagnement).
+
+Et dans la mesure où le verre plat (1) en constitue un élément déterminant :
+
+- 261 J ;
+
+- 454 L ;
+
+- 524 J.
 
 A. - La fabrication et la transformation de la miroiterie :
 
