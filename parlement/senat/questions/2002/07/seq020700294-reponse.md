@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700294
+
+- Question : [SEQ020700294](seq020700294.md) — Aide à la scolarisation des enfants handicapés
+
+## Réponse
+
+*Personnes handicapées, JO du 2003-08-21, page 2639*
+
+L'intégration scolaire des enfants et adolescents handicapés a fortement progressé grâce à la mise en place et au développement des services d'éducation spéciale et de soins à domicile, à la mise à disposition de matériels pédagogiques adaptés et, plus récemment, d'auxiliaires de vie scolaire. En outre, le Gouvernement prévoit plusieurs mesures dans le cadre du plan quinquennal en faveur de l'intégration des élèves handicapés annoncé en 2003. Des projets d'accueil individualisé permettant une scolarité aménagée en établissement scolaire ordinaire seront mis en oeuvre. Des opérations de sensibilisation à l'intention des enseignants du primaire et du secondaire seront conduites par le biais de modules de formation continue. Mille unités pédagogiques d'intégration (UPI) seront ouvertes au cours des cinq prochaines années dans le cadre du développement de l'aide à l'intégration scolaire. En complément de cet effort, le ministre chargé de l'éducation nationale a annoncé, pour la rentrée scolaire 2003-2004, la mise en place de 6 000 postes d'assistant d'éducation destinés à assurer l'aide à la scolarisation des élèves handicapés et financés par le budget de l'Etat. La loi n° 2003-400 relative aux assistants d'éducation a été promulguée le 30 avril 2003. Les titulaires de ce nouveau dispositif seront recrutés pour ces postes sur des contrats de droit public d'une durée de trois ans renouvelables une fois. Par ailleurs, le projet de loi relatif aux personnes handicapées en cours d'élaboration comportera un volet essentiel consacré aux voies et moyens d'un renforcement de la scolarisation des enfants handicapés, de la petite enfance à l'enseignement supérieur, mais aussi à la formation professionnelle.
