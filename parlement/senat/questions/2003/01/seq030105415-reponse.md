@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030105415
+
+- Question : [SEQ030105415](seq030105415.md) — Services pris en compte pour la cessation progressive d'activité des agents des collectivités territoriales
+
+## Réponse
+
+*Fonction publique, JO du 2004-07-15, page 1577*
+
+Conformément aux articles 1er et 3-1 de l'ordonnance n° 82-298 du 31 mars 1982 modifiée relative à la cessation progressive d'activité des agents titulaires des collectivités locales et de leurs établissements publics à caractère administratif, la cessation progressive d'activité est réservée aux agents titulaires et aux agents non titulaires occupant un emploi permanent à temps complet. Modifié par la loi n° 2003-775 du 21 août 2003 portant réforme des retraites, ce dispositif est dorénavant réservé aux fonctionnaires âgés de cinquante-sept ans au moins, justifiant de 33 années de cotisations ou retenues pour pension et ayant accompli vingt-cinq ans de services militaires et civils effectifs en qualité de fonctionnaire ou agent public. L'article 1er vise les agents qui ont accompli vingt-cinq années de services effectifs à temps complet ou dont les services ont été décomptés au prorata de leur durée réelle. S'ils ont été réalisés pour partie à temps partiel ou à temps non complet, ils seront proratisés par rapport à la durée de service effectuée et uniquement en faveur de fonctionnaires à temps complet au moment de la demande de cessation progressive d'activité. Pour le calcul de la durée d'assurance, les périodes de services accomplis à temps partiel définies à l'article L. 5 du code des pensions civiles et militaires de retraite, ainsi que les périodes accomplies à temps non complet, sont décomptées comme des périodes de services à temps complet conformément à l'article 20 du décret n° 2003-1306 du 26 décembre 2003 relatif au régime de retraite des fonctionnaires affiliés à la Caisse nationale de retraites des agents des collectivités locales (CNRACL).
