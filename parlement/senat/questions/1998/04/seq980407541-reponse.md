@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980407541
+
+- Question : [SEQ980407541](seq980407541.md) — Participation d'Electricité de France (EDF) à la préservation des sites
+
+## Réponse
+
+*Économie, JO du 1998-09-24, page 3063*
+
+Réponse. - La question posée évoque la participation d'EDF à la préservation des sites lorrains. Comme d'autres grandes entreprises engagées dans la protection de l'environnement, EDF s'est rapprochée du conservatoire des sites lorrains dans le cadre d'une démarche partenariale pour la préservation des espaces naturels de la région. La convention, signée le 5 décembre 1997, se fixe pour objectif d'apporter l'aide d'EDF sur différents domaines d'action du conservatoire. En premier lieu, il s'agit de la gestion des systèmes écologiques des sites ; en second lieu, d'actions de sensibilisation du public sur le patrimoine naturel lorrain, enfin, d'aides matérielles et d'apports de compétences pour le développement des activités du conservatoire. Dans ce dernier cas, EDF fait bénéficier le conservatoire de l'expérience de ses agents en matière de protection des espaces naturels. D'autres thèmes pourront éventuellemnt être abordés en fonction des demandes des acteurs. EDF accompagnera ces actions dans les limites d'une contribution annuelle de 200 000 francs. Pour 1997, la ventilation de cette somme a ainsi permis de consacrer : 100 000 francs aux travaux de gestion des systèmes écologiques de 6 sites lorrains ; 50 000 francs afin de participer à l'édition d'une plaquette de présentation de 8 sites du conservatoire équipés de sentiers de découverte ; 50 000 francs de dotation à l'équipe de gestion du conservatoire pour l'acquisition d'outils agricoles. D'autres actions seront lancées en 1998, qui s'attacheront notamment à limiter l'impact sur l'environnement des lignes électriques.
