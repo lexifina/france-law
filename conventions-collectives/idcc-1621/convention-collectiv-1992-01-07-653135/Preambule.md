@@ -1,9 +1,7 @@
-# Article Préambule
+# Article KALIARTI000005788565
 
-Les parties ont conscience :
+Conformément à l'article L. 212-2 du code du travail, le présent article, dans les conditions qu'il définit, déroge sur certains points au décret du 27 avril 1937 relatif aux commerces de gros.
 
-- de la nécessité d'accomplir leurs tâches professionnelles dans le cadre de la santé publique et au service des pharmacies d'officine ;
+NOTA :
 
-- des aspirations légitimes du personnel de la répartition pharmaceutique en termes de temps de travail et de repos hebdomadaire.
-
-Elles décident que les dispositions concernant tout particulièrement l'aménagement des temps de travail feront l'objet, dans les entreprises, de négociations avec les organisations syndicales représentatives portant sur les modalités d'application dans les établissements.
+Seules les entreprises s'engageant dans la RTT pourront bénéficier des nouvelles dispositions de l'article K.

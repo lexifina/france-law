@@ -6,7 +6,7 @@ Les modalités d'attribution et de prise du repos compensateur définies ci-apr�
 
 Le repos compensateur prévu à l'article L. 212-5-1 peut être pris toute l'année. Il peut être accolé au congé annuel payé, que celui-ci soit pris en une ou plusieurs fois.
 
-Le repos compensateur doit être pris dans un délai maximum de douze mois à compter de l'ouverture du droit.
+Le repos compensateur doit être pris dans un délai maximun de 2 mois à compter de l'ouverture du droit. Si le salarié ne formule pas sa demande de prise de repos dans ce délai, l'employeur devra lui demander de prendre effectivement ses repos dans un délai maximal de 12 mois à compter de l'ouverture du droit.
 
 Le droit au repos compensateur est réputé ouvert dès que la durée de ce repos, calculée suivant les modalités prévues à l'article L. 212-5-1, atteint huit heures.
 
