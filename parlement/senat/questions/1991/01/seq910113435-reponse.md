@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910113435
+
+- Question : [SEQ910113435](seq910113435.md) — Publication des décrets portant statut particulier des agents de la " filière sociale " de la fonction publique territoriale
+
+## Réponse
+
+*Intérieur, JO du 1991-09-19, page 2033*
+
+Réponse. - L'examen de la situation des personnels de la filière médico-sociale de la fonction publique territoriale s'effectue en concertation avec tous les partenaires concernés. Actuellement, vingt-cinq organisations professionnelles ont été reçues. Les projets qui seront retenus par le Gouvernement feront l'objet, dans les mois qui viennent, d'une nouvelle concertation avec les représentants des élus locaux et des personnels intéressés. Par ailleurs, l'accord conclu le 9 février 1990 entre le Gouvernement et cinq organisations syndicales de fonctionnaires vise à revaloriser les rémunérations, à améliorer les déroulements de carrière et à prendre en compte les nouvelles qualifications et responsabilités liées à l'évolution des missions des fonctionnaires. Parmi les mesures prévues par cet accord figure la création d'un classement indiciaire intermédiaire entre les catégories A et B au bénéfice des cadres d'emplois qui exigent l'exercice de responsabilités spécifiques et une qualification professionnelle d'une durée d'au moins 2 ans après le baccalauréat. Seront notamment alignées sur ce nouveau positionnement indiciaire, placé entre les indices bruts 322 et 638, les infirmières, les puéricultrices et les directrices de crèche. Quant au sages-femmes de la fonction publique territoriale, qui seront, conformément au protocole Durafour, classées en catégorie A, elles bénéficieront des mesures adoptées pour leurs homologues de la fonction publique hospitalière. Ces dispositions seront bien évidemment prises en compte dans le cadre de la construction statutaire de la filière médico-sociale de la fonction publique territoriale.
