@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940707090
+
+- Question : [SEQ940707090](seq940707090.md) — Réalisation par les communes dotées d'un POS d'habitations légères de loisirs sur des terrains d'accueil aménagés
+
+## Réponse
+
+*Équipement, JO du 1994-12-08, page 2909*
+
+Réponse. - Dans les communes dotées d'un plan d'occupation des sols (POS), il est possible de réaliser des opérations groupées d'habitations légères de loisirs dans des terrains aménagés pour leur accueil, à condition que le règlement de la zone d'implantation admette de telles constructions. Une telle zone peut être située en dehors des parties urbanisées de la commune, dès lors que les contraintes relatives à ce type d'installation ont été prises en compte dans le règlement de zone, notamment en ce qui concerne la protection des sites, l'intégration dans l'environnement, la protection contre les risques naturels et technologiques. Ces constructions ne pouvant s'implanter que dans un cadre collectif, il convient, en outre, de se référer aux dispositions de l'article R. 444-3 du code de l'urbanisme qui précisent les conditions dans lesquelles les habitations légères de loisirs peuvent être accueillies dans les terrains aménagés, c'est-à-dire dans les terrains de camping et de caravanage permanents autorisés, conformément à la réglementation applicable à ce mode d'hébergement (à la condition que le nombre des habitations légères soit inférieur à 35 ou 20 p. 100 du nombre d'emplacements), dans les terrains affectés spécialement à cet usage, et dans les villages de vacances classés en hébergement léger et dans les dépendances des maisons familiales de vacances agréées, conformément à la réglementation applicable à ces modes d'hébergement, quel que soit le nombre des habitations légères. Par ailleurs, les dispositions de l'article L. 111-1-2 du code de l'urbanisme ne sont pas applicables dès lors qu'il existe un POS approuvé.
