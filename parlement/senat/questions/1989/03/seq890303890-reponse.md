@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890303890
+
+- Question : [SEQ890303890](seq890303890.md) — Conséquence de l'augmentation de la taxe intérieure pétrolière pour les transporteurs routiers
+
+## Réponse
+
+*Économie, JO du 1989-06-22, page 959*
+
+Réponse. - La taxe intérieure de consommation sur les produits pétroliers (T.I.P.P.) est un impôt spécifique dont l'assiette est constituée par l'unité physique du produit (hectolitre ou quintal) et non sa valeur. Afin de réduire les effets de l'érosion monétaire, la loi de finances pour 1982 a mis en place un dispositif qui permet de relever les taux de la T.I.P.P. au cours de la première semaine de janvier de chaque année dans la même proportion que la limite inférieure de la 7e tranche de l'impôt sur le revenu. Le mécanisme n'a d'autre but que de conserver en valeur réelle la ressource fiscale et de stabiliser sa part dans le total des recettes budgétaires. Il s'applique à tous les produits soumis à la T.I.P.P., sans exception. En outre, en raison de l'écart de fiscalité existant entre le supercarburant et le gazole, qui conduit à une accélération de la diésélisation du parc de voitures particulières, il n'a pas été jugé opportun d'exclure le gazole de l'actualisation intervenue le 7 janvier dernier. Cela dit, cette augmentation au demeurant très modérée de la fiscalité pétrolière (+ 2,6 p. 100) n'est pas de nature à compromettre la compétitivité des entreprises de transports françaises. Il convient de rappeler que le Gouvernement s'est attaché à alléger leurs charges en faisant adopter une série de mesures législatives qui permettent d'ores et déjà aux transporteurs routiers internationaux de déduire 100 p. 100 de la T.V.A. sur les achats de gazole et qui doivent aboutir à la déductibilité totale au 1er janvier 1992 pour toutes les entreprises assujetties.
