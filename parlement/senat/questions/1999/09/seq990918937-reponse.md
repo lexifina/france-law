@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990918937
+
+- Question : [SEQ990918937](seq990918937.md) — Développement de l'activité de la cellule interministérielle de liaison sur la délinquance itinérante (CILDI)
+
+## Réponse
+
+*Défense, JO du 1999-11-25, page 3860*
+
+Réponse. - Créée le 1er août 1997, la cellule interministérielle de liaison sur la délinquance itinérante (CILDI) était initialement composée de deux officiers et de trois sous-officiers. Elle a été renforcée le 1er mars 1998 par un gradé spécialiste en analyse criminelle, le 16 mai 1999 par un major rédacteur analyste et le 1er août 1999 par un troisième officier. Depuis le début de l'année 1998, la CILDI a coordonné 23 groupes d'enquêtes dont 14 ont abouti à la résolution de nombreux méfaits (arrachages de distributeurs automatiques de billets, agressions de personnes âgées, cambriolages, vols de coffres-forts, vols à la voiture " bélier ", vols de fret, démantèlement de filières d'immigration clandestine...). Ces différentes opérations ont permis d'interpeller 291 personnes, dont 105 ont été placées sous mandat de dépôt et 36 reconduites à la frontière. Un certain nombre de ces enquêtes ont été conduites en collaboration avec les fonctionnaires de l'office central de répression du banditisme, de certains services régionaux de police judiciaire ou de la direction nationale des enquêtes fiscales et de la direction nationale du renseignement et des enquêtes douanières, et ont ainsi permis de démontrer tout l'intérêt d'un travail en commun. Après deux années de fonctionnement, les résultats enregistrés sont très encourageants et ont nettement progressé grâce à l'effort consenti par la gendarmerie pour augmenter les effectifs de cette formation. Pour l'avenir, l'objectif prioritaire doit être la concrétisation du caractère interministériel de la CILDI, par la participation à son fonctionnement de représentants d'autres administrations.
