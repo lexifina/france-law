@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871007899
+
+- Question : [SEQ871007899](seq871007899.md) — Résumé radio-télévisé quotidien des débats parlementaires
+
+## Réponse
+
+*Culture, JO du 1987-10-22, page 1679*
+
+Réponse. -La réponse à laquelle il est fait allusion émane du ministre chargé des relations avec le Parlement à qui la question n° 5573 du 16 avril 1987 avait été adressée. Il est précisé que, parmi les missions de service public que les sociétés nationales de programme (Antenne 2, France Région 3, Radio France outre-mer) sont tenues d'assurer, et qui sont fixées par leur cahier des missions et des charges, figure l'obligation de programmer et faire diffuser les principaux débats du Parlement. Cette programmation et cette diffusion sont effectuées sous le contrôle du bureau de chacune des assemblées et selon des modalités arrêtées d'un commun accord, notamment en ce qui concerne le choix des débats à retransmettre ; les bureaux des assemblées règlent les conditions dans lesquelles le temps d'antenne est réparti entre les divers orateurs, dans le respect de l'obligation générale de pluralisme et d'équilibre. Cette disposition a paru préférable à l'obligation très astreignante d'un résumé quotidien des travaux du Parlement. Les cahiers des missions et des charges précités prévoient également que les sociétés nationales de télévision et de radiodiffusion doivent programmer et diffuser régulièrement des émissions consacrées à l'expression directe des formations politiques représentées par un groupe dans l'une ou l'autre des assemblées du Parlement, dans le respect des modalités définies par la commission nationale de la communication et des libertés. Ces dispositions sont de nature à tenir les téléspectateurs régulièrement informés des débats relatifs aux questions d'actualité et aux projets de lois en discussion, ainsi que des opinions exprimées en ces occasions par les parlementaires.
