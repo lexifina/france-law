@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960515364
+
+- Question : [SEQ960515364](seq960515364.md) — Personnels attachés de service administratif des services déconcentrés
+
+## Réponse
+
+*Défense, JO du 1996-05-30, page 1321*
+
+Réponse. - Le problème du niveau indemnitaire des attachés des services déconcentrés du ministère de la défense est suivi très attentivement. C'est ainsi que les taux moyens budgétaires des indemnités de ce corps ont augmenté entre 1990 et 1995 de 52,5 p. 100 pour les chefs de service administratif et de 53,37 p. 100 pour les attachés. Par ailleurs, dans le cadre de la préparation de la loi de finances pour 1997, le ministre de la défense proposera une mesure de revalorisation de l'indemnité forfaitaire pour travaux supplémentaires et du complément indemnitaire. Sera également proposée la transformation d'emplois de huit attachés des services déconcentrés en emplois d'attachés de centrale. En outre, conformément au protocole d'accord du 9 février 1990 sur la rénovation de la grille des classifications et des rémunérations des trois fonctions publiques, les fonctionnaires du corps administratif supérieur ont bénéficié à compter du 1er août 1993 de la fusion des deux premiers grades du corps. La deuxième étape de l'application de ce protocole leur permettra une nouvelle amélioration de carrière par la possibilité d'atteindre l'indice brut 966 au sommet du dernier grade. Cette mesure, qui prendra rétroactivement effet au 1er août 1995, représente un gain de 65 points en termes d'indices bruts. Ces diverses avancées traduisent la volonté du ministre de la défense de poursuivre l'amélioration de la situation de ce corps, en l'inscrivant dorénavant dans le cadre d'une réflexion plus générale sur le rôle et la place des personnels civils, particulièrement au moment où le renforcement des échelons territoriaux déconcentrés permettra d'accompagner les modifications du système de défense sur la période 1997-2002.
