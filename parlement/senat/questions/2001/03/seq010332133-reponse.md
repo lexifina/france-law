@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010332133
+
+- Question : [SEQ010332133](seq010332133.md) — Situation des anciens combattants de la fonction publique en Afrique du Nord
+
+## Réponse
+
+*Anciens combattants, JO du 2001-04-26, page 1433*
+
+Réponse. - S'agissant des bonifications de campagne que les fonctionnaires ou assimilés, ayant été appelés à combattre pour la France, peuvent se voir reconnaître dans le cadre du code des pensions civiles et militaires de retraite, les dispositions applicables sont les suivantes : la campagne double pour les services effectués " en opérations de guerre " ; la campagne simple pour les services effectués " sur pied de guerre " ; la campagne simple ou la demi-campagne selon le degré d'insécurité. Les conflits d'Afrique du Nord se sont caractérisés par l'absence de " front " et une situation d'insécurité variable selon les régions, les époques et les unités engagées. Une rigoureuse application de ces textes aurait donc nécessité de créer un dispositif extrêmement complexe ; le résultat concret aurait alors situé la plus grande partie des services dans le champ de la demi-campagne, parfois de la campagne simple. Le législateur a choisi la simplicité en accordant à tous les militaires mobilisés en Afrique du Nord la campagne simple. Ce choix est manifestement le plus avantageux. Néanmoins, le secrétaire d'Etat à la défense chargé des anciens combattants a souhaité mettre en place une commission bipartite, composée de représentants d'associations de fonctionnaires du monde combattant et de représentants de l'administration, qui examine les conditions et les possibilités pouvant permettre à quelques vétérans de bénéficier de la campagne double. Toutefois, la difficulté est grande pour déterminer les situations qui pourraient être prises en compte dans ce cadre.
