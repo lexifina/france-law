@@ -1,0 +1,23 @@
+# Délibération portant avis sur un traitement automatisé d'informations nominatives mis en oeuvre par l'hôpital psychiatrique du "BON SAUVEUR" à Saint-Lô, aux fins d'exploitation de données cliniques sur les malades mentaux
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 85-04
+- Date : 1985-01-29
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017654640
+
+La Commission Nationale de l'Informatique et des Libertés, Vu la loi n° 78-17 du 6 Janvier 1978 et notamment ses articles 15 et 19 ; Vu le décret n° 78-774 du 17 Juillet 1978 pris pour l'application des chapitres 1er à IV et VII de la loi précitée du 6 Janvier 1978 ; Vu l'article 378 du Code Pénal ; Vu le projet d'acte réglementaire présenté par l'Hôpital Psychiatrique de Saint-Lô ; Après avoir entendu Monsieur Gérard JAQUET en son rapport et Madame PITRAT, Commissaire du Gouvernement, en ses observations ;
+
+Considérant que le traitement automatisé d'informations nominatives mis en oeuvre par l'hôpital psychiatrique du 8on Sauveur à Saint-Lô a pour objet, d'une part, d'assurer la gestion du dossier médical du patient et, d'autre part, d'effectuer des statistiques médicales aux fins de recherche dans le domaine de la psychopathologie et de la thérapeutique psychiatrique ;
+
+A - SUR LA COLLECTE DES INFORMATIONS : Considérant que ce traitement automatisé consiste à effectuer un suivi médical du patient de façon à établir, d'une part, un historique de ses consultations et séjours successifs à l'hôpital et, d'autre part, sa fiche médicale signalétique par le recueil de nombreuses données médicales. Considérant qu'aux termes de la demande d'avis, le traitement devait enregistrer sous une rubrique intitulée "personnalité antisociale" certains événements survenus dans la vie du patient tels que "problèmes scolaires, fugues, conflits avec la police, troubles du suivi du travail, difficultés conjugales, accès répétés de rage ou de bagarre, problèmes sexuels, errances et divagations, mensonges" ; Considérant que les responsables des traitements ont modifié la liste des informations collectées ; Considérant que seront enregistrées sous la rubrique "personnalité psychopathique" des données concernant l'existence de difficultés scolaires, caractérielles, conjugales ou professionnelles, de réactions médico-légales, de fugues ou d'autres événements que le malade a pu connaître au cours de son existence ; Considérant que le traitement automatisé de ces informations comporte des risques certains d'atteinte à la vie privée et aux libertés lorsqu'il est effectué à d'autres fins que le diagnostic et la thérapeutique des malades concernés ; Considérant qu'il convient, en conséquence, de rendre les données anonymes dès lors qu'elles sont utilisées à des fins de statistique et de recherche ; qu'il convient également de limiter à cinq années la durée de la conservation des informations nominatives sur support magnétique ; Considérant que l'enregistrement du numéro de sécurité sociale, qui reste subordonné en toutes hypothèses à l'application des dispositions de l'article 18, n'est pas pertinent eu égard à la finalité du traitement ; qu'il convient en conséquence, de procéder à sa suppression ;
+
+B - SUR LA CONFIDENTIALITE DES INFORMATIONS : Considérant que le dossier médical du patient hospitalisé, qu'il soit sur support papier ou magnétique est conservé sous la responsabilité du médecin Chef de service ; Considérant que les informations qui font l'objet du traitement automatisé sont destinées exclusivement aux médecins et à la secrétaire médicale des services concernés ; que seules ces personnes ont accès au terminal situé dans le service médical ;
+
+C - SUR L'INFORMATION PREALABLE DES INTERESSES : Considérant que le droit d'accès, tant à sa fiche informatique qu'au dossier manuel auquel celle-ci renvoie, constitue l'une des garanties essentielles de la protection des malades, qu'en conséquence, l'existence et les modalités d'exercice de ce droit, telles que prévues aux articles 34 et 40 de la loi du 6 Janvier 1978, doivent être portées expressément à la connaissance de ce dernier ou de son représentant légal, dès son entrée dans le service ; que de plus, il convient d'informer expressément les malades de la finalité du traitement ainsi que des mesures prises pour garantir la confidentialité des informations ;
+
+EMET, sous les réserves précitées, un AVIS FAVORABLE au projet d'acte réglementaire qui lui a été présenté. DEMANDE à être saisie d'une nouvelle demande d'avis en cas d'extension de la finalité du traitement.
+
+Le Président, Jacques FAUVET
