@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870807430
+
+- Question : [SEQ870807430](seq870807430.md) — Nord - Pas-de-Calais : moyens financiers du centre régional Oscar-Lambert
+
+## Réponse
+
+*Santé et famille, JO du 1987-12-03, page 1916*
+
+Réponse. -Le centre Oscar-Lambert, pour des raisons qui lui sont propres, n'a pas demandé son admission à l'exécution du service public hospitalier, contrairement à l'ensemble des autres centres de lutte contre le cancer et ne peut donc bénéficier des dispositions de l'article 41 de la loi hospitalière, notamment en matière d'investissements publics et de réforme des financements conduisant au régime budgétaire de dotation globale, en substitution au régime des prix de journée. En ce qui concerne les prix de journée qui lui sont dès lors applicables, il apparaît que, si ce montant est effectivement faible, par comparaison avec les tarifs journaliers de prestations des autres centres, le coût du séjour du malade figure parmi les plus élevés de cette catégorie d'établissements, compte tenu d'une durée d'hospitalisation excédant largement celles qui s'imposent en référence. En outre, l'évolution du budget du centre Oscar-Lambert entre les comptes administratifs 1984 et les résultats provisoires 1986 augmente de 10,13 p. 100 contre 9,5 p. 100 pour l'ensemble des centres et par référence à une augmentation cumulée des taux directeurs hospitaliers de 8,6 p. 100, à activité constante, pour la même période. Il ressort de ces observations que les habitants de la région Nord - Pas-de-Calais n'apparaissent pas comme défavorisés sur le plan national en ce qui concerne le coût des soins qui leur sont prodigués et que la réduction de la durée moyenne de séjour, élément important de la politique d'humanisation hospitalière, conditionne un réajustement du prix de journée, à coût de séjour constant, c'est-à-dire sans augmenter les dépenses à la charge de la collectivité.
