@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020238764
+
+- Question : [SEQ020238764](seq020238764.md) — Sanctions à l'encontre du Zimbabwe
+
+## Réponse
+
+*Affaires étrangères, JO du 2002-05-02, page 1227*
+
+Le conseil des affaires générales du 28 janvier a exprimé sa profonde préoccupation devant l'augmentation de la violence au Zimbabwe, les manoeuvres d'intimidation dont les opposants politiques sont l'objet, le harcèlement de la presse indépendante et l'adoption d'une législation visant à restreindre les libertés fondamentales. Il a en outre annoncé qu'il serait mis un terme aux consultations au titre de l'article 96 de l'accord de Cotonou et que des sanctions ciblées seraient appliquées si certaines demandes n'étaient pas remplies, notamment en matière d'observation électorale et d'accès des médias internationaux pour couvrir les élections. Le gouvernement zimbabwéen a invité seulement neuf Etats membres de l'Union européenne à observer les élections, s'est opposé à l'envoi d'observateurs venant d'autres pays de l'Union et a refusé en particulier d'accréditer le chef de la mission, l'ambassadeur Pierre Schori. Suite à l'expulsion de M. Schori du Zimbabwe le 16 février et au vu de la dégradation continue de la situation sur le terrain, le conseil des affaires générales du 18 février a décidé de clore les consultations avec mise en oeuvre des mesures appropriées concernant l'aide européenne et des sanctions ciblées. L'évolution de la situation au Zimbabwe n'a donc pas permis à l'Union européenne d'attendre le déroulement des élections, ce que la France aurait initialement souhaité. La France s'est donc pleinement associée à la décision prise par les Quinze lors du conseil des affaires générales du 18 février ainsi qu'à la déclaration prononcée lors du sommet de Barcelone des 15 et 16 mars.
