@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990717602
+
+- Question : [SEQ990717602](seq990717602.md) — Application du taux réduit de TVA aux prestations de collecte, de tri et de traitement des ordures ménagères
+
+## Réponse
+
+*Économie, JO du 1999-11-11, page 3719*
+
+Réponse. - L'instruction administrative du 12 mai 1999 publiée au BOI 3 C-3-99 précise les conditions d'application de l'article 31 de la loi de finances pour 1999 qui soumet au taux réduit de la TVA les prestations de collecte, de tri et de traitement des déchets ménagers et assimilés portant sur des matériaux ayant fait l'objet d'un contrat conclu entre une collectivité locale et une entreprise ou un organisme agréé pour prendre en charge la valorisation des emballages ménagers. Cette instruction ne réserve pas le bénéfice du taux réduit aux prestations rendues aux seules collectivités ayant conclu un tel contrat. En effet, peuvent également bénéficier du taux réduit les collectivités locales ayant recours pour l'exécution de tout ou partie du service public de collecte et de traitement des ordures ménagères, dont elles sont titulaires, à un établissement public de coopération intercommunale (EPCI) ayant conclu un tel contrat. Dans cette hypothèse, le taux réduit s'applique non seulement aux prestations rendues par les entreprises privées ou les collectivités locales prestataires de l'EPCI, mais également à celles des prestataires de la collectivité locale membre de l'EPCI. Enfin, dans l'hypothèse évoquée par l'auteur de la question, la collectivité prestataire chargée du traitement peut appliquer le taux réduit de TVA à sa prestation et récupérer la TVA qui lui est facturée au taux normal par les entreprises prestataires. Dans ces conditions, la collectivité responsable de la collecte bénéficie effectivement du taux réduit.
