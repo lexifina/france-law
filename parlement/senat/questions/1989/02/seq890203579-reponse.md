@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890203579
+
+- Question : [SEQ890203579](seq890203579.md) — Préparation de l'échéance 1992 pour les agriculteurs
+
+## Réponse
+
+*Agriculture, JO du 1990-05-03, page 963*
+
+Réponse. - Conscient de l'inquiétude des agriculteurs à l'égard des conséquences de la politique communautaire définie dans le " Livre blanc bis " sur la libre circulation des denrées alimentaires, le gouvernement français a effectué une démarche formelle sous la forme d'un mémorandum. La contribution française a reçu un accueil favorable d'une large majorité d'Etats membres. De son côté, la commission a pris en compte certaines des remarques formulées et a proposé, à l'occasion de sa communication sur l'" avenir du monde rural ", de promouvoir, dans le cadre de la politique agricole commune, une politique de qualité des denrées alimentaires comportant, en particulier, des mesures en faveur des labels et appellations d'origine. De la même façon, la commission a infléchi sa position en prévoyant la possibilité d'adopter des dispositions à caractère sectoriel, considérées comme nécessaires pour la mise en oeuvre d'autres politiques communautaires telle la politique agricole commune. Le conseil informel des ministres de l'agriculture de Beaune, organisé par la présidence française, a été consacré à l'examen des principales propositions figurant dans la contribution française : il a permis de constater l'intérêt des ministres à traiter de la qualité des denrées alimentaires. L'effort est maintenant porté sur un calendrier de présentation des mesures nouvelles annoncées par la commission pour répondre aux préoccupations qui lui ont été présentées. Outre les mesures en faveur d'une protection, à l'échelle de la Communauté, des labels et appellations d'origine, figurent celles des dénominations génériques, notamment des produits laitiers et des produits à base de viande.
