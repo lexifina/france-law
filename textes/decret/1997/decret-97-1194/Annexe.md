@@ -2914,6 +2914,64 @@ Article 6 bis.
 
 |
 
+Décret n° 99-1046 du 13 décembre 1999 relatif aux équipements sous pression
+
+1
+
+|
+
+Habilitation d'organismes de contrôle mentionnés aux articles 10, 12, 18 et aux points 3.1.2 et 3.1.3 de l'annexe 1, ainsi que la suspension ou le retrait de cette habilitation.
+
+Habilitation d'organes d'inspection d'utilisateurs mentionnés à l'article 14 ainsi que la suspension ou le retrait de cette habilitation.
+
+|
+
+Articles 14, 21 et 23.
+
+|
+
+2
+
+|
+
+Interdiction ou restriction de mise sur le marché, de mise en service ou de maintien en service d'équipements dangereux, ainsi que leur retrait.
+
+Prescription de conditions particulières de construction, de vérification, d'entretien ou d'utilisation d'équipements dangereux.
+
+|
+
+Articles 28 et 29.
+
+|
+
+Décret n° 2001-386 du 3 mai 2001 relatif aux équipements sous pression transportables
+
+1
+
+|
+
+Interdiction ou restriction de mise sur le marché, de transport ou d'utilisation d'équipements dangereux, ainsi que leur retrait.
+
+Prescription de conditions particulières de construction, de vérification, d'entretien ou d'utilisation d'équipements dangereux (récipients).
+
+|
+
+Articles 19, 20 et 21.
+
+|
+
+2
+
+|
+
+Habilitation ou agrément des organismes de contrôle ainsi que leur suspension ou retrait (récipients).
+
+|
+
+Articles 14 et 24.
+
+|
+
 Décret n° 51-508 du 4 mai 1951 modifié portant règlement général sur l'exploitation des mines de combustibles minéraux solides
 
 1
@@ -3354,17 +3412,17 @@ Arrêté du 1er octobre 1981, pris pour application du décret n° 81-883, artic
 
 |
 
-Décret n° 88-682 du 6 mai 1988 relatif au contrôle des instruments de mesure
+Décret n° 2001-387 du 3 mai 2001 relatif au contrôle des instruments de mesure
 
 1
 
 |
 
-Approbation de modèle d'instruments de mesure.
+Examen de type.
 
 |
 
-Article 7.
+Article 7, 2e alinéa.
 
 |
 
@@ -3372,7 +3430,7 @@ Article 7.
 
 |
 
-Prorogation d'approbation de modèle.
+Dérogation pour délivrer un certificat d'examen de type.
 
 |
 
@@ -3384,11 +3442,11 @@ Article 9.
 
 |
 
-Autorisation de mise en service pour essais officiels.
+Autorisation de mise en service.
 
 |
 
-Article 6, 2e alinéa.
+Article 12, 2e alinéa.
 
 |
 
@@ -3396,11 +3454,15 @@ Article 6, 2e alinéa.
 
 |
 
-Révocation d'approbation de modèle.
+Injonction de remédier à des défauts constatés sur un instrument.
+
+Suspension du bénéfice de la marque d'examen de type.
+
+Interdiction de l'utilisation d'instruments défectueux.
 
 |
 
-Article 10, 1er alinéa.
+Article 13.
 
 |
 
@@ -3408,11 +3470,11 @@ Article 10, 1er alinéa.
 
 |
 
-Interdiction d'utilisation d'instruments défectueux.
+Suspension de la vérification primitive et de la mise sur le marché d'instruments.
 
 |
 
-Article 10, 2e alinéa.
+Article 21.
 
 |
 
@@ -3420,59 +3482,11 @@ Article 10, 2e alinéa.
 
 |
 
-Suspension du bénéfice de la marque d'approbation de modèle.
+Désignation d'organismes.
 
 |
 
-Article 15, 4e et 5e alinéas.
-
-|
-
-7
-
-|
-
-Agrément d'un organisme d'essais d'approbation de modèle.
-
-|
-
-Article 8, 1er alinéa.
-
-|
-
-8
-
-|
-
-Agrément d'un organisme spécialisé pour la vérification primitive.
-
-|
-
-Article 19.
-
-|
-
-9
-
-|
-
-Désignation d'un organisme à compétence spécifique pour la vérification périodique.
-
-|
-
-Article 28.
-
-|
-
-10
-
-|
-
-Autorisation temporaire d'importation d'instruments de mesure.
-
-|
-
-Article 12.
+Article 36.
 
 |
 
