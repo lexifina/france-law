@@ -1,13 +1,29 @@
-# Article TABLEAU ANNEXE 2
+# Article ANNEXE 2
 
-1 1er, 4e, 13e et 14e arrondissements.
+Ressort territorial des conseils d'arrondissement de Marseille
 
-2 2e, 3e et 7e arrondissements.
+:----------------------------------: |
 
-3 5e, 10e, 11e et 12e arrondissements.
+: Désignation des :Arrondissements : |
 
-4 6e et 8e arrondissements.
+: secteurs:: |
 
-5 9e arrondissement.
+:----------------------------------: |
 
-6 15e et 16 arrondissements.
+: Premier secteur : 1er et 7e : |
+
+: Deuxième secteur : 2e et 3e : |
+
+: Troisième secteur : 4e et 5e : |
+
+: Quatrième secteur : 6e et 8e : |
+
+: Cinquième secteur : 9e et 10e : |
+
+: Sixième secteur : 11e et 12e : |
+
+: Septième secteur : 13e et 14e : |
+
+: Huitième secteur : 15e et 16e : |
+
+:----------------------------------: |
