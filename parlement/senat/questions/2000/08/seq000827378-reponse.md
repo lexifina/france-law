@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000827378
+
+- Question : [SEQ000827378](seq000827378.md) — Organisation des relations commerciales dans le secteur bijouterie-horlogerie
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2000-10-26, page 3717*
+
+Réponse. - Les ventes promotionnelles doivent en premier lieu être conformes aux articles L. 121-1 et suivants du code de la consommation relatifs à la publicité trompeuse ou de nature à induire en erreur. Par ailleurs, les annonces de réduction de prix sont soumises aux dispositions de l'arrêté nº 77-105/P du 2 septembre 1977, qui sanctionne les pratiques de faux rabais, notamment celle consistant à majorer artificiellement le prix de référence sur lequel la réduction est calculée. En outre, les opérations commerciales présentées comme visant à l'écoulement accéléré d'un stock déterminé de marchandises relèvent de la réglementation des soldes et peuvent être poursuivies au titre de l'article 29 de la loi du 5 juillet 1996 si elles sont effectuées en dehors des périodes légales. Les dispositions précédentes sont applicables à toutes les formes de distribution, y compris aux comités d'entreprises ou autres associations entrant en concurrence avec les commerçants. Elles font l'objet de contrôles de la part des services de la direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) et les infractions constatées sont sanctionnées par les tribunaux. Il ne semble donc pas nécessaire d'envisager à ce stade de nouvelles dispositions juridiques, alors que la réglementation actuelle permet une concurrence loyale entre commerçants, profitable aux consommateurs. Les commerçants qui s'estiment victimes de pratiques non conformes peuvent utilement adresser une plainte circonstanciée à la direction départementale de la concurrence, de la consommation et de la répression des frandes.
