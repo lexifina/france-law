@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970220273
+
+- Question : [SEQ970220273](seq970220273.md) — Remboursement des emprunts russes
+
+## Réponse
+
+*Affaires étrangères, JO du 1997-03-13, page 762*
+
+Réponse. - L'honorable parlementaire a bien voulu appeler l'attention du ministre des affaires étrangères sur l'état des négociations franco-russes concernant l'indemnisation des Français porteurs de titres d'emprunts russes. Le ministre de l'économie et des finances, M. Arthuis, et le vice-Premier ministre de la Fédération de Russie en charge des relations économiques extérieures, M. Davidov, ont signé, le 26 novembre 1996, un mémorandum d'accord portant règlement définitif des créances réciproques entre la France et la Russie constituées avant le 9 mai 1945. Aux termes de cet accord, la Fédération de Russie doit verser à la France, sur quatre ans, la somme de 400 millions de dollars américains, destinée à l'indemnisation des porteurs d'emprunts émis en France avant 1917, et des personnes physiques et morales françaises ayant subi des pertes ou dépossessions de biens lors de la révolution russe de 1917 et des annexions opérées par l'Union des républiques socialistes soviétiques entre 1939 et 1945. Par décret no 97-134 en date du 12 février 1997, le Gouvernement a institué une commission de suivi du mémorandum d'accord, présidée par M. Jean-Claude Paye, conseiller d'Etat. Cette commission sera chargée de proposer les modalités de recensement des ayants droit, pour lesquels aucune décision n'a donc encore été prise, ainsi que les méthodes d'évaluation et les modalités de l'indemnisation. Elle suivra également la mise en oeuvre des décisions prises par le Gouvernement sur la base de ses propositions. Cette commission, qui devrait commencer prochainement ses travaux, aura en outre compétence pour entendre les représentants des associations de personnes lésées.
