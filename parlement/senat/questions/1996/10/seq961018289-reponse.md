@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961018289
+
+- Question : [SEQ961018289](seq961018289.md) — Géomètres-experts
+
+## Réponse
+
+*Culture, JO du 1996-12-12, page 3323*
+
+Réponse. - La loi du 7 mai 1946 habilite les géomètres-experts, et eux seuls, à réaliser les études et travaux topographiques qui fixent les limites des biens fonciers. En revanche, la topographie qui n'a pas d'incidence foncière n'est pas réglementée en France et peut donc être réalisée sans aucune obligation de qualification. La loi du 28 juin 1994, qui a récemment modifié la loi du 7 mai 1946 instituant l'Ordre des géomètres-experts et le décret du 31 mai 1996, portant règlement de la profession de géomètre-expert et code des devoirs professionnels, pris pour son application, n'apportent pas sur ce point de modification au régime juridique précédemment en vigueur. L'objet essentiel de ces deux derniers textes est de transposer en droit interne les dispositions de la directive européenne du 21 décembre 1988 relative à un système général de reconnaissance des diplômes d'enseignement supérieur qui sanctionnent des formations professionnelles d'une durée minimale de trois ans. Il s'agit de permettre sous certaines conditions, à des Européens qualifiés d'exercer leur profession en France. La profession a souhaité qu'à l'occasion de cette transposition, le règlement intérieur de l'Ordre et le code de déontologie soient modernisés. Mais, l'actualisation à laquelle il a été procédé n'affecte en rien la définition du champ d'activité réservé aux géomètres-experts. En particulier les articles 48 et 50 du décret du 31 mai 1996, cités par l'honorable parlementaire, ne font que tirer les conséquences de l'existence du monopole des géomètres-experts en matière de topographie foncière tel qu'il résulte de l'article 1er de la loi du 7 mai 1946 modifié en dernier lieu par la loi du 15 décembre 1987. Le décret précité ne porte donc aucun préjudice à la profession de géomètre-topographe.
