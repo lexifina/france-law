@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990415691
+
+- Question : [SEQ990415691](seq990415691.md) — Prêt à taux zéro
+
+## Réponse
+
+*Économie, JO du 1999-09-30, page 3222*
+
+Réponse. - Le prêt à taux zéro est destiné aux personnes physiques qui acquièrent un logement en vue de l'occuper à titre de résidence principale. Selon les dispositions de l'article R. 317-5 du code de la construction et de l'habitation, la notion de résidence principale est définie par une occupation du logement au moins huit mois par an par les personnes physiques accédant à la propriété. Cette règle permet de garantir l'usage du bien acquis tout en préservant la faculté d'absences temporaires de durée inférieure à quatre mois par an. Par dérogation à la règle de l'occupation du logement à titre de résidence principale, les bénéficiaires du prêt, qui ne peuvent plus, pour des raisons professionnelles ou familiales, destiner leur logement à leur résidence principale, peuvent le donner en location. Un départ volontaire à l'étranger, réalisé en application du droit au congé de solidarité internationale institué à l'article L. 225-9 du code du travail au bénéfice de salariés souhaitant participer, pour une durée maximale de six mois, à une mission hors de France pour le compte d'une association à objet humanitaire, s'organise dans le cadre de l'entreprise et peut être assimilé à un motif d'ordre professionnel. A ce titre, l'intéressé peur donner le logement en location dans les conditions fixées par l'article 6 de l'arrêté interministériel du 2 octobre 1995 relatif aux conditions d'octroi de l'avance aidée par l'Etat pour l'acquisition d'une résidence principale en accession à la propriété. Le logement loué devra être occupé à titre de résidence principale par un ménage répondant aux conditions de ressources exigées pour l'octroi d'un prêt à taux zéro pour cent, le loyer annuel ne pouvant excéder le plafond de 5 % du coût de l'opération.
