@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871008328
+
+- Question : [SEQ871008328](seq871008328.md) — Avenir de l'office universitaire et culturel en Algérie (OUCFA)
+
+## Réponse
+
+*Affaires étrangères, JO du 1987-12-17, page 1961*
+
+Réponse. -Une négociation est actuellement engagée entre les deux gouvernements sur le devenir de l'office universitaire et culturel français pour l'Algérie. Le directeur général des relations culturelles, scientifiques et techniques a récemment rencontré nos partenaires algériens pour leur faire part de la position française qui est inspirée par le souci majeur et primordial de défendre nos intérêts culturels, ainsi que ceux des élèves de nos établissements. Néanmoins, l'autorisation accordée aux ressortissants algériens de scolariser leurs enfants sur le territoire national au sein d'établissements étrangers en général et notamment français relève de la souveraineté de l'Etat algérien, et le ministère des affaires étrangères ne saurait rien faire qui puisse être considéré comme une ingérence dans ce qui est de la stricte compétence de cet Etat. Pour ce qui concerne l'enseignement de la langue nationale, un bureau de l'arabe a été créé au sein même des structures de l'office depuis plus de six ans. Sous le contrôle de l'inspection générale d'arabe du ministère de l'éducation nationale, ce service a élaboré des méthodes d'enseignement spécifiques au pays d'accueil ainsi qu'au niveau des élèves tant français qu'algériens. Par ailleurs, il a été procédé à un renforcement des heures d'enseignement de l'arabe, en particulier pour les jeunes nationaux. En effet, il a toujours été admis qu'un effort spécial devrait être accompli à l'égard de ces jeunes élèves de l'O.U.C.F.A., afin que, à tout moment de leur scolarité, ils atteignent un niveau en arabe comparable à celui des élèves fréquentant les établissement nationaux. Les résultats constatés à ce jour sont particulièrement encourageants.
