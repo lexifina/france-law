@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960917758
+
+- Question : [SEQ960917758](seq960917758.md) — Conséquences médicales de la surcharge des cartables scolaires
+
+## Réponse
+
+*Éducation, JO du 1996-11-07, page 2905*
+
+Réponse. - Le problème posé par le poids excessif des cartables transportés chaque jour par certains élèves de collège - ceux de sixième notamment - a retenu l'attention des services du ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche et fait l'objet d'une étude qui a abouti à la publication d'une note de service au Bulletin officiel de l'éducation nationale no 39 du 26 octobre 1995. Ce texte, daté du 17 octobre 1995 et intitulé " Poids des cartables ", s'adresse à tous les membres de la communauté éducative qui sont directement concernés par ce problème et ont un rôle à jouer. Il fournit des exemples d'actions qu'enseignants, professeurs principaux, professeurs d'éducation physique et sportive, médecins, infirmiers, conseillers techniques auprès des recteurs et des inspecteurs d'académie, directeurs des services départementaux de l'éducation nationale, auront à coeur de mettre en oeuvre dans le cadre des responsabilités qu'ils exercent ; par ailleurs, il rappelle les dispositions de la réglementation en vigueur, qui prévoit pour les représentants des partenaires intéressés à la vie des élèves réunis en conseil d'administration la possibilité d'examiner les solutions pratiques susceptibles de réduire le poids des cartables, afin de permettre l'adoption de la mesure concrète qui correspond le mieux au contexte local. Il convient de noter que, dans les établissements scolaires où les membres de la communauté éducative se sont attachés à mettre en oeuvre tout ou partie des recommandations de ce texte au cours de l'année 1995-1996, une amélioration sensible des conditions de vie des élèves en la matière a d'ores et déjà été enregistrée.
