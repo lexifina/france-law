@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950811841
+
+- Question : [SEQ950811841](seq950811841.md) — Difficultés rencontrées par les comptables publics pour le réglement des dépenses résultant de l'application d'un contrat liant une collectivité locale à un salarié de droit privé
+
+## Réponse
+
+*Budget, JO du 1995-10-10, page 1937*
+
+Réponse. - Le décret no 88-74 du 21 janvier 1988 modifié portant établissement de la liste des pièces justificatives des paiements des communes, des départements, des régions et des établissements publics locaux précise que pour le premier paiement de dépenses de personnel, le comptable doit disposer d'un arrêté de l'ordonnateur ou d'un contrat en double exemplaire. Lorsqu'un contrat de travail est conclu entre une collectivité ou un établissement public local et un agent non titulaire de droit privé, il doit être signé par les deux parties. Dans le cas contraire, le comptable doit suspendre le paiement de la rémunération de l'agent pour absence de pièce justificative conformément aux contrôles qui lui sont imposés par les articles 12 et 13 du décret no 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique. L'article 121-1 du code du travail dispose que le contrat de travail peut être constaté dans les formes qu'il convient aux parties contractantes d'adopter, et reconnaît ainsi l'existence d'un contrat oral. Néanmoins, les comptables doivent exiger toutes les pièces prévues par la nomenclature des pièces justificatives, sinon leur responsabilité pourrait être engagée par le juge des comptes. Si le comptable dispose d'un jugement qui a reconnu l'existence d'un contrat (oral ou signé par l'une des parties seulement...), il est dans l'obligation de l'exécuter et doit donc procéder au paiement de la rémunération de l'agent sur la base du contrat tant que ce dernier n'aura pas été modifié ou dénoncé par l'une des parties.
