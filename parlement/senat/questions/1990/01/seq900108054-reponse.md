@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900108054
+
+- Question : [SEQ900108054](seq900108054.md) — Bilan et précisions de l'accroissement du trafic autoroutier
+
+## Réponse
+
+*Équipement, JO du 1990-05-24, page 1141*
+
+Réponse. - Les statistiques relatives au réseau autoroutier ne sont disponibles que depuis l'année 1972, date à laquelle la consistance de ce réseau a commencé à se stabiliser, permettant des comparaisons suffisamment fiables d'une année sur l'autre. Les tableaux ci-dessous présentent les principales données disponibles. Les prévisions d'accroissement du trafic sur le réseau autoroutier concédé sont de 4 p. 100 par an, pour les années 1990 à 1993. Nota voir tableau p.1141 et 1142
