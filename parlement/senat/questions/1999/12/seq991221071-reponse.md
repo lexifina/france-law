@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991221071
+
+- Question : [SEQ991221071](seq991221071.md) — Instructions M14 et M49
+
+## Réponse
+
+*Intérieur, JO du 2001-04-19, page 1355*
+
+Réponse. - Le rattachement des charges et des produits à l'exercice constitue une application du principe d'indépendance des exercices. Il vise à faire apparaître dans le résultat d'un exercice donné les seules charges et produits qui s'y rapportent. La procédure de rattachement consiste à intégrer dans le résultat annuel toutes les charges correspondant à des services faits et tous les produits correspondant à des droits acquis au cours de l'exercice considéré qui n'ont pu être comptabilisés en raison de la non-réception par l'ordonnateur de la pièce justificative. Le rattachement ne concerne que la seule section de fonctionnement afin de dégager le résultat comptable de l'exercice. L'instruction budgétaire et comptable M 14 prévoyait deux dispositifs de rattachement. Le premier est la méthode dite de régularisation et le second est celui de la contrepassation. Depuis 2000, seule la méthode de la contrepassation a été conservée pour les communes et leurs établissements publics. Les instructions M 4 applicables aux services publics industriels ou commerciaux ne prévoient que la méthode de la régularisation. Toutefois, par dérogation, l'instruction M 49 applicable au service d'eau et d'assainissement prévoit la méthode de contrepassation pour les seules ventes d'eau. Cette divergence de procédure va être prise en considération dans le cadre des travaux engagés notamment avec les élus du comité des finances locales visant à harmoniser les dispositions des instructions M 4. Dans ce contexte, l'abandon de la procédure de régularisation a été proposé au bénéfice de la généralisation de la méthode de la contrepassation.
