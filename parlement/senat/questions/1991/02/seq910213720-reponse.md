@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910213720
+
+- Question : [SEQ910213720](seq910213720.md) — Remboursement des médicaments homéopathiques
+
+## Réponse
+
+*Santé, JO du 1991-08-22, page 1785*
+
+Réponse. - En application du décret du 12 juillet 1989, l'arrêté du 12 décembre 1989 publié au Journal officiel du 30 décembre 1989 fixe la liste des substances et formes pharmaceutiques entrant dans la composition des préparations magistrales remboursables. Cette liste a été établie en poursuivant un triple objectif : éviter les prescriptions abusives, supprimer les dépenses injustifiées en résultant pour les organismes sociaux, répondre aux nécessités thérapeutiques de certains malades dont les besoins ne sont pas couverts actuellement par les spécialités pharmaceutiques. En ce qui concerne les préparations magistrales homéopathiques, la prise en charge a été réservée aux préparations associant plusieurs substances de la liste à l'exclusion des préparations unitaires déjà prises en charge par les organismes de sécurité sociale au titre des spécialités pharmaceutiques préparées par les laboratoires pharmaceutiques autorisés. Les produits homéopathiques visés par l'arrêté représentent les souches les plus couramment utilisées conformément à la liste des souches qui avait été établie au cours de ces dernières années avec le concours des représentants de la profession. En ce qui concerne les spécialités homéopathiques remboursables, il importe de souligner qu'un autre arrêté du 12 décembre 1989 publié au Journal officiel du 30 décembre 1989 a élargi la liste des spécialités homéopathiques unitaires remboursables de 734 à 1 163 produits homéopathiques. La réglementation des médicaments homéopathiques fera l'objet d'une étude avec la profession dans le cadre de l'harmonisation prochaine de la législation européenne.
