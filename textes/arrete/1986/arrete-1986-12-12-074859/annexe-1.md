@@ -56,7 +56,7 @@ Saône-et-Loire : 1
 
 Bretagne :
 
-Côtes-du-Nord : 1
+Côtes d'Armor : 1
 
 Finistère : 1
 
@@ -111,3 +111,5 @@ Vienne : 1
 Rhône-Alpes :
 
 Loire : 1
+
+Département(s) représenté(s) au titre de la coopération départementale ou interdépartementale : 1

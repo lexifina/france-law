@@ -35,3 +35,5 @@ Meuse : 1
 Moselle : 3
 
 Vosges : 1
+
+Département(s) représenté(s) au titre de la coopération départementale ou interdépartementale : 1

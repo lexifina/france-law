@@ -87,3 +87,5 @@ Picardie :
 Aisne : 1
 
 Oise : 1
+
+Département(s) représenté(s) au titre de la coopération départementale ou interdépartementale : 1

@@ -97,3 +97,5 @@ Rhône : 1
 Savoie :1
 
 Savoie (Haute) : 1
+
+Département(s) représenté(s) au titre de la coopération départementale ou interdépartementale : 1
