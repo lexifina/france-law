@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860500804
+
+- Question : [SEQ860500804](seq860500804.md) — Aptitude aux fonctions de chef d'établissement
+
+## Réponse
+
+*Éducation, JO du 1987-02-05, page 170*
+
+Réponse. -Afin de guider les recteurs dans l'établissement des propositions d'inscription sur les listes d'aptitude aux emplois de direction qu'il leur appartient d'établir, l'administration centrale les informe du nombre prévisionnel des postes à pourvoir et de sa répartition théorique entre les académies. Cette répartition, donnée à titre strictement indicatif, est faite au prorata du nombre de personnes qui, dans chaque académie, remplissent les conditions permettant de demander leur inscription. La même règle est appliquée aux personnels en fonctions dans les territoires d'outre-mer, détachés à l'étranger en coopération. En aucun cas, cette évaluation ne constitue, pour une académie donnée, un droit à un effectif minimum d'inscriptions sur une liste. En effet les listes d'aptitude sont nationales : il ne saurait donc exister de quota préétabli. Chaque liste est arrêtée par le ministre de l'éducation nationale après examen des dossiers proposés par les recteurs ainsi que par les ministres des affaires étrangères et de la coopération. Il n'est pas rare que le nombre des candidats finalement retenus par académie ou ministère diffère ainsi des indications initiales. A titre d'exemple, en ce qui concerne le ministère des affaires étrangères, pour la liste d'aptitude à l'emploi de proviseur de lycée pour 1986-1987, ces premières indications étaient de trois, et pour les principaux de collège, de neuf ; or ont été respectivement retenus six et onze candidats. En ce qui concerne le ministère de la coopération et pour la liste des proviseurs de lycée professionnel, une inscription était envisagée ; en fait quatre candidats ont été retenus. On observe des phénomènes comparables pour les départements et territoires d'outre-mer.
