@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990315088
+
+- Question : [SEQ990315088](seq990315088.md) — Bilan des activités du comité national d'urgence médico-psychologique
+
+## Réponse
+
+*Emploi, JO du 1999-06-10, page 1959*
+
+Réponse. - Afin de doter la France d'une organisation adaptée permettant de répondre rapidement sur l'ensemble du territoire aux blessures psychologiques provoquées par des attentats, des catastrophes ou des accidents collectifs, un réseau national de l'urgence médico-psychologique a été mis en place, à titre expérimental, par une circulaire du 28 mai 1997 du ministère chargé de la santé. Ce réseau, composé de psychiatres référents départementaux et de sept cellules permanentes interrégionales, est coordonné par le comité national de l'urgence médico-psychologique en cas de catastrophe, créé par arrêté en date du 28 mai 1997 et placé auprès du secrétaire d'Etat à la santé. Le comité national est chargé de définir les objectifs en la matière, de veiller à la cohérence du dispositif mis en place, de préciser les méthodes d'intervention des équipes, de superviser leur formation et d'évaluer les actions entreprises. Il s'est réuni une première fois en session plénière le 9 janvier 1998. Afin d'élargir sa composition aux départements ministériels directement concernés, les ministères de l'intérieur, de la justice, de l'équipement, des transports et du logement seront associés à la prochaine réunion plénière du comité. Un bilan de l'activité des structures interrégionales et départementales du réseau de l'urgence médico-psychologique, pour l'année 1998, est en cours de réalisation. Enfin, conformément à la circulaire précitée, des sessions de formation ont été organisées en 1998 et 1999, sous la responsabilité pédagogique du comité national, pour l'ensemble des psychiatres référents départementaux.
