@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981011369
+
+- Question : [SEQ981011369](seq981011369.md) — Application d'usages locaux contre des dispositions légales
+
+## Réponse
+
+*Justice, JO du 1998-12-10, page 3972*
+
+Réponse. - Le garde des sceaux, ministre de la justice, al'honneur de faire connaître à l'honorable parlementaire que l'article 671 du code civil renvoie aux règlements existants ou aux usages constants et reconnus pour déterminer la distance entre les plantations et la ligne séparative de deux fonds et, à défaut, fixe cette distance. Le recours aux usages permet une adaptation de la norme, non seulement dans l'espace, car les usages sont locaux, mais aussi dans le temps, les usages, bien que constitués par une pratique généralisée et prolongée, pouvant évoluer. Leur mode de preuve permet la prise en compte d'une éventuelle évolution. En effet, ils peuvent être établis par tous moyens : recueils publics ou privés, mais aussi témoignages, avis d'experts, attestations ou certificats de personnes ou organismes, sans que l'un de ces modes n'ait juridiquement une autorité supérieure aux autres, et leur existence est appréciée souverainement par les juges du fond, au vu des éléments de preuve produits contradictoirement discutés. La reconnaissance judiciaire de l'extension en Ile-de-France, au fur et à mesure de l'urbanisation, de l'usage parisien d'absence de distance illustre cette possibilité de changement. Ainsi apparaît-il qu'en exigeant des usages qu'ils soient constants et reconnus, sans paralyser la prise en compte de leur évolution, les règles actuellement en vigueur répondent à la préoccupation de l'honorable parlementaire. Au surplus, les critiques divergentes dont font parfois l'objet les distances subsidiairement prévues par le texte précité confirment l'opportunité du renvoi aux usages.
