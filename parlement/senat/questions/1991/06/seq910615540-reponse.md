@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910615540
+
+- Question : [SEQ910615540](seq910615540.md) — Evolution de l'impôt sur le revenu
+
+## Réponse
+
+*Économie, JO du 1991-09-12, page 1954*
+
+Réponse. - Selon les comptes de la nation, comptes provisoires de l'année 1990, les impôts sur le revenu et le patrimoine versés par les ménages en 1990 atteignent un montant de 397 milliards de francs, en progression nominale de 7,1 p. 100 par rapport au montant enregistré en 1989. Ces impôts comprennent l'impôt sur le revenu, l'impôt de solidarité sur la fortune (I.S.F.), les impôts sur les revenus des valeurs mobilières, la taxe d'habitation et divers impôts courants prélevés sur les revenus et le patrimoine, telle la vignette auto. En 1990, l'impôt sur le revenu croît à un rythme de 8,8 p. 100. Cette augmentation ne reflète aucune alourdissement du barème puisque les limites des tranches d'imposition ont été relevées, comme chaque année, du pourcentage de la hausse des prix. Elle s'explique par la forte croissance des revenus des ménages en 1989 (progression de l'emploi salarié et gains de pouvoir d'achat). Cette croissance se trouve amplifiée, dans le passage à l'impôt sur le revenu, par la progressivité du barème. En dépit du rendement accru de l'I.S.F., les mesures en faveur de la fiscalité de l'épargne modèrent sensiblement la progression des autres impôts sur le revenu et le patrimoine perçus par l'Etat. En outre, l'allégement, suite à son plafonnement, de la taxe d'habitation, limite la croissance des impôts sur le revenu et le patrimoine perçus par les administrations locales à 4,1 p. 100 contre 4,7 p. 100 en 1989. Le taux de pression fiscale pesant sur les ménages reste en 1990 à son niveau de 1989, sur une tendance décroissante depuis 1984 (voir tableau). Rappelons enfin que le taux de prélèvements fiscaux sur l'ensemble de l'économie passe de 24,6 p. 100 à 24,4 p. 100 de 1989 à 1990 et décroît régulièrement depuis 1987. Nota : voir tableau p. 1954.
