@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030105463
+
+- Question : [SEQ030105463](seq030105463.md) — Réflexion sur le recrutement des professeurs des écoles
+
+## Réponse
+
+*Jeunesse, JO du 2003-06-05, page 1817*
+
+La réflexion engagée sur le recrutement des professeurs des écoles, notamment en ce qui concerne l'exigence d'un pré-requis en langue vivante étrangère pour les candidats au concours n'est pas achevée. En effet, le certificat de compétence en langues de l'enseignement supérieur créé par l'arrêté du 22 mai 2000 se met progressivement en place depuis l'année universitaire 2000-2001. Quant au diplôme de compétence en langue créé en 1995, il n'a progressivement concerné que quatre langues (anglais, allemand, espagnol, italien) et ses modalités d'organisation et de validation ont été récemment redéfinies à une date encore récente avec l'intervention de l'arrêté du 17 avril 2002. Pour ces raisons, et afin que l'apprentissage d'une langue vivante à l'école puisse être assuré par des professeurs des écoles, la circulaire n° 2002-070 du 4 avril 2002 relative aux principes et modalités d'organisation de la deuxième année de formation dans les instituts universitaires de formation des maîtres précise que les professeurs des écoles stagiaires qui ne seraient pas titulaires du CLES niveau 2 ou du DCL niveau 3 ou d'un équivalent ou qui n'auraient pas choisi l'épreuve de langues vivantes au concours, ou qui auraient obtenu à cette épreuve une note inférieure à 10 suivront un enseignement de langue donnant lieu à une épreuve de niveau de langue équivalent à celui du CLES niveau 2. La réflexion est appelée à se poursuivre dans le cadre des mesures proposées le 9 avril 2003 pour l'amélioration de la formation des enseignants, qui comprennent notamment la mise en oeuvre d'un nouveau concours externe de recrutement de professeurs des écoles.
