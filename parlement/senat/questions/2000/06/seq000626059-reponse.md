@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000626059
+
+- Question : [SEQ000626059](seq000626059.md) — Préservation du jardin agronomique tropical de Vincennes
+
+## Réponse
+
+*Affaires étrangères, JO du 2000-08-31, page 2983*
+
+Réponse. - Le jardin agronomique tropical qui occupe près de 7 hectares dans le bois de Vincennes a été attribué à l'Etat sous le Second Empire selon un montage juridique complexe. La Ville de Paris est en effet la propriétaire et l'Etat l'usufruitier du lieu. Depuis la fusion entre les ministères de la coopération et des affaires étrangères, il fait partie des biens immobiliers affectés à ce dernier. Néanmoins, les organismes qui y travaillent ne sont pas directement des services du Quai d'Orsay puisque le principal occupant est le Cirad, un centre de recherche spécialisé dans les problèmes agricoles des pays en voie de développement. Outre ce centre de recherche, où travaillent soixante-dix chercheurs, on y trouve également certains services du ministère de l'agriculture, ainsi qu'une partie des archives de ce ministère. Le site est également occupé par les monuments aux morts à la mémoire des ressortissants des anciennes colonies morts pour la France lors des conflits mondiaux et par les bâtiments de l'exposition coloniale de 1907 qui sont très abîmés. L'avenir de ce site fait l'objet d'études et de réflexions au sein du ministère des affaires étrangères. Elles sont inspirées par deux objectifs : clarifier et mieux définir la situation juridique du site ; préserver et faire vivre ce lieu dont une partie est classée monument historique et sur lequel a été construit dans l'immédiat après-guerre, par l'architecte Roux-Spitz, un bâtiment qui constitue un témoignage reconnu de l'architecture de cette époque. Compte tenu de la complexité de ce dossier, aucune décision n'a été prise pour l'instant.
