@@ -6,7 +6,7 @@ I. - SÉCURITÉ ET POLICE
 
 1. Officiers, sous-officiers, caporaux et sapeurs des corps de sapeurs-pompiers professionnels.
 
-2. Brigadiers-chefs, brigadiers et agents de police municipaux (1).
+2 Brigadier-chef principal (1), brigadier-chef (2), brigadier et gardien principal (1), gardien de police.
 
 II. - SERVICES DE SANTÉ ET ÉTABLISSEMENTS PUBLICS D’HOSPITALISATION, DE SOINS ET DE CURE
 
@@ -68,8 +68,10 @@ Peintres au pistolet et vernisseurs.
 
 NOTA :
 
-(1) A compter du 1er janvier 1968.
+(1) 22 décembre 1972.
 
-(2) Dans cette dernière catégorie, sont compris les assistants et les assistantes hospitalières des hospices civils de Lyon.
+(2) A compter du 1er janvier 1968.
 
-(3) A compter du 13 septembre 1964.
+(3) Dans cette dernière catégorie, sont compris les assistants et les assistantes hospitalières des hospices civils de Lyon.
+
+(4) A compter du 13 septembre 1964.
