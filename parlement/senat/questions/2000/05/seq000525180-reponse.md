@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000525180
+
+- Question : [SEQ000525180](seq000525180.md) — Gestion des indemnités
+
+## Réponse
+
+*Fonction publique, JO du 2000-07-13, page 2513*
+
+Réponse. - L'application des dispositions du décret nº 99-744 du 30 août 1999 relatives à la vérification de l'effectivité de la dépense en matière d'hébergement et de restauration ainsi qu'à la réduction de moitié de l'indemnité de repas quand l'agent prend son repas dans un restaurant administratif et assimilé a effectivement été reportée au 1er septembre 2000. Ce report, confirmé par le décret nº 99-1102 du 15 décembre 1999, puis par le décret nº 2000-416 du 17 mai 2000, a été décidé afin que l'ensemble des administations puissent préparer les mesures nécessaires à l'application de ces dispositions et informer les agents des nouvelles modalités de gestion des frais de déplacement. A l'issue de cette phase transitoire, les difficultés administratives rencontrées par les administrations devraient donc être résolues. Par ailleurs, il convient de préciser qu'un comité interministériel de pilotage des frais de déplacement a été mis en place. Regroupant l'ensemble des administations gestionnaires de personnels, il assure une tâche de veille, en ce qui concerne l'application des règles en vigueur, pour permettre la mutualisation des expériences, mais aussi pour anticiper les évolutions réglementaires qui pourraient s'avérer nécessaires. Il s'attache surtout à favoriser le développement des expérimentations de prise en charge directe des frais de déplacement des agents de l'Etat par le recours à des prestataires de service extérieurs à l'administration. Celles-ci sont destinées à éviter aux agents d'avoir à faire l'avance des frais de déplacement, tout en permettant l'obtention de prix concurrentiels par l'administration grâce au savoir-faire des professionnels du voyage.
