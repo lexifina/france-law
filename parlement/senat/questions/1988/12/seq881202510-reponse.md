@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881202510
+
+- Question : [SEQ881202510](seq881202510.md) — Réhabilitation de la préfecture à Montpellier (Hérault)
+
+## Réponse
+
+*Intérieur, JO du 1989-06-15, page 924*
+
+Réponse. - La situation immobilière de la préfecture de l'Hérault a fait l'objet de nombreuses réflexions compte tenu de l'insuffisance et de la vétusté des locaux, des conditions d'accueil du public et de la disposition des services, génératrice de dysfonctionnements. Le regroupement des services dans des locaux fonctionnels apparaît donc comme une nécessité. Tenant compte du développement urbain de Montpellier, plusieurs sites ont été étudiés. La solution finalement retenue, le site actuel, qui sera aux deux tiers démoli et reconstruit, permet de répondre aux objectifs fixés par le plan de modernisation des préfectures. En effet, l'installation sur le site central permet à l'Etat et à sa représentation de demeurer au coeur historique de la ville qui sera desservie par le futur métropolitain. La reconstruction autorisera également une bonne fonctionnalité, ainsi qu'une extension des surfaces utiles globales adaptées aux besoins. L'accueil du public, qui répond au programme établi, s'accompagnera d'une maîtrise plus grande des aspects relatifs à la sécurité. S'agissant du coût financier, il est comparable aux autre solutions envisagées, soit près de 102 MF, et le financement des études est d'ores et déjà assuré, une première tranche de travaux étant prévue en 1990. Enfin, les services sociaux pour le personnel seront améliorés et agrandis. La solution finalement retenue a recueilli l'assentiment de la très large majorité des personnels de la préfecture. Cette opération, qui concerne une préfecture de région, apparaît comme exemplaire : elle concourt à la modernisation de notre administration ainsi qu'à l'amélioration des services rendus au public.
