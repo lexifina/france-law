@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031109822
+
+- Question : [SEQ031109822](seq031109822.md) — Calcul des pensions militaires d'invalidité
+
+## Réponse
+
+*Anciens combattants, JO du 2003-12-25, page 3708*
+
+Le secrétaire d'Etat aux anciens combattants précise que les pensions militaires d'invalidité sont calculées lorsque les militaires sont en activité de service, indépendamment de leur grade qui n'est pris en considération que lorsqu'ils cessent leur activité. Il n'est, par ailleurs, tenu compte du grade que dans le cadre du calcul de la pension principale et non dans celui des degrés de surpension, ni des allocations complémentaires éventuelles. L'article 6 de la loi de finances rectificative pour 1962 a accordé la pension d'invalidité au taux du grade aux militaires de carrière retraités. Cette mesure avait été adoptée pour mettre fin à une iniquité puisque les militaires de carrière en activité ou en retraite ne recevaient auparavant, quel que soit leur grade, qu'une pension d'invalidité au taux du soldat. Les pensions concédées avant la date d'entrée en vigueur de la loi susmentionnée, soit le 3 août 1962, n'ont cependant pas bénéficié de cette disposition favorable, de même que les pensions de veuves des militaires décédés avant cette date. Depuis lors, les associations d'anciens militaires et d'anciens combattants ont demandé l'extension de cette mesure pour les pensions des militaires de carrière et assimilés et celles de veuves, concédées antérieurement à la date du 3 août 1962. L'invalidité de la plupart des militaires concernés ayant constitué un obstacle au déroulement normal de leur carrière, il n'apparaît pas souhaitable, dans le contexte de la professionnalisation des années, de remettre en cause les dispositions actuellement en vigueur qui permettent, en plus de la réparation de l'invalidité, de prendre partiellement en considération ce préjudice lié.
