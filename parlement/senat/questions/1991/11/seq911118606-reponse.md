@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911118606
+
+- Question : [SEQ911118606](seq911118606.md) — Tourisme social : bilan des visites touristiques de week-end
+
+## Réponse
+
+*Tourisme, JO du 1992-03-12, page 630*
+
+Réponse. - La mise en oeuvre des treize mesures proposées par le ministre du tourisme lors de sa communication au conseil des ministres du 24 juillet 1991 " pour une politique d'accès aux loisirs et aux vacances " se signale en premier lieu par l'augmentation des crédits destinés au tourisme social dans le projet de loi de finances pour 1992. En effet, les crédits du titre IV affectés aux interventions publiques en faveur du tourisme associatif passeront de près de 4,5 millions de francs en 1991 à 13,5 millions en 1992 hors subvention exceptionnelle au fonds de garantie des loyers ; ceux du titre IV destinés aux subventions d'investissement pour les hébergements à caractère associatif ou familial s'élèveront en 1992 à 43,5 millions de francs en autorisations de programme contre 33,3 millions en 1991. Les moyens budgétaires ainsi dégagés vont permettre de financer en 1992 les mesures actuellement en cours d'élaboration. En ce qui concerne le billet populaire de congé annuel (B.P.C.A.), les ministères du tourisme, du budget et de l'équipement évaluent en ce moment, en liaison avec la S.N.C.F., la faisabilité d'une mesure de plafonnement des ressources des bénéficiaires. Cette mesure permettra l'attribution d'un second billet de transport à prix réduit aux catégories sociales les plus modestes, leur donnant ainsi la possibilité de prendre des vacances d'hiver. Une opération visant à aider l'intégration des jeunes des banlieues par des visites de sites, ainsi que par une présentation des métiers du tourisme dans le secteur de l'hôtellerie-restauration notamment, a été étudiée en liaison au secrétariat d'Etat aux affaires sociales et à l'intégration et des responsables d'associations. Sa mise en oeuvre est envisagée pour l'été prochain.
