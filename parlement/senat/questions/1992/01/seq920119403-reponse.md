@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920119403
+
+- Question : [SEQ920119403](seq920119403.md) — Nomination des agents d'exploitation des postes reçus au concours de février 1990
+
+## Réponse
+
+*Postes, JO du 1992-02-13, page 393*
+
+Réponse. - Pour assurer la continuité du service public et permettre aux services de La Poste et de France Télécom de combler leurs vacances d'emplois au fur et à mesure qu'elles se produisent, il est nécessaire d'avoir en permenance des lauréats en instance d'appel à l'activité. A cet effet, les concours de recrutement sont organisés par anticipation, en tenant compte des mouvements de personnels prévisibles, des sorties définitives de fonctions envisagées, ainsi que des défections susceptibles d'intervenir parmi les lauréats au moment de l'appel à l'activité, mais de telles prévisions sont par nature fragiles en raison du caractère aléatoire de certains de ces comblements d'emplois. Ainsi, s'agisant du concours d'agent d'exploitation (branche service général) du 18 février 1990, le rythme des sorties de fonctions des agents de ce corps ayant été beaucoup moins important que prévu, il n'a pas été possible de nommer les premiers lauréats de ce concours avant la finde l'année 1990. Les premières nominations sont intervenues à partir de septembre 1991, essentiellement à La Poste, et les appels à l'activité programmés par les exploitants publics au cours des prochains mois vont permettre de nommer un nombre grandissant de lauréats. Mais, compte tenu du volume prévisible des départs, ces appels à l'activité devront se poursuivre au-delà du 1er juillet 1992. De tels délais d'attente sont regrettables, aussi, à l'avenir, il pourront être sensiblement réduits, puisque, dans le cadre du nouveau dispositif de comblement des emplois en préparation, les exploitants publics envisagent de confier le recrutement aux échelons locaux, ce qui devrait permettre de déterminer les besoins avec une plus grande précision.
