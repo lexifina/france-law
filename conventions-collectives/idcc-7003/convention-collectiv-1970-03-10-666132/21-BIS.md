@@ -1,43 +1,51 @@
 # Article 21 BIS
 
-Les dispositions du présent article s'appliquent aux salariés permanents tels qu'ils sont définis à l'article 1er.
+1. Rémunération mensuelle
 
-La rémunération sera faite au mois, selon l'une des deux solutions définies ci-après. Dans le cadre de la consultation des instances représentatives du personnel visée à l'article 13 du protocole d'accord sur la durée du travail du 27 décembre 1981, ou dans l'année suivant la création d'une nouvelle entreprise, il pourra être retenu une des solutions proposées ci-après.
+La rémunération sera faite au mois et est, pour un horaire de travail déterminé et effectivement accompli pendant le mois ou la période mensuelle considérée, indépendante du nombre d'heures et de jours travaillés dans le mois.
 
-Si aucun accord n'intervient, l'employeur pourra choisir l'une des solutions proposées.
+Pour une durée hebdomadaire de trente neuf heures, la rémunération mensuelle minimale est obtenue en multipliant le salaire horaire de l'intéressé par 169 heures.
 
-La rémunération sera faite au mois et sera, pour un horaire hebdomadaire moyen de travail déterminé et effectivement accompli pendant le mois considéré, indépendante du nombre d'heures et de jours travaillés dans le mois.
+Lorsque l'horaire de travail de trente-neuf heures n'est pas accompli, la rémunération mensuelle subit un abattement égal au nombre d'heures de travail non effectuées, soit 1/169 par heure non effectuée.
 
-Cette rémunération mensuelle minimale, établie sur la base d' un horaire hebdomadaire de 39 heures en moyenne sur l'année de référence, sera obtenue en multipliant le salaire horaire de l'intéressé par 169 heures.
+2. Heures supplémentaires, heures de nuit et du dimanche
 
-Toute heure accomplie au-delà de 39 heures par semaine donner a lieu au paiement d'une majoration conformément à l'article 26-IV-A. Il est entendu que les heures effectuées au-delà de 39 heures dans le cadre de la modulation de la durée légale hebdomadaire du travail visée à l'article 26-II donneront lieu uniquement au paiement de cette majoration. Seules les heures effectuées au-delà de 39 heures par semaine et en sus de la modulation de la durée légale hebdomadaire du travail bénéficieront du paiement du principal et de la majoration.
+Les heures supplémentaires bénéficient d'une majoration de salaire de :
 
-Dans le cadre de la modulation de la durée légale hebdomadair e du travail visée à l'article 26-II, les heures effectuées à l'intérieur de la fourchette de 4 heures en plus ou en moins par semaine seront comptabilisées par semaine entière.
+- 25p. 100 au-delà de trente-neuf heures par semaine ;
 
-Le solde mensuel sera établi sur la base des semaines terminé es au cours de la période de paie considérée et sera indiqué sur le bulletin de paie :
+- 50p. 100 au-delà de quarante-sept heures par semaine.
 
-- sous forme de solde positif pour les heures effectuées d'avance au cours des semaines prises en compte et à récupérer ;
+Un accord d'entreprise peut prévoir que le paiement des heures supplémentaires visées à l'alinéa précédent est remplacé par le repos compensateur prévu au point 3 C ci-dessous.
 
-- sous forme de solde négatif pour les heures payées d'avance au cours des semaines prises en compte et à effectuer.
+Le travail des dimanches ainsi que le travail de nuit entre vingt-deux heures et cinq heures donnent lieu à une majoration de 25p. 100 indépendante des majorations légales pour heures supplémentaires.
 
-En cas de cessation du contrat de travail, la rémunération correspondant au solde issu de la modulation de la durée légale hebdomadaire du travail sera :
+3. Repos compensateur
 
-- en cas de solde positif. versée lors du règlement ultime de l'intéressé, pour les heures effectuées d'avance ;
+A. Dans les entreprises visées au point V B de l'article 26 qui doivent traiter des produits agricoles à un moment précis de maturité, et conformément aux dispositions dérogatoires du quatrième paragraphe de l'article 993 du code rural :
 
-- en cas de solde négatif, prélevée lors du règlement ultime de l'intéressé, pour les heures payées d'avance.
+1° Les heures supplémentaires effectuées :
 
-Lorsque l'horaire de travail de 39 heures n'est pas accompli du fait du salarié, la rémunération mensuelle subit un abattement égal au nombre d'heures de travail non effectuées, soit 1/169 par heure non effectuée.
+- au-delà de quarante-huit heures par semaine ;
 
-La rémunération trimestrielle sera, pour un horaire hebdomadaire déterminé et effectivement accompli pendant une période de 3 mois considérée, indépendante du nombre de jours travaillés dans la période retenue. Ces périodes de 3 mois sont fixes et déterminées par la division en quatre de l'année sociale de référence définie à l'article 26-I.
+- ou un dépassement du contingent annuel d'heures supplémentaires visé au point IV de l'article 26 et, dans ce cas, dès la quarantième heure dans la semaine, ouvrent droit à un repos compensateur payé de 30 p. 100 indépendamment des majorations pour heures supplémentaires visées au point 2 du présent article, premier alinéa.
 
-La rémunération trimestrielle minimale, établie sur la base d'un horaire hebdomadaire de 39 heures en moyenne sur la période de 3 mois considérée, sera obtenue en multipliant le salaire horaire moyen, au cours de la période retenue de l'intéressé, par 507 heures.
+Le bénéfice de ces deux mesures ne se cumule pas. Ainsi les heures supplémentaires effectuées en dépassement du contingent annuel et au-delà de quarante-huit heures par semaine, n'ouvrent droit qu'à un repos compensateur de 30 p. 100.
 
-Sont assimilées aux heures effectivement travaillées pour le calcul de la rémunération trimestrielle garantie toutes les heures d'absence individuelle, payées ou non, qui ne découlent pas d'une réduction générale horaire de l'entreprise. Il en est de même pour des cas de force majeure, indépendamment des approvisionnements, tels que conflit collectif de travail ou sinistre.
+Sauf dispositions prévues par accord d'entreprise, ce repos, qui est assimilé à une période de travail effectif pour le calcul des droits du salarié, ne peut être pris pendant la période de pointe visée au point V B de l'article 26.
 
-Par accord d'entreprise, le solde éventuel positif ou négatif, issu de la modulation de la durée légale hebdomadaire du travail visée à l'article 26-II à l'échéance de la période de 3 mois considérée, pourra être reporté sur la période suivante, sauf pour la période clôturant l'année sociale définie à l'article 26-I. Dans ce cas, la rémunération trimestrielle minimale sera aménagée, ainsi que la modalité de paiement du solde éventuel de la modulation reportée sur la période suivante.
+2° Lorsque la durée effective hebdomadaire de travail du salarié a dépassé en moyenne quarante-deux heures pendant une période de douze mois consécutifs, un repos compensateur est acquis et calculé sur la base d'un jour de congé payé par tranche d'heure supplémentaire au-delà de quarante-deux heures de durée hebdomadaire moyenne annuelle (soit un jour pour la quarante-troisième heure, deux jours pour la quarante-quatrième, etc.).
 
-Pour les salariés présents une partie du trimestre, la rémunération au cours de la période de présence sera calculée pro rata temporis.
+Ces périodes de repos, issues du bénéfice du 1° et du 2° ci-dessus, sont prises selon les mêmes modalités que les six jours de congé supplémentaires définis à l'article 40 (deuxième paragraphe).
 
-Toute heure accomplie au-delà de 39 heures par semaine donnera lieu au paiement d'une majoration conformément à l'article 26-IV-A.
+B. Dans les entreprises qui ne traitent pas des produits agricoles à un moment précis de maturité, le bénéfice du repos compensateur est acquis conformément aux articles 993 et 993-1 du code rural, soit :
 
-Le paiement de la rémunération sera effectué une fois par mois sur la base des heures effectivement réalisées au cours du mois considéré. Un acompte sera versé à ceux qui en feront la demande.
+- un repos compensateur égal à 20 p. 100 du temps de travail accompli en heures supplémentaires au-delà de quarante-deux heures par semaine, dans les entreprises de plus de dix salariés ;
+
+- un repos compensateur égal à 50 p.-100 du temps de travail accompli en dépassement du contingent d'heures supplémentaires annuel de cent trente heures prévu à l'article 993-2 du code rural dans les entreprises de dix salariés au plus et égal à 100 p.-100 dans les entreprises de plus de dix salariés.
+
+Le bénéfice de ces mesures ne se cumule pas.
+
+C. Par accord d'entreprise, le paiement des heures supplémentaires peut être remplacé par un repos compensateur de 125 p. 100 pour les huit premières heures et de 150 p. 100 pour les heures suivantes sans préjudice des dispositions des points A et B ci-dessus. Les règles d'attribution de ce repos compensateur sont définies par accord d'entreprise.
+
+Pour l'application des points 2 et 3 de cet article, les heures supplémentaires sont décomptées à partir de la durée effective hebdomadaire de travail du salarié, heures de récupération exclues.
