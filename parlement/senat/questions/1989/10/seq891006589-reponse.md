@@ -1,0 +1,9 @@
+# Réponse à la question SEQ891006589
+
+- Question : [SEQ891006589](seq891006589.md) — Création du parc naturel du plateau de Millevaches
+
+## Réponse
+
+*Environnement, JO du 1990-02-01, page 214*
+
+Réponse. - L'honorable parlementaire se félicite de la future création du parc naturel régional du plateau de Millevaches. Le classement d'un territoire du Limousin en parc naturel régional fait en effet l'objet d'une étude d'opportunité, la région ayant décidé d'affecter au bureau d'accueil de la montagne limousine un crédit de 120 000 francs à cette fin. Cette démarche de la région est conforme au décret du 25 avril 1988 relatif aux parcs naturels régionaux qui prévoit en son article 1er que toute initiative de parc naturel régional lui appartient. Elle permet au secrétariat d'Etat chargé de l'environnement, en accord avec la D.A.T.A.R., de s'associer à l'étude d'opportunité. A cet effet, un crédit de 75 000 francs a été dégagé par chacun de ces deux départements ministériels au titre de l'exercice 1989, en complément du crédit voté par le conseil régional. La participation de l'environnement devra être utilisée en priorité à approfondir les études relatives au milieu naturel, aux paysages et aux sites, et à faire l'inventaire des protections existantes ou envisagées. Si cette étude d'opportunité débouche sur la rédaction d'une charte en vue du classement du territoire en parc naturel régional, c'est alors - comme le précise le contrat de plan - qu'un avenant " pourra éventuellement prévoir les conditions et les modalités de création d'un parc naturel régional en Limousin ". C'est pourquoi le secrétariat d'Etat chargé de l'environnement n'est pas en mesure de préciser actuellement les moyens susceptibles d'être dégagés en accompagnement de l'effort local. La fixation de leur montant devrait faire l'objet d'une discussion avec la région après le classement du territoire en parc naturel régional.
