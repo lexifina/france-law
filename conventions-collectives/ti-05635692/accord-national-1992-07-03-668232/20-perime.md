@@ -1,3 +1,0 @@
-# Article 20 **périmé**
-
-Les présentes dispositions sont à valoir sur celles qui peuvent résulter de l'application de décisions ou de conventions nationales ou locales et ne peuvent en aucun cas se cumuler.
