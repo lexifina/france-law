@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970903027
+
+- Question : [SEQ970903027](seq970903027.md) — Vacances des enfants défavorisés
+
+## Réponse
+
+*Tourisme, JO du 1998-01-01, page 42*
+
+Réponse. - Le Secours populaire français (SPF) organise l'opération " Pour que l'été n'oublie personne " depuis 1974. Cette initiative, financée grâce à la générosité des donateurs et des bénévoles, permet chaque année à plusieurs milliers d'enfants de familles défavorisées de vivre une journée de vacances. Le nombre d'enfants participants en 1997 n'est pas encore connu, mais il ne devrait pas être inférieur à celui des années précédentes : en 1996, ils étaient presque 27 000 enfants, et en 1995, année du 50e anniversaire du SPF, ils dépassaient les 30 000. Les actions menées en 1997 par les responsables du SPF ont été l'occasion de faire connaître la mer à des petits Franciliens, la capitale à des petits provinciaux ; ces moments touristiques, parfois culturels, restent un souvenir inoubliable pour les enfants. La journée à Houlgate a permis à 5 200 enfants défavorisés de découvrir la mer. Elle a nécessité la mobilisation de nombreuses personnes pour accompagner les enfants, veiller à leur sécurité et à l'organisation du transport par autocars. Ce type d'initiative se révèle toujours très salutaire pour la santé physique et l'équilibre psychologique des enfants. L'Etat a apporté son soutien financier à l'organisation de la journée d'Houlgate, dans la mesure où elle s'inscrivait pleinement dans sa politique visant à favoriser le départ en vacances pour tous dans un pays où une personne sur trois ne part pas en vacances. Les actions en faveur du droit aux vacances pour tous seront développées en 1998 ; elle porteront aussi bien sur l'élargissement de l'accès aux chèques-vacances que sur le soutien financier à des initiatives en faveur du tourisme social.
