@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920119549
+
+- Question : [SEQ920119549](seq920119549.md) — Enseignement physique et sportif dans le département de la Seine-Saint-Denis
+
+## Réponse
+
+*Éducation, JO du 1992-03-31, page 785*
+
+Réponse. - Les horaires officiels d'éducation physique et sportive sont de trois heures en collège et de deux heures en lycée auxquelles peuvent s'ajouter trois heures d'activités sportives dans le cadre de l'association sportive pour tous les élèves qui le désirent. Les activités du sport scolaire qui se déroulent le mercredi après-midi représentent une possibilité non négligeable, offerte à tous sous la responsabilité des enseignants de la discipline dans le cadre de leur temps de service. Il n'a pas été envisagé de porter à cinq heures l'enseignement obligatoire d'éducation physique et sportive. Par ailleurs, il convient de rappeler que le nombre de postes d'éducation physique et sportice créés depuis le début des années 1980 s'élève à plusieurs milliers, que le recrutement à l'agrégation et au C.A.P.E.S. s'est fortement accru depuis 1986 et que l'évolution du déficit horaire a nettement régressé ces dernières années. Il apparaît donc que le ministère a conduit l'ensemble du domaine de l'éducation physique et sportive et des activités sportives scolaires à un niveau sensiblement plus élevé, tant du point de vue qualitatif que quantitif. S'agissant de la Seine-Saint-Denis, l'appréciation des situations locales dans ce département doit être faite avec les instances compétentes, en l'occurrence les services extérieurs de l'éducation nationale, auxquels les mesures de déconcentration ont accordé la responsabilité de la répartition des moyens entre les établissements scolaires. Il n'appartient pas à l'administration centrale de s'immiscer, sauf exception justifiée, dans cette gestion, mais d'opérer un contrôle des résultats grâce à des dispositifs de suivi et d'évaluation.
