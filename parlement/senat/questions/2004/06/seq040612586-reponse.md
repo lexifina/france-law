@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040612586
+
+- Question : [SEQ040612586](seq040612586.md) — Augmentation du nombre des décès par noyade
+
+## Réponse
+
+*Intérieur, JO du 2004-09-30, page 2229*
+
+L'honorable parlementaire appelle l'attention de M. le ministre de l'intérieur, de la sécurité intérieure et des libertés locales sur le nombre des décès par noyade en 2002. Il lui demande également les mesures que le Gouvernement a prévues pour prévenir les noyades accidentelles, augmenter la prévention dans ce domaine et développer l'apprentissage de la natation. Plusieurs mesures ont été mises en place récemment, et notamment la loi n° 2003-1389 du 3 janvier 2003 qui oblige les propriétaires de piscines privées à mettre en place des dispositifs de protection autour des bassins. La direction et la défense et de la sécurité civiles (DDSC) participe, depuis quatre ans, à la mise en place d'une campagne de prévention et d'information sur les dangers de la baignade. En 2004, la DDSC s'est associée à la nouvelle campagne placée sous l'égide de l'Institut national de prévention et d'éducation pour la santé (INPES), qui a donné lieu à l'édition et diffusion de deux dépliants tirés à deux millions d'exemplaires : l'un entièrement consacré aux dangers de la baignade et rappelant les conseils élémentaires de sécurité, l'autre invitant les propriétaires de piscines à se conformer à la nouvelle loi et à rester constamment vigilants dans la surveillance des jeunes enfants. Une circulaire interministérielle associant le ministère de l'intérieur, de la sécurité intérieure et des libertés locales, le ministère de la santé et de la protection sociale et le ministère des sports et de la vie associative, adressée aux préfets avant la saison estivale, rappelle chaque année la nécessité d'informer le public sur les risques liés aux baignades.
