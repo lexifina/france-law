@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870907622
+
+- Question : [SEQ870907622](seq870907622.md) — Forêts communales soumises aux régimes forestiers
+
+## Réponse
+
+*Agriculture, JO du 1988-03-10, page 331*
+
+Réponse. -Le problème de l'évolution des modes de vente pratiqués par l'Office national des forêts est au coeur des réflexions actuellement conduites par l'établissement en concertation avec toutes les parties intéressées, l'objectif à atteindre étant une meilleure répartition de la ressource en bois entre les industriels de la première transformation. Cette réflexion doit prendre en compte un certain nombre de contraintes propres à chacun des partenaires, et qui ne sont pas toujours compatibles entre elles. A ce titre, il convient en particulier d'évoquer le respect des règles de concurrence, qui est considéré comme primordial par les professionnels de la première transformation regroupés au sein de la Fédération nationale du bois. En revanche, les collectivités publiques propriétaires de forêts manifestent la volonté d'intervenir directement dans l'économie locale du bois en consentant à certains industriels un accès privilégié à leurs ressources forestières. Il s'agit donc d'un problème difficile, dont la solution ne peut être trouvée que sous la forme d'un compromis acceptable par tous. En tout état de cause, il est certain qu'une bonne adéquation entre les ressources ligneuses et les divers besoins des industries du bois exige le maintien, pour chaque catégorie de produit, d'un système clair de répartition des volumes et de fixation des prix, et de règles du jeu définies au niveau national et connues de tous. Les dispositions qui régissent actuellement le système de vente des produits des forêts communales sont de nature législative, mais le Gouvernement serait tout disposé, si les discussions en cours aboutissaient, à en proposer la modification au Parlement.
