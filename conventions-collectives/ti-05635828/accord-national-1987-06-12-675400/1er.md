@@ -28,16 +28,20 @@ Elle concourra à la mise en oeuvre des contrats de formation en alternance inst
 
 Dans ce but, elle établira, en application de l'article L. 980-2, troisième alinéa, du code du travail, la liste des qualifications professionnelles pouvant être acquises par la voie du contrat de qualification, après que les besoins en auront été identifiés à l'échelon national et territorial. Pour ce faire, elle validera, pour chacune des activités qui auront été répertoriées, la définition des capacités professionnelles nécessaires à l'exercice de cette activité ainsi que la description des épreuves de qualification permettant de vérifier que ces capacités ont été acquises. La réussite à ces épreuves donnera lieu à l'attribution d'un certificat de qualification de la profession délivré sous le contrôle de la commission nationale de l'emploi.
 
+Les actions de formation organisées par les entreprises dans le cadre des dispositions de l'article L. 933-5 du code du travail ainsi que celles suivies en application des articles L. 931-1 et suivants du code du travail conduisent, entre autres, à l'obtention d'un certificat de qualification délivré sous le contrôle de la commission paritaire nationale de l'emploi de la métallurgie (2).
+
 La commission nationale de l'emploi porra déléguer les attributions décrites à l'alinéa ci-dessus aux commissions paritaires territoriales de l'emploi pour les qualifications identifiées à l'échelon territorial.
 
-Une dérogation particulière sera demandée aux pouvoirs publics pour que les entreprises ayant inscrit leurs salariés titulaires d'un contrat de qualification aux certificats de qualification ainsi mis au point puissent financer le coût des épreuves correspondantes sur les fonds défiscalisés au titre des formations en alternance.
+Une dérogation particulière sera demandée aux pouvoirs publics pour que les entreprises ayant inscrit leurs salariés aux certificats de qualification ainsi mis au point puissent financer le coût des épreuves correspondantes soit sur les fonds défiscalisés au titre des formations en alternance, lorsque ces derniers sont titulaires d'un contrat de qualification soit, sur les fonds de la formation professionnelle continue lorsque les actions de formation sont organisées dans le cadre des articles L. 931-1 et L. 933-5 du code du travail.
 
-La commission nationale de l'emploi élaborera un document dans lequel seront précisées les modalités de mise en oeuvre des dispositions prévues aux trois précédents alinéas.
+La commission nationale de l'emploi élaborera un document dans lequel seront précisées les modalités de mise en oeuvre des dispositions prévues aux quatre précédents alinéas.
 
 En matière de congé individuel de formation, la commission paritaire nationale de l'emploi exercera les attributions prévues par l'article 36 de l'accord national interprofessionnel du 9 juillet 1970 modifié sur la formation et le perfectionnement professionnels, ainsi que par l'article 13 de l'accord cadre du 10 mars 1983 sur l'application, dans la métallurgie, des dispositions relatives au congé individuel de formation.
 
-(1) Ainsi qu'un ou deux experts en tant que de besoin.
+(1) Ainsi qu'un ou deux experts en tant que de besoin. (2) Alinéa étendu sous réserve de l'application des articles L.931-1 et suivants du code du travail.
 
 NOTA :
 
 (1) Ainsi qu'un ou deux experts en tant que de besoin.
+
+(2) Alinéa étendu sous réserve de l'application des articles L.931-1 et suivants du code du travail.
