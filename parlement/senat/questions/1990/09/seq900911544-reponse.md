@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900911544
+
+- Question : [SEQ900911544](seq900911544.md) — Limitation de la vitesse des véhicules
+
+## Réponse
+
+*Transports, JO du 1991-05-30, page 1121*
+
+Réponse. - Le fond du dossier de la sécurité routière est celui des comportements des usagers ; ils sont en cause dans plus de 90 p. 100 des accidents. C'est pourquoi l'action sur les comportements est au centre de la politique de sécurité routière engagée par le Gouvernement. Pour assurer une modération de la conduite, l'ensemble des moyens d'action ont été mobilisés. L'éducation à la sécurité routière au sein du milieu éducatif a naturellement fait l'objet d'un renforcement, notamment dans l'enseignement primaire. En matière de formation à la conduite, le développement de la méthode d'apprentissage accompagné et l'obligation d'appliquer le programme national de formation visent explicitement à orienter la formation vers une connaissance de la circulation fondée sur l'expérience et la responsabilisation. Les résultats observés à l'examen du permis de conduire, mais surtout la très faible implication dans les accidents des jeunes ainsi formés montrent l'efficacité de la conduite accompagnée. Les campagnes de communication menées depuis plus de trois ans sont axées sur le thème du partage de la route et de la modération des comportements. Enfin, en matière réglementaire, l'abaissement à 50 kilomètres par heure de la vitesse maximale autorisée en agglomération a pour objectif d'assurer la cohérence entre l'usage de la ville et la circulation automobile. Naturellement, ces mesures ont été complétées par un accroissement et une modernisation des moyens de contrôle et de sanction. Pour conclure, il s'agit que le conducteur adapte son comportement aux impératifs de sécurité routière et non aux capacités de son véhicule.
