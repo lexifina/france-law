@@ -1,0 +1,15 @@
+# Délibération portant avis relatif aux traitements automatisés de gestion de l'action sanitaire et sociale mis en oeuvre dans les caisses départementales et pluridépartementales de la mutualité sociale agricole
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 89-20
+- Date : 1989-02-28
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017652826
+
+La Commission Nationale de I'informatique et des Libertés, Vu la Convention du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ; Vu la loi n° 78-17 du 6 janvier 1978 relative à l'Informatique, aux fichiers et aux libertés ; Vu le décret n° 78-774 du 17 juillet 1978 pris pour l'application des chapitres I à VII de la loi précitée ; Vu l'article 378 du Code Pénal et l'article 225 du Code de la Famille et de l'Aide Sociale ; Vu le projet de décision présenté par les Caisses centrales de mutualité sociale agricole ; Après avoir entendu Monsieur André PERDRIAU en son rapport et Madame Charlotte-Marie PITRAT, Commissaire du Gouvernement en ses observations ;
+
+Considérant que les Caisses centrales de Mutualité Sociale Agricole ont saisi la Commission d'une demande d'avis relative à la gestion de l'action sanitaire et sociale destinée à constituer un modèle-type à la disposision des caisses locales ; que la finalité de ce traitement est de permettre la gestion sur microordinateurs par les services des caisses départementales et pluridépartementales de mutualité sociale agricole et les associations en dépendant, créées par celles-ci, des actions relevant des missions d'action sanitaire et sociale prévue par la loi ; Considérant que les informations traitées sont relatives à l'identité des bénéficiaires, aux cotisations versées, aux prestations servies et à leur facturation, à l'exclusion du numéro d'inscription au répertoire des personnes physiques et de toute information de caractère médical ; que lorsqu'elles sont recueillies par voie de questionnaires, ceux-ci devront comporter les mentions prévues à l'article 27 de la loi du 6 janvier 1978 susvisée ; Considérant que l'accès aux traitements sera réservé aux travailleurs sociaux de la Mutualité Sociale Agricole et aux responsables des associations qui seront munis à cette fin de codes confidentiels individuels ; Considérant qu'aucune interconnexion ne sera réalisée avec d'autres traitements mis en oeuvre par les caisses locales de mutualité sociale agricole ; Considérant que le droit d'accès s'exercera auprès de la Caisse de mutualité sociale agricole prestataire des services proposés ; Considérant que les Caisses de mutualité sociale agricole mettant en oeuvre ces traitements ou les Associations qui seraient amenées à le faire, adresseront à la Commission une demande d'avis allégée comportant un engagement de conformité de référence à ce modèle ainsi qu'un projet d'acte réglementaire ;
+
+Emet un avis favorable au projet de décision présenté par les Caisses centrales de mutualité sociale agricole. Le Président, Jacques FAUVET.
