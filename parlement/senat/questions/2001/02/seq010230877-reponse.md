@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010230877
+
+- Question : [SEQ010230877](seq010230877.md) — Assurance-vie : abattement fiscal
+
+## Réponse
+
+*Économie, JO du 2001-06-28, page 2160*
+
+Les sommes payables en vertu du contrat d'assurance-vie à raison du décès de l'assuré au profit d'un bénéficiaire déterminé sont susceptibles d'être soumises au décès de l'assuré, à trois régimes fiscaux possibles : taxation aux droits de mutation par décès, application du prélèvement de 20 % ou, à défaut, exonération de ces droits. Pour la détermination du régime fiscal applicable, il est tenu compte de la date de souscription du contrat, de celle du versement des primes et enfin, le cas échéant, de l'âge de l'assuré au jour de ces versements. S'agissant des contrats pour lesquels les dispositions de l'article 757-B du code général des impôts s'appliquent, les droits de mutation par décès sont exigibles dans les conditions de droit commun sur la fraction des primes qui excède 200 000 francs. Par suite, il y a lieu d'appliquer, dans l'hypothèse envisagée où le bénéficiaire du contrat est le conjoint survivant, l'abattement de 500 000 francs prévu à l'article 779-I du code précité. En revanche, lorsque les sommes versées sur un contrat d'assurance sont soumises au prèlèvement de 20 % prévu à l'article 990-I du code déjà cité, l'assiette de cet impôt est diminuée d'un abattement de 1 000 000 de francs par bénéficiaire. L'assujettissement des capitaux décès à un prélèvement qui ne constitue pas des droits de mutation par décès exclut toute application de l'abattement de 500 000 francs. Cela étant, si l'époux survivant, bénéficiaire du contrat d'assurance, a également la qualité d'hériter de l'assuré, celui-ci bénéficiera de l'abattement de 500 000 francs sur l'actif successoral qui lui est par ailleurstransmis.
