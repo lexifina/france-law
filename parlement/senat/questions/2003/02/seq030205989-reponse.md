@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030205989
+
+- Question : [SEQ030205989](seq030205989.md) — Règles de financement des services départementaux d'incendie et de secours
+
+## Réponse
+
+*Intérieur, JO du 2003-04-24, page 1416*
+
+L'honorable parlementaire attire l'attention du ministre de l'intérieur, de la sécurité intérieure et des libertés locales sur les futures règles de financement des services départementaux d'incendie et de secours (SDIS), qui prévoient qu'en 2006 les dépenses seront à la charge exclusive des départements. En application de l'article L. 1424-35 du code général des collectivités territoriales, les modalités de calcul des contributions des communes, des établissements publics de coopération intercommunale (EPCI) et du département sont fixées par le conseil d'administration du service départemental d'incendie et de secours. Dès lors il appartient au conseil d'administration de définir les critères devant servir de base à ce calcul. Par ailleurs, il résulte des dispositions de l'article 121 de la loi n° 2002-276 du 27 février 2002 que les contributions des communes et des EPCI devraient être supprimées à compter du 1er janvier 2006. De plus, cet article prévoit qu'à compter de l'exercice 2003 le montant global des contributions de ces collectivités est maintenu au niveau atteint à l'exercice précédent, augmenté de l'indice des prix à la consommation. Il appartient donc au conseil d'administration de fixer, pendant cette période transitoire, les critères de répartition de ce montant global entre les différentes collectivités. Toutefois, il ne fait pas de doute que le problème du financement des services départementaux d'incendie et de secours sera à nouveau abordé dans le cadre de l'examen du projet de loi relatif à la modernisation de la sécurité civile, actuellement en cours d'élaboration.
