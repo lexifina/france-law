@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010231204
+
+- Question : [SEQ010231204](seq010231204.md) — Crise viticole de la région délimitée Cognac
+
+## Réponse
+
+*Agriculture, JO du 2001-04-12, page 1259*
+
+Réponse. - La région des Charentes est confrontée depuis plusieurs années à une réduction de son débouché en Cognac. Dans le même temps, les rendements à l'hectare ont sensiblement progressé, et la production, très variable avec les années, atteint en moyenne 10 millions d'hectolitres, soit plus du cinquième de la production française, alors que le vignoble charentais représente environ le dixième de la superficie en production au plan national. Cette région est la seule en Europe à bénéficier à grande échelle d'un régime réglementaire spécifique, dit " des cépages à double fin ", qui assure l'élimination, à un prix garanti, des volumes de vins excédentaires par rapport au marché. Pour remédier à la dérive des rendements, qui menace le secteur des vins blancs sans indication géographique, déjà fragile, d'une baisse généralisée des cours à la production, le Gouvernement a décidé avec l'appui de la viticulture charentaise la mise en place d'un rendement agronomique plafonné à 130 hectolitres/hectare. Les aides communautaires au stockage et à l'enrichissement sont réservées aux viticulteurs qui respectent ce niveau de rendement. Dans ces conditions, l'aide nationale à la distillation de crise, réservée aux producteurs qui respectent un rendement agronomique à 90 hectolitres/hectare ne peut leur être étendue. En ce qui concerne l'abandon du régime double fin, aucune demande formelle n'a été exprimée. Toutefois, l'examen de l'abandon à terme du régime à double fin fait l'objet d'une concertation auprès des producteurs, afin d'en identifier l'ensemble des conséquences pour la région, et pour l'ensemble de la viticulture nationale et européenne.
