@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941209101
+
+- Question : [SEQ941209101](seq941209101.md) — Accise sur le vin
+
+## Réponse
+
+*Agriculture, JO du 1995-03-09, page 558*
+
+Réponse. - Le projet de la Commission de porter le taux minimum d'accises pour le vin à 9,9 écu/hl s'inscrit dans le cadre de la directive communautaire no 92/84/CEE du 19 octobre 1992 concernant le rapprochement des taux d'accises sur l'alcool et les boissons alcoolisées. Cette directive prévoit dans son article 8 que " tous les deux ans et, pour la première fois le 31 décembre 1994 au plus tard, le Conseil procède, sur la base d'un rapport et, le cas échéant, d'une proposition de la Commission, à l'examen des taux d'accises (...) ". Toutefois, à l'heure actuelle, le projet d'un taux minimum de 9,9 écus/hl pour le vin n'a rien d'officiel. Ce n'est pour le moment qu'un projet de la direction générale XXI - union douanière et fiscale - de la Commission, projet qui ne recueille pas l'assentiment de l'ensemble de la Commission et auquel la direction générale VI - agriculture - en particulier est opposée. Ce projet n'a donc pas encore été présenté au conseil des ministres à Bruxelles et rien ne permet de dire qu'il le sera. Ce dossier ne relève pas directement de la compétence du ministère de l'agriculture et de la pêche. Il fait partie des missions du service de la législation fiscale au ministère du budget. Toutefois, si le projet de fixation d'un taux minimum d'accises pour le vin à 9,9 écus/hl devait être officiellement présenté, il sera fait part d'une opposition totale à une telle disposition qui ne peut qu'entraîner une aggravation de la baisse de la consommation de vin, alors qu'une nouvelle OCM viti-vinicole demandant aux viticulteurs européens un nouvel effort d'adaptation de leur production au marché est en pleine discussion.
