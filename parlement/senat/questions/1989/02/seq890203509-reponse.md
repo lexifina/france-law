@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890203509
+
+- Question : [SEQ890203509](seq890203509.md) — Tarification EDF en faveur des communes
+
+## Réponse
+
+*Industrie, JO du 1989-05-04, page 719*
+
+Réponse. - Le système tarifaire actuellement pratiqué par Electricité de France ne prévoit pas, compte tenu de la diversité des besoins de livraison, de dispositions permettant d'appliquer dans les bâtiments communaux un regroupement des abonnements. Il serait au demeurant difficile de justifier, au plan de l'égalité de traitement, que les collectivités locales puissent bénéficier d'un regroupement de leurs abonnements, alors qu'une telle possibilité est refusée aux autres usagers domestiques et industriels. Quel que soit l'usage ou l'activité du client, celui-ci peut bénéficier de chacun des tarifs basse tension, moyenne tension ou haute tension, dès l'instant où la puissance souscrite du point de livraison considéré se situe dans la plage de puissance correspondante. Une entreprise qui a plusieurs établissements géographiquement distincts possède autant de points de livraison. Chacun de ceux-ci fait l'objet d'un contrat indépendant et d'un tarif associé adapté. Il en est de même pour les collectivités locales. En matière de tarification, il convient de souligner qu'il existe déjà deux types de tarifs préférentiels pour les communes : l'un s'applique à l'éclairage public et l'autre aux différents services communaux et intercommunaux. L'éclairage public est desservi par un réseau spécialisé et la souscription des puissances en chaque point de livraison est établie sur la base des puissances installées. Il dispose d'un tarif qui lui est propre, dont la prix d'abonnement est relativement faible par rapport au tarif basse tension professionnel. Les autres usages de l'électricité, comme ceux des bâtiments communaux, sont soumis à un barème dont la prime fixe est également inférieure à celle des tarifs professionnels.
