@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890605302
+
+- Question : [SEQ890605302](seq890605302.md) — Calcul du revenu minimum d'insertion
+
+## Réponse
+
+*Solidarité, JO du 1989-08-24, page 1367*
+
+Réponse. - Le revenu minimum d'insertion est destiné à assurer aux plus démunis un minimum de ressources et une insertion sociale et professionnelle. Cette allocation a un caractère différentiel ; elle complète les revenus existants jusqu'a atteindre un minimum social variable selon la composition du foyer. Elle assure donc une compensation sociale minimale des charges de l'enfant. Il est alors logique, dans la perspective d'un minimum garanti que soit retenu pour le calcul de l'allocation l'ensemble des ressources de la famille y compris les prestations familiales, à l'exception toutefois de certaines prestations sociales à objet spécialisé (art. 9 de la loi n° 88-1088 du 1er décembre 1988). Cette exception tient à ce que ces prestations ont pour but de faire face à un besoin spécifique et ne peuvent être considérées comme apportant une ressource de subsistance. Ces prestations, qui sont en ce qui concerne les prestations familiales, l'allocation d'éducationspéciale et ses compléments, l'allocation de rentrée scolaire et l'allocation de garde d'enfant à domicile, sont énumérées par l'article 8 du décret n° 88-1111 du 12 décembre 1988. Lorsque la famille perçoit une aide au logement (allocation de logement ou aide personnalisée au logement), celle-ci n'est incluse dans les ressources qu'à concurrence d'un montant forfaitaire (au 1er juillet 1989 : 243 francs pour une personne seule, 486 francs pour un foyer de deux personnes, 601,42 francs pour un foyer de trois personnes ou plus). Toutefois lorsque l'aide au logement effectivement perçue est inférieure à ce forfait, la prise en compte est limitée à cette aide.
