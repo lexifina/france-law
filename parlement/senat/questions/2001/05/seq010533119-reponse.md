@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010533119
+
+- Question : [SEQ010533119](seq010533119.md) — Réglementation de la détention d'armes à feu
+
+## Réponse
+
+*Intérieur, JO du 2001-07-26, page 2480*
+
+Le projet de loi relatif à la sécurité quotidienne qui a été adopté le 27 juin dernier, en nouvelle lecture, par l'Assemblée nationale contient plusieurs dispositions qui modifient le décret-loi du 18 avril 1939 relatif aux matériels de guerre, armes et munitions. Ces modifications ont pour objet de rendre plus sûr le commerce d'armes et de munitions. Il est ainsi prévu de soumettre à autorisation préfectorale l'ouverture de tout nouveau local destiné au commerce de détail d'armes, cela afin de s'assurer que, du fait de sa localisation, le local ne présente pas un risque particulier pour la sécurité publique et que sa protection est suffisante. Le texte pose par ailleurs le principe selon lequel le commerce de détail des armes et des munitions de toutes les catégories, à l'exception des armes de 8e catégorie, doit s'effectuer dans les armureries autorisées. Cette obligation n'empêche cependant pas les armuriers habilités à vendre des armes par correspondance ou à distance, dès lors que la livraison est effectuée chez un armurier. Toutefois, prenant en compte les difficultés matérielles que ce dispositif pourrait présenter pour les personnes vivant en zone rurale, notamment les chasseurs, le Gouvernement a donné un avis favorable à une disposition tendant à permettre la livraison directe chez l'acquéreur des armes de 5e catégorie acquises à distance ou par correspondance. De même, les munitions de toutes les catégories pourront être acquises par correspondance ou à distance et être livrées directement chez l'acquéreur. Ce projet de loi sera soumis au Sénat, en nouvelle lecture, à l'automne prochain.
