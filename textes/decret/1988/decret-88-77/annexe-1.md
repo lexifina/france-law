@@ -1,161 +1,203 @@
 # Article annexe 1
 
-NUMERO de la nomenclature : 38-62
+NUMERO de la nomenclature : 389 b
 
-INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles PCS :
+INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles-emplois salariés d'entreprise (PCS-ESE) :
 
-Personnels navigant technique de l'aviation civile.
+Officiers et cadres navigants techniques et commerciaux de l'aviation civile.
 
-NUMERO de la nomenclature : 38-63
+NUMERO de la nomenclature : 389 c
 
-INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles PCS : Officiers de la marine marchande.
+INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles-emplois salariés d'entreprise (PCS-ESE) :
 
-NUMERO de la nomenclature : 48-02
+Officiers et cadres navigants techniques de la marine marchande.
 
-INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles PCS : Maîtres d'équipage.
+NUMERO de la nomenclature : 480 b
 
-NUMERO de la nomenclature : 52-23
+INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles-emplois salariés d'entreprise (PCS-ESE) :
 
-INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles PCS : Ambulanciers.
+Maîtres d'équipage de la marine marchande et de la pêche.
 
-NUMERO de la nomenclature : 53-15
+NUMERO de la nomenclature : 526 e
 
-INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles PCS : Pompiers.
+INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles-emplois salariés d'entreprise (PCS-ESE) :
 
-NUMERO de la nomenclature : 53-17
+Ambulanciers.
 
-INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles PCS :
+NUMERO de la nomenclature : 533 a
 
-Agents de sécurité et de surveillance, excepté les gardiens d'usine, les gardiens de musée et les gardiens de nuit.
+INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles-emplois salariés d'entreprise (PCS-ESE) :
 
-NUMERO de la nomenclature : 54-41
+Pompiers.
 
-INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles PCS : Contrôleurs des transports.
+NUMERO de la nomenclature : 534 a
 
-NUMERO de la nomenclature : 54-45
+INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles-emplois salariés d'entreprise (PCS-ESE) :
 
-INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles PCS : Agents et hôtesses d'accompagnement.
+Agents civils de sécurité et de surveillance, excepté les gardiens d'usine et les gardiens de nuit.
 
-NUMERO de la nomenclature : 55-10
+NUMERO de la nomenclature : 546 a
 
-INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles PCS : Vendeurs de grands magasins.
+INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles-emplois salariés d'entreprise (PCS-ESE) :
 
-NUMERO de la nomenclature : 62-34
+Contrôleurs des transports (personnels roulants).
 
-INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles PCS : Monteurs qualifiés en charpente métallique.
+NUMERO de la nomenclature : 546 d
 
-NUMERO de la nomenclature : 62-41
+INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles-emplois salariés d'entreprise (PCS-ESE) :
 
-INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles PCS :
+Hôtesses de l'air et stewards.
 
-Chefs d'équipe du gros oeuvre et des travaux publics.
+NUMERO de la nomenclature : 546 e
 
-NUMERO de la nomenclature : 62-42
+INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles-emplois salariés d'entreprise (PCS-ESE) :
 
-INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles PCS : Ouvriers qualifiés du travail du béton.
+Autres agents et hôtesses d'accompagnement (transports, tourisme).
 
-NUMERO de la nomenclature : 62-43
+NUMERO de la nomenclature : 553 b
 
-INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles PCS :
+INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles-emplois salariés d'entreprise (PCS-ESE) :
 
-Conducteurs qualifiés d'engins de chantier du bâtiment et des travaux publics.
+Vendeurs polyvalents des grands magasins.
 
-NUMERO de la nomenclature : 62-44
+NUMERO de la nomenclature : 624 d
 
-INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles PCS :
+INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles-emplois salariés d'entreprise (PCS-ESE) :
+
+Monteurs qualifiés en structures métalliques.
+
+NUMERO de la nomenclature : 621 a
+
+INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles-emplois salariés d'entreprise (PCS-ESE) : Chefs d'équipe du gros oeuvre et des travaux publics.
+
+NUMERO de la nomenclature : 621 b
+
+INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles-emplois salariés d'entreprise (PCS-ESE) :
+
+Ouvriers qualifiés du travail du béton.
+
+NUMERO de la nomenclature : 621 c
+
+INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles-emplois salariés d'entreprise (PCS-ESE) :
+
+Conducteurs qualifiés d'engins de chantiers du bâtiment et des travaux publics.
+
+NUMERO de la nomenclature : 621 e
+
+INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles-emplois salariés d'entreprise (PCS-ESE) :
 
 Autres ouvriers qualifiés des travaux publics.
 
-NUMERO de la nomenclature : 62-45
+NUMERO de la nomenclature : 621 g
 
-INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles PCS : Mineurs de fond qualifiés.
+INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles-emplois salariés d'entreprise (PCS-ESE) :
 
-NUMERO de la nomenclature : 62-46
+Mineurs de fond qualifiés et autres ouvriers qualifiés des industries d'extraction (carrières, pétrole, gaz ...).
 
-INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles PCS : Ouvriers qualifiés de l'extraction.
+NUMERO de la nomenclature : 632 a
 
-NUMERO de la nomenclature : 63-31
+INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles-emplois salariés d'entreprise (PCS-ESE) :
 
-INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles PCS : Charpentiers en bois qualifiés.
+Maçons qualifiés.
 
-NUMERO de la nomenclature : 63-41
+NUMERO de la nomenclature : 632 c
 
-INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles PCS : Maçons qualifiés.
+INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles-emplois salariés d'entreprise (PCS-ESE) :
 
-NUMERO de la nomenclature : 63-43
+Charpentiers en bois qualifiés.
 
-INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles PCS : Couvreurs qualifiés.
+NUMERO de la nomenclature : 632 e
 
-NUMERO de la nomenclature : 64-11
+INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles-emplois salariés d'entreprise (PCS-ESE) :
 
-INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles PCS :
+Couvreurs qualifiés.
+
+NUMERO de la nomenclature : 641 a
+
+INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles-emplois salariés d'entreprise (PCS-ESE) :
 
 Conducteurs routiers et grands routiers.
 
-NUMERO de la nomenclature : 64-12
+NUMERO de la nomenclature : 641 b
 
-INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles PCS :
+INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles-emplois salariés d'entreprise (PCS-ESE) :
 
-Conducteurs de véhicules routiers de transports en commun.
+Conducteurs de véhicules routiers de transport en commun.
 
-NUMERO de la nomenclature : 64-15
+NUMERO de la nomenclature : 643 a
 
-INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles PCS : Conducteurs, livreurs, coursiers salariés.
+INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles-emplois salariés d'entreprise (PCS-ESE) :
 
-NUMERO de la nomenclature : 65-11
+Conducteurs livreurs, coursiers.
 
-INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles PCS : Conducteurs d'engins lourds de levage.
+NUMERO de la nomenclature : 651 a
 
-NUMERO de la nomenclature : 65-12
+INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles-emplois salariés d'entreprise (PCS-ESE) :
 
-INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles PCS : Conducteurs d'engins lourds de manoeuvre.
+Conducteurs d'engins lourds de levage.
 
-NUMERO de la nomenclature : 65-13
+NUMERO de la nomenclature : 651 b
 
-INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles PCS : Dockers.
+INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles-emplois salariés d'entreprise (PCS-ESE) :
 
-NUMERO de la nomenclature : 65-22
+Conducteurs d'engins lourds de manoeuvre.
 
-INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles PCS :
+NUMERO de la nomenclature : 652 b
 
-Conducteurs qualifiés d'engins de transport guidés.
+INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles-emplois salariés d'entreprise (PCS-ESE) :
 
-NUMERO de la nomenclature : 65-31
+Dockers.
 
-INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles PCS : Matelots de marine marchande.
+NUMERO de la nomenclature : 654 b
 
-NUMERO de la nomenclature : 65-32
+INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles-emplois salariés d'entreprise (PCS-ESE) :
 
-INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles PCS :
+Conducteurs qualifiés d'engins de transport guidés (sauf remontées mécaniques).
 
-Capitaines et matelots, timoniers de la navigation fluviale.
+NUMERO de la nomenclature : 654 c
 
-NUMERO de la nomenclature : 67-41
+INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles-emplois salariés d'entreprise (PCS-ESE) :
 
-INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles PCS :
+Conducteurs qualifiés de systèmes de remontées mécaniques.
+
+NUMERO de la nomenclature : 656 b
+
+INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles-emplois salariés d'entreprise (PCS-ESE) :
+
+Matelots de la marine marchande.
+
+NUMERO de la nomenclature : 656 c
+
+INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles-emplois salariés d'entreprise (PCS-ESE) :
+
+Capitaines et matelots timoniers de la navigation fluviale.
+
+NUMERO de la nomenclature : 671 c
+
+INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles-emplois salariés d'entreprise (PCS-ESE) :
 
 Ouvriers non qualifiés des travaux publics et du travail du béton.
 
-NUMERO de la nomenclature : 67-42
+NUMERO de la nomenclature : 671 d
 
-INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles PCS :
+INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles-emplois salariés d'entreprise (PCS-ESE) :
 
-Aides mineurs, ouvriers non qualifiés de l'extraction.
+Aides-mineurs, ouvriers non qualifiés de l'extraction.
 
-NUMERO de la nomenclature : 68-41
+NUMERO de la nomenclature : 681 a
 
-INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles PCS :
+INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles-emplois salariés d'entreprise (PCS-ESE) :
 
 Ouvriers non qualifiés du gros oeuvre du bâtiment.
 
-NUMERO de la nomenclature : 69-11
+NUMERO de la nomenclature : 691 a
 
-INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles PCS :
+INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles-emplois salariés d'entreprise (PCS-ESE) :
 
 Conducteurs d'engins agricoles ou forestiers.
 
-NUMERO de la nomenclature : 69-21
+NUMERO de la nomenclature : 692 a
 
-INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles PCS :
+INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles-emplois salariés d'entreprise (PCS-ESE) :
 
-Marins-pêcheurs et ouvriers de l'aquaculture.
+Marins pêcheurs et ouvriers de l'aquaculture.
