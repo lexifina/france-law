@@ -1,0 +1,15 @@
+# Délibération portant avis sur le projet de décision relatif à la mise en place d'un traitement dénommé "modulation des taxes parafiscales céréalières" mis en oeuvre par l'ONIC
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 82-203
+- Date : 1982-12-07
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017653964
+
+La Commission Nationale de l'Informatique et des Libertés : - Vu la loi N° 78-17 du 6/01/1978 et notamment son article 15 ; - Vu le décret N° 78-774 du 17 Juillet 1978 ; - Vu le décret du 18 Juin 1941 portant organisation administrative et financière de l'Office National Interprofessionnel des Céréales ; - Vu le décret N° 81-875 du 25 Septembre 1981 relatif aux taxes parafiscales applicables aux céréales pendant la campagne 1981-1982 et perçues au profit de l'ONIC, notamment son article 2 ; - Vu le décret N° 81-876 du 25 Septembre 1981 modifiant le décret N° 75-721 du 6 Août 1975 modifié créant sur les céréales une taxe parafiscale destinée à alimenter le Fonds National de Développement Agricole, notamment son article 1er ; - Vu le décret N° 82-733 du 23 Août 1982 relatif à la taxe parafiscale perçue pour le financement des actions du secteur céréalier, notamment ses articles 1 et 4 ; - Vu le décret N° 82-895 du 15 Octobre 1982, relatif à la taxe parafiscale perçue sur les céréales au profit du Fonds National de Développement Agricole pendant la campagne 1982-1983 ; - Vu le projet de décision du Directeur de l'Office National Interprofessionnel des Céréales ; Après avoir entendu M. MALEPRADE, en son rapport et M. le Commissaire du Gouvernement en ses observations,
+
+Considérant qu'il résulte du projet de décision soumis à l'avis de la Commission et destiné à réglementer la modulation des taxes parafiscales céréalières - que le traitement mis en oeuvre par l'Office National Interprofessionnel des Céréales est destiné à assurer le calcul de l'assiette des compléments de taxes dus par les livreurs de céréales, - qu'il est nécessaire pour asseoir ces compléments de taxes, de procéder à la récapitulation des livraisons effectuées pour le compte d'un livreur pendant la campagne écoulée, - que les informations utilisées dans le traitement sont exclusivement celles dont la mention est nécessaire compte tenu de la finalité de celui-ci, à savoir : . l'identité du livreur, son N° ONIC, ses dates et commune de naissance, . son adresse légale, . la localisation des exploitations, . le N° ONIC du collecteur et les quantités livrées, - que les destinataires des informations sont les sections départementales de l'ONIC et la DGI, cette dernière n'ayant toutefois pas communication des renseignements relatifs à la localisation des exploitations ainsi qu'aux dates et communes de naissance des livreurs, - que le droit d'accès s'exerce auprès de l'ONIC (sections départementales et service informatique),
+
+Sous réserve d'expliciter la référence à l'article 27 de la loi du 6/1/1978 sur les questionnaires remis aux assujettis, Emet un avis favorable au projet de décision visé ci-dessus.
