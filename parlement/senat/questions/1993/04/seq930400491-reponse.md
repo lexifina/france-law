@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930400491
+
+- Question : [SEQ930400491](seq930400491.md) — Utilisation des actions mises en place par les organismes de formation
+
+## Réponse
+
+*Travail, JO du 1993-08-12, page 1414*
+
+Réponse. - Les lycées professionnels proposent d'une part des formations d'adaptation à l'emploi pour des jeunes quittant le système éducatif, d'autre part des formations de conversion ou de requalification pour des adultes salariés ou demandeurs d'emplois. Les actions mises en oeuvre par les lycées professionnels en formation initiale sont les formations complémentaires d'initiative locale (FCIL) et les formations intégrées. Elles sont financées sur les fonds du dispositif d'insertion des jeunes de l'éducation nationale ou par des subventions de la région (pour les FCIL). Il s'agit de mesures d'adaptation aux besoins locaux négociées en totale concertation avec les milieux professionnels et les entreprises locales. Une information adaptée aux jeunes sans insertion professionnelle, des périodes de stages dans les entreprises d'accueil, un contenu de formation négocié contribuent à la réussite de ces mesures. S'agissant d'actions de conversion ou de requalification mises en oeuvre pour les publics salariés d'entreprise ou demandeurs d'emploi, ces dispositifs sont mis en oeuvre par les établissements scolaires dans le cadre des Greta, à la demande, soit des services extérieurs de l'Etat, soit des entreprises elles-mêmes et pour leurs personnels. L'honorable parlementaire appelle l'attention sur les freins nuisant à l'orientation des jeunes vers les filières de formation professionnelle. Le Gouvernement entend y remédier et proposera, dans le cadre du projet de loi quinquennale de lutte pour l'emploi, des dispositions visant à améliorer la qualité de l'information et de l'orientation des jeunes.
