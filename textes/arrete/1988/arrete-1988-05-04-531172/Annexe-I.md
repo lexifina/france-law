@@ -60,7 +60,23 @@ Ecole des hautes études commerciales ;
 
 -Agrégations, doctorats (docteurs d'État, docteur ingénieur, docteur 3e cycle), diplômes d'études approfondies, diplômes d'études supérieures spécialisées, maîtrises, délivrés par les universités des sciences économiques et des sciences ;
 
--Maîtrise d'informatique appliquée à la gestion des entreprises.
+-Maîtrise d'informatique appliquée à la gestion des entreprises ;
+
+- doctorats, maîtrises, diplômes d'études approfondies, diplômes d'études supérieures spécialisées, dans les domaines des sciences de gestion (contrôle de gestion et gestion des achats) ;
+
+- diplômes d'études supérieures spécialisées de propriété industrielle et diplômes d'études internationales de la propriété industrielle, spécialités "brevet d'invention" ou "marques, dessins et modèles industriels" ;
+
+- diplômes d'études supérieures spécialisées et diplômes d'études approfondies en ergonomie ;
+
+- diplômes prévus par le décret n° 90-255 du 22 mars 1990 modifié fixant la liste des diplômes permettant de faire usage du titre de psychologue ;
+
+- diplôme d'expertise comptable, diplôme d'études supérieures comptables et financières et diplômes d'études comptables et financières ;
+
+- diplôme d'Etat de docteur en médecine complété par un des titres et diplômes prévus à l'article R. 241-29 du code du travail.
+
+Par ailleurs, à DCN, le recrutement en qualité de cadre technico-commercial peut également être effectué parmi les détenteurs d'un des titres ou diplômes suivants :
+
+- agrégations, doctorats, diplômes d'études supérieures spécialisées, diplômes d'études approfondies délivrés par les universités de droit en droit des affaires ou en droit commercial
 
 II. - Classification
 
