@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011237646
+
+- Question : [SEQ011237646](seq011237646.md) — Métier des travailleurs des usines d'équarrissage reconnu comme insalubre
+
+## Réponse
+
+*Agriculture, JO du 2002-04-11, page 1044*
+
+Les " travaux insalubres et salissants " sont visés à l'article R. 232-2-4 du code du travail, au titre de l'obligation des établissements concernés de mettre à disposition des salariés des douches. Les activités occupant des salariés à des travaux insalubres et salissants sont fixées par des listes déterminées par l'arrêté du 23 juillet 1947 modifié pris par le ministère du travail, pour les établissements relevant du régime général, et l'arrêté du 3 octobre 1985 modifié pris par le ministère de l'agriculture, pour les professions agricoles. Les deux arrêtés précités incluent les activités d'équarrissage dans les travaux insalubres et salissants faisant obligation aux employeurs de mettre à disposition des salariés une douche, dont le temps de passage est rémunéré comme temps de travail. Par ailleurs, le dispositif de cessation anticipée d'activité de certains travailleurs salariés (CATS), créé par le décret n° 2000-105 du 9 février 2000, est susceptible d'intéresser les travailleurs des usines d'équarrissage. Ce dispositif concerne les entreprises préalablement passées aux 35 heures et appartenant à une branche professionnelle ayant passé un accord national de cessation anticipée d'activité qui signent un accord d'entreprise sur ce même thème et passent convention avec l'Etat et l'UNEDIC. Dans ce cadre les salariés âgés de cinquante-cinq ans au moins et justifiant de quinze ans de travail en équipes successives ou à la chaîne ou de deux cents nuits de travail par an pendant quinze ans et qui sont volontaires pour cesser leur activité perçoivent une allocation dont une partie, variable en fonction de l'âge d'adhésion au dispositif, est prise en charge par l'Etat.
