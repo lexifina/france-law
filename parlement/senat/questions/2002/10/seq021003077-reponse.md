@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021003077
+
+- Question : [SEQ021003077](seq021003077.md) — Développement de l'enseignement du français en Turquie
+
+## Réponse
+
+*Affaires étrangères, JO du 2002-12-12, page 3056*
+
+Le ministère des affaires étrangères continuera d'apporter un soutien actif au réseau francophone existant en Turquie dans ses différentes composantes, établissements scolaires (association des écoles catholiques françaises en Turquie, fondation Tevfik Fikret, Lycée Galatasaray...) et universitaires (Université Galatasaray, département francophone de l'université de Marmara), centres culturels et instituts de recherche (IFEA). Ce soutien, décliné en personnel mis à disposition, bourses d'études ou de stages, missions d'experts, information et documentation, s'élève actuellement à 6 millions d'euros. Attachée à valoriser et à rationaliser ce réseau ancien et de qualité, en stimulant sa modernisation, la coopération française entend diversifier sites, partenariats et approches afin de répondre aux enjeux européens de la Turquie et aux attentes de nouveaux publics, tels les jeunes décideurs de demain qui sont particulièrement intéressés par l'apprentissage du français. C'est pourquoi elle favorise l'ouverture de nouvelles sections de français, notamment de français de spécialité (économique, juridique...) dans les structures privées en expansion dans toute la Turquie, qui disposent de ressources nombreuses et attractives. Elle s'efforce aussi d'investir de nouvelles régions porteuses d'avenir au plan politique, économique et touristique (Bursa, Antalya...) en y développant de nouveaux partenariats. Cette expansion ne peut que bénéficier de l'expertise des milieux économiques et des entreprises françaises présentes en nombre et d'une coopération décentralisée appelée à se développer. Elle s'articule, d'autre part, sur le rapprochement à terme de la Turquie avec l'Union européenne en matière éducative et linguistique.
