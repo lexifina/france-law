@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508470
+
+- Question : [SEQ980508470](seq980508470.md) — Etude des festivals subventionnés par le ministère de la culture
+
+## Réponse
+
+*Culture, JO du 1998-07-09, page 2230*
+
+Réponse. - Les festivals, et plus généralement l'événementiel, ont pris une importance croissante dans la vie culturelle et ce souvent à l'instigation des collectivités territoriales. C'est pourquoi le rapport et l'avis du Conseil économique et social sur " l'impact et l'apport des événements culturels dans le développement local et régional " sont particulièrement bienvenus, comme la ministre de la culture et de la communication a été heureuse de le souligner lors de son audition au Conseil économique et social au mois de janvier 1998. Il faut en effet mieux soutenir ces manifestations et mieux appréhender le phénomène de l'événementiel. En ce qui concerne la proposition de mener à intervalles réguliers une évaluation lourde sur un ou deux festivals, il convient de rappeler que le ministère de la culture et de la communication a procédé par l'intermédiaire de son département des études et de la prospective à de tels travaux dès les années 70, sur le festival d'Avignon par exemple, et apprécié les apports mais aussi les limites des méthodes dites " d'impact économique ". Dans le cadre de sa politique de soutien à ce type de manifestation, le ministère de la culture et de la communication accorde une importance particulière à l'apport culturel et aux publics touchés. Il s'attache donc à développer sa capacité d'expertise propre - et éventuellement de conseil aux collectivités en matière d'investigation du public. Enfin, pour mieux suivre les évolutions de ce phénomène important, une réflexion a été engagée sur la mise en uvre d'un programme d'études sur ce thème des événements culturels (particularités des modes de gestion, rapport aux institutions, durée de vie, mesure du public, approche du rayonnement).
