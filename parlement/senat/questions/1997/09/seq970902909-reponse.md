@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970902909
+
+- Question : [SEQ970902909](seq970902909.md) — Généralisation des séquences périodiques relatives à l'éducation des choix et à l'orientation
+
+## Réponse
+
+*Éducation, JO du 1997-12-25, page 3644*
+
+Réponse. - La loi d'orientation sur l'éducation du 10 octobre 1989 a placé le jeune au centre du dispositif éducatif. L'orientation fait partie désormais du droit à l'éducation. L'élève devant élaborer progressivement son projet de formation tout au long de sa scolarité. Dans cette perspective ont été mises en place, dès la classe de cinquième jusqu'à la terminale, des séquences d'éducation à l'orientation dans le cadre d'un programme qui se déroule selon trois axes : connaissance du monde économique et social et des métiers qui le composent, connaissance des formations, représentation positive de soi. L'éducation à l'orientation, initiée en classe de cinquième à titre expérimental en 1995, a été étendue à des collèges volontaires au cours des deux années dernières en classes de cinquième et de quatrième. Elle est également dispensée en classe de troisième (circulaire du 31 juillet 1996). Le bilan montre que le temps consacré aux séquences d'éducation à l'orientation en collège varie de dix à vingt heures par an selon les établissements. Il est réparti soit de façon régulière, soit par regroupement d'heures pour des activités plus longues. L'an dernier, l'éducation à l'orientation a été introduite en lycée. Elle consiste principalement à informer les élèves sur les poursuites d'études et le contenu des enseignements (circulaire du 10 octobre 1996). Elle fait intervenir des enseignants-chercheurs, d'anciens élèves, des directeurs d'écoles supérieures ou des enseignants, et des professionnels. Des actions ponctuelles ont été organisées pour l'information des familles et doivent se développer.
