@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000927998
+
+- Question : [SEQ000927998](seq000927998.md) — Bilan de la réunion du G8 Recherche
+
+## Réponse
+
+*Recherche, JO du 2001-01-11, page 101*
+
+Réponse. - Comme annoncé lors de la conférence de presse du 4 mai 2000, à l'initiative de la France et sous sa présidence, une réunion du G 8 Recherche (Etats-Unis, Grande-Bretagne, Allemagne, Italie, Russie, Japon, Canada et France), élargi à l'Inde, à la Chine, au Mexique et au Brésil, s'est tenue les 24 et 25 juin. Le ministre de la recherche avait souhaité que ses collègues de ces douze pays puissent réfléchir ensemble à deux thèmes principaux : les cellules-souches humaines, d'une part, et, d'autre part, l'éventuelle brevetabilité du génome humain. Le ministre de la recherche a voulu aussi que cette réunion des douze ministres soit précédée d'un colloque international réunissant, à Bordeaux, biologistes et juristes de ces mêmes douze pays sur les mêmes thèmes. Ces deux réunions successives avaient un triple objectif : permettre aux biologistes et aux juristes de dialoguer et de confronter leurs expériences respectives ; rapprocher cette double expertise scientifique de la décision publique, les ministres et les décideurs politiques devant pouvoir être éclairés par les analyses et les avis des femmes et des hommes de science ; mettre ensemble les représentants de douze grandes nations scientifiques pour essayer de commencer à dégager ensemble des principes éthiques communs et, à terme, des règles juridiques convergentes susceptibles d'accompagner et d'encadrer le progrès scientifique. Le ministre de la recherche a clos, le 23 juin, les travaux du colloque international et le texte de ce discours a été largement diffusé, y compris par voie électronique. Traditionnellement, aucun communiqué officiel n'est publié à l'issue des séances de travail des G 8 Recherche en raison de leur caractère informel.
