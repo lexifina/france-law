@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910213625
+
+- Question : [SEQ910213625](seq910213625.md) — Satellite de secours
+
+## Réponse
+
+*Postes, JO du 1991-04-18, page 818*
+
+Réponse. - A l'issue de la revue détaillée menée en 1990 par le groupe de réflexion présidé par M. Gérard Eymery, à qui le ministre des postes, des télécommunications et de l'espace avait demandé un rapport sur le sujet, il s'est avéré que pour la deuxième génération de satellites de diffusion directe une solution conforme au Plan de Genève devait être recherchée dans le cadre de la coopérative européenne Eutelsat. En effet, des canaux additionnels à ceux dont disposent la France à la position orbitale de 19° Ouest qui lui est assignée sur l'orbite géostationnaire et où sont en service TDF 1 et TDF 2, ne peuvent être obtenus que par une négociation internationale pour laquelle l'organisation européenne de télécommunications par satellite constitue une enceinte appropriée. Dans cette perspective, il est logique que la sécurisation à moyen terme de TDF 1 - TDF 2 soit également recherchée et mise en oeuvre par Eutelsat. C'est la raison pour laquelle il a été demandé àFrance Télécom de répondre favorablement à la proposition d'Eutelsat d'étude du projet Europesat. Europesat sera un système de satelllites de diffusion directe de deuxième génération. A ce jour, neuf pays, la France, l'Allemagne, l'Autriche, les Pays-Bas, l'Italie, la Suisse, la Suède, la Yougoslavie et le Portugal poursuivent l'étude de ce projet. Compte tenu des délais de fabrication et de mise en oeuvre, ce satellite ne pourra pas être lancé avant 1996. Quatre pays, dont la France et l'Allemagne, réfléchissent actuellement avec l'organisation Eutelsat à la possibilité de prévoir un satellite " pré-Europesat " qui pourrait être opérationnel dès 1993 et assurer ainsi notamment la sécurisation de TDF 1 - TDF 2.
