@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970600200
+
+- Question : [SEQ970600200](seq970600200.md) — Protection des candidats salariés aux élections au comité d'hygiène, de sécurité et des conditions de travail
+
+## Réponse
+
+*Emploi, JO du 1997-12-25, page 3652*
+
+Réponse. - L'honorable parlementaire a bien voulu attirer l'attention de Mme la ministre de l'emploi et de la solidarité sur l'absence de protection accordée aux salariés demandeurs ou candidats aux élections au comité d'hygiène, de sécurité et des conditions de travail (CHSCT) à l'instar de celle conférée par les articles L. 425-1 et L. 436-1 du code du travail à l'occasion de la mise en place des délégués du personnel et des comités d'entreprise. Le CHSCT occupe une place particulière parmi les institutions représentatives du personnel tant en ce qui concerne sa mise en place, son fonctionnement que ses missions. L'article L. 236-5 du code du travail prévoit ainsi que les représentants du personnel au CHSCT soient désignés par un collège constitué par les membres élus du comité d'entreprise ou d'établissement et les délégués du personnel, sans intervention syndicale ni établissement d'un quelconque protocole préélectoral. Il convient, afin de répondre à la légitime inquiétude de l'honorable parlementaire, de souligner à titre liminaire que ces salariés sont en pratique généralement titulaires d'un autre mandat de représentant du personnel et bénéficient à ce titre de la protection qui lui est attachée. S'il est légitime d'accorder une protection aux salariés désignés sur le seul fondement de leur technicité et aux anciens membres de l'institution, eu égard aux prises de position qu'ils sont ou ont été amenés à prendre en matière d'hygiène et de sécurité dans l'intérêt de la communauté des travailleurs, il ne paraît pas opportun de l'octroyer à la simple candidature, déconnectée de tout aspect revendicatif et par là même peu sujette à une éventuelle mesure de licenciement.
