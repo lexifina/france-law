@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010231222
+
+- Question : [SEQ010231222](seq010231222.md) — Charges pour les communes liées à la présence d'établissement de soins hospitaliers
+
+## Réponse
+
+*Budget, JO du 2001-06-07, page 1910*
+
+L'absence de compensation aux communes accueillant des établissemens de soins hospitaliers des exonérations relatives aux taxes foncières et du non-assujettisement à la taxe professionnelle a pour contrepartie la prise en compte de ces exonérations dans les mécanismes de répartition de la dotation globale de fonctionnement et du Fonds national de péréquation. Ces exonérations permanentes sont en effet retenues dans le calcul de l'effort fiscal défini aux articles L. 2334-5 et L. 2334-6 du code général des collectivités territoriales lorsque les propriétés faisant l'objet de ces exonérations permanentes occupent plus de 10 % du territoire communal. Il est tenu compte de ce critère d'effort fiscal dans les modalités de calcul des attributions versées aux communes éligibles à la dotation de solidarité urbaine et aux deux fractions de la dotation de solidarité rurale. L'effort fiscal constitue en outre l'un des critères utilisés pour déterminer l'éligibilité des communes au Fonds national de péréquation. En tout état de cause, il n'est pas possible d'envisager une majoration spécifique de la dotation globale de fonctionnement pour les communes en question, la loi du 31 décembre 1993 ayant forfaitisé les anciennes composantes de cette dotation, qui évoluent désormais selon les mêmes règles, les critères d'éligibilité ou de répartition propres étant supprimés. Enfin, il faut rappeler que si les établissements publics de santé ne donnent pas lieu à imposition au profit des communes d'implantation, il n'en demeure pas moins qu'ils leur procurent, le plus souvent, une activité économique, source de revenus pour les collectivités locales.
