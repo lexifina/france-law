@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901212974
+
+- Question : [SEQ901212974](seq901212974.md) — Sécurité des quartiers et banlieues
+
+## Réponse
+
+*Intérieur, JO du 1992-01-23, page 203*
+
+Réponse. - L'adaptation permanente des moyens et missions de la police nationale à l'évolution du tissu urbain des grandes métropoles et de leurs banlieues constitue l'une des préoccupations majeures du Gouvernement. A ce titre, il est recherché, par redéploiement des moyens existant au niveau national, la meilleure adéquation possible entre les disponibilités en personnels et les charges spécifiques à chaque service, notamment en grande couronne parisienne, et en particulier dans les Yvelines. Ainsi, par rapport au 1er janvier 1988, la circonscription de police urbaine de Conflans-Sainte-Honorine présentait, au 1er juillet dernier, un bilan positif de 24 policiers. Cet effort devrait être poursuivi lors des prochains mouvements et sorties d'écoles, notamment au titre des créations d'emplois décidées par la loi de finances de 1991, qui seront essentiellement destinées à la grande couronne parisienne. D'autres mesures ont récemment été prises en faveur des banlieues, dont le renforcement, durant la période estivale, de la police de proximité dans les communes comportant un ou plusieurs quartiers faisant l'objet d'un programme de développement social urbain. C'est ainsi que 3 gardiens de la paix stagiaires initialement affectés à la direction de la sécurité publique, à Paris, ont été mis à la disposition du commissariat de Conflans-Sainte-Honorine durant le mois de juillet, et que 6 l'ont été en août. Chanteloup-les-Vignes, comme toutes les communes rattachées à la circonscription de Conflans-Sainte-Honorine, bénéficie de l'ensemble de ces dispositions qui permettent un accroissement sensible de la présence policière.
