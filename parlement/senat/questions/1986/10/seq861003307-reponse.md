@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861003307
+
+- Question : [SEQ861003307](seq861003307.md) — Quotas laitiers en zone de montagne
+
+## Réponse
+
+*Agriculture, JO du 1987-04-02, page 484*
+
+Réponse. -Les mesures de maîtrise de la production laitière s'appliquent à tous les producteurs de lait du territoire. Cependant, l'ensemble des zones de montagne constitue en France une région particulière au regard de la réglementation communautaire, ce qui permet de tenir compte des conditions de production propres à cette région pour l'application du système des quotas. Ainsi, durant la campagne en cours, les livraisons des producteurs de montagne seront comparées globalement à la somme des quantités de référence dont ils disposent. L'application de cette règle a conduit à la fin de la dernière campagne à ce qu'aucun producteur de montagne ne soit astreint au paiement des pénalités. Toutes les marges de manoeuvre disponibles seront utilisées à l'issue de cette campagne pour prendre en compte, en ce qui concerne l'application des pénalités, les spécialités de la montagne. Toutefois, lors de la conférence laitière du 27 janvier 1987, il a été rappelé aux responsables nationaux des trois fédérations du secteur laitier la nécessité de poursuivre et parfois même d'accentuer les efforts déjà accomplis pour maîtriser la production, compte tenu du dépassement de la collecte nationale enregistré depuis le début de cette campagne. C'est ainsi qu'il a été prévu d'appliquer un prélèvement particulier aux producteurs qui auront dépassé de plus de 20 000 litres (40 000 litres en montagne) leur quantité de référence, quelle que soit la situation de leur laiterie. En effet, alors que tous les producteurs de lait de la C.E.E. sont astreints à maîtriser leur production laitière, le choix du quota par laiterie ne doit pas permettre à certaines entreprises et à certains producteurs de s'affranchir totalement de la contrainte générale.
