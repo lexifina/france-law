@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010533508
+
+- Question : [SEQ010533508](seq010533508.md) — Nombre de condamnés à perpétuité depuis 1981
+
+## Réponse
+
+*Justice, JO du 2001-09-06, page 2905*
+
+La garde des sceaux, ministre de la justice fait connaître à l'honorable parlementaire qu'entre 1981 et 1999 le nombre des condamnés à une peine de réclusion criminelle à perpétuité a évolué de manière importante. Deux périodes peuvent être distinguées. La première, qui va de 1981 à 1993, se distingue par un nombre élevé de condamnés à une peine de réclusion criminelle à perpétuité allant de 58, chiffre minimum, à 104, qui constitue le maximum. De manière exhaustive, le nombre de condamnés à cette peine est le suivant : 59 pour 1981, 61 pour 1982, 58 pour 1983, 59 pour 1984, 72 pour 1985. 77 pour 1986, 90 pour 1987, 92 pour 1988, 104 pour 1989, 80 pour 1990, 99 pour 1991, 86 pour 1992 et 69 pour 1993. Compte tenu des variations du nombre annuel de condamnés en matière criminelle, la part des peines de réclusion criminelle a perpétuité sur l'ensemble des peines prononcées durant cette période va de 2,5 % à 3,8 %. A partir de 1994, le nombre de condamnations à cette peine baisse de manière conséquente : 58 en 1994, 34 en 1995, 17 en 1997, 29 en 1998 et 35 en 1999. Cette baisse s'explique par le nouveaucode pénal, entrée en vigueur le 1er mars 1994. Ce dernier crée une peine de trente ans de réclusion criminelle intermédiaire entre la peine de vingt ans et la réclusion criminelle à perpétuité et modifie la peine maximale encourue par certaines infractions criminelles pour lesquelles une peine de réclusion à temps remplace la peine de réclusion à perpétuité. De fait, à partir de 1994, la peine de trente ans de réclusion criminelle va être de plus en plus fréquemment prononcée : 19 en 1994, 31 en 1995, 32 en 1996, 35 en 1997, 37 en 1998 et 43 en 1999.
