@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991019776
+
+- Question : [SEQ991019776](seq991019776.md) — Problèmes psychologiques des étudiants
+
+## Réponse
+
+*Éducation, JO du 1999-12-30, page 4312*
+
+Réponse. - Structures de prévention et d'aide médicale en faveur des étudiants, les services de médecine préventive et de promotion de la santé (SMPPS) ont notamment pour objectif de prévenir ou de détecter les troubles et facteurs d'inadaptation physique ou psychique susceptibles de constituer des obstacles au travail de l'étudiant. A cet égard, s'il n'existe pas de données nationales sur ce problème, les SMPPS ont développé localement des études et des enquêtes épidémiologiques mettant en évidence que les problèmes de santé rencontrés par les étudiants (troubles du sommeil, du comportement alimentaire, consommation de médicaments, sentiments dépressifs...) sont fortement liés aux situations de stress, de solitude, créées par le contexte universitaire. Ces différents constats ont conduit les services à élaborer des priorités d'action propres à sensibiliser l'étudiant à la prévention personnalisée de sa santé et à intégrer, chaque fois que c'est possible, une dimension préventive dans les prestations. De fait, les stratégies de prévention mises en place par les SMPPS associent des actions souvent intégrées à l'enseignement visant à favoriser l'adaptation des étudiants concernés par le mal-être et, de manière plus générale, des prestations individuelles (consultations médico-psychologiques...) ou collectives de prise en charge du stress, de l'anxiété et de l'isolement (groupes relaxation et affirmation de soi, sophrologie, soins-études...). Cette nouvelle orientation de services est appelée à se généraliser sous l'effet de la demande étudiante et compte tenu du décret modificatif refondant les missions des SMPPS, qui sera prochainement publié.
