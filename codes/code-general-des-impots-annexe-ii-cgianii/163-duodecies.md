@@ -26,9 +26,9 @@ Dépenses de formation effectuées au bénéfice du personnel de l'entreprise, e
 
 Rémunérations versées aux stagiaires par l'entreprise;
 
-Versements effectués au titre de fonds d'assurance formation et versements à un organisme paritaire agréé en application de l'article L. 950-2-3 du code du travail ;
+Versements effectués au titre de fonds d'assurance formation et versements à un organisme paritaire agréé en application de l'article 235 ter H bis du code général des impôts ;
 
-Versements effectués dans les conditions prévues par l'article L 950-2-3o du code du travail;
+Versements effectués dans les conditions prévues par l'article L 235-2-4° du code du travail;
 
 Versements effectués au titre d'une taxe parafiscale affectée à la formation professionnelle;
 
