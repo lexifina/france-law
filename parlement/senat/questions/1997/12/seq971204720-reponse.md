@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971204720
+
+- Question : [SEQ971204720](seq971204720.md) — Financement des investissements liés aux dépenses d'eaux pluviales
+
+## Réponse
+
+*Intérieur, JO du 1998-04-02, page 1062*
+
+Réponse. - La circulaire no 78-545 du 12 décembre 1978 commentant les modalités d'application du décret no 67-945 du 24 octobre 1967 relatif à l'institution, au recouvrement et à l'affectation des redevances dues par les usagers des réseaux d'assainissement et des stations d'épuration, explicite le traitement budgétaire et comptable des charges liées aux eaux pluviales. Elle rappelle, nonobstant les règles définies pour les services publics industriels et commerciaux que les charges afférentes à l'évacuation des eaux pluviales incombent au budget général et non au service d'assainissement. La circulaire précitée envisage cependant l'hypothèse dans laquelle, même lorsque le réseau est séparatif, le service d'assainissement peut se trouver amené à assurer sa gestion et son entretien. Dans ce cas, la collectivité verse au réseau une participation que la circulaire évalue au maximum à 10 % des charges de fonctionnement, amortissements techniques et intérêts des emprunts exclus. L'instruction M 49 n'a pas remis en cause ces dispositions, mais les a au contraire rappelées dans le commentaire de fonctionnement du compte 706 " Prestations de services " et a créé à cet effet au sein de ce compte une subdivision 7063 " Contribution des communes " (eaux pluviales). Dans l'état actuel de la réglementation, la commune a donc la possibilité soit d'inscrire en totalité les dépenses d'investissement et d'entretien du réseau séparatif d'eaux pluviales dans son budget principal, soit d'en confier la gestion au service d'assainissement, qui les supportera alors dans son budget annexe, contre versement d'une contribution communale qui figurera dans ses recettes d'exploitation.
