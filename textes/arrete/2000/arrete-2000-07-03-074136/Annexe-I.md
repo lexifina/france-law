@@ -6,11 +6,11 @@ Alsace
 
 Wanner/Wanner Isofi Isolation :
 
-- 258, rue des Merles, puis 24, rue des Merks, 68100 Mulhouse : de 1966 à 1997 ;
+- 24, rue des Merles, 68100 Mulhouse : de 1966 à 1997 ;
 
-- 10, rue de l'Electricité, 67800 Hoenheim : de 1976 à 1997 ;
+- rue Adolphe-Wurtz, 67000 Strasbourg : de 1962 à 1983 ;
 
-- rue Adolphe-Wurtz, 67000 Strasbourg : de 1967 à 1976.
+- 10, rue de l'Electricité, 67800 Hoenheim : de 1983 à 1997.
 
 Aquitaine
 
@@ -60,7 +60,7 @@ Etablissements Knauf-Isba/Ferlam/SAF/Ferodo/Isba Isolation : ZI Sud, route de Ly
 
 Etablissements Piques/Exploitation des établissements Piques :
 
-- 21440 Poncey-sur-Lignon ; puis 1, rue Champeau, ZAE Cap Nord, BP 72, 21074 Dijon : de 1906 à 1991.
+- 21440 Poncey-sur-Lignon ; puis 1, rue Champeau, ZAE Cap Nord, BP 72, 21074 Dijon : de 1906 à 1993.
 
 Eternit :
 
@@ -120,7 +120,7 @@ Latty International :
 
 Sime/Ferodo/Valeo :
 
-- avenue de l'Europe, 18150 La Guerche-sur-l'Aubois : de 1960 à 1996.
+- avenue de l'Europe, 18150 La Guerche-sur-l'Aubois : de 1960 à 2000.
 
 Wanner/Wanner Isofi :
 
@@ -174,9 +174,11 @@ Ferodo :
 
 - 24, rue des Pavillons, 92800 Puteaux : de 1958 à 1981.
 
-Ferodo/Ferodo Abex/Necto/Abex Industrie SA/American Brackblock/Abex Pagide Equipement/Abex Equipement SA :
+Ferodo/Ferodo Abex/Necro/Abex Industrie SA/American Brackblock/Abex Pagide Equipement/Abex Equipement SA :
 
-- 58, rue Juliette-Adam, BP 20, 91192 Gif-sur-Yvette : de 1936 à 1979.
+- 58, rue Juliette-Adam, BP 20, 91192 Gif-sur-Yvette : de 1936 à 1996 ;
+
+- 9, rue Klock, 92110 Clichy : de 1977 à 1983 ;
 
 Ferodo/Société Isba/Valeo :
 
@@ -200,7 +202,7 @@ Flertex :
 
 GEB SA :
 
-- 30, rue de l'Industrie, 93013 Bobigny Cedex : de 1987 à 1991.
+- 30, rue de l'Industrie, 93013 Bobigny Cedex : de 1978 à 1991.
 
 Itamiante :
 
@@ -225,10 +227,6 @@ SA Ufaga/Acopex :
 Sime :
 
 - 93150 Le Blanc-Mesnil : de 1965 à 1984.
-
-Société Etex de recherche technique (SERT) :
-
-- 1, rue de l'Amandier, 78500 Vernouillet : de 1958 à 1997.
 
 Wanner/Wanner Isofi/Wanner Industrie :
 
@@ -298,12 +296,6 @@ Groupe International Paper/Papeteries de Lana/Aussedat Rey et Docelles :
 
 - 88460 Docelles : de 1948 à 1981.
 
-Kleinwaldehem/Wanner/Wanner Isofi/Wanner Industrie :
-
-- 57540 Longeville-lès-Saint-Avold : de 1957 à 1997 ;
-
-- 152, chemin de Blazy, 57158 Montigny-lès-Metz : de 1967 à 1972.
-
 Société Octobon :
 
 - 54520 Laxou : de 1960 à 1996.
@@ -319,6 +311,8 @@ Valeo :
 Wanner/Wanner Isofi/Wanner Industrie :
 
 - 24, rue du 26e-R-I, 54000 Nancy : de 1970 à 1986.
+
+- 124, route de Magny, 57000 Metz, puis 152, chemin de Blory, 57158 Montigny-lès-Metz, puis Kleinwaldehem, 57540 Longeville-lès-Saint-Avold : de 1957 à 1997.
 
 Midi-Pyrénées
 
@@ -531,6 +525,8 @@ Ondacier Les Carnières :
 Sico/DBA/Bendix/Freudenberg :
 
 - 50, avenue de la Libération, puis ZI Sud, avenue Pierre-Piffault, 72000 Le Mans : de 1925 à 1989.
+
+- rue de la Fonderie, 72000 Le Mans : de 1925 à 1986
 
 Société nazairienne d'isolation :
 

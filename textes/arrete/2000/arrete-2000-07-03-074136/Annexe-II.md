@@ -18,6 +18,10 @@ Aquitaine Isol :
 
 - route de la Gare, 64170 Lacq : de 1970 à 1981.
 
+Ahlstrom Paper Group :
+
+- usine de Rottersac, 24150 Lalinde : de 1956 à 1997.
+
 Bernard Dumas SA :
 
 - 4, rue de la Papeterie, 24100 Creysse : de 1953 à 1983.
@@ -50,6 +54,10 @@ Bosch Systèmes de freinage :
 
 - 176, route de Lyon, 03400 Yseure : de 1969 à 1972.
 
+SGPR (Société générale des produits réfractaires)/SEPR (Société européenne de produits réfractaires)/Kerlane/Carborundum :
+
+- ZI, 63600 Ambert : de 1968 à 1977.
+
 Bourgogne
 
 Air Liquide :
@@ -59,6 +67,10 @@ Air Liquide :
 Saim :
 
 - 66, rue Saint-Aignan, 58200 Cosne-sur-Loire : de 1951 à 1992.
+
+Saim/Henkel/Caourep/Cfpi :
+
+- 82, avenue du 85e-de-Ligne, 58200 Cosne-sur-Loire : depuis 1971.
 
 Bretagne
 
@@ -196,17 +208,13 @@ Allied Signal :
 
 - 10, rue Blanqui, puis 13, rue Dieumegard, 93400 Saint-Ouen : de 1990 à 1994.
 
-Bendix/DBA/Allied Signal :
+Bendix/DBA/Allied Signal/Bosch systèmes de freinage :
 
 - 124-126, rue de Stalingrad, 93700 Drancy : de 1951 à 1996.
 
-Bosch systèmes de freinage :
+Bostik SA :
 
-- 126, rue de Stalingrad, 93700 Drancy : de 1955 à 1993.
-
-Bostick SA :
-
-- route de Saint-Lens, 95360 Montmagny : de 1974 à 1982.
+- route de Saint-Leu, 95360 Montmagny : de 1974 à 1982.
 
 Caourep :
 
@@ -226,23 +234,25 @@ Fibrociment de Poissy :
 
 Dalami :
 
-- 78500 Vernouillet : de 1961 à 1986.
+- 78540 Vernouillet : de 1961 à 1986.
+
+Fives-Cail Babcok/CNIM :
+
+- 80, rue Emile-Zola, 93123 La Courneuve : de 1962 à 1981.
 
 Isotherma :
 
 - 79, rue de la Gare, 78370 Plaisir : de 1965 à 1979.
 
-Perstorp-Bakélite/Raschiq :
-
-- 1, rue Jean-Caresso, 95870 Bezons : de 1926 à 1985.
-
 Philplug français :
 
 - 51, rue de France, 94360 Vincennes : de 1950 à 1980.
 
-Raschig. SAS/La Bakélite :
+La Bakélite française : de 1932 à 1985 ;
 
-- 1, rue Jean-Caruzo, BP 34, 95871 Bezons Cedex : de 1926 à 1985.
+Perstorp : de 1985 à 1998 ;
+
+Raschig SAS : depuis 1998
 
 Rieter/Keller :
 
@@ -254,9 +264,15 @@ Siafom :
 
 SNIFI/EFI, 94, avenue de Versailles, 75016 Paris, de 1975 à 1980.
 
-Société du fibrociment et des revêtements de sol ELO :
+SNIFI/Kaefer :
 
-- route de Médan, 78510 Triel : de 1960 à 1996.
+- 5, chemin d'Orsigny, 78117 Toussus-le-Noble et 14, rue Denis-Papin, ZA des Montatons, 91240 Saint-Michel-sur-Orge : depuis 1996.
+
+Société Etex de recherche technique (SERT) et Fibrociment et revêtement ELO/ eternit Industrie :
+
+- 78510 Triel-sur-Seine
+
+- 1, rue de l'Amandier, BP 33, 78540 Vernouillet : depuis 1975.
 
 Société Isolfeu :
 
@@ -316,6 +332,14 @@ CDF Chimie :
 
 - usine de Mazingarbe, 62670 Mazingarbe : de 1946 à 1972.
 
+Entreprise générale d'isolation Poujaud :
+
+- rue Gabriel-Péri, ZI de la Samaritaine, BP 53, 59430 Saint-Pol-sur-Mer : de 1977 à 1987 ; Poujaud SA : depuis 1987.
+
+ITN (Isolation thermique du Nord) :
+
+- rue du Magasin-Général, 59140 Dunkerque : de 1960 à 1988.
+
 Finalens (société industrielle et financière de Lens) :
 
 - usine de Douvrin, route de Lens, Douvrin, 62138 Haisnes : de 1932 à 1975.
@@ -370,6 +394,14 @@ SA Normande de l'amiante manufacture :
 
 - 72, rue de Louviers, Saint-Pierre-lès-Elbeuf, 76320 Caudebec-lès-Elbeuf : de 1945 à 1980.
 
+Société Capel SA :
+
+- ZI La Métairie, 76170 Lillebonne : de 1965 à 1990.
+
+Roclaine :
+
+- rue Michel-Poulmarch, 76800 Saint-Etienne-du-Rouvray : de 1950 à 1973 ; Isover Saint-Gobain : depuis 1973.
+
 SNIFI/EFI :
 
 - 3, rue Marc-Seguin, 76100 Rouen : de 1968 à 1994.
@@ -390,6 +422,10 @@ WITCO, rue Gravetel, 76320 Saint-Pierre-lès-Elbeuf, de 1972 à 1989.
 
 Pays de la Loire
 
+ACB/Alstom Fluides et Mécanique :
+
+- boulevard de la Prairie-au-Duc, 44945 Nantes Cedex 9 : de 1986 à 1990.
+
 Babcock Sacom :
 
 - case postale 3601, rue Julian-Grimau, 44805 Saint-Herblain : de 1929 à 1996.
@@ -397,6 +433,10 @@ Babcock Sacom :
 Isotherma :
 
 - ZI Noes, BP 23, 44550 Montoire-de-Bretagne : de 1961 à 1999.
+
+Moulinex : rue Saint-Léonard, 53100 Mayenne : de 1979 à 1994.
+
+SCREG : 44800 Saint-Herblain : depuis sa création jusqu'en 1990.
 
 SNIFI/EFI, agence Savenay, 44260 Donges, de 1974 à 1982, puis agence ZI Bonne-Nouvelle, BP 47, 44480 Donges, de 1982 à 1994.
 
@@ -412,6 +452,14 @@ Bosch systèmes de freinage :
 
 - 44, route nationale, 02190 Juvincourt, de 1972 à 1996.
 
+Etablissements Alsthom/GEC/UNELEC ;
+
+- 1572, route de Guise, 02100 Harly : depuis 1989.
+
+Etablissements UNELEC-Alsthom :
+
+- route de Gaugies, 02430 Gauchy : de 1981 à 1989.
+
 Frendo/Fren J./Fren Brex SA/Roulunds Codan :
 
 - Z.I. d'Angean, 60240 Chaumont-en-Vexin : de 1981 à 1997.
@@ -420,11 +468,19 @@ Isotherma :
 
 - 4, rue du Moulin, 60001 Goincourt : de 1962 à 1999.
 
+Société Cape Contracts/SOCAP :
+
+- 1, rampe Saint-Prix, 02100 Saint-Quentin : de 1990 à 1997.
+
 Valeo/Allied Signal :
 
 - centre de Mortefontaine, 60128 Plailly : de 1989 à 1996.
 
 Provence-Alpes-Côte d'Azur
+
+Alpha Isolation :
+
+- ZI Les Estroublans, 1, rue No-5, 13127 Vitrolles : depuis 1976.
 
 Babcock Sacom :
 
@@ -433,6 +489,14 @@ Babcock Sacom :
 Isotec :
 
 - 13, quai de Tourette, 13002 Marseille : de 1984 à 1999.
+
+SARL Méditerranéenne d'isolation et d'ignifugeage : 25, rue Roger-Deschamps, 13730 Saint-Victoret : depuis sa création.
+
+Société de tuyauterie et de montage Friedlander : parc de Pichaury, 550, rue Pierre-Berthier, BP 348000, 13799 Aix-en-Provence Cedex 3 : depuis sa création.
+
+Société industrielle de tuyauterie d'usine et de bâtiment :
+
+- 23-25, 4e-Avenue, BP 2157, 13847 Vitrolles Cedex : depuis sa création.
 
 SNIFI/EFI, agence quartier Saint-Estève, 13130 Berre-l'Etang, de 1965 à 1994.
 
@@ -452,6 +516,10 @@ Binet Feutres :
 
 - Annonay, BP 130, 07430 Davezieux : de 1952 à 1977.
 
+Carborundum :
+
+- 17, rue Antoine-Durafour, 42420 Lorette : de 1964 à 1977.
+
 CECA Saint-Bauzille :
 
 - CECA, 07210 Saint-Bauzille : de 1960 à 1970.
@@ -466,7 +534,7 @@ Etablissements Joly/Groupe DSMEPP France :
 
 Etablissements Vital Fargere Aîné/Cefilac :
 
-- rue Denis-Epitalon, 90, rue de la Roche-du-Geai, 42029 Saint-Etienne : de 1979 à 1997.
+- rue Denis-Epitalon, 90, rue de la Roche-du-Geai, 42029 Saint-Etienne : de 1916 à 1997.
 
 JMF/JMF Curty/Société Baud/Joint métalloplastique français :
 
