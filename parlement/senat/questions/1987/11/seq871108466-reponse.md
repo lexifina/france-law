@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871108466
+
+- Question : [SEQ871108466](seq871108466.md) — Maintien des avantages acquis en matière de droit syndical
+
+## Réponse
+
+*Intérieur, JO du 1988-01-21, page 95*
+
+Réponse. -L'article 2 du décret n° 85-397 du 3 avril 1985 relatif à l'exercice du droit syndical dans la fonction publique territoriale prévoit que les dispositions de ce décret ne font pas obstacle à la conclusion entre l'autorité territoriale et les organisations syndicales de conditions plus avantageuses et que les règles ou accords antérieurs demeurent en vigueur lorsqu'ils sont plus favorables et de même nature que ceux résultant de ce décret. Ainsi, en matière de décharges d'activité de service, si le nombre d'heures à accorder à l'ensemble des organisations syndicales en application du barème prévu par l'article 18 du décret du 3 avril 1985 est inférieur à celui globalement octroyé en vertu d'un accord local, ce dernier nombre est maintenu. Dans ce cas, lorsqu'une nouvelle section syndicale est créée, il convient d'examiner si les termes de l'accord local permettent d'accorder un crédit d'heures à la nouvelle section par une nouvelle répartition du contingent global ou, éventuellement, par l'octroi des mêmes avantages que ceux accordés aux autres organisations syndicales. Dans la négative, il appartient à l'autorité territoriale de négocier un nouvel accord avec les organisations syndicales de façon à permettre à la nouvelle section de bénéficier d'un crédit d'heures sur un contingent global au moins égal à celui jusqu'alors maintenu. Il est souhaitable que cet accord prévoie une période transitoire dans la mesure où la nouvelle section n'a pas encore obtenu de résultats aux élections au comité technique paritaire. Il est également recommandé de faire application des critères de répartition fixés par le décret précité.
