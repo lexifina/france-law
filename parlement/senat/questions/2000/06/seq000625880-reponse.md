@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000625880
+
+- Question : [SEQ000625880](seq000625880.md) — Régime de retraite complémentaire obligatoire pour les anciens exploitants agricoles
+
+## Réponse
+
+*Agriculture, JO du 2000-10-19, page 3565*
+
+Réponse. - L'article premier de la loi d'orientation agricole du 9 juillet 1999 a inscrit la revalorisation progressive et la garantie de retraites minimum aux agriculteurs, en fonction de la durée de leur activité, parmi les objectifs de la politique agricole. En clôture de la table ronde sur l'agriculture, M. le Premier ministre a indiqué le 21 octobre 1999 que serait poursuivi en 2000 l'effort de revalorisation des pensions de retraite des non-salariés agricoles, engagé en 1997, à hauteur de 1,6 milliard de francs supplémentaire en année pleine. A cette occasion, il a rappelé que l'objectif du Gouvernement est de porter, au terme de la législature, le minimum de pension de retraite, pour une carrière complète, au niveau du minimum vieillesse. Ainsi, la retraite mensuelle des chefs d'exploitation atteindra, en francs constants, 3 500 francs en 2002, contre 2 750 francs en 1997. Dans le respect de cet objectif et en application de l'article 3 de la loi d'orientation agricole, le Gouvernement déposera prochainement sur le bureau des assemblées un rapport décrivant, catégorie par catégorie, l'évolution qu'il compte imprimer aux retraites agricoles au cours de la période du 30 juin 1997 au 30 juin 2002. Ce rapport étudiera notamment les possibilités juridiques et financières de la création d'un régime de retraite complémentaire obligatoire pour les non-salariés agricoles. Un rapport préliminaire élaboré à la demande du ministère de l'agriculture et de la pêche par M. Germinal Peiro, député de la Dordogne, a été remis. En s'inspirant de ses travaux, le Gouvernement précisera dans son rapport ses intentions en la matière.
