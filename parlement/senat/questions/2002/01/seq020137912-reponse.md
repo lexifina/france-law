@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020137912
+
+- Question : [SEQ020137912](seq020137912.md) — Avis défavorables aux demandes de permis de construire dans la commune de Varangéville (Meurthe-et-Moselle)
+
+## Réponse
+
+*Logement, JO du 2002-04-11, page 1060*
+
+Situé dans le bassin salifère, le territoire de la commune de Varangeville (Meurthe-et-Moselle) est concerné par les conséquences de l'exploitation des mines de sel. Dotée d'un plan d'occupation des sols, son territoire est grevé d'une servitude d'utilité publique relative à l'exploitation de la concession minière. Compétent en matière de décisions d'autorisations d'occupation des sols (certificats d'urbanisme et permis de construire), le maire se voit depuis quelques mois opposer des avis défavorables de la part des services de la direction régionale de l'industrie, la recherche et de l'environnement (DRIRE), qui ne peuvent ignorer les risques en matière de stabilité des sols sur un territoire affecté par des galeries d'exploitation. S'une part, conscients des conséquences qu'une telle situation peut engendrer, les services locaux de l'Etat se sont mobilisés. En premier lieu, il a été demandé à l'exploitant, la Compagnie des salins du Midi et des salines de l'Est, de mener dans les meilleurs délais une étude visant à une meilleure connaissance de l'aléa et des risques ; parallèlement, la DRIRE conduit une étude hydrogéologique globale. D'autre part, dans l'attente de ces études et au regard des paramètres dont disposent actuellement les services de l'Etat (schéma de circulation de l'eau, géologie du secteur concerné par l'exploitation minière), la DRIRE et la direction départementale de l'équipement de Meurthe-et-Moselle étudient très attentivement des recommandations qui pourraient être formulées en matière de constructibilité, tout en assurant la sécurité des personnes et des biens.
