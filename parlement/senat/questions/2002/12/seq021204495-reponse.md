@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021204495
+
+- Question : [SEQ021204495](seq021204495.md) — Mise en place d'une véritable politique de sécurité routière institutionnalisant un partage de la route entre les autos et les motos
+
+## Réponse
+
+*Équipement, JO du 2003-02-27, page 719*
+
+Le ministre de l'équipement, des transports, du tourisme et de la mer a reçu le lundi 18 novembre 2002 une délégation de la Fédération française des motards en colère (FFM) venue lui faire part de ses attentes. Conscient de l'intérêt que peut présenter pour de très nombreux usagers de la route ce type de déplacement, le ministre s'est montré attentif à certaines de leurs demandes, en particulier celles qui concernent une meilleure prise en compte de la formation et de la sécurité des motards et de leurs passagers. A cet égard, il leur a rappelé les actions en cours sur la rénovation de l'examen du permis de conduire, et la mise en place d'un guide pour la formation des motocycles et les projets à l'étude, comme les stages post-permis moto et les stages de récupération de points. Il s'est engagé à demander à ses services de développer les initiatives pour prendre en compte le risque spécifique des motards grâce à un meilleur partage de la route et une amélioration de la sécurité des infrastructures (glissières de sécurité, peintures au sol, etc.). Il a enfin rappelé son attachement à la valorisation du rôle des " M. et Mme moto " dans chaque direction départementale de l'équipement pour assurer un dialogue permanent entre les services de l'Etat, les collectivités territoriales et les représentants associatifs. Le ministre a par contre insisté sur l'obligation pour les motards de respecter scrupuleusement les règles du code de la route. Le lourd tribut payé par les deux-roues à l'insécurité routière (le risque d'avoir un accident pour un motocycliste est près de six fois supérieur à un conducteur auto) nécessite en effet de leur part une vigilance toute particulière.
