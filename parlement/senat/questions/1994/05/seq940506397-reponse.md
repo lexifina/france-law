@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940506397
+
+- Question : [SEQ940506397](seq940506397.md) — Maison des Français de l'étranger
+
+## Réponse
+
+*Affaires étrangères, JO du 1994-06-30, page 1603*
+
+Réponse. - La maison des Français de l'étranger, qui existe depuis 1993, répond à un besoin profond d'information de nos compatriotes sur les différents aspects de l'expatriation. Elle bénéficie d'un accueil favorable auprès de l'opinion publique puisque, l'année écoulée, 11 666 visiteurs sont venus faire part de leurs préoccupations et obtenir des renseignements sur les sujets les plus divers : conditions de vie hors de nos frontières, emploi, fiscalité et douanes, sécurité, enseignement, etc. Pour les cinq premiers mois de 1994, 7 001 personnes se sont d'ores et déjà déplacées. Comme le note l'honorable parlementaire, les services de la maison des Français de l'étranger ne sont pas situés dans un même lieu mais dans deux corps de bâtiment, sis rue La Pérouse. La disposition actuelle n'est pas l'hypothèse la plus fonctionnelle qui puisse être imaginée, mais elle ne porte atteinte ni à l'activité ni au développement ultérieur de la Maison. L'agence pour l'enseignement du français à l'étranger, la caisse des Français de l'étranger ainsi que la Caisse nationale d'assurance vieillesse des travailleurs salariés n'ont certes pas installé d'antenne dans la maison de Français de l'étranger. Mais une coopération s'est naturellement développée avec ces organismes, ce qui permet d'apporter aux visiteurs les premiers éléments d'information dont ils peuvent avoir besoin. Pour l'instant, la maison des Français de l'étranger entend assumer son rôle auprès des expatriés et assurer sa croissance autour des organismes qui la composent : ministère des affaires étrangères, ministère du budget, office des migrations internationales, ainsi que le GARP (groupement des ASSEDIC de la région parisienne).
