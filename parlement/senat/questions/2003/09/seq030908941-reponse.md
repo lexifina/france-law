@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030908941
+
+- Question : [SEQ030908941](seq030908941.md) — Disparition des plaques rendant hommage aux anciens combattants, résistants, déportés
+
+## Réponse
+
+*Anciens combattants, JO du 2003-11-06, page 3271*
+
+La protection des plaques commémoratives n'est expressément visée que par les articles L. 430-4-1 et L. 430-4-2 du code de l'urbanisme. Ces textes font obligation, en cas de destruction d'un immeuble sur lequel est apposée une plaque commémorative, de préserver celle-ci et de la réinstaller au plus près de l'endroit initial. Cette obligation incombe au maître d'ouvrage qui a obtenu le permis de démolir. Les autres cas s'analysent au regard du droit général applicable à la propriété. Ainsi, lorsque le propriétaire de la plaque et celui du bâtiment d'apposition sont différents, ce dernier ne peut détruire la plaque, la destruction de la chose d'autrui étant pénalement sanctionnée par les articles 322-1 et suivants du nouveau code pénal. Dans le cas inverse, la propriété d'un bien donnant à son titulaire le droit d'en disposer librement, rien ne semble s'opposer à la destruction d'une plaque par le propriétaire de l'immeuble qui en est le support. Toutefois, la responsabilité pénale de ce dernier peut être mise en cause s'il est estimé que, par suite d'un exercice abusif de son droit, il a causé un préjudice moral à autrui. En outre, la loi du 31 décembre 1913 sur les monuments historiques peut s'appliquer aux plaques commémoratives, puisqu'elle concerne le classement d'objets mobiliers, immeubles de destination compris, dont la conservation présente, notamment du point de vue historique, un intérêt public. Les objets mobiliers classés sont alors imprescriptibles et ne peuvent être modifiés, réparés ou restaurés sans l'autorisation du ministre en charge de la culture.
