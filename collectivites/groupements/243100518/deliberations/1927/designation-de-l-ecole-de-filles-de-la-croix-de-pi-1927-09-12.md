@@ -1,0 +1,7 @@
+# Toulouse métropole : délibération — Désignation de l'école de filles de la Croix de Pierre pour servir l'école d'application aux élèves de l'école normale d'institutrices p. 730
+
+- Collectivité : Toulouse métropole
+- SIREN : 243100518
+- Date : 1927-09-12
+- Objet : Désignation de l'école de filles de la Croix de Pierre pour servir l'école d'application aux élèves de l'école normale d'institutrices p. 730
+- Jeu de données : https://www.data.gouv.fr/datasets/56b0c2c1a3a7294d39b88a5b
