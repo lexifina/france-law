@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031009225
+
+- Question : [SEQ031009225](seq031009225.md) — Indemnisation des orphelins des victimes du nazisme
+
+## Réponse
+
+*Anciens combattants, JO du 2003-12-11, page 3578*
+
+Comme le rappelle l'honorable parlementaire, la décision du Gouvernement d'accorder aux orphelins des victimes de la barbarie nazie une indemnisation identique à celle dont bénéficient, au titre du décret du 13 juillet 2000, les orphelins dont les parents ont été victimes de persécutions antisémites, fait suite à la remise du rapport que le secrétaire d'Etat aux anciens combattants a demandé en septembre 2002 à M. Philippe Dechartre, ancien résistant, ancien ministre du général de Gaulle et de Georges Pompidou. Les études et consultations conduites par M. Dechartre ont fait l'objet d'une synthèse présentée au Gouvernement au début de l'été dont il ressortait que, dans un souci de justice et d'équité, le dispositif de réparation institué par le décret du 13 juillet 2000 devait être étendu aux orphelins de déportés politiques et résistants, de fusillés et de massacrés. Ce rapport constitue le socle de réflexion du secrétaire d'Etat aux anciens combattants auquel le Premier ministre a demandé de déterminer avec précision le périmètre des ressortissants éligibles à ce nouveau dispositif d'indemnisation qui entrera en vigueur une fois ces travaux finalisés. S'il a permis de décider de la nécessité d'indemniser de nouvelles catégories de victimes de la barbarie nazie, il s'agit maintenant, pour le secrétaire d'Etat, de définir juridiquement les nouvelles catégories de bénéficiaires pour qu'en aucun cas, en tentant de réparer une injustice, il n'en soit créé une nouvelle. Il est incontestable qu'il s'agit d'une décision importante, qui doit être équitable et juridiquement irréprochable. Le texte la finalisant sera publié dès la fin des travaux de clarification.
