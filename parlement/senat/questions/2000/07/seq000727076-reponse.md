@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000727076
+
+- Question : [SEQ000727076](seq000727076.md) — Education artistique : renforcer la formation des enseignants
+
+## Réponse
+
+*Culture, JO du 2000-10-19, page 3572*
+
+Réponse. - La politique cuturelle des IUFM s'inscrit dans le cadre général de la circulaire conjointe du 22 juillet 1998 passée entre le ministère de l'éducation nationale et le ministère de la culture et de la communication qui a réaffirmé l'enjeu que constitue une éducation artistique et culturelle dès le plus jeune âge et le rôle essentiel des IUFM pour le développement de la formation des maîtres en lien avec les structures culturelles. Depuis 1999, les partenaires se sont renforcés entre les directions régionales des affaires culturelles (DRAC) et les IUFM. Les modalités de ces partenariats reposent sur une logique de contractualisation et d'ancrage territorial, grâce à la mutualisation des moyens et à la mobilisation des structures artistiques professionnelles locales. Dans cet esprit, se mettent en place des modules de formation initiale et de formation continue à l'intention des enseignants. Un certain nombre de mémoires, rédigés par les étudiants de l'IUFM, relèvent du champ culturel. Hors enseignement, des activités et une pratique artistique sont proposées à l'ensemble des stagiaires dans les IUFM. A ce jour, treize DRAC ont signé des conventions avec les IUFM dont quatre nouvellement signées fin 1999. Onze conventions sont en projet avec de nouveaux instituts. Outre les actions de formation, les conventions font état d'un soutien aux services culturels et à des espaces d'art dans les IUFM. Elles mentionnent également la mise en place de jumelages avec les structures culturelles et d'ateliers de pratique artistique sur le modèle des actions conduites dans le second degré.
