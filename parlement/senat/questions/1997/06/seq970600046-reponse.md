@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970600046
+
+- Question : [SEQ970600046](seq970600046.md) — Sauvetage des chevaux de la Garde républicaine
+
+## Réponse
+
+*Défense, JO du 1997-08-07, page 2109*
+
+Réponse. - Les chevaux réformés de la garde républicaine, lorsqu'ils ne sont pas achetés par les militaires du régiment de cavalerie ou les éleveurs-naisseurs, en vertu d'un droit de priorité, sont réglementairement remis au service des domaines qui, après publicité et mise en concurrence, procède à leur aliénation. Soucieuse d'assurer à ces équidés une retraite paisible, l'association Lyne Gueroult a longtemps consacré ses fonds à leur acquisition auprès de l'administration compétente de l'Etat, suivant les règles de droit commun. En 1994, l'action de cette association risquait d'être entravée par les lourdes charges financières occasionnées par l'acquisition de ces chevaux. Aussi, considérant que cet engagement en faveur de la cause animale était respectable et pouvait justifier un soutien de sa part, le ministre de la défense a décidé que les chevaux réformés de la garde républicaine pourraient faire l'objet de cessions gratuites, dans le cadre d'une convention comportant des dispositions interdisant toute rétrocession ou utilisation à des fins commerciales. En acceptant cette convention, l'association Lyne Gueroult s'engageait, dans l'esprit même de sa démarche généreuse, à subvenir à l'entretien du cheptel ainsi recueilli. Cette analyse ne saurait aujourd'hui être remise en cause. En effet, les cessions gratuites consenties par le ministère de la défense ne peuvent entraîner, pour son budget, des charges financières supplémentaires, notamment par voie de subvention ou de prestation. Dans ces conditions, il appartient à cette association, comme à tout autre bénéficiaire de ces décisions administratives, de prendre à son compte les dépenses d'entretien des biens mis gracieusement à sa disposition.
