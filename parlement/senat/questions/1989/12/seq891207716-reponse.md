@@ -1,0 +1,9 @@
+# Réponse à la question SEQ891207716
+
+- Question : [SEQ891207716](seq891207716.md) — Bilan et moyens d'action des délégués départementaux du médiateur de la région Rhône-Alpes
+
+## Réponse
+
+*Premier ministre, JO du 1990-11-08, page 2395*
+
+Réponse. - Dans son rapport au Président de la République et au Parlement pour l'année 1989, le médiateur de la République a insisté sur le fait que ses délégués départementaux constituent l'un des rouages essentiels de l'institution déconcentrée du médiateur. Le Gouvernement s'associe au développement de leur mission en leur fournissant les moyens matériels de leur action. Mais actuellement l'action des délégués départementaux ne connaît pas l'ampleur qu'elle devrait avoir parce que les citoyens ne sont pas suffisamment informés de leur existence et des services qu'elle pourrait leur rendre, malgré les efforts constants déployés par le médiateur de la République pour les faire connaître. 1990 a été la première année où les médias, notamment la presse écrite, ont consenti à en parler. Le Gouvernement est très conscient de la nécessité de contribuer à cette action publicitaire. Ainsi, dans la communication présentée au conseil des ministres du 14 février 1990, par le ministre d'Etat, ministre de la fonction publique et des réformes administratives, il a été prévu que les préfets feront connaître l'action des représentants départementaux du médiateur de la République et faciliteront leurs interventions. Pour la région Rhône-Alpes, les délégués départementaux ont traité, en 1989, 1254 affaires, soit un accroissement de 25 p. 100 par rapport à l'année précédente se traduisant par un règlement amiable, une explication ou un conseil utiles. Le médiateur de la République a demandé à ses délégués d'intensifier leur action pour se faire mieux connaître des citoyens à travers la presse et pour se constituer un réseau de correspondants auprès des responsables des principaux services publics locaux.
