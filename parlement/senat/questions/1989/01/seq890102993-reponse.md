@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890102993
+
+- Question : [SEQ890102993](seq890102993.md) — Mission de réflexion sur les établissements scolaires français en Europe
+
+## Réponse
+
+*Affaires étrangères, JO du 1989-03-09, page 398*
+
+Réponse. - La mission confiée à Mme Catherine Lalumière, sous l'autorité de M. Lionel Jospin, ministre d'Etat, ministre de l'éducation nationale, de la jeunesse et des sports, par M. Thierry de Beaucé, secrétaire d'Etat auprès du ministre d'Etat, ministre des affaires étrangères, chargé des relations culturelles internationales a pour objet d'étudier les conditions qui permettraient à certains lycées, parmi ceux dont nous disposont dans les pays de la Communauté, de devenir des établissements modèles pour dispenser un enseignement européen. Ces lycées resteront français et continueront d'enseigner les matières de l'enseignement français, mais il faut envisager la possibilité de leur adjoindre des filières qui donneraient aux élèves toutes les aptitudes nécessaires à leur réussite professionnelle, dans la situation nouvelle où ils se trouveront, marquée par une multiplication et une intensification des relations et des échéances au sein de la Communauté. Il appartient à Mme Lalamière d'établir, avec la collaboration des deux hauts fonctionnaires désignés pour assister dans sa mission, son programme de rencontres et de consultations, devant aboutir à un rapport qui sera remis entre les mains des autorités de tutelle concernées, les affaires étrangères et l'éducation nationale. Pour mener à bien sa mission, Mme Lalumière a l'intention de consulter très largement les personnes et organismes concernés par l'avenir des lycées français en Europe. Mme Lalumière est tenue informée du voeu exprimé par l'honorable parlementaire qu'elle consulte les délégués du Conseil supérieur des Français de l'étranger et elle ne manquera pas d'en tenir le plus grand compte.
