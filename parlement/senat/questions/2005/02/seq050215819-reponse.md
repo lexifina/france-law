@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050215819
+
+- Question : [SEQ050215819](seq050215819.md) — Risques liés au rattachement de la redevance audiovisuelle à la taxe d'habitation
+
+## Réponse
+
+*Économie, JO du 2005-03-03, page 612*
+
+L'article 41 de la loi de finances pour 2005 relatif à la modification du régime de la redevance audiovisuelle prévoit, à compter du 1er janvier 2005, de simplifier le mode de perception de la redevance audiovisuelle tout en respectant le fait générateur actuel (la détention d'un téléviseur) et de l'adosser sur la taxe d'habitation pour les particuliers et sur la taxe sur la valeur ajoutée pour les professionnels. L'avis d'imposition de la redevance audiovisuelle étant émis avec celui de la taxe d'habitation afférent à l'habitation principale du redevable ou, à défaut, avec celui afférent à l'habitation autre que principale, la date limite de paiement de la redevance audiovisuelle se trouve donc désormais fixée au 15 novembre ou au 15 décembre. Cela étant, afin d'éviter une période de double taxation, le dispositif proposé maintient, pour les redevables déjà soumis à la redevance audiovisuelle en 2004, le principe selon lequel la redevance est acquittée annuellement et d'avance, en une seule fois et pour une période de douze mois, cette période étant décomptée à partir de la date anniversaire du premier jour de la période au titre de laquelle la redevance audiovisuelle était due en 2004. Corrélativement, la redevance audiovisuelle n'est pas due en cas de changement de situation entre la date du 1er janvier et le premier jour de la période pour laquelle elle est due (décès, cessation de détention d'un téléviseur, départ à l'étranger). Compte tenu de ces modalités, la grande majorité des redevables bénéficiera ainsi d'un avantage de trésorerie. Ces précisions répondent aux préoccupations exprimées.
