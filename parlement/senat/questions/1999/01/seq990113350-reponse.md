@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990113350
+
+- Question : [SEQ990113350](seq990113350.md) — Instauration d'une indication géographique protégée (IGP) autonome
+
+## Réponse
+
+*Agriculture, JO du 1999-12-09, page 4047*
+
+Réponse. - La loi nº 99-574 d'orientation agricole, du 9 juillet 1999 indique, dans son article 76, que les signes d'identification de la qualité et de l'origine des produits agricoles ou alimentaires sont l'appellation d'origine contrôlée, le label, la certification de conformité, la certification du mode de production biologique et la dénomination " montagne ". Elle prévoit également que seuls les produits ayant obtenu un label ou une certification de conformité peuvent bénéficier d'une indication géographique protégée (IGP). Par conséquent, l'articulation entre cette notion définie par le droit communautaire et les garanties officielles de qualité reconnues en droit national est maintenue. Toutefois, afin de rechercher une cohérence plus forte au sein des deux catégories de produits identifiés par leur origine géographique que constituent les appellations d'origine et les indications géographiques protégées, la loi susvisée a confié à l'Institut national des appellations d'origine une nouvelle mission pour la reconnaissance des produits susceptibles de bénéficier d'une indication géographique protégée. Ainsi, les cahiers des charges de ces produits feront l'objet d'un examen et d'un avis consécutif, sur les points relevant de leur champ de compétence respectif, par la Commission nationale des labels et des certifications, puis par le Comité national pour les IGP en cours de constitution au sein de l'Institut national des appellations d'origine. La mise en place de cette nouvelle procédure d'examen des demandes d'IGP fait l'objet d'un décret d'application en préparation.
