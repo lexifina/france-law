@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030708411
+
+- Question : [SEQ030708411](seq030708411.md) — Réouverture de la ligne SNCF Pau-Canfranc
+
+## Réponse
+
+*Équipement, JO du 2004-09-09, page 2064*
+
+L'exploitation de la ligne Pau - Canfranc a été interrompue en 1970 à la suite d'un accident. Cette ligne présentait à l'époque des caractéristiques très médiocres. Sa configuration, et en particulier ses rampes, ne lui permettaient pas d'acheminer un trafic significatif de marchandises. Afin de donner suite à des demandes locales et dans le cadre du contrat de plan, il avait été décidé d'approfondir les premières études sur l'éventualité d'une réouverture de cette ligne. Ces études ont été conduites par Réseau ferré de France en partenariat avec le conseil régional d'Aquitaine et le ministère espagnol des transports concernant le tunnel international. Les études viennent d'être achevées. Leurs résultats font apparaître qu'une réouverture de la ligne Pau - Canfranc ne constitue pas une solution techniquement et économiquement adaptée à un report modal de la route vers le rail. La capacité de la ligne resterait limitée à 1,5 million de tonnes par an alors que le coût du projet est estimé à 800 millions d'euros d'investissements, hors prix du matériel roulant. La SNCF a, en outre, indiqué qu'elle n'était pas en mesure d'exploiter ce type de service dans les conditions normales du marché. Les difficultés ne sont d'ailleurs pas uniquement économiques. Le tunnel ferroviaire désaffecté sert, en effet, de conduit d'évacuation du tunnel routier du Somport. Le développement des transports transpyrénéens et notamment de solutions alternatives à la route constitue une priorité pour la France et l'Espagne. Dans ce cadre, il est nécessaire de créer une dynamique pour le fret ferroviaire. Il est donc nécessaire d'améliorer les liaisons existantes, en termes d'infrastructures, mais aussi d'exploitation et de travailler sur de nouvelles liaisons efficaces.
