@@ -1,47 +1,139 @@
-# Article R513-7 annexe 2
+# Article Annexe 2 à l'article R513-7
 
-Les activités incluses dans le tableau ci-après sont définies par référence à la nomenclature d'activités approuvée par le décret n° 73-1036 du 9 novembre 1973 :
+Les activités incluses dans le tableau ci-après sont définies par référence à la nomenclature d'activités approuvée par le décret n° 92-1129 du 2 octobre 1992.
 
-==================================================================
+ACTIVITE : Industries alimentaires
 
-: : DEFINITION : |
+SECTION : D
 
-: : par référence : |
+DIVISIONS : 15
 
-: INTITULE : au niveau 100 : |
+CLASSES : 15-1 F (charcuterie)
 
-: : activités : |
+ACTIVITE : Récupération
 
-: : (N.A.P. 1973) : |
+SECTION : D
 
-:---------------------------------------------:------------------: |
+DIVISIONS : 37
 
-: Commerce de gros alimentaire : 57 : |
+CLASSES : 37-1 Z (récupération de matières métallurgiques recyclables).
 
-: Commerce de gros non alimentaire : 58 à 60 : |
+37-2 Z (récupération de matières non métallurgiques recyclables)
 
-: Commerce de détail alimentaire : 61 et 62 : |
+ACTIVITE : Commerce et réparation automobile
 
-: Commerce de détail non alimentaire : 63 et 64 : |
+SECTION : G
 
-: Réparation et commerce de l'automobile : 65 : |
+DIVISIONS : 50
 
-: Hôtels, cafés, restaurants : 67 : |
+CLASSES : Toutes
 
-: Transports : 68 à 74 : |
+ACTIVITE : Commerce de gros et intermédiaires du commerce
 
-: Télécommunications et postes : 75 : |
+SECTION : G
 
-: Location et crédit-bail mobiliers : 80 : |
+DIVISIONS : 51
 
-: Location et crédit-bail immobiliers : 81 : |
+CLASSES : Toutes
 
-: Assurances : 88 : |
+ACTIVITE : Commerce de détail et réparation d'articles domestiques
 
-: Organismes financiers : 89 : |
+SECTION : G
 
-: Services commerciaux divers : 56, 66, 76, : |
+DIVISIONS : 52
 
-: : 78, 79, 87 : |
+CLASSES : Toutes
 
-==================================================================
+ACTIVITE : Hôtels et restaurants
+
+SECTION : H
+
+DIVISIONS : 55
+
+CLASSES : Toutes
+
+ACTIVITE : Transports et services auxiliaires
+
+SECTION : I
+
+DIVISIONS : 60 à 63
+
+CLASSES : Sauf 60-2 C (téléphériques et remontées mécaniques)
+
+ACTIVITE : Postes et télécommunications
+
+SECTION : I
+
+DIVISIONS : 64
+
+CLASSES : Toutes
+
+ACTIVITE : Activités financières
+
+SECTION : J
+
+DIVISIONS : 65 à 67
+
+CLASSES : Toutes
+
+ACTIVITE : Activités immobilières
+
+SECTION : K
+
+DIVISIONS : 70
+
+CLASSES : Sauf 70-1 C (promotion immobilière d'infrastructures)
+
+ACTIVITE : Location sans opérateur
+
+SECTION : K
+
+DIVISIONS : 71
+
+CLASSES : Toutes
+
+ACTIVITE : Services fournis principalement aux entreprises
+
+SECTION : K
+
+DIVISIONS : 74
+
+CLASSES : 74-1 J (administration d'entreprise).
+
+74-7 Z (activités de nettoyage).
+
+74-8 A (studios et autres activités photographiques)
+
+74-8 G (routage).
+
+ACTIVITE : Santé et action sociale
+
+SECTION : N
+
+DIVISIONS : 85
+
+CLASSES : 85-1 H (soins hors d'un cadre réglementé)
+
+ACTIVITE : Assainissement, voirie et gestion des déchets
+
+SECTION : O
+
+DIVISIONS : 90
+
+CLASSES : Toutes
+
+ACTIVITE : Activités récréatives, culturelles et sportives
+
+SECTION : O
+
+DIVISIONS : 92
+
+CLASSES : 92-3 H (bals et discothèques)
+
+ACTIVITE : Services personnels
+
+SECTION : O
+
+DIVISIONS : 93
+
+CLASSES : Sauf 93-0 K (activités thermales et thalassothérapie)

@@ -1,99 +1,173 @@
-# Article R513-7 annexe 1
+# Article Annexe 1 à l'article R513-7
 
-Sous réserve des dispositions des articles R. 513-8 et R. 513-9, l'activité principale des entreprises et des établissements est présumée résulter du numéro de classement dans la nomenclature d'activités qui leur est attribuée dans le répertoire tenu par l'institut national de la statistique et des études économiques en application du décret n° 73-314 du 14 mars 1973 à la date du 31 mai 1982.
+Les activités incluses dans le tableau ci-après sont définies par référence à la nomenclature d'activités approuvée par le décret n° 92-1129 du 2 octobre 1992.
 
-Les entreprises et les établissements qui exercent à titre principal une des activités incluses dans le tableau joint en annexe I relèvent de la section de l'industrie ; ceux qui exercent à titre principal une des activités incluses dans le tableau joint en annexe II relèvent de la section du commerce et des services commerciaux.
+ACTIVITE : Pêche, aquaculture
 
-ANNEXE I ----- Tableau des activités relevant de la section de l'industrie.
+SECTION : B
 
------ Les activités incluses dans le tableau ci-après sont définies par référence à la nomenclature d'activités approuvée par le décret n° 73-1036 du 9 novembre 1973 :
+DIVISIONS : 05
 
-==================================================================
+CLASSES : Toutes
 
-: : DEFINITION : |
+ACTIVITE : Industries extractives
 
-: : par référence : |
+SECTION : C
 
-: INTITULE : au niveau 100 : |
+DIVISIONS : 10 à 14
 
-: : activités : |
+CLASSES : Toutes
 
-: : (N.A.P. 1973) : |
+ACTIVITE : Industries alimentaires
 
-:---------------------------------------------:------------------: |
+SECTION : D
 
-: Pêche : 03 : |
+DIVISIONS : 15
 
-: Production de combustibles minéraux solides : : |
+CLASSES : Sauf 15-1 F (charcuterie)
 
-: et cokéfaction : 04 : |
+ACTIVITE : Industrie du tabac
 
-: Production de pétrole et de gaz naturel : 05 : |
+SECTION : D
 
-: Production et distribution d'électricité, : : |
+DIVISIONS : 16
 
-: distribution de gaz et d'eau : 06 à 08 : |
+CLASSES : Toutes
 
-: Production de minerais et métaux ferreux, : : |
+ACTIVITE : Industries textiles, de l'habillement et des fourrures, du cuir et de la chaussure
 
-: première transformation de l'acier : 09 à 11 : |
+SECTION : D
 
-: Production de minerais, métaux et : : |
+DIVISIONS : 17 à 19
 
-: demi-produits non ferreux : 12 et 13 : |
+CLASSES : Toutes
 
-: Production de matériaux de construction et : : |
+ACTIVITE : Travail du bois et fabrication d'articles en bois
 
-: minéraux divers : 14 et 15 : |
+SECTION : D
 
-: Industrie du verre : 16 : |
+DIVISIONS : 20
 
-: Chimie de base, production de fils et : : |
+CLASSES : Toutes
 
-: fibres artificiels et synthétiques : 17 et 43 : |
+ACTIVITE : Industrie du papier et du carton
 
-: Parachimie et industrie pharmaceutique : 18 et 19 : |
+SECTION : D
 
-: Fonderie et travail des métaux : 20 et 21 : |
+DIVISIONS : 21
 
-: Construction mécanique : 22 à 25 et 34 : |
+CLASSES : Toutes
 
-: Construction électrique et électronique : 27 à 30 : |
+ACTIVITE : Edition, imprimerie, reproduction
 
-: Construction de véhicules automobiles et : : |
+SECTION : D
 
-: d'autres matériels de transport terrestre : 31 : |
+DIVISIONS : 22
 
-: Construction navale et aéronautique, : : |
+CLASSES : Toutes
 
-: armement : 32 et 33, 26 : |
+ACTIVITE : Cokéfaction, raffinage, industries nucléaires
 
-: Industries agricoles et alimentaires : 35 à 42 : |
+SECTION : D
 
-: Industries textile, de l'habillement, du : : |
+DIVISIONS : 23
 
-: cuir et de la chaussure : 42 à 47 : |
+CLASSES : Toutes
 
-: Industries du bois et de l'ameublement ; : : |
+ACTIVITE : Industries chimique, du caoutchouc et des plastiques
 
-: industries diverses : 48, 49 et 54 : |
+SECTION : D
 
-: Industrie du papier et du carton : 50 : |
+DIVISIONS : 24 et 25
 
-: Imprimerie, presse, édition : 51 : |
+CLASSES : Toutes
 
-: Industrie du caoutchouc et de la : : |
+ACTIVITE : Fabrication d'autres produits minéraux non métallique
 
-: transformation des matières plastiques : 52 et 53 : |
+SECTION : D
 
-: Industrie de mise en oeuvre du bâtiment et : : |
+DIVISIONS : 26
 
-: du génie civil et agricole : 55 : |
+CLASSES : Toutes
 
-==================================================================
+ACTIVITE : Métallurgie, travail des métaux
 
-NOTA :
+SECTION : D
 
-NOTA : activités NAP comprises : 07, 10, 23, 24, 28, 29,
+DIVISIONS : 27 et 28
 
-36, 37, 38, 39, 40, 41, 43, 44, 45, 46.
+CLASSES : Toutes
+
+ACTIVITE : Fabrication de machines, appareils, équipements et instruments
+
+SECTION : D
+
+DIVISIONS : 29 à 33
+
+CLASSES : Toutes
+
+ACTIVITE : Industrie automobile
+
+SECTION : D
+
+DIVISIONS : 34
+
+CLASSES : Toutes
+
+ACTIVITE : Fabrication d'autres matériels de transport
+
+SECTION : D
+
+DIVISIONS : 35
+
+CLASSES : Toutes
+
+ACTIVITE : Fabrication de meubles, industries diverses
+
+SECTION : D
+
+DIVISIONS : 36
+
+CLASSES : Toutes
+
+ACTIVITE : Production et distribution d'électricité, de gaz et d'eau
+
+SECTION : E
+
+DIVISIONS : 40 et 41
+
+CLASSES : Toutes
+
+ACTIVITE : Construction
+
+SECTION : F
+
+DIVISIONS : 45
+
+CLASSES : Toutes
+
+ACTIVITE : Activités informatiques
+
+SECTION : K
+
+DIVISIONS : 72
+
+CLASSES : 72-5 Z (entretien et réparation de machines de bureau et de matériel informatique)
+
+ACTIVITE : Services fournis principalement aux entreprises
+
+SECTION : K
+
+DIVISIONS : 74
+
+CLASSES : 74-8 B (laboratoires techniques de développement et de tirage)
+
+ACTIVITE : Activités récréatives, culturelles et sportives
+
+SECTION : O
+
+DIVISIONS : 92
+
+CLASSES : 92-1 G (édition et distribution vidéo)
+
+92-4 Z (agences de presse)
