@@ -1,6 +1,6 @@
-# Article Annexe I
+# Article A
 
-A. - Sur l'ensemble du territoire douanier.
+Sur l'ensemble du territoire douanier
 
 a) Organismes vivants du règne animal, à tous les stades de leur développement :
 
@@ -87,6 +87,8 @@ Ceratitis rosa Karsch ;
 Dacus cucurbitae Coq. ;
 
 Dacus dorsalis Hendel.
+
+Vecteurs de Bursaphelenchus xylophilus des espèces Monochanus spp. (non européennes).
 
 Autres Trypetidae nuisibles, pour autant qu'ils n'existent pas en Europe :
 
@@ -221,7 +223,3 @@ Autres virus nuisibles et MLO(s) pour autant qu'ils n'existent pas dans la Commu
 f) Phanérogames :
 
 Arceuthobium spp. (espèces non européennes).
-
-B. - Liste complémentaire des organismes nuisibles dont l'introduction est interdite dans les départements d'outre-mer.
-
-Liste en cours de réactualisation.

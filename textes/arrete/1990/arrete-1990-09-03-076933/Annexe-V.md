@@ -1,6 +1,6 @@
-# Article Annexe V
+# Article A
 
-A. - Sur l'ensemble du territoire douanier.
+Sur l'ensemble du territoire douanier
 
 1. Matériel de multiplication de la vigne :
 
@@ -42,9 +42,9 @@ Ex 0602.10.90, Ex 0602.99.41, Ex 0604.91.10.
 
 - Tsuga Carr. (Tsuga) et Pseudotsuga Carr. : Canada, Etats-Unis, Mexique.
 
-5. Bois non écorcé de conifères :
+5. Bois de conifères : Canada, Chine, Corée, Etats-Unis, Japon.
 
-Ex 44.01, Ex 44.03, Ex 44.04, Ex 44.07 : Pays non européens.
+Ex 44.01-10.
 
 6. Végétaux de Chaenomeles Ldp, Crataegus L., Cydonia Mill., Malus Mill., Phothinia L., Prunus L., Pyrus L. et Rosa L. destinés à la plantation, autres que les végétaux dormants exempts de feuilles, de fleurs et de fruits :
 
@@ -113,7 +113,3 @@ b) Les espèces, variétés (ou cultivars) autres que ceux des genres cités en 
 situés dans l'hémisphère Sud pendant la période du 1er novembre au 15 avril de chaque année (cas particuliers : les pays suivants sont considérés comme compris dans l'hémisphère Sud pour la totalité de leur territoire : Brésil, Congo, Equateur, Gabon, Kenya, Indonésie, Zaïre).
 
 3. Des pays ou régions de la C.E.E. autres que ceux cités ci-dessous pour la période du 16 avril au 31 octobre de chaque année : Espagne, Italie, Portugal, Land de Bavière en ce qui concerne la R.F.A., régions de Cleveland, Cumbria, Durham, North Yorkshire (à l'exception des districts de Selby et de la commune d'York), ainsi que de l'Ecosse et de l'Irlande du Nord en ce qui concerne le Royaume-Uni.
-
-B. - Liste complémentaire de végétaux ou de produits végétaux dont l'introduction est interdite dans les départements d'outre-mer.
-
-Liste en cours de réactualisation.
