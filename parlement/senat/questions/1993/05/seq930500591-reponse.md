@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930500591
+
+- Question : [SEQ930500591](seq930500591.md) — Travailleurs immigrés en Arabie saoudite
+
+## Réponse
+
+*Premier ministre, JO du 1993-07-29, page 1249*
+
+Réponse. - Le Gouvernement français, qui est attaché à ce que les droits de l'homme soient respectés dans toutes les parties du monde, n'ignore pas que selon les règles éditées par les autorités saoudiennes, les ressortissants étrangers sont tenus de laisser leur passeport entre les mains de leurs employeurs, lesquels sont garants devant la loi (" sponsorship ") des agissements de ceux-ci, durant la totalité de leur séjour en Arabie Saoudite. Par ailleurs, ils sont soumis (" clearance "), sans discrimination de nationalité, à l'obligation de visa de sortie du territoire saoudien (qui tient lieu de quitus fiscal notamment) dès lors qu'ils ont le statut de résident dans le pays. Cette pratique, dont l'Arabie Saoudite n'a pas l'apanage, a été évoquée au niveau multilatéral en 1992, à Koweït, lors du conseil ministériel de coopération entre la Communauté européenne et le conseil de coopération des Etats arabes du Golfe (qui regroupe, outre l'Arabie Saoudite, cinq autres Etats de la région). La France ne saurait toutefois demander au Royaume d'Arabie Saoudite de modifier des règles qu'il est seul habilité à définir et qui touchent de près à la sécurité intérieure du Royaume (conditions de séjours des étrangers). L'Arabie Saoudite est, comme le sait l'honorable parlementaire, signataire de la convention de Vienne de 1963 sur les relations consulaires. En vertu des dispositions de cette convention, nos consuls et ceux des pays représentés à Riyadh, à Djeddah ou à Dhahran sont en mesure d'assurer la protection consulaire de leurs ressortissants. A ce titre, notre représentation bénéficie, pour ce qui la concerne et lorsque les difficultés surgissent, d'une attitude de coopération de la part des autorités saoudiennes.
