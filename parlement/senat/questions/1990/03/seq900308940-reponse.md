@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900308940
+
+- Question : [SEQ900308940](seq900308940.md) — Droit français concernant les animaux domestiques
+
+## Réponse
+
+*Agriculture, JO du 1990-06-14, page 1313*
+
+Réponse. - La loi n° 89-412 du 22 juin 1989 modifiant et complétant certaines dispositions du livre II du code rural ainsi que de certains articles du code de la santé publique, définit comme étant en état de divagation : tout chien qui, en dehors d'une action de chasse ou de garde d'un troupeau, n'est plus sous la surveillance effective de son maître, se trouve hors de portée de voix de celui-ci ou de tout instrument sonore permettant son rappel, ou qui est éloigné de son propriétaire ou de la personne qui en est responsable d'une distance dépassant cent mètres ; tout chat non identifié trouvé à plus de 200 mètres des habitations ou tout chat trouvé à plus de 1 kilomètre du domicile de son maître et qui n'est pas sous la surveillance directe de ce dernier ainsi que tout chat dont le propriétaire n'est pas connu et qui est saisi sur la voie publique ou sur la propriété d'autrui. Tous les animaux en état de divagation doivent être conduits à la fourrière où ils seront gardés pendant un délai minimum de 4 jours ouvrés et francs. Ces mesures doivent être prises à l'initiative des maires qui ont ainsi les moyens d'empêcher la divagation des animaux qui peuvent être à l'origine de nuisances diverses. La présente loi qui interdit donc la divagation des chiens et des chats a également introduit dans le code rural un article 213-2 qui prévoit que les articles 529 à 529-2 et 530 à 530-2 du code de procédure pénale sont applicables aux infractions en matière de divagations. Un décret en Conseil d'Etat en cours d'élaboration fixera le montant des amendes forfaitaires et des amendes forfaitaires majorées.
