@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040813427
+
+- Question : [SEQ040813427](seq040813427.md) — Réglementation des brocantes ou vide-greniers
+
+## Réponse
+
+*Économie, JO du 2004-12-09, page 2834*
+
+En application de l'article L. 310-2 du code de commerce, les ventes de marchandises neuves ou d'occasion effectuées dans des locaux ou sur des emplacements non destinés à la vente au public de ces marchandises sont soumises à autorisation de vente au déballage. Cette autorisation est délivrée par le préfet du département si la surface de vente utilisée est supérieure à 300 mètres et par le maire dans le cas contraire. Les manifestations de type brocantes et vide-greniers dépendent ainsi du régime d'autorisation des ventes au déballage. Par ailleurs, les particuliers ne peuvent vendre dans ces manifestations que des objets personnels et usagés, comme le rappelle la circulaire du 12 août 1987 relative à la lutte contre les pratiques paracommerciales. S'agissant du recel, la loi du 30 novembre 1987 relative à la prévention et à la répression du recel et organisant la vente ou l'échange d'objets mobiliers, codifiée aux articles 321-7 et 321-8 du code pénal, prévoit notamment la tenue, jour par jour, par l'organisateur de la manifestation, d'un registre permettant l'identification des vendeurs. Ce registre permet de recenser les particuliers qui participent régulièrement à des opérations de brocantes et vide-greniers. Pour enrayer la présence de " faux particuliers " dans ces manifestations, des réflexions sont en cours qui visent à limiter la participation des particuliers aux seules manifestations collectives organisées dans leur commune de résidence. L'encadrement juridique ainsi complété permettrait aux autorités publiques de veiller plus aisément à ce que les ventes réalisées par les particuliers conservent un caractère exceptionnel et aux brocanteurs et antiquaires professionnels d'exercer leur activité dans les conditions d'une concurrence loyale.
