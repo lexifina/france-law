@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920721894
+
+- Question : [SEQ920721894](seq920721894.md) — Logement des femmes seules
+
+## Réponse
+
+*Équipement, JO du 1993-01-28, page 145*
+
+Réponse. - Depuis deux ans, l'Etat s'est attaché à généraliser, sous seule condition de ressources, les aides personnelles au logement, tant dans le parc social que dans le parc privé. Par ailleurs, conformément aux dispositions de la loi du 31 mai 1990 visant à la mise en oeuvre du droit au logement, chaque département s'est doté, sous la responsabilité conjointe du préfet et du président du conseil général, d'un plan départemental d'action pour le logement des personnes défavorisées et d'un fonds de solidarité pour le logement (FSL). Ce fonds a pour objectif d'aider, par des prêts ou des subventions, les personnes qui connaissent des difficultés d'accès ou de maintien dans un logement soit par l'octroi d'aides financières, soit par le financement de mesures dites d'accompagnement social lié au logement. En outre, il a la possibilité de soutenir l'action des associations, notamment celles qui pratiquent la sous-location, en leur accordant des garanties pour le paiement des loyers. Il convient également de rappeler que, conformément à l'article R. 441-4 du code de la construction et de l'habitation, les logements sociaux sont attribués en priorité à certaines catégories de personnes - dont les femmes enceintes et les chefs de famille monoparentale. Enfin, le ministère de l'équipement, du logement et des transports a accordé en 1991, dans le cadre de son programme national de soutien aux associations oeuvrant dans le domaine de l'insertion par le logement des personnes en difficulté, une subvention à la Fédération nationale solidarité femmes, en vue d'engager des actions visant à favoriser l'accès au logement ou le relogement des femmes victimes de violence conjugale.
