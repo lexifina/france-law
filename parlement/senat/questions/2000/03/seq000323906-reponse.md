@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000323906
+
+- Question : [SEQ000323906](seq000323906.md) — Aide aux pays producteurs de fèves de cacao
+
+## Réponse
+
+*Coopération, JO du 2000-07-13, page 2492*
+
+Réponse. - L'honorable parlementaire a bien voulu saisir le ministre délégué à la coopération et à la francophonie pour lui faire part de ses précoccupations quant aux risques pour les pays ACP de la récente adoption de la directive sur le cacao. La directive relative aux produits de cacao et de chocolat destinés à l'alimentation humaine adoptée le 25 mai dernier a pour objet d'harmoniser pour l'ensemble de la Communauté les conditions d'utilisation des graisses végétales autres que le beurre de cacao dans la fabrication du chocolat. Au cours des négociations, la France s'est efforcée d'obtenir des garanties pour les consommateurs d'une part, et pour les pays ACP de l'autre. Elle a notamment obtenu que les règles de double étiquetage retenues soient suffisamment strictes pour ne pas tromper le consommateur. La mention des matières grasses végétales figure sur la liste des ingrédients et sur l'emballage. La France a, en outre, convaincu ses partenaires de l'Union de la nécessité d'une liste restreinte de matières grasses végétales de substitution. Elle sera limitée aux seuls équivalents naturels du beurre de cacao, dont les pays ACP sont les principaux producteurs. Enfin, une étude d'impact de la directive sur les pays producteurs de cacao sera conduite. En fonction de ses résultats, la liste des équivalents au cacao pourra être révisée pour tenir compte du préjudice éventuellement subi par ces pays. Enfin, la directive évoque la nécessité de promouvoir avec les pays en voie de développement producteurs de cacao un commerce équitable et de leur apporter, à ce titre, le soutien de la Communauté.
