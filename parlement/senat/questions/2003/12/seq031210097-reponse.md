@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031210097
+
+- Question : [SEQ031210097](seq031210097.md) — Programmation des investissements à long terme de la RATP
+
+## Réponse
+
+*Équipement, JO du 2004-02-05, page 289*
+
+Le programme d'investissement de la RATP est fixé dans le cadre des comités des investissements à caractère économique et social (CIES). L'article 1er du contrat de Plan Etat-région Ile-de-France 2000-2006 dresse la liste des projets d'infrastructure à réaliser. Les projets sous maîtrise d'ouvrage RATP sont financés pour partie par la collectivité territoriale concernée. La partie restante de l'investissement d'infrastructure est à la charge de l'Etat (30 %), de la région d'Ile-de-France (50 %) et de la RATP (20 %) sous la forme de prêts bonifiés par la région pour les prolongements de lignes de métro et tramway et à la charge des seuls Etat (50 %) et région d'Ile-de-France (50 %) pour les autobus en site propre. Les besoins en matériel roulant pour couvrir ces projets de développement sont à la charge de la RATP. L'actuel contrat de plan prévoit, pour ce qui concerne les projets sous maîtrise d'ouvrage RATP, la réalisation des projets suivants : quatre prolongements de lignes de métro (4, 8, 12, 13 et 14) ; sept lignes de tramway ; 8 lignes de site propre. Le prolongement des cinq lignes de métro correspond à une inscription au contrat de Plan Etat-région de 629 millions d'euros dont 106 millions d'euros à la charge de la RATP. La réalisation des sept lignes de tramway correspond à une inscription au contrat de Plan Etat-région de 893 millions d'euros dont 150 millions d'euros à la charge de la RATP. La réalisation des sept projets de transport en site propre correspond à une inscription au contrat de Plan Etat-région de 401 millions d'euros, étant entendu que la RATP ne contribue pas financièrement à la mise en oeuvre de ces opérations. La totalité du matériel roulant reste à la charge de la RATP.
