@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000626330
+
+- Question : [SEQ000626330](seq000626330.md) — Politique de la montagne et planification territoriale
+
+## Réponse
+
+*Aménagement du territoire, JO du 2000-09-14, page 3172*
+
+Réponse. - La ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question relative à la politique de la montagne et à la planification territoriale. Les spécificités des massifs français ont été prises en compte dans les programmes pluriannuels qui se mettent en place depuis le début de cette année, soit dans les CPER (contrats de plan Etat-région), soit dans les conventions interrégionales de massif. Les conventions interrégionales de massif sont un outil d'une échelle nouvelle, respectueuse de l'identité de ces espaces naturels, sur lesquelles les conseils régionaux ont accepté de s'engager d'une manière significative. En effet, alors que l'Etat consacre 1 224 MF au développement socio-économique tous ministères confondus, et 1 769 MF aux infrastructures, les conseils régionaux développent un véritable partenariat à hauteur de près de 930 MF. Il convient d'y ajouter les efforts des conseils généraux de certaines régions comme l'Alsace ou la Franche-Comté, qui abondent les volumes financiers des collectivités régionales, sans préjuger des efforts qui seront sans doute produits par d'autres conseils généraux, par exemple dans le Massif central. Les conventions interrégionales de massif s'imposent aujourd'hui comme un véritable outil de partenariat qui s'achemine dans une parité porteuse d'avenir, pour le développement socio-économique de la montagne française, illustrative d'une prise en considération de l'échelle globale de ces espaces, qui couvrent 25 % du territoire national. Par conséquent, la politique de massif s'affirme, fédérée au niveau de l'Etat par les préfets coordonnateurs, animée par les commissaires de massif et validée par les collectivités territoriales concernées.
