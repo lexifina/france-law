@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940405875
+
+- Question : [SEQ940405875](seq940405875.md) — Modalités d'imposition sur le revenu des coopérants et enseignants en fonction au Tchad
+
+## Réponse
+
+*Coopération, JO du 1994-07-07, page 1679*
+
+Réponse. - Le protocole relatif au régime fiscal des assistants techniques en fonction au Tchad du 6 mars 1976 dispose que le montant brut imposable comprend, pendant la période de présence, la rémunération de base indexée, versée à l'intéressé et, pendant le congé, le traitement afférent à cette période abondé de l'indemnité de résidence, le tout affecté d'une réfaction de 70 p. 100. Un accord intervenu en 1983 amende ces dispositions dans un sens encore plus favorable. Il retient pour assiette, pendant la période de présence, le seul traitement indiciaire, sans indemnité d'expatriation ni affectation de coefficient géographique et, pendant la période de congé, l'équivalent des sommes effectivement perçues sous le régime du décret no 78-571 du 25 avril 1978 soit le seul traitement indiciaire, non indexé, abondé de 30 p. 100 de l'indemnité d'expatriation. Les émoluments nets de l'une et l'autre périodes continuent à être retenus pour 30 p. 100 de leur valeur. Ainsi, la base brute imposable est représentée par 30 p. 100 du seul traitement indiciaire net non indexé pendant dix mois de l'année civile. Ces dispositions considérées à l'époque comme une incitation pour les coopérants à venir servir au Tchad ont été étendues au personnel du lycée Montaigne de N'Djamena. Il convient d'observer par ailleurs que, par simple effet mécanique, la dévaluation du franc CFA ne se traduit par aucun accroissement de la charge fiscale réelle. L'impôt dû en 1994 se réfère aux rémunérations servies en 1993. Leur montant a été déterminé selon l'ancienne parité. Pour celles perçues en 1994, des négociations sont en cours aux fins de déterminer un nouveau mode de calcul qui ne génère aucune surcharge fiscale.
