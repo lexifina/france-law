@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870305254
+
+- Question : [SEQ870305254](seq870305254.md) — Modalités et délais de recours contre les décisions du conseil d'administration d'un centre hospitalier régional
+
+## Réponse
+
+*Affaires sociales, JO du 1987-08-13, page 1270*
+
+Réponse. -Le décret n° 72-350 du 2 mai 1972 relatif aux conseils d'administration des établissements ou groupes d'établissements d'hospitalisation publics dispose, en son article 24, que les séances du conseil d'administration ne sont pas publiques. Il est prévu que les délibérations sont conservées dans un registre spécial confié à la garde du directeur de l'établissement. Ce registre est tenu à la disposition des administrateurs qui peuvent le consulter sur place ou en obtenir des copies ou des extraits. De ce fait, une délibération ne peut faire l'objet d'un recours, faute d'avoir été notifiée à un tiers. En revanche, une décision prise par le directeur d'un centre hospitalier régional en application d'une délibération du conseil d'administration peut être contestée aussi bien par des pensionnaires d'une maison de retraite que par un fournisseur non contractant, à condition toutefois que cette décision fasse grief aux intéressés. Il s'agit alors d'une procédure de droit commun. Les pensionnaires et le fournisseur peuvent saisir le tribunal administratif dans un délai de deux mois suivant la date de publication ou la date à laquelle leur a été notifiée ladite décision. Ils peuvent également, dans ce même délai, formuler un recours gracieux auprès du directeur de l'établissement tendant au retrait ou à la modification de cette décision. Le tribunal administratif du lieu d'implantation du centre hospitalier régional est également compétent pour connaître d'un recours qui peut alors être déposé dans le délai de deux mois qui suit la décision négative ou la décision implicite de rejet de l'autorité à laquelle a été adressé le recours gracieux.
