@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021204416
+
+- Question : [SEQ021204416](seq021204416.md) — TVA concernant le secteur du bâtiment
+
+## Réponse
+
+*Équipement, JO du 2003-02-13, page 572*
+
+La directive communautaire du 22 octobre 1999 autorise les Etats membres à appliquer, à titre expérimental et pour une durée de trois ans, un taux réduit de TVA à certains services à forte intensité de main-d'oeuvre. La France a décidé d'appliquer le taux réduit de TVA notamment aux travaux de réparation, d'amélioration, de transformation, d'aménagement et d'entretien portant sur les locaux à usage d'habitation achevés depuis plus de deux ans. Conformément à la directive de 1999, un rapport contenant une évaluation globale de l'efficacité de la mesure, notamment en termes de créations d'emplois et d'efficience, a été transmis à la commission. La commission a indiqué que la pérennisation de la mesure n'était toutefois pas possible avant la fin de l'expérience en cours compte tenu du délai nécessaire pour examiner les résultats obtenus par les différents Etats membres, et a présenté une proposition de directive permettant la prorogation d'un an, soit jusqu'au 31 décembre 2003. Après consultation des Parlements nationaux et du Parlement européen, cette proposition a été adoptée par le conseil Ecofin du 3 décembre 2002. La question de la pérennisation de la mesure sera discutée dans le cadre des négociations qui interviendront en 2003 sur le champ d'application du taux réduit. En tout état de cause, le Gouvernement mettra tout en oeuvre pour obtenir la reconduction de cette mesure dont le bilan économique s'avère d'ores et déjà très positif, puisqu'elle a contribué à la création de plusieurs dizaines de milliers d'emplois. Dans l'immédiat, l'application du taux réduit de TVA a été prorogée d'un an par la loi de finances pour 2003.
