@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990818363
+
+- Question : [SEQ990818363](seq990818363.md) — Tarifs postaux des envois en nombre
+
+## Réponse
+
+*Économie, JO du 1999-10-28, page 3552*
+
+Réponse. - S'agissant des prospections locales (c'est-à-dire ne concernant qu'un seul département), l'accès aux tarifs postaux des envois publicitaires en nombre (Postimpact) était réservé, jusqu'en avril 1998, aux dépôts de 400 plis identiques minimum, contre 1 000 plis pour les opérations d'envergure régionale ou nationale. Cette différence de seuil requis s'expliquait par le fait que, pour les courriers à destination d'un même département, les séparations à effectuer par le client pour prétendre au tarif Postimpact étaient réalisables dès 400 plis. Les conditions d'accès au Postimpact ont été assouplies en avril 1998 : la notion de prospection locale (regroupement d'un minimum de 400 plis identiques) a été étendue aux départements limitrophes des départements de dépôt. Cet assouplissement, autorisé par un niveau de préparation équivalent pour un dépôt local de 400 plis et pour un dépôt plus étendue de 1 000 plis, permettait aux annonceurs de communiquer sur l'ensemble de leur zone de chalandise, qui ne correspond pas toujours aux limites du département. Lors du réaménagement tarifaire du Postimpact de mai 1999, cet élargissement aux départements limitrohes a été appliqué à l'ensemble des produits de la gamme. La Poste opère un contrôle rigoureux de la bonne application de cette mesure. S'agissant précisément du cas de la Gironde et de la Charente, l'importance des flux constatés entre ces deux départements, ainsi que leur proximité géographique qui peut conduire des annonceurs de Charente à prospecter en Gironde, et réciproquement, ont conduit La Poste à assimiler les deux départements à des éléments limitrophes pour les dépôts de Postimpact. Cette décision a pris effet mi-septembre.
