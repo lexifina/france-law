@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870707273
+
+- Question : [SEQ870707273](seq870707273.md) — Modalités de constitution des commissions paritaires locales
+
+## Réponse
+
+*Affaires sociales, JO du 1987-09-17, page 1461*
+
+Réponse. -Aux termes de l'article L. 804 du code de la santé publique, les commissions paritaires consultatives départementales étaient notamment compétentes à l'égard des personnels hospitaliers nommés par le préfet. Or, depuis la promulgation des lois de décentralisation, les personnels - à l'exception des directeurs - des établissements relevant des services départementaux de l'aide sociale à l'enfance sont nommés par le président du conseil général lorsque ces établissements ne sont pas dotés de la personnalité morale. La loi n° 86-33 du 9 janvier 1986 modifiée (titre IV du statut général des fonctionnaires de l'Etat et des collectivités territoriales) a tiré, pour ce qui concerne les commissions paritaires, les conséquences de ce transfert de compétences en prévoyant la constitution de commissions paritaires locales dans chaque établissement relevant de la fonction publique hospitalière. Cette prescription, de nature législative, doit être appliquée par le recours aux dispositions réglementaires du livre IX du code de la santé publique maintenues en vigueur, aux termes de l'article 130 de la loi du 9 janvier 1986, jusqu'à leur remplacement par le décret en Conseil d'Etat prévu à l'article 22. Dans ces conditions, rien ne s'oppose à la constitution en toute légalité des commissions paritaires locales dans les établissements relevant des services départementaux de l'aide sociale à l'enfance ; c'est ce que rappellent les circulaires n° 86-33 du 2 juillet 1986 et DH/8D/86 n° 188 du 17 juin 1987 concernant l'application de la loi n° 86-33 du 9 janvier 1986 modifiée.
