@@ -18,7 +18,7 @@ Par an.
 
 |
 
-Francs
+Euros
 
 |
 
@@ -26,7 +26,7 @@ Militaires de tous grades
 
 |
 
-108
+16,46
 
 |
 

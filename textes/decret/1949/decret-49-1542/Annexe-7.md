@@ -18,7 +18,7 @@ Par an.
 
 |
 
-Francs
+Euros
 
 |
 
@@ -26,7 +26,7 @@ Sous-officiers de tous grades
 
 |
 
-32,40
+4,94
 
 |
 

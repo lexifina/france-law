@@ -22,9 +22,7 @@ Observations
 
 |
 
-Francs
-
-|
+Euros |
 
 |
 
@@ -32,7 +30,7 @@ Certificat de connaissances du premier degré.
 
 |
 
-57,6
+8,78
 
 |
 
@@ -44,7 +42,7 @@ Certificat de connaissances du second degré.
 
 |
 
-86,4
+13,17
 
 |
 
@@ -58,7 +56,7 @@ Certificat de connaissances du troisième degré.
 
 |
 
-108
+16,46
 
 |
 

@@ -32,11 +32,11 @@ ou en cas de perte totale en service outre-mer
 
 |
 
-Francs
+Euros
 
 |
 
-Francs
+Euros
 
 |
 
@@ -48,11 +48,11 @@ Effets d’équipement
 
 |
 
-600
+91,47
 
 |
 
-860
+131,11
 
 |
 
@@ -60,11 +60,11 @@ Effets de harnachement
 
 |
 
-270
+41,16
 
 |
 
-270
+41,16
 
 |
 
@@ -76,11 +76,11 @@ Effets d’équipement
 
 |
 
-550
+83,85
 
 |
 
-810
+123,48
 
 |
 
@@ -88,11 +88,11 @@ Effets de harnachement
 
 |
 
-270
+41,16
 
 |
 
-270
+41,16
 
 |
 
@@ -104,11 +104,11 @@ Effets d’équipement
 
 |
 
-500
+76,22
 
 |
 
-770
+117,39
 
 |
 
@@ -116,11 +116,11 @@ Effets de harnachement
 
 |
 
-270
+41,16
 
 |
 
-270
+41,16
 
 |
 
@@ -128,9 +128,9 @@ Spécialistes de l’arme féminine de l’armée de terre |
 
 Effets d ’équipement |
 
-500 |
+76,22 |
 
-770 |
+117,39 |
 
 Sous-officiers et caporaux-chefs
 
@@ -144,7 +144,7 @@ Néant
 
 |
 
-130
+19,82
 
 |
 
@@ -160,7 +160,7 @@ Néant
 
 |
 
-76
+11,59
 
 |
 

@@ -18,7 +18,7 @@ Par an.
 
 |
 
-Francs
+Euros
 
 |
 
@@ -26,7 +26,7 @@ Officiers
 
 |
 
-162
+24,7
 
 |
 
@@ -34,7 +34,7 @@ Sous-officiers et caporaux-chefs
 
 |
 
-102
+15,55
 
 |
 
@@ -42,7 +42,7 @@ Caporaux et soldats
 
 |
 
-72
+10,98
 
 |
 

@@ -18,7 +18,7 @@ Par an.
 
 |
 
-Francs
+Euros
 
 |
 
@@ -26,7 +26,7 @@ Officiers supérieurs
 
 |
 
-86,40
+13,17
 
 |
 
@@ -34,7 +34,7 @@ Officiers subalternes
 
 |
 
-64,80
+9,88
 
 |
 
@@ -42,7 +42,7 @@ Aspirants, adjudants - chefs, adjudants, sergents-majors
 
 |
 
-43,20
+6,59
 
 |
 
@@ -50,7 +50,7 @@ Autres sous-officiers
 
 |
 
-32,40
+4,94
 
 |
 
@@ -58,7 +58,7 @@ Caporaux-chefs et caporaux
 
 |
 
-21,60
+3,29
 
 |
 
@@ -66,7 +66,7 @@ Soldats
 
 |
 
-18
+2,74
 
 |
 

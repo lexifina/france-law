@@ -18,7 +18,7 @@ Par an.
 
 |
 
-Francs
+Euros
 
 |
 
@@ -26,7 +26,7 @@ Militaires promus sous-lieutenants montés ou assimilés de l’armée active
 
 |
 
-270
+41,16
 
 |
 
