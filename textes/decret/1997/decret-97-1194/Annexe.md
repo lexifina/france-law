@@ -398,18 +398,6 @@ Article R. *113-22, 1er et 2e alinéa.
 
 |
 
-2
-
-|
-
-Accord à l'aliénation des immeubles dont les ports autonomes sont propriétaires lorsque leur valeur vénale est supérieure au seuil prévu, par le 4e alinéa de l'article R. 129 du code du domaine de l'Etat. Décision conjointe avec le ministre chargé des ports maritimes.
-
-|
-
-Article R.* 113-23.
-
-|
-
 Code rural
 
 1
