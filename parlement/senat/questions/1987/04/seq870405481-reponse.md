@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870405481
+
+- Question : [SEQ870405481](seq870405481.md) — Taxe d'habitation: méthode d'établissement des bases d'imposition
+
+## Réponse
+
+*Budget, JO du 1987-09-03, page 1360*
+
+Réponse. -Les valeurs locatives comprises dans les bases d'imposition des taxes foncières sur les propriétés bâties et non bâties, de taxe d'habitation et de taxe professionnelle sont réévaluées chaque année par application de coefficients forfaitaires visés à l'article 1518 bis du C.G.I., fixés en fonction de l'évolution des loyers constatés, au niveau national, au 1er janvier de l'avant-dernière année qui précède celle de l'imposition. En période de désinflation, ce décalage de deux ans entraîne, pour l'année d'imposition, une progression des bases d'imposition plus rapide que celle des prix. Pour pallier cet inconvénient, le législateur a décidé d'appliquer aux bases d'imposition des quatre taxes directes locales un coefficient ramenant l'augmentation nominale des bases de ces taxes à un niveau plus proche de celui de l'inflation. Pour 1986, ce coefficient était de 0,974, soit le rapport existant entre l'augmentation nominale des bases d'imposition correspondant à l'érosion monétaire de 1986 (1,052) et l'augmentation nominale résultant de l'application en 1986 du coefficient de majoration des valeurs locatives des propriétés bâties autres que les immeubles industriels (1,08). Pour 1987, il a été fixé à 0,959, c'est-à-dire au rapport existant entre la hausse prévisionnelle des prix en 1987 (1,034) et le coefficient de majoration des valeurs locatives des propriétés bâties autres que les immeubles industriels (1,05), le résultat étant multiplié par le coefficient déflateur appliqué dans les rôles de 1986 (0,974). Ce mode de calcul du coefficient déflateur de 0,959 en 1987 n'annule donc pas, ainsi que le craignait l'honorable parlementaire, les effets du coefficient de 0,974 appliqué en 1986.
