@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000424285
+
+- Question : [SEQ000424285](seq000424285.md) — TVA sur les travaux d'entretien des voiries
+
+## Réponse
+
+*Économie, JO du 2000-08-24, page 2922*
+
+Réponse. - Les travaux d'aménagement et d'entretien de la voirie constituent une activité de service public administratif des communes. En application des dispositions de l'article 256 B du code général des impôts (CGI), les communes ne sont pas assujetties à la taxe sur la valeur ajoutée pour cette activité qui ne figure pas au nombre des services qui peuvent être imposés à la taxe sur la valeur ajoutée sur option en application de l'article 260 A du CGI. Aussi, les communes ne peuvent être autorisées à déduire la taxe qui grève les dépenses d'entretien de la voirie. En effet, conformément aux réglementations communautaire et interne, la taxe sur la valeur ajoutée afférente à des biens et services n'est déductible qu'à condition que ces dépenses soient utilisées pour les besoins d'opérations soumises à la taxe. S'agissant du fonds de compensation de la taxe sur la valeur ajoutée, les textes relatifs au FCTVA ne rendent éligibles que les dépenses réelles d'investissement. Celles-ci sont comptabilisées à la section d'investissement du compte administratif, au titre des immobilisations et des immobilisations en cours. Ainsi, les dépenses qui contribuent à l'accroissement du patrimoine ou qui en augmentent la durée d'utilisation constituent des dépenses d'investissement. En revanche, les dépenses dont le seul objet est de maintenir les éléments d'actif dans un état normal d'utilisation constituent des dépenses de fonctionnement. Dans le cas particulier des frais engagés par les communes pour les travaux d'entretien des voiries communales, il s'avère que ces dépenses ne constituent pas un investissement, mais des dépenses de fonctionnement non éligibles au FCTVA.
