@@ -12,7 +12,7 @@ Le crédit d'impôt s'applique pour le calcul de l'impôt dû au titre de l'ann�
 
 Le crédit d'impôt est égal à 15 % du montant des équipements figurant sur la facture de l'entreprise ayant réalisé les travaux ou, le cas échéant, pour les équipements de production d'énergie utilisant une source d'énergie renouvelable, du coût de ces équipements figurant sur une attestation fournie par le vendeur du logement.
 
-Il est accordé sur présentation de l'attestation mentionnée à l'alinéa précédent ou des factures, autres que les factures d'acompte, des entreprises ayant réalisé les travaux et comportant, outre les mentions prévues à l'article 289, l'adresse de réalisation des travaux, leur nature ainsi que la désignation et le montant des équipements.
+Il est accordé sur présentation de l'attestation mentionnée au troisième alinéa ou des factures, autres que les factures d'acompte, des entreprises ayant réalisé les travaux et comportant, outre les mentions prévues à l'article 289, l'adresse de réalisation des travaux, leur nature ainsi que la désignation et le montant des équipements.
 
 Le crédit d'impôt est imputé sur l'impôt sur le revenu dû au titre de l'année au cours de laquelle les dépenses ont été payées, après imputation des réductions d'impôt mentionnées aux articles 199 quater B à 200, de l'avoir fiscal, des crédits d'impôt et des prélèvements ou retenues non libératoires. S'il excède l'impôt dû, l'excédent est restitué.
 

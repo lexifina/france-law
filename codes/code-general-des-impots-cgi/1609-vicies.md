@@ -10,23 +10,7 @@ b) Pour les huiles importées en France continentale et en Corse (y compris les 
 
 c) Pour les huiles qui font l'objet d'une acquisition intracommunautaire lors de l'acquisition.
 
-II. – Les taux de la taxe sont révisés chaque année au mois de décembre, par arrêté du ministre chargé du budget publié au Journal officiel, en fonction de l'évolution prévisionnelle en moyenne annuelle pour l'année suivante des prix à la consommation de tous les ménages hors les prix du tabac. Les évolutions prévisionnelles prises en compte sont celles qui figurent au rapport économique, social et financier annexé au dernier projet de loi de finances. Ces taux sont fixés comme suit :
-
-Huile d'olive, 0,981 F/Kg, 0,883 F/litre
-
-Huiles d'arachide et de maïs, 0,883 F/Kg, 0,804 F/Litre
-
-Huiles de colza et de pépins de raisin, 0,453 F/Kg, 0,412 F/litre
-
-Autres huiles végétales fluides et huiles d'animaux marins dont le commerce et l'utilisation ne sont pas soumis aux règles internationales ou nationales relatives aux espèces protégées, 0,771 F/Kg, 0,672 F/litre
-
-Huiles de coprah et de palmiste, 0,588 F/Kg
-
-Huile de palme, 0,539 F/Kg
-
-Huiles d'animaux marins dont le commerce et l'utilisation sont soumis aux règles internationales ou nationales relatives aux espèces protégées, 0,981 F/Kg.
-
-Ces taux sont applicables à compter du 1er janvier 2000.
+II. – Les taux de la taxe sont révisés chaque année au mois de décembre, par arrêté du ministre chargé du budget publié au Journal officiel, en fonction de l'évolution prévisionnelle en moyenne annuelle pour l'année suivante des prix à la consommation de tous les ménages hors les prix du tabac. Les évolutions prévisionnelles prises en compte sont celles qui figurent au rapport économique, social et financier annexé au dernier projet de loi de finances.
 
 Pour les produits alimentaires importés ou qui font l'objet d'une acquisition intracommunautaire incorporant des huiles imposables, la taxation est effectuée selon les quantités et les natures d'huile entrant dans la composition.
 
@@ -37,3 +21,9 @@ III. – Les huiles, y compris celles qui sont contenues dans les produits alime
 IV. – La taxe spéciale est établie et recouvrée selon les modalités, ainsi que sous les sûretés, garanties et sanctions applicables aux taxes sur le chiffre d'affaires.
 
 Sont toutefois fixées par décret les mesures particulières et prescriptions d'ordre comptable notamment, nécessaires pour que la taxe spéciale ne frappe que les huiles effectivement destinées à l'alimentation humaine, pour qu'elle ne soit perçue qu'une seule fois, et pour qu'elle ne soit pas supportée en cas d'exportation, de livraison exonérée en vertu du I de l'article 262 ter ou de livraison dans un lieu situé dans un autre Etat membre de la Communauté européenne en application de l'article 258 A.
+
+NOTA :
+
+NOTA : Dans les dispositions de nature réglementaire, les références au "budget annexe des prestations sociales agricoles" sont remplacées par les références à "l'établissement de gestion du fonds de financement des prestations sociales des non-salariés agricoles", cf décret 2004-1428 du 23 décembre 2004 article 14.
+
+Ces dispositions entrent en vigueur le 1er janvier 2005.
