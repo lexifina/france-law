@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000525187
+
+- Question : [SEQ000525187](seq000525187.md) — Conseil d'Etat : obligation d'avocat pour les Français établis hors de France
+
+## Réponse
+
+*Justice, JO du 2000-11-23, page 4020*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que les hypothèses de compétence du Conseil d'Etat en premier et en dernier ressort par application de l'article 2 (5º) du décret nº 53-934 du 30 septembre 1953 portant réforme du contentieux administratif présentent un caractère très résiduel. En effet, ces hypothèses ne se rencontrent que lorsqu'aucun tribunal administratif n'est territorialement compétent après application des articles R. 46 et suivants du code des tribunaux administratifs et des cours administratives d'appel. Lorsque tel est le cas, il est exact qu'une requête présentée dans ces conditions doit l'être par l'intermédiaire d'un avocat et qu'ainsi cette situation puisse apparaître comme inégalitaire par rapport à un requérant dont le litige, né dans le ressort territorial de la compétence d'un tribunal administratif, ne nécessiterait pas, pour être recevable, l'assistance d'un avocat. Il convient cependant d'observer que, s'agissant des recours de plein contentieux, portés devant le Conseil d'Etat, compétent en premier et dernier ressort, l'exigence du ministère d'avocat résulte de l'application des règles générales de procédure applicables devant cette juridiction et non de l'application d'une disposition qui serait discriminatoire à l'encontre de requérants résidant hors de France. Toutefois, le Gouvernement est disposé à engager, en liaison avec le Conseil d'Etat, une étude qui permettrait de mesurer la portée réelle de la difficulté ainsi signalée d'accès au juge administratif et de dégager les éventuelles solutions pour y porter remède.
