@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030306215
+
+- Question : [SEQ030306215](seq030306215.md) — Difficultés d'application du décret n° 85-603 du 10 juin 1985
+
+## Réponse
+
+*Fonction publique, JO du 2004-06-24, page 1401*
+
+L'article 4 du décret n° 85-603 du 10 juin 1985 modifié relatif à l'hygiène et à la sécurité du travail ainsi qu'à la médecine professionnelle impose la nomination d'un agent chargé de la mise en oeuvre des règles d'hygiène et de sécurité (ACMO) dans toutes les collectivités locales, lequel, selon l'arrêté du 3 mai 2002, bénéficie d'une formation préalable à sa prise de fonction ainsi que d'une formation continue. Ainsi, en toutes hypothèses, la présence d'un agent est obligatoire et indispensable pour la sécurité de l'ensemble du personnel. En effet, ces fonctions consistent à assister et à conseiller l'autorité territoriale dans la mise en oeuvre des règles d'hygiène et de sécurité. La désignation par les autorités territoriales d'un ou plusieurs agents chargés d'assurer la mise en oeuvre des règles d'hygiène et de sécurité (ACMO) peut soulever des difficultés, notamment dans les petites collectivités locales. Eu égard à la charge et aux difficultés que représentent ces fonctions, il convient de rappeler, d'une part, qu'elles sont proportionnelles à la taille de la collectivité et au nombre de ses agents et, d'autre part, qu'en vertu de l'article 4-2 du décret précité, l'agent chargé de la mise en oeuvre des règles d'hygiène et de sécurité bénéficie d'une formation. En outre, dans l'hypothèse où aucun agent de la collectivité ne donnerait son accord à l'autorité territoriale pour l'exercice des fonctions d'ACMO, la circulaire NOR INTB0100272 C du ministre de l'intérieur du 9 octobre 2001 rappelle que " celles-ci pourront être confiées au secrétaire de mairie ou au directeur général des services
