@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910113325
+
+- Question : [SEQ910113325](seq910113325.md) — Indemnisation des anciens incorporés de force
+
+## Réponse
+
+*Anciens combattants, JO du 1991-04-25, page 864*
+
+Réponse. - La présente question appelle les observations suivantes : 1° à la suite de la signature du traité portant règlement définitif concernant l'Allemagne, le Gouvernement français et le Gouvernement allemand sont convenus d'évoquer un certain nombre de questions en suspens qui n'ont pu pour différentes raisons être réglées dans le cadre des accords signés antérieurement. Des discussions ont été entamées entre les deux pays sur la base d'un recensement de l'ensemble des problèmes non résolus. Ceux-ci sont de nature très diverse : revendications de biens situés dans les Länder qui constituaient l'ancienne R.D.A., séquelles du régime nazi, créances privées liées à la guerre et à l'Occupation, conservation des tombes françaises et des lieux de déportation. Il n'est pas possible, à ce stade, de se prononcer sur chacune des composantes de la négociation qui devront faire l'objet de discussions particulières, mais la volonté existe de part et d'autre d'aboutir ; 2° les anciens du R.A.D. ont pu bénéficier du statut de personne contrainte au travail en pays ennemi (P.C.T.), qui comporte l'attribution d'une indemnité forfaitaire de 110 francs, au titre de la loi du 31 décembre 1953. Ce montant, demeuré inchangé depuis, ne présente certes pas le même intérêt matériel qu'il y a près de quarante ans. Cette indemnité avait d'ailleurs, dès cette époque, un caractère plus moral que matériel. Il n'est pas envisagé de la revaloriser actuellement. Il convient d'ailleurs de souligner que tel est le cas des indemnités forfaitaires attachées à divers autres statuts de victimes de guerre (déportés et internés, P.R.O., P.T.A., réfractaires).
