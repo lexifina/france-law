@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000524886
+
+- Question : [SEQ000524886](seq000524886.md) — Situation des salariés de l'entreprise Dassault-Aviation
+
+## Réponse
+
+*Défense, JO du 2000-08-10, page 2816*
+
+Réponse. - Il convient tout d'abord de préciser que la société Dassault-Aviation est détenue à hauteur de 49,9 % par le groupe industriel Marcel Dassault et à hauteur de 45,7 % par EADS (European Aeronautic Defence and Space). Cette société réalise un chiffre d'affaires de l'ordre de 19 milliards de francs qui se décompose de façon égale en une activité d'aviation militaire (Mirage 2000 et Rafale pour la France et l'exportation) et une activité de fabrication d'appareils civils (avions d'affaires Falcon). La situation générale de l'entreprise est bonne, son résultat net s'élevant à 1,1 milliard de francs. Cependant, il est à noter que l'activité militaire est très dépendante des marchés à l'exportation qui sont par nature très concurrentiels et que l'activité civile est à un niveau historiquement haut que le gouvernement souhaite voir maintenu dans les années à venir. Concernant les diverses revendications exprimées par les salariés de Dassault-Aviation vis-à-vis de leur direction, le Gouvernement, très attaché au maintien d'un dialogue social de qualité au sein de cette entreprise, a suivi avec attention le déroulement de ce conflit, et s'est efforcé de rapprocher les points de vue. A ce jour, les discussions qui portaient tant sur les modalités d'organisation du temps de travail que sur les questions salariales sont achevées, la direction de Dassault-Aviation ayant trouvé un terrain d'entente avec les représentants des salariés sur ces points. L'accord proposé conduit à une revalorisation des salaires minima, ainsi qu'à la mise en place de mesures spécifiques d'avancement pour les jeunes récemment embauchés, associées à une formule originale " d'à valoir " immédiat sur ces futures promotions.
