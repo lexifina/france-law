@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871108633
+
+- Question : [SEQ871108633](seq871108633.md) — Travailleurs non salariés : mensualisation des versements provisionnels à la caisse maladie régionale
+
+## Réponse
+
+*Affaires sociales, JO du 1988-01-21, page 79*
+
+Réponse. -L'article D. 612-2 du code de la sécurité sociale dispose que les cotisations d'assurance maladie des travailleurs indépendants sont payables d'avance et réparties en deux échéances semestrielles. Par ailleurs, l'article L. 615-8 du code de la sécurité sociale subordonne le paiement des prestations d'assurance maladie des travailleurs non salariés au règlement préalable des cotisations ; ainsi, l'assuré ne peut prétendre au remboursement des frais engagés s'il n'est à jour de ses cotisations. Dans ces conditions, le fractionnement mensuel du paiement des cotisations supposerait que les droits ne soient ouverts que pour un mois. Outre que cette réforme pourrait être dommageable pour les assurés, notamment en matière d'hospitalisation, elle multiplierait nécessairement les contrôles administratifs de l'ouverture des droits, entraînant des lenteurs et des surcoûts qui seraient à terme supportés par les assurés. En tout état de cause, un nouvel assouplissement des modalités de paiement des cotisations ne saurait intervenir sans que les conséquences pour la trésorerie du régime d'assurance maladie des travailleurs non salariés en aient été préalablement étudiées. D'autre part, bien qu'il soit admis depuis 1970 que les travailleurs indépendants peuvent s'acquitter de leurs cotisations semestrielles par des versements trimestriels, cette possibilité reste peu utilisée par les assurés. Aussi, il n'est pas actuellement envisagé de modifier les textes ayant trait aux modalités de paiement des cotisations d'assurance maladie des travailleurs non salariés.
