@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941108527
+
+- Question : [SEQ941108527](seq941108527.md) — Régime TVA des travaux faits pour son compte par un entrepreneur individuel
+
+## Réponse
+
+*Budget, JO du 1995-05-18, page 1140*
+
+Réponse. - Un entrepreneur individuel qui effectue des travaux avec le matériel et le personnel de son entreprise dans un immeuble d'habitation à usage locatif qui lui appartient personnellement est imposable à la TVA au titre de cette opération en application des dispositions de l'article 257-8o du code général des impôts. S'il s'agit de simples travaux de réparation ou d'entretien il doit soumettre à la TVA cette prestation de services à soi-même sur une base correspondant à la valeur hors taxes des biens et services utilisés pour la réalisation des travaux et qui ont ouvert droit à déduction. S'il s'agit de travaux de construction, la base d'imposition de la livraison à soi-même est constituée par le prix de revient. La taxe due au titre de l'une ou l'autre des opérations doit être déclarée selon les mêmes modalités que les autres opérations imposables de l'entrepreneur. Cette taxe n'est pas déductible dès lors qu'elle se rapporte à un bien utilisé à des fins étrangères à l'entreprise. De même, en matière de bénéfices industriels et commerciaux, les dépenses de toute nature, notamment la TVA non déductible sur la livraison à soi-même, supportées par l'entreprise individuelle au titre d'un bien non inscrit à l'actif et non affecté à l'exploitation sont considérées comme étangères à la gestion normale de l'exploitation et sont donc non déductibles. Il appartient dès lors à l'exploitant de procéder sous sa responsabilité à l'évaluation réelle de ces dépenses et de les réintégrer à son résultat imposable si ces sommes n'ont pas été portées préalablement au débit du compte de l'exploitant.
