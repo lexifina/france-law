@@ -1,0 +1,9 @@
+# Réponse à la question SEQ891207719
+
+- Question : [SEQ891207719](seq891207719.md) — Réformes de la fonction publique
+
+## Réponse
+
+*Fonction publique, JO du 1990-05-03, page 978*
+
+Réponse. - Mieux connaître les réformes administratives entreprises dans les pays étrangers comparables à la France est en effet une préoccupation constante du ministère de la fonction publique et des réformes administratives. C'est ainsi que lui-même et les services de la direction générale reçoivent de nombreux visiteurs et stagiaires étrangers. La fonction publique française participe activement aux activités du comité de la gestion publique de l'O.C.D.E. Enfin, relève de la même préoccupation la mission qui a été confiée à Michel Crozier dans trois pays : la Suède, les Etats-Unis et le Japon. La direction générale de l'administration et de la fonction publique a collaboré activement à la réalisation des entretiens et à l'analyse des données recueillies (" Comment réformer l'Etat ? Trois pays, trois stratégies : Suède, Japon, Etats-Unis ", édité par la Documentation française, collection des rapports officiels). Dans le cadre du renouveau du service public, le ministère de la fonction publique et des réformes administratives a entrepris plusieurs réflexions relatives à la politique de l'emploi public. Ainsi un premier groupe de travail interministériel a-t-il pour objectif de recenser les expériences administratives les plus intéressantes dans le domaine nouveau de la gestion de l'emploi et des qualifications. Parallèlement, un deuxième groupe a effectué une étude sur les méthodes de gestion prévisionnelle des effectifs mises en oeuvre dans les différentes administrations de façon à parvenir a des projections à moyen terme qui soient faites en termes à la fois comparables et suffisamment fins.
