@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940707380
+
+- Question : [SEQ940707380](seq940707380.md) — Recensement des besoins en matière de formation professionnelle des divers secteurs d'activité
+
+## Réponse
+
+*Travail, JO du 1994-09-08, page 2225*
+
+Réponse. - Le Gouvernement partage le souci de M. Georges Gruillot de disposer d'un recensement des besoins en matière de formation professionnelle des divers secteurs d'activité. A cet effet, le ministre du travail, de l'emploi et de la formation professionnelle a initié, dès 1988, la mise en place d'études prospectives sur l'évolution des métiers et des qualifications dans les secteurs d'activité : les contrats d'études prospectives (CEP). Cette mesure gérée par la délégation à la formation professionnelle est négociée avec les partenaires sociaux des branches professionnelles. Ce contrat vise à donner aux commissions professionnelles paritaires de l'emploi et à l'Etat une analyse prospective sur l'évolution des métiers et des qualifications. Il permet de formuler des recommandations aux entreprises sur les moyens les mieux appropriés pour faire face aux changements économiques, technologiques et sociaux intervenant dans les branches et de les aider à définir leurs orientations en matière de formation professionnelle continue des salariés, en matière de recrutement, d'organisation du travail et plus largement en matière de gestion des compétences. Ce dispositif peut depuis 1993 être conclu au niveau régional et infra-régional en associant ainsi les conseils régionaux. Depuis 1988, vingt-cinq branches professionnelles ont conclu avec l'Etat un contrat d'études prospectives (à titre d'exemple, on citera les industries agro-alimentaires, la métallurgie, la plasturgie, l'hôtellerie-cafés-restauration, l'imprimerie, et dernièrement les organismes de formation).
