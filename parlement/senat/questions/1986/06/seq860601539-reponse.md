@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860601539
+
+- Question : [SEQ860601539](seq860601539.md) — Retards scolaires dans l'enseignement primaire
+
+## Réponse
+
+*Éducation, JO du 1986-08-14, page 1170*
+
+Réponse. -Au cours de six dernières années, les dotations pour les départements du Nord et du Pas-de-Calais ont été les suivantes : - Nord : 1980, 30 ; 1981, 170 ; 1982, 200 ; 1983, 49 ; 1984, 15 ; 1985, néant ; - Pas-de-Calais : 1980, 29 ; 1981, 55 ; 1982, 36 ; 1983, 15 ; 1984, néant ; 1985, néant. Depuis 1983, les taux d'encadrement dans l'enseignement préélémentaire n'ont cessé de s'améliorer, ils sont passés de 30,2 à 29,9 en 1985 pour le Nord et de 29,7 à 29,4 dans le Pas-de-Calais, avec un taux de préscolarisation à trois ans (public-privé) tout à fait satisfaisant : 93,21 pour le Nord, 95,66 pour le Pas-de-Calais. Il en est de même pour les taux d'encadrement dans l'élémentaire de 24,2 dans le Nord en 1983 ; ils sont passés à 23,7 en 1985 et, pour le Pas-de-Calais, de 23,1 à 22,5. Dans le même temps, on constate une baisse globale de l'effectif de 7 607 élèves dans le Nord et 2 888 élèves dans le Pas-de-Calais. La rentrée de 1986 a été préparée à moyens constants. Ces deux départements ont vu leur dotation diminuée mais les retraits ont été fortement pondérés (dans le Nord : moins 30, dans le Pas-de-Calais : moins 10). La situation du Nord et du Pas-de-Calais est suffisamment favorable pour que ces départements aient pu sur leurs moyens dégager des postes pour lutter contre l'échec scolaire : douze ouvertures de postes de groupes d'aide psycho-pédagogique et deux ouvertures de postes en zone d'éducation prioritaire sont prévues dans le Nord et vingt-trois ouvertures de postes de G.A.P.P. dans le Pas-de-Calais ; en outre, de nombreuses ouvertures de classes maternelles doivent être réalisées ; à ce stade de préparation de la rentrée, leur nombre n'est pas arrêté.
