@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000323436
+
+- Question : [SEQ000323436](seq000323436.md) — Conservation du caractère facultatif à toute mesure de semi-liberté probatoire
+
+## Réponse
+
+*Justice, JO du 2000-11-23, page 4018*
+
+Réponse. - Le garde des sceaux, ministre de la justice, a l'honneur de faire connaître à l'honorable parlementaire que, dans la loi nº 2000-516 du 15 juin 2000 renforçant la protection de la présomption d'innocence et les droits des victimes, le législateur a consacré l'essentiel des propositions faites par la commission sur la libération conditionnelle présidée par M. Farge, dans son rapport remis en février 2000 au garde des sceaux. En effet, la loi contient des dispositions prévoyant l'élargissement des critères d'octroi de la libération conditionnelle, la juridictionnalisation des décisions du juge de l'application des peines en la matière ainsi que le transfert des décisions relevant auparavant du garde des sceaux à la juridiction régionale de la libération conditionnelle créée à cet effet. Le point précis relevé par l'honorable parlementaire, à savoir le caractère facultatif de la mesure de semi-liberté probatoire qui accompagne l'octroi de la libération conditionnelle, n'a pas été remis en cause par la loi. Ainsi que l'indique le rapport de la commission Farge, créer une obligation en la matière ne paraît pas adapté à la diversité des situations individuelles des condamnés et risquerait de réduire davantage le taux d'octroi de mesures de libération conditionnelle, pour des raisons qui ne tiendraient pas aux garanties présentées par les intéressés mais qui proviendraient des difficultés d'organisation matérielle des mesures de semi-liberté. Enfin, il est apparu que ce régime d'exécution de la peine était particulièrement éprouvant, notamment lors du retour en détention, de sorte que l'épreuve qu'elle constitue peut dans certains cas, être inadaptée pour apprécier la validité d'une demande de libération conditionnelle.
