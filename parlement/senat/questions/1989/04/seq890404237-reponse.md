@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890404237
+
+- Question : [SEQ890404237](seq890404237.md) — Liberté des prix et de la concurrence
+
+## Réponse
+
+*Économie, JO du 1989-06-15, page 918*
+
+Réponse. - L'article 31 de l'ordonnance n° 86-1243 du 1er décembre 1986 relative à la liberté des prix et de la concurrence a notamment pour objet de favoriser la transparence des relations entre les opérateurs économiques en tenant compte de l'exacte réalité des pratiques commerciales existantes. A cet effet, il impose que figure sur la facture l'ensemble des rabais, remises ou ristournes dont le principe est acquis et le montant chiffrable au moment de la vente. La prise en compte de ces rabais, remises ou ristournes, dont les conditions d'obtention doivent figurer dans les conditions générales de vente ou les barèmes de prix émanant des fournisseurs, n'apparaît pas d'une complexité susceptible d'en empêcher la mention sur les factures. L'application de ces mesures contribue, en outre, à une détection efficace du délit de revente à perte défini par la loi de finances n° 63-628 du 2 juillet 1963 modifiée par l'ordonnance précitée. En effet, même si, au regard du texte relatif à la revente à perte, le prix porté sur la facture n'est que présumé être le prix d'achat effectif, il est évident que l'indication sur la même facture des éléments autorisant le calcul du véritable prix net permet au distributeur de calculer correctement son prix de revente et favorise le contrôle de la licéité de ce prix. Le dispositif relatif aux règles de la facturation et à la revente à perte a fait l'objet, lors de sa mise en oeuvre, d'une très large information de la part des services administratifs compétents, suivie de contrôle tant auprès des fournisseurs que des acheteurs. Cette action, qui a déjà apporté des améliorations très sensibles au niveau du respect des règles de facturation, sera poursuivie en vue de parvenir à une situation pleinement satisfaisante.
