@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021003345
+
+- Question : [SEQ021003345](seq021003345.md) — Détection de la vache folle
+
+## Réponse
+
+*Agriculture, JO du 2003-02-13, page 556*
+
+En février 2002 à la suite d'un avis favorable de l'Agence française de sécurité sanitaire des aliments (AFSSA), la mesure d'abattage total des cheptels dans lesquels un cas d'encéphalopathie spongiforme bovine (ESB) a été détecté a été modifiée une première fois puisque les bovins appartenant à ces cheptels et nés après le 1er janvier 2002 ont pu être exclus des mesures d'abattage. Le 30 août 2002, le Gouvernement a de nouveau souhaité recueillir l'avis de l'AFSSA sur la possibilité de mettre en oeuvre une politique d'abattage des troupeaux bovins frappés d'ESB encore plus ciblée et fondée sur l'élimination des seuls bovins appartenant à la cohorte de l'animal atteint, c'est-à-dire des animaux du troupeau les plus susceptibles d'avoir été en contact avec le même aliment contaminé que celui que le bovin malade a consommé. Le 11 octobre 2002, l'AFSSA a rendu public son avis dans lequel elle émet un avis favorable sur le principe du passage à un abattage sélectif des cohortes. Elle conclut en effet que " les données ne permettent pas de démontrer un sur-risque d'introduction dans la chaîne alimentaire de bovins dont le système nerveux central serait infectieux dans les cohortes autres que celle du cas par rapport à la population bovine générale ". Au vu des conclusions de l'avis de l'AFSSA du 11 octobre dernier qui démontrent qu'un abattage plus sélectif ne fait pas peser un risque accru pour le consommateur et après avoir recueilli l'avis des consommateurs et des professionnels des filières concernées, le Gouvernement vient de mettre en oeuvre les nouvelles dispositions permettant le passage à un abattage des seules cohortes des animaux atteints d'ESB.
