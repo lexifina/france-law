@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030306197
+
+- Question : [SEQ030306197](seq030306197.md) — Liberté des collectivités locales dans le choix du 1 % réalisation artistique
+
+## Réponse
+
+*Culture, JO du 2003-05-29, page 1747*
+
+Pour une relance de la politique du " 1 % artistique ", le décret du 29 avril 2002, pris sur renvoi de l'article 31 du code des marchés publics, a harmonisé des procédures antérieures issues de dix-sept décrets et arrêtés. Définissant le champ de l'obligation du " 1 % artistique " et précisant les conditions de passation des marchés correspondants, ce décret s'applique aux constructions de l'Etat et de ses établissements publics administratifs, mais également, dans le cadre défini à l'article 1616-1 du code général des collectivités territoriales, aux constructions des communes, départements et régions pour lesquelles, avant le 23 juillet 1983, l'obligation du " 1 % artistique " incombait à l'Etat. L'honorable parlementaire estime insuffisante la représentation des élus dans les instances consultatives amenées à émettre un avis sur les projets du " 1 % artistique " des collectivités territoriales et souhaite que lui soient précisées, sur ce point, d'éventuelles évolutions. Le ministre de la culture et de la communication tient à rappeler son attachement au principe de la libre administration des collectivités territoriales. Dans les diverses instances consultatives prévues par ce texte (comité artistique, commission régionale et commission nationale) ayant à connaître des projets de " 1 % artistique " des collectivités territoriales, la présence de représentants de l'Etat ne fait qu'obéir à une logique d'expertise technique et culturelle. Cependant, l'extension de la représentation des élus peut être envisagée. Elle est actuellement mise à l'étude dans ses modalités.
