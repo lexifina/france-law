@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951213234
+
+- Question : [SEQ951213234](seq951213234.md) — Surloyers dans les HLM
+
+## Réponse
+
+*Logement, JO du 1996-03-14, page 598*
+
+Réponse. - La réforme du supplément de loyer de solidarité répond à un objectif de justice sociale. A ce titre, il est normal qu'un locataire qui a bénéficié de la solidarité nationale en se voyant attribuer un logement social fasse à son tour acte de solidarité en versant un supplément de loyer lorsque ses ressources ont significativement dépassé les plafonds. Le Parlement vient d'adopter le projet de loi qui impose l'obligation d'instaurer le supplément de loyer dès lors que le plafond de ressources est dépassé d'au moins 40 p. 100 et en ouvre la possibilité lorsque le dépassement se situe entre 10 et 40 p. 100. Les organismes d'HLM arrêteront leurs propres barèmes, en ayant à respecter en moyenne un niveau qui sera fixé par décret. Cette réforme donne ainsi de grandes marges de manoeuvre aux organismes d'HLM pour prendre en compte la diversité des situations locales. Fidèle à sa longue tradition, le mouvement HLM saura appliquer le supplément de loyer avec le discernement qui s'impose. Afin d'encourager la mixité sociale, le supplément de loyer ne s'appliquera pas dans les logements HLM, situés dans les zones urbaines sensibles et les zones de revitalisation rurales. Ce texte entrera en vigueur à une date qui sera fixée par décret en Conseil d'Etat et au plus tard dans un délai de quatre mois à compter de la publication de la loi. Il est en outre précisé que les organismes peuvent déjà prélever le supplément de loyer sur le fondement des dispositions actuellement en vigueur du code de la construction et de l'habitation. Selon les statistiques disponibles, la moitié environ des organismes d'HLM ont institué le supplément de loyer sur tout ou partie de leurs parcs de logements.
