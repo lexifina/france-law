@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901112757
+
+- Question : [SEQ901112757](seq901112757.md) — Encombrement du rôle des tribunaux administratifs
+
+## Réponse
+
+*Justice, JO du 1992-01-16, page 139*
+
+Réponse. - Le début de la décennie 1980 a été pour les juridictions administratives une période difficile : stock des affaires en instance en constante augmentation, effectif de magistrats et des agents des greffes stagnant, moyens financiers relativement réduits. La mise en place en 1989 des cours administratives d'appel, en entraînant le transfert d'une partie importante des dossiers contentieux du Conseil d'Etat, a marqué le début d'une évolution plus favorable de la justice administrative. Le nombre des affaires réglées par les cours administratives en 1990 a été supérieur à celui des affaires enregistrées et cette tendance semble s'accentuer cette année. Le stock est ainsi en constante diminution et le délai moyen de jugement régresse rapidement. Il devrait se situer aux alentours d'une année à la fin de 1991. La situation des tribunaux administratifs est plus difficile par l'importance du stock accumulé depuis 10 ans, mais des indices très encourageants apparaissent. La croissance du stock s'est en effet ralentie très sensiblement depuis 3 ans et se stabilise en 1991. La moyenne nationale des délais de jugement devrait également se réduire de quelques mois à la fin de l'année. Dans ces conditions, il convient de considérer que la réforme engagée par la loi du 30 décembre 1987 a déjà eu un impact nettement positif sur la situation d'ensemble des juridictions administratives. Ceci n'a été possible que grâce à un accroissement substantiel des effectifs des tribunaux administratifs, de l'ordre de 20 p. 100 sur 3 ans, et à un effort important de la part des membres de ces juridictions. A terme, les tribunaux administratifs verront se confirmer les évolutions constatées depuis 3 ans.
