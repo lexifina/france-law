@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021002925
+
+- Question : [SEQ021002925](seq021002925.md) — Transposition des directives européennes en matière d'assurances
+
+## Réponse
+
+*Affaires européennes, JO du 2003-05-29, page 1742*
+
+La France fait l'objet d'une procédure en manquement devant la Cour de justice des Communautés européennes pour inexécution de l'arrêt C-239/98 du 16 décembre 1999. Cet arrêt constatait le manquement français à raison de la transposition incomplète des directives sur les assurances vie (92/96/CE) et non vie (92/49/CEE), notamment en ce qui concerne les mutuelles régies par le code de la mutualité. Cette transposition aurait dû s'achever avant le 1er juillet 1994. La France estime que les textes nécessaires à la transposition de ces deux directives sont désormais publiés et entrés en vigueur. Il s'agit de trois décrets accompagnés de leurs arrêtés d'application : le décret n° 2002-1345 du 6 novembre 2002 relatif aux opérations se référant à des unités et l'arrêté du 25 décembre 2002 relatif aux opérations se référant à des unités de compte, le décret n° 2002-1457 du 16 décembre 2002 relatif aux attributions de la commission de contrôle mentionnée à l'article L. 510-1 du code de la mutualité et l'arrêté du 27 décembre 2002 relatif aux attributions de la commission de contrôle mentionnée à l'article L. 510-1 du code de la mutualité et le décret n° 2002-1458 du 16 décembre 2002 relatif à la participation aux excédents des mutuelles et unions de mutuelles. Le Gouvernement estime avoir pleinement exécuté l'arrêt C-239/98 de la Cour de justice, le respect des objectifs poursuivis par les directives 92/49 et 92/96 étant assuré par l'adoption de ces décrets et arrêtés. L'adoption de ces textes s'inscrit pleinement dans le plan d'accélération de la transposition des directives adopté par le Gouvernement en novembre 2002.
