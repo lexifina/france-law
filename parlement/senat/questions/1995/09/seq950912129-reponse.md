@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950912129
+
+- Question : [SEQ950912129](seq950912129.md) — Taxe sur les salaires de la chambre de métiers de l'Allier
+
+## Réponse
+
+*Budget, JO du 1995-12-21, page 2390*
+
+Réponse. - L'imposition des chambres de métiers à la taxe sur les salaires à raison de leurs services à caractère administratif et de leurs activités de formation est la contrepartie de l'exonération de taxe sur la valeur ajoutée dont elles bénéficient à ce double titre. Ce principe d'imposition à la taxe sur les salaires à raison d'activités exonérées de taxe sur la valeur ajoutée s'applique de manière identique à tous les employeurs et notamment aux établissements publics, qui ne sont pas assujettis à la taxe sur la valeur ajoutée sur 90 p. 100 au moins de leurs recettes. Une exonération de taxe sur les salaires ne pourrait donc être légitimement limitée aux seules chambres de métiers. Le coût d'une telle mesure serait en outre incompatible avec les contraintes budgétaires actuelles. Cela étant, lorsqu'ils sont constitués en commun par plusieurs chambres consulaires et, le cas échéant, d'autres organismes visés à l'article L. 116-2 du code du travail, sous forme d'associations régies par la loi de 1901, les centres de formation d'apprentis sont susceptibles de bénéficier, en application de l'article 1679 A du code général des impôts, d'un abattement sur le montant de la taxe sur les salaires dont ils sont redevables. Le montant de cet abbatement a été porté par la loi de finances pour 1995, de 15 000 francs en 1994 à 20 000 francs pour la taxe due à raison des rémunérations versées à compter du 1er janvier 1995. Cet allégement supplémentaire de la taxe sur les salaires, dont profiteront notamment les centres de formation d'apprentis constitués sous forme d'associations régies par la loi de 1901, représente un effort financier important, de l'ordre de 200 millions de francs en 1995, qui répond pour une grande part aux préoccupations exprimées.
