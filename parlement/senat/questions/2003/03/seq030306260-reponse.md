@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030306260
+
+- Question : [SEQ030306260](seq030306260.md) — Droits d'entrée des expositions d'art
+
+## Réponse
+
+*Culture, JO du 2003-07-03, page 2148*
+
+En matière de tarifs des musées (collections permanentes et expositions temporaires), les comparaisons internationales situent les musées nationaux français dans la moitié inférieure de l'éventail des prix constatés. Par ailleurs, on voit se dessiner, en France comme à l'échelle internationale, une tendance à privilégier l'accès à bas prix aux collections permanentes des musées publics. Le produit du droit d'entrée des expositions temporaires (ainsi que celui de la vente de produits " dérivés ") tend ainsi à prendre une importance croissante dans les ressources propres contribuant à financer l'activité multiforme des musées. Il faut souligner aussi que le coût d'organisation d'une exposition est élevé (assurances, transport...) et que les recettes ne couvrent jamais ou rarement le coût total de l'exposition. De plus, il convient de signaler les mesures décidées par les pouvoirs publics dans le cadre de la politique de démocratisation culturelle, portant exonération totale ou partielle du droit d'entrée dans les expositions temporaires présentées par les musées nationaux. Ainsi les catégories suivantes de visiteurs bénéficient au titre des expositions temporaires : de la gratuité pour les individuels, tous les mineurs de moins de treize ans, les grands handicapés civils et les grands mutilés de guerre ; de la gratuité pour les groupes de vingt à trente personnes, les visiteurs de moins de dix-huit ans, les bénéficiaires de l'aide sociale ; du tarif réduit : les jeunes âgés de treize à vingt-cinq ans inclus, les titulaires d'une carte de réduction pour famille nombreuse, les demandeurs d'emploi, les titulaires du RMI, de l'aide sociale ou du minimum vieillesse.
