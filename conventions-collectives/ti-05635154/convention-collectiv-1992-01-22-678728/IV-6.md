@@ -10,6 +10,6 @@ b) Travail du dimanche.
 
 Les agents assurant un service le dimanche dans le cadre de la durée normale du travail, comprenant 5 heures de travail effectif entre le samedi 20 heures et le dimanche 20 heures, percevront une indemnité de sujétion égale à 3 points conventionnels par dimanche.
 
-Cette indemnité de sujétion n'est pas cumulable avec les indemnités de jours fériés travaillés.
+Cette indemnité de sujétion forfaitaire n'est pas cumulable avec les indemnités de jours fériés travaillés.
 
 En outre, les indemnités, telles qu'elles sont définies ci-dessus, ne se cumuleront pas à la date d'application de la présente convention avec celles de même nature fixées soit par accord d'entreprise, soit par contrat de travail.

@@ -58,6 +58,6 @@ Des autorisations d'absence non rémunérées seront accordées par les établis
 
 Les autorisations d'absence, afin de ne pas perturber l'organisation du travail au sein de chaque établissement, devront être formulées sous réserve du respect d'un délai de prévenance de 10 jours calendaires et accompagnées de la convocation précisant les lieu, date et durée de la réunion compte tenu des temps de transport.
 
-Ces autorisations d'absence limitées, sauf circonstances exceptionnelles d'un commun accord par les partenaires sociaux, à trois séances par an, ne pourront excéder chacune (temps de transport et de négociation confondus) une journée pour les salariés dont l'établissement est situé entre 0 et 299 kilomètres du siège de la commission paritaire nationale, une journée et demie de 300 kilomètres à 499 kilomètres, 2 journées à partir de 500 kilomètres.
+Ces autorisations d'absence limitées, sauf circonstances exceptionnelles, d'un commun accord par les partenaires sociaux à trois séances par an, ne pourront excéder chacune (temps de transport et de négociation confondus) une journée pour les salariés dont l'établissement est situé entre 0 et 299 kilomètres du siège de la commission paritaire nationale, une journée et demie de 300 kilomètres à 499 kilomètres, 2 journées à partir de 500 kilomètres.
 
 L'indemnisation des représentants des centrales syndicales aux négociations paritaires est réglée sur le fondement des dispositions du protocole d'accord conclu entre l'U.H.P. et les partenaires sociaux, le 23 novembre 1989 et annexé aux présentes.

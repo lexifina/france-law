@@ -16,6 +16,12 @@ L'accord des parties sur les conditions de l'embauchage devra être constaté pa
 
 - la fonction ;
 
+- la position ;
+
+- le niveau ;
+
+- l'échelon ;
+
 - le coefficient hiérarchique ;
 
 - la durée de la période d'essai ;

@@ -1,6 +1,6 @@
 # Article III-C-3
 
-III-C-3-a) Incapacité temporaire totale de travail, maladie de longue durée.
+a) Incapacité temporaire totale de travail, maladie de longue durée.
 
 En cas d'absence au travail justifiée par l'incapacité résultant de maladie ou d'accident dûment constaté par certificat médical et contre-visite s'il y a lieu, les salariés pendant toute la durée de l'absence bénéficieront des dispositions ci-après sous conditions :
 
@@ -26,9 +26,9 @@ L'assiette des indemnités journalières versées au titre du présent article e
 
 Cependant, les garanties susvisées ne doivent pas conduire le bénéficiaire, compte tenu des sommes de toutes provenances, à percevoir pour la période indemnisée à l'occasion d'une maladie ou d'un accident, une somme supérieure à la rémunération nette qu'il aurait effectivement perçue s'il avait continué à travailler. Il sera tenu compte du fait que les indemnités journalières sécurité sociale ne supportent pas de cotisations sociales.
 
-III-C-3-b) Invalidité permanente.
+b) Invalidité permanente.
 
-Tout salarié âgé de moins de soixante ans, en état d'invalidité permanente totale ou partielle recevra une rente d'invalidité qui ne se cumulera pas avec l'indemnité journalière d'incapacité temporaire totale de travail ou de longue maladie, exprimée en pourcentage du salaire brut annuel tel que déterminé à l'article III-C-3-a et dans les cas suivants :
+Tout salarié âgé de moins de soixante ans, en état d'invalidité permanente totale ou partielle reconnue par la sécurité sociale recevra une rente d'invalidité qui ne se cumulera pas avec l'indemnité journalière d'incapacité temporaire totale de travail ou de longue maladie, exprimée en pourcentage du salaire brut annuel tel que déterminé à l'article III-C-3-a et dans les cas suivants :
 
 - invalidité 2e et 3e catégorie résultant de maladie ou d'accident au titre de la législation générale : 80 p. 100 (y compris les prestations de sécurité sociale) ;
 
@@ -40,7 +40,7 @@ Tout salarié âgé de moins de soixante ans, en état d'invalidité permanente 
 
 - invalidité au titre de la législation sur les accidents du travail et les maladies professionnelles entraînant la perception d'une rente de la sécurité sociale comprise entre 20 p. 100 et 50 p. 100 : 80 p. 100 multiplié par x/50e, x représentant le taux de la rente perçue de la sécurité sociale (y compris les prestations de sécurité sociale).
 
-III-C-3-c) Couverture supplémentaire en cas de décès du salarié ou d'invalidité absolue et définitive.
+c) Couverture supplémentaire en cas de décès du salarié ou d'invalidité absolue et définitive.
 
 Un capital sera versé en cas de décès du salarié ou d'invalidité absolue et définitive, exprimé en pourcentage du salaire brut des douze derniers mois ayant précédé le décès et déterminé comme suit :
 
@@ -62,7 +62,7 @@ Une rente d'éducation sera versée en cas de décés du salarié, exprimée en 
 
 et ce pour autant que l'enfant poursuive des études et soit affilié au régime de la sécurité sociale des étudiants ou de l'assurance volontaire.
 
-III-C-3-d) Régime de prévoyance. - Cotisations.
+d) Régime de prévoyance. - Cotisations.
 
 a) Les établissements soumis à la présente convention adhèreront obligatoirement pour leur personnel non cadre à une institution de prévoyance ou à un organisme d'assurance de leur choix couvrant l'ensemble des garanties incapacité-invalidité-décès prévues ci-dessus.
 
