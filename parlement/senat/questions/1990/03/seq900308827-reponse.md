@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900308827
+
+- Question : [SEQ900308827](seq900308827.md) — Transmission d'entreprises
+
+## Réponse
+
+*Économie, JO du 1990-05-31, page 1188*
+
+Réponse. - Les articles 44 sexies et 44 septies du code général des impôts instituent un régime d'allègement d'impôt sur les bénéfices en faveur des entreprises créées pour exercer une activité industrielle, commerciale ou artisanale nouvelle ou pour reprendre une entreprise industrielle en difficulté. Lorsque les conditions prévues par ces articles sont réunies, une exonération de taxe professionnelle et de taxe foncière sur les propriétés bâties peut être également accordée à l'initiative des collectivités locales. Ces dispositions permettent aux entreprises nouvelles d'améliorer leurs fonds propres et contribuent à assurer leur pérennité. L'extension de ces avantages à des entreprises qui reprennent des activités préexistantes ne pourrrait s'appuyer sur les mêmes justifications et porterait atteinte à l'égalité de la concurrence. Il n'est donc pas envisagé d'aménager l'article 44 sexies du code général des impôts ni d'assouplir ses modalités d'application dans le sens souhaité par l'honorable parlementaire. Cela étant, les dispositions de l'article 27 de la loi de finances pour 1990 ont pour objet de faciliter la transmission des entreprises et réduisent les taux du droit d'enregistrement et des taxes additionnelles perçus lors des mutations à titre onéreux de fonds de commerce ou de clientèles et opérations assimilées. Ainsi, le droit d'enregistrement de 11,80 p. 100 et les taxes additionnelles de 2,40 p. 100 ne sont pas applicables sur la fraction de la valeur taxable n'excédant pas 100 000 francs et sont réduits respectivement à 6 p. 100 et 1 p. 100 pour la fraction du prix comprise entre 100 000 francs et 300 000 francs.
