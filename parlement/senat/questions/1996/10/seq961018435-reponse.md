@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961018435
+
+- Question : [SEQ961018435](seq961018435.md) — Protection des espèces maritimes en Méditerranée
+
+## Réponse
+
+*Affaires étrangères, JO du 1997-02-06, page 357*
+
+Réponse. - L'honorable parlementaire peut être assuré de l'intérêt tout particulier que la France accorde à la protection de l'environnement en Méditerranée. Les dispositions suivantes ont à ce propos été prises : 1o Le protocole sur les aires spécialement protégées d'intérêt méditerranéen a été adopté et signé par la France à Barcelone le 10 juin 1995. Il vise à la création d'aires spécialement protégées en Méditerranée et à la protection d'espèces menacées inscrites aux annexes à ce protocole adoptées à Monaco le 24 novembre 1996. La France, pour sa part, est prête à engager les procédures appropriées pour devenir partie au protocole et à ses annexes. 2o Une déclaration, signée en mars 1993 par les gouvernements italien et monégasque, auxquels s'était joint un membre du gouvernement français, a manifesté l'engagement de se pencher sur la question de la création d'un sanctuaire pour les mammifères marins en Méditerranée occidentale et de mener à bien la négociation intergouvernementale d'un accord dont les termes s'imposeraient aux gouvernements et aux ressortissants des Etats parties à l'accord. Dans cette perspective, le gouvernement français a présenté le 28 juin 1995 des propositions à ses partenaires monégasque et italien visant notamment à étendre la portée géographique de l'accord sans la zone italienne et les négociations devraient reprendre prochainement. 3o Le protocole n'étant pas encore en vigueur et la négociation sur la question du " sanctuaire " n'étant pas encore achevée, il paraît prématuré d'établir un lien entre ces deux volets, s'agissant notamment du bassin corso-liguro-provençal.
