@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000323904
+
+- Question : [SEQ000323904](seq000323904.md) — Surveillance des élèves par des titulaires du brevet national de sécurité et de sauvetage aquatique (BNSSA)
+
+## Réponse
+
+*Éducation, JO du 2000-07-06, page 2391*
+
+Réponse. - Conformément à la loi nº 51-662 du 24 mai 1951 portant sur la sécurité dans les établissements de natation et au décret nº 77-1177 du 20 octobre 1977 modifié par le décret nº 91-365 du 15 avril 1991 relatif à la surveillance et à l'enseignement de la natation, les établissements de bains doivent disposer d'un personnel spécialement affecté à la surveillance en dehors de tout acte d'enseignement. Cette surveillance doit être assurée de façon constante par un personnel portant le titre de maître nageur sauveteur (MNS), c'est-à-dire titulaire du diplôme d'Etat de maître nageur sauveteur ou du brevet d'Etat d'éducateur sportif du premier degré des activité de natation (BEESAN). Ce personnel peut être assisté, dans certains cas, de personnes titultaires du brevet national de sécurité et de sauvetage aquatique (BNSSA). Un titulaire du brevet national de sécurité et de sauvetage aquatique (BNSSA) ne peut donc se substituer intégralement à un maître nageur sauveteur pour garantir la surveillance des activités de natation. Dans ces conditions et compte tenu des risques inhérents au milieu aquatique et de l'âge des élèves des écoles primaires, il ne paraît donc pas opportun de modifier sur ce point la circulaire du 27 avril 1987 portant sur l'enseignement de la natation à l'école primaire. Il n'est pas, en effet, envisageable de confier, lors des séances de natation dispensées dans le cadre de l'éducation physique et sportive à l'école maternelle et élémentaire, la responsabilité de la surveillance générale des bassins aux titulaires du brevet national de sécurité et de sauvetage aquatique (BNSSA).
