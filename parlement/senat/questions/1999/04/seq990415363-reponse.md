@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990415363
+
+- Question : [SEQ990415363](seq990415363.md) — Dépannage-remorquage
+
+## Réponse
+
+*Équipement, JO du 2000-05-25, page 1867*
+
+Réponse. - Afin d'améliorer la qualité du service rendu aux usagers en matière de dépannage et dans le souci de mieux définir l'activité de dépannage-remorquage, le ministère de l'équipement, des transports et du logement a participé depuis plusieurs années aux travaux de définition des normes AFNOR relatives à cette profession. Réalisées en concertation, notamment avec les professionnels, les associations de consommateurs, les pouvoirs publics et les sociétés d'assistance, deux normes concernant l'activité de dépannage-remorquage des véhicules légers ont ainsi été créées : la norme NF X 50-840 de décembre 1995 relative aux spécifications de services et la norme NF X 50-841 de janvier 1997 relative aux spécifications du matériel et des moyens. Ces documents permettent de préciser le niveau minimal de services à fournir à l'usager et les moyens dont l'entreprise doit disposer pour atteindre ce niveau de service. Sur les autoroutes, les interventions de dépannage sont déjà réalisées par des professionnels agréés par le préfet et qui répondent à un certain nombre de conditions prévues dans un cahier des charges spécifique. De plus, les tarifs des interventions de dépannage sont fixés annuellement par arrêté du ministre de l'économie. Pour les autres réseaux, un système d'organisation du dépannage très voisin de ce qui se fait sur les autoroutes sera proposé aux préfets dans les prochains mois. Les départements intéressés seront invités à sélectionner en priorité des dépanneurs respectant les normes AFNOR. L'usager en difficulté dans ces départements, qui sollicitera une aide par l'intermédiaire des services de l'Etat, aura ainsi la garantie d'une intervention réalisée par un professionnel de qualité répondant à un certain nombre de conditions.
