@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870506310
+
+- Question : [SEQ870506310](seq870506310.md) — Décision de la Commission nationale de la communication et des libertés concernant trois assemblées consulaires
+
+## Réponse
+
+*Culture, JO du 1988-01-21, page 89*
+
+Réponse. -L'article 55 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication prévoit, dans son second alinéa, qu'un temps d'émission est accordé aux formations politiques représentées par un groupe dans l'une ou l'autre des assemblées du Parlement, ainsi qu'aux organisations syndicales et professionnelles représentatives à l'échelle nationale, selon des modalités définies par la Commission nationale de la communication et des libertés. Dans sa décision n° 87-9 du 23 janvier 1987, cette autorité administrative indépendante a établi notamment la liste des organisations syndicales et professionnelles autorisées à participer à ces émissions d'expression directe. Compte tenu du nombre élevé d'organisations de cette nature et du volume horaire restreint réservé à ce type d'émission, la Commission nationale de la communication et des libertés n'a pu retenir que les organisations représentées à la Commission nationale de la négociation collective, en y ajoutant la " Fédération de l'éducation nationale " qui occupe une place importante dans le secteur public. Il convient toutefois de souligner que les cahiers des missions et des charges des sociétés nationales de programme Antenne 2 et France Régions 3 prévoient qu'un temps d'antenne est mis à la disposition d'entreprises industrielles ou commerciales, d'administrations, de collectivités territoriales et d'associations, sous la forme d'achat d'espaces libres entre la fin et le début des programmes. Les assemblées consulaires des chambres d'agriculture, des métiers ou de commerce et d'industrie peuvent prendre contact avec les sociétés publiques de télévision pour disposer de ce temps d'antenne.
