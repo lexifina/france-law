@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021204388
+
+- Question : [SEQ021204388](seq021204388.md) — Déménagement du tribunal de grande instance de Paris
+
+## Réponse
+
+*Programmes immobiliers de la justice, JO du 2003-10-02, page 2988*
+
+Le secrétaire d'Etat aux programmes immobiliers de la justice fait connaître à l'honorable parlementaire que le relogement du tribunal de grande instance de Paris constitue une priorité de son secrétariat d'Etat et du ministère de la justice. Il est vrai que ce projet ancien n'a pas connu de développement significatif jusqu'à ce que M. le Président de la République exprime sa volonté, lors de l'audience solennelle de rentrée de la Cour de cassation, le 10 janvier 2003, de " donner au TGI de Paris des locaux dignes de la très grande juridiction qu'il est ". Il a également préconisé la création d'un établissement public spécialement chargé de suivre ce programme particulièrement complexe et d'un enjeu capital pour la justice de notre pays. L'actualisation du schéma directeur du palais de justice de Paris a mis en évidence la nécessité de réaliser un ou plusieurs équipements représentant une surface totale de 120 000 mètres carrés qui tient compte des évolutions de l'institution judiciaire à Paris à l'horizon 2020. Le coût, pour les finances publiques, des études réalisées à ce jour est de 950 000 euros. Les services du ministère de la justice ont élaboré le projet de décret institutif du futur établissement public du palais de justice de Paris qui doit être soumis à l'examen du Conseil d'Etat avant la fin de l'année 2003. Il appartiendra à cet organe nouveau, en concertation avec tous les usagers du futur équipement, de déterminer le site d'implantation et le calendrier des opérations. A ce stade, il est illusoire d'établir un calendrier prévisionnel permettant de fixer la date du déménagement des services de l'actuel tribunal de grande instance.
