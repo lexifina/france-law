@@ -2,13 +2,13 @@
 
 III. 1.1. Désignation
 
-Des délégués du personnel sont élus pour deux ans, conformément aux dispositions légales fixant le statut des délégués du personnel dans les entreprises, et des textes subséquents.
+Des délégués du personnel sont élus pour 2 ans, conformément aux dispositions légales fixant le statut des délégués du personnel dans les entreprises, et des textes subséquents.
 
 Les conditions de leur élection et de leur protection et la durée de leur mandat seront conformes à la législation en vigueur. Les textes législatifs ou réglementaires qui pourraient être promulgués postérieurement à la signature de la convention s'appliqueront de plein droit dans les établissements visés par cette convention et à la date prévue par les nouveaux textes.
 
 La mission des délégués du personnel est définie par l'article L. 422-1 du code du travail et l'article III. 1.4 de la présente convention.
 
-L'élection des délégués du personnel se déroulera à une date fixée en accord avec les organisations syndicales représentées dans l'entreprise entre le 1er janvier et le 31 mars et quinze jours au moins avant l'expiration du mandat des délégués en exercice.
+L'élection des délégués du personnel se déroulera à une date fixée en accord avec les organisations syndicales représentées dans l'entreprise, autant que possible entre le 1er janvier et le 31 mars et 15 jours au moins avant l'expiration du mandat des délégués en exercice.
 
 Un protocole d'accord sera signé afin de déterminer les modalités particulières de déroulement du scrutin.
 
@@ -141,5 +141,3 @@ Toutefois, ce délai est porté à :
 -1 semaine franche, lorsque cet avis concerne des mesures modifiant les conditions d'emploi et de travail ou le compte rendu trimestriel d'activité ;
 
 -2 semaines franches, lorsque cet avis concerne les créations et suppressions de postes, le rapport annuel, les licenciements individuels pour motif économique, les licenciements collectifs quel qu'en soit le motif, une restructuration de l'entreprise.
-
-NOTA : Arrêté du 12 juin 1998 art. 1 : Le deuxième alinéa de l'article III-1-3 de l'article III-1 du titre III de l'article 2 est étendu sous réserve de l'application de l'article L. 424-4 du code du travail. Le cinquième alinéa de l'article III-1-3 de l'article III-1 du titre III de l'article 2 est étendu sous réserve de l'application de l'article L. 424-1 du code du travail.
