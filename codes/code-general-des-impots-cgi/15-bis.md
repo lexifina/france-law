@@ -13,5 +13,3 @@ NOTA :
 (2) Voir l'article 41 DC de l'annexe III.
 
 (3) Voir les articles 41 DD à 41 DG de l'annexe III.
-
-( Les dispositions de cet article sont abrogées à compter du 1er janvier 2002. Elles continuent toutefois à s'appliquer jusqu'au terme de la période d'exonération de trois ans en cours à cette date).
