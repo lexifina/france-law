@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021002981
+
+- Question : [SEQ021002981](seq021002981.md) — Retraites des Français de Djibouti
+
+## Réponse
+
+*Affaires étrangères, JO du 2002-11-21, page 2778*
+
+Les Français pensionnés de l'organisme de protection sociale de Djibouti rencontrent effectivement des difficultés à percevoir les sommes qui leur sont dues, en raison de la situation financière précaire de cette institution. Notre représentation diplomatique et consulaire est intervenue à plusieurs reprises auprès des autorités locales afin d'assurer un suivi efficace des dossiers de nos ressortissants. Des résultats significatifs ont d'ores et déjà été obtenus : les retraites des ayants droit totalisant plus de quinze ans de cotisation sont versées régulièrement et les allocations forfaitaires prévues pour ceux qui totalisent moins de dix ans d'affiliation sont en passe d'être toutes réglées. En revanche, les questions du paiement des arriérés, des rentes pour accident du travail et des pensions de ceux de nos compatriotes qui, ayant cotisé entre dix et quinze années, ont procédé à des rachats d'annuités, n'ont pas encore été résolues. Les efforts entrepris auprès des autorités locales seront poursuivis. En tout état de cause, si nos compatriotes titulaires de pensions étrangères disposent de ressources inférieures aux seuils fixés pour l'attribution " du minimum vieillesse ", ils peuvent, s'ils résident en France, percevoir ce type d'aide, en totalité ou de manière différentielle, dès lors qu'ils en remplissent les conditions d'âge et de situation. Dans le même esprit et suivant des conditions similaires d'attribution, une allocation de solidarité différentielle peut leur être attribuée s'ils résident à l'étranger, dans la limite de l'enveloppe budgétaire dont dispose le ministère des Affaires étrangères pour le financement de ce type d'aide.
