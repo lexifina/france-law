@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881002063
+
+- Question : [SEQ881002063](seq881002063.md) — Missions des services des douanes
+
+## Réponse
+
+*Budget, JO du 1991-03-28, page 645*
+
+Réponse. - La mise en place du Marché unique européen en 1993 doit conduire à la création d'un espace économique et financier sans frontières intérieures. Elle impose, dès à présent, une réorganisation des services des douanes en vue de faciliter l'établissement du Grand marché intérieur. Dans le cadre de cette réorganisation, des mesures de redéploiement des effectifs sont d'ores et déjà en cours. Elles reposent conjointement sur le jeu normal des mutations des fonctionnaires, sur le renforcement de certaines missions d'ordre public dont la douane est chargée - lutte contre les grands trafics portant sur les stupéfiants, les armes, les oeuvres d'art, les espèces protégées, contrôle des flux migratoires, contrôles de conformité des marchandises importées aux normes françaises... - et sur la prise en compte de l'allègement des formatilés aux frontières intercommunautaires. Elles sont conçues dans un souci de modernisation des interventions du service, et basées sur la recherche d'une efficacité accrue de son action afin de répondre au mieux à l'attente des pouvoirs publics. Elles s'inscrivent globalement dans une politique de réorientation des missions prioritaires de la douane, telles que le développement de la lutte contre le trafic de stupéfiants et le blanchiment des capitaux, ainsi que la volonté d'une présence accrue de l'ensemble des services aux frontières maritimes et aériennes. En tout état de cause, l'abolition des frontières internes de la Communauté ne signifie pas la disparition de tous les contrôles mais conduit plutôt la direction générale des douanes à assurer une surveillance plus sélective et plus mobile.
