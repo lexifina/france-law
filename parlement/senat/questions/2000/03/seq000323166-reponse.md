@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000323166
+
+- Question : [SEQ000323166](seq000323166.md) — Insuffisance du nombre de médecins scolaires
+
+## Réponse
+
+*Éducation, JO du 2000-09-07, page 3079*
+
+Réponse. - La mission réalisée conjointement par l'inspection générale de l'administration de l'éducation nationale (IGAEN) et par l'inspection générale des affaires sociales (IGAS) à la fin de l'année 1998 sur le dispositif médico-social en faveur des élèves a remis son rapport qui a été rendu public en février 1999. Les conclusions de ce rapport avancent un ensemble de propositions en vue d'améliorer l'organisation et le fonctionnement du dispositif médico-social en faveur des élèves. Ces nouvelles dispositions doivent être connues très prochainement. Il convient également de rappeler qu'en 1998 les effectifs de personnels infirmiers et sociaux ont été renforcés par 600 emplois (300 infirmières et 300 assistantes sociales) créés en loi de finances, ce qui correspond au titre de cette seule année à autant de créations d'emplois que de 1994 à 1997. S'agissant des personnels médicaux, les crédits de vacations de la médecine scolaire ont été augmentés d'un montant correspondant à 150 équivalents temps plein. Cet effort sans précédent, reconduit en 1999 à hauteur de 400 emplois (30 médecins, 185 infirmières et 185 assistantes sociales), a permis d'améliorer globalement l'encadrement des élèves. Il est poursuivi en 2000 par la création de 150 emplois (10 médecins, 110 infirmières, 30 assistantes sociales). L'amélioration des conditions d'accueil, d'écoute et de soins des élèves, et notamment des jeunes en difficulté, implique un renforcement progressif des effectifs de médecins de l'éducation nationale, mais également une meilleure utilisation du potentiel existant et la participation accrue de la médecine de ville et des services hospitaliers.
