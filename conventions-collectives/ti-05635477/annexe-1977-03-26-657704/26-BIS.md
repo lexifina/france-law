@@ -1,5 +1,5 @@
 # Article 26 BIS
 
-Le régime de répartition est mis en application à compter du 1er janvier 1989. Il prend en charge les paiements des droits en cours et antérieurs à sa date d'application pour les salariés et les bénéficiaires de la convention collective.
+Les conventions collectives du même type composent un groupe fonctionnant en compensation, dans une section spéciale, au sein de la C.R.I. - Prévoyance.
 
-Les conventions collectives de même type, gérées en mode de répartition, composent un groupe fonctionnant en compensation. Chaque année, les modialités de la compensation sont définies lors d'une rencontre entre les conventions, convoquée par le gestionnaire.
+Toutes les prestations et indemnités acquises (indemnités journalières d'incapacité et rentes d'invalidité), prévues par les conventions collectives de même type en compensation, sont maintenues à un niveau au moins égal à celui de la dernière prestation due ou payée, avant la résiliation ou le non-renouvellement, et ceci grâce à des provisions constituées.
