@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021003180
+
+- Question : [SEQ021003180](seq021003180.md) — Durée de formation des contractuels handicapés du ministère
+
+## Réponse
+
+*Agriculture, JO du 2003-05-15, page 1605*
+
+Le recrutement des handicapés dans la fonction publique de l'Etat est régi par le décret n° 95-979 du 25 août 1995. Conformément à l'article 7 de ce décret, les agents, recrutés par contrat pour une période initiale d'un an, bénéficient d'un renouvellement de plein droit pour une durée d'un an, lorsqu'une formation en école excédant une année est prévue par le statut particulier dans lequel ils ont vocation à être titularisés, comme c'est le cas notamment du corps des techniciens des services du ministère chargé de l'agriculture. Les agents peuvent donc suivre le cycle d'enseignement de deux ans, mais aucun renouvellement de contrat supplémentaire n'est prévu. Or, les techniciens recrutés par voie de concours dans ce même corps accomplissent d'emblée un stage de deux ans, et à l'issue de la 2e année de stage une prorogation peut leur être accordée pour obtenir toutes les certifications nécessaires à la titularisation. En effet, le décret du 25 août 1995 place les handicapés dans des situations très diverses selon les statuts particuliers concernés. Le cas spécifique de prorogation de stage pour permettre d'obtenir les certifications manquantes n'a pas été prévu par ce décret. Afin de remédier à cette situation, il semble opportun d'alerter la fonction publique sur la distorsion provoquée par l'absence de possibilité de renouvellement de contrat supplémentaire lorsque le statut particulier prévoit des dispositions particulières. Le cas des techniciens sera donc signalé au ministère chargé de la fonction publique pour lui permettre l'étude d'une modification éventuelle du décret du 25 août 1995.
