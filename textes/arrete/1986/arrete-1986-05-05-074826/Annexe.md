@@ -20,7 +20,7 @@ Département de la Sarthe 1° La Sarthe, en amont du Mans ;
 
 7° La Vègre, en aval de son confluent avec le Végronneau ;
 
-8° L'Erve 9° La Mème.
+8° La Mème.
 
 Département de la Savoie Lac d'Aiguebelette.
 
@@ -58,4 +58,4 @@ Département de la Vienne 1° La Vienne, en aval du barrage de Chitre, commune d
 
 8° La Benaize ;
 
-9° La Clouère, en aval du pont Brion.
+8° La Clouère, en aval du pont Brion.
