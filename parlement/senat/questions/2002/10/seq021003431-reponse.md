@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021003431
+
+- Question : [SEQ021003431](seq021003431.md) — Portail Legifrance
+
+## Réponse
+
+*Réforme de l'Etat, JO du 2003-01-16, page 202*
+
+La diffusion des bases de données juridiques était, jusqu'au mois de septembre 2002, effectuée dans le cadre d'une concession de service public. Les possibilités offertes par Internet avaient toutefois permis le développement, à côté du site payant Jurifrance, principalement destiné aux professionnels du droit, d'un service gratuit, dénommé Légifrance. Celui-ci donnait accès aux lois et règlements. Il ne permettait pas, en revanche, de consulter les décisions juridictionnelles. Le décret n° 2002-1064 du 7 août 2002 a organisé un nouveau service public de la diffusion du droit sur Internet. Ce nouveau service est entièrement gratuit. Placé sous la responsabilité du secrétaire général du Gouvernement, il est mis en oeuvre par la Direction des Journaux officiels, avec le concours d'un prestataire. Le corpus des données mises à disposition correspond à celui de l'ancien Jurifrance. S'agissant des modalités de recherche, on s'est efforcé d'allier des dispositifs d'un maniement aisé, susceptibles d'être utilisés par un public de non-spécialistes, et des systèmes de recherche experte, comparables à ceux qui étaient présents sur Jurifrance, mais rénovés afin d'être rendus plus ergonomiques. L'hébergement du site et la diffusion des données ont fait l'objet d'un marché de prestation de service, passé après appel d'offres européen. Conclu pour une durée de trois ans, le marché représente un coût total légèrement supérieur à 1,5 million d'euros. L'exceptionnelle fréquentation du nouveau site (cinq millions d'accès, 650 000 pages vues chaque jour) paraît montrer que l'objectif de cette réforme, qui était de mettre le droit en ligne à la disposition de tous les publics, a bien été atteint.
