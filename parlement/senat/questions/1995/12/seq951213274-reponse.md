@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951213274
+
+- Question : [SEQ951213274](seq951213274.md) — Situation de l'université de La Rochelle
+
+## Réponse
+
+*Éducation, JO du 1996-03-21, page 650*
+
+Réponse. - L'université de La Rochelle est effectivement au nombre des établissements en situation difficile au regard de la dotation globale de fonctionnement et du potentiel d'emplois d'enseignement. Dans le cadre du budget 1996, des premières mesures importantes ont déjà été prévues. En effet, il a été décidé cette année : de porter la dotation globale de fonctionnement des établissements au minimum à 80 p. 100 de leur dotation théorique, soit p 9,570 MF pour l'université de La Rochelle ; de compenser intégralement le déficit lié à l'exonération des droits d'inscription des étudiants boursiers, soit 0,710 MF pour l'université de La Rochelle. Cette université recevra globalement 19,689 MF, soit une augmentation de 94,6 p. 100. L'université s'est vu attribuer 52 emplois d'enseignant et 35 emplois IATOS. De plus, un plan de rattrapage sur 4 ans sera prochainement discuté avec les établissements concernés. Il visera à amener tous les établissements à une dotation théorique chiffrée aujourd'hui sur la base des effectifs étudiants 1994. Ce chiffrage sera bien entendu révisé en fonction de l'évolution des effectifs. Parallèlement, les questions d'emplois seront à nouveau examinées dans le cadre des négociations contractuelles avec les établissements. Ces démarches s'inscrivent dans la large réflexion que le ministre vient de lancer sous forme d'états généraux de l'enseignement supérieur, auxquels sont associés tous les acteurs du milieu universitaire. Ces échanges permettront de dresser un relevé des questions posées dans l'enseignement supérieur. Des principes généraux pourront être dégagés et des réponses appropriées seront apportées.
