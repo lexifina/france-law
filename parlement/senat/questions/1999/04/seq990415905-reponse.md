@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990415905
+
+- Question : [SEQ990415905](seq990415905.md) — Bilan de la mise en place de la " cellule nationale d'observation des accidents domestiques "
+
+## Réponse
+
+*Santé, JO du 1999-07-08, page 2341*
+
+Réponse. - La " cellule nationale d'observation des accidents de la vie courante " a été mise en place en 1998. Elle a été créée pour contribuer à une réflexion globale sur les risques domestiques et les moyens de les prévenir. Son premier travail a consisté à lancer une enquête, dès la fin du premier semestre 1998, afin de recenser les différentes sources de données concernant les accidents de la vie courante. A ce jour, sur 172 réponses enregistrées, 37 concernent des enquêtes identifiées exploitables, qui pourront servir à mieux cerner des aspects particuliers tels que les accidents de montagne, les enquêtes spécifiques des SAMU, des centres antipoison, etc. L'exploitation de ces données débute et permettra en 1999 de disposer de résultats plus significatifs. Le deuxième axe de travail de cette cellule est l'identification des actions de prévention au niveau des différentes structures nationales et locales, afin de permettre des échanges d'expériences et d'apporter une aide à des structures qui voudraient mettre en place des campagnes de prévention. Des publications sont en cours, dont la mise à jour des données de mortalité par accidents de la vie courante, réalisées en collaboration avec le service SC8 de l'INSERM, et de morbidité, les derniers chiffres disponibles datant de 1997. Cette mise à jour sera publiée à la fin du premier semestre 1999. Il est trop tôt, à l'heure actuelle, pour faire un bilan des activités de la cellule, puisque son existence est récente. La diffusion de la synthèse de ces données est par ailleurs prévue sur le site Internet du ministère de l'emploi et de la solidarité au cours du deuxième semestre 1999.
