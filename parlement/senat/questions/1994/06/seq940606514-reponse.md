@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940606514
+
+- Question : [SEQ940606514](seq940606514.md) — Disparités observées dans le calcul des indemnités des coopérants, notamment à Djibouti et au Burundi
+
+## Réponse
+
+*Coopération, JO du 1994-08-04, page 1935*
+
+Réponse. - Le décret no 78-571 du 25 avril 1978 qui avait instauré l'indemnité d'expatriation et de sujétions spéciales a été abrogé le 18 décembre 1992 et remplacé par un nouveau texte. Les IESS versées actuellement à un nombre limité de coopérants résultent d'une mesure de transition qui a permis aux intéressés de continuer à en bénéficier pendant un an dans le cas où le nouveau régime s'avérait défavorable. A la demande des organisations professionnelles, l'évolution de ces indemnités a été examinée par le CTP du 6 juillet 1993 en prenant en compte les derniers indices de prix connus, c'est-à-dire ceux du 1er juin 1991 corrigés par l'évolution des taux de change. L'écart entre ces deux dates, pour ce qui concerne Djibouti, était de 4,8 p. 100 (120,6 contre 114,1 pour les indices de prix et 0,309 contre 0,0343 pour les taux de change). Cette diminution n'a pas été appliquée, l'IESS restant donc au même taux. L'évolution du coefficient géographique prévue par le nouveau régime de rémunération a été constatée au cours du CTP du 1er décembre 1993 et a pris en compte la période comprise entre la date d'application du texte, soit le 1er janvier 1993, et le 1er octobre, ce qui bien évidemment ne pouvait pas aboutir au même résultat, cette remarque étant valable pour tous les pays et en particulier pour le Burundi. Les variations prévues au cours de ce CTP sont effectivement restées sans effet en ce qui concerne les pays de la zone franc, la dévaluation étant intervenue avant que le dossier n'ait abouti, mais ont bien été appliquées aux autres pays.
