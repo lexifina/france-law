@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030406791
+
+- Question : [SEQ030406791](seq030406791.md) — Recouvrement des cotisations sociales des travailleurs indépendants dans le projet de loi " Initiative économique "
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2003-06-12, page 1924*
+
+La simplification des modes de calcul et de recouvrement des cotisations sociales personnelles des travailleurs indépendants constitue une revendication ancienne et importante des chefs d'entreprise, comme le montrent toutes les études et les sondages effectués auprès des intéressés. La mission confiée conjointement à l'inspection générale des finances, à l'inspection générale des affaires sociales et à l'inspection générale de l'industrie et du commerce, en vue de mesurer les conséquences des différentes solutions envisageables et de proposer un calendrier de mise en oeuvre, a rendu son rapport début avril. Au vu des conclusions de ce rapport et suite à une concertation engagée avec l'ensemble des partenaires concernés, le Gouvernement a opté pour un dispositif qui permettra à chaque travailleur indépendant de choisir librement son interlocuteur social unique parmi les organismes de protection sociale auxquels il cotise actuellement. Les mesures instaurant ce dispositif seront prises dans le cadre d'une prochaine ordonnance de simplification. L'article 19-4 du projet de loi d'habilitation autorisant le Gouvernement à simplifier par ordonnances a d'ailleurs été amendé explicitement en ce sens lors de son examen en première lecture par le Parlement : " Permettre aux travailleurs non salariés non agricoles de bénéficier de services communs à plusieurs régimes et de s'adresser à un interlocuteur unique de leur choix pour l'ensemble des formalités et des paiements de cotisations et contributions sociales dont ils sont redevables à titre personnel. "
