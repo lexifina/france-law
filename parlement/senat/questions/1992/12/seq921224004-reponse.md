@@ -1,0 +1,9 @@
+# Réponse à la question SEQ921224004
+
+- Question : [SEQ921224004](seq921224004.md) — Qualification de la rémunération versée à un président de groupement d'intérêt économique
+
+## Réponse
+
+*Budget, JO du 1993-01-28, page 139*
+
+Réponse. - La rémunération versée pour l'exercice d'une activité d'administration d'un groupement d'intérêt économique, dans les conditions exposées par l'honorable parlementaire, est en principe soumise à impôt sur le revenu dans la catégorie des traitements et salaires. Conformément aux dispositions de l'article 39-1-1 du code général des impôts, cette rémunération ne peut être admise en déduction des bénéfices imposables du groupement que dans la mesure où elle correspond à un travail effectif et n'est pas excessive eu égard à l'importance du service rendu. Au regard du droit de la sécurité sociale, le régime de sécurité sociale dont les administrateurs - et parmi eux le président du groupement d'intérêt économique - peuvent relever doit être défini dans chaque cas d'espèce, au regard des seules conditions dans lesquelles ils exercent effectivement leur fonction, peu importe la nature du contrat, et cela conformément à une position constante de la Cour de cassation. S'il apparaît que les personnes concernées exercent leur activité dans un lien de subordination, elles doivent alors relever du régime général ; au cas contraire, elles sont susceptibles de ressortir au régime des travailleurs indépendants.
