@@ -46,7 +46,7 @@ Francs
 
 |
 
-4° catégorie. — Trésoriers et officiers chargés du matériel dans les corps de troupe comprenant plus d’une et moins de dix unités administratives ; gestionnaires des hôpitaux; comptables finances et comptables matières des établissements d’artillerie ; Chefs des bureaux postaux militaires.
+4° catégorie. — Trésoriers et officiers chargés du matériel dans les corps de troupe comprenant plus d’une et moins de dix unités administratives ; gestionnaires des hôpitaux ; officiers des détails ; comptables finances et comptables matières des établissements d’artillerie ; Chefs des bureaux postaux militaires.
 
 |
 
@@ -62,9 +62,7 @@ Francs
 
 |
 
-6° catégorie. — Officiers d'approvisionnement ; officiers
-
-des détails ; régisseurs d'avances
+6° catégorie. — Officiers d'approvisionnement ; régisseurs d'avances
 
 |
 
