@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890605175
+
+- Question : [SEQ890605175](seq890605175.md) — Incitation au départ à la retraite des médecins
+
+## Réponse
+
+*Affaires sociales, JO du 1990-11-29, page 2523*
+
+Réponse. - Le mécanisme d'incitation à la cessation anticipée d'activité des médecins conventionnés (M.I.C.A.), mis en place par l'article 4 de la loi du 5 janvier 1988, vient d'être prorogé pour une durée de deux ans à compter du 10 mai 1990 par l'article 12 de la loi n° 90-590 du 6 juillet 1990. Afin de permettre aux médecins exerçant simultanément une activité libérale et salariée de bénéficier effectivement de ces dispositions, l'allocation de remplacement peut être cumulée sous certaines conditions et dans la limite d'un plafond avec les revenus de l'activité salariée. De même, la limite de cumul de cette allocation avec un avantage de retraite - fixée actuellement à la moitié de l'allocation aux vieux travailleurs salariés, soit 7 495 F - devrait être révisée. La fixation de ces plafonds doit intervenir prochainement par voie conventionnelle. En ce qui concerne la régulation de la démographie médicale et paramédicale : depuis dix ans, une politique continue de limitation du nombre d'étudiants en médecine est menée, les admis en seconde année étant passés de plus de 8 000 en 1979 à 4 000 aujourd'hui. Cependant, la durée des études médicales et le nombre d'étudiants encore en formation sont tels que les effets de cette restriction ne se feront sentir totalement qu'après l'an 2 000 ; pour les professions paramédicales, le contrôle du nombre d'étudiants admis à suivre une scolarité, en application de l'article L.510-9 du code de la santé publique, concerne actuellement quatre professions : les infirmiers diplômés d'Etat, les masseurs-kinésithérapeutes, les orthophonistes et les psychomotriciens ; pour les autres professions, l'agrément limitant la capacité d'accueil des écoles suffit à maîtriser les flux démographiques.
