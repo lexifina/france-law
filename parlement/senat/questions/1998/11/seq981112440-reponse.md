@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981112440
+
+- Question : [SEQ981112440](seq981112440.md) — Trésorerie des établissements publics de santé
+
+## Réponse
+
+*Emploi, JO du 1999-12-09, page 4066*
+
+Réponse. - Suite aux propositions de la Cour des comptes dans son rapport annuel au Parlement sur la sécurité sociale, publié en septembre 1998, un groupe de travail constitué de la direction de la sécurité sociale, de la direction des hôpitaux et de la direction générale de la comptabilité publique a étudié les différentes hypothèses avancées par la Cour concernant la trésorerie des établissements publics de santé (EPS). Les études menées par le groupe de travail précité n'ont pas révélé d'écarts sensibles entre les versements de la dotation globale du 25 et du 5 du mois, d'une part, et les besoins des établissements à ces mêmes dates, d'autre part. Bien que les deux versements dont il s'agit correspondent principalement au paiement des rémunérations et des charges sociales, les autres paiements des établissements s'effectuent, autant que possible, sans discontinuité : cette pratique se traduit dans les statistiques par une baisse des encours de trésorerie sur la période concernée, alors que la fraction du 25, notamment, est supérieure, dans la plupart des cas et dans des proportions variables, aux besoins résultant du seul paiement des rémunérations. Ces mêmes études ont souligné l'hétérogénéité des établissements quant à leur situation de trésorerie, d'une part, et à la fraction du versement de DGF du 25 consacrée au paiement des dépenses de personnel comme évoqué plus haut, d'autre part. Ces deux éléments à eux seuls rendent d'application difficile et incertaine toute mesure générale d'ajustement des fractions de DGF versées mensuellement. Compte tenu de ces éléments, aucune mesure visant à modifier à court terme les versements mensuels de la DGF n'a été pour le moment retenue.
