@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860702070
+
+- Question : [SEQ860702070](seq860702070.md) — Fédération nationale des retraités de l'artisanat
+
+## Réponse
+
+*Affaires sociales, JO du 1986-12-04, page 1683*
+
+Réponse. -Les arrêtés du 24 septembre 1986 ont institué, d'une part, auprès de la commission des comptes de la sécurité sociale, un groupe de travail chargé d'évaluer les mécanismes de compensation entre les régimes de sécurité sociale, d'autre part, une commission d'évaluation et de sauvegarde de l'assurance vieillesse. Ces arrêtés fixent, en outre, la composition de ces commissions. Le premier groupe de travail comprend notamment un représentant de la Caisse nationale d'assurance vieillesse des professions libérales, chargé d'assurer la représentation des trois régimes d'assurance vieillesse des travailleurs non salariés non agricoles. La commission d'évaluation et de sauvegarde comprend parmi ses membres une personne désignée par la délégation commune des conseils d'administration des caisses nationales des organisations autonomes d'assurance vieillesse des travailleurs non salariés des professions artisanales, industrielles et commerciales, ainsi que deux représentants des associations de retraités et de préretraités choisies par le ministre des affaires sociales et de l'emploi que sont la Fédération nationale des associations de retraités (F.N.A.R.) et l'Union nationale des personnes âgées (U.N.A.P.A.). Les intérêts des retraités de l'artisanat et du commerce sont donc pris en compte tant par les représentants des associations que par ceux des régimes. Dans un souci d'efficacité et pour faciliter les travaux de cette commission, il a été décidé une composition très limitée de dix-huit membres, mais il a été prévu qu'elle pourrait procéder à toutes auditions utiles à ces travaux. La Fédération nationale des retraités de l'artisanat peut dès lors saisir le président de ladite commission pour que celle-ci procède à son audition.
