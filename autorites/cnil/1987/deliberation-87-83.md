@@ -1,0 +1,15 @@
+# Délibération portant avis sur un projet de décret en Conseil d'Etat, modifiant le décret n° 83-387 du 11 mai 1983, relatif à l'utilisation du répertoire national d'identification des personnes physiques par la Banque de France
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 87-83
+- Date : 1987-09-08
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017654056
+
+La Commission Nationale de l'Informatique et des Libertés, Vu la Convention du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ; Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés et notamment son article 18 ; Vu la loi n° 73-7 du 3 janvier 1973 sur la Banque de France ; Vu le décret n° 78-774 du 17 juillet 1978 pris pour l'application de la loi du 6 janvier 1978 et notamment son article 18 ; Vu le décret n° 82-103 du 22 janvier 1982 relatif au répertoire national d'identification des personnes physiques ; Vu le décret n° 83-387 du 11 mai 1983 relatif à l'utilisation par la Banque de France du répertoire national d'identification des personnes physiques ; Vu la délibération de la Commission n° 82-69 du 4 mai 1982 relative au Fichier central des chèques impayés et au Fichier bancaire des entreprises gérés par la Banque de France ; Vu la délibération de la Commission n° 87-37 du 7 avril 1987 portant avis sur la mise en oeuvre par la Banque de France d'un traitement automatisé d'informations nominatives relatif à la centralisation des décisions de retrait de cartes bancaires "CB" ; Vu le projet de décret en Conseil d'Etat présenté par le Ministère de l'Economie, des Finances et de la Privatisation modifiant le décret n° 83-387 du 11 mai 1983 ; Après audition de Monsieur BEGUE, représentant du ministre chargé de la tenue du Répertoire National d'Identification des Personnes Physiques ; Après avoir entendu Madame Yvette CHASSAGNE, Commissaire, en son rapport et Madame Charlotte-Marie PITRAT, Commissaire du Gouvernement, en ses observations ;
+
+Considérant que pour la gestion du Fichier central des chèques impayés et du Fichier bancaire des entreprises la Banque de France a été autorisée par décret n° 83-387 du 11 mai 1983 à consulter périodiquement le Répertoire National d'Identification des Personnes Physiques ; Considérant que le projet de décret soumis à la Commission tend à autoriser la Banque de France à consulter le Répertoire pour la gestion de la centralisation des décisions de retrait de cartes bancaires "CB" ; Considérant que cette consultation n'a pas pour objet de créer une procédure de recherche systématique des personnes mais de lever les doutes sur d'éventuelles erreurs d'identification ; Considérant que les numéros d'inscription au Répertoire National d'Identification des Personnes Physiques ne sont pas conservés dans les fichiers gérés par la Banque de France ;
+
+Emet un avis favorable au projet de décret visé ci-dessus. Le Président, Jacques FAUVET
