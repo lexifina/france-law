@@ -1,0 +1,15 @@
+# Délibération portant avis sur le projet d'arrêté du ministre de la Santé et de la Famille relatif à une étude rétrospective des lois d'évolution de la dystrophie musculaire de Duchenne de Boulogne
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 87-70
+- Date : 1987-07-07
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017654043
+
+La Commission Nationale de l'Informatique et des Libertés, Vu la Convention du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ; Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, notamment ses articles 15, 19, 26, 27, 34 et 40 ; Vu l'article 378 du Code pénal relatif au secret professionnel ; Vu la délibération n° 85-07 du 19 février 1985 portant adoption d'une recommandation sur les traitements automatisés d'informations médicales nominatives utilisés à des fins de recherche médicale ; Vu le projet d'arrêté présenté par le ministre chargé de la santé et de la famille ; Après avoir entendu Madame Louise CADOUX en son rapport et Madame Charlotte-Marie PITRAT, Commissaire du gouvernement, en ses observations ;
+
+Considérant que la recherche épidémiologique conduite par le Ministère de la Santé, en collaboration avec l'association des myopathes de France, a pour objet d'étudier l'histoire médicale des personnes atteintes de la myopathie de Duchenne et l'évolution de cette maladie afin de mieux apprécier l'efficacité des différentes thérapeutiques proposées ; Considérant que la collecte des données médicales nominatives nécessaires à cette recherche est réalisée par l'intermédiaire de questionnaires diffusés auprès des médecins traitants qui consulteront à cet effet les dossiers médicaux de leurs patients ; que ces questionnaires d'enquête seront adressés au médecin responsable de la recherche puis retransmis pour exploitation au service informatique sans aucune autre indication nominative que des numéros d'ordre attribués par le médecin précité, seul habilité à détenir la correspondance entre ces numéros et l'identité des personnes ; Considérant que les responsables du traitement ont pris des mesures pour que les personnes concernées ou leur famille soient informées de l'existence du fichier ainsi que de leur droit d'accès ; qu'en outre les informations ne seront recueillies qu'après accord exprès des intéressés ; Considérant que dans ces conditions, le traitement respecte tant le secret médical que les dispositions des articles 26 et 27 de la loi du 6 janvier 1978 ainsi que les principes dégagés dans la recommandation du 19 février 1985 sur les traitements automatisés utilisés à des fins de recherche médicale ;
+
+Emet un avis favorable au projet d'arrêté qui lui a été présenté ; Rappelle qu'une demande d'avis devra être présentée au Comité national des registres au cas où il serait envisagé de constituer sur la base de cette étude un registre de recherche ; Demande à être saisie d'une nouvelle demande d'avis, en cas d'extension ou d'adjonction de finalité. Le Président : Jacques FAUVET
