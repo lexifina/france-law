@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990214433
+
+- Question : [SEQ990214433](seq990214433.md) — Sécurité des Français du Mexique
+
+## Réponse
+
+*Affaires étrangères, JO du 1999-05-13, page 1590*
+
+Réponse. - L'honorable parlementaire a bien voulu appeler l'attention du ministre des affaires étrangères sur les mesures prises en faveur de la sécurité des ressortissants français installés ou de passage au Mexique. La prévention contre les risques d'insécurité passe tout d'abord par l'information de notre communauté expatriée au Mexique et aux nombreux Français qui s'y rendent soit pour des voyages d'agrément, soit pour affaires. Ainsi, le consulat général de France à Mexico et le ministère des affaires étrangères disposent de services chargés d'informer les Français expatriés au Mexique ou désireux de s'y rendre. Ces informations sont également disponibles sur le serveur Internet du consulat et, très prochainement, elles le seront sur le serveur du ministère des affaires étrangères qui sera inauguré prochainement. Au-delà de cette information, le consulat général de France intervient auprès des autorités locales à chaque fois qu'il est saisi d'une aggression concernant l'un de nos compatriotes. Par ailleurs, au moment de la visite d'Etat au Mexique du Président de la République, en novembre 1998, les problèmes de lutte contre l'insécurité, le crime organisé et le trafic de drogue ont été longuement évoqués lors des entretiens avec le Président des Etats-Unis du Mexique. La France s'est résolument engagée aux côtés du Mexique pour l'accompagner dans sa volonté de lutter contre l'insécurité croissante. Un accord a été signé entre nos deux pays pour permettre de renforcer notre coopération en matière de sécurité publique, qui fait suite à celui signé en octobre 1997, au moment de la visite d'Etat en France du président Zedillo, en matière de lutte contre le trafic de stupéfiants.
