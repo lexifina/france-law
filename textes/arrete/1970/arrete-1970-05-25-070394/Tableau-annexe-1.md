@@ -1,162 +1,148 @@
 # Article Tableau annexe 1
 
-:=================================================================: |
+:-----------------------------------------------------------------: |
 
-: GRADES ET EMPLOIS ACTUELS : : |
+: GRADES ET EMPLOIS ACTUELS : CLASSEMENT : INDICES BRUTS AU : |
 
-: (indices bruts) : Classement au 1er janvier 1983 : |
+: : dans l'échelle :-------------------: |
 
-: : : |
+: : ou les groupes : 1-01-85 : 1-07-85 : |
 
-:=================================================================: |
+: : de rémunération : : : |
 
-: Echelle indiciaire (204 - : : |
+:---------------------------:-------------------------------------: |
 
-: 282) : : Echelle 1 : |
+: : : : : |
 
-: Gardien ou garçon de : : |
+: : Echelle I : 206- : 209- : |
 
-: bureau (1ère et 2ème : : |
+: Gardien ou garçon de : : 282 : 282 : |
 
-: catégorie) : : |
+: bureau (1ère et 2ème : : : : |
 
-: Agent de service : : |
+: catégorie) : : : : |
 
-: Manutentionnaire : : |
+: Agent de service : : : : |
 
-: Manoeuvre : : |
+: Manutentionnaire : : : : |
 
-: Huissier du maire : : |
+: Manoeuvre : : : : |
 
-: Agent de service des : : |
+: Huissier du maire : : : : |
 
-: écoles : : |
+: Agent de service des : : : : |
 
-: Garçon de laboratoire : : |
+: écoles : : : : |
 
-: d'analyses chimiques : : |
+: Garçon de laboratoire : : : : |
 
-: Gardien de musée : : |
+: d'analyses chimiques : : : : |
 
-: Gardien ou garçon de : : |
+: Gardien de musée : : : : |
 
-: bibliothèque : : |
+: Gardien ou garçon de : : : : |
 
-: Gardien de cimetière : : |
+: bibliothèque : : : : |
 
-: Manoeuvre de force : : |
+: Gardien de cimetière : : : : |
 
-: Brigadier des gardiens : : |
+: Manoeuvre de force : : : : |
 
-: ou garçons de bureau : : |
+: Brigadier des gardiens : : : : |
 
-: Agent spécialisé des : : |
+: ou garçons de bureau : : : : |
 
-: écoles maternelles et : : |
+: Agent spécialisé des : : : : |
 
-: des classes enfantines : : |
+: écoles maternelles et : : : : |
 
-: Appariteur-enquêteur : : |
+: des classes enfantines : : : : |
 
-: Agent de bureau : : |
+: Appariteur-enquêteur : : : : |
 
-: Manoeuvre spécialisé : : |
+: Agent de bureau : : : : |
 
-: usines et ateliers : : |
+: Manoeuvre spécialisé : : : : |
 
-: municipaux : : |
+: usines et ateliers : : : : |
 
-: Garçon de laboratoire : : |
+: municipaux : : : : |
 
-: d'analyses médicales : : |
+: Garçon de laboratoire : : : : |
 
-: Aide ménagère : : |
+: d'analyses médicales : : : : |
 
-===================================================================
+: Aide ménagère : : : : |
 
-:=================================================================: |
+:-----------------------------------------------------------------: |
 
-: GRADES ET EMPLOIS ACTUELS : CLASSEMENT DU : CLASSEMENT A : |
+:-----------------------------------------------------------------: |
 
-: (indices bruts) : 1er janvier 1970 : COMPTER DU : |
+: GRADES ET EMPLOIS ACTUELS : CLASSEMENT : INDICES BRUTS AU : |
 
-: : : 1er janvier 1974 : |
+: : dans l'échelle :------------------ : |
 
-:===========================:==================:==================: |
+: : ou les groupes : 1-01-85 : 1-07-85 : |
 
-: Echelle indiciaire (158 - : : : |
+: : de rémunération : : : |
 
-: 210) : : : : |
+:---------------------------:-------------------------------------: |
 
-: Agent de bureau : Groupe III : Groupe III : |
+: : : : : |
 
-: dactylographe (1) : provisoire : : |
+: Agent d'enquêtes : Groupe III : 220- : 220 : |
 
-: : : : |
+: Téléphoniste : : 282 : 282 : |
 
-: Echelle indiciaire 170 - : : : |
+: Agent de bureau : : : : |
 
-: 235) : : : : |
+: dactylographe : : : : |
 
-: Surveillant de : : : |
+: Aide-ouvrier : : : : |
 
-: bibliothèque : : : |
+: professionnel : : : : |
 
-: Surveillant chef gardien : : : |
+: Conducteur d'auto : : : : |
 
-: de musée : Groupe III : Groupe III : |
+: (tourisme et utilitaire) : : : : |
 
-: Ouvrier d'entretien de : provisoire : : |
+: Chef d'équipe d'entretien : : : : |
 
-: la voie publique : : : |
+: de la voie publique : : : : |
 
-: Aide-ouvrier : : : |
+: Aide de laboratoire : : : : |
 
-: professionnel : : : |
+: et aide : : : : |
 
-: : : : |
+: d'électro radiologie : : : : |
 
-: Echelle indiciaire (185 - : : : |
+: Auxiliaire de : : : : |
 
-: 255) : : : : |
+: puériculture : : : : |
 
-: Agent d'enquêtes : : : |
+: Receveur placier : : : : |
 
-: Téléphoniste : : : |
+: Surveillant chef gardien : : : : |
 
-: Employé de bibliothèque : : : |
+: de musée : : : : |
 
-: : : : |
+: Employé de bibliothèque : : : : |
 
-: Receveur placier : : : |
+: Surveillant de : : : : |
 
-: Auxiliaire de : : : |
+: bibliothèque : : : : |
 
-: puériculture : Groupe III : Groupe III : |
+: Porteur (service des : : : : |
 
-: Conducteur d'auto : : : |
+: inhumations) : : : : |
 
-: tourisme et utilitaire : : : |
+: Garde champêtre : : : : |
 
-: Chef d'équipe : : : |
+: Sapeur-pompier : : : : |
 
-: d'entretien de la voie : : : |
+: professionnel de : : : : |
 
-: publique (2) : : : |
-
-: Eboueur, égoutier, : : : |
-
-: fossoyeur : : : |
-
-: Gardien de police : : : |
-
-: municipale et rurale, : : : |
-
-: garde champêtre : : : |
-
-: Aide de laboratoire : : : |
-
-: Aide d'électroradiologie : : : |
+: 2ème classe : : : : |
 
 : : : : |
 
@@ -166,7 +152,7 @@
 
 : 1ère catégorie (1) : : : |
 
-===================================================================
+:-----------------------------------------------------------------: |
 
 :=================================================================: |
 
