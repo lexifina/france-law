@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040512267
+
+- Question : [SEQ040512267](seq040512267.md) — Avenir des instituts universitaires professionnalisés (IUP)
+
+## Réponse
+
+*Éducation, JO du 2004-12-16, page 2899*
+
+La mise en oeuvre de la réforme dite LMD (licence, master, doctorat) est un enjeu majeur pour le développement et le rayonnement des universités françaises : elle prend appui sur le processus de professionnalisation lancé depuis plusieurs années au sein des universités et sur la reconnaissance des équipes pédagogiques impliquées dans cette démarche. Les instituts universitaires professionnalisés ont contribué à ce mouvement et il est nécessaire de les intégrer pleinement dans l'offre de formation licence, master, doctorat. Les universités offriront donc aux étudiants engagés dans des formations IUP des parcours de formations professionnalisés jusqu'au niveau master (bac + 5). Ces parcours seront organisés en 120 crédits après le grade de licence en liaison étroite avec le monde professionnel. Les diplômes de master remis à l'étudiant à l'issue de sa formation porteront la marque de leur préparation au sein des IUP. Par ailleurs les équipes IUP pourront en tant que de besoin concevoir des parcours au sein de l'offre universitaire de licence, pour lesquelles l'identification IUP sera également assurée. Ces formations seront accessibles à des étudiants de diverses origines et de divers établissements, par l'aménagement de passerelles entre les niveaux. Enfin, les moyens attribués aux universités pour ces formations ne sont pas remis en cause. La mise en oeuvre de cette réforme, loin d'affaiblir la professionnalisation des universités, renforcera sa qualité. Par ailleurs les demandes de prorogations de formations existantes afin de permettre aux étudiants déjà inscrits de terminer leur cursus selon les modalités prévues lors de leur inscription sont toujours examinées favorablement par le ministère.
