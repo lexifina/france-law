@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881001810
+
+- Question : [SEQ881001810](seq881001810.md) — Syndicat intercommunal : conditions de désignation des délégués communaux
+
+## Réponse
+
+*Intérieur, JO du 1988-12-22, page 1468*
+
+Réponse. - L'article L. 163-5 du code des communes offre aux conseils municipaux la liberté de choisir leurs délégués aux comités des syndicats de communes parmi tout citoyen réunissant les conditions requises pour faire partie d'un conseil municipal. Ils peuvent donc être membres du conseil municipal ou pris en dehors de l'assemblée communale. Cette disposition fort ancienne, puisqu'issue de la loi du 22 mars 1890, présente, pour les communes, une utilité certaine. La participation aux travaux des organismes intercommunaux, parfois multiples, requiert des élus une disponibilité qui peut être difficilement conciliable avec les nombreuses sujétions liées à l'exercice de leur mandat. Cette disposition permet d'alléger, si nécessaire, l'importance des charges leur incombant. En outre, elle autorise les conseils municipaux a faire appel à des autorités qualifiées dans des domaines qui exigent une technicité particulière. Il est non moins vrai que la désignation de délégués intercommunaux parmi les membres élus des assemblées communales est le gage d'une efficacité certaine. Il existe en effet une étroite connexité entre les affaires communales et intercommunales. La connaissance pragmatique des affaires locales favorise l'approche et la résolution des problèmes confiés à une instance supracommunale. Néanmoins, la décision des communes en ce domaine relève de leur libre appréciation, leur choix étant dicté par le souci d'une bonne gestion des affaires locales. Il n'est donc pas envisagé de modifier la disposition prévue à l'article L. 163-5 du code des communes et de limiter la liberté de choix qu'ofre actuellement ce texte.
