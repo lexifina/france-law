@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961018330
+
+- Question : [SEQ961018330](seq961018330.md) — Directive européenne relative à la vente de cyclomoteurs à boîte de vitesses
+
+## Réponse
+
+*Équipement, JO du 1996-12-05, page 3245*
+
+Réponse. - L'introduction en France, depuis le 1er janvier 1996, des cyclomoteurs équipés de boîtes de vitesses manuelles correspond à l'application de la directive no 92/61 du 30 juin 1992. Lors des discussions qui ont précédé l'adoption de la directive, il est apparu qu'il n'y avait pas d'argument objectif et convaincant pour interdire les boîtes de vitesses manuelles, lesquelles sont considérées comme pouvant favoriser un apprentissage progressif de la conduite par les jeunes. L'autorisation de la conduite des cyclomoteurs à partir de quatorze ans est une mesure très ancienne. Pour améliorer l'information générale des jeunes sur la route et pour développer l'apprentissage de la conduite, il a été décidé, en juillet 1996, de subordonner la conduite des cyclomoteurs entre quatorze et seize ans à la possession d'un brevet de sécurité routière. Les cyclomoteurs rapides ne peuvent être que des cyclomoteurs modifiés afin d'accroître la puissance du moteur et la vitesse. Or ces transformations sont formellement interdites par la réglementation actuelle, de même qu'est interdite la vente de kits de " gonflage " des moteurs. Toutefois, il apparaît que, malgré ces interdictions et les risques graves de toute nature encourus par les contrevenants, le nombre de ceux-ci est non négligeable, et que des efforts particuliers doivent être faits pour faire respecter la réglementation. Un programme d'actions visant à rendre les transformations encore plus difficiles et à mieux identifier et sanctionner les auteurs des infractions va faire l'objet d'une concertation avec tous les partenaires concernés.
