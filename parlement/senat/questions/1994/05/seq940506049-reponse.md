@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940506049
+
+- Question : [SEQ940506049](seq940506049.md) — Dégâts causés aux forêts par le grand gibier
+
+## Réponse
+
+*Agriculture, JO du 1994-08-25, page 2061*
+
+Réponse. - Les chasseurs de grand gibier ont exprimé leur mécontentement de n'avoir pas été associés aux travaux de réflexion menés par le groupe de travail sur les dégâts de gibier aux peuplements forestiers. Le groupe de travail en question a été créé en vertu de l'article 16 III de la loi no 92-613 du 6 juillet 1992, modifiant le code forestier et portant diverses dispositions agricoles et cynégétiques, qui stipule : " Le Gouvernement déposera avant le 1er octobre 1993, sur le bureau des assemblées, un rapport retraçant le bilan de la réglementation applicable à l'indemnisation des dégâts de gibier. Ce rapport comportera des propositions permettant une meilleure prise en compte des dégâts causés aux peuplements forestiers, soit dans le cadre du système d'indemnisation existant, soit dans celui de la mise en place d'un système particulier d'indemnisation. " Les ministères de l'environnement, d'une part, de l'agriculture et de la pêche, d'autre part, se sont concertés pour créer ce groupe de travail qui devait comprendre des représentants des divers groupes intéressés : chasseurs, agriculteurs et forestiers. Le ministère de l'agriculture et de la pêche n'ayant pas, dans ses attributions, les questions liées à la chasse, n'est pas intervenu dans la désignation des représentants des chasseurs. Ce groupe de travail a fonctionné sous la présidence d'un haut fonctionnaire, qui a remis des conclusions sous la forme d'un rapport dont les deux ministères précités doivent s'inspirer pour faire les propositions prévues par la loi. Les négociations pour la mise au point définitive de ces propositions n'ont pas encore abouti.
