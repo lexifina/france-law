@@ -18,7 +18,7 @@ Modalités de décompte :
 
 - Le décompte des journées travaillées se fait par autodéclaration du salarié concerné.
 
-- Les repos pourront être pris par journées ou par demi-journées. Ils pourront également être affectés à un compte épargne-temps. Ils seront pris selon les modalités de l'article 9.
+- Les repos pourront être pris par journées ou par demi-journées. Ils pourront également être affectés à un compte épargne temps. Ils seront pris selon les modalités définies dans l'accord d'entreprise.
 
 Conditions de contrôle :
 
@@ -40,7 +40,7 @@ Catégories de salariés pouvant être concernés :
 
 Nombre d'heures travaillées et durée du travail :
 
-- L'accord d'entreprise peut fixer une limite maximale journalière excédant 10 heures, dans la limite de 12 heures, et une limite maximale hebdomadaire excédant 48 heures par semaine et 44 heures par semaine sur 12 semaines consécutives, dans la limite de 60 heures sur 10 semaines consécutives ou non. - Les règles applicables en matière de repos quotidien et de repos hebdomadaires doivent être respectées. - Une majoration proportionnelle pour les salariés n'ayant pas acquis la totalité des congés légaux, en cas d'embauche est possible.
+- L'accord d'entreprise peut fixer une limite maximale journalière excédant 10 heures, dans la limite de 12 heures, et une limite maximale hebdomadaire excédant 48 heures par semaine et 44 heures par semaine sur 12 semaines consécutives, dans la limite de 60 heures sur 10 semaines consécutives ou non. - Les règles applicables en matière de repos quotidien et de repos hebdomadaires doivent être respectées. - Une majoration proportionnelle pour les salariés n'ayant pas acquis la totalité des congés légaux, en cas d'embauche est possible. - L'accord d'entreprise fixera la durée annuelle du travail sur la base de laquelle le forfait est établi, selon les catégories de salariés concernés.
 
 Modalités de décompte :
 
@@ -48,15 +48,9 @@ Modalités de décompte :
 
 Conditions de contrôle :
 
-- L'employeur tiendra mensuellement à jour une fiche de contrôle basée sur les autodéclarations des salariés concernés. - Les autodéclarations des salariés préciseront le nombre d'heures de travail par jour permettant ainsi de contrôler le respect des maxima et la charge de travail des salariés concernés.
+- L'employeur tiendra mensuellement à jour une fiche de contrôle basée sur les autodéclarations des salariés concernés.
 
-Modalités d'aménagement du temps de travail :
-
-- Pour ces salariés l'aménagement du temps de travail peut se faire sous forme :
-
-- d'annualisation/modulation dans les conditions définies aux articles 3, 4, 5, 6, 7, 8 ; - de cycle dans les conditions définies à l'article 9 ter ;
-
-- de recours aux jours de repos dans les conditions définies à l'article 9.
+- Les autodéclarations des salariés préciseront le nombre d'heures de travail par jour permettant ainsi de contrôler le respect des maxima et la charge de travail des salariés concernés.
 
 3. Forfait hebdomadaire ou mensuel en heures
 
@@ -65,5 +59,3 @@ Il est possible de mettre en place des forfaits hebdomadaire ou mensuel par cont
 La rémunération afférente au forfait doit être au moins égale à la rémunération que le salarié recevrait compte tenu du salaire minimum conventionnel applicable dans l'entreprise et des bonifications ou majorations prévues à l'article L. 212-5 du code du travail.
 
 Il est précisé que les durées maximales quotidienne et hebdomadaire sont applicables.
-
-NOTA : Arrêté du 10 mai 2001 art. 1 : le point 1 (forfait annuel en jours) de l'article 13 bis (les conventions de forfait) est étendu sous réserve qu'en application de l'article L. 212-15-3-III, alinéas 1 et 2, du code du travail, un accord complémentaire de branche ou d'entreprise précise les modalités de prise de journées ou demi-journées de repos, les modalités de suivi de l'organisation du travail des salariés concernés, de l'amplitude de leurs journées d'activité et de la charge de travail qui en résulte ainsi que les modalités concrètes d'application des dispositions relatives au repos hebdomadaire. La dernière phrase de la rubrique (modalités de décompte) du tableau figurant au point 1 de l'article 13 bis susmentionné est étendue sous réserve de l'application des dispositions de l'article L. 212-15-3-III du code du travail. Le point 2 (forfait annuel en heures) de l'article 13 bis précité est étendu sous réserve qu'un accord complémentaire de branche ou d'entreprise fixe, conformément à l'article L. 212-15-3-II, alinéa 1, du code du travail, la durée annuelle de travail sur la base de laquelle le forfait est établi. La rubrique (modalités d'aménagement du temps de travail) du tableau figurant au point 2 de l'article 13 bis susmentionné est étendue sous réserve de l'application des dispositions de l'article L. 212-15-3-II du code du travail.

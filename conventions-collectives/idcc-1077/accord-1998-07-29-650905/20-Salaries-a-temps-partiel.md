@@ -1,6 +1,6 @@
 # Article 20 : Salariés à temps partiel
 
-Conformément à l'article 12 de la loi du 19 janvier 2000 et à l'article 43 de la convention collective, est considéré comme salarié à temps partiel, tout salarié dont l'horaire de travail est inférieur à la durée légale pour un temps plein.
+Conformément à l'article 12 de la loi du 19 janvier 2000 et à l'article 43 de la convention collective, est considéré comme salarié à temps partiel tout salarié dont l'horaire de travail est inférieur à la durée légale, ou conventionnelle pour un temps plein.
 
 Dans les entreprises de 20 salariés et moins, n'ayant pas réduit à 35 heures, dont la durée légale du travail sera réduite de 39 heures à 35 heures à compter du 1er janvier 2002, sont considérés comme salariés à temps partiel jusqu'à cette date, tous salariés employés par ces entreprises sur la base d'une durée du travail inférieure à 39 heures.
 
@@ -35,5 +35,3 @@ Le programme indicatif de la répartition de la durée du travail est communiqu�
 Selon les nécessités du service, et notamment pendant les périodes de pointe, ces horaires peuvent être modifiés dans un délai de 3 jours avant la mise en application des nouveaux horaires.
 
 La rémunération suivra les règles définies à l'article 8 (lissage).
-
-NOTA : Arrêté du 10 mai 2001 art. 1 : le troisième alinéa de l'article 20 (effet sur les salariés à temps partiel) est étendu sous réserve de l'application de l'article L. 212-4-2, alinéa 2, du code du travail.

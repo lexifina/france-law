@@ -1,12 +1,10 @@
 # Article 8 : Lissage des salaires
 
-Le lissage des salaires dans le cadre de l'annualisation s'effectuera dans les mêmes conditions d'application que celles prévues au nouvel article 3.
-
 En cas d'annualisation des horaires, les rémunérations mensuelles sont fixées sur la base de l'horaire hebdomadaire moyen annuel.
 
 Le cas échéant, en cas de durée du travail effectif supérieure ou inférieure à la durée correspondant au salaire lissé, la compensation sera régularisée avec la paie du dernier mois de la programmation.
 
-Au cas où, en fin de période d'annualisation, la durée de travail effectif accompli par le salarié est inférieure à la durée correspondant au salaire lissé, l'éventuelle récupération et/ou compensation de ces heures pourra se faire dans la limite de 8 heures.
+Au cas où, en fin de période d'annualisation, la durée du travail effectif accompli par le salarié est inférieure à la durée correspondant au salaire lissé, l'éventuelle récupération et/ ou compensation de ces heures pourra se faire dans la limite de 8 heures, à l'exception des cas énumérés à l'alinéa 11 de l'article L. 212-8 du code du travail pour lesquels la récupération n'est pas possible.
 
 1. Absences du salarié
 
@@ -26,15 +24,15 @@ Les absences pouvant donner lieu à récupération doivent être décomptées en
 
 En cas d'entrée ou de sortie en cours d'annualisation, et notamment de rupture du contrat de travail, pour quelque motif que ce soit, sauf licenciement économique, les compensations seront faites de la façon suivante :
 
-- pour un salarié ayant accompli une durée de travail effectif supérieure à la durée correspondant au salaire lissé, l'employeur devra verser un complément *éventuel* (1) de rémunération correspondant à la différence entre les heures effectuées et celles qui ont été rémunérées. Ce complément sera versé à la date de rupture du contrat de travail ;
+-pour un salarié ayant accompli une durée de travail effectif supérieure à la durée correspondant au salaire lissé, l'employeur devra verser un complément de rémunération correspondant à la différence entre les heures effectuées et celles qui ont été rémunérées. Ce complément sera versé à la date de rupture du contrat de travail ;
 
-- dans le cas contraire, si les sommes versées au salarié en application de la règle du lissage sont supérieures à celles correspondant à son temps de travail effectif, le solde fera l'objet :
+-dans le cas contraire, si les sommes versées au salarié en application de la règle du lissage sont supérieures à celles correspondant à son temps de travail effectif le solde fera l'objet :
 
-- soit d'une compensation éventuelle, correspondant à la différence entre les sommes versées et les heures effectuées, qui pourra être réglée à la date de rupture du contrat de travail ;
+-soit d'une compensation éventuelle correspondant à la différence entre les sommes versées et les heures effectuées, qui pourra être réglée à la date de rupture du contrat de travail ;
 
-- soit d'une récupération de ces heures, en travail effectif heure pour heure.
+-soit d'une récupération de ces heures, en travail effectif heures pour heures, à l'exception des cas énumérés à l'alinéa 11 de l'article L. 212-8 du code du travail pour lesquels la récupération n'est pas possible.
 
-Un mixte compensation/récupération pourra également être défini.
+Un mixte compensation/ récupération pourra également être défini.
 
 En cas de licenciement économique, le salarié conservera le supplément de rémunération éventuellement constaté par rapport à son salaire lissé.
 
@@ -42,18 +40,12 @@ Dans le cadre d'une modulation, en cas de départ à l'initiative d'un salarié 
 
 Lorsque la période de référence des congés payés n'est pas identique à la période de modulation le salarié embauché en début de modulation n'aura pas acquis la totalité des droits à congés payés, soit 25 jours ouvrés de congés payés. Il sera alors possible lors du calcul de la référence annuelle de 1 600 heures de ne pas déduire 25 jours de congés payés mais seulement le nombre effectivement acquis par le salarié. Le salarié effectuera alors plus de 1 600 heures sur l'année.
 
-*Toutefois, et notamment pour faciliter la situation du salarié entré en période basse de programmation et dont le contrat n'est pas rompu à l'échéance de celle-ci, l'entreprise pourra conclure avec ce dernier un contrat à temps partiel qui courra jusqu'au terme de la période de programmation en cours.
+Le salarié qui, du fait de son entrée en cours d'annualisation, n'est présent que sur les périodes basses perçoit, en application de la règle du lissage, une rémunération supérieure au nombre d'heures réellement effectuées. *Afin d'éviter pour le salarié une compensation entre les sommes versées et les heures effectuées, l'entreprise pourra conclure avec le salarié, pendant cette première période de référence, un contrat de travail à temps partiel selon les modalités définies à l'article L. 212-4-3 du code du travail et aux alinéas 1 à 6 de l'article 20 de l'accord du 29 juillet 1998 modifié par l'avenant du 18 septembre 2000* (1).
 
-Un avenant au contrat de travail transformera alors le contrat en contrat à temps plein, à l'issue de la première période de référence* (1).
+Cependant, si, pendant cette première période de référence, le temps partiel est modulé, l'entreprise pourra conclure un temps partiel modulé dans les conditions définies à l'article L. 212-4-6 du code du travail et aux alinéas 9 à 15 de l'article 20 de l'accord du 29 juillet 1998 modifié par l'avenant du 18 septembre 2000.
 
-NOTA : (1) Termes exclus de l'extension par arrêté du 10 mai 2001. NOTA : Arrêté du 10 mai 2001 art. 1 : le cinquième alinéa de l'article 8 (lissage des salaires) est étendu sous réserve de l'application de l'article L. 212-8, alinéa 11, du code du travail. Le premier point du second tiret du point 2 (entrée ou sortie des effectifs en cours d'annualisation) de l'article 8 susmentionné est étendu sous réserve de l'application de l'article L. 145-2 du code du travail relatif à la détermination de la fraction saisissable des rémunérations. Le deuxième point du second tiret du point 2 de l'article 8 susmentionné est étendu sous réserve de l'application de l'article L. 212-8, alinéa 11, du code du travail.
+Un avenant du contrat de travail transformera ensuite le contrat en contrat à temps plein à l'issue de la première période de référence.
 
-NOTA :
+(1) Termes exclus de l'extension par arrêté du 10 avril 2002.
 
-NOTA : (1) Termes exclus de l'extension par arrêté du 10 mai 2001.
-
-NOTA : Arrêté du 10 mai 2001 art. 1 : le cinquième alinéa de l'article 8 (lissage des salaires) est étendu sous réserve de l'application de l'article L. 212-8, alinéa 11, du code du travail.
-
-Le premier point du second tiret du point 2 (entrée ou sortie des effectifs en cours d'annualisation) de l'article 8 susmentionné est étendu sous réserve de l'application de l'article L. 145-2 du code du travail relatif à la détermination de la fraction saisissable des rémunérations.
-
-Le deuxième point du second tiret du point 2 de l'article 8 susmentionné est étendu sous réserve de l'application de l'article L. 212-8, alinéa 11, du code du travail.
+Arrêté du 10 avril 2002 art. 1 : Le premier tiret du sixième alinéa est étendu sous réserve de l'application des articles L. 145-2 et R. 145-2 du code du travail.

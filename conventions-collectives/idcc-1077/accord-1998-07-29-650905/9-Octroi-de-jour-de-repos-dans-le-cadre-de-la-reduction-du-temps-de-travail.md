@@ -10,7 +10,7 @@ Les dates des prises de journées, demi-journées de repos sont modifiables en r
 
 2. Attribution des jours de repos supplémentaires sur l'année civile :
 
-Dans ce cas, l'accord d'entreprise précisera le nombre de jours de repos venant en compensation de tout ou partie de la réduction du temps de travail, les modalités de prises de ces repos, le délai maximum pour les prendre, le délai de modification du calendrier qui pourra être inférieur à 7 jours .
+Dans ce cas, l'accord d'entreprise précisera le nombre de jours de repos venant en compensation de tout ou partie de la réduction du temps de travail, les modalités de prise de ces repos, le délai maximum pour les prendre, le délai de modification du calendrier qui pourra être inférieur à 7 jours en cas de surcroît d'activité, de circonstances climatiques le justifiant et d'absences simultanées de plusieurs salariés.
 
 A défaut, les jours seront répartis comme suit :
 
@@ -35,5 +35,3 @@ Ces heures supplémentaires ouvrent droit aux bonifications, majorations et repo
 Les absences indemnisées ou non, les jours fériés chômés - hors 1er Mai -, ne génèrent pas de droit à des heures ou jours de repos pour réduction du temps de travail, ni de déficit d'heures. Ces absences sont comptabilisées sur la base de l'horaire journalier moyen de l'entreprise ; à titre d'exemple, si l'entreprise pratique un horaire de 35 heures hebdomadaire sur 5 jours, une journée d'absence sera égale à 7 heures, pour un salarié à temps plein.
 
 Les absences de toute nature, indemnisées ou non, sont sans incidence sur le nombre d'heures de repos déjà acquises par le salarié. Le salarié, qui est absent pendant la période au cours de laquelle ces heures ou jours de repos pour réduction du temps de travail étaient programmés, conservera le droit acquis à ces heures ou jours de repos, qui seront pris ultérieurement, dans l'année civile.
-
-NOTA : Arrêté du 10 mai 2001 art. 1 : le premier alinéa du point 2 (attribution des jours de repos supplémentaires sur l'année civile) de l'article 9 (octroi de jours de repos dans le cadre de la réduction du temps de travail) est étendu sous réserve que l'accord d'entreprise prévu pour la mise en place de la réduction du temps de travail par attribution de jours de repos fixe les conditions dans lesquelles peut être réduit le délai de modification des dates fixées pour la prise des jours de repos, tel que prévu par l'article L. 212-9-II, alinéa 2, du code du travail.

@@ -12,7 +12,7 @@ Ils bénéficieront de la réduction du temps de travail dans les mêmes conditi
 
 Ils peuvent faire l'objet, par contrat, d'un forfait en heures, sur une base hebdomadaire ou mensuelle.
 
-2.2 Les cadres dits "autonomes", sont ceux dont la durée du temps de travail ne peut être prédéterminée du fait de la nature de leurs fonctions.
+2.2 Les cadres dits "autonomes", sont ceux dont la durée du temps de travail ne peut être prédéterminée du fait de la nature de leurs fonctions. Tous les cadres à partir du coefficient 350 peuvent être éventuellement concernés dès lors que leurs conditions de travail se conforment aux exigences de la loi.
 
 Pour les cadres autonomes, il sera possible de recourir à un forfait en jours sur une base annuelle dans les conditions définies à l'article 13 bis.
 
@@ -26,4 +26,6 @@ Ont la qualité de cadres dirigeants les cadres répondant à 3 conditions cumul
 
 - le versement d'une rémunération se situant dans les niveaux les plus élevés des systèmes de rémunération pratiqués dans l'entreprise ou l'établissement.
 
-NOTA : Arrêté du 10 mai 2001 art. 1 : le paragraphe 2-2 de l'article 13 (encadrement) est étendu sous réserve qu'en application de l'article L. 212-15-3-III, alinéa 1, du code du travail, les conventions de forfait en jours ne soient conclues qu'avec des salariés ayant la qualité de cadre et pour lesquels la durée du travail ne peut être prédéterminée du fait de la nature de leurs fonctions, des responsabilités qu'ils exercent et du degré d'autonomie dont ils bénéficient dans leur emploi du temps. Le paragraphe 2-2 susmentionné est étendu sous réserve qu'en application de l'article L. 212-15-3-I du code du travail un accord complémentaire de branche ou d'entreprise précise les catégories de cadres au sens de la convention collective susceptibles de bénéficier d'une convention individuelle de forfait en heures sur l'année.
+Arrêté du 10 mai 2001 art. 1 : le paragraphe 2-2 de l'article 13 (encadrement) est étendu sous réserve qu'en application de l'article L. 212-15-3-III, alinéa 1, du code du travail, les conventions de forfait en jours ne soient conclues qu'avec des salariés ayant la qualité de cadre et pour lesquels la durée du travail ne peut être prédéterminée du fait de la nature de leurs fonctions, des responsabilités qu'ils exercent et du degré d'autonomie dont ils bénéficient dans leur emploi du temps.
+
+Le paragraphe 2-2 susmentionné est étendu sous réserve qu'en application de l'article L. 212-15-3-I du code du travail un accord complémentaire de branche ou d'entreprise précise les catégories de cadres au sens de la convention collective susceptibles de bénéficier d'une convention individuelle de forfait en heures sur l'année.
