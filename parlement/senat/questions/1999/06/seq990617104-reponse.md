@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990617104
+
+- Question : [SEQ990617104](seq990617104.md) — Réglementation française sur les produits diététiques, naturels et de régime
+
+## Réponse
+
+*Affaires européennes, JO du 1999-08-19, page 2746*
+
+Réponse. - L'honorable parlementaire a bien voulu appeler l'attention du ministre délégué chargé des affaires européennes sur la réglementation française sur les produits diététiques, naturels et de régime. Comme le sait l'honorable parlementaire, la réglementation française en matière de " compléments alimentaires " est largement inspirée par des préoccupations de santé publique. En optant pour la sécurité du consommateur, notre pays a souhaité s'entourer de garanties souvent plus strictes que celles de ses partenaires au sein de l'Union européenne. Conscientes que cette disparité réglementaire entre les Etats membres peut engendrer une concurrence déloyale ainsi que des lacunes en matière de sécurité alimentaire, les autorités françaises demandent depuis longtemps une harmonisation communautaire des règles d'étiquetage et de composition des compléments alimentaires. Elles ont été partiellement entendues par la Commission européenne, qui a procédé à une large consultation avec les professionnels du secteur en juin 1997. A ce jour, cette initiative n'a toutefois pas encore débouché sur une proposition de texte. Dans l'attente d'une telle proposition, la France a notifié à la Commission le 16 novembre 1998 un projet de décret relatif aux compléments alimentaires. L'application de ce texte est actuellement suspendue à la conclusion d'un accord entre les services de la Commission et les administrations françaises compétentes portant sur plusieurs points, dont la définition des compléments alimentaires et la procédure régissant les demandes d'introduction de nouvelles substances, avant mise des produits sur le marché.
