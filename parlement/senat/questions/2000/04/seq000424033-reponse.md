@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000424033
+
+- Question : [SEQ000424033](seq000424033.md) — Reversement à la communauté d'agglomération de la compensation des pertes versée par le Fonds national de péréquation de la taxe professionnelle à certaines communes
+
+## Réponse
+
+*Intérieur, JO du 2000-06-22, page 2232*
+
+Réponse. - Le calcul de l'éligibilité des communes et des groupements de communes à la part du Fonds national de péréquation de la taxe professionnelle (FNPTP) dont l'objet est la compensation des pertes de bases de taxe professionnelle se fait par rapport à la situation de l'année précédente. Lorsqu'un groupement change de périmètre, il y a lieu de reconstituer les bases du groupement par rapport à celles de l'année précédente afin de permettre une compensation de bases à périmètre constant. En cas de pertes de bases des communes membres d'un groupement, la compensation est donc versée au groupement à taxe professionnelle unique et non à la commune d'implantation, même si celle-ci en est sortie ; en revanche, les communes entrantes, et non l'établissement public de coopération intercommunale auquel elles adhèrent, perçoivent la compensation des pertes subies par rapport à l'année précédente. Dans ce cas, elles peuvent décider d'en reverser le produit, par accord conventionnel, au groupement auquel elles appartiennent. Il ne semble pas opportun de rendre ce reversement obligatoire. En effet, la perte de bases de taxe professionnelle a été réellement subie par la commune et lorsque cette dernière adhère à un EPCI à taxe professionnelle unique, le calcul de l'attribution de compensation versée par le groupement se fait en fonction du produit de taxe professionnelle de l'année précédant son adhésion à l'EPCI. Le reversement de la compensation au titre du FNPTP à la commune permet de tenir compte de la diminution du produit de taxe professionnelle qui sert de référence au calcul de l'attribution de compensation.
