@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910314145
+
+- Question : [SEQ910314145](seq910314145.md) — Mission des services des douanes
+
+## Réponse
+
+*Budget, JO du 1991-05-09, page 978*
+
+Réponse. - L'importance du rôle et des tâches qui seront encore confiées aux services des douanes après la suppression des frontières intra-communautaires a été réaffirmée, le 8 octobre 1990, dans une déclaration des ministres des finances des douze Etats membres. En effet, s'il est vrai que la création, en 1993, d'un espace économique et financier sans frontières intérieures imposera une modification du champ d'intervention de ses services, la douane continuera à exercer l'ensemble de ses missions prioritaires, à savoir, des missions de perception de certains droits et taxes (droits de douane, prélèvements agricoles cummunautaires, droits d'accise et T.V.A.) ; économiques (mise en oeuvre des politiques communautaires : politique agricole commune, politique commerciale, contrôle du commerce extérieur, application de normes) ; statistiques (collecte des données concernant le commerce international) ; sécuritaires (lutte contre tous les grands trafics - notamment le trafic des stupéfiants et le blanchiment des capitaux -, protection du patrimoine, lutte contre les contrefaçons...) ; de sûreté (lutte contre l'infiltration terroriste, transport des matières dangereuses, circulation des déchets toxiques, notamment). Bien entendu, l'achèvement du Grand Marché intérieur entraînera des changements dans la manière dont les services douaniers remplissent leurs tâches, notamment dans les relations intra-communautaires. Mais la douane n'a pas d'inquiétude à avoir pour son avenir puisque l'importance de ses missions et la qualité de ses résultats dans la lutte contre la fraude, ajoutées à la motivation de ses personnels, sont ses meilleurs garants.
