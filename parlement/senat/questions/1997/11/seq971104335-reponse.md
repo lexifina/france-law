@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971104335
+
+- Question : [SEQ971104335](seq971104335.md) — Hébergement des personnes les plus démunies
+
+## Réponse
+
+*Emploi, JO du 1998-03-26, page 980*
+
+Réponse. - Quelque 15 000 places d'accueil et d'hébergement d'urgence dont 5 500 en Ile-de-France sont désormais mises à la disposition des personnes sans domicile chaque hiver. Cette capacité d'accueil est jugée suffisante. Naturellement, en cas de froid exceptionnel, des capacités supplémentaires seraient dégagées. Il convient de souligner que pour la deuxième année consécutive, la loi de finances a prévu la transformation de 500 places d'urgence en places de centre d'hébergement et de réadaptation sociale (CHRS). Pour les structures concernées, cette transformation entraîne la pérennité du financement et la possibilité de recourir à un personnel plus qualifié permettant d'améliorer l'accompagnement social des personnes en vue de leur réinsertion. En ce qui concerne le département du Rhône, 370 places sont ouvertes cet hiver. Par ailleurs, existe désormais à Lyon, comme dans de nombreuses grandes agglomérations, un dispositif de " veille sociale ". Ce dispositif mobile permet d'aller au-devant des personnes qui ne se rendent pas d'elles-mêmes dans les lieux d'hébergement. Par ailleurs, la " vie sociale " assure un rôle de coordination et de régulation de l'ensemble du dispositif d'accueil, notamment à travers la gestion du 115, le numéro d'urgence " Accueil sans abri ". Enfin, il convient d'indiquer que la ville de Lyon est confrontée actuellement à l'arrivée soudaine de plusieurs centaines de demandeurs d'asile en provenance de certains pays de l'Est. Face à cette situation dont la résorption exigera un certain délai, les pouvoirs publics ont consenti, à titre humanitaire, un effort supplémentaire exceptionnel en matière d'hébergement d'urgence pour que personne ne soit laissé à la rue en plein coeur de l'hiver.
