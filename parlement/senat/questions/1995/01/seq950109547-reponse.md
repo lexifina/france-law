@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950109547
+
+- Question : [SEQ950109547](seq950109547.md) — Développement des conseils départementaux de l'aide juridique
+
+## Réponse
+
+*Justice, JO du 1995-07-13, page 1403*
+
+Réponse. - Une des innovations majeures de la loi du 10 juillet 1991 relative à l'aide juridique est de prévoir, en son article 54, la création dans chaque département d'un " conseil départemental de l'aide juridique ", groupement d'intérêt public dont la principale mission est de déterminer et de mettre en oeuvre une politique d'aide à l'accès au droit à l'échelon local. La constitution des conseils départementaux est donc une obligation légale qui doit conduire à leur généralisation à l'ensemble du territoire national. Les modalités de cette constitution sont précisées à l'article 142 du décret du 19 décembre 1991, modifié par le décret du 8 mars 1995 : les conseils départementaux de l'aide juridique jouissent de la personnalité morale à compter de la publication au Journal officiel d'un arrêté conjoint du garde des sceaux et du ministre du budget portant approbation de la convention constitutive du groupement. L'élaboration et l'adoption de cette convention constitutive, qui comprend nécessairement un programme de financement d'actions d'aide à l'accès au droit, exige la mobilisation d'un partenariat très diversifié (professionnels du droit, collectivités publiques...), ce qui explique que le délai de mise en place des conseils soit variable selon les départements : à titre indicatif, outre les quatorze conseils départementaux constitués, une trentaine de dossiers ont été à ce jour transmis pour examen à la chancellerie. Des mesures ont été prises récemment pour faciliter et accélérer la mise en place des conseils départementaux de l'aide juridique : le décret du 8 mars 1995 ainsi qu'une circulaire qui sera prochainement diffusée dans les juridictions devraient notamment permettre de répondre à l'attente de l'Honorable parlementaire.
