@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001129499
+
+- Question : [SEQ001129499](seq001129499.md) — Projet de nouvelle liaison autoroutière de Bourges à Auxerre et à Troyes
+
+## Réponse
+
+*Équipement, JO du 2001-02-01, page 410*
+
+Réponse. - L'évolution de la réglementation communautaire, concernant le financement des infrastructures concédées ne permet plus d'utiliser la technique de l'adossement qui consistait à équilibrer financièrement la concession des nouvelles autoroutes au moyen des recettes perçues sur les anciennes sections très fréquentées. Il s'ensuit que, désormais, les projets ne présentant pas une rentabilité suffisante doivent faire l'objet d'importantes subventions d'équilibre de la part de l'Etat et des collectivités locales concernées et que ces subventions sont d'autant plus importantes que les trafics prévisibles sont potentiellement faibles. En raison justement des niveaux de trafics prévisibles à terme, le projet de liaison Bourges-Auxerre-Troyes entre dans cette catégorie. Le projet de barreau Clamecy-Avallon présente quant à lui des résultats très faibles tant au plan financier qu'au plan socio-économique. Pour cette raison, et compte tenu du projet de prolongement de l'autoroute A 19 jusqu'au nord d'Orléans, qui constitue également une liaison tangentielle au sud du bassin parisien, le principe d'une liaison autoroutière entre Bourges et Auxerre n'a pas pu être retenu dans les projets de schémas de services collectifs de transport qui viennent d'être arrêtés par le Gouvernement à l'issue de discussions interministérielles. Ces projets de schémas font actuellement l'objet des consultations prévues par la loi, notamment celles des conseils régionaux, qui pourront faire valoir leur point de vue sur les propositions de l'Etat avant le 15 avril 2001. Le Gouvernement approuvera les schémas de services collectifs par décret à l'issue de cette consultation.
