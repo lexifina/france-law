@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701778
+
+- Question : [SEQ970701778](seq970701778.md) — Sauvegarde des locaux du Muséum d'histoire naturelle
+
+## Réponse
+
+*Éducation, JO du 1997-09-25, page 2548*
+
+Réponse. - Le ministère de l'éducation nationale, de la recherche et de la technologie (direction générale de la recherche et de la technologie) a fait part au Museum national d'histoire naturelle en 1996, lors de l'élaboration du contrat biennal 1996-1997, des opérations de rénovation de l'ensemble des sites qu'il souhaitait voir traitées en priorité. Dans ce cadre, le ministère a attribué au Museum des subventions importantes pour tenir compte de ses besoins : 5 600 000 F par an au titre du chapitre 66-71 (Financement des coûts d'infrastructures) et 4 270 000 F par an au titre du chapitre 66-72 (Maintenance : clos-ouvert, sécurité et mise aux normes, restructuration de locaux). Il a été demandé au Museum de porter la priorité sur les travaux liés à la sécurité des biens et des personnes, à la conservation des collections et à leur mise en valeur. Par ailleurs, le ministère apporte son soutien financier au projet de réhabilitation des galeries de paléontologie et d'anatomie comparée élaboré par le Museum national d'histoire naturelle dans la perspective de la célébration de leur centenaire en 1998. Dans ce cadre, 3 000 000 F ont été attribués en 1996 et 4 000 000 F seront apportés au titre du budget 1997. La poursuite du financement s'inscrira dans les budgets 1998 et suivants, avec une planification au plus haut niveau de l'Etat, à la suite d'un travail de concertation interministérielle et d'un audit technique en cours de réalisation. Cet audit confié a un prestataire extérieur permettra de disposer d'une part d'un schéma directeur de mise en sécurité, d'autre part d'un schéma de restructuration et de développement des bâtiments du jardin des Plantes et de l'îlot Poliveau.
