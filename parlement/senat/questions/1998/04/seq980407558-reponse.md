@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980407558
+
+- Question : [SEQ980407558](seq980407558.md) — Situation scolaire de la ville de Pantin
+
+## Réponse
+
+*Éducation, JO du 1998-11-05, page 3540*
+
+Réponse. - La situation de la Seine-Saint-Denis étant marquée par des difficultés, il est maintenant décidé de créer effectivement 3 000 emplois nouveaux au cours des trois rentrées prochaines dans ce département. Ces moyens sont, après discussion avec l'ensemble des partenaires, répartis dans les écoles, collèges et lycées du département de la Seine-Saint-Denis. C'est dans ce contexte que des mesures sont prises, étalissement par établissement, par les autorités académiques en concertation avec les parties intéressées. Les décisions sont ensuite délibérées au sein des instances consultatives, et un comité de suivi permanent, associant les élus, permet de les rendre transparentes. Par ailleurs, conformément au respect du principe constitutionnel de la gratuité scolaire, des crédits destinés à couvrir les dépenses pédagogiques sont délégués au recteur de l'académie de Créteil, au prorata des effectifs d'élèves. En ce qui concerne les moyens en personnels administratifs, techniques, ouvriers, de service, de santé et sociaux, l'académie de Créteil est attributaire de 165 emplois créés en loi de finances 1998, auxquels s'ajoutent 10 emplois obtenus dans le cadre d'une mesure de rééquilibrage interne des dotations académiques. Elle a bénéficié par ailleurs de moyens supplémentaires au titre de la mise en uvre du plan d'urgence en faveur de la Seine-Saint-Denis. Conformément aux règles de déconcentration, la répartition des moyens au sein de l'académie relève de la compétence du recteur. Celui-ci se tient à la disposition de l'intervenante pour lui donner toutes les informations souhaitées sur le volume de la dotation attribuée aux établissements scolaires de la commune de Pantin.
