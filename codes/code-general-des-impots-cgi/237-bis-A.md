@@ -1,6 +1,6 @@
 # Article 237 bis A
 
-I Toute entreprise employant habituellement plus de 100 salariés, quelles que soient la nature de son activité et sa forme juridique, est soumise aux obligations des articles L 442-1 à L 442-14 du code du travail, destinées à garantir le droit de ses salariés à participer aux fruits de l'expansion de l'entreprise.
+I Toute entreprise employant habituellement plus de 100 salariés *effectif*, quelles que soient la nature de son activité et sa forme juridique, est soumise aux obligations des articles L 442-1 à L 442-14 du code du travail, destinées à garantir le droit de ses salariés à participer aux fruits de l'expansion de l'entreprise.
 
 Les entreprises qui ne sont pas tenues, en vertu de l'alinéa précédent, de mettre en application un régime de participation des travailleurs aux résultats de l'expansion peuvent, par accords conclus dans les conditions définies à l'article L 442-11 du code du travail, se soumettre volontairement aux dispositions des articles visés au premier alinéa.
 
@@ -10,11 +10,13 @@ II Les entreprises visées au I peuvent déduire, pour l'assiette de l'impôt su
 
 Toutefois, les sommes qui, en application de l'article L. 442-4 du code précité, n'auraient pu être mises en distribution et demeurent dans la réserve spéciale de participation ne peuvent être admises en déduction des bénéfices imposables qu'au titre des exercices au cours desquels elles seront réparties.
 
-III Les entreprises visées au I sont autorisées à constituer en franchise d'impôt, à la clôture des exercices arrêtés à compter du 1er octobre 1984, une provision pour investissement égale à 50 % du montant des sommes correspondant à la participation (2) supplémentaire attribuée en application d'accords dérogatoires de participation, portées à la réserve spéciale de participation au cours du même exercice et admises en déduction des bénéfices imposables lorsque les accords dérogatoires de participation reconduits ont été signés avant le 1er octobre 1973, et à 15 % lorsqu'ils l'ont été depuis cette date.
+III Les entreprises visées au I sont autorisées à constituer en franchise d'impôt, à la clôture des exercices arrêtés à compter du 1er octobre 1984 (2) , une provision pour investissement (3) égale à 50 % du montant des sommes correspondant à la participation (4) supplémentaire attribuée en application d'accords dérogatoires de participation, portées à la réserve spéciale de participation au cours du même exercice et admises en déduction des bénéfices imposables lorsque les accords dérogatoires de participation reconduits ont été signés avant le 1er octobre 1973, et à 15 % lorsqu'ils l'ont été depuis cette date.
 
 Les sociétés anonymes à participation ouvrière sont autorisées à constituer en franchise d'impôt, à la clôture de chaque exercice, une provision pour investissement d'un montant égal à 50 % des sommes portées à la réserve spéciale de participation au cours du même exercice et admises en déduction du bénéfice imposable. Toutefois, il est porté à 100 % pour les exercices ouverts à compter du 1er janvier 1978 et à 75 % pour les exercices clos à compter du 1er octobre 1981. Pour bénéficier de ces majorations, les entreprises concernées doivent, au titre de chaque exercice, affecter à un compte de réserve non distribuable, par prélèvement sur la réserve spéciale de participation au cours du même exercice et admises en déduction des bénéfices imposables. En cas de dissolution, la réserve provenant de cette affectation ne peut être répartie qu'entre les seuls détenteurs d'actions de travail.
 
 Conformément aux dispositions de l'article L 442-10, 3° et 4°, du code du travail, le montant de la provision pour investissement que les sociétés coopératives ouvrières de production sont autorisées à constituer à la clôture d'un exercice est au plus égal à celui des sommes portées à la réserve spéciale de participation au titre du même exercice. Les dotations à la réserve légale et au fonds de développement de ces sociétés peuvent tenir lieu, à due concurrence, de provision pour investissement.
+
+Toutefois ces dispositions ne sont pas applicables lorsqu'une société coopérative ouvrière de production fait application des dispositions prévues à l'article 26 de la loi n° 78-763 du 19 juillet 1978 (5) et qu'un ou plusieurs associés non-employés détiennent directement ou indirectement plus de la moitié de son capital.
 
 A défaut de conclusion de l'accord prévu à l'article L 442-5 du code du travail, dans le délai d'un an qui commence à courir à la clôture de l'exercice au titre duquel sont nés les droits des salariés, la provision pour investissement ne peut être constituée.
 
@@ -24,4 +26,8 @@ Dans le cas où un accord dérogatoire de participation est conclu au sein d'un 
 
 (1) Les capitaux propres résultant de la réévaluation des immobilisations non amortissables prévue à l'article 238 bis I et de la réévaluation des immobilisations amortissables prévue à l'article 238 bis J ne sont pas pris en compte pour le calcul de la participation. (Loi n° 76-1232 du 29 décembre 1976, art. 61-IV. Loi n° 77-1467 du 30 décembre 1977, art. 69-I).
 
-(2) Voir Annexe II, art. 171 bis.
+(2) Jusqu'au 1er octobre 1984 ces entreprises étaient autorisées à constituer en franchise d'impôt une provision pour investissement égale à 25 % du montant des sommes portées à la reserve spéciale de participation pour les exercices clos à compter du 1er octobre 1981 et à 12 % pour les exercices clos à compter du 1er octobre 1983.
+
+(3) Voir Annexe II, art. 171 bis.
+
+(4) Jusqu'au 1er octobre 1984 ce pourcentage était de 75 % pour les accords signés avant le 1er octobre 1973.
