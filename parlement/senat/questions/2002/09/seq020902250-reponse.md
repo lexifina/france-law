@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020902250
+
+- Question : [SEQ020902250](seq020902250.md) — Extension du décret n° 2000-657 à tous les orphelins des victimes du nazisme
+
+## Réponse
+
+*Anciens combattants, JO du 2002-11-28, page 2867*
+
+Le décret n° 2000-657 du 13 juillet 2000 a institué une mesure de réparation destinée aux personnes dont le père ou la mère a été déporté à partir de la France dans le cadre des persécutions antisémites durant l'Occupation et a trouvé la mort en déportation, alors qu'elles étaient mineures. Ces dispositions s'inscrivent dans le cadre de la mission présidée par M. Jean Matteoli que le Gouvernement d'alors a entendu suivre en prenant en compte, parmi l'ensemble des personnes ayant souffert des actes commis pendant l'Occupation, la situation particulière de celles et de ceux ayant perdu leurs parents du fait d'une politique d'extermination qui avait un caractère systématique, visait toute personne, indépendamment de ses choix et de ses engagements, du seul fait qu'elle était juive, et s'étendait même aux enfants. Le caractère particulier de ces persécutions a d'ailleurs été reconnu par le Conseil d'Etat dans une décision du 6 avril 2001. Cependant, les pouvoirs publics ne sauraient rester indifférents à la situation des autres orphelins de déportés non visés par le dispositif spécifique institué par le décret du 13 juillet 2000. C'est pourquoi l'administration s'attache à réunir les éléments d'appréciation qui permettront de définir des dispositions susceptibles d'être arrêtées dans ce domaine. De plus, le Gouvernement a décidé de confier à une personnalité, la conduite d'une concertation avec toutes les parties prenantes, afin d'identifier les solutions envisageables. Il s'agit de veiller à ce que, dans le règlement de cette douloureuse question, les considérations d'équité soient pleinement prises en compte.
