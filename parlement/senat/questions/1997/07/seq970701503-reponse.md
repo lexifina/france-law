@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701503
+
+- Question : [SEQ970701503](seq970701503.md) — Plans d'épargne-logement
+
+## Réponse
+
+*Économie, JO du 1997-10-09, page 2716*
+
+Réponse. - Au terme de la loi du 12 avril 1996, portant diverses dispositions d'ordre économique et financier, différentes mesures ont été adoptées en vue d'assouplir les règles d'utilisation de l'épargne-logement au cours de l'année 1996. La disposition prévue à l'article 24 de la loi et le décret no 96-431 du 21 mai 1996 ont ouvert la possibilité pour les souscripteurs dont les plans d'épargne-logement ont atteint une durée de deux ans et demi au moins entre le 1er janvier et le 30 septembre 1996, d'effectuer, sans pénalité, un prélèvement sur le capital épargné pour financer l'achat de biens d'équipement ménagers et de meubles ou la réalisation de travaux dans leur logement. La reconduction de cette disposition exceptionnelle n'est pas envisagée par le Gouvernement. Il importe en effet de ne pas mettre en cause les principes qui garantissent l'équilibre général du régime de l'épargne-logement et donc sa pérennité. Au titre de ces principes, le respect d'un certain délai d'attente, portant sur une période incompressible de trois années, période relativement courte au demeurant, permet à l'emprunteur de constituer une épargne. Cet effort d'épargne constitue la contrepartie de la prime d'Etat. L'équilibre du contrat entre les établissements de crédit et leurs clients au titre de ce produit repose également sur un engagement souscrit par le titulaire de maintient du dépôt des fonds. Le Gouvernement, enfin, est particulièrement attaché au respect de l'affectation du prêt d'épargne-logement au financement du logement, tel qu'il a été prévu par les articles L. 315-1 et suite du code de la construction et de l'habitation.
