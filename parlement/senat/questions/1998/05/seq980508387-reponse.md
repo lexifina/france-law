@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508387
+
+- Question : [SEQ980508387](seq980508387.md) — Situation des négociants en combustibles
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 1998-06-18, page 1972*
+
+Réponse. - Dans un contexte de conccurence particulièrement vive, 1996 a vu se confirmer la progression de la vente de fioul domestique, enregistrée en 1995, avec 20,45 millions de mètres cubes. La part de marché détenue par les négociants-revendeurs est en très légère progression à 49 %, alors que celle de la grande distribution se maintient aux alentours de 1 % ; toutefois, ce pourcentage n'inclut pas les livraisons effectuées pour le compte de certaines grandes surfaces par les négociants-revendeurs. Face à des comportements non programmables des consommateurs, variables selon la période de l'année et les conditions climatiques, les distributeurs indépendants se modernisent dans leurs techniques commerciales autant que dans leurs équipements. L'entrée récente de représentants de la profession au sein du conseil d'administration du Comité professionnel de la distribution de carburants (CPDC) devrait favoriser la mise au point d'une stratégie visant à la restructuration de la profession. Il appartient aux pouvoirs publics de veiller au développement hamonieux de toutes les formes de distribution, dans le respect des principes de la liberté d'entreprise et de la loyauté de la concurrence, et d'assurer une desserte commericale de base pour l'ensemble de la population, notamment dans les zones sensibles en déclin démographique et économique. Aussi, le secrétariat d'Etat chargé du commerce, en liaison avec le secrétariat d'Etat chargé de l'industrie, veille à la très stricte application par la grande distribution des règles en vigueur sur les conditions de stockage et la sécurité des véhicules assurant la livraison des produits.
