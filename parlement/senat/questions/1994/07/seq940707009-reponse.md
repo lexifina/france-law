@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940707009
+
+- Question : [SEQ940707009](seq940707009.md) — Situation du secteur de la bijouterie-joaillerie-orfèvrerie
+
+## Réponse
+
+*Budget, JO du 1995-01-12, page 85*
+
+Réponse. - Comme le relève l'honorable parlementaire, le secteur de la bijouterie, joaillerie, orfèvrerie est confronté à l'évolution de son environnement concurrentiel, marquée notamment par l'ouverture du marché français à des produits de titres plus bas. Le Gouvernement est très attentif à la situation de cette branche industrielle et soutiendra ses efforts d'organisation et de promotion. Il n'est pas démontré, cependant, que la création d'une taxe parafiscale constitue la réponse la plus adéquate aux problèmes que connaît ce secteur. En effet, la parafiscalité figure parmi les prélèvements obligatoires et l'institution d'une taxe nouvelle viendrait alourdir les charges qui pèsent sur les entreprises de ce secteur. D'autre part, la taxe parafiscale devrait être répercutée sur les prix des articles fabriqués par les producteurs français, et distribués en France et dans l'ensemble des pays de l'Union européenne. Par contre, cette taxe ne pourrait, en application des règles communautaires, être prélevée sur les produits fabriqués ou mis en libre pratique dans les autres Etats européens. Dans ces conditions, on peut craindre que cette mesure n'affecte la position concurrentielle de l'industrie nationale. Bien évidemment, le Gouvernement est conscient de l'intérêt que peut représenter l'organisation, par les entreprises du secteur industriel, d'actions collectives, dans le respect des règles de la concurrence, notamment lorsque la taille de ces entreprises ne leur permet pas d'agir individuellement de façon efficace. Le Gouvernement étudie les modalités envisageables de financement, par les entreprises, à l'initiative des organisations professionnelles représentatives, de programmes d'intérêt collectif.
