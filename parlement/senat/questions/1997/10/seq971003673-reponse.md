@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971003673
+
+- Question : [SEQ971003673](seq971003673.md) — Calendrier de réalisation des TGV Rhin-Rhône et Est
+
+## Réponse
+
+*Équipement, JO du 1997-12-25, page 3665*
+
+Réponse. - Le TGV-Est européen a été déclaré d'utilité publique le 14 mai 1996 par décret en Conseil d'Etat. En juillet 1997, le ministre de l'équipement, des transports et du logement a rappelé, conjointement avec la ministre de l'aménagement du territoire et de l'environnement, l'intérêt que le Gouvernement attache à la réalisation du TGV-Est, mais aussi son souci que toutes les conditions permettant sa réalisation soient réunies. Il est ainsi apparu utile, avant de lancer la phase d'avant-projet détaillé du TGV-Est, que " Réseau ferré de France " (RFF), désormais responsable du développement du réseau ferroviaire et futur maître d'ouvrage du TGV-Est, puisse prendre pleinement la mesure de ce projet, afin de pouvoir assumer ses nouvelles responsabilités. Dès que RFF sera en mesure de fournir ses conclusions sur le TGV-Est, le comité de pilotage du projet pourra se réunir de façon fructueuse. Les études d'avant-projet détaillé pourront alors commencer. Ces études permettront de disposer de tous les éléments techniques et financiers nécessaires pour préciser les conditions de réalisation du projet. D'ores et déjà, des échanges approfondis se poursuivent entre les différents ministères compétents, afin de mettre en place un plan de financement réaliste pour la première étape de ce projet. En ce qui concerne le TGV Rhin-Rhône, le dossier d'avant-projet sommaire vient d'être remis au ministre de l'équipement, des transports et du logement. Ce dossier est actuellement en cours d'instruction. Les décisions concernant la poursuite de ce projet devront tenir compte des réflexions relatives au programme TGV dans son ensemble, des possibilités de phasage du projet, et des financements qui peuvent lui être consacrés par les différents partenaires.
