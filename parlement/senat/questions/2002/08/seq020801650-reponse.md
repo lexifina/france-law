@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020801650
+
+- Question : [SEQ020801650](seq020801650.md) — Boues de stations d'épuration et procédure d'enquête publique
+
+## Réponse
+
+*Écologie, JO du 2002-09-26, page 2149*
+
+La ministre de l'écologie et du développement durable a pris connaissance, avec intérêt, de la question relative aux installations classées au titre de la protection de l'environnement (ICPE) et concernant notamment la rubrique 2170 de la nomenclature des ICPE. Cette rubrique vise en particulier les installations de compostage, notamment lorsqu'elles mettent en oeuvre des matières organiques seules ou en mélange avec des boues de stations d'épuration urbaines et dès lors que le compost obtenu est conforme aux exigences prescrites en application de la loi n° 79-595 du 13 juillet 1979. Ces installations sont effectivement soumises à déclaration lorsque la quantité quotidienne de produit fini est supérieure à 1 tonne mais inférieure à 10 tonnes. Si l'exploitant est amené à augmenter les quantités de produit fini et si cette augmentation implique que l'installation soit soumise à autorisation et non plus à déclaration, il devra déposer auprès des services de la préfecture la demande d'autorisation requise. A défaut, le préfet doit le mettre en demeure de régulariser sa situation dans un délai déterminé. Le préfet peut également, par arrêté motivé, suspendre l'exploitation de l'installation jusqu'à la prise d'une décision concernant la demande d'autorisation. Enfin, il est rappelé que les installations soumises à déclaration sous la rubrique 2170 sont réglementées par l'arrêté ministériel du 7 janvier 2002 qui fixe les prescriptions générales applicables à cette catégorie d'exploitation. Cet arrêté vise notamment à limiter l'impact de ces installations sur le voisinage, la santé et l'environnement. Si le contexte local le justifie, le préfet peut renforcer ces prescriptions par arrêté pris après avis du conseil départemental d'hygiène.
