@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920320167
+
+- Question : [SEQ920320167](seq920320167.md) — Sécurité des enfants dans les transports automobiles
+
+## Réponse
+
+*Transports, JO du 1992-06-04, page 1273*
+
+Réponse. - L'obligation générale de protection des enfants de moins de dix ans introduite par le décret n° 91-1321 du 27 décembre 1991 a pour but de préserver des vies humaines et de limiter la gravité des blessures en cas d'accident. Elle implique par conséquent une utilisation maximale et optimale des moyens de retenue disponibles à l'arrière des voitures pour tous les occupants, adultes et enfants. Toutefois, afin de prendre en compte l'équipement des véhicules et les contraintes particulières que peuvent rencontrer les organismes ou associations à caractère médical, social, culturel ou sportif ayant régulièrement à transporter des enfants, l'arrêté du 27 décembre 1991 pris en application du décret précité prévoit, en son article 2, une dispense à l'obligation d'usage des moyens de retenue quand il y a impossibilité d'installer et d'utiliser correctement des systèmes de retenue, enfants ou adultes. C'est notamment le cas lorsque le nombre de personnes transportées à l'arrière, sur une banquette ou un siège individuel, est supérieur au nombre des places effectives offertes, dépassement qui reste autorisé en application de l'article R. 124 du code de la route, qui stipule qu'un enfant de moins de dix ans compte pour une demi-personne tant que le nombre d'enfants transportés n'excède pas dix. Par ailleurs, il convient de signaler que l'usage de la seule ceinture de sécurité est suffisant si la taille de l'enfant (même âgé de moins de dix ans) est adaptée au port de ce dispositif, étant précisé que l'utilisation d'un dispositif de retenue (ceinture ou système de protection particulier pour enfant) n'est obligatoire, en dehors des cas d'exemption, qu'aux places équipées de ceinture.
