@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000927763
+
+- Question : [SEQ000927763](seq000927763.md) — Soutien aux jeunes chercheurs
+
+## Réponse
+
+*Recherche, JO du 2000-12-07, page 4155*
+
+Réponse. - Le rajeunissement de la recherche demeure une priorité du Gouvernement que les ministères de la recherche et de l'éducation nationale sont chargés de mettre en uvre. Dès le début de l'année, une étude exhaustive de la démographie des personnels chercheurs et enseignants-chercheurs a été engagée afin d'identifier les besoins en matière de renouvellement de ces personnels pour les quinze années à venir. Le rajeunissement de la recherche s'inscrit dans cette perspective. Les départs massifs à la retraite attendus au cous de la période 2004-2010 dans les établissements publics de recherche et dans les établissements d'enseignement supérieur, quoique variables d'une discipline à l'autre, sont l'occasion d'engager une politique volontariste en la matière, condition préalable et indispensable à ce rajeunissement. Le projet de budget civil de recherche et développement (BCRD) pour 2001 amorce une gestion prévisionnelle et pluriannuelle de l'emploi scientifique dans les établissements publics à caractère scientifique et technologique (EPST) en prévoyant la création de trois cent cinq emplois, dont deux cent soixante-cinq dans les EPST. Ces créations d'emplois permettent d'offrir plus de possibilités de recrutement et de débouchés dans la recherche publique aux jeunes docteurs, en évitant de les maintenir trop longtemps dans des contrats post-doctoraux. Dans l'enseignement supérieur, le projet de budget pour 2001 prévoit la création de trois cents nouveaux emplois de maîtres de conférences et de deux cent cinquante-six postes d'allocataires temporaires d'enseignement et de recherche (ATER), qui permettent d'offrir au recrutement un nombre correspondant d'emplois de maîtres de conférences.
