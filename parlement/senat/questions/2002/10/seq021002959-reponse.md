@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021002959
+
+- Question : [SEQ021002959](seq021002959.md) — Rémunération des comptes courants
+
+## Réponse
+
+*Économie, JO du 2003-01-23, page 259*
+
+L'interdiction de la rémunération des comptes à vue trouve son fondement dans l'article L. 312-3 du code monétaire et financier qui prévoit que " nonobstant toutes dispositions contraires, il est interdit à tout établissement de crédit qui reçoit du public des fonds en compte à vue ou à moins de cinq ans, et par quelque moyen que ce soit, de verser sur ces fonds une rémunération supérieure à celle fixée par règlement du Comité de la réglementation bancaire et financière ou par le ministre chargé de l'économie ". Le règlement du Comité de la réglementation bancaire et financière n° 86-13 du 14 mai 1986 aujourd'hui en vigueur, qui reprend une décision à caractère général de 1969 du Conseil national du crédit, précise que " la rémunération des comptes à vue est interdite ". La Commission bancaire, à qui il appartient de faire respecter la réglementation en vigueur en France, a décidé, le 16 avril 2002, d'interdire à CaixaBank France de conclure des conventions de compte à vue prévoyant la rémunération des sommes déposées sur ces comptes. Saisi par CaixaBank France au contentieux, le Conseil d'Etat a décidé, le 6 novembre 2002, de saisir la Cour de justice des Communautés européennes (CJCE) d'une question préjudicielle portant sur l'éventuelle non-conformité de la réglementation française interdisant les dépôts à vue avec le principe de libre-établissement prévu à l'article 43 du Traité de Rome. Dans ces conditions, les autorités françaises ont averti la Commission européenne qu'elles s'en remettent à l'avis de la CJCE qui permettra de clarifier le statut juridique de la réglementation française actuellement en vigueur.
