@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960616029
+
+- Question : [SEQ960616029](seq960616029.md) — Avenir statutaire des agents de La Poste et France Télécom
+
+## Réponse
+
+*Industrie, JO du 1996-08-22, page 2169*
+
+Réponse. - Dans le cadre d'une gestion performante des ressources humaines, il est apparu nécessaire de mettre en place à La Poste et à France Télécom un système de notation ayant pour objectif de mieux évaluer la valeur professionnelle d'un agent dans ses fonctions. Ce système repose sur un entretien annuel qui réunit le fonctionnaire et son supérieur hiérarchique alors que précédemment la notation était seulement le fait du chef de service. Cet entretien permet, d'une part, de faire le bilan de l'activité de l'année, d'autre part, d'analyser les besoins en formation qui seraient nécessaires à la tenue de l'emploi. En fin d'entretien, une note établie selon une cotation sur quatre niveaux est attribuée à l'agent. Cette procédure contradictoire autorise l'agent à formuler des observations sur sa notation à la suite de cet entretien. Ce dispositif de notation, qui est parfaitement compatible avec les dispositions statutaires de la fonction publique, est un élément de la nouvelle politique des ressources humaines de La Poste et de France Télécom qui permet de mieux garantir le droit des agents. Pour ce faire, il a été prévu qu'ils puissent demander, en cas de désaccord, une médiation sur leur notation et choisir un fonctionnaire pour participer à la réunion de cette commission. Il est à noter que le rôle des commissions administratives paritaires est totalement maintenu. Ce nouveau décret du 2 avril 1996 relatif à la notation des fonctionnaires de La Poste et de France Télécom est dérogatoire au décret du 14 février 1959 en ce qui concerne les seuls titres I et II. Le titre III demeure applicable. Ce texte statutaire ne remet pas en cause la qualité de fonctionnaire des agents concernés.
