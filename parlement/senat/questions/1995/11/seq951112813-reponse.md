@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951112813
+
+- Question : [SEQ951112813](seq951112813.md) — Politique forestière communale
+
+## Réponse
+
+*Agriculture, JO du 1996-03-07, page 517*
+
+Réponse. - L'honorable parlementaire a fait part de son inquiétude sur les dispositions du projet de loi de finances pour 1996, qui prévoyait une hausse très substantielle des frais de garderie que les communes propriétaires de forêts soumises au régime forestier versent à l'Office national des forêts. Il est à noter que ce projet laissait néanmoins à la charge de l'Etat la plus grande partie du coût de mise en oeuvre du régime forestier. Le Gouvernement a été sensible aux réactions des maires concernés, ainsi qu'aux arguments de la Fédération nationale des communes forestières. C'est pourquoi il a lui-même proposé au Parlement de limiter la réévaluation du taux des frais de garderie de 12 p. 100 en régime normal et à 10 p. 100 en zone de montagne. Cette solution de compromis conduit le ministère de l'agriculture, de la pêche et de l'alimentation à effectuer un redéploiement budgétaire à hauteur de 80 millions de francs. La contribution des communes concernées aux frais de garderie restera ainsi raisonnable. Cette révision profonde des dispositions qui figuraient dans la première version du projet de loi de finances pour 1996 conduit néanmoins à faire supporter au budget de l'Office national des forêts une charge financière supplémentaire très conséquente, qui conduira à mobiliser une partie des réserves de cet établissement. Cette situation ne peut être que conjoncturelle. Le ministre de l'économie et des finances s'est engagé devant le Parlement à trouver une ressource supplémentaire et pérenne pour permettre à l'Office national des forêts de continuer à assurer la mise en oeuvre du régime forestier auquel le Gouvernement attache une grande importance, dans les conditions prévues par la loi.
