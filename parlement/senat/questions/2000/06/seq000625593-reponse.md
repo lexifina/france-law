@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000625593
+
+- Question : [SEQ000625593](seq000625593.md) — Formation des pilotes de ligne
+
+## Réponse
+
+*Équipement, JO du 2000-08-10, page 2844*
+
+Réponse. - Les épreuves théoriques de la nouvelle licence de pilote de ligne et la banque de questions constituée à cet effet ont été établies par l'ensemble des autorités aéronautiques européennes. Trois sessions de ce nouvel examen ont été réalisées en France, en septembre 1999 en décembre 1999 et en mars 2000. A la suite des épreuves du mois de mars, de nombreuses réclamations et de vives critiques ont été reçues, formulées par les écoles et les candidats. Des réunions entre le jury d'examen et les instructeurs des écoles ont été immédiatement organisées pour revoir en détail chacune des sept cents questions posées lors des épreuves. A l'issue de cet examen, plusieurs constats ont pu être dressés, d'un commun accord entre l'administration et les écoles. Quelques questions litigieuses ont été identifiées dans chaque épreuve (erreurs de syntaxe ou d'orthographe, ambiguïtés). Elles ont été neutralisées lors de la correction. Le pourcentage de questions valables demeure largement suffisant pour que les épreuves soient significatives. Les sujets d'examen ont été jugés d'une difficulté raisonnable. En revanche, le temps imparti a été jugé trop faible ; il sera, en accord avec nos partenaires européens, augmenté de 20 % lors des prochaines sessions. Les formations devront être améliorées ; le temps de formation et le travail individuel ont souvent été insuffisants compte tenu du niveau de culture générale scientifique des candidats, qui s'est révélé faible. De plus, les objectifs de connaissance qui avaient été distribués aux écoles en marge du programme proprement dit ont été insuffisamment pris en compte. Ces améliorations devraient mettre rapidement fin aux difficultés de la période transitoire, inévitables dès lors que l'on met en place un nouvel examen.
