@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021104087
+
+- Question : [SEQ021104087](seq021104087.md) — Fermeture du secteur de la DGCCRF de Boulogne-sur-Mer
+
+## Réponse
+
+*Économie, JO du 2004-11-04, page 2527*
+
+La réorganisation de la direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) engagée au plan national depuis 2001 vise à regrouper ses structures infra-départementales aux chefs-lieux de département. L'examen de ces structures (entre 1 et 16 agents) a en effet montré un fractionnement exagéré de l'effectif de la direction, une présence excessive de postes de sédentaires et l'existence de dédoublements fonctionnels. Ce mouvement a pour objectif d'améliorer l'efficacité de la direction en tant que service d'enquête et de contrôle et donc de réorienter ses moyens humains sur le terrain. Même si elle peut être amenée à recevoir occasionnellement du public, il ne s'agit pas d'une administration de guichet. Lors des comités techniques paritaires ministériels (CTPM) des 15 et 28 juin 2004, le ministre d'Etat a réaffirmé le bien-fondé de cette réforme et la nécessité de la poursuivre. La mesure ne consiste pas en un désengagement de la direction des zones concernées. Bien au contraire, elle est l'occasion de mettre en place de nouvelles méthodes' de travail notamment par l'expérimentation du travail à distance avec une meilleure utilisation des nouvelles technologies de l'information et de la communication. S'agissant spécifiquement du secteur de Boulogne-sur-Mer, le ministre d'Etat a demandé que des mesures d'adaptation spécifiques soient prises en raison de sa situation portuaire et de l'activité économique de la zone. L'implantation immobilière sera préservée. Les liens avec la direction à Arras seront simplement renforcés pour une meilleure cohésion du fonctionnement des services de la DGCCRF dans le département.
