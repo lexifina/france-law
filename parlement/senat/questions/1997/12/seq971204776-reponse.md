@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971204776
+
+- Question : [SEQ971204776](seq971204776.md) — Spécificité du régime local de sécurité sociale des départements d'Alsace-Moselle et fonction publique territoriale
+
+## Réponse
+
+*Économie, JO du 1998-02-19, page 573*
+
+Réponse. - L'article R.523-2 du code de la mutualité prévoit que l'Etat peut accorder aux mutuelles constituées entre les fonctionnaires, agents et employés de l'Etat et des établissements publics nationaux des subventions destinées notamment à développer leur action sociale et - dans des conditions fixées par arrêté - à participer à la couverture des risques sociaux assurée par ces mutuelles. Ce subventionnement de l'Etat est plafonné à 25 % des cotisations versées par les membres participants sans pouvoir excéder le tiers des charges entraînées par le service des prestations qui sont allouées aux intéressés. De plus, il s'agit d'une participation au fonctionnement de la mutuelle et non d'une prise en charge directe des cotisations. S'agissant des agents des collectivités territoriales, les dispositions de l'article R. 523-2 du code de la mutualité leur ont été étendues par circulaire du ministre de l'intérieur no B-93 00063 C du 5 mars 1993. Ce texte précise que l'intervention des collectivités territoriales doit revêtir la même forme que pour l'Etat. Elle ne peut en aucun cas se traduire par une prise en charge directe des cotisations qui incombent aux fonctionnaires territoriaux adhérents à une mutuelle. Ces dispositions sont applicables à l'ensemble des départements. Toutefois, en application de l'article 111 de la loi no 84-53 du 26 janvier 1984, les agents de collectivités territoriales peuvent bénéficier du maintien des avantages ayant le caractère de complément de rémunération lorsqu'ils ont été acquis collectivement par l'intermédiaire d'organismes à vocation sociale et sous réserve que ces avantages aient été obtenus avant l'entrée en vigueur de ladite loi.
