@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960213620
+
+- Question : [SEQ960213620](seq960213620.md) — Difficultés de Renault Véhicules Industriels à Limoges
+
+## Réponse
+
+*Défense, JO du 1996-05-23, page 1260*
+
+Réponse. - Les retards constatés dans la remotorisation du char AMX 30 B2 par le moteur RVI E9 résultent de problèmes techniques. En effet, lors des premiers essais, des incidents liés à une dimension inadaptée d'un palier de l'arbre à cames du moteur sont apparus. En outre, l'insuffisance du " frein moteur " (RVI E9) par rapport au moteur d'origine (RVI HS110) a été constatée et nécessite l'adoption d'un dispositif supplémentaire. Ce dispositif est actuellement en phase finale de qualification. Toutefois, la négociation du marché d'industrialisation et de série est terminée. Ce marché, qui comporte une tranche ferme de 60 moteurs et quatre tranches conditionnelles de 110 moteurs chacune pour un montant global estimé à 500 millions de francs, a été transmis à la société Renault Véhicules Industriels (RVI) et à GIAT industrie pour signature, Ce contrat prévoit que les premières livraisons interviendront quatorze mois après notification du marché, avec possibilité de livraison anticipée de trois mois. S'agissant de la rénovation de près de la moitié de l'actuel parc de camions tactiques GBC 8KT, cette opération complexe nécessite un engagement financier important estimé à plusieurs milliards de francs. Afin d'engager cette opération de rénovation pour le long terme, les organismes en charge de ce dossier travaillent actuellement pour lever toutes les dernières incertitudes. Par ailleurs, le ministre de la défense informe l'honorable parlementaire que la société RVI est redevenue, en 1995, bénéficiaire et qu'elle réalise moins de 7 p. 100 de son chiffre d'affaires dans les activités militaires.
