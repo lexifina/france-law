@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911118407
+
+- Question : [SEQ911118407](seq911118407.md) — Fonctionnement du service de santé scolaire en Moselle
+
+## Réponse
+
+*Éducation, JO du 1992-04-16, page 945*
+
+Réponse. - Aux termes de la circulaire n° 91-148 du 24 juin 1991, le service de la médecine scolaire, dont le transfert au ministère de l'éducation nationale est intervenu le 1er janvier 1991, fonctionne désormais en étroite symbiose avec le service infirmier, au sein du service de promotion de la santé en faveur des élèves, placé sous l'autorité du recteur d'académie. Cette nouvelle organisation, qui permet de mener les actions de santé en instaurant une meilleure complémentarité fonctionnelle entre les personnels médicaux et para-médicaux, n'a pas eu d'incidence sur le volume des moyens dont disposait le département de la Moselle antérieurement au transfert du 1er janvier 1991. En ce qui concerne les locaux, il convient de rappeler que les services départementaux de santé scolaire ont été transférés au ministère de l'éducation nationale le 1er janvier 1985. Un certain nombre d'entre eux - notamment celui de la Moselle - sont logés par les directions départementales de l'action sanitaire et sociale qui les hébergeaient avant le transfert. Le ministère de l'éducation nationale s'efforce cependant, dans la limite de ses possibilités budgétaires, de reloger ces services, soit en les accueillant dans les locaux des inspections académiques, soit en prenant à bail des locaux avoisinants ; en tout état de cause, la charge financière est supportée par le budget de l'état. Enfin, une subvention est versée aux communes qui assurent, conformément aux dispositions de l'ordonnance n° 45-2407 du 18 octobre 1945 et du décret n° 46-2698 du 26 novembre 1946, l'hébergement des centres médico-scolaires.
