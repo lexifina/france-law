@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030406952
+
+- Question : [SEQ030406952](seq030406952.md) — Certificat d'aptitude de professeur de danse et de musique
+
+## Réponse
+
+*Culture, JO du 2003-08-21, page 2611*
+
+Un nouveau cadre du certificat d'aptitude aux fonctions de professeur de musique et de professeur de danse a été institué par deux arrêtés du 17 avril et du 11 juillet 2001, modifiant les modalités d'accès aux examens et, pour le certificat d'aptitude de professeur de danse, les contenus des épreuves d'admissibilité et d'admission. Le ministère de la culture, très soucieux de reconnaître les acquis professionnels des artistes chorégraphiques, a facilité l'accès au diplôme du certificat d'aptitude par la voie de la formation continue. Une formation diplômante d'une durée de 120 heures a été mise en place dès le mois de janvier 2003. Elle s'adresse aux interprètes ayant exercé au moins cinq années au sein du ballet de l'Opéra national de Paris, des ballets de la Réunion des théâtres lyriques de France ou encore au sein des centres chorégraphiques nationaux. Les candidats, quel que soit le dispositif (examen sur épreuves ou examen à l'issue d'une formation diplômante), sont évalués prioritairement sur leur aptitude à transmettre la danse. Dans le cadre d'une formation diplômante, l'ensemble du processus de formation est évalué, ce qui conduit à concevoir des épreuves d'évaluation finale adaptées qui ne peuvent être identiques en tout point à un dispositif d'examen sur épreuve. L'annulation de l'examen qui s'est terminé en avril 2003 porterait un grave préjudice aux vingt-deux candidats qui ont obtenu ce diplôme et mettrait en jeu la responsabilité de l'État elle n'a aucune raison d'être ni fondement juridique. En ce qui concerne les épreuves finales de la formation diplômante, elles seront mises en place selon le calendrier initialement prévu - calendrier qui a été présenté aux candidats.
