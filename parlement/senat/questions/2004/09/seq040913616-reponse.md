@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040913616
+
+- Question : [SEQ040913616](seq040913616.md) — Programme nucléaire militaire iranien
+
+## Réponse
+
+*Affaires étrangères, JO du 2005-01-27, page 219*
+
+La France a depuis deux ans, avec le gouvernement britannique, le gouvernement allemand et le soutien de l'Union européenne, lancé un processus diplomatique qui vise à restaurer la confiance de la communauté internationale dans la nature pacifique du programme nucléaire iranien. Les trois Européens sont parvenus le 15 novembre 2004 à Paris, après une négociation difficile, à un accord avec l'Iran. L'accord de Paris répond à l'objectif qu'ils s'étaient fixé. En effet, conformément à cet accord, l'Iran a suspendu l'ensemble de ses activités liées à l'enrichissement et au retraitement. Le directeur général de l'AEIA a vérifié que cette suspension était complète et continuera à le faire. Un nouveau cycle de négociations a été lancé avec l'Iran le 13 décembre dernier. Elles seront conduites dans le respect de la lettre et de l'esprit de l'accord du 15 novembre. Elles ont pour objet et pour finalité de donner à la communauté internationale les garanties objectives que le programme nucléaire iranien a une finalité exclusivement pacifique. Le maintien de la suspension des activités dangereuses de l'Iran aussi longtemps que doivent durer ces négociations est essentiel pour permettre la poursuite de ce processus. Si le processus qui a été lancé le 13 décembre est conduit dans un esprit de responsabilité, il pourra aboutir à une solution négociée qui est notre intérêt commun. C'est seulement sur ces bases, et une fois restaurée la confiance de la communauté internationale dans la nature pacifique du programme nucléaire iranien, que pourra être développée une relation forte entre l'Europe et l'Iran.
