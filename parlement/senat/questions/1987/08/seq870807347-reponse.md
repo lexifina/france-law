@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870807347
+
+- Question : [SEQ870807347](seq870807347.md) — Réorganisation du ministère : conséquences
+
+## Réponse
+
+*Agriculture, JO du 1987-10-22, page 1672*
+
+Réponse. -Le texte récent - décret n° 87-86 du 10 février 1987 - qui a porté organisation de l'administration centrale du ministère de l'agriculture n'a pas remis en cause l'organisation de ses services extérieurs intervenue par les décrets du 28 décembre 1984, la direction des exploitations, de la politique sociale et de l'emploi ayant repris l'intégralité des compétences de la direction des affaires sociales. Ainsi, les services régionaux et départementaux de l'inspection du travail, de l'emploi et de la politique sociale agricoles sont, depuis maintenant bientôt trois ans, des services des directions régionales ou départementales de l'agriculture et de la forêt. Les textes portant organisation de ces directions rappellent, dans le respect des dispositions de la convention internationale concernant l'inspection du travail dans l'agriculture, que les missions d'inspection et de contrôle de la législation du travail restent des missions spécifiques relevant uniquement des corps de fonctionnaires habilités à cet effet - inspection du travail et contrôle des lois sociales en agriculture. Actuellement, il existe des dispositions législatives et réglementaires propres aux ressortissants agricoles en matière de droit du travail et de protection sociale. Dans le cadre des structures administratives rappelées ci-dessus, les services de l'inspection du travail, de l'emploi et de la politique sociale agricoles sont plus spécialement chargés du contrôle de l'application de ces dispositions. Il est évident que tant que celles-ci seront maintenues, nonobstant les adaptations rendues nécessaires par le contexte économique et social, il ne saurait être envisagé de remettre en cause l'existence même de ces services.
