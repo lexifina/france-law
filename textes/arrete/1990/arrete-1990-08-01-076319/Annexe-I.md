@@ -88,4 +88,8 @@ Stages complémentaires aux stages d'approfondissement :
 
 A partir de la deuxième année, les stages d'imagerie devront comporter 150 heures de garde.
 
-Stage à temps plein de 3e année. 429 heures dont un retour à l'école d'une durée de trente-neuf heures. Ce stage doit être terminé pour le 15 mai. Il s'effectue dans une ou deux disciplines et se déroule dans un ou plusieurs services ou terrains de stages agréés par période minimum de quatre semaines.
+Stage à temps plein de 3e année. 429 heures, dont un retour à l'école d'une durée de trente-neuf heures. Ce stage s'achève avant le début des épreuves du diplôme d'Etat. Il s'effectue dans une ou deux disciplines et se déroule dans un ou plusieurs services ou terrains de stages agréés par période minimum de quatre semaines.
+
+NOTA :
+
+[ Arrêté du 7 février 1995 art. 35 : Les dispositions du présent arrêté sont applicables aux élèves en formation à sa date de publication.
