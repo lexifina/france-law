@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960214218
+
+- Question : [SEQ960214218](seq960214218.md) — Regroupements pédagogiques intercommunaux
+
+## Réponse
+
+*Éducation, JO du 1996-05-16, page 1200*
+
+Réponse. - Le regroupement pédagogique intercommunal (RPI) est une structure pédagogique d'enseignement dont l'existence repose sur un accord contractuel entre communes, fixant notamment les conditions de répartition des charges des écoles regroupées. L'inspecteur d'académie est consulté et associé à cet accord dont la mise en oeuvre est conditionnée par les possibilités d'affectation d'emplois. L'article 13-I de la loi du 22 juillet 1983 modifiée met les écoles à la charge des communes, en particulier leur construction, leur équipement et leur fonctionnement, à l'exception de la rémunération du personnel enseignant qui est à la charge de l'Etat. Dans le cadre d'un RPI, ces dépenses sont réparties entre les communes selon les termes de l'accord conclu. La mise en plac de RPI a par ailleurs une incidence sur l'organisation des transports scolaires, qui relèvent de la compétence des conseils généraux. Les élèves sont regroupés soit par niveau scolaire sur plusieurs sites (RPI dispersé), soit tous niveaux sur un même site (RPI concentré), la première formule, appliquée dans 81 p 100 des cas, permettant de continuer à utiliser les locaux scolaires de chaque commune. EN 1994-1995, on dénombrait 4 375 RPI en France (métropole et départements d'outre-mer), répartis dans presque tous les départements et regroupant environ 6 p 100 des enfants scolarisés. Une commune sur trois participe aujourd'hui à un RPI. Cette structure permet aux communes associées de regrouper les effectifs d'enfants à scolariser et de les accueillir dans de meilleures conditions. La mise en commun des moyens et des équipements permet en effet d'offrir aux enfants des zones rurales des prestations de qualité équivalente à celles des enfants des zones urbaines.
