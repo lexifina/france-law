@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970220853
+
+- Question : [SEQ970220853](seq970220853.md) — Conduite des tracteurs de plus de 3,5 tonnes par les agriculteurs
+
+## Réponse
+
+*Équipement, JO du 1997-04-17, page 1195*
+
+Réponse. - En règle générale, la conduite des véhicules automobiles nécessite de la part du conducteur la possession d'un permis dont la catégorie est définie à l'article R. 124 du code de la route. Echappent à cette obligation les agriculteurs utilisant un tracteur agricole ou forestier tel que défini au titre III (art. R. 138-A-1, 1, 2 et B) du code de la route, lorsque ce matériel est attaché à une exploitation agricole, à une entreprise de travaux agricoles ou à une coopérative d'utilisation de matériel agricole (CUMA). En revanche, si les véhicules ne sont pas attachés à une exploitation de ce type, et de plus s'ils ne sont pas utlisés dans le cadre exclusif de l'exercice d'activités agricoles, leurs conducteurs doivent être titulaires d'un permis de la catégorie B, C ou E(C) suivant le poids total autorisé du véhicule (art. R. 167-2 du même code). Il n'est pas envisagé de revenir sur ces dispositions prises en faveur des exploitants agricoles et qui s'expliquent par le fait que l'utilisation de ces engins avaient essentiellement lieu dans les champs et assez peu sur le domaine public. Enfin, il n'est pas possible de prévoir des dérogations supplémentaires à la réglementation actuellement en vigueur, dans la mesure où tous les états membres de l'Union européenne ont élaboré, puis adopté, une directive fixant de manière précise les conditions de délivrance et de validité des permis de conduire, sans possibilité d'y déroger. En particulier, il n'est pas envisageable de déroger aux catégories de permis et d'accorder le droit de conduire des véhicules d'un poids excédant 3,5 tonnes sous couvert de la seule catégorie B.
