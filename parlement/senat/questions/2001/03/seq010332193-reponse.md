@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010332193
+
+- Question : [SEQ010332193](seq010332193.md) — Maintien de la maison d'arrêt de Compiègne
+
+## Réponse
+
+*Justice, JO du 2001-11-22, page 3718*
+
+La garde des sceaux, ministre de la justice, porte à la connaissance de l'honorable parlementaire qu'en raison de la vétusté et de l'inadaptation du centre de détention de Liancourt aux normes actuelles de prise en charge de la population pénale, la construction d'un nouvel établissement pénitentiaire a été décidée sur le territoire de cette commune. Cet établissement, dont la livraison est prévue fin 2003, sera un centre pénitentiaire de 600 places, qui comportera 420 places de centre de détention hommes, 150 places de maison d'arrêt hommes, 20 places pour les mineurs et 10 places d'accueil. Le quartier centre de détention accueillera les détenus incarcérés au centre de détention de Liancourt actuel, le quartier maison d'arrêt recevra les personnes placées en détention provisoire par le tribunal de grande instance de Senlis. Par ailleurs, dix milliards de francs seront dégagés sur six ans dans le cadre des lois de finances successives pour la mise à niveau du parc immobilier pénitentiaire, un milliard étant d'ores et déjà inscrit au budget du ministère de la justice au titre de l'exercice 2001. Ces ressources permettront le lancement sur six années de la mise aux normes de l'encellulement individuel et de la rénovation de l'ensemble des petits et moyens établissements pénitentiaires, soit dans le cadre d'opérations de réhabilitation de l'existant, soit par la reconstruction d'établissements ne pouvant être adaptés aux besoins actuels. S'agissant de la maison d'arrêt de Compiègne, son devenir sera examiné dans le cadre des études techniques afférentes à ce programme et à la réflexion en cours sur la carte pénitentiaire.
