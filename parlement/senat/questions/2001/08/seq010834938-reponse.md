@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010834938
+
+- Question : [SEQ010834938](seq010834938.md) — Retraite mutualiste du combattant
+
+## Réponse
+
+*Anciens combattants, JO du 2001-11-01, page 3457*
+
+Le mécanisme d'indexation du " plafond majorable " de la retraite mutualiste du combattant n'est plus, depuis 1998, fondé sur l'inflation mais sur l'évolution de la valeur du point de pension militaire d'invalidité. Cette valeur intègre, non seulement l'inflation des prix, mais toutes les améliorations salariales dont bénéficient les fonctionnaires. La loi de finances pour 1998 a en effet permis de modifier le mécanisme d'indexation du plafond majorable par l'Etat de cette prestation, dès lors déterminé par un nombre de points de pension et bénéficiant donc du " rapport constant ". Ce mécanisme est donc nettement plus favorable qu'une simple compensation de l'érosion monétaire. En outre, un plan de revalorisation de ce plafond a été engagé, par tranche de 5 points de pension militaire d'invalidité, rehaussant sensiblement celui-ci sur quatre ans puisque, initialement fixé à 95 points d'indice, il a été porté successivement à 100, 105 puis 110 points par les lois de finances pour 1999, 2000 et 2001. Compte tenu de ces différentes mesures et de l'évolution du point de pension militaire d'invalidité, la valeur du plafond est ainsi passé de 7 091 francs (1 081,02 euros) au 1er janvier 1997 à 9 056,30 francs (1 380,62 euros) au 1er mai 2001, soit une augmentation de 27,72 %. Poursuivant cet effort de réévaluation, le secrétaire d'Etat à la défense chargé des anciens combattants est actuellement en mesure de faire savoir qu'un nouveau relèvement du plafond majorable de la retraite mutualiste du combattant devrait intervenir dans le cadre de la loi de finances pour 2002. Aucun engagement n'a été pris par le Gouvernement quant à porter ce plafond à 10 000 francs (1 524,49 euros) d'ici à 2003. Toutefois, le plafond proposé avoisine de très près le montant revendiqué.
