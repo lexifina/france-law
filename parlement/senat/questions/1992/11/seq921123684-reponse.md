@@ -1,0 +1,9 @@
+# Réponse à la question SEQ921123684
+
+- Question : [SEQ921123684](seq921123684.md) — Réforme du commissariat à l'énergie atomique
+
+## Réponse
+
+*Industrie, JO du 1993-03-25, page 529*
+
+Réponse. - La réflexion menée par les ministères de la recherche, de la défense et de l'industrie sur l'évolution des structures et des missions du Commissariat à l'énergie atomique (CEA) a abouti à la définition d'orientations qui ont été présentées à l'administrateur général dans une lettre de mission le 24 septembre 1992. Les priorités retenues sont notamment : renforcer les efforts de recherche et de développement sur les thèmes essentiels pour l'avenir de l'énergie nucléaire : la faisabilité de l'enrichissement de l'uranium par laser, le développement des nouveaux réacteurs, l'amélioration des solutions aux problèmes posés par la fin du cycle, notamment en matière de gestion des déchets radioactifs en conformité avec la loi du 30 décembre 1991 ; poursuivre les efforts de recherche sur la sûreté et la protection des personnes ; développer des synergies plus efficaces entre les compétences civiles et militaires au sein du CEA ; intensifier, pour la recherche hors nucléaire, les coopérations avec les autres organismes de recherche, voire procéder à des regroupements lorsque le CEA ne dispose pas d'un savoir-faire spécifique ; améliorer l'efficacité en réduisant les coûts et notamment les charges de structure. Le CEA a entrepris l'analyse détaillée et la hiérarchisation de ses programmes. Cette étude, fondée sur une segmentation par thème et par compétence devrait être achevée à la fin du premier trimestre 1993. C'est donc au printemps 1993 que le CEA sera en mesure de présenter aux pouvoirs publics l'ensemble des moyens et des méthodes qu'il entend mettre en oeuvre pour répondre aux orientations définies par ceux-ci.
