@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880700915
+
+- Question : [SEQ880700915](seq880700915.md) — Installation d'un scanner à l'hôpital de Nanterre (Hauts-de-Seine)
+
+## Réponse
+
+*Solidarité, JO du 1989-03-23, page 500*
+
+Réponse. - L'honorable parlementaire attire l'attention de M. le ministre de la solidarité, de la santé et de la protection sociale, porte-parole du Gouvernement, sur les difficultés résultant de l'absence d'un scanographe à l'hôpital de la maison de Nanterre. Il convient tout d'abord de noter que le statut de l'établissement vient d'être modifié par voie législative. En application de la loi n° 89-18 du 13 janvier 1989 portant diverses mesures d'ordre social, la " maison de Nanterre " est désormais dénommée " centre d'accueil et de soins hospitaliers " et devient un établissement public de la ville de Paris à caractère social et sanitaire. En tant qu'établissement participant au service public hospitalier, il relève de la loi n° 70-1318 du 31 décembre 1970 portant réforme hospitalière. En application de la réglementation relative aux équipements matériels lourds, la demande de l'établissement doit s'apprécier en fonction des besoins exprimés au niveau de la région sanitaire d'Ile-de-France. Or ces besoins sont actuellement largement couverts par quatre-vingt-quatre scanographes autorisés, soit un appareil pour 119 919 habitants. Une enquête conduite sur l'activité des scanographes en fonctionnement au 31 décembre 1987 a permis d'établir que le nombre moyen d'examens par appareil dans cette région sanitaire a été, en 1987, de 5 612 pour quarante-cinq équipements alors installés. Depuis cette date, trois appareils ont été autorisés dans le département des Hauts-de-Seine qui dispose globalement à ce jour de treize scanographes. Les besoins de ce département sont donc, eux aussi, largement couverts.
