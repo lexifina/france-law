@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951012512
+
+- Question : [SEQ951012512](seq951012512.md) — Machines à sous
+
+## Réponse
+
+*Intérieur, JO du 1995-12-07, page 2274*
+
+Réponse. - Il apparaît opportun de préciser que l'expression " machines à sous " reçoit plusieurs acceptions. En l'état du droit, les appareils de jeux dits " machines à sous " ne peuvent donner lieu à une exploitation que dans les casinos, spécialement autorisés par le ministre de l'intérieur, après avis de la commission supérieure des jeux. En revanche, dans une acception large, des machines à sous ont posé de nombreux problèmes. En effet, des appareils légalisés sous l'appellation de " distributeurs de confiseries " ont en réalité été détournés de cette vocation pour être utilisés comme de véritables machines à sous, et il est apparu que les " confiseries " étaient fréquemment utilisées comme monnaie d'échange, dans le cadre de conventions tacites entre joueurs et exploitants. Le recours à de tels procédés constituait, de toute évidence, des menaces graves pour l'ordre public. Aussi a-t-il été décidé de mettre fin à de telles pratiques. Tel fut l'objet de la loi no 95-73 du 21 janvier 1995 qui a mis fin à la dérogation dont bénéficiaient les " distributeurs de confiseries ". Ce régime a suscité des réactions de la part de professionnels en jeux automatiques, qui ont soumis des projets visant à légaliser des machines à mises et gains limités communément appelées " machines douces ". Ces propositions donnent lieu à expertise technique ; surtout, elles sont analysées au regard des troubles susceptibles d'être portés à l'ordre public à l'instar de ce qui a pu être observé s'agissant des distributeurs de confiseries. Il peut être d'ores et déjà précisé à l'honorable parlementaire que l'hypothèse de toute dérogation, même minime, à la nouvelle législation ne pourrait être envisagée que par voie législative.
