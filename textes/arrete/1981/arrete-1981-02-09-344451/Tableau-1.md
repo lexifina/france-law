@@ -34,7 +34,7 @@ I
 
 |
 
-Centre de formation à la gestion des ressources humaines |
+Centre de formation au management du ministère de la défense |
 
 I
 

@@ -172,6 +172,18 @@ III
 
 |
 
+Préparation au concours d'accès au corps des préparateurs en pharmacie civils du service de santé des armées |
+
+III
+
+|
+
+Préparation à l'examen professionnel pour l'accès au grade de préparateur en pharmacie civil du service de santé des armées de classe fonctionnelle |
+
+III
+
+|
+
 Préparation à l'examen professionnel de technicien de classe supérieure |
 
 III
