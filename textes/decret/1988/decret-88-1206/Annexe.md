@@ -126,11 +126,7 @@ Affinage de huit semaines à compter de la date de fabrication.
 
 Chevrotin :
 
-Lait de chèvre. Pâte légèrement pressée, obtenue par coagulation essentiellement présure ; croûte de couleur jaune orangé à gris avec moisissures superficielles. Forme cylindrique, 250 grammes au moins :
-
-45, 45 %.
-
-Affinage de huit semaines à compter de la date de fabrication.
+*abrogé*
 
 Crottin :
 
@@ -149,3 +145,7 @@ Valençay ou Levroux :
 Lait de chèvre. Pâte molle obtenue par coagulation principalement lactique, non cuite, légèrement salée, avec moisissures superficielles. Forme d'un tronc de pyramide à base carrée de 6,5 cm de côté : 45, 90 grammes par pièce.
 
 Si le fromage a été lavé, il doit comporter une croûte jaune.
+
+NOTA :
+
+NOTA : Décret 2007-628 2007-04-27 art. 27 : La partie de cette annexe relative au gruyère est abrogée à compter du 29 avril 2007.
