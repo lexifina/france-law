@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900811242
+
+- Question : [SEQ900811242](seq900811242.md) — Harmonisation du régime assurance-maladie du commerce et de l'industrie entre les différents adhérents
+
+## Réponse
+
+*Affaires sociales, JO du 1990-12-20, page 2690*
+
+Réponse. - Les organismes privés de protection sociale complémentaire fixent librement le degré de solidarité qu'ils entendent mettre en oeuvre au profit de leurs adhérents, compte tenu d'un équilibre technique et financier dont ils sont responsables. En ce qui concerne notamment les mutuelles, les pratiques évoquées (modulation du taux de couverture selon l'organisme assureur, modulation du taux de cotisation par tranche d'âge, fixation d'un âge limite à l'adhésion) sont des dispositions statutaires votées par l'assemblée générale des adhérents et soumises au contrôle des pouvoirs publics qui s'exerce dans l'intérêt des adhérents et conformément aux critères juridiques et financiers du code de la mutualité ; sur un plan général, ces pratiques ne peuvent donc être considérées comme des discriminations illégales ou remettant en cause le principe fondamental de solidarité. Des instructions précises ont d'ailleurs été rappelées récemment aux autorités compétentes et aux mutuelles afin d'éviter toute dérive, notamment dans l'application de la possibilité légale de modulation des cotisations. Par ailleurs, le maintien de la couverture complémentaire des retraités ayant adhéré avant l'âge limite éventuellement fixé dans les statuts ou contrats est rendu obligatoire par les dispositions de la loi n° 89-1009 du 31 décembre 1989, qui s'applique à tous les organismes de protection sociale complémentaire. Ce texte récent a en effet pour objectif de généraliser à l'ensemble du secteur les règles de transparence, de sécurité et de solidarité déjà largement mises en oeuvre notamment dans les mutuelles.
