@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960716599
+
+- Question : [SEQ960716599](seq960716599.md) — Remboursement de l'allocation supplémentaire de vieillesse après le décès de son bénéficiaire
+
+## Réponse
+
+*Travail, JO du 1997-02-06, page 396*
+
+Réponse. - L'allocation supplémentaire du fonds de solidarité vieillesse est une prestation non contributive, c'est-à-dire servie sans contrepartie de cotisations. Destinée à procurer aux personnes âgées de plus de soixante-cinq ans (soixante ans en cas d'inaptitude au travail) les plus démunies un minimum de ressources, son versement représente un effort très important de la solidarité nationale financé par des ressources de nature fiscale, notamment par la contribution sociale généralisée, à hauteur de 14,5 milliards de francs en 1995. La récupération des arrérages de l'allocation supplémentaire sur la succession de l'allocataire décédé constitue l'expression légitime de la solidarité familiale. Encore ce principe connaît-il des assouplissements conséquents : d'une part, le recouvrement des arrérages sur la part de succession attribuée au conjoint survivant peut être différée jusqu'au décès de ce dernier et, d'autre part, la récupération est limitée à la part de l'actif net successoral excédant 250 000 francs. Il convient de signaler que l'application de cette règle d'exonération du recouvrement sur succession aboutit à ne récupérer que 3,2 % du montant total des arrérages servis au titre de l'allocation supplémentaire. En 1994, le nombre de récupérations, totales ou partielles, s'est limité à 3 790 pour plus d'un million de bénéficiaires de l'allocation supplémentaire. Le seuil de 250 000 francs dispense donc actuellement la majeure partie des familles des allocataires décédés du recouvrement sur la succession desdits allocataires. Dans ces conditions, il n'est pas envisagé de modifier ces règles.
