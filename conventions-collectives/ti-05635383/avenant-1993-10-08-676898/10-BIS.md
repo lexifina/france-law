@@ -6,17 +6,17 @@ A. Les salariés ne relevant pas des articles 4 et 4 bis de la convention collec
 
 - participant sans enfant à charge :
 
-- célibataire, veuf, divorcé : 115 % ;
+- célibataire, veuf, divorcé : 115 %
 
-- marié : 180 % ;
+- marié, personne titulaire d'un PACS ou concubin, au sens des articles 515-1 et suivants et 515-8 du code civil : 180 %
 
-- majoration par enfant supplémentaire à charge : 60 % ;
+- majoration par enfant supplémentaire à charge : 60 %
 
-- versement d'un deuxième capital réparti à parts égales entre les enfants à charge du conjoint, au décès de ce dernier avant 65 ans : 100 %.
+- versement d'un deuxième capital réparti à part égales entre les enfants à charge du conjoint, au décès de ce dernier avant 65 ans : 100 %
 
-2. Paiement d'une rente éducation :
+2. Paiement d'une rente éducation.
 
-Le paiement de la rente est fixé à 12 % de la base des prestations.
+Le montant de la rente est fixé à 12 % de la base des prestations.
 
 3. Paiement d'une rente de conjoint.
 
@@ -54,30 +54,28 @@ Le montant de l'indemnité journalière est fixé à 90 p. 100 de la 365e partie
 
 B. - Les salariés cadres relevant des articles 4 et 4 bis de la convention collective nationale du 14 mars 1947 bénéficient :
 
-1. Du versement d'un capital en cas de décès, invalidité absolue et définitive.
-
-Le montant du capital est fixé comme suit, en pourcentage de la base des prestations :
+1. Du versement d'un capital en cas de décès, invalidité absolue et définitive. Le montant du capital est fixé comme suit, en pourcentage de la base des prestations :
 
 - participant sans enfant à charge :
 
-- célibataire, veuf, divorcé : 175 p. 100
+- célibataire, veuf, divorcé : 175 %
 
-- marié : 230 p. 100
+- marié, personne titulaire d'un PACS ou concubin, au sens des articles 515-1 et suivants et 515-8 du code civil : 230 %
 
-- majoration par enfant supplémentaire à charge : 55 p. 100
+- majoration par enfant supplémentaire à charge : 55 %
 
 2. Du versement d'un capital en cas de décès accidentel.
 
-Le montant du capital supplémentaire est fixé à 100 p. 100 de celui figurant ci-dessus.
+Le montant du capital supplémentaire est fixé à 100 % de celui figurant ci-dessus.
 
 3. Du paiement d'une rente éducation.
 
-Le montant de la rente est fixé à 10 p. 100 de la base des prestations.
+Le montant de la rente est fixé à 10 % de la base des prestations.
 
-4. Versement d'indemnité journalières en cas d'incapacité. - Invalidité.
+4. Du versement d'indemnités journalières en cas d'incapacité-invalidité.
 
 Cette garantie profite aux seuls cadres ayant 3 ans d'ancienneté et plus.
 
-Durée du versement : l'indemnité journalière est versée à compter du 91e jour d'arrêt de travail continu.
+Délai de carence : l'indemnité journalière est versée à compter du 91e jour d'arrêt de travail continu.
 
-Montant de l'indemnité journalière : l'indemnité journalière est égale à 80 % de la rémunération du salarié (dans la limite des tranches 1 et 2).
+Montant de l'indemnité journalière : l'indemnité journalière est égale 80 % de la rémunération brute du salarié (dans la limite du salaire, tranche A), sous déduction des prestations versées au même titre par la sécurité sociale.
