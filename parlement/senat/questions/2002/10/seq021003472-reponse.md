@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021003472
+
+- Question : [SEQ021003472](seq021003472.md) — Pratiques des bailleurs
+
+## Réponse
+
+*Équipement, JO du 2003-01-09, page 129*
+
+En vertu de la liberté contractuelle, le bailleur peut exiger du locataire la fourniture d'une caution solidaire. Pour faciliter l'accès au logement locatif, l'Etat et l'Union d'économie sociale pour le logement ont instauré un dispositif (LOCA-PASS) de financement du dépôt de garantie ou de cautionnement des loyers. Ce dispositif de sécurisation est accessible à tous les salariés d'entreprises assujetties au " 1 % logement ", aux jeunes de moins de trente ans en formation professionnelle, en recherche ou en situation d'emploi jusqu'à la fin du premier contrat de travail à durée indéterminée ou encore, sous certaines conditions, aux étudiants titulaires d'une bourse d'Etat. La garantie de paiement qui est accordée par les organismes collecteurs du " 1 % logement " prend la forme d'une caution solidaire couvrant un montant maximal de dix-huit mois de loyer et de charges locatives, pendant trois ans à compter de l'entrée dans les lieux. Au-delà de ce dispositif existant, la sécurisation des bailleurs est un véritable enjeu pour relancer l'investissement dans l'immobilier locatif et remettre sur le marché des logements vacants. Les bailleurs se sentent aujourd'hui démunis face aux risques d'impayés et ont donc tendance à demander de plus en plus de garanties. Un groupe de travail du Conseil national de l'habitat a commencé à réfléchir sur la sécurisation des bailleurs. Le Gouvernement souhaite que les travaux soient poursuivis, sans a priori, avec les bailleurs et les locataires pour parvenir à une ou des solutions qui confortent les bailleurs dans leur volonté de louer et qui responsabilisent les locataires tout en les protégeant contre les accidents de la vie.
