@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941209013
+
+- Question : [SEQ941209013](seq941209013.md) — Allocations attribuées aux étudiants des instituts universitaires de formation des maîtres (IUFM)
+
+## Réponse
+
+*Éducation, JO du 1995-01-19, page 143*
+
+Réponse. - Les conditions d'attribution des allocations d'institut universitaire de formation des maîtres (IUFM) sont fixées par les articles 13 et 14 du décret no 91-586 du 24 juin 1991. Ces articles précisent que les décisions d'attribution sont prises par le recteur d'académie " en fonction de critères portant sur le mérite et l'expérience acquise ", sur proposition d'une commission présidée par le directeur de l'IUFM. Cette commission, qui oeuvre en toute indépendance, établit ses propositions après examen des dossiers de candidature et, éventuellement, entretien avec le candidat. Par note no 94-960 du 18 avril 1994, il a effectivement été demandé aux recteurs d'académie de réserver un nombre d'allocations d'IUFM au moins égal au nombre d'allocations d'année préparatoire à l'IUFM attribuées au titre de l'année précédente. Cela permet au ministère de l'éducation nationale d'attirer des étudiants moins favorisés vers les carrières de l'enseignement. La décision prise a pour objet de garantir à ces mêmes personnes une aide alors qu'elles ont obtenu leur licence et rempli ainsi leur engagement. Ce dispositif favorise la qualité du recrutement des professeurs des écoles dans les académies déficitaires parce que ces candidats sont motivés pour l'enseignement du premier degré alors que les candidats recrutés en première année d'IUFM, en qualité d'allocataires, dont le cursus universitaire est peut-être plus dynamique, ont une motivation pour le métier de professeur des écoles souvent moins avérée. Enfin s'agissant des conditions d'admission en l'IUFM, cela relève de la seule compétence de ces établissements d'enseignement supérieur autonomes.
