@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951213302
+
+- Question : [SEQ951213302](seq951213302.md) — Réhabilitation du logement en milieu rural
+
+## Réponse
+
+*Logement, JO du 1996-04-25, page 1025*
+
+Réponse. - Les travaux de réhabilitation portant sur des logements appartenant à des communes rurales peuvent être financés par la subvention PALULOS, de manière générale au taux de 20 p. 100 dans la limite d'un plafond de travaux subventionnables de 85 000 francs par logement. Les dépenses engagées par les communes pour la réalisation de logements locatifs sociaux ne sont plus éligibles au FCTVA, en vertu de l'article 42-III de la loi de finances rectificative pour 1988 qui ne pourrait être modifiée que par voie législative. En revanche. le taux de la PALULOS peut être porté depuis 1994 à 30 p. 100 pour les opérations dont le maître d'ouvrage est une commune de moins de 5 000 habitants. Par ailleurs, dans le respect des dispositions réglementaires, le préfet a la possibilité de déplafonner le montant des travaux subventionnables. La subvention PALULOS peut être complétée par un prêt de la Caisse des dépôts et consignations d'une durée de dix à quinze ans au taux de 4,8 p. 100 à compter du 1er mars 1996. La comparaison de ce mécanisme de financement avec celui des aides de l'Agence nationale pour l'amélioratrion de l'habitat montre que ce dernier n'est pas plus favorable dès lors que l'on prend en compte le prêt complémentaire de la CDC dans le plan de financement de l'opération. Par ailleurs, dans le cas particulier d'opérations lourdes de restructuration de bâtiments communaux conduisant à des coûts élevés proches de ceux de la construction neuve, les communes peuvent envisager la cession à un organisme d'HLM sous la forme de bail emphytéotique ou en pleine propriété, l'organisme pouvant alors bénéficier d'un PLA (subvention de l'Etat complétée par un prêt à 4,8 p. 100 de la CDC à compter du 1er mars 1996).
