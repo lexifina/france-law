@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941108594
+
+- Question : [SEQ941108594](seq941108594.md) — Contribution des communes en contrepartie des missions d'aide technique à la gestion communale
+
+## Réponse
+
+*Aménagement du territoire, JO du 1995-08-03, page 1540*
+
+Réponse. - La contribution due par les communes en contrepartie des missions d'aide technique à la gestion communale confiées aux directions départementales de l'équipement est calculée différemment suivant le nombre d'habitants de la commune. Pour les communes de 2 000 habitants au plus, elle est calculée, pour l'année 1994, sur la base de 1,66 franc par habitant si la commune adhère à un groupement ayant en charge l'entretien de la voirie communale, de 4,23 francs dans le cas contraire. Pour les communes de plus de 2 000 habitants, la contribution annuelle due par la commune est égale à 3 p. 100 du montant des dépenses afférentes aux activités accomplies sous la responsabilité de la direction départementale de l'équipement sans être toutefois inférieure à une somme calculée sur la base de 1,66 franc par habitant. Ainsi, on peut se rendre compte que les modalités de calcul suivant la population des communes ne sont pas comparables (dans un cas au forfait et, dans l'autre, au pourcentage), même si, dans certains cas, la base de calcul est bien la même (1,66 franc par habitant). Ces dispositions ont été fixées par l'arrêté du 7 décembre 1979 relatif aux concours apportés aux collectivités locales et leurs groupements par l'Etat. Elles tiennent compte des différences de volume d'activité suivant la taille de la commune et de leur adhésion éventuelle à un groupement. Cet arrêté prévoyait simplement que les montants mentionnés ci-dessus soient révisés chaque année par arrêté interministériel en fonction de l'index ingénierie. C'est l'objet de l'arrêté interministériel du 8 septembre 1994 qui, sans remettre en cause les principes appliqués depuis 1979, fixe les nouveaux taux révisés pour 1994.
