@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508589
+
+- Question : [SEQ980508589](seq980508589.md) — Politique de soutien mise en oeuvre pour le transport combiné
+
+## Réponse
+
+*Équipement, JO du 1998-08-20, page 2708*
+
+Réponse. - Le développement du transport combiné constitue l'un des axes prioritaires de la politique que le Gouvernement entend mener pour répondre aux besoins de notre économie, mais aussi à l'exigence d'un meilleur équilibre entre les différents modes de transport, ce qui touche à la fois aux problèmes de société, d'environnement et de fluidité du trafic. Le transport combiné connaît un taux de croissance très important depuis plusieurs années et cette tendance s'est confirmée en 1997. Son développement se traduit notamment par la création de terminaux, de chantiers multitechniques et l'acquisition de matériels. Par ailleurs, la croissance régulière du trafic engendre des problèmes de saturation dans certains sites et entraîne la nécessité d'investissements de capacité, parfois limités, mais présentant l'intérêt de pouvoir être réalisés rapidement et pour un coût raisonnable. Le ministre chargé des transports a demandé que ces investissements, qui comprennent l'amélioration du chantier de transport combiné de Vaires en Ile-de-France, soient financés en priorité. En 1998, l'Etat a prévu de consacrer 350 millions de francs pour le développement du transport combiné. Pour dégager des perspectives d'avenir, M. Pierre Perrod, président du conseil national des transports, a été chargé d'examiner l'ensemble des mesures qui doivent être prises pour assurer le développement du transport combiné dans le cadre de la politique plurimodale et intermodale décidée par le Gouvernement. Sa réflexion devra tenir compte des évolutions de l'organisation du secteur ferroviaire, ainsi que de l'environnement européen.
