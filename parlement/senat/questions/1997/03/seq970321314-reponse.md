@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970321314
+
+- Question : [SEQ970321314](seq970321314.md) — Création d'un office parlementaire d'évaluation de la politique familiale
+
+## Réponse
+
+*Travail, JO du 1997-05-22, page 1537*
+
+Réponse. - A l'issue de la conférence nationale de la famille, qui s'est tenue le 17 mars 1997 et qui a réuni, sous l'autorité du Premier ministre l'ensemble des acteurs concernés par la politique familiale, diverses mesures ont été retenues afin de mieux prendre en compte le fait familial dans les politiques publiques. Ainsi un délégué interministériel à la famille sera nommé. Il sera chargé de coordonner les politiques en faveur des familles et de veiller à la prise en compte du fait familial dans les actions gouvernementales. Il établira notamment, tous les trois ans, en liaison avec l'UNAF, la CNAF, l'INSEE et la CIDEF, un rapport sur l'évolution de la famille en France qui comprendra un volet relatif à l'évolution du coût de l'enfant. Il sera également chargé de coordonner l'élaboration d'un code de la famille, récapitulant l'ensemble des dispositions concernant la vie des familles ainsi que la réfonte du livret de famille. Par ailleurs, une personne chargée de la politique familiale et qui sera le correspondant direct du mouvement familial sera nommée auprès de chaque préfet et dans chaque cabinet ministériel. Le Gouvernement va par ailleurs étudier les conditions d'une meilleure représentation du mouvement familial dans des instances compétentes en matière de médias et d'aménagement du territoire. Il n'apparaît donc pas nécessaire de créer un office parlementaire d'évaluation de la politique familiale et des relations entre les générations puisque cette évaluation entrera dans les compétences du délégué interministériel à la famille. Le Parlement aura accès à toutes les informations qui seront collectées, ainsi qu'à toutes les synthèses qui seront faites dans ce domaine.
