@@ -1,89 +1,47 @@
 # Article Annexe II
 
-Citrus sinensis (L.) Osbeck.
+Castanea sativa Mill.
 
-Oranger.
+Citrus L.
 
-Citrus limon (L.) Burm.f.
+Corylus avellana L.
 
-Citronnier.
+Cydonia oblonga Mill.
 
-Citrus reticulata Blanco.
+Ficus carica L.
 
-Mandarinier.
+Fortunella Swingle.
 
-Citrus paradisi Macf.
+Fragaria L.
 
-Pamplemoussier.
+Juglans regia L.
 
-Citrus aurantifolia (Christm.) Swing.
+Malus Mill.
 
-Lime.
+Olea europea L.
 
-Corylus avellana L..
+Pistacia vera L.
 
-Noisetier.
+Poncirus Raf.
 
-Fragaria x ananassa Duch.
+Prunus amygdalus (L.) Batsch.
 
-Fraisier.
+Prunus armeniaca Lindley.
 
-Juglans regia L..
+Prunus avium L.
 
-Noyer.
+Prunus cerasus L.
 
-Malus Millo.
-
-Pommier.
-
-Prunus amygdalus Batsch.
-
-Amandier.
-
-Prunus armeniaca L..
-
-Abricotier.
-
-Prunus avium L..
-
-Cerisier.
-
-Prunus cerasus
-
-Griottier.
-
-Prunus domestica L..
-
-Prunier.
+Prunus domestica L.
 
 Prunus persica (L.) Batsch.
 
-Pêcher.
+Prunus salicina Lindley.
 
-Pyrus communis L..
+Pyrus L.
 
-Poirier.
+Ribes L.
 
-Prunus Salicina.
+Rubus L.
 
-Prunier japonais.
-
-Cydonia Mill.
-
-Cognassier.
-
-Ribes.
-
-Groseiller.
-
-Rubus
-
-Mûrier.
-
-Pistacia vera.
-
-Pistachier.
-
-Olea europaea.
-
-Olivier.
+Vaccinium L.
