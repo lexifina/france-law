@@ -1,0 +1,9 @@
+# Réponse à la question SEQ921123384
+
+- Question : [SEQ921123384](seq921123384.md) — Mesures pour lutter contre l'illettrisme
+
+## Réponse
+
+*Éducation, JO du 1992-12-10, page 2734*
+
+Réponse. - Il est vrai que certains adultes éprouvent aujourd'hui des difficultés d'insertion professionnelle et sociale en raison d'une maîtrise insuffisante de la langue écrite. Mais cela est dû à l'augmentation des exigences de la société moderne en matière de formation et non à une baisse du niveau de formation générale de la population. Toutes les études récentes prouvent au contraire que ce niveau n'a cessé de progresser. Ainsi, l'enquête qui a été menée l'an dernier auprès des appelés du contingent montre que le niveau général est beaucoup plus élevé qu'il y a vingt ans (de plus de 18 p. 100). Par ailleurs, les comparaisons internationales effectuées en CM 1 et en 3e révèlent que les jeunes Français sont meilleurs lecteurs que leurs voisins européens. Quant au nombre des jeunes qui quittent chaque année le système éducatif sans formation qualifiante, leur nombre est passé de 220 000 en 1973 à 90 000 aujourd'hui. Il est donc inexact de prétendre que le nombre des illettrés augmente en France. Toutefois, même s'il est en diminution, ce nombre, quel qu'il soit, est inacceptable dans un pays moderne et démocratique. C'est pourquoi l'apprentissage de la lecture et de l'écriture doit être la première priorité de l'école. Pour aider les maîtres à renforcer l'efficacité de leur enseignement en ce domaine, une brochure contenant des orientations précises pour chaque cycle de l'école primaire va être adressée à chacun d'eux, au cours de ce trimestre. Il sera fait également un effort financier significatif, de l'ordre de 20 millions de francs, pour promouvoir et développer les bibliothèques dans les écoles afin que les enfants puissent disposer de livres attrayants et acquérir le goût et le plaisir de lire.
