@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040411743
+
+- Question : [SEQ040411743](seq040411743.md) — Conséquences pour les employés de la suppression du centre de tri postal de Guéret
+
+## Réponse
+
+*Industrie, JO du 2004-07-29, page 1730*
+
+Le centre de tri du courrier de Guéret a été transformé, grâce à un investissement de 76 000 euros, en centre de tri numérique. Cette modernisation a permis de créer 18 emplois, d'orienter des agents vers des métiers nouveaux et plus qualifiés, et d'améliorer significativement leurs conditions de travail. Les engagements pris par La Poste ont été tenus. Ils visaient à assurer la réorientation des 68 agents concernés par l'évolution de ce centre avant la mise en place définitive de la nouvelle organisation, le 3 mai 2004. C'est ainsi que : 12 personnes ont fait valoir leurs droits à la retraite ; 13 personnes sont reclassées sur le site même de Guéret centre de tri pour des activités maintenues : distribution de la publicité non adressée, concentration et dispersion du courrier de la Creuse, maintenance des matériels roulants (conteneurs) ; 32 personnes sont reclassées sur l'activité de télévidéocodage installée dans l'enceinte de l'établissement du centre de tri de Guéret ; 7 agents sont reclassés sur des postes de facteur du département de la Creuse ; 2 personnes sont reclassées sur Limoges ; 1 personne a bénéficié d'une mutation à Nantes ; 1 cadre est en cours de réorientation et se trouve à ce jour chargé d'une mission à la direction opérationnelle de Limoges. Les 32 agents affectés à l'activité de télévidéocodage se répartissent en 10 fonctionnaires et 22 agents sous contrat à durée indéterminée. Chacun de ces agents reçoit, depuis mai 2004, une formation spécifique de 6 semaines. Après un stage découverte du métier de facteur, mis en oeuvre entre janvier et avril 2004, les agents reclassés sur cette activité bénéficieront d'une formation initiale de 12 jours.
