@@ -1,0 +1,15 @@
+# Délibération relative à la déclaration de modification du système automatisé de gestion des prestations familiales versées par l'Atelier Mécanographique du Centre, Anjou, Maine, destinée à permettre l'accès par minitel
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 86-121
+- Date : 1986-12-09
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017654770
+
+La Commission Nationale de l'Informatique et des Libertés, Vu la Convention du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ; Vu la loi n° 78-17 du 6 Janvier 1978 relative à l'informatique, aux fichiers et aux libertés, et notamment ses articles 19 et 29 ; Vu le décret n° 78-774 du 17 Juillet 1978 relatif à l'application de la loi susvisée ; Vu l'article 378 du code pénal et l'article 225 du code de la famille et de l'aide sociale sur le secret professionnel ; Vu la déclaration de modification, présentée par l'Atelier Mécanographique du Centre, Anjou, Maine, relative à l'accès au fichier des allocataires par minitel ; Après avoir entendu Monsieur Roland CADET en son rapport et Madame Charlotte-Marie PITRAT, Commissaire du Gouvernement, en ses observations ;
+
+Considérant que la modification envisagée a pour objet de permettre la consultation à distance. par terminaux de type minitel, de toutes les informations enregistrées dans le fichier des allocataires ; Considérant que les informations seront consultables par les agents des caisses d'allocations familiales qui pourront ainsi fournir notamment des réponses immédiates et personnalisées aux allocataires se rendant dans les permanences des caisses ; Considérant qu'une telle finalité est légitime dans la mesure où elle peut permettre d'améliorer le service rendu aux allocataires et le fonctionnement du service public de la protection sociale ; Considérant que les permanences extérieures aux caisses dans lesquelles sont installés les terminaux sont reliées par l'intermédiaire du réseau commuté ; que l'utilisation de terminaux de type minitel et d'un réseau de transmission publique comporte un risque de divulgation d'informations nominatives ; Considérant qu'il faut dès lors envisager des mesures particulières de sécurité afin de garantir la confidentialité des données ainsi transmises, conformément à l'article 29 de la loi du 6 Janvier 1978 ; Considérant que l'accès aux données est contrôlé par une procédure d'identification individuelle des utilisateurs ; Considérant que néanmoins des mesures doivent être prises afin de garantir également un contrôle a posteriori des consultations effectuées ;
+
+Demande qu'il soit systématiquement gardé trace des caractéristiques de chaque connexion, c'est-à-dire à la fois de l'identité de l'utilisateur et de la nature du dossier consulté, ceci afin de permettre à la caisse de détecter tout usage anormal du minitel ; Emet, sous les réserves précitées, un AVIS FAVORABLE à la modification qui lui est soumise. Le Président, Jacques FAUVET.
