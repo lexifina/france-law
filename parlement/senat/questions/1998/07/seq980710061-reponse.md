@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980710061
+
+- Question : [SEQ980710061](seq980710061.md) — Dossiers de demandes de régularisation des étrangers en situation irrégulière : origine " douteuse " de certains documents
+
+## Réponse
+
+*Intérieur, JO du 1998-12-24, page 4134*
+
+Réponse. - La règle applicable en matière de valeur probante des documents produits par les étrangers à l'appui d'une demande de régularisation est celle de la liberté de preuve et la possibilité d'apporter cette épreuve par tout moyen. Bien entendu, il faut que les éléments apportés soient, suivant les cas, de nature à établir la réalité du fait allégué ou constituent des " présomptions graves, précises et concordantes " pour démontrer, par exemple, que le séjour a revêtu un caractère continu. Si le principe de liberté de preuve permet au demandeur d'apporter tous les éléments de preuve qu'il juge utiles et interdit d'en récuser un à priori, la valeur probante de ces différents éléments est bien évidemment inégale. Les pièces les plus significatives sont à cet égard les documents officiels émanant des administrations et services, mais aussi les documents privés émanant de personnes physiques ou morales sans lien personnel avec le demandeur (relevés bancaire, ordonnances et certificats médicaux, factures, etc.). Dans tous les cas, l'autorité administrative opère un contrôle préalable de la vraisemblance, de la crédibilité et de la valeur des éléments produits et ne délivre un titre de séjour qu'en l'absence de motifs portant sur l'ordre public, au nombre desquels figurent par exemple les man uvres frauduleuses révélées par l'utilisation de documents falsifiés ou d'une fausse identité. Le cas échéant, le titre de séjour indûment délivré sur le fondement de documents falsifiés pourra être retiré sans considération de délai, conformément à une jurisprudence constante du Conseil d'Etat rappelant qu'un acte administratif obtenu frauduleusement ne crée aucun droit acquis.
