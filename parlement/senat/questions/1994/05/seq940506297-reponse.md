@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940506297
+
+- Question : [SEQ940506297](seq940506297.md) — Mesures contre l'importation sauvage de produits de la mer
+
+## Réponse
+
+*Agriculture, JO du 1996-04-04, page 799*
+
+Réponse. - Depuis la création du grand marché unique entre les pays membres de l'Union européenne, il est impératif que les importations de produits de la mer sur le territoire communautaire s'effectuent dans la transparence la plus totale et, notamment, dans le respect le plus strict et le plus homogène des normes, en particulier sanitaires. Cette préoccupation a conduit la France à agir à deux niveaux. Au niveau communautaire, il convient que les contrôles soient développés et garantissent le respect homogène des règles sanitaires et douanières dans tous les pays membres. Au niveau national, les importations de produits de la pêche font l'objet sur notre territoire d'un régime de contôle renforcé : en matière sanitaire, les services vétérinaires du ministère de l'agriculture, de la pêche et de l'alimentation contrôlent et sanctionnent sévèrement les infractions constatées ; en matière de normes de commercialisation (fraîcheur, calibrage), les services de la direction générale de la concurrence, de la consommation et de la répression des fraudes contrôlent la régularité des produits mis en vente ; en matière d'origine, les services de la direction générale des douanes et des droits indirects veillent à ce que l'application des régimes tarifaires préférentiels accordés à certains pays tiers ne bénéficie pas indûment à d'autres pays. Il ne s'agit donc pas d'ériger de manière abusive des obstacles aux importations, qui sont de toute façon nécessaires à l'approvisionnement du marché français, mais de vérifier, dans le respect des engagements internationaux conclus par notre pays, la loyauté de la concurrence entre les produits français et communautaires, d'une part, extra-communautaires, d'autre part.
