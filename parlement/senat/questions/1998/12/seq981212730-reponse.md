@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981212730
+
+- Question : [SEQ981212730](seq981212730.md) — Financement des services départementaux de garderie et Office national de la chasse
+
+## Réponse
+
+*Aménagement du territoire, JO du 1999-07-22, page 2488*
+
+Réponse. - La ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question relative au statut des personnels de l'Office national de la chasse, et aux relations entre les services départementaux de garderie et les fédérations départementales des chasseurs. La presque totalité des présidents de fédérations départementales de chasseurs ont décidé le 12 octobre 1998, lors d'un congrès de leur association, de ne plus assurer la paye des gardes nationaux de la chasse et de la faune sauvage, ni les dépenses de fonctionnement des services départementaux de garderie et de la faune sauvage, ni les dépenses de fonctionnement des services départementaux de garderie et de ne plus loger ces services de l'Office national de la chasse dans des locaux fédéraux. En raison de cette attitude, la ministre a été conduite, dans l'urgence, à demander au directeur de l'Office national de la chasse d'assurer l'intégralité de ces paiements et de trouver de nouveaux locaux. Dans le cadre du budget voté le 16 avril 1999 par le conseil d'administration de l'Office national de la chasse, ces dépenses, nouvelles pour l'Office, sont financées par une augmentation des redevances cynégétiques de 12 % et par un prélèvement de 25 millions de francs sur les réserves de l'établissement qui seront reconstituées dans les budgets 2000 et 2001 de l'établissement. Les fédérations ont la possibilité de réduire les cotisations payées par les chasseurs puisqu'elles ne supportent plus aucune dépense relative aux services départementaux de garderie. Le transfert des charges afférentes à ces services pourrait ainsi demeurer globalement neutre pour les chasseurs.
