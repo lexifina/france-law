@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010633850
+
+- Question : [SEQ010633850](seq010633850.md) — Réforme de la loi sur l'eau
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2001-08-23, page 2779*
+
+Le projet de loi sur l'eau, adopté par le conseil des ministres le 27 juin 2001, comporte des dispositions de nature à modifier les modalités de tarification de l'eau afin d'augmenter la part de la facture d'eau calculée en fonction de la consommation. La part fixe de la facture serait ainsi réduite au coût de gestion du comptage et de la facturation, ainsi qu'à tout ou partie du coût des investissements, relatifs aux branchements. Une dérogation est prévue pour les communes connaissant de fortes variations de consommation d'eau, où il peut être nécessaire, pour assurer une bonne gestion du service, de faire supporter à l'ensemble des usagers une part des charges fixes liées à l'adaptation des dimensions des installations. Le projet de loi prévoit également que la collectivité responsable de l'organisation du service de distribution d'eau pourra instaurer des barèmes progressifs après consultation de la commission locale consultative des services publics locaux. Enfin, ce projet envisage également de supprimer les dépôts de garanties, les avances sur consommations et les demandes de caution solidaire, qui sont de nature à pénaliser les foyers les plus modestes. S'agissant de la situation des personnes en difficulté, il est à noter que le 28 avril 2000 a été signée une convention entre les pouvoirs publics et les responsables de la gestion des services publics d'eau pour mettre en oeuvre un dispositif d'aide et de prévention en faveur des personnes en situation de précarité, dans le cadre de la loi du 1er décembre 1988 modifiée relative à la lutte contre l'exclusion. Cette convention se traduit par la conclusion de conventions départementales entre les différents partenaires intéressés.
