@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010432404
+
+- Question : [SEQ010432404](seq010432404.md) — Régionalisation du transport ferroviaire
+
+## Réponse
+
+*Équipement, JO du 2001-06-21, page 2098*
+
+La loi " solidarité et renouvellement urbains ", qui prévoit la décentralisation des services ferroviaires régionaux de voyageurs, précise que l'Etat versera une contribution financière, intégrée au sein de la dotation générale de décentralisation attribuée aux régions, afin que le transfert de compétences s'effectue sans transfert de charges. Cette même loi précise également que cette dotation sera constituée d'une contribution pour l'exploitation des services transférés, d'une dotation complémentaire nécessaire au renouvellement du parc de matériel roulant affecté aux services trnasférés et d'une dotation correspondant à la compensation des tarifs sociaux mis en oeuvre à la demande de l'Etat. La décentralisation des services régionaux de voyageurs s'accompagnera d'ailleurs d'un effort financier accru de l'Etat au regard de ce qu'il versait jusqu'à présent au titre des services régionaux de voyageurs. En effet, au delà de la contribution versée actuellement à la SNCF et aux régions expérimentales au titre de l'exploitation et de la compensation des tarifs sociaux, l'Etat ajoutera une compensation pour le déficit du compte TER constaté en 2000 ainsi qu'une contribution au renouvellement du matériel. Enfin, s'agissant du déroulement de la mission d'audit lancée par la SNCF pour l'attestation des comptes 2000 des activités TER et Ile-de-France, il convient de préciser que son suivi est assuré à plusieurs niveaux : comité de pilotage, comité de suivi national et comités régionaux. Les représentants de l'Etat et des régions sont régulièrement tenus au courant de l'avancement de ces travaux dont les résultats devraient être rendus durant l'été.
