@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000626299
+
+- Question : [SEQ000626299](seq000626299.md) — Fermeture et réduction d'horaires de bureaux de poste en Haute-Savoie
+
+## Réponse
+
+*Industrie, JO du 2000-08-24, page 2948*
+
+Réponse. - Dans le cadre de la loi du 2 juillet 1990, La Poste doit accorder une attention toute particulière à l'amélioration de sa présence territoriale afin d'assurer un service public de qualité accessible à tous. Des orientations ont été définies dans le contrat d'objectifs et de progrès signé le 25 juin 1998 entre l'Etat et La Poste, visant à préciser les conditions d'évolution et d'amélioration du service postal, tant en zone rurale qu'en zone urbaine, notamment dans les quartiers en difficulté. Ces orientations ont fait l'objet d'une large concertation, en particulier avec les représentants des maires et des élus locaux. Concernant les bureaux de poste situés en Haute-Savoie et certaines adaptations des horaires d'ouverture, elles sont conformes à la réalité du trafic localement constaté et font l'objet d'une concertation préalable avec les élus concernés. Les responsables locaux de La Poste attachent une attention toute particulière aux communes touristiques permettant ainsi une présence postale adaptée dans l'année selon les périodes d'affluence. A Excenevex, Habère-Poche et Meillerie, les trois points de contact fonctionnent actuellement selon leurs horaires touristiques d'été. Ces adaptations des horaires d'ouverture ne remettent nullement en cause l'existence des bureaux concernés et tiennent compte de l'activité saisonnière de ces communes. Afin de répondre au besoin d'une concertation locale plus proche des élus locaux, la commission départementale de présence postale territoriale, composée en majorité d'élus locaux doit se réunir à l'automne prochain.
