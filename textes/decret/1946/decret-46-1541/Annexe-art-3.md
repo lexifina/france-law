@@ -8,37 +8,15 @@ Commission supérieure nationale.
 
 Compétence et composition.
 
-La commission supérieure nationale est compétente pour tous les services et les exploitations dont le personnel est soumis au présent statut ; elle comprend trente-quatre membres nommés par le ministre chargé de l'industrie.
+La commission supérieure nationale est compétente pour tous les services et les exploitations dont le personnel est soumis au présent statut ; elle comprend trente-huit membres nommés par le ministre chargé de l'industrie.
 
-Sa composition est la suivante :
+Sa composition et les modalités de désignation de ses membres sont définies par les articles R. 713-1 et suivants du code du travail.
 
-a) Dix-sept membres représentant les directions des services et exploitations, à savoir :
+Le président et le président suppléant sont nommés chaque année par le ministre de l'industrie parmi les membres représentant le collège des employeurs.
 
-Sept membres désignés sur proposition du directeur général d'Electricité de France ;
-
-Quatre membres désignés sur proposition du directeur général de Gaz de France ;
-
-Quatre membres désignés sur propositions communes des directeurs généraux d'Electricité de France et de Gaz de France ;
-
-Deux membres représentant les directions des entreprises exclues de la nationalisation ;
-
-b) Dix-sept membres délégués du personnel, proposés par les organisations syndicales nationales les plus représentatives ; à savoir :
-
-Huit représentants des ouvriers et employés ;
-
-Neuf représentants des techniciens, agents de maîtrise, cadres administratifs, ingénieurs et assimilés.
-
-En outre, le ministre de l'industrie peut désigner, à titre consultatif, un représentant de la fédération nationale des cadres supérieurs de l'électricité et du gaz.
-
-Parmi ces délégués, doivent figurer au moins deux membres du personnel des entreprises exclues de la nationalisation.
-
-Le président et le président suppléant sont nommés chaque année par le ministre de l'industrie parmi les membres de la catégorie a.
-
-Il sera nommé dans les mêmes conditions que ci-dessus un membre suppléant pour chaque membre titulaire des catégories a et b.
+Un représentant du ministre chargé de l'énergie, nommé par arrêté de celui-ci, assiste de plein droit aux séances de la commission.
 
 Règles de fonctionnement.
-
-Le mandat des membres titulaires et suppléants est valable pour trois années et renouvelable.
 
 Les délibérations sont prises à la majorité des voix. En cas de partage égal des voix, celle du président est prépondérante.
 
@@ -209,3 +187,7 @@ Paragraphe 5.
 Modalités d'application du présent article au personnel des entreprises exclues de la nationalisation et à la caisse nationale de l'énergie.
 
 Les modalités d'application du présent article sont fixées par décisions du ministre de l'industrie en ce qui concerne le personnel des entreprises exclues de la nationalisation et par décisions conjointes du ministre de l'industrie et du ministre des finances et des affaires économiques en ce qui concerne le personnel de la caisse nationale de l'énergie.
+
+NOTA :
+
+Décret 2007-549 2007-04-11 art. 4 : Le décret n° 2007-549 entre en vigueur à la date d'installation des institutions représentatives du personnel constituées au sein des entreprises électriques et gazières dans les conditions précisées par le décret en Conseil d'Etat n° 2007-548 pris en application de l'article 28 de la loi du 9 août 2004 modifiée.
