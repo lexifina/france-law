@@ -18,13 +18,13 @@ L'association est obligatoirement affiliée à la fédération départementale d
 
 Art. 4. - Est admis à adhérer à l'association de chasse avec droits et obligations définis aux articles ci-après et au règlement intérieur tout titulaire du permis de chasser ou d'une autorisation assimilée valable sur la portion de zone maritime où se trouve situé le territoire de l'association.
 
-Les demandes d'adhésion doivent être formulées par écrit et adressées avant le 15 mai au président de l'association sous peine de forclusion ; elles sont validées par la présentation du permis de chasser valable pour la campagne de chasse considérée.
+Les demandes d'adhésion doivent être formulées par écrit et adressées avant le 1er août au président de l'association sous peine de forclusion ; elles sont validées par la présentation du permis de chasser valable pour la campagne de chasse considérée.
 
 Les demandes d'adhésion doivent être refusées à toute personne ne jouissant pas de ses droits civiques ou ayant subi une ou plusieurs condamnations pour infraction de chasse depuis moins de cinq ans.
 
 Toute invitation gratuite ou payante est interdite.
 
-Ad. 5, - Toute radiation de la liste des membres de l'association dans les cas suivants : décès, démission, défaut de paiement de la cotisation dont la date limite de versement est fixée au 1er juillet, et dans l'un des cas prévus à l'article 15, est prononcée par le bureau prévu à l'article 7.
+Art. 5. - Toute radiation de la liste des membres de l'association dans les cas suivants : décès, démission, défaut de paiement de la cotisation dont la date limite de versement est fixée au 1er juillet, et dans l'un des cas prévus à l'article 15, est prononcée par le bureau prévu à l'article 7.
 
 Art. 6. - La liste des membres est tenue à jour en permanence au siège de l'association ; elle doit être communiquée aux membres de l'association sur leur demande.
 
@@ -94,7 +94,7 @@ Art. 11. - L'assemblée générale fixe annuellement le montant des cotisations 
 
 2. Des sociétaires non domiciliés clans cette ou ces communes.
 
-La cotisation la plus élevée doit se situer entre deux et trois fois le montant de la cotisation la plus faible.
+La cotisation la plus élevée ne peut être supérieure à plus de trois fois le montant de la cotisation la plus faible.
 
 Elle fixe également le montant de la cotisation supplémentaire exigée des membres pratiquant la chasse à la hutte et au gabion, avec ou sans appelants vivants ou artificiels, dans les conditions prévues par le cahier des charges générales et des clauses particulières régissant les adjudications et locations du droit de chasse sur les parties du domaine public visées à l'article 1er.
 
@@ -102,7 +102,7 @@ Le versement de la cotisation est constaté par la remise d'une carte de chasse 
 
 La cotisation versée n'est remboursée en aucun cas.
 
-Elle est exigible avant le 1er juillet.
+Elle est exigible chaque année avant le 1er juillet et, pour les nouveaux ahérents, à l'adhésion.
 
 Art. 12. - Toutes les ressources prévues à l'article 10 sont entièrement consacrées à la réalisation des buts de l'association, tels qu'ils figurent à l'article 2 du présent statut.
 
