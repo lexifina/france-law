@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031210425
+
+- Question : [SEQ031210425](seq031210425.md) — Fiscalité applicable aux indemnités perçues par les victimes de l'amiante
+
+## Réponse
+
+*Économie, JO du 2004-02-26, page 472*
+
+L'article 775 bis du code général des impôts prévoit la déduction de l'actif net de succession pour leur valeur nominale, des indemnités versées ou dues aux personnes contaminées par le VIH soit à la suite d'une transfusion, soit dans l'exercice de leur activité professionnelle, et aux personnes contaminées par la maladie de Creutzfeldt-Jacob soit à la suite d'un traitement par hormone de croissance extraite d'hypophyses humaines, soit par la contamination probable par l'agent de l'encéphalopathie spongiforme bovine. Ces dispositions ont un caractère dérogatoire et exceptionnel qui a nécessité l'intervention du législateur. La situation des victimes de l'amiante est différente. En effet, elle ne se limite pas aux seules personnes atteintes d'une maladie provoquée par l'amiante mais concerne également les personnes ayant eu un contact prolongé à l'amiante au cours de leur activité professionnelle. La diversité de ces situations implique la mise en place de modalités d'indemnisation diverses versée soit sous la forme d'un capital, soit sous la forme de rentes. Dans ces conditions, une extension du dispositif prévu par l'article 775 bis du code précité ne constituerait pas une réponse adaptée. Enfin, s'agissant des personnes qui ont été durablement exposées à l'amiante au cours de leur activité professionnelle, il est rappelé que l'indemnité de départ versée dans le cadre du dispositif de cessation anticipée d'activité institué par l'article 41 de la loi de financement de la sécurité sociale pour 1999 (" préretraite-amiante ") est exonérée d'impôt sur le revenu, ainsi que de l'ensemble des prélèvements assis sur les salaires, notamment des cotisations de sécurité sociale, de la CSG et de CRDS.
