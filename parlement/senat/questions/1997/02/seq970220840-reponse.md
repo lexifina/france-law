@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970220840
+
+- Question : [SEQ970220840](seq970220840.md) — Nouveaux critères d'attribution du contrat emploi-solidarité (CES)
+
+## Réponse
+
+*Outre-mer, JO du 1997-03-27, page 979*
+
+Réponse. - La circulaire du 17 décembre 1996 ne modifie pas les critères d'attribution du contrat emploi-solidarité, les publics auxquels la mesure est destinée restent inchangés. Il est donc toujours possible de conclure des contrats emploi-solidarité avec des demandeurs d'emploi inscrits depuis douze mois ou des jeunes en difficulté, par exemple. L'institution par le Gouvernement d'une contribution financière des employeurs constitue le seul élément nouveau. Les taux et modalités de prise en charge par l'Etat fixés par le décret no 90-105 du 30 janvier 1990 modifié et précisés dans le II de la circulaire du 30 juillet 1992 ne sont pas modifiés. En revanche, les modalités d'intervention du fonds de compensation sont dorénavant réservées aux contrats emploi-solidarité destinés aux publics prioritaires. Le fonds de compensation, pour les publics prioritaires, peut intervenir de manière à porter entre 90 % et 95 % la charge financière représentée par l'emploi d'une personne en CES, alors qu'auparavant l'Etat pouvait compenser jusqu'à 100 %. Le ministre de l'outre-mer est conscient de la difficulté que peut engendrer le renchérissement découlant de l'application de cette circulaire et des effets qu'elle peut avoir sur le recrutement de jeunes en CES par les collectivités territoriales et par les associations. C'est pourquoi il étudie la possibilité que la définition des publics prioritaires de la politique de l'emploi soit adaptée en outre-mer, ce qui permettrait de réduire la participation demandée à leurs employeurs pour leur rémunération, et de maintenir le niveau de recrutement.
