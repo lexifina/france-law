@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980608872
+
+- Question : [SEQ980608872](seq980608872.md) — Saisie sur un contrat d'assurance vie
+
+## Réponse
+
+*Économie, JO du 1998-09-03, page 2829*
+
+Réponse. - Le 28 avril 1998, la première chambre civile de la Cour de cassation a rejeté le pourvoi formé contre un arrêt qui avait déclaré irrecevable un avis à tiers détenteur pratiqué par un comptable public sur un contrat d'assurance vie. Pour rejeter la mesure de saisie, elle définit les limites du droit dont le souscripteur est lui-même titulaire au cours de l'exécution du contrat. Elle estime que, pendant la durée d'exécution du contrat, le souscripteur ne détient pas d'autre droit que celui prévu à l'article L. 132-9 du code des assurances, qui lui appartient en propre, de faire racheter le contrat et d'en désigner ou modifier le bénéficiaire. La Cour de cassation considère donc que le souscripteur lui-même ne possède pas de créance de somme d'argent sur la compagnie. Appliquant ce principe, elle a décidé que la compagnie n'était pas débitrice du souscripteur à la date de l'avis à tiers détenteur, le créancier ne pouvant prétendre à plus de droits que ceux dont le souscripteur lui-même est investi. Mais la Cour de cassation ne fait pas référence à un principe d'insaisissabilité. Dès lors, cette indisponibilité temporaire n'empêche pas de procéder à une saisie en cours de contrat, l'assureur prenant acte de cet événement, ce qui permettrait l'appréhension des sommes lors du dénouement du contrat (hormis, bien entendu, le cas de décès de l'assuré reliquataire). En effet, l'article 13, alinéa 2, de la loi du 9 juillet 1991 relative aux procédures d'exécution et les articles L. 262 et L. 263 du livre des procédures fiscales qui visent l'avis à tiers détenteur n'interdisent pas la saisie d'une créance affectée d'un terme ou d'une condition.
