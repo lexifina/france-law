@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910816737
+
+- Question : [SEQ910816737](seq910816737.md) — Réduction du numerus clausus attribué aux études médicales
+
+## Réponse
+
+*Éducation, JO du 1991-09-26, page 2093*
+
+Réponse. - La réduction du nombre de places offertes au concours de fin de 1re année de médecine décidée par le Gouvernement a pour objectif de contribuer aux efforts faits par ailleurs pour éviter qu'il y ait trop de médecins sur le marché du travail dans les années 2000. Certes, certaines régions ont une densité médicale plus élevée que d'autres, notamment le midi de la France, mais toutes les études démontrent que, jusqu'à maintenant, les médecins s'installent préférentiellement dans les zones où il y a déjà trop de médecins. Il faut tenir compte, d'autre part, des résultats des concours d'internat et des mouvements d'étudiants qui en découlent pour apprécier le nombre de médecins finalement formés dans une région et faire des comparaisons significatives. De ce point de vue, les statistiques des dernières années indiquent que le nombre d'étudiants de la faculté de médecine de Besançon reçus aux concours d'internat est du même ordre que celui de la plupart des facultés des villes de moyenne importance, mais très inférieur, toutes proportions gardées, à celui des grands centres hospitalo-universitaires. Le nombre de médecins en formation de 3e cycle en Franche-Comté s'en trouve en définitive plus élevé que ne le laisse apparaître le numerus clausus. Faut-il, par ailleurs, se plaindre que le nombre de médecins de Franche-Comté reste raisonnable alors que le problème est celui de la surmédicalisation. Il faut enfin dissocier, au moins en partie, le numerus clausus d'une faculté et l'encadrement médical d'un centre hospitalier régional. Les effectifs d'internes de chaque subdivision d'internat sont fixés, en effet, après avis de la commission nationale des études médicales, indépendamment du numerus clausus.
