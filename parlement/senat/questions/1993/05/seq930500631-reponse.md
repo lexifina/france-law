@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930500631
+
+- Question : [SEQ930500631](seq930500631.md) — Modalités d'attribution de la dotation " élu rural "
+
+## Réponse
+
+*Budget, JO du 1993-07-29, page 1259*
+
+Réponse. - L'objectif de la dotation " élu local " est de permettre aux petites communes rurales de mettre en oeuvre, notamment, la disposition de la loi du 3 février 1992 relative aux conditions d'exercice des mandats locaux concernant les indemnités de fonctions des titulaires de ces mandats. La circulaire d'application du 18 mars 1993 précise que cette nouvelle dotation est attribuée, en métropole, aux communes de moins de 1 000 habitants ayant un potentiel fiscal moyen par habitant inférieur au potentiel fiscal moyen par habitant des communes de moins de 1 000 habitants. Dans les DOM-TOM, les collectivités territoriales de Saint-Pierre-et-Miquelon et de Mayotte, seule une condition démographique est exigée, la dotation étant attribuée aux communes ou aux circonscriptions territoriales dont la population est inférieure à 5 000 habitants. Le principe d'une répartition uniforme entre les communes éligibles, sous la forme d'une dotation unitaire annuelle fixée à 12 440 francs en 1993, permet à un très grand nombre de communes plus de 20 000 en 1993 de bénéficier des facultés nouvelles que leur offre la loi. Par ailleurs, aux termes de la circulaire du 18 mars susvisée, il est demandé aux préfets de notifier sans délai les dotations aux communes éligibles et de prendre les arrêtés qui en prescrivent le versement. Il convient, enfin, de souligner que la création d'un nouveau concours particulier revêtant la forme d'un prélèvement sur les recettes de l'Etat, à hauteur de 250 MF en 1993, constitue, dans un contexte budgétaire difficile, un élément important de l'effort consenti par l'Etat en faveur des communes rurales.
