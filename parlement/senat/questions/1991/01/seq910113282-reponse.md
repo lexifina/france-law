@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910113282
+
+- Question : [SEQ910113282](seq910113282.md) — Revendications des personnels des caisses de sécurité sociale
+
+## Réponse
+
+*Affaires sociales, JO du 1991-03-14, page 530*
+
+Réponse. - Conformément aux dispositions des articles L. 123-1 et L. 123-2 du code de la sécurité sociale, les accords collectifs concernant les conditions de travail des personnels des organismes de sécurité sociale ne peuvent entrer en vigueur que s'ils ont obtenu l'agrément du ministre chargé de la sécurité sociale, qui dispose pour ce faire d'un pouvoir d'appréciation en opportunité. Le refus opposé par le ministre chargé de la sécurité sociale à des mesures salariales décidées par l'Union des caisses nationales de sécurité sociale a provoqué la démission de la majorité des membres du conseil d'administration de cet organisme. Devant la carence de l'instance habilitée à conclure au niveau national avec les organisations syndicales des accords collectifs de travail en faveur des agents des caisses, des mouvements revendicatifs sont venus perturber ces derniers mois le fonctionnement de plusieurs organismes. A l'issue de négociations engagées entre les partenaires sociaux et le ministre chargé de la sécurité sociale, un accord a été trouvé le 6 décembre 1990, qui devrait permettre le rétablissement du fonctionnement régulier du conseil d'administration de l'Union des caisses nationales de sécurité sociale sur la base notamment de l'introduction du paritarisme dans la composition de ce dernier. Des modifications législatives et réglementaires ont donc été mises en oeuvre. En attendant la reprise prochaine des activités du conseil, le ministre chargé du budget et le ministre chargé de la sécurité sociale ne se sont pas opposés à l'intervention d'une revalorisation de 0,75 p. 100 des salaires qui a été effective dès le mois de décembre 1990.
