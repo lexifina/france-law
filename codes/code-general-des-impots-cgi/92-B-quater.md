@@ -12,4 +12,8 @@ Cette opération de transfert est assimilée à une cession pour l'application d
 
 A compter du 23 juin 1993 et jusqu'au 31 décembre 1993, l'imposition de la plus-value réalisée en cas de cession de parts ou actions mentionnées au I bis de l'article 92 B est reportée dans les mêmes conditions lorsque le produit de la cession est immédiatement investi dans un plan en un contrat de capitalisation visé au f du 1 du I de l'article 2 de la loi n° 92-666 du 16 juillet 1992.
 
-La plus-value dont l'imposition a été reportée est exonérée lorsque le plan d'épargne en actions n'est pas clos avant l'expiration de la cinquième année.
+Les limites mentionnées au I et au 1 bis de l'article 92 B du code général des impôts sont appréciées, pour l'imposition des autres gains nets réalisés au cours de la même année par le foyer fiscal, en faisant abstraction du montant des transferts ou des cessions réalisés du 23 juin au 31 décembre 1993 correspondant à la plus-value dont le report de l'imposition est demandé.
+
+La plus-value dont l'imposition a été reportée est exonérée lorsque le plan d'épargne en actions n'est pas clos avant l'expiration de la cinquième année (1).
+
+(1) Voir l'article 41 octovicies de l'annexe III.
