@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860400346
+
+- Question : [SEQ860400346](seq860400346.md) — Statut des élus au Conseil supérieur des Français de l'étranger
+
+## Réponse
+
+*Affaires étrangères, JO du 1986-07-10, page 956*
+
+Réponse. -Le ministère des affaires étrangères étudie actuellement le projet de statut des élus au C.S.F.E., adopté par l'assemblée plénière du conseil au cours de sa 38e session, en vue de sa prise en compte dans la préparation du projet de loi gouvernemental portant statut des élus locaux. Ce texte ainsi que les mesures réglementaires qui l'accompagnent fixeront les modalités d'exercice et la fonction d'élu. Dans l'attente de l'adoption de ce texte, le ministère des affaires étrangères s'efforce dans toute la mesure du possible de faciliter l'exercice du mandat de tous les délégués au C.S.F.E. Notamment, en ce qui concerne les enseignants qui relèvent de la direction générale des relations culturelles, scientifiques et techniques du ministère des affaires étrangères, il est entendu que, comme leurs collègues exerçant en France et conformément au décret n° 59-310 du 14 février 1959, ils bénéficient d'autorisations d'absence, dans la limite de la durée totale des sessions des assemblées dont ils font partie, et ne sont pas tenus de remplacer les horaires non assurés. Dans cet esprit, une circulaire d'instruction sera prochainement adressée aux postes diplomatiques à l'intention des chefs d'établissement. Il demeure, toutefois, que les absences peuvent susciter de réelles difficultés dans certains établissements scolaires, où les possibilités de remplacement sont plus restreintes qu'en France. On constate, d'ailleurs, que quel que soit le motif qui ait conduit à une absence, les enseignants ont à coeur de dispenser l'ensemble du programme des classes où ils exercent et décident souvent, de leur propre fait, de remplacer les horaires qu'ils n'auraient pas effectués.
