@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000323816
+
+- Question : [SEQ000323816](seq000323816.md) — PACS et communauté de biens
+
+## Réponse
+
+*Justice, JO du 2000-11-23, page 4019*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que le régime des biens entre les partenaires d'un pacte civil de solidarité est laissé à leur convenance. Ainsi les partenaires ont la possibilité d'indiquer dans leur convention s'ils entendent ou non soumettre au régime de l'indivision, et dans quelle proportion, les meubles meublants destinés à garnir leur logement dont ils feraient l'acquisition à titre onéreux après la conclusion du pacte ; à défaut de précision dans la convention, ces biens sont considérés comme indivis par moitié. S'agissant des autres biens meubles et des immeubles, acquis à titre onéreux après la conclusion du pacte, ceux-ci ne sont indivis par moitié que si l'acte d'acquisition du bien lui-même n'en dispose pas autrement. Sous réserve de l'interprétation souveraine des juridictions, la présomption d'indivision est applicable alors même que le bien aurait été acquis par un des partenaires à l'insu de l'autre. Ni la lettre même de l'article 515-5 du code civil ni les débats parlementaires préalables à son adoption ne permettent en effet d'opérer de distinction. Si le prix du bien ainsi acquis a été payé en totalité à l'aide de derniers personnels de l'acquéreur, la part revenant à l'autre partenaire constitue une donation indirecte ou déguisée. Celle-ci est assujettie aux règles civiles et fiscales applicables aux libéralités sauf si celui qui a financé l'acquisition peut prouver que les fonds en question ont été avancés à titre de prêt à l'autre partenaire, qui devra les lui rembourser lorsqu'il sera procédé à la liquidation des créances et des dettes entre partenaires, à la dissolution du pacte.
