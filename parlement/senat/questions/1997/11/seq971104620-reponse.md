@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971104620
+
+- Question : [SEQ971104620](seq971104620.md) — Protection des mineurs face aux messageries conviviales
+
+## Réponse
+
+*Justice, JO du 1998-03-26, page 992*
+
+Réponse. - La ministre de la justice porte à la connaissance de l'honorable parlementaire qu'elle veille, avec toute la vigilance nécessaire, à ce que les infractions s'inscrivant dans le cadre de la mise en péril des mineurs soient systématiquement poursuivies et sévèrement punies. Tel est notamment le cas des infractions commises par le moyen du Minitel ou du réseau Internet. L'idée préconisée par la directrice de la Fondation pour l'enfance d'infliger aux personnes convaincues de telles infractions des amendes substantielles destinées à être reversées aux associations de protection de l'enfance paraît assurément séduisante ; cette proposition ignore cependant le fondement même de la peine en tant que réponse au trouble causé à l'ordre social, qui se différencie tant par son but que par son objet de la réparation civile. De ce fait, le produit de l'amende ne saurait être acquis comme une forme de dommages-intérêts, aux associations susvisées au risque de créer une véritable peine privée. Il ne peut donc être encaissé qu'au compte exclusif de l'Etat. Par ailleurs, le projet de loi relatif à la prévention et à la répression des infractions sexuelles ainsi qu'à la protection des mineurs, actuellement examiné par la représentation nationale, prévoit notamment d'ériger l'utilisation d'un réseau de télécommunications en circonstance aggravante du proxénétisme, de la corruption de mineur, du délit de diffusion d'images de mineurs présentant un caractère pornographique et, enfin, de l'atteinte sexuelle sur mineur sans violence, lorsque l'auteur de ces infractions est entré en contact avec sa victime grâce à la diffusion sur ce réseau de messages destinés à un public non déterminé.
