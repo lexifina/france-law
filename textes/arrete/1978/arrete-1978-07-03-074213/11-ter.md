@@ -1,105 +1,53 @@
 # Article 11 ter
 
-A compter du 1er juillet 1992, le montant forfaitaire des charges est fixé comme suit :
+A compter du 1er juillet 1997, en application de l'article R. 351-22-1, le montant forfaitaire des charges est fixé comme suit :
 
-DÉSIGNATION
+DESIGNATION :
 
-|
+Bénéficiaire isolé ou ménage sans personne à charge
 
-TOUTES ZONES
+TOUTES ZONES : 289 F
 
-(en francs)
-
-|
-
-Bénéficiaire isolé
-
-|
-
-282
-
-|
-
-Ménage sans personne à charge
-
-|
-
-282
-
-|
+DESIGNATION :
 
 Bénéficiaire isolé ou ménage ayant une personne à charge
 
-|
+TOUTES ZONES : 352 F
 
-343
-
-|
+DESIGNATION :
 
 Par personne supplémentaire à charge
 
-|
+TOUTES ZONES : 63 F
 
-61
+Toutefois, dans le cas des colocataires ou des copropriétaires prévu aux articles R. 351-17 (6e alinéa), R. 351-17-3 et R. 351-21-4, le montant forfaitaire des charges est fixé comme suit :
 
-|
-
-Toutefois, dans le cas prévu aux articles R. 351-17 (sixième alinéa) et R. 351-17-2, le montant forfaitaire des charges est fixé comme suit :
-
-DÉSIGNATION
-
-|
-
-TOUTES ZONES
-
-(en francs)
-
-|
+DESIGNATION :
 
 Bénéficiaire isolé
 
-|
+TOUTES ZONES : 145 F
 
-142
-
-|
-
-Bénéficiaire isolé ayant une personne à charge
-
-|
-
-203
-
-|
-
-Par personne supplémentaire à charge
-
-|
-
-61
-
-|
+DESIGNATION :
 
 Ménage sans personne à charge
 
-|
+TOUTES ZONES : 289 F
 
-282
+DESIGNATION :
 
-|
+Bénéficiaire isolé ayant une personne à charge
+
+TOUTES ZONES : 208 F
+
+DESIGNATION :
 
 Ménage ayant une personne à charge
 
-|
+TOUTES ZONES : 352 F
 
-343
-
-|
+DESIGNATION :
 
 Par personne supplémentaire à charge
 
-|
-
-61
-
-|
+TOUTES ZONES : 63 F

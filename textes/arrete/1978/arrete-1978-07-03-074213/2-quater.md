@@ -1,6 +1,6 @@
 # Article 2 quater
 
-A compter du 1er avril 1997 pour l'application de l'article R. 351-17-5 :
+A compter du 1er juillet 1997 pour l'application de l'article R. 351-17-5 :
 
 Le taux de participation personnelle (TP) du ménage exprimé en francs pour 10 000 F de ressources est calculé selon la formule suivante :
 
@@ -36,6 +36,10 @@ NOMBRE DE PERSONNES A CHARGE
 
 |
 
+Par personne supplémentaire
+
+|
+
 42,80
 
 |
@@ -52,23 +56,27 @@ NOMBRE DE PERSONNES A CHARGE
 
 |
 
+5,80
+
+|
+
 TR représente un premier taux complémentaire obtenu par l'application de taux à des tranches de ressources, selon le barème ci-après :
 
 0 F pour la tranche de ressources entre 0 et le revenu minimal ;
 
-6,60 F pour 10 000 F dans la tranche de ressources entre le revenu minimal et 18 100 F ;
+6,48 F pour 10 000 F dans la tranche de ressources entre le revenu minimal et 18 444 F ;
 
-33,40 F pour 10 000 F dans la tranche de ressources de 18 101 F à 27 600 F ;
+32,78 F pour 10 000 F dans la tranche de ressources de 18 445 F à 28 124 F ;
 
-14,40 F pour 10 000 F dans la tranche de ressources de 27 601 F à 40 600 F ;
+14,13 F pour 10 000 F dans la tranche de ressources de 28 125 F à 41 371 F ;
 
-18,60 F pour 10 000 F dans la tranche de ressources de 40 601 F à 56 200 F ;
+18,25 F pour 10 000 F dans la tranche de ressources de 41 372 F à 57 268 F ;
 
-16,40 F pour 10 000 F dans la tranche de ressources de 56 201 F à 69 100 F ;
+16,09 F pour 10 000 F dans la tranche de ressources de 57 269 F à 70 413 F ;
 
-6,00 F pour 10 000 F dans la tranche de ressources de 69 101 F à 108 000 F ;
+5,89 F pour 10 000 F dans la tranche de ressources de 70 414 F à 110 052 F ;
 
-2,70 F pour 10 000 F dans la tranche de ressources au-dessus de 108 000 F ;
+2,65 F pour 10 000 F dans la tranche de ressources au-dessus de 110 052 F ;
 
 TR, exprimé en francs pour 10 000 F de ressources, est arrondi au centime le plus proche ;
 
@@ -94,23 +102,23 @@ PAR PERSONNE à charge supplémentaire
 
 |
 
-1 280 F
+1 325 F
 
 |
 
-1 568 F
+1 623 F
 
 |
 
-1 807 F
+1 843 F
 
 |
 
-2 071 F
+2 112 F
 
 |
 
-264 F
+269 F
 
 |
 
