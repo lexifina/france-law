@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020701028
+
+- Question : [SEQ020701028](seq020701028.md) — Travaux de sécurité entre Metz et Courcelles-Chaussy sur la RN 3
+
+## Réponse
+
+*Équipement, JO du 2002-10-24, page 2479*
+
+Une étude de l'itinéraire entre Metz et Courcelles-Chaussy, sur une période de cinq ans de 1996 à 2000, montre que le trafic, atteignant 9 829 véhicules par jour en 2000, a augmenté de 1,4 % par an, soit une évolution inférieure à la moyenne nationale. Cette section de la route nationale 3 est en fait la moins chargée de l'itinéraire entre Metz et la frontière allemande. Cependant, l'augmentation du trafic en 2001 est supérieure à celle des années précédentes. Le niveau d'insécurité constaté, en termes de taux d'accidents, y est plus élevé que la moyenne relevée sur les routes nationales. En première analyse, il apparaît que les conflits entre le trafic local généré par le développement de l'urbanisation, notamment les zones d'activités, et le trafic de transit sont à l'origine des comportements à risque provoquant une grande partie des accidents. Une étude détaillée de sécurité de l'itinéraire pourrait permettre d'identifier les aménagements à apporter à l'infrastructure, afin de réduire les risques ou les conséquences des accidents. Toutefois, ces aménagements doivent être envisagés avec la participation des collectivités locales concernées pour la création d'accès directs sur la RN 3, source de conflits et d'insécurité. Le financement de l'Etat pourrait être recherché au titre du plan régional d'aménagements de sécurité et dans le cadre de la révision à mi-parcours du contrat de plan entre l'Etat et la région. Par ailleurs, les mesures concernant la mise en sécurité du hameau de Landremont et du carrefour de Silly-sur-Nied ont été mises en oeuvre à la fin du mois de juillet de 2002. D'autres opérations, comme l'étude de la traversée de Montoy-Flanville par la RN 3, sont en cours.
