@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030708390
+
+- Question : [SEQ030708390](seq030708390.md) — Situation de l'agriculture en Ile-de-France
+
+## Réponse
+
+*Agriculture, JO du 2003-08-21, page 2606*
+
+Le maintien d'espaces agricoles à proximité des villes constitue une préoccupation majeure du ministère de l'agriculture, de l'alimentation, de la pêche et des affaires rurales (MAAPAR) qui a pris la mesure de l'enjeu socio-économique de ces espaces en tant que facteur d'équilibre des zones périurbaines. C'est dans cette optique que le MAAPAR a développé une réflexion approfondie sur les espaces périurbains en liaison avec les collectivités territoriales, à travers des actions de sensibilisation et des programmes périurbains. La procédure des zones agricoles protégées instituée par la loi d'orientation agricole du 9 juillet 1999 qui a été lancée sur deux sites franciliens procède de cette même volonté de préserver les activités agricoles. Les différentes mesures contribuent à la réalisation des objectifs du schéma directeur de la région Ile-de-France (SDRIF), qui prévoit un rythme maximal de 1 750 hectares d'espaces consommés annuellement. Placé sous l'égide du préfet de région, l'Observatoire de conservation des espaces agricoles et naturels (OCEAN) est chargé d'en suivre l'évolution à partir d'une carte d'occupation des sols établie sur la base de photos aériennes. D'après les prévisions de l'OCEAN, l'objectif du SDRIF serait respecté en 2015, par le maintien d'environ 50 000 hectares de surfaces agricoles à l'intérieur de la zone délimitée par la ceinture verte située à trente kilomètres de Paris. Le projet de loi sur les affaires rurales devrait par ailleurs contribuer à améliorer la situation des espaces périurbains de l'lle-de-France puisqu'il prévoit la possibilité de délimiter des périmètres de protection et d'aménagement des espaces agricoles et naturels périurbains soumis à des règles de gestion précisées dans une charte.
