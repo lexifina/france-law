@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940405848
+
+- Question : [SEQ940405848](seq940405848.md) — Insuffisance des places de professeurs mises au concours <RL pour l'académie de Limoges
+
+## Réponse
+
+*Éducation, JO du 1994-06-02, page 1350*
+
+Réponse. - Les demandes présentées par les recteurs d'académie sont prises en compte au niveau national et réparties en fonction des disponibilités budgétaires afférentes à la formation professionnelle des enseignants des écoles. En 1994, l'offre pour le concours externe est de 9 600 places, ce qui couvre à près de 90 p. 100 les besoins globaux des académies, le reste des besoins étant couvert par les ineat et les listes complémentaires. La répartition des places mises au concours couvre les besoins exprimés par l'académie de Limoges à plus de 93 p. 100, ce qui positionne cette académie de manière légèrement favorable par rapport à la moyenne nationale. En outre, l'apport des professeurs des écoles stagiaires recrutés sur la liste complémentaire du concours de l'année précédente (cette liste pouvant aller jusqu'à 300 p. 100 des places mises au concours) contribue à l'accroissement du nombre de professeurs formés à L'IUFM. Il convient également de tenir compte du fait que l'académie de Limoges est fortement demandée par les bénéficiaires de la législation sur le rapprochement des conjoints, ce qui contribue à assurer l'équilibre entre recrutement et besoins en enseignants à la rentrée scolaire. Le recrutement de professeurs des écoles dans l'académie de Limoges apparaît donc comme équilibré. Ainsi le recteur d'académie n'a pas souhaité faire appel aux sources de recrutement complémentaires que sont le second concours interne et le concours d'accès au cycle préparatoire au second concours interne réservé, entre autres, aux agents candidats d'autres administrations qui remplissent les conditions de présentation à ces concours.
