@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950510933
+
+- Question : [SEQ950510933](seq950510933.md) — Versement par l'Etat aux organismes HLM des indemnités dues pour non-octroi du concours de la force publique
+
+## Réponse
+
+*Intérieur, JO du 1995-08-31, page 1676*
+
+Réponse. - L'honorable parlementaire signale que l'office public d'HLM des Alpes-Maritimes, qu'il présidait, a sollicité 251 fois le concours de la force publique, en 1994, pour l'exécution de jugements d'expulsion et que l'aide des forces de l'ordre ne lui aurait été accordée que 67 fois. L'office public croit avoir constaté dans l'arrondissement de Grasse, plus particulièrement, une tendance à réduire les concours de la force publique et à ralentir le versement des indemnités compensatrices. L'honorable parlementaire souhaite donc que des instructions soient données pour un versement rapide de ces indemnités. Les renseignements recueillis auprès de la préfecture font apparaître que 364 demandes de concours ont été déposées en 1994 ; le concours a été accordé 89 fois, dont 5 pour l'arrondissement de Grasse. 1 119 181,39 francs ont été versés à l'OPAM au titre des indemnités pour 1994, dont 464 246,21 francs pour l'arrondissement précité, où l'on ne constate pas de retards de paiement. Dans le souci de faire respecter l'autorité de chose juge et de ménager les finances publiques, l'administration préfectorale s'efforce donc d'exécuter les jugements d'expulsion ; elle a également pour tâche de conduire une action de prévention des impayés de loyers ou de surendettement dans le parc social de logements, en mobilisant l'ensemble des administrations de l'Etat placées sous son autorité et en coordonnant son action avec celle des bailleurs sociaux intéressés. La préfecture des Alpes-Maritimes continuera de surveiller les délais de règlement des indemnités dues par le budget de l'Etat chaque fois que l'exécution normale des décisions de justice n'a pas pu être poursuivie.
