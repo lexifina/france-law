@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950109447
+
+- Question : [SEQ950109447](seq950109447.md) — Mise en application de l'aide aux chômeurs créateurs-repreneurs d'entreprises (ACCRE)
+
+## Réponse
+
+*Travail, JO du 1995-03-16, page 654*
+
+Réponse. - L'honorable parlementaire souligne les difficultés qu'ont connues les chômeurs ayant créé leur entreprise avant la parution du décret d'application de l'article 6 de la loi quinquennale relatif à l'aide aux chômeurs créateurs d'entreprise. Cet article a eu pour effet essentiel de fixer un montant uniforme à l'aide (32 000 francs), d'élargir son éligibilité aux chômeurs non indemnisés et de porter à douze mois la durée d'exonération de charges sociales. Cette exonération ne s'étendait cependant pas aux chômeurs non indemnisés non titulaires de droits à protection sociale en qualité d'assurés. Le fait d'avoir créé son entreprise avant ou après la date d'entrée en vigueur de la loi ne changeait rien de ce point de vue. Face aux difficultés que rencontraient les créateurs d'entreprise précités le ministère des affaires sociales a adressé le 10 août 1994 une circulaire aux organismes de protection sociale des travailleurs indépendants leur demandant pour l'essentiel de minorer les cotisations forfaitaires des créateurs d'entreprise, bénéficiaires de l'ACCRE, n'ayant pu être exonérés de leur cotisations à ces régimes. Par la suite, l'anomalie que constituait la situation de ces créateurs d'entreprise a été réparée par l'adoption par le Parlement, à l'occasion de la loi portant diverses mesures d'ordre social votée à la fin de la session parlementaire d'automne, d'un article modifiant le code de la sécurité sociale afin d'étendre le bénéfice de l'exonération des charges sociales aux chômeurs non indemnisés. Le décret d'application est à l'examen au sein des ministères concernés.
