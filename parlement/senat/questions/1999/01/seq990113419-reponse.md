@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990113419
+
+- Question : [SEQ990113419](seq990113419.md) — Aides pour les fournitures demandées dans le cadre de l'enseignement technique
+
+## Réponse
+
+*Éducation, JO du 1999-03-25, page 971*
+
+Réponse. - Les élèves de l'enseignement technique et professionnel de lycées, qui préparent un CAP (en deux ans ou en trois ans) ou un BEP (second professionnelle et terminale BEP) peuvent bénéficier, sous réserve de ressources familiales, de bourses qui varient de trois à dix parts plus deux parts supplémentaires liées à l'enseignement technologique (montant de la part 252 francs). De plus, pour tenir compte des frais occasionnés par l'achat d'équipements spéciaux, les élèves boursiers perçoivent la prime à la qualification d'un montant de 2 811 francs et éventuellement la prime d'équipement d'un montant de 1 100 francs la première année de certaines formations. Les élèves qui préparent un baccalauréat professionnel ou technologique peuvent bénéficier de bourses qui varient de trois à dix parts plus deux parts supplémentaires liées à l'enseignement technologique. Les élèves boursiers perçoivent en outre la prime d'entrée en classe de seconde, de première ou de terminale, dont le montant s'élève à 1 400 francs pour chaque classe. En outre, dans les établissements publics ont été mis en place des crédits (fonds social lycéen et fonds social pour les cantines) afin d'aider les lycéens confrontés à des difficultés financières particulières. Ainsi, un ensemble de mesures sont-elles prises afin que cette forme d'enseignement ne soit pas fragilisée quant à son nécessaire développement. De plus, le projet de charte du lycée professionnel actuellement soumis par le ministre aux partenaires sociaux indique qu'une étude sera conduite sur le statut de l'élève de lycée professionnel.
