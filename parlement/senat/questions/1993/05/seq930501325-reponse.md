@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930501325
+
+- Question : [SEQ930501325](seq930501325.md) — Fonctionnement de la commission sport-sécurité
+
+## Réponse
+
+*Jeunesse et sports, JO du 1993-10-28, page 2038*
+
+Réponse. - A la suite de la catastrophe du 5 mai 1992 au stade de Furiani, plusieurs initiatives avaient été prises par l'Etat de manière à éviter que ne puisse se reproduire un tel drame. La loi du 13 juillet 1992 a modifié la loi du 16 juillet 1984 pour y insérer un chapitre X nouveau relatif à la sécurité des équipements et des manifestations sportives. Au cours du débat parlementaire, avait été annoncée la création d'une commission tripartite réunissant des parlementaires, des représentants de l'administration et du mouvement sportif. Cette commission s'est réunie à plusieurs reprises. Cependant, elle n'a jamais remis formellement son rapport au ministre chargé des sports. Elle semble avoir débattu de la nécessité de procéder à quelques améliorations législatives pour élargir les possibilités de répression pénale à l'encontre des fauteurs de troubles. Plusieurs incidents ayant eu lieu ces derniers mois, le Gouvernement a décidé de prendre rapidement les mesures renforcées qui s'imposent pour éviter tout débordement de violence dans les enceintes sportives. Tel est l'objet d'un projet de texte législatif qui est actuellement en cours d'examen et qui tendra, en premier lieu, à alourdir les sanctions pénales de manière à permettre l'usage de la procédure de la comparution immédiate, créer une infraction spécifique à l'encontre de ceux qui auront introduit des armes par destination dans les enceintes sportives et enfin instituer une peine complémentaire d'interdiction de pénétrer dans de telles enceintes. Ce projet de texte sera soumis au Parlement lors de la session d'automne.
