@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910917095
+
+- Question : [SEQ910917095](seq910917095.md) — Relations France-OTAN
+
+## Réponse
+
+*Défense, JO du 1992-03-12, page 611*
+
+Réponse. - La France a accepté de participer en 1991 aux travaux tendant à la redéfinition des concepts stratégiques de l'Alliance. En s'associant à cette réflexion, la France ne s'est pas écartée de sa position traditionnelle dans les relations qu'elle entretient avec l'organisation atlantique depuis 1966. Il s'agissait pour la France de marquer sa volonté de réfléchir, conjointement avec ses partenaires de l'Alliance aux conséquences à tirer sur le plan géo-stratégique des évolutions intervenues récemment en Europe centrale et orientale. La participation de la France aux instances de l'O.T.A.N. relevant de la structure militaire intégrée n'est nullement envisagée. Il est actuellement exclu de revenir dans les instances d'où la France est absente depuis 1966. A cet égard, il faut souligner que l'étude du nouveau concept stratégique a été confiée à un groupe de haut niveau placé sous l'autorité de conseil atlantique, instance politique de l'Alliance où la France siège de plein droit. S'agissant du concept stratégique nucléaire français, celui-ci est fondé sur le refus de la bataille, nucléaire ou conventionnelle. Il repose notamment sur la dissuasion du faible au fort et sur le principe de suffisance. Le concept de dernier recours, évoqué au sommet de l'O.T.A.N. à Londres, n'est pas compatible avec celui de la France et rien ne permet de penser que le concept défendu par la France puisse, à court terme, se rapprocher d'une telle position de l'O.T.A.N. Le sommet de l'O.T.A.N., tenu à Rome les 7 et 8 novembre 1991, a cependant marqué encore une fois la solidarité de la France vis-à-vis de ses alliés et des progrès dans la compréhension de nos positions respectives ont été accomplis.
