@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971104092
+
+- Question : [SEQ971104092](seq971104092.md) — Règles relatives au fonctionnement des groupes d'élus dans les assemblées délibérantes des collectivités territoriales
+
+## Réponse
+
+*Intérieur, JO du 1998-01-08, page 104*
+
+Réponse. - Le dispositif de financement des groupes d'élus par les assemblées délibérantes des collectivités territoriales et de l'établissement public auxquels il s'applique a pour seule finalité d'améliorer le fonctionnement interne de ces organes. Cette logique a naturellement conduit le législateur à limiter les dépenses de personnel à la charge de l'assemblée aux agents spécialement affectés aux groupes d'élus, à l'exclusion des collaborateurs attachés à la personne d'un élu et chargés de l'assister dans l'exercice de son mandat local. Selon ce même principe, les dépenses de personnel s'entendent de la rémunération principale, des accessoires indemnitaires et de l'ensemble des charges sociales, mais non des avantages sociaux facultatifs et des dépenses de déplacement et de formation, lesquels ne sont pas directement liés au fonctionnement des groupes politiques. S'agissant des moyens matériels pouvant être affectés par la collectivité aux groupes d'élus, leur liste, strictement limitative, a été déterminée en fonction des besoins propres au fonctionnement interne de l'assemblée : local administratif, matériel de bureau, frais de documentation, de courrier et de télécommunication. Il n'est pas dans ces conditions dans l'intention du Gouvernement d'inclure dans cette liste les frais d'information et de communication à destination de la population dans la mesure où ces derniers n'ont pas pour but de contribuer au bon fonctionnement interne de l'assemblée délibérante et où d'autres moyens permettent aux élus de rendre compte à leurs concitoyens de leurs interventions au sein de cette distance.
