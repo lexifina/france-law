@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970321410
+
+- Question : [SEQ970321410](seq970321410.md) — Montant de l'allocation adulte handicapé
+
+## Réponse
+
+*Travail, JO du 1997-05-22, page 1537*
+
+Réponse. - L'allocation aux adultes handicapés (AAH), revenu minimum garanti par l'Etat à toute personne handicapée, est une prestation non contributive. Il est, dès lors, fondé de subordonner son attribution à une condition de ressources, et de réduire en conséquence l'allocation lorsque le montant des ressources du bénéficiaire et, le cas échéant, de son conjoint ou concubin est supérieur à un plafond. Toutefois, l'appréciation des ressources se fait dans un sens favorable à l'intéressé, l'asiette étant le revenu net catégoriel retenu pour l'établissement de l'impôt sur le revenu. Il s'agit donc des revenus après les abattements normaux de 10 et 20 %, auxquels s'ajoutent les abattements spécifiques aux personnes invalides, lesquelles bénéficient également d'une demi-part supplémentaire lors du calcul du quotien familial. Par ailleurs, le plafond de ressources mis pour l'attribution de l'AAH tient compte de la situation personnelle du bénéficiaire : ce plafond, égal à 40 834 francs à compter du 1er juillet 1996, est en effet doublé lorsque le demandeur est marié ou vit maritalement, et majoré de 50 % par enfant à charge. En outre, les personnes invalides exerçant une activité professionnelle peuvent demander à bénéficier de l'allocation compensatrice pour frais professionnels dès lors qu'elles justifient pour l'exercice de celle-ci de frais professionnels supplémentaires réguliers que n'expose pas un travailleur valide exerçant la même activité (frais de transport, aménagement d'un véhicule, etc.). Enfin, l'honorable parlementaire est informé que ni la suppression de l'abattement de 20 % ni l'imposition des allocations familiales n'entrent dans les intentions actuelles du Gouvernement.
