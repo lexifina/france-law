@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960817191
+
+- Question : [SEQ960817191](seq960817191.md) — Catégories professionnelles bénéficiant d'un abattement fiscal supplémentaire
+
+## Réponse
+
+*Budget, JO du 1996-12-19, page 3403*
+
+Réponse. - L'article 5 de l'annexe IV au code général des impôts, pris en application de l'article 83-3o du code précité, fixe la liste des professions ouvrant droit à une déduction forfaitaire supplémentaire pour frais professionnels, ainsi que le taux de déduction applicable à chacune de ces professions. Cette liste, qui a été complétée par diverses décisions ministérielles n'ayant pas revêtu la forme d'un arrêté, figure dans la documentation administrative 5 F 2531. Elle est reproduite ci-après. Par ailleurs, l'article 93-1 quater du code général des impôts prévoit que les écrivains et compositeurs dont les droits d'auteur sont intégralement déclarés par des tiers bénéficient d'une déduction forfaitaire supplémentaire pour frais professionnels de 25 %. Le montant des déductions forfaitaires supplémentaires est limitée à 50 000 francs par bénéficiaire et par an. Dans le cadre de la réforme sur cinq ans de l'impôt sur le revenu, qui se traduira par une diminution de 25 % du poids de cet impôt, le projet de loi de finances pour 1997 prévoit la suppression progressive de toutes les déductions forfaitaires supplémentaires qui sont devenues sans rapport avec la réalité des frais professionnels supportés par les intéressés et qui ont donc perdu toute justification. Le Gouvernement a par ailleurs prévu que cette suppression serait sans incidence sur l'assiette des cotisations sociales.I. - Liste des professions visées à l'article 5 de l'annexe IV au code général des impôts ( NOTA Voir tableau page 3403 ). II. - Liste des professions autorisées à bénéficier d'une déduction supplémentaire à la suite d'une décision n'ayant pas revêtu la forme d'un arrêté ministériel.( NOTA Voir tableau page 3403 ).
