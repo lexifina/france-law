@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860400329
+
+- Question : [SEQ860400329](seq860400329.md) — Garantie d'emploi des maîtres auxiliaires à l'étranger
+
+## Réponse
+
+*Éducation, JO du 1986-07-10, page 966*
+
+Réponse. - La note de service n° 84-241 du 10 juillet 1984, précise les conditions que devaient remplir, à la rentrée 1984, les agents non titulaires de retour de l'étranger pour bénéficier de la garantie de traitement. Pour les rentrées 1985 et 1986, les mêmes dispositions ont été reconduites dans le cadre des notes de service n° 85-15 du 8 janvier 1985 et n° 85-477 du 20 décembre 1985, publiées au Bulletin officiel de l'éducation nationale. Dans tous les cas, les agents qui exerçaient dans des établissements scolaires étrangers au titre de la loi du 13 juillet 1972, et qui sont remis à la disposition de la France, bénéficient de la garantie de traitement, qu'ils aient enseigné dans les pays de l'étranger dits " traditionnels " ou dans ceux relevant du champ d'action du ministère de la coopération, les contrats de coopération pouvant être souscrits indifféremment dans ces deux groupes d'Etats. Inversement, les agents exerçant sous contrats locaux dans ces pays peuvent également bénéficier de la garantie de traitement sous réserve d'avoir enseigné en France dans un établissement public durant trente semaines à temps plein pendant l'année scolaire précédant leur départ à l'étranger, ou bien d'être anciens élèves des IPES ou d'une école normale supérieure non dégagés de leurs obligations décennales. Les conditions de réemploi des enseignants non titulaires sont donc parfaitement indépendantes du lieu d'exercice de l'enseignement sans être uniquement tributaires du type de contrat souscrit. En 1984, 594 agents ont bénéficié, toutes catégories confondues, de la garantie de traitement à leur retour de l'étranger et pour 1985, 393 personnes ont relevé à leur tour de ces dispositions. Les données relatives à la rentrée 1986 ne sont pas encore connues.
