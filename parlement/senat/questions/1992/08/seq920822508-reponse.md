@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920822508
+
+- Question : [SEQ920822508](seq920822508.md) — Mesures en faveur des entreprises artisanales du bâtiment
+
+## Réponse
+
+*Commerce et artisanat, JO du 1993-03-04, page 380*
+
+Réponse. - Le Gouvernement, très conscient des problèmes du bâtiment, a eu la volonté de soutenir l'activité de ce secteur en maintenant ou en développant un certain nombre de mesures favorables à l'engagement de travaux de réhabilitation et d'entretien telles que réductions fiscales, crédits pour les logements sociaux (programmes de 200 000 logements à rénover annuellement sur cinq ans), primes à l'amélioration de l'habitat (ANAH) pour les propriétaires bailleurs... Le marché de l'entretien-amélioration, qui représente environ les deux tiers des marchés des artisans, devrait bénéficier de ces mesures. Par ailleurs, en faveur de la construction neuve, on peut citer notamment la décision de relancer l'accession sociale à la propriété et le projet d'effort fiscal en 1993 pour les particuliers qui investissent dans le logement locatif intermédiaire. Pour sa part, le ministère du commerce et de l'artisanat a élaboré un projet de loi relatif à la sous-traitance, dans lequel figurent des dispositions spécifiques au bâtiment. Elles assurent une amélioration des relations, y compris financières, entre maître d'ouvrage, donneur d'ordres et sous-traitants et devraient assurer à ces derniers une meilleure protection de leurs droits. Ce texte, qui avait fait l'objet d'une concertation étroite avec le secteur des métiers, a été présenté au conseil des ministres du 9 décembre 1992. Les très nombreuses entreprises artisanales du bâtiment qui travaillent en sous-traitance devraient ainsi voir très sensiblement améliorées les conditions juridiques dans lesquelles elles réalisent leurs marchés et voir leurs garanties de paiement renforcées.
