@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960415201
+
+- Question : [SEQ960415201](seq960415201.md) — Incitations fiscales pour la protection de l'environnement
+
+## Réponse
+
+*Environnement, JO du 1996-06-27, page 1593*
+
+Réponse. - Mme le ministre de l'environnement a pris connaissance avec intérêt de la question posée par l'honorable parlementaire concernant la nature des incitations fiscales qui pourraient être mises en place en faveur des investissements effectués dans le domaine de la protection de l'environnement. Il convient d'abord de rappeler que dès à présent divers dispositifs fiscaux qui sont en place, ont un lien direct ou indirect avec une politique de l'environnement. C'est le cas, par exemple, de la fiscalité relative aux carburants ou aux économies d'énergie dans le bâtiment. Il s'agit, parfois, de mesures très spécifiques comme celles prévues à l'article 1464 E du code général des impôts. Ces dispositions permettent aux collectivités locales d'exonérer de la taxe professionnelle, pour moitié et pendant dix ans, la valeur locative des installations de désulfuration du gazole et du fioul lourd, ainsi que des équipements de conversion du fioul en gazole, fioul domestique ou carburants pour automobiles. Il n'est pas exclu de recourir de nouveau aux incitations fiscales lorsqu'il apparaîtra, par exemple, que c'est le moyen le plus efficace de réduire la pollution ou de mieux gérer les milieux naturels. C'est le cas avec le projet de loi sur l'air et l'utilisation rationnelle de l'énergie qui est en discussion actuellement devant le Parlement et qui comporte des dispositions fiscales tendant notamment à développer l'utilisation des carburants les moins polluants ainsi que le renouvellement du parc automobile par des véhicules bénéficiant d'un équipement leur permettant cette utilisation.
