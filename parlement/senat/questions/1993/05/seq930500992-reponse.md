@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930500992
+
+- Question : [SEQ930500992](seq930500992.md) — Amortissement des aides au développement des réseaux d'eau potable
+
+## Réponse
+
+*Budget, JO du 1993-07-22, page 1192*
+
+Réponse. - L'instruction M 49, comme l'instruction 69-67 MO du 12 juin 1969, prévoit que les subventions d'investissement reçues et donc inscrites à la section d'investissement lors de leur encaissement font l'objet, chaque année, d'une reprise en recettes d'exploitation ; ainsi, la procédure prévue par la M 49 conduit, comme l'instruction précédente, à l'atténuation du coût du prix de l'eau ou de la redevance d'assainissement. L'innovation apportée par l'instruction M 49 porte exclusivement sur la méthode de reprise de la subvention et donc sur son montant. Au lieu d'étaler la durée de cette reprise sur la durée d'amortissement du bien subventionné, cette instruction prévoit que la reprise doit en principe être effectuée à hauteur de la dotation à l'amortissement annuel du bien, reprenant à cet égard la méthode préconisée par le plan comptable général, ce qui conduit à diminuer le prix de l'eau de manière plus importante, mais sur une période plus courte qu'en appliquant la méthode précédente. Toutefois l'assemblée délibérante peut décider de continuer à appliquer la méthode antérieure en reprenant la subvention sur la durée de l'amortissement du bien. En effet, si selon la méthode préconisée par l'instruction M 49, on obtient dans les premières années la neutralisation de la charge de l'amortissement, l'utilisation de la seconde méthode permet un lissage du coût du service sur la durée totale de l'amortissement du bien ; compte tenu des effets différents dans le temps de l'une ou l'autre méthode, il appartient donc à l'assemblée délibérante d'apprécier en toute liberté les incidences financières de son choix en la matière.
