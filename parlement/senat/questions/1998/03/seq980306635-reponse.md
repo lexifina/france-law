@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980306635
+
+- Question : [SEQ980306635](seq980306635.md) — Non affiliation d'agents des collectivités locales à la caisse de retraite correspondant à leur statut
+
+## Réponse
+
+*Fonction publique, JO du 1998-09-10, page 2914*
+
+Réponse. - Il est constant que, lorsque des collectivités versent des cotisations de retraite par erreur auprès des URSSAF au lieu de la CNRACL, la protection des droits des agents pour lesquels des prélèvements leur ouvrant des droits à retraite ont été effectués est recherchée en premier. Il semble toutefois inopportun que des erreurs d'affiliation, qui ne sont pas toujours relevées à leur origine par les URSSAF, lorsqu'elles sont découvertes au-delà des délais de droit commun de prescription, puissent conduire les collectivités locales à devoir cotiser deux fois, puisqu'elles peuvent être obligées de verser à nouveau l'intégralité des contributions et retenues revenant à la CNRAL. Des démarches en vue de trouver des solutions lorsque des litiges surviennent entre certaines URSSAF et des collectivités locales ont été entreprises auprès du ministère de l'emploi et de la solidarité, ministère de tutelle des URSSAF même si des solutions telles que celles retenues dans le cadre de validations de service ne paraissent pas pouvoir être mises en uvre. Il semble notamment que des efforts pourraient être accomplis afin d'éviter des différences dans les approches des URSSAF sur ce problème. Un premier constat peut cependant être fait dès maintenant, car il paraît que grâce au partenariat qui s'est établi volontairement entre les centres de gestion et la CNRACL les erreurs de cette nature, qui s'expliquent le plus souvent par les difficultés rencontrées par quelques collectivités pour maîtriser l'ensemble des règles qui s'imposent à elles, devraient disparaître.
