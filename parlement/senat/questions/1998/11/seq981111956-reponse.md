@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981111956
+
+- Question : [SEQ981111956](seq981111956.md) — Crise au sein des Archives de France
+
+## Réponse
+
+*Culture, JO du 1999-01-07, page 26*
+
+Réponse. - Le ministère de la culture et de la communication conçoit pour le service public des archives une ambition forte, cohérente avec le rôle fondamental que ce service public joue dans la conservation du patrimoine national, dans la perpétuation de la mémoire administrative, politique et sociale et dans la connaissance historique. Cette ambition se matérialise par la préparation d'un projet de loi modernisant la législation française sur les archives et par la mise au point d'un programme de modernisation des Archives nationales, destiné à permettre à ces dernières de remplir leurs missions dans les meilleures conditions. Sur ce dernier point, il était prévu, jusqu'à présent, que la Maison de la mémoire de la Ve République accueillerait à Reims les archives publiques postérieures à 1958, mais il paraît aujourd'hui nécessaire de globaliser la réflexion à l'ensemble des sites des Archives nationales, d'où la mission de réflexion confiée au nouveau directeur des Archives de France, qui vient de remettre ses premières propositions. Parallèlement, le travail entrepris avec les différentes administrations pour améliorer la collecte des archives ainsi qu'avec les collectivités territoriales et, en particulier, les départements de qui dépendent les services des archives départementales, sera poursuivi. De même, le travail sur l'utilisation des technologies de l'information sera accéléré afin de rendre les archives accessibles au plus grand nombre, dans le respect du droit applicable. Il s'agit donc, au total, d'une volonté particulièrement affirmée de redonner toute sa vigueur à un secteur que sa vocation situe au c ur même du pacte républicain.
