@@ -6,13 +6,17 @@ A. - Classification des emplois
 
 B. - Salaire de base minimum (S.B.M.)
 
-Le salaire de base minimum mensuel (S.B.M.) se définit comme la rémunération minimale, mensuelle, brute, en espèces, hors avantages en nature et primes quelle que soit leur périodicité.
+Le salaire de base minimum mensuel (SBM) se définit comme la rémunération minimale, mensuelle, brute, en espèces, hors avantages en nature et primes quelle que soit leur périodicité.
 
-Il est compris pour une durée de travail mensuelle de 169 heures.
+Il est compris pour une durée de travail mensuelle de 151,67 heures.
 
-Pour les entreprises qui ont une durée mensuelle de travail inférieure à 169 heures, le salaire de base minimum résulte du calcul pro rata temporis, sauf accord d'entreprise ou d'établissement plus favorable :
+Pour les entreprises qui ont une durée mensuelle de travail inférieure à 151,67 heures, le salaire de base minimum résulte du calcul pro rata temporis, sauf accord d'entreprise ou d'établissement plus favorable.
 
-S.B.M.169 " durée mensuelle du travail
+SBM
+
+---------- x durée mensuelle du travail
+
+151,67
 
 C. - Revenu minimum mensuel (R.M.M.)
 
@@ -36,7 +40,7 @@ pour les autres niveaux, à : 1/12 du S.B.M.
 
 Les R.M.M. sont garantis aux salariés dès lors qu'ils ont acquis une ancienneté de six mois. Avant d'avoir acquis cette ancienneté, les salariés perçoivent les salaires de base minima, tels que définis au paragraphe B du présent accord, auxquels s'ajoutent les avantages en nature.
 
-Pour les entreprises qui ont une durée de travail inférieure à 169 heures par mois, les R.M.M. seront ceux résultant du calcul pro rata temporis de la rémunération en espèces (S.B.M. + fraction des primes) majorée des avantages en nature, sauf accord d'entreprise ou d'établissement plus favorable.
+Pour les entreprises qui ont une durée de travail inférieure à 151,67 heures par mois, les RMM seront ceux résultant du calcul pro rata temporis de la rémunération en espèces (SBM + fraction des primes) majoré des avantages en nature, sauf accord d'entreprise ou d'établissement plus favorable.
 
 D. - Revenu minimum annuel (R.M.A.)
 
@@ -47,6 +51,414 @@ Les R.M.A. de l'année en cours de chacun des niveaux sont indiqués pour l'ann�
 Les revenus minima annuels s'entendent pour une durée de travail mensuelle de 169 heures sur douze mois de travail effectif au cours de l'année civile.
 
 Pour les entreprises qui ont une durée de travail inférieure à 169 heures sur douze mois, les R.M.A. seront ceux résultant de l'addition des R.M.M. correspondant à cet horaire de travail, sauf accord d'entreprise ou d'établissement plus favorable.
+
+Les revenus minima annuels s'entendent pour une durée de travail mensuel de 151,67 heures sur 12 mois de travail effectif au cours d'une année civile.
+
+Pour les entreprises qui ont une durée de travail inférieure à 151,67 heures sur 12 mois, les RMA seront ceux résultant de l'addition des RMM correspondant à cet horaire de travail, sauf accord d'entreprise ou d'établissement plus favorable.
+
+L'annexe 1 à l'avenant n° 7 du 3 avril 1990 (étendu par arrêté du 23 juillet 1990, JO du 8 août 1990) :
+
+Salaires de la branche au 31 décembre 2000 (3) Nombre de réponses : base 151,67 heures - Avantages en nature compris (rubrique 211, bilan social)
+
+(1) SALAIRE de base mensuel
+
+(2) REVENU mensuel moyen
+
+:--------------:-------------------:
+
+|
+
+HOMMES |
+
+NIV |
+
+ECHELONS |
+
+effec- |
+
+(1) |
+
+(2) |
+
+|
+
+|
+
+tif |
+
+|
+
+|
+
+Niv |
+
+A |
+
+|
+
+|
+
+|
+
+I |
+
+B |
+
+|
+
+|
+
+|
+
+Niv |
+
+A |
+
+|
+
+|
+
+|
+
+II |
+
+B |
+
+|
+
+|
+
+|
+
+Niv |
+
+A |
+
+|
+
+|
+
+|
+
+III |
+
+B |
+
+|
+
+|
+
+|
+
+Niv |
+
+A |
+
+|
+
+|
+
+|
+
+IV |
+
+B |
+
+|
+
+|
+
+|
+
+Niv |
+
+A |
+
+|
+
+|
+
+|
+
+V |
+
+B |
+
+|
+
+|
+
+|
+
+TOTAL |
+
+|
+
+(1) SALAIRE de base mensuel
+
+(2) REVENU mensuel moyen
+
+|
+
+FEMMES |
+
+NIV |
+
+ECHELONS |
+
+effec- |
+
+(1) |
+
+(2) |
+
+|
+
+|
+
+tif |
+
+|
+
+|
+
+Niv |
+
+A |
+
+|
+
+|
+
+|
+
+I |
+
+B |
+
+|
+
+|
+
+|
+
+Niv |
+
+A |
+
+|
+
+|
+
+|
+
+II |
+
+B |
+
+|
+
+|
+
+|
+
+Niv |
+
+A |
+
+|
+
+|
+
+|
+
+III |
+
+B |
+
+|
+
+|
+
+|
+
+Niv |
+
+A |
+
+|
+
+|
+
+|
+
+IV |
+
+B |
+
+|
+
+|
+
+|
+
+Niv |
+
+A |
+
+|
+
+|
+
+|
+
+V |
+
+B |
+
+|
+
+|
+
+|
+
+TOTAL |
+
+|
+
+(1) SALAIRE de base mensuel
+
+(2) REVENU mensuel moyen
+
+|
+
+ENSEMBLE |
+
+NIV |
+
+ECHELONS |
+
+effec- |
+
+(1) |
+
+(2) |
+
+|
+
+|
+
+tif |
+
+|
+
+|
+
+Niv |
+
+A |
+
+|
+
+|
+
+|
+
+I |
+
+B |
+
+|
+
+|
+
+|
+
+Niv |
+
+A |
+
+|
+
+|
+
+|
+
+II |
+
+B |
+
+|
+
+|
+
+|
+
+Niv |
+
+A |
+
+|
+
+|
+
+|
+
+III |
+
+B |
+
+|
+
+|
+
+|
+
+Niv |
+
+A |
+
+|
+
+|
+
+|
+
+IV |
+
+B |
+
+|
+
+|
+
+|
+
+Niv |
+
+A |
+
+|
+
+|
+
+|
+
+V |
+
+B |
+
+|
+
+|
+
+|
+
+TOTAL |
+
+|
+
+(3) Note explicative page suivante du rapport annuel de branche.
 
 Après avoir acquis une ancienneté d'un an, le R.M.A. est garanti aux salariés, au prorata du nombre de mois de travail effectif dans l'année civile.
 
