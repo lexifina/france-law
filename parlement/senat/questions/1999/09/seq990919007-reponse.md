@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990919007
+
+- Question : [SEQ990919007](seq990919007.md) — Restructuration du vignoble méditerranéen
+
+## Réponse
+
+*Agriculture, JO du 1999-12-30, page 4287*
+
+Réponse. - Les aides accordées par les pouvoirs publics pour accompagner la restructuration du vignoble ont connu sur les deux dernières campagnes, une augmentation de 45 % des hectares primés, ce qui a posé des problèmes budgétaires pour les plantations de la campagne 1998-1999. Cette question a fait l'objet d'un examen avec les responsables professionnels de la viticulture le 22 septembre 1999. Il a été décidé à cette occasion d'abonder de 104 millions de francs le fonds affecté à la rénovation au vignoble pour donner la possibilité à l'Office national interprofessionnel des vins (Onivins) de soutenir la restructuration de l'ensemble des 13 500 hectares plantés en 1998-1999. Pour ce qui concerne les plantations 1999-2000, il est prévu de limiter les superficies aidées à 9 000 hectares, avant la mise en uvre d'un nouveau dispositif plus avantageux dans le cadre de la nouvelle organisation commune de marché. Les professionnels se sont engagés à respecter ce chiffre. Par ailleurs, les méthodes de travail rapide, et particulièrement celles visant la taille de la vigne, tendent à favoriser l'installation des maladies du bois qui peuvent provoquer des dégénérescences des ceps, voire leur mortalité. Dans le vignoble méditerranéen, la flavescence dorée pose un problème grave et est en extension depuis une dizaine d'années. Un groupe de travail a été mis en place. Il devra faire des propositions de nature à faire avancer la connaissance, en relation étroite avec l'Institut national de la recherche agronomique, et à faire évoluer si nécessaire la réglementation qui s'applique à ce type de maladies.
