@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950811803
+
+- Question : [SEQ950811803](seq950811803.md) — Université de Franche-Comté
+
+## Réponse
+
+*Éducation, JO du 1995-09-21, page 1820*
+
+Réponse. - Il appartient à l'université de Besançon de tenir compte des observations de la Chambre régionale des comptes de Franche-Comté qui, dans un rapport récent, a relevé des irrégularités dans la gestion des personnels enseignant et non enseignants. Certains enseignants n'effectuent pas leurs obligations statutaires, bénéficient de décharges de services abusives ou perçoivent des primes pédagogiques, d'encadrement doctoral ou de recherche, sans avoir effectué le nombre d'heures requis. S'agissant des effectifs en personnel enseignant et IATOS, l'université de Besançon enregistre certes des taux d'encadrement inférieurs aux taux moyens nationaux. Toutefois un effort a été entrepris depuis plusieurs années pour rapprocher les situations relatives. Ainsi, sur la période 1992-1995 de son contrat quadriennal de développement, 108 emplois d'enseignant et 10 emplois d'IATOS lui ont été notifiés. S'agissant de la dotation globale de fonctionnement, conformément à la méthode de répartition adoptée cette année, chaque établissement a reçu une dotation minimale dite " plancher ", égale à celle perçue en 1994. La répartition du disponible comportait deux sous-ensembles ventilés en un complément à la sous-dotation réparti entre les établissements les moins bien dotés, et un correctif surface destiné à compenser la non-prise en compte des surfaces livrées entre 1992 et 1994. L'université de Besançon a ainsi reçu une dotation globale de fonctionnement de 25 784 000 F, y compris le complément à la sous-dotation et le correctif surface, d'où une hausse de 1,23 p. 100 par rapport à 1994. La situation de l'université de Besançon sera réexaminée lors des négociations pour le renouvellement de son contrat.
