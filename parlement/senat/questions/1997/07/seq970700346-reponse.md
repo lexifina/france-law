@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970700346
+
+- Question : [SEQ970700346](seq970700346.md) — Situation du siège parisien d'Electricité de France (EDF)
+
+## Réponse
+
+*Industrie, JO du 1997-09-18, page 2473*
+
+Réponse. - La reconstruction du site immobilier parisien d'Electricité de France situé dans le huitième arrondissement de Paris s'inscrit dans un projet plus vaste d'implantation des services centraux de l'établissement public dans la région parisienne. Ces services centraux sont répartis sur trois pôles : Saint-Denis, dont la construction vient de s'achever, La Défense et l'ensemble immobilier Murat-Messine-Monceau, dans le huitième arrondissement de Paris. Le plan de localisation a été approuvé par le conseil d'administration d'EDF en mars 1997 et il est actuellement soumis à la procédure d'agrément par les autorités compétentes en matière d'urbanisme et d'aménagement. Dans ce cadre, Electricité de France a étudié l'avenir de l'ensemble Murat-Messine-Monceau. Il est résulté des études techniques et financières qu'il était préférable de démolir les anciens bâtiments et de les reconstruire. Un projet a donc été préparé et a fait l'objet d'un concours de maître d'oeuvre. C'est sur la base d'un permis de construire et d'une évaluation précise des coûts des travaux que la direction de l'établissement public prendra une décision définitive, probablement pas avant la fin de l'année 1998. Si la reconstruction était décidée, cela conduirait, compte tenu des procédures de passation des marchés et de la nécessité de reloger provisoirement les services, à un début des travaux fin 2000 - début 2001, pour une durée des travaux prévue de quatre ans environ. On ne peut, certes, pas affirmer avec précision aujourd'hui quels seront les emplois de 2005, ni quelle sera l'organisation exacte de l'établissement à cette date ; quoi qu'il en soit, EDF envisage que les immeubles soient reconstruits pour accueillir 2 300 à 2 400 personnes en 2005.
