@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950109606
+
+- Question : [SEQ950109606](seq950109606.md) — Approvisionnement des grandes surfaces en viande de boucherie
+
+## Réponse
+
+*Entreprises, JO du 1995-03-09, page 573*
+
+Réponse. - Dans un contexte de réduction de la consommation globale de viande (à domicile et hors foyer), la grande distribution représente 68 p. 100 du marché de la commercialisation. Les sociétés de distribution, très concentrées, recherchent un approvisionnement constant et de qualité. C'est la raison pour laquelle elles privilégient souvent les grandes unités de transformation susceptibles de leur fournir rapidement et régulièrement les volumes demandés. Les PME-PMI rencontrent des difficultés pour répondre à ces exigences. Par ailleurs, il convient de signaler que la grande distribution développe l'implantation de ses propres abattoirs dans lesquels sont intégrées des entreprises de transformation. C'est le cas pour des enseignes telles que Leclerc, Mammouth, Intermarché. Toutefois, toute démarche volontaire de partenariat entre l'amont et l'aval de la filière est vivement encouragée. C'est ainsi qu'en Normandie 1 800 éleveurs ont contracté avec une grande enseigne pour son approvisionnement en viande bovine de qualité. L'apport en produits carnés effectué par les groupements d'éleveurs français représente environ un tiers du volume de viande distribué par les grandes enseignes. Les PME-PMI de la transformation ont un rôle à jouer. Toutefois, elles ne peuvent prétendre devenir un véritable interlocuteur de la grande distribution que si elles consentent à se regrouper. Enfin, il est rappelé qu'en application du principe de liberté du commerce les pouvoirs publics ne peuvent intervenir dans les relations contractuelles établies entre les fournisseurs et les distributeurs.
