@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931204087
+
+- Question : [SEQ931204087](seq931204087.md) — Statistiques relatives aux résultats du baccalauréat
+
+## Réponse
+
+*Éducation, JO du 1994-03-10, page 543*
+
+Réponse. - Après une période de croissance relativement modérée, du milieu des années 70 au milieu des années 1980, la part d'une génération accédant au niveau du baccalauréat (général, technologique et professionnel) vient de gagner vingt points en cinq ans : 60,6 p. 100 à la rentrée 1992, contre 40,8 p. 100 en 1987 (pour les seules formations relevant du MEN). Deux facteurs contribuent à cette hausse : 1o à l'issue de la 5e et de la 3e générale, les flux de passage en classe supérieure ont fortement progressé : la 5e cesse d'être un palier d'orientation (disparition des CPPN-CPA, des classes préparatoires au CAP) et les entrées en 4e générale augmentent, comme les entrées en seconde à l'issue de la 3e générale. Le cumul de ces évolutions provoque un important afflux de nouveaux lycéens à la fin des années 1980 ; 2o à l'issue du BEP, de plus en plus d'élèves, la moitié aujourd'hui, poursuivent leurs études vers un bac technologique, mais surtout un bac professionnel. Dans les prochaines années, la croissance du taux d'accès au baccalauréat devrait nettement se ralentir, comme le laissait déjà présager la rentrée 1992, confirmée par les premiers résultats de la rentrée 1993. Les passages de 3e générale en seconde cessent en effet d'augmenter, le taux d'accès perdant même deux points lors des deux dernières rentrées. En revanche l'orientation des titulaires d'un BEP vers le bac professionnel devrait continuer à progresser : elle pourrait concerner 15 p. 100 d'une génération à la fin du siècle (avec le renfort de l'apprentissage) contre 7 p. 100 actuellement. De nombeux chiffres, tableaux et commentaires illustrent la question posée. Compte tenu de leur importance, ceux-ci feront l'objet d'un envoi direct à l'intéressée.
