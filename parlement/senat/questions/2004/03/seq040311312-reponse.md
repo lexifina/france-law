@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040311312
+
+- Question : [SEQ040311312](seq040311312.md) — Application de l'article 5 de la loi tendant à la création d'un régime de retraite complémentaire obligatoire pour les non-salariés agricoles
+
+## Réponse
+
+*Agriculture, JO du 2004-08-26, page 1920*
+
+La loi n° 2002-308 du 4 mars 2002 tendant à la création d'un régime de retraite complémentaire obligatoire (RCO) est entrée en vigueur le 1er janvier 2003. La loi de finances pour 2003 a reporté au 1er avril 2003 le service des pensions du régime. Dès lors, il n'était guère possible de dresser un bilan de la mesure dans le délai imparti par l'article 5 de la loi du 4 mars 2002. Cette année, en revanche, le Conseil supérieur des prestations sociales agricoles est en mesure de mettre en application chacune des missions que lui confie l'article 5 et il s'est réuni à cette fin le 7 avril. Il ressort, notamment, du bilan établi lors de cette séance, que la mise en place de la RCO apporte un complément de revenu de près de 1 000 euros par an, en moyenne à plus de 435 000 non-salariés retraités du régime agricole. Les premiers versements sont intervenus à compter de la mensualité d'avril 2003, soir début mai 2003. Le régime est financé par les cotisations des exploitants et par une importante contribution du budget de l'Etat qui s'élève à 142 millions d'euros en 2004 contre 28 millions d'euros en 2003. S'agissant de l'extension de la mesure aux conjoints et aux aides familiaux, un réel problème financier se pose. Cette extension implique, en effet, soit une augmentation de la cotisation annuelle, jugée trop importante par les organisations professionnelles elles-mêmes, soit une hausse de la participation financière de l'Etat, difficilement envisageable dans la conjoncture budgétaire actuelle. Le Gouvernement continue de mener une réflexion sur cette question avec les partenaires concernés.
