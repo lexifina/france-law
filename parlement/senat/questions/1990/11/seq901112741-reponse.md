@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901112741
+
+- Question : [SEQ901112741](seq901112741.md) — Affiliation des ouvriers des parcs et ateliers de Vendée
+
+## Réponse
+
+*Équipement, JO du 1991-03-07, page 474*
+
+Réponse. - Par télex du 17 octobre dernier, il a été demandé aux directions départementales de l'équipement de faire parvenir la liste nominative des O.A.P.A. " départementaux " en fonction au 1er novembre 1990, qui doivent être intégrés sur le budget de l'Etat à compter du 1er janvier 1991. Dans le cadre des mesures préparatoires à cette procédure, il a été signalé que ne seraient intégrés au 1er janvier 1991 que les agents en fonction au 1er novembre 1990, qu'ils soient en position normale d'activité ou en situation statutaire différente. Cette mesure a été prise, en liaison avec les services de la comptabilité publique, pour permettre aux trésoreries générales de mettre en place les salaires de janvier. En effet, toute prise en charge tardive aurait pour incidence de laisser les agents sans rémunération à la fin du mois de janvier. Toutefois, consciente de la gêne occasionnée par la prise en compte de cette date, la direction du personnel a indiqué que le télex initial ne devait pas avoir pour effet d'interrompre les procédures de recrutement en cours à la même date (O.A.P.A. départementaux) mais devait conduire à ne plus mettre en oeuvre de nouvelles procédures à compter du 1er novembre 1990, afin d'éviter l'inconvénient mentionné au paragraphe précédent. Une étude toute particulière des effectifs O.A.P.A. départementaux du parc départemental de la Vendée a d'ailleurs été faite dès le 30 octobre 1990. Ainsi mes services ont pris bonne note des trois recrutements en cours et de la prise de fonction de ces agents annoncée pour le 1er décembre 1990. A cette dernière date, il y aura donc autant d'agents O.A.P.A. que le nombre de postes visé dans la convention de mise à disposition.
