@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960213777
+
+- Question : [SEQ960213777](seq960213777.md) — Eventuelle exonération de taxes d'habitation et foncière pour un adulte handicapé
+
+## Réponse
+
+*Budget, JO du 1996-07-04, page 1656*
+
+Réponse. - En application de l'article 1390 du code général des impôts, les personnes handicapées titulaires de l'allocation aux adultes handicapés et non imposables à l'impôt sur le revenu au sens de l'article 1417 du code général des impôts sont exonérées de la taxe foncière sur les propriétés bâties afférente à leur habitation principale dès lors qu'elles en sont propriétaires. D'autre part, conformément à l'article 1414 du code général des impôts, les contribuables titulaires de l'allocation aux adultes handicapés ou atteints d'une infirmité ou d'une invalidité les empêchant de subvenir à leurs besoins bénéficient d'une exonération de taxe d'habitation lorsqu'ils ne sont pas passibles de l'impôt sur le revenu au sens de l'article 1417 déjà cité au titre de l'année précédant celle de l'imposition. Dès lors qu'ils ont choisi le rattachement au foyer fiscal de leurs parents et de ce fait ne souscrivent pas à titre personnel de déclaration d'impôt sur le revenu, les intéressés ne peuvent bénéficier de ces exonérations. L'option pour le rattachement au foyer fiscal en matière d'impôt sur le revenu résulte d'arbitrages entre les avantages procurés par ce choix et ceux résultant de l'option inverse. Une étude en cours vise à déterminer dans quelles conditions et selon quelles modalités les personnes visées dans la question pourraient bénéficier, lorsque leur foyer fiscal de rattachement remplit les conditions tenant au montant de revenus ou de cotisation d'impôt sur le revenu, des dégrèvements partiels prévus aux articles 1414 B et 1414 C du code général des impôts en matière de taxe d'habitation.
