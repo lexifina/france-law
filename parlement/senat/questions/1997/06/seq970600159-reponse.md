@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970600159
+
+- Question : [SEQ970600159](seq970600159.md) — Avenir du site de transfusion sanguine de Pau
+
+## Réponse
+
+*Santé, JO du 1997-09-04, page 2306*
+
+Réponse. - L'organisation de la transfusion sanguine en Aquitaine est actuellement régie par un schéma d'organisation approuvé par arrêté ministériel du 22 mars 1995 qui fixe le rôle de chacun des sites pour une durée de cinq ans. L'évolution médico-technique de la transfusion sanguine conduit à réviser ce schéma pour transférer en un lieu unique les contrôles d'immuno-hématologie de donneurs, dans un souci de cohérence et de meilleure sécurité sanitaire. Par ailleurs, la baisse continue de la consommation de produits sanguins par les établissements de santé impose de reconsidérer des effectifs qui avaient été conçus pour une activité quantitativement plus importante. Il appartient à chaque établissement de transfusion sanguine de déterminer, en fonction de son activité réelle et dans un souci de saine gestion des fonds publics en provenance de l'assurance maladie, quel est l'effectif qui correspond à ses besoins. C'est le sens de la démarche en cours au sein de l'établissement de transfusion d'Aquitaine auquel appartient le site de Pau. Cette démarche de rationalisation indispensable est suivie attentivement tant par l'Agence française du sang que par les autorités sanitaires régionales et locales qui veillent à ce que les modifications d'organigramme ne portent aucunement atteinte à la sécurité transfusionnelle dont l'amélioration doit rester une préoccupation permanente. Bien entendu, toutes les dispositions sont prises pour qu'il n'y ait pas de licenciements et que les personnels concernés par les mesures de redéploiement soient immédiatement reclassés sur un emploi répondant à leurs compétences.
