@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950711505
+
+- Question : [SEQ950711505](seq950711505.md) — Mesures en faveur de l'accueil et de la vie de l'étudiant handicapé
+
+## Réponse
+
+*Éducation, JO du 1995-09-28, page 1857*
+
+Réponse. - L'accueil personnalisé des étudiants handicapés à l'université est déjà réalisé dans la majorité des établissements d'enseignement supérieur sous tutelle du ministère de l'éducation nationale. Des visites, souvent conduites par le responsable de l'accueil des étudiants handicapés, sont organisées avant l'entrée en université. Le nom et les coordonnées de ces responsables sont signalés dans les documents remis lors de l'inscription même. Les locaux universitaires qui ne sont pas encore aux normes font l'objet de toute l'attention des présidents d'université. Dans le cadre des contrats quadriennaux ou des révisions à mi-parcours, des travaux de mise en conformité sont inscrits et réalisés. Dans le domaine de la restauration et du logement, le Centre national des oeuvres universitaires et scolaires (CNOUS) a largement pris en compte les problèmes d'accessibilité aux étudiants handicapés. Le nombre de chambres ou de logements spécialement équipés est passé de 271 en 1989-1990 à près de 1 000. Les chambres offrant de bonnes conditions d'accessibilité peuvent être estimées à près de 8 000 en 1995. Comme dans celui des logements spécifiques, le nombre de restaurants accessibles aux étudiants handicapés moteurs a plus que triplé. L'effort déjà accompli est donc à souligner et il se poursuit actuellement. Enfin, de très nombreuses universités ont mis en place des services de tuteurs et preneurs de notes. Parfois, des appelés du contingent ou des objecteurs de conscience assurent des tâches d'accompagnement et d'aide à la vie quotidienne des étudiants les plus lourdement handicapés.
