@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701151
+
+- Question : [SEQ970701151](seq970701151.md) — Législation en matière d'antennes destinées aux relais radios et téléphoniques
+
+## Réponse
+
+*Industrie, JO du 1997-08-28, page 2227*
+
+Réponse. - Les préoccupations exprimées par l'honorable parlementaire ont été prises en compte par la loi de réglementation des télécommunications du 26 juillet 1996. En effet, l'article L. 33-1 du code des postes et télécommunications prévoit que, désormais, l'établissement et l'exploitation des réseaux ouverts au public sont soumis à un cahier des charges qui prend en compte, notamment, les prescriptions exigées en matière de protection de l'environnement et d'aménagement du territoire et d'urbanisme, comportant, le cas échéant, les conditions d'occupation du domaine public et les modalités de partage des infrastructures. De plus, aux termes de la loi, l'autorité qui délivre une permission de voirie peut explicitement inviter deux opérateurs à se rapprocher pour convenir des conditions techniques et financières d'une utilisation partagée des installations en cause. En cas de servitude sur une propriété privée, l'autorité concernée peut, de même, inviter deux opérateurs à se rapprocher pour convenir des conditions techniques et financières d'une utilisation partagée des installations en cause. Le décret d'application de la loi de réglementation des télécommunications, portant sur le droit de passage sur le domaine public routier et les servitudes sur les propriétés privées, prend également en compte cette préoccupation. Depuis le 1er janvier 1997, il appartient aux services déconcentrés de l'Etat concernés (DDE, DIREN notamment) d'instruire les dossiers de demande d'autorisation ou de permis de construire, dans le cadre des dispositions du code de l'urbanisme, en veillant à ce que les implantations soient respectueuses de l'environnement.
