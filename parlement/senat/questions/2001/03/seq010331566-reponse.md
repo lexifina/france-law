@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010331566
+
+- Question : [SEQ010331566](seq010331566.md) — Aide au remplacement des canalisations d'eau en plomb
+
+## Réponse
+
+*Logement, JO du 2001-12-06, page 3858*
+
+Comme l'honorable parlementaire le rappelle, la directive européenne n° 98-83 du 3 novembre 1998 relative à la qualité des eaux destinées à la consommation humaine prévoit un abaissement de la concentration maximale de plomb dans l'eau. Celle-ci actuellement fixée à 50 microgrammes par litre sera abaissée progressivement à 25 puis à 10 microgrammes par litre à l'échéance 2013. Le décret de transposition de la directive est en cours d'examen. Il définira les conséquences pratiques de cette exigence pour les propriétaires des canalisations contenant du plomb. D'ores et déjà, les ministères concernés élaborent un programme d'accompagnement destiné à faciliter le respect de ces exigences nouvelles. Le ministère du logement, le ministère de la recherche et le plan urbanisme, construction, architecture ont lancé un appel d'offre de recherche pour la mise au point de solutions techniques innovantes permettant de respecter ces exigences. A condition d'offrir des garanties satisfaisantes d'efficacité, de fiabilité et d'innocuité sanitaire, ces solutions, bien que temporaires en l'état actuel des connaissances, pourraient constituer une alternative de moindre coût au remplacement des installations privées. Les travaux de mise en conformité des réseaux d'immeuble, y compris le branchement des logements, peuvent être financés à l'aide de la prime d'amélioration de l'habitat délivrée par le préfet en ce qui concerne les propriétaires-occupants et de la subvention de l'Agence nationale pour l'amélioration de l'habitat (ANAH) en ce qui concerne les propriétaires bailleurs ; cet établissement public qui a fait l'objet d'une réforme sera compétent, au 1er janvier 2002, pour financer les travaux engagés par ces deux catégories de propriétaires.
