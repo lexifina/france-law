@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000726729
+
+- Question : [SEQ000726729](seq000726729.md) — Opérations bancaires
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2000-10-05, page 3401*
+
+Réponse. - L'article 137 de la loi du 29 juillet 1998 sur l'exclusion vise à instituer, pour les personnes dépourvues de compte, la possibilité de se faire ouvrir un compte de dépôt dans un établissement de crédit désigné par la Banque de France. Par ailleurs, ce même article dispose qu'un décret doit déterminer le contenu et le tarif de ce service bancaire de base. Conscients que les textes d'application de l'article 137 de la loi sur l'exclusion représentent un élément important de l'action gouvernementale contre l'exclusion, les pouvoirs publics ont souhaité engager une réflexion approfondie sur la problématique de l'accès aux services bancaires. La relation entre les banques et leurs clientèles se caractérise, en effet, par une dimension marchande sans cesse plus affirmée, cette évolution devant, selon les pouvoirs publics, s'accompagner de mesures fortes en direction des populations les plus fragiles. Les pouvoirs publics ont ainsi consulté l'ensemble des organisations de consommateurs et de la profession bancaire sur le périmète, le contenu et les tarifs. Ils souhaitent qu'un équilibre satisfaisant soit touvé entre la qualité des services offerts aux bénéficiaires et les responsabilités prudentielles de la profession bancaire, au regard des fonds qui lui sont confiés. Ces travaux sont menés avec le souci du respect des engagements européens de la France, de sorte que le dispositif mis en uvre en France soit conforme aux règles communautaires, notamment en matière de libre prestation de services. L'issue prochaine de cette réflexion permettra au Gouvernement de préciser les mesure qui semblent les plus appropriées.
