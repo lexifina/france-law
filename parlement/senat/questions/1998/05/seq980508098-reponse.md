@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508098
+
+- Question : [SEQ980508098](seq980508098.md) — Devenir de l'archéologie préventive
+
+## Réponse
+
+*Culture, JO du 1998-08-20, page 2665*
+
+Réponse. - Le précédent ministre de la culture, au début de l'année 1997, à la suite des émotions et mouvements qui avaient parcouru la communauté des archéologues, et plus largement toutes celles et tous ceux qui sont attachés à la sauvegarde du patrimoine archéologique, avaient établi un dispositif comprenant un grand débat sur l'archéologie préventive composé de tables rondes régionales et nationales suivies d'assises nationales, puis de l'élaboration et de la présentation d'un projet de loi fixant le cadre juridique et financier de l'archéologie préventive. Le changement intervenu en juin 1997 n'a pas fait disparaître la nécessité de procéder aux aménagements législatifs nécessaires dans ce domaine de l'archéologie préventive. Les débats dans le cadre des tables rondes ont été pris en considération. Les réflexions se sont poursuivies et des études destinées à éclairer les décideurs ont été réalisées : ainsi en a-t-il été de l'analyse de la situation et des perspectives de l'Association pour les fouilles archéologiques nationales et de l'étude de l'opportunité et de la faisabilité de la transformation de cette association en établissement public, demandées à l'Inspection générale des finances ; de même, un avis au sujet de l'application des règles de concurrence, tant nationales que communautaires, aux opérations de fouilles archéologiques préventives a été demandé au Conseil de la concurrence. En possession de ces rapports et avis, la préparation d'un projet de loi relatif à l'archéologie préventive (acteurs, procédures, moyens) sera poursuivie en concertation, selon des modalités à définir, avec l'ensemble des personnels et institutions concernés.
