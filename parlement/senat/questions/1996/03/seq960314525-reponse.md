@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960314525
+
+- Question : [SEQ960314525](seq960314525.md) — Lutte contre la contrefaçon au sein de l'Union européenne
+
+## Réponse
+
+*Affaires européennes, JO du 1996-07-18, page 1816*
+
+Réponse. - L'article 10 du règlement 3295/94/CEE relatif aux marchandises de contrefaçon, qui prévoit d'exclure du champ d'application de ce règlement les marchandises contenues dans les bagages personnels des voyageurs, à laquelle fait référence l'honorable parlementaire, retient, depuis longtemps déjà, toute l'attention des autorités françaises. En effet, au moment de la négociation de ce règlement, la France avait demandé la suppression de cet article mais, compte tenu de notre isolement au sein de la communauté, cette disposition a été maintenue au nom de la protection des libertés individuelles et de la libre circulation des personnes. Ce règlement adopté le 22 décembre 1994 améliore sensiblement le dispositif communautaire de lutte contre la contrefaçon par rapport au dispositif antérieur, datant de 1986, et la France y attache une grande importance. Les autorités françaises souhaitent que l'article du règlement précité, conçu pour des raisons avant tout pratiques, ne conduise pas de fait à un développement du commerce des marchandises contrefaites transportées par les voyageurs. Le régime d'exclusion qu'il institue renvoie aux autorités nationales compétentes le soin, en application de la loi nationale, de saisir les marchandises contrefaites. Par ailleurs, les autorités françaises étudient actuellement la façon dont leurs partenaires européens, chacun pour ce qui le concerne, répriment ce type de délit. Une fois cette étude réalisée, elles chercheront avec leurs partenaires les moyens les plus adéquats de réprimer efficacement la contrefaçon des marchandises contenues dans les bagages des voyageurs.
