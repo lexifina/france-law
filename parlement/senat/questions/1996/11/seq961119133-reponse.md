@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961119133
+
+- Question : [SEQ961119133](seq961119133.md) — Dotation financière pour la réforme des classes préparatoires aux grandes écoles scientifiques
+
+## Réponse
+
+*Éducation, JO du 1997-01-23, page 212*
+
+Réponse. - La rénovation des classes préparatoires aux grandes écoles constitue l'un des grands chantiers en cours et des moyens très importants lui sont consacrés, notamment pour ce qui concerne les crédits d'équipement pédagogique. Etalé sur quatre années budgétaires, de 1995 à 1998, le financement des équipements des classes préparatoires scientifiques constitue la première priorité indiquée aux recteurs d'académie chargés de répartir la dotation budgétaire prévue à cet effet, en tenant compte à la fois de la structure pédagogique du lycée concerné, de l'équipement utilisable déjà en place et, par ailleurs, des engagements financiers négociés entre l'Etat et son partenaire local, tels qu'ils peuvent apparaître à la lecture des contrats de plan Etat-région. Dans ces conditions, et c'est le cas pour le lycée Clemenceau à Nantes, il n'est pas étonnant que la charge des équipements pédagogiques soit supportée à la fois par les finances de l'Etat, chapitre 56-37, et par les finances régionales dans le cadre d'un partage des compétences dès lors qu'il est clairement accepté par les deux parties. Ainsi, toutes sources de financement confondues, le lycée Clemenceau a-t-il bénéficié pour les années scolaires 1995-1996 et 1996-1997 d'un investissement de 1,617 million de francs, soit 21,3 % des crédits consommés au niveau académique. Un complément de financement est d'ores et déjà prévu pour 1997-1998. Les classes préparatoires de l'académie de Nantes et le lycée Clemenceau en particulier n'ont pas manqué de fonds publics et l'Etat a pleinement joué son rôle en la matière.
