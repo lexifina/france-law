@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021104177
+
+- Question : [SEQ021104177](seq021104177.md) — Prévention routière : nouvelle classification des médicaments incompatibles avec la conduite d'un véhicule
+
+## Réponse
+
+*Santé, JO du 2003-07-24, page 2405*
+
+Actuellement, il existe déjà un moyen d'identification des médicaments qui ont des effets sur la capacité de conduire des véhicules. En effet, le décret n° 99-338 du 3 mai 1999 a inséré un alinéa au sein de l'article R. 5143 du code de la santé publique relatif à l'étiquetage des médicaments soumis à autorisation. Cet alinéa stipule que " lorsque le médicament ou produit a des effets sur la capacité de conduire des véhicules ou d'utiliser des machines (...), son conditionnement extérieur doit comporter un pictogramme ". Le modèle du pictogramme, déterminé par l'arrêté du 3 mai 1999, a la forme d'un triangle équilatéral rouge sur fond blanc, dans lequel se trouve une voiture noire. De plus, l'article R. 5143-5 impose de mentionner sur les notices des spécialités pharmaceutiques, s'il y a lieu, les effets possibles du traitement sur la capacité de conduire des véhicules ou à utiliser certaines machines. Il est vrai que ces dispositions du code de la santé publique, qui s'imposent à l'ensemble des médicaments ayant un effet sur la capacité de conduire, ne préconisent pas de distinctions selon l'intensité des effets. A cet égard, le comité interministériel de la sécurité routière a retenu, en date du 18 décembre 2002, la nécessité de révision des notices d'information et des pictogrammes en envisageant une graduation de ces pictogrammes. Afin de mettre en oeuvre ces mesures, l'Agence française de sécurité sanitaire des produits de santé (AFSSAPS) a été saisie dans le but de constituer un groupe de travail dont l'objectif sera d'établir une liste de médicaments responsables de troubles de la conduite et de proposer une révision des notices et des pictogrammes.
