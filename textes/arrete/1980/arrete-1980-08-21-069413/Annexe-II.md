@@ -32,4 +32,10 @@ L'une ou l'autre de ces méthodes peut être effectuée à l'aide d'un banc de c
 
 - une valise de programmation adaptée aux modèles de taximètres que l'organisme agréé répare ou installe, revêtue de la marque d'essais spéciaux ;
 
-- une piste de 200 mètres étalonnée par la direction régionale de l'industrie et de la recherche.
+- un banc de contrôle des installations d'un modèle agréé, scellé et vérifié par la direction régionale de l'industrie et de la recherche depuis moins d'un an.
+
+Toutefois, une piste de 200 mètres étalonnée pourra se substituer au banc après accord du directeur régional de l'industrie et de la recherche. Cet accord ne pourra être donné qu'aux centres agréés pour l'installation ou la réparation effectuant moins de 500 interventions par an (installations de taximètres neufs, réparations et changements de tarif).
+
+NOTA :
+
+Conformément à l’article 18 de l’arrêté du 28 avril 2006 (NOR : INDI0607373A) et sans préjudice de l'article 22 du décret n° 2006-447 du 12 avril 2006, le présent arrêté n’est plus applicable, en tant qu'il concerne le dispositif avant installation dans le véhicule.
