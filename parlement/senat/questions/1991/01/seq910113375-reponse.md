@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910113375
+
+- Question : [SEQ910113375](seq910113375.md) — Cohésion des différentes aides au logement
+
+## Réponse
+
+*Équipement, JO du 1992-06-18, page 1370*
+
+Réponse. - La loi du 31 mai 1990 relative à la mise en oeuvre du droit au logement a rendu obligatoire la mise en place dans chaque département d'un plan départemental d'action pour le logement des personnes défavorisées et d'un fonds de solidarité pour le logement (FSL). Le plan a pour vocation, en fonction des situations locales, de coordonner les diverses actions et dispositifs existants et d'en développer de nouveaux. En particulier, des fonds d'aide aux impayés de loyer (FAIL) avaient été institués depuis 1982, ainsi que des fonds d'aide au relogement et de garantie (FARG). Les compétences des FAIL et des FARG sont reprises par les FSL qui assurent en outre le financement de missions d'accompagnement social lié au logement. Les FSL désormais créés dans tous les départements assurent donc la généralisation des aides financières en faveur des locataires. Les FAIL et FARG existant peuvent toutefois, sur décision des partenaires locaux, poursuivre leur action. Cependant, ils ne recevront plus de financements de l'Etat. Dans l'esprit de la loi du 31 mai 1990, il est bien évidemment souhaitable qu'ils s'intègrent au FSL, soit en se fondant dans le dispositif départemental, soit en se transformant en fonds local de solidarité en application de l'article 6 de la loi. Par ailleurs, en ce qui concerne la propriété, il convient de noter que des fonds d'aides aux accédants en difficulté (FAAD) peuvent, depuis 1988, être mis en place localement. Ces fonds sont indépendants des dispositifs institués par la loi du 31 mai 1990. Celle-ci a par contre prévu que les accédants en difficulté puissent bénéficier des actions d'accompagnement social financées par le FSL, sur décision de l'instance de décision du plan départemental.
