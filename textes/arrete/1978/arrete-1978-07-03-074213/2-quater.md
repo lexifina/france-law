@@ -1,88 +1,82 @@
 # Article 2 quater
 
-A compter du 1er juillet 2000 pour l'application de l'article R. 351-17-5 :
+A compter du 1er janvier 2001, pour l'application de l'article R. 351-17-5, le taux de participation personnelle (TP) du ménage, exprimé en pourcentage, est calculé selon la formule suivante :
 
-Le taux de participation personnelle (TP) du ménage exprimé en francs pour 10 000 F de ressources est calculé selon la formule suivante :
-
-TP = TB - TM + TR + TL
+TP = TF + TL,
 
 dans laquelle :
 
-TB représente un taux de base qui est égal, pour 10 000 F de ressources, à :
+TF représente un taux fonction de la taille du ménage, donné par le tableau suivant :
 
-167,50 F pour une personne seule sans personne à charge ;
-
-146,30 F pour un autre ménage ;
-
-TM représente une minoration pour personnes à charge dont la valeur en francs pour 10 000 F de ressources est donnée par le tableau suivant :
-
-NOMBRE DE PERSONNES A CHARGE
+BÉNÉFICIAIRE
 
 |
 
-1 personne
+TF (en pourcentage)
 
 |
 
-2 personnes
+Personne isolée sans une personne à charge
 
 |
 
-3 personnes
+3,08
 
 |
 
-4 personnes
+Couple sans personne à charge
 
 |
 
-Par personne supplémentaire
+3,31
 
 |
 
-42,80
+Personne isolée ou couple avec une personne à charge
 
 |
 
-60,10
+2,78
 
 |
 
-85,60
+Personne isolée ou couple avec deux personnes à charge
 
 |
 
-99,50
+2,57
 
 |
 
-5,80
+Personne isolée ou couple avec trois personnes à charge
 
 |
 
-TR représente un premier taux complémentaire obtenu par l'application de taux à des tranches de ressources, selon le barème ci-après :
+2,28
 
-0 F pour la tranche de ressources entre 0 et le revenu minimal ;
+|
 
-6,34 F pour 10 000 F dans la tranche de ressources entre le revenu minimal et 18 853 F ;
+Personne isolée ou couple avec quatre personnes à charge
 
-32,07 F pour 10 000 F dans la tranche de ressources de 18 854 F à 28 747 F ;
+|
 
-13,83 F pour 10 000 F dans la tranche de ressources de 28 748 F à 42 287 F ;
+2,27
 
-17,85 F pour 10 000 F dans la tranche de ressources de 42 288 F à 58 536 F ;
+|
 
-15,74 F pour 10 000 F dans la tranche de ressources de 58 537 F à 71 973 F ;
+Par personne à charge supplémentaire
 
-5,77 F pour 10 000 F dans la tranche de ressources de 71 974 F à 112 491 F ;
+|
 
-2,59 F pour 10 000 F dans la tranche de ressources au-dessus de 112 491 F ;.
+- 0,06
 
-TR, exprimé en francs pour 10 000 F de ressources, est arrondi au centime le plus proche ;
+|
 
-TL représente un deuxième taux complémentaire fixé ci-dessous en fonction de la valeur du rapport RL entre le loyer retenu dans la limite du plafond et un loyer de référence. RL est exprimé en pourcentage arrondi à la deuxième décimale. Le loyer de référence est défini selon le tableau suivant :
+TL représente un taux complémentaire fixé ci-dessous en fonction de la valeur du rapport RL entre le loyer retenu dans la limite du plafond et un loyer de référence. RL est exprimé en pourcentage arrondi à la deuxième décimale. Le loyer de référence est défini selon le tableau suivant :
 
-PERSONNE SEULE
+PERSONNE ISOLEE
+
+sans personne à charge
 
 |
 
@@ -122,10 +116,16 @@ PAR PERSONNE à charge supplémentaire
 
 |
 
-TL est obtenu en additionnant, par tranche de RL au-dessus de 45 %, des montants fixés ainsi pour chaque tranche :
+Pour la détermination de TL, les taux et tranches sont fixés comme suit :
 
-56,70 centimes pour chaque point de RL dans la tranche entre 45 % et 75 % ;
+0 % pour la tranche de RL inférieure à 45 % ;
 
-84,50 centimes pour chaque point de RL au-dessus de 75 % ;
+0,56 % pour la tranche de RL entre 45 % et 75 % ;
 
-TL, exprimé en francs pour 10 000 F de ressources, est arrondi au centime le plus proche.
+0,85 % pour la tranche de RL au-dessus de 75 %.
+
+TL exprimé en % est arrondi à la troisième décimale.
+
+NOTA :
+
+NOTA : Arrêté du 23 décembre 2002 : Les dispositions du présent article sont applicables pour les prestations dues à compter du mois de juillet 2002.
