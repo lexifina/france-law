@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880600142
+
+- Question : [SEQ880600142](seq880600142.md) — Industrie textile
+
+## Réponse
+
+*Industrie, JO du 1988-09-22, page 1057*
+
+Réponse. - Le ministère de l'industrie et de l'aménagement du territoire conscient des difficultés que connaît actuellement l'industrie textile française, s'efforce de rechercher des solutions propres à conserver à la France son activité traditionnelle dans ce domaine. Il est nécessaire de rappeler tout d'abord que les plans sectoriels d'aides à l'investissement ne sont plus autorisés par la C.E.E. Les pouvoirs publics sont donc conduits à définir des actions d'ordre général en faveur des entreprises, et notamment des P.M.E.-P.M.I., afin de les aider et de les préparer à affronter la compétition internationale. Un effort très important est ainsi accompli, notamment par le biais d'actions en faveur de la qualité des produits, de la normalisation et de la recherche permanente de l'innovation technologique ; le secteur du textile-habillement, majoritairement constitué de P.M.E. est donc un des premiers bénéficiaires de ces mesures. Par ailleurs, le ministère de l'industrie s'attache à soutenir l'action des centres techniques professionnels qui signeront des contrats d'études avec des industriels (C.E.T.I.H., I.T.F.). A cette fin, des crédits nouveaux ont été inscrits en 1989 sur son budget (notamment la dotation qui servira à alimenter le fonds d'innovation industriel). Enfin, au plan international, il semble opportun de rappeler que la France est, parmi les Etats membres de la communauté économique européenne, l'un des plus dynamiques pour assurer la gestion rigoureuse et très vigilante du nouvel accord multifibres (A.M.F.) signé en 1986 pour cinq ans et qui devrait conduire à sa reconduction en 1991. Aucun élément ne semble devoir provoquer actuellement une modification dans la poursuite de l'application de cet accord multifibres.
