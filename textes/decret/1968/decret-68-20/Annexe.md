@@ -104,13 +104,17 @@ Techniciens de génie rural.
 
 |
 
-Adjoints techniques de l'agriculture et
+Techniciens de l'agriculture et
 
 de l'élevage.
 
 |
 
-Techniciens de l'agriculture. |
+Techniciens des services du ministère chargé
+
+de l'agriculture.
+
+|
 
 Agents d'agriculture et d'élevage.
 
@@ -120,9 +124,13 @@ Agents d'agriculture et d'élevage.
 
 Agents techniques de l'agriculture et
 
-de l'élevage. |
+de l'élevage (échelle 5 et espace
 
-Agents des haras.
+indiciaire spécifique).
+
+|
+
+Adjoints techniques des haras.
 
 |
 
@@ -134,9 +142,9 @@ Moniteurs d'agriculture et d'élevage .
 
 Agents techniques de l'agriculture et
 
-de l'élevage. |
+de l'élevage (échelles 3 et 4). |
 
-Agents des haras. |
+Agents techniques des haras. |
 
 Ministère de l'économie et des finances.
 
