@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920320571
+
+- Question : [SEQ920320571](seq920320571.md) — Avenir des régimes de retraite
+
+## Réponse
+
+*Premier ministre, JO du 1992-08-13, page 1859*
+
+Réponse. - En vue d'assurer la pérennité de nos régimes de retraite, notamment du régime général d'assurance vieillesse des salariés, à moyen et long terme, le Gouvernement a engagé avec la publication du " Livre blanc sur les retraites " un large débat dans l'opinion publique, débat qu'a animé la mission présidée par M. Cottave. Une mission de concertation avec les partenaires sociaux a également été confiée à M. Bernard Brunhes. Le Gouvernement dispose ainsi d'une large palette d'avis permettant de mettre en évidence les points de désaccord ou de consensus. Il apparaît que toute mesure d'ajustement des dépenses des régimes de retraite devra respecter deux conditions : en premier lieu, elle ne devra pas remettre en cause la répartition comme principe essentiel de fonctionnement de notre système de retraite ; en second lieu, elle ne devra pas porter atteinte à cette grande conquête sociale qu'est la retraite à soixante ans. Dans le droit fil de la déclaration de politique générale du 8 avril 1992, la réflexion du Gouvernement s'oriente aujourd'hui vers une clarification des charges qui, au sein de l'assurance vieillesse, ressortent à l'assurance collective d'une part et à la solidarité nationale d'autre part. Cette réflexion a d'ores et déjà fait l'objet d'une communication du ministre des affaires sociales et de l'intégration, lors du conseil des ministres du 29 juillet 1992. Le ministre des affaires sociales et de l'intégration ouvrira une négociation avec les partenaires sociaux sur les modalités selon lesquelles cette clarification des responsabilités et des charges sera opérée. Des dispositions législatives seront soumises au Parlement à l'occasion de la prochaine session parlementaire.
