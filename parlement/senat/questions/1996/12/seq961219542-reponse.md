@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961219542
+
+- Question : [SEQ961219542](seq961219542.md) — Restructuration des succursales de la Banque de France
+
+## Réponse
+
+*Économie, JO du 1997-05-02, page 1370*
+
+Réponse. - Comparée aux autres grandes banques centrales, la Banque de France a des coûts de fonctionnement particulièrement élevés. En outre, la fragilité de son compte d'exploitation s'est fortement accrue récemment, compte tenu de la baisse continue des taux d'intérêt depuis octobre 1995. Dans ce cadre, le gouverneur a récemment annoncé une réorganisation interne de l'activité de certaines succursales, qui ne se traduira par aucune suppression de comptoir et qui sera sans aucun impact sur les relations avec les usagers. Celle-ci a pour objet de rationaliser l'activité des services de caisse au sein des succursales : ils assurent la distribution et l'entretien de la monnaie fiduciaire (billets et pièces) auprès des banques et du Trésor public. Elle consiste à les adapter à la forte concentration géographique des besoins des établissements bancaires en la matière - qui s'est déjà traduite par une restructuration des circuits des transporteurs de fonds, organisés progressivement autour de pôles départementaux -, et à renforcer la sécurité des succursales et des transports de fonds. La fermeture des seuls services de caisse d'un certain nombre de succursales sera sans incidence sur leurs autres activités : les services actuellement rendus aux collectivités locales, aux entreprises ou aux particuliers (surendettement, accès aux fichiers informatisés...) continueront à être pleinement assurés. Cette réorganisation, interne à la Banque de France, n'entre donc pas dans le cadre de la loi d'orientation pour l'aménagement et le développement du territoire, qui vise les modifications de services rendus aux usagers et leur implantation territoriale.
