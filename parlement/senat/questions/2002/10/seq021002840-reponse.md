@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021002840
+
+- Question : [SEQ021002840](seq021002840.md) — Judiciarisation du champ médical : interprétation de l'article L. 1111-4 du code de la santé publique
+
+## Réponse
+
+*Santé, JO du 2003-01-02, page 83*
+
+L'honorable parlementaire attire l'attention du ministre de la santé, de la famille et des personnes handicapées sur les conséquences d'une ordonnance du 25 août 2002 par laquelle le juge des référés a fait injonction au centre hospitalier de Valenciennes de ne pas transfuser une malade contre son gré. Il s'inquiète en premier lieu de ce que la malade ait pu se trouver sous l'influence d'une secte et, en second lieu, de ce que le conflit entre le principe de l'inviolabilité du corps humain et l'obligation de prêter assistance aux personnes en danger n'expose les médecins à des poursuites judiciaires quelle que soit la décision prise. En ce qui concerne le premier point, il n'appartient pas au ministre de se prononcer sur un cas d'espèce. Il constate avec l'honorable parlementaire que l'article 223-15-2 du code pénal réprime, le cas échéant, l'usage de telles pressions psychologiques. En ce qui concerne le second point, le ministre croit utile d'apporter les précisions suivantes. C'est à la suite d'une transfusion sanguine pratiquée contre son gré compte tenu de son état que la patiente considérée a saisi le juge des référés du tribunal administratif de Lille, dans le cadre de la procédure prévue à l'article L. 521-2 du code de justice administrative, pour lui demander de faire injonction au centre hospitalier de Valenciennes de ne pas procéder à de nouvelles transfusions sanguines sur sa personne. Si, par l'ordonnance susmentionnée du 25 août 2002, le juge a fait droit aux conclusions de la requérante, il a cependant pris soin d'indiquer, dans ses considérants, qu'au moment où il statuait, il n'était " pas allégué par le défendeur
