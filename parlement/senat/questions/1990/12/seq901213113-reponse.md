@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901213113
+
+- Question : [SEQ901213113](seq901213113.md) — Bilan de l'expérience " Cartes jeunes "
+
+## Réponse
+
+*Éducation, JO du 1991-04-25, page 873*
+
+Réponse. - Le bilan et le développement de la " carte jeunes " sont très positifs. Le nombre de pays ayant accepté cette expérience s'est en effet accru régulièrement. A ce jour, les quinze pays d'Europe suivants sont concernés : Andorre, Belgique, Chypre, Ecosse, Espagne, Finlande, France, Grèce, Irlande, Luxembourg, Norvège, Pays-Bas, Portugal, Suède, San-Marin. La réputation à l'étranger de la " carte jeunes " est telle, que deux pays non européens (Macao et l'île Maurice) se sont ajoutés à la liste. Le Danemark, la République fédérale d'Allemagne, réticents à l'origine, semblent être plus intéressés par cette expérience. Seule, l'Angleterre y est toujours opposée. Certains pays de l'Est (Hongrie, Tchécoslovaquie, Pologne) ont fait part de leur désir de s'associer prochainement aux pays déjà impliqués par la " carte jeunes ". La " carte jeunes " vise de plus en plus à être un passeport culturel européen favorisant la mobilité des jeunes, notamment par des réductions ou des avantages dans les domaines suivants : transports, voyages ; hébergement ; loisirs culturels ; loisirs sportifs ; conseils juridiques ; garantie assistance. Ceci s'inscrit d'ailleurs dans le cadre des décisions prises lors de la conférence des ministres européens responsables de la jeunesse de 1988. Près de 2 500 000 jeunes utilisent actuellement cette " carte jeunes ". Le nouveau service consistant pour des jeunes de seize ans, avec l'autorisation de leurs parents, à pouvoir effectuer des retraits bancaires en espèces dans la plupart des pays européens, n'est appliqué, pour le moment, qu'en France. Mais il n'est pas exclu que d'autres pays adoptent par la suite cette possibilité.
