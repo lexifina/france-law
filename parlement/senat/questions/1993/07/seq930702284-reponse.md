@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930702284
+
+- Question : [SEQ930702284](seq930702284.md) — Mise en place d'un certificat national de capacité professionnelle de chauffeurs de taxis
+
+## Réponse
+
+*Entreprises, JO du 1993-09-16, page 1645*
+
+Réponse. - La question posée résume l'essentiel des demandes des fédérations professionnelles du taxi qui souhaitent, au travers d'un toilettage de nombreux textes qui réglementent cette profession, moderniser l'activité de taxi et améliorer les services rendus aux clients. Des études approfondies ont été réalisées à l'initiative des ministères concernés. Le conseil national des transports, saisi par le ministre chargé des transports, a examiné les conditions dans lesquelles sont appliquées les dispositions du décret n° 85-891 du 16 août 1985. L'inspection générale de l'administration a reçu du ministre de l'intérieur, conjointement avec l'inspection générale de l'industrie et du commerce, la mission d'examiner le régime actuel de la cessibilité des autorisations de stationnement, et les modalités d'une éventuelle modification de ce régime. De même, la réglementation spécifique en vigueur dans les cours de gares et les aéroports fait l'objet d'un examen pour mise en cohérence avec la réglementation générale du taxi. Une qualification professionnelle étant exigée pour l'exercice de ce métier dans de nombreux départements, l'observatoire des qualifications et des formations de l'artisanat, avec le concours des représentants de la profession, a établi un référentiel de formation susceptible de servir de base pour une réglementation étendue à l'ensemble des départements. Ces diverses études devraient conduire à la formulation de propositions à examiner dans le cadre d'une concertation interministérielle, avec notamment les ministres chargés de l'intérieur, de l'économie, des transports et du tourisme, chargés de l'application des textes en vigueur.
