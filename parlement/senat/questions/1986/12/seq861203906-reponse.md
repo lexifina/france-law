@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861203906
+
+- Question : [SEQ861203906](seq861203906.md) — Usine Stein Industrie à Lys-lès-Lannoy (Nord)
+
+## Réponse
+
+*Industrie, JO du 1987-05-14, page 761*
+
+Réponse. -Les réductions d'effectifs annoncées au comité d'entreprise de Stein Industrie, qui concernent 381 personnes dont 272 à l'usine de Lys-lès-Lannoy, apparaissent comme la conséquence de la baisse rapide du carnet de commandes de la société, en partie imputable au ralentissement du programme électronucléaire français. En effet, la fabrication des séparateurs surchauffeurs, qui assurait la moitié environ du chiffre d'affaires récemment, représentera moins de 25 p. 100 du plan de charge en 1987. De plus l'activité traditionnelle de la société, la fabrication de chaudières, essentiellement orientée vers l'exportation, est pénalisée par la nécessité de plus en plus fréquente d'intégrer une part de fabrication locale importante, ce qui réduit d'autant la charge d'atelier en France. Le caractère manifestement structurel de ces évolutions ne permet malheureusement pas d'espérer une reprise importante de l'activité à court terme, malgré les succès que l'entreprise peut légitimement attendre du développement en cours de produits nouveaux, développés grâce à l'acquisition de licences, essentiellement une chaudière à lit fluidisé circulant et des installations de traitement des ordures ménagères. Ce contexte ne laisse pas espérer de modifications de la décision d'ajustement des effectifs. Par contre, des négociations entre la direction de la société et les représentants des salariés ont permis de mettre au point un plan social dont les modalités ont reçu récemment l'accord de plusieurs organisations syndicales. Associant aides au départ volontaire, congés de conversion et formation, ce dispositif devrait favoriser efficacement le reclassement des salariés concernés.
