@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971003114
+
+- Question : [SEQ971003114](seq971003114.md) — Harmonisation de l'indemnisation des chômeurs âgés
+
+## Réponse
+
+*Emploi, JO du 2000-06-29, page 2302*
+
+Réponse. - L'honorable parlementaire souligne que l'allocation chômeurs âgés (ACA) serait réservée aux seules personnes ayant travaillé au sein d'une entreprise sise en France, à l'exclusion des travailleurs frontaliers et que les périodes de travail à l'étranger ne sont pas prises en compte par les caisses régionales d'assurance vieillesse dans le décompte des 160 trimestres requis pour bénéficier de cette allocation. La Caisse nationale d'assurance vieillesse (CNAV) a diffusé une circulaire nº 75/97 du 29 octobre 1997 permettant aux caisses chargées de l'assurance vieillesse de faire figurer sur l'attestation de carrière destinée aux ASSEDIC pour l'ouverture de droits à l'allocation chômeurs âgés (ACA), les périodes validées par les régimes de retraite des Etats membres de la Communauté européenne et des Etats parties à l'accord sur l'Espace économique européen (EEE). En effet, en tant que prestation de chômage, cette allocation fait partie intégrante du champ d'application matériel du règlement nº 1408/71 relatif à l'application des régimes de sécurité sociale aux travailleurs salariés qui se déplacent à l'intérieur de l'Union européenne. Dès lors, le principe de la totalisation des périodes d'assurance et/ou d'emploi accomplies sur le territoire d'un ou de plusieurs Etats membres, institué au chapitre 6 du règlement (CEE) nº 1408/71, doit être mis en uvre pour la recherche des 160 trimestres d'assurance vieillesse. Le résultat de la reconstitution de carrière intègre donc, pour les personnes qui relèvent du champ d'application personnel du règlement (CEE) nº 1408/71, des périodes validées par les régimes de retraite des Etats membres de la CEE et des Etats parties à l'EEE.
