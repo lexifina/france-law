@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940907822
+
+- Question : [SEQ940907822](seq940907822.md) — Mobilité des salariés
+
+## Réponse
+
+*Travail, JO du 1994-11-24, page 2793*
+
+Réponse. - Institué en 1993, EURES, European Employment Services, dont l'inauguration est prévue en novembre 1994, est un réseau de coopération regroupant les divers services de l'emploi des Etats membres de l'Union européenne et plus généralement de l'Espace économique européen (EEE). Son rôle est d'informer les demandeurs d'emploi et les entreprises et de diffuser les offres et demandes d'emploi à vocation européenne. Aujourd'hui, les citoyens de l'EEE, peuvent, du fait de la libre circulation des personnes, utiliser les services de l'emploi de n'importe quel pays de l'Espace. Pour canaliser les flux de transmission d'informations et harmoniser les pratiques des divers services nationaux, 350 euroconseillers appartenant au réseau EURES, répartis sur tout le territoire de l'EEE, renseignent et orientent les candidats et les entreprises concernés par le recrutement international. Ce réseau humain dispose d'une banque d'offres d'emploi à vocation européenne et d'une banque d'informations générales sur les conditions de vie et de travail dans les pays de l'espace européen. Les euroconseillers peuvent aussi communiquer entre eux en temps réel grâce à un système de courrier électronique. L'ANPE est le correspondant français du réseau EURES. Elle est, à ce titre, en liaison permanente avec les départements internationaux des services de l'emploi des autres Etats européens. Pour ce qui est des euroconseillers, on en compte une vingtaine à l'ANPE. Ces agents, situés en agence locale, ou en délégation départementale ou régionale, ont bénéficié d'une formation adaptée et disposent d'une bonne connaissance du marché du travail dans les autres pays d'Europe.
