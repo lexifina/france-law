@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021002946
+
+- Question : [SEQ021002946](seq021002946.md) — Conditions de passage du permis de conduire D
+
+## Réponse
+
+*Équipement, JO du 2003-04-24, page 1406*
+
+L'article R. 221-5 du code de la route prévoit effectivement que la délivrance du permis de conduire de la catégorie D ne peut intervenir avant l'âge de vingt et un ans, conformément aux dispositions contenues dans la directive n° 91/439/CEE du 29 juillet 1991 relative au permis de conduire. En outre, la détention du permis de conduire de la catégorie B est une condition qu'il convient de satisfaire pour être autorisé à se présenter aux épreuves du permis de conduire de la catégorie D ; en effet, il pourrait apparaître dangereux, au plan de la sécurité routière, de ne pas poser le principe de l'acquisition d'une expérience de conduite sur un véhicule léger avant de conduire un véhicule lourd de transport de personnes, compte tenu de la plus grande responsabilité dont le conducteur doit faire preuve eu égard au nombre de personnes transportées. Il n'est pas certain qu'il soit en mesure de montrer cette maturité d'esprit avant l'âge de vingt et un ans. C'est ainsi que les deux critères, à savoir une certaine expérience de la circulation comme une bonne conscience de ses responsabilités de la part du conducteur, militent plutôt en faveur du maintien de la réglementation existante, qui se trouve d'ailleurs être celle retenue non seulement par l'ensemble des autres Etats membres de l'Union européenne, mais aussi, plus largement, par la majorité des pays. Il convient toutefois de noter, rejoignant ainsi les préoccupations exprimées par l'honorable parlementaire, que cette réglementation ne fait qu'imposer la possession du permis de conduire de la catégorie B comme préalable, sans fixer de durée réelle de conduite d'un véhicule léger avant de passer le permis de conduire de la catégorie D.
