@@ -1,6 +1,6 @@
 # Article 21 BIS
 
-Les employés et ouvriers de la distribution des films de l'industrie cinématographique bénéficient d'une prime d'ancienneté qui s'ajoute à leur salaire réel. Celle-ci est calculée en appliquant au salaire minimum correspondant à la qualification de l'intéressé et figurant au barème ci-annexé un pourcentage de :
+Les employés et ouvriers de la distribution des films de l'industrie cinématographique bénéficient d'une prime d'ancienneté qui s'ajoute à leur salaire réel. Celle-ci est calculée en appliquant à la base minima, correspondant à chaque qualification et figurant au barème ci-annexé, un pourcentage de :
 
 5 % après 5 ans d'ancienneté dans l'entreprise ;
 
