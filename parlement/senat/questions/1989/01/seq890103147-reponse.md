@@ -1,0 +1,11 @@
+# Réponse à la question SEQ890103147
+
+- Question : [SEQ890103147](seq890103147.md) — Réduction de la taxe d'enlèvement des ordures ménagères
+
+## Réponse
+
+*Intérieur, JO du 1989-03-30, page 526*
+
+Réponse. - Aux termes des articles 1520 et suivants du code général des impôts, la taxe d'enlèvement des ordures ménagères est recouvrée dans les mêmes conditions et sur la même assiette que la taxe foncière sur les propriétés bâties. La taxe est établie au nom des propriétaires des constructions auxquels elle est demandée en même temps que la taxe foncière sur les propriétés bâties (et au moyen du même avis d'imposition). Comme tous les impôts directs locaux, la taxe d'enlèvement des ordures ménagères est établie par voie de rôle, l'assiette étant assurée par les services de la direction générale des impôts et le recouvrement par les services de la comptabilité publique. Aux termes de l'article 1524 du code général des impôts, il est prévu qu'en cas de vacance supérieure à une durée de trois mois, il peut être accordé décharge ou réduction de la taxe sur réclamation présentée dans les conditions prévues en pareil cas en matière de taxes foncières. Ces
+
+conditions sont définies par l'article 1389 du code général des impôts. Aux termes de ce texte, les contribuables peuvent obtenir un dégrèvement de taxes foncières en cas de vacance d'une maison normalement destinée à la location ou d'inexploitation d'un immeuble utilisé par le contribuable lui-même à un usage commercial ou industriel, à partir du premier jour du mois suivant celui du début de la vacance ou de l'inexploitation jusqu'au dernier jour du mois au cours duquel la vacance ou l'inexploitation a pris fin. Le dégrèvement est subordonné à la triple condition que la vacance ou l'inexploitation : soit indépendante de la volonté du contribuable ; qu'elle ait une durée de trois mois au moins ; et qu'elle affecte soit la totalité de l'immeuble, soit une partie susceptible de location ou d'exploitation séparée. Il résulte de ces conditions que les résidences secondaires ne rentrent pas dans le cadre des locaux qui peuvent bénéficier d'un dégrèvement spécial en cas de vacance. En toute hypothèse, il n'appartient pas aux conseils municipaux de juger de ces demandes de dégrèvement, mais aux services locaux de la direction générale des impôts auprès desquels la réclamation doit être portée.
