@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970700465
+
+- Question : [SEQ970700465](seq970700465.md) — Planification du transport sanitaire héliporté d'urgence
+
+## Réponse
+
+*Emploi, JO du 1998-10-29, page 3449*
+
+Réponse. - Le rapport remis en septembre 1994 au Premier ministre par le professeur Barrier, qui avait pour mission de réfléchir à " la prise en charge effective des urgences médicales à tous les échelons, de la médecine de ville à l'hôpital ", soulignait que les restructurations hospitalières allaient de pair avec le développement des transports héliportés. Le rapport du professeur Steg (septembre 1993) sur les services d'accueil des urgences à l'hôpital précisait, lui, qu'il conviendrait d'envisager, pour obtenir une couverture efficace du territoire, un hélicoptère par région administrative. L'évolution dans le domaine des transports sanitaires héliportés d'urgence au cours des années quatre-vingt-dix s'est pour l'essentiel traduite par une augmentation du nombre d'appareils hospitaliers. On dénombre 36 établissements hospitaliers disposant d'un hélicoptère (dont 12 n'en disposent que de façon saisonnière) contre une vingtaine en 1991. Il est à noter que les SAMU font, le cas échéant, appel aux moyens héliportés de la gendarmerie nationale et de la sécurité civile. Si la couverture du territoire national en moyens sanitaires héliportés d'urgence comporte quelques lacunes, notamment dans les régions Bretagne, Pays de la Loire et Poitou-Charente, elle peut cependant être qualifiée de globalement satisfaisante. La réflexion sur une meilleure répartition géographique des moyens hospitaliers, au regard notamment des besoins sanitaires de la population, est actuellement engagée dans le cadre de l'élaboration des schémas régionaux d'organisation sanitaire, dits de deuxième génération, qui comportent un volet relatif aux urgences.
