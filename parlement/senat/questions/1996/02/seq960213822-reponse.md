@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960213822
+
+- Question : [SEQ960213822](seq960213822.md) — Personnels des corps spécifiques de l'enseignement agricole
+
+## Réponse
+
+*Agriculture, JO du 1996-04-04, page 803*
+
+Réponse. - Conformément aux engagements pris, les dispositions du protocole d'accord du 9 février 1990 sur la rénovation de la grille des classifications et des rémunérations des trois fonctions publiques ont été rendues applicables aux personnels des corps spécifiques de l'enseignement technique agricole. Les dispositifs statutaires destinés à traduire concrètement ces mesures ont été publiés au Journal officiel du 12 août 1995, pour les surveillants, et au Journal officiel du 17 janvier 1996, pour les répétiteurs et les chefs de pratique des écoles régionales d'agriculture. Enfin, un régime indemnitaire spécifique a été mis en place à l'intention des répétiteurs et surveillants, dont la publication est intervenue au Journal officiel du 3 février 1996.
