@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991221460
+
+- Question : [SEQ991221460](seq991221460.md) — Réglementation relative au surendettement
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2000-03-09, page 893*
+
+Réponse. - Dans le prolongement de la récente réforme de la procédure du traitement du surendettement des ménages, la secrétaire d'Etat aux petites et moyennes entreprises, au commerce et à l'artisanat a demandé au Conseil national de la consommation (CNC) d'examiner les mesures qui pourraient être associées à ce nouveau dispositif pour prévenir l'apparition de telles situations. Cette initiative concerne notamment les améliorations susceptibles d'être apportées aux dispositions du code de la consommation qui encadrent la publicité des offres de crédit. Dans le même esprit, le CNC a été également chargé d'examiner le mode de fonctionnement des comptes permanents et d'envisager les améliorations susceptibles d'y être apportées pour prévenir les situations de surendettement. Les travaux du Conseil national de la consommation sont largement engagés. D'ores et déjà, quatre réunions de travail se sont déroulées. Les premières propositions discutées concernent les intermédiaires en opérations de banque, et le groupe doit examiner au cours des prochaines réunions les règles relatives à la publicité sur le crédit, puis la question des comptes permanents. Toutefois, vu l'ampleur des sujets traités, il est probable que le groupe de travail pourra présenter un rapport d'étape dès juin aux instances plénières du Conseil national de la consommation. Le Gouvernement ne manquera pas, le moment venu, d'examiner les résultats de la concertation en cours au CNC pour déterminer les conditions dans lesquelles la réglementation sur le crédit pourrait être, le cas échéant, améliorée.
