@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508418
+
+- Question : [SEQ980508418](seq980508418.md) — Choix de McDonald's comme restaurateur officiel de la Coupe du monde de football
+
+## Réponse
+
+*Jeunesse, JO du 1998-06-25, page 2093*
+
+Réponse. - La sélection des associés commerciaux de la Coupe du monde de football et le choix des douze partenaires officiels de celle-ci, au nombre desquels figure le restaurateur cité, ne relèvent pas du gouvernement mais exclusivement de la Fédération internationale de football association (FIFA). Les entreprises multinationales qui ont été retenues sont souvent liées depuis longtemps à la FIFA dont elles soutiennent les manifestations en dehors de la Coupe du monde. Toutefois, une série d'initiatives permettra de promouvoir la gastronomie française à l'occasion de cet événement, qui représente une chance extraordinaire pour notre pays à de nombreux points de vue. Le Comité français d'organisation (CFO) a fait en sorte que les principaux sous-traitants, pour les prestations de ses " villages hospitalité ", soient des entreprises françaises. En outre, le guide " France 98 Aller et Retour ", qui sera notamment diffusé auprès des journalistes, contient des adresses de restaurants gastronomiques dans chaque ville site. Enfin, les collectivités locales des villes sites et les professionnels locaux, restaurateurs, commerçants, agriculteurs..., au travers de leurs organismes consulaires, se sont mobilisés, sur le terrain, pour réaliser des animations ou des actions de promotion en direction des spectateurs, français et étrangers, de la Coupe du monde. Mme la ministre de la jeunesse et des sports ne doute pas que les qualités unanimement reconnues de notre restauration et de notre gastronomie seront appréciées des très nombreux visiteurs que la France accueillera à l'occasion de la Coupe du monde 1998.
