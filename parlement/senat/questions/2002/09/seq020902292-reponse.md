@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020902292
+
+- Question : [SEQ020902292](seq020902292.md) — Fonds d'intervention pour les aéroports
+
+## Réponse
+
+*Équipement, JO du 2002-11-28, page 2880*
+
+Le fonds d'intervention pour les aéroports et le transport aérien se compose de deux sections. La première comporte les crédits de subventions aux entreprises de transport aérien, en vue d'assurer l'équilibre des dessertes aériennes, réalisées dans l'intérêt de l'aménagement du territoire. La seconde regroupe les moyens de la participation de l'Etat aux missions assurées par les gestionnaires d'aéroports telles que le sauvetage et la lutte contre les incendies d'aéronefs (SSLIA), la lutte contre le péril aviaire et la sûreté. Deux comités de gestion sont prévus pour chaque section chargés de donner un avis sur l'utilisation des crédits. Les décrets n° 96-30 du 15 janvier 1996 et n° 99-811 du 10 septembre 1999 fixent la composition et le mode de fonctionnement de ces comités. Le comité de gestion de la section " transport aérien " est composé de quatorze membres : sept représentants de l'Etat, deux sénateurs, deux députés, un représentant des régions, un représentant des départements et un représentant des communes et de leurs groupements. Le comité de gestion de la section " aéroports " comprend aussi quatorze membres : huit représentants de l'Etat, deux sénateurs, deux députés et deux personnalités qualifiées. Ces deux comités sont présidés par le ministre chargé de l'aviation civile ou son représentant. Le contrôleur financier des services de l'aviation civile et l'agent comptable du fonds y siègent également, avec voix consultative. Ils ne disposent d'aucun budget de fonctionnement et le secrétariat est assuré par les services de la direction générale de l'aviation civile. Les fonctions de membre du comité ne donnent lieu à aucune rémunération.
