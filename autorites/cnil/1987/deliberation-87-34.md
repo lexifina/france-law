@@ -1,0 +1,15 @@
+# Délibération portant avis sur la création par France terre d'asile d'un traitement automatisé d'informations nominatives concernant les demandeurs d'asiles et les réfugiés
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 87-34
+- Date : 1987-03-31
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017654007
+
+La Commission Nationale de l'Informatique et des Libertés ; Vu la loi n° 78-17 du 6 janvier 1978, relative à l'informatique, aux fichiers et aux libertés ; Vu le décret n° 78-774 du 17 juillet 1978 modifié par les décrets n° 78-1223 du 28 décembre 1978 et n° 79-421 du 30 mai 1979 ; Vu la Convention internationale de Genève du 28 juillet 1951 et le Protocole de 1967 relatif aux statuts des réfugiés ; Vu les articles 185 et 185-3 du code de la famille et de l'aide sociale ; Vu la Convention du ministère des Affaires sociales avec l'association France Terre d'Asile du 18 février 1985 ; Vu le protocole d'accord du 30 mai 1975 relatif à l'accueil des réfugiés d'Indochine entre France Terre d'Asile, le Secours Catholique, le Service Social d'Aide aux Emigrants, la Croix Rouge Française, le Service Oecuménique d'Entraide, le Comité Juif d'Aide et de Reconstruction ; Vu le projet d'acte réglementaire présenté par France Terre d'Asile concernant la création d'un traitement automatisé d'informations nominatives relatif aux demandeurs d'asile et aux réfugiés ; Après avoir entendu, Monsieur Jacques THYRAUD, Premier Vice Président, en son rapport, et Madame Charlotte-Marie PITRAT, Commissaire du Gouvernement en ses observations ;
+
+Considérant que le traitement mis en oeuvre a pour objet de suivre l'accueil et la prise en charge des réfugiés et demandeurs d'asile en centre provisoire d'hébergement, ainsi que l'élaboration de statistiques ; Considérant que les informations collectées à ce titre sont pertinentes eu égard à la finalité du traitement ; que cependant il convient de modifier l'article 2 du projet d'acte réglementaire afin qu'il comporte la mention des informations relatives aux répondants ; Considérant que les intéressés seront informés des prescriptions de l'article 27 de la loi du 6 janvier 1978 pour une notice qui leur sera remise lors de leur accueil par France Terre d'Asile ; Considérant que seront destinataires d'une part, pour les seules informations nécessaires à leurs objectifs poursuivis : la Cimade - la Croix Rouge Française, le Secours Catholique et le Service Social d'Aide aux Emigrants, d'autre part pour les statistiques, le ministère des affaires sociales et le ministère des affaires étrangères ; Considérant que toutes mesures ont été prises en ce qui concerne la confidentialité et la sécurité des informations ;
+
+Emet un avis favorable au projet d'acte réglementaire sous réserve des observations susmentionnées ; Demande que lui soit communiqué l'acte réglementaire modifié avant publication et la notice remise aux intéressés lors de leur prise en charge. Le Président : Jacques FAUVET
