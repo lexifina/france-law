@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890705835
+
+- Question : [SEQ890705835](seq890705835.md) — Situation des secrétaires de mairie-instituteurs
+
+## Réponse
+
+*Éducation, JO du 1989-09-07, page 1454*
+
+Réponse. - L'attention du ministre de l'éducation nationale a été à plusieurs reprises appelée sur la situation des secrétaires de mairie-instituteurs et il ne manque pas d'apporter chaque fois un soin particulier à l'examen des revendications et prises de position exprimées par leur syndicat. Toutefois un certain nombre d'entre elles relèvent plus particulièrement de la compétence de monsieur le ministre de l'intérieur. Il en est ainsi des préoccupations des secrétaires de mairie-instituteurs relatives à l'élaboration d'un statut spécifique qui leur soit applicable dans le cadre général de la fonction publique territoriale. S'agissant du plan de revalorisation de la fonction enseignante, des négociations dont il a fait l'objet ont résulté des propositions qui ont été énumérées dans un relevé de conclusions rendu public. Les dispositions qui ont été prises visent notamment à améliorer les débuts de carrière, à offrir aux enseignants de plus larges possibilitésde promotion, à favoriser toutes les formes de mobilité et à instituer un régime indemnitaire qui permette de reconnaître la diversité et les difficultés particulières des tâches exercées en vue de la réussite des élèves. Elles s'inscrivent dans un effort financier considérable qui durera plusieurs années. Les mesures qui ont été ainsi décidées vont dans le sens d'un rééquilibrage du rôle social des enseignants et redonnent à l'institution scolaire toute l'efficacité qu'on est en droit d'attendre d'elle aujourd'hui. En leur qualité d'enseignants, les secrétaires de mairie-instituteurs bénéficieront pleinement des dispositions qui seront ainsi mises en oeuvre.
