@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950109481
+
+- Question : [SEQ950109481](seq950109481.md) — Double cotisation de retraite des enseignants " résidents " aux Etats-Unis
+
+## Réponse
+
+*Économie, JO du 1995-11-16, page 2162*
+
+Réponse. - Compte tenu des éléments exposés, il apparaît que la situation particulière évoquée concerne les problèmes rencontrés par les fonctionnaires qui ont pu obtenir un détachement statutaire pour enseigner à l'étranger et demeurent donc soumis au statut général de la fonction publique de l'Etat. Les intéressés continuent à bénéficier dans leur corps d'origine de leurs droits à l'avancement et à la retraite par application des dispositions de l'article 45 de la loi no 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat. Ils sont par conséquent, comme tous les fonctionnaires, tenus de supporter une retenue pour pension conformément à la réglementation en vigueur (article 32 du décret no 85-986 du 16 septembre 1985). Si les droits acquis au titre du régime local ne sont pas cumulables avec la pension de l'Etat français, il n'en demeure pas moins que les services effectués en position de détachement sont pris en compte pour la constitution du minimum de quinze ans de services requis pour l'ouverture du droit à pension de l'Etat. C'est ainsi que l'agent ayant accompli moins de quinze ans de services à l'Etat avant son détachement pourra obtenir une pension liquidée sur la base de cette durée de services. Par ailleurs, les années passées en position de détachement ne sont pas sans incidence sur le montant de la pension perçue au titre du régime de retraite des fonctionnaires de l'Etat puisque le fonctionnaire en position de détachement continue à bénéficier de son avancement dans son corps d'origine. Pour tous ces motifs, il n'est pas envisagé de modifier la réglementation existante sous peine de remettre en cause le principe même du détachement des fonctionnaires de l'Etat.
