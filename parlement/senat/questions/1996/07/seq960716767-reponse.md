@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960716767
+
+- Question : [SEQ960716767](seq960716767.md) — Modalités de calcul de la cotisation sociale due par les agriculteurs
+
+## Réponse
+
+*Agriculture, JO du 1996-11-28, page 3129*
+
+Réponse. - Aux termes de l'article 1003-12 du code rural, l'assiette des cotisations sociales des exploitants est constituée par les revenus professionnels dégagés par les exploitants, notamment dans la catégorie des bénéfices agricoles. Les modalités de prise en compte de ces revenus dans le temps varient selon que l'exploitant relève au plan fiscal d'un régime forfaitaire, transitoire ou réel d'imposition. Ainsi, l'exploitant agricole imposé selon un régime forfaitaire verra ses cotisations appelées selon une assiette triennale composée des revenus des années N4, N3 et N2, tandis que l'exploitant au réel ou au transitoire paiera les cotisations sociales sur une assiette composée des revenus des années N3, N2 et N1. L'assiette triennale permet d'atténuer l'impact de variations conjoncturelles du revenu. Mais, en application des dispositions du VI de l'article 1003-12, les exploitants peuvent opter pour une assiette annuelle de cotisations, et ce, qu'ils relèvent d'un régime réel ou forfaitaire d'imposition. Cette option leur permet d'acquitter les cotisations soit sur les revenus de l'année N1, s'ils sont au forfait, soit sur les revenus de l'année en cours, s'ils sont au réel. Ces diverses assiettes offrent à l'exploitant agricole la possibilité d'adapter au mieux de son intérêt le prélèvement social à son revenu professionnel. La proposition de l'honorable parlementaire consistant à lier le montant des cotisations sociales aux surfaces mises en valeur et non plus aux revenus professionnels reviendrait à remettre en cause l'objectif de la réforme engagée en 1990, et dont le terme a été avancé au 1er janvier 1996, à la demande de la profession.
