@@ -1,0 +1,17 @@
+# Délibération portant avis sur le projet d'arrêté du Ministre de l'Economie, des Finances et de la Privatisation créant le traitement "suivi des affaires foncières et domaniales"
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 86-64
+- Date : 1986-06-10
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017654588
+
+La Commission Nationale de l'Informatique et des Libertés; Vu la Convention du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ; Vu la loi n° 78-17 du 6 Janvier 1978 relative à l'informatique, aux fichiers et aux libertés ; Vu le décret n° 78-774 du 17 Juillet 1978 pris en application des chapitres I à IV et VII de la loi du 6 Janvier 1978 susvisée ; Vu le code général des impôts ; Vu le projet d'arrêté du Ministre de l'Economie, des Finances et de la Privatisation créant les traitements "suivi des affaires foncières et domaniales". Après avoir entendu Monsieur VIE en son rapport et Madame Charlotte-Marie PITRAT, Commissaire du Gouvernement en ses observations ;
+
+Considérant que le projet d'arrêté soumis à l'appréciation de la Commission, constitue un cadre définissant des traitements pouvant être mis en place dans l'ensemble des services extérieurs de la Direction Générale des Impôts leur finalité étant d'assurer le suivi des affaires foncières et domaniales ; Considérant que ces traitements visent uniquement à permettre la gestion des affaires foncières et domaniales confiées aux Directions des services extérieurs de la Direction Générale des Impôts ; Considérant que les traitements procéderont ainsi à l'automatisation de la rédaction des actes qui ressortent de la compétence des services du domaine, à la gestion des baux et concessions accordés sur les biens de l'Etat ainsi qu'à celle des patrimoines privés dans les cas limitativement prévus par la loi ; Considérant qu'à ce titre pourront être enregistrées des données nominatives relatives aux noms, prénoms. adresse éventuellement nom marital et régime matrimonial des intéressés ; Considérant qu'aucune mention de condamnations pénales ne figurera dans les fichiers automatisés ;
+
+Considérant que si la création de ces applications qui seront développées sur micro-ordinateur est laissée à l'initiative des Directeurs des services fiscaux, elles ne sauraient excéder les compétences des services concernés ni les missions qui leur sont dévolues par des textes législatifs ou réglementaires ; qu'en toute hypothèse, tout traitement qui n'entrerait pas dans le champ d'application de l'arrêté visé ci-dessus fera l'objet de formalités préalables distinctes auprès de la Commission ; Considérant qu'en tout état de cause, la durée de conservation des données nominatives concernant soit les occupants temporaires du domaine de l'Etat ou des collectivités territoriales, soit la gestion par les services publics de biens privés, ne devra pas excéder quatre ans après l'expiration des droits des intéressés. Considérant que toute mesure devra être prise afin d'assurer localement la publicité des traitements et l'information des intéressés sur leurs droits définis par les articles 34 et suivants de la loi du 6 Janvier 1978 ; par la publication au bulletin officiel départemental, affichage dans les locaux des directions et insertion dans la presse locale.
+
+Compte tenu des observations formulées ci-dessus, émet un AVIS FAVORABLE au projet d'arrêté qui lui est soumis. Le Président, Jacques FAUVET.
