@@ -1,6 +1,6 @@
 # Article 39 bis
 
-Est puni de 100.000 F d'amende le fait de diffuser, de quelque manière que ce soit, des informations relatives à l'identité ou permettant l'identification :
+Est puni de 15 000 euros d'amende le fait de diffuser, de quelque manière que ce soit, des informations relatives à l'identité ou permettant l'identification :
 
 - d'un mineur ayant quitté ses parents, son tuteur, la personne ou l'institution qui était chargée de sa garde ou à laquelle il était confié ;
 
