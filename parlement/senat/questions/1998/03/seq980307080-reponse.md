@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980307080
+
+- Question : [SEQ980307080](seq980307080.md) — Amortissement des travaux d'assainissement effectués par les communes et comptabilité M 49
+
+## Réponse
+
+*Intérieur, JO du 1998-05-28, page 1716*
+
+Réponse. - L'amortissement des immobilisations a pour les collectivités locales un double objectif : d'une part, il vise à constater la dépréciation irréversible subie par les équipements du fait de leur usure ou de leur obsolescence au fil du temps, et, d'autre part, il participe à l'autofinancement des dépenses d'investissements. De la sorte, conformément à l'article L. 1612-4 du code général des collectivités territoriales, l'amortissement s'ajoute aux ressources propres de la section d'investissement qui doivent financer le remboursement de l'annuité d'emprunt en capital. Quelle que soit la population de la commune, l'amortissement est donc indispensable en M 49, car il constitue la principale source d'autofinancement permettant de couvrir le remboursement de l'annuité d'emprunt en capital. De plus, si les investissements réalisés par les petites communes en matière d'eau et d'assainissement ont un caractère plus ponctuel, ils sont frappés de la même façon que les autres par l'usure et l'obsolescence et il convient de constater leur dépréciation. Par ailleurs, les obligations en matière de respect de l'environnement et de mise aux normes, fixées par les directives européennes, pèsent de la même façon sur les communes quelle que soit leur population. Même en ignorant l'impérieuse nécessité de constater la dépréciation irréversible des équipements déjà réalisés en matière d'eau et d'assainissement, il ne serait pas réaliste dans ces conditions de dispenser les petites communes de procéder à l'amortissement puisque ces équipements devront à l'avenir faire l'objet non seulement d'un renouvellement à l'identique, mais, dans de nombreux cas, de travaux de mise aux normes ou d'amélioration.
