@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870405918
+
+- Question : [SEQ870405918](seq870405918.md) — Impôt sur les grandes fortunes: fiscalité des dépôts de garantie versés par les locataires
+
+## Réponse
+
+*Budget, JO du 1987-08-13, page 1280*
+
+Réponse. -Aux termes de l'article 885 D du code général des impôts, l'impôt sur les grandes fortunes est assis selon les mêmes règles que les droits de mutation par décès. Au titre de ces droits, les sommes et valeurs détenues à titre précaire par le défunt en qualité de mandataire, de dépositaire, de tuteur ou de créancier gagiste n'ont pas à être déclarées dans l'actif successoral lorqu'elles sont individualisées dans la succession, par exemple si elles ont été déposées à un compte spécialement ouvert à ce titre. Si les biens en cause ne se retrouvent pas et s'il n'existe pas dans la succession de valeurs assimilables sur lesquelles la distraction peut être effectuée, leur montant peut néanmoins être déduit de l'actif héréditaire sous réserve de satisfaire aux conditions de fond et de forme exigées pour la déductibilité du passif successoral par les articles 768 et suivants du code général des impôts. Pour les dépôts de garantie, la créance du preneur est conditionnelle puisqu'elle est affectée par la justification de la stricte exécution des obligations locatives jusqu'à la fin du bail. Si la condition ne se réalise qu'après la déclaration de succession, le dépôt de garantie n'a pu être admis en déduction de l'actif héréditaire. Les droits payés en trop sont alors restituables après la réalisation de la condition dans les délais de répétition. Ces règles sont transposables en matière d'impôt sur les grandes fortunes, les conditions de déductibilité des dépôts de garantie que le redevable a utilisés s'appréciant au 1er janvier de l'année d'imposition. La présente réponse sera publiée au Bulletin officiel des impôts.
