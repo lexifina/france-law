@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890705639
+
+- Question : [SEQ890705639](seq890705639.md) — Situation des médecins scolaires dans la région Nord - Pas-de-Calais
+
+## Réponse
+
+*Éducation, JO du 1990-02-01, page 212*
+
+Réponse. - La situtation de la médecine scolaire n'est pas en effet satisfaisante : des solutions permettant de l'améliorer font actuellement l'objet d'un examen entre les ministères concernés. Conformément à la répartition des compétences gouvernementales arrêtées lors du transfert du service de santé scolaire à l'éducation nationale, les médecins et secrétaires de santé scolaire demeurent gérés par le ministère chargé de la santé. Or, cette double tutelle ministérielle pourrait à terme être abandonnée puisqu'un accord de principe est intervenu sur la réunificatiton du service au sein du ministère de l'éducation antionale, de la jeunesse et des sports. Dans cette perspective, l'examen de mesures qui paraissent conditionner cette réunification et qui sont nécessaires pour que soient enrayées les difficultés actuelles de fonctionnement du service sont d'ores et déjà engagées en liaison avec les départements ministériels concernés. Il s'agit notamment de la remise au niveau de 1983 des emplois budgétaires de médecins scolaires et ce, progressivement à partir de la loi de finances pour 1991, ainsi que de la création concomitante d'un corps d'accueil permettant un recrutement de médecins titulaires. Dans ces conditions, rien ne ferait plus obstacle au développement de la politique de prévention édictée par la circulaire du 15 juin 1982, dont le bien-fondé est unanimement reconnu. L'aboutissement de ce projet auquel le ministère de l'éducation nationale est très attaché créerait, sans nul doute, les conditions d'un règlement d'ensemble des problèmes de la médecine scolaire.
