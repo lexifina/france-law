@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990918702
+
+- Question : [SEQ990918702](seq990918702.md) — Activité des conseils de prud'hommes
+
+## Réponse
+
+*Justice, JO du 2000-01-06, page 58*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que l'activité des conseils de prud'hommes est demeurée stable depuis les cinq dernières années. C'est ainsi que le nombre d'affaires nouvelles enregistré en 1993 était de 172 000. Une légère baisse est intervenue en 1994, avec 168 000 affaires et s'est poursuivie en 1995 avec 157 500 dossiers nouveaux. En revanche, 168 000 demandes nouvelles ont été enregistrées en 1996, 172 000 pour 1997 et enfin 162 000 en 1998. S'agissant du nombre d'affaires terminées, la même évolution a été observée, avec, en 1993, un nombre de 163 000 dossiers traités ; en 1994, ce chiffre était de 168 000 ; en 1995, de 166 500 ; de 161 000 pour 1996 ; de 168 000 en 1997 pour enfin diminuer légèrement en 1998 avec 158 000 dossiers terminés. A cette stabilité du nombre de dossiers nouveaux et dossiers terminés s'ajoutent des délais de traitement sensiblement identiques au cours des années. C'est ainsi qu'en 1993 la durée moyenne d'une affaire était de 9,5 mois ; de 9,7 en 1994 ; de 10,1 en 1995 ; de 9,4 en 1996 et enfin de 9,6 pour l'année 1997. Aussi, cette énumération permet de conclure que l'institution prud'homale a su s'adapter à l'évolution rapide de son contentieux et il n'est pas envisagé de remettre en cause son organisation et son fonctionnement actuel, auxquels les partenaires sociaux et les justiciables sont attachés. Enfin, les statistiques prud'homales ne permettent pas de connaître le chiffre global des sommes qui ont été reversées en 1998 aux salariés en vertu des jugements prononcés, aussi n'est-il pas possible d'apporter une réponse positive sur ce point.
