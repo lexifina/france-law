@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021204708
+
+- Question : [SEQ021204708](seq021204708.md) — Bilan de la simulation d'accident d'avion à l'aéroport de Roissy - Charles-de-Gaulle
+
+## Réponse
+
+*Transports, JO du 2003-02-27, page 740*
+
+L'annexe 14 à la convention relative à l'aviation civile internationale prévoit, pour chaque aérodrome, l'élaboration d'un plan d'urgence dont la validité est vérifiée tous les deux ans par des exercices. En application de ces dispositions, la loi du 22 juillet 1987 relative à l'organisation de la sécurité civile et le décret du 6 mai 1998 relatif aux plans d'urgence ont prévu des " plans de secours spécialisés " (PSS), applicables en cas d'accidents d'aéronefs à l'intérieur ou à l'extérieur de la zone aéroportuaire. En 2002, l'exercice de mise en oeuvre du PSS de l'aéroport de Paris - Charles-de-Gaulle s'est déroulé le 20 novembre, en Seine-et-Marne, avec la participation d'une compagnie aérienne. Son objectif consistait à s'assurer de la bonne coordination des trois cellules de crise mises en place respectivement par la préfecture de Seine-et-Marne, Aéroports de Paris et la compagnie. Il s'agissait également, de façon plus générale, de vérifier la validité des dernières modifications apportées au PSS, portant notamment sur les compétences respectives du préfet responsable des secours en fonction du lieu de l'accident et du préfet de la Seine-Saint-Denis, compétent pour l'aéroport de Roissy, où l'accueil de familles et des rescapés est organisé. Des premiers enseignements qui ont été tirés, il en ressort un fonctionnement normal du dispositif de diffusion de l'alerte, une bonne coordination des différents services et une réactivité satisfaisante des forces d'intervention. Toutefois, il convient d'attendre les analyses plus approfondies pour tirer tous les enseignements de cet exercice.
