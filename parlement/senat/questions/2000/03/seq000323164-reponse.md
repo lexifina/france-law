@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000323164
+
+- Question : [SEQ000323164](seq000323164.md) — Utilisation du logiciel Linux
+
+## Réponse
+
+*Fonction publique, JO du 2000-09-07, page 3089*
+
+Réponse. - L'intérêt qui s'attache à l'utilisation par les services de l'Etat de logiciels libres (Linux, free BSD, Apache, Send mail, PHP, etc.) est incontestable. Le recours à ce type de produits, dans la mesure où ils s'avèrent performants et évolutifs, peut permettre à l'administration de dégager des économies substantielles et de mieux respecter les standards ouverts issus de l'internet, priorités du PAGSI. Le choix de ces outils standards, qu'il s'agisse aussi bien de systèmes d'exploitation que de progiciels, contribue également à la conception et au développement de systèmes d'information interopérables et d'applications distribuées et portables qui offrent des solutions mieux appropriées aux exigences des réseaux de type internet. Plusieurs ministères lancent des expérimentations ou réalisent des projets basés sur Linux, certains d'entre eux bénéficiant d'un financement interministériel. Il est souhaitable de dresser le bilan de ces travaux avant d'envisager la diffusion à grande échelle de ce système d'exploitation dans les administrations. La MTIC a ainsi mis en ligne sur son site web un ensemble d'informations sur les chantiers en cours. Thierry Carcenac, dans le cadre de la mission parlementaire qui lui a été confiée par le Premier ministre auprès de Michel Sapin sur les choix de logiciels des administrations, analysera la situation et, le cas échéant, formulera les recommandations adéquates. Par ailleurs, dans le chantier " pouvoirs publics en ligne " inscrit dans le programme Europe, approuvé par le Conseil européen en juin 2000, il est prévu que, d'ici à 2001, la Commission et les Etats membres promeuvent l'utilisation des logiciels libres dans le secteur public.
