@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941007997
+
+- Question : [SEQ941007997](seq941007997.md) — Fermeture du centre thermal des armées de Plombières-les-Bains
+
+## Réponse
+
+*Anciens combattants, JO du 1994-10-27, page 2568*
+
+Réponse. - Le ministre d'Etat, ministre de la défense, consulté, vient de préciser que la disparition du centre thermal des armées de Plombières-les-Bains ne provoquera pas une diminution de la fréquentation de cette station par les curistes anciens combattants et victimes de guerre. En effet, les modifications liées à la suppression des CTA, organismes très réduits de quelques personnes, sont purement administratives et ne changent rien quant aux modalités de déroulement des cures. Dans le système du centre thermal des armées, conçu comme une transition ou un palliatif à l'absence d'hôpital thermal des armées, des conventions étaient passées par le service de santé des armées, tant avec les médecins qu'avec les thermes et les hôteliers assurant l'hébergement des curistes ; de la sorte, les curistes ne déboursaient rien et le service de santé apportait un service particulier à ses curistes. Dans le système qui prévaudra désormais et qui est tout simplement le système de droit commun, chaque curiste choisira lui-même son lieu d'hébergement et ses frais seront pris en charge à hauteur des débours réels, plafonnés à cinq fois le montant du forfait d'hébergement alloué par le régime général de la sécurité sociale à ses ressortissants curistes. Les formalités préliminaires aux cures seront entièrement traitées par les directions interdépartementales des anciens combattants. Le service de santé ayant dû se retirer complètement du secteur thermal et les centres thermaux, formule transitoire, étant tous destinés à disparaître d'ici à 1996, cette nouvelle procédure sera désormais la règle pour toutes les stations thermales ; elle ne saurait donc entraîner de désaffection pour telle ou telle station.
