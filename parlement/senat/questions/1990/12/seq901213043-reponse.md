@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901213043
+
+- Question : [SEQ901213043](seq901213043.md) — Bassin d'emploi de Castres-Mazamet (Tarn)
+
+## Réponse
+
+*Ville, JO du 1991-08-01, page 1635*
+
+Réponse. - La situation évoquée par l'honorable parlementaire est bien connue du Gouvernement. Les baisses d'emploi importantes intervenues notamment dans les secteurs traditionnels des cuirs et peaux et du textile l'ont amené à mettre en place une mission de redéveloppement économique qui agira pour le bassin de Castres-Mazamet. Cette mission est animée par M. Prodel, qui a pris ses fonctions auprès du préfet du Tarn au début de l'année 1991. En ce qui concerne l'éventualité de l'inscription du bassin d'emploi de Castres-Mazamet à la procédure communautaire d'aide à la conversion industrielle et sociale des bassins d'emploi (objectif 2 de la réforme des fonds structurels européens), le ministre d'Etat, ministre de la ville et de l'aménagement du territoire, fait part des éléments d'information suivants : la réforme des fonds structurels porte sur la période 1989-1993 ; en ce qui concerne l'objectif 2, la commission des Communautés européennes, dont c'est la compétence pleine et entière, avait décidé d'arrêter la liste des zones de l'objectif 2 pour trois ans en se réservant la possibilité de réviser cette liste au cours de l'année 1991. Bien que le ministre ait fait savoir à la commission son souhait de voir élargir la liste des zones éligibles à l'objectif 2, qui, à son sens, ne permettait pas de prendre en compte l'ensemble des problèmes de conversion industrielle en France, la commission prenant acte du retard qu'elle a pris dans la mise en oeuvre des programmes initiaux, a récemment décidé de reconduire les seules zones actuellement éligibles. Les difficultés économiques du bassin de Castres-Mazamet n'en sont pas moins préoccupantes, et il a été récemment décidé de prendre un certain nombre de mesures destinées à soutenir son développement.
