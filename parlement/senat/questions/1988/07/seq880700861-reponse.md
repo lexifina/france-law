@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880700861
+
+- Question : [SEQ880700861](seq880700861.md) — Poste : situation des vérificateurs de la distribution et de l'acheminement
+
+## Réponse
+
+*Postes, JO du 1988-10-27, page 1200*
+
+Réponse. - Le projet d'intégration en catégorie A des vérificateurs de la distribution et de l'acheminement est une des priorités de la politique de personnel de la poste. C'est ainsi qu'un comité technique paritaire a été réuni le 14 juin 1988 en vue de l'examen du projet de décret relatif aux modifications statutaires du corps des inspecteurs des postes et télécommunications concernant la promotion des vérificateurs en catégorie A. Les dispositions statutaires dont il s'agit précisent que pendant une période de cinq ans à compter de la date de publication du décret, dans la limite d'un contingent annuel d'emplois fixé par arrêté conjoint des ministres chargés respectivement du budget, de la fonction publique et des postes et télécommunications, les inspecteurs de la branche " service d'exploitation, commerciaux et administratifs " pourront être recrutés par concours spécial ouvert aux fonctionnaires du corps des vérificateurs comptant quatre ans de services effectifs dans ce corps, cette condition étant appréciée au 1er janvier de l'année au titre de laquelle le concours est organisé. Les candidats reçus aux concours spéciaux seront immédiatement titularisés dans le grade d'inspecteur. Le projet de décret a été soumis aux ministres concernés en vue de l'obtention de leur contreseing. Aussi, toutes dispositions ont-elles été prises pour que le premier concours offrant 200 emplois d'inspecteurs aux vérificateurs intervienne d'ici à la fin de l'année 1988. En effet, pour permettre la mise en oeuvre de cette réforme statutaire, a été programmée et inscrite au budget, dans un premier temps, la transformation de 200 emplois de vérificateur en emplois d'inspecteur.
