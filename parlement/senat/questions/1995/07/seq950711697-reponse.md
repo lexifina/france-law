@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950711697
+
+- Question : [SEQ950711697](seq950711697.md) — Remise en état du canal de l'Est dans les Vosges
+
+## Réponse
+
+*Aménagement du territoire, JO du 1995-09-07, page 1719*
+
+Réponse. - L'incident survenu en 1994 sur l'écluse no 2 du canal de l'Est a été à l'origine de l'initiative de Voies navigables de France de porter un diagnostic sur l'ensemble de la chaîne d'écluses de cette voie. La démarche a consisté non pas à pallier un seul désordre ponctuel, mais à prendre en compte de manière prévisionnelle, cohérente et durable, l'ensemble des problèmes posés par une partie vétuste du réseau. Compte tenu des délais nécessaires pour réaliser les études, établir la programmation des travaux et engager les crédits correspondants, l'échéancier suivant a été retenu : des travaux de réfection de dix portes auront lieu du 16 septembre au 20 octobre 1995, pour un montant de 5 millions de francs, suivis d'une seconde tranche concernant huit autres portes du 17 mars au 20 avril 1996, pour un montant de 4 millions de francs, et d'une nouvelle intervention en 1997. Au total, ces trois tranches de travaux, accompagnées d'interventions du génie civil, avoisineront 18 millions de francs sur l'ensemble du canal de l'Est, qui sera ainsi remis en état. D'ores et déjà les réparations qui s'imposaient sur l'écluse no 2 ont été effectuées. Par ailleurs, l'importante augmentation du trafic en cette période estivale, liée notamment à la plaisance, a provoqué une défaillance des portes des écluses no 3 et no 17. Si l'intervention du service de la navigation du nord-est a pu se faire sans provoquer d'interruption de navigation sur l'écluse no 3, les impératifs de sécurité ont commandé, sur l'écluse no 17 dite de Chavelot, compte tenu de l'importance de l'intervention, l'interruption qu'évoque l'honorable parlementaire.
