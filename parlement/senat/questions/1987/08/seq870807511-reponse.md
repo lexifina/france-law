@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870807511
+
+- Question : [SEQ870807511](seq870807511.md) — Revenus professionnels de l'exploitant agricole
+
+## Réponse
+
+*Agriculture, JO du 1987-10-22, page 1672*
+
+Réponse. -Selon la réglementation en vigueur, une personne exerçant simultanément plusieurs activités professionnelles est affiliée et cotise en assurance maladie auprès de chacun des régimes sociaux dont relèvent ses activités, le droit aux prestations de cette assurance lui étant ouvert dans le régime de son activité pricipale. Celle-ci est déterminée, lorsque l'assuré exerce deux activités non salariées, en comparant les revenus que lui procure chacune d'elles ; lorsqu'il exerce une activité non salariée agricole et une activité salariée, cette dernière est réputée constituer son activité principale, dès lors qu'elle est exercée au moins 1 200 heures par an, et que le revenu tiré de celle-ci est au moins égal à celui procuré par l'activité non salariée. Même si l'existence d'un critère objectif, qui est le temps de travail salarié, permet dans la majorité des cas de déterminer l'activité principale d'un exploitant agricole exerçant simultanément une activité salariée, des difficultés subsistent néanmoins pour comparer les revenus respectifs de ces activités, a fortiori, lorsqu'il s'agit d'apprécier les revenus tirés de deux activités non salariées (agricole et non agricole). Ces difficultés tiennent essentiellement au fait que les revenus agricoles pris en considération sont des revenus évalués forfaitairement, le revenu de l'exploitation type, notion aujourd'hui caduque, étant censé équivaloir au salaire annuel de base servant au calcul des allocations familiales, lequel ne peut être considéré comme représentatif du revenu procuré par une exploitation agricole. Des études sont entreprises par le ministère de l'agriculture, afin de rechercher de nouveaux critères permettant de mieux apprécier ces revenus.
