@@ -72,6 +72,12 @@ De 1960 à 1993
 
 |
 
+La Rochelle-La Palice |
+
+De 1974 à 1982
+
+|
+
 Rouen
 
 |
@@ -84,7 +90,7 @@ Saint-Malo
 
 |
 
-De 1964 à 1977
+De 1964 à 1981
 
 |
 
