@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990415251
+
+- Question : [SEQ990415251](seq990415251.md) — Projet d'arrêté relatif à la réglementation des installations classées pour les exploitations viticoles
+
+## Réponse
+
+*Aménagement du territoire, JO du 1999-05-13, page 1597*
+
+Réponse. - Les exploitations viticoles sont inscrites à la nomenclature des installations classées pour la protection de l'environnement depuis décembre 1993. Celles dont la capacité de production annuelle est comprise entre 500 et 20 000 hectolitres sont soumises à déclaration. Un arrêté fixant les prescriptions applicables à ces établissements a été élaboré après une concertation de plusieurs années avec les représentants professionnels. Sa parution est imminente. La nécessaire maîtrise des pollutions ne doit cependant pas avoir pour effet de créer des difficultés économiques insupportables pour les entreprises et en particulier les vignerons récoltants. C'est pourquoi la ministre de l'aménagement du territoire et de l'environnement a décidé de restreindre dans un premier temps l'application du texte aux seules installations nouvelles. Le Conseil supérieur des installations classées (CSIC) auquel ces propositions ont été soumises a toutefois estimé dans sa session du 8 décembre 1998 que les installations existantes ne pouvaient éternellement rester exemptes de toutes prescriptions. Les installations viticoles occasionnent en effet parfois des pollutions de l'eau importantes par départ direct d'effluents, de fonds de cuves et d'eau de lavage vers les rivières, avec les mortalités de poissons qui s'ensuivent. C'est pourquoi les services du ministère de l'aménagement du territoire et de l'environnement poursuivent les discussions avec les représentants de la profession viticole pour définir le calendrier et les modalités d'application aux installations existantes des prescriptions prévues par l'arrêté.
