@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911017781
+
+- Question : [SEQ911017781](seq911017781.md) — Déficit de la balance des paiements
+
+## Réponse
+
+*Économie, JO du 1991-12-26, page 2920*
+
+Réponse. - L'honorable parlementaire mentionne les résultats de la balance des paiements courants des sept premiers mois de 1991. Ceux-ci laissent en effet apparaître un déficit de - 25,2 milliards de francs en données brutes, de - 28,9 milliards de francs en données C.V.S. ; les résultats correspondants pour les sept premiers mois de 1990 étaient respectivement de - 21,3 milliards de francs et - 24,5 milliards de francs. L'écart entre les deux années provient de la dégradation de 9,8 milliards de francs du poste marchandises, du fait des résultats du commerce extérieur des trois premiers mois de 1991. Cette évolution est en partie compensée par une réduction du déficit des transferts unilatéraux. Les résultats du commerce extérieur au premier trimestre ont été nettement marqués par le renchérissement des prix du pétrole, qui a lourdement grevé notre facture énergétique pendant le conflit du golfe. En revanche, le solde industriel, indicateur de notre compétitivité, a enregistré une amélioration constante par rapport à l'année dernière : - 39,7 milliards de francs au cours des sept premiers mois de 1991 contre - 47 milliards de francs en 1990. Cette évolution intervient dans un contexte de fort dynamisme du marché intérieur allemand, où la France gagne des parts de marché ; le déficit de nos échanges avec l'Allemagne s'est en effet fortement réduit au cours des sept premiers mois de 1991 : - 3 milliards de francs contre - 28,5 milliards de francs à la même époque de 1990. Les bons résultats enregistrés par la France en matière d'inflation ont ainsi une incidence directe sur l'amélioration de nos échanges (hors énergie) avec nos principaux partenaires. Il convient d'ajouter que le niveau actuel du déficit des paiements courants demeure modéré (0,7-0,8 p. 100 du P.I.B.).
