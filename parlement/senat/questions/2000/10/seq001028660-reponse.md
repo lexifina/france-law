@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001028660
+
+- Question : [SEQ001028660](seq001028660.md) — Protection sociale des agriculteurs français
+
+## Réponse
+
+*Agriculture, JO du 2001-01-25, page 240*
+
+Réponse. - En application de l'article L. 731-11 du code rural et des dispositions de l'article 14 du décret modifié nº 94-620 du 9 août 1994, des cotisations minimales sont dues, au titre des revenus professionnels, au régime de protection sociale des personnes non salariées des professions agricoles. En assurance maladie (AMEXA), la cotisation minimale est fondée sur un revenu fixé à 800 SMIC. Le projet de loi de finances pour 2001 prévoit la suppression de la majoration de la cotisation d'assurance maladie prévue pour les exploitants à titre principal mettant en valeur des superficies comprises entre 1,5 et 3,5 fois la surface minimum d'installation (SMI). Pour éviter aux chefs d'exploitation agricole bénéficiaires du revenu minimum d'insertion (RMI), d'avoir à cotiser sur une assiette minimum qui serait disproportionnée par rapport aux revenus qu'ils perçoivent effectivement, des dispositions ont été prises afin de mieux adapter cette assiette à la capacité contributive des intéressés. Ainsi, le décret du 30 décembre 1997 a réduit significativement le montant de la cotisation d'assurance maladie des exploitants agricoles bénéficiaires du RMI. Cette cotisation est désormais assise sur un forfait de 200 SMIC (8 404 francs), alors qu'auparavant l'assiette était au minimum de 800 SMIC (33 616 francs). Il n'est pas envisagé de modifier dans l'immédiat l'assiette forfaitaire (200 SMIC) servant à calculer la cotisation d'AMEXA pour les exploitants bénéficiaires du RMI, dans la mesure où cette assiette est très faible et représente un avantage non négligeable pour les intéressés par rapport à la cotisation minimum de 800 SMIC.
