@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040511919
+
+- Question : [SEQ040511919](seq040511919.md) — Conséquences pour les collectivités locales de la modification par La Poste de la distribution de leurs imprimés non adressés
+
+## Réponse
+
+*Industrie, JO du 2004-09-02, page 1999*
+
+La publicité non adressée (PNA) relève du secteur concurrentiel et échappe totalement au périmètre du service universel. Dans ce contexte, le groupe La Poste doit prendre toutes les mesures appropriées afin de rétablir l'équilibre économique de cette activité, qui a généré des pertes significatives au cours de ces dernières années. Conformément aux règles de la concurrence, l'interdiction de vente à perte a conduit La Poste à restructurer profondément cette activité, à redéfinir son offre et à réviser sa politique tarifaire. Cette réorganisation n'est en aucun cas un désengagement de La Poste. En effet, le groupe La Poste continuera de desservir toutes les boîtes aux lettres, soit par les salariés de Médiapost, en milieu urbain et dense, soit par les facteurs, essentiellement en zone rurale. Concernant la qualité et l'exhaustivité de la distribution, cette réorganisation lourde a généré depuis le début de l'année des dysfonctionnements inhérents à toute restructuration de cette ampleur. Toutefois, au fur et à mesure de son déploiement, la qualité de ce service progresse, et le nombre de boîtes aux lettres distribuées augmente régulièrement pour redevenir identique au total précédent. De plus, La Poste est consciente des inquiétudes et des insatisfactions qu'a entraîné cette réorganisation pour certains de ses clients qui, comme les communes rurales, effectuent plusieurs dépôts dans l'année avec, à chaque fois, un volume limité en nombre. C'est pourquoi La Poste proposera, d'ici la fin de l'année, une nouvelle offre simplifiée ouverte à toutes les communes de moins de 2000 habitants. Le dépôt se fera au bureau de poste distributeur de la commune, donc avec une réelle proximité.
