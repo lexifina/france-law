@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920621773
+
+- Question : [SEQ920621773](seq920621773.md) — Contrat de plan de La Poste
+
+## Réponse
+
+*Postes, JO du 1992-08-13, page 1897*
+
+Réponse. - Dans le cadre de l'autonomie de gestion qui lui a été reconnue par la loi du 2 juillet 1990, La Poste a engagé au cours de l'année 1991 une profonde réforme marquée par une forte volonté de déconcentration de ses structures. En décembre 1990, le cahier des charges a précisé les droits et obligations de La Poste, le cadre général de son activité et les conditions d'exécution de ses missions de service public et le contrat de plan, signé le 9 janvier 1992 entre l'Etat et l'exploitant, fixe pour sa part les missions et objectifs de La Poste ainsi que le cadre de ses relations avec l'Etat. L'élaboration de ce contrat de plan a donné lieu à une concertation approfondie à laquelle la commission supérieure du service public, le Conseil d'administration de La Poste et les organisations syndicales ont participé. Ce document met l'accent en particulier sur les missions et les orientations stratégiques en matière de présence postale et prévoit notamment que la Poste adapte l'importance et les formes de sa présence en fonction de la demande locale et de son évolution. La mise en place des groupements postaux au niveau infradépartemenal participe à cette politique qui vise à renforcer les pouvoirs de gestion et de décision des niveaux locaux et à favoriser ainsi le développement du dialogue et de la concertation locale. Elle permet également l'émergence d'un système de gestion dans lequel les échelons déconcentrés seront mieux associés. Ce nouveau cadre ne pourra que favoriser le développement de la concertation opérée au sein des 260 conseils locaux déjà réunis sous la responsabilité des chefs d'établissements.
