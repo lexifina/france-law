@@ -48,11 +48,11 @@ Effets d’équipement
 
 |
 
-27.000
+60.000
 
 |
 
-39.000
+86.000
 
 |
 
@@ -60,11 +60,11 @@ Effets de harnachement
 
 |
 
-12.000
+27.000
 
 |
 
-12.000
+27.000
 
 |
 
@@ -76,11 +76,11 @@ Effets d’équipement
 
 |
 
-25.000
+55.000
 
 |
 
-37.000
+81.000
 
 |
 
@@ -88,11 +88,11 @@ Effets de harnachement
 
 |
 
-12.000
+27.000
 
 |
 
-12.000
+27.000
 
 |
 
@@ -104,11 +104,11 @@ Effets d’équipement
 
 |
 
-23.000
+50.000
 
 |
 
-35.000
+77.000
 
 |
 
@@ -116,23 +116,21 @@ Effets de harnachement
 
 |
 
-12.000
+27.000
 
 |
 
-12.000
+27.000
 
 |
 
-Spécialistes de l’arme féminine de l’armée de terre
-
-|
+Spécialistes de l’arme féminine de l’armée de terre |
 
 Effets d ’équipement |
 
-23.000 |
+50.000 |
 
-35.000 |
+77.000 |
 
 Sous-officiers et caporaux-chefs
 
@@ -146,7 +144,7 @@ Néant
 
 |
 
-6.000
+13.000
 
 |
 
@@ -162,7 +160,7 @@ Néant
 
 |
 
-3.500
+7.600
 
 |
 
@@ -172,4 +170,4 @@ Nota.— Les effets d ’équipement et de harnachement susceptibles de donner l
 
 NOTA :
 
-Conformément à l'article 3 du décret n° 51-1388 du 29 novembre 1951, ces dispositions auront effet à compter du 1er juillet 1951.
+Conformément à l'article 2 du décret n° 54-64 du 6 janvier 1954, ces dispositions auront effet à compter du 1er octobre 1951.

@@ -26,7 +26,7 @@ Militaires promus sous-lieutenants montés ou assimilés de l’armée active
 
 |
 
-12.000
+27.000
 
 |
 
@@ -41,3 +41,7 @@ Officiers de l’armée active passant à une position montée
 Nota. — L’indemnité de première mise de harnachement n’est attribuée que s’il y a achat effectif de harnachement et ne peut être supérieure, dans la limite du tarif, à la dépense effectuée
 
 |
+
+NOTA :
+
+Conformément à l'article 2 du décret n° 54-64 du 6 janvier 1954, ces dispositions auront effet à compter du 1er octobre 1951.
