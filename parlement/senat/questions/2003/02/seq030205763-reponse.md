@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030205763
+
+- Question : [SEQ030205763](seq030205763.md) — Pôle financier du tribunal de grande instance de Paris
+
+## Réponse
+
+*Justice, JO du 2003-06-12, page 1919*
+
+Le garde des sceaux, ministre de la justice, rappelle à l'honorable parlementaire qu'il ne lui appartient pas de porter une appréciation sur les décisions de justice ni sur les magistrats qui les ont rendues. La lutte contre la délinquance économique et financière, de par sa complexité, a justifié le renforcement des moyens de certains tribunaux spécialisés en matière économique et financière, conformément aux dispositions des articles 704 et 705 du code de procédure pénale. Ce renforcement a pris la forme de la création des pôles économiques et financiers, se caractérisant notamment par l'apport de moyens humains consistant en la création par la loi du 2 juillet 1998 des fonctions d'assistant spécialisé. Le premier bilan du fonctionnement de ces pôles a montré qu'ils avaient permis un traitement plus efficace des dossiers dont ils avaient été saisis. Il convient de relever que ces dossiers nécessitent des investigations longues et complexes, et que leurs résultats ne sauraient être évalués uniquement à l'aune des condamnations éventuellement prononcées. A cet égard, le prononcé de certaines décisions de relaxe par les juridictions de jugement ne saurait être considéré comme un dysfonctionnement de ces structures mais, au contraire, comme le fonctionnement normal du processus judiciaire, qui tend à la recherche de la totale manifestation de la vérité. Au terme de quatre années de fonctionnement de ces pôles, le Gouvernement a décidé de prolonger la démarche, dans le cadre du projet de loi portant adaptation des moyens de la justice aux évolutions de la criminalité, notamment en créant des juridictions inter-régionales spécialisées en matière économique et financière pour les affaires d'une très grande complexité.
