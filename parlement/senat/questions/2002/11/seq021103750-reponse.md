@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021103750
+
+- Question : [SEQ021103750](seq021103750.md) — Remplacement d'un chef d'entreprise ou d'un exploitant agricole, de son conjoint ou d'un collaborateur non salarié
+
+## Réponse
+
+*Agriculture, JO du 2003-04-10, page 1233*
+
+Les cas de recrutement de salarié par contrat de travail à durée déterminée sont limitativement énumérés par l'article L. 122-1-1 du code du travail. Un amendement adopté lors de l'examen de la loi n° 2003-6 du 3 janvier 2003 portant relance de la négociation collective en matière de licenciement économique a complété cette énumération, permettant désormais de recruter des salariés en contrat à durée déterminée pour le remplacement du chef d'exploitation ou d'entreprise agricole défini aux 1° à 4° de l'article L. 722-1 du code rural ou celui des membres non salariés de leur famille, dès lors qu'ils participent effectivement à l'activité de l'exploitation ou de l'entreprise agricole.
