@@ -1,0 +1,9 @@
+# Réponse à la question SEQ050115546
+
+- Question : [SEQ050115546](seq050115546.md) — Utilisation des tests salivaires en prévention des accidents
+
+## Réponse
+
+*Intérieur, JO du 2005-03-24, page 858*
+
+L'honorable parlementaire appelle l'attention du ministre de l'intérieur, de la sécurité intérieure et des libertés locales sur l'intérêt qu'il y aurait à utiliser des tests salivaires pour procéder au dépistage des produits stupéfiants chez les conducteurs. Le Gouvernement est mobilisé sur cette question essentielle de sécurité routière. C'est ainsi que pour lutter plus efficacement contre le fléau de la drogue au volant plusieurs dispositions législatives sont intervenues ces dernières années. La loi du 3 février 2003 relative à la conduite sous l'influence de substances ou plantes classées comme stupéfiants a érigé en délit la conduite après usage de tels produits et la loi du 12 juin 2003 renforçant la lutte contre la violence routière a donné aux forces de l'ordre la possibilité de procéder à la rétention immédiate du permis de conduire en cas de dépistage positif ou s'il existe une ou plusieurs raisons plausibles de soupçonner que le conducteur a fait usage de produits stupéfiants. Il apparaît toutefois que les seuls tests disponibles à ce jour pour le dépistage des produits stupéfiants sont des tests urinaires dont les contraintes de mise en oeuvre empêchent une utilisation aussi généralisée que l'exige la sécurité routière. Lors du comité interministériel de sécurité routière du 24 janvier 2005, le Gouvernement a fait part de son intention de recourir dans les meilleurs délais à des tests salivaires qui donneront aux forces de l'ordre les moyens d'augmenter le nombre de dépistages à l'occasion des contrôles routiers. Dès le premier semestre 2005 une expérimentation est prévue à l'échelle de toute une région afin de valider les tests salivaires et de permettre une généralisation de leur utilisation à la fin de l'année 2005.
