@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880109296
+
+- Question : [SEQ880109296](seq880109296.md) — Situation financière du régime de sécurité sociale d'Alsace et de Moselle
+
+## Réponse
+
+*Affaires sociales, JO du 1988-03-31, page 433*
+
+Le second alinéa de l'article L. 242-13 issu de l'article 3 de la loi n° 87-588 du 30 juillet 1987 permet d'instituer une cotisation à la charge des retraités, bénéficiaires du régime local d'assurance maladie. En effet, le bénéfice du régime local d'assurance maladie n'est jusqu'à présent assorti d'aucune cotisation pour les retraités qui cotisent selon le droit commun au taux de 1,4 p. 100 sur les retraites de base et de 2,4 p. 100 sur les retraites complémentaires, alors que les actifs bénéficiaires du régime local supportent une cotisation propre au régime local de 1,5 p. 100 précomptée sur les salaires et déplafonnée depuis le 1er janvier 1986. Le service d'intérêts communs et de coordination des caisses primaires d'assurance maladie concernées a souhaité, lors de son assemblée du 19 novembre 1987, que le taux de la cotisation sur les avantages de vieillesse soit fixé à la moitié du taux retenu pour les actifs, soit 0,75 p. 100, et que les cas d'exonération prévus pour cette cotisation soient identiques à ceux retenus pour le régime général. Les modalités techniques de prélèvement de cette cotisation sont actuellement en cours de mise au point par les organismes nationaux du régime général et des régimes complémentaires. Par ailleurs, l'arrêté du 28 août 1987 relatif au fonds régional de réserve du régime local d'Alsace-Moselle a abaissé de 20 à 8 p. 100 (rapport entre le montant du fonds de réserve et les prestations versées annuellement) le seuil au-delà duquel les caisses primaires d'Alsace et de Moselle peuvent effectuer des prélèvements sur ce fonds pour financer leur action sanitaire et sociale.
