@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040913836
+
+- Question : [SEQ040913836](seq040913836.md) — Enseignement supérieur pour les enfants souffrant de maladie ou de handicap
+
+## Réponse
+
+*Éducation, JO du 2004-12-23, page 2965*
+
+Les établissements d'enseignement supérieur accueillent 7 500 étudiants handicapés dans les divers types d'établissements (classes post-baccalauréat des lycées, universités, écoles) Ce nombre est en augmentation constante et aucun étudiant handicapé ne se voit refuser l'accès aux structures. Les effets de l'intégration scolaire, individuelle ou collective dans les structures du second degré avec notamment la création d'unités pédagogiques d'intégration devraient progressivement se faire sentir dans l'enseignement supérieur. Des journées d'échanges entre les deux ordres d'enseignement se multiplient dans les académies afin de mieux faire connaître aux lycéens les possibilités d'accueil et d'accompagnement " dans l'enseignement supérieur. Le site internet du ministère de l'éducation nationale www.education.gouv.fr dispose depuis novembre 2003 d'une rubrique " handi U " destinée à renseigner le public sur l'accueil et l'accompagnement des étudiants handicapés dans les universités. La loi en cours d'examen sur l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées, prévoit en son article 7, l'inscription au code de l'éducation de l'obligation d'accueil et d'accompagnement des étudiants handicapés dans tous les établissements d'enseignement supérieur. Cette disposition devrait conduire à renforcer l'amélioration des dispositifs destinés à ces étudiants, par ailleurs cette mesure devrait être complétée par la possibilité de bénéficier, pour les étudiants très handicapés, d'assistants d'éducation auxiliaires de vie universitaire.
