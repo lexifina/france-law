@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950210088
+
+- Question : [SEQ950210088](seq950210088.md) — Missions locales
+
+## Réponse
+
+*Travail, JO du 1995-07-06, page 1358*
+
+Réponse. - L'activité des missions locales en faveur de l'insertion sociale et professionnelle des jeunes connaît un développement continu avec le concours financier de l'Etat et des collectivités locales. A ce titre, les moyens importants engagés en 1993 et 1994 ont été accrus afin de permettre le développement des missions locales et des permanences d'accueil, d'information et d'orientation. Le montant de la dotation budgétaire qui leur est consacrée en 1995 s'élève à 420 millions de francs, somme qui doit être rapprochée des 382,5 millions de francs et des 330 millions de francs attribués en 1994 et 1993. Cet effort permet : un renforcement et un développement des missions locales et permanences d'accueil, d'orientation et d'information existantes ; la création de vingt missions locales supplémentaires en 1995 ; le fonctionnement des espaces jeunes par mise à disposition de personnels ANPE et l'équipement informatique. Huit conventions régionales ont déjà été signées à cette fin entre l'Etat, l'ANPE et les conseils régionaux, et des conventions locales sont élaborées avec les missions locales qui ont vocation à être retenues comme espaces jeunes. Dans le même temps, l'approfondissement de la formation des directeurs et des agents des missions locales leur permettra d'être mieux à même de répondre aux sollicitations croissantes dont ils sont l'objet de la part des jeunes. C'est donc une réponse globale que l'Etat, avec le concours des collectivités locales, s'attache à apporter au développement des structures existantes, tout en fournissant une aide aux créations nouvelles, dès lors qu'elles correspondent à un besoin réel.
