@@ -1,0 +1,3 @@
+# Article ticle 21
+
+Sans préjudice des dispositions de la convention collective susvisée (art. 27 de la C.C.N.P.), le présent protocole fera l'objet d'un dépôt à la direction départementale du travail et de l'emploi et au secrétariat-greffe du conseil de prud'hommes de Paris et d'une demande d'extension dans les conditions fixées respectivement par les articles L. 132-10 et L. 133-8 et suivants du code du travail.

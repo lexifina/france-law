@@ -1,0 +1,7 @@
+# Article ticle 16
+
+Les dispositions du présent protocole remplacent celles des contrats existants à la date de son entrée en vigueur chaque fois que celles-ci sont moins favorables aux salariés.
+
+Le présent protocole ne peut en aucun cas être la cause d'une restriction des avantages acquis à titre individuel ou collectif antérieurement à la date de son entrée en vigueur. Notamment, il ne peut être une cause de restriction à ceux de ces avantages émanant du droit local, particulièrement en ce qui concerne les départements de la Moselle, du Bas-Rhin et du Haut-Rhin.
+
+Les avantages reconnus par le présent protocole ne peuvent en aucun cas s'ajouter à ceux déjà accordés pour le même objet dans les entreprises à la suite d'usage ou convention, seule est applicable la disposition globalement la plus favorable du présent protocole ou des dispositions appliquées antérieurement ; dans le même esprit, le maintien de tout avantage est subordonné à la persistance de la cause qui l'a motivé.
