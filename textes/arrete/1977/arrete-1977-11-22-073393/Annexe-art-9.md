@@ -1,25 +1,27 @@
 # Article Annexe art. 9
 
-Les prêts conventionnés doivent respecter des taux maxima.
+Les taux d'intérêt maxima des prêts conventionnés sont définis par l'addition d'un taux publié par le Crédit foncier de France et d'une marge, déterminés de la manière suivante :
 
-Ces taux sont définis par l'addition d'un taux de référence et d'une marge déterminés sur les bases suivantes :
+a) Le taux de référence publié par le Crédit foncier de France.
 
-a) Le taux de référence est égal à la moyenne arithmétique des trois taux ci-après :
+1. Le premier taux de référence publié par le Crédit foncier de France à compter de la publication du présent arrêté est égal à la moyenne, au deuxième trimestre 1992, arrondie à la deuxième décimale à 0,05 p. 100 près, des taux moyens mensuels de rendement sur le marché secondaire des emprunts d'Etat d'une durée supérieure à sept ans (T.M.E.) publiés par la Caisse des dépôts et consignations.
 
-Taux moyen pondéré des effets d'une durée de cinq ans négociés sur le marché hypothécaire, publié par le Crédit foncier ;
+2. Chaque mois, le Crédit foncier de France calcule :
 
-Taux moyen pondéré des effets d'une durée égale ou supérieure à dix ans négociés sur le marché hypothécaire, publié par le Crédit foncier ;
+- un taux de référence, égal à la moyenne des T.M.E. des trois derniers mois ;
 
-Taux de rendement moyen brut des emprunts de 2e catégorie pondéré en fonction des transactions boursières et publié par la caisse des dépôts et consignations.
+- l'écart entre ce taux de référence et le dernier taux publié.
 
-Ce taux de référence est calculé et publié par le Crédit foncier dans les quinze premiers jours de chaque trimestre civil, sur la base des moyennes hebdomadaires constatées lors du trimestre précédent. Il est pris en compte pour déterminer le taux des prêts autorisés à partir du 1er du mois suivant cette publication et pendant trois mois. Toutefois, les variations cumulées de ce taux de référence, tant à la hausse qu'à la baisse, inférieures à 25 centimes, ne donnent lieu à modification ni des taux d'intérêt maxima ni du taux de référence précédemment applicable.
+3. Le Crédit foncier de France publie le taux de référence, arrondi à la deuxième décimale à 0,05 p. 100 près, chaque fois que la somme des écarts mensuels calculés depuis la dernière publication est supérieur à 0,25 p. 100 en valeur absolue.
 
-b) La marge est ainsi fixée :
+4. Le taux de référence publié par le Crédit foncier de France est applicable le premier jour du mois suivant la publication de ce taux.
 
-Pour les prêts à taux fixe, qu'ils soient ou non à annuités progressives :
+b) La marge.
 
-1,50 point pour les prêts d'une durée inférieure ou égale à quinze ans ;
+La marge est fixée pour les prêts à taux fixe, qu'ils soient à annuités constantes, progressives ou indexées :
 
-1,75 point pour les prêts d'une durée supérieure à quinze ans.
+- à 2,3 points pour les prêts d'une durée inférieure ou égale à quinze ans ;
 
-Pour les prêts à taux variable, ces marges sont diminuées de 25 centimes.
+- à 2,5 points pour les prêts d'une durée supérieure à quinze ans.
+
+La marge applicable au taux d'intérêt des prêts à taux révisable, quelle que soit la durée des prêts, ne peut excéder 2,3 points.
