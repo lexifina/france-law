@@ -10,7 +10,7 @@ Elles peuvent instituer la taxe d'enlèvement des ordures ménagères dès lors 
 
 Elles peuvent toutefois instituer cette taxe, dès la première année d'application des dispositions du premier alinéa, jusqu'au 31 mars, dès lors que les communes qui ont décidé de la création de la communauté de communes, à l'exclusion de toute autre, étaient antérieurement associées dans un même syndicat de communes percevant une taxe d'enlèvement des ordures ménagères.
 
-Pour cette première année, elles ne peuvent voter que le produit de cette taxe, à l'exclusion de toute modification de ses règles d'établissement.
+Pour cette première année, elles ne peuvent voter que le taux de cette taxe, à l'exclusion de toute modification de ses règles d'établissement. Toutefois, lorsque la transformation est intervenue postérieurement au 15 octobre, les zones de perception en fonction de l'importance du service rendu instituées par le syndicat avant sa transformation en communauté de communes restent applicables l'année qui suit cette transformation.
 
 II. – Le conseil d'une communauté de communes ayant créé, créant ou gérant une zone d'activités économiques qui se situe sur le territoire d'une ou de plusieurs communes membres peut, à la majorité simple de ses membres, décider de se substituer à ces dernières pour la perception de la taxe professionnelle acquittée par les entreprises implantées dans la zone. Pour les communautés de communes créées, ou issues de la transformation d'un établissement public de coopération intercommunale préexistant, à compter de la date de publication de la loi n° 99-586 du 12 juillet 1999 relative au renforcement et à la simplification de la coopération intercommunale, seul le conseil d'une communauté de communes de moins de 50 000 habitants ou le conseil d'une communauté de communes de plus de 50 000 habitants et dont la ou les communes centre ont une population inférieure à 15 000 habitants peut décider de percevoir une taxe professionnelle de zone.
 
@@ -43,3 +43,7 @@ III. – Le conseil d'une communauté de communes peut, à la majorité simple d
 Toutefois, la perception de la taxe professionnelle selon les dispositions prévues à l'article 1609 nonies C est applicable de plein droit aux communautés de communes issues de communautés de villes dans les conditions prévues par l'article 56 de la loi n° 99-586 du 12 juillet 1999 précitée ainsi qu'aux communautés de communes issues, dans les conditions prévues au II de l'article 51 de la même loi, de districts faisant application des dispositions prévues au I de l'article 1609 nonies C.
 
 Les dispositions de l'article 1609 nonies C sont applicables de plein droit à compter du 1er janvier 2002 aux communautés de communes dont le nombre d'habitants est supérieur à 500 000, sauf délibération contraire de la moitié au moins des conseils municipaux des communes intéressées, cette majorité devant comprendre le conseil municipal de la commune dont la population est supérieure à la moitié de la population totale concernée ou, à défaut, de la commune dont la population est la plus importante.
+
+NOTA :
+
+NOTA : Ces dispositions sont applicables pour l'établissement de la taxe d'enlèvement des ordures ménagères due au titre des années 2005 et suivantes.
