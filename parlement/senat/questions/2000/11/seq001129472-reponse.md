@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001129472
+
+- Question : [SEQ001129472](seq001129472.md) — Déficit de conseillers d'orientation psychologues dans l'académie de Lille
+
+## Réponse
+
+*Éducation, JO du 2001-04-26, page 1444*
+
+Réponse. - La loi d'orientation sur l'éducation nº 89-486 du 10 juillet 1989 institue une véritable éducation à l'orientation dans les établissements secondaires. Celle-ci est organisée sous la responsabilité du chef d'établissement, et implique tous les membres de l'équipe éducative. Par ailleurs, les conseillers d'orientation-psychologues et les chefs d'établissements interviennent directement auprès des élèves lorsque leurs compétences spécifiques sont requises. Aussi, la situation des effectifs des conseillers d'orientation-psychologues (COP) doit-elle être appréciée par rapport à celle de l'ensemble des membres de l'équipe éducative. S'agissant plus particulièrement de l'académie de Lille qui connaît encore une diminution de ses effectifs d'élèves (7748 à la rentrée 2000, 4900 prévus à la rentrée 2001), il a été décidé de maintenir son potentiel de moyens de personnels d'orientation. Ainsi, à la rentrée scolaire 2000, un conseiller d'orientation-psychologue est en charge de 1 148 élèves du second degré, la moyenne nationale étant de 1 233. Ceci étant, en application de la déconcentration administrative, c'est aux autorités académiques qu'il appartient d'assurer la meilleure utilisation possible des moyens d'orientation mis à leur disposition, entre les établissements, en tenant compte des priorités qu'elles ont été amenées à définir en fonction des caractéristiques locales. Aussi, pour connaître les conditions de préparation de la prochaine rentrée scolaire dans l'académie de Lille, convient-il de prendre l'attache du recteur de l'académie de Lille qui est le mieux à même d'expliciter ses choix.
