@@ -1,0 +1,17 @@
+# Délibération portant avis sur la mise en oeuvre par le ministère des Affaires Etrangères, d'un système informatique dénommé "PEGASE", destiné à gérer les échanges avec les personnalités étrangères ayant effectué en France des séjours de formation, de spécialisation, d'information ou de recherche.
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 88-119
+- Date : 1988-11-08
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017652578
+
+La Commission Nationale de l'Informatique et des Libertés, Vu la Convention du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ; Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés ; Vu la loi n° 79-18 du 3 janvier 1979 sur les archives ; Vu le décret n° 78-774 du 17 juillet 1978 pris pour l'application des chapitres I à IV et VII de la loi précitée de 1978 ; Vu le projet d'arrêté portant création du système informatique dénommé "PEGASE" ; Après avoir entendu Monsieur Jacques THYRAUD, Commissaire, en son rapport, et Madame Charlotte-Marie PITRAT, Commissaire du Gouvernement, en ses observations ;
+
+Considérant que le système informatique, dénommé "PEGASE", créé par le Ministère des Affaires Etrangères, a pour finalité la gestion de données nominatives concernant les échanges avec les ressortissants étrangers ayant effectué en France des séjours de formation, de spécialisation, d'information ou de recherche ; Considérant que ce système informatique doit être mis en oeuvre, à titre expérimental, pour une durée de trois ans, dans les ambassades de France au Canada, en Espagne, à Madagascar et en Tunisie ; Considérant que des fichiers nominatifs sont constitués en France auprès du Centre National des Oeuvres Universitaires et Scolaires, et à l'étranger, dans les ambassades de France ; Considérant que ces fichiers comportent les informations nominatives suivantes : identité, date de naissance, nationalité, adresse, formation et diplômes, activités professionnelles, distinctions des personnes étrangères enregistrées dans le système "PEGASE" ; Considérant que la collecte de la nationalité ne peut être envisagée qu'avec l'accord exprès des personnes ; que dans ces conditions, il convient de demander au Ministère des Affaires Etrangères de modifier le questionnaire de collecte de l'information afin de préciser cette obligation ;
+
+Considérant que ces personnes adhèrent volontairement au système, à l'exception de celles bénéficiaires de bourses octroyées par le gouvernement français ; Considérant que les destinataires des données sont : les services français à l'étranger placés sous l'autorité de l'Ambassadeur de France, le Centre National des Oeuvre Universitaires et Scolaires (C.N.O.U.S.), les organismes responsables des séjours en France liés par convention avec le C.N.O.U.S. ; Considérant que le droit d'accès des personnes aux informations les concernant s'exercera soit auprès du Directeur du C.N.O.U.S. en France, soit auprès de l'Ambassadeur de France ; Demande à être tenue informée des résultats de l'expérimentation ;
+
+Dans ces conditions, émet un AVIS FAVORABLE à la mise en oeuvre du traitement sous réserve que l'article 2 du projet d'arrêté soit modifié afin de préciser que la collecte de la nationalité n'est possible qu'avec l'accord exprès des personnes. Le Président, Jacques FAUVET
