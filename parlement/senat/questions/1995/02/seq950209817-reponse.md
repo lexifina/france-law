@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950209817
+
+- Question : [SEQ950209817](seq950209817.md) — Aéroport de Paris : absence d'information
+
+## Réponse
+
+*Équipement, JO du 1995-04-13, page 898*
+
+Réponse. - La grève des pompiers d'Aéroports de Paris a fait préalablement l'objet, les 24 et 25 janvier 1995, du dépôt de six préavis, pour une action devant prendre effet au 2 février 1995. La direction d'Aéroports de Paris a alors entamé des négociations avec les organisations syndicales, conformément à la procédure légale, pour tenter d'éviter le déclenchement de la grève. Le 31 janvier 1995, elle décidait d'informer les compagnies aériennes du risque de grève, et tenait des réunions avec ces dernières afin de leur faire part des mesures qui seraient mises en place en cas de non-aboutissement des négociations. Aéroports de Paris a informé directement les usagers par voie d'un communiqué de presse le 1er février au matin, du risque de perturbation sur les plates-formes parisiennes à compter du 2 février. Une information a également été donnée par Minitel le même jour par l'intermédiaire du service 36.15 HORAV. Il n'est pas envisagé de faire ouvrir d'enquête administrative portant sur un approfondissement des conditions dans lesquelles cette information des usagers a été assurée. Enfin, il est à relever que tous les efforts ont été faits, sur un plan opérationnel, en vue de minimiser tout au long de la grève les perturbations subies par les passagers, grâce en particulier à la mise en place de cellules de coordination efficaces entre les compagnies aériennes, les services d'Aéroports de Paris et ceux chargés du contrôle du trafic aérien. Ainsi, si des retards moyens de quarante-cinq minutes ont pu être constatés aux heures de pointe, les perturbations enregistrées ont été, dans l'ensemble, constitutives de désagréments plus que de graves préjudices.
