@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920220020
+
+- Question : [SEQ920220020](seq920220020.md) — Maintien du statut familial des entreprises
+
+## Réponse
+
+*Économie, JO du 1992-04-09, page 872*
+
+Réponse. -Il n'existe aucune statistique précise sur les causes des disparitions d'entreprises à la suite du décès de leur principal animateur, mais il serait faux d'imputer à la fiscalité les difficultés ou les obstacles liés à la transmission à titre gratuit des entreprises. En effet, le régime d'imposition des mutations à titre gratuit repose sur la taxation, non de l'actif total transmis, mais de chacune des parts attribuées aux héritiers, diminuée d'un abattement spécifique sur la part du conjoint survivant et sur celle de chacun des enfants vivants ou représentés. Le dispositif actuel permet d'exonérer environ 80 p. 100 des successions entre époux et en ligne directe. Par ailleurs, plusieurs dispositions permettent de réduire ces droits dans d'importantes proportions : réductions d'impôt prévues en faveur des donations-partages, exonération des droits pris en charge par les donateurs, exonération de la valeur de l'usufruit en cas de transmission à titre gratuit de la nue-propriété. En outre, les mutations à titre gratuit qui portent sur des entreprises peuvent, lorsque certaines conditions sont remplies, bénéficier d'un différé de paiement de cinq ans à compter de la date d'exigibilité des droits puis d'un paiement fractionné sur une période de dix ans, avec un taux d'intérêt préférentiel. Enfin, dans le but de favoriser la transmission anticipée des patrimoines, et notamment des patrimoines professionnels, l'article 15 de la loi de finances pour 1992 prévoit que la liquidation des droits de mutation à titre gratuit s'effectue désormais sans tenir compte des donations consenties depuis plus de dix ans. L'ensemble de ces mesures va dans le sens des préoccupations exprimées par l'honorable parlementaire.
