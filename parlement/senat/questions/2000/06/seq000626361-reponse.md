@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000626361
+
+- Question : [SEQ000626361](seq000626361.md) — Travaux de recherche sur l'identification de l'entérocolite
+
+## Réponse
+
+*Agriculture, JO du 2000-10-19, page 3566*
+
+Réponse. - Les premiers travaux de recherche sur l'entérocolite épizootique du lapin (EEL) datent de 1997. Tous ont clairement démontré l'intervention d'un agent infectieux, probablement un virus, dans le développement de la maladie. Plusieurs approches ont été utilisées conjointement ou séparément pour essayer d'identifier et d'isoler l'agent pathogène : concentration et purification en gradient de densité, microscopie électronique, culture cellulaire et biologie moléculaire. Les techniques de biologie moléculaire mises en uvre par les chercheurs de l'Institut national de recherche agronomique (INRA) de Nouzilly ont permis d'identifier, d'isoler et de cultiver un rotavirus. Leurs recherches vont être poursuivies pour déterminer si cette souche de virus isolée est effectivement l'agent responsable de l'EEL. A l'Agence française de sécurité sanitaire des aliments (AFSSA) de Ploufragan, des techniques de biologie moléculaire similaires ont été utilisées pour rechercher d'autres familles de virus (parvovirus, circovirus...) qui pourraient être responsables de l'EEL, sans que pour le moment des résultats positifs n'aient été obtenus. Dans le cadre d'une convention AFSSA-ministère de l'agriculture et de la pêche d'un montant de 1 million de francs par an et prévue pour une durée de 3 ans, l'AFSSA a également entrepris depuis septembre 1999 une enquête écopathologique basée sur des enquêtes épidémiologiques analytiques et descriptives réalisées dans les élevages. Dans un second temps, l'activité d'épidémiologie cunicole à l'AFSSA sera élargie aux autres pathologies qui affectent cette filière.
