@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990617451
+
+- Question : [SEQ990617451](seq990617451.md) — Statut des médecins hospitaliers des services d'urgence
+
+## Réponse
+
+*Santé, JO du 1999-10-07, page 3320*
+
+Réponse. - L'honorable parlementaire a bien voulu interroger la secrétaire d'Etat à la santé et à l'action sociale sur la situation des médecins urgentistes et souhaite connaître les mesures que le Gouvernement envisage de prendre pour que l'accueil dans les services d'urgence soit assuré dans de meilleures conditions. La médicalisation de la prise en charge des patients dans les services d'accueil et de traitement des urgences constitue l'une des priorités du Gouvernement en matière d'organisation des soins hospitaliers. Un certain nombre de mesures ont déjà été prises pour améliorer la situation des services d'urgences et les conditions d'exercice des médecins : modification du concours de praticien hospitalier pour en faciliter l'accès aux médecins urgentistes, possibilité de création de postes à temps partiel dans les services d'accueil et de traitement des urgences des centres hospitaliers universitaires, création de postes de praticien hospitalier et d'assistant généraliste. L'accord signé le 8 juin 1999 entre le Gouvernement et les médecins urgentistes prévoit, en outre, des dispositions nouvelles. Il s'agit notamment de la revaloristion des rémunérations des assistants généralistes et des assistants généralistes associés titulaires de la capacité d'aide à la médecine d'urgence, de la prise en charge de la formation à la médecine d'urgence pour les assistants généralistes, et de la création de 230 postes de praticien hospitalier sur trois ans. Ces différentes mesures doivent permettre d'améliorer notablement la qualité et la sécurité médicale des services d'urgence et de répondre aux principales revendications des médecins urgentistes.
