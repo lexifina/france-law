@@ -48,9 +48,7 @@ II-2. Zones d'avitaillement
 
 On définira sur chaque aérodrome les zones où l'avitaillement en carburant ne peut être autorisé. Aucun point du périmètre de sécurité ne devra se trouver à moins de dix mètres d'un bâtiment ; toutefois, sur les aérodromes de catégorie D, des consignes particulières pourront prévoir des dérogations à cette distance minimale.
 
-II-3. Hélistations construites sur le toit des immeubles
-
-L'avitaillement des hélicoptères sur les hélistations autorisées sur le toit des immeubles est formellement interdit.
+II-3. (Abrogé)
 
 Chapitre III
 
