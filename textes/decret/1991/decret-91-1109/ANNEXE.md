@@ -1,29 +1,33 @@
 # Article ANNEXE
 
-Fonction exercée pouvant ouvrir droit au versement
+Régisseur de recettes et de dépenses ;
 
-d'une nouvelle bonification indiciaire
+Secrétaire de directeur de service extérieur national ou établissement public administratif comptant un effectif permanent supérieur à cent agents ;
 
-Régisseur de recettes et de dépenses.
+Responsable de la maintenance et de l'entretien d'installations électroniques et audiovisuelles de surveillance et de sécurité ;
 
-Secrétaire de directeur ou de délégué à l'administration centrale.
+Agent chargé de l'accueil et de la visite d'un monument ou musée ayant à utiliser une langue étrangère ;
 
-Secrétaire de directeur régional des affaires culturelles.
+Responsable de l'accueil et de la gestion d'un monument ou musée n'ayant pas à sa tête un conservateur en résidence permanente ;
 
-Secrétaire de directeur d'un service extérieur national ou d'un établissement public administratif comptant un effectif permanent supérieur à cent agents.
+Responsable d'une cellule permanente chargé de l'établissement des marchés publics ;
 
-Responsable assurant la maintenance et l'entretien technique d'installations électroniques et audiovisuelles de surveillance et de sécurité.
+Collaborateur administratif exerçant des responsabilités particulières auprès d'un directeur régional des affaires culturelles et bénéficiant d'une délégation de signature du préfet ;
 
-Agent chargé de l'accueil et de la visite d'un monument ou d'un musée national ayant à utiliser fréquemment une langue étrangère.
+Responsable de la gestion du centre d'accueil, d'information et de documentation d'une direction régionale des affaires culturelles ;
 
-Responsable de l'accueil et de la gestion d'un monument ou d'un musée national n'ayant pas à sa tête un conservateur en résidence permanente.
+Responsable ou agent polyvalent chargé d'interventions dans diverses spécialités professionnelles d'entretien et de maintenance ;
 
-Responsable de l'accueil, de la sécurité et du fonctionnement d'un local administratif affecté à l'administration centrale.
+Caissier non régisseur ;
 
-Responsable d'une cellule permanente chargée de l'établissement des marchés publics.
+Responsable d'atelier d'impression ;
 
-Responsable de la bureautique d'un service doté d'un nombre de postes bureautiques supérieur à cinquante unités.
+Responsable de service intérieur ;
 
-Collaborateur administratif exerçant des responsabilités particulières auprès d'un directeur régional des affaires culturelles et bénéficiant à ce titre d'une délégation de signature du préfet.
+Responsable général de la surveillance dans un grand musée ;
 
-Responsable de la gestion du centre d'information et de documentation d'une direction régionale des affaires culturelles, ouvert au public.
+Agent chargé de la gestion du personnel en D.R.A.C. (et gérant plus de 50 agents) ;
+
+Responsable d'un centre de documentation relevant de l'administration centrale, ouvert au public ;
+
+Responsable interrégional de formation.
