@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940204692
+
+- Question : [SEQ940204692](seq940204692.md) — Application de la loi réorganisant le système de soins aux détenus
+
+## Réponse
+
+*Affaires sociales, JO du 1994-10-13, page 2452*
+
+Réponse. - La loi du 18 janvier 1994 relative à la santé publique et à la protection sociale contient des dispositions permettant de mieux assurer la protection sanitaire et sociale des détenus. Les cotisations d'assurance maladie mises à la charge de l'Etat seront calculées sur la base des frais réellement engagés par les établissements de santé. Le montant de ces cotisations sera versé par le ministère de la justice (direction de l'administration pénitentiaire), sous forme d'une enveloppe globale, à l'Agence centrale des organismes de sécurité sociale. S'agissant de la sécurité des détenus et des personnels de santé, dans le cas d'une hospitalisation dans un établissement de soins somatiques, il appartient à l'autorité préfectorale de la garantir et de prescrire l'escorte et la garde du détenu par les services. A cet effet, le chef d'établissement pénitentiaire doit donner tous renseignements utiles à l'autorité préfectorale pour lui permettre d'arrêter les mesures propres à éviter tout incident lié à la présence du détenu. Pour ce qui concerne les soins somatiques dispensés en milieu pénitentiaire qui constituent une mission nouvelle pour les établissements de santé concernés par ce nouveau dispositif, des dotations budgétaires supplémentaires seront attribuées à ces établissements au fur et à mesure de la passation de protocoles d'accord avec les établissements pénitentiaires. Ces dépenses seront financées selon les règles de droit commun par la dotation globale de financement pour la part incombant à l'assurance maladie, le solde (ticket modérateur, forfait journalier) restant à la charge de l'Etat.
