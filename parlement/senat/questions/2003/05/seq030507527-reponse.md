@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030507527
+
+- Question : [SEQ030507527](seq030507527.md) — Attributions des conseillers municipaux européens
+
+## Réponse
+
+*Intérieur, JO du 2003-07-10, page 2240*
+
+Les ressortissants des Etats membres de l'Union européenne sont éligibles au conseil municipal, en application de l'article LO 228-1 du code électoral, issu de la loi organique n° 98-404 du 25 mai 1998 déterminant les conditions d'application de l'article 88-3 de la Constitution relatif à l'exercice par les citoyens de l'Union européenne résidant en France, autres que les ressortissants français, du droit de vote et d'éligibilité aux élections municipales, et portant transposition de la directive 94/80/CE du 19 décembre 1994. Cette même loi organique a apporté certaines restrictions aux fonctions que peuvent exercer les conseillers municipaux qui n'ont pas la nationalité française. Ainsi, elle a introduit dans le code général des collectivités territoriales un article LO 2122-4-1 qui interdit à ces conseillers d'être élus maire ou adjoint, ou même d'en exercer temporairement les fonctions, y compris par délégation. Par ailleurs, la loi organique a inséré dans le code électoral un article LO 286-1 prévoyant que les conseillers municipaux qui n'ont pas la nationalité française ne peuvent ni être membres à un titre quelconque du collège électoral sénatorial ni participer à l'élection à ce collège de délégués, de délégués supplémentaires et de suppléants. Sous ces réserves, ces conseillers municipaux ont les mêmes attributions que les élus de nationalité française appelés à délibérer sur les affaires de la commune. Ils peuvent ainsi faire partie des commissions constituées en application de l'article L. 2121-22 ou encore être élus comme délégués dans les organismes extérieurs pour représenter la commune.
