@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931204299
+
+- Question : [SEQ931204299](seq931204299.md) — Programme d'action de la France en application de la Convention internationale des droits des enfants
+
+## Réponse
+
+*Affaires sociales, JO du 1994-06-09, page 1415*
+
+Réponse. - La France a signé le 26 janvier 1990 la Convention internationale des droits de l'enfant. Le Parlement, par une loi du 2 juillet 1990, en a autorisé la ratification, qui est intervenue le 7 août 1990. La Convention est entrée en vigueur dans notre pays le 6 septembre 1990. Par application de l'article 44, un rapport a été rédigé par les services compétents du ministère des affaires sociales, de la santé et de la ville, sur " les mesures adoptées pour donner effet aux droits reconnus dans la Convention et sur les progrès réalisés dans la jouissance de ces droits ". Ce rapport a été remis au comité des droits de l'enfant, organe indépendant des Nations unies institué par l'article 43 de la Convention, le 29 mars 1993. Il a été examiné lors de la session d'avril 1994 du comité. Par ailleurs, les 29 et 30 septembre 1990, s'est tenu au siège de l'ONU le sommet mondial pour les enfants. Plus de 150 Etats étaient présents pour examiner la situation des enfants dans le monde, proclamer une déclaration mondiale en faveur de la survie, de la protection et du développement de l'enfant, enfin approuver un plan d'action pour l'application de cette déclaration. Les Etats devaient par la suite élaborer des programmes d'action nationaux donnant suite aux engagements pris, la synthèse des plans et mesures mis en oeuvre par les différents pays et la communauté internationale devant être réalisée par le Fonds des Nations unies pour l'enfance. Je transmets votre question, aux services du ministre délégué à l'action humanitaire et aux droits de l'homme qui se préoccupent de cette question, en vous précisant que mes services collaborent à la réflexion en cours.
