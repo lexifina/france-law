@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980105376
+
+- Question : [SEQ980105376](seq980105376.md) — Union européenne : harmonisation de la fiscalité sur l'épargne
+
+## Réponse
+
+*Économie, JO du 1998-06-04, page 1789*
+
+Réponse. - La question de la fiscalité de l'épargne a été relancée au niveau communautaire dans le cadre des travaux du groupe de politique fiscale menés en 1997. Ces réflexions ont abouti, le 1er décembre 1997, à l'approbation par le Conseil des ministres ECOFIN de conclusions qui invitent la Commission à lui présenter une proposition de directive en matière de fiscalité de l'épargne. Le Conseil définit à cet égard quatre grands principes à partir desquels cette directive devra être préparée : un champ d'application limité aux intérêts versés dans un Etat membre à des perticuliers résidents d'un autre Etat membre ; un système de taxation fondé sur le principe de " coexistence " dans le cadre duquel chaque Etat membre applique une retenue à la source ou fournit aux autres Etats membres des informations sur les revenus d'épargne de leurs résidents ; un recouvrement de la retenue à la source effetué par l'établissement payeur ; la préservation de la compétitivité des marchés financiers européens à l'échelle mondiale. Il ne s'agit pas à ce stade d'aboutir à une harmonisation générale de la fiscalité applicable aux revenus de l'épargne mais d'assurer un minimum de taxation effective des revenus d'épargne perçus par les non-résidents communautaires. La France a accepté le principe de " coexistence ", tous en exigeant que le taux minimal de retenue à la source que devra prévoir la directive soit d'au moins 25 %. La France se félicitée que la Commission ait présenté le 20 mai un projet de directive proche des vues qu'elle a exprimées. Il est en efet indispensable, dans la perspective de la monnaie unique, de parvenir rapidement à des résultats.
