@@ -1,51 +1,23 @@
 # Article Annexe I
 
-I. - Programme de biologie
+Le programme de l'épreuve de biologie porte sur les points suivants de la seule partie des sciences de la vie du programme des sciences de la vie et de la Terre des classes de première et de terminale, série scientifique (arrêté du 9 août 2000, JO du 22 août 2000, Bulletin officiel de l'éducation nationale hors série no 7 du 31 août 2000 : programme des lycées, volume 5, classe de première, physique-chimie, et sciences de la vie et de la Terre, série scientifique ; arrêté du 1er juillet 2002, JO du 10 juillet 2002, Bulletin officiel de l'éducation nationale hors série no 6 du 29 août 2002 : programme des lycées, volume 11, classe de seconde et du cycle terminal des séries générales et technologiques ; arrêté du 20 juillet 2001, JO du 4 août 2001, Bulletin officiel de l'éducation nationale hors série no 4 et 5 du 30 août 2001 : programme des lycées, volumes 9 et 10, classe terminale, physique-chimie, et sciences de la vie et de la Terre, série scientifique) :
 
-Le programme de l'épreuve de biologie porte sur les points suivants du programme de sciences de la vie et de la terre de première scientifique (arrêté du 10 juillet 1992, publié au Bulletin officiel de l'éducation nationale hors série du 24 septembre 1992, tome II) et de terminale scientifique (arrêté du 8 avril 1994, publié au Bulletin officiel de l'éducation nationale n° 6 du 9 juin 1994) :
+A. - Points issus de première, série scientifique
 
-A. - Points issus de première scientifique
+Toute la partie science de la vie (thème général : des phénotypes à différents niveaux d'organisation du vivant) à l'exclusion de toute la partie science de la Terre du programme de sciences de la vie et de la Terre de première, série scientifique.
 
-1. Edification de l'organisme, maintien de son identité biologique et information génétique.
+B. - Points issus de terminale, série scientifique
 
-2. Quelques aspects du métabolisme énergétique.
+Parmi les parties issues de l'enseignement obligatoire à l'exclusion de toutes les parties de l'enseignement dit de spécialité du programme de sciences de la vie et de la Terre de terminale, série scientifique :
 
-B. - Points issus de terminale scientifique
+- la partie 1-2 : parenté entre êtres vivants actuels et fossiles-phylogénèse-évolution ;
 
-1. Unicité génétique des individus et polymorphisme des espèces
+- la partie 1-3 : stabilité et variabilité des génomes et évolution ;
 
-1. Origine du polymorphisme génique.
+- la partie 1-6 : procréation ;
 
-2. Mécanismes fondamentaux de la reproduction sexuée ; cycle de développement.
+- la partie 1-7 : immunologie.
 
-3. Brassage génique assuré par la reproduction sexuée et unicité génétique des individus.
+II. Programme de physique et de chimie
 
-4. Diversité génétique des populations.
-
-5. Prévisions en génétique humaine.
-
-2. Mécanismes de l'immunité
-
-1. Soi et non-soi.
-
-2. Bases de l'immunocompétence.
-
-3. Déroulement de la réponse immunitaire.
-
-3. Aspects du fonctionnement des centres nerveux
-
-1. Les propriétés intégratrices des centres nerveux et le fonctionnement des neurones.
-
-2. L'activité cérébrale.
-
-4. Fonctionnement d'un système de régulation
-
-Régulation des taux d'hormones sexuelles.
-
-5. Histoire et évolution de la Terre et des êtres vivants
-
-Evolution biologique et changement de l'environnement : la lignée humaine.
-
-II. - Programme de physique et de chimie
-
-Le programme des épreuves de physique et de chimie porte sur l'intégralité du programme de physique et de chimie de première et de terminale scientifiques (arrêté du 10 juillet 1992, Bulletin officiel de l'éducation nationale hors série du 24 septembre 1992, tome I, et arrêté du 12 janvier 1995, publié au Bulletin officiel de l'éducation nationale spécial n° 3 du 16 février 1995).
+Le programme des épreuves de physique et de chimie porte sur l'intégrité du programme de physique-chimie de première et de terminale, série scientifique (arrêté du 9 août 2000, JO du 22 août 2000, Bulletin officiel de l'éducation nationale, hors série no 7 du 31 août 2000 : programme des lycées, volume 5, classe de première, physique-chimie et sciences de la vie et de la Terre, série scientifique ; arrêtés du 20 juillet 2001, JO du 4 août 2001, Bulletin officiel de l'éducation nationale hors série nos 4 et 5 du 30 août 2001 : programme des lycées, volumes 9 et 10, classe terminale, physique-chimie et sciences de la vie et de la Terre, série scientifique).
