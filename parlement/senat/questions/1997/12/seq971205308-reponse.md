@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971205308
+
+- Question : [SEQ971205308](seq971205308.md) — Précisions sur les conséquences de la pollution " de proximité "
+
+## Réponse
+
+*Aménagement du territoire, JO du 1998-06-04, page 1776*
+
+Réponse. - Mme la ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question relative à l'article du quotidien Le Figaro du 10 décembre 1997 titré " Les poussières échappent à la surveillance de l'air ", et plus particulièrement à la partie concernant l'évaluation de l'exposition de la population. Les experts recommandent à Airparif d'effectuer des campagnes de mesure pour caractériser les concentrations de polluants primaires dans des lieux où les émissions sont particulièrement fortes. C'est en particulier le cas des garages, des tunnels, des couloirs souterrains, des gares routières, des voies rapides, des artères où les véhicules circulent au ralenti. Ils recommandent également d'effectuer des campagnes de surveillance dans les zones à forte densité de population mais dans des lieux où les émissions seraient moindres ou seraient facilement dispersées, comme les terrains de sport, les rues piétonnes, les jardins publics, les écoles et garderies d'enfants. Le ministère de l'aménagement du territoire et de l'environnement juge ces recommandations pertinentes et estime que l'exposition des populations à la pollution " de proximité " comme à la pollution " de fond " doit être mieux connue. Cela nécessite des moyens importants au sein des organismes de surveillance de la qualité de l'air, organismes dont le ministère de l'aménagement du territoire et de l'environnement, les collectivités territoriales et les industriels soutiennent le développement. En ce qui concerne l'Etat, les moyens financiers correspondant à la mise en uvre des recommandations de l'audit sont prévus au budget 1998.
