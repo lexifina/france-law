@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940606886
+
+- Question : [SEQ940606886](seq940606886.md) — Comité de coordination de l'aide internationale aux Palestiniens
+
+## Réponse
+
+*Affaires étrangères, JO du 1994-10-06, page 2390*
+
+Réponse. - Plusieurs réunions se sont tenues sur l'aide internationale à Gaza et Jéricho depuis le 1er octobre 1993, date de la conférence de Washington. Un comité ad hoc de liaison présidé par la Norvège a, en effet, été réuni les 9 et 10 juin 1994 à Paris. La France y a participé à titre de membre de la troïka européenne, l'Union européenne étant, en effet, représentée dans cette enceinte par la présidence assistée par la troïka et par la Commission. A cette occasion, ont été examinées les modalités de financement des dépenses de fonctionnement des Palestiniens dans la période de transition précédant la perception de recettes fiscales par l'Autorité palestinienne, ainsi que le financement de projets à plus long terme. Ainsi que le souligne l'honorable parlementaire, la communauté internationale s'est engagée pour 2,4 milliards de dollars. Ces montants devraient être versés à échéance de cinq ans. 1,2 milliard de dollars sont annoncés pour les trois premières années, dont 580 millions de dollars pour 1994. La Banque mondiale s'est engagée à contribuer en 1994 par un prêt à hauteur de 45 millions de dollars, dont 15 millions de dollars proviendront de la Société financière internationale. Aucun versement n'est intervenu à ce jour de la part de la Banque mondiale. Comme le sait l'honorable parlementaire, l'aide française totale s'élève, pour 1994, à 250 millions de francs en incluant la part communautaire. Le protocole bilatéral de 60 millions de francs décidé à la suite de l'accord de principe israélo-palestinien a été signé le 1er juillet 1994 et sa mise en oeuvre effective est bien engagée.
