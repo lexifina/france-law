@@ -1,75 +1,141 @@
 # Article Annexe
 
-E 473 Sucroesters :
+E 466 Carboxyméthylcellulose :
 
-Description chimique : se composent essentiellement de mono- et de diesters de saccharose des acides gras des huiles et graisses alimentaires. Ils peuvent être préparés à partir de saccharose et des esters de méthyle et d'éthyle des acides gras alimentaires ou par extraction à partir des sucroglycérides. Aucun solvant organique autre que l'acétate d'éthyle, l'isopropanol ou la diméthylformamide ne peut être utilisé pour leur préparation.
+Description chimique : sel de sodium partiel d'un éther carboxyméthylique de cellulose provenant directement de fibres végétales.
 
-Teneur en saccharoesters des acides gras : pas moins de 80 p. 100.
+Description : poudre granuleuse ou fibreuse, blanche ou légèrement jaunâtre ou grisâtre, légèrement hygroscopique, inodore et insipide.
 
-Teneur totale en glycérides : pas plus de 20 p. 100.
+Formule chimique : Les polymères contiennent des unités d'anhydroglucoses substitués avec la formule générale C6H7O2 (OR4) (OR2) (OR3) ou R1, R2, R3 peuvent être : H, CH2COONa, CH2COOH.
 
-Teneur en sucre libre : pas plus de 5 p. 100.
+Poids moléculaire : d'environ 17.000 à environ 1.500.000.
 
-Acides gras libres : pas plus de 3 p. 100, exprimés en acide oléique.
+Teneur : pas moins de 99,5 % de carboxyméthylcellulose dans la matière sèche.
 
-Cendres sulfatées : pas plus de 2 p. 100, déterminées par calcination à 800 plus ou moins 25 °C.
+Chlorure de sodium et glycolate de sodium : pas plus de 0,5 % au total et pas plus de 0,4 % de glycolate de sodium.
 
-Teneur en diméthylformamide : pas plus de 1 mg par kilogramme.
+Degré de substitution : pas moins de 0,2 et pas plus de 1,0 groupement (-CH2COOH) par unité d'anhydroglucose.
 
-Teneur en méthanol : pas plus de 10 mg par kilogramme.
+Sodium : pas plus de 9,7 % (après dessiccation).
 
-Teneur en acétate d'éthyle et isopropanol : pas plus de 350 mg par kilogramme, séparément ou ensemble.
+Matières volatiles : pas plus de 12 %, déterminées par dessiccation à 105 °C jusqu'à l'obtention d'un poids constant.
 
-Nota. : Ces critères sont basés sur le produit sans E 470.
+pH d'une solution à 1 % : pas moins de 6,0 et pas plus de 8,5.
 
-E 474 Sucroglycérides :
+E 471 Mono- et diglycérides d'acides gras :
 
-Description chimique : produit obtenu par réaction de sucre (saccharose) avec une huile ou une graisse alimentaire, ce qui donne essentiellement des mono- et diesters de saccharose d'acide gras mélangés à des mono- et triglycérides résiduels provenant de cette graisse ou de cette huile. Aucun solvant organique autre que le cyclohexane, le diméthylformamide, l'acétate diéthyle, l'isobutanol et l'isopropanol ne peut être utilisé pour leur préparation. Teneur totale en cyclohexane et en isobutanol : pas plus de 10 mg/kg pris séparément ou ensemble.
+Description chimique : se composent de mélanges de mono- di- et triesters de glycérol des acides gras, des huiles et graisses alimentaires. Ils peuvent contenir de faibles quantités d'acides gras et de glycérol libres.
 
-Description : solides mous, gels rigides ou poudre, blancs ou blanchâtres.
+Description : leur consistance va de celle d'un liquide huileux de couleur paille à brun clair à celle d'un solide cireux dur de couleur blanche ou blanc cassé. Ces solides peuvent être en forme de flocons, de poudre ou de petits grains.
 
-Teneur totale en saccharoesters d'acides gras : pas moins de 40 p. 100 et pas plus de 60 p. 100.
+Teneur en mono- et en diesters : pas moins de 70 %.
 
-Teneur totale en glycérides : pas moins de 40 p. 100 et pas plus de 60 p. 100.
+Acides gras libres : pas plus de 3 %, exprimés en acide oléique.
 
-Teneur en sucre libre : pas plus de 5 p. 100.
+Glycérol libre : pas plus de 7 %.
 
-Acides gras libres : pas plus de 3 p. 100, exprimés en acide oléique.
+Glycérol total : pas moins de 16 % et pas plus de 33 %.
 
-Cendres sulfatées : pas plus de 2 p. 100, déterminées par calcination à 800 plus ou moins 25 °C.
+Polyglycérols : pas plus de 4 % du glycérol total pour les dimères et pas plus de 1 % du glycérol total pour les autres polymères de glycérol.
 
-Teneur en diméthylformamide : pas plus de 1 mg par kilogramme.
+Eau : pas plus de 2 % (Karl Fischer).
 
-Teneur en méthanol : pas plus de 10 mg par kilogramme.
+Cendres sulfatées : pas plus de 0,5 %, déterminées par calcination à 800 plus ou moins 25 °C.
 
-Teneur en acétate d'éthyle et isopropanol : pas plus de 350 mg par kilogramme, séparément ou ensemble.
+Nota : ces critères sont basés sur le produit sans E 470.
 
-Nota. - Ces critères sont basés sur le produit sans E 470.
+E 472 (a) Esters acétiques des mono- et diglycérides d'acides gras :
 
-E 481 Stéaroyl-2-lactylate de sodium :
+Description chimique : esters de glycérol et d'un mélange d'acide acétique et d'acides gras des huiles et graisses alimentaires. Ils peuvent contenir de faibles quantités à l'état libre de glycérol, d'acides gras, d'acide acétique et de glycérides.
 
-Description chimique : se compose d'un mélange de sels de sodium des acides stéaroyllactyliques et de petites quantités d'autres sels de sodium d'acides apparentés et est préparé en faisant réagir les acides stéarique et lactique. Il peut aussi y avoir des esters d'autres acides gras alimentaires, libres ou estérifiés, provenant de l'acide stéarique utilisé.
+Description : leur consistance va de celle de liquides clairs très fluides à celle de solides, et leur couleur du blanc au jaune pâle.
 
-Description : poudre ou matière solide friable, de couleur crème, avec odeur caractéristique.
+Teneur totale en acide acétique : pas moins de 9 % et pas plus de 32 %.
 
-Teneur en sodium : pas moins de 2,5 p. 100 et pas plus de 5 p. 100.
+Acides gras libres (et acide acétique) : pas plus de 3 %, exprimés en acide oléique.
 
-Indice d'esters : pas moins de 90 et pas plus de 190 mg KOH par gramme.
+Glycérol libre : pas plus de 2 %.
 
-Acide lactique totale (libre et combiné) : pas moins de 15 p. 100 et pas plus de 40 p. 100.
+Glycérol total : pas moins de 14 % et pas plus de 31 %.
 
-Indice d'acide : pas moins de 60 et pas plus de 130 mg KOH par gramme.
+Cendres sulfatées : pas plus de 0,5 %, déterminées par calcination à 800 + ou - 25 °C.
 
-E 482 Stéaroyl-2-lactylate de calcium :
+Note : ces critères sont basés sur le produit sans E 470.
 
-Description chimique : se compose d'un mélange de sels de calcium des acides stéaroyllactyliques et de petites quantités d'autres sels de calcium d'acides apparentés et est préparé en faisant réagir les acides stéarique et lactique. Il peut aussi y avoir des esters d'autres acides gras alimentaires, libres ou estérifiés, provenant de l'acide stéarique utilisé.
+E 472 (b) Esters lactiques des mono- et diglycérides d'acides gras :
 
-Description : poudre ou matière solide friable, blanches ou légèrement jaunâtres, avec odeur caractéristique.
+Description chimique : esters de glycérol et d'un mélange d'acide lactique et d'acides gras des huiles et graisses alimentaires.
 
-Teneur en calcium : pas moins de 1 p. 100 et pas plus de 5,2 p. 100.
+Ils peuvent contenir de faibles quantités à l'état libre de glycérol, d'acides gras, d'acide lactique et de glycérides.
 
-Indice d'ester : pas moins de 125 et pas plus de 190 mg KOH par gramme.
+Description : leur consistance va de celle de la cire molle à celle de la cire dure.
 
-Acide lactique total (libre et combiné) : pas moins de 15 p. 100 et pas plus de 40 p. 100.
+Teneur totale en acide lactique : pas moins de 13 % et pas plus de 45 %.
 
-Indice d'acide : pas moins de 50 et pas plus de 130 mg KOH par gramme.
+Acides gras libres : pas plus de 3 %, exprimés en acide oléique.
+
+Glycérol libre : pas plus de 2 %.
+
+Glycérol total : pas moins de 13 % et pas plus de 30 %.
+
+Cendres sulfatées : pas plus de 0,5 %, déterminées par calcination à 800 + ou - 25 °C.
+
+Note : ces critères sont basés sur le produit sans E 470.
+
+E 472 (c) Esters citriques des mono- et diglycérides d'acides gras :
+
+Description chimique : esters de glycérol avec un mélange d'acide citrique et d'acides gras des huiles et graisses alimentaires. Ils peuvent contenir de faibles quantités à l'état libre de glycérol, d'acides gras, d'acide citrique et de glycérides. Ils peuvent être partiellement ou totalement neutralisés avec l'hydroxyde de sodium ou de potassium.
+
+Description : liquides jaunâtres ou légèrement brunâtres, ou solides ou semi-solides cireux.
+
+Teneur totale en acide citrique : pas moins de 13 % et pas plus de 50 %.
+
+Acides gras libres : pas plus de 3 %, exprimés en acide oléique.
+
+Glycérol libre : pas plus de 2 %.
+
+Glycérol total : pas moins de 11 % et pas plus de 29 %.
+
+Cendres sulfatées : pas plus de 0,5 % pour le produit non neutralisé et pas plus de 10 % pour le produit partiellement ou totalement neutralisé, déterminées à 800 plus ou moins 25 °C.
+
+pH d'une solution à 1 % : pas moins de 3,0 et pas plus de 7,3.
+
+E 472 (e) Esters monoacétyltartrique et diacétyltartrique des mono- et diglycérides d'acides gras :
+
+Description chimique : esters partiels ou complets de glycérol et d'un mélange d'acides mono- et diacétyltartrique (obtenus à partir de l'acide tartrique (E 334)) et d'acides gras des huiles et graisses alimentaires. Ils peuvent contenir de faibles quantités à l'état libre de glycérol d'acides gras, d'acides tartrique et acétique ou de leurs produits de combinaison et de glycérides libres.
+
+Description : leur consistance va de celle de liquides collants et visqueux à celle de cires jaunes. Ils peuvent s'hydrolyser dans l'air humide en dégageant de l'acide acétique.
+
+Teneur totale en acide tartrique : pas moins de 10 % et pas plus de 40 %.
+
+Teneur totale en acide acétique : pas moins de 8 % et pas plus de 32 %.
+
+Acides gras libres : pas plus de 3 %, exprimés en acide oléique.
+
+Glycérol libre : pas plus de 2 %.
+
+Glycérol total : pas moins de 11 % et pas plus de 28 %.
+
+Cendres sulfatées : pas moins de 0,5 %, déterminées par calcination à 800 plus ou moins 25 °C.
+
+E 472 (f) Esters mixtes acétiques et tartriques des mono- et diglycérides d'acides gras :
+
+Description chimique : esters de glycérol et d'un mélange d'acide acétique, d'acide tartrique (E 334) et d'acides gras des huiles et graisses alimentaires. Ils peuvent contenir de faibles quantités à l'état libre de glycérol, d'acides gras, d'acides acétique et tartrique et de glycérides.
+
+Description : leur consistance va de celle de liquides clairs et fluides à celle de solides, et leur couleur du blanc au jaune pâle.
+
+Teneur totale en acide acétique : pas moins de 10 % et pas plus de 20 %.
+
+Teneur totale en acide tartrique : pas moins de 20 % et pas plus de 40 %.
+
+Acide acétique libre : pas moins de 5,5 % et pas plus de 8,5 %.
+
+Acide tartrique libre : pas plus de 1 %.
+
+Acides gras libres : pas plus de 3 %, exprimés en acide oléique.
+
+Glycérol libre : pas plus de 2 %.
+
+Glycérol total : pas moins de 12 % et pas plus de 27 %.
+
+Cendres sulfatées : pas plus de 0,5 %, déterminées à 800 plus ou moins à 25 °C.
