@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910314169
+
+- Question : [SEQ910314169](seq910314169.md) — Remboursements médicaux pour les étrangers titulaires de pensions de retraite françaises
+
+## Réponse
+
+*Affaires sociales, JO du 1991-08-08, page 1682*
+
+Réponse. - L'honorable parlementaire évoque la situation d'un ressortissant américain, titulaire d'une pension de vieillesse française et résidant en Autriche, qui se voit refuser la prise en charge par le régime frnçais de sécurité sociale des dépenses afférentes aux soins de santé qui lui sont dispensés au cours de séjours temporaires en France. Il convient de rappeler que le régime français de sécurité sociale est notamment fondé sur le principe de territorialité et que, sous réserve des actes communautaires et des conventions internationales, les ressortissants étrangers et leurs ayants droit ne peuvent bénéficier des prestations d'assurance maladie qu'à la condition d'avoir leur résidence en France. En outre, l'intéressé, du fait de sa nationalité américaine, ne peut bénéficier dans le cas d'espèce des dispositions de la convention franco-autrichienne de sécurité sociale concernant la prise en charge des soins de santé dispensés aux pensionnés en séjour temporaire dans l'Etat contractant autre que celui de leur résidence. S'agissant enfin de la cotisation précomptée sur les arrérages de la pension vieillesse servie à l'intéressé, il faut préciser que le droit aux prestations d'assurance maladie des pensionnés n'est pas subordonné au versement de ladite cotisation qui constitue en réalité une contribution de solidarité destinée au financement de l'assurance maladie. Sa perception est donc indépendante du fait que le pensionné a droit ou non aux prestations d'assurance maladie au titre de l'avantage sur lequel elle se trouve précomptée.
