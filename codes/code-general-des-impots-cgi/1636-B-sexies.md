@@ -30,6 +30,16 @@ b) Ces dispositions s'appliquent aux communes visées aux II et III de l'article
 
 2° Le taux communal de taxe d'habitation est supérieur à la moitié du taux moyen de cette taxe constaté la même année pour l'ensemble des communes.
 
+((5 a) Dans les départements et les communes remplissant les conditions fixées au b, le taux de la taxe professionnelle peut être, en 1994, majoré de 5 p. 100 au maximum sans que cette majoration soit prise en compte pour l'application du b du I.
+
+((Cette majoration ne peut se cumuler avec celle prévue au 3 lorsque le taux de taxe professionnelle du département ou de la commune est, en 1993, égal ou supérieur à 80 p. 100 du taux moyen de cette taxe constaté la même année pour l'ensemble des collectivités de même nature ;
+
+((b) Ces dispositions s'appliquent aux départements et aux communes visés à l'article 54 de la loi de finances pour 1994 (n° 93-1352 du 30 décembre 1993) et dans lesquelles, au titre de l'année précédente :
+
+((1° Le taux de taxe professionnelle est inférieur d'au moins 10 p. 100 au taux moyen de cette taxe constaté la même année pour l'ensemble des collectivités de même nature ;
+
+((2° Le taux moyen pondéré des trois autres taxes perçues au profit de la collectivité concernée est égal ou supérieur au taux moyen pondéré constaté la même année pour ces trois taxes dans l'ensemble des collectivités de même nature.)) (Modification de la loi 93-1352).
+
 I bis. Dans les communes où le taux ou les bases de la taxe professionnelle étaient nuls l'année précédente, le conseil municipal peut fixer le taux de cette taxe. Toutefois, le rapport entre le taux ainsi voté et le taux moyen constaté pour la taxe professionnelle l'année précédente dans l'ensemble des communes ne doit pas excéder le rapport entre d'une part, le taux moyen de la taxe d'habitation et des taxes foncières, pondéré par l'importance relative des bases de ces trois taxes dans la commune pour l'année d'imposition, et, d'autre part, le taux moyen pondéré de ces trois taxes constaté l'année précédente dans l'ensemble des communes.
 
 I ter. Lorsqu'au titre de l'année précédente, le taux communal de taxe professionnelle n'excède pas de cinq points le taux moyen constaté au niveau national la même année pour cette taxe dans l'ensemble des communes et que le taux communal de taxe d'habitation est, d'une part, supérieur d'au moins dix points au taux moyen constaté au niveau national la même année pour cette taxe dans l'ensemble des communes et, d'autre part, excède une fois et demie le taux communal de taxe professionnelle, le taux communal de taxe d'habitation peut, au titre d'une seule année, être diminué de 15 p. 100 au plus sans que cette réduction soit prise en compte pour l'application des dispositions du b du 1 du I (Cette disposition n'est plus applicable à compter de 1989).
