@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951012527
+
+- Question : [SEQ951012527](seq951012527.md) — Revalorisation du plafond de ressources pour l'accès au logement social
+
+## Réponse
+
+*Logement, JO du 1995-11-30, page 2264*
+
+Réponse. - Les plafonds de ressources pour l'accès aux logements HLM ont été majorés, à compter du 11 mars 1994, de manière modulée en faveur des familles avec enfants, en particulier celles ne disposant que d'un seul revenu, et adaptés à la diversité des zones géographiques. Il était en effet équitable de rendre aux familles la possibilité d'accès aux logements HLM qui avait été progressivement réduite ces dernières années puisque l'actualisation des plafonds de ressources n'avait suivi ni l'évolution du pouvoir d'achat ni même celle de l'inflation. Cette majoration concerne les familles ayant au moins un enfant, et croît avec le nombre d'enfants. Elle est plus forte pour les familles qui ne disposent que d'un salaire. Enfin, la majoration est plus importante dans les grandes agglomérations. En outre, les plafonds de ressources sont désormais indexés le 1er janvier de chaque année en fonction de la variation annuelle de l'indice mensuel des prix à la consommation des ménages (hors tabac) publié par l'INSEE. Ainsi, à compter du 1er janvier 1995, ces plafonds ont été majorés de 1,2 p. 100 pour toutes les catégories de ménages et pour l'ensemble des zones géographiques. Cette disposition permettra le maintien en valeur des plafonds de ressources. Aujourd'hui, plus de 57 p. 100 des ménages ont des revenus inférieurs aux plafonds de ressources et répondent aux conditions réglementaires pour l'accès aux logements HLM. Compte tenu de l'importance des files d'attente et du nombre de personnes en situation de précarité, il n'est pas envisagé d'augmenter les plafonds de ressources.
