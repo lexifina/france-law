@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870606481
+
+- Question : [SEQ870606481](seq870606481.md) — Vacances scolaires et journées du maire : bilan
+
+## Réponse
+
+*Éducation, JO du 1987-07-23, page 1144*
+
+Réponse. -La journée dite du maire a été instituée lors de l'année scolaire 1977-1978. Elle succédait à quatre demi-journées de congés mobiles accordées par le chef d'établissement ou par l'I.D.E.N. Cette journée du maire est accordée par l'inspecteur d'académie, lorsque le maire en fait la demande, pour répondre à un intérêt local, notamment afin de permettre aux enfants de participer aux fêtes locales traditionnelles, fêtes dont le calendrier national ne peut tenir compte. Il est vrai que la multiplication des jours de congé, surtout dans des périodes brèves, peut perturber les études et cela est particulièrement marqué au cours du troisième trimestre. Pour cette raison, des mesures ont été prises pour faire en sorte que ce troisième trimestre ait un contenu réel. Ainsi, un certain nombre d'examens et de travaux qui se faisaient normalement à partir du mois de mai ont été repoussés à la fin du mois de juin et des recommandations ont été émises pour retarder le plus possible les procédures d'orientation. L'année scolaire 1987-1988 a été sensiblement allongée, après une large concertation avec toutes les parties intéressées, puisqu'elle comptera trente-six semaines effectives. Elle présente en outre la particularité suivante qui ne se reproduit qu'exceptionnellement les 1er novembre 1987, 1er mai et 8 mai 1988 tombent un dimanche, et 1988 est une année bissextile. L'octroi d'une deuxième journée du maire tient compte de cette particularité, et peut permettre, si les maires le jugent opportun, d'introduire à l'Ascension ou à la Pentecôte un " pont " apprécié des familles, qui ne remettra pas en cause l'équilibre de l'année scolaire.
