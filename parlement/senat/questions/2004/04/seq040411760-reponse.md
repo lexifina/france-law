@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040411760
+
+- Question : [SEQ040411760](seq040411760.md) — Situation des allocataires en matière de logement
+
+## Réponse
+
+*Logement, JO du 2005-01-13, page 117*
+
+Le seuil en deçà duquel les aides personnelles au logement ne sont pas versées a été effectivement porté de 15 euros à 24 euros. Ce seuil n'avait pas été actualisé depuis juillet 1988 : son relèvement de 9 euros, après plus de quinze ans d'absolue stabilité, a donc suivi avec beaucoup de retard l'inflation enregistrée sur cette même période. Il convient d'ajouter que ce sont les bénéficiaires des aides personnelles dont les revenus sont relativement les plus élevés qui sont concernés par cette mesure. Malgré la très forte contrainte budgétaire, les aides personnelles au logement (aide personnalisée au logement et allocation de logement) ont été revalorisées rétroactivement à compter du 1er juillet 2003. Les textes sont entrés en vigueur le 1er juin 2004 et des rappels de prestations ont été versés aux 6,1 millions de bénéficiaires. Les conditions d'actualisation ont été très proches de celles appliquées au 1er juillet 2002. Cette revalorisation représente un coût de 220 millions d'euros supplémentaires sur l'année 2004, dont 120 millions d'euros s'imputent sur le budget du logement. Il s'agit d'un effort financier considérable venant s'ajouter à un montant de prestations annuelles d'APL et d'allocations de logement qui dépasse aujourd'hui 13 milliards d'euros, dont plus de 5 milliards d'euros sont pris en charge par le budget du logement. Il est souhaitable qu'une réflexion approfondie sur les aides personnelles au logement et sur les taux d'efforts supportés par les bénéficiaires soit menée avec les partenaires du logement et notamment avec les associations de locataires et les associations familiales.
