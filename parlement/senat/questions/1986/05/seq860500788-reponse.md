@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860500788
+
+- Question : [SEQ860500788](seq860500788.md) — Portée des prescriptions d'un POS concernant la desserte des nouvelles constructions par les réseaux
+
+## Réponse
+
+*Équipement, JO du 1986-08-28, page 1220*
+
+Réponse. -Le plan d'occupation des sols (P.O.S.) rendu public est opposable à toute personne publique ou privée pour l'exécution de tous travaux, constructions, plantations, affouillements ou exhaussements des sols, pour la création de lotissements ou l'ouverture des établissements classés (article L. 123-5 du code de l'urbanisme), mais il n'a pas à imposer les modalités techniques de réalisation des réseaux, notamment du réseau d'alimentation d'énergie électrique et du réseau téléphonique, dans la mesure où ces modalités font l'objet d'une réglementation spécifique (loi du 15 juin 1906 sur les distributions d'énergie, code des postes et télécommunications pour le réseau téléphonique). En outre, dès lors que l'on ne peut apprécier la réalisation technique desdits réseaux qu'au vu des projets considérés, l'introduction dans le règlement du P.O.S. de dispositions techniques est à proscrire. La mise en souterrain des réseaux électriques et téléphoniques ne peut donc être envisagée qu'avec l'accord des services gestionnaires intéressés, dès lors qu'une telle prescription apparaît justifiée par des motifs sérieux d'urbanisme et de protection de l'environnement (préservation du caractère très ancien d'un quartier, d'un site pittoresque, etc.). Cette prescription peut résulter d'une disposition d'ensemble préalablement réfléchie et arrêtée par la commune en liaison avec le service gestionnaire intéressé, mais elle doit être modulée et ne devrait donc pas s'appliquer, en principe, à la totalité du territoire communal. En tout état de cause, il ne paraît pas souhaitable qu'elle constitue un élément du règlement du P.O.S.
