@@ -6,7 +6,11 @@ La durée du travail à temps partiel peut être fixée par semaine, par mois ou
 
 Le travail à temps partiel peut être mis en place à l'initiative du chef d'entreprise ou d'établissement, après consultation préalable du comité d'entreprise ou à défaut des délégués du personnel, s'ils existent, ou, en l'absence de représentation du personnel, après information préalable de l'inspecteur du travail.
 
-Le travail à temps partiel peut également être mis en place à la demande des salariés.
+Le travail à temps partiel peut être mis en place à l'initiative du chef d'entreprise ou à la demande des salariés.
+
+Les horaires de travail à temps partiel peuvent être pratiqués après avis du comité d'entreprise ou, à défaut, des délégués du personnel ; cet avis est transmis dans un délai de 15 jours à l'inspecteur du travail.
+
+En l'absence de représentation du personnel, les horaires de travail à temps partiel peuvent être pratiqués, sous réserve que l'inspecteur du travail en ait été préalablement informé.
 
 Le contrat de travail des salariés à temps partiel doit comporter les mentions relatives à la rémunération, aux heures complémentaires et aux garanties collectives et individuelles des droits des salariés à temps partiel, ainsi que des précisions relatives à la révision du contrat de travail. Les salariés à temps partiel bénéficient des mêmes droits que les salariés à temps plein notamment, l'égalité d'accès aux possibilités de promotion, de carrière et de formation.
 
@@ -78,7 +82,7 @@ Ces dispositions ne s'opposent pas à la conclusion d'un contrat portant sur une
 
 2. Le contrat de travail à temps partiel annualisé est établi conformément à l'article L. 212-4-3 du code du travail ; il doit notamment prévoir la définition sur l'année des périodes travaillées et non travaillées ainsi que la répartition des heures de travail effectif à l'intérieur de ces périodes.
 
-Toutefois, lorsque la nature de l'activité ne permet pas de fixer dans l'année avec précision les périodes travaillées et la répartition des heures de travail effectif au sein de ces périodes, le contrat de travail fixe les périodes à l'intérieur desquelles l'employeur pourra faire appel au salarié moyennant un délai de prévenance de (1), le salarié pouvant refuser la période de travail ou la répartition des horaires proposés dans la limite de deux fois si elle est incluse dans la durée annuelle fixée au contrat, et de quatre fois si elle constitue un dépassement de cette durée.
+Toutefois, lorsque la nature de l'activité ne permet pas de fixer dans l'année avec précision les périodes travaillées et la répartition des heures de travail effectif au sein de ces périodes, le contrat de travail fixe les périodes à l'intérieur desquelles l'employeur pourra faire appel au salarié moyennant un délai de prévenance de sept jours, le salarié pouvant refuser la période de travail ou la répartition des horaires proposés dans la limite de deux fois si elle est incluse dans la durée annuelle fixée au contrat, et de quatre fois si elle constitue un dépassement de cette durée.
 
 3. Rémunération :
 
@@ -100,9 +104,9 @@ Congés payés :
 
 Les dates de congé ne se situent pas, sauf accord dérogatoire écrit, pendant les périodes de travail définies au contrat.
 
-*La durée des congés payés est calculée à raison de 0,10 heure par heure effective de travail accompli pendant la période de référence ; cette durée ne pourra pas être inférieure à douze jours continus dans la limite des droits acquis par le salarié* (1).
+La durée des congés payés est calculée conformément à l'article L. 223-2 du code du travail ; cette durée ne pourra pas être inférieure à douze jours continus dans la limite des droits acquis par le salarié.
 
-L'indemnité de congés payés est calculée suivant la règle du 1/10 de la rémunération perçue au cours de la période de référence.
+L'indemnité de congés payés est calculée conformément à l'article L. 223-11 du code du travail.
 
 Jours fériés :
 
@@ -127,9 +131,3 @@ Toutefois, l'utilisation de crédit d'heures par les salariés détenant un mand
 IV. - COMMISSION DE CONCILIATION
 
 La commission de conciliation prévue à l'article 51 de la convention nationale pourra être saisie des difficultés d'application du présent article.
-
-NOTA : (1) Dispositions exclues de l'extension par arrêté du 24 février 1997.
-
-NOTA :
-
-NOTA : (1) Dispositions exclues de l'extension par arrêté du 24 février 1997.
