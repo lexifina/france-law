@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040411842
+
+- Question : [SEQ040411842](seq040411842.md) — Crise du textile francilien
+
+## Réponse
+
+*Industrie, JO du 2004-07-29, page 1730*
+
+Dans les Hauts-de-Seine, le secteur de la maille connaît de graves difficultés du fait de la très forte concurrence des pays asiatiques. Dans ce département où sont recensées une centaine d'entreprises, la situation se révèle particulièrement préoccupante puisqu'on estime à un millier le nombre d'emplois menacés, dont la moitié est située sur la seule commune de Clamart. Dans ce contexte, une réunion s'est tenue à la préfecture de Nanterre début juin 2004 afin d'étudier les pistes d'actions à caractère individuel ou collectif susceptibles d'être mises en oeuvre au profit des PME concernées avec le concours des différents acteurs du développement économique régional et local. En effet, afin de pouvoir se démarquer durablement des produits des pays à faibles coûts salariaux, il est essentiel pour ces entreprises d'accroître la valeur matérielle ou immatérielle de leurs productions et de différencier les produits et services offerts, ce qui pourrait inciter les centrales d'achat à modifier en partie leur politique d'approvisionnement. Lors de cette réunion, un accompagnement a été proposé à ces entreprises grâce à des mesures à caractère collectif les incitant à engager des démarches de labellisation, de diversification, de veille technologique, d'évolution commerciale et de valorisation de savoir-faire. Il leur a été également suggéré de mettre en place une structure d'animation et de défense du secteur composée d'une équipe permanente. Les services compétents de l'Etat, la région, le département et des collectivités locales suivent ce dossier avec la plus grande attention afin de favoriser la mise en place, le plus rapidement possible, de ces mesures visant à dynamiser un secteur économique très important pour la région Ile-de-France.
