@@ -8,7 +8,7 @@ Les bénéfices affectés à la provision à la clôture d'un exercice doivent �
 
 Si le remploi est effectué dans le délai de cinq ans ou d'un an susvisé, les sommes correspondantes peuvent être transférées à un compte de réserve ordinaire assimilé aux réserves constituées par prélèvements sur les soldes bénéficiaires soumis à l'impôt.
 
-Dans le cas contraire, les fonds non utilisés sont rapportés au bénéfice imposable de l'exercice au cours duquel a expiré le délai de cinq ans ou d'un an ci-dessus défini. L'impôt correspondant à la réintégration des sommes non employées dans le délai d'un an est majoré de l'intérêt de retard prévu à l'article 1728.
+Dans le cas contraire, les fonds non utilisés sont rapportés au bénéfice imposable de l'exercice au cours duquel a expiré le délai de cinq ans ou d'un an ci-dessus défini. L'impôt correspondant à la réintégration des sommes non employées dans le délai d'un an est majoré de l'intérêt de retard prévu à l'article 1729.
 
 1 bis a. Les immobilisations, participations financières et créances acquises en emploi de la provision au cours d'exercices clos avant le 31 décembre 1980 font l'objet des amortissements et provisions habituels.
 
