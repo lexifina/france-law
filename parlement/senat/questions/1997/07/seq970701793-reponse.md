@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701793
+
+- Question : [SEQ970701793](seq970701793.md) — Conséquences du développement du réseau Internet
+
+## Réponse
+
+*Premier ministre, JO du 1998-04-30, page 1376*
+
+Réponse. - L'honorable parlementaire attire l'attention de M. le Premier ministre sur les risques nouveaux que pose le développement du réseau Internet. La loi de 1978 constitue le cadre essentiel de la protection des données personnelles et de la vie privée en matière d'utilisation des technologies de l'information. Elle doit faire l'objet d'une évolution, dans le cadre de la transposition de la directive communautaire de 1995 sur les données personnelles. Cette évolution vise notamment à permettre d'adapter notre cadre législatif et réglementaire aux nouveaux développements technologiques dont Internet constitue l'un des aspects les plus marquants. Le rapport remis à M. le Premier ministre par M. Guy Braibant offre de nombreuses pistes en ce sens, qui visent à concilier une évolution devenue indispensable et la préservation du haut degré de protection qui fait la qualité de notre système de protection des données personnelles. Le Gouvernement est en effet convaincu qu'une régulation efficace et protectrice des traitements dont font l'objet les données personnelles est l'une des conditions nécessaires à l'entrée de la France dans la société de l'information. En ce qui concerne l'utilisation de la cryptologie, le cadre réglementaire français vient de faire l'objet d'une profonde transformation, annoncée par le programme d'action gouvernemental pour la société de l'information du 16 janvier dernier. Les textes réglementaires qui viennent d'être adoptés visent ainsi à ouvrir largement les possibilités d'utilisation de la cryptologie, qui constitue l'un des outils privilégiés pour assurer la protection des données tant personnelles que professionnelles.
