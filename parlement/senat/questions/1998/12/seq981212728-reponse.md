@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981212728
+
+- Question : [SEQ981212728](seq981212728.md) — Français de l'étranger : élections européennes
+
+## Réponse
+
+*Affaires européennes, JO du 1999-01-28, page 267*
+
+Réponse. - L'honorable parlementaire a bien voulu attirer l'attention du ministre délégué chargé des affaires européennes sur les moyens mis en uvre par le Gouvernement afin d'inciter les Français résidant hors de France à s'inscrire sur les listes électorales, en vue des élections européennes de juin prochain. Dès le début du mois de septembre, des instructions ont été adressées à nos postes diplomatiques et consulaires. Un effort d'information et de sensibilisation, en particulier au profit de nos compatriotes non inscrits sur les listes électorales, a été entrepris au moyen de courriers adressés aux délégués au Conseil supérieur des Français de l'étranger (CSFE), aux associations françaises, mais aussi à partir des sites Internet de nos postes, des bulletins d'informations consulaires, et par affichage dans tous les services de l'Etat susceptibles de recevoir des Français, notamment les établissements relevant de l'Agence pour l'enseignement du français à l'étranger (AEFE) et les agences consulaires. Une procédure spécifique a été mise en uvre en faveur des jeunes Françaises et Français qui atteignent l'âge de dix huit ans : une lettre les invitant à s'inscrire leur a été adressée individuellement. S'agissant de nos compatriotes résidant dans un pays membre de l'Union européenne, il leur a été rappelé que, conformément à la directive 93/109/CE du 6 décembre 1993, transposée dans notre droit par la loi nº 94-104 du 5 février 1994, ils avaient, concurremment au vote dans les postes consulaires français, la possibilité de participer à l'élection des représentants au Parlement européen dans leur pays de résidence, voire de s'y porter candidat.
