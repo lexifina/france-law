@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910615780
+
+- Question : [SEQ910615780](seq910615780.md) — Retraite des réfractaires au service du travail obligatoire et des maquisards
+
+## Réponse
+
+*Anciens combattants, JO du 1991-08-08, page 1697*
+
+Réponse. - Les réfractaires au service du travail obligatoire souhaitent que leurs droits soient assimilés à ceux des anciens combattants. Malgré tout l'intérêt de ce voeu il ne peut être retenu car la règle générale pour obtenir la carte du combattant (et, par voie de conséquence, les avantages attachés à la possession de cette carte, notamment la retraite du combattant et la retraite mutualiste), est d'avoir appartenu à une unité combattante pendant trois mois au moins. Certes, une procédure individuelle d'attribution de cette carte peut être appliquée au titre de mérites exceptionnels acquis au feu, dans le cas où la condition de durée d'appartenance à une unité combattante n'est pas remplie. Cependant, quels que soient les risques volontairement pris par les réfractaires, ils ne peuvent être assimilés à des services militaires de guerre. Ils ne répondent donc pas aux critères de reconnaissance de la qualité de combattant précités. En revanche, rien ne s'oppose à ce qu'un réfractaire qui a rejoint les forces françaises ou alliées ou celles de la Résistance bénéficie, à ce titre, de la législation sur la carte du combattant (notamment au titre de la Résistance) ou la carte de combattant volontaire de la Résistance. En tout état de cause, il convient de rappeler que l'attitude courageuse des intéressés a été reconnue par la création d'un statut particulier (loi du 22 août 1950) qui permet la réparation des préjudices physiques qu'ils ont subis du fait du réfractariat, selon les dispositions du code des pensions militaires d'invalidité prévues pour les victimes civiles de la guerre. Par ailleurs, la période de réfractariat est prise en compte pour sa durée dans le calcul des retraites (secteur public et privé).
