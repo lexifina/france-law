@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970600078
+
+- Question : [SEQ970600078](seq970600078.md) — Prestation spécifique dépendance pour les personnes âgées
+
+## Réponse
+
+*Emploi, JO du 1997-11-13, page 3156*
+
+Réponse. - La ministre de l'emploi et de la solidarité a pris note des préoccupation de l'honorable parlementaire relatives à la mise en oeuvre de la loi no 97-60 du 24 janvier 1997 instituant la prestation spécifique dépendance (PSD) et aux conséquences de ce nouveau dispositif sur le rôle des infirmiers libéraux. Cette loi n'a pas pour effet de modifier le décret no 81-448 du 8 mai 1981 relatif aux conditions d'autorisation et de prise en charge des services de soins à domicile (SSAD) pour personnes âgées dont les principes restent par conséquent inchangés. Ainsi, en particulier, le bénéfice de la PSD n'implique pas que les soins de santé soient délivrés par un SSAD dont l'intervention reste soumise à une prescription médicale et, bien entendu, conditionnée par l'offre de service disponible. De plus, elle ne remet pas en cause l'article 5 de ce décret en application duquel les services de soins à domicile peuvent passer convention avec des professionnels de statut libéral. Les infirmiers libéraux ne sont alors pas salariés du service de soins, mais sont rémunérés à l'acte par le SSAD. La loi ne modifie donc pas les modalités de leur intervention auprès des personnes âgées. Ainsi, la majorité des personnes susceptibles de bénéficier de la PSD, très dépendantes, ont besoin de recourir à des soins infirmiers pris en charge par l'assurance maladie et dispensés soit par des infirmiers libéraux, soit par un service de soins infirmiers à domicile. En outre, pour l'aide aux actes essentiels de la vie ou pour la surveillance nécessaire, des heures d'aide à domicile sont financées au titre de la PSD.
