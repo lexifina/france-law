@@ -22,38 +22,18 @@ Francs
 
 |
 
-Officiers
+Militaires de tous grades
 
 |
 
-4.320
-
-|
-
-Sous-officiers
-
-|
-
-3.600
-
-|
-
-Caporaux-chefs
-
-|
-
-2.880
-
-|
-
-Caporaux et soldats
-
-|
-
-2.160
+10.800
 
 |
 
 Nota. — L'indemnité se décompte sur la base de trente jours par mois.
 
 |
+
+NOTA :
+
+Conformément à l'article 4 du décret n° 56-1431 du 30 décembre 1956, ces dispositions auront effet à compter du 1er janvier 1956.

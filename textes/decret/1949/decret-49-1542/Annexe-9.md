@@ -26,23 +26,15 @@ Officiers
 
 |
 
-8.640
+16.200
 
 |
 
-Sous-officiers
+Sous-officiers et caporaux-chefs
 
 |
 
-5.040
-
-|
-
-Caporaux-chefs
-
-|
-
-3.600
+10.200
 
 |
 
@@ -50,10 +42,14 @@ Caporaux et soldats
 
 |
 
-2.880
+7.200
 
 |
 
 Nota. — L'indemnité se décompte sur la base de trente jours par mois.
 
 |
+
+NOTA :
+
+Conformément à l'article 4 du décret n° 56-1431 du 30 décembre 1956, ces dispositions auront effet à compter du 1er janvier 1956.
