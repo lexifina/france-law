@@ -23,3 +23,5 @@ Lorsqu'il n'existe pas de porte, l'encadrement des sorties doit être matériali
 Dans tous les cas, les issues doivent pouvoir s'ouvrir par une manœuvre simple et facile.
 
 Les sorties doivent être signalées et visibles de jour, comme de nuit, de l'intérieur comme de l'extérieur.
+
+§ 3. Si des sorties d'un établissement sont rendues inutilisables du fait d'une activité particulière elles ne doivent pas être visibles du public. Cette disposition ne doit pas cependant avoir pour effet de diminuer le nombre et la largeur des dégagements correspondant à l'effectif du public admis dans l'établissement pour cette activité particulière.

@@ -2,7 +2,7 @@
 
 Implantation
 
-§ 1. Les établissements doivent être implantés sur des aires ne présentant pas de risque d'inflammation rapide.
+§ 1. Les établissements doivent être implantés sur des aires ne présentant pas de risque d'inflammation rapide et être éloignés des voisinages dangereux.
 
 Les établissements recevant plus de 700 personnes ne doivent pas se trouver distants de plus de 200 mètres d'un point d'eau assurant un débit minimal de 60 mètres cubes/heure pendant une heure au moins. Si ces conditions ne peuvent pas être remplies, un service de sécurité incendie disposant de moyens hydrauliques suffisants doit être mis en place.
 
