@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040311215
+
+- Question : [SEQ040311215](seq040311215.md) — Application de l'interdiction de fumer dans les lieux publics
+
+## Réponse
+
+*Santé, JO du 2004-06-03, page 1217*
+
+Une prévention plus efficace du tabagisme passif est l'une des priorités majeures de l'action du ministre de la santé, de la famille et des personnes handicapées contre le tabac. Elle passe, en premier lieu, par l'amélioration du respect de la réglementation en vigueur. C'est à cette fin que le Premier ministre a confié à la mission interministérielle de lutte contre la drogue et la toxicomanie (MILDT) le soin de mener une concertation interministérielle afin de permettre un respect effectif des dispositions de la loi Evin et la mobilisation des différents services chargés de son contrôle sur le terrain avec, le cas échéant, application des sanctions prévues à l'article R. 3512-1 du code de la santé publique (amende prévue pour les contraventions de 3e classe, infligée aux personnes qui fument en dehors des emplacements mis à leur disposition) et à l'article R. 3512-5 (amende prévue pour les infractions de 5e classe, infligée aux responsables des lieux collectifs qui ne respectent pas la réglementation, notamment en matière de ventilation et de signalisation). Dans le cas précis d'établissements de restauration, les services dépendant de ministère de la santé, de la famille et des personnes handicapées ont reçu instruction d'engager un plan d'inspection pluri-annuel. Le projet de loi relatif à la politique de santé publique, prochainement en seconde lecture au Parlement, prévoit d'ailleurs la compétence juridique de certains corps relevant du ministère de la santé, de la famille et des personnes handicapées. Les établissements qui ne seraient pas en conformité avec la réglementation pourraient, dès lors, être verbalisés et renvoyés devant le tribunal de police en vue de sanctions.
