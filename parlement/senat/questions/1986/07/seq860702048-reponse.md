@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860702048
+
+- Question : [SEQ860702048](seq860702048.md) — Inquiétude des professeurs d'éducation physique et sportive
+
+## Réponse
+
+*Éducation, JO du 1986-09-25, page 1350*
+
+Réponse. -Pour appréhender avec équité la situation de l'éducation physique et sportive en 1986, il convient de rappeler que, dès son rattachement au ministère de l'éducation nationale, la discipline a bénéficié d'une priorité qui a permis d'affecter dans les établissements du second degré un nombre important d'emplois nouveaux d'enseignants d'éducation physique et sportive. Le nombre de postes mis chaque année au mouvement des enseignants d'éducation physique et sportive est fonction à la fois des sorties du corps concerné et des emplois créés. Pour ce qui concerne ce dernier point, une procédure nouvelle a été appliquée durant l'année 1986, répondant à la politique d'intégration de la discipline dans l'ensemble du système éducatif : il n'a pas été défini au niveau national de contingent d'emplois d'enseignant d'éducation physique et sportive, les besoins de celle-ci devant être pris en compte, comme pour les autres enseignements, au titre de l'ensemble des postes délégués par la direction générale des enseignements scolaires à chaque académie. Par ailleurs, les moyens d'enseignement seront abondés par le service en responsabilité qu'effectueront les 270 professeurs stagiaires recrutés au concours 1986. Une étude prospective récemment conduite au sein du ministère de l'éducation nationale a fait apparaître qu'en raison, d'une part, de l'évolution quantitative de la population scolaire et, d'autre part, des perspectives de recrutement des enseignants d'éducation physique et sportive, une situation d'équilibre entre les besoins et le potentiel d'enseignement disponible devrait être atteinte en deux ou trois exercices budgétaires.
