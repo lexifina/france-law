@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930124324
+
+- Question : [SEQ930124324](seq930124324.md) — Aide à domicile : exonération des charges sociales et fiscales
+
+## Réponse
+
+*Affaires sociales, JO du 1993-03-04, page 369*
+
+Réponse. - La loi n° 93-121 du 27 janvier 1993 portant diverses mesures d'ordre social prévoit, dans son article 21, qu'à compter du 1er juillet prochain " les rémunérations des aides à domicile employées par les associations agréées au titre de l'article L. 129-1 du code du travail, les organismes habilités au titre de l'aide sociale ou ayant passé convention avec un organisme de sécurité sociale bénéficient d'une exonération de 30 p. 100 des cotisations patronales d'assurances sociales, d'accidents du travail et d'allocations familiales ". Cette exonération proposée par le Gouvernement, en plein accord avec le Parlement, est partielle, car elle tient compte d'une part, que les associations d'aide à domicile sont d'ores et déjà financées en quasi-totalité par des fonds publics (par l'aide sociale départementale et par les différents régimes d'assurance vieillesse) et d'autre part des conséquences financières très importantes pour le régime général de l'extension pure et simple de l'exonération complète des cotisations dans un contexte financier particulièrement délicat. Cette mesure est de nature à alléger significativement les coûts d'intervention des associations concernées. Par ailleurs, même si cette disposition n'est pas cumulable avec la précédente, ces associations peuvent, si elles en remplissent les conditions, bénéficier de l'abattement de cotisations de sécurité sociale de 50 p. 100 institué par la loi n° 92-1446 du 31 décembre 1992 pour développer le temps partiel. Une circulaire du ministère des affaires sociales et de l'intégration précisera les modalités d'application de ces mesures.
