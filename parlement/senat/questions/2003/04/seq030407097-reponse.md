@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030407097
+
+- Question : [SEQ030407097](seq030407097.md) — Congé de fin d'activité
+
+## Réponse
+
+*Fonction publique, JO du 2003-07-31, page 2474*
+
+Transposition de l'accord UNEDIC qui a créé l'allocation de remplacement pour l'emploi (ARPE), le congé de fin d'activité est organisé par la loi n° 96-1093 du 16 décembre 1996 modifiée relative à l'emploi dans la fonction publique et à diverses mesures statutaires. Le Gouvernement a décidé de placer ce système de préretraite en extinction à compter du 1er janvier 2003, comme cela a été réalisé pour l'allocation de remplacement pour l'emploi (ARPE), dans le secteur privé. La nécessité d'alléger les besoins de financement des régimes de retraite suppose, en effet, d'inciter les agents à rester plus longtemps en activité. Toutefois, le Gouvernement a souhaité que cette extinction s'applique de façon progressive pour l'ensemble des agents qui réunissaient une partie des conditions et se trouvaient ainsi dans le champ potentiel du dispositif avant la date d'entrée en vigueur de la loi. Ainsi, les agents nés entre le 1er janvier 1943 et le 31 décembre 1946 qui, au 31 décembre 2002, bien qu'âgés de cinquante-six ans au moins, n'auraient pas réuni l'une ou l'autre des conditions de quarante ans de cotisations et de quinze ans de services publics effectifs nécessaires pour partir peuvent bénéficier d'un délai au plus égal à quatre années pour réunir ces conditions. Lorsque celles-ci seront réunies, ils pourront partir à tout moment avant d'atteindre l'âge de soixante ans et ce, jusqu'au 31 décembre 2006. Dans ces conditions, il n'est pas nécessaire d'adopter un nouveau texte pour l'année 2004 ; ces mesures resteront applicables sur toute la période pour les agents nés entre le 1er janvier 1943 et le 31 décembre 1946 qui justifient de quarante années de cotisations.
