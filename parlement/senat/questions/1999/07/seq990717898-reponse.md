@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990717898
+
+- Question : [SEQ990717898](seq990717898.md) — Mission du fonds d'accompagnement social pour la modernisation des établissements de santé
+
+## Réponse
+
+*Emploi, JO du 1999-10-28, page 3561*
+
+Réponse. - L'article 25 de la loi nº 97-1164 du 19 décembre 1997 de financement de la sécurité sociale pour 1998 a créé, pour une durée de cinq ans à compter du 1er janvier 1998, un fonds d'accompagnement social pour la modernisation - appelé FASMO - des établissements de santé mentionnés au premier alinéa de l'article L. 174-1 du code de la sécurité sociale, à savoir " les établissements publics de santé ", " les établissements de santé privés à but non lucratif admis à participer à l'exécution du service public hospitalier " ainsi que " les établissements de santé à but non lucratif ayant opté, dans des conditions fixées par voie réglementaire, pour >le> mode de financement >...> d'une dotation globale annuelle ". Par ailleurs, cet article a prévu qu'un décret en Conseil d'Etat fixe les modalités d'intervention du fonds. Ainsi, le décret nº 98-1221 du 29 décembre 1998 relatif aux missions du fonds d'accompagnement social pour la modernisation des établissements de santé détermine les modalités d'intervention du FASMO au bénéfice des seuls établissements publics. La question de l'extension du FASMO aux établissements de santé privés, eu égard à la nécessité d'adapter les mesures financées par ce fonds aux spécificités de leurs réorganisations, et compte tenu des dispositifs de droit commun auxquels ils peuvent prétendre - en particulier, les mesures d'accompagnement social financées par le Fonds national de l'emploi - est actuellement à l'étude. A cet égard, il est indiqué à l'honorable parlementaire que les différentes fédérations d'employeurs concernées ont été sollicitées afin de recueillir leur propositions ou suggestions éventuelles.
