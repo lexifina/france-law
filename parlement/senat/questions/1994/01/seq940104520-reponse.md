@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940104520
+
+- Question : [SEQ940104520](seq940104520.md) — Nouvelle tarification France Télécom : conséquences pour le département de l'Aude
+
+## Réponse
+
+*Industrie, JO du 1994-04-21, page 951*
+
+Réponse. - Les mesures de restructuration tarifaire, conformes aux décisions du comité interministériel d'aménagement du territoire qui s'est tenu à Mende le 12 juillet 1993, permettent de réduire l'" effet distance " et contribuent ainsi à l'objectif d'aménagement du territoire. Elles comportent, certes, un ajustement à la hausse du prix des communications locales et de l'abonnement, mais leur effet global sera positif pour les abonnés grâce à une baisse sensible des communications longue distance et à la mise en place des zones locales élargies. Bien que la zone locale de Carcassonne soit passée de 46 000 abonnés à 183 500, il est exact que la tarification des communications échangées entre Carcassonne et Narbonne reste inchangée. En effet, la réforme engagée met en place des zones locales élargies sans toucher, sinon à la marge, au découpage en circonscriptions qui date, pour l'essentiel, de 1956. Toutefois, il a été demandé à France Télécom de mettre en place, pour les abonnés qui n'atteignent pas leur circonscription préfectorale au tarif le plus bas, un système complémentaire leur permettant de joindre au tarif local l'ensemble des services publics des échelons déconcentrés de l'Etat et des collectivités territoriales de la République, situés au chef-lieu de département. Un bilan détaillé des effets de la réforme sera entrepris dès les prochains mois. Il servira à préparer les orientations du futur contrat de plan signé entre l'Etat et France Télécom, en particulier en ce qui concerne la tarification des communications de voisinage et l'évolution de la géographie tarifaire demandée par l'honorable parlementaire.
