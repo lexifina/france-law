@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950310179
+
+- Question : [SEQ950310179](seq950310179.md) — Enseignants en poste à l'étranger
+
+## Réponse
+
+*Affaires étrangères, JO du 1995-07-06, page 1343*
+
+Réponse. - Contrairement au décret de 1949 qu'il abroge, le décret no 94-874 du 7 octobre 1994 fixant les dispositions communes applicables aux stagiaires de l'Etat et de ses établissements publics autorise le détachement des intéressés, en précisant toutefois que le fonctionnaire stagiaire " ne peut être détaché que pour raison de service " (art. 6). Les difficultés d'application de ce texte aux fonctionnaires du ministère de l'éducation nationale détachés auprès de l'agence pour l'enseignement français à l'étranger lauréats des concours de recrutement tiennent à la rémunération des agents pendant la période du stage. Leur cas n'avait en effet pas été prévu par le décret no 90-469 du 31 mai 1990 relatif à la situation administrative et financière des personnels des établissements d'enseignement à l'étranger, qui garantit le traitement indiciaire que les agents détiennent dans leur corps d'origine. Cette disposition ne semble pas compatible avec le statut particulier des professeurs agrégés ou certifiés qui sont, dès le début de leur stage, reclassés et rémunérés dans leur nouveau corps. Des solutions sont actuellement à l'étude en liaison avec la direction du budget et les ministères de l'éducation nationale et de la fonction publique, afin de permettre aux lauréats des concours d'effectuer leur stage dans les établissements d'enseignement français à l'étranger, à compter de la rentrée de septembre 1995, dans les conditions fixées par la note de service no 95-089 du 7 avril 1995 du ministère de l'éducation nationale. En tout état de cause, les intéressés ne pourront être détachés en qualité de stagiaires que sous réserve de la disponibilité de l'emploi budgétaire correspondant.
