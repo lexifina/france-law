@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020801968
+
+- Question : [SEQ020801968](seq020801968.md) — Délai d'obtention d'une carte d'identité
+
+## Réponse
+
+*Intérieur, JO du 2002-10-17, page 2393*
+
+Les délais de délivrance des cartes nationales d'identité sont notamment liés au volume de demandes déposées dans les services préfectoraux. Ils peuvent ainsi varier dans l'espace et dans le temps, les préfectures faisant face à une augmentation considérable des demandes à l'approche des vacances, dès lors que la carte nationale d'identité, dont la délivrance est gratuite, est acceptée comme document de circulation transfrontière dans une vingtaine de pays. Des agents vacataires peuvent être affectés dans ces services pour ces périodes de surcharge. Toutefois, cette mesure ne peut qu'être ponctuelle. En outre, il convient de garantir la sécurité et la fiabilité juridique de ce titre d'identité, et ne pas remettre en cause les contrôles que doivent effectuer les services préfectoraux auxquels incombe la responsabilité de délivrer à bon escient ce document. C'est pourquoi il ne paraît pas opportun de retenir la proposition de l'honorable parlementaire visant à garantir que le délai de délivrance de la carte nationale d'identité ne dépasse jamais quinze jours. Enfin, à compter du 1er octobre 2002, un service facultatif et gratuit pour l'usager sera mis en place par le ministère de l'intérieur, de la sécurité intérieure et des libertés locales afin d'améliorer la qualité du service rendu à l'usager dans le cadre de la délivrance des cartes nationales d'identité : en effet, lorsque sa carte nationale d'identité a été fabriquée et au plus tard le lendemain de sa remise par voie postale à la mairie où il a déposé sa demande, l'usager recevra un télémessage (ou " SMS ") sur son téléphone mobile l'informant qu'il peut venir retirer sa carte nationale d'identité à la mairie.
