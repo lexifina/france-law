@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860701985
+
+- Question : [SEQ860701985](seq860701985.md) — Résultats du brevet des collèges
+
+## Réponse
+
+*Éducation, JO du 1986-10-09, page 1421*
+
+Réponse. -Le rétablissement d'un examen sur trois disciplines pour les élèves des classes de troisième a pu déconcerter les candidats mal préparés à ce type d'exercice : le diplôme était en effet, depuis 1981, délivré aux élèves de ces classes sur la seule base des résultats de l'année scolaire. L'exigence de la moyenne à ces trois épreuves pour l'admission s'est révélé également un obstacle supplémentaire à la réussite des candidats. Le diplôme a été conçu comme un moyen de vérifier que les élèves ont atteint le niveau de connaissances générales exigé en fin de classe de troisième. Conformément à la réglementation, les sujets des épreuves ont porté, dans l'académie de Versailles, comme dans les autres académies, sur les programmes en vigueur dans les classes de troisième des collèges ; une partie des épreuves tenant cependant compte de la spécificité des programmes des classes de troisième préparatoire. En France métropolitaine, 764 546 candidats se sont effectivement présentés à l'examen et 378 711 ont obtenu le brevet, soit 49,5 p. 100 des candidats présents. Le niveau relativement faible du taux d'admission - moins de la moitié des candidats - est très variable selon le type de candidats. Il faut en effet distinguer le cas des élèves de troisième de collège, pour lesquels le taux de succès est de 58,8 p. 100 des autres catégories de candidats où le taux de succès est très bas. Les tableaux récapitulatifs des résultats par catégorie de candidats et par département, déjà disponibles, seront adressés à Mme Beaudeau, sous pli séparé, leur volume excluant une publication dans le cadre de cette réponse.
