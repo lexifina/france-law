@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950209994
+
+- Question : [SEQ950209994](seq950209994.md) — Dispositif d'assujettissement des sportifs au régime de la sécurité sociale
+
+## Réponse
+
+*Jeunesse et sports, JO du 1995-05-18, page 1162*
+
+Réponse. - Le nouveau dispositif de calcul des cotisations de sécurité sociale créé par l'arrêté du 27 juillet et la circulaire du 28 juillet 1994 relatifs à la situation des sportifs au regard de la sécurité sociale a donné lieu à une importante consultation du mouvement sportif. Il tend à adapter le régime de sécurité sociale applicable aux sommes perçues par les sportifs tant à la réalité et à la diversité des situations rencontrées qu'aux contraintes particulières du milieu associatif. L'obligation faite aux clubs sportifs de déclarer ces sommes n'est pas nouvelle. Elle ne résulte pas de ce nouveau dispositif mais du droit commun, c'est-à-dire de l'article L. 242-1 du code de la sécurité sociale. Toutefois, le calcul des cotisations dues par les clubs sportifs tend à être simplifié : il se fait sur la base d'une assiette forfaitaire et le montant des cotisations varie en fonction du montant des sommes ainsi allouées mensuellement aux sportifs. L'entrée en vigueur de ces textes a été accompagnée de la diffusion par le ministère de la jeunesse et des sports et par le ministère des affaires sociales, de la santé et de la ville d'une plaquette présentant les grandes lignes de ce dispositif auprès de quelques 300 000 associations sportives. Cette information est actuellement complétée par une série de questions-réponses en cours de diffusion à ces associations par le canal des URSSAF. S'agissant d'un dispositif expérimental qui ne concerne que les personnes physiques pour des emplois de proximité et de services, un procédé tel que celui du chèque service ne peut être actuellement transposable aux associations sportives.
