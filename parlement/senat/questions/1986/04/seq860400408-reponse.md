@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860400408
+
+- Question : [SEQ860400408](seq860400408.md) — Titularisation des personnels des catégories C et D des collectivités locales
+
+## Réponse
+
+*Intérieur, JO du 1986-06-26, page 897*
+
+Réponse. -L'article 2 du décret n° 86-41 du 9 janvier 1986 relatif à la titularisation des agents des collectivités territoriales des catégories C et D dispose que la titularisation dans les corps ou emplois des catégories C et D des agents ayant une ancienneté inférieure à sept ans pour la catégorie C et à cinq ans pour la catégorie D est subordonnée à l'inscription des candidats sur une liste d'aptitude établie par l'autorité territoriale en fonction de leur valeur professionnelle, après avis de la commission administrative paritaire compétente. Pour les agents non titulaires comptant au moins sept ans de service pour la catégorie C et cinq ans pour la catégorie D, leur accès aux corps ou emplois de titulaires correspondants s'effectue par intégration directe. Ces dispositions ne sont pas contraires à celles fixées par le législateur puisque l'article 128 de la loi n° 84-53 du 26 janvier 1984 prévoit expressément que l'intégration directe est seule retenue pour l'accès aux corps ou emplois de catégories C et D des agents non titulaires comptant une ancienneté de service au moins égale à sept ans pour la catégorie C et à cinq ans pour la catégorie D dans des fonctions d'un niveau équivalent à celui des fonctions exercées par les membres du corps ou emploi d'accueil. Il faut donc distinguer l'ancienneté qui sert, en application de l'article 128 de la loi du 26 janvier 1984, à déterminer les modalités de titularisation (intégration directe ou liste d'aptitude pour les agents des catégories C et D) de celle exigée par l'article 126 de la loi précitée au titre des conditions à remplir pour pouvoir faire acte de candidature à la titularisation.
