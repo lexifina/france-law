@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920822621
+
+- Question : [SEQ920822621](seq920822621.md) — Harmonisation des droits d'accise relatifs aux boissons contenant de l'alcool
+
+## Réponse
+
+*Budget, JO du 1993-03-25, page 517*
+
+Réponse. - L'article 18 de la directive n° 92-83 du 19 octobre 1992 pose le principe d'un taux d'accise unique pour les produits intermédiaires. Toutefois, le même article offre la possibilité aux Etats membres d'instituer un taux réduit pour les produits dont le titre alcoométrique n'excède pas 15 p. 100 volume et pour les vins doux naturels répondant à la définition donnée par l'article 13 du règlement n° 4252-88 du conseil relatif à l'élaboration et à la commercialisation des vins de liqueurs produits dans la Communauté. La France a choisi de mettre en oeuvre les dispositions de l'article 18 de manière telle que les niveaux de taxation jusqu'à présent appliqués soient globalement maintenus. A cet effet, l'article 32 de la loi de finances rectificative pour 1992 prévoit l'application d'un taux par hectolitre de produit de 300 F pour les vins doux naturels et d'un taux de 1 200 F pour les autres produits intermédiaires. En revanche, aucun taux réduit n'a été institué pour les produits dont le titre alcoométrique n'excède pas 15 p. 100 volume. Le taux de 1 200 F par hectolitre de produit fini qui s'applique au pineau des Charentes a été calculé par référence à une taxation moyenne qui tient compte du passage d'une taxation au degré à une taxation en volume. Il est, dans la plupart des cas, sensiblement égal à celui qui résulte de l'ancienne taxation. Il maintient à l'identique l'écart de taxation qui existait avec la catégorie des vins doux naturels. Cette accise ne peut, en conséquence, être considérée comme pénalisante pour les producteurs de pineau des Charentes.
