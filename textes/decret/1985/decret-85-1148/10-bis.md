@@ -18,15 +18,15 @@ NOMBRE D'ENFANTS À CHARGE
 
 ÉLÉMENT
 
-fixe annuel
+|
 
-(en francs)
+Fixe mensuel
+
+(en euros)
 
 |
 
-ÉLÉMENT
-
-proportionnel
+Proportionnel
 
 (en %)
 
@@ -36,9 +36,11 @@ Un enfant
 
 |
 
-180
+2,29
 
 |
+
+-
 
 |
 
@@ -46,7 +48,7 @@ Deux enfants
 
 |
 
-840
+10,67
 
 |
 
@@ -58,7 +60,7 @@ Trois enfants
 
 |
 
-1 200
+15,24
 
 |
 
@@ -66,11 +68,11 @@ Trois enfants
 
 |
 
-Par enfant en sus du troisième
+Par enfant au-delà du troisième
 
 |
 
-360
+4,57
 
 |
 
