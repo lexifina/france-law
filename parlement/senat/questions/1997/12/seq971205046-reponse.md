@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971205046
+
+- Question : [SEQ971205046](seq971205046.md) — Contrôle des caisses de la mutualité sociale agricole
+
+## Réponse
+
+*Agriculture, JO du 1998-10-29, page 3438*
+
+Réponse. - Les caisses de mutualité sociale agricole chargées, au sens de l'article 1246 du code rural, du contrôle de l'application de la législation sociale applicable aux non-salariés et aux salariés agricoles disposent d'agents de contrôle assermentés et agréés placés sous l'autorité des directeurs des organismes. La convention d'objectifs et de gestion conclue le 30 juillet 1997 entre l'Etat et la CCMSA a mis l'accent sur la nécessité de la mise en place ou du renforcement du service de contrôle spécialisé dans les domaines de l'assujettissement aux régimes sociaux, de la vérification de l'assiette des cotisations sociales sur salaires et sur les revenus professionnels des non-salariés, ainsi que de la lutte contre le travail dissimulé. Un premier bilan d'étape pourra être dressé en 1999 à la suite des comptes rendus des caisses prévus par la convention d'objectifs et de gestion dans les deux derniers domaines cités (vérification d'assiette de cotisations et lutte contre le travail dissimulé). Si l'organisation des services de contrôle relève de l'autorité des directeurs de caisses de mutualité sociale agricole, la formation initiale et continue des contrôleurs agréés et assermentés est organisée au plan national par une association spécialisée, l'ASFOSAR. Cette association commune aux deux branches MSA et AMA, jusqu'en début d'année 1998, est en voie de réorganisation au sein de la MSA uniquement. Les conditions de formation des contrôleurs pourront être réexaminées et renforcées dès que la nouvelle structure de formation propre aux caisses de mutualité sociale agricole aura été mise en place.
