@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980206461
+
+- Question : [SEQ980206461](seq980206461.md) — Charte "Solidarité Eau"
+
+## Réponse
+
+*Logement, JO du 1998-05-14, page 1563*
+
+Réponse. - Le 6 novembre 1996 a été signée, pour une durée de trois ans, une charte solidarité eau entre le ministre chargé du logement, l'association des maires de France, la fédération nationale des collectivités concédantes et régies, et le syndicat professionnel des entreprises et services d'eau et d'assainissement. Par cette charte les distributeurs d'eau s'engagent à maintenir la fourniture d'eau aux ménages les plus démunis qui n'arrivent plus à en assumer la dépense, le temps que les organismes sociaux constituent le dossier en vue de son examen par une commission ad hoc. Une circulaire interministérielle du 23 octobre 1997 a fixé les conditions d'application du dispositif et permet donc sa mise en uvre immédiate. L'aide financière aux ménages prend la forme d'une renonciation au recouvrement d'une fraction ou de la totalité du montant de la créance. Cet abandon de créance se répartit ainsi : l'entreprise délégataire prend à sa charge la part correspondant au prix de l'eau, l'Etat et ses établissements publics abandonnent les éléments de facturation correspondant aux taxes et redevances, enfin les communes et groupements de communes sont invités à adopter ce même dispositif d'abandon de créance pour la part communale leur revenant lorsque le service est exploité en affermage. Dans le prolongement du projet de loi d'orientation pour la prévention et la lutte contre les exclusions, la création d'un fonds d'aide pour les impayés d'eau reposant sur des contributions de l'Etat et des distributeurs est également examinée. Ce dispositif pourrait être annexé ou intégré aux fonds départementaux d'urgence à l'étude actuellement.
