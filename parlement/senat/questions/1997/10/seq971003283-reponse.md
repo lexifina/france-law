@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971003283
+
+- Question : [SEQ971003283](seq971003283.md) — Interdiction des mines antipersonnel
+
+## Réponse
+
+*Affaires étrangères, JO du 1997-11-27, page 3279*
+
+Réponse. - Le gouvernement français remercie l'honorable parlementaire de cette question relative à un problème sur lequel il s'honore de mener une politique active. Le gouvernement français signera, en décembre prochain, la convention d'Ottawa. Ce texte pose, enfin, à l'encontre des mines antipersonnel, une interdiction totale et sans exceptions qui concerne la fabrication, le stockage, le transfert et l'emploi de ces munitions. Le gouvernement français entend procéder aussi rapidement que possible à la ratification de la convention d'Ottawa. A cette fin, un projet de loi de ratification sera déposé au Parlement dès le printemps 1998. A l'issue du processus de ratification, et dès l'entrée en vigueur de la convention, ce texte acquerra une dimension contraignante dans notre ordre juridique interne. Il n'est donc pas dans les intentions du gouvernement français de déposer, parallèlement à ce projet de loi de ratification, un nouveau texte relatif aux mines antipersonnel qui ne ferait que reprendre des engagements auxquels notre pays souscrira en procédant à la ratification de la convention d'Ottawa. Il est cependant nécessaire de prévoir un projet de loi portant transposition dans notre ordre juridique interne d'un certain nombre de dispositions figurant dans la convention d'Ottawa (s'agissant, notamment, des sanctions pénales en cas de violation de la convention et de la mise en oeuvre du dispositif de vérification). Ce projet de loi sera déposé au Parlement dans le courant de l'année prochaine afin que son adoption puisse, en coïncidant avec l'entrée en vigueur de la convention d'Ottawa, assurer la mise en oeuvre immédiate et effective des engagements souscrits par la France.
