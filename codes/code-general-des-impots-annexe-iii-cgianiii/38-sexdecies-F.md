@@ -28,7 +28,7 @@ a. Etre faites par l'exploitant preneur en place :
 
 b. Donner lieu à un prêt d'une durée au moins égale à neuf ans ;
 
-c. Etre d'un montant au moins égal à 100.000 F.
+c. Etre d'un montant au moins égal à 100 000 F (15 000 euros à compter du 1er janvier 2002).
 
 3. Lorsque ces acquisitions ont pour effet de porter la superficie des terres appartenant à l'exploitant au-delà de la surface globale maximale prévue pour l'application de la législation sur les cumuls ou lorsque la valeur desdites acquisitions excède, dans le deuxième cas prévu au 2, celle des terres dont l'exploitant a été évincé, les compléments de déduction prévus au 1 sont réduits à due concurrence.
 
