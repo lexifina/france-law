@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881202606
+
+- Question : [SEQ881202606](seq881202606.md) — Coopération transfrontalière
+
+## Réponse
+
+*Affaires européennes, JO du 1989-06-22, page 950*
+
+Réponse. - L'honorable parlementaire souligne avec justesse l'importance à venir de la collaboration transfrontalière entre collectivités territoriales pour la constitution de zones économiques plus compétitives. Un instrument juridique international existe déjà pour faciliter ces contacts. Il s'agit de la Convention-cadre du Conseil de l'Europe sur la coopération transfrontalière des collectivités ou autorités territoriales. Cette convention, que vient de ratifier le Portugal, est déjà en vigueur à l'égard de l'Autriche, de la Belgique, du Danemark, de la France, de la R.F.A., de l'Irlande, de l'Italie, du Liechtenstein, du Luxembourg, des Pays-Bas, de la Norvège, de la Suède et de la Suisse. Elle a pour but d'encourager et de faciliter la conclusion d'accords entre régions et communes, de part et d'autre d'une frontière, dans les limites de leurs compétences. Pour tenir compte de la variété des systèmes juridiques et constitutionnels des 22 pays membres du Conseil de l'Europe, la Convention offre toute une gamme d'accords modèles permettant aux collectivités locales et régionales ainsi qu'aux Etats de placer la coopération frontalière dans le cadre qui leur convient le mieux. Ce sujet n'est pour autant pas épuisé dans le cadre communautaire. La réalisation du marché intérieur nécessitera sans doute des formules de coopération plus appronfondies. C'est pour cette raison qu'un groupe d'études et de mobilisation (G.E.M.) a été spécialement constitué à l'automne dernier. Il associe parlementaires et spécialistes des affaires européennes pour définir les conditions d'une adaptation et d'une mobilisation des régions françaises dans le contexte européen.
