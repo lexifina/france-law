@@ -1,3 +1,3 @@
 # Article Annexe, art. 9
 
-L'institut ouvre des comptes courants au Trésor, aux établissements de crédit et à La Poste. Les comptes ouverts aux établissements de crédit et à La Poste ne peuvent être débiteurs.
+Les opérations de l'institut peuvent être vérifiées par les agents de la Banque de France sur la demande du président du conseil de surveillance ou du directeur général.

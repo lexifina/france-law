@@ -1,3 +1,5 @@
 # Article Annexe, art. 4
 
-L'institut assure dans sa zone d'émission la mise en circulation des billets de banque en tant que correspondant de la Banque de France et conformément aux dispositions des conventions passées avec celle-ci.
+Le représentant des personnels de l'institut au conseil de surveillance est élu pour quatre ans par et parmi les agents régis par un contrat à durée déterminée ou indéterminée conclu avec l'institut, hors période d'essai, et les personnels détachés depuis plus de trois mois à l'institut. Il est rééligible.
+
+L'élection a lieu au scrutin secret uninominal majoritaire à un tour.
