@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021002929
+
+- Question : [SEQ021002929](seq021002929.md) — Difficultés d'application du décret n° 2002-1158
+
+## Réponse
+
+*Équipement, JO du 2002-11-28, page 2882*
+
+Les difficultés d'application du décret n° 2002-1158 du 13 septembre 2002 ne sont qu'apparentes car, s'agissant de la consultation des représentants des listes de candidats et de l'impossibilité qu'auraient les organismes à respecter cette formalité du fait que les listes ne sont pas encore connues, il convient d'indiquer que seules les associations oeuvrant dans le domaine du logement et répondant aux conditions qui sont prévues, suivant les organismes, aux articles L. 421-8, L. 422-2-1 ou L. 481-5 du code de la construction et de l'habitation sont susceptibles de présenter des candidats. Or, le nouveau dispositif réglementaire n'ayant pas modifié les dates fixées pour les élections, celles-ci sont connues des associations concernées. Par conséquent, ces formalités de consultation ne concernent que les associations répondant à ces critères et qui ont manifesté par écrit, auprès des organismes HLM ou des sociétés d'économie mixte (SEM), leur intention de présenter des listes au plus tard à la date de la réunion du conseil fixant la date des élections. S'agissant de la validité des délibérations adoptées avant la parution du décret, il convient de distinguer les situations définitivement constituées de celles en cours, ce qui revient à distinguer deux hypothèses : pour les organismes HLM et les SEM qui n'ont pas encore pris de délibérations concernant les élections, le décret est applicable de plein droit et pour ceux qui ont déjà pris les délibérations, seules celles qui portent sur les modalités pratiques du vote ne sont pas remises en cause ; en revanche les autres comme, par exemple, celles qui porteraient sur l'établissement de la liste des électeurs, doivent répondre aux exigences du nouveau dispositif réglementaire.
