@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950310144
+
+- Question : [SEQ950310144](seq950310144.md) — Bénéficiaires de la prime de rentrée scolaire
+
+## Réponse
+
+*Affaires sociales, JO du 1995-05-10, page 1087*
+
+Réponse. - L'allocation de rentrée scolaire a été créée en 1974. Son bénéfice était alors lié à celui d'une autre prestation familiale et, en ce qui concerne la condition relative à l'âge des enfants ouvrant droit, référence était faite, dans la loi, à l'exécution de l'obligation scolaire. A la rentrée scolaire de 1990, cette prestation a fait l'objet d'une double mesure d'extension : l'âge limite des enfants ouvrant droit à l'allocation a été porté à dix-huit ans, soit au-delà de l'obligation scolaire et son bénéfice a été ouvert aux allocataires bénéficiant d'une prestation familiale ou d'autres prestations versées par la caisse d'allocations familiales. L'article R. 543-1 du code de la sécurité sociale précise que l'allocation de rentrée scolaire est versée aux personnes qui ont bénéficié de ces prestations au titre du mois de juillet qui précède la rentrée scolaire. Cette mesure qui prend en compte la prolongation de la scolarité, a permis également de couvrir plus largement le champ des familles aux revenus modestes et n'ayant qu'un enfant. En 1993 et 1994, la majoration exceptionnelle de l'allocation de rentrée scolaire a représenté un coût de plus de 6 milliards de francs par an et a bénéficié à plus de deux millions et demi de familles. Avec l'ensemble des dispositions contenues dans la loi relative à la famille de juillet 1994, ces mesures représentent un effort très important en faveur des familles. Dans le contexte actuel et vu la charge supplémentaire que cela représenterait, il n'est pas envisagé d'élargir les conditions de l'attribution de l'allocation de rentrée scolaire au-delà de ce qu'elles sont, pour les familles n'ayant qu'un seul enfant à charge.
