@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991221020
+
+- Question : [SEQ991221020](seq991221020.md) — Mise à disposition de fonctionnaires
+
+## Réponse
+
+*Affaires européennes, JO du 2000-02-03, page 391*
+
+Réponse. - L'honorable parlementaire a bien voulu appeler l'attention du ministre délégué chargé des affaires européennes sur la mise à disposition de fonctionnaires. Le nombre, les affectations et les catégories d'agents du ministère des affaires étrangères bénéficiant d'une mise à disposition auprès d'organismes extérieurs conformément au décret nº 85-986 du 16 septembre 1985 relatif au régime particulier de certaines positions des fonctionnaires de l'Etat et à certaines modalités de cessation définitive de fonctions (titre Ier) sont détaillés dans les trois tableaux ci-joints. Le nombre d'agents de l'extérieur mis à disposition du ministère des affaires étrangères s'élève à une cinquantaine, dont une très grand majorité appartient à la catégorie A. Le nombre d'agents de l'extérieur mis, plus spéficiquement, à la disposition du cabinet du ministre des affaires européennes s'élève à 5, tous de catégorie A, auxquels s'ajoutent deux officiers de sécurité (du ministère de l'intérieur). La rémunération des agents mis à disposition étant assurée par leur administration d'origine, le ministère des affaires étrangères n'est généralement pas en mesure d'indiquer le montant des traitements de cette catégorie d'agents.Agents mis à disposition d'autres ministères et d'organisations internationales ( NOTA Voir tableau page 391 ). Agents mis à disposition de la présidence de la République, du Premier ministre et du cabinet ministériel ( NOTA Voir tableau page 391 ). Agents mis à disposition d'établissements publics administratifs placés sous la tutelle du ministère des affaires étrangères ( NOTA Voir tableau page 391 ).
