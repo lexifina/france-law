@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930400495
+
+- Question : [SEQ930400495](seq930400495.md) — Classement des pays au Journal officiel des communautés européennes
+
+## Réponse
+
+*Affaires européennes, JO du 1993-09-30, page 1774*
+
+Réponse. - L'honorable parlementaire a bien voulu m'interroger sur le champ d'application de la décision du conseil en date du 14 décembre 1992 concernant l'" arrangement " relatif à des lignes directrices pour les crédits à l'exportation bénéficiant d'un soutien public. Comme le sait l'honorable parlementaire, la France participe à cet arrangement qui se révèle être un instrument efficace de discipline internationale contribuant à diminuer les subventions et à améliorer la concurrence. Dès lors, faisant partie du territoire communautaire en vertu de l'article 227 du traité de Rome, les départements d'outre-mer sont concernés par cet accord international. En revanche, le droit communautaire ne s'applique pas aux territoires d'outre-mer, sauf dispositions contraires prévues par la décision d'association de 1991. Or celle-ci ne dispose rien dans le domaine des crédits à l'exportation bénéficiant de soutien public. Concernant la composition de la liste des pays ayant un PNB par habitant supérieur à 2 465 dollars en 1990 mentionnée à l'annexe IX, sujet dintinct de celui du champ d'application de l'arrangement, les départements d'outre-mer y sont cités parce que l'annexe vise les modalités de calcul du taux d'intérêt annuel et qu'à ce titre est concerné l'Institut d'émission des départements d'outre-mer. Cependant, si la présence dans cette liste des DOM est justifiée, le niveau du PNB par habitant qui est retenu pour eux ne semble pas approprié. C'est pourquoi je me propose de saisir la commission des communautés européennes pour lui demander des informations détaillées sur la source de ces statistiques. Nota : voir tableau page 1.774.
