@@ -1,0 +1,9 @@
+# Réponse à la question SEQ041114531
+
+- Question : [SEQ041114531](seq041114531.md) — Orphelins de résistants exclus du périmètre du décret du 27 juillet 2004
+
+## Réponse
+
+*Anciens combattants, JO du 2005-01-27, page 220*
+
+Comme le rappelle l'honorable parlementaire, le décret n° 2004-751 du 27 juillet 2004 instituant une aide financière en reconnaissance des souffrances endurées par les orphelins dont les parents ont été victimes d'actes de barbarie durant la Seconde guerre mondiale a été publié au Journal officiel de la République française du 29 juillet 2004. Outre les orphelins des déportés résistants et politiques morts en déportation, ce texte s'applique effectivement aux personnes arrêtées et exécutées, tels les fusillés, dans les conditions définies aux articles L. 274 et L. 290 du code des pensions militaires d'invalidité et des victimes de la guerre. Cette référence aux articles du code précité est destinée à permettre la définition des motifs et des conditions de survenance des faits. S'agissant des fusillés et massacrés, sont concernées les personnes qui, après avoir été arrêtées par les Allemands, les Japonais ou les miliciens, ont été exécutées, massacrées, fusillées ou sont mortes sous la torture. L'arrestation et l'exécution peuvent avoir été simultanées. Par une décision dont le caractère symbolique doit être souligné, il s'agissait essentiellement de reconnaître le caractère spécifique des souffrances endurées par les victimes d'actes de barbarie commis durant l'Occupation. C'est pourquoi les dispositions arrêtées par le décret du 27 juillet 2004 devaient nécessairement se limiter à prendre en compte des violences qui, excédant le cadre d'un état de belligérance se caractérisant par des affrontements armés, relevaient de la plus extrême inhumanité et frappaient des personnes dans l'incapacité de se défendre.
