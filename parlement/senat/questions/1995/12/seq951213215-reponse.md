@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951213215
+
+- Question : [SEQ951213215](seq951213215.md) — Préparation de la loi de finances : évaluation des choix budgétaires d'après le rapport d'activité de chaque administration centrale
+
+## Réponse
+
+*Économie, JO du 1996-11-28, page 3144*
+
+Réponse. - La procédure d'examen du projet de loi de finances par le Parlement permet de lui communiquer toutes les informations utiles, notamment sur les orientations stratégiques sous-tendant les choix budgétaires. Le Parlement adresse traditionnellement au Gouvernement des questionnaires relatifs au projet de loi de finances initiale, auxquels les administrations centrales répondent en liaison avec la direction du budget. En outre, les interventions des ministres chargés du budget et des différents ministres au cours du débat de la deuxième partie de la loi de finances, par secteurs ministériels, permettent d'expliciter les orientations retenues. Enfin, le Gouvernement a organisé au printemps de cette année un débat d'orientation budgétaire pour préparer les choix du projet de loi de finances pour 1997. La réforme de la procédure budgétaire, qui permet d'associer plus étroitement les ministres concernés aux choix budgétaires effectués, privilégie également la réflexion en amont sur les grandes orientations budgétaires. Dans le cadre de la réforme de l'Etat entreprise par le Gouvernement, le Premier ministre a également demandé à chaque administration centrale d'élaborer un plan de réorganisation et de réduction de ses effectifs. Il apparaît ainsi que les procédures existantes et la réforme mise en oeuvre à partir de la préparation du projet de loi de finances pour 1997 permettent une information complète du Parlement sur les orientations stratégiques sous-tendant les choix budgétaires du projet de loi de finances initiale.
