@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030507606
+
+- Question : [SEQ030507606](seq030507606.md) — Fermeture d'une filiale d'Air France à Andrézieux-Bouthéon (Loire)
+
+## Réponse
+
+*Équipement, JO du 2003-10-09, page 3044*
+
+La compagnie Régional CAE, issue de la fusion en avril 2001 des trois compagnies Flandre Air, Proteus Airlines et Regional Airlines, a enregistré de lourdes pertes lors de ses trois derniers exercices. De ce fait, la compagnie est dans l'obligation de se restructurer afin de retrouver une exploitation équilibrée. Elle a, dans ce cadre, engagé une réflexion sur son organisation industrielle, dont il est ressorti que la dispersion de ses activités de maintenance sur trois sites industriels (Saint-Etienne, Clermont-Ferrand et Lille) générait d'importants surcoûts. De façon à retrouver un niveau de coût de maintenance compétitif avec ceux de ses concurrentes, Régional CAE a rationalisé son organisation en transférant l'activité de l'atelier de Saint-Etienne sur celui de Clermont-Ferrand. Cette décision s'est accompagnée, comme le prévoit la législation du travail, d'un plan de sauvegarde de l'emploi, qui a été présenté en comité d'entreprise. Régional CAE a notamment proposé un emploi à Clermont-Ferrand à chacun de ses salariés de l'établissement de Saint-Etienne. Par ailleurs, Régional CAE, en partenariat avec la communauté d'agglomération de Saint-Etienne, a entamé des démarches visant à installer une nouvelle entreprise sur le site. Le ministre de l'équipement, des transports, du logement, du tourisme et de la mer rappelle que, dans le cadre de l'autonomie de gestion qui leur est reconnue, les dirigeants de la compagnie Air France et de ses filiales, comme ceux de toutes les autres compagnies aériennes françaises, organisent leur réseau, leur exploitation et leurs activités industrielles en fonction de leurs objectifs, parmi lesquels la recherche de l'équilibre financier revêt légitimement un caractère prioritaire.
