@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930400230
+
+- Question : [SEQ930400230](seq930400230.md) — Réinsertion en France des Français de l'étranger
+
+## Réponse
+
+*Travail, JO du 1993-07-15, page 1148*
+
+Réponse. - Les problèmes de l'emploi et de la formation professionnelle des Français résidant à l'étranger sont pris en compte par le ministère du travail, de l'emploi et de la formation professionnelle en coordination avec le ministère des affaires étrangères, notamment par l'intermédiaire des comités consulaires pour l'emploi et la formation professionnelle dans les circonscriptions consulaires de plus de 5 000 immatriculés. Lorsque le retour des Français établis à l'étranger paraît inévitable, que ce soit à la suite d'un licenciement ou de la mise en liquidation de l'entreprise qui les employait, l'action publique consiste à faciliter au maximum leur accès à l'emploi en France. Cette aide à la réinsertion peut prendre plusieurs formes. Elle peut se traduire par le développement de formations préparatoires ou qualifiantes locales ou par un accès direct plus aisé à une formation en France. Dans ce dernier cas, c'est l'association pour la formation professionnelle des adultes (AFPA) qui effectue, sur demande et sur financement du ministère des affaires étrangères, des missions d'orientation-sélection destinées à admettre des Français de l'étranger directement en formation dès leur rapatriement. Ainsi, en 1992, l'AFPA a procédé à 833 examens à l'étranger et au cours de cette même année, 117 personnes ont été rapatriées directement dans un centre de formation qui, outre son apport pédagogique, facilite également la réinsertion de nos ressortissants de par ses structures et ses conditions d'accueil (hébergement, restauration, rémunération). Le taux de placement observé à l'issue de ces formations est de 60 p. 100.
