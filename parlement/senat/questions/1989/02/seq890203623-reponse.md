@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890203623
+
+- Question : [SEQ890203623](seq890203623.md) — Entretien des stations de sports d'hiver
+
+## Réponse
+
+*Tourisme, JO du 1989-05-25, page 811*
+
+Réponse. - Soucieux de mettre en place les mesures appropriées à la solution des problèmes posés dans les stations de sports d'hiver par le mauvais enneigement constaté en janvier, le ministre du tourisme, chargé de la coordination de cette opération, a réuni dès le 7 février les représentants des divers ministères compétents pour l'application de ces mesures, ainsi que ceux des préfectures de région, des groupements d'élus et des principales professions concernées. Pour l'essentiel, il a été décidé qu'il convenait d'abord d'éviter toutes exigences de nature à aggraver les situations. Ainsi pourront être reportées sans pénalités, chaque fois que nécessaire, les échéances d'impôts, de cotisations sociales, d'emprunts relevant d'organismes publics ou parapublics... Les salariés contraints au chômage devront bénéficier le plus largement possible des indemnisations prévues par les lois et règlements. Des mesures de caractère moins provisoire ne pourront être prises qu'en fin de saison, lorsqu'un bilan général des conséquences aura pu être établi. Afin de faciliter l'application de ce dispositif, les préfets de département des zones de montagne ont reçu l'instruction de suivre attentivement, en étroite collaboration avec toutes les catégories socio-professionnelles concernées localement, l'évolution de la situation, et d'en rendre compte périodiquement. D'autre part, les divers ministres, dont relèvent les mesures à prendre, sont tenus informés. Dans cet esprit, les suggestions de l'honorable parlementaire relatives à la situation particulièrement difficile des petites et moyennes stations, qui ont fait d'énormes efforts d'équipement et de modernisation, pourront donner lieu à l'examen interministériel qu'elles requièrent.
