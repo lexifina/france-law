@@ -16,7 +16,13 @@ Depuis le 1er janvier 1960
 
 |
 
-Services extérieurs
+Services déconcentrés
+
+|
+
+|
+
+Unités pédagogiques d'architecture ayant relevé ou relevant de l'Etat
 
 |
 
@@ -28,7 +34,7 @@ Etablissements d'enseignement suivants :
 
 |
 
-Conservatoire national supérieur de musique
+Conservatoires nationaux supérieurs de musique de Paris et de Lyon
 
 |
 
@@ -96,6 +102,36 @@ Ecoles nationales d'architecture
 
 |
 
+Unités pédagogiques d'architecture n° 1 et n° 4 à Paris
+
+|
+
+|
+
+Unité pédagogique d'architecture de Bordeaux
+
+|
+
+|
+
+Unité pédagogique d'architecture de Lille
+
+|
+
+|
+
+Unité pédagogique d'architecture de Marseille
+
+|
+
+|
+
+Ecole nationale d'art de Cergy-Pontoise
+
+|
+
+|
+
 Etablissements publics suivants :
 
 |
@@ -118,11 +154,93 @@ Réunion des musées nationaux
 
 |
 
-A l'exception des services accomplis à la régie intéressée des services commerciaux et techniques de cet établissement (arrêté du 22 janvier 1931)
+A l'exception des services accomplis avant le 15 mai 1981 à la régie intéressée des services commerciaux et techniques de cet établissement (arrêté du 22 janvier 1931)
+
+Jusqu'au 31 décembre 1990
 
 |
 
 Caisse nationale des monuments historiques
+
+|
+
+|
+
+Centre Beaubourg
+
+|
+
+|
+
+Centre national d'art et de culture Georges-Pompidou
+
+|
+
+|
+
+Musée d'Orsay
+
+|
+
+|
+
+Bibliothèque publique d'information
+
+|
+
+|
+
+Centre national des arts plastiques
+
+|
+
+|
+
+Etablissement public du Grand Louvre
+
+|
+
+|
+
+Bibliothèque de France
+
+|
+
+|
+
+Etablissement public du musée du Louvre
+
+|
+
+|
+
+Musée Jean-Jacques-Henner
+
+|
+
+|
+
+Musée Gustave-Moreau
+
+|
+
+|
+
+Musée Auguste-Rodin
+
+|
+
+A compter du 1er janvier 1991
+
+|
+
+Organismes
+
+|
+
+|
+
+Centre artistique des rencontres internationales
 
 |
 
