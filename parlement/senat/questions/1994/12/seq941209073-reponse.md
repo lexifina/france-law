@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941209073
+
+- Question : [SEQ941209073](seq941209073.md) — Cimetières français situés en Algérie
+
+## Réponse
+
+*Affaires étrangères, JO du 1995-01-05, page 22*
+
+Réponse. - La situation des cimetières français en Algérie fait l'objet, depuis de nombreuses années, d'un soin tout particulier de la part de ce ministère. S'agissant de l'entretien et de la sauvegarde de ces nécropoles, il y a lieu de rappeler que la préservation et le gardiennage des parties communes des cimetières incombent aux assemblées populaires communales tandis que l'entretien des tombes proprement dites, conformément au droit local et au droit français, appartient aux familles. Pour des raisons bien connues, l'Etat français a été conduit à se substituer aux unes et aux autres afin d'assurer la sauvegarde de ces cimetières. Face aux actes de vandalisme qui sont parfois perpétrés, la France a opté pour une politique de fermeté en demandant tant à notre ambassade qu'à nos postes consulaires en Algérie d'être extrêmement vigilants et d'intervenir systématiquement auprès des autorités algériennes compétentes chaque fois que des déprédations leur ont été signalées dans certains cimetières. Ces démarches ont pour objectif d'exprimer l'indignation de l'Etat français et d'exiger des autorités algériennes que des mesures efficaces soient prises, afin d'éviter le retour de pareil agissements et pour que les dégâts causés soient réparés. Le plus souvent, ces interventions sont suivies d'effet. Compte tenu de la situation qui prévaut depuis plusieurs mois en Algérie, l'opération, prévue en liaison avec le ministère délégué aux relations avec le Sénat, chargé des rapatriés, de regroupement de dix cimetières de l'Algérois, du Constantinois et de l'Oranais, est matériellement impossible. Pour autant, nos postes consulaires demeurent prêts à reprendre l'opération de regroupement dès que la situation le permettra.
