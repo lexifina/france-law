@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890404425
+
+- Question : [SEQ890404425](seq890404425.md) — Frais de transport des assurés sociaux
+
+## Réponse
+
+*Solidarité, JO du 1989-08-10, page 1267*
+
+Réponse. - Le décret n° 88-698 du 6 mai 1988 fixant les conditions de prise en charge des frais de transport exposés par les assurés sociaux a eu pour effet de rendre caduque la notion jurisprudentielle de "frais reconnus indispensables et médicalement justifiés par les nécessités d'un traitement " comme base de remboursement des frais de transport. Ce texte a élargi le champ de prise en charge des transports pour les malades ambulatoires par rapport à la réglementation antérieure. En dehors des transports en rapport avec une affectation de longue durée sont désormais pris en charge les transports par ambulance et, lorsque l'état du malade ne nécessite pas le recours à l'ambulance, les transports à longue distance pour les déplacements de plus de 150 kilomètres et les transports en série. En outre, conformément à l'accord du 24 novembre 1988 intervenu entre la Caisse nationale de l'assurance maladie et les représentants nationaux des organisations professionnelles des ambulanciers, les caisses primaires d'assurance maladie sont autorisées à rembourser les frais de transport exposés par les assurés sociaux pour des soins consécutifs à une hospitalisation dans un délai de trois mois suivant la date de sortie de l'établissement. Il n'est pas envisagé d'élargir davantage le champ de remboursement, les caisses primaires d'assurance maladie pouvant toujours, après examen de la situation sociale du bénéfice, participer aux dépenses engagées au titre de l'action sanitaire et sociale. Par ailleurs, le décret précité n'a pas eu pour effet de supprimer l'indemnité compensatrice de la perte de salaire pour la personne accompagnante dès lors que celle-ci peut justifier d'une perte de salaire auprès de sa caisse primaire d'assurance maladie.
