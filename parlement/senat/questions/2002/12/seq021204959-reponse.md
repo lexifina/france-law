@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021204959
+
+- Question : [SEQ021204959](seq021204959.md) — Conséquences pour les buralistes de l'augmentation du prix du tabac
+
+## Réponse
+
+*Budget, JO du 2003-04-17, page 1322*
+
+Le Gouvernement est conscient des préoccupations des débitants concernant les conséquences de l'augmentation des prix du tabac intervenue le 6 janvier 2003 et du rôle qu'ils jouent en tant que commerces de proximité et relais de l'Etat, notamment dans les zones rurales. Cette hausse des prix se justifie pleinement dans le cadre de l'action que le Gouvernement entend mener pour lutter contre le tabagisme, notamment des jeunes. Il comprend cependant leur inquiétude quant à l'évolution de leur profession. C'est pourquoi le Gouvernement a décidé de prendre quatre mesures en faveur des débitants de tabac : l'augmentation à 8 000 euros, à compter du 1er février 2003, du montant de la subvention versée par l'Etat aux débitants pour leur permettre de financer une partie des travaux destinés à améliorer la sécurité de leurs établissements ; la simplification et la modernisation de la déclaration de stock ; le relèvement du seuil d'exonération de la redevance qui est porté à 152 500 euros avec effet rétroactif au 1er janvier 2003 ; la mise en place d'un régime de compensation entre les sommes dues sur les stocks détenus le 6 janvier dernier et celles qui pourraient être remboursées dans l'hypothèse d'éventuelles fluctuations significatives des prix dans le courant du printemps 2003. Ces mesures seront suivies très prochainement d'une réflexion stratégique sur l'évolution du secteur sous la forme d'une table ronde réunissant les représentants des débitants de tabac, le ministère de l'intérieur, de la sécurité intérieure et des libertés locales, le ministère de la santé, de la famille et des personnes handicapées et le ministère de l'économie, des finances et de l'industrie.
