@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040612807
+
+- Question : [SEQ040612807](seq040612807.md) — Hausse des tarifs des transports collectifs en Ile-de-France
+
+## Réponse
+
+*Transports, JO du 2004-08-12, page 1879*
+
+L'augmentation moyenne des tarifs applicables dans les transports publics d'Ile-de-France, qui a pris effet le 1er juillet dernier, s'explique par l'augmentation de l'offre dont bénéficient les habitants de la région (prolongement de la ligne 14 du métro jusqu'à Saint-Lazare, prolongement de la ligne T1 jusqu'à Noisy-le-Sec, restructuration des réseaux de bus, amélioration et renforcement de lignes SNCF). L'option a été prise d'accroître légèrement la part du financement des transports publics assurée par les recettes des usagers, plutôt que d'augmenter les contributions publiques, ce qui aurait eu pour conséquence d'alourdir la pression fiscale sur les contribuables. Parallèlement à cette mesure, il a été décidé de permettre aux titulaires de la carte Solidarité Transport d'acheter à demi-tarif des forfaits mensuels ou hebdomadaires et aux jeunes collégiens, lycéens et étudiants titulaires de la carte Imagine'R de voyager dans toute l'Ile-de-France entre le 1er juillet et le 31 août sans aucun supplément de prix. Par ailleurs, le plafond du versement de transport dû par les entreprises a été augmenté de 0,1 % en 2003 ; les secteurs industriel, commercial et tertiaire ont donc contribué pour 113 millions d'euros supplémentaires au financement des transports publics. Enfin, une réflexion d'ensemble a été engagée sur ce sujet du financement des transports collectifs ; des propositions ont été effectuées par M. Christian Philip, député du Rhône. L'augmentation de la taxe intérieure sur les produits pétroliers fait partie des mesures suggérées. Aucune décision n'a été pour l'instant arrêtée.
