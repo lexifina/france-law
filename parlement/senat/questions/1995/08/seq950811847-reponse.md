@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950811847
+
+- Question : [SEQ950811847](seq950811847.md) — Conformité au droit européen de la fiscalité des bio-carburants
+
+## Réponse
+
+*Affaires étrangères, JO du 1995-09-14, page 1766*
+
+Réponse. - La France a mis en place depuis 1993 un dispositif d'exonération totale des esters et éthanols introduits dans les carburants ou le fioul domestique, dans le cadre de projets pilotes ayant reçu un agrément des autorités françaises. Ce dispositif est fondé sur l'article 8 paragraphe 2 de la directive 92/81 relative aux accises sur les huiles minérales. Il s'inscrit dans la ligne des orientations politiques prises depuis plusieurs années, par le conseil comme par la commission, en faveur du développement des biocarburants. C'est pourquoi la France s'estime fondée à poursuivre son action en faveur des biocarburants et à réfuter les arguments avancés par la commission auxquels fait référence l'honorable parlementaire. Sur la base de l'expérience acquise, la France, comme d'autres états membres, reste particulièrement attachée à une politique de promotion des biocarburants au plan communautaire. Ainsi, sous impulsion française, le conseil des ministres de l'économie et des finances du 19 juin a invité la commission à formuler de nouvelles propositions visant à l'adoption d'une directive communautaire spécifique aux biocarburants. Cependant, dans l'attente de l'adoption d'une telle directive qui exige l'unanimité du conseil, la France a demandé à pouvoir bénéficier d'une dérogation au régime normal de taxation des huiles minérales au titre de l'article 8 paragraphe 4 de la directive 92/81 précitée, dérogation qui nous permettra de garantir le maintien de notre dispositif de défiscalisation au-delà du stade des projets pilotes. Le gouvernement mettra tout en oeuvre pour faire reconnaître le bien-fondé de notre dispositif au regard du droit communautaire.
