@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920219947
+
+- Question : [SEQ920219947](seq920219947.md) — Renforcement du rôle préventif des chambres régionales des comptes
+
+## Réponse
+
+*Collectivités locales, JO du 1992-04-09, page 864*
+
+Réponse. -Il est indiqué à l'honorable parlementaire que le Gouvernement attache une grande importance au développement, dans le respect des principes de la décentralisation et de la responsabilité des décisions des collectivités locales en matière financière, de procédures permettant, de façon préventive, d'alerter les collectivités sur les risques budgétaires qu'elles peuvent encourir. Les chambres régionales des comptes ont, à cet égard, un rôle important à jouer du fait notamment du pouvoir qu'elles ont d'examiner la gestion des collectivités locales et celle des organismes auxquels ces dernières apportent un concours. Le Gouvernement a souhaité que ce rôle préventif des chambres régionales des comptes puisse être renforcé et, dans ce but, a proposé au Parlement, qui les a acceptées, lors de la discussion du projet de loi d'orientation sur l'administration territoriale de la République, deux propositions nouvelles en ce sens. Ces deux propositions, qui font l'objet de l'article 47 de la loi n° 92-125 du 6 février 1992 sont les suivantes : les vérifications sur la gestion de la collectivité ou d'un organisme financé par elle, qui, jusqu'alors ne pouvaient être assurées que sur décision de la chambre régionale des comptes elle-même, peuvent désormais être demandées à la chambre soit par le représentant de l'Etat dans le département, soit par l'autorité territoriale ; la chambre régionale des comptes peut désormais formuler des observations sur les conventions relatives aux marchés ou à des délégations de service pubic passées par la collectivité, si elle en est saisie par le représentant de l'Etat.
