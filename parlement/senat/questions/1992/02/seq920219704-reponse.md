@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920219704
+
+- Question : [SEQ920219704](seq920219704.md) — Suppression de postes Fonjep
+
+## Réponse
+
+*Affaires sociales, JO du 1992-05-14, page 1122*
+
+Réponse. - Sur les 1 245 postes Fonjep dont dispose la direction de l'action sociale, 245 ont été affectés aux maisons familiales de vacances et plus de 80 p. 100 de ces postes ont été créés entre 1974 et 1979. Dès 1979, un rapport de l'inspection générale des affaires sociales soulignait la nécessité de concentrer les efforts sur les maisons dont le caractère social est incontestable, de développer les aides à la personne et de trouver des formules mieux adaptées aux problèmes des catégories les plus défavorisées. Dans le prolongement des lois de décentralisation et en particulier dans le cadre de la politique de la ville, le Gouvernement a décidé de redéployer et de déconcentrer ces 245 postes sur le secteur de l'animation locale, conformément à l'évolution des besoins des populations très défavorisées. Il convient de souligner que l'aide aux vacances des familles très démunies peut entrer parfaitement dans le cadre de ces postes d'animation locales et que les fédérations de maisons familiales de vacances ont été prévenues de ces orientations dès le mois de décembre 1990. Par ailleurs, le ministère des affaires sociales et de l'intégration souhaite participer activement à la commission interministérielle du tourisme social, relancée récemment par le ministère du tourisme, afin de multiplier les départs en vacances des exclus dans le cadre d'une politique globale d'insertion. Enfin, un certain nombre de postes Fonjep d'animation locale vont être proposés aux associations de maisons familiales de vacances. De même, des conventions d'objectifs, représentant des moyens budgétaires non négligeables seront conclues avec leurs fédérations sur des points précis (aide au premier départ, accès des handicapés aux vacances...).
