@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030507523
+
+- Question : [SEQ030507523](seq030507523.md) — Situation des droits de l'homme au Togo
+
+## Réponse
+
+*Affaires étrangères, JO du 2004-03-11, page 587*
+
+Avant le processus électoral du 1er juin dernier, la France avait, comme l'Union européenne, demandé aux autorités togolaises de garantir une campagne assurant un accès aux médias égal pour tous les candidats et la tenue d'une élection libre et transparente, conditions essentielles de l'expression de l'ensemble des sensibilités politiques. L'élection présidentielle s'est déroulée dans des conditions jugées globalement satisfaisantes par les missions d'observation internationales (comptant 159 observateurs au total). Tout en relevant un certain nombre d'irrégularités, ces missions ont estimé qu'elles ne remettaient pas en cause la validité des résultats définitifs. Ces derniers ont été proclamés le 12 juin par la Cour constitutionnelle du Togo, après une campagne et un scrutin qui ont permis à l'ensemble des forces politiques togolaises de s'exprimer. Aujourd'hui, après cette élection, les autorités togolaises ont montré dans la plupart des secteurs concernés par les questions de justice (prison, délais de garde à vue, procédure pénale) une volonté d'améliorer la situation. Dans sa relation avec le Togo, la France contribue depuis plusieurs années au renforcement de l'Etat de droit dans ce pays, qui passe par une sensibilisation des forces de l'ordre aux droits de la personne et par un meilleur respect des procédures. Une large part de la coopération française en matière de police est ainsi consacrée à la formation dans ces domaines. Par ailleurs, la France oeuvre en faveur de la normalisation des relations entre le Togo et l'Union européenne, en encourageant le dialogue entre les différentes forces politiques de ce pays.
