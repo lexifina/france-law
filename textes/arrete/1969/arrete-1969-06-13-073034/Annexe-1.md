@@ -1,14 +1,18 @@
 # Article Annexe 1
 
-4e classe :
+1re classe :
 
-Directeurs économes des hôpitaux, hôpitaux psychiatriques et établissements de cure de moins de 200 lits.
+Directeurs généraux des centres hospitaliers régionaux
 
-Directeurs économes des hôpitaux ruraux, des hospices et maisons de retraite de 81 à 200 lits.
+Secrétaires généraux de l'assistance publique à Marseille et des hospices civils de Lyon,
 
-Directeurs des établissements annexes regroupés ou non en comptant de 81 à 200 lits dans les administrations hospitalières de Paris, Lyon, Marseille et directeurs des établissements annexes regroupés ou non comptant de 201 à 500 lits dans les autres établissements.
+Directeurs des établissements comptant plus de 1.500 lits et classés centre hospitalier, hôpitaux, hôpitaux psychiatriques et établissements de cure.
 
-- Chargés des services économiques du premier grade (ne sont concernés que par le premier échelon du tableau ci-après).
+Directeurs des établissements de plus de 2.000 lits et classés hospices et maisons de retraite.
+
+Chefs de services centraux à Paris, Lyon et Marseille et directeurs adjoints des services hospitaliers régionaux.
+
+Directeurs d'établissements annexes, regroupés ou non, comptant plus de 1.500 lits dans les administrations hospitalières de Paris, Lyon, Marseille et dans les centres hospitaliers régionaux.
 
 ==============================
 
@@ -16,35 +20,37 @@ ECHELONS INDICES : DUREE
 
 :NETS : BRUTS: MOYENNE |
 
-: : : (a) |
-
---------:-----:------:-------- |
-
-:Groupe hors échelle A |
-
-: : : |
+: : : (2) |
 
 2 éch : : : |
 
 fonction: : : |
 
-(2) : 450 : 585 : |
+(1) :Groupe hors échelle A |
 
 : : : |
 
-Echelon : : : |
+1 éch : : : |
 
-except : 435 : 565 : |
+fonction: : : |
+
+(1) : 650 : 1000 : |
 
 : : : |
 
-6 éch : 420 : 545 : 3 ans 5 éch : 400 : 515 : 2 ans 4 éch : 380 : 485 : 2 ans 3 éch : 360 : 455 : 2 ans 2 éch : 330 : 415 : 2 ans 1 éch : 300 : 370 : 1 an ============================== Assistants : Echelle des directeurs économes de 4e classe : 5e classe :
+4 éch : 630 : 950 : 3 ans 3 éch : 600 : 885 : 3 ans 2 éch : 580 : 845 : 2 ans 1 éch : 660 : 805 : 2 ans ============================== 2e classe :
 
-Directeurs économes des hôpitaux ruraux des hospices et des maisons de retraite comptant 80 lits au plus.
+Directeurs des centres hospitaliers de moins de 1.500 lits.
 
-Directeurs d'établissements annexes regroupés ou non de 80 lits au plus dans les administrations hospitalières de Paris, Lyon, Marseille ou faisant partie d'établissements regroupes.
+Directeurs d'établissements de 501 à 1.500 lits et classés hôpitaux, hôpitaux psychiatriques, hôpitaux ruraux et établissements de cure et directeurs des établissements regroupés comptant au total de 501 à 1.500 lits.
 
-- Charges des services économiques du 2e grade (ne sont concernés que par le premier échelon du tableau ci-après).
+Directeurs des hospices et des maisons de retraite de 501 à 2000 lits
+
+Directeurs d'établissements annexes regroupés ou non, comptant de 501 à 1.500 lits dans les administrations hospitalières de Paris, Lyon, Marseille et dans les centres hospitaliers régionaux et directeurs d'établissements annexes regroupés ou non et comptant plus de 1.500 lits dans les autres établissements.
+
+Chefs de service adjoints des administrations hospitalières de Paris, Lyon et Marseille et directeurs des centres hospitaliers régionaux.
+
+Directeurs adjoints des centres hospitaliers, des hôpitaux, des hôpitaux psychiatriques et établissements de cure comptant plus de 1.500 lits et directeurs adjoints des hôpitaux ruraux, hospices et maisons de retraite de plus de 2.000 lits.
 
 ==============================
 
@@ -56,20 +62,22 @@ ECHELONS INDICES : DUREE
 
 : : : |
 
-2 éch : : : |
+7 éch : 600 : 885 : 6 éch : 570 : 825 : 3 ans 5 éch : 550 : 785 : 2 ans 4 éch : 530 : 745 : 2 ans 3 éch : 510 : 705 : 2 ans 2 éch : 485 : 655 : 2 ans 1 éch : 460 : 605 : 2 ans ============================== 3e classe :
 
-except : : : |
+Directeurs des établissements classés hôpitaux, hôpitaux ruraux, hôpitaux psychiatriques, hospices, maisons de retraite et établissements de cure et directeurs des établissements regroupés comptant au total de 201 à 500 lits.
 
-(3) : 420 : 545 : |
+Directeurs d'établissements annexes regroupés ou non et comptant de 201 à 500 lits dans les administrations hospitalières de Paris, Lyon, Marseille ou dans les centres hospitaliers régionaux et directeurs d'établissements annexes regroupés ou non et comptant de 501 à 1.500 lits dans les autres établissements.
+
+Attachés de direction.
+
+==============================
+
+ECHELONS INDICES : DUREE
+
+:NETS : BRUTS: MOYENNE |
+
+:Groupe hors échelle A |
 
 : : : |
 
-1er éch : : : |
-
-except : : : |
-
-(4) : 405 : 520 : |
-
-: : : |
-
-6 éch : 390 : 500 : 5 éch : 360 : 455 : 2 ans 4 éch : 330 : 415 : 2 ans 3 éch : 295 : 365 : 2 ans 2 éch : 260 : 315 : 2 ans 1 éch : 225 : 265 : 2 ans ============================== (a) Durée moyenne d'ancienneté exigée dans chaque échelon. (2) Echelon fonctionnel accessible après 3 ans d'ancienneté à l'échelon exceptionnel et réservé aux directeurs économes ainsi qu'aux directeurs d'établissements annexes. (3) Echelon accessible après 3 ans passes au premier échelon exceptionnel. (4) Echelon accessible après 3 ans passes au 6e échelon.
+8 éch : 540 : 765 : 7 éch : 525 : 735 : 4 ans 6 éch : 500 : 685 : 3 ans 5 éch : 475 : 635 : 2 ans 4 éch : 450 : 585 : 2 ans 3 éch : 425 : 550 : 2 ans 2 éch : 400 : 515 : 2 ans 1 éch : 380 : 485 : 2 ans ============================== (1) Ces échelons fonctionnels sont réservés aux directeurs généraux des centres hospitaliers régionaux et aux secrétaires généraux de l'assistance publique à Marseille et des Hospices civils de Lyon. Le premier échelon fonctionnel est accessible après 3 ans de service au 4e échelon et le 2e échelon après 3 ans de service au 1er échelon fonctionnel. (2) Durée moyenne d'ancienneté exigée dans chaque échelon.
