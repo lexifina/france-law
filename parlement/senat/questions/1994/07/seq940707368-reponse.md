@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940707368
+
+- Question : [SEQ940707368](seq940707368.md) — Envoi des documents électoraux aux Français établis hors de France
+
+## Réponse
+
+*Intérieur, JO du 1994-09-29, page 2351*
+
+Réponse. - L'adresse de l'électeur qui figure sur la liste électorale est nécessairement celle qui justifie son inscription. Il en résulte que si un électeur invoque pour son inscription sur la liste d'une commune les dispositions des articles L. 12 ou L. 14 du code électoral, l'adresse qui figurera sur la liste électorale n'est pas en France. En ce qui concerne l'acheminement des documents de propagande, deux situations sont à distinguer. Lorsqu'il existe des centres de vote à l'étranger, ce qui est le cas pour l'élection présidentielle et l'élection des représentants au Parlement européen, les documents électoraux sont acheminés selon des règles particulières. En revanche, pour les élections législatives et les élections locales, les centres de vote à l'étranger ne sont pas ouverts. Les électeurs résidant à l'étranger sont donc dans ce cas dans la même situation que les autres électeurs inscrits sur la liste électorale. Il appartient alors aux commissions de propagande, en application des dispositions de l'article R. 34 du code électoral, d'envoyer les documents électoraux à chaque électeur à l'adresse figurant sur la liste électorale. Quant au délai d'acheminement, c'est le délai postal induit par l'article 35 du code électoral qui prévaut. Mais celui-ci ne court qu'à compter du moment où la commission de propagande a pu disposer de tous les documents électoraux des candidats pour effectuer la mise sous pli préalable à l'acheminement. Du fait que rien n'oblige les candidats à déposer longtemps à l'avance leurs documents, les commissions de propagande ont rarement la possibilité de s'écarter des délais prévus par le code électoral.
