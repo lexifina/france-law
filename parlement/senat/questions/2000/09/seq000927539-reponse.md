@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000927539
+
+- Question : [SEQ000927539](seq000927539.md) — Mode de calcul des taux de taxe professionnelle pendant la période de lissage décidée par une communauté d'agglomération
+
+## Réponse
+
+*Intérieur, JO du 2001-03-01, page 750*
+
+Réponse. - Lorsque le taux de taxe professionnelle unique d'une communauté d'agglomération fait l'objet d'une intégration fiscale progressive, les taux de taxe professionnelle constatés pour chaque commune, l'année de la création de la communauté d'agglomération, sont progressivement rapprochés du taux de taxe professionnelle unique voté la première année par le conseil de l'EPCI. Toutefois, l'application aux bases de taxe professionnelle unique de taux différents selon les communes ainsi calculés détermine un produit assuré, différent du produit voté par l'EPCI. Afin de rapprocher ces deux produits, on ajoute ou retranche à chaque taux lissé un coefficient de correction égal au rapport, multiplié par cent, de la différence entre le produit voté et le produit assuré, par les bases de taxe professionnelle intercommunales prévisionnelles. Par ailleurs, les collectivités doivent voter leurs taux avant le 31 mars de l'année considérée, au vu des états de notification des bases émis par les services fiscaux au 31 janvier, sur lesquels figurent les bases prévisionnelles qui sont à ce moment précis les seules connues. Ainsi, puisque l'EPCI vote son taux de taxe prévisionnelle en fonction des bases prévisionnelles, il convient de retenir ces mêmes bases pour le calcul des taux lissés applicables sur les communes membres. S'agissant des bases prévisionnelles de taxe professionnelle, il convient d'observer qu'elles sont dans la plupart des cas égales aux bases définitives. Toutefois si un écart notable est constaté, la communauté en est avertie par les services fiscaux, afin qu'elle puisse éventuellement modifier son taux.
