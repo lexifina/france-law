@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931103739
+
+- Question : [SEQ931103739](seq931103739.md) — Violence et insécurité dans les établissements scolaires réunionnais
+
+## Réponse
+
+*Éducation, JO du 1994-04-07, page 793*
+
+Réponse. - Plusieurs mesures ont été prises pour lutter contre la violence dans les établissements scolaires. Pour la réduire, le renforcement de la présence des adultes constitue l'une des priorités. En ce qui concerne les moyens en personnels ATOS, entre 1991 et 1993, l'académie de la Réunion a bénéficié de 142 emplois supplémentaires et 31 emplois lui seront attribués à la rentrée scolaire de 1994, soit 9,5 p. 100 des moyens nouveaux ouverts aux lois de finances de la période correspondante. Ce pourcentage est sensiblement supérieur à celui que représente le volume des moyens ATOS implantés à la Réunion (1 775 emplois) par rapport aux effectifs globaux en personnels de cette nature (156 083 emplois). Parallèlement à l'effort entrepris en matière de création d'emplois, une aide particulière a été apportée au niveau des moyens de suppléance : en effet, la part attribuée à la Réunion correspond à 5 p. 100 de sa dotation globale en personnels ATOS, alors que la moyenne nationale est de l'ordre de 3 p. 100. Une démarche interministérielle a été engagée avec les ministères de la ville, de la défense nationale et les DOM-TOM afin que l'expérience de mise à disposition d'appelés du contingent dans les établissements scolaires, dont on connaît les effets extrêmement bénéfiques en métropole, puisse être étendue à la Réunion et dans les autres départements. Enfin, le ministre de l'éducation nationale a obtenu que, dans le cadre du prélèvement de 5 milliards de francs sur l'emprunt d'Etat de 6 p. 100 au titre de la politique de la ville, une enveloppe soit à titre exceptionnel réservée pour la rénovation des écoles de la Réunion situées dans les quartiers sensibles.
