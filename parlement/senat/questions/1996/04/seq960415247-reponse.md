@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960415247
+
+- Question : [SEQ960415247](seq960415247.md) — Mise en valeur touristique de la Creuse et de la région Limousin
+
+## Réponse
+
+*Équipement, JO du 1996-06-27, page 1596*
+
+Réponse. - L'Agence française de l'ingénierie touristique (AFIT), constituée sous forme de groupement d'intérêt économique en mars 1993, a pour mission l'amélioration de la compétitivité de l'offre touristique française. Cette structure partenariale a une vocation essentiellement technique d'analyse, de réflexion, de capitalisation de compétences et de diffusion de son savoir-faire, et enfin d'expérimentation. L'agence n'a pas de politique territoriale propre, au sens où l'entend la Délégation à l'aménagement du territoire et à l'action régionale, pour les zones rurales fragiles ; elle agit en tant que conseil technique de celle-ci. L'AFIT travaille surtout avec les collectivités et leurs émanations des comités régionaux du tourisme (CRT), des comités départementaux du tourisme (CDT) et des offices du tourisme, pour les aider à élaborer des stratégies de développement, accompagner parfois la mise en oeuvre des schémas de développement tourisque, mettre au point une méthodologie sur les projets de stations et développer une démarche qualifiée sur le littoral. L'AFIT intervient également de façon plus ponctuelle afin de répondre à des demandes qui lui sont faites. A titre d'exemple, elle collabore avec le département de la Creuse sur la " filière vélo ", en application d'une étude nationale déterminant les voies et moyens d'un développement de l'offre française en la matière. En 1996, la CDT de la Creuse a d'ailleurs souhaité faire partie des membres associés de l'AFIT ; il reçoit ainsi toutes les publications de celle-ci et est régulièrement tenu informé des travaux en cours et de leur évolution.
