@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930601576
+
+- Question : [SEQ930601576](seq930601576.md) — Sociétés de caution mutuelle
+
+## Réponse
+
+*Économie, JO du 1993-09-30, page 1788*
+
+Réponse. - Le règlement du comité de la réglementation bancaire n° 92-14 du 23 décembre 1992, homologué par arrêté du ministre de l'économie, a modifié les règles de capital minimal applicables aux différentes catégories d'établissements de crédit afin de mettre la réglementation en conformité avec les règles posées par la deuxième directive bancaire du Conseil des communautés européennes, en date du 15 décembre 1989. Les sociétés de caution mutuelle qui entrent dans la catégorie des sociétés financières doivent disposer d'un capital d'au moins 7,5 millions de francs (le capital exigé est de 35 millions de francs pour les banques et de 15 millions de francs pour les autres sociétés financières). Auparavant, les sociétés de caution mutuelle pouvaient bénéficier d'une exonération du respect des règles de capital minimal dès lors que leurs risques pouvaient être contre-garantis par un établissement de crédit. Cette clause d'exonération n'était pas en conformité avec la deuxième directive bancaire et a dû être supprimée. Afin de permettre aux sociétés de caution mutuelle de respecter le capital minimal requis par la nouvelle réglementation, le Gouvernement a pris un décret, en date du 25 juin 1993, qui habilite le comité des établissements de crédit, organisme qui agrée tous les établissements de crédit, à délivrer un agrément collectif à une banque mutualiste et coopérative et aux sociétés de caution mutuelle qui lui accordent statutairement l'exclusivité de leur cautionnement. Il convient que ces sociétés aient conclu au préalable avec la banque mutualiste et coopérative une convention de nature à garantir leur liquidité et leur solvabilité. Ces dispositions réglementaires devraient permettre aux sociétés de caution mutuelle de répondre aux nouvelles règles prudentielles.
