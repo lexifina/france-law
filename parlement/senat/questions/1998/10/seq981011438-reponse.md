@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981011438
+
+- Question : [SEQ981011438](seq981011438.md) — Concomitance des prochaines élections municipales et cantonales
+
+## Réponse
+
+*Intérieur, JO du 1998-12-03, page 3876*
+
+Réponse. - Aux termes de l'article L. 227 du code électoral, les conseillers municipaux, élus pour six ans, sont renouvelés intégralement au mois de mars à une date qui est fixée, au moins trois mois auparavant, par décret pris en conseil des ministres. L'article L. 192 du même code prévoit que les conseillers généraux, élus pour six ans, sont renouvelés au mois de mars. Les élus concernés par les prochaines élections cantonales et municipales générales sont, d'une part, en application de la loi nº 94-44 du 18 janvier 1994, les conseillers généraux élus les 20 et 27 mars 1994, dont le mandat a été porté à sept ans, d'autre part, les conseillers municipaux élus les 11 et 18 juin 1995, dont le mandat, aux termes de la loi nº 94-590 du 15 juillet 1994, viendra à échéance en mars 2001. Les modifications apportées par les deux textes susmentionnés aux dispositions relatives à la durée des mandats des conseillers généraux et des conseillers municipaux trouvent leur justification dans la volonté du législateur de permettre un regroupement des scrutins dans la même période, afin de lutter contre l'abstentionnisme. Le Conseil constitutionnel a, dans sa décision nº 93-331 DC du 13 janvier 1994, rangé cette motivation au nombre de celles qui permettaient de modifier de manière exceptionnelle la durée d'un mandat. En l'état actuel des textes, le Gouvernement n'est donc pas tenu d'organiser les scrutins concernés le même jour, dès lors qu'ils ont lieu au mois de mars. Cependant, sauf modification législative ultérieure ou circonstances particulières, et compte tenu des expériences récentes, la tenue de ces élections le même jour est l'hypothèse la plus probable.
