@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871108722
+
+- Question : [SEQ871108722](seq871108722.md) — Taux de radioactivité maximaux autorisés dans les aliments
+
+## Réponse
+
+*Affaires européennes, JO du 1988-02-11, page 187*
+
+Réponse. -Depuis l'échéance du 31 octobre 1987 qu'il s'était lui-même fixée pour adopter un règlement-cadre fixant les niveaux maximaux admissibles de radioactivité dans les denrées alimentaires en cas d'accident nucléaire, il aura fallu quatre réunions du conseil pour parvenir à un accord. Une majorité qualifiée a pu être trouvée lors de la session du 14 décembre dernier pour adopter comme le souhaitait la France, un régime qui, dans l'hypothèse d'un éventuel incident devrait permettre d'éviter les réactions dispersées des Etats membres que la Communauté a connues après l'incendie de Tchernobyl. Les valeurs retenues sont plus sévères que celles recommandées par les experts scientifiques de la Communauté, pour ce qui concerne le césium, tout en différant sensiblement des valeurs provisoires du règlement 1707, dont chacun, à commencer par la commission, s'accordait à reconnaître qu'elles n'avaient pas de justification sur le plan sanitaire et scientifique : 1000 becquerels par kilogramme ou litre, contre 370 dans le règlement provisoire, pour les produits laitiers et 1 250 becquerels par kilogramme contre 600 pour les autres denrées. Cet accord sera définitivement adopté par le conseil dès qu'aura été émis l'avis du Parlement européen. Le règlement 1707 fera parallèlement l'objet d'un renouvellement s'agissant des effets de l'accident de Tchernobyl lui-même. Enfin, le conseil du 14 décembre a adopté une décision sur la mise en place d'un système communautaire d'échange rapide d'informations en cas d'accident nucléaire ainsi qu'une décision sur l'approbation de la conclusion de la convention de l'A.I.E.A. sur la notification rapide d'un accident nucléaire.
