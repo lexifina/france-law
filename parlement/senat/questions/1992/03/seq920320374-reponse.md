@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920320374
+
+- Question : [SEQ920320374](seq920320374.md) — Commémoration de la fin de la guerre d'Algérie
+
+## Réponse
+
+*Anciens combattants, JO du 1992-04-23, page 1004*
+
+Réponse. - L'année 1992 est effectivement celle du 30e anniversaire de la fin du conflit en Afrique du Nord. Dans cette perspective, le Gouvernement tient à marquer avec une particulière attention la mémoire des victimes du conflit et à rendre un hommage solennel aux anciens combattants qui servirent alors leur pays avec dignité et abnégation. Le Président de la République a fixé dès 1981 le principe d'un libre choix de la journée du souvenir afin de ne pas susciter d'opposition stérile parmi les organisations représentatives du monde combattant, qui souhaitent célébrer ce souvenir soit le 19 mars, date anniversaire du cessez-le-feu de 1962 en Algérie, soit le 16 octobre, date anniversaire transfert à Notre-Dame de Lorette du soldat inconnu d'Algérie en 1977. Aussi est-ce dans le respect d'une stricte égalité de traitement entre les associations attachées à l'une ou à l'autre de ces journées du souvenirs que les pouvoirs publics participeront aux journées commémoratives. De ce fait, ces cérémonies n'auront pas de caractère officiel. Les préfets de région, de département, ou, le cas échéant, les sous-préfets d'arrondissement et les autorités militaires de rang correspondant seront présents. Les honneurs militaires seront rendus par un détachement dont la composition sera définie en fonction du niveau de la cérémonie. Et, pour rendre, en cette année du trentième anniversaire, un hommage particulièrement solennel au monde combattant, la présence des membres du Gouvernement sera autorisée pour les cérémonies nationales et, le cas échéant, dans les départements, en raison des mandats locaux que certains d'entre eux peuvent exercer.
