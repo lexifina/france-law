@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940606531
+
+- Question : [SEQ940606531](seq940606531.md) — Agence pour l'enseignement français à l'étranger : gestion des postes de résidents
+
+## Réponse
+
+*Affaires étrangères, JO du 1994-10-06, page 2389*
+
+Réponse. - La réforme introduite par le décret no 90-469 du 31 mai 1990 a très largement amélioré la situation administrative et financière des personnels recrutés locaux titulaires, puisque ceux-ci, désormais appelés résidents, sont des personnels de l'agence pour l'enseignement français à l'étranger, qui les rémunère et leur propose un contrat, au même titre que les personnels expatriés ; aux résidents est désormais garanti le même traitement que leurs collègues exerçant en région parisienne. Dans une même communauté scolaire, les résidents se répartissent habituellement en deux catégories : ceux qui sont établis à demeure dans le pays de résidence et ceux qui s'installent pour un séjour plus bref, soit qu'ils accompagnent leur conjoint, soit qu'ils aient choisi de venir enseigner dans l'établissement. L'agence est favorable à une telle cohabitation qui ménage le renouveau pédagogique dans l'intérêt des élèves. En revanche, l'agence est tout à fait opposée à des initiatives qui viseraient à supprimer un poste de résident pour accueillir un recruté local. Dans le cas précis que cite l'honorable parlementaire, il n'a été procédé à aucune transformation de poste : l'emploi de conseiller l'éducation ouvert à la rentrée de 1994 au lycée Théodore-Monod de Nouakchott est une création, à pourvoir par recrutement local. Etant donné la présence sur place d'une conseillère d'éducation titulaire, l'agence a donné instruction à la mission de coopération et d'action culturelle en Mauritanie de veiller à ce que cet agent soit effectivement recruté de préférence à tout autre candidat.
