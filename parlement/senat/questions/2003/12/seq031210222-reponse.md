@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031210222
+
+- Question : [SEQ031210222](seq031210222.md) — Situation des six Français détenus à Guantanamo
+
+## Réponse
+
+*Affaires étrangères, JO du 2004-02-05, page 283*
+
+La situation des personnes détenues sur la base américaine de Guantanamo fait l'objet d'un suivi très attentif de la part du Gouvernement. La France, depuis janvier 2002, est en contact régulier avec les autorités américaines sur ce dossier, que le garde des sceaux a évoqué à plusieurs reprises avec son homologue américain. Elle a demandé notamment aux Etats-Unis que des informations précises lui soient communiquées quant aux faits reprochés à ses compatriotes et aux charges qui pèsent sur eux. Les autorités américaines ont accepté le principe d'une nouvelle mission française à Guantanamo, qui aura lieu dans le courant du mois de janvier. Les autorités françaises se sont déclarées, dès le début, favorables au principe d'un jugement en France et n'ont pas manqué de rappeler que ces nationaux, tout comme les 660 autres détenus, devaient bénéficier des garanties reconnues par le droit international concernant les conditions de leur détention et le droit à un procès juste et équitable. La France se concerte par ailleurs sur ce dossier avec ceux de ses partenaires européens qui ont également des ressortissants détenus à Guantanamo. Cette question a été abordée à Bruxelles, le 18 novembre 2003, lors de l'entretien des ministres des affaires étrangères européens avec le secrétaire d'Etat américain, qui a reconnu la nécessité de trouver une solution aussi rapide que possible pour les Européens détenus à Guantanamo. Le ministère des affaires étrangères reste en contact régulier avec les familles des ressortissants français et avec leurs avocats, qui ont été à nouveau reçus le 2 décembre 2003.
