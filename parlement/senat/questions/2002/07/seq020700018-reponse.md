@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700018
+
+- Question : [SEQ020700018](seq020700018.md) — Mise en place d'un plan cohérent de développement de l'industrie touristique antillaise
+
+## Réponse
+
+*Équipement, JO du 2002-09-26, page 2155*
+
+Les professionnels du tourisme dans les départements d'outre-mer, notamment aux Antilles, ont fait part aux autorités publiques des difficultés auxquelles ils ont été confrontés en fin d'année 2000 et au premier trimestre 2001, en faisant porter la responsabilité de la situation dégradée de l'activité touristique sur les conditions de la desserte aérienne, en particulier avec la métropole. Les ministres en charge des transports, du tourisme et de l'outre-mer ont diligenté, en mai 2001, une mission interministérielle afin, d'une part, de dresser un constat de la situation de la desserte aérienne et d'analyser les raisons de la baisse de fréquentation des structures hôtelières, et, d'autre part, de proposer des solutions d'amélioration. Le dépôt de bilan des compagnies AOM et Air Liberté intervenu en cours de mission a conduit à la rédaction d'un rapport traitant plus spécifiquement de la desserte aérienne des DOM et de Mayotte depuis et vers la métropole en présentant des propositions d'amélioration. En mars 2002, le ministre en charge du tourisme a demandé à l'agence française d'ingénierie touristique de réaliser une mission d'expertise de la situation de l'offre touristique en Martinique et en Guadeloupe et de formuler des propositions en vue de son amélioration. Le rapport issu de cette mission a été remis en juin dernier. Il préconise un certain nombre de pistes de travail qui seront soumises à un examen attentif du Gouvernement afin de déterminer les moyens à mettre en place pour remédier à la situation actuelle. Ils seront communiqués à l'honorable parlementaire dès qu'ils auront été définis.
