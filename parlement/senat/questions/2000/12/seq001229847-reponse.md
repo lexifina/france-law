@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001229847
+
+- Question : [SEQ001229847](seq001229847.md) — Inventaire du patrimoine immobilier des centres de vacances et de loisirs
+
+## Réponse
+
+*Jeunesse, JO du 2001-04-26, page 1456*
+
+Réponse. - Mme la ministre de la jeunesse et des sports a été très attentive à l'avis rendu le 28 juin 2000 par le Conseil économique et social sur l'accueil des jeunes en centres de vacances et de loisirs. Elle est en effet très soucieuse de la qualité des conditions matérielles d'accueil des jeunes dans ces centres. Elle a donc demandé à ses services une étude afin de mesurer l'état du patrimoine immobilier des centres de vacances et de loisirs, l'ampleur des travaux nécessaires pour une mise aux normes et de déterminer les différentes options pour réaliser ces travaux. Selon les premiers résultats de cette étude toujours en cours, une baisse du nombre de centres de vacances a été constatée puisqu'ils sont passés de 9994 en 1994, à 6957 en 2000. Les principales difficultés rencontrées par les propriétaires proviennent du fait qu'il s'agit de locaux utilisés de façon occasionnelle. Le type de travaux à effectuer concerne, d'une part, la mise aux normes d'hygiène et de sécurité et, d'autre part, l'amélioration des installations pour répondre aux attentes actuelles des publics concernés en terme de confort et d'adaptation aux activités pratiquées. Dans le même temps, les crédits du ministère de la jeunesse et des sports affectés à la rénovation du patrimoine des centres de vacances et de loisirs sont passés de 10 millions de francs en 1998 à 32,5 millions de francs en 2001. Ces crédits sont essentiellement utilisés pour la mise aux normes des installations appartenant à des associations et pour la réalisation de travaux permettant de faciliter l'accès des mineurs handicapés aux séjours en centres de vacances.
