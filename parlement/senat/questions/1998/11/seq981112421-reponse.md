@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981112421
+
+- Question : [SEQ981112421](seq981112421.md) — Compétences des responsables des parcs et des pays
+
+## Réponse
+
+*Aménagement du territoire, JO du 2001-02-08, page 496*
+
+Réponse. - La ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question relative à la superposition possible d'un pays et d'un parc naturel régional. Le quatrième alinéa de l'article 22 de la loi nº 95-115 du 4 février 1995 modifiée d'orientation pour l'aménagement et le développement du territoire dispose que si le territoire du pays recouvre une partie du périmètre d'un parc naturel régional ou si le territoire d'un parc naturel régional recouvre une partie du territoire d'un pays et qu'il ne peut être procédé à l'harmonisation de périmètres, la reconnaissance de la dernière entité constituée nécessite la définition préalable, par convention passée entre les parties concernées, des missions respectives confiées aux organismes de gestion du parc naturel régional et du pays sur les parties communes. Soucieux de clarifier les conditions de contractualisation, le Gouvernement a souhaité préciser dans le décret 2000 nº 909 portant l'application de l'article 22 de la loi susmentionnée, que la convention signée entre le pays et le parc naturel régional définit notamment les domaines d'action pour lesquels l'organisme de gestion du parc naturel régional a vocation exclusive à assurer, le cas échéant par voie de contrat particulier, la cohérence des actions programmées par l'Etat et les collectivités territoriales sur ces parties communes. Par ailleurs, il convient de souligner, qu'adoptée par décret du Premier ministre et opposable aux documents d'urbanisme, la charte d'un parc naturel régional prévaut en tout état de cause sur la charte d'un pays pour les parties communes.
