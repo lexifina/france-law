@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980709732
+
+- Question : [SEQ980709732](seq980709732.md) — Diversification des activités des exploitants agricoles et artisanat
+
+## Réponse
+
+*Agriculture, JO du 1998-12-10, page 3944*
+
+Réponse. - Il résulte des débats parlementaires devant l'Assemblée nationale que la nouvelle définition de l'activité agricole a pour objet de mettre à la disposition de l'agriculture la palette d'outils qui lui est désormais nécessaire pour répondre avec souplesse et efficacité à une logique, sociale, économique, et environnementale qui correspond aux aspirations de développement équilibré et durable de notre société. Mais elle ne doit pas inquiéter les artisans et commerçants pour deux raisons. D'une part, cette nouvelle définition s'exerce spécifiquement pour l'application des livres III et IV (nouveaux) du code rural. Elle ne touche en aucun cas au régime de protection sociale, à la fiscalité, ni au droit de l'urbanisme. Son application se limite ainsi pour l'essentiel à l'attribution de la dotation jeunes agriculteurs, au contrôle des structures ou à l'application du statut du fermage... D'autre part, cette nouvelle définition est bien circonscrite : en ce qui concerne les travaux, c'est avec le seul matériel de l'exploitation, et à titre accessoire, notion dont la portée est parfaitement définie par l'article 75 du CGI, que ceux-ci peuvent être réputés agricoles. En ce qui concerne l'hébergement et la restauration, ces activités doivent elles aussi rester dans ces limites de l'accessoire. Ces précisions qui procèdent d'une première lecture du projet de loi devant l'Assemblée nationale sont donc de nature à apaiser les préoccupations des représentants professionnels du commerce et de l'artisanat. Il conviendra cependant dans les débats ultérieurs de conserver cet équilibre.
