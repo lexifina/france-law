@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021103901
+
+- Question : [SEQ021103901](seq021103901.md) — Modification des dispositions de la loi SRU relatives à l'obligation de construction par les communes de logements sociaux
+
+## Réponse
+
+*Équipement, JO du 2003-01-23, page 267*
+
+L'honorable parlementaire attire l'attention du Gouvernement, sur les dispositions de l'article 55 de la loi relative à la solidarité et au renouvellement urbains (SRU) qui prévoient un prélèvement sur les ressources fiscales des communes de plus de 3 500 habitants tant que l'objectif de 20 % de logements locatifs sociaux, dont elles doivent disposer, n'est pas atteint. Le Gouvernement n'entend pas remettre en cause le principe de mixité sociale qui constitue le socle de la solidarité nationale. Par contre, le Sénat a adopté, dans le cadre d'une proposition de loi, un dispositif contractuel qui propose aux communes de s'engager sur la production de nouveaux logements sociaux. Ce mécanisme suspendrait les prélèvements a priori pour les remplacer par d'éventuelles sanctions financières a posteriori si la commune n'a pas respecté ses engagements. Les communes qui ne souhaiteraient pas s'engager de la sorte resteraient soumises au dispositif actuel de l'article 55. La proposition de loi sénatoriale prévoit de donner au préfet un pouvoir d'appréciation encadré pour moduler les engagement de production de logements sociaux pris par une commune si cette dernière se trouve confrontée à de réelles contraintes notamment foncières. De même, elle prévoit de donner aux structures intercommunales la possibilité de répartir dans le cadre d'un programme local de l'habitat (PLH) les opérations de construction de logements sociaux entre les diverses communes de l'agglomération. Cette proposition de loi vient d'être transmise à l'Assemblée.
