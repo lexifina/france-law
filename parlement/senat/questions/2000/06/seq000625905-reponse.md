@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000625905
+
+- Question : [SEQ000625905](seq000625905.md) — Reconnaissance professionnelle des conjoints collaborateurs
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2000-09-14, page 3193*
+
+Réponse. - La nécessité d'améliorer la reconnaissance professionnelle des conjoints collaborateurs est une question importante, liée au développement des très petites entreprises. Au stade actuel des travaux, il n'apparaît plus opportun de retenir la présomption de statut pour assurer à un plus grand nombre de conjoints une couverture sociale propre en raison, notamment, de l'opposition manifestée par les milieux professionnels. En effet, ces derniers ont fait prévaloir leur souci de préserver une liberté de choix quant au paiement d'une cotisation spécifique pour la retraite. A côté des statuts de conjoint salarié et de conjoint associé définis par la loi du 10 juillet 1982, qui semblent devoir être privilégiés chaque fois que la situation et l'activité de l'entreprise artisanale ou commerciale le permettent, la journée des droits des femmes du 8 mars 4000 a montré qu'en ce qui concerne le conjoint non rémunéré différents axes de progrès doivent encore être explorés pour pouvoir donner lieu à une construction juridique juste et consensuelle. La réflexion engagée avec tous les partenaires intéressés se poursuit donc, en vue d'un enrichissement raisonnable et équitable de ce statut qui, en tout état de cause, ne devra pas comporter de dispositions susceptibles de favoriser certaines pratiques d'abus ou de détournement de droit en matière d'activités réglementées, de droit social ou de relations du travail. Le secrétariat d'Etat aux petites et moyennes entreprises, au commerce, à l'artisanat et à la consommation demeure attentif à l'impact de l'activité de la petite entreprise artisanale au plan économique, et à la nécessité de donner aux conjoints des droits propres au plan social.
