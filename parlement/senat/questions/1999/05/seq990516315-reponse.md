@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990516315
+
+- Question : [SEQ990516315](seq990516315.md) — Conclusions du rapport sur la fiscalité du cognac
+
+## Réponse
+
+*Économie, JO du 2001-02-22, page 662*
+
+Réponse. - A la différence des moyens de production, les stocks, quelle que soit leur durée de détention, constituent par nature des biens destinés à la vente. Il ne serait dès lors pas justifié d'appliquer le régime des plus-values de cession d'éléments de l'actif immobilisé aux bénéfices que procure la cession d'un stock. Ce bénéfice constitue un revenu de l'exploitation soumis comme tel à l'impôt sur le revenu dans les conditions de droit commun. La mesure proposée constituerait d'ailleurs une aide d'Etat au secteur de l'agriculture contraire à la réglementation applicable dans le cadre de la politique agricole commune. Cela étant, afin de tenir compte de la situation particulière des viticulteurs producteurs de cognac, l'article 45 de la loi de finances pour 2000 autorise les exploitants agricoles soumis au régime simplifié d'imposition à évaluer, sur option, leurs stocks de spiritueux au prix de revient ou au cours du jour à la clôture de l'exercice si ce cours est inférieur au prix de revient. Lorsque l'option pour l'évaluation au prix de revient est exercée, ce même article prévoit que ces stocks peuvent donner lieu à la constitution de provisions. Les contribuables concernés bénéficient en outre de tous les allégements propres à la fiscalité agricole, tels que le mode particulier d'évaluation des stocks à rotation lente ou la possibilité de pratiquer en franchise d'impôt une déduction pour investissement qui constitue un avantage définitif lorsqu'elle est affectée à la production de tels stocks, auxquels s'ajoutent l'imposition du bénéfice selon une moyenne triennale et le système du quotient qui permettent de lisser les bénéfices imposables et d'atténuer l'effet de la progressivité de l'impôt en cas de réalisation d'un bénéfice exceptionnel.
