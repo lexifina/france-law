@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040712996
+
+- Question : [SEQ040712996](seq040712996.md) — Reconnaissance du diplôme national éducateur spécialisé belge
+
+## Réponse
+
+*Santé, JO du 2004-10-21, page 2409*
+
+En l'état actuel de la réglementation, les seules procédures de reconnaissance des diplômes, certificats ou titres du secteur social résultent de la transposition de directives du Conseil des Communautés, notamment les directives n°s 89/48/CEE et 92/51/CEE, et concernent uniquement les professions réglementées, en l'occurrence la seule profession d'assistant de service social. La profession d'éducateur spécialisé n'étant pas réglementée en France, il n'y a donc pas d'obligation légale ou réglementaire qui au plan national exige des personnes la possession d'une autorisation d'exercice pour exercer cette fonction. Il appartient en conséquence aux employeurs français intéressés par le recrutement de ces professionnels d'apprécier par eux-mêmes leur niveau de qualification, de connaissances, de compétences et d'aptitudes professionnelles. Concernant le secteur public (fonctions publiques Etat, territoriale, hospitalière), des décrets statutaires fixent des conditions d'accès particulières aux seuls ressortissants des Etats membres de l'Union européenne titulaires de titres ou diplômes en travail social européens. Pour ce faire, une commission d'assimilation des diplômes pour chaque fonction publique a été créée. Celle de la fonction publique hospitalière, créée par le décret n° 94-616 du 21 juillet 1994, présidée par un conseiller d'Etat, président du Conseil supérieur de la fonction publique hospitalière, est placée auprès du ministre chargé de la santé. Elle juge la valeur des diplômes de l'Union européenne qui lui sont soumis et se prononce par une décision motivée. Les décisions de la commission peuvent être contestées dans un délai de deux mois par recours gracieux auprès du président et par recours contentieux devant le Conseil d'Etat.
