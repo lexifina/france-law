@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020902587
+
+- Question : [SEQ020902587](seq020902587.md) — Statut des assistantes et assistants maternels
+
+## Réponse
+
+*Famille, JO du 2002-10-24, page 2481*
+
+Si les lois n° 77-505 du 17 mai 1977 et n° 92-642 du 12 juillet 1992 ont permis de donner un cadre à l'exercice du métier d'assistante et d'assistant maternels, les transformations multiples de notre société conduisent cependant à s'interroger sur la pertinence du maintien en l'état de son statut. Dans ce contexte, trois groupes de travail dont la composition a su prendre en compte l'ensemble des acteurs de ce secteur d'activité ont été mis en place à l'automne 2001, pour se pencher sur les évolutions potentielles de ce métier, au regard des mutations auxquelles ceux qui l'exercent sont désormais confrontés et des interrogations profondes qui les traversent. Ils ont rendu leurs conclusions en avril 2002. La soixantaine de propositions soumises peut pourtant permettre de dessiner les contours d'une réforme d'envergure du métier d'assistante et d'assistant maternels, qui occuperait une place centrale au sein de la politique de la famille et de l'enfance. Pour ces raisons et parce qu'il est sensible aux difficultés rencontrées par ce métier, le Gouvernement estime qu'il est opportun de faire évoluer cette profession. C'est pourquoi, parallèlement aux travaux menés par ses services, le ministre délégué à la famille a constitué un groupe de contact, composé de quatre députés et trois sénateurs. Le groupe a tenu une première réunion le 1er octobre 2002, sous la présidence du ministre délégué, au cours de laquelle il a dressé un état des lieux. Il se réunira régulièrement au cours des prochains mois afin de suivre ces travaux. Le ministre délégué souhaite présenter, au cours de la conférence de la famille qui se tiendra au printemps 2003, un ensemble de mesures visant à réformer ledit statut.
