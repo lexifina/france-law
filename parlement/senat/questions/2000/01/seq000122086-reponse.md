@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000122086
+
+- Question : [SEQ000122086](seq000122086.md) — Officialisation de la date du 19 mars 1962 comme date historique de la fin de la guerre d'Algérie
+
+## Réponse
+
+*Anciens combattants, JO du 2000-04-20, page 1430*
+
+Réponse. - L'honorable parlementaire évoque la question de la date de commémoration de la fin des hostilités en Afrique du Nord. Le secrétaire d'Etat à la défense chargé des anciens combattants tient à préciser qu'actuellement, pour ce qui concerne l'Afrique du Nord, aucune des dates historiques proposées ne fait l'unanimité, qu'il s'agisse de la date officielle retenue pour le début du conflit (31 octobre 1954), de celle de la mise en uvre du cessez-le-feu, lendemain de la signature des accords d'Evian (19 mars 1962) ou encore de celle qui marque l'indépendance de l'Algérie (2 juillet 1962). Cette absence d'unanimité a même suscité la proposition de dates sans rapport avec la guerre elle-même : celle de l'inhumation d'un soldat inconnu à la nécropole de Notre-Dame-de-Lorette (16 octobre 1977) ou encore celle de l'armistice de la première guerre mondiale (11 novembre 1918). Or, une telle date doit rassembler le peuple français, au même titre que le font le 8 mai, le 11 novembre ou la journée de la déportation. Ces trois dernières dates commémoratives ont d'ailleurs été fixées par des lois adoptées à l'unanimité du Parlement : en 1922 pour le 11 novembre, en 1954 pour la journée de la déportation et en 1979 et 1981 pour le 8 mai. Il doit donc en être, pour la commémoration de la guerre d'Algérie, comme il en a été pour les commémorations de la mémoire des précédents conflits contemporains, c'est-à-dire adoption à l'unanimité de l'Assemblée nationale et du Sénat d'une date unique rassemblant tous les Français. Or, tel n'est pas le cas aujourd'hui, la division du monde combattant sur cette question ne laissant pas augurer une unanimité parlementaire proche.
