@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970700356
+
+- Question : [SEQ970700356](seq970700356.md) — Mesures incitatives pour l'utilisation du carnet de santé
+
+## Réponse
+
+*Emploi, JO du 1998-02-05, page 394*
+
+Réponse. - Le carnet de santé a été distribué à environ 45 millions de personnes entre novembre 1996 et janvier 1997 pour un coût total d'environ 247 MF pour l'ensemble des régimes d'assurance maladie. Le coût unitaire est d'environ 5,50 F correspondant aux frais de fabrication (1,15 F), de routage (0,55 F) et frais postaux (3,80 F). La Caisse nationale de l'assurance maladie des travailleurs salariés a mis en place une méthode d'évaluation de l'utilisation du carnet de santé dont les premières conclusions viennent d'être rendues publiques. L'enquête menée par l'échelon national du service médical sur un échantillon de patients montre : un faible taux (6,3 %) de patients ne possédant pas le carnet (perdu ou non reçu) ; une utilisation partielle du carnet dans 32,8 % des cas, régulière dans 15,5 % des cas, une non-utilisation dans 51,7 % des cas ; que près d'un acte sur quatre et une hospitalisation sur cinq sont renseignés sur le carnet de santé ; que les facteurs influençant la bonne utilisation du carnet de santé sont l'âge (27 % d'utilisation à 20 ans contre plus de 70 % à partir de 80 ans), l'existence d'une ALD, la région de résidence du patient, une consommation médicale importante et le recours au généraliste plutôt qu'au spécialiste. Les études qualitatives faites par des instituts de sondage auprès des patients et des médecins montrent que le carnet de santé serait susceptible de modifier les comportements. La CNAMTS a réalisé en juillet une campagne de communication sur le sujet, destinée à conforter, à l'occasion de la période estivale, l'idée de l'utilité de l'usage du carnet de santé.
