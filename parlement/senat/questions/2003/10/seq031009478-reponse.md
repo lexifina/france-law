@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031009478
+
+- Question : [SEQ031009478](seq031009478.md) — Pratiques bancaires contraires à l'esprit de la loi " initiative économique "
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2003-12-04, page 3520*
+
+Le Gouvernement est très soucieux de permettre aux entreprises, quelle que soit leur importance, de bénéficier des financements nécessaires à leur lancement puis à leur développement. A cet effet, la loi n° 2003-721 du 1er août 2003 pour l'initiative économique, constitue un ensemble cohérent et pragmatique de mesures couvrant le champ complet de la vie des entreprises. Les résultats de cet effort semblent d'ores et déjà acquis puisque les créations d'entreprises, en France, sont en nette progression. Selon les dernières statistiques publiées par l'INSEE, en septembre 2003, 26 635 sociétés ont été créées, soit 2 349 de plus qu'en août 2003. Du deuxième au troisième trimestre 2003, les créations d'entreprises ont connu une hausse de 9,6 %. Ce succès est également le résultat d'un engagement du secteur bancaire, puisque les banques participent à la création d'entreprises. Ainsi, le cap de 30 000 prêts à la création d'entreprise (PCE) octroyés par la banque du développement des petites et moyennes entreprises (BDPME) a été franchi en septembre 2003. Or ce dispositif implique l'accord d'autant de prêts d'accompagnement par les établissements bancaires classiques. Enfin, la loi pour l'initiative économique a supprimé l'exigence d'un capital minimal pour la constitution d'une société à responsabilité limité (SARL). Désormais, le capital d'une SARL est librement déterminé par les associés au montant qu'ils jugent nécessaire. Dans ces conditions, si les créations d'entreprises continuent au même rythme, l'objectif de création de 200 000 entreprises par an sera atteint, voire dépassé.
