@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951112948
+
+- Question : [SEQ951112948](seq951112948.md) — Prise en charge des frais engagés lors de procès portant sur la responsabilité pénale des collectivités locales
+
+## Réponse
+
+*Fonction publique, JO du 1996-02-01, page 207*
+
+Réponse. - Aux termes de l'article 121-2 du code pénal, les personnes morales, à l'exclusion de l'Etat, sont responsables pénalement des infractions commises, pour leur compte, par leurs organes ou représentants. La responsabilité pénale des personnes morales n'exclut pas, toutefois, celle des personnes physiques auteurs ou complices des mêmes faits. Lorsque l'action pénale est intentée par la victime contre une collectivité territoriale, dans le domaine limité aux infractions commises dans l'exercice d'activités susceptibles de faire l'objet de conventions de délégation de service public conformément à l'article 121-2 susvisé, seul le patrimoine public est susceptible d'être mise en cause. De la même manière, les frais de procédure doivent être pris en charge par le budget de la collectivité. En revanche, quand la responsabilité pénale d'un élu, particulièrement de l'exécutif local, est mise en cause, la collectivité ne se trouve pas concernée par l'action. En effet, qu'il y ait faute personnelle ou faute de service, l'élu est visé en propre lorsqu'il est cité devant les tribunaux répressifs. De plus, la notion de faute détachable ou non détachable de sa fonction est étrangère au domaine de la responsabilité pénale. Il en résulte que les frais d'un procès pénal mettant en cause la responsabilité particulière d'un élu ne peuvent être pris en charge par la collectivité territoriale. Pour prévenir ce type de risque, il est par conséquent dans l'intérêt des élus locaux susceptibles d'être concernés de contracter des assurances couvrant, notamment, la prise en charge des frais de défense devant les tribunaux répressifs.
