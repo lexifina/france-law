@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020902323
+
+- Question : [SEQ020902323](seq020902323.md) — Accès au dossier médical
+
+## Réponse
+
+*Santé, JO du 2003-02-06, page 481*
+
+Les dispositions relatives à la facturation de l'accès aux informations personnelles de santé inscrites dans la loi du 4 mars 2002 ont pour but de protéger les personnes malades. Elles ont été introduites dans la loi pour répondre à des préoccupations exprimées fréquemment, selon lesquelles des personnes demandant à accéder aux informations personnelles de santé les concernant y renonçaient en raison des coûts occasionnés. Elles étaient nécessaires pour étendre à tous les établissements et professionnels de santé un principe déjà applicable aux dossiers médicaux des établissements publics de santé et privés participant au service public hospitalier, en vertu de la loi du 18 juillet 1978, relative notamment à la communication des documents administratifs. Ces dispositions sont une avancée réelle : elles interdisent dans tous les cas de facturer la simple consultation des informations personnelles de santé et, pour les copies remises, posent la règle de la facturation égale au plus au prix coûtant. Il semble que certains établissements publics de santé qui, jusqu'à présent, avaient choisi de ne pas faire payer les copies réalisées aient interprété les dispositions de la loi du 4 mars 2002 comme les y obligeant désormais. La facturation, qui peut dans certains cas correspondre à des coûts importants, reste une possibilité à l'appréciation des établissements. Cependant cette question nécessite un examen particulièrement attentif, puisqu'il faut concilier plusieurs principes ; ceux posés par les lois du 18 juillet 1978 et du 4 mars 2002 : celui du droit d'accès aux informations personnelles de santé, du coût des copies à la charge du demandeur, celui de l'autonomie et de la responsabilité de la personne malade.
