@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880700657
+
+- Question : [SEQ880700657](seq880700657.md) — Augmentation de la 2ème part de la DGE
+
+## Réponse
+
+*Intérieur, JO du 1988-09-01, page 965*
+
+Réponse. - La seconde part de la dotation globale d'équipement des communes que la loi du 20 décembre 1985 a instaurée en faveur de certaines communes, dont notamment les communes rurales, est répartie sous forme de subventions par opération. Si le système de la seconde part se révèle particulièrement adapté au financement des investissements des communes en question, il est néanmoins apparu que le mode de répartition des crédits de la D.G.E. des communes entre les deux parts, prévu par la loi du 20 décembre 1985, qui privilégie le critère de la population revenant aux communes soumises au régime de la seconde part, c'est-à-dire pour l'essentiel des communes de moins de 2 000 habitants : alors que ces communes bénéficiaient en 1984 et 1985 de plus de 38 p. 100 de la D.G.E. des communes, elles n'ont reçu en 1986 et 1987 que 34 p. 100 des crédits. Afin de mettre un terme à cette évolution, la loi n° 88-13 du 5 janvier 1988 d'amélioration de la décentralisation a supprimé le mécanisme de répartition en fonction de critères physico-financiers dont les effets peuvent varier d'une année à l'autre. Les crédits de la D.G.E. des communes sont désormais répartis entre les deux parts selon des proportions fixées par la loi. Ainsi, est-il prévu que 40 p. 100 de ces crédits vont à la seconde part, assurant à celle constatée antérieurement à l'entrée en vigueur de la loi du 20 décembre 1985. En application de ces dispositions, le montant de la seconde part de la D.G.E. pour l'exercice 1988 a été fixé à 901 405 francs, soit une progression de 38,4 p. 100. Il ne pourrait être envisagé de modifier ce nouveau dispositif qu'à l'issue de la période d'exercice du droit d'option comme le prévoit l'article 103.1 de la loi n° 83-8 du 7 janvier 1983 modifiée.
