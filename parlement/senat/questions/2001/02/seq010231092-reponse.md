@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010231092
+
+- Question : [SEQ010231092](seq010231092.md) — Publication locale des régimes indemnitaires des agents territoriaux
+
+## Réponse
+
+*Fonction publique, JO du 2001-06-07, page 1919*
+
+L'élaboration des règles relatives au régime indemnitaire des fonctionnaires territoriaux a été gouvernée par le principe de la transparence. C'est ainsi que l'ensemble des bases juridiques applicables à la fonction publique territoriale résultent de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale (articles 88 et 111) et du décret n° 91-875 du 6 septembre 1991. L'article 88 de la loi du 26 janvier 1984 précité prévoit que les collectivités locales peuvent définir le régime indemnitaire de leurs agents dans la limite de celui attribué aux fonctionnaires de l'Etat exerçant des fonctions équivalentes. Sur cette base, le décret du 6 septembre 1991 précité a identifié les services de l'Etat dont l'équivalence avec les fonctionnaires territoriaux permet de retenir leur régime indemnitaire comme référence. Il énumère ainsi en annexe, cadre d'emplois par cadre d'emplois, les régimes indemnitaires de l'Etat, lesquels résultent de dispositions réglementaires expresses, les montants ou le taux faisant l'objet le cas échéant de circulaires régulièrement mises à jour et portées à la connaissance des collectivités locales. Par ailleurs, la détermination des régimes indemnitaires résulte en application de l'article 88 précité de délibérations expresses de l'organe délibérant, lesquelles font l'objet d'une transmission au préfet et sont soumises aux règles de publicité s'attachant à toute délibération. Enfin, le montant du régime indemnitaire attribué aux agents d'une collectivité locale figure dans les documents budgétaires de cette dernière.
