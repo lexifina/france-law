@@ -1,9 +1,5 @@
 # Article ANNEXE I
 
-Fonctions exercées pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire
-
-(sauf lorsque ces fonctions sont exercées par des fonctionnaires appartenant à un corps dont le dernier échelon est doté d'un indice brut supérieur à 966)
-
 Chef des services d'exploitation.
 
 Premier fondé de pouvoir de l'agent comptable.
@@ -26,7 +22,7 @@ Responsable du courrier-vaguemestre.
 
 Chef de cabinet du directeur de la Caisse nationale militaire de sécurité sociale.
 
-Chef du bureau personnels et pensions.
+Chef du bureau du personnel et des rémunérations.
 
 Chef du bureau financier.
 
@@ -58,9 +54,7 @@ Chef de section documentation aux services médicaux.
 
 Chargé du secrétariat particulier du directeur de la Caisse nationale militaire de sécurité sociale.
 
-Chef de section aux services de direction.
-
-Chef de section réglementation aux services de direction.
+Chef de section ou de groupe aux services de direction.
 
 Deuxième fondé de pouvoir de l'agent comptable.
 
@@ -76,10 +70,46 @@ Chef du bureau des relations extérieures.
 
 Liquidateur de marchés.
 
-Adjoint au chef du bureau du personnel et des pensions.
+Adjoint au chef du bureau du personnel et des rémunérations.
 
 Adjoint au chef du bureau financier.
 
 Adjoint au chef du bureau réglementation.
 
 Chef de division aux services d'exploitation.
+
+Adjoint au chef du bureau contentieux.
+
+Adjoint au chef de bureau documentation.
+
+Responsable statistiques aux services de direction.
+
+Chef secrétariat aux services d'exploitation, aux services de direction, à l'agence comptable, au cabinet du directeur.
+
+Agent sécurité.
+
+Responsable du standard.
+
+Coordonnateur télétransmission.
+
+Adjoint au chef de division aux services d'exploitation.
+
+Responsable coordination médicale aux services médicaux.
+
+Responsable des antennes aux services médicaux.
+
+Responsable des paiements et des archives à l'agence comptable.
+
+Chef du bureau dépense à l'agence comptable.
+
+Chef du bureau recouvrement à l'agence comptable.
+
+Responsable étude et formation à l'agence comptable.
+
+Coordonnateur SESAM-VITALE.
+
+Chef du bureau formation professionnelle et communication interne.
+
+Secrétaire du président du conseil d'administration.
+
+Responsable de la coordination et de la gestion intégrée au bureau du personnel et des rémunérations.

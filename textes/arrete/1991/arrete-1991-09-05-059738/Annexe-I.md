@@ -80,54 +80,90 @@ Situation nouvelle à compter du 1er aou^t 1993 : indice brut :
 
 Ingénieur en chef
 
-7e échelon : indice brut : 801
+:------------------------: |
 
-6e échelon : indice brut : 771
+: ECHELON : INDICE BRUT : |
 
-5e échelon : indice brut : 710
+:----------:-------------: |
 
-4e échelon : indice brut : 659
+: 9e : 966 : |
 
-3e échelon : indice brut : 596
+: 8e : 916 : |
 
-2e échelon : indice brut : 537
+: 7e : 864 : |
 
-1er échelon : indice brut : 486
+: 6e : 811 : |
+
+: 5e : 759 : |
+
+: 4e : 701 : |
+
+: 3e : 641 : |
+
+: 2e : 593 : |
+
+: 1er : 541 : |
+
+:------------------------: |
 
 Ingénieur en chef de 1re catégorie
 
 2e classe
 
-8e échelon : indice brut : 771
+:------------------------: |
 
-7e échelon : indice brut : 732
+: ECHELON : INDICE BRUT : |
 
-6e échelon : indice brut : 681
+:----------:-------------: |
 
-5e échelon : indice brut : 635
+: 8e : 771 : |
 
-4e échelon : indice brut : 581
+: 7e : 732 : |
 
-3e échelon : indice brut : 530
+: 6e : 681 : |
 
-2e échelon : indice brut : 480
+: 5e : 635 : |
 
-1er échelon : indice brut : 450
+: 4e : 581 : |
+
+: 3e : 530 : |
+
+: 2e : 480 : |
+
+: 1er : 450 : |
+
+:------------------------: |
 
 1re classe
 
-4e échelon : indice brut : 966
+:------------------------: |
 
-3e échelon : indice brut : 901
+: ECHELON : INDICE BRUT : |
 
-2e échelon : indice brut : 830
+:----------:-------------: |
 
-1er échelon : indice brut : 750
+: 4e : 966 : |
+
+: 3e : 901 : |
+
+: 2e : 830 : |
+
+: 1er : 750 : |
+
+:------------------------: |
 
 Hors classe
 
-3e échelon : indice brut : HEA
+:------------------------: |
 
-2e échelon : indice brut : 1015
+: ECHELON : INDICE BRUT : |
 
-1er échelon : indice brut : 946
+:----------:-------------: |
+
+: 3e : HEA : |
+
+: 2e : 1015 : |
+
+: 1er : 946 : |
+
+:------------------------: |
