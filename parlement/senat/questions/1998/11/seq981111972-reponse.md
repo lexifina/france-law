@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981111972
+
+- Question : [SEQ981111972](seq981111972.md) — Réglementation relative au " message sanitaire " des paquets de cigarettes vendus en France
+
+## Réponse
+
+*Justice, JO du 1999-03-11, page 792*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que les services de la Chancellerie suivent avec attention les procédures judiciaires afférentes à l'application de la loi nº 91-32 du 10 janvier 1991 relative à la lutte contre le tabagisme et l'alcoolisme. Afin de modifier les habitudes de consommation, cette loi a interdit toute forme de publicité en faveur du tabac ou des produits de tabac et a imposé la mention d'un avertissement sanitaire sur les paquets de cigarettes ou de tabac. Par jugement du 9 juin 1997, le tribunal de grande instance de Paris a condamné la société Rothmans pour publicité illicite en faveur du tabac, considérant que l'adjonction des termes " selon la loi nº 91-32... " en tête du message sanitaire, affaiblissait la portée de celui-ci par l'ambiguïté des termes ajoutés. La cour d'appel de Paris, par arrêt du 20 octobre 1998, a infirmé ce jugement aux motifs que la mention " selon la loi " se borne à indiquer l'origine du message et n'est pas de nature à affecter la lisibilité de l'avertissement sanitaire. Il peut être observé que la cour d'appel a invoqué l'article 4, ] 3, de la directive 89/622/CEE du 13 novembre 1989 disposant que " les Etats membres peuvent prévoir que les avertissements sanitaires sont accompagnés de la mention de l'autorité qui en est l'auteur ". Cette décision ne saurait en toute hypothèse être appréciée isolément d'une jurisprudence qui fait une application stricte de la législation relative à la lutte contre le tabagisme et l'alcoolisme, objectif majeur de santé publique.
