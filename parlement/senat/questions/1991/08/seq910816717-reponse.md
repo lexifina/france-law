@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910816717
+
+- Question : [SEQ910816717](seq910816717.md) — Prise en charge des frais d'hébergement des enfants handicapés
+
+## Réponse
+
+*Handicapés, JO du 1991-12-05, page 2716*
+
+Réponse. - Lorsque le projet individuel pédagogique, éducatif et thérapeutique retenu pour un enfant, conformément à l'orientation prononcée par la C.D.E.S. nécessite un hébergement en internat dans un établissement d'éducation spéciale, le coût de cette prise en charge est intégralement imputé sur le prix de journée de l'établissement arrêté par le préfet du département et payé par les organismes d'assurance-maladie. L'établissement, agréé à ce titre, peut assurer cet hébergement dans ses propres locaux, dans des internats qu'il gère ou dans des internats gérés par d'autres organismes avec lesquels il passe convention. En revanche, lorsque le mode de prise en charge explicitement retenu pour l'enfant est celui de l'externat ou du semi-internat, mais que par ailleurs, pour la fréquentation de cet établissement et en raison de l'éloignement, l'enfant est confié à une famille d'accueil ou à une structure d'hébergement, les frais du placement familial de l'enfant sontcouverts, conformément à l'article 7-I de la loi n° 75-534 du 30 juin 1975 au titre de l'aide sociale, sans qu'il soit tenu compte des ressources de la famille. L'allocation d'éducation spéciale, éventuellement perçue du chef de cet enfant, doit toutefois venir en déduction des dépenses supportées, dans cette situation, par l'aide sociale. Les dispositions législatives et réglementaires actuellement en vigueur sur les institutions médico-sociales sont suffisamment souples pour permettre de trouver des solutions financières appropriées aux différentes modalités d'hébergement des enfants relevant de l'éducation spéciale, et n'appellent donc pas de modification particulière.
