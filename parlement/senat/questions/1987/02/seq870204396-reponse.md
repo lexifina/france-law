@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870204396
+
+- Question : [SEQ870204396](seq870204396.md) — Sous-administration de la région Nord-Pas-de-Calais
+
+## Réponse
+
+*Fonction publique, JO du 1987-03-19, page 418*
+
+Réponse. -La région Nord - Pas-de-Calais, sur laquelle l'honorable parlementaire attire l'attention du Gouvernement, comptait, en 1982, 127 700 agents de l'Etat. Ce nombre place la région considérée au troisième rang, immédiatement après la région Rhône-Alpes et la région Provence-Côte d'Azur. Mais, malgré l'importance de cet effectif de fonctionnaires, les départements du Nord et du Pas-de-Calais apparaissent moins favorisés lorsqu'on rapporte ce chiffre à celui de la population concernée. Cette région, qui comprend 3,2 agents pour 100 habitants, apparaît en effet en déficit par rapport à la moyenne nationale qui est de 3,8 agents pour 100. Ceci pourrait conduire à penser que la région est sous-administrée. Mais, en réalité, quels que soient les chiffres et le rang occupé, c'est par la qualité du service rendu aux usagers, par l'efficacité et la rapidité des prestations que peut s'apprécier la bonne administration d'une région. C'est pourquoi le ministre chargé de la fonction publique et du Plan est particulièrement attentif à la modernisation de l'administration. A cet effet, il préconise une " stratégie de la qualité " plutôt qu'un accroissement sans discernement des effectifs et des charges qui en sont la conséquence. Cette stratégie de la qualité passe par une meilleure formation des agents et, en raison du développement accéléré des technologies, la formation permanente doit être un des axes de cette stratégie. C'est pour cette raison qu'il a formé un groupe de travail placé sous la présidence d'un inspecteur général de l'administration qui devra approfondir cette question et formuler des propositions pour permettre, comme le souhaite l'honorable parlementaire, une adaptation constante des agents aux tâches qui leur sont assignées.
