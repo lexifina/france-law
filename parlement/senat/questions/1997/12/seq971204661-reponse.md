@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971204661
+
+- Question : [SEQ971204661](seq971204661.md) — Développement des unités d'hospitalisation mère-enfant
+
+## Réponse
+
+*Emploi, JO du 1998-04-02, page 1059*
+
+Réponse. - L'honorable parlementaire a appelé l'attention de la ministre de l'emploi et de la solidarité sur l'insuffisance d'unités d'hospitalisation mère-enfant dans le cadre de la prévention et de la prise en charge de la maltraitance des enfants. Il souhaite être informé des mesures envisagées par ses services dans ce domaine. Il convient préalablement de rappeler que la prévention et la prise en charge de la maltraitance reposent sur l'ensemble du dispositif de soins et sur l'action coordonnée des professionnels de santé mentale, des personnels des services de maternité et de pédiatrie, des services de protection maternelle et infantile et de santé scolaire et des praticiens libéraux. Lorsqu'une prise en charge hospitalière simultanée de la mère et de son enfant se révèle nécessaire, leur accueil est réalisé dans une unité d'hospitalisation mère-enfant. Toutefois il ne s'agit que d'une modalité de prise en charge parmi d'autres, telles que les soins ou interventions ambulatoires dispensés en centre médico-psychologique, en consultation de psychiatrie, voire au domicile des patients ou bien encore dans le cadre d'une hospitalisation à temps partiel. Les rapports annuels de secteurs de psychiatrie mettent en évidence l'existence de 47 unités d'hospitalisation mère-enfant et un recours à ce type de structures réalisé par 12 % des secteurs de pédopsychiatrie. Il appartient aux directeurs d'agences régionales de l'hospitalisation de remédier aux lacunes qu'ils identifient dans ce domaine, en fonction des besoins recensés et des priorités arrêtées au niveau de leur région, notamment à l'occasion de l'élaboration des schémas régionaux d'organisation sanitaire en psychiatrie, ces unités ayant généralement un caractère intersectoriel.
