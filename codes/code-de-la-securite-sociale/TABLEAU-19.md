@@ -1,89 +1,81 @@
-# Article Annexe II tableau 19
+# Article Annexe II : Tableau n° 19
 
-DESIGNATION DES MALADIES :
+SPIROCHETOSES (à l'exception des tréponématoses)
 
-A. -Toutes leptospiroses confirmées par un examen de laboratoire spécifique (identification du germe ou séro-diagnostic à un taux considéré comme significatif)
+DÉSIGNATION DES MALADIES
 
-DELAI DE PRISE EN CHARGE : 21jours
+|
 
-LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
+DÉLAI DE prise en charge
 
-Travaux exposant au contact d'eaux souillées ou effectués dans des lieux susceptibles d'être souillés par des déjections d'animaux porteurs de germes.
+|
 
-Travaux exposant au contact avec ces animaux ou leurs déjections.
+LISTE LIMITATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies
 
-Travaux effectués dans les mines et carrières (travaux de fond), les tranchées, les tunnels, les galeries, les égouts, les caves, les chais et les souterrains.
+|
 
-Travaux d'aménagement et d'entretien des cours d'eau.
+- A -
 
-Travaux de drainage.
+|
 
-Travaux dans les cimenteries.
+|
 
-Travaux effectués dans les abattoirs, les tueries particulières, les boucheries, les chantiers d'équarrissage.
+- A -
 
-Travaux effectués dans les usines de délainage.
+|
 
-Travaux exécutés dans les cuisines, les fabriques de conserves de viande ou de poisson, les poissonneries.
+Toute manifestation clinique de leptospirose provoquée par Leptospira interrogans. La maladie doit être confirmée par identification du germe ou à l'aide d'un sérodiagnostic d'agglutination, à un taux considéré comme significatif.
 
-Travaux effectués dans les laiteries, les fromageries.
+|
 
-Travaux effectués dans les brasseries.
+21 jours
 
-Gardiennage, entretien et réfection des piscines et des parcs aquatiques, surveillance des nageurs.
+|
 
-Travaux exécutés sur les bateaux et les péniches.
+Travaux suivants exposant au contact d'animaux susceptibles d'être porteurs de germe et effectués notamment au contact d'eau ou dans des lieux humides, susceptibles d'être souillés par les déjections de ces animaux : travaux effectués dans les mines, carrières (travaux au fond), les tranchées, les tunnels, les galeries, les souterrains ; travaux du génie ; travaux effectués dans les égouts, les caves, les chais ; travaux d'entretien des cours d'eau, canaux, marais, étangs et lacs, bassins de réserve et de lagunage ; travaux d'entretien et de surveillance des parcs aquatiques et stations d'épuration ; travaux de drainage, de curage des fossés, de pose de canalisation d'eau ou d'égout, d'entretien et vidange des fosses et citernes de récupération de déchets organiques ; travaux effectués dans les laiteries, les fromageries, les poissonneries, les cuisines, les fabriques de conserves alimentaires, les brasseries, les fabriques d'aliments du bétail ; travaux effectués dans les abattoirs, les chantiers d'équarissage, travaux de récupération et exploitation du cinquième quartier des animaux de boucherie ; travaux exécutés sur les bateaux, les péniches, les installations portuaires ; travaux des mariniers et dockers ; travaux de dératisation ; travaux de soins aux animaux vertébrés ; travaux dans les laboratoires de bactériologie ou de parasitologie.
 
-DESIGNATION DES MALADIES :
+|
 
-B. - Spirochétoses à tiques :
+- B -
 
-1. Manifestations primaires :
+|
 
-Erythème migrant de Lipschutz, avec ou sans signes généraux.
+|
 
-DELAI DE PRISE EN CHARGE : 1 mois
+- B -
 
-DESIGNATION DES MALADIES :
+|
 
-2. Manifestations secondaires :
+Les manifestations cliniques suivantes de borréliose de Lyme :
 
-Troubles neurologiques :
+1. Manifestation primaire : érythème migrant de Lipschutz, avec ou sans signes généraux
 
-- méningite lymphocytaire, parfois isolée, ou associée à :
+|
 
-- douleurs radiculaires ;
+30 jours
 
-- troubles de la sensibilité ;
+|
 
-- atteinte des nerfs périphériques et crâniens (syndrôme de Garin-Bujadoux Bannwarth).
+Travaux suivants exposant à la bactérie infestant des hôtes vecteurs (tiques du genre ixodes) ou des hôtes réservoirs (vertébrés sauvages ou domestiques) et effectués sur toute zone présentant un couvert végétal tel que forêt, bois, bocage, steppe ou lande : expertise agricole et foncière, arpentage et levé de plan ; pose et entretien des lignes électriques, téléphoniques, des réseaux de gaz, d'eau d'assainissement ; construction et entretien des voies de circulation. Travaux de soins aux animaux vertébrés. Travaux mettant au contact de l'agent pathogène ou de son vecteur dans les laboratoires de bactériologie et de parasitologie.
 
-Troubles cardiaques :
+|
 
-- troubles de la conduction ;
+2. Manifestations secondaires
 
-- péricardite.
+Troubles neurologiques : méningite lymphocytaire, parfois isolée ou associée à : - douleurs radiculaires ; - troubles de la sensibilité ; - atteinte des nerfs périphériques et crâniens (syndrome de Garin-Bujadoux-Bannwarth). Troubles cardiaques : troubles de la conduction ; Péricardite. Troubles articulaires : Oligoarthrite régressive.
 
-Troubles articulaires :
+|
 
-- oligoarthrites régressives.
+6 mois
 
-DELAI DE PRISE EN CHARGE : 6 mois
+|
 
-DESIGNATION DES MALADIES :
+3. Manifestations tertiaires
 
-3. Manifestations tertiaires :
+Encéphalo-myélite progressive. Dermatite chronique atrophiante. Arthrite chronique destructive. Pour les manifestations secondaires et tertiaires, le diagnostic doit être confirmé par une sérologie, à un taux considéré comme significatif pour un des sous-groupes génomiques de Borrelia burgdorferi.
 
-- encéphalomyélite progressive ;
+|
 
-- dermatite chronique atrophiante ;
+10 ans
 
-- arthrite chronique destructrice.
-
-DELAI DE PRISE EN CHARGE : 10 ans
-
-Pour toutes ces affections, le diagnostic doit être confirmé par un sérodiagnostic spécifique.
-
-LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
-
-Travaux effectués en forêt de manière habituelle.
+|
