@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020902386
+
+- Question : [SEQ020902386](seq020902386.md) — Situation financière du secteur ferroviaire
+
+## Réponse
+
+*Équipement, JO du 2002-11-07, page 2649*
+
+Lors de la création de Réseau ferré de France (RFF) au 1er janvier 1997, une dette de 20,5 milliards d'euros (134,2 milliards de francs) vis-à-vis de la SNCF a été inscrite au passif du nouvel établissement public. Cette dette a augmenté rapidement en 1997 et 1998, compte tenu du déséquilibre entre les besoins de financement de RFF et ses ressources. Afin de consolider la situation financière de RFF, des décisions importantes ont été prises en 1998 et au début de 1999. En effet, l'Etat s'est engagé à apporter à RFF, sous forme de dotations en capital, un montant total de 5,6 milliards d'euros (37 milliards de francs) sur la période 1999-2001 (les dotations précédentes ayant été de 1,2 milliard d'euros en 1997 et 1,5 milliard d'euros en 1998). En 2002, il est prévu de verser à RFF une dotation en capital de plus de 1,8 milliard d'euros. Par ailleurs, le niveau global des redevances d'utilisation de l'infrastructure, qui constituent la principale ressource de RFF, a été progressivement majoré pour atteindre 1,64 million d'euros (10,7 milliards de francs) en 2001, notamment pour tenir compte de la mise en service du TGV Méditerranée. Les dotations en capital accordées par l'Etat et le relèvement des redevances d'utilisation de l'infrastructure, combinés à une sélection rigoureuse des investissements sur fonds propres de RFF et à l'application des dispositions de l'article 4 du décret n° 97-444 relatif aux modalités de détermination de la contribution de RFF aux investissements d'infrastructure, doivent permettre de contenir la croissance de la dette de l'établissement public, qui devrait se stabiliser à 23 milliards d'euros (150 milliards de francs).
