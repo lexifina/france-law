@@ -44,7 +44,7 @@ B
 
 |
 
-- quartier des affaires maritimes n'étant pas le siège d'une direction départementale
+- direction départementale ou interdépartementale des affaires maritimes n'étant pas le siège d'une direction départementale
 
 |
 

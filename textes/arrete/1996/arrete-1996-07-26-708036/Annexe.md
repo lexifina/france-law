@@ -40,7 +40,7 @@ Directeurs départementaux des affaires maritimes (D.D.A.M.)
 
 |
 
-Chefs de quartier des affaires maritimes (Q.A.M.)
+Directeur départemental ou interdépartemental des affaires maritimes
 
 |
 

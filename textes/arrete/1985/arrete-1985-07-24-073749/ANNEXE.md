@@ -42,9 +42,9 @@ Régisseurs de l'agence comptable de l'ENIM :
 
 - 18, rue Victor-Hugo, 34200 Sète.
 
-- quartier des affaires maritimes, BP 563, 244, avenue de l'Infanterie-de-Marine, 38054 Toulon.
+- direction départementale ou interdépartementale des affaires maritimes, BP 563, 244, avenue de l'Infanterie-de-Marine, 38054 Toulon.
 
-Quartiers des affaires maritimes, sections caisse générale de prévoyance (CGP), caisse de retraite des marins (CRM), matricule navigation (MAT-NAV), contrôle médical :
+- direction départementale ou interdépartementale des affaires maritimes, sections caisse générale de prévoyance (CGP), caisse de retraite des marins (CRM), matricule navigation (MAT-NAV), contrôle médical :
 
 - 22, rue des Fusillers-Marins, 59385 DUNKERQUE CEDEX.
 
