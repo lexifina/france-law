@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980910880
+
+- Question : [SEQ980910880](seq980910880.md) — Situation des représentants des usagers dans les conseils d'administration des hôpitaux
+
+## Réponse
+
+*Emploi, JO du 1998-12-24, page 4129*
+
+Réponse. - L'honorable parlementaire a attiré l'attention de la ministre de l'emploi et de la solidarité sur les mesures envisagées en faveur des représentants des usagers siégeant dans les conseils d'administration des établissements publics de santé en matière d'autorisation d'absence pour assister aux séances des conseils d'administration et d'indemnisation d'éventuelles pertes de revenu subies à cette occasion. Comme cela était indiqué dans la réponse à la question écrite nº 8529, publiée au Journal officiel du 20 août 1998, il est envisagé d'accorder aux représentants des usagers des garanties analogues à celles dont bénéficient déjà les représentants élus des collectivités territoriales en reprenant les dispositions prévues aux articles L. 2123-2 et 2123-8 du code général des collectivités territoriales au bénéfice des conseillers municipaux. A l'instar de ce que prévoit l'article L. 2123-2 précité, les pertes de revenus subies du fait de l'assistance aux séances et réunions pourraient être compensées à raison de vingt-quatre heures par membre et par an ; chaque heure ne pourrait être rémunérée à un montant supérieur à une fois et demie la valeur horaire du salaire minimum de croissance. En ce qui concerne les autorisations d'absence, il est prévu que tout employeur est tenu de laisser à ses salariés, membres du conseil d'administration d'un établissement public de santé, le temps nécessaire pour se rendre et participer aux séances de ce conseil, aux réunions des commissions et instances statutaires de l'établissement, au sein desquelles ils ont été désignés pour représenter ledit conseil.
