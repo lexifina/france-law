@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960314743
+
+- Question : [SEQ960314743](seq960314743.md) — Remboursement des dépenses de santé concernant les enfants de couples séparés ou divorcés
+
+## Réponse
+
+*Travail, JO du 1996-08-08, page 2089*
+
+Réponse. - Aux termes de l'article R. 161-8 du code de la sécurité sociale, les parents désignent à tout moment, d'un commun accord, celui d'entre eux auquel les ayants droit sont rattachés pour le bénéfice des prestations. Actuellement, en cas de divorce avec garde conjointe, l'autorité parentale subsiste au profit des deux parents et la désignation du parent auquel les membres de la famille sont rattachés est effectuée, soit de façon explicite dans le jugement de divorce, soit par accord des ex-époux signifié à la caisse de sécurité sociale concernée. En cas de désaccord entre les parents, des difficultés peuvent survenir quant au remboursement des soins délivrés aux enfants. C'est notamment le cas lorsque le parent auquel la garde n'est pas attribuée, engage des dépenses pour l'enfant qui lui est confié durant une fin de semaine ou pendant les vacances scolaires. Cependant, le versement des prestations indifféremment sur le compte de l'un ou l'autre parent à tout moment soulèverait des difficultés juridiques, car l'article L. 313-3-2o du code de la sécurité sociale prévoit que l'on ne peu être ayant droit que d'un seul assuré. Afin de ne pas accroître les difficultés des familles concernées, les caisses primaires d'assurance maladie effectuent, de manière ponctuelle, le remboursement des prestations sur le compte du parent qui le souhaite, à condition que ce dernier effectue une demande expresse auprès de la caisse. La Caisse nationale d'assurance maladie des travailleurs salariés a d'ailleurs rappelé récemment aux caisses primaires la nécessité de recourir chaque fois qu'il est possible à cette pratique.
