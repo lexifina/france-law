@@ -1,0 +1,3 @@
+# Article VII-2
+
+Les fonctions d'encadrement et d'animation sont indispensables au bon fonctionnement des entreprises. Elles doivent notamment avoir pour objet l'amélioration des rapports humains à l'intérieur de l'entreprise et l'efficacité au bénéfice de la clientèle. A cet effet, elles ne sauraient être confondues avec la seule notion de contrôle disciplinaire et doivent privilégier de plus en plus les tâches de formation, de coordination et de conseil. Les fonctions du personnel d'encadrement doivent, quel que soit son niveau hiérarchique, être définies dans son contrat de travail par référence à la classification des emplois.
