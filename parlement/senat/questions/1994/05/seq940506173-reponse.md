@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940506173
+
+- Question : [SEQ940506173](seq940506173.md) — Suppression de lits d'hôpitaux
+
+## Réponse
+
+*Affaires sociales, JO du 1994-10-06, page 2392*
+
+Réponse. - L'honorable parlementaire a bien voulu attirer l'attention de Mme le ministre sur les perspectives de suppression de lits d'hôpitaux et plus précisément sur la possibilité de transformation de lits de court et moyen séjour en lits de long séjour. S'il est vrai que les capacités en lits de court séjour sont excédentaires du fait de l'évolution des pratiques médicales qui a permis la réduction des durées de séjours et le développement d'alternatives à l'hospitalisation, il est également exact que l'évolution démographique caractérisée par l'allongement de l'espérance de vie entraîne une augmentation des besoins en capacité de long séjour. La nécessité d'adapter l'offre de soins aux besoins de la population est rendue possible par l'article 37 de la loi no 94-43 du 18 janvier 1994 qui a permis aux hôpitaux de créer et gérer des structures d'hébergement pour personnes âgées. De plus, par le biais de l'article L. 712-17-1, les établissements sanitaires, soumis à un retrait d'autorisation pour des installations, équipements ou activités de soins, manifestement sous-utilisés ou sous-occupés, pourront proposer leur reconversion totale ou partielle, en vue notamment de créer des institutions sociales ou médico-sociales régies par la loi no 75-535 du 30 juin 1975, telles des maisons d'accueil spécialisé, des services de soins infirmiers à domicile, des hôpitaux de jour, des centres médico-psychologiques, etc. Par ailleurs, des groupes de travail communs à la direction des hôpitaux et à la direction de l'action sociale étudient les nouvelles propositions qui pourraient être faites pour faciliter les reconversions au mieux des intérêts de la population.
