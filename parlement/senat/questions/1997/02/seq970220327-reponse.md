@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970220327
+
+- Question : [SEQ970220327](seq970220327.md) — Taux de la taxe sur la valeur ajoutée (TVA) dans le secteur de la restauration
+
+## Réponse
+
+*Équipement, JO du 1997-04-03, page 1043*
+
+Réponse. - En matière de " restauration ", il convient de distinguer ce qui relève de la fourniture de denrées alimentaires (y compris les boissons, à l'exclusion des boissons alcooliques) de ce qui relève de la fourniture d'une prestation de restauration (aliments compris). La fourniture de denrées alimentaires, donc la vente de repas à emporter fait l'objet du taux réduit de TVA, comme le permettent les accords européens sur l'harmonisation des taux de TVA, notamment l'annexe H de la directive de 1992. La prestation de service fournie par les restaurants est assujettie au taux normal de TVA, soit 20,6 %. Au sein de l'Union européenne, les Etats membres se sont accordés pour assujettir au taux normal de la TVA les activités de restauration commerciale, malgré les demandes formulées par les représentants de la profession. Les Etats de l'Union européenne qui appliquaient un taux réduit à la restauration commerciale au moment de l'entrée en vigueur de ces dispositions, ont obtenu de continuer d'appliquer ce taux jusqu'en 1996 mais, au-delà, des mesures transitoires d'harmonisation sont prévues. En France, les commerces de ventes d'aliments et de repas à emporter se sont développés depuis quelques années. Les risques de distorsions de concurrence entre ces commerces et les restaurants ont été pris en compte. Ainsi, à la suite de la mission confiée à M. Salustro, membre du Conseil économique et social, pour étudier les règles fiscales les plus neutres au regard de la concurrence, une table ronde réunissant d'une part les ministères chargés de l'économie, du commerce et du tourisme et les professionnels d'autre part, sera prochainement amenée à étudier les solutions recommandées et à formuler des propositions
