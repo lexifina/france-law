@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870405879
+
+- Question : [SEQ870405879](seq870405879.md) — Influence des rythmes familiaux sur le comportement et sur les rythmes biologiques de l'enfant: bilan d'étude
+
+## Réponse
+
+*Jeunesse et sports, JO du 1987-07-16, page 1127*
+
+Réponse. -L'étude réalisée en 1985 pour le compte de l'administration de la jeunesse et des sports par l'Assicom (Association pour le développement des sciences de la vie et de la communication) a abouti à la rédaction du rapport ci-joint intitulé : " Méconnaissance de certaines lois biologiques dans l'organisation et le fonctionnement du système éducatif français ". L'objectif de ce travail était de contribuer à l'évolution progressive des mentalités, en apportant un certain nombre d'informations irréfutables sur la nécessité de respecter certaines règles fondamentales de chronobiologie dans le développement des enfants. Ce document a fait l'objet d'une large diffusion auprès des directions régionales et départementales de la jeunesse et des sports, qui l'ont ensuite répercuté auprès des élus et des responsables associatifs locaux. Il a également fait l'objet d'une information en direction des grandes associations nationales. Les conclusions de ce document ont été reprises avec des applications variables dans la mise en place de l'opération " Aménagement du temps scolaire " (200 000 enfants en 1985-1986, 300 000 enfants en 1986-1987), et dans le lancement de l'opération " Contrats bleus " dès la prochaine rentrée scolaire de septembre 1987 (plus d'un million d'enfants seront concernés). Toutes ces actions visent à proposer aux enfants de six à douze ans des activités sportives et culturelles qui prendront mieux en compte leurs rythmes de vie, avec des répercussions positives sur leur équilibre général, leur santé, et leurs résultats scolaires.
