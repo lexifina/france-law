@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870405693
+
+- Question : [SEQ870405693](seq870405693.md) — Suite réservée à une étude sur la promotion de l'emploi en zone défavorisée
+
+## Réponse
+
+*Agriculture, JO du 1987-07-16, page 1119*
+
+Réponse. -L'honorable parlementaire a appelé l'attention du ministre de l'agriculture sur les suites réservées à l'étude réalisée en 1985 par l'association nationale pour la promotion des entreprises dans l'aménagement rural (A.N.P.A.R.). Cet organisme agit en liaison avec les chambres consulaires et les collectivités territoriales, et à leur demande, selon des modalités de cofinancement. Son champ d'intervention s'étend de la détection, en amont, des problèmes et des potentialités d'une zone rurale, à l'accompagnement sur le terrain des actions préconisées, en insistant sur l'assistance technique et le conseil à la gestion. Les travaux confiés à l'A.N.P.A.R. relèvent donc plus de l'étude-action que de la recherche théorique et les suites qui leur sont réservées font, entreprise par entreprise, partie intégrante de la commande de l'administration. De telles actions permettent, en effet, de soutenir jusqu'à la réalisation les porteurs de projets de création d'entreprise, de faire passer un cap difficile à des entreprises dont la légitimité économique n'est pas en cause, ou encore de susciter le développement d'entreprises solides ne tirant pas le parti souhaitable de leurs potentialités. Par ailleurs, l'expérience accumulée par de telles démarches n'a pas été inutile lorsqu'il s'est agi de péciser les aspects méthodologiques de nouveaux dispositifs tels que les contrats locaux d'installation-reprise (C.L.I.R.) dont l'expérimentation a été décidée par le comité interministériel de développement et d'aménagement rural (C.I.D.A.R.) du 27 novembre 1986 que le ministre de l'agriculture a présidé au nom du Premier ministre, opération dont la mise en place est en cours.
