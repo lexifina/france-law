@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940204836
+
+- Question : [SEQ940204836](seq940204836.md) — Situation des veuves
+
+## Réponse
+
+*Affaires sociales, JO du 1994-04-07, page 782*
+
+Réponse. - La loi du 17 juillet 1980 (art. L. 356-1 et suivants du code de la sécurité sociale) instituant une assurance veuvage au profit des conjoints survivants ayant, ou ayant eu, des charges de famille a permis le renforcement de la protection sociale des assurés, notamment des femmes en situation d'isolement, et constitué une étape dans l'établissement du statut social de la mère de famille. Par ailleurs, le Gouvernement ne méconnaît pas les problèmes qui se posent aux personnes veuves ainsi que leurs aspirations. Des études sont en cours, tendant à la représentation par le Gouvernement, d'une loi cadre qui aura pour ambition de définir une politique globale de la famille et de proposer des mesures propres à améliorer la vie des familles dans ses multiples aspects et de renforcer la cohésion de notre société. C'est dans ce cadre que les problèmes relatifs à l'assurance veuvage et à la pension de reversion seront susceptibles d'être examinés, à commencer par la possibilité de porter le taux des pensions de reversion au-delà de 52 p. 100.
