@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870606447
+
+- Question : [SEQ870606447](seq870606447.md) — Prévention contre les fuites d'hexafluorure d'uranium naturel
+
+## Réponse
+
+*Industrie, JO du 1987-09-17, page 1474*
+
+Réponse. -La sûreté des installations nucléaires françaises repose sur le principe de la responsabilité des exploitants nucléaires qui agissent sous le contrôle des pouvoirs publics. Les exploitants nucléaires, par leur connaissance des installations, sont en effet les mieux à même de prendre les dispositions que la sûreté exige. Mais bien entendu, les pouvoirs publics exercent un contrôle rigoureux effectué, pour ce qui concerne les installations nucléaires de base, par le service central de sûreté des installations nucléaires du ministère de l'industrie, des P. et T. et du tourisme. Ainsi, la création des installations nucléaires de base est soumise à une procédure d'autorisation par décret dans le cadre de laquelle les dispositions prévues par les exploitants donnent lieu à un examen technique approfondi. Lorsqu'elles sont en exploitation, ces installations font l'objet d'une surveillance régulière effectuée par des inspecteurs assermentés. Dans le casparticulier des installations mettant en oeuvre de l'hexafluorure d'uranium, la prévention du risque de fuite est assurée par l'interposition entre ce produit et l'environnement de plusieurs barrières étanches (les circuits du procédé industriel, les locaux abritant ces circuits, les murs des bâtiments). Un soin tout particulier est apporté à la réalisation de la première barrière, c'est-à-dire les circuits contenant de l'hexafluorure d'uranium, et à la mise en place d'une instrumentation permettant la détection précoce des fuites éventuelles. L'expérience accumulée sur plusieurs usines depuis trente ans a montré que ces principes sont satisfaisants.
