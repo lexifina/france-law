@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020137862
+
+- Question : [SEQ020137862](seq020137862.md) — Inspecteurs de la Commission européenne
+
+## Réponse
+
+*Économie, JO du 2002-04-18, page 1115*
+
+Dans l'exercice de ses compétences, la Commission européenne demande régulièrement à ses services d'effectuer des enquêtes en matière de concurrence. Les enquêteurs européens disposent alors du pouvoir de procéder à des vérifications dans les locaux des entreprises ou des associations d'entreprises. A cette fin, la commission peut demander aux autorités de concurrence des Etats membres de prêter assistance à ses enquêteurs lors des interventions communautaires qui se déroulent sur leur territoire (art. 14 du règlement n° 17 du Conseil). La Cour de justice a précisé dans son arrêt Hoechst du 21 septembre 1989 que les Etats membres avaient à cet égard un devoir d'assistance vis-à-vis de la Commission. L'Etat membre ne peut pas contester la décision d'enquête de la Commission ni remettre en cause sa légalité. Seule la Cour de justice peut contrôler la légalité de cette décision. Il ne peut pas non plus, en contrepartie de son assistance, intervenir pour redéfinir ou réorienter une enquête communautaire. En cas de refus d'assistance de la part d'une autorité nationale ou de l'adoption d'un dispositif national qui créerait un obstacle à la mission de la Commission, celle-ci pourrait exercer un recours en manquement contre l'Etat membre, conformément à l'article 226 du traité sur l'Union européenne. Il convient de préciser que les interventions effectuées par les fonctionnaires nationaux dans le cadre de cette assistance doivent respecter les procédures prévues par le droit national. Il faut enfin ajouter que les agents des services de l'Etat membre ayant participé à une enquête communautaire sont tenus au secret professionnel, protégeant ainsi, notamment, les droits des entreprises impliquées.
