@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980407928
+
+- Question : [SEQ980407928](seq980407928.md) — Conditions de détention et insuffisances de l'univers carcéral
+
+## Réponse
+
+*Justice, JO du 1998-11-12, page 3649*
+
+Réponse. - Mme le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire qu'elle partage ses inquiétudes concernant la surpopulation dans les établissements pénitentiaires et qu'elle a d'ailleurs pris un certain nombre de mesures afin d'améliorer les conditions de détention des personnes incarcérées. Il convient de se référer aux orientations de la politique pénitentiaire que le garde des sceaux a présenté au conseil des ministres le 8 avril 1998. Parmi les actes essentiels, il est permis de relever : - le développement de la réinsertion et des alternatives à la détention, - la création, au terme d'études actuellement menées, d'un nouveau type d'établissement : le centre pour peines aménagées qui vise à permettre une meilleure prise en charge de la petite et de la moyenne délinquance et qui tend à éviter aux personnes condamnées à de courtes peines à les effectuer en maison d'arrêt - la mise en place dès cette année d'un programme d'équipement. Il est prévu, en effet, la construction de nouveaux établissements à Lille, Toulouse et le Pontet et la réhabilitation de certains sites existants. Cette politique globale d'amélioration de vie des détenus s'accompagne nécessairement de celle du personnel pénitentiaire. C'est pourquoi, en 1998, ont été créés 200 emplois de travailleurs sociaux et 50 emplois de surveillants et, en 1999, 220 emplois de surveillants et 80 emplois de travailleurs sociaux. Enfin, le garde des sceaux, particulièrement conscient que la surpopulation est un phénomène qui touche essentiellement les maisons d'arrêt et donc les prévenus, souhaite apporter des limites à la détention provisoire, ce qui représente l'un des objectifs du projet de loi qui sera prochainement présenté aux assemblées.
