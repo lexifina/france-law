@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971205124
+
+- Question : [SEQ971205124](seq971205124.md) — Saisine obligatoire du Haut Comité médical de la sécurité sociale avant la diffusion de textes portant sur les maladies exonérantes
+
+## Réponse
+
+*Emploi, JO du 1998-07-09, page 2244*
+
+Réponse. - La proposition formulée par la Cour des comptes dans son rapport annuel au Parlement sur la sécurité sociale de " prévoir une saisine obligatoire du Haut Comité médical de la sécurité sociale avant la diffusion de textes portant sur les maladies exonérantes " doit être lue, compte tenu des éléments du rapport sur ce point, comme faisant suite au constat selon lequel " l'appartition des références médicales opposables (RMO) en 1993 et leur enrichissement ultérieur n'ont pas fait l'objet d'une réflexion sur leur articulation avec les recommandations du Haut Comité médical de la sécurité sociale ". Les rapporteurs estiment en outre que " certaines RMO concernant les affections de longue durée mériteraient d'être intégrées aux recommandations du Haut Comité qui y gagneraient en cohérence et en efficacité " (page 225 du rapport). A l'occasion de son renouvellement, intervenu en mars 1997, et de la toute récente nomination de sa nouvelle présidente, le HCMSS a été invité à intégrer dans ses recommandations les conclusions des travaux conduits en amont par les organismes chargés de l'évaluation scientifique et de la définition des priorités de santé publique. Dans ce cadre, un groupe de travail, dont la présidence a été confiée au médecin-conseil national de la CNAMTS, a pour mission d'assurer la mise à jour des recommandations médicales sur les affections de longue durée, sujet sur lequel le Haut Comité médical de la sécurité sociale est nécessairement saisi en application des articles L. 322-3 (3º) et D. 615-1 (2º) du code de la sécurité sociale, et leur mise en cohérence avec les références médicales opposables.
