@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911219189
+
+- Question : [SEQ911219189](seq911219189.md) — Site ferroviaire de Chalindrey
+
+## Réponse
+
+*Équipement, JO du 1993-01-07, page 35*
+
+Réponse. - La SNCF a revu la charge de travail des dépôts titulaires d'engins et des dépôts possédant un atelier de réparation pour réaliser une meilleure adéquation entre les possibilités de maintenance et les zones d'utilisation des engins. Le dépôt de Chalindrey est depuis septembre 1992 spécialisé dans l'entretien des engins thermiques avec compensation quasi totale de la charge de travail ; trente-neuf locomotives diesel de divers dépôts de l'ouest ont été transférées à Chalindrey, en remplacement des quarante-quatre locomotives électriques transférées à Thionville. La spécialisation des ateliers permet d'éviter le partage d'outillages nombreux et coûteux sur deux sites différents. La SNCF a pris en compte les préoccupations sociales et s'est attachée à reclasser progressivement les personnels dans les meilleures conditions possibles. Les instances représentatives du personnel ont été informées et consultées sur l'évolution de ce dossier. Par ailleurs, avec la mise en service du TGV-Est, les temps de parcours Paris-Mulhouse et Paris-Bâle seront respectivement de 2 h 40 et 3 heures au lieu de 4 h 12 et 4 h 37 par la ligne actuelle Paris-Bâle. La desserte de la ligne Paris-Troyes-Chaumont-Vesoul-Belfort-Mulhouse-Bâle ne pourra être élaborée le moment venu qu'après une étude des besoins de déplacement liés à ces agglomérations et après une large consultation des élus. Celle-ci sera d'autant plus nécessaire qu'il conviendra d'adapter l'ensemble des dessertes régionales et d'aménager des correspondances tant par le fer que par la route afin que l'ensemble du territoire puisse bénéficier des améliorations apportées par le TGV.
