@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880801332
+
+- Question : [SEQ880801332](seq880801332.md) — Productivité et efficacité des organismes et caisses de sécurité sociale
+
+## Réponse
+
+*Solidarité, JO du 1989-02-02, page 194*
+
+Réponse. - L'efficacité de la gestion des organismes de sécurité sociale est évaluée au moyen d'indicateurs établis annuellement. Ces ratios distincts, selon les branches, permettent d'effectuer des études comparatives entre organismes. L'objectif à atteindre est de diminuer les écarts entre les caisses, de les rapprocher de la moyenne nationale et d'inciter les organismes les plus coûteux à améliorer leur productivité sans que la qualité du service rendu à l'assuré en soit altérée. Il convient de noter que pour évaluer la gestion d'un organisme de sécurité sociale de nombreux facteurs sont à prendre en compte, notamment ceux portant sur la qualité de service rendu à l'assuré. De ce fait, aucune norme unique n'a pu être établie. Néanmoins, pour apprécier globalement la productivité des organismes de sécurité sociale un indicateur, dit " principal ", a été retenu. Il s'agit du prix de revient d'une unité d'oeuvre qui varie, selon les caisses, de 1 à 2,29 pour la branche maladie, de 1 à 1,84 pour la branche vieillesse, de 1 à 2,17 pour celle de la famille et de 1 à 1,98 pour la branche du recouvrement. Depuis quelques années on observe toutefois que les écarts entre les organismes les plus coûteux et les moins coûteux se sont sensiblement réduits. De manière générale, environ 85 p. 100 des organismes se situent aux alentours du prix moyen établi au niveau national. Il est précisé à l'honorable parlementaire que des informations plus détaillées permettant d'apprécier la gestion des organismes de sécurité sociale pourront être fournies à sa demande par les services compétents, direction de la sécurité sociale, 1, place de Fontenoy, 75700 Paris.
