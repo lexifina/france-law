@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931003206
+
+- Question : [SEQ931003206](seq931003206.md) — Modification de la loi électorale en vue d'assurer une meilleure représentation des régions ultra-périphériques au sein du Parlement européen
+
+## Réponse
+
+*Premier ministre, JO du 1995-02-02, page 251*
+
+Réponse. - C'est à juste titre que l'honorable parlementaire observe que les représentants français au Parlement européen sont issus de manière inégale des différentes régions de France. Du fait qu'elle organise un scrutin de liste national, la loi électorale du 3 juillet 1977 rend en effet possible qu'aucun député français ne soit originaire d'une partie déterminée du territoire national, ce qui a pu arriver dans le passé pour les départements d'outre-mer. Les partis et mouvements politiques qui présentent les listes de candidats ont seuls la responsabilité de veiller à une répartition géographique équilibrée de ceux-ci. Les parlementaires élus représentent la nation dans son ensemble. Ils doivent donc être attentifs à défendre les intérêts de toutes les régions françaises, y compris les régions d'outre-mer. Compte tenu du caractère spécifique des départements d'outre-mer et du régime particulier que les institutions européennes leur reconnaissent, toute révision de la loi électorale en vigueur devrait assurer une représentation équitable de ces départements. Si, en raison de la complexité du sujet, il n'a pas été possible au Parlement français de s'interroger sur le mode de scrutin de l'élection au Parlement européen avant le dernier renouvellement de celui-ci, il demeure souhaitable qu'il le fasse. Une éventuelle révision de la loi électorale de 1977 ne pourrait cependant intervenir de manière utile qu'au vu des conclusions de la conférence intergouvernementale de 1996, laquelle doit passer en revue l'ensemble des problèmes liés au fonctionnement actuel des institutions européennes.
