@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990717820
+
+- Question : [SEQ990717820](seq990717820.md) — Simplification des plafonds de ressources pour le calcul des prestations familiales
+
+## Réponse
+
+*Emploi, JO du 2001-05-31, page 1846*
+
+Réponse. - Pour les prestations familiales soumises à condition de ressources, il n'existe en métropole que deux plafonds de ressources. Le premier concerne l'attribution du complément familial, de l'allocation pour jeune enfant et de l'allocation d'adoption. Il correspond actuellement à 88 039 francs de revenus nets catégoriels perçus pour l'année 1999, majorés de 25 % par enfant à charge jusqu'au deuxième et de 30 % à partir du troisième, auquel s'ajoute une majoration de 35 385 francs pour double activité professionnelles, lorsque les deux conjoints travaillent, ou en cas d'isolement. Le second plafond concerne l'allocation de rentrée scolaire (78 891 francs majorés de 30 % par enfant à charge). L'existence d'un plafond de ressources spécifique à l'allocation de rentrée scolaire (ARS), plus bas que celui concernant les autres prestations familiales sous condition de ressources et qui ne comprend pas de majoration pour double activité professionnelle ou isolement, se justifie par le fait que la vocation de l'allocation de rentrée scolaire, versée une seule fois dans l'année, est de couvrir des dépenses bien ciblées (liées à la scolarité) et que cette prestation doit être réservée aux familles les plus modestes. Les autres prestations familiales soumises à condition de ressources, liées soit au jeune âge de l'enfant (APJE), soit à la situation de famille nombreuse (complément familial) ont une vocation plus générale d'entretien des enfants à charge : le plafond de ressources applicable est toutefois fixé de façon à concerner la plupart des familles n'ayant pas des revenus élevés. Ainsi 80 % des ménages ayant un enfant âgé de moins de trois mois bénéficient de l'allocation pour jeune enfant.
