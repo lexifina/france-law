@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980710046
+
+- Question : [SEQ980710046](seq980710046.md) — Lutte contre la contrefaçon : création d'une procédure de référé permettant la cassation sous astreinte de l'activité de contrefaçon
+
+## Réponse
+
+*Justice, JO du 1998-10-22, page 3376*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que la France dispose, aux dires de la commission européenne (direction générale XV, marché intérieur), de l'arsenal juridique de lutte contre la contrefaçon le plus complet d'Europe. En France, les faits de contrefaçon, entendue dans son acceptation la plus large, constituent un délit pénal et parallèlement génèrent un préjudice particuier susceptible de réparation sur le plan civil. Ainsi, la victime dispose du choix de l'action, civile ou pénale. La voie civile permet au titulaire d'un droit de propriété incorporel, comme les brevets, de faire la preuve du préjudice dont il a été la victime par tous les moyens de droit commun. Mais le mode de preuve le plus usité en la matière est la saisie-contrefaçon définie par l'article L. 615-3 du code de la propriété intellectuelle. Cette procédure originale consiste pour la victime à requérir du président du tribunal de grande instance, saisi et statuant en la forme des référés, une ordonnance autorisant soit l'interdiction, à titre provisoire et sous astreinte, de la poursuite des actes argués de contrefaçon soit la subordination de cette poursuite d'activité à la constitution de garanties destinées à assurer l'indemnisation de l'auteur de l'ouvrage breveté. Simple et rapide dans sa mise en uvre, cette mesure concervatoire s'est avérée à ce jour extrêmement efficace et particulièrement appréciée des propriétairs d'un brevet. La France dispose ainsi d'une procédure en référé bien plus complète que celle existant aux Pays-Bas.
