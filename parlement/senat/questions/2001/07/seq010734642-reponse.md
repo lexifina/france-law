@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010734642
+
+- Question : [SEQ010734642](seq010734642.md) — Surveillance électronique des délinquants
+
+## Réponse
+
+*Justice, JO du 2001-12-13, page 3950*
+
+L'honorable parlementaire a bien voulu appeler l'attention de Mme la garde des sceaux sur la mesure alternative à l'incarcération actuellement prononcée en Grande-Bretagne à l'encontre des jeunes délinquants récidivistes et consistant à les équiper d'une balise électronique, reliée à un système de reconnaissance vocale informatisée, afin de surveiller leurs faits et gestes. Ce programme de supervision et de surveillance intensive (ISSP), représentant un coût de 45 millions de livres sterling, a été lancé en juillet 2001 et vient s'ajouter au système déjà applicable du bracelet électronique. Il a fait l'objet de nombreuses critiques de la part des associations de prise en charge et de réhabilitation des mineurs délinquants et des associations de défense des libertés publiques, celles-ci mettant en avant un risque d'exacerbation des conflits entre les jeunes et la police mais aussi de dangereuses escalades. Au regard du système judiciaire déjà existant, cette mesure ne semble pas devoir être envisagée en France. En effet, la loi n° 97-1159 du 19 décembre 1997 a consacré le placement sous surveillance électronique comme modalité d'exécution des peines privatives de liberté et la loi n° 2000-516 du 15 juin 2000 renforçant la protection de la présomption d'innocence et les droits des victimes en fait une alternative à la détention provisoire. Les mineurs entrent dans le champ d'application de cette nouvelle mesure (article 20-8 de l'ordonnance du 2 février 1945). A la lumière des expériences auxquelles ont procédé la plupart des pays étrangers, il a été décidé, en France, de la mise en place progressive du dispositif sur plusieurs sites pilotes, avant une généralisation du placement sous surveillance électronique qui pourrait intervenir à partir de 2003.
