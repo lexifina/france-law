@@ -12,7 +12,7 @@ III. 1. Les déductions prévues aux I et II, premier alinéa, peuvent, à compt
 
 IV. En cas de cession dans le délai de cinq ans de tout ou partie des droits sociaux souscrits à compter du 1er janvier 1983 par les entreprises avec le bénéfice des déductions prévues aux II et III, les sommes déduites sont rapportées au résultat imposable de l'année de cession, dans la limite, selon le taux de déduction pratiqué, de la moitié ou de la totalité du prix de cession.
 
-V. Les dispositions des I, II et III s'appliquent jusqu'au 31 décembre 1984.
+V. Les dispositions des I, II et III s'appliquent jusqu'au 31 décembre 1985.
 
 Un décret précise, en tant que de besoin, les modalités d'application des I et II (2).
 
