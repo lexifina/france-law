@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991221178
+
+- Question : [SEQ991221178](seq991221178.md) — Programmation de l'offre des bourses pour les Vietnamiens désireux de suivre des études en France
+
+## Réponse
+
+*Éducation, JO du 2000-12-21, page 4366*
+
+Réponse. - Le nombre des étudiants vietnamiens dans les universités françaises s'est élevé à plus de 1 200 en 1999-2000, pour la plupart inscrits en 2e et 3e cycle. Parmi eux, 384 bénéficiaient d'une bourse du ministère des affaires étrangères, auquel il revient de financer et de définir le programme des bourses en faveur des étudiants étrangers. Dans ce contingent, 215 Vietnamiens poursuivaient des études scientifiques et techniques, 99 des études médicales, 53 des études linguistiques et littéraires, 17 des études dans le domaine de l'audiovisuel. Par ailleurs, 227 étudiants vietnamiens, principalement inscrits en premier cycle, ont bénéficié d'une simple bourse dite de " couverture sociale ". L'agence universitaire de la francophonie est également intervenue, en attribuant une soixantaine de bourses pour des études d'un an, en deuxième ou troisième cycle, dans les établissements francophones, français en majorité, et quelque 160 stages linguistiques, culturels ou professionnalisants. A ces contingents, s'ajoutent une vingtaine de bourses concernant la couverture sociale financée conjointement par le Vietnam (Etat, société Petrovietnam) et la France et 300 bourses de stage de un à trois mois dans le cadre du programme de coopération décentralisée " Jeunes francophones ", lancé par le Sénat. L'ampleur des besoins et la comparaison avec les moyens mobilisés par quelques pays étrangers (l'Australie notamment) appellent à un développement des bourses à coûts partagés avec des institutions vietnamiennes dans des disciplines essentielles pour la formation des cadres. Au-delà de ce programme de bourses, une intensification de l'activité d'aide et de conseils est engagée envers les étudiants non boursiers.
