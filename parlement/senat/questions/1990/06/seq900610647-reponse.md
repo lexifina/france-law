@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900610647
+
+- Question : [SEQ900610647](seq900610647.md) — TVA des photographes opérant dans les établissements scolaires
+
+## Réponse
+
+*Économie, JO du 1990-10-18, page 2255*
+
+Réponse. - Les règles de taxe sur la valeur ajoutée qui sont applicables aux recettes perçues par les photographes scolaires n'ont pas été modifiées récemment ; elles ont été précisées à la profession dès 1972. Cest règles sont nécessairement différentes selon les modalités juridiques et financières de la réalisation des travaux. Lorsque les photographes scolaires traitent avec les familles par l'intermédiaire d'un chef d'établissement, les sommes versées à la coopérative scolaire ou qui sont retenues par le chef d'établissement sur les recettes à reverser en contrepartie de l'autorisation de prendre des photographies dans les locaux scolaires sont à comprendre dans la base d'imposition à la taxe sur la valeur ajoutée. La taxe doit être acquittée par les photographes sur la totalité des sommes versées par les familles. Par contre lorsque les photographes scolaires traitent directement avec un chef d'établissement qui assure la vente des photographies aux parents d'élèves en assumant notamment le risque de leur mévente, la recette imposable à la taxe est constituée par le prix de vente facturé à l'établissement. Dans les deux cas, les coopératives scolaires ne sont pas assujetties à la T.V.A. sur le montant des sommes qui leur reviennent au titre de leurs opérations d'entremise dans la vente des photographies ou de la revente de celles-ci dès lors que ces sommes sont destinées à apporter un soutien financier exceptionnel à l'objet éducatif ou social de ces organismes sans but lucratif. Par ailleurs, dans la mesure où la profession a été parfaitement informée dès 1972 du régime fiscal applicable à l'ensemble des photographes scolaires pratiquant dans les mêmes conditions, une mesure d'abandon des redressements opérés ne saurait être envisagée.
