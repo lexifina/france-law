@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920521229
+
+- Question : [SEQ920521229](seq920521229.md) — Déséquilibre des échanges viticoles au sein de la Communauté européenne
+
+## Réponse
+
+*Agriculture, JO du 1992-08-06, page 1792*
+
+Réponse. - Les difficultés auxquelles est actuellement confrontée la filière viti-vinicole tiennent essentiellement à une situation d'excédent de production qui s'aggrave du fait de la diminution continue de la consommation de vin. Les efforts engagés par les producteurs français et soutenus par les pouvoirs publics visent, tout en améliorant la qualité des produits offerts aux consommateurs, à rétablir l'équilibre entre l'offre et la demande. Il est indiscutable que certains déséquilibres dans les échanges internes à la Communauté économique européenne contribuent également à perturber le marché et s'opposent à ce que les efforts consentis ne produisent leur plein effet. L'origine de ces phénomènes est à rechercher dans les mécanismes communautaires de gestion de marché qui apparaissent aujourd'hui inadaptés compte tenu des évolutions profondes que connaît ce marché. Telle est la raison pour laquelle le ministre de l'agriculture et de la forêt est intervenu à plusieurs reprises au conseil des ministres de l'agriculture, pour demander que la réforme de l'organisation commune de marché viti-vinicole soit engagée sans retard. Cette discussion, qui devrait s'engager dans les prochaines semaines, sera l'occasion pour la délégation française de mettre l'accent sur la nécessité de voir les efforts de rééquilibrage du marché rigoureusement et équitablement répartis entre tous les Etats membres producteurs, ainsi qu'entre les différents types de production. Le principe de libre circulation des produits à l'intérieur de la Communauté suppose en effet qu'il soit veillé avec la plus grande attention au respect de la loyauté de la concurrence.
