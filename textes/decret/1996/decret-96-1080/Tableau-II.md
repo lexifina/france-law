@@ -86,6 +86,30 @@ Art. 61 du décret n° 92-755 du 31 juillet 1992.
 
 |
 
+|
+
+3 bis
+
+|
+
+Etablissement du certificat de
+
+non-contestation par l'huissier de
+
+justice qui a procédé à la saisie.
+
+|
+
+Article 61 du décret n° 92-755
+
+du 31 juillet 1992.
+
+|
+
+10
+
+|
+
 Incidents et difficultés d'exécution.
 
 |
@@ -294,7 +318,9 @@ Notification au tiers de l'acte de saisie-appréhension.
 
 |
 
-Art. 148, alinéa 2, du décret n° 92-755 du 31 juillet 1992.
+Art. 148, alinéa 2, du décret
+
+n° 92-755 du 31 juillet 1992.
 
 |
 
@@ -370,7 +396,9 @@ Lettre au débiteur l'informant de l'immobilisafion de son véhicule.
 
 |
 
-Art. 173 du décret n° 92-755 du 31 juillet 1992.
+Art. 173 du décret n° 92-755 du
+
+31 juillet 1992.
 
 |
 
@@ -386,7 +414,9 @@ Information au créancier gagiste des propositions de vente amiable ou de la mis
 
 |
 
-Art. 175 du décret n° 92-755 du 31 juillet 1992.
+Art. 175 du décret n° 92-755 du
+
+31 juillet 1992.
 
 |
 
@@ -406,7 +436,9 @@ Requête au secrétariat-greffe du juge de l'exécution d'un certificat de non-c
 
 |
 
-Art. 185 du décret n° 92-755 du 31 juillet 1992.
+Art. 185 du décret n° 92-755 du
+
+31 juillet 1992.
 
 |
 
@@ -460,13 +492,39 @@ Expulsion.
 
 |
 
-Information au représentant de l'Etat du commandement d'avoir à quitter les lieux.
+Information au représentant de l'Etat de l'assignation aux fins de constat de résiliation du bail.
 
 |
 
-Art. 62 de la loi n° 91-650 du 9 juillet 1991.
+Article 24 de la loi n° 89-462 du 6 juillet 1989, modifiée par
 
-Art. 197 du décret n° 92-755 du 31 juillet 1992.
+la loi n° 98-657 du 29 juillet 1998.
+
+|
+
+14
+
+|
+
+24 bis
+
+|
+
+Information au représentant de
+
+l'Etat du commandement d'avoir
+
+à quitter les lieux.
+
+|
+
+Art. 62 de la loi n° 91-650 du
+
+9 juillet 1991.
+
+Art. 197 du décret n° 92-755 du
+
+31 juillet 1992.
 
 |
 
