@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700820
+
+- Question : [SEQ020700820](seq020700820.md) — Responsabilité des infirmiers grévistes
+
+## Réponse
+
+*Santé, JO du 2003-08-07, page 2555*
+
+L'honorable parlementaire a appelé l'attention de M. le ministre de la santé, de la famille et des personnes handicapées sur la conciliation des obligations déontologiques de secours imposées aux infirmiers libéraux avec le renvoi des demandes de soins effectué par les infirmiers grévistes sur les médecins ou sur le centre " 15 " de réception et de régulation des appels. En application de l'article 6 du décret n° 93-221 du 16 février 1993 relatif aux règles professionnelles des infirmiers et infirmières, l'infirmier est tenu de porter assistance aux malades ou blessés en péril. Toutefois, et conformément aux dispositions de l'article 41 du décret du 16 février 1993, l'infirmier peut décider, sous réserve de ne pas nuire à un patient, de ne pas effectuer de soins. Il peut aussi se trouver dans l'obligation d'interrompre les soins. Dans ces deux situations, il doit alors expliquer les raisons justifiant cet arrêt au patient et, à la demande de ce dernier, lui remettre la liste départementale des infirmiers mentionnée à l'article L. 4312-1 du code de la santé publique. En l'absence de toute disposition explicite contraire, ces obligations s'imposent même en cas d'urgence. En tout état de cause, l'infirmier doit agir en toute circonstance dans l'intérêt du patient. Il ressort donc de ces dispositions que, si les infirmiers grévistes en renvoyant leurs appels sur des personnes compétentes (centres 15 et médecins) n'ont pas effectué des actes contraires à l'intérêt du patient, pour autant ils n'ont pas rempli leurs obligations déontologiques, sauf à ce que les médecins et les centres 15 aient disposé d'une liste d'infirmiers susceptibles de prendre en charge ces demandes de soins, et ainsi d'assurer la continuité des soins.
