@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960817172
+
+- Question : [SEQ960817172](seq960817172.md) — Contrat pour la protection du littoral
+
+## Réponse
+
+*Défense, JO du 1996-10-03, page 2556*
+
+Réponse. - L'instruction du Premier ministre du 12 octobre 1978, dite " instruction Polmar ", définit les mesures de prévention, de préparation et de conduite de la lutte contre les pollutions marines accidentelles. Elle rappelle également le rôle des préfets des départementaux littoraux et celui des différents ministères concernés. Dans ce cadre, le ministère de la défense est chargé d'affréter les remorqueurs de haute mer nécessaires aux opérations d'assistance aux navires en difficulté. Ainsi, depuis 1979, la marine nationale met à disposition un certain nombre de navires spécialisés, remorqueurs d'intervention et bâtiments de soutien, au moyen de contrats renouvelables. Les contrats concernant les remorqueurs d'intervention l'Abeille Languedoc, basé à Cherbourg, et l'Abeille Flandre, basé à Brest, arrivent à expiration début 1997. La procédure de passation de marchés pour le renouvellement de ces affrètements est lancée. En tout état de cause, il convient de souligner que ces contrats ne sont qu'une partie des mesures prises par la marine nationale pour faire face aux menaces de pollutions marines. En effet, sur les façades maritimes de métropole comme autour du littoral des départements et territoires d'outre-mer, un vaste dispositif, fondé sur les principes de prévention, d'intervention et d'information, a été mis en place. C'est ainsi que six patrouilleurs de service public, huit bâtiments école basés à Brest et dix bâtiments de soutien de région stationnés dans les ports militaires de métropole et d'outre-mer sont prééquipés de rampes à dispersants pour lutter contre les pollutions marines. De plus, les hélicoptères Super-Frelon basés sur les façades Atlantique et Méditerranée peuvent également être dotés d'appareils d'épandage de dispersants.
