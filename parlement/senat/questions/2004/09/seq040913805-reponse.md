@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040913805
+
+- Question : [SEQ040913805](seq040913805.md) — Situation fiscale des Français de Monaco
+
+## Réponse
+
+*Économie, JO du 2004-12-16, page 2898*
+
+Les dispositions de la convention fiscale du 18 mai 1963 entre la France et Monaco permettent d'assujettir à l'impôt sur le revenu les Français installées dans la Principauté depuis le 13 octobre 1957 dans les mêmes conditions que s'ils avaient conservé leur domicile sur notre territoire. Elles ont pour objectif principal de rétablir l'égalité devant l'impôt entre les ressortissants français quel que soit leur domicile et de prévenir l'évasion fiscale. En effet, la législation monégasque ne prévoit pas d'imposition des revenus des personnes physiques résidentes. Un avenant a été signé le 26 mai 2003 afin de compléter ce dispositif pour les contribuables installés après le 1er janvier 1989 en matière d'impôt sur la fortune. Ainsi, ces mesures n'ont pas pour objet de pénaliser les Français par rapport aux nationaux des autres Etats membres de la Communauté européenne dans la Principauté. Sur ce point, il est indiqué en particulier que l'Italie traite ses ressortissants qui transfèrent leur résidence dans un Etat à fiscalité privilégiée comme s'ils restaient fiscalement domiciliés sur son territoire, sauf s'ils prouvent leur installation effective et durable à l'étranger. Le Gouvernement prend note de la préoccupation de l'auteur de la question en ce qui concerne la décroissance de la communauté française de Monaco. Cependant, la tendance s'est récemment inversée puisque l'effectif de nos concitoyens immatriculés auprès du consulat a augmenté de 1,4 % en 2002 et de 2 % l'année suivante. En outre, d'autres facteurs sont à prendre en compte dans ces évolutions, comme la cherté du logement et la politique de naturalisation du gouvernement princier.
