@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030908971
+
+- Question : [SEQ030908971](seq030908971.md) — Indemnisation des orphelins de la Seconde Guerre mondiale
+
+## Réponse
+
+*Économie, JO du 2003-11-27, page 3448*
+
+Le décret n° 2000-657 du 13 juillet 2000 a institué une mesure de réparation destinée aux personnes, sans critère de nationalité, dont le père ou la mère a été déporté à partir de la France dans le cadre des persécutions antisémites durant l'Occupation et a trouvé la mort en déportation alors qu'elles étaient mineures de vingt et un ans au moment où la déportation est intervenue. Pour faire suite aux demandes des associations d'orphelins de déportés d'extension de l'indemnisation à l'ensemble des orphelins de déportés, notamment résistants, le Gouvernement a demandé au mois de septembre 2002 à M. Philippe Dechartre, ancien ministre, de conduire une concertation avec toutes les parties prenantes. Les études et consultations conduites par M. Dechartre ont fait l'objet d'une synthèse présentée au Gouvernement au début de l'été concluant, dans un souci de justice et d'équité, à l'extension du dispositif de réparation institué par le décret du 13 juillet 2000 aux orphelins des déportés politiques et résistants, ainsi qu'aux orphelins de fusillés et massacrés. Le Premier ministre a rendu publique, dans un communiqué du 6 septembre 2003, la décision du Gouvernement d'accorder aux orphelins des victimes de la barbarie nazie une indemnisation identique à celle dont bénéficient spécifiquement, au titre de ce décret, les orphelins dont les parents ont été victimes de persécutions antisémites. Il a demandé au secrétaire d'Etat aux anciens combattants de déterminer avec précision le périmètre des ressortissants éligibles à ce nouveau dispositif d'indemnisation qui entrera en vigueur une fois ces travaux finalisés.
