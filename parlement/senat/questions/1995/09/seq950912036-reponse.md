@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950912036
+
+- Question : [SEQ950912036](seq950912036.md) — Politique de santé publique
+
+## Réponse
+
+*Santé publique, JO du 1995-10-05, page 1907*
+
+Réponse. - Le haut conseil de la réforme hospitalière, dont la présidence a été confiée au professeur Bernard Devulder, a été mis en place par le Premier ministre le 16 juin 1995. Cette structure comprend dix-huit membres reconnus pour leurs compétences dans les différents champs professionnels de la santé. Ses travaux permettront de préciser les modalités de mise en oeuvre des orientations définies par le Premier ministre lors de l'installation du haut conseil. Cette réforme vise d'une part à améliorer l'adaptation des structures de soins publiques et privées aux besoins quantitatifs et qualitatifs de la population et à mieux les insérer dans l'ensemble du dispositif de santé, et d'autre part à améliorer leur fonctionnement, en particulier en renforçant la participation des équipes hospitalières et en mettant en oeuvre un mode de financement fondé sur des objectifs médicalisés prenant en compte la qualité des prestations délivrées. Les travaux entrepris donneront une place privilégiée à la concertation avec les représentants des professionnels de la santé et les premières conclusions seront remises à l'automne au Premier ministre. Par ailleurs, les pouvoirs publics, conscients des difficultés rencontrées par les catégories de la population les plus modestes, ont mis en oeuvre depuis plusieurs années des dispositifs tendant, d'une part, à améliorer la couverture sociale des personnes en difficulté et, d'autre part, à faciliter l'accès aux soins. Conformément aux orientations du Premier ministre, une réflexion est actuellement en cours au sein du ministère de la santé publique et de l'assurance maladie sur une meilleure prise en charge financière des soins aux personnes dont les revenus sont modestes.
