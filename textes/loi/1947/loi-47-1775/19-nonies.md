@@ -12,10 +12,16 @@ Le prix d'émission des certificats coopératifs d'investissement émis dans les
 
 Dans les sociétés dont les certificats coopératifs d'investissement sont inscrits à la cote officielle ou à la cote du second marché, le prix d'émission ne peut être inférieur à 90 p. 100 de la moyenne des cours cotés aux vingt séances de bourse précédant le jour de la décision de mise en distribution diminuée du montant net de la rémunération.
 
-Dans les autres sociétés, le prix d'émission est fixé en divisant par le nombre de certificats coopératifs d'investissement existants la fraction de l'actif net visée à l'article 19 undecies et calculée d'après le dernier bilan approuvé par l'assemblée générale. L'application des règles de détermination du prix d'émission est vérifiée par le commissaire aux comptes qui présente un rapport spécial à l'assemblée générale annuelle.
+Dans les autres sociétés, le prix d'émission est fixé soit à dire d'expert, soit en divisant par le nombre de certificats coopératifs d'investissement existants la fraction de l'actif net visée à l'article 19 undecies et calculée d'après le dernier bilan approuvé par l'assemblée générale. L'application des règles de détermination du prix d'émission est vérifiée par le commissaire aux comptes qui présente un rapport spécial à l'assemblée générale annuelle.
 
 Lorsque le montant de la rémunération à laquelle il a droit ne correspond pas à un nombre entier de certificats coopératifs d'investissement, le titulaire peut recevoir le nombre de certificats coopératifs d'investissement immédiatement inférieur complété d'une soulte en numéraire ou, si l'assemblée générale l'a autorisé, le nombre de certificats coopératifs d'investissement immédiatement supérieur, en versant la différence en numéraire.
 
 La demande du paiement de la rémunération en certificats coopératifs d'investissement, accompagnée le cas échéant du versement prévu à l'alinéa qui précède, doit intervenir dans un délai fixé par l'assemblée générale, sans excéder trois mois à compter de la date de ladite assemblée générale.
 
 Les dispositions du deuxième alinéa de l'article 19 septies ne sont pas applicables lorsque l'assemblée générale décide d'accorder simultanément à chaque titulaire de certificats coopératifs d'investissement et à chaque porteur de parts sociales, pour toute la rémunération qui leur est due, une option entre le paiement en numéraire ou le paiement respectivement en certificats coopératifs d'investissement ou en parts sociales.
+
+NOTA :
+
+[*Nota - Loi 96-597 1996-07-02 art. 96 III (Loi de modernisation des activités financières) :
+
+"Dans les textes législatifs en vigueur non visés ci-dessus et les textes réglementaires, les dispositions applicables de manière identique à la cote officielle ou au second marché d'une bourse de valeurs s'appliquent aux marchés réglementés régis par la présente loi."*]
