@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940506113
+
+- Question : [SEQ940506113](seq940506113.md) — Frais de déplacement des personnels enseignants itinérants
+
+## Réponse
+
+*Éducation, JO du 1994-07-07, page 1684*
+
+Réponse. - Les titulaires remplaçants bénéficient, dans le cadre des fonctions très spécifiques qu'ils exercent, d'une indemnité dite de sujétions spéciales de remplacement régie par le décret no 89-825 du 9 novembre 1989, considéré comme une indemnité liée à la rémunération principale et imputée sur les chapitres indemnitaires. Les fonctionnaires évoqués sont, quant à eux, remboursés des déplacements qu'ils effectuent en application d'une autre réglementation (décret no 90-437 du 22 mai 1990) ; ainsi, l'indemnité dont ils bénéficient est calculée en fonction de la puissance fiscale du véhicule qu'ils utilisent et également de la distance parcourue. Cette dépense est imputée sur les chapitres de crédits de fonctionnement. Ces crédits ont été, dans la loi de finances 1994, remis à leur niveau initial et sont en augmentation de 15,4 p. 100 par rapport aux crédits disponibles de 1993, compte non tenu des abondements exceptionnels de fin d'année, afin que les services puissent fonctionner normalement et que les personnels soumis à des déplacements professionnels puissent à nouveau exercer leur métier dans des conditions convenables. Depuis la mise en place de la globalisation des crédits de fonctionnement des services extérieurs, il appartient aux autorités académiques, en fonction des priorités locales, de répartir l'enveloppe qui leur est déléguée entre les différentes catégories de dépenses qui sont à financer et de prévoir en conséquence la part pouvant être consacrée aux frais de déplacements des personnels exerçant dans leur circonscription. Instruction leur a été donnée de garantir aux personnels amenés à se déplacer, les moyens de remplir leurs missions dans la limite des crédits disponibles.
