@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031210314
+
+- Question : [SEQ031210314](seq031210314.md) — Nomination d'un représentant spécial de l'Union européenne pour le Tibet
+
+## Réponse
+
+*Affaires étrangères, JO du 2004-02-12, page 352*
+
+La France suit avec attention et vigilance la question des droits de l'homme en Chine, et notamment au Tibet. Ses préoccupations sont régulièrement portées à l'attention des autorités chinoises, tant lors des conversations bilatérales que dans le cadre du dialogue que l'Union européenne entretient avec ce pays sur les droits de l'homme. Face à la situation des droits de l'homme au Tibet, l'Union européenne a rendu publics les domaines précis dans lesquels elle attend des progrès concrets. Elle demande notamment le respect par les autorités chinoises des droits culturels et des libertés religieuses au Tibet et la libération des prisonniers de conscience tibétains. Sur le fond, la politique des autorités françaises a toujours été d'appeler au dialogue entre les autorités chinoises et le dalaï-lama, méthode la mieux à même de préserver l'identité des Tibétains et de garantir la souveraineté de la Chine. Des contacts ont d'ailleurs eu lieu récemment entre les deux parties et constituent des signaux encourageants. Dans ce contexte, la nomination d'un représentant spécial de l'Union européenne pour le Tibet a fait l'objet de discussions approfondies au sein de l'Union. Les Etats membres ont estimé qu'une telle mesure ne serait sans doute pas, dans les circonstances actuelles, de nature à favoriser efficacement les échanges avec la Chine sur la question tibétaine, tant au niveau bilatéral que dans le cadre du dialogue euro-chinois sur les droits de l'homme. La France poursuivra ses efforts en faveur de la sauvegarde de l'identité culturelle et religieuse tibétaine et continuera d'exprimer auprès de ses interlocuteurs chinois l'importance que nous accordons à les voir engager un dialogue avec le dalaï-lama.
