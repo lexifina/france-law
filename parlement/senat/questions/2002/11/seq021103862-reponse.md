@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021103862
+
+- Question : [SEQ021103862](seq021103862.md) — Réglementation relative au recrutement ou au licenciement du directeur d'une régie communale
+
+## Réponse
+
+*Intérieur, JO du 2003-05-08, page 1558*
+
+Dans le cas des régies dotées de la personnalité morale et de l'autonomie financière, l'article R. 2221-21 du code général des collectivités territoriales prévoit que le président du conseil d'administration nomme le directeur désigné dans les conditions prévues à l'article L. 2221-10. Il met fin à ses fonctions dans les mêmes formes, sauf dans les cas prévus à l'article R. 2221-11. Ainsi, l'article L. 2221-10 du code général des collectivités territoriales prévoit que les régies dotées de la personnalité morale et de l'autonomie financière sont créées, et leur organisation administrative et financière déterminée, par délibération du conseil municipal. Elles sont administrées par un conseil d'administration et un directeur désignés dans les mêmes conditions sur proposition du maire. En outre, il résulte de l'article R. 2221-11 qu'en cas d'infraction aux interdictions qu'il prévoit le directeur est démis de ses fonctions soit par le maire, soit par le préfet. Il est immédiatement remplacé. Dans le cas des régies dotées de la seule autonomie financière, l'article R. 2221-67 du code général des collectivités territoriales prévoit que le maire nomme le directeur dans les conditions prévues à l'article L. 2221-14. Il met fin à ses fonctions dans les mêmes formes. L'article L. 2221-14 prévoit ainsi que les régies dotées de la seule autonomie financière sont créées et leur organisation administrative et financière déterminée par délibération du conseil municipal. Elles sont administrées, sous l'autorité du maire et du conseil municipal, par un conseil d'exploitation et un directeur désignés dans les mêmes conditions sur proposition du maire.
