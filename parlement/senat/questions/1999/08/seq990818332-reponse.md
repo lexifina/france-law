@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990818332
+
+- Question : [SEQ990818332](seq990818332.md) — Délocalisation à Brest de l'école interarmes des sports et du Bataillon de Joinville
+
+## Réponse
+
+*Jeunesse, JO du 1999-10-21, page 3490*
+
+Réponse. - La réduction des effectifs du bataillon de Joinville s'incrit sans le processus de fin de la conscription et de professionalisation des armées. En effet, le bataillon de Joinville a été créé pour recevoir les appelés devant effectuer leur service national mais demandant, durant cette période, à bénéficier de conditions d'entraînement leur permettant de se préparer dans les meilleures conditions pour les grandes compétitions internationales. La définition du bataillon de Joinville répondait donc parfaitement aux besoins des sportifs dans le cadre d'une armée de conscription. La restructuration du dispositif national de défense et le passage à une armée professionnelle entraînent naturellement une évolution de cette unité. La fin de la conscription pour les jeunes gens nés après le 31 janvier 1978 a déjà entraîné une baisse notable de sportifs susceptibles d'être appelés sous les drapeaux. Le bataillon de Joinville, en raison du faible nombre de candidatures, n'accueillera que 403 sportifs pour l'année 1999-2000 au lieu des 480 prévus par le protocole d'accord " Horizon 2000 ". Cette baisse devrait s'accentuer en 2000 et 2001 en raison de la diminution du nombre de conscrits et provoquera, de fait, une baisse du potentiel sportif de l'institution militaire, notamment lors des grandes rencontres internationales telles que les jeux mondiaux militaires. Toutefois, si la délocalisation relève exclusivement du domaine de compétence du ministre de la défense, le ministère de la défense et le ministère de la jeunesse et des sports collaborent actuellement à la définition du nouveau bataillon de Joinville afin qu'il continue à représenter la France lors des grandes manifestations sportives militaires.
