@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971205233
+
+- Question : [SEQ971205233](seq971205233.md) — Organisation de l'inspection des installations classées
+
+## Réponse
+
+*Aménagement du territoire, JO du 1998-06-25, page 2046*
+
+Réponse. - La ministre de l'aménagement du territoire et de l'environnement a pris connaissance avec intérêt de la question concernant l'organisation de l'inspection des installations classées pour la protection de l'environnement. Cette organisation est définie par l'article 33 du décret du 21 septembre 1997 modifié. L'article susvisé prévoit que les inspecteurs sont désignés à la condition que ces agents ne soient pas affectés à des missions rémunérées directement ou indirectement par les propriétaires ou les exploitants d'installations classées. Les taxes et redevances recouvrées au titre des divers contrôles et expertises ne sont pas assimilables à des missions rémunérées demandées par l'exploitant. Leurs montants sont fixés par la loi ; elles sont destinées à faire supporter, par la personne contrôlée, la charge du contrôle effectué par les pouvoirs publics. La totalité de ces taxes et redevances est versée, via les trésoriers-payeurs généraux, au ministère de l'économie, des finances et de l'industrie, qui affecte une partie de ces recettes à différents chapitres budgétaires liés au fonctionnement des services et aux indemnités des agents. En conclusion, ces taxes et redevances contribuent aux recettes de l'Etat, tout en permettant, par une affectation spécifique, de renforcer les moyens des contrôles. Le Gouvernement attache la plus grande importance, d'une part, à éviter toute confusion entre les tâches de promotion de l'industrie et les fonctions de contrôle et, d'autre part, à faire supporter le coût de l'intervention administrative à ceux qui la rendent nécessaire.
