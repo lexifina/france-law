@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960716757
+
+- Question : [SEQ960716757](seq960716757.md) — Vide législatif relatif au retrait d'une commune d'une communauté de communes
+
+## Réponse
+
+*Fonction publique, JO du 1996-08-22, page 2166*
+
+Réponse. - Le retrait d'une commune d'un établissement public de coopération intercommunale, quelle que soit sa nature juridique, doit tenir compte de deux impératifs : il s'agit d'une part de conserver leur liberté aux communes si leurs intérêts essentiels sont mis en cause mais aussi d'éviter que des procédures trop aisées de retrait n'aboutissent à une déstabilisation des groupements et au blocage de projets engagés. En l'état actuel du droit positif, le retrait d'une communauté de villes ou d'une communauté urbaine n'est pas possible. Le principal intérêt de ces institutions est de permettre la réalisation, sur une longue période, de projets qui structurent un territoire en termes d'urbanisation et d'aménagement du territoire. La mise en commun de la taxe professionnelle pour les communautés de villes indique que le législateur a voulu que la logique d'agglomération l'emporte sur les intérêts spécifiques et conjoncturels des communes. Il est normal que les règles varient selon la nature, l'ampleur des compétences assumées par les établissements publics de coopération intercommunale et le régime fiscal qui leur est applicable. Le Gouvernement soumettra prochainement au Parlement un rapport sur l'intercommunalité. Ce rapport dressera un bilan de l'intercommunalité et tentera d'établir un diagnostic en mettant en lumière les acquis et les difficultés de fonctionnement de l'intercommunalité sur la base desquels des propositons d'amélioration seront formulées en ce qui concerne tant l'organisation et le fonctionnement des établissements publics de coopération intercommunale que leur environnement financier et fiscal. Ce document esquissera les voies possibles pour promouvoir les formes les plus intégrées de coopération.
