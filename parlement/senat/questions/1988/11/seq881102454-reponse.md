@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881102454
+
+- Question : [SEQ881102454](seq881102454.md) — Office public d'habitations à loyers modérés : conclusion d'un avenant dans le cadre d'un marché public
+
+## Réponse
+
+*Budget, JO du 1989-03-09, page 402*
+
+Réponse. - L'article 255 bis du code des marchés publics prévoit que, lorsque le montant des prestations exécutées atteint le montant fixé par le marché, la poursuite de l'exécution des prestations est subordonnée soit à la conclusion d'un avenant, soit, si le marché le prévoit, à une décision de poursuivre prise par la collectivité ou l'établissement contractant. Le cahier des clauses administratives générales C.C.A.G-Travaux prévoyant que l'entrepreneur peut poursuivre les travaux dès lors qu'il a reçu un ordre de service du maître d'oeuvre lui notifiant la décision de poursuivre prise par le maître d'ouvrage, cette procédure est automatiquement ouverte pour tout marché visant ce C.C.A.G. En l'absence de visa du C.C.A.G.-Travaux, une décision de poursuivre peut cependant être prise si le cahier des clauses administratives particulières (C.C.A.P.) l'a prévu. Les règles de la comptabilité publique n'imposent aux collectivités et établissements publics contractants aucune obligation en la matière qui ne résulterait pas directement de l'article 255 bis susvisé. En effet, le décret n° 88-74 du 21 janvier 1988 modifiant le décret n° 83-16 du 13 janvier 1983 portant établissement de la liste des pièces justificatives des paiements des communes, des départements, des régions et des établissements publics locaux, en sa rubrique 42114, n'exige de l'ordonnateur selon les cas susdécrits que la production au comptable de la copie soit de chaque avenant, soit de chaque acte spécial, soit de chaque ordre de service ayant des incidences financières, soit de chaque décision de poursuivre.
