@@ -12,7 +12,7 @@ COEFFICIENT HT
 
 |
 
-0 et 150 F
+0 et 22,90 €
 
 |
 
@@ -20,7 +20,7 @@ COEFFICIENT HT
 
 |
 
-Au-delà de 150 F
+Au-delà de 22,90 €
 
 |
 

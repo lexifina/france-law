@@ -1,37 +1,17 @@
 # Article Annexe I-3
 
-BARÈME DE CALCUL DU PRIX FABRICANT HORS TAXE INTER­MÉDIAIRE DE CALCUL (ARRONDI AU MILLIÈME LE PLUS PROCHE) À PARTIR DU PRIX PUBLIC
+FORMULE D'OBTENTION DU PRIX FABRICANT HORS TAXE INTERMÉDIAIRE DE CALCUL DE LA SPÉCIALITÉ DE RÉFÉRENCE POUR UNE CONTENANCE DE CONDITIONNEMENT ET/OU POUR UN DOSAGE IDENTIQUE À CEUX DE LA SPÉCIALITÉ GÉNÉRIQUE
 
-PRIX PUBLIC TTC
+PR*DG/DPR*UTG/UTR
 
-|
+Dans laquelle :
 
-|
+PR représente le prix fabricant hors taxe de la spécialité de référence ;
 
-PFHT
+DPR représente le dosage de la spécialité de référence ;
 
-|
+DG représente le dosage de la spécialité générique ;
 
-0 à 213,10 F
+UTR représente le nombre d'unités thérapeutiques (ou, le cas échéant, le nombre d'unités en millilitre ou en gramme pour les formes pharmaceutiques ne répondant pas à une présentation unitaire) contenu dans le conditionnement de la spécialité de référence ;
 
-|
-
-PP/1,397 1-2,557 7
-
-|
-
-0 à 150 F
-
-|
-
-A partir de 213,20 F
-
-|
-
-PP/1,184 3-29,965 5
-
-|
-
-A partir de 150 F
-
-|
+UTG représente le nombre d'unités thérapeutiques (ou le cas échéant le nombre d'unités en millilitre ou en gramme pour les formes pharmaceutiques ne répondant pas à une présentation unitaire) contenu dans le conditionnement de la spécialité générique.
