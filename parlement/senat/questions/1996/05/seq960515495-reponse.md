@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960515495
+
+- Question : [SEQ960515495](seq960515495.md) — Levée de l'interdiction d'usage du dinoterbe par le ministère de l'agriculture
+
+## Réponse
+
+*Agriculture, JO du 1996-08-08, page 2057*
+
+Réponse. - Les produits phytosanitaires à base de dinoterbe sont autorisés en France dans le cadre du désherbage de certaines cultures parmi lesquelles le maïs. Le dinoterbe présente la particularité d'être efficace sur certaines mauvaises herbes même au travers de film plastique ce qui a permis un développement significatif de ce type de production notamment dans le grand ouest de la France. Cependant ce mode de production amène des transferts de dinoterbe vers les réseaux hydriques plus importants que dans le cadre des productions traditionnelles. En outre le dinoterbe a montré lors d'études récentes des caractéristiques toxicologiques et écotoxicologiques contrastées pouvant même dans certains cas entraîner des mortalités de poissons. Dans ces conditions, le ministre de l'agriculture, de la pêche et de l'alimentation a retiré aux préparations à base de dinoterbe certaines homologations et interdit son emploi sur film plastique par un avis paru au Journal officiel du 17 février 1996 et une notification officielle au fabricant concerné. Toutefois en raison de l'avancement de la période d'implantation du maïs la décision a été reportée de façon dérogatoire à la campagne 1997 de manière à laisser le temps aux agriculteurs de tester des solutions de substitution. Les producteurs ont donc pu dans des conditions très strictes employer les désherbants à base de dinoterbe pour désherber le maïs cultivé sur film plastique jusqu'au 15 juin 1996, assurant ainsi le désherbage pour la campagne agricole en cours. L'accès à ces dérogations est impossible depuis cette date.
