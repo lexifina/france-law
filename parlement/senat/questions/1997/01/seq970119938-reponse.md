@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970119938
+
+- Question : [SEQ970119938](seq970119938.md) — Mise en place d'une instance française de coordination de la lutte antifraude
+
+## Réponse
+
+*Affaires européennes, JO du 1997-02-13, page 451*
+
+Réponse. - La France, qui accorde un haut degré de priorité à la lutte contre la fraude, au plan communautaire comme au plan national, s'est dotée depuis le 9 octobre 1996 d'une instance de coordination de la lutte anti-fraude aux fonds communautaires (ICLAF). Cette instance est présidée par les représentants français au Comité de coordination de lutte anti-fraude à Bruxelles et comprend notamment les présidents des commissions interministérielles de coordination de contrôles dans le domaine des fonds structurels et du FEOGA. Elle a quatre missions principales: l'examen et la comparaison des programmes de contrôles nationaux des commissions interministérielles de coordination des contrôles des fonds communautaires ; le suivi de l'activité générale de lutte anti-fraude, notamment par la présentation d'un rapport annuel au Premier ministre ; un rôle d'interlocuteur unique dans les relations avec l'unité de coordination de la lutte anti-fraude (UCLAF) de la Commission européenne ; la possibilité de traiter tout sujet ponctuel concernant la lutte contre la fraude aux fonds communautaires. L'ICLAF se réunit au moins quatre fois par an. Au cours de sa première réunion, qui s'est tenue le 5 novembre 1996, elle a arrêté son programme de travail préliminaire pour1977. Il s'agira, d'une part, de mettre en place un mécanisme permettant à l'ICLAF de recenser les informations nécessaires à l'élaboration de son rapport annuel et d'autre part, de déterminer un petit nombre de secteurs qui devront faire l'objet d'un examen prioritaire eu égard aux dysfonctionnements ou irrégularités constatés.
