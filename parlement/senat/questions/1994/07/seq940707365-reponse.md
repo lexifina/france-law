@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940707365
+
+- Question : [SEQ940707365](seq940707365.md) — Rectifications de livrets de famille
+
+## Réponse
+
+*Affaires étrangères, JO du 1994-09-08, page 2197*
+
+Réponse. - Lorsque, en raison d'une erreur matérielle ou d'un défaut de mise à jour, un livret de famille n'est pas conforme aux énonciations des actes sur le fondement desquels il est rédigé, l'anomalie relevée peut être régularisée, soit par l'établissement d'un duplicata de livret de famille, soit par l'apposition de la mention manquante. En revanche, une rectification ou des instructions du parquet de Nantes sont, en principe, nécessaires à la mise en concordance des énonciations du corps de la transcription de l'acte de mariage déjà effectuée avec celles de l'acte de naissance établi par le centre des naturalisés à Paris, en application de l'ordonnance no 59-68 du 7 janvier 1959. Les actes de naissance établis par ce centre comportent, fréquemment, des mentions dont l'incidence n'a pas été reportée sur les actes de mariage étrangers présentés pour transcription (ex. : mention de décision étrangère de changement de prénon antérieure à l'acquisition de la nationalité française). La régularisation du livret de famille est alors consécutive aux instructions du parquet. Les dispositions de l'article 12 de la loi du 9 janvier 1993, qui a étendu le bénéfice de la procédure simplifiée de reconstitution de l'état civil prévue aux articles 98 à 98-4 et 99-1 du code civil aux personnes devenues ou redevenues françaises avant le 1er janvier 1979, permettent l'établissement des actes de mariage dressés antérieurement à l'acquisition de la nationalité française et favorisent ainsi la mise en concordance des actes de naissance, de mariage et du livret de famille. Pour les cas particuliers, il convient de saisir le service central d'état civil, afin qu'il examine, le cas échéant en liaison avec le parquet, la solution à apporter.
