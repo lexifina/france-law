@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961118825
+
+- Question : [SEQ961118825](seq961118825.md) — Agrément qualité des prestations en faveur des personnes de plus de soixante-dix ans
+
+## Réponse
+
+*Travail, JO du 1997-01-16, page 146*
+
+Réponse. - Il est précisé à l'honorable parlementaire que l'agrément qualité exigé d'un organisme qui assure notamment des prestations d'assistance aux personnes âgées de plus de 70 ans se justifie par le fait que l'assistance aux personnes âgées ne désigne pas une prestation particulière, mais les modalités que prennent nécessairement les services aux particuliers quand il sont rendus à des personnes âgées. L'intervention au domicile de ces personnes est créatrice d'exigences particulières, notamment en considération de leur fragilité, actuelle ou potentielle. Toutefois, compte tenu de leur caractère ponctuel, les interventions de petit bricolage ou de jardinage pourront être effectuées au domicile de personnes de plus de 70 ans par des organismes détenteurs du seul agrément simple. Il est précisé enfin que les associations intermédiaires, dont le rôle est d'embaucher, pour des missions de courte durée, des personnes rencontrant des difficultés particulières d'insertion, ne peuvent répondre aux critères exigés pour l'obtention de l'agrément qualité, qui vise des prestations s'adressant à des populations a priori vulnérables, puisqu'il s'agit d'enfants de moins de trois ans ou de personnes âgées, handicapées ou dépendantes. Toutefois, et de façon dérogatoire et transitoire, jusqu'au 31 décembre 1998, les associations intermédiaires titulaires d'un agrément simple sont autorisées à intervenir au domicile de personnes âgées autonomes de plus de 70 ans, sous réserve que ce soit strictement pour des activités portant sur l'entretien de la maison et du jardin.
