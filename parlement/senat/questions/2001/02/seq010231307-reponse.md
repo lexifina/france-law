@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010231307
+
+- Question : [SEQ010231307](seq010231307.md) — Recettes du tourisme en France
+
+## Réponse
+
+*Tourisme, JO du 2001-10-25, page 3402*
+
+En 2000, la France occupe toujours, selon l'Organisation mondiale du tourisme, la première place dans le monde devant les Etats-Unis et l'Espagne, avec 75,5 millions d'arrivées de touristes étrangers. Ce résultat est en progression de 3,5 % par rapport à l'année 1999. Toutefois, ces résultats ne doivent pas faire oublier que la croissance mondiale du tourisme s'élève à 7,4 % en 2000 par rapport à 1999. En termes de recettes touristiques internationales, la France est précédée en 2000 par les Etats-Unis et l'Espagne. Les recettes touristiques internationales sont cependant en très forte progression depuis ces dernières années pour la France : 215 milliards de francs en 2000, contre 196,7 milliards en 1999 et 176,6 milliards en 1998. La dépense moyenne des touristes étrangers est ainsi en augmentation sensible depuis 1998. Le compte du tourisme permet de ventiler, par secteur d'activité, la consommation liée aux séjours des touristes non résidents en France. Ainsi, en 2000, cette consommation se répartissait notamment entre hôtels, cafés, restaurants et autres hébergements touristiques marchands (44,5 %), activités de loisirs (8,8 %), agences de voyages et voyagistes (21,4 %), alimentation (8,5 %), achats et autres prestations (12,2 %). La relative faiblesse des dépenses liées à l'alimentation ou à l'essence, effectuées par les touristes individuels nord-européens, ainsi que la moindre durée des séjours réalisés sur le territoire national par les touristes internationaux (7 jours en moyenne) comparée à celles des séjours réalisés aux Etats-Unis et en Espagne, expliquent le moins bon classement de la France en matière de recettes touristiques internationales. En effet, elle conserve une place éminente de carrefour pour le flux de touristes, du fait de sa position géographique.
