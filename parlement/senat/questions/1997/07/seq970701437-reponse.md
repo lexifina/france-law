@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701437
+
+- Question : [SEQ970701437](seq970701437.md) — Bilan des chartes régionales d'initiative-emploi
+
+## Réponse
+
+*Emploi, JO du 1997-11-06, page 3073*
+
+Réponse. - Les chartes initiatives emploi, lancées à partir de 1995, ont pour objet de formaliser les engagements de l'Etat et des partenaires locaux (collectivités territoriales, chambres consulaires, organisations patronales, entreprises) en faveur du développement de l'emploi. Si tous les départements en ont signé une, il n'existe pas cependant au niveau national, de bilan global de cette démarche. La très grande hétérogénéité des chartes et le choix ou non de se donner des objectifs quantitatifs rendent difficiles ce bilan. On peut cependant noter quatre types d'actions générées par ces chartes : la mise en place de dispositifs d'alerte sur les entreprises en difficulté ; la mise en place de guichets initiative emploi qui ont donné des résultats très contrastés selon les départements (et ont déjà disparu dans nombre d'entre-eux) ; la création de réseaux de développements dans une vingtaine de départements ; des initiatives et une organisation du partenariat local pour développer les emplois de service. Pour ce qui concerne la région Rhône-Alpes plus particulièrement, une étude spécifique permet de dégager les principaux thèmes d'action retenus : le développement des groupements d'employeurs notamment agricoles (Ain et Haute-Savoie) ; la relance de l'alternance (Ardèche, Isère, Savoie et Drôme) ; la création de réseaux de parrainage (Loire, Haute-Savoie) ; la structuration de l'offre de service en matière d'emplois familiaux (Ain, Isère, Rhône) ; la déclinaison en chartes locales (Rhône et Haute-Savoie) ; des opérations spécifiques dans les transports, la plasturgie le nettoyage dans l'Ain.
