@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910515338
+
+- Question : [SEQ910515338](seq910515338.md) — Prise en charge par les communes des retraites complémentaires des maires et adjoints
+
+## Réponse
+
+*Intérieur, JO du 1991-08-08, page 1713*
+
+Réponse. - En application de la loi n° 72-1201 du 23 décembre 1972 portant affiliation des maires et adjoints au régime de retraite complémentaire des agents non titulaires de l'Etat et des collectivités publiques (Ircantec) et de son décret d'application n° 73-197 du 27 février 1973, les maires et adjoints qui reçoivent une indemnité de fonctions relèvent de l'institution de retraite complémentaire des agents non titulaires de l'Etat et des collectivités publiques (Ircantec). Cette affiliation ne peut être réalisée qu'auprès de cette institution et les cotisations des communes constituent pour celles-ci une dépense obligatoire. Toute autre cotisation de retraite versée par la collectivité concernée, sous quelque forme que ce soit, serait illégale. En effet, en vertu du principe législatif de la gratuité des mandats fixé par la loi municipale du 5 avril 1884 et qui demeure en vigueur, seule la loi peut décider l'octroi d'indemnités ou d'avantages de retraite au bénéfice des élus locaux. Cette question entre dans le cadre du débat sur le statut de l'élu. Sur la base des observations et des conclusions que le groupe de travail présidé par M. Marcel Debarge, maire du Pré-Saint-Gervais, a remises au Gouvernement en mars 1990, un projet de loi relatif aux conditions d'exercice des mandats locaux a été élaboré. Ce texte devrait être, après son adoption par le Gouvernement, prochainement déposé au Parlement. Il vise à procurer aux élus locaux les garanties nécessaires non seulement à l'exercice de leur mandat, mais aussi à un bon fonctionnement de la démocratie locale.
