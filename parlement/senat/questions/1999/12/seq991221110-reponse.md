@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991221110
+
+- Question : [SEQ991221110](seq991221110.md) — Taxes parafiscales sur le stockage d'hectolitres d'alcool pur distillés
+
+## Réponse
+
+*Économie, JO du 2001-01-25, page 249*
+
+Réponse. - Les taxes parafiscales perçues dans un intérêt économique ou social au profit d'une personne morale de droit privé, telle que le Bureau national interprofessionnel du cognac, sont établies par décret en Conseil d'Etat conformément à l'article 4 de l'ordonnance nº 59-2 du 2 janvier 1959 portant loi organique relative aux lois de finances. La taxe parafiscale destinée à assurer le financement du Bureau national interprofessionnel du cognac a été prévues par le décret en Conseil d'Etat nº 97-1087 du 25 novembre 1997, pour les années 1997 à 2001. Le texte du décret a été transmis à la Commission des communautés européennes pour examen. Il n'a pas fait l'objet d'observation. Le caractère réglementaire des dispositions de ce décret et, notamment celles relatives à la taxation sur le stockage d'hectolitres d'alcool pur distillés, a donc été vérifié. Il est rappelé que le produit de ces taxes permet au Bureau national interprofessionnel du cognac d'assurer ses dépenses de fonctionnement et de multiples actions, notamment pour le contrôle et la tenue des comptes d'âge des alcools ainsi que des actions collectives de promotion. Elles permettent également le fonctionnement de la station de recherche de cette organisation qui contribue à l'amélioration qualitative des produits. S'agissant des autres secteurs de la production alimentaire, des taxes sont également perçues sur le stockage, par exemple dans le secteur des céréales, en application de l'article 363 Y du code général des impôts. Le secteur du sucre connaît également une taxation de ce type, conformément à l'article 564 ter du même code.
