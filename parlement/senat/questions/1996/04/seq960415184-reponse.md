@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960415184
+
+- Question : [SEQ960415184](seq960415184.md) — Délais de paiement des allocations chômage
+
+## Réponse
+
+*Travail, JO du 1996-07-11, page 1770*
+
+Réponse. - L'honorable parlementaire attire l'attention sur les délais de paiement des allocations de chômage. Depuis le 1er juillet 1995, l'UNEDIC et l'ANPE ont mis en place une procédure nouvelle d'actualisation de l'inscription des demandeurs d'emploi dans le but de simplifier les déclarations des demandeurs d'emploi tout en garantissant mieux la rapidité et la régularité du paiement des allocations. Le document sur lequel le demandeur d'emploi doit procéder à l'actualisation mensuelle de sa situation est renvoyé par l'ASSEDIC dans les premiers jours de chaque mois afin de permettre à l'intéressé d'actualiser sa situation à la fin de chaque mois. Toutefois, si au cours du mois actualisé le demandeur d'emploi a exercé une activité professionnelle, l'ASSEDIC ne peut procéder au paiement des allocations qu'après réception du bulletin de salaire relatif à cette activité. De même, si le demandeur d'emploi a participé au cours du mois actualisé à un stage, ou s'il vient à percevoir une pension de retraite ou une pension d'invalidité de 2e ou 3e catégorie, ces événements doivent donner lieu à présentation à l'ASSEDIC d'un justificatif avant tout paiement. Ces justificatifs sont traités par l'ASSEDIC dès leur retour, au jour le jour. De même, les paiements effectués par les ASSEDIC après examen des justificatifs sont quotidiens. Cette nouvelle procédure conduit à limiter considérablement les versements indus, sans que le paiement des allocations en soit retardé. En effet, si les intéressés envoient leurs justificatifs à temps, ils perçoivent leurs allocations aux même dates que les autres allocataires, au plus tard le 10 du mois.
