@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031210345
+
+- Question : [SEQ031210345](seq031210345.md) — Evolution prévisionnelle des effectifs et du réseau des trésoreries en Creuse
+
+## Réponse
+
+*Économie, JO du 2004-06-03, page 1192*
+
+Le réseau du Trésor public s'adapte en permanence aux besoins de ses usagers et partenaires ainsi qu'aux évolutions de son environnement de façon à garantir et même enrichir l'offre du Trésor public. L'objectif est d'offrir la meilleure forme d'organisation territoriale en s'adaptant aux réalités géographiques, économiques et humaines. Dans ce cadre, les opérations réalisées dans le département de la Creuse doivent permettre de rationaliser l'organisation du réseau du Trésor public et d'améliorer la qualité des services rendus aux élus et aux usagers. C'est ainsi qu'un arrêté en date du 11 décembre 2003 est venu entériner la suppression au 1er janvier 2004 de trois trésoreries de ce département. Il s'agissait de régulariser les situations existantes dans les faits depuis plusieurs années puisque les postes de Jarnages, Genouillac et Lavaleix-les-Mines disposaient déjà de permanences. Cette réorganisation s'est accompagnée d'une large information des élus locaux concernés. L'analyse de la fréquentation des guichets a par ailleurs permis de maintenir sur ces sites une présence plus ciblée, lors des principales échéances d'impôts, et adaptée au conseil auprès des collectivités locales. S'agissant des effectifs de la Creuse après 2004, la situation du département sera revue tous les ans, en application de la loi de finances et au regard de l'activité de ses trésoreries. En ce qui concerne son réseau, il a été demandé au trésorier-payeur général de réfléchir à l'organisation territoriale selon un dispositif largement déconcentré et adapté aux situations locales. Hormis les trois opérations mises en oeuvre au 1er janvier 2004, aucune autre n'est envisagée pour l'année 2004.
