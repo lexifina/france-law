@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000122103
+
+- Question : [SEQ000122103](seq000122103.md) — Harmonisation de la réglementation locale d'urbanisme
+
+## Réponse
+
+*Logement, JO du 2000-12-21, page 4379*
+
+Réponse. - L'article L. 410-1, alinéa 2, du code de l'urbanisme dispose que, " lorsque toute demande d'autorisation pourrait, du seul fait de la localisation du terrain, être refusée en fonction des dispositions d'urbanisme et, notamment, des règles générales d'urbanisme, la réponse à la demande de certificat d'urbanisme est négative ". L'administration compétente pour délivrer les certificats d'urbanisme a compétence liée pour délivrer un certificat négatif lorsqu'un permis de construire pourrait être refusé sur le fondement de l'article R. 111-2 du code de l'urbanisme (CE, 27 juillet 1990, Cne de Ruffey-lès-Echirey, req. nº 107256). Cette règle générale d'urbanisme est d'ordre public et s'applique y compris pour un terrain situé dans la zone urbaine UA d'un plan d'occupation des sols. Ce refus n'exclut pas l'octroi ultérieur d'un permis de construire si le projet de construction ne porte plus atteinte à la salubrité et à la sécurité publiques précédemment invoquées. Soit le projet de construction a été modifié en conséquence, soit les risques d'atteinte à la sécurité et à la salubrité publiques n'on plus la même intensité à la date de la délivrance de ce permis de construire. La disposition législative précitée a précisément été introduite au code de l'urbanisme pour prévenir les acquéreurs des terrains concernés des risques qu'ils encourraient. Un certificat d'urbanisme négatif ne stérilise donc pas toute urbanisation future. Il est par ailleurs délivré pour un terrain précis alors même que des habitation existent sur des parcelles voisines, celles-ci ayant pu être autorisées à une époque où aucun élément connu ne compromettait leur construction.
