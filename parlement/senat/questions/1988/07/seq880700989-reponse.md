@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880700989
+
+- Question : [SEQ880700989](seq880700989.md) — Elimination de la leucose bovine
+
+## Réponse
+
+*Agriculture, JO du 1989-01-26, page 132*
+
+Réponse. - Le processus de généralisation de la lutte contre la leucose bovine enzootique latente, entrepris en 1988 avec l'appui financier de l'Etat, a pu se développer notamment grâce à la forte mobilisation des éleveurs et de leurs fédérations départementales de groupements de défense sanitaire ; celle-ci a été relayée, pour ce qui concerne l'organisation active des opérations de prophylaxie et l'action concrète sur le terrain, par les agents des services vétérinaires sanitaires. Quelles qu'aient été les modalités administratives retenues au plan départemental (convention dite " collective " avec un maître d'oeuvre ou conventions individuelles liant directement les éleveurs volontaires à l'Etat), l'opération d'envergure lancée en 1988 est sur le point de se solder par un succès incontestable puisque environ 90 000 bovins infectés de leucose bovine enzootique latente ont d'ores et déjà été abattus. Compte tenu de cette réussite, il apparaît, pour le présent, inopportun de modifier l'organisation de la prophylaxie décentralisée de la leucose bovine enzootique actuellement en place. Il est donc prévu la reconduction pure et simple du dispositif en 1989, à l'exception des aides de l'Etat dites de compensation des pertes laitières. L'objectif poursuivi est bien l'élimination totale de la leucose. Dans l'immédiat, c'est la voie contractuelle qui a été retenue pour l'abattage volontaire, mais il faut savoir que les règles actuelles qui s'appliquent à tous les éleveurs, notamment l'interdiction de commercialiser quelqu'animal que ce soit, sauf à destination directe des abattoirs, sont une forte incitation à l'assainissement des cheptels.
