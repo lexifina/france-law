@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960113463
+
+- Question : [SEQ960113463](seq960113463.md) — Statut des physiciens des hôpitaux publics
+
+## Réponse
+
+*Santé, JO du 1996-09-05, page 2294*
+
+Réponse. - L'équipement des établissements publics de santé en matériel radionucléaire nécessite la présence d'une équipe pluridisciplinaire dont font partie les radiophysiciens. L'évolution des effectifs de radiophysiciens exerçant dans les établissements publics de santé est significative et continue corrélativement à l'augmentation des équipements dont ils ont la charge (1990 : 70 ; 1995 : 90). La circulaire du 25 mars 1991 définit les conditions de recrutement et d'exercice de la profession de radiophysicien à l'hôpital public et offre un déroulement de carrière auquel sont associées des conditions de rémunérations fixées compte tenu du niveau de recrutement exigé. Un stage d'agrément est obligatoire pour obtenir l'habilitation qui donne le droit d'exercer la profession de radiophysicien dans un établissement public de santé. Les physiciens d'hôpitaux ne peuvent être assimilés directement à une profession de santé, même si leur collaboration est étroite avec les médecins et les autres intervenants concourant aux actes de radiodiagnostic, de radiothérapie et de médecine nucléaire. Ils ne sont pas classés dans le titre IV du code de la santé publique dans la catégorie des auxiliaires médicaux, à la fois parce que leur formation de base n'est pas une formation spécifiquement sanitaire, mais aussi parce que le niveau de leur formation (doctorat d'Etat pour la plupart d'entre eux) est totalement différent de celui des auxiliaires médicaux (trois années d'études après le baccalauréat). Aujourd'hui, une attention particulière est portée à cette profession, et une réflexion est engagée sur l'évolution de ces emplois et les moyens à mettre en oeuvre pour garantir aux radiophysiciens le meilleur exercice de leur métier.
