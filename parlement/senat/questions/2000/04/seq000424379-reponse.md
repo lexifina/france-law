@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000424379
+
+- Question : [SEQ000424379](seq000424379.md) — Avenir de la gendarmerie de Dornes
+
+## Réponse
+
+*Défense, JO du 2000-06-01, page 1955*
+
+Réponse. - La réorganisation du dispositif de la gendarmerie nationale s'inscrit dans le prolongement de la ferme volonté du Gouvernement d'assurer l'égalité de chaque citoyen devant le droit à la sécurité. Elle impose de rechercher une juste adéquation des moyens au besoin de sécurité des populations et vise à déployer les effectifs disponibles en fonction des réalités de la délinquance. Dans cette perspective, l'organisation et la situation des brigades territoriales du département de la Nièvre, comme celles d'autres départements, ont fait l'objet d'une étude technique. Le devenir de la brigade territoriale de Dornes n'a pas été remis en cause. En outre, l'expérimentation envisagée en juillet 1999 concernant un nouveau mode de fonctionnement des unités de gendarmerie, permettant une meilleure adéquation entre les besoins avérés et les moyens que la gendarmerie peut y consacrer dans l'arrondissement de Clamecy, a été abandonnée. La brigade territoriale de Dornes n'était d'ailleurs pas concernée par cet aménagement expérimental. En tout état de cause, les éventuelles modifications du dispositif actuel de la gendarmerie nationale ne sauraient se traduire par un affaiblissement de la sécurité dans les campagnes. En particulier, il est impératif que soit assurée l'intervention dans un délai le plus court possible sur l'ensemble du territoire relevant de chaque brigade territoriale. Il est également nécessaire que la gendarmerie puisse mener des recherches efficaces dans les zones peu peuplées, où des actions de délinquance peuvent se préparer. A ce titre, le principe du maintien d'une brigade par canton est réaffirmé. La pérennité de la brigade territoriale de Dornes, unique dans le canton, n'est donc pas menacée.
