@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000626244
+
+- Question : [SEQ000626244](seq000626244.md) — Politique familiale : aides au logement et modes de garde
+
+## Réponse
+
+*Famille, JO du 2000-12-14, page 4273*
+
+Réponse. - Lors de la conférence de la famille du 15 juin 2000, le Gouvernement a annoncé la réforme des aides au logement qui vise à fusionner les barèmes des différentes aides existantes dans le secteur locatif : l'allocation de logement familiale, l'allocation de logement sociale, l'aide personnalisée au logement. Cette réforme permettra ainsi de simplifier le système des aides au logement et également de traiter de façon plus équitable les personnes percevant de petits revenus d'activité par rapport aux titulaires de minima sociaux. Quant à l'AFEAMA, lors de la conférence de la famille du 15 juin 2000, il a été décidé de fixer le montant de la majoration en fonction des ressources de la famille afin de mieux prendre en compte les charges représentéees pour les familles par la garde de leurs enfants. En ce qui concerne les crèches, le Gouvernement relance la création de places supplémentaires. Les caisses d'allocations familiales mettront à la disposition des collectivités locales un fonds d'investissement exceptionnel de 1,5 milliard de francs, afin de permettre, à terme, l'accueil de 30 000 à 40 000 enfants supplémentaires dans les différentes structures d'accueil à la petite enfance : crèches, haltes-garderies, structures innovantes, " multi-accueil ". Ainsi, le Gouvernement s'efforce de prendre des mesures qui permettent à l'ensemble des familles d'exercer un choix entre les différents modes de garde alors que, jusqu'à présent, seules les familles aisées bénéficiaient en pratique de ce libre choix. Ces mesures visent à rééquilibrer les montants d'aides versées aux familles selon les modes de garde afin que la participation financière des familles devienne, à revenu égal, équivalente.
