@@ -1,0 +1,9 @@
+# Réponse à la question SEQ891207646
+
+- Question : [SEQ891207646](seq891207646.md) — Situation du Crédit agricole
+
+## Réponse
+
+*Agriculture, JO du 1990-06-28, page 1406*
+
+Réponse. - La mutualisation de la Caisse nationale de crédit agricole a été conçue par ses promoteurs au sein du Crédit agricole comme le moyen pour les caisses régionales de se réapproprier leur organe central, et par le gouvernement de l'époque comme une pièce maîtresse de sa politique de privatisation. Aujourd'hui, la mutualisation est une donnée acquise. Le Crédit agricole est à présent totalement mutualisé, puisque la caisse régionale de Toulouse est partie prenante au capital de la Caisse nationale de crédit agricole. En tant que groupe, il dispose de tous les moyens juridiques pour faire face à d'éventuels problèmes de fonctionnement internes sans l'interervention de l'Etat. D'une façon générale, les rapports entre la Caisse nationale de crédit agricole et les pouvoirs publics ont changé de nature. La Caisse nationale de crédit agricole n'est plus un outil d'intervention directe entre les mains de l'Etat. Par ailleurs, d'autres banques sont appelées, depuis le 1er janvier 1990, à s'engager dans le financement de l'agriculture. Néanmoins, le Crédit agricole conserve à l'évidence des responsabilités particulières aux côtés des agriculteurs, qui justifient qu'il puisse, le cas échéant, apporter par voie contractuelle une collaboration spécifique aux pouvoirs publics. C'est ainsi par exemple que, pour faciliter la transition vers le régime multibancaire de distribution des prêts bonifiés agricoles, l'Etat a confié par convention au Crédit agricole, en 1990, la responsabilité de la gestion de la partie des enveloppes de prêts qui correspond aux engagements de financement pris avant la fin de l'année 1989.
