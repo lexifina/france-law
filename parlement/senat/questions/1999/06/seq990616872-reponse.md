@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990616872
+
+- Question : [SEQ990616872](seq990616872.md) — Situation en Colombie
+
+## Réponse
+
+*Affaires étrangères, JO du 1999-07-29, page 2559*
+
+Réponse. - Conscient de la gravité de la situation en Colombie et des risques d'extension du conflit aux pays voisins, le Gouvernement français suit, avec attention, les efforts que les autorités colombiennes déploient pour ramener la paix civile. Tout en partageant vos préoccupations, il se félicite des avancées du processus de paix. Le chef de l'Etat colombien, héritant d'une situation fortement dégradée, caractérisée par un conflit endémique, l'intensification des actions meurtrières des guérilleros, des paramilitaires et des trafiquants de drogue et une grave détérioration de l'ordre public, a fait de la recherche de la paix civile la priorité de son mandat et sa détermination ne paraît pas faiblir. Les pourparlers sont, certes, lents à se mettre en place. Les efforts de paix sont rendus plus difficiles par la diversité des acteurs impliqués (Forces armées révolutionnaires de Colombie >FARC>, Armée de libération nationale >ELN>, paramilitaires). Lancées le 7 janvier, suspendues le 19 janvier, reprises le 6 mai, les négociations avec les FARC s'ouvriront véritablement le 7 juillet. Le Président Pastrana serait prêt à engager également des négociations avec l'ELN si ce groupe armé libérait, rapidement et sans conditions, tous les otages qu'il détient. Le processus engagé est complexe et incertain, mais il va dans le bon sens. L'idée d'une implication de la communauté internationale est évoquée par les autorités colombiennes, sans plus de précisions à ce stade. La France, si elle est sollicitée, serait disponible, comme elle l'a indiqué aux autorités colombiennes, pour apporter, le moment venu, et selon des modalités à définir, son concours, à titre bilatéral ou dans le cadre de l'Union européenne, afin de contribuer à la réconciliation nationale en Colombie.
