@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870907709
+
+- Question : [SEQ870907709](seq870907709.md) — Emploi des gluaux par les chasseurs de la région Provence, Alpes, Côte-d'Azur
+
+## Réponse
+
+*Environnement, JO du 1987-11-05, page 1758*
+
+Réponse. -La capture des grives aux gluaux fait l'objet, ainsi que d'autres chasses traditionnelles, d'une action engagée contre la France par la commission des communautés européennes pour non respect de la directive communautaire sur la protection des oiseaux d'Europe. Le mode de capture utilisé fait partie des procédés explicitement prohibés par cette directive, en tant que moyens de capture non sélective et massive. Cette directive prévoit cependant la possibilité de dérogation pour la capture contrôlée et sélective de certains oiseaux en petites quantités. La France, qui a participé à la préparation de la directive et à laquelle elle a librement adhéré, ne saurait se soustraire à ce texte. Il lui appartient par contre de préserver ses traditions locales dans la mesure où celles-ci n'entrent pas en contradiction avec les objectifs de la directive. C'est sur la base de cette analyse que notre pays a notifié depuis longtemps à la communauté des dérogations r elatives notamment à l'autorisation de certaines chasses traditionnelles, parmi lesquelles la capture des grives aux gluaux dans certains départements méridionaux, et dont l'impact sur les populations d'oiseaux concernées est négligeable. La commission conteste ces dérogations en estimant que les conditions requises pour déroger ne sont pas remplies. C'est un des objectifs du contentieux actuel. Le Gouvernement n'a pas l'intention de remettre en cause sa politique en la matière. Il apparaît néanmoins nécessaire, pour confirmer explicitement que les conditions permettant de déroger sont réunies, d'instituer dans les textes un système de contrôle et de limitation des prises qui ne remet aucunement en question l'existence des chasses concernées.
