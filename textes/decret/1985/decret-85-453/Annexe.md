@@ -66,6 +66,8 @@ Réalisation d'une nouvelle piste à l'intérieur d'un aérodrome dont la réali
 
 Travaux exécutés en vue de changement de catégorie, au sens des dispositions de l'article R. 222-5 du code de l'aviation civile, d'un aérodrome dont la réalisation est soumise à enquête en vertu du premier alinéa.
 
+Modification permanente de la circulation aérienne de départ ou d'approche aux instruments en application de l'article R. 227-7 du code de l'aviation civile.
+
 10° Voies navigables.
 
 Travaux de construction ou de modification du gabarit de la voie et des ouvrages et d'un montant supérieur à 1 900 000 euros.
@@ -245,3 +247,13 @@ Premiers boisements d'un seul tenant portant sur une superficie d'au moins 25 he
 40° Projets d'affectation de terres incultes ou d'étendues semi-naturelles à l'exploitation agricole intensive.
 
 Projets portant sur une superficie d'au moins 50 hectares.
+
+NOTA :
+
+NOTA : L'article 8, 1er alinéa du décret n° 2005-935 énonce :
+
+"Sont abrogées, sauf en tant qu'elles s'appliquent en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les terres australes et antarctiques françaises et à Mayotte, les dispositions énumérées ci-après :
+
+"...
+
+"26° Le décret n° 85-453 du 23 avril 1985 pris pour l'application de la loi n° 83-630 du 12 juillet 1983 relative à la démocratisation des enquêtes publiques et à la protection de l'environnement ;" Le décret 2007-397 du 22 mars 2007 art. 14 a levé la réserve.
