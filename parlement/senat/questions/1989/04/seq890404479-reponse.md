@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890404479
+
+- Question : [SEQ890404479](seq890404479.md) — Mise en place et tarification des foyers de vie pour handicapés
+
+## Réponse
+
+*Handicapés, JO du 1990-08-23, page 1833*
+
+Réponse. - Il est précisé à l'honorable parlementaire que les " Foyer de vie " ou " Foyer occupationnel " sont des structures destinées à recevoir des personnes handicapées qui ne possèdent pas une capacité suffisante pour exercer une activité professionnelle même en milieu protégé mais qui, néanmoins, ont une autonomie suffisante pour se livrer à des occupations quotidiennes. Ces foyers mettent en oeuvre des soutiens médicosociaux adaptés à l'état des personnes qui y sont accueillies après décision de la Commission technique d'orientation et de reclassement professionnel. Ces institutions sont créées à l'initiative des départements qui, depuis les lois de décentralisation sont responsables de l'hébergement et du maintien à domicile des personnes handicapées. Depuis que la responsabilité leur a été transférée, les départements ont poursuivi l'effort de création de nouveaux foyers et d'adaptation qualitative des structures existantes, en particulier en transformant de nombreuses places d'hospices. Afin de répondre aux besoins d'adultes gravement handicapés, il a été décidé, par une circulaire n° 86-6 du 14 février 1986, de mettre en place un programme expérimental de création de foyers à double tarification : 1° le département assurant la prise en charge des dépenses d'hébergement et d'animation ; 2° les régimes d'assurance-maladie prenant en charge, de manière forfaitaire, les dépenses de soins. Une active concertation entre l'Etat, l'assurance-maladie et les départements a permis, à ce jour, la création ou la reconnaissance et 46 établissements de cette nature comportant au total 1 363 lits et places.
