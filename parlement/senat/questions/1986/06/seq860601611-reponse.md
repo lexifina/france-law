@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860601611
+
+- Question : [SEQ860601611](seq860601611.md) — Contrôle des prix: affectation de certains effectifs de police
+
+## Réponse
+
+*Intérieur, JO du 1986-11-13, page 1599*
+
+Réponse. -L'attention du ministre de l'intérieur a été appelée sur l'emploi de certaines forces de police en matière de contrôle des prix. Dans le cadre de la lutte contre l'inflation entreprise par le précédent gouvernement, des instructions du ministre de l'économie, des finances et du budget, du ministre de la défense et du ministre de l'intérieur et de la décentralisation avaient été adressées aux commissaires de la République en vue d'apporter le concours de la police, de la gendarmerie et des douanes aux fonctionnaires de la direction générale de la concurrence et de la consommation pour la constatation des infractions. Ces différentes opérations de contrôle n'ont pas soulevé d'observations particulières ; grâce à la formation complémentaire qui leur a été donnée les fonctionnaires de police et des douanes ainsi que les militaires de la gendarmerie sont toujours intervenus avec discrétion et efficacité, et plusieurs assemblées consulaires se sont plu à souligner le tact avec lequel cette mission a été remplie. Dès lors, à aucun moment il n'a été signalé que ces opérations aient pu engendrer le moindre discrédit à l'encontre des agents de l'Etat chargés de faire appliquer la loi et agissant dans un cadre réglementaire bien défini. Aujourd'hui, ces instructions n'ont pas été renouvelées et les fonctionnaires de la police nationale, ceux des douanes et les militaires de la gendarmerie se consacrent donc à leur mission prioritaire de protection des personnes et des biens dans le contexte sensible actuel. Cela pose d'autant moins de problème que les professions concernées par les contrôles invoqués par l'honorable parlementaire font dans l'ensemble tout à fait preuve de discipline.
