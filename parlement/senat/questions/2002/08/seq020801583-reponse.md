@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020801583
+
+- Question : [SEQ020801583](seq020801583.md) — Difficultés d'application de l'article 46 de la loi relative à la solidarité et au renouvellement urbains
+
+## Réponse
+
+*Équipement, JO du 2003-01-02, page 47*
+
+Le nouveau système de participation pour voie nouvelle et réseaux permet à une commune, dès lors qu'elle a décidé de créer un segment de voie urbaine nouvelle - soit en créant une voie entièrement nouvelle, soit en aménageant une voie existante - de mettre à la charge de tous les propriétaires des terrains que l'aménagement de cette voie rendra constructibles, non seulement le coût des réseaux, mais également celui de l'aménagement de la voie et de l'installation de l'éclairage public. Les propriétaires sont appelés à verser cette participation soit après une convention de préfinancement avec la commune, soit lorsqu'ils construisent. La convention garantit le maintien de la constructibilité du terrain. Ce mécanisme est plus favorable que ce qui était légalement autorisé par le texte antérieur et il n'est pas souhaitable d'en suspendre l'application. Cependant, le texte actuel pose des difficultés, en particulier lorsqu'il s'agit d'aménager une voie existante partiellement équipée, difficultés auxquelles le Gouvernement entend remédier. A cette fin, une disposition du projet de loi relative à diverses dispositions relatives à l'urbanisme, à l'habitat et à la construction, qui vient d'être déposé sur le bureau de l'Assemblée nationale précise, entre autres, que la participation peut être exigée pour l'aménagement d'une voie existante, qu'il revient à la commune et à elle seule de définir le niveau futur de la voie et que, dans le cas de voies partiellement aménagées, seuls les équipements qui manquent peuvent être mis à la charge des propriétaires.
