@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020902347
+
+- Question : [SEQ020902347](seq020902347.md) — Moyens de contrôle des élus locaux sur l'ouverture d'un club échangiste
+
+## Réponse
+
+*Intérieur, JO du 2003-03-20, page 953*
+
+L'honorable parlementaire appelle l'attention du ministre de l'intérieur, de la sécurité intérieure et des libertés locales sur les moyens dont disposent les maires pour s'opposer à l'ouverture de clubs privés à vocation échangiste. En application de l'article L. 2211-2 du code général des collectivités territoriales, les maires disposent de compétences leur permettant d'intervenir en matière de " bon ordre, sûreté, sécurité et salubrité publiques ". La jurisprudence des juridictions administratives admet que la moralité publique est un élément de l'ordre public. Toutefois lorsque l'autorité municipale édicte des arrêtés ayant pour objet ou pour effet de restreindre l'exercice d'une liberté, en l'espèce la liberté de commerce, ces décisions ne doivent pas présenter un caractère général et absolu et doivent être réduites au strict nécessaire. Il importe ainsi que l'intervention d'une éventuelle décision de police administrative restreignant l'exercice de l'activité en cause, en l'espèce l'échangisme, soit motivée par l'existence de circonstances locales particulières de nature à faire craindre des troubles à l'ordre public. Il importe également, si l'activité en cause ne constitue qu'un élément de l'ensemble des activités d'un établissement - par exemple, si cet établissement est une discothèque ou un débit de boissons - que la mesure envisagée soit limitée à cette activité sans restreindre les autres activités. Sous réserve du respect de ces conditions jurisprudentielles, les pouvoirs de police que confère au maire le code général des collectivités locales répondent aux préoccupations de l'honorable parlementaire.
