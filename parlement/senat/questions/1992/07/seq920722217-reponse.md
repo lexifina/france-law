@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920722217
+
+- Question : [SEQ920722217](seq920722217.md) — Conditions d'exercice des mandats locaux
+
+## Réponse
+
+*Collectivités locales, JO du 1992-09-10, page 2062*
+
+Réponse. - La loi n° 92-108 du 3 février 1992 a ouvert la faculté pour certains élus locaux d'interrompre leur activité professionnelle pour se consacrer à leur mandat électif et de bénéficier d'un certain nombre de garanties dans leur profession ainsi que d'une protection sociale particulière. Ce droit nouveau est réservé aux élus qui sont salariés, fonctionnaires ou agents contractuels de l'Etat, des collectivités locales et de leurs établissements publics administratifs. Dans les communes, les élus concernés sont les maires à partir du seuil de 10 000 habitants et les adjoints à partir de 30 000 habitants. Il convient de préciser que, dans ce cadre, les élus abandonnant complètement leur profession, il n'existe pas de disposition permettant de leur accorder un temps partiel. A la fin de leur mandat, les élus doivent faire l'objet d'une réintégration par leur employeur et, s'ils le demandent, peuvent suivre un sage de remise à niveau organisé dans l'entreprise. Enfin, pour ceux d'entre-eux qui ne relèvent plus à titre obligatoire d'un régime de sécurité sociale, il est prévu, durant leur mandat, une affiliation au régime général de la sécurité sociale pour les prestations en nature des assurances maladie, maternité et invalidité ainsi que pour la retraite. Pour les autres élus qui conservent leur activité professionnelle, la loi du 3 février 1992 prévoit un crédit d'heures forfaitaire trimestriel d'une durée variable en fonction des mandats détenus ainsi qu'un dispositif d'autorisations d'absence pour se rendre et participer à certaines séances et réunions. Dans le cas d'exercice d'une profession à mi-temps, la loi n° 92-108 du 3 février 1992 est sans influence sur le statut juridique de l'élu concerné.
