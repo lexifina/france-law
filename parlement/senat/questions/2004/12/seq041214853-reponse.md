@@ -1,0 +1,9 @@
+# Réponse à la question SEQ041214853
+
+- Question : [SEQ041214853](seq041214853.md) — Augmentation des loyers HLM
+
+## Réponse
+
+*Logement, JO du 2005-03-10, page 701*
+
+Chaque année, le Gouvernement recommande, par circulaire, aux organismes d'habitations à loyer modéré (HLM) de ne pas dépasser un certain pourcentage d'augmentation des loyers. Ce pourcentage a été fixé à 2,0 % pour l'année 2004 et à 1,9 % pour l'année 2005. En cas de dépassement de ce pourcentage, les préfets sont appelés à exiger une seconde délibération de l'organisme bailleur en lui demandant de réduire la hausse prévue par la première délibération. Dans un nombre significatif de cas, cette intervention a conduit les organismes HLM à réduire l'augmentation prévue des loyers. La loi de programmation pour la cohésion sociale est entrée en vigueur le 18 janvier 2005. Elle définit les moyens nécessaires à la réalisation de 500 000 logements locatifs sociaux entre 2005 et 2009, hors programme national de rénovation urbaine. La loi de programmation prévoit également de mobiliser le parc locatif privé, grâce aux aides de l'Agence nationale pour l'amélioration de l'habitat (ANAH). 200 000 logements privés à loyers maîtrisés seront ainsi produits, au cours des cinq prochaines années, et 100 000 logements vacants remis sur le marché locatif. Le Gouvernement a également mené à bien une réforme majeure de l'accession sociale à la propriété en améliorant le barème du prêt à 0 % et en ouvrant ce dispositif à l'acquisition de logements anciens. Chaque année, 240 000 ménages seront aidés par l'Etat à devenir propriétaires, si bien que la mobilité dans le parc locatif sera encouragée. L'augmentation de l'offre de logements accessibles aux ménages disposant de ressources modestes, que permet l'action menée par le Gouvernement, modérera les tensions sur les loyers.
