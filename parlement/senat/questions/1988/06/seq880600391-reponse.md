@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880600391
+
+- Question : [SEQ880600391](seq880600391.md) — Modalités d'application de la loi sur la pêche
+
+## Réponse
+
+*Environnement, JO du 1988-08-11, page 912*
+
+Réponse. - 29 juin 1984 relative à la pêche en eau douce et à la gestion des ressources piscicoles, apporte à la pêche professionnelle en eau douce les moyens favorables à son développement. Ceux qui l'exercent sont seuls autorisés à en commercialiser le produit, sous réserve de remplir les conditions inhérentes à l'exercice de toute profession, notamment au regard de la protection sociale. Elle se distingue aussi, par ses structures propres, de la pêche pratiquée par les amateurs qui permet, pour constituer un loisir, de satisfaire les besoins de la consommation familiale de poissons. Dans les eaux du domaine public, la pêche aux engins et aux filets est réglementée dans le cadre de la location du droit de pêche de l'Etat. Dans celles non mentionnées à l'article 419 du code rural et qui figurent sur une liste établie par arrêté du ministre chargé de la pêche en eau douce, le préfet fixe les conditions de son exercice conformément aux dispositions du décret n° 85-1385 du 23 décembre 1985 pris pour l'application de l'article 437 du code rural et réglementant la pêche en eau douce. Dès lors qu'elle ne porte pas atteinte à l'équilibre des peuplements piscicoles des cours d'eau et des plans d'eau, la pêche aux engins et aux filets représente un mode d'exploitation des ressources naturelles, dans un but commercial ou de loisir, que les riverains du domaine privé ou leurs ayants droit conservent toujours la faculté d'exercer dans les conditions définies par la réglementation en vigueur. En tout état de cause, la réglementation de la pêche s'applique indifféremment à l'Etat, aux communes et aux propriétaires riverains qui possèdent les droits de pêche.
