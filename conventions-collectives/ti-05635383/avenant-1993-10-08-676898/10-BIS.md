@@ -1,24 +1,22 @@
 # Article 10 BIS
 
-A. - Les salariés ne relevant pas des articles 4 et 4 bis de la convention collective nationale du 14 mars 1947 bénéficient des avantages indiqués ci-après dans les conditions précisées aux sections 1, 2, 3 et 4 du présent titre.
+A. Les salariés ne relevant pas des articles 4 et 4 bis de la convention collective nationale du 14 mars 1947 bénéficient des avantages indiqués ci-après dans les conditions posées aux sections 1, 2, 3 et 4 du présent titre.
 
-1. Versement d'un capital en cas de décès, invalidité absolue et définitive.
-
-Le montant du capital est fixé comme suit, en pourcentage de la base des prestations :
+1. Versement d'un capital en cas de décès, invalidité absolue et définitive :
 
 - participant sans enfant à charge :
 
-- célibataire, veuf, divorcé : 110 p. 100
+- célibataire, veuf, divorcé : 115 % ;
 
-- marié : 165 p. 100
+- marié : 180 % ;
 
-- majoration par enfant supplémentaire à charge : 55 p. 100
+- majoration par enfant supplémentaire à charge : 60 % ;
 
-- versement d'un deuxième capital réparti à parts égales entre les enfants à charge du conjoint, au décès de ce dernier avant soixante-cinq ans 100 p. 100.
+- versement d'un deuxième capital réparti à parts égales entre les enfants à charge du conjoint, au décès de ce dernier avant 65 ans : 100 %.
 
-2. Paiement d'une rente éducation.
+2. Paiement d'une rente éducation :
 
-Le montant de la rente est fixé à 10 p. 100 de la base des prestations.
+Le paiement de la rente est fixé à 12 % de la base des prestations.
 
 3. Paiement d'une rente de conjoint.
 
@@ -75,3 +73,11 @@ Le montant du capital supplémentaire est fixé à 100 p. 100 de celui figurant 
 3. Du paiement d'une rente éducation.
 
 Le montant de la rente est fixé à 10 p. 100 de la base des prestations.
+
+4. Versement d'indemnité journalières en cas d'incapacité. - Invalidité.
+
+Cette garantie profite aux seuls cadres ayant 3 ans d'ancienneté et plus.
+
+Durée du versement : l'indemnité journalière est versée à compter du 91e jour d'arrêt de travail continu.
+
+Montant de l'indemnité journalière : l'indemnité journalière est égale à 80 % de la rémunération du salarié (dans la limite des tranches 1 et 2).
