@@ -18,17 +18,19 @@ Plus généralement, les centres d'affaires et entreprises de domiciliation perm
 
 5. Toute structure autonome à but lucratif ou non lucratif généralement appelée palais des congrès ou centre de congrès ayant pour vocation d'offrir à toutes personnes physiques ou morales un service d'organisation et de prestation de services, internes ou externes, et des équipements destinés à les accueillir et/ou à animer leurs manifestations, à l'exclusion des foires et expositions.
 
-Ils peuvent prendre éventuellement diverses appellations en y joignant ou non une ou plusieurs caractéristiques (festival, musique ..) ainsi que le nom de la ville dans laquelle ils se situent.
+Ils peuvent prendre éventuellement diverses appellations en y joignant ou non une ou plusieurs caractéristiques (festival, musique ...) ainsi que le nom de la ville dans laquelle ils se situent.
 
 6. Entrent également dans le champ d'application de la convention collective des prestataires de services les entreprises dont l'activité principale réside dans :
 
-- les services d'accueil à caractère événementiel : services d'accueil occasionnels dans le cadre de salons, conventions, colloques ou tout autre événement de relation publique ou commercial. Les services développés intègrent l'ensemble des composantes de l'accueil de réception : gestion de listings, attribution de badges, mallettes, documentation, etc., vestiaire, service voiturier, acheminement de groupes incluant accueils en gares ou aéroports et visites de sites (exemple : usine ou autre site de production ou de réalisation) ;
+- les services d'accueil à caractère événementiel : services d'accueil occasionnels dans le cadre de salons, conventions, colloques ou tout autre événement de relation publique ou commercial. Les services développés intègrent l'ensemble des composantes de l'accueil de réception : gestion de listings, attributions de badges, malettes, documentation, vestiaire, service voiturier, acheminement de groupes incluant accueils en gares ou aéroports et visites de sites (exemple : usine ou autre site de production ou de réalisation) ;
 
-- les actions d'animation : de l'échantillonnage, distribution, etc., à la promotion des ventes en grands magasins ou GMS. Le type de prestation plus couramment développé est l'animation consistant à mettre en avant un produit, une marque ou un événement par le biais d'une distribution publicitaire, d'un échantillonnage ou plus simplement par le biais d'une présence en tenues publicitaires ;
+- les actions d'animation et de promotion : de l'échantillonnage, distribution, etc., à la promotion des ventes en grands magasins ou GSM dont l'objectif est de faire connaître et de vendre les produits (ou services) du client aux consommateurs sur le lieu de vente.
 
-- la gestion annualisée de prestations de services d'accueil et d'accueil téléphonique en entreprises : gestion totale de services d'accueil externalisés.
+Le type de prestation plus couramment développé est l'animation consistant à mettre en avant un produit, une marque ou un événement par le biais d'une distribution publicitaire, d'un échantillonnage, d'une dégustation, d'une vente-conseil, d'une démonstration dans les points de vente ou à l'extérieur ou plus simplement par le biais d'une présence en tenues publicitaires.
 
-Entrent enfin dans le champ d'application de la convention collective des prestataires de services :
+L'ensemble de ces prestations ont pour caractéristiques communes la mise en oeuvre et la gestion complète de moyens humains et matériels dans le cadre d'une offre globale adaptée aux besoins de chaque client. Elles mettent en jeu le conseil, les ressources humaines terrain, la technologie informatique (matériels et logiciels de relevés, de transmission et d'analyse des données) et la logistique du matériel d'animation ou de promotion (stockage, expédition, installation et maintenance....) dans le cadre de la prestation.
+
+- La gestion annualisée de prestations de services d'accueil et d'accueil téléphonique en entreprises, la gestion totale de services d'accueil externalisés.
 
 7. Les centres d'appels dont la vocation est de gérer à distance la relation que les entreprises souhaitent entretenir avec leurs clients et prospects. C'est un ensemble de moyens humains, organisationnels et techniques mis en place afin d'apporter à la demande et aux besoins de chaque client une réponse adaptée.
 
@@ -38,26 +40,38 @@ Entités de relation à distance, les centres d'appels optimisent l'outil télé
 
 Ils mettent en jeu quatre composantes majeures :
 
-- les ressources humaines (téléconseillers, superviseurs, managers, formateurs ..) ;
+- les ressources humaines (téléconseillers, superviseurs, managers, formateurs ...) ;
 
-- la technologie (téléphonie, informatique, Internet, logiciels, progiciels, serveurs multimédia, bases de données, cartes de commutation, câblage ..) ;
+- la technologie (téléphonie, informatique, Internet, logiciels, progiciels, serveurs multimédia, bases de données, cartes de commutation, câblage ...) ;
 
-- la logistique (immobilier, mobilier, ergonomie de l'environnement matériel et de l'environnement " écran "...) ;
+- la logistique (immobilier, mobilier, ergonomie de l'environnement matériel et de l'environnement écran....) ;
 
-- une culture et des méthodes marketing (stratégie de l'entreprise, relation client, fulfillment, profitabilité ..).
+- une culture et des méthodes marketing (stratégie de l'entreprise, relation client, fulfillment, profitabilité ...).
 
 Par exception, le champ d'application de la convention collective des prestataires de services ne concerne pas les centres d'appels filiales de sociétés de télécommunications ou centres d'appels intégrés, lesquels entrent dans le champ d'application de la convention collective des télécommunications.
 
-(1) Avenant du 20 décembre 1999, article unique : " Il est expressément convenu que les sociétés ayant pour activité principale une activité de centre d'appels, détenues par une société dont l'activité principale est incluse dans le champ d'application de l'accord du 2 décembre 1998 relatif au champ d'application de la convention collective des télécommunications, ne sont pas concernées par le champ d'application de la convention collective du personnel des prestataires de services dans le secteur tertiaire. " (2) Avenant du 20 décembre 1999, article unique : " S'agissant des palais des congrès, l'activité de foires et expositions qui est exclue du champ d'application est celle fixée par l'avenant au champ d'application de la convention des bureaux d'études techniques SYNTEC et qui vise l'organisation des manifestations, expositions et salons spécialisés. " L'avenant du 18 septembre 2001 exclu de son extension l'activité de traduction visée au paragraphe 4 de l'article 1er des dispositions communes de la convention collective.
+Entrent enfin dans le champ d'application de la convention collective des prestataires de services les entreprises dont l'activité principale réside dans :
 
-NOTA :
+- les actions de force de ventes : actions dont l'objectif est de développer les ventes des produits ou des services du client.
+
+Ces actions regroupent les opérations ponctuelles (lancement de produits, opérations promotionnelles ou saisonnières) et les opérations permanentes.
+
+Elles sont menées en particulier dans les points de vente de la grande distribution, de la distribution spécialisée (surfaces de bricolage, jardinage, téléphonie ...), mais aussi auprès d'autres circuits de distribution.
+
+- les actions d'optimisation linéaire : actions dont l'objectif est de valoriser la présence, le positionnement et la visibilité des produits (ou services) du client dans son ou ses réseaux de distribution.
+
+Ces actions regroupent les opérations de pose de PLV, implantations et réimplantations, destinées à mettre en avant les produits, mais aussi les opérations permanentes de veille commerciale en point de vente : relevés de prix, de présence et nombre de facings ainsi que des informations concernant la concurrence (celle de l'industriel pour lequel l'action est conduite).
+
+Elles sont menées dans tous les réseaux de distribution.
 
 (1) Avenant du 20 décembre 1999, article unique :
 
-" Il est expressément convenu que les sociétés ayant pour activité principale une activité de centre d'appels, détenues par une société dont l'activité principale est incluse dans le champ d'application de l'accord du 2 décembre 1998 relatif au champ d'application de la convention collective des télécommunications, ne sont pas concernées par le champ d'application de la convention collective du personnel des prestataires de services dans le secteur tertiaire. "
+Il est expressément convenu que les sociétés ayant pour activité principale une activité de centre d'appels, détenues par une société dont l'activité principale est incluse dans le champ d'application de l'accord du 2 décembre 1998 relatif au champ d'application de la convention collective des télécommunications, ne sont pas concernées par le champ d'application de la convention collective du personnel des prestataires de services dans le secteur tertiaire.
 
 (2) Avenant du 20 décembre 1999, article unique :
 
-" S'agissant des palais des congrès, l'activité de foires et expositions qui est exclue du champ d'application est celle fixée par l'avenant au champ d'application de la convention des bureaux d'études techniques SYNTEC et qui vise l'organisation des manifestations, expositions et salons spécialisés. "
+S'agissant des palais des congrès, l'activité de foires et expositions qui est exclue du champ d'application est celle fixée par l'avenant au champ d'application de la convention des bureaux d'études techniques SYNTEC et qui vise l'organisation des manifestations, expositions et salons spécialisés.
 
-L'avenant du 18 septembre 2001 exclu de son extension l'activité de traduction visée au paragraphe 4 de l'article 1er des dispositions communes de la convention collective.
+Arrêté du 20 janvier 2006 :
+
+Avenant étendu à l'exclusion de l'activité de traduction visée au paragraphe 4 de l'article 1er des dispositions communes de la convention collective.
