@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940606835
+
+- Question : [SEQ940606835](seq940606835.md) — Indemnisation des personnes contaminées par l'hépatite C suite à une transfusion
+
+## Réponse
+
+*Affaires sociales, JO du 1994-09-29, page 2341*
+
+Réponse. - Le développement récent de l'infection par le virus de l'hépatite C, à la suite notamment des contaminations accidentelles par voie transfusionnelle ayant eu lieu ces dernières années, a amené les pouvoirs publics à consacrer des moyens accrus à la lutte contre cette affection et au soutien des malades qui en sont atteints. Un préalable à la prévention d'une maladie comme l'hépatite C est la bonne connaissance des caractéristiques épidémiologiques de l'infection. Celles-ci étant encore relativement mal connues pour l'hépatite C, des études épidémiologiques portant sur l'histoire naturelle de l'infection, les modes de transmission, les facteurs de risque... devraient apporter des précisions dans ce domaine d'ici quelque temps. Actuellement, il n'existe aucun vaccin contre cette maladie en raison, notamment, du fait que le virus ne peut être mis en culture. En matière d'information, la direction générale de la santé établira avant la fin de l'année des plaquettes d'information destinées, d'une part, aux professionnels de la santé et, d'autre part, au public. Un projet d'indemnisation des victimes graves d'une hépatite " C " post-transfusionnelle est effectivement étudié dans les services du ministère des affaires sociales, de la santé et de la ville en collaboration avec ceux du ministère de la justice. Il pourrait s'intégrer dans un projet plus vaste de textes législatifs sur les accidents médicaux graves. Cependant, en raison de la complexité juridique et budgétaire d'un tel projet, aucune décision définitive n'a encore été prise à ce sujet.
