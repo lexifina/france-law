@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900610636
+
+- Question : [SEQ900610636](seq900610636.md) — Extension des activités financières de la poste
+
+## Réponse
+
+*Postes, JO du 1990-08-23, page 1842*
+
+Réponse. - La loi du 2 juillet 1990 relative à l'organisation du service public de la poste et des télécommunications dispose que la poste exerce son activité, en matière de services financiers, dans le respect des règles de la concurrence. Il est précisé, à l'article 15, que la comptabilité de la poste obéit aux règles applicables aux entreprises du commerce et qu'elle est soumise au contrôle de commissaires aux comptes et, à l'article 18, que, sous réserve de certains aménagements, la poste est assujettie aux impôts et taxes dans les conditions prévues par l'article 1654 du code général des impôts. De même, le chapitre V dote la poste d'un patrimoine propre et le chapitre VI précise que les relations de la poste avec ses usagers, ses fournisseurs et les tiers sont régies par le droit commun. Enfin, l'article 2 dispose que le Gouvernement établira, avant le 1er janvier 1991, un rapport évaluant les conditions et les implications de l'extension des activités financières de la poste. Ce rapport fera l'objet d'un débat au cours de la session de printemps de 1991. Il est à noter que les services financiers de la poste jouent aujourd'hui un rôle essentiel dans le financement de la trésorerie de l'Etat et du logement social. Ils contribuent, par ailleurs et de façon décisive, au maintien d'une présence postale sur l'ensemble du territoire, notamment en zone rurale, où vingt millions de Français y possèdent un compte de dépôt ou d'épargne et six millions en ont fait leur seul établissement pour les opérations financières. Il est donc nécessaire et utile, comme en a décidé le Parlement, que tous ces usagers puissent disposer dans le réseau de la poste des produits qu'ils demandent.
