@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971003386
+
+- Question : [SEQ971003386](seq971003386.md) — Mise en oeuvre de mesures en faveur des personnes handicapées motrices
+
+## Réponse
+
+*Emploi, JO du 1998-02-05, page 397*
+
+Réponse. - En dépit d'un contexte marqué par de fortes contraintes économiques et financières, l'objectif prioritaire de la politique qu'entend poursuivre le Gouvernement, dans le cadre de la loi du 30 juin 1975 d'orientation en faveur des personnes handicapées reste de faciliter leur intégration dans le milieu ordinaire de vie et de travail afin de favoriser leur insertion sociale et professionnelle. A cet égard, il convient de rappeler que plus de 120 milliards sont consacrés au développement de cette politique menée au profit de toutes les personnes handicapées, sans exclusive. Dans les domaines évoqués par l'honorable parlementaire, à savoir l'amélioration des conditions de vie à domicile, l'accès aux transports en commun, aux établissements publics, l'insertion professionnelle, les efforts d'ores et déjà effectués seront activement poursuivis. Dans cette perspective, la loi relative au développement d'activités pour l'emploi des jeunes dégage des opportunités importantes pour les services d'accompagnement des personnes handicapées dans le but de renforcer les conditions de leur insertion sociale et professionnelle. Enfin, la révision de l'ensemble du dispositif de soutien des aides à domicile à laquelle il sera procédé dans les mois à venir, permettra de progresser dans la réponse à apporter à la demande de développement des services d'auxiliaires de vie que l'Etat continue par ailleurs à aider financièrement. Enfin, une expérimentation est actuellement réalisée, en liaison avec les associations de personnes handicapées pour proposer les améliorations qui devraient garantir aux personnes concernées, de meilleures conditions d'accès aux aides techniques indispensables à leur autonomie.
