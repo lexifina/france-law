@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910816946
+
+- Question : [SEQ910816946](seq910816946.md) — Rapport de l'INSEE concernant le recours à l'immigration pour faire face au problème de main-d'oeuvre
+
+## Réponse
+
+*Travail, JO du 1992-01-02, page 48*
+
+Réponse. - Dans son article paru dans Economie et statistique de mai 1991, l'I.N.S.E.E., s'appuyant sur les perspectives démographiques établies sur la base de différentes hypothèses de fécondité, prolonge les tendances de l'activité à partir d'une variation tendancielle du taux d'activité par sexe et par âge. L'étude prévoit que le volume global de population active disponible diminuera à long terme. Elle présente des scénarios de réajustement, mais ne se prononce pas sur les choix à opérer. le lien entre population active et chômage est complexe. Se plaçant dans une perspective à long terme, l'étude envisage qualitativement le risque d'une pénurie de main-d'oeuvre pouvant coexister avec un maintien du chômage. A la suite de cette étude, et en réponse aux questions posées par l'honorable parlementaire, le Gouvernement ne voit pas dans le retour des femmes au foyer une solution pour réduire le chômage actuel. Il n'y a pas de raison non plus de privilégier le retourau foyer pour un éventuel accroissement de la natalité plutôt que de faciliter la conciliation vie familiale - vie professionnelle. La participation des femmes à la vie économique et au marché du travail est désormais une composante structurelle, répondant à une profonde aspiration et à une évolution socio-culturelle et économique irréversible. Quant à " l'amplification " de la formation professionnelle, elle correspond à la réalité de la politique menée depuis plusieurs années et que le Gouvernement entend poursuivre. A l'évidence, c'est avec une main-d'oeuvre qualifiée que la France développera sa compétitivité internationale.
