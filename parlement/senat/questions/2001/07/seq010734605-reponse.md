@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010734605
+
+- Question : [SEQ010734605](seq010734605.md) — Participation des chambres de commerce et d'industrie aux CLS
+
+## Réponse
+
+*Intérieur, JO du 2001-11-22, page 3714*
+
+Fondés sur la volonté de résoudre les problèmes d'insécurité et de délinquance à partir d'une analyse partagée de l'insécurité dans chaque commune, les contrats locaux de sécurité ont été l'occasion d'associer les services de l'Etat, les communes et les acteurs économiques et sociaux concernés. Les chambres de commerce et d'industrie ont vocation à intégrer le partenariat développé localement dans le cadre du CLS au service de la sécurité au quotidien. La place centrale reconnue au commerce dans la vie quotidienne de la cité, la nécessité d'assurer son exercice dans les meilleures conditions de sécurité pour les commerçants et pour leurs clients ont motivé l'établissement d'un " protocole d'accord relatif à la mise en oeuvre des contrats locaux de sécurité " entre le ministère de l'intérieur et l'Assemblée des chambres françaises de commerce et d'industrie (ACFCI), le 3 mars 2000. Ce protocole précise, notamment, que les chambres de commerce et d'industrie seront associées plus étroitement à l'élaboration des CLS, à l'établissement du diagnostic local de sécurité, à la définition du plan d'action et à sa mise en oeuvre. Les chambres de commerce et d'industrie ont ainsi toute légitimité à être impliquées dans la mise en oeuvre des contrats locaux de sécurité. Cette volonté, tant de la part des pouvoirs publics que des organismes consulaires, de développer le partenariat au service de la sécurité du commerce s'est récemment concrétisée à travers la participation des chambres de commerce aux rencontres interrégionales et à la rencontre nationale des contrats locaux de sécurité organisées en mai et juin 2001.
