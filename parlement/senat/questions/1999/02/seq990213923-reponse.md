@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990213923
+
+- Question : [SEQ990213923](seq990213923.md) — Revalorisation des fonctions du personnel médico-social des établissements scolaires
+
+## Réponse
+
+*Éducation, JO du 1999-09-09, page 3003*
+
+Réponse. - La mission réalisée conjointement par l'inspection générale de l'administration de l'éducation nationale (IGAEN) et par l'inspection générale de l'administration de la santé (IGAS), à la fin de l'année 1998, sur le dispositif médico-social en faveur des élèves vient de remettre son rapport qui a été rendu public en mars 1999. Les conclusions de ce rapport qui avancent un ensemble de propositions en vue d'améliorer le dispositif médico-social, quant à son organisation et à son fonctionnement au sein des structures de l'éducation nationale, sont actuellement à l'étude par un groupe de travail constitué à cet effet à l'administration centrale. La rénovation du dispositif médico-social devrait permettre très prochainement une redéfinition de la place des missions, des actions ainsi que des compétences des différents acteurs médico-sociaux au sein du ministère de l'éducation nationale, de la recherche et de la technologie. En ce qui concerne les moyens, il convient de rappeler que, lors de la dernière rentrée scolaire, les effectifs de personnels infirmiers et sociaux ont été renforcés par 600 emplois supplémentaires (300 infirmières et 300 assistantes sociales) créés en loi de finances 1998 : soit, au titre de cette seule année, autant de créations d'emplois que de 1994 à 1997. S'agissant des personnels médicaux, les crédits de vacations de la médecine scolaire ont été augmentés d'un montant correspondant à 150 équivalents temps plein. Cet effort sans précédent, poursuivi en 1999 par une mesure de création d'emplois de 185 infirmières, 185 assistantes sociales et 30 médecins, a permis une amélioration sensible du taux d'encadrement en personnels de santé et sociaux.
