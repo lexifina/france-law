@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980407510
+
+- Question : [SEQ980407510](seq980407510.md) — Avenir du tronçon ouest de l'A 86
+
+## Réponse
+
+*Équipement, JO du 1998-11-26, page 3798*
+
+Réponse. - Le tracé retenu pour l'autoroute A 86 a été déclaré d'utilité publié le 8 décembre 1995. Ceci a été récemment confirmé par le Conseil d'Etat dans ses arrêts du 23 juin 1997 rejetant les recours déposés contre ce décret. Par ailleurs, le Conseil d'Etat, dans deux arrêts du 20 février 1998, a pris la décision d'annuler les décrets approuvant les 7e et 8e avenants à la concession de la Compagnie financière et industrielle des autoroutes (Cofiroute) en tant qu'ils concernent l'A 86, au motif que les procédures de publicité préalables à l'attribution de la concession n'avaient pas été effectuées. Compte tenu de son importance pour la région Ile-de-France, tout est mis en uvre pour que l'A 86 Ouest soit achevée dans les plus brefs délais. D'ores et déjà, l'avis de publicité pour la concession de l'A 86 a été publié le 10 avril 1998, de façon à permettre une nouvelle attribution de la concession aussi rapidement que possible. Conformément à cet avis, la date limite à laquelle les sociétés devaient déposer leur dossier de candidature était fixée au 27 mai 1998. Se sont portés candidats la société Cofiroute et un groupement d'entreprises dont le mandataire est Bouygues. Une commission administrative a été constituée pour donner un avis sur les dossiers reçus après examen de leurs garanties professionnelles et financières et de leur aptitude à assurer la continuité du service public et l'égalité des usagers devant le service public. Elle rendra ses conclusions dans les prochains jours. A compter de la notification de la décision de l'Etat, les candidats disposeront d'un délai de trois mois pour remettre leur offre de concession. La désignation du nouveau titulaire pourrait intervenir avant la fin de l'année 1998.
