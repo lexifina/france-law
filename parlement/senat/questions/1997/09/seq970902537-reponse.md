@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970902537
+
+- Question : [SEQ970902537](seq970902537.md) — Développement de l'obésité
+
+## Réponse
+
+*Emploi, JO du 1998-10-08, page 3180*
+
+Réponse. - Comme le souligne l'honorable parlementaire, on observe partout dans le monde une augmentation relativement rapide du nombre des obèses. La situation de la France n'est toutefois pas comparable à celle d'autres pays, comme par exemple aux Etats-Unis. La prévalence de l'obésité en France est estimée à 8 %. Le développement de l'obésité est une conséquence de l'évolution récente de facteurs culturels et comportementaux : multiplication des lieux de restauration rapide, perte progressive des repères chronologiques pour les repas,... Aussi, la prévention de l'obésité passe par deux axes principaux : promouvoir une alimentation équilibrée quantitativement et qualitativement, à un rythme adéquat, et favoriser la pratique d'une activité physique régulière. A cette fin les programmes scolaires intègrent l'éducation pour la santé, au premier rang de laquelle est placée l'éducation nutritionnelle. Ces recommandations concernent également la prévention des maladies cardio-vasculaires et du diabète. La ministre de l'emploi et de la solidarité et le secrétaire d'Etat à la santé ont rendu public un rapport du haut comité de la santé publique sur le diabète, qui insiste particulièrement sur l'importance qui doit être accordée à l'éducation nutritionnelle des patients qui souffrent d'un diabète gras. Ce rapport a été présenté à la conférence nationale de santé de juin 1998. L'avis du haut comité sera diffusé largement auprès des sociétés savantes et des praticiens. Enfin, les actions en matière de nutrition et d'éducation nutritionnelle sont une des priorités retenues par le comité français d'éducation pour la santé.
