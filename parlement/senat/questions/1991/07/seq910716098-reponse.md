@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910716098
+
+- Question : [SEQ910716098](seq910716098.md) — Réglementation de l'utilisation des sirènes d'alarme
+
+## Réponse
+
+*Intérieur, JO du 1991-09-12, page 1970*
+
+Réponse. - L'utilisation d'alarmes sonores par les particuliers répond à un légitime souci de protection de leurs biens. Elle reste toutefois soumise à une réglementation visant à concilier les impératifs de sécurité et de tranquillité publique. Un arrêté du 28 septembre 1988 prévoit que les systèmes montés sur les véhicules doivent être conformes à un type homologué par le ministre chargé des transports. S'agissant des alarmes sonores visant à la protection des logements et locaux professionnels, elles doivent être d'un modèle autorisé par arrêté préfectoral. Les conditions de leur installation sont fixées par le maire qui peut notamment instituer un régime d'autorisation préalable. Dans la très grande majorité des cas, malgré les progrès que représente l'utilisation obligatoire des dispositifs homologués, les fausses alarmes demeurent encore les plus fréquentes. Dans tous les cas, le déclenchement des hurleurs donne lieu à de nombreux déplacements des services depolice ou de gendarmerie. Lors de leurs interventions, les services de police s'assurent tout d'abord de la réalité de l'alarme. Si le hurleur continue de fonctionner et qu'il n'existe pas d'autre moyen de faire cesser le bruit dont l'intensité et la durée constituent une gêne intolérable pour le voisinage, les fonctionnaires de police, au besoin assistés de sapeurs-pompiers peuvent, en cas d'urgence et de nécessité absolues, faire application du principe de l'exécution d'office dégagé par la jurisprudence en pénétrant dans les lieux ou dans le véhicule afin de neutraliser le dispositif sonore. A l'occasion de leur intervention, les services de police peuvent être amenés à dresser procès-verbal à l'encontre de l'utilisateur d'une alarme non conforme à la réglementation en vigueur.
