@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950410693
+
+- Question : [SEQ950410693](seq950410693.md) — Entreprises en difficulté : octroi du bénéfice de la préretraite aux salariés de l'industrie textile ayant cotisé un nombre de trimestres suffisant
+
+## Réponse
+
+*Affaires sociales, JO du 1995-05-18, page 1128*
+
+Réponse. - En application de l'ordonnance du 26 mars 1982 relative à l'abaissement de l'âge de la retraite, les salariés relevant du régime général ou du régime des salariés agricoles peuvent bénéficier de leur pension de vieillesse dès l'âge de soixante ans. La France est ainsi l'un des pays de l'Union européenne dans lequel l'âge de la retraite est le plus bas. Les régimes de retraite obligatoire sont fondés sur le principe de la répartition qui introduit une solidarité entre les générations successives, constituées des actifs et des retraités. Cette solidarité se traduit, notamment, par des modalités de liquidation et de versement des pensions qui incluent la condition d'âge. Des études sur l'abaissement de l'âge de la retraite avant soixante ans pour certains assurés ont été effectuées à la demande du Gouvernement. Les résultats de ces études ont fait apparaître que le coût d'une telle mesure, même au profit de catégories particulières, aussi dignes d'intérêt soient-elles, était incompatible avec la situation actuelle des comptes sociaux. En outre, le départ avant soixante ans, s'il était autorisé, ne vaudrait que pour les régimes de base. Il appartiendrait aux partenaires sociaux de se déterminer sur cette mesure pour les régimes complémentaires. Pour ces raisons, il est peu envisageable actuellement de s'orienter dans cette voie, le redressement de notre système de protection sociale et du régime des retraites, de manière à en assurer la sauvegarde, constituant un impératif pour le Gouvernement.
