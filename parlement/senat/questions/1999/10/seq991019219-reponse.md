@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991019219
+
+- Question : [SEQ991019219](seq991019219.md) — Avenir des classes de découverte
+
+## Réponse
+
+*Éducation, JO du 2000-03-16, page 968*
+
+Réponse. - Le ministre de l'éducation nationale, de la recherche et de la technologie reste attaché à l'organisation des sorties scolaires, quel qu'en soit le type, dans les écoles maternelles et élémentaires. C'est pourquoi, afin d'intégrer les adaptations qui sont apparues indispensables après une année de mise en uvre, les circulaires nº 97-176 du 18 septembre 1997 et nº 97-176 bis du 21 novembre 1997 précisant les règles d'organisation de ces sorties ont été revues et ont fait l'objet d'une nouvelle publication. La circulaire nº 99-136 du 21 septembre 1999, publiée au bulletin officiel hors série nº 7 du 23 septembre 1999, se substitue donc aux textes antérieurs et doit permettre, grâce à des procédures claires, une organisation efficace et simple des sorties scolaires. L'étude menée à cet effet par un groupe de travail, rassemblant des représentants des syndicats enseignants, des fédérations de parents d'élèves et d'autres associations, a pris en compte les recommandations d'un rapport de l'inspection générale de l'administration de l'éducation nationale. Dans ce cadre, il est apparu indispensable de donner des orientations pédagogiques nouvelles de nature à engendrer des initiatives et développer des activités extérieures à l'école dont l'intérêt pédagogique est incontestable. L'accent a donc été mis sur les objectifs des sorties scolaires, leur contribution aux apprentissages et le rôle qu'elles jouent pour compenser les inégalités sociales. D'une manière générale, les modalités d'organisation des sorties scolaires ont été définies avec le souci constant de faciliter et simplifier leur mise en uvre tout en assurant la sécurité des élèves.
