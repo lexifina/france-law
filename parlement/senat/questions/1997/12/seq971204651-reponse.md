@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971204651
+
+- Question : [SEQ971204651](seq971204651.md) — Réductions de crédits de l'armée de l'air
+
+## Réponse
+
+*Défense, JO du 1997-12-18, page 3548*
+
+Réponse. - Le projet de budget de la défense pour 1998 consolide le processus de professionnalisation des armées engagé en 1997 et poursuit la résalisation des objectifs stratégiques de la loi de programmation militaire, notamment en termes de capacités opérationnelles des forces, tout en apportant sa contribution à la maîtrise des déficits publics et au financement des priorités de l'action gouvernementale. Concernant l'armée de l'air, les diminutions d'engagement d'autorisations de programme, opérées en 1996 et 1997, ont conduit à une réduction du niveau d'approvisionnement en pièces de rechange. Ces réductions sont liées à la régulation, effectuée conjointement par l'armée de l'air et la direction des constructions aéronautiques, afin d'assainir la gestion après les annulations de crédits de paiement de 1995 et 1996. Elles sont dues également aux réformes entreprises au sein de la délégation générale pour l'armement et aux négociations menées en vue de réduire les coûts, ainsi qu'à la mise en place de procédures financières nouvelles. Ces réductions conduiront, en 1998, au maintien au sol d'environ vingt Mirage 2000, soit une situation similaire à celle de 1997. Toutefois, dès 1998, l'armée de l'air consacrera 7 098 millions de francs de crédits de paiement et 4 904 millions de francs d'autorisations de programme à l'acquisition de moyens aériens. C'est ainsi que six Mirage 2000-D lui seront livrés et que onze Mirage 2000 de défense aérienne seront rénovés dans la version 2000-5. En revanche, aucune commande ne sera passée en 1998. Sur la période 1999-2002, plus de 28 milliards de francs sont prévus pour l'acquisition de moyens aériens au profit de l'armée de l'air.
