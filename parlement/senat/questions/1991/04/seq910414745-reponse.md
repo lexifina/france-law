@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910414745
+
+- Question : [SEQ910414745](seq910414745.md) — Annulation de crédits affectés au budget des routes de la région Picardie
+
+## Réponse
+
+*Équipement, JO du 1992-07-23, page 1678*
+
+Réponse. - Les annulations de crédits routiers décidées en 1991 ont représenté, pour la Picardie, un montant de 5 MF de dotations de l'Etat ; elles n'ont porté que sur le contournement à deux fois deux voix du Plessis-Belleville situé sur la R.N. 2. Il s'agissait d'une opération nouvelle n'ayant donné lieu à aucun début de réalisation et qu'il n'était pas possible d'exclure du champ des annulations. Dans ces conditions, le montant des ressources que l'Etat a consacré en 1991 à l'exécution du contrat avec la Picardie s'est élevé à un peu plus de 100 MF et le volume global des investissements routiers a atteint 213 MF grâce à la participation des collectivités territoriales. Par ailleurs, les dotations supplémentaires de 1 200 MF obtenues en novembre 1991, et de 800 MF réservées récemment par le Gouvernement aux investissements routiers dans le cadre du plan de soutien en faveur du logement et des transports, permettront d'assurer en 1992 de manière satisfaisante l'exécution des contrats entre l'Etat et les régions. En Picardie, 282,1 MF (dont 139,6 MF d'autorisations de programme de l'Etat) permettront ainsi de lancer cette année les déviations du Plessis-Belleville et de Lévignen sur la R.N. 2, de Braine-Courcelles sur la R.N. 31 et de Noyon sur la R.N. 32. Seront par ailleurs poursuivis les travaux du contournement de Villers-Cotterêts et la troisième tranche de celui de Soissons, sur la R.N. 2, ainsi que, sur la R.N. 31, les déviations de la Rue-Saint-Pierre et de la Neuville-en-Hez, et la deuxième tranche de celle de Compiègne-Thourotte-Ribécourt sur la R.N. 32.
