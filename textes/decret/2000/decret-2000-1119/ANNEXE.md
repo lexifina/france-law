@@ -40,6 +40,6 @@ Préfet délégué à la sécurité et à la défense.
 
 2° Représentant du Gouvernement dans un territoire d'outre-mer ou dans une collectivité territoriale d'outre-mer.
 
-3° Fonctionnaires titulaires du corps des sous-préfets ou détachés dans ce corps : sous-préfet occupant un poste territorial classé en 1re catégorie au sens de l'article 4 du décret n° 64-260 du 14 mars 1964 portant statut des sous-préfets.
+3° Fonctionnaires titulaires du corps des sous-préfets ou détachés dans ce corps : sous-préfet occupant un poste territorial classé en 1re catégorie au sens de l'article 4 du décret n° 64-260 du 14 mars 1964 portant statut des sous-préfets ou un poste de secrétaire général de préfecture dans un département d'outre-mer.
 
 4° Secrétaire général de la représentation du Gouvernement dans un territoire d'outre-mer.
