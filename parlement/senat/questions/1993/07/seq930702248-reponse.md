@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930702248
+
+- Question : [SEQ930702248](seq930702248.md) — Difficultés des communes forestières du département de la Savoie
+
+## Réponse
+
+*Agriculture, JO du 1993-09-23, page 1714*
+
+Réponse. - Le prélèvement et la répartition de la taxe unique sur les produits forestiers (TUPF) qui alimentait le Fonds forestier national ont fait l'objet de critiques de la part de la Commission des communautés européennes. Le fonds a donc dû subir une réforme appliquée à partir du 1er janvier 1991 qui a, en particulier, supprimé la déductibilité de la taxe, ce qui a obligé à diminuer le taux de base de celle-ci, mais en l'appliquant à un nombre plus grand d'activités, notamment vers le secteur rural. Cette nouvelle forme de taxation a notamment eu comme conséquence de multiplier par dix le nombre d'assujettis ; celui-ci est passé de 5 000 scieries à 50 000 entreprises de taille petite, moyenne ou grosse, avec ce que cela implique comme temps nécessaire à la mise en oeuvre et à la pleine efficacité du dispositif. Par ailleurs, ces nouvelles dispositions sont intervenues à une période de crise dans le secteur du bois et les difficultés économiques qui perdurent pèsent toujours sur les recettes du fonds. Le constat est que les recettes ont été très inférieures aux prévisions et que la situation du FFN s'est rapidement et substantiellement dégradée. Le ministre de l'agriculture et de la pêche s'emploie actuellement à rechercher les solutions les plus adaptées à son rétablissement, car le Fonds forestier national est un instrument essentiel de la politique forestière. Des avancées concrètes ont déjà eu lieu et d'autres viendront. L'effort qui vient d'être engagé par le Gouvernement en faveur des mesures de soutien à l'économie, en particulier les mesures en faveur du logement, est un élément qui doit contribuer, dans une certaine mesure, au redressement souhaité.
