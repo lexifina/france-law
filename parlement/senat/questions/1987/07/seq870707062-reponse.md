@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870707062
+
+- Question : [SEQ870707062](seq870707062.md) — Recrutement de médecins et d'infirmières de santé scolaire
+
+## Réponse
+
+*Éducation, JO du 1987-09-10, page 1432*
+
+Réponse. -En application du décret n° 85-516 du 16 mai 1985, les infirmiers et infirmières affectés au service de la santé scolaire du ministère des affaires sociales et de la solidarité nationale ont été intégrés dans le corps des infirmiers et infirmières du ministère de l'education nationale à compter du 1er janvier 1985. Depuis cette intégration, deux concours de recrutement ont été organisés. Au titre de l'année 1985 : soixante-quatre postes ont été offerts au recrutement d'infirmières (dont trente-cinq par la voie des emplois réservés aux anciens combattants, victimes de guerre et travailleurs handicapés) ; au titre de l'année 1987 : 271 postes ont été offerts au recrutement (dont 108 au titre des emplois réservés). Les épreuves du concours ouvert au titre de 1987 sont actuellement organisées au sein des académies concernées. L'ouverture d'un concours de recrutement en 1988 sera prochainement examinée au regard de la situation des emplois disponibles dans le corps des infirmières et infirmiers du ministère de l'éducation nationale. En revanche, les médecins de la santé scolaire ne relèvent pas d'un statut particulier d'un corps de l'éducation nationale. Les emplois de médecin inspecteur de la santé qui sont inscrits au budget de l'éducation nationale sont pourvus soit par voie de détachement de médecins inspecteurs titulaires du ministère des affaires sociales, soit par recrutement de médecins contractuels. Dans le cadre du renforcement de la médecine de prévention, vingt-trois emplois de médecins inspecteurs seront créés au budget de l'éducation nationale le 1er septembre 1987, et donneront lieu à vingt-trois recrutements.
