@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021204573
+
+- Question : [SEQ021204573](seq021204573.md) — Situation du poste de police de Breil-sur-Roya (Alpes-Maritimes)
+
+## Réponse
+
+*Intérieur, JO du 2003-01-30, page 370*
+
+La direction centrale de la police aux frontières travaille actuellement sur le projet de fermeture de certains de ses services. Les fermetures envisagées, dont celle de l'unité de la police aux frontières (UPAF) de Breil-sur-Roya, concernent des services enregistrant des flux migratoires marginaux et s'inscrivent, dans le cadre d'une meilleure rationalisation de l'implantation territoriale de la PAF. Ce processus a pour objectif de redéployer des effectifs sur des postes ayant une activité migratoire conséquente et de développer une action plus pertinente de lutte en mobilité contre l'immigration clandestine. Pour ce qui concerne précisément l'UPAF de Breil-sur-Roya, du fait de la levée des points fixes avec l'Italie lors de son entrée dans l'espace Schengen en avril 1998, la surveillance des frontières s'effectue par une action en mobilité et par des contrôles aléatoires. Le poste de Breil-sur-Roya ne répond plus à ces exigences européennes. La lutte contre l'immigration irrégulière dans la vallée de la Roya est concrètement assumée par la brigade mobile de recherche (BMR) de Menton qui y programme régulièrement des actions de contrôle mobile et par la brigade des chemins de fer (BCF) des Alpes-Maritimes qui assure une présence aléatoire sur l'axe ferroviaire Breil - Nice. D'ailleurs, la quasi-totalité des fonctionnaires de l'UPAF de Breil-sur-Roya a déjà rejoint lesdites unités opérationnelles. Seuls deux fonctionnaires de la police aux frontières continuent à être employés sur le site de Breil-sur-Roya. Cette restructuration ne vise pas à retirer la présence policière dans ce secteur mais à l'aménager pour en retirer le meilleur profit opérationnel dans l'intérêt du service public policier.
