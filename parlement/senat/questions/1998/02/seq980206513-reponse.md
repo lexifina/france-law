@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980206513
+
+- Question : [SEQ980206513](seq980206513.md) — Distribution des plis non adressés
+
+## Réponse
+
+*Industrie, JO du 1998-05-07, page 1482*
+
+Réponse. - Les demandes de distribution de documents à caractère politique émanant de particuliers, d'associations ou de partis politiques sont toujours examinées par les services postaux avec la plus extrême attention, qu'elles soient présentées à l'occasion d'une campagne électorale ou en dehors de ces périodes. S'agissant de distribution de publicité non adressée ou d'envois faits dans le cadre de contrats donnant accès au tarif " Postimpact ", les services de La Poste ont effectivement connaissance du contenu des envois. Aussi, ces services ont reçu pour instruction de veiller à rejeter, avec discernement mais avec la plus grande fermeté, toute demande dont le contenu serait susceptible de s'avérer contraire aux lois et règlements en vigueur, notamment aux dispositions du code pénal destinées à réprimer la diffamation, l'injure ou la provocation à la discrimination, à la haine ou à la violence à l'égard d'une personne ou d'un groupe à raison de leur origine ou de leur appartenance ou de leur non-appartenance, vraie ou supposée, à une ethnie, une nation, une race ou une religion déterminée. Les documents à caractère politique remis à La Poste, qu'ils soient ou non adressés, doivent être obligatoirement placés pour la distribution sous enveloppe close ou sous film plastique opaque, ceux-ci ne devant comporter aucune mention apparente de l'origine, qu'il s'agisse d'intitulé de formation politique, de sigle ou de logo. Cette précaution répond à l'obligation faite au service public de La Poste d'observer une stricte et totale neutralité dans ses relations avec les citoyens. En outre, toute distribution par La Poste de documents à caractère politique sans adresse du destinataire cesse pendant la durée de la campagne officielle.
