@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960414830
+
+- Question : [SEQ960414830](seq960414830.md) — Taux de TVA applicable aux paysagistes et aux entreprises de nettoyage, d'élagage et de débroussaillage
+
+## Réponse
+
+*Économie, JO du 1996-08-08, page 2063*
+
+Réponse. - Les opérations de nettoyage, d'élagage et de débroussaillage constituent des prestations de services passibles du taux normal de 20,6 p. 100 de la taxe sur la valeur ajoutée au même titre que la plupart des prestations. Il en est de même pour ce qui concerne les paysagistes, pour lesquels la prestation de services de plantation est également soumise dans tous les cas au taux normal. L'application du taux réduit à ces prestations serait contraire au droit communautaire puisqu'elles ne figurent pas sur la liste, annexée à la directive du 19 octobre 1992, des opérations auxquelles les Etats membres ont la falculté d'appliquer un tel taux. La situation est différente pour l'horticulture. L'application du taux réduit, prévue à l'article 20 de la loi no 95-95 du 1er février 1995, constitue un retour à la situation préexistante au 1er août 1991, date de l'application du taux normal à ces produits, le contexte communautaire au 1er janvier 1995 ayant conduit le Gouvernement à demander au Parlement l'adoption de cette mesure qui a été confirmée, au niveau communautaire, par une décision du Conseil du 24 juin 1996 pour la durée du régime transitoire de TVA. Il est toutefois rappelé que la fourniture de végétaux effectuée par les paysagistes dans le cadre de leur prestation peut être soumise, sous certaines conditions, au taux réduit de TVA. S'agissant de la concurrence déloyale exercée par les opérateurs qui ne déclarent pas leur activité, la lutte contre le travail clandestin est une des priorités du Gouvernement qui y consacre des moyens importants.
