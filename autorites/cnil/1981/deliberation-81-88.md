@@ -1,0 +1,15 @@
+# Délibération portant avis sur la mise en oeuvre d'un traitement automatisé du répertoire national des entreprises et établissements (SIRENE)
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 81-88
+- Date : 1981-07-21
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017654720
+
+La Commission Nationale de l'Informatique et des Libertés ; Vu la déclaration du Ministre de l'Econonie et des Finances relative au traitement automatisé du répertoire national des entreprises et établissements (SIRENE) ; Vu les articles 15 et 48 de la loi n° 78-17 du 6 janvier 1978 ; Vu le décret n° 78-774 du 17 juillet 1978 ; Vu le décret n° 73-314 du 14 mars 1973 portant création d'un système national d'identification et d'un répertoire des entreprises et de leurs établissements notamment ses articles 4, 5, 6, 13 et 14 ; Vu l'arrêté du Premier Ministre du 14 octobre 1974 ; Après avoir entendu le 30 juin 1981, M. GERVAIS, rapporteur et M. le Commissaire du Gouvernement en ses observations ;
+
+Considérant qu'au vu de la déclaration déposée par le Ministre de l'Economie et des Finances, il y a lieu de faire application des dispositions du second alinéa de l'article 48 de la loi du 6 janvier 1978 et d'émettre un avis motivé sur le traitement faisant l'objet de la présente déclaration ; Considérant que les informations nominatives figurant au fichier sont celles limitativement prévues à l'article 4 paragraphe a du décret du 14 mars 1973, avec en outre la date du début d'activité ; Que le traitement a pour seules finalités l'identification des entreprises et établissements, la production de statistiques les concernant, la coordination administrative limitée aux organismes énumérés dans l'arrêté du 14 octobre 1974 et au deuxième alinéa de l'article 14 du décret visé ci-dessus et toujours en application du même article, la communication à leurs frais aux personnes ou organismes qui en font la demande des informations figurant aux fichiers à l'exception de la date et du lieu de naissance dans les conditions et limites précisées par un arrêté du Premier Ministre ;
+
+Donne un avis favorable sous les réserves suivantes : - que dès maintenant sans attendre le modèle fixé par arrêté interministériel prévu à l'article 4 du décret 81-257 du 18 mars 1981 pour la création duquel la Commission devra être consultée, les questionnaires doivent tenir compte des dispositions de l'article 27 de la loi du 6 janvier 1978 ; - que les personnes physiques puissent demander que les informations le concernant ne soient pas communiquées à des personnes ou organismes désirant les utiliser à des fins de publicité ou d'action commerciale ; - que les arrêtés précisant les conditions et limites d'application de la disposition prévue au dernier alinéa 14 du décret du 14 mars 1973 soient préalablement soumis à la Commission ainsi que ceux prévoyant l'extension de la liste des administrations ou organismes habilités à demander l'inscription au répertoire national des entreprises et leurs établissements.
