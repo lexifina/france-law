@@ -1,3 +1,0 @@
-# Article 1er : Information aux bénéficiaires potentiels
-
-Le chef d'entreprise établira dans le mois suivant la signature du présent accord la liste des salariés de l'entreprises susceptibles de bénéficier des droits ouverts aux salariés par l'accord interprofessionnel du 6 septembre 1995 modifié par l'accord interprofessionnel du 22 décembre 1998 et les dispositions conventionnelles ci-après, relatifs au développement de l'emploi en contrepartie de la cessation d'activité des salariés âgés. Le chef d'entreprise notifiera individuellement à chaque salarié concerné les droits qui lui sont ouverts par ces textes.
