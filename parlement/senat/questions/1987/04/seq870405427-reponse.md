@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870405427
+
+- Question : [SEQ870405427](seq870405427.md) — Nombre de dossiers relatifs aux enfants nés de mariages mixtes franco-algériens
+
+## Réponse
+
+*Affaires étrangères, JO du 1987-11-26, page 1857*
+
+Réponse. -L'ampleur réelle du problème des déplacements et rétentions illicites en Algérie d'enfants de couples mixtes séparés est malaisée à évaluer ; ne sont connus d'une manière assurée que les seuls cas dont ont été saisis le ministère des affaires étrangères et le ministère de la justice, qui agissent en étroite liaison, et nos consulats en Algérie. En juillet 1987, le ministère des affaires étrangères avait en charge 196 dossiers concernant 342 enfants, dont 58 enfants naturels déplacés ou retenus en Algérie. A la même date, il avait enregistré 58 retours d'enfants, 14 enfants légitimes et 44 enfants naturels, intervenus en 1985, 1986 et 1987. Il a, en plusieurs circonstances, été fait état de chiffres sensiblement plus élevés. Les chiffres cités traduisent, du moins, l'aspect officiellement connu du phénomène. S'agissant des travaux du groupe ad hoc évoqués par l'honorable parlementaire, ils ont, concernant le douloureux problème des enfants déplacés, permis la reprise en septembre de cette année des négociations de la convention judiciaire franco-algérienne, suspendues depuis février 1986 ainsi que la désignation de deux médiateurs dont la mission est de rechercher, en dehors des procédures judiciaires en cours, des solutions amiables propres à faciliter le rétablissement de liens entre les enfants et celui des parents dont ils ont été séparés. C'est ainsi que 27 enfants ont pu, pendant les mois de juillet et d'août, quitter l'Algérie pour venir passer les congés d'été auprès de leur mère en France. Ces visites dites transfrontières devraient pouvoir se renouveler à l'occasion des fêtes de fin d'année.
