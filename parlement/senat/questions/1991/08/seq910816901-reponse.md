@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910816901
+
+- Question : [SEQ910816901](seq910816901.md) — Situation des dockers de Calais
+
+## Réponse
+
+*Mer, JO du 1991-12-19, page 2864*
+
+Réponse. - Il est exact que quatre dockers de Calais, en désaccord avec leur syndicat, se sont retrouvés dans une situation telle qu'ils ne trouvaient plus de travail, alors que l'activité sur le port de Calais a nécessité l'embauche de dockers occasionnels ; au fil des mois, les tensions se sont exacerbées entre ces dockers et les autres, rendant toute cohabitation fort difficile, au point qu'il a finalement paru préférable de permettre à ces quatre dockers de quitter la profession moyennant une indemnité de dédommagement. Le problème est donc aujourd'hui réglé, mais la solution adoptée n'est qu'une solution de circonstance et les dispositions seront prises pour que la liberté du travail soit pleinement respectée dans les ports français. D'une façon plus générale, les difficultés que connaît la manutention portuaire et les critiques qu'elle suscite conduisent à s'interroger sur l'organisation du travail des dockers, actuellement définie par le livre V du code des ports maritimes, qui a repris les dispositions de la loi du 6 septembre 1947. C'est la raison pour laquelle une large concertation a été engagée depuis fin 1990 auprès des différents acteurs et clients de la filière portuaire et de la chaîne des transports, afin de recueillir les suggestions et propositions des uns et des autres. Cette concertation est arrivée maintenant à son terme et le Gouvernement arrêtera très prochainement sa position, de telle sorte que la filière portuaire française, dont la manutention portuaire constitue un élément majeur mais non unique, puisse retrouver fiabilité et compétitivité et que nos ports soient en état d'affronter dans les meilleures conditions les échéances européennes de 1993.
