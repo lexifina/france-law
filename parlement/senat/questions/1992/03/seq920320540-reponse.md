@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920320540
+
+- Question : [SEQ920320540](seq920320540.md) — Révision des évaluations cadastrales
+
+## Réponse
+
+*Budget, JO du 1992-07-16, page 1613*
+
+Réponse. - L'article 47 de la loi du 30 juillet 1990 relative à la révision générale des évaluations des immeubles retenus pour la détermination des bases des impôts directs locaux dispose que le Gouvernement présentera au Parlement, à la session d'automne, un rapport retraçant l'ensemble des conséquences de la révision pour les contribuables. Ce rapport précisera aussi l'incidence de la révision sur le potentiel fiscal des collectivités locales et sur la répartition des dotations faisant appel à ce critère. La direction générale des impôts entreprend des travaux de simulation sur l'évolution des bases des quatre taxes directes et, pour quelques départements représentatifs, sur l'évolution des cotisations par contribuable ; la direction générale des collectivités locales effectuera également des études sur l'évolution des dotations liées au potentiel fiscal. Les modalités selon lesquelles les effets de la révision seront étalés dans le temps seront déterminées par une nouvelle loi en fonction des résultats de ces simulations. Cependant, l'article 55 de la loi de révision a déjà prévu que les taux retenus pour le calcul des cotisations de taxes foncières, d'habitation et professionnelle de l'année d'incorporation dans les rôles des résultats de la révision seront déterminés à partir des taux de l'année précédente corrigés en proportion inverse de la variation de base qui résulte, dans chaque collectivité ou ensemble de collectivités, de la révision. L'intégration des résultats de la révision dans les rôles se fera ainsi, pour chaque taxe, à produit fiscal constant. Ces dispositions vont dans le sens des préoccupations exprimées par l'honorable parlementaire.
