@@ -1,45 +1,63 @@
 # Article Annexe IV
 
-I. - Identification.
+DEMANDE D'INSCRIPTION MODIFICATIVE
 
-- récépissé du dépôt au greffe du contrat de groupement (1) ;
+DES SOCIÉTÉS DE DROIT FRANçAIS
 
-- justificatif de la jouissance du local où est situé le siège pour les G.I.E. ayant une activité commerciale ;
+Lors de la demande d'inscription modificative, les pièces devant être présentées sont celles demandées dans l'annexe précédente et établissant les changements et adjonctions intervenus.
 
-- si le siège est situé dans le local d'habitation du représentant légal : le cas échéant, copie de la notification au bailleur ou au syndic de la copropriété prévue à l'article 1er ter de l'ordonnance du 27 décembre 1958 modifiée ;
+Le cas échéant, attestation de parution dans un journal d'annonces légales ou copie de celui-ci, ou, pour les sociétés en nom collectif ou en commandite simple, copie de l'insertion.
 
-- en cas de transfert de siège : extrait de la précédente immatriculation datant de moins de trois mois.
+1. Renseignements relatifs à la personne
 
-II. - Membres.
+1.1. Lorsque le dépôt au greffe des actes a été effectué avant la déclaration de modification, copie du récépissé du dépôt.
 
-Personnes physiques :
+1.2. Extrait d'immatriculation datant de moins de trois mois de chacune des sociétés participant à l'opération de fusion et de scission.
 
-- immatriculées au R.C.S. : extrait de l'immatriculation datant de moins de trois mois (1) ;
+1.3. Identification des dirigeants : pièces établissant les modifications de situation prévues à l'annexe précédente ou au 1 de l'annexe II.
 
-- non immatriculées au R.C.S. : pièces prescrites par les rubriques I, II et III de l'annexe I.
+2. Renseignements relatifs au siège
 
-Personnes morales :
+ou à l'établissement
 
-- immatriculées au R.C.S. : extrait de l'immatriculation datant de moins de trois mois ;
+2.1. Transfert du siège ou d'un établissement en France
 
-- non immatriculées au R.C.S. : titre établissant leur existence.
+2.1.1. Dans tous les cas pour le siège
 
-III. - Personnes chargées de représenter, d'administrer ou de contrôler le groupement.
+Justificatif de la jouissance du local où est situé le siège, par tous moyens.
 
-Administrateurs :
+Si le siège est situé dans des locaux occupés en commun par plusieurs entreprises : copie du contrat de domiciliation visé à l'article 26-1 du décret du 30 mai 1984 et extrait du RCS ou du répertoire des métiers du domiciliataire, sauf si celui-ci est immatriculé dans le même greffe ou s'il est une personne morale française de droit public.
 
-- ayant le pouvoir général d'engager le groupement :
+2.1.2. Transfert du siège ou d'un établissement
 
-- non immatriculés au R.C.S. : pièces prescrites par la rubrique I A de l'annexe I, attestation sur l'honneur relative à l'absence de condamnation ou de sanction et le cas échéant pièces prescrites par la rubrique IV de l'annexe précitée ;
+dans un autre ressort
 
-- immatriculés au R.C.S. : extrait d'immatriculation datant de moins de trois mois.
+Extrait datant de moins de trois mois de la précédente immatriculation.
 
-- autres administrateurs : pièces prescrites par la rubrique I A de l'annexe I et attestation sur l'honneur relative à l'absence de condamnation ou de sanction.
+Lorsque le dépôt des actes décidant le transfert a été effectué avant la déclaration de modification, copie du récépissé de dépôt.
 
-Contrôleurs des comptes et de la gestion :
+2.2. Achat du fonds de commerce par le locataire-gérant
 
-- pièces justifiant l'identité (1) ;
+ou apport en société à celui-ci
 
-- pour les commissaires aux comptes : justification de l'inscription sur la liste des commissaires aux comptes si celle-ci n'est pas encore publiée (1).
+Copie de l'acte d'achat ou du traité d'apport et attestation de parution dans un journal d'annonces légales ou copie de celui-ci.
 
-(1) Pièces non conservées au greffe.
+2.3. Inscription complémentaire
+
+2.3.1. Acquisition d'un fonds de commerce
+
+Par achat, licitation, attribution par voie de partage : copie de l'acte et attestation de parution dans un journal d'annonces légales ou copie de celui-ci ; pour les sociétés en nom collectif ou en commandite simple, copie de l'insertion.
+
+Par donation : copie de l'acte.
+
+Par apport : copie du traité d'apport et attestation de parution dans un journal d'annonces légales ou copie de celui-ci ; pour l'apport à une société en nom collectif ou en commandite simple, copie de l'insertion.
+
+2.3.2. Location-gérance d'un fonds de commerce
+
+Copie du contrat de location-gérance et attestation de parution dans un journal d'annonces légales ou copie de celui-ci.
+
+2.3.3. Mention d'un établissement immatriculé
+
+dans un Etat membre de la Communauté européenne
+
+Extrait d'immatriculation.
