@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991221008
+
+- Question : [SEQ991221008](seq991221008.md) — Mise à disposition de fonctionnaires
+
+## Réponse
+
+*Équipement, JO du 2000-03-30, page 1150*
+
+Réponse. - Selon le dernier rapport annuel de la direction générale de l'administration et de la fonction publique en date du 31 décembre 1996, le ministère de l'équipement, des transports et du logement a mis deux cent soixante et un agents à la disposition d'autres administrations ou organismes publics. La plupart de ces agents exerçaient leurs fonctions auprès d'autres ministères, essentiellement au ministère de l'économie et à celui des affaires étrangères. D'autres occupaient des fonctions à l'Agence nationale pour l'amélioration de l'habitat, dans les préfectures, les agences d'urbanisme ou les centres interministériels de renseignements administratifs. Par ailleurs, cent soixante-quinze agents sont mis à la disposition du ministère de l'équipement, des transports et du logement dans le cadre de dispositions particulières relatives à la délocalisation ou au redéploiement de certains organismes publics comme la SNCF ou Voies navigables de France. En ce qui concerne plus spécifiquement la direction générale de l'aviation civile, au 31 décembre 1996, seize fonctionnaires étaient mis à disposition d'organismes extérieurs, comprenant, d'une part, onze personnels techniques de catégorie A, au bénéfice d'organismes internationaux - OACI, Commission européenne, Joint Aviation Authorities (JAA) - et d'organismes français - société Sofreavia-Service, Institut du transport aérien (ITA), Fédération française de vol à voile (FFVV), et, d'autre part, cinq personnels administratifs, quatre de catégorie A et un de catégorie C, au bénéfice du Conseil d'Etat, de l'ENA et de l'ITA. Comme il est de règle dans la fonction publique, durant leur mise à disposition, ces agents perçoivent une rémunération de leur administration d'origine.
