@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010533525
+
+- Question : [SEQ010533525](seq010533525.md) — Recours au PACS pour l'obtention de mutations
+
+## Réponse
+
+*Éducation, JO du 2001-07-26, page 2459*
+
+Les dispositions de la note de service du 22 novembre 2000 relatives aux règles et procédures du mouvement national à gestion déconcentrée des personnels enseignants, d'éducation et d'orientation prévoient, dans le cadre des rapprochements de conjoints, la prise en compte des situations des partenaires liés par un pacte civil de solidarité. Ces dispositions concernent notamment l'application de l'article 60 de la loi n° 84-16 du 11 janvier 1984 qui stipule que " priorité est donnée aux fonctionnaires séparés de leur conjoint pour des raisons professionnelles ". Dans la mesure où la loi n° 99-944 du 15 novembre 1999 relative au pacte civil de solidarité modifie, dans son article 13, l'article 60 de la loi n° 84-16 du 11 janvier 1984, la note de service sur les mutations prend en considération les mesures arrêtées pour le rapprochement de conjoints qui s'appliquent aux fonctionnaires séparés pour des raisons professionnelles du partenaire avec lequel ils sont liés par un pacte civil de solidarité. Les demandes de mutation des partenaires liés par un pacte civil de solidarité sont examinées au même titre que celles présentées par les agents mariés, dans le respect des dispositions législatives précitées, en leur attribuant les bonifications liées à la situation familiale ou civile. S'il s'avérait que la conclusion d'un pacte civil de solidarité fasse ressortir une manoeuvre frauduleuse initiée dans le cadre du mouvement des personnels, l'administration ne manquerait pas d'en aviser le ministère public, aux fins de poursuites pénales à l'encontre de ses auteurs, tout en engageant une procédure disciplinaire.
