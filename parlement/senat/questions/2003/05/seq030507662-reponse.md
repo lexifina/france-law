@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030507662
+
+- Question : [SEQ030507662](seq030507662.md) — Parité dans les conseils communautaires
+
+## Réponse
+
+*Parité, JO du 2003-09-18, page 2856*
+
+Les dispositions de la loi n° 2000-493 du 6 juin 2000 tendant à favoriser l'égal accès des femmes et des hommes aux mandats électoraux et aux fonctions électives ont eu, lors des élections municipales de mars 2001, l'effet escompté sur la répartition des femmes et des hommes dans les conseils municipaux des villes de plus de 3 500 habitants, où les femmes représentent désormais près de 47 % des élus. La distorsion entre le nombre de femmes élues conseillères municipales et leur place, tant dans les conseils des communautés d'agglomération que dans les exécutifs municipaux et intercommunaux, n'en est que plus flagrante. L'efficacité des dispositions législatives pour l'élection des conseillers et conseillères municipaux est liée à leur caractère contraignant : elles obligent, en effet, les partis à présenter 50 % de candidats de chaque sexe, sous peine de nullité de la liste. En revanche, l'élection des délégués communaux aux conseils communautaires échappe, comme celle du maire, à toute disposition législative contraignante. Dès lors, les enjeux de pouvoir retrouvent toute leur place. Le Gouvernement s'applique à renforcer les acquis de la parité. Sans exclure a priori le recours à des dispositions contraignantes qui favoriseraient une meilleure représentation des femmes au sein des organes délibérants des structures intercommunales et des exécutifs locaux, il convient de développer la culture paritaire dans tous les secteurs de la société. Les partis politiques ont un rôle essentiel à jouer en la matière. Les individus aussi. Le seul fait que des élus puissent déplorer une insuffisante représentation des femmes témoigne de l'importance accordée désormais, en France, à l'objectif de parité.
