@@ -1,0 +1,7 @@
+# Article Article 6
+
+La mise en œuvre dans l'entreprise du présent accord fera l'objet des informations et consultations des instances représentatives des salariés prévues par le code du travail.
+
+A cet effet, les employeurs exposeront le présent accord et les principes qu'il contient au comité d'entreprise, ou, à défaut, aux délégués du personnel. Les délégués du personnel seront informés des modalités de mise en œuvre du présent accord dans le cadre de l'entreprise, compte tenu notamment de ses effectifs, de sa structure et de ses conditions particulières d'organisation ou de fonctionnement.
+
+Un bilan d'application du présent accord sera présenté annuellement au comité d'entreprise, dans le cadre des obligations prévues à l'article L. 432-3-I du code du travail.

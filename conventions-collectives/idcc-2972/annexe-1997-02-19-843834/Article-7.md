@@ -1,0 +1,3 @@
+# Article Article 7
+
+Chaque salarié recevra notification écrite du coefficient de l'emploi qu'il occupe. L'emploi peut faire l'objet d'une nouvelle évaluation à la demande motivée du salarié auprès de la direction de l'entreprise.
