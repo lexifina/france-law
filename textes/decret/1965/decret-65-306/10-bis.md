@@ -1,0 +1,3 @@
+# Article 10 bis
+
+Dans la limite de 20 p. 100 des emplois vacants, les mécaniciens dépanneurs peuvent également être recrutés par voie d'examen professionnel parmi les auxiliaires du service automobile, âgés de moins de vingt et un ans et comptant au moins deux ans de services effectifs dans un atelier de réparation des véhicules des postes et télécommunications ; cette durée est fixée à un an s'ils sont titulaires du certificat d'aptitude professionnelle de mécanicien réparateur d'automobiles ou d'un diplôme figurant sur une liste fixée par arrêté du ministre chargé des postes et télécommunications.
