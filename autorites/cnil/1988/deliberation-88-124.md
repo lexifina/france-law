@@ -1,0 +1,17 @@
+# Délibération portant avis concernant la mise en oeuvre par la mairie de la Valette-du-Var, d'un traitement automatisé d'informations nominatives en vue de l'établissement de statistiques.
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 88-124
+- Date : 1988-11-22
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017652623
+
+La Commission Nationale de l'Informatique et des Libertés, Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés ; Vu la loi n° 79-18 du 3 janvier 1979 sur les archives ; Vu la loi n° 82-213 du 2 mars 1982 relative aux droits et libertés des communes, des départements et des régions ; Vu le décret n° 78-774 du 17 juillet 1978 pris pour l'application des chapitres I à IV et VII de la loi du 6 janvier 1978 ; Vu l'instruction 6K-1-82 de la Direction Générale des Impôts en date du 5 mai 1982 ; Vu le projet d'acte réglementaire portant création du traitement ; Après avoir entendu Monsieur Philippe MARCHAND, Commissaire, en son rapport et Madame Charlotte-Marie PITRAT, Commissaire du Gouvernement, en ses observations ;
+
+Considérant que le traitement automatisé d'informations nominatives envisagé par la "cellule économique et d'aménagement de l'espace" de la mairie de la Valette-du-Var, a pour finalité l'exploitation à des fins statistiques, du fichier de la taxe d'habitation (F.T.H.), créé à l'usage des collectivités locales ; Considérant que la mairie prévoit de compléter le F.T.H. ainsi obtenu auprès de la direction régionale des impôts de Marseille, par des informations extraites d'une part, de la matrice générale de la taxe d'habitation et d'autre part, du fichier des permis de construire et des déclarations d'intention d'aliéner ; qu'elle constituerait de ce fait un fichier nominatif de la population ; Considérant que l'instruction susvisée de la direction générale des impôts énumère de façon limitative les informations devant figurer dans le F.T.H. destiné aux collectivités locales ; que la mairie n'est par conséquent pas fondée à actualiser ce fichier par d'autres données d'origine fiscale ;
+
+Considérant par ailleurs que la transmission à la cellule économique de données extraites du fichier des permis de construire et des déclarations d'intention d'aliéner n'est prévue par aucun texte, et qu'elle s'effectuerait à l'insu des personnes fichées ; que dès lors, ces dernières devront être informées de cette communication afin de pouvoir éventuellement s'y opposer, conformément aux dispositions des articles 26 et 27 de la loi de 1978 ; Considérant enfin que le fichier nominatif de la population envisagé par la mairie, ne repose sur aucune base légale ; que dans ces conditions, il lui appartient préalablement à toute mise en oeuvre, d'informer ses administrés par l'envoi d'un courrier, de la constitution de ce fichier, afin qu'ils puissent le cas échéant s'opposer à la collecte d'informations le concernant conformément aux dispositions des articles 26 et 27 précités ; Considérant que la mairie s'est engagée auprès de la direction générale des impôts à ne pas communiquer les informations nominatives de ce fichier ; que cependant, elle a prévu de diffuser des informations statistiques auprès de ses partenaires économiques ;
+
+Sous réserve du respect de ces observations, donne un avis favorable à la mise en oeuvre du traitement. Le Président, Jacques FAUVET
