@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960113397
+
+- Question : [SEQ960113397](seq960113397.md) — Délivrance de fiche d'état civil
+
+## Réponse
+
+*Justice, JO du 1996-05-16, page 1212*
+
+Réponse. - Le garde des sceaux a l'honneur de faire connaître à l'honorable parlementaire que les fiches d'état civil telles qu'elles sont établies permettent d'attester de l'état civil ainsi que de la nationalité d'une personne. Ces deux objectifs ne sont toutefois pas nécessairement cumulatifs. La fiche d'état civil peut n'être sollicitée que dans le but d'attester de l'état civil d'une personne. Elle sera alors dressée, soit au vu d'un extrait d'acte de naissance ou d'un livret de famille, ou sur présentation d'une carte nationale d'identité. La date d'obtention de cette carte sera alors indifférente et l'intitulé de la fiche sera limitée à la mention " fiche d'état civil ", la mention " et de nationalité " étant rayée. Cette fiche peut également être demandée en vue d'attester de la nationalité de l'intéressé. Les conditions de sa délivrance seront alors plus restrictives. Le décret du 26 septembre 1953 modifié par décret du 22 mars 1972 portant simplification des formalités administratives précise en effet que la présentation de la carte nationale d'identité peut dispenser l'usager de la remise du certificat de nationalité et de l'extrait de son acte de naissance, et ainsi permettre l'établissement d'une fiche d'état civil et de nationalité française, si cette carte est en cours de validité (article 1er b). Il résulte de l'ensemble des textes régissant la matière que seule la production d'une carte nationale d'identité en cours de validité permet le maintien de la mention " et de nationalité " sur la fiche d'état civil. Celle-ci devra donc être rayée dans tous les autres cas de figure, conformément à l'observation (1) figurant sur ces fiches dont le modèle a été annexé à l'arrêté du 22 février 1995.
