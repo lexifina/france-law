@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040110557
+
+- Question : [SEQ040110557](seq040110557.md) — Tarification à l'activité et prise en charge des sutures mécaniques
+
+## Réponse
+
+*Santé, JO du 2004-06-24, page 1413*
+
+L'attention du ministre de la santé et de la protection sociale est appelée sur les modalités de prise en charge des sutures mécaniques dans le cadre de la mise en oeuvre de la nouvelle tarification à l'activité. En l'état actuel de la réglementation, les sutures mécaniques chirurgicales sont des dispositifs médicaux implantables inscrits sous lignes génériques au chapitre 1er (section 9) du titre III de la liste des produits et prestations (LPP) remboursables, prévue à l'article L. 165-1 du code de la sécurité sociale. La tarification à l'activité mise en oeuvre dans le cadre du projet de loi de financement de la sécurité sociale pour 2004 est un élément majeur du " plan Hôpital 2007 ". Ce système va permettre de déterminer les ressources des établissements sur l'activité produite, exprimée en groupe homogène de séjours (GHS), à partir d'une approche médicale et médico-économique cohérente. Les niveaux de tarification des GHS prennent en compte l'ensemble des paramètres correspondant aux soins nécessaires incluant le financement des dispositifs médicaux et ne devraient donc pas modifier la pratique chirurgicale ni les habitudes de mise en dépôt. Seuls certains dispositifs, en raison de leur coût particulièrement élevé au regard des autres coûts de prise en charge de la personne malade et du niveau de tarification correspondant, pourraient donner lieu à un financement en sus et à ce titre seraient mentionnés sur la LPP. Pour 2004, la tarification des produits inscrits sur la LPP est inchangée par rapport à celle des années antérieures en ce qui concerne les sutures mécaniques, tant pour les établissements de santé privés que publics. Pour 2005, la liste des produits qui seront tarifés en sus des forfaits des GHS n'est pas encore fixée.
