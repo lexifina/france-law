@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961219707
+
+- Question : [SEQ961219707](seq961219707.md) — Diffusion par des chaînes étrangères de programmes à la moralité douteuse
+
+## Réponse
+
+*Culture, JO du 1997-04-24, page 1290*
+
+Réponse. - La loi du 30 septembre 1986 relative à la liberté de communication prévoit le conventionnement par le Conseil supérieur de l'audiovisuel de l'ensemble des chaînes diffusées en France, quel que soit le support de diffusion, hertzien terrestre, câble et satellite, ce qui lui permet d'exercer un contrôle sur le contenu des programmes. Par ailleurs, l'article 15 de cette loi confie au Conseil supérieur de l'audiovisuel la mission de veiller à la protection de l'enfance et de l'adolescence dans la programmation des émissions diffusées par un service de communication audiovisuelle entrant dans son champ de compétence. En outre, l'article 227-24 du nouveau code pénal permet de réprimer le fait de fabriquer, de transporter, de diffuser par quelque moyen que ce soit et quel qu'en soit le support un message à caractère violent ou pornographique ainsi que le fait d'en faire commerce, lorsque ce message est susceptible d'être vu ou perçu par un mineur. Dans le cadre du projet de modification de la loi du 30 septembre 1986 actuellement soumis à l'examen des assemblées parlementaires, le Gouvernement a prévu de renforcer les pouvoirs de contrôle de l'autorité de régulation du secteur audiovisuel sur le contenu des programmes. Un autre volet de son action est de s'attacher à combler le vide juridique créé dans le régime du satellite par les évolutions techniques de ce mode de diffusion et le développement de la numérisation. Le projet de loi se propose d'instaurer un régime plus cohérent, largement inspiré du régime juridique applicable aux réseaux câblés, de façon à favoriser la convergence des supports.
