@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900710752
+
+- Question : [SEQ900710752](seq900710752.md) — Accès aux prêts bonifiés par les entreprises de travaux agricoles et ruraux
+
+## Réponse
+
+*Budget, JO du 1991-04-25, page 865*
+
+Réponse. - La situation spécifique des entrepreneurs de travaux agricoles est déjà prise en compte pour l'assiette de la taxe professionnelle. En effet, l'article 31 de la loi de finances rectificative pour 1986, n° 86-824 du 11 juillet 1986, a institué, à compter de 1987, un abattement d'un tiers sur la valeur locative des matériels agricoles utilisés exclusivement à des travaux saisonniers qui sont effectués pour le compte d'exploitants agricoles. Il n'est pas possible d'accentuer la portée de cette disposition qui constitue un avantage substantiel. Cela dit, l'article 7 de loi de finances pour 1990 a réduit de 4,5 p. 100 à 4 p. 100 le plafond des cotisations de taxe professionnelle par rapport à la valeur ajoutée. Pour les impositions émises au titre de 1991 et des années suivantes, ce seuil est abaissé à 3,5 p. 100 par l'article 5 de la loi de finances pour 1991. Ces dispositions sont particulièrement favorables aux entreprises de travaux agricoles qui bénéficient souvent de ce mécanisme de plafonnement. En ce qui concerne l'accès aux prêts bonifiés, il n'est pas envisageable d'en étendre le bénéfice aux entreprises de travaux agricoles et ruraux. Si certaines structures mises en place en milieu rural, en l'occurrence les coopératives d'utilisation de matériel agricole en commun (Cuma), peuvent accéder à de tels prêts, elles le doivent non pas à leur activité qui est parfois proche de celle des entreprises de travaux agricoles, mais au fait qu'elles regroupent majoritairement des agriculteurs. La réglementation afférente à ces prêts est d'ailleurs celle des prêts bonifiés agricoles et ne peut donc s'appliquer à des entreprises opérant dans le secteur agricole, mais qui ne relèvent pas de la coopération agricole.
