@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990213933
+
+- Question : [SEQ990213933](seq990213933.md) — Nouveau mode de traitement des demandes de mutation des enseignants du second degré
+
+## Réponse
+
+*Éducation, JO du 1999-07-01, page 2227*
+
+Réponse. - La note de service qui définit les modalités d'organisation du mouvement à effet de la rentrée 1999 a été publiée au bulletin officiel nº 14 (numéro spécial) du 10 décembre 1998. La particularité de ce mouvement déconcentré est qu'il se déroule en deux phases : - une première phase inter-académique au cours de laquelle les demandes de changement d'académie sont examinées par le ministre et qui est intervenue du 3 février au 28 avril, - une deuxième phase intra-académique où sont prononcées les affectations en établissement ou sur zone de remplacement par le recteur et qui vient de débuter avec la saisie des v ux dans chaque académie. Ce nouveau mouvement va remédier à certains dysfonctionnements, comme l'attribution d'une affectation, jusqu'à la veille de la rentrée scolaire, pour les enseignants nommés dans des fonctions de remplacement, précédemment les titulaires académiques ; dès la mi-juin, faisant suite à une nomination ministérielle dans l'académie, leur affectation sera prononcée par le recteur sur une zone de remplacement inférieure à l'académie et, dès le début du mois de juillet, ils seront informés de leur établissement de rattachement. Le mouvement déconcentré permettra aussi d'offrir un maximum d'affectations à titre définitif par une meilleure implantation des postes dans les établissements. Dans le cadre de ces modalités, les dispositifs d'accueil et d'information ont été renforcés dans les académies, en particulier pour mieux répondre aux attentes et aux besoins de renseignements des personnels débutants. Ce nouveau mode de traitement des demandes de mutation des personnels d'éducation et d'orientation s'applique à toutes les académies.
