@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900911731
+
+- Question : [SEQ900911731](seq900911731.md) — Suite donnée à une déclaration de l'Union nationale des associations de déportés, internés et familles de disparus
+
+## Réponse
+
+*Premier ministre, JO du 1990-12-06, page 2582*
+
+Réponse. - L'Union nationale des associations de déportés, internés et familles de disparus souligne, avec justesse, que la tâche des hommes politiques est de veiller au bon développement économique, social mais aussi moral de notre pays. Le Gouvernement partage évidemment ce point de vue et c'est bien à cette tâche qu'il s'emploie. Telle a été la portée de l'instauration du R.M.I., indispensable mesure de solidarité nationale envers les plus démunis ; ou encore celle de la création de la délégation générale à l'intégration qui doit faciliter l'insertion des étrangers en situation régulière qui le désirent. Dès les premiers jours, le Gouvernement a marqué combien il était important d'éviter la constitution de villes à deux vitesses, la création de banlieues ghettos. La création de la délégation interministérielle à la ville répond à cette volonté. Ces initiatives n'ont pas seulement pour vocation la réfection de bâtiments ou l'apport de moyens mais bien de parvenirau véritable enjeu qui est une réelle participation des habitants. Une sensibilisation aux droits de l'homme a été introduite dans les programmes scolaires à l'occasion de l'étude de certains évènements historiques. Enfin, une table ronde a été réunie où étaient représentés les différents groupes parlementaires afin d'approfondir, en commun, les moyens de lutter contre le racisme. Tous ces efforts seraient en effet vains sans cette prise de conscience de la citoyenneté dont parle l'Union nationale. Le Gouvernement persévèrera dans ce combat pour plus de justice et de démocratie.
