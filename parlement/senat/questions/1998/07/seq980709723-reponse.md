@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980709723
+
+- Question : [SEQ980709723](seq980709723.md) — Opérations de redéploiement des emplois publics
+
+## Réponse
+
+*Fonction publique, JO du 1998-11-19, page 3718*
+
+Réponse. - Lors du CIADT qui s'est tenu le 15 décembre 1997, le principe des délocalisations intra-régionales a effectivement été réaffirmé. Leur objectif est d'accompagner au plan local, le redéploiement des services opérés depuis le niveau national vers les grandes villes par un redéploiement de services ou d'organismes au sein des régions et des départements à partir des villes chefs-lieux vers d'autres communes. Les délocalisations nationales pour leur part ont touché principalement les grandes agglomérations car les villes d'accueil doivent être d'une taille suffisante et répondre à un certain nombre de conditions (infrastructures de transport, universités) pour sauvegarder l'efficacité des organismes concernés et pour permettre l'insertion des agents mais aussi le reclassement professionnel des conjoints. Aussi pour le moment, ce sont les métropoles régionales qui, pour l'essentiel, ont reçu des effectifs délocalisés. L'objectif de rééquilibrage des activités publiques poursuivies grâce aux délocalisations doit également prendre en compte les nécessités de la modernisation des services de l'Etat et d'une action plus efficace. C'est la raison pour laquelle toute opération doit s'inscrire le plus possible dans une logique de pôles de compétences reposant d'une part sur les vocations et les atouts des villes d'accueil et d'autre part sur un regroupement ayant des complémentarités utiles et reconnues afin de créer des effets de synergie. C'est dans ce cadre que la demande de la Creuse doit être examinée. Au demeurant, ce département a bénéficié de trois opérations de délocalisations dont l'une concerne Guéret avec le centre d'archives des chèques postaux et des comptes d'épargne logement d'Ile-de-France.
