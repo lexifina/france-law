@@ -1,0 +1,9 @@
+# Réponse à la question SEQ891107139
+
+- Question : [SEQ891107139](seq891107139.md) — Fermeture de la bretelle d'accès de Joinville-le-Pont à l'autoroute A 4
+
+## Réponse
+
+*Équipement, JO du 1990-05-24, page 1137*
+
+Réponse. - L'ouverture de la section d'A 86 franchissant la Marne en souterrain a été accompagnée de mesures d'exploitation sur l'autoroute A 14, qu'il était nécessaire de mettre en place en même temps. C'est ainsi qu'au droit du pont de Nogent-sur-Marne, l'autoroute A 4 a été ramenée à trois voies de circulation dans chaque sens et que la voie de droite, dans le sens Paris-province, a été affectée à l'accès à la section sous-fluviale d'A 86 et à la sortie vers le pont lui-même. Cette dernière mesure a eu pour conséquence la fermeture de la bretelle d'accès à l'autoroute A 4 à partir du carrefour de Beauté, à Joinville-le-Pont. En effet, le très important flux de véhicules quittant l'autoroute A 4 en direction d'A 86 et du pont de Nogent-sur-Marne aurait été gravement perturbé par un difficile entrecroisement avec le flux d'entrée sur A 4 par cette bretelle, situation qui aurait présenté des dangers certains ; de plus, l'autoroute A 4 réduite à trois voies dans le secteur, aurait eu une capacité insuffisante pour écouler la totalité du trafic en cas de maintien de la bretelle de Joinville-le-Pont. Cet accès a donc dû être fermé pour des raisons de sécurité et d'écoulement du trafic ; c'est ce qui avait été d'ailleurs indiqué à l'honorable parlementaire par lettre datée du 28 décembre 1989, en réponse à ses deux courriers du 12 mai et du 7 septembre 1989. Toutefois, depuis lors, il a été décidé, à titre d'expérience, de rouvrir cette bretelle aux heures de moindre circulation ; elle reste donc fermée seulement au moment des pointes de trafic du soir, entre 16 heures et 21 heures, sauf bien sûr les samedis, dimanches et jours fériés.
