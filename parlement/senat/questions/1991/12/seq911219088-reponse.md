@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911219088
+
+- Question : [SEQ911219088](seq911219088.md) — Extension du droit au congé parental d'éducation aux entreprises de plus de cinquante salariés
+
+## Réponse
+
+*Famille et personnes âgées, JO du 1992-05-07, page 1087*
+
+Réponse. - En mars 1990, le Gouvernement a sollicité l'avis du conseil économique et social sur la politique familiale française, son évolution et sa cohérence et sur les aménagements souhaitables, compte tenu de l'évolution des modes de vie et dans la perspective européenne. Le Conseil économique et social a rendu son avis dans sa séance du 21 septembre 1991. Depuis lors, le Gouvernement étudie, à la faveur des observations formulées, diverses mesures tendant à mieux concilier la vie professionnelle et la vie familiale, parmi lesquelles le congé parental d'éducation a naturellement sa place. Il est précisé à l'honorable parlementaire que le droit au congé parental d'éducation est ouvert, quel que soit l'effectif de l'entreprise, à tout salarié justifiant d'un an d'ancienneté à la date de la naissance de l'enfant ou de l'arrivée au foyer d'un enfant de moins de trois ans confié en vue de son adoption. Toutefois, dans les entreprises de moins de cent salariés, l'employeur peut refuser le départ en congé du salarié ou l'exercice à temps partiel de son activité s'il estime que ceux-ci auront des conséquences préjudiciables à la production et à la bonne marche de l'entreprise. Ce droit de refus a été cependant étroitement encadré par le législateur. L'employeur ne peut l'exercer qu'en respectant la procédure légale : consultation des représentants du personnel, obligation, sous peine de nullité, de préciser les motifs du refus et de le notifier par lettre recommandée avec demande d'avis de réception. Le salarié dispose d'un droit de recours devant le conseil de prud'hommes qui statue selon la procédure d'urgence et en dernier ressort.
