@@ -2,7 +2,7 @@
 
 I. Les personnes physiques qui prennent l'engagement de conserver, pendant cinq ans au moins à compter de leur souscription, des parts de fonds communs de placement à risques sont exonérées de l'impôt sur le revenu à raison des sommes ou valeurs auxquelles donnent droit les parts concernées au titre de cette même période.
 
-Cette disposition s'applique aux souscriptions de parts effectuées entre le 1er janvier 1984 et le 31 décembre 1988.
+Cette disposition s'applique aux souscriptions de parts effectuées entre le 1er janvier 1984 et le 31 décembre 1989.
 
 II. L'exonération est subordonnée aux conditions suivantes :
 

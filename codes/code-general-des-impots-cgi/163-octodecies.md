@@ -1,6 +1,6 @@
 # Article 163 octodecies
 
-I. - Lorsqu'une société constituée à partir du 1er janvier 1987 se trouve en cessation de paiement dans les cinq ans qui suivent sa constitution, les personnes physiques qui ont souscrit en numéraire à son capital peuvent déduire de leur revenu net global une somme égale au montant de leur souscription, après déduction éventuelle des sommes récupérées.
+I. - Lorsqu'une société constituée à partir du 1er janvier 1987 et avant le 31 décembre 1988 se trouve en cessation de paiement dans les cinq ans qui suivent sa constitution, les personnes physiques qui ont souscrit en numéraire à son capital peuvent déduire de leur revenu net global une somme égale au montant de leur souscription, après déduction éventuelle des sommes récupérées.
 
 La déduction est opérée, dans la limite annuelle de 100 000 F, sur le revenu net global de l'année au cours de laquelle intervient la réduction du capital de la société, en exécution d'un plan de redressement visé aux articles 69 et suivants de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises, ou la cession de l'entreprise ordonnée par le tribunal en application des articles 81 et suivants de la même loi ou le jugement de clôture de la liquidation judiciaire.
 
