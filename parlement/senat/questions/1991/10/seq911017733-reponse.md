@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911017733
+
+- Question : [SEQ911017733](seq911017733.md) — Extension à l'ensemble des pays d'Amérique latine des préférences tarifaires accordées initialement aux pays du pacte andin
+
+## Réponse
+
+*Départements et territoires d'Outre-mer (DOM-TOM), JO du 1992-04-16, page 942*
+
+Réponse. - La proposition de la commission d'étendre aux pays d'Amérique centrale (Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, Panama) les concessions commerciales accordées par règlement n° 3835/90 du 20 décembre 1990 à 4 pays andins (S.P.G. drogue) a été adoptée par le conseil des communautés le 16 décembre 1991. Par l'intermédiaire de sa représentation auprès des communautés européennes, le Gouvernement français avait souligné le danger que le libre accès au marché communautaire de certains produits agricoles de l'isthme centro-américain pouvait constituer pour les productions des départements d'outre-mer et a manifesté tout au long des négociations son opposition à une telle proposition. La France n'a malheureusement pas été suivie par les autres Etats membres, qui se sont ralliés à la proposition de la commission, mais a obtenu que celle-ci formalise, dans une déclaration annexée, certaines garanties : l'engagement de ne plus proposer d'extention du S.P.G. drogue à d'autres pays ou régions jusqu'à la fin de l'exercice, actuellement en cours, de révision du schéma décennal du S.P.G. ; surtout, l'engagement de " faire preuve d'une particulière vigilance s'agissant de produits qui lui seraient signalés comme particulièrement sensibles par un Etat membre ". Le Gouvernement va donc surveiller les flux d'échanges des produits visés par ce nouveau régime, dont il convient de rappeler qu'il est limité dans le temps (3 ans) afin de pouvoir intervenir auprès de la commission si un préjudice concernant les productions des D.O.M. est établi.
