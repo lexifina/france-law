@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010734397
+
+- Question : [SEQ010734397](seq010734397.md) — Visite éclair en Europe
+
+## Réponse
+
+*Affaires étrangères, JO du 2001-09-06, page 2870*
+
+A l'occasion du passage de M. Sharon à Paris, le Président de la République et le Premier ministre ont eu avec ce dernier un dialogue franc, direct et approfondi. Ils ont exprimé clairement au chef du gouvernement israélien les très sérieuses préoccupations que leur inspire la situation au Proche-Orient. Ils ont souligné que la poursuite de la confrontation n'offre aucune issue, et fait valoir que seul le rétablissement du dialogue et la redéfinition des perspectives politiques peuvent permettre de sortir de la crise actuelle, étant entendu qu'un tel dialogue ne peut être mené qu'une fois le cessez-le-feu consolidé et la confiance entre les parties restaurée. Dans cette perspective, le Président de la République et le Premier ministre ont insisté sur la nécessité de mettre en oeuvre rapidement et intégralement les recommandations du rapport Mitchell. Ils ont indiqué au chef du gouvernement israélien que les efforts faits par les parties, en application du plan Tenet, justifieraient un démarrage sans délai de la séquence prévue par la commission Mitchell. Tout retard dans la mise en oeuvre de ces mesures ferait le jeu de l'extrémisme. Le chef de l'Etat et le chef du gouvernement ont également rappelé que la France est attachée à la sécurité d'Israël, condamne sans réserve le terrorisme et n'a d'autre objectif que la recherche de la paix. Cette première visite de M. Sharon à Paris depuis son élection s'inscrivait dans le cadre des contacts réguliers que la France entretient avec les protagonistes du conflit israélo-palestinien et des efforts entrepris par la communauté internationale pour restaurer une perspective de paix au Proche-Orient. En dépit des difficultés, la France entend poursuivre dans cette voie.
