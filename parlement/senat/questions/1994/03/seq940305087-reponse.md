@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940305087
+
+- Question : [SEQ940305087](seq940305087.md) — Conditions d'accès des instituts universitaires de formation de maîtres aux futurs instituteurs
+
+## Réponse
+
+*Enseignement supérieur, JO du 1994-07-07, page 1686*
+
+Réponse. - En l'état actuel de la réglementation, l'inscription au concours de professeur des écoles, et par conséquent l'admission en IUFM, reste subordonnée à la possession d'un diplôme de niveau BAC p 3. En effet, les conditions d'admission en IUFM sont déterminées par le niveau du diplôme exigé pour se présenter au concours de recrutement. Les conditions de titres ou de diplômes à remplir par les futurs candidats au concours de professeur des écoles n'ont pas été modifiées ; la licence ou certains diplômes obtenus après trois années d'études supérieures, conformément à l'arrêté du 4 juillet 1991, sont exigés des candidats. Une licence pluridisciplinaire doit être mise en place, à la rentrée 1994, dans quelques académies. Elle offrira une alternative aux étudiants, notamment ceux qui désirent devenir professeur des écoles, par rapport à des licences plus spécialisées qui ne correspondent pas toujours au profil des candidats recherchés en raison de la polyvalence du métier de professeur des écoles. La réglementation permet à certains étudiants titulaires d'un DEUG, d'un DUT ou d'un BTS de bénéficier d'une allocation d'année préparatoire au cours de l'année où ils préparent la licence ou un diplôme ou titre requis pour s'inscrire en première année d'IUFM. Toutefois, il convient de préciser que dans le cadre de l'autonomie pédagogique des établissements d'enseignement supérieurs, les universités sont seules compétentes pour décider d'inscrire ou non dans telle ou telle licence des titulaires d'un DUT ou d'un BTS en fonction du contenu du cursus antérieur de l'étudiant qui, dans certains cas, ne permet pas la poursuite d'études au niveau du second cycle.
