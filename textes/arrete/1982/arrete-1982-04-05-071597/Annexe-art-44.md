@@ -1,6 +1,6 @@
 # Article Annexe art. 44
 
-La chambre de commerce et d'industrie de Paris désigne des contrôleurs tenus au secret professionnel sous les peines prévues à l'article 378 du code pénal.
+La chambre de commerce et d'industrie de Paris désigne des contrôleurs tenus au secret professionnel sous les peines prévues aux articles 226-13 et 226-14 du code pénal.
 
 Les contrôleurs mentionnés à l'alinéa précédent peuvent à tout moment exiger des commissionnaires agréés la présentation du répertoire et toutes justifications de la réalité des affaires traitées et de leur conformité au règlement ; les organismes concourant au fonctionnement des marchés sont tenus d'apporter à ces contrôleurs toute l'aide et l'assistance nécessaires à l'exercice de leur mission.
 

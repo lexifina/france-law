@@ -4,6 +4,4 @@ Seront punis des peines prévues par le sixième alinéa de l'article 24 ceux qu
 
 Le tribunal pourra en outre ordonner :
 
-1° L'affichage de sa décision dans les conditions prévues par l'article 51 du code pénal ;
-
-2° La publication de celle-ci ou l'insertion d'un communiqué dans les conditions prévues par l'article 51-1 du code pénal, sans que les frais de publication ou d'insertion puissent excéder le maximum de l'amende encourue.
+1° L'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35 du code pénal.
