@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900308775
+
+- Question : [SEQ900308775](seq900308775.md) — Conditions de versement de l'allocation compensatrice
+
+## Réponse
+
+*Famille, JO du 1991-03-07, page 475*
+
+Réponse. - L'allocation compensatrice est accordée à toute personne handicapée qui ne bénéficie pas d'un avantage analogue au titre d'un régime de sécurité sociale lorsque son incapacité est au moins égale à 80 p. 100 et que son état nécessite l'aide effective d'une tierce personne pour les actes essentiels de l'existence. Son montant varie selon l'état de dépendance de la personne handicapée. La prestation peut être versée à domicile ou en établissement. L'attribution de l'allocation compensatrice à une personne accueillie en établissement d'hébergement est parfaitement admissible. Le placement en établissement figure d'ailleurs explicitement parmi les conditions permettant d'accorder l'allocation compensatrice au taux maximum. Ceux-ci recouvrent aussi bien des foyers pour handicapés que des maisons de retraite et des services de long séjour. Lorsque la personne handicapée, accueillie dans une maison de retraite publique ou privée. paie elle-même ses frais d'hébergement, elle conserve l'intégralité de son allocation compensatrice au taux fixé par la COTOREP ; la commission centrale d'aide sociale, statuant en contentieux, a eu l'occasion à plusieurs reprises de confirmer cette position. C'est seulement lorsque le placement de la personne handicapée en maison de retraite est pris en charge par l'aide sociale que le paiement de l'allocation compensatrice peut être suspendu par la commission d'admission, dans les conditions prévues par l'article 4 du décret n° 77-1547 du 31 décembre 1977, en proportion de l'aide qui lui est assurée par le personnel de l'établissement pendant qu'elle y séjourne et au maximum à concurrence de 90 p. 100.
