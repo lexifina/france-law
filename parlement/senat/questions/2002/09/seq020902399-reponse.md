@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020902399
+
+- Question : [SEQ020902399](seq020902399.md) — Fonctionnement du musée du Louvre
+
+## Réponse
+
+*Culture, JO du 2002-12-12, page 3062*
+
+Sans être accablant, le rapport qu'évoque l'honorable parlementaire souligne incontestablement certains dysfonctionnements du musée du Louvre et demande des précisions sur les perspectives envisagées. Concernant la mise en oeuvre du schéma directeur de sûreté, le musée du Louvre a pris une série de mesures pour renforcer très sensiblement la protection des oeuvres qui sont exposées dans ses espaces muséographiques ou conservées dans ses réserves. Le musée a arrêté en concertation étroite avec ses tutelles un plan d'investissement qui porte, pour les années 2001 à 2005, sur un montant total de 15,3 MEUR. Parallèlement à ce programme d'investissements, le Louvre s'est engagé dans une politique de sensibilisation accrue de l'ensemble de ses personnels aux questions de sécurité. Concernant l'ouverture des salles, le Louvre a élaboré un dispositif mis en place au 1er janvier 1999. Au lieu d'un ordre de priorité des fermetures, qui pénalisait certains espaces, le dispositif prévoit des fermetures par roulement hebdomadaire de différentes salles du musée, les autres espaces demeurant impérativement ouverts. Concernant les perspectives d'évolution statutaire de l'établissement, le souci d'une gestion plus efficace rend aujourd'hui nécessaire l'évolution des termes du décret statutaire du musée pour ce qui concerne notamment la gestion des personnels, les liens avec la Réunion des musées nationaux et la relation hiérarchique entre les conservations et la direction du Louvre. Dès 2003, la masse salariale des personnels titulaires de la fonction publique d'Etat affectés au musée du Louvre sera transférée sur le budget de l'établissement public.
