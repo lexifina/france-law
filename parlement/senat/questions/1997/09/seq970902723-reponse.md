@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970902723
+
+- Question : [SEQ970902723](seq970902723.md) — Valorisation de la recherche dans les établissements publics à caractère scientifique et technologique
+
+## Réponse
+
+*Éducation, JO du 1997-12-18, page 3552*
+
+Réponse. - Le ministre de l'éducation nationale, de la recherche et de la technologie a pris connaissance avec intérêt du rapport de la Cour des comptes sur la " valorisation de la recherche dans les établissements publics à caractère scientifique et technologique " (EPST). Il partage l'appréciation de la cour sur le caractère prioritaire du renforcement de l'interaction de la recherche publique avec le secteur économique. Pour donner suite à ses recommandations, le ministre attend les premières conclusions d'une mission sur les orientations et les modalités de la politique technologique et de l'innovation que lui-même et ses collègues chargés de l'économie, des finances et de l'industrie ont confiée à un ancien président de l'Agence nationale de valorisation de la recherche. Cette mission concerne en effet certains domaines qui ont été analysés dans le rapport de la Cour des comptes, comme la mobilité des chercheurs vers les entreprises, la création d'entreprises de technologie dans l'environnement des grands centres de recherche et des universités, le financement public des projets de recherche appliquée et du partenariat recherche publique-entreprises, ainsi que l'optimisation des moyens et la mise en réseau des centres de compétences dans le domaine de la recherche technologique et du soutien à sa diffusion dans l'industrie. Ces différents sujets s'inscrivent dans la perspective plus générale de la mise en oeuvre d'une politique ambitieuse de la technologie et de l'innovation, que le Gouvernement considère comme une de ses priorités.
