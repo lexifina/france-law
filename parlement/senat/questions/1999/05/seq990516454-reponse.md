@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990516454
+
+- Question : [SEQ990516454](seq990516454.md) — Reconnaissance des langue et culture provençales
+
+## Réponse
+
+*Éducation, JO du 1999-08-19, page 2802*
+
+Réponse. - Le ministère de l'éducation nationale, de la recherche et de la technologie attache le plus grand intérêt à l'enseignement des langues et cultures régionales. Les variétés linguistiques et les systèmes graphiques susceptibles d'être rencontrés à l'intérieur de certaines langues régionales ont été pris en compte dans les recommandations portant sur les objectifs et la méthodologie de l'enseignement des langues régionales par la circulaire du 30 décembre 1983. Ces dispositions mettent l'accent sur l'adaptation de l'enseignement de la langue régionale à la diversité locale. Cette diversité est soulignée dans l'arrêté du 15 avril 1988 relatif aux programmes de langues régionales des lycées, qui reconnaît au provençal sa place au sein des grandes variétés de la langue d'oc en invitant les enseignants à mettre l'accent sur les traits spécifiques, morphologiques ou syntaxiques de la langue provençale. Par ailleurs, les indications apportées dans la note de service nº 97-106 du 7 mai 1997 relative aux programmes des concours externes du CAPES pour la session de 1998 ont précisé qu'en ce qui concerne le CAPES Occitan langue d'oc aucune variété linguistique ne sera privilégiée. Cette note de service mentionne également que les systèmes graphiques autres que ceux majoritairement utilisés seront également acceptés : cette disposition établissant l'usage de la graphie mistralienne dans les épreuves de ce concours. Dans ces conditions, la création d'un statut particulier et d'une reconnaissance officielle pour la langue et la culture provençales ne paraissent pas devoir être nécessaires.
