@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000323254
+
+- Question : [SEQ000323254](seq000323254.md) — Visite en France du Président du Nigeria
+
+## Réponse
+
+*Commerce extérieur, JO du 2000-06-15, page 2135*
+
+Réponse. - Le Président du Nigeria a effectué du 6 au 9 février 2000 la première visite d'Etat en France d'un chef d'Etat nigérian. Il a rencontré le Président de la République, le Premier ministre, les présidents des deux assemblées ainsi que le maire de Paris. Il a également eu des réunions de travail avec le directeur général de l'Agence française de développement et le Mouvement des entreprises de France. La dernière journée de son déplacement en France s'est déroulée à Toulouse où, accompagné par le secrétaire d'Etat au commerce extérieur, monsieur François Huwart, il a visité le CNES puis Airbus Industries, Aerospatiale-Matra et ATR. En se rendant au CNES, le Président du Nigeria a confirmé l'intérêt de son pays pour la technologie développée par Spot Image et Fleximage, quelques mois après la signature d'un premier contrat de 7 millions de francs français pour la fourniture d'images interprétées. Chez Airbus Industries, la réhabilitation éventuelle de quatre Airbus A 310 détenus par Nigeria Airways a été évoquée. Enfin, la délégation nigériane a terminé son déplacement toulousain chez ATR, afin d'étudier la possibilité d'acquérir un ou plusieurs ATR 42, pour assurer des liaisons régionales. Ce déplacement à Toulouse a été l'occasion pour le secrétaire d'Etat au commerce extérieur de rappeler au Président du Nigeria ainsi qu'au membres de sa délégation notre soutien à la poursuite du processus de transition démocratique au Nigeria, nécessaire à la stabilité de l'Afrique de l'Ouest, et de confirmer notre volonté d'intensifier nos relations commerciales bilatérales, le Nigeria se plaçant déjà à la troisième place de nos marchés à l'exportation en Afrique subsaharienne.
