@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981112146
+
+- Question : [SEQ981112146](seq981112146.md) — Mise en place dans les zones d'éducation prioritaire (ZEP) d'un bilan systématique de santé à l'issue de la scolarité primaire
+
+## Réponse
+
+*Enseignement scolaire, JO du 1999-05-27, page 1777*
+
+Réponse. - Le plan de relance pour la santé scolaire présenté le 11 mars 1998 prévoit entre autres mesures le développement du suivi médical et infirmier pour les élèves des écoles situées dans des zones d'éducation prioritaire (ZEP) et en particulier un bilan systématique de santé à la fin de leur scolarité (élèves de CM2). Cette mesure a été inscrite dans le cadre de la politique de relance de l'éducation prioritaire, que le ministère de l'éducation nationale, de la recherche et de la technologie vient de redéfinir par les dispositions contenues dans les circulaires nº 98-145 du 10 juillet 1998 et nº 99-007 du 20 janvier 1999 en mettant en place notamment des réseaux d'éducation prioritaire et des contrats de réussite. C'est ainsi que, selon les termes de la circulaire nº 99-007 précitée, il est prévu " dans les réseaux d'éducation prioritaire, un nouveau bilan obligatoire fondé sur une visite médicale systématique à l'issue de la scolarité primaire ". Les modalités de cette visite font l'objet d'un groupe de travail qui rendra prochainement ses conclusions afin que l'opération puisse être effectivement menée dès la rentrée 1999. Ce nouveau bilan de santé sera progressivement mis en place afin de couvrir les besoins médicaux des élèves de CM2 concernés dans les ZEP. Par ailleurs, et afin d'accroître les moyens en médecins pour accomplir cette nouvelle action, le ministère de l'éducation nationale, de la recherche et de la technologie a présenté une mesure nouvelle dont le coût financier est estimé à quatre millions de francs dans le cadre du projet de loi de finances 2000.
