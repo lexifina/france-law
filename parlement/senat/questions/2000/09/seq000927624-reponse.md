@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000927624
+
+- Question : [SEQ000927624](seq000927624.md) — Recrutement de magistrats
+
+## Réponse
+
+*Justice, JO du 2000-12-28, page 4493*
+
+Réponse. - La garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que le développement d'une gestion prévisionnelle des effectifs des magistrats lui apparaît indispensable à la mise en uvre de recrutements adaptés aux besoins croissants de l'institution judiciaire. C'est pourquoi, dès 1998, il a été décidé de porter à 185 le nombre de postes offerts aux concours d'accès à l'Ecole nationale de la magistrature, alors que 110 postes seulement avaient été offerts en 1994, et 145 pour chacune des années 1995, 1996 et 1997. Le volume des recrutements par les concours d'accès à l'Ecole nationale de la magistrature sera maintenu à un niveau élevé dans les années à venir. L'insuffisance des recrutements sur la période passée a en outre conduit le Gouvernement, dans le cadre d'un plan d'urgence pour la justice, à faire adopter la loi organique nº 98-105 du 24 février 1998, qui a autorisé l'organisation en 1998 et 1999 de concours exceptionnels pour le recrutement de 200 magistrats supplémentaires. Ces magistrats ont ainsi pu prendre leurs fonctions en juridiction dès juillet 1999 pour la moitié d'entre eux, et en juillet 2000 pour l'autre moitié. Outre les concours d'accès à l'Ecole nationale de la magistrature et les concours exceptionnels, il a également été procédé à des recrutements complémentaires de magistrats (conseillers en service extraordinaire, détachement judiciaire, intégration directe). Ont ainsi été affectés en juridiction, au total, 175 magistrats en 1998, 299 magistrats en 1999 et 296 magistrats en 2000. Pour l'heure, il n'est pas prévu d'organiser un nouveau concours exceptionnel, dont la mise en uvre nécessiterait l'adoption préalable d'une nouvelle loi organique autorisant ce recrutement.
