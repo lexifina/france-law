@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980206326
+
+- Question : [SEQ980206326](seq980206326.md) — Tabaculture française
+
+## Réponse
+
+*Agriculture, JO du 1998-06-11, page 1868*
+
+Réponse. - L'année 1998 sera une année cruciale pour le secteur tabacole français et européen avec la négociation et l'adoption de la réforme de l'organisation commune des marchés (OCM) du tabac brut. Le Conseil des ministres de l'Union européenne est actuellement saisi d'une propossion de la Commission qui est jugée globalement positive : celle-ci préconise, en effet, le maintien des grandes lignes de l'OCM reposant sur un système de quotas et de primes accordées aux producteurs, différenciées par groupe de variétés, avec l'introduction de mesures favorisant la qualité des tabacs produits. Toutefois, la proposition doit être amendée sur plusieurs points : le système des enchères aux contrats de culture semble incompatible en l'état avec la nature des relations contractuelles entre producteurs et transformateurs ; le rachat des quotas, dans le cadre d'une reconversion des producteurs, doit être aménagé afin de préserver la possibilité d'installation de jeunes producteurs ainsi que l'équilibre économique de certaines régions tabacoles. Enfin, la France demande le relèvement de la prime compensatoire applicable aux tabacs de la variété Burley produits dans le nord de l'Europe. En effet, le ministre de l'agriculture et de la pêche est conscient de la nécessité de continuer le mouvement de reconversion variétale des tabacs bruns vers les tabacs clairs. A cet égard, l'Office national interprofessionnel des fruits et légumes et de l'horticulture (ONIFLHOR) est chargé, en liaison avec les professionnels, de l'élaboration et de la gestion, dans le cadre de ses disponibilités budgétaires, du programme de modernisation des investissements liés à cette reconversion.
