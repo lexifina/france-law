@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900308815
+
+- Question : [SEQ900308815](seq900308815.md) — Rapatriés : délai de règlement des certificats d'indemnisation
+
+## Réponse
+
+*Économie, JO du 1990-05-24, page 1128*
+
+Réponse. - En application de l'article 18, paragraphe 3, du décret n° 87-994 du 10 décembre 1987 pris pour l'application des articles 1er à 9 de la loi n° 87-549 du 16 juillet 1987 : " le paiement de l'annuité intervient dans le courant du mois de septembre de chaque année considérée ". Par conséquent, les personnes atteignant l'âge de quatre-vingts ans au cours d'une année donnée percevront au mois de septembre de cette année le montant de la créance leur restant due à concurrence de 100 000 francs. En effet, l'article 7 de la loi indique que ce règlement s'effectuera, sur demande des attributaires, l'année de leur quatre-vingtième anniversaire et non pas pour leur quatre-vingtième anniversaire. Il est donc exact qu'un attributaire atteignant l'âge de quatre-vingts ans au mois de juin ne sera réglé que trois mois plus tard mais le règlement sera d'un montant de 100 000 francs, si la créance restant due est supérieure à cette somme, au lieu du montant figurantsur son certificat initial. En revanche, le règlement au profit d'un attributaire n'atteignant l'âge de quatre-vingts ans qu'au mois de novembre d'une année sera effectué deux mois avant son quatre-vingtième anniversaire puisqu'il interviendra également au mois de septembre. Il est toutefois précisé que seuls les attributaires ayant renvoyé à la paierie générale du Trésor leur certificat initial pour échange contre un certificat à durée d'amortissement réduite peuvent bénéficier des dispositions du dernier alinéa de l'article 7 de la loi du 16 juillet 1987, cette possibilité leur étant systématiquement rappelée par le comptable du Trésor.
