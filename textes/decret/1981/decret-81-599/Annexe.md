@@ -42,19 +42,25 @@ Transmission d'une demande internationale.
 
 Préparation d'exemplaires complémentaires.
 
-4. Marques de fabrique, de commerce ou de service.
+4. Marques de fabrique, de commerce ou de service :
 
-Dépôt et publication (4).
+- Dépôt ;
 
-Classe de produits ou de services (premier dépôt et renouvellement).
+- Classe de produits ou de services ;
 
-Revendication d'un droit de priorité.
+- Revendication d'un droit de priorité ;
 
-Rectification d'erreur matérielle.
+- Régularisation ;
 
-Demande d'enregistrement international d'une marque.
+- Opposition ;
 
-Supplément pour renouvellement tardif de dépôt (3).
+- Rectification d'erreur matérielle ;
+
+- Renouvellement ;
+
+- Renonciation ;
+
+- Demande d'inscription au registre international des marques ; - Relevé de déchéance.
 
 5. Dessins et modèles.
 
