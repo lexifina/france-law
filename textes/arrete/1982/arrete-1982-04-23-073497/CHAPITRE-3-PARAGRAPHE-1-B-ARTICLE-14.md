@@ -11,3 +11,5 @@ b) Commerçants, notamment non sédentaires, exerçant sur les marchés publics,
 c) Cas du conjoint survivant empêché de céder du fait des règles successorales :
 
 L'exercice du droit reconnu au conjoint survivant par l'article 3 du décret n° 82-307 du 2 avril 1982, est parfois retardé par la liquidation de succession. Cette situation est à rapprocher de celle dans laquelle le demandeur marié décède après avoir fait sa demande, mais avant d'avoir mis en vente pendant trois mois.
+
+d) Bateliers propriétaires d'unités de transport affectées au transport public fluvial de marchandises et vouées à un retrait définitif d'exploitation qui sont susceptibles d'être rachetées par l'Office national de la navigation dans les conditions prévues à l'arrêté du 31 janvier 1986 relatif au rachat par l'Office national de la navigation de certains bateaux affectés au transport public fluvial de marchandises.
