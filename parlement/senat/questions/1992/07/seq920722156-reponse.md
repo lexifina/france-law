@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920722156
+
+- Question : [SEQ920722156](seq920722156.md) — Droit à l'assurance maladie pour les bénéficiaires de l'allocation de veuvage
+
+## Réponse
+
+*Affaires sociales, JO du 1992-10-08, page 2287*
+
+Réponse. - L'assurance veuvage, dont l'objet est de permettre au conjoint survivant d'un assuré social de s'insérer ou de se réinsérer dans la vie professionnelle, est déconnectée du droit à l'assurance maladie. Toutefois, des dispositions particulières favorisent l'adhésion des bénéficiaires de l'allocation de veuvage au régime de l'assurance personnelle. En effet, aux termes de l'article L. 741-8 du code de la sécurité sociale, la cotisation dont sont redevables les titulaires de l'allocation de veuvage qui ont adhéré à l'assurance personnelle est prise en charge par l'aide sociale, sans que soient mises en jeu les règles relatives à l'obligation alimentaire. En outre, le droit aux prestations de l'assurance maladie est garanti, en cas de veuvage, dans le cadre d'un dispositif de maintien de droit. En règle générale, les personnes veuves, qui n'ont pas droit à l'assurance maladie à un autre titre, continuent à bénéficier des prestations pendant douze mois à compter du décès de l'assuré ou, le cas échéant, jusqu'au troisième anniversaire du dernier enfant à charge. Dans le cas particulier où la personne veuve est âgée d'au moins quarante-cinq ans et a élevé, ou assumé la charge d'au moins trois enfants, le droit aux prestations en nature du dernier régime obligatoire d'assurance maladie dont elle a relevé lui est maintenu, sans limitation de durée, pour elle-même et ses ayants droit. Le ministre des affaires sociales et de l'intégration étudie attentivement les possibilités d'assouplissement des conditions de prise en charge de l'assurance maladie des veufs et veuves non couverts, que ce soit par la sécurité sociale ou par l'aide sociale. Il ne manquera pas d'en tenir la représentation nationale informée.
