@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990718238
+
+- Question : [SEQ990718238](seq990718238.md) — Rapport de l'IGAS sur l'Institut national du travail, de l'emploi et de la formation professionnelle (INTEFP)
+
+## Réponse
+
+*Emploi, JO du 2000-01-27, page 312*
+
+Réponse. - L'Institut national du travail, de l'emploi et de la formation professionnelle (INTEFP) a notamment pour mission, conformément au décret nº 86-146 du 30 janvier 1986 le créant et l'organisant, la formation initiale et continue des membres du corps de l'inspection du travail. Le rapport annuel de 1998 de l'inspection générale des affaires sociales (IGAS) émet un certain nombre de critiques quant aux modalités de mise en uvre de la formation initiale des inspecteurs du travail (accompagnement individuel insuffisant, modes de recrutement des intervenants peu transparents...). Les conclusions de ce rapport et l'évaluation interne des actions de l'INTEFP ont d'ores et déjà permis d'aménager les modalités de la formation qui pouvaient l'être sans modifications des textes réglementaires en vigueur (décret nº 75-273 du 21 avril 1975 modifié portant statut particulier de l'inspection du travail et arrêté du 6 janvier 1992 fixant les modalités de la formation, les conditions d'évaluation et de sanction de la scolarité des inspecteurs-élèves du travail) : élaboration de parcours individualisés de formation pour les inspecteurs-élèves, choix des intervenants au sein de réseaux de formateurs... Une étude du Conservatoire national des arts et métiers (CNAM) en 1999 a par ailleurs contribué à la redéfinition du dispositif de formation initiale des inspecteurs du travail. Une réforme globale du dispositif actuel, favorisant une meilleure adaptation aux fonctions exercées à l'issue de la formation, est en cours d'élaboration. Elle nécessitera des modifications des textes réglementaires suscités.
