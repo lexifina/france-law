@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021104279
+
+- Question : [SEQ021104279](seq021104279.md) — Conditions de départ en retraite des fonctionnaires mères de famille ayant élevé un enfant handicapé décédé
+
+## Réponse
+
+*Fonction publique, JO du 2003-02-06, page 464*
+
+L'article L. 24 du code des pensions civiles et militaires de retraite autorise les femmes fonctionnaires mères " d'un enfant vivant âgé de plus d'un an et atteint d'une invalidité égale ou supérieure à 80 % " à bénéficier d'une pension sans condition d'âge. Il subordonne en effet l'octroi de la mesure à la condition expresse que l'enfant au titre duquel est ouvert le droit soit vivant lors du dépôt de la demande. En supposant que l'enfant vienne à décéder au moment de l'examen des droits au départ à la retraite, il est vrai que le dispositif actuel n'offre pas une réponse à la mesure de cette douloureuse situation. Néanmoins, la suppression de cette condition ne correspondrait pas à l'objectif de ce dispositif qui vise à permettre aux mères de famille de se consacrer à l'éducation de leur enfant handicapé, tout en bénéficiant d'un revenu de remplacement. La question soulevée doit être rapprochée de la réforme d'ensemble des retraites. Elle fait, à ce titre, actuellement l'objet d'une étude par les différentes administrations concernées. Elle entre également dans la réflexion menée dans le cadre des travaux du conseil d'orientation des retraites, instance chargée d'élaborer des propositions visant à garantir la pérennité des régimes par répartition. A ce jour, il apparaît prématuré de préjuger des orientations susceptibles d'être dégagées par ce conseil, ainsi que des mesures que le Gouvernement pourrait éventuellement arrêter. A cet égard, il faut souligner que cette question fera partie de celles qui seront abordées selon des modalités à négocier au cas par cas.
