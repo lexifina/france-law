@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011237297
+
+- Question : [SEQ011237297](seq011237297.md) — Desserte aérienne de la Polynésie française
+
+## Réponse
+
+*Équipement, JO du 2002-04-18, page 1120*
+
+La compagnie polynésienne Air Tahiti Nui a effectivement déposé, en 2001, une demande aux fins d'assurer la desserte de Paris par Los Angeles. Comme ne l'ignore pas l'honorable parlementaire, cette opération s'inscrivait dans le dispositif mis en place par le Gouvernement du territoire, motivé par sa volonté de favoriser l'expansion du tourisme. Trois délibérations du territoire du 9 juillet 2001 établissaient le caractère de service public des liaisons internationales desservant la Polynésie française, créaient un établissement public dont l'objet était de soutenir les dessertes aériennes, notamment en compensant le déficit d'Air Tahiti Nui et mettaient en place, à cette fin, une taxe assise sur le nombre de passagers embarquant ou débarquant sur l'aéroport de Tahiti-Faa. De ce fait, le conseil supérieur de l'aviation marchande, consulté le 18 juillet 2001, avait prononcé un sursis à statuer à la demande d'Air Tahiti Nui, dans l'attente de la clarification du cadre juridique et financier dans lequel elle s'inscrivait. La situation a profondément évolué depuis lors. Suite à l'avis du Conseil d'Etat le 28 décembre 2001, le territoire a modifié les délibérations contestées, excluant de leur champ d'application les liaisons aériennes relevant de la compétence de l'Etat. Le 12 mars 2002, le tribunal administratif de Papeete a annulé les délibérations du 9 juillet 2001. Par ailleurs, la compagnie Air Lib a pris le parti d'arrêter la desserte de la Polynésie à la fin du mois de mars 2002. Suivant l'avis émis par le conseil supérieur de l'aviation marchande le 6 mars dernier, le ministre de l'équipement, des transports et du logement a autorisé Air Tahiti Nui à desservir Paris.
