@@ -1,5 +1,0 @@
-# Article 5 : Clause de sauvegarde
-
-Le présent accord ne peut en aucun cas se cumuler avec des obligations ultérieures d'origine législative, réglementaire ou conventionnelle relatives aux questions qu'il aborde et ayant une incidence directe ou indirecte sur son contenu.
-
-Dans cette hypothèse, les partenaires sociaux signataires du présent accord conviennent de se réunir afin de procéder au réexamen de ces dispositions, avant toute mise en cause définitive de l'accord.
