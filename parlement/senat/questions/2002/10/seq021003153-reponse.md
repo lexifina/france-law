@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021003153
+
+- Question : [SEQ021003153](seq021003153.md) — Situation sanitaire de certains détenus
+
+## Réponse
+
+*Justice, JO du 2003-06-05, page 1818*
+
+Le garde des sceaux, ministre de la justice fait connaître à l'honorable parlementaire que l'accès aux soins dentaires est assuré dans chaque établissement pénitentiaire par les chirurgiens-dentistes de l'unité de consultations et soins ambulatoires. Cette unité de soins est une unité fonctionnelle rattachée à l'établissement public de santé signataire du protocole avec l'établissement pénitentiaire. Les soins dentaires sont donc assurés par des spécialistes hospitaliers qui prescrivent les prothèses dentaires nécessaires aux personnes détenues. Le changement d'affectation pénitentiaire n'est pas de nature à remettre en cause un traitement ou des soins, y compris la pose d'un appareillage bucco-dentaire, car les chirurgiens dentistes du nouvel établissement pénitentiaire disposent du dossier médical de la personne détenue afin de pouvoir assurer la continuité des soins. Le détenu auquel il est fait référence dans le journal Le Monde a été suivi régulièrement par l'unité de consultations et soins ambulatoires et bénéficie de soins adaptés à son état de santé et de consultations avec des spécialistes tel que le prothésiste. Aucune réclamation n'a été déposée par l'intéressé dont la détention se passe dans des conditions tout à fait satisfaisantes. Par ailleurs, le médecin inspecteur de santé publique l'a rencontré le 20 août 2002 alors qu'il était incarcéré à la maison d'arrêt d'Evreux et ce dernier lui a indiqué qu'il était satisfait de la prise en charge sanitaire dont il avait bénéficié depuis son arrivée à l'établissement. Ce médecin inspecteur a de nouveau examiné sa situation au centre dedétention de Val-de-Reuil le 11 septembre 2002. Dans ces conditions, toutes assurances peuvent donc être données sur l'état de santé de l'intéressé.
