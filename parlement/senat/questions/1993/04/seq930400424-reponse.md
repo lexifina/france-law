@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930400424
+
+- Question : [SEQ930400424](seq930400424.md) — Direction du Limousin au regard des fonds structurels européens
+
+## Réponse
+
+*Affaires européennes, JO du 1993-09-02, page 1509*
+
+Réponse. - Une même zone ne peut être à la fois éligible à l'objectif 2 réservé aux régions en déclin industriel et à l'objectif 5 b destiné à promouvoir le développement des zones rurales. Or les trois départements du Limousin sont actuellement éligibles à l'objectif 5 b, à l'exception de la zone de Limoges et de celle de Brive-la-Gaillarde. Seule l'éligibilité à l'objectif 2 de ces deux zones ou de l'une d'entre elles pourrait donc être envisagée. S'agissant de l'objectif 1 réservé aux régions en retard de développement, il s'adresse soit aux régions dont le PIB par habitant est inférieur à 75 p. 100 de la moyenne communautaire, soit à des régions spécifiques, telles que, en France, les DOM en raison de leur éloignement, la Corse en raison de son insularité ainsi que les arrondissements de Valenciennes, de Douai et d'Avesnes en raison de leur contiguïté avec une région belge classée en objectif 1. La Creuse ne peut donc être éligible à l'objectif 1 puisqu'elle n'est pas une région, que le PIB par habitant du Limousin dépasse 86 p. 100 de la moyenne communautaire et qu'elle n'est pas dans une situation géographique particulière. En revanche, le traitement des sinistres industriels évoqués par l'honorable parlementaire peut éventuellement relever d'objectifs non zonés tels que l'objectif 3 relatif à l'emploi, ou l'objectif 4 relatif aux mutations industrielles ou à des programmes qui relèvent de l'initiative de la commission tels que le programme Konver destiné aux zones touchées par la fermeture des sites militaires ou le déclin des industries d'armement. A ce titre, la région de Limoges bénéficiera de ce programme dès cette année.
