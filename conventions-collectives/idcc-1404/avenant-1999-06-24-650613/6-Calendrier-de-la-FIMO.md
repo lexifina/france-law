@@ -1,5 +1,5 @@
-# Article 6 : Calendrier de la FIMO
+# Article 6
 
-Les dispositions relatives à la formation initiale obligatoire seront applicables à compter du 1er juillet 2001 à tout salarié visé à l'article 2 ci-dessus, sans préjudice de celles intéressant la formation continue obligatoire de sécurité.
+Les délais de mise en oeuvre de la FIMO générale s'effectueront conformément aux dispositions figurant dans le décret mentionné à l'article 4.
 
-Il peut être dérogé, dans la limite d'un délai de 6 mois à la date prévue à l'alinéa précédent pour des motifs justifiés tels que accident, arrêt maladie ou surcroît d'activité de l'entreprise.
+Par conséquent, les références à la date du 1er juillet 2001 figurant aux articles 2 et 3 modifiés sont remplacées par la date de mise en oeuvre de la FIMO générale prévue à l'article 1er de la loi n° 98-69 du 6 février 1998 qui sera mise en place par décret.
