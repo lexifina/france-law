@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980306925
+
+- Question : [SEQ980306925](seq980306925.md) — Contribution d'Electricité de France (EDF) à des actions humanitaires
+
+## Réponse
+
+*Industrie, JO du 1998-04-30, page 1402*
+
+Réponse. - L'action d'EDF en faveur de l'aide humanitaire dans les pays en développement s'inscrit dans le cadre du programme intitulé " Assistance coopération solidarité ", que l'établissement met en uvre depuis 1993. Elle se situe également dans le cadre de l'accord conclu en janvier 1997 avec l'Etat. La contribution apportée à ce titre par EDF revêt trois aspects principaux : des interventions d'urgence pour le rétablissement de fournitures minimales d'électricité ; des actions de soutien aux sociétés d'électricité ; des opérations d'électrification rurale et péri-urbaine décentralisées. Ces interventions sont menées en étroite liaison avec des organismes tels que l'ADEME (Agence pour l'environnement et la maîtrise de l'énergie), l'Organisation des Nations unies pour l'éducation, la science et la culture (UNESCO), l'Organisation des Nations unies pour le développement industriel (ONUDI), les bailleurs de fonds et les compagnies d'électricité des pays concernés. Pour ce qui est, en particulier, des opérations d'électrification rurale, il y a lieu de noter qu'EDF, en partenariat avec d'autres groupes français (France Télécom, Total,...), a développé un concept " multiservices " comprenant à la fois l'électricité, le téléphone, la télévision et l'éclairage public, qui a été expérimenté en 1995 au Burkina Faso et étendu depuis au Mali, au Bénin et au Tchad, notamment. Ces diverses actions reflètent la volonté de l'établissement public de concrétiser sa vocation d'entreprise citoyenne et de contribuer à l'amélioration de la qualité de la vie et au développement de l'activité économique d'un certain nombre de pays défavorisés.
