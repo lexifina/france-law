@@ -1,7 +1,0 @@
-# Article 23 BIS
-
-Aux salaires définis aux articles 21, 22 et 23 qui précèdent s'ajoute une prime de service destinée à compenser, pour les salariés du secteur privé, les avantages consentis aux agents de la fonction publique, par l'arrêté du 24 mars 1967 instituant pour ces derniers ladite prime.
-
-Cette prime ne sera attachée qu'au salaire rémunérant le service effectif du salarié dans l'établissement employeur, y compris les congés annuels. Elle ne sera pas versée au personnel temporaire ou intérimaire.
-
-Son règlement sera opéré en fin de semestre, ou d'exercice annuel, au choix de l'établissement, ou en fin de contrat. La prime ne sera pas due en cas de démission de l'employé (sauf s'il bénéficie d'une ancienneté d'au moins un an), ou de licenciement pour faute grave. Le montant de la prime de service est fixé à 5 % des salaires cumulés perçus par l'employé pendant la période sur laquelle joue la prime. En fonction de l'attribution aux salariés de la prime susvisée, les primes particulières et les indemnités ou gratifications de fin d'année antérieurement accordées par les employeurs, et qui ne seraient pas rendues obligatoires par la convention collective du 14 octobre 1970, seront purement et simplement annulées, dans la mesure où leur montant éventuellement cumulé est inférieur ou égal à la prime de service visée au présent article. Dans la mesure où ce montant cumulé serait supérieur à la prime de service, les avantages acquis par l'employé seraient maintenus pour le seul excédent.
