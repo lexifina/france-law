@@ -1,15 +1,27 @@
-# Article Annexe II tableau 79
+# Article Annexe II : Tableau n° 79
 
-Date de création : 23 juin 1985.
+LESIONS CHRONIQUES DU MENISQUE
 
-DESIGNATION DES MALADIES :
+DÉSIGNATION DES MALADIES
 
-Lésions méniscales chroniques à caractère dégénératif, confirmées par examens complémentaires ou au cours de l'intervention curative, ainsi que leurs complications:
+|
 
-fissuration ou rupture du ménisque.
+DÉLAI de prise en charge
 
-DELAI DE PRISE EN CHARGE : 2 ans
+|
 
-LISTE LIMITATIVE DES PRINCIPAUX TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
+LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES de provoquer ces maladies
 
-Travaux exécutés habituellement en position agenouillée ou accroupie dans les mines souterraines.
+|
+
+Lésions chroniques du ménisque à caractère dégénératif, confirmées par examens complémentaires ou au cours de l'intervention curative, ainsi que leurs complications : fissuration ou rupture du ménisque.
+
+|
+
+2 ans
+
+|
+
+Travaux comportant des efforts ou des ports de charges exécutés habituellement en position agenouillée ou accroupie.
+
+|

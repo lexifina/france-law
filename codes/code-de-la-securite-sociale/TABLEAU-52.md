@@ -1,35 +1,51 @@
-# Article Annexe II tableau 52
+# Article Annexe II : Tableau n° 52
 
-DESIGNATION DES MALADIES :
+Affections provoquées par le chlorure de vinyle monomère
+
+(DUREE D'EXPOSITION : SIX MOIS).
+
+DÉSIGNATION DES MALADIES
+
+|
+
+DÉLAI de prise en charge
+
+|
+
+LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies
+
+|
 
 Troubles angioneurotiques des doigts et des orteils.
 
-DELAI DE PRISE EN CHARGE : 5 ans
+|
 
-DESIGNATION DES MALADIES :
+5 ans
 
-Ostéolyse des phalanges unguéales des mains confirmée radiologiquement
-
-DELAI DE PRISE EN CHARGE : 3 ans
-
-DESIGNATION DES MALADIES :
-
-Angiosarcome
-
-. DELAI DE PRISE EN CHARGE : 30 ans
-
-: :
-
-DESIGNATION DES MALADIES :
-
-Syndrome d'hypertension portale spécifique :
-
-- soit avec varices oesophagiennes, splénomégalie et thrombocytopénie ;
-
-- soit avec fibrose ou dysplasie des cellules endothéliales
-
-DELAI DE PRISE EN CHARGE : 30 ans
-
-LISTE INDICATIVE DES PRINCIPAUX TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
+|
 
 Travaux exposant à l'action du chlorure de vinyle monomère, notamment les travaux exécutés dans les ateliers de polymérisation.
+
+|
+
+Ostéolyse des phalanges unguéales des mains confirmée radiologiquement.
+
+|
+
+3 ans
+
+|
+
+Angiosarcome.
+
+|
+
+30 ans
+
+|
+
+|
+
+Syndrome d'hypertension portale spécifique : - soit avec varices oesophagiennes, splénomégalie et thrombocytopénie ; - soit avec fibrose ou dysplasie des cellules endothéliales.
+
+|

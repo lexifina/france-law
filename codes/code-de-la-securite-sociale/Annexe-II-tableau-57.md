@@ -1,53 +1,307 @@
-# Article Annexe II tableau 57
+# Article Annexe II : Tableau n° 57
 
-Date de création : 9 novembre 1972.
+Affections périarticulaires provoquées par certains gestes et postures de travail
 
-Dernière mise à jour : 17 septembre 1982.
+DÉSIGNATION DES MALADIES
 
-DESIGNATION DES MALADIES :
+|
 
-A. Hygromas aigu ou chronique des bourses séreuses ou atteinte inflammatoire des tissus sous-cutanés des zones d'appui du genou ;
+DÉLAI de prise en charge
 
-B. Hygromas aigu ou chronique des bourses séreuses ou atteinte inflammatoire des tissus sous-cutanés des zones d'appui du coude ;
+|
 
-C. Syndrome du canal carpien (compression du nerf médian) ;
+LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES de provoquer ces maladies
 
-D. Syndrome de la loge de Guyon (compression du nerf cubital au niveau du poignet) ;
+|
 
-E. Syndrome de la gouttière épitrochléo-olécrânienne (compression d nerf cubital) ;
+- A -
 
-F. Syndrome de compression du nerf sciatique poplité externe au col du péroné ;
+|
 
-G. Epicondylite ;
+|
 
-H. Styloïdite radiale ;
+|
 
-DELAI DE PRISE EN CHARGE : 90 jours
+Epaule
 
-LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
+|
 
-Travaux comportant habituellement une position agenouillée.
+|
 
-Travaux comportant habituellement un appui prolongé sur le coude.
+|
 
-Travaux manuels comportant de façon habituelle, soit :
+Epaule douloureuse simple (tendinopathie de la coiffe des rotateurs).
 
-Un appui carpien ;
+|
 
-La manipulation d'outils ou d'objets nécessitant un appui sur le talon de la main ;
+7 jours
 
-L'hyperextension répétée ou prolongée du poignet.
+|
 
-Travaux entraînant de manière habituelle une pression prolongée ou répétée du talon de la main.
+Travaux comportant habituellement des mouvements répétés ou forcés de l'épaule.
 
-Travaux entraînant de manière habituelle un appui prolongé sur le coude.
+|
+
+Epaule enraidie succédant à une épaule douloureuse simple rebelle.
+
+|
+
+90 jours
+
+|
+
+Travaux comportant habituellement des mouvements répétés ou forcés de l'épaule.
+
+|
+
+- B -
+
+|
+
+|
+
+|
+
+Coude
+
+|
+
+|
+
+|
+
+Epicondylite.
+
+|
+
+7 jours
+
+|
+
+Travaux comportant habituellement des mouvements répétés de préhension ou d'extension de la main sur l'avant-bras ou des mouvements de supination et pronosupination.
+
+|
+
+Epitrochléite.
+
+|
+
+7 jours
+
+|
+
+Travaux comportant habituellement des mouvements répétés d'adduction ou de flexion et pronation de la main et du poignet ou des mouvements de supination et pronosupination.
+
+|
+
+Hygromas :
+
+|
+
+|
+
+|
+
+- hygroma aigu des bourses séreuses ou atteinte inflammatoire des tissus sous-cutanés des zones d'appui du coude ;
+
+|
+
+7 jours
+
+|
+
+Travaux comportant habituellement un appui prolongé sur la face postérieure du coude.
+
+|
+
+- hygroma chronique des bourses séreuses.
+
+|
+
+90 jours
+
+|
+
+Travaux comportant habituellement un appui prolongé sur la face postérieure du coude.
+
+|
+
+Syndrome de la gouttière épitrochléo-olécrânienne (compression du nerf cubital).
+
+|
+
+90 jours
+
+|
+
+Travaux comportant habituellement un appui prolongé sur la face postérieure du coude.
+
+|
+
+- C -
+
+|
+
+|
+
+|
+
+Poignet - Main et doigt
+
+|
+
+|
+
+|
+
+Tendinite.
+
+|
+
+7 jours
+
+|
+
+Travaux comportant de façon habituelle des mouvements répétés ou prolongés des tendons fléchisseurs ou extenseurs de la main et des doigts.
+
+|
+
+Ténosynovite.
+
+|
+
+7 jours
+
+|
+
+Syndrome du canal carpien.
+
+|
+
+30 jours
+
+|
+
+Travaux comportant de façon habituelle, soit des mouvements répétés ou prolongés d'extension du poignet ou de préhension de la main, soit un appui carpien, soit une pression prolongée ou répétée sur le talon de la main.
+
+|
+
+Syndrome de la loge de Guyon.
+
+|
+
+30 jours
+
+|
+
+- D -
+
+|
+
+|
+
+|
+
+Genou
+
+|
+
+|
+
+|
+
+Syndrome de compression du nerf sciatique poplité externe.
+
+|
+
+7 jours
+
+|
 
 Travaux comportant de manière habituelle une position accroupie prolongée.
 
-Travaux comportant de manière habituelle, soit :
+|
 
-Des mouvements répétés de supination maximale ;
+Hygromas :
 
-Le port d'objets lourds entraînant l'extension complète de l'avant-bras en supination.
+|
 
-Travaux comportant de façon habituelle l'utilisation d'outils manuels en hyperextension et supination.
+|
+
+|
+
+- hygroma aigu des bourses séreuses ou atteinte inflammatoire des tissus sous-cutanés des zones d'appui du genou ;
+
+|
+
+7 jours
+
+|
+
+Travaux comportant de manière habituelle un appui prolongé sur le genou.
+
+|
+
+- hygroma chronique des bourses séreuses.
+
+|
+
+90 jours
+
+|
+
+Travaux comportant de manière habituelle un appui prolongé sur le genou.
+
+|
+
+Tendinite sous-quadricipitale ou rotulienne.
+
+|
+
+7 jours
+
+|
+
+Travaux comportant de manière habituelle des mouvements répétés d'extension ou de flexion prolongées du genou.
+
+|
+
+Tendinite de la patte d'oie.
+
+|
+
+7 jours
+
+|
+
+Travaux comportant de manière habituelle des mouvements répétés d'extension ou de flexion prolongées du genou.
+
+|
+
+- E -
+
+|
+
+|
+
+|
+
+Cheville et pied
+
+|
+
+|
+
+|
+
+Tendinite achiléenne.
+
+|
+
+7 jours
+
+|
+
+Travaux comportant de manière habituelle des efforts pratiqués en station prolongée sur la pointe des pieds.
+
+|
