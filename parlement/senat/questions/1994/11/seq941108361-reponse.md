@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941108361
+
+- Question : [SEQ941108361](seq941108361.md) — Subvention des entreprises de négoce agricole
+
+## Réponse
+
+*Agriculture, JO du 1995-01-05, page 25*
+
+Réponse. - Depuis plusieurs années, il avait été décidé que le FEOGA-Orientation ne soutiendrait plus les investissements des entreprises de collecte et de stockage de céréales et d'oléagineux conformément aux orientations de la politique agricole commune visant à limiter les volumes de production dans ces secteurs. Lors des négociations concernant les critères de choix devant présider aux interventions du FEOGA pour la période 1994-1999 et dans le souci de faciliter les restructurations des outils de collecte et de stockage induites par la réduction des volumes de céréales et d'oléoprotéagineux produits dans l'Union européenne, la France a obtenu que le fonds européen puisse soutenir les investissements destinés à l'amélioration de la qualité des produits collectés. C'est ce qui a été arrêté dans le programme sectoriel présenté à la Commission et les aides prévues dans ce cadre seront limitées à 3 millions de francs par an au titre de la prime d'orientation agricole et à 6 millions de francs par an au titre du FEOGA-Orientation. Une cinquantaine de millions de francs d'investissements par an pourront donc être soutenus étant précisé que les aides octroyées devront accompagner des restructurations techniques internes à une entreprise ou des restructurations juridiques par regroupements d'entreprises. Il ne s'agit donc pas d'aider les investissements courants des entreprises du secteur, mais seulement les opérations plus exceptionnelles rendues nécessaires par la réforme de la politique agricole commune et par la mise en application des accords du GATT. C'est la raison pour laquelle un seuil d'éligibilité établi à 1 500 000 francs, qui est d'ailleurs identique à celui des autres secteurs, a été retenu.
