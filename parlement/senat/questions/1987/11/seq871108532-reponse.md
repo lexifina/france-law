@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871108532
+
+- Question : [SEQ871108532](seq871108532.md) — Tarification appliquée par EDF aux bâtiments scolaires
+
+## Réponse
+
+*Industrie, JO du 1988-02-11, page 203*
+
+Réponse. -Le principe de tarification de l'électricité est de faire payer le coût engendré par la fourniture d'électricité correspondant à la demande du client (production, transport et distribution). Ce coût est plus élevé en hiver qu'en été, du fait de la mise en oeuvre, hiver, de moyens de production plus coûteux. Les barèmes sont donc construits à partir du coût des consommations, en fonction de la puissance maximale appelée et de l'énergie consommée par le client, en tenant compte de la période de l'année où il a consommé cette énergie, sauf pour la plupart des options du tarif bleu (basse tension). Il est donc tout à fait normal que le prix moyen de l'électricité utilisée de façon concentrée sur l'hiver dans les bâtiments scolaires soit plus élevé que celui d'une consommation régulière au cours de l'année. Par ailleurs, pour que les simplifications nécessaires à la construction d'un barème praticable ne compromettent pas le principe de reflet des co^uts, Electricité de France offre plusieurs options tarifaires, parmi lesquelles le client est invité à choisir celle qui correspond le mieux à son utilisation de l'électricité. Le nombre d'options doit respecter un compromis entre complexité et pertinence du système tarifaire, compromis qui peut évoluer dans le temps et suivant les catégories de clients. A cet égard, il n'apparaît pas actuellement nécessaire d'envisager un barème spécifique aux bâtiments scolaires. Le tarif qui leur est le mieux adapté est actuellement le tarif jaune en version utilisation moyenne. Le recours au tarif bleu professionnel, pouvant être souscrit pour des puissances inférieures à 36 kVA, conduirait à des factures plus élevées.
