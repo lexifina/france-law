@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930902851
+
+- Question : [SEQ930902851](seq930902851.md) — Avenir de la ligne ferroviaire Pau-Oloron
+
+## Réponse
+
+*Équipement, JO du 1993-12-23, page 2479*
+
+Réponse. - La SNCF est tenue de prendre des dispositions permettant de concilier le maintien d'un service adapté aux besoins de la collectivité avec l'équilibre financier auquel elle est tenue selon son cahier des charges. C'est ainsi qu'elle a procédé à une enquête auprès de la clientèle des différentes communes desservies par la ligne Pau-Oloron, incluse dans la convention qui lie la SNCF et la région Aquitaine, afin de déterminer leurs besoins de déplacement. Il a été constaté que la clientèle était principalement composée de scolaires et de salariés qui effectuent un trajet quotidien domicile-travail et que le début et la fin de semaine enregistraient un trafic relativement important. Afin de prendre en compte les souhaits exprimés par les usagers et de réduire le déficit d'exploitation, la SNCF envisage de procéder à un réaménagement de la desserte de cette ligne. Des propositions ont été faites dans ce sens au président du conseil régional d'Aquitaine au début juin. Celui-ci n'a pas encore donné son aval aux modifications proposées. Le nombre de trains quotidiens resterait inchangé, à savoir six allers et retours entre Pau et Oloron (sept les vendredis) pour une occupation moyenne actuelle de chacun de ces trains de vingt-trois voyageurs. Il est surtout prévu un repositionnement des trains peu fréquentés dans un créneau horaire plus intéressant pour la clientèle. Le train du vendredi soir, trop tardif et que n'empruntent que cinq voyageurs, serait en particulier avancé de deux heures au départ d'Oloron. De plus, il pourrait être envisagé de transférer à Gan l'arrêt actuel de Haut de Gan trop éloigné de la commune. Le maire ne verrait pas d'inconvénient à l'éventuel déplacement de cette gare.
