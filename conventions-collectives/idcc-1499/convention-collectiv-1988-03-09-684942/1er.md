@@ -2,54 +2,30 @@
 
 1. La présente convention règle, sur l'ensemble du territoire métropolitain, les rapports entre les employeurs et les salariés de toutes catégories des activités déterminées ci-après.
 
-Dans le cadre de la législation, la convention a été conclue en application des articles L. 131-1 et suivants, du code du travail. Elle est entrée en vigueur dans les entreprises concernées le 1er juillet 1988. Elle a annulé et remplacé la convention collective précédente du 11 mai 1960, ses annexes et différents avenants et accords de branche antérieurs au 1er juillet 1988.
+La convention est conclue en application des articles L. 131-1 et suivants du code du travail. Elle entrera en vigueur dans les entreprises concernées le 1er juillet 1988. Elle annule et remplace la convention collective précédente du 11 mai 1960, ses annexes et différents avenants et accords antérieurs à ce jour.
 
-2. Elle s'applique aux entreprises et à la totalité de leurs établissements qui, n'élaborant pas la matière première (glaces, verres à vitres, verres coulés, moulages, produits en résine ou en plastique...), exercent séparément ou conjointement les métiers décrits ci-dessous, dont l'ensemble constitue l'activité principale de notre profession : application des techniques verrières et associées relatives à l'utilisation, la mise en oeuvre et la commercialisation du verre plat destiné aux marchés du bâtiment (verres destinés au vitrage, au parement, à l'ameublement, à la décoration ou à l'industrie hormis l'industrie automobile et l'industrie aéronautique) et des produits associés.
+2. Elle s'applique aux entreprises (usines, sièges sociaux, services commerciaux, dépôts de vente et tous établissements dépendant directement des entreprises) exerçant une ou plusieurs des activités principales mentionnées dans la nomenclature des activités et des produits en application du décret n° 73-1036 du 9 novembre 1973, concernant les activités référencées 1601, 1603, 5573, 6425, 5908 et 5810.
 
-Ces fonctions sont mentionnées dans la nomenclature d'activités française (NAF 93), définies par le décret n° 92-1129 du 2 octobre 1992, et leurs numéros de code sont rappelés au regard des métiers de notre profession décrits ci-après :
-
-A. - La fabrication et la transformation de la miroiterie (codes NAF 93 : 26.1 C et 26.1 J) :
+A. - La fabrication et la transformation de la miroiterie :
 
 - découpe, façonnage et argenture ;
 
 - dépolissage et gravure ;
 
-- vitrage trempé, émaillé, feuilleté, multiple, isolant, bombé, etc., et accessoires d'équipement.
+- fabrication de verre trempé, émaillé, feuilleté, multiple, bombé, etc. ;
 
-B. - La pose et l'installation (code NAF 93 : 45.4 H) :
+- fabrication de tous éléments nécessaires à la mise en oeuvre des produits verriers.
 
-- réalisation des travaux de mise en oeuvre du verre plat, de ses substituts en résine ou en plastique, destinés à la gestion des apports solaires, à la fermeture, à la protection contre les agressions et les incendies, l'isolation au froid et au bruit.
+B. - La pose et l'installation :
 
-CLAUSE D'ATTRIBUTION
+- pose de produits verriers et de tous éléments nécessaires à leur mise en oeuvre, ceci lorsque la pose représente moins de 20 p. 100 de l'activité de l'entreprise.
 
-a) La présente convention s'applique lorsque le personnel concourant à la pose, y compris le personnel de bureau d'études, les techniciens, le personnel d'encadrement... (le personnel administratif et celui dont l'activité est mal délimitée restant en dehors du calcul), représente moins de 20 % de l'activité de l'entreprise caractérisée par les effectifs respectifs.
+La présente convention n'est pas applicable aux entreprises ressortissant à cette rubrique et ayant une activité de fabrication, de façonnage et de négoce, associée à la pose, lorsque leur activité " pose " représente plus de 80 p. 100 de leur activité totale.
 
-b) Lorsque le personnel concourant à la pose, au sens ci-dessus, représente plus de 80 %, la présente convention n'est pas applicable.
+Toutefois, les entreprises visées aux deux alinéas ci-dessus pourront continuer à appliquer la convention qu'elles appliquaient au jour de l'extension de la présente convention collective.
 
-c) Lorsque le personnel concourant à la pose, au sens ci-dessus, se situe entre 20 et 80 %, les entreprises peuvent opter, par voie d'accord négocié avec leurs délégués syndicaux ou avec les représentants des organisations syndicales ou, à défaut de délégués syndicaux ou de représentants des organisations syndicales, par voie d'accord avec leurs représentants du personnel, entre l'application de la présente convention ou de celle correspondant à leurs autres activités.
+Les entreprises dont l'activité " pose " se situe entre 20 et 80 p. 100 de l'activité totale auront, après consultation des représentants du personnel ou, à défaut, des salariés, l'option entre l'application de la présente convention et celle de la convention correspondant à leur activité " pose ".
 
-Cette option sera portée à la connaissance du personnel dans un délai de 3 mois à compter :
-
-- soit de la publication de l'arrêté portant extension de la présente convention collective nationale ;
-
-- soit de la date de leur création, pour les entreprises créées postérieurement.
-
-Toutefois les entreprises qui, aux termes de la clause d'attribution, ne bénéficient pas de la possibilité d'opter pour cette convention pourront continuer à appliquer la convention qu'elles appliquaient au jour de l'extension du présent accord.
-
-C. - Le négoce (codes NAF 93 : 51.5 F et 52.4 J) :
+C. - Le négoce :
 
 - négoce de produits verriers et des éléments nécessaires à leur mise en oeuvre, leur fabrication ou leur transformation.
-
-Rappel pour mémoire de la nomenclature NAF 93 concernée :
-
-26.1 C : Façonnage et transformation du verre plat.
-
-26.1 J : Fabrication et façonnage d'articles techniques en verre.
-
-45.4 H : Miroiterie de bâtiment, vitrerie.
-
-51.5 F : Commerce de gros de matériaux de construction et appareils sanitaires.
-
-52.4 J : Commerce de détail de l'équipement du foyer.
-
-N.B. - Le présent avenant entrera en vigueur le 1er du mois suivant l'arrêté d'extension le concernant. Il annulera et remplacera l'avenant n° 3 ter du 10 décembre 1996 devenu sans objet.
