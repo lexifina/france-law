@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950310379
+
+- Question : [SEQ950310379](seq950310379.md) — Situation des veuves et retraités de la police
+
+## Réponse
+
+*Intérieur, JO du 1995-05-04, page 1057*
+
+Réponse. - Le problème évoqué par l'honorable parlementaire ne peut être dissocié de l'ensemble des dispositions applicables aux retraités de la fonction publique. En application des dispositions de l'article L. 17 du code des pensions civiles et militaires, le montant de la pension rémunérant les services d'un fonctionnaire retraité ne peut être inférieur au traitement brut afférent à l'indice 202 majoré lorsque l'agent a effectué vingt-cinq ans au moins de services effectifs. Le taux de la pension de réversion appliqué aux veuves est de 50 p. 100 du montant de la pension dont le conjoint bénéficiait ou aurait pu bénéficier (art. L. 38). Si ce minimum ne peut être garanti, un complément est versé en application des dispositions de l'article D. 19 qui stipulent que le montant de la pension de réversion ne peut être inférieur au montant cumulé de l'allocation servie aux vieux travailleurs salariés et de l'allocation supplémentaire du Fonds national de solidarité. S'agissant de l'extension, aux veuves de policiers tués en service avant 1981, du bénéfice de la pension de réversion au taux de 100 p. 100, elle ne peut être envisagée compte tenu du principe selon lequel la loi ne dispose que pour l'avenir. Concernant les dispositions de l'article 2 de la loi du 26 décembre 1964, qui exclut les retraités dits " proportionnels " de la police des avantages de la majoration pour enfants, une étude réalisée il y a une dizaine d'années avait fait ressortir à l'époque le coût élevé de l'attribution de cette mesure. Une modification de ces dispositions dans le présent contexte de contraintes budgétaires n'est pas envisagée pour l'instant.
