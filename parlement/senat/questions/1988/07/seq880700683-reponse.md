@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880700683
+
+- Question : [SEQ880700683](seq880700683.md) — Commerce du vin de consommation courante entre le Portugal et la CEE
+
+## Réponse
+
+*Affaires européennes, JO du 1990-03-15, page 564*
+
+Réponse. - 1° Exportation de France à destination de l'Espagne et du Portugal : les exportations de vins de table à destination du Portugal sont quasiment inexistantes ; celles à destination de l'Espagne sont très faibles : 234 hectolitres en 1986, 779 hectolitres en 1987, 1 499 hectolitres en 1988, 579 hectolitres sur les dix premiers mois de 1989. Ces quantités comme les valeurs qui en résultent (de 250 000 francs à 1 800 000 francs) sont négligeables face aux 5 millions d'hectolitres de vins de table exportés chaque année par la France pour une valeur de 2,67 milliards de francs. 2° Importations en France à partir d'Espagne et du Portugal : importations d'Espagne : campagne 1987-1988 : 6 800 hectolitres (soit 566 hectolitres par mois) ; campagne 1988-1989 : 7 200 hectolitres (soit 600 hectolitres par mois) ; septembre et octobre 1989 : 500 hectolitres (soit 250 hectolitres par mois). Ces expéditions d'Espagne représentent entre 0,1 et 0,2 p. 100 des volumesde vins de table importés par la France pour un coût variant de 2,5 à 3,5 millions de francs soit, 0,3 p. 100 du coût total des importations de vins de tables. Importations du Portugal : campagne 1987-1988 : 19 000 hectolitres (soit 1 580 hectolitres par mois) ; campagne 1988-1989 : 15 100 hectolitres (soit 1 260 hectolitres par mois) ; septembre et octobre 1989 : 2 200 hectolitres (soit 1 100 hectolitres par mois). Les importations à partir du Portugal légèrement supérieures à celles en provenance d'Espagne, restent cependant très limitées : moins de 0,5 p. 100 des volumes de vins de table importés et moins de 1 p. 100 en valeur (de l'ordre de 8,5 à 9,7 millions de francs).
