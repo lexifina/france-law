@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970902625
+
+- Question : [SEQ970902625](seq970902625.md) — Coopération européenne en matière de défense du territoire
+
+## Réponse
+
+*Défense, JO du 1997-10-23, page 2884*
+
+Réponse. - La lutte contre la criminalité a imposé à l'Europe une coopération accrue de toutes ses forces de police. Cette coopération, qui s'est manifestée au travers des groupes de réflexion portant sur certains phénomènes criminogènes, s'est concrétisée dans le cadre de l'accord de Schengen, puis du titre III du traité de l'Union européenne. Compétente sur près de 90 % du territoire et notamment au niveau des zones frontalières, la gendarmerie nationale s'est fixé, dans son " plan d'action Gendarmerie 2000 ", entre autres objectifs, de " faire progresser la coopération entre les partenaires de la sécurité intérieure ", et de " fournir des réponses opérationnelles adaptées aux besoins de la coopération européenne et internationale ". A cet effet, elle participe aux diverses instances de l'Union européenne et de la convention d'application de l'accord de Schengen, aux côtés des autres acteurs de la sécurité intérieure que sont la police et les douanes. En outre, sous l'égide du comité de coordination de la politique européenne de sécurité intérieure, elle est associée aux négociations relatives aux accords de coopération transfrontalière. Enfin, la gendarmerie s'efforce de promouvoir la coopération entre les gendarmeries européennes, dans le cadre d'une convention quadripartite la liant à ses homologues italien, espagnol et portugais. Elle exprime, de ce fait, l'identité des forces de police à statut militaire au sein des instances de coopération policière européenne. Ainsi, au travers de la gendarmerie, la présence de l'Etat dans les zones rurales et frontalières est maintenue, tout en préservant le dualisme qui caractérise le système policier français.
