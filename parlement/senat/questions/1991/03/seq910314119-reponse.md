@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910314119
+
+- Question : [SEQ910314119](seq910314119.md) — Mise en place des nouvelles dessertes aériennes ouvertes à la concurrence
+
+## Réponse
+
+*Équipement, JO du 1991-08-01, page 1625*
+
+Réponse. - La mise en place de nouvelles dessertes aériennes en multidésignation a été autorisée principalement à partir de l'aéroport de Roissy - Charles-de-Gaulle, en raison des perspectives futures de l'aéroport comme de la situation actuelle d'Orly. L'aéroport d'Orly, situé dans une zone de forte densité de population, est soumis à un strict couvre-feu qu'il est exclu de lever et ne saurait accepter beaucoup plus de trafic qu'aujourd'hui du fait de la saturation de ses installations et des contraintes qui en résulteraient sur son environnement. Il ne pourrait donc accueillir le trafic nouveau généré non seulement par de nouvelles dessertes des transporteurs français, mais aussi par leurs concurrents étrangers qui, inévitablement, exigeraient le droit réciproque de desservir aussi cet aéroport. L'aéroport de Roissy a, au contraire, vocation à constituer la plaque tournante du transport aérien français et européen. C'est dans cet esprit que des investissements considérables ont été réalisés et vont l'être dans les années à venir pour en faire le meilleur aéroport d'Europe, ouvert jour et nuit, doté de cinq pistes et d'une capacité d'accueil de 80 millions de passagers (au lieu de 20 aujourd'hui), interconnecté au réseau des trains à grande vitesse et à celui des autoroutes européennes. Il était donc légitime que ce soit sur cet aéroport d'avenir que soient affectés en priorité les nouveaux services ouverts à la concurrence plutôt que sur une plate-forme qui n'offre que peu de possibilités de nouveaux développements et dont ces nouveaux entrants auraient de toute façon dû déménager à court terme pour assurer leur expansion, multipliant ainsi leurs coûts dans une période d'intense concurrence.
