@@ -1,0 +1,9 @@
+# Réponse à la question SEQ041215088
+
+- Question : [SEQ041215088](seq041215088.md) — Fusion de deux communautés de communes
+
+## Réponse
+
+*Intérieur, JO du 2005-02-24, page 553*
+
+L'article 153 de la loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales, codifié à l'article L. 5211-41-3 du code général des collectivités territoriales, a institué une procédure de fusion permettant le regroupement de plusieurs établissements publics de coopération intercommunale (EPCI), dont au moins un à fiscalité propre, en un seul sans dissolution préalable de ces derniers. L'initiative de la fusion émane indifféremment du conseil municipal d'une commune membre, de l'organe délibérant d'un des EPCI ou du préfet après consultation de la commission départementale de la coopération intercommunale (CDCI). Un projet de périmètre arrêté par le préfet est ensuite soumis à l'ensemble des communes et des EPCI qui y sont inclus. Pour que la fusion puisse être prononcée par le préfet, ce projet doit être approuvé par les organes délibérants des EPCI dont la fusion est envisagée ainsi que par les conseils municipaux de l'ensemble des communes concernées dans les conditions de majorité requises pour la création des EPCI. L'EPCI issu de la fusion relève de droit de la catégorie juridique de celui des EPCI inclus dans le projet de périmètre auquel la loi a confié le plus grand nombre de compétences. Au plan juridique, le nouvel EPCI est substitué, pour l'exercice de ses compétences, à l'ensemble des EPCI et des communes qui en étaient titulaires avant la fusion dans toutes leurs délibérations et tous leurs actes. Leurs biens, droits et obligations lui sont transférés. Les contrats sont pour leur part exécutés dans les mêmes conditions jusqu'à leur échéance sans que la substitution ne donne droit à résiliation ou à indemnisation pour le cocontractant.
