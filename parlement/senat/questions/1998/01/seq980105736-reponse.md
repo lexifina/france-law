@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980105736
+
+- Question : [SEQ980105736](seq980105736.md) — Financement des frais d'expertise
+
+## Réponse
+
+*Justice, JO du 1998-03-26, page 994*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire qu'il partage pleinement ses préoccupations au sujet du coût des expertises et son souci d'éviter qu'un alourdissement des frais occasionnés par les mesures d'instruction n'entrave l'accès à la justice. En l'état actuel des textes, diverses dispositions sont de nature à garantir les droits des justiciables, à toutes les étapes de la procédure. La partie qui doit consigner la provision à valoir sur les frais d'expertise peut demander au juge d'assortir sa décision d'un échéancier. En outre, conformément à l'article 284 du nouveau code de procédure civile, c'est le juge qui fixe la rémunération définitive de l'expert et sa décision est susceptible de recours devant le premier président de la cour d'appel. Enfin, la charge définitive des frais, lesquels font partie des dépens, incombe en principe à la partie qui succombe dans ses prétentions. Par ailleurs, en ce qui concerne les justiciables les plus impécunieux, éligibles à l'aide juridictionnelle, la loi du 10 juillet 1991 et son décret d'application no 91-1266 du 19 décembre 1991 disposent que les frais occasionnés par les mesures d'instruction sont avancés par l'Etat (art. 10 de la loi, art. 119 et suivants du décret). En outre, en cas de condamnation du bénéficiaire de l'aide juridictionnelle aux dépens, les seules sommes qui sont recouvrées contre lui sont celles effectivement exposées par son adversaire, et non celles avancées par l'Etat. Dans ces conditions, il n'est pas envisagé de mettre en place un fonds pour financer ces frais. Toutefois, dans le cadre de la réforme de la procédure civile, le Gouvernement poursuit une réflexion afin de parvenir à une meilleure maîtrise du coût des mesures d'expertise.
