@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870807488
+
+- Question : [SEQ870807488](seq870807488.md) — Garderies et cantines : recrutement du personnel
+
+## Réponse
+
+*Collectivités locales, JO du 1987-11-26, page 1872*
+
+Réponse. -L'article 16 modifié du décret du 28 février 1976 prévoit qu'en dehors des heures d'activité scolaire la garde des enfants peut être assurée dans les locaux de l'école avec l'avis du conseil d'école. Elle est organisée et financée par la commune ou par une association régulièrement constituée conformément à la loi du 1er juillet 1901 en accord avec l'inspecteur d'académie, directeur des services départementaux de l'éducation, et la commune. Il résulte de ces dispositions que l'inspecteur d'académie ne doit donner son accord que lorsque cette garde est assurée par une association. Dans ce cas précis, l'accord de la commune est aussi nécessaire. Par contre, lorsque la garde des enfants prévue à l'article précité est organisée et financée par la commune, l'organisation de ce service ne relève que de la seule responsabilité des élus locaux. En conséquence, le recrutement effectué par les collectivités locales de fonctionnaires communaux chargés de la garde d'enfants en dehors des heures d'activité scolaire dans les locaux de l'école relève de la seule compétence des collectivités locales ; ce recrutement n'a pas à être soumis à l'agrément de l'inspecteur d'académie, directeur des services départementaux de l'éducation. Enfin, en ce qui concerne le cas particulier des agents spécialisés des écoles maternelles et des classes enfantines, il importe de souligner que le décret n° 81-546 du 12 mai 1981 modifiant les articles R* 412-127 et R* 414-29 du code des communes ne prévoit l'intervention du directeur d'école dans la nomination de ces agents que sous la forme d'un avis.
