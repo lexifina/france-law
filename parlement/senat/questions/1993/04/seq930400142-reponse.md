@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930400142
+
+- Question : [SEQ930400142](seq930400142.md) — DOM et Paquet Delors II
+
+## Réponse
+
+*Départements et territoires d'Outre-mer (DOM-TOM), JO du 1993-06-17, page 979*
+
+L'honorable parlementaire a bien voulu appeler l'attention du ministre des départements et territoires d'outre-mer sur la place qui doit être réservée aux départements d'outre-mer dans la négociation portant sur la répartition entre Etats membres et entre régions de l'objectif 1 de l'enveloppe financière globale telle que définie au sommet d'Edimbourg. Le Gouvernement a défendu et continue de défendre devant les instances communautaires le principe selon lequel les départements d'outre-mer doivent bénéficier du même taux de progression des crédits communautaires que celui des autres régions ultrapériphériques de la Communauté, y compris les ressources que ces dernières pourraient tirer du fonds de cohésion, en vertu du principe communautaire de parallélisme entre ces régions, initié à travers les programmes Poseidom, Poseima et Poseican. Le conseil européen à Edimbourg a en effet posé le principe que " les dépenses pour les actions structurelles devraient se faire essentiellement au bénéfice des Etats membres les moins prospères, des régions ultrapériphériques et des zones rurales de la Communauté, conformément à l'article 130 A du traité de Maastricht ". Dans la mesure où les autres régions ultrapériphériques appartiennent aux pays du fonds de cohésion, y compris les Canaries, dont le PIB régional avoisine 75 p. 100 du PIB moyen communautaire, elles bénéficieront du doublement de leur dotation. Le Gouvernement français demande donc, en application du principe de parallélisme, non seulement le doublement des fonds pour les DOM, mais, plus généralement, l'application d'un traitement identique pour toutes les régions ultrapériphériques de la Communauté.
