@@ -8,7 +8,7 @@ CATEGORIES D’EMPLOIS ouvrant droit à l’indemnité
 
 |
 
-TAUX DE L’INDEMNITÉ POUR FRAIS DE REPRÉSENTATION -
+TAUX ANNUEL DE L’INDEMNITÉ POUR FRAIS DE REPRÉSENTATION -
 
 Par an.
 
@@ -34,7 +34,7 @@ Piastres
 
 |
 
-240.120
+5281.20
 
 |
 
@@ -54,7 +54,7 @@ Piastres
 
 |
 
-190.080
+4084
 
 |
 
@@ -74,7 +74,7 @@ Piastres
 
 |
 
-144.000
+3120
 
 |
 
@@ -94,7 +94,7 @@ Piastres
 
 |
 
-100.080
+2160
 
 |
 
@@ -114,7 +114,7 @@ Piastres
 
 |
 
-50.040
+1080
 
 |
 
