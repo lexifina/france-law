@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700789
+
+- Question : [SEQ020700789](seq020700789.md) — Français de l'étranger : adoption
+
+## Réponse
+
+*Justice, JO du 2002-11-21, page 2806*
+
+M. le garde des sceaux, ministre de la justice, a l'honneur de faire connaître à l'honorable parlementaire que la pratique de la Mission de l'adoption internationale (MAI) ne paraît pas contradictoire avec les réponses apportées à sa question écrite n° 37808. En effet, celle-ci portait sur le tribunal compétent et la loi applicable en matière d'adoption internationale, alors que la MAI, autorité centrale au titre de la convention de La Haye du 29 mai 1993 sur la protection des enfants et la coopération en matière d'adoption internationale, intervient dans la phase administrative préalable à la demande judiciaire d'adoption. Cette convention, entrée en vigueur en France le 1er octobre 1998, organise la coopération entre les Etats contractants par l'intermédiaire d'autorités centrales nationales. Il résulte de ses articles 2 et 14 que les personnes désirant adopter un enfant doivent s'adresser à l'autorité centrale de l'Etat de leur résidence habituelle, Etat d'accueil au sens de la convention, chargée d'instruire la demande avant sa transmission à l'autorité centrale de l'Etat d'origine. L'Etat de la résidence de l'adoptant a été préféré à celui de sa nationalité car il est considéré comme le mieux placé pour établir le rapport sur l'aptitude à adopter du requérant. Le respect des règles de la convention apporte des garanties qui facilitent le prononcé de l'adoption dans l'Etat de résidence de l'adoptant et permet la reconnaissance de plein droit de la décision dans les autres Etats contractants, notamment l'Etat dont l'adoptant est ressortissant. C'est pourquoi la Mission de l'adoption internationale recommande aux Français résidant à l'étranger de faire leur demande d'adoption dans cet Etat.
