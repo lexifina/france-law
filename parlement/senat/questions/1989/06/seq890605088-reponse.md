@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890605088
+
+- Question : [SEQ890605088](seq890605088.md) — Rôle du comité pour l'image de la France à l'étranger
+
+## Réponse
+
+*Commerce extérieur, JO du 1989-07-06, page 1032*
+
+Réponse. - L'honorable parlementaire a questionné le ministre du commerce extérieur sur l'institution d'un comité pour l'image de la France à l'étranger. L'analyse de la promotion et la défense de l'image de la France à l'étranger ne font pas l'objet d'une politique unique et cohérente. Cette tâche est en effet confiée à une grande diversité d'organismes administratifs ou para-administratifs qui se concertent insuffisamment. Or, comme dans le cas d'une entreprise qui a une marque mondiale unique, il est nécessaire d'avoir une politique globale pour sa promotion. C'est pourquoi il a été créé, sous l'égide du ministre du commerce extérieur un comité de l'image France, associant partenaires publics et privés autour de la gestion du bien collectif que représente pour tous les Français l'image de leur pays, de ses producteurs, de ses compétences scientifiques et techniques, de ses savoir-faire et de la qualité de ses produits. Ce comité associe l'ensemble des partenaires privés et publics concernés par la promotion de l'image de la France. Son rôle est : 1° de collecter les études existantes sur l'image de la France et de ses produits, d'assurer leur synthèse et de les compléter dans les domaines où existent des lacunes ; 2° de sensibiliser les acteurs économiques à cette dimension de notre compétitivité ; 3° de coordonner les actions entreprises afin d'assurer leur cohérence et de susciter des initiatives communes. Organisme de réflexion, de sensibilisation et de coordination, le comité doit impérativement comporter la participation de l'ensemble des organismes, collectivités locales ou départements ministériels susceptibles de relayer son action même si cette large association peut faire craindre des modalités de fonctionnement alourdies.
