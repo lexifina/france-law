@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970700385
+
+- Question : [SEQ970700385](seq970700385.md) — Refus de la commission européenne du plan de baisse des charges sociales du secteur textile
+
+## Réponse
+
+*Affaires européennes, JO du 1997-09-04, page 2269*
+
+Réponse. - La commission européenne a fait état, le 5 mai dernier, de sa décision finale d'engager la procédure prévue par l'article 93, paragraphe 2 du traité instituant la Communauté européenne à l'encontre des mesures expérimentales de baisse des charges sociales en faveur des secteurs du textile, de l'habillement et du cuir-chaussure que les autorités françaises lui avaient notifiées le 27 mars 1996. Comme le souligne l'honorable parlementaire, il doit être précisé que les réserves de la commission ne portent pas sur les objectifs poursuivis par la France en matière de création d'emplois mais sur les modalités de mise en oeuvre de ce dispositif et les incidences qu'elles peuvent avoir en termes de concurrence. Il faut également relever que la commission n'a pas critiqué le plan textile dans son ensemble. Un soutien aux entreprises est de facto autorisé, dans le respect des règles générales présidant à l'octroi des aides d'Etat, pour les petites et moyennes entreprises de moins de cinquante personnes. A la suite de cette décision, les autorités françaises ont souhaité s'entretenir à nouveau avec la commission sur ce sujet. C'est ainsi que le secrétaire d'Etat à l'industrie, M. Christian Pierret, a rencontré le 4 juillet dernier le commissaire européen en charge des questions de concurrence, M. Karel Van Miert. Il est prévu que ces contacts se poursuivent et soient approfondis en septembre prochain. Parallèlement, les autorités françaises ont décidé d'entreprendre une action sur le plan juridique en déposant un recours devant la Cour de justice des Communautés européennes pour obtenir l'annulation de la décision de la commission.
