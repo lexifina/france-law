@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981111819
+
+- Question : [SEQ981111819](seq981111819.md) — Taxe générale sur les activités polluantes
+
+## Réponse
+
+*Aménagement du territoire, JO du 1999-02-25, page 602*
+
+Réponse. - La loi de finances pour 1999 a créé la TGAP qui va permettre d'appliquer beaucoup mieux le principe " pollueur-payeur ". Elle sera perçue comme un " signal-prix " qui incitera à des comportements plus vertueux et dissuadera les pratiques polluantes. La TGAP n'est pas un impôt supplémentaire. Sa création réoriente la politique fiscale française en matière de déchets afin d'encourager le tri sélectif et de réduire les avantages de prix de la mise en décharge. Corrélativement, la TVA sur la collecte, le tri sélectif et la valorisation des ordures ménagères passe de 20,6 % au taux réduit de 5,5 %. L'instauration de la TGAP et la baisse du taux de TVA sont deux mesures complémentaires d'un point de vue fiscal. Elles se font à prélèvement constant, mais permettent de mettre en cohérence la politique fiscale générale avec les priorités de la loi de 1992 que le Gouvernement a souhaité redynamiser. Dans ces conditions, il ne paraît pas opportun d'exonérer les centres de stockage des déchets, même " ultimes ". D'autant que la définition du déchet ultime donnée par la loi du 13 juillet 1992 laisse aux collectivités une place à l'interprétation. Une telle proposition d'exonération risquerait de conduire à ne plus appliquer la TGAP aux centres de stockage après le 1er juillet 2002, quelle que soit la nature des déchets admis, ou à gérer un nombre important de litiges. La solution choisie par le ministère de l'aménagement du territoire et de l'environnement va dans le sens des orientations de la politique de gestion des déchets précisées dans la circulaire du 28 avril 1998, en favorisant le développement de la réduction de la production de déchets et la valorisation.
