@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890404403
+
+- Question : [SEQ890404403](seq890404403.md) — Politique à l'égard des retraités des PTT
+
+## Réponse
+
+*Postes, JO du 1989-10-05, page 1649*
+
+Réponse. - Il a été décidé de concrétiser le lien qui unit les retraités des P.T.T. au service public pour lequel ils se sont dévoués tout au long de leur carrière. Aussi, les anciens fonctionnaires des postes et télécommunications, titulaires d'une pension civile de l'Etat en paiement, bénéficieront, à partir du 1er octobre prochain, de la gratuité de l'abonnement téléphonique et des redevances de location-entretien du poste de base. D'autre part, la prime de fidélité versée aux agents des postes et des télécommunications qui domicilient leur traitement sur compte-chèques postal est une prime destinée à mieux faire connaître, notamment aux jeunes agents, les services financiers de la poste en les incitant à participer à leur développement. A l'instar des règles relatives à la plupart des primes du ministère des postes, des télécommunications et de l'espace, elle est réservée au personnel en activité et elle ne peut être versées aux agents pensionnés. Toutefois le compte Postépargne est particulièrement bien adapté pour répondre aux besoins exprimés par les retraités. Ils peuvent y faire domicilier leur pension et il procure un taux de rémunération de 4,5 p. 100 par an avec une gestion de compte particulièrement souple. L'obtention de la carte Postépargne est gratuite et le compte est exonéré d'impôts s'ils ouvrent un compte d'épargne sur livret A. Au surplus, il leur est possible d'opérer par correspondance des virements de leur compte-chèques postal sur leur compte d'épargne et inversement. Enfin, il est à signaler que certains avantages non liés au service, tels la gratuité de la carte bleue et les prêts personnels, sont accordés aux agents retraités comme aux actifs.
