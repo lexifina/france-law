@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890303817
+
+- Question : [SEQ890303817](seq890303817.md) — Interventions du FRILE en zones de montagne
+
+## Réponse
+
+*Aménagement du territoire, JO du 1989-04-20, page 624*
+
+Réponse. - Le Gouvernement a décidé la mise en place d'un Fonds régionalisé d'aide aux initiatives locales pour l'emploi (Frile). Ce fonds, inscrit au budget de l'aménagement du territoire, doit permettre d'engager à un niveau déconcentré, en l'occurrence régional, des actions ayant une incidence directe sur l'emploi, complémentaires de celles qui sont déjà menées directement par les différents ministères concernés. Ce fonds a vocation à favoriser le développement de projets porteurs d'emplois dans tous les secteurs de l'activité économique, ainsi que des initiatives locales qui concourent à la réalisation de ces projets, notamment lorsqu'elles sont portées par des collectivités locales, des structures intercommunales ou avec le concours de partenaires du secteur privé. La répartition des moyens du fonds doit être indépendante des outils spécifiques mis en place au bénéfice de certaines fractions du territoire régional (notamment les zones de montagne). Si l'utilisation du fonds ne doit donc pas être limitée géographiquement, il importe en revanche de préciser que les représentants de l'Etat, chargés d'en assurer la gestion, seront particulièrement attentifs à soutenir des projets concernant les zones du territoire régional connaissant les plus grandes difficultés de développement. En particulier, il est prévu, dans plusieurs contrats de plan Etat-région, d'accorder une priorité de financement au moyen du Frile, et des crédits des régions, mobilisés en contrepartie, aux opérations situées dans les zones faisant l'objet d'un programme d'aménagement concerté du territoire, qui correspondent aux espaces les plus fragiles au sein des régions.
