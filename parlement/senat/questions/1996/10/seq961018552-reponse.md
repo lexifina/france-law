@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961018552
+
+- Question : [SEQ961018552](seq961018552.md) — Salaire des femmes dans le secteur agricole
+
+## Réponse
+
+*Agriculture, JO du 1996-12-26, page 3494*
+
+Réponse. - Lors de la réunion de l'Organisation internationale du travail (OIT) qui s'est tenue du 23 au 27 septembre 1996, ayant pour objet l'amélioration des conditions d'emploi et de travail des ouvriers agricoles dans le contexte de la restructuration économique, la recommandation qui a été formulée sur l'égalité des rémunérations entre les femmes et les hommes, pour un travail égal, correspond à des dispositions déjà en vigueur en France. En effet, dans notre pays, le secteur agricole est soumis aux mêmes règles relatives à l'égalité professionnelle entre les femmes et les hommes que celles qui sont applicables aux autres secteurs d'activité. Il se voit ainsi appliquer les dispositions du code du travail qui concernent l'égalité de rémunération : articles L. 140-2 et suivants, la définition du " travail de valeur égale ", le paiement du salaire minimum interprofessionnel de croissance (SMIC), ainsi que les règles préconisées par les directives européennes et les textes de l'OIT. En outre, les conventions collectives agricoles respectent particulièrement cette égalité, suivant à cet égard les dispositions de la loi. Sur le plan européen, la directive du 9 février 1976 a prévu, pour les Etats membres de la communauté européenne, la mise en oeuvre du principe de l'égalité de traitement entre les femmes et les hommes. Il convient également de rappeler l'article 119 du traité de Rome sur l'égalité des rémunérations. Par ailleurs, la convention de l'OIT no 100 relative à l'égalité de rémunération entre la main-d'oeuvre masculine et féminine pour un travail de valeur égale a été ratifiée par la France comme par les autres pays de l'Union européenne et, à l'échelle mondiale, par plus d'une centaine de pays.
