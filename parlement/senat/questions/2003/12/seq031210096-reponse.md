@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031210096
+
+- Question : [SEQ031210096](seq031210096.md) — Fiscalité applicable au diester utilisé par les entreprises de transport urbain de voyageurs
+
+## Réponse
+
+*Économie, JO du 2004-02-12, page 366*
+
+Depuis 1992, année de l'adoption par le Parlement d'un régime fiscal privilégié applicable aux biocarburants, la France mène une politique d'encouragement à leur développement. Celle-ci s'articule autour de la défiscalisation de deux types de produits, l'ethyl tertio butyl éther (ETBE) qui est un dérivé de l'éthanol incorporé aux supercarburants et l'ester méthylique d'huile végétale (EMHV) qui est incorporé au gazole. C'est ainsi qu'elle est devenue depuis plusieurs années l'un des principaux producteurs européens de biocarburants avec une production de 520 000 tonnes. Conformément aux objectifs fixés par la directive 2003/30/CE, qui vise à promouvoir l'usage des biocarburants, le Gouvernement entend poursuivre et développer cette politique. La loi de finances rectificative pour 2003 prévoit notamment d'exonérer partiellement les incorporations directes d'éthanol dans les supercarburants, ce qui n'était pas autorisé jusqu'à présent. Le Gouvernement a également autorisé l'incorporation de 70 000 tonnes supplémentaires d'esters méthyliques d'huiles végétales (EMHV) dans les carburants en 2004. Concernant l'incitation à l'utilisation des biocarburants par les sociétés de transport urbain de voyageurs, c'est une préoccupation déjà ancienne du Gouvernement. C'est ainsi que des incorporations d'esters méthyliques d'huiles végétales dans le gazole à des taux supérieurs à 5 % peuvent être autorisées à titre expérimental et limitées dans le temps, en application de l'article 11 du décret n° 62-1297 du 7 novembre 1962. Ce type de mélange dérogatoire est ensuite essentiellement vendu à des sociétés de transport urbain de voyageurs qui sont spécifiquement autorisées à l'utiliser par l'administration.
