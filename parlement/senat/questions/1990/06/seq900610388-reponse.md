@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900610388
+
+- Question : [SEQ900610388](seq900610388.md) — Réforme de l'ANPE
+
+## Réponse
+
+*Travail, JO du 1990-10-18, page 2273*
+
+Réponse. - Sur la base des conclusions du rapport de M. Philippe Lacarrière, inspecteur général des finances et de Mme Marie-Thérèse Join-Lambert, inspecteur général des affaires sociales, le conseil des ministres a arrêté le 15 novembre 1989 deux orientations principales concernant l'A.N.P.E. : engager la refonte du statut du personnel ; conclure un contrat de progrès entre l'Etat et l'A.N.P.E. Le nouveau statut du personnel est entré en vigueur le 1er juillet 1990. Prenant en compte les préoccupations exprimées lors des négociations avec les organisations syndicales, il permettra de moderniser les conditions de gestion du personnel, d'offrir de meilleures perspectives de carrière à l'ensemble des agents et d'adapter la structure des emplois à la réalité des fonctions exercées. Il représente un effort budgétaire de l'Etat de 300 millions de francs, soit plus de 10 p. 100 de la masse salariale de cet établissement. Le contrat de progrès entre l'Etat et l'A.N.P.E. aété conclu le 18 juillet 1990, pour la période 1990-1993. Il matérialise la nouvelle donne des relations entre l'Etat et l'agence. Aux termes de ce contrat, l'A.N.P.E. fera évoluer son organisation interne et s'engage à atteindre des objectifs précis et vérifiables en matière de placement d'une part, d'accueil et d'orientation des demandeurs d'emploi d'autre part. De son côté, l'Etat s'engage à affecter à l'A.N.P.E. les moyens nécessaires pour atteindre ces objectifs. Ces moyens seront développés progressivement en fonction des réalisations. Au total, 900 emplois doivent être créés sur la durée du contrat pour permettre à l'A.N.P.E. d'améliorer l'efficacité des services rendus aux demandeurs d'emploi et aux entreprises, dont 300 ont été autorisés pour 1990, première année d'application.
