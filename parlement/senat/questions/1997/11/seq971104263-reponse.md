@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971104263
+
+- Question : [SEQ971104263](seq971104263.md) — Répartition des ressources fiscales liées à l'activité de l'aéroport de Roissy
+
+## Réponse
+
+*Économie, JO du 1998-07-30, page 2459*
+
+Réponse. - L'activité de la plate-forme aéroportuaire de Paris-Charles-de-Gaulle, située à Roissy, qui accueille environ 500 entreprises et 45 000 emplois, constitue un enjeu économique régional et national. Cette activité, en progression régulière, génère d'importantes ressources fiscales qui ne bénéficient actuellement qu'à certaines communes. L'ensemble des collectivités locales riveraines demande aujourd'hui une part significative des emplois de la plate-forme pour leurs résidents et de l'activité pour leurs entreprises, mais aussi un versement ou reversement plus conséquent de la taxe professionnelle générée par l'activité de la plate-forme. Cette situation a conduit le Gouvernement à confier à M. Jean-Philippe Lachenaud, sénateur du Val-d'Oise, le soin d'examiner une répartition plus équitable des retombées économiques et fiscales liées au développement de l'aéroport de Paris-Charles-de-Gaulle. Pour parvenir à un développement équilibré des communes de la zone Roissy, M. Lachenaud a suggéré la création, dans le cadre des institutions existantes, d'un fonds interdépartemental de solidarité pour l'environnement et le développement économique. Une telle mesure appelle, ainsi que le souligne l'auteur de la question, une large concertation avec les parties prenantes de cette répartition, au premier rang desquelles les collectivités locales, et il n'est pas possible de préciser à ce stade les conclusions que pourra retenir le Gouvernement. Celui-ci ne manquera cependant pas d'informer dans les meilleurs délais le parlementaire des conclusions de cette concertation.
