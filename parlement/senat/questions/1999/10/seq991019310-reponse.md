@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991019310
+
+- Question : [SEQ991019310](seq991019310.md) — Protection des populations dans la guerre : création aux Nations Unies d'une instance impartiale, indépendante et incontournable
+
+## Réponse
+
+*Affaires étrangères, JO du 1999-12-09, page 4045*
+
+Réponse. - La protection des populations civiles dans les conflits armés demeure un sujet constant de préoccupation. L'année 1999, marquée par le cinquantenaire des Conventions de Genève de 1949, a été l'occasion de réflexions approfondies sur ce thème, engagées dans différentes enceintes. C'est ainsi que le Conseil de sécurité, suite à un rapport du secrétaire général des Nations Unies, a adopté le 17 septembre 1999 une résolution sur cette question. De même, la 27e conférence internationale de la Croix-Rouge et du Croissant-Rouge qui s'est tenue du 31 octobre au 6 novembre 1999 s'est très largement consacrée à ce sujet. Les organisations non gouvernementales se sont également engagées dans ce débat. L'organisation Médecins du Monde a tenu le 2 juillet 1999 un colloque et a lancé un appel aux autres ONG pour qu'elles s'associent à un projet de création, au sein des Nations Unies, d'une instance chargée d'évaluer les situations humanitaires et de définir la réponse appropriée à chaque cas. L'objectif de Médecins du Monde serait de tisser un réseau d'ONG qui soumettrait cette proposition à l'Assemblée générale en l'an 2000. D'autres projets, notamment britannique, sont actuellement à l'étude. Le ministère des affaires étrangères suit avec intérêt la réflexion que l'initiative prise par Médecins du Monde a suscité au sein des ONG. La France participe par ailleurs aux différentes discussions engagées sur ce thème et veille à ce que l'ensemble des analyses et propositions contribuent à la réflexion générale afin que des projets puissent être accomplis dans ce domaine essentiel de la protection des populations civiles dans les conflits armés.
