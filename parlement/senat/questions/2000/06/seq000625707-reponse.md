@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000625707
+
+- Question : [SEQ000625707](seq000625707.md) — TVA applicable à la restauration collective
+
+## Réponse
+
+*Économie, JO du 2001-08-30, page 2815*
+
+A la demande de certains professionnels de la restauration, le Conseil d'Etat a, par une décision du 27 mars 2000, déclaré illégales les deux décisions ministérielles en application desquelles la fourniture de repas au personnel dans les cantines d'entreprises ou d'administrations était, sous certaines conditions, exonérée de taxe sur la valeur ajoutée. Le maintien d'une exonération de TVA n'était donc plus possible. Le dispositif retenu, qui a fait l'objet d'une large consultation des professionnels concernés et des organisations syndicales, est conforme au droit, tout en respectant la dimension sociale de la restauration collective. Ainsi, les recettes provenant de la fourniture des repas au personnel dans les cantines d'entreprises ou d'administrations sont désormais soumises à la TVA comme le précise l'instruction administrative du 21 mars 2001 publiée au Bulletin officiel des impôts 3 A-5-01. Toutefois, ces recettes peuvent, en application de l'article 279 a bis du code général des impôts, bénéficier du taux réduit de la TVA dans les conditions prévues par le décret n° 2001-237 du 20 mars 2001 codifié à l'article 85 bis de l'annexe III à ce code. La combinaison de ces dispositions permet de neutraliser les conséquences financières de l'imposition à la TVA, tant pour les usagers que pour les organismes gestionnaires. Par ailleurs, la fourniture de repas dans les cantines scolaires ou universitaires ainsi que celle effectuée au profit des patients des établissements de santé restent non soumises à la TVA. Ces préoccupations paraissent de nature à répondre aux préoccupations exprimées par l'auteur de la question.
