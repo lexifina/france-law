@@ -1,0 +1,7 @@
+# Article 3 quinquies
+
+La nouvelle rédaction de l'article 1er de la convention entraîne son élargissement aux sociétés d'économie mixte, à l'origine exclues par le ministère du travail dans la perspective de l'élaboration d'une convention couvrant le secteur du logement social. En conséquence, les sociétés d'économie mixte non représentées par les organisations patronales signataires de la convention du 11 décembre 1979, mais dont l'activité de gestion immobilière implique l'emploi de personnel d'immeuble, seront tenues à l'application de l'ensemble des dispositions de ladite convention à partir du premier jour du mois suivant la date de publication au Journal officiel de l'arrêté d'extension du présent avenant, soit le 1er novembre 1987.
+
+En cas de négociation engagée dans l'entreprise dans les conditions visées aux articles 1er, 21 (1er alinéa) et 22 de la convention ou 2 (paragraphe 1), dernier alinéa de l'annexe III, l'employeur disposera d'un délai expirant le 30 juin 1988 pour établir les avenants aux contrats de travail, le rappel de traitement éventuellement dû étant toutefois décompté du 1er novembre 1987.
+
+La lettre de régularisation d'engagement devra établir le salaire, dans la structure de rémunération conventionnelle, en valeur octobre 1987, de manière que le salarié bénéficie ensuite des augmentations par rubrique de paie prévues, notamment, par l'avenant n° 17 du 17 novembre 1987.
