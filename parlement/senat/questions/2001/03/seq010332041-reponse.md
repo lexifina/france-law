@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010332041
+
+- Question : [SEQ010332041](seq010332041.md) — Décompte en jours de la durée du travail des cadres du bâtiment
+
+## Réponse
+
+*Emploi, JO du 2001-11-15, page 3641*
+
+L'honorable parlementaire a appelé l'attention de Mme la ministre de l'emploi et de la solidarité sur le champ d'application du nouveau dispositif relatif au forfait en jours issu de la loi du 19 janvier 2001, dans le secteur du bâtiment et des travaux publics. Il convient préalablement de rappeler que conformément aux dispositions légales, la possibilité de conclure des conventions de forfait en jours est exclusivement réservée aux salariés ayant la qualité de cadre au sens des conventions collectives de branche ou de la convention nationale de retraite et de prévoyance des cadres du 14 mars 1947. Par ailleurs, seule une catégorie précise de cadres est susceptible de bénéficier de ces conventions de forfait, celle dont la durée du travail ne peut être prédéterminée du fait de la nature de leurs fonctions, des responsabilités qu'ils exercent et du degré d'autonomie dont ils disposent dans l'organisation de leur emploi du temps, ces conditions étant cumulatives. Dès lors, l'arrêté du 23 février 1999 portant extension de l'accord national professionnel relatif à l'organisation, à la réduction du temps de travail et à l'emploi dans le bâtiment et travaux publics a été modifié afin d'exclure les dispositions conventionnelles visant à décompter en jours la durée du travail des agents de maîtrise. II ne peut être envisagé de procéder à l'extension desdites dispositions qui sont manifestement contraires à la loi. En effet, cette dernière a circonscrit, de manière très restrictive, la mise en place de ce nouveau dispositif de décompte de la durée du travail à une catégorie bien ciblée de salariés.
