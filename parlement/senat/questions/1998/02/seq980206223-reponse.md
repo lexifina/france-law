@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980206223
+
+- Question : [SEQ980206223](seq980206223.md) — Stockage des poids lourds dans le sens France - Italie dans la vallée de la Maurienne
+
+## Réponse
+
+*Équipement, JO du 1998-08-20, page 2700*
+
+Réponse. - Les périodes d'interdiction de circulation des poids lourds engendrent systématiquement des problèmes de stockage. Lors des périodes d'interdiction complémentaire liées aux grands départs en vacances notamment, les poids lourds doivent attendre la fin de la période d'interdiction. La publication du calendrier avec un préavis suffisant permet d'éviter la plupart des dysfonctionnements. Les difficultés les plus importantes restent aux frontières, soit dans le cas de pays ne pratiquant pas d'interdictions (la Belgique par exemple) et le stockage se fait alors dans ces pays, doit dans le cas où les interdictions portent sur des jours différents, ce qui est le cas de l'Italie. Elles sont en revanche plus minimes lorsque la différence entre les périodes d'interdiction est courte, comme en Allemagne. Dans ces cas-là, il est nécessaire que les entreprises de transport organisent leur voyage en tenant compte de ces interdictions afin de ne pas imposer aux chauffeurs de longues périodes d'attente. Le stockage ne peut être qu'un palliatif que les autorités locales gèrent au mieux. Il n'est pas envisageable de construire de gigantesques parkings pour répondre à ces besoins ponctuels. Une réunion de travail franco-italienne s'est tenue à Paris le 19 janvier 1998. Cette réunion a permis à la France de souligner le manque d'harmonisation dans les horaires et d'affirmer sa volonté de remédier à cette situation par un accord. La délégation italienne a indiqué que la solution était à rechercher au niveau déconcentré par une meilleure information des deux côtés de la frontière.
