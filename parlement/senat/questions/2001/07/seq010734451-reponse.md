@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010734451
+
+- Question : [SEQ010734451](seq010734451.md) — Petites entreprises
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2001-09-20, page 3046*
+
+Les petites entreprises, et notamment les entreprises artisanales, représentent en France un secteur de première importance du point de vue économique et social. Le tissu économique français est en effet majoritairement constitué d'entreprises de moins de cinquante salariés (2,4 millions hors agriculture, soit près de 99 % de l'ensemble des entreprises). Favoriser la modernisation et le développement de ces opérateurs économiques de proximité, c'est promouvoir un secteur à fort potentiel de création d'emplois, mais aussi préserver les choix du consommateur, l'équilibre du territoire, le savoir-faire et l'esprit entrepreneurial. C'est la raison pour laquelle le Gouvernement a décidé d'élaborer une loi d'orientation pour la petite entreprise et l'artisanat. Dans cette perspective, une mission a été confiée à deux parlementaires, MM. Didier Chouat, député des Côtes-d'Armor, et Jean-Claude Daniel, député de la Haute-Marne, afin d'identifier les améliorations en matière financière, fiscale, sociale, juridique, administrative et culturelle, de nature à encourager la pérennité et la croissance des entreprises et des entreprises artisanales. Ces parlementaires remettront leurs propositions au cours des prochaines semaines, ce qui permettra au Gouvernement d'engager, sur la base d'une large concertation avec les représentants du secteur, l'élaboration d'un projet de loi offrant un cadre moderne et rénové répondant aux besoins actuels et futurs de la très grande majorité des petites entreprises et des entreprises artisanales françaises. L'objectif est de procéder à un examen, en première lecture à l'Assemblée nationale, dans le courant du 1er trimestre 2002.
