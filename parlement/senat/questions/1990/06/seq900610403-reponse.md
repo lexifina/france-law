@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900610403
+
+- Question : [SEQ900610403](seq900610403.md) — Personnes âgées dépendantes
+
+## Réponse
+
+*Famille, JO du 1991-08-22, page 1773*
+
+Réponse. - Le Gouvernement est particulièrement attentif à la situation des personnes âgées dépendantes dont le nombre croît du fait du vieillissement progressif de la population, même si son augmentation est sans doute moindre que celle du vieillissement. Aussi, dans le cadre des mesures récemment adoptées en faveur des personnes âgées dépendantes, une commission réunie auprès du Commissariat général du Plan a-t-elle été chargée de proposer les réformes à apporter au dispositif actuel dans le souci de satisfaire, dans de bonnes conditions, les besoins mal couverts, de maîtriser l'évolution des dépenses et d'inciter à une utilisation optimale des ressources de toutes natures, y compris celles que peuvent fournir les solidarités familiales ou de voisinage. Sur la base des conclusions de cette commission qui seront remises au Gouvernement courant septembre ainsi que sur celle des résultats de la mission d'information parlementaire que l'Assemblée nationale a constituée, et qui a présenté fin juin son rapport, le Gouvernement proposera au Parlement les mesures à la fois nécessaires et possibles. Enfin, la circulaire ministérielle du 22 janvier 1991 a défini les conditions de mise en place du programme pluriannuel de création de places de services de soins infirmiers à domicile, de sections de cure médicale et de longs séjours dans les établissements et services pour personnes âgées, qui permettra également d'accompagner la mise en place de nouveaux contrats d'objectifs dont l'objet portera sur la création de services de soins infirmiers à domicile et le renforcement en personnel soignant des établissements. L'ensemble de ces mesures va dans le sens des préoccupations exprimées par l'honorable parlementaire.
