@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900911484
+
+- Question : [SEQ900911484](seq900911484.md) — Création d'un corps de surveillance des incendies
+
+## Réponse
+
+*Environnement, JO du 1991-04-18, page 812*
+
+Réponse. - L'importance du problème n'a pas échappé au Gouvernement qui a engagé de nombreuses actions pour améliorer la prévention des feux de forêts par un renforcement de la surveillance. Actuellement, le réseau de surveillance est constitué, dans les départements méditerranéens, par un ensemble de vigies fixes et de patrouilles mobiles dont la mise en oeuvre incombe conjointement aux services départementaux d'incendie et de secours et aux services du ministère de l'agriculture et de la forêt. Quand les conditions sont particulièrement sévères, ce réseau est renforcé par la mobilisation d'une partie des personnels relevant à la fois de la sécurité civile et de l'agriculture et de la forêt (pompiers, forestiers-sapeurs, chantiers forestiers des anciens harkis, etc.). Depuis 1983, en outre, des patrouilles forestières de prévention ont été mises en place dans les régions Provence - Alpes - Côte d'Azur, Languedoc-Roussillon et Corse pour réduire les délais d'intervention. Ce réseau dense de patrouilles équipées de véhicules munis de réserves d'eau peut intervenir sur les feux naissants. Ce dispositif est complété par la mise à disposition de militaires du contingent, aux termes d'un protocole conclu entre le ministre de l'intérieur et le ministre des armées. Toutes ces dispositions présentent l'intérêt d'être souples. En effet, si la saison est calme au regard des incendies de forêts, les forestiers-sapeurs réalisent des travaux forestiers et le nombre de militaires peut être diminué, ce qui réduit d'autant les moyens fixes mobilisés pour la lutte contre les incendies de feux de forêt. Par conséquent, compte tenu de l'ensemble du dispositif mis en oeuvre actuellement, il n'est pas envisagé de créer un nouveau corps de surveillance.
