@@ -1,0 +1,122 @@
+# LOI n° 2003-775 du 21 août 2003 portant réforme des retraites et liens vers les décrets d'application
+
+- Type : loi publiee
+- Législature : XIIème législature
+- Ouvert le : 2003-08-21
+- Mis à jour le : 2008-02-11
+- Légifrance : https://www.legifrance.gouv.fr/dossierlegislatif/JORFDOLE000017759988
+
+## LOI n° 2003-775 du 21 août 2003 portant réforme des retraites
+
+https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000781627
+
+## Documents
+
+- [Rapport d'information n° 3162 de M. Denis Jacquat sur la mise en application de la loi](http://www.assemblee-nationale.fr/12/rap-info/i3162.asp) : déposé en application de l'article 86, alinéa 8 du Règlement de l'Assemblée nationale
+- [Projet de loi](http://www.assemblee-nationale.fr/12/projets/pl0885.asp)
+- [Communiqué de presse du Conseil des ministres du 28 mai 2003](http://archives.gouvernement.fr/raffarin_version1/fr/ie4/contenu/39706.htm#1) Le ministre des affaires sociales, du travail et de la solidarité a présenté un projet de loi portant réforme des retraites. Cette loi a pour objectif de sauvegarder les retraites par répartition auxquelles tous les Français sont attachés et de renforcer l'équité des différents régimes de retraite. Pour rétablir l'équilibre financier des régimes de retraite dans un contexte de vieillissement de la population, la loi prévoit en ce qui concerne la durée d'assurance, dans un premier temps, l'alignement d'ici 2008 du régime de la fonction publique sur le régime général, soit 40 ans, puis, à compter de 2008, une évolution parallèle de l'ensemble des régimes tenant compte de l'augmentation de l'espérance de vie. Cette évolution devra maintenir constant jusqu'en 2020 le partage entre le temps d'activité et le temps de la retraite. Des ajustements seront réalisés à échéances régulières, après avis d'une commission indépendante, prenant en compte les données démographiques, économiques et sociales. Le pouvoir d'achat des retraites sera garanti par une indexation sur les prix. Tous les trois ans, un point sera fait avec les partenaires sociaux. La loi comporte un volet de mesures destinées à renforcer l'équité des systèmes de retraite. Ainsi, pour les salariés ayant commencé à travailler entre 14 et 16 ans, et sous réserve de certaines conditions, un droit au départ anticipé sera ouvert avant 60 ans. Pour les personnes liquidant leur retraite au titre de plusieurs régimes, les conditions de liquidation (et notamment le calcul du revenu de référence) seront aménagées pour garantir l'équivalence avec les droits acquis par les personnes ayant accompli toute leur vie professionnelle dans le même régime de retraite. La même référence d'équité inspire les mesures concernant les fonctionnaires, non seulement en ce qui concerne la durée d'assurance, la décote et l'indexation des pensions sur les prix, mais aussi la décision instituant un régime additionnel obligatoire, assis sur une partie des primes, afin de compléter les pensions. Ce régime sera géré paritairement et les cotisations seront partagées également entre la collectivité publique d'emploi et chaque fonctionnaire. Les avantages familiaux ne seront pas remis en cause. Ils sont toutefois adaptés pour tirer les conséquences de la jurisprudence de la Cour de justice de la communauté européenne, en respectant strictement l'égalité entre les sexes en ce qui concerne l'accès à une bonification pour la liquidation des droits à pension. Par ailleurs, la loi prendra en compte la diminution du temps de travail ou les ruptures de carrière dues à l'éducation des enfants. Une attention particulière est portée aux retraites de ceux qui ont travaillé avec des revenus modestes. Elle fixe pour ceux ayant effectué une carrière complète avec une rémunération au niveau du SMIC, un objectif de taux de remplacement en 2008 de 85 %. Le minimum garanti pour les fonctionnaires sera aménagé pour être mieux en rapport avec la durée de service. Pour une carrière complète, il sera fixé à un niveau supérieur à celui d'aujourd'hui. Enfin, les mécanismes des pensions de réversion aux veuves, dans le régime général et les régimes alignés, seront simplifiés et rendus plus avantageux par la suppression progressive de la limite d'âge de 55 ans. Chacun pourra exercer, à l'égard d'un groupement d'intérêt public réunissant les régimes de retraite, un droit à l'information pour être éclairé sur les droits qu'il a acquis et ses perspectives de retraite. Cela contribuera à l'exercice du libre arbitre de chacun sur ses choix en la matière. La liberté de choix sera confortée notamment par les dispositions suivantes : l'allégement progressif de la décote dans le secteur privé de 10 à 5 % ; la création d'une surcote au-delà de 60 ans et de la durée nécessaire pour obtenir le taux plein ; le possible rachat des droits à pension pour les années d'études, dans la limite de 3 ans, à un coût actuariellement neutre pour les régimes ; l'aménagement des conditions de retraite progressive avec poursuite de l'acquisition de droits à pension ; l'assouplissement des conditions du cumul entre un emploi et une retraite. La loi respecte également les spécificités de chaque régime et, dans la fonction publique, de chaque catégorie. Des adaptations seront prévues en ce qui concerne les militaires et les personnels actifs de la fonction publique hospitalière. Les enseignants se verront offrir un accès à d'autres corps de la fonction publique pour une seconde carrière. La loi prévoit par ailleurs la création d'un régime de retraite complémentaire obligatoire pour les industriels, commerçants et artisans. Elle procède également à la refonte du régime de base des professions libérales afin de rendre plus juste le calcul des cotisations, en proportion des revenus. Le projet transpose pour les agriculteurs les évolutions du régime général. Il prévoit un alignement de leur durée de cotisations sur le droit commun, tout en ouvrant l'accès à la validation des années de travail comme aide familial en début de carrière. Enfin, chaque Français aura accès, s'il le souhaite, à un produit d'épargne en vue de sa retraite: par un plan individuel souscrit par le biais d'une structure associative ; par un plan collectif dans le cadre d'un accord sur l'épargne salariale volontaire pour les retraites, dont la liquidation interviendra lors du départ en retraite. En définitive, la loi est conçue de manière à faire contribuer équitablement les Français à l'effort nécessaire pour garantir dans la durée la viabilité des régimes de retraites.
+- [Projet de loi adopté en 1ère lecture par l'Assemblée nationale le 3 juillet 2003](http://www.assemblee-nationale.fr/12/ta/ta0162.asp)
+- [Projet de loi adopté en 1ère lecture par le Sénat le 18 juillet 2003](http://www.senat.fr/leg/tas02-141.html)
+- [Projet de loi adopté en CMP par l'Assemblée nationale le 24 juillet 2003](http://www.assemblee-nationale.fr/12/ta/ta0180.asp)
+- [Projet de loi adopté en CMP par le Sénat le 24 juillet 2003](http://www.senat.fr/leg/tas02-150.html)
+- [Saisine du Conseil constitutionnel en date du 26 juillet 2003 présentée par plus de soixante députés](http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000417006&dateTexte=&oldAction=rechJO&categorieLien=id)
+- [Saisine du Conseil constitutionnel en date du 28 juillet 2003 présentée par plus de soixante sénateurs](http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000231793&dateTexte=&oldAction=rechJO&categorieLien=id)
+- [Observations du Gouvernement](http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000781629&dateTexte=&oldAction=rechJO&categorieLien=id)
+- [Mémoire en réplique présenté par plus de soixante députés en date du 11 août 2003](http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000781555&dateTexte=&oldAction=rechJO&categorieLien=id)
+- [Décision du Conseil constitutionnel n° 2003-483 DC du 14 août 2003](http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000781628&dateTexte=&oldAction=rechJO&categorieLien=id)
+- Dossiers législatifs
+  - Assemblée nationale
+    - [Dossier législatif de l'Assemblée nationale](http://www.assemblee-nationale.fr/12/dossiers/reforme_retraites.asp#030885)
+  - Sénat
+    - [Dossier législatif du Sénat](http://www.senat.fr/dossier-legislatif/pjl02-378.html)
+- Documents préparatoires
+  - [Rapport n° 898 de M. Bernard Accoyer (tome I)](http://www.assemblee-nationale.fr/12/rapports/r0898-t1.asp)
+  - [Rapport n° 898 de M. Bernard Accoyer (tome II - 1ère partie)](http://www.assemblee-nationale.fr/12/rapports/r0898-t2.asp)
+  - [Rapport n° 898 de M. Bernard Accoyer (tome II - 2e partie)](http://www.assemblee-nationale.fr/12/rapports/r0898-t2-2.asp#TopOfPage)
+  - [Rapport n° 898 de M. Bernard Accoyer (tome II - 3e partie)](http://www.assemblee-nationale.fr/12/rapports/r0898-t2-3.asp#TopOfPage)
+  - [Rapport d'information n° 892 de MMe Claude Greff](http://www.assemblee-nationale.fr/12/rap-info/i0892.asp)
+  - [Rapport n° 382 de M. Dominique Leclerc (tome I)](http://www.senat.fr/rap/l02-382-1/l02-382-1.html)
+  - [Rapport n° 382 de M. Dominique Leclerc (tome II)](http://www.senat.fr/rap/l02-382-2/l02-382-2.html)
+  - [Rapport n° 1050 et n° 417 de MM. Bernard Accoyer et Dominique Leclerc](http://www.assemblee-nationale.fr/12/rapports/r1050.asp)
+- Débats parlementaires (urgence déclarée)
+  - Assemblée nationale (1ère lecture)
+    - Compte rendu intégral des séances du 10 juin 2003 :
+      - [2ème séance du 10 juin 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003/20030234.asp#PG14) : discussion
+      - [3ème séance du 10 juin 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003/20030235.asp#PG0) : discussion (suite), exception d'irrecevabilité
+    - Compte rendu intégral des séances du 11 juin 2003 :
+      - [1ère séance du 11 juin 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003/20030236.asp#PG15) : exception d'irrecevabilité (rejet), question préalable
+      - [2ème séance du 11 juin 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003/20030237.asp#PG0) : question préalable (rejet), discussion générale
+    - Compte rendu intégral des séances du 12 juin 2003 :
+      - [1ère séance du 12 juin 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003/20030238.asp#PG1) : discussion générale (suite)
+      - [2ème séance du 12 juin 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003/20030239.asp#PG0) : discussion générale (suite), motion de renvoi en commission
+      - [3ème séance du 12 juin 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003/20030240.asp#PG0) : motion de renvoi en commission (suite - rejet), discussion des articles (avant art 1er)
+    - Compte rendu intégral des séances du 13 juin 2003 :
+      - [1ère séance du 13 juin 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003/20030241.asp#PG0) : discussion des articles (suite - avant art 1er)
+      - [2ème séance du 13 juin 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003/20030242.asp#PG0) : discussion des articles (suite - avant art 1er)
+      - [3ème séance du 13 juin 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003/20030243.asp#PG1) : discussion des articles (suite - avant art 1er)
+    - Compte rendu intégral des séances du 14 juin 2003 :
+      - [1ère séance du 14 juin 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003/20030244.asp#PG0) : discussion des articles (suite - avant art 1er)
+      - [2ème séance du 14 juin 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003/20030245.asp#PG0) : discussion des articles (suite - avant art 1er)
+    - Compte rendu intégral des séances du 16 juin 2003 :
+      - [1ère séance du 16 juin 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003/20030246.asp#PG2) : discussion des articles (art 1er)
+      - [2ème séance du 16 juin 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003/20030247.asp#PG0) : discussion des articles (suite - avant art 1er, après art 1er, art 2)
+    - Compte rendu intégral des séances du 17 juin 2003 :
+      - [2ème séance du 17 juin 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003/20030249.asp#PG14) : discussion des articles (art 2, après art 2, art 3)
+      - [3ème séance du 17 juin 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003/20030250.asp#PG0) : discussion des articles (art 3)
+    - Compte rendu intégral des séances du 18 juin 2003 :
+      - [1ère séance du 18 juin 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003/20030251.asp#PG15) : discussion des articles (après art 3, avant art 4)
+      - [2ème séance du 18 juin 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003/20030252.asp#PG0) : discussion des articles (avant art 4)
+    - Compte rendu intégral des séances du 19 juin 2003 :
+      - [1ère séance du 19 juin 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003/20030253.asp#PG1) : discussion des articles (avant art 4, art 4)
+      - [2ème séance du 19 juin 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003/20030254.asp#PG0) : discussion des articles (suite - art 4, après art 4, art 5)
+      - [3ème séance du 19 juin 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003/20030255.asp#PG0) : discussion des articles (suite - art 5)
+    - Compte rendu intégral des séances du 20 juin 2003 :
+      - [1ère séance du 20 juin 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003/20030256.asp#PG1) : discussion des articles (suite - après art 5, avant art 6, art 6, après art 6, art 7)
+      - [2ème séance du 20 juin 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003/20030257.asp#PG0) : discussion des articles (suite - art 7, après art 7, art 8, après art 8, art 9)
+      - [3ème séance du 20 juin 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003/20030258.asp#PG0) : discussion des articles (suite - art 9, art 10)
+    - Compte rendu intégral des séances du 23 juin 2003 :
+      - [1ère séance du 23 juin 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003/20030259.asp#PG3) : discussion des articles (suite - art 10, art 11)
+      - [2ème séance du 23 juin 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003/20030260.asp#PG0) : discussion des articles (suite - art 11, après art 11, art 12)
+    - Compte rendu intégral des séances du 24 juin 2003 :
+      - [2ème séance du 24 juin 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003/20030262.asp#PG16) : discussion des articles (après art 12, avant art 13, art 13, après art 13, avant art 14, art 14, art 15, art 16)
+      - [3ème séance du 24 juin 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003/20030263.asp#PG0) : discussion des articles (suite - art 16, après art 16, art 17, art 18, art 19)
+    - Compte rendu intégral des séances du 25 juin 2003 :
+      - [1ère séance du 25 juin 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003/20030264.asp#PG15) : discussion des articles (suite - art 19, art 20, art 21, art 22)
+      - [2ème séance du 25 juin 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003/20030265.asp#PG0) : discussion des articles (suite - art 22, après art 22, art 23, après art 23, avant art 24, art 24, après art 24)
+    - Compte rendu intégral des séances du 26 juin 2003 :
+      - [2ème séance du 26 juin 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003/20030267.asp#PG1) : discussion des articles (suite - après art 24, art 25, après art 25, art 26, art 27)
+      - [3ème séance du 26 juin 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003/20030268.asp#PG0) : discussion des articles (suite - art 27)
+    - Compte rendu intégral des séances du 27 juin 2003 :
+      - [1ère séance du 27 juin 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003/20030269.asp#PG1) : discussion des articles (suite - 28, avant art 29, art 29, après art 29, art 30, art 31)
+      - [2ème séance du 27 juin 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003/20030270.asp#PG0) : discussion des articles (suite - art 31, après art 31, art 32, après art 32)
+      - [3ème séance du 27 juin 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003/20030271.asp#PG2) : discussion des articles (suite - art 33, art 34, art 35, art 36, art 37, art 38, art 39, art 40, art 41, art 42)
+    - Compte rendu intégral des séances du 30 juin 2003 :
+      - [1ère séance du 30 juin 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003/20030272.asp#PG2) : discussion des articles (suite - après art 42, art 43, art 44, art 45, après art 45)
+      - [2ème séance du 30 juin 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003/20030273.asp#PG0) : discussion des articles (suite - art 46, art 47, art 48, art 49, art 50, art 51, art 52)
+      - [3éme séance du 30 juin 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003/20030274.asp#PG6) : discussion des articles (suite - art 52, art 53)
+    - Compte rendu intégral des séances du 1er juillet 2003 :
+      - [1ère séance du 1er juillet 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003-extra/20031001.asp#PG1) : discussion des articles (suite - art 53, art 54, après art 54, art 55, avant art 56, art 56, art 57, art 58, art 59, avant art 60, art 60, art 61, art 62, art 63, art 64)
+      - [2ème séance du 1er juillet 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003-extra/20031002.asp#PG2) : discussion des articles (suite - art 65, art 66, art 67, après art 67, art 68, art 69, art 70, après art 70, avant art 71, art 71, après art 71, art 72, art 73, art 74, art 75)
+      - [3ème séance du 1er juillet 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003-extra/20031003.asp#PG0) : discussion (suite)
+    - Compte rendu intégral des séances du 2 juillet 2003 :
+      - [1ère séance du 2 juillet 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003-extra/20031004.asp#PG0) : discussion des articles (suite - art 75, art 76, après art 76, art 77, après art 77, art 78)
+      - [2ème séance du 2 juillet 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003-extra/20031005.asp#PG0) : motion de censure (rejet), discussion des articles (suite - art 78)
+      - [3ème séance du 2 juillet 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003-extra/20031006.asp#PG0) : discussion des articles (suite - après art 78, art 79, art 80, après art 80, art 81, après art 81)
+    - Compte rendu intégral de la séance du 3 juillet 2003 :
+      - [1ère séance du 3 juillet 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003-extra/20031007.asp#PG2) : explication de vote, vote sur l'ensemble
+  - Sénat (1ère lecture)
+    - [Compte rendu intégral de la séance du 7 juillet 2003](http://www.senat.fr/seances/s200307/s20030707/s20030707_mono.html) : discussion générale
+    - [Compte rendu intégral de la séance du 8 juillet 2003](http://www.senat.fr/seances/s200307/s20030708/s20030708_mono.html) : exception d'irrecevabilité (rejet), question préalable (rejet), demande de renvoi à la commission (rejet), discussion des articles (division additionnelle avant titre Ier, art additionnels avant art 1er, division additionnelle avant art 1er, art additionnels avant art 1er, division additionnelle avant art 1er, art additionnels avant art 1er ou après art 1er, art additionnels avant art 1er, art 1er)
+    - [Compte rendu intégral de la séance du 9 juillet 2003](http://www.senat.fr/seances/s200307/s20030709/s20030709_mono.html) : discussion des articles (suite - art additionnels après art 1er, art additionnel avant art 2, art 2, art additionnels après art 2, art 3)
+    - [Compte rendu intégral de la séance du 10 juillet 2003](http://www.senat.fr/seances/s200307/s20030710/s20030710_mono.html) : discussion des articles (suite - art additionnels après art 3, art additionnels avant art 4, art 4, art 5)
+    - [Compte rendu intégral de la séance du 11 juillet 2003](http://www.senat.fr/seances/s200307/s20030711/s20030711_mono.html) : discussion des articles (art additionnels avant art 4, art additionnels après art 4, art 6, art additionnel après art 6, art 7, art additionnel après art 7, art 7 bis, art additionnel après art 7 bis, art 8, art additionnel après art 8, art 8 bis, art additionnel après art 8 bis, art 8 quater, art additionnel après art 8 quater, art 9, art 10, art 11, art 12)
+    - [Compte rendu intégral de la séance du 12 juillet 2003](http://www.senat.fr/seances/s200307/s20030712/s20030712_mono.html) : discussion des articles (suite - art 12 bis, art 13, art 13 bis, art additionnel avant art 14, art 14, art 15, art additionneld avant art 16, art 16, art additionnels avant art 1er, art additionnels avant art 5, art additionnels après art 5, art additionnels avant art 6)
+    - [Compte rendu intégral de la séance du 15 juillet 2003](http://www.senat.fr/seances/s200307/s20030715/s20030715_mono.html) : discussion des articles (suite - art additionnels après art 16, art 16 ter, art 17, art additionnel après art 17, art 18, art additionnels après art 18, art 19, art additionnels après art 19 ou avant art 20, art 20, art 21, art additionnels avant art 22, art 22, art additionnels après art 22, art 22 bis, art 22 ter, art additionnels après art 22 ter, art 23, art additionnel après art 23, art 23 bis, art additionnels après art 23 bis, intitulé du titre III, art 24, art additionnels après art 24, art 24 bis, art 25, art additionnel après art 25 ou après art 43 ou après art 54, art additionnel avant art 26, art 26, art additionnels après art 26, art 27, art additionnels après art 27, art 28, art additionnel avant art 29, art 29, art additionnels après art 29, art 30, art 31)
+    - [Compte rendu intégral de la séance du 16 juillet 2003](http://www.senat.fr/seances/s200307/s20030716/s20030716_mono.html) : discussion des articles (suite - art 31, art 31 bis, art 31 ter, art 32, art additionnels après art 32, art 33, art 34, art 35, art 36, art 37, art 38, art 39, art 40, art 41 et art additionnels après art 41, art 42, art 42 bis et art additionnels avant art 42 ter, art 42 ter, art additionnel après art 42 ter, art 43)
+    - [Compte rendu intégral de la séance du 17 juillet 2003](http://www.senat.fr/seances/s200307/s20030717/s20030717_mono.html) : discussion des articles (art 44, art 45, art 45 ter, art 46, art 47, art additionnel après art 47, art 48, art 49, art additionnel avant art 50, art 50, art 52, art 53, art 54, art 54 bis et art additionnel après art 54 bis, art 55, intitulé du titre IV, art 56, art 57, art 58, art 59, art additionnel après art 59, art 60, art additionnel après art 60, art 61, art 62, art 63, art 64, art 65, art additionnels après art 65, art 66, art 67, art 67 bis, art 68, art 69, art 70, art additionnel après art 70, art 71, art additionnel après art 71, art 72, art 73, art additionnel après art 73, art 74, art 75, art 76, art additionnels après art 76, art 76 bis, art 77, art additionnels après art 77, art 77 bis, division additionnelle après art 77 bis, intitulé du titre V, art 78)
+    - [Compte erndu intégral de la séance du 18 juillet 2003](http://www.senat.fr/seances/s200307/s20030718/s20030718_mono.html) : discussion des articles (suite - art 79, art additionnels avant art 80, art 80, art 80 bis, art 81, art additionenls après art 81, art 82, art 83, art 84, art additionnel après art 84), vote sur l'ensemble
+  - Assemblée nationale (lecture texte CMP)
+    - Compte rendu intégral de la séance du 24 juillet 2003 :
+      - [1ère séance du 24 juillet 2003](http://www.assemblee-nationale.fr/12/cri/2002-2003-extra/20031033.asp#PG2) : exception d'irrecevabilité (rejet), question préalable (rejet), discussion générale, explications de vote, vote sur l'ensemble
+  - Sénat (lecture texte CMP)
+    - [Compte rendu intégral de la séance du 24 juillet 2003](http://www.senat.fr/seances/s200307/s20030724/st20030724000.html) : discussion générale, discussion des articles (art 16, art 32, art 42 ter A, art 47 bis, art 52, art 81), vote sur l'ensemble
