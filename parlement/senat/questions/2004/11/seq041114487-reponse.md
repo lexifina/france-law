@@ -1,0 +1,9 @@
+# Réponse à la question SEQ041114487
+
+- Question : [SEQ041114487](seq041114487.md) — Assurance vieillesse : prise en compte des services des fonctionnaires de la Communauté européenne
+
+## Réponse
+
+*Solidarités, JO du 2005-03-03, page 619*
+
+Les fonctionnaires communautaires bénéficient d'un dispositif particulier et, à ce jour, unique en ce qui concerne la France, leur permettant de faire transférer les droits à pension acquis du fait de leur activité antérieure au service des Communautés, dans le régime général français (ou dans les régimes spéciaux, y compris celui des fonctions publiques) et, en sens inverse, de faire transférer dans le régime des fonctionnaires communautaires, lorsqu'ils viennent à relever de ce statut, les droits acquis dans les régimes français concernés. Ce dispositif de transfert de droits, qui offre aux intéressés des avantages supérieurs à ceux qui résulteraient de la simple coordination évoquée par l'honorable parlementaire, est prévu par le statut des fonctionnaires communautaires, fixé par le règlement (CEE, Euratom, CECA) n° 259/68 du conseil du 29 février 1968 et les textes qui l'ont modifié, en dernier lieu le règlement (CE, Euratom) n° 723/2004 du conseil du 22 mars 2004, à l'article 11 de l'annexe VIII. Afin de déterminer les règles et les modalités concrètes du transfert, selon les cas, de l'équivalent actuariel ou du forfait de rachat, la France a conclu un accord avec les communautés par un échange de lettres du 27 juillet 1992 publié au Journal officiel par le décret n° 94-1062 du 6 décembre 1994. Sont visées par cet accord, pour la France, les pensions du régime général des salariés, des régimes spéciaux, ainsi que celles du code des pensions civiles et militaires de retraite. Un projet en cours d'élaboration doit étendre ce dispositif au régime des salariés agricoles et à la totalité des régimes des travailleurs indépendants.
