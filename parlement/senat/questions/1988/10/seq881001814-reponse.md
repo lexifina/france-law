@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881001814
+
+- Question : [SEQ881001814](seq881001814.md) — Exécution de la loi de programmation militaire de 1986
+
+## Réponse
+
+*Défense, JO du 1988-12-08, page 1392*
+
+Réponse. - L'année 1989 marquera la troisième année d'exécution de la loi de programme militaire 1987-1991. Le projet de budget de cet exercice assure le respect de ses orientations. Les programmes d'armement se déroulent normalement, compte tenu des aléas scientifiques et techniques inévitables qui conduisent à reconsidérer le calendrier de certains d'entre eux. Il convient en outre de tenir compte des surcoûts constatés sur certains programmes et des engagements nouveaux pris concernant des programmes non prévus lors de l'élaboration de la loi de programmation. Ainsi que le prévoit la loi, un projet de loi sera déposé par le Gouvernement sur le bureau des assemblées à la session de printemps 1989. Il permettra, compte tenu de l'évolution de la situation internationale, des techniques d'armement et de l'environnement économique, d'actualiser les deux annuités 1990 et 1991 de l'actuelle programmation et également de prolonger sur les années 1992 et 1993 la duréed'exécution de la loi. Le programme du porte-avions nucléaire sera poursuivi à un rythme très légèrement ralenti, ne remettant pas en question la date de sa mise en service opérationnel. Son développement est bien avancé puisque le début de montage sur cale de la coque est prévu au premier semestre 1989. Les études de définition des installations d'aviation sont en voie d'achèvement et celles concernant la chaufferie nucléaire et son intégration à bord ainsi que les équipements et armes diverses se poursuivent normalement. Des marchés vont être prochainement notifiés et les principaux composants de la chaufferie nucléaire sont en cours de réalisation.
