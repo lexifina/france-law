@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960515810
+
+- Question : [SEQ960515810](seq960515810.md) — Dispositif d'obligation d'emploi en faveur des travailleurs handicapés
+
+## Réponse
+
+*Travail, JO du 1996-07-25, page 1935*
+
+Réponse. - Le principal objectif de la loi du 10 juillet 1987 en faveur de l'emploi des travailleurs handicapés est l'ouverture maximale du milieu ordinaire du travail aux personnes handicapées, les exceptions ou dérogations ne pouvant avoir pour effet de s'écarter de façon anormale sur le plan quantitatif comme qualitatif du principe posé. C'est dans cet esprit qu'ont été déterminées les règles permettant de délimiter les catégories d'emploi exigeant des conditions d'aptitude particulières ; il n'est pas envisagé actuellement de les modifier. Par ailleurs, il est à noter que les bénéficiaires de l'obligation d'emploi des travailleurs handicapés désignés à l'article L. 323-3 du code du travail ne sont pas tous des travailleurs sévèrement atteints ou présentant des inadaptations graves ; à titre d'exemple, de nombreux accidentés du travail à faible taux d'incapacité permanente peuvent être à même d'occuper un emploi dans les associations de services d'aide et de maintien à domicile. En outre, ces associations peuvent également s'acquitter de l'obligation d'emploi soit en passant des contrats de fournitures, de sous-traitance ou de prestations avec des structures du milieu protégé (art. L. 323-8 du code du travail), soit en concluant ou en appliquant un accord de branche, d'entreprise ou d'établissement prévoyant la mise en oeuvre d'un programme annuel ou pluriannuel d'embauche de travailleurs handicapés (art. L. 323-8-1 du code précité). Enfin, il est à constater que depuis 1992 le secteur de la santé et de l'action sociale, dont font partie les associations de services d'aide et de maintien à domicile, est le plus créateur d'emplois. Ces capacités d'embauche doivent bénéficier aux travailleurs handicapés à la recherche d'un emploi.
