@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040511990
+
+- Question : [SEQ040511990](seq040511990.md) — Recours des collectivités locales aux prestations des organismes d'insertion
+
+## Réponse
+
+*Économie, JO du 2004-09-23, page 2160*
+
+Le code offre aux acheteurs publics plus de liberté pour adapter la procédure à la nature et au montant des achats. En dessous des seuils de procédure prévus par le code, il appartient aux acheteurs de déterminer la procédure la plus pertinente pour respecter les principes généraux fixés à l'article 1er du code : liberté d'accès à la commande publique, égalité de traitement des candidats et transparence des procédures. L'obligation de mise en concurrence est interprétée et mise en oeuvre de manière absolue par les acheteurs publics. Dès lors, un nombre très important d'achats de faible, voire de très faible montant, qui étaient effectués directement auprès des organismes d'insertion, donnent désormais lieu à mise en concurrence. Or, compte tenu de leurs contraintes particulières, les ateliers protégés ne peuvent soutenir la concurrence des entreprises à caractère purement commercial. De la même manière, ils ne peuvent bénéficier que très difficilement du droit de préférence qui leur est accordé en matière de commande publique. En effet, conformément à l'article 54 du code des marchés publics, ce droit de préférence ne peut s'exercer que dans le cas où il existerait égalité de prix ou équivalence d'offres entre l'un des organismes précités et une société commerciale. Conscient des difficultés que connaissent actuellement les organismes d'insertion de personnes handicapées et soucieux de les résoudre, le Gouvernement a saisi le Conseil d'Etat d'un projet de décret réformant le code des marchés publics et permettant le recours à ces organismes indépendamment des autres offres. Par ailleurs, ce même décret dispensera de toute publicité et de mise en concurrence les marchés d'un montant inférieur à 4 000 euros hors taxes.
