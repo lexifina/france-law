@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990214126
+
+- Question : [SEQ990214126](seq990214126.md) — Affectation du produit du droit de consommation sur le tabac
+
+## Réponse
+
+*Économie, JO du 1999-06-10, page 1948*
+
+Réponse. - Le droit de consommation sur les tabacs manufacturés est perçu dans les départements d'outre-mer, selon des modalités particulières, qui trouvent leur fondement dans l'article 268 du code des douanes. Les recettes perçues au titre de ce droit ne reçoivent pas la même affectation dans tous les départements d'outre-mer. Pour la Réunion d'abord (art. 1er de la loi nº 66-1011 du 28 décembre 1966 portant réforme du régime fiscal particulier des tabacs consommés dans les départements de la Guyane, de la Martinique et de la Réunion) et pour la Guyane ensuite (art. 9 de la loi de finances rectificative pour 1974) ce droit est affecté au budget du département. Dans les deux autres départements d'outre-mer, les recettes du droit de consommation sont versées au budget général de l'Etat. Ces distinctions ont été opérées pour tenir compte d'un contexte local qui variait d'un département à l'autre. C'est ainsi qu'en 1966 l'affectation des recettes au budget du département de la Réunion est venue compenser la suppression d'une " taxe de consommation sur les tabacs fabriqués ", qui n'existait que dans ce département. Par ailleurs, en Guadeloupe (7,3 millions de francs en 1998) comme en Martinique (8,4 millions de francs), les recettes dégagées au titre de ce droit sont très inférieures à celles perçues à la Réunion (153 millions de francs) et en Guyane (11,4 millions de francs). Cela tient notamment au fait que le taux du droit de consommation y a été fixé à un niveau plus faible pour compenser les taux élevés des autres taxes locales. Cela étant, la question du régime fiscal des tabacs dans les départements d'outre-mer fait actuellement l'objet d'une réflexion d'ensemble.
