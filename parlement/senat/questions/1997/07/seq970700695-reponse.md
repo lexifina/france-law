@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970700695
+
+- Question : [SEQ970700695](seq970700695.md) — Plan d'urgence pour les ports français
+
+## Réponse
+
+*Équipement, JO du 1997-09-04, page 2283*
+
+Réponse. - Le ministre de l'équipement, des transports et du logement est tout à fait conscient de l'importance majeure des ports maritimes pour l'emploi, l'aménagement du territoire et le commerce extérieur. Il souhaite aider, par tous les moyens appropriés, les ports français à faire face à la vive concurrence à laquelle ils sont confrontés. L'action qu'il compte mener dans ce domaine sera fondée sur la concertation avec l'ensemble des partenaires concernés. Elle prendra en considération les différentes propositions qui ont pu être faites au cours des derniers mois par les responsables professionnels. Il convient de faire des ports un maillon fort d'une chaîne de transport multimodal et c'est en agissant sur l'ensemble des aspects qui conditionnent le bon fonctionnement de la filière portuaire que l'on pourra aider celle-ci dans la voie de la reconquête des trafics. Les efforts à mener doivent porter, notamment sur le renforcement de la desserte terrestre, qu'elle soit ferroviaire, fluviale ou routière, sur la maîtrise des coûts des différentes professions de la filière portuaire et sur la simplification et l'harmonisation des procédures administratives. Il est également souhaitable de moderniser le fonctionnement des établissements portuaires et de diversifier leurs possibilités d'intervention, afin de leur permettre, en particulier, de développer des partenariats économiques utiles avec les opérateurs privés, qui soient créateurs de valeur ajoutée et d'emplois. C'est ainsi que pourront être envisagées les dispositions nécessaires au renforcement de la capacité d'intervention des établissements portuaires, sous le contrôle de leur conseil d'administration et dans le respect de leurs missions de service public.
