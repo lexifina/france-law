@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040311477
+
+- Question : [SEQ040311477](seq040311477.md) — Conséquences des transferts de compétences consentis à une communauté de communes
+
+## Réponse
+
+*Intérieur, JO du 2005-02-03, page 309*
+
+Dès lors qu'une commune transfère à un établissement public de coopération intercommunale une partie de ses compétences, elle en est dessaisie et ne peut plus intervenir à quelque titre que ce soit. Le dessaisissement porte sur les compétences prévues dans les statuts. S'agissant des communautés de communes, il s'agit des compétences dont le contenu est défini par le code général des collectivités territoriales au sein de groupes de compétences obligatoires et optionnels. Si une communauté de communes a reçu compétence pour construire, entretenir et assurer le fonctionnement des équipements sportifs et socioculturels et des équipements de loisirs, elle a seule la capacité juridique pour réaliser et financer les projets de cette nature à la condition toutefois qu'il soient reconnus d'intérêt communautaire suivant les critères arrêtés par les communes. Sous réserve de cette vérification préalable, tel peut être le cas d'une salle des fêtes. Le fait que le local destiné à être aménagé à cette fin soit situé dans un immeuble propriété de la commune n'exclut pas que la communauté de communes puisse réaliser cet aménagement, après mise à disposition dudit local. Enfin, le coût du projet (plus de 90 000 euros) ne permet pas, à lui seul, de déterminer si le projet revêt un intérêt local ou, au contraire, un intérêt communautaire. La dimension financière du projet est un simple indicateur qui doit être affiné au regard d'autres critères (taux de fréquentation prévisible, présence d'équipements de cette nature sur le territoire de la communauté de communes, contribution de l'équipement à l'attractivité du territoire, etc.) pour déterminer la capacité de la commune ou de l'EPCI à agir.
