@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860501204
+
+- Question : [SEQ860501204](seq860501204.md) — Réglementation du vote par procuration
+
+## Réponse
+
+*Affaires étrangères, JO du 1986-08-28, page 1197*
+
+Réponse. -Les dispositions du code électoral relatives au vote par procuration prévoient, d'une part, que le ou la mandataire doit jouir de ses droits civiques et être inscrit dans la même commune que le mandant, d'autre part, que chaque mandataire ne peut disposer de plus de deux procurations. Ces deux conditions sont les seules conditions exigibles. En particulier, aucun texte ne stipule l'existence d'un lien de parenté entre le mandant et le mandataire de son choix. Les autorités consulaires, qui sont habilitées à dresser les procurations de vote établies par les Français et les Françaises résidant à l'étranger, connaissent les règles qu'elles doivent appliquer dans ce domaine. Une circulaire a été adressée, le 18 octobre 1985, par le ministère des affaires étrangères aux chefs de postes diplomatiques et consulaires pour leur rappeler, en prévision des élections du 16 mars 1986, les instructions pemanentes concernant les procurations données à l'étranger pour le vote en France. Ce document a, d'ailleurs, été communiqué à l'honorable parlementaire, en sa qualité de sénateur des Français établis hors de France. Le ministère des affaires étrangères n'a été saisi d'aucune réclamation mettant en cause certains consulats pour leur refus d'établissement des procurations de vote, motivé par l'absence de lien de parenté entre le mandant et son mandataire. Aussi, le ministère des affaires étrangères suggère-t-il à l'honorable parlementaire de lui communiquer la liste précise des électeurs qui, à sa connaissance, auraient essuyé de tels refus, afin que ce département fasse procéder à l'examen de leur situation.
