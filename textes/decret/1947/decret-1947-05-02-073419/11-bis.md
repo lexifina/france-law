@@ -1,6 +1,6 @@
 # Article 11 bis
 
-Les travailleurs en activité qui, remplissant les conditions prévues à l'alinéa 2 de l'article 3 ter du présent décret, désirent voter par correspondance, adressent au plus tard quatorze jours avant la date du scrutin une demande au maire de la commune où se trouve le siège de la société de secours dont ils dépendent.
+Les affiliés en activité qui, remplissant les conditions prévues à l'alinéa 2 de l'article 3 ter du présent décret, désirent voter par correspondance, adressent au plus tard quatorze jours avant la date du scrutin une demande au maire de la commune où se trouve le siège de la société de secours dont ils dépendent.
 
 Cette demande doit, à peine de nullité, être signée par l'intéressé, comporter l'indication de ses nom, prénoms, adresse et lieu de travail, et être accompagnée des pièces justificatives de l'impossibilité de se déplacer le jour du scrutin.
 

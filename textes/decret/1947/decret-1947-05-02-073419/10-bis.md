@@ -10,7 +10,7 @@ Un fonctionnaire de la préfecture désigné par le préfet ;
 
 Le directeur départemental des postes ou son représentant ;
 
-L'ingénieur en chef des mines ou son représentant.
+Le directeur régional des affaires sanitaires et sociales ou son représentant ;
 
 En cas de partage, la voix du président est prépondérante. Le secrétariat est assuré par un fonctionnaire de la préfecture. Pour chacune des listes, les candidats désigneront un représentant qui participera aux travaux de la commission avec voix consultative.
 
@@ -20,7 +20,7 @@ a) De fournir les enveloppes nécessaires aux opérations électorales et de fai
 
 b) De dresser la liste des imprimeurs agréés par elle pour procéder à l'impression des documents électoraux ;
 
-c) D'adresser, sept jours au plus tard avant la date du scrutin, à tous les électeurs de chaque catégorie, sous enveloppe fermée qui sera déposée à la poste et transportée en franchise, les documents de propagande électorale ; cet envoi comporte, en outre, pour les électeurs votant par correspondance, les instruments de vote, accompagnés d'une notice explicative ;
+c) D'adresser, sept jours au plus tard avant la date du scrutin, à tous les électeurs, sous enveloppe fermée qui sera déposée à la poste et transportée en franchise, les documents de propagande électorale ; cet envoi comporte, en outre, pour les électeurs votant par correspondance, les instruments de vote, accompagnés d'une notice explicative ;
 
 d) D'envoyer dans chaque mairie intéressée, au plus tard sept jours avant le scrutin, les bulletins de vote de chaque liste de candidats en nombre au moins égal au nombre d'électeurs inscrits ;
 
