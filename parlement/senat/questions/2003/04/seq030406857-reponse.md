@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030406857
+
+- Question : [SEQ030406857](seq030406857.md) — Partenaires étrangers pacsés à des Français : attribution de visas de court séjour
+
+## Réponse
+
+*Affaires étrangères, JO du 2003-05-22, page 1664*
+
+Aux termes de l'article 12 de la loi du 15 novembre 1999 relative au pacte civil de solidarité, la conclusion d'un PACS constitue " l'un des éléments d'appréciation des liens personnels en France au sens du 7e alinéa de l'article 12 bis de l'ordonnance du 2 novembre 1945 modifié " pour la délivrance d'une carte de séjour temporaire portant la mention " vie privée et familiale ". En matière de visa, les agents diplomatiques et consulaires sont donc invités à faire preuve de souplesse dans l'examen de la demande de visa d'un partenaire étranger lié par un PACS à un Français. Même si la conclusion d'un PACS à l'étranger n'ouvre aucun droit particulier au séjour, elle n'en constitue pas moins une situation créatrice d'obligations entre un étranger et un ressortissant français, qui doit être prise en compte dans l'examen de la demande de visa, sous réserve que le demandeur s'en prévale. Pour les séjours de moins de trois mois, le lien résultant de la conclusion d'un PACS avec un ressortissant français constitue un motif de " vie privée " en France pouvant déboucher sur un visa de court séjour délivré sur présentation d'une attestation récente d'engagement dans les liens du PACS et des justificatifs de droit commun relatifs aux conditions du séjour et aux ressources. Pour les séjours en France de plus de trois mois, aucune mention spécifique n'ayant été créée sur les visas de long séjour, les demandeurs doivent justifier de leur séjour à un autre titre (visiteur, travailleur...). Les agents diplomatiques et consulaires exigent la production d'une attestation récente d'un PACS afin de s'assurer de sa non-dissolution.
