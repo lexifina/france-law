@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870505966
+
+- Question : [SEQ870505966](seq870505966.md) — Programmation de l'émission télévisée "Chadenn Ar Vro"
+
+## Réponse
+
+*Culture, JO du 1988-01-21, page 88*
+
+Réponse. -La vocation régionale de la société nationale de programme France régions 3 a été confirmée par le nouveau cahier des missions et des charges de cet organisme, dont la publication est intervenue le 1er septembre 1987. En effet, ce document prévoit que la société conçoive et programme des émissions sur la vie régionale en favorisant notamment l'expression et l'information des communautés culturelles, sociales et professionnelles et des familles spirituelles et philosophiques. Dans le même esprit, elle doit contribuer à l'expression des principales langues régionales parlées sur le territoire métropolitain, parmi lesquelles la langue bretonne occupe, bien entendu, une place importante. Ainsi, en 1986, la société a fait assurer la diffusion de quarante-neuf heures trente d'émissions dans cette langue. En ce qui concerne plus particulièrement l'émission " Chadenn Ar Vro ", le déplacement de son horaire de diffusion était nécessaire pour permettre à la société d'harmoniser l'ensemble de ses programmes régionaux avec son programme national. Toutefois, pour tenir compte des souhaits exprimés par les élus et les télé-spectateurs intéressés, l'horaire de cette émission, initialement reporté au samedi à 18 h 15 et au dimanche à 11 h 30, est désormais fixé au samedi de 12 heures à 12 h 30 pour la Bretagne et au dimanche de 12 heures à 13 heures pour la Bretagne et les Pays de Loire. Il convient en outre de souligner que ce double rendez-vous avec la langue bretonne offre un avantage que ne possédait pas l'ancienne formule de diffusion. En effet, les deux émissions sont conçues pour se compléter. Le samedi est consacré aux informations attendues par les téléspectateurs et le dimanche offre un large éventail de la production régionale.
