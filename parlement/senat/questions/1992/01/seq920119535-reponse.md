@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920119535
+
+- Question : [SEQ920119535](seq920119535.md) — Régime d'indemnité des agents des collectivités locales
+
+## Réponse
+
+*Collectivités locales, JO du 1992-04-09, page 864*
+
+Réponse. -Le décret n° 91-573 du 19 juin 1991 fixant les conditions et les modalités de règlement des frais occasionnés par les déplacements des personnels territoriaux, reprend pour une large part au profit de ces derniers les dispositions retenues en cette matière pour les agents de l'Etat par le décret n° 90-437 du 28 mai 1990. Ainsi les taux des indemnités en résultant sont-ils définis forfaitairement sur la base des arrêtés interministériels mentionnés par le décret précité du 28 mai 1990, de manière à éviter que les agents aient à supporter des dépenses imputables au service. Ce principe ne paraît pas devoir être interprété différemment qu'il s'agisse des fonctionnaires de l'Etat ou des fonctionnaires territoriaux. Toutefois, en ce qui concerne les observations présentées par l'honorable parlementaire relatives au dépassement éventuel des frais réellement exposés, il apparaît que les dispositions des articles 5, 5e alinéa et 10, 9e alinéa du décret du 19 juin 1991 peuvent dans de nombreux cas être utilisées pour limiter les conséquences financières pour le budget de la collectivité de certains déplacements du personnel. Par ces dispositions en effet, les collectivités sont autorisées, occasionnellement ou sous la forme de contrat ou de convention, à traiter directement avec les compagnies de transport, les établissements hôteliers et de restauration ainsi qu'avec les agences de voyages, pour l'organisation des transports et de l'accueil des agents en déplacements temporaires, dans la mesure où cette procédure facilite le service et lorsqu'il n'en résulte pas de dépenses supplémentaires. Il est précisé par ailleurs que l'indemnité de repas n'est pas attribuée pour un repas fourni gratuitement.
