@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931003204
+
+- Question : [SEQ931003204](seq931003204.md) — Absence de convention de sécurité sociale entre la France et le Brésil
+
+## Réponse
+
+*Affaires sociales, JO du 1993-12-02, page 2297*
+
+Réponse. - Il est confirmé à l'honorable parlementaire qu'aucune convention de sécurité sociale ne lie la France et le Brésil et que le Gouvernement français n'a pas été saisi d'une demande à ce sujet. S'il est exact que les ressortissants brésiliens ayant été affiliés au régime général français de sécurité sociale ne peuvent obtenir la liquidation d'une pension de vieillesse de ce régime s'ils ne résident pas en France de façon régulière à la date de cette liquidation, la paiement ultérieur des arrérages de cette pension n'est pas soumis à une telle condition de résidence et peut donc être effectué au Brésil où les intéressés ont transféré leur résidence après liquidation de leurs droits. Cette disposition de la législation française n'est pas une mesure nouvelle et ne s'applique pas qu'aux ressortissants brésiliens. Elle ne saurait donc justifier une quelconque mesure, qualifiée de réciprocité, de la part des autorités brésiliennes. Selon les informations communiquées aux autorités françaises, les pensions du régime brésilien obligatoire de sécurité sociale peuvent être servies à l'étranger, dans l'état actuel de la règlementation applicable. En outre, il est rappelé que les ressortissants français exerçant une activité à l'étranger ont toujours la possibilité, sans préjudice de l'application de la législation de l'Etat de résidence, d'adhérer à l'assurance volontaire vieillesse de la législation française et de se constituer ainsi une pension ou un élément de pension rémunérant la carrière ou la partie de carrière professionnelle accomplie à l'étranger.
