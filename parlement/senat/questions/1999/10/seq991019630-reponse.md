@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991019630
+
+- Question : [SEQ991019630](seq991019630.md) — Rattrapage et gestion des surclassements de catégorie par le CNLRE
+
+## Réponse
+
+*Équipement, JO du 2000-01-13, page 129*
+
+Réponse. - Les décrets nº 68-902 du 7 octobre 1968 et nº 76-157 du 13 février 1976 sont les deux textes qui précisent les conditions de mise en uvre du surclassement catégoriel. Cette procédure permet le passage dans la catégorie immédiatement supérieure de tout marin qui a navigué dix ans dans une catégorie donnée. Elle a un aspect social évident car elle permet aux marins qui naviguent dans des fonctions modestes de progresser, en terme de catégorie et donc de niveau de pension, tout en restant dans la même fonction. L'étude de l'ouverture du droit à surclassement appartient aux services déconcentrés des affaires maritimes. Elle se termine de manière formelle par une attestation délivrée par le directeur départemental, chef de ce service. La complexité des règles de gestion du surclassement a été à la source de retards de traitement qui sont préjudiciables à la fois aux marins et à l'Etablissement national des invalides de la marine (ENIM) qui gère leur régime social. Dans un tel contexte, il est apparu que la solution à ces difficultés devait être recherchée dans la centralisation complète du traitement de ces dossiers au Centre national de liquidation des rôles d'équipage (CNLRE), où se trouve concentré un personnel spécialisé qui assure déjà une partie de ces travaux. Cependant, la mise en uvre de cette solution suppose que l'effectif nécessaire à l'exécution de cette mission nouvelle soit mis en place et formé. Ceci a été prévu dans le cadre de l'opération de localisation, à Lorient et à Saint-Malo, de certains services de l'ENIM. La centralisation complète au CNLRE sera ainsi opérationnelle au début de l'année 2001.
