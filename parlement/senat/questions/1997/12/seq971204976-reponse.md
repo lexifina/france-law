@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971204976
+
+- Question : [SEQ971204976](seq971204976.md) — Statut des objecteurs de conscience
+
+## Réponse
+
+*Défense, JO du 1998-01-29, page 314*
+
+Réponse. - L'objection de conscience est une forme civile du service national dont la gestion est confiée au ministre chargé des affaires sociales par le code du service national : les objecteurs de conscience ont pour vocation de servir dans le cadre des administrations de l'Etat et des collectivités territoriales ou au sein d'organismes à caractère social ou humanitaire assurant une mission d'intérêt général. La mesure adoptée par le précédent gouvernement, tendant à faire participer les organismes à la prise en charge financière des intéressés, a pu créer des difficultés et conduire certaines structures à limiter le nombre d'appelés accueillis. Les conditions de préparation du budget 1998 n'ont pas permis de revenir sur cette disposition. Cependant, une circulaire a été transmise aux directeurs régionaux des affaires sanitaires et sociales pour que la période comprise entre la date d'incorporation et la date réelle d'affectation des jeunes auprès des organismes soit prise en compte comme temps de service. Cette mesure évitera que les conséquences des modifications du système de prise en charge ne pénalisent, de surcroît, les intéressés. Par ailleurs, des directives ont été adressées à la direction centrale du service national afin qu'elle accentue, dans son domaine de compétence, son effort pour équilibrer au maximum la ressource avec les demandes de l'emploi et de la solidarité. Ainsi, le statut des objecteurs de conscience ne sera, en aucun cas, remis en cause. Forme civile du service national actif à part entière, il ne saurait être envisagé que le service de l'objection de conscience se transforme, pour les jeunes gens nés avant le 1er janvier 1979 et astreints de ce fait aux obligations du service national, en possibilité de dispense.
