@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030607972
+
+- Question : [SEQ030607972](seq030607972.md) — Semaine du développement durable
+
+## Réponse
+
+*Équipement, JO du 2003-08-28, page 2681*
+
+Le Gouvernement a mis au coeur de ses préoccupations le développement durable. Pour ce qui concerne les actions de l'Etat, cela se concrétise par la mise en place d'une " stratégie nationale du développement durable ". Les politiques sectorielles dans le secteur du bâtiment sont poursuivies. Le ministère de l'équipement, des transports, du logement, du tourisme et de la mer, responsable de la mise en oeuvre de la transposition de la directive européenne sur l'efficacité énergétique des bâtiments, a pour objectif de mettre en place le dispositif le plus rapidement possible. Les certifications liées à la démarche " haute qualité environnementale " sont prêtes. La certification pour les bâtiments du tertiaire, mise au point par le Centre scientifique et technique du bâtiment, fait l'objet de tests en vraie grandeur, soutenus par l'Agence de l'environnement et de la maîtrise de l'énergie. Quant aux bâtiments à usage d'habitation, le référentiel correspondant est disponible auprès de l'association Qualitel depuis avril 2003, sous la dénomination " habitat et environnement ", référentiel millésime 2003. Le décret relatif à la durée d'exonération de la taxe foncière sur les propriétés bâties en faveur de certains logements répondant à des critères de qualité environnementale est en cours de consultation interministérielle. S'appuyant sur la certification mentionnée ci-dessus, il aura un rôle incitatif auprès de la maîtrise d'ouvrage pour qu'elle s'engage dans une démarche de développement durable. Concernant l'habitat indigne, des dispositions seront proposées dans le projet de loi " habitat pour tous ", visant à simplifier les dispositifs de lutte contre l'insalubrité et le péril, ainsi qu'à renforcer la lutte contre les bailleurs indélicats.
