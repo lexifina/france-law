@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950711756
+
+- Question : [SEQ950711756](seq950711756.md) — Producteurs de fruits et légumes et horticulteurs
+
+## Réponse
+
+*Agriculture, JO du 1996-01-04, page 16*
+
+Réponse. - Les difficultés de commercialisation auxquelles sont confrontés les producteurs de fruits et légumes sont provoquées par des causes structurelles et conjoncturelles qui se traduisent par un endettement excessif des exploitations. Pour répondre à cette situation, le Gouvernement a décidé d'accompagner le redressement financier des producteurs en difficulté par la mise en place de plans individuels d'allégement des charges. Cette mesure, qui consiste à la prise en charge partielle des intérêts des prêts professionnels de l'exploitation, tient compte du contexte particulièrement difficile de certaines productions. Le coût du travail salarié a fait l'objet de mesures d'allégement récentes. Les producteurs de fruits et légumes bénéficient, comme tous les exploitants agricoles employeurs de main d'oeuvre, de la réduction instituée par la loi no 95-882 du 4 août 1995 relative à des mesures d'urgence pour l'emploi et la sécurité sociale. Les exploitants agricoles bénéficient également de taux de cotisations de prestations familiales favorables résultant d'une anticipation sur l'échéancier de la loi quinquennale pour l'emploi du 20 décembre 1993. Il est à souligner que dans un souci de simplification, le projet de loi de finances pour 1996 prévoit de fusionner les deux mesures ci-dessus indiquées, à titre expérimental, du 1er juillet 1996 au 31 décembre 1997. La fusion s'opérera sur la base du mécanisme de réduction mis en place par la loi du 4 août 1995, mais en élevant le plafond des salaires ouvrant droit à cette réduction de 1,2 à 1,34 SMIC. Le soutien important des pouvoirs publics par le biais de l'allégement des charges financières et sociales des producteurs de fruits et légumes montre que ce secteur retient toute l'attention de l'Etat.
