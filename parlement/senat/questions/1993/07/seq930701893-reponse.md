@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930701893
+
+- Question : [SEQ930701893](seq930701893.md) — Moratoires concernant la création et l'extension de grandes surfaces
+
+## Réponse
+
+*Entreprises, JO du 1993-09-30, page 1793*
+
+Réponse. - Dans sa déclaration devant le Sénat, le 15 avril 1993, le Premier ministre a estimé utile de mettre à l'étude les conditions dans lesquelles des implantations commerciales nouvelles conduisent souvent à la disparition de toute vie locale dans les villages et dans les bourgs. Il a souhaité que soit suspendue toute nouvelle autorisation, en attendant le résultat de la concertation dont il a chargé le ministre des entreprises et du développement économique, chargé des petites et moyennes entreprises et du commerce et de l'artisanat. Cette concertation avec les représentants des diverses formes de commerce et de l'artisanat est actuellement en cours. Par ailleurs, des instructions ont été données aux préfets pour qu'ils procèdent dès à présent à la mise en place des observatoires départementaux d'équipement commercial, dont les travaux devraient permettre d'éclairer, à l'intention des commissions départementales, les critères sur lesquels doivent être fondées les décisions d'urbanisme commercial. En outre, il a été demandé aux préfets de faire rapport de la situation de l'équipement commercial dans leurs départements, afin de mieux apprécier l'impact du développement des grandes surfaces sur les commerces ruraux. Au terme de la concertation engagée, le Gouvernement arrêtera les mesures propres à répondre aux préoccupations des différents acteurs économiques concernés. Il convient d'ajouter que, parallèlement, les actions du ministère en faveur du maintien et du développement du commerce dans les zones rurales ont pris une nouvelle ampleur avec l'opération " Mille villages de France ". Une réflexion sur les centres-villes est également menée.
