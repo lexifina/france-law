@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020801614
+
+- Question : [SEQ020801614](seq020801614.md) — Préoccupations des accompagnateurs en montagne
+
+## Réponse
+
+*Jeunesse et sports, JO du 2004-05-13, page 1038*
+
+Les accompagnateurs en moyenne montagne ont exprimé leur inquiétude sur les conséquences du décret n° 2002-1269 du 18 octobre 2002 pris pour l'application de l'article 43 de la loi du 16 juillet 1984 modifiée. Ce décret précise la nature des diplômes permettant d'enseigner, animer, entraîner ou encadrer contre rémunération une activité physique ou sportive et définit notamment une liste d'activités physiques et sportives s'exerçant dans un environnement spécifique. A la suite à la publication de la loi n° 2003-708 du 1er août 2003 relative à l'organisation et à la promotion des activités physiques et sportives, ce décret est en cours de modification. Il précisera les conditions d'application de l'article L. 363-1 du code de l'éducation, qui codifie l'article 43 précité. Le projet de décret reprend les dispositions relatives aux activités s'exerçant dans un environnement spécifique. Pour celles-ci, la formation conduisant à la délivrance du diplôme sera assurée par un établissement sous la tutelle du ministre de la jeunesse, des sports et de la vie associative. Les activités du ski, de l'alpinisme et assimilées figureront sur la liste ministérielle des activités s'exerçant en environnement spécifique. Aussi, les accompagnateurs en moyenne montagne seront concernés par ce texte puisque les dispositions spécifiques du décret liées aux activités s'exerçant en environnement spécifique s'appliqueront au diplôme d'accompagnateur de moyenne montagne du brevet d'Etat d'alpinisme. L'exercice de l'activité des personnes titulaires du diplôme d'accompagnateur de moyenne montagne du brevet d'Etat d'alpinisme ne sera pas remis en cause par le projet de décret.
