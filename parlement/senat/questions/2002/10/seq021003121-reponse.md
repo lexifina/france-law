@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021003121
+
+- Question : [SEQ021003121](seq021003121.md) — Port de la muselière par les veaux de lait sous la mère
+
+## Réponse
+
+*Agriculture, JO du 2003-05-15, page 1605*
+
+L'arrêté du 20 janvier 1994 modifié par l'arrêté du 8 décembre 1997 établit les normes minimales relatives à la protection des veaux, définis comme étant " des animaux de l'espèce bovine âgés de moins de six mois ". Ces dispositions résultent de la transposition de la directive 91/629/CEE du Conseil du 19 novembre 1991, modifiée par la directive 97/2/CE du Conseil du 20 janvier 1997. Certaines obligations réglementaires ne s'appliquent pas cependant à tous les élevages. Ainsi, les obligations relatives au logement collectif des veaux notamment ne concernent pas les exploitations de moins de six veaux ainsi que les " veaux maintenus auprès de leur mère en vue de leur allaitement ". Etant donné les différentes pratiques existant pour l'élevage des veaux sous la mère, il convient d'apprécier selon les cas s'ils entrent dans cette dernière catégorie. Par ailleurs, depuis la parution de l'arrêté du 20 janvier 1994, il est interdit dans toutes les exploitations, quel que soit leur type de production, de museler les veaux. En outre, depuis le 1er janvier 1998, l'attache de ces animaux n'est pas autorisée comme système d'élevage, mais seulement pour une période déterminée lors des repas. Le veau sous la mère est une production traditionnelle qui contribue au maintien de l'activité agricole et à l'aménagement du territoire dans des régions économiquement fragiles. Les cahiers des charges des signes de qualité se fondent sur un respect de la réglementation. Les méthodes d'élevage permettant de concilier à la fois le respect de ces normes et la préservation d'une production de veaux de qualité doivent donc être privilégiées dans ce cadre.
