@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508618
+
+- Question : [SEQ980508618](seq980508618.md) — Enseignement des langues régionales
+
+## Réponse
+
+*Éducation, JO du 1998-10-01, page 3123*
+
+Réponse. - Le développement de l'enseignement des langues et cultures régionales à tous les niveaux de la scolarité constitue une des priorités constantes de la politique conduite par le ministère de l'éducation nationale, de la recherche et de la technologie, qui s'attache à améliorer les conditions de leur apprentissage dans les académies de leur zone d'influence. La préoccupation d'assurer à cet élément essentiel du patrimoine national dans l'expression de sa diversité la place qui lui revient dans la formation des élèves a été réaffirmée par la circulaire nº 95-086 du 7 avril 1995 relative à l'enseignement des langues et cultures régionales. Dans ce cadre, la mise en place de réseaux académiques doit permettre de mieux adapter l'offre d'enseignement aux demandes exprimées par les familles. Elle doit également favoriser et renforcer la continuité de ces enseignements entre le collège et le lycée en rendant plus aisée et plus large leur implantation géographique. Aussi, il n'a jamais été envisagé de réduire le nombre d'heures d'enseignement qui leur est consacré. Il y a de plus lieu de rappeler que les langues régionales ayant désormais un statut d'enseignement réglementaire à part entière, l'attribution des moyens d'enseignement relève des autorités académiques en vertu de la délégation de pouvoir qu'elles ont reçue dans le cadre de la déconcentration administrative. Il leur appartient donc d'organiser cet enseignement, comme pour les autres disciplines, dans le cadre des dotations horaires d'enseignement, dont elles disposent. Elles sont par essence très au fait notamment de l'intérêt culturel que peut attacher la population à la dispense de ces enseignements.
