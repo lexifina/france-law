@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508469
+
+- Question : [SEQ980508469](seq980508469.md) — Développement des pratiques culturelles dans les quartiers en difficulté
+
+## Réponse
+
+*Culture, JO du 1998-09-24, page 3060*
+
+Réponse. - Beaucoup de quartiers périphériques disposent d'équipements socio-culturels et d'équipements de proximité qui sont des lieux à la fois de diffusion, de création et d'initiation artistique. Leur répartition géographique est inégale sur le territoire et le souci de Mme la ministre de la culture et de la communication est de soutenir les projets d'implantation dans les zones urbaines ou rurales défavorisées. Comme le rappelle l'honorable parlementaire, les efforts conjoints du ministère délégué à la ville et du ministère de la culture et de la communication, dans le cadre des contrats de ville, ont permis de développer des actions culturelles pluridisciplinaires. Les exemples des cafés-musique, des espaces culture multimédia, des lieux de répétition pour les musiciens amateurs illustrent cette volonté de densifier et d'enrichir le réseau culturel en région. La ministre souligne l'importance d'une charte de mission de service public mise en uvre avec les institutions culturelles, en particulier les scènes nationales, les centres dramatiques nationaux, les orchestres, les théâtres lyriques et les compagnies chorégraphiques. Cette charte redéfinit les responsabilités de ces institutions, notamment du point de vue de l'élargissement et du renouvellement des publics. Celle-ci implique une forte dimension pédagogique et d'animation des publics des collectivités territoriales concernées. Des moyens nouveaux seront engagés au titre du budget 1999 du ministère de la culture et de la communication et feront l'objet de délégations aux directions régionales des affaires culturelles en charge de répartir les aides pour l'ensemble de ces activités.
