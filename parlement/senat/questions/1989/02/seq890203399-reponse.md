@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890203399
+
+- Question : [SEQ890203399](seq890203399.md) — Surpopulation carcérale
+
+## Réponse
+
+*Justice, JO du 1989-04-20, page 640*
+
+Réponse. - Le garde des sceaux, ministre de la justice, partage les préoccupations de l'honorable parlementaire pour ce qui concerne l'effectif élevé de la population pénale dont la conséquence est, en particulier, de rendre plus difficiles les conditions de travail des diverses catégories de personnel. Même si l'effectif de la population pénale est en sensible diminution au 1er janvier 1989 (46 531 personnes étaient incarcérées alors que ce chiffre s'élevait à 54 068 le 1er juin 1988) il est néanmoins nécessaire de doter rapidement l'administration pénitentiaire française des équipements supplémentaires. Le programme de création de 13 000 places nouvelles de détention répond à cet objectif puisque l'ouverture de 25 établissements nouveaux dont la réalisation s'échelonnera de février 1990 à décembre 1992, aura pour effet de permettre, certes, un accroissement de la capacité globale des prisons, mais également d'améliorer, par opération de substitution d'établissement ou de redéploiement de la population pénale, le dispositif carcéral actuel. Toutefois, l'accroissement des capacités d'accueil et la modernisation des prisons ne sauraient être considérés comme étant les seules solutions possibles pour faire face à la progression de la population pénale. Aussi, paraît-il impérieux de poursuivre les efforts pour accroître le recours aux peines de substitution à l'emprisonnement. Celles-ci ont d'ailleurs progressé au premier semestre 1989 de 4,9 p. 100 par rapport au même semestre de référence de 1988. Ce chiffre témoigne de l'efficacité des actions engagées pour limiter les courtes peines d'emprisonnement qui constituent avec les prévenus dont les temps de détention ont augmenté ces dernières années, l'un des facteurs principaux de l'encombrement actuel des établissements.
