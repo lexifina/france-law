@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930902600
+
+- Question : [SEQ930902600](seq930902600.md) — Contrôle par un magistrat des effectifs de police judiciaire
+
+## Réponse
+
+*Justice, JO du 1993-11-04, page 2096*
+
+Réponse. - Dans son rapport du 5 juin 1991, la commission de contrôle du Sénat chargée d'examiner les modalités d'organisation et les conditions de fonctionnement des services relevant de l'autorité judiciaire a souhaité que soient renforcés les pouvoirs de direction, de contrôle et de surveillance de l'autorité judiciaire sur la police judiciaire. Conscients que la maîtrise des moyens et en particulier des effectifs par les ministères de l'intérieur et de la défense influe sur la réalité de la direction de la police judiciaire par les magistrats, MM. Haenel et Arthuis ont proposé que le magistrat ait le contrôle des effectifs de police judiciaire mis à sa disposition lors de chaque enquête. En l'état actuel, la répartition des effectifs relève de la seule compétence des ministères de l'intérieur et de la défense. Néanmoins, les récentes dispositions instituant les directeurs départementaux de la sécurité publique et les plans départementaux de sécurité (décret no 93-1030 du 31 août 1993), qui prévoient une définition concertée entre le préfet et le procureur de la République des orientations départementales de sécurité, devraient permettre aux magistrats de jouer un rôle important dans la répartition des effectifs affectés aux missions de police judiciaire. Par ailleurs, il convient de souligner que la Chancellerie vient de proposer une modification du code de procédure pénale afin que l'institution des services de police judiciaire s'opère au terme d'une meilleure coordination entre les ministères intéressés. Une telle disposition permettra à l'autorité judiciaire de faire valoir ses besoins en personnel afin de garantir l'efficacité des missions de police judiciaire qui demeurent sous sa seule direction.02600
