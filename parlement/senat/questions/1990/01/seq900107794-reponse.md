@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900107794
+
+- Question : [SEQ900107794](seq900107794.md) — Classement des grandes marques dans le patrimoine national
+
+## Réponse
+
+*Culture, JO du 1990-04-05, page 712*
+
+Réponse. - Dans les réponses qui ont été faites aux questions écrites du sénateur Roger Poudonson et du député Léonce Deprez, il était indiqué qu'une seule étude allait être entreprise en collaboration avec les services du ministère de la culture, de la communication, des grands travaux et du Bicentenaire afin de voir dans quelle mesure ces marques commerciales pourraient être classées dans le patrimoine national. La loi du 31 décembre 1913 sur les monuments historiques ne paraît pas pouvoir constituer un support juridique valable pour protéger des marques commerciales même si elles peuvent être considérées comme faisant partie du patrimoine national. En effet, les règles de droit applicables à la propriété des biens de cette nature paraissent difficilement compatibles avec celles qui régissent la propriété des biens meubles et immeubles protégés dans le cadre de la loi sur les monuments historiques. Une législation particulière devrait être conçue pour répondre à la préoccupation dont il est fait état dans les réponses aux questions écrites de Roger Poudonson et Léonce Deprez en date du 9 mars 1989 et du 20 mars 1989. Une telle législation devrait être envisagée sur le terrain du droit des marques par une protection spécifique et une procédure adaptée dont les modalités restent à déterminer. Elle nécessite une large réflexion interministérielle impliquant, outre le ministère de l'économie, des finances et du budget et celui de la culture, de la communication, des grands travaux et du Bicentenaire, différents départements tels le ministère de l'industrie, le ministère de la justice mais aussi l'institut national de la propriété industrielle.
