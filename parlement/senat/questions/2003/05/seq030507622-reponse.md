@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030507622
+
+- Question : [SEQ030507622](seq030507622.md) — Crédit d'impôt favorisant l'égal accès de tous aux soins
+
+## Réponse
+
+*Santé, JO du 2003-09-25, page 2913*
+
+Le ministre de la santé, de la famille et des personnes handicapées appelle tout d'abord l'attention de l'honorable parlementaire sur la part que représentent les organismes de protection sociale de base dans la prise en charge des soins de ville. Il ressort en effet des données de la direction de la recherche, des études, de l'évaluation et des statistiques (DRESS) que ce taux est de 79 % hors indemnités journalières, compte non tenu des dépassements de tarifs, et de 73 % si on les inclut. L'assurance maladie reste donc un financement très majoritaire des dépenses de soins. Le plafond maximal de ressources pour être éligible à la CMU complémentaire est de 566,50 euros par mois pour une personne seule depuis le 1er juillet 2003. Pour limiter les effets de seuils, un avenant à la convention d'objectifs et de gestion (COG), signé entre l'Etat et la Caisse nationale de l'assurance maladie des travailleurs salariés (CNAMTS) le 7 mars 2002, précise la création d'une aide à l'acquisition de contrats de couverture maladie complémentaire et le plafond majoré de 10 %. Le montant de l'aide, de 115 euros pour la première personne, varie selon la composition du foyer et, éventuellement, selon le choix de la caisse, selon l'âge des bénéficiaires. La question de la déductibilité fiscale, soit sous forme de déduction du revenu brut imposable, soit sous forme de crédit d'impôt, des primes payées par les titulaires de contrats individuels d'assurance maladie complémentaire est l'une des voies envisagées pour favoriser une meilleure couverture complémentaire. Une telle mesure nécessite au préalable une expertise approfondie qui est en cours. Elle doit, en tout état de cause, faire l'objet d'une disposition en loi de finances.
