@@ -1,0 +1,9 @@
+# Réponse à la question SEQ891006472
+
+- Question : [SEQ891006472](seq891006472.md) — Classification des maladies sexuellement transmissibles
+
+## Réponse
+
+*Solidarité, JO du 1990-03-08, page 506*
+
+Réponse. - Les pouvoirs publics portent une attention constante au grave problème de santé publique que constitue, par ses conséquences tant humaines qu'économiques, la propagation des maladies transmises par la voie sexuelle. Cette attention se trouve d'ailleurs renforcée par le biais des actions de lutte contre l'infection par le virus de l'immunodéficience humaine. Elaborée en 1942 puis remaniée par ordonnance en 1960, la législation actuelle relative à la lutte contre les maladies vénériennes ne paraît plus adaptée, aussi bien aux réalités épidémiologiques actuelles, certaines maladies ayant beaucoup régressé, d'autres étant apparues depuis lors, qu'à l'approche thérapeutique et sociale de leur traitement. Conscient de ces contraintes et de la nécessité d'agir à bon escient, j'ai confié au Conseil supérieur d'hygiène publique de France qui relève de mon département ministériel le soin de proposer, dans le cadre du code de la santé publique, un dispositif delutte contre les maladies sexuellement transmissibles approprié. Ce dispositif devra intégrer tout à la fois une refonte de la surveillance épidémiologique de ces maladies, l'éducation pour la santé, le dépistage et le traitement des malades, à la lumière de l'évolution des connaissances et des pratiques dans ces différents domaines. Ce dispositif aura également à tenir compte de la répartition des compétences entre l'Etat et les collectivités décentralisées : aux termes de l'article 37 de la loi n° 83-663 du 22 juillet 1983 complétant la loi n° 83-8 du 7 janvier 1983, le département est désormais responsable des services et actions relatifs à la lutte contre les fléaux sociaux et en assure le financement.
