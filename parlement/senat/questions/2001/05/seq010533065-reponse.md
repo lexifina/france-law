@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010533065
+
+- Question : [SEQ010533065](seq010533065.md) — Lutte contre l'immigration clandestine
+
+## Réponse
+
+*Intérieur, JO du 2001-08-09, page 2626*
+
+Les conclusions adoptées dans le cadre du séminaire sur la lutte contre les filières d'immigration clandestine tenu à Paris les 20 et 21 juillet 2000 ont été très largement mises en oeuvre. Le CIREFI, Centre d'information, de réflexion et d'échanges sur les flux d'immigration, a vu son rôle moteur dans ce domaine confirmé au cours de ces derniers mois par le renforcement des outils existants, notamment en matière d'échanges d'informations rapides. Cette enceinte fournit par exemple des fiches d'alerte concernant les navires suspects de transporter des migrants, du type du navire East Sea. Le développement des réseaux d'officiers de liaison dans les pays sources ou de transit et la mutualisation de ce réseau a connu récemment une avancée décisive avec la constitution d'un tel réseau dans les Balkans occidentaux, qui constitue actuellement une région de transit de l'immigration vers l'Union européenne très importante. Le renforcement de la coopération avec les pays sources se traduit notamment par des échanges accrus entre l'Union européenne et la Chine. Les enceintes de coopération policière d'Europol et Interpol sont associées tous les jours davantage à l'action des Etats en matière de lutte contre l'immigration clandestine - Interpol participe notamment à la signalisation des navires suspects évoquée ci-dessus. Enfin, le projet de directive concernant le renforcement des sanctions à l'égard des entreprises de transport a été adopté par le Conseil des 27 et 28 juin dernier. Quant à celui sur les sanctions à l'encontre des passeurs, il devrait être très prochainement adopté. Le séminaire de Paris a ainsi débouché sur des avancées notables en matière de lutte contre l'immigration clandestine.
