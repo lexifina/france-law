@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021002816
+
+- Question : [SEQ021002816](seq021002816.md) — Création de places dans les établissements spécialisés pour adultes handicapés
+
+## Réponse
+
+*Personnes handicapées, JO du 2003-06-12, page 1922*
+
+Face aux importantes listes d'attente de placement en établissements, le Gouvernement, conscient de la nécessité de remédier à une situation difficile, entend accroître l'offre d'accueil des personnes polyhandicapées sur l'ensemble du territoire pour répondre aux besoins de la population. Pour la période 1999-2002, 1 760 places de maisons d'accueil spécialisées (MAS), 2 092 places de foyers d'accueil médicalisés (FAM) et 7 000 places en centres d'aide par le travail ont pu être créées par le plan pluriannuel de création de places pour adultes lourdement handicapés (1999-2003). Afin d'accélérer le rythme de création de places, le Gouvernement a prévu le doublement de la tranche 2003 du plan pluriannuel de création de places pour les adultes lourdement handicapés, le renforcement du plan triennal en faveur des enfants, des adolescents et des adultes handicapés (2001-2003) et le développement du dispositif de soutien à domicile des personnes très lourdement handicapées. Pour 2003, le doublement de l'enveloppe nationale du plan pour adultes lourdement handicapés, dont le montant s'élève à 70,12 MEUR de crédits d'assurance maladie et à 30 MEUR de crédits d'Etat, correspond à un objectif de 2 200 places nouvelles de MAS et de FAM et de 3 000 places nouvelles de CAT. L'enveloppe de crédits concernant les enfants, les adolescents et les adultes handicapés (SESSAD, enfants polyhandicapés, autistes et traumatisés crâniens) prévue dans le cadre du plan triennal est, quant à elle, portée en 2003, au plan national, à 48,70 MEUR. L'ensemble de ces mesures devrait permettre une amélioration qualitative et quantitative de la prise en charge et de l'accompagnement des adultes lourdement handicapés.
