@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040913783
+
+- Question : [SEQ040913783](seq040913783.md) — Situation des petits agriculteurs dans les zones de montagne
+
+## Réponse
+
+*Agriculture, JO du 2005-03-24, page 829*
+
+Le principe de l'encadrement du qualificatif produit « fermier » ou de la mention « produit à la ferme » ou « produit de la ferme » ou de toute autre dénomination équivalente a été inscrit dans la loi d'orientation agricole (LOA) du 9 juillet 1999, codifiée depuis dans l'article L. 640.2 du code rural. Les conditions doivent être définies par un décret, sans préjudice des réglementations en vigueur à la date de promulgation de la loi d'orientation agricole susvisée, que celles-ci soient communautaires ou nationales ou visent des conditions approuvées pour bénéficier d'un label rouge. L'objectif du décret « fermier » est de lutter contre toute utilisation abusive de la mention « fermier » tout en préservant les acquis économiques pour lesquels une réglementation antérieure à 1999 encadre l'utilisation de ce terme ; c'est notamment le cas du secteur avicole, du secteur des fromages et des notices techniques label rouge l'ayant explicitement prévu. Un projet de décret a été élaboré après concertation initiale avec les représentants des associations de consommateurs et de certaines organisations professionnelles agricoles (APCA, FNSEA, confédération paysanne, fédération des producteurs fermiers). Les réunions de travail menées ensuite avec les organisations professionnelles concernées ainsi qu'avec les consommateurs ont permis de progresser vers un texte susceptible, je l'espère, d'être accepté par tous à l'issue de son élaboration. Pour autant, les travaux seront appelés à se poursuivre afin de préparer des arrêtés susceptibles d'en définir, par produits ou familles de produits, les conditions spécifiques d'application.
