@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000827320
+
+- Question : [SEQ000827320](seq000827320.md) — Vente par la France d'un satellite civil à Taïwan
+
+## Réponse
+
+*Affaires étrangères, JO du 2000-09-28, page 3317*
+
+Réponse. - La société Matra-Marconi-Space a conclu le 29 novembre 1999 avec le National Space Planning Office de Taiwan un contrat commercial pour la fourniture d'un satellite d'observation de la terre. La commande de ce satellite s'inscrit dans le cadre d'un programme scientifique (Rocsat 2) visant à la collecte d'informations scientifiques concernant la gestion de l'agriculture et des forêts (inventaires agricoles et forestiers, prévision des récoltes), l'utilisation des sols (inventaires, cartographie), le suivi des catastrophes naturelles (inondations en particulier). On peut rappeler que le National Space Planning Office taiwanais a planifié la commande de trois satellites d'observation scientifique. La première commande (Rocsat 1) a été remportée en 1994 par l'industrie américaine (TRW). L'appel d'offres pour le troisième satellite (Rocsat 3) devrait être lancéé en 2001. Le développement des usages scientifiques et économiques de l'imagerie satellitaire constitue une réalité nouvelle qu'il n'est pas possible d'ignorer. De nombreux pays se dotent ou vont se doter dans les prochaines années de capacités dans ce domaine. D'ores et déjà sont disponibles sur le marché des images (notamment celles fournies par le satellite Ikonos et commercialisées par la société américaine Space Imaging) d'une résolution nettement plus fine que celle que permettra l'instrument optique embarqué sur le satellite Rocsat 2. S'agissant de la visite en Europe du Premier ministre chinois, M. Zhu Rongji, une étape en France n'avait pas été envisagée. Il doit néanmoins être rappelé que les douze derniers mois ont été marqués par un flux régulier de visites à haut niveau entre la France et la Chine.
