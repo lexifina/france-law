@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941209000
+
+- Question : [SEQ941209000](seq941209000.md) — Démarches de La Poste auprès des communes en vue de leur faire signer une convention
+
+## Réponse
+
+*Industrie, JO du 1995-03-16, page 640*
+
+Réponse. - L'honorable parlementaire fait référence à la convention de prestations de services que les responsables de La Poste proposent à certains maires dès lors qu'une agence postale existe dans leur commune, c'est-à-dire une forme particulière de point de contact géré par des personnes n'appartenant pas à La Poste. Il ne s'agit pas en l'occurrence de " démarcher " des communes, mais de négocier avec elles une optimisation de l'offre de services de La Poste pour en garantir la pérennité. Cette forme de partenariat conduit à la signature, par La Poste et chacun des maires concernés, d'une convention. Par ailleurs la loi du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire prévoit que les objectifs en matière d'aménagement du territoire et de services à rendre aux usagers sont fixés dans les contrats de plan des entreprises nationales placées sous la tutelle de l'Etat et chargées d'un service public. A ce titre le contrat de plan entre l'Etat et La Poste indique que l'offre de services de La Poste pourra intervenir dans le cadre de formules adaptées aux caractéristiques locales, en association ou partenariat avec les collectivités locales, les entreprises publiques, les administrations de l'Etat, ainsi qu'avec des acteurs économiques locaux. De telles réalisations doivent être précédées des expérimentations et de la concertation nécessaires, et leur réalisation intervient dans un cadre contractuel type, qui précise les engagements de chacune des parties ainsi que les garanties apportées quant à la qualité de service rendue aux usagers.
