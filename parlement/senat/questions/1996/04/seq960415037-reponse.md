@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960415037
+
+- Question : [SEQ960415037](seq960415037.md) — Première inscription en université en France des titulaires du baccalauréat français dont les familles résident à l'étranger
+
+## Réponse
+
+*Éducation, JO du 1996-12-05, page 3234*
+
+Réponse. - Les opérations d'inscription dans l'enseignement supérieur des élèves de l'étranger titulaires du baccalauréat français s'achèvent actuellement. Ces opérations ont commencé fin avril par l'examen des dossiers de recherche de première inscription en université, qui permettent de prévoir et d'orienter au mieux les candidatures. La note de service du 28 juin 1994 a par ailleurs été actualisée (note de service du 24 juin 1996 - Bulletin officiel de l'éducation nationale no 27 du 4 juillet 1996). La procédure et les délais à respecter ont été rappelés aux présidents d'université et aux recteurs. Ces recommandations ont eu pour effet d'améliorer la communication entre les familles concernées, les universités et les services académiques compétents, en termes d'information et de délais. En outre, les procédures d'échange d'information entre le ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche et les académies ont été améliorées. Dès le début de la campagne d'inscription, en juillet, un bilan de la situation a pu être constamment tenu à jour. Ainsi ce ministère a-t-il été informé des quelques difficultés qui se sont présentées. Ces dernières, enquête faite, trouvaient leur origine dans des aléas tels qu'une date d'envoi trop tardive ou des omissions dans la constitution des dossiers. A l'issue de cette procédure à laquelle le ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche a apporté un soin attentif, les quelque cinquante cas encore en suspens au mois de septembre dernier ont pu recevoir une solution.
