@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040110695
+
+- Question : [SEQ040110695](seq040110695.md) — Crise du logement social
+
+## Réponse
+
+*Équipement, JO du 2004-04-01, page 808*
+
+Le ministre de l'équipement, des transports, du logement, du tourisme et de la mer, qui a lui-même employé, pour définir la situation actuelle, l'expression de " crise du logement ", partage l'analyse sur la situation de pénurie qui prévaut dans ce domaine, et qui est due à un déficit de réalisation de logements depuis plusieurs années. C'est la raison pour laquelle il s'est attaché, dès son arrivée, à travers la loi " Urbanisme et habitat ", à lever certains blocages en matière foncière qui pouvaient résulter de la mise en oeuvre de la loi " Solidarité et renouvellement urbains ", et à favoriser l'investissement locatif à travers un dispositif d'amortissement fiscal rénové. Parallèlement il s'est investi dans une relance du logement social, qui a permis de porter le nombre de logements locatifs sociaux financés à 58 000 en 2003, l'objectif fixé pour 2004 étant de 80 000 logements locatifs sociaux. Enfin, l'accession sociale à la propriété est encouragée, aussi bien à travers une reconfiguration du dispositif du prêt à taux zéro, qui permet de mieux aider les ménages les plus modestes, que par la création du prêt social location accession, qui pourra bénéficier à 10 000 ménages désireux d'accéder à la propriété dès 2004. C'est en agissant sur ces différents leviers et en mobilisant ainsi l'ensemble des acteurs de la chaîne du logement qu'il sera possible d'atteindre, après 314 000 logements en 2003, chiffre qui représente le niveau le plus élevé depuis quatorze ans, si l'on excepte 1999, 320 000 logements mis en chantier chaque année, soit le chiffre considéré par l'INSEE comme nécessaire pour répondre à la crise du logement.
