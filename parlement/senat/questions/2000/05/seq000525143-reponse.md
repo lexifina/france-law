@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000525143
+
+- Question : [SEQ000525143](seq000525143.md) — Enseignement professionnel : respect d'une charte nationale des stages précisant les droits et obligations des jeunes et des entreprises
+
+## Réponse
+
+*Enseignement professionnel, JO du 2000-10-19, page 3581*
+
+Réponse. - L'une des préoccupations du ministre délégué à l'enseignement professionnel est de veiller à améliorer les conditions d'activité des jeunes en stage en entreprise. Des mesures ont déjà été prises pour définir les droits et obligations des jeunes et des entreprises dans le cadre de la convention-type de stage des élèves de lycées professionnels, qui fixe entre l'établissement scolaire et l'entreprise d'accueil les conditions administratives et pédagogiques du stage. Plus récemment, la circulaire aux recteurs du 26 juin 2000 relative à l'encadrement des périodes en entreprise dans les formations professionnelles de niveaux V et IV des lycées vise notamment à renforcer le rôle d'information des enseignants auprès des entreprises dans la phase préparatoire au stage : c'est en effet au cours de cette phase que doit s'élaborer la convention de stage entre l'établissement, l'entreprise et l'élève, qui concrétise les engagements des acteurs concernant les objectifs et les modalités de réalisation de la période en entreprise. Pour renforcer cette notion d'engagement entre partenaires, le ministre délégué à l'enseignement professionnel a l'intention de lui donner une dimension nationale, sous forme de protocole national sur les périodes de formation en entreprise, qui fixerait les droits et obligations des jeunes, ds lycées et des entreprises. Des négociations sont prévues avec les organisations représentatives des employeurs et des salariés et les branches professionnelles dans ce but.
