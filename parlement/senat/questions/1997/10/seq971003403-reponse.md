@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971003403
+
+- Question : [SEQ971003403](seq971003403.md) — Stage chez le praticien pour les futurs généralistes
+
+## Réponse
+
+*Santé, JO du 1998-06-04, page 1819*
+
+Réponse. - Les dispositions réglementaires du 16 mai 1997 s'inscrivent dans le cadre de la mise en place d'un stage de six mois des résidents auprès de praticiens généralistes agréés rendu obligatoire par la directive 93/16/CEE du Conseil des Communautés européennes du 5 avril 1993 visant à faciliter la libre circulation des médecins et la reconnaissance mutuelle de leurs diplômes, certificats et autres titres. Celle-ci prévoit dans son article 31 c) que la formation spécifique en médecine générale de six mois au moins doit se dérouler dans " le cadre d'une pratique de médecine générale agréée ou d'un centre agréé dans lequel les médecins dispensent des soins primaires ". Le décret no 97-495 du 16 mai 1997, modifié par le décret no 97-1213 du 24 décembre 1997, reprend cette disposition dans son article 1er et n'institue aucune différence entre les médecins généralistes répondant aux critères susvisés dès lors qu'ils interviennent dans une activité de médecine clinique. En effet, cet article dispose que peuvent être agréés comme maître de stage, les médecins généralistes qui exercent leur activité " dans un cabinet libéral, un dispensaire, un service de protection infantile, un service de santé scolaire, un centre de santé ou tout autre centre agréé dans lequel des médecins généralistes dispensent des soins primaires, à l'exception des services hospitaliers ". Les modalités pratiques de mise en uvre de ce stage visent à prendre en compte la diversité des modes d'exercice possibles puisqu'elles permettent de " séquencer " le stage autour de plusieurs maîtres de stage. Dès lors, rien n'interdit aux médecins exerçant en centres de santé de présenter leur candidature pour être agréés comme maîtres de stage par les unités de formation et de recherche médicales.
