@@ -140,10 +140,6 @@ Arrêté du 10 mars 1977.
 
 MINISTERE DE L'AGRICULTURE.
 
-Conseil régional de la forêt et des produits forestiers :
-
-Arrêté du 21 juin 1966 modifié portant création de conseils régionaux de la forêt et des produits forestiers.
-
 Commission départementale consultative paritaire des baux
 
 ruraux :
@@ -433,3 +429,7 @@ Décret n° 83-1034 du 1er décembre 1983.
 Commission chargée de se prononcer sur l'exécution des travaux d'équipement et d'amélioration prévus à l'article 1er de la loi n° 64-645 du 1er juillet 1964 :
 
 Décret n° 65-374 du 18 mai 1965.
+
+NOTA :
+
+Décret 99-971 1999-11-24 art. 3 : La référence au ministère des anciens combattants et victimes de guerre dans les textes réglementaires en vigueur est remplacée par la référence au ministère chargé des ancien combattants.
