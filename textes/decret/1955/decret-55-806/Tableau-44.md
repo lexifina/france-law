@@ -1,16 +1,28 @@
 # Article Tableau 44
 
-DESIGNATION DES MALADIES
+DÉSIGNATION DES MALADIES
 
 Lésions eczématiformes récidivant après nouvelle exposition au risque ou confirmées par un test épicutané positif au produit manipulé
 
-DELAI de prise en charge : 15 jours
+DÉLAI de prise en charge
 
-LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies
+15 jours
 
-Manipulation ou emploi habituels, dans l'activité professionnelle, de tous produits et notamment ;
+DÉSIGNATION DES MALADIES
 
-- les amynoglycosides, dont la streptomycine, la néomycine et leurs sels ;
+Conjonctivite aiguë bilatérale récidivant en cas de nouvelle exposition ou confirmée par un test
+
+DÉLAI de prise en charge
+
+7 jours
+
+LISTE INDICATIVE DES PRINCIPAUX TRAVAUX
+
+susceptibles de provoquer ces maladies
+
+Manipulation ou emploi habituels, dans l'activité professionnelle, de tous produits, et notamment :
+
+- les aminoglycosides, dont la streptomycine, la néomycine et leurs sels ;
 
 - les pénicillines, leurs sels, les céphalosporines et les produits en renfermant ;
 
