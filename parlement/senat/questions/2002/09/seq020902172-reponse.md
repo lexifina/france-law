@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020902172
+
+- Question : [SEQ020902172](seq020902172.md) — Communication des élus locaux sur le thème de la qualité de l'eau potable
+
+## Réponse
+
+*Santé, JO du 2003-02-27, page 737*
+
+Plusieurs dispositions réglementaires ont pour objectif de permettre une information des élus et du public sur le thème de la qualité de l'eau potable. Le décret n° 94-841 du 26 septembre 1994 relatif aux conditions d'information sur la qualité de l'eau distribuée en vue de la consommation humaine prévoit que les données relatives à la qualité de l'eau distribuée sont mises à disposition du public via l'affichage en mairie des résultats d'analyses réalisées dans le cadre du contrôle sanitaire des eaux. Ces résultats sont accompagnés d'une expertise sanitaire réalisée par la direction départementale des affaires sanitaires et sociales. De plus, conformément aux dispositions de l'arrêté du 10 juillet 1986 relatif aux factures de distribution de l'eau et de collecte et de traitement des eaux usées, une note de synthèse de la qualité de l'eau distribuée l'année précédente est jointe à la facture de l'abonné. Outre le bilan de qualité, cette note peut également contenir des éléments de recommandation de consommation lorsque l'eau distribuée ne respecte pas l'ensemble des limites de qualité. Par ailleurs, les directions départementales et régionales des affaires sanitaires et sociales (DDASS et DRASS) établissent régulièrement des synthèses et plaquettes d'information sur la qualité de l'eau aux échelons régional et départemental, accessibles pour quelques-unes sur des sites internet locaux où peuvent être également consultés les résultats du contrôle sanitaire. Par ailleurs, une réflexion pour améliorer la qualité de l'information fournie au public dans ce domaine et sur la perception de ce dernier sera engagée en 2003 et conduira, le cas échéant, à des instructions pour homogénéiser et améliorer cette information.
