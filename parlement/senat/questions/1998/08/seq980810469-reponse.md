@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980810469
+
+- Question : [SEQ980810469](seq980810469.md) — Formation des joueurs de football en France
+
+## Réponse
+
+*Jeunesse, JO du 1998-12-03, page 3877*
+
+Réponse. - La charte du football professionnel en France prévoit un certain nombre de dispositions permettant aux clubs formateurs d'obtenir des indemnités compensatrices lorsqu'un joueur formé par le club le quitte avant le terme de ses obligations. Cette disposition est jugée nécessaire et appliquée par les clubs français entre eux : elle permet aux clubs formateurs de conserver le bénéfice de leur effort en matière de formation. Toutefois, l'intérêt de cette disposition peut être réduit à néant si un club peut perdre un joueur sans contrepartie dès lors que celui-ci est réclamé par le club européen au terme d'une transaction qui n'est pas réalisée sous l'empire de la charte française du football professionnel. Il paraît nécessaire qu'un système harmonisé d'indemnités de formation, dues lors du départ d'un joueur du club qui l'a formé, soit établi par les instances internationales du football et reconnu par les instances communautaires. Cet objectif n'est toutefois pas facile à atteindre, car toute entrave à la libre circulation des joueurs ou même à la concurrence entre clubs au travers des joueurs peut se heurter aux principes communautaires. La ministre de la jeunesse et des sports estime qu'il y a place pour des aménagements aux principes communautaires justifiés par la nécessaire protection de l'intérêt sportif et social de la compétition. Elle défend, dans les rencontres européennes, la nécessaire prise en compte de la spécificité sportive. Par ailleurs, Mme la ministre souhaite que la prochaine loi sur le sport, actuellement en préparation, comprenne des dispositions de nature à protéger les clubs formateurs, qui participent ainsi à une mission de service public du sport.
