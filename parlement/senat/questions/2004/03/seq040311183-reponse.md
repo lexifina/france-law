@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040311183
+
+- Question : [SEQ040311183](seq040311183.md) — Délibérations et bilan financier de la Fondation franco-allemande
+
+## Réponse
+
+*Anciens combattants, JO du 2004-07-22, page 1647*
+
+Le ministre délégué aux anciens combattants tient à rappeler que la Fondation Entente franco-allemande a été créée par un accord international du 31 mars 1981 signé entre le Chancelier allemand Helmut Schmidt et le Président de la République française Valéry Giscard-d'Estaing. Aux termes de ses statuts, cette fondation a pour objet d'une part, de recevoir les sommes que la République fédérale met à sa disposition en vue du règlement des questions particulières relatives à l'enrôlement de force des ressortissants français du Haut-Rhin, du Bas-Rhin et de la Moselle dans l'armée allemande, ainsi que de développer par d'autres projets la coopération entre la France et la République fédérale d'Allemagne et d'autre part, de répartir ces sommes et celles provenant d'autres sources pour contribuer au règlement des problèmes sociaux des anciens incorporés de force ou de leurs ayants droit et pour développer par d'autres projets la coopération entre la France et la République fédérale d'Allemagne. La fondation adresse chaque année au ministre délégué aux anciens combattants, son bilan comptable, qui est par ailleurs transmis au Parlement à l'occasion de la préparation de la loi de finances pour l'année suivante, ainsi que les comptes rendus des réunions du comité de direction. Il apparaît que cette fondation fonctionne conformément à ses objectifs. Il n'est pas envisagé de modifier ce dispositif, qui, s'agissant d'un organisme résultant d'un accord international et gérant des fonds alloués par un Etat étranger, ne pourrait résulter que d'un nouvel accord international.
