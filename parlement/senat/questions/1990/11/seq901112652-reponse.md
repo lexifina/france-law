@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901112652
+
+- Question : [SEQ901112652](seq901112652.md) — Chaînes télévisées publiques : rétrocession des temps d'antenne
+
+## Réponse
+
+*Communication, JO du 1991-01-31, page 195*
+
+Réponse. - L'article 31 du cahier des charges de FR3 dispose que " la société programme et fait diffuser des émissions documentaires sur les problèmes économiques, sociaux, culturels, scientifiques et techniques du monde contemporain, ainsi que des magazines ou des séries d'émissions portant sur les différents aspects de la vie culturelle nationale y compris sur les activités culturelles des différentes communautés étrangères vivant sur le territoire national ". Il est clair en effet que toute politique en faveur de l'intégration des immigrés en France doit passer par le canal de la télévision, moyen de communication le plus universel dans notre société et le plus facilement accessible aux immigrés comme aux Français. C'est pour remplir cette mission de service public qu'a été réalisée l'émission " Rencontres " dont les premières diffusions ont donné lieu, il est vrai, à certaines objections, dont fait état l'honnorable parlementaire. Afin de mieux répondre aux attentes de son public, des améliorations lui ont été apportées en 1990, tant sur le plan de la conception que de l'organisation, et il semble que ces aménagements aient donné satisfaction car, depuis lors, la chaîne n'a pas reçu de critiques particulières visant cet aspect de son programme. " Rencontres " est produite dans le cadre d'un accord de coproduction avec l'association " Rencontres audiovisuelles " (ARA), lequel prévoit clairement le rôle de la chaîne dans la définition de la ligne éditoriale de l'émission. D'une façon plus générale, la direction de FR3 a pris soin, en 1990, de veiller à la suppression progressive de toutes les cases antenne qui échappaient à sa responsabilité éditoriale. La grille de rentrée illustre la traduction de cette nouvelle politique.
