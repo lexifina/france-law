@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020701366
+
+- Question : [SEQ020701366](seq020701366.md) — Charge financière des majorations de pensions pour enfant élevé
+
+## Réponse
+
+*Santé, JO du 2003-04-24, page 1424*
+
+Le Gouvernement ne souhaite en aucun cas délaisser ou réduire le champ de la politique familiale. Il a lancé un chantier important dans ce domaine avec le projet de création d'une prestation unique d'accueil du jeune enfant. La conférence de la famille présidée par le Premier ministre le 29 avril statuera sur ce projet. S'agissant du financement de cette politique, le transfert de la branche famille vers le Fonds de solidarité vieillesse (FSV) auquel le Gouvernement a dû procéder cette année ne constitue pas une remise en question de ces objectifs. Compte tenu du contexte économique, de la complexité des circuits de financement de la Sécurité sociale résultant de la mise en place de la réduction du temps de travail et des délais très courts dont il disposait pour élaborer la loi de financement de la Sécurité sociale pour 2003, le Gouvernement ne pouvait agir autrement sans mettre en danger l'équilibre du financement de la Sécurité sociale. Cependant, il a annoncé au cours des débats sur le projet de loi de financement de la Sécurité sociale pour 2003 la création d'un groupe de travail sur le financement de la Sécurité sociale. Cette instance de réflexion commune au Parlement et au Gouvernement va être mise en place dans les tout prochains jours. Elle préparera la clarification du financement de la Sécurité sociale qui devra nourrir la prochaine loi de financement de la Sécurité sociale. Elle ne devrait pas manquer d'aborder la question du financement du FSV et des transferts dont il bénéficie. Il est à noter enfin que, en 2003, ce transfert de charge ne représentera qu'une faible part de l'ensemble des dépenses de la branche famille, branche qui demeurera excédentaire.
