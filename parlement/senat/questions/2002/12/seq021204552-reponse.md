@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021204552
+
+- Question : [SEQ021204552](seq021204552.md) — Accès des collectivités locales aux contrats d'assurance
+
+## Réponse
+
+*Économie, JO du 2003-03-27, page 1047*
+
+S'agissant des contrats d'assurance en cours, les conditions dans lesquelles les entreprises d'assurance peuvent procéder à des augmentations de prime ou des résiliations de contrats sont strictement encadrées par le code des assurances. L'entreprise d'assurance est tenue aux conditions de révision des primes ou de résiliation prévues par le contrat, sauf survenance de circonstances particulières limitativement énumérées par ce code, relevant notamment de son article L. 113-4, selon lequel " en cas d'aggravation du risque en cours de contrat, telle que, si les circonstances nouvelles avaient été déclarées lors de la conclusion ou du renouvellement du contrat, l'assureur n'aurait pas contracté ou ne l'aurait fait que moyennant une prime plus élevée, l'assureur a la faculté soit de dénoncer le contrat, soit de proposer un nouveau montant de prime, et des conditions prévues par le contrat ". Il convient en outre de signaler que, les contrats d'assurance des collectivités locales relevant du code des marchés publics, les conditions de révision de ces contrats, qu'elles soient prévues par le contrat lui-même ou convenues entre parties, doivent elles-mêmes respecter les dispositions de ce code. Pour ce qui est des renouvellements de contrats arrivés à échéance, la détermination des nouvelles conditions d'assurance relève de la confrontation de la demande d'assurance exprimée par les collectivités et de l'offre proposée par les assureurs, telle qu'organisée par le code des marchés publics. En particulier, le durcissement des conditions de souscription intervenu depuis le début de l'année 2001 fait suite à plusieurs années de baisse des primes et relève du cycle usuel du marché de l'assurance.
