@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981011096
+
+- Question : [SEQ981011096](seq981011096.md) — Organisation des stages en entreprise par les établissements scolaires
+
+## Réponse
+
+*Éducation, JO du 1999-03-25, page 970*
+
+Réponse. - Le ministre de l'éducation nationale, de la recherche et de la technologie est pleinement conscient des problèmes d'organisation posés aux établissements scolaires par le développement actuel des stages en entreprises dans les formations professionnelles. Ceux-ci ont cependant réalisé, au cours de ces dernières années, des progrès majeurs pour organiser de façon satisfaisante l'alternance sous statut scolaire. Des solutions d'amélioration passent par le renforcement du partenariat avec le monde économique, que ce soit au niveau académique ou au niveau de l'établissement. C'est dans ce sens que la circulaire de rentrée adressée aux recteurs les engage à structurer ce partenariat avec les instances régionales et les organisations économiques et sociales afin de coordonner leurs actions avec les divers partenaires et d'établir les relations entre eux et les établissements scolaires. Au niveau de l'établissement, il lui est préconisé d'instituer, si cela s'avère nécessaire, un " délégué aux entreprises " chargé d'accompagner les enseignants ou les chefs de travaux dans leur travail relationnel avec les entreprises, notamment, pour les aspects d'orgnaisation pratique de l'alternance. Par ailleurs, une brochure de conseils méthodologiques sur la mise en uvre de l'alternance vient d'être diffusée par le ministère de l'éducation nationale aux établissements scolaires concernés. Elle préconise notamment une meilleure organisation des périodes en entreprise au sein des établissements, ainsi que le développement des mises en réseau d'établissements au niveau des bassins de formation.
