@@ -24,9 +24,7 @@ Après avoir indiqué la méthode de calcul qui n'est pas applicable, le demande
 
 Le demandeur peut également fournir une proposition d'adaptation de la méthode de calcul permettant de traiter le projet considéré.
 
-2.2. Demande pour un système particulier
-
-utilisable dans plusieurs projets de bâtiment
+2.2. Demande pour un système particulier utilisable dans plusieurs projets de bâtiment
 
 Après avoir indiqué la méthode de calcul qui n'est pas applicable, le demandeur fournit obligatoirement :
 
@@ -37,3 +35,5 @@ Après avoir indiqué la méthode de calcul qui n'est pas applicable, le demande
 - la liste des données d'entrée pour les parties de la méthode de calcul qui sont applicables ;
 
 - une description détaillée des raisons qui rendent la méthode de calcul inapplicable pour les autres parties.
+
+Le demandeur peut également fournir une proposition d'adaptation de la méthode de calcul permettant de traiter le système considéré accompagnée d'un exemple d'application numérique.

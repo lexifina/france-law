@@ -1,24 +1,24 @@
 # Article Annexe V
 
-FACTEUR SOLAIRE MOYEN DES BAIES
+Pour une orientation et une inclinaison donnée, le facteur solaire moyen des baies Smb est défini par :
 
-Le facteur solaire moyen des baies Smb d'un bâtiment est défini par :
-
-Smb = (∑ (Abaie x Sbaie))/( ∑Abaie)
+Smb = (∑ [Abaie x Sbaie])/( ∑Abaie)
 
 où :
 
 Abaie est la surface de baie et Sbaie son facteur solaire.
 
-RATIO D'OUVERTURE SOLAIRE EQUIVALENTE
+Ratio d'ouverture solaire équivalente
 
-Le ratio d'ouverture solaire équivalente Rose est défini par :
+Le ratio d'ouverture solaire équivalente ROSE est défini par :
 
-Rose = ( ∑ (Abaievert x Sbaievert x Fma))/( ∑ Afaçade) + 2 x ( ∑ (Abaiehor x Sbaiehor))/( ∑ Atoit).
+ROSE = (∑ [Abaievert x Sbaievert x Fma])/(∑ Afaçade)
 
-La sommation sur les baies s'effectue sur toutes les baies du bâtiment à l'exception des baies verticales orientées au nord (orientations du nord-ouest au nord-est).
++ 2x (∑ [Abaiehor x Sbaiehor])/( ∑Atoit).
 
-Le coefficient de masque architectural Fma est donné dans le tableau suivant :
+La sommation sur les baies s'effectue sur toutes les baies du bâtiment à l'exception des baies verticales orientées au nord (selon la définition de l'annexe III).
+
+Le coefficient de masque architectural Fma est donné dans le tableau suivant avec h la hauteur de paroi et d la profondeur du débord :
 
 Type de masque
 
