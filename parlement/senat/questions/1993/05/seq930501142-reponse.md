@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930501142
+
+- Question : [SEQ930501142](seq930501142.md) — Financement de la réforme de la politique agricole commune
+
+## Réponse
+
+*Agriculture, JO du 1993-09-09, page 1580*
+
+Réponse. - Lors du Conseil européen d'Edimbourg, le 12 décembre 1992, les chefs d'Etat et de gouvernement ont arrêté les grandes lignes du financement de la Communauté pour la période 1993-1999. Il a été réaffirmé que la discipline budgétaire avait un rôle central à jouer afin d'assurer la bonne santé des finances communautaires. Il est important d'appliquer cette discipline dans toutes les politiques pour assurer une relation soutenable entre les engagements, les paiements et les ressources propres disponibles. Le taux de croissance et le niveau de base de la ligne directrice agricole (visés aux articles 1er et 2 de la décision n° 377/88) devraient rester inchangés. La commission avait, cependant, souhaité que cette ligne soit augmentée. Le Conseil en a décidé autrement. Il faut rappeler que la France était alors intervenue dans le sens de la commission. Suite aux mouvements monétaires de septembre et novembre 1992. Le Conseil européen n'a pas manqué de prévoir l'augmentation sensible des dépenses de FEOGA-Garantie qui pourrait en découler. Il a convenu que le fonctionnement de la réserve monétaire soit aménagé de sorte que les coûts résultant de réalignements monétaires en les Etats membres soient pris en compte autant que possible. En outre, il convient que, dans l'hypothèse où cette augmentation conduirait la dépense agricole à excéder la ligne directrice et compromettrait en conséquence le financement de la nouvelle politique agricole commune telle que déjà agréée, des dispositions appropriées pour approvisionner le FEOGA-Garantie seront prises par le conseil des ministres de l'agriculture.
