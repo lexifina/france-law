@@ -1,0 +1,37 @@
+# Article Annexe I-3
+
+BARÈME DE CALCUL DU PRIX FABRICANT HORS TAXE INTER­MÉDIAIRE DE CALCUL (ARRONDI AU MILLIÈME LE PLUS PROCHE) À PARTIR DU PRIX PUBLIC
+
+PRIX PUBLIC TTC
+
+|
+
+|
+
+PFHT
+
+|
+
+0 à 213,10 F
+
+|
+
+PP/1,397 1-2,557 7
+
+|
+
+0 à 150 F
+
+|
+
+A partir de 213,20 F
+
+|
+
+PP/1,184 3-29,965 5
+
+|
+
+A partir de 150 F
+
+|
