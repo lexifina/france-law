@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970902638
+
+- Question : [SEQ970902638](seq970902638.md) — Versement de la part Etat du forfait d'externat dans les collèges et les lycées
+
+## Réponse
+
+*Éducation, JO du 1997-10-30, page 2991*
+
+Réponse. - L'article 6 du décret no 61-246 du 15 mars 1961 relatif au contrôle administratif et financier des établissements d'enseignement privés prévoit que les crédits représentant la participation de l'Etat aux dépenses de fonctionnement des établissements d'enseignement privés sous contrat d'association doivent être mandatés trimestriellement et à terme échu. Les échéances de paiement ont été fixées au 15 janvier pour le versement afférent au premier trimestre de l'année scolaire, au 15 avril pour le deuxième terme et au 15 juillet pour le troisième terme. Les échéances de paiement des deuxième et troisième termes sont en règle générale respectées sauf circonstances exceptionnelles. En revanche, les délais très brefs séparant le début de l'exercice budgétaire de la date de paiement du premier trimestre occasionnent souvent des retards en raison des contraintes de la procédure comptable. Il convient de rappeler que les crédits nécessaires au paiement du forfait d'externat au titre d'une année scolaire sont inscrits dans la loi de finance de l'exercice qui suit la date de la rentrée scolaire. En outre, la procédure de paiement requiert, en début d'année, un délai moyen de six à sept semaines, la mise en paiement s'effectuant vers le 15 février, à quoi s'ajoute un délai de quelques jours pour le virement des crédits sur les comptes des établissements. Aucune des procédures envisagées par mes services pour régler définitivement ce problème n'a pu jusqu'à présent aboutir complètement. Toutefois, mon administration a, depuis plusieurs années, engagé, dans le cadre de la procédure comptable existante, des actions qui ont permis une très notable réduction des retards constatés.
