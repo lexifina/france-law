@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980407469
+
+- Question : [SEQ980407469](seq980407469.md) — Responsabilité pénale des élus locaux
+
+## Réponse
+
+*Intérieur, JO du 1998-06-11, page 1884*
+
+Réponse. - En vertu du principe intangible de responsabilité, les prérogatives attachées à leurs fonctions ont naturellement pour corollaire la mise en cause de la responsabilité des élus ou celle de la collectivité qu'ils administrent en cas de faute ou de carence dans l'accomplissement de leur mission. La loi pénale étant la même pour tous les citoyens, un délit commis par un agent public est poursuivi et réprimé dans les mêmes conditions que s'il l'avait été par une personne privée. Le Conseil constitutionnel, dans sa décision du 17 janvier 1989, a ainsi rappelé que " nul ne saurait, par une disposition générale de la loi, être exonéré de toute responsabilité personnelle quelle que soit la nature ou la gravité de l'acte qui lui est imputé ". Toutefois, s'agissant de la responsabilité pénale des élus pour des faits non intentionnels commis dans l'exercice de leurs fonctions, le code général des collectivités territoriales, dans sa rédaction issue de la loi du 13 mai 1996, dispose que le maire, le président du conseil général, le président du conseil régional ou le président de l'établissement public de coopération intercommunale " ne peut être condamné sur le fondement du troisième alinéa de l'article 121-3 du code pénal que s'il est établi qu'il n'a pas accompli les diligences normales compte tenu de ses compétences, du pouvoir et des moyens dont il disposait ainsi que des difficultés propres aux missions que la loi lui confie ". Ces dispositions permettent au juge pénal de procéder à une appréciation in concreto des faits et de prendre en considération le particularisme de l'exercice d'un mandat électif public.
