@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900208492
+
+- Question : [SEQ900208492](seq900208492.md) — Situation des producteurs de porcs
+
+## Réponse
+
+*Agriculture, JO du 1990-04-12, page 774*
+
+Réponse. - Après une période de forte hausse sur la première partie de l'année 1989, les cours du porc ont connu sur le dernier trimestre une baisse, accentuée au début du mois de janvier 1990. Cette baisse a résulté d'un déséquilibre conjoncturel du marché lié à une sous-consommation de viande traditionnellement observée à l'époque des fêtes et à des difficultés à l'exportation ressenties plus particulièrement par nos partenaires danois. Afin de remédier à cette situation, le Gouvernement a demandé le 19 janvier 1990 aux autorités communautaires de revaloriser les restitutions en faveur de la viande de porc. Dès le 22 janvier, la décision était prise de procéder à une revalorisation significative des restitutions. Cette décision, ainsi que d'autres facteurs conjoncturels récents, en particulier une accélération des exportations communautaires vers les pays de l'Est, ont eu pour effet un redressement rapide du marché du porc. Mais chacun s'accorde à reconna^itre que ces fortes fluctuations conjoncturelles sont néfastes pour l'ensemble des maillons de la filière. Nous devons donc poursuivre la réorganisation de cette filière, selon les orientations arrêtées en 1989 avec les organisations professionnelles intéressées, et améliorer l'efficacité des mécanismes de gestion communautaire du marché du porc.
