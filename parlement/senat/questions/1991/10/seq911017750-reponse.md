@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911017750
+
+- Question : [SEQ911017750](seq911017750.md) — Application de la loi relative au règlement de certaines situations résultant des événements d'Afrique du Nord
+
+## Réponse
+
+*Famille, JO du 1992-01-09, page 80*
+
+Réponse. - Il est rappelé à l'honorable parlementaire que les commissions de reclassement créées en application des articles 9 et 11 de la loi n° 82-1021 modifiée du 3 décembre 1982 ont été instituées et leurs membres nommés en 1985, respectivement par le décret du 22 janvier 1985 et par l'arrêté du 6 novembre 1985. Depuis le début de leur fonctionnement, les commissions administratives de reclassement se sont réunies dix-neuf fois et ont examiné 1 878 dossiers relevant des différents départements ministériels. Depuis janvier 1991, elles ont tenu six séances et se sont prononcées utilement sur 590 requêtes auxquelles il convient d'ajouter celles examinées lors de la séance du 26 septembre 1991. Il convient de rappeler que les commissions de reclassement ont une compétence consultative. Conscient des difficultés qui en résultent pour les intéressés, le secrétariat d'Etat à la famille, aux personnes âgées et aux rapatriés étudie à l'heure actuelle, en liaison avec les autres départements ministériels, les moyens d'accélérer le règlement des dossiers encore en suspens. D'ores et déjà, une saisine des principaux ministères concernés est envisagée afin, d'une part, de sensibiliser les gestionnaires sur ce problème, d'autre part, de leur demander la suite qui a été réservée aux dossiers qui ont reçu un avis favorable des commissions de reclassement. Ce travail de clarification devrait être suivi par la mise en place de réunions périodiques avec les administrations destinées à favoriser, à la fois, la préparation des dossiers avant leur examen en commission et leur devenir une fois l'avis de la commission rendu. ( NOTA Voir tableau page 80 )
