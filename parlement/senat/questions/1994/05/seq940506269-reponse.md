@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940506269
+
+- Question : [SEQ940506269](seq940506269.md) — Sécurité des compétitions automobiles
+
+## Réponse
+
+*Jeunesse et sports, JO du 1994-07-07, page 1697*
+
+Réponse. - Les terribles accidents survenus à Imola et à Monaco ont tragiquement mis en relief la nécessaire adaptation des règles sportives aux exigences de la sécurité. La fixation des règles techniques du sport automobile et l'organisation des compétitions de cette importance relèvent de la compétence de la Fédération internationale automobile qui a déjà pris des dispositions destinées à améliorer la sécurité des pilotes et à provoquer une réduction sensible de la puissance des moteurs avant le Grand Prix de France du 3 juillet. Le ministère de la jeunesse et des sports ne saurait se substituer dans ce domaine à la Fédération internationale. Le ministre de la jeunesse et des sports n'en porte pas moins une grande attention à ces problèmes et s'est entretenue tout récemment avec le président de la Fédération française du sport automobile, des constructeurs et des pilotes, des questions de sécurité des pilotes et du public dans le sport automobile et notamment en formule 1. Il n'est pas inutile de rappeler qu'en 1993 les 17 MF du fonds géré par le groupement d'intérêt public/sport d'élite et de préparation olympique (GIP/SEPO) ont été distribués pour des travaux de sécurité effectués sur les circuits. Toutefois, les derniers accidents ont mis en évidence la nécessité de réaliser des travaux d'urgence sur les circuits. Ainsi, pour l'amélioration du circuit de Magny-Cours, où va se dérouler le mois prochain le Grand Prix de France, le ministre a décidé d'accorder une aide de 2,15 MF à laquelle devrait s'ajouter une subvention de hauteur équivalente du fonds d'intervention pour l'aménagement du territoire.
