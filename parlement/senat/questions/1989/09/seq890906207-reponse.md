@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890906207
+
+- Question : [SEQ890906207](seq890906207.md) — Maintien des services publics en zone rurale
+
+## Réponse
+
+*Agriculture, JO du 1989-11-30, page 1992*
+
+Réponse. - Ce dossier occupe une place primordiale dans le cadre de la politique de développement rural du Gouvernement. En effet, les zones de faible densité subissent des mouvements de repli de services publics et de disparition progressive du petit commerce de proximité et de l'artisanat. Or il apparaît clairement que les populations et les entreprises rurales ne peuvent plus se passer de services modernes, qui ne pourront exister et se développer qu'avec un nombre suffisant d'usagers pour les services publics et de clients pour les services privés. Les services du ministère de l'agriculture et de la forêt, en liaison avec les autres départements ministériels concernés, travaillent, au travers d'études et d'expérimentations, à la mise en oeuvre de méthodes permettant : la définition d'une " zone de chalandise " suffisamment vaste (plusieurs milliers d'entreprises et plusieurs dizaines de milliers d'habitants) ; l'identification des services publics et privés existants afin d'en faire un diagnostic prospectif incluant le réseau des villages et des villes de la zone ; l'aide à la modernisation et à la restructuration des services ; l'amélioration des réseaux (voirie, adduction d'eau, électricité). Ces opérations peuvent constituer un volet prioritaire des programmes de développement rural définis localement dans le cadre des contrats de plan Etat-Région. Elles pourront à terme constituer un dossier compatible avec les objectifs de développement rural de la communauté au titre de l'" objectif 5 b ". Ces prospectives vont dans le sens non pas d'une suppression, mais d'une restructuration et d'une création de services publics et privés adaptés à la situation actuelle du monde rural.
