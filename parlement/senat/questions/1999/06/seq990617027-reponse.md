@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990617027
+
+- Question : [SEQ990617027](seq990617027.md) — Divorce : réforme de la prestation compensatoire
+
+## Réponse
+
+*Justice, JO du 1999-09-02, page 2949*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire qu'un certain assouplissement des conditions de mise en uvre de la prestation compensatoire, notamment de sa révision, actuellement posées par la loi, paraît en effet s'imposer eu égard au contexte socio-économique, sans qu'il y ait lieu, cependant, de revenir à un régime comparable à celui des pensions alimentaires préexistant à la réforme de 1975, dont les inconvénients ont été unanimement dénoncés. Lors de la discussion au Sénat des deux propositions de loi de MM. About et Pages relatives à la prestation compensatoire, le 25 février 1998, le Gouvernement a déposé différents amendements en ce sens, qui n'ont toutefois pas été adoptés par la Haute Assemblée. Les réflexions engagées à ce sujet à la chancellerie ainsi que sur la recherche des moyens propres à favoriser le versement de la prestation en capital se sont poursuivies au sein du groupe de travail pluridisciplinaire, installé le 31 août 1998, sous la présidence de Mme Dekeuwer-Defossez, chargé de présenter des propositions de réforme du droit de la famille d'ici au 15 septembre 1999. Il apparaît souhaitable d'attendre les résultats des travaux du groupe avant d'engager la réforme du dispositif en vigueur. C'est en effet dans le cadre d'une étude globale de l'ensemble des questions liées au divorce et à ses conséquences pécuniaires que doit être recherchée une solution tendant à remédier aux difficultés posées par la législation en vigueur relative à la prestation compensatoire. Le rapport du groupe de travail sera soumis à la plus large consultation institutionnelle et politique avant que le Gouvernement n'arrête un projet de texte qui sera finalisé et soumis au Parlement en l'an 2000.
