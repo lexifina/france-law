@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981112040
+
+- Question : [SEQ981112040](seq981112040.md) — Application rétroactive du déclassement à 6 chevaux de la " Renault Clio 2 "
+
+## Réponse
+
+*Industrie, JO du 1999-08-19, page 2818*
+
+Réponse. - En application de l'article 117 de la loi de finances de 1997 qui prévoyait d'examiner les conditions d'une modification des règles de calcul de la vignette automobile " de façon à prendre en compte les caractéristiques des différentes catégories de véhicules et à tendre vers la neutralité ", les pouvoirs publics ont mené une réflexion interministérielle sur ce thème. Au terme de ces travaux qui établissaient la complexité du mode de calcul de la vignette, les pouvoirs publics ont proposé au Parlement un nouveau mode de calcul reposant sur deux paramètres : la puissance réelle et les émissions de gaz carbonique. Cette formule présente de nombreux avantages : elle supprime les risques de distorsions de concurrence entre les véhicules de même puissance; elle assure une constance des recettes fiscales au bénéfice des collectivités. Enfin, elle constitue une incitation à la diminution de la consommation d'énergie et s'inscrit donc pleinement dans les mesures prises par les pouvoirs publics pour réduire les émissions de gaz à effet de serre. La nouvelle règle de calcul se traduit effectivement par une baisse de la puissance administrative pour de nombreux véhicules, dont ont notamment bénéficié les véhicules à faible consommation. Cependant, elle a également impliqué un réajustement en hausse pour certains types de modèles. Ces dispositions, qui sont de nature législative, ont été adoptées par le Parlement au printemps 1998. Ce sont ces mêmes dispositions qui prévoient une application à l'ensemble des véhicules particuliers neufs vendus depuis le 1er juillet 1998.
