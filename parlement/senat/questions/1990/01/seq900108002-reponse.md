@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900108002
+
+- Question : [SEQ900108002](seq900108002.md) — Utilisation d'engrais azotés dans l'agriculture
+
+## Réponse
+
+*Agriculture, JO du 1990-05-10, page 1025*
+
+Réponse. - Dès 1984, les deux départements ministériels de l'agriculture et de l'environnement ont mis en place le comité d'orientation pour la réduction de la pollution des eaux par les nitrates et les phosphates provenant des activités agricoles. Dans ce cadre, un important travail de sensibilisation et d'information pour la mise en oeuvre de nouvelles pratiques agricoles a été réalisé. Un des axes principaux d'intervention consiste à mieux ajuster la fertilisation azotée aux exportations par les cultures. Il s'agit : dans des zones d'élevage intensif de mieux valoriser les déjections animales sources d'azote et donc de réduire la consommation des engrais de synthèse ; dans les zones de grande culture de mieux ajuster la fertilisation azotée aux besoins des cultures en fonction des conditions du milieu et, par voie de conséquence, de réduire dans bien des cas la consommation d'engrais. En complément des mesures précédentes relatives à la fertilisation, il convient maintenant : d'une part de promouvoir le couvert végétal durant la période d'interculture pour éviter le lessivage des nitrates en hiver ; d'autre part de proposer dans des zones particulièrement sensibles, des mesures plus restrictives (remise en prairie non fertilisée, réduction des doses d'azote en-deçà de l'optimum). De telles mesures sont actuellement étudiées avec les représentants de la profession agricole pour une mise en oeuvre dans le cadre des dispositions communautaires et notamment de l'article 19 du règlement socio-culturel n° 797-85 modifié. Ces dispositions conduisent à l'octroi d'une prime à l'hectare dont le montant est fonction de la perte de revenu occasionnée par l'adoption des mesures proposées.
