@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950209648
+
+- Question : [SEQ950209648](seq950209648.md) — Célébration du tricentenaire de la mort de Jean de La Fontaine
+
+## Réponse
+
+*Éducation, JO du 1995-03-30, page 756*
+
+Réponse. - Compte tenu de l'importance de l'oeuvre de La Fontaine dans le patrimoine littéraire français et de sa place dans les études des élèves des premier et second degrés, le ministère de l'éducation nationale a décidé de participer à la célébration du tricentenaire de la mort du grand fabuliste en lançant plusieurs opérations de sensibilisation en milieu scolaire. En effet, la préparation de cette manifestation a fait l'objet d'une concertation à la délégation aux célébrations nationales du ministère de la culture et de la francophonie à laquelle a participé le ministère de l'éducation nationale. A cette occasion, celui-ci a pris l'initiative, dans le cadre de l'organisation annuelle du concours d'écriture sur le " temps des livres ", de proposer cette année un sujet autour de La Fontaine et de son oeuvre : en la circonstance, les élèves ont été invités à imaginer une fable à la manière du fabuliste et à l'illustrer. Ce concours a rencontré un fort succès. D'autre part, un numéro spécial de " textes et documents pour la classe ", revue produite par le centre national de documentation pédagogique (CNDP) et largement diffusée dans les établissements scolaires, a été consacré à l'oeuvre de La Fontaine et aux manifestations organisées pour cette commémoration. En outre, une information sur les diverses manifestations pouvant toucher le milieu scolaire doit être diffusée par les organes habituels du ministère de l'éducation nationale (BOEN, serveur Edutel). Enfin, de nombreux projets doivent être mis en place en relation avec les directions régionales des affaires culturelles et les collectivités locales, à l'initiative des instances académiques ou des établissements scolaires (dont ceux qui portent le nom de La Fontaine).
