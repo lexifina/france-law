@@ -1,9 +1,5 @@
 # Article 37 ter
 
-Les entreprises visées par le champ d'application de la présente convention ont obligation d'adhérer, à compter du 1er janvier 1988, au régime décès et invalidité permanente et totale de l'I.S.I.C.A.
-
-Les entreprises qui, avant le 1er janvier 1988, avaient adhéré auprès de tout organisme habilité pour assurer à leurs salariés des garanties tout au moins égales à celles définies par le présent article ne sont pas tenues de résilier leur contrat pour adhérer, à compter de cette date, à l'I.S.I.C.A.
-
 En cas de décès ou d'invalidité permanente et totale du salarié, ce régime versera à sa famille ou à lui-même les prestations définies ci-après :
 
 1. Bénéficiaires
@@ -30,7 +26,7 @@ Si l'intéressé n'a pas reçu de rémunération ayant donné lieu à cotisation
 
 Les personnes à charge sont les enfants à charge au sens fiscal, les ascendants dans certaines conditions, les autres personnes à charge au sens fiscal.
 
-Garantie double effet : si le conjoint décède en même temps ou après le salarié assuré et laisse un ou plusieurs enfants à charge, il est versé un capital dont le montant, en principe égal à celui versé pour le premier décès, sera fixé par le conseil d'administration de l'I.S.I.C.A. dans le cadre du fonds social décès.
+Garantie double effet : si le conjoint décède en même temps ou après le salarié assuré et laisse un ou plusieurs enfants à charge, il est versé un capital égal à celui versé pour le premier décès.
 
 En cas d'invalidité permanente et totale, il est versé au salarié, sous forme de quatre trimestrialités égales, un capital dont le montant est égal au capital décès défini ci-dessus.
 
