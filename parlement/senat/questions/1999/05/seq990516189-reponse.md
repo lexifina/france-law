@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990516189
+
+- Question : [SEQ990516189](seq990516189.md) — Utilisation des moyens modernes de diffusion pour améliorer l'information des organismes de protection végétale auprès des agriculteurs
+
+## Réponse
+
+*Agriculture, JO du 1999-09-02, page 2921*
+
+Réponse. - L'information des acteurs de la protection des cultures s'effectue en France de façon très variable selon les régions et les cultures. L'information de base provient le plus souvent des stations de l'Institut national de la recherche agronomique (parfois associé aux établissements d'enseignement supérieur, aux services régionaux de la protection des végétaux des directions régionales de l'agriculture et de la forêt et aux instituts techniques). S'agissant des services de l'Etat, ils s'efforcent depuis toujours de promouvoir une protection des cultures plus respectueuse de l'environnement au travers des notions de protection raisonnée et intégrée. Ces stratégies impliquent la mise au point de modèles de prévision de l'évolution des maladies ou des ravageurs qui sont des systèmes experts. Certains de ces modèles (septorioses et rouilles des céréales) sont opérationnels depuis une dizaine d'années. Des confirmations sont en cours pour certaines maladies de la vigne ou des arbres fruitiers. De façon à permettre une plus grande utilisation de ces outils de prévision des risques, des rapprochements entre les services d'Etat et certains instituts en cours d'étude (institut technique des céréales et fourrages, centre technique interprofessionnel des oléaginaux métropolitains, union nationale des coopératives agricoles d'approvisionnement). Pour facilité l'accès des agriculteurs mais également d'autres utilisateurs à cette source d'information, mes services testent actuellement l'usage d'Internet comme vecteur de communication en temps réel.
