@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881002056
+
+- Question : [SEQ881002056](seq881002056.md) — Association de communes : nombre de conseillers municipaux
+
+## Réponse
+
+*Collectivités territoriales, JO du 1989-01-05, page 19*
+
+Réponse. - En cas de fusion de communes sous le régime de la fusion-association, la représentation de chaque commune associée au sein du conseil municipal de la commune fusionnée résulte des dispositions des deuxième et troisième alinéas de l'article L. 255-1 du code électoral. Une fois déterminé l'effectif du conseil municipal de la commune fusionnée par application des règles de droit commun (article L. 121-2 du code des communes), les sièges à pourvoir sont répartis entre les sections électorales correspondant aux communes associées proportionnellement à la population de celles-ci. Une commune associée peut donc avoir à élire plusieurs conseillers municipaux. Toutefois, l'article L. 255-1 précité lui garantit une représentation minimale d'un conseiller municipal, même si le nombre de ses habitants est insuffisant pour permettre de lui attribuer mathématiquement un siège. Dans cette hypothèse, au surplus, la loi prévoit que la commune associée élit, en même temps que son conseiller municipal, un suppléant appelé à siéger au conseil municipal avec voix consultative en cas d'indisponibilité temporaire du conseiller titulaire. Ainsi les plus petites communes associées bénéficient déjà de dispositions particulièrement libérales. Augmenter le nombre minimal des conseillers municipaux représentant les communes associées reviendrait à privilégier davantage encore les communes associées les moins peuplées, au détriment des autres sections électorales de la même commune et leur donnerait systématiquement une sur-représentation au sein du conseil municipal, dans des conditions discutables eu égard au principe constitutionnel selon lequel le suffrage doit être égal.
