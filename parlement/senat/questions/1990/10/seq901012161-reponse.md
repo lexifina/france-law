@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901012161
+
+- Question : [SEQ901012161](seq901012161.md) — Situation des enseignants " expatriés " à Londres
+
+## Réponse
+
+*Affaires étrangères, JO du 1991-03-21, page 588*
+
+Réponse. - La réforme du mode de rémunération des personnels détachés, entrée en vigueur au 1er septembre 1990, n'a pas diminué le traitement des enseignants en cours de contrat, puisqu'ils ont reçu, conformément à l'article 19 du décret n° 90-469 du 31 mai 1990 (cf. circulaitre d'application du 4 octobre 1990), une indemnité différentielle qui comble l'écart entre leur rémunération jusqu'au 31 août 1990 et celle à partir du 1er septembre, date d'entrée en vigueur de la réforme. Cette indemnité leur a été versée sur leur salaire de novembre 1990, avec effet rétroactif au 1er septembre. Etant donné l'inflation du premier semestre 1990 et la hausse des taux de remboursement des prêts hypothécaires (pour les agents qui ont choisi d'acquérir un logement), le département a décidé d'augmenter l'indemnité d'expatriation de 20,79 p. 100, à compter du 1er décembre 1990 ; cette augmentation a été versée sur les salaires de janvier, avec rappel pour le mois de décembre. Cettemesure fait passer l'indemnité servie à Londres au second rang en Europe. Par ailleurs, pour alléger les charges des traites de remboursement, des dispositions particulières ont été prévues afin que les organismes d'aide sociale de l'éducation nationale et des affaires étrangères puissent accorder des prêts de substitution ou des prêts sociaux sans intérêt aux agents qui font face aux plus graves difficultés financières. En outre, le ministère des affaires étrangères a lancé un programme d'acquisitions de logements sur plusieurs années, où figure l'achat d'un immeuble à Londres qui pourra accueillir certains membres du personnel enseignant du lycée Charles-de-Gaulle.
