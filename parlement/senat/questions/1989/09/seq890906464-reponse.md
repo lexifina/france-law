@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890906464
+
+- Question : [SEQ890906464](seq890906464.md) — Bénéficiaires du " droit de suite "
+
+## Réponse
+
+*Culture, JO du 1990-01-04, page 22*
+
+Réponse. - Le droit de suite figure dans la législation de notre pays depuis 1920, soit près de soixante-dix-ans. Il a été institué afin de faire bénéficier, tout d'abord le créateur, de la valorisation de ses oeuvres à l'occasion de ventes successives. Il s'agit donc, avant tout d'un droit personnel, prévu par la loi du 11 mars 1957 sur la propriété littéraire et artistique et caractérisé en outre par le caractère d'inaliénabilité. Ces dispositions ont été établies afin de protéger l'artiste contre tout risque de désaisissement émanant de lui-même ou résultant de pressions spéculatrices. Pour ces raisons, il serait délicat d'envisager la possibilité pour l'artiste de léguer à son décès son droit de suite, même à des organismes de droit public tels que les musées. Par ailleurs, ce droit producteur dans la plupart des cas, de revenus modestes, ne constituerait pas un apport financier très important pour le budget des institutions culturelles. En ce qui concerneles règles spéciales de dévolution du droit de suite, le problème est en définitive assez limité dans la mesure où la transmission de ce droit au conjoint survivant est clairement prévue par les dispositions de l'article 42 de la loi susvisée. Pour les autres héritiers, l'arrêt de la première chambre civile de la Cour de cassation du 11 janvier 1989, en écartant la condition cumulative d'appartenance à la famille de l'artiste s'en est tenu aux règles du code civil en matière de dévolution successorale. Cet arrêt renforce la concordance avec les termes de l'article 42 de la loi du 11 mars 1957 et devrait, ainsi que le souligne la doctrine, mettre un terme à toute ambiguïté dans l'application de ce texte.
