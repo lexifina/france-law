@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010533131
+
+- Question : [SEQ010533131](seq010533131.md) — Conditions d'application du nouveau décret relatif à la sécurité de certains articles de literie
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2001-08-09, page 2637*
+
+Le décret n° 2000-164 du 23 février 2000 relatif à la sécurité de certains articles de literie réglemente des produits présentant des risques avérés pour la sécurité ou la santé de leurs utilisateurs. Ainsi, la commission de sécurité des consommateurs (CSC) avait-elle recommandé aux pouvoirs publics de réglementer les articles de literie matelassés ou ouatinés en ce qu'ils concouraient à la propagation des incendies et au risque d'intoxication lié au dégagement d'effluents gazeux incapacitants. Les articles non matelassés ont été ainsi exclus du champ de la réglementation car ils ne présentaient pas les mêmes risques d'allumabilité en raison de leur faible masse. En dépit des difficultés rencontrées par certaines petites entreprises artisanales dans l'application du décret, lorsqu'elles se livrent à une fabrication de produits à l'unité ou d'articles reconfectionnés dans le cadre d'une activité de réfection, il n'est pas actuellement envisagé de les dispenser des tests prévus par la réglementation. En effet, selon les laboratoires procédant aux essais, l'assemblage de produits répondant à l'exigence de non-allumabilité ne garantit pas, en toutes circonstances, la conformité de l'article assemblé à cette exigence. S'agissant des articles réalisés à l'unité, la possibilité est donnée aux entreprises fabricant ces produits de les tester, conformément à l'article 4 du décret qui dispose que " les essais peuvent être pratiqués sur des modèles représentatifs de la forme la plus sensible de la gamme technique des produits finis qui seront mis sur le marché ou sur des éprouvettes présentant le même comportement ".
