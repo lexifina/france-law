@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941108374
+
+- Question : [SEQ941108374](seq941108374.md) — Incident au poste frontière gréco-macédonien de Niki
+
+## Réponse
+
+*Affaires étrangères, JO du 1994-12-08, page 2885*
+
+Réponse. - La question des relations entre la Grèce et la Macédoine est suivie avec beaucoup d'attention par la France. A plusieurs reprises la France est intervenue auprès d'Athènes pour l'inciter à reprendre le dialogue avec Skopje, en soulignant les répercussions négatives du blocus entrepris par les Grecs : conséquences économiques tant en Macédoine qu'en Grèce du Nord ; conséquences politiques, avec un risque de déstabilisation de toute la région des Balkans. S'agissant plus particulièrement de l'incident signalé par l'honorable parlementaire, les difficultés qu'ont rencontrées les anciens combattants de l'armée d'Orient, le 27 septembre dernier, à la frontière gréco-macédonienne, ont été traitées par notre consulat général à Thessalonique ainsi que par notre ambassade à Skopje. Le ministère grec de Macédoine et de Thrace a été immédiatement saisi. Selon les explications fournies, le chauffeur du minibus transportant la délégation n'avait pas les papiers nécessaires pour quitter le pays ; aussi seules trois personnes ont pu, grâce au véhicule personnel de notre ambassadeur, se rendre à Bitola. Ce type d'incidents est assez fréquent, compte tenu des tensions frontalières. On constate que, sur le terrain, douaniers et policiers vont souvent au-delà de ce que souhaiteraient leurs autorités hiérarchiques. Nous n'avons pas manqué, dans nos contacts avec les autorités grecques, de souligner les problèmes que posent de tels comportements pour nos relations bilatérales ainsi que pour l'image que la Grèce pouvait avoir parmi nos concitoyens. Les responsables grecs en sont conscients.
