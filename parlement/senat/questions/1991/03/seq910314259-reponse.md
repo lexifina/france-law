@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910314259
+
+- Question : [SEQ910314259](seq910314259.md) — Maintien de la sécurité à Perpignan (Pyrénées-Orientales)
+
+## Réponse
+
+*Intérieur, JO du 1991-05-30, page 1118*
+
+Réponse. - Avec un effectif au 1er janvier 1991 de 278 fonctionnaires (2 commissaires, 31 policiers en civil, 227 policiers en tenue et 18 cadres administratifs) les polices urbaines de Perpignan disposaient d'un potentiel supérieur à celui des agglomérations d'importance comparable, tant sur le plan démographique que sur celui des charges opérationnelles. Le renforcement de la dotation de ce service n'est donc pas envisageable dans l'immédiat. Par ailleurs, l'accroissement des effectifs ne constitue pas la seule solution pour lutter efficacement contre l'insécurité. La mise en place depuis le 1er mai 1990 d'une direction départementale de la police nationale qui regroupe les services des polices urbaines, des renseignements généraux et de la police de l'air et des frontières vise à mieux traiter les questions de sécurité dans le département, particulièrement la délinquance de voie publique. La réorganisation des unités judiciaires à Perpignan, la création d'un service de police judiciaire et l'augmentation très sensible de l'activité de la police de l'air et des frontières sont des outils permettant d'atteindre ces objectifs. Par ailleurs, 26 policiers auxiliaires sont affectés à Perpignan et assistent les personnels titulaires dans des missions de prévention qui repondent aux besoins exprimés par les habitants. L'ensemble de ces services ont été dotés de moyens accrus. Les premiers résultats connus de la lutte contre la délinquance à Perpignan sont d'ailleurs satisfaisants. Au deuxième semestre 1990, le nombre de faits constatés a baissé de 0,64 p. 100 par rapport à la même période en 1989. Cette baisse atteint près de 14 p. 100 au premier trimestre 1991. Ces résultats témoignent de la mobilisation des fonctionnaires de la police nationale.
