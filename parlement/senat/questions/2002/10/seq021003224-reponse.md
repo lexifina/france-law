@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021003224
+
+- Question : [SEQ021003224](seq021003224.md) — Sécurité des sites industriels à risques dans les Hauts-de-Seine
+
+## Réponse
+
+*Écologie, JO du 2003-11-20, page 3388*
+
+La ministre de l'écologie et du développement durable a pris connaissance, avec intérêt, de la question posée au ministre de la fonction publique, de la réforme de l'Etat et de l'aménagement du territoire, relative à la sécurité des sites industriels à risques situés dans les Hauts-de-Seine. Le département des Hauts-de-Seine compte neuf établissements classés SEVESO 2, dont trois dépôts pétroliers au port de Gennevilliers. Le préfet des Hauts-de-Seine a demandé à chacune des entreprises concernées d'établir ou d'actualiser leur étude de dangers. Ces études ont fait l'objet d'une analyse critique par un organisme extérieur expert. Ces analyses sont en cours d'examen par l'inspection des installations classées. Sur chacun de ces dépôts, l'inspection des installations classées a demandé des compléments aux exploitants sur le système de gestion de la sécurité, la politique de prévention des accidents majeurs, la défense contre l'incendie ou le risque inondation, afin de renforcer les mesures de sécurité. Les prescriptions réglementaires ont été renforcées sur le dépôt exploité par TOTAL FINA ELF afin d'améliorer la résistance des bacs. La chaufferie de la Défense a connu en 1994 une grave explosion de gaz ayant causé la mort de deux personnes. Depuis cette date, le gaz n'est plus utilisé en tant que combustible et a été remplacé par du fioul lourd. Un dossier portant sur le renouvellement de l'autorisation concernant l'installation de combustion est en cours d'instruction. Ce dossier, qui comporte notamment une étude de dangers réactualisée, a été soumis à l'avis d'un organisme extérieur expert. Les prescriptions applicables à l'installation seront redéfinies à l'issue de la procédure et prendront en compte cet avis.
