@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880700557
+
+- Question : [SEQ880700557](seq880700557.md) — Régime juridique de protection des accédants à la propriété
+
+## Réponse
+
+*Équipement, JO du 1988-11-03, page 1235*
+
+Réponse. - Le pouvoirs publics ont effectivement la préoccupation, en concertation avec les professionnels de la construction et les associations de consommateurs, d'améliorer le régime de la protection juridique des accédants à la propriété. Il a été récemment demandé à M. Arbefeuille, inspecteur général de l'équipement, de procéder à une étude approfondie des divers dispositifs législatifs et réglementaires servant de support à l'acquisition d'une maison individuelle. Cette étude doit permettre à la fois un diagnostic précis des insuffisances ou faiblesses de ces dispositifs, au regard notamment de l'objectif de protection des consommateurs. Elle comportera également des propositions quant aux solutions susceptibles d'être envisagées afin d'apporter les améliorations nécessaires, qui sont d'ailleurs réclamées par les professionnels eux-mêmes comme en témoigne la récente prise de position de l'Union nationale des constructeurs de maisons individuelles (U.N.C.M.I.) en faveur de l'obligation de garantie extrinsèque. Au vu des conclusions de l'étude menée par M. Arbefeuille, conclusions dont il est prévu qu'elles soient déposées prochainement, le Gouvernement dégagera la position qu'il lui paraît la plus à même de parvenir à un équilibre plus satisfaisant entre la protection des acquéreurs et la nécessité de ne pas freiner le dynamisme du secteur de la construction par un excès de réglementation. Cette disposition sera définie en prenant également en compte les perspectives de l'acte unique européen et les implications qui peuvent en découler quant à l'harmonisation des pratiques professionnelles.
