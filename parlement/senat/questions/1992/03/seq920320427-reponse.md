@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920320427
+
+- Question : [SEQ920320427](seq920320427.md) — Etats généraux de l'emploi
+
+## Réponse
+
+*Travail, JO du 1992-07-23, page 1687*
+
+Réponse. - L'organisation d'états régionaux de l'emploi, annoncée par le ministre du travail, de l'emploi et de la formation professionnelle le 6 mai dernier, répond à la préoccupation exprimée par l'honorable parlementaire de mieux connaître les vrais problèmes des entreprises en matière d'emploi et de définir des actions spécifiques et adaptées au contexte régional. Les modalités pratiques d'organisation de ces états régionaux sont laissées à l'initiative des Préfets de région et pourront donc être différentes d'une région à l'autre. Elles comportent cependant un certain nombre de phases communes : 1° établissement de dossiers régionaux faisant le bilan de la situation de l'emploi dans la région ; 2° consultation des organisations patronales et syndicales représentatives sur le calendrier et l'organisation des débats régionaux et recueil des contributions de ces organisations ; 3° consultation des principaux partenaires publics et privés dans le domaine de l'emploi afin de recenser les initiatives intéressantes déjà prises ; 4° réunion, pour avis et propositions, des principales instances compétentes au niveau régional dans le domaine de l'emploi et de la formation professionnelle ; 5° synthèse de ces travaux lors de rencontres régionales organisées par le préfet de région, sur la base des dossiers régionaux, en faisant part des contributions recueillies. Les organisations patronales et syndicales représentatives au niveau national participeront à ces rencontres. La synthèse de l'ensemble des travaux conduits dans le cadre de ces rencontres sera adressée au ministre du travail, de l'emploi et de la formation professionnelle.
