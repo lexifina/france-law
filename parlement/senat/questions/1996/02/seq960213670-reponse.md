@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960213670
+
+- Question : [SEQ960213670](seq960213670.md) — Timbre-poste en commémoration du cessez-le-feu du 19 mars 1962
+
+## Réponse
+
+*Poste, JO du 1996-06-27, page 1605*
+
+Réponse. - Le ministre délégué à la poste, aux télécommunications et à l'espace partage la volonté de l'honorable parlementaire de rendre hommage aux combattants français en Afrique du Nord entre 1952 et 1962. Cette initiative répond à de nombreuses demandes qu'un timbre-poste soit émis afin d'honorer les combattants français en Afrique du Nord, c'est-à-dire non seulement en Algérie mais aussi au Maroc et en Tunisie, au cours de la période allant de 1952 à 1962. Des timbres ont au demeurant déja été émis par le passé pour rendre hommage aux harkis et aux rapatriés. Le ministre délégué aux anciens combattants et victimes de guerre a par ailleurs fait connaître tout l'intérêt qu'il portait à une telle émission en 1997. Les émissions de timbres-poste sont groupées en programmes annuels dont la composition est fixée par arrêté ministériel, au cours de l'année précédant celle de leur exécution, après avis de la commission des programmes philatéliques chargée d'opérer une sélection parmi toutes les suggestions reçues. Le ministre délégué à la poste, aux télécommunications et à l'espace assure l'honorable parlementaire qu'il veillera à ce qu'une suite favorable soit donnée à la demande d'émission d'un timbre commémorant le sacrifice des combattants morts en Algérie, au Maroc et en Tunisie entre 1952 et 1962, qui fera l'objet d'un examen par la commission des programme philatéliques, lors de sa réunion consacrée à la préparation du programme pour 1997, dans des prochains jours. Afin de lever toute ambiguïté qui pourrait subsister, le ministre délégué à la poste, aux télécommunications et à l'espace souhaite toutefois préciser que ce timbre ne commémorera ni le cessez-le-feu en Algérie ni la date du 19 mars 1962.
