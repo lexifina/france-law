@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920219969
+
+- Question : [SEQ920219969](seq920219969.md) — Politique de la SNCF vis-à-vis des enfants voyageant en groupes
+
+## Réponse
+
+*Équipement, JO du 1992-08-27, page 1966*
+
+Réponse. - La qualité de service qu'assurent aux usagers les grandes entreprises publiques de transport, et notamment la SNCF, est une des priorités de cet établissement public et des services du ministère de l'équipement, du logement et des transports. La SNCF s'efforce en permanence d'améliorer ses prestations et apporte un soin particulier à l'organisation des voyages en groupe. Elle doit en effet, tout en respectant l'objectif d'une bonne gestion de ses moyens, répondre à l'attente de sa clientèle. Elle s'efforce en particulier, conformément à son cahier des charges et de manière à développer l'usage du train, de proposer des tarifs avantageux, dans des conditions assurant la couverture de ses coûts. Cependant l'organisation et la qualité des voyages en groupe que la SNCF peut proposer aux différents organisateurs dépend largement du délai dont elle dispose pour instruire la demande et de la date prévue du voyage. La SNCF doit en effet tenir compte des créneauxhoraires, de son parc existant disponible et des pointes hebdomadaires ou saisonnières. Les services du ministère de l'équipement, du logement et des transports ont rappelé à l'établissement public que conformément aux dispositions de son cahier des charges et du contrat de plan entre l'Etat et la SNCF, il convenait que soient mises en place de bonnes conditions d'information des organisateurs de voyages en groupe sur les services spécifiques offerts par la SNCF à leur attention. Ce sont les conseillers affaires tourisme de chaque direction régionale SNCF, qui doivent rechercher les solutions les mieux adaptées en fonction de la taille des groupes, des possibilités en matériels et bien évidemment des horaires et des périodes choisies.
