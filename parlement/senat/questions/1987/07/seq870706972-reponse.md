@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870706972
+
+- Question : [SEQ870706972](seq870706972.md) — Financement des contrats de formation
+
+## Réponse
+
+*Affaires sociales, JO du 1987-10-15, page 1626*
+
+Réponse. -Le développement des formations professionnelles en alternance, notamment à la faveur du plan pour l'emploi des jeunes, a conduit en effet, certains organismes à refuser la prise en charge de contrats de qualification ainsi que des stages d'initiation à la vie professionnelle. Pour répondre à cette question, un ensemble important de mesures ont été prises ces derniers mois, en accord avec les partenaires sociaux. Ainsi, dès le 27 août 1986, un décret autorisait-il des transferts de fonds entre organismes de mutualisation. A ce jour, 400 millions de francs ont fait l'objet de cette procédure. Par ailleurs, créée, en application de l'article 45 de la loi de finances pour 1986, l'association de gestion du fonds des formations en alternance (A.G.E.F.A.L.) a perçu une partie des fonds dus au Trésor public par les entreprises à défaut d'avoir cotisé à un organisme de mutualisation. Il s'agit d'environ 200 millions de francs qui pourront être abondés, à bref délai, par un prêt de 700 millions de francs dont les modalités sont à l'étude. D'ores et déjà, une première série d'attribution de ces fonds à des organismes en difficulté a été prise. Enfin, la loi n° 87-588 du 30 juillet 1987, portant diverses mesures d'ordre social, fixe à 0,3 p. 100, au lieu de 0,2 p. 100, la fraction de la participation des employeurs au développement de la formation professionnelle consacrée au financement de l'alternance. Cette nouvelle disposition, dont résultera un apport de fonds d'un montant de 1 milliard de francs, devrait permettre à la solidarité professionnelle et interprofessionnelle de s'exercer avec plus d'ampleur.
