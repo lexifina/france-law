@@ -1,13 +1,7 @@
 # Article 24 BIS
 
-Il est institué une gratification égale à un mois de salaire pour le personnel en fonctions au 31 décembre de l'année et ayant au moins deux ans d'ancienneté.
+Il est institué une gratification égale à un mois de salaire pour le personnel ayant au moins deux ans d'ancienneté, au 31 décembre de l'année.
 
-Cette gratification sera mise en place progressivement, à savoir :
+Une partie de cette gratification peut être payée d'avance, au moment de la période des congés payés d'été. Cette partie ne peut pas excéder la moitié de la gratification qui sera due en fin d'année.
 
-- 30 p. 100 de mois au 31 décembre de l'année suivant la signature de la présente convention ;
-
-- 60 p. 100 au 31 décembre de l'année suivante ;
-
-- 100 p. 100 au 31 décembre de celle d'après.
-
-Une partie de cette gratification peut être payée d'avance, au moment des congés payés. Cette partie ne peut pas excéder la moitié de la gratification qui sera due en fin d'année.
+Cette gratification sera versée au salarié remplissant les conditions d'ancienneté au prorata du temps de présence et pourra donc être proratisée en cas de départ en cours d'année.

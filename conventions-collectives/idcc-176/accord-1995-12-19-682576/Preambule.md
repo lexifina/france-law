@@ -1,4 +1,6 @@
-# Article Préambule
+# Article KALIARTI000005858551
+
+Préambule
 
 L'accord collectif du 6 septembre 1995 met en place un dispositif qui permet à certains salariés de bénéficier d'une cessation anticipée d'activité compensée, dans l'entreprise, par les embauches nécessaires au maintien du volume d'heures de travail qu'auraient effectué les intéressés jusqu'à la date normale de leur départ en retraite.
 

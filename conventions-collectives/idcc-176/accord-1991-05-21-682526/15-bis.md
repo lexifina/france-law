@@ -2,40 +2,184 @@
 
 Le régime supplémentaire s'applique selon des modalités identiques à celles prévues à l'article 9.2 de la présente annexe.
 
-Le régime supplémentaire verse en supplément des prestations au régime professionnel conventionnel les prestations suivantes :
+Le régime supplémentaire verse en supplément des prestations prévues au régime professionnel conventionnel selon l'option de l'entreprise, les prestations fixées par l'un des régimes R.S. 1, R.S. 2 ou R.S. Plus ci-après.
+
+Remboursements calculés sur la base de remboursements
+
+effectués par la sécurité sociale
+
+Frais médicaux courants :
+
+Analyses, soins infirmiers, orthophonistes et autres auxiliaires médicaux.
+
+R.S.1 (+) : néant
+
+R.S.2 (+) : 13 % du remboursement de la S.S.
+
+R.S. PLUS (+) : 13 % du remboursement de la S.S.
+
+Soins dentaires.
+
+R.S.1 (+) : 17 % du remboursement de la S.S.
+
+R.S.2 (+) : 37 % du remboursement de la S.S.
+
+R.S. PLUS (+) : 37 % du remboursement de la S.S.
+
+Radiographie.
+
+R.S.1 (+) : néant
+
+R.S.2 (+) : 37 % du remboursement de la S.S.
+
+R.S. PLUS (+) : 37 % du remboursement de la S.S.
+
+(+) S'ajoute aux remboursements du R.P.C.
 
 Remboursements effectués sur la base des frais réels avec limitation à un plafond :
 
 Dans la limite des frais réels à charge, remboursement supplémentaire au remboursement effectué par le régime professionnel conventionnel :
 
-- frais et honoraires médicaux :
+Frais et honoraires médicaux
 
-- généraliste :
+Consultation omnipraticien
 
-- plafond consultation : 20 F
+R.S.1 (+) : 20F
 
-- plafond visite : 20 F
+R.S.2 (+) : 40F
 
-- spécialiste :
+R.S. PLUS (+) : 40F
 
-- plafond consultation : 20 F
+Consultation spécialiste
 
-- plafond visite : 20 F
+R.S.1 (+) : 20F
 
-- frais de prothèse dentaire : 12 F par SCP
+R.S.2 (+) : 100F
 
-- frais de lunettes :
+R.S. PLUS (+) : 100F
 
-- monture : 100 F
+Consultation professeur
 
-- pour chaque verre : 180 F
+R.S.1 (+) : néant
 
-- ou, si plus favorable, y compris le remboursement du R.P.C., 16 fois le tarif de responsabilité de la sécurité sociale pour les adultes, et 3 fois ce tarif pour les enfants.
+R.S.2 (+) : 50F
 
-REMBOURSEMENTS FORFAITAIRES :
+R.S. PLUS (+) : 50F
 
-- maternité : 540 F en cas de péridurale
+Visite omnipraticien
 
-- forfait hospitalier :
+R.S.1 (+) : 20F
 
-- lorsque la sécurité sociale prend en charge à 100 p.100 les frais hospitaliers et que le forfait hospitalier institué par la loi du 19 janvier 1983 reste à la charge de l'assuré, remboursement au titre de ce forfait de : 25 F par jour
+R.S.2 (+) : 40F
+
+R.S. PLUS (+) : 40F
+
+Visite spécialiste
+
+R.S.1 (+) : 20F
+
+R.S.2 (+) : 100F
+
+R.S. PLUS (+) : 100F
+
+Optique
+
+Lunettes :
+
+- monture adulte
+
+R.S.1 (+) : 110F
+
+R.S.2 (+) : 50F
+
+R.S. PLUS (+) : 110F
+
+- monture enfant
+
+R.S.1 (+) : 100F
+
+R.S.2 (+) : 100F
+
+R.S. PLUS (+) : 100F
+
+- verre adulte
+
+R.S.1 (+) : 180F (1)
+
+R.S.2 (+) : 145F (1)
+
+R.S. PLUS (+) : 180F (1)
+
+- verre enfant
+
+R.S.1 (+) : 180F (2)
+
+R.S.2 (+) : 180F (2)
+
+R.S. PLUS (+) : 180F (2)
+
+Lentilles :
+
+- acceptées par la sécurité sociale
+
+R.S.1 (+) : 460 F par paire
+
+R.S. PLUS (+) : 460 F par paire
+
+- refusées par la sécurité sociale
+
+R.S.1 (+) : 920 F par paire
+
+R.S. PLUS (+) : 920 F par paire
+
+Orthodontie acceptée ou refusée par la sécurité sociale
+
+R.S.1 (+) : 12 F par T.O.
+
+R.S.2 (+) : 6 F par T.O.
+
+R.S. PLUS (+) : 12 F par T.O.
+
+Prothèses dentaires acceptées par la sécurité sociale
+
+R.S.1 (+) : 12 F par S.P.R.
+
+R.S.2 (+) : 6 F par S.P.R.
+
+R.S. PLUS (+) : 12 F par S.P.R.
+
+(1) Ou si plus favorable, R.P.C. compris, 1 800 p. 100 du tarif de responsabilité de la sécurité sociale.
+
+(2) Ou si plus favorable, R.P.C. compris, 300 p. 100 du tarif de responsabilité de la sécurité sociale.
+
+(+) S'ajoute aux remboursements du R.P.C.
+
+REMBOURSEMENTS FORFAITAIRES
+
+Maternité
+
+R.S. 1 (+) : 540 F en cas de péridurale
+
+R.S. 2 (+) : 500 F ou 1 040 F en cas de péridurale
+
+R.S. PLUS (+) : 500 F ou 1 040 F en cas de péridurale
+
+Forfait hospitalier lorsque la sécurité sociale prend en charge à 100 p. 100 les frais hospitaliers et que le forfait hospitalier institué par la loi du 19 janvier 1993 reste à la charge de l'assuré, remboursement au titre de ce forfait
+
+R.S. 2 (+) : 20 F par jour
+
+R.S. PLUS (+) : 20 F par jour
+
+Chambre particulière
+
+R.S. 2 (+) : 40 F par jour
+
+R.S. PLUS (+) : 40 F par jour
+
+Cure thermale
+
+R.S. 2 (+) : 16 F par jour
+
+R.S. PLUS (+) : 16 F par jour
+
+(+) S'ajoute aux remboursements du R.P.C.
