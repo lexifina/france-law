@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960515456
+
+- Question : [SEQ960515456](seq960515456.md) — Instauration du tutorat pour favoriser l'insertion en entreprise des bénéficiaires du RMI
+
+## Réponse
+
+*Travail, JO du 1996-07-11, page 1772*
+
+Réponse. - L'honorable parlementaire attire l'attention de M. le ministre sur la nécessité de favoriser l'insertion des bénéficiaires du revenu minimum d'insertion (RMI) en entreprise. Il suggère notamment que les bénéficiaires du RMI puissent conclure des contrats d'insertion en entreprise assortis d'une formation et sous la responsabilité d'un tuteur. Le dispositif mis en place par le Gouvernement pour inciter à l'accueil en entreprise des bénéficiaires du RMI repose sur deux mesures qui correspondent aux suggestions émises par l'honorable parlementaire. Pour les entreprises exprimant un besoin de recrutement, l'insertion d'un bénéficiaire du RMI à travers un contrat initiative emploi (CIE) leur permet, au-delà du bénéfice de la prime versée par l'Etat et de l'allégement substantiel des charges sociales, de bénéficier d'une aide au tutorat et si nécessaire d'une aide à la formation. D'autre part lorsqu'un besoin de formation a été diagnostiqué pour un bénéficiaire du RMI, il peut être monté un stage d'insertion et de formation à l'emploi (SIFE). Afin de faciliter le retour à l'emploi, ces stages sont effectués en grande partie en entreprise toutes les fois que c'est possible. Le bénéficiaire du RMI bénéficie alors de la rémunération des stagiaires de la formation professionnelle. Dans l'un et l'autre cas, la reprise d'activité est favorisée par un dispositif d'intéressement qui serait l'incitation pécuniaire du bénéficiaire. Les services déconcentrés de l'Etat et l'ANPE ont reçu des instructions pour que ces dispositifs soient bien réservés en priorité aux publics en grande difficulté et en particulier aux bénéficiaires du revenu minimum d'insertion.
