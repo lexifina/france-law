@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950109386
+
+- Question : [SEQ950109386](seq950109386.md) — Elargissement aux exploitants agricoles des dispositions de la loi Madelin de déduction du revenu des cotisations volontaires de retraite
+
+## Réponse
+
+*Agriculture, JO du 1995-03-09, page 559*
+
+Réponse. - Les cotisations versées par des agriculteurs au régime complémentaire d'assurance vieillesse des personnes non salariées des professions agricoles, institué en application de l'article 1122-7 du code rural sont déductibles de revenu professionnel des intéressés pour le calcul de l'impôt. Cette disposition résulte d'un texte législatif, en l'occurrence de l'article 42-3 de la loi no 88-1202 du 30 septembre 1988 relative à l'adaptation agricole à son environnement économique et social. En vertu de l'article 24 (codifié à l'article 154 bis du code général des impôts) de la loi no 94-126 du 11 février 1994 relative à l'initiative et à l'entreprise individuelle, les membres des professions commerciales et libérales peuvent désormais déduire de leur bénéfice imposable des cotisations et versements obligatoires ou facultatifs au titre de la retraite ou de la prévoyance, y compris les primes versées au titre des contrats d'assurance de groupe. S'il est vrai que le champ des organismes ouvrant droit au bénéfice de la déduction fiscale pour les cotisations versées est plus large pour les ressortissants des professions non salariées non agricoles que pour les membres des professions non salariées agricoles, il n'en demeure pas moins que seul le régime COREVA (complément de retraite vieillesse agricole) offre aujourd'hui à ses ressortissants la déductibilité, non seulement fiscale, mais également sociale des cotisations versées. Compte tenu de cette disposition favorable, l'alignement du régime agricole de retraite complémentaire volontaire sur celui mis en place par la loi du 11 février 1994 n'a pas été retenu dans la loi de modernisation de l'agriculture.
