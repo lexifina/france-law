@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010633618
+
+- Question : [SEQ010633618](seq010633618.md) — Position de la France à Bruxelles sur le droit de licenciement
+
+## Réponse
+
+*Affaires européennes, JO du 2001-07-19, page 2383*
+
+L'honorable parlementaire a bien voulu appeler l'attention du ministre délégué chargé des affaires européennes sur la position française relative aux sanctions que pourraient encourir les entreprises qui, procédant à ces licenciements, ne respecteraient pas les exigences minimales en matière d'information et de consultation des salariés. Lors du Conseil emploi-politique sociale du 11 juin dernier, un accord politique a été trouvé concernant la directive sur l'information et la consultation des travailleurs, dite directive " Vilvorde ". La France s'en réjouit vivement. Elle avait, sous sa présidence de l'Union européenne, remis à l'ordre du jour cette proposition de directive, qui datait de 1998, et en avait fait une priorité. Ce texte, qui obligera les entreprises à consulter leurs salariés avant de prévoir des licenciements collectifs, renvoie essentiellement la responsabilité du régime de sanctions à la législation nationale. Cette solution a permis de trouver un consensus. La France, loin de s'opposer à l'institution de sanctions contre les entreprises ne respectant pas les droits à l'information et la consultation des salariés, avait appuyé une proposition visant à instituer un système de sanctions plus efficaces qui aurait conduit à suspendre l'effet des décisions prises en violation grave des obligations d'information-consultation. La ministre de l'emploi et de la solidarité avait regretté qu'il n'ait pas été possible d'aller plus loin en matière de sanctions, tout en se réjouissant de la conclusion positive de la négociation sur ce texte. Elle a eu l'occasion de le dire à nouveau, devant la Haute Assemblée, en rendant compte de ce Conseil de l'Union européenne.
