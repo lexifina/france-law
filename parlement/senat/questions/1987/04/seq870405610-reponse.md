@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870405610
+
+- Question : [SEQ870405610](seq870405610.md) — Effectif des maîtres-nageurs-sauveteurs CRS
+
+## Réponse
+
+*Intérieur, JO du 1987-05-21, page 816*
+
+Réponse. -Afin d'assurer la sécurité des estivants pendant leurs vacances et pour aider les élus des communes du littoral à faire face à leurs responsabilités quant à la surveillance des lieux de baignade, d'importants effectifs de maîtres nageurs sauveteurs des compagnies républicaines de sécurité sont mis chaque année à la disposition des municipalités. Ces renforts saisonniers sont nécessairement limités, tant en nombre qu'en durée, notamment pour permettre de maintenir un niveau de disponibilité compatible avec la vocation de réserve ministérielle des C.R.S., assurer des besoins d'emploi liés au référendum de Nouvelle-Calédonie et respecter les engagements découlant du protocole d'accord ministère de l'intérieur - ministère de la défense relatifs au partage des zones de compétence. Cependant, pour tenir compte de la fréquentation et du caractère particulier des plages, les départements côtiers de la région Aquitaine bénéficieront de renforts dont le nombre est sensiblement équivalent à celui de 1986 : en Gironde : 53 maîtres nageurs sauveteurs répartis sur 7 communes ; dans les Landes : 90 maîtres nageurs sauveteurs répartis sur 10 communes ; en Pyrénées-Atlantiques : 47 maîtres nageurs sauveteurs répartis sur 5 communes. De plus, les dispositions concernant les dates de ces renforts seront, par dérogation au régime général, celles qui étaient déjà en vigueur les années précédentes. En effet, alors que pour le reste du territoire national la mise en place des maîtres nageurs sauveteurs ne concerne que la période des vacances scolaires (30 juin - 6 septembre), les renforts sur le littoral aquitain seront mis en place dès le 13 juin et maintenus jusqu'au 13 septembre.
