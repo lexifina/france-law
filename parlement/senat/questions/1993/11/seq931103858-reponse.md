@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931103858
+
+- Question : [SEQ931103858](seq931103858.md) — Instruction des dossiers des réactifs d'analyses de biologie médicale
+
+## Réponse
+
+*Affaires sociales, JO du 1994-03-31, page 715*
+
+Réponse. - Il est précisé que si la réglementation française (décret du 8 septembre 1982) dans le domaine des réactifs a été très utile à la santé publique et a permis d'acquérir une expérience précieuse dans les réunions d'experts concernant la préparation d'une directive européenne, elle a été appliquée de manière identique à tous les dossiers, contrairement à ce qui se pratique dans les autres pays. Le retard considérable qui est évoqué fait suite à la réorganisation décidée en juin-juillet 1991, pour transférer l'instruction des dossiers d'enregistrement des réactifs du site de Montpellier à Paris, sans toutefois l'accompagner des moyens humains qui y étaient affectés. Quelques recrutements ont eu lieu dès 1993, ainsi que le recours à des experts pour les dossiers les plus sensibles. La création d'une taxe d'enregistrement spécifique devant permettre de dégager les moyens nouveaux nécessaires à la résorption du retard, la mise en place auprès de l'agence d'une commission consultative pour l'enregistrement des réactifs et dans la continuité de la loi no 94-43 du 18 janvier 1994, la préparation d'un nouveau décret instituant un dispositif de réactovigilance et des possibilités de suspension ou de retrait des produits jugés moins performants devraient permettre à l'enregistrement des réactifs de ne plus connaître la situation chaotique stigmatisée par le rapport de l'IGAS. Enfin, l'implantation des laboratoires à l'Agence du médicament sur le site de Saint-Denis a pour objectif majeur de rendre l'installation des personnels scientifiques et techniques conforme aux normes en vigueur et de leur offrir des conditions de travail compatibles avec les obligations de résultats qui leur seront de plus en plus imposées.
