@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870305185
+
+- Question : [SEQ870305185](seq870305185.md) — Avenir des finances locales
+
+## Réponse
+
+*Budget, JO du 1987-06-04, page 881*
+
+Réponse. -Une réforme d'ensemble de la fiscalité locale n'est pas envisagée pour l'instant. Cela dit, l'article 6 de la loi de finances pour 1987 comporte deux importantes mesures en matière de taxe professionnelle. A compter de 1987, les bases de la taxe professionnelle sont réduites de 16 p. 100. Compte tenu de la suppression du dégrèvement de 10 p. 100 institué en 1985, l'allégement supplémentaire de taxe professionnelle atteindra 5 milliards de francs en 1987. La seconde mesure se substituera à la réduction pour investissement instituée en 1982 et limitera, à compter de 1988, l'incidence des augmentations des bases de la taxe professionnelle des établissements qui embauchent ou investissent ; ces augmentations seront réduites de moitié, sous réserve de la variation des prix. La perte de recettes qui résultera de ces deux mesures pour les collectivités locales sera compensée par l'Etat. D'autre part, conformément à ses engagements, le Gouvernement vient de mettre en place une commission qui est chargée d'une étude sur les perspectives d'évolution de la taxe professionnelle. Cette commission est présidée par M. le sénateur Ballayer. Enfin, l'article 29 de la loi de finances rectificative pour 1986 (n° 86-824 du 11 juillet 1986) prévoit l'actualisation des valeurs locatives foncières en 1988 et leur révision pour le calcul des impositions dues au titre de 1990. Une expérimentation en grandeur réelle a été effectuée dans plusieurs départements. Ses conclusions, dont l'examen est en cours, permettront d'éclairer le choix des méhodes d'évaluation et celui des mesures susceptibles d'atténuer les transferts liés à la révision des valeurs locatives des propriétés non bâties. Ces précisions paraissent de nature à répondre aux préoccupations de l'honorable parlementaire.
