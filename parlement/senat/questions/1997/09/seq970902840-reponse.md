@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970902840
+
+- Question : [SEQ970902840](seq970902840.md) — Situation des gens du voyage
+
+## Réponse
+
+*Logement, JO du 1997-11-13, page 3171*
+
+Réponse. - Le droit au stationnement des gens du voyage est actuellement régi par différents textes, en particulier la loi du 31 mai 1990 relative à la mise en oeuvre du droit au logement. Les communes de plus de 5 000 habitants ont l'obligation de créer seules ou en se regroupant une aire de stationnement aménagée. L'alinéa 3 de l'article 28 de cette loi permet aux maires des communes dotées d'aires de passage et de séjour, d'interdire le stationnement des gens du voyage sur le reste du territoire. A défaut, le stationnement des caravanes sur les petites communes est régi par une circulaire du 16 décembre 1986 du ministère de l'intérieur qui indique qu'un terrain sommairement équipé doit permettre une halte minimale de 48 heures. Lorsque les obligations résultant de la loi du 31 mai 1990 sont respectées, le maire peut, par un arrêté municipal, interdire le stationnement des gens du voyage. Encore convient-il que lesdits emplacements réservés pour eux soient d'une capacité suffisante, c'est-à-dire répondant aux besoins, et pourvue d'aménagements. Actuellement les bilans établis par les services de l'Etat et les gestionnaires montrent que dès lors qu'une aire répond à la volonté d'accueil des gens du voyage et est bien gérée, l'occupation est effective et les usagers s'acquittent d'une participation financière correspondant à peu près à 25 % du budget annuel. Les 75 % restant proviennent généralement des subventions des conseils généraux, du ministère de l'emploi et de la solidarité et des caisses d'allocations familiales. Il reste à la charge des communes, en moyenne, entre 20 et 30 % du budget. C'est à la lumière de l'ensemble de ces éléments qu'il conviendra d'apprécier les modifications législatives qui pourraient être envisagées.
