@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960817301
+
+- Question : [SEQ960817301](seq960817301.md) — Financement du Fonds national des adductions d'eau
+
+## Réponse
+
+*Premier ministre, JO du 1997-03-13, page 761*
+
+Réponse. - La discussion au Parlement du projet de loi de finances pour 1997 a conduit à ne pas modifier les modalités de financement du Fonds national pour le développement des adductions d'eau (FNDAE). Ainsi, comme les années précédentes, le FNDAE demeure financé à la fois par une redevance sur les consommations d'eau (dont le produit est évalué à 532 MF pour 1997), et par un prélèvement sur le produit du pari mutuel urbain (évalué à 458 MF pour 1997). Au total, les ressources 1997 du FNDAE ont donc été estimées à 990 MF, ce qui marquerait une progression de 69 MF par rapport à 1996. La seule modification apportée par la loi de finances pour 1997 au fonctionnement du FNDAE est l'extension de son champ d'intervention au programme de maîtrise des pollutions d'origine agricole (PMPOA). En effet, la dégradation de la qualité des ressources en eau dans certaines régions conduit les services responsables à investir dans des systèmes de traitement coûteux, ou même dans certains cas critiques, à abandonner les captages pollués et à trouver de nouvelles sources d'approvisionnement. Le PMPOA, mis en oeuvre depuis 1994 et cofinancé depuis lors par les agriculteurs, l'Etat, les régions et les agences de l'eau, vise à garantir une préservation accrue de l'environnement en limitant en amont la pollution émise par les élevages. Ainsi, à compter de 1997, le FNDAE pourra intervenir dans le financement du PMPOA, sur la base de conventions tripartites librement négociées entre les conseils généraux, les agences de l'eau et le fonds, permettant de définir les priorités en matière d'adduction d'eau et d'assainissement en milieu rural, et les moyens qui doivent y être consacrés.
