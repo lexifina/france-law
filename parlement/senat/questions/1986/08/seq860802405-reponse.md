@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860802405
+
+- Question : [SEQ860802405](seq860802405.md) — Réforme de l'Office national des forêts
+
+## Réponse
+
+*Agriculture, JO du 1986-11-06, page 1558*
+
+Réponse. -Dans une conjoncture économique difficile, l'Office national des forêts doit faire la preuve de sa capacité à se mobiliser en vue d'améliorer son efficacité et d'assumer l'ensemble de ses missions au profit de la forêt publique. La réduction prévue des effectifs à réaliser entre 1986 et 1988, dans le cadre du contrat de plan conclu entre l'Etat et l'office, se fera sans licenciement grâce aux départs naturels et à un redéploiement limité des personnels. Elle sera facilitée par une réorganisation des services extérieurs visant à adapter ceux-ci à la nature et au poids des missions à accomplir et à garantir une présence efficace de l'établissement aux niveaux majeurs des structures administratives et politiques, spécialement auprès des communes forestières. Ces mesures concourront à l'amélioration de la productivité globale de l'établissement public et au rétablissement de son équilibre financier, lequel seul permettra de retrouver et de maintenir un niveau satisfaisant de travaux d'entretien et de renouvellement dans les forêts domaniales. L'allégement des procédures, la déconcentration des niveaux de décision, l'adaptation de la formation des personnels, la modernisation des outils de gestion contribueront également à améliorer l'efficacité de l'Office national des forêts. Il est prévu parallèlement d'améliorer sensiblement l'action technique de l'office, grâce à l'utilisation de méthodes modernes de sylviculture et au développement de la recherche. L'établissement public continuera à assumer l'ensemble de ses missions, notamment celles concernant les forêts des collectivités locales, en maintenant la qualité du service rendu. A cette fin, le versement compensateur de l'Etat sera maintenu en valeur constante pendant toute la durée du contrat de plan.
