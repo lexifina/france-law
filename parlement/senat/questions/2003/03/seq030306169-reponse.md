@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030306169
+
+- Question : [SEQ030306169](seq030306169.md) — Projet de modification du décret D. 171-1 du code de la sécurité sociale relatif aux polypensionnés
+
+## Réponse
+
+*Affaires sociales, JO du 2004-02-12, page 354*
+
+Les pensions de réversion ont été profondément modifiées dans le cadre de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites. L'article 31 de cette loi simplifie sensiblement le système qui subordonnait l'attribution d'une pension de réversion à de multiples conditions, d'âge, de non-remariage, de plafond de ressources et de limite de cumul entre la pension de droit direct et la pension de réversion. Au 1er juillet 2004, en application de la loi, le conjoint survivant devra seulement satisfaire à une condition de ressources personnelles, s'il vit seul, ou de son couple, le cas échéant, pour bénéficier de la pension de réversion. Celle-ci sera désormais servie sous forme d'une pension différentielle par rapport à un plafond de ressources, sans condition de durée de mariage ou de d'absence de remariage. En conséquence, les articles D. 171-1 et D. 355-1 du code de la sécurité sociale, qui précisent le mode de calcul des limites de cumul entre avantages personnels et avantage de réversion, dans les cas où le conjoint survivant relevait de plusieurs régimes de retraite de base, n'auront plus d'objet. Toutefois, jusqu'à l'entrée en vigueur du nouveau dispositif, il est nécessaire de clarifier le droit et de conforter l'égalité entre monopensionnés et polypensionnés. Tel est, en effet, l'esprit des articles D. 171-1 et D. 355-1 : lorsqu'il y a plusieurs pensions de réversions à servir au conjoint survivant, il est logique de ne prendre en compte qu'une fraction de la pension personnelle, mais il est indispensable, en cohérence, de fractionner également le plafond de cumul. C'est l'objet d'un projet de décret en cours de préparation.
