@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870405539
+
+- Question : [SEQ870405539](seq870405539.md) — Maintien en fonction d'une conjointe enseignante recrutée locale en Algérie
+
+## Réponse
+
+*Affaires étrangères, JO du 1987-08-13, page 1260*
+
+Réponse. -Les règles concernant les mutations pour raison de service figurant dans la note n° 86278 parue au Bulletin officiel n° 36 du 16 octobre 1986 (alinéa 222) ne concernent que les enseignants exerçant sur le territoire français et ne sont en aucune façon applicables à l'étranger. En effet l'établissement de la carte scolaire à l'étranger, et en particulier en Algérie, pose des problèmes spécifiques qui appellent des solutions particulières. Néanmoins, il est possible d'affirmer que tous les cas de mutations internes pour raison de service sont étudiées avec le plus grand soin et que tous les paramètres à caractère professionnel et personnel sont pris en compte. En particulier en Algérie l'administration centrale de l'office universitaire et culturel français pour l'Algérie évite, dans toute la mesure du possible, d'imposer des mutations à des enseignants mariés dont les conjoints ne peuvent, pour raisons professionnelles, changer de lieu de résidence. Une procédure contraire ne manquerait pas de créer des graves problèmes familiaux ou de priver de travail les enseignants qui n'accepteraient pas le principe d'une séparation familiale. Le cas évoqué par l'honorable parlementaire correspond à cette situation. En effet l'enseignante à qui été proposé une mutation était la seule qui, de par sa situation familiale actuelle, pouvait se déplacer sans entraîner les problèmes cités précédemment. Le ministère des affaires étrangères est néanmoins intervenu auprès des autorités compétentes de l'office pour que la situation de cet agent soit réexaminée avec toute l'attention qu'elle mérite.
