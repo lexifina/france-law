@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990415782
+
+- Question : [SEQ990415782](seq990415782.md) — Délai d'obtention des cartes d'identité et usage d'autres documents d'identité
+
+## Réponse
+
+*Intérieur, JO du 1999-05-27, page 1796*
+
+Réponse. - Afin de conserver à la carte nationale d'identité un maximum de sécurité et de fiabilité, il a été décidé de n'apporter aucune modification concernant les contrôles portant sur l'état civil et sur la nationalité des demandeurs de titre, même si la mesure de gratuité intervenue le 1er septembre 1998 a provoqué une augmentation considérable du nombre des demandes et par conséquent un allongement des délais d'obtention de cette carte. Il serait regrettable que la réduction de ces délais se fasse au détriment de l'exigence de fiabilité de ce titre d'identité. Différentes mesures ont été prises pour permettre de régler ces difficultés dans les meilleures conditions. Il a notamment été décidé de réaliser des redéploiements de personnel et de recourir aux heures supplémentaires et à des agents vacataires. En outre, chaque fois que la nécessité l'exige, il est rappelé que la législation actuellement en vigueur permet d'apporter la preuve de son identité par tous documents officiels comportant une photographie ressemblante, tels que le passeport, la carte du combattant, la carte d'invalidité civile ou militaire, la carte d'identité de fonctionnaire, le permis de conduire et le permis de chasser, la carte de transport de la société nationale des chemins de fer français. En revanche, il n'apparaît pas souhaitable que les fiches individuelles d'état civil puissent permettre de justifier de son identité. Toutefois, il appartient au ministre de l'éducation nationale de déterminer la liste des documents qu'il souhaite accepter pour permettre l'accès aux salles d'examens.
