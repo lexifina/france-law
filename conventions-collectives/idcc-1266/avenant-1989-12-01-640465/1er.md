@@ -1,16 +1,16 @@
-# Article 1
+# Article 1er
 
 La reprise par le nouvel employeur du personnel de statut employé prévue dans l'avenant n° 3 s'effectue dans tous les cas, à l'exception des deux situations suivantes appréciées au moment de la passation du marché :
 
-- E.R. 1 : légumier, aide de cuisine, commis de pâtisserie, commis cuisinier (débutant) ;
+- le remplacement d'un système de production sur place par la livraison des repas à partir d'une unité de production. Cette expérience ne concerne que le personnel suivant :
 
-- E.R. 2 : 1er commis (ou cuisinier), pâtissier ;
+- légumier, aide de cuisine, commis pâtissier, commis cuisinier (débutant) ;
 
-- E.R.Q. 1 : chef de partie, second de cuisine (sous-chef de cuisine) ;
+- 1er commis (ou cuisinier), pâtissier ;
 
-- E.R.Q. 1 : chef de partie, second de cuisine (sous-chef de cuisine) ;
+- chef de partie, second de cuisine (sous-chef de cuisine) ;
 
-- E.R.Q. 2 : chef de cuisine, chef pâtissier ;
+- chef de cuisine, chef pâtissier ;
 
 - le transfert du lieu d'exploitation entraînant une modification substantielle aux contrats de travail des salariés de cette exploitation.
 

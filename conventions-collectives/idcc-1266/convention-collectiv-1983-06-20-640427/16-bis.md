@@ -2,31 +2,7 @@
 
 A. - Classification des emplois
 
-Les emplois sont classés en six niveaux, dont :
-
-Deux niveaux de personnel sans qualification reconnue :
-
-- employé de restaurant premier échelon (ER 1), sans responsabilités ;
-
-- employé de restaurant deuxième échelon (ER 2), avec responsabilités ;
-
-Deux niveaux de personnel avec qualification reconnue :
-
-- employé de restaurant qualifié premier échelon (ERQ 1), sans responsabilités ;
-
-- employé de restaurant qualifié deuxième échelon (ERQ 2), avec responsabilités.
-
-Ces quatre niveaux sont totalement indépendants du statut (employé, maîtrise, cadre).
-
-Un niveau gérant.
-
-Un niveau cadre.
-
-Les définitions par niveau sont jointes en annexe à la présente convention collective.
-
-Compte tenu de la nécessaire polyaptitude, elles ne constituent pas une liste exhaustive et rigide des tâches de chacun. Chaque employé participe aux travaux communs et peut être amené à effectuer des travaux annexes tenant compte du caractère spécifique de chacun des restaurants, notre activité de service ayant cette particularité de devoir, avant tout, s'adapter aux besoins du client.
-
-Les conditions d'accès aux statuts agents de maîtrise et cadre sont également jointes en annexe.
+- annulé et remplacé par l'avenant n° 21 du 21 février 1997 étendu par arrêté du 25 juillet 1997 JORF 2 août 1997 -
 
 B. - Salaire de base minimum (S.B.M.)
 
