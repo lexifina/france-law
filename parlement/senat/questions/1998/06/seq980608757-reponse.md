@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980608757
+
+- Question : [SEQ980608757](seq980608757.md) — Nombre de postes en " service ville " du service national
+
+## Réponse
+
+*Défense, JO du 1998-07-02, page 2143*
+
+Réponse. - La loi nº 97-1019 du 28 octobre 1997 portant réforme du service national organise en particulier la phase de transition vers l'armée professionnelle qui s'achèvera fin 2002. Seuls les jeunes gens nés avant le 1er janvier 1979 effectueront, durant cette période, un service national dans les conditions actuelles jusqu'au 31 décembre 2002. Or l'article L. 6 du code du service national dispose que les besoins des armées sont satisfaits en priorité dans la répartition des assujettis aux différentes formes du service national. Il est en effet impératif que les armées disposent d'appelés en nombre et en qualité suffisants pour que la transition vers l'armée professionnelle s'effectue dans des conditions qui garantissent le maintien des capacités opérationnelles des forces. Aussi l'année 1998 marque-t-elle une première décroissance significative des effectifs incorporés au titre des formes civiles (coopération, aide technique, police nationale, sécurité civile) et des protocoles (ville, environnement). Cette décroissance permet une répartition adaptée des appelés entre les affectations au sein des forces et de la gendarmerie nationale et les affectations dans les autres services civils. Dans le cadre du protocole ville, le ministère de la défense a ouvert, au titre de l'année 1998, 5 000 postes à la disposition de la délégation interministérielle à la ville, contre 10 000 postes en 1997. La gestion de cette ressource relève des ministères concernés par ce protocole, auprès desquels les jeunes appelés sont mis à disposition.
