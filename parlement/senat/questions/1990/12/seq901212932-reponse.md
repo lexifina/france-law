@@ -1,0 +1,11 @@
+# Réponse à la question SEQ901212932
+
+- Question : [SEQ901212932](seq901212932.md) — Nouveau schéma d'organisation du CNRS
+
+## Réponse
+
+*Recherche, JO du 1991-06-06, page 1183*
+
+Réponse. - Le plan de modernisation du C.N.R.S. définit l'ambition d'un organisme de recherche à l'échelle européenne. Il s'appuie sur trois atouts spécifiques de l'établissement : la pluridisciplinarité, la taille, l'expérience de partenariat avec les universités, les entreprises et les laboratoires étrangers. Il a pour première condition une réforme en profondeur de la gestion de l'organisme. Dans ce cadre ont été mises en place une délégation aux ressources humaines, chargée de valoriser les compétences face à la compétition internationale, ainsi que des délégations régionales, chargées d'améliorer les opérations de déconcentration en rapprochant la gestion des laboratoires et des hommes, qui sont opérationnelles depuis le 1er octobre 1990. Une seconde condition de modernisation implique une évolution vers le décloisonnement et la fluidité des échanges entre les disciplines et les départements scientifiques. Dans ce contexte, le premier rapport de conjoncture ducomité national, élaboré toutes disciplines confondues, a été publié en janvier 1990. Des réflexions ont été menées sur la réalisation de projets interdisciplinaires, qui ont permis le lancement de trois d'entre eux : I.M.A.B.I.O. (ingénierie des macromolécules biologiques), Cognisciences (sciences cognitives) et Ultimatech (les techniques poussées à leurs limites). La réactualisation du découpage du comité national a été réalisée selon une logique d'évaluation scientifique fondée sur l'organisation des sciences en champs scientifiques, en systèmes réassociant les disciplines, aboutissant à 40 sections au lieu de 45, fixées par l'arrêté du 18 février 1991. Enfin, soutenant et stimulant cette démarche, le premier schéma stratégique du C.N.R.S. qui se substitue aux anciens schémas directeurs par départements scientifiques, a été adopté en octobre 1990 par le conseil d'administration. C'est, à tous les échelons, un instrument permanent de cohérence, de cohésion et de d
+
+ialogue, qui trace les axes de développement du C.N.R.S. pour les trois prochaines années.
