@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020701123
+
+- Question : [SEQ020701123](seq020701123.md) — Rapport Nitisco
+
+## Réponse
+
+*Santé, JO du 2002-10-17, page 2408*
+
+Le projet de directive européenne " établissement des normes de qualité et de sécurité pour la collecte, le contrôle, la transformation, le stockage et la distribution du sang humain et de ses composants " est actuellement en discussion auprès du Parlement européen. Ce texte vise à garantir au sein de l'Union un niveau élevé et comparable de sécurité et de qualité des produits sanguins labiles, pour les patients transfusés comme pour les donneurs de sang. Le projet, tel qu'il a été présenté par la Commission européenne au Parlement, en juin 2001, rappelle le bien-fondé du recours au bénévolat et au volontariat du don. Les travaux menés par le ministère de la santé sur ce texte ont été étroitement concertés avec les principaux acteurs de la transfusion sanguine française (EFS, AFSSaPS). La Fédération française des donneurs de sang bénévoles (FFDSB) a également été consultée. La position française a ainsi permis d'assurer la référence au bénévolat et au volontariat comme valeur éthique fondant le don du sang et comme principe fort de la sécurité transfusionnelle. Les discussions parlementaires des derniers mois ont permis d'aboutir à un texte dans lequel le recours à ces principes est fermement rappelé. Par ailleurs, le ministère de la santé et l'EFS entretiennent des relations étroites et constantes avec la FFDSB, particulièrement dans son travail d'animation de la Fédération internationale des organisations des donneurs de sang bénévoles (FIODS) et dans son action européenne et internationale en faveur du bénévolat et du volontariat. Enfin, l'EFS, par les actions de coopération internationale et de formation qu'il mène en Europe notamment, s'attache à faire valoir ces principes comme des éléments importants de la sécurisation du système transfusionnel.
