@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911017657
+
+- Question : [SEQ911017657](seq911017657.md) — Unification tarifaire des télécommunications
+
+## Réponse
+
+*Postes, JO du 1991-12-19, page 2865*
+
+Réponse. - Depuis longtemps déjà, l'évolution tarifaire en matière de télécommunications met davantage l'accent sur la durée d'utilisation que sur la distance. C'est ainsi que le nombre de paliers utilisés pour les communications à moyenne et longue distances a été progressivement diminué, jusqu'à ne plus comporter, depuis 1979, qu'un seul palier au-delà de 100 kilomètres. Par ailleurs, plusieurs baisses successives ont ramené depuis cinq ans le prix de l'unité Télécom de 0,77 franc à 0,73 franc, soit une baisse de 5,2 p. 100 ; le prix moyen des appels interurbains à longue distance a été, par l'allongement du délai entre impulsions, baissé à cinq reprises au cours des cinq dernières années. Il est résulté de l'ensemble de ces mesures une baisse du prix des appels à longue distance de 33 p. 100 en francs courants, voire 43,6 p. 100 s'agissant d'utilisateurs assujettis à la taxe sur la valeur ajoutée, cas de la plupart des entreprises. L'ensemble de ces mesures rendla tarification plus juste, de moins en moins liée à la distance, et plus proche de la vérité des prix. Il est néanmoins évident qu'une telle restructuration tarifaire ne peut se poursuivre que progressivement, compte tenu des écarts existants et des masses financières en jeu. La politique tarifaire, telle qu'elle a été définie dans le contrat de Plan signé entre l'Etat et France Télécom, a pour objectif de poursuivre le rapprochement entre tarifs locaux et interurbains et de mettre en place le système dit des " zones locales élargies " en 1994. Ce système, analogue à celui de certains pays voisins, consiste à tarifer les relations entre circonscriptions limitrophes au même prix qu'un appel local. Ainsi, le nombre de correspondants accessibles au tarif local sera multiplié par sept en moyenne.
