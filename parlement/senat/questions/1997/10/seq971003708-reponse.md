@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971003708
+
+- Question : [SEQ971003708](seq971003708.md) — Aménagement de la RN 39
+
+## Réponse
+
+*Équipement, JO du 1998-02-26, page 665*
+
+Réponse. - La route nationale 39 entre Arras et Le Touquet fait l'objet, depuis plusieurs plans, d'aménagements progressifs de capacité. Afin d'inscrire ces travaux dans une perspective d'ensemble, une étude a récemment été conduite pour définir son parti d'aménagement à terme. Cette étude, qui est maintenant achevée, a effectivement mis en évidence l'existence d'un fort trafic estival en direction de la Côte d'Opale, mais aussi celle d'un trafic " domicile - travail " important à l'approche d'Arras. Sans attendre les conclusion de l'étude, et afin d'améliorer les conditions de circulation sur cette route à l'ouest d'Hesdin, un montant de 210 MF a été inscrit au XIe Plan pour la réalisation d'une route neuve à deux voies et d'échanges dénivelés entre les communes de Lambus et de Bloville. Cet aménagement est actuellement en service, à l'exception des échanges d'extrémités qui doivent être mis en service en 1999. L'étude préliminaire menée sur l'ensemble de l'itinéraire étant terminée, la prochaine étape consistera à soumettre les résultats pour avis aux élus. Une phase de concertation au niveau régional doit ainsi pouvoir être engagée d'ici l'été 1998 afin de permettre une prise de décision au deuxième semestre de cette année. Le parti d'aménagement que l'Etat compte proposer consiste en l'aménagement en artère interurbaine de la RN 39 entre Arras et la jonction avec la future autoroute A 24. Ensuite, au-delà jusqu'à Hesdin, il s'agira de réaliser une route express à deux fois deux voies. Enfin, à partir d'Hesdin jusqu'à l'A 16 à l'approche du Touquet, les différents itinéraires parallèles existants autoriseraient de construire uniquement une nouvelle infrastructure à deux voies. Ce sont les travaux qui viennent d'être réalisés dans le cadre du contrat de plan.
