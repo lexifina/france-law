@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860601858
+
+- Question : [SEQ860601858](seq860601858.md) — Gestion et création de cabines téléphoniques par des sociétés privées
+
+## Réponse
+
+*Postes et télécommunications, JO du 1986-08-28, page 1233*
+
+Réponse. -L'initiative évoquée, dont les modalités ne sont pas encore totalement arrêtées, vise à permettre à des entreprises privées d'offrir un service de téléphone public complémentaire du service existant. Il convient de souligner qu'il s'agit d'un domaine, dont l'honorable parlementaire rappelle à juste titre l'importance du chiffre d'affaires (3 milliards de francs), mais sans mentionner que son déficit d'exploitation a pu être évalué à 700 millions de francs ; et il faut, en outre, indiquer que l'innovation réside uniquement dans le fait que ces cabines seront sur la voie publique ; depuis fort longtemps en effet, dans le cadre du régime d'autorisation prévue par l'article L. 33 du code des postes et télécommunications, il existe des cabines téléphoniques publiques installées, entretenues et gérées par des sociétés privées dans des lieux privés ouverts au public (débits de boisson, galeries marchandes, grands magasins...). Cette initiative ne vise nullement à privatiser les cabines existantes, mais à mettre en concurrence divers opérateurs sur le secteur des cabines afin d'offrir aux usagers des services plus étendus. Cette mise en concurrence devrait avoir des effets bénéfiques sur la qualité du service offert, voire permettre de dégager des solutions originales. Il ne s'agit en aucune manière d'un démantèlement, puisque le réseau géré par la direction générale des télécommunications sera maintenu, développé et continuera d'être géré par elle ; il s'agit bien plutôt de complémentarité entre le secteur public et le secteur privé dans un domaine où le niveau actuel des investissements publics n'est pas suffisant pour assurer la satisfaction totale des besoins.
