@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011136890
+
+- Question : [SEQ011136890](seq011136890.md) — Critères du choix du site aéroportuaire de Chaulnes
+
+## Réponse
+
+*Équipement, JO du 2002-03-07, page 720*
+
+Le rapprochement avec les aéroports de Mirabel pour la desserte de Montréal et de Sansted pour celle de Londres n'apparaît pas significatif. L'échec de l'aéroport de Mirabel est essentiellement dû au développement de Toronto comme porte d'entrée au Canada, au détriment des aéroports de Montréal, ainsi qu'au maintien par la voie réglementaire de tous les vols intérieurs sur l'aéroport concurrent de Montréal Dorval. Quant à celui de Sansted, après des débuts difficiles, il affiche dorénavant un fort taux de croissance (25 % en 2000 par rapport à l'année précédente). Il est apparu qu'un emplacement dans la Somme permettra de conjuguer au mieux le développement régional et la croissance du transport aérien français. Un aéroport dans le secteur de Chaulnes, qui est le site le moins proche de l'agglomération parisienne parmi ceux envisagés au nord, amoncera en effet un développement induit par l'aéroport distinct de celui de l'Ile-de-France. Enfin, comme vous le savez, le Parlement a accepté un amendement du Gouvernement au projet de loi relatif à la démocratie de proximité qui vient d'être voté et permettra aux personnes dont l'habitation se situerait dans l'emprise du futur aéroport ou dans sa zone de bruit fort d'obtenir du maître d'ouvrage le rachat de cette habitation à un prix qui ne tienne pas compte d'une dévalorisation éventuelle liée au projet. Cette disposition, qui s'appliquera à tout projet de nouvel aéroport, à l'aéroport de Picardie dans le courant de cette année, devrait rassurer les propriétaires concernés, en leur permettant de prendre leurs dispositions lorsqu'ils le jugent opportun tout en ayant la garantie d'une juste indemnisation.
