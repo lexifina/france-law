@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930601569
+
+- Question : [SEQ930601569](seq930601569.md) — Situation des écoles de conduite
+
+## Réponse
+
+*Équipement, JO du 1993-09-02, page 1528*
+
+Réponse. - L'effectif des inspecteurs du permis de conduire et de la sécurité routière est fixé, chaque année, dans le cadre de la loi de finances. Il est rationnellement réparti entre les différentes circonscriptions et toutes dispositions sont prises par le service des examens pour une utilisation optimale de ces personnels. C'est ainsi que le nombre de postes budgétaires d'inspecteurs du permis de conduire, contrairement à l'évolution générale des effectifs dans la fonction publique de l'Etat, non seulement a été maintenu, mais encore a été augmenté de dix unités au budget de 1993. Ainsi, cinquante-quatre inspecteurs ont été affectés dans les circonscriptions au 1er juillet 1993 afin d'assurer un fonctionnement satisfaisant du service des examens du permis de conduire. Au niveau de l'organisation du travail des agents il est procédé à une répartition judicieuse des différentes tâches (examens, contrôles pédagogiques des établissements d'enseignement à la conduite, commissions de suspension du permis de conduire, participation aux jurys en vue de la délivrance des diplômes professionnels de conducteur routier). A cet égard, il ne serait pas opportun de suspendre les contrôles pédagogiques au seul profit des examens, ceux-ci faisant partie des missions incombant aux inspecteurs et constituant l'un des moyens efficaces mis en oeuvre par les pouvoirs publics pour faire progresser l'enseignement dispensé dans les auto-écoles. En effet, il n'est pas contestable que les résultats insuffisants enregistrés par certains établissements d'enseignement de la conduite participent aux difficultés qu'ils rencontrent, dont la solution passe par une amélioration de leurs prestations.
