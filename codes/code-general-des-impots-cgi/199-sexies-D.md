@@ -14,7 +14,7 @@ Elle est accordée sur présentation des factures des entreprises ayant réalis�
 
 Toutefois, la reprise d'impôt n'est pas pratiquée lorsque le remboursement fait suite à un sinistre survenu après que les dépenses ont été payées.
 
-3. La condition d'ancienneté des immeubles n'est pas exigée pour les travaux destinés à faciliter l'accès de l'immeuble aux personnes handicapées et à adapter leur logement. Il en est de même lorsque les immeubles sont situés dans une zone classée en état de catastrophe naturelle et que les dépenses sont effectuées dans l'année qui suit la date de constatation de cet état par arrêté ministériel, par un contribuable qui a déposé un dossier d'indemnisation auprès de la préfecture ou d'un organisme régi par le code des assurances.
+3. La condition d'ancienneté des immeubles n'est pas exigée pour les travaux destinés à faciliter l'accès de l'immeuble aux personnes handicapées et à adapter leur logement. Il en est de même lorsque les immeubles sont situés dans une zone classée en état de catastrophe naturelle et que les dépenses sont effectuées dans l'année qui suit la date de constatation de cet état par arrêté ministériel, par un contribuable qui a déposé un dossier d'indemnisation auprès de la préfecture ou d'un organisme régi par le code des assurances. Il en est de même pour les travaux initiaux de prévention et de lutte contre les termites et les autres insectes xylophages, ainsi que pour leur renouvellement.
 
 II. Pour une même opération, les dispositions du I sont exclusives de l'application des dispositions de l'article 199 sexies.
 
