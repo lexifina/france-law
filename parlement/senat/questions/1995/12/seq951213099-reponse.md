@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951213099
+
+- Question : [SEQ951213099](seq951213099.md) — Ecoles d'architecture
+
+## Réponse
+
+*Culture, JO du 1996-02-22, page 398*
+
+Réponse. - Conscient de la nécessité de doter l'enseignement de l'architecture à la fois d'un projet ambitieux et des moyens de le mettre en oeuvre, le ministre de la culture et ses services ont d'ores et déjà pris, en concertation avec les présidents des conseils d'administration des écoles, les directeurs, les personnels et les étudiants, différentes dispositions de nature à répondre aux préoccupations de l'honorable parlementaire. Les échanges se poursuivent avec l'enseignement supérieur en vue de conclure un protocole de coopération. Les crédits transférés du ministère de l'équipement, qui ont été abondés lors du débat budgétaire au Parlement, bénéficieront en outre de redéploiements significatifs. C'est ainsi que les subventions aux écoles d'architecture devraient atteindre 140 MF en 1996, contre 129,9 MF en 1995. Les crédits de paiement consacrés à la remise à niveau du patrimoine immobilier des écoles seront relevés de 9,15 MF. Toutes dispositions ont été prises pour assurer le maintien des rémunérations des agents des écoles à leur niveau antérieur. La titularisation des enseignants devrait être conduite à son terme cette année, et la création de postes d'enseignants et d'ATOS est prévue pour les années à venir. Enfin, les crédits inscrits au budget 1996 pour les bourses sont supérieurs aux dépenses réellement constatées en 1995. La décision annoncée de la création, au sein du ministère, d'une direction de l'architecture à part entière témoigne de la priorité attachée par le ministre à une meilleure prise en compte des enjeux économiques et sociaux de ce secteur et à une amélioration de l'enseignement supérieur qui lui est lié.
