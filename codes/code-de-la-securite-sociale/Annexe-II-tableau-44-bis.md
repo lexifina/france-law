@@ -1,17 +1,37 @@
-# Article Annexe II tableau 44 bis
+# Article Annexe II : Tableau n° 44 bis
 
-DÉSIGNATION DE LA MALADIE
+Affections consécutives au travail au fond dans les mines de fer
 
-Cancer broncho-pulmonaire primitif associé à une sidérose.
+DÉSIGNATION DES MALADIES
 
-DÉLAI DE PRISE EN CHARGE
+|
 
-40 ans (sous réserve d'une durée d'exposition de 10 ans).
+DÉLAI de prise en charge
 
-LISTE LIMITATIVE DES TRAVAUX
+|
 
-SUSCEPTIBLES DE PROVOQUER CETTE MALADIE
+LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES de provoquer cette maladie
+
+|
+
+Cancer bronchopulmonaire primitif.
+
+|
+
+40 ans (sous réserve d'une durée d'exposition de 10 ans)
+
+|
 
 Travaux effectués au fond dans les mines de fer.
 
-Travaux de concassage dans les mines de fer, au fond et en surface.
+|
+
+Emphysème : objectivé par des signes tomodensitométriques et des altérations fonctionnelles de type obstructif ou, lorsqu'elles existent, par des constatations anatomopathologiques.
+
+|
+
+15 ans (sous réserve d'une durée d'exposition de 10 ans)
+
+|
+
+|
