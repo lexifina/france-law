@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910716312
+
+- Question : [SEQ910716312](seq910716312.md) — Fermeture de lignes aériennes envisagée par Air France
+
+## Réponse
+
+*Équipement, JO du 1991-09-05, page 1883*
+
+Réponse. - La décision de la compagnie nationale Air France de suspendre quelques lignes vise à optimiser les moyens que la compagnie met en oeuvre pour répondre aux besoins de sa clientèle et pour assurer l'équilibre de son exploitation, dans un contexte de hausse du prix du carburant et de chute importante du trafic sur certaines destinations lié à la crise du Golfe. Le ministère des transports est évidemment attentif à assurer la plus grande complémentarité, dans ces circonstances, entre les compagnies. Ainsi, sur les lignes dont la compagnie nationale s'est retirée parce qu'elle ne dispose pas en propre d'avions de taille adaptée, il faut tirer parti de la complémentarité des flottes et des moyens des différentes compagnies françaises. Dans cet esprit, quatorze lignes régulières européennes suspendues par Air France au départ de la province ont d'ores et déjà été attribuées à d'autres compagnies françaises qui en avaient fait la demande. Par ailleurs, s'agissant de l'ouverture de lignes intracommunautaires par des compagnies étrangères, la directive européenne du 18 juillet 1989 concernant l'autorisation de services réguliers interrégionaux rend quasi automatiques les octrois de droits de trafic correspondants. Ainsi, vingt et une compagnies étrangères exploitent actuellement soixante-dix-sept lignes entre quatorze villes de province françaises et trente-sept villes européennes étrangères. Toutefois, les grandes compagnies aériennes étrangères rencontrent les mêmes difficultés économiques, liées à la conjoncture, que la compagnie nationale Air France. Il paraît peu probable que le retrait d'Air France de certaines dessertes conduise à un afflux massif de compagnies étrangères sur ces mêmes lignes.
