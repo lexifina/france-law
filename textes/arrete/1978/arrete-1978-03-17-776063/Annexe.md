@@ -86,7 +86,7 @@ Genève (communes françaises de l’agglomération de).
 
 (Complément en Haute-Savoie.)
 
-Ferney-Voltaire, Moëns et Orneix.
+Ferney-Voltaire, Ornex, Prévessin-Moëns.
 
 Lyon.
 
@@ -358,6 +358,10 @@ Lille.
 
 Anstaing, Armentières, Baisieux, Beauchamp-Ligny, Bondues, Bousbecque, Bouvines, Capinghem, La Chapelle-d’Armentières, Chéreng, Comines, Croix, Deulemont, Don, Emmerin, Englos, Ennetières-en-Weppes, Erquinghem-le-Sec, Erquinghem-Lys, Escobecques, Faches-Thumesnil, Forest-sur-Marque, Fournes-en-Weppes, Frelinghien, Fretin, Gruson, Hallennes-lès-Haubourdin, Halluin, Hantay, Haubourdin, Hellemmes-Lille, Hem, Herlies, Houplin-Ancoisne, Houplines, Illies, Lambersart, Lannoy, Leers, Lesquin, Lezennes, Lille, Linselles, Lomme, Lompret, Loos-lès-Lille, Lys-lès-Lannoy, La Madeleine, Marcq-en-Baroeul, Marquette-lez-Lille, Marquillies, Mons-en-Baroeul, Mouveaux, Neuville-en-Ferrain, Noyelles-lès-Seclin, Pérenchies, Péronnes-en-Mélantois, Prémesques, Quesnoy-sur-Deule, Ronchin, Roncq, Roubaix, Sailly-lez-Lannoy, Sainghein-en-Weppes, Sainghein-en-Mélantois, Saint-André-lez -Lille, Salomé, Santés, Seclin, Sequedin, Temple-Mars, Toufflers, Tourcoing, Tressin, Vendeville, Verlinghem, Villeneuve-d’Ascq, Wambrechies, Warneton, Wasquehal, Wattignies, Wattrelos, Wavrin, Wervicq-Sud, Wicres et Willems.
 
+Maubeuge.
+
+Assevent, Boussières-sur-Sambre, Boussois, Ferrière-la-Grande, Hautmont, Jeumont, Louvroil, Mairieux, Marpent, Maubeuge, Neuf-Mesnil, Recquignies, Rousies, Saint-Rémy-du-Nord.
+
 Valenciennes.
 
 Abscon, Aniche, Anzin, Artres, Auberchicourt, Aubry-du-Hainaut, Aulnoy, Avesnes-le-Sec, Bellaing, Beuvrages, Bouchain, Bruay-sur-Escaut, Bruille-lez-Marchiennes, Bruille-Saint-Amand, Condé-sur-Escaut, Crespin, Denain, Douchy-les-Mines, Ecaillon, Emerchicourt, Erre, Escaudain, Escaupont, Famars, Fenain, Fresnes-sur-Escaut, Haspres, Haulchin, Haveluy, Helesmes, Hergnies, Hérin, Hordain, Lieu-Saint-Amand, Lourches, Maing, Marly, Marquette-Ostrevent, Masny, Mastaing, Monchaux - sur - Ecaillon, Neuville - sur – Escaut, Noyelles-sur-Selle, Odomez, Oisy, Onnaing, Petite-Forêt, Prouvy, Quarouble, Quérénaing, Quiévrechain, Raismes, Rieulay, Roeulx, Rouvignies, Saint-Aybert, Saint-Saulve, Saultain, La Sentinelle, Somain, Thiant, Thivencelles, Trith-Saint-Léger, Valenciennes, Verchain-Maugré, Vicq, Vieux-Condé, Wallers, Wasnes-au-Bac, Wavrechain-sous-Denain et Wavrechain-sous-Faulx.
@@ -519,6 +523,12 @@ Avignon.
 (Complément en Bouches-du-Rhône et en Gard.)
 
 Avignon, Bédarrides, Eentraigues-sur-Sorgues, Morière-lès-Avignon, Le Pontet, Sorgues et Vedène.
+
+86 - Vienne
+
+Poitiers.
+
+Biard, Buxerolles, Chasseneuil-du-Poitou, Migne-Auxances, Poitiers, Saint-Benoît.
 
 87 - Haute-Vienne
 
