@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980810232
+
+- Question : [SEQ980810232](seq980810232.md) — Maîtres contractuels de l'enseignement privé
+
+## Réponse
+
+*Éducation, JO du 1998-10-15, page 3262*
+
+Réponse. - La situation juridique des maîtres contractuels des établissements d'enseignement privés est complexe et fait l'objet d'une concertation permanente entre le ministère de l'éducation nationale, de la recherche et de la technologie et les organisations représentatives des établissements d'enseignement privés sous contrat et de leurs maîtres. Il y a lieu d'observer que la nature du contrat d'enseignement passé avec l'autorité académique n'a pas été définie par la loi Debré sur les rapports entre l'Etat et les établissements d'enseignement privés et ses textes d'application. Aussi un caractère administratif a-t-il été reconnu à ce contrat par la jurisprudence. Ainsi, les maîtres des établissements d'enseignement privés sous contrat constituent une catégorie particulière d'agents publics et la convention passée entre un maître contractuel et l'autorité académique est qualifiée de contrat de droit public. Toutefois, les tribunaux judiciaires se sont reconnus compétents pour connaître des différends liés à la relation de travail avec le chef d'établissement ; il en va de même pour les maîtres de l'enseignement privé agricole, dont le statut relève de la loi dite Rocard. Le ministère de l'éducation nationale, de la recherche et de la technologie ne souhaite pas modifier les équilibres issus de quarante ans d'application de la loi Debré. Il n'en restera pas moins attentif aux propositions des organisations représentatives des établissements d'enseignement privés sous contrat et de leurs maîtres, sous réserve qu'elles se situent dans le cadre de ces équilibres et que, susceptibles de recueillir un large consensus, elles contribuent au renforcement de la paix scolaire à laquelle le Gouvernement est attaché.
