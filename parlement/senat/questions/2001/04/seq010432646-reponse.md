@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010432646
+
+- Question : [SEQ010432646](seq010432646.md) — Participation du conseil économique et social au dispositif d'évaluation et de suivi concernant la contribution de la France au progrès des pays en développement
+
+## Réponse
+
+*Affaires étrangères, JO du 2001-09-06, page 2866*
+
+La réforme du dispositif français de coopération, entreprise en 1998 et mise en oeuvre dès le 1er janvier 1999 a, en particulier, réaffirmé le rôle de la société civile française dans la contribution aux orientations politiques majeures de la politique de coopération internationale. Le Haut Conseil de la coopération internationale (HCCI) a été créé dans le cadre de cette réforme. Placé sous l'autorité du Premier ministre, il comporte actuellement 60 membres choisis pour leur engagement personnel en faveur de la coopération internationale. Il a pour mission de favoriser une concertation régulière entre les acteurs publics et privés de la coopération internationale, ainsi que l'adhésion du public à ces actions. C'est donc une instance d'évaluation et de réflexion de la société civile engagée dans la coopération internationale qui s'auto-saisit de toute question relevant de sa compétence et qui émet des avis et des recommandations. Le Conseil économique et social dispose au HCCI d'un représentannt de droit. Plus généralement, les deux institutions entretiennent des rapports réguliers et fructueux. C'est ainsi que le Conseil économique et social a accueilli, en mai 2000, le séminaire organisé par le HCCI, sur le thème de la recherche au service du développement et de la coopération. La création du HCCI représente donc une opportunité nouvelle pour que le Conseil économique et social, à travers, notamment, son représentant au HCCI, soit associé au processus d'évaluation, de suivi et de prospective concernant la contribution de la France au progrès des pays en développement.
