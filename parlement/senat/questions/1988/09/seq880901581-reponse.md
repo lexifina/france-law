@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880901581
+
+- Question : [SEQ880901581](seq880901581.md) — Incidence de la loi d'amnistie pour la protection des délégués syndicaux
+
+## Réponse
+
+*Travail, JO du 1989-01-05, page 37*
+
+Réponse. - Le nombre de décisions prises par les inspecteurs du travail au cours de l'année 1987 concernant les licenciements pour motifs autres qu'économique des représentants du personnel s'élève à 1 933. Le nombre d'autorisations s'élève à 1 285 soit 66,47 p. 100 des demandes. Les résultats concernant les six premiers mois de l'année 1988 seront disponibles au cours de l'année 1989. Pendant la même année 1987, pour les mêmes motifs, les employeurs ont introduit 281 recours hiérarchiques alors que les salariés en ont formés 85. Pour la période du 1er janvier 1988 au 30 juin 1988, les chiffres sont respectivement de 156 et 52. Le nombre de décisions prises par le ministre chargé du travail s'élève à 384 en 1987 dont 191 autorisations, soit 49,7 p. 100 des demandes. Il est précisé à l'honorable parlementaire que le ministre dispose d'un délai de quatre mois pour confirmer ou annuler une décision. Un certain décalage existe donc entre le nombre de recours hiérarchiques introduits et le nombre de décisions prises comptabilisées par année civile. Par ailleurs, les statistiques disponibles actuellement au ministère ne permettent pas de connaître les taux d'autorisation de licenciements par région. Enfin, concernant le bilan de la loi n° 88-828 du 20 juillet 1988 portant amnistie, il a été demandé aux inspecteurs du travail d'adresser à l'administration centrale un état récapitulant, pour chaque représentant du personnel, l'intervention effectuée au titre de l'article 15 II. Un bilan de la loi portant amnistie pourra ainsi être établi au cours du premier trimestre de l'année 1989.
