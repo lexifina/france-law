@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900308793
+
+- Question : [SEQ900308793](seq900308793.md) — Remboursement anticipé de prêt par les collectivités territoriales
+
+## Réponse
+
+*Économie, JO du 1990-05-24, page 1128*
+
+Réponse. - Si le mouvement général de désinflation rend justifiée la préoccupation des emprunteurs de renégocier leur dette à taux élevé, la réponse ne consiste pas pour les pouvoirs publics, ainsi que le suggère l'honorable parlementaire, à s'immiscer dans les relations contractuelles entre prêteurs et emprunteurs en obligeant les organismes de crédit à accepter les termes de renégociation demandés par les débiteurs. Ce serait en effet remettre en cause le principe de notre droit selon lequel le contrat fait la loi des parties et reconnaître au profit des collectivités locales un véritable droit à renégociation de leur dette, préjudiciable à l'équilibre financier des organismes de crédit, alors même que ces derniers, pas plus que l'Etat ou les entreprises, ne bénéficient d'un tel droit. A cet égard, si des mesures spécifiques à caractère social ont été prises en faveur des particuliers fortement endettés pour l'accession à la propriété, ces mesures ne sauraient être généralisées au profit de l'ensemble des débiteurs. Au demeurant, un effort très important a été entrepris, en particulier par la Caisse des dépôts et consignations et le Crédit local de France, en faveur du réaménagement de la dette à taux élevé des collectivités locales. Ainsi, depuis 1985, c'est un encours de 60 MF de dette à taux élevé qui a pu être réaménagé, permettant de ramener le taux d'intérêt moyen de la dette de ces collectivités auprès de ces deux organismes à moins de 10 p. 100. En outre, la situation financière des collectivités locales s'est grandement améliorée, ce dont le Gouvernement se félicite : ainsi le ratio annuités de la dette sur recettes de fonctionnement devrait se situer cette année autour de 18 p. 100 contre 24 p. 100 en 1987.
