@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910615917
+
+- Question : [SEQ910615917](seq910615917.md) — Situation des écoles maternelles
+
+## Réponse
+
+*Éducation, JO du 1991-08-22, page 1770*
+
+Réponse. - L'école maternelle constitue effectivement une étape fondamentale dans la scolarisation des enfants. Conformément aux objectifs définis dans la loi d'orientation sur l'éducation, il s'agit d'une part d'accueillir tous les enfants dès l'âge de trois ans et, donc, de rattraper les retards dont souffrent certaines académies, d'autre part de développer la scolarisation des enfants de deux ans qui vivent dans des secteurs défavorisés ou qui proviennent de milieux défavorisés tant sur le plan économique que social ou culturel. L'accueil des enfants de trois ans est en amélioration constante depuis 1980 et cette tendance devrait se poursuivre à la rentrée scolaire 1991. De même, l'accueil et les conditions de scolarisation des enfants de deux ans ont évalué favorablement. Le taux de scolarisation des enfants de deux ans en France métropolitaine est ainsi passé de 31,79 p. 100 en 1983 à 35,23 p. 100 en 1990 (public et privé) tandis que le taux d'encadrement préélémentaire diminuait nettement au cours de la même période (France métropolitaine : 28,69 élèves par classe en 1983, 27,63 en 1990). Cependant, c'est surtout dans les zones sensibles que la scolarisation précoce fera, à nouveau, l'objet d'une attention particulière. En effet, si l'augmentation globale du taux de préscolarisation des enfants de deux ans doit être recherchée dans la mesure du possible, cet objectif qui ne doit pas dissimuler d'autres priorités telles que la création de nouvelles classes dans les secteurs en expansion ou le renforcement des moyens de remplacement, devient véritablement impératif dans les zones d'éducation prioritaire ou présentant des difficultés d'environnement.
