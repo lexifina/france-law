@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010432490
+
+- Question : [SEQ010432490](seq010432490.md) — Transmission des exploitations agricoles
+
+## Réponse
+
+*Agriculture, JO du 2001-06-21, page 2081*
+
+La loi d'orientation agricole n° 99-574 du 9 juillet 1999 a modifié le contrôle des structures en étendant, d'une part, son champ d'application et, d'autre part, en supprimant le système déclaratif. A cet égard, il convient de rappeler que les déclarations énoncées à l'article L. 331-4 du code rural étaient enfermées dans un cadre très strict et limitatif. Ainsi, s'agissant de la reprise de biens familiaux, le régime dérogatoire concernait exclusivement les successions ou donations d'un parent ou allié jusqu'au 3e degré, au bénéfice d'un exploitant remplissant les conditions de capacité ou d'expérience professionnelle agricole requises, pour des biens libres de location. En cas de donation, le donateur devait détenir les biens depuis plus de neuf ans. Par ailleurs, en cas d'agrandissement ou de réunion d'exploitations, le déclarant ne pouvait se prévaloir de la déclaration que pour reconstituer l'exploitation familiale sur une partie de laquelle il s'était précédemment installé, ou en abandonnant les autres terres qu'il mettait en valeur auparavant. Toutes les conditions énumérées ci-dessus étant cumulatives, la déclaration, en elle-même, n'a donc eu qu'une portée très limitée. Par contre, dans la majeure partie des cas, les demandes d'autorisation d'exploiter des biens familiaux ont fait l'objet de décisions favorables, tenant compte de l'origine des terres. Cette possibilité reste largement ouverte avec le nouveau contrôle des structures puisque la commission départementale d'orientation de l'agriculture est systématiquement informée du caractère familial de l'opération et que, très souvent, les orientations et priorités du schéma directeur des structures ont pris ce critère en compte.
