@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900409465
+
+- Question : [SEQ900409465](seq900409465.md) — Loi de finances et développement des équipements hospitaliers de pointe
+
+## Réponse
+
+*Santé, JO du 1991-06-06, page 1185*
+
+Réponse. - Les appareils d'imagerie par résonance magnétique et les scanographes sont des équipements matériels lourds au sens de l'article 46 de la loi hospitalière n° 70-1318 du 31 décembre 1970 modifiée. Les indices de besoins afférents à ces équipements sont actuellement, pour les scanographes, d'un appareil pour une population comprise entre 120 000 et 230 000 habitants et pour les équipements d'imagerie par résonnance magnétique, d'un appareil pour une population comprise entre 600 000 et 1 600 000 habitants. Ce dispositif juridique permet l'égal accès de tous à ces moyens modernes de diagnostic. Toutes les régions métropolitaines disposent de plus d'un scanographe pour 230 000 habitants et toutes ont obtenu une autorisation d'installer au moins un appareil d'I.R.M. La moyenne nationale est actuellement avec 444 scanographes autorisés, d'un appareil pour 130 796 habitants et avec 81 I.R.M. d'un équipement pour 716 957,44 habitants. Les dernières informations statistiques comparatives avec les autres pays européens, datant de 1988, faisaient figurer la France en deuxième position après la R.F.A. pour les équipements scanographiques et en troisième position après l'Italie et la R.F.A. pour les I.R.M. Si l'on rapporte le nombre d'appareils à la population nationale, on constate que la position de la France est satisfaisante. Un projet de révision de l'indice d'I.R.M. est par ailleurs actuellement étudié en vue de permettre un nouveau développement des installations d'I.R.M., dont les coûts d'investissement baissent régulièrement. L'ensemble de ces éléments témoigne de la politique active conduite pour accompagner le développement technologique très rapide de l'imagerie médicale.
