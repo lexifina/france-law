@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941007996
+
+- Question : [SEQ941007996](seq941007996.md) — Respect des horaires pour les chaînes de télévision
+
+## Réponse
+
+*Communication, JO du 1994-11-17, page 2718*
+
+Réponse. - Comme le déplore l'honorable parlementaire, la majeure partie des chaînes de télévision françaises ne respectent pas toujours les horaires annoncés de diffusion des programmes et ces retards fréquents constituent une marque d'irrespect à l'égard des téléspectateurs. Il convient toutefois de préciser que les dépassements constatés dans les premières parties de soirée de TF 1 et de France 2 sont consécutifs, le plus souvent, à la longueur inhabituelle du journal télévisé du fait des exigences de l'actualité. En outre, ces services ont institué en programmes autonomes, éventuellement parrainés, des émissions consacrées à la météorologie, à l'univers hippique et au tirage de divers jeux ou loteries. Par ailleurs, l'ensemble des chaînes a intégré une logique de marché en valorisant ses espaces publicitaires par la diffusion simultanée d'un nombre important de messages avant les émissions de début de soirée dont l'audience est supérieure aux autres programmes de la journée. Ni la législation en vigueur ni le cahier des charges des chaînes publiques ou privées n'ont prévu la moindre obligation concernant le respect des horaires, cette question relevant essentiellement de la déontologie propre à chaque diffuseur. Si les services de communication audiovisuelle ont développé, depuis quelques années, les plages publicitaires qui précèdent les émissions de début de soirée, ils sont cependant astreints au respect de la réglementation en vigueur qui impose une durée maximale de publicité de douze minutes par heure glissante. Le contrôle est effectué par le Conseil supérieur de l'audiovisuel, qui, en vertu de l'article 42 de la loi du 30 septembre 1986 modifiée, dispose d'un pouvoir de sanction à l'égard des contrevenants.
