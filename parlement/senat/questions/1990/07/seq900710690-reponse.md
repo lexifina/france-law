@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900710690
+
+- Question : [SEQ900710690](seq900710690.md) — Tribunaux d'instance
+
+## Réponse
+
+*Justice, JO du 1990-08-23, page 1841*
+
+Réponse. - L'honorable parlementaire a bien voulu appeler l'attention du garde des sceaux sur l'accroissement de la charge de travail des tribunaux d'instance pour assurer l'application de la loi du 31 décembre 1989 relative à la prévention et au règlement des difficultés liées au surendettement des particuliers et des familles et connaître les mesures mises en place pour permettre aux juridictions de faire face à ce nouveau contentieux. Préalablement à son entrée en vigueur, le nouveau texte a fait l'objet d'une étude dite de " chiffrage " pour évaluer ses conséquences sur la charge de travail des magistrats et fonctionnaires des tribunaux d'instance. Ainsi, par la création d'emplois nouveaux, et dans le cadre politique de redistribution des effectifs au profit des juridictions les plus défavorisées, un effort sera fait en 1991 pour renforcer les juridictions qui ne seraient pas en mesure de faire face à ce nouveau contentieux dont les effets ne se produiront que progressivement. D'ores et déjà pour accompagner la mise en oeuvre de cette nouvelle législation, des actions d'information ont été menées au profit des personnels judiciaires, en collaboration avec l'Ecole nationale de la magistrature, l'Ecole nationale des greffes et les barreaux. La chancellerie a également élaboré des imprimés destinés à faciliter le travail des greffes. Enfin, conscient de la nécessité d'assurer un suivi particulier de l'application de la loi relative à la prévention et au règlement des difficultés liées au surendettement des particuliers, le conseil de la recherche du ministère de la justice a d'ores et déjà mis à son programme une étude de l'application de la récente loi dont les résultats devraient être disponibles d'ici deux à trois ans.
