@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021003086
+
+- Question : [SEQ021003086](seq021003086.md) — Plan de modernisation des stations de reproduction des haras nationaux
+
+## Réponse
+
+*Agriculture, JO du 2003-01-02, page 34*
+
+Le plan de modernisation des stations de reproduction gérées par l'établissement public les Haras nationaux vise à améliorer la qualité du service offert aux éleveurs et à optimiser l'emploi des moyens de l'établissement. Le plan porte sur les années 2002 à 2007. Mené en collaboration étroite avec les éleveurs et les institutions concernées, ce plan de modernisation se traduit par une restructuration quantitative et qualitative du réseau de stations. La qualité du service rendu et l'efficience de la dépense publique seront améliorées grâce à une réduction globale du nombre de stations et à leur adaptation technique. Certaines seront modernisées, d'autres transformées en centres de mise en place et la construction de 9 nouvelles unités est prévue, dont une réalisée et quatre en phase d'étude. Le mouvement de fermetures de stations de l'ordre de 15 par an au cours des 10 dernières années est, par ailleurs, maîtrisé afin de maintenir une couverture du territoire adaptée aux besoins de l'élevage. Ainsi, pour la saison de reproduction 2003, 153 stations et 22 centres de mise en place seront en service. Les impératifs de sécurité sont également pris en compte : alors que 31 stations fonctionnaient encore en 2002 avec un seul agent, seules 18 seront encore dans ce cas en 2003. Le coût du projet s'apprécie en termes d'investissements mais aussi et surtout en termes de qualité du service, notion difficile à chiffrer. Toutefois, la mise aux normes des stations : équipements techniques, herbages, accueil des juments est évaluée à 7 300 000 euros pour la période 2003-2007. Il s'agit là du financement incombant à l'établissement public qui intervient, le plus souvent, à parité avec les collectivités territoriales.
