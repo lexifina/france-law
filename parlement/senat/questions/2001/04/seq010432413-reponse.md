@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010432413
+
+- Question : [SEQ010432413](seq010432413.md) — Extension à tous les opérateurs de télécommunications du contrôle des contenus des services offerts
+
+## Réponse
+
+*Industrie, JO du 2001-05-31, page 1855*
+
+Réponse. - L'ouverture à la concurrence du secteur des télécommunications a pour conséquence de permettre à de nouveaux opérateurs d'entrer sur le marché des services offerts aux éditeurs de services des kiosques télématiques ou téléphoniques. Cependant, le cadre déontologique appliqué dans ce domaine a été défini par le Conseil supérieur de la télématique et concerne les relations contractuelles entre France Télécom et les fournisseurs de services. Il a donné des résultats très positifs, qui ont contribué très largement au succès des services télématiques, mais les évolutions imposent maintenant une modification du cadre réglementaire régissant l'activité du Conseil supérieur de la télématique et du Comité de la télématique anonyme. C'est pourquoi le Gouvernement a préparé une modification du décret nº 93-274 du 25 février 1993 qui vise à élargir à d'autres opérateurs que France Télécom la participation aux travaux du CST, tout en préservant l'équilibre atteint avec les associations de défense des consommateurs, mais également à étendre l'application du code déontologique aux relations contractuelles entre opérateurs et fournisseurs de services, et enfin à permettre à l'ensemble des parties de saisir le Comité de la télématique anonyme pour tout différend relatif au respect des clauses de nature déontologique. Le secrétaire d'Etat à l'industrie saisira prochainement pour avis l'autorité de régulation des télécommunications, la commission supérieure du service public des postes et télécommunications et le Conseil supérieur de la télématique sur ce projet de décret.
