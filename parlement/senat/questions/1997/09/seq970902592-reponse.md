@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970902592
+
+- Question : [SEQ970902592](seq970902592.md) — Règlement du dossier des emprunts russes
+
+## Réponse
+
+*Affaires étrangères, JO du 1998-01-15, page 148*
+
+Réponse. - L'honorable parlementaire a bien voulu appeler l'attention du ministre des affaires étrangères sur la question de l'indemnisation des porteurs d'emprunts russes. Le gouvernement a institué en février dernier une commission de suivi du mémorandum d'accord du 26 novembre 1996, présidée par M. Jean-Claude Paye. Après la signature, le 27 mai 1997, du deuxième accord franco-russe, précisant les dipositions du mémorandum d'accord, et après les élections parlementaires, deux députés devant être membres de la commission, celle-ci a pu commencer ses travaux. Durant les mois de septembre et octobre, elle a reçu les représentants des porteurs d'emprunts russes et de personnes spoliées en Russie puis en URSS, qui ont ainsi pu faire connaître leur point de vue. Le Gouvernement tient en effet à ce que les travaux de la commission se déroulent dans la plus grande transparence. Le 6 novembre dernier, la commission a présenté au Premier ministre son premier rapport sur les conditions de mise en oeuvre du recensement des titres et des dossiers de spoliation, opération qui est un préalable nécessaire à la répartition des sommes versées par la Russie entre les ayants droit. L'examen par le Parlement du projet de loi autorisant la ratification des accords franco-russes des 26 novembre 1996 et 27 mai 1997 venant de s'achever, le Gouvernement, sur la base du rapport de la commission, doit à présent déterminer les modalités du recensement et désigner les organismes chargés de sa réalisation. Compte tenu du délai nécessaire à la préparation d'une telle opération, celle-ci devrait au plus tard commencer au début du printemps prochain.
