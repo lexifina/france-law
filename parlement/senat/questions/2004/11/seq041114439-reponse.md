@@ -1,0 +1,9 @@
+# Réponse à la question SEQ041114439
+
+- Question : [SEQ041114439](seq041114439.md) — Difficultés de recrutement des agents des filières sociale et médico-sociale dans la fonction publique territoriale
+
+## Réponse
+
+*Fonction publique, JO du 2005-02-17, page 485*
+
+Conscient des difficultés rencontrées par les collectivités locales pour recruter des personnels médicaux ainsi que des différences existant entre les modalités d'accès à la fonction publique hospitalière et à la fonction publique territoriale, le Gouvernement a engagé, dans le courant de l'année 2004, une réflexion sur un allègement des épreuves des concours correspondants. Cette réflexion a été confiée au groupe de travail chargé, au sein du Conseil supérieur de la fonction publique territoriale, (CSFPT) du réaménagement des concours et des mécanismes de recrutement dans la fonction publique territoriale. Dans un premier temps, cette instance s'est attachée à l'allégement des concours de catégories A et B pour lesquels le recrutement s'opère par la voie d'un concours sur titres comprenant une épreuve écrite d'admissibilité et une épreuve orale d'admission. Se trouve ainsi concerné le recrutement des médecins, des psychologues, des sages-femmes, des puéricultrices territoriaux, des infirmiers, des assistants socio-éducatifs, des éducateurs de jeunes enfants, des moniteurs-éducateurs, des rééducateurs et des assistants médicotechniques territoriaux. A l'issue de la réflexion menée par le groupe de travail, le Conseil supérieur de la fonction publique territoriale a été saisi, lors de sa séance du 27 octobre 2004, d'un projet de décret visant à supprimer l'épreuve écrite d'admissibilité tandis que l'épreuve d'entretien était maintenue afin de garantir une sélection impartiale des candidats. Cette réforme permettra ainsi de prendre en compte les compétences techniques déjà attestées par les diplômes détenus par les candidats, tout en maintenant le principe du concours.
