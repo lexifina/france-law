@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990617478
+
+- Question : [SEQ990617478](seq990617478.md) — Maîtrise des dépenses d'analyse médicale
+
+## Réponse
+
+*Emploi, JO du 1999-10-07, page 3310*
+
+Réponse. - Les négociations de l'objectif pour 1999 ont abouti à la signature d'un accord global entre l'Etat, le syndicat des biologistes (SDB) et le syndicat des grands laboratoires de biologie clinique (SGLBC) ayant pour but d'améliorer la qualité de la biologie française et d'assurer une meilleure utilisation des dépenses d'assurance maladie. L'objectif de 1999 et la valeur du B ont été fixés par un arrêté du 1er juillet 1999 paru au Journal officiel le 2 juillet 1999. L'accord passé avec la profession s'attache notamment à stabiliser l'évolution des dépenses remboursées de biologie, qui ont progressé de 6,6 % en 1998. Pour les années 1998, 1999 et 2000 le taux de progression des dépenses remboursées est fixé à 7,7 % soit une évolution moyenne des dépenses de biologie de 2,12 % par an. Afin de garantir le respect de cet objectif, l'Etat et les représentants de la profession ont convenu d'une baisse de 4 centimes de la valeur de la lettre clé B ainsi que des mesures de nomenclature modifiant la cotation de certains actes. Des clauses de rendez-vous (le 15 octobre et le 15 avril de chaque année) permettront de faire un bilan de ces dispositions et de l'évolution des dépenses de biologie. Un groupe de travail tripartite associant la profession, l'Etat et l'assurance maladie est chargé de faire des propositions pour promouvoir la qualité des examens biologiques et les conditions d'exercice de la profession. Par ailleurs, deux nouveaux actes ont été inscrits à la nomenclature des actes de biologie médicale (arrêté du 1er juillet 1999, paru au Journal officiel du 2 juillet 1999), l'un relatif à la troponine et l'autre à la recherche d'amiante.
