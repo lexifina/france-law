@@ -1,67 +1,127 @@
-# Article 1 (1)
+# Article 1er
 
-La présente convention règle sur l'ensemble du territoire national y compris dans les départements d'outre-mer (D.O.M.) les rapports entre employeurs et salariés des professions dont le champ d'application professionnel, défini en terme d'activité économique, est déterminé comme ci-après.
+La présente convention règle sur l'ensemble du territoire national les rapports entre employeurs et salariés des professions dont l'activité exclusive ou principale est le commerce de gros et dont le champ d'application professionnel, défini en termes d'activité économique, est le suivant :
 
-Les codes NAF de l'INSEE mentionnés au regard des descriptifs d'activités économiques ci-dessous sont donnés à titre indicatif.
+- Commerce de gros et importations de fruits, de légumes et de fleurs à l'exception des opérations portant sur le houblon, les légumes secs et les pommes de terre ainsi que des activités d'expédition et d'exportation de fruits et légumes frais.
 
-Dans le cas des entreprises à activités multiples (activités de commerce de gros, de prestations de services, de production ou de détail, commercialisant des articles relevant de branches différentes), la convention collective s'appliquera en fonction de l'activité principale déterminée selon les règles de la jurisprudence de la Cour de cassation.
+Numéro INSEE : 692.
 
-CODES DE RATTACHEMENT :
+Code APE : 57-03.
 
-Commerce de gros de fleurs et plantes : NAF 51.2 C
+- Commerce de gros des beurres, oeufs et fromages à l'exclusion :
 
-Commerces de gros et importations de fruits et légumes à l'exclusion des entreprises dont l'activité principale porte sur les pommes de terre, l'expédition et l'exportation de fruits et légumes frais et la préparation des légumes frais prêts à l'emploi :
+des entreprises dont l'activité principale est le ramassage ou les expéditions et des entreprises dont l'activité principale porte sur les volailles, le gibier et le miel.
 
-NAF 51.3 A
+Numéro INSEE : 703-0
 
-Commerce de gros en produits avicoles, gibiers, agneaux de lait et chevreaux : NAF 51.3 E
+Code APE : 57-05.
 
-Commerce de gros de produits laitiers et oeufs à l'exclusion des entreprises dont l'activité principale est le ramassage ou les expéditions : NAF 51.3 G
+- Commerce de gros en produits avicoles, gibiers, agneaux de lait et chevreaux.
 
-Commerce de gros, plates-formes de distribution spécialisées, entreprises de livraison aux particuliers et points de vente spécialisés de produits surgelés, congelés et de crèmes glacées :
+Code APE : 57-06.
 
-NAF 51.3 V, NAF 52.1 A
+- Commerce de gros de papeterie et d'articles de bureau.
 
-Commerce de gros de pièces détachées et accessoires pour automobile : NAF 50.3 A
+Numéro INSEE : 718-0
 
-Commerce de gros du cycle, du motocycle, de leurs équipements et pièces y compris les pneumatiques ainsi que les équipements des cyclistes et des motocyclistes : NAF 50.4 Z
+Code APE : 58-11.
 
-Commerce de gros et commerce d'importation et d'exportation de céramique et verrerie pour la table, l'ornementation, le ménage et l'horticulture (gobeleterie, cristaux, verres, faïences, porcelaines, poteries, céramiques et verrerie d'éclairage) à l'exclusion des commerces de gros de bouteilles, flaconnages, verreries de laboratoire, de verre à vitre, glace et miroiterie : NAF 51.4 H
+- Commerce de gros de matériel électrique et électronique.
 
-Commerce de gros et distribution de tous produits de parfumerie et d'hygiène, accessoires de toilette et de beauté : NAF 51.4 L
+Numéro INSEE : 732-2
 
-Commerce de gros de papeterie, d'articles et de matériel de bureau et de bureautique : NAF 51.4 Q, NAF 51.6 G
+Code APE : 58-04.
 
-Commerce de gros d'approvisionnement des bureaux de tabac, tant pour certains produits du monopole (S.E.I.T.A.), les objets spécifiquement pour fumeurs que les articles divers de toute nature susceptibles d'être commercialisés par les détaillants :
+- Commerce d'équipements et de fournitures pour l'industrie.
 
-NAF 51.4 S
+Numéro INSEE : 732-2
 
-Commerce de gros de la maroquinerie à l'exception de l'habillement et des chaussures : NAF 51.4 S
+Code APE : 59-10.
 
-Commerce et diffusion de la carte postale : NAF 51.4 S
+- Entreprises ayant pour activités principales le commerce de gros et la distribution de tous produits de parfumerie et d'hygiène, accessoires de toilette et de beauté.
 
-Commerce de gros et au détail des papiers peints, des revêtements muraux et du sol, de tous articles et de tous matériaux de la décoration générale de la maison à l'exception de toute droguerie et produits d'entretien : NAF 51.4 J, NAF 51.5 F
+Numéro INSEE : 736-7
 
-Commerce de gros des peintures, vernis, couleurs, produits chimiques, produits d'entretien, papiers peints, revêtements muraux et du sol, verres à vitres et, de façon plus large, de tous produits de droguerie usuellement présents dans les rayons de droguerie :
+Code APE : 58-08.
 
-NAF 51.4 J, NAF 51.5 F
+- Commerce de gros d'appareils sanitaires, de chauffage et de canalisation à l'exception du commerce de gros des matériaux de construction et de verre à vitres.
 
-Commerce de gros de matériel électrique et électronique ainsi que des appareils électroménagers et électroniques domestiques :
+Numéro INSEE : 735-0
 
-NAF 51.4 J, NAF 51.6 J
+Code APE : 59-08.
 
-Commerce de gros d'appareils sanitaires, de chauffage, de climatisation et de canalisation à l'exception du commerce de gros des matériaux de construction et de verre à vitres : NAF 51.5 F, NAF 51.5 J
+Commerce de gros de pièces détachées et accessoires pour automobil Numéro INSEE : 744-0
 
-Commerce de gros des produits et demi-produits en matière plastique :
+Code APE : 58-01.
 
--matières plastiques et demi-produits plastiques : NAF 51.5 L
+- Commerce de gros et commerce d'importation et d'exportation de céramique et verrerie pour la table, l'ornementation, le ménage et l'horticulture : gobeletterie, cristaux, verres, faïences, porcelaines, poteries, céramiques et verrerie d'éclairage, à l'exclusion des commerces de gros de bouteilles, flaconnages, verreries de laboratoire, de verre à vitre, glace et miroiterie.
 
--matériaux de construction plastiques : NAF 51.5 F-articles techniques en matière plastique : NAF 51.6 K
+Numéro INSEE : 768-0
 
-Commerce d'équipements et de fournitures pour l'industrie :
+Code APE : 58-10.
 
-NAF 51.6 K, NAF 51.6 L
+- Commerce de gros du cycle et motocycle et pneumatiques à l'exclusion des pneumatiques automobiles.
 
-NOTA :
+Numéro INSEE : 745-1
 
-(1) Voir version 4, champ d'application modifié par accord du 15 février 1996, avenant n° 1 du 26 novembre 1996 annexés, non étendus.
+Code APE : 58-02.
+
+- Entreprises de gros dont l'activité principale porte sur l'approvisionnement des bureaux de tabac, tant pour certains produits du monopole (SEITA), les objets spécifiquement pour fumeurs que les articles divers de toute nature susceptibles d'être commercialisés par les détaillants.
+
+Numéro INSEE : 769
+
+Code APE : 58-11-3.
+
+- Commerce de gros de la maroquinerie à l'exception de l'habillement et des chaussures.
+
+Numéro INSEE : 769
+
+Code APE : 58-06.
+
+Commerce de gros et d'importation des produits et demi-produits en matière plastique :
+
+- Articles d'hygiène et ménagers en plastique.
+
+Code APE : 58-09 partiel.
+
+- Commerce de gros des produits divers en plastique non repris ailleurs.
+
+Code APE : 58-12 partiel.
+
+- Matières plastiques et demi-produits platiques.
+
+Code APE : 59-06 partiel.
+
+Matériaux de construction plastiques.
+
+Code APE : 59-08 partiel.
+
+- Articles techniques en matières plastiques.
+
+Code APE : 59-10 partiel.
+
+- Commerce de gros et détail des papiers peints, des revêtements muraux et du sol, de tous articles et de tous matériaux de la décoration générale de la maison à l'exception de toute droguerie et produits d'entretien.
+
+Code APE : 58-09.
+
+- Commerce de gros des peintures, vernis, couleurs, produits chimiques, produits d'entretien, papiers peints, revêtements muraux et du sol, verres à vitre et, de façon plus large, de tous produits de droguerie usuellement présent dans les rayons de droguerie.
+
+Code APE : 58-09.
+
+- Commerce et diffusion de la carte postale.
+
+Code APE : 58-11 - 58-12 et divers
+
+- Entreprises dont l'activité principale est le commerce, la distribution physique des produits surgelés, congelés et crèmes glacées.
+
+A savoir : commerce de gros, plates-formes de distribution spécialisées, entreprises de livraison aux particuliers et points de vente spécialisés.
+
+Ces activités ne sont pas prévues dans la nomenclature APE.
+
+Code APE : Sans.
+
+Les numéros INSEE et les codes APE sont donnés à titre indicatif. Dans le cas d'entreprises à activités multiples (activités de commerces de gros, de prestations de services, de production ou de détail, commercialisant des articles relevant de branches différentes), la convention collective s'appliquera en fonction de l'activité principale déterminée selon les règles de la jurisprudence de la Cour de cassation.
+
+Code NAF de rattachement : 52.6 H.
+
+Commerce de produits et services par automates sur des lieux privés ou ouverts au public incluant - selon les cas - maintenance technique des matériels et logistique des approvisionnements principalement alimentaires.
