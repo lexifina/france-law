@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951012525
+
+- Question : [SEQ951012525](seq951012525.md) — Régime indemnitaire des élus locaux
+
+## Réponse
+
+*Fonction publique, JO du 1996-01-25, page 154*
+
+Réponse. - La loi no 92-108 du 3 février 1992 relative aux conditions d'exercice des mandats locaux prévoit que l'élu local qui détient d'autres mandats électoraux ou qui, en tant qu'élu, siège au conseil d'administration d'un établissement public local, du Centre national de la fonction publique territoriale, au conseil d'administration ou au conseil de surveillance d'une société d'économie mixte locale ou qui préside une telle société, ne peut percevoir, pour l'exercice de l'ensemble de ses fonctions, un montant total de rémunérations et d'indemnités de fonctions supérieur à une fois et demie le montant de l'indemnité parlementaire dite de base. La circulaire du 15 avril 1992 ne fait qu'indiquer les catégories d'établissements publics pouvant être considérés comme locaux et citer à l'appui quelques exemples d'établissements. Cette liste, non exhaustive, est seulement indicative ; elle ne peut avoir pour effet d'autoriser les membres des établissements mentionnés à percevoir des indemnités pour des fonctions dont les modalités d'exercice sont définies par les textes régissant ces organismes. A cet égard, les textes législatifs et réglementaires qui déterminent la composition et le fonctionnement des centres communaux ou intercommunaux d'action sociale ne comportent aucune disposition prévoyant l'octroi d'indemnités aux présidents, vice-présidents ou membres de ces établissements. En tout état de cause, la loi du 3 février 1992 ne comprend pas de disposition concernant les membres des centres communaux ou intercommunaux d'action sociale.
