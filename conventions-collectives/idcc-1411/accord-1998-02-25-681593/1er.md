@@ -1,0 +1,7 @@
+# Article 1er
+
+Le capital de temps de formation a pour objet de permettre :
+
+- aux entreprises d'associer leurs salariés, dans le cadre d'un déroulement de carrière, à l'adaptation de leurs qualifications et compétences aux évolutions technologiques et organisationnelles nécessaires à la compétitivité de l'entreprise ;
+
+- aux salariés de participer à des actions de formation relevant du plan de formation de l'entreprise, en vue de se perfectionner professionnellement ou d'élargir ou accroître leur qualification.
