@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970321277
+
+- Question : [SEQ970321277](seq970321277.md) — Situation politico-militaire à Chypre
+
+## Réponse
+
+*Affaires étrangères, JO du 1997-05-15, page 1470*
+
+Réponse. - L'honorable parlementaire a bien voulu appeler l'attention du ministre des affaires étrangères sur la situation à Chypre. La France, en tant que membre permanent du Conseil de sécurité des Nations unies, s'est constamment prononcée en faveur de l'application de l'ensemble des résolutions de la communauté internationale qui demandent, notamment, le retrait de troupes turques de Chypre. Le maintient du statut quo est inacceptable. La France a également fait part de sa vive inquiétude face au niveau excessif des armements sur l'ensemble de l'île. A ce sujet, elle a voté le 23 décembre dernier la résolution 1092 du Conseil de sécurité des Nation unies. La France, qui reconnaît le droit souverain et légitime de Nicosie à se doter de l'armement nécessaire à sa défense, estime cependant que l'installation des missiles S 300, dans le contexte de surarmement qui prévaut à Chypre, constitue un risque important d'escalade tant sur l'île que dans la région. Nous avons également appelé les autorités d'Ankara à s'abstenir de tout geste qui pourrait aggraver la tension dans la région et affecter leurs relations avec leurs principaux partenaires, notamment européens. C'est pourquoi, au moment où les Nations unies, qui demeurent le cadre de référence pour un règlement global de la question, tentent de relancer le processus des négociations, nous craignons que cette affaire ne complique davantage les choses. A cet égard, nous espérons que les efforts déployés par le représentant des Nations unies à Chypre permettront, aussi rapidement que possible, l'ouverture des négociations directes entre les deux parties. La France, pour sa part, poursuivra ses efforts pour contribuer à faire avancer un règlement politique global.
