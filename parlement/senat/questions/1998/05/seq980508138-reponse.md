@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508138
+
+- Question : [SEQ980508138](seq980508138.md) — Développement des auxiliaires de vie
+
+## Réponse
+
+*Santé, JO du 1999-07-08, page 2340*
+
+Réponse. - L'honorable parlementaire appelle l'attention de la ministre de l'emploi et de la solidarité sur les mesures qu'elle envisage de prendre pour favoriser le développement des auxiliaires de vie afin d'accroître l'autonomie des personnes handicapées. Les services d'auxilaires de vie ont été créés sur la base d'une circulaire du 29 juin 1981 pour permettre aux personnes lourdement handicapées de rester à leur domicile. Les collectivités locales n'ayant pas pris le relais pour le financement des services d'auxiliaires de vie, l'Etat continue à contribuer à leur financement pour un tiers environ de leurs dépenses. Cette dotation représente à l'heure actuelle une part importante des crédits d'action sociale de l'Etat en faveur des personnes handicapées dont dispose le ministère de l'emploi et de la solidarité. Néanmoins, les besoins non couverts restent considérables. Cette situation devrait connaître une amélioration avec la mise en uvre d'une des dispositions de la loi nº 98-1194 du 23 décembre 1998 de financement de la sécurité sociale pour 1999. En effet, par son article 5, cette loi a modifié l'article L. 241-10 du code de la sécurité sociale, qui a instauré, à compter du 1er janvier 1999, une exonération totale des cotisations patronales d'assurances sociales, d'accidents du travail et d'allocations familiales sur les rémunérations des aides à domicile employées par des prestataires de services d'aide à domicile et intervenant, dans le cadre d'un contrat à durée indéterminée, notamment auprès des personnes handicapées titulaires d'une allocation d'aide sociale. Cette réduction des charges patronales devrait permettre aux employeurs concernés d'initier une politique de nouveaux recrutements d'auxiliaires de vie.
