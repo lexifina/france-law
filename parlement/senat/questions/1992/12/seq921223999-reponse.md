@@ -1,0 +1,9 @@
+# Réponse à la question SEQ921223999
+
+- Question : [SEQ921223999](seq921223999.md) — Marché de la pomme de terre
+
+## Réponse
+
+*Agriculture, JO du 1993-03-29, page 574*
+
+Réponse. - L'organisation française de marché de la pomme de terre reposant, suivant la destination et l'utilisation des pommes de terre, soit sur des interprofessions, soit sur des groupements de producteurs et des comités économiques, est amenée à intervenir sur un marché qui subit périodiquement des perturbations importantes et qui ne peut se satisfaire d'un fonctionnement suivant le seul mécanisme de l'offre et de la demande. De ce fait, et depuis de nombreuses années, il est apparu indispensable d'établir une organisation commune de marché (OCM) dans ce secteur prévoyant au minimum l'établissement de normes communes de qualité et de commercialisation, la reconnaissance des organisations de producteurs et la possibilité d'extension des règles, ainsi que celle des organisations interprofessionnelles et de leurs actions, et une protection suffisante vis-à-vis de pays tiers, permettant un contrôle des flux. A cet égard, la proposition d'OCM présentée par la commission de Bruxelles à la fin de 1992, retenant le principe de mise en place des organisations de producteurs et de protection minimum à l'égard des pays tiers, intégrant, puis retirant, la création de normes de qualité, n'a pas été jugée acceptable par la France, compte tenu de la faiblesse de son contenu. La récente réintroduction du principe d'établissement de normes de commercialisation ne saurait suffire à lever cette réserve et la non-prise en compte, en l'absence d'un dispositif d'intervention précis, de la possibilité d'adoption de mesures exceptionnelles de soutien de marché, pour faire face à des circonstances particulières, comme en 1992, ne peut, par ailleurs, que renforcer la position de refus exprimé par le Gouvernement français sur l'actuel projet d'OCM.
