@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980709850
+
+- Question : [SEQ980709850](seq980709850.md) — Diminution de la taxe sur la valeur ajoutée pour les travaux dans les logements privés
+
+## Réponse
+
+*Économie, JO du 1998-10-22, page 3350*
+
+Réponse. - La directive communautaire 92/77/CEE du 19 octobre 1992 limite la possibilité d'application du taux réduit de la taxe sur la valeur ajoutée aux seuls travaux de construction, rénovation ou transformation de logements présentant un caractère social. L'application du taux réduit aux travaux d'entretien et d'amélioration des logements occupés à titre d'habitation principale par leurs propriétaires n'est donc pas envisageable, Cela étant, le Gouvernement est conscient du rôle du secteur du bâtiment au regard de l'activité économique et de l'emploi. C'est pourquoi, lors de l'adoption de la loi de finances pour 1998 et de loi portant diverses dispositions d'ordre économique et financier du 2 juillet 1998, l'application du taux réduit de la TVA a été étendue aux travaux d'amélioration, de transformation ou d'aménagement de logements locatifs à caractère social qui sont mentionnés aux articles L. 351-2-2º, 3º et 5º du code de la construction et de l'habitation. L'article 74 de la loi de finances pour 1998 a institué un crédit d'impôt sur le revenu pour les dépenses de travaux d'entretien et de revêtement des surfaces, autres que les réparations locatives, réalisées par une entreprise dans l'habitation principale dont le contribuable est propriétaire ou locataire. Enfin, le projet de loi de finances pour 1999 prévoit d'abaisser au taux de 5,5 % la charge définitive de TVA supportée par les propriétaires qui font réaliser les travaux subventionnés par l'ANAH dans les logements donnés en location et faisant l'objet d'une convention d'aide personnalisée au logement (APL).
