@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000424769
+
+- Question : [SEQ000424769](seq000424769.md) — Visite en France du chef de l'exécutif du Pakistan
+
+## Réponse
+
+*Affaires étrangères, JO du 2000-06-22, page 2196*
+
+Réponse. - A l'occasion d'une escale privée à Paris, en route pour le sommet du groupe des 77 à La Havane, le général Pervez Musharraf a rencontré le ministre des affaires étrangères. Au cours de cet entretien, le ministre a exprimé le souhait de la France de voir le Pakistan retourner rapidement à la démocratie. Le ministre a également marqué la préoccupation de la France pour le sort de l'ancien Premier ministre pakistanais, M. Nawaz Sarif, renversé le 12 octobre dernier et condamné, en première instance, le 6 avril, à la prison à perpétuité. Sur la situation politique, le général Musharraf a indiqué qu'il souhaitait entreprendre une série de réformes qui permettrait selon lui l'instauration d'une démocratie authentique dans son pays. Mais il se refusait à s'engager, à ce stade, sur un calendrier. Le ministre a également rappelé les préoccupations de la France concernant l'évolution de la situation en Afghanistan et déploré la persistance des ingérences des pays voisins dans la crise afghane. Il a demandé au chef de l'Exécutif pakistanais d'user de son influence dans un sens modérateur. S'agissant des relations entre le Pakistan et l'Inde le général Musharraf a fait état de sa disponibilité à reprendre, sans condition, le dialogue suspendu depuis les combats de Kargil au Cachemire en mai-juin 1999. La France appelle de ses v ux une reprise du dialogue. Le ministre, lors de son voyage en Inde, les 17 et 18 février, comme lors de son entretien avec le général Musharraf, a encouragé ses interlocuteurs à aller dans cette direction. En ce qui concerne plus généralement les relations entre la France et le Pakistan, qui sont fondées sur une longue tradition, l'entretien avec le général Musharraf a permis un échange de vues franc et utile.
