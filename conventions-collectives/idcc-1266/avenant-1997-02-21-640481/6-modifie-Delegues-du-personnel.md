@@ -1,0 +1,43 @@
+# Article 6 modifié : Délégués du personnel
+
+La représentation du personnel, au titre des délégués du personnel, est organisée selon la législation en vigueur, laquelle prévoit une élection de délégués du personnel dans chaque établissement distinct de plus de 10 salariés. Cette limite de plus de 10 salariés est abaissée à plus de 5 salariés afin d'assurer la représentation du personnel au sein même des restaurants dans le plus grand nombre d'entre eux. Toutefois, dans ces établissements (occupant de 6 à 10 salariés) les élections ne sont pas organisées à l'initiative de l'employeur. Pour les restaurants n'atteignant pas 10 salariés, un regroupement entre eux pourra être recherché sur une base géographique restreinte correspondant à l'organisation de chaque entreprise. En cas de regroupement, une heure de délégation supplémentaire sera accordée au délégué du personnel.
+
+Nombre de |
+
+nombre d'heures |
+
+salariés |
+
+de délégation |
+
+le délégué du |
+
+sans |
+
+avec |
+
+personnel |
+
+regr. |
+
+regr. |
+
+6 ou 7 |
+
+2 h |
+
+3 h |
+
+8, 9 ou 10 |
+
+5 h |
+
+6 h |
+
+Au-delà de 10 |
+
+15 h |
+
+16 h |
+
+sous réserve des dispositions de l'article L. 424-1 du code du travail. Pour les élections au titre des délégués du personnel, à défaut d'accord dans les entreprises, la composition des collèges électoraux se référera au statut des emplois précisé à la présente convention :-pour le collège 1 : employés.-pour le collège 2 : agents de maîtrise ;-pour le collège 3 : cadres.
