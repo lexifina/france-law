@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900208177
+
+- Question : [SEQ900208177](seq900208177.md) — Statut du cadre d'emploi des agents techniques territoriaux
+
+## Réponse
+
+*Collectivités territoriales, JO du 1990-04-19, page 859*
+
+Réponse. - Les articles 13 et 14 du décret n° 88-554 du 6 mai 1988 relatif au cadre d'emplois des agents techniques territoriaux organisent un avancement de grade par voie d'inscription sur un tableau annuel d'avancement établi après avis de la commission administrative paritaire, dans la limite d'un avancement pour six recrutements intervenus, en cas d'affiliation, dans l'ensemble des collectivités et établissements relevant du centre de gestion. Il découle des dispositions précitées qu'il revient au centre de gestion de coordonner la mise en oeuvre de cette procédure à l'égard des collectivités affiliées. Il lui incombe notamment de centraliser le nombre de recrutements à prendre en compte, d'en déduire le nombre global d'avancements possibles et de réunir la commission administrative paritaire en lui demandant de donner un avis sur les fonctionnaires à retenir compte tenu du nombre d'avancements possibles. Néanmoins, conscient des difficultés évoquées par l'honorable parlementaire, le Gouvernement étudie la possibilité de ne prendre en compte, s'agissant des six recrutements mentionnés au deuxième alinéa des articles précités, que ceux intervenus " dans la collectivité ou l'établissement ", sans qu'aucune référence ne soit plus faite à " l'ensemble des collectivités et établissements affiliés à un centre de gestion ". En outre, l'accord conclu entre le Gouvernement et cinq organisations syndicales de fonctionnaires entraînera une révision , en l'espèce, des modalités d'avancement de grade dans le statut particulier du cadre d'emplois des agents techniques de la fonction publique territoriale.
