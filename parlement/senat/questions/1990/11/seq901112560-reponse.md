@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901112560
+
+- Question : [SEQ901112560](seq901112560.md) — Balance agro-alimentaire de la France
+
+## Réponse
+
+*Agriculture, JO du 1991-05-16, page 1027*
+
+Réponse. - Les statistiques du commerce extérieur, établies par la direction des douanes, identifient les divers produits échangés selon une nomenclature détaillée (nomenclature générale de produits ou N.G.P.). Celle-ci isole, au sein de l'agro-alimentaire, l'horticulture florale. Parmi les produits de l'industrie, elle permet de distinguer les engrais, les produits de protection des cultures, le matériel et les machines agricoles, c'est-à-dire divers produits dont l'usage est spécifiquement agricole. En revanche, les importations d'énergie sont ventilées selon leur nature, et non selon leur usage, aussi il n'est pas possible de distinguer les importations de produits énergétiques utilisés pour la production agricole. De même, limitées aux échanges de marchandises, les statistiques des douanes ne couvrent pas les échanges de services, notamment de brevets. Les tableaux ci-après éclairent l'évolution de nos échanges agro-alimentaires, en comparaison de nos échanges d'engrais, de produits de protection des cultures, de machines et matériels agricoles, qui constituent les principaux moyens de production à usage agricole. A leur lecture, on constate que l'excédent agro-alimentaire français a doublé, en valeur, de 1981 à 1990, malgré une aggravation du déficit en produits de l'horticulture florale. Les moyens de production à usage agricole ont, de leur côté, creusé leur déficit. Néanmoins, ce déficit n'éponge pas l'excédent agro-alimentaire. En effet, globalement, pour l'ensemble de l'agro-alimentaire et des moyens de production à usage agricole, les échanges ont dégagé un excédent croissant au cours de la décennie écoulée, et notamment au cours des dernières années. Nota : voir tableau p.1027
