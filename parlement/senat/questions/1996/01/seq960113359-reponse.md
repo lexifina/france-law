@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960113359
+
+- Question : [SEQ960113359](seq960113359.md) — Accès aux services publics dans le monde rural
+
+## Réponse
+
+*Aménagement du territoire, JO du 1996-03-28, page 706*
+
+Réponse. - Le moratoire opposable aux fermetures de services publics en milieu rural, décidé en 1993, a été prorogé en attendant que soit établi un système de relations plus équilibrées entre les établissements et entreprises chargés d'un service public, d'une part et les élus et les usagers, d'autre part. La loi no 95-115 d'orientation pour l'aménagement et le développement du territoire du 4 février 1995 a tracé le cadre des mesures qui seront prises en ce sens. L'article 28 généralise un système de concertation dans chaque département au sein d'une commission d'organisation et de modernisation des services publics et prévoit la réalisation de schémas départementaux d'organisation et d'amélioration des services publics dont le champ d'application dépasse le seul milieu rural pour s'étendre sur la totalité du territoire. Ainsi, le décret d'application de l'article 28 a été publié au Journal officiel du 14 octobre 1995 (décret no 95-1101 du 11 octobre 1995), et une circulaire du Premier ministre vient d'être adressée aux préfets qui rappelle tout l'attachement du Gouvernement à la mise en oeuvre de ces dispositions pour veiller à la satisfaction des besoins en services publics des habitants. En outre, en application de l'article 29, le rôle des entreprises publiques et leurs responsabilités en matière d'aménagement du territopire seront précisés par les objectifs que leur fixera l'Etat dans le cadre de contrats de service public. Ces contrats serviront de référence aux représentants de l'Etat pour bénéficier d'un cadre d'appréciation des projets éventuels de réorganisation des services par les entreprises publiques. Ainsi, des nouvelles garanties concernant les services publics seront offertes aux espaces ruraux.
