@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961219300
+
+- Question : [SEQ961219300](seq961219300.md) — Fourniture par la France d'une centrale nucléaire en Arménie
+
+## Réponse
+
+*Affaires étrangères, JO du 1997-02-27, page 611*
+
+Réponse. - L'honorable parlementaire a bien voulu appeler l'attention du ministre sur l'état d'avancement d'un projet envisagé par la France en juin dernier consistant en la fourniture d'une centrale nucléaire à l'Arménie. La France et l'Arménie entretiennent des relations d'amitié particulières, fondées sur l'histoire, les relations humaines tissées entre les deux pays du fait de l'existence d'une communauté française d'origine arménienne, et enfin sur notre soutien à la renaissance de l'Etat arménien depuis la dissolution de l'Union soviétique. Il est donc naturel que nous envisagions avec faveur tout ce qui va dans le sens d'une sécurité des approvisionnements énergétiques de l'Arménie. Le président Ter Petrossian en a rappelé la nécessité lors de sa visite en France, en juin 1996. Les autorités arméniennes ont demandé une aide française concernant la construction d'une nouvelle centrale nucléaire : le président Ter Petrossian s'est référé à la confiance qu'il plaçait dans la technologie française, tout particulièrement dans ce domaine. Il a souligné qu'une telle réalisation permettrait à l'Arménie de fermer définitivement la centrale de Medzamor, de conception dépassée mais toujours en fonctionnement à proximité d'Erevan. Le Président de la République a fait part de sa disposition à étudier ces projets avec la plus grande attention. Nos entreprises spécialisées sont également intéressées. Mais seuls des financements internationaux permettraient leur réalisation. Nous soutiendrons donc, dans les instances financières multilatérales spécialisées comme la BERD ou la Banque mondiale, toute demande arménienne visant à mobiliser les fonds nécessaires.
