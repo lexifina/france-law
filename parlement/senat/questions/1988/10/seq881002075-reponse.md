@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881002075
+
+- Question : [SEQ881002075](seq881002075.md) — Conditions d'attribution de la pension de réversion
+
+## Réponse
+
+*Solidarité, JO du 1989-02-23, page 336*
+
+Réponse. - Sensible à la situation des personnes veuves, le Gouvernement, tenant compte des perspectives financières du régime général d'assurance vieillesse, examine la possibilité d'améliorer la réglementation sur les conditions d'attribution des pensions de réversion. Il est par ailleurs rappelé à l'honorable parlementaire que plusieurs dispositions sont déjà intervenues pour permettre aux mères de famille d'acquérir des droits personnels à pension de vieillesse. C'est ainsi que toute femme ayant ou ayant eu la qualité d'assurée, à titre obligatoire ou volontaire, peut bénéficier d'une majoration de deux ans d'assurance par enfant élevé à sa charge ou à celle de son conjoint pendant au moins neuf ans avant qu'il atteigne son seizième anniversaire. D'autre part, les personnes isolées (ou pour un couple l'un ou l'autre de ses membres n'exerçant pas d'activité professionnelle) ayant soit un enfant de moins de trois ans, soit trois enfants, bénéficiaires de l'allocation au jeune enfant, du complément familial ou de l'allocation parentale d'éducation et dont les ressources sont inférieures à un certain plafond, sont affiliées obligatoirement à l'assurance vieillesse à la charge exclusive des organismes débiteurs des prestations familiales. Par ailleurs, une possibilité d'adhésion à l'assurance volontaire vieillesse a été ouverte, sous certaines conditions, aux mères de famille qui ne relèvent pas, à titre personnel, d'un régime obligatoire d'assurance vieillesse. Les intéressées peuvent ainsi acquérir des droits personnels à retraite au titre de leurs activités familiales comme si elles cotisaient au titre de l'exercice d'une activité salariée.
