@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931003314
+
+- Question : [SEQ931003314](seq931003314.md) — Réhabilitation de logements locatifs et FCTVA
+
+## Réponse
+
+*Budget, JO du 1993-12-23, page 2466*
+
+Réponse. - Aux termes de l'article 42-III de la loi de finances rectificative pour 1988, les dépenses d'investissement des collectivités locales concernant des immobilisations cédées ou mises à disposition au profit de tiers non éligibles au fonds de compensation pour la taxe sur la valeur ajoutée (FCTVA) sont exclues du bénéfice dudit fonds. Cette disposition constitue le complément logique des diverses dispositions législatives qui ont limitativement fixé la liste des bénéficiaires du FCTVA aux communes, départements, régions ainsi qu'un nombre très réduit d'organismes qui en dépendent directement, tels que les services départementaux d'incendie et de secours, les caisses des écoles et les centres communaux d'aide sociale. Compte tenu de la variété des domaines d'intervention des collectivités locales et du nombre d'organismes qui, plus ou moins directement, leur sont rattachés, cette disposition permet de limiter le bénéfice du FCTVA aux seules opérations pour lesquelles la récupération de la TVA par la voie fiscale n'est pas possible et d'empêcher ainsi toute éventuelle double récupération de la taxe. Elle permet également de ne pas créer de distorsions dans les conditions de la concurrence, dès lors qu'une collectivité intervient dans un secteur, par exemple le logement locatif socal, concurremment avec des opérateurs qui ne sont pas assujettis et se trouvent ainsi dans l'impossibilité de récupérer la taxe par la voie fiscale. Pour ces différentes raisons, le Gouvernement n'entend pas modifier dans le sens indiqué par l'honorable parlementaire la législation en vigueur, qui se doit d'être strictement appliquée, au moment où les dépenses du FCTVA continuent de croître de façon immodérée.
