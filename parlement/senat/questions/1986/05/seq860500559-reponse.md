@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860500559
+
+- Question : [SEQ860500559](seq860500559.md) — Relance de la construction navale
+
+## Réponse
+
+*Industrie, JO du 1987-06-04, page 887*
+
+Réponse. -Comme l'ensemble des armements étrangers, les armateurs français font face, depuis plusieurs années, à une crise extrêmement grave du transport maritime mondial, laquelle a eu pour conséquences la réduction des trafics et le maintien des taux de fret à des niveaux très bas. Dans ces conditions, les armements français sont rarement en mesure de commander de nouveaux navires et ont même plutôt tendance à réduire le nombre de leurs navires en exploitation. Pour améliorer la situation générale de la marine marchande française, le secrétaire d'Etat à la Mer a pris récemment un certain nombre de mesures tout à fait positives. Pour sa part, le ministre de l'Industrie, des P. et T. et du Tourisme ne ménage pas ses efforts, comme l'a montré l'actualité récente, pour favoriser, dans le respect de la directive européenne sur les aides à la construction navale, la concrétisation de projets de commandes par des armateurs français, et pour que ces commandes pu issent être traitées par des chantiers navals français. Cependant, plutôt bien armée dans la construction de navires relativement élaborés, la construction navale française ne peut avoir pour débouché exclusif les seuls besoins des armateurs français ; ces besoins sont, en effet, limités en volume et composés en partie de navires simples pour lesquels la différence de coûts de construction entre les chantiers d'Europe et d'Extrême-Orient est considérable. C'est la raison pour laquelle les chantiers navals français doivent, impérativement, poursuivre l'amélioration de leur compétitivité dans les segments pour lesquels ils disposent d'une réelle avance technologique sur le marché international, et notamment dans la construction de navires pour passagers.
