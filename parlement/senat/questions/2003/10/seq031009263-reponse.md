@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031009263
+
+- Question : [SEQ031009263](seq031009263.md) — Questions posées aux candidats à l'examen du code de la route
+
+## Réponse
+
+*Équipement, JO du 2004-01-01, page 28*
+
+Il est exact que le permis de conduire fait actuellement l'objet d'une réforme fondamentale en France. A l'instar des pays européens qui enregistrent les meilleurs résultats dans le domaine de la sécurité routière, le permis de conduire est confirmé comme un élément déterminant du volet éducatif et préventif de la lutte contre l'insécurité routière. Il constitue l'un des principaux piliers du nouveau dispositif d'évaluation continue de l'aptitude à la conduite permettant d'assurer une meilleure formation des candidats. La réforme de l'épreuve théorique générale s'inscrit dans ce cadre. Son contenu a été adapté pour - au-delà des connaissances indispensables - mettre l'accent sur les comportements des apprentis conducteurs dans le sens du partage de la route avec les autres usagers et d'une conduite apaisée, notamment vis-à-vis des usagers les plus fragiles que constituent les piétons et les enfants, les personnes âgées et les handicapés physiques. L'attention a également été portée sur les aspects liés aux facteurs de risque (fatigue, médicaments, psychotropes, pluie, neige, brouillard, etc.). Les situations proposées aux candidats sont sans aucune ambiguïté, et les formulations sont volontairement simples et courtes. Cette réforme s'inspire des expériences partagées avec les pays européens les plus performants en matière de sécurité routière qui fondent leur action sur un système formation/examen efficace. Il est normal que tous les candidats au permis de conduire puissent bénéficier de ces dispositions d'autant qu'il est patent que les conducteurs novices, quelle que soit leur origine sociale, sont de façon inacceptable surreprésentés dans les accidents de la route.
