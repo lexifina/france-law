@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861003193
+
+- Question : [SEQ861003193](seq861003193.md) — Situation de l'office national interprofessionnel des céréales
+
+## Réponse
+
+*Agriculture, JO du 1987-03-19, page 409*
+
+Réponse. -Les perspectives budgétaires de l'O.N.I.C. conduiraient, en l'absence d'une réforme, à un déficit d'environ 20 millions de francs par an. Une réorganisation en profondeur de cet établissement était inévitable. La réforme, aujourd'hui engagée, correspond aux objectifs suivants : maintenir les missions fondamentales de l'organisme auxquelles l'interprofession demeure très attachée ; alléger, dans toute la mesure du possible, la charge parafiscale tout en sauvegardant l'équilibre financier de l'office grâce à l'informatisation des services et l'allègement de certaines procédures qui, aujourd'hui, ne s'imposent plus. Dans ce cadre, et dans la perspective d'une gestion moins coûteuse et plus efficace, il est indispensable de recentrer le dispositif territorial de l'établissement sur les régions. Les sections départementales devront donc être progressivement supprimées et les structures régionales également révisées. Il n'est cependant pas exclu de maintenir certaines antennes dans un département ou un groupe de départements pour tenir compte d'une forte spécificité locale ou de l'éloignement du chef-lieu de région. L'ensemble de ce programme a été accepté par les professionnels du secteur des céréales lors d'une récente réunion du comité permanent de l'O.N.I.C. Le ministre de l'agriculture veillera à ce que cette réforme soit faite dans le respect des droits statutaires du personnel. Le plan de reclassement, qui vient d'être arrêté par le Gouvernement, prévoit la possibilité de tenir compte des aspirations des intéressés et a adopté un certain nombre de mesures d'accompagnement, sous la forme de primes ou d'indemnités.
