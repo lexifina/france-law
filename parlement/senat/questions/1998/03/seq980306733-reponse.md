@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980306733
+
+- Question : [SEQ980306733](seq980306733.md) — Suggestion de dates d'échéance mensuelle différentes au choix du contribuable dans les contrats de paiement automatique mensuel de l'impôt sur le revenu
+
+## Réponse
+
+*Économie, JO du 1998-06-04, page 1797*
+
+Réponse. - Le système de paiement de l'impôt par prélèvement mensuel obéit à des règles énoncées à l'article 376 sexies de l'annexe II du code général des impôts, qui précise que " les prélèvements mensuels sont effectués le 8 de chaque mois ou, s'il s'agit d'un dimanche, d'un jour férié ou d'un jour de fermeture de l'établissement dépositaire, le premier jour ouvrable suivant ". Compte tenu de la diversité des situations individuelles dans la perception des revenus, accorder des dates multiples de prélèvement conduirait à alourdir de manière excessive les coûts de gestion et serait contraire au principe d'égalité des redevables devant l'impôt si cet avantage ne profitait qu'aux retraités. Il en résulterait également un préjudice important de trésorerie pour l'Etat. Le contribuable qui choisit de régler son impôt par prélèvement mensuel en accepte normalement toutes les modalités figurant au contrat d'adhésion, en particulier le prélèvement automatique le 8 de chaque mois. Il est ainsi en mesure de gérer l'approvisionnement de son compte bancaire ou postal. Par ailleurs, des mesures ont été prises en 1998 pour assouplir le dispositif de la mensualisation en faveur des redevables : possibilité d'adhésion tardive (jusqu'au 15 mai pour l'année en cours), suppression de l'exclusion pour modulation abusive des prélèvements à la baisse et étalement du paiement de l'impôt sur les mensualités restantes, dès que son montant est connu. Il n'est donc pas envisagé de modifier les dispositions réglementaires en vigueur.
