@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990516531
+
+- Question : [SEQ990516531](seq990516531.md) — Education nationale : développement des remplacements " internes "
+
+## Réponse
+
+*Éducation, JO du 1999-08-05, page 2664*
+
+Réponse. - Le remplacement des personnels enseignants des lycées et collèges constitue l'une des préoccupations constantes du ministre de l'éducation nationale, de la recherche et de la technologie, afin d'assurer la permanence et la qualité du service public d'éducation. Cependant, la gestion du remplacement des enseignants dans le second degré n'est pas aisée, car il s'agit bien souvent de faire face à l'imprévisible, les absences de courte durée étant particulièrement difficiles à gérer. Il revient donc aux établissements de rechercher les solutions permettant la prise en charge des élèves dont le professeur est absent pour une brève période. C'est ainsi que la note de service nº 98-189 du 16 septembre 1998, relative aux dispositifs académiques de remplacement, rappelle qu'il appartient aux chefs d'établissement, dans le cadre du projet d'établissement, de créer les conditions d'un véritable contrat de communauté éducative pour mobiliser les ressources internes en vue du remplacement des enseignants absents. Les professeurs appelés à effectuer des suppléances sont rétribués en heures supplémentaires. La notification, précisée par la note de service précitée aux établissements dès le début de l'année, d'une dotation d'heures supplémentaires effectives visait à constituer une réserve pour rémunérer les intéressés. A titre accessoire et complémentaire peuvent être recrutés des vacataires. En tout état de cause, les académies privilégient déjà pour les absences de courte durée les remplacements en interne dans les établissements du second degré, conformément aux principes dégagés par la table ronde " Pas de classe sans enseignant ", présidée par le recteur Bloch.
