@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920320515
+
+- Question : [SEQ920320515](seq920320515.md) — Amélioration de la sécurité sur la RN 10
+
+## Réponse
+
+*Premier ministre, JO du 1992-10-22, page 2383*
+
+Réponse. - Un certain nombre de mesures ont été prises pour améliorer la sécurité et l'environnement phonique sur la RN 10 entre l'échangeur du Moulinet, à Rambouillet et le département d'Eure-et-Loir. Des travaux ponctuels d'amélioration de la sécurité ont été réalisés ces dernières années, notamment au niveau de la déviation de Rambouillet où une modification de l'affectation des voies et la pose d'un séparateur en béton ont été effectuées. Parallèlement, une étude globale d'aménagement de l'axe Saint-Quentin-en-Yvelines-Ablis a été lancée. En effet, il est apparu indispensable de rechercher et de comparer diverses solutions d'aménagements répondant au mieux à la fois à l'augmentation du trafic sur la RN 10 (près de 4 p. 100 l'an), à la sécurité des riverains et à l'insertion dans l'environnement, tant urbain que naturel. Deux options contrastées se dégagent des premières conclusions de cette étude. L'une consiste à aménager sur place la RN 10 en autoroute, l'autre à construire une autoroute au tracé entièrement neuf. Compte tenu du coût élevé de ces deux solutions - environ 1 700 MF en ce qui concerne l'aménagement de la RN 10 - dont la réalisation n'est pas prévue au contrat de plan en cours, il paraît effectivement souhaitable d'envisager dans une première étape un aménagement sur place qualitatif, notamment de sécurité, compatible avec une éventuelle mise en autoroute de cette voie. Les résultats des études citées plus haut permettront de proposer lors du prochain contrat entre l'Etat et la région une solution compatible avec l'hypothèse d'aménagement à terme de cet axe et proposant des mesures de protection phonique.
