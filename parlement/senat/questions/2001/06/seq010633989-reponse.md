@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010633989
+
+- Question : [SEQ010633989](seq010633989.md) — Nombre d'infractions économiques et financières constatées par les services de la police nationale
+
+## Réponse
+
+*Intérieur, JO du 2002-03-07, page 723*
+
+L'honorable parlementaire a souhaité connaître l'évolution des infractions économiques et financières dans le département du Rhône au cours des deux premiers trimestres 2001 par rapport aux chiffres correspondants des années 1999 et 2000. Les services de la sécurité publique du Rhône ont enregistré, au 1er semestre 2001, 5 635 infractions économiques et financières contre 3 019 en 1999 et 5 060 pour 2000 sur la même période calendaire. Si certains faits augmentent, notamment les escroqueries (2 562 en 2001 contre 2 096 en 2000), les infractions à la législation sur les chèques (73 en 2001 contre 55 en 2000) et les falsifications et usage de chèques volés (1 343 en 2000 et 1 659 en 2001), d'autres infractions baissent : falsifications et usages de cartes de crédit (- 27,38 %), soit 902 faits en 2000 contre 655 en 2001, ou les faux dans leur ensemble (- 25 %), soit 116 en 2000 contre 87 en 2001. Dans ce département, les infractions économiques et financières représentent une part de plus en plus importante de la délinquance générale : 5,70 % en 1999, 9,77 % en 2000, 10,51 % en 2001. L'analyse de la délinquance dans le département du Rhône fait apparaître que la progression des escroqueries résulte essentiellement de l'utilisation frauduleuse de données numériques de cartes bancaires, notamment pour les achats par correspondance et pour le rechargement de téléphones portables. Cependant, la statistique institutionnelle ne recensant pas le nombre de fraudes au commerce électronique, il n'est pas possible d'établir de manière chiffrée la part exacte représentée par ces infractions dans l'ensemble des escroqueries recencées.
