@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940104410
+
+- Question : [SEQ940104410](seq940104410.md) — Augmentation des primes d'assurances
+
+## Réponse
+
+*Économie, JO du 1994-03-31, page 727*
+
+Réponse. - L'honorable parlementaire fait état dans sa question d'éventuels ajustements tarifaires réalisés par les assureurs et s'étonne que l'augmentation de la charge des sinistres ne puisse être compensée par les revenus du patrimoine et la cession des actifs détenus par les compagnies. Les entreprises d'assurances de dommages ont connu depuis 1991 des résultats d'exploitation fortement déficitaires (6 milliards de francs en 1991 et 9,7 milliards de francs en 1992). La dégradation globale des comptes est la résultante de l'évolution de deux secteurs en particulier, l'assurance automobile et les risques d'entreprises. L'origine des déséquilibres se situe dans la fréquence plus élevée des sinistres mais aussi dans les effets de politiques tarifaires parfois excessivement agressives, notamment dans le secteur des risques industriels. Il convient de signaler que dans de nombreux domaines, la marché français de l'assurance est devenu l'un des plus concurrentiels d'Europe. Pendant quelques années, cette dégradation a été masquée par une contribution accrue des produits financiers et des plus-values de cession des actifs. Cette situation n'était cependant pas durable, comme l'a démontré le retournement du marché immobilier. Il est indispensable, pour ne pas compromettre la solidarité financière des entreprise, gage de la sécurité des assurés, que les résultats techniques se redressent. Ce rééquilibrage peut s'opérer par différents types de mesures parmi lesquelles figurent les ajustements tarifaires. Il appartient à chaque entreprise d'assurance d'apprécier les mesures les plus appropriées à la situation.
