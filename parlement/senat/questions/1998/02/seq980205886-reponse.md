@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980205886
+
+- Question : [SEQ980205886](seq980205886.md) — Calcul des pensions des magistrats intégrés par concours exceptionnels
+
+## Réponse
+
+*Justice, JO du 1998-10-15, page 3272*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que la loi organique portant statut de la magistrature ouvre, dans ses articles 25-4 et 40, la possibilité pour les personnes intégrées directement dans la magistrature, originaires du secteur privé ou d'une profession libérale, d'obtenir la prise en compte des années d'activité professionnelle accomplies par elles avant leur nomination comme magistrat pour la constitution de leur droit à pension de retraite de l'Etat ou pour le rachat d'annuités supplémentaires. Ce dispositif de rachat est très dérogatoire au régime général du code des pensions, selon lequel la pension rémunéré des services effectifs rendus à l'Etat, ou assimilables. Son champ actuel se limite au recrutement sur titres dans la magistrature, par la voie de l'intégration. Son éventuelle extension par une loi organique aux recrutements par voie de concours, qu'il s'agisse des concours exceptionnels organisés antérieurement ou de ceux qui seront ouverts en 1998 et 1999, ou du " troisième concours " d'accès à l'Ecole nationale de la magistrature ouvert aux personnes issues du secteur privé, serait susceptible de concerner : 83 magistrats recrutés par concours exceptionnels en 1982, 1983 et 1991, n'ayant pas antérieurement la qualité d'agent public, et actuellement en position d'activité (10 magistrats issus des même concours sont en outre radiés des cadres) ; une fraction des 200 magistrats qui seront recrutés par concours exceptionnels en 1998 et 1999 ; ainsi que 12 magistrats recrutés par le troisième concours d'accès à L'ENM (7 en 1997 et 5 en 1998). Cette question nécessite une réflexion approfondie dans un cadre interministériel actuellement en cours.
