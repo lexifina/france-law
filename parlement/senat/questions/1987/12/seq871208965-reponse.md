@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871208965
+
+- Question : [SEQ871208965](seq871208965.md) — Infirmières libérales : réactualisation de la nomenclature générale et de la lettre clé
+
+## Réponse
+
+*Santé et famille, JO du 1988-04-21, page 550*
+
+Réponse. -Des propositions communes des parties signataires portant revalorisation en deux étapes des tarifs des infirmiers ont été transmises aux pouvoirs publics. Le Gouvernement a décidé d'approuver les nouveaux tarifs correspondant à ces étapes. Ainsi, la lettre-clé AMI qui rémunère l'activité des infirmiers a été fixée à 14 francs le 20 décembre 1987 et à 14,30 francs le 1er juillet 1988. L'indemnité forfaitaire de déplacement a été fixée à 7,80 francs le 20 décembre 1987 et l'indemnité kilométrique à 2,60 francs à cette même date. Par ailleurs, l'arrêté du 30 juillet 1987 publié au Journal officiel du 9 août 1987 a modifié l'arrêté du 28 janvier 1986 relatif à la commission permanente de la nomenclature des actes professionnels. Il appartient à cette commission, qui peut être saisie, notamment, par les organisations professionnelles les plus représentatives, de faire des propositions au ministre chargé de la sécurité sociale sur les actualisations de la nomenclature qui lui apparaîtront souhaitables. La nouvelle commission, dont la séance inaugurale pour les professions paramédicales s'est tenue le 13 janvier 1988, se réunit sur convocation de son président suivant un calendrier qu'il détermine. Au cours de cette séance, les organisations professionnelles représentatives ont, à la demande du président de la commission, indiqué les aménagements prioritaires à apporter à la nomenclature. Dès que les études techniques nécessaires auront été conduites suivant la procédure prévue par l'arrêté instituant la commission, celle-ci se trouvera en mesure de formuler les propositions qu'elle est chargée de soumettre au ministre.
