@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970700351
+
+- Question : [SEQ970700351](seq970700351.md) — Suppressions de postes dans l'enseignement adapté
+
+## Réponse
+
+*Éducation, JO du 1997-12-11, page 3457*
+
+Réponse. - Les établissements régionaux d'enseignement adapté constituent un des éléments majeurs du dispositif mis en oeuvre pour aider dans leur scolarité les élèves éprouvant de grandes difficultés. Ils sont appelés par ailleurs à jouer un rôle important dans le dispositif d'accès à la qualification prévu par la circulaire no 96-167 du 20 juin 1996 relative aux enseignements généraux et professionnels adaptés en étant un lieu privilégié de développement des formations de niveau V, et le cas échéant de niveau IV (bac professionnel). A ce titre, le ministère de l'éducation nationale, de la recherche et de la technologie s'attache à donner à ces établissements tous les moyens qu'exigent les actions qu'ils conduisent dans le domaine de la formation et de l'insertion professionnelle et qu'implique le bon accomplissement par leur personnel enseignant et d'éducation des tâches qui leur sont confiées. En ce qui concerne plus particulièrement l'organisation des enseignements dans les quatre établissements régionaux d'enseignement adapté de Paris, à la rentrée scolaire 1997, celle-ci relève de la compétence du directeur de l'académie, dans le cadre de la dotation qui a été définie au cours de mois de novembre. Aussi, s'agissant des réajustements qui auraient été opérés dans les établissements régionaux d'enseignement adapté de Paris et qui, en aucune manière, n'ont affecté les postes de psychologues ni les postes consacrés au service du placement et du suivi, il convient de prendre directement l'attache des services académiques de Paris. Ces services seront le mieux à même d'indiquer de quelle façon il ont apprécié la situation de ces établissements.
