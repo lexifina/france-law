@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990213914
+
+- Question : [SEQ990213914](seq990213914.md) — Site Internet pour tous les grands établissements culturels
+
+## Réponse
+
+*Culture, JO du 1999-04-01, page 1064*
+
+Réponse. - En réponse à l'honorable parlementaire, madame Catherine Trautmann, ministre de la culture et de la communication, précise que, dans plusieurs circonstances, elle a confirmé sa volonté de voir les principaux établissements culturels se doter d'un site Internet d'ici à la fin de l'année 1999. Ce programme est déjà pratiquement abouti. Dans le secteur des musées, après celui du Louvre, de nombreux sites ont été ouverts en 1998 et début 1999. C'est le cas pour le musée d'Orsay, le musée Rodin, le Musée national d'art moderne, le château de Versailles, le Musée des antiquités nationales de Saint-Germain-en-Laye, la Cité des sciences et de l'industrie, les musées de l'Union centrale des arts décoratifs, le musée de la musique et l'ensemble de la Cité de la musique des arts et traditions populaires, le Musée national des arts d'Afrique et d'Océanie. C'est le cas également pour quatre des cinq théâtres nationaux et pour l'ensemble des établissements publics spécialisés dans les différents domaines du spectacle, ou encore pour les principaux monuments historiques relevant de l'Etat par l'intermédiaire du site de la Caisse nationale des monuments historiques et des sites. C'est enfin le cas pour les grandes bibliothèques, qu'il s'agisse de la BNF ou de la bibliothèque publique d'information. La ministre de la culture et de la communication rappelle que la liste des équipements culturels, relevant de l'Etat, et disposant d'un site Internet, est consultable sur le site du ministère de la rubrique " Internet Culturel ". Cette liste dispose de liens directs avec l'ensemble des sites répertoriés.
