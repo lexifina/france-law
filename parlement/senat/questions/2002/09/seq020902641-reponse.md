@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020902641
+
+- Question : [SEQ020902641](seq020902641.md) — Pompes anti-douleur
+
+## Réponse
+
+*Santé, JO du 2003-01-02, page 82*
+
+Depuis 1993, l'amélioration de la prise en charge de la douleur est une priorité des pouvoirs publics : des recommandations sur la prise en charge de la douleur chronique sont diffusées en 1994 puis deux programmes nationaux d'actions (1998-2000 et 2002-2005) sont successivement mis en place. L'évaluation du 1er programme national montre que l'objectif d'instaurer une meilleure prise en compte de la douleur a été atteint et que des changements notables sont intervenus notamment au niveau de sa prise en charge thérapeutique. Ainsi, une enquête menée auprès des fabricants en 2001, et qui a été reconduite en 2002, montre que la vente des pompes d'auto-analgésie contrôlée a progressé. Bien qu'il soit impossible de déterminer le nombre de pompes nécessaires, on peut estimer qu'environ 5 000 pompes étaient disponibles en 2000 dans les établissements de santé. Cependant, il apparaît que ce matériel, malgré sa disponibilité, est souvent peu ou mal utilisé dans les services. Afin d'obtenir une meilleure utilisation de ces pompes qui ne constituent qu'un des outils de l'amélioration de la prise en charge de la douleur, il est indispensable que leur achat s'inscrive dans une véritable politique de lutte contre la douleur menée par l'établissement de santé. Par ailleurs, compte tenu de la complexité de cette technique, une formation préalable des équipes soignantes sur l'utilisation de ce matériel est nécessaire. Aussi, le programme quadriennal 2002-2005 tient compte de l'évaluation du plan précédent. Il prévoit, en particulier, de renforcer la formation des professionnels de santé et d'inciter les établissements de santé à la mise en oeuvre de programme d'amélioration de la qualité de la prise en charge de la douleur des personnes hospitalisées.
