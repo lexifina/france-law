@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860902641
+
+- Question : [SEQ860902641](seq860902641.md) — Non achèvement de logements par les sociétés de construction: régime fiscal de la TVA sur le terrain acquis
+
+## Réponse
+
+*Budget, JO du 1986-11-13, page 1591*
+
+Réponse. -Lorsqu'un acquéreur de terrain se trouve dans l'impossibilité de respecter son engagement de construire par suite d'un cas de force majeure empêchant la construction de manière absolue et définitive, le régime de la taxe sur la valeur ajoutée appliqué à l'acquisition du terrain n'est pas remis en cause. La notion de force majeure retenue par l'administration, sous le contrôle des tribunaux, n'est pas différente de celle du droit commun ; il doit s'agir d'un événement imprévisible, insurmontable et indépendant de la volonté de l'acquéreur. Les difficultés financières auxquelles les constructeurs sont susceptibles de se heurter peuvent motiver une prorogation du délai initialement imparti mais elles ne sauraient constituer un cas de force majeure. Il n'est pas envisagé de modifier ces dispositions sur ce point. Par ailleurs, il est confirmé que la qualité de marchand de biens est reconnue aux personnes morales qui, indépendamment de leur forme juridique, réalisent des opérations immobilières présentant un caractère habituel et volontaire. Le caractère habituel et l'intention de revendre sont souvent révélés par la définition de l'objet social donnée par les statuts mais il s'apprécient également en fonction des circonstances de fait. Ainsi la condition d'habitude se trouve suffisamment établie par la continuité et le grand nombre de cessions et l'intention de revendre s'apprécie lors de l'achat initial. Il pourrait être répondu de manière plus précise sur l'application de ces principes au cas évoqué si, par l'indication de la raison sociale et l'adresse de la société, l'administration était mise à même de faire procéder à une enquête.
