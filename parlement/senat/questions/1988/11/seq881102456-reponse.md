@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881102456
+
+- Question : [SEQ881102456](seq881102456.md) — Disparité entre les allocations de recherche et les allocations de recherche et d'enseignement
+
+## Réponse
+
+*Éducation, JO du 1989-01-19, page 94*
+
+Réponse. - Le recrutement d'allocataires d'enseignement et de recherche est prévu par le décret n° 88-653 du 7 mai 1988. Ce dispositif avait un double objectif : assurer, d'une part, le renouvellement à la base des corps universitaires et, d'autre part, prendre le relais du système d'allocataires d'enseignement supérieur régis par le décret n° 85-1082 du 11 octobre 1985. Le dispositif en question, gagé sur les emplois vacants d'assistants, ne permettait pas d'offrir une rémunération supérieure, bien que - rappelons-le pour mémoire - un allocataire d'enseignement et de recherche perçoive 6 192,66 francs en échange d'un demi-service d'allocataire d'enseignement supérieur alors que la rémunération de ce dernier s'élève à 8,945 francs. Aussi a-t-il été jugé nécessaire de mettre en place un nouveau système : " le monitorat d'initiation à l'enseignement supérieur ". Ce système consiste à assurer, dans les conditions optimales, une formation à l'enseignement aux étudiants bénéficiaires d'une allocation de recherche qui le souhaitent. Dans ce but, il leur est confié 96 heures de travaux dirigés ou 144 heures de travaux pratiques. Leur rémunération se compose de l'allocation de recherche (7 000 francs) et du paiement de ces heures d'enseignement (1 364,80 francs). Toutefois, pour la présente année universitaire, le monitorat reste à un stade expérimental. C'est la raison pour laquelle il a été décidé d'opter pour la coexistence des deux systèmes. L'ensemble de cette question fera l'objet d'un réexamen, à l'issue de l'année universitaire, en fonction des résultats obtenus.
