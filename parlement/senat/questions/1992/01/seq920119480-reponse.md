@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920119480
+
+- Question : [SEQ920119480](seq920119480.md) — Assurance chômage : fixation du montant de l'allocation journalière
+
+## Réponse
+
+*Travail, JO du 1992-12-17, page 2782*
+
+Réponse. - La question soulevée par l'honorable parlementaire est relative à la procédure d'indemnisation applicable aux bénéficiaires d'une allocation du régime d'assurance chômage qui conservent une activité à temps partiel. Si la vocation du régime d'assurance chômage est l'indemnisation du chômage total, ce principe connaît des dérogations qui ont pour but d'éviter que l'allocataire ne renonce à occuper des emplois même réduits ou provisoires. En effet, une indemnisation peut être partiellement maintenue pendant une période de douze mois au plus en cas d'activité réduite répondant à certains critères. La rémunération perçue au titre de l'activité conservée ne doit pas dépasser 47 p. 100 du total des rémunérations antérieurement perçues (délibération n° 38 de la commission paritaire nationale du régime d'assurance chômage). En revanche, la nature du contrat, à durée déterminée ou indéterminée, n'est pas prise en considération. Si la condition ci-dessus est remplie, le nombre de jours indemnisables est égal à la différence entre le nombre de jours calendaires et le nombre de jours obtenus en appliquant la formule suivante : rémunération brute mensuelle/salaire journalier de référence. Le salaire journalier de référence retenu pour ce calcul est établi, lorsque le salarié avait plusieurs activités professionnelles, à partir de l'ensemble des rémunérations des activités considérées. Le nombre de jours non indemnisables au cours du mois considéré n'affecte en rien les droits potentiels de l'intéressé qui préserve ainsi ses droits aux allocations en cas de perte de l'activité conservée.
