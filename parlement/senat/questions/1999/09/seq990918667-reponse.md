@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990918667
+
+- Question : [SEQ990918667](seq990918667.md) — Education civique
+
+## Réponse
+
+*Éducation, JO du 1999-11-25, page 3866*
+
+Réponse. - Il n'existe pas de professeurs spécialisés en éducation civique, juridique et sociale (ECJS) puisque l'ECJS n'est pas une nouvelle discipline introduite en lycée. C'est une matière où l'on n'enseigne pas des savoirs en tant que tels mais où l'on réfléchit au concept de citoyenneté en s'appuyant sur différents domaines disciplinaires : l'histoire, la géographie, la philosophie, la biologie, les sciences économiques et sociales. Le droit est effectivement un savoir nouveau introduit en lycée. Mais il s'agit de faire découvrir le sens du droit, garant des libertés et non d'enseigner le droit dans ses techniques. C'est pourquoi cet enseignement peut être confié aux professeurs d'histoire-géographie prioritairement mais aussi aux enseignants de philosophie ou de sciences économiques et sociales. Pour les aider dans leur enseignement, plusieurs dispositifs sont mis en place. D'une part, des séances de concertation seront organisées dans les lycées pour élaborer en commun des séquences pédagogiques. D'autre part, des intervenants extérieurs peuvent participer aux cours. Enfin, un plan national de formation est prévu. Il associe les membres du groupe technique disciplinaire d'ECJS (chargé de l'élaboration des programmes et de la rédaction de documents d'accompagnement), l'inspection générale, les inspecteurs pédagogiques régionaux et les instituts de formation des maîtres. Les responsables académiques organiseront des sessions de formation au plan régional. Des documents d'accompagnement des programmes seront prochainement proposés aux enseignants sur le site Internet du Centre national de documentation pédagogique.
