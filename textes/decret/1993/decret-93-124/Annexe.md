@@ -1,83 +1,51 @@
 # Article Annexe
 
-1. Objets archéologiques ayant plus de 100 ans d'âge provenant de : 0, et 9705.00.00, 9706.00.00.
+1. Objets archéologiques ayant plus de 100 ans d'âge provenant de :
 
-- fouilles et découvertes terrestres et sous-marines ;
+- fouilles et découvertes terrestres et sous-marines : 0.
 
-- sites archéologiques ;
+- sites archéologiques : 0.
 
-- collections archéologiques.
+- collections archéologiques : 0.
 
-2. Eléments faisant partie intégrante de monuments artistiques, historiques ou religieux et provenant du démembrement de ceux-ci, ayant plus de 100 ans d'âge : 0, et 9705.00.00, 9706.00.00.
+2. Eléments et fragments de décor d'immeubles par nature ou par destination, à caractère civil ou religieux et immeubles démantelés, ayant plus de 100 ans d'âge : 0.
 
-3. Tableaux et peintures faits entièrement à la main sur tout support et en toutes matières (1) : 150 000, et 9701.
+3. Tableaux et peintures autres que ceux entrant dans les catégories 3 A et 4 ayant plus de 50 ans d'âge (1) : 150000.
 
-4. Mosaïques, autres que celles entrant dans les catégories 1 ou 2, et dessins faits entièrement à la main sur tout support et en toutes matières (1) : 15 000, et 6914, 9701.
+3 A. Aquarelles, gouaches et pastels ayant plus de 50 ans d'âge (1) : 30000.
 
-5. Gravures, estampes, sérigraphies et lithographies originales et leurs matrices respectives ; ainsi que les affiches originales (1) :
+4. Dessins ayant plus de 50 ans d'âge (1) : 15000.
 
-15 000, et Chap. 49, 9702.00.00, 8442.50.99.
+5. a) Gravures, estampes, sérigraphies et lithographies originales et leurs matrices respectives, isolées et ayant plus de 50 ans d'âge ou en collection comportant des éléments de plus de 50 ans d'âge (1) (2) : 15000.
 
-6. Productions originales de l'art statuaire ou de la sculpture et copies obtenues par le même procédé que l'original (1) ; autres que celles qui entrent dans la catégorie 1 : 50 000, et 9703.00.00.
+b) Affiches originales et cartes postales, isolées et ayant plus de 50 ans d'âge ou en collection comportant des éléments de plus de 50 ans d'âge (1) (2) : 15000.
 
-7. Photographies, films et leurs négatifs (1) : 15 000, et 3704, 3705, 3706, 4911.91.80.
+6. Productions originales de l'art statuaire ou de la sculpture et copies obtenues par le même procédé que l'original ayant plus de 50 ans d'âge (1), autres que celles qui entrent dans la catégorie 1 : 50000.
 
-8. Incunables et manuscrits, y compris les cartes géographiques et les partitions musicales, isolés ou en collection (1) : 0, et 9702.00.00, 9706.00.00, 4901.10.00, 4901.99.00, 4904.00.00, 4905.91.00, 4905.99.00, 4906.00.00.
+7. Photographies isolées et ayant plus de 50 ans d'âge ou en collection comportant des éléments de plus de 50 ans d'âge (1) :
 
-9. Livres ayant plus de 100 ans d'âge isolés ou en collection :
+15000.
 
-50 000, et 9705.00.00, 9706.00.00.
+7. Films et leurs négatifs isolés et ayant plus de 50 ans d'âge ou en collection comportant des éléments de plus de 50 ans d'âge (1) : 15000.
 
-10. Cartes géographiques imprimées ayant plus de 200 ans d'âge :
+8. Incunables et manuscrits, y compris cartes géographiques, atlas, globes et partitions musicales, isolés et ayant plus de 50 ans d'âge ou en collection comportant des éléments de plus de 50 ans d'âge (1) (2) (3) : 0.
 
-15 000, et 9706.00.00.
+9. Livres et partitions musicales imprimées isolés et ayant plus de 50 ans d'âge ou en collection comportant des éléments de plus de 50 ans d'âge (3) : 50000.
 
-11. Archives de toute nature comportant des éléments de plus de 50 ans d'âge, quel que soit leur support : 0, et 3704, 3705, 3706, 4901, 4906, 9705.00.00, 9706.00.00.
+10. Cartes géographiques imprimées ayant plus de 100 ans d'âge (2) (3) : 15000.
 
-12. a) Collections (2) et spécimens provenant de collections de zoologie, de botanique, de minéralogie, d'anatomie : 50 000, et 9705.00.00.
+11. Archives de toute nature comportant des éléments de plus de 50 ans d'âge, quel que soit leur support : 0.
 
-b) Collections (2) présentant un intérêt historique, paléontologique, ethnographique ou numismatique : 50 000, et 9705.00.00.
+12. a) Collections et spécimens provenant de collections de zoologie, de botanique, de minéralogie, d'anatomie : 50000.
 
-13. Moyens de transport ayant plus de 75 ans d'âge : 50 000, et 9705.00.00, Chap. 86 à 89.
+b) Collections présentant un intérêt historique, paléontologique, ethnographique, numismatique ou philatélique : 50000.
 
-14. Tout autre objet d'antiquité non compris dans les catégories 1 à 13 :
+13. Moyens de transport ayant plus de 75 ans d'âge : 50000.
 
-a) Ayant entre 50 ans et 100 ans d'âge : 50 000.
+14. Autres objets d'antiquité non compris dans les catégories 1 à 13 de plus de 50 ans d'âge : 50000.
 
-- jouets, jeux : Chap. 95.
+(1) N'appartenant pas à leur auteur.
 
-- verrerie : 7013.
+(2) Y compris ceux (ou celles) qui comportent des dessins ou des rehauts réalisés à la gouache, à l'aquarelle, au pastel.
 
-- articles d'orfèvrerie : 7114.
-
-- meubles et objets d'ameublement : Chap. 94.
-
-- instruments d'optique, de photographie ou de cinématographie :
-
-Chap. 90.
-
-- instruments de musique : Chap. 92.
-
-- horlogerie : Chap. 91.
-
-- ouvrages en bois : Chap. 44.
-
-- poteries : Chap. 69.
-
-- tapisseries : 5805.00.00.
-
-- tapis : Chap. 57.
-
-- papiers peints : 4814.
-
-- armes : Chap. 93.
-
-b) Ayant plus de 100 ans d'âge : 50 000, et 9706.00.00.
-
-(1) Ayant plus de 50 ans d'âge et n'appartenant pas à leurs auteurs.
-
-(2) Telles que définies par la cour de justice dans son arrêt 252/84, comme suit :
-
-"Les objets pour collections au sens de la position 97.05 du TDC sont ceux qui présentent les qualités requises pour être admises au sein d'une collection, c'est-à-dire les objets qui sont relativement rares, ne sont pas normalement utilisés conformément à leur destination initiale ; font l'objet de transactions spéciales en dehors du commerce habituel des objets similaires utilisables et ont une valeur élevée.
-
-(3) La valeur de conversion en monnaies nationales des montants exprimés en ECU est celle en vigueur au 1er janvier 1993.
+(3) Les documents comportant des annotations manuscrites qui ne sont ni des dédicaces ni des ex-libris sont considérés comme des manuscrits à classer dans la catégorie 8 dès lors que ces annotations présentent un intérêt pour l'histoire ou pour l'histoire de l'art, des civilisations, des sciences et des techniques.
