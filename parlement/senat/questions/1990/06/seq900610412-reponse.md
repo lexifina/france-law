@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900610412
+
+- Question : [SEQ900610412](seq900610412.md) — Suspension des importations de viande bovine de Grande-Bretagne
+
+## Réponse
+
+*Agriculture, JO du 1990-10-04, page 2134*
+
+Réponse. - La réglementation communautaire a parmi ses objectifs de concilier le principe de la libre circulation des produits avec des impératifs essentiels tels que la protection sanitaire des cheptels et la santé des consommateurs de chacun des Etats membres de la Communauté économique européenne. Ce principe de la libre circulation ne doit pas concerner seulement les denrées produites au sein même de ces Etats, il doit être également applicable aux denrées importées des pays tiers lorsque les réglementations portant sur leur importation ont fait l'objet d'une hamonisation communautaire : ce qui est le cas des viandes de l'espèce bovine. Le Conseil des communautés européennes, considérant qu'il importait de prohiber l'importation des viandes contenant des résidus de certaines substances nuisibles ou susceptibles de rendre leur consommation dangereuse ou nocive pour la santé humaine, et qu'une attitude commune devait être adoptée par les Etats membres, a fixé parla directive 72/462/C.E.E. les modalités d'importation des viandes en provenances de pays tiers. Le pays d'entrée dans la Communauté économique européenne a la charge de s'assurer de la conformité de ces viandes aux exigences communautaires. S'il est possible techniquement de déterminer l'origine des viandes soit immédiatement lorsqu'elles sont importées en carcasse puisqu'elles portent l'estampille sanitaire de l'abattoir d'origine, soit après enquête par les services compétents de l'Etat où ces viandes ont été découpées, par contre, il n'est pas tenu de comptabilité de la proportion des viandes en provenance du Royaume-Uni qui aurait pour origine initiale un pays tiers.
