@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508457
+
+- Question : [SEQ980508457](seq980508457.md) — Accords interprofessionnels sur des " prix recommandés " des produits viticoles de la région délimitée Cognac
+
+## Réponse
+
+*Agriculture, JO du 1999-01-21, page 187*
+
+Réponse. - La notion de prix recommandés ne figure pas parmi les dispositions susceptibles d'être étendues par les pouvoirs publics dans le cadre des accords conclus au sein des organisations interprofessionnelles. En effet, il ressort notamment d'un avis rendu par la Cour de justice des Communautés économiques européennes, le 30 janvier 1985, au sujet d'une question préjudicielle qui concernait précisément le Bureau national interprofessionnel du cognac, qu'un accord interprofessionnel de fixation de prix constitue une mesure susceptible d'affecter le commerce entre Etats membres, incompatible avec l'organisation commune de marché. De plus, l'efficacité d'un accord se bornant à établir des recommandations en matière de prix, notamment dans une situation de déséquilibre du marché, n'est pas assurée. Par conséquent, il est apparu nécessaire de rechercher des mesures plus adaptées permettant de rétablir un équilibre durable entre l'offre et la demande. C'est pourquoi le Gouvernement vient de décider la mise en uvre d'un plan d'adaptation du vignoble des Charentes, destiné à permettre, d'une part, par des mesures d'incitation à la reconversion, de réorienter la production excédentaire de vin blanc vers des cépages destinés à la production de vins de pays et, d'autre part, par des aides supplémentaires à l'abandon définitif, d'aider les viticulteurs qui souhaitent se retirer. Une aide conjoncturelle de campagne a été également décidée pour aider les viticulteurs charentais à surmonter les effets immédiats de la crise du cognac.
