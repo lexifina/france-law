@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701008
+
+- Question : [SEQ970701008](seq970701008.md) — Accès aux marchés publics pour les PME
+
+## Réponse
+
+*Affaires européennes, JO du 1997-09-25, page 2533*
+
+Réponse. - Le Gouvernement partage pleinement la préoccupation de l'honorable parlementaire concernant l'accès aux marchés publics pour les PME. Il est plusieurs fois intervenu au niveau communautaire en faveur de la mise en place d'une concurrence véritablement ouverte, permettant aux fournisseurs d'accéder dans des conditions loyales aux marchés et offrant ainsi aux pouvoirs adjudicateurs la possibilité d'opérer un choix parmi les meilleures offres disponibles. Pour améliorer concrètement la pratique, il convient d'insister sur la bonne application du cadre réglementaire actuel et sur la mise en oeuvre éventuelle de mesures complémentaires visant à clarifier les règles applicables ou à mieux les adapter au contexte économique. Dans ce cadre, la récente initiative prise par la commission d'élaborer un Livre vert en vue de faire le point sur les résultats obtenus et sur ce que pourrait être plus avant la politique de l'Union en matière de marchés publics, a donc été accueillie très favorablement par la France. Parmi les nombreux points abordés par la commission, notre pays attache, entre autres, une importance particulière aux principes suivants : effectivité de l'application des directives, portée des principes de non-discrimination et d'égalité de traitement, conditions de mise en oeuvre des procédures négociées, bon fonctionnement des procédures de recours. Le conseil " marché intérieur " est appelé à poursuivre activement l'examen de l'ensemble de ces questions. Par ailleurs, les autorités françaises encouragent les PME, pour faire face au coût parfois élevé des appels d'offre, à opérer des regroupements (GIE).
