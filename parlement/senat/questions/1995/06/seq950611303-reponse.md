@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950611303
+
+- Question : [SEQ950611303](seq950611303.md) — Relieurs professionnels de la Bibliothèque nationale
+
+## Réponse
+
+*Culture, JO du 1995-09-07, page 1726*
+
+Réponse. - Les inquiétudes des relieurs professionnels reposent sur des informations qui ne sont plus d'actualité. En effet, en concertation avec le ministère de la culture, la Bibliothèque nationale de France a fait sensiblement évoluer depuis 1993 son programme de conservation vers un accroissement de la sous-traitance auprès d'entreprises privées. Sous réserve d'arbitrages à venir sur le budget de fonctionnement à l'ouverture, les prévisions actuelles de l'établissement postulent un recours à la sous-traitance pour la majorité des travaux, et notamment pour la reliure main, et limitent le traitement interne aux tâches incombant strictement à l'établissement et dont elle ne souhaite pas se départir pour des raisons de sécurité (par exemple, la reliure main des documents de la réserve des livres rares et précieux) ou des délais. Il convient enfin de noter que les professionnels du livre ne pourront que tirer avantage de l'augmentation du volume général des acquisitions par rapport à l'ancienne Bibliothèque nationale. La programmation des ateliers de reliure de la Bibliothèque nationale de France à Tolbiac et à Marne-la-Vallée tient, bien sûr, compte de ces orientations. Seulement un dixième des nouvelles surfaces consacrées aux activités de conservation reviendront à la reliure, l'essentiel des locaux étant affecté au diagnostic (laboratoire), à la restauration, au transfert sur support numérique, à la reproduction et à la formation. Les activités de conservation complémentaires qui incombent aux ateliers de BNF localisés en province ont vocation à y être maintenus : c'est notamment le cas pour la désacidification et le renforcement du papier, qui profite de la récente modernisation de l'atelier de Sablé-sur-Sarthe.
