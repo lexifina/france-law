@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990516440
+
+- Question : [SEQ990516440](seq990516440.md) — Imposition des indemnités versées aux étudiants en stages en entreprises
+
+## Réponse
+
+*Économie, JO du 1999-07-15, page 2418*
+
+Réponse. - Les sommes perçues par les étudiants en rémunération des emplois qu'ils occupent, notamment pendant la période des congés scolaires ou universitaires, sont passibles de l'impôt sur le revenu. Il est toutefois admis que les indemnités perçues par les étudiants et les élèves des écoles des divers ordres d'enseignement qui effectuent des stages en entreprise soient exonérées de l'impôt sur le revenu établi au nom des bénéficiaires ou, le cas échéant, au nom de leur foyer fiscal de rattachement, lorsque ces stages font partie intégrante du programme de l'école ou des études, présentent un caractère obligatoire et que leur durée n'excède pas trois mois. Lorsque cette exonération ne peut s'appliquer, les rémunérations perçues par les étudiants bénéficient des règles d'imposition propres à la catégorie des traitements et salaires, c'est-à-dire qu'elles ne sont retenues dans les bases de l'impôt sur le revenu qu'après application de la déduction forfaitaire de 10 % pour frais professionnels, dont le montant minimum s'établit à 2 130 francs pour l'imposition des revenus de l'année 1998, et de l'abattement général de 20 %. Ces dispositions permettent, le plus souvent, de rendre non imposables les étudiants imposés en leur nom propre. En cas de rattachement au foyer fiscal de leurs parents, les étudiants ouvrent droit à une majoration de quotient familial s'ils sont célibataires ou à un abattement sur le revenu global s'ils sont mariés ou chargés de famille. Il ne peut être envisagé d'aller au-delà de la mesure d'exonération rappelée ci-dessus sans risquer de méconnaître le principe d'égalité devant l'impôt au détriment d'autres catégories de jeunes salariés dont la rémunération est imposable en totalité.
