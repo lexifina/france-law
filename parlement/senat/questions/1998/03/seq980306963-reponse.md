@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980306963
+
+- Question : [SEQ980306963](seq980306963.md) — Ouverture et fermeture des voies des gares de péage
+
+## Réponse
+
+*Équipement, JO du 1998-07-30, page 2475*
+
+Réponse. - Le dispositif décrit dans la revue du syndicat des équipements de la route est utilisé, uniquement par les sociétés concessionnaires d'autoroutes, sur les plates-formes des gares de péage qui disposent de couloirs réversibles en partie centrale de la gare. En fonction du trafic, les sociétés d'autoroutes choisissent d'affecter ces couloirs à l'un ou l'autre sens de circulation. Auparavant, les agents d'exploitation devaient déplacer manuellement des cônes pour fermer ou ouvrir ces couloirs, ce qui nécessitait de multiples traversées sur la plate-forme. Grâce au dispositif, ces man uvres sont réalisées plus rapidement, en limitant les déplacements des agents sur la plate-forme, ce qui constitue un gain important en terme de sécurité. La plupart des sociétés d'autoroutes ont développé ce type de systèmes plus ou moins artisanaux pour faciliter les changements d'affectations de couloirs. Il n'a pas été observé de dangers particuliers relatifs à ces dispositifs, d'autant plus que les vitesses des véhicules sont très faibles à l'approche des gares de péage. Le ministre de l'équipement, des transports et du logement est donc tout à fait favorable à la mise en place de cet équipement en cas de besoin. Cependant, sur les nouveaux tronçons autoroutiers, la tendance actuelle est de concevoir des plates-formes de péages plus larges, avec un nombre de couloirs plus important, ce qui permet de supprimer les couloirs réversibles au centre des gares. Les deux sens de circulation sont dans ce cas totalement séparés physiquement. Il est donc probable qu'à terme ces dispositifs seront amenés à disparaître.
