@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890304088
+
+- Question : [SEQ890304088](seq890304088.md) — Détermination des valeurs locatives des marécages et des landes
+
+## Réponse
+
+*Économie, JO du 1989-09-28, page 1584*
+
+Réponse. - La valeur locative des propriétés non bâties résulte, pour chaque commune, de tarifs qui sont fixés par nature de culture ou de propriété. Cette valeur reflète le loyer annuel théorique que le propriétaire tirerait du fonds en l'affermant dans des conditions normales. S'agissant de bois, la valeur locative est déduite de leur produit réel, qui tient compte de la production calculée sur la période totale de révolution et des frais d'exploitation du peuplement. En outre, les terrains ensemencés, plantés ou replantés en bois bénéficient d'une exonération de taxe foncière de trente ans. Il ne paraît donc pas à priori anormal que le tarif à l'hectare d'une lande tourbeuse soit nettement inférieur à celui d'une peupleraie. En ce qui concerne l'impôt sur le revenu, le bénéfice agricole imposable à raison de la possession de bois est fixé, par l'article 76 du code général des impôts, à une somme égale au revenu cadastral ayant servi de base à la taxe foncière établie sur ces bois. Lorsque les boisements et reboisements de terrains bénéficient de l'exonération trentenaire en matière de taxe foncière, le bénéfice agricole est constitué soit, par le revenu cadastral servant de base à la taxe foncière établie antérieurement aux travaux de plantation ou de replantation soit, si elle lui est inférieure, par la moitié du revenu cadastral qui devait être retenu à la suite de l'exécution de ces travaux. Ce régime est applicable à compter de l'exécution des travaux pendant une période de dix ans pour les peupleraies. Ces dispositions vont dans le sens des préoccupations de l'honorable parlementaire.
