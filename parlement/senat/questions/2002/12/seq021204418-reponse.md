@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021204418
+
+- Question : [SEQ021204418](seq021204418.md) — Conditions dans lesquelles les huissiers de justice  exercent leur monopole d'exécution forcée des décisions judiciaires
+
+## Réponse
+
+*Justice, JO du 2003-01-16, page 201*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire qu'il partage son souci de voir renforcer l'exécution des décisions de justice en matière civile comme en matière pénale. Il incombe aux huissiers de justice, qui jouissent d'un monopole en cette matière en vertu de l'article 18 de la loi n° 91-650 du 9 juillet 1991 portant réforme des procédures civiles d'exécution, de recourir aux mesures d'exécution forcée sur le patrimoine des débiteurs pour le recouvrement des condamnations pécuniaires exécutoires. Le renforcement de l'efficacité de la justice civile requiert en effet une amélioration des conditions dans lesquelles ces huissiers de justice exercent leurs missions. En l'état du droit résultant des articles 39 et 40 de la loi précitée du 9 juillet 1991, et à l'exception du recouvrement des créances alimentaires, l'interrogation par l'huissier de justice des fichiers détenus par les administrations et les organismes soumis au secret professionnel n'est possible que par l'intermédiaire du procureur de la République. Le bilan des années d'application de ce dispositif a mis en lumière son caractère à la fois trop lent et trop peu efficace. Aussi, il est envisagé de modifier la loi pour permettre aux huissiers de justice d'accéder directement au fichier des comptes bancaires, détenu par l'administration des impôts, pour connaître les coordonnés bancaires du débiteur. Ce faisant, l'huissier de justice mandataire du créancier pourrait plus facilement identifier, puis saisir, le compte bancaire du débiteur.
