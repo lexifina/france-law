@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990214007
+
+- Question : [SEQ990214007](seq990214007.md) — Avenir des aides opératoires instrumentistes
+
+## Réponse
+
+*Santé, JO du 1999-03-18, page 901*
+
+Réponse. - Les fonctions qui peuvent être exercées par les professions médicales et paramédicales sont définies par le code de la santé publique, notamment dans son article L. 372, et les décrets de compétence qui régissent les différentes professions. C'est ainsi que le décret nº 93-345 du 15 mars 1993, relatif aux actes professionnels et à l'exercice de la profession d'infirmier, dispose en son article 6 que l'infirmier participe en présence d'un médecin " aux activités au sein d'un bloc opératoire, en tant que panseur, aide ou instrumentiste ". Il en résulte que des personnes non qualifiées ne peuvent exercer certaines fonctions de bloc opératoire. Il n'y a donc aucune règle nouvellement édictée mais il semble qu'il existe, dans certains cas, des pratiques ne se conformant pas pleinement à cette réglementation. C'est pourquoi le secrétaire d'Etat à la santé et à l'action sociale a demandé à ses services d'analyser la situation dans les cliniques privées, de rappeler cette réglementation dans l'intérêt des patients et de veiller à son application. Il est apparu, en effet, que dans certaines cliniques sont employés des aides opératoires non titulaires d'un diplôme d'infirmier et qui, dans certains cas, ne justifient d'aucun diplôme. Ses services s'attachent à trouver une solution pour ces aides opératoires qui, tout en garantissant le respect des règles de qualification et d'expérience professionnelle fixées pour exercer certaines fonctions auprès de chirurgiens, prenne en compte les compétences de ces personnels et ne remette pas en cause leur emploi. Le Conseil d'Etat a été saisi de ces questions par le secrétaire d'Etat à la santé et à l'action sociale.
