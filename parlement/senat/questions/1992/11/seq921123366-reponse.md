@@ -1,0 +1,9 @@
+# Réponse à la question SEQ921123366
+
+- Question : [SEQ921123366](seq921123366.md) — Procédure d'agrément des assistantes maternelles
+
+## Réponse
+
+*Famille et personnes âgées, JO du 1993-02-18, page 284*
+
+Réponse. - La loi n° 92-642 du 12 juillet 1992 relative aux assistantes et assistants maternels et modifiant le code de la famille et de l'aide sociale, le code de la santé publique et le code du travail instaure, en son article 2, une commission consultative paritaire départementale composée de représentants désignés du département et élus des assistantes et assistants maternels. Les conditions de fonctionnement de cette commission ont été précisées au titre II du décret n° 92-1051 du 29 septembre 1992. Cette commission a deux compétences : elle est consultée chaque année sur le programme de formation des assistantes et assistants maternels, ainsi que sur le bilan de fonctionnement de l'agrément ; elle est obligatoirement saisie pour avis sur trois types de décision exclusivement : le retrait d'un agrément d'assistante ou d'assistant maternel, le refus du renouvellement d'un agrément, la restriction du contenu d'un agrément. La mise en place de cette commission répond à la nécessité de prévenir tout risque de décision arbitraire en matière de retrait, de refus de renouvellement ou de restriction du contenu d'un agrément en instaurant un dialogue en amont, et devrait donc permettre d'éviter des recours contentieux. La commission n'a donc aucune compétence pour intervenir dans l'instruction d'une première demande d'agrément ou, hormis le cas où un refus serait envisagé, d'une demande de renouvellement, qui se déroulent conformément aux articles 1 à 12 du décret précité et pour lesquelles le président du conseil général qui dispose du pouvoir de décision, peut s'entourer des avis qu'il souhaite.
