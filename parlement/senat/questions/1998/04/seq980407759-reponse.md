@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980407759
+
+- Question : [SEQ980407759](seq980407759.md) — Cartes de crédits renouvelables
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 1998-07-02, page 2166*
+
+Réponse. - Conscient de l'importance des problèmes que pose le surendettement, qui concerne un nombre croissant de ménages, le Gouvernement a demandé, dès septembre 1997, au Conseil national de la communication de constituer un groupe de travail pour proposer des mesures destinées à améliorer la prévention, le traitement et le suivi des situations de surendettement, dans le souci de lutter contre l'exclusion sociale. Ce Conseil a adopté le 4 décembre 1997 un avis important relatif à l'amélioration du traitement des situations de surendettement, à partir duquel un texte a été élaboré, voté par les députés en première lecture, qui devrait être adopté définitivement par le Parlement, dans le cadre du projet de loi de lutte contre les exclusions. Le Conseil national de la communication continue ses travaux, dans le cadre d'un nouveau mandat donné par le Gouvernement, qui a orienté très précisément sa réflexion sur la prévention du surendettement. Le groupe de travail doit achever ses travaux et présenter des propositions sur les moyens de prévenir le surendettement, le 15 septembre 1998. Les effets particulièrement déstabilisants du crédit permanent sur le budget des ménages financièrement fragilisés ne manqueront pas d'y être abordés. Sur la question de la conversion du compte permanent en crédit amortissable, il convient de préciser que le code de la consommation en fait dans certaines conditions une obligation. Selon l'article L. 311-9, le débiteur qui ne souhaite plus bénéficier de l'ouverture de crédit doit obtenir la possibilité d'amortir de façon fractionnée le solde du compte permanent.
