@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871108432
+
+- Question : [SEQ871108432](seq871108432.md) — Accession à la propriété des receveurs des P et T
+
+## Réponse
+
+*Postes et télécommunications, JO du 1987-12-17, page 1984*
+
+Réponse. -En l'état actuel de la réglementation (décrets n° 77-1250 du 10 novembre 1977 et n° 83-594 du 5 juillet 1983), les fonctionnaires logés par nécessité de service peuvent solliciter un prêt aidé par l'Etat (prêt P.A.P. ou prêt conventionné) huit ans avant la fin de leur carrière dans le cas d'une opération de construction (deux ans entre la décision d'octroi du prêt et la déclaration d'achèvement des travaux plus six ans entre cette déclaration et l'occupation effective au titre de la résidence principale). Pour l'acquisition d'un logement neuf achevé, ce délai est de six ans. Par ailleurs, l'extension du régime de l'épargne-logement aux résidences non principales permet désormais aux chefs d'établissement bénéficiant d'un logement de fonction d'accéder à la propriété dans des conditions intéressantes. En effet, la loi n° 85-536 du 21 mai 1985 et les décrets n°s 85-638 et 85-647 du 28 juin 1985 prévoient que les titulaires de livrets ou de plans d'épar gne-logement peuvent financer, à l'aide de prêts d'épargne-logement et selon les mêmes conditions que pour une résidence principale, la construction d'un logement, l'acquisition d'un logement neuf n'ayant jamais fait l'objet d'une occupation ou d'une mutation, ainsi que les travaux d'extension ou de rénovation d'un logement déjà acquis. Les problèmes d'accession à la propriété des personnels logés par nécessité de service ne sont pas spécifiques à l'administration des postes et télécommunications et la législation en la matière est du ressort du ministère de l'équipement, du logement, de l'aménagement du territoire et des transports. Il s'ensuit que seul ce ministère a vocation à préconiser d'éventuelles recommandations aux établissements financiers et bancaires.
