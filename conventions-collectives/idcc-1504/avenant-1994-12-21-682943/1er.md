@@ -1,5 +1,3 @@
-# Article 1
+# Article 1er
 
-Pour la collecte des contributions définies à l'article 2 ci-après, compétence exclusive est donnée à l'organisme paritaire collecteur agréé de l'alimentation en détail (O.P.C.A.D.), sous réserve de son agrément par arrêté du ministre chargé de la formation professionnelle, en application du décret n° 94-936 du 28 octobre 1994.
-
-L'O.P.C.A.D. sera l'organisme collecteur paritaire pour les collectes des contributions dues à compter du 1er janvier 1996.
+Pour la collecte des contributions définies à l'article 2 ci-après, compétence exclusive est donnée à l'organisme paritaire collecteur agréé de l'alimentation de détail, l'OPCAD, section DISTRIFAF, devenu l'organisme collecteur paritaire désigné par la profession depuis la collecte des contributions dues à partir du 1er janvier 1996.
