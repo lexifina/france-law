@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980608965
+
+- Question : [SEQ980608965](seq980608965.md) — Participation des nouveaux conducteurs à un " rendez-vous d'évaluation "
+
+## Réponse
+
+*Équipement, JO du 1999-05-27, page 1782*
+
+Réponse. - En juillet 1998, la direction de la sécurité et de la circulation routières a engagé les préfectures à expérimenter des rendez-vous d'évaluation destinés aux conducteurs novices et des rendez-vous de perfectionnement pour les conducteurs expérimentés, comme suite à la décision du comité interministériel de la sécurité routière (CISR) du 26 novembre 1997. Une trentaine de départements se sont portés volontaires pour expérimenter ces stages de formation post-permis. Ce nombre, qui ne comprend pas le département du Rhône, n'est pas limitatif et d'autres départements peuvent encore faire acte de candidature. Un cahier des charges servant de référentiel pour ces rendez-vous a été réalisé en concertation étroite entre l'administration et les organisations professionnelles, précisant le contenu et l'organisation des rendez-vous ainsi que la formation spécifique des formateurs chargés de les animer. La labellisation des organismes assurant ces formations post-permis sera fondée sur le respect de ce cahier des charges. La direction de la sécurité et de la circulation routières et les préfets concernés procèdent actuellement à la mobilisation de tous les partenaires nationaux et locaux susceptibles de s'engager dans ces actions de formation (organisations professionnelles, associations de formateurs, assureurs, entreprises, collectivités locales). En particulier les assureurs ont accepté d'aider au developpement de ces stages. Un protocole avec l'Etat sera passé prochainement pour concrétiser cet engagement.
