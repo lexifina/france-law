@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951213146
+
+- Question : [SEQ951213146](seq951213146.md) — Situation de l'Institut du monde arabe
+
+## Réponse
+
+*Économie, JO du 1996-07-18, page 1833*
+
+Réponse. - L'Institut du monde arabe (IMA), fondation de droit français créée à Paris le 28 février 1980 entre l'Etat français et 19 Etats arabes (21 actuellement), connaît des difficultés financières récurrentes. Le financement de l'IMA devait être assuré à 60 p. 100 par la France et à 40 p. 100 par des contributions des Etats arabes. Celles-ci n'ont généralement pas dépassé 10 p. 100 du montant attendu. De ce fait, les comptes de l'IMA ont, depuis son ouverture au public en 1988, souffert d'un besoin de financement chronique. L'IMA a pris certaines mesures de rationalisation pour faire face à cette situation, en matière d'effectifs, de prestations de services et de développement des concours financiers externes, sans toutefois rééquilibrer les comptes de l'établissement. De même, une réflexion sur la réforme des statuts de l'institut a été engagée, en particulier avec la mise en place d'un système de pénalités touchant les Etats ayant un retard de versement de leur contribution. Ce projet n'a pu cependant aboutir. Cette situation a conduit le Gouvernement à engager un audit approfondi de la situation de l'institut avec une mission conjointe de l'Inspection générale des finances et de l'inspection générale des affaires étrangères. De même, l'IMA est soumis à un contrôle financier depuis la signature le 28 mars 1996 d'un arrêté conjoint par le ministre du budget, porte-parole du Gouvernement, et le ministre des affaires étrangères. Le nouveau président de l'IMA aura à tirer les conclusions de cette remise à plat de la situation de l'établissement et à faire aboutir, en partenariat avec les Etats arabes impliqués, les réformes nécessaires à un fonctionnement plus équilibré de l'établissement.
