@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031109959
+
+- Question : [SEQ031109959](seq031109959.md) — Rénovation du statut des fonds régionaux d'art contemporain (FRAC)
+
+## Réponse
+
+*Culture, JO du 2004-01-22, page 167*
+
+Il convient de répondre à l'honorable parlementaire que la grande majorité des fonds régionaux d'art contemporain sont actuellement sous forme associative, sauf deux qui sont en régie régionale et en syndicat mixte. En ce qui concerne la rénovation de leur statut, les perspectives actuelles ne vont pas au-delà des réflexions autour des possibilités offertes par le statut EPCC. De ce fait, à la demande des collectivités territoriales, l'Etat accompagnera et soutiendra la création d'établissements publics de coopération culturelle (EPCC) pour les fonds régionaux d'art contemporain, dans la mesure où une taille critique suffisante sera établie. La question d'une prise de responsabilité plus grande des Régions dans les fonds régionaux d'art contemporain est ouverte à celles qui souhaiteraient s'impliquer davantage. Elle ne concernerait que le transfert aux régions des moyens financiers accordés par l'Etat à la structure, pendant la période de l'expérimentation, dans la mesure où il ne s'agirait pas de transfert de compétences, ces structures ne relevant en aucune manière de la tutelle de l'Etat, mais bien d'un partenariat équilibré et associatif. Par ailleurs, les collections des fonds régionaux d'art contemporain, qui rassemblent près de 17 000 oeuvres, sont actuellement dans deux cas de figure soit elles sont d'ores et déjà la propriété de la Région, soit elles sont propriété de l'association, mais font l'objet de règles statutaires particulières sur leur propriété, prévoyant leur dévolution à la région en cas de dissolution de l'association. Il est certain que le statut d'EPCC permettrait, notamment, de donner aux collections des fonds régionaux d'art contemporain un statut public.
