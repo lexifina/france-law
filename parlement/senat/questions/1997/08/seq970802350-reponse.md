@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970802350
+
+- Question : [SEQ970802350](seq970802350.md) — Restauration des monuments historiques
+
+## Réponse
+
+*Budget, JO du 1997-10-09, page 2711*
+
+Réponse. - L'ajustement des crédits effectué en 1997 n'aura pas les conséquences défavorables indiquées, en raison de l'importance des crédits engagés par l'Etat dans ce domaine, notamment au regard du plan de charge des entreprises concernées. En effet, l'effort consacré par l'Etat à la restauration des monuments historiques a, en dépit d'un contexte budgétaire très difficile, revêtu une importance toute particulière depuis plusieurs années : sur les 7 849 millions de francs qui devaient être engagés dans le cadre de la loi de programme relative au patrimoine monumental votée le 31 décembre 1993, il a atteint 4 715,5 millions de francs pour les trois premières années d'application de la loi, soit plus de 1,5 milliard de francs par an en moyenne. Force est de constater que le niveau des crédits non employés atteint chaque année 400 millions de francs. Dans ces conditions, l'évolution récente des dotations budgétaires n'aura pas d'incidence défavorable sur le volume des opérations. L'ajustement réalisé en loi de finances 1997 permettra de réduire le niveau des crédits non utilisés et d'obtenir une meilleure adéquation entre les rythmes de mise à disposition des crédits et de réalisation des travaux. Plus généralement, il convient de souligner que les opérateurs économiques concernés qui sont, pour l'essentiel des petites et moyennes entreprises très spécialisées, ne peuvent pas conduire simultanément à un plus grand nombre de chantiers, d'où les délais de réalisation des opérations qui ont été constatés. Toutefois, le Gouvernement partage le souci que l'effort consenti par l'Etat en faveur de la restauration du patrimoine monumental soit une priorité.
