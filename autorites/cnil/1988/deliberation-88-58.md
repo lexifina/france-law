@@ -1,0 +1,15 @@
+# Délibération portant avis sur le traitement automatisé d'une enquête visant à analyser les acquis scolaires des mineurs et des jeunes majeurs protégés mis en oeuvre par le ministère de la Justice
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 88-58
+- Date : 1988-06-07
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017654185
+
+La Commission Nationale de l'Informatique et des Libertés, Vu la Convention du Conseil de l'Europe du 28 janvier 1981, pour la protection de personnes à l'égard du traitement automatisé des données à caractère personnel ; Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés ; Vu le décret n° 78-774 du 17 juillet 1978 pris pour l'application des chapitres Ier à IV et VII de la loi du 6 janvier 1978 ; Vu le projet d'arrêté du Garde des Sceaux, Ministre de la Justice ; Après avoir entendu Monsieur Michel MONEGIER du SORBIER en son rapport et Madame Charlotte-Marie PITRAT, Commissaire du Gouvernement, en ses observations ;
+
+Considérant que le traitement automatisé d'informations nominatives mis en oeuvre par la Direction de l'Education surveillée du Ministère de la Justice a pour objet d'analyser les acquis scolaires des mineurs et des jeunes majeurs protégés dont la scolarité est assurée dans des établissements de l'Education surveillée. Considérant que les informations collectées par voie de questionnaires sont relatives à l'identification de l'élève (numéro d'identification de l'élève, sexe, date de naissance, lieu de naissance, la situation des parents (situation du couple, catégorie professionnelle, secteur d'activité), la situation du jeune (lieu d'accueil du jeune, classes fréquentées lors des trois dernières années, inscription à un examen en 1988, projet d'examen, rééducation de type orthophonique ou psychomotrice, nécessité d'une telle rééducation) ; Considérant que les données sont adéquates, pertinentes et non excessives au regard de la finalité du traitement ; Considérant que les informations codées ne font pas l'objet d'une exploitation nominative et que la grille d'identification des élèves, est détruite sitôt effectuée la saisie des questionnaires ; qu'en conséquence il n'est pas possible de déterminer le profil des intéressés ; Considérant que les informations codées et leur analyse sont communiquées à la direction de l'évaluation et de la prospective du Ministère de l'Education Nationale, au groupe permanent de lutte contre l'illétrisme (G.P.L.I.) à la direction et aux services extérieurs de l'Education Surveillée et du centre de recherche interdiscipline de Vaucresson ; Considérant que l'information préalable des intéressés est assurée ainsi que l'exercice d'un droit d'accès par le représentant légal du mineur ou le jeune majeur protégé, jusqu'à la saisie des informations, auprès du directeur de chaque établissement où se déroule l'enquête ;
+
+Emet un avis favorable au projet d'arrêté qui lui a été présenté. Le Président, Jacques FAUVET
