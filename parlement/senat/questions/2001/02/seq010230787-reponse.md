@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010230787
+
+- Question : [SEQ010230787](seq010230787.md) — Conditions de recrutement des gendarmes adjoints
+
+## Réponse
+
+*Défense, JO du 2001-03-22, page 1007*
+
+Réponse. - La professionnalisation des armées, conduite conformément aux dispositions de la loi nº 96-589 du 2 juillet 1996 relative à la programmation militaire pour les années 1997-2002, prévoit le remplacement des 12 000 gendarmes auxiliaires par 16 232 gendarmes adjoints volontaires. A l'instar des sous-officiers de gendarmerie, le recrutement de ces volontaires n'impose aucune condition de diplôme. En effet, les épreuves de sélection organisées pour chaque type de recrutement permettent de garantir la qualité de la ressource sélectionnée. Concernant les gendarmes adjoints, les candidats sont soumis à un test de personnalité, à une épreuve de connaissances générales et de la langue française, à une épreuve physique ainsi qu'à une visite médicale destinée à établir l'aptitude à un emploi opérationnel. Au 1er février 2001, la gendarmerie nationale compte 9 388 gendarmes adjoints dont la moitié est titulaire du baccalauréat. S'agissant d'un constat et non du résultat d'une sélection volontaire en fonction du niveau d'études, il s'avère que la population des bacheliers et des étudiants qui arrêtent leurs études en première ou deuxième année de formation dans l'enseignement supérieur apparaît comme un cible utile que la gendarmerie recherche à recruter pour un emploi de gendarme adjoint. Enfin, près de 80 % des gendarmes adjoints en activité se déclarent motivés par une carrière de sous-officier de gendarmerie et les actions de formation mises en place à leur profit dans les unités à l'échelon du département représentent un facteur d'attractivité pour ce statut. L'objectif poursuivi par la gendarmerie vise à recruter à moyen terme la moitié des futurs sous-officiers parmi le corps des gendarmes adjoints.
