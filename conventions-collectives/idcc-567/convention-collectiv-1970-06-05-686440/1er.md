@@ -32,7 +32,7 @@ La fabrication de bijouterie, orfèvrerie, lapidairerie fantaisie, gravure :
 
 La taille de pierres :
 
-- taille de diamants (autres que les diamants à usage industriel), taille et montage de pierres précieuses pour la bijouterie (sauf pour le département du Jura) ;
+- taille de diamants (autres que les diamants à usage industriel), - taille et montage de pierres précieuses pour la bijouterie,
 
 - taille de pierres fines, lapidairerie et travail de la perle ;
 
@@ -130,12 +130,4 @@ c) Il est précisé que les barèmes de salaires et appointements minima, annex�
 
 Pour bénéficier des avantages visés aux alinéas ci-dessus, les travailleurs à domicile doivent être immatriculés à la sécurité sociale.
 
-Les entreprises dont le numéro de code A.P.E. est 64-45 (commerce de détail de l'horlogerie-bijouterie) et qui appliquent à ce jour la convention collective nationale de la bijouterie, joaillerie, orfèvrerie du 5 juin 1970 modifié (Etendue le 22 septembre 1973, Journal officiel du 22 novembre 1973), continueront à appliquer cette convention collective à l'exclusion de toute autre, sauf dénonciation expresse de leur part à compter de la signature du présent avenant (accord du 3 juin 1988).
-
-*Conformément à la clause prévue par l'article 1er de la convention collective du commerce de détail de l'horlogerie-bijouterie, et après la date d'extension de cette convention, la convention collective nationale de la bijouterie, joaillerie, orfèvrerie du 5 juin 1970 modifiée demeure applicable aux entreprises du commerce de détail (code A.P.E. 64-45) qui l'appliquent à la date d'extension susvisée, sont adhérentes aux syndicats affiliés à la fédération bijouterie, joaillerie, orfèvrerie, cadeau et non adhérentes à l'une des organisations syndicales signataires de la convention collective du commerce de détail de l'horlogerie-bijouterie* (1).
-
-(1) Alinéa exclu de l'extension par arrêté du 21 février 1989.
-
-NOTA :
-
-(1) Alinéa exclu de l'extension par arrêté du 21 février 1989.
+Conformément à la clause prévue par l'article 1er de la convention collective du commerce de détail de l'horlogerie-bijouterie, et après la date d'extension de cette convention, la convention collective nationale de la bijouterie, joaillerie, orfèvrerie du 5 juin 1970 modifiée demeure applicable aux entreprises du commerce de détail (code A.P.E. 64-45) qui l'appliquent à la date d'extension susvisée, sont adhérentes aux syndicats affiliés à la fédération bijouterie, joaillerie, orfèvrerie, cadeau et non adhérentes à l'une des organisations syndicales signataires de la convention collective du commerce de détail de l'horlogerie-bijouterie.
