@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990213963
+
+- Question : [SEQ990213963](seq990213963.md) — Annuaire universel
+
+## Réponse
+
+*Économie, JO du 1999-04-22, page 1327*
+
+Réponse. - L'article L. 35-4 de la loi de réglementation des télécommunications prévoit qu'un organisme indépendant des opérateurs établit et gère la liste des abonnés nécessaire à l'élaboration d'un annuaire universel. France Télécom a l'obligation d'éditer un annuaire universel sous forme imprimée et électronique. L'annuaire universel rassemble donc tous les abonnés au téléphone à l'exception de ceux qui demandent à ne pas figurer dans un annuaire (liste rouge). Un décret en Conseil d'Etat doit préciser la procédure de désignation et les missions de cet organisme. Un premier projet de décret a fait l'objet de nombreuses observations de la part de la Commission supérieure du service public des postes et télécommunications, de l'Autorité de régulation des télécommunications et du Conseil d'Etat. L'équilibre économique de cet organisme est notamment examiné. A cet égard, la directive ONP 98/10/CE concernant l'application de la fourniture d'un réseau ouvert à la téléphonie vocale et l'établissement d'un service universel des télécommunications dans un environnement concurrentiel ne permet pas de réserver l'établissement de la liste universelle des abonnés au téléphone à un organisme. Il est en effet prévu que les opérateurs cèdent leur liste d'abonnés à un tarif orienté vers les coûts à toute personne qui en fait la demande, aux fins d'éditions d'annuaires universels. L'organisme risque donc de se trouver en concurrence sans toutefois bénéficier de recettes d'édition d'annuaire. Dans ce contexte, les services du secrétariat d'Etat à l'industrie sont chargés de réexaminer l'ensemble du dossier et de faire des propositions qui seront prochainement soumises aux instances compétentes.
