@@ -42,13 +42,13 @@
 
 :-----------------------------: |
 
-: Francfort : 1005,95 : |
+: Francfort : 1172,71 : |
 
-: Londres : 701,95 : |
+: Londres : 812,42 : |
 
-: Paris : 917,00 : |
+: Paris : 1063,18 : |
 
-: Prestwick : 367,51 : |
+: Prestwick : 425,48 : |
 
 :-----------------------------: |
 
@@ -82,143 +82,157 @@
 
 :-------------------:---------: |
 
-: Amsterdam : 677,89 : |
+: Abidjan : 182,98 : |
 
-: Athènes : 941,44 : |
+: Amman : 1494,11 : |
 
-: Bâle-Mulhouse : 689,18 : |
+: Amsterdam : 791,88 : |
 
-: Belfast : 167,32 : |
+: Athènes : 1133,84 : |
 
-: Belgrade : 1023,24 : |
+: Bâle-Mulhouse : 864,61 : |
 
-: Berlin-Schoenefeld: 667,06 : |
+: Barcelone : 770,91 : |
 
-: Berlin-Tegel : 643,00 : |
+: Belfast : 187,05 : |
 
-: Birmingham : 401,75 : |
+: Belgrade : 1263,51 : |
 
-: Bordeaux : 374,18 : |
+: Berlin : 984,63 : |
 
-: Bruxelles : 678,86 : |
+: Birmingham : 454,39 : |
 
-: Cardiff : 286,72 : |
+: Bordeaux : 465,20 : |
 
-: Casablanca : 327,19 : |
+: Bruxelles : 793,21 : |
 
-: Dakar : 140,89 : |
+: Budapest : 1391,41 : |
 
-: Dublin : 137,16 : |
+: Le Caire : 1022,41 : |
 
-: Dubrovnik : 972,90 : |
+: Cardiff : 338,17 : |
 
-: Düsseldorf : 760,43 : |
+: Casablanca : 411,24 : |
 
-: Francfort : 820,50 : |
+: Dakar : 186,23 : |
 
-: Genève : 653,15 : |
+: Dublin : 138,58 : |
 
-: Glasgow : 240,54 : |
+: Dubrovnik : 1207,82 : |
 
-: Hambourg : 629,10 : |
+: Düsseldorf : 890,69 : |
 
-: Helsinki : 391,15 : |
+: Francfort : 930,61 : |
 
-: Jeddah : 967,03 : |
+: Genève : 835,52 : |
 
-: Copenhague : 651,71 : |
+: Glasgow : 276,23 : |
 
-: Cologne-Bonn : 756,08 : |
+: Hambourg : 607,23 : |
 
-: Lagos : 134,80 : |
+: Helsinki : 466,12 : |
 
-: Lamezia-Terme : 723,41 : |
+: Jeddah : 1081,97 : |
+
+: Copenhague : 698,50 : |
+
+: Cologne-Bonn : 901,49 : |
+
+: Lagos : 178,18 : |
+
+: Lamezia-Terme : 884,65 : |
 
 : Las Palmas, : : |
 
-: Gran Canarias : 422,25 : |
+: Gran Canarias : 533,37 : |
 
-: Lisbonne : 370,44 : |
+: Lille : 654,59 : |
 
-: Ljubljana : 998,61 : |
+: Lisbonne : 457,22 : |
 
-: Londres : 459,09 : |
+: Ljubljana : 1163,02 : |
 
-: Luxembourg : 732,87 : |
+: Londres : 540,23 : |
 
-: Lyon : 607,64 : |
+: Luxembourg : 859,61 : |
 
-: Maastricht : 705,28 : |
+: Lyon : 754,67 : |
 
-: Madrid : 484,69 : |
+: Maastricht : 810,69 : |
 
-: Malaga : 571,90 : |
+: Madrid : 582,38 : |
 
-: Manchester : 365,81 : |
+: Malaga : 693,46 : |
 
-: Manston : 531,28 : |
+: Manchester : 412,00 : |
 
-: Milan : 717,02 : |
+: Milan : 976,02 : |
 
-: Monrovia : 134,16 : |
+: Monrovia : 177,33 : |
 
-: Moscou : 499,93 : |
+: Moscou : 500,55 : |
 
-: Munich : 898,10 : |
+: Munich : 1107,80 : |
 
-: Naples-Capodichino: 754,77 : |
+: Nantes : 401,45 : |
 
-: Newcastle : 380,31 : |
+: Naples-Capodichino: 911,78 : |
 
-: Nice : 916,65 : |
+: Newcastle : 478,92 : |
 
-: Ostende : 605,03 : |
+: Nice : 1093,94 : |
 
-: Oslo : 405,48 : |
+: Ostende : 697,39 : |
 
-: Paris : 540,38 : |
+: Oslo : 481,05 : |
 
-: Pise : 715,70 : |
+: Paris : 676,83 : |
+
+: Pise : 838,93 : |
 
 : Ponta Delgada, : : |
 
-: Açores : 139,18 : |
+: Açores : 183,97 : |
 
-: Porto : 269,07 : |
+: Porto : 328,47 : |
 
-: Prague : 799,12 : |
+: Prague : 996,91 : |
 
-: Prestwick : 240,54 : |
+: Prestwick : 276,23 : |
 
-: Rome : 798,49 : |
+: Riyadh : 1418,53 : |
 
-: Sal I., Cabo Verde: 156,61 : |
+: Rome : 989,87 : |
 
-: Santa Maria, Açores 148,91 : |
+: Sal I., Cabo Verde: 207,00 : |
 
-: Santiago, Espagne : 229,07 : |
+: Santa Maria, Açores 196,83 : |
 
-: Shannon : 99,18 : |
+: Santiago, Espagne : 276,88 : |
 
-: Stockholm : 414,08 : |
+: Shannon : 96,22 : |
 
-: Stuttgart : 764,92 : |
+: Stockholm : 491,46 : |
 
-: Tel-Aviv : 1119,52 : |
+: Stuttgart : 956,87 : |
 
-: Tenerife : 389,11 : |
+: Tel-Aviv : 1401,09 : |
 
-: Turin : 831,14 : |
+: Tenerife : 492,70 : |
 
-: Venise : 899,19 : |
+: Turin : 979,26 : |
 
-: Varsovie : 633,45 : |
+: Toulouse-lagnac : 637,76 : |
 
-: Vienne : 1093,63 : |
+: Venise : 1104,23 : |
 
-: Zagreb : 1023,24 : |
+: Varsovie : 704,17 : |
 
-: Zurich : 774,39 : |
+: Vienne : 1276,19 : |
+
+: Zagreb : 1263,51 : |
+
+: Zurich : 996,87 : |
 
 :---------------------------- : |
 
@@ -248,29 +262,33 @@
 
 :-----------------------------: |
 
-: Amsterdam : 775,72 : |
+: Amsterdam : 898,63 : |
 
-: Düsseldorf : 830,63 : |
+: Düsseldorf : 964,95 : |
 
-: Francfort : 835,39 : |
+: Francfort : 975,87 : |
 
-: Londres : 661,40 : |
+: Genève : 1198,28 : |
 
-: Luxembourg : 903,20 : |
+: Copenhague : 741,48 : |
 
-: Madrid : 390,51 : |
+: Londres : 762,20 : |
 
-: Manchester : 522,00 : |
+: Luxembourg : 1063,19 : |
 
-: Milan : 1033,73 : |
+: Madrid : 460,08 : |
 
-: Paris : 750,15 : |
+: Manchester : 603,32 : |
 
-: Prestwick : 328,11 : |
+: Milan : 959,43 : |
 
-: Shannon : 94,48 : |
+: Paris : 868,30 : |
 
-: Zurich : 1075,59 : |
+: Prestwick : 379,87 : |
+
+: Shannon : 91,66 : |
+
+: Zurich : 1257,78 : |
 
 :-----------------------------: |
 
@@ -304,47 +322,53 @@
 
 :-----------------------------: |
 
-: Amsterdam : 661,88 : |
+: Amsterdam : 775,43 : |
 
-: Berlin-Schonefeld : 737,42 : |
+: Berlin-Schonefeld : 784,13 : |
 
-: Bruxelles : 596,17 : |
+: Bruxelles : 769,13 : |
 
-: Düsseldorf : 747,71 : |
+: Düsseldorf : 919,50 : |
 
-: Francfort : 764,08 : |
+: Francfort : 936,10 : |
 
-: Hambourg : 794,57 : |
+: Hambourg : 961,13 : |
 
-: Helsinki : 424,11 : |
+: Helsinki : 468,61 : |
 
-: Copenhague : 660,47 : |
+: Copenhague : 754,02 : |
 
-: Cologne-Bonn : 690,89 : |
+: Cologne-Bonn : 876,42 : |
 
-: Londres : 451,28 : |
+: Londres : 590,08 : |
 
-: Madrid : 603,33 : |
+: Madrid : 738,45 : |
 
-: Oslo : 434,14 : |
+: Manchester : 402,45 : |
 
-: Paris : 466,66 : |
+: Milan : 849,19 : |
 
-: Prague : 831,45 : |
+: Oslo : 474,42 : |
 
-: Sal I., Cabo Verde: 87,55 : |
+: Paris : 625,73 : |
 
-: Shannon : 142,23 : |
+: Prague : 1041,69 : |
 
-: Stockholm : 474,22 : |
+: Sal I., Cabo Verde: 115,72 : |
 
-: Vienne : 997,05 : |
+: Santa Maria : : |
 
-: Zurich : 707,38 : |
+: Açores : 197,96 : |
+
+: Shannon : 195,82 : |
+
+: Stockholm : 524,50 : |
+
+: Vienne : 1195,06 : |
+
+: Zurich : 861,36 : |
 
 :-----------------------------: |
-
-|
 
 :-----------------------------: |
 
@@ -372,47 +396,55 @@
 
 :-----------------------------: |
 
-: Amsterdam : 829,10 : |
+: Amsterdam : 1091,41 : |
 
-: Bordeaux : 685,29 : |
+: Bâle-Mulhouse : 1129,43 : |
 
-: Francfort : 845,48 : |
+: Bordeaux : 886,62 : |
+
+: Düsseldorf : 1006,54 : |
+
+: Francfort : 1084,08 : |
 
 : Las Palmas, : : |
 
-: Gran Canaria : 517,07 : |
+: Gran Canaria : 639,79 : |
 
-: Londres : 633,13 : |
+: Londres : 777,50 : |
 
-: Lisbonne : 501,41 : |
+: Lisbonne : 626,91 : |
 
-: Lyon : 881,94 : |
+: Lyon : 1074,24 : |
 
-: Madrid : 663,56 : |
+: Madrid : 807,55 : |
 
-: Manchester : 533,23 : |
+: Manchester : 626,08 : |
 
-: Marseille : 996,13 : |
+: Marseille : 1198,47 : |
 
-: Milan : 976,10 : |
+: Milan : 1189,05 : |
 
-: Paris : 698,22 : |
+: Nantes : 741,07 : |
 
-: Porto : 487,51 : |
+: Paris : 853,40 : |
 
-: Porto Santo, Madère 304,84 : |
+: Porto : 609,64 : |
 
-: Santa Maria, Açores 195,95 : |
+: Porto Santo, Madère 392,84 : |
 
-: Santiago, Espagne : 488,13 : |
+: Rome : 1319,95 : |
 
-: Shannon : 242,41 : |
+: Santa Maria, Açores 259,00 : |
 
-: Tenerife : 512,94 : |
+: Santiago, Espagne : 610,74 : |
 
-: Toulouse-Blagnac : 837,26 : |
+: Shannon : 315,60 : |
 
-: Zurich : 986,53 : |
+: Tenerife : 634,84 : |
+
+: Toulouse-Blagnac : 1050,17 : |
+
+: Zurich : 1177,39 : |
 
 :-----------------------------: |
 

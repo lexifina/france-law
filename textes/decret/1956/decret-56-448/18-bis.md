@@ -1,8 +1,8 @@
 # Article 18 bis
 
-Les fonctionnaires appartenant à un corps de catégorie B et titulaires de grades dotés des échelles indiciaires afférentes au premier et au deuxième grades de la carrière type des corps de la catégorie B tels qu'ils sont définis par le décret n° 73-910 du 20 septembre 1973 peuvent être détachés dans le corps des dessinateurs projeteurs s'ils possèdent la qualification professionnelle nécessaire.
+Peuvent seuls être détachés dans l'un des corps de dessinateur-projeteur les fonctionnaires appartenant à un corps de catégorie B ou de niveau équivalent.
 
-Le détachement est prononcé à équivalence de grade et d'échelon avec maintien de l'ancienneté d'échelon.
+Le détachement est prononcé à équivalence de grade et à l'échelon qui comporte un indice égal ou, à défaut, immédiatement supérieur à celui dont les intéressés bénéficiaient dans leur grade d'origine. Ils conservent, dans la limite de la durée moyenne de services exigée pour l'accès à l'échelon immédiatement supérieur de leur nouveau grade, l'ancienneté d'échelon qu'ils avaient acquise dans leur grade d'origine lorsque l'augmentation de traitement consécutive à leur détachement est inférieure à celle qui aurait résulté d'un avancement d'échelon dans leur corps d'origine. S'ils ont atteint l'échelon le plus élevé de leur grade dans leur corps d'origine, ils conservent leur ancienneté d'échelon dans les mêmes conditions et dans les mêmes limites, lorsque l'augmentation de traitement consécutive à leur détachement est inférieure à celle que procure la nomination audit échelon.
 
 Les fonctionnaires placés en position de détachement concourent pour les avancements de grade et d'échelon avec les membres du corps des dessinateurs projeteurs.
 

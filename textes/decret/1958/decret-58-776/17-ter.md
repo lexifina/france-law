@@ -5,3 +5,7 @@ Les fonctionnaires titulaires de l'un des grades mentionnés dans la première c
 Vous pouvez consulter le tableau dans le fac-similé du JO du 10/09/1978 à l'adresse suivante :
 
 https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000000518839&pageCourante=03243
+
+Vous pouvez consulter le tableau dans le JO n° 0017 du 19/01/1991 à l'adresse suivante :
+
+https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000000160446&pageCourante=01006

@@ -136,4 +136,4 @@ Ancienneté maintenue.
 
 |
 
-Les fonctionnaires placés en position de détachement concourent pour les avancements d'échelon dans le corps des personnels administratifs supérieurs des services extérieurs des postes et télécommunications avec l'ensemble des fonctionnaires relevant de ce corps.
+Les fonctionnaires placés en position de détachement concourent pour les avancements d'échelon dans les corps des personnels administratifs supérieurs de La Poste ou de France Télécom avec l'ensemble des fonctionnaires relevant de ces corps.
