@@ -20,6 +20,8 @@ Produit obtenu, à partir de jus de fruits, par élimination physique d'une part
 
 Produit, non fermenté mais fermentescible, obtenu par addition d'eau et de sucres au jus de fruit, au jus de fruit concentré, à la purée de fruit, à la purée de fruit concentrée ou à un mélange de ces produits et qui est en outre conforme au tableau complétant la présente annexe.
 
+Toutefois, pour certains fruits dont le jus a une forte teneur naturelle en sucre, dont la liste est établie par arrêté interministériel, le nectar peut être fabriqué sans addition de sucres.
+
 4° Jus de fruit déshydraté.
 
 Produit obtenu à partir de jus de fruits par élimination physique de la quasi-totalité de l'eau de constitution.
