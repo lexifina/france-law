@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990616988
+
+- Question : [SEQ990616988](seq990616988.md) — Avenir des petits collèges ruraux
+
+## Réponse
+
+*Enseignement scolaire, JO du 1999-09-09, page 3013*
+
+Réponse. - Différentes mesures sont prévues par la circulaire nº 98-252 du 17 décembre 1998 en faveur du système éducatif en zone rurale isolée. Elles visent à assurer un service public d'enseignement de qualité, qui offre une égalité des chances aux élèves des petites communes et à consolider des structures scolaires durables qui, grâce à la mise en réseaux des établissements scolaires, jouent un rôle important pour l'aménagement du territoire. Etablis en partenariat avec les collectivités locales, les réseaux d'écoles rurales devraient permettre, par une offre éducative scolaire et péri-scolaire de qualité, de freiner le mouvement des élèves vers les chefs-lieux de canton. Il est prévu d'améliorer les liaisons école-collège en zone rurale isolée et de développer l'aide et le soutien scolaire : les contrats éducatifs locaux - qui se mettent actuellement en place - ont pour objet de développer toutes les possibilités de synergie en vue d'offrir aux élèves des zones rurales isolées une égalité d'accès à la culture et aux activités péri-éducatives. Il est aussi demandé aux inspecteurs d'académie de mettre en place, en liaison étroite avec les conseils généraux et les préfets, un groupe de travail visant à établir un schéma départemental des petits collèges afin de préparer leur mise en réseau. La ministre souhaite préserver la qualité du système scolaire en milieu rural isolé et s'inscrire dans une action plus globale de maintien des activités et des services. Toutefois, il appartient au recteur d'apprécier l'opportunité de maintenir tel ou tel collège au vu des effectifs d'élèves et du contexte local.
