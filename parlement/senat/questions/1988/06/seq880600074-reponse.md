@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880600074
+
+- Question : [SEQ880600074](seq880600074.md) — Inscription des bacheliers en provenance de l'étranger dans les universités françaises
+
+## Réponse
+
+*Éducation, JO du 1988-11-24, page 1328*
+
+Réponse. - L'article 14 de la loi du 26 janvier 1984 sur l'enseignement supérieur prévoit que " le premier cycle est ouvert à tous les titulaires du baccalauréat " et que " tout candidat est libre de s'inscrire dans l'établissement de son choix ". Le ministère de l'éducation nationale, de la jeunesse et des sports rappelle annuellement ce principe, par circulaire, pour l'inscription des étudiants en première année de premier cycle universitaire. Les jeunes Français ayant obtenu leur baccalauréat à l'étranger ont donc la totale liberté du choix du lieu de leur inscription en université en France, sous réserve des seules capacités d'accueil des établissements. Cependant, lorsque l'effectif des candidatures excède les capacités d'accueil d'un établissement constatées par l'autorité administrative, les inscriptions sont prononcées, après avis du président de cet établissement, par le recteur chancelier en fonction du domicile, de la situation de famille du candidat et des préférences exprimées par celui-ci. Il convient également de rappeler que ces jeunes gens ont à leur disposition, dans les services culturels des ambassades de France et dans les établissements à l'étranger, un formulaire de recherche de première inscription en premier cycle dans une université française, formulaire diffusé par les services du ministère de l'éducation nationale, de la jeunesse et des sports et destiné à faciliter leurs demandes. Enfin, une dérogation à la date limite d'inscription a été accordée cette année aux candidats qui ont passé le baccalauréat outre-mer après de 1er juillet, ou dans les lycées français de l'étranger.
