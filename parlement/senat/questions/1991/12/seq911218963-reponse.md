@@ -1,0 +1,11 @@
+# Réponse à la question SEQ911218963
+
+- Question : [SEQ911218963](seq911218963.md) — Taux d'abstention lors des élections consulaires
+
+## Réponse
+
+*Artisanat et commerce, JO du 1992-03-05, page 547*
+
+Réponse. - Le taux de participation aux élections consulaires du 18 novembre 1991 est en très légère progression par rapport à celui qui avait été enregistré en 1988 à l'occasion de la précédente consultation. Mais il est exact que la mobilisation de l'électorat lors des élections consulaires est traditionnellement faible. Par contre un certain nombre de constantes sont à souligner, à savoir : de très fortes variations de taux de participation d'une chambre à l'autre ; une participation plus faible dans les grandes chambres. Comme le relève l'honorable parlementaire, le taux d'abstention est très élevé dans les 16 C.C.I. de plus de 20 000 ressortissants ; des résultats particulièrement modestes pour ce qui concerne la C.C.I. de Paris même si l'on peut relever qu'avec 9 p. 100 cette chambre améliore très sensiblement la participation enregistrée en 1988. Ces résultats ont plusieurs explications : la participation est fonction de la proximité existant entre le chef d'entreprise et la chambre : dans les grandes C.C.I., le rapport de la chambre avec ses ressortissants est moins immédiat. Ainsi par exemple - c'est notamment le cas pour les grandes agglomérations - le chef d'entreprise n'est pas toujours domicilié dans le ressort de sa chambre et ne se déplace pas pour y voter ; la présence dans la plupart des cas d'une liste unique réduit la motivation des électeurs. Il est en effet généralement constaté que, là où plusieurs listes s'opposent, la participation est sensiblement plus forte ; les procédures électorales, et singulièrement le vote par correspondance, sont complexes et mériteraient sans doute d'être simplifiées. C'est pourquoi, dès lors que les représentants de l'institution consulaire en manifesteraient le souhait, il pourrait être envisagé d'étudier les modalités d'une simplification du dispositif électoral en vigueur. Par ailleurs, le dynamisme de l'institution consulaire et l'action entreprise par celle-ci, notamment
+
+en matière de formation, d'aménagement du territoire et d'animation économique, permettent d'envisager une meilleure lisibilité de l'institution auprès de ses ressortissants.
