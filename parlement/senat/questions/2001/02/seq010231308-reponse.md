@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010231308
+
+- Question : [SEQ010231308](seq010231308.md) — Conditions de reprise d'ancienneté applicables aux agents de catégorie C
+
+## Réponse
+
+*Fonction publique, JO du 2001-06-07, page 1920*
+
+Le décret n° 87-1107 du 30 décembre 1987 portant organisation des carrières des fonctionnaires territoriaux de catégorie C précise les conditions de classement, au moment de la titularisation dans la fonction publique territoriale, des agents non titulaires recrutés dans un grade d'un cadre d'emplois de catégorie C au regard de la reprise de leur ancienneté. Aux termes de l'alinéa 1er de l'article 7 de ce décret, les trois quarts de la durée des services accomplis en qualité d'agent non titulaire sont retenus pour le classement de ces agents lors de leur recrutement dans un tel grade, sous réserve de la limite suivante : ce classement ne doit pas créer de situation plus favorable que celle qui résulterait d'un classement à un échelon comportant un traitement égal ou à défaut immédiatement supérieur à celui perçu dans l'ancien emploi, avec la conservation dans l'échelon ainsi déterminé des trois quarts de la durée des services civils accomplis, dans la limite de l'ancienneté maximale de service exigée pour l'accès à l'échelon supérieur du grade d'accueil. Il est de fait que les agents non titulaires dont le niveau de rémunération est au plus égal à celui correspondant aux deux premiers échelons du grade auquel ils sont recrutés en qualité de fonctionnaires, ne peuvent être classés à un échelon correspondant à la prise en compte de la totalité des trois quarts des services accomplis en qualité d'agents non titulaires, alors même qu'ils justifient d'une durée de services comme contractuels relativement longue. Toutefois, il y a lieu d'observer que ces règles de classement sont similaires à celles prévues pour les agents non titulaires accédant à un corps de catégorie C de la fonction publique de l'Etat.
