@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960213660
+
+- Question : [SEQ960213660](seq960213660.md) — Industrie textile française
+
+## Réponse
+
+*Industrie, JO du 1996-04-11, page 875*
+
+Réponse. - L'accord bilatéral textile entre l'Union européenne et la République populaire de Chine arrivait à expiration le 31 décembre 1995. L'absence d'adhésion de celle-ci à l'Organisation mondiale du commerce rendait nécessaire son renouvellement. Les négociations très serrées ont abouti, après plusieurs mois de discussions entre la commission, qui agissait en étroite coordination avec les Etats membres, et les autorités chinoises, à la signature d'un accord valable trois ans, dont les principales dispositions peuvent être considérées comme restrictives dans le contexte de libéralisation des échanges textiles prévue par l'acte final du Cycle d'Uruguay que la France a approuvé par l'accord de Marrakech du 15 avril 1994. A cette occasion, le statut de " pays dominant " a été quasiment imposé à la Chine. En conséquence, l'augmentation globale des quotas d'importation a été limitée à 1,82 p. 100. Un dispositif, permettant d'atténuer les effets de la libération progressive du commerce consécutive à une éventuelle adhésion de la Chine à l'Organisation mondiale du commerce, a été maintenu. Par ailleurs, une garantie d'accès au marché des matières premières chinoises (soie, angora, cachemire) pour les opérateurs communautaires a été obtenue ainsi qu'un relèvement des quantités disponibles. Enfin, la Chine s'est vue imposer une réduction de certains quotas, en particulier de T-shirts, à titre de sanction contre des importations frauduleuses dans l'Union européenne de plusieurs millions de pièces. Cette rigueur à l'égard des importations chinoises vient à nouveau de se traduire par l'imputation sur les quotas de 1996 des quantités de vêtements pour lesquels les autorités chinoises avaient délivré des licences d'exportation en dépassement des quotas fixés pour l'année 1995.
