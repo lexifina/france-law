@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981212630
+
+- Question : [SEQ981212630](seq981212630.md) — Effectifs des services du Trésor
+
+## Réponse
+
+*Économie, JO du 1999-04-08, page 1159*
+
+Réponse. - Les actions de modernisation des procédures et d'adaptation des structures dans lesquelles se sont inscrits les services financiers ont effectivement permis de dégager des gains de productivité. Elles ont permis aux pouvoirs publics de procéder à des suppressions d'emplois qui, dans une politique générale de stabilisation des effectifs de la fonction publique en rupture avec la politique de compression suivie par le gouvernement précédent, a rendu possible la création d'emplois dans d'autres secteurs prioritaires qui ont moins que d'autres la possibilité de réaliser des gains de productivité (justice, enseignement supérieur...). Ces suppressions sont accompagnées de créations et de transformations d'emplois, d'une part, et de requalifications des emplois, d'autre part. Pour ce qui concerne les services du Trésor, la généralisation de la micro-informatique dans les trésoreries et le développement de procédures télégérées intégrées ont contribué, tout en générant des gains de productivité, à renforcer l'efficacité de ce réseau. Des redéploiements significatifs ont ainsi pu être opérés pour répondre aux nouvelles missions confiées à ces services, telles que le contrôle financier déconcentré, les missions d'expertise économique et financière et des transferts d'attribution des recettes locales des douanes. Ce sont ces mesures de modernisation, combinées à l'adaptation des modalités de gestion des trésoreries qui permettront au réseau du Trésor public de rester un service de proximité et de préserver le niveau de qualité de ses prestations au bénéfice des usagers et des élus. Enfin, la loi de finances pour 1999 a prévu une sensible révision à la hausse des crédits de fonctionnement de ces services par rapport aux années précédentes.
