@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000424317
+
+- Question : [SEQ000424317](seq000424317.md) — Statut des conjoints collaborateurs d'exploitation agricole
+
+## Réponse
+
+*Agriculture, JO du 2000-07-13, page 2487*
+
+Réponse. - Les articles 25 et suivants de la loi nº 99-574 du 9 juillet d'orientation agricole ont intégré au code rural les articles L. 321-5, relatif aux conditions à remplir pour opter pour le statut de conjoint collaborateur d'exploitation ou d'entreprise, 1122-1-1 relatif aux droits desdits conjoints en assurance vieillesse et notamment au rachat des périodes effectuées antérieurement à 1999 en qualité de conjoint, et 1121-5 relatif aux revalorisations gratuites des retraites pour cette catégorie d'assurés. Ces trois articles du code rural ont été complétés et modifiés par la loi de finances pour 2000, ce qui a nécessité un délai supplémentaire pour la publication des deux textes réglementaires nécessaires à la mise en uvre du nouveau statut. Il s'agit, d'une part, du décret nº 2000-261 du 22 mars 2000 revalorisant les pensions de retraite des personnes non salariées de l'agriculture et portant application des dispositions de l'article 1122-1-1 du code rural relatives au rachat de points de retraite proportionnelle par certains assurés et, d'autre part, du décret nº 2000-319 du 7 avril 2000 portant application des dispositions de l'article L. 321-5 du code rural relatif au statut de conjoint collaborateur d'exploitation ou d'entreprise agricole et modifiant l'article R. 351-4 du code de la sécurité sociale. Des instructions ont d'ores et déjà été données, aux caisses de mutualité sociale agricole et aux caisses générales de sécurité sociale dans le sens d'une certaine souplesse afin que les demandes d'option parvenues de façon incomplète aux organismes avant le 1er juillet 2000 soient examinées favorablement si leur régularisation intervient avant le 1er octobre 2000.
