@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960113501
+
+- Question : [SEQ960113501](seq960113501.md) — Conséquences de la baisse du taux d'alcoolémie pour les brasseries et bistrots en zone rurale
+
+## Réponse
+
+*Économie, JO du 1996-09-19, page 2417*
+
+Réponse. - La question posée a trait à l'opportunité de proposer une défiscalisation des boissons non alcooliques en vue de maintenir l'activité des débits de boissons installés dans de petites communes rurales. Ces boissons sont soumises au droit spécifique de 3,50 francs par hectolitre prévu à l'article 520 A du code général des impôts. S'il s'agit d'eaux minérales, la surtaxe fixée à l'article 1582 dudit code dans la limite de 0,023 franc par litre ou fraction de litre peut être éventuellement perçue. Le droit spécifique est affecté depuis le 1er janvier 1994 au budget du Fonds de solidarité vieillesse. La surtaxe est destinée aux communes sur le territoire desquelles sont situées des sources d'eaux minérales. En ce qui concerne le droit spécifique, il n'est pas opportun d'envisager sa suppression car cette mesure serait inopérante sur les ventes de boissons non alcooliques étant donné la faiblesse du tarif d'imposition de ce droit. Il ne peut être également proposé d'abroger la surtaxe sur les eaux minérales au motif essentiel que les communes concernées seraient privées de ressources généralement importantes. S'agissant de la taxe sur la valeur ajoutée, la vente dans les bars de boissons à consommer sur place est une prestation de services qui relève dans tous les cas du taux normal de 20,6 p 100. Une exonération de TVA applicable aux consommations de boissons non alcoolisées dans les bars serait contraire à la sixième directive communautaire et n'est donc pas envisageable. Au demeurant, l'exonération priverait les exploitants de bars de la possibilité de déduire la TVA qui leur est facturée, ce qui pénaliserait ce secteur d'activité.
