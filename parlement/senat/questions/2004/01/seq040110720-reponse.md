@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040110720
+
+- Question : [SEQ040110720](seq040110720.md) — Soutien de la France aux éleveurs de Roquefort dans le contentieux relatif à la Féta
+
+## Réponse
+
+*Agriculture, JO du 2004-07-08, page 1511*
+
+Le gouvernement français a déposé des mémoires en intervention à l'appui des recours en annulation introduits par les gouvernements danois et allemand devant la Cour de justice des Communautés européennes à l'encontre du règlement d'enregistrement par la commission de la dénomination " féta " comme appellation d'origine protégée au bénéfice de la Grèce. L'article 40 du protocole sur le statut de la Cour de justice prévoit qu'un mémoire en intervention ne peut avoir d'autre objet que le soutien des conclusions de l'une des parties. Les autorités françaises ont ainsi repris à leur compte les argumentations contenues dans les requêtes et les mémoires en réplique des autorités allemandes et danoises, notamment celles tenant à la généricité de la dénomination " féta ". Les mémoires du gouvernement français ont également mis l'accent sur la spécificité de la production française en transmettant à la Cour de justice des données historiques et économiques de la production de " féta " en France afin d'éclairer cette juridiction sur l'existence effective d'une production de " féta " en dehors du territoire hellénique. Un recours en manquement contre les autorités grecques constituerait une procédure indépendante des recours en annulation actuellement pendants devant la Cour de justice. Les recours en manquement sont déposés en général par la commission des Communautés européennes. Il appartient, le cas échéant, aux professionnels qui détiendraient des preuves du manquement des autorités grecques à leurs obligations communautaires de déposer une plainte auprès de la commission.
