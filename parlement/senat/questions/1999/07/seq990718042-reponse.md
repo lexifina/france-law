@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990718042
+
+- Question : [SEQ990718042](seq990718042.md) — Diffusion des émissions de Radio France grâce au système DAB (Digital Audio Broadcasting)
+
+## Réponse
+
+*Culture, JO du 1999-09-23, page 3154*
+
+Réponse. - L'article 18 de la loi nº 99-533 du 25 juin 1999 d'orientation pour l'aménagement et le développement durable du territoire a prolongé de deux ans la durée d'application de la loi nº 96-299 du 10 avril 1996 relative aux expérimentations dans le domaine des technologies et services de l'information. Dans le cas particulier des expérimentations DAB, l'autorisation d'usage de fréquences doit être demandée au Conseil supérieur de l'audiovisuel par un ensemblier de services. Cinq agglomérations bénéficient actuellement de services radiodiffusés en DAB : il s'agit de l'Ile-de-France, Lyon, Marseille, Toulouse et Nantes. Ces premières expériences montrent à l'évidence que les opérateurs impliqués dans la mise en uvre de plates-formes expérimentales privilégient pour l'instant des sites urbains à forte densité de population, dans l'espoir de faire naître rapidement un premier parc significatif de récepteurs numériques DAB. Il est cependant encore un peu tôt pour évaluer de manière définitive l'impact qu'aura le DAB dans le paysage radiophonique français. C'est la raison pour laquelle la ministre de la culture et de la communication a engagé dès le mois de juin 1999 une large consultation auprès des acteurs de l'audiovisuel, de manière à mieux appréhender pour l'avenir les conséquences de l'introduction des techniques numériques en diffusion hertzienne terrestre. Cette large concertation, qui doit aboutir fin septembre 1999, devrait permettre de préciser, de manière plus pérenne que dans la loi sur les expérimentations, le cadre législatif dans lequel devront se développer les nouveaux services audiovisuels numériques.
