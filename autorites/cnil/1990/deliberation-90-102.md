@@ -1,0 +1,23 @@
+# Délibération portant avis sur le projet de décision du Directeur général de l'Assistance Publique à Paris concernant la mise en oeuvre du système informatisé de gestion des malades (SYGEMAP)
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 90-102
+- Date : 1990-09-11
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017653052
+
+La Commission Nationale de l'Informatique et des Libertés ; Vu la Convention du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ; Vu la loi n° 78-17 du 6 janvier 1978 relative à l'Informatique, aux Fichiers et aux Libertés et son décret d'application n° 78-774 du 17 juillet 1978 ; Vu l'article 378 du code pénal relatif au secret professionnel ; Vu la loi n° 70-1318 du 31 décembre 1970 portant réforme hospitalière modifiée par la loi du 3 janvier 1984 ;
+
+Vu la loi du 3 janvier 1979 sur les archives ; Vu le décret n° 61-777 du 22 juillet 1961 modifié relatif à l'administration générale de l'Assistance Publique à Paris ; Vu le projet de décision présenté par l'Assistance Publique à Paris ;
+
+Après avoir entendu Monsieur Gérard JAQUET, en son rapport et Madame Charlotte-Marie PITRAT, Commissaire du Gouvernement en ses observations ; Considérant que le traitement automatisé SYGEMAP d'aide à la gestion hospitalière locale est destiné à être installé dans les différents sites hospitaliers de l'Assistance Publique à Paris ; Considérant que son objet est de simplifier les formalités d'admission des personnes hospitalisées et la consultation de leur dossier administratif, d'assurer les mises à jour des mouvements des malades et la gestion des lits et enfin, de produire des états statistiques ; Considérant qu'il est prévu que, parmi les informations enregistrées, figurent des données relatives à l'identification de l'employeur de la personne hospitalisée, recueillies à des fins comptables, afin de faciliter le recouvrement des créances hospitalières ;
+
+Considérant que cette finalité ne saurait justifier l'enregistrement systématique de ces données dès la procédure d'admission à l'hôpital ; Considérant que la collecte de la nationalité du malade n'est autorisée que pour la production tant de tableaux financiers que de statistiques épidémiologiques sous forme non nominative ; qu'il convient toutefois, afin de s'assurer du respect de cette dernière condition, s'agissant des études épidémiologiques, que toutes précautions soient prises afin qu'elles ne portent que sur des données agrégées au seul niveau de l'Assistance Publique de Paris ; Considérant par ailleurs, qu'un code diagnostic est destiné à être transmis ultérieurement à l'application "collecte des diagnostics de sortie" ; que celui-ci est fourni par un médecin à partir du diagnostic principal porté sur le patient ; que pendant sa conservation dans l'application, il ne doit être ni utilisé, ni imprimé, ni affiché à l'écran ;
+
+Considérant que les dossiers administratifs sont expurgés dans le mois qui suit la facturation de l'acte, à l'exception de l'identité du patient qui est conservée pour la gestion du numéro permanent interne à l'Assistance Publique à Paris ; Considérant que ce traitement est mis en oeuvre sur un ordinateur relié par lignes spécialisées à des écrans et minitels situés dans les différents services du centre hospitalier ; Considérant que l'accès au traitement et aux informations nominatives est protégé par des mots de passe individuels qui sont gérés par le responsable du service informatique de l'hôpital et devront être modifiés régulièrement ;
+
+Considérant que devront être rappelées au personnel des centres hospitaliers leurs obligations de secret professionnel ainsi que les dispositions de la loi du 6 janvier 1978 ; Considérant que le système prévoit la gestion d'un journal indiquant pour chaque transaction le code du terminal et l'heure de l'opération ; qu'il convient qu'y soit porté également le code de chaque utilisateur ; Considérant que l'existence et les modalités d'exercice du droit d'accès seront indiquées sur une plaquette d'information mise à la disposition du public et actuellement en projet ; que la Commission demande que ce projet lui soit soumis avant diffusion ;
+
+Emet un avis favorable au projet qui lui est soumis, sous réserve que : - les données relatives à l'employeur des patients ne soient pas enregistrées ; -les études épidémiologiques ne portent que sur des données agrégées au niveau global de l'Assistance Publique de Paris ; - le code de chaque utilisateur soit porté sur le journal récapitulatif des interrogations du traitement. Le Président, Jacques FAUVET.
