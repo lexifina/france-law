@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021003171
+
+- Question : [SEQ021003171](seq021003171.md) — Désignation des zones en excédent structurel
+
+## Réponse
+
+*Agriculture, JO du 2003-04-03, page 1130*
+
+La directive 91-676 CE du 12 décembre 1991 dite " nitrates " préconise de délimiter, à l'intérieur des zones vulnérables, des zones où les risques de pollution des eaux par les nitrates sont suffisamment importants pour nécessiter des réponses spécifiques. Les textes de transposition en France de cette directive prévoient de classer en zones d'excédent structurel les cantons où la production d'azote issue des effluents d'élevage, si elle était épandue sur l'ensemble de la surface, dépasserait le seuil fixé par la directive de 170 kilogrammes par hectare et par animal. Pour des raisons de simplification, la quantité d'azote contenue dans les effluents des différentes espèces animales a été fixée forfaitairement. Les normes forfaitaires de rejet des bovins, notamment, ont été établies afin de favoriser les animaux pour lesquels l'herbe constitue une part prépondérante de l'alimentation. De plus, la valeur fixée pour la surface épandable peut être augmentée afin de mieux prendre en compte les zones dans lesquelles les pâturages constituent la majeure partie des surfaces et où les élevages hors sols ne sont pas fréquents. Par définition, les quantités d'azote déjà résorbées, qui font partie de la production des animaux, ne sont pas déduites de cette production. Elles sont cependant prises en compte puisqu'elles viennent ensuite en déduction de la quantité excédentaire à résorber. Toute modification des règles de définition des zones d'excédent structurel ne manquerait pas de créer des risques de nouveaux contentieux, tant en ce qui concerne la qualité des eaux que la délimitation des zones vulnérables.
