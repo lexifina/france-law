@@ -10,6 +10,8 @@ I bis. Lorsqu'un inventeur, personne physique, concède une licence exclusive d'
 
 II. L'imposition de la plus-value constatée lors de l'apport par un associé de la clientèle ou des éléments d'actif affectés à l'exercice de sa profession, à une société civile professionnelle, constituée conformément aux dispositions de la loi n° 66-879 du 29 novembre 1966 modifiée, est reportée au moment où s'opérera la transmission ou le rachat des droits sociaux de cet associé. L'application de cette disposition est subordonnée à la condition que l'apport soit réalisé dans le délai de dix ans à compter de la publication du décret en Conseil d'Etat propre à la profession considérée.
 
+((Toutefois, le report d'imposition prévu au premier alinéa est maintenu en cas de transformation de la société civile professionnelle en société d'exercice libéral jusqu'à la date de transmission, de rachat ou d'annulation des parts ou actions de l'associé. Les dispositions des quatrième et cinquième alinéas du II de l'article 151 octies sont applicables à l'associé à compter de la transformation)) (M) (1).
+
 Les dispositions du premier alinéa ne s'appliquent pas aux plus-values constatées à l'occasion d'apports en sociétés visés aux I et II de l'article 151 octies.
 
 III. Pour l'application des dispositions du premier alinéa du I, les contrats de crédit-bail conclus dans les conditions prévues aux 1° et 2° de l'article 1er de la loi n° 66-455 du 2 juillet 1966 relative aux entreprises pratiquant le crédit-bail sont considérés comme des immobilisations lorsque les loyers versés ont été déduits pour la détermination du bénéfice non commercial.
@@ -22,4 +24,6 @@ III. Pour l'application des dispositions du premier alinéa du I, les contrats d
 
 ((4. Un décret fixe les conditions d'application du présent IV, notamment les obligations déclaratives des contribuables)) (M).
 
-(M) Modification de la loi.
+(M) Modification.
+
+(1) Ces dispositions s'appliquent aux apports et aux transformations réalisés à compter du 1er janvier 1994.
