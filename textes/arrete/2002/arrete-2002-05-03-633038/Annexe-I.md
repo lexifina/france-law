@@ -1,27 +1,9 @@
-# Article ANNEXE I
+# Article Annexe I
 
-(en euros)
+ZONE GÉOGRAPHIQUE / PRIX PLAFOND
 
-ZONE GÉOGRAPHIQUE : Zone I bis
+Zone A : 3 483
 
-NEUF : 3 300
+Zone B : 2 005
 
-ANCIEN : 2 700
-
-ZONE GÉOGRAPHIQUE : Zone I
-
-NEUF : 2 380
-
-ANCIEN : 1 950
-
-ZONE GÉOGRAPHIQUE : Zone II
-
-NEUF : 1 900
-
-ANCIEN : 1 280
-
-ZONE GÉOGRAPHIQUE : Zone III
-
-NEUF : 1 680
-
-ANCIEN : 1 140
+Zone C : 1 772.
