@@ -1,0 +1,61 @@
+# Article Annexe
+
+PLAFOND DE L'INDEMNITE DE DEPLACEMENT ALLOUEE AUX JEUNES FRANÇAIS CONVOQUES POUR LA JOURNEE D'APPEL DE PREPARATION A LA DEFENSE DANS UN DEPARTEMENT D'OUTRE-MER, DANS UN TERRITOIRE OU UNE COLLECTIVITE TERRITORIALE D'OUTRE-MER
+
+SECTEUR GEOGRAPHIQUE
+
+|
+
+PLAFOND
+
+(en francs)
+
+|
+
+Martinique
+
+|
+
+120
+
+|
+
+Guadeloupe
+
+|
+
+600
+
+|
+
+Guyane
+
+|
+
+600
+
+|
+
+Réunion-Mayotte
+
+|
+
+60
+
+|
+
+Polynésie française
+
+|
+
+600
+
+|
+
+Nouvelle-Calédonie
+
+|
+
+120
+
+|
