@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030205732
+
+- Question : [SEQ030205732](seq030205732.md) — Entreprises localisées dans des zones à risques
+
+## Réponse
+
+*Écologie, JO du 2003-07-24, page 2389*
+
+La ministre de l'écologie et du développement durable a pris connaissance, avec intérêt, de la question relative à l'affectation des crédits du fonds de prévention des risques naturels majeurs à la délocalisation des entreprises situées dans des zones exposées à des risques naturels. L'article L. 561.1 du code de l'environnement prévoit la possibilité d'exproprier par l'Etat les biens exposés à un risque prévisible de mouvements de terrains, d'avalanches ou de crues torrentielles qui menace gravement les vies humaines. Les indemnités allouées au titre de cette expropriation sont financées par le fonds de prévention des risques naturels. L'objet de cette expropriation est de donner à l'Etat la possibilité de faire évacuer à titre définitif les personnes résidant dans les zones soumises à des risques importants lorsque aucune autre solution alternative n'est possible. A ce titre, la mise en oeuvre de l'expropriation pour risque naturel découle de trois conditions principales : un phénomène rapide, une menace grave pour les vies humaines et des indemnités d'expropriation moins coûteuses que les autres moyens envisageables de protection. Dans la mesure où ces conditions sont réunies, les biens immobiliers d'habitations ou d'activités peuvent faire l'objet d'une procédure d'expropriation pour risque naturel. Par ailleurs, il est envisagé, dans le cadre du projet de loi relatif à la prévention des risques technologiques et naturels et à la réparation des dommages de mettre en oeuvre une contribution du fonds de prévention au financement de l'acquisition de biens fortement sinistrés permettant leur délocalisation. Ces mesures seront applicables aux entreprises de moins de vingt salariés.
