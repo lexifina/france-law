@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861003296
+
+- Question : [SEQ861003296](seq861003296.md) — Croissance du marché du sport et commerce extérieur
+
+## Réponse
+
+*Jeunesse et sports, JO du 1987-01-22, page 104*
+
+Réponse. -La promotion économique du sport constitue l'une des priorités de la politique du secrétariat d'Etat auprès du Premier ministre, chargé de la jeunese et des sports. Cette priorité s'est déjà traduite dans la restructuration de la direction des sports par la création d'un département de la promotion du sport et des relations internationales et elle sera complétée dans les prochains jours par la mise en place de correspondants régionaux chargés de la promotion économique du sport. Les actions prévues pour 1987 seront menées en association avec les partenaires du secteur privé (Fédération française des industries du sport et des loisirs (F.I.F.A.S.), Fédération nationale des entreprises de construction d'équipements de sport et de loisirs (F.N.C.E.S.E.L.), Sport Equipement international (S.E.I.), Association Sportex international (Sportex), l'Association française pour le développement des équipements et de l'économie du sport et des loisirs (A.F.D.E.S.), etc. ; elles se développeront tant en France (salons, foires, expositions, colloques, etc.) qu'à l'étranger (protocoles d'accord, missions commerciales, actions auprès des postes permanents, etc.). En outre, une opération est actuellement à l'étude pour assurer la présence des industriels français à Séoul lors de Jeux olympiques de 1988. Cette opération, menée en concertation étroite avec la direction de la préparation olympique, permettra d'assurer sur le théâtre même des prochains Jeux olympiques une promotion active de l'industrie française du sport, en particulier en accueillant sous des formes appropriées les sportifs, les industriels et la presse.
