@@ -1,0 +1,53 @@
+# Article Annexe 11
+
+EMPLOIS.
+
+Directeur général des services techniques des villes de moins de 400.000 habitants.
+
+Directeur des services techniques des villes de 20.000 à 40.000 habitants.
+
+Ingénieur en chef et architecte en chef des villes de plus de 400.000 habitants.
+
+Ingénieur en chef ou architecte en chef des villes de moins de 400.000 habitants.
+
+Ingénieur principal.
+
+Durée d'ancienneté dans chaque échelon. :============================================================:
+
+: ECHELONS : DUREE MAXIMUM : DUREE MINIMUM : |
+
+:----------------:---------------------:---------------------: |
+
+: 1er échelon : 1 an 6 mois : 1 an. : |
+
+: : : : |
+
+: 2ème échelon : 2 ans : 1 an 6 mois. : |
+
+: : : : |
+
+: 3ème échelon : 2 ans : 1 an 6 mois. : |
+
+: : : : |
+
+: 4ème échelon : 2 ans 6 mois : 2 ans. : |
+
+: : : : |
+
+: 5ème échelon : 2 ans 6 mois : 2 ans. : |
+
+: : : : |
+
+: 6ème échelon : 2 ans 6 mois : 2 ans. : |
+
+: : : : |
+
+: 7ème échelon : : : |
+
+: : --------------- : ----------------- : |
+
+: : : : |
+
+: TOTAL : 13 ans : 10 ans. : |
+
+:============================================================: |
