@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930702019
+
+- Question : [SEQ930702019](seq930702019.md) — Calcul de l'allocation logement dans les départements d'outre-mer
+
+## Réponse
+
+*Logement, JO du 1993-09-30, page 1803*
+
+Réponse. - L'importance des besoins des départements d'outre-mer en matière de logements, liée notamment à une forte croissance démographique, a nécessité des réponses spécifiques et différentes de celles de la métropole dont l'objectif prioritaire vise à loger le plus grand nombre parmi les plus défavorisés. Ainsi, l'accession très sociale, représentée par le logement évolutif social (L.E.S.), reste le moyen priviliégié pour loger les familles les plus démunies qui peuvent ainsi substituer leur capacité d'auto-construction à une épargne préalable que leur interdit leur très faible niveau de ressources. Les conclusions de l'étude réalisée par la C.N.A.F. se fondent sur la comparaison de moyennes qui occultent les différences entre les modes de financement des logements et minimisent le niveau moyen des ressources et la composition familiale. Cette étude ne permet pas, par exemple, de comparer les taux d'effort entre les D.O.M. et la métropole pour des échantillons de populations comparables par rapport aux revenus annuels ou à la taille des familles. Néanmoins, cette étude a l'avantage de mettre en évidence la faible proportion des ménages bénéficiant de l'allocation logement ainsi que les taux d'effort relativement élevés, même s'ils diminuent nettement lorsque l'on prend en compte les prestations familiales. Conscient de l'importance des équilibres entre le niveau des aides à la pierre et celui des aides à la personne, le ministère du logement a engagé une étude sur l'efficacité des aides au logement dans les départements d'outre-mer dont les conclusions permettront, si nécessaire, d'éventuels réajustements.
