@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000524918
+
+- Question : [SEQ000524918](seq000524918.md) — Augmentation du nombre de procédures administratives réalisables en ligne
+
+## Réponse
+
+*Fonction publique, JO du 2000-10-05, page 3393*
+
+Réponse. - Le programme d'action gouvernemental pour la société de l'information a fixé comme objectifs prioritaires, dans le chantier afférent à la modernisation des services publics et à l'amélioration du service rendu aux usagers, la dématérialisation des procédures administratives et le développement des téléprocédures. Une campagne de numérisation des formulaires administratifs les plus couramment utilisés a été lancée en 1998 et se poursuit activement, malgré certaines difficultés d'ordre technique et organisationnel. Le site réportoriant l'ensemble de ces formulaires (www.cerfa.gouv.fr) reçoit plusieurs milliers de visites chaque semaine. En outre, un décret de 1999 stipule que l'administration ne peut refuser un formulaire électronique émanant d'un site public habilité et que la création de tout formulaire administratif sur papier doit s'accompagner obligatoirement d'une version électronique de ce document. Par ailleurs, des expériences de télétransmissions de formulaires ont été initiées afin de vérifier la faisabilité d'une téléprocédure complète par l'internet. Deux grands ministères, celui des finances et celui de l'emploi et de la solidarité, ont ouvert de vastes chantiers en faveur des téléprocédures, les télédéclarations de revenus et de TVA pour le premier, les télédéclarations sociales pour le second. Ces opérations bénéficient du soutien financier du Fonds de la réforme de l'Etat. Bien entendu, le succès de cette stratégie de grande ampleur suppose la mise en uvre de solutions pratiques garantissant la sécurité des échanges et des données et la signature électronique.
