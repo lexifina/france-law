@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951112798
+
+- Question : [SEQ951112798](seq951112798.md) — Situation financière des infirmiers et infirmières libéraux
+
+## Réponse
+
+*Travail, JO du 1996-02-15, page 351*
+
+Réponse. - Les seuils annuels d'activité individuelle des auxiliaires médicaux permettent de garantir la qualité des soins dispensés. Un volume d'activité supérieur aux seuils définis par les conventions nationales des professions de santé, notamment la convention des infirmières, n'est pas compatible avec la dispensation de soins consciencieux et conformes à l'exigence de qualité des soins. La nomenclature des soins infirmiers a d'ores et déjà été révisée, de manière à mieux prendre en charge les pathologies lourdes telles que la surveillance du diabète, les actes de chimiothérapie, le traitement à domicile des patients atteints de mucoviscidoce, la dialyse péritonéale. Il est envisagé d'inscrire de nouveaux actes de soins infirmiers, notamment pour assurer le traitement des malades sidéens. En ce qui concerne le petit matériel médical, la rémunération des actes est globale : elle inclut donc l'utilisation du petit matériel utilisé pour les soins infirmiers courants (seringues, alcool, petits pansements). Les fournitures plus importantes, donnant lieu à prescription médicale, sont inscrites au tarif interministériel des prestations sanitaires, et remboursées au patient en fonction de ce tarif. En ce qui concerne les soins aux personnes dépendantes, la commission de la nomenclature doit reprendre et poursuivre les réflexions engagées, afin de distinguer ce qui relève des actes techniques infirmiers et des soins de nursing. Le contenu des actes de soins infirmiers est relativement hétérogène, se limitant parfois à des soins de toilette que l'assurance maladie n'a pas vocation à prendre en charge. Cette réflexion est une priorité de la commission de nomenclature.
