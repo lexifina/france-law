@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040913950
+
+- Question : [SEQ040913950](seq040913950.md) — Politique budgétaire de restauration des orgues
+
+## Réponse
+
+*Culture, JO du 2004-12-23, page 2963*
+
+Le ministre de la culture et de la communication entend rassurer l'honorable parlementaire sur le financement des travaux de construction ou de restauration portant sur les orgues installées en Languedoc-Roussillon. Pour ce qui concerne le secteur de la création d'instruments et la restauration d'orgues non protégées au titre des Monuments historiques, la direction de la musique, de la danse, du théâtre et des spectacles a programmé et délégué à la direction régionale des affaires culturelles de Languedoc-Roussillon, en 2003, les crédits de subvention d'investissement du titre VI nécessaires à l'achèvement de la reconstruction de l'orgue du temple du Vigan, dans le Gard. Le ministre demeure très attentif à la création en général et il réaffirme sa volonté de poursuivre une politique en faveur des orgues, en parfaite complémentarité avec la politique de protection et de conservation du patrimoine organistique protégé au titre des Monuments historiques, initiée par la direction de l'architecture et du patrimoine. Il confirme la reconduction des moyens budgétaires actuels accordés à la direction de la musique, de la danse, du théâtre et des spectacles pour la création d'orgues neuves et la restauration d'orgues non protégées au titre des Monuments historiques. C'est ainsi qu'une enveloppe de 470 000 euros en 2003, et de 580 000 euros en 2004 a été réservée sur le titre VI. Ces moyens ont permis de mener à bien les opérations retardées en 2002, par l'annulation, à titre exceptionnel, des crédits réservés pour les orgues à la direction de la musique, de la danse, du théâtre et des spectacles.
