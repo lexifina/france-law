@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508653
+
+- Question : [SEQ980508653](seq980508653.md) — Impact du tourisme sur l'aménagement du territoire
+
+## Réponse
+
+*Tourisme, JO du 1998-10-08, page 3204*
+
+Réponse. - Le rapport du Commissariat général du Plan et de la direction du tourisme intitulé " Réinventer les vacances, la nouvelle galaxie du tourisme " a pour objet l'analyse de la demande touristique en 2010. Plusieurs chapitres portent sur l'attractivité actuelle et future du territoire. L'espace français est riche et divers et nous sommes le premier pays récepteur de touristes internationaux avec 67 millions de touristes étrangers reçus en 1997. Pour continuer à valoriser nos territoires, nous devons périodiquement mesurer nos atouts à des aunes nouvelles : la France est, en effet, sans cesse repositionnée dans une Europe et un monde en mouvement ; la composition et les attentes de la clientèle française vont se modifier et il en sera de même de la demande française dans les années à venir ; l'évolution des budgets, de l'économie, du travail, de la sécurité, du contexte international vont peser sur nos atouts et notre attractivité. Acteurs publics et privés doivent donc se donner les moyens d'assurer une veille touristique. Cet objectif figurait dans le cahier des charges du groupe de prospective qui a élaboré le rapport visé par la question, il est plus que jamais présent dans les esprits aujourd'hui. Le renforcement actuel de l'observation touristique au sein de la direction du tourisme et la mise en place de travaux d'analyse prospective vont bien dans ce sens. Les efforts de connaissance déjà développés par le secrétariat d'Etat au tourisme porteront leurs fruits pour l'élaboration des contrats de Plan et les directives d'aménagement du territoire, car leur objectif est bien de permettre de mieux répondre à la demande touristique, de mieux organiser l'offre et d'assurer un développement raisonné des territoires.
