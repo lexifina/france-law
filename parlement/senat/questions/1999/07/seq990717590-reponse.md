@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990717590
+
+- Question : [SEQ990717590](seq990717590.md) — Spécificité féminine dans le monde du travail
+
+## Réponse
+
+*Droits des femmes, JO du 1999-09-16, page 3070*
+
+Réponse. - L'articulation entre la vie professionnelle et la vie familiale demeure une préoccupation constante de Mme la ministre. A cet effet, le rapport de Mme Majnoni d'Intignano, élaboré pour le Conseil d'analyse économique et portant sur les aspects économiques des disparités entre les femmes et les hommes, s'il met l'accent sur la percée des femmes dans la sphère économique démontre les difficultés encore persistantes pour celles-ci à concilier leurs responsabilités professionnelles et familiales. Les réflexions à cet égard ont porté sur l'organisation des temps et le développement des services d'accueil des enfants. La conférence de la famille du 7 juillet dernier a souligné la nécessité d'intégrer la question des temps familiaux au sein même des négociations sur la réduction du temps de travail. Mme la ministre a fait inscrire ces éléments dans le plan national d'action pour l'emploi en 1999 ; parmi les pistes d'action à étudier, figure le fractionnement du congé parental au-delà des 3 ans de l'enfant et ce jusqu'à ses seize ans, pour faire face aux éventuelles difficultés particulières de cet enfant. La prise en compte de la totalité du congé parental d'éducation dans la détermination des avantages liés à l'ancienneté pourra faire, comme le propose la CFTC, l'objet d'un examen attentif du service des droits des femmes. En revanche, l'allongement du congé de maternité d'une période de dix semaines, qui porterait le congé postnatal à vingt semaines ne constitue pas une priorité du Gouvernement. En effet, cette mesure pourrait conduire les femmes à rencontrer des difficultés lors de leur réintégration dans l'emploi.
