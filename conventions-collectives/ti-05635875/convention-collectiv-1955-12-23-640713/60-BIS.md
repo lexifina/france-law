@@ -1,9 +1,0 @@
-# Article 60 BIS
-
-Au plus tard le 1er janvier 1981 :
-
-- la durée collective hebdomadaire du travail devra être réduite d'une demi-heure pour les horaires hebdomadaires supérieurs à quarante-deux heures ;
-
-- la durée collective hebdomadaire du travail, appréciée sur une moyenne de douze semaines, ne pourra excéder quarante-cinq heures.
-
-Les réductions d'horaire effectuées en application du présent article n'entraîneront pas de réduction de la rémunération des salaires concernés.
