@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000222594
+
+- Question : [SEQ000222594](seq000222594.md) — Teneur du courrier adressé aux actuels sursitaires par certains services du ministère de la défense
+
+## Réponse
+
+*Défense, JO du 2000-04-20, page 1434*
+
+Réponse. - La loi nº 97-1019 du 28 octobre 1997 portant réforme du service national organise la période de transition vers l'armée entièrement professionnalisée en précisant que le service national, dans sa forme actuelle, sera suspendu le 31 décembre 2002. Par ailleurs, cette loi a modifié l'article L. 5 bis du code du service national afin de permettre aux jeunes gens bénéficiant d'un report d'incorporation initial jusqu'à 22 ans d'obtenir, sur leur demande, un report supplémentaire d'une durée maximale de quatre années scolaires ou universitaires. Pour cela, l'article R.* 8 du code du service national précise que les intéressés doivent présenter, chaque année, une attestation du chef d'établissement donnant des informations sur les études envisagées. La demande de maintien en report, accompagnée de cette attestation, doit être adressée au bureau du service national dont relève l'intéssé, dans un délai de soixante jours avant l'échéance du report déjà obtenu et au plus tard, avant le 1er août de l'année d'échéance. De plus, ce même article dispose que l'échéance du report est fixée à la date de fin d'études mais ne peut excéder le 1er décembre de l'année suivant celle au cours de laquelle la demande a été acceptée. C'est pourquoi, dans un souci permanent d'information, les bureaux du service national informent les jeunes gens qui demandent une année supplémentaire de report, que l'échéance maximale étant fixée au 1er décembre de l'année au cours de laquelle ils atteignent 26 ans, toute inscription dans un cycle d'études devant se prolonger au-delà de cette date ne pourra être satisfaite.
