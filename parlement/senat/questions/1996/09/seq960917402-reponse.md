@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960917402
+
+- Question : [SEQ960917402](seq960917402.md) — Associations ayant droit de se constituer partie civile lorsqu'elles ne sont pas directement les victimes
+
+## Réponse
+
+*Justice, JO du 1996-10-17, page 2719*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire qu'il partage pleinement ses préoccupations quant à la nécessité de lutter avec détermination contre les faits de détournement des fonds publics. A cet effet le ministère public, en charge au premier chef du respect de la loi pénale et de l'intérêt général, exerce l'action publique avec détermination lorsque de tels faits portés à sa connaissance sont avérés. Diverses institutions de l'Etat, au premier rang desquelles figurent les juridictions des comptes, sont par ailleurs chargées de procéder au contrôle de l'utilisation des fonds publics. Ces institutions doivent porter à la connaissance de l'autorité judiciaire les faits constitutifs de crimes ou de délits dont elles ont pu avoir connaissance dans l'exercice de leurs missions de contrôle. Elles le font très régulièrement. Il est également loisible à toute personne de signaler à l'attention du procureur de la République tout fait lui paraissant constituer une infraction à la loi pénale. Enfin, sur le plan local, l'article L. 2132-5 du code des collectivités territoriales permet à tout contribuable d'exercer sur autorisation du tribunal administratif toute action qu'il croit appartenir à la commune. Il ne peut donc être affirmé que l'Etat bénéficie d'une " totale impunité " en ce domaine. Dans ces conditions, il n'apparaît pas nécessaire de conforter l'action déterminée des parquets par la reconnaissance d'une action civile à des associations de contribuables, la défense des intérêts de ceux-ci se confondant avec celle de l'intérêt général.
