@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920119425
+
+- Question : [SEQ920119425](seq920119425.md) — Application de la loi portant diverses mesures d'ordre social
+
+## Réponse
+
+*Jeunesse et sports, JO du 1992-07-30, page 1740*
+
+Réponse. - L'article 36 de la loi n° 87-39 portant diverses mesures d'ordre social vise les articles 93 et 94 du code de la famille et de l'aide sociale. Ces deux articles font partie des textes réglementaires de base qui délimitent les champs de compétence de l'Etat et du département en matière de protection des mineurs placés hors du domicile parental. En effet, l'ensemble des textes qui réglementent ce domaine sont rédigés dans une perspective décentralisatrice, mais la compétence de l'Etat y figure encore au titre de cas particuliers pour les centres de vacances et de loisirs. Le décret en Conseil d'Etat n° 60-94 du 29 janvier 1960 modifié par ceux des 29 décembre 1975 et 7 mars 1990 permet au niveau du ministère de la jeunesse et des sports l'application des articles 93 et 94 du code de la famille et de l'aide sociale. Il institue essentiellement une obligation de déclaration des séjours par les organisateurs ainsi qu'un régime de police administrative propre au centre de vacances et de loisirs. Les arrêtés pris en application de ce décret prévoient, pour leur part, les conditions sanitaires et de sécurité de l'accueil et fixent des normes qualitatives et quantitatives d'encadrement. En 1990, plus de quatre millions de mineurs ont participé à un séjour de vacances ou de loisirs placé sous le contrôle de l'Etat par l'article 93 du code de la famille et de l'aide sociale. Le ministère de la jeunesse et des sports ne peut toutefois fournir d'informations globales sur l'activité particulière des conseils généraux en ce domaine, tous les centres de vacances étant indistinctement soumis aux mêmes obligations réglementaires.
