@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030105109
+
+- Question : [SEQ030105109](seq030105109.md) — Compensation financière pour les communes perturbées par les travaux du TGV-Est
+
+## Réponse
+
+*Économie, JO du 2003-05-29, page 1749*
+
+Conformément aux dispositions de l'article 1473 du code général des impôts, la taxe professionnelle est établie dans chaque commune où le redevable dispose de locaux ou de terrains, en raison de la valeur locative des biens qui y sont situés ou rattachés. Cela étant, des modalités spécifiques de répartition des bases sont applicables aux entreprises de travaux publics et de transport. S'agissant des entreprises de travaux publics et conformément à l'article 310 HN de l'annexe II au code général des impôts, elles sont imposées au lieu de chaque chantier, à raison de la valeur locative des immobilisations qui y sont affectées, étant précisé que la valeur locative globale de l'ensemble des matériels de chantier est répartie forfaitairement entre les chantiers au prorata des salaires versés sur chaque chantier. S'agissant des entreprises de transport, et notamment de la SNCF, celles-ci sont imposables, conformément aux dispositions des articles 1474 du code général des impôts et 310 HL de l'annexe II au même code, dans chacune des communes où elles disposent de locaux ou de terrains, à raison de la valeur locative de ces locaux ou terrains ainsi que des biens et équipements qui y sont installés. Toutefois, la valeur locative des véhicules ferroviaires est, en application des articles 1474 A du code général des impôts et 310 HM de l'annexe II au même code, répartie entre toutes les communes où l'entreprise dispose de locaux ou de terrains proportionnellement aux valeurs locatives de ces locaux et terrains. Ces dispositions qui permettent aux communes visées de percevoir la taxe professionnelle sont de nature à répondre aux préoccupations de l'auteur de la question.
