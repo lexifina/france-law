@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950811939
+
+- Question : [SEQ950811939](seq950811939.md) — Territorialisation de l'action économique vis-à-vis des entreprises
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 1996-05-30, page 1336*
+
+Réponse. - Le poids des collectivités territoriales en matière d'intervention économique s'est accru considérablement depuis le début des années 80. Leurs interventions sont encadrées par l'article 4 de la loi du 7 janvier 1982 et la loi dite " loi Galland " de 1988. L'ensemble des analyses semble converger pour affirmer que l'échelle territoriale généralement la plus pertinente en matière de développement économique est l'échelle régionale. Cette analyse est d'ailleurs consacrée par le fait que la mise en oeuvre des actions territoriales de l'Etat se fait majoritairement en partenariat avec les conseils régionaux, à travers les contrats de plan Etat-région. Le " Plan PME pour la France " présenté par le Premier ministre Alain Juppé, le 27 novembre dernier à Bordeaux, a intégré implicitement ou explicitement, à travers différentes mesures, la reconnaissance du fait régional, en matière de politique de l'innovation par exemple ou d'information des entreprises sur les procédures à l'exportation. De plus, le plan a prévu que les conditions de l'action économique des régions soient assouplies pour permettre, par exemple, des prêts ou avances remboursables avec une bonification du taux. Ainsi, des dispositions ont-elles été intégrées dans la loi no 96-314 du 12 avril 1996 portant diverses dispositions d'ordre économique et financier (DDOEF). Il apparaît enfin qu'une évolution des textes de la décentralisation mérite d'être étudiée. Un travail approfondi doit être mené avec l'ensemble des partenaires. Les ministres des petites et moyennes entreprises, du commerce et de l'artisanat et de la fonction publique, de la réforme de l'Etat et de la décentralisation vont engager des travaux dans ce sens.
