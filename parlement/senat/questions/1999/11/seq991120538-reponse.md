@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991120538
+
+- Question : [SEQ991120538](seq991120538.md) — Licenciement d'un salarié intérimaire par le centre de transfusion sanguine de Lyon
+
+## Réponse
+
+*Emploi, JO du 2000-09-07, page 3084*
+
+Réponse. - L'honorable parlementaire a appelé l'attention de Mme la ministre de l'emploi et de la solidarité sur les modalités du renvoi d'un salarié intérimaire par le centre de transfusion sanguine de Lyon. Il s'étonne que le centre de transfusion sanguine ait pu rompre le contrat d'un de ses prestataires au motif que l'intéressé aurait été l'auteur d'un acte de prosélytisme alors qu'il ne faisait qu'informer ses collègues sur un moyen de prévention de maladies sexuellement transmissibles. Il lui demande de bien vouloir lui indiquer si elle entend diligenter une enquête administrative sur cette affaire et plus largement quelles sont les dispositions qu'elle entend mettre en uvre pour éviter que des tels incidents ne se reproduisent. Il ressort des éléments portés à la connaissance du ministère de l'emploi et de la solidarité que l'intéressé, qui effectuait une mission de travail temporaire auprès de l'établissement français du sang, se serait livré pendant son temps de travail à des tâches qui étaient sans rapport avec celles qui lui étaient confiées par l'établissement. Remis à disposition de l'agence de travail temporaire, il n'a pas fait l'objet d'une sanction, et n'a apparemment subi aucun préjudice du fait de la décision de l'établissement français du sang, l'entreprise de travail temporaire lui ayant confié immédiatement une autre mission. En toute hypothèse, si le salarié considère que la décision de mettre fin à la mission a été motivée par une activité de type associatif sans que celle-ci ne porte atteinte au bon fonctionnement de l'entreprise, il lui revient d'en saisir le juge compétent.
