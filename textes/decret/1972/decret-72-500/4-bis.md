@@ -2,7 +2,7 @@
 
 Pour la branche Service des lignes :
 
-1° Un premier concours est ouvert aux candidats masculins âgés de dix-sept ans au moins et de moins de quarante-cinq ans qui sont titulaires du permis de conduire B "tourisme" et possèdent l'aptitude physique spéciale prévue par l'arrêté ministériel conjoint pris en exécution de l'article 15 du décret n° 59-310 du 14 février 1959 relatif aux conditions d'aptitude physique pour l'admission aux emplois publics, à l'organisation des comités médicaux et au régime des congés des fonctionnaires. Toutefois, les candidats qui ne possèdent pas ce permis peuvent être admis à concourir mais ils ne peuvent être nommés que s'ils obtiennent ce permis de conduire dans les deux ans qui suivent leur succès au concours ; leur prise de rang ne compte que du jour de leur nomination.
+1° Un premier concours est ouvert aux candidats masculins âgés de dix-sept ans au moins et de moins de quarante-cinq ans.
 
 2° Un deuxième concours est réservé :
 
