@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880801125
+
+- Question : [SEQ880801125](seq880801125.md) — Comportement du gouvernement grec dans l'affaire du City of Poros
+
+## Réponse
+
+*Affaires étrangères, JO du 1988-11-17, page 1282*
+
+Réponse. - Comme le sait l'honorable parlementaire, le ministère des affaires étrangères a immédiatement réagi aux accusations lancées par certaines autorités grecques et largement diffusées par les médias à l'encontre de jeunes Français, victimes de l'horrible attentat perpétré contre le navire City of Poros. Le 15 juillet, un communiqué était publié pour demander aux autorités grecques d'apporter au gouvernement français des éclaircissements au sujet des déclarations et informations contradictoires diffusées sur les responsabilités de l'attentat. Aucun élément n'indiquait que l'une des victimes française pourrait en être l'un des auteurs. Le ministère d'Etat a assuré son homologue grec de la disposition des autorités françaises à un renforcement de lacoopération entre les deux pays en ce domaine afin que toute la lumière soit faite sur cet attentat. A l'occasion de la réunion des ministres des Affaires étrangères de la Communauté qui s'est tenue à Athènes le 17 juillet, M. Papoulias a fait part au ministre d'Etat, ministre des Affaires étrangères, du désir du gouvernement grec de voir s'instaurer une coopération étroite entre les services français et grec responsables des problèmes de sécurité et de terrorisme, en particulier dans le cadre de l'enquête sur l'affaire du City of Poros. Les autorités grecques poursuivent leur enquête, dont les résultats seront remis aux autorités judiciaires locales qui instruiront l'affaire. Chacun souhaite que les responsabilités puissent être clairement établies et qu'aucun soupçon de caractère diffamatoire ne vienne entacher la mémoire de nos malheureux compatriotes.
