@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950310225
+
+- Question : [SEQ950310225](seq950310225.md) — Mandataires automobiles
+
+## Réponse
+
+*Industrie, JO du 1995-09-07, page 1732*
+
+Réponse. - L'activité des mandataires automobiles, c'est-à-dire des intermédiaires qui agissent au nom et pour le compte des particuliers, est strictement encadrée par deux communications de la commission de 1985 et de 1991. Cette dernière communication fixe les possibilités et les limites d'intervention des mandataires en termes de validité du mandat, d'approvisionnement et de recours à la publicité. A le demande expresse du Gouvernement français, la commission a bien voulu accepter de reconduire les principes contenus dans ces textes dans l'attente de leur mise en conformité avec les dispositions du nouveau règlement qu'elle vient d'adopter, relatif à la distribution exclusive et sélective et aux services de vente et d'après-vente des véhicules automobiles. Le Gouvernement français considère en effet que ces communications constituent une garantie nécessaire eu égard au développement des importations parallèles. Il n'est par ailleurs pas envisagé d'adopter un statut spécifique des intermédiaires automobiles dans le cadre de notre droit national. D'une part, en effet, des dispositions de droit commun permettent de sanctionner, le cas échéant, les professionnels qui ne respectent pas la réglementation et trompent les consommateurs. Il en est ainsi par exemple des dispositions relatives à la concurrence déloyale, à la publicité mensongère voire à l'escroquerie. Ces dispositions paraissent suffisantes et il n'y a pas lieu d'instituer des dispositions particulières au secteur automobile. D'autre part, les principes du droit communautaire n'autorisent pas à établir, comme cela a pu être suggéré, des dispositions spécifiques à nos zones frontalières telles qu'un contingentement des véhicules importés ou un tarif douanier spécial.
