@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951012449
+
+- Question : [SEQ951012449](seq951012449.md) — Site d'implantation d'une usine de fabrication de semi-conducteurs de la société SGS Thomson
+
+## Réponse
+
+*Industrie, JO du 1996-01-18, page 108*
+
+Réponse. - La société SGS Thomson a décidé de créer une nouvelle unité de production de composants à Rousset, près d'Aix-en-Provence, où elle est déjà implantée. Cette unité mettra en oeuvre une nouvelle technologie, dite " 0,35 , " développée dans le centre mondial de recherche de SGS Thomson à Crolles, près de Grenoble. A l'usine de Rousset sera associé un centre de recherche et développement, s'appuyant sur les résultats de Crolles et destiné à préparer les produits de la ligne de production de Rousset. Ce site bénéficie donc d'un environnement de recherche de classe mondiale dans son domaine. En revanche cet établissement ne sera en rien concurrent à celui de Crolles, puisqu'il concernera des technologies complémentaires. Enfin, le prédécesseur du ministre de l'industrie, de la poste et des télécommunications a confié à M. Noblanc, de CEA-Industrie, une mission sur l'avenir du pôle grenoblois, compte tenu en particulier des évolutions techniques (future technologie " 0,18 , "). Cette mission doit se terminer à la fin de l'année. Elle proposera des mesures pour permettre au pôle grenoblois de rester compétitif. Plus généralement, le ministre de l'industrie attache une importance capitale au secteur des composants électroniques, qui est une clé de l'indépence technologique et industrielle de la France et de l'Europe. En particulier, une concertation étroite se déroule actuellement entre les pouvoirs publics et les industries pour l'élaboration du programme qui pourrait prendre la suite de Jessi, dans le but de renforcer la position mondiale de l'industrie européenne des composants.
