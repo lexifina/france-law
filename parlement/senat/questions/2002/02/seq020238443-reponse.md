@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020238443
+
+- Question : [SEQ020238443](seq020238443.md) — Réglementation applicable à la publicité à la télévision
+
+## Réponse
+
+*Culture, JO du 2002-03-28, page 910*
+
+L'attention de la ministre de la culture et de la communication a été appelée sur la fréquence de diffusion d'incrustations fugitives de logos, au cours de la retransmission de la finale de l'Open de Paris-Bercy de tennis le 4 novembre dernier sur France 3. En effet, la direction de France 3 a constaté qu'à l'occasion des ralentis concourant à présenter les moments forts du tournoi de tennis, des passages fréquents de logos publicitaires ont été diffusés alors qu'aucun accord n'avait été passé avec la chaîne. Cette pratique, non conforme aux réglementations s'appliquant à France 3, a été signalée au détenteur des droits de cette manifestation sportive ainsi qu'au prestataire technique chargé de la retransmission. En effet, les images de l'Open de Bercy, bien que ce tournoi se déroule en France, ont été produites par une société étrangère (Tennis Properties Limited), France 3 étant simple diffuseur après avoir acquis des droits en sous-licence auprès de Pathé-Sports. Dans le cadre des négociations relatives à l'acquisition des droits de retransmission des prochaines " Tennis Masters Series ", dont l'Open de Bercy fait partie, pour les saisons 2002, 2003 et 2004, France 3 s'est assuré que figurera clairement dans le contrat qui liera la chaîne au détenteur des droits, une mention très explicite qui interdira au producteur des images d'ajouter sur son signal toute mention ou publicité contraire à la réglementation européenne et à la législation française pour le secteur audiovisuel public. Par ailleurs, il est à noter que le Conseil supérieur de l'audiovisuel devrait se prononcer prochainement sur ce dossier en ce qui concerne les chaînes tant privées que publiques.
