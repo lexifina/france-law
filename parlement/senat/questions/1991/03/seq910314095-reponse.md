@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910314095
+
+- Question : [SEQ910314095](seq910314095.md) — Situation d'un ancien déserteur
+
+## Réponse
+
+*Justice, JO du 1991-09-19, page 2037*
+
+Réponse. - A la suite de la tenue du collogue consacré le 13 février dernier à " l'actualité vietnamienne " et où, parmi les intervenants, fut reconnu M. Georges Boudarel, ayant exercé les fonctions de commissaire politique adjoint au camp de prisonniers du Viet-Minh n° 113, un ancien prisonnier déposait plainte du chef de crimes contre l'humanité à l'encontre de ce dernier et se constituait partie civile devant le doyen des juges d'instruction près le tribunal de grande instance de Paris. Au plan juridique - nonobstant la qualification pénale retenue par la partie civile - se pose la question de savoir si les faits susceptibles d'être reprochés à Georges Boudarel n'entrent pas dans le champ d'application de l'article 30 de la loi du 18 juin 1966 qui dispose que " sont amnistiés de plein droit tous crimes ou délits commis en liaison avec les événements consécutifs à l'insurrection vietnamienne et antérieurement au 1er octobre 1957 ". Or, il apparaît qu'aucune disposition expresse de droit international ou de droit interne ne permet d'exclure de l'amnistie - acte de souveraineté par excellence du législateur français - les crimes contre l'humanité. Sous réserve de l'appréciation souveraine des juridictions du fond, l'infraction dénoncée par la partie civile se trouverait donc par là même privée de l'élément légal la rendant punissable. Il appartient en effet au juge d'instruction saisi de cette plainte de statuer en premier ressort sur sa recevabilité. Le garde des sceaux assure les auteurs des deux questions écrites que les services compétents de la chancellerie suivent attentivement cette procédure, dans la limite de leurs attributions.
