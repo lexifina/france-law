@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860500996
+
+- Question : [SEQ860500996](seq860500996.md) — Accès aux écoles d'officiers de réserve (EDR) pour les appelés résidant à l'étranger
+
+## Réponse
+
+*Défense, JO du 1986-06-05, page 776*
+
+Réponse. -En application de l'article R. 140 du code du service national, les jeunes gens, titulaires d'un diplôme de préparation militaire supérieure ou reçus à un examen à l'issue d'un cycle préparatoire au début de leur service militaire actif, sont admis au cycle de formation des élèves officiers de réserve. Sous réserve de ne pas bénéficier des dispositions des articles L. 37 et L. 38 du code précité, les jeunes gens qui résident à l'étranger peuvent suivre un stage de préparation militaire supérieure, spécialement organisé à leur intention par le groupement d'instruction et de préparation militaire de Vincennes. Les demandes doivent être formulées, auprès du consulat ou du bureau du service national dont ils relèvent, avant le 31 octobre de l'année qui précède celle du déroulement du stage. Celui-ci est organisé au mois de juillet et les intéressés bénéficient de la gratuité des transports entre leur domicile et le groupement. Les jeunes gens résidant a` l'étranger, qui n'auraient pas encore effectué une préparation militaire supérieure au moment de leur incorporation, peuvent alors faire part de leur souhait d'accéder à une école de formation d'élèves officiers de réserve. Ceux d'entre eux, classés " aptes cadres " après passage en centre de sélection, sont dirigés, en fonction des besoins de l'armée de terre, dans les écoles organisant les cycles préparatoires. L'ensemble de ces dispositions doivent permettre aux intéressés d'accéder au corps des officiers de réserve, toute modification de la loi en leur faveur ne paraissant donc pas nécessaire.
