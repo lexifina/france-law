@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861003309
+
+- Question : [SEQ861003309](seq861003309.md) — CEE: suppression du prélèvement compensatoire sur les exportations vers les pays et TOM associés
+
+## Réponse
+
+*Budget, JO du 1986-12-18, page 1751*
+
+Réponse. -Le mécanisme des montants compensatoires monétaires (M.C.M.) vise à pallier les distorsions de concurrence créées entre Etats membres de la C.E.E., tant dans le commerce intracommunautaire que dans les échanges avec les pays tiers de produits agricoles faisant l'objet de prix uniques communautaires, chaque fois qu'un Etat membre estime ne pas pouvoir répercuter sur les prix de ses produits les conséquences d'un réaménagement monétaire. Les M.C.M. sont établis en tenant compte de la différence entre les taux de change réels et les taux retenus pour la conversion en monnaies nationales des prix agricoles uniques libellés en ECU (taux " verts "). Les règles relatives à la fixation des montants compensatoires monétaires ont été définies, en dernier lieu, par le règlement C.E.E. n° 1677-85 du Conseil du 11 juin 1985. En application de ce règlement, les produits agricoles relevant d'une organisation commune des marchés, exportés de France, sont soumis au paiment des M.C.M., que leur pays de destination soit un autre Etat membre de la C.E.E. ou un pays tiers à cette dernière. Les pays et territoires d'outre-mer associés sont considérés comme des pays tiers. A ce titre, les produits agricoles exportés vers ces pays et territoires sont susceptibles de bénéficier de restitutions à l'exportation. En pareil cas, les M.C.M. exigibles à l'exportation sont déduits des restitutions octroyées par les organismes d'intervention compétents. Seuls les produits relevant des secteurs des céréales, du lait, de la viande bovine, du sucre et certains produits transformés sont encore soumis aux montants compensatoires monétaires. Normalement, ceux-ci devraient être progressivement réduits ou supprimés.
