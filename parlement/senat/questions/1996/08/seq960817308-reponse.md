@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960817308
+
+- Question : [SEQ960817308](seq960817308.md) — Conditions d'attribution de la carte de combattant volontaire de la Résistance
+
+## Réponse
+
+*Anciens combattants, JO du 1996-10-10, page 2628*
+
+Réponse. - S'agissant des conditions d'attribution de la carte de combattant volontaire de la Résistance (CVR), le ministre des anciens combattants et victimes de guerre tient à rappeler que la loi du 10 mai 1989 a été adoptée précisément pour lever la forclusion de fait qui existait depuis la fin de l'homologation des services de Résistance par l'autorité militaire en 1951. Ce texte ouvre droit à la qualité de CVR aux personnes dont les services n'ont pas été homologués et qui n'avaient pas présenté une demande dans les délais impartis. Cependant, s'il s'agit de prendre en considération les mérites acquis dans la Résistance, il importe de conserver rigoureusement toute sa valeur au titre de CVR. Son attribution suppose la présentation de témoignages circonstanciés et concordants établis par des personnes notoirement connues pour leur activité dans la Résistance, et qui attestent la participation du demandeur à des actes de résistance en conformité avec des témoignages ou déclarations antérieurs. Les textes d'application ont donc veillé à préserver la valeur de ce titre. Saisi d'un recours par une association d'anciens combattants résistants, le Conseil d'Etat a d'ailleurs confirmé la légalité des textes d'application de la loi du 10 mai 1989 (décision du 28 avril 1993). En tout état de cause et pour répondre de la manière la plus circonstanciée aux préoccupatins exprimées, l'honorable parlementaire est invité à bien vouloir préciser la nature des divergences auxquelles se réfère l'Association nationale des anciens combattants de la Résistance concernant les conditions d'attribution de la carte de combattant volontaire de la Résistance.
