@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970802327
+
+- Question : [SEQ970802327](seq970802327.md) — Secteur du bâtiment
+
+## Réponse
+
+*Logement, JO du 1997-10-23, page 2921*
+
+Réponse. - Les priorités gouvernementales en matière de logement visent à la satisfaction d'un double objectif : la mise en oeuvre du droit au logement qui doit permettre à chacun de se loger selon son choix et ses moyens, mais aussi le soutien à l'activité et l'emploi dans l'industrie du bâtiment. Globalement en crise depuis 1991, le secteur du bâtiment a en effet vu son effectif salarié et non salarié décroître fortement depuis 1990 et a encore enregistré de nombreuses suppressions nettes d'emplois en 1996. Depuis la fin de l'année 1996, plusieurs indicateurs permettent cependant d'envisager une moindre dégradation de l'activité et de l'emploi en 1997, notamment le rétablissement de la croissance économique, la bonne tenue des ventes des promoteurs et du secteur de la maison individuelle, ainsi que l'orientation favorable du secteur de l'entretien. Dans ce contexte, le programme supplémentaire de 100 000 logements réhabilités, dont le financement a été décidé dans le cadre du décret d'avances du 9 juillet 1997, contribuera de manière significative au mouvement de reprise de l'activité et à l'amélioration de la situation de l'emploi dans le bâtiment que les dispositions de la loi de finances pour 1998 vont sensiblement conforter. En ce qui concerne, par ailleurs, la réflexion en cours sur la réforme du code des marchés publics, elle sera poursuivie avec l'ensemble des maîtres d'ouvrages publics et les fédérations professionnelles, en s'attachant en particulier à la mise en oeuvre effective d'une concurrence saine et loyale, par le respect du principe de transparence des choix et d'égalité d'accès à la commande publique.
