@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960314501
+
+- Question : [SEQ960314501](seq960314501.md) — Accès au rôle de la taxe d'assainissement dans une commune par un particulier
+
+## Réponse
+
+*Fonction publique, JO du 1996-05-16, page 1205*
+
+Réponse. - Pour service rendu aux usagers, les communes peuvent percevoir, en application de l'article L. 2331-4-2 du code général des collectivités territoriales : " le produit de la redevance de raccordement des effluents privés aux réseaux d'assainissement ou aux installations d'épuration, prévue à l'article 18 de la loi no 64-1245 du 16 décembre 1964 relative au régime et à la répartition des eaux et à la luttre contre leur pollution ". Il s'agit donc de recettes non fiscales qui viennent abonder la section de fonctionnement du budget communal. En conséquence, la question de l'accès au rôle ne se pose pas en matière de redevances d'assainissement. Concernant l'accès aux documents fiscaux, le 3e rapport d'activité (1982-1983) de la commission d'accès aux documents administratifs (CADA), de même que le 7e (1990-1992) rappellent que l'article L. 104-b du livre des procédures fiscales prévoit qu'un extrait du rôle ou un certificat de non-inscription au rôle peuvent être délivrés par le comptable du Trésor chargé du recouvrement, même s'ils concernent un autre contribuable, à tout demandeur figurant personnellement au rôle. Ces documents ne sont donc pas directement communicables par les maires, même si ceux-ci en sont, par ailleurs, normalement destinataires. Toutefois, la commission souligne aussi que les limites de la loi de 1978 ne peuvent pas avoir pour effet de restreindre la pratique ancienne autorisant la libre consultation, dans les mairies, des matrices des impôts locaux directs, à l'exception des éléments qui servent de base de calcul du montant de la taxe professionnelle, lesquels sont couverts par le secret industriel et commercial (CADA, 10 mars 1986, maire de Nice).
