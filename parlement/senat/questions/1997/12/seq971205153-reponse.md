@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971205153
+
+- Question : [SEQ971205153](seq971205153.md) — Carrière des fonctionnaires reclassés de France Télécom
+
+## Réponse
+
+*Industrie, JO du 1998-02-05, page 404*
+
+Réponse. - Lors de la réforme du service public de la poste et des télécommunications, instituée par la loi no 90-568 du 2 juillet 1990, modifiée par la loi no 96-660 du 26 juillet 1996, les fonctionnaires de France Télécom ont gardé la position d'activité au sein de l'entreprise nationale, sous l'autorité du président du conseil d'administration, et demeurent soumis aux titres 1er et 2 du statut général des fonctionnaires, comme le précise l'article 29 et l'article 29-1 nouveau de la loi. Depuis, le Gouvernement a fait connaître les grandes orientations de sa politique pour l'avenir de France Télécom, notamment pour la gestion des personnels fonctionnaires. Dans ce cadre, le décret no 97-1313 du 30 décembre 1997 modifiant divers statuts particuliers des personnels de La Poste et de France Télécom permettra aux fonctionnaires de France Télécom ayant conservé leur grade de reclassement de bénéficier d'une prorogation d'un an du délai d'option vers les statuts de classification. Par ailleurs, France Télécom a pris, à la demande du Gouvernement, les dispositions nécessaires en concertation avec les organisations syndicales pour permettre aux agents qui le souhaitent de trouver des mobilités externes par voie de détachement. Pour faciliter ces mobilités, une mission nationale a été créée avec l'aide du ministère de la fonction publique. Elle dispose au sein de chaque bassin d'emplois d'un correspondant responsable de la prise en charge des candidatures des fonctionnaires intéressés. Enfin, il est précisé à l'honorable parlementaire que l'éventualité d'une remise en cause du statut des fonctionnaires exerçant leurs fonctions au sein de France Télécom ne figure pas dans les projets du Gouvernement.
