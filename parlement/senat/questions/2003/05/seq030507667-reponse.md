@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030507667
+
+- Question : [SEQ030507667](seq030507667.md) — Réaffirmation du rôle de l'ONU
+
+## Réponse
+
+*Affaires étrangères, JO du 2003-07-17, page 2286*
+
+Face aux multiples défis de notre temps, qui appellent la mobilisation de tous, la France défend une vision multilatérale de l'ordre international, et cela au nom de plusieurs convictions : seule la délibération collective offre la légitimité nécessaire à l'efficacité de l'action internationale dans la durée ; seul le dialogue des cultures permet de donner voix à la diversité des approches et des points de vue, et d'éviter ainsi la méconnaissance et la peur de l'autre ; seule la solidarité peut apporter une réponse aux facteurs profonds de désordre et d'instabilité que sont l'extrême pauvreté, la famine ou les épidémies. Pour la France, le principe de responsabilité collective doit donc être au coeur du système international. Parce qu'elles incarnent ce principe, les Nations unies doivent constituer la clé de voûte de l'ordre international, en particulier dans le domaine de la sécurité au sens large. La pratique depuis 1945, en particulier au Conseil de sécurité, a du reste montré que le strict respect de la Charte était parfaitement compatible avec la nécessaire adaptation de l'ONU à l'évolution des relations internationales, et notamment aux nouvelles menaces. La France considère que, pour jouer pleinement son rôle, l'Organisation des Nations unies doit poursuivre sa réforme. C'est ainsi que, de longue date, elle souhaite conforter la représentativité du Conseil de sécurité en l'élargissant dans les deux catégories de membres, permanents et non permanents, au bénéfice à la fois des pays développés et des pays en développement. C'est dans le même esprit, pour n'en prendre que quelques exemples, que la France plaide pour la création d'un Conseil de sécurité économique et social ainsi que d'une Organisation mondiale de l'environnement.
