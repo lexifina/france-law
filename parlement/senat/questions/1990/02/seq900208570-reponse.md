@@ -1,0 +1,11 @@
+# Réponse à la question SEQ900208570
+
+- Question : [SEQ900208570](seq900208570.md) — Conditions d'attribution d'aides sociales aux étudiants de troisième cycle universitaire
+
+## Réponse
+
+*Éducation, JO du 1990-04-05, page 720*
+
+Réponse. - A la différence des bourses attribuées sur critères sociaux au niveau des deux premiers cycles universitaires, les allocations d'études de première année de troisième cycle pour la préparation d'un diplôme d'études approfondies (D.E.A.) ou d'un diplôme d'études supérieures spécialisées (D.E.S.S.) sont accordées par les recteurs dans le cadre d'un contingent académique global de bourses à caractère spécial (allocations d'études, bourses d'agrégation, bourses de service public), aux candidats classés par rang de mérite par les présidents d'université ou les chefs d'établissement dispensant ces formations au regard des résultats antérieurs des postulants et de leur aptitude à entreprendre des recherches ou des études spécialisées. Toutefois, la situation sociale des demandeurs est prise en considération afin de les départager en cas d'égalité de mérites. Par ailleurs, alors que les dotations globales de bourses à caractère spécial mises à la dispositio
+
+n des recteurs pour 1989-1990 ont été majorées d'environ 9 p 100 par rapport à l'année précédente, on constate une progression de l'ordre de 11 p 100 du nombre des bénéficiaires d'une allocation d'études (7 559 au lieu de 6 830). Les étudiants qui n'ont pu être retenus ont encore la possibilité de solliciter un prêt d'honneur auprès des recteurs. Ces aides, exemptes d'intérêt et remboursables au plus tard dix ans après la fin des études pour lesquelles elles ont été consenties, sont allouées par un comité académique, dans la limite des crédits prévus à cet effet et au regard de la situation sociale des candidats. En l'occurrence, le doublement des crédits de prêts d'honneur mis à la disposition des recteurs pour la clôture de l'exercice 1989 (37,4 MF au lieu de 18,2 MF initialement prévus) devrait leur permettre, comme l'année précédente, d'attribuer des prêts plus nombreux et/ou d'un montant plus élevé et de répondre ainsi à l'attente des étudiants qui n'ont pu obtenir une bourse, en particulier ceux de troisième cycle. Les perspectives professionnelles offertes à ce niveau de scolarité doivent faciliter le remboursement de cette aide.
