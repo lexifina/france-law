@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700719
+
+- Question : [SEQ020700719](seq020700719.md) — Conditions d'organisation d'un référendum municipal
+
+## Réponse
+
+*Intérieur, JO du 2002-09-05, page 1966*
+
+La consultation susceptible d'être organisée à la demande d'un cinquième des électeurs inscrits sur les listes électorales d'une commune en application de l'article L. 2142-3 du code général des collectivités territoriales doit être distinguée de celle prévue aux articles L. 2142-1 et L. 2142-2 du même code. En effet, tandis que la consultation des articles L. 2142-1 et L. 2142-2 peut porter sur les décisions que les autorités municipales sont appelées à prendre pour régler les affaires de la commune ou d'une partie de celle-ci, celle de l'article L. 2142-3 ne peut avoir pour objet que des opérations d'aménagement telles que définies au premier alinéa de l'article L. 300-1 du code de l'urbanisme. Aux termes de cet article, les opérations concernées sont celles qui visent à " mettre en oeuvre une politique locale de l'habitat, organiser le maintien, l'extension ou l'accueil des activités économiques, favoriser le développement des loisirs et du tourisme, réaliser des équipements collectifs, lutter contre l'insalubrité, sauvegarder ou mettre en valeur le patrimoine bâti ou non bâti et les espaces naturels ". Il ressort de la lecture de cet article que les projets susceptibles d'être ainsi soumis à la procédure de consultation des électeurs définie à l'article L. 2142-3 sont ceux qui ont des répercussions sur l'environnement et le cadre de vie des citoyens et dont l'impact concerne l'ensemble de la population. Dès lors, la consultation prévue à l'article L. 2142-3 du code général des collectivités territoriales ne saurait être organisée qu'à l'initiative d'un cinquième de la totalité des électeurs de la commune et qu'à l'échelle de la commune dans son ensemble.
