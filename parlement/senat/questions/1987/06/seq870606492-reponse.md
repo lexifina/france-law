@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870606492
+
+- Question : [SEQ870606492](seq870606492.md) — Rôle de la Banque européenne d'investissement et du Nouvel instrument communautaire
+
+## Réponse
+
+*Économie, JO du 1987-08-06, page 1231*
+
+Réponse. -Comme le sait l'honorable parlementaire, la Banque européenne d'investissement (B.E.I.) a été créée par le traité de Rome en 1957. Ses ressources sont destinées de par ses statuts au financement de projets dans les régions les moins développées d'Europe, de projets d'intérêt commun pour plusieurs pays membres, et de projets visant la modernisation, la conversion d'entreprises ou la création d'activités nouvelles rendues nécessaires par des difficultés structurelles. Ces investissements doivent contribuer à l'intégration économique des pays membres ou à la réalisation d'objectifs communautaires tels que protection de l'environnement, technologies avancées ou utilisation plus rationnelle de l'énergie. Les prêts au titre du nouvel instrument communautaire d'emprunts et de prêts (N.I.C.), qui sont mis en place et gérés par la B.E.I. au nom de la Communauté, sont plus spécialement destinés au financement des P.M.E. hors zones d'aide. La B.E.I. met à ce titre des lignes de crédits à disposition des institutions financières à long terme des Etats membres (comme le Crédit national en France) qui reprêtent aux P.M.E. bénéficiaires finales des prêts de la Banque européenne d'investissement. Depuis deux ans, la B.E.I. organise une réunion d'information à Paris destinée à renforcer sa notoriété auprès de la place financière de Paris et des entreprises industrielles potentiellement emprunteuses. La Commission européenne a d'autre part chargé un cabinet de conseil d'organiser une série de réunions d'information en Europe pour présenter aux P.M.E. l'appui que pourraient leur fournir les instruments communautaires, dont la B.E.I., dans la perspective du grand marché intérieur de 1992.
