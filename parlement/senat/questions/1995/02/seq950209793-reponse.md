@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950209793
+
+- Question : [SEQ950209793](seq950209793.md) — Allocation de subsistance des personnes handicapées
+
+## Réponse
+
+*Affaires sociales, JO du 1995-03-30, page 748*
+
+Réponse. - L'ensemble des prestations sociales a été revalorisé de 1,2 p. 100 au 1er janvier 1995. Ce taux correspond à la hausse prévisionnelle des prix, hors tabac, soit 1,7 p. 100 déduction faite de l'avance prise par ces prestations en 1994, soit 0,5 p. 100. En effet, le taux de revalorisation appliqué pour 1994 a été de 2 p. 100 alors que la hausse des prix (hors tabacs) n'a été que de 1,5 p. 100. Au total, sur la période couvrant 1994 et 1995, les prestations auront donc évolué comme les prix et le pouvoir d'achat aura été maintenu. S'agissant plus particulièrement de l'allocation aux adultes handicapés, il convient de remarquer que, depuis 1980, cette allocation a progressé plus rapidement que le SMIC net. En effet, le rapport AAH/SMIC net se situe à 66,64 p. 100 au 1er juillet 1994, contre 62,26 p. 100 au 1er janvier 1980. Par ailleurs, l'AAH étant une prestation non contributive, il est difficilement envisageable de la faire évoluer plus favorablement que les prestations contributives qui ont été revalorisées du même pourcentage. Enfin, la question particulière des ressources des personnes handicapées ne peut être dissociée de celle, plus vaste, de notre système de protection sociale, dont le Gouvernement entend bien assurer la pérennisation. Dans ce but, et dans une situation économique très difficile, des mesures de redressement ont déjà été engagées. Elles font appel à l'effort de chacun. Les actions existantes en direction des personnes handicapées représentent, dans ce contexte, un effort de solidarité nationale important qui sera poursuivi dans le même temps que la situation générale évoluera favorablement.
