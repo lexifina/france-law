@@ -1,41 +1,37 @@
 # Article ANNEXE
 
-TABLEAU DES EMPLOIS DES SERVICES EXTÉRIEURS DU MINISTÈRE DES AFFAIRES SOCIALES ET DE L'EMPLOI AFFECTÉS DE LA N.B.I. À COMPTER DU 1er AOÛT 1991
+A compter du 1er août 1995
 
-I. - Responsables des secrétariats particuliers des directeurs régionaux des affaires sanitaires et sociales et du directeur interrégional de la sécurité sociale Antille-Guyane.
+1. Responsables des secrétariats particuliers des directeurs régionaux des affaires sanitaires et sociales.
 
-II. - Secrétaire de la Commission technique d'orientation et de reclassement professionnel (Cotorep).
+2. Secrétaires de la commission technique d'orientation et de reclassement professionnel (COTOREP).
 
-III. - Assistantes sociales, conseillères techniques auprès :
+3. Secrétaires adjoints de la COTOREP.
 
-- des directeurs régionaux des affaires sanitaires et sociales ;
+4. Assistantes de service social, conseillères techniques auprès des directeurs régionaux et des directeurs départementaux des affaires sanitaires et sociales.
 
-- des directeurs départementaux des affaires sanitaires et sociales ;
+5. Assistantes de service social, conseillères techniques auprès des directeurs régionaux et des directeurs départementaux des affaires sanitaires et sociales exerçant des missions Ville.
 
-- de l'administration centrale (une conseillère technique).
+6. Agents chargés de l'accueil général au sein des directions régionales et départementales des affaires sanitaires et sociales.
 
-IV. - Agents chargés de l'accueil général au sein des directions régionales et départementales des affaires sanitaires et sociales.
+7. Emplois d'infirmière au centre de reconduite à la frontière du Mesnil-Amelot.
 
-V. - Emplois d'infirmière au centre de reconduite à la frontière du Mesnil-Amelot.
+8. Secrétaires de la commission départementale de l'éducation spéciale (CDES).
 
-VI. Secrétaires de la commission départementale de l'éducation spéciale (C.D.E.S.).
+9. Secrétaires adjoints de la CDES.
 
-VII. Secrétaires adjoints de la commission départementale de l'éducation spéciale (C.D.E.S.).
+10. Personnels de service social exerçant des missions Ville.
 
-VIII. Secrétaires adjoints de la commission technique d'orientation et de reclassement professionnel (Cotorep).
+11. Personnels administratifs exerçant des missions Ville.
 
-TABLEAU DES EMPLOIS DES SERVICES DECONCENTRES DU MINISTERE DES AFFAIRES SOCIALES, DE LA SANTE ET DE LA VILLE AFFECTES DE LA N.B.I. à COMPTER DU 1ER AOÛT 1993 :
+12. Responsables d'un service de tutelle.
 
-IX. - Assistantes sociales, conseillères techniques auprès des directeurs départementaux des affaires sanitaires et sociales exerçant des missions Ville.
+13. Personnels exerçant des fonctions de documentation.
 
-X. - Personnel de service social exerçant des missions Ville.
+14. Responsables à temps plein d'un service d'accueil de regroupement familial.
 
-XI. - Personnels administratifs exerçant des missions Ville.
+15. Personnels de service social exerçant au sein des COTOREP.
 
-XII. - Responsables d'un service de tutelle.
+16. Personnels de service social chargés des problèmes de l'exclusion.
 
-TABLEAU DES EMPLOIS DES SERVICES DECONCENTRES DU MINISTERE DES AFFAIRES SOCIALES, DE LA SANTE ET DE LA VILLE AFFECTES DE LA N.B.I. à COMPTER DU 1ER AOÛT 1994 :
-
-XIII. - Personnels exerçant des fonctions de documentation.
-
-XIV. - Responsables à temps plein d'un service d'accueil de regroupement familial.
+17. Responsables du secrétariat des tribunaux des affaires de sécurité sociale.
