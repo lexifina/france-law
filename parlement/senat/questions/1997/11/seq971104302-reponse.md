@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971104302
+
+- Question : [SEQ971104302](seq971104302.md) — Contribution sociale généralisée (CSG) et salariés expatriés
+
+## Réponse
+
+*Affaires étrangères, JO du 1998-01-22, page 217*
+
+Réponse. - Le champ d'application de la contribution sociale généralisée (CSG) sur les revenus d'activité ou de remplacement a été fixé par référence au domicile fiscal des redevables, retenu pour l'établissement de l'impôt sur le revenu (article L 136-1 du code de la sécurité sociale). Pour l'application de ces dispositions, il convient de se reporter à l'article 4 B du code général des impôts qui définit en droit interne français le domicile fiscal et aux textes des conventions fiscales conclues par la France qui définissent la résidence. En conséquence : les personnes non-résidentes fiscales de France ne sont pas assujetties au prélèvement de la CSG dès lors qu'elles n'ont plus de domicile fiscal en France ; les salariés expatriés qui restent domiciliés fiscalement en France sont régis par les dispositions prévues par l'article 81 A-3 du code général des impôts ; la totalité de leurs revenus perçus est déclarée en France hormis la fraction de la rémunération liée à l'expatriation. Dans ces conditions et dès lors que leur domiciliation fiscale est en France, les salariés travaillant à l'étranger en tant qu'expatriés ou détachés restent assujettis à la CSG sur le montant de rémunération brute après l'abattement de 5 % représentatif de frais professionnels. Toutefois, le principe de la déductibilité de la CSG ainsi prélevée pour les catégories de revenus imposés au barème progressif est prévu par la loi de financement de la sécurité sociale pour 1998. La majoration de CSG (7,5 %) sera fiscalement déductible à concurrence de 5,1 % ; les 2,4 % de différence étant exclus.
