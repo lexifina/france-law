@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890102990
+
+- Question : [SEQ890102990](seq890102990.md) — Application de la loi n° 88-1088 du 1er décembre 1988 relative au revenu minimum d'insertion aux nationaux de retour de l'étranger
+
+## Réponse
+
+*Solidarité, JO du 1989-04-13, page 605*
+
+Réponse. - Pour bénéficier de l'allocation de revenu minimum d'insertion, l'intéressé doit remplir une demande déclarative faisant apparaître l'ensemble de ses ressources et celles de toute personne composant le foyer pour la période des trois mois précédant le dépôt de sa demande. S'agissant d'une déclaration sur l'honneur, l'intéressé n'a à fournir de pièces justificatives de ses ressources que dans le cadre des contrôles qu'il appartient à l'organisme payeur d'organiser pour s'assurer de la réalité de la situation de l'allocataire. Toutefois, si le demandeur ne bénéficie plus au moment du dépôt de sa demande d'allocation de certains revenus déclarés pour les trois mois précédents, il lui revient de justifier la fin du versement de ses revenus au moyen d'une attestation. S'agissant d'un Français de retour de l'étranger qui rencontrerait des difficultés à se procurer les attestations nécessaires, il lui appartiendra de joindre à sa demande déclarative la preuve qu'il a effectivement sollicité auprès des instances étrangères les documents attestant la fin du versement de ses revenus. Il est rappelé au demeurant à l'honorable parlementaire qu'en application du paragraphe 1.2.2. de la section 3 de la circulaire du 14 décembre 1988 l'envoi du dossier à l'organisme payeur n'est pas conditionné par la production de toutes les pièces justificatives, l'organisme instructeur se chargeant de collecter et d'envoyer ultérieurement les pièces manquantes ; le préfet peut ouvrir droit, à défaut, à une avance ou ajourner le versement de la prestation à la présentation des pièces nécessaires à l'établissement du droit.
