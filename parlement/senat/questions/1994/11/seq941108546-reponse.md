@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941108546
+
+- Question : [SEQ941108546](seq941108546.md) — Diffusion de TV5 en Chine
+
+## Réponse
+
+*Affaires étrangères, JO du 1994-12-29, page 3071*
+
+Réponse. - L'arrivée des images de TV5 en Asie, par le biais de STATSIONAR 12 censé couvrir la seule Afrique, a permis de vérifier l'intérêt manifesté à l'égard de la chaîne francophone dans cette zone. Aussi le sommet des chefs d'Etat francophones d'octobre 1993 à posé le principe de l'extension de TV5 à l'Asie et la dernière conférence des ministres responsables de TV5 qui s'est tenue à Namur, le 15 novembre dernier, a donné mandat aux rexponsables de la chaîne de négocier la montée du signal de TV5 sur un satellite desservant spécifiquement l'Asie, pour le début de l'année 1995. La question de la consolidation de la présence de la chaîne francophone en Asie se pose actuellement dans le cadre d'une conjoncture particulièrement favorable : existence d'options satellitaires, multiplication des offres de programmes mais surtout développement des réseaux câblés qui, après un démarrage très lent sur ce continent, connaissent depuis 1993 une croissance exponentielle. C'est particulièrement le cas en Chine où les réseaux câblés (ou micro-ondes) apparaissent parfois de façon quelque peu désordonnée dans les grandes villes. A cet égard, les premiers contacts pris récemment avec les municipalités qui gèrent les deux principaux réseaux câblés, celle de Pékin et de Shanghaï, par l'expert dépêché par TV5 afin de prospecter le marché chinois, sont très prometteurs. Cette mission a également pu constater l'intérêt très fort des grands hôtels pour la diffusion, en leur sein, d'une chaîne francophone. Les perspectives de diffusion de TV5 en Chine dès que le signal de la chaîne sera disponible sur un satellite, encore à l'étude, desservant spécifiquement l'Asie, sont donc particulièrement encourageantes.
