@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871007868
+
+- Question : [SEQ871007868](seq871007868.md) — Situation de l'entreprise Dassault
+
+## Réponse
+
+*Défense, JO du 1987-12-03, page 1906*
+
+Réponse. -Les niveaux d'activité des grandes sociétés aéronautiques subissent actuellement un tassement sensible, dont les origines sont à rechercher dans la baisse des ventes à l'exportation des avions d'affaires, des avions d'armes et de leurs armements associés. La société Avions Marcel-Dassault - Bréguet Aviation, touchée au même titre que les autres sociétés aéronautiques, rencontre des difficultés d'autant plus aiguës que son activité essentielle concerne un nombre réduit de produits appartenant aux secteurs touchés (Falcon 900 et Mirage 2000). Pour faire face à cette situation, l'entreprise a été conduite à décider un plan d'adaptation de ses potentiels productifs accompagné d'un plan de restructuration industrielle devant permettre à terme d'abaisser les coûts de revient par une meilleure utilisation des moyens de réalisation. Le Gouvernement a présenté au Parlement, comme le sait l'honorable parlementaire qui l'a votée, une loi de programmation qui permettra le redressement des équipements des armées, fâcheusement compromis au cours des années récentes (c'est ainsi qu'en 1982, par exemple, l'armée de l'air n'avait pu commander aucun avion de combat). De même le développement de l'avion de combat, futur dérivé du démonstrateur Rafale, a-t-il été démarré dès 1986, ce qui permet à la société de conserver sa capacité de conception d'avions d'armes performants. En ce qui concerne l'exportation, le Gouvernement s'efforce d'appuyer les efforts de la société, mais son action dans ce domaine ne peut naturellement être décisionnelle. Enfin, plus récemment, à l'occasion d'une négociation d'achat, le ministère de la défense a pu obtenir l'engagement d'un fournisseur étranger de sous-traiter à l'entreprise des marchés significatifs.
