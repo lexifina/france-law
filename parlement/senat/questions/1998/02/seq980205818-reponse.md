@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980205818
+
+- Question : [SEQ980205818](seq980205818.md) — Statut des vendeurs distributeurs à domicile
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 1998-04-30, page 1421*
+
+Réponse. - L'activité de vendeur à domicile permet à de nombreuses personnes de créer leur propre emploi. Elle contribue ainsi indéniablement à la lutte contre le chômage et doit pour cela être encouragée. Toutefois, la législation qui en encadre le fonctionnement ne peut faire l'économie de dispositions qui concilient la grande liberté du vendeur avec la nécessaire protection du consommateur. La souplesse du régime juridique de vendeur à domicile ne doit pas faire obstacle au contrôle de son activité. L'entreprise auprès de laquelle il s'approvisionne doit ainsi pouvoir vérifier la régularité et le montant de ses opérations en procédant à un contrôle systématique de toutes les factures. De même, l'administration doit pouvoir connaître l'ensemble des activités d'une entreprise, y compris celles exercées par des vendeurs indépendants, d'où l'obligation pour ceux-ci de déclarer leur existence, et ce, quelle que soit l'importance du chiffre d'affaires qu'ils réalisent. Malgré l'équilibre que permet le dispositif actuel, certains aspects justifiaient un aménagement afin de réduire les contraintes pesant sur cette branche d'activité. Ainsi, une mesure inscrite au projet de loi portant diverses dispositions d'ordre économique et financier prévoit d'autoriser l'exercice d'une activité commerciale dans un local d'habitation, dès lors que cette activité ne conduit à y recevoir ni clientèle ni marchandises. Cette mesure, préconisée dans le cadre du plan de simplification administrative en faveur des PME présenté par le Gouvernement en décembre dernier, va dans le sens des préoccupations exprimées.
