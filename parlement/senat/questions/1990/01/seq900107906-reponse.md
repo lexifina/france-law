@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900107906
+
+- Question : [SEQ900107906](seq900107906.md) — Protection du titre de psychologue : contenu de l'arrêté
+
+## Réponse
+
+*Éducation, JO du 1990-08-02, page 1720*
+
+Réponse. - La loi n° 85-772 du 25 juillet 1985 portant diverses dispositions d'ordre social a fixé en son article 44-I que " l'usage professionnel du titre de psychologue, accompagné ou non d'un qualificatif, est réservé aux titulaires d'un diplôme, certificat ou titre sanctionnant une formation universitaire fondamentale et appliquée de haut niveau en psychologie préparant à la vie professionnelle et figurant sur une liste fixée par décret en Conseil d'Etat ou aux titulaires d'un diplôme étranger reconnu équivalent aux diplômes nationaux exigés ". Le législateur n'a donc pas entendu réserver l'usage du titre de psychologue aux titulaires du D.E.S.S. (diplômes d'études supérieures spécialisées). La preuve en est que le Conseil d'Etat a émis un avis favorable à l'inscription sur la liste des diplômes, certificats ou titres permettant à leurs titulaires de faire usage professionnel du titre de psychologue non seulement du D.E.S.S., assorti d'un deuxième cycle complet, mais aussi du diplôme d'études approfondies, assorti également d'un deuxième cycle complet ainsi que d'un stage, du diplôme de psychologue du travail délivré par le Conservatoire national des arts et métiers, du diplôme de psychologue du travail délivré par l'école des psychologues praticiens de l'Institut catholique de Paris et du diplôme d'Etat de psychologie scolaire. Le diplôme d'Etat de psychologie scolaire ayant été inscrit sur cette liste, publiée par décret du 22 mars 1990, les futurs titulaires du diplôme ne risquent pas d'être passibles de poursuites et de sanctions pénales. Sur le fond, le ministre de l'éducation nationale est garant de la qualité du niveau de la formation qui sera sanctionnée par le diplôme d'Etat.
