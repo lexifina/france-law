@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990918682
+
+- Question : [SEQ990918682](seq990918682.md) — Institut national de recherche et de sécurité
+
+## Réponse
+
+*Emploi, JO du 2000-08-31, page 3012*
+
+Réponse. - L'inspection générale des affaires sociales a été chargée d'effectuer un contrôle de l'Institut national de recherche et de sécurité pour la prévention des accidents du travail et des maladies professionnelles (INRS) afin d'expertiser les procédures de validation des études et de préciser les conditions permettant au potentiel de compétence de l'institut d'être utilisé au mieux pour améliorer la prévention des risques professionnels. L'inspection générale des affaires sociales a remis son rapport à la ministre de l'emploi et de la solidarité, qui l'a rendu public en janvier 2000 et l'a transmis aux membres du Conseil supérieur de prévention des risques professionnels. L'inspection générale a examiné avec une attention particulière les activités que développe l'INRS dans le domaine de l'expertise sanitaire. Celui-ci doit en effet développer un travail en réseau, notamment par voie de convention, avec l'ensemble des organismes d'expertise afin de participer à l'alerte des pouvoirs publics sur les sujets nécessitant une évolution de la gestion des risques. L'inspection générale préconise une véritable alternance des partenaires sociaux pour la présidence du conseil d'administration ainsi qu'une clarification des relations entre l'Etat et l'INRS pour l'ensemble des missions réalisées tant pour les missions d'assistance technique que pour les travaux réalisés pour le compte de l'Etat. Les recommandations contenues dans ce rapport ont d'ores et déjà donné lieu à une réorganisation au sein de l'INRS. Elles seront examinées par ailleurs dans le cadre des travaux engagés par les partenaires sociaux sur le système français de prévention des risques professionnels.
