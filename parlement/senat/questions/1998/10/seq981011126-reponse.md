@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981011126
+
+- Question : [SEQ981011126](seq981011126.md) — Mission de réflexion sur effets de l'utilisation d'antibiotiques comme additifs dans les aliments pour animaux
+
+## Réponse
+
+*Agriculture, JO du 1998-11-26, page 3782*
+
+Réponse. - Les deux personnalités scientifiques auxquelles les ministères en charge de la santé et de l'agriculture avaient confié une mission de réflexion sur l'utilisation d'antibiotiques comme facteurs de croissance en alimentation animale ont remis leur rapport. Celui-ci recommande notamment d'inciter à une utilisation des antibiotiques en élevage qui soit de mieux en mieux raisonnée et d'éviter des mesures trop radicales qui déstabiliseraient la gestion zootechnique et sanitaire des élevages et entraîneraient un recours incontrôlé à des substances médicamenteuses, telles que l'utilisation massive d'oxyde de zinc apparue en Suède après l'interdiction suédoise de tous les additifs antibiotiques en alimentation animale. Toutefois d'autres éclairages sont également attendus sur la question des antibiorésistances, qui est complexe et qui dépasse largement le domaine de l'élevage. Ainsi, une mission de réflexion plus générale sur les actions à mettre en place pour lutter contre le développement d'antibiorésistances susceptibles d'avoir un impact négatif sur la santé publique est actuellement menée par le directeur du réseau national de santé publique, à la demande du secrétaire d'Etat à la santé. En outre, au niveau communautaire, le comité scientifique directeur à engagé un travail d'évaluation des risques prenant en compte toutes les utilisations d'antibiotiques et qui devrait aboutir à un avis courant 1999. Le ministère de l'agriculture et de la pêche prendra en compte l'ensemble des éléments d'évaluation du risque disponibles pour définir dans l'intérêt de la santé publique les orientations à suivre vis-à-vis de l'utilisation des antibiotiques en élevage.
