@@ -2,9 +2,7 @@
 
 ECHELLE E 1
 
-- Huissier-concierge.
-
-- Préposé.
+- Agent du service intérieur de 1re catégorie.
 
 - Manoeuvre.
 
