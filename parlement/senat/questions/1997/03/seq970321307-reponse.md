@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970321307
+
+- Question : [SEQ970321307](seq970321307.md) — Difficultés rencontrées par les allocataires de l'allocation adultes handicapés
+
+## Réponse
+
+*Travail, JO du 1997-05-22, page 1537*
+
+Réponse. - L'allocation aux adultes handicapés (AAH), revenu minimum garanti par l'Etat à toute personne handicapée, est une prestation non contributive. Il est, dès lors, fondé de subordonner son attribution à une condition de ressources, et de réduire en conséquence l'allocation lorsque le montant des ressources du bénéficiaire et, le cas échéant, de son conjoint ou concubin est supérieur à un plafond. Toutefois, l'appréciation des ressources se fait dans un sens favorable à l'intéressé, l'assiette étant le revenu net catégoriel retenu pour l'établissement de l'impôt sur le revenu. Il s'agit donc des revenus après les abattements normaux de 10 et 20 %, auxquels s'ajoutent les abattements spécifiques aux personnes invalides, lesquelles bénéficient également d'une demi-part supplémentaire lors du calcul du quotient familial. Par ailleurs, le plafond de ressources mis pour l'attribution de l'AAH tient compte de la situation personnelle du bénéficiaire : ce plafond, égal à 40 834 francs à compter du 1er juillet 1996, est en effet doublé lorsque le demandeur est marié ou vit maritalement, et majoré de 50 % par enfant à charge. En outre, la personne handicapée qui exerce une activité professionnelle peut, sous certaines conditions, prétendre à l'allocation compensatrice lorsqu'elle justifie que cette activité lui impose des frais supplémentaires que n'exposerait pas un travailleur valide excerçant la même activité. Enfin, l'honorable parlementaire est informé que ni la suppression de l'abattement de 20 % ni l'imposition des allocations familiales n'entrent dans les intentions actuelles du Gouvernement.
