@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941208894
+
+- Question : [SEQ941208894](seq941208894.md) — Rigidité des méthodes de gestion de la Trésorerie générale pour l'étranger
+
+## Réponse
+
+*Budget, JO du 1995-03-16, page 629*
+
+Réponse. - La possibilité pour les comptables du Trésor pulic de recevoir les dépôts des particuliers s'exerce dans les conditions fixées par la loi monétaire du 28 juin 1928 et n'est pas entièrement soumise aux dispositions de la loi du 24 janvier 1984 relative aux établissements de crédit. En effet, il n'est pas possible pour le Trésor public d'octroyer de crédits aux particuliers. Dans ce contexte, les comptes des particuliers ne peuvent présenter un solde débiteur. Cependant, dans le cadre du devoir de vigilance qui incombe au teneur de compte, il est prévu, à titre exceptionnel, de mettre en oeuvre de façon temporaire des facilités de caisse à l'usage de sa clientèle. Une telle possibilité, qui ne présente en aucune façon les caractéristiques d'un découvert, est accordée sous la responsabilité personnelle du trésorier-payeur général teneur de compte. Par ailleurs, des mesures particulières ont été prises au bénéfice des fonctionnaires servant à l'étranger titulaires d'un compte à la Trésorerie générale pour l'étranger, dans la mesure où ils peuvent effectuer des retraits à concurrence de 6 000 F par période de sept jours glissants (3 000 F en métropole) ainsi que pour les personnels diplomatiques et consulaires à hauteur de leur traitement mensuel. Enfin, à titre exceptionnel, le comptable teneur de compte peut également autoriser ces agents à retirer des sommes supérieures aux montants susmentionnés. La Trésorerie générale pour l'étranger dispose donc des éléments de souplesse nécessaires à la gestion spécifique des comptes des Français expatriés et qui correspondent aux préoccupations de l'honorable parlementaire.
