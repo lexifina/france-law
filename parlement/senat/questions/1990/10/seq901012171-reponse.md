@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901012171
+
+- Question : [SEQ901012171](seq901012171.md) — Accès au concours de conservateur territorial du patrimoine
+
+## Réponse
+
+*Éducation, JO du 1992-05-14, page 1127*
+
+Réponse. - Les statuts particuliers des cadres d'emplois de la filière culturelle de la fonction publique territoriale ont été publiés au Journal officiel de la République française le 4 septembre 1991. Le décret n° 91-839 du 2 septembre 1991 portant statut particulier du cadre d'emplois des conservateurs territoriaux prévoit l'intégration des archivistes de 1re catégorie et celles des archivistes de 2e catégorie dirigeant le service d'archives d'une commune de plus de 50 000 habitants et exerçant leurs fonctions, depuis au moins 6 ans, dans un service départemental situé au chef lieu de la région. Les autres archivistes de 2e catégorie sont intégrés dans le cadre d'emplois des attachés territoriaux de conservation du patrimoine dont l'indice brut terminal, porté à 780, représente un gain de 187 points par rapport à la situation actuelle de ces agents. Ces intégrations tiennent compte des responsabilités exercées et des conditions de recrutement des archivistes communaux de 2e catégorie pour lesquels le diplôme d'archiviste-paléographe n'était pas exigé (cf. arrêté du 22 mai 1969). Il est rappelé que les textes en vigueur exigent depuis 1945 que l'ensemble des conservateurs de musées contrôlés quelle que soit leur catégorie soient recrutés dans des conditions analogues à celles en vigueur pour le recrutement des conservateurs affectés dans des musées nationaux. A ce titre, les conservateurs des musées territoriaux recrutés depuis 1987 doivent être titulaires du diplôme national d'aptitude aux fonctions de conservateur de musée décerné par le ministre chargé de la culture à l'issue d'une formation organisée par l'école du patrimoine. Il n'est pas envisagé actuellement de modifier ces statuts.
