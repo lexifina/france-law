@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970600147
+
+- Question : [SEQ970600147](seq970600147.md) — Prestation compensatoire en cas de divorce
+
+## Réponse
+
+*Justice, JO du 1997-08-21, page 2174*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que l'instauration compensatoire répond à une nécessité, que l'évolution liée à la situation personnelle du bénéficiaire n'amoindrit pas, de régler autant que possible de manière définitive les effets du divorce au moment de son prononcé. Le régime de la prestation compensatoire, en principe non révisable, découle du fondement indemnitaire et du caractère forfaitaire de celle-ci, tels que dégagés par la loi du 11 juillet 1975. Ces principes n'ont pas perdu leur pertinence, la pratique antiérieure en matière de pension alimentaire ayant révélé les graves inconvénients soulevés par les procédures de révision. S'agissant de la transmissibilité de la prestation compensatoire aux héritiers qui n'ont pas renoncé à la succession, elle découle du principe que les dettes du défunt à caractère non strictement personnel, sont supportées par les héritiers. La remise en cause d'une telle obligation serait de nature à modifier en profondeur non seulement la philosophie de la loi de 1975, mais encore les règles du droit successoral, ce qui n'est pas souhaitable. En revanche, le ministère de la justice, conscient que l'évolution du contexte économique peut soulever, dans certaines hypothèses, d'importantes difficultés, a entrepris une réflexion globale sur les conséquences financières du divorce. Les travaux en cours pourraient donner lieu à une réflexion sur l'opportunité de procéder à des aménagements ponctuels des dispositions en vigueur en ce qui concerne les situations les plus délicates sans pour autant remettre en cause les principes directeurs de la réforme de 1975.
