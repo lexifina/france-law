@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880700869
+
+- Question : [SEQ880700869](seq880700869.md) — Situation des commerçants non sédentaires
+
+## Réponse
+
+*Commerce et artisanat, JO du 1988-12-22, page 1459*
+
+Réponse. - Comme le sait l'honorable parlementaire, les commerçants sédentaires sont imposés à la taxe professionnelle sur la valeur locative des biens passibles d'une taxe foncière dont ils peuvent avoir disposition pour l'exercice de leur profession, tels que les garages, remises ou hangars, et sur la valeur locative des emplacements fixes équivalant, en l'espèce, pour le commerçant ambulant ou les forains, au fonds de commerce du commerçant. En raison du caractère itinérant, de leur activité, les professionnels contestent, dans l'établissement de la base imposable, la notion de fixité des emplacements mis à leur disposition. Toutefois, ainsi que l'a précisé le ministre des finances, dans une réponse à une question écrite, parue au Journal officiel du 16 juillet 1984, les commerçants non sédentaires sont réputés disposer d'un emplacement fixe sur un marché, lorsque cet emplacement fait l'objet dun contrat locatif ou lorsque, dans les faits, une place leur est habituellement réservée. La prise en compte de la valeur locative de cet emplacement, dans la base de la taxe professionnelle, correspond donc au caractère permanent de la location et non à son éventuelle fixité topographique. Les impositions qui en découlent tiennent bien évidemment compte du caractère précaire de ces emplacements et de leur durée d'utilisation. Des écarts d'imposition ont toutefois pu être constatés. Ils trouvent leur origine dans les différents taux pratiqués par les communes. Cette question, déjà débattue en commission interministérielle du commerce non sédentaire, ne saurait être dissociée du problème d'ensemble de la taxe professionnelle.
