@@ -1,0 +1,70 @@
+# Délibération portant recommandation relative aux annuaires en matière de télécommunication.
+
+- Nature : Deliberation
+- Type : Recommandation/Lignes directrices
+- Numéro : 97-060
+- Date : 1997-07-08
+- Publication : 2021-09-22
+- NOR : CNIX9702236X
+- État : ABROGE
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017653387
+
+La Commission Nationale de l'Informatique et des Libertés,
+
+Vu la convention du 28 janvier 1981 du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ;
+
+Vu la loi n° 78-17 du 6 janvier 1978 modifiée relative à l'informatique, aux fichiers et aux libertés, ensemble le décret n° 78-774 du 17 juillet modifié pris pour l'application de la loi du 6 janvier 1978 précitée ;
+
+Vu le code des Postes et Télécommunications, ensemble la loi n° 96-659 du 26 juillet 1996 de réglementation de télécommunications et le décret n° 96-1175 du 27 décembre 1996 relatif aux clauses types des cahiers des charges associés aux autorisations attribuées en application des articles L.33-1 et L.34-1 du code des Postes et Télécommunications ;
+
+Considérant que la publication de listes d'abonnés ou d'utilisateurs des réseaux ou services de télécommunications est libre, sous réserve de la protection des droits des personnes concernées ; que les traitements mis en oeuvre aux fins d'établissement de ces listes constituent des traitements automatisés d'informations nominatives au sens de la loi du 6 janvier 1978 ; qu'en conséquence, les dispositions protectrices de la liberté individuelle et de la vie privée prévues par cette loi sont applicables aux listes d'abonnés qui, quelque soit le support sur lequel elles sont éditées (support papier, ou support électronique), sont communément appelées annuaires ;
+
+Considérant que les garanties reconnues à ce jour aux abonnés et aux utilisateurs des réseaux ou services de télécommunications, consistent principalement à offrir la possibilité, d'une part, de s'opposer à ce que les informations nominatives les concernant soient mentionnées dans les listes d'abonnés (liste rouge), d'autre part, d'interdire que ces informations soient utilisées dans des opérations commerciales (listes orange et safran); qu'en outre, la loi du 26 juillet 1996 de réglementation des télécommunications a reconnu aux abonnés le droit de demander, sous certaines conditions, l'inscription incomplète de leur adresse ainsi que l'inscription de la seule initiale de leur prénom dans les listes d'abonnés diffusées ;
+
+Considérant que l'évolution des techniques informatiques et les nouvelles technologies de l'information permettent désormais, d'une part, de rechercher le nom et l'adresse d'un abonné, à partir d'un numéro de téléphone, d'autre part, de rendre accessible par toute personne, quelque soit son lieu de résidence dans le monde, via un réseau international ouvert tel Internet, les données nominatives mentionnées dans un annuaire ; que ces nouveaux traitements doivent être appréciés au regard de leurs éventuelles conséquences sur la vie privée des personnes ;
+
+Sur les annuaires inversés et les services de recherche inversée :
+
+Considérant qu'un annuaire inversé permet d'obtenir les nom et adresse d'un abonné, à partir d'un numéro de téléphone ; que le consentement d'un abonné à figurer dans un annuaire téléphonique ne préjuge pas de son consentement à ce qu'une personne puisse rechercher ses noms et adresse, alors même qu'elle n'aurait connaissance que d'un numéro de téléphone, voire d'une partie d'un numéro de téléphone ;
+
+Considérant, en outre, que la combinaison d'un annuaire inversé avec une facture détaillée ou un autocommutateur téléphonique qui enregistre les numéros de téléphone des abonnés appelés, conduit à divulguer au titulaire de la facture, l'identité et l'adresse de tous les abonnés appelés ;
+
+Considérant que si le recours à un annuaire inversé peut servir des intérêts légitimes, tels que la sauvegarde de la vie humaine ou la sécurité publique, la divulgation du nom et de l'adresse d'un abonné à partir de la seule connaissance d'un numéro de téléphone est de nature à constituer, si elle est opérée à l'égard de personnes n'ayant pas préalablement été mises en mesure de s'opposer par un moyen facile et fiable à ce qu'un tel dispositif soit utilisé à leur égard, une collecte déloyale d'informations nominatives au sens de l'article 25 de la loi du 6 janvier 1978 ;
+
+Sur la diffusion d'annuaires sur un réseau international ouvert :
+
+Considérant que la diffusion de données nominatives sur un réseau international ouvert, tel Internet, comporte des risques inhérents à la structure de ce réseau, tels que leur captation, leur falsification et le détournement de leur finalité ; qu'on ne peut, en raison de ces risques, présumer qu'un abonné figurant dans un annuaire édité en France, consente à ce que les données nominatives le concernant, même s'il en a limité l'inscription ou l'utilisation, soient diffusées au niveau international ;
+
+Considérant en particulier que la possibilité technique pour tout utilisateur Internet de télédécharger les données diffusées sur le réseau, accroît les risques de détournement de finalité du traitement de ces informations ; qu'ainsi, la protection particulière garantie par la loi française aux abonnés qui s'opposent à toute utilisation commerciale des données les concernant, pourrait perdre tout effet, surtout lorsque l'accès à ces informations s'opérera depuis le territoire d'un Etat n'assurant pas aux données personnelles une protection adéquate ;
+
+Considérant qu'il résulte, tant de la convention 108 du 28 janvier 1981 du Conseil de l'Europe que de la directive adoptée le 25 octobre 1995 par le Conseil et le Parlement européen sur la protection des données personnelles et la libre circulation de ces données que les flux transfrontières de données ne peuvent, en principe, avoir lieu qu'en direction d'un Etat assurant un niveau de protection adéquat ;
+
+Considérant que la CNIL recommande, de manière générale, que lorsque des données nominatives sont diffusées sur Internet, les personnes concernées soient clairement informées des risques inhérents à la nature de ce réseau et de leur droit de s'opposer à une telle diffusion, préalablement à celle-ci et ultérieurement à tout moment ; que cette recommandation s'impose avec d'autant plus de force que les abonnés au téléphone ne sont pas tous utilisateurs d'un réseau international ouvert tel Internet;
+
+Sur la garantie effective du respect des droits des personnes :
+
+Considérant que les éditeurs de listes d'abonnés doivent assurer l'application effective de ces droits par la mise en oeuvre de procédés permettant à tout utilisateur de ces listes le repérage immédiat des abonnés ayant interdit l'utilisation commerciale des données nominatives les concernant, celui des abonnés s'étant opposés à ce que les informations nominatives les concernant soient diffusées sur un réseau international ouvert, ainsi que celui des abonnés s'étant opposés au traitement des données nominatives les concernant par un service de recherche inversée ou d'annuaire inversé ;
+
+Considérant que la présente recommandation vise à assurer aux personnes concernées des droits et des garanties identiques, quelque soit le fournisseur de ces services ;
+
+RAPPELLE
+
+- que les services d'annuaire inversé et de recherche inversée constituent des traitements automatisés d'informations nominatives au sens de l'article 5 de la loi du 6 janvier 1978 ; que ces traitements doivent faire l'objet de demandes d'avis ou de déclarations ordinaires spécifiques ;
+
+- que la diffusion sur un réseau international ouvert tel Internet de listes d'abonnés ou d'utilisateurs des réseaux ou services de télécommunications, doit être soumise à la CNIL en application des articles 24 de la loi du 6 janvier 1978 et 12 de la Convention n° 108 du 28 janvier 1981 du Conseil de l'Europe ;
+
+RECOMMANDE
+
+- que les abonnés soient clairement et préalablement informés par les éditeurs de services de recherche inversée ou d'annuaires inversés de l'éventualité que leur numéro de téléphone figure dans un service d'annuaire inversé accessible à tout public ;
+
+- que les abonnés puissent s'opposer, hors les cas justifiés par la sauvegarde de la vie humaine ou la sécurité publique, préalablement, gratuitement et sans avoir à indiquer de motif, ainsi qu'ultérieurement à tout moment, à l'utilisation de leur numéro de téléphone dans un service de recherche inversée ou d'annuaire inversé ;
+
+RECOMMANDE
+
+- que les abonnés soient clairement et préalablement informés par les éditeurs d'annuaires sur Internet, des risques inhérents à la diffusion sur un réseau international ouvert des données les concernant ;
+
+- que les abonnés puissent s'opposer gratuitement et sans avoir à indiquer de motif, ainsi qu'ultérieurement à tout moment, à la diffusion sur un réseau international ouvert des données les concernant ;
+
+RECOMMANDE - que les éditeurs de listes d'abonnés assurent l'application effective des droits et des garanties conférés aux abonnés par la mise en oeuvre de procédés permettant à tout utilisateur de ces listes le repérage immédiat des abonnés ayant interdit l'utilisation commerciale des données nominatives les concernant, celui des abonnés s'étant opposés à ce que les informations nominatives les concernant soient diffusées sur un réseau international ouvert, ainsi que celui des abonnés s'étant opposés au traitement des données nominatives les concernant par un service de recherche inversée ou d'annuaire inversé.
+
+Le Président, Jacques FAUVET.
