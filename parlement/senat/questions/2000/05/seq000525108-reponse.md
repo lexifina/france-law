@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000525108
+
+- Question : [SEQ000525108](seq000525108.md) — Desserte aérienne de Strasbourg
+
+## Réponse
+
+*Équipement, JO du 2000-10-19, page 3583*
+
+Réponse. - Le gouvernement français est conscient des difficultés que rencontrent certains parlementaires pour accéder à Strasbourg lors des sessions plénières du Parlement européen. Il est rappelé que la décision d'ouverture ou de fermeture d'une liaison intracommunautaire est désormais du seul ressort des transporteurs aériens. D'ores et déjà Strasbourg est reliée à la plupart des autres grandes villes européennes. Pour autant, depuis plusieurs années le gouvernement français ne ménage pas ses efforts pour améliorer la desserte aérienne régulière de Strasbourg en utilisant les possibilités offertes par le règlement communautaire nº 2408/92 du 23 juillet 1992 concernant l'accès des transporteurs aériens communautaires aux liaisons aériennes intracommunautaires. En avril 1998, des obligations de service public ont ainsi été imposées sur cinq liaisons au départ de Strasbourg. Les appels d'offres lancés pour les liaisons vers Dublin et Lisbonne ayant été infructueux, seules trois liaisons sont aujourd'hui exploitées avec compensation financière : Copenhague, Milan et Vienne. Les conventions de délégation de service public arrivant prochainement à échéance, le gouvernement français a souhaité interroger directement les parlementaires sur leurs besoins réels et leurs attentes en matière de desserte aérienne pour se rendre au siège du Parlement. En accord avec la présidente du Parlement européen, un questionnaire a été diffusé en juin à chaque député européen. L'analyse des réponses apportées à ce questionnaire aidera la France à mettre en uvre des mesures adaptées et efficaces pour améliorer la desserte aérienne du Parlement de Strasbourg.
