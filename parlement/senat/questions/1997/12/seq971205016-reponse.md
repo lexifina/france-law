@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971205016
+
+- Question : [SEQ971205016](seq971205016.md) — Montant des rentes viagères
+
+## Réponse
+
+*Économie, JO du 1998-02-19, page 577*
+
+Réponse. - La loi de finances initiale de 1996 a prévu un maintien du niveau de la majoration atteint en 1995 pour les rentes résultant de contrats souscrits ou d'adhésions reçues avant le 1er janvier 1987 et visées par le titre 1er de la loi no 48-777 du 4 mai 1948, portant majoration des rentes viagères de l'Etat, par les titres I et II de la loi no 49-1098 du 2 août 1949, portant révision de certaines rentes viagères constituées par les compagnies d'assurances, par la Caisse nationale des retraites pour vieillesse ou par des particuliers moyennant l'aliénation de capitaux en espèces et par l'article 8 de la loi no 51-695 du 24 mai 1951. En effet, le dispositif des majorations légales a été mis en place immédiatement après guerre pour lutter contre l'érosion monétaire. Après maîtrise de celle-ci, le dispositif n'avait plus de raison d'évoluer. Ce constat était d'autant plus justifié que les taux d'intérêts réels positifs permettent aux sociétés d'assurance de distribuer des participations aux bénéfices qui compensent largement l'inflation, au demeurant faible. Suivant cette logique, les rentes viagères constituées entre particuliers ou à la suite d'un préjudice et celles servies aux anciens combattants ne bénéficiant pas de ces compensations continuent à faire l'objet de revalorisations légales. Le maintien du niveau de majoration atteint en 1995 est également justifié par des raisons d'équité. En effet, les assurés ayant souscrit des contrats depuis 1987 sont exclus du système des majorations légales : la revalorisation des majorations pour les rentes antérieures à 1987 constituait une distorsion des traitements individuels injustifiée, s'accroissant d'année en année.
