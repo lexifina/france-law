@@ -10,9 +10,9 @@ Le champ d'application de la convention collective, conformément à la nomencla
 
 - l'ingénierie (études portant sur un programme complet, assorties de la maîtrise d'oeuvre).
 
-Il comprend aussi les activités de contrôle et de vérifications techniques (1). Il ne comprend pas les activités marchandes de recherche.
+Il ne comprend pas les activités marchandes de recherche.
 
-Il correspond à l'ancien groupe de la nomenclature I.N.S.E.E. 802-2, édition 1-131-1959.
+Les cabinets d'études ayant une activité de contrôle et de vérifications techniques ne relèvent du champ d'application de la présente convention qu'après adhésion volontaire.
 
 7702 Cabinets d'études économiques et sociologiques : ce groupe comprend les entreprises d'enquêtes, études de marchés, conseils en organisation.
 
