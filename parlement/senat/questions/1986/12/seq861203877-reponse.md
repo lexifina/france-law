@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861203877
+
+- Question : [SEQ861203877](seq861203877.md) — Réforme des conseils de prud'hommes
+
+## Réponse
+
+*Affaires sociales, JO du 1987-03-26, page 447*
+
+Réponse. -Le fonctionnement harmonieux des conseils de prud'hommes constitue un des soucis premiers du ministre des affaires sociales et de l'emploi, dans l'intérêt même de l'ensemble des justiciables. La loi votée par le Parlement et promulguée le 30 décembre 1986, tout en permettant au juge prud'homal de statuer plus rapidement en matière de licenciement économique, ne remet pas en cause les structures actuelles des conseils de prud'hommes et la compétence des sections et ne crée pas de délai de forclusion. La loi prévoit en effet que, là où sont mises en place des chambres au sein des sections spécialisées des conseils, l'une de ces chambres sera particulièrement compétente pour connaître des litiges nés du licenciement pour motif économique. Cette chambre, ou la section elle-même en l'absence de chambre, devra statuer sur ces litiges en urgence. La loi prévoit, pour faciliter le bon déroulement de la procédure, que l'employeur devra rapidement communiquerau juge, dans les litiges nés d'un licenciement collectif pour motif économique, les informations qu'il aura déjà fournies aux représentants du personnel dans le cadre de leur consultation préalable au licenciement. Le regroupement des affaires agricoles dans une section agriculture unique dans le ressort de chaque tribunal de grande instance, compte tenu du faible nombre d'affaires traitées par l'ensemble de ces sections, permettra, en outre, une répartition nouvelle sur les secteurs les plus chargés, de près de six cents postes de conseillers. Par ailleurs, différentes autres mesures ponctuelles sont mises en place afin de faciliter l'efficacité des conseils et un déroulement le plus rapide possible des prodécures devant ces juridictions.
