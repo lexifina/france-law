@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860702341
+
+- Question : [SEQ860702341](seq860702341.md) — Accroissement des erreurs d'affectation dans la distribution du courrier
+
+## Réponse
+
+*Postes et télécommunications, JO du 1986-09-18, page 1324*
+
+Réponse. -Les anomalies dont fait état l'honorable parlementaire sont certainement liées à l'existence, dans sa circonscription, de deux communes voisines, Tonnay-Boutonne et Tonnay-Charente, et aux confusions que peut occasionner la similitude de leurs noms. En effet, il a été constaté que des lettres destinées à la première parviennent à la seconde et vice versa. Ces fausses directions sont imputables, d'une part, aux expéditeurs qui indiquent le code d'une localité et le nom de l'autre, d'autre part, à des erreurs d'enliassage ou d'ensachage des correspondances dans les services assurant le tri par bureau distributeur du département de la Charente-Maritime. La multiplication des erreurs dont il est fait état, ne peut être due qu'à un concours de circonstances, aucun fait particulier ne pouvant expliquer un accroissement au cours de ces derniers mois, du nombre de ces anomalies. C'est précisément pour accélérer le traitement des objets ayant subi une erreur d'acheminement qu'une nouvelle procédure consistant à apposer la mention " parvenu en fausse direction " a été mise en oeuvre au plan régional. Cependant cette mention destinée aux services aurait normalement dû être apposée sur les étiquettes de liasse et non sur les objets eux-mêmes, ce qui laisse croire à une dégradation de la qualité des prestations par rapport à la procédure antérieure. Un rappel a été adressé aux services pour qu'il soit remédié aux erreurs d'acheminement constatées. La diminution de ce type d'anomalies fait d'ailleurs partie de l'ensemble des actions mises en oeuvre, au plan national, dans le cadre de l'amélioration de la qualité du service du courrier.
