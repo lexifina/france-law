@@ -1,6 +1,6 @@
-# Article ANNEXE
+# Article ANNEXE I
 
-CONTRAT-TYPE DE PARTICIPATION AU SERVICE PUBLIC D'ÉDUCATION ET DE FORMATION DES ÉTABLISSEMENTS D'ENSEIGNEMENT AGRICOLE PRIVÉS À TEMPS PLEIN MENTIONNÉS À L'ARTICLE 4 DE LA LOI N° 84-1285 DU 31 DÉCEMBRE 1984
+CONTRAT-TYPE DE PARTICIPATION AU SERVICE PUBLIC D'EDUCATION ET DE FORMATION DES ETABLISSEMENTS D'ENSEIGNEMENT AGRICOLE PRIVES A TEMPS PLEIN MENTIONNES A L'ARTICLE 4 DE LA LOI N° 84-1285 DU 31 DECEMBRE 1984
 
 Entre le ministre de l'agriculture et de la forêt, ou son délégué, (monsieur) (madame) , d'une part,et (monsieur) (madame) , président oureprésentant de (l'association ou l'organisme) responsable de (l'établissement),d'autre part,
 
@@ -20,7 +20,7 @@ Pour assurer la charge d'enseignement correspondant à ces formations et classes
 
 Article 3
 
-Toute extension, réduction ou modification du secteur pédagogique fera l'objet d'un avenant au présent contrat.
+Toute extension, réduction ou modification du secteur pédagogique sous contrat fera l'objet d'un avenant au présent contrat.
 
 Article 4
 
@@ -40,7 +40,9 @@ L'autorité administrative peut s'opposer à cette désignation lorsque le candi
 
 Tout changement de chef d'établissement sera soumis à la même procédure.
 
-En cas d'absence prolongée du chef d'établissement, l'association ou l'organisme responsable désigne un suppléant, répondant aux conditions de titres exigées, dont elle communique le nom au directeur régional de l'agriculture et de la forêt.
+En cas d'absence prolongée du chef d'établissement, l'association ou l'organisme responsable désigne un suppléant, répondant aux
+
+conditions de titres exigées, dont elle communique le nom au directeur régional de l'agriculture et de la forêt.
 
 Article 7
 
@@ -104,9 +106,15 @@ Annexe IV. - Plan de formation des enseignants contractuels.
 
 Annexe V. - Montant des contributions et des redevances demandées aux familles.
 
+Article 13-1
+
+Lors de la signature du présent contrat, l'association ou l'organisme doit notifier au directeur régional de l'agriculture et de la forêt le nom de l'institution de retraite complémentaire dont elle a fait choix pour les enseignants contractuels de l'établissement et fournir les justificatifs correspondants.
+
 Article 14
 
-Le président de l'association ou de l'organisme s'engage à faire connaître au directeur régional de l'agriculture et de la forêt, dans le mois qui la suit, toute modification se rapportant aux points 1°, 3°, 4°, 5° et 6° de l'article 2 du décret n° 88-922 du 14 septembre 1988, accompagnée des justificatifs correspondants. Au vu de la modification déclarée, le ministre ou son délégué peut mettre en demeure l'association ou l'organisme de demander la passation d'un avenant au contrat et, le cas échéant, peut prononcer la résiliation unilatérale partielle ou totale du contrat.
+Le président de l'association ou de l'organisme s'engage à faire connaître au directeur régional de l'agriculture et de la forêt, dans le mois qui la suit, toute modification se rapportant aux points 1°, 3°, 4°, 5° et 6° de l'article 2 du décret n° 88-922 du 14 septembre 1988, accompagnée des justificatifs correspondants.
+
+Au vu de la modification déclarée, le ministre ou son délégué peut mettre en demeure l'association ou l'organisme de demander la passation d'un avenant au contrat et, le cas échéant, peut prononcer la résiliation unilatérale partielle ou totale du contrat.
 
 Toutefois tout changement de la localisation principale de l'établissement ou de ses annexes éventuelles doit faire l'objet de la passation préalable d'un avenant au présent contrat.
 
