@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021204474
+
+- Question : [SEQ021204474](seq021204474.md) — Incrustations publicitaires lors d'émissions télévisées
+
+## Réponse
+
+*Culture, JO du 2003-03-13, page 864*
+
+L'honorable parlementaire appelle l'attention du ministre de la culture et de la communication sur les incrustations publicitaires lors des émissions télévisées, notamment à l'occasion de la retransmission de la finale du tournoi de tennis de Bercy du 3 novembre 2002. Lors des éditions 2000 et 2001 de la finale de l'Open de Bercy, des incrustations publicitaires non conformes à la réglementation ont été insérées dans un programme dont la maîtrise de la réalisation échappait au diffuseur France 3. Le Conseil supérieur de l'audiovisuel avait interpellé la chaîne, qui s'est engagée à ce que figure dans le contrat qui la lie au producteur des images une mention explicite interdisant d'ajouter sur son signal toute mention ou publicité contraire à la réglementation française. En 2002, le Conseil supérieur de l'audiovisuel a fait preuve d'une vigilance particulière et n'a pas constaté d'infraction à la réglementation en matière de publicité. Il convient de souligner que la majorité des incrustations publicitaires constitue des rappels de parrainage prévus par l'article 18-IV du décret n° 92-280 du 27 mars 1992. Aux termes de cet article " au cours de l'émission parrainée et dans les bandes-annonces, la mention du parrain n'est possible que dans la mesure où elle reste ponctuelle et discrète... ". Le Conseil supérieur de l'audiovisuel, lorsqu'il contrôle l'application de cette réglementation, considère comme ponctuelle une apparition qui n'excède pas cinq secondes et qui est séparée d'une autre apparition du parrain par un intervalle minimum de dix minutes, lors des retransmissions sportives notamment. Ce type d'incrustation est donc conforme à la réglementation en matière de publicité dont le respect est assuré par le Conseil supérieur de l'audiovisuel.
