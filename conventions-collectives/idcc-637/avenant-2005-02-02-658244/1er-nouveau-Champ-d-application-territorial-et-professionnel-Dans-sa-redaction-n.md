@@ -1,0 +1,23 @@
+# Article 1er (nouveau) Champ d'application territorial et professionnel (Dans sa rédaction nouvelle résultant de l'avenant en date du 5 janvier 2005)
+
+La présente convention collective de travail est conclue dans le cadre des dispositions des articles L. 132-1 et suivants du code du travail.
+
+Elle règle, sur le territoire national y compris les DOM, les rapports et conditions de travail entre employeurs et salariés dans les entreprises exerçant, à titre principal, une ou plusieurs des activités de valorisation des déchets ainsi définies :
+
+a) Entrent dans le champ d'application de la convention collective des industries et commerces de récupération et de recyclage les activités décrites au b ci-dessous exercées sur les matières, les matériaux et les déchets non dangereux ne provenant pas des ménages. Sont donc notamment exclus les déchets dangereux, les déchets organiques et les déchets provenant des ménages ;
+
+b) Entrent dans le champ d'application de cette même convention, dès lors qu'elles sont exercées sur les matières, matériaux et/ ou déchets décrits au a ci-dessus, les opérations pratiquées sur les matières, matériaux et/ ou déchets décrits au a ci-dessus en vue de leur traitement (notamment démolition, préparation, triage, compactage, broyage) et visant :
+
+1. Soit leur valorisation et finalement leur recyclage sous une forme ou sous une autre ;
+
+2. Soit la commercialisation (avec ou sans prise en charge du transport) ou le négoce des matières, matériaux et/ ou déchets décrits au a ci-dessus.
+
+Pour les seules activités de tri et de commercialisation, entrent également dans le champ d'application de cette convention les déchets d'emballages et les biens d'équipement usagés provenant des ménages.
+
+Entrent également dans le champ d'application de cette même convention, dès lors qu'elles sont accessoires aux activités principales décrites au b ci-dessus, les activités suivantes exercées sur les matières, matériaux et/ ou déchets décrits au a ci-dessus :
+
+1. La collecte, l'enlèvement et l'acheminement dès lors que ces activités sont réalisées par l'entreprise en amont de ses activités de recyclage ;
+
+2. Tout ou partie des services et activités (y compris le transport pour la revente) qui concourent à remettre sur le marché les matières, matériaux et/ ou déchets valorisés dès lors que ces services et activités sont réalisés par l'entreprise en aval de ses activités de recyclage sur les matières, matériaux et/ ou déchets visés en a ci-dessus ;
+
+c) Les entreprises exerçant une activité décrite au b, exercée sur les matières, matériaux et/ ou déchets décrits au a ci-dessus qui, à la date de signature du présent protocole d'accord, appliquent la convention collective nationale des activités du déchet, continuent à l'appliquer.
