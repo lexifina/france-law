@@ -1,0 +1,10 @@
+# Toulouse métropole : délibération — Emprunts à long terme - modif délib 28/06/02 (Crédit Agricole Indosuez)
+
+- Collectivité : Toulouse métropole
+- SIREN : 243100518
+- Date : 2002-10-25
+- Nature : Délibération
+- Séance : conseil
+- Objet : Emprunts à long terme - modif délib 28/06/02 (Crédit Agricole Indosuez)
+- Acte publié : http://deliberations.toulouse.fr/data/archive/doc561.pdf
+- Jeu de données : https://www.data.gouv.fr/datasets/5d2808999ce2e75655f50c0d
