@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040511945
+
+- Question : [SEQ040511945](seq040511945.md) — Avenir des productions agricoles françaises dans la perspective d'un accord de libre-échange entre l'Union européenne et le Mercosur
+
+## Réponse
+
+*Agriculture, JO du 2004-10-28, page 2461*
+
+L'objectif de la France dans cette négociation est en effet de parvenir à un accord équilibré sans que celui-ci porte atteinte à ses intérêts. Les autorités françaises ont clairement réaffirmé ce message lors du IIIe sommet Union européenne - Amérique latine de Guadalajara, le 28 mai 2004, aussi bien à la Commission européenne qu'aux négociateurs du Mercosur. Lors du XIVe cycle de négociation qui s'est tenu à Buenos Aires du9 au 11 juin 2004, la Commission a procédé à un échange d'offres tarifaires. L'offre communautaire prévoit toutefois d'importantes conditions pour être effective : la première d'entre elles est le principe d'une " poche unique " entre les concessions bi-régionales et les engagements qui pourront être pris dans le cadre des négociations multilatérales de l'Organisation mondiale du commerce afin d'éviter que l'Union européenne ne " paye deux fois " ; la deuxième est un principe de réciprocité. La suspension des négociations lors du XIVe cycle face au déséquilibre des offres sur la table témoigne du respect de ces principes par la Commission. Les concessions envisagées ne devront pas remettre en cause la politique agricole commune ni les réformes adoptées à Luxembourg le 26 juin 2003. Pour la viande bovine, en particulier pour le Hilton Beef, les concessions envisagées par la Commission seront appréciées avec une grande vigilance par les autorités françaises, comme pour tous les produits sensibles, afin que la Commission européenne préserve efficacement le marché européen d'une concurrence excessive.
