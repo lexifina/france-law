@@ -1,0 +1,9 @@
+# Réponse à la question SEQ891107012
+
+- Question : [SEQ891107012](seq891107012.md) — Conditions d'attribution de la médaille d'honneur régionale, départementale et communale
+
+## Réponse
+
+*Intérieur, JO du 1990-01-11, page 77*
+
+Réponse. - La création, par le décret n° 87-594 du 22 juillet 1987, de la médaille d'honneur régionale, départementale et communale, en remplacement de la médaille d'honneur départementale et communale, avait principalement pour objet, d'une part, d'étendre son bénéfice aux élus locaux et fonctionnaires des régions, d'autre part, d'insérer, parmi les critères d'attribution, sur la notion de dévouement au service des collectivités locales. Dans une telle conception, souhaitée en particulier par la grande chancellerie de la Légion d'honneur, et par analogie avec les règles applicables aux deux ordres nationaux comme à la plupart des médailles d'honneur, il est logique que chaque échelon ne soit attribué que par progression. C'est toutefois pour tenir compte de la situation des élus titulaires de mandats électifs depuis de très nombreuses années qu'il a, par circulaire, été précisé aux préfets que le délai devant séparer l'attribution de chaque échelon serait d'un an. Par ailleurs, les conditions d'ancienneté requises pour l'obtention de cette médaille d'honneur ayant été réduites, il est apparu nécessaire de maintenir un délai limite d'attribution de cinq ans après la cessation des fonctions. Cette décoration comportant trois échelons (argent, vermeil et or), la suppression de ce délai se traduirait en effet par un nombre important de candidatures, notamment à une promotion soit à l'échelon vermeil soit à l'échelon or, qui ne seraient justifiées, dans le cas de personnes retraitées depuis de nombreuses années, que par la seule réduction des conditions d'ancienneté de services.
