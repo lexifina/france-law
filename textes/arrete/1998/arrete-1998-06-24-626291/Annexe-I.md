@@ -416,6 +416,16 @@ Fibre de cellulose régénérée obtenue par un procédé de dissolu­tion et de
 
 |
 
+33a
+
+|
+
+Polylactide.
+
+|
+
+Fibre formée de macromolécules linéaires présentant dans la chaîne au moins 85 % (en masse) d'unités d'esters d'acide lactique obtenus à partir de sucres naturels et dont la température de fusion est d'au moins 135 °C. |
+
 34
 
 |

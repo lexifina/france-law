@@ -438,6 +438,16 @@ Lyocell
 
 |
 
+33a
+
+|
+
+Polylactide |
+
+1,50
+
+|
+
 34
 
 |
