@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920621682
+
+- Question : [SEQ920621682](seq920621682.md) — Enquête menée par le FNDAE auprès des communes rurales
+
+## Réponse
+
+*Agriculture, JO du 1992-09-10, page 2058*
+
+Réponse. - La mise en place du huitième inventaire de l'alimentation en eau potable et du sixième inventaire de l'assainissement s'est déroulée en cinq phases. Première phase : le questionnaire a été établi de façon conjointe par la direction de l'espace rural et de la forêt (DERF) et la sixième section du conseil général du génie rural des eaux et des forêts. Deuxième phase : ce questionnaire ainsi établi a été proposé à l'approbation du président de l'assemblée des présidents des conseils généraux (APCG). Troisième phase : l'envoi du questionnaire et des instructions a été effectué par les services de la DERF vers les préfectures de département, les directions départementales de l'agriculture et de la forêt et par les services de l'APCG vers les conseils généraux. Les instructions transmises n'imposaient pas un mode d'investigation précis quant à la recherche sur le terrain des données demandées. La seule obligation était de retourner le questionnaire conjointement signé par le préfet et le président du conseil général. Quatrième phase : les questionnaires retournés ont été critiqués par les services de la DERF et du conseil général du GREF. Tous les départements ont fait l'objet d'une ou de plusieurs demandes de corrections, effectuées par les DDAF et les conseils généraux. Cinquième phase : actuellement la DERF et la sixième section du conseil général du GREF établissent la synthèse définitive de ces inventaires. Un document de grande diffusion comportant cartes, tableaux et commentaires sera disponible au début de l'année 1993. Une synthèse provisoire a déjà été distribuée aux membres du comité du Fonds national pour le développement des adductions d'eau (FNDAE) en février 1992.
