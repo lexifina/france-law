@@ -2,40 +2,88 @@
 
 a) Fascicules communs aux marchés de travaux publics et aux marchés de travaux de bâtiment.
 
-3, Fourniture de liants hydrauliques : n° 64-1380 du 31 décembre 1964, modifié par le décret n° 68-1003 du 24 octobre 1968.
+NUMERO DE FASCICULE : 4, titre 1er
 
-4, titre Ier, Acier pour béton armé : n° 67-856 du 11 septembre 1967.
+OBJET : Acier pour béton armé
 
-65, Exécution des ouvrages et constructions en béton armé :
+REFERENCE DE PUBLICATION : Numéro spécial 68-3 quater du B.O.T.P..
 
-n° 69-346 du 21 mars 1969.
+NUMERO DE FASCICULE : 65
+
+OBJET : Exécution des ouvrages et constructions en béton armé.
+
+REFERENCE DE PUBLICATION : Numéro spécial 69-15 ter du B.O.E.L..
 
 b) Fascicules spécifiques aux marchés de travaux publics.
 
-23, Fourniture de granulats employés à la construction et à l'entretien des chaussées : n° 66-595 du 15 juin 1966.
+NUMERO DE FASCICULE : 24
 
-24, Fourniture de liants hydrocarbonés employés à la construction et à l'entretien des chaussées : n° 67-856 du 11 septembre 1967.
+OBJET : Fourniture de liants hydrocarbonés employés à la construction et à l'entretien des chaussées.
 
-26, Exécution des enduits superficiels : n° 74-711 du 27 juin 1974.
+REFERENCE DE PUBLICATION : T.I.G. n° 67-170.
 
-29, Construction et entretien des chaussées pavées : n° 69-934 du 19 septembre 1969.
+NUMERO DE FASCICULE : 26
 
-31, Bordures et caniveaux en pierres ou en béton : n° 69-934 du 19 septembre 1969.
+OBJET : Exécution des enduits superficiels.
 
-32, Construction de trottoirs : n° 69-934 du 19 septembre 1969.
+REFERENCE DE PUBLICATION : Numéro spécial 74-76 bis du B.O.E.L. Brochure n° 2003 des Journaux officiels.
 
-61, titre V, Conception et calcul des ponts et constructions métalliques en acier : n° 72-667 du 4 juillet 1972, modifié par le décret n° 77-647 du 22 juin 1977.
+NUMERO DE FASCICULE : 29
 
-63, Confection et mise en oeuvre des bétons non armés, confection des mortiers : n° 70-28 du 7 janvier 1970.
+OBJET : Construction et entretien des chaussées pavées.
 
-64, Travaux de maçonnerie : n° 70-28 du 7 janvier 1970.
+REFERENCE DE PUBLICATION : Numéro spécial 70-91 bis du B.O.E.L. Brochure n° 2003 des Journaux officiels.
 
-66 Chapitres Ier, II, IV, V et VI, Exécution des ponts et autres ossatures métalliques de technique analogue : n° 67-371 du 26 avril 1967.
+NUMERO DE FASCICULE : 31
 
-68, titre Ier, Exécution des travaux de fondation d'ouvrages :
+OBJET : Bordures et caniveaux en pierre ou en béton.
 
-n° 66-781 du 30 septembre 1966.
+REFERENCE DE PUBLICATION : Numéro spécial 70-91 bis du B.O.E.L..
 
-68, titre II, Exécution des travaux en souterrain : n° 69-346 du 21 mars 1969.
+NUMERO DE FASCICULE : 32
 
-72, Oléoducs et gazoducs : n° 68-1003 du 24 octobre 1968.
+OBJET : Constructions de trottoirs.
+
+REFERENCE DE PUBLICATION : Numéro spécial 70-91 bis du B.O.E.L..
+
+NUMERO DE FASCICULE : 61, titre V
+
+OBJET : Conception et calcul des ponts et constructions métalliques en acier.
+
+REFERENCE DE PUBLICATION : Brochure n° 1385 des Journaux officiels.
+
+NUMERO DE FASCICULE : 63
+
+OBJET : Confection et mise en oeuvre des bétons non armés, confection des mortiers.
+
+REFERENCE DE PUBLICATION : Brochure n° 1352 des Journaux officiels.
+
+NUMERO DE FASCICULE : 64
+
+OBJET : Travaux de maçonnerie.
+
+REFERENCE DE PUBLICATION : Brochure n° 1352 des Journaux officiels.
+
+NUMERO DE FASCICULE : 66, chapitres 1er, II, IV, V et VI.
+
+OBJET : Exécution des ponts et autres ossatures métalliques de technique analogue.
+
+REFERENCE DE PUBLICATION : Brochure n° 1297 des Journaux officiels.
+
+NUMERO DE FASCICULE : 68, titre 1er.
+
+OBJET : Exécution des travaux de fondation d'ouvrages.
+
+REFERENCE DE PUBLICATION : Numéro spécial 67-12 bis du B.O.T.P..
+
+NUMERO DE FASCICULE : 68, titre II.
+
+OBJET : Exécution des travaux en souterrain.
+
+REFERENCE DE PUBLICATION : Numéro spécial 69-15 quater du B.O.E.L.. Brochure n° 1329 des Journaux officiels.
+
+NOTA :
+
+NOTA - Les numéros spéciaux des B.O.T.P. et B.O.E.L., les brochures et le T.I.G. sont en vente à la direction des Journaux officiels, 26, rue Desaix, 75732 Paris CEDEX 15 (téléphone :
+
+578-61-39).
