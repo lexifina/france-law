@@ -1,3 +1,0 @@
-# Article 9 bis
-
-Lorsqu'un salarié assure divers emplois, son salaire ne devra pas être inférieur au salaire plancher de l'emploi le mieux rétribué.

@@ -1,9 +1,0 @@
-# Article 14 ter
-
-Le personnel employé à des activités ponctuelles est dénommé personnel vacataire.
-
-1. Toute vacation est calculée sur une base minimale forfaitaire égale à deux heures.
-
-2. Chacune de ces heures est rémunérée suivant le coefficient de l'emploi considéré de la grille des salaires.
-
-3. Si le vacataire n'est pas informé dans un délai de vingt-quatre heures de l'annulation de la vacation, cette vacation est due dans les mêmes conditions que prévues.
