@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970903037
+
+- Question : [SEQ970903037](seq970903037.md) — Effort de recherche au bénéfice des énergies renouvelables les plus rentables
+
+## Réponse
+
+*Aménagement du territoire, JO du 1997-12-25, page 3632*
+
+Réponse. - La ministre de l'aménagement du territoire et de l'environnement a bien pris connaissance de la question concernant les efforts de recherche au bénéfice des énergies renouvelables les plus rentables. L'Etat doit renforcer son implication financière au niveau de l'aide à la décision de la recherche et du lancement des technologies innovantes. Le secteur privé doit être associé davantage aux actions d'économies d'énergie et de développement des énergies renouvelables rentables ou proches de la rentabilité. Il est essentiel d'accroître les coopérations avec les producteurs d'énergie, de développer les politiques de maîtrise de la demande d'énergie. A ce titre, l'information, l'éducation doivent être renforcées, des incitations et une diversification de l'offre doivent être privilégiées. Cet effort peut porter, par exemple, sur l'institution d'une obligation d'études comparatives " choix de l'énergie ", à l'instar de celle du département de la Savoie, pour que les énergies renouvelables soient prises en compte dans les bâtiments publics par l'Etat, les régions et les départements. Les efforts déjà effectués en vue de favoriser le développement des énergies renouvelables doivent être poursuivis. Il s'agit de : continuer à suivre le " Plan bois énergie et développement local " et aider les régions qui le souhaitent, et qui n'ont pas été retenues dans le cadre de ce plan, à développer le chauffage collectif au bois, par le biais du Fonds de modernisation de la gestion des déchets ; favoriser l'électrification des sites isolés par énergies renouvelables, particulièrement en utilisant le Fonds d'amortissement des charges d'électrification ; veiller au bon déroulement du plan " Eole 2005 ".
