@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990516680
+
+- Question : [SEQ990516680](seq990516680.md) — Mise en place de bandes continues entre les voies face aux entrées et sorties des grands axes routiers
+
+## Réponse
+
+*Équipement, JO du 1999-08-19, page 2811*
+
+Réponse. - Les marques sur chaussées ont pour but d'indiquer sans ambiguïté les parties de la chaussée réservées aux différents sens de la circulation ou à certaines catégories d'usagers, ainsi que, dans certains cas, la conduite que doivent observer les usagers. Le marquage des chaussées n'est pas obligatoire, sauf sur autoroute et route express. Toutefois, lorsque l'autorité compétente juge opportun de recourir au marquage, il doit être réalisé dans les conditions définies par l'instruction interministérielle sur la signalisation routière. Il est précisé à l'article 113-3 de cette instruction que les marques routières de rase campagne sont obligatoirement rétroréfléchissantes, et que l'emploi de marques rétroréfléchissantes est très souhaitable dans les zones agglomérées même dotées d'un éclairage public et, a fortiori, dans le cas où l'éclairage n'est pas permanent. La délimitation des voies joue un rôle important dans la gestion de la circulation, mais elle ne dispense pas les usagers de se conformer aux dispositions du code de la route. En conséquence, il convient, d'une part, de faire une exacte application des règles édictées par ce dernier, d'autre part, d'éviter tout abus dans l'emploi des lignes continues, car il risque de conduire à une dépréciation de leur valeur réglementaire et donc à des infractions préjudiciables à la sécurité. Il n'est donc pas envisagé de généraliser la suggestion rapportée dans la revue de la Fédération nationale des accidentés du travail et des handicapés (FNATH), étant précisé qu'une telle mesure peut être décidée localement par l'autorité qui détient le pouvoir de police en fonction de conditions particulières.
