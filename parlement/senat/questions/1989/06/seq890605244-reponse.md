@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890605244
+
+- Question : [SEQ890605244](seq890605244.md) — Envoi de documents aux Français de l'étranger pour les élections au Parlement européen
+
+## Réponse
+
+*Affaires étrangères, JO du 1989-07-13, page 1081*
+
+Réponse. - Le ministère des affaires étrangères est soucieux que tous les électeurs dans les centres de vote à l'étranger puissent exercer leur droit de vote dans des conditions aussi proches que possible de celles qui prévalent en métropole. C'est ainsi que les Français inscrits sur ces listes ont été individuellement avisés, par lettre adressée dès la publication du décret de convocation des électeurs, de la date et des modalités de participation à ce scrutin. En ce qui concerne les bulletins et les professions de foi des candidats, des dispositions particulièrement précises ont été prises en liaison avec les mandataires des candidats pour garantir la bonne exécution des prescriptions fixées par l'article 17 du décret n° 79-160 du 28 février 1979. En effet, ce texte donne mandat à la commission électorale siégeant au ministère des affaires étrangères d'adresser aux centres de vote les affiches, circulaires et bulletins de vote des listes de candidats quand de tels documents lui ont été remis par les mandataires de ces listes. On remarquera que les textes applicables prévoient que les documents soient adressés aux centres de vote et non pas aux électeurs à leur domicile. La très grande majorité des listes a fait en sorte que le matériel nécessaire soit déposé à temps pour que les 207 centres de vote soient approvisionnés avant le scrutin en affiches, circulaires et bulletins de vote et que les électeurs puissent exprimer leur suffrage après avoir pris connaissance des programmes et des intentions des candidats tels qu'ils ressortent de leur professions de foi.
