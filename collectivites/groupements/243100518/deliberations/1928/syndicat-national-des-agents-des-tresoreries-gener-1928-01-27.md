@@ -1,0 +1,7 @@
+# Toulouse métropole : délibération — Syndicat national des agents des trésoreries générales et recettes des finances de France et des colonies (section de la Haute-Garonne) - Demande de subvention p. 74
+
+- Collectivité : Toulouse métropole
+- SIREN : 243100518
+- Date : 1928-01-27
+- Objet : Syndicat national des agents des trésoreries générales et recettes des finances de France et des colonies (section de la Haute-Garonne) - Demande de subvention p. 74
+- Jeu de données : https://www.data.gouv.fr/datasets/56b0c2c1a3a7294d39b88a5b
