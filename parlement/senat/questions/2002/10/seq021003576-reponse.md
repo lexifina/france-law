@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021003576
+
+- Question : [SEQ021003576](seq021003576.md) — Traduction en anglais des brevets européens et droit anglo-saxon appliqué à la propriété industrielle
+
+## Réponse
+
+*Affaires étrangères, JO du 2003-08-21, page 2593*
+
+Le Gouvernement aborde la question des brevets avec pour préoccupation d'améliorer la compétitivité des entreprises françaises, tout en veillant au respect de notre langue. La compétitivité est un objectif majeur, tout particulièrement en cette période de ralentissement économique. Comme l'a affirmé le Conseil européen de Lisbonne, la volonté des pays membres de l'Union est de faire de l'Europe, d'ici à 2010, l'économie de la connaissance la plus compétitive au monde. L'accord dit " de Londres " devrait réduire les coûts liés à la traduction des brevets en s'appuyant sur les trois langues officielles de l'OEB : l'anglais, l'allemand et le français. Le brevet européen est, en effet, actuellement deux à trois fois plus cher que les brevets américains et japonais. Il s'agirait d'une incitation pour les entreprises, et notamment les PME-PMI, à déposer des brevets. La position technologique de la France, mesurée par sa part européenne de brevet, s'est dégradée dans les années 90, chutant de 8,5 à 6,8 % dans le cadre de l'OEB. Il est naturel que la représentation parlementaire s'interroge sur la compatibilité de cet accord avec la défense de notre langue. C'est également le souci du Gouvernement dont la réflexion sur la ratification de l'accord de Londres doit intégrer l'ensemble de ces dimensions, à commencer par celle qui s'impose à toutes les autres : la promotion de la langue française. C'est la raison pour laquelle le Gouvernement poursuit, en concertation avec le Parlement, sa réflexion sur la ratification de l'accord de Londres.
