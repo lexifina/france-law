@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980105733
+
+- Question : [SEQ980105733](seq980105733.md) — Fonds national de développement du sport
+
+## Réponse
+
+*Jeunesse, JO du 1998-03-05, page 765*
+
+Réponse. - Doté de moyens d'intervention renforcés, grâce à l'amendement de l'Assemblée nationale portant le taux de prélèvement sur la Française des Jeux de 2,6 à 2,9 %, le Fonds national pour le développement du sport (FNDS) est revenu dès 1998 à sa mission première d'aide aux clubs, comme l'a souhaité Mme la ministre de la jeunesse et des sports. Le conseil de gestion du FNDS qui associe le mouvement sportif et les représentants du ministère de la jeunesse et des sports, s'est réuni le 27 janvier 1998 et a décidé de la répartition des crédits du fonds. La dotation destinée à la part régionale progresse de 18 % en 1998 pour atteindre 290 millions de francs. Le ministère propose de la porter à 325 millions de francs en 1999, ce qui représentera une hausse de 33 % en deux ans. La part régionale en 1998 fait apparaître une augmentation de 13,5 millions de francs des crédits destinés au haut-niveau et de 52,56 millions de francs des crédits destinés au sport pour tous. L'augmentation des crédits destinés au sport pour tous est donc quatre fois supérieure à celle du haut-niveau. Le mouvement sportif est pleinement associé à l'élaboration des choix qui président à la gestion des moyens du FNDS. Une concertation a lieu avec les représentants du mouvement sportif désignés au niveau national par le Comité national olympique sportif français (CNOSF) et au niveau régional par les comités régionaux olympiques sportifs (CROS), les comités départementaux olympiques sportifs (CDOS) et les associations sportives locales. Le conseil de gestion du FNDS, au niveau national, et les commissions régionales témoignent de la réalité de la concertation.
