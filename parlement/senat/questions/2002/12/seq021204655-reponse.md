@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021204655
+
+- Question : [SEQ021204655](seq021204655.md) — Application à la formation à la conduite automobile d'un taux de TVA minoré
+
+## Réponse
+
+*Équipement, JO du 2003-08-21, page 2624*
+
+Dans l'effort collectif de prise de conscience des grands enjeux de la sécurité routière et de responsabilisation des conducteurs, les écoles de conduite ont un rôle essentiel à jouer. La réforme de l'épreuve théorique et de l'épreuve pratique du permis de conduire, actuellement engagée, devrait permettre d'introduire les transformations nécessaires dans la formation, notamment une meilleure compréhension des facteurs de risque, ainsi que la nécessité d'adopter une conduite apaisée et de partager la route avec toutes les catégories d'usagers dans un respect mutuel. En même temps, le permis de conduire doit rester un examen accessible à toute la population car il est un outil d'insertion et d'intégration essentiel pour les jeunes. Face à ce nouveau contexte, et pour pouvoir mieux répondre à la demande de formation, les professionnels de ce secteur d'activité souhaiteraient bénéficier d'allègement des charges fiscales, en particulier un abaissement à 5,5 % du taux de la TVA appliqué aux prestations d'enseignement. L'application d'une telle mesure n'est pas compatible dans l'immédiat avec les engagements communautaires de la France et exige une décision qui doit être prise à l'unanimité des pays de l'Union européenne. Cependant, dans le souci de donner aux entreprises du secteur les moyens nécessaires pour assumer leur mission dans le cadre d'un service de qualité, en concertation avec leurs représentants, une étude sera prochainement lancée sur tous les aspects économiques de cette activité afin d'examiner les pistes de progrès possibles au bénéfice des usagers, des professionnels et en définitive de la sécurité routière.
