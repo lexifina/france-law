@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911017959
+
+- Question : [SEQ911017959](seq911017959.md) — Masseurs kinésithérapeutes rééducateurs du Finistère
+
+## Réponse
+
+*Affaires sociales, JO du 1991-12-12, page 2775*
+
+Réponse. - La revalorisation de la lettre clé AMM, qui rémunère l'activité des masseurs-kinésithérapeutes, et les propositions d'actualisation de la nomenclature des actes de rééducation et de réadaptation fonctionnelles effectués notamment par les masseurs-kinésithérapeutes par la commission permanente de la nomenclature générale des actes professionnels n'ont pu être adoptées en raison de l'évolution des remboursements d'actes de kinésithérapie et des contraintes de l'équilibre financier de l'assurance maladie. Toutefois, un accord entre le ministre des affaires sociales et de la solidarité et le syndicat national des masseurs-kinésithérapeutes a été signé le 11 avril 1991 après avoir fait l'objet de discussions avec les deux syndicats représentatifs de la profession. Il comporte notamment l'affirmation de la volonté des signataires de mettre en oeuvre un dispositif de régulation contractuelle des dépenses de masso-kinésithérapie et de rénover les conditions d'exercice de ces professionnels, et notamment ce qui concerne leur formation continue et leur régime social. L'accord du 11 avril 1991 renvoie à des groupes de travail, auxquels participent les deux organisations syndicales représentatives de la profession, la définition des modalités de mise en oeuvre de l'accord qui, en tout état de cause, appellera des dispositions législatives dès que les groupes, qui poursuivent actuellement leurs travaux, auront conclu. Par ailleurs, compte tenu des difficultés d'application de l'arrêté du 14 mai 1991, le Gouvernement a décidé de suspendre l'application de la minoration de 20 p. 100 prévue par ce texte pour les actes effectués dans les établissements d'hébergement.
