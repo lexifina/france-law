@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011136396
+
+- Question : [SEQ011136396](seq011136396.md) — Bilan des actions de soutien et d'éducation des parents
+
+## Réponse
+
+*Éducation, JO du 2002-01-24, page 223*
+
+De nombreuses réflexions dont celles de madame Pointreau ont été menées au sein du ministère de l'Education nationale, en vue d'améliorer la qualité des relations entre les parents et l'école, afin de favoriser la réussite scolaire des élèves. Elles ont permis de mettre en place à la rentrée scolaire un ensemble de mesures qui vise à rendre cohérente l'action à destination des parents. Les premières mesures ont principalement pour but de rendre l'école plus transparente, en donnant la possibilité à chaque famille de connaître les objectifs et les règles de l'école à des moments clés de la scolarité de l'enfant : entrée en maternelle, au CP, au collège. D'autres mesures ont pour objectif de reconnaître davantage les parents et les associations au sein du système scolaire, en précisant leurs droits et le rôle qu'ils ont à y jouer. Dans cet esprit, la circulaire du 3 mai 2001 relative " à l'intervention des associations de parents d'élèves dans les établissements scolaires ", précise le rôle et les activités des associations de parents au sein des établissements scolaires. Par ailleurs, l'expérience d'une " école des parents " dans le cadre d'une opération " école ouverte " que madame Pointreau a menée pendant de nombreuses années dans son collège, a inspiré en partie la réflexion qui a abouti à la publication de la circulaire n° 2001-124 et de la note de service n° 2001-123 du 5 juillet 2001 (publiées au BOEN du 12 juillet 2001) qui précisent les modalités relatives à la création et à l'aménagement de lieux d'accueil, d'écoute et d'échange pour les parents d'élèves dans les établissements scolaires.
