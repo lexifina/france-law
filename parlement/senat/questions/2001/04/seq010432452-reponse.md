@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010432452
+
+- Question : [SEQ010432452](seq010432452.md) — Conditions de maintien en zone d'attente des demandeurs d'asile
+
+## Réponse
+
+*Intérieur, JO du 2001-07-12, page 2334*
+
+L'honorable parlementaire appelle l'attention du ministre de l'intérieur sur le fonctionnement des zones d'attente en faisant tout d'abord état des efforts indéniables conduits par le Gouvernement. Ces efforts ont porté principalement sur les locaux d'hébergement de la zone d'attente de Roissy Charles-de-Gaulle qui accueille à elle seule la majorité des personnes dont la situation ne permet pas d'être admis définitivement ou temporairement sur le sol français. En ce qui concerne les cas allégués de violence, il convient d'éviter tout amalgame entre l'emploi légitime de la force et les cas éventuels de violence individuelle. Lorsque l'application de la loi conduit à refuser l'admission d'un étranger sur le territoire national et que cet étranger est invité conformément aux accords internationaux à regagner son pays de provenance, la force strictement nécessaire peut être utilisée par les fonctionnaires de police en vue de faire respecter la loi. Dans l'hypothèse, très différente, où des étrangers seraient l'objet d'actes de violence individuelle de la part de fonctionnaires, il apparaîtrait très nettement que les fonctionnaires en cause sont immédiatement soumis, après enquêtes diligentées par le ministère public ou les services compétents de la police nationale et sans préjudice des sanctions pénales, aux sanctions disciplinaires prévues par leur statut. Enfin, il convient de réaffirmer que les services de police chargés du contrôle des frontières et du fonctionnement des zones d'attente, qui travaillent dans des conditions difficiles, ont le souci constant du respect des droits des étrangers, au même titre que de la prévention de l'immigration illégale.
