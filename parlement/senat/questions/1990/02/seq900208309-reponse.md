@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900208309
+
+- Question : [SEQ900208309](seq900208309.md) — Situation des communes propriétaires d'étangs
+
+## Réponse
+
+*Environnement, JO du 1990-04-19, page 870*
+
+Réponse. - La législation relative à la pêche en eau douce s'applique à tous les cours d'eau, canaux et ruisseaux ainsi qu'aux plans d'eau avec lesquels ils communiquent, à l'exception de ceux créés en application de l'article L. 231-6 du code rural ou bénéficiant des dispositions de l'article L. 231-7 du même code. Toute personne qui se livre à l'exercice de la pêche dans ces eaux doit satisfaire aux obligations énumérées à l'article L. 236-1 du code rural : elle doit justifier de sa qualité de membre d'une association agréée de pêche et de pisciculture, et avoir versé, en sus de sa cotisation statutaire, une taxe annuelle dont le produit est affecté aux dépenses de surveillance et de mise en valeur du domaine piscicole national. Il lui appartient également d'obtenir l'accord du détenteur du droit de pêche, qui peut lui être délivré à titre gracieux ou onéreux. Le respect de ces modalités constitue la garantie d'une pêche démocratique accessible au plus grand nombre. Ces aspects de la législation liés à l'exercice de la pêche constituent un des éléments de l'édifice législatif antérieur à la loi pêche de 1984 qui ont été maintenus. Certains des plans d'eau auxquels fait référence l'honorable parlementaire peuvent être considérés comme des eaux n'entrant pas dans le champ d'application de la législation de la pêche, c'est-à-dire que la capture du poisson à la ligne peut y être pratiquée sans être membre d'une association agréée de pêche et de pisciculture et sans acquitter la taxe piscicole. Des directives ont été données aux préfets par circulaire du 16 septembre 1987 pour définir de manière pragmatique le classement des plans d'eau.
