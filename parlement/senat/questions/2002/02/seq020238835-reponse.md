@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020238835
+
+- Question : [SEQ020238835](seq020238835.md) — Utilisation des mines antipersonnel en Afghanistan
+
+## Réponse
+
+*Affaires étrangères, JO du 2002-04-25, page 1158*
+
+La France, qui milite pour la disparition des mines antipersonnel, ne peut être qu'extrêmement sensible à la situation des mines antipersonnel de l'Afghanistan, pays particulièrement touché par ce fléau. Résolument engagée dans la lutte contre ces armes inhumaines, la France n'a cessé de prendre des initiatives pour promouvoir l'universalité et la mise en oeuvre de la Convention d'Ottawa, qu'elle a été le premier membre permanent du Conseil de sécurité à ratifier le 23 juillet 1998. S'agissant de l'emploi de certaines armes par les forces nord-américaines, il convient de rappeler que les Etats-Unis ne sont pas partie au Traité d'interdiction totale des mines antipersonnel. Pour sa part, la France, fidèle à ses engagements, a pris des dispositions afin d'éviter que sa participation à des opérations multinationales, notamment dans le cadre de l'OTAN, puisse la placer en contradiction avec ses obligations internationales au regard de la Convention d'Ottawa. Une directive relative aux mines antipersonnel émise, le 12 novembre 1998, par le chef d'Etat des armées interdit ainsi à tout militaire français, sans exception, d'employer des mines antipersonnel, de participer à l'élaboration de plans et à toute activité impliquant leur emploi et d'accepter des règles d'engagement dans une opération prévoyant leur utilisation. Ces dispositions ont été saluées par la Commission nationale pour l'élimination des mines antipersonnel et par les organisations non-gouvernementales. La France entend poursuivre ses efforts diplomatiques en en faveur de l'universalisation et du respect des normes d'interdiction posées par la Convention d'Ottawa dans toutes les enceintes internationales appropriées.
