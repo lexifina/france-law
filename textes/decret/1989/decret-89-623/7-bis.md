@@ -1,6 +1,6 @@
 # Article 7 bis
 
-La Commission des opérations de bourse peut demander que lui soient transmis les éléments lui permettant de s'assurer qu'est offerte aux adhérents du plan au moins une possibilité de placement respectant les conditions prévues à l'article L. 443-4 du code du travail.
+L'Autorité des marchés financiers peut demander que lui soient transmis les éléments lui permettant de s'assurer qu'est offerte aux adhérents du plan au moins une possibilité de placement respectant les conditions prévues à l'article L. 443-4 du code du travail.
 
 Sont considérées comme liquides au sens de l'article L. 443-4 du code du travail :
 
@@ -14,4 +14,4 @@ Il peut être dénoncé à tout moment à l'initiative de la société de gestio
 
 Ce mécanisme est assuré par un établissement de crédit ou une entreprise d'assurance dont le siège social est situé dans un Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen.
 
-Il peut être également assuré par une autre entité dans des conditions fixées par un règlement de la Commission des opérations de bourse lorsque le capital de l'entreprise est variable ou lorsque l'entreprise établit des comptes consolidés ; en ce cas, l'approbation du mécanisme doit être renouvelée chaque année par le conseil de surveillance du fonds et par la Commission des opérations de bourse.
+Il peut être également assuré par une autre entité dans des conditions fixées par un règlement général de l'Autorité des marchés financiers lorsque le capital de l'entreprise est variable ou lorsque l'entreprise établit des comptes consolidés ; en ce cas, l'approbation du mécanisme doit être renouvelée chaque année par le conseil de surveillance du fonds et par l'Autorité des marchés financiers.
