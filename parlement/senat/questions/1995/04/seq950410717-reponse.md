@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950410717
+
+- Question : [SEQ950410717](seq950410717.md) — Condamnations personnelles de nombreux maires dans l'exercice de leurs fonctions
+
+## Réponse
+
+*Justice, JO du 1995-10-19, page 1980*
+
+Réponse. - Le garde des sceaux, ministre de la justice comprend l'émotion, dont se fait écho l'honorable parlementaire, suscitée chez les élus locaux à la suite de condamnations pénales qui ont pu être prononcées à l'encontre de maires ayant agi dans l'exercice de leurs fonctions. Le ministère public, dans le cadre de l'appréciation de l'opportunité des poursuites, et les juges du fond à l'occasion de la détermination de la responsabilité pénale et de la fixation de la peine tiennent naturellement le plus grand compte du contexte de la commission des faits. La responsabilité pénale des personnes morales est, dans une certaine mesure, susceptible de limiter celle des personnes physiques même si le cumul est évidemment possible, dès lors que les faits mis en évidence relèvent plus d'une carence de la gestion communale que d'une faute directement imputable à une personne physique. La prise en compte de l'ensemble de ces considérations devrait pouvoir permettre, en l'état des textes existants, une réponse judiciaire aussi appropriée que possible aux affaires mettant en cause la responsabilité des élus. Toutefois, afin que ne soit négligé aucun des aspects de cette question, notamment au regard des préoccupations manifestées par certains élus locaux, le Gouvernement a demandé au printemps dernier au Conseil d'Etat de mener une étude d'ensemble sur les spécificités de la responsabilité pénale des décideurs publics. Le rapport de cette étude sera rendu à la fin de cette année, et le Gouvernement prendra alors les initiatives qui lui paraîtront utiles, notamment au plan législatif.
