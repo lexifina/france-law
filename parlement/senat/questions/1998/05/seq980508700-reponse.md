@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508700
+
+- Question : [SEQ980508700](seq980508700.md) — Soutien de la France au Koweït
+
+## Réponse
+
+*Économie, JO du 1998-07-30, page 2460*
+
+Réponse. - Le Koweït est un pays dont l'économie et l'Etat dépendent pour une large part des recettes du secteur pétrolier. Sa situation est sur ce plan comparable à la majeure partie des Etats de la péninsule arabique. Il va donc être affecté de manière sensible par la chute que connaissent les cours du pétrole depuis neuf mois. Cependant, le Koweït part d'une situation macro-économique extrêmement favorable. Il a en effet pleinement bénéficié de la conjoncture pétrolière positive des années 1996 et 1997, qui lui ont permis d'affichier en 1997, selon les dernières estimations du Fonds monétaire international, un excédent budgétaire de près de 10 % du produit intérieur brut (PIB) et un excédent de la balance des paiements courants proche de 25 % du PIB. Ces résultats ont permis au Koweït de continuer sa politique de placements financiers à l'étranger, conçue pour diminuer la dépendance de l'état à l'égard du pétrole et pour permettre de subvenir à ses besoins dans l'hypothèse d'une baisse des revenus pétroliers. Ces placements sont estimés actuellement à 50 milliards de dollards des Etats-Unis, ce qui représente plus d'une fois et demi le PIB du pays. Par ailleurs, les dernières propositions du gouvernement koweïtien, dans le cadre de la définition du prochain budget contiennent des mesures permettant une baisse des dépenses publiques afin de limiter l'impact négatif sur le budget, de la conjoncture actuelle. De plus, les perspectives de balance des paiements courants continuent de faire état d'un excédent de l'ordre de 10 % du PIB. Il n'est donc pas envisagé par le Gouvernement français de prendre des mesures spécifiques en faveur du Koweït, qui, ayant une population peu nombreuse à revenu élevé, est l'un des pays les mieux préparés à la chute des cours du pétrole.
