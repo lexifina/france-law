@@ -1,6 +1,6 @@
-# Article Annexe 1
+# Article Annexe
 
-GRADES, EMPLOIS : Surveillants chefs et surveillantes chefs des services généraux
+GRADES, EMPLOIS : Surveillants chefs et surveillantes chefs des services généraux :
 
 Au 1er juillet 1973 :
 
@@ -32,7 +32,7 @@ ECHELON: INDICES : DUREE
 
 : : 1-10-72: ANC |
 
--------:-------:--------:------ 6 éch : 555 : 440 : 5 éch : 532 : 422 : 4 ans 4 éch : 495 : 394 : 3 ans 3 éch : 472 : 377 : 3 ans 2 éch : 447 : 358 : 3 ans 1 éch : 422 : 339 : 2 ans =============================== Au 1er juillet 1976 :
+-------:-------:--------:------ 6 éch : 555 : 440 : 5 éch : 532 : 422 : 4 ans 4 éch : 495 : 394 : 3 ans 3 éch : 472 : 377 : 3 ans 2 éch : 447 : 358 : 3 ans 1 éch : 422 : 339 : 2 ans ============================= Au 1er juillet 1976 :
 
 ===============================
 
@@ -42,7 +42,7 @@ ECHELON: INDICES : DUREE
 
 : : 1-10-72: ANC |
 
--------:-------:--------:------ 6 éch : 579 : 458 : 5 éch : 547 : 434 : 4 ans 4 éch : 510 : 406 : 3 ans 3 éch : 485 : 387 : 3 ans 2 éch : 461 : 369 : 3 ans 1 éch : 438 : 351 : 2 ans =============================== Surveillants chefs et surveillantes chefs d'orthophonie, d'orthoptie, de diététique, et de masso-kinésithérapie :
+-------:-------:--------:------ 6 éch : 579 : 458 : 5 éch : 547 : 434 : 4 ans 4 éch : 510 : 406 : 3 ans 3 éch : 485 : 387 : 3 ans 2 éch : 461 : 369 : 3 ans 1 éch : 438 : 351 : 2 ans =============================== Surveillants chefs et surveillantes chefs d'orthophonie, d'orthoptie, de diététique et de masso-kinésithérapie :
 
 Au 1er juillet 1973 :
 
@@ -52,7 +52,7 @@ ECHELON: INDICES : DUREE
 
 : BRUTS : MAJORES: MOY |
 
-: :1-10-72 : ANC |
+: : 1-10-72: ANC |
 
 -------:-------:--------:------ 5 éch : 508 : 404 : 4 éch : 465 : 372 : 4 ans 3 éch : 435 : 349 : 3 ans 2 éch : 420 : 337 : 3 ans 1 éch : 386 : 317 : 2 ans =============================== Au 1er juillet 1974 :
 
