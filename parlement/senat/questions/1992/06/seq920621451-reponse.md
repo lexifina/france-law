@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920621451
+
+- Question : [SEQ920621451](seq920621451.md) — Effectif des vétérinaires inspecteurs
+
+## Réponse
+
+*Premier ministre, JO du 1992-09-10, page 2053*
+
+Réponse. - Depuis 1989, le secteur vétérinaire constitue une priorité ministérielle et a été exonéré, à ce titre, des réductions d'effectifs qu'on connues les autres secteurs des services extérieurs (- 5 p. 100). De 1989 à 1991, au contraire, soixante créations nettes d'emplois lui ont été accordées (+ 2 p. 100). Le maintien de cette priorité lors de l'élaboration de la loi de finances pour 1992 a de nouveau permis la création nette de dix-sept emplois supplémentaires de catégorie A, notamment pour le renforcement des missions de contrôle. Par ailleurs, pour les agents techniques de catégorie B, l'équivalent de treize emplois supplémentaires a aussi pu être obtenu, essentiellement pour des missions d'inspection en abattoirs. De plus, dans le cadre de l'exécution de ce budget, les mesures ont été prises en gestion afin d'exonérer le corps des vétérinaires inspecteurs de tout gel d'emplois. Ainsi, les services vétérinaires du ministère de l'agriculture et de la forêtpourront-ils être dotés de vingt-huit nouveaux vétérinaires inspecteurs, soit dix de plus que le nombre normalement prévu. Enfin, il est bien certain que pour les affectations et mutations concernant ce corps, il sera tout particulièrement tenu compte des besoins en personnel dans les postes frontières communautaires dont, il faut le rappeler, le nombre va être considérablement réduit par rapport à ceux actuellement ouverts. Toute assurance peut être ainsi donnée que, dans les limites autorisées par les contraintes budgétaires, un effort particulier a été et continue d'être consacré au renforcement des services vétérinaires, et notamment au bénéfice du corps des vétérinaires inspecteurs.
