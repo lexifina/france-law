@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030607922
+
+- Question : [SEQ030607922](seq030607922.md) — Assouplissement des conditions d'octroi de la médaille de la défense nationale (MDN) et de la médaille des services militaires volontaires (MSMV)
+
+## Réponse
+
+*Défense, JO du 2003-07-31, page 2467*
+
+Le décret n° 82-358 du 21 avril 1982 portant création de la médaille de la défense nationale ne fait pas de distinction entre les militaires en service actif et les réservistes. Ces derniers ayant la qualité de militaire pendant leurs activités, notamment dans le cadre de leur engagement à servir dans la réserve opérationnelle, ils peuvent se voir attribuer cette décoration sur les mêmes bases que le personnel d'active. Les mêmes conditions d'ancienneté et de barème d'activités opérationnelles pour l'échelon bronze, ainsi que les contingents annuels pour l'or et l'argent, leur sont également applicables. Par ailleurs, l'article 4 du décret n° 75-150 du 13 mars 1975 permet d'attribuer la médaille des services militaires volontaires aux militaires d'active à titre dérogatoire, exceptionnel ou posthume. L'instruction d'application n° 10500/DEF/CAB/SDBC/DECO/B5 du 18 octobre 1994 prévoit que sont éligibles les militaires d'active justifiant d'activités hors service et bénévoles, au sein d'associations de réservistes, suffisamment représentatives au niveau national ou régional. Dans le cadre de la refonte du système de récompenses et de décorations de la réserve, des études sont actuellement en cours en vue d'harmoniser, et donc d'assouplir, les conditions d'attribution de ces récompenses aux militaires d'active et de réserve. Cette nouvelle architecture réglementaire a vocation à mieux prendre en compte la spécificité de l'engagement des réservistes et des militaires d'active, oeuvrant pour l'essor d'une réserve dynamique qui, désormais, joue un rôle essentiel dans notre armée professionnelle.
