@@ -6,6 +6,8 @@ Le crédit d'impôt accordé aux entreprises nouvelles au titre de l'année de l
 
 Le crédit d'impôt est plafonné pour chaque entreprise à 3 millions de francs.
 
+Le crédit d'impôt afférent aux années 1985 et suivantes est porté à 50 p. 100 : son montant est plafonné pour chaque entreprise à 5 millions de francs.
+
 II. Les dépenses de recherche ouvrant droit au crédit d'impôt sont (1) :
 
 a. Les dotations aux amortissements des immobilisations, autres que les immeubles, créées ou acquises à l'état neuf et affectées directement à la réalisation en France d'opérations de recherche scientifique et technique, y compris la réalisation de prototypes ou d'installations pilotes ;
@@ -23,6 +25,12 @@ III. Les subventions publiques reçues par les entreprises à raison des opérat
 En outre, en cas de transfert de personnels, d'immobilisations ou de contrats mentionnés au II-d, entre entreprises ayant des liens de dépendance directe ou indirecte, ou résultant de fusions, scissions, apports ou opérations assimilées, il est fait abstraction, pour le calcul de la variation des dépenses de recherche, de la part de cette variation provenant exclusivement du transfert.
 
 IV. Les dispositions du présent article s'appliquent aux dépenses mentionnées au II, exposées au cours des années 1983 à 1987, sur option de l'entreprise valable jusqu'au terme de cette période.
+
+IV bis. Sur option de l'entreprise, les dispositions du présent article sont également applicables aux dépenses exposées :
+
+a) Au cours des années 1985 à 1988 par les entreprises n'ayant pas exercé l'option prévue au paragraphe IV ;
+
+b) En 1988 par les entreprises ayant exercé l'option prévue au paragraphe IV ou créées en 1988 et remplissant les conditions prévues aux 1° et 3° du paragraphe II et au paragraphe III de l'article 44 bis.
 
 V. Un décret fixe les conditions d'application du présent article. Il en adapte les dispositions aux cas d'exercices de durée inégale ou ne coïncidant pas avec l'année civile (2).
 
