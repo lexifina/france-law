@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010230921
+
+- Question : [SEQ010230921](seq010230921.md) — Prise en charge par le Centre national de la fonction publique territoriale (CNFPT) de la formation initiale de tous les agents territoriaux de la catégorie A
+
+## Réponse
+
+*Fonction publique, JO du 2001-09-27, page 3121*
+
+L'article 45 de la loi du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale prévoit que les statuts particuliers des cadres d'emplois peuvent ouvrir la possibilité d'une nomination en qualité d'élèves par le Centre national de la fonction publique territoriale des lauréats des concours, pour accomplir leur formation avant d'être recrutés par les collectivités. Sur cette base, les statuts particuliers de trois cadres d'emplois prévoient une formation obligatoire avant recrutement prise en charge par le CNFPT : il s'agit des administrateurs, des conservateurs du patrimoine et des bibliothèques. La formation initiale des autres stagiaires territoriaux de catégorie A est assurée par le CNFPT, les agents concernés étant dès leur nomination rémunérés par la collectivité qui les a recrutés. La généralisation à l'ensemble des stagiaires territoriaux de catégorie A d'une formation avant recrutement prise en charge par le CNFPT ne manquerait pas de soulever de réelles difficultés, compte tenu de l'ampleur des recrutements qui seraient concernés et des moyens non seulement financiers, mais aussi en termes d'organisation, que le CNFPT devrait mobiliser pour s'adapter à une telle évolution de ses missions. Pour autant, le dispositif de formation initiale des fonctionnaires territoriaux de catégorie A, qui dans son principe et ses grandes orientations, ne paraît pas contestable, pourrait faire l'objet d'adaptations destinées à en améliorer encore l'efficacité et à mieux répondre aux attentes des collectivités locales en la matière.
