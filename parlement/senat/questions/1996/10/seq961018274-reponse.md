@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961018274
+
+- Question : [SEQ961018274](seq961018274.md) — Situation des caisses de sécurité sociale des cultes
+
+## Réponse
+
+*Travail, JO du 1997-03-20, page 890*
+
+Réponse. - Le groupe de travail constitué avec les représentants des principaux cultes concernés a été chargé d'examiner l'ensemble des questions posées par le régime de protection sociale des ministres des cultes et membres des congrégations et collectivités religieuses. Les propositions formulées par ce groupe de travail ont retenu toute l'attention du ministre du travail et des affaires sociales, et notamment la constitution d'une caisse unique chargée de gérer, pour le compte du régime général, l'assurance maladie et l'assurance vieillesse des ministres des cultes et des membres des congrégations religieuses. Bien entendu, les spécificités actuelles de l'action sanitaire et sociale de ce régime de protection sociale pourront dans ce schéma être maintenues. Le souhait des représentants des cultes de voir instaurer un alignement des conditions de financement de leur régime de sécurité sociale sur celles applicables aux salariés du régime général recueille l'accord du Gouvernement. Ces propositions ont pour conséquence d'alourdir l'effort contributif des assurés au titre de l'assurance vieillesse et d'inclure dans le champ de la contribution sociale généralisée le traitement reçu par les prêtres diocésains. Le Gouvernement est tout à fait sensible au poids actuel de ces cotisations pour les retraités de la caisse mutuelle d'assurance vieillesse des cultes dont les niveaux de pension sont par ailleurs fort modestes. Ainsi, la réforme à venir devrait, elle, prévoir l'alignement, tant en ce qui concerne les prestations que les cotisations, du régime d'assurance vieillesse des cultes sur le régime général.
