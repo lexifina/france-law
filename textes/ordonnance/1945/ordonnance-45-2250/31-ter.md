@@ -1,0 +1,3 @@
+# Article 31 ter
+
+En ce qui concerne certaines catégories de travailleurs salariés ou assimilés définies par arrêté du ministre du travail et de la sécurité sociale et qui travaillent régulièrement et simultanément pour le compte de deux ou plusieurs employeurs, le montant des cotisations des assurances sociales, des accidents du travail et des allocations familiales incombant à chacun des employeurs peut être déterminé, compte tenu des conditions d'exercice de la profession considérée, d'après les rémunérations qu'ils ont respectivement versées soit dans la limite d'un forfait fixé par lesdits arrêtés, soit en appliquant au taux des cotisations prévues aux articles 32 à 35 un abattement forfaitaire fixé par lesdits arrêtés.
