@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021104069
+
+- Question : [SEQ021104069](seq021104069.md) — Maisons de la justice et du droit
+
+## Réponse
+
+*Justice, JO du 2003-01-09, page 138*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire qu'à la date du 1er octobre de l'année en cours, quatre-vingt douze maisons de justice et du droit sont ouvertes sur le territoire national. Une dizaine ont vu le jour depuis le début de l'année et une vingtaine devraient être créées en 2003. L'institution prochaine des juges de proximité ne saurait remettre en cause l'existence même de ces structures. Les activités exercées en leur sein sont variées, qu'il s'agisse de prévenir et de lutter plus efficacement contre la délinquance, d'améliorer l'accompagnement des victimes ou encore de renforcer l'offre d'accès au droit. Si les maisons du droit et de la justice constituent un partenariat entre, d'une part, les chefs de juridiction et, d'autre part, les collectivités locales, les professionnels du droit ainsi que les associations, l'articulation des compétences exercées dans ce cadre doit être approfondie. De même, il convient de veiller à apporter une plus grande cohérence dans leur répartition géographique. Afin de disposer d'un cadre prospectif du développement de ce réseau de proximité au bénéfice des citoyens, une évaluation a été confiée à l'inspection générale des services judiciaires pour disposer d'éléments d'analyse plus exhaustifs que ceux recueillis jusqu'à présent. S'agissant de la maison de justice et du droit de Rezé, ce projet n'a pu être présenté à un comité de validation, la chancellerie n'ayant pas été rendue destinataire, à ce jour, d'un dossier complet, comprenant notamment un projet de convention constitutive dont la transmission, pour approbation, est exigée, conformément aux termes de l'article R. 7-12-1-1 du code de l'organisation judiciaire.
