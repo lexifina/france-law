@@ -1,17 +1,21 @@
 # Article 1
 
-La présente convention collective nationale conclue en application du titre Ier du code du travail, tel qu'il résulte de la loi n° 82-95 du 13 novembre 1982 règle les rapports entre l'ensemble des employeurs et des salariés travaillant en France métropolitaine dans les catégories suivantes :
+La présente convention collective nationale, conclue en application du titre III du livre Ier du code du travail, tel qu'il résulte de la loi n° 82-957 du 13 novembre 1982, règle les rapports entre l'ensemble des employeurs et des salariés travaillant en France métropolitaine dans la branche professionnelle de la restauration collective.
 
-- restauration d'entreprise ;
+La restauration collective recouvre toutes les activités, exercées à titre principal, consistant à préparer et à fournir des repas, ainsi que toutes prestations qui leur sont associées, aux personnes dans leur cadre de travail et/ou de vie, à l'intérieur de collectivités publiques ou privées, à but lucratif ou non lucratif, dont les secteurs principaux sont :
 
-- restauration hospitalière ;
+- entreprise et administration ;
 
-- restauration scolaire ;
+- enseignement ;
 
-Ces trois activités de restauration sont répertoriées au n° 67-02 de la nomenclature d'activités et de produits résultant du décret n° 73-1036 du 9 novembre 1973.
+- hospitalier ;
 
-Elle s'applique aux autres activités de restauration présente et à venir relevant du n° 67-02, notamment la restauration dans les résidences, services ou troisième âge et les centres de vacances dont les parties devront définir les particularimes dans le cadre d'un avenant spécifique à négocier dans les douze mois.
+- personnes âgées (foyers, résidences avec services, maisons de retraite).
 
-Elle s'applique au personnel administratif des sièges sociaux et bureaux régionaux.
+- social, médico-social,
+
+ainsi qu'aux autres activités relevant des codes NAF 55.5.A et 55.5 C, à l'exclusion de la restauration ferroviaire et de la restauration pour le compte des compagnies aériennes.
+
+Elle s'applique à l'ensemble du personnel, y compris celui des sièges sociaux et bureaux régionaux.
 
 Les dispositions légales ou conventionnelles globalement plus favorables qui interviendraient dans le cadre des mesures prévues par la présente convention se substitueraient à celle-ci, ou feraient l'objet d'une adaptation, mais ne pourraient se cumuler.
