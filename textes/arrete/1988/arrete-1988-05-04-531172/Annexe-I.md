@@ -72,7 +72,9 @@ Ecole des hautes études commerciales ;
 
 - diplôme d'expertise comptable, diplôme d'études supérieures comptables et financières et diplômes d'études comptables et financières ;
 
-- diplôme d'Etat de docteur en médecine complété par un des titres et diplômes prévus à l'article R. 241-29 du code du travail.
+- diplôme d'Etat de docteur en médecine complété par un des titres et diplômes prévus à l'article R. 241-29 du code du travail ;
+
+- brevet de contrôleur d'aéronautique d'essais et de réception délivré par l'école du personnel navigant d'essais et de réception d'Istres.
 
 Par ailleurs, à DCN, le recrutement en qualité de cadre technico-commercial peut également être effectué parmi les détenteurs d'un des titres ou diplômes suivants :
 
