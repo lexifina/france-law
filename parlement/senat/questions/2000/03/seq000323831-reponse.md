@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000323831
+
+- Question : [SEQ000323831](seq000323831.md) — Avantages fiscaux accordés aux entreprises nouvellement implantées en fonction des zonages
+
+## Réponse
+
+*Aménagement du territoire, JO du 2000-07-06, page 2378*
+
+Réponse. - La ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question relative aux avantages fiscaux accordés aux entreprises nouvellement implantées, en fonction des zonages. Les territoires ruraux de développement prioritaire (TRDP) regroupent les territoires à dominante rurale dans lesquels sont conduites des politiques nationales spécifiques de développement et de solidarité. Ils sont définis par le décret nº 94-1139 du 26 décembre 1994 pris en application des décisions du comité interministériel de développement et d'aménagement rural, réuni le 30 juin 1994, qui a initié les TRDP. Les TRDP ont été délimités conjointement entre l'Etat et les régions. Ils comprenaient l'ensemble des zones éligibles aux politiques de développement rural de l'union européenne (objectif 5b) ainsi que les parties les plus rurales des zones de l'objectif 2 complétées par certaines zones en retard de développement de l'objectif 1. La loi d'orientation pour l'aménagement et le développement du territoire (LOADT) du 4 février 1995 a établi au bénéfice des communes classées en TRDP un ensemble de mesures fiscales, donnant en particulier la faculté d'établir une exonération de taxe professionnelle à la discrétion et à la charge des communes. Ces mesures n'ont pas été remises en cause par la LOADDT du 25 juin 1999 et sont par conséquent toujours en vigueur. Il en est de même en ce qui concerne les mesures applicables dans les zones urbaines sensibles (ZUS), les zones de redynamisation urbaine (ZRU) et les zones franches urbaines (ZFU).
