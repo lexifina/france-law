@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010432526
+
+- Question : [SEQ010432526](seq010432526.md) — Elaboration des listes électorales et vérification des changements d'adresse
+
+## Réponse
+
+*Intérieur, JO du 2001-06-14, page 2017*
+
+L'opération d'apurement des listes électorales menée lors de la dernière période annuelle de révision à partir du croisement avec le fichier national de l'adresse de La Poste a, comme l'a relevé l'honorable parlementaire, produit des résultats largement positifs puisque dans les communes de 10 000 habitants et plus ce sont environ 750 000 adresses d'électeurs ayant changé de domicile qui ont été identifiées. Ces données ont pu être utilement exploitées par les commissions administratives, lesquelles disposaient, par ailleurs, de celles produites par la non-distribution des cartes électorales qui, en 2000, année de refonte triennale des listes électorales, ont été envoyées à tous les électeurs. Compte tenu du bilan satisfaisant de cette opération, le ministère de l'intérieur a fait connaître à La Poste son intérêt pour une mise à jour des informations qui pourraient ne concerner que les changements d'adresse intervenus depuis la clôture de la dernière période de révision. Ce projet est actuellement à l'étude. Par ailleurs, la révision des listes électorales repose, conformément aux prescriptions de l'article L. 11 du code électoral, sur la vérification de la qualité de contribuable de l'électeur. Sur ce point, la consultation des fichiers des contributions directes par les commissions administratives soulevant plusieurs difficultés sérieuses, les services du ministère de l'intérieur étudient, conjointement avec ceux du ministère de l'économie, des finances et de l'industrie, une prochaine saisine de la Commission nationale de l'informatique et des libertés afin de faciliter l'accès de ces commissions aux rôles des contributions directes.
