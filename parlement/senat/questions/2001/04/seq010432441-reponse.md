@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010432441
+
+- Question : [SEQ010432441](seq010432441.md) — Rémunération des avocats commis d'office devant les tribunaux départementaux des pensions militaires
+
+## Réponse
+
+*Anciens combattants, JO du 2001-07-05, page 2239*
+
+L'article 8 de la loi n° 98-1163 du 18 décembre 1998 relative à l'accès au droit et à la résolution amiable des conflits, codifié à l'article L. 104 du code des pensions militaires d'invalidité et des victimes de la guerre, a étendu le champ d'application de l'aide juridictionnelle sans condition de ressources aux litiges portés devant les juridictions des pensions militaires d'invalidité de première instance, d'appel et de cassation, consacrant ainsi le principe de la rétribution par l'Etat de l'avocat, par substitution au régime spécifique et dérogatoire d'assistance judiciaire gratuite qu'avait laissé subsister l'article 177 de la loi n° 91-647 du 10 juillet 1991 concernant l'aide juridique. Cette modification imposait une réforme des textes fixant les modalités de rétribution des avocats, annoncée par l'article L. 104 susvisé par décret en Conseil d'Etat. Cependant, différents problèmes liés à la contestation de l'aide juridique ont retardé l'adoption de ce texte qui devait être soumis au Conseil national de l'aide juridique au mois de décembre 2000, mais dont la grève des barreaux a fait reporter l'examen au 4 mai 2001. Les observations formulées par le conseil et qui ont dû être validées par le secrétaire d'Etat au budget ont conduit à une augmentation du montant de l'aide juridictionnelle qui sera accordée aux avocats plaidant devant les juridictions de pensions. Ce texte, à l'initiative du ministre de la justice, sera transmis pour avis au Conseil d'Etat concomitamment au décret général d'application de la loi de 1998 précitée, auquel il est lié et dont la publication pourrait intervenir d'ici à l'automne.
