@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990516704
+
+- Question : [SEQ990516704](seq990516704.md) — Mise en place d'outils statistiques mesurant le sentiment d'insécurité
+
+## Réponse
+
+*Ville, JO du 2000-10-05, page 3410*
+
+Réponse. - La question posée par le parlementaire a trait à ce qui constitue l'une des préoccupations majeures des acteurs de la politique de la ville dans le cadre de la mise en uvre des contrats locaux de sécurité. En effet, il est inconcevable aujourd'hui d'initier des politiques publiques sans prévoir les dispositifs d'évaluation. Pour ce faire, les acteurs de terrain disposent aujourd'hui de deux documents ressources : le guide sur les CLS et les actes des rencontres de Montpellier. Le diagnostic préalable, partagé par les partenaires, est destiné à procurer à l'ensemble des acteurs la photographie la plus précise possible de la situation initiale. Il est indispensable à la rédaction du contrat local de sécurité. Il agrège et synthétise les données recueillies tant par la police que par la justice, l'éducation nationale, les services municipaux... ; il permet de donner d'une même situation un ensemble d'éclairages différents mais complémentaires, et de révéler par-là même les champs d'action pertinents. Tous les CLS signés à ce jour sont appuyés sur un tel diagnostic. Une évaluation permanente, ensuite, seule gage de pérennité du CLS et de son adaptation constante à la réalité changeante du terrain, est seule capable de mesurer l'impact des mesures prises, d'en atténuer ou d'en amplifier les effets. La circulaire interministérielle du 7 juin 1999 relative aux contrats locaux de sécurité rappelle, entre autres, ces principes, et indique qu'un groupe de suivi technique, composé de représentants des signataires du contrat, doit tenir en permanence un tableau de bord présentant les indicateurs d'exécution et de résultats et comportant une appréciation de l'évolution du sentiment d'insécurité de la population concernée.
