@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930702224
+
+- Question : [SEQ930702224](seq930702224.md) — Exonération du rachat de carte grise et de vignette en cas de vol de véhicules automobiles
+
+## Réponse
+
+*Budget, JO du 1993-10-14, page 1899*
+
+Réponse. - La taxe différentielle sur les véhicules à moteur est un impôt réel perçu pour le compte des départements. La vignette qui constate son paiement est attachée au véhicule dont elle porte le numéro d'immatriculation. Elle est due pour l'année entière. Par suite, dès lors qu'un véhicule pour lequel la vignette a été acquise est volé en cours de période d'imposition, la taxe différentielle doit être acquittée une nouvelle fois sans abattement pour le véhicule acheté en remplacement. Toutefois, en ce qui concerne le véhicule acquis au cours de la période d'imposition, il résulte des dispositions du I de l'article 317 duodecies de l'annexe II au code général des impôts que la taxe n'est pas due si la première mise en circulation a lieu entre le 15 août et le 30 septembre. Cet aménagement représente un allégement substantiel. Il ne peut être envisagé d'aller au-delà. En effet, la mesure proposée qui devrait nécessairement être étendue à tous les véhicules acquis au cours de la période d'imposition entraînerait d'importantes pertes de recettes pour les départements, qui sont incompatibles avec leurs contraintes budgétaires. De plus, elle compliquerait à l'excès l'administration et le contrôle de la taxe. S'agissant, d'autre part, de la taxe due à l'occasion de la délivrance du certificat d'immatriculation du nouveau véhicule, une éxonération, même partielle, ne peut être envisagée dès lors qu'elle dérogerait aux principes qui gouvernent cet impôt qui est perçu sans que soient pris en considération des éléments tenant à la personne du redevable ou aux circonstances ayant motivé la demande. Par ailleurs, il en résulterait des pertes de recettes pour les régions au profit desquelles la taxe en cause est perçue.
