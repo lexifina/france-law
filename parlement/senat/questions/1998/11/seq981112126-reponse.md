@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981112126
+
+- Question : [SEQ981112126](seq981112126.md) — Présidence des offices du tourisme
+
+## Réponse
+
+*Intérieur, JO du 1999-02-25, page 622*
+
+Réponse. - L'article L. 2231-12 du code général des collectivités territoriales (CGCT) prévoit que la présidence du comité de direction d'un office du tourisme dans une station classée ou une commune littorale appartient au maire. Lorsque l'office du tourisme présente un caractère intercommunal, cette fonction est assurée de droit par le maire de la commun où l'office a son siège en application de l'article R. 142-22 du code des communes. L'article R. 142-7 du code des communes prévoit que la présidence de séance du comité de direction est assurée, en l'absence du président de droit, par un vice-président, élu parmi ses membres, hormis ceux qui ont la qualité de conseiller municipal. Le second alinéa de cet article permet également au maire de déléguer certaines de ses attributions en qualité de président du comité de direction à ce même vice-président. Les dispositions de l'article L. 2122-18 du CGCT s'appliquent aux fonctions dévolues au maire en tant qu'autorité exécutive de la commune et ne s'appliquent pas aux offices du tourisme. Il peut paraître effectivement peu pertinent de limiter les facultés de suppléance de sa présidence de façon aussi stricte dès lors que la commune assure la tutelle de l'établissement public. Actuellement, seule la modification de l'article L. 2231-12 précité permettrait de prévoir l'attribution permanente ou occasionnelle de la présidence de droit à un adjoint délégué au tourisme. Il est en conséquence envisagé de saisir la secrétaire d'Etat au tourisme de cette question qui relève au premier chef de sa compétence afin d'examiner l'opportunité de modifier les textes en la matière.
