@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871208809
+
+- Question : [SEQ871208809](seq871208809.md) — Implantation des entreprises françaises à l'étranger : fiscalité
+
+## Réponse
+
+*Budget, JO du 1988-03-03, page 278*
+
+Réponse. -L'article 27 de la loi de finances rectificative pour 1987, n° 87-1061 du 30 décembre 1987, modifie le régime fiscal des implantations commerciales réalisées à l'étranger à compter du 1er janvier 1988. Cette réforme s'inscrit dans la logique de celle de la fiscalité des groupes. Elle distingue les investissements commerciaux dans les pays membres de la Communauté économique européenne de ceux qui sont réalisés dans d'autres pays. Pour les implantations dans la C.E.E., le nouveau régime autorise les entreprises françaises à constituer une provision égale aux pertes réalisées par leurs filiales commerciales à l'étranger dans les cinq ans de l'implantation ou du renforcement de celle-ci, dans la limite du montant de l'investissement. Cette provision est réintégrée au rythme des bénéfices de la filiale et au plus tard la dixième année qui suit l'investissement. En dehors de la C.E.E., la loi de finances rectificative supprime l'accord préalable de l'administration et la limite de cinq millions de francs instituée par la loi de finances pour 1987. Les entreprises peuvent déduire une provision égale au montant de l'investissement réalisé dans les cinq ans de la première implantation dans un état étranger. Cette provision est réintégrée par fractions égales de la cinquième à la dixième année qui suit l'implantation à l'étranger. Enfin, le régime de provision prévu en faveur des implantations industrielles à l'étranger, sur agrément, est étendu aux entreprises qui ont pour objet d'assurer un service de support logistique à l'exportation. Ces dispositions répondent dans une large mesure aux préoccupations exprimées par l'honorable parlementaire.
