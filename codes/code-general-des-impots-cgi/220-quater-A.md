@@ -1,6 +1,6 @@
 # Article 220 quater A
 
-I. - La société constituée exclusivement pour le rachat de tout ou partie du capital d'une entreprise, dans les conditions mentionnées au paragraphe II, peut bénéficier d'un crédit d'impôt.
+I. - La société constituée exclusivement pour le rachat de tout ou partie du capital d'une entreprise, dans les conditions mentionnées au paragraphe II (1), peut bénéficier d'un crédit d'impôt.
 
 Pour chaque exercice, le crédit d'impôt est égal à un pourcentage des intérêts dus au titre de cet exercice sur les emprunts contractés par la société constituée en vue du rachat au cours de l'année de création de cette société. Ce pourcentage est égal au taux normal de l'impôt sur les sociétés applicable aux bénéfices réalisés par la société rachetée au titre de l'exercice précédent. Le crédit d'impôt est limité au montant de l'impôt sur les sociétés acquitté par la société rachetée au titre de ce dernier exercice, dans la proportion des droits sociaux que la société nouvelle détient dans la société rachetée. Il est imputé sur l'impôt sur les sociétés dû au titre du même exercice par la société nouvelle ; l'excédent est remboursé à la société.
 
@@ -9,6 +9,8 @@ Le crédit d'impôt prévu au présent article ne constitue pas un produit impos
 Les actions de la société nouvelle peuvent bénéficier d'un droit de vote double dès leur émission.
 
 La société nouvelle peut émettre des obligations convertibles ou des obligations à bons de souscription d'actions dès sa création. Pendant un délai de deux ans, ces titres ne peuvent être cédés qu'aux porteurs de titres de la société nouvelle.
+
+Les administrateurs de la société rachetée peuvent lui être liés par un contrat de travail.
 
 II. - Le bénéfice des dispositions du paragraphe I est subordonné aux conditions suivantes :
 
@@ -36,4 +38,4 @@ Les emprunts mentionnés au deuxième alinéa du paragraphe I doivent être cont
 
 Le rachat est effectué entre le 15 avril 1987 et le 31 décembre 1991.
 
-.
+(1) Voir l'article 1740 quinquies pour le cas ou l'une des conditions cesse d'être satisfaite.
