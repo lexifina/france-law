@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040411721
+
+- Question : [SEQ040411721](seq040411721.md) — Suppression du particularisme familial à Mayotte
+
+## Réponse
+
+*Outre-mer, JO du 2004-10-28, page 2483*
+
+L'honorable parlementaire, excipant de l'évolution récente du droit de la famille applicable à certains habitants de Mayotte, expose ses craintes quant à une éventuelle évolution du même droit en Alsace-Moselle. Les explications qui suivent devraient être de nature à apaiser ses inquiétudes. Protégé par l'article 75 de la Constitution, le statut civil personnel des habitants de Mayotte qui sont originaires de cette île comprend le droit de la famille. Ce statut, et partant ce droit, doivent respecter les principes fondamentaux de la Constitution. L'article 68 de la loi de programme pour l'outre-mer du 21 juillet 2003 a ainsi modifié le droit mahorais de la famille en excluant les dispositions contraires aux principes constitutionnels ; elles ont été jugées conformes à la Constitution par la décision du Conseil constitutionnel n° 2003-474 DC du 17 juillet 2003. Ce texte n'abroge pas le statut civil personnel mais il en organise le maintien dans le respect des droits et libertés attachés à la qualité de citoyen français. Les citoyens français d'Alsace-Moselle ne connaissent pas de statut civil personnel propre, mais un droit de la famille original résultant de deux anciens et deux nouveaux droits et qui, depuis la loi du 1er juin 1924 mettant en vigueur la législation civile française en Alsace-Moselle, s'est constamment rapproché du droit national notamment par la loi n° 90-1248 du 29 décembre 1990 qui a abrogé les dispositions particulières du droit civil local concernant l'état et la capacité des personnes et la tenue du registre matrimonial. Ainsi, les statuts civils respectifs des habitants de Mayotte et d'Alsace-Moselle et les droits de la famille qui leur sont attachés n'ont aucun point commun et leur évolution est totalement indépendante.
