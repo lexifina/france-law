@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990415244
+
+- Question : [SEQ990415244](seq990415244.md) — Situation de certains fonctionnaires de La Poste
+
+## Réponse
+
+*Industrie, JO du 1999-08-19, page 2819*
+
+Réponse. - La réglementation postale antérieure à 1992 offrait aux lauréats de concours nationaux qui refusaient une nomination proposée au plan national de s'inscrire sur une liste spéciale du tableau de mutation dans l'attente d'une nomination sur place. En 1992, la déconcentration du recrutement au niveau local dans le cadre de la mise en uvre de la réforme de La Poste a conduit à la suppression des listes spéciales, les nouveaux agents recrutés et promus étant nommés au sein des structures territoriales dans lesquelles ils se sont portés candidats. Dès lors, l'inscription des agents qui figuraient sur la liste spéciale du tableau des mutations a été limitée à une durée de quatre ans et les agents concernés en ont été informés. Ce délai est décompté à partir de la date de mise en uvre des tableaux de v ux de mutation par regroupements de fonctions. Les inscriptions en liste spéciale sont donc arrivées à terme le 5 avril 1998 pour les niveaux II.3 à III.3, et le 24 avril 1999 pour les autres niveaux. Depuis 1992, certains départements où la mobilité des personnels est faible ont malgré tout nommé régulièrement quelques agents inscrits sur les listes spéciales. En outre, La Poste, soucieuse d'offrir des possibilités de nomination à tous les lauréats d'un concours national, a consulté en 1998 tous les agents inscrits sur liste spéciale pour savoir s'ils acceptaient une nomination dans un département d'Ile-de-France, nomination qui, en leur permettant d'acquérir la qualité de fonctionnaire, interviendrait dans ce cas avant le 24 avril 1999. Sur 2 000 agents concernés au niveau national, une cinquantaine ont accepté une affectation en Ile-de-France et y ont été nommés.
