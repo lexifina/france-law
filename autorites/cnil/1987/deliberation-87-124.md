@@ -1,0 +1,17 @@
+# Délibération portant sur un modèle type national informatique présenté par la caisse nationale d'allocations familiales et destiné à mettre en oeuvre un archivage des documents relatifs aux droits des allocataires
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 87-124
+- Date : 1987-12-15
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017654097
+
+La Commission Nationale de l'Informatique et des Libertés, Vu la Convention du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ; Vu la loi n° 78-17 du 6 janvier 1978 relative à l'Informatique, aux Fichiers et aux Libertés ; Vu le décret n° 78-774 du 17 juillet 1978 pris pour l'application de la loi susvisée ; Vu la loi n° 79-18 du 3 janvier 1979 sur les Archives ; Vu le décret n° 79-1037 du 3 décembre 1979 pris pour l'application de la loi susvisée, relatif à la compétence des services d'archives publics et à la coopération entre les administrations pour la collecte, la conservation et la communication des archives publiques, et notamment son article 15 ; Vu le décret n° 71-683 du 13 juillet 1971 modifiant le décret n° 59-819 du 30 juin 1959, et notamment ses articles 78 et 79 ; Après avoir entendu Monsieur Roland Cadet en son rapport et Madame Charlotte-Marie PITRAT Commissaire du Gouvernement en ses observations ;
+
+Considérant que le projet soumis à la Commission comporte un système d'archivage électronique sur disques optiques numériques des pièces justificatives fournies par les ressortissants des Caisses d'Allocations Familiales et un système d'interrogation du contenu de cet archivage ; que la finalité de ces systèmes, qui sont de nature à faciliter grandement le fonctionnement interne de ces Caisses, ne peut qu'être approuvée ; Considérant d'abord qu'il convient de modifier la rédaction de l'article 1er du projet d'acte réglementaire pour qu'il vise en même temps le système d'archivage et le système d'interrogation de celui-ci ; que les autres dispositions de ce projet n'appellent aucune remarque particulière ;
+
+Considérant ensuite que l'enregistrement des données nominatives dans les disques optiques numériques entraîne la destruction des documents-papier dont ces données sont issues ; que les dispositions de l'article 79 du décret susvisé du 13 juillet 1971 n'autorisent indirectement cette destruction que lorsque les documents-papier sont remplacés par des reproductions microfilmées ; qu'il serait souhaitable que ce texte soit modifié pour remplacer cette mention des reproductions microfilmées par une formule plus générale englobant les moyens techniques présents et à venir permettant de restituer dans leur intégralité les données nominatives enregistrées dans les traitements informatiques ; Considérant enfin que l'acte réglementant le système doit être complété pour prévoir les conditions dans lesquelles le modèle national peut être appliqué par les Caisses locales d'allocations familiales ; que celles-ci doivent adresser à la Commission une déclaration de référence conforme à celle arrêtée par la Commission les 18 et 25 février 1986 et communiquée à la Caisse nationale d'allocations familiales par lettre du 11 mars 1986 ;
+
+Emet un avis favorable au projet qui lui est soumis par la Caisse nationale des allocations familiales, sous les réserves qui précèdent. Le Président, Jacques FAUVET
