@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991019302
+
+- Question : [SEQ991019302](seq991019302.md) — Double délivrance du baccalauréat français et du baccalauréat allemand, l'Abitur
+
+## Réponse
+
+*Éducation, JO du 2000-06-15, page 2140*
+
+Réponse. - Une demande de délivrance simultanée du baccalauréat et de l'Abitur a été adressée par le lycée des Pontonniers de Strasbourg au recteur de l'académie de Strasbourg et transmise par celui-ci au ministère. Pour la partie française il n'existe pas en principe de concurrence entre une section à délivrance simultanée et l'option internationale du baccalauréat (OIB) en langue allemande implantée au lycée des Pontonniers. Toutefois la partie allemande a fait état de sa crainte que l'ouverture d'une section à délivrance simultanée ne porte préjudice à la section OIB, dont les effectifs sont assez restreints. Après que la partie allemande eut confirmé qu'elle ne pouvait accepter la cohabitation de la délivrance simultanée et de l'OIB, il appartient au recteur de l'académie de Strasbourg de décider si l'académie souhaite cependant établir la délivrance simultanée au Lycée des Pontonniers. Dans ce cas l'OIB devrait être transférée dans un autre établissement de la ville. La partie allemande est peu favorable à cette solution. Elle l'accepterait mais pourrait envisager à terme, si l'évolution des effectifs de l'OIB était négative, de supprimer l'OIB à Strasbourg. Le recteur de l'académie de Strasbourg, responsable de la politique linguistique dans son académie, fera connaître à l'automne 2000 s'il décide d'implanter la délivrance simultanée au lycée des Pontonniers ou s'il l'établit dans un autre lycée de Strasbourg. Le ministère de l'éducation nationale attache du prix à ce qu'une section internationale continue à accueillir les élèves allemands et franco-allemands résidant à Strasbourg.
