@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920119619
+
+- Question : [SEQ920119619](seq920119619.md) — Développement à long terme des débouchés en produits transformés
+
+## Réponse
+
+*Agriculture, JO du 1992-07-09, page 1564*
+
+Réponse. - L'industrie est aujourd'hui un débouché privilégié pour les produits issus de l'agriculture et la valeur ajoutée procurée par les activités de transformation et de commercialisation des produits doit permettre de rémunérer les producteurs agricoles de manière satisfaisante. Toutefois, dans un contexte de remise en cause de la politique agricole commune, notamment en matière de prix et de débouchés, il devient nécessaire de renforcer les liens financiers entre producteurs et industrie de transformation, notamment l'industrie agro-alimentaire de première transformation. Un tel rapprochement pourrait notamment se concrétiser par l'établissement de liens financiers stables, en particulier la participation des producteurs au capital de leur partenaire industriel. Ce système présenterait un double intérêt : 1° pour l'entreprise, avec la présence à son capital d'actionnaires de long terme, directement impliqués dans le développement de l'entreprise. L'association des producteurs agricoles à la gestion et aux décisions de leur partenaire industriel serait sans aucun doute un élément de fidélisation et de motivation supplémentaire, bénéfique pour l'entreprise ; 2° pour le producteur agricole, outre une plus grande motivation, le fait d'être associé au capital de leur principal partenaire industriel pourrait apporter un complément de revenu, lié aux performances de l'entreprise, et pourrait contribuer à la constitution d'une épargne, de long terme. Le ministère de l'agriculture et de la forêt est favorable à la mise en place, au sein des entreprises les plus concernées, de tels schémas.
