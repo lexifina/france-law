@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931204269
+
+- Question : [SEQ931204269](seq931204269.md) — Situation des producteurs européens de légumes
+
+## Réponse
+
+*Agriculture, JO du 1994-04-14, page 870*
+
+Réponse. - Les producteurs de fruits et légumes souhaitent la mise en place de mesures permettant la maîtrise des importations des pays tiers. Les autorités françaises sont intervenues en Conseil des ministres européens pour que la Commission réalise un inventaire des concessions accordées à certains pays tiers, ainsi que l'évaluation de leur impact sur le marché communautaire. Elles ont aussi demandé que cette instance s'efforce d'obtenir un mécanisme de concertation pour la gestion des calendriers des importations, en vue d'obtenir une meilleure complémentarité avec la production nationale et communautaire. Les pouvoirs publics ont veillé à ce que la procédure des certificats d'importation soit effectivement appliquée, et lors de la dernière campagne, les pommes, les cerises et les aulx ont été placés sous ce régime, ces derniers ayant été contingentés à la suite de l'intervention française. Lors de la préparation de l'offre communautaire au GATT, les services du ministère de l'agriculture et de la pêche ont défendu le maintien d'un système proche du prix de référence, pour les fruits et légumes soumis au mécanisme des échanges avec les pays tiers, tel que le prévoit le règlement 1035/72. Ce dispositif figure dans la proposition finale de la Commission sous forme du prélèvement d'un équivalent tarifaire, lorsque le prix des importations des produits concernés est inférieur à une valeur définie du prix d'entrée, dont le niveau est égal à la moyenne des prix de référence sur la période de 1986 à 1988. De plus, pour la tomate, la courgette et le concombre, la période d'application couvre l'année complète.
