@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991221506
+
+- Question : [SEQ991221506](seq991221506.md) — Zonage et études préalables à la définition des zones d'assainissement non collectif
+
+## Réponse
+
+*Aménagement du territoire, JO du 2000-03-30, page 1139*
+
+Réponse. - La ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question relative aux zonages d'assainissement que doivent réaliser les communes ou leurs établissements de coopération, en vertu de l'article L. 2224-10 du code général des collectivités territoriales. Cet article prévoit notamment que les zones qu'il définit sont délimitées après enquête publique, aussi le terme de " zonage d'assainissement " doit-il être réservé, en toute rigueur, au zonage arrêté à la suite de cette dernière, soit au seul résultat de la démarche suivie pour son élaboration, à l'exclusion de cette démarche elle-même. Il faut cependant préciser que la délimitation des zones d'assainissement collectif et non collectif, qui résulte d'une réflexion prospective de la commune sur le devenir de son mode d'assainissement en fonction de considérations technico-économiques et environnementales, ainsi que indiqué par la circulaire du 12 mai 1995 relative à l'assainissement des eaux usées urbaines, doit en conséquence s'appuyer sur des études approfondies, qui devront notamment comprendre une analyse de la comptabilité des filières d'assainissement non collectif avec les contraintes particulières du territoire communal. Ainsi, les études de zonage constituent un préalable indispensable à toute définition des zones d'assainissement sur lesquelles les communes pourront appuyer définitivement la définition de leur stratégie en matière d'assainissement ; elles bénéficient pour cette raison d'aides importantes des agences de l'eau.
