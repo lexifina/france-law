@@ -1,408 +1,450 @@
 # Article Annexe I
 
-Le programme implique la connaissance des grands systèmes contemporains : économies de marché, économies planifiées. Les particularités des économies en voie de développement.
+Première épreuve : Economie.
 
-I. - Le domaine de l'économie
+Deuxième épreuve
 
-La production
+Composition sur un sujet de droit public
 
-Les entreprises : les différents types d'entreprises, les groupes, les sociétés multinationales. La décision de production, les combinaisons productives, la fonction de production, la productivité. L'activité des entreprises, comptes d'exploitation et bilan. Les échanges, formation des prix et marchés.
+1. Théorie générale du droit public :
 
-La répartition des revenus et des patrimoines
+Les sources du droit public et la hiérarchie des normes ;
 
-Les théories. Typologie des revenus perçus (revenus primaires et revenus de transfert). L'accumulation et la formation des patrimoines.
+Les personnes publiques ;
 
-La consommation
+L'organisation juridictionnelle française ;
 
-Consommation individuelle et collective. Les déterminants de la consommation des ménages. L'épargne.
+Les droits fondamentaux et les libertés publiques.
 
-L'investissement
+2. Droit constitutionnel et institutions politiques :
 
-Typologie. Fonction d'investissement. Les procédures de choix.
+Théorie constitutionnelle : souveraineté, Etat et nation, les mécanismes démocratiques ;
 
-Fonctions économiques et comptabilité nationale
+Le régime politique français depuis la IIIe République ;
 
-Les unités et les secteurs institutionnels, les agrégats, les grands tableaux de la comptabilité nationale (T.E.E., T.E.S., T.O.F.).
+La Constitution de 1958 et son application ;
 
-Monnaie et financement
+Notions sommaires et actualisées sur les institutions des principaux pays européens et des Etats-Unis.
 
-Les phénomènes monétaires nationaux et internationaux
+3. Organisation administrative française :
 
-Au plan national :
+Organisation de l'Etat et décentralisation ;
 
-Typologie des droits financiers et institutions financières. Opérations et instruments de crédit. Les théories relatives à l'offre et à la demande de monnaie, aux taux d'intérêt, à l'intermédiation. La création monétaire, marché monétaire. Marchés financiers.
+L'administration d'Etat, les collectivités décentralisées et leurs groupements, les établissements publics, les autres personnes morales de droit public (groupements d'intérêt public, agences, autorités administratives indépendantes).
 
-Au plan international :
+4.L'action administrative :
 
-Les marchés des changes. Les balances des paiements et les mouvements de capitaux. Les liquidités monétaires internationales. Zones monétaires et système monétaire international. Les marchés financiers internationaux.
+La règle de droit et le principe de légalité ;
 
-Les échanges extérieurs
+Le pouvoir réglementaire ;
 
-Les fondements de l'économie internationale. Prix internationaux et termes de l'échange. Balance des biens et services. Les courants d'échanges et l'internationalisation des activités économiques à l'époque contemporaine.
+Les actes de l'administration : les actes unilatéraux, les contrats administratifs ;
 
-Les mouvements de l'activité économique
+La police administrative ;
 
-Les phénomènes de fluctuations et de croissance dans les économies ouvertes.
+Le service public et ses modes de gestion ;
 
-Les déséquilibres inflationnistes et leurs analyses.
+La responsabilité de l'administration ;
 
-Les " crises " contemporaines : le ralentissement de la croissance, les désajustements (chômage, inflation, déséquilibres externes, endettement). La configuration internationale des forces industrielles et les nouvelles données technologiques.
+Contrôle et évaluation de l'action administrative.
 
-II. - Politique économique
+5. Les biens publics et l'expropriation pour cause d'utilité publique
 
-1. Les décisions de politique économique. Les processus de décision : objectifs et contraintes (croissance, redistribution, équilibre vis-à-vis de l'extérieur). La fonction de préférence collective.
+Domaine public, domaine privé, secteur public.
 
-2. Modes et instruments d'intervention économique :
+6. Les marchés publics :
 
-Les politiques budgétaire et fiscale
+Données générales et dispositions communes ;
 
-Les fonctions budgétaires : la fonction de stabilisation conjoncturelle, la fonction de redistribution, la fonction d'affectation des ressources (la production de biens collectifs, les biens tutélaires, les nationalisations).
+Les différents types de marchés.
 
-Débat sur le principe et les limites de la politique budgétaire. Les instruments budgétaires ; indicateurs et normes : masses et soldes budgétaires ; dépenses publiques, impôts et prélèvements obligatoires. L'incidence des prélèvements obligatoires.
+7. Les travaux publics :
 
-La politique monétaire
+La notion de travaux publics ;
 
-Politique monétaire et régulation de la conjoncture ; la controverse entre monétarisme et keynésianisme. Politique monétaire et niveau de croissance.
+La responsabilité du fait des dommages causés lors de travaux publics ;
 
-Débat sur le principe et les limites de la politique monétaire. Les instruments de la politique monétaire.
+Les différents types de travaux publics.
 
-Les actions directes sur les mécanismes économiques
+8. La fonction publique :
 
-Le cadre législatif et réglementaire ; l'action contractuelle. Les interventions sur les marchés des produits et sur l'emploi :
+Principes généraux ;
 
-justifications et modalités de la politique de la concurrence, de la politique des prix, de la politique de l'emploi. Les politiques des revenus.
+Droits et obligations ;
 
-3. Stratégies économiques :
+Règles de recrutement et de carrière ;
 
-Les stratégies économiques (combinaisons des modes et des instruments de politique économique en vue d'un objectif final) :
+Les principales caractéristiques de la fonction publique territoriale.
 
-stabilisation de la conjoncture, stabilisation des changes, compétitivité internationale.
+Troisième épreuve
 
-Ces stratégies peuvent concerner chacun des aspects de l'activité économique (recherche et innovation, ressources naturelles et énergétiques, secteurs d'activité, protection sociale, épargne et investissement, aménagement du territoire).
+Rédaction d'une note à partir d'un dossier soulevant un problème d'organisation ou de gestion rencontré par une collectivité territoriale
 
-La planification : instrument de mise en cohérence des politiques sectorielles. Différents types de planification. L'utilisation des modèles en politique économique.
+1.L'organisation et les compétences des collectivités territoriale et de leurs établissements publics et les grands problèmes de la décentralisation :
 
-Deuxième épreuve : Droit public. I. - Droit constitutionnel et institutions politiques
+L'organisation, les compétences et les missions des collectivités territoriales et de leurs groupements ;
 
-A. - Les sources du droit constitutionnel
+Les élus locaux : conditions d'accès et d'exercice des mandats ;
 
-L'élaboration des constitutions et les différents types de constitutions.
+Le maire, agent de l'Etat ;
 
-La hiérarchie des actes juridiques et le contrôle de la constitutionnalité des lois.
+Les organes des collectivités locales : élection, organisation et répartition des compétences ;
 
-Les rapports de la loi et du règlement.
+Typologie et règles d'organisation des établissements publics locaux ;
 
-La Constitution française du 4 octobre 1958, ses révisions et son application ; les lois organiques.
+Les relations entre l'Etat et les collectivités territoriales :
 
-La jurisprudence du Conseil constitutionnel.
+contrôle de légalité et politiques partenariales.
 
-B. - Institutions politiques
+2. Politique budgétaire et financière des collectivités territoriales :
 
-La souveraineté politique et ses modes d'expression.
+a) Les budgets locaux :
 
-La représentation et les régimes électoraux.
+Principes généraux ;
 
-L'agencement des institutions. Les exécutifs (monisme et dualisme gouvernemental). Les parlements (monocaméralisme et bicaméralisme). Les cours suprêmes. Confusion, collaboration et séparation des pouvoirs.
+Préparation, vote, exécution et contrôles ;
 
-L'évolution des institutions politiques françaises depuis la IIIe République.
+Notions sur le plan comptable général et sur les instructions budgétaires et comptables applicables aux collectivités locales ;
 
-Les institutions politiques actuelles en France.
+Les comptables publics.
 
-Les différents types de régime politique. Les institutions politiques des Etats-Unis, de l'U.R.S.S., de la Grande-Bretagne, de l'Allemagne fédérale et de l'Italie.
+b) Les ressources locales :
 
-C. - Les droits fondamentaux et leur protection
+Les recettes fiscales ;
 
-Les droits de l'homme (déclarations et préambules), les libertés publiques et les principes généraux du droit.
+Les dotations et subventions de l'Etat ;
 
-Les principes économiques et sociaux.
+Les emprunts ;
 
-La protection juridictionnelle des droits fondamentaux dans le contentieux constitutionnel et le contentieux administratif.
+Les ressources domaniales ;
 
-II. - Droit administratif et institutions administratives
+La tarification des services locaux.
 
-A. - Les sources du droit administratif
+c) Les dépenses locales :
 
-Le principe de légalité et la hiérarchie des actes administratifs.
+Dépenses obligatoires et dépenses facultatives.
 
-Les actes réglementaires, les actes individuels, les contrats administratifs, la jurisprudence administrative.
+d) La trésorerie des collectivités locales ; la gestion de la dette.
 
-B. - Les structures et le fonctionnement
+e) Les transferts de compétences et leur compensation financière.
 
-de l'administration française
+3. La gestion du personnel dans les collectivités territoriales :
 
-Les administrations centrales ; la coordination interministérielle ; les rouages administratifs de la planification et de l'aménagement du territoire.
+Le statut de la fonction publique territoriale : organisation, recrutement, carrière, protection sociale ;
 
-Les circonscriptions territoriales de l'Etat et l'administration de mission.
+La gestion prévisionnelle des effectifs.
 
-Les collectivités territoriales et les établissements publics.
+4. Les services publics locaux :
 
-L'Etat et les collectivités publiques ; déconcentration et décentralisation ; contractualisation.
+Gestion directe ;
 
-Le secteur public et parapublic ; les " démembrements " de l'administration.
+Gestion déléguée ;
 
-Les relations de l'administration et des administrés. La participation, la concertation, l'administration consultative.
+Les principales formes de gestion et de financement des établissements publics locaux ;
 
-C. - Les agents de l'administration
+Les marchés publics.
 
-Les diverses catégories d'agents de l'Etat et des collectivités publiques.
+5. Les politiques de développement local :
 
-Les problèmes généraux de la fonction publique : statuts, recrutement, obligations, responsabilité et droits des fonctionnaires, procédures de participation et de consultation.
+Les collectivités locales et le développement économique ;
 
-D. - L'action de l'administration
+L'intercommunalité ;
 
-L'acte administratif unilatéral.
+Les modes de financement du développement local ;
 
-Les contrats administratifs.
+L'aménagement du territoire.
 
-Les biens : expropriation, domaine, travaux publics.
+6. La politique de l'espace urbain :
 
-Les principes généraux de l'intervention économique.
+Les règles nationales et locales d'urbanisme ;
 
-La recherche de la rentabilité et de l'efficacité dans l'administration.
+Le droit de préemption et les réserves foncières ;
 
-E. - La justice administrative
+La fiscalité de l'urbanisme.
 
-L'organisation judiciaire française et la justice administrative.
+7. Les collectivités territoriales et les citoyens :
 
-Les juridictions administratives et leur organisation.
+Information et communication locales : obligations et moyens des collectivités locales ;
 
-Le principe de séparation des autorités administratives et judiciaires.
+La concertation et la participation des citoyens.
 
-Les recours en annulation et les recours de pleine juridiction.
+Quatrième épreuve
 
-Principes généraux du contentieux administratif.
+Composition portant sur l'évolution générale politique, économique et sociale du monde et le mouvement des idées depuis le milieu du XVIIIe siècle
 
-F. - Les relations entre l'administration et les administrés
-
-La responsabilité des agents dans leurs rapports avec les administrés.
-
-La protection juridique des administrés ; accès aux documents et aux fichiers, motivation des actes administratifs, exécution des décisions de justice, recours au médiateur.
-
-III. - Intégration du droit international
-
-et du droit communautaire dans l'ordre juridique français
-
-A. - Droit international
-
-L'application des traités et des autres sources.
-
-L'évolution de la jurisprudence (Conseil constitutionnel, juge administratif, juge judiciaire).
-
-B. - Droit communautaire
-
-L'intégration des traités constitutifs et des actes communautaires.
-
-L'évolution de la jurisprudence (Conseil constitutionnel, juge administratif, juge judiciaire).
-
-Quatrième épreuve : L'évolution générale politique, économique et sociale du monde et le mouvement des idées depuis le milieu du XVIIIe siècle. Cette composition suppose, outre des connaissances précises sur l'évolution du monde et des idées depuis le milieu du XVIIIe siècle, la détention par les candidats d'une solide culture générale historique.
+Cette composition suppose des connaissances sur l'évolution du monde et des idées depuis le milieu du XVIIIe siècle, la détention par les candidats d'une solide culture générale et la capacité d'appréhender les principales problématiques du monde contemporain.
 
 L'épreuve doit notamment permettre d'apprécier l'aptitude des candidats à exprimer, sur le sujet proposé, tant une analyse des faits et des événements qu'une interprétation personnelle et argumentée.
 
-Cinquième épreuve :.
+Cinquième épreuve Composition portant sur une des matières suivantes Droit des affaires 1.L'entreprise :
 
-Droit des affaires I. - Connaissance approfondie de la théorie générale
+Les diverses formes juridiques d'entreprises :
 
-des obligations (droit des contrats et de la responsabilité civile)
+L'entreprise individuelle ; L'entreprise sociétaire (sociétés de personnes, sociétés de capitaux, SARL, EURL) ; L'entreprise publique ou semi-publique ; établissements publics à caractère industriel et commercial, sociétés nationales, sociétés d'économie mixte ;
 
-II. - L'entreprise, cellule de base de la vie des affaires
+La société de droit européen.
 
-A. - Les diverses formes juridiques d'entreprises
+Les formes juridiques de coopération entre entreprises :
 
-L'entreprise individuelle.
+La coopération " sociétaire " : les ententes et leur réglementation
 
-L'entreprise sociétaire (sociétés de personnes, sociétés de capitaux, S.A.R.L.).
+en droit français et en droit européen ;
 
-L'entreprise publique ou semi-publique ; établissements publics à caractère industriel et commercial, sociétés nationales, sociétés d'économie mixte.
+Les " groupements d'intérêt économique " et le " groupement européen d'intérêt économique ".
 
-B. - Les formes juridiques de coopération entre entreprises
+L'entreprise en difficulté :
 
-La coopération " sociétaire " : la société en participation, les groupes de sociétés.
+La prévention des difficultés ;
 
-La coopération " non sociétaire " : les ententes et leur réglementation en droit français et en droit européen.
+La suspension provisoire des poursuites ;
 
-Les " groupements d'intérêt économique ".
+Le règlement judiciaire : la liquidation des biens.
 
-C. - L'entreprise en difficulté
+2. Les relations juridiques de l'entreprise :
 
-La prévention des difficultés.
+Le contrat de commerce
 
-La suspension provisoire des poursuites.
+L'entreprise et l'Etat :
 
-Le règlement judiciaire ; la liquidation des biens.
+Les interventions publiques et la localisation des entreprises :
 
-III. - Les relations juridiques de l'entreprise
+leurs investissements, leurs exportations ;
 
-A. - L'entreprise et l'Etat
+Le droit communautaire des marchés publics.
 
-Les interventions publiques et la localisation des entreprises ; leurs investissements ; leurs exportations.
+L'entreprise et le crédit :
 
-B. - L'entreprise et le crédit
+Les effets de commerce ;
 
-Les effets de commerce.
+La mobilisation des créances à court terme ;
 
-La mobilisation des créances à court terme : escompte, affacturage, cession de créances.
+Les crédits à moyen terme et à long terme ;
 
-Les crédits à moyen terme et à long terme.
+Les crédits bancaires et le financement des investissements :
 
-Le crédit bancaire et le financement des investissements ; formes classiques et formes récentes (crédit-bail).
+formes classiques et formes récentes (crédit-bail).
 
-IV. - Les " biens " spécifiques du droit des affaires
+3. Les " biens " spécifiques du droit des affaires :
 
-Le fonds de commerce.
+Le fonds de commerce ;
 
-Traits essentiels des droits de propriété industrielle nommés (brevets, marques de fabrique, de commerce, ou de services, dessins et modèles) et leurs extensions (savoir-faire).
+Traits essentiels des droits de propriété industrielle nommés et leurs extensions. Brevet communautaire, marques en droit communautaire.
 
-V. - Problèmes d'actualité : concurrence et consommation
+4. Concurrence et distribution :
 
-La concurrence : concurrence déloyale, ententes illicites, abus de position dominante, refus de vente ; pratiques commerciales discriminatoires ; conventions d'exclusivité.
+La concurrence : concurrence déloyale, ententes illicites, abus de position dominante, refus de vente ; pratiques commerciales discriminatoires ; conventions d'exclusivité ; contrôle des concentrations ; OPA, OPE ;
 
-La consommation : protection du consommateur dans le domaine de la vente et du crédit ; les clauses abusives, les produits dangereux.
+La distribution : les contrats de distribution (franchise et autres)
 
-Cinquième épreuve :.
+5. Commerce international :
 
-Droit civil II I. - Les sources du droit civil ;
+Les acteurs du commerce international ;
 
-III. - L'interprétation en droit civil ;
+Les règles organisant les échanges commerciaux : accord général sur le commerce et les services, Organisation mondiale du commerce ;
 
-III. - L'évolution du droit civil depuis 1804.
+Les opérations du commerce international : les règles de droit applicables, les principaux contrats, les garanties ;
 
-I II. - Les personnes physiques : nom, domicile ;
+Le règlement des litiges du commerce international : le recours à une juridiction étatique, l'arbitrage international.
 
-III. - La personnalité morale et les personnes morales du droit privé : sociétés, associations, fondations.
+Droit civil
 
-III. - Propriété et possession :
+1. Les sources du droit :
 
-III. - L'usufruit ; les servitudes ;
+Le renouvellement des sources (constitutionnelle, européenne) ;
 
-III. - Les constructions sur le terrain d'autrui ;
+L'interprétation en droit civil ;
 
-III. - La copropriété des immeubles divisés par appartements ;
+L'adaptation du droit civil à l'évolution de la société depuis 1804.
 
-III. - La règle " En fait de meubles ... ".
+2. Les personnes :
 
-IV. - Les obligations :
+Les personnes physiques, la personnalité juridique ; droits de l'homme ; droits de la personnalité ; le nom, le domicile, l'état ;
 
-III. - Le contrat, en son entier, et notamment :
+Les personnes morales : personnalité morale, classification ;
 
-III. - Formation et validité ;
+condition juridique.
 
-III. - Terme et conditions ;
+3. Droit de la famille :
 
-III. - Force obligatoire ;
+Le mariage, la dissolution du mariage, les régimes matrimoniaux, le concubinage, le pacte civil de solidarité ;
 
-III. - Effets à l'égard des tiers ;
+Les différents modes de filiation ;
 
-III. - Responsabilité contractuelle ;
+L'autorité parentale.
 
-III. - Résolution ; droit de rétention ;
+4. Propriété et possession :
 
-III. - La responsabilité civile (articles 1382 à 1386 du code civil) ;
+Le droit de propriété et ses démembrements ; La propriété mobilière ;
 
-III. - Gestion d'affaires et enrichissement sans cause ;
+La propriété immobilière : achat, vente, publicité foncière.
 
-III. - La monnaie ; les clauses d'échelle mobile ;
+5. Les obligations :
 
-III. - La solidarité passive et le cautionnement.
+Les obligations contractuelles ;
 
-IV. - La vente immobilière :
+Définition du contrat, formation et validité ;
 
-III. - Les principes généraux de la publicité foncière.
+Force obligatoire ;
 
-Cinquième épreuve :.
+Effets à l'égard des tiers ;
 
-Géographie économique et humaine Afin de rester le plus proche possible des faits et éviter une trop grande évasion dans les concepts généraux, on appuiera les connaissances requises dans les paragraphes suivants sur des exemples régionaux les plus précis possible. En particulier, on saura gré aux candidats de manifester une très bonne pratique des faits relatifs à la France et dans une mesure moindre à tous les pays de la Communauté européenne.
+Nullité, résolution, résiliation ;
 
-1. Les hommes et leur répartition à la surface de la terre
+Responsabilité contractuelle ;
 
-La population mondiale ; caractères démographiques et politiques de régulation ; les clivages raciaux, religieux et sociaux.
+Modalités des obligations, obligations complexes, obligations connexes ;
 
-La répartition et les mouvements de population dans le monde.
+Transmission et extinction des obligations ;
 
-Les types d'habitat. La répartition villes-campagnes. Les caractères actuels de l'habitat rural. Les villes contemporaines :
+La responsabilité délictuelle et quasi délictuelle ; conditions, réparation du dommage ; réparation des accidents de la circulation ; Quasi-contrats, gestion d'affaires, enrichissement sans cause.
 
-types d'organisations et de fonctions, les grandes tendances de l'urbanisation actuelle et leurs conséquences sur la société et l'économie.
+6. Consommation :
 
-2. Les activités économiques dans le monde
+Protection du consommateur dans le domaine de la vente et du crédit.
 
-Les activités agricoles :
+Droit pénal
 
-- les relations de l'agriculture et du milieu physique ;
+1. Procédure pénale : notions générales :
 
-- les types d'organisation sociale et économique de l'agriculture : pays socialistes, pays capitalistes, agricultures vivrières et agricultures pour l'exportation... ;
+a) Organisation et compétences des juridictions pénales.
 
-- les produits agricoles et leur commerce international.
+b) Principes généraux de la procédure pénale :
 
-L'exportation des ressources biologiques naturelles : le problème de la forêt dans le monde, les activités liées à l'utilisation des mers et océans et leurs problèmes.
+La poursuite et l'action publique ;
 
-Les activités industrielles :
+L'exercice des droits de la défense ;
 
-Les sources d'énergie et les matières premières d'origine minérale : productions et échanges internationaux ;
+Le jugement ;
 
-Les grandes industries mondiales : métallurgiques, chimiques, textiles, alimentaires et leur répartition régionale.
+L'appel et le pourvoi en cassation.
 
-Géographie et échanges :
+c) Les mesures restrictives et privatives de liberté.
 
-Les grands types de circulation dans le monde : terrestre, maritime, aérienne, principaux courants de trafic ;
+2. Droit pénal général :
 
-Les échanges des produits et des services.
+a) L'infraction :
 
-Cinquième épreuve :.
+Le principe de légalité des délits et des peines ; La classification des infractions ; Infraction unique et pluralité des infractions ; Les éléments constitutifs de l'infraction ; La prescription.
 
-Géographie économique et humaine Afin de rester le plus proche possible des faits et éviter une trop grande évasion dans les concepts généraux, on appuiera les connaissances requises dans les paragraphes suivants sur des exemples régionaux les plus précis possible. En particulier, on saura gré aux candidats de manifester une très bonne pratique des faits relatifs à la France et dans une mesure moindre à tous les pays de la Communauté européenne.
+b) La responsabilité pénale des personnes physiques et morales :
 
-1. Les hommes et leur répartition à la surface de la terre
+La complicité ; La responsabilité pénale du fait d'autrui ; Les causes d'exclusion ou d'atténuation de la responsabilité.
 
-La population mondiale ; caractères démographiques et politiques de régulation ; les clivages raciaux, religieux et sociaux.
+c) La sanction :
 
-La répartition et les mouvements de population dans le monde.
+Les peines ; La confusion des peines ; Les mesures de sûreté ;
 
-Les types d'habitat. La répartition villes-campagnes. Les caractères actuels de l'habitat rural. Les villes contemporaines :
+La suspension et l'extinction de la sanction.
 
-types d'organisations et de fonctions, les grandes tendances de l'urbanisation actuelle et leurs conséquences sur la société et l'économie.
+3. Droit pénal spécial :
 
-2. Les activités économiques dans le monde
+a) Atteintes à l'autorité de l'Etat, à la paix et à la confiance publique :
 
-Les activités agricoles :
+Terrorisme ;
 
-- les relations de l'agriculture et du milieu physique ;
+Faux et usage de faux ;
 
-- les types d'organisation sociale et économique de l'agriculture : pays socialistes, pays capitalistes, agricultures vivrières et agricultures pour l'exportation... ;
+Atteintes à l'administration commises par les personnes exerçant une fonction publique ;
 
-- les produits agricoles et leur commerce international.
+Atteintes à l'administration commises par les particuliers (corruption et autres infractions) ;
 
-L'exportation des ressources biologiques naturelles : le problème de la forêt dans le monde, les activités liées à l'utilisation des mers et océans et leurs problèmes.
+Atteintes à l'action de la justice.
 
-Les activités industrielles :
+b) Crimes et délits contre les personnes :
 
-Les sources d'énergie et les matières premières d'origine minérale : productions et échanges internationaux ;
+Crimes contre l'humanité ;
 
-Les grandes industries mondiales : métallurgiques, chimiques, textiles, alimentaires et leur répartition régionale.
+Atteintes à l'intégrité physique ou psychique ;
 
-Géographie et échanges :
+Atteintes aux intérêts moraux ;
 
-Les grands types de circulation dans le monde : terrestre, maritime, aérienne, principaux courants de trafic ;
+Atteintes aux mineurs et à la famille.
 
-Les échanges des produits et des services.
+c) Crimes et délits contre les biens :
 
-3. L'action de l'homme sur le milieu
+Vol ;
 
-et les actions en faveur de l'environnement
+Escroquerie ;
 
-Eléments d'écologie géographique : les phénomènes actuels de modification des milieux naturels dans le monde : actions érosives, déforestation, pollutions de l'air et des eaux continentales et maritimes.
+Abus de confiance ;
 
-Les actions d'aménagement du milieu : les politiques et les actions de lutte contre l'érosion et la pollution à l'échelle nationale et mondiale.
+Recel et infractions assimilées ;
 
-3. L'action de l'homme sur le milieu
+Atteinte aux systèmes informatisés de données ;
 
-et les actions en faveur de l'environnement
+Blanchiment de l'argent.
 
-Eléments d'écologie géographique : les phénomènes actuels de modification des milieux naturels dans le monde : actions érosives, déforestation, pollutions de l'air et des eaux continentales et maritimes.
+Géographie économique et humaine
 
-Les actions d'aménagement du milieu : les politiques et les actions de lutte contre l'érosion et la pollution à l'échelle nationale et mondiale.
+1. La répartition de la population dans le monde :
 
-Cinquième épreuve :.
+a) Notions de démographie :
 
-Histoire contemporaine I. - Histoire générale du XIXe siècle
+Facteurs socio-économiques et culturels de la fécondité et de la natalité, évolution de la mortalité ;
+
+La marqueterie démographique du globe : structure de la population (pays jeunes, pays vieillissants).
+
+b) Notions de peuplement :
+
+Les migrations ;
+
+Densité, populations rurales et populations urbaines ;
+
+Répartition de la croissance démographique dans les différents pays du globe ;
+
+Les hypothèses prévisionnelles ; la carte du monde en 2020.
+
+2.L'organisation de l'espace :
+
+a) Villes et systèmes de villes :
+
+Villes et agglomérations urbaines ; métropoles et mégapoles ; réseaux urbains, systèmes de villes ;
+
+Localisation des activités et des populations dans les espaces urbanisés ;
+
+Les fonctions des villes ;
+
+La croissance récente des grandes villes, les conséquences sociales ;
+
+Les relations villes-campagnes.
+
+b) Régions et territoires :
+
+Notions de région homogène, région polarisée, identité, limite, territoire, centre / périphérie, réseau.
+
+c) Etats et territoires :
+
+Contrôle territorial, maillages administratifs, frontières, intégration, notions élémentaires de géographie politique ;
+
+recompositions récentes et multiplication des Etats ; les Etats et les organisations transnationales.
+
+3. La mondialisation des échanges et les interdépendances entre les différentes parties du monde :
+
+A l'échelle des grandes zones regroupant le plus souvent plusieurs Etats :
+
+Localisation des principales ressources ;
+
+Répartition des grandes productions économiques ; principaux courants d'échanges ; NTIC et espace financier mondial ; l'internationalisation des firmes ;
+
+Les formes d'interdépendance institutionnelle entre les grandes régions du monde ; les organismes régionaux ou mondiaux de régulation.
+
+4. Les politiques de développement, l'environnement et l'aménagement du territoire :
+
+Transports et aménagement du territoire en Europe ;
+
+La gestion de la production alimentaire ;
+
+Les problèmes de l'eau dans le monde ;
+
+Les actions anthropiques (pollution, déforestation, désertification) et leurs effets (équilibre bioclimatique de la planète, " global et régional change ", bassin hydrologique, bassin-versant) ;
+
+L'identification et la gestion des risques naturels ;
+
+La politique de l'énergie dans le monde ; les planifications de " précaution " et le développement durable, l'émergence des politiques patrimoniales.
+
+Histoire contemporaine
+
+I.-Histoire générale du XIXe siècle
 
 L'Europe en 1815.
 
@@ -414,648 +456,756 @@ Le monde rural ; la révolution industrielle ; le développement urbain.
 
 Les relations internationales ; l'expansion de l'Europe ; les empires.
 
-II. - Histoire des relations internationales depuis 1914
+II.-Les relations internationales des années 1880 à nos jours
 
-La Première Guerre mondiale.
+L'équilibre des puissances, du traité de Berlin à 1914.
 
-La conférence de la paix ; la S.D.N.
+Le déséquilibre des puissances, de la Première à la Seconde Guerre mondiale (1914-1945).
 
-La politique des grandes puissances de 1919 à 1939.
+La montée des Etats-Unis au premier rôle mondial.
 
-La Seconde Guerre mondiale.
+Guerre froide et décolonisations, 1947-1991.
 
-Les grandes crises internationales depuis 1945.
+L'évolution des relations internationales depuis 1975.
 
-III. - Histoire des grandes puissances
+Les relations Nord-Sud.
 
-Les grandes puissances européennes (France, Grande-Bretagne, Allemagne, Italie, U.R.S.S.) depuis la fin de la Première Guerre mondiale.
+Le tiers monde.
 
-Les Etats-Unis depuis 1929.
+III.-Peuples et nations au XXe siècle
 
-La Chine, le Japon depuis 1945.
+La France, de la IIIe République à nos jours.
 
-Cinquième épreuve :.
+Royaume-Uni, Allemagne, Italie, Russie au XXe siècle.
 
-Science politique et administrative I. - Science politique
+Les Etats-Unis depuis la guerre de Sécession.
 
-Le pouvoir politique. Sa structure et sa répartition, le constitutionnalisme, les théories de la domination, la théorie des groupes, la théorie des systèmes d'action, la théorie des organisations. Ses fondements (légitimité et consensus).
+Inde, Chine, Japon dans la deuxième moitié du XXe siècle.
 
-Les organisations politiques. Les partis politiques (organisation, fonctions, système de partis). Les groupes de pression et d'intérêts (typologie, fonctions, mécanismes d'influence).
+Le Moyen-Orient depuis 1945.
 
-Les comportements et attitudes politiques. Le vote et les autres formes de participation. Les mécanismes de représentation. La mobilisation politique. Le clientélisme politique. Socialisation et culture politique. Le rôle des idéologies et des médias.
+Science politique et administrative
 
-Formes et évolution des communautés politiques. Les formes historiques. L'Etat-nation. Le développement et la modernisation politique. Le changement politique (crises et révolutions).
+II.-Les relations internationales des années 1880 à nos jours L'équilibre des puissances, du traité de Berlin à 1914.
 
-II. - Science administrative
+Le déséquilibre des puissances, de la Première à la Seconde Guerre mondiale (1914-1945).
 
-Les modèles d'administration. La bureaucratie classique et les autres modèles. La technocratie.
+La montée des Etats-Unis au premier rôle mondial.
 
-L'action administrative. Les processus de décision (élaboration, prise de décision, application). Les politiques publiques (acteurs et stratégies, évaluation et contrôle).
+Guerre froide et décolonisations, 1947-1991.
 
-La gestion administrative. Organisation et méthodes. La recherche de l'efficacité et de la rentabilité. L'organisation de l'économie publique.
+L'évolution des relations internationales depuis 1975.
 
-Les relations entre le centre et la périphérie. L'administration et le Gouvernement. L'administration sectorielle. Le système politico-administratif local.
+Les relations Nord-Sud.
 
-L'administration et son environnement. L'administration et le Gouvernement. L'administration, les partenaires sociaux et les groupes de pression ; le rôle des associations. L'administration et les administrés ; la transparence administrative.
+Le tiers monde.
 
-Cinquième épreuve :.
+III.-Peuples et nations au XXe siècle
 
-Sociologie I. - Les concepts fondamentaux
+La France, de la IIIe République à nos jours.
 
-Collectivités, groupes, institutions.
+Royaume-Uni, Allemagne, Italie, Russie au XXe siècle.
 
-Socialisation, intégration. Classe, culture, anomie. Mobilité sociale, changement.
+Les Etats-Unis depuis la guerre de Sécession.
 
-Normes, modèles, valeurs, idéologies.
+Inde, Chine, Japon dans la deuxième moitié du XXe siècle.
 
-Statuts et rôles. Pouvoir, influence, autorité, hiérarchie.
+Le Moyen-Orient depuis 1945.
 
-Comportements, attitudes, opinions, stratégies.
+Science politique et administrative
 
-Les relations interpersonnelles. Affinités, cooptation, compétition, agression, conflit.
+I.-Science politique
 
-II. - Eléments méthodologiques
+Le pouvoir politique. Sa structure et sa répartition (le constitutionnalisme, les théories de la domination, la théorie des groupes, la théorie des systèmes d'action, la théorie des organisations). Ses fondements (légitimité et consensus).
 
-Les méthodes. Le plan d'enquête et d'étude. La formulation des hypothèses. Le choix des variables et des indicateurs. Les techniques : l'observation directe et participante, l'étude de documents et de statistiques, l'entretien et le questionnaire, le sondage, les techniques quantitatives de base.
+Les organisations politiques. Les partis politiques (organisation, fonctions, systèmes de partis). Les groupes de pression et d'intérêts (typologie, fonctions, mécanismes d'influence).
 
-Les modes de raisonnement et d'analyse. L'analyse psycho-sociologique. L'analyse de système ou organisationnelle. L'analyse mathématico-formelle. L'analyse du changement et du conflit social. L'analyse fonctionnelle.
+Les comportements et attitudes politiques. Le vote et les autres formes de participation. Les mécanismes de représentation et leur remise en cause actuelle. La mobilisation politique et l'abstentionnisme. Le clientélisme politique. Le financement des organisations et campagnes politiques. Socialisation et culture politique. Le rôle des idéologies et des médias.
 
-III. - Sociologie des groupes et des institutions
+Formes et évolution des communautés politiques. Les formes historiques.L'Etat-nation.L'impact de la construction européenne sur la vie politique des pays membres de l'Union européenne. La modernisation politique. Le changement politique (crises et révolutions).
 
-Société globale, assemblées, groupes restreints.
+II.-Science administrative
 
-Structures et fonctions des groupes.
+Histoire, objet et méthodes de la science administrative. Les modèles d'administration. La bureaucratie classique et les autres modèles. La technocratie. Doctrines et idéologies de l'administration.
 
-La dynamique des groupes (relationnelle et opérationnelle).
+L'action administrative. Les processus de décision (élaboration, prise de décision, application). Les politiques publiques (acteurs et stratégie ; contrôle et évaluation).
 
-La communication dans les groupes et entre les groupes. La décision collective.
+La gestion administrative. Organisation et méthodes. La recherche de l'efficacité, de la rentabilité, de la transparence. Le pouvoir administratif. Processus d'autonomisation de l'administration. Relations entre le centre et la périphérie.L'administration sectorielle.L'administration territoriale.
 
-L'opinion. Les rumeurs ; propagande et publicités.
+Le système politico-administratif local.
 
-La foule. Catastrophes, paniques, violences collectives. L'imaginaire dans les groupes et les institutions.
+L'administration et son environnement. Rapports avec le Parlement, le Gouvernement, les juges.L'administration, les partenaires sociaux et les groupes de pression ; le rôle des associations.L'administration et les nouveaux types de relations avec les administrés (assujetti, usager, client, citoyen).L'administration et les médias.
 
-Cinquième épreuve :.
+Problèmes posés par le développement de la construction européenne.
 
-Gestion comptable et financière I. - Notions fondamentales de comptabilité générale
+Sociologie
 
-Le langage comptable : traduction des faits économiques et juridiques en langage comptable, le jeu des comptes.
+I.-Concepts fondamentaux
 
-La classification des comptes : les plans comptables, le nouveau plan comptable de 1982.
+Action, interaction, action collective, mouvements sociaux. Le lien social : socialisation, intégration, exclusion, anomie. Normes, valeurs.
 
-Opérations d'inventaire et établissement des documents de synthèse.
+Changement social, groupes, segmentation, innovation.
 
-Le compte de résultat.
+Stratification, mobilité, classes.
 
-Le bilan.
+Institutions, pouvoir, domination, négociation.
 
-Le tableau de financement et étude de l'annexe.
+II.-Théories
 
-Principes de consolidation des comptes ; les états comptables consolidés.
+Individualisme et holisme.
 
-II. - Notions fondamentales de comptabilité analytique
+Microsociologie et macrosociologie.
 
-Analyse par produits : prix de revient complet, direct costing, coûts standards.
+Rationnalité de l'action et régimes d'action.
 
-Analyse par centre de responsabilité, centre de coût et centre de profit.
+Fonction, culture, structure et les théories globales de la société.
 
-Analyse de la rentabilité de l'entreprise.
+Relations disciplinaires entre sciences sociales :
 
-III. - Eléments de gestion financière
+sociologie et anthropologie ; sociologie et histoire ; sociologie et économie.
 
-A. - L'analyse financière, diagnostics financiers
+III.-Domaines
 
-et instruments d'analyse
+Organisations, administrations et décision.
 
-Le bilan fonctionnel, fonds de roulement et fonds de roulement fonctionnel ; financement des activités de production de l'entreprise ; les besoins en fonds de roulement ; l'autofinancement ; méthodes de construction du tableau de financement ; analyse de résultat (valeur ajoutée, excédent d'exploitation brut).
+Métiers et professions.
 
-B. - Gestion financière
+Les problèmes de l'éducation : famille, école et société aujourd'hui.
 
-Gestion de la trésorerie, conditions bancaires.
+Etats, peuples et nations : la construction des identités collectives.
 
-L'endettement, la politique de distribution.
+Connaissance : croyance, idéologie, religion, science.
 
-Stratégie de la croissance : l'investissement et son financement, stratégie de la croissance équilibrée.
+Gestion comptable et financière des entreprises
 
-C. - La décision financière
+I.-Comptabilité
 
-Théorie de la décision.
+A.-Comptabilité générale et financière (plan comptable 1999) :
 
-Modèles de décision financière.
+Objet et principes de la comptabilité ;
 
-Le risque.
+Règles de comptabilisation et d'évaluation, normes comptables ;
 
-Diversification et théorie du portefeuille.
+Tenue, structure et fonctionnement des comptes ;
 
-Techniques quantitatives de décision (programmation linéaire, simulation).
+Documents de synthèse (bilan, compte de résultat, annexe, tableau de financement) ;
 
-Choix de la structure financière et coût du capital.
+Les comptes consolidés.
 
-IV. - Eléments de contrôle de la gestion
+B.-Comptabilité de gestion :
 
-A. - Contrôle budgétaire
+Système d'information et outils d'aide à la décision ;
 
-Budgets et plans à moyen terme, les tableaux de bord. Les analyses différentielles, surplus, écarts.
+Bases conceptuelles du calcul des coûts (activités, processus, ressources, performances) ;
 
-B. - Contrôle de gestion
+Méthodes de calcul des coûts (analyse en coûts partiels, coûts complets, coûts préétablis, imputation rationnelle).
 
-Contrôle de la fabrication, des services, des ventes, des stocks.
+II.-Contrôle de gestion
 
-C. - Stratégie et planification stratégique
+Problématique du contrôle dans les organisations.
 
-Cinquième épreuve :.
+La démarche prévisionnelle : stratégie, plans, budgets.
 
-Démographie I. - Les principaux concepts démographiques
+Evaluation des résultats et des performances.
 
-Indicateurs d'état et de mouvement. Taux et quotients. Evénements renouvelables et non renouvelables. Evénements perturbateurs. Indicateurs transversaux et longitudinaux. Schéma de Lexis.
+Conception et réalisation des dispositifs de pilotage et de contrôle.
 
-La mortalité. Table de mortalité. Taux et quotients de mortalité, courbe de survie, décès de la table, espérance de vie, mortalité selon les causes de décès.
+III.-Finance
 
-La natalité et la fécondité. Taux de natalité, indices synthétiques de fécondité, taux brut de reproduction. Formation des familles. Probabilités d'agrandissement.
+A.-Théorie et problématique financières :
 
-L'accroissement de la population. Taux d'accroissement naturel, taux net de reproduction. Notions sur les populations stationnaires et stables. Taux intrinsèque d'accroissement naturel (taux de Lotka).
+Création de valeur ;
 
-Structures de la population. Pyramide des âges. Répartition par âge et sexe.
+Coût et risque des décisions de financement.
 
-Notions sur les indicateurs de nuptialité et sur les indicateurs de migrations (extérieures et intérieures).
+B.-Analyse financière :
 
-La population active (structures et dynamique).
+Mesure de la rentabilité et du risque ;
 
-La population scolaire (structures et dynamique).
+Méthodologie du diagnostic ;
 
-Caractéristiques démographiques des populations urbaines.
+Evaluation des entreprises.
+
+C.-Gestion financière :
+
+Environnement financier de l'entreprise ;
+
+Gestion des investissements et des financements à long et à moyen termes ;
+
+Gestion financière du court terme ;
+
+Gestion de la trésorerie ;
+
+Gestion dans le cadre international.
+
+Démographie
+
+1. Les principaux concepts démographiques :
+
+Indicateurs d'état et de mouvement. Taux et quotients. Indicateurs transversaux et longitudinaux. Schéma de Lexis ;
+
+La mortalité. Table de mortalité : taux et quotients de mortalité, courbe de survie, espérance de vie ;
+
+La natalité et la fécondité. Taux de natalité, indices synthétiques de fécondité, taux brut de reproduction. Formation des familles. Probabilités d'agrandissement ;
+
+L'accroissement de la population. Taux d'accroissement naturel, taux net de reproduction. Notions sur les populations stationnaires et stables. Taux intrinsèque d'accroissement naturel (taux de Lotka) ;
+
+Structures de la population. Pyramide des âges. Répartition par âge et sexe ;
+
+Notions sur les indicateurs de nuptialité et de migrations (extérieures et intérieures) ;
+
+La population active (structures et dynamique) ;
+
+La population scolaire (structures et dynamique) ;
+
+Caractéristiques démographiques des populations urbaines ;
 
 Les principes usuels des perspectives démographiques et des perspectives dérivées.
 
-II. - La transition démographique
+2. La transition démographique :
 
-Le concept de transition démographique. Application à l'ensemble des pays développés et à l'ensemble des pays en développement.
+Le concept de transition démographique. Application à l'ensemble des pays développés et des pays en développement ;
 
-Cas particuliers de la France ; l'évolution démographique de la France depuis 1740. Comparaison avec l'Angleterre.
+Cas particuliers de la France ; son évolution démographique depuis 1740 ; comparaison avec l'Angleterre ;
 
-Histoire démographique au XXe siècle de quelques autres pays :
-
-Allemagne, Italie, Pays-Bas, Suède, Etats-Unis, Empire russe et U.R.S.S., Japon.
+Histoire démographique au XXe siècle de quelques autres pays : Allemagne, Italie, Pays-Bas, Suède, Etats-Unis, Russie, Japon ;
 
 L'évolution démographique contemporaine en Inde, en Chine, en Amérique latine, en Afrique, dans les pays musulmans.
 
-III. - Les informations démographiques
+3. Les informations démographiques :
 
-Recensements, état civil, enquêtes.
+Recensements, état civil, enquêtes ;
 
-L'I.N.S.E.E., l'I.N.E.D., l'I.N.S.E.R.M., l'O.N.U. et autres institutions internationales : travaux et publications démographiques.
+Les institutions françaises et internationales :
 
-Notions sur la précision des données démographiques et les problèmes suscités par les techniciens de collecte.
+travaux et publications démographiques ;
 
-IV. - Eléments de démographie économique
+Notions sur la précision des données démographiques et les problèmes suscités par les techniques de collecte.
 
-et de démographie du développement
+4. Eléments de démographie économique et de démographie du développement :
 
-Introduction au débat population-ressources.
+Introduction au débat population-ressources ;
 
-L'incidence des variables démographiques sur les variables économiques.
+L'influence mutuelle des variables démographiques et des variables économiques ;
 
-L'incidence des variables économiques sur les variables démographiques.
+Eléments d'économie des migrations internationales ;
 
-Eléments d'économie des migrations internationales.
+Les principaux modèles démo-économiques ;
 
-Les principaux modèles démo-économiques.
-
-Notions sur les théories du cycle de vie (structures démographiques, épargne et investissements, structures démographiques, répartition des revenus et inégalités).
+Notions sur les théories du cycle de vie ;
 
 L'insertion des variables démographiques dans les modèles macro-économiques de croissance.
 
-Modèles dualistes et variables démographiques.
+5. Quelques grands problèmes contemporains :
 
-Rente agricole et pression démographique.
+La dénatalité des pays développés et ses conséquences ;
 
-V. - Quelques grands problèmes contemporains
+L'" explosion démographique " du tiers monde et ses conséquences ;
 
-La dénatalité des pays développés et ses conséquences.
+L'évolution de la législation française sur le mariage et le divorce, la contraception et l'avortement ;
 
-L'" explosion démographique " du tiers monde et ses conséquences.
+L'évolution du travail professionnel des femmes ;
 
-L'évolution de la législation française sur le mariage et le divorce, la contraception et l'avortement.
+Le vieillissement de la population française. Comparaison avec les autres pays européens de l'ouest et de l'est ;
 
-L'évolution du travail professionnel des femmes.
-
-Le vieillissement de la population française. Comparaison avec les autres pays européens de l'Ouest et de l'Est.
-
-L'orientation des programmes de santé publique.
+L'orientation des programmes de santé publique ;
 
 Les migrations internationales.
 
-Cinquième épreuve :.
+Technologies de l'information et de la communication
 
-Mathématiques I. - Algèbre élémentaire
+La composition est destinée à vérifier que le candidat est apte :
 
-Vocabulaire de la théorie des ensembles.
+-à juger un dossier d'équipement en informatique et télécommunication ainsi qu'à piloter un projet de développement et de mise en oeuvre ;
 
-Relations définies sur un ensemble ; applications.
+-à prendre en compte les opportunités offertes par les nouvelles technologies de l'information et de la communication dans la résolution des problèmes de l'administration en influant sur ses structures et ses processus.
 
-Lois de compositions internes, externes.
+1. Domaines de connaissances :
 
-Permutations, arrangements, combinaisons.
+Les équipements : réseaux ; ordinateurs ; terminaux ;
 
-Structures de groupe, anneau, corps.
+Les logiciels : architecture des réseaux : systèmes d'exploitation ; langages de programmation ; système de gestion de base de données ; logiciels propriétaires, logiciels libres ;
 
-II. - Nombres réels. - Nombres complexes
+Les services : interface homme / machine ; transactionnel ; gestion de données ; services standards de réseaux ; systèmes temps réel ; commerce électronique ; simplification des relations avec les clients et les administrés ; échange de documents informatisés.
 
-Propriétés du corps des réels R (ordre total ; intervalles, segments, bornes ; points d'accumulation ; théorème de Cauchy).
+2. Eléments méthodologiques :
 
-Corps des complexes C.
+Théories des systèmes et des organisations ;
 
-III. Algèbre linéaire
+Schéma directeur ;
 
-Espaces vectoriels ; sous-espace vectoriel ; système libre de vecteurs ; application linéaire d'un espace vectoriel dans un espace vectoriel.
+Méthode de conception des processus de gestion et des systèmes d'information ;
 
-Espaces vectoriels de dimension finie : base, forme linéaire.
+Approche orientée objet pour la construction des logiciels ;
 
-Calcul matriciel ; rang d'une matrice ; rang d'une application linéaire ; changement de base.
+Modélisation des données ;
 
-Déterminant. Systèmes d'équations linéaires.
+Vérification-validation des grands systèmes ;
 
-Produit scalaire.
+Méthode de déploiement et d'insertion dans l'organisation.
 
-IV. - Fonctions d'une variable réelle
+3. La société de l'information :
 
-Limite ; continuité ; monotonie ; fonction réciproque.
+Economie des NTIC : coût d'appropriation, coût logistique, valeur ajoutée de la mise en réseau ;
 
-Dérivées ; dérivées successives ; sens de variation.
+Sociologie des NTIC : impact sur les compétences et les emplois ;
 
-Théorème de Rolle ; formule des accroissements finis ; formule de Taylor-Lagrange ; développements limités.
+Droit des NTIC : maîtrise d'ouvrage et d'oeuvre. Propriété intellectuelle ;
 
-Fonctions usuelles.
+Responsabilité civile et pénale. Informatique et liberté.
 
-Fonctions numériques intégrales de Riemann ; intégrale comme forme linéaire ; moyenne d'une fonction ; mesures.
+Mathématiques
 
-Introduction au calcul des probabilités.
+Analyse
 
-V. - Equations différentielles
+1. Espaces vectoriels, normes :
 
-Equations linéaires du premier ordre.
+a) Normes sur un espace vectoriel réel ou complexe. Définitions, propriétés, notions associées.
 
-Equations du deuxième ordre ; résolution de l'équation homogène dans le cas des coefficients constants. Etudes de cas simples d'équations avec deux membres.
+b) Suites et fonctions :
 
-Cinquième épreuve :.
+Les espaces vectoriels considérés dans ce paragraphe sont de dimension finie sur R ou C et les applications sont définies sur une partie d'un tel espace vectoriel et à valeur dans un autre :
 
-Statistique I. - Statistiques descriptives
+Equivalence des normes, suite de Cauchy ;
+
+Notions de topologie, voisinage, continuité, continuité uniforme, parties compactes.
+
+c) Espaces préhilbertiens réels ou complexes. Produit scalaire, inégalité de Cauchy-Schwarz, norme.
+
+Famille orthonormale, méthode de Schmidt. Existence d'une base orthonormale dans un espace de dimension finie. Projection orthogonale sur un sous-espace de dimension finie.
+
+2. Fonctions d'une variable réelle, calcul différentiel et intégral :
+
+Les fonctions étudiées sont définies sur un intervalle et à valeurs dans un espace vectoriel de dimension finie sur R et sur C.
+
+a) Dérivation :
+
+Opérations algébriques sur les dérivées ;
+
+Fonctions de classe Ck (k entier naturel sur k infini) ; fonctions de classe Ck par morceaux.
+
+b) Intégration sur un segment :
+
+Propriétés de l'intégrale ;
+
+Primitives d'une fonction continue sur un intervalle. Intégration par parties, changement de variable ;
+
+Inégalité des accroissements finis pour une fonction de classe C1 sur un segment (a, b). Caractérisation des fonctions constantes et des fonctions lipschitziennes sur un intervalle.
+
+c) Formule de Taylor :
+
+Formule de Taylor à l'ordre p avec reste intégral pour une fonction de classe Cp + 1 ; inégalité de Taylor-Lagrange. Intégration des développements limités. Théorème de Taylor-Young.
+
+d) Intégrales dépendant d'un paramètre.
+
+e) Intégrales impropres.
+
+3. Séries :
+
+a) Séries de nombres réels ou complexes :
+
+Séries convergentes, divergentes, absolument convergentes. Critère de convergence de Cauchy. Convergence d'une série absolument convergente ;
+
+Séries à termes positifs. Emploi des relations de comparaison pour l'étude de la convergence ;
+
+Séries alternées. Convergence d'une série alternée ; majoration du reste ;
+
+Opérations sur les séries.
+
+b) Suites et séries de fonctions :
+
+Les fonctions considérées dans ce paragraphe sont à valeurs réelles ou complexes :
+
+Convergence simple, convergence uniforme, d'une suite ou d'une série de fonctions. Convergence normale d'une série de fonctions ; Suites et séries uniformément convergentes de fonctions continues sur un intervalle.
+
+c) Séries entières :
+
+Les coefficients des séries entières considérées dans ce paragraphe sont réels ou complexes :
+
+Séries entières d'une variable complexe ; Séries entières d'une variable réelle. Développement en série entière ; Définition de exp (z) ou (ez), cos (z), sin (z) pour (z) complexe. Exponentielle d'une somme. d) Séries de Fourier :
+
+4. Equations différentielles :
+
+a) Systèmes linéaires d'ordre 1 à coefficients b) constants. Etude du système X'= AX, où c) A est une matrice diagonalisable à d) éléments réels ou complexes ; e) résolution du problème de Cauchy ; b) Equations linéaires scalaires d'ordre 2. Equations du type : x''+ a (t). x'+ b (t). x = c (t), où a, b, c sont continues sur un intervalle I à valeurs réelles ou complexes ;
+
+c) Notions sur les équations non linéaires. Solutions d'une équation différentielle x'= f (t, x) (resp. x'= f (t, x, x'), où f est de classe C1 sur un ouvert de R2 (resp. de classe C2 sur un ouvert de R3).
+
+5. Fonctions de plusieurs variables réelles :
+
+a) Calcul différentiel :
+
+Les fonctions considérées dans ce paragraphe sont définies sur un ouvert de Rp et à valeurs dans Rn ;
+
+Application de classe C1, différentielle, matrice jacobienne, jacobien ;
+
+Définition des fonctions de classe C1 sur un ouvert de Rp à valeurs dans Rn (k entier naturel ou k infini) ;
+
+Points critiques d'une fonction de classe C1 sur un ouvert de Rp ; condition nécessaire d'existence d'un extremum local. Pour une fonction numérique de classe C2 sur un ouvert de R2 : formule de Taylor-Young ; étude de l'existence d'un extremum local en un point critique.
+
+b) Calcul intégral :
+
+Intégrales doubles et triples. Propriétés. Calcul en coordonnées cartésiennes. Changement de variables ; cas du passage en coordonnées polaires ;
+
+Intégrale curviligne d'une forme différentielle de dégré 1 continue sur un ouvert de Rp.
+
+Algèbre
+
+1. Algèbre linéaire et multilinéaire :
+
+Dans ce chapitre le corps de base est R ou C.
+
+a) Dualité des espaces vectoriels de dimension finie. Bases associées d'un espace E et de son dual E*. Orthogonalité.
+
+b) Calcul matriciel et systèmes d'équations linéaires.
+
+c) Réduction des endomorphismes et des matrices carrées :
+
+Valeurs propres d'un endomorphisme, sous-espaces propres, vecteurs propres ; Réduction d'un endomorphisme en dimension finie. Polynôme caractéristique, ordre de multiplicité d'une valeur propre. Endomorphismes diagonalisables ;
+
+Valeurs propres d'une matrice carrée, vecteurs propres. Diagonalisation des matrices carrées.
+
+2. Espaces vectoriels euclidiens :
+
+Les espaces vectoriels considérés dans ce chapitre sont de dimension finie sur R.
+
+a) Géométrie des espaces euclidiens :
+
+Endomorphismes symétriques ; matrice associée dans une base orthonormale ;
+
+Automorphismes orthogonaux, groupe orthogonal, groupe spécial orthogonal (rotations). Matrices orthogonales. Changement de base orthonormale.
+
+b) Réduction des endomorphismes symétriques. Réduction d'un endomorphisme symétrique dans une base orthonormale. Diagonalisation d'une matrice symétrique au moyen d'une matrice orthogonale. Définition d'une forme quadratique. Endomorphisme symétrique associé. Définition des formes quadratiques définies positives.
+
+Statistique
+
+1. Statistique descriptive :
 
 Unités statistiques et caractères :
 
-Caractères qualitatifs (ordonnés ou non) ou quantitatifs (discrets ou continus).
+Caractères qualitatifs (ordonnés ou non) ou quantitatifs (discrets ou continus) ;
 
-Distribution statistique sur un caractère :
+Distribution statistique sur un ou sur deux caractères ;
 
-Tableaux statistiques et représentations graphiques.
+Tableaux statistiques et représentations graphiques ;
 
-Fonction de répartition.
-
-Caractéristiques de valeur centrale, de dispersion, de concentration.
-
-Notions sur les mélanges de population.
-
-Distributions statistiques sur deux caractères :
-
-Tableaux statistiques et représentations graphiques.
+Caractéristiques de valeur centrale, de dispersion, de concentration ;
 
 Distributions marginales et distributions conditionnelles.
 
-II. - Calcul des probabilités
+2. Calcul des probabilités :
 
-Les épreuves aléatoires. Ensemble fondamental d'une épreuve aléatoire. Evénements liés à une épreuve aléatoire. Représentation ensembliste de ces événements. Espace probabilisable.
+Les mesures de probabilité : principaux résultats du calcul des probabilités ;
 
-Les mesures de probabilité :
+Probabilité conditionnelle. Règle de Bayes ;
 
-Principaux résultats du calcul des probabilités.
+Les variables aléatoires : loi de probabilité d'une variable aléatoire ;
 
-Probabilité conditionnelle. Règle de Bayes.
+Fonction de répartition ;
 
-Indépendance en probabilité.
+Densité de probabilité ;
 
-Les variables aléatoires :
+Lois marginales et lois conditionnelles ;
 
-Loi de probabilité d'une variable aléatoire.
+Variable aléatoire définie comme fonction d'une ou de plusieurs variables aléatoires ;
 
-Fonction de répartition.
+Moments d'une variable aléatoire : espérance mathématique, variance, écart type ;
 
-Variables discrètes et variables continues.
+Covariance de deux variables aléatoires ;
 
-Densité de probabilité.
+Moments conditionnels ;
 
-Notions sur les couples et sur les n-uples de variables aléatoires :
+Etude des principales lois des probabilités usuelles :
 
-Fonction de répartition d'un couple ou d'un n-uple.
+a) Lois de variables discrètes : loi de Bernoulli ; loi binominale ; loi hypergéométrique ; loi de Poisson ;
 
-Lois marginales et lois conditionnelles.
+b) Lois de variables continues loi uniforme ; loi de Pareto ; loi normale ; loi log-normale ; loi de Student-Fischer ; loi de Fischer-Snedecor ; loi du X2 d'Helmert-Pearson.
 
-Variable aléatoire définie comme fonction d'une ou de plusieurs variables aléatoires.
+Lecture des tables des lois usuelles ;
 
-Moments d'une variable aléatoire :
-
-Espérance mathématique, variance, écart type.
-
-Inégalité de Bienaymé-Tchebychev.
-
-Covariance de deux variables aléatoires.
-
-Moments conditionnels.
-
-Etudes des principales lois de probabilités usuelles :
-
-a) Lois de variables discrètes :
-
-Loi de Bernoulli ;
-
-Loi binominale ;
-
-Loi hypergéométrique ;
-
-Loi de Poisson.
-
-b) Lois de variables continues :
-
-Loi uniforme ;
-
-Loi de Pareto ;
-
-Loi normale ;
-
-Loi log-normale ;
-
-Loi de Student-Fischer ;
-
-Loi de Fischer-Snedecor ;
-
-Loi du X2 d'Helmert-Pearson.
-
-Lecture des tables des lois usuelles.
-
-Notions sur les suites de variables aléatoires :
-
-Convergence en probabilité et convergence en loi.
-
-Loi faible des grands nombres.
+Loi des grands nombres ;
 
 Théorème central limite.
 
-III. - Statistique inductive
+3. Statistique inductive :
 
-Jugement sur échantillon
+Estimation ponctuelle et par intervalle de confiance d'un paramètre descriptif-Estimateur sans biais, convergent ;
 
-Notions sur la théorie de l'échantillonnage.
+Test entre deux hypothèses ;
 
-Estimation (ponctuelle et par intervalle de confiance) d'un paramètre descriptif (proportion, moyenne, variance) d'une population, estimation d'un paramètre d'une loi de probabilité :
+Risques de première et de seconde espèce : puissance d'un test ;
 
-Notion d'estimateur.
+Méthodes de Neymann-Pearson et de Bayes ;
 
-Estimateur sans biais, convergent.
+Tests de comparaison portant sur des paramètres descriptifs de populations ;
 
-Méthode du maximum de vraisemblance.
+Ajustement d'une distribution observée à une distribution théorique. Mesure de la distance entre les deux distributions. Test du X2 (Chi-deux) ;
 
-Test entre deux hypothèses (simples ou multiples) portant sur un paramètre descriptif d'une population ou un paramètre d'une loi de probabilité.
-
-Risques de première et de seconde espèces : puissance d'un test.
-
-Méthodes de Neymann-Pearson et de Bayes.
-
-Tests de comparaison portant sur des paramètres descriptifs de populations.
-
-Ajustement d'une distribution observée à une distribution théorique. Mesure de la distance entre les deux distributions. Test du Chi-Deux.
-
-Analyse statistique de la liaison entre plusieurs variables. Régression et corrélation.
-
-Les séries chronologiques.
+Analyse statistique de la liaison entre plusieurs variables. Régression et corrélation ;
 
 Notions sur les tests non paramétriques. Le test des rangs de Spearman.
 
-Les interrogations sont destinées à vérifier que le candidat a acquis des connaissances de base précises dans des spécialités dominantes de l'administration.
+ADMISSION
 
-Admission :.
-
-Troisième et quatrième épreuve L'épreuve est destinée à vérifier que le candidat a acquis des connaissances de base précises dans une spécialité dominante de l'administration.
+Troisième épreuve orale
 
 Finances publiques et économie financière
 
-I - Le budget de l'Etat
+1. Les cadres généraux des finances publiques :
 
-1. Aspects juridiques, institutionnels et politiques :
+a) Les grands principes du droit public financier :
 
-La préparation du projet de loi de finances ; utilisation des budgets économiques, conférences budgétaires, arbitrages gouvernementaux.
+définitions et enjeux :
 
-Le vote du budget et les grands principes budgétaires.
+Les principes budgétaires ;
 
-L'exécution et le contrôle du budget.
+Les principes comptables ;
 
-Les techniques de choix budgétaires.
+Les principes fiscaux.
 
-Le budget et le Plan.
+b) Les cadres financiers et fiscaux :
 
-2. Les dépenses :
+Les dépenses publiques (Etat, collectivités locales, sécurité sociale) : structure ; évolution, classification ; dépenses publiques et activité économique ; maîtrise des dépenses publiques ;
 
-Les grandes masses budgétaires et leurs évolutions.
+Les prélèvements obligatoires : définition et structure générale ; évolution ; prélèvements obligatoires et activité économique ;
 
-L'évolution des fonctions budgétaires.
+La dette publique : définition et structure ; évolution ; aspects économiques et financiers de la dette publique ;
 
-3. Les recettes :
+Les institutions financières : le réseau du Trésor ; les institutions bancaires ;
 
-Recettes fiscales et non fiscales ; la parafiscalité.
+La fiscalité : éléments de doctrine et fonctionnement du système fiscal.
 
-La fiscalité : son évolution ; les diverses catégories d'impôts.
+2. Les finances de l'Etat :
 
-4. Le Trésor et les opérations de trésorerie :
+Le budget ; Les lois de finances : définition ; structure ; élaboration ; adoption ; exécution ; contrôles ; Les ressources et les dépenses de l'Etat ; la question de l'équilibre du budget.
 
-Statut et rôle du Trésor dans l'exécution du budget.
+3. Les finances locales :
 
-Les correspondants du Trésor.
+Les principes budgétaires ; Evolution générale des finances locales ; Les ressources des collectivités locales :
 
-L'emprunt public et la dette publique.
+les impôts locaux ; les dotations et subventions ; les revenus du patrimoine et du domaine ; l'emprunt ; Le cadre budgétaire et comptable : préparation, vote, exécution et contrôles des budgets locaux ; Les dépenses des collectivités territoriales :
 
-Les bons du Trésor sur formule et en compte courant.
+classification et règles générales.
 
-Les avances de la Banque de France.
+4. Les aspects économiques, financiers et sociaux des finances publiques :
 
-II. - Le budget des collectivités territoriales
+a) Les finances publiques et l'activité économique :
 
-1. Les aspects juridiques, institutionnels et politiques :
+Les relations entre les dépenses budgétaires et l'activité économique ;
 
-La préparation et le vote des budgets.
-
-L'exécution des budgets.
-
-Le contrôle des budgets.
-
-L'endettement des collectivités territoriales.
-
-2. Les dépenses.
-
-3. Les ressources et la fiscalité locale.
-
-4. Les relations financières entre l'Etat et les collectivités territoriales.
-
-III. - Les aspects économiques,
-
-financiers et sociaux des finances publiques
-
-1. Les finances publiques et l'activité économique :
-
-Les relations entre les dépenses budgétaires et l'activité économique (multiplicateurs, théorème de Haavelmo).
-
-L'incidence des prestations sociales sur l'activité économique.
-
-Les relations réciproques entre les prélèvements obligatoires (recettes fiscales et cotisations sociales) et l'activité économique.
-
-L'incidence de l'inflation et de la désinflation sur le solde budgétaire et les soldes des régimes sociaux.
-
-2. Les finances publiques et la redistribution :
+b) Les finances publiques et la redistribution :
 
 Incidences économiques et financières des dépenses publiques et des prélèvements obligatoires sur la répartition des revenus.
 
-3. Les interventions de l'Etat et des collectivités territoriales dans le financement de l'économie :
+c) Les interventions de l'Etat et des collectivités territoriales dans le financement de l'économie :
 
-Le Trésor et le financement de l'économie.
+Le Trésor et le financement de l'économie ;
 
-Les relations entre le Trésor et le système bancaire.
+Les relations entre le Trésor et le système bancaire ;
 
-Les incidences économiques et financières des divers modes de financement du déficit budgétaire.
+Les incidences économiques et financières des divers modes de financement du déficit budgétaire ;
 
-Le besoin d'emprunt du secteur public (Etat, collectivités territoriales, entreprises publiques, régimes sociaux) : son évolution, ses problèmes.
+Le besoin d'emprunt du secteur public : son évolution, ses problèmes.
 
 Questions sociales
 
-Les problèmes sociaux qui entrent dans le présent programme doivent être envisagés sous trois aspects :
+1. Données générales :
 
-- connaissances juridiques et administratives, économiques et sociologiques de base ;
+Démographie et groupes sociaux : évolution de la population totale et de la population active, par grandes catégories. Population française ; populations immigrées ;
 
-- analyse des principales politiques sociales ;
+Les principales institutions sociales et de l'emploi ;
 
-- analyse des situations et des stratégies des acteurs en présence.
+Les instruments des politiques sociales ;
 
-Le programme insiste différemment sur le degré des connaissances exigées des candidats. Les " données élémentaires " sont indispensables à la compréhension des rubriques suivantes. Les " notions générales " se réfèrent à la connaissance des principes et caractéristiques principales des statuts et régimes concernés.
+Le système français de relations professionnelles ; notions générales sur les systèmes étrangers ;
 
-I. - Les cadres des relations sociales en France
+Les bases constitutionnelles du droit français du travail et de la protection sociale ;
 
-Notions générales sur les administrations et les juridictions intervenant dans les domaines des relations du travail, de l'emploi, de la protection sociale, de la santé.
+Données générales de droit social européen et de droit social communautaire ;
 
-Aspects sociaux de la planification française.
+Les institutions internationales, spécialement l'Organisation internationale du travail et l'Organisation mondiale de la santé. Données générales de droit social international.
 
-Notions générales sur l'économie sociale : mutuelles, associations, coopératives.
+2. Le travail salarié :
 
-II. - La protection sociale
+Les grandes caractéristiques du contrat de travail, de sa modification, de sa rupture ;
 
-L'effort social de la nation.
+La rémunération ;
 
-Le système français de sécurité sociale : principes, évolution historique, organisation actuelle, prestations, financement.
+Les conditions de travail ;
 
-Le régime général des salariés.
+Durée et organisation du travail ;
 
-Les régimes spéciaux de salariés et les régimes autonomes (exploitants agricoles, artisans, commerçants, professions libérales). - Notions générales.
+Les libertés, les droits et obligations des salariés dans l'entreprise ; Les syndicats ; les institutions représentatives du personnel dans l'entreprise ; La négociation collective ; Les conflits collectifs et leurs modes de règlement. 3. La politique de l'emploi, de l'insertion et de la formation professionnelle. 4. La protection sociale :
 
-Notions générales sur les autres systèmes de protection sociale :
+Le système français de sécurité sociale :
 
-- les régimes complémentaires de retraite des salariés ;
+principes, évolutions historiques ; organisation actuelle. Le régime général des salariés. Notions générales sur les régimes spéciaux et autonomes, la protection sociale complémentaire, les régimes complémentaires de retraite ;
 
-- l'aide sociale ;
+Les problèmes de financement de la protection sociale.
 
-- l'indemnisation du chômage.
+5. Les principales politiques sociales et de solidarité :
 
-III. - Le travail salarié
+La politique de la famille ;
 
-Le système français des relations professionnelles. Les institutions de représentation du personnel et leur fonctionnement.
+La politique de santé ;
 
-Les rapports collectifs du travail :
+La politique en faveur des personnes âgées ;
 
-- les organisations professionnelles et syndicales en France ;
+La lutte contre la pauvreté et l'exclusion ;
 
-- la négociation collective et les accords collectifs aux différents niveaux ;
+La politique du logement ;
 
-- les conflits et leurs solutions.
+La politique de la ville.
 
-Notions générales sur le statut du salarié du secteur privé (contrats de travail, licenciement notamment).
+Questions relatives à l'Union européenne
 
-Notions générales sur le statut des travailleurs du secteur public et du secteur nationalisé.
+1. Les étapes de la construction européenne.
 
-Les conditions de travail (temps de travail, organisation du travail, hygiène et sécurité du travail).
+2. Les aspects institutionnels :
 
-La rémunération du travail.
+Les institutions ;
 
-IV. - Les principales politiques sociales
+Les processus décisionnels ;
 
-Données élémentaires de la démographie française.
+Les organes juridictionnels.
 
-La politique de l'emploi.
+3. Le droit communautaire :
 
-La politique d'insertion et de formation professionnelle.
+Les caractéristiques du système juridique communautaire : les différents types d'actes, la hiérarchie des normes, l'introduction du droit communautaire en droit interne, le principe d'applicabilité directe, le principe de subsidiarité ;
 
-La politique d'immigration.
+Les recours juridictionnels.
 
-La politique de la santé.
+4. Les finances de l'Union européenne :
 
-La politique de la famille.
+Les règles du droit budgétaire ;
 
-La politique en faveur des personnes âgées.
+Les ressources ;
 
-Droit communautaire
+Les dépenses ;
 
-Le développement historique des organisations européennes depuis 1945.
+Les grandes masses du budget.
 
-La Communauté économique européenne : le traité du 25 mars 1957 ; sources et actes juridiques ; sanctions et rapports avec les Etats membres, les organes de contrôle, les organes de décision ; les principes fondamentaux du droit européen (le principe de la libre circulation et les règles de concurrence) ; la politique économique commune (générale, monétaire et sociale) ; les évolutions du droit communautaire.
+5. Les politiques des Communautés :
 
-Cinquième épreuve
+Les grands principes des politiques communautaires ;
 
-Traitement automatisé de l'information
+L'Union économique et monétaire ;
 
-I. - Systèmes informatiques
+Les politiques communes : politique régionale et fonds structurels, politique agricole commune, politique commune des transports, politique de concurrence, politique commerciale commune, relations entre l'Union européenne et l'Organisation mondiale du commerce ;
 
-1. Les équipements :
+La politique sociale ;
 
-- les ordinateurs ;
+La politique étrangère et de sécurité commune ;
 
-- les périphériques ;
+La coopération dans les domaines de la justice et des affaires intérieures.
 
-- les réseaux.
+6.L'Europe et les collectivités territoriales :
 
-2. Les logiciels :
+L'aspect institutionnel : le comité des régions ;
 
-- les systèmes d'exploitation ;
+La politique européenne d'aménagement du territoire : objectifs et modes de financement.
 
-- les langages et les progiciels.
+Quatrième épreuve d'admission
 
-3. Les différents types d'organisation informatique :
+Interrogation orale portant sur le droit et la gestion des collectivités locales.
 
-- l'informatique centralisée ;
+Même programme que pour la troisième épreuve d'admissibilité.
 
-- l'informatique répartie.
+Cinquième épreuve d'admission
 
-4. Les fichiers.
+Epreuve orale sur les éléments fondamentaux en matière d'organisation informatique, de logiciels de base et de nouvelles technologies de l'information.
 
-5. Les banques et bases de données.
+1. Les aspects techniques : notions générales :
 
-II. - Bureautique
+Notions générales sur les différents types de réseaux, les principales fonctions des ordinateurs, les terminaux et les périphériques.
 
-Matériel.
+Les logiciels : notions générales sur les systèmes d'exploitation et les différents types de logiciels :
 
-Logiciel.
+logiciels propriétaires, logiciels libres ; les fichiers ;
 
-Les applications.
+L'internet : notions générales et principales fonctionnalités.
 
-III. - Gestion de l'informatique
+2.L'informatique et les nouvelles technologies de la communication dans la fonction publique :
 
-Schéma directeur et cahier des charges.
+Informatique et relations du travail ;
 
-Informatique et conditions de travail.
+Informatique et organisation des services ;
 
-Acquisition et implantation d'un système.
+Informatique et communication interne ;
 
-Maintenance et développement.
+Informatique et relations avec les usagers et le public.
 
-Personnel informaticien.
+3. La société de l'information :
 
-IV. - Droit du traitement
+Les politiques publiques de l'informatique et des nouvelles technologies ;
 
-et de la communication de l'information
+L'économie des NTIC ;
 
-Principes généraux du droit du logiciel.
+La sociologie des NTIC : impact sur les compétences et les emplois ;
+
+Le droit des NTIC : maîtrise d'ouvrage et d'oeuvre.
+
+Propriété intellectuelle ;
 
 Informatique et libertés.
 
-Accès aux documents administratifs.
+CONCOURS INTERNE
+
+ADMISSIBILITE
+
+Première épreuve
+
+Composition portant sur l'évolution générale politique, économique et sociale du monde et le mouvement des idées depuis le milieu du XVIIIe siècle
+
+Cette composition suppose des connaissances sur l'évolution du monde et des idées depuis le milieu du XVIIIe siècle, la détention par les candidats d'une solide culture générale et la capacité d'appréhender les principales problématiques du monde contemporain.
+
+L'épreuve doit notamment permettre d'apprécier l'aptitude des candidats à exploiter les éléments figurant dans le dossier et à en faire la synthèse en exprimant tant une analyse des faits et des évènements qu'une interprétation personnelle et argumentée.
+
+Deuxième épreuve
+
+Epreuve écrite de valorisation de l'expérience professionnelle consistant en la résolution d'un cas exposé dans un dossier, portant sur un problème d'organisation ou de gestion rencontré par une collectivité territoriale ou un établissement public local
+
+Même programme que pour la troisième épreuve d'admissibilité du concours externe.
+
+Troisième épreuve
+
+Note de synthèse
+
+Droit public : même programme que pour la deuxième épreuve d'admissibilité du concours externe.
+
+Economie : même programme que pour la première épreuve d'admissibilité du concours externe.
+
+Quatrième épreuve
+
+Rédaction d'une note à partir d'un dossier portant sur l'Union européenne ou les questions sociales
+
+Questions relatives à l'Union européenne :
+
+même programme que pour la troisième épreuve d'admission du concours externe.
+
+Questions sociales : même programme que pour la troisième épreuve d'admission du concours externe.
+
+ADMISSION
+
+Deuxième épreuve
+
+Finances publiques et économie financière
+
+Même programme que pour la troisième épreuve d'admission du concours externe.
+
+Troisième épreuve
+
+Interrogation sur le droit et la gestion des collectivités territoriales
+
+Même programme que pour la deuxième épreuve d'admissibilité.
+
+Quatrième épreuve
+
+Interrogation orale sur le droit public ou l'économie
+
+Même programme que pour la troisième épreuve d'admissibilité.
+
+Cinquième épreuve
+
+Eléments fondamentaux en matière d'organisation informatique, de logiciels de base et de nouvelles technologies de l'information
+
+Même programme que pour la cinquième épreuve d'admission du concours externe.
