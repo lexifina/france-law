@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900610540
+
+- Question : [SEQ900610540](seq900610540.md) — Projet de redécoupage des universités parisiennes
+
+## Réponse
+
+*Éducation, JO du 1990-10-25, page 2309*
+
+Réponse. -Il n'existe pas de projet de redécoupage des universités parisiennes. Les grands axes de développement des ensignements supérieurs en Ile-de-France prévoient un réaménagement des implantations d'enseignement supérieur dans Paris-Centre. Le coeur de ce schéma est la réalisation d'un nouveau " quartier Latin " qui s'allongera le long de la Seine de l'Institut de France à Tolbiac en passant par la Bibliothèque de France. Plusieurs opérations sont maintenant clairement identifiées : le réaménagement du " Pôle Jussieu - Jardin des Plantes ", la construction d'une " nouvelle Sorbonne " auprès de la " Bibliothèque de France ", dédiée aux " Sciences humaines et sociales ". L'intérêt d'une implantation universitaire à côté de la Bibliothèque de France est évident. Cette dernière opération est nécessairement une opération à moyen terme, et aucun transfert ne pourrait avoir lieu d'ici à la fin de cette année. En tout état de cause, le choix des formations et des équipes qui seront appelées à s'installer sur le nouveau site n'est pas arrêté quant à ses modalités et donnera lieu à concertation. " La Sorbonne " n'est pas le moins du monde menacée par cette nouvelle implantation, bien au contraire, même si la nouvelle implantation entraînera inévitablement des réaménagements. Il ne saurait y avoir décision sans consensus préalable. L'enjeu est de mieux répartir les étudiants dont le nombre dans Paris-Centre devrait décroître, au bénéfice de la Couronne, afin d'améliorer encore la qualité de l'enseignement et de la recherche et de renforcer ce qui constitue un atout scientifique et culturel majeur dans la compétition intellectuelle de l'Europe de 1993.
