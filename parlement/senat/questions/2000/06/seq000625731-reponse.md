@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000625731
+
+- Question : [SEQ000625731](seq000625731.md) — Statut des professeurs dans les disciplines artistiques
+
+## Réponse
+
+*Éducation, JO du 2000-09-14, page 3181*
+
+Réponse. - Les maxima de service hebdomadaire des personnels enseignants des collèges et lycées d'enseignement général et technologique sont fixés en fonction du niveau de recrutement et de la nature des enseignements. Conformément aux dispositions des décrets nº 50-581 et nº 50-582 du 25 mai 1950, les professeurs des disciplines artistiques sont tenus de fournir un service de vingt heures pour les professeurs certifiés et de dix-sept heures pour les professeurs agrégés. Cette spécificité ne concerne pas les seuls professeurs des disciplines artistiques. Ainsi, les professeurs chargés de l'enseignement de l'éducation physique et sportive dans les collèges et lycées sont soumis, en application du décret nº 50-583 du 25 mai 1950, aux mêmes obligations de service que leurs collègues des disciplines artistiques. Des critères pédagogiques tenant notamment à la nature même des enseignements et aux conditions dans lesquelles ils sont dispensés expliquent pour l'essentiel cette situation. D'une manière générale, les maxima de service hebdomadaire des personnels enseignants du second degré ne définissent qu'une partie seulement des obligations de service, c'est-à-dire celles relatives au service en présence des élèves. Des charges variables dans la préparation des cours et la correction des copies selon les disciplines et les niveaux d'enseignement ont conduit à différencier les obligations d'enseignement. Cet état de la réglementation applicable aux personnels enseignants du second degré chargés des disciplines artistiques constituait déjà l'une des préoccupations du ministre lors de sa nomination d'avril 1992 à mars 1993 en qualité de ministre d'Etat, ministre de l'éducation nationale et de la culture. Elle fera l'objet d'un nouvel examen.
