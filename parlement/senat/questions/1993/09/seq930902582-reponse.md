@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930902582
+
+- Question : [SEQ930902582](seq930902582.md) — Application stricte par les parquets du code de procédure pénale
+
+## Réponse
+
+*Justice, JO du 1993-11-11, page 2154*
+
+Réponse. - Dans son rapport du 5 juin 1991, la commission de contrôle du Sénat chargée d'examiner les modalités d'organisation et les conditions de fonctionnement des services relevant de l'autorité judiciaire avait souhaité, conformément aux propositions faites par MM. Haenel et Arthuis tendant à la stricte application des articles 12, 13 et 41 du code de procédure pénale, que soient renforcés les pouvoirs de direction, de contrôle et de surveillance de l'autorité judiciaire sur la police judiciaire. Le garde des sceaux peut assurer l'honorable parlementaire qu'il veille avec la plus grande vigilance, par les instructions qu'il adresse aux procureurs généraux, à ce que les magistrats exercent de la manière la plus effective le pouvoir de direction de la police judiciaire qui leur est attribué par la loi. La généralisation des expériences de traitement en temps réel des infractions par les parquets va dans ce sens. Par ailleurs, le fait que l'élaboration des plans départementaux de sécurité ait été placée sous la responsabilité conjointe des préfets et procureurs de la République est la réaffirmation du rôle de l'autorité judiciaire en ce qui concerne les actions de police judiciaire. Une réforme du code de procédure pénale est actuellement en cours de discussion pour inscrire dans la loi les pouvoirs traditionnellement reconnus au garde des sceaux, aux procureurs généraux et aux procureurs de la République en matière de politique pénale. A cette occasion, la Chancellerie a également proposé que la création des services de police judiciaire s'opère au terme d'une meilleure coordination entre les ministères intéressés.
