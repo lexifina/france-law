@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910615753
+
+- Question : [SEQ910615753](seq910615753.md) — Pouvoir d'achat des prestations familiales
+
+## Réponse
+
+*Famille, JO du 1991-08-08, page 1709*
+
+Réponse. - Le Gouvernement est tout à fait conscient de l'importance et du rôle irremplaçable de la famille dans notre société et la politique familiale française est aujourd'hui l'une des plus complètes au monde. En ce qui concerne les prestations familiales, il est rappelé aux honorables parlementaires qu'au cours des dix dernières années, des prestations ont été créées ou améliorées. Ainsi, l'année passée, l'âge d'ouverture des droits aux prestations familiales, en cas d'inactivité de l'enfant, a été porté de dix-sept à dix-huit ans et une aide aux familles pour l'emploi d'une assistante maternelle agréée a été créée à compter du 1er janvier 1991. Parallèlement les revalorisations successives de la base mensuelle de calcul des allocations familiales ont permis d'assurer globalement le maintien de leur pouvoir d'achat. Prise dans son ensemble, l'évolution des prestations versées, au cours de la dernière décennie, a donc été supérieure à l'évolution des prix. Pour1991, après la majoration de 1,7 p. 100 intervenue le 1er janvier, une hausse de 0,8 p. 100 a été décidée à compter du 1er juillet. Cette revalorisation correspond à une augmentation en moyenne annuelle des allocations familiales de 2,8 p. 100 en 1991, soit l'équivalent de l'évolution prévisionnelle des prix pour l'année. Le pouvoir d'achat des prestations est ainsi maintenu par rapport à 1990. Dans une conjoncture difficile où le financement de notre régime de protection sociale impose des efforts rigoureux, la décision du Gouvernement a été guidée par le souci de trouver un juste équilibre entre l'effort demandé aux contribuables et aux cotisants et le niveau des prestations assurées aux bénéficiaires.
