@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001230294
+
+- Question : [SEQ001230294](seq001230294.md) — Information du public par les départements des dispositifs existants en matière d'action sociale d'urgence
+
+## Réponse
+
+*Emploi, JO du 2002-02-21, page 572*
+
+L'action sociale d'urgence en faveur des personnes en difficulté sociale a fait l'objet d'une amélioration significative grâce à la mise en place des commissions de l'action sociale d'urgence (CASU) instituées par l'article L. 154 de la loi d'orientation et de lutte contre les exclusions du 29 juillet 1998. Ces commissions, créées par convention entre le représentant de l'État dans le département et le président du conseil général ont vocation à regrouper l'ensemble des organismes susceptibles d'apporter une aide, notamment financière, aux personnes et familles en situation de précarité, en vue de coordonner leurs interventions. L'information du public sur les dispositifs existants fait partie des objectifs attribués à cette coordination. De nombreux départements ont procédé, à cet effet, au recensement des aides existantes, à leur représentation sous forme de répertoires ou de guides et à leur diffusion, notamment auprès des intervenants sociaux chargés de relayer l'information auprès du public lui-même. Des séances d'information interpartenariales ont également été organisées. Pour améliorer cette diffusion, il est prévu, dans le cadre du nouveau programme de prévention et de lutte contre la pauvreté et l'exclusion sociale qui vient d'être présenté par la ministre de l'emploi et de la solidarité en juillet 2001, une campagne nationale d'information, afin de mieux faire connaître au public, et plus particulièrement aux personnes en grande difficulté, l'ensemble des mesures existantes susceptibles de les aider à s'insérer socialement et professionnellement.
