@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961219714
+
+- Question : [SEQ961219714](seq961219714.md) — Industrie hôtelière
+
+## Réponse
+
+*Équipement, JO du 1997-03-13, page 774*
+
+Réponse. - Les organisations professionnelles représentatives du secteur de l'industrie hôtelière souhaitent que des mesures gouvernementales soient prises afin de répondre aux difficultés économiques du secteur. Elles proposent quatre mesures qui, selon elles, seraient de nature à créer un contexte favorable. S'agissant de la proposition relative aux taux de la taxe sur la valeur ajoutée dans le secteur de la restauration, le rapport de M. Edouard Salustro, membre du Conseil économique et social, conclut à la nécessité d'une réforme tout en mentionnant ses difficultés de mise en oeuvre au regard des contraintes budgétaires et communautaires. Le Gouvernement est favorable à l'organisation d'une table ronde avec les professionnels sur ces questions. Sur le plan social, l'hôtellerie-restauration est l'un des seuls secteurs économiques à ne pas bénéficier d'une convention collective. Conscient que la signature d'une telle convention entraînera des charges supplémentaires pour la profession, le Gouvernement souhaite accompagner l'adoption de ce texte par la suppression progressive des charges sociales patronales pesant sur les avantages en nature versés aux salariés du secteur. Cette mesure gouvernementale s'inscrit en complément du dispositif existant en faveur de l'emploi et notamment des mesures générales d'allègement du coût du travail sur les bas salaires. Pour ce qui est de la lutte contre le paracommercialisme, la mobilisation des préfets sur la base des recommandations du rapport de M. Radelet, inspecteur général du tourisme, donne des résultats satisfaisants. Enfin, concernant la réforme du code des débits de boisson, les travaux sont engagés avec les autres ministères concernés.
