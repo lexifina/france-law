@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890404409
+
+- Question : [SEQ890404409](seq890404409.md) — Impôt de solidarité : évaluation du prix des appartements
+
+## Réponse
+
+*Budget, JO du 1989-08-24, page 1318*
+
+Réponse. - Pour l'appréciation de la valeur des immeubles imposables au titre de l'impôt de solidarité sur la fortune, il est le plus souvent recouru soit par l'administration, soit par les experts privés ou les juridictions, à la méthode de l'évaluation dite par comparaison. Il est alors pris en compte la valeur vénale, c'est-à-dire le prix qui pourrait être obtenu par un propriétaire s'il mettait son bien en vente, compte tenu des données du marché et des caractéristiques physiques et juridiques propres du bien considéré, abstraction faite de toute valeur de convenance. La méthode d'évaluation par le revenu permet d'obtenir la valeur vénale d'un immeuble en appliquant au revenu net de l'immeuble, constaté ou escompté, un taux de capitalisation convenablement choisi ; toutefois, cette méthode ne peut être utilisée que pour les immeubles de rapport ; elle est, en revanche, préconisée pour confronter les résultats obtenus à ceux découlant de la méthode d'évaluation par comparaison. Quant à la méthode d'évaluation par l'actualisation de la valeur antérieure, elle est d'application très délicate et suppose une très bonne connaissance de l'évolution du marché immobilier pour le choix du coefficient de réajustement. En définitive, l'évaluation d'un immeuble demeure toujours une question de fait qui ne peut être résolue que sur le plan local compte tenu des circonstances spéciales de chaque affaire. C'est pourquoi, l'administration se doit de ne pas donner sur ce point des instructions trop rigides qui auraient pour effet, dans certains cas, de léser soit les intérêts du Trésor soit ceux des redevables.
