@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000122254
+
+- Question : [SEQ000122254](seq000122254.md) — Préparation des enseignants à l'accueil des enfants et adolescents handicapés
+
+## Réponse
+
+*Éducation, JO du 2000-09-14, page 3179*
+
+Réponse. - Afin de répondre aux interrogations des enseignants accueillant dans leur classe en intégration individuelle des élèves handicapés, il a été décidé de publier à leur usage une série de guides pédagogiques présentant les réalités du handicap, ses conséquences en matière d'apprentissage, les soins et les aides nécessaires qui doivent accompagner l'intégration, ainsi que des éléments bibliographiques et des adresses. Le premier guide, relatif à la déficience visuelle, a été publié en novembre 1999 ; le second, qui porte sur la déficience auditive, a été publié en mai 2000. Trois autres guides devraient être publiés d'ici à la fin de l'année 2000, sur le thème des handicaps mentaux, des troubles du comportement et des handicaps moteurs. La volonté de développer les actions de formation visant à préparer les enseignants à l'accueil des personnes handicapées devrait en outre se traduire dès la rentrée scolaire 2000 par le développement, dans les plans académiques de formation, d'action de formations courtes à l'intention d'équipes éducatives d'établissements scolaires engagées dans des démarches intégratives. Il est également prévu de mettre en place des modules de formation pour des enseignants ressources du second degré (4 modules d'une semaine par an) à l'intention d'enseignants exerçant auprès d'adolescents déficients visuels ou déficients auditifs graves. Ces modules de formation pour enseignants ressources seront ultérieurement élargis aux enseignants exerçant auprès d'adolescents présentant des déficiences motrices ou des maladies invalidantes.
