@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961018162
+
+- Question : [SEQ961018162](seq961018162.md) — Taux de la TVA sur les véhicules électriques
+
+## Réponse
+
+*Économie, JO du 1997-03-13, page 769*
+
+Réponse. - Les dispositions de la directive 92/77/CEE du 19 octobre 1992 relative au rapprochement des taux de taxe sur la valeur ajoutée dans la Communauté européenne ne permettent aux Etats membres d'appliquer le taux réduit qu'aux seuls biens et services repris dans la liste figurant à l'annexe H de cette même directive. Or, les véhicules terrestres à moteur, quelle que soit par ailleurs l'énergie qu'ils utilisent pour leur propulsion, ne figurent pas parmi les biens pouvant bénéficier du taux réduit. Son application aux véhicules électriques serait donc directement contraire au droit communautaire. Cela étant, dans le souci d'encourager le développement des véhicules peu polluants que sont les véhicules électriques et ceux fonctionnant au gaz de pétrole liquefié ou au gaz naturel, le Gouvernement a récemment adressé à la Commission européenne, qui seule peut prendre l'initiative d'une telle modification, une demande de révision de l'annexe H de la directive afin d'y inclure ces types de véhicules. Si la Commission présente une proposition en ce sens, celle-ci devra être adoptée à l'unanimité des Etats membres. En tout état de cause, la loi sur l'air et l'utilisation rationnelle de l'énergie du 30 décembre 1996 comporte d'ores et déjà des dispositions particulièrement favorables au développement du marché des véhicules peu polluants. Il en est ainsi, notamment, de l'exonération de la taxe sur les véhicules des sociétés des véhicules utilisant l'énergie électrique, le gaz de pétrole liquefié ou le gaz naturel, et de l'extension de l'amortissement exceptionnel sur douze mois à tous ces types de véhicules et à certains équipements spécifiques. Ces mesures vont dans le sens des préoccupations exprimées.
