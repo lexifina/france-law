@@ -1,6 +1,6 @@
 # Article 164 F octies
 
-I. Les dispositions des articles 310 quinquies à 310 terdecies de l'annexe I au code général des impôts sont applicables aux chaussures et articles chaussants de toute nature.
+I. Les dispositions des articles 310 quinquies à 310 terdecies de l'annexe I au code général des impôts et de l'article R. 24-1 du livre des procédures fiscales sont applicables aux chaussures et articles chaussants de toute nature.
 
 II. Ne donnent pas lieu à l'établissement de bons de remis les transports des produits désignés au I, effectués entre leurs magasins de stockage et leurs succursales par les entreprises dont la vente au détail constitue l'activité principale.
 
@@ -27,3 +27,7 @@ La date de la réception et les quantités reçues; les nom et adresse de l'exp�
 La date de livraison et les quantités livrées; le numéro du bon de remis établi pour la livraison ou les nom et adresse du destinataire;
 
 Les quantités détenues le dernier jour de chaque trimestre.
+
+NOTA :
+
+.

@@ -4,4 +4,4 @@ Les exploitants de spectacles sont tenus d'établir dès la fin de chaque journ�
 
 Tous registres ou documents présentant les indications prévues ci-dessus tiennent lieu de relevé.
 
-Les relevés doivent être tenus à la disposition des agents des impôts et conservés par les exploitants pendant le délai prévu à l'article 2002 bis du code général des impôts.
+Les relevés doivent être tenus à la disposition des agents des impôts et conservés par les exploitants pendant le délai prévu à l'article L. 82 du livre des procédures fiscales.

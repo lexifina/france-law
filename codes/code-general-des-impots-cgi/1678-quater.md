@@ -6,4 +6,4 @@ Il ne peut être pris en charge par le débiteur.
 
 Les modalités et conditions d'application de ce prélèvement sont fixées par décret (1).
 
-1) Annexe III, art. 381 S.
+(1) Annexe III, art. 381 S..
