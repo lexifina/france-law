@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020701369
+
+- Question : [SEQ020701369](seq020701369.md) — Représentation du personnel au sein des commissions administratives départementales compétentes à l'égard des enseignants
+
+## Réponse
+
+*Jeunesse, JO du 2003-11-06, page 3283*
+
+Les élections professionnelles pour les personnels enseignants du premier degré sont régies par les dispositions combinées du décret n° 82-451 du 28 mai 1982 relatif aux commissions administratives paritaires ainsi que par celles du décret n° 90-770 du 31 août 1990 relatif aux commissions administratives paritaires uniques communes aux corps des instituteurs et des professeurs des écoles. Les arrêtés et la note de service, pris en application de cette réglementation et concernant les modalités du scrutin du 3 décembre 2002, ont fait l'objet de réunions et d'échanges avec les organisations syndicales depuis le mois de décembre 2001. Toutes les dispositions ont été prises pour que ce scrutin se déroule dans les meilleures conditions. Les modalités de répartition des sièges au sein des commissions administratives paritaires départementales sont régies par les articles 4, 5 et 6 du décret n° 90-770 du 31 août 1990 relatif aux commissions administratives paritaires uniques communes au corps des instituteurs et des professeurs des écoles. Trois catégories sont effectivement définies selon le nombre d'emplois d'enseignants : départements de moins de 1 500 emplois, départements dont le nombre d'emplois d'enseignants est égal ou supérieur à 1 500 et inférieur à 2 800 emplois et départements dont le nombre d'emplois est supérieur à 2 800 emplois. L'introduction d'une quatrième catégorie (à partir de 5 000 emplois d'enseignants) a été envisagée et proposée dans le cadre des discussions préalables avec les organisations syndicales. Après consultation avec les différents partenaires cette mesure n'a finalement pas été retenue.
