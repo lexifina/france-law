@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861203830
+
+- Question : [SEQ861203830](seq861203830.md) — Calcul des droits à pension des combattants d'Algérie
+
+## Réponse
+
+*Affaires sociales, JO du 1987-02-12, page 200*
+
+Réponse. -Les périodes de présence sous les drapeaux en temps de paix ne peuvent être validées pour la retraite du régime général de la sécurité sociale que si elles sont effectuées au titre du service militaire légal et sous réserve que les intéressés aient été préalablement affiliés à ce régime. Toutefois, il a été admis, sous réserve de la condition d'assujettissement préalable susvisée que les périodes durant lesquelles les militaires de réserve ont été maintenus ou rappelés sous les drapeaux en Afrique du Nord pendant les opérations de maintien de l'ordre devaient être assimilées à des périodes de service militaire légal et, comme telles, prises en considération pour le calcul de la pension de vieillesse. Par ailleurs, il est rappelé que la loi n° 74-1044 du 9 décembre 1974 donne vocation à la qualité d'ancien combattant aux anciens militaires ayant participé aux opérations en Afrique du Nord entre le 1er janvier 1952 et le 2 juillet 1962. En applicationde la loi n° 73-1051 du 21 novembre 1973, les périodes de service ainsi accomplies dans le cadre de ces opérations peuvent être prises en compte pour le calcul de la pension de vieillesse du régime général, dès lors que les intéressés ont relevé, en premier lieu, dudit régime, postérieurement aux périodes en cause et sous réserve que ces périodes soient attestées par les services du ministère de la défense ou du secrétariat d'Etat aux anciens combattants. Ces périodes ouvrent droit également à l'anticipation de retraite au taux plein. Cette anticipation est déterminée en fonction de la durée des services militaires en question.
