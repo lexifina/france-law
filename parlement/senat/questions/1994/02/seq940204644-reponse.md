@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940204644
+
+- Question : [SEQ940204644](seq940204644.md) — Développement des chambres d'hôtes
+
+## Réponse
+
+*Équipement, JO du 1994-08-25, page 2074*
+
+Réponse. - Depuis plusieurs années on assiste à l'apparition de nouvelles formes de l'offre d'hébergement, liée à la fois au succès croissant du tourisme " vert " et à la crise économique. Ainsi, la multiplication non organisée des chambres d'hôtes suscite de vives inquiétudes chez les professionnels de l'hôtellerie et les responsables locaux du tourisme. Le ministre de l'équipement, des transports et du tourisme, qui partage les préoccupations de l'honorable parlementaire a, dès sa prise de fonctions, engagé une politique de réglementation des activités touristiques paracommerciales. En effet, il lui a paru nécessaire de permettre l'expression de nouvelles formes de tourisme, qui correspondent aux nouveaux besoins de la clientèle et participent au maintien d'une activité économique, notamment dans les zones les plus défavorisées. L'objectif à atteindre est en conséquence de rapprocher les réglementations qui régissent la concurrence entre les activités du secteur commercial et ces nouvelles formes de prestations et d'inciter à la labellisation des hébergements mis sur le marché. L'arrêté ministériel du 8 janvier 1993, relatif au classement catégoriel des meublés saisonniers permet aux organismes locaux compétents qui le souhaitent d'intervenir dans la mise en oeuvre du classement des meublés. Ils peuvent ainsi jouer un rôle déterminant dans l'amélioration de la qualité des hébergements offerts, la commercialisation et la promotion. Le ministre est tout à fait disposé, dans le cadre du partenariat, à accroître les prérogatives des organismes locaux et notamment des comités départementaux de tourisme, déjà très actifs en matière de classement et de labellisation des hébergements touristiques.
