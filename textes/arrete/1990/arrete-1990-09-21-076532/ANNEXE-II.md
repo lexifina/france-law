@@ -6,126 +6,322 @@ Corps des secrétaires médicaux
 
 Classe exceptionnelle
 
-Echelons/indices bruts
+ÉCHELONS
 
-7e échelon : 579
+|
 
-6e échelon : 547
+INDICES BRUTS
 
-5e échelon : 510
+|
 
-4e échelon : 479
-
-3e échelon : 448
-
-2e échelon : 423
-
-1er échelon : 384
-
-Classe supérieure
-
-5e échelon : 533
-
-4e échelon : 501
-
-3e échelon : 473
-
-2e échelon : 441
-
-1er échelon : 418
-
-Classe normale
-
-12e échelon
-
-A compter du 1er janvier 1990 : 474
-
-A compter du 1er août 1990 : 474
-
-A compter du 1er août 1992 : 474
-
-11e échelon
-
-A compter du 1er janvier 1990 : 453
-
-A compter du 1er août 1990 : 453
-
-A compter du 1er août 1992 : 453
-
-10e échelon
-
-A compter du 1er janvier 1990 : 430
-
-A compter du 1er août 1990 : 430
-
-A compter du 1er août 1992 : 430
-
-9e échelon
-
-A compter du 1er janvier 1990 : 395
-
-A compter du 1er août 1990 : 395
-
-A compter du 1er août 1992 : 395
-
-8e échelon
-
-A compter du 1er janvier 1990 : 377
-
-A compter du 1er août 1990 : 383
-
-A compter du 1er août 1992 : 389
+|
 
 7e échelon
 
-A compter du 1er janvier 1990 : 360
+|
 
-A compter du 1er août 1990 : 369
+612
 
-A compter du 1er août 1992 : 379
+|
+
+|
 
 6e échelon
 
-A compter du 1er janvier 1990 : 342
+|
 
-A compter du 1er août 1990 : 351
+580
 
-A compter du 1er août 1992 : 360
+|
+
+|
 
 5e échelon
 
-A compter du 1er janvier 1990 : 328
+|
 
-A compter du 1er août 1990 : 336
+549
 
-A compter du 1er août 1992 : 345
+|
+
+|
 
 4e échelon
 
-A compter du 1er janvier 1990 : 315
+|
 
-A compter du 1er août 1990 : 325
+518
 
-A compter du 1er août 1992 : 336
+|
+
+|
 
 3e échelon
 
-A compter du 1er janvier 1990 : 301
+|
 
-A compter du 1er août 1990 : 311
+487
 
-A compter du 1er août 1992 : 321
+|
+
+|
 
 2e échelon
 
-A compter du 1er janvier 1990 : 289
+|
 
-A compter du 1er août 1990 : 299
+453
 
-A compter du 1er août 1992 : 309
+|
 
-1er échelon A compter du 1er janvier 1990 : 274
+|
 
-A compter du 1er août 1990 : 286
+1er échelon
 
-A compter du 1er août 1992 : 298
+|
+
+425
+
+|
+
+|
+
+|
+
+Classe supérieure
+
+ÉCHELONS
+
+|
+
+INDICES BRUTS
+
+|
+
+|
+
+8e échelon
+
+|
+
+579
+
+|
+
+|
+
+7e échelon
+
+|
+
+547
+
+|
+
+|
+
+6e échelon
+
+|
+
+516
+
+|
+
+|
+
+5e échelon
+
+|
+
+485
+
+|
+
+|
+
+4e échelon
+
+|
+
+463
+
+|
+
+|
+
+3e échelon
+
+|
+
+436
+
+|
+
+|
+
+2e échelon
+
+|
+
+416
+
+|
+
+|
+
+1er échelon
+
+|
+
+399
+
+|
+
+|
+
+|
+
+Classe normale
+
+ÉCHELONS
+
+|
+
+INDICES BRUTS
+
+|
+
+|
+
+13e échelon
+
+|
+
+544
+
+|
+
+|
+
+12e échelon
+
+|
+
+510
+
+|
+
+|
+
+11e échelon
+
+|
+
+483
+
+|
+
+|
+
+10e échelon
+
+|
+
+450
+
+|
+
+|
+
+9e échelon
+
+|
+
+436
+
+|
+
+|
+
+8e échelon
+
+|
+
+416
+
+|
+
+|
+
+7e échelon
+
+|
+
+398
+
+|
+
+|
+
+6e échelon
+
+|
+
+382
+
+|
+
+|
+
+5e échelon
+
+|
+
+366
+
+|
+
+|
+
+4e échelon
+
+|
+
+347
+
+|
+
+|
+
+3e échelon
+
+|
+
+337
+
+|
+
+|
+
+2e échelon
+
+|
+
+315
+
+|
+
+|
+
+1er échelon
+
+|
+
+306
+
+|
+
+|
+
+|
