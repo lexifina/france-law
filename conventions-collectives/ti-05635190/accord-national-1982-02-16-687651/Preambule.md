@@ -8,17 +8,29 @@ Elles doivent aussi, dans un contexte de concurrence intérieure très forte et 
 
 Elles ne peuvent, sauf dans le cas de difficultés économiques devant conduire à une réduction des effectifs, refuser aux salariés qui le demandent de cesser leur activité dans le cadre de l'accord relatif au développement de l'emploi, en contrepartie de la cessation d'activité de salariés totalisant 160 trimestres et plus de cotisations aux régimes de base d'assurance vieillesse.
 
+Cette obligation est maintenue dans l'hypothèse du renouvellement de l'accord qui est vivement souhaité par les parties signataires du présent accord.
+
 La commission paritaire nationale de l'emploi de la profession étudiera au cours de ses réunions périodiques la situation de l'emploi et son évolution prévisible en s'appuyant sur les travaux qui seront menés par l'observatoire de l'emploi, des métiers et des qualifications du commerce.
 
 Le présent accord a pour objet d'assurer la transposition dans la branche professionnelle de la directive européenne du 23 novembre 1993 relative à certains aménagements du temps de travail.
 
 Conclu en outre en application de l'accord interprofessionnel sur l'emploi du 31 octobre 1995, il a aussi pour objectifs simultanés de consolider l'emploi, d'en favoriser la création dès lors que les gains de productivité le permettent et d'améliorer les conditions de travail des salariés du commerce, tout en développant le service rendu aux consommateurs.
 
+La loi n° 98-461 du 18 juin 1998 d'orientation et d'incitation relative à la réduction du temps de travail implique d'intégrer dans le dispositif les nouvelles données qu'elle envisage.
+
+Elle conduit à mener une réflexion approfondie sur l'aménagement - réduction du temps de travail - au sein des entreprises qui seules peuvent décider de s'engager dans un processus de réduction du temps de travail " offensif " voir, dans un certain nombre de cas, " défensif " devant aboutir au respect des objectifs suivants :
+
+- satisfaire toujours davantage les clients en répondant notamment à leur demande de nouveaux services, et donc en créant des emplois à cette fin ;
+
+- permettre aux salariés de mieux organiser leur vie professionnelle et personnelle ; à cet effet, la réduction du temps de travail doit conduire à une diminution de la précarité en limitant le recours au contrat de travail à durée déterminée ou au travail intérimaire ;
+
+- assurer la pérennité et le développement économique des entreprises.
+
 Le comité d'entreprise ou d'établissement doit préalablement à l'accord prévu ci-dessous être consulté sur la durée et l'aménagement du temps de travail conformément aux dispositions légales.
 
 Les entreprises et/ou établissements qui désirent mettre en place cet accord doivent négocier sur ses dispositions avec leurs délégués syndicaux en vue d'aboutir à un accord collectif prévoyant un mode d'organisation du travail adapté à leur situation particulière et favorisant l'emploi.(1)
 
-Toutefois, pour les entreprises ou établissements n'ayant pas conclu d'accord ou en l'absence de délégués syndicaux, la mise en place des dispositions prévues ci-dessous est soumise à une consultation préalable du comité d'entreprise ou à défaut des délégués du personnel.
+Toutefois, pour les entreprises ou établissements n'ayant pas conclu d'accord ou en l'absence de délégués syndicaux ou avec un ou plusieurs salariés mandatés conformément aux dispositions de l'avenant n° 74 du 15 octobre 1998 , la mise en place des dispositions prévues ci-dessous est soumise à une consultation préalable du comité d'entreprise ou à défaut des délégués du personnel.
 
 En l'absence d'institutions représentatives du personnel, les entreprises ou établissements peuvent recourir au régime ci-dessous après information individuelle des salariés concernés.
 
