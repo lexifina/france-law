@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950310366
+
+- Question : [SEQ950310366](seq950310366.md) — Engagement des institutions consulaires en faveur de la défense de l'environnement
+
+## Réponse
+
+*Environnement, JO du 1995-08-24, page 1623*
+
+Réponse. - Mme le ministre de l'environnement a pris connaissance de la question écrite posée à son prédécesseur par l'honorable parlementaire concernant la représentation des organismes consulaires (chambres de commerce et d'industrie) au sein de la commission nationale du débat public instituée par la loi no 95-101 du 2 février 1995 relative au renforcement de la protection de l'environnement, en raison de l'intérêt porté par ces établissements publics aux problèmes d'environnement. L'article 2 de la loi précitée prévoit la composition de cette commission de la manière suivante : parlementaires et élus locaux membres du Conseil d'Etat, des juridictions de l'ordre administratif et judiciaire, représentants d'associations exerçant leur activité sur l'ensemble du territoire, représentants d'usagers et personnalités qualifiées. C'est au titre de cette dernière catégorie que pourrait être désigné un représentant des organismes consulaires. Si l'on se réfère au projet de décret en cours d'élaboration, il faut préciser que trois personnalités qualifiées siégeront au sein de la commission. Le ministre de l'environnement ne désignera d'ailleurs qu'une seule de ces personnalités, les deux autres étant désignées par le ministre chargé des transports et par le ministre chargé de l'industrie. A ce jour, il n'est pas encore possible d'indiquer si un membre des chambres consulaires siégera à la commission nationale du débat public. C'est dans des formes similaires que pourrait se poser la question en ce qui concerne le conseil départemental de l'environnement et le conseil régional de l'environnement, ce dernier relevant d'ailleurs de la région et non de l'Etat.
