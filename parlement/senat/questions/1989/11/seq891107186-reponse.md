@@ -1,0 +1,9 @@
+# Réponse à la question SEQ891107186
+
+- Question : [SEQ891107186](seq891107186.md) — Desserte autoroutière du département de la Vendée
+
+## Réponse
+
+*Équipement, JO du 1990-05-24, page 1135*
+
+Réponse. - Le ministre de l'équipement, du logement, des transports et de la mer, est conscient de l'importance qu'accordent les élus de la Vendée au désenclavement de leur département. Le dossier qui doit être soumis à l'enquête publique, en vue de la déclaration d'utilité publique du projet autoroutier Nantes-Niort, est en cours d'élaboration par le centre d'études techniques de l'équipement (C.E.T.E.) de l'Ouest ; dernièrement, il a été demandé aux services techniques d'intégrer de manière complète à ce document les résultats des diverses études d'environnement, récemment achevées et qui ont été engagées pour optimiser les caractéristiques du projet autoroutier, afin de minimiser l'impact et les conséquences de la traversée du marais poitevin par l'ouvrage autoroutier. L'enquête publique s'ouvrira au début de l'année 1990. Par ailleurs, le comité interministériel d'aménagement du territoire du 17 novembre 1988 a adopté le principe d'une autoroute concédée entre Angers et La Roche-sur-Yon ; la Société des Autoroutes du Sud de la France a été pressentie pour être le concessionnaire de cette future liaison. Les études préliminaires du projet ont été engagées par le C.E.T.E. de l'Ouest. La phase de recherche des contraintes est ainsi engagée ; une fois ce recensement achevé, le C.E.T.E. fera l'inventaire des différents couloirs possibles pour l'autoroute et procédera à une évaluation multi-critères des diverses variantes. Ces éléments seront ensuite mis à la disposition des élus, sous l'autorité des préfets de département, pour permettre l'expression la plus large sur les choix à réaliser. Enfin, le décret approuvant le nouveau schéma directeur routier national intégrant notamment la liaison Angers-La Roche-sur-Yon, sera approuvé prochainement.
