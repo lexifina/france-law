@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890404534
+
+- Question : [SEQ890404534](seq890404534.md) — Scolarisation des enfants français au Gabon
+
+## Réponse
+
+*Coopération, JO du 1989-07-13, page 1085*
+
+Réponse. - Le comité paritaire relatif à la scolarisation des enfants français en République gabonaise s'est réuni pour la troisième fois en avril 1989. Comme lors des précédentes réunions, les autorités gabonaises ont affirmé leur volonté d'apporter des solutions aux problèmes que rencontrent les élèves français scolarisés dans les établissements secondaires nationaux. A cette occasion il a été décidé de poursuivre le programme de réhabilitation des établissements qui accueillent les enfants français ; de confier à l'inspection générale de l'éducation nationale et à l'Institut pédagogique national gabonais une mission d'étude des programmes et des méthodes d'enseignement, avec la collaboration des inspecteurs généraux français ; d'analyser les rythmes scolaires dans le cadre d'une mission effectuée par l'inspection générale française de la vie scolaire ; de faire évaluer à l'Institut pédagogique national gabonais les niveaux de formation des élèves, avec le concours de la direction de l'évaluation et de la prospection de notre ministère de l'éducation nationale, de la jeunesse et des sports. Par ailleurs, il est précisé que le groupe de travail chargé de réfléchir sur les modalités d'une éventuelle organisation de l'épreuve anticipée de français au Gabon rendra ses conclusions à la fin du mois de juin 1989. Toutes ces décisions, qui s'ajoutent à celles qui ont été prises antérieurement, ne manqueront pas d'avoir un effet positif sur le fonctionnement des établissements scolaires considérés, et de permettre aux enfants gabonais et français de continuer à être scolarisés en commun, conformément aux voeux des gouvernements des deux pays.
