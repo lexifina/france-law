@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911219148
+
+- Question : [SEQ911219148](seq911219148.md) — Situation de la Manufacture des grandes orgues de Rambervillers (Vosges)
+
+## Réponse
+
+*Culture, JO du 1992-03-05, page 550*
+
+Réponse. - La manufacture de grandes orgues Dargassies-Gonzalez, implantée à Rambervillers est actuellement en difficulté. Les actuels gestionnaires de l'entreprise attribuent ses difficultés aux services de l'Etat et des collectivités locales qui assurent, en effet, une part importante des commandes des quatre-vingt-dix entreprises françaises de facture d'orgues. Actuellement, la direction du patrimoine et ses services déconcentrés en région, maîtres d'ouvrage pour les orgues protégés au titre des monuments historiques, n'ont pas de chantiers en cours confiés à la manufacture Dargassies-Gonzalez. Les derniers marchés dévolus à cette entreprise sont aujourd'hui soldés. Il en est de même à la direction de la musique et de la danse. Il n'y a donc pas de remboursements en cours auxquels seraient imputables les difficultés actuelles. M. Dargassies, président-directeur général de la manufacture de grandes orgues Dargassies-Gonzalez a répondu depuis trois ans à l'appel de candidatures annuel lancé par l'Etat. Il a soumissionné sur plusieurs opérations mais n'a pas été retenu en raison du caractère spécifique de certains chantiers. Il faut rappeler au demeurant que la concurrence au sein de la profession est sévère et justifie une gestion saine et un savoir-faire affiné de la part des facteurs. Je ne peux qu'espérer que, dans des temps prochains, la manufacture de grandes orgues Dargassies-Gonzalez se trouvera à nouveau en situation de remporter des appels d'offres de l'Etat, des collectivités locales. Elle peut également dans l'immédiat proposer ses prestations de services au titre des contrats d'entretien.
