@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930400462
+
+- Question : [SEQ930400462](seq930400462.md) — Indemnisation des agents non titulaires de la fonction publique territoriale ayant perdu leur emploi
+
+## Réponse
+
+*Travail, JO du 1993-10-28, page 2040*
+
+Réponse. - Lors de la préparation de la loi no 87-588 du 30 juillet 1987, offrant aux collectivités locales la possibilité d'adhérer à l'assurance-chômage pour les personnels non titulaires, l'affiliation des fonctionnaires stagiaires, si elle a été envisagée, n'a pas été retenue. En effet, au contraire des agents non titulaires qui sont engagés pour des tâches occasionnelles, les stagiaires ont vocation, sauf exception, à être titularisés. Cette règle a été portée à la connaissance des collectivités territoriales par les pouvoirs publics dans la circulaire interministérielle du 12 novembre 1987 et reprise dans les directives de l'Unedic relatives à l'adhésion des collectivités territoriales à l'assurance-chômage. L'impossibilité d'adhérer à l'assurance-chômage pour les fonctionnaires stagiaires ne comporte pas d'incidence négative pour les intéressés, ceux-ci percevant, en cas de licenciement, les mêmes prestations, que les salariés du secteur privé et selon les mêmes modalités, dès lors qu'ils remplissent les conditions fixées par les accords des partenaires sociaux en matière d'assurance-chômage. Leur indemnisation reste à la charge des employeurs publics qui n'auraient pas de raison de faire preuve d'une plus grande sévérité à l'égard de ces personnels qu'il leur faudra indemniser en cas de licenciement. A cet égard, il convient de noter que la possibilité d'un licenciement en cours ou à l'issue des stages statutaires, sans être totalement nulle, ne paraît pas élevée par rapport au nombre de stagiaires recrutés chaque année par les collectivités locales.
