@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960414827
+
+- Question : [SEQ960414827](seq960414827.md) — Enseignement de l'italien
+
+## Réponse
+
+*Éducation, JO du 1996-09-12, page 2347*
+
+Réponse. - L'enseignement de l'italien en qualité de langue vivante étrangère est présent au niveau du second degré dans l'ensemble du cursus scolaire, que ce soit dans l'enseignement général, technologique ou professionnel. Parmi les quinze langues étrangères offertes aux élèves, l'italien arrive, en ce qui concerne l'effectif total des élèves qui suivent son enseignement, en quatrième position, après l'anglais, l'espagnol, l'allemand. Les effectifs d'élèves qui étudiaient l'italien au cours de l'année scolaire 1994-1995 dans l'enseignement public et privé sous contrat s'élevaient à 181 317, en légère augmentation par rapport à l'année précédente où 167 764 jeunes suivaient un enseignement d'italien. Cet enseignement a des assises plutôt favorables dans notre système scolaire puisqu'il trouve sa place au sein de certains dispositifs visant à approfondir l'apprentissage des langues. C'est le cas au sein des sections internationales qui ont un horaire renforcé de langue et offrent un enseignement d'histoire-géographie et de lettres, harmonisé avec les programmes du pays partenaire et qui est dispensé pour partie dans la langue de la section. Par ailleurs, un certain nombre de sections européennes, dont la création remonte à la rentrée 1992-1993, a été ouvert en langue italienne. Ces sections bénéficient au cours des deux premières années d'un horaire renforcé de langue puis d'un enseignement de certaines disciplines, pour tout ou partie du programme, selon le choix de l'établissement, assuré en langue étrangère. De plus, l'ensemble des concours de recrutement de professeurs de langues du second degré est ouvert aux professeurs d'italien. Au cours de l'année scolaire passée, 1 723 enseignants dispensaient cette discipline dans l'enseignement public et privé sous contrat.
