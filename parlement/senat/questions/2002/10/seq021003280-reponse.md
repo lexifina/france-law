@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021003280
+
+- Question : [SEQ021003280](seq021003280.md) — Lutte contre l'usage de drogues illicites
+
+## Réponse
+
+*Santé, JO du 2003-02-13, page 585*
+
+Selon le dernier rapport de l'Observatoire français des drogues et des toxicomanies (OFDT), la consommation de cannabis s'est nettement développée au cours des dernières années, particulièrement chez les jeunes. En 2000, un Français sur cinq a déjà expérimenté ce produit. Chez les jeunes, la consommation reste majoritairement occasionnelle mais devient, avec l'âge, de plus en plus régulière et intense. Ainsi, à 18 ans, l'usage répété de cannabis concerne 30 % des garaçons et 13,7 % des filles. L'accessibilité au cannabis est plus particulièrement développée en milieu festif, dans certains quartiers défavorisés, mais également en milieu scolaire et chez les étudiants. Les jeunes scolarisés de 14 à 19 ans déclarent pour les deux tiers d'entre eux connaître un endroit où acheter du cannabis et citent, en premier lieu, l'établissement scolaire. Cette situation appelle un renforcement de chacun des ministères concernés afin de définir les axes du prochain plan de lutte contre la drogue, dont la coordination est assurée par la mission interministérielle de lutte contre la drogue et la toxicomanie (MILDT). Concernant le milieu festif, une étude menée auprès des services déconcentrés en 2001 souligne la nécessité de renforcer la couverture sanitaire de ce type d'événement et la cohérence des interventions publiques, en particulier répressives et sanitaires. Dans le cadre scolaire, les mesures devront en priorité viser le recul de l'âge des premières consommations, le repérage précoce de l'usage nocif et l'aide aux usagers en difficulté. En outre, un soutien devra être apporté aux parents, afin qu'ils soient plus à même d'exercer leur rôle éducatif.
