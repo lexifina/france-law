@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040110706
+
+- Question : [SEQ040110706](seq040110706.md) — Rétablissement de la possibilité de passer un marché à bons de commande sans formalités préalables
+
+## Réponse
+
+*Économie, JO du 2004-04-01, page 803*
+
+Le code prévoit que certains marchés publics, en raison de leur montant, puissent être passés selon une procédure adaptée, ce qui les dispense de l'obligation d'appliquer les dispositions du titre III relatives aux procédures de passation. Pour ces marchés, l'acheteur a la responsabilité de choisir la procédure d'achat la mieux adaptée à l'importance et à la nature de la prestation en cause et de proportionner en conséquence le niveau de formalisme de sa démarche d'achat, dans le respect des principes posés à l'article 1er du code des marchés publics. En effet, en dessous des seuils de procédure, le Gouvernement n'a pas jugé possible ni opportun d'élaborer une réglementation particulière pour chaque type d'achat. Le parti a donc été pris d'adopter une autre démarche qui consiste à rappeler, clairement et précisément, qu'il existe des principes de transparence et des principes de mise en concurrence auxquels l'acheteur est soumis, quel que soit le montant ou la nature de son achat, mais de laisser aux acheteurs publics le soin d'adapter le contenu des procédures d'achats retenues. Il s'ensuit qu'un acheteur en situation de passer un marché selon une procédure adaptée n'a pas l'obligation d'organiser une procédure formelle de publicité et de mise en concurrence, selon les modalités fixées au titre III du code des marchés publics. Toutefois, cette souplesse ne leur interdit pas, s'ils ne sont pas en mesure d'apprécier le rythme et l'étendue des besoins à satisfaire, d'adopter volontairement un mécanisme similaire à celui décrit à l'article 71 du code. La réforme du code n'a donc en aucune façon restreint la possibilité de passer des marchés à bons de commande, selon une procédure adaptée.
