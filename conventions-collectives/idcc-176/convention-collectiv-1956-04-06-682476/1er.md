@@ -8,7 +8,7 @@ Activités visées par la présente convention collective
 
 2. Recherche et développement en médecine et en pharmacie humaines, services et sous-traitance de la recherche et développement et du contrôle correspondant aux activités ci-dessus.
 
-3. Lorsqu'elles sont effectuées par des entreprises ou établissements directement liés au titulaire ou exploitant de l'autorisation de mise sur le marché (A.M.M.) et dont la finalité économique est la fabrication et/ou l'exploitation de médicaments et spécialités pharmaceutiques à usage humain visés au § 1 ci-dessus :
+3. Lorsqu'elles sont effectuées par des entreprises ou établissements directement liés (2) au titulaire ou exploitant de l'autorisation de mise sur le marché (A.M.M.) et dont la finalité économique est la fabrication et/ou l'exploitation de médicaments et spécialités pharmaceutiques à usage humain visés au § 1 ci-dessus :
 
 - le façonnage et le conditionnement ;
 
@@ -88,8 +88,10 @@ Sont, en outre, rattachées à la présente convention collective, quel que soit
 
 La référence à la nomenclature des activités françaises (N.A.F.) est donnée à titre indicatif. Elle n'est déterminante que si elle correspond à l'activité principale effective de l'entreprise ou l'établissement définis au premier alinéa ci-dessus.*
 
-NOTA : (1) Article exclu de l'extension par arrêté du 3 octobre 1997.
+NOTA : (1) Article exclu de l'extension par arrêté du 3 octobre 1997. NOTA : (2) On entend par "directement liés" les entreprises ou établissements qui appartiennent totalement ou partiellement à une société ou un groupe pharmaceutique et qui ont pour principale clientèle cette société ou une ou plusieurs entreprises de ce groupe.
 
 NOTA :
 
 NOTA : (1) Article exclu de l'extension par arrêté du 3 octobre 1997.
+
+NOTA : (2) On entend par "directement liés" les entreprises ou établissements qui appartiennent totalement ou partiellement à une société ou un groupe pharmaceutique et qui ont pour principale clientèle cette société ou une ou plusieurs entreprises de ce groupe.
