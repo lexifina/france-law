@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980810313
+
+- Question : [SEQ980810313](seq980810313.md) — Indemnisation de l'avocat dans le cadre de l'aide juridictionnelle
+
+## Réponse
+
+*Justice, JO du 1998-10-22, page 3377*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable palementaire que l'article 77 de la loi du 10 juillet 1991 relative à l'aide juridique a laissé subsister un régime spécifique d'assistance judiciaire devant les juridictions des pensions militaires, en vue duquel tout justiciable qui en fait la demande peut bénéficier, sans condition de ressources, de l'assistance d'un avocat dont le concours est gratuit. Ce régime dérogatoire, instauré en compensation de la dette de la nation envers ceux qui ont payé " l'impôt du sang " suscite des critiques. Les avocats considèrent, en effet, que le devoir de solidarité qui pèse sur leur profession de manière exclusive puisqu'ils ne perçoivent aucune rétribution de la part de l'Etat à l'occasion de leurs interventions devant les juridictions concernées, est inéquitable. Les justiciables et le milieu associatif déplorent, quant à eux, le faible engagement du barreau dans ce contentieux pourtant complexe et technique. En raison de ces difficultés d'application, des travaux interministériels ont été engagés en 1994 sur l'extension du domaine de l'aide juridictionnelle aux procédures intentées devant les juridictions des pensions militaires ; toutefois, ils n'ont pas pu aboutir sous l'ancienne législature en raison de contraintes budgétaires. Dès lors, la chancellerie entend relancer la réflexion à laquelle doivent être associés les secrétariats d'Etat au budget et aux anciens combattants, en considération de la situation particulière des judiciables qui ont participé à des faits de guerre ou à des opérations militaires de maintien de l'ordre du droit à pension invoqué.
