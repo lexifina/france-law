@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910716104
+
+- Question : [SEQ910716104](seq910716104.md) — Invalides de guerre : traitement des demandes d'aggravation
+
+## Réponse
+
+*Anciens combattants, JO du 1991-11-28, page 2636*
+
+Réponse. - Dans une matière aussi complexe que la législation des pensions militaires d'invalidité et des victimes de guerre, les décisions administratives de concession ou de rejet requièrent des délais difficilement réductibles mais qui, en moyenne, ne dépassent pas un an. Il convient de souligner que la recherche constante d'une amélioration de la qualité des examens d'expertise tend à réduire autant que possible le recours à des surexpertises et, partant, à alléger les procédures d'instruction médico-légale. Toutefois, ces délais sont sensiblement plus longs dans deux hypothèses : au stade administratif, dans le cadre des procédures intéressant certaines catégories particulières de ressortissants (déportés, internés, patriotes résistant à l'occupation, etc.) ; celles-ci ne sont mises en oeuvre qu'à la demande expresse des intéressés, lorsque ceux-ci souhaitent voir réexaminer leur dossier par les instances nationales compétentes telles que la commission spéciale de réforme des déportés et internés résistants et politiques ; en cas de procédure contentieuse ouverte à l'initiative du pensionné, étant précisé que la ligne de conduite de l'Etat n'est pas d'user de façon systématique des voies de recours offertes par le législateur : le pourcentage très élevé de décisions de justice favorables qu'il obtient en appel ou sur pourvoi en cassation de sa part (respectivement 71 p. 100 et 92 p. 100 pour l'année 1989) est là pour en témoigner. Pour répondre de manière plus circonstanciée à l'honorable parlementaire, il serait indispensable que soient fournis tous renseignements permettant d'identifier la ou les situations à l'origine de sa question.
