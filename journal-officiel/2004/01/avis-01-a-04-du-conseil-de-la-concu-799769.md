@@ -1,0 +1,11 @@
+# Avis du 3 avril 2001 (mesure individuelle)
+
+Mesure nominative ou individuelle : seules les métadonnées sont reproduites ici. / Individual measure: metadata only.
+
+- Nature : Avis
+- Date du texte : 2001-04-03
+- Publication : 2004-01-27
+- JO n° : 0022
+- NOR : ECOX0407095V
+- Ministère : MINISTERE DE L'ECONOMIE, DES FINANCES ET DE L'INDUSTRIE
+- Légifrance : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000799769
