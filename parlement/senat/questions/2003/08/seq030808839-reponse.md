@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030808839
+
+- Question : [SEQ030808839](seq030808839.md) — Instruction permettant aux gardes champêtres  de recevoir le montant des procès-verbaux
+
+## Réponse
+
+*Intérieur, JO du 2003-10-23, page 3160*
+
+L'article 1er de la loi du 15 avril 1999 relative aux polices municipales, codifié à l'article L. 2212-5 du code général des collectivités territoriales (CGCT), prévoit que les agents de police municipale constatent par procès-verbaux les contraventions aux arrêtés de police du maire, ainsi que les contraventions aux dispositions du code de la route dont la liste est fixée par décret en Conseil d'Etat. Il en est de même en application du décret n° 2002-1256 du 15 octobre 2002 pour les gardes champêtres qui disposent, dorénavant, des mêmes compétences. M. Mouly rapporte, à cet égard, que les gardes champêtres ne peuvent percevoir le montant des contraventions en raison de l'impossibilité, en l'absence de régie d'Etat, de percevoir les sommes en cause. Depuis la parution, le 30 août 2003, au Journal officiel de la République française de l'arrêté du 22 juillet 2003 portant modification de l'arrêté du 29 juillet 1993, modifié, habilitant les préfets à instituer ou à modifier des régies d'avances et de recettes de l'Etat auprès des services régionaux ou départementaux relevant du ministère de l'intérieur, les gardes champêtres sont désormais habilités, à la condition de la constitution d'une régie d'Etat, à percevoir les fonds versés par les redevables de contravention aux dispositions du code de la route dont la liste est fixée par décret en Conseil d'Etat. La lettre-circulaire du ministère de l'intérieur, de la sécurité intérieure et des libertés locales du 3 mai 2002 s'applique donc dorénavant dans toutes ses dimensions aux gardes champêtres. Des instructions en ce sens ont été données aux services des préfectures.
