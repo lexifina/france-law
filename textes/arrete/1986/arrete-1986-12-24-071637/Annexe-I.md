@@ -1,109 +1,109 @@
 # Article Annexe I
 
-Papier à en-tête du mandant.
+A. - Cadre réservé au mandant.
 
-Format 21 x 29,7 cm.
+Nous soussigné ... (2) représenté par M... (3) notre ... (4) dûment habilité à cet effet par ... (5) ou agréé à titre personnel sous le numéro ... (avis publié au Journal officiel de la République française du ..., page ... (6), donnons pouvoir au(x) mandataires(s) dont le(s) nom(s) figure(nt) au verso,
 
-Non soumis au timbre.
+de
 
-Modèle et numéro de la déclaration de douane en détail (1).
+1° Nous représenter auprès de l'administration de douanes :
 
-Modèle de procuration en douane (2)
+Bureaux de douanes intéressés ... (7).
 
-Nous, soussigné (3) représenté par M. ..... (4) notre ..... (5) dûment habilité à cet effet par (6) donnons pouvoirs à M. ..... (7), Pour :
+2° Signer, en notre nom, à titre de principal obligé :
 
-1° Nous représenter auprès de l'administration des douanes françaises (8),
+- toutes déclarations de douane d'introduction/importation et d'expédition/exportation ;
 
-2° Signer, en notre nom :
+- toutes soumissions, y compris (8) (ou non compris) (8) les soumissions contentieuses ;
 
-La déclaration en détail se rapportant aux marchandises ci-après (indiquer la nature des marchandises, le nombre des colis et les nom et adresse du destinataire) ;
+- toutes obligations cautionnées souscrites en règlement des droits et taxes, quelles qu'en soient la nature et la dénomination ; - tous procès-verbaux, actes de mainlevée et transactions provisoires ou définitives (8).
 
-Toutes soumissions, y compris les soumissions contentieuses ;
-
-Tous procès-verbaux, actes de mainlevée et transactions provisoires ou définitives.
-
-3° Régler en notre nom le montant des droits et taxes afférents à la déclaration de douane visée au 2° ci-dessus.
+3° Régler en notre nom des droits, taxes et pénalités afférents aux déclarations de douane et actes visés au 2° ci-dessus.
 
 4° Recevoir tous remboursements et en donner acquit et retirer tous certificats et en donner reçu.
 
-5° Accomplir, à titre général, tous autres actes quelconques intéressant le service des douanes.
+5° Accomplir, à titre général, tous autres actes intéressant le service des douanes (8).
 
-Nous, mandant soussigné,
+N'autorisons pas ... (8), autorisons ... (8) notre mandataire soussigné à subdéléguer les pouvoirs que nous lui donnons par le présent mandat à un salarié de son entreprise agissant à son service exclusif.
 
-1° N'autorisons pas (9), autorisons (9) notre mandataire soussigné à subdéléguer les pouvoirs que nous lui donnons par le présent mandat à un salarié de son entreprise agissant à son service exclusif.
+Nous reconnaissons civilement responsable de notre (nos) mandataire(s), sans préjudice de notre mise en cause éventuelle au plan pénal, notamment en tant qu'intéressé à la fraude.
 
-2° Nous reconnaissons civilement responsable de notre mandataire, sans préjudice de notre mise en cause éventuelle au plan pénal, notamment en tant qu'intéressé à la fraude.
+Nous engageons à nous conformer à la réglementation communautaire ainsi qu'à la législation et à la réglementation française du commerce extérieur, et en particulier à l'obligation qui nous est faite de conserver, pendant un délai de trois ans, les documents relatifs aux opérations douanières effectuées en vertu de la présente procuration, et à les représenter aux agents de l'administration des douanes françaises à première réquisition.
 
-3° Nous engageons à nous conformer à la réglementation communautaire ainsi qu'à la législation et à la réglementation françaises du commerce extérieur, et en particulier à l'obligation qui nous est faite de conserver, pendant un délai de trois ans, les documents relatifs aux opérations douanières effectuées en vertu de la présente procuration, et à les représenter aux agents de l'administration des douanes françaises à première réquisition.
+La présente procuration prend effet à la date de son acceptation par le receveur régional des douanes, elle est valable jusqu'à réception par celui-ci de l'avis de résiliation.
 
-Nous, mandataire soussigné,
+Elle annule et remplace la procuration qui avait été établie le ... au nom de MM... (9).
 
-1° Acceptons le présent mandat.
+En cas de révocation pure et simple, cette dernière ne prendra effet que huit jours francs après réception par le receveur régional de l'avis de résiliation adressé par lettre recommandée.
 
-2° Déclarons avoir pris connaissance des dispositions de la législation douanière française rendant les signataires des déclarations pénalement responsables des diverses irrégularités susceptibles d'être relevées dans lesdites déclarations.
+Fait à ..., le ....
 
-3° Nous engageons à remettre le présent mandat au service des douanes françaises à l'appui de la déclaration en détail pour y être annexé.
+Le mandant ...,
+
+Approuvé ..... mots rayés nuls.
+
+Approuvé ..... lignes rayées nulles.
+
+Non soumis au timbre.
+
+B. - Cadre réservé aux mandataire(s) ... (10).
+
+Nous soussigné(s) mandataire(s), dont le(s) nom(s) est (sont) indiqué(s) au cadre 1 ou 2 (10) ci-dessous :
+
+1° Acceptons le présent mandat ;
+
+2° Déclarons avoir pris connaissance des dispositions de l'article 395-1 du code des douanes rendant les signataires des déclarations pénalement responsables des diverses irrégularités susceptibles d'être relevées dans lesdites déclarations ;
+
+3° Nous engageons à présenter le présent mandat à toute réquisition du service des douanes françaises ;
 
 4° Nous engageons à remettre après dédouanement à notre mandant les documents relatifs aux opérations douanières effectuées en vertu du présent mandat.
 
-Fait à, le .....,
+1. Mandataire(s) personne(s) salariée(s) du mandant (11) :
 
-Le mandataire, (11)
+Noms, prénoms ..., lieu, date et signature ...,
 
-Le mandant, (10)
+2. Mandataire autre que salarié du mandant (12).
 
-Signatures certifiées par : (12)
+Raison sociale et adresse ....
 
-Délégation de procuration.
+Représenté par ....
 
-Nous, soussigné (3), représenté par M. .....(4) notre ..... (5) subdéléguons les pouvoirs qui nous sont conférés par (3) ou (4) et (5) en vertu du mandat ci-joint en date du ..... à M. .....(13) ci-après dénommé mandataire salarié de notre entreprise agissant à notre service exclusif.
+Agréé à titre personnel sous le numéro ... (avis publié au Journal officiel de la République française du ... ) (6).
 
-Nous, soussigné, (13)
+Lieu, date et signature.
 
-1° Acceptons la présente délégation.
+Acceptée le ....
 
-2° Déclarons avoir pris connaissance des dispositions de la législation douanière française rendant les signataires des déclarations pénalement responsables des diverses irrégularités susceptibles d'être relevées dans les dites déclarations.
+Sous le numéro ....
 
-3° Nous engageons à remettre le mandat ci-joint et la présente délégation qui en est partie intégrante au service des douanes françaises à l'appui de la déclaration en détail visée en titre et signée par nous en vertu du présent document.
+Le receveur régional des douanes ....
 
-4° Nous engageons à remettre après dédouanement à notre mandant les documents relatifs aux opérations douanières effectuées en vertu du mandat susvisé.
+Approuvé ..... mots rayés nuls.
 
-Fait à ....., le .....,
+Approuvé ..... lignes rayées nulles.
 
-Le mandataire, (11) (15)
+Renvois :
 
-Le mandant, (10) (14)
+(1) La procuration est un mandat donné pour une ou plusieurs opérations de dédouanement dans un ou plusieurs bureaux relevant d'une même recette régionale des douanes. L'original de ce document est déposé auprès du receveur régional des douanes compétent ; une copie certifiée conforme doit être adressée à chaque bureau de douane concerné.
 
-(1) Ces indications seront apposées par le service des douanes lors de l'enregistrement de la déclaration.
+(2) Pour les personnes physiques : nom, prénoms, profession et adresse. Pour les personnes morales : raison sociale et adresse.
 
-(2) La procuration est établie en langue française.
+(3) Pour les personnes morales seulement.
 
-(3) Pour les personnes physiques : nom, prénoms, profession et adresse commerciale ; pour les sociétés : raison sociale, activité et siège social.
+(4) Président-directeur général, gérant, etc. selon le cas.
 
-(4) Pour les sociétés seulement.
+(5) Les statuts de la société, la décision du conseil d'administration en date du, etc.(Ces documents doivent être produits à l'appui de cette procuration).
 
-(5) Président directeur général, gérant, etc., selon le cas.
+(6) Précisions à apporter uniquement par les commissionnaires en douane, les autorisés à dédouaner et les services publics et assimilés.
 
-(6) Les statuts de la société, la décision du conseil d'administration en date du ....., etc... (ces documents doivent être fournis à l'administration des douanes françaises à la première réquisition).
+(7) Indiquer le ou les bureaux de dédouanement.
 
-(7) Pour les personnes physiques : nom, prénoms, profession ou, le cas échéant, qualité (salarié exclusif) et adresse commerciale ; pour les sociétés : raison sociale, activité et siège social.
+(8) Rayer les mentions inutiles.
 
-(8) Indiquer éventuellement le bureau de dédouanement.
+(9) Tout l'alinéa doit être biffé s'il n'y a pas de procuration précédente.
 
-(9) Rayer les mentions inutiles.
+(10) Pour une même procuration seul l'un des cadres B 1 ou B 2 doit être servi.
 
-(10) La signature manuscrite du mandant doit être précédée de la mention "x mots ou lignes rayés nuls" écrite de la main du signataire.
+(11) La procuration peut être établie pour plusieurs mandataires chacun d'eux doit alors signer cet acte.
 
-(11) La procuration doit être établie pour un seul mandataire, lequel doit signer cet acte.
-
-(12) Doivent être certifiées par les autorités habilitées de l'un des Etats membres de la Communauté économique européenne :
-
-- la signature du mandant, dans tous les cas ;
-
-- la signature du mandataire dans le cas où ce dernier a fait usage de la faculté de subdéléguer à un salarié de son entreprise agissant à son service exclusif.
-
-(13) Nom, prénoms, profession, adresse.
-
-(14) Le mandant est le bénéficiaire du pouvoir donné par le détenteur des marchandises.
-
-(15) Le mandataire est le délégataire de la procuration qui lui est donnée par le mandant défini au renvoi (14).
+(12) Il ne peut y avoir qu'un seul mandataire qui agit en tant que commissionnaire en douane, transporteur, autorisé à dédouaner ou service public et assimilé.
