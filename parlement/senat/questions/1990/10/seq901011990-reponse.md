@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901011990
+
+- Question : [SEQ901011990](seq901011990.md) — Agence nationale pour la récupération et l'élimination des déchets
+
+## Réponse
+
+*Industrie, JO du 1990-12-20, page 2709*
+
+Réponse. - La question de l'élargissement des moyens de l'A.N.R.E.D. doit être analysée dans le cadre du projet de création de l'Agence pour l'environnement et les économies d'énergie, qui doit fusionner l'Agence française pour la maîtrise de l'énergie, l'Agence nationale pour la récupération et l'élimination des déchets et l'Agence pour la qualité de l'air. Cette fusion de l'A.F.M.E., l'A.N.R.E.D. et l'A.Q.A. fait l'objet d'un projet de loi présenté au Parlement qui définit les missions de la nouvelle agence et s'appuie sur un constat objectif des forces et complémentarités de chacune des agences existantes. Trois synergies justifient la création de cette agence : toute économie d'énergie réduit à due proportion les émissions polluantes. Entre 1980 et 1988, les émissions de CO2 ont été réduites de plus de 30 p. 100, pour un tiers grâce aux économies d'énergie, le solde grâce au programme électronucléaire ; 70 p. 100 du flux des ordures ménagères n'est ni récupéré ni valorisé. Leur incinération présente un intérêt certain du point de vue de la production énergétique et de l'environnement ; la maîtrise de l'énergie lutte souvent efficacement contre le bruit (isolants, meilleure utilisation des moteurs). Si le projet de loi est adopté par le Parlement, un décret devra être élaboré par les ministres compétents pour définir les conditions de fonctionnement de la nouvelle agence. Une équipe de direction sera alors mise en place et il lui appartiendra de définir la politique nécessaire au respect des objectifs assignés à cette agence par le Gouvernement. A ce stade, la question de l'élargissement des moyens mis en oeuvre sur la politique de traitement des déchets devra être prise en compte.
