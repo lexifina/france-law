@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000122191
+
+- Question : [SEQ000122191](seq000122191.md) — Modalités de calcul des charges sociales et fiscales en agriculture
+
+## Réponse
+
+*Agriculture, JO du 2000-05-04, page 1579*
+
+Réponse. - En application de l'article L. 136-4 du code de la sécurité sociale, l'assiette de la contribution sociale généralisée (CSG) est constituée par la moyenne des revenus se rapportant aux trois années antérieures à l'année précédant celle au titre de laquelle la contribution est due. Cette assiette introduite en 1990 faisait référence à la seule assiette en vigueur à cette période pour le calcul des cotisations des non salariés agricoles. En l'état actuel de la législation, l'assiette de la CSG et de la contribution pour le remboursement de la dette sociale (CRDS) retient les déficits pour un montant nul lors du calcul de la moyenne des revenus. Par ailleurs, l'assiette des cotisations sociales des personnes non salariés agricoles est composée des revenus professionnels appréciés au moyen des bénéfices fiscaux. Par conséquent, dès lors que les revenus exceptionnels résultant d'une indemnisation sont pris en compte pour la détermination du bénéfice fiscal, ils doivent également être pris en compte dans l'assiette des cotisations sociales. La préparation du rapport sur la fiscalité et le mode de calcul des cotisations sociales en agriculture, prévu à l'article 141 de la loi d'orientation agricole du 9 juillet 1999, a été confiée à Mme Béatrice Marre, députée de l'Oise, et à M. Jérôme Cahuzac, député du Lot-et-Garonne. Les modalités de calcul de la CSG et de la CRDS, ainsi que la prise en compte des revenus exceptionnels dans l'assiette fiscale et sociale entrent dans le champ de la réflexion menée sur les charges sociales et fiscales en agriculture, et les rapporteurs pourront proposer des évolutions sur ces problématiques.
