@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950912147
+
+- Question : [SEQ950912147](seq950912147.md) — Procédure de reprise des concessions funéraires en état d'abandon
+
+## Réponse
+
+*Fonction publique, JO du 1995-11-16, page 2169*
+
+Réponse. - La procédure de reprise des concessions funéraires laissées en état d'abandon est définie aux articles L. 361-17 et L. 361-18 et R. 361-21 à R. 361-31 du code des communes. Cette procédure n'est envisageable que pour les concessions d'une durée de trente ans, cinquante ans ou perpétuelles. En outre, elle ne peut être engagée que dix ans après la dernière inhumation faite dans le terrain concédé. L'état d'abandon est constaté par procès-verbal dressé par le maire après transport sur les lieux. Les descendants ou successeurs du concessionnaire sont avisés, un mois à l'avance, du jour et de l'heure auxquels a lieu la constatation. L'article R. 361-22 du code des communes précise que, dans le cas où la résidence des descendants ou successeurs des concessionnaires n'est pas connue, l'avis est affiché à la mairie ainsi qu'à la porte du cimetière. Le commissaire de police ou le garde champêtre accompagne le maire sur les lieux lors de la constatation. Le maire notifie, dans les huit jours, le procès-verbal aux descendants ou successeurs des concessionnaires. Lorsque cette formalité est impossible, il est procédé à un affichage à la mairie et à la porte du cimetière. Ces affichages sont renouvelés deux fois à quinze jours d'intervalle. Si, après l'expiration d'un délai de trois ans, la concession est toujours en état d'abandon, un nouveau procès-verbal est dressé par le maire qui le notifie aux descendants ou successeurs ou l'affiche à la mairie et à la porte du cimetière. Un mois après l'accomplissement de cette formalité, le maire peut saisir le conseil municipal. Si celui-ci décide de reprendre la concession, le maire édicte un arrêté qui est porté à la connaissance du public.
