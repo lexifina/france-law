@@ -2,7 +2,7 @@
 
 I. - Les tabacs manufacturés vendus dans les départements de Corse et les tabacs qui y sont importés sont soumis à un droit de consommation.
 
-Pour les cigarettes, ce droit de consommation, par dérogation au taux normal mentionné à l'article 575 A, est déterminé conformément au dispositions des deuxième, quatrième et cinquième alinéas de l'article 575.
+Pour les cigarettes, ce droit de consommation, par dérogation au taux normal mentionné à l'article 575 A, et dans la limite d'un contingent de 1 200 tonnes par an, est déterminé conformément au dispositions des deuxième, quatrième et cinquième alinéas de l'article 575.
 
 La part spécifique est égale à 5 % de la charge fiscale totale afférente aux cigarettes de la classe de prix la plus demandée et comprenant le droit de consommation et la taxe sur la valeur ajoutée.
 
@@ -12,7 +12,7 @@ Pour les différents groupes de produits mentionnés aux alinéas précédents, 
 
 GROUPE DE PRODUITS : Cigarettes
 
-TAUX NORMAL (en %) : 34,5
+TAUX NORMAL (en %) : 35
 
 GROUPE DE PRODUITS : Cigares
 
