@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860601323
+
+- Question : [SEQ860601323](seq860601323.md) — Difficultés futures des systèmes de retraite par répartition
+
+## Réponse
+
+*Économie, JO du 1986-12-25, page 1785*
+
+Réponse. -Le Gouvernement est favorable au développement d'une épargne volontaire en vue de la retraite. C'est pourquoi le projet de loi sur l'épargne propose la création de plans d'épargne retraite. Les versements effectués dans le cadre de ces plans seraient déductibles du revenu imposable des épargnants dans une limite annuelle de 6 000 francs pour les personnes seules et de 12 000 francs pour les couples mariés. Compte tenu de l'objectif poursuivi, les retraits seraient imposés comme des pensions de retraite. En outre, il serait tenu compte de la date de liquidation des pensions des régime de protection sociale obligatoire et de la durée d'ouverture du compte. Ainsi, les retraits effectués avant soixante ans par les contribuables ayant ouvert leur plan depuis moins de dix ans supporteraient un prélèvement complémentaire égal à 10 p. 100 des sommes retirées ; en revanche, le contribuable qui, n'ayant pas fait liquider sa pension de retraite obligatoire avant son 65e anniversaire, effectuerait des retraits sur son plan d'épargne retraite à partir de soixante-cinq ans, bénéficierait d'un crédit d'impôt égal à 10 p. 100 des sommes retirées. Les produits et plus-values réalisés pendant la période d'épargne seraient exonérés. Ces propositions devraient être très prochainement débattues par le Parlement. Il importe cependant de préciser que le troisième niveau de retraite ainsi créé, et géré selon la technique de la capitalisation, ne peut que s'ajouter aux deux niveaux existants, le régime général de la sécurité sociale et les régimes complémentaires obligatoires, fonctionnant selon le régime de la répartition. Les régimes de retraites par répartition doivent rester des instruments de solidarité entre les Français et entre les générations.
