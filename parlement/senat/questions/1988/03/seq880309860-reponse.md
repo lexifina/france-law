@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880309860
+
+- Question : [SEQ880309860](seq880309860.md) — Insertion professionnelle des jeunes et prolongation des allocations familiales
+
+## Réponse
+
+*Affaires sociales, JO du 1988-05-05, page 604*
+
+Réponse. -L'âge limite de versement des prestations familiales est fixé à seize ans par le code de la sécurité sociale. Cette limite est portée à dix-sept ans dans le cas des enfants inactifs ou de ceux qui perçoivent une rémunération inférieure à 55 p. 100 du S.M.I.C. Elle est fixée à vingt ans, notamment, lorsque l'enfant poursuit des études ou est placé en apprentissage ou en stage de formation professionnelle au sens du livre IX du code du travail, à condition qu'il ne perçoive pas une rémunération supérieure au plafond mentionné ci-dessus. Repousser la limite d'âge est l'une des voies que le Gouvernement a étudiées ; mais il résulte des études menées que cette mesure entraînerait un surcoût de plusieurs milliards de francs incompatible avec l'équilibre nécessaire des comptes de la sécurité sociale. Le Gouvernement a le souci d'aider l'ensemble des familles. Des mesures importantes ont ainsi été adoptées dans le cadre du plan famille, qui bénéficient aux familles nombreuses et aux familles modestes. De plus, le Gouvernement estime que les problèmes auxquels sont confrontés les jeunes face au chômage doivent être résolus en priorité. Les mesures qui ont été adoptées depuis 1986 témoignent de l'effort engagé pour apporter une solution à cette situation de chômage tant par l'incitation à créer des emplois, par l'insertion des jeunes sur le marché du travail grâce à l'exonération des charges sociales et les déductions fiscales, que par la mise en oeuvre d'une politique véritable de développement des emplois nouveaux, par une formation alternée et des formations diverses qui touchent actuellement près d'un million de jeunes.
