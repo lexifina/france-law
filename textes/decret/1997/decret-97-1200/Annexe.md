@@ -96,6 +96,56 @@ Article 11.
 
 |
 
+Décret n° 2002-628 du 25 avril 2002 pris pour l'application de la loi n° 2002-5 du 4 janvier 2002 relative aux musées de France
+
+1
+
+|
+
+Reconnaissance d'équivalence de qualifications professionnelles pour assurer la responsabilité des activités scientifiques d'un musée de France (décision prise, le cas échéant, conjointement avec le ministre concerné).
+
+|
+
+2° de l'article 10.
+
+|
+
+2
+
+|
+
+Habilitation à assurer des opérations de restauration sur les biens des musées de France (décision prise, le cas échéant, conjointement avec le ministre concerné).
+
+|
+
+3° de l'article 13.
+
+|
+
+3
+
+|
+
+Décision sur les offres de vente de biens déclassés, en application du II de l'article 11 de la loi n° 2602-5 du 4 janvier 2002 relative aux musées de France.
+
+|
+
+Article 17.
+
+|
+
+4
+
+|
+
+Désignation de la collectivité territoriale à laquelle peut être proposé le transfert de la propriété d'un bien, en application de l'article 13 de la loi n° 2002-5 du 4 janvier 2002 relative aux musées de France (décision prise, le cas échéant, conjointement avec le ministre concerné).
+
+|
+
+Deuxième alinéa de l'article 26.
+
+|
+
 2. Décisions administratives individuelles prises par le ministre chargé de la culture et de la communication
 
 Décret du 18 mars 1924 modifié portant règlement d'administration publique pour l'application de la loi du 31 décembre 1913 sur les monuments historiques
