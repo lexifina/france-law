@@ -4,7 +4,7 @@ Pour bénéficier sur agrément de l'exonération temporaire de taxe professionn
 
 1° Les établissements faisant l'objet d'une reprise ou d'une reconversion doivent comporter :
 
-a) Dans les départements d'outre-mer, en Corse, dans les zones d'économie rurale dominante et les zones montagnardes figurant en annexe III de l'arrêté du 24 novembre 1980 (1) :
+a. Dans les départements d'outre-mer, en Corse, dans les zones d'économie rurale dominante et les zones montagnardes figurant en annexe II de l'arrêté du 12 juin 1990 (JO du 29) ;
 
 Trente emplois au moins dans les communes situées dans une unité urbaine d'au moins 50 000 habitants ;
 
@@ -12,7 +12,7 @@ Quinze emplois au moins dans les communes situées dans une unité urbaine de mo
 
 Six emplois au moins dans les autres communes ;
 
-b) Dans les autres zones où s'applique l'exonération temporaire :
+b. Dans les autres zones où s'applique l'exonération temporaire :
 
 Trente emplois au moins dans les communes situées dans une unité urbaine d'au moins 15 000 habitants ;
 
@@ -28,4 +28,8 @@ La création d'un nombre d'emplois permanents supérieur aux minima fixés ci-de
 
 Les dispositions des articles 322 I à 322 L de l'annexe II au code général des impôts sont applicables aux créations, extensions et décentralisations de services de direction, d'études, d'ingénierie et d'informatique.
 
-(1) Voir J.O. du 7 décembre 1980.
+NOTA :
+
+NOTA : Loi 2005-845 2005-07-26 art. 165 II :
+
+Dans tous les textes législatifs et réglementaires, les références faites au redressement judiciaire et au plan de redressement sont remplacées, respectivement, par des références aux procédures de sauvegarde ou de redressement judiciaire, et aux plans de sauvegarde ou de redressement. Les références au plan de continuation sont remplacées par des références aux plans de sauvegarde ou de redressement judiciaire.
