@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971204922
+
+- Question : [SEQ971204922](seq971204922.md) — Comptabilité M 14
+
+## Réponse
+
+*Intérieur, JO du 1998-03-12, page 847*
+
+Réponse. - Les immobilisations dont la commune a la pleine propriété font partie de son patrimoine et s'inscrivent budgétairement et comptablement en immobilisations corporelles et en dépenses d'investissement. Les travaux effectués par la commune propriétaire sur ces biens font partie des dépenses directes d'investissement. Ne figurent en section de fonctionnement au titre des subventions d'équipement ou des fonds de concours versés que les participations de commune au titre d'investissements dont elle n'est pas propriétaire. Ces dernières dépenses doivent bien peser finalement sur la section de fonctionnement, ce qui suppose en effet leur autofinancement. Néanmoins, l'instruction M14 annexée à l'arrêté du 4 décembre 1997 autorise leur étalement, ce qui a pour effet de permettre simultanément leur financement par emprunt et leur répartition dans le temps. La durée maximum d'amortissement de ces charges étalées est fixée à cinq ans pour les subventions versées et à quinze pour les fonds de concours. Il est rappelé en revanche que, lorsque la commune fait réaliser par un mandataire des travaux concernant des immobilisations dont elle a la propriété, il ne s'agit pas pour elle d'une participation, imputée en section de fonctionnement, mais d'un acompte ou d'une réalisation d'immobilisation, et donc d'une dépense d'investissement, éligible à la DGE. Le traitement comptable des travaux évoqués par l'honorable parlementaire dépend en conséquence du droit de propriété que détient la collectivité sur les biens en cause. Dans une approche identique, les dotations de l'Etat sont en principe destinées à la collectivité propriétaire du bien et à laquelle en incombe la charge.
