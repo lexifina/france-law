@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010130509
+
+- Question : [SEQ010130509](seq010130509.md) — Aide au Salvador et au Guatemala suite au tremblement de terre
+
+## Réponse
+
+*Affaires étrangères, JO du 2001-03-01, page 725*
+
+Réponse. - Le tremblement de terre du 13 janvier a très peu touché le Guatemala, qui n'a pas jugé l'aide internationale nécessaire. La réponse française à l'appel des autorités salvadoriennes a été rapide. Le Gouvernement a affrété un avion DC 10 pour acheminer au Salvador un détachement d'assistance médicale et de potabilisation de l'eau, correspondant aux besoins exprimés par les autorités salvadoriennes. Le détachement était composé de quarante-neuf agents de la sécurité civile, de sept personnels du SAMU et de deux spécialistes du traitement de l'eau, renforcé d'une équipe de quatorze agents de la THW allemande. Il emportait trois postes médicaux avancés et trois unités de potabilisation, dont une a été cédée aux Salvadoriens. Ce détachement s'est déployé pendant quatorze jours dans la région de Sonsonate, où aucun secours n'était encore parvenu au moment de son arrivée. Il a assuré plus de 1 500 consultations au profit d'une population touchée directement ou indirectement par les effets du tremblement de terre et des glissements de terrain. Par ailleurs, des organisations non gouvernementales françaises, parmi lesquelles la Croix-Rouge et Médecins du monde, ont acheminé des secours par air et par route. Les Nations unies et la Banque interaméricaine de développement procèdent actuellement à une évaluation des besoins du Salvador en vue de la remise en état des infrastructures. Le Gouvernement suivra avec attention les résultats de ces mission, qui seront présentés au mois de mars à Madrid, et examinera, avec ses partenaires européens, l'aide qu'il pourra apporter au Salvador.
