@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980709610
+
+- Question : [SEQ980709610](seq980709610.md) — Suppression des bons vacances dans le Var
+
+## Réponse
+
+*Santé, JO du 1999-05-27, page 1802*
+
+Réponse. - L'honorable parlementaire a appelé l'attention de M. le secrétaire d'Etat à la santé et à l'action sociale sur l'émotion suscitée par la suppression des bons vacances par la caisse d'allocations familiales du Var, au profit de l'attribution de subventions à des uvres associatives. La politique menée par les CAF pour les vacances a fait l'objet en 1992 d'une redéfinition au plan national, visant à l'élargir aux temps libres tout au long de l'année et à l'orienter davantage vers les familles les plus défavorisées, qui, de fait, en étaient exclues. Cette redéfinition a été confirmée par la convention d'objectifs et de gestion signée par l'Etat et la CNAF en 1997, qui recommande aux CAF de réduire les aides aux vacances familiales attribuées de façon systématique, avec le double objectif d'inscrire ces aides dans un processus d'accompagnement social et de prévention des exclusions, et d'augmenter les aides pour les loisirs de proximité. Ainsi un nouveau dispositif, le " contrat temps libres ", créé en 1998, est proposé par les CAF aux communes dans l'objectif de développer les activités de loisirs pour les enfants et les adolescents. Par ailleurs le système des bons vacances, principal moyen de la politique traditionnelle des vacances, est progressivement remis en cause par nombre de caisses, au profit d'actions plus adaptées aux besoins des familles et aux nouvelles orientations. La décision de la caisse du Var - qui relève uniquement du pouvoir de son conseil d'administration - s'inscrit dans cette logique. Les familles du Var devraient globalement être bénéficiaires de cette nouvelle orientation.
