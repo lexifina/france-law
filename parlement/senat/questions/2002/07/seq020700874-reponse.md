@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700874
+
+- Question : [SEQ020700874](seq020700874.md) — Création d'un statut européen pour les entreprises de l'Union européenne
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2002-09-12, page 2020*
+
+Le statut de la société européenne, récemment adopté, est plus particulièrement adapté aux entreprises de grande taille et ne tient pas suffisamment compte des intérêts spécifiques des PME, comme l'a souligné le Parlement européen. Or, les PME jouent un rôle fondamental dans le tissu économique européen, dont elles représentent plus de 90 % du parc des entreprises et deux tiers des emplois. A ce titre, le Conseil européen de Feira, par l'adoption d'une " charte européenne des petites entreprises ", a affirmé que la coopération entre PME constituait un impératif de la construction communautaire. C'est pourquoi la Commission de l'Union européenne (UE) a souhaité entamer une réflexion sur la question de la modernisation du droit des sociétés en Europe et a procédé, à cet effet, à l'installation, en septembre 2001, d'un groupe d'experts de haut niveau. Parmi les sujets abordés par ce groupe d'experts figure le projet de société privée européenne (SPE), pour lequel a été lancée une consultation sur la base d'un projet de règlement élaboré par un groupe ad hoc composé de juristes de différentes nationalités, sous l'égide de centres de recherche sur le droit des affaires. Le Gouvernement français, qui soutient l'initiative de la commission concernant le projet de SPE, a répondu au questionnaire mis au point par le groupe d'experts afin, notamment, de faire connaître les caractéristiques du droit français et le régime juridique propre aux PME. Ces travaux, suivis avec la plus grande attention par les autorités françaises, devraient aboutir à la mise au point d'un statut commun au plan européen, suffisamment simple et souple pour convenir à l'ensemble des petites et moyennes entreprises des Etats membres de l'UE.
