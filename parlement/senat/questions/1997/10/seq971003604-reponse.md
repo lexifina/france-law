@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971003604
+
+- Question : [SEQ971003604](seq971003604.md) — Financement par les distributeurs de prospectus et catalogues de la collecte de leurs déchets
+
+## Réponse
+
+*Aménagement du territoire, JO du 1998-01-29, page 309*
+
+Réponse. - Mme la ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question concernant la contribution des grands magasins et distributeurs au financement de la collecte de leurs déchets (prospectus gratuits, catalogues déposés dans les boîtes aux lettres, etc.). Les problèmes posés par la distribution non adressée de journaux gratuits et prospectus publicitaires sont réels. Des réflexions ont déjà été engagées avec les principaux acteurs concernés par leur édition tels que, les grandes surfaces, la presse ainsi que l'ensemble des annonceurs des tissus économiques locaux et également par leur distribution, il s'agit des entreprises spécialisées liées aux journaux gratuits ainsi que, de plus en plus, La Poste. Mais elles visaient surtout à permettre aux citoyens qui le souhaitent, de refuser le dépôt de ces objets dans leurs boîtes, et que ce refus, exprimé par un signe apposé sur lesdites boîtes, soit respecté. Même si un accord pouvait se faire autour d'un tel code de bonne conduite, il ne limiterait toutefois probablement qu'assez peu le flux de ces papiers. Toutes les enquêtes réalisées indiquent, en effet, que le public, dans sa très grande majorité, apprécie ce type d'informations, quel que soit son caractère publicitaire et commercial. Des réflexions sont en cours. L'idée est de mettre en place un dispositif de taxation ou de contribution, comme dans le cas d'Eco-Emballages, sur les journaux gratuits et les prospectus afin d'aider les collectivités locales à supporter le coût de l'élimination de ces déchets sans cesse croissants.
