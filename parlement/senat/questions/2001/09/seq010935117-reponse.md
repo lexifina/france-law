@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010935117
+
+- Question : [SEQ010935117](seq010935117.md) — Projet de suppression du fonds national  des haras et des activités hippiques
+
+## Réponse
+
+*Économie, JO du 2002-01-03, page 41*
+
+Le compte d'affectation spéciale n° 902-19 " Fonds national des haras et des activités hippiques ", créé par l'article 60 de la loi de finances pour 1984, doit faire l'objet d'une modification prévue par l'article 37 du projet de loi de finances pour 2002. Cet article ne prévoit nullement la suppression de ce compte d'affectation spéciale alimenté en recettes par des prélèvements sur les enjeux des courses mais l'inscription sur le budget du ministère de l'agriculture et de la pêche des dotations destinées à l'établissement public des Haras nationaux jusque-là alimenté par le compte d'affectation spéciale. Ce faisant, il traduit la volonté du Gouvernement de respecter le principe constitutionnel qui veut que l'ensemble des charges permanentes de l'Etat soient inscrites sur le budget de l'Etat. Cette opération conduit à une augmentation de la dotation attribuée à cette mission puisqu'elle passerait ainsi d'un montant de 35,06 millions d'euros (230 millions de francs) en 2001, à 39,64 millions d'euros (260 millions de francs) en 2002, en dépenses ordinaires et autorisations de programme. Enfin, elle apporte une plus grande sécurité aux ressources de l'établissement public " les Haras nationaux " qui serait, à défaut, tributaire des recettes du compte spécial du Trésor, elles-mêmes dépendantes du montant des enjeux effectués sur les courses de chevaux. Le compte d'affectation spéciale demeure sous la dénomination " Fonds national des courses et de l'élevage " afin de financer les subventions pour le développement de l'élevage et des courses et les dépenses diverses ou accidentelles.
