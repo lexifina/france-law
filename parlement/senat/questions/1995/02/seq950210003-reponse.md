@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950210003
+
+- Question : [SEQ950210003](seq950210003.md) — Situation du lycée professionnel Jean-Lurçat à Saint-Etienne-du-Rouvray (Seine-Maritime)
+
+## Réponse
+
+*Éducation, JO du 1995-04-27, page 1000*
+
+Réponse. - La loi de finances pour 1995, première année de mise en oeuvre du nouveau contrat pour l'école, prévoit la création de 1 000 emplois d'enseignants qui accompagneront principalement la généralisation de la rénovation de la classe de 6e. Après examen comparé des besoins de chaque académie induits par des variations d'effectifs très constrastées et par les rénovations pédagogiques de la prochaine rentrée, l'administration centrale a procédé à la répartition de ces moyens nouveaux en fonction d'un objectif prioritaire : atténuer les disparités académiques. Cette préoccupation a conduit, compte tenu des besoins prévisionnels de l'académie de Rouen, à lui accorder une dotation de quarante et un emplois et 260 heures supplémentaires-année d'enseignement. L'académie a reçu d'autre part trois emplois d'encadrement sur la dotation exceptionnelle de cinquante emplois autorisée au budget 1995. Il appartient désormais au recteur, en liaison avec les inspecteurs d'académie pour les collèges, de rechercher l'utilisation optimale des moyens ainsi attribués dans le cadre de la dotation horaire qui a été fixée par l'administration centrale pour chaque académie. S'agissant du lycée professionnel Jean-Lurçat de Saint-Etienne-du-Rouvray, les enseignants de cet établissement ont été reçus en audience à la direction des lycées et collèges. Il convient cependant, conformément à la déconcentration administrative, que la dotation horaire de ce lycée soit arrêtée par le recteur de l'académie de Rouen. Celui-ci se tient à votre disposition pour donner toutes les précisions souhaitées sur l'organisation de la rentrée scolaire dans cet établissement.
