@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001129476
+
+- Question : [SEQ001129476](seq001129476.md) — Retrait d'accréditation du directeur du bureau de l'AFP à Rabat par les autorités marocaines
+
+## Réponse
+
+*Affaires étrangères, JO du 2001-02-08, page 491*
+
+Réponse. - Les autorités marocaines ont décidé, le 4 novembre 2000, de retirer son accréditation au directeur du bureau de l'Agence France-Presse à Rabat, M. Claude Juvénal, qui a quitté le territoire marocain le 6 novembre. La décision des autorités marocaines de maintenir ou de retirer l'accréditation d'un journaliste étranger lui permettant de travailler sur le sol marocain est une mesure discrétionnaire qui n'a pas à être motivée. Cela étant, les autorités marocaines ont fait savoir qu'elles reprochaient, d'une manière générale, au représentant de l'AFP une présentation biaisée de la situation intérieure au Maroc, concernant notamment la question des droits de l'homme, ainsi que la diffusion, à plusieurs reprises, de nouvelles erronées. Dès que les autorités françaises ont été informées de la décision du gouvernement marocain, l'ambassadeur de France à Rabat est intervenu auprès de celui-ci pour vérifier s'il était envisageable qu'il revienne sur cette décision. Tel ne fut pas le cas. Le gouvernement marocain a cependant indiqué que le bureau de l'AFP pourrait continuer à fonctionner normalement. Par ailleurs, et comme il est d'usage en pareille circonstance, le ministère des affaires étrangères a pris contact immédiatement avec le directeur de l'Agence France-Presse pour l'informer des développements de la situation et le consulter. Enfin le porte-parole du ministère des affaires étrangères a, le 6 novembre 2000, commenté le retrait d'accréditation de M. Juvénal dans les termes suivants : " La France est attachée à la liberté de la presse partout dans le monde et donc au Maroc. S'agissant de cette affaire, nous regrettons qu'on en soit arrivé là. "
