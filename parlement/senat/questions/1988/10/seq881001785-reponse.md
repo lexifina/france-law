@@ -1,0 +1,11 @@
+# Réponse à la question SEQ881001785
+
+- Question : [SEQ881001785](seq881001785.md) — Remise de la croix de chevalier de la Légion d'honneur à tous les anciens combattants de la Première Guerre mondiale
+
+## Réponse
+
+*Anciens combattants, JO du 1988-12-22, page 1456*
+
+Réponse. - La question posée par l'honorable parlementaire appelle les réponses suivantes : 1° L'attribution de la Légion d'honneur aux anciens combattants de 1914-1918 est de la compétence du ministre de la défense, comme pour tous les autres conflits ; 2° les croix de la Légion d'honneur attribuées au titre du secrétariat d'Etat chargé des anciens combattants et des victimes de guerre le sont à des personnes s'étant tout particulièrement distinguées dans la défense et la gestion des intérêts sociaux et matériels du monde combattant, notamment par le biais des mouvements associatifs ; 3° le décret du 31 décembre 1987 a prévu un contingent spécial de mille croix de chevalier de la Légion d'honneur pour récompenser les anciens combattants de la guerre 1914-1918, médaillés militaires et blessés ou cités. Le même décret a, en outre, prévu un contingent spécial de cent croix à l'occasion du 70e anniversaire de l'armistice de 1918 ; 4° il est précisé à l'honorable p
+
+arlementaire que les conditions d'obtention ont été assouplies. Il n'est plus demandé que deux titres de guerre au lieu de quatre précédemment. Conscient de ce que la situation des anciens combattants de 1914-1918 devait, en raison de leur grand âge, faire l'objet d'une attention particulière, le ministre de la défense a récemment fait au grand chancelier de la Légion d'honneur des propositions visant à assouplir davantage les conditions de nomination dans le premier Ordre national et à réduire les délais d'attente. Cependant, le grand chancelier a confirmé les exigences du conseil de l'ordre, qui n'accepte de donner son agrément qu'aux candidatures d'anciens combattants du premier conflit mondial justifiant d'au minimum deux blessures ou citations et ayant reçu la Médaille militaire depuis au moins deux ans, et présentées dans le cadre du contingent triennal.
