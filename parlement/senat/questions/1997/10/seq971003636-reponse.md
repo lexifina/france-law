@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971003636
+
+- Question : [SEQ971003636](seq971003636.md) — Pollution atmosphérique et carburants
+
+## Réponse
+
+*Équipement, JO du 1998-03-05, page 761*
+
+Réponse. - De nombreux véhicules de transport en commun (trains, métros, tramways...) utilisent déjà une technologie non polluante, l'électricité. Pour ce qui concerne les autobus et autocars, cette technologie, utilsable actuellement que par des véhicules de faible capacité et sur des parcours limités, en raison de la limite des batteries, fait l'objet de programmes de recherche notamment dans le cadre du PREDIT. Les autres technologies associant des techniques de motorisation ou de filtres à des carburants " propres " (GNV, GPL, aquazole, mais aussi gazole à très basse teneur en souffre) sont en cours d'expérimentation en vraie grandeur dans divers réseaux de transport fançais. Le ministre de l'équipement, des transports et du logement a demandé à ce que ces expérimentations fassent l'objet d'une évaluation commune. Ces évaluations, soutenues par les pouvoirs publics, portent sur l'ensemble des aspects techniques, économiques, sociaux et règlementaires, liés à l'exploitation et à la maintenance des matériels, des équipements de stockage, des ateliers et dépôts, ainsi que sur l'impact réel de chaque filière sur les émissions de polluants et l'environnement en général (nuisances, bruit ...). Elles permettront de préciser les créneaux de pertinence techniques, économiques et industriels de chaque filière. Par ailleurs, le décret no 97-1279) du 23 décembre 1997 (paru au Journal officiel du 31 décembre 1997) pris en application de l'article 26 de la loi no 96-1236 du 30 décembre 1996 sur l'air et l'utilisation rationnelle de l'énergie vient de préciser des modalités de remboursement aux exploitants de réseaux de transport public en commun de voyageurs des taxes portant sur le gaz naturel véhicules (GNV) et le gaz de pétrole liquéfié (GPL).
