@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000726878
+
+- Question : [SEQ000726878](seq000726878.md) — Situation et avenir des aides-éducateurs
+
+## Réponse
+
+*Éducation, JO du 2000-12-14, page 4267*
+
+Réponse. - La politique de formation et de professionnalisation des aides éducateurs s'inscrit dans une perspective d'insertion professionnelle des jeunes sur le marché de l'emploi à l'issue du contrat emploi-jeune. La signature des accords nationaux avec les entreprises répond à cet objectif et a permis d'initier, au niveau des académies, une dynamique d'incitation à la mobilité externe et de mise en uvre d'actions d'accompagnement des projets professionnels (forum d'information sur les entreprises et les secteurs d'emploi, entretien de bilan de niveau et de compétences, aide à l'élaboration de projets, construction de parcours personnalisés de professionnalisation...). Les accords précités ont une portée pluriannuelle. Au titre de l'année 2000, 1 300 aides éducateurs, sur un objectif de 2 020 pour l'année en cours, ont bénéficié de ces accords et sont, actuellement, soit recrutés soit en phase de prérecrutement. D'autres accords sont à l'étude. Par ailleurs, si le maintien des aides éducateurs sur leur emploi au terme de leur contrat n'est pas prévu, ceux d'entre eux qui sont intéressés par les métiers de l'enseignement et de l'éducation, et pour lesquels ce projet professionnel semble réalisable au regard de leur niveau d'études et de leurs compétences, peuvent bénéficier d'une formation adaptée au cadre d'emploi pour préparer les concours de recrutement ouverts dans ce secteur. Un effort particulier a été demandé aux services académiques en charge des plans de professionnalisation des aides éducateurs pour renforcer l'offre de formation en direction des concours de recrutement de la fonction publique, notamment, de ceux de l'éducation nationale.
