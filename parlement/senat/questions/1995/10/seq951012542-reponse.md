@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951012542
+
+- Question : [SEQ951012542](seq951012542.md) — Conclusion du groupe de travail sur l'aménagement du temps de travail
+
+## Réponse
+
+*Fonction publique, JO du 1995-12-07, page 2272*
+
+Réponse. - La nécessité d'apporter une réponse adaptée aux besoins exprimés par les usagers en matière d'ouverture des services a été vivement ressentie et la constitution du groupe de travail composé des organisations syndicales et des représentants des différentes fonctions publiques permet d'ouvrir ce chantier important dans le cadre de la politique contractuelle. Ce groupe qui a la charge d'apprécier la situation existante fonde sa réflexion sur un état des lieux dont l'établissement est en cours. D'ores et déjà, il a été procédé à un examen des réglementations s'appliquant dans la fonction publique et le secteur privé. Par ailleurs, une enquête a été lancée auprès de l'ensemble des administrations et des préfectures afin de recenser les pratiques locales ainsi que les expériences tentées pour répondre aux besoins des usagers. En outre, une étude sur ce thème est menée conjointement par l'inspection générale des finances, l'inspection générale des affaires sociales, l'inspection générale de l'administration de l'éducation nationale, l'inspection générale de l'administration, l'inspection générale de la culture, le conseil général des ponts et chaussées, dans quatre départements tests, à savoir le Nord, la Seine-Saint-Denis, l'Aveyron et la Gironde. Dans le même temps, un sondage d'opinion a été commandé qui doit permettre de mieux cerner la réalité des besoins exprimés par les usagers. Le recueil de l'ensemble de ces informations sera fait pour le 15 décembre afin de permettre la définition plus précise des axes de concertation pour la fin de l'année ou le début de l'année 1996.
