@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961219290
+
+- Question : [SEQ961219290](seq961219290.md) — Renforcement des contrôles des établissements et services publics sociaux
+
+## Réponse
+
+*Travail, JO du 1997-05-02, page 1392*
+
+Réponse. - Les conventions conclues entre les établissements et services privés et publics de l'éducation spéciale pour l'enfance handicapée et les organismes d'assurance maladie ont pour objet de préciser les relations entre les parties intéressées et d'organiser notamment le remboursement direct des prix de journée aux établissement afin de donner aux familles le bénéfice du tiers payant, et, partant, de les dispenser de toute avance de frais. Ces conventions ne peuvent en aucun cas être assimilées à celles qui sont passées entre l'assurance maladie et les établissements et services pour personnes âgées quand ceux-ci ne sont pas habilités à recevoir des bénéficiaires de l'aide sociale, ainsi que les établissements de santé privés visés par l'article L. 162-22 du code de la sécurité sociale. En effet, les conventions applicables à ces catégories d'établissement sont essentiellement de nature tarifaire, la fixation de leurs tarifs relevant de la compétence des organismes d'assurance maladie, et non de l'autorité préfectorale comme pour les établissements et services de l'éducation spéciale, au titre de l'article L. 162-24-1 du code de la sécurité sociale. Enfin, les clauses conventionnelles relatives à la transmission des documents budgétaires et comptables aux organismes d'assurance maladie par les établissements et services de l'éducation spéciale rappellent simplement la procédure budgétaire définie par le décret no 88-279 du 24 mars 1988 qui prévoit bien une transmission annuelle du budget prévisionnel et de ses annexes par l'établissement à la caisse régional d'assurance dont l'avis est requis avant fixation du prix de journée par le représentant de l'Etat.
