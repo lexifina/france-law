@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000827330
+
+- Question : [SEQ000827330](seq000827330.md) — Situation de la Russie
+
+## Réponse
+
+*Affaires étrangères, JO du 2000-09-21, page 3243*
+
+Réponse. - Les députés russes ont adopté le 19 juillet dernier une résolution qui condamnait les " actes inamicaux " de la France et prévoyait la possibilité de " recommander au président russe de prendre des mesures adéquates contre la France ". Cette résolution s'inscrivait manifestement dans le cadre des difficultés judiciaires que la Russie rencontrait en France à la suite de sa condamnation par une instance arbitrale suédoise. Dans cette affaire, le Gouvernement a laissé la procédure suivre son cours dans le strict respect de la séparation des pouvoirs. Le vote de la Douma n'a en rien influé sur notre position de principe. La justice française a, par la suite, tranché à la satisfaction de la partie russe et, à Moscou les griefs ont depuis fait place aux remerciements. S'agissant de l'initiative de la Douma en elle-même, elle n'est pas sans précédent dans la vie politique russe. Il est en effet déjà arrivé à plusieurs reprises que la Douma condamne l'attitude de tel ou tel Etat étranger, de telle ou telle organisation internationale dans un registre surtout déclaratoire. Il convient également de relever que le ministère russe des affaires étrangères a pris soin de faire savoir qu'il n'entendait tirer aucune conséquence particulière du vote de cette résolution. Ce vote de la Douma traduit cependant une méconnaissance du fonctionnement des institutions françaises. La France déplore sincèrement cet état de fait mais il serait contreproductif de lui conférer une importance à laquelle un tel texte, pour désagréable qu'il soit, ne saurait prétendre. Il semble en effet traduire une réaction de mauvaise humeur passagère plus qu'une position de fond. On peut espérer que la prochaine commission parlementaire franco-russe permettra de dissiper définitivement ces malentendus.
