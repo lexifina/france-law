@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970700945
+
+- Question : [SEQ970700945](seq970700945.md) — Transports scolaires assurés par des particuliers
+
+## Réponse
+
+*Équipement, JO du 1997-08-28, page 2217*
+
+Réponse. - L'article 29 de la loi no 83-663 du 22 juillet 1983, complétant la loi no 83-8 du 7 janvier 1983, relative à la répartition des compétences entre les communes, les départements, les régions et l'Etat, dispose que " les transports scolaires sont des services réguliers publics, au sens de l'article 29 de la loi no 82-1153 du 30 décembre 1982 d'orientation des transports intérieurs ". En conséquence, ils ne peuvent être assurés que par le département lui-même, ou par une entreprise ayant passé avec lui, ou avec l'autorité organisatrice à qui il a confié l'organisation du service, une convention à durée déterminée. L'article 7 de la loi d'orientation des transports intérieurs disposant que " les entreprises de transports publics de personnes doivent être inscrites à un registre tenu par les autorités de l'Etat ", les particuliers ne peuvent être conventionnés, pour l'exécution des services de transports scolaires, que s'ils sont inscrits au registre des entreprises de transport public routier de personnes. En ce qui concerne leur inscription au registre du commerce et des sociétés, si l'article 632 du code du commerce répute acte de commerce toute entreprise de transport par terre, l'article 1er dudit code ne répute commerçants que ceux qui exécutent des actes de commerce et en font leur profession habituelle. En conséquence, sous réserve de l'appréciation, au cas par cas, des situations particulières au regard de ces principes, et sous réserve, le cas échéant, de l'appréciation souveraine du juge, les particuliers suscités ne sont pas considérés comme faisant profession habituelle de commerçant et ne sont donc pas tenus à l'immatriculation au registre du commerce et des sociétés.
