@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990314913
+
+- Question : [SEQ990314913](seq990314913.md) — Gestion des ouvrages de prévention des risques naturels
+
+## Réponse
+
+*Aménagement du territoire, JO du 1999-07-15, page 2404*
+
+Réponse. - La ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question relative à la sensibilisation et à la mobilisation des collectivités intermédiaires (départements, ententes interdépartementales, régions, agences de l'eau) par son ministère, en faveur de la gestion des ouvrages de prévention des risques naturels. Il est nécessaire de donner une impulsion nouvelle aux programmes d'entretien et de maintenance des ouvrages de protection, de façon à réaliser des travaux réduisant la vulnérabilité des secteurs exposés aux risques naturels. Dans la mesure où l'Etat n'a pas vocation à réaliser ou entretenir des ouvrages de protection qui sont légalement de la compétence des propriétaires privés ou des collectivités territoriales, il lui revient de sensibiliser et de mobiliser les collectivités intermédiaires en faveur de la gestion des ouvrages de prévention des risques naturels. Dans le cadre de la réalisation du programme décennal de restauration des cours d'eau qui a été lancé en 1994 et dont le montant s'élève à 10,2 milliards de francs, le ministère de l'aménagement du territoire et de l'environnement accorde aux collectivités locales des subventions pour les travaux de lutte contre les inondations et d'entretien des cours d'eau. Il convient également d'indiquer que l'article 60 de la loi de finances pour 1999 a rendu éligible au fonds de compensation pour la taxe sur la TVA certaines dépenses d'investissement mises en uvre par les collectivités locales et leurs regroupements, dès lors qu'elles concernent des travaux de lutte contre les avalanches, les glissements de terrains et les inondations, ainsi que des travaux de défense contre la mer.
