@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970702086
+
+- Question : [SEQ970702086](seq970702086.md) — Taxe sur les achats de viandes
+
+## Réponse
+
+*Économie, JO du 1997-11-27, page 3288*
+
+Réponse. - La taxe sur les achats de viandes, codifiée à l'article 302 bis ZD du code général des impôts, est destinée à financer le service public de l'équarrisage. Elle est due par toute personne qui réalise des ventes au détail de viandes et d'autres produits. Toutefois, les entreprises dont le chiffre d'affaires de l'année civile précédente est inférieur à 2 500 000 francs hors TVA en sont exonérées. Les artisans ne sont donc pas dans leur très grande majorité redevables de la taxe. De plus, il a été décidé de ne pas soumettre à la taxe les redevables dont les achats mensuels de produits imposables sont inférieurs à 20 000 francs hors TVA. Par ailleurs, il a paru possible d'admettre que lorsqu'une personne ne réalise pas exclusivement des ventes au détail, mais vend également à d'autres professionnels, à des restaurateurs ou à des collectivités, seuls ses achats de viandes et autres produits imposables donnant lieu à des ventes au détail soient retenus pour le c alcul de la taxe. En revanche, il n'a pas été possible d'exclure du cha mp d'application de la taxe les achats destinés à la préparation de plats cuisinés à base de viande et/ou d'abats ni de considérer que le seuil d'exonération devait s'apprécier par activité. En effet, ces mesures, dont la mise en oeuvre serait complexe, devraient nécessairement être étendues à l'ensemble des redevables et auraient pour conséquence un relèvement des taux de la taxe. Cela étant, la perception de cette taxe ne doit pas conduire à alourdir inutilement les obligations comptables et déclaratives des redevables. Aussi le Gouvernement étudie-t-il les mesures qui allégeraient les obligations fiscales des redevables.
