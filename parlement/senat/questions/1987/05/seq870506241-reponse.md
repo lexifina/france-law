@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870506241
+
+- Question : [SEQ870506241](seq870506241.md) — Vols commis dans le port de Marseille
+
+## Réponse
+
+*Intérieur, JO du 1987-07-02, page 1047*
+
+Réponse. -Les vols commis sur la zone portuaire de Marseille avaient en effet atteint un niveau préoccupant depuis la cessation de la surveillance des portes d'accès par les services du port autonome de Marseille (P.A.M.). La signature d'une convention, le 9 octobre 1986, entre le préfet, commissaire de la République, délégué pour la police à Marseille et le directeur général du P.A.M. a permis de mettre des gardes commissionnés à la disposition de la police de l'air et des frontières du port qui prend en charge leur agrément et leur formation. Cette mesure, associée à l'affectation de trente policiers auxiliaires, le 1er décembre 1986, a autorisé la mise en place d'un dispositif de surveillance aux portes d'accès de la zone portuaire, issu d'une étroite collaboration entre la P.A.F., la douane et le P.A.M. Déjà, une diminution sensible des vols a pu être constatée. En ce qui concerne plus particulièrement les vols visant les véhicules déposés en acconage, deux plaintes ont été enregistrées par la P.A.F. en 1987. Dans les deux cas, l'auteur a été appréhendé par ce service et déféré au parquet. Dans ce secteur de manutention, il convient de noter que les véhicules stationnés sous hangar sont sous la responsabilité des transitaires qui louent les services d'une société de gardiennage. Néanmoins, la P.A.F. assure une surveillance de ces lieux par patrouilles. Les infractions signalées pourraient concerner plus spécialement les véhicules qui, en période estivale, demeurent de nuit à l'extérieur de la zone portuaire, notamment devant les bureaux de la compagnie nationale algérienne de navigation. En tout état de cause, des dispositions seront prises cet été pour exercer une surveillance particulière aux abords de cette compagnie.
