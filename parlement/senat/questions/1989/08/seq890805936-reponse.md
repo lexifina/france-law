@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890805936
+
+- Question : [SEQ890805936](seq890805936.md) — Relations de l'administration des postes et de la presse quotidienne régionale
+
+## Réponse
+
+*Postes, JO du 1989-09-14, page 1502*
+
+Réponse. - Les dispositions prises par le ministre d'Etat, ministre de la fonction publique et des réformes administratives, permettaient de considérer le samedi 15 juillet 1989 comme un jour chômé et payé pour l'ensemble des fonctionnaires, agents non titulaires de l'Etat et ouvriers des administrations et établissements publics. Dans ce cadre, il a été décidé de procéder à la fermeture de l'ensemble des services le 15 juillet 1989. Cette mesure, qui correspondait à un souhait vivement exprimé du personnel et à la volonté du Gouvernement d'associer les agents de l'Etat à la célébration du Bicentenaire de la Révolution française, a été prise en raison des problèmes d'ordre technique qui n'auraient pas manqué de se faire jour en cette période de festivités. En effet, dans les grandes agglomérations et tout particulièrement en agglomération parisienne, il paraissait très difficile d'assurer la distribution dans de bonnes conditions le samedi 15 juillet. Il a donc été jugé préférable de la supprimer. Cette disposition a été étendue à tout le territoire afin de ne pas créer de disparités injustifiées au sein du personnel. Bien entendu, le ministère des postes, des télécommunications et de l'espace est conscient des désagréments occasionnés par cette mesure, tant à l'égard de la presse française que de ses lecteurs. Il convient toutefois de souligner le caractère tout à fait exceptionnel de ces dispositions, le ministère des postes, des télécommunications et de l'espace étant toujours soucieux d'assurer une distribution rapide et régulière des journaux, considérés comme des envois prioritaires, afin de donner à la presse les moyens de remplir ses missions.
