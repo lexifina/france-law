@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981011720
+
+- Question : [SEQ981011720](seq981011720.md) — Premier bilan de l'application d'une charte signée entre la sécurité routière et une entreprise de protection des plantes
+
+## Réponse
+
+*Équipement, JO du 1999-04-08, page 1179*
+
+Réponse. - La démarche de sécurité routière en entreprises a pour objectif de les sensibiliser aux enjeux que constitue pour elles l'insécurité routière, et de les inciter à maîtriser durablement ce risque par la mise en uvre d'une démarche structurée et cohérente qui comprend plusieurs étapes dont la première consiste en l'élaboration d'un diagnostic préalable leur permettant d'avoir une connaissance précise de leur risque routier spécifique et de ses conséquences. Il s'agit ensuite d'élaborer et de mettre en uvre un programme d'actions découlant des conclusions du diagnostic. Fondé sur un objectif à atteindre selon un calendrier donné, ce programme énumère l'ensemble des moyens à mettre en uvre pour réduire le risque routier de l'entreprise, de manière significative et durable. Sa réalisation n'est possible qu'avec une implication forte et permanente de la direction de l'entreprise et de l'ensemble de la hiérarchie. Enfin, ce programme doit faire l'objet d'un suivi et d'une évaluation des résultats obtenus, pour en mesurer l'efficacité par rapport aux objectifs initiaux et éventuellement réorienter le projet lui-même. La charte de sécurité routière signée le 18 mai 1998 et relevée par l'honorable parlementaire comporte un programme intitulé " Prévention 2001 ", intégré dans la politique qualité sécurité de l'entreprise, qui a pour objectif de réduire de 30 % en trois ans les accidents de la route dans lesquels est impliqué le personnel. Il est encore trop tôt pour dresser un bilan des actions engagées, mais cette démarche devrait permettre d'obtenir des résultats intéressants.
