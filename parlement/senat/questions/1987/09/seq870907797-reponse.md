@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870907797
+
+- Question : [SEQ870907797](seq870907797.md) — Législation en faveur des jeunes apprentis
+
+## Réponse
+
+*Affaires sociales, JO du 1988-03-03, page 275*
+
+Réponse. -L'honorable parlementaire appelle à juste titre l'attention sur le nécessaire assouplissement de la législation relative aux conditions d'embauche des jeunes apprentis. La réforme de l'apprentissage, telle qu'elle est définie par la loi du 23 juillet 1987 et ses textes d'application, a apporté des réponses dans ce sens, largement souhaité par les employeurs ; les principales dispositions sont les suivantes : la procédure d'agrément des maîtres d'apprentissage est allégée, simplifiée et accélérée ; les conditions préalables à la conclusion d'un contrat d'apprentissage sont assouplies avec notamment la suppression de l'avis circonstancié d'orientation pour l'apprenti ; la possibilité est admise de conclure plusieurs contrats successifs ; il est dorénavant possible à un employeur d'accueillir deux apprentis simultanément ; la durée du contrat est diversifiée et peut varier de un à trois ans pour permettre une meilleure adaptation aux professions et auxdifférents niveaux de qualifications préparés ; la possibilité est désormais ouverte à certaines entreprises de dispenser elles-mêmes une partie des enseignements, dès lors qu'elles en ont les moyens humains et matériels ; l'article 7 de la loi du 23 juillet 1987 étend enfin aux entreprises de plus de dix salariés l'exonération des cotisations de charges sociales patronales offertes à leurs apprentis ; cette mesure permettra de faciliter l'engagement financier des entreprises dans le système d'apprentissage. L'ensemble de ces mesures devrait apporter des réponses au souci légitime des employeurs d'assouplissement de la réglementation afin de favoriser l'embauche pour ceux-ci du plus grand nombre d'apprentis, tout en maintenant les garanties sociales et de formation de ceux-ci.
