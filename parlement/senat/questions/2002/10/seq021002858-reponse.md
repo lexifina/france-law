@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021002858
+
+- Question : [SEQ021002858](seq021002858.md) — Modification du décret n° 97-298 pour l'huile de colza
+
+## Réponse
+
+*Agriculture, JO du 2003-03-27, page 1032*
+
+Le décret du 11 mars 1908 modifié relatif aux huiles et graisses comestibles prévoit, dans son article 3 paragraphe IV, que la dénomination des huiles est immédiatement suivie de la mention " huile végétale pour friture et assaisonnement ", si la teneur en acide linolénique ne dépasse pas 2 %. Dans le cas contraire, la mention " huile végétale pour assaisonnement ", doit être indiquée. Ces dispositions ont été prises sur la base d'un avis rendu par le conseil supérieur d'hygiène publique de France, en raison de l'incidence de la teneur en acide linolénique, et de façon générale en acides gras polyinsaturés, sur la stabilité des huiles à la cuisson en friture profonde. L'huile de colza, qui contient 9 % d'acide linolénique, doit donc, en l'état actuel de la réglementation, être commercialisée en tant qu'huile d'assaisonnement. Cependant, dans le cadre de la révision du décret du 11 mars 1908, que les administrations concernées souhaitent entreprendre prochainement, la définition des huiles de friture pourra être reconsidérée à la lumière des dernières données scientifiques disponibles. Ces données seront examinées par l'agence française de sécurité sanitaire des aliments. Le ministère de l'agriculture, de l'alimentation, de la pêche et des affaires rurales, conscient de l'intérêt nutritionnel de l'huile de colza et du handicap que fait peser sur la filière la réglementation actuelle, et sous réserve des conclusions favorables de l'agence française de sécurité sanitaire des aliments, soutiendrait l'inclusion de l'huile de colza dans la catégorie des huiles pour friture et assaisonnement.
