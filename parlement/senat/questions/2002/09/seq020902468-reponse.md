@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020902468
+
+- Question : [SEQ020902468](seq020902468.md) — Coût pour les communes des achats des registres de l'état civil
+
+## Réponse
+
+*Intérieur, JO du 2004-01-08, page 74*
+
+Jusqu'au 31 décembre 2001, les préfectures commandaient pour le compte des communes les registres d'état civil qui étaient financés sur des crédits du ministère de la justice. La loi de finances pour 2002 a mis fin à la prise en charge par l'Etat des frais d'acquisition de ces registres et a transféré la ressource financière correspondante (1,5 M EUR) sur la dotation de solidarité rurale (DSR), qui bénéficie aux petites communes. La circulaire du 3 janvier 2002 du ministère de l'intérieur, de la sécurité intérieure et des libertés locales indique la manière dont les communes acquièrent désormais directement les registres d'état civil auprès de l'imprimerie des timbres-poste et des valeurs fiduciaires (ITVF). A la suite de la mise en oeuvre de cette réforme, un certain nombre de petites communes ont attiré l'attention sur les conditions dans lesquelles l'ITVF facturait les frais de conditionnement et de gestion. Compte tenu de coûts fixes inévitables pour l'ITVF quelle que soit l'importance de la commande, les frais en question sont en effet forfaitaires et donc identiques quel que soit le nombre de feuillets commandés, ce qui pénalise les communes qui passent de petites commandes. Le ministère de l'intérieur, de la sécurité intérieure et des libertés locales s'est rapproché de l'ITVF en vue de tenir compte de cette contrainte pour les petites communes. Ainsi, les communes qui le souhaitent peuvent se grouper en désignant l'une d'entre elles pour passer leur commande. L'ITVF facturera alors la commande et livrera les feuillets à la commune qui aura passé la commande groupée, à charge pour cette dernière de répartir les feuillets entre les communes concernées et d'obtenir le remboursement des frais engagés pour le compte des autres communes.
