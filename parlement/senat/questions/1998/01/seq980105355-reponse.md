@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980105355
+
+- Question : [SEQ980105355](seq980105355.md) — Loi de finances pour 1998 et situation des personnes veuves
+
+## Réponse
+
+*Économie, JO du 1998-03-05, page 752*
+
+Réponse. - Le système du quotient familial a pour objet de proportionner l'impôt aux facultés contributives de chaque redevable. Celles-ci dépendent notamment du nombre de personnes qui vivent du revenu du foyer. C'est pourquoi les personnes seules ont normalement droit à une part de quotient familial et les couples mariés à deux parts. Par exception à ce principe, les contribuables célibataires, divorcés ou veufs ayant un ou plusieurs enfants majeurs imposés distinctement peuvent bénéficier d'un quotient familial d'une part et demie au lieu d'une part. Cet avantage de caractère très spécifique n'est pas réellement justifié puisqu'il ne correspond à aucune charge effective, ni charge de famille ni charge liée à une invalidité. Aussi, afin d'atténuer les effets de cette majoration de quotient familial sans pour autant pénaliser les contribuables disposant des revenus les plus faibles, la loi de finances pour 1998 a plafonné à 6 100 francs l'avantage en impôt procuré par cette demi-part supplémentaire. Cette disposition s'applique à compter de l'année d'imposition suivant celle du 26e anniversaire du dernier enfant des personnes concernées. Elle permet de limiter les effets du plafonnement de l'avantage fiscal procuré aux contribuables dont le revenu imposable pour 1997 est supérieur ou égal à 104 140 francs, c'est-à-dire un montant annuel de salaires ou de pensions déclarées d'au moins 144 639 francs, soit environ 12 050 francs par mois. 11 % seulement des personnes bénéficiant de cet avantage fiscal seront concernées par la mesure. Cette disposition apparaît ainsi équilibrée.
