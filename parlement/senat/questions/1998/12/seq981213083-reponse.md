@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981213083
+
+- Question : [SEQ981213083](seq981213083.md) — Situation des magistrats au retour d'un détachement
+
+## Réponse
+
+*Justice, JO du 1999-12-02, page 3973*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que les magistrats en position de détachement qui réintègrent le corps judiciaire sont soumis aux règles générales de nomination des magistrats de l'ordre judiciaire : leur projet de nomination doit être diffusé à l'ensemble des magistrats susceptibles de présenter des observations puis il doit être examiné par le Conseil supérieur de la magistrature avant d'être publié ensuite par décret. Deux cas sont à distinguer, selon que la réintégration s'effectue au terme du détachement ou avant la fin du détachement. Réintégration au terme du détachement : les magistrats détachés doivent exprimer des desiderata en vue de leur réintégration au moins huit mois avant la date d'expiration de leur détachement, afin d'éviter toute rupture dans leur traitement. Ces magistrats, dans la plupart des cas, réintègrent le corps judiciaire sans difficulté particulière. Cependant, une difficulté peut survenir lorsque, en raison de la complexité du mode de nomination des magistrats, la réintégration n'a lieu que postérieurement à l'expiration de la date de détachement. Dans ces situations très rares, la chancellerie s'efforce d'obtenir de l'organisme qui accueille le magistrat une prolongation de son détachement, ne serait-ce que de quelques jours, jusqu'à sa réintégration effective dans le corps judiciaire. Réintégration avant la fin du détachement : lorsque l'organisme qui accueille le magistrat souhaite mettre un terme à son détachement, celui-ci continue à percevoir sa rémunération jusqu'à sa réintégration dans son corps d'origine, en application des dispositions prévues aux articles 20 et suivants du décret nº 85-986 du 16 septembre 1985. Il y a très peu de cas concernés.
