@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980205877
+
+- Question : [SEQ980205877](seq980205877.md) — Enseignement de l'anglais à l'école
+
+## Réponse
+
+*Éducation, JO du 1998-05-28, page 1706*
+
+Réponse. - La maîtrise des langues étrangères est aujourd'hui le gage d'une ouverture des élèves sur le monde en même temps qu'un facteur décisif d'insertion sociale et professionnelle. Elle constitue à ce titre une priorité dans la formation des jeunes. Cette formation doit être assurée en anglais mais aussi dans d'autres langues étrangères. Pour répondre à ces besoins, une réflexion globale sur l'enseignement des langues est actuellement en cours au sein du ministère de l'éducation nationale, de la recherche et de la technologie. Elle vise à améliorer le niveau de nos élèves en langues vivantes, notamment en communication orale. La généralisation de l'enseignement des langues vivantes à l'école primaire devrait constituer un facteur important de l'amélioration des compétences linguistiques des élèves. A la rentrée 1998, la quasi-totalité des élèves des classes de CM2 de la Réunion bénéficieront, comme ceux des autres académies, d'un enseignement régulier de langue vivante. Cette mesure sera étendue aux CM1 en septembre 1999. Cet enseignement d'une heure et demie par semaine sera un véritable apprentissage. Dans un premier temps, les classes d'enseignement d'initiation à une langue étrangère (EILE) où la langue enseignée est actuellement proposée par le maître coexisteront avec les classes nouvellement implantées pour lesquelles les parents choisiront la langue étudiée parmi celles offertes dans le collège du secteur en sixième. A terme, tous les parents pourront choisir la langue étudiée par leur enfant selon les mêmes modalités. Une réelle continuité pourra donc être établie avec le collège et permettra une amélioration des performances de nos élèves en langues vivantes.
