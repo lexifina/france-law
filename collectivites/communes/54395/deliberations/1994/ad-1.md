@@ -1,0 +1,8 @@
+# Ville de Nancy : délibération AD-1 — Désignation d'un représentant de la ville de Nancy au conseil départemental de l'habitat.
+
+- Collectivité : Ville de Nancy
+- SIREN : 215403957
+- Code INSEE : 54395
+- Date : 1994-10-24
+- Objet : Désignation d'un représentant de la ville de Nancy au conseil départemental de l'habitat.
+- Jeu de données : https://www.data.gouv.fr/datasets/5d96e6f38b4c410e2b3803a1
