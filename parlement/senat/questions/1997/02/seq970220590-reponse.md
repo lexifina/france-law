@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970220590
+
+- Question : [SEQ970220590](seq970220590.md) — Espaces naturels
+
+## Réponse
+
+*Environnement, JO du 1997-05-08, page 1432*
+
+Réponse. - Madame le ministre de l'environnement a pris connaissance avec intérêt de la question posée par l'honorable parlementaire concernant les réserves naturelles. Les réserves naturelles sont une priorité de l'action du ministère de l'environnement. Des dossiers extrêmement importants ont pu être menés à bien en 1996 avec la création de deux grandes réserves en Guyane (Les Nouragues et La Trinité), qui représente 176 000 hectares de forêt tropicale vierge. Par ailleurs, la création des réserves de Saint-Barthélemy dans les Caraïbes, le marais de Séné sur le littoral atlantique et de la baie de l'Aiguillon en Vendée constituent des renforcements récents très significatifs du réseau existant. Cette augmentation du nombre des réserves ne doit pas conduire à une dilution des moyens accordés à chaque réserve. C'est pourquoi le ministre de l'environnement a décidé de ne pas appliquer aux crédits de fonctionnement des réserves l'étalement sur trois ans des sommes inscrites pour les deux années dans les contrats de plan. Cela a nécessité la mobilisation de quatre millions de francs pour assumer cette priorité. Par ailleurs, la mise en place de la taxe sur les passagers maritimes, et de celle sur les ouvrages d'art à destination d'espaces protégés, permettra de mobiliser près d'un million de francs au profit des territoires classés en réserve naturelle. Enfin, la gestion planifiée et bien organisée permettra de privilégier les dépenses de personnel. Les gestionnaires, qui sont actuellement la cheville ouvrière d'une démarche scientifique et d'un accueil de qualité, doivent être protégés. Le budget 1997 leur permettra de poursuivre leur action.
