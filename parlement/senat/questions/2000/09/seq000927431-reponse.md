@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000927431
+
+- Question : [SEQ000927431](seq000927431.md) — Suppression de la prime à l'herbe
+
+## Réponse
+
+*Agriculture, JO du 2000-11-16, page 3914*
+
+Réponse. - La prime au maintien des systèmes d'élevage extensifs (PMSEE) est une mesure agroenvironnementale qui a été créée en 1993 et reconduite en 1998 pour une période de cinq ans dans le cadre de la réglementation antérieure au règlement de développement rural (CE nº 1257/1999). Les éleveurs ont pu prendre un engagement ou le renouveler en 1998. Le règlement communautaire CEE nº 2078/92 ayant été abrogé le 1er janvier 2000, le démarrage de nouveaux contrats n'est plus possible. La France a déposé le 30 décembre 1999 un plan de développement rural national approuvé le 7 septembre dernier par la Commission européenne. L'un des points de la négociation a porté sur la recondution de la PMSEE après le 30 avril 2003, reconduction qui s'est vue opposer un refus absolu de la part de la Commission. Il est désormais prévu de remplacer la PMSEE par les actions agroenvironnementales régionales, concernant les superficies en prairies. Les exploitants pourront bénéficier de ces mesures dans le contrat territorial d'exploitation (CTE) ou hors de ce cadre. Ce nouveau dispositif va permettre de continuer à primer les superficies en prairies avec des montants de prime à l'hectare sensiblement revalorisés (de 300 francs à 500 francs selon les régions si les engagements sont pris hors du cadre des CTE, voire 600 francs dans le cas de la souscription d'un CTE). Les actions en cause ont été définies au niveau régional. Elles sont mieux adaptées aux conditions de production et leurs critères d'engagement sont plus souples que ceux de la PMSEE. Elles devraient donc permettre aux actuels bénéficiaires de la PMSEE de respecter plus facilement ces nouveaux types d'engagements.
