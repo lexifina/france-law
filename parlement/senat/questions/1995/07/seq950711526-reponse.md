@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950711526
+
+- Question : [SEQ950711526](seq950711526.md) — Augmentation des droits d'inscription à l'université
+
+## Réponse
+
+*Éducation, JO du 1996-01-18, page 103*
+
+Réponse. - Les taux des droits de scolarité applicables aux préparations conduisant à la délivrance de diplômes nationaux organisées par les établissements d'enseignement supérieur sont fixés par arrêté interministériel ; ils ont été relevés de 5 p. 100 pour l'année universitaire 1995-1996. Toutefois, les étudiants les plus modestes peuvent être dispensés du paiement des droits de scolarité. En effet, le décret no 84-13 du 5 janvier 1984 relatif à l'exonération des droits de scolarité prévoit que les étudiants boursiers sont exonérés du paiement de ces droits. Il en va de même des étudiants qui en font la demande en raison de leur situation personnelle, notamment les réfugiés et les travailleurs privés d'emploi. Les décisions d'exonération sont prises par le président de l'université, en application de critères généraux fixés par le conseil d'administration et dans la limite d'un effectif relevant à 10 p. 100 des étudiants inscrits à l'université. Conscient qu'il convient d'aider ces étudiants dont l'échec ou l'abandon est souvent le résultat de difficultés d'ordre social, le ministère de l'éducation nationale, de l'enseignement supérieur et de la recherche poursuit d'importants efforts financiers, notamment dans le domaine des bourses, dont les crédits atteignent 6,2 milliards de francs en 1995. Ainsi, le système des bourses d'enseignement supérieur (critères sociaux et critères universitaires) complété par les aides individualisées exceptionnelles allouées aux étudiants en situation de redoublement ou de réorientation, et le système des prêts d'honneur permettent d'appréhender de façon satisfaisante la situation de ces étudiants d'origine modeste, qui peuvent alors poursuivre dans des conditions normales leurs études.
