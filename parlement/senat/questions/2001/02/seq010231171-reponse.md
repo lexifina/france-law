@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010231171
+
+- Question : [SEQ010231171](seq010231171.md) — Dégrèvement de taxe foncière
+
+## Réponse
+
+*Économie, JO du 2001-06-21, page 2085*
+
+Le dégrèvement de taxe foncière sur les propriétés bâties prévu au I de l'article 1389 du code général des impôts, en cas de vacance d'une maison normalement destinée à la location, vise les immeubles destinés à être loués à usage d'habitation, qu'il s'agisse d'une maison ou d'un appartement. D'autre part, le dégrèvement prévu par ce même article en cas d'inexploitation d'un immeuble à usage commercial ou industriel est expressément subordonné à la condition que l'immeuble soit utilisé par le contribuable lui-même. Cependant, le contribuable peut obtenir le dégrèvement en cas d'inexploitation d'un immeuble à usage commercial ou industriel dont il est propriétaire dès lors qu'avant l'arrêt de l'exploitation, il utilisait lui-même l'immeuble ou donnait en location ces locaux munis du matériel nécessaire à leur exploitation. Le Conseil d'Etat considère en effet, dans cette dernière situation, que le propriétaire poursuit lui-même, à travers cette location, une exploitation industrielle ou commerciale. Il n'est pas envisagé d'aller au-delà et d'étendre la portée de ce dégrèvement aux propriétaires de locaux nus à usage commercial ou industriel. En effet, ce dispositif de dégrèvement constitue déjà une exception à la règle générale selon laquelle la taxe foncière sur les propriétés bâties est due à raison de la propriété d'un bien et non de son utilisation. Au surplus, une telle orientation ne manquerait pas d'être revendiquée pour tous les immeubles destinés à la vente et qui ne trouvent preneur qu'à l'issue d'une longue période d'inoccupation. Enfin, elle accroîtrait encore la participation de l'Etat dans les finances des collectivités locales en augmentant le poids des dégrèvements qui en matière de fiscalité directe locale sont supportés par l'Etat.
