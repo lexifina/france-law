@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920822494
+
+- Question : [SEQ920822494](seq920822494.md) — Coopération en Afrique australe et en Afrique francophone
+
+## Réponse
+
+*Industrie, JO du 1992-10-15, page 2354*
+
+Réponse. - Lors de la visite qu'il a effectuée en Afrique du Sud en mai dernier, M. Desponts, directeur des relations économiques extérieures, a proposé à ses interlocuteurs la création d'un groupe de travail mixte (Joint Working Group) associant pouvoirs publics et organisations professionnelles intéressées, des deux pays, chargé d'explorer, puis de promouvoir, les possibilités d'opérations commerciales ou d'investissement conjointes d'entreprises françaises et sud-africaines en Afrique sud-saharienne et dans les pays de l'océan Indien. Cette proposition, qui répondait d'ailleurs opportunément à un voeu et à un besoin exprimés par les milieux d'affaires tant français que sud-africains, a été très favorablement accueillie de part et d'autre. Les objectifs, le mode d'organisation et de fonctionnement ainsi que la composition définitive du groupe de travail seront définis par un protocole d'accord (Memorandum of understanding), en cours d'élaboration conjointe. Une première réunion préparatoire s'est tenue en formation restreinte, à la mi-juillet, sous l'égide du poste d'expansion économique de Johannesbourg, pour arrêter les lignes directrices de l'accord : d'emblée, prévalent des deux côtés la volonté d'éviter tout excès de formalisme et le souci d'assurer un rôle prépondérant aux représentants des secteurs privés, français et sud-africain. Ce groupe de travail, qui tend à compléter en les élargissant à des marchés tiers les perspectives ouvertes, au plan bilatéral, par la signature d'un accord de coopération industrielle avec l'Industrial Development Corporation of South Africa (IDC), devrait être opérationnel avant la fin de l'année, c'est-à-dire en même temps que le dispositif de coopération industrielle proprement dit.
