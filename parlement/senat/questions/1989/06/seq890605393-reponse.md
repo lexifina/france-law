@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890605393
+
+- Question : [SEQ890605393](seq890605393.md) — Seuil minimum de versement de l'allocation logement
+
+## Réponse
+
+*Famille, JO du 1989-09-28, page 1590*
+
+Réponse. - Pour venir en aide aux bénéficiaires des prestations familiales se trouvant dans une situation difficile par suite d'un changement dans la situation familiale (décès, divorce, etc.) ou professionnelle (chômage, retraite, etc.), des mesures d'abattement ou de neutralisation des ressources prises en compte permettent une révision des droits en cours d'exercice de paiement dans un sens favorable aux familles. Ainsi, aux termes du premier alinéa de l'article R. 531-13 du code de la sécurité sociale (relatif à l'allocation pour jeune enfant mais qui sert de référence à la plupart des prestations servies sous condition de ressources) les personnes qui, entrant en situation de chômage, sont indemnisées au titre de l'allocation de base, bénéficient d'un abattement de 30 p. 100 sur les revenus d'activité professionnelle perçus pendant l'année civile de référence. Cette appréciation particulière des ressources a pour objet de tenir compte de la baisse de revenus entraînée par l'entrée en chômage au moment de la perte de la situation professionnelle. C'est la raison pour laquelle le premier alinéa de l'article R. 531-13 précité prévoit qu'elle ne s'applique que sur les seuls revenus d'activité, à l'exclusion de toutes autres ressources et notamment des indemnités de chômage. Le Gouvernement est cependant conscient des difficultés particulières qui sont celles des personnes à revenus modestes. C'est pourquoi des études sont actuellement en cours pour rendre la base ressources des prestations familiales plus efficiente sous l'angle d'une meilleure prise en compte des ressources réelles des allocataires et de l'aide aux familles en difficultés.
