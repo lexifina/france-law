@@ -6,7 +6,7 @@ Toutefois, ce prélèvement n'est pas applicable :
 
 1° Aux lots et primes de remboursement visés à l'article 157-3° du code précité;
 
-2° Aux intérêts des dépôts en devises effectués auprès des banques établies en France;
+2° Aux intérêts des dépôts en devises effectués auprès des banques établies en France ;
 
 3° Aux revenus provenant d'opérations de trésorerie à court terme réalisées entre des banques établies en France d'une part, et des banques établies à l'étranger, des organismes internationaux ou des institutions financières publiques étrangères, d'autre part;
 

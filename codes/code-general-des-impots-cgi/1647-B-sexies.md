@@ -12,7 +12,7 @@ II. 1 La valeur ajoutée mentionnée au I est égale à l'excédent hors taxe de
 
 Les consommations de biens et services en provenance de tiers comprennent : les travaux, fournitures et services extérieurs, à l'exception des loyers afférents aux biens pris en crédit-bail, les frais de transports et déplacements, les frais divers de gestion.
 
-3. La production des entreprises de banque, des établissements financiers, des établissements de crédit, des entreprises ayant pour activité exclusive la gestion des valeurs mobilières est égale à la différence entre :
+3. La production des établissements de crédit, des entreprises ayant pour activité exclusive la gestion des valeurs mobilières est égale à la différence entre :
 
 - d'une part, les produits d'exploitation bancaires et produits accessoires ;
 
