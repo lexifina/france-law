@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700053
+
+- Question : [SEQ020700053](seq020700053.md) — Inquiétude des contribuables face à la multiplication des dispositions fiscales
+
+## Réponse
+
+*Économie, JO du 2003-04-10, page 1238*
+
+Le Gouvernement est sensible aux préoccupations exprimées qui rejoignent le constat opéré sur ce point par le conseil des impôts dans le cadre de son XXe rapport consacré aux relations entre les contribuables et l'administration fiscale selon lequel le degré de sécurité juridique en matière fiscale est perfectible. Cela étant, en application de l'article 34 de la Constitution, la loi " fixe les règles concernant l'assiette, le taux et les modalités de recouvrement des impositions de toutes natures ". Il revient donc au Parlement de veiller, en premier lieu, à assurer cette stabilité juridique. Par ailleurs, la doctrine publiée est essentielle dans le dispositif visant à assurer la sécurité juridique des contribuables. Elle constitue pour ces derniers une protection efficace puisque l'administration ne peut rehausser le revenu imposable d'un contribuable qui a appliqué la loi selon l'interprétation qu'elle en avait retenue dans ses instructions. Au demeurant, si la stabilité de la norme participe à l'objectif de sécurité juridique, il n'apparaît pas pour autant souhaitable de préconiser son intangibilité au risque de maintenir une fiscalité qui serait inadaptée aux évolutions économiques et sociales. Ainsi, toute la difficulté réside dans le souci de concilier le besoin légitime de sécurité juridique des contribuables et la nécessité de leur offrir un cadre fiscal adapté aux situations qu'ils rencontrent. Le Gouvernement travaille dans le sens de cette amélioration qui s'inscrit dans le cadre plus global de la recherche d'une plus grande qualité de service rendu aux usagers.
