@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990616943
+
+- Question : [SEQ990616943](seq990616943.md) — Conditions d'attribution des primes à l'amélioration de l'habitat
+
+## Réponse
+
+*Logement, JO du 1999-08-19, page 2826*
+
+Réponse. - La prime à l'amélioration de l'habitat (PAH) est une aide à caractère social destinée à permettre aux propriétaires occupants ayant des ressources très modestes de réaliser des travaux d'amélioration dans leur résidence principale. Les conditions d'octroi de la PAH qui sont fixées par les articles R. 322-1 à R. 322-17 du code de la construction et de l'habitation doivent s'appliquer de façon uniforme sur l'ensemble du territoire dans le cadre de la circulaire annuelle de programmation des crédits. Cette aide est soumise aux mêmes plafonds de ressources que ceux applicables aux anciens prêts pour l'accession à la propriété (PAP). Les dernières revalorisations des plafonds de ressources de la PAH résultent de l'arrêté du 21 décembre 1993, applicable au 1er janvier 1994. Toutefois, depuis cette date, la volonté du Gouvernement de soutenir l'amélioration de l'habitat privé s'est traduite par un effort budgétaire très important en faveur de cette prime puisque la dotation budgétaire qui lui est consacrée est passée de 400 MF en 1993 à 800 MF en 1998. Les dotations budgétaires qui sont inscrites dans la loi de finances pour 1999 pour un montant de 815,54 MF (soit 124,32 millions d'euros) confirment cette volonté. Elles conservent, en effet, leur niveau élevé afin de poursuivre les efforts engagés. Par ailleurs, des réflexions de fond ont été engagées notamment en vue d'une harmonisation des régimes actuels de la PAH et de la subvention versée par l'agence nationale pour l'amélioration de l'habitat aux propriétaires bailleurs. C'est dans ce cadre que les questions réglementaires et notamment celle des plafonds de ressources concernant la PAH pourraient être examinées.
