@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980609405
+
+- Question : [SEQ980609405](seq980609405.md) — Evolution des pensions des retraités de l'agriculture
+
+## Réponse
+
+*Agriculture, JO du 1998-07-30, page 2451*
+
+Réponse. - La mesure retenue dans le cadre de l'article 102 de la loi de finances pour 1998 prévoit, pour 274 000 personnes (conjoints, aides familiaux et ceux d'entre eux ayant été durant une courte période chefs d'exploitation) une revalorisation de leur retraite égale, dans 70 % des cas, à 5 100 francs par an ou 425 francs par mois. Cette revalorisation porte ainsi la pension de ces personnes de 18 647 francs à 23 747 francs soit une augmentation d'environ 27 % en une seule année. Par ailleurs, à cette mesure de revalorisation de 425 francs par mois doit s'ajouter l'effet de la substitution de la CSG aux cotisations d'assurance maladie. Cette substitution entraîne la suppression des cotisations maladie pour les retraités non imposables. Ainsi, 700 000 petits retraités agricoles bénéficient de la suppression d'un prélèvement de 2,8 % sur leur avantage de vieillesse sans avoir à acquitter la CSG en contrepartie. Au total, le cumul de ces deux mesures peut permettre un accroissement mensuel de la pension de retraite de 500 francs. Toutefois cet effort en faveur des retraites agricoles est encore insuffisant. Il faut donc continuer la revalorisation en cours pour que, sur la durée de la législature, elles atteignent un niveau satisfaisant. Il convient de prendre particulièrement en considération les catégories de retraités dont des pensions sont les plus faibles pour fixer les objectifs à atteindre par étapes progressives. A cet égard, la réflexion conduite par la représentation parlementaire sera de grand intérêt. Les mesures de la deuxième étape de ce plan pluriannuel seront prochainement proposées après concertation avec les représentants des retraités. Elles trouveront leur traduction dans le projet de loi de finances pour 1999.
