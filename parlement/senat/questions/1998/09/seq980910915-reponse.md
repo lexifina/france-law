@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980910915
+
+- Question : [SEQ980910915](seq980910915.md) — Mise en place d'aires de stationnement pour les nomades
+
+## Réponse
+
+*Logement, JO du 1999-05-20, page 1700*
+
+Réponse. - Le Gouvernement a engagé l'élaboration d'un projet de loi avec l'objectif de définir de définir un équilibre satisfaisant entre les droits et devoirs tant des gens du voyage que des collectivités publiques. Les orientations du projet de loi, qui s'appuient sur les analyses des élus comme sur celles des associations représentatives des gens du voyage, tiennent compte des difficultés liées à l'application de l'article 28 de la loi du 31 mai 1990 et des situations extrêmement diverses des gens du voyage, dont plus du tiers ne voyage plus. Le pivot des dispositifs à mettre en uvre doit rester le schéma départemental, dont il est envisagé de fixer un délai pour son élaboration par le préfet et le président du conseil général avec l'appui d'une commision consultative. L'obligation de création d'aires, résultant de l'article 28, serait renforcée et précisée. Le principe resterait celui d'une obligation faite aux communes de réaliser des aitres ou de contribuer au financement d'aires sur une base intercommunale dans les conditions prévues par le schéma départemental. Parallèlement à cette obligation juridique, le concours financier de l'Etat serait renforcé et complété, afin de faire jouer pleinement la solidarité nationale. Enfin, les pouvoirs des maires pour lutter contre les stationnements irréguliers, lorsque des aires sont réalisées, seraient renforcés dans le respect du droit des personnes. Le projet en cours d'élaboration sur la base de ces orientations, qui sera présenté très prochainement au conseil des ministres avant son inscription à l'ordre du jour du Parlement, cherche à intégrer ces préoccupations dans le respect des droits et devoirs de chacun.
