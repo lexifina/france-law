@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911219180
+
+- Question : [SEQ911219180](seq911219180.md) — Institutions sociales et médico-sociales
+
+## Réponse
+
+*Affaires sociales, JO du 1992-01-23, page 174*
+
+Réponse. - La loi 91-748 du 31 juillet 1991 portant réforme hospitalière, institue un comité national de l'organisation sanitaire et sociale (CNOSS) et des comités régionaux de l'organisation sanitaire et sociale (CROSS) qui se substituent aux anciennes commissions nationale et régionales de l'équipement sanitaire, de l'hospitalisation et des institutions sociales et médico-sociales. Le projet de décret relatif à ces nouveaux comités prévoit la mise en place d'une section sociale qui réunira en une seule instance les trois sections actuelles. Les modalités d'organisation et de composition des comités telles qu'elles sont prévues dans le projet de décret, ont pour objectif de permettre à la section sociale d'avoir une vision horizontale du secteur. Cet objectif, qui correspond à la nécessité d'appréhender de façon globale les questions relevant à la fois du secteur sanitaire, du secteur social et du secteur médico-social était incompatible avec le maintien de trois sous-sections spécialisées au sein de la section sociale. La représentation des différentes branches d'activité du secteur social et médico-social demeure assurée par l'équilibre qui a été recherché entre les composantes de la section sociale, notamment entre le secteur sanitaire et le secteur social, le secteur public et le secteur privé et les diverses organisations syndicales représentant les personnels des établissements. De plus, le futur décret prévoit que le président des comités régionaux pourra décider de l'audition de toute personne qualifiée dans le domaine auquel correspond la question débattue. De même, le président du comité national pourra appeler toute personne dont le concours serait souhaitable pour participer à ces travaux.
