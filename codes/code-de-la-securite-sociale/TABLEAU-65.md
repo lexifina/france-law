@@ -1,12 +1,10 @@
-# Article TABLEAU 65
+# Article Annexe II tableau 65
 
 Date de création : 19 juin 1977.
 
-Dernière mise à jour : 19 novembre 1983
-
 DESIGNATION DES MALADIES :
 
-Lésions eczématiformes récidivant après nouvelle exposition au risque ou confirmées par un test épicutané positif au produit manipulé
+Lésions eczématiformes récidivant après nouvelle exposition au risque ou confirmées par un test épicutané positif au produit manipulé.
 
 DELAI DE PRISE EN CHARGE : 15 jours
 
@@ -14,7 +12,7 @@ LISTE INDICATIVE DES PRINCIPAUX TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
 
 Préparation, emploi, manipulation des agents nocifs limitativement énumérés ci-après :
 
-Agents chimiques :
+A. - Agents chimiques :
 
 Acide chloroplatinique ;
 
@@ -24,40 +22,60 @@ Cobalt et ses dérivés ;
 
 Persulfates alcalins ;
 
+Thioglycolate d'ammonium ;
+
+Epichlorhydrine ;
+
 Hypochlorites alcalins ;
 
-Agents détergents cationiques, notamment ammoniums quaternaires et leurs dérivés ;
+Ammoniums quaternaires et leurs sels, notamment dans les agents détergents cationiques ;
 
-Insecticides organo-chlorés ;
+Dodécyl-aminoéthyl glycine ;
+
+Insecticides organochlorés ;
 
 Phénothiazines ;
 
 Pipérazine ;
 
-Mercapto-benzothiazols (accélérateur de vulcanisation) ;
+Mercapto-benzothiazole ;
+
+Sulfure de tétraméthyl-thiurame ;
+
+Acide mercapto-propionique et ses dérivés ;
 
 N-isopropyl N'-phénylparaphénylène-diamine et ses dérivés ;
 
+Hydroquinone et ses dérivés ;
+
 Dithiocarbamates ;
 
-Hydroquinones ;
+Sels de diazonium, notamment chlorure de diéthylaminobenzène diazonium ;
 
-Chlorure de diéthylaminobenzène diazonium (papier diazo) ;
+Benzisothiazoline-3-one ;
 
-Acide mercapto-propionique et ses dérivés (acrylates et polythiols) ;
+Dérivés de la thiourée ;
 
-Dérivés de l'acide métacrylique.
+Acrylates et méthacrylates ;
 
-Produits végétaux ou d'origine végétale :
+Résines dérivées du para-tert-butylphénol et du para-tert-butylcatéchol ;
 
-Essence de térébenthine ;
+Dicyclohexylcarbodiimide.
 
-Colophane et ses dérivés ;
+B. - Produits végétaux ou d'origine végétale :
+
+Produits d'extraction du pin, notamment essence de térébenthine, colophane et ses dérivés ;
 
 Baume du Pérou ;
 
 Urushiol (laque de Chine) ;
 
-Plantes contenant des lactones sesquiterpéniques (notamment artichaut, arnica, tulipe, chrysanthème, camomille, laurier noble, saussurea, frullania) ;
+Plantes contenant des lactones sesquiterpéniques (notamment artichaut, arnica, chrysanthème, camomille, laurier noble, saussurea, frullania, bois de tulipier, armoise, dahlia) ;
 
-Primevère.
+Primevère ;
+
+Tulipe ;
+
+Alliacées (notamment ail et oignon) ;
+
+Farines de céréales.

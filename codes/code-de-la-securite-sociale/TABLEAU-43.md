@@ -1,8 +1,6 @@
-# Article TABLEAU 43
+# Article Annexe II tableau 43
 
 Date de création : 20 avril 1963.
-
-Dernière mise à jour : 28 janvier 1982.
 
 DESIGNATION DES MALADIES :
 
@@ -11,6 +9,10 @@ Ulcérations cutanées
 Dermites eczématiformes subaiguës ou chroniques Asthme ou dyspnée asthmatiforme confirmés par tests ou par épreuves fonctionnelles, récidivant après nouvelle exposition
 
 DELAI DE PRISE EN CHARGE : 7 jours
+
+DESIGNATION DES MALADIES :
+
+Rhinite, asthme ou dyspnée asthmatiforme confirmé par test ou par épreuves fonctionnelles, récidivant après nouvelle exposition
 
 LISTE INDICATIVE DES PRINCIPAUX TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
 

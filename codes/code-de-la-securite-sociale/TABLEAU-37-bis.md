@@ -1,12 +1,10 @@
-# Article TABLEAU 37 bis
+# Article Annexe II tableau 37 bis
 
 Date de création : 28 janvier 1982.
 
-Dernière mise à jour : -
-
 DESIGNATION DES MALADIES :
 
-Asthme ou dyspnée asthmatiforme confirmé par tests ou par épreuves fonctionnelles, récidivant après nouvelle exposition
+Rhinite, asthme ou dyspnée asthmatiforme confirmé par test ou par épreuves fonctionnelles, récidivant après nouvelle exposition
 
 DELAI DE PRISE EN CHARGE : 7 jours
 

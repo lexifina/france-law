@@ -1,8 +1,6 @@
-# Article TABLEAU 41
+# Article Annexe II tableau 41
 
 Date de création : 11 octobre 1960.
-
-Dernière mise à jour : 28 janvier 1982.
 
 DESIGNATION DES MALADIES :
 
@@ -12,7 +10,7 @@ DELAI DE PRISE EN CHARGE : 30 jours
 
 DESIGNATION DES MALADIES :
 
-Asthme ou dyspnée asthmatiforme confirmée par tests ou par épreuves fonctionnelles, récidivant après nouvelle exposition
+Rhinite, asthme ou dyspnée asthmatiforme confirmée par test ou par épreuves fonctionnelles, récidivant après nouvelle exposition
 
 DELAI DE PRISE EN CHARGE : 7 jours
 

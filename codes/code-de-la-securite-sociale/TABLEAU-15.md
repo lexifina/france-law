@@ -1,8 +1,6 @@
-# Article TABLEAU 15
+# Article Annexe II tableau 15
 
 Date de création : 14 décembre 1938.
-
-Dernière mise à jour : 28 janvier 1982
 
 DESIGNATION DES MALADIES :
 
@@ -36,7 +34,7 @@ DELAI DE PRISE EN CHARGE : 7 jours
 
 DESIGNATION DES MALADIES :
 
-Lésions vésicales (confirmées par cystoscopies), provoquées par la benzidine, ses homologues, ses sels et ses dérivés chlorés, la dianisidine, l'amino-4, diphényle, la Bêta-naphtylamine :
+Lésions vésicales (confirmées par cystoscopie), provoquées par la benzidine, ses homologues, ses sels et ses dérivés chlorés, la dianisidine, l'amino-4, diphényle, la Bêta-naphtylamine et le 4-nitro-diphényle :
 
 Congestion vésicale avec varicosités
 
@@ -48,7 +46,7 @@ DELAI DE PRISE EN CHARGE : 30 ans
 
 LISTE INDICATIVE DES PRINCIPAUX TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
 
-Préparation, emploi, manipulation des amines aromatiques, de leurs dérivés hydroxylés, halogénés, nitrosés, nitrés et sulfonés et de produits en renfermant, notamment :
+Préparation, emploi, manipulation des amines aromatiques, de leurs dérivés hydroxylés, halogénés, nitrosés, nitrés et sulfonés, du 4-nitro-diphényle et de produits en renfermant, notamment :
 
 Fabrication des amines aromatiques et de leurs dérivés ;
 

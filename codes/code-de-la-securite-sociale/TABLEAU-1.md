@@ -1,75 +1,67 @@
-# Article TABLEAU 1
-
-Date de création : 27 octobre 1919.
-
-Dernière mise à jour : 19 juin 1977 DESIGNATION DES MALADIES :
-
-Syndrome douloureux abdominal paroxystique apyrétique avec état subocclusif (coliques de plomb), habituellement accompagné d'une crise paroxystique hypertensive et d'une poussée d'hématies à granulations basophiles DELAI DE PRISE EN CHARGE : 30 jours
+# Article Annexe II tableau 1
 
 DESIGNATION DES MALADIES :
 
-Paralysie des extenseurs des doigts ou des petits muscles de la main DELAI DE PRISE EN CHARGE : 1 an
+A. - Manifestations aiguës et subaiguës :
 
-DESIGNATION DES MALADIES :
+Anémie (hémoglobine sanguine inférieure à 13 g/100 ml chez l'homme et 12 g/100 ml chez la femme).
 
-Encéphalopathie aiguë a) Survenant chez un sujet ayant présenté un ou plusieurs des symptômes inscrits au tableau
-
-b) Ne s'accompagnant pas de ces symptômes en cas d'intoxication due aux dérivés alcoylés du plomb tels que le plomb tétraméthyle ou le plomb tétraéthyle
-
-DELAI DE PRISE EN CHARGE : 30 jours
-
-DESIGNATION DES MALADIES :
-
-Néphrite azotémique ou néphrite hypertensive et leurs complications
-
-DELAI DE PRISE EN CHARGE : 5 ans
-
-DESIGNATION DES MALADIES :
-
-Anémie confirmée par des examens hématologiques répétés et accompagnée d'hématies à granulations basophiles
-
-DELAI DE PRISE EN CHARGE : 6 mois
-
-DESIGNATION DES MALADIES :
-
-Syndrome biologique caractérisé par un abaissement de l'hémoglobine à moins de 13 grammes par 100 ml de sang, par un taux d'hématies ponctuées supérieur à 1 pour 1.000 hématies et une élévation de l'acide delta-aminolévulinique urinaire supérieure à 20 mg pour 1.000 ml
-
-DELAI DE PRISE EN CHARGE : 30 jours
-
-Le diagnostic doit être confirmé par les résultats des mêmes examens pratiqués dans un délai compris entre le quinzième et le trentième jour suivant la date du diagnostic
+DELAI DE PRISE EN CHARGE : 3 mois
 
 LISTE INDICATIVE DES PRINCIPAUX TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
 
-- Extraction, traitement, préparation, emploi, manipulation du plomb, de ses minerais, de ses alliages, de ses combinaisons et de tout produit en renfermant, notamment ;
+Extraction, traitement, préparation, emploi, manipulation du plomb, de ses minerais, de ses alliages, de ses combinaisons et de tout produit en renfermant.
 
-- Extraction et traitement des minerais de plomb et résidus plombifères ;
+DESIGNATION DES MALADIES :
 
-- Métallurgie, affinage, fonte, laminage du plomb, de ses alliages et des métaux plombifères ;
+Syndrome douloureux abdominal paroxystique apyrétique avec état subocclusif (coliques de plomb) habituellement accompagné d'une crise hypertensive.
 
-- Récupération du vieux plomb ;
+DELAI DE PRISE EN CHARGE : 30 jours
 
-- Soudure et étamage à l'aide d'alliage de plomb ;
+LISTE INDICATIVE DES PRINCIPAUX TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
 
-- Fabrication, soudure, ébarbage, polissage de tous objets en plomb ou en alliage de plomb ;
+Récupération du vieux plomb.
 
-- Fonte de caractères d'imprimerie en alliage de plomb, conduite de machines à composer, manipulation de caractères ;
+Grattage, brûlage, découpage au chalumeau de matières recouvertes de peintures plombifères.
 
-- Fabrication, réparation des accumulateurs au plomb ;
+DESIGNATION DES MALADIES :
 
-- Trempe au plomb et tréfilage des aciers trempés au plomb ;
+Encéphalophatie aiguë.
 
-- Métallisation au plomb par pulvérisation ;
+DELAI DE PRISE EN CHARGE : 30 jours
 
-- Fabrication et manipulation des oxydes et sels de plomb ;
+Pour toutes les manifestations aiguës et subaiguës, l'exposition au plomb doit être caractérisée par une plombémie supérieure à 40 microgrammes par 100 ml de sang et les signes cliniques associés à un taux d'acide delta aminolévulinique urinaire supérieur à 15 microgrammes/g de créatinines ou à un taux de protoporphyrine érythrocytaire sanguine supérieur à 20 microgrammes/g d'hémoglobine et pour l'anémie à un taux de ferritine normal ou élevé.
 
-- Préparation et application de peintures, vernis, laques, encres, mastics, enduits à base de composés du plomb ;
+DESIGNATION DES MALADIES :
 
-- Grattage, brûlage, découpage au chalumeau de matières recouvertes de peintures plombifères ;
+B. - Manifestations chroniques :
 
-- Fabrication et application des émaux plombifères ;
+Neuropathies périphériques et/ou syndrome de sclérose latérale amyotrophique ne s'aggravant pas après l'arrêt de l'exposition.
 
-- Composition de verres au plomb ;
+DELAI DE PRISE EN CHARGE : 3 ans
 
-- Fabrication et manipulation des dérivés alcoylés du plomb tels que le plomb tétraméthyle ou le plomb tétraéthyle, notamment préparation de carburants qui renferment ces derniers et nettoyage des réservoirs contenant ces carburants ;
+DESIGNATION DES MALADIES :
 
-- Glaçure et décoration des produits céramiques au moyen de composés du plomb.
+Troubles neurologiques organiques à type d'altération des fonctions cognitives, dont l'organicité est confirmée, après exclusion des manifestations chroniques de la maladie alcoolique, par des méthodes objectives.
+
+DELAI DE PRISE EN CHARGE : 1 an
+
+DESIGNATION DES MALADIES :
+
+Insuffisance rénale chronique.
+
+Pour toutes les manifestations chroniques, l'exposition au plomb doit être caractérisée par une plombémie antérieure supérieure à 80 microgrammes/100 ml ou, à défaut, par des perturbations biologiques spécifiques d'une exposition antérieure au plomb.
+
+DELAI DE PRISE EN CHARGE : 10 ans
+
+DESIGNATION DES MALADIES :
+
+C. - Syndrome biologique associant deux anomalies :
+
+- d'une part, atteinte biologique comprenant soit un taux d'acide delta aminolévulinique supérieur à 15 microgrammes/g de créatinine urinaire, soit un taux de protoporphyrine érythrocytaire supérieur à 20 microgrammes/g d'hémoglobine.
+
+- d'autre part, plombémie supérieure à 80 microgrammes/100 ml de sang.
+
+Le syndrome biologique doit être confirmé par la répétition des deux examens retenus, pratiqués dans un intervalle rapproché par un laboratoire agréé dans les conditions prévues à l'article 4 du décret n° 88-120 du 1er février 1988 relatif à la protection des travailleurs exposés au plomb métallique et à ses composés.
+
+DELAI DE PRISE EN CHARGE : 30 jours

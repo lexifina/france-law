@@ -1,23 +1,61 @@
-# Article TABLEAU 34
+# Article Annexe II : Tableau n° 34
+
+Affections provoquées par les phosphates, pyrophosphates et thiophosphates d'alcoyle, d'aryle ou d'alcoylaryle et autres organophosphores, anticholinestérasiques ainsi que par les phosphoramides et carbamates hétérocycliques anticholinestérasiques
 
 Date de création : 21 octobre 1951.
 
-Dernière mise à jour : 23 juin 1985 DESIGNATION DES MALADIES :
+DÉSIGNATION DES MALADIES
 
-A - Troubles digestifs : crampes abdominales, hypersalivation, nausées ou vomissements, diarrhée.
+|
 
-B - Troubles respiratoires : dyspnée asthmatiforme, oedème broncho-alvéolaire.
+DÉLAI de prise en charge
 
-C - Troubles nerveux : céphalées, vertiges, confusion mentale accompagnée de myosis
+|
 
-D - Troubles généraux et vasculaires : asthénie, bradycardie et hypotension, amblyopie.
+LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies
 
-Le diagnostic sera confirmé dans tous les cas (A, B, C, D) par un abaissement significatif du taux de la cholinestérase sérique et de l'acétylcholinestérase des globules rouges à l'exception des affections professionnelles provoquées par les carbamates.
+|
 
-E - Syndrome biologique caractérisé par un abaissement significatif de l'acétylcholinestérase des globules rouges.
+A. - Troubles digestifs : crampes abdominales, hypersalivation, nausées ou vomissements, diarrhée.
 
-DELAI DE PRISE EN CHARGE : 3 jours
+|
 
-LISTE INDICATIVE DES PRINCIPAUX TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
+3 jours
 
-Toute préparation ou manipulation des phosphates, pyrophosphates et thiophosphates d'alcoyle, d'aryle ou d'alcoylaryle et autres organophosphorés ainsi que par les phosphoramides et carbamates, anticholinestérasiques.
+|
+
+Toute préparation ou manipulation des phosphates, pyrophosphates et thiophosphates d'alcoyle, d'aryle ou d'alcoylaryle et autres organophosphorés anticholinestérasiques ainsi que des phosphoramides et carbamates hétérocycliques anticholinestérasiques.
+
+|
+
+B. - Troubles respiratoires : dyspnée asthmatiforme, oedème broncho-alvéolaire.
+
+|
+
+3 jours
+
+|
+
+C. - Troubles nerveux : céphalées, vertiges, confusion mentale accompagnée de myosis.
+
+|
+
+3 jours
+
+|
+
+D. - Troubles généraux et vasculaires : asthénie, bradycardie et hypotension, amblyopie. Le diagnostic sera confirmé dans tous les cas (A B, C, D) par un abaissement significatif du taux de la cholinestérase sérique et de l'acétylcholinestérase des globules rouges, à l'exception des affections professionnelles provoquées par les carbamates.
+
+|
+
+3 jours
+
+|
+
+E. - Syndrome biologique caractérisé par un abaissement significatif de l'acétylcholinestérase des globules rouges.
+
+|
+
+3 jours
+
+|
