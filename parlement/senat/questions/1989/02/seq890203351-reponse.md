@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890203351
+
+- Question : [SEQ890203351](seq890203351.md) — Lutte contre la rage
+
+## Réponse
+
+*Agriculture, JO du 1989-05-04, page 704*
+
+Réponse. - Lors de l'apparition de la rage vulpine en France en 1986, une dotation annuelle de chloropicrine a été attribuée à tous les départements. Les opérations de destruction des renards étaient alors la seule mesure de lutte contre la rage vulpine et visaient avant tout à limiter l'extension de la maladie sur le territoire. Depuis 1980, à l'exeption d'une avancée en région parisienne entre 1984 et 1986, la progression géographique de la rage s'est arrêtée. En conséquence l'attribution de chloropicrine est maintenant limitée aux seules départements atteints, ou directement menacée par l'enzootie, soit un ou deux départements en avant du front. Dans le même temps le ministère de l'agriculture et de la forêt a engagé des opérations de vaccination orale des renards ; en effet cette nouvelle méthode de prophylaxie, précédement utilisée avec succès en Suisse, permet d'envisager à terme l'éradication de la maladie de notre territoire. Le financement de ces opérations est partiellement assuré par un redéploiement dans la répartition des dépenses engagées pour mener à bien les diverses actions de lutte contre la rage. La réduction du nombre de départements attributaires de la dotation de chloropicrine s'inscrit dans le cadre de cette redéfinition des actions de prophylaxie. Les premiers résultats de cette nouvelle politique s'avèrent satisfaisants, puisque la maladie a disparu dans les zones de Lorraine où les renards ont été vaccinés, le front de la rage restant par ailleurs relativement stable. Actuellement, dans les départements qui ne sont pas atteints ou directement menacés par l'enzootie rabique, l'intérêt de la destruction des renards reste essentiellement lié à la notion d'animal nuisible.
