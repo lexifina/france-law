@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990214116
+
+- Question : [SEQ990214116](seq990214116.md) — Transports sanitaires en montagne
+
+## Réponse
+
+*Santé, JO du 1999-07-08, page 2342*
+
+Réponse. - La question de l'imputabilité des frais relatifs aux transports effectués entre le bas des pistes de ski et les structures de soins a fait l'objet d'une expertise au terme de laquelle il est établi que la prise en charge du transport entre le bas des pistes et les centres de soins ne relève pas de l'assurance maladie. En effet, la responsabilité communale en matière de secours englobe le transport de l'accidenté secouru jusqu'à la structure médicalisée appropriée. En conséquence, les communes concernées doivent se doter de moyens permettant de faire face aux besoins, soit sous forme de régie communale ou intercommunale, soit par convention conclue avec les entreprises de transport sanitaire. Il appartient aux communes d'assumer la charge de ces transports, qui constituent le prolongement de l'opération de secours qui leur incombe. Les communes ont toutefois la possibilité, en application des dispositions de l'article 97 de la loi nº 85-30 du 9 janvier 1985 (dite " loi montagne "), et à condition d'avoir voté une délibération en ce sens, de demander aux skieurs accidentés le remboursement des frais occasionnés. Dans l'hypothèse où les communes n'ont pas organisé les secours dans les conditions précisées ci-dessus, le recours spontané par l'accidenté à un transporteur sanitaire privé ne dispense pas la commune de l'obligation qui lui incombe ; le transport réalisé s'inscrit dans le prolongement de l'opération de secours et ne constitue pas un transport sanitaire susceptible d'être pris en charge par l'assurance maladie. Le syndicat national des ambulanciers de montagne et l'association des maires des stations françaises de sports d'hiver ont été informés de ces dispositions.
