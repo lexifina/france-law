@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910214035
+
+- Question : [SEQ910214035](seq910214035.md) — Personnel de la direction départementale de l'équipement du Haut-Rhin : statistiques
+
+## Réponse
+
+*Équipement, JO du 1991-09-05, page 1886*
+
+Réponse. - On observe que l'évolution de la dotation en effectifs autorisés de la direction départementale de l'équipement du Haut-Rhin se traduit par une baisse globale de l'ordre de 8 p. 100 sur une période de dix années (1982-1991), l'ensemble des directions départementales de l'équipement ayant connu, au cours de la même période, une baisse globale de l'ordre de 11 p. 100. Ces diminutions d'emplois sont notamment consécutives à des suppressions d'emplois budgétaires, en particulier depuis 1983. Cependant, la chute plus accentuée observée au cours de la période 1985-1988 correspond, d'une part, à une réduction de dix emplois du département (mis à disposition du service de l'Etat) et, d'autre part, à la prise en compte de la convention de transfert au département (trente-neuf emplois Etat mis à disposition du département). Il convient cependant de préciser que les services de l'équipement font l'objet depuis plusieurs années d'un important effort de modernisation, se traduisant notamment par l'amélioration de leurs structures, de leurs modes de fonctionnement, de la formation professionnelle des agents et des matériels. Toutefois, la direction départementale de l'équipement du Haut-Rhin a été relativement préservée en ce qui concerne les réductions d'effectifs au regard de l'ensemble des services de l'équipement. Enfin, il y a lieu de signaler que la direction départementale de l'équipement du Haut-Rhin s'est engagée en 1990 dans un processus de contractualisation avec l'administration centrale sur ses objectifs moyens, notamment en personnel, pour la période 1991-1993.
