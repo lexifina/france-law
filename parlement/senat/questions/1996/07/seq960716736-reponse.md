@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960716736
+
+- Question : [SEQ960716736](seq960716736.md) — Avenir du " 1 p 100 logement "
+
+## Réponse
+
+*Économie, JO du 1996-11-07, page 2901*
+
+Réponse. - Le 1 % logement est une participation rendue obligatoire par la loi, à la charge des entreprises employant plus de 10 salariés. Instituée en 1953 pour soutenir l'effort de construction dans un contexte de grave pénurie de logements, ce prélèvement a contribué au cours des quarante dernières années à améliorer la situation du logement. S'agissant d'une contribution assise sur les salaires, le Gouvernement s'attache à ce que les sommes importantes qu'elle représente (6,6 milliards de francs en 1994) soient utilisées le plus efficacement possible. A cet égard, il convient de déterminer quelle est l'affectation optimale de tels fonds. En situation de déficit budgétaire et de recours à l'emprunt, le financement des politiques publiques doit nécessairement mobiliser toutes les ressources publiques disponibles pour redresser les comptes publics. C'est ce qui a conduit le Parlement à instituer en 1995 une contribution des organismes collecteurs du 1 % logement au financement du prêt à taux zéro. S'agissant du budget pour 1997, un accord est intervenu entre l'Etat et les responsables du 1 % logement. Dans ce cadre, il est prévu que les organismes collecteurs contribuent de façon conventionnelle à hauteur de 7 000 millions de francs en 1997 et 1998 aux dépenses d'aides à la pierre. Le projet de loi de finances reprend (art. 29 et 45) les éléments de cet accord. Dans le même temps, un effort de modernisation et d'amélioration de l'efficacité du 1 % logement sera conduit. Il en résultera des gains de productivité, ce qui sera profitable au secteur du logement dans son ensemble. L'association des organismes collecteurs et des partenaires sociaux à ces opérations est conforme aux souhaits exprimés par le parlementaire.
