@@ -20,8 +20,4 @@ Les heures supplémentaires dont le paiement est remplacé en totalité par un r
 
 2. Contingent annuel
 
-Le contingent annuel conventionnel retenu au titre du présent accord est fixé à 120 heures et à 90 heures en cas de mise en oeuvre du système de modulation.
-
-A compter du 1er janvier 2002, le contingent annuel est fixé à 110 heures et 80 heures en cas de mise en oeuvre de la modulation.
-
-Cependant, à titre transitoire, et conformément aux dispositions du décret n° 2001-941 du 15 octobre 2001, ce contingent annuel sera porté, pour les entreprises de 20 salariés et moins, à 150 heures pour les années 2002 et 2003. Le contingent annuel reste fixé à 80 heures pour les entreprises mettant en oeuvre un système de modulation.
+Le contingent annuel conventionnel retenu au titre du présent accord est fixé à 160 heures et à 80 heures en cas de mise en oeuvre du système de modulation.
