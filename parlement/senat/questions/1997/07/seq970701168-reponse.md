@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701168
+
+- Question : [SEQ970701168](seq970701168.md) — Problème du dopage
+
+## Réponse
+
+*Jeunesse, JO du 1997-09-11, page 2388*
+
+Réponse. - Le renforcement sensible de la prévention et de la lutte contre le dopage qui touche tous les sports, tous les âges et tous les niveaux de pratique, sera une priorité du Gouvernement se traduisant dans plusieurs mesures. La révision, programmée pour 1998, de la loi no 89-432 du 28 juin 1989 relative à la prévention et à la répression de l'usage de produits dopants, permettra, en particulier, la constitution d'un comité d'éthique composé de personnalités qualifiées et indépendantes, qui aura droit de regard et d'intervention sur tout ce qui a trait au dopage. Trois types de mesures ont, en outre, été déterminées pour application immédiate : un dispositif de surveillance médicale et biologique des sportifs de haut niveau : 300 sportifs bénéficieront dès l'automne 1997 d'un suivi médical et biologique préventif. Ce dispositif sera complété par un renforcement des contrôles inopinés hors compétitions. Ces actions sont les seules qui peuvent permettre de détecter les substances dopantes majeures. Le renforcement de la recherche, principalement dans le domaine du dépistage des substances indétectables à l'heure actuelle (hormones de croissance, EPO, ...). Le lancement d'une campagne de prévention-éducation s'appuyant sur la réalisation d'un matériel éducatif performant, la prise en compte d'une composante prévention-dopage dans l'enseignement aux médecins du sport, aux éducateurs sportifs, aux professeurs, aux étudiants en médecine et en STAPS. Un guide méthodologique de prévention du dopage pour les acteurs du sport est en cours de réalisation. Il servira de support pédagogique à la démarche d'éducation pour la santé par les médecins du sport et tous les autres éducateurs.
