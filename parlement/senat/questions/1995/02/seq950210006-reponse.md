@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950210006
+
+- Question : [SEQ950210006](seq950210006.md) — Bénéfice de l'assurance prospection pour les filiales des grands groupes
+
+## Réponse
+
+*Économie, JO du 1995-07-20, page 1443*
+
+Réponse. - Le dispositif actuel répond au souci de soutenir les entreprises, en particulier des PME, qui souhaitent aborder les marchés étrangers. Aussi, s'agissant de l'éligibilité des filiales de grands groupes (sont considérées comme grands groupes les sociétés réalisant un chiffre d'affaires supérieur à 3 milliards de francs), seules sont écartées d'emblée du régime de l'assurance-prospection les filiales directes de grands groupes, c'est-à-dire les sociétés détenues en majorité (à plus de 50 p. 100 du capital) par une entreprise réalisant un chiffre d'affaires supérieur à 3 milliards de francs. Les filiales indirectes (cas des sociétés détenues par une société elle-même filiale directe de grand groupe) peuvent bénéficier de l'assurance-prospection, à partir du moment où elles jouissent d'une réelle autonomie stratégique et financière par rapport au groupe. Pour le reste, il n'apparaît pas opportun de créer un produit spécifiques pour les filiales de grands groupes, car cela entraînerait un risque sérieux de dérive pour les finances publiques. Une telle dérice pourrait certes être limitée en créant une police fonctionnant à l'équilibre, ou en demandant à la COFACE de la gérer sur son compte propre. La COFACE a cependant décliné cette dernière solution, tandis que le fonctionnement du produit à l'équilibre contraint de fixer des conditions (taux de prime, quotité garantie, décompte d'intérêts sur les indemnités versées par la COFACE, etc.) qui rendraient cette police peut attrayante, en définitive, pour les PME filiales de grands groupes, qui sont déjà celles enregistrant les meilleurs succès à l'exportation.
