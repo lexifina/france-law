@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920822505
+
+- Question : [SEQ920822505](seq920822505.md) — Politique à l'égard des retraites
+
+## Réponse
+
+*Affaires sociales, JO du 1992-10-08, page 2288*
+
+Réponse. - Le ministre des affaires sociales et de l'intégration confirme que pour la période 1981-1991, le pouvoir d'achat des pensions a été préservé et a même légèrement progressé, si l'on tient compte de l'ensemble des pensions perçues par les retraités (retraites de base et retraites complémentaires). Ce constat résulte non pas de la simple comparaison de valeurs d'indices à deux dates données (évolution en glissement) mais de la comparaison entre les valeurs annuelles moyennes successives de ces indices, valeurs représentatives de la réalité financière et comptable. Sur ces bases, l'évolution constatée entre les valeurs moyennes de 1980 (base 100) et de 1991 est la suivante : ( NOTA Voir tableau page 2288 ). Source : (1) INSEE indice des prix à la consommation (296 postes) série nationale. (2) Institutions gestionnaires. Au cours de la décennie écoulée, les Gouvernements successifs sont donc parvenus à maintenir le pouvoir d'achat des retraités. L'actuel Gouvernement conserve cet objectif. En revanche, l'indexation des pensions sur les salaires bruts entraînerait un relèvement important des cotisation sociales à la charge des actifs, et par là-même provoquerait une rupture de l'équilibre, aujourd'hui atteint, des niveaux de vie respectifs des actifs et des retraités. Telles sont les raisons qui justifient le choix du Gouvernement, dans le contexte économique actuel, de garantir le pouvoir d'achat des retaités, et de préserver des gains modérés de pouvoir d'achat pour les salariés. Le Gouvernement est toutefois favorable à ce que, au-delà du strict maintien du pouvoir d'achat des pensions, lorsque la situation économique le permet, les retraités soient associés aux progrès de l'économie.
