@@ -1,4 +1,4 @@
-# Article ANNEXE
+# Article Annexe
 
 ANNEXE À L'ARRÊTÉ DU 26 JUIN 1990
 
@@ -68,7 +68,7 @@ Comité technique paritaire ministériel ;
 
 Comité Toxicologie ;
 
-Comité Transformations agro-alimentaires ;
+Comité Technologie et qualité alimentaire ;
 
 Comité Valorisation des ressources minérales ;
 
@@ -114,15 +114,13 @@ Comité pour l'électronique ;
 
 Comité pour l'informatique ;
 
-Comité pour l'instrumentation ;
-
 Comité Grands colloques de prospective ;
 
 Comité pour l'optique ;
 
 Comité Physicochimie des interfaces ;
 
-Comité de pilotage Aliment 2002 ;
+Comité de pilotage Agriculture et Aliment de demain ;
 
 Comité Ressources naturelles ;
 
@@ -132,12 +130,40 @@ Comité scientifique du programme national d'électronique et d'informatique ;
 
 Commission Gestion de l'arbre dans l'espace rural en zone tropicale humide ;
 
-Groupe d'experts Capteurs ;
-
 Groupe d'experts Génie des procédés ;
 
 Groupe de réflexion sur les actions de recherche de base en informatique du ministère de la recherche et de la technologie.
 
+commission consultative permanente d'oenologie ;
+
+commission consultative pour la formation professionnelle des experts-comptables ;
+
+comité Capteurs, microtechniques et microsystèmes ;
+
+comité de chimie ;
+
+comité scientifique de l'appel d'offres Ergonomie et productivité ;
+
+conseil d'orientation sur les matériaux (Comat) ;
+
+conseil scientifique de la recherche universitaire ;
+
+comité de désignation du jury de l'Institut universitaire de France ;
+
+groupe interministériel sur les matériaux (G.I.M.) ;
+
+groupes d'experts de la Mission scientifique et technique ;
+
+groupes de réflexion de la Mission scientifique et technique ;
+
+jury de l'Institut universitaire de France ;
+
+représentation des directeurs scientifiques pédagogiques et techniques au comité national du C.N.R.S.
+
 NOTA :
 
 Décret 2006-781 du 3 juillet 2006 art. 12 X : Dans tous les textes où il est fait mention, pour les déplacements temporaires, des décrets des 12 mars 1986,12 avril 1989,28 mai 1990 et 22 septembre 1998, ces références sont remplacées par celles du présent décret à compter du 1er novembre 2006.
+
+Décret n° 2006-672 du 8 juin 2006 art. 17 : Les dispositions réglementaires instituant des commissions administratives définies à l'article 1er créées avant la date de publication du présent décret sont abrogées au terme d'un délai de trois ans à compter de cette date (Comité national de coordination pour la recherche au service du développement).
+
+art. 18 : L'abrogation ou la caducité des dispositions créant une commission dont l'avis est requis préalablement à une décision prise par l'autorité administrative entraîne celle des dispositions réglementaires prévoyant sa consultation.
