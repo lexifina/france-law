@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920822591
+
+- Question : [SEQ920822591](seq920822591.md) — Prélèvements obligatoires
+
+## Réponse
+
+*Premier ministre, JO du 1992-09-17, page 2106*
+
+Réponse. - La croissance des prélèvements obligatoires, qui était importante depuis 1970 (voir tableau ci-après) a reçu un coup d'arrêt en 1984. Depuis 1988, le taux de prélèvement obligatoire est inférieur à 44 p. 100 alors qu'il était de 44,6 p. 100 en 1984. La hausse minime (0,2 point) de 1991 doit être relativisée ; elle remet en cause la décrue passée. Elle s'explique uniquement par des prélèvements exceptionnels sur la trésorerie d'organismes publics, que l'INSEE assimile à des impôts. Les prélèvements de l'Etat, qui sont le plus directement de la responsabilité du gouvernement, ont décru en 1991 de 0,5 point de PIB en raison notamment des allégements fiscaux nets dont ont profité les agents économiques. Les ménages ont ainsi bénéficié de 4,2 MF d'allégements de TVA (principalement, réduction du taux majoré de 25 à 22 p. 100, passage au taux de 2,1 p. 100 de la TVA sur redevance audiovisuelle). Le prélèvement fiscal sur les entreprises a été réduit d'environ 7 MF (baisse de 37 à 34 p. 100 du taux de l'IS sur les bénéfices non distribués, plafonnement de la taxe professionnelle à 3,5 p. 100 de la valeur ajoutée, suppression des rémanences de TVA sur le fioul et le gazole, amélioration du crédit d'impôt recherche). Au total les prélèvements de l'Etat ont diminué de près de 2 points de PIB depuis 1984, sous l'effet de la politique d'allégements fiscaux. L'action du Gouvernement contre l'alourdissement des prélèvements obligatoires se poursuit. En 1992, la réduction de l'impôt sur les bénéfices distribués et la suppression du taux majoré de TVA vont alléger les prélèvements de l'Etat. Par ailleurs, un effort de maîtrise des
