@@ -1,0 +1,9 @@
+# Réponse à la question SEQ891106856
+
+- Question : [SEQ891106856](seq891106856.md) — Mesures en faveur du travail temporaire
+
+## Réponse
+
+*Travail, JO du 1990-02-22, page 372*
+
+Réponse. - Le rapport relatif au recours au travail temporaire et à durée déterminée et ses conséquences sur le marché de l'emploi, déposé au Parlement le 13 octobre dernier, fait état notamment d'une progression accélérée du recours aux formes d'emploi précaire mais aussi d'une multiplication depuis 1988 de pratiques abusives, lesquelles s'opèrent au détriment des salariés concernés. C'est la raison pour laquelle il convient aujourd'hui d'adapter le régime juridique du contrat de travail à durée déterminée et du travail temporaire afin d'assurer une plus grande stabilité de l'emploi et de renforcer les garanties dont disposent les salariés titulaires de contrats précaires. Ce sont précisément ces objectifs, qui sont assignés au projet de loi qui a été présenté au conseil des ministres du 6 décembre 1989 et déposé au Parlement. Sans remettre en cause les marges de flexibilité dont les entreprises ont besoin pour affronter les fluctuations de la conjoncture économique et la compétition internationale, le projet procède donc à un aménagement des conditions de recours aux contrats précaires, au renforcement des sanctions civiles et pénales ainsi qu'à une amélioration de la protection des salariés en cause contre les risques professionnels. En outre, et pour éviter que les modifications apportées aux dispositions du code du travail relatives au contrat à durée déterminée et au travail temporaire ne conduisent certaines entreprises à recourir à des formes de fausse sous-traitance ou de prêt de main-d'oeuvre illicites, le projet de loi renforce les dispositions destinées à contrecarrer le développement de telles pratiques, qui nuisent aux salariés et faussent la concurrence.
