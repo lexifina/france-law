@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901112455
+
+- Question : [SEQ901112455](seq901112455.md) — Réforme de l'assiette des cotisations sociales agricoles
+
+## Réponse
+
+*Agriculture, JO du 1991-02-07, page 243*
+
+Réponse. - Ainsi que le remarque justement l'honorable parlementaire, la réforme de l'assiette des cotisations sociales agricoles entreprise par la loi du 23 janvier 1990 vise à terme, en substituant au revenu cadastral des terres mises en valeur les revenus professionnels dégagés par l'exercice d'une activité non salariée agricole, à rendre plus transparente et plus équitable la répartition des charges entre les agriculteurs. Afin d'éviter les transferts qui pourraient résulter du nouveau système, le Gouvernement a décidé de mettre en place progressivement la réforme ; c'est ainsi qu'en 1990, une partie seulement des cotisations d'assurance maladie et d'assurance vieillesse a été calculée sur les revenus professionnels de 1988, la plus grande part desdites cotisations restant déterminée sur la base du revenu cadastral des exploitations. Si l'augmentation globale des cotisations sociales agricoles au titre de l'année 1990, toutes assiettes confondues était de l'ordre de 7,8 p. 100 compte tenu de la nécessité de compenser les nouvelles étapes de démantèlement des taxes sur les produits supportées par certains producteurs et intervenues en 1989 et 1990, les augmentations supérieures qui peuvent être constatées au niveau individuel sont dues soit aux modifications structurelles des exploitations d'une région agricole donnée, soit à l'importance des revenus professionnels pris en considération. Néanmoins, il est rappelé que vis-à-vis des agriculteurs qui rencontrent des difficultés, le ministre de l'agriculture et de la forêt a pris un certain nombre de mesures sociales et financières permettant de leur accorder des échéanciers de paiement voire, dans certains cas, la prise en charge partielle des cotisations sociales agricoles.
