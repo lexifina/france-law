@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991221253
+
+- Question : [SEQ991221253](seq991221253.md) — Défense des intérêts de l'acheteur de bonne foi d'un véhicule volé
+
+## Réponse
+
+*Justice, JO du 2000-05-25, page 1880*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que les dispositions du code civil régissant la revendication des meubles volés ne négligent pas les intérêts des acquéreurs de bonne foi. Alors que le propriétaire d'une chose perdue ou volée peut normalement exercer une action en revendication pendant trente ans à l'encontre du voleur ou du possesseur de mauvaise foi, l'article 2279 alinéa 2 du code civil enferme cette action dans un délai beaucoup plus court de trois ans lorsqu'elle est dirigée contre un acquéreur de bonne foi. L'article 2280 du même code oblige de surcroît le propriétaire, pour pouvoir reprendre son bien, à rembourser à l'acquéreur le prix que la chose lui a coûté, chaque fois que celle-ci a été achetée dans une vente publique, une foire ou un marché, ou chez un " marchand vendant des choses pareilles ". L'acquéreur peut enfin exercer une action en garantie d'éviction à l'encontre de son vendeur, qui lui permet d'être remboursé du prix qu'il a payé, s'il ne l'a pas été déjà par le revendiquant, et d'obtenir des dommages-intérêts réparant le préjudice qu'il a subi. Ainsi, loin de désavantager les acquéreurs de biens volés, le droit actuel réalise-t-il un équilibre entre leurs intérêts et ceux des propriétaires originaires. Le Gouvernement n'entend pas dans ces conditions donner suite à la proposition de création d'un fonds de compensation présentée par l'honorable parlementaire, d'autant que le mécanisme suggéré repose sur la faculté pour le fonds de recourir contre l'assureur du vendeur, qui se révélera souvent illusoire en l'absence d'assurance obligatoire.
