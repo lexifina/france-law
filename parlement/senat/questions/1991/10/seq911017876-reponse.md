@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911017876
+
+- Question : [SEQ911017876](seq911017876.md) — Conseil supérieur des Français de l'étranger
+
+## Réponse
+
+*Affaires étrangères, JO du 1992-01-30, page 244*
+
+Réponse. - Les crédits alloués annuellement au secrétariat général du Conseil supérieur des Français de l'étranger dans le cadre de la loi de finances (chapitre 46-94, article 20, paragraphe 10) sont intégralement utilisés pour assurer, d'une part, l'organisation, la tenue et le suivi des formations du conseil et, de l'autre, pour couvrir partiellement les frais engagés par les membres élus du Conseil supérieur, à l'occasion de leur mandat. En 1991, les crédits accordés à ce titre se sont élevés à 8 136 169 francs, dont 1,2 franc pour le remboursement des frais d'élection (mesure non reconductible). Ces sommes ont permis notamment d'organiser : la réunion, à trois reprises, du bureau permanent, celle de la commission des affaires économiques et de la commission des affaires sociales, ainsi que la réunion de l'assemblée plénière du conseil. Ce budget a également permis la prise en charge par le ministère des affaires étangères, outre les frais résultant des élections, de la dépense (2 814 462 francs) occasionnée par l'institution de l'indemnité complémentaire prévue par les dispositions législatives et réglementaires récemment adoptées, ainsi que de l'assurance contractée en faveur des délégués participant aux réunions du conseil ou des organes en dépendant. En 1992, les crédits inscrits en loi de finances s'élèvent à 7 118 169 francs, en progression de 182 000 francs sur l'année précédente, devant ainsi permettre d'assurer, dans des conditions sensiblement identiques à celles de 1991 - année pour laquelle le budget a connu une augmentation de près de 40 p. 100 - le fonctionnement du C.S.F.E.
