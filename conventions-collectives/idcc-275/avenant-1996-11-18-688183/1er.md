@@ -1,4 +1,4 @@
-# Article 1
+# Article 1er
 
 Ainsi que le prévoit le code du travail, il convient d'actualiser régulièrement les systèmes de classification en vigueur.
 

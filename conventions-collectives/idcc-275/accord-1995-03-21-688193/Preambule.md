@@ -8,11 +8,9 @@ A ce titre, la formation professionnelle est une démarche essentielle :
 
 - pour le développement des qualifications des salariés ;
 
-- pour répondre aux évolutions économiques du secteur et, notamment, pour anticiper les évolutions technologiques, les nouveaux services, et pour se conformer aux nouvelles dispositions applicables aux professions réglementées, en particulier dans le cadre de la construction européenne ou des normes O.A.C.I. ;
+- pour répondre aux évolutions économiques du secteur et, notamment, pour anticiper les évolutions technologiques, les nouveaux services, et pour se conformer aux nouvelles dispositions applicables aux professions réglementées, en particulier dans le cadre de la construction européenne ou des normes OACI ;
 
-- pour favoriser l'insertion des jeunes sans qualification dans les entreprises de transport aérien. Les partenaires sociaux confirment que les contrats d'insertion en alternance, notamment, doivent remplir ce rôle pour autant que ceux-ci ne soient pas détournés de leur finalité en facilitant l'emploi précaire et à moindre coût ;
-
-- pour favoriser le maintien et le développement de l'emploi, la promotion professionnelle des salariés, l'égalité professionnelle entre les hommes et les femmes.
+- pour favoriser l'insertion des jeunes sans qualification dans les entreprises de transport aérien. Les partenaires sociaux confirment que les contrats d'insertion en alternance, notamment, doivent remplir ce rôle pour autant que ceux-ci ne soient pas détournés de leur finalité en facilitant l'emploi précaire et à moindre coût.
 
 La réalisation de ces objectifs passe par une démarche d'évaluation des besoins au niveau de la branche, qui sera entreprise dans les plus brefs délais. A partir d'un constat fondé sur ces études prospectives, la branche professionnelle pourra mettre en place un engagement de développement de la formation.
 
