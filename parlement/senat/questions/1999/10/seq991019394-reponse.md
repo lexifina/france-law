@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991019394
+
+- Question : [SEQ991019394](seq991019394.md) — Recyclage des traverses de chemin de fer
+
+## Réponse
+
+*Aménagement du territoire, JO du 2000-07-06, page 2377*
+
+Réponse. - La ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question relative aux problèmes posés par les déchets de bois traités à la créosote. Les services du ministère de l'aménagement du territoire et de l'environnement ont recensé les sites qui ont été pollués du fait d'activités de traitement du bois par la créosote. Les actions nécessaires ont été demandées aux responsables et sont en cours sur plusieurs des sites concernés. Des informations sur le suivi de cette action sont disponibles sur le site Internet du ministère. En ce qui concerne le recyclage des déchets de bois créosotés, il est à noter que la nouvelle nomenclature européenne des déchets va permettre de classer en tant que déchet dangereux les déchets de bois traités avec un produit classé dangereux. La proposition d'inclure les déchets de bois traités à la créosote dans la nouvelle nomenclature européenne comme déchet dangereux a été acceptée. Cette nomenclature imposera donc que les bois traités à la créosote suivent, impérativement, les filières dédiées aux déchets industriels spéciaux. Toutefois, il convient de rappeler que l'arrêté du 7 août 1997 interdit l'utilisation des déchets de bois créosotés pour l'utilisation sous forme de piquets dans les jardins publics ou comme piquets de vigne. L'article 2-4 interdit, en effet, l'utilisation de ces bois dans les équipements d'aires collectives de jeux, mais aussi tout contact avec des produits destinés à la consommation humaine ou animale. Les entreprises ne respectant pas cet arrêté sont donc susceptibles de poursuites lors d'un contrôle effectué par les inspecteurs du travail ou les services de la direction départementale des affaires sanitaires et sociales (DDASS).
