@@ -1,3 +1,0 @@
-# Article 1er
-
-Le présent accord a pour objet, conformément aux dispositions de l'article 3 de l'accord cadre du 2 avril 1985 relatif à la reprise des négociations dans la branche du vitrail, de substituer aux classifications prévues par la convention collective nationale du vitrail du 15 novembre 1971 un nouveau système de classement regroupant l'ensemble des catégories ouvriers, employés, techniciens, agents de maîtrise et cadres en huit positions.
