@@ -1,33 +1,21 @@
 # Article Annexe art. 8
 
-Parmi les barèmes de prêts conventionnés, l'organisme prêteur doit prévoir des formules de prêts à taux fixe ou progressif qui doivent être assortis, conformément aux prescriptions de l'article 10 du décret du 22 novembre 1977, d'annuités progressives.
+1° Les prêts conventionnés à annuités progressives consentis avant le 31 décembre 1984 peuvent, par convention entre les parties, être aménagés et leur durée initiale prolongée :
 
-En outre, l'organisme prêteur peut proposer des prêts à taux fixe et à annuités constantes ainsi que des prêts à taux révisable, ces derniers devant être consentis aux conditions prévues à l'article 12 du décret du 22 novembre 1977. La révisabilité du taux est déclenchée par l'évolution d'un ou plusieurs index (1).
+-jusqu'à vingt-cinq ans au maximum dans le cas d'opérations prévues aux 1° et 3° de l'article R. 331-63 du code de la construction et de l'habitation ;
 
-Lorsque l'organisme prêteur choisit de combiner plusieurs index pour une catégorie de prêts, la pondération entre ces index est fixée ne varietur lors du dépôt du barème.
+-jusqu'à quinze ans au maximum dans le cas d'opérations prévues aux 2° et 4° de l'article R. 331-63 du même code.
 
-Ce choix pourra faire l'objet d'une modification chaque année à la date anniversaire de la convention. Cette modification sera notifiée au Crédit foncier par simple lettre adressée au plus tard un mois avant la date d'entrée en vigueur du ou des nouveaux index.
+Cette faculté est subordonnée à la condition que le taux effectif global du prêt initialement fixé ne soit pas augmenté.
 
-Le taux n'est révisé que dans la mesure où la mise en jeu des clauses de révision prévues aux contrats conduit à une variation de ce taux, tant à la hausse qu'à la baisse, d'au moins 25 centimes.
+2° Les formules de prêts visées au 1° du présent article :
 
-Ces révisions prennent effet à compter de la plus prochaine échéance.
+Perdent leur qualité de prêt conventionné et leur éligibilité à l'APL au-delà des durées fixées au 1o du présent article ;
 
-(1) Index à choisir par l'organisme prêteur sur la liste ci-après :
+Peuvent déroger aux règles régissant les formules de prêt à taux progressifs définies au paragraphe 2 de l'article 7 de la présente convention, dans les limites suivantes :
 
-Taux de base bancaire ;
+-les intérêts reportés majorés du capital restant dû ne peuvent excéder de plus de 18 % le montant du capital emprunté ;
 
-Taux d'intervention de la Banque de France sur le marché monétaire contre bons du Trésor à trois mois ;
+-les intérêts reportés majorés du capital restant dû ne peuvent excéder le montant du capital emprunté au-delà des 7/10 de la nouvelle durée du prêt.
 
-Taux de mobilisation des effets représentatifs de crédits à moyen terme à un mois ou, à défaut, au jour le jour ;
-
-Taux moyen pondéré des effets d'une durée de cinq ans négociés sur le marché hypothécaire ;
-
-Taux de rendement moyen brut des emprunts de 1re ou 2e catégorie pondéré en fonction des transactions boursières et publié par la caisse des dépôts et consignations ;
-
-Taux des bons d'épargne à cinq ans ;
-
-Taux des bons du Trésor sur formules souscrits par le public à cinq ans ;
-
-Taux des comptes sur livrets ;
-
-Taux des prêts conventionnés à taux fixe.
+Ces dispositions sont également applicables, quelles que soient les caractéristiques initiales et la date d'octroi du prêt conventionné, dès lors que le titulaire du prêt bénéficie d'une décision de recevabilité de son dossier pour l'élaboration d'un plan conventionnel et de règlement prévue par la loi n° 89-1010 du 31 décembre 1989 relative à la prévention et au règlement des difficultés liées au surendettement des particuliers et des familles, ou, le cas échéant, d'une décision du juge d'instance visant à assurer le redressement judiciaire civil.

@@ -1,31 +1,37 @@
 # Article Annexe art. 9
 
-Les taux d'intérêt maxima des prêts conventionnés sont définis par l'addition d'un taux publié par le Crédit foncier de France et d'une marge, déterminés de la manière suivante :
+Les prêts conventionnés doivent respecter des taux maxima.
 
-a) Le taux de référence publié par le Crédit foncier de France.
+Ces taux sont définis par l'addition d'un taux de référence et d'une marge déterminés sur les bases suivantes :
 
-1. Le premier taux de référence publié par le Crédit foncier de France à compter de la publication du présent arrêté est égal à la moyenne, au deuxième trimestre 1992, arrondie à la deuxième décimale à 0, 05 % près, des taux moyens mensuels de rendement sur le marché secondaire des emprunts d'Etat d'une durée supérieure à sept ans (T.M.E.) publiés par la Caisse des dépôts et consignations.
+1. Taux de référence.
 
-2. Chaque mois, le Crédit foncier de France calcule :
+Le premier taux de référence, calculé et publié par le Crédit foncier à compter de la publication de l'arrêté du 23 juillet 1992, est égal à la moyenne, au deuxième trimestre 1992, arrondie à la deuxième décimale à 0,05 % près, des taux moyens mensuels de rendement sur le marché secondaire des emprunts d'Etat d'une durée supérieure à sept ans (TME) publiés par la Caisse des dépôts et consignations.
 
--un taux de référence, égal à la moyenne des T.M.E. des trois derniers mois ;
+Les taux de référence successifs, calculés et publiés par le Crédit foncier de France, sont calculés et publiés par la SGFGAS à compter de la date de publication de l'arrêté approuvant la convention type.
 
--l'écart entre ce taux de référence et le dernier taux publié.
+Chaque mois, la SGFGAS calcule :
 
-3. Le Crédit foncier de France publie le taux de référence, arrondi à la deuxième décimale à 0, 05 % près, chaque fois que la somme des écarts mensuels calculés depuis la dernière publication est supérieur à 0, 25 % en valeur absolue.
+- un taux de référence, égal à la moyenne des TME des trois derniers mois ;
 
-4. Le taux de référence publié par le Crédit foncier de France est applicable le premier jour du mois suivant la publication de ce taux.
+- l'écart entre ce taux de référence et le dernier taux publié.
 
-b) La marge :
+La SGFGAS publie le taux de référence, arrondi à la deuxième décimale à 0,05 % près, chaque fois que la somme des écarts mensuels calculés depuis la dernière publication est supérieure à 0,25 % en valeur absolue.
 
-La marge est fixée pour les prêts à taux fixe, qu'ils soient à annuités constantes, progressives ou indexées :
+Le taux de référence publié par la SGFGAS est applicable le premier jour du mois suivant la publication de ce taux.
 
--à 2, 3 points pour les prêts d'une durée inférieure ou égale à douze ans ;
+2. Marge.
 
--à 2, 5 points pour les prêts d'une durée supérieure à douze ans et inférieure ou égale à quinze ans ;
+La marge est ainsi fixée pour les prêts à taux fixe, qu'ils soient à annuités constantes, progressives ou indexées :
 
--à 2, 65 points pour les prêts d'une durée supérieure à quinze ans et inférieure ou égale à vingt ans ;
+2,30 points pour les prêts d'une durée inférieure ou égale à douze ans ;
 
--à 2, 75 points pour les prêts d'une durée supérieure à vingt ans.
+2,50 points pour les prêts d'une durée supérieure à douze ans et inférieure ou égale à quinze ans;
 
-La marge applicable au taux d'intérêt des prêts à taux variable ou révisable, quelle que soit la durée des prêts, ne peut excéder 2, 3 points.
+2,65 points pour les prêts d'une durée supérieure à quinze ans et inférieure ou égale à vingt ans ;
+
+2,75 points pour les prêts d'une durée supérieure à vingt ans.
+
+Pour les prêts à taux révisable, la marge ne peut excéder 2,30 points, quelle que soit la durée du prêt.
+
+La marge applicable aux prêts éligibles au FGAS est inférieure de 0,6 point aux marges fixées ci-dessus.
