@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991120603
+
+- Question : [SEQ991120603](seq991120603.md) — Démission au Conseil national de la science
+
+## Réponse
+
+*Éducation, JO du 2000-03-09, page 874*
+
+Réponse. - Le Conseil national de la science (CNS) institué par le décret nº 98-938 du 20 octobre 1998 s'est réuni trois fois depuis sa création. A l'issue de la dernière réunion du 1er octobre 1999, trois membres ont présenté leur démission, en critiquant le fonctionnement du CNS. Si la première séance a effectivement été consacrée à une information sur son mode de fonctionnement et sur les grandes orientations de la politique de recherche du Gouvernement, par la suite, et au cours de la dernière séance en particulier, une large discussion très ouverte s'est instaurée sur les questions inscrites à l'ordre du jour (dont certaines à la demande expresse des membres du Conseil). Au lendemain de ces démissions, plusieurs membres ont tenu d'ailleurs à témoigner de leur intérêt pour le contenu et la tenue des débats au sein du Conseil. Ceux-ci considèrent notamment que leur rôle n'est pas celui d'observateurs passifs, mais de participants actifs, prêts à débattre de façon critique et constructive, en exposant leurs opinions personnelles en toute indépendance, permettant dans ce cadre d'apporter au Gouvernement les conseils utiles à la formulation d'initiatives destinées à développer le potentiel français de la recherche. Quatre nouvelles personnalités viennent d'être nommées pour remplacer les trois membres démissionnaires et un membre décédé (arrêté du 26 janvier 2000 - JO du 28 janvier 2000). Le Conseil national de la science continuera à se réunir au rythme de deux à trois réunions par an et poursuivra ses travaux avec le souci constant d'améliorer son mode de fonctionnement et la pertinence de ses avis.
