@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000927798
+
+- Question : [SEQ000927798](seq000927798.md) — Transfert aux organismes de sécurité sociale de l'attribution des allocations aux handicapés
+
+## Réponse
+
+*Emploi, JO du 2001-01-18, page 175*
+
+Réponse. - En l'état actuel de la réglementation, la commission technique d'orientation et de reclassement professionnel (COTOREP) évalue le taux d'incapacité, décide de l'attribution de la carte d'invalidité, de l'allocation aux adultes handicapés (AAH) et de l'allocation compensatrice pour tierce personne ou pour frais professionnels (ACTP) et désigne des établissements concourant à la rééducation ou au reclassement des personnes handicapées (ateliers protégés, centres d'aide par le travail notamment). Dès lors, le transfert de l'appréciation de l'incapacité au contrôle médical de la sécurité sociale risquerait de contrevenir à l'un des grands principes de la loi nº 75-534 du 30 juin 1975 en faveur des personnes handicapées, à savoir le maintien d'une instance chargée de prendre l'ensemble des décisions d'orientation et d'aide aux personnes handicapées. Cette modification interviendrait alors que l'implication du service médical des caisses dans la gestion de la maîtrise médicalisée des dépenses et le contrôle des professionnels et établissements de santé est très forte. De même, le fait de confier la décision et la gestion administrative de l'attribution médicale en même temps que le paiement de l'allocation aux caisses de sécurité sociale implique le déploiement de moyens administratifs non négligeables au moment où la mise en uvre et la gestion de la couverture maladie universelle requièrent des moyens supplémentaires importants. Cette proposition, contenue dans le rapport de l'inspection générale des finances et de l'inspection générale des affaires sociales de juin 1998, a fait alors, avant d'être écartée, l'objet d'un examen très approfondi de la part du Gouvernement.
