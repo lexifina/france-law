@@ -12,9 +12,9 @@ La durée du travail d'une semaine à l'intérieur de cette durée moyenne ne pe
 
 Repos hebdomadaire
 
-Chaque salarié travaillant à temps complet bénéficie au minimum de deux jours de repos hebdomadaire.
+Chaque salarié travaillant à temps complet bénéficiera de deux jours de repos hebdomadaire qui seront pris par journée entière ou par demi-journée avec obligatoirement une journée complète.
 
-Chaque entreprise négociera des aménagements à la présente clause pour tenir compte de ses spécificités techniques, économiques et sociales, pour que les jours de repos hebdomadaire puissent être pris par roulement ou consécutifs (du lundi au dimanche dans une périodicité à négocier), par journée entière ou demi-journée.
+Chaque entreprise négociera des aménagements à la présente clause pour tenir compte de ses spécificités techniques, économiques et sociales, pour que les jours de repos hebdomadaire puissent être pris par roulement ou consécutifs, dans le respect des dispositions légales en vigueur.
 
 642 - Heures supplémentaires.
 
