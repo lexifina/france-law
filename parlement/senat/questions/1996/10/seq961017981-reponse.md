@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961017981
+
+- Question : [SEQ961017981](seq961017981.md) — Echelonnement de la hausse des surloyers
+
+## Réponse
+
+*Équipement, JO du 1996-12-26, page 3510*
+
+Réponse. - Une famille à laquelle est attribué un logement HLM bénéficie de la solidarité nationale au travers des aides à la pierre accordées par l'Etat. Il est juste, dès lors que les revenus de cette famille, bénéficiant également du droit au maintien dans les lieux, viennent à dépasser de manière significative les plafonds de ressources fixés pour l'attribution des logements HLM, qu'elle contribue à la solidarité nationale en versant un supplément de loyer de solidarité à son bailleur social. La loi no 96-162 du 4 mars 1996 prévoit donc l'obligation de paiement d'un supplément de loyer dès lors que les revenus dépassent d'au moins 40 % les plafonds de ressources fixés pour l'attribution des logements HLM. Entre 10 et 40 % de dépassement, la perception du supplément de loyer de solidarité est laissée à la libre appréciation du bailleur. Afin d'éviter que la mise en application de la loi n'aboutisse, pour les locataires redevables du supplément de loyer de solidarité, à une augmentation trop brusque de la part des dépenses de logement dans leur budget, la loi plafonne à 25 % des ressources de l'ensemble des personnes vivant au foyer le montant du loyer principal et du supplément de loyer, quelle que soit l'ampleur du dépassement des plafonds de ressources. Les personnes assujetties au supplément de loyer de solidarité se trouvent ainsi bénéficier d'une garantie de limitation de la dépense qui n'existe ni pour les autres locataires du parc social ni pour les locataires du parc privé. En conséquence, aucune autre mesure relative à l'échelonnement du montant de la dépense de logement n'a été prise.
