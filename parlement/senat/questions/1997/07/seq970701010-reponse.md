@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701010
+
+- Question : [SEQ970701010](seq970701010.md) — Protection de la jeunesse face à la prolifération des jeux de rôle et des jeux électroniques violents
+
+## Réponse
+
+*Culture, JO du 1997-10-30, page 2978*
+
+Réponse. - Le Gouvernement partage les préoccupations de l'honorable parlementaire. Dans cet esprit, il lui est apparu nécessaire d'instituer un dispositif de contrôle pour les documents fixés sur supports magnétique (vidéocassettes), semi-conducteur (jeux vidéo) et optique (vidéodisques, CD-Rom, CDI), qu'aucune législation ne permet actuellement d'interdire de vente aux mineurs. Un projet de loi renforçant la prévention et la répression des atteintes sexuelles ainsi que la protection des mineurs victimes de ces infractions a été récemment élaboré en ce sens. Il vise à instaurer une procédure permettant à l'autorité administrative d'interdire la diffusion aux mineurs des documents fixés sur support électronique ou magnétique mis à la disposition du public dont le contenu est susceptible de porter atteinte à la dignité de la personne humaine. Ce projet de loi prévoit à cette fin d'instituer un mécanisme, inspiré de celui prévu par l'article 14 de la loi du 16 juillet 1949 sur les publications destinées à la jeunesse, qui permettra à l'autorité administrative d'interdire la diffusion aux mineurs des documents fixés sur support électronique ou magnétique dont le contenu serait contraire à la dignité de la personne humaine. L'autorité administrative pourra prononcer, d'une part, l'interdiction de diffusion aux mineurs proprement dite et, d'autre part, l'interdiction complémentaire de faire de la publicité en faveur du document (sauf dans les lieux dont l'accès est interdit aux mineurs). Ces décisions seront prises par arrêté motivé après consultation d'une commission administrative. Ce projet de loi est actuellement en cours de discussion devant le Parlement.
