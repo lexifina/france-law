@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001028151
+
+- Question : [SEQ001028151](seq001028151.md) — Allocation adulte handicapé
+
+## Réponse
+
+*Économie, JO du 2000-12-28, page 4472*
+
+Réponse. - L'allocation aux adultes handicapés (AAH) est une prestation non contributive qui vise à garantir un revenu minimum à toute personne reconnue handicapée par la commission technique d'orientation et de reclassement professionnel. Il est dès lors fondé de subordonner son attribution à une condition de ressources et de réduire en conséquence le montant de la prestation lorsque le bénéficiaire ou son conjoint dispose par ailleurs d'autres revenus. Toutefois, les modalités concrètes de prise en compte des ressources prévues par la réglementation sont favorables au cumul de l'allocation avec les revenus du conjoint. En effet, le plafond de ressources applicable à l'AAH, qui est égal pour une personne seule au plafond de ressources du minimum vieillesse, est doublé pour les couples et majoré de 50 % par enfant à charge. En outre, les revenus pris en compte sont les ressources nettes catégorielles de la personne ou du ménage perçues durant l'année civile précédant celle de l'ouverture ou du réexamen du droit, après abattements fiscaux normaux (10 % et 20 %) et abattement spécifique aux invalides prévu à l'article 157 bis du code général des impôts. En pratique, l'AAH est ainsi cumulable avec les ressources du conjoint approximativement égales au Smic mensuel. Enfin, le complément d'AAH d'un montant de 572 francs par mois, ouvert aux personnes vivant de façon autonome à leur domicile et dont le taux d'incapacité est supérieur ou égal à 80 %, et la non-prise en compte de l'allocation compensatrice pour tierce personne dans la base ressources de l'AAH, contribuent à faire face aux dépenses spécifiques liées au handicap, telles que l'achat de matériel technique ou les services d'une assistante ménagère.
