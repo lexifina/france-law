@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030507248
+
+- Question : [SEQ030507248](seq030507248.md) — Responsabilité environnementale
+
+## Réponse
+
+*Agriculture, JO du 2003-10-02, page 2964*
+
+Le ministre de l'agriculture, de l'alimentation, de la pêche et des affaires rurales a pris connaissance avec intérêt de la question relative à la définition de la responsabilité des acteurs en matière d'organismes génétiquement modifiés. Le projet de directive européenne sur la responsabilité environnementale a pour objet de définir la structure du futur système communautaire de responsabilité environnementale, qui vise à mettre en oeuvre le principe du pollueur-payeur. Il devrait couvrir les dommages environnementaux : qualité des eaux, pollution des sols et biodiversité, au sens des habitats et espèces naturels protégés. Il importe de mettre en place un régime de responsabilité économique en cas de contamination des cultures et denrées par les OGM, et cette question a été soulevée au conseil agricole du 20 février 2003. Une réflexion est donc conduite au niveau commuanutaire en vue d'établir des lignes directrices permettant la coexistence des agricultures conventionnelle, biologique et de l'agriculture ayant reocurs aux OGM. Il est essentiel de préserver le libre choix des agriculteurs de mettre en oeuvre le mode de production qu'ils ont choisi. Dès lors, le rôle de la puissance publique est de veiller, d'une part, à ce que les agriculteurs désireux de recourir aux avancées technologiques permises par les OGM puissent y avoir accès en toute sécurité et, d'autre part, à ce que les producteurs attachés à des modes de production plus traditionnels ne subissent aucun préjudice économique. Des propositions seront faites prochainement par les services du ministère de l'agriculture, de l'alimentation, de la pêche et des affaires rurales en vue de répondre à cette problématique.
