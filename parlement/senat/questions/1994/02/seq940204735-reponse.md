@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940204735
+
+- Question : [SEQ940204735](seq940204735.md) — Difficultés du petit commerce
+
+## Réponse
+
+*Entreprises, JO du 1994-04-07, page 796*
+
+Réponse. - L'ordonnance no 86-1243 du 1er décembre 1986 prévoit que les pratiques discriminatoires injustifiées peuvent entraîner une réparation civile. Ainsi, l'article 36 modifié vise tout particulièrement le fait de pratiquer des prix, délais de paiement ou conditions de ventes discriminatoires non justifiés par des contreparties réelles, de refuser de satisfaire aux demandes des acheteurs lorsque celles-ci ne présentent pas un caractère anormal ou sont faites de bonne foi, de subordonner la vente à l'achat d'autres produits ou services ou à des quantités imposées. Par ailleurs, la loi du 31 décembre 1992 relative aux délais de paiement entre les entreprises a introduit des mesures destinées à renforcer la transparence des relations entre fournisseurs et distributeurs par une nouvelle limitation des délais de paiement de certains produits alimentaires et des obligations supplémentaires concernant le contenu des factures. Une transposition dans notre droit du " Robinson Packman Act " ne paraît pas s'imposer, car le dispositif français est très analogue. Il présente d'ailleurs l'avantage de réprimer l'ensemble des discriminations tarifaires illégales, alors que le système américain définit celles-ci de façon plus limitative. En tout état de cause, le Gouvernement est particulièrement sensible aux difficultés que peuvent rencontrer les opérateurs économiques dans l'exercice de leur activité. Une réflexion est actuellement menée en vue d'améliorer encore les conditions d'exercice du commerce par la mise en place de dispositions visant à mieux assurer la loyauté de la concurrence entre les différents opérateurs.
