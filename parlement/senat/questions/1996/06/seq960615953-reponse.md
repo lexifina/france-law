@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960615953
+
+- Question : [SEQ960615953](seq960615953.md) — Envoi par la RATP de matériel à Cuba
+
+## Réponse
+
+*Équipement, JO du 1996-09-12, page 2362*
+
+Réponse. - L'opération, à laquelle l'honorable parlementaire fait référence, consiste en la mise à disposition de la ville de La Havane de 25 autobus par la RATP. Il s'agit d'autobus réformés après plus de 300 000 km qui on fait l'objet d'une vérification générale avec, si besoin était, remise en état des équipements et organes de sécurité. Le coût de l'opération a été de 57 000 F par autobus. Les frais d'acheminement au Havre ont été pris en charge par l'Association Cuba-Coopération ; le transport en bateu a été pris en charge par le Gouvernement cubain. Les dix conteneurs dont fait état l'honorable parlementaire ne faisaient pas partie de l'envoi de la RATP. La décision d'offrir aux transports de La Havane 25 autobus et d'assurer les formations indispensables à leur entretein, tant à Paris pour les Cubains que sur place par des techniciens de la Régie, a été prise par la RATP avec l'accord des autorités de tutelle et diplomatiques. La RATP a d'ailleurs obtenu une aide de l'agence pour la coopération technique industrielle et économique (ACTIM) destinée au financement des formations nécessaires. Les autobus ont été officiellement remis à la ville de La Havane le 29 janvier 1996 en présence des autorités françaises. A cette occasion, deux protocoles d'intention ont été signés avec les responsables cubains, l'un pour la poursuite d'une coopération dans le domaine des autobus, avec la participation de Renault Véhicules Industriels, l'autre pour une coopération avec SYSTRA, filiale d'ingénierie de la SNCF et de la RATP, pour les études d'une première ligne de tramway à La Havane. L'objectif est donc de faire de cette opération la base d'une coopération commerciale ultérieure, dans un contexte qui est déjà fortement concurrentiel.
