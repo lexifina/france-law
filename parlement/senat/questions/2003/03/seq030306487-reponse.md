@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030306487
+
+- Question : [SEQ030306487](seq030306487.md) — Lutte contre l'absentéisme scolaire : nouvelles missions de l'inspecteur d'académie
+
+## Réponse
+
+*Jeunesse, JO du 2003-08-21, page 2631*
+
+S'appuyant sur les conclusions du groupe de travail sur les manquements à l'obligation scolaire, dont le rapport lui a été remis en janvier 2003, le Gouvernement a arrêté un certain nombre de mesures visant à mieux responsabiliser les différents acteurs concernés par la lutte contre ces manquements et à assurer un traitement plus homogène et plus efficace des absences des élèves. Les responsabilités des acteurs seront précisées, tant au niveau de l'établissement scolaire, lieu privilégié du traitement de l'absentéisme et du dialogue avec les familles, qu'au niveau départemental, où des solutions scolaires ou de soutien à la parentalité pourront être proposées. Dans chaque département, une instance partenariale sera mise en place par le préfet, afin de suivre le phénomène de l'absentéisme et de promouvoir les actions les mieux adaptées, et un module de soutien à la responsabilité parentale, destiné aux parents dont les enfants ne remplissent pas les conditions d'assiduité, sera élaboré. Un groupe de suivi interministériel et partenarial, piloté par le délégué interministériel à la famille, est chargé de suivre la mise en oeuvre des mesures retenues, d'accompagner la mise en place et l'évaluation des instances départementales, et de suivre le développement partenarial des stages de soutien à la responsabilité parentale. En cas d'échec des mesures prises à l'égard des élèves et des familles, le parquet sera saisi en dernier recours. Les manquements à l'obligation scolaire sont passibles de sanctions pénales, qui vont être renforcées, pour les personnes responsables de l'enfant.
