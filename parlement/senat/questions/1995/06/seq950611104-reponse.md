@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950611104
+
+- Question : [SEQ950611104](seq950611104.md) — Absence de Minitel dans les agences postales de la Réunion
+
+## Réponse
+
+*Technologies de l'information, JO du 1995-09-07, page 1740*
+
+Réponse. - La convention signée entre France Télécom et La Poste le 26 juin 1991 relative à la dotation en annuaires téléphoniques des établissements de La Poste prévoit l'implantation de Minitel pour les besoins de l'annuaire électronique dans certains de ces établissements. Dans le cadre de cette convention, les agences postales n'ont été dotées, quant à elles, que des seuls annuaires imprimés intégraux (annuaire du département, annuaire des départements limitrophes, annuaire du département siège de la région administrative s'il n'est pas limitrophe). S'agissant du département de la Réunion, une expérience d'annuaire électronique consultable par les clients a été menée en 1992 dans trois bureaux : La Possession, Les Camélias et Saint-Paul. A l'issue de la phase expérimentale, La Poste a abandonné ce projet en raison du très faible nombre de consultations. L'initiative récente de La Poste et de France Télécom dont fait état l'honorable parlementaire d'installer un Minitel dans six bureaux de poste de la Meurthe-et-Moselle fait suite à la signature d'une convention conclue le 7 mars 1995 entre La Poste, France Télécom et l'ANPE. Les sites retenus se situent dans des bassins d'emploi durement touchés par le chômage et assez éloignés des agences locales de l'ANPE. Cette expérience engagée pour une durée de six mois permet aux demandeurs d'emploi de consulter gratuitement les offres d'emplois de l'ANPE. Elle pourra être prolongée, voire étendue à d'autres régions en fonction du degré d'utilisation de ce service et de son efficacité. Aucun contact n'a été pris à ce jour par l'ANPE avec la direction de La Poste de la Réunion.
