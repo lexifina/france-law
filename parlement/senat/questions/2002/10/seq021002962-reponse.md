@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021002962
+
+- Question : [SEQ021002962](seq021002962.md) — Information sur la situation financière de la SNCF
+
+## Réponse
+
+*Équipement, JO du 2003-04-24, page 1406*
+
+La SNCF, à l'image de la plupart des autres entreprises de transports ferroviaires en Europe, subit actuellement directement les effets d'une conjoncture économique défavorable, en particulier pour ce qui concerne l'activité de transport de marchandises. A ce titre, la situation de la SNCF est comparable à celle de ses principales concurrentes européennes. La SNCF avait renoué, en 2000, avec une situation financière équilibrée. Depuis, ses comptes se sont détériorés. Pour 2002, la situation financière de la SNCF sera très dégradée, avec un résultat d'exploitation très largement négatif. L'endettement de l'entreprise restera cependant inférieur au niveau de 7,5 milliards d'euros, qui est l'engagement de son président devant les pouvoirs publics. Le projet de budget de la SNCF pour 2003, qui a été adopté par son conseil d'administration le 29 janvier dernier, prévoit une situation encore déficitaire, avec un déficit courant de 144 millions d'euros en 2003. Il constitue la première étape d'un plan de redressement et de retour à l'équilibre des comptes de l'entreprise, qui s'inscrit dans le " projet industriel " de la SNCF pour les trois prochaines années et qui a fait l'objet de discussions approfondies au sein de l'entreprise l'année passée. Pour ce faire, la SNCF doit tout d'abord abaisser son point mort, rendre son appareil de production plus flexible et plus efficace. Elle doit également améliorer la qualité de son service, en particulier sur le fret, afin d'être en mesure de conquérir de nouvelles parts de marché. Enfin, l'Etat travaille, avec RFF et la SNCF, à l'évolution des grands équilibres du secteur ferroviaire, pour le stabiliser dans son ensemble et donner à la SNCF une meilleure visibilité financière.
