@@ -10,4 +10,6 @@ Le redevable qui estime que sa base d'imposition sera réduite d'au moins 25 % o
 
 Le versement du solde ne sera exigible qu'à partir du 1er décembre.
 
+Les redevables peuvent, sous leur responsabilité, réduire le montant du solde de taxe professionnelle du montant du dégrèvement attendu du plafonnement de la taxe professionnelle due au titre de la même année, en remettant au comptable du Trésor chargé du recouvrement de la taxe professionnelle une déclaration datée et signée.
+
 Les contribuables doivent, un mois au moins avant l'échéance, être informés par l'administration du montant de l'acompte qu'ils auront à verser.
