@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961219494
+
+- Question : [SEQ961219494](seq961219494.md) — Rémunération des fonctionnaires en poste dans les Dom-Tom
+
+## Réponse
+
+*Premier ministre, JO du 1997-03-13, page 761*
+
+Réponse. - Le Gouvernement a engagé, depuis un an, une réflexion sur une réforme du régime de rémunération des fonctionnaires affectés outre-mer. Si l'évaluation économique et sociale des départements et territoires d'outre-mer impose d'approfondir cette réflexion, les fonctionnaires ne doivent en aucun cas être considérés comme des boucs émissaires. C'est pourquoi le Gouvernement a tenu, dès l'origine, à fixer trois lignes directrices aux réformes envisagées : une très large concertation avec tous les partenaires concernés ; le maintien du régime actuel de rémunération pour les fonctionnaires en poste, afin de ne pas créer de rupture brutale ; la volonté d'engager une véritable réforme économique destinée à favoriser le développement et l'emploi local. Cette démarche est très avancée à la Réunion, département d'outre-mer à la fois le plus peuplé et le plus touché par le chômage. A la suite d'une longue concertation, M. de Peretti, ministre délégué à l'outre-mer, vient d'y annoncer le projet gouvernemental qui a été élaboré. Le dispositif retenu est le suivant : les fonctionnaires qui seront nouvellement affectés dans l'île seront rémunérés comme ceux d'Ile-de-France ; par ailleurs, l'indemnité d'éloignement, qui est actuellement égale à douze mois de traitement pour un séjour de quatre années, sera réduite de moitié ; les sommes économisées sur le budget de l'Etat seront intégralement consacrées à des actions en faveur de l'emploi des jeunes Réunionnais et à l'amélioration des services publics. Ce dispositif sera accompagné d'un plan de rattrapage des effectifs d'enseignants dans l'île.
