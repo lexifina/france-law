@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991221108
+
+- Question : [SEQ991221108](seq991221108.md) — Moyens affectés aux groupes de délégués dans les conseils de communautés d'agglomérations
+
+## Réponse
+
+*Intérieur, JO du 2000-02-24, page 692*
+
+Réponse. - Le fonctionnement des groupes d'élus, constitués dans les assemblées territoriales, fait l'objet de dispositions particulières issues de la loi du 19 janvier 1995 relative au financement de la vie politique, qui sont insérées dans le code général des collectivités territoriales à l'article L. 2121-28 pour les conseils municipaux des communes de plus de 100 000 habitants, à l'article L. 3121-24 pour les conseils généraux, à l'article L. 4132-23 pour les conseils régionaux et à l'article L. 5215-18 pour les conseils des communautés urbaines de plus de 100 000 habitants. La loi nº 99-586 du 12 juillet 1999 relative au renforcement et à la simplification de la coopération intercommunale a étendu ce même régime de fonctionnement des groupes d'élus aux conseils de communauté d'agglomération de plus de 100 000 habitants, par l'insertion d'un article L. 5216-4-2 dans le code susvisé. Selon ces dispositions communes aux différentes assemblées concernées, les groupes d'élus ou de délégués peuvent bénéficier, d'une part, de moyens en matériel (local, matériel de bureau, prise en charge des frais de documentation, de courrier et de télécommunication), d'autre part, de moyens en personnels dont la prise en charge financière par la collectivité en cause est plafonnée par la loi à 25 % des indemnités versées chaque année aux membres de l'assemblée. Les moyens matériels dont peuvent bénéficier les élus ou les délégués n'entrent donc pas en compte pour la fixation du plafond des dépenses concernant les personnels affectés auprès des groupes d'élus ou de délégués.
