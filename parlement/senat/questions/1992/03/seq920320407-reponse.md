@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920320407
+
+- Question : [SEQ920320407](seq920320407.md) — Arméniens du Haut-Kharabagh
+
+## Réponse
+
+*Affaires étrangères, JO du 1992-06-04, page 1259*
+
+Réponse. - La France, dès le début de la crise du Nagorny-Karabakh, en raison de ses liens d'amitié historiques avec le peuple arménien, a appelé au règlement pacifique de ce différend. Elle s'est associée, avec ses partenaires de la Communauté, à plusieurs démarches, dont l'une devant l'ONU, lors de l'admission de l'Arménie et l'Azerbaïdjan, pour réitérer sa volonté de voir la paix rétablie dans le Nagorny-Karabakh. Notre pays est intervenu activement dès la fin du mois de janvier pour réclamer l'ouverture de corridors humanitaires destinés à soulager la détresse des populations locales. Le secrétaire d'Etat à l'action humanitaire, qui a présenté cette initiative auprès des deux présidents arménien et azéri, s'est ensuite rendu sur place pour obtenir la création du dispositif. Il a notamment réussi à convoyer à Stepanakert des médicaments et du lait le 22 mars dernier. Reconnaissant ces efforts, la présidence de la CSCE a confié officiellement à M. Kouchner l'ouverture de corridors humanitaires, qui forment un élément majeur des conditions nécessaires à l'ouverture de négociations. Il est en effet essentiel que le blocus imposé contre la population arménienne du Nagorny-Karabakh soit levé. Pour le règlement de la crise, la France, qui a proposé dès le 26 février un " plan de paix " prévoyant un cessez-le-feu immédiat, oeuvre sans relâche dans le cadre de la CSCE, qui paraît, pour l'heure, le cadre le plus approprié. Sur sa proposition, une conférence internationale où seront représentées les populations du Nagorny-Karabakh sera prochainement réunie à Minsk. La France y participera et ne ménagera pas ses efforts pour qu'une paix durable puisse être restaurée dans cette région.
