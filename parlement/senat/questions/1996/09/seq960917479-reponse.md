@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960917479
+
+- Question : [SEQ960917479](seq960917479.md) — Espèces d'oiseaux en disparition
+
+## Réponse
+
+*Environnement, JO du 1997-02-27, page 624*
+
+Réponse. - Mme le ministre de l'environnement a pris connaissance avec intérêt de la question posée par l'honorable parlementaire concernant des espèces d'oiseaux en disparition. Sur le fondement des dispositions du livre II - protection de la nature - du code rural, des arrêtés interministériels fixent les listes des oiseaux protégés en France métropolitaine et dans les départements d'outre-mer. En ce qui concerne la faune métropolitaine, sur les 380 espèces d'oiseaux recencées, dont certaines de passage sur le territoire, 307 sont protégées dont 22 espèces en danger et 29 espèces vulnérables. Pour la plupart de ces espèces, la protection est assurée par le moyen d'une interdiction de la destruction ou de l'enlèvement des oeufs ou des nids, de la mutilation, de la destruction, de la capture ou de l'enlèvement, de la naturalisation des animaux de ces espèces, qu'ils soient vivants ou morts, de leur transport, colportage, utilisation, mise en vente, vente ou achat. Des peines délictuelles sont requises à l'encontre des auteurs d'infractions. Au-delà des mesures réglementaires, dans le cadre d'un programme d'action pour la préservation de la biodiversité en France, le ministère de l'environnement, ses services déconcentrés, d'autres départements ministériels et de nombreux partenaires dont des collectivités territoriales des établissements publics, des associations de la nature coordonnent, financent et réalisent des actions sur le terrain. Les objectifs de celles-ci sont, d'une part, de prévenir les risques de disparition des espèces, notamment par la conservation de leurs habitats et la lutte contre les perturbations d'origine humaine, d'autre part, de renforcer ou de réintroduire des populations d'espèces fortement menacées voir disparues.
