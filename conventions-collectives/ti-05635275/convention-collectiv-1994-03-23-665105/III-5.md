@@ -1,6 +1,6 @@
 # Article III-5
 
-Il est instauré une prime de formation qualification (P.F.Q.) au profit des salariés d'agence.
+Il est instauré une prime mensuelle de formation qualification (P.F.Q.) au profit des salariés d'agence.
 
 III-5.1. Conditions d'attribution
 
