@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940707296
+
+- Question : [SEQ940707296](seq940707296.md) — Participation d'autres Etats à l'action de prévention du génocide au Rwanda
+
+## Réponse
+
+*Affaires étrangères, JO du 1994-09-01, page 2130*
+
+Réponse. - Si les membres de l'Union européenne n'ont, à ce jour, pas envisagé de dépêcher des contingents dans la MINUAR élargie, il n'en reste pas moins que les offres de soutien en matériels se sont multipliées au lendemain de l'intervention du Premier ministre devant l'Organisation des Nations Unies. Elles ont été notamment avancées par la Belgique, l'Allemagne, l'Espagne et l'Italie, les Pays-Bas et le Royaume-Uni ayant avant cette date déjà proposé des équipements. Il en était de même des Etats-Unis qui aident en outre à l'acheminement des contingents. De plus, le Royaume-Uni a pris récemment la décision de déployer six cents hommes à Kigali chargés d'un soutien dans les domaines logistique, médical et du génie. S'agissant des autres Etats, on peut relever que les contributions en troupes sont essentiellement le fait de pays africains (Ghana, Ethiopie, Nigeria, Zimbabwe, Zambie, Tunisie, Malawi, Mali) sans compter le contingent interafricain de l'opération Turquoise composé de forces sénégalaises, tchadiennes, congolaises, nigériennes, bissao-guinéennes, d'une unité médicale mauritanienne auxquelles il convient d'ajouter sept observateurs égyptiens. Les troupes du Sénégal, du Tchad, du Congo, du Niger et de la Guinée-Bissao doivent prochainement être intégrées à la MINUAR élargie. En dehors des participations africaines, il faut noter l'envoi de contingents déjà réalisé par le Canada (unité de transmission de quatre cent quarante hommes) et en cours pour l'Australie (trois cents hommes constituant une équipe médicale avec une compagnie de protection).
