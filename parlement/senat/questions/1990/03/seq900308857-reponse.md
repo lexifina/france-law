@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900308857
+
+- Question : [SEQ900308857](seq900308857.md) — Concession de logement du personnel soignant des établissements d'enseignement
+
+## Réponse
+
+*Éducation, JO du 1990-08-23, page 1823*
+
+Réponse. - Le décret n° 86-428 du 14 mars 1986 fixe, conformément aux dispositions de l'article 14-3 de la loi modifiée n° 83-663 du 22 juillet 1983 complétant la loi n° 83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes, les départements, les régions et l'Etat, les conditions dans lesquelles le maintien des concessions de logement et des prestations accessoires est assuré à certaines catégories de personnels de l'Etat dans les établissements publics locaux d'enseignement relevant de la compétence des départements et des régions, ou, le cas échéant, des communes. Le tableau annexé au décret du 14 mars 1986 a été établi pour fixer la valeur des prestations accessoires accordées gratuitement à la date du transfert de compétences. Cette valeur avait été déterminée en tenant compte des fonctions et des responsabilités exercées par les bénéficiaires de concessions par nécessité absolue de service, sans qu'il soit fait référence au classement dans l'une des quatre catégories d'agents de la fonction publique. La revalorisation indiciaire des infirmières de l'Etat, qui s'inscrit dans un cadre général de revalorisation de la profession des infirmières ne semble pas être un élément nouveau pouvant justifier le passage du personnel soignant de la 3e à la 2e catégorie d'agents définie par l'annexe du décret du 14 mars 1986. Toutefois, les collectivités territoriales peuvent avoir la possibilité d'actualiser différemment la valeur des prestations accessoires accordées gratuitement à chacune des trois catégories de personnels bénéficiaires d'une concession de logement par nécessité absolue de service, sans modifier le classement à l'intérieur de chaque catégorie, fixé en 1986.
