@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950611291
+
+- Question : [SEQ950611291](seq950611291.md) — Droits de mutation à titre onéreux
+
+## Réponse
+
+*Économie, JO du 1995-11-30, page 2256*
+
+Réponse. - La taxe départementale exigible sur les mutations à titre onéreux d'immeubles affectés à l'habitation est transférée aux départements depuis 1985. Son tarif, qui était de 4,2 p. 100 au moment du transfert, est désormais fixé annuellement par les conseils généraux, qui peuvent le réduire jusqu'à 1 p. 100 en fonction de la politique immobilière qu'ils entendent poursuivre. De plus, l'article 92 de la loi de finances pour 1993 a offert aux conseils généraux la faculté d'instituer un abattement égal au moins à 50 000 francs et au plus à 300 000 francs sur l'assiette de cette taxe. L'article 11 de la loi de finances rectificative pour 1995 a institué une réduction de 35 p. 100 du montant de la taxe départementale de publicité foncière ou du droit départemental d'enregistrement et de la taxe régionale applicables aux acquisitions de logements constatées par un acte authentique signé entre le 1er juillet 1995 et le 31 décembre 1996, l'Etat prenant à sa charge la perte de recettes correspondante. Ces mesures ainsi que celles prévues dans le cadre de la réforme de l'accession à la propriété, notamment l'octroi de prêts sans intérêt, traduisent l'effort du Gouvernement en faveur de la relance de l'accession à la propriété et la réorientation de l'épargne privée vers le logement locatif. Il n'est pas envisagé d'aller au-delà dans l'immédiat et, notamment, d'abaisser autoritairement le plafond du taux du droit départemental d'enregistrement ou de la taxe départementale de publicité foncière applicables aux immeubles d'habitation prévu à l'article 1594 D du code général des impôts. Une telle mesure entraînerait une perte de recettes pour les départements que l'Etat ne pourrait compenser, compte tenu de la situation budgétaire actuelle.
