@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000424435
+
+- Question : [SEQ000424435](seq000424435.md) — Modalités d'attribution de l'indemnité d'astreinte aux fonctionnaires territoriaux
+
+## Réponse
+
+*Fonction publique, JO du 2000-07-06, page 2400*
+
+Réponse. - L'article 88 de la loi du 26 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique territoriale pose comme principe que les régimes indemnitaires des fonctionnaires territoriaux sont fixés par les organes délibérants des collectivités territoriales dans la limite de ceux applicables aux fonctionnaires des services de l'Etat exerçant des fonctions équivalentes. L'application du principe de parité n'autorise à verser une indemnité d'astreinte qu'à ceux des fonctionnaires territoriaux pour lesquels le corps de référence de l'Etat, fixé par le décret du 6 septembre 1991, peut bénéficier de cette indemnité. Il en est ainsi des agents de la filière technique appartenant aux cadres d'emplois des contrôleurs de travaux, des agents de maîtrise et des agents d'entretien. Les autorités territoriales disposent également d'autres moyens pour rémunérer ce type de sujétions. Elles peuvent, en effet, lors de la détermination des dotations individuelles servies au titre des indemnités horaires pour travaux supplémentaires (IHTS) et du supplément indemnitaire résultant de l'enveloppe complémentaire de l'article 5 du décret du 6 septembre 1991 précité, utiliser la marge de man uvre existante pour prendre en compte la soumission des agents à des sujétions particulières, notamment les astreintes. Il est à signaler enfin que la question des astreintes et des compensations auxquelles elles peuvent donner lieu sera abordée dans le cadre de la concertation qui va s'ouvrir à l'occasion de l'élaboration de la réglementation relative à l'aménagement et la réduction du temps de travail dans la fonction publique.
