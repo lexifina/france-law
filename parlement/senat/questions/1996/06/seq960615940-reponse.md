@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960615940
+
+- Question : [SEQ960615940](seq960615940.md) — Progression des cas de sida en France
+
+## Réponse
+
+*Santé, JO du 1996-09-12, page 2370*
+
+Réponse. - Le secrétaire d'Etat à la santé et à la sécurité sociale confirme à l'honorable parlementaire l'exactitude des chiffres de cas de sida publiés dans le numéro 229 du 6 mai 1996 de la lettre hebdomadaire de la représentation en France de la Commission européenne. Les données épidémiologiques publiées sont les données rassemblées par le Centre Européen de surveillance épidémiologique du sida. Ce centre est financé par la Commission européenne. Il est aussi le centre collaborateur OMS sur le sida. Il publie un rapport trimestriel présentant la situation du sida dans les quinze pays de l'Union européenne. Les données sont fournies par les institutions chargées du recueil des données épidémiologiques dans chaque pays. En France, cette mission est assurée par le Réseau national de santé publique qui publie chaque trimestre dans le bulletin épidémiologique hebdomadaire la situation du sida. L'évolution de la répartition des cas de sida par groupe de transmission, année de diagnostic et sexe a été publiée dans le bulletin épidémiologique hebdomadaire no 10/1996 du 5 mars 1996. La progression des cas de sida entre 1990 et 1995 a été en moyenne de 2 300 nouveaux cas par an pour les homosexuels-bisexuels masculins, de 1 500 nouveaux cas par an pour les usagers de drogue, de 800 nouveaux cas par an pour les hétérosexuels. Concernant les hétérosexuels, la progression a tendance à augmenter (500 cas en 1990, 900 cas en 1994), à la différence des homo-bisexuels et usagers de drogue pour lesquels on constate une relative stagnation. Pour les femmes, cette progression existe également (moins de 1 000 cas par an entre 1990 et 1992, plus de 1 000 cas en 1993 et 1994). Les cas de sida liés à la transmission materno-foetale diminuent depuis 1990 (58 cas en 1990, 44 cas en 1994).
