@@ -1,5 +1,5 @@
 # Article 39 quinquies
 
-La publication et la diffusion d'informations sur un viol ou un attentat à la pudeur par quelque moyen d'expression que ce soit ne doit en aucun cas mentionner le nom de la victime ou faire état de renseignements pouvant permettre son identification à moins que la victime n'ait donné son accord écrit.
+Le fait de diffuser, par quelque moyen que ce soit et quel qu'en soit le support, des renseignements concernant l'identité d'une victime d'une agression ou d'une atteinte sexuelles ou l'image de cette victime lorsqu'elle est identifiable est puni de 100 000 F d'amende.
 
-Toute infraction aux dispositions du présent article sera punie de 25000 F d'amende et de deux ans d'emprisonnement ou de l'une de ces deux peines seulement.
+Les dispositions du présent article ne sont pas applicables lorsque la victime a donné son accord écrit.

@@ -1,7 +1,13 @@
 # Article 39 bis
 
-Est interdite la publication par le livre, la presse, la radiophonie, le cinématographe ou de quelque manière que ce soit, de tout texte ou de toute illustration concernant l'identité et la personnalité des mineurs de dix-huit ans qui ont quitté leurs parents, leur tuteur, la personne ou l'institution qui était chargée de leur garde ou à laquelle ils étaient confiés. Il en est de même de l'identité et de la personnalité des enfants qui ont été exposés ou délaissés dans les conditions prévues par les articles 227-1 et 227-2 du code pénal.
+Est puni de 100.000 F d'amende le fait de diffuser, de quelque manière que ce soit, des informations relatives à l'identité ou permettant l'identification :
 
-Les infractions aux dispositions du premier alinéa seront punies de 40000 F d'amende, en cas de récidive, un emprisonnement de deux ans pourra être prononcé.
+- d'un mineur ayant quitté ses parents, son tuteur, la personne ou l'institution qui était chargée de sa garde ou à laquelle il était confié ;
 
-Toutefois, il n'y aura pas délit lorsque la publication aura été faite, soit sur la demande écrite des personnes qui ont la garde du mineur, soit sur la demande ou avec l'autorisation écrite du ministre de l'intérieur, du préfet du département, du procureur de la République, du juge d'instruction ou du juge des enfants.
+- d'un mineur délaissé dans les conditions mentionnées aux articles 227-1 et 227-2 du code pénal ;
+
+- d'un mineur qui s'est suicidé ;
+
+- d'un mineur victime d'une infraction.
+
+Les dispositions du présent article ne sont pas applicables lorsque la publication est réalisée à la demande des personnes ayant la garde du mineur ou des autorités administratives ou judiciaires.
