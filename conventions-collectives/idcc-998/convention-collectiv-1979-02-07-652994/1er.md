@@ -1,6 +1,22 @@
 # Article 1
 
-1.1. La présente convention collective conclue conformément aux dispositions du titre III du livre Ier du code du travail régit, pour l'ensemble du territoire métropolitain, les rapports entre les employeurs et les ouvriers, employés, techniciens et agents de maîtrise dans les entreprises dont l'activité a pour objet l'exploitation d'équipements thermiques et de génie climatique et d'usines d'incinération d'ordures ménagères (relevant des groupes 731-4, 083 et 896-3 de la nomenclature des activités économiques de 1959 et classée aux activités 59-03 ou 59-04, 08-02 et 87-09 des nomenclatures d'activités et de produits de 1973).
+1.1. La présente convention collective conclue conformément aux dispositions du titre III du livre Ier du code du travail régit, pour l'ensemble du territoire métropolitain, les rapports entre les employeurs et les ouvriers, employés, techniciens et agents de maîtrise dans les entreprises dont l'activité a pour objet :
+
+- d'assurer la livraison de chaleur et de froid aux différents secteurs de l'activité économique par la gestion :
+
+- de la production d'énergie calorifique ou frigorifique à partir d'une ou plusieurs unités, ou de sa collecte ;
+
+- du transport de celle-ci par un réseau empruntant en particulier les voies publiques ou privées ;
+
+- de la distribution de cette énergie aux clients et abonnés ;
+
+- d'assurer la gestion et/ou la maintenance des installations thermiques et de climatisation et des équipements techniques dans les secteurs résidentiel, tertiaire et industriel ;
+
+Dans ce but elles surveillent, entretiennent, dépannent, garantissent, renouvellent les appareils et les installations et en assurent le fonctionnement et les approvisionnements ;
+
+- d'assurer le traitement avec valorisation énergétique et l'incinération avec ou sans valorisation énergétique des déchets ménagers et assimilés ainsi que le traitement thermique des déchets d'activités de soins.
+
+Ells assurent éventuellement les services ou prestations qui peuvent être adjoints aux précédents.
 
 1.2. En cas d'activités multiples, l'activité principale détermine la convention applicable. Toutefois, l'application distributive de conventions différentes sera retenue lorsque ces activités sont différenciées quant aux lieux ou elles s'exercent et au personnel qu'elles emploient respectivement.
 
