@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990918759
+
+- Question : [SEQ990918759](seq990918759.md) — Obtention d'un titre de séjour au profit d'étrangers ayant servi dans la légion étrangère
+
+## Réponse
+
+*Intérieur, JO du 1999-11-18, page 3806*
+
+Réponse. - L'ordonnance du 2 novembre 1945 modifiée relative aux conditions d'entrée et de séjour des étrangers en France comporte des dispositions concernant les personnes qui ont accompli des services dans la Légion étrangère. L'article 15-9º de ce texte prévoit ainsi la délivrance de plein droit d'une carte de résident valable dix ans au ressortissant étranger qui a servi dans la Légion étrangère, à condition qu'il justifie d'au moins trois ans de service dans l'armée française et de l'obtention d'un certificat de bonne conduite. Il prévoit également la délivrance d'un tel titre à la personne étrangère qui a servi dans une unité combattante de l'armée française. Cette carte, qui vaut autorisation de séjour et de travail, est délivrée sous réserve de l'absence de menace pour l'ordre public et de la justification de la régularité du séjour. Elle est renouvelable de plein droit. Ainsi, l'ex-légionnaire étranger qui est admis au séjour sous couvert d'une carte de séjour temporaire ou qui vient d'entrer à nouveau en France muni d'un visa peut prétendre de plein droit à cette carte de résident. Durant l'année 1998, 90 étrangers se sont vu délivrer une carte de résident à ce titre. Dans l'hypothèse où il ne remplirait pas les conditions pour l'obtention de la carte de résident, il pourrait cependant, comme tout étranger, demander une carte de séjour temporaire au titre de la vie privée et familiale. Cette carte lui sera délivrée, sous réserve de l'absence de menace pour l'ordre public, dans les cas mentionnés à l'article 12 bis de l'ordonnance. Cet article vise en particulier les personnes qui justifient d'une longue durée de présence ou d'attaches familiales fortes en France.
