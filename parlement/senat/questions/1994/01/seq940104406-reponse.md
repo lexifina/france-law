@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940104406
+
+- Question : [SEQ940104406](seq940104406.md) — Gestion du Centre national pour l'aménagement des structures du CNASEA
+
+## Réponse
+
+*Agriculture, JO du 1994-02-24, page 431*
+
+Réponse. - Le décret no 84-481 du 21 juin 1984 a fixé les modalités de versement des primes annuelles à la cessation d'activité laitière attribuées au cours de la campagne laitière 1984-1985. Ces modalités sont rappelées dans les décisions d'attribution sous la forme suivante : " Cette prime est versée annuellement jusqu'à la date à laquelle est ouvert au bénéficiaire le droit à un avantage de vieillesse ou à laquelle il atteint soixante-cinq ans. Lors des mises en paiement, il est rappelé au bénéficiaire qu'il s'engage à informer le CNASEA de tout changement dans sa situation au regard d'un avantage de vieillesse. " L'attributaire de l'aide ne peut donc ignorer ces dispositions. Toutefois, dans certains cas, le bénéficiaire de l'aide informe tardivement le CNASEA de son changement de situation ou même ne signale pas la date d'effet de sa retraite. Cette information n'est alors connue qu'après enquête auprès des caisses de MSA. Cette négligence du bénéficiaire a pour effet de rallonger considérablement les délais d'émission de l'ordre de reversement. Le CNASEA dispose de la prescription trentenaire de droit commun pour recouvrer ses créances et, en tant qu'établissement public, ne peut s'abstenir d'utiliser cette faculté. Toutefois, si le débiteur ne peut s'acquitter sans délai de sa dette, l'agent comptable du CNASEA est habilité à accepter un échelonnement des remboursements. Enfin, s'il ne peut manifestement pas faire face aux échéances, il a la possibilité de faire examiner son dossier par la commission des recours gracieux où siègent des représentants de l'administration et de la profession agricole.
