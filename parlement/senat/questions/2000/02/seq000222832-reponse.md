@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000222832
+
+- Question : [SEQ000222832](seq000222832.md) — Information des familles sur l'explosion en vol du TWA 800 le 17 juillet 1996
+
+## Réponse
+
+*Affaires étrangères, JO du 2000-05-04, page 1573*
+
+Réponse. - Notre consulat général à New York comme le ministère des affaires étrangères se sont employés à apporter toute l'assistance possible aux familles des victimes de l'explosion en vol de l'appareil de la TWA 800, le 17 juillet 1996, au cours de laquelle quarante-six de nos compatriotes ont péri. Ils les ont soutenues dans leur épreuve, en particulier lors de leurs déplacements aux Etats-Unis, et ont prodigué, notamment à l'association des familles des victimes du vol 800, des conseils concernant les suites de cette catastrophe. Actuellement la catastrophe du vol 800 de la TWA fait l'objet d'une instruction judiciaire conduite en France par un juge du tribunal de grande instance de Paris. Celui-ci s'est rendu à plusieurs reprises aux Etats-Unis dans le cadre de commissions rogatoires internationales. Par ailleurs, la cour du southern district de New York est chargée aux Etats-Unis de conduire la procédure en responsabilité concernant cette affaire. Un cabinet d'avocats new-yorkais a été spécialement désigné par le juge américain pour gérer l'ensemble de ce dossier, toutes familles confondues. L'enquête, qui est dans sa phase finale, pourrait aboutir vers la fin de l'été. Il revient en premier lieu aux avocats des familles chargés de la défense de leurs intérêts de les tenir informées de l'évolution des procédures judiciaires en cours et de l'état de l'enquête. Cependant, le consul général de France à New York continuera, comme il l'a fait depuis l'origine, à suivre très attentivement l'évolution de cette affaire et à apporter aux familles, en cas de besoin, toute l'assistance consulaire nécessaire.
