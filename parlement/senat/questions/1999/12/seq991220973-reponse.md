@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991220973
+
+- Question : [SEQ991220973](seq991220973.md) — Amélioration du dispositif d'alerte en cas de crue
+
+## Réponse
+
+*Intérieur, JO du 2000-03-02, page 787*
+
+Réponse. - L'honorable parlementaire attire l'attention du ministre de l'intérieur, en matière d'alerte et d'information des maires en situation d'inondation, sur la possibilité d'améliorer le dispositif, notamment en ce qui concerne l'information des élus sur l'évolution de la situation. Il convient de rappeler que l'arrêté interministériel du 27 février 1984 a réorganisé l'annonce des crues et la transmission des avis de crues, notamment en séparant les processus d'alerte et d'information. L'alerte aux crues est effectuée par les services de la préfecture concernée par la transmission jusqu'aux autorités communales d'un seul message d'alerte dénommé premier avis de crues. La diffusion des informations ultérieures s'effectue à partir de messages enregistrés sur un répondeur consultables par les maires. L'ensemble de ces dispositions sont précisées localement dans le règlement départemental d'annonce des crues approuvé par le préfet. En application des décisions prises lors de la réunion interministérielle du 24 janvier 1994 relative à la prévention des risques naturels, le ministère de l'intérieur - direction de la défense et de la sécurité civiles, direction des transmissions et de l'informatique - a mis en place dans les préfectures un dispositif d'alerte et d'information sur les risques (DALI). Celui-ci, qui associe la fonction automate d'alerte et serveur opérationnel, est destiné à remplacer progressivement les anciens diffuseurs d'information ERASME mis en place en application de l'arrêté du 27 février 1984 précité. A ce jour, 56 départements sont dotés de ce nouveau dispositif.
