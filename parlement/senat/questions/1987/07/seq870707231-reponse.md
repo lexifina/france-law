@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870707231
+
+- Question : [SEQ870707231](seq870707231.md) — Lutte contre la précarité et la pauvreté : liste des départements signataires
+
+## Réponse
+
+*Sécurité sociale, JO du 1987-08-20, page 1334*
+
+Réponse. -Le plan d'action contre la pauvreté et la précarité présenté par le Gouvernement et adopté le 29 octobre 1986 a mis en place, parallèlement aux mesures d'assistance traditionnelles, un nouveau dispositif : " les conventions d'insertion Etat/Département ", afin d'assurer un revenu aux personnes démunies en contrepartie d'un travail à mi-temps auprès d'une association, d'une collectivité locale ou d'un établissement public. Ce dispositif a connu un succès réel auprès des conseils généraux. Fin juin, la liste des départements signataires est la suivante : I. - Conventions signées ou sur le point de l'être, cinquante-six : a) Conventions signées, quarante-huit : Ain, Allier, Alpes-Maritimes, Aube, Aveyron, Calvados, Charente, Côtes-du-Nord, Creuse, Dordogne, Doubs, Drôme, Eure, Eure-et-Loir, Finistère, Haute-Garonne, Gironde, Hérault, Ille-et-Vilaine, Indre-et-Loire, Isère, Landes, Loir-et-Cher, Haute-Loire, Loire-Atlantique, Loiret, Lot, Lot-et-Garonne,Lozère, Maine-et-Loire, Marne, Mayenne, Morbihan, Orne, Puy-de-Dôme, Pyrénées-Atlantiques, Bas-Rhin, Rhône, Saône-et-Loire, Sarthe, Paris, Seine-Maritime, Yvelines, Deux-Sèvres, Tarn, Vosges, territoire de Belfort, Guadeloupe. b) Conventions sur le point d'être signées, huit : Aisne, Alpes-de-Haute-Provence, Cantal, Loire, Meurthe-et-Moselle, Haut-Rhin, Tarn-et-Garonne, Yonne. II. - Conventions en cours de négociation, dix-huit : Ariège, Bouches-du-Rhône, Cher, Gers, Jura, Manche, Meuse, Moselle, Pyrénées-Orientales, Savoie, Var, Vaucluse, Vendée, Vienne, Hauts-de-Seine, Martinique, Réunion, Saint-Pierre-et-Miquelon.
