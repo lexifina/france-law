@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021204749
+
+- Question : [SEQ021204749](seq021204749.md) — Protection des captages d'eau
+
+## Réponse
+
+*Santé, JO du 2003-06-19, page 2035*
+
+La réglementation relative aux eaux destinées à la consommation humaine prévoit, parmi les procédures d'autorisation, l'instauration de périmètres de protection des ressources en eau dont l'honorable parlementaire rappelle la nécessité. Le ministre de la santé, de la famille et des personnes handicapées indique que ces périmètres assurent une protection de proximité vis-à-vis de la pollution des captages mais ne permettent pas d'assurer une protection vis-à-vis des pollutions diffuses chroniques (pesticides, nitrates) parfois rencontrées en certaines zones du territoire. En réponse à la question relative au nombre de procédures achevées à ce jour, il convient de préciser que selon les derniers bilans datant de 2001, sur les 35 000 points de prélèvements d'eau destinés à la consommation humaine existant à l'échelon national, près de 12 800, soit 35,3 % bénéficient de périmètres de protection. Les résultats sont très variables suivant les régions. Il convient de noter que ce pourcentage concerne près de 60 % de la population française, les périmètres de protection existants ayant été établis pour les ressources les plus vulnérables ou desservant un grand nombre d'usagers. Des efforts restent cependant à accomplir pour assurer la protection de l'ensemble des ressources. Des travaux interministériels en cours portent sur l'allégement de la nécessité d'instaurer des périmètres de protection rapprochés pour des captages qui bénéficient d'une protection naturelle importante. Divers projets de loi envisagent également l'instauration d'un droit de préemption au bénéfice des communes dans les périmètres de protection rapprochés, ce qui devrait faciliter l'instauration de ces derniers sans que les communes aient à recourir à l'expropriation des terrains.
