@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960515546
+
+- Question : [SEQ960515546](seq960515546.md) — Répartition des fonctionnaires de police
+
+## Réponse
+
+*Intérieur, JO du 1996-07-18, page 1852*
+
+Réponse. - La répartition des effectifs des personnels actifs de la police nationale dans l'ensemble des régions françaises et, en particulier, dans chacun des huit départements de la région Rhône-Alpes, est présentée dans les tableaux ci-après. En ce qui concerne l'évolution des effectifs sur le plan national, celle-ci dépend des besoins et des situations qui font régulièrement l'objet d'examens attentifs par les responsables concernés. Dans cet ordre de préoccupations, il y a lieu de noter que le 18 janvier 1996, le Premier ministre a présenté un pacte de relance pour la ville qui s'articule autour de dix mesures intéressant la vie quotidienne des citoyens. L'une de ces mesures concerne précisément le renforcement des effectifs de police, notamment dans les quartiers confrontés à l'augmentation de la délinquance et de la violence urbaine. Dès cette année, 2 000 fonctionnaires supplémentaires seront affectés dans les départements concernés. S'agissant en particulier du Rhône, ce département devrait recevoir un renfort de 160 agents, ainsi répartis : 107 en sécurité publique (106 dans les différents services de sécurité publique de l'agglomération lyonnaise et un à Villefranche-sur-Saône) ; 19 au contrôle de l'immigration et de la lutte contre l'emploi des clandestins à Lyon ; 4 au service régional de police judiciaire de Lyon ; 30 au bénéfice des compagnies républicaines de sécurité no 45 et 46, implantées respectivement à Chassieu et à Sainte-Foy-lès-Lyon. Ces dispositions prises en faveur du département du Rhône doivent ainsi permettre aux services de police de lutter plus efficacement contre l'insécurité ressentie par nos concitoyens. ( NOTA Voir tableau page 1852 ).
