@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860601793
+
+- Question : [SEQ860601793](seq860601793.md) — Exploitation agricole à responsabilité limitée (EARL)
+
+## Réponse
+
+*Agriculture, JO du 1986-10-01, page 1382*
+
+Réponse. -Il est certain que des améliorations sont souhaitables en faveur des conjoints et membres de la famille des exploitants agricoles dans le domaine de leur protection contre les risques vieillesse et invalidité. La démarche qui est engagée en vue de définir un véritable statut social pour toutes les personnes participant effectivement à la mise en valeur de l'exploitation pourra trouver un premier aboutissement lorsque les dispositions de la loi du 11 juillet 1985 relative à l'exploitation agricole à responsabilité limitée (E.A.R.L.) auront été adaptées conformément au souhait des organisations professionnelles agricoles pour doter l'exploitation agricole d'un véritable statut juridique propre, et assurer son autonomie et sa pérennité en tant qu'outil de travail. Il est bien évident que les agricultrices qui exerceront, dans un cadre professionnel rénové, les mêmes responsabilités que le chef d'exploitation devront avoir sur le plan social des mêmes droits et des mêmes obligations. Les dispositions qui restent à prendre pour adapter la législation sociale à cette forme nouvelle de société et qui devront faire l'objet d'une concertation avec la profession, devraient porter essentiellement sur la nécessité de modifier le seuil d'assujetissement au régime de protection sociale agricole des exploitations sous forme sociétaire, de fixer l'assiette des cotisations des associés exploitants de l'E.A.R.L. et de définir les droits de ces derniers à la pension d'invalidité. Les mesures d'ordre législatif devront trouver leur place dans le projet de loi de modernisation agricole et agro-alimentaire qui sera prochainement présenté au Parlement.
