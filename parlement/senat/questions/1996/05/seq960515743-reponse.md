@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960515743
+
+- Question : [SEQ960515743](seq960515743.md) — Protection des salaires contre les accidents du travail et maladies professionnelles
+
+## Réponse
+
+*Travail, JO du 1996-09-19, page 2431*
+
+Réponse. - L'honorable parlementaire appelle l'attention sur l'intérêt que pourrait présenter, dans la lutte contre les accidents du travail et les maladies professionnelles, la généralisation à toute situation de danger grave et imminent de la possibilité pour les inspecteurs du travail d'arrêter immédiatement les travaux sur les chantiers du bâtiment ou de travaux publics conformément aux dispositions de l'article L. 231-12 du code du travail. L'examen de cette éventualité et l'analyse des conditions, jusqu'à ce jour très satisfaisantes, de mise en oeuvre des arrêts de travaux par l'inspecteur du travail me conduisent à conclure qu'un certain nombre de conditions doivent être réunies pour que la procédure prévue par l'article L. 231-12 du code du travail produise pleinement ses effets. En effet, le risque doit tout d'abord être évident, visible, bien caractérisé et renvoyer à des solutions simples à mettre en oeuvre. Ensuite, les modalités de reprise des travaux doivent être faciles à définir et à cerner. Enfin, cette démarche doit s'articuler avec les autres moyens d'intervention dont dispose l'inspection du travail. L'introduction récente dans la liste limitative des types de travaux pouvant donner lieu à arrêt de chantier des opérations de retrait d'amiante s'inscrit dans cette logique. Si je n'exclus nullement l'éventualité d'un élargissement des possibilités d'utilisation de l'arrêt de chantier pour développer la prévention, l'expertise de chaque hypothèse est cependant nécessaire afin de s'assurer que les critères propres à garantir la pleine efficacité de la mesure sont bien réunis.
