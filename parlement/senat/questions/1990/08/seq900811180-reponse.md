@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900811180
+
+- Question : [SEQ900811180](seq900811180.md) — Nationalité française des Israélites originaires d'Algérie
+
+## Réponse
+
+*Justice, JO du 1990-10-18, page 2269*
+
+Réponse. - A la suite de l'accession de l'Algérie à la souveraineté internationale, les Français israëlites orginaires de ce territoire ont de plein droit conservé la nationalité française en vertu de l'article 1er, 3e alinéa de la loi n° 66-945 du 20 décembre 1966, la nationalité algérienne ne leur ayant pas été conféré par voie de disposition générale après le 3 juillet 1962. La preuve de la nationalité française de ces personnes antérieurement à l'indépendance est établie soit en vertu du droit de sang, par la preuve d'un lien direct de filiation avec une personne née en Algérie avant l'occupation française -, sous la réserve de l'application des dispositions de l'article 144 du code -, soit, en vertu du droit du sol, par la justification de leur naissance sur ce territoire de parents qui y sont eux-mêmes nés. Les textes de nationalité de droit commun se sont en effet toujours appliqués en Algérie pendant la présence française. Il n'est donc pas nécessaire pour les personnes concernées de prouver que leurs ascendants ont bénéficié du décret Crémieux du 24 octobre 1870 et du décret du 24 octobre 1871. Les actes dressés en vertu de ces textes et notamment les actes de notoriété établis par les juges de paix en vertu de l'article 3 du décret du 7 octobre 1871 n'ont fait l'objet de dispositions particulières visant à leur conservation. Leur production ne constitue pas une obligation. Dans le cas particulier soumis par l'honorable parlementaire, les éléments précis concernant la situation de l'intéressée ne sont pas connus de la Chancellerie. L'examen de cette situation devra se faire au regard des textes de droit commun de nationalité et de la loi du 20 décembre 1966.
