@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980910965
+
+- Question : [SEQ980910965](seq980910965.md) — Sécurité des cyclistes
+
+## Réponse
+
+*Intérieur, JO du 1998-12-03, page 3874*
+
+Réponse. - Le problème de l'insécurité des cyclistes, notamment en milieu urbain, a été pris en considération par le Comité interministériel de la sécurité routière (CISR), dont l'un des objectifs était de promouvoir l'usage et l'image du vélo. Un récent décret du 14 septembre 1998 relatif à la circulation des cycles a modifié le code de la route afin de faciliter l'utilisation du vélo et de protéger la vie du cycliste. Ces dispositions portent plus spécifiquement sur la réservation, aux seuls cyclistes à deux ou trois roues, des pistes et bandes cyclables, à l'exclusion des cyclomoteurs et des quadricycles. Ce texte donne la possibilité de créer un sas aux intersections permettant aux vélos de se placer devant les voitures. La sanction de cette infraction est désormais passible d'une contravention de 2e classe. Les autorités de police locales peuvent également protéger la circulation des cyclistes et des cyclomotoristes aux intersections par un double feu de signalisation et par la création de voies réservées de contournement. Par ailleurs les cycles conduits par des enfants de moins de huit ans peuvent désormais circuler sur les trottoirs. Enfin, est porté de 1 mètre à 1,5 mètre (hors agglomération) l'espace minimum que doit laisser un conducteur en dépassement, entre son véhicule et un usager vulnérable de la route, notamment les cyclistes. Il convient par ailleurs d'ajouter que le maire, en vertu des pouvoirs de police de la circulation qu'il exerce sur les voies de communications situées à l'intérieur de l'agglomération, a compétence pour créer tout aménagement susceptible de favoriser la sécurité des cyclistes. Le ministre de l'intérieur pour sa part reste attentif à l'ensemble de ces développements.
