@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890203587
+
+- Question : [SEQ890203587](seq890203587.md) — Contrôle de légalité externe des budgets communaux par le représentant de l'Etat
+
+## Réponse
+
+*Intérieur, JO du 1989-05-18, page 771*
+
+Réponse. - L'article L. 121-18 du code des communes prévoit que les délibérations du conseil municipal sont inscrites par ordre de date, sur le registre tenu à cet effet dans les conditions fixées à l'article R. 121-10 du même code. Les délibérations ainsi inscrites sont, aux termes de l'article L. 121-18, signées par tous les membres présents à la séance, ou mention est faite de la cause qui les a empêchés de signer. Selon la jurisprudence constante du Conseil d'Etat, ces formalités n'ont pas un caractère substantiel et ne sont pas prescrites à peine de nullité des délibérations. Ainsi, le retard de transcription des délibérations sur le registre et le défaut de signature par les conseillers minicipaux des délibérations qui y sont portées ne sont pas de nature à entacher d'illégalité les délibérations en cause. La loi n° 82-213 du 2 mars 1982 relative aux droits et libertés des communes, des départements et des régions n'a pas remis en cause cette interprétation jurisprudentielle. Il convient de rappeler que l'article 2 de la loi fixe les conditions dans lesquelles les actes pris par les autorités communales deviennent exécutoires. En application de ces dispositions, une délibération est exécutoire dès lors qu'elle a été transmise à la préfecture ou à la sous-préfecture et publiée sous forme d'un affichage du compte rendu de la séance à la porte de la mairie, en vertu des articles L. 121-17 et R. 121-9 du code des communes. La signature par les conseillers présents de la délibération n'a donc aucune incidence sur la force exécutoire et l'opposabilité aux tiers de l'acte considéré. Les délibérations relatives aux budgets communaux ne sont pas soumises à des règles différentes en ce qui concerne leur caractère exécutoire.
