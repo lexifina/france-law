@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021204583
+
+- Question : [SEQ021204583](seq021204583.md) — Futur de Hong Kong
+
+## Réponse
+
+*Affaires étrangères, JO du 2003-02-13, page 541*
+
+Le gouvernement français est attentif aux débats qui entourent le projet de législation anti-subversion mis en route par les autorités de Hong Kong, en application de l'article 23 de la loi fondamentale de la région administrative spéciale. La loi fondamentale dispose que la région administrative spéciale de Hong Kong adoptera des lois en propre interdisant tout acte de trahison, sécession, sédition, subversion contre le gouvernement central de Pékin, le vol de secrets d'Etat, la conduite d'activités politiques dans la RAS par des organisations ou institutions politiques étrangères, l'établissement par des organisations ou institutions politiques de la RAS de liens avec des organisations ou institutions politiques étrangères. Sans contester la possibilité des autorités hongkongaises de légiférer dans ces matières, la France et ses partenaires européens ont attiré l'attention des plus hautes autorités de Hong Kong sur les conséquences potentielles d'une telle législation sur la liberté d'expression, la libre circulation des informations, la garantie des libertés fondamentales, dont le respect a fait la force et la richesse de Hong Kong. Dans cette déclaration, rendue publique, l'Union européenne rappelle également son attachement au respect du principe " un pays, deux systèmes " et demande la publication d'un projet de texte précis. A titre bilatéral, la France a relayé auprès des autorités hongkongaises ces préoccupations partagées, en particulier en ce qui concerne le champ d'application d'une telle législation à tous les résidents permanents de Hong Kong, dont certains sont des ressortissants français ou européens.
