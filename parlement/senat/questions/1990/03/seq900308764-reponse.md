@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900308764
+
+- Question : [SEQ900308764](seq900308764.md) — Occupation du domaine public fluvial et tourisme
+
+## Réponse
+
+*Premier ministre, JO du 1990-08-02, page 1698*
+
+Réponse. - L'article L. 29 du code du domaine de l'Etat subordonne la délivrance de toute autorisation d'occupation privative du domaine public au paiement d'une redevance dont le département des finances est seul compétent pour en fixer le montant, sur l'avis et la proposition des services techniques. Cette redevance doit tenir compte des avantages de toute nature procurés au bénéficiaire de l'autorisation. Son montant varie donc selon la nature de l'occupation et de l'occupant. En outre, l'article 28 de la loi n° 86-2 du 3 janvier 1986 relative à l'aménagement, la protection et la mise en valeur du littoral offre la possibilité à des personnes publiques ou privées - et par priorité aux communes ou groupements de communes - d'aménager, d'organiser et de gérer des zones de mouillage et d'équipement léger dans le cadre d'autorisations d'occupation temporaire. Dans ce cas, la loi susvisée habilite le bénéficiaire de l'autorisation à percevoir des usagers de la zone de mouillage et d'équipement léger une redevance pour services rendus qui lui permet ainsi de rentabiliser ses investissements. Enfin, la réforme des structures de gestion de la voie navigable en cours d'élaboration prévoit la création d'un établissement public à caractère industriel et commercial chargé notamment d'assurer la gestion du domaine public fluvial navigable mis à sa disposition. Cet établissement public pourrait établir et percevoir à son profit des redevances pour services rendus pour toute emprise ou usage du domaine public mis à sa disposition. Ce dispositif pourrait permettre d'établir une modulation géographique des redevances proportionnellement aux services rendus aux différents usagers.
