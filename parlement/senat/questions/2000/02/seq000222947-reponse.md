@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000222947
+
+- Question : [SEQ000222947](seq000222947.md) — Procédure d'achat au comptant de timbres-poste par les communes
+
+## Réponse
+
+*Équipement, JO du 2000-08-31, page 3025*
+
+Réponse. - La question de la vente en compte des timbres-poste retirés aux guichets des bureaux de poste a été soigneusement étudiée par La Poste. Si elle était offerte, elle ne saurait en effet l'être exclusivement au profit des petites communes mais à l'ensemble des clients qui le souhaitent. Or la généralisation entraînerait des difficultés pour La Poste. Le timbre, en tant que mode d'affranchissement, s'il est pratique d'usage pour l'utilisateur occasionnel de courrier, représente pour La Poste des coûts administratifs importants liés à sa fabrication, à sa répartition entre les bureaux de poste, ainsi qu'à la gestion des stocks et à la transaction au guichet. La seule compensation à ces coûts élevés est le fait que les timbres sont vendus au comptant et génèrent un gain de trésorerie pour La Poste. La facturation a posteriori des achats de timbres par les clients au compte de La Poste représenterait donc une perte de trésoreriesans diminution des coûts administratifs. La Poste n'est pas favorable à une telle évolution. Des solutions vont cependant pouvoir être proposées aux entreprises peu ou moyennement utilisatrices de timbres-poste, grâce à la mise sur le marché, en 2001, de petites machines à affranchir d'un faible coût de location adaptées à leur trafic de courrier. Elles répondront particulièrement bien aux problèmes des mairies des petites communes, qui pourront ainsi bénéficier de la remise sur tarif accordée par La Poste aux utilisateurs de machines à affranchir et régler en fin de mois pour le trafic réellement expédié, réalisant ainsi un gain de trésorerie tout en voyant leurs tâches administratives allégées.
