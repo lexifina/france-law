@@ -1,0 +1,9 @@
+# Réponse à la question SEQ041215345
+
+- Question : [SEQ041215345](seq041215345.md) — Réforme du système Cyclamed
+
+## Réponse
+
+*Solidarités, JO du 2005-02-10, page 410*
+
+La redistribution à des fins humanitaires de médicaments non utilisés est une activité reconnue par la loi. En effet, l'article L. 4211-2 du code de la santé publique, introduit par l'article 25 de la loi du 18 janvier 1994, prévoit la possibilité de collecter auprès du public, sous la responsabilité d'un pharmacien, des médicaments non utilisés en vue de leur redistribution à des populations démunies. Toutefois cette redistribution de médicaments non utilisés, sortis du circuit pharmaceutique et récupérés auprès des ménages, est aujourd'hui contestée. L'Organisation mondiale de la santé (OMS) a ainsi publié des recommandations en matière de dons de médicaments, dans lesquelles elle s'est prononcée contre l'utilisation humanitaire des médicaments non utilisés. Plusieurs associations humanitaires françaises défendent également cette position, tandis que d'autres continuent de recourir aux médicaments non utilisés dans le cadre de leurs actions humanitaires. Quant au dispositif de collecte en France des médicaments non utilisés, dispositif CYCLAMED, celui-ci a également fait l'objet de débats suite à la mise en cause de certains pharmaciens pour des détournements de médicaments ainsi collectés. Le ministre a en conséquence confié à l'inspection générale des affaires sociales une mission de contrôle et d'inspection des pharmacies dans le cadre de ce dispositif CYCLAMED. Il conviendra, au vu des résultats de cette inspection, de déterminer si le cadre législatif et réglementaire actuel doit être modifié. Le maintien ou non de l'utilisation humanitaire de ces médicaments doit s'inscrire dans cette réflexion globale sur le circuit des médicaments non utilisés.
