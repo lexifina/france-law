@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880600123
+
+- Question : [SEQ880600123](seq880600123.md) — Collecte des cadavres de petits animaux
+
+## Réponse
+
+*Agriculture, JO du 1988-08-04, page 884*
+
+Réponse. - Les dispositions de la loi du 31 décembre 1975 complétant et modifiant les articles 264 à 275 du code rural en ce qui concerne l'industrie de l'équarrissage ne visent pas les modalités de collecte et d'enlèvement des cadavres d'animaux morts pesant au total moins de 40 kilogrammes. Néanmoins, elles interdisent de jeter en tous lieux ces cadavres dont la livraison à un équarrisseur n'est pas rendue obligatoire et précisent que leur destruction doit être assurée par enfouissement, incinération ou procédé chimique autorisé. En l'absence des prescriptions spécifiques en la matière, des initiatives publiques ou privées se sont donc manifestées pour créer des centres de collecte et d'incinération de petits cadavres. Ce type d'activité, afin de ne pas constituer des causes de nuisances pour la santé publique ou la protection du cheptel, est donc assujetti aux dispositions de la réglementation sur les installations classées notamment à celles de l'article 114 bis lorsqu'il s'agit de simples dépôts de cadavres et de l'article 185 (équarrissage des animaux) quand il y a incinération. Bien que le danger de voir se multiplier des pratiques illicites en matière de destruction des petits cadavres en maintenant les mesures de taxation actuelles en ce qui concerne ces établissements est certain, il me paraît difficile de les en dispenser afin de ne pas créer de distorsion anormale avec l'industrie de l'équarrissage. Toutefois, la proposition de l'honorable parlementaire tendant à aménager une redevance adaptée à la taille des entreprises pourrait être transmise au ministère de l'environnement seul compétent en la matière.
