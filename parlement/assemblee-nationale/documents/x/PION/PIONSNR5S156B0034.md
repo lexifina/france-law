@@ -1,0 +1,11 @@
+# proposition de loi  TENDANT A ETENDRE LE BENEFICE DES DISPOSITIONS DE L'ARTICLE 178 (TROISIEME ET QUATRIEME ALINEAS) DU CODE DES PENSIONS D'INVALIDITE AUX PRISONNIERS DE GUERRE DEPORTES DU CAMP DE RAWA-RUSKA
+
+- Type : Proposition de loi
+- Dénomination : Proposition de loi
+- Provenance : Texte Déposé
+- Titre court : PROPOSITION SUR LES DEPORTES DU CAMP DE RAWA-RUSKA
+- Déposé le : 1986-10-29
+- Publié le : 1986-11-12
+- Dossier : DLR5L8N11566
+- Auteurs : PA2162 (auteur)
+- Identifiant : PIONSNR5S156B0034
