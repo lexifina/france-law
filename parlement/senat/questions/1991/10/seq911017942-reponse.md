@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911017942
+
+- Question : [SEQ911017942](seq911017942.md) — Attribution de la carte de combattant pour les anciens combattants d'AFN
+
+## Réponse
+
+*Anciens combattants, JO du 1991-12-12, page 2785*
+
+Réponse. - Les conditions d'attribution de la carte du combattant aux anciens d'Afrique du Nord, prévue à l'origine par la loi du 9 décembre 1974, ont été progressivement adaptées à la spécificité des combats et améliorées par rapport aux générations précédentes. Ainsi, la loi du 4 octobre 1982 a permis qu'un effort sensible et significatif soit réalisé en matière de simplification et d'élargissement des conditions d'attribution de cette carte, les décisions d'attribution étant elles-mêmes fonction de la publication des listes d'unités combattantes par l'autorité militaire. La circulaire ministérielle du 10 décembre 1987 prévoit d'étendre vocation à la carte du combattant aux titulaires d'une citation individuelle homologuée, sauf cas d'exclusion prévus par le code des pensions militaires d'invalidité et des victimes de la guerre. Ces dispositions s'appliquent aussi bien aux civils qu'aux militaires. Enfin, la circulaire ministérielle D.A.G./4 n° 3592 du 3 décembre1988 a abaissé de trente-six à trente le nombre de points permettant l'attribution de la carte à titre individuel. En dernier lieu, il a été décidé, en concertation avec le ministre de la défense, d'examiner systématiquement les archives de la gendarmerie afin de comparer le positionnement des unités de la gendarmerie par rapport à celui des unités du contingent. Les associations seront régulièrement informées de ces travaux. En outre, il convient de rappeler qu'une étude est actuellement en cours sur une réforme d'ensemble des conditions d'attribution de la carte du combattant, qui compléterait la législation en ce domaine, sans toutefois diminuer la valeur morale attachée à cette carte.
