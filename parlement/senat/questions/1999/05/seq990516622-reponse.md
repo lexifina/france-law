@@ -1,0 +1,13 @@
+# Réponse à la question SEQ990516622
+
+- Question : [SEQ990516622](seq990516622.md) — Pensions militaires d'invalidité
+
+## Réponse
+
+*Anciens combattants, JO du 1999-07-15, page 2408*
+
+Réponse. - La mesure de gel des pensions supérieures à 360 000 F par an décidée par la loi de finances pour 1991 trouvait son origine dans le souci de corriger les effets parfois excessifs du mécanisme de calcul des pensions (système des suffixes majorant arithmétiquement les pourcentages accordés à chaque infirmité après 100 %) et des règles d'indemnisation permettant dans certains cas de faire valoir sous forme de nombreuses infirmités séparées des affections qui sont la conséquence d'une lésion initiale unique. Elle concerne environ 1 000 grands invalides percevant des pensions supérieures (hors allocations pour tierces personnes) à 360 000 F par an et qui peuvent atteindre 1,7 MF (niveau de la pension la plus élevée), sommes qui ne sont soumises ni à l'impôt sur le revenu, ni à la cotisation sociale généralisée (CSG), ni à la contribution pour le remboursement de la dette sociale (CRDS). Il avait en conséquence été décidé que ces pensions les plus élevées ne seraient plus soumises aux revalorisations de la valeur du point d'indice. Mais, depuis la loi de finances pour 1995, les pensionnés concernés bénéficient de nouveau de ces augmentations. Celles-ci sont néanmoins calculées en pourcentage par rapport à la valeur du point bloquée qui leur avait été appliquée. Dès lors, il existe un décalage d'environ 7 % entre les pensions d'invalides ayant subi le blocage et les autres pensions d'invalides atteints des mêmes affections. Un réajustement serait donc équitable et les pensions qui ont été soumises au blocage devraient être à nouveau calculées sur la valeur du point de droit commun. Mais les contraintes budgétaires n'ont pour l'instant pas permis d'y procéder en raison de son coût, estimé à 70 MF. Toutefois, comme le secrétaire d'Etat à la défense chargé des anciens combattants l'a indiqué lors du débat budgétaire à l'Assemblée nationale et au Sénat l'an passé, il a inscrit ce point parmi les priorités qu'il traitera dans le cadre de la loi de finances pour 2000, dont la préparation a commencé.
+
+*Anciens combattants, JO du 1999-08-19, page 2769*
+
+Réponse. - C'est par une interpétation inexacte des dispositions du décret nº 99-208 du 17 mars 1999 que le ministère de l'économie, des finances et de l'industrie a pris en compte, dans le " rapport constant ", l'augmentation des rémunérations des fonctionnaires intervenue le 1er avril par l'attribution d'un point d'indice supplémentaire. La rectification sera prochainement opérée, traduisant l'incidence de ce point uniforme en une majoration de 0,25 % de la valeur du point de pension.
