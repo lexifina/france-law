@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861203720
+
+- Question : [SEQ861203720](seq861203720.md) — Diminution des crédits des conseils d'architecture, d'urbanisme et d'équipement (CAUE)
+
+## Réponse
+
+*Équipement, JO du 1987-02-19, page 253*
+
+Réponse. -L'annonce, dans le projet de loi de finances pour 1987, de la diminution des subventions attribuées aux conseils d'architecture, d'urbanisme et de l'environnement (C.A.U.E.) ne doit pas être interprétée comme une mise en cause du soutien de l'Etat, mais est une conséquence logique de la progression des recettes provenant de la taxe départementale pour les C.A.U.E. instituée par la loi de finances rectificative du 31 décembre 1981. Cette situation est conforme à ce qui avait été annoncé dès la mise en place des C.A.U.E. Bien qu'inférieures aux prévisions, les ressources provenant de la taxe départementale sont en constante progression depuis 1984. Le produit de cette taxe doit atteindre son plein régime, pour la plupart des départements, en 1987. L'application de la taxe départementale aux constructions réalisées dans les zones d'aménagement concerté, disposition récemment votée par le Parlement dans le cadre de la loi de finances du 31 décembre 1986, doit permettre une augmentation sensible du produit de cette taxe. Pour 1987, l'Etat maintiendra une aide significative au profit des C.A.U.E. au moyen de la rémunération des architectes consultants et des financements incitatifs pour les actions d'intérêt national menées localement. Ces financements représentent l'aide apportée par l'Etat aux C.A.U.E. dans l'exercice de leurs missions de conseil aux candidats à la construction et de promotion de l'architecture auprès de divers publics. En ce qui concerne la rémunération des architectes consultants les contraintes budgétaires n'ont pas permis d'envisager jusqu'à présent une réévaluation du barème ; cette question sera étudiée à nouveau dans le cadre de la préparation du budget de 1988.
