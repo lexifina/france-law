@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000222385
+
+- Question : [SEQ000222385](seq000222385.md) — Principes de précaution en matière de biotechnologie
+
+## Réponse
+
+*Agriculture, JO du 2000-07-06, page 2374*
+
+Réponse. - L'action du Gouvernement en matière de biotechnologie est entièrement dictée par le principe de précaution. Ainsi, en application de ce principe, une évaluation scientifique indépendante, contradictoire, a priori et au cas au par cas est effectuée pour tous les organismes génétiquement modifiés (OGM). En France, cette expertise est réalisée par la commission du génie biomoléculaire (CGB), composée de 18 membres dont 11 scientifiques choisis pour leurs compétences se rapportant au génie biomoléculaire et 7 représentants de la société civile. Cette évaluation serait incomplète en l'absence du dispositif de biovigilance qui effectue une surveillance a posteriori des éventuels effets que l'évaluation a priori n'aurait pas mis en évidence. S'il devient disponible, tout élément scientifique nouveau fait l'objet d'une réévaluation scientifique. Si le nouvel avis remet en cause les évaluations favorables préalablemnt émises, les autorisations sont retirées. Pour ce qui concerne les aliments contenant des OGM, le gouvernement est soucieux de garantir la liberté de choix des consommateurs. Il a donc fortement soutenu les dispositions européennes obligeant à un étiquetage des produits OGM ou issus d'OGM. Il a demandé leur traçabilité à tous les stades de mise sur le marché, outil indispensable à la mise en place effective de cet étiquetage. Enfin, l'action de la France au plan international vise à améliorer la prise en compte et l'application du principe de précaution. Ainsi la France a été particuliuèrement active dans la définition des principes maintenant reconnus au sein du protocole de Carthagène relatif à la biosécurité, en particulier pour ce qui concerne la déclinaison du principe de précaution.
