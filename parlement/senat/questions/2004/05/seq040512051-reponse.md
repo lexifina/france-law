@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040512051
+
+- Question : [SEQ040512051](seq040512051.md) — Position de l'administration fiscale pour les travaux effectués dans des ateliers centraux par des associations intermédiaires
+
+## Réponse
+
+*Budget, JO du 2004-07-15, page 1573*
+
+Les centres d'aide par le travail (CAT) sont des établissements sociaux ou médico-sociaux relevant de la compétence des départements au titre de l'aide sociale. Dans ce cadre, ils dépendent directement des centres communaux d'action sociale ou sont liés avec les départements par une convention fixant leurs modalités de fonctionnement. Dès lors que ces organismes mettent à la disposition d'un particulier à son domicile privé, dans les conditions définies par le code du travail, un travailleur handicapé qui réalise des prestations admises au dispositif prévu par l'article 199 sexdecies du code général des impôts, c'est-à-dire des tâches à caractère familial ou ménager, ces prestations peuvent être assimilées aux services rendus par un organisme à but non lucratif ayant pour objet l'aide à domicile et habilité au titre de l'aide sociale ou conventionné par un département ou un organisme de sécurité sociale. Ces prestations ouvrent droit à ce titre à la réduction d'impôt pour l'emploi d'un salarié à domicile. Ces précisions sont mentionnées dans la documentation administrative (référence 5 B 3314, n° 7 et 12). Il appartient à l'organisme gestionnaire du CAT d'établir une attestation fiscale qui sera remise au particulier concerné pour justifier des dépenses afférentes à la mise à disposition du travailleur handicapé. En revanche, les prestations réalisées en milieu fermé, par exemple dans des ateliers centraux, ne sont pas éligibles au bénéfice de l'avantage fiscal. Il n'est pas envisagé de modifier le dispositif actuel.
