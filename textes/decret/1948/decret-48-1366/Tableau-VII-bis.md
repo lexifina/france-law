@@ -1,39 +1,57 @@
 # Article Tableau VII bis
 
-Indemnité allouée pour tenir compte de l'exécution de travaux de nature exceptionnelle.
+INDEMNITÉ ALLOUÉE POUR TENIR COMPTE DE L'EXÉCUTION DES TRAVAUX DE NATURE EXCEPTIONNELLE
 
-Indemnité de risque.
+Indemnité de sujétions spéciales de police
 
-DESIGNATION DES BENEFICIAIRES |
+DÉSIGNATION DES BÉNÉFICIAIRES |
 
-MONTANT
+MONTANT DE L'INDEMNITÉ EN POURCENTAGE DE LA SOLDE DE BASE |
 
-de l'indemnité en pourcentage des émoluments sousmis à retenue pour pension. |
+A compter du 1er janvier 2009 |
 
-OBSERVATIONS |
+A compter du 1er juillet 2009 |
 
-Colonnels |
+Généraux de gendarmerie |
 
-5 p. 100 |
+14 |
 
-I. - Le montant annuel de l'indemnité de risques né pourra être inférieur à 20.000 F.
+14 |
 
-II. - L'indemnité de risques allouée aux officiers subalternes sera au moins égale à celle payée aux militaires non officiers bénéficiaires du même indice de reclassement ou, à défaut, de l'indice le plus proche.
+Colonels de gendarmerie |
 
-|
+17 |
 
-Autres officiers supérieurs et officiers subalternes |
+17 |
 
-8 p. 100 |
+Lieutenants-colonels de gendarmerie |
 
-Militaires non officiers |
+19 |
 
-10 p. 100 |
+19 |
 
-Auxiliaires interprètes et élèves-auxiliaires interprètes de gendarmerie |
+Chefs d'escadron de gendarmerie |
 
-10 p. 100 |
+21 |
 
-NOTA :
+21 |
 
-Conformément à l'article 6 du décret n° 49-709 du 27 mai 1949, ces dispositions prennent effet au 1er janvier 1948.
+Officiers subalternes de gendarmerie |
+
+25 |
+
+25 |
+
+Militaires non officiers de gendarmerie |
+
+24,5 |
+
+25 |
+
+Observations :
+
+1. L'indemnité de sujétions spéciales de police est réservée aux seuls militaires des corps d'officiers et de sous-officiers de gendarmerie de carrière ou engagés, en position d'activité. Toutefois, cette indemnité continue d'être versée lorsque les intéressés ont été placés, à la suite d'une blessure reçue au cours d'une opération de police, dans l'une des positions de congés liées à l'état de santé prévues par le code de la défense.
+
+2. En aucun cas le montant de l'indemnité ne pourra être inférieur à celui alloué à un militaire de gendarmerie bénéficiaire de l'indice de solde réel 281 (majoré).
+
+3. 26 % pour les officiers subalternes de gendarmerie rémunérés sur la base d'un indice inférieur ou égal à l'indice brut 585. |
