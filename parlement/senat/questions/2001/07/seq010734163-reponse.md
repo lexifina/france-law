@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010734163
+
+- Question : [SEQ010734163](seq010734163.md) — Desserte ferroviaire du massif alpin
+
+## Réponse
+
+*Équipement, JO du 2001-10-04, page 3201*
+
+Le ministre de l'équipement, des transports et du logement rappelle son attachement à la qualité du réseau, des dessertes et du service rendu aux usagers et l'importance qu'il accorde au rôle que le chemin de fer doit jouer en matière d'aménagement du territoire. C'est dans ce cadre que la SNCF doit organiser ses dessertes. Ceci étant, il n'est pas anormal qu'à l'occasion de la mise en service de lignes nouvelles elle soit conduite à modifier son offre de transport qui, globalement, s'améliore. Il a toutefois rappelé à l'entreprise publique que ces modifications doivent donner lieu à une large concertation notamment avec le conseil régional. La SNCF indique qu'elle a élaboré un projet de circulation reliant Paris à Briançon en 6 heures et 11 minutes, meilleur temps jamais réalisé sur ce parcours. Cette relation, qui devrait être mise en place au service d'hiver 2001-2002, serait assurée par le TGV n° 6193 quittant Paris à 10 h 44 et arrivant à 13 h 1 à Valence-ville et par un TER quittant Valence-ville à 13 h 11 pour arriver à Gap à 15 h 32 et à Briançon à 16 h 55. Cette desserte serait assurée tous les jours sauf les samedis de plein hiver. Ces samedis, un train Lyon (12 h 30) - Valence-ville (13 h 43) - Briançon (18 h 33) assurerait à Lyon et à Valence la correspondance avec des trains en provenance de Rouen, Lille, Metz, Strasbourg et avec deux TGV en provenance de Paris. Une liaison TER au départ de Valence-TGV à 14 h 35 est également à l'étude pour assurer la correspondance avec des TGV provenant de Bruxelles, de Lille et de Bretagne. Ces dessertes envisagées pour les samedis de mi-décembre à fin mars, qui sont les jours de plus forte demande pour le Briançonnais, permettraient aux voyageurs de n'avoir qu'une correspondance, quelle que soit leur provenance.
