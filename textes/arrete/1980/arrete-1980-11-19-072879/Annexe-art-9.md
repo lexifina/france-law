@@ -12,6 +12,6 @@ Un médecin inspecteur de la santé représentant le ministre chargé de la sant
 
 Des suppléants sont désignés suivant la même procédure et en même nombre. Ils siègent en l'absence des titulaires.
 
-Un représentant du ministre chargé de la sécurité sociale assiste à la commission avec voix consultative.
+Un chirurgien-dentiste conseil représentant la caisse nationale de l'assurance maladie des travailleurs salariés assiste à la commission avec voix consultative.
 
 Les membres titulaires ou suppléants de la commission nationale de première instance ne peuvent siéger s'ils ont déjà eu à donner leur avis, en première instance, dans l'affaire soumise à la commission nationale d'appel.
