@@ -110,7 +110,9 @@ Un spécialiste de l'orientation professionnelle ou un enseignant de l'Éducatio
 
 - un enseignant de la conduite (*)
 
-- un psychologue agréé pour la formation des conducteurs infractionnistes.
+- un psychologue agréé pour la formation des conducteurs infractionnistes
+
+- un chargé de mission de sécurité routière ou un inspecteur départemental de sécurité routière.
 
 |
 
@@ -262,6 +264,6 @@ Un enseignant de la conduite (*) et au choix :
 
 |
 
-(*) Les examinateurs sont désignés dans les conditions prévues à l'article 6 du présent arrêté. Les représentants de l'administration doivent être des agents de catégorie "A" de la fonction publique. Les enseignants de la conduite sont choisis de préférence parmi les titulaires du B.A.F.M. ou du B.E.P.E.C.A.S.E.R.
+(*) Les représentants de l'administration doivent être des agents de catégorie "A" ou "B" de la fonction publique. Les enseignants de la conduite sont choisis de préférence parmi les titulaires du B.A.F.M. ou du B.E.P.E.C.A.S.E.R. Les enseignants de l'éducation nationale peuvent être remplacés par des enseignants en activité dans un établissement privé sous contrat d'association avec l'Etat.
 
 |
