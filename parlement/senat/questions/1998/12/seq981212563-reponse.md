@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981212563
+
+- Question : [SEQ981212563](seq981212563.md) — Prêts d'honneur accordés aux étudiants
+
+## Réponse
+
+*Éducation, JO du 1999-02-04, page 380*
+
+Réponse. - Des prêts d'honneur peuvent être accordés aux étudiants français non boursiers. Exempts d'intérêt, ils sont remboursables au plus tard dix ans après la fin des études. Ils sont attribués par un comité académique spécialisé, dans la limite des crédits prévus à cet effet et selon la situation sociale du candidat. Les crédits affectés aux prêts d'honneur proviennent de la dotation budgétaire (26 millions de francs en 1998) et du rattachement, sous forme de fonds de concours, des remboursements d'anciens prêts (11 millions de francs en 1997). Ainsi, pour l'année universitaire 1997-1998, 3 458 prêts d'honneur ont pu être consentis (p 1,07 %) pour un montant moyen de 10 672 francs. Le nombre de prêts accordés pour l'année 1997-1998 dans l'académie de Montpellier s'élève à 97 pour un montant global de 1 572 044 millions de francs. Pour l'année universitaire 1998-1999, le montant de la dotation budgétaire des prêts d'honneur est identique. Cependant, un effort significatif en direction des étudiants d'origine modeste a été engagé dans le cadre du plan social étudiant dès la rentrée universitaire 1998 par l'accroissement de 20 000 boursiers et l'augmentation de 6 % du plafond des bourses du 1er échelon, la revalorisation de 5 % du taux de la bourse du 5e échelon et de 3 % des autres échelons, l'attribution de 200 bourses de mérite aux étudiants bacheliers mention " très bien " issus de milieux modestes et s'engageant à préparer l'ENA et l'ENM, la mise en place de la carte annuelle étudiante " Imagine R ", qui permet aux étudiants franciliens de voyager avec plus de 40 % de réduction au tarif actuel.
