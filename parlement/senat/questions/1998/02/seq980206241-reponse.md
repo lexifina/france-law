@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980206241
+
+- Question : [SEQ980206241](seq980206241.md) — Découpage des zones déterminant les calendriers de vacances scolaires
+
+## Réponse
+
+*Enseignement scolaire, JO du 1998-04-16, page 1255*
+
+Réponse. - Le découpage du territoire métropolitain en trois zones est effectif depuis l'année scolaire 1989-1990. Cette répartition des académies, dans le cadre de l'élaboration du calendrier scolaire national, permet d'assurer un étalement important sur quatre semaines des vacances scolaires d'hiver et de printemps et de répondre ainsi plus aisément à la demande du public en matière de tourisme et de loisirs dont tous bénéficient, quelle que soit la zone de résidence. En outre, une telle mesure tient compte des préoccupations liées à la sécurité routière, en évitant dans la mesure du possible de concentrer les départs et les retours des familles venant d'académies voisines vers des destinations communes de vacances. C'est pourquoi deux académies limitrophes comme celles de Nancy-Metz et de Strasbourg sont rattachées respectivement à la zone A et à la zone B. Il n'est actuellement pas envisagé de modifier la répartition des académies dans les différentes zones territoriales. Afin de pallier certains inconvénients du décalage entre zones, il est procédé chaque année à un roulement des zones les unes par rapport aux autres, afin que tous puissent profiter des mêmes périodes à tour de rôle et que les trois zones bénéficient, deux par deux et chacune à leur tour, d'une semaine de congés en commun au cours des vacances d'hiver et de printemps. En vertu de ce principe équitable, si les plages de congés d'hiver A et B ne se chevauchent pas du tout cette année, en revanche les congés d'hiver et de printemps de l'année 1999 permettront aux élèves scolarisés dans ces deux zones de bénéficier d'une semaine commune de vacances.
