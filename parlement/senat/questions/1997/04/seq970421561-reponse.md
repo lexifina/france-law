@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970421561
+
+- Question : [SEQ970421561](seq970421561.md) — Coopération entre les Etats membres de l'Union économique et monétaire et la future Banque centrale européenne
+
+## Réponse
+
+*Affaires étrangères, JO du 1997-06-02, page 1614*
+
+Réponse. - Les autorités françaises estiment que le passage à la monnaie unique, qui est le dernier élément constitutif de l'Union économique et monétaire, devrait s'accompagner d'un renforcement de la cohérence des politiques économiques entre les pays utilisant l'euro. Pour cette raison, elles ont suggéré la mise en place d'une instance au sein de laquelle les ministres de l'économie et des finances de ces pays seraient chargés de la coordination des politiques budgétaires, du suivi de la conjoncture et de la politique en matière de taux de change des pays de la zone euro. A cette instance serait également dévolu un rôle d'interlocuteur de la Banque centrale européenne, celle-ci ayant pour sa part la pleine responsabilité de la politique monétaire dans l'Union pour garantir, comme le traité instituant la Communauté européenne le prévoit, la stabilité des prix au sein de l'Union. De l'avis des autorités françaises, cette instance devrait revêtir un caractère transitoire, puisque appelée à disparaître dès lors que tous les Etats européens utilisant la monnaie unique, le conseil Ecofin pourrait utilement débattre de ces sujets. Il s'agirait également d'une instance informelle, qui ne porterait donc en aucune façon atteinte à l'indépendance de la future Banque centrale européenne. Le principe de l'indépendance de la Banque centrale européenne est inscrit dans le traité instituant la Communauté européenne et les autorités françaises y attachent la plus haute importance. La Commission européenne serait invitée à participer aux discussions. Le principe de cette suggestion a pour l'instant trouvé un écho positif auprès de plusieurs de nos partenaires européens.
