@@ -1,7 +1,5 @@
 # Article ANNEXE I
 
-Déchets admissibles
-
 I. - Définition des catégories de déchets admissibles
 
 Les déchets admissibles dans les décharges de déchets ménagers et assimilés sont répartis, en fonction de leur comportement prévisible en cas de stockage et des modalités alternatives d'élimination, en deux catégories :
