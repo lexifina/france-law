@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890203629
+
+- Question : [SEQ890203629](seq890203629.md) — Fiscalité des vergers
+
+## Réponse
+
+*Économie, JO du 1989-06-08, page 876*
+
+Réponse. - En matière de vergers, les cotisations afférentes à la taxe foncière sur les propriétés non bâties, effectivement exigibles dès la première année suivant celle de la plantation, sont calculées en tenant compte de la période d'improductivité. Cette méthode conduit à une répartition uniforme, sur l'ensemble de la durée de vie du verger, des sommes normalement dues. Le mode de calcul des valeurs locatives des vergers, généralement utilisé lors de la dernière révision, vise à ne retenir qu'une partie du produit brut d'exploitation représentative de la rente retranchant successivement du produit moyen le montant des frais et dépenses que nécessite une exploitation normale, l'annuité d'amortissement normal des frais de premier établissement tels que les frais de plantation, de remplacement, de mise en état de production et de culture pendant les années improductives, puis la part représentative du bénéfice agricole ou des éléments étrangers à la rente du sol. Le montant total des abattements ainsi effectués varie sensiblement en fonction du type de verger considéré, du degré de fertilité du sol et de l'environnement de l'exploitation. La valeur locative ne peut donc représenter dans toutes les communes un pourcentage identique du produit d'exploitation. A qualité égale de nature de culture, les disparités constatées entre les communes au niveau des prélèvements fiscaux résultent souvent des écarts entre les taux d'imposition fixés librement par les collectivités locales. Elles peuvent provenir également de différences de tarifs ou de classement qui sont souvent la conséquence d'un certain vieillissement des évaluations foncières auquel il ne peut être pallié que par une révision générale de ces évaluations.
