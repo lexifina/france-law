@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970902799
+
+- Question : [SEQ970902799](seq970902799.md) — Promotion des dons du sang en région lyonnaise
+
+## Réponse
+
+*Santé, JO du 1997-12-04, page 3400*
+
+Réponse. - L'établissement de transfusion sanguine de Lyon a pu assurer de façon continue et sans grave à coup, l'approvisionnement des établissements de santé lors de l'été 1997. Cependant, il faut noter que des tensions locales d'approvisionnement peuvent parfois surgir lors des périodes estivales ou de fêtes, périodes ou il est plus difficile de mobiliser les donneurs de sang. C'est pourquoi les établissements de transfusion sanguine ont parfois recours aux appels dans la presse sans que cela signifie pour autant la mise en danger des personnes devant être transfusées. Par ailleurs, dès septembre 1996, l'Agence française du sang a engagé une stratégie nationale de promotion du don de sang qui comporte trois phases : la première phase consiste à donner aux établissements de transfusion sanguine tous les outils nécessaires à assurer leur communication locale et de proximité afin d'améliorer le recrutement de nouveaux donneurs de sang et la fidélisation des donneurs occasionnels. La deuxième phase de mobilisation du réseau en cours comprenant, dans chaque établissement de transfusion sanguine, le recrutement de chargés de communication dans un objectif de professionnalisation de la promotion du don. Enfin, l'Agence française du sang a engagé la troisième phase qui consiste dans une campagne nationale de promotion du don de sang média et hors média dans l'objectif de recruter au niveau national de nouveaux donneurs de sang et de fidéliser grâce à l'action des établissements de transfusion sanguine les donneurs ainsi recrutés. Cette campagne nationale de promotion du don de sang débutera en janvier ou février 1998 et bien évidemment intégrera les éléments obligatoires de la sécurité transfusionnelle afin d'assurer la sécurité maximale des patients transfusés.
