@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971204812
+
+- Question : [SEQ971204812](seq971204812.md) — Norme française relative à la sécurité des tables de tennis de table
+
+## Réponse
+
+*Économie, JO du 1998-02-19, page 574*
+
+Réponse. - Parmi les accidents constatés à l'occasion de la pratique du tennis de table, un nombre important d'entre eux sont imputables directement aux tables. La commission de sécurité des consommateurs a émis un avis aux termes duquel elle préconise notamment qu'une norme de sécurité soit élaborée et que les pouvoirs publics mettent en place une réglementation spécifique à ce type de matériel de sport et de loisirs fixant les exigences essentielles de sécurité à respecter. Dès le début de l'année 1996, les pouvoirs publics et l'Association française de normalisation ont défini les mesures qui permettraient d'améliorer la sécurité des tables de ping-pong. Ils sont convenus de mettre au point dans les meilleurs délais une norme qui pourrait constituer le référentiel privilégié pour répondre à l'exigence générale de sécurité prévue à l'article L. 221-1 du code de la consommation. Les travaux concernant la réalisation de cette norme ont été lancés en 1997. Celle-ci est aujourd'hui achevée et doit être soumise à l'enquête probatoire puis publiée cette année. L'avis de la commission de sécurité des consommateurs a reçu un large écho auprès des professionnels du secteur considéré. De plus, ceux-ci ont été largement informés et sensibilisés aux questions de sécurité par les pouvoirs publics. La diffusion prochaine d'une norme à laquelle pourront se référer les opérateurs économiques pour répondre à l'obligation générale de sécurité devrait être de nature à réduire les risques d'accidents dans ce domaine. Aussi, n'apparaît-il pas indispensable au Gouvernement de recourir, dans l'immédiat, à la publication d'une réglementation spécifique à ce type de matériel de sport et de loisirs.
