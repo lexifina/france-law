@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950410702
+
+- Question : [SEQ950410702](seq950410702.md) — Réglementation des ventes pyramidales
+
+## Réponse
+
+*Économie, JO du 1996-02-22, page 406*
+
+Réponse. - Le renforcement du dispositif relatif aux ventes pyramidales, intervenu le 1er février 1995, traduit la ferme volonté des pouvoirs publics de mettre fin à certaines pratiques commerciales abusives qui exploitent la situation de précarité dans laquelle se trouvent les personnes à la recherche d'un emploi. Ces abus ont par ailleurs été constatés par une enquête nationale diligentée par la direction générale de la concurrence de la consommation et de la répression des fraudes en 1994. Ils consistent à proposer une activité lucrative dans le cadre d'un réseau de vente en chaîne en imposant une participation financière initiale pour des motifs divers et variés (formation, achats de matériels pédagogiques, droits d'entrée). Cette participation financière peut être le motif essentiel de la constitution du réseau, l'activité commerciale proposée n'étant qu'accessoire, voire illusoire. Ces pratiques sont désormais strictement interdites par l'article L. 121-6 du code de la consommation. Cette interdiction qui accorde une sérieuse garantie aux consommateurs n'est pas la seule mesure de protection voulue par le législateur. Elle se conjugue avec l'obligation de reprise du stock de produits par le professionnel au cas où le consommateur ne parviendrait pas à écouler celui-ci. La conjugaison de ces deux dispositions permet donc de réduire l'exploitation de la crédulité des personnes en recherche d'emploi et surtout de sanctionner les offres d'activité dans le cadre de réseaux n'ayant pas un caractère réellement commercial. Il convient aussi de rappeler que ce nouveau dispositif législatif sur les réseaux de vente en chaîne d'adhérents ne fait que compléter le dispositif existant, les réseaux de type pyramidal demeurant strictement interdits.
