@@ -16,6 +16,6 @@ En outre, l'intéressé aura droit au maintien de son salaire antérieur pendant
 
 Enfin, l'intéressé bénéficiera d'une priorité d'accès à un emploi disponible comportant un classement et un salaire équivalents à ceux de son précédent emploi et pour lequel il aura montré ses aptitudes, au besoin après avoir exploité toutes les possibilités de formation complémentaire résultant de l'accord national interprofessionnel du 9 juillet 1970 modifié.
 
-Les dispositions du présent article ne peuvent faire échec aux obligations légales relatives aux priorités d'emploi ni aux dispositions des articles 16 et 20 de l'accord national du 25 avril 1973 sur les problèmes généraux de l'emploi, relatives aux priorités de reclassement ou de réembauchage.
+Les dispositions du présent article ne peuvent faire échec aux obligations légales relatives aux priorités d'emploi ni aux dispositions des articles 26 et 30 de l'accord national du 12 juin 1987 sur les problèmes généraux de l'emploi, relatives aux priorités de reclassement ou de réembauchage.
 
 La mutation professionnelle envisagée par le présent article doit être exceptionnelle et, s'il n'est pas possible de l'éviter, l'employeur devra mettre tout en oeuvre pour que l'intéressé retrouve dans l'entreprise un emploi comportant une qualification et un salaire équivalents à ceux du poste que le salarié a dû quitter.
