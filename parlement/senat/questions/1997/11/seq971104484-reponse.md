@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971104484
+
+- Question : [SEQ971104484](seq971104484.md) — Imposition des plus-values en cas d'échange de droits sociaux
+
+## Réponse
+
+*Économie, JO du 1998-07-02, page 2144*
+
+Réponse. - Les dispositions combinées du II de l'article 92 B et du 4º du I ter de l'article 160 du code général des impôts prévoient un régime de report d'imposition des plus-values d'échange de valeurs mobilières ou de droits sociaux réalisées par les personnes physiques. Aux termes de la loi, l'imposition de la plus-value réalisée en cas d'échange de titre résultant notamment d'un apport à une société soumise à l'impôt sur les sociétés peut être reportée au moment où s'opérera la cession, le rachat, le remboursement ou l'annulation des titres reçus lors de l'échange. Ce régime de report d'imposition s'applique dans les mêmes conditions lorsque l'apport est consenti à une société ayant son siège dans un Etat membre de l'Union européenne, sous réserve qu'il s'agisse d'une société de capitaux ou assimilée soumise à un impôt équivalent à l'impôt sur les sociétés. Ainsi, le report d'imposition s'applique, toutes autres conditions étant par ailleurs satisfaites, aux apports aux sociétés belges ou danoises soumises au régime fiscal de droit commun des sociétés de capitaux, de même qu'aux sociétés de capitaux luxembourgeoises soumises au régime fiscal de droit commun des sociétés mères. La circonstance que, dans ces pays, le droit interne prévoit l'exonération, sous certaines conditions, des plus-values de cession de titres est à cet égard sans incidence : en effet la cession des titres reçus en échange, réalisée par des personnes physiques résidentes de France, demeure dans le champ d'application de l'impôt sur le revenu en France et la plus-value d'échange en report d'imposition est alors imposable dans les conditions de droit commun.
