@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950611314
+
+- Question : [SEQ950611314](seq950611314.md) — Sécurité incendie et établissements hôteliers
+
+## Réponse
+
+*Tourisme, JO du 1995-09-28, page 1865*
+
+Réponse. - L'arrêté du 22 juin 1990, portant approbation de dispositions complétant le règlement de sécurité contre les risques d'incendie et de panique dans les établissements recevant du public, est entré en vigueur le vendredi 25 août 1995. Ce texte est venu renforcer les dispositions déjà applicables aux petits établissements hôteliers (moins de 100 personnes) en vertu de l'arrêté du 4 novembre 1976. Un délai de cinq ans pour la mise en conformité des établissements avait été accordé aux hôteliers. Il ne sera pas accordé de délai supplémentaire pour la mise en conformité. Les craintes des hôteliers portent essentiellement sur l'application des textes qui est faite par les commissions locales de sécurité. En effet, les hôteliers se voient très souvent imposer des travaux de mise en conformité qui vont bien au-delà de ce que prévoit la réglementation. C'est la raison pour laquelle il a été demandé au ministère de l'intérieur d'attirer l'attention des préfets sur la nécessité d'appliquer les dispositions relatives à la sécurité dans les petits hôtels en se conformant aux textes, mais avec le souci constant de préserver un juste équilibre entre les risques encourus et les conséquences économiques pour les entreprises. A cet effet, la direction de la sécurité civile s'est engagée à mener une action de sensibilisation auprès des préfets, à charge pour eux d'informer les présidents des commissions locales de sécurité, en rappelant que : des solutions alternatives à la construction d'un deuxième escalier peuvent être mises en oeuvre ; l'avis des commissions locales de sécurité est consultatif, c'est en effet au maire qu'il appartient de prendre la décision administrative qui s'impose ; l'exploitant peut demander à être entendu par la commission.
