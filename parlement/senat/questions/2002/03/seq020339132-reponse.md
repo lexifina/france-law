@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020339132
+
+- Question : [SEQ020339132](seq020339132.md) — Consulat de Pondichéry
+
+## Réponse
+
+*Affaires étrangères, JO du 2002-05-02, page 1229*
+
+Les effectifs du consulat de France à Pondichéry se composent : du consul général, de deux consuls-adjoints, d'une assistante sociale, de 10 agents expatriés de catégorie C chargés des affaires consulaires et administratives, de quatorze agents de bureau, de recrutement local, dont onze de nationalité française. Les crédits de fonctionnement du consulat général à Pondichéry, pour l'année 2002, s'élèvent à 207 946 EUR, et se décomposent en moyens de fonctionnement courant et en équipements et travaux. Le fonctionnement courant proprement dit comprend les prestations et les déplacements : prestations de service contractuelles, entretien et fonctionnement du parc automobile, fournitures diverses, communications, frais de tournées et de valise diplomatique, le montant total étant évalué à 105 708 EUR ; frais de déplacements (appels par ordre, missions en France, congés, ruptures d'établissement, déplacements hors zone territoriale), pour un montant de 79 253 EUR. En ce qui concerne les équipements et travaux, le montant des crédits pour 2002 s'élève à 22 985 EUR. Compte tenu de la mesure de régulation budgétaire notifiée au ministère des affaires étrangères, cette dotation initiale est susceptible de faire l'objet de modifications. L'ouverture d'un guichet des visas à Chennai, dépendant du consulat général à Pondichéry, dont le coût de fonctionnement est estimé à 21 900 EUR, fait actuellement l'objet d'une étude. Le consulat général à Pondichéry est ouvert au public tous les jours, du lundi au vendredi, de 7 h 30 à 12 heures et sur rendez-vous l'après-midi. Une permanence téléphonique est assurée les samedi, dimanche et jours fériés.
