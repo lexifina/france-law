@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930400237
+
+- Question : [SEQ930400237](seq930400237.md) — Concours de documentaliste : date limite des dépôts de candidatures pour les personnels exerçant à l'étranger
+
+## Réponse
+
+*Éducation, JO du 1993-08-05, page 1333*
+
+Réponse. - La publication au bulletin officiel de l'éducation nationale de l'arrêté fixant les dates et modalités d'un concours de recrutement n'est pas le seul moyen d'information des candidats sur la date de clôture des inscriptions. En l'occurrence, le concours de documentaliste organisé en avril 1992 figurait au calendrier des concours administratifs prévus dans le courant de l'année scolaire 1991-1992, calendrier qui a été annoncé par une note de service en date du 19 août 1991 publiée au bulletin officiel no 31 du 12 septembre 1991. Le tableau annexé à la note de service mentionnait, pour chaque concours, la date des épreuves, les dates d'ouverture et de clôture des inscriptions, ainsi que le lieu de délivrance et de réception des dossiers d'inscription. Les mêmes renseignements ont été intégrés dans le calendrier général des concours de la fonction publique dont l'ouverture était envisagée au cours de l'année 1992 et qui a été publié au Journal officiel du 19 décembre 1991. Enfin, un extrait de l'arrêté interministériel en date du 2 janvier 1992 qui autorisait l'ouverture du concours et rappelait la date de clôture des inscriptions a été inséré au Journal officiel du 5 janvier 1992. Tout candidat intéressé par ce recrutement disposait donc des moyens d'information qui lui permettaient de demander, en temps utile, les imprimés nécessaires à son inscription afin de pouvoir composer les 2 et 3 avril 1992. En tout état de cause, il n'est pas possible de rouvrir les délais d'inscription à un concours dont les épreuves se sont achevées le 25 juin 1992.
