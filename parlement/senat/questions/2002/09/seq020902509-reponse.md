@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020902509
+
+- Question : [SEQ020902509](seq020902509.md) — Régime commun pour l'ensemble des réseaux audiovisuels et de télécommunications
+
+## Réponse
+
+*Culture, JO du 2002-12-26, page 3231*
+
+L'honorable parlementaire souhaite connaître l'opinion du ministre de la culture et de la communication concernant la nécessité soulignée par l'autorité de régulation des télécommunications dans son rapport annuel d'instaurer un cadre juridique unique pour l'ensemble des réseaux aussi bien de télécommunication qu'audiovisuels. Les directives européennes parues au Journal officiel de l'Union européenne le 24 avril 2002 réforment le cadre juridique applicable au secteur des télécommunications en intégrant pour la première fois dans leur champ d'application, dans une notion unique de réseaux de communications électroniques, l'ensemble des réseaux audiovisuels et de télécommunication. En conséquence, le nouveau cadre harmonisé définit bien un régime juridique homogène pour les réseaux de communications électroniques. La suggestion de l'Autorité de régulation des télécommunications devrait donc être satisfaite lors de la transposition en droit national des directives avant le 24 juillet 2003. Toutefois, ainsi qu'explicitement prévu par les dispositions européennes, le champ d'application de ces textes ne couvre pas la distribution de services de communication audiovisuelle, telle qu'elle est définie par la loi du 30 septembre 1986 modifiée sur la liberté de communication, qui peut donc faire l'objet de dispositions juridiques particulières. Par ailleurs, les nouvelles dispositions européennes reconnaissent les interactions qu'il peut être nécessaire de prendre en compte entre les réseaux et les services qu'ils transportent, dans le but de ne pas porter préjudice à l'accomplissement de missions d'intérêt général, comme le pluralisme et la diversité culturelle, particulièrement dans le domaine des fréquences radioélectriques.
