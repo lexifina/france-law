@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920621624
+
+- Question : [SEQ920621624](seq920621624.md) — Conséquences du marché unique européen dans les DOM : nécessité d'une surveillance côtière accrue
+
+## Réponse
+
+*Intérieur, JO du 1992-09-17, page 2138*
+
+Réponse. - Le Gouvernement attache le plus grand intérêt au renforcement de la lutte contre l'immigration irrégulière et le travail clandestin. Dans la perspective de l'échéance 1993, plus de cent gradés et gardiens de la paix seront affectés, dès cette année, dans les départements d'outre-mer soit en remplacement de fonctionnaires mutés ou admis à faire valoir leurs droits à la retraite soit au titre d'une augmentation d'effectifs. Par ailleurs, l'extension de la départementalisation à l'ensemble du territoire, annoncée dans le cadre des 21 mesures du plan d'action pour la sécurité, présenté au conseil des ministres du 13 mai 1992, se traduira par un regroupement, sous le commandement unique d'un directeur départemental, des polices urbaines, des renseignements généraux et de la police de l'air et des frontières, ce qui permettra une gestion plus rationnelle des effectifs et des moyens et, partant, contribuera à une plus grande efficacité des services. Cette départementalisation sera effective le 31 décembre 1992 sur tout le territoire, dont les départements d'outre-mer, où elle est, d'ailleurs, déjà appliquée dans l'un d'entre eux, en l'occurrence à la Réunion, depuis le début de cette année. La mobilisation policière sera renforcée afin de contrôler l'immigration irrégulière non seulement aux frontières mais encore, par des missions mieux ciblées, à l'intérieur du territoire. La coordination de la lutte contre l'emploi clandestin de main-d'oeuvre étrangère qui passera par la restructuration en cours à différents niveaux de l'administration ne pourra que concourir à une meilleure maîtrise des flux migratoires.
