@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861003241
+
+- Question : [SEQ861003241](seq861003241.md) — Statut juridique des sociétés coopératives de production (SCOP)
+
+## Réponse
+
+*Industrie, JO du 1986-11-13, page 1597*
+
+Réponse. -Le statut juridique des S.C.O.P. a été modernisé par les lois n° 78-763 du 19 juillet 1978 et n° 85-703 du 12 juillet 1985. Dans le cadre de la loi d'habilitation économique, des ordonnances relatives à l'intéressement, la participation et l'actionnariat sont envisagées. A cette occasion, les S.C.O.P. bénéficieront elles aussi des mesures d'actualisation et de modernisation qui pourront être prises. Il faut noter que les chances de succès des S.C.O.P. sont très différentes selon les conditions dans lesquelles elles ont été créées. Lorsque les conditions de création d'une S.C.O.P. sont assimilables à celles de toute autre société, quelle que soit sa forme, ses chances de succès sont alors identiques. Le seul problème que l'on puisse identifier est celui de l'insuffisance des fonds propres. L'I.D.E.S. leur apporte son soutien en garantissant les prêts. En revanche, lorsqu'il s'agit du rachat d'une entreprise en difficulté par ses salariés, et si cette r eprise s'effectue lorsque toutes les autres possibilités ont échoué, la S.C.O.P. se trouve confrontée à des problèmes tels qu'ils réduisent notablement ses chances de réussite. En effet, la société recueille un passif aggravé, des éléments constituant l'actif ont disparu, sa part de marché s'est d'ores et déjà amenuisée ; l'équilibre économique de la reprise peut en être compromis. En conséquence, le succès de la reprise dépend surtout de l'environnement de l'entreprise elle-même. Enfin, comme pour l'ensemble des P.M.I., la formation aux techniques modernes de management et aux nouvelles technologies devient une nécessité que le Gouvernement encourage afin de rendre ces entreprises plus compétitives face à la concurrence internationale, en créant un environnement favorable.
