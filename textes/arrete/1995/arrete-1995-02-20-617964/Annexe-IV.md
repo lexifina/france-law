@@ -1,43 +1,45 @@
-# Article ANNEXE IV
+# Article Annexe IV
 
-Montants au 1er décembre 1994 (en francs)
+PERSONNELS CONCERNÉS
+
+MONTANTS au 1er mars 1995 (en francs)
 
 Assistants généralistes :
 
 - 1er et 2e année
 
-135 755
+137 374
 
 - 3e et 4e année
 
-149 357
+151 137
 
 Assistants spécialistes :
 
 - 1er et 2e année
 
-178 333
+180 459
 
 - 3e et 4e année
 
-194 196
+196 512
 
 Assistants associés généralistes :
 
 - 1er et 2e année
 
-129 065
+130 604
 
 - 3e et 4e année
 
-141 986
+143 679
 
 Assistants associés spécialistes :
 
 - 1er et 2e année
 
-169 514
+171 535
 
 - 3e et 4e année
 
-184 584
+186 785

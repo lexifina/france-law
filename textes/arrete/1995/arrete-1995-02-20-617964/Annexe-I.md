@@ -1,111 +1,113 @@
-# Article ANNEXE I
+# Article Annexe I
 
-Montants au 1er décembre 1994 (en francs)
+PERSONNELS CONCERNÉS
+
+MONTANTS au 1er mars 1995 (en francs)
 
 A. - Professeurs des universités - praticiens hospitaliers :
 
 - après 12 ans
 
-313 180
+316 914
 
 - après 9 ans
 
-275 900
+279 189
 
 - après 6 ans
 
-232 408
+235 179
 
 - après 3 ans
 
-213 767
+216 316
 
 - avant 3 ans
 
-188 915
+191 168
 
 B. - Maîtres de conférences des universités - praticiens hospitaliers et chefs de travaux des universités - praticiens hospitaliers :
 
 - après 24 ans et demi
 
-248 492
+251 455
 
 - après 20 ans
 
-227 436
+230 148
 
 - après 17 ans
 
-213 767
+216 316
 
 - après 14 ans
 
-200 099
+202 485
 
 - après 11 ans
 
-185 187
+187 395
 
 - après 8 ans
 
-170 275
+172 305
 
 - après 6 ans
 
-157 847
+159 729
 
 - après 4 ans
 
-142 936
+144 640
 
 - après 2 ans
 
-134 238
+135 838
 
 - avant 2 ans
 
-126 784
+128 295
 
-C. - Praticiens hospitaliers - universitaires :
+C. - Praticiens hospitaliers universitaires :
 
 - 8e échelon
 
-175 624
+177 718
 
 - 7e échelon
 
-164 004
+165 959
 
 - 6e échelon
 
-152 381
+154 198
 
 - 5e échelon
 
-146 007
+147 747
 
 - 4e échelon
 
-138 184
+139 832
 
 - 3e échelon
 
-132 812
+134 396
 
 - 2e échelon
 
-124 845
+126 333
 
 - 1er échelon
 
-119 030
+120 449
 
-D. - Chefs de clinique des universités - assistants des hôpitaux et assistants universitaires :
+D. - Chefs de clinique des universités - assistants des hôpitaux et assistants hospitaliers universitaires :
 
 - 2e échelon (après 2 ans de fonctions)
 
-109 764
+111 073
 
 - 1er échelon (avant 2 ans de fonctions)
 
-94 212
+95 335
