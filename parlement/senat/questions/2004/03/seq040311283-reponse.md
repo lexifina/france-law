@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040311283
+
+- Question : [SEQ040311283](seq040311283.md) — Traitement de la polyarthrite rhumatoïde
+
+## Réponse
+
+*Santé, JO du 2004-06-03, page 1217*
+
+La polyarthrite chronique fait l'objet d'une attention particulière de la part du ministre de la santé, de la famille et des personnes handicapées, car elle constitue le plus fréquent et le plus sévère des rhumatismes inflammatoires chroniques. On estime que les formes sévères de cette maladie représentent 10 % à 20 % des cas. Les anti-TNF, pour les patients dont la maladie résiste à tous les autres traitements habituels, apportent une amélioration spectaculaire de leur état, malgré des effets indésirables parfois importants. Leur coût, particulièrement élevé (9 000 euros par an et par patient), a toutefois eu pour effet de contraindre leur accès à l'hôpital. Conscient de cela, le ministre a accentué en 2003 l'effort déjà engagé pour financer la montée en charge des produits innovants et onéreux à l'hôpital, dont les anti-TNF, consacrant une enveloppe de 200 millions d'euros supplémentaires. Au-delà de l'effort effectué par l'hôpital, la commercialisation de nouvelles molécules en ville (Enbrel et Humira) est venue renforcer les possibilités d'accès à ces traitements innovants et permettre à un plus grand nombre de patients d'en bénéficier. Pour l'avenir, la loi de financement de la sécurité sociale vient de mettre en place un nouveau système de financement des molécules onéreuses qui garantit aux patients un meilleur accès au traitement dont ils ont besoin. L'arrivée de spécialités disponibles en ville et la modification des modalités de financement des médicaments onéreux à l'hôpital devraient ainsi apporter une réponse définitive aux difficultés d'accès de certains patients aux traitements par les anti-TNF.
