@@ -1,0 +1,9 @@
+# Réponse à la question SEQ921223791
+
+- Question : [SEQ921223791](seq921223791.md) — Conditions d'attribution de la croix du combattant volontaire, barrette " Indochine "
+
+## Réponse
+
+*Défense, JO du 1993-02-18, page 283*
+
+Réponse. - Les croix du combattant volontaire (CCV) visent essentiellement à reconnaître et à récompenser non pas le simple volontariat, mais l'acte d'engagement souscrit pour un conflit déterminé par les personnes qui n'étaient pas alors liées par contrat avec l'armée. La barrette correspondante (" Guerre 1939-1945 ", " Indochine ", " Corée " ou " Afrique du Nord ") désigne la campagne au titre de laquelle l'engagement a été contracté. Le décret n° 81-846 du 8 septembre 1981 a institué la CCV avec barrette " Indochine " destinée à récompenser l'engagement souscrit pour participer, dans une formation combattante, aux opérations se déroulant en Indochine de 1945 à 1954. Les conditions d'attribution de cette distinction ont été précisées dans l'instruction d'application n° 3500 du 5 mai 1988. Ainsi, cette décoration peut être accordée aux personnes dans leurs foyers qui ont souscrit un engagement ou un rengagement à terme pour servir en Indochine ou qui, à l'issue de leur instruction ou formation, y ont servi au titre de ce contrat. Il en est de même pour les personnels qui ont souscrit un engagement au titre du second conflit mondial et qui ont servi en Indochine au cours de ce contrat, ou dont le contrat a été transformé en engagement à terme pour servir en Indochine. Il ne peut, par contre, être envisagé d'en faire bénéficier ceux qui, lorsqu'ils ont manifesté le souhait de servir en Indochine, possédaient déjà la qualité de militaire de carrière ou étaient déjà liés par contrat à l'armée, ce qui conduirait à instaurer des différences de traitement avec les autres générations de feu et ramènerait cette décoration au même rang que celui de la médaille commémorative déjà instituée pour cette campagne.
