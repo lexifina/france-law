@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971003685
+
+- Question : [SEQ971003685](seq971003685.md) — Désengagement des compagnies d'assurances pour assurer à la Réunion les risques liés à la construction
+
+## Réponse
+
+*Économie, JO du 1998-01-08, page 89*
+
+Réponse. - Les états comptables transmis par les entreprises d'assurances aux autorités de contrôle ne permetttent pas d'isoler les résultats afférents aux départements d'outre-mer (DOM). On ne dispose donc pas de données précises sur les sinistres d'assurance construction indemnisés au cours des dernières années dans ces départements. Néanmoins, les difficultés du marché de l'assurance construction ne sont pas propres à la Réunion, puisque les pertes cumulées des entreprises d'assurance dans cette branche ont atteint 16 milliards de francs depuis 1983. Cependant, certaines mesures de nature à améliorer le fonctionnement du dispositif d'assurance construction ont été mises en place ces derniers mois, dont quatre visent à prendre en compte les problèmes spécifiques aux départements d'outre-mer. Leur mise en oeuvre progresse à la Réunion : une charte réunissant tous les partenaires et visant à mettre au point un plan d'action sur la maîtrise du risque est en cours d'élaboration, le Centre scientifique et technique du bâtiment travaille à la mise au point de documents techniques unifiés spécifiques aux DOM, enfin une commission spécialisée du bureau central de tarification (BCT) a été instituée et a commencé à analyser les premiers dossiers émanant de ce département, soumis au BCT. Par ailleurs, les assureurs se sont engagés à créer, avec leurs représentants locaux, un groupement d'intérêt économique de moyens dont le but sera de mettre en commun des outils de gestion des risques. Ces mesures devraient permettre d'améliorer les conditions d'assurance des professionnels de la construction dans ce département.
