@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931203962
+
+- Question : [SEQ931203962](seq931203962.md) — Imposition locale due par les établissements publics France Télécom et La Poste
+
+## Réponse
+
+*Budget, JO du 1994-03-03, page 490*
+
+Réponse. - L'article 21 de la loi du 2 juillet 1990 relative à l'organisation du service public de la poste et des télécommunications pose le principe de l'assujettissement des deux exploitants (La Poste et France Télécom) aux impositions directes locales, moyennant certaines dérogations aux règles de droit commun. Leur imposition intervient à compter du 1er janvier 1994 et est effectuée au profit de l'Etat ; elle est établie au lieu de leur principal établissement. Les bases d'imposition de La Poste sont diminuées d'un abattement de 85 p. 100 en raison des contraintes que lui impose sa mission de service public qui l'oblige à desservir l'ensemble du territoire et à participer à l'aménagement de ce dernier. Le taux applicable aux bases des taxes foncières et de la taxe professionnelle est, pour chacune de ces taxes, le taux moyen pondéré national qui résulte des taux appliqués l'année précédente pour l'ensemble des collectivités locales, groupements, établissements et organismes divers habilités à percevoir le produit des impositions directes locales et de leurs taxes additionnelles. Ce régime fera l'objet ultérieurement d'un nouvel examen ; le Gouvernement devra déposer, avant le 31 décembre 1996, un rapport au Parlement à ce sujet. A partir de 1995, lorsque le montant des impositions effectivement à la charge des deux exploitants sera supérieur aux impositions versées en 1994 et actualisées en fonction de l'indice des prix de la consommation des ménages tel qu'il ressort des hypothèses économiques annexées au projet de loi de finances, l'excédent sera versé au fonds national de péréquation de la taxe professionnelle.
