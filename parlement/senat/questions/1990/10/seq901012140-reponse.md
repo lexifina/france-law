@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901012140
+
+- Question : [SEQ901012140](seq901012140.md) — Transfèrement des détenus par les gendarmes
+
+## Réponse
+
+*Justice, JO du 1991-01-24, page 159*
+
+Réponse. - Le garde des sceaux est conscient des astreintes subies par les services de gendarmerie liées aux transfèrements d'une ville à une autre des détenus appelés à comparaître devant les juridictions judiciaires. Afin d'éviter des déplacements inutiles, les auteurs du code de procédure pénale, animés par le souci d'une bonne administration de la justice - et la limitation du nombre des escortes y participe -, ont prévu des mécanismes de renvoi des affaires entre juges d'instruction ; ainsi, les articles 663 et 664 dudit code autorisent le ministère public à requérir soit le regroupement des affaires éparpillées entre plusieurs magistrats instructeurs au cabinet d'un seul juge lorsque, par le jeu des règles normales de compétence territoriale, ils ont été initialement saisis d'infractions distinctes imputées aux mêmes inculpés, soit la saisine du magistrat du lieu de détention des personnes concernées. Dans la limite de ses attributions, la chancellerie veilleà une application effective et fréquente de ces dispositions qui permettent d'éviter les transfèrements. En ce qui concerne les déserteurs et insoumis, c'est en application des articles L. 79 du code de justice militaire et L. 137 du code du service national qu'ils sont reconduits à leur corps d'affectation ou à l'autorité militaire compétente pour régulariser leur situation, lorsque après avoir été interpellés ils ont été laissés libres par l'autorité judiciaire. Cette mission de reconduite s'analysant en une opération de police militaire à l'égard d'auteurs d'infractions pénales, il ne peut être envisagé, sans modification des règles législatives en vigueur, de l'attribuer à d'autres militaires que ceux de la gendarmerie nationale.
