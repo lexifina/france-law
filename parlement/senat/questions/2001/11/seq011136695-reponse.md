@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011136695
+
+- Question : [SEQ011136695](seq011136695.md) — Déduction des frais professionnels pour la détermination de l'impôt sur le revenu
+
+## Réponse
+
+*Économie, JO du 2002-01-17, page 148*
+
+En application du dernier alinéa du 3° de l'article 83 du code général des impôts, les frais que les salariés exposent pour les transports entre leur domicile et leur lieu de travail sont, dans le cadre du régime des frais réels, déductibles de plein droit à concurrence des quarante premiers kilomètres et, au-delà, si les intéressés justifient l'éloignement de leur domicile par rapport à leur lieu de travail par des circonstances particulières, notamment liées à l'emploi occupé. Lors de l'examen à l'Assemblée nationale du projet de loi de finances pour 2001, le Gouvernement s'est engagé à ce que les services fiscaux fassent preuve de pragmatisme et de bienveillance dans l'application de ces dispositions (J.O., Débats, AN du 20 octobre 2000, pages 7040 et 7041). C'est ainsi que par une instruction administrative du 13 septembre 2001, publiée au Bulletin officiel des impôts sous la référence 5 F-18-01, l'attention des services a été appelée sur la nécessité d'apprécier avec une certaine largeur de vue les circonstances invoquées par les contribuables pour justifier d'une distance entre leur domicile et leur lieu de travail supérieure à quarante kilomètres, en particulier lorsque ces circonstances tiennent aux caractéristiques de l'emploi occupé par les salariés concernés mais aussi à celles du bassin d'emploi de leur domicile, notamment s'il est situé en zone rurale, ou que le kilométrage séparant leur domicile de leur lieu de travail n'est lui-même supérieur à quarante que de quelques kilomètres. Ces dispositions sont de nature à répondre aux préoccupations exprimées.
