@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911118743
+
+- Question : [SEQ911118743](seq911118743.md) — Schéma directeur des lignes ferroviaires à grande vitesse
+
+## Réponse
+
+*Équipement, JO du 1992-08-27, page 1966*
+
+Réponse. - Le Gouvernement a engagé dès janvier 1989 les réflexions qui devaient conduire à l'élaboration d'un schéma directeur national des liaisons ferroviaires à grande vitesse. Ce schéma qui s'appuie sur la double logique de l'aménagement du territoire et de l'intégration européenne a été adopté par le CIAT le 14 mai 1991. Le schéma directeur national des liaisons ferroviaires à grande vitesse a été approuvé par décret interministériel au début du mois d'avril dernier. Ce schéma qui comprend seize projets de lignes nouvelles, dont le projet de TGV Limousin, est constitué d'un réseau de 4 700 kilomètres, environ, de lignes nouvelles à grande vitesse, dont 700 kilomètres en service actuellement et 560 kilomètres en cours de réalisation. Le coût global de l'ensemble des projets proposés s'élèverait à 180 milliards de francs environ en infrastructure et à 30 milliards de francs en matériel roulant, aux conditions économiques de l'année 1989. Le réseau ainsi constitué permettra à la fois d'assurer des liaisons performantes entre Paris et les principales métropoles régionales, de relier ces métropoles entre elles grâce, notamment, à l'interconnexion en Ile-de-France et de créer de grands axes de circulation intégrés aux flux de trafic européens. Le schéma directeur n'est pas un document de programmation. Il ne contient donc pas de dispositions relatives aux modalités financières de sa mise en oeuvre. Le Gouvernement décidera de la réalisation des projets dans le cadre des contrats de plan successifs passés avec la SNCF en tenant compte aussi bien de l'équilibre des comptes de la SNCF que des contraintes économiques qui s'imposent au pays.
