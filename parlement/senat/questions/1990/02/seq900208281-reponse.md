@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900208281
+
+- Question : [SEQ900208281](seq900208281.md) — Extension de la durée des droits aux allocations familiales
+
+## Réponse
+
+*Famille, JO du 1990-06-07, page 1249*
+
+Réponse. - L'âge limite de versement des prestations familiales est fixé à seize ans par le code de la sécurité sociale. Cette limite d'âge est prolongée jusqu'à dix-sept ans pour les enfants sans activité professionnelle et vingt ans pour les apprentis, les stagiaires de la formation professionnelle, les enfants handicapés et les étudiants ; ces enfants ne doivent pas disposer d'une rémunération d'un montant supérieur à 55 p. 100 du S.M.I.C. Le Gouvernement a décidé d'étendre à dix-huit ans l'âge limite au-delà duquel les allocations familiales et l'aide personnalisée au logement ne sont plus servies en cas d'inactivité. Cette mesure qui entrera en vigueur au plus tard le 1er juillet 1990 a pour objectif d'apporter un soutien accru aux familles ayant les plus lourdes charges et de réduire la disparité de traitement avec les familles ayant des enfants poursuivant des études ou bénéficiaires d'une formation. Les familles qui ont à leur charge des enfants demoins de vingt-cinq ans bénéficient du quotient familial au titre de l'impôt sur le revenu. Compte tenu des contraintes financières qui pèsent sur la sécurité sociale et de l'équité à assurer entre les familles, le système des bourses et des oeuvres sociales de l'enseignement supérieur paraît donc le plus adapté pour répondre aux besoins des familles dont les enfants poursuivent leurs études. Par ailleurs, les caisses d'allocations familiales bénéficient d'une autonomie assez large dans la gestion de leur action sociale familiale et peuvent ainsi l'adapter en faveur des familles concernées. Un certain nombre d'organismes prévoient notamment des prestations accordées au-delà des limites d'âge (exemple : prestations supplémentaires pour étudiants).
