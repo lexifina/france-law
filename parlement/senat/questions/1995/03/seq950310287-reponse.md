@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950310287
+
+- Question : [SEQ950310287](seq950310287.md) — Formation au permis poids lourds dans le cadre du service national
+
+## Réponse
+
+*Défense, JO du 1995-06-22, page 1267*
+
+Réponse. - Les appelés du contingent destinés à satisfaire les besoins des armées en conducteurs sont recrutés parmi les jeunes gens qui ont réussi les tests psychotechniques de sélection, et qui satisfont, au moment de leur incorporation dans les unités, aux normes médicales requises pour tenir cet emploi. Afin de bénéficier de la formation à la conduite des véhicules, et en particulier des poids lourds, les jeunes sapeurs-pompiers bénévoles doivent, au même titre que tous les autres appelés du contingent, être affectés à un emploi militaire de conducteur. En effet, en raison de contraintes budgétaires, les armées ne peuvent pas assurer la formation systématique des personnels dont l'emploi militaire n'exige pas la détention d'un tel permis. Les jeunes sapeurs-pompiers bénévoles qui souhaitent obtenir le permis poids lourds ont la possibilité, pour être assurés de servir comme conducteur poids lourds pendant leur service, soit de suivre une préparation militaire terre (PMT) " spécialiste transport " soit de souscrire un volontariat service long (VSL) de spécialité, d'une durée de 18 à 24 mois, dans l'une des trois armées. Ces jeunes gens peuvent obtenir toute information auprès des centres d'instruction et de préparation militaire ou de leur bureau du service national. En tout état de cause, il est souligné que le brevet de conduite militaire n'autorise que la conduite des véhicules militaires. En conséquence, les jeunes sapeurs-pompiers volontaires ne pourront conduire des véhicules d'intervention de sapeurs-pompiers qu'à l'issue de leur service militaire, et dans la mesure où ils auront satisfait aux conditions de conversion de leur brevet de conduite en permis de conduire civil de même catégorie.
