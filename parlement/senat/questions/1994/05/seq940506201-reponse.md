@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940506201
+
+- Question : [SEQ940506201](seq940506201.md) — Industrie hôtelière française
+
+## Réponse
+
+*Équipement, JO du 1994-07-28, page 1874*
+
+Réponse. - Le secteur de l'hôtellerie est directement concerné par les mesures de soutien aux PME-PMI décidées par le Gouvernement. Il bénéficie comme les PME d'autre secteurs, notamment du fonds de garantie SOFARIS mis en place pour la restructuration du fonds de roulement, de la suppression du décalage de remboursement de la TVA, de l'allègement du coût des salaires proches du SMIC et des modifications apportées aux dispositions relatives au plafonnement de la taxe professionnelle. Le régime fiscal dont bénéficie l'hôtellerie a certainement contribué au développement du parc d'hébergement hôtelier ; toutefois, depuis quelques années, celui-ci produit des effets pervers en permettant à des investisseurs essentiellement préoccupés par des considérations fiscales, d'investir dans la construction d'hôtels, ce qui a pour conséquence la déstabilisation de l'offre. Le ministère de l'équipement, des transports et du tourisme a mis en place un observatoire des industries hôtelières, composé d'élus, de professionnels et des administrations concernées. Il est appelé à rassembler l'information sur l'évolution du marché, les réalisations et les projets, à informer les décideurs locaux et toute instance amenée à éclairer les décisions d'investissement ou d'implantation. Par ailleurs, un dispositif d'assistance aux entreprises hôtelières en difficultés conjoncturelles a été mis en place. Enfin, en vue de faciliter les conditions d'exploitation des entreprises du secteur, des démarches ont été entreprises auprès des ministres concernés pour lutter contre le paracommercialisme, soutenir l'emploi et la qualification des salariés du secteur, pour proposer une diminution des coûts d'exploitation (libération des prix du téléphone, aménagement du calcul de la redevance télévisuelle).
