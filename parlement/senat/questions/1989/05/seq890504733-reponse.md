@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890504733
+
+- Question : [SEQ890504733](seq890504733.md) — Budget des établissements hospitaliers publics et privés
+
+## Réponse
+
+*Solidarité, JO du 1989-10-12, page 1681*
+
+Réponse. - La politique hospitalière est marquée par un souci de bien maîtriser des dépenses en croissance tendancielle (en volume) de 2 p. 100 par an, et d'améliorer l'efficacité et l'efficience du système sanitaire. Le mécanisme de la dotation globale permet de répondre à ces objectifs, mais avec une capacité d'ajustement plus faible que le financement à l'acte en vigueur dans une partie du secteur privé. Il n'en demeure pas moins que des souplesses existent réglementairement pour permettre d'ajuster les dotations budgétaires allouées au niveau de l'activité des établissements publics ou privés participant au service public. D'une part, il appartient aux autorités de tutelle, dans le cadre de la campagne budgétaire annuelle, de moduler l'allocation des moyens en fonction de l'activité des établissements, permettant ainsi d'opérer des redéploiements entre les établissements les plus actifs et ceux dont l'activité marque le pas. A ce titre, la politique impulséetendant à favoriser la reconversion des établissements de secteur est de nature à permettre une réalisation au profit des établissements les plus dynamiques. D'autre part, le décret n° 83-744 du 11 août 1983 dispose, en son article 39, qu'en cas de modification imprévisible et importante des conditions économiques ou de l'activité médicale. de nature à provoquer un accroissement substantiel des charges de l'établissement, une révision de la dotation globale peut intervenir. Les dispositions de l'article 39 ont été mises en oeuvre, notamment à la fin de l'année 1988 marquée par une croissance imprévue de l'activité hospitalière. Elles le seront encore si le besoin s'en fait sentir.
