@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970903084
+
+- Question : [SEQ970903084](seq970903084.md) — Allégement des cotisations sociales des entrepreneurs agricoles, ruraux et forestiers
+
+## Réponse
+
+*Agriculture, JO du 1997-11-13, page 3133*
+
+Réponse. - La réduction des taux de cotisations patronales en assurances sociales agricoles et accidents du travail dont bénéficient les exploitants agricoles employeurs de travailleurs occasionnels en application de l'article 1031 du code rural est limitée aux activités de culture et d'élevage mentionnées aux 1o et 2o de l'article 1144 du code rural, ce qui exclut les travaux forestiers et les travaux agricoles, qui sont définis aux 3o et 5o de cet article, ainsi que les travaux ruraux, lesquels ne relèvent pas du régime agricole. Les entrepreneurs de travaux agricoles, ruraux et forestiers sont en revanche éligibles à un certain nombre de mesures de réduction des charges sociales patronales. En particulier, depuis le 1er octobre 1996, ces entrepreneurs peuvent bénéficier de la réduction dégressive des charges prévue à l'article L. 241-13 du code de la sécurité sociale et que les articles 1031, 1062-1 et 1157-1 du code rural rendent applicable aux employeurs du secteur agricole. Cette réduction concerne les rémunérations comprises entre 1 et 1,33 SMIC mensuel. Le cas échéant, lorsqu'ils exercent leur activité dans les zones de revitalisation rurale défines par le décret no 96-119 du 14 février 1996, les entrepreneurs mentionnés ci-dessus se voient appliquer un régime encore plus favorable en application de l'article 113-IV de la loi de finances pour 1996, puisqu'ils peuvent bénéficier de la réduction dégressive de charges pour les rémunérations comprises entre 1 et 1,21 SMIC et de l'exonération totale ou partielle des cotisations de prestations familiales pour les rémunérations comprises entre 1,21 et 1,6 SMIC. Cet ensemble de mesures est de nature à réduire le coût du travail salarié tout en stimulant l'emploi.
