@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940606540
+
+- Question : [SEQ940606540](seq940606540.md) — Régime social des sportifs
+
+## Réponse
+
+*Jeunesse et sports, JO du 1994-08-11, page 2012*
+
+Réponse. - Dans sa réponse écrite no 7978 du 14 février 1994, le ministre d'Etat, ministre de l'intérieur et de l'aménagement du territoire précisait le régime des aides financières directes des collectivités locales aux clubs sportifs professionnels. Il rappelait alors que les subventions ou associations ayant une activité commerciale relèvent de l'action économique des collectivités locales et doivent prendre, en conséquence, la forme d'une prime régionale à la création d'entreprise ou d'une prime régionale à l'emploi. Si ce cadre juridique autorisait le parrainage des groupements sportifs professionnels par les collectivités locales et a permis d'assainir, en raison de sa rigueur, les comptes des clubs sportifs et des communes, il restreignait la faculté d'accorder les subventions nécessaires à la survie des groupements sportifs professionnels encore tributaires des subsides des collectivités territoriales. Pour remédier aux inconvénients de la législation antérieure sans renoncer à ses effets bénéfiques, le ministre d'Etat, ministre de l'intérieur et de l'aménagement du territoire et le ministre de la jeunesse et des sports ont élaboré un projet de loi récemment voté par le Parlement et en cours de promulgation. L'économie du dispositif adopté résulte de l'exigence de transparence, de l'intérêt de ménager une période transitoire indispensable à une gestion sans à-coups des groupements sportifs et de la volonté de préserver les deniers publics. Ces orientations se traduisent par la législation temporaire, le plafonnement et la contractualisation des subventions aux clubs sportifs professionnels.
