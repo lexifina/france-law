@@ -6,17 +6,17 @@ FRÉQUENTATION
 
 de l'établissement
 
-en nombre de curistes
+en nombre
 
-par an
+de curistes/an
 
 |
 
-POINTS
+POINTS DE PRÉLÈVEMENT
 
-de prélèvement
+(1 par catégorie d'usage
 
-(1 par catégorie d'usage)
+en sortie de chaque réseau)
 
 |
 
@@ -38,9 +38,9 @@ Pour au maximum 2 catégories d'usage
 
 |
 
-2 ou 3
-
 1
+
+2
 
 |
 
@@ -54,9 +54,9 @@ Par catégorie d'usage existante
 
 |
 
-2 ou 3
-
 1
+
+2
 
 |
 
@@ -70,24 +70,28 @@ Par catégorie d'usage existante
 
 |
 
-2 ou 3
+2 ou 3 (*)
 
-2 ou 3
-
-|
-
-Analyse des legionella : une fois par an à l'émergence et pour chaque catégorie d'usage.
+2 ou 3 (*)
 
 |
 
-Catégories d'usage dans un établissement thermal :
+Recherche des legionella : 1 fois/an à l'émergence et pour chaque catégorie d'usage.
 
-1. Ingestion ;
+(*) 3 : si l'établissement est ouvert toute l'année (au moins 10 mois) ; 2 : dans les autres cas.
 
-2. Douche ou bain individuel (en sortie de réseau) ;
+|
 
-3. Piscine ou bain collectif (dans l'eau du bassin) ;
+Catégories d'usage dans un établissement thermal
 
-4. Soins susceptibles de provoquer un contact avec les muqueuses du système respiratoire (aérosol, bain bouillonnant...) ;
+1. Injection.
 
-5. Soins provoquant un contact avec les muqueuses autres que celles du système respiratoire (hors injection).
+2. Ingestion.
+
+3. Soins en contact direct avec les muqueuses respiratoires, le cas échéant, soins susceptibles de provoquer un contact avec les muqueuses respiratoires ou les muqueuses oculaires.
+
+4. Soins en contact avec les muqueuses internes (autres que celles du système respiratoire, hors injection et ingestion).
+
+5. Soins externes individuels (douches, bains, ...).
+
+6. Bain collectif ou piscine (à 10 cm de profondeur dans l'eau du bassin dans une zone d'eau stagnante à forte fréquentation).
