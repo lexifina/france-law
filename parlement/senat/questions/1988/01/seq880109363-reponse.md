@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880109363
+
+- Question : [SEQ880109363](seq880109363.md) — Sociétés privées de gardiennage et société Sécuripost
+
+## Réponse
+
+*Postes et télécommunications, JO du 1988-03-10, page 343*
+
+Réponse. -Dans le cadre de la politique développée par la poste visant à un recentrage sur ses activités fondamentales, une filiale, Sécuripost S.A., a été chargée d'exploiter et de commercialiser les activités de transport de fonds, de télésurveillance et de gardiennage. Dans ce cas, la filialisation constitue une alternative à la sous-traitance. En effet, aucune entreprise de transport de fonds sur le marché n'était en mesure d'offrir des services sur l'ensemble du territoire national en assurant une qualité de service de haut niveau comparable à celle obtenue par l'exercice de cette activité en régie depuis 1973. Pour des raisons identiques, et compte tenu de l'objectif prioritaire retenu par la poste de relier 5 000 bureaux en trois ans à des postes centraux de surveillance, Sécuripost a développé une activité de télésurveillance, qui permet, avec le gardiennage une diversification des prestations de la filiale dans le domaine de la sécurité. Il est précisé que dans ces deux derniers secteurs, Sécuripost S.A. est placée en situation de concurrence normale. En ce qui concerne plus particulièrement le gardiennage, il n'y a pas eu d'évolution sensible de la part d'activité exercée en régie, ni de celle sous-traitée à des entreprises privées depuis la création de Sécuripost S.A. La filiale sera consultée ponctuellement, au même titre que les entreprises concurrentes, à chaque fois que des besoins nouveaux apparaîtront ou que des marchés arriveront à leur terme. Elle ne fera l'objet d'aucune préférence par rapport aux autres soumissionnaires, sauf à conditions égales de prix et de qualité de la prestation.
