@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980609318
+
+- Question : [SEQ980609318](seq980609318.md) — Guyane : mise en oeuvre d'une procédure administrative d'établissement de l'état civil des populations du fleuve
+
+## Réponse
+
+*Outre-mer, JO du 1998-09-03, page 2850*
+
+Réponse. - L'établissement d'un état civil pour les populations françaises du Maroni est une nécessité urgente à laquelle le Gouvernement entend apporter une réponse opérationnelle. Pour régler la question de l'état civil des populations guyanaises qui en sont actuellement dépourvues, le Gouvernement a choisi d'élaborer deux projets de nature différente, susceptibles de répondre à l'attente des intéressés dans l'immédiat et pour l'avenir. Dans l'immédiat, un plan d'action en cours de réalisation a pour objet de recenser, avec le concours des autorités locales et coutumières, les populations concernées. A partir de ce recensement et grâce au renforcement des moyens du Tribunal de grande instance de Cayenne, les requêtes aux fins d'obtenir un état civil par la voie du jugement déclaratif de naissance pourront être formées et traitées rapidement. En outre, les jugements rendus en vertu de ce dispositif exceptionnel permettront d'établir la nationalité des intéressés dès lors qu'ils porteront indication du lieu de naissance des parents. Pour l'avenir, l'ordonnance nº 98-580 du 8 juillet 1998 porte à trente jours, dans certaines communes de la Guyane, le délai légal de trois jours pour la déclaration des naissances. Cette mesure dérogatoire à l'article 55 du code civil qui bénéficie aux futurs nouveaux-nés est justifiée, dans les communes concernées, par la distance entre les lieux de vie et les centres administratifs et l'inadéquation des moyens de communication. Les préoccupations exprimées par l'honorable parlementaire seront ainsi réglées, non par la voie administrative, mais par la voie judiciaire, plus habituelle en matière de droit des personnes.
