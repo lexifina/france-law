@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930902667
+
+- Question : [SEQ930902667](seq930902667.md) — Revalorisation des allocations familiales
+
+## Réponse
+
+*Affaires sociales, JO du 1993-11-04, page 2083*
+
+Réponse. - L'évolution des prix n'a pas permis d'envisager, au 1er juillet de cette année, une revalorisation des prestations familiales. Cependant, s'agissant du pouvoir d'achat des prestations familiales, la dernière revalorisation de la base mensuelle a été de 2 p. 100, ce qui constitue un taux élevé dans le contexte économique actuel. De plus, pour 1993, des déductions fiscales en faveur des familles ayant des enfants scolarisés ont été prises, variant de 400 à 1 200 francs selon le niveau d'études. Par ailleurs, le décret no 93-1016 du 25 août 1993, relatif à une majoration exceptionnelle de l'allocation de rentrée scolaire, porte cette allocation de 403 à 1 500 francs et représente un effort financier qui équivaut à plus de 5 milliards de francs. Cette mesure bénéficiera à près de trois millions de familles pour cinq millions et demi d'enfants environ. Enfin, la loi relative à la sauvegarde de la protection sociale consolide les majorations pour enfants prises en compte pour le calcul des pensions de retraite, puisque celles-ci seront désormais inscrites au fonds de solidarité vieillesse nouvellement créé. Enfin, le redressement de notre système de protection sociale, de manière à en assurer la pérennisation, constitue actuellement un impératif pour le Gouvernement qui a déjà mis en place une série de mesures en ce sens, dans un contexte économique particulièrement difficile. Dans ce cadre des études sont en cours, tendant à la présentation par le Gouvernement, d'une loi-cadre qui aura pour ambition de définir une politique globale de la famille et de proposer des mesures propres à améliorer la vie des familles dans ses multiples aspects, et de renforcer ainsi la cohésion de notre société.
