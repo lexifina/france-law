@@ -1,51 +1,61 @@
 # Article 1er
 
-1. La présente convention règle, sur le territoire métropolitain, les rapports de travail entre les employeurs et les salariés des deux sexes dans les établissements des industries du verre dont l'activité relève de la fabrication mécanique et adhérant aux organisations patronales signataires de la présente convention.
+1. La présente convention règle sur le territoire de la France, sous réserve des dispositions spéciales s'appliquant aux départements et territoires d'outre-mer, les rapports de travail entre les employeurs et les salariés dans les établissements des industries du verre dont l'activité relève de la fabrication mécanique.
 
-La convention est conclue en application de la loi du 11 février 1950 (section II du chapitre IV bis du titre II du livre Ier du code du travail).
+La convention est conclue en application de la loi du 11 février 1950, modifiée par la loi du 13 novembre 1982.
 
-2. Elle s'applique aux industries de la fabrication du verre (usines, sièges sociaux, services commerciaux, dépôts de vente et tous établissements dépendant directement des usines de fabrication), mentionnées dans la nomenclature des activités économiques, en application du décret n° 59-534 du 9 avril 1959 et énumérées ci-dessous :
+2. Elle s'applique aux industries de la fabrication mécanique du verre (usines, sièges sociaux, centres de recherche, services commerciaux et autres, dépôts de vente et tous établissements dépendant directement des usines de fabrication, y compris les établissements de façonnage et de transformation du verre plat), dont l'activité économique et industrielle est mentionnée dans la Nomenclature d'activités françaises (NAF), approuvée par le décret n° 92-1129 du 2 octobre 1992 (paru au JO du 11 octobre 1992), sous les mentions suivantes :
 
-301.1. Fabrication de verre plat, de moulages, de fibres de verre.
+26.1 A Fabrication du verre plat :
 
-301.11. Fabrication de glaces et de dalles ordinaires ou spéciales, armées ou non, trempées ou non, émaillées ou non, feuilletées ou non, bombées ou non, etc. et de produits opaques ou opalines.
+- la fabrication de verre plat étiré, coulé ou flotté ;
 
-301.12. Fabrication de verre à vitres.
+- la fabrication de verre armé, de verre imprimé, de verre teinté, etc.
 
-301.13. Fabrication de verres coulés (verre cathédrale laminé, imprimé, armé ou non, trempé ou non, ondulé ou non), fabrication d'ardoises de verre, etc.
+26.1 C Façonnage et transformation du verre plat :
 
-301.14 Fabrication de vitrages multiples en glace ou verre.
+- la fabrication de verres de sécurité, trempés, feuilletés ou contrecollés ;
 
-301.15. Moulage de verre : fabrication de briques, pavés, dalles et tuiles de verre, de bacs d'accumulateurs moulés, de moulages divers.
+- la fabrication de vitrages isolants.
 
-301.16. Fabrication de fibres de verre, textiles ou non.
+26.1 E Fabrication de verre creux :
 
-301.2. Fabrication de bouteilles, bonbonnes, gobeleterie, flaconnage, etc., en grande série (fabrication entièrement automatique dite Verrerie mécanique).
+- la fabrication de bouteilles et de flacons, pots, bocaux et autres récipients en verre ;
 
-301.21 Fabrication de bouteilles et bonbonnes, de bocaux verts.
+- la fabrication de verrerie de table ;
 
-301.22. Fabrication d'isolateurs en verre (non montés).
+- la fabrication de plats en verre ou en vitrocéramique ;
 
-301.23. Fabrication entièrement automatique de gobeleterie en verre : bocaux blancs, verres à boire, tasses, assiettes, brocs, articles pour la table, verrerie culinaire, bocaux stérilisateurs ou non, etc.
+- la fabrication d'articles décoratifs en verre.
 
-301.24. Fabrication entièrement automatique de flaconnage en verre.
+26.1 G Fabrication de fibres de verre :
 
-301.25. Fabrication entièrement automatique de verrerie de laboratoire et d'hygiène (articles en verre pour laboratoire, biberons...).
+- la fabrication de fibres de verre dites " isolation " en masse, en nappe ou en coquille ;
 
-301.4. Fabrication de verre technique
+- la fabrication de fibres de verre dites " textiles " en mats, rovings, mèches, etc. ;
 
-301.41. Fabrication de verre bruts pour optique scientifique.
+- la fabrication de fibres optiques ;
 
-301.42. Fabrication mécanique de verres bruts de lunetterie, de verres bruts pour miroirs courbes, pour verres de montres.
+- la fabrication de laine de verre.
 
-301.43. Fabrication de verres pour ampoules électriques, radio, etc. (y compris tubes, évasements et baguettes).
+Remarque : Cette activité concerne aussi bien les fibres de verre, de quartz et de silice.
 
-301.44. Fabrication de verres pour ampoules de télévision.
+26.1 J Fabrication et façonnage d'articles techniques en verre.
 
-301.45. Fabrication d'objets en quartz (ou silice) fondu.
+La fabrication d'articles en verre ou en cristal ainsi qu'en quartz ou silice fondus, destinés à des usages techniques :
 
-301.47. Fabrication de verres spéciaux pour vitraux.
+- cônes, écrans et ampoules en verre pour télévision, enveloppes pour lampes ;
 
-302.33. Fabrication de verres feuilletés (glaces et verres de sécurité pour le vitrage des automobiles, des immeubles, etc.).
+- verrerie de laboratoire, d'hygiène et de pharmacie (y compris ampoules pour sérum et analogues) ;
 
-3. Les conventions annexe I et annexe II fixent les conditions particulières du travail des différentes catégories de salariés.
+- éléments optiques en verre, non travaillés optiquement, et verres bruts de lunetterie ;
+
+- moulages en verre pour le bâtiment et autres usages ;
+
+- éléments en quartz à usage électronique.
+
+26.1 K Fabrication d'isolateurs en verre :
+
+Cette classe comprend aussi la fabrication de pièces isolantes en verre.
+
+3. Les conventions Annexe I et Annexe II fixent les conditions particulières de travail des différentes catégories de salariés.
