@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000827262
+
+- Question : [SEQ000827262](seq000827262.md) — Financement des sorties scolaires éducatives
+
+## Réponse
+
+*Éducation, JO du 2000-11-09, page 3849*
+
+Réponse. - Les sorties pédagogiques qui ont lieu pendant les heures scolaires dans le cadre des programmes d'enseignement sont obligatoires pour les élèves. Ces sorties présentant un caractère obligatoire, le principe de gratuité de l'enseignement implique qu'aucune participation financière ne soit demandée aux familles. Ces précisions ont été effectivement données dans la circulaire nº 99-136 du 21 septembre 1999 relative à l'organisation des sorties scolaires dans les écoles maternelles et élémentaires publiques. Pour l'organisation matérielle et financière d'une sortie, le directeur d'école prend les contacts nécessaires avec la municipalité. L'aide d'autres collectivités territoriales peut être sollicitée. Les organisateurs peuvent également faire appel à d'autres partenaires, par exemple une association complémentaire de l'école ou une coopérative scolaire, dans le respect du principe de neutralité de l'école publique. De plus, favoriser l'accès des lieux culturels aux enfants et aux jeunes est une priorité de l'éducation nationale. Le ministre a d'ailleurs réaffirmé récemment son attachement au développement d'une école d'excellence pour chacun et d'une égalité des chances à travers l'accès à la culture pour tous. Les nombreuses modalités de partenariats entre établissements scolaires et partenaires culturels, au travers notamment de conventions signées dans le cadre des projets académiques d'action culturelle ou des contrats de ville, et la généralisation des services éducatifs dans les lieux culturels permettent d'offrir aux élèves d'âge scolaire des possibilités diversifiées d'accès à la culture. Les musées ou établissements culturels territoriaux, ces derniers développent de plus en plus d'initiatives en faveur de l'accueil des publics scolaires.
