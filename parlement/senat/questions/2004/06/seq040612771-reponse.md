@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040612771
+
+- Question : [SEQ040612771](seq040612771.md) — Publication des décrets et arrêtés portant sur l'avortement médicamenteux en ville
+
+## Réponse
+
+*Santé, JO du 2004-07-29, page 1741*
+
+L'interruption volontaire de grossesse constitue une avancée majeure pour les femmes. Il faut à cet égard rappeler que c'est Mme Simone Veil qui l'a permise en 1975. La loi n° 2001-588, votée le 4 juillet 2001, a porté la durée légale pour pratiquer une IVG de dix à douze semaines et a institué la possibilité de pratiquer l'IVG en dehors des établissements de santé. Son premier décret d'application n'a été publié que le 3 mai 2002. Faisant l'objet de contestations de la part des associations de médecins, il a été abrogé par le décret n° 2003-462 du 21 mai 2003. Le gouvernement de Jean-Pierre Raffarin a relancé la concertation et est arrivé à un consensus entre les agences sanitaires et les professionnels de santé sur le texte du décret. Ainsi le Conseil d'Etat a-t-il approuvé une nouvelle version en décembre 2003. Ce décret est paru au Journal officiel du 2 juillet 2004 sous le numéro 2004-636 du 1er juillet 2004. Par ailleurs, il a fallu négocier des prix avec les laboratoires pharmaceutiques commercialisant ces produits. Le comité économique des produits de santé a rendu son avis en mai dernier. L'arrêté de tarification nécessaire va donc pouvoir être pris dans les prochaines semaines. Cet arrêté tarifaire concernera également la revalorisation de l'IVG en établissement. Les collaborateurs du ministre de la santé et de la protection sociale ont rencontré les associations de médecins et d'aide aux femmes, comme le planning familial, afin d'annoncer ces décisions le 14 juin dernier. Des circulaires d'information seront envoyées aux établissements et aux professionnels de santé concernés par ces mesures dans les prochains jours.
