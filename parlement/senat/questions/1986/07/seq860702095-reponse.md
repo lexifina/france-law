@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860702095
+
+- Question : [SEQ860702095](seq860702095.md) — Thèmes prioritaires retenus dans le programme communautaire Brite
+
+## Réponse
+
+*Industrie, JO du 1986-09-11, page 1285*
+
+Réponse. -Le conseil des communautés a adopté, le 12 mars 1985, le programme BRITE (recherche de base sur les technologies industrielles pour l'Europe). Il s'agit d'un programme de R et D précompétitif, destiné à accroître l'efficience des industries européennes traditionnelles. Le programme couvre des domaines technologiques énumérés dans l'annexe technique de la décision du conseil, publiée au Journal officiel de la communauté européenne du 25 mars 1985. Une liste de thèmes prioritaires, ci-jointe, a été établie dans ces différents domaines. Les projets de coopération susceptibles d'être sélectionnés par la commission doivent se rapporter à l'un de ces thèmes prioritaires. Les projets portant sur d'autres thèmes ne peuvent être pris en considération que " s'ils présentent un réel intérêt en raison de leur haut mérite technologique ". Le prochain appel de propositions sera publié au J.O.C.E. à la fin de 1986 ou au début de 1987. La date de clôture pour lasoumission des propositions sera vraisemblablement le 31 mars 1987. La participation est ouverte à toutes les firmes industrielles, aux instituts de recherche et aux universités situés dans la communauté. Liste des thèmes prioritaires retenus pour Brite : 1) fiabilité, usure et détérioration ; 2) technologie du laser ; 3) techniques d'assemblage ; 4) nouvelles méthodes d'essai, y compris les essais non destructifs, les essais en ligne et les essais assistés par ordinateur ; 5) C.A.O./F.A.O. et modélisation mathématique ; 6) polymères, matériaux composites, autres matériaux nouveaux et métallurgie des poudres ; 7) science et technologie des membranes ; 8) catalyse et technologie des particules ; 9) nouvelles technologies de production adaptées aux produits en matériaux souples.
