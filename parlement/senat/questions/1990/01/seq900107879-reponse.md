@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900107879
+
+- Question : [SEQ900107879](seq900107879.md) — Lutte contre l'exclusion culturelle
+
+## Réponse
+
+*Culture, JO du 1990-04-05, page 713*
+
+Réponse. - En réponse aux préoccupations des professionnels des bibliothèques qui ne se sentent pas suffisamment préparés à agir face au problème complexe de l'illettrisme, le ministère de la culture, de la communication, des grands travaux et du Bicentenaire a prévu : d'introduire le traitement des problèmes posés par l'illettrisme dans les programmes de formation initiale des personnels. La direction du livre et de la lecture favorise au moyen de crédits déconcentrés l'organisation en région de stages, séminaires, journées d'étude, en collaboration avec des agences de coopération régionales, le centre national de la fonction publique territoriale, un certain nombre d'associations spécialisées ; des interventions de conseil et d'évaluation des services par des spécialistes de l'illettrisme. Le groupe permanent de lutte contre l'illettrisme, mission interministérielle représentée par des correspondants régionaux et départementaux se doit d'entreprendre des actionsde coordination avec les structures de lecture publique qui dépendent des collectivités territoriales (bibliothèques municipales, bibliothèques centrales de prêt) et qui pour la plupart interviennent très largement dans les secteurs scolaires, et dans les secteurs socialement défavorisés. Les directions régionales des affaires culturelles reçoivent chaque année, en pourcentage croissant, des crédits déconcentrés pour le développement de la lecture. Ces crédits permettent le soutien d'opérations locales et particulièrement celles qui mettent en application les conventions ou protocoles d'accord inteministériels de développement culturel, signés avec les ministères de la justice (bibliothèques de prison), de la santé (actions petite enfance) et du tourisme.
