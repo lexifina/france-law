@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900510114
+
+- Question : [SEQ900510114](seq900510114.md) — Prévention de la déprédation des tombes dans les cimetières d'Algérie
+
+## Réponse
+
+*Affaires étrangères, JO du 1990-07-05, page 1459*
+
+Réponse. - La question des cimetières français à l'étranger et particulièrement en Algérie est une préoccupation constante du gouvernement français. En ce qui concerne les cimetières militaires, leur entretien incombe directement à l'Etat français. Le secrétariat d'Etat aux anciens combattants dispose de crédits à cet effet (environ 400 000 F par an pour l'Algérie). L'état de ces cimetières est tout à fait satisfaisant. En ce qui concerne les cimetières civils, la tâche est plus délicate. On estime à environ 300 000 les tombes de nos compatriotes inhumés en Algérie. Elles se répartissent dans plus de 600 cimetières dont la moitié comptent moins de 100 tombes. L'entretien de ces cimetières incombe aux autorités locales pour les parties communes et aux familles pour les tombes. Il est vrai qu'un certain nombre d'entre eux, dans les petites communes, sont laissés en déshérence. Pour enrayer cette dégradation, les pouvoirs publics ont entrepris des actions qui vont bien au-delà de leurs strictes responsabilités, se substituant souvent ainsi aux familles. Depuis 10 ans, 12 millions de francs ont été consacrés à l'entretien des cimetières à l'étranger. Entre un quart et un tiers de ces crédits ont été utilisés en Algérie par nos consulats pour la réhabilitation de certaines tombes. Par ailleurs, nos consuls interviennent régulièrement auprès des autorités algériennes responsables afin qu'elles réalisent les travaux qui leur incombent chaque fois que c'est nécessaire. C'est à la suite de telles interventions que des travaux importants ont été réalisés notamment dans les cimetières d'Oran et Constantine et tout récemment encore à Annaba.
