@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981011698
+
+- Question : [SEQ981011698](seq981011698.md) — Projet de liaison transalpine Lyon-Turin
+
+## Réponse
+
+*Équipement, JO du 1999-08-05, page 2671*
+
+Réponse. - Le ministre de l'équipement des transports et du logement confirme à l'honorable parlementaire la réponse qu'il lui a faite en séance publique au Sénat le 9 février 1999. La politique du Gouvernement en matière de transports de marchandises consiste à encourager la complémentarité entre les différents modes, ce qui, par rapport aux orientations antérieures, implique de réaliser des efforts importants en faveur du transport ferroviaire et du transport combiné. L'objectif est de doubler le trafic marchandises par rail dans les dix prochaines années. Le développement de l'alternative ferroviaire dans les massifs alpins et pyrénéens présente des enjeux économiques, sociaux et environnementaux tout à fait spécifiques dont la récente catastrophe du tunnel du Mont-Blanc a permis d'encore mieux de cerner la teneur. Les gouvernements français et italien ont confirmé en 1997, au sommet de Chambéry, leur ambition de transférer vers le rail une part croissante du trafic transalpin de fret. Le projet d'une nouvelle liaison ferroviaire transalpine Lyon-Turin a été fortement réorienté dans cette perspective. C'est la raison pour laquelle l'engagement d'un programme d'études complémentaires à ce sujet a été décidé le 18 septembre 1998, afin notamment de préciser la consistance de la première phase de réalisation et de comparer les différentes possibilités d'améliorer l'itinéraire d'acheminement du fret alpin. Sans attendre la réalisation du tunnel de base, des mesures ont été prises ou seront prises à court et moyen termes pour accroître l'offre ferroviaire en matière de services comme de capacité.
