@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870907794
+
+- Question : [SEQ870907794](seq870907794.md) — Conditions d'entrée et de séjour en France des étrangers : interprétation de la loi
+
+## Réponse
+
+*Sécurité, JO du 1988-01-14, page 53*
+
+Réponse. -Conformément à l'article 2 du décret n° 82-442 du 27 mai 1982, un étranger qui désire effectuer une visite à caractère familial ou privé en France doit présenter un certificat d'hébergement signé par la personne qui l'accueille et revêtu du visa du maire de la commune. La personne qui s'engage à héberger l'étranger doit pouvoir justifier de son identité et de ses possibilités d'hébergement (adresse, superficie, composition, degré d'occupation du logement d'accueil). Le maire peut refuser de viser ces certificats si les déclarations qui y sont mentionnées font apparaître que l'étranger ne peut être logé dans des conditions décentes, ou s'il dispose d'éléments précis permettant d'affirmer que l'étranger pour lequel le certificat d'hébergement est sollicité, veut venir en France dans l'intention de s'y établir, ou que ce certificat n'est souscrit qu'à titre de complaisance. Aucune justification de ressources ne peut être exigée de la personne qui héb erge. Les justificatifs à demander ne peuvent se rapporter qu'aux conditions d'hébergement mentionnées ci-dessus. Conformément aux dispositions du décret n° 87-645 du 30 juillet 1987 pris en application de la loi n° 86-1025 du 9 septembre 1986, il appartient à l'étranger qui désire effectuer un séjour de visite en France de justifier de ses propres moyens d'existence. Le respect de cette obligation conditionne la délivrance du visa par les autorités consulaires françaises. L'hypothèse d'une venue en France motivée par une hospitalisation est explicitement prévue à l'article 3-1 de ce texte. Dans ce cas particulier, sauf urgence, le visiteur étranger doit justifier qu'il satisfait aux conditions requises pour l'admission dans un centre hospitalier.
