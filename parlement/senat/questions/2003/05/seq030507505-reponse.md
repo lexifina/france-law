@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030507505
+
+- Question : [SEQ030507505](seq030507505.md) — Attribution des bourses d'études
+
+## Réponse
+
+*Jeunesse, JO du 2003-07-10, page 2241*
+
+Deux systèmes d'aide coexistent actuellement dans le cadre des études supérieures, l'un est fondé sur des critères pédagogiques, l'autre sur des critères sociaux. Parmi les bourses sur critères pédagogiques, il convient de distinguer, d'une part, les bourses de mérite, d'autre part, les bourses sur critères universitaires. Les bourses de mérite permettent aux bacheliers " mention très bien " de poursuivre dans de bonnes conditions des études de médecine ou des formations supérieures telles l'école nationale d'administration, l'école nationale de la magistrature, une grande école scientifique, littéraire ou de sciences humaines. Les bourses sur critères universitaires sont destinées, quant à elles, à des étudiants méritants qui poursuivent des études en 3e cycle, préparent l'agrégation ou des concours externes de recrutement de la fonction publique et de la magistrature. Les bourses sur critères sociaux sont accordées aux étudiants dont les ressources familiales ne dépassent pas certains plafonds fixés par un barème national mis à jour annuellement. Quel que soit le type de bourse, il importe de rappeler que leurs modalités d'attribution s'inspirent des dispositions du code civil qui prévoit notamment que " chacun des parents contribue à l'entretien et à l'éducation des enfants à proportion de ses ressources, de celles de l'autre parent, ainsi que des besoins de l'enfant. Cette obligation ne cesse pas de plein droit lorsque l'enfant est majeur ". Ces bourses interviennent donc en complément de l'aide assurée par les familles et, de ce fait, il apparaît logique qu'un effort particulier soit consenti par l'Etat à l'égard des étudiants issus de milieu moins favorisé.
