@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990918636
+
+- Question : [SEQ990918636](seq990918636.md) — Avis du Conseil économique et social
+
+## Réponse
+
+*Premier ministre, JO du 2000-02-03, page 388*
+
+Réponse. - L'article 4 de l'ordonnance nº 58-1360 du 29 décembre 1958 portant loi organique relative au Conseil économique et social prévoit que, " chaque année, le Premier ministre fait connaître la suite donnée aux avis du Conseil économique et social ". Une procédure a été mise en place pour l'application de cette disposition ; elle repose sur une consultation des ministères compétents, à qui les services du Premier ministre rappellent régulièrement leurs obligations. Sur un plan général, le Gouvernement attache la plus grande importance aux avis émis par le Conseil économique et social en réponse à des demandes dont il a été saisi ou sur des sujets qu'il décide spontanément de traiter. En effet, comme le Premier ministre a eu l'occasion de le souligner dans le discours qu'il a prononcé au Palais d'Iéna le 28 avril 1998, le Conseil économique et social, troisième assemblée constitutionnelle, est un lieu privilégié du débat social sur les mutations économiques et sur les transformations de notre société, et ses délibérations permettent d'enrichir et d'améliorer les travaux gouvernementaux. Aussi trouve-t-on souvent, dans les décisions gouvernementales et surtout dans les textes législatifs, un écho des avis du Conseil économique et social. On peut citer à cet égard, entre autres exemples, la loi d'orientation pour l'aménagement et le développement durable du territoire du 25 juin 1999, la loi d'orientation agricole du 9 juillet 1999 et le projet de loi relatif à la modernisation et au développement du service public de l'électricité, qui sont trois textes importants pour lesquels le Gouvernement a procédé à une consultation préalable du Conseil économique et social.
