@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010332269
+
+- Question : [SEQ010332269](seq010332269.md) — Pertes du Crédit lyonnais
+
+## Réponse
+
+*Économie, JO du 2001-11-15, page 3634*
+
+Il est rappelé que, conformément à la loi du 28 novembre 1995, le Parlement reçoit chaque année un rapport annuel sur les comptes, la gestion et l'activité de l'Etablissement public de financement et de restructuration (EPFR), établissement public chargé du financement des pertes du Crédit Lyonnais. S'agissant du coût de la crise du Crédit Lyonnais, le chiffre correspondant à la perte réalisée par le Consortium de réalisation (organisme chargé par la loi du 28 novembre 1995 de réaliser les actifs compromis du Crédit Lyonnais) sur la cession des actifs figure chaque année dans les comptes consolidés publiés par le Consortium, et repris dans le rapport de l'EPFR. Ces comptes font apparaître une perte économique globale nette du cantonnement, hors coût de financement, estimée à 11,1 milliards d'euros (72,8 milliards de francs) à ce jour. Ce chiffre n'est en aucun cas définitif et ne porte que sur les opérations de cession des actifs (dont environ 90 % ont été réalisées). S'y ajouteront, en particulier, les risques qualifiés de " non chiffrables ", par nature non évaluables à ce jour qui pourraient se matérialiser dans les années à venir en liaison notamment avec certains contentieux importants. A l'inverse, les sommes importantes dont le CDR poursuit encore la récupération en justice pourront venir en diminution de cette perte. Il est important de souligner les incertitudes, par excès ou par défaut, qui entourent les prévisions actuelles, dès lors que toutes les opérations liées à la gestion des actifs et des engagements de passif de Consortium de réalisation ne sont pas achevées. La cession du Crédit Lyonnais, réalisée en 1999, a pour sa part rapporté 34 milliards de francs. L'Etat détient encore 10 % du Crédit Lyonnais.
