@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030105101
+
+- Question : [SEQ030105101](seq030105101.md) — Quotas d'entrée dans les instituts de formation " infirmiers "
+
+## Réponse
+
+*Santé, JO du 2003-07-24, page 2406*
+
+Pour faire face aux tensions sur l'emploi infirmier, le quota d'entrée dans les instituts de formation en soins infirmiers (IFSI) a été régulièrement augmenté : de 1 000 places en 1998, de 1 200 places en 1999 et de 8 000 places en 2000, portant le nombre d'étudiants entrant en formation à 26 436. Ce nombre a été maintenu en 2001 et en 2002. Le Gouvernement vient de décider d'amplifier cet effort de formation de personnels infirmiers en portant le nombre de places offertes au concours pour l'année 2003 à 30 000. Des moyens spécifiques permettant de financer des postes de cadres enseignants seront dévolus aux établissements hospitaliers supports des instituts concernés par cette augmentation dès 2003 et cet effort sera poursuivi en 2004. Par ailleurs, le Fonds de modernisation des établissements de santé (FMES), dont les missions ont été élargies à l'investissement par la loi de financement de la sécurité sociale pour 2002, permet de financer des travaux d'extension, de rénovation ou de mise en conformité des instituts qui en auraient besoin. Les étudiants ont bénéficié de mesures destinées à améliorer leur situation : ainsi, depuis la rentrée de septembre 2001, tous les étudiants en soins infirmiers perçoivent des indemnités de stage et sont indemnisés de leurs frais de déplacement. Enfin, pour accentuer l'attractivité de cette profession, le protocole du 14 mars 2001, qui a revalorisé les statuts des personnels de la fonction publique hospitalière, a permis des gains indiciaires importants et des améliorations notables dans les déroulements de carrière des personnels soignants non médicaux.
