@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030306465
+
+- Question : [SEQ030306465](seq030306465.md) — Financement du cinéma : taxation des distributeurs de vidéos
+
+## Réponse
+
+*Culture, JO du 2003-05-01, page 1475*
+
+L'honorable parlementaire a souhaité connaître l'opinion du ministre de la culture et de la communication sur l'éventualité d'une taxation sur le prix public d'achat ou de location de vidéos. En application de l'article 49 de la loi de finances pour 1993, le chiffre d'affaires des éditeurs de vidéogrammes destinés à l'usage privé du public fait l'objet d'une taxation de 2 % destinée à alimenter le compte de soutien à l'industrie cinématographique et audiovisuelle, compte dont la vocation est d'apporter des aides à ces deux secteurs. A la suite, tant du rapport de M. Leclerc, conseiller d'Etat, sur le financement du cinéma, que des réflexions engagées parallèlement avec les professionnels du cinéma et de l'édition vidéo, il est apparu plus pertinent que l'assiette de la taxe soit désormais le prix payé par le public pour acheter ou louer ces vidéogrammes, et ce, d'autant plus que ce marché fait l'objet d'un fort dynamisme (+ 24 % en 2001). Il s'agit ainsi de renforcer le lien entre l'édition et le compte de soutien afin de faire contribuer ce marché au plus près des recettes liées à l'exploitation des oeuvres comme cela se fait pour l'exploitation en salles où la taxe alimentant également le compte de soutien est perçue sur le prix du billet acquitté par le spectateur. Sans changer le taux de la taxe, la modification d'assiette devrait faire passer les recettes attendues de la taxe de 18 MEUR en 2001 à 40 MEUR en 2005, le Gouvernement se donnant ainsi les moyens de soutenir l'industrie du cinéma et de l'audiovisuel. Cette modification a été votée à l'Assemblée nationale, par voie d'amendement, lors de la discussion sur le projet de loi " prêt en bibliothèques ".
