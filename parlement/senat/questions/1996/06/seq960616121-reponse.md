@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960616121
+
+- Question : [SEQ960616121](seq960616121.md) — Réforme de l'organisation commune des marchés viti-vinicoles
+
+## Réponse
+
+*Agriculture, JO du 1997-03-20, page 846*
+
+Réponse. - Dans le cadre du paquet prix, la Commission des Communautés européennes avait initialement proposé de reconduire le règlement relatif à l'octroi de primes d'abandon définitif de superficies viticoles et les dispositions communautaires d'interdiction de plantations nouvelles, arrivés à échéance le 31 août 1996. Cette proposition, qui s'inscrivait dans une logique de déclin de la viticulture européenne, notamment de la France, par la destruction non maîtrisée d'une partie de son potentiel de production, ne pouvait être acceptée par les autorités françaises.C'est pourquoi, elles ont demandé et obtenu, lors du Conseil des ministres de l'agriculture de juillet 1996, que pour les deux prochaines campagnes, le régime de l'arrachage primé de vignes soit modifié, en limitant l'accès à ce régime et en autorisant les Etats-membres concernés à fixer eux-mêmes les conditions d'application du nouveau dispositif. Il a également été obtenu un contingent de plantations nouvelles. Ces décisions importantes du dernier paquet prix devraient être, selon les professionnels, complétées par le rétablissement de mesures communautaires en faveur du réencépagement et de la restructuration du vignoble ainsi que par des mesures permettant d'améliorer les conditions d'installation et de transmission des exploitations dans le secteur de la viticulture. Sur ces sujets qui relèvent de la réforme de l'OCM viti-vinicole et de dispositifs communautaires horizontaux, les autorités françaises ont d'ores et déjà pris au niveau national des mesures telles que l'aide au réencépagement et la mise en oeuvre des plantations anticipées particulièrement adaptées aux besoins de jeunes viticulteurs.
