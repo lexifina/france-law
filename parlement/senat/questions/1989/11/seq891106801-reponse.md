@@ -1,0 +1,9 @@
+# Réponse à la question SEQ891106801
+
+- Question : [SEQ891106801](seq891106801.md) — Suppression d'emplois à Unimétal
+
+## Réponse
+
+*Industrie, JO du 1990-02-01, page 217*
+
+Réponse. - La consolidation durable du redressement de la sidérurgie française, confrontée à un marché national et international très concurrentiel, nécessite la poursuite des efforts de compétitivité entrepris tant en matière d'investissements que d'adaptation des effectifs. En février 1989, le président-directeur général d'Usinor-Sacilor a annoncé que l'effectif français du groupe, qui était de 71 800 personnes au 31 décembre 1988, serait stabilisé aux environs de 60 000 personnes en 1991. Dans le cas particulier d'Unimétal, il faut rappeler que malgré le processus de mutation technologique et de recentrage des fabrications engagé en 1985, les résultats, en nette amélioration, étaient encore insuffisants en 1988. En effet, la perte de l'exercice 1988 s'établissait à 99,3 millions de francs contre 1 363 millions de francs en 1987, pour un chiffre d'affaires de 6,6 milliards de francs en 1988 et de 6,4 milliards de francs en 1987. Le résultat de l'exercice 1989 sera certes nettement positif, mais la situation de l'entreprise reste encore fragile. Il est vrai que le programme " Créativité " a permis de réaliser des gains de productivité importants en 1989, mais Unimétal doit maintenant atteindre le niveau de performances de ses concurrents européens. C'est pour cet ensemble de raisons que la direction d'Unimétal a présenté au comité central d'entreprise de novembre un plan social prévoyant 1 025 suppressions d'emplois dont 975 en Lorraine. Il faut cependant noter que 75,8 p. 100 des départs s'effectueront par la mise en oeuvre des mesures d'âge prévues par la convention générale de la protection sociale de la sidérurgie (C.G.P.S.).
