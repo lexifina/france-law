@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860601469
+
+- Question : [SEQ860601469](seq860601469.md) — Production de bio-éthanol en Lorraine
+
+## Réponse
+
+*Agriculture, JO du 1986-07-31, page 1077*
+
+Réponse. -L'intérêt général de la filière bio-éthanol dépend d'un ensemble de paramètres complexes dont l'importance de la plage de variation a notamment été mise en évidence par l'évolution récente des prix du pétrole. Avant d'engager la promotion du bio-éthanol, la commission de Bruxelles a jugé préférable de confier à un consortium européen d'experts indépendants la mission suivante : " Analyse économique des coûts et bénéfices de la production et de l'utilisation du bio-éthanol pour incorporation à l'essence dans la C.E.E. Examen et quantification des implications agricoles, techniques, budgétaires, énergétiques, concurrentielles, sociales, industrielles, d'un tel programme. " Les conséquences pour le secteur agricole et notamment les prévisions en matière d'utilisation des sols sur le plan européen, seront probablement mieux appréciées à l'examen des conclusions de cette étude. Celle-ci permettra ainsi à la commission d'établir des propositions concrètes au plan communautaire. Sur le plan national, il faut d'abord que les contraintes préalables à la production d'éthanol soient levées avec le concours de tous les organismes compétents et notamment les organisations agricoles. Ces contraintes sont d'ordre technique, mais surtout économique, puisque le coût de production du bio-éthanol est aujourd'hui trois fois supérieur au prix du super en sortie de raffinerie. Ce n'est qu'à l'issue de cette phase qu'il appartiendra aux investisseurs de préciser leurs souhaits en matière de site et au Gouvernement de tenir compte des contraintes d'aménagement du territoire, et en particulier des opportunités régionales telles que celle dont l'honorable parlementaire a bien voulu faire part au ministre de l'agriculture.
