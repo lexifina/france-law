@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910213776
+
+- Question : [SEQ910213776](seq910213776.md) — Maintien du commissariat de police de Châteaurenard (Bouches-du-Rhône)
+
+## Réponse
+
+*Intérieur, JO du 1991-04-18, page 816*
+
+Réponse. - Conformément aux orientations fixées par le Gouvernement visant à mieux organiser les rapports entre les services de police et de gendarmerie, les directeurs généraux de la police et de la gendarmerie nationale sont chargés de mettre en oeuvre des mesures concrètes visant à une meilleure répartition territoriale des tâches de sécurité publique entre ces deux services. Une réflexion est engagée au sein d'un groupe de travail ad hoc, pour rechercher, définir et soumettre au Parlement des critères objectifs qui devront tenir compte de l'importance démographique des communes, de la notion d'unité urbaine et de l'homogénéité des zones d'intervention de la police et de la gendarmerie. Si pour l'avenir les grandes agglomérations urbaines constituent la priorité absolue du service public de la police nationale, celle-ci ne saurait se traduire par la fermeture immédiate d'un grand nombre de petits commissariats. En tout état de cause, dans les cas où il aura été jugé raisonnable de remplacer les fonctionnaires de la police d'Etat par les militaires de la gendarmerie, les préfets compétents seront chargés d'examiner localement les dispositions à mettre en oeuvre et le calendrier d'application, la gendarmerie devant être en mesure de prendre immédiatement en charge le secteur où la police nationale aura été retirée. De même, la situation de chacun des fonctionnaires concernés fera l'objet d'un examen approfondi, de nature à rasséréner leurs familles et auquel les organisations syndicales de la police seront également associées. L'honorable parlementaire peut être assuré qu'aucune procédure n'est actuellement en cours pour retirer les polices urbaines de Châteaurenard et qu'il n'est pas envisagé d'y procéder à court terme.
