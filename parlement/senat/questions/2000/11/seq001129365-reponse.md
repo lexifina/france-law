@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001129365
+
+- Question : [SEQ001129365](seq001129365.md) — Catastrophes naturelles : désignation en cas de sinistres d'un responsable unique dans chaque compagnie d'assurance
+
+## Réponse
+
+*Économie, JO du 2001-04-12, page 1270*
+
+Réponse. - Les cellules locales de coordination mises en place par les assureurs couvrent désormais la quasi-totalité du territoire métropolitain. Elles ont pour l'essentiel une mission d'information des différentes catégories d'assurés et de leurs représentants locaux (chambres de commerce et d'industrie, chambres de métiers, associations de consommateurs, etc.) et de contact avec les médias. Le coordinateur n'a pas pour mission de rendre uniforme les politiques de réglements de sinistres par les entreprises d'assurance. Ces politiques relèvent du type de contrat, de la clientèle et de la stratégie commerciale de chaque entreprise, dans un marché de l'assurance dommages aux biens caractérisé par une concurrence très vive sur les garanties comme sur les prix, ce qui permet à chaque assuré de déterminer son choix d'assurance en fonction de ses besoins propres et du degré de protection qu'il souhaite accorder à ses biens. Par ailleurs, les organisations professionnelles du secteur de l'assurance diffusent des éléments d'information et de doctrine professionnelle à leurs adhérents qui tendent à harmoniser sur le plan technique les modes de règlement des sinistres. Il existe un responsable unique au sein de chaque entreprise d'assurance, cette fonction étant assurée par le directeur de gestion des sinistres. Cette fonction n'a pas pour objet de s'exercer ailleurs que dans l'entreprise concernée. Il en est de même de la fonction de coordinateur local en matière de catastrophes naturelles qui ne pourrait, à lui seul, répondre aux demandes de l'ensemble des personnes sinistrées.
