@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001028304
+
+- Question : [SEQ001028304](seq001028304.md) — Ecole primaire : nouvelles pratiques en matière de discipline
+
+## Réponse
+
+*Éducation, JO du 2001-02-01, page 395*
+
+Réponse. - Lors de l'annonce en janvier 2000 de la mise en place de la deuxième phase du plan de lutte contre la violence en milieu scolaire, il a été prévu qu'une action de prévention et de réflexion sur la discipline et l'apprentissage des règles de vie et de morale devait être menée au niveau de l'école primaire qui devait conduire à l'édition et à la diffusion d'un guide intitulé " l'école du respect " dans toutes les écoles marternelles et élémentaires. Un comité national anti-violence, présidé par une inspectrice générale de l'éducation nationale et composé de représentants du ministère de l'éducation nationale (directeur, recteur, inspecteur d'académie, magistrate, personnels d'inspection, de direction, d'éducation, professeurs, médecin, infirmière, assistante sociale, ouvrier professionnel, élèves) de représentants des ministères de la justice, de l'intérieur, de la défense, de la ville, de la jeunesse et des sports, de représentants de mandats locaux et de parents d'élèves, est placé auprès du ministre de l'éducation nationale, en vue de piloter, d'animer et de coordonner l'action des services. Des groupes de travail au sein de ce comité viennent de se constituer en novembre 2000, dont notamment un sur le thème " l'école du respect ", qui doit élaborer des propositions pour la mise en uvre de pratiques nouvelles en matière de discipline qui soient adaptées à l'école primaire. C'est à l'issue des réunions de travail nécessaires à ce groupe de réflexion et après discussion avec l'ensemble des partenaires concernés, que seront établies dans le guide précité les règles devant inspirer cette action de prévention dès l'école primaire.
