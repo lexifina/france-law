@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030306438
+
+- Question : [SEQ030306438](seq030306438.md) — Soutien au secteur du transport routier
+
+## Réponse
+
+*Équipement, JO du 2003-07-10, page 2226*
+
+Il est essentiel que les transporteurs se prémunissent des risques inhérents aux variations de prix du carburant qui reflètent l'évolution conjoncturelle, et parfois erratique, des cours du pétrole brut sur les marchés internationaux. Ils disposent à cet effet du cadre juridique des contrats-types qui contiennent des clauses de révision des tarifs de transport en cas de variations significatives des charges en carburant. Le Comité national routier diffuse à l'attention des professionnels des index synthétiques actualisés mensuellement qui permettent de lier l'évolution des tarifs à celle des prix de revient. Par ailleurs, une harmonisation européenne de la taxation des carburants est en cours. La proposition de directive restructurant le cadre communautaire de taxation des produits énergétiques prévoit, pour la période 2004-2010, le réajustement des taux minimaux de taxation afin de rattraper l'érosion monétaire. Réuni les 19 et 20 mars 2003, le conseil ECOFIN a conclu un accord politique sur cette proposition de directive. L'accord des Quinze sur ce texte devrait être confirmé lors d'un prochain Conseil et le Parlement européen sera consulté. Le relèvement de ces taux permettrait de réduire les distorsions de concurrence induites par l'application de faibles taxes sur le gazole dans certains Etats membres. Le dispositif de la directive permettrait également de maintenir en 2003 et 2004 un remboursement de la taxe intérieure sur les produits pétroliers (TIPP) à hauteur de 1,19 euro par hectolitre de gazole consommé par les poids lourds d'au moins 7,5 tonnes, dans la limite semestrielle de 20 000 litres par véhicule.
