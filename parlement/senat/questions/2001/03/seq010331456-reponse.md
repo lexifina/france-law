@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010331456
+
+- Question : [SEQ010331456](seq010331456.md) — Remboursement des frais médicaux dentaires des coopérants
+
+## Réponse
+
+*Coopération, JO du 2001-05-03, page 1511*
+
+Réponse. - Le ministère des affaires étrangères apporte la plus grande attention au respect des droits des jeunes coopérants du service national, en particulier s'agissant de leur couverture sociale. Il apparaît que les coopérants ayant rencontré les difficultés que vous évoquez, en particulier au Québec, relèvent, par leur qualité de coopérant du service national en entreprise (CSNE) de la direction des relations économiques extérieures et non du ministère des affaires étrangères. Cependant, il convient d'observer que la question de la couverture sociale des CSN qui ne sont pas financés par une administration française est la même, quel que soit le statut de ces coopérants. Celle-ci est assurée par une société de courtage choisie par appel d'offres, qui garantit une prise en charge hospitalière 24 heures sur 24, quel que soit l'hôpital. Le coopérant est dispensé de l'avance de fonds. Plus particulièrement pour les soins dentaires, la garantie est fixée à 200 % du tarif de convention de la sécurité sociale. Le principe de praticiens conventionnés ou non n'existant pas à l'étranger, le coopérant est libre du choix de son médecin, mais, en contrepartie, il peut arriver que des dépassements d'honoraires par rapport à la norme de la sécurité sociale française restent à la charge du patient. D'autre part, il est légitime que l'organisme assureur se prémunisse contre toute tentative de fraude. De telles vérifications ne peuvent être considérées comme des tracasseries. S'agissant des volontaires internationaux appelés à remplacer les CSN, ceux-ci ont une couverture sociale dont les modalités sont identiques, mais elle est étendue aux ayants droit.
