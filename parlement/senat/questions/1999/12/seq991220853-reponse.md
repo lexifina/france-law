@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991220853
+
+- Question : [SEQ991220853](seq991220853.md) — Aménagement de la RN 7 à hauteur de Villeneuve-sur-Allier
+
+## Réponse
+
+*Équipement, JO du 2000-05-25, page 1869*
+
+Réponse. - Le ministre de l'équipement, des transports et du logement est parfaitement conscient de l'intérêt qui s'attache à l'aménagement de la route nationale 7 dans la traversée de l'Allier, comme en témoignent les engagements qui ont été pris. En effet, lors d'un déplacement à Moulins, le 22 janvier 1999, le ministre a annoncé que la déviation de Lapalisse-Saint-Prix, l'aménagement entre Saint-Prix et la limite de la Loire dans le département de l'Allier, ainsi que la déviation de Changy-La Pacaudière, dans celui de la Loire, seraient directement réalisés à deux fois deux voies dans le cadre du programme spécifique d'accélération des liaisons interrégionales financé à 100 % par l'Etat et consacré à l'ensemble de l'itinéraire entre Cosne-sur-Loire et Balbigny. Dans l'attente de la réalisation de ces aménagements, il a été décidé, en outre, d'engager un programme d'aménagements de sécurité sur cette section très sinueuse supportant un important trafic de poids lourds. Le financement de l'ensemble du programme spécifique d'aménagement de la R.N. 7, qui comprend notamment l'aménagement à deux fois deux voies au nord de Moulins, doit être achevé en 2003. Dans ces conditions, et dans la mesure où la déviation de Villeneuve-sur-Allier n'entre pas dans le cadre du programme spécifique d'accélération et de sa récente extension, son financement relève des futurs contrats de plan Etat-régions. Il est proposé au maire de Villeneuve-sur-Allier de se rapprocher dès à présent des services départementaux de l'équipement afin d'inscrire ce projet dans les documents d'urbanisme et de réserver les emprises correspondantes.
