@@ -1,9 +1,9 @@
 # Article 1 ter
 
-1° Le montant prévu au 1 du I de l'article R. 351-7-1 est fixé à 40 500 F du 1er juillet 2001 au 31 décembre 2001 et à 6 173,82 Euros à compter du 1er janvier 2002.
+1° Le montant prévu au 1 du I de l'article R. 351-7-1 est fixé à 6 300 euros.
 
 2° Le coefficient prévu au 2 du I du même article est fixé à 13.
 
 NOTA :
 
-NOTA : Arrêté 2001-07-30 art. 13 : les dispositions de l'arrêté du 30 juillet 2001 sont applicables à compter des prestations dues au titre du mois de juillet 2001.
+NOTA : Arrêté du 23 décembre 2002 - Article 14 : Les dispositions du présent article sont applicables pour les prestations dues à compter du mois de juillet 2002.

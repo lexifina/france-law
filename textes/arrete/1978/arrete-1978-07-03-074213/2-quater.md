@@ -12,19 +12,13 @@ BÉNÉFICIAIRES
 
 |
 
-TF du 1er juillet 2001 au 31 décembre 2001(en pourcentage)
+TF A COMPTER DU 1ER JANVIER 2002
 
-|
-
-TF à compter du 1er janvier 2002 (en pourcentage)
+(en pourcentage)
 
 |
 
 Personne seule
-
-|
-
-3,08
 
 |
 
@@ -36,19 +30,11 @@ Couple sans personne à charge
 
 |
 
-3,31
-
-|
-
 3,94
 
 |
 
 Personne seule ou couple avec une personne à charge
-
-|
-
-2,78
 
 |
 
@@ -60,19 +46,11 @@ Personne seule ou couple avec deux personnes à charge
 
 |
 
-2,57
-
-|
-
 2,97
 
 |
 
 Personne seule ou couple avec trois personnes à charge
-
-|
-
-2,28
 
 |
 
@@ -84,10 +62,6 @@ Personne seule ou couple ayant quatre personnes à charge
 
 |
 
-2,17
-
-|
-
 2,31
 
 |
@@ -96,27 +70,19 @@ Par personne à charge supplémentaire
 
 |
 
--0,06
+0,07
 
 |
 
-- 0,07
-
-|
-
-TL représente un taux complémentaire fixé ci-dessous en fonction de la valeur du rapport RL entre le loyer retenu dans la limite du plafond et un loyer de référence. RL est exprimé en pourcentage arrondi à la deuxième décimale.
-
-Le loyer de référence est défini selon le tableau suivant :
+TL représente un taux complémentaire fixé ci-dessous en fonction de la valeur du rapport RL entre le loyer retenu dans la limite du plafond et un loyer de référence. RL est exprimé en pourcentage arrondi à la deuxième décimale. Le loyer de référence est défini selon le tableau suivant :
 
 BENEFICIAIRE
 
 |
 
-VALEURS en francs du 1er juillet 2001 au 31 décembre 2001
+VALEURS
 
-|
-
-VALEURS en euros à compter du 1er janvier 2002
+(en euros)
 
 |
 
@@ -124,11 +90,7 @@ Personne seule
 
 |
 
-1402
-
-|
-
-213,73
+216,29
 
 |
 
@@ -136,11 +98,7 @@ Couple sans personne à charge
 
 |
 
-1716
-
-|
-
-261,60
+264,74
 
 |
 
@@ -148,23 +106,7 @@ Personne seule ou couple ayant une personne à charge
 
 |
 
-1931
-
-|
-
-294,38
-
-|
-
-Personne seule ou couple ayant deux personnes à charge
-
-|
-
-2212
-
-|
-
-337,22
+297,91
 
 |
 
@@ -172,11 +114,7 @@ Par personne supplémentaire à charge
 
 |
 
-281
-
-|
-
-42,84
+43,35
 
 |
 
@@ -192,4 +130,4 @@ TL exprimé en % est arrondi à la troisième décimale.
 
 NOTA :
 
-NOTA : Arrêté du 23 décembre 2002 : Les dispositions du présent article sont applicables pour les prestations dues à compter du mois de juillet 2002.
+NOTA : Arrêté du 23 décembre 2002 - article 14 : Les dispositions du présent article sont applicables pour les prestations dues à compter du mois de juillet 2002.

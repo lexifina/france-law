@@ -18,103 +18,7 @@ PP représente la participation personnelle du ménage à la dépense de logemen
 
 II. - En application de l'article R. 351-22-1, les plafonds de loyers visés à l'article R. 351-17-3 son fixés comme suit :
 
-Valeur en francs du 1er juillet 2001 au 31 décembre 2001.
-
-ZONE
-
-|
-
-PERSONNE SEULE
-
-(en francs)
-
-|
-
-COUPLE SANS PERSONNE
-
-à charge
-
-(en francs)
-
-|
-
-PERSONNE SEULE
-
-ou couple ayant une personne à charge
-
-(en francs)
-
-|
-
-PAR PERSONNE À CHARGE
-
-supplémentaire
-
-(en francs)
-
-|
-
-I
-
-|
-
-1 596
-
-|
-
-1 925
-
-|
-
-2 165
-
-|
-
-314
-
-|
-
-II
-
-|
-
-1 402
-
-|
-
-1 716
-
-|
-
-1 931
-
-|
-
-281
-
-|
-
-III
-
-|
-
-1 314
-
-|
-
-1 593
-
-|
-
-1 786
-
-|
-
-256
-
-|
-
-Valeur en euros à compter du 1er janvier 2002.
+Valeur en euros à compter du 1er juillet 2002.
 
 ZONE
 
@@ -154,19 +58,19 @@ I
 
 |
 
-243,31
+248,10
 
 |
 
-293,46
+299,33
 
 |
 
-330,05
+334,01
 
 |
 
-47,87
+48,44
 
 |
 
@@ -174,19 +78,19 @@ II
 
 |
 
-213,73
+216,29
 
 |
 
-261,60
+264,74
 
 |
 
-294,38
+297,91
 
 |
 
-42,84
+43,35
 
 |
 
@@ -194,19 +98,19 @@ III
 
 |
 
-200,32
+202,72
 
 |
 
-242,85
+245,76
 
 |
 
-272,27
+275,54
 
 |
 
-39,03
+39,50
 
 |
 
@@ -218,4 +122,4 @@ Les montants obtenus par l'application de ces pourcentages sont arrondis au fran
 
 NOTA :
 
-NOTA : Arrêté 2001-07-30 art. 13 : les dispositions de l'arrêté du 30 juillet 2001 sont applicables à compter des prestations dues au titre du mois de juillet 2001.
+NOTA : Arrêté du 23 décembre 2002 - article 14 : Les dispositions du présent article sont applicables pour les prestations dues à compter du mois de juillet 2002.
