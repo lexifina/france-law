@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870807408
+
+- Question : [SEQ870807408](seq870807408.md) — Collectivités locales : indemnisation des agents titulaires involontairement privés d'emploi
+
+## Réponse
+
+*Intérieur, JO du 1988-02-04, page 163*
+
+Réponse. -En application des dispositions de l'article L. 351-12 du code du travail l'indemnisation de la perte involontaire d'emploi des agents de la fonction publique territoriale est assurée par les collectivités territoriales dans les mêmes conditions que celles fixées conventionnellement par les partenaires sociaux pour le secteur privé. Ces dispositions qui résultent de l'ordonnance du 21 mars 1984 ont pu, dans le cas des agents non titulaires recrutés de manière temporaire, se révéler complexes et onéreuses et avoir de ce fait des conséquences négatives sur l'emploi et le bon fonctionnement des services territoriaux. Les difficultés rencontrées ont amené le Gouvernement, après concertation avec les associations d'élus, à modifier les dispositions de l'article L. 351-12 susvisé. Celui-ci tel qu'il résulte de la loi du 30 juillet 1987 ouvre la possibilité aux collectivités territoriales et à leurs établissements publics administratifs qui le souhaitent d'adhérer au régime d'assurance chômage pour l'ensemble de leurs non-titulaires. Il n'a par ailleurs pas été envisagé de supprimer le versement d'allocations de chômage aux fonctionnaires territoriaux privés d'emploi. Cette indemnisation n'intervient, en effet, que dans un nombre de cas limités, et par ailleurs la situation des intéressés ne paraît pas devoir être en la matière plus défavorable que celle des salariés du secteur privé, lesquels sont indemnisés par le régime d'assurance chômage même en cas de licenciement pour faute lourde. Enfin, il convient d'ajouter que la question de l'indemnisation des fonctionnaires de l'Etat involontairement privés d'emploi est en cours d'examen entre les administrations compétentes.
