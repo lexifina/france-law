@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950812014
+
+- Question : [SEQ950812014](seq950812014.md) — Assiette de la contribution sociale de solidarité des sociétés
+
+## Réponse
+
+*Budget, JO du 1996-04-25, page 1006*
+
+Réponse. - L'article 30 de la loi de finances rectificative pour 1995 a prévu l'élimination de l'effet de cumul de la contribution sociale de solidarité des sociétés pour les opérations financières réalisées par les établissements bancaires coopératifs ou mutualistes avec leurs organismes centraux mentionnés à l'arti cle 20 de la loi bancaire (loi no 84-46 du 24 janvier 1984). Ce dispositif permet d'exonérer les opérations de centralisation des ressources financières des établissements concernés, c'est-à-dire les opérations qui consistent à faire remonter les ressources collectées au niveau local ou régional vers l'échelon national, puis à redistribuer ces mêmes ressources aux différents établissements du réseau selon leurs besoins de refinancement. Toutefois, il est apparu que ce dispositif de neutralisation ne correspondait pas à la situation de certains réseaux bancaires, dès lors que les opérations concernées n'étaient pas effectuées avec les organismes centraux mentionnés à l'article 20 déjà cité, ni réalisées à la fois à l'échelon national et régional. Cette lacune a été comblée par les dispositions de l'article 92 de la loi de finances pour 1996, qui exonèrent de la contribution sociale de solidarité des sociétés les intérêts provenant d'opérations de centralisation de ressources financières réalisées par les établissements de crédit affiliés à l'un de organes centraux mentionnés à l'article 20 de la loi bancaire, que cette centralisation soit opérée au niveau régional et national ou réalisée avec des organismes autres que ceux visés à cet article, dans la limite du montant des intérêts servis en contrepartie de ces mêmes opérations. Ce nouveau dispositif répond à la préoccupation exprimée.
