@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981213294
+
+- Question : [SEQ981213294](seq981213294.md) — Bilan des activités de l'observatoire des télécommunications dans la ville
+
+## Réponse
+
+*Industrie, JO du 1999-03-18, page 886*
+
+Réponse. - L'observatoire des télécommunications dans la ville a été créé en 1991, à l'initiative de France Télécom, pour aider à l'appropriation des nouvelles technologies d'information et de communication par les collectivités locales. Depuis son origine, l'observatoire a développé une double activité d'information des collectivités locales et d'étude sur l'apport des nouvelles technologies aux politiques de développement local. A titre d'exemple, en 1998, des groupes de travail réunissant des élus, des cadres territoriaux et experts, ont mené des réflexions sur les thèmes de l'intercommunalité et de l'apport des nouvelles technologies à ces structures, de l'enseignement et des services multimédias aux citoyens. Ces travaux ont donné lieu à des publications mises à disposition des collectivités locales, offrant une description des expériences menées dans ces domaines et des recommandations d'action pour les élus. Parallèlement, grâce à divers moyens de communication (journal de l'observatoire, site Web, colloques), l'observatoire a assumé une mission de partage d'expériences et d'information sur les évolutions des télécommunications. L'observatoire s'est constitué en association loi 1901, le 6 janvier dernier. Cette association réunit des associations nationales d'élus, de cadres territoriaux, des administrations concernées et France Télécom. Quatre thèmes de travail ont été arrêtés pour l'année 1999 : monde rural et nouvelles technologies de l'information et de communication (NTIC), téléprocédures administratives, multimédia et vie de la cité, éducation et NTIC. L'observatoire fonctionne grâce aux contributions de ses membres ; il ne bénéficie d'aucune subvention publique.
