@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960917381
+
+- Question : [SEQ960917381](seq960917381.md) — Rapport entre le système éducatif et le monde du travail
+
+## Réponse
+
+*Travail, JO du 1997-01-23, page 230*
+
+Réponse. - L'honorable parlementaire a signalé à l'intention du ministre du travail et des affaires sociales les propositions faites par le Secours catholique de " développer le tutorat professionnel " et " d'améliorer les rapports entre le système éducatif et le monde du travail ". Le souci d'une plus grande implication des entreprises dans l'insertion professionnelle, notamment pour les jeunes en grande difficulté, est partagé à la fois par le Gouvernement et les partenaires sociaux. Il s'est traduit par plusieurs mesures renforçant le tutorat, comme le préconise le Secours catholique : la loi no 96-376 du 6 mai 1996 et le décret no 96-376 du 20 août 1996 ont ainsi ouvert la possibilité pour les organismes collecteurs des fonds de l'alternance de financer une partie du coût pour l'entreprise des actions de tutorat dont bénéficient les jeunes non qualifiés en contrat d'orientation ou en contrat initiative emploi. De même, des instructions ont été diffusées récemment pour favoriser le développement des réseaux de parrainage mis en place par les missions locales. La volonté de rapprocher le système éducatif du monde du travail a conduit notamment à poursuivre le développement de l'alternance, qui est la forme la plus aboutie de ce rapprochement : celle-ci est maintenant généralisée dans l'enseignement professionnel, ce qui conduit chaque année environ 550 000 jeunes à effectuer un ou plusieurs stages d'application en entreprise. La place prise par les formations en alternance sous contrat de travail s'est, elle aussi, accrue avec l'essor de l'apprentissage, qui devrait toucher fin 1996 plus de 300 000 jeunes.
