@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870405402
+
+- Question : [SEQ870405402](seq870405402.md) — Devenir des 13 centres de formation gérés par l'association Promoca
+
+## Réponse
+
+*Équipement, JO du 1988-01-28, page 121*
+
+Réponse. -La formation continue et la promotion sociale des salariés d'agences d'architectes a été assurée, jusqu'en 1987, par Promoca, association paritaire de droit privé, dont le financement provenait essentiellement d'une taxe parafiscale assise sur les salaires et acquittée par les architectes employeurs. Cette taxe parafiscale n'a pas été reconduite en 1987 et, par voie de conséquence, Promoca a été contrainte de cesser son activité. Les pouvoirs publics se sont préoccupés de la reconstitution, dans le cadre de la législation sur la formation professionelle, d'un dispositif permettant aux collaborateurs d'architectes d'accéder au D.P.L.G. ; ils ont donc incité les organisations représentatives des architectes employeurs et les syndicats représentant leurs salariés à négocier pour mettre en place un système de formation paritaire, conforme à la législation dans ce domaine et susceptible de répondre aux demandes des architectes et de leurs salariés. Les négociations engagées qui, jusqu'à présent, n'ont pu aboutir, pourraient reprendre dans le cadre de l'accord cadre interprofessionnel relatif à la formation permanente et à la création du Fonds d'assurance formation des professions libérales, signé le 9 juillet 1987. Toutefois, inquiets du retard pris par ces négociations, les services du ministère de l'équipement, du logement, de l'aménagement du territoire et des transports ont par ailleurs pris l'initiative de mettre à l'étude une formation, destinée aux collaborateurs salariés d'architectes, qui serait dispensée dans certaines écoles d'architecture et aboutirait à la délivrance du diplôme d'architecte D.P.L.G. Un groupe de travail a récemment été constitué à cet effet.
