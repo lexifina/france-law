@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030105369
+
+- Question : [SEQ030105369](seq030105369.md) — Octroi de cotisations vieillesse gratuites
+
+## Réponse
+
+*Santé, JO du 2004-11-11, page 2596*
+
+La personne assumant au foyer familial la charge d'un enfant handicapé âgé de moins de vingt ans, qui n'est pas admis dans un internat et dont l'incapacité permanente est au moins égale à 80 % bénéficie, en tout état de cause, de l'allocation d'éducation spéciale. Elle peut également bénéficier de l'un de ses compléments, attribué selon le montant des dépenses entraînées par le handicap de l'enfant ou si l'un des parents réduit son activité professionnelle ou si une tierce personne est employée pour s'occuper de l'enfant handicapé. L'allocation d'éducation spéciale et, le cas échéant, son complément peuvent atteindre 1 059,02 euros par mois et ne sont pas soumis à condition de ressources. De plus, cette personne est affiliée gratuitement à l'assurance vieillesse du régime général, en application de l'article L. 381-1 du code de la sécurité sociale, avec prise en charge des cotisations par la branche famille du régime général si les ressources du ménage n'excèdent pas le plafond d'attribution du complément familial et qu'elle ne relève pas à un autre titre (par exemple une activité salariée) du régime général. Cette affiliation permet l'acquisition de droits à retraite équivalents à ceux d'un salarié employé 169 heures par mois au SMIC. Si les ressources du ménage excèdent ce plafond, la personne peut acquérir ces mêmes droits en versant les cotisations correspondantes (204 euros par mois au 1er janvier 2004) auprès de l'assurance volontaire vieillesse. Il paraît cohérent de maintenir une telle condition pour la prise en charge de cotisations de retraite ouvrant droit à une pension personnelle dans un régime de sécurité sociale qui repose autant sur l'effort contributif des cotisants que sur la solidarité à l'égard des diverses catégories de bénéficiaires.
