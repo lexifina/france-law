@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911219279
+
+- Question : [SEQ911219279](seq911219279.md) — Régulation des dépenses de santé
+
+## Réponse
+
+*Affaires sociales, JO du 1992-08-27, page 1941*
+
+Réponse. - Le souci exprimé par l'honorable parlementaire d'assurer la pleine participation des médecins à la gestion du système d'assurance maladie par le développement d'une approche médicalisée assortie de procédures de concertation et d'évaluation est tout à fait partagé par le Gouvernement. Permettre une adaptation régulière des tarifs et des nomenclatures des actes médicaux, en fonction du contexte économique mais également des pratiques et techniques médicales, est un des principaux objectifs des dispositifs de maîtrise négociée des dépenses que le Gouvernement s'est attaché à promouvoir. C'est pour cet ensemble de raisons que le Gouvernement a approuvé, le 5 mai 1992, l'avenant n° 3 à la convention nationale des médecins, signé entre la confédération syndicale des médecins de France et les trois caisses nationales d'assurance maladie. L'arrêt du Conseil d'Etat du 10 juillet 1992 annulant l'arrêté d'approbation de la convention nationale des médecins du 9 mars 1990 a rendu par voie de conséquence caduc l'ensemble du dispositif conventionnel et notamment l'avenant n° 3 à la convention. En conséquence, les syndicats représentatifs des médecins devront entamer dès l'automne des négociations en vue de la conclusion d'une nouvelle convention. Afin de permettre à cette convention d'organiser une maîtrise concertée des dépenses associant étroitement les médecins, notamment à travers des unions professionnelles, des adaptations de la partie législative du code de la sécurité sociale sont nécessaires. Les discussions entamées à ce sujet au printemps se poursuivront donc au Parlement à la session d'automne, un cadre légal étant indispensable à la nécessaire conclusion d'un nouveau texte conventionnel.
