@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970321432
+
+- Question : [SEQ970321432](seq970321432.md) — Conservation des archives détenues à Arolsen (Allemagne) relatives aux camps de concentration
+
+## Réponse
+
+*Affaires étrangères, JO du 1997-05-15, page 1472*
+
+Réponse. - Ainsi que le rappelle l'honorable parlementaire, les archives d'Arolsen qui rassemblent des documents relatifs aux camps de concentration et aux personnes déplacées sont ouvertes aux chercheurs depuis le 1er janvier 1996. Cette ouverture ne concerne pour le moment qu'une partie des documents. Une telle décision permettant un accès partiel a été prise par la Commission internationale pour le Service international de recherches afin de ne pas nuire au rôle humanitaire joué par ces archives. Conformément à son statut, le Service international de recherches qui gère ces archives doit en effet répondre aux demandes individuelles des victimes et de leurs ayants droit. Plusieurs centaines de milliers de demandes sont traitées chaque année. Les anciens persécutés et leurs ayants droit peuvent ainsi avoir accès aux renseignements les concernant. Un symposium tel que celui que la Fédération nationale des déportés et internés résistants et patriotes envisage d'organiser à propos des archives de l'univers concentrationnaire est une initiative intéressante alimentant la réflexion sur l'accès aux archives. Une ouverture de l'ensemble des archives du Service international de recherches d'Arolsen soulève de nombreux problèmes liés à la nature des documents conservés par le SIR. Il s'agit fréquemment de dossiers individuels comportant des indications personnelles concernant les anciens persécutés. Différentes questions doivent donc être réglées pour que la Commission internationale pour le Service international de recherches, c'est-à-dire tous les Etats parties composant cette commission, détermine les conditions d'une ouverture plus large.
