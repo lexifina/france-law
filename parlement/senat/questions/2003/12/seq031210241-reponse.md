@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031210241
+
+- Question : [SEQ031210241](seq031210241.md) — FCTVA : proportion des dépenses ayant supporté le taux réduit de TVA
+
+## Réponse
+
+*Intérieur, JO du 2004-10-21, page 2398*
+
+Selon les dispositions figurant aux articles L. 1615-1 et L. 1615-6 du code général des collectivités territoriales, le fonds de compensation pour la TVA (FCTVA) a pour objet de compenser forfaitairement la taxe sur la valeur ajoutée supportée par les collectivités territoriales à raison de leurs dépenses réelles d'investissement. Le taux de compensation de la TVA est déterminé de manière forfaitaire par rapport au taux normal de TVA prévu à l'article 278 du code général des impôts. Depuis le 1er janvier 1997, ce taux de compensation est diminué de 0,905 point pour tenir compte de la part de TVA versée par la France au budget européen. Ainsi, ce taux, fixé à l'article L. 1615-6 du CGCT, est de 15,482 % depuis le 1er janvier 2003. Ce taux est appliqué au montant toutes taxes comprises des dépenses réelles d'investissement quel que soit le taux de TVA (taux normal ou taux réduit) effectivement supporté. Le caractère forfaitaire de la compensation ne nécessite pas, dans ces conditions, l'élaboration d'un document permettant de ventiler les dépenses selon le taux de TVA supporté par la collectivité. Il convient toutefois d'indiquer que la part des dépenses réelles d'investissement soumises au taux réduit de la TVA reste très marginale. Les dispositions du code général des impôts relatives aux opérations soumises à ce taux ne sont en effet susceptibles de concerner que l'acquisition des livres dans le cadre d'un premier équipement des bibliothèques ou bien certains équipements destinés aux personnes handicapées. En dehors de ces cas, les dépenses d'investissement restent soumises au taux normal de la TVA.
