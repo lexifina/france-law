@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021104158
+
+- Question : [SEQ021104158](seq021104158.md) — Amélioration de l'image des métiers de la prison
+
+## Réponse
+
+*Justice, JO du 2003-02-06, page 480*
+
+Le ministère de la justice a effectivement lancé fin septembre 2002 une grande campagne de communication sur les métiers pénitentiaires. Cette campagne constitue un précédent important qui vise non seulement à mieux faire connaître l'intérêt et la variété des métiers pénitentiaires mais encore à valoriser l'image d'une profession qui constitue la troisième force de sécurité de notre pays. La première phase correspondait à la période d'inscription au concours de surveillants (clôture des inscriptions le 15 novembre 2002) : insertions publicitaires dans la presse écrite, relations presse, publipostage (brochures, affiches) aux organismes spécialisés emploi, information sur Internet. Le premier bilan est très satisfaisant puisque le nombre d'inscriptions a doublé par rapport au précédent concours : près de 21 000 inscrits contre 10 400 au printemps 2002 et 6 400 à l'automne 2001. Pour mesurer l'impact de la campagne, au-delà du nombre de candidats, une enquête a été réalisée par la société Louis-Harris les 25 et 26 octobre auprès de 1 050 Français de 15 ans et plus. Les principaux résultats sont les suivants : 46 % des Français interrogés disent se souvenir de la campagne. Louis-Harris souligne que c'est un très bon résultat car pour ce type de campagne (insertions publicitaires dans la presse écrite) le taux de mémorisation est en général compris entre 18 et 20 %. Cela s'explique sans doute par les nombreuses retombées dans la presse. 60 % disent " avoir apprécié " la campagne, 93 % la jugent " utile ", 63 % estiment qu'elle donne " une meilleure image des métiers ". La seconde phase de la campagne commencera au printemps 2003 avec notamment une campagne publicitaire à la télévision. Un nouveau bilan sera établi.
