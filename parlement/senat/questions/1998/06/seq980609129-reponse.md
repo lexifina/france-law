@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980609129
+
+- Question : [SEQ980609129](seq980609129.md) — Implantation en Guyane des entreprises de l'industrie spatiale et de la haute technologie
+
+## Réponse
+
+*Outre-mer, JO du 1998-09-03, page 2849*
+
+Réponse. - Le Centre spatial guyanais - établissement technique du CNES - est aujourd'hui totalement dédié au programme Ariane. Alors que le centre proprement dit rassemble un peu plus de 900 personnes, dont les agents du CNES, du personnel sous contrat et des agents des sociétés filiales ou industrielles, ce sont près de 1 500 personnes qui travaillent sur le site au sein de la Communauté industrielle et spatiale de la Guyane (CISG), démontrant ainsi l'effet d'entraînement économique du spatial. L'Etat et le CNES, au travers du programme PHEDRE et de la convention PHEDRE bis, ont par ailleurs accompagné financièrement de manière très importante la satisfaction des besoins en logement, le développement urbain et les équipements publics de proximité ainsi que le soutien à l'activité économique de toute la Guyane. Cet effort particulier a permis de créer un environnement favorable à l'implantation d'entreprises françaises ou étrangères de haut niveau technologique. Le CSG, très conscient de l'intérêt pour la Guyane d'attirer des entreprises, incite par des actions spécifiques de communication ses grands partenaires à s'y implanter. En tout état de cause, les entreprises déjà présentes en Guyane se sont associées et tentent, elles aussi, de s'appuyer sur leurs réseaux européens pour favoriser la réalisation d'une grande zone d'activité. Il n'en est pas moins que l'Etat continuant à penser que l'implantation d'entreprises est un axe majeur de développement économique étudie la mise en place de conditions spécifiques adaptées à la Guyane et aux départements d'outre-mer, propres à attirer encore davantage des investissements productifs et durables.
