@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980206381
+
+- Question : [SEQ980206381](seq980206381.md) — Police nationale : création d'un douzième échelon
+
+## Réponse
+
+*Intérieur, JO du 1998-04-09, page 1160*
+
+Réponse. - Aux termes du premier alinéa de l'article 4 du décret du 9 mai 1995 modifié portant statut particulier du corps de maîtrise et d'application de la police nationale, le grade de gardien de la paix, qui constitue le grade initial de ce corps, comporte onze échelons (le onzième échelon ayant été créé par le décret du 31 décembre 1992 et l'arrêté du même jour pris pour son application) et un échelon exceptionnel. Cet échelon exceptionnel est doté de l'indice majoré 426, qui est également celui afférent au troisième des cinq échelons du grade de brigadier de police. La création d'un douzième échelon, doté de l'indice 426, et la revalorisation à l'indice 444 de l'échelon exceptionnel, conduirait à fixer cet indice au même niveau que celui afférent au quatrième échelon du grade de brigadier situé au cinquième et dernier échelon (indice majoré 455) de son grade, et un gardien de la paix ayant atteint l'échelon exceptionnel serait alors très faible et freinerait considérablement l'incitation des personnels titulaires du grade initial du corps concerné à un avancement au grade supérieur, s'agissant en particulier de l'examen professionnel à la réussite duquel est notamment subordonné cet avancement. Dans ces conditions, il n'est donc pas envisagé de donner une suite favorable à cette demande. Toutefois, il convient de rappeler que les personnels du corps de maîtrise et d'application, y compris les gardiens de la paix, ont bénéficié ces dernières années d'importantes mesures de revalorisation indiciaire, résultant notamment de la mise en uvre du protocole Durafour, qui a permis en particulier de revaloriser le dernier échelon du grade terminal du corps de l'indice majoré 439 au 1er août 1990, à l'indice majoré 496 au 1er août 1996.
