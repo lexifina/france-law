@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961018133
+
+- Question : [SEQ961018133](seq961018133.md) — Salariés en congé de maladie licenciés
+
+## Réponse
+
+*Travail, JO du 1997-02-06, page 397*
+
+Réponse. - L'honorable parlementaire a attiré l'attention de M. le ministre du travail et des affaires sociales sur la situation des salariés en arrêt maladie au moment de leur licenciement pour motif économique et qui ne peuvent de ce fait bénéficier d'une convention de conversion. Le dispositif des conventions de conversion créé par l'accord national interprofessionnel du 20 octobre 1986 est ouvert à tous les salariés licenciés pour motif économique remplissant les conditions réglementaires prévues par les partenaires sociaux, gestionnaires du régime, seuls compétents pour décider d'une éventuelle modification des textes. Parmi ces conditions d'accès (art. 2 du règlement annexé à la convention du 1er janvier 1994 relative à l'assurance conversion) figure notamment l'obligation d'être physiquement apte à l'emploi, ce qui exclut de fait les personnes en arrêt maladie au moment de leur licenciement. Cela s'explique notamment pour l'obligation fait à tout salarié en convention de conversion d'être immédiatement et totalement disponible pour toutes les actions visant à son reclassement rapide (aide à la recherche d'un emploi et formations qualifiantes notamment). Toutefois, afin de ne pas pénaliser les salariés licenciés au cours d'un arrêt maladie, une directive de l'UNEDIC (no 41-93 du 21 septembre 1993) a prévu que la convention de conversion pouvait être proposée à un salarié en arrêt maladie au moment de son licenciement, dès lors que cet arrêt est de courte durée et sans incidence réelle sur l'aptitude future du salarié à retrouver un emploi. En tout état de cause, l'appréciation de la situation de chaque salarié relève de l'ASSEDIC compétente.
