@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000625896
+
+- Question : [SEQ000625896](seq000625896.md) — Mission humanitaire d'Electricité de France (EDF) au Venezuela
+
+## Réponse
+
+*Industrie, JO du 2000-10-12, page 3489*
+
+Réponse. - L'équipe légère d'intervention de secours aéroportés (Elisa) est une organisation non gouvernementale reconnue d'intérêt général et spécialisée dans l'aide médicale d'urgence et les secours aéroportés dans des zones d'accès difficile ou éloignées des grandes infrastructures hospitalières. En cas de catastrophe naturelle majeure et après accord de l'ambassade du pays concerné, Elisa est en mesure, dans des délais extrêmement courts, d'acheminer sur la zone des secours un groupe composé de 6 spécialistes (1 chef de mission, 1 médecin, 1 infirmier, 1 maître-chien et 2 secouristes), autonome pendant dix jours et opérant en coopération avec les autorités locales. C'est ce dispositif, comprenant notamment 5 agents d'EDF, qui a été mis en uvre au Venezuela le 26 décembre 1999, dans le cadre d'une demande d'aide internationale formulée par le Gouvernement vénézuélien à la suite des graves inondations ayant eu lieu dans la région de Caracas et dans l'Etat de Vargas. Le bilan des opérations menées au Venezuela apparaît particulièrement positif à plusieurs égards. Elisa a démontré sa capacité à faire face à des situations de secours complexes et a su s'adapter à des méthodes et des matériels d'intervention non utilisés en France. De plus, la qualité des contacts et de la coopération avec les autorités civiles et militaires vénézuéliennes (ministre de la défense, ministre de la santé, gouverneur) a été soulignée. Les membres d'Elisa ont reçu les félicitations des autorités françaises et vénézuéliennes. Lors d'un discours officiel prononcé à l'occasion de la décoration du drapeau français, le Président Chavez, Président de la république du Venezuéla, a souligné la qualité du travail éffectué par l'ensemble de l'équipe d'Elisa.
