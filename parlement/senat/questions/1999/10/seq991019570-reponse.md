@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991019570
+
+- Question : [SEQ991019570](seq991019570.md) — Marchés publics d'assurances
+
+## Réponse
+
+*Économie, JO du 1999-12-30, page 4308*
+
+Réponse. - La transposition de la directive 92/50/CE relative aux marchés publics de services a été effectuée par le décret nº 98-111 du 27 février 1998, en tant qu'elle concerne les personnes publiques soumises au code des marchés publics. Ce décret définit notamment les conditions dans lesquelles ces personnes concluent leurs contrats d'assurance. Dans un premier temps, une circulaire du ministre de l'économie, des finances et de l'industrie en date du 27 juillet 1998 et venue apporter des précisions sur la portée de ces dispositions. Ce texte n'a pas entendu réserver le marché de l'assurance à certaines catégories de professionnels. Néanmoins, au vu d'un certain nombre de difficultés pratiques rencontrées tant par les acheteurs publics que par les professionnels, une très large concertation a été engagée avec les représentants des différentes professions du secteur afin d'examiner l'ensemble des problèmes évoqués, et notamment la question de l'intervention des intermédiaires. Cette concertation a abouti à l'élaboration de la circulaire interministérielle du 30 juillet 1999, qui vient abroger et remplacer la circulaire du 27 juillet 1998. S'agissant plus précisément de la question du rôle des intermédiaires, cette nouvelle circulaire rappelle le principe suivant lequel l'acheteur public ne doit pas favoriser, dans la procédure du marché public, un mode de distribution particulier de l'assurance. Il ne peut donc pas réserver la soumission des contrats à une certaine catégorie d'intervenants (agent général d'assurance, courtier d'assurance, organisme ou entreprise d'assurance). Les précisions ainsi apportées paraissent de nature à résoudre les difficultés évoquées par l'auteur de la question.
