@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000525077
+
+- Question : [SEQ000525077](seq000525077.md) — Cartes d'abonnement de cinéma
+
+## Réponse
+
+*Culture, JO du 2000-07-27, page 2648*
+
+Réponse. - Le ministère de la culture et de la communication a réagi promptement au lancement de la carte d'abonnement offrant un accès illimité aux salles du circuit UGC, initiative commerciale qui n'avait fait l'objet d'aucune concertation préalable avec les pouvoirs publics. Le directeur général du centre national de la cinématographie a saisi, sans délai, le médiateur du cinéma afin que celui-ci rende un avis sur cette nouvelle pratique commerciale. Les conclusions du médiateur du cinéma rendues publiques le 25 avril dernier ont mis en évidence les questions soulevées par l'opération commerciale d'UGC au regard du droit de la concurrence. C'est pourquoi, le ministère de la culture et de la communication a demandé au ministre de l'économie et des finances de saisir le conseil de la concurrence afin qu'il statue sur cette pratique. Il a également demandé à la société UGC de suspendre provisoirement la vente de sa carte d'abonnement, ce que ses dirigeants ont accepté, la commercialisation de la carte étant suspendue depuis le 10 mai dernier. Cette pause semble nécessaire afin d'évaluer dans tous ses aspects l'impact réel de cette nouvelle formule d'abonnement. Une concertation a depuis lors été engagée par le directeur général du centre national de la cinématographie, sur les conditions dans lesquelles des pratiques promotionnelles peuvent être mises en place en donnant toutes garanties pour concilier le maintien du pluralisme de l'exploitation et de l'offre de films dans les salles avec le souci légitime de démocratisation de l'accès au cinéma. Le ministère de la culture et de la communication demeure vigilant sur l'évolution de cette affaire qui devrait connaître une nouvelle étape dans quelques semaines lorsque le conseil de la concurrence fera connaître sa position.
