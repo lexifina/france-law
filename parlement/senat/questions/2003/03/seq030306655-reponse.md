@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030306655
+
+- Question : [SEQ030306655](seq030306655.md) — Bilan des actions menées par l'Institut national de prévention et d'éducation pour la santé
+
+## Réponse
+
+*Santé, JO du 2003-06-12, page 1936*
+
+La création de l'Institut national de prévention et d'éducation pour la santé sous forme d'un établissement public administratif est effective depuis le 3 mai 2002. Selon les termes de la loi du 4 mars 2002, l'Institut national de prévention et d'éducation pour la santé se voit confier trois missions : mettre en oeuvre les programmes de prévention pour le compte de l'Etat et de ses établissements publics, exercer une fonction d'expertise et de conseil en matière de prévention et de promotion de la santé, assurer le développement de l'éducation pour la santé, y compris de l'éducation thérapeutique sur l'ensemble du territoire. Les années 2002 et 2003 constituent pour l'Institut national de prévention et d'éducation pour la santé deux années de transition tant en ce qui concerne l'évolution de ses missions que de son statut par rapport au Comité français d'éducation pour la santé. Néanmoins, le ministre chargé de la santé a d'ores et déjà défini les axes stratégiques de six programmes de prévention qui seront développés et mis en oeuvre par l'Institut national de prévention et d'éducation pour la santé en 2003 : prévention de la consommation excessive d'alcool, prévention du tabagisme, prévention du VIH et des infections sexuellement transmissibles, prévention des accidents de la vie courante, nutrition, lieux de soins. D'autres programmes d'actions seront confiés à l'Institut national de prévention et d'éducation pour la santé ; ils s'appuieront, notamment, sur les objectifs définis par la future loi de santé publique qui doit être soumise pour examen à la représentation nationale. Le budget 2003 de l'Institut national de prévention et d'éducation pour la santé a été approuvé à hauteur de 87 181 481 EUR.
