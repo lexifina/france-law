@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860500727
+
+- Question : [SEQ860500727](seq860500727.md) — Commerce indépendant dans le Tarn
+
+## Réponse
+
+*Commerce et artisanat, JO du 1986-06-19, page 850*
+
+Réponse. -Le ministère du commerce, de l'artisanat et du tourisme mène une politique active de soutien aux activités commerciales en millieu rural. Dans ce cadre, des aides peuvent être accordées aux collectivités publiques pour assurer le maintien ou la création de commerces de proximité en cas de carence de l'initiative privée : dans le département du Tarn, dans les communes de Nages et de Servies. Le recrutement de personnels d'assistance technique destiné à intervenir en milieu rural bénéficie également d'un soutien financier : la chambre de commerce et d'industrie de Castres a pu ainsi renforcer son service d'assistance technique en 1982 grâce à l'aide du ministère. Enfin des aides peuvent être accordées, notamment dans le cadre du contrat de plan Etat-région Midi-Pyrénées, aux actions collectives visant à la promotion et à la modernisation du commerce rural. En dehors de cette politique spécifique aux zones rurales, les préoccupations exprimées par l'honorable parlementaire rejoignent très largement les orientations du ministère du commerce, de l'artisanat et des services qui s'inscrivent elles-mêmes directement dans la politique gouvernementale : libération des marges du commerce ; promotion de l'emploi des jeunes par l'allégement des charges sociales ; élaboration d'une réglementation nouvelle de la concurrence. En outre, une réflexion va être engagée en concertation avec les organisations professionnelles sur les modalités d'allégement de la taxe professionnelle et sur l'opportunité d'un aménagement du droit de l'urbanisme commercial ; ce dernier point fera d'ailleurs prochainement l'objet d'une saisine du Conseil économique et social.
