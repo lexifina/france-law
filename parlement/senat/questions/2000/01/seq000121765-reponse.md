@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000121765
+
+- Question : [SEQ000121765](seq000121765.md) — Achat lors d'une foire
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2000-03-23, page 1087*
+
+Réponse. - Le consommateur bénéficie de la protection prévue en matière de démarchage par les articles L. 121-21 et suivants du code de la consommation, lorsqu'il est sollicité à son domicile, sur son lieu de travail ou en un lieu non destiné à la commercialisation du bien ou du service proposé. Ces dispositions ne sont pas applicables aux transactions conclues lors d'une foire commerciale, puisque la jurisprudence estime que les foires commerciales sont des lieux destinés à la commercialisation (1re civ., 10 juillet 1995), et qu'il n'y a donc pas lieu, en pareil cas, d'appliquer les règles spécifiques à la protection du consommateur démarché. Dans ces conditions, il n'est pas envisagé d'étendre le champ d'application des dispositions précitées aux foires et salons. Bien entendu, les exposants de ces manifestations commerciales doivent respecter les différents textes du droit de la consommation concernant, par exemple, l'information sur les prix et les conditions de vente, la publicité trompeuse. En outre, l'article 1er de la loi nº 92-50 du 18 janvier 1992, devenu depuis l'article L. 122-9-4º du code de la consommation, a étendu le champ d'application du délit d'abus de faiblesse à différentes situations, et notamment aux transactions réalisées à l'occasion des foires et salons. Ainsi, les consommateurs victimes de sollicitations agressives auxquelles ils ne peuvent faire face en raison de leur état, ou qui sont conduits à souscrire un engagement dans des foires et salons sans être en mesure d'en apprécier la portée, pourront, le cas échéant, bénéficier de la protection supplémentaire qui leur a été accordée par le législateur.
