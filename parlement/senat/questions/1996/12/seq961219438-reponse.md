@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961219438
+
+- Question : [SEQ961219438](seq961219438.md) — Amélioration de la communication pour la protection judiciaire de la jeunesse
+
+## Réponse
+
+*Justice, JO du 1997-02-27, page 634*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire qu'il partage pleinement l'analyse de M. le sénateur Michel Rufin lorsqu'il préconise " d'améliorer la politique de communication pour mieux faire connaître la protection judiciaire de la jeunesse ". La protection judiciaire de la jeunesse dispose actuellement de trois supports papier de communication, élaborés à l'administration centrale. Dynamiques, journal interne de quatre pages paraissant tous les deux mois à 6 000 exemplaires, diffusé gratuitement aux personnels du secteur public, aux chefs des cours et tribunaux, aux magistrats de la jeunesse, aux fédérations du secteur associatif, et à divers partenaires, les Cahiers de Dynamiques, périodique (trois à quatre numéros par an) consacré aux pratiques professionnelles et diffusé à 4 000 exemplaires, et le Droit de l'enfance et de la famille, revue à contenu essentiellement juridique adressée aux magistrats de la jeunesse et aux abonnés (trois numéros par an). La protection judiciaire de la jeunesse se dotera en 1997 d'une plaquette de présentation et d'un fond iconographique destiné à recueillir des photographies, réalisées par des professionnels, afin d'illustrer les publications et expositions ou opérations portes-ouvertes. En outre, elle participera aux IIe Journées de la justice les 22 et 23 mars 1997 et, dans cet esprit, élaborera, en liaison avec le service de l'information et de la communication, un document de quatre pages sur la justice des mineurs et la protection judiciaire de la jeunesse, ainsi que des fiches sur les métiers d'éducateur et de directeur.
