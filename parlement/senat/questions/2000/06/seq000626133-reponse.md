@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000626133
+
+- Question : [SEQ000626133](seq000626133.md) — Appel européen contre la brevetabilité des gènes humains
+
+## Réponse
+
+*Santé, JO du 2001-02-08, page 526*
+
+Réponse. - Depuis plusieurs mois la transposition de la directive 98/44/CE est contestée, notamment pour ses articles relatifs à la brevetabilité des éléments du corps humain. La secrétaire d'Etat à la santé et aux handicapés tient à rappeler à l'honorable parlementaire que cette directive, telle qu'elle existe aujourd'hui, est le résultat d'un travail approfondi et de longues heures de débat, auxquels les représentants de la France ont activement participé dans le souci de faire valoir des exigences éthiques. Il reste que les termes du projet de transposition continuent d'être insatisfaisants, même si chacun s'accorde sur le fond pour la non-brevetabilité du génome mais pour la protection des inventions, y compris dans le domaine génomique. Pour lever les ambiguïtés de la rédaction actuelle, la France a saisi la commission afin qu'elle l'éclaire sur l'interprétation précise qu'elle entend qu'il soit fait des termes actuels de la directive. Ne pas transposer serait sans nul doute préjudiciable à la dynamique de la recherche dans ce domaine et aux espoirs thérapeutiques que nous mettons en elle. Cela dit, la question est difficile, tant sont complexes et imbriqués les enjeux à la fois éthiques, scientifiques, médicaux, internationaux et économiques qu'elle recouvre. Les arbitrages français sur ce sujet ne sont pas définitivement arrêtés. En tout état de cause, il est important de préciser que la France n'est pas la seule que la transposition de cette directive interroge. Plusieurs de ses voisins se posent les mêmes questions, notamment les Allemands, desquels elle s'est rapprochée en vue d'élaborer une réflexion commune.
