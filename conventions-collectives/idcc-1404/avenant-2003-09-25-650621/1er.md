@@ -1,0 +1,97 @@
+# Article 1er
+
+Les articles 5.1 à 5.5 de la première partie de l'accord du 22 janvier 1999 et l'article 3 de l'avenant n° 3 du 20 décembre 2000 de l'accord du 22 janvier 1999 sont annulés et remplacés comme suit :
+
+5.1. Recours aux heures supplémentaires
+
+Du fait des spécificités des activités de la branche :
+
+– multiplicité des entreprises de prestations de services fonctionnant en petites unités ;
+
+– diversité des métiers : maintenance, réparation, distribution, location ;
+
+– interventions chez les clients, les heures supplémentaires permettent de faire face aux variations d'activité notamment lorsque celles-ci sont imprévisibles.
+
+5.2. Contingent annuel conventionnel d'heures supplémentaires
+
+A compter du 1er janvier 2003, le contingent conventionnel d'heures supplémentaires est fixé à 180 heures par an et par salarié. Toutefois, du fait des activités spécifiques exercées dans la branche et des difficultés indiquées en préambule, les partenaires sociaux donnent la possibilité aux entreprises de recourir à un contingent conventionnel d'heures supplémentaires de 200 heures par an et par salarié à condition qu'elles indemnisent les 20 heures supplémentaires ainsi octroyées dans les conditions définies au paragraphe 5.3.
+
+Cette possibilité de recourir à un contingent conventionnel d'heures supplémentaires de 200 heures par an et par salarié est ouverte aux entreprises de la branche pour la période du 1er janvier 2003 au 31 décembre 2005.
+
+Les partenaires sociaux s'engagent à se rencontrer au plus tard en janvier 2006, pour établir un bilan de l'utilisation du contingent annuel de 200 heures supplémentaires dans la branche durant cette période. Au vu de l'utilisation qui en aura été faite, les partenaires sociaux décideront si ce contingent doit être prorogé, en le modifiant si besoin est, ou s'il doit prendre fin.
+
+Pour les salariés soumis à une annualisation du temps de travail, le contingent annuel conventionnel d'heures supplémentaires est fixé à 130 heures par an et par salarié.
+
+Pour le décompte des contingents, il est fait application des dispositions de l'article 5 de la loi n° 2000-37 du 19 janvier 2000.
+
+Le contingent annuel d'heures supplémentaires se calcule par année civile et par salarié.
+
+Toutefois, dans le cadre de la mise en place, en cours d'année, d'un aménagement du temps de travail sur la base des articles 7 et 8 de la première partie de l'accord du 22 janvier 1999, le contingent annuel s'applique sur la période de 12 mois consécutifs retenue par l'entreprise. Pour la période de l'année civile qui précède la mise en place de l'aménagement du temps du travail, le contingent est calculé au prorata du nombre de semaines déjà écoulées.
+
+5.3. Modalités de paiement des heures supplémentaires incluses dans les contingents conventionnels
+
+Pour les entreprises de 20 salariés et moins :
+
+– dans la limite de 180 heures, les heures supplémentaires donnent lieu à une majoration de salaire aux taux suivants :
+
+– – 10 % jusqu'au 31 décembre 2005, et 25 % à compter de cette date, pour les 4 premières heures supplémentaires hebdomadaires ;
+
+– – 25 % pour les 4 suivantes ;
+
+– – 50 % au-delà ;
+
+– au-delà de 180 heures et dans la limite de 200 heures, les heures supplémentaires donnent lieu à une majoration de salaire de 50 % dès la 181e heure.
+
+Exemple :
+
+Du 1er janvier au 30 novembre 2003, un salarié a effectué 180 heures supplémentaires. Durant la semaine du 1er décembre au 7 décembre, il travaille 39 heures. Il a donc accompli 4 heures supplémentaires qui seront directement majorées à 50 % et non à 10 % puisque le volume de 180 heures supplémentaires a déjà été utilisé.
+
+Pour les entreprises de plus de 20 salariés :
+
+– dans la limite de 180 heures, les heures supplémentaires donnent lieu à une majoration de salaire aux taux suivants :
+
+– – 25 % pour les 8 premières heures supplémentaires hebdomadaires ;
+
+– – 50 % au-delà ;
+
+– au-delà de 180 heures et dans la limite de 200 heures, les heures supplémentaires donnent lieu à une majoration de salaire de 50 % dès la 181e heure.
+
+Exemple :
+
+Du 1er janvier au 30 novembre 2003, un salarié a effectué 180 heures supplémentaires. Durant la semaine du 1er décembre au 7 décembre, il travaille 39 heures. Il a donc accompli 4 heures supplémentaires qui seront directement majorées à 50 % et non à 25 % puisque le volume de 180 heures supplémentaires a déjà été utilisé.
+
+Les entreprises qui avant la date de parution de la loi n° 2003-47 du 17 janvier 2003 appliquaient la bonification en temps des 4 premières heures supplémentaires peuvent continuer à le faire.
+
+La semaine s'entend du lundi 0 heure au dimanche 24 heures. Toutefois, elle peut s'entendre du dimanche 0 heure au samedi 24 heures en application d'un accord d'entreprise.
+
+5.4. Conversion du paiement en temps des heures supplémentaires
+
+5.4.1. Heures supplémentaires effectuées à l'intérieur des contingents conventionnels.
+
+Chaque salarié peut demander, individuellement, à remplacer tout ou partie du paiement des heures supplémentaires, de leurs majorations et/ ou bonification par un repos de remplacement équivalent. Les modalités de prise du repos sont alors fixées d'un commun accord avec l'employeur.
+
+En l'absence d'opposition du comité d'entreprise et en l'absence de cette institution, à défaut de celle des délégués du personnel, les entreprises peuvent remplacer tout ou partie du paiement des heures supplémentaires, de leurs majorations et/ ou bonification par un repos de remplacement équivalent. Les modalités de prise du repos sont alors fixées avec les représentants du personnel s'ils existent.
+
+Les entreprises qui n'ont pas de comité d'entreprise ou à défaut de délégués du personnel peuvent, avec l'accord des salariés concernés, remplacer tout ou partie du paiement des heures supplémentaires, de leurs majorations, et/ ou bonification par un repos de remplacement équivalent. Les modalités de prise du repos sont alors fixées avec l'ensemble du personnel concerné.
+
+Les heures supplémentaires et majorations et/ ou bonification afférentes dont le paiement a été remplacé par un repos compensateur de remplacement ne s'imputent pas sur le contingent d'heures supplémentaires.
+
+5.4.2. Heures supplémentaires autorisées au-delà des contingents conventionnels : repos compensateur de remplacement.
+
+Après consultation du comité d'entreprise, ou à défaut de celle des délégués du personnel et autorisation de l'inspecteur du travail, les heures supplémentaires exceptionnellement effectuées au-delà des contingents annuels d'heures supplémentaires sont compensées en temps.
+
+Elles donnent droit à un repos compensateur de remplacement égal à 1 h 30 pour chaque heure supplémentaire effectuée au-delà des contingents conventionnels.
+
+Le repos acquis au titre de ces heures doit être pris par demi-journée ou par journée entière.
+
+Les modalités de prise du repos sont organisées par le chef d'entreprise, après concertation avec les délégués du personnel s'ils existent ; à défaut, après concertation avec les salariés concernés. Toutefois, en fin d'année civile, le repos acquis, même s'il est inférieur à une demi-journée, est pris dans le délai maximum de 6 mois.
+
+A la demande du salarié, 50 % au plus de ces heures pourront être indemnisés.
+
+5.5. Repos compensateur
+
+Pour les modalités de calcul du repos compensateur, il est fait application des dispositions légales.
+
+La conversion des heures supplémentaires en repos de remplacement ne dispense pas les entreprises du respect du droit à repos compensateur légal, dans les conditions prévues par la législation en vigueur.
+
+Le repos compensateur légal doit être obligatoirement pris dans un délai maximum de 4 mois.
