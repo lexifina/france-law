@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990818450
+
+- Question : [SEQ990818450](seq990818450.md) — Filière lapin de chair et équarrissage
+
+## Réponse
+
+*Agriculture, JO du 1999-09-30, page 3218*
+
+Réponse. - Les réflexions menées sur un possible remplacement des farines animales dans l'alimentation des animaux ont conduit à une désaffection partielle des industriels de l'alimentation animale pour ces matières premières. Les fabricants de farines animales qui tirent un revenu moindre de la vente de leurs produits sont ainsi amenés à faire rétribuer le service consistant à collecter les sous-produits animaux valorisables dans les abattoirs. En effet, ces sous-produits ne relèvent pas du service public de l'équarrissage financé par la taxe d'équarrissage ; celui-ci concerne seulement les cadavres d'animaux, les matériels à risques spécifiés de ruminants et les saisies sanitaires d'abattoirs. Conscient des difficultés qui en résultent pour les abattoirs, le ministre de l'agriculture et de la pêche s'efforce de favoriser un dialogue entre les opérateurs concernés et d'assurer un contrôle vigilant des établissements de la filière afin que les farines animales valorisables en alimentation animale présentent des garanties maximales en matière de sécurité sanitaire. Au-delà de cette situation conjoncturelle, il a souhaité qu'une réflexion de fond soit menée sur l'utilisation des farines animales dans l'alimentation des animaux. A cette fin, il a confié à un haut fonctionnaire une mission sur ce thème. Par ailleurs, la ministre de l'environnement et de l'aménagement du territoire a commandé à l'agence de l'environnement et de la maîtrise de l'énergie, en concertation avec le ministre de l'agriculture et de la pêche et la secrétaire d'Etat aux petites et moyennes entreprises, au commerce et à l'artisanat, une étude sur les solutions alternatives possibles en ce qui concerne le devenir des farines animales. Ces travaux devraient être achevés d'ici à la fin de l'année.
