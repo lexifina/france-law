@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860400140
+
+- Question : [SEQ860400140](seq860400140.md) — Crise de la marine marchande
+
+## Réponse
+
+*Mer, JO du 1986-06-05, page 780*
+
+Réponse. -Il est indéniable que notre marine marchande connaît actuellement une profonde crise. Si les pouvoirs publics ne peuvent s'en tenir à l'inertie, qui a prévalu au cours des deux ou trois dernières années sous le prétexte que la crise est effectivement mondiale, force est de souligner que la politique volontaire d'adaptation aux véritables besoins de l'époque, qui s'impose maintenant, doit d'une part, rester cohérente avec les moyens que la collectivité nationale peut y consacrer, et, d'autre part, ne pas se méprendre sur les enjeux essentiels. Sans doute les sorties de flotte constituent-elles un sujet de préoccupation bien compréhensible, mais plus sérieux encore paraît le risque d'absence de renouvellement de la flotte. Celle-ci doit pouvoir raisonnablement croître ou décroître en nombre et en tonnage, mais elle doit impérativement et en tout cas se rajeunir et s'adapter aux conditions d'une exploitation rentable. Pour la partie qui le concerne directement, le Gouvernement est prêt à accélérer le renouvellement aujourd'hui tout à fait indispensable des équipements liés au transport maritime en modernisant le régime d'aide à l'investissement. Il est disposé à accompagner les plans d'entreprise sur le plan social. Il est décidé à mettre en place, si besoin est, des immatriculations négociées sous pavillon français dans les territoires d'outre-mer, lorsque celles-ci sont seules susceptibles d'allier la recherche d'une certaine souplesse et le maintien sous pavillon national. Plus globalement, c'est tout un ensemble de mesures qui doit permettre de réagir : le dossier de la flotte de commerce est le dossier prioritaire du secrétaire d'Etat à la mer.
