@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040813549
+
+- Question : [SEQ040813549](seq040813549.md) — Conditions de reprise des annuités d'emprunts des travaux de drainage et d'irrigation par le preneur entrant auprès du preneur sortant
+
+## Réponse
+
+*Agriculture, JO du 2005-01-13, page 88*
+
+Le contrat de bail rural est un contrat personnel dont les droits et obligations des parties contractantes édictés au livre IV du code rural concernent le bailleur et le preneur. En ce qui concerne l'indemnité due au preneur sortant à l'expiration du bail pour les améliorations apportées au fonds loué, celle-ci incombe au seul bailleur. L'article L. 411-70 du code rural prévoit que lorsque le preneur sortant a obtenu un prêt pour réaliser des améliorations, par exemple dans le cas de travaux de drainage, et que ce prêt n'est pas entièrement remboursé, le bailleur est, s'il en fait la demande, subrogé dans les droits et obligations du preneur et l'indemnité due est réduite en conséquence. Par contre, il n'est pas possible de transférer ce prêt au nouveau preneur ou de lui demander une indemnité de compensation. En effet, l'article L. 411-74 prohibe les cessions à titre onéreux à l'occasion de changement d'exploitant. Le preneur sortant qui aura obtenu une remise d'argent ou de valeurs non justifiées ou tenté d'imposer la reprise de biens mobiliers à un prix ne correspondant pas à la valeur vénale de ceux-ci peut faire l'objet d'une action en répétition qui relève du droit commun, et donc de la prescription trentenaire du code civil. En conséquence, de telles cessions constituent un délit sauf si la somme perçue par le fermier en place représente la valeur du cheptel. Ce sujet pourra être examiné dans le cadre plus vaste de la transmission de l'exploitation agricole lors de la préparation de la future loi de modernisation agricole.
