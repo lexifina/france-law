@@ -1,0 +1,3 @@
+# Article 19 modificateur
+
+L'article 24 "L'embauchage période d'essai" de l'annexe I de la convention collective nationale est ainsi modifié :....

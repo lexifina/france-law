@@ -1,0 +1,3 @@
+# Article 20 modificateur
+
+Les dispositions de l'article 24 de l'annexe V de la convention collective nationale sont ainsi modifiés :....
