@@ -16,6 +16,4 @@ Conception générale de l'établissement
 
 § 4. Les bâtiments à ossature bois doivent respecter les règles de sécurité des DTU les concernant.
 
-§ 5. La construction de tous les établissements doit être réalisée conformément aux dispositions des règles parasismiques des DT.U.
-
-§ 6. Tous les établissements doivent être protégés contre la foudre au moyen d'un paratonnerre installé conformément à la norme NF C 17-100.
+§ 5. Tous les établissements doivent être protégés contre la foudre au moyen d'un paratonnerre installé conformément à la norme NF C 17-100.
