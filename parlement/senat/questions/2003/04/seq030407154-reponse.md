@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030407154
+
+- Question : [SEQ030407154](seq030407154.md) — Rapport de la Cour des comptes : partenariats avec les collectivités locales pour la formation
+
+## Réponse
+
+*Enseignement scolaire, JO du 2003-08-28, page 2676*
+
+Le ministre délégué à l'enseignement scolaire a pris connaissance avec un vif intérêt du rapport public particulier de la Cour des comptes sur la gestion du système éducatif. Ce rapport porte principalement sur la période 1999-2002 et développe notamment une analyse critique des conséquences de la loi d'orientation de 1989. La recommandation de la Cour des comptes visant à " formaliser et conforter les partenariats avec les collectivités territoriales pour l'élaboration des schémas de formation et pour l'évolution annuelle de l'offre de formation " rejoint la préoccupation du ministère de mieux coordonner des instances régionales et des autorités académiques dans ce domaine. C'est dans ce but que le ministère propose d'introduire dans le projet de loi de décentralisation des dispositions visant notamment à rendre plus effectif l'engagement des différents acteurs dans la mise en oeuvre du plan régional de développement des formations professionnelles prévu à l'article L. 214-13 du code de l'éducation. Des conventions annuelles d'application de ce plan, cosignées par le président du conseil régional et les recteurs, permettraient en particulier de prévoir et classer, en fonction des priorités régionales et académiques et des moyens disponibles, les ouvertures et les fermetures de sections de formation professionnelle initiale. Les stipulations de ces conventions s'imposeraient aux parties signataires qui, par ce moyen, renforceraient leur coopération en matière d'adaptation de l'offre de formation aux besoins sociaux et économiques de la région.
