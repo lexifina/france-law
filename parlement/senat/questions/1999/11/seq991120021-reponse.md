@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991120021
+
+- Question : [SEQ991120021](seq991120021.md) — Rémunération des heures supplémentaires dans des centres de formation d'apprentis
+
+## Réponse
+
+*Éducation, JO du 1999-12-30, page 4312*
+
+Réponse. - Le décret nº 99-702 du 3 août 1999, qui modifie le décret nº 79-916 du 17 octobre 1979, permet notamment de rénover le mode de fixation de la rémunération versée aux enseignants intervenant en apprentissage en dehors de leurs obligations de service et d'étendre le bénéfice de cette indemnité horaire aux personnels dispensant un enseignement dans une section d'apprentissage, une unité de formation par apprentissage ou dans le cadre d'une convention prévue à l'article L. 166-1-1 du code du travail. Le décret précité du 3 août 1999 prévoit également la création d'un nouveau taux permettant de rémunérer les heures d'enseignement assurées au niveau III en apprentissage. L'arrêté du 3 août 1999 fixe les taux de base des indemnités versées en fonction du niveau d'enseignement dispensé (niveaux VI, V, IV et III). Or, antérieurement à ces deux textes et en l'absence de base réglementaire appropriée, le niveau III d'enseignement a été rémunéré sur la base de taux existants pour d'autres niveaux d'enseignement en apprentissage ou d'autres types de formation, telle la formation continue des adultes, à des niveaux généralement supérieurs à celui retenu par l'arrêté du 3 août 1999. Afin que le caractère rétroactif du décret du 3 août 1999 précité ne soit pas préjudiciable aux agents qui sont intervenus en apprentissage au cours de l'année scolaire 1998-1999, des instructions ont été données afin qu'aucun ordre de reversement ne soit émis à leur encontre. En outre, un projet d'arrêté revalorisant notamment le taux afférent au niveau III en apprentissage, à compter du 1er septembre 1999, a été soumis à la concertation interministérielle.
