@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010935000
+
+- Question : [SEQ010935000](seq010935000.md) — Elargissement de l'OTAN à l'est
+
+## Réponse
+
+*Affaires étrangères, JO du 2002-01-31, page 288*
+
+La France demeure fidèle aux principes qui ont fondé sa position dès le début de l'élargissement de l'alliance : refus de créer de nouvelles lignes de fracture en Europe, respect du droit de chaque Etat de décider du système d'alliance auquel il souhaite appartenir, réunification du contingent européen et renforcement de la sécurité européenne. Elle est donc attachée à ce que les décisions qui seront prises à ce sujet lors du prochain sommet de l'OTAN en novembre 2002 à Prague résultent de la même approche politique que celle qui a prévalu pour le précédent élargissement de l'OTAN vers l'est. Aucune option d'élargissement, y compris celles comprenant les Etats baltes, ne peut être exclue à priori. Les déclarations du président Poutine témoignent de l'attention portée par la Russie à l'évolution de l'OTAN au regard de ses propres intérêts de sécurité. Une rénovation des relations entre l'OTAN et la Russie est en cours et devrait pouvoir répondre aux préoccupations exprimées par la Russie. Ainsi, il convient de préparer l'échéance de Prague en poursuivant l'approfondissement de la mise en oeuvre de l'acte fondateur. La déclaration conjointe OTAN/Russie du 7 décembre dernier est un pas significatif en ce sens. En effet, les travaux engagés depuis cette date à l'OTAN sur le développement du format de travail " à 20 " doivent se concrétiser avant la réunion de Reykjavik en mai 2002 et conduire à des mécanismes de décision conjoints dans les domaines de convergence d'intérêts entre la Russie et les pays alliés, en particulier en matière de lutte contre le terrorisme. Ce renouveau de la relation OTAN/Russie sera de nature à faciliter la réalisation d'un élargissement significatif.
