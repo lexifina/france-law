@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980307040
+
+- Question : [SEQ980307040](seq980307040.md) — Statut des fonctionnaires européens
+
+## Réponse
+
+*Affaires européennes, JO du 1998-06-04, page 1773*
+
+Réponse. - L'honorable parlementaire a bien voulu demander aux autorités françaises leur attitude face au projet de révision du statut des fonctionnaires de l'Union européenne élaboré par la Commission. Celle-ci a en effet diffusé le 6 avril dernier, sur son réseau de communication interne, un document sur l'avenir du statut de la fonction publique communautaire. Le contenu de ce document est placé sous le double signe de l'évolution nécessaire du statut pour tenir compte des transformations des institutions depuis trente ans et de la recherche d'une optimisation des coûts. Face à la réaction des principaux intéressés, la Commission a déclaré que ce document n'avait pas de statut officiel et ne serait pas soumis au collège des commissaires. Sur les questions de rémunérations et de gestion du personnel, elle a proposé qu'un groupe soit créé qui comprendrait des fonctionnaires du Conseil et du Parlement ainsi que des représentants des organismes socioprofessionnels. Le rapport de ce groupe fera l'objet d'une consultation avec les autres institutions et organismes socioprofessionnels. Sur cette base, la Commission pourrait faire une communication au Conseil. Les autorités françaises entendent participer activement aux travaux visant à une éventuelle réforme du statut des fonctionnaires communautaires. Elles ont conscience que le statut actuel peut nécessiter des adaptations face aux évolutions, qui se sont produites depuis son élaboration. Cette réforme cependant ne devra pas mener à des discriminations entre les ressortissants des différents Etats membres et devra préserver la spécificité de la fonction publique communautaire, qui ne doit pas être un agrégat de fonctions publiques nationales.
