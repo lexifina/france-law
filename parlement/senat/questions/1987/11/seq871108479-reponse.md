@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871108479
+
+- Question : [SEQ871108479](seq871108479.md) — Prise en compte du temps de service militaire dans le calcul de la retraite
+
+## Réponse
+
+*Affaires sociales, JO du 1988-01-07, page 10*
+
+Réponse. -En application des dispositions législatives en vigueur (article L. 351-3 du code de la sécurité sociale), les périodes de service militaire légal effectuées en temps de paix ne peuvent être prises en considération pour l'ouverture du droit et le calcul de la pension de vieillesse du régime général de la sécurité sociale que si les intéressés avaient, antérieurement à leur appel sous les drapeaux, la qualité d'assuré social de ce régime. Cette qualité résulte à la fois de l'immatriculation et du versement de cotisations au titre d'une activité salariée. Au plan des principes, la validation gratuite des périodes de service militaire légal compense l'amputation de la durée d'assurance en cours d'acquisition par l'assuré au même titre que les périodes indemnisées au titre de la maladie, de la maternité, de l'invalidité, des accidents du travail ou du chômage. Cette règle est toutefois assouplie du fait qu'il n'est pas exigé que le service national interrompe effectivement l'activité salariée. C'est ainsi qu'une activité salariée et cotisée, fût-elle réduite (travail pendant les vacances par exemple), est suffisante pour valider les périodes ultérieures de service militaire légal, même si elle n'est plus exercée à la date d'incorporation. A titre exceptionnel, la loi du 21 novembre 1973 permet la validation des périodes de mobilisation et de captivité postérieures au 1er septembre 1939, sans condition d'assujettissement préalable aux assurances sociales, lorsque les intéressés ont ensuite exercé, en premier lieu, une activité salariée au titre de laquelle des cotisations ont été versées au régime général. Il n'est pas envisagé d'étendre ces dernières dispositions aux périodes de services militaires en temps de paix.
