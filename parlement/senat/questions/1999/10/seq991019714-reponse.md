@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991019714
+
+- Question : [SEQ991019714](seq991019714.md) — Modulations des aides directes
+
+## Réponse
+
+*Agriculture, JO du 2000-01-27, page 289*
+
+Réponse. - L'attention du ministre de l'agriculture et de la pêche a été appelée sur la modulation des aides directes. Le Gouvernement a décidé de mettre en uvre la possibilité offerte par les accords de Berlin aux Etats membres d'effectuer un prélèvement sur les aides directes perçues par les agriculteurs dans la limite de 20 % de leur montant et d'utiliser les sommes ainsi dégagées pour abonder les crédits destinés à la politique de développement rural. Il ne s'agit donc pas d'un nouvel impôt mais de la mise en uvre de la réorientation des aides publiques. La modulation permettra de dégager un milliard de francs qui viendra abonder une somme équivalente inscrite au budget de l'Etat. Ce sont ainsi deux milliards de francs qui seront consacrés aux contrats territoriaux d'exploitation (CTE) l'année prochaine. La modulation des aides directes est fondée sur trois critères : le montant total des aides, l'emploi et la prospérité globale de l'exploitation. Pour ce qui concerne le critère de l'emploi, les emplois salariés et non salariés sont pris en compte de façon significative. Cette modulation traduit une volonté du Gouvernement de réorienter dans le sens d'une plus grande équité les aides aux agriculteurs et de rémunérer de façon plus équilibrée l'ensemble des fonctions que l'agriculture remplit pour la société. Ce dispositif épargnera les petites exploitations et ne doit évidemment pas fragiliser celles qui seront soumises à la modulation des aides directes. Elle a fait l'objet quant à son principe d'une large concertation avec les organisations professionnelles. Enfin, un groupe de suivi profession-administration relatif à la mise en place de la modulation est prévu.
