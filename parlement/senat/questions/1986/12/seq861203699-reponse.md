@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861203699
+
+- Question : [SEQ861203699](seq861203699.md) — Mesures pour assurer le bon fonctionnement des COTOREP
+
+## Réponse
+
+*Affaires sociales, JO du 1987-03-12, page 362*
+
+Réponse. -Ainsi que l'indique l'honorable parlementaire, l'un des obstacles principaux auxquels se heurtent les Cotorep résulte, dans un contexte économique difficile, de l'insuffisance des débouchés professionnels offerts aux personnes handicapées. Il convient toutefois de noter qu'un effort important dans le domaine de l'accueil des personnes handicapées, en particulier dans les établissements de travail protégé, a été consenti dans la période récente. Actuellement, 7 000 places en ateliers protégés et plus de 60 300 places en centres d'aide par le travail permettent à ces personnes d'exercer une activité à caractère professionnel assortie d'une garantie de ressources. En outre, 1 500 places supplémentaires en centres d'aide par le travail seront ouvertes en 1987. Il n'en reste pas moins que l'insertion professionnelle en milieu ordinaire doit être, chaque fois qu'elle est possible, recherchée en priorité. En effet, si les traitements médicaux, les prestations sociales et l'accueil sont bien sûr primordiaux, ils ne sont pas suffisants pour que les personnes handicapées se sentent reconnues à part entière par la société. Le gage de leur reconnaissance et de leur insertion sociale est leur intégration dans le milieu de travail ordinaire. La législation actuelle répond imparfaitement à son objectif déclaré à savoir assurer le droit au travail de tous les handicapés susceptibles d'occuper un emploi. L'adaptation et la clarification des objectifs d'embauche ainsi que la simplification du contrôle du respect de la législation devraient permettre une responsabilité plus grande et une incitation plus forte des entreprises. Une concertation prochaine avec les associations et les partenaires sociaux sera engagée dans ce domaine.
