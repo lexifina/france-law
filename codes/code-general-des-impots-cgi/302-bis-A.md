@@ -6,8 +6,16 @@ Sous la même réserve, les ventes de bijoux, d'objets d'art, de collection et d
 
 Le taux d'imposition est ramené à 4,5 % en cas de vente aux enchères publiques.
 
+Ces dispositions sont également applicables aux ventes réalisées dans un autre Etat membre de la Communauté économique européenne.
+
 II Le vendeur est exonéré de la taxe si la vente est faite à un musée national, à un musée classé ou contrôlé par l'Etat ou une collectivité locale, ainsi qu'à la Bibliothèque nationale, à une autre bibliothèque de l'Etat ou à une bibliothèque d'une autre collectivité publique.
 
 La vente par enchères publiques des objets désignés au deuxième alinéa du I est exonérée du paiement de la taxe lorsque leur propriétaire n'a pas en France son domicile fiscal.
 
 (1) Voir Annexe II, art. 267 quater D.
+
+NOTA :
+
+NOTA : Ces dispositions s'appliquent aux ventes et exportations réalisées à compter du 1er janvier 1993.
+
+L'article n'a pas été codifié en tant que tel, il est transféré sous l'article 150 V bis dans l'édition du 18 août 1993.
