@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031210388
+
+- Question : [SEQ031210388](seq031210388.md) — Conséquences de la loi relative à l'organisation et à la promotion des activités physiques et sportives pour les fédérations affinitaires et multisports
+
+## Réponse
+
+*Sports, JO du 2004-02-05, page 308*
+
+Le ministre des sports est attentif aux inquiétudes exprimées par les fédérations affinitaires et multisports concernant les dispositions de l'article 1er de la loi n° 2003-708 du 1er août 2003 modifiant l'article 16-I de la loi n° 84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et sportives en ces termes : " les statuts des fédérations sportives peuvent prévoir que les membres adhérents des associations affiliées doivent être titulaires d'une licence ". Elles craignent de voir leurs adhérents obligés de prendre une licence dans chacune des disciplines qu'elles prennent en charge. Le ministre s'était exprimé dans le même sens lors des débats parlementaires. Comme il l'avait alors indiqué, cette disposition ne doit pas empêcher la prise en compte de la spécificité de ces associations, qui permettent à leurs adhérents de ne supporter que le coût d'une seule et même licence, quel que soit le nombre de sports pratiqués. Ainsi, le nouvel article 16-I de la loi susvisée n'est pas un obstacle à un aménagement dans le sens évoqué et la préparation du projet de décret en Conseil d'Etat, qui sera pris en application de cet article, permettra de le confirmer. Néanmoins, la participation aux compétitions organisées par une fédération délégataire d'une personne licenciée auprès d'une fédération affinitaire et multisports devrait entraîner, au préalable, la prise d'une licence auprès de la fédération délégataire, signifiant ainsi l'accord du licencié à l'objet, aux statuts et aux règlements de ladite fédération.
