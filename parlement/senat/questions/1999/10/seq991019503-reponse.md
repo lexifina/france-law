@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991019503
+
+- Question : [SEQ991019503](seq991019503.md) — Ecole élémentaire Jean-Jaurès (Paris 19 e)
+
+## Réponse
+
+*Enseignement scolaire, JO du 1999-12-09, page 4069*
+
+Réponse. - Dans le premier degré, la rentrée scolaire s'est déroulée dans le contexte d'une décroissance démographique continue qui s'est conjuguée avec le maintien des moyens. La répartition des moyens entre les académies est établie à partir de critères quantitatifs et qualitatifs. La démographie scolaire, la structure du réseau des écoles, le potentiel de remplacement, certaines caractéristiques, en particulier, la ruralité et les difficultés sociales ou d'environnement, figurent parmi les éléments d'analyse retenus. En application du principe d'équité, il était inévitable de diminuer la dotation des académies qui, comme Paris, enregistre une légère baisse démographique tout en disposant d'un contingent d'emplois d'un niveau satisfaisant. Toutefois, pour tenir compte des spécificités locales, l'effort de redéploiement a été limité et s'est traduit, finalement, par un retrait de quatre postes d'enseignant du premier degré qui n'a eu aucune incidence négative sur le taux d'encadrement réel de l'académie de Paris. Il appartient ensuite aux autorités académiques qui ont reçu délégation de pouvoir dans le cadre de la déconcentration administrative de définir la politique pédagogique de l'académie et les conditions dans lesquelles ils entendent la mettre en uvre en fonction des besoins des élèves, notamment pour ceux qui présentent les plus grandes difficultés dans les zones d'éducation prioritaires et les réseaux d'éducation prioritaires. Ainsi, s'agissant de la situation à l'école élémentaire située 160, avenue Jean-Jaurès dans le dix-neuvième arrondissement de Paris, il convient de saisir les autorités académiques qui sont le mieux à même de répondre aux préoccupations de l'honorable parlementaire.
