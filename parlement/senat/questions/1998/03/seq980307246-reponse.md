@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980307246
+
+- Question : [SEQ980307246](seq980307246.md) — Utilisation des techniques multimédia pour le développement de la politique d'aménagement du territoire
+
+## Réponse
+
+*Aménagement du territoire, JO du 1998-06-04, page 1780*
+
+Réponse. - Mme la ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question concernant les moyens affectés à la mise en uvre de la société de l'information. Le comité interministériel d'aménagement du territoire du 15 décembre 1997 a décidé un important programme d'actions en faveur du développement de l'usager des nouvelles technologies d'information et de communication. Dans le cadre de ce programme, la DATAR vient de lancer trois appels à projets. Leurs objectifs sont de promouvoir des projets de téléformation destinés aux petits entrepreneurs, d'inciter à l'élaboration de projets pédagogiques (de la maternelle au lycée), de favoriser l'équipement multimédia de bibliothèques. Le financement de ces appels projets sera assuré à hauteur de 22 MF par le FNADT. Le FNADT finance, par ailleurs, des opérations en faveur du développement de la télémédecine dans le Limousin et l'Auvergne : les projets sont maintenant bien identifiés. Ils concernent essentiellement la mise en réseau des hôpitaux pour de nouvelles pratiques médicales. Le budget alloué à ces projets est de 3 MF. L'équipement des écoles primaires dans les petites communes du Massif-Central bénéficie également d'aides du FNADT. Un budget de 2 MF a été reservé aux opérations menées dans ce cadre. Enfin, un plan de modernisation des services de l'Etat par la sensibilisation des fonctionnaires aux règles et enjeux de la société de l'information devrait rapidement être mis en uvre. Le budget alloué à cette opération est de 5 MF.
