@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960616044
+
+- Question : [SEQ960616044](seq960616044.md) — Missions des agences nationales pour l'emploi (ANPE)
+
+## Réponse
+
+*Travail, JO du 1996-10-03, page 2576*
+
+Réponse. - Le Parlement a adopté les dispositions du projet de loi portant diverses mesures d'ordre sanitaire, statutaire et social modifiant notamment les articles L. 311-6 et L. 311-8 du code du travail. Les nouvelles dispositions discutées et votées par la représentation nationale prévoient la possibilité pour l'agence nationale pour l'emploi par convention avec les organismes gestionnaires du régime d'assurance chômage de charger ces derniers : d'accueillir les demandeurs d'emploi et de les informer de leurs droits et obligations ; de recevoir et d'instruire les demandes d'inscription, les demandes de renouvellement d'inscription et les changements de situation des demandeurs d'emploi ; de notifier aux demandeurs d'emploi concernés les décisions prises par l'ANPE. Le 4 juillet 1996, l'ANPE et l'Unedic ont conclu une convention visant, en application des nouvelles dispositions de l'article L. 311-8 du code du travail, à la généralisation du transfert des opérations d'inscription des demandeurs d'emploi dans les Assedic. Cette convention fera l'objet d'un agrément par arrêté du ministre du travail et des affaires sociales et sera publiée au Journal officiel de la République française, conformément aux dispositions de l'article L. 311-8 du code du travail. Le transfert des opérations d'inscription permettra de gagner du temps dans la recherche d'emploi. Le conseiller qui recevra le demandeur d'emploi lors du premier entretien à l'ANPE disposera de toutes les informations relatives à sa situation et pourra donc être en mesure de l'orienter efficacement, voire de lui proposer immédiatement une mise en relation sur une offre d'emploi. Le temps disponible sera donc effectivement affecté au renforcement du placement des demandeurs d'emploi.
