@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951213183
+
+- Question : [SEQ951213183](seq951213183.md) — Financement des centres d'aide par le travail
+
+## Réponse
+
+*Travail, JO du 1996-03-28, page 754*
+
+Réponse. - Le rapport conjoint de l'inspection générale des affaires sociales et de l'inspection générale des finances publié en novembre 1993 a notamment montré que la situation financière des centres d'aide par le travail était globalement tendue, compte tenu des évolutions salariales, mais que ce constat recouvrait une grande diversité de situations sans qu'une corrélation forte puisse être établie entre les difficultés financières, la qualité de la prise en charge ou les aléas de l'activité production. La priorité a donc été donnée à la clarification et à la rationalisation des dépenses des centres. Ainsi, une mission d'appui interministérielle a élaboré en 1994 de nouveaux outils d'évaluation physico-financière de l'activité des établissements ainsi que des références professionnelles indicatives. Les crédits votés dans la loi de finances pour 1995 ont inclus une part de rebasage prioritairement affectée aux établissements dont la situation s'écartait de ces références professionnelles. En 1996, pour tenir compte de la nécessité de réduire les écarts actuellement anormalement forts entre les coûts à la place, l'actualisation 1996 des dotations régionales a été modulée en proportion des écarts de coûts à la place et les enveloppes régionales connaissent donc une revalorisation allant de 2,1 p. 100 à 4,61 p. 100. Aussi la dotation de la région Ile-de-France a-t-elle progressé de 3 p. 100. Des réunions régionales ou interrégionales ont été organisées durant le dernier trimestre de 1995 afin d'aider les services déconcentrés à la mise en oeuvre dans le cadre de la campagne budgétaire 1996 d'une procédure d'allocation des ressources plus juste et plus efficace incluant une renégociation des conventions et un examen des dépenses de fonctionnement.
