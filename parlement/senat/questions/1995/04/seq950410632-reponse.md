@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950410632
+
+- Question : [SEQ950410632](seq950410632.md) — Puéricultrices territoriales - prise en compte de services antérieurs
+
+## Réponse
+
+*Aménagement du territoire, JO du 1995-05-18, page 1137*
+
+Réponse. - L'article 17-1 du décret no 92-859 du 28 août 1992 modifié portant statut particulier du cadre d'emplois des puéricultrices territoriales dispose que les services publics effectifs accomplis dans leur ancien grade ou emploi d'infirmier territorial diplômé d'Etat par des puéricultrices promues sont considérés comme des services effectifs accomplis dans le cadre d'emplois des puéricultrices territoriales, à condition que leur activité ait été exercé de manière continue. Le mot " diplômé " n'apparaît pas actuellement dans le texte mais cette omission sera corrigée prochainement par voie réglementaire. Ces dispositions ont été créées afin de permettre à des puéricultrices territoriales ayant effectué antérieurement un certain nombre d'années de services en qualité d'infirmier territorial, de prendre en compte ces années lors d'un avancement de grade dans leur nouveau cadre d'emplois. Dans la plupart des cas, l'avancement est en effet subordonné à la possession d'années de services effectifs dans le cadre d'emplois des puéricultrices territoriales. Seules les années de services effectuées en qualité d'infirmier territorial régi par les dispositions statutaires du décret no 92-861 du 28 août 1992 modifié peuvent être prises en compte au titre de l'article 17-1 précité, sous réserve qu'elles aient été exercées de manière continue. La continuité des services n'est pas interrompue par les congés réguliers. Toutefois, il est admis que sont retenus les services accomplis avant une interruption de fonction inférieure à trois mois si cette interruption est du fait de l'agent ou inférieure à un an dans le cas contraire.
