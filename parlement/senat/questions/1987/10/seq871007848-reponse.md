@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871007848
+
+- Question : [SEQ871007848](seq871007848.md) — Enseignants français à l'étranger : recrutés locaux au Brésil
+
+## Réponse
+
+*Affaires étrangères, JO du 1987-11-26, page 1857*
+
+Réponse. -La situation des enseignants français sous contrat local au Brésil, et plus particulièrement ceux professant au lycée Pasteur de Salo - Paulo, relève du problème général des conditions économiques réservées aux recrutés locaux de l'étranger dont les traitements ne sont pas établis par référence à la grille de la fonction publique française, mais déterminés dans le cadre de la législation du travail ou des conventions collectives du pays d'implantation, qui ne permettent pas, sauf rares exceptions, de tenir compte des barèmes induits par le grade d'appartenance et de l'ancienneté acquise par les enseignants français. Les disparités qui en résultent sont particulièrement accentuées dans les pays d'Amérique latine, du fait de la conjoncture générale de cette zone géographique. Le ministère des affaires étrangères concourt, depuis 1983, à l'amélioration des conditions financières des recrutés locaux les plus défavorisés, par le versement d'indemnités spécifiques, pour partie destinées au règlement des charges sociales dont ils auraient à s'acquitter en France, et qui ont atteint un total de près de 17 millions de francs en 1986. Treize des enseignants du lycée Pasteur de Salo - Paulo ont pu prétendre, à ce titre, une allocation variant, selon les cas, de 9 600 francs à 21 000 francs, versée au titre de l'année scolaire précédente. Cette aide a été reconduite dans son principe pour l'année 1987. Le ministère des affaires étrangères porte une attention particulière aux difficultés recontrées par certains des agents qui dépendent de lui. Une réflexion d'ensemble a d'ailleurs été engagée en vue d'améliorer de façon significative, dans le cadre d'un plan pluriannuel, les conditions économiques de ces agents.
