@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960314592
+
+- Question : [SEQ960314592](seq960314592.md) — Mise en place des nouvelles classes de sixième dans les collèges de Paris
+
+## Réponse
+
+*Éducation, JO du 1996-08-08, page 2065*
+
+Réponse. - A compter de la rentrée 1996, la nouvelle organisation du collège en trois cycles, définie par décret, entre en vigueur. Le cycle d'adaptation est constitué par la classe de sixième, le cycle central regroupe les classes de cinquième et de quatrième, le cycle d'orientation correspond à la classe de troisième. La formation dispensée aux élèves aux cours de ces trois cycles comprend un enseignement de langues dont l'introduction progressive doit permettre d'enrichir le parcours des élèves. C'est ainsi que l'enseignement d'une langue vivante étrangères est obligatoire en classe de sixième, une option latin est offerte en classe de cinquième, l'enseignement d'une deuxième langue vivante est assuré en quatrième, une option de grec sera proposée en troisième. L'arrêté qui définit l'organisation des enseignements applicable dans les classes de sixième, à compter de la rentrée 1996, prévoit l'attribution à chaque collège d'une dotation horaire minimale hebdomadaire de vingt-six heures par division, dont quatre heures pour l'enseignement d'une langue vivante étrangère. L'utilisation de ces moyens d'enseignement est laissée à l'initiative des établissements, sous réserve qu'ils assurent l'enseignement de toutes les disciplines obligatoires définies par l'arrêté et qu'ils garantissent un horaire-élève situé entre vingt-trois et vingt-quatre heures. L'arrêté prévoit en outre que cet horaire-élève peut être augmenté, sur dérogation accordée par l'inspecteur d'académie, directeur des services départementaux de l'éducation, au vu du projet d'établissement. Des situations spécifiques, comme celle que constitue l'éventuel enseignement d'une deuxième langue en sixième, peuvent donc être prise en compte dans ce cadre.
