@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870405794
+
+- Question : [SEQ870405794](seq870405794.md) — Création en milieu rural de contrats locaux d'installation-reprise
+
+## Réponse
+
+*Équipement, JO du 1987-07-30, page 1189*
+
+Réponse. -L'honorable parlementaire se préoccupe des conditions dans lesquelles les contrats locaux d'installation et de reprise sont mis en oeuvre et appliqués ; il peut lui être apporté à ce sujet les précisions suivantes : 1° devant les difficultés liées au départ d'agriculteurs âgés, de commerçants, d'artisans et de chefs d'entreprise dont la succession n'est pas assurée, situation susceptible d'avoir des conséquences graves sur la situation économique future des zones rurales, le comité interministériel de développement et d'aménagement rural du 26 novembre 1986 a fixé au tout premier rang des nouvelles priorités d'intervention de l'Etat dans les zones rurales fragiles, l'installation des jeunes actifs et la reprise des exploitations et des entreprises familiales ; 2° les contrats locaux d'installation-reprise (C.L.I.R.) ont pour objet, à l'échelle d'une zone rurale correspondant au moins à l'arrondissement, d'identifier les cédants potentiels quel que soit le secteur d'activité et de conduire les actions visant à détecter des repreneurs, qui pourront être des candidats à l'installation ou des créateurs d'entreprise. Il est prévu également d'agir sur l'environnement général, que ce soit l'habitat, les transports, l'éducation des enfants et les loisirs aux fins d'attirer et de fixer une population de repreneurs ou de créateurs d'entreprises très attentive à la qualité du cadre et des conditions de vie ; 3° pour l'année 1987, une dizaine d'opérations expérimentales doivent être lancées, parmi lesquelles pourrait figurer la montagne limousine qui recouvre une part importante du département de la Corrèze et se prolonge dans les départements de la Haute-Vienne et de la Creuse.
