@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000424434
+
+- Question : [SEQ000424434](seq000424434.md) — Habitations des citoyens palestiniens
+
+## Réponse
+
+*Affaires étrangères, JO du 2000-06-15, page 2134*
+
+Réponse. - Le Gouvernement français désapprouve la politique israélienne d'urbanisme dans les territoires palestiniens occupés, y compris Jérusalem, qui se traduit notamment par la construction de colonies israéliennes et la confiscation de terrains appartenant à des Palestiniens. Cette politique est contraire à la IVe Convention de Genève sur la protection dse populations civiles en temps de guerre, dont la conférence des hautes parties contractantes a réitéré, le 15 juillet 1999, l'applicabilité aux territoires palestiniens. Les accords conclus entre Palestiniens et Israéliens, y compris à Wye River en octobre 1998 et à Charm el-Cheikh en septembre, proscrivent également " tout acte unilatéral de nature à modifier la situation de la Cisjordanie et de la bande de Gaza ", dans l'attentre de la conclusion d'un accord sur le statut permanent des territoires palestiniens. Le Gouvernement français ne manque pas de rappeler aux autorités israéliennes sa précoccupation à cet égard, et de marquer la nécessité d'un gel de la colonisation israélienne des territoires occupés, pour entretenir avec les Palestiniens un climat propice aux négociations de paix. Les pourparlers en cours sur le statut permanent des territoires palestiniens rendent plus pressant encore le gel des cette politique israélienne. La France a soutenu la création d'un " observatoire européen de la colonisation ", qui publie tous les trois mois les atteintes israéliennes au droit international en la matière. Lors de son récent voyage en Israël et dans les territoires palestiniens, à la fin du mois de février, le Premier ministre a exprimé à nouveau cette position à ses interlocuteurs israéliens.
