@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870807461
+
+- Question : [SEQ870807461](seq870807461.md) — Devenir des friches industrielles
+
+## Réponse
+
+*Environnement, JO du 1987-11-26, page 1876*
+
+Réponse. -L'article premier de la loi du 19 juillet 1976 relative aux installations classées pour la protection de l'environnement précise que " sont soumis aux dispositions de la présente loi les usines, ateliers, dépôts, chantiers, carrières et d'une manière générale les installations exploitées ou détenues par toute personne physique ou morale, publique ou privée, qui peuvent présenter des dangers ou des inconvénients soit pour la commodité du voisinage, soit pour la santé, la sécurité, la salubrité publiques, soit pour l'agriculture, soit pour la protection de la nature et de l'environnement, soit pour la conservation des sites et des monuments. " En application de cette loi, l'article 34 du décret n° 77-1133 du 21 septembre 1977 prévoit que lorsqu'une installation cesse l'activité au titre de laquelle elle était autorisée ou déclarée, son exploitant doit en informer le Préfet dans le mois qui suit cette cessation ; il est donné récépissé sans frais de cette déclaration. L'exploitant doit remettre le site de l'installation dans un état tel qu'il ne s'y manifeste aucun des dangers ou inconvénients mentionnés à l'article 1er de la loi du 19 juillet 1976. Dès lors que les friches industrielles sont à l'origine de tels dangers ou inconvénients, elles doivent faire l'objet des mesures prévues à l'article 34. Le Préfet, commissaire de la République de département, est à même de juger,sur proposition de son inspecteur des installations classées, des mesures nécessaires qui, bien entendu, doivent en priorité viser à supprimer les dangers immédiats du fait de la présence de produits toxiques ou dangereux sur le site, mais également prendre en compte les aspects esthétiques et de conservation du site.
