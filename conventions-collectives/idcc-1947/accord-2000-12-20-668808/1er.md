@@ -1,0 +1,11 @@
+# Article 1er
+
+Le présent accord s'applique dans les entreprises de négoce de bois d'œuvre et produits dérivés du territoire national, y compris les DOM, couvertes par la convention collective nationale du négoce de bois d'œuvre et produits dérivés, profession dont l'activité exclusive ou principale est le commerce de gros des bois, panneaux et produits dérivés et dont le champ d'application professionnel, défini en termes d'activité économique, est le suivant :
+
+Commerce de gros de bois et dérivés (négoce de bois, d'œuvre et produits dérivés) généralement référencé sous le code NAF 51.5E à l'exclusion :
+
+- du commerce de gros liège et produits en liège ;
+
+- des importateurs de bois du Nord, de bois tropicaux ou américains dont l'activité principale d'approvisionnement résulte de l'achat à l'importation ou sur les marchés internationaux, lesdites opérations étant supérieures à 50 % des achats totaux en bois dérivés du bois ;
+
+- des entreprises dont l'activité principale est la commercialisation en gros de bois (sous toutes ses formes) destinées à la trituration et qui se situe dans le prolongement de l'activité forestière.
