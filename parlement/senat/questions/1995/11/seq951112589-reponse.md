@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951112589
+
+- Question : [SEQ951112589](seq951112589.md) — Réduction du nombre de contrats emploi-solidarité
+
+## Réponse
+
+*Travail, JO du 1996-02-08, page 274*
+
+Réponse. - L'honorable parlementaire appelle l'attention du ministre du travail et des affaires sociales sur la réduction des conventionnements des contrats emploi-solidarité. Les orientations gouvernementales définies par la circulaire CDE no 95/19 du 4 août 1995 ont eu pour objet de préciser les modalités d'amélioration qualitative du dispositif et de fixer les objectifs quantitatifs pour l'année 1995 à 680 000 entrées en le recentrant au bénéfice des personnes les plus menacées d'une exclusion durable voire définitive du marché du travail. De plus, par la circulaire CDE no 95/38 du 7 décembre 1995, l'enveloppe nationale des CES pour 1995 a été portée à 715 000 entrées alors que la loi de finances initiale pour 1995 prévoyait 650 000 entrées. Les collectivités territoriales et les associations contribuent à la lutte pour l'insertion professionnelle des plus démunis par la création d'activités répondant à des besoins collectifs non satisfaits. Le dispositif contrat emploi-solidarité et le contrat emploi consolidé constituent à cet égard des tremplins permettant aux publics les plus en difficulté d'accéder sur une durée d'un an pour le CES, de cinq ans pour le contrat emploi-consolidé, à des fonctions qui permettent de satisfaire ces besoins. Par ailleurs, le contrat initiative emploi a pour but de faciliter l'insertion professionnelle des chômeurs de longue durée dans des activités du secteur marchand. A ce titre, il convient également de rappeler que les personnes ayant effectué un CES sont éligibles au contrat initiative emploi dans le cas où elles étaient chômeurs de longue durée, bénéficiaires du RMI ou handicapés à leur entrée en CES (loi no 95 881 du 4 août 1995).
