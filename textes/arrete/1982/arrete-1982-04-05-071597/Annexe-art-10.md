@@ -6,7 +6,11 @@ La nature et l'étendue du dépôt de garantie mentionné à l'alinéa précéde
 
 Sauf couverture déjà existante, les marges doivent être appelées par télex ou télégramme avec accusé de réception dès que l'écart des cours en défaveur du client atteint la proportion prévue par la convention visée à l'article 25 du présent règlement. L'appel de marge constitue une mise en demeure d'avoir à verser les montants correspondants, au plus tard une heure avant la cote d'ouverture de la deuxième bourse suivant le jour de la constatation de ces marges.
 
-Si la couverture fournie par le client permet au commissionnaire agréé de prélever les marges sans qu'il soit procédé à un appel de fonds supplémentaire, ce dernier doit néanmoins aviser son client, de manière au moins hebdomadaire, du montant des garanties utilisées à cette fin.
+Le commissionnaire agréé adresse, le premier jour ouvrable de chaque semaine, au client qui a des positions ouvertes sur un ou plusieurs marchés, un compte rendu des opérations réalisées sur son ordre et pour son compte pendant la semaine écoulée, ainsi que des mouvements de fonds ayant affecté son compte. Ce compte rendu hebdomadaire inclut un tableau récapitulatif récapitulant les éléments constitutifs de la situation nette du client.
+
+Lorsqu'un client n'a de position ouverte sur aucun des marchés, le tableau récapitulatif visé à l'alinéa précédent lui est adressé une fois par trimestre civil.
+
+Les tableaux récapitulatifs mentionnés au présent article doivent être conformes aux modèles établis par la commission.
 
 Le paiement du dépôt de garantie et des marges s'effectue obligatoirement à Paris. Toutes sommes ou garanties remises aux commissionnaires agréés sont obligatoirement comptabilisées conformément aux stipulations du guide comptable professionnel pour les commissionnaires agréés près la bourse de commerce de Paris.
 
