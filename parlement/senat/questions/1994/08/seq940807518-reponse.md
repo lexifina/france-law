@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940807518
+
+- Question : [SEQ940807518](seq940807518.md) — Remboursement aux collectivités locales des soldes de taxe sur la valeur ajoutée (TVA) pour les investissements réalisés dès 1991
+
+## Réponse
+
+*Budget, JO du 1994-12-29, page 3076*
+
+Réponse. - L'article 49-III de la loi de finances rectificative pour 1993 a confirmé les dispositions de l'article 42-III de la loi de finances rectificative pour 1988 et a prévu un dispositif transitoire pour certaines catégories d'investissements. En effet, conscient des difficultés rencontrées par les petites communes rurales, le Gouvernement a autorisé des dérogations temporaires dans l'unique souci de permettre la régularisation d'opérations commencées en 1992 ou en 1993 devant être achevées au plus tard avant le 31 décembre 1994, et pour lesquelles avaient été inscrites dans les plans de financement des recettes en provenance du fonds de compensation pour la TVA. Le décret no 94-655 du 27 juillet 1994, portant application de ces dispositions législatives, précise notamment que " la date de mise en chantier des constructions concernées est celle du commencement effectif des travaux établie par la collectivité bénéficiaire ". Le Gouvernement n'entend cependant pas revenir rétroactivement sur les investissements réalisés en 1991 du fait de la complexité et du coût budgétaire supplémentaire qu'entraînerait une telle procédure. En particulier, le FCTVA repose sur un système déclaratif et donne lieu à des contrôles opérés par les services déconcentrés de l'administration, ce qui entraîne un décalage de deux années dans le versement des attributions au titre dudit fonds. Le Gouvernement, en précisant qu'il s'agissait des opérations commencées en 1992 ou en 1993, n'a fait que prendre en compte cette contrainte inhérente au mécanisme du FCTVA.
