@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900610677
+
+- Question : [SEQ900610677](seq900610677.md) — Retraite des assistantes maternelles
+
+## Réponse
+
+*Tourisme, JO du 1990-08-09, page 1772*
+
+Réponse. - Le Gouvernement est conscient des difficultés que peuvent rencontrer des assistantes maternelles qui, à l'issue d'une longue carrière, ne disposent que d'une pension réduite. Partiellement héritée d'une longue absence de statut professionnel, notamment pour les assistantes maternelles relevant aujourd'hui des directions départementales des affaires sanitaires et sociales, cette situation tient pour une large part au mode de calcul des cotisations de sécurité sociale dues pour l'emploi d'une assistante maternelle. En application de l'article 241-2 du code de la sécurité sociale et des textes réglementaires pris pour son application, les assistantes maternelles font partie en effet des professions dont les cotisations au régime général de la sécurité sociale sont calculées sur des salaires forfaitaires. Ce sont ces salaires qui sont pris en compte pour l'ouverture du droit et le calcul de leur pension de retraite de ce régime. La réglementation actuelle conduit à valider à cet effet quatre trimestres par an si trois enfants sont gardés à temps plein. Le nombre des trimestres d'assurance porté au compte vieillesse des intéressées est ainsi directement fonction du nombre d'enfants gardés et du mode d'exercice de cette garde (mi-temps ou plein temps). Souhaitant remédier à cette situation, le Gouvernement a décidé de mettre en place, parallèlement au système existant, un mécanisme permettant d'asseoir les cotisations de sécurité sociale dues pour l'emploi d'une assistante maternelle sur une assiette réelle, par décision conjointe de l'employeur et de l'assistante maternelle, mesure qui permettrait une amélioration sensible du niveau de retraite de la profession.
