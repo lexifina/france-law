@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900509799
+
+- Question : [SEQ900509799](seq900509799.md) — Mutineries dans les prisons
+
+## Réponse
+
+*Justice, JO du 1990-07-19, page 1601*
+
+Réponse. - Le garde des sceaux a l'honneur de faire connaître à l'honorable parlementaire que les enquêtes diligentées à la suite des mutineries qui se sont produites aux prisons de Loos-lès-Lille et de Douai n'ont en aucune façon fait apparaître qu'elles aient été l'aboutissement d'une action concertée organisée. Ces mouvements de détenus se sont appuyés sur des revendications liées en grande partie au surencombrement de ces établissements pénitentiaires : de fait, les maisons d'arrêt de Loos-lès-Lille et de Douai connaissent un taux d'occupation respectif de 188 p. 100 et 153 p.100. Cela ne va pas sans affecter la qualité des conditions de détention au quotidien. En outre, la survenance en Grande-Bretagne peu de temps auparavant d'incidents graves et répétés de même nature et de grande ampleur a eu un effet d'incitation qui ne doit pas être négligé. L'ouverture, déjà commencée dans l'Est et le Sud de la France et qui va se poursuivre tout au long des années 1990 et 1991, des établissements du Programme 13 000 places, va permettre progressivement à l'administration pénitentiaire de remplir son objectif tendant à attribuer une place à chaque détenu. Il en résultera, tout à la fois, une amélioration générale des conditions de détention et une meilleure sécurité des prisons. Les enquêtes judiciaires ont par ailleurs permis de mettre en évidence la responsabilité individuelle de plusieurs détenus pour les inacceptables actes de dégradations et de violence commis lors de ces mutineries. Indépendamment des sanctions disciplinaires déjà prononcées, il est prévu, dès la clôture de l'enquête, de poursuivre pénalement ces détenus.
