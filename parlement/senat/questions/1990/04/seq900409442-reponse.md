@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900409442
+
+- Question : [SEQ900409442](seq900409442.md) — Réalisations universitaires sociales à Montpellier (Hérault)
+
+## Réponse
+
+*Éducation, JO du 1990-09-06, page 1950*
+
+Réponse. - Conscient de l'insuffisance des structures d'accueil pour les étudiants, le Gouvernement a arrêté les grandes lignes d'un plan pluriannuel d'aménagement et de développement universitaire auquel l'Etat consacrera 16,2 milliards de francs sur cinq ans (1991-1995), et qui permettra de rattraper le retard accumulé. Ce plan comprend notamment la réalisation de 30 000 nouveaux logements durant cette période destinée à une population étudiante en croissance rapide. Pour sa part, le C.R.O.U.S. de Montpellier dispose de 3 500 places en restaurant et 6 000 chambres en résidence pour une population de 42 000 étudiants en 1989-1990. Dès la prochaine rentrée universitaire, il sera en mesure d'offrir 300 places de restaurations supplémentaires réalisées par extension du restaurant et de la cafétéria Triolet. Dans le prolongement de cette première réalisation, le C.R.O.U.S. a élaboré un programme de constructions qui est soumis à l'examen du groupe régional de préparation du schéma d'aménagement et de développement des enseignements supérieurs au niveau régional. Ce groupe, coprésidé par le préfet de région et le recteur d'académie, doit proposer les formes de partenariat à mettre en oeuvre pour la concrétisation des actions qui seront retenues pour la période 1991-1995. Sans préjuger des conclusions de ce groupe et des arbitrages nationaux, il est envisagé, pour les années 1991 et 1992, la construction d'un restaurant universitaire de 600 places sur le terrain de l'université Montpellier-I et la construction de cinq résidences universitaires regroupant 1 035 logements locatifs sociaux individuels, en collaboration avec les organismes d'H.L.M., sous réserve de l'attribution effective des prêts locatifs aidés indispensables pour leur financement.
