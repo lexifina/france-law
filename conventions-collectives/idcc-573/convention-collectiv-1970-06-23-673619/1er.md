@@ -1,8 +1,8 @@
-# Article 1
+# Article 1 (1)
 
-La présente convention règle sur l'ensemble du territoire national métropolitain les rapports entre employeurs et salariés des professions dont le champ d'application professionnel, défini en terme d'activité économique, est déterminé comme ci-après.
+La présente convention règle sur l'ensemble du territoire national y compris dans les départements d'outre-mer (D.O.M.) les rapports entre employeurs et salariés des professions dont le champ d'application professionnel, défini en terme d'activité économique, est déterminé comme ci-après.
 
-Les codes N.A.F. de l'I.N.S.E.E. mentionnés au regard des descriptifs d'activités économiques ci-dessous sont donnés à titre indicatif.
+Les codes NAF de l'INSEE mentionnés au regard des descriptifs d'activités économiques ci-dessous sont donnés à titre indicatif.
 
 Dans le cas des entreprises à activités multiples (activités de commerce de gros, de prestations de services, de production ou de détail, commercialisant des articles relevant de branches différentes), la convention collective s'appliquera en fonction de l'activité principale déterminée selon les règles de la jurisprudence de la Cour de cassation.
 
@@ -54,10 +54,14 @@ Commerce de gros d'appareils sanitaires, de chauffage, de climatisation et de ca
 
 Commerce de gros des produits et demi-produits en matière plastique :
 
-- matières plastiques et demi-produits plastiques : NAF 51.5 L
+-matières plastiques et demi-produits plastiques : NAF 51.5 L
 
-- matériaux de construction plastiques : NAF 51.5 F - articles techniques en matière plastique : NAF 51.6 K
+-matériaux de construction plastiques : NAF 51.5 F-articles techniques en matière plastique : NAF 51.6 K
 
 Commerce d'équipements et de fournitures pour l'industrie :
 
 NAF 51.6 K, NAF 51.6 L
+
+NOTA :
+
+(1) Voir version 4, champ d'application modifié par accord du 15 février 1996, avenant n° 1 du 26 novembre 1996 annexés, non étendus.
