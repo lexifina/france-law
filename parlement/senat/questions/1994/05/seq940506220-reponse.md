@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940506220
+
+- Question : [SEQ940506220](seq940506220.md) — Nature et durée des travaux de réhabilitation du Grand Palais
+
+## Réponse
+
+*Culture, JO du 1994-07-07, page 1680*
+
+Réponse. - La fermeture du Grand Palais est la conséquence d'un affaissement de l'édifice, sensiblement perceptible depuis les années 1990 et mis en évidence par les conclusions d'une étude récente. Dès lors, il appartenait aux pouvoirs publics de prendre la décision de fermer le bâtiment pour d'impérieuses raisons de sécurité. En l'état actuel des études préalables, il n'est pas possible de prévoir un calendrier précis de durée des travaux de rénovation ni la date de réouverture du Grand Palais. D'ici au mois de juin 1994, un rapport précisera l'ampleur des travaux à entreprendre, leur coût, ainsi que les modalités de leur financement. Les conclusions des experts détermineront la durée de rénovation et de consolidation de la structure qui, en tout état de cause, ne sera pas inférieure à deux ans. Dès que ces conclusions seront connues, elles ne manqueront pas d'être communiquées aux représentants des salons d'artistes qui, entre-temps, se tiendront sur l'emplacement situé quai Branly dans des locaux spécialement aménagés à cet effet. Le groupe de travail et de réflexion constitué par le ministre de la culture et de la francophonie, en concertation étroite avec les représentants de la fédération des salons d'artistes, continuera ses travaux de réflexion en vue de déterminer conjointement les conditions optimales de réintégration des salons d'artistes. Le souhait légitime des exposants de réintégrer le Grand Palais dans les conditions préférentielles qui étaient les leurs jusqu'à présent est partagé par le ministre de la culture et de la francophonie, qui s'est engagé personnellement pour le maintien et le développement des salons d'artistes et pour leur permettre de continuer d'exposer dans les meilleures conditions possibles.
