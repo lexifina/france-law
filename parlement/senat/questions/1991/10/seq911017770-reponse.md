@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911017770
+
+- Question : [SEQ911017770](seq911017770.md) — Nature fiscale de l'activité d'intermédiaire
+
+## Réponse
+
+*Économie, JO du 1992-01-02, page 34*
+
+Réponse. - Le bénéfice des dispositions de l'article 44 sexies du code général des impôts est réservé aux entreprises qui exercent à titre exclusif une activité industrielle, commerciale ou artisanale au sens de l'article 34 du même code à l'exception des activités bancaires, financières, d'assurances, de gestion ou de location d'immeubles. L'activité de courtage relève de l'article 34 déjà cité. Toutefois, les opérations de courtage réalisées par un courtier de banque non agréé par l'association professionnelle des banques et lié à un ou plusieurs établissements financiers par un contrat écrit ou verbal lui conférant la qualité soit de mandataire libre, soit d'agent commercial, relèvent de la catégorie des bénéfices non commerciaux. Par ailleurs, les opérations d'intermédiaire, telles que celles de courtiers, pour l'achat, la souscription ou la vente d'immeubles, de fonds de commerce, d'actions ou de parts de sociétés immobilières sont mentionnées à l'article 35 du code général des impôts. Par conséquent, l'entreprise qui exerce une activité de courtage peut bénéficier du régime mentionné à l'article 44 sexies du code général des impôts si elle ne réalise pas, même à titre accessoire, les opérations déjà citées et si elle remplit l'ensemble des conditions prévues à cet article. L'appréciation du respect de ces conditions repose sur l'examen des circonstances de fait propres à chaque affaire. Il ne pourrait donc être répondu de façon plus précise à l'honorable parlementaire que si, par l'indication des nom et adresse de l'entreprise concernée, l'administration était mise à même de faire procéder à une instruction plus détaillée.
