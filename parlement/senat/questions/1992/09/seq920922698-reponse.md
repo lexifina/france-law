@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920922698
+
+- Question : [SEQ920922698](seq920922698.md) — Elevage bovin
+
+## Réponse
+
+*Agriculture, JO du 1993-03-29, page 571*
+
+Réponse. - Il est vrai que cette catégorie d'animaux n'a fait l'objet d'aucune mesure de soutien spécifique. Cependant, la finalité des primes à l'élevage n'est pas d'apporter un complément de prix à chaque animal, mais de maîtriser et d'orienter globalement la production dans le but de créér les conditions d'un marché équilibré dans lequel chaque spéculation puisse trouver un débouché rémunérateur. Il n'apparaît pas qu'une prime à la génisse s'impose particulièrement. Les génisses de boucherie sont, pour la plus grande part, issues du troupeau allaitant et en tant que telles bénéficient du soutien à la production de viande qui est précisément la finalité de la prime au maintien du troupeau de vaches allaitantes. D'autre part, cette catégorie d'animaux constitue une production de qualité qui a toujours bénéficié du prix de marché le plus élevé. Ainsi, depuis le début de 1992, le prix des génisses " R ", c'est-à-dire de catégorie moyenne, s'est stabilisé à 21,50 francs par kilogramme de carcasse alors que le prix des vaches de même catégorie qui constituent 40 p. 100 environ de la production nationale était en moyenne de 18,20 francs. En revanche, concernant les mâles broutards, ceux-ci pourront bénéficier avant leur exportation du premier versement de la prime spéciale aux bovins mâles qui a été revalorisée à hauteur de 60 ECU en 1993, 75 ECU en 1994 et 90 ECU en 1995 par animal. Par ailleurs, les éleveurs spécialisés dans les races à viande sont normalement bénéficiaires de la prime au maintien du troupeau de vaches allaitantes revalorisée progressivement jusqu'en 1995 et qui constitue un complément de revenu important.
