@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900208173
+
+- Question : [SEQ900208173](seq900208173.md) — Lenteur des procédures correctionnelles en matière d'urbanisme
+
+## Réponse
+
+*Justice, JO du 1990-04-05, page 727*
+
+Réponse. - Le garde des sceaux, ministre de la justice, a l'honneur de porter à la connaissance de l'honorable parlementaire qu'il partage pleinement son souci de voir sanctionner dans des délais raisonnables les auteurs d'infractions à la législation sur l'urbanisme. Il convient cependant d'insister sur le fait que les difficultés évoquées par l'honorable parlementaire résultent moins d'une carence de l'action répressive menée en ce domaine avec fermeté par les parquets que des difficultés d'exécution inhérentes à des mesures telles que la mise en conformité des lieux avec les règlements ou la démolition de l'ouvrage fréquemment prononcées par les tribunaux. Ainsi, aux termes des articles L. 480-5 et suivants du code de l'urbanisme, lorsque le tribunal prononce à l'encontre du contrevenant la démolition de l'ouvrage ou sa mise en conformité, il doit lui impartir un délai, décision généralement assortie d'une astreinte. Par ailleurs, l'article L. 480-9 du code précité confère à l'autorité administrative le soin de faire procéder d'office à tous travaux nécessaires à l'exécution de la décision de justice aux frais et risques du bénéficiaire des travaux irréguliers dans l'hypothèse où à l'expiration du délai fixé par le jugement la démolition ou la mise en conformité ordonnée n'est pas achevée. Il est certain que la mise en oeuvre de ces procédures peut se trouver considérablement retardée par la mauvaise volonté des contrevenants. Il va cependant sans dire que, dans de telles hypothèses, les parquets peuvent toujours engager de nouvelles poursuites à l'encontre du contrevenant jusqu'à la mise en conformité.
