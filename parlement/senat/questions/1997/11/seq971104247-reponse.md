@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971104247
+
+- Question : [SEQ971104247](seq971104247.md) — Réforme de l'Etat et renouveau du service public
+
+## Réponse
+
+*Fonction publique, JO du 1998-01-08, page 102*
+
+Réponse. - Le moratoire des services publics instauré par la ciculaire du Premier ministre du 10 mai 1993 est toujours en vigueur. Il concerne toutes les communes dont la population agglomérée ne dépasse pas 2 000 habitants. Il vise " tous les services publics de proximité de l'Etat ", comme par exemple l'éducation nationale, et les " entreprises publiques placées sous la tutelle de l'Etat et chargées d'une mission de service public de proximité ", comme La Poste, EDF ou France Télécom. Il suspend " la fermeture ou la réduction des services publics ainsi que la réorganisation aboutissant à une diminution significative du service rendu ". En revanche, les réorganisations internes, qui n'ont pas d'effet sur les services ou les bureaux directement en contact avec le public ou sur les prestations rendues aux usagers, n'entrent pas dans le champ du moratoire. Le moratoire est accompagné d'une part, par la mise en place de commissions et la réalisation des schémas départementaux d'organisation et d'amélioration des services publics (art. 28 de la loi d'orientation pour l'aménagement et le développement du territoire du 4 février 1995) et, d'autre part, par la conclusion de contrats de service public entre l'Etat et les entreprises publiques (art. 29 de la loi précitée). Conformément à l'article 29 précité, les " contrats de service public " ou les contrats de plan des entreprises publiques devront fixer les obligations en matière de service rendu aux usagers et d'aménagement du territoire que l'Etat entend imposer aux entreprises ou organismes publics placés sous sa tutelle, ainsi que les compensations dues par l'Etat pour les surcoûts susceptibles de résulter de ces obligations.
