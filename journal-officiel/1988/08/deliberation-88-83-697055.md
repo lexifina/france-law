@@ -1,0 +1,9 @@
+# Délibération n°88-83 du 5 juillet 1988 8883 DU 05-07-1988 (CNIL) PORTANT ADOPTION D'UNE RECOMMANDATION RELATIVE A LA GESTION DES CREDITS OU DES PRETS CONSENTIS A DES PERSONNES PHYSIQUES PAR LES ETABLISSEMENTS DE CREDIT
+
+- Nature : Deliberation
+- Numéro : 88-83
+- Date du texte : 1988-07-05
+- Publication : 1988-08-11
+- NOR : CNIX8810699X
+- Origine : JORF du 11 août 1988
+- Légifrance : https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000697055
