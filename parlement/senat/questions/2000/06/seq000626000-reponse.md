@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000626000
+
+- Question : [SEQ000626000](seq000626000.md) — Concertation entre la préfecture maritime et les autorités portuaires
+
+## Réponse
+
+*Équipement, JO du 2000-09-14, page 3186*
+
+Réponse. - Toutes les suggestions visant à une amélioration du dispositif de prévention et d'intervention, notamment celles de la Fédération française des pilotes maritimes, rencontrent un écho tout à fait favorable auprès du Gouvernement. Bien que la communication et la concertation entre la préfecture maritime et les autorités portuaires ne soient pas en cause dans le drame de l'Erika, la recherche d'une meilleure préparation de l'ensemble des intervenants à de tels cas d'urgence a conduit le Gouvernement à étudier, parmi de nombreux autres volets, un renforcement du dispositif d'échange d'informations et de concertation entre les diverses administrations concernées. Au-delà de l'actualisation des plans d'intervention d'urgence et de la mise en place d'états majors mixtes et de soutien aux services opérationnels en cas de crise, décidées lors du comité interministériel de la mer du 28 février 2000, le nouveau comité du 27 juin 2000 a veillé à préciser les rôles des ministres chargés de la mer, de la sécurité civile et de l'environnement dans la prévention, la veille technologique, l'expertise, la préparation de l'intervention et la gestion de crise. Sont définis également les modalités d'une meilleure cohérence des plans et des opérations de secours ainsi que le renforcement des pouvoirs du préfet maritime. S'agissant spécifiquement des relations entre le préfet maritime et l'autorité portuaire, il a été décidé de donner au préfet maritime autorité pour faire entrer tout navire en difficulté dans les ports. En contrepartie, le port d'accueil ne devant pas en supporter les conséquences financières, une ligne budgétaire est prévue en cas de défaillance du propriétaire et de l'armateur.
