@@ -1,4 +1,6 @@
-# Article Annexe
+# Article Annexe Tableau I
+
+TABLEAU I
 
 DÉSIGNATION DES EMPLOIS
 
@@ -20,7 +22,7 @@ par agent
 
 |
 
-AU 1er AOÛT 1995
+AU 1er AOÛT 1996
 
 |
 
@@ -36,9 +38,7 @@ de points attribués
 
 |
 
-A. - Universités et établissements
-
-relevant de l'enseignement supérieur
+I.- Fonctions de responsable administratif et technique dans les établissements d'enseignement supérieur
 
 |
 
@@ -62,11 +62,11 @@ A
 
 |
 
-120
+151
 
 |
 
-4800
+6040
 
 |
 
@@ -110,9 +110,27 @@ A
 
 |
 
-Responsable de l'encadrement administratif dans les établissements d'enseignement supérieur (y compris certaines fonctions exercées au siège des instituts universitaires de formation des maitres)
+Responsable de l'encadrement administratif
 
 |
+
+A
+
+|
+
+10 à 40
+
+|
+
+3 250
+
+|
+
+81 250
+
+|
+
+Gestionnaire de site d'un institut universitaire de formation des maitres |
 
 A
 
@@ -122,15 +140,15 @@ A
 
 |
 
-2 777
+314
 
 |
 
-69 425
+6 280
 
 |
 
-Responsables scientifique et techniques
+Responsable scientifique ou technique
 
 |
 
@@ -142,15 +160,15 @@ A-B
 
 |
 
-2 128
+2 323
 
 |
 
-42 560
+46 460
 
 |
 
-Responsables d'implantation ou d'organisation d'équipe
+Responsables d'implantation ou d'équipe ouvrière
 
 |
 
@@ -162,69 +180,15 @@ B-C
 
 |
 
-1 260
+1 750
 
 |
 
-18 900
+26 250
 
 |
 
-B. - instituts universitaires de formation des maîtres
-
-(fonctions spécifiques)
-
-|
-
-|
-
-|
-
-|
-
-|
-
-Agent comptable
-
-|
-
-A
-
-|
-
-40
-
-|
-
-29
-
-|
-
-1160
-
-|
-
-Gestionnaire de site
-
-|
-
-A
-
-|
-
-20
-
-|
-
-214
-
-|
-
-4280
-
-|
-
-C. - Etablissements soumis à des contraintes particulières
+II. - Fonctions exercées dans des établissements d'enseignement supérieur sousmis à des contraintes particulières
 
 |
 
@@ -268,10 +232,10 @@ C
 
 |
 
-200
+259
 
 |
 
-2000
+2590
 
 |
