@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860802465
+
+- Question : [SEQ860802465](seq860802465.md) — Résultat des efforts entrepris pour la préservation des ours bruns
+
+## Réponse
+
+*Environnement, JO du 1987-09-10, page 1433*
+
+Réponse. -Le plan ours a été lancé en 1984. Il a pour but de restaurer la population d'ours pyrénéens, qui compte aujourd'hui moins de trente individus, de manière à ce que la dynamique de l'espèce assure sa conservation malgré les accidents. Il repose sur de nombreuses études scientifiques réalisées dans les années antérieures pour le compte du ministère de l'environnement qui ont permis de déterminer un zonage des secteurs fréquentés par l'ours. Une triple action est menée en direction des intérêts dont les activités peuvent entrer en conflit avec la préservation de l'ours : chasse, notamment en ce qui concerne l'organisation des battues au sanglier qui dérangent les ours au moment où ils entrent en hivernation ; pastoralisme par l'indemnisation des dégâts et des aides aux bergers (prime de dérangement, héliportage de matériel), exploitation forestière par le report, au coup par coup, des coupes prévues dans les secteurs vitaux pour l'ours. Des compensations financières pour ces interventions ont été versées à trois communes de la vallée d'Aspe, une de la vallée d'Ossau et deux du Luchonais. Des systèmes d'exploitation forestière autres que la route sont mis en place : héliportage, câblage, financés par le ministère de l'environnement. Certaines routes et pistes forestières, qui pourraient permettre la pénétration touristique dans les secteurs refuges sont barrées physiquement. Le ministère de l'environnement s'efforce d'amener d'autres communes à cette politique de protection. Le plan de sauvegarde pour être efficace, devra être poursuivi plusieurs années avant que des résultats tangibles sur la population d'ours brun ne soient constatés.
