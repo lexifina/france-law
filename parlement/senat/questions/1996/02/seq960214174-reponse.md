@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960214174
+
+- Question : [SEQ960214174](seq960214174.md) — Etat et services publics
+
+## Réponse
+
+*Premier ministre, JO du 1996-05-09, page 1141*
+
+Réponse. - Le Gouvernement et la présidence de la République ont défini une position précise sur la question des services publics. Le mémorandum français pour un modèle social européen mentionne l'intérêt d'une charte des droits fondamentaux qui " permettrait de reconnaître les droits économiques et sociaux des citoyens ainsi que la vocation particulière des services publics, qui doivent être protégés d'une application excessive et indiscriminée des règles de la concurrence ". Ce document " invite l'Union européenne à introduire dans le traité les adaptations nécessaires ". La France n'a pas abandonné l'idée d'évoquer la question des services publics à l'échelle européenne. Ce sujet est à l'ordre du jour de la conférence intergouvernementale, et nos partenaires, ainsi que la Commission, y sont sensibilisés. Il a d'ailleurs été évoqué dès le sommet de Turin. Concernant France Télécom, le Premier ministre vient de réaffirmer solennellement, et par écrit, les engagements du Gouvernement à maintenir le statut actuel des fonctionnaires employés par France Télécom, celle-ci restant une entreprise publique que la loi chargera d'assurer un service public national des télécommunications. Dans ce cadre, les évolutions envisagées pour France Télécom n'ont pas d'autre objet que de donner à cette entreprise des chances renforcées pour affronter la compétition qui sera généralisée au 1er janvier 1998. Quant à La Poste, les difficultés qu'elle traverse tiennent principalement à des raisons structurelles liées à la décroissance tendancielle de l'activité du courrier, lesquelles ont été amplifiées par la grève de décembre dernier. Par ailleurs, le Gouvernement a décidé de confier la distribution du nouveau " livret jeunes " à l'ensemble des établissements financiers, dont La Poste.
