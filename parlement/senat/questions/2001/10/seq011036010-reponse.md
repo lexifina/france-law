@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011036010
+
+- Question : [SEQ011036010](seq011036010.md) — Examen de la vision obligatoire pour les conducteurs âgés
+
+## Réponse
+
+*Santé, JO du 2002-02-28, page 680*
+
+Actuellement, la pratique des différents pays européens imposant un contrôle de la vue aux conducteurs est très variable. Dix-sept pays d'Europe, dont la France, contrôlent la vue des candidats au permis de conduire, seuls sept pays contrôlent périodiquement la vue et neuf imposent un examen de la vision aux conducteurs âgés. En France, la réglementation prévoit la possibilité d'un examen médical occasionnel pour les conducteurs titulaires d'un permis de conduire impliqués dans un accident corporel de la circulation. Lors de l'apparition ou de l'aggravation d'une baisse de la vision, la personne doit spontanément cesser de conduire et se présenter à la visite médicale du permis de conduire. C'est donc, le plus souvent, soit au médecin ayant fait le diagnostic, soit à l'entourage d'une personne estimée handicapée visuelle, soit par une réflexion commune, qu'il appartient de mesurer l'impact d'un tel handicap et d'éventuellement prévenir par un courrier le préfet. L'article R. 128 du code de la route prévoit que le préfet peut ordonner un examen médical dans le cas où des informations en sa possession lui permettraient d'estimer que l'état physique du titulaire du permis peut être incompatible avec le maintien du permis de conduire. L'intéressé est alors soumis à une visite médicale et au vu des conclusions de cet examen, le préfet peut suspendre ou annuler le permis de conduire. Il s'agit le plus souvent d'une discussion entre le médecin généraliste ou l'ophtalmologue, la personne concernée, et son entourage qui peut amener la personne à se soumettre à un examen médical. Cette démarche repose sur la responsabilité des personnes et des professionnels.
