@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040512160
+
+- Question : [SEQ040512160](seq040512160.md) — Modalités d'imposition fiscale des petites sociétés cinématographiques ou audiovisuelles
+
+## Réponse
+
+*Budget, JO du 2005-03-31, page 918*
+
+Aux termes de l'article 12 du code général des impôts, l'impôt est dû chaque année à raison des bénéfices ou revenus que le contribuable réalise ou dont il dispose au cours de la même année. D'une manière générale, un revenu doit être considéré comme disponible à compter du jour où, étant échu, il ne dépend que de l'intéressé d'en percevoir le montant. Lorsque les sommes sont portées par une société à un compte de charges à payer, cette inscription n'est pas suffisante pour considérer le revenu comme étant disponible pour le bénéficiaire. Cependant, la jurisprudence du Conseil d'Etat établit de manière constante que les créanciers d'une société qui ont la qualité de dirigeant, et jouent de ce fait un rôle déterminant dans la décision d'inscrire les revenus en charge à payer et non en compte courant, doivent être regardés comme ayant la disposition des sommes inscrites à leur profit dans un compte de charge à payer, sauf lorsqu'ils sont en mesure de justifier que des circonstances indépendantes de leur volonté rendent impossible le prélèvement des sommes en cause. Ces principes sont d'application générale et concernent les gérants et dirigeants de toutes les sociétés quelle que soit leur activité. Cela étant, plusieurs mesures récentes ont pour objet de favoriser le développement des entreprises de production cinématographique. Ainsi, un crédit d'impôt en faveur des entreprises de ce secteur d'activité a été mis en place par l'article 88 de la loi de finances pour 2004 n° 2003-1311 du 30 décembre 2003. Par ailleurs, ce dispositif très favorable a été étendu aux entreprises de production audiovisuelle par l'article 48 de la loi de finances rectificative pour 2004.
