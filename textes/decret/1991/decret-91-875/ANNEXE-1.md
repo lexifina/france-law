@@ -180,7 +180,9 @@ Assistant technique.
 
 |
 
-Prime de rendement et, pour les techniciens jusqu'au 7e échelon, indemnités horaires pour travaux supplémentaires (I.H.T.S.) (décret n° 50-1248 du 6 octobre 1950 modifié).
+Prime de rendement et, pour les techniciens jusqu'au 7e échelon, indemnités horaires pour travaux supplémentaires (I.H.T.S.) (décret
+
+n° 50-1248 du 6 octobre 1950 modifié).
 
 |
 
@@ -361,6 +363,60 @@ Chef de garage principal.
 Chef de garage.
 
 Chef de garage principal.
+
+|
+
+|
+
+Garde territorial
+
+d'immeuble
+
+|
+
+Dessinateur
+
+|
+
+Prime de service et de rendement
+
+(décret n° 72-18 du 5 janvier 1972
+
+modifié)
+
+et indemnités horaires pour travaux
+
+supplémentaires (IHTS) (décret
+
+n° 50-1248
+
+du 6 octobre 1950 modifié).
+
+|
+
+Garde d'immeuble en chef.
+
+Gardien d'immeuble principal.
+
+Gardien d'immeuble qualité.
+
+Gardien d'immeuble.
+
+|
+
+Dessinateur chef de groupe.
+
+Dessinateur chef de groupe.
+
+Dessinateur.
+
+Desssinateur.
+
+|
+
+|
+
+|
 
 |
 
