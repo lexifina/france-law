@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901112609
+
+- Question : [SEQ901112609](seq901112609.md) — Indemnisation de la perte des biens des Français rapatriés du Koweit et d'Irak
+
+## Réponse
+
+*Affaires étrangères, JO du 1990-12-27, page 2743*
+
+Réponse. - Le ministère des affaires étrangères dispose d'un système d'indemnisation pour dommages matériels subis à l'étranger du fait d'événements de force majeure. Ce système, institué par les lettres de 1972 et 1977 du ministère du budget, s'applique au cas d'espèce des agents du Koweït qui ont dû quitter le pays, compte tenu de la crise du Golfe, en y laissant l'essentiel de leurs biens mobiliers que l'on peut considérer comme perdus. Les agents victimes de ce préjudice ont constitué un dossier de demande d'indemnisation comprenant notamment l'inventaire chiffré des biens perdus. Compte tenu de l'importance des montants d'indemnisation formulés dans les demandes d'indemnisation, le ministère des affaires étrangères s'apprête à saisir le ministère du budget afin d'étudier les plafonds d'indemnisation qui pourront être retenus en faveur des agents victimes du préjudice. En effet, les plafonds, définis à l'origine pour des pertes partielles, s'avèrent très insuffisants par rapport aux demandes présentées par les personnels en poste au Koweït. Une fois ces plafonds fixés, la procédure d'indemnisation devrait intervenir avant le printemps prochain. Pour les agents en poste en Irak, la procédure d'indemnisation est pour le moment réservée, car les biens qui y ont été laissés ne peuvent pas être considérés comme irréversiblement perdus, ceux-ci n'ayant pas fait l'objet de pillage. S'agissant des douze enseignants français en poste au Liban qui ont perdu des biens mobiliers du fait du pillage de leur déménagement à Beyrouth en 1986, ceux-ci ont tous été indemnisés au cours de l'année 1990 du préjudice subi, après accord du ministère du budget.
