@@ -1,0 +1,9 @@
+# Réponse à la question SEQ041014127
+
+- Question : [SEQ041014127](seq041014127.md) — Rapprochement des statuts de la police municipale et des gardes champêtres
+
+## Réponse
+
+*Fonction publique, JO du 2005-02-24, page 544*
+
+Les gardes champêtres sont chargés d'assurer la police des campagnes et de rechercher, chacun dans le territoire pour lequel il est assermenté, les contraventions aux règlements et arrêtés de police municipale. Ils dressent des procès-verbaux pour constater contraventions (art. L. 2213-16 et 18 du code général des collectivités territoriales). La loi n° 2002-276 du 27 janvier 2002 relative à la démocratie de proximité et la loi n° 2003-239 du 18 mars 2003 pour la sécurité intérieure ont étendu leurs compétences. Ils sont dorénavant habilités à relever l'identité des contrevenants, à verbaliser certaines infractions au code de la route et à accéder au fichier national des immatriculations (FNI) et au système national des permis de conduire (SNPC). Dans ce cadre, le statut particulier des gardes champêtres fixé par le décret n° 94-731 du 24 août 1994 a connu des améliorations sensibles depuis sa création. Alors que l'emploi communal de garde champêtre ne comprenait qu'un seul grade, le cadre d'emploi de catégorie C comporte désormais trois grades relevant respectivement des échelles 3, 4, 5 de rémunération, lesquelles ont bénéficié par ailleurs de mesures de revalorisation. Il convient à cet égard d'indiquer la création récente du troisième grade de " garde champêtre chef " (décret n° 2004-159 du 16 février 2004 modifiant le décret n° 94-731 du 24 août 1994). Des revendications statutaires, notamment la création d'un cadre d'emplois en catégorie B ainsi que la question d'un rapprochement des statuts de la police municipale et des gardes champêtres, font actuellement l'objet d'un examen attentif.
