@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861003033
+
+- Question : [SEQ861003033](seq861003033.md) — Allocation aux adultes handicapés: valeur d'un revenu de compensation
+
+## Réponse
+
+*Affaires sociales, JO du 1987-02-05, page 162*
+
+Réponse. -L'allocation aux adultes handicapés (A.A.H.), prestation non contributive, est un minimum garanti par la collectivité nationale à toute personne reconnue handicapée par la Cotorep. Elle est égale au montant de l'allocation aux vieux travailleurs salariés (A.V.T.S.) augmenté de l'allocation supplémentaire du Fonds national de solidarité (F.N.S.), c'est-à-dire au minimum vieillesse. Le montant de ce minimum a été nettement revaorisé ces dernières années : il a été porté de 1416,66 francs mensuel au 1er janvier 1981 à 2585,83 francs au 1er octobre 1986, ce qui représente une progression de l'ordre de 82,5 p. 100. En termes de pouvoir d'achat, le montant de l'allocation aux adultes handicapés représente aujourd'hui plus de 69 p. 100 du S.M.I.C. net, dont le pouvoir d'achat a considérablement augmenté. Les contraites budgétaires actuelles ne permettent pas d'envisager de poter dans le montant de l'allocation aux adultes handicapés à la hauteur de 80 p. 100 du montant du S.M.I.C. Il convient de noter toutefois que l'effort important du Gouvernement en faveur des personnes handicapées se situe non seulement au niveau des prestations en espèces telles que l'allocation aux adultes handicapés ou la garantie de ressources aux travailleurs handicapés, mais également dans le cadre d'actions telles que la réinsertion professionnelle, l'aide au logement, les diverses mesures fiscales, l'accès aux emplois, les moyens de transports appropriés, l'accessibilité aux commerces, à la culture, et aux loisirs... Cet effort, qui témoigne de la volonté d'aider les plus défavorisés de notre société reste prioritaire et sera poursuivi.
