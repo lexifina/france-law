@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970700750
+
+- Question : [SEQ970700750](seq970700750.md) — Remboursement par les caisses de sécurité sociale des dépenses médicales personnelles des kinésithérapeutes
+
+## Réponse
+
+*Emploi, JO du 1997-11-13, page 3157*
+
+Réponse. - Pour bénéficier des prestations de l'assurance maladie, les praticiens et auxiliaires médicaux affiliés à la Caisse nationale d'assurance maladie des travailleurs salariés (CNAMTS) doivent être à jour de leurs cotisations. Ces cotisations sont normalement payables d'avance en une seule fois au 1er juin ; cependant, un versement en quatre fois est possible et c'est cette option que retiennent dans les faits les intéressés. Pour leur permettre de justifier de leur droit aux prestations, les organismes de recouvrement délivrent aux praticiens et auxiliaires médicaux qui se sont acquittés de leurs obligations une attestation trimestrielle. Cette délivrance intervient normalement dans les dix à quinze jours suivant le paiement des cotisations ; il est exact, néanmoins, que certains organismes de recouvrement ont pu ne pas respecter ce délai et l'attention de l'Agence centrale des organismes de sécurité sociale a été attirée sur ce point ; mais il importe, au demeurant, de noter que les organismes de recouvrement avertissent généralement les caisses primaires de leurs difficultés, évitant alors que le remboursement des prestations soit refusé au seul motif de la non-production de l'attestation. En tout état de cause, il est envisagé, à l'instar de ce qui existe déjà dans le régime d'assurance maladie-maternité des travailleurs non salariés des professions non agricoles, d'annualiser le droit aux prestations d'assurance maladie des praticiens et auxiliaires médicaux. Sauf cas particuliers, la présentation d'une attestation trimestrielle de paiement des cotisations ne sera donc plus exigé.
