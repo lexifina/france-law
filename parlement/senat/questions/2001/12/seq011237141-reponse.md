@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011237141
+
+- Question : [SEQ011237141](seq011237141.md) — Camp militaire de La Courtine
+
+## Réponse
+
+*Défense, JO du 2002-02-14, page 477*
+
+Les chiffres annoncés en 1998 concernant les effectifs du camp de La Courtine prévoyaient un effectif permanent de 182 civils et militaires. Ces chiffres ont été respectés et même revus à la hausse par le ministère de la défense, puisque l'effectif permanent du camp s'élèvera, en 2002, à 200 personnes dont 47 militaires et 153 civils. Il convient de rappeler que le camp de La Courtine accueille en moyenne 400 à 450 hommes par jour et que son taux de fréquentation est en hausse depuis 1999. Des aménagements importants d'infrastructures sont programmés pour les prochaines années. Ils concernent la transformation du dépôt de munitions actuel en dépôt mobile sur roues, le regroupement de l'ensemble tir, la transformation et la rénovation du cercle destiné à être transformé en service de restauration hébergement loisirs. De plus, un investissement est programmé au profit du camp bâti et des infrastructures d'accueil afin de rénover, construire et entretenir les bâtiments, les routes, les pistes et les installations de tir. Enfin, s'agissant de la création à La Courtine d'un centre d'entraînement au combat en zone urbanisée, ce camp faisait effectivement partie des sites initialement retenus au moment des études de faisabilité réalisées entre 1997 et 1999. Toutefois, pour des raisons de rationalisation, l'armée de terre a choisi de concentrer son entraînement sur trois camps de l'Est de la France, qui se trouvent au centre géographique de la plupart de ces implantations pour les unités de combat : Suippes pour l'entraînement au tir, Mailly pour l'entraînement à la manoeuvre et Sissonne pour l'entraînement en zone urbaine.
