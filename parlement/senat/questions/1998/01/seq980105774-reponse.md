@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980105774
+
+- Question : [SEQ980105774](seq980105774.md) — Sexisme dans certains manuels scolaires
+
+## Réponse
+
+*Éducation, JO du 1998-06-11, page 1874*
+
+Réponse. - La formation des enseignants du 1er degré comprend, sur les deux années passées à l'IUFM, environ 500 heures de stages, soit l'équivalent de 18 ou 19 semaines, et 1 000 à 1 200 heures de formation à l'IUFM. La formation des enseignants du second degré comprend, sur les deux années passées à l'IUFM, 300 heures au minimum de stages, 400 à 750 heures de formation disciplinaire, 300 à 450 heures de formation générale. Dans le cadre de ces formations, une approche analytique et critique des manuels scolaires est développée, pour aider les futurs enseignants à réfléchir sur leur mode d'utilisation. Le repérage d'éléments sexistes constitue un des éléments de cette analyse. Par ailleurs, dans le cadre des formations disciplinaires, la préparation à l'enseignement de l'histoire, des sciences économiques et sociales, de la philosophie, du français et des langues étrangères peut être le support d'une réflexion sur toutes les formes de sexisme dans notre société. Cette question est aussi traitée dans les formations centrées sur l'éducation à la citoyenneté. Enfin, une circulaire publiée au Bulletin officiel de l'éducation nationale, nº 22 du 29 mai 1997, définit la mission et les compétences attendues des professeurs de lycées et de collèges en fin de formation initiale et mentionne cette préoccupation dès son introduction : " Le professeur (...) participe au service public d'éducation qui s'attache à transmettre les valeurs de la République, notamment l'idéal laïque qui exclut toute discrimination de sexe, de culture, de religion. " Cette circulaire sert de fil directeur à l'élaboration des plans de formation des IUFM.
