@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970220593
+
+- Question : [SEQ970220593](seq970220593.md) — Français rapatriés d'Algérie
+
+## Réponse
+
+*Relations avec le Parlement, JO du 1997-04-10, page 1135*
+
+Réponse. - L'honorable parlementaire appelle l'attention sur le souhait de l'union syndicale de défense des intérêts des Français repliés d'Algérie de voir votée une nouvelle mesure de suspension des poursuites en faveur des rapatriés dont les dossiers sont en cours d'examen auprès des commissions départementales d'aide aux rapatriés réinstallés (CODAIR). Il est précisé à l'honorable parlementaire que les CODAIR ont réalisé depuis plus de dix-huit mois, avec l'aide des représentants des rapatriés, un important et efficace travail de traitement des dossiers des rapatriés réinstallés qui n'avaient pu bénéficier pleinement du dispositif de consolidation et d'effacement des dettes mis en place en 1986 et 1987. Il restait toutefois encore au 31 décembre 1996 un nombre limité de plans d'apurement ou de dossiers en cours qui n'avaient pu être définitivement arrêtés en raison de diverses contraintes, même si cela était imminent pour une majorité d'entre eux. Cependant, il importe que ces cas puissent être examinés par les CODAIR avec toute la sérénité souhaitable dans les prochaines semaines. Dans cette perspective, le délégué aux rapatriés a donc mis en place, en liaison avec le ministère de la justice et le ministère de l'intérieur, des mesures particulières afin d'éviter que le traitement de ces dossiers éligibles ne soit contrarié par la fin de la mesure de suspension des poursuites à compter du 1er janvier 1997. De même des dispositions seront prises en faveur des quelques cas sociaux qui seraient signalés par les préfets. Des directives ont d'ailleurs été adressées dans ce but aux parquets ainsi qu'aux préfets concernés.
