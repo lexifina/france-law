@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871008039
+
+- Question : [SEQ871008039](seq871008039.md) — Durée des études conduisant au BTS d'opticien-lunetier
+
+## Réponse
+
+*Éducation, JO du 1988-05-10, page 673*
+
+Réponse. -L'Acte unique européen qui a déterminé les étapes pour parvenir au grand marché européen de 1993 n'impose pas la mise en équivalence rigoureuse des diplômes, même si celle-ci n'est pas souhaitable. Il importe donc, avant de rechercher la délivrance d'un titre européen au contenu encore flou ou l'aligner a priori le nombre d'années d'études sur des formations comparables dispensées dans d'autres pays, de se préoccuper de l'insertion en France et en Europe des titulaires de brevets de technicien supérieur. Compte tenu de la qualité et de la densité de ces formations, il ne semble pas actuellement que cette insertion pose problème, même dans un contexte européen. En conséquence, il n'est pas dans l'intention du ministère de l'éducation nationale de modifier la durée des études menant aux brevets de technicien supérieur et au brevet de technicien supérieur opticien-lunetier en particulier. Toutefois, afin de maintenir l'excellent niveau de formation des brevets de technicien supérieur et leur adéquation à l'évolution des techniques et du marché de l'emploi, des actualisations des contenus de formation de ces diplômes sont régulièrement menées. Une actualisation du brevet de technicien supérieur opticien-lunetier est actuellement en cours et proche d'aboutir. Menée au sein de la commission professionnelle consultative " secteur sanitaire et social " formée de représentants des formateurs, des employeurs et salariés et réalisée avec le concours d'experts de la spécialité et de la direction générale de la santé, cette rénovation permettra de former des techniciens supérieurs en optique-lunetterie parfaitement concurrentiels dans la perspective du grand marché européen de 1993.
