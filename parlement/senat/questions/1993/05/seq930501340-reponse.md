@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930501340
+
+- Question : [SEQ930501340](seq930501340.md) — Aides ménagères
+
+## Réponse
+
+*Agriculture, JO du 1994-01-27, page 183*
+
+Réponse. - Le souci d'augmenter les ressources que peuvent affecter les caisses de mutualité sociale agricole à l'action sanitaire et sociale en milieu rural a conduit le Gouvernement à modifier les conditions de financement du fonds additionnel d'action sociale (FAAS) de façon à favoriser la prise en charge de l'aide ménagère destinée aux ressortissants agricoles. C'est ainsi que la dotation du FAAS a été portée de 44 MF en 1991 à 117 MF en 1993. Cette augmentation substantielle des ressources du FAAS permet aux caisses de mutualité sociale agricole d'accroître sensiblement leur effort en direction des personnes âgées. Cet effort a été perceptible tant en ce qui concerne le nombre des bénéficiaires que la durée moyenne d'intervention ou le taux de remboursement horaire qui se rapprochent graduellement des équivalents offerts aux ressortissants du régime général, sans pour autant, il est vrai, être encore comparables à ceux du régime général. C'est la raison pour laquelle le renforcement des moyens financiers destinés à l'action sanitaire et sociale des caisses de mutualité sociale agricole a été examiné au sein du groupe de travail relatif au statut social des exploitants. Cette mesure n'a pu être retenue parce qu'elle nécessiterait d'accroître la subvention du budget de l'Etat au BAPSA ou l'aide du régime général qui supporte le déficit du régime des salariés agricoles. La question du renforcement des moyens financiers des caisses de mutualité sociale agricole permettant une meilleure prise en charge des dépenses d'aide ménagère devra être reprise dans le cadre plus général des mesures envisagées en faveur des personnes âgées dépendantes.
