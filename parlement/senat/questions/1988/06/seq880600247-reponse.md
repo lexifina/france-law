@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880600247
+
+- Question : [SEQ880600247](seq880600247.md) — Application du statut du conjoint collaborateur d'artisan ou de commerçant
+
+## Réponse
+
+*Commerce et artisanat, JO du 1988-12-15, page 1421*
+
+Réponse. - Les conjoints collaborateurs d'artisans et de commerçants mentionnés au répertoire des métiers ou au registre du commerce et des sociétés peuvent acquérir volontairement des droits personnels à la retraite, notamment en partageant, en accord avec le chef d'entreprise, l'assiette de leurs cotisations.Le conjoint peut demander seul sa mention, le chef d'entreprise disposant de la faculté de s'y opposer. Si le bénéfice des allocations de maternité était subordonné au partage de l'assiette des cotisations de retraite, les conjoints seraient les premiers lésés dans leurs droits sociaux en cas de refus du chef d'entreprise de partager cette assiette. Cependant, rendre obligatoire le partage de l'assiette des cotisations de retraite irait à l'encontre de la nécessaire liberté dont doit disposer le chef d'entreprise pour accepter ou refuser la collaboration de son conjoint, le partage pouvant en outre réduire ses droits personnels à la retraite. Ces dispositions, fondées sur le libre choix des intéressés, respectent par conséquent la souplesse du statut du conjoint. Au demeurant, les conjoints qui travaillent dans l'entreprise familiale, même s'ils ne sont pas mentionnés en qualité de collaborateurs, peuvent acquérir, indépendamment du chef d'entreprise, une retraite personnelle en adhérant à l'assurance volontaire vieillesse des régimes des artisans et des commerçants. Enfin, le régimecomplémentaire facultatif de retraite des industriels et commerçants, de même que l'assurance facultative individuelle de retraite des artisans sont ouverts à l'ensemble des conjoints, collaborateurs ou non.
