@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991120559
+
+- Question : [SEQ991120559](seq991120559.md) — Déneigement des voies communales par les agriculteurs
+
+## Réponse
+
+*Agriculture, JO du 1999-12-30, page 4289*
+
+Réponse. - La circulaire conjointe du ministère de l'équipement, des transports et du logement et du ministère de l'agriculture et de la pêche DEPSE/SDEA/C 99-7028, du 4 novembre 1999, relative à la participation des exploitations à l'activité de déneigement des routes, précise l'application de l'article 10 de la loi nº 99-574 du 9 juillet 1999 d'orientation agricole. Les véhicules des exploitations agricoles équipés de la lame, fournie par la commune ou le département, utilisés à cet effet, devront être réceptionnés par les services des mines. Cette démarche est exigée pour tous les véhicules équipés pour le service hivernal, qu'ils soient détenus par les services des directions départementales de l'équipement ou par des entreprises spécialisées pour cette activité. Aucune dérogation ne peut-être accordée aux exploitants agricoles, pour des raisons de respect des règles de sécurité des véhicules et des personnes, et de responsabilité des collectivités territoriales. Des dispositions ont été prises pour faciliter cette réception par le service des mines. La date de mise en conformité initialement prévue au 1er janvier 2000 a été repoussée au 1er octobre 2000 par arrêté du 20 octobre publié au Journal officiel le 4 novembre. Une concertation avec les organisations professionnelles agricoles et les représentants des collectivités territoriales sera engagée rapidement. Les agriculteurs pourront utiliser le carburant détaxé. La signature d'une convention entre la mutualité sociale et les communes n'est pas nécessaire. En effet, comme le souligne la circulaire, cette activité est soumise aux mêmes règles que celles régissant l'exercice de l'activité agricole.
