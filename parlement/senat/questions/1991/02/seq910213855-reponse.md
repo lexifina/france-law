@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910213855
+
+- Question : [SEQ910213855](seq910213855.md) — Liaison routière mer du Nord-Méditerranée via la jonction Saône-Moselle
+
+## Réponse
+
+*Équipement, JO du 1991-12-05, page 2706*
+
+Réponse. - Les réflexions qui sont en cours sur les aménagements de la Moselle portent principalement sur les deux opérations suivantes : approfondissement du chenal de la rivière de 2,90 mètres d'enfoncement à 3,20 mètres d'une part, et doublement des écluses les plus chargées d'autre part. La première solution paraît être la plus avancée dans la mesure où, dès leur construction, les écluses existantes ont été réalisées avec des caractéristiques garantissant l'enfoncement des bateaux à 3,20 mètres, et cela par mesure conservatoire. En outre, les financements sont prévus à la fois en France (contrat Xe Plan Etat-région) et en Allemagne (plan à sept ans). Pour la partie située en Allemagne, le Gouvernement fédéral a décidé d'inscrire au projet de budget rectificatif, pour 1991, 1 million de D.M. qui serviront à engager les études techniques. La solution consistant à doubler les écluses n'a pas jusqu'ici paru pouvoir être envisagée à court terme en raison du coût élevé qu'elle représente et des difficultés de financement qu'elle implique. Cependant, le " schéma global des voies de communication " allemand, qui doit être adopté prochainement en retiendrait le principe. Par ailleurs, dans le cadre d'une réactualisation du schéma directeur des voies navigables, des réflexions sont en cours sur l'intérêt d'éventuelles liaisons telles que Saône-Moselle et Moselle-Rhin. Toutefois, aucune décision n'est intervenue à ce jour. Il convient également de rappeller que la liaison Saône-Rhin a été déclarée d'utilité publique et que le comité interministériel du 17 janvier 1990 a décidé l'engagement de deux opérations de cette liaison : les dragages de la Saône, 163 MF, et la mise à grand gabarit de la section Niffer-Mulhouse : 453 MF.
