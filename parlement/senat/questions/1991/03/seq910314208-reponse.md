@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910314208
+
+- Question : [SEQ910314208](seq910314208.md) — Fermeture du consulat de France à Fianarantsoa (Madagascar)
+
+## Réponse
+
+*Affaires étrangères, JO du 1992-01-30, page 242*
+
+Réponse. - Comme le sait l'honorable parlementaire, le réseau consulaire de notre pays à Madagascar est particulièrement développé : Madagascar, Tamatave, Diego-Suarez, Fianarantsoa et Majunga (antenne consulaire qui a quasiment rang de chancellerie détachée). Compte tenu du nombre relativement limité des Français immatriculés (1 700), ce dispositif devait nécessairement faire l'objet d'une rationalisation. La décision de fermer le consulat de France à Fianarantsoa n'est pas le fait du hasard. Cette ville n'est distante de Tanararive que de 200 kilomètres. Le rôle politique de ce poste apparaît marginal et son activité consulaire est de plus en plus réduite (375 visas et 368 actes d'état civil en 1989). D'autre part, les difficultés de circulation sont telles qu'il est paradoxalement plus facile de se rendre depuis Tananarive dans telle ou telle agglomération relevant de l'ancienne circonscription de Fianarantsoa, que depuis cette ville elle-même. Bien évidemment, le ministère des affaires étrangères prendra toutes les mesures indispensables pour atténuer les inconvénients qui découleront de la fermeture du consulat pour nos immatriculés. Ainsi, une agence consulaire doit être ouverte à Fianarantsoa, sur le modèle de celles qui fonctionnent à Fort-Dauphin et à Tuléar. Le champ des attributions de ces agences pourrait être encore étendu pour éviter des déplacements inutiles à Tananarive à nos compoatriotes. Enfin, le département étudie actuellement la possibilité de modifier les modalidés de versement des allocations, aides et subventions diverses versées aux nécessiteux en recourant à un versement trimestriel, voire semestriel, plutôt que mensuel, pour limiter également les déplacements.
