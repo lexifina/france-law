@@ -14,6 +14,8 @@ A. - Fonctions exercées en administration centrale
 
 6° Chef de la mission centrale d'appui et de coordination des services déconcentrés.
 
+7° Président de la mission interministérielle aux rapatriés.
+
 B. - Fonctions exercées en service déconcentré
 
 1° Directeur régional des affaires sanitaires et sociales.
