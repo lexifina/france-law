@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900610219
+
+- Question : [SEQ900610219](seq900610219.md) — Evolution des retraites des fonctionnaires
+
+## Réponse
+
+*Fonction publique, JO du 1990-08-09, page 1766*
+
+Réponse. - Le principe de péréquation permet de faire bénéficier le personnel retraité des avantages accordés automatiquement au personnel en activité, la pension des fonctionnaires retraités étant calculée sur la base de l'indice afférent à l'échelon détenu lors de la mise en retraite et faisant l'objet d'une révision à l'occasion de chaque réforme indiciaire intervenant ultérieurement. Les fonctionnaires retraités et leurs ayants cause bénéficient donc de toute mesure générale d'amélioration des rémunérations accordée aux fonctionnaires en activité, qu'il s'agisse de l'attribution uniforme de points d'indice ou de majorations de la valeur du point, et des mesures particulières résultant de réformes statutaires relatives à leur ancien grade. Lorsqu'une telle réforme est effectuée, un tableau d'assimilation fixe ainsi le nouvel indice de traitement sur lequel doit être désormais calculée la pension. Toutefois, conformément à la jurisprudence du Conseil d'Etat, les assimilations ne tiennent compte que des avantages accordés automatiquement aux agents en activité, abstraction faite des avancements ou promotions subordonnés à un choix. La solution inverse aboutirait en effet à traiter de manière plus favorable les anciens fonctionnaires retraités que les personnels en activité. Les retraités bénéficieront donc de la transposition des mesures contenues dans l'accord signé le 9 février 1990 avec cinq organisations syndicales sur la réforme de la grille des classifications et des rémunérations des trois fonctions publiques, dans les conditions et conformément aux principes rappelés ci-dessus.
