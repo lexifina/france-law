@@ -1,0 +1,7 @@
+# Toulouse métropole : délibération — Institution des jeunes aveugles - Relèvement de la subvention ateliers garçons et jeunes filles p. 337
+
+- Collectivité : Toulouse métropole
+- SIREN : 243100518
+- Date : 1930-05-28
+- Objet : Institution des jeunes aveugles - Relèvement de la subvention ateliers garçons et jeunes filles p. 337
+- Jeu de données : https://www.data.gouv.fr/datasets/56b0c2c1a3a7294d39b88a5b
