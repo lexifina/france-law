@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951213141
+
+- Question : [SEQ951213141](seq951213141.md) — Accords de Schengen : instauration du concept de " frontière mobile " grâce à une sécurité renforcée
+
+## Réponse
+
+*Affaires européennes, JO du 1996-01-25, page 142*
+
+Réponse. - 1. L'honorable parlementaire a bien voulu attirer l'attention sur les difficultés propres à la frontière franco-italienne et sur l'utilité de contrôles " aléatoires, réguliers et mobiles " dans la bande des vingt kilomètres afin d'accroître la sécurité des habitants des communes situées dans cette zone. 2. La notion de contrôles " aléatoires, réguliers et mobiles " qui se substitueraient aux contrôles fixes traditionnels est un concept nouveau qui ne figure pas dans la Convention d'application de l'accord de Schengen et que le ministre délégué aux affaires européennes a soumis à ses partenaires dans le but de pallier la suppression de contrôles aux frontières intérieures, conformément aux dispositions de l'article 2, alinéa 3. Cette initiative française a été bien accueillie. 3. Concrètement, ces contrôles mobiles devraient être rendus plus efficaces par la mise en place, sur la base d'arrangements bilatéraux, de commissariats communs. De tels commissariats existent déjà avec l'Espagne et l'Allemagne. Un dispositif similaire est à l'étude avec la Belgique et le Luxembourg. Des négociations identiques seront lancées avec l'Italie pour qu'un dispositif similaire soit prêt lorsque ce pays sera à même d'appliquer la convention. 4. S'agissant de l'Italie, il convient en effet de rappeler qu'elle n'applique pas encore la Convention d'application. L'Italie doit encore prendre un certain nombre de mesures internes relatives notamment aux contrôles exercés aux frontières extérieures et à la protection des données informatiques.
