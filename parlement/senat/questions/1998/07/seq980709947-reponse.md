@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980709947
+
+- Question : [SEQ980709947](seq980709947.md) — Règlement de la situation au Kosovo et Russie
+
+## Réponse
+
+*Affaires européennes, JO du 1998-10-29, page 3434*
+
+Réponse. - Des contacts étroits ont été entretenus avec les Russes, depuis le début de la crise au Kosovo et tout au long des négociations qui ont conduit à l'adoption, par le Comité de sécurité, de la résolution 1199 du 23 septembre 1998. La France attache une grande importance à l'unité du groupe de contact, notamment à l'association étroite et active de la Russie à son action. L'initiative britannique du mois de juin qu'évoque l'honorable parlementaire, n'a pas abouti à l'adoption d'un texte au Conseil de sécurité, en raison des réticences de la Russie qui ne pouvaient pas accepter un texte autorisant le recours à la force sous toutes ses formes. C'est pour cette raison que la France a, à partir de cette date, redoublé d'efforts pour associer la Russie et discuter avec elle des éléments qui pourraient figurer dans une résolution acceptable par tous les membres du Conseil. Notre ambassadeur à Moscou a ainsi effectué, au mois de juillet, deux démarches auprès du ministère russe des affaires étrangères. M. Vedrine a, par ailleurs, eu de nombreux contacts téléphoniques à ce sujet avec son homologue de l'époque, M. Primakov. C'est à l'occasion d'un de ces entretiens téléphoniques, le 25 août, que les deux ministres ont convenu que les missions française et russe réfléchiraient ensemble, à New York, sur les éléments d'une résolution relative au Kosovo. Ces contacts ont contribué à amener les Russes à accepter la résolution 1199, qui est placée sous le chapitre VII de la Charte des Nations unies, et menace les parties de mesures additionnelles si les obligations qu'elle rappelle ne sont pas respectées.
