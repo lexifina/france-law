@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880310103
+
+- Question : [SEQ880310103](seq880310103.md) — Attribution de postes dans l'enseignement catholique d'Alsace
+
+## Réponse
+
+*Éducation, JO du 1988-05-10, page 675*
+
+Réponse. -D'une manière générale, la loi de finances pour 1988 marque un effort significatif en faveur de l'enseignement privé. Les crédits consacrés aux établissements d'enseignement privé sous contrat progressent de 4,8 p. 100 par rapport à 1987. Dans le même temps, le budget de fonctionnement de l'éducation nationale progresse de 4,5 p. 100. Le budget de 1988 comporte l'ouverture de 800 contrats nouveaux contre 670 en 1987. Le projet de répartition de ces moyens entre les académies a été préparé en fonction de critères objectifs tels que les besoins nécessités par l'entrée en rénovation de 40 p. 100 des collèges privés, les suites de scolarité des sections préparatoires au baccalauréat professionnel et au brevet de technicien supérieur créées à la rentrée de 1987 et l'ouverture de nouvelles classes dans les lycées et les lycées professionnels. Il a été également tenu compte de l'évolution prévisionnelle des efectifs d'élèves scolarisés dans les établissements d'enseignement privés. La répartition définitive a été arrêtée après une étroite concertation avec les représentants nationaux du secrétariat général de l'enseignement catholique, des syndicats de chefs d'établissements et de maîtres de l'enseignement privé. L'académie de Strasbourg bénéficie d'abord, à ce titre, d'une dotation de 4,5 équivalents-emplois. Il s'y ajoute, comme pour l'enseignement public, l'attribution de 100 heures supplémentaires qui permettront de résoudre les problèmes qui subsistent pour la rentrée de 1988. La répartition de ces moyens sera effectuée au plan local en concertation avec les représentants de l'enseignement privé.
