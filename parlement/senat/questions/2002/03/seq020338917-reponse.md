@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020338917
+
+- Question : [SEQ020338917](seq020338917.md) — Inspection des services pénitentiaires
+
+## Réponse
+
+*Justice, JO du 2002-04-18, page 1127*
+
+La garde des sceaux, ministre de la justice, porte à la connaissance de l'honorable parlementaire que l'inspection des services pénitentiaires exerce des missions d'enquête et de contrôle général des établissements et services extérieurs dépendant de l'administration pénitentiaire. Dirigée par un magistrat, membre de l'inspection des services judiciaires, elle se compose de deux directeurs régionaux, de trois directeurs des services pénitentiaires, d'un chef de service pénitentiaire et de trois premiers surveillants exerçant des fonctions d'inspection et de contrôle. Une secrétaire et un conducteur automobile sont également attachés au service. En dépit de problèmes d'effectifs, liés à la vacance des postes de chef de l'inspection et de deux inspecteurs pendant plusieurs mois, l'inspection des services pénitentiaires a effectué 31 missions au cours de l'année 2001, dans les différents services déconcentrés. Elle s'est attachée tout particulièrement à vérifier l'application des lois et règlements les plus récents au sein des établissements, notamment ceux portant sur les conditions de détention, la prévention des suicides, l'usage de la force et des armes. Lorsque des événements particuliers ont donné lieu à des poursuites disciplinaires, l'inspection s'est chargée de l'instruction des dossiers et de l'audition des personnes mises en cause, dans un strict respect des droits de la défense. Le service est régulièrement intervenu à l'Ecole nationale de l'administration pénitentiaire dans le cadre de la formation du personnel de direction et des futurs chefs de service pénitentiaires. Par ailleurs, un des inspecteurs a participé aux travaux du comité d'orientation stratégique de préparation du projet de loi sur le sens de la peine et le service public pénitentiaire.
