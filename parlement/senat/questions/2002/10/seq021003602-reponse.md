@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021003602
+
+- Question : [SEQ021003602](seq021003602.md) — Situation des personnels des offices publics de l'habitat OPHLM-OPAC
+
+## Réponse
+
+*Fonction publique, JO du 2004-10-21, page 2393*
+
+Les offices publics d'aménagement et de construction (OPAC) présentent, de par la loi, un caractère industriel et commercial. Leurs personnels sont de droit privé (en dehors du directeur général et du comptable qui sont des agents publics) et sont dès lors soumis aux dispositions du code du travail, comme c'est de règle dans les établissements publics à caractère industriel et commercial (EPIC), la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires excluant de la qualité de fonctionnaires les agents des EPIC. Les personnels des établissements publics administratifs (EPA) que constituent les OPHLM relèvent, quant à eux, de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale (fonctionnaires territoriaux). Ils peuvent toutefois, lors de la transformation de l'OPHLM en OPAC, conserver leur qualité de fonctionnaires territoriaux, sauf à ce qu'ils demandent à être soumis au règlement statutaire de droit privé fixé par un décret du 17 juin 1993. Les dispositions de la loi du 13 décembre 2000 relative à la solidarité et au renouvellement urbains ont renforcé leur régime dérogatoire au droit commun de la fonction publique en améliorant la garantie de leur carrière jusqu'alors limitée à l'avancement de grade et d'échelon. L'évolution du statut des offices constitue une réponse d'adaptation à un environnement qui a évolué. En ce sens, les ministères concernés expertisent actuellement les conditions d'emplois des personnels et les évolutions législatives susceptibles d'être retenues pour ceux-ci, en liaison avec la fédération des offices et les représentants des personnels.
