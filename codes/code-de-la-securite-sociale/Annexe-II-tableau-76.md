@@ -1,221 +1,221 @@
-# Article Annexe II tableau 76
+# Article Annexe II : Tableau n° 76
 
-DESIGNATION DES MALADIES :
+Maladies liées à des agents infectieux ou parasitaires contractées en milieu d'hospitalisation et d'hospitalisation à domicile.
 
-- A - Infections dues aux staphylocoques.
+DÉSIGNATION DES MALADIES
 
-Manifestations cliniques de staphylococcie :
+|
 
-Septicémies ;
+DÉLAI de prise en charge
 
-Atteintes viscérales ;
+|
 
-Panaris
+LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES de provoquer ces maladies
 
-avec mise en évidence du germe et typage de staphylocoque.
+|
 
-DELAI DE PRISE EN CHARGE : 10 jours
+A. - Infections dues aux staphylocoques : Manifestations cliniques de staphylococcie : - septicémie ; - atteinte viscérale ; - panaris, avec mise en évidence du germe et typage du staphylocoque.
 
-LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
+|
 
-- Infections dues aux staphylocoques
+10 jours
+
+|
 
 Tous travaux accomplis par le personnel de soins et assimilé, de laboratoire, de service, d'entretien ou de services sociaux mettant au contact d'un réservoir de staphylocoques.
 
-DESIGNATION DES MALADIES :
+|
 
-- B - Infections dues aux Pseudomonas aeruginosa :
+B. - Infections dues aux pseudomonas aeruginosa : - septicémie ; - localisations viscérales, cutanéo-muqueuses et oculaires, avec mise en évidence du germe et typage du pseudomonas aeruginosa.
 
-Septicémie,
+|
 
-localisations viscérales, cutanéo-muqueuses et oculaires,
+15 jours
 
-avec mise en évidence du germe et typage du pseudomonas aeruginosa.
-
-DELAI DE PRISE EN CHARGE : 15 jours
-
-LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
-
-- Infections dues aux Pseudomonas aeruginosa :
+|
 
 Tous travaux effectués par le personnel de soins et assimilé, de laboratoire, de service, d'entretien ou de services sociaux mettant au contact d'un réservoir de pseudomonas aeruginosa.
 
-DESIGNATION DES MALADIES :
+|
 
-- C - Infections dues aux entérobactéries :
+C. - Infections dues aux entérobactéries : Septicémie confirmée par hémoculture.
 
-Septicémie confirmée par hémoculture.
+|
 
-DELAI DE PRISE EN CHARGE : 15 jours
+15 jours
 
-LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
-
-- Infections dues aux entérobactéries.
+|
 
 Tous travaux effectués par le personnel de soins et assimilé, de laboratoire, de service, d'entretien ou de services sociaux mettant au contact d'un réservoir d'entérobactéries.
 
-DESIGNATION DES MALADIES :
+|
 
-- D - Infections à pneumocoques :
+D. - Infections dues aux pneumocoques : Manifestations cliniques de pneumococcie : - pneumonie ; - broncho-pneumonie ; - septicémie ; - méningite purulente, confirmée par isolement bactériologique du germe ou par les résultats positifs d'une recherche des antigènes solubles.
 
-Manifestations clinique de la pneumococcie :
+|
 
-Pneumonie ;
+10 jours
 
-Broncho-pneumonie ;
-
-Septicémie ;
-
-Méningite purulente,
-
-confirmées par isolement bactériologique du germe ou les résultats positifs d'une recherche des antigènes solubles.
-
-DELAI DE PRISE EN CHARGE : 10 jours
-
-LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
-
-- Infections dues aux pneumocoques
+|
 
 Tous travaux effectués par le personnel de soins et assimilé, de laboratoire, de service, d'entretien ou de services sociaux mettant au contact d'un réservoir de pneumocoques.
 
-DESIGNATION DES MALADIES :
+|
 
-- E - Infections dues aux streptocoques bêta-hémolytiques
+E. - Infections dues aux streptocoques bêta-hémolytiques : Manifestations cliniques de streptococcie :
 
-Manifestations cliniques de la streptococcie :
+|
 
-Otite compliquée
-
-DELAI DE PRISE EN CHARGE : 15 jours
-
-Erysipèle
-
-DELAI DE PRISE EN CHARGE : 15 jours
-
-Broncho-pneumonies
-
-DELAI DE PRISE EN CHARGE : 15 jours
-
-Endocartite
-
-DELAI DE PRISE EN CHARGE : 60 jours
-
-Glomérulonéphrite aigue
-
-DELAI DE PRISE EN CHARGE : 30 jours
-
-confirmées par mise en évidence du streptocoque bêta-hémolytique du groupe A.
-
-LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
-
-- Infections dues aux streptocoques bêta-hémolytiques
+|
 
 Tous travaux effectués par le personnel de soins et assimilé, de laboratoire, de service, d'entretien ou de services sociaux mettant au contact d'un réservoir de streptocoques bêta-hémolytiques.
 
-DESIGNATION DES MALADIES :
+|
 
-- F - Infections à méningocoques :
+- otite compliquée ;
 
-Méningite ;
+|
 
-Conjonctivites .
+15 jours
 
-confirmées par la mise en évidence de Neisseria meningitidis.
+|
 
-DELAI DE PRISE EN CHARGE : 10 jours
+- érysipèle ;
 
-LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
+|
 
-- Infections dues aux méningocoques
+15 jours
+
+|
+
+- broncho-pneumonie ;
+
+|
+
+15 jours
+
+|
+
+- endocardite ;
+
+|
+
+60 jours
+
+|
+
+- glomérulonéphrite aiguë, confirmées par mise en évidence de streptocoques bêta-hémolytiques du groupe A.
+
+|
+
+30 jours
+
+|
+
+F. - Infections dues aux méningocoques : - méningite ; - conjonctivite, confirmées par la mise en évidence de Neisseria meningitidis.
+
+|
+
+10 jours
+
+|
 
 Tous travaux effectués par le personnel de soins et assimilé, de laboratoire, de service, d'entretien ou de services sociaux mettant au contact d'un réservoir de méningocoques.
 
-DESIGNATION DES MALADIES :
+|
 
-- G - Fièvres typhoïde et paratyphoïdes A et B
+G. - Fièvres typhoïde et paratyphoïde A et B confirmées par une hémoculture mettant en évidence la salmonelle en cause et par le sérodiagnostic de Widal.
 
-confirmées par une hémoculture mettant en évidence la Salmonella en cause et par le sérodiagnostic de Widal.
+|
 
-DELAI DE PRISE EN CHARGE : 21 jours
+21 jours
 
-LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
-
-- Fièvres typhoïde et parathyphoïde A et B
+|
 
 Tous travaux effectués par le personnel de soins et assimilé, de laboratoire, de service, d'entretien ou de services sociaux mettant au contact d'un réservoir de salmonelles.
 
-DESIGNATION DES MALADIES :
+|
 
-- H - Dysenterie bacillaire :
+H. - Dysenterie bacillaire confirmée par la mise en évidence de shigelles dans la coproculture et par la séroconversion.
 
-confirmée par la mise en évidence des Shigella dans la coproculture et par la séroconversion.
+|
 
-DELAI DE PRISE EN CHARGE : 15 jours
+15 jours
 
-LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
-
-- Dysenterie bacillaire :
+|
 
 Tous travaux effectués par le personnel de soins et assimilé, de laboratoire, d'entretien, de service ou de services sociaux mettant au contact d'un réservoir de shigelles.
 
-DESIGNATION DES MALADIES :
+|
 
-- I - Choléra :
+I. - Choléra confirmé bactériologiquement par la coproculture.
 
-confirmé bactériologiquement par la coproculture.
+|
 
-DELAI DE PRISE EN CHARGE : 7 jours
+7 jours
 
-LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
-
-- Choléra :
+|
 
 Tous travaux effectués par le personnel de soins et assimilé, de laboratoire, d'entretien, de service ou de services sociaux mettant au contact d'un réservoir de vibrions cholériques.
 
-DESIGNATION DES MALADIES :
+|
 
-- J - Fièvre hémorragiques (Lassa, Ebola, Marburg, Congo-Crimée)
+J. - Fièvres hémorragiques (Lasse, Ebola, Marburg, Congo-Crimée) confirmées par la mise en évidence du virus et/ou la présence d'anticorps spécifiques à taux significatif.
 
-confirmées par la mise en évidence du virus et/ou la présence d'anticorps spécifiques à taux significatif.
+|
 
-DELAI DE PRISE EN CHARGE : 21 jours
+21 jours
 
-LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
-
-- Fièvre hémorragiques (Lassa, Ebola, Marburg, Congo-Crimée)
+|
 
 Tous travaux effectués par le personnel de soins et assimilé, les autres personnels du service d'hospitalisation et le personnel de laboratoire de virologie mettant au contact des virus.
 
-DESIGNATION DES MALADIES :
+|
 
-- K - Infections dues aux gonocoques
+K. - Infections dues aux gonocoques : Manifestations cliniques : - gonococcie cutanée ; - complications articulaires, confirmées par isolement bactériologique du germe.
 
-Manifestations cliniques :
+|
 
-Gonococcie cutanée,
+10 jours
 
-complications articulaires,
-
-confirmées par isolement bactériologique du germe.
-
-DELAI DE PRISE EN CHARGE : 10 jours
-
-LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
-
-- Infections dues aux gonocoques
+|
 
 Tous travaux effectués par le personnel de soins et assimilé, de laboratoire, d'entretien, de service ou de services sociaux mettant au contact de malades infectés.
 
-DESIGNATION DES MALADIES :
+|
 
-- L - Syphilis :
+L. - Syphilis. Tréponématose primaire cutanée confirmée par la mise en évidence du tréponème et par la sérologie.
 
-Tréponématose primaire cutanée confirmée par la mise en évidence du tréponème et par la sérologie.
+|
 
-DELAI DE PRISE EN CHARGE : 10 semaines
+10 semaines
 
-LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
-
-- Syphilis :
+|
 
 Tous travaux effectués par le personnel de soins et assimilé, de laboratoire, d'entretien, de service ou de services sociaux mettant au contact de malades infectés.
+
+|
+
+M. - Infections à Herpes virus varicellae : Varicelle et ses complications : - complications de la phase aiguë : septicémie, encéphalite, neuropathie périphérique, purpura thrombopénique, pneumopathie spécifique, varicelle grave généralisée ; - complications dues à l'infection chronique par le virus : zona et ses manifestations cutanée, auriculaire, ophtalmique, méningée, neurologique périphérique, algies post-zostériennes chez une personne ayant été atteinte antérieurement d'une varicelle.
+
+|
+
+21 jours
+
+|
+
+Tous travaux effectués par le personnel de soins et assimilé, personnel de service, d'entretien ou de services sociaux, mettant en contact avec des malades présentant une varicelle ou un zona.
+
+|
+
+N. - Gale : Parasitose à Sarcoptes Scabei avec prurit et éventuellement surinfection des atteintes cutanées dues au parasite. En dehors d'un contexte épidémique, l'affection devra être confirmée par l'identification des sarcoptes.
+
+|
+
+7 jours
+
+|
+
+Tous travaux effectués par le personnel de soins et assimilé, de laboratoire, d'entretien, de service ou de services sociaux mettant en contact direct avec des porteurs de cette scabiose.
+
+|
