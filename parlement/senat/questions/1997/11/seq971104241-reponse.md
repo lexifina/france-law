@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971104241
+
+- Question : [SEQ971104241](seq971104241.md) — Conséquences d'un retrait de l'armée israélienne du Sud Liban
+
+## Réponse
+
+*Affaires étrangères, JO du 1998-01-22, page 216*
+
+Réponse. - Le gouvernement français partage l'inquiétude de l'honorable parlementaire quant aux dangers que fait courir, au Liban lui-même et à la région toute entière, l'instabilité de la situation au Sud-Liban. Certains responsables israéliens ont récemment présenté à la presse un plan pour un retrait unilatéral d'Israël de la zone occupée par son armée au Sud-Liban. Cependant, ce projet n'a pas été avalisé par le gouvernement israélien. Il ne s'agit donc pas d'une proposition des autorités israéliennes. La position du gouvernement français sur cette question peut s'énoncer comme suit : Il convient qu'Israël applique la résolution 425 du conseil de sécurité demandant à Israël " de retirer sans délai ses forces de tout le territoire libanais ". Le Liban doit recouvrer sa souveraineté et une pleine intégrité territoriale ; Nous pensons par ailleurs que seul un accord de paix global, incluant la Syrie, apportera une paix juste et durable dans la région. Les négociations doivent reprendre, parallèlement, sur les volets israélo-libanais et israélo-syrien du processus de paix ; Comme l'a indiqué le président de la République devant le Parlement libanais en avril 1996, la France est prête, dans le cadre d'un accord global et si toutes les parties le lui demandent, à participer à une force d'observation au Sud-Liban. En attendant la reprise des négociations et la conclusion d'accords de paix, le groupe de surveillance au Sud-Liban, présidé par la France depuis le 1er octobre dernier, continuera à oeuvrer pour la protection des civils et pour limiter les risques d'escalade.
