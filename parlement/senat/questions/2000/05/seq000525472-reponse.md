@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000525472
+
+- Question : [SEQ000525472](seq000525472.md) — Octroi de subventions agricoles dans le cas de force majeure
+
+## Réponse
+
+*Agriculture, JO du 2000-08-03, page 2711*
+
+Réponse. - L'octroi des subventions dans le cadre de la politique agricole commune impose aux Etats membres un strict respect de la réglementation communautaire. Cette rigueur répond à la volonté de lutter contre les irrégularités et les fraudes et de maîtriser les dépenses du Fonds européen d'orientation et de garantie agricole. La réglementation communautaire agricole fait appel de manière générale à la clause de force majeure, sans toutefois recourir à une liste exhaustive des faits pouvant être considérés comme relevant de la force majeure. Les Etats membres doivent donc se référer à la jurisprudence de la Cour de justice des Communautés européennes qui retient une définition restrictive de la force majeure au sens de " circonstances anormales, étrangères à l'opérateur et dont les conséquences n'auraient pu être évitées qu'au prix de sacrifices excessifs, malgré toutes les diligences employées ". La Commission, afin de faciliter l'action des Etats membres, a publié une communication qui conclut également à une interprétation restrictive de la clause de force majeure (communication >88> 1696, JOCE, C259 du 6 octobre 1988). Dans ce contexte, les autorités françaises s'efforcent d'appliquer la clause de force majeure avec bienveillance, mais aussi en faisant preuve de " la plus grande prudence " comme la Commission y invite tous les Etats membres. La dépossession de terrain consécutive à leur cession ne pourrait être assimilée à un cas de force majeure que dans l'hypothèse où ladite cession serait intervenue à la suite de " circonstances anormales, étrangères à l'opérateur ".
