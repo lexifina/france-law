@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011136121
+
+- Question : [SEQ011136121](seq011136121.md) — Situation de la chambre des métiers du Val-d'Oise
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2002-01-10, page 97*
+
+Une augmentation du produit de la taxe pour frais de chambres de métiers devrait pouvoir être obtenue par les chambres concernées, dont celle du Val-d'Oise, au moyen du rapprochement des listes d'assujettis tenues par les services fiscaux et des inscriptions du répertoire des métiers mis à jour par les chambres, en application de l'article L. 135 J du livre des procédures fiscales. Les déclarations d'échange de fichiers informatiques correspondants ont été validées par la Commission nationale de l'informatique et des libertés (CNIL) après transmission par l'Assemblée permanente des chambres de métiers et par la Direction générale des impôts. La mise en oeuvre de ce dispositif est en cours. A la suite de l'avis de la CNIL du 9 octobre 2001, un arrêté du ministre de l'économie, des finances et de l'industrie du 30 octobre 2001, modifiant l'arrêté du 22 septembre 1989 autorisant la création d'un traitement automatisé de calcul de taxe professionnelle, est paru au Journal officiel du 13 novembre 2001. La Direction générale des impôts élabore actuellement une instruction à l'attention des services fiscaux pour la mise en place du dispositif et la confection de supports informatiques pour les chambres qui en feront la demande, après déclaration simplifiée à la CNIL. Un acte réglementaire-cadre et une circulaire aux chambres de métiers, reprenant les recommandations de la CNIL, ont été signés par le président de l'APCM et présentés à l'assemblée générale des 4 et 5 décembre 2001. La Direction des entreprises commerciales, artisanales et de services va également rappeler aux préfets ces recommandations dans une prochaine circulaire.
