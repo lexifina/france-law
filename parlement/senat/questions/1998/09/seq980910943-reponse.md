@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980910943
+
+- Question : [SEQ980910943](seq980910943.md) — Statut de l'île de Mayotte
+
+## Réponse
+
+*Outre-mer, JO du 1998-10-29, page 3477*
+
+Réponse. - La loi nº 76-1212 du 24 décembre 1976 a fixé le statut de Mayotte qui constitue une collectivité territoriale de la République française conformément à l'article 72 de la Constitution. Conçu comme transitoire, le statut de Mayotte a fait l'objet, l'année passée, d'une importante réflexion sur son évolution possible. Le 30 septembre 1996, le ministre délégué à l'outre-mer avait chargé deux groupes de réflexion de rechercher et de proposer au Gouvernement le ou les schémas institutionnels conformes aux intérêts de Mayotte dans la République, en tenant compte des réalités économiques, sociales et culturelles de l'île. Le groupe local de réflexion, présidé par le représentant du Gouvernement, réunissait des membres de la société civile mahoraise (élus, étudiants, responsables syndicaux) et a rendu son rapport en décembre 1997. Le groupe national conduit par M. le préfet Bonnelle, composé des principaux élus, de fonctionnaires, de magistrats et d'universitaires, a rendu son rapport au secrétaire d'Etat à l'outre-mer en avril 1998. Ce dernier groupe de réflexion propose les cinq solutions suivantes : 1º un statut nouveau de collectivité territoriale à vocation départementale ; 2º un statut de département d'outre-mer à qui seraient dévolues des compétences régionales ; 3º un statut de département d'outre-mer avec création d'une collectivité régionale ; 4º un statut de département d'outre-mer avec maintien de la collectivité territoriale ; 5º un statut de territoire d'outre-mer. Le Gouvernement analyse actuellement ces deux rapports. Il étudie les propositions faites et leurs conséquences, notamment sur le plan constitutionnel.
