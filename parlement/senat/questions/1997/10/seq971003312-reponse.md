@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971003312
+
+- Question : [SEQ971003312](seq971003312.md) — Vide juridique lié aux accidents graves de la route avec homicide involontaire
+
+## Réponse
+
+*Justice, JO du 1998-01-15, page 173*
+
+Réponse. - Le garde des sceaux tient à assurer à l'honorable parlementaire qu'elle partage ces préoccupations en matière de lutte contre l'insécurité routière. L'infraction d'homicide involontaire est prévue et réprimée par l'article 221-6 du code pénal. Dans l'hypothèse des homicides involontaires commis à l'occasion d'accidents de la circulation routière, ce texte d'application générale ne limite pas les éléments constitutifs au seul cas de constatation de l'état alcoolique du conducteur. En effet, toute maladresse, imprudence, inattention ou négligence, tout manquement à une obligation de sécurité ou de prudence imposée par la loi ou les règlements, en l'espèce par le code de la route, et tout manquement délibéré à de telles obligations peuvent permettre de retenir la qualification d'homicide involontaire contre quiconque, à la double condition que ces faits constituent des fautes suffisamment établies et caractérisées, et que ces éléments aient un lien de causalité avec l'accident. La jurisprudence de la chambre criminelle de la Cour de cassation fait prévaloir une conception très extensive de la relation de causalité lorsque des fautes conjuguées ont été à l'origine d'un accident. Par conséquent, les enquêtes pénales relatives aux accidents mortels de la circulation routière sont particulièrement approfondies et donnent lieu à des décisions nombreuses de poursuite et de condamnation. Ainsi, en 1995, 1 965 condamnations pour homicide involontaire à la suite d'un accident mortel de la circulation ont été prononcées, dont 451 réprimaient aussi une conduite en état alcoolique.
