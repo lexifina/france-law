@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000122007
+
+- Question : [SEQ000122007](seq000122007.md) — Retard dans l'exploitation des données du recensement
+
+## Réponse
+
+*Industrie, JO du 2001-01-18, page 178*
+
+Réponse. - La Poste et la société Bull ont été retenues par l'INSEE, suite à un appel d'offres lancé en avril 1997, pour le traitement par lecture optique des 90 millions de questionnaires représentant 220 millions d'équivalents page A4. La notification de ce marché est intervenue le 2 septembre 1998. Ce marché prévoyait trois phases : une phase de préparation des moyens consistant à mettre en place deux centres de production et à y implanter les moyens humains, matériels et informatiques ; une phase d'exploitation légère destinée au traitement sommaire des questionnaires et qui devait débuter en mai 1999 et une phase d'exploitation approfondie de 30 % des questionnaires qui devait commencer en décembre 1999 et s'achever fin mai 2000. Si la période de mise en place des centres de production s'est déroulée selon le calendrier prévu, des difficultés de mise au point de l'outil informatique ont prolongé le temps nécessaire à la mise au point de l'outil de stockage et de gestion des nombreux fichiers. Néanmoins, et bien que l'exploitation ait démarré début décembre 1999 - soit 6 mois après la date initialement prévue - les moyens puissants mis en uvre par le consortium La Poste/Bull ont permis de rattraper une partie du retard et de fournir à l'INSEE des résultats dont l'institut a reconnu lui-même la qualité. Cette opération de grande ampleur s'appuyant sur une technologie de pointe - la lecture optique -, que maîtrise La Poste, devrait être terminée fin décembre 2000, conformément aux dispositions du marché qui arrive à échéance le 31 décembre 2000. Les principaux résultats statistiques ont été rendus publics par l'INSEE le 8 novembre dernier et les chiffres détaillés devraient être connus dans le courant du premier semestre 2001.
