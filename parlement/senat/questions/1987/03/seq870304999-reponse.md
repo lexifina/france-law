@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870304999
+
+- Question : [SEQ870304999](seq870304999.md) — Retraite des enseignants intégrés
+
+## Réponse
+
+*Éducation, JO du 1987-10-01, page 1555*
+
+Réponse. -La loi n° 77-1285 du 25 novembre 1977 modifiant la loi n° 59-1557 du 31 décembre 1959 sur les rapports entre l'Etat et les établisements d'enseignement privés a effectivement institué l'obligation d'aligner les conditions de cessation d'activité et d'accès à la retraite des maîtres des établissements d'enseignement privés justifiant d'un contrat ou d'un agrément définitif sur celle des maîtres de l'enseignement public. Dans cette perspective, le décret n° 80-7 du 2 janvier 1980 a permis aux maîtres des établissements privés de cesser leur activité dans les conditions fixées par l'article L. 24 du code des pensions civiles et militaires de retraite sans que les pensions qu'ils se sont constituées auprès du régime général de sécurité sociale et d'institutions de retraite complémentaire subissent un abattement. Postérieurement, il a paru équitable d'étendre ces dispositions à des maîtres titularisés dans la fonction publique en vertu de dispositions législatives intervenues à la suite de l'intégration, dans l'enseignement public, des établissements privés dans lesquels ces maîtres exerçaient leurs fonctions. Tel a été l'objet de la loi n° 85-489 du 9 mai 1985 qui a défini avec précision, dans son article premier, son champ d'application. Par contre, il n'a pas été jugé possible, en raison des conditions de la titularisation et des contraintes budgétaires, d'étendre l'avantage institué par la loi du 9 mai 1985 à des maîtres titularisés à titre individuel, soit en vertu des règles normales d'accès aux corps des personnels enseignants fixées par les statuts particuliers, soit sur la base du décret n° 60-389 du 22 avril 1960 modifié.
