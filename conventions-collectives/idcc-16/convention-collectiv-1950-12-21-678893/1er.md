@@ -2,7 +2,7 @@
 
 1.1. Principe
 
-La présente convention et les accords qui y sont annexés règlent les rapports entre les employeurs et les salariés des entreprises relevant de l'une des activités du transport énumérées ci-après, par référence à la nomenclature d'activité française - NAF - adaptée de la nomenclature d'activité européenne - NACE - et approuvée par le décret n° 92-1129 du 2 octobre 1992 (1).
+La présente convention et les accords qui y sont annexés règlent les rapports entre les employeurs et les salariés des entreprises relevant de l'une des activités du transport énumérées ci-après, par référence à la nomenclature d'activité française - NAF - adaptée de la nomenclature d'activité européenne - NACE - et approuvée par le décret n° 92-1129 du 2 octobre 1992.
 
 60-2 B. - Transports routiers réguliers de voyageurs :
 
@@ -96,13 +96,29 @@ Cette classe comprend aussi l'activité des ambulances de réanimation.
 
 Le champ d'application géographique de la présente convention et des accords qui y sont annexés comprennent l'ensemble du territoire métropolitain.
 
-1.2. Dispositions particulières
+1.2 Dispositions applicables aux activités de prestations logistiques
+
+La présente convention et les accords qui y sont annexés règlent également les rapports entre les employeurs et les salariés des entreprises ou de leurs établissements, identifiés sous le code 63-1 E entreposage non frigorifique, par référence à la nomenclature d'activité française (NAF) adaptée de la nomenclature d'activité européenne (NACE) et approuvée par le décret n° 92-1129 du 2 octobre 1992, exerçant à titre principal, pour le compte de tiers, une activité de prestations logistiques sur des marchandises qui ne leur appartiennent pas et qui leur sont confiées, c'est-à-dire :
+
+- l'exploitation d'installations logistiques d'entrepôts et de magasinage (dont les Magasins Généraux) y compris à caractère industriel, sans incursion dans le processus de fabrication, de production et/ou de négoce ;
+
+- la gestion des stocks ;
+
+- la préparation de commandes de tous types de produits ou de marchandises ;
+
+- la manutention et les prestations logistiques appropriées sur marchandises en vue de leur mise à disposition des réseaux de distribution ;
+
+- l'organisation et l'exploitation des systèmes d'information permettant la gestion des flux de marchandises et l'échange de données informatiques.
+
+Les entreprises assurant les différentes prestations logistiques, définies ci-dessus, dans d'autres secteurs d'activité, notamment du transport aérien, ferroviaire, maritime ou fluvial, et relevant déjà de dispositions conventionnelles étendues propres à leur activité, sont exclues du champ d'application de la présente convention collective.
+
+1.3. Dispositions particulières
 
 A la demande des organisations syndicales intéressées, et si ces activités ne peuvent pas être rattachées à une autre convention collective, des avenants à la présente convention pourront inclure dans son champ d'application des activités diverses ressortissant au transport et s'apparentant à l'une des activités ci-dessus énumérées.
 
 Il est précisé que la présente convention ne s'applique pas aux entreprises industrielles ou commerciales effectuant des transports définis comme transports pour compte propre par la réglementation des transports en vigueur.
 
-Dans le cas d'entreprises mixtes exerçant des activités telles que " transport public et activités industrielles et commerciales ", la présente convention s'applique normalement au personnel affecté aux services de transport public, le personnel affecté aux activités industrielles et commerciales restant régi par les dispositions de la convention applicable à la branche d'activité concernée.
+Dans le cas d'entreprises mixtes exerçant des activités telles que transport public et activités industrielles et commerciales, la présente convention s'applique normalement au personnel affecté aux services de transport public, le personnel affecté aux activités industrielles et commerciales restant régi par les dispositions de la convention applicable à la branche d'activité concernée.
 
 Toutefois, lorsque le personnel de l'entreprise mixte n'est pas affecté exclusivement à l'une ou l'autre des 2 branches d'activité et qu'une répartition du personnel entre les 2 conventions collectives correspondantes apparaît de ce fait impossible, l'ensemble du personnel de l'entreprise mixte est soumis à la convention et aux accords qui y sont annexés correspondant à l'activité principale.
 
@@ -110,8 +126,4 @@ Dans le cas d'entreprises exerçant une activité de transport de fonds et valeu
 
 Dans le cas d'entreprises exerçant une activité de transport de fonds et valeurs à titre accessoire, seules sont applicables les dispositions de l'accord national professionnel susvisé dans les conditions qu'il fixe, à savoir aux personnels affectés aux activités de transports de fonds et valeurs et dont les emplois sont spécifiquement définis dans la nomenclature qui y est annexée.
 
-NOTA :(1) Cette nomenclature applicable depuis le 1er janvier 1993 se substitue à la nomenclature des activités approuvée par le décret n° 73-1036 du 9 novembre 1973.
-
-NOTA :
-
-NOTA :(1) Cette nomenclature applicable depuis le 1er janvier 1993 se substitue à la nomenclature des activités approuvée par le décret n° 73-1036 du 9 novembre 1973.
+La mise en cause, dans une entreprise déterminée, notamment en raison d'un changement d'activité, du dispositif conventionnel en vigueur dans celle-ci, doit s'inscrire dans le respect des dispositions de l'article L. 132-8 du code du travail.
