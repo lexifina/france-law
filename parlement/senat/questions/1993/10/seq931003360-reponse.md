@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931003360
+
+- Question : [SEQ931003360](seq931003360.md) — Mesures envisagées pour garantir les emplois de la société Crown Cork Company à Viry-Châtillon (Essonne)
+
+## Réponse
+
+*Travail, JO du 1994-06-02, page 1363*
+
+Réponse. - La société Crown Cork Company dont l'activité est la fabrication de bouchons de champagne, a présenté un premier plan social en novembre 1993, qui a fait l'objet d'un constat de carence de l'inspection du travail pour insuffisance des mesures d'accompagnement. Parallèlement, les représentants des salariés ont obtenu gain de cause devant le tribunal de grande instance pour absence d'informations suffisantes du comité d'entreprise. La procédure de licenciement a donc été reprise en janvier 1994 par la société. Dix emplois sur les quarante-cinq salariés employés dans l'Essonne sont maintenus. Malgré l'intervention des services du ministère du travail, de l'emploi et de la formation professionnelle et de ceux de la préfecture de l'Essonne, il n'a pas été possible de faire modifier la décision de la société mère américaine de transférer une partie des activités en Belgique. Par contre, le plan social a été largement amélioré et prévoit une cellule de reclassement avec l'intervention d'un cabinet spécialisé, une aide à la création d'entreprise de 50 000 francs, des aides à la formation de 10 000 francs par salarié, une prime de mobilité externe de 10 000 francs par salarié, un engagement de l'entreprise de faire deux offres valables d'emploi pour tout salarié de plus de cinquante ans, une allocation temporaire dégressive de 2 000 francs par mois, une prime de deux mois de salaire pour toute entreprise extérieure embauchant un salarié, l'amélioration de l'indemnité conventionnelle de licenciement et enfin des préretraites pour les salariés de plus de cinquante-six ans.
