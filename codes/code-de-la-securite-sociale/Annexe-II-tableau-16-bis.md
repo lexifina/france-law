@@ -1,51 +1,43 @@
-# Article Annexe II tableau 16 bis
+# Article Annexe II : Tableau n° 16 bis
 
-DESIGNATION DES MALADIES :
+AFFECTIONS CANCEREUSES PROVOQUEES PAR LES GOUDRONS DE HOUILLE, LES HUILES DE HOUILLE (COMPRENANT LES FRACTIONS DE DISTILLATION DITES PHENOLIQUES, NAPHTALENIQUES, ACENAPHTENIQUES, ANTHRACENIQUES ET CHRYSENIQUES), LES BRAIS DE HOUILLE ET LES SUIES DE COMBUSTION DU CHARBON
+
+DÉSIGNATION DES MALADIES
+
+|
+
+DÉLAI DE prise en charge
+
+|
+
+LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies
+
+|
 
 - A - Epithéliomas primitifs de la peau.
 
-DELAI DE PRISE EN CHARGE : 20 ans
+|
 
-LISTE LIMITATIVES DES TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
+20 ans
 
-Travaux comportant la manipulation et l'emploi des goudrons, huiles et brais de houille.
+|
 
-Travaux de ramonage et d'entretien de chaudières et de cheminées, exposant aux suies de combustion du charbon.
+Travaux comportant la manipulation et l'emploi des goudrons, huiles et brais de houille. Travaux de ramonage et d'entretien de chaudières et de cheminées exposant aux suies de combustion du charbon. Travaux du personnel de cokerie directement affecté à la marche et à l'entretien des fours. Travaux exposant habituellement à l'inhalation ou à la manipulation des produits précités : - dans les usines à gaz ; - lors de la fabrication de l'aluminium par électrolyse selon le procédé à anode continue (procédé Söderberg). Travaux de coulée en fonderie de fonte ou d'acier mettant en oeuvre des sables au noir incorporant des brais ou des noirs minéraux. Travaux de ramonage. Travaux comportant l'emploi et la manipulation des produits précités lors de la fabrication de l'aluminium par électrolyse selon le procédé à anode continue (procédé Söderberg).
 
-DESIGNATION DES MALADIES :
+|
 
-- B -
+- B - Cancer broncho-pulmonaire primitif.
 
-Cancer broncho-pulmonaire primitif reconnu en relation avec les goudrons de houille, les huiles de houille, les brais de houille et les suies de combustion du charbon.
+|
 
-DELAI DE PRISE EN CHARGE : 30 ans (sous réserve d'une durée
+30 ans (sous réserve d'une durée d'exposition de 10 ans)
 
-d'exposition de 10 ans)
+|
 
-LISTE LIMITATIVES DES TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
+- C - Tumeurs bénignes ou malignes de la vessie.
 
-Travaux du personnel de cokerie directement affecté à la marche et à l'entretien des fours.
+|
 
-Travaux exposant habituellement à l'inhalation ou à la manipulation des produits précités :
+30 ans (sous réserve d'une durée d'exposition de 10 ans)
 
-- dans les usines à gaz ;
-
-- lors de la fabrication de l'aluminium par électrolyse selon le procédé à anode continue (procédé Söderberg).
-
-Travaux de coulée en fonderie de fonte ou d'acier mettant en oeuvre des liants à base de minéraux ou de brais.
-
-Travaux de ramonage.
-
-DESIGNATION DES MALADIES :
-
-- C -
-
-Tumeurs bénignes ou malignes de la vessie.
-
-DELAI DE PRISE EN CHARGE : 30 ans (sous réserve d'une durée
-
-d'exposition de 10 ans)
-
-LISTE LIMITATIVES DES TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
-
-Travaux comportant l'emploi et la manipulation des produits précités lors de la fabrication de l'aluminium par électrolyse selon le procédé à anode continue (procédé Söderberg).
+|

@@ -1,55 +1,51 @@
-# Article Annexe II tableau 15
+# Article Annexe II : Tableau n° 15
 
-Date de création : 14 décembre 1938.
+Affections provoquées par les amines aromatiques, leurs sels et leurs dérivés notamment hydroxylés, halogénés, nitrés, nitrosés et sulfonés
 
-DESIGNATION DES MALADIES :
+DÉSIGNATION DES MALADIES
 
-Accidents aigus (manifestations nerveuses avec cyanose)
+|
 
-DELAI DE PRISE EN CHARGE : 3 jours
+DÉLAI DE prise en charge
 
-DESIGNATION DES MALADIES :
+|
 
-Dermites eczématiformes confirmées par la positivité des tests épicutanés ou par la récidive à une nouvelle exposition
+LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies
 
-DELAI DE PRISE EN CHARGE : 7 jours
+|
 
-DESIGNATION DES MALADIES :
+Troubles neurologiques à type de somnolence, narcose, coma.
 
-Anémie avec cyanose et subictère
+|
 
-DELAI DE PRISE EN CHARGE : 30 jours
+3 jours
 
-DESIGNATION DES MALADIES :
+|
 
-Asthme ou dyspnée asthmatiforme confirmé par tests ou par épreuves fonctionnelles, récidivant après nouvelle exposition
+Préparation, emploi, manipulation des amines aromatiques, de leurs sels, de leurs dérivés notamment hydroxylés, halogénés, nitrosés, nitrés et sulfonés.
 
-DELAI DE PRISE EN CHARGE : 7 jours
+|
 
-DESIGNATION DES MALADIES :
+Cyanose, subictère.
 
-Cystites aiguës hémorragiques
+|
 
-DELAI DE PRISE EN CHARGE : 7 jours
+10 jours
 
-DESIGNATION DES MALADIES :
+|
 
-Lésions vésicales (confirmées par cystoscopie), provoquées par la benzidine, ses homologues, ses sels et ses dérivés chlorés, la dianisidine, l'amino-4, diphényle, la Bêta-naphtylamine et le 4-nitro-diphényle :
+Hémoglobinurie lorsque ces maladies comportent une hémolyse et une méthémoglobinémie (en dehors des cas considérés comme accidents du travail).
 
-Congestion vésicale avec varicosités
+|
 
-DELAI DE PRISE EN CHARGE : 7 jours
+10 jours
 
-Tumeurs bénignes ou malignes
+|
 
-DELAI DE PRISE EN CHARGE : 30 ans
+Dermites irritatives.
 
-LISTE INDICATIVE DES PRINCIPAUX TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
+|
 
-Préparation, emploi, manipulation des amines aromatiques, de leurs dérivés hydroxylés, halogénés, nitrosés, nitrés et sulfonés, du 4-nitro-diphényle et de produits en renfermant, notamment :
+7 jours
 
-Fabrication des amines aromatiques et de leurs dérivés ;
-
-Préparation au moyen d'amines aromatiques, de produits chimiques, matières colorantes, produits pharmaceutiques, accélérateurs de vulcanisation du caoutchouc ;
-
-Utilisation des amines aromatiques et des produits qui en dérivent, lorsque ces derniers contiennent des amines aromatiques à l'état libre.
+|
