@@ -1,147 +1,103 @@
 # Article Annexe II
 
-I. - Concernant les exigences de composition.
+I. - Dispositions générales.
 
-a) L'humidité ne doit pas dépasser 7 p. 100 dans les aliments d'allaitement et autres aliments composés ayant une teneur en produits laitiers supérieure à 40 p. 100.
+1. Les teneurs indiquées ou à mentionner se réfèrent au poids de l'aliment composé tel quel, sauf indications contraires.
 
-b) L'humidité ne doit pas dépasser :
+2. La teneur en eau de l'aliment doit être déclarée dans les cas où elle dépasse :
 
-- 5 p. 100 dans les aliments minéraux ne contenant pas de substances organiques ;
+a) 7 p. 100 dans les aliments d'allaitement et autres aliments composés ayant une teneur en produits laitiers supérieure à 40 p. 100 ;
 
-- 10 p. 100 dans les aliments minéraux contenant des substances organiques ;
+b) 5 p. 100 dans les aliments minéraux ne contenant pas de substances organiques ;
 
-- 14 p. 100 dans les autres aliments composés, à l'exception :
+c) 10 p. 100 dans les aliments minéraux contenant des substances organiques ;
 
-- des graines entières ;
+d) 14 p. 100 dans les autres aliments composés.
 
-- des aliments mélassés ;
+Dans le cas d'aliments composés dont la teneur en humidité ne dépasse pas les limites mentionnées dans les alinéas précédents, cette teneur peut également être déclarée.
 
-- des aliments liquides et des aliments semi-humides et humides auxquels des agents conservateurs ont été incorporés et pour autant que l'humidité et la date ou la durée limite d'utilisation optimale soient déclarées.
+3. La teneur en cendres insolubles dans l'acide chlorhydrique ne doit pas dépasser 3,3 p. 100 par rapport à la matière sèche, dans le cas des aliments composés contenant principalement des sous-produits du riz, et 2,2 p. 100 par rapport à la matière sèche dans les autres cas.
 
-c) La teneur en cendres insolubles dans l'acide chlorhydrique ne doit pas dépasser 3,3 p. 100 par rapport à la matière sèche dans le cas des aliments composés contenant principalement des sous-produits du riz et 2,2 p. 100 par rapport à la matière sèche dans les autres cas.
+Toutefois, la teneur de 2,2 p. 100 peut être dépassée dans le cas :
 
-Toutefois, la teneur de 2,2 p. 100 ci-dessus peut être dépassée dans les cas :
+a) D'aliments composés contenant des agents liants minéraux autorisés ;
 
-- d'aliments composés contenant des agents liants minéraux autorisés ;
+b) D'aliments minéraux ;
 
-- d'aliments minéraux ;
+c) D'aliments composés contenant plus de 50 p. 100 de cossettes ou de pulpes de betteraves sucrières ;
 
-- d'aliments composés contenant plus de 50 p. 100 de cossettes ou de pulpes de betteraves sucrières.
+d) D'aliments composés destinés aux poissons d'élevage et contenant une teneur en farine de poisson supérieure à 15 p. 100,
 
-Elle doit être, quand elle dépasse 3,3 p. 100 relativement à la matière sèche, déclarée en pourcentage par rapport à l'aliment tel quel.
+et pour autant que cette teneur soit déclarée en pourcentage exprimé par rapport à l'aliment tel quel.
 
-II. - Concernant les mentions obligatoires relatives aux constituants analytiques (art. 15 e).
+Dans le cas d'aliments composés dont la teneur en cendres insolubles dans l'acide chlorhydrique ne dépasse pas les limites mentionnées dans les alinéas précédents, cette teneur peut également être déclarée.
 
-a) Teneurs en constituants analytiques pour les aliments composés, à l'exception des mélanges de grains entiers, des aliments visés en b, c et d ci-après et des aliments composés pour animaux familiers autres que les chiens et chats :
+4. La teneur en fer des aliments d'allaitement pour veaux d'un poids vif inférieur ou égal à 70 kilogrammes doit atteindre au moins 30 milligrammes par kilogramme d'aliment complet ramené à une teneur en humidité de 12 p. 100.
 
-- protéine brute ;
+II. - Mentions obligatoires et facultatives relatives aux constituants analytiques.
 
-- matières grasses brutes ;
+Aliments pour animaux (1), constituants analytiques (2), espèce animale ou catégories d'animaux (mentions obligatoires selon l'article 15 f (3), mentions facultatives selon l'article 16 j (4)).
 
-- cellulose brute ;
+Aliments complets :
 
-- humidité ;
+- Protéine brute, matières grasses brutes, cellulose brute, cendres brutes : (3) animaux, à l'exception des animaux familiers autres que les chiens et les chats, (4) animaux familiers autres que les chiens et les chats.
 
-- cendres brutes.
+- Lysine : (3) porcs, (4) animaux autres que les porcs.
 
-b) Teneurs en constituants analytiques pour les aliments minéraux :
+- Méthionine : (3) volailles, (4) animaux autres que les volailles.
 
-- calcium ;
+- Cystine, Thréonine, Tryptophane : tous les animaux.
 
-- phosphore ;
+- Valeur énergétique : (4) volailles (indication selon la méthode de calcul fixée par arrêté conjoint des ministres chargés de la consommation et de l'agriculture), porcs et ruminants (indication selon la méthode de calcul fixée par arrêté conjoint des ministres chargés de la consommation et de l'agriculture).
 
-- sodium.
+- Amidon, sucres totaux (saccharose), sucres totaux + amidon, calcium, sodium, phosphore, magnésium, potassium : tous les animaux.
 
-c) Teneurs en constituants analytiques pour les aliments mélassés :
+Aliments minéraux.
 
-- cellulose brute ;
+- Protéine brute, cellulose brute, cendres brutes, matières grasses brutes, lysine, méthionine, cystine, thréonine, tryptophane :
 
-- sucres totaux exprimés en saccharose.
+tous les animaux.
 
-d) Teneurs en constituants analytiques pour les aliments liquides :
+- Calcium, phosphore, sodium : tous les animaux.
 
-- protéine brute ;
+- Magnésium : (3) ruminants, (4) animaux autres que les ruminants.
 
-- sucres totaux exprimés en saccharose ;
+- Potassium : tous les animaux.
 
-- humidité ;
+Aliments mélassés.
 
-- cendres brutes ;
+- Protéine brute, cellulose brute, sucres totaux (saccharose), cendres brutes : (3) tous les animaux.
 
-- densité ;
+- Matières grasses brutes, calcium, phosphore, sodium, potassium :
 
-- phosphore ;
+tous les animaux.
 
-- calcium ;
+- Magnésium + 0,5 % : (3) ruminants, (4) animaux autres que les ruminants.
 
-- sodium.
+- Magnésium < 0,5 % : tous les animaux.
 
-III. - Concernant les mentions facultatives relatives aux constituants analytiques (art. 16).
+Autres aliments complémentaires.
 
-a) Teneurs en constituants analytiques pour les aliments minéraux :
+- Protéine brute, matières grasses brutes, cellulose brute, cendres brutes : (3) animaux, à l'exception des animaux familiers autres que les chiens et les chats, (4) animaux familiers autres que les chiens et les chats.
 
-- protéine brute ;
+- Calcium + 5 % : (3) animaux autres que les animaux familiers, (4) animaux familiers.
 
-- cendres brutes ;
+- Calcium < 5 % : tous les animaux.
 
-- magnésium.
+- Phosphore + 2 % : (3) animaux autres que les animaux familiers, (4) animaux familiers.
 
-b) Teneurs en constituants analytiques pour les aliments composés pour chiens et chats :
+- Phosphore < 2 % : tous les animaux.
 
-- calcium ;
+- Magnésium + 0,5 % : (3) ruminants, (4) animaux autres que les ruminants.
 
-- phosphore ;
+- Magnésium < 0,5 % : tous les animaux.
 
-- sodium.
+- Sodium, potassium : tous les animaux.
 
-c) Teneurs en constituants analytiques pour les aliments composés pour animaux familiers autres que les chiens et chats :
+- Valeur énergétique : (3) volailles (indication selon la méthode de calcul fixée par arrêté conjoint des ministres chargés de la consommation et de l'agriculture), (4) porcs et ruminants (indication selon la méthode de calcul fixée par arrêté conjoint des ministres chargés de la consommation et de l'agriculture).
 
-- protéine brute ;
+- Lysine : (3) porcs, (4) animaux autres que les porcs.
 
-- matières grasses brutes ;
+- Méthionine : (3) volailles, (4) animaux autres que les volailles.
 
-- cellulose brute ;
-
-- humidité ;
-
-- cendres brutes ;
-
-- calcium ;
-
-- phosphore ;
-
-- sodium.
-
-d) Teneurs en constituants analytiques pour les aliments liquides :
-
-- magnésium ;
-
-- potassium ;
-
-- valeur énergétique selon la méthode officiellement reconnue par décision du ministre de l'agriculture et du ministre chargé de la consommation.
-
-e) Teneurs en constituants analytiques pour les autres aliments composés :
-
-- humidité ;
-
-- amidon ;
-
-- sucres totaux exprimés en saccharose ;
-
-- calcium ;
-
-- phosphore ;
-
-- magnésium ;
-
-- sodium ;
-
-- cystine (1) ;
-
-- lysine (1) ;
-
-- méthionine (1) ;
-
-- valeur énergétique selon la méthode officiellement reconnue par décision du ministre de l'agriculture et du ministre chargé de la consommation.
-
-(1) Selon la méthode officiellement reconnue par décision du ministre de l'agriculture et du ministre chargé de la consommation et seulement pour les aliments composés pour porcs, volailles et ruminants avant l'âge de la rumination.
+- Cystine, thréonine, tryptophane, amidon, sucres totaux (saccharose), sucres totaux + amidon : tous les animaux.
