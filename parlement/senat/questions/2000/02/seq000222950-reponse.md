@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000222950
+
+- Question : [SEQ000222950](seq000222950.md) — Maintenance préventive des bâtiments scolaires
+
+## Réponse
+
+*Logement, JO du 2000-04-20, page 1465*
+
+Réponse. - L'honorable parlementaire attire l'attention sur la destruction par la tempête de nombreux bâtiments scolaires et sur l'opportunité de créer une instance de contrôle de la solidité de ces bâtiments. Les tempêtes qui ont affecté le territoire national en fin d'année dernière ont atteint un niveau d'intensité rarement enregistré dans les cinquante dernières années et ont généré de nombreux dégâts aux constructions. Les dégâts ont concerné tous les types de construction. C'est pourquoi le ministère de l'équipement, des transports et du logement a mis en place avec les professionnels concernés une instance d'évaluation de la nature et des causes des dégâts constatés dans les différentes régions. Ce travail qui sera conduit dans un délai de six mois, vise à évaluer la nécessité éventuelle de réviser les normes de construction ou d'en assurer une meilleure application. Le cas des bâtiments scolaires fera l'objet d'un examen tout particulier, en liaison avec les travaux demandés par ailleurs au président de l'Observatoire national de la sécurité des établissements scolaires et d'enseignement supérieur par le ministre de l'éducation nationale. Il est rappelé que la solidité des bâtiments scolaires fait déjà l'objet de contrôles lors de leur construction avec l'intervention obligatoire d'un contrôleur technique agréé chargé de vérifier les calculs et la mise en uvre lors de la conception et lors des travaux. Cette intervention donne lieu à un rapport, sans lequel la commission de sécurité ne peut se réunir et donc sans lequel le maire ne peut donner l'autorisation d'ouverture de l'établissement.
