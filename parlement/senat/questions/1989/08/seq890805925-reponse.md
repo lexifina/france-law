@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890805925
+
+- Question : [SEQ890805925](seq890805925.md) — Contrôle de l'identité des électeurs
+
+## Réponse
+
+*Intérieur, JO du 1989-10-12, page 1679*
+
+Réponse. - Le problème évoqué par l'auteur de la question a été largement débattu devant le Parlement à l'occasion du vote de la loi n° 88-1262 du 30 décembre 1988 modifiant diverses dispositions du code électoral et du code des communes relatives aux procédures de vote et au fonctionnement des conseils municipaux. Le Gouvernement a fait part des raisons pour lesquelles il était opposé à une modification immédiate de l'arrêté du 16 février 1976 fixant la liste des pièces qui peuvent être présentées par l'électeur pour attester de son identité au moment du vote, dans les communes de plus de 5 000 habitants. Parmi les pièces en cause se trouvent des documents avec photographie, comme le passeport, la carte nationale d'identité ou le permis de conduire. Mais la détention de ces documents n'est ni obligatoire, ni gratuite. C'est pourquoi l'arrêté précité a retenu en outre des pièces très largement répandues, comme le livret de famille, ou la carte d'immatriculation et d'affiliation à la sécurité sociale, bien qu'elles ne comportent pas la photographie de leur titulaire. Leur exclusion de la liste risquerait de priver en pratique un nombre indéterminé - mais qui peut être important - de citoyens de la possibilité d'exercer leur droit de suffrage. Il reste que, conformément aux engagements pris par le Gouvernement, le problème est à l'étude. L'arrêté du 16 février 1976 sera revu dès que l'administration aura pu s'assurer que les pièces d'identité avec photographie ont une diffusion suffisamment large pour que leur production puisse être imposée au moment du vote sans risque notable d'écarter indûment des scrutins une proportion appréciable d'électeurs inscrits.
