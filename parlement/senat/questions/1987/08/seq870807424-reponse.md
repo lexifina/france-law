@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870807424
+
+- Question : [SEQ870807424](seq870807424.md) — Droit de contrôle des charges locatives pour les associations de locataires
+
+## Réponse
+
+*Équipement, JO du 1987-10-15, page 1637*
+
+Réponse. -Le décret n° 86-1316 du 26 décembre 1986 modifiant le décret n° 82-955 du 9 novembre 1982 pris en application de l'article L 442-3 du code de la construction et de l'habitation permet aux organismes d'habitation à loyer modéré de récupérer depuis le 1er janvier 1987, les dépenses de personnel assurant l'entretien des parties communes et l'élimination des rejets. Conformément à l'article 2 a du décret de 1982, il n'y a pas lieu de distinguer entre les services assurés par le bailleur en régie et les services assurés dans le cadre d'un contrat d'entreprise. L'article 44 de la loi n° 86-1290 du 23 décembre 1986 prévoit que les représentants des associations de locataires ont accès aux différents documents concernant la détermination et l'évolution des charges locatives. A leur demande, le bailleur les consulte chaque semestre sur les différents aspects de la gestion de l'immeuble. Cette disposition semble propre à assurer l'information des locataires et de leurs associations et à leur permettre de contrôler les charges qui leur sont imputées. Les organismes d'H.L.M. peuvent également conclure avec une ou plusieurs associations de locataires des accords collectifs locaux portant sur tout ou partie de leur patrimoine. Les accords qui portent notamment sur la maîtrise de l'évolution des charges récupérables sont obligatoires dès lors qu'ils ont été conclus par une ou plusieurs associations regroupant au total le tiers au moins des locataires concernés et qu'ils n'ont pas été rejetés par écrit, par la majorité des locataires dans un délai d'un mois à compter de leur notification individuelle par le bailleur aux locataires.
