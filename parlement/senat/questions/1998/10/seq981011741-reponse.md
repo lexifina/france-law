@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981011741
+
+- Question : [SEQ981011741](seq981011741.md) — Soutien aux organisations humanitaires
+
+## Réponse
+
+*Affaires étrangères, JO du 1999-01-07, page 20*
+
+Réponse. - L'honorable parlementaire a bien voulu attirer l'attention du ministre des affaires étrangères sur un article de presse relatif au départ de Médecins sans frontières de Corée du Nord et l'interroger sur sa réaction face aux propos du président de cette organisation. La France fait partie des pays donateurs qui s'efforcent de venir en aide à la population nord-coréenne. Elle y contribue à la fois à titre bilatéral (avec une subvention de 600 000 F à l'organisation Action contre la faim en 1998) et à travers l'Union européenne, qui était le premier donateur à la Corée du Nord en 1997 et poursuit d'importants programmes cette année. Le Gouvernement partage le souci exprimé par le président de Médecins sans frontières dans Le Figaro du 14 octobre 1998 de voir s'améliorer l'accès des organisations internationales et non gouvernementales humanitaires aux victimes de la situation économique en Corée du Nord. Ce souci a d'ailleurs fait l'objet d'une déclaration du porte-parole du ministère des affaires étrangères le 1er octobre 1998, que l'honorable parlementaire peut consulter sur le site Internet de ce ministère. A l'occasion de ses contacts avec les autorités nord-coréennes, le ministère des affaires étrangères ne manque pas de plaider la cause de l'élargissement de l'accès direct aux victimes et, plus généralement, de l'amélioration des conditions d'intervention sur place des organisations humanitaires. Dans ce domaine, l'effort doit cependant être collectif et réunir l'ensemble des pays donateurs autour d'un même objectif. C'est pourquoi la France continuera de s'attacher à dégager une approche concertée de l'ensemble des intervenants humanitaires en Corée du Nord.
