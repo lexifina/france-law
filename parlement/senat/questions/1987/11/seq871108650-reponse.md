@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871108650
+
+- Question : [SEQ871108650](seq871108650.md) — Statut du gérant majoritaire de SARL
+
+## Réponse
+
+*Justice, JO du 1988-02-04, page 164*
+
+Réponse. -L'article 22 de la loi relative au développement et à la transmission des entreprises tend à faire bénéficier notamment les gérants de S.A.R.L., à compter de l'imposition des revenus de 1988, de l'abattement de 20 p. 100 selon les modalités prévues pour les dirigeants sociaux de S.A. et les entrepreneurs individuels adhérents à un centre de gestion agréé. Cette mesure a pour seul objet de mettre fin au statut discriminatoire du gérant de S.A.R.L. que rien ne justifie sur le plan économique et d'assurer ainsi la neutralité fiscale du choix de la forme sociale par les créateurs d'entreprises. Les conséquences envisagées par l'honorable parlementaire quant aux transformations de S.A. en S.A.R.L. relèvent de la simple hypothèse ; il est en effet permis de penser que le choix de la forme sociale n'est pas uniquement déterminé par des considérations d'ordre fiscal. La mesure considérée ne vise aucunement à porter atteinte au contrôle légal des comptes. En ce qui concerne le contrôle des S.A.R.L., il importe de souligner que le législateur français a adopté des seuils d'intervention du commissaire aux comptes comparables à ceux qui s'appliquent dans les autres pays de la Communauté européenne. Il est certain que les commissaires aux comptes, garants de la transparence de l'information comptable et financière tant à l'égard des associés que des tiers, ont un rôle privilégié à jouer dans la vie des entreprises et qu'on ne saurait ainsi méconnaître l'intérêt de leur intervention dans les petites et moyennes entreprises. Cet intérêt ne pourrait qu'être renforcé par une meilleure adaptation de leur rôle à la dimension économique de ces entreprises. Une réflexion, en liaison avec les milieux professionnels intéressés pourrait être engagée en ce sens.
