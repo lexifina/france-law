@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911118370
+
+- Question : [SEQ911118370](seq911118370.md) — Situation des assistants de service social
+
+## Réponse
+
+*Collectivités locales, JO du 1992-03-19, page 670*
+
+Réponse. - Les assistantes sociales relèvent de la filière médico-sociale de la fonction publique territoriale. L'examen de la situation de ces personnels s'effectue en liaison avec tous les partenaires concernés. A ce jour, vingt-cinq organisations professionnelles ont été reçues. Les projets qui seront retenus par le Gouvernement font l'objet, actuellement, d'une nouvelle concertation avec les représentants des élus locaux et des personnels intéressés. Des notes présentant les orientations retenues par le Gouvernement ont été diffusées le 18 octobre dernier et sont soumises à concertation. Par ailleurs, l'accord conclu le 9 février 1990 entre le Gouvernement et cinq organisations syndicales de fonctionnaires vise à revaloriser les rémunérations, à améliorer les déroulements de carrière et à prendre en compte les nouvelles qualifications et responsabilités liées à l'évolution de missions des fonctionnaires. Parmi les mesures figurant dans cet accord, il est prévu que les assistantes sociales bénéficieront du classement indiciaire intermédiaire créé entre les indices bruts 322 et 638. Ce classement est destiné aux cadres d'emplois qui, d'une part, exigent une qualification spécifique de nature technico-professionnelle d'une durée d'au moins deux ans au-delà du baccalauréat, nécessaire à l'exercice d'un métier comportant des responsabilités particulières et, d'autre part, imposent l'exercice effectif des responsabilités et des technicités inhérentes à ces métiers. En outre, les assistantes sociales-chefs seront reclassées en catégorie A. Ces dispositions seront bien évidemment prises en compte dans le cadre de la construction statutaire de la filière médico-sociale de la fonction publique territoriale.
