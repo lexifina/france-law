@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931003077
+
+- Question : [SEQ931003077](seq931003077.md) — Plantation de haies en bordure du domaine public routier
+
+## Réponse
+
+*Intérieur, JO du 1993-12-30, page 2543*
+
+Réponse. - L'article R. 116-2 du code de la voirie routière punit, au titre de la police de la conservation, de l'amende prévue pour les contraventions de la cinquième classe ceux qui notamment, en l'absence d'autorisation, auront établi ou laissé croître des arbres ou haies à moins de deux mètres de la limite du domaine public routier. Toute plantation nouvelle en deçà de cette limite constitue une infraction et les plantations existantes sont soumises à une obligation d'élagage des branches et des racines à l'aplomb de la voie, à la diligence des propriétaires ou, à défaut, par une mesure d'office de l'administration et aux frais de ces derniers. Il convient cependant de préciser que ces dispositions, relevant des textes de 1989 portant codification du code de la voirie routière en ce qui concerne les plantations longeant les routes départementales et communales, ne s'appliquent qu'aux plantations à venir ; les plantations faites antérieurement aux textes précités et à des distances moindres que celles prescrites peuvent être conservées. Toutefois les sujets morts doivent être abattus et ne peuvent être remplacés qu'en observant la distance de deux mètres. Il n'existe pas de règlement de voirie qui puisse permettre d'arrêter les distances de plantations d'arbres ou de haies à des distances inférieures ou supérieures aux limites précitées. Toutefois, ces dispositions ne préjugent pas de l'application éventuelle de mesures de suppression des plantes gênantes, afin de satisfaire aux conditions de création de servitudes de visibilité déterminées à l'article L. 114-2 du code de la voirie routière, ainsi qu'aux opérations de débroussaillement prévues à l'article L. 114-8 du même code.
