@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030708283
+
+- Question : [SEQ030708283](seq030708283.md) — Encadrement du temps périscolaire
+
+## Réponse
+
+*Jeunesse, JO du 2003-08-28, page 2694*
+
+Vous avez bien voulu appeler l'attention du ministre de la jeunesse, de l'éducation nationale et de la recherche sur les préoccupations des organisateurs de centres de vacances et de loisirs concernant les difficultés d'application du décret n° 2002-883 du 3 mai 2002 relatif à la protection des mineurs à l'occasion des vacances scolaires, des congés professionnels et des loisirs. Afin d'accompagner la mise en oeuvre de ce décret, sans pour autant empêcher le fonctionnement de ces centres, l'arrêté du 21 mars 2003 fixant les titres et diplômes permettant d'exercer les fonctions d'animation et de direction en centres de vacances et de loisirs a élargi la liste des qualifications requises. Par ailleurs, un article de cet arrêté prévoit que, jusqu'au 1er septembre 2005 et à titre transitoire, dans les centres de loisirs accueillant moins de cinquante mineurs, les fonctions de direction pourront continuer à être exercées par les personnes âgées de plus de vingt et un ans titulaires du BAFA et justifiant de plusieurs expériences d'animation en centres de vacances et de loisirs. Cette disposition répond à la demande initiale des organisateurs et sera accompagnée d'autres mesures, notamment en matière d'aide à la formation ou de validation des acquis de l'expérience. Enfin, une instruction du 23 janvier 2003, parue au Bulletin officiel de l'éducation nationale du 20 février 2003, précise le champ d'application du décret n° 2002-883 du 3 mai 2002. Il y est indiqué que certains types d'accueils périscolaires sont exclus du champ d'application de ce texte. Il s'agit notamment des accueils consistant uniquement en de la surveillance sans organisation d'activité, des études surveillées qui se déroulent après le temps scolaire et de la pause méridienne durant la journée scolaire.
