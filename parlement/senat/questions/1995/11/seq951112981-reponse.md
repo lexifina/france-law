@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951112981
+
+- Question : [SEQ951112981](seq951112981.md) — Rapport concernant les opérations afférentes à l'exécution du service public délégué
+
+## Réponse
+
+*Fonction publique, JO du 1996-01-25, page 158*
+
+Réponse. - L'article 2 de la loi no 95-127 du 8 février 1995 relative aux marchés publics et aux délégations de service public a introduit dans la loi no 93-122 du 29 janvier 1993 relative à la prévention de la corruption et à la transparence de la vie économique et des procédures publiques un article 40-1 qui dispose que le délégataire doit produire chaque année avant le 1er juin à l'autorité délégante un rapport comportant notamment les comptes retraçant la totalité des opérations afférentes à l'exécution de la délégation de service public et une analyse de la qualité du service. Ce rapport est assorti d'une annexe permettant à l'autorité délégante d'apprécier les conditions d'exécution du service public et mise à la disposition du public dans les conditions prévues à l'article L. 212-14 du code des communes. Cette disposition d'application immédiate concerne toutes les conventions de délégations de service public qu'elles aient été conclues avant ou après l'intervention de la loi no 93-122 précitée qui a prévu en outre que ce rapport fasse l'objet d'une simple communication à l'exécutif de la collectivité locale et non d'une approbation par l'assemblée délibérante. S'agissant toutefois du rapport annuel sur le prix et la qualité des seuls services publics de l'eau potable, de l'assainissement et de traitement des ordures ménagères, celui-ci est soumis, conformément à l'article 73 de la loi no 95-101 du 2 février 1995 relative au renforcement de la protection de l'environnement, à l'avis du conseil municipal ou de l'assemblée délibérante devant lequel il est présenté au plus tard dans les six mois qui suivent la clôture de l'exercice.
