@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961219517
+
+- Question : [SEQ961219517](seq961219517.md) — Déduction des cotisations volontaires du conjoint-collaborateur
+
+## Réponse
+
+*Économie, JO du 1997-03-20, page 862*
+
+Réponse. - L'article 26 de la loi de finances rectificatives pour 1995 (no 95-1347 du 30 décembre 1995) améliore la protection sociale complémentaire facultative des conjoints collaborateurs de commerçants, industriels, artisans ou de professionnels libéraux, en permettant, sous réserve de leur affiliation aux régimes sociaux obligatoires de base et complémentaires de l'exploitant, leur adhésion aux groupements prévus par l'article 41 de la loi no 94-126 du 11 février 1994 relative à l'initiative et à l'entreprise individuelle. Ces groupements peuvent souscrire, au profit de leurs membres, des contrats d'assurance de groupe en vue du versement de prestations de prévoyance complémentaire, d'indemnité en cas de perte d'emploi subie ou d'une retraite complémentaire garantissant un revenu viager. Les cotisations versées à ce titre sont déductibles des résultats imposables de l'exploitant dans les conditions de l'article 154 bis du code général des impôts. Les conjoints collaborateurs des membres des professions libérales, à la différence des conjoints collaborateurs d'artisans et de commerçants, ne peuvent actuellement adhérer qu'au seul régime de base de l'exploitant, à l'exclusion des régimes complémentaires. Toutefois, conformément à l'esprit du nouveau dispositif, il a été admis que cette restriction ne fasse pas obstacle pour les intéressés à la possibilité de déduire les cotisations versées à un régime de protection sociale facultatif répondant aux conditions de l'article 154 bis du code général des imôts. Cette mesure qui figure dans l'instruction du 6 novembre 1996 (BOI 5 GF-10-96) répond aux préoccupations exprimées.
