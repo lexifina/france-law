@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990617088
+
+- Question : [SEQ990617088](seq990617088.md) — Caractère obsolète de plusieurs dispositions relatives à la gestion de la trésorerie des collectivités locales
+
+## Réponse
+
+*Économie, JO du 1999-08-19, page 2798*
+
+Réponse. - La gestion de trésorerie des collectivités territoriales et des établissements publics locaux repose sur un cadre juridique qui a été adapté aux besoins des collectivités locales. Traduction du principe de droit budgétaire de l'unité de caisse et de trésorerie entre l'Etat et les collectivités locales, l'article 15 de l'ordonnance du 2 janvier 1959 en constitue le fondement. Conséquence de cette règle du dépôt obligatoire, tous les fonds libres, quelle que soit leur origine, doivent être exclusivement déposés au Trésor ; en aucun cas, ils ne peuvent être placés auprès d'autres organismes. Toutefois, dans des cas limitativement énumérés, des possibilités de placement sont autorisées. En fait, ce dispositif présente une parfaite cohérence, puisqu'il organise à un moindre coût, une solidarité entre les collectivités territoriales et l'Etat. Il assure toute garantie dans le maniement des fonds publics ainsi que pour les tiers et les créanciers. De plus, les collectivités locales peuvent gérer leurs finances de façon optimale, puisqu'elles sont assurées d'encaisser, de façon régulière, le plus souvent chaque mois, la totalité de la plupart des recettes qu'elles ont votées, qu'il s'agisse des avances de fiscalité ou des concours financiers de l'Etat. Pour toutes ces raisons, il n'est pas envisagé dans l'immédiat et dans l'intérêt même des collectivités locales de remettre en cause l'obligation de dépôt au Trésor, celle-ci ne constituant qu'un élément parmi d'autres d'un système plus vaste définissant l'ensemble des relations administratives et financières unissant l'Etat et les collectivités locales.
