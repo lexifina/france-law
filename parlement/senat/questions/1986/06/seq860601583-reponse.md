@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860601583
+
+- Question : [SEQ860601583](seq860601583.md) — Déviation de la RN 437 à Exincourt (Doubs): désengagement de l'Etat
+
+## Réponse
+
+*Équipement, JO du 1986-11-13, page 1596*
+
+Réponse. -Le ministre de l'équipement, du logement, de l'aménagement du territoire et des transports tient à souligner que ses services mesurent pleinement l'intérêt d'une concertation approfondie qui permette aux différents partenaires concernés par un projet d'infrastructure urbaine d'unir leurs efforts pour en préciser la fonction et en accélérer la mise en oeuvre. Par ailleurs, il indique que l'Etat tente actuellement, de façon prioritaire, de recentrer l'action entreprise en faveur de la voirie urbaine sur la réalisation de grandes infrastructures grâce auxquelles le trafic de transit peut s'écouler dans des conditions satisfaisantes de sécurité et de fluidité, favorisant par là la reconquête de leur centre par les villes et la diminution des nuisances diverses subies par les habitants. Dans cette perspective, compte tenu de l'existence de l'autoroute A 36 et, à terme, d'une rocade de contournement de Montbéliard, la R.N. 437 verra progressivement s'accentuer son rôle de desserte locale. En ce qui concerne le projet de déviation de la R.N. 437 à Exincourt, en raison de l'intensité du trafic constaté sur cette route (22 000 véhicules par jour) et des problèmes posés par la desserte des usines Peugeot, l'Etat poursuivra cependant le financement des acquisitions foncières anticipées effectuées sur mise en demeure des propriétaires afin que ne soit pas interrompu le processus de réservation des emprises. Cela permettra, lors de l'élaboration du 10e Plan, de mener une étroite concertation entre l'Etat et les collectivités locales, dans le cadre d'un examen global des problèmes routiers de l'agglomération de Montbéliard, destiné à déterminer les adaptations éventuelles qu'il convient d'apporter au schéma de voirie.
