@@ -18,25 +18,17 @@ Ex 06-02 : autres plantes et racines vivantes y compris les boutures et greffons
 
 07-01 A : tubercules de pommes de terre (Solanum tuberosum). Tous pays.
 
-07-01 H : oignons, échalotes et aulx. Tous pays.
+07-01 H : oignons, échalotes, aulx destinés à la plantation. Tous pays.
 
-07-01 M : tomates. Tous pays.
+07-01 M : légumes à cosses secs, écossés, destinés à l'ensemencement. Tous pays.
 
-07-01 T II : aubergines. Tous pays.
+Ex 08-01 D : agrumes frais. Tous pays.
 
-07-05 ex A : légumes à cosses secs, écossés, destinés à l'ensemencement. Tous pays.
-
-Ex 08-01 D : avocats. Tous pays.
-
-Ex 08-02 : agrumes frais. Tous pays.
-
-08-06 : pommes, poires et coings, frais. Tous pays.
+08-06 : Pommes, poires et coings, frais. Tous pays.
 
 08-07 : fruits à noyau, frais. Tous pays.
 
-08-12 C : pruneaux séchés. Tous pays.
-
-10-05 A : maïs hybride destiné à l'ensemencement. Tous pays.
+08-12 C : maïs hybride destiné à l'ensemencement. Tous pays.
 
 10-06 A : riz destiné à l'ensemencement. Tous pays.
 
