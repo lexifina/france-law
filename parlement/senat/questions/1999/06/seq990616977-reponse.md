@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990616977
+
+- Question : [SEQ990616977](seq990616977.md) — Financement de l'aménagement de la RN 31 en Picardie
+
+## Réponse
+
+*Équipement, JO du 2000-07-06, page 2396*
+
+Réponse. - La nouvelle liaison autoroutière A 29 par Neufchâtel-en-Bray, Amiens et Saint-Quentin constituera un itinéraire contournant la région parisienne pour le trafic de transit entre les régions côtières normandes et celles de l'est de la France. La mise en service de la section Amiens-Saint-Quentin est prévue au printemps 2001 et celle de la section Neufchâtel-Amiens, pour 2004. Dans ces conditions, la route nationale 31 retrouvera essentiellement des fonctions d'échanges locaux et régionaux en assurant les déplacements entre les différentes villes traversées : Gournay, Beauvais, Compiègne et Soissons. Ces nouveaux éléments sont intégrés dans les réflexions menées dans le cadre de l'élaboration des schémas de services, afin d'arrêter définitivement les perspectives d'aménagement de la RN 31. Compte tenu de cette vocation intra-départementale plus affirmée, il n'appartaît pas opportun de mettre en place un plan particulier pour cette route, dont le financement de l'aménagement se poursuivra dans le cadre du contrat de plan entre l'Etat et la région Picardie pour la période 2000-2006. Le contrat, signé le 24 mars 2000, retient ainsi un montant de 789 millions de francs pour la poursuite de l'améngement de la RN 31 avec en particulier : 94 MF pour l'achèvement de la déviation de Laversines dont les travaux sont en cours, 500 MF pour la première phase de la déviation de Beauvais, entre Ons-en-Bray et la RN 1, 145 MF pour la poursuite de l'aménagement de la liaison Beauvais-Compiègne par la mise à deux fois deux voies de la section Clermont-Catenoy et 50 MF pour les études et acquisitions foncières relatives à la déviation nord de Compiègne.
