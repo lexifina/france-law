@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910113245
+
+- Question : [SEQ910113245](seq910113245.md) — Modalités d'application de la loi relative à la sécurité dans les ascenseurs
+
+## Réponse
+
+*Équipement, JO du 1991-05-16, page 1033*
+
+Réponse. - Les dispositions de l'article 10, d'ordre public, de la loi n° 65-557 du 10 juillet 1965, fixant le statut de la copropriété des immeubles bâtis, précisent que les copropriétaires sont tenus de participer aux charges entraînées par les services collectifs et les éléments d'équipement commun en fonction de l'utilité que ces services et éléments présentent à l'égard de chaque lot, le règlement de copropriété fixant la quote-part afférente à chaque lot dans chacune des catégories de charges. Les charges entraînées par l'installation de porte de cabine dans un ascenseur doivent donc être réparties selon le critère de l'utilité que ce dernier présente à l'égard de chaque lot, conformément aux quotes-parts afférentes à l'ascenseur, définies dans le règlement de copropriété ou, lors de l'assemblée générale au cours de laquelle la décision d'installer un ascenseur a été prise. En effet, l'assemblée doit alors, aux termes de l'article 30 de la loi du 10 juillet 1965, fixer, en plus de la répartition du coût des travaux, la répartition des dépenses de fonctionnement, d'entretien et de remplacement des parties communes ou ces éléments transformés ou créés. L'utilité est une notion objective qui est appréciée par rapport à chaque lot et non en fonction du comportement des occupants du lot. Ainsi, des lots d'une superficie importante situés dans les étages élevés, ont-ils une utilité de l'ascenseur et, par conséquent, des travaux de sécurité auxquels il a donné lieu, beaucoup plus grande que les lots de petite superficie situés dans les étages peu élevés. Il n'y a donc pas lieu de modifier la législation sur ce point.
