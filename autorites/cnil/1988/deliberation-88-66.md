@@ -1,0 +1,15 @@
+# Délibération sur la demande présentée par la Caisse nationale d'assurance vieillesse des travailleurs salariés et relative à un système informatique destiné à la gestion de l'assurance veuvage sur disque optique numérique
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 88-66
+- Date : 1988-05-24
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017654181
+
+La Commission Nationale de l'Informatique et des Libertés, Vu la Convention du Conseil de l'Europe du 28 janvier 1981 pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ; Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés ; Vu la délibération n° 83-27 du 12 avril 1983 ; Vu le décret n° 78-774 du 17 juillet 1978 pris pour l'application des chapitres I à IV et VII de la loi précitée ; Vu la loi n° 80-546 du 17 juillet 1980 ; Vu le projet d'acte réglementaire présenté par la Caisse Nationale d'Assurance Vieillesse des travailleurs salariés ; Après avoir entendu Monsieur Roland CADET en son rapport et Madame Charlotte-Marie PITRAT Commissaire du Gouvernement en ses observations ;
+
+Considérant que le traitement projeté a pour finalité principale de permettre la liquidation et la révision sur disque optique numérique des demandes d'allocation-veuvage ainsi que d'assurer le contrôle des opérations de liquidation réalisées ; Considérant que le traitement doit permettre en outre l'archivage sur disque optique numérique des principales pièces des demandes d'allocation ; Considérant qu'il résulte des déclarations faites par la CNAVTS que le système informatique envisagé constitue une expérimentation ; qu'en fonction de ses résultats il sera apprécié si l'opération mérite d'être mise en oeuvre après avis de la Commission ; que rien ne s'oppose à ce que cette expérience soit tentée ; Mais considérant que le projet d'acte réglementaire ne fait pas état du caractère expérimental du traitement et qu'il doit être complété sur ce point et faire mention de la durée de l'opération qu'il convient de limiter à deux années ; qu'en conséquence l'article 4 de ce projet qui prévoit une durée de conservation des informations enregistrées fixée à cinq années doit être supprimé ; Considérant d'autre part que l'information relative à la nationalité des allocataires doit être remplacée par les mentions de : "Français, Etranger, membre de la CEE ou bénéficiaire d'une convention internationale" ; Précise que les Caisses Locales qui expérimenteront le traitement objet de la présente délibération devront présenter à la Commission une demande se référant à ce traitement et comportant une description des mesures de sécurité et le lieu où doit s'exercer le droit d'accès ; qu'elles seront tenues en outre d'assurer la publication dans leur région de l'acte réglementant le traitement ;
+
+Emet, sous les réserves qui précèdent un AVIS FAVORABLE à la demande qui lui est présentée. Le Président, Jacques FAUVET
