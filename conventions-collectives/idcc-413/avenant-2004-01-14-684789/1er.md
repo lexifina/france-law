@@ -1,0 +1,77 @@
+# Article 1er
+
+Il est créé un poste de professeur d'éducation physique et sportive travaillant dans les structures scolaires du second degré dont les conditions d'agrément nécessitent ce type d'emploi et réservé aux titulaires d'un diplôme de niveau II, en conformité avec les dispositions de l'article L. 363-1 du code de l'éducation, modifié par les articles 6 et 12 de la loi n° 2003-708 du 1er août 2003 relative à l'organisation et à la promotion des activités physiques et sportives.
+
+Déroulement de carrière
+
+PÉRIODICITÉ |
+
+COEF |
+
+Début (1 an) |
+
+454 |
+
+Après 1 an (2 ans) |
+
+467 |
+
+Après 3 ans (2 ans) |
+
+498 |
+
+Après 5 ans (2 ans) |
+
+523 |
+
+Après 7 ans (2 ans) |
+
+557 |
+
+Après 9 ans (2 ans) |
+
+590 |
+
+Après 11 ans (3 ans) |
+
+601 |
+
+Après 14 ans (3 ans) |
+
+635 |
+
+Après 17 ans (3 ans) |
+
+667 |
+
+Après 20 ans (4 ans) |
+
+699 |
+
+Après 24 ans (4 ans) |
+
+735 |
+
+Après 28 ans |
+
+782 |
+
+Le professeur d'EPS, qui exerce dans un établissement relevant des annexes XXIV et suivantes au décret n° 89-798 du 27 octobre 1989, doit être titulaire d'une spécialisation activités physiques adaptées " public spécifique : personnes handicapées ". Il bénéficie d'une indemnité mensuelle de 20 points pour un temps plein. Ce montant est proratisé pour les salariés à temps partiel.
+
+Répartition de la durée hebdomadaire de travail du professeur d'EPS
+
+La durée du travail se décompose en tenant compte.
+
+- des heures travaillées auprès des usagers ;
+
+- des heures de préparation et de rédaction des rapports et documents administratifs ;
+
+- des heures de réunion de synthèse ou de coordination.
+
+En tout état de cause, les heures de pédagogie directe ne peuvent excéder 75 % du temps de travail. Compte tenu de la particularité de chaque association, des prises en charge réalisées, des handicaps des usagers, la répartition est négociée dans le cadre de la négociation annuelle obligatoire, lorsque l'association est dotée de délégués syndicaux, ou fixée et adaptée par l'employeur, après avis des délégués du personnel.
+
+Congés : professeurs d'EPS travaillant dans des établissements du second degré
+
+Par dérogation aux dispositions de l'article 22 " Congés payés annuels " des dispositions permanentes et de l'article 6 " Congés payés annuels supplémentaires " de l'annexe n° 3, le professeur d'éducation physique et sportive travaillant dans un établissement du second degré bénéficie d'une durée de congés identique à celle dont bénéficient les professeurs d'EPS des lycées et collèges, en fonction du calendrier scolaire de l'académie du lieu d'implantation de l'établissement.
+
+Toutefois, la direction de chaque établissement pourra demander aux professeurs d'EPS de participer annuellement à une session de perfectionnement de 1 semaine organisée pendant la période desdits congés.
