@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980306921
+
+- Question : [SEQ980306921](seq980306921.md) — Prévention des accidents à Electricité de France
+
+## Réponse
+
+*Industrie, JO du 1998-07-30, page 2478*
+
+Réponse. - En ce qui concerne la sécurité des agents d'EDF et des salariés d'entreprises sous-traitantes prestataires d'EDF, il peut être répondu sur la base des résultats définitifs de l'année 1996, non connus au moment de la rédaction de l'article auquel la question fait référence, et des résultats provisoires de 1997. En 1997, le taux de fréquence des accidents du travail des agents EDF (nombre d'accidents du travail avec arrêt par millions d'heures travaillées a été de 6,5. Ce taux s'est donc amélioré par rapport à 1996 où il était de 6,9. Le nombre des accidents mortels d'agents EDF a également diminué en 1997 par rapport à 1996, puisqu'il est passé de treize à dix. En ce qui concerne les accidents mortels de salariés des entreprises prestataires d'EDF, leur nombre est resté stable, puisqu'on a dénombré huit décès en 1997 comme en 1996. La mise en uvre d'actions de prévention est une priorité pour EDF qui entend pouvoir améliorer la sécurité des personnels, agents d'EDF ou salariés des entreprises extérieures. Il peut être noté que le " contrat de plan " signé entre l'Etat et EDF pour la période 1997-2000 prévoit que l'établissement public se fixe comme objectif un taux de fréquence des accidents du travail inférieur à cinq au plus tard en 1999. Dans ce cadre, l'amélioration de la sécurité du travail dans les entreprises sous-traitantes fait également partie de ses objectifs. Enfin, la ministre de l'emploi et de la solidarité et le secrétariat d'Etat à l'industrie ont signé, le 15 avril 1998, une circulaire relative aux priorités et aux modalités d'action de l'inspection du travail dans les centrales électriques, et notamment électronucléaires.
