@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981011345
+
+- Question : [SEQ981011345](seq981011345.md) — Conditions d'emploi des aides éducateurs
+
+## Réponse
+
+*Éducation, JO du 1998-11-26, page 3791*
+
+Réponse. - Les modalités du dispositif emplois-jeunes mis en place à l'éducation nationale, précisées par la circulaire nº 97-263 du 16 décembre 1998, ont été complétées par la circulaire du 17 juillet 1998 relatives aux conditions d'emplois des aides éducateurs. La loi nº 97-940 du 16 octobre 1997 indiquant que les contrats de travail emplois-jeunes sont conclus pour la durée légale du travail ou pour une durée collective inférieure applicable à l'organisme employeur, la circulaire précitée sur les conditions d'emplois des aides éducateurs a fixé la durée de travail des aides éducateurs à 1 575 heures et les congés à sept semaines par an. Par ailleurs, la possibilité de mise à disposition des aides éducateurs auprès des collectivités locales, en particulier au moment des repas lorsque la collectivité concernée organise les cantines, est un principe qui n'a jamais été remis en cause. La circulaire du 17 juillet dernier a précisé le champ des activités hors temps scolaire auxquelles les aides éducateurs peuvent être appelés à participer. Les conventions de mise à disposition sont signées entre l'employeur des aides éducateurs et la collectivité locale organisatrice des activités hors temps scolaire et ne sont pas centralisées par l'administration centrale. Chacune des 10 000 écoles primaires bénéficiant d'aides éducateurs peut être concernée par une convention de mise à disposition de la collectivité locale. Toutefois, ce volet conventionnel du dispositif est, par nature, non imposable aux contractants éventuels et repose sur un accord partenarial. En aucun cas, le ministère de l'éducation nationale, ou l'EPLE employeur, ne saurait, par conséquent, imposer, hors convention, la présence d'aides éducateurs au moment des repas ou lors d'activités hors temps scolaire.
