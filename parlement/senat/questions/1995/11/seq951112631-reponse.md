@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951112631
+
+- Question : [SEQ951112631](seq951112631.md) — Assujettissement des coopératives agricoles à la contribution de solidarité des sociétés
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 1996-03-28, page 744*
+
+Réponse. - La contribution sociale de solidarité des sociétés (CSS) participe au financement des régimes de protection sociale des travailleurs non salariés, en compensant l'amenuisement des ressources dû à la réduction de l'effectif de leurs ressortissants, qui lui-même résulte du développement des modes collectifs d'exploitation des entreprises. Afin de procurer les ressources budgétaires nécessaires à ces régimes sociaux, la loi de finances rectificative pour 1995 du 4 août 1995 a étendu le champ d'application de la contribution aux entreprises exploitées sous de nouvelles formes juridiques actuellement très employées, comme les sociétés en nom collectif, les groupements d'intérêt économique ou les coopératives. Comme la contribution elle-même, cette mesure d'extension constitue la mise en oeuvre d'un principe de solidarité à laquelle les coopératives doivent prendre part. Les coopératives artisanales ne peuvent qu'être sensibles à la nécessité de cette mesure dès lors que celle-ci a été adoptée dans l'intérêt des régimes sociaux dont leurs membres bénéficient à titre individuel. De plus, il est rappelé que le régime prend en compte la situation particulière des exploitations les plus modestes, qui n'ont pas à acquitter la contribution tant que le montant de leurs recettes n'atteint pas 5 millions de francs. Dans ces conditions, l'extension du champ d'application de la contribution sociale de solidarité des sociétés ne semble pas de nature à devoir faire obstacle à la constitution des coopératives artisanales dont l'existence répond à des considérations économiques fortes ou aux nécessités d'organisation de la profession concernée.
