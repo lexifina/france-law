@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910113176
+
+- Question : [SEQ910113176](seq910113176.md) — Rapport sur la sécurité dans les musées nationaux
+
+## Réponse
+
+*Culture, JO du 1991-02-21, page 358*
+
+Réponse. - La mission de sécurité des musées mise en place l'été dernier par le ministre de la culture, de la communication et des grands travaux était chargée d'une fonction d'étude de proposition et d'action. Elle a procédé au cours du semestre à plus de trente visites techniques d'établissements, qu'ils soient nationaux ou qu'ils relèvent de collectivités locales : régions, départements ou communes. A la suite de ces audits, des préconisations ont été faites qui ont pu être réalisées immédiatement ou sont inscrites dans les plans de modernisation des installations. Il est apparu en effet que la situation de chaque établissement devait faire l'objet d'un examen particulier en fonction de l'environnement, des locaux, des collections, des publics différents. Cependant le comité de sécurité des musées, ouvert largement aux responsables de diverses catégories d'établissements, travaille à la recherche des facteurs communs de la sûreté. Une documentation a été constituée, à disposition de tous les responsables sur les moyens de protection des oeuvres. Des fiches ont été mises au point sur les comportements à adopter face à certaines situations. Elles sont soumises aux membres du comité pour validation. Une large sensibilisation des chefs d'établissements et des responsables de la sécurité a été réalisée. Mais au delà de la protection des oeuvres c'est la sûreté générale des établissements qui est recherchée et la mission intervient journellement, à la disposition de tous les musées, quels que soit leur statut à titre de conseil, comme elle est intervenue au cours des mois écoulés, et en liaison avec le conseiller technique incendie, sur les projets de construction ou de rénovation de sept musées dans les régions.
