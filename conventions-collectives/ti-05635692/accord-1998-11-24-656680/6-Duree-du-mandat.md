@@ -1,7 +1,0 @@
-# Article 6 : Durée du mandat
-
-La durée du mandat des administrateurs est de 2 ans et commence au 1er janvier des années impaires.
-
-La qualité d'administrateur se perd par décès, démission du mandat ou cessation du contrat de travail.
-
-L'administrateur sortant est remplacé par un administrateur nommé dans les conditions prévues à l'article 5 pour la durée du mandat qui reste à courir.

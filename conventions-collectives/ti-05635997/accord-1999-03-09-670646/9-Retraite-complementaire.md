@@ -1,5 +1,0 @@
-# Article 9 : Retraite complémentaire
-
-Les banques pourraient permettre, dans le cadre de la délibération 22 B de l'ARRCO, aux bénéficiaires non cadres de l'allocation de remplacement de cotiser pour l'ARRCO au taux contractuel de 16 % minoré du taux obligatoire en tranche B.
-
-Le bénéficiaire acquittant en contrepartie les cotisations salariales dans les mêmes proportions que celles des salariés en activité et sur la base de leur rémunération d'activité.

@@ -1,3 +1,0 @@
-# Article 10 : Gratuité des fonctions
-
-Les fonctions d'administrateurs sont gratuites. Toutefois, ceux-ci ont droit au remboursement des frais de déplacement et de séjour nécessités par les réunions du conseil d'administration.
