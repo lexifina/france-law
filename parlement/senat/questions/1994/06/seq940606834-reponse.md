@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940606834
+
+- Question : [SEQ940606834](seq940606834.md) — Financement des crèches parentales
+
+## Réponse
+
+*Affaires sociales, JO du 1994-08-25, page 2059*
+
+Réponse. - La loi sur la famille votée par le Parlement s'attache à respecter la pluralité des aspirations des familles en matière d'accueil des jeunes enfants et à favoriser le libre choix de conciliation entre vie familiale et vie professionnelle. L'engagement financier quinquennal pris par le Gouvernement dans le cadre de cette loi permettra à la caisse nationale des allocations familiales d'intensifier ses efforts dans le domaine de la petite enfance, notamment par une meilleure indexation du prix plafond des prestations de services destinées aux crèches et haltes-garderies. Ainsi, la revalorisation sur 5 ans du prix plafond de la prestation de services permettra de réduire très significativement l'écart entre le prix plafond et le prix de revient des structures d'accueil, voire de le supprimer presque totalement dans le cas des crèches parentales. Cette mesure devrait améliorer sensiblement les conditions de financement des crèches parentales, qui offrent 8 300 places sur l'ensemble de la France. Par ailleurs, la création d'une allocation parentale d'éducation à taux partiel devrait pouvoir bénéficier largement aux usagers de ces structures. Enfin, la CNAF accentuera très sensiblement son effort en direction des haltes-garderies, ce qui devrait rapprocher les taux de financement des deux types de structures. En ce qui concerne les contrats enfance, ils seront rendus plus attractifs par une implication accrue des caisses d'allocations familiales, ce qui devrait inciter un plus grand nombre de municipalités à contracter. Dans cette perspective, les associations devraient pouvoir jouer pleinement leur rôle et mettre la qualité de leur savoir-faire au service des municipalités et des parents.
