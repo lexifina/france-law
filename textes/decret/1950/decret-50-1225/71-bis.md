@@ -14,11 +14,15 @@ II - La majoration pour conjoint à charge est accordée pour son montant intég
 
 Lorsque cette durée d'assurance est inférieure à trente-sept ans et demi, la majoration est réduite à autant de cent cinquantièmes que la pension rémunère de trimestres d'assurance, sans préjudice de l'application, le cas échéant, de l'article L. 676 du code de la sécurité sociale.
 
-III - La majoration pour conjoint à charge est due à compter de la date d'entrée en jouissance de la pension, si à cette date les conditions d'attribution sont remplies. Dans le cas contraire, elle est due à compter du premier jour du trimestre d'arrérages suivant celui au cours duquel le pensionné a justifié que toutes les conditions d'attribution sont remplies.
+III - La majoration pour conjoint à charge est due à compter de la date d'entrée en jouissance de la pension si, à cette date, les conditions d'attribution sont remplies.
 
-La majoration est payée jusqu'à la fin du trimestre d'arrérages au cours duquel est survenu le décès du conjoint.
+Dans le cas contraire, la majoration est due soit à compter du premier jour du mois suivant le trimestre au cours duquel le pensionné a justifié que la condition de ressources prévue au 3° du paragraphe 1er (I) ci-dessus est remplie, soit à compter du premier jour du mois suivant le mois au cours duquel il a justifié que les autres conditions d'attribution sont remplies ; toutefois, la majoration ne peut prendre effet antérieurement au premier jour du mois suivant la date de réception de la demande.
 
-Les intéressés doivent faire connaître les changements survenus dans les ressources de leur conjoint. Le service des arrérages est suspendu à compter du premier jour du trimestre d'arrérages suivant celui au cours duquel les ressources du conjoint ont excédé le quart du chiffre limite prévu au 3° du paragraphe 1er - I ci-dessus.
+Les intéressés doivent faire connaître les changements survenus dans les ressources de leur conjoint. Le service des arrérages est suspendu à compter du premier jour du mois suivant le trimestre au cours duquel les ressources du conjoint ont excédé le quart du montant limite mentionné au 3° du paragraphe 1er (I) ci-dessus.
+
+PAR. 1er bis - La majoration prévue au paragraphe 5 de l'article 1er bis du décret n° 51-727 du 6 juin 1951 est applicable lorsque le bénéficiaire a eu au moins trois enfants. Elle est égale à 10 p. 100 du montant de la pension.
+
+La majoration est due, à la date d'entrée en jouissance de la pension si, à cette date, les conditions d'attribution sont remplies. Dans le cas contraire, elle est due à compter du premier jour du mois suivant la date à laquelle ces conditions sont remplies.
 
 PAR. 2 - La pension de réversion prévue à l'article 2 (par. 2, 3 et 4) du décret n° 51-727 du 6 juin 1951 est égale à 52 p. 100 de la pension principale ou rente dont bénéficiait ou eût bénéficié l'assuré.
 
