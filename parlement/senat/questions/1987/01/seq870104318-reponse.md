@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870104318
+
+- Question : [SEQ870104318](seq870104318.md) — Haute-Garonne: préparation de l'année scolaire 1987-1988
+
+## Réponse
+
+*Éducation, JO du 1987-05-21, page 809*
+
+Réponse. -Les opérations d'attributions ou de retraits d'emplois dans le premier degré pour la rentrée scolaire 1987 ont été conduites avec le souci d'une part d'assurer les transferts d'emplois nécessaires pour les lycées, d'autre part de permettre un rééquilibrage en faveur de quelques départements où les effectifs sont en croissance régulière. Dans le département de la Haute-Garonne, les effectifs scolarisés dans le premier degré ont baissé de 3,97 p. 100 en six ans. De plus la situation de ce département ne semble pas défavorable. Ainsi, dans l'enseignement élémentaire, le taux d'encadrement moyen est de 22,12 alors que la moyenne des départements comptables a un taux de 22,69 et que la moyenne nationale (France métropolitaine) est de 22,33. De même, les classes maternelles sont relativement peu chargées bien que quelques difficultés en matière de remplacement (pourcentage de postes de remplacement de 6 p. 100 en 1985, 6,54 p. 100 en 1986) subsistent cependant. En tout état de cause, les retraits d'emplois prévus dans le département de la Haute-Garonne sont limités ; ils ont d'ailleurs été notablement révisés puisque la contribution de la Haute-Garonne a finalement été fixées à six postes. S'agissant des suppressions d'emplois à l'école normale de Toulouse, il convient de remarquer que cette mesure s'inscrit dans un dispositif plus général qui consiste à retirer 300 postes sur les 2 500 qui existent actuellement, soit 1 p. 100 des emplois. En effet, la diminution du nombre d'années passées par les élèves-instituteurs à l'école normale a pour conséquence logique la réduction des besoins en postes de professeurs de ces établissements. Ces emplois seront affectés dans l'enseignement du second degré, particulièrement dans les lycées.
