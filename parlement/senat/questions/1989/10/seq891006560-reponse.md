@@ -1,0 +1,9 @@
+# Réponse à la question SEQ891006560
+
+- Question : [SEQ891006560](seq891006560.md) — Identification visuelle des types de carburants
+
+## Réponse
+
+*Industrie, JO du 1990-02-15, page 319*
+
+Réponse. - Conformément à la législation, les carburants ne peuvent être vendus en France que sous les dénominations administratives définies par les arrêtés ministériels fixant leurs spécifications : essence, supercarburant, supercarburant sans plomb, gasoil... Ces dénominations doivent figurer clairement sur les pompes de distribution pour que le consommateur puisse choisir sans ambiguïté son carburant. Par ailleurs, afin d'éviter d'alimenter un véhicule équipé d'un pot catalytique avec du carburant plombé - ce qui endommagerait le catalyseur - la réglementation impose aux orifices des réservoirs de ces véhicules un diamètre qui ne permet pas l'introduction des pistolets distributeurs de carburant plombé. Le repérage d'un carburant par sa couleur pourrait effectivement compléter ce dispositif, même si le nombre de colorants disponibles n'est plus suffisant pour permettre la différenciation de tous les carburants. A cet égard, si la première identification des carburants doit rester la dénomination administrative, il est tout à fait envisageable de compléter l'information du consommateur par des dispositifs visuels lui permettant de voir la couleur du carburant. En outre, compte tenu d'une tendance des distributeurs à offrir de plus en plus de variantes de produits, il est sans doute souhaitable d'imposer l'indication de certaines caractéristiques spécifiques sur les appareils distributeurs (par exemple indices d'octane, températures de tenue au froid du gasoil, etc.). Le Gouvernement réfléchit actuellement à une modification de la réglementation en ce sens, pour faire en sorte que le consommateur dispose de toute l'information dont il a besoin sous une forme aussi simple et claire que possible.
