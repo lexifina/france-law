@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920219848
+
+- Question : [SEQ920219848](seq920219848.md) — Maintien des bureaux de poste en zone rurale
+
+## Réponse
+
+*Postes, JO du 1992-04-16, page 965*
+
+Réponse. - La démarche générale de La Poste est d'adapter son offre de services aux besoins de la population tout en prenant en compte ses propres contraintes d'exploitation, de personnel ou d'obligation de résultats. Compte tenu de la diversité des besoins en milieu rural, les services départementaux de La Poste s'efforcent de concilier leurs impératifs de gestion et le maintien du service sous une forme adaptée à chaque cas. La réorganisation des services postaux de la Corrèze intervenue le 1er janvier 1992 vise à répartir équitablement entre les établissements les moyens en personnel non titulaire, disponible dans le département, en fonction de leur niveau réel d'activité et de leurs potentialités de développement. Les modifications effectuées peuvent conduire à remettre en question les organisations existantes et à définir de nouvelles méthodes de travail, comme par exemple la mise en place de conseillers postaux itinérants, chargés d'apporter une aide technique aux receveurs de petits bureaux, voire de proposer eux-mêmes, au domicile des clients, l'ensemble des produits offerts par La Poste. Par contre, le service de la distribution postale n'est pas concerné par la réorganisation. Le rôle social de La Poste, assuré essentiellement en zone rurale par les facteurs, n'est donc pas remis en cause. Plus de 90 p. 100 des établissements postaux de la Corrèze étant situés en zone rurale, il n'est pas contestable que les bureaux touchés par des mesures de redéploiement soient plus nombreux dans cette zone qu'en milieu urbain. En tout état de cause, les mesures prises n'ont pas d'incidence sur la qualité du service offert aux usagers et ne préjugent en rien de la présence postale dans le département ni a fortiori du devenir des points de contact concernés.
