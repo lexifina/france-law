@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960214187
+
+- Question : [SEQ960214187](seq960214187.md) — Extension de la loi interdisant les poids lourds de circuler certains jours et sur certains axes routiers
+
+## Réponse
+
+*Équipement, JO du 1996-04-18, page 947*
+
+Réponse. - Les interdictions complémentaires de circulation des véhicules de transport de marchandises et de matières dangereuses font l'objet chaque année d'un nouvel arrêté afin d'adapter ces périodes d'interdiction aux prévisions de trafic. Les restrictions applicables en 1996 ont fait l'objet d'un arrêté le 19 janvier 1996 publié au Journal officiel du 31 janvier 1996. Elles n'ont pas repris intégralement les dispositions expérimentées en 1995, qui étendaient les restrictions jusqu'alors réservées aux poids lourds de plus de 7,5 tonnes aux poids lourds de plus de 3,5 tonnes. Deux régimes complémentaires se superposaient donc : le régime de restriction applicable aux 7,5 tonnes et un nouveau régime applicable sans dérogations aux plus de 3,5 tonnes sur certaines autoroutes et aux 7,5 tonnes sur les routes associées à ces autoroutes. Le bilan de ce régime est apparu mitigé. L'objectif d'améliorer la circulation a été seulement atteint en partie, l'application de la mesure ayant généré des problèmes de stockage des poids lourds. Par ailleurs, cette nouvelle réglementation s'est avérée beaucoup trop complexe, rendant très difficile la communication et le contrôle par ailleurs indispensable. Le texte établi pour 1996 a tenu compte de ce bilan en proposant une simplification et une clarification du régime d'interdiction complémentaire, tout en visant la meilleure adéquation à l'objectif d'amélioration de la circulation. Il en est résulté une mesure concernant uniquement les poids lourds de plus de 7,5 tonnes qui devront respecter des restrictions, sans dérogation, pendant sept jours sur des réseaux déterminés en fonction des difficultés attendues.
