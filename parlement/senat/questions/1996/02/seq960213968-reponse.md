@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960213968
+
+- Question : [SEQ960213968](seq960213968.md) — Journée universelle des droits de l'enfant
+
+## Réponse
+
+*Affaires étrangères, JO du 1996-03-07, page 516*
+
+Réponse. - Comme le sait l'honorable parlementaire, la défense des droits de l'enfant constitue de longue date une des priorités en matière de droits de l'homme pour la France qui a contribué activement à la préparation et à l'adoption de la Convention internationale relative aux droits de l'enfant, qui est aujourd'hui ratifiée par plus de cent soixante pays. Si elle est un des instruments internationaux de protection des droits de l'homme auxquels le plus grand nombre d'Etats sont parties, cette convention n'est malheureusement pas toujours appliquée. Aussi l'idée de faire du 20 novembre, date anniversaire de l'adoption de cette convention, une journée universelle des droits de l'enfant apparaît-elle opportune pour rappeler aux Etats leurs obligations en ce domaine. Cette date pourrait être appelée à remplacer celle de la journée mondiale de l'enfance, dont la célébration le premier lundi du mois d'octobre a été instaurée en 1954 par l'assemblée générale des Nations unies. Une proposition africaine - plus restreinte - d'instaurer, le 20 novembre, une journée internationale de la protection de la petite fille a bénéficié d'une large soutien lors de la dernière assemblée générale des Nations Unies mais a échoué en raison de l'opposition de certains Etats. Aussi, le ministère des affaires étrangères se propose dans un premier temps d'approcher le comité des droits de l'enfant, organe compétent au sein du système des Nations Unies, pour explorer les possibilités de modification de la date de la journée mondiale consacrée à l'enfance, et l'opportunité d'un recentrage de son objet sur la promotion de la Convention internationale relative aux droits de l'enfant.
