@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020802019
+
+- Question : [SEQ020802019](seq020802019.md) — Simplification du dispositif " travailleur occasionnel " pour les groupements d'employeurs
+
+## Réponse
+
+*Agriculture, JO du 2003-01-02, page 31*
+
+Le décret n° 95-703 du 9 mai 1995, modifié notamment par le décret n° 2000-594 du 29 juin 2000 et le décret n° 2001-558 du 28 juin 2001, ouvre largement le bénéfice des taux réduits de cotisations pour l'emploi de travailleurs occasionnels aux groupements d'employeurs. Le décret prévoit en particulier que ces groupements bénéficient désormais du dispositif pour les travailleurs occasionnels qu'ils embauchent sous contrats de travail à durée indéterminée. Ils bénéficient également d'un allégement des charges majoré pour les contrats de travail à durée indéterminée conclus dans les productions suivantes : viticulture, horticulture, fruits et légumes, tabac, houblon, pommes de terre et apiculture. Le taux d'exonération dont bénéficie un groupement d'employeurs pour un salarié au titre d'un mois donné est celui qui correspond à l'activité majoritaire du groupement pendant ce mois, estimée en fonction d'une part de la spécialisation des adhérents, d'autre part des durées respectives des mises à disposition du salarié auprès des adhérents pendant le mois considéré. A partir des déclarations de spécialisation renseignées annuellement par les adhérents et des déclarations trimestrielles de main-d'oeuvre que leur transmettent les groupements d'employeurs, les caisses de mutualité sociale agricole sont à même de gérer ce dispositif en faisant coïncider au plus près de la réalité les types de cultures, les taux réduits de cotisations y correspondant et l'occupation effective de chaque salarié, conformément aux dispositions de l'article L. 741-16 du code rural et de son décret d'application mentionné ci-dessus.
