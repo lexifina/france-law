@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990919135
+
+- Question : [SEQ990919135](seq990919135.md) — Grève à la médiathèque de la Cité des sciences
+
+## Réponse
+
+*Culture, JO du 1999-12-23, page 4218*
+
+Réponse. - Le mouvement social interne à la médiathèque de la Cité des sciences et de l'industrie qui a débuté le 1er septembre a eu pour origine plusieurs revendications, parmi lesquelles la nature du projet culturel entreprise à travers la médiathèque, le traitement de situations individuelles et le rétablissement de moyens en effectifs réduits au cours de la période récente. Au moment où la Cité des sciences et de l'industrie s'engage dans une nouvelle dynamique se traduisant par la formalisation d'un " contrat d'objectifs " approuvé par son conseil d'administration, les salariés de la médiathèque ont fait part de leurs interrogations sur la place de cette dernière dans l'offre culturelle et les axes de développement de la Cité des sciences et de l'industrie. Le rôle particulier de la médiathèque dans l'offre culturelle de la Cité des sciences et de l'industrie a été confirmé par la direction de l'établissement. Les deux situations individuelles évoquées dans la plate-forme revendicative ont été traitées. Les personnels en grève ont par ailleurs fait valoir que leurs unités connu au cours des derniers exercices des suppressions d'emplois qui compromettaient le fonctionnement normal des services. La médiathèque a contribué pour trois postes à la réduction de dix-huit postes budgétaires qu'a subie la Cité des sciences et de l'industrie en 1997. Toutefois, la création d'activités nouvelles tournées vers les nouvelles technologies de l'information et de la communication a conduit à des redéploiements internes en 1999 au profit de la médiathèque, qui seront complété en 2000. Le mouvement de grève a pris fin le 5 octobre 1999 avec une reprise générale du travail des personnels de la médiathèque.
