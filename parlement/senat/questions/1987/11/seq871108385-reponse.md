@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871108385
+
+- Question : [SEQ871108385](seq871108385.md) — Fonctionnement des caisses de sécurité sociale des DOM
+
+## Réponse
+
+*Agriculture, JO du 1987-12-17, page 1966*
+
+Réponse. -Le décret annuel relatif au financement du régime de protection sociale des exploitants agricoles dans les départements d'outre-mer paraît au Journal officiel après celui qui régit le montant des cotisations pour la métropole. Cette situation tient au fait que les dispositions retenues pour les départements d'outre-mer sont calquées, dans les limites fixées par la réglementation, sur celles des autres départements français et qu'ils convient de s'assurer de la signature du ministre du budget pour le décret concernant la métropole avant d'effectuer les procédures de contreseings simultanés pour les départements d'outre-mer. Il convient de préciser en outre que le décret relatif à ces derniers départements concerne deux départements ministériels de plus et que le temps requis pour recueillir les signatures est de ce fait nécessairement plus long. Il est néanmoins vrai que, ces dernières années, le décalage constaté entre les dates de publication au Journal officiel était assez important, du fait de circonstances conjoncturelles dues à la difficulté de fixer certains niveaux de cotisations dans les départements d'outre-mer. A l'avenir, ce décalage devrait aller en diminuant. Il convient d'ajouter enfin que le décret du 9 février 1987 déterminant les modalités de recouvrement des cotisations dans les départements d'outre-mer a un caractère permanent et que, dans ce texte, la date de paiement du dernier appel de cotisation est prévue un mois après celle qui a été retenue pour la métropole, ce qui donne plus de temps aux caisses générales de sécurité sociale pour procéder aux opérations d'appel des cotisations.
