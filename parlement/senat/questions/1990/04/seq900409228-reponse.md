@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900409228
+
+- Question : [SEQ900409228](seq900409228.md) — Contenu d'une émission télévisée
+
+## Réponse
+
+*Culture, JO du 1990-07-05, page 1473*
+
+Réponse. - Les décisions concernant la programmation de telle ou telle émission relèvent de la seule responsabilité des dirigeants d'Antenne 2. Aux termes de la loi du 30 septembre 1986, cette responsabilité éditoriale s'exerce sous le contrôle du Conseil supérieur de l'audiovisuel ; celui-ci a écrit aux dirigeants d'Antenne 2 et a publié le communiqué suivant : A l'occasion de la diffusion, par Antenne 2, du premier épisode la série documentaire " L'amour en France ", consacré à l'éducation sexuelle des jeunes enfants, le C.S.A. a rappelé qu'aucune atteinte ne doit être portée à la dignité de la personne humaine. En particulier, toutes les précautions doivent être prises, dans la programmation des chaînes, pour qu'aucune violence psychologique ne soit être infligée aux enfants. En conséquence, le conseil a demandé aux responsables d'Antenne 2 de veiller personnellement au respect de ce principe. Antenne 2 a parfaitement assumé ses responsabilités. L'émission " L'amour en France " a été conçue et réalisée par deux personnalités dont l'indépendance et le talent sont reconnus. En outre, en raison du caractère sensible du sujet traité, la liberté de revenir sur leur accord a été laissée aux personnes filmées jusqu'à la diffusion de cette émission. Cette diffusion a d'ailleurs été effectuée en dehors des heures de grande écoute. Par ailleurs, la chaîne a décidé d'organiser à l'antenne un débat à l'issue des dernières émissions de cette série, ce qui constitue une bonne réponse aux questions, critiques et inquiétudes qu'elles a suscitées. Ce débat a été programmé le 24 avril dernier dans le cadre de l'émission " Les dossiers de l'écran ".
