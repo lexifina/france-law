@@ -1,12 +1,6 @@
 # Article ANNEXE
 
-FONCTIONS POUVANT OUVRIR DROIT À L'ATTRIBUTION
-
-DE LA NOUVELLE BONIFICATION INDICIAIRE
-
-I. - Au titre de fonctions d'encadrement assorties de contraintes
-
-et de responsabilités particulières
+I. - Au titre de fonctions d'encadrement assorties de contraintes et de responsabilités particulières
 
 Ingénieur des travaux des eaux et forêts, chef de l'une des divisions implantées en Champagne-Ardenne ou en Lorraine ayant les effectifs de personnel technique les plus nombreux ;
 
@@ -14,11 +8,13 @@ Adjoint à un chef de division territoriale affecté en Champagne-Ardenne ou en 
 
 Chef de service administratif de l'une des directions régionales dont les produits sont les plus importants ;
 
-Chef de groupe technique assurant l'encadrement d'une équipe importante de chefs de triage.
+Chef de groupe technique assurant l'encadrement d'une équipe importante de chefs de triage ;
 
-II. - Au titre de contraintes géographiques
+Chef de division territoriale dont les effectifs sont les plus importants.
 
-ou d'une technicité particulière
+Technicien forestier exerçant des fonctions d'encadrement de niveau particulièrement élevé.
+
+II.- Au titre de contraintes géographiques ou d'une technicité particulière
 
 Chef de triage non logé dans les départements de la Haute-Marne ou de la Meuse, dont la résidence administrative est située dans une commune rurale ;
 
@@ -29,6 +25,8 @@ Poste de technicien requérant une haute compétence ;
 Poste d'agent forestier requérant une forte compétence technique ;
 
 Régisseur de recettes et de dépenses en fonctions dans une régie importante.
+
+Chef de triage non logé dont la résidence administrative est située dans certaines communes rurales, à l'exclusion des départements de la Haute-Marne et de la Meuse.
 
 III. - Au titre de la modernisation de l'administration
 
@@ -51,3 +49,7 @@ Poste d'assistant du responsable de formation professionnelle ou des affaires fi
 Chef de groupe technique exerçant, outre les fonctions afférentes à son emploi, certaines fonctions techniques spécifiques ;
 
 Chef de triage exerçant, outre les fonctions afférentes à son emploi, certaines fonctions techniques spécifiques.
+
+Poste de responsable exerçant des fonctions requérant une forte technicité dans un domaine logistique, administratif, de communication ou de contrôle de gestion.
+
+Agent exerçant des fonctions requérant une forte technicité dans un domaine logistique, administratif, juridique, financier, en matière de communication, de mise en oeuvre de procédures ou de secrétariat.
