@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030507784
+
+- Question : [SEQ030507784](seq030507784.md) — Renforcement des moyens de l'Office national des anciens combattants et victimes de guerre (ONAC)
+
+## Réponse
+
+*Anciens combattants, JO du 2003-08-21, page 2607*
+
+Le contrat d'objectifs et de moyens signé par l'Office national des anciens combattants et victimes de guerre (ONAC) le 4 novembre 2002 prévoit effectivement le recrutement de cent agents de catégorie A, afin de développer les actions et d'augmenter le nombre de postes d'assistantes sociales dans les services départementaux de cet établissement public. Les délégués à la mémoire combattante seront notamment recrutés parmi les assistants-mémoire qui relèvent actuellement d'un contrat de droit privé d'emploi-jeune. La plus grande partie de ces emplois, soit soixante-quatre contrats, seront contractualisés en 2004, s'ils remplissent les conditions de diplôme pour être nommés en catégorie A et si leur manière de servir a donné toute satisfaction à leurs directeurs. Il est ensuite prévu de recruter une dizaine de délégués par an entre 2005 et 2007. Pour ce qui concerne les postes d'assistantes de service social, le contrat en prévoit trente-neuf à temps complet et quarante-huit à temps partiel à 50 %. Neuf départements métropolitains n'auront pas de postes mais seront soutenus par une assistante sociale d'un département limitrophe. Vingt-sept assistantes sociales sont actuellement en activité. Les recrutements sont prévus dès cette année et s'échelonneront sur toute la durée du contrat d'objectifs et de moyens : en 2003, treize postes équivalent temps plein, en 2004, quatre postes équivalent temps plein, en 2005, cinq postes équivalent temps plein ; en 2006, dix postes équivalent temps plein et, en 2007, quatre postes équivalent temps plein. Ces recrutements permettront ainsi à l'ONAC de mieux remplir ses missions pour répondre aux besoins du monde combattant.
