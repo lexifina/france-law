@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881202832
+
+- Question : [SEQ881202832](seq881202832.md) — Situation d'Air-Afrique
+
+## Réponse
+
+*Coopération, JO du 1989-03-30, page 522*
+
+Réponse. - Une conférence des dix chefs d'Etats membres de la Compagnie Air Afrique s'est tenue le 2 février 1989 en Côte-d'Ivoire afin d'arrêter un plan de redressement de la Compagnie. Les chefs d'Etat ont rappelé leur attachement au maintien de cette compagnie qui gère les droits de trafic détenus par les pays membres et représente un élément important de solidarité régionale africaine et de désenclavement pour bon nombre d'Etats concernés. Une série de décisions ont été prises qui doivent être appliquées sans délais, notamment : application rigoureuse du principe de l'exploitation des relations internationales par la seule Compagnie Air Afrique ; adaptation des vols d'Air Afrique aux données économiques ; compression significative du personnel ; rationalisation des installations de maintenance ; apurement des arriérés des Etats à l'égard d'Air Afrique et non-reconstitution de nouveaux arriérés ; changement de l'équipe dirigeante ; caractère d'entreprise commerciale de la compagnie, gérée selon les règles de droit privé. La France appuiera cette entreprise de redressement, par ses hommes et ses moyens financiers au vu des engagements pris et de leur stricte réalisation. Les montants financiers apportés iront notamment au règlement de certaines dettes et permettront de reconstituer le fonds de roulement de la société. Les montants envisagés seront mis à la disposition des Etats sous forme de prêts et de dons, en plusieurs tranches, pour leur permettre de faire face aux obligations découlant des décisions du 2 février. Cette aide s'inscrira donc dans le cadre de l'aide globale qui leur est apportée. Le montant de subvention envisagé et son mécanisme sont en cours d'étude.
