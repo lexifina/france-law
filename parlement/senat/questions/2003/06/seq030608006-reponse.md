@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030608006
+
+- Question : [SEQ030608006](seq030608006.md) — Grèves des personnels enseignants à l'étranger
+
+## Réponse
+
+*Affaires étrangères, JO du 2003-08-21, page 2593*
+
+Les enseignants recrutés par l'Agence pour l'enseignement français à l'étranger et affectés par elle dans les établissements du réseau sont les garants de la qualité pédagogique et de la conformité des enseignements aux programmes français. L'excellente réputation dont jouissent d'ailleurs les établissements scolaires français à l'étranger tient assez largement au fait que leurs enseignants, dont la compétence est partout reconnue, peuvent y exercer leur métier dans des conditions de droit analogues à celles qui sont en vigueur en France. En effet, en tant qu'agents publics servant à l'étranger, ils bénéficient, comme leurs collègues en service en France, de l'ensemble des droits reconnus par la Constitution, les textes législatifs, réglementaires et la jurisprudence, notamment le droit de grève. Certes, l'exercice de ce droit doit rester compatible avec la législation du pays d'accueil et les chefs de mission diplomatique ont la responsabilité d'apprécier la réalité et l'étendue dans leur pays de résidence des contraintes susceptibles de justifier un aménagement des modalités d'exercice du droit syndical. Les agents de recrutement local, régis par le droit du pays d'accueil, sont quant à eux soumis en matière de droit de grève à la législation locale. Les conditions d'exercice de la fonction d'enseignant à l'étranger sont d'ores et déjà explicitées dans la " lettre de mission " jointe au contrat des agents. Il leur est rappelé que le devoir de réserve, qui s'applique à tout fonctionnaire, s'exerce avec plus d'acuité à l'étranger mais ce devoir ne peut aboutir à l'interdiction pure et simple du droit de grève.
