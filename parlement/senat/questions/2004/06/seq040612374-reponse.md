@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040612374
+
+- Question : [SEQ040612374](seq040612374.md) — Préservation du service public d'édition des normes juridiques assuré par les Journaux officiels
+
+## Réponse
+
+*Premier ministre, JO du 2004-10-14, page 2330*
+
+La réforme des conditions de publication des textes, mise en oeuvre sur le fondement d'une habilitation donnée par le Parlement, montre que le Gouvernement partage pleinement les préoccupations de l'honorable parlementaire. Le principe retenu par la réforme, dans le droit-fil des préconisations faites par un rapport du Conseil d'Etat, est celui de la double publication, en version imprimée et sous forme informatique, des lois et des actes administratifs. Seuls les actes administratifs qui, du fait de leur objet et de leur portée, n'intéressent qu'un public spécialisé et bien équipé, peuvent faire l'objet d'une unique publicité électronique. Leur liste est fixée par décret pris en Conseil d'État. La publication informatique des actes est réalisée par la direction des Journaux officiels dans des conditions garantissant la fiabilité des données. L'économie d'ensemble de cette réforme permet, tout à la fois, de moderniser le fonctionnement du service public, d'améliorer l'accès au droit et d'inciter nos concitoyens à l'usage des nouveaux instruments d'information, tout en prenant en compte l'inégal accès des personnes, organismes et entreprises à ces instruments. Cette entreprise de modernisation du service, qui ne concerne d'ailleurs pas la seule diffusion, mais passe aussi, en amont, par de nouvelles conditions de production fondées sur le développement de la saisie à la source des données, nécessite d'importants investissements. En 2004, près de 9 millions d'euros auront été consacrés à la rénovation des systèmes de production éditoriale et d'impression.
