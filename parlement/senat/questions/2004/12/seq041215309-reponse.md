@@ -1,0 +1,9 @@
+# Réponse à la question SEQ041215309
+
+- Question : [SEQ041215309](seq041215309.md) — Imposition additionnelle à la taxe professionnelle pour les chambres de commerce et d'industrie d'outre-mer
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2005-03-10, page 702*
+
+Le Gouvernement a engagé une réforme globale des chambres de commerce et d'industrie (CCI) pour leur permettre d'accomplir leurs missions de manière plus efficace. Dans cet objectif de modernisation, la refonte du financement public des compagnies consulaires a d'ores et déjà été opérée dans le cadre de la loi de finances rectificative pour 2004. Le nouveau dispositif qui n'a pas retenu de mesures dérogatoires au profit des départements d'Outre-mer, permet désormais de renforcer la responsabilité des chambres sur la détermination de leurs ressources et sur leur niveau de pression fiscale. Dorénavant, les chambres consulaires sont en effet invitées à voter directement le taux de l'imposition additionnelle à la taxe professionnelle (IATP) dans la limite de celui de l'année précédente majoré de l'augmentation prévue par la loi de finances. Toutefois, afin d'assurer une bonne transition de la réforme au regard de leurs ressources, les modalités de détermination des taux 2004, servant de référence à la fixation du taux 2005, seront assouplies. Ainsi, pour les CCI qui constateraient une baisse de leurs bases imposées ou qui verraient leurs bases d'imposition augmenter de moins de 1,5 % l'année de la réforme de leur financement, le taux de référence 2004 est corrigé en proportion inverse des bases constatées entre 2004 et 2005. Ce dispositif garantit pour toutes les CCI leur niveau de ressources. Par ailleurs, a également été adoptée dans la loi de finance rectificative pour 2004 la possibilité pour les chambres dont le taux est sensiblement inférieur à la moyenne nationale, d'engager un processus de revalorisation progressif.
