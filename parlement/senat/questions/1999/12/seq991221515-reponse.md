@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991221515
+
+- Question : [SEQ991221515](seq991221515.md) — Emissions cultuelles télévisées
+
+## Réponse
+
+*Culture, JO du 2000-02-24, page 672*
+
+Réponse. - L'honorable parlementaire a bien voulu appeler l'attention de la ministre de la culture et de la communication sur l'avenir des émissions à caractère religieux diffusées le dimanche matin sur France 2. Il convient de rappeler qu'aux termes de la loi du 30 septembre 1986 modifiée relative à la liberté de communication, les dirigeants des sociétés nationales de programme sont seuls responsables de leur programmation définie dans leur cahier des missions et des charges. Dans ce cadre, en application de l'article 56 de la loi nº 86-1067 du 30 septembre 1986 relative à la communication audiovisuelle et des obligations inscrites dans son cahier des missions et des charges, la chaîne publique France 2 est tenue de programmer le dimanche matin des émissions religieuses consacrées aux principaux cultes pratiqués en France. Ces émissions, placées sous la responsabilité des représentants de ses cultes, se présentent sous de retransmissions culturelles ou de commentaires religieux. A l'occasion des débats au Parlement sur le projet de loi modifiant la loi nº 86-1067 du 30 septembre 1986 relative à la liberté de la communication, plusieurs amendements ont été proposés par des députés qui souhaitaient non pas supprimer cette diffusion, mais en rendre possible le partage entre France 2 et France 3. Toutefois, considérant que la diffusion d'émissions religieuses le dimanche matin sur France 2 était une tradition bien ancrée, le Gouvernement ne s'est pas montré favorable à cette modification. Enfin, si des modifications devaient être proposées, elles ne sauraient être décidées sans concertation préalable avec les responsables des cultes concernés.
