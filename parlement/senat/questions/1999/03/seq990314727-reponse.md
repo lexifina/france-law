@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990314727
+
+- Question : [SEQ990314727](seq990314727.md) — Nombre de procès-verbaux de nature contraventionnelle
+
+## Réponse
+
+*Intérieur, JO du 1999-05-20, page 1696*
+
+Réponse. - En 1998, les services de la préfecture de police ont dressé 8 643 126 procès-verbaux pour infraction au code de la route sur l'ensemble de la capitale, dont 8 189 126 pour des infractions aux règles du stationnement. Environ 14 % d'entre eux ont été exclus à un moment ou un autre de la chaîne de traitement. Le classement des procès-verbaux peut avoir plusieurs origines. Il y a tout d'abord les erreurs matérielles qui peuvent être commises par l'agent verbalisateur lors de la rédaction de l'avis de contravention. Par ailleurs, les textes en vigueur rendent particulièrement difficile l'engagement de poursuites à l'encontre des conducteurs de véhicules immatriculés à l'étranger. Enfin, certaines catégories professionnelles ou sociales (médecins, diplomates, personnes handicapées...) bénéficient de tolérances de stationnement définies par circulaires ministérielles. S'agissant des demandes d'indulgence présentées par les élus, elles ont donné lieu, en 1998, à 20 741 retraits de procédure, soit 0,24 % du total des procès-verbaux dressés à Paris. S'agissant des départementaux métropolitains, 115 438 délits, 1 771 348 contraventions relatives à l'équipement des véhicules et aux règles de conduite et 2 341 453 autres pour des infractions au stationnement ont été relevés en 1997 par les services de police qui relèvent de l'autorité de la direction centrale de la sécurité publique. La décision de classement des infractions ne relevant pas de la compétence du ministère de l'intérieur, mais de celle des parquets, il n'appartient pas à ce ministère de commenter l'information publiée dans l'hebdomadaire cité.
