@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890504722
+
+- Question : [SEQ890504722](seq890504722.md) — Fonctions d'officiers de police judiciaire des maires ruraux
+
+## Réponse
+
+*Justice, JO du 1989-09-07, page 1461*
+
+Réponse. - En application de l'article 16-1° du code de procédure pénale, les maires et leurs adjoints ont la qualité d'officier de police judiciaire. Dans l'exercice de ces fonctions ils relèvent de la direction du procureur de la République, de la surveillance du procureur général et du contrôle de la chambre d'accusation (articles 12 et 13 du code de procédure pénale). Ils peuvent en particulier, sur les instructions du procureur de la République (article 41 du code de procédure pénale) ou du juge d'instruction (article 81, alinéa 6 du code de procédure pénale), être amenés à diligenter des enquêtes sur la personnalité des personnes poursuivies ainsi que sur leur situation matérielle, familiale ou sociale. Or les maires, notamment lorsqu'il s'agit de communes rurales où ne résident pas d'autres officiers de police judiciaire, sont à même d'apporter une aide efficace à l'autorité judiciaire en raison de leur connaissance personnelle de la plus grande partie des habitants de leur commune. Il est vrai cependant, ainsi que le relève l'honorable parlementaire que, dans certains cas, en particulier dans les petites communes, les missions qui peuvent être confiées aux maires par l'autorité judiciaire risquent de devenir pour eux une cause de difficultés avec certains de leurs administrés. Aussi, s'il ne saurait être question d'affranchir les maires de commune rurale de l'obligation qui leur incombe de prêter leur concours à la justice, l'article C. 45 de l'instruction générale sur l'application des dispositions du code de procédure pénale recommande-t-il aux procureurs de la République, dans la mesure de possible, de recourir de préférence à d'autres officiers de police judiciaire.
