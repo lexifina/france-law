@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001128871
+
+- Question : [SEQ001128871](seq001128871.md) — Impôts locaux, base de calcul de la taxe d'enlèvement des ordures ménagères
+
+## Réponse
+
+*Économie, JO du 2001-04-05, page 1171*
+
+Réponse. - Conformément à l'article 1521 du code général des impôts la taxe d'enlèvement des ordures ménagères porte sur toutes les propriétés assujetties à la taxe foncière sur les propriétés bâties ou qui en sont temporairement exonérées, à l'exception des immeubles situés dans la partie de la commune où ne fonctionne pas le service. Par conséquent, cette taxe est due pour les locaux à usage de garage (garages, parkings et emplacements de stationnement collectifs) imposés à la taxe foncière sur les propriétés bâties. Certes, l'utilisation des locaux à usage de garage ne nécessite pas d'importantes interventions des services de nettoiement mais ces interventions ne sauraient être exclues. Il n'est donc pas envisagé de modifier le champ d'application de la taxe d'enlèvement des ordures ménagères. Cela étant, il convient d'observer que les cotisations de taxe d'enlèvement des ordures ménagères des locaux à usage de garage sont faibles, eu égard à la modicité du revenu net foncier d'après lequel les propriétés de cette nature sont imposées à la taxe foncière sur les propriétés bâties. En tout état de cause, les communes ou les établissements publics de coopération intercommunale qui souhaitent que les habitants rénumèrent précisément le service assuré peuvent instituer la redevance d'enlèvement des ordures ménagères prévue à l'article L. 233-76 du code général des collectivités territoriales au lieu de la taxe d'enlèvement des ordures ménagères. Cette redevance est calculée en fonction de l'importance du service rendu. Le choix entre les différents modes de financement du service d'enlèvement des ordures ménagères appartient aux élus locaux.
