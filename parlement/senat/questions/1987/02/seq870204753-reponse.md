@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870204753
+
+- Question : [SEQ870204753](seq870204753.md) — Mise en circulation d'instruments de paiement libellés en ECU
+
+## Réponse
+
+*Économie, JO du 1987-10-01, page 1552*
+
+Réponse. -Dans le cadre de la commémoration du trentième anniversaire du traité de Rome, la Belgique a décidé de frapper deux pièces d'or et d'argent portant une dénomination en ECU. Si ces pièces ont cours légal en Belgique, elles n'ont cependant pas vocation à être utilisées dans les transactions courantes comme des monnaies divisionnaires, puisque leur prix d'émission est très supérieur à leur valeur faciale et à leur valeur métallique. Il ne s'agit donc pas de l'émission d'une véritable pièce de monnaie communautaire, mais de l'initiative d'un pays membre visant à promouvoir dans le public ce symbole de la coopération monétaire dans la C.E.E. qu'est l'ECU. La France, qui n'a pas ménagé ses efforts dans le passé pour développer les usages privés et publics de l'ECU, souhaite qu'il soit possible dans l'avenir de frapper des ECU destinés à circuler sur l'ensemble du territoire de la Communauté, avec valeur libératoire. Une telle émission, qui consacrerait l'évolution de l'ECU vers un statut de monnaie parallèle aux monnaies nationales, n'est cependant pas possible dans l'immédiat. Elle suppose en effet qu'un certain nombre de problèmes relatifs au renforcement et à l'institutionnalisation de la coopération monétaire européenne soient résolus et que le statut de l'ECU soit reconnu par tous les Etats membres. Des difficultés d'ordre matériel, liés notamment à la double expression des prix en monnaie nationale et en ECU devront par ailleurs être surmontées. Ces diverses conditions ne paraissent pouvoir être réunies que dans le cadre d'une avancée importante de la construction monétaire européenne.
