@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010935192
+
+- Question : [SEQ010935192](seq010935192.md) — Mesures visant à favoriser le maintien de l'offre du français en Suisse alémanique
+
+## Réponse
+
+*Affaires étrangères, JO du 2001-11-15, page 3626*
+
+Le maintien du français dans la partie alémanique de la Suisse représente un enjeu crucial pour le rayonnement de notre langue en Europe, mais pose également de délicats problèmes de politique interne suisse. Dans le cadre de l'année européenne des langues, le ministère des affaires étrangères a d'ores et déjà demandé à l'ambassade de France en Suisse d'entreprendre en 2001 des actions nouvelles, destinées à renforcer la présence du français en Suisse alémanique, notamment par le recours à des activités extrascolaires innovantes : expositions de littérature de jeunesse dans les bibliothèques municipales et centres de documentation pédagogique à Zurich, Saint-Gall, et Lucerne. Ces mesures seront prolongées en 2002 ; invitation d'écrivains français avec l'Association suisse des professeurs de français (rencontres avec les élèves, lectures publiques, conférences grand public) ; actions de communication pour faire connaître les classes organisées par la cité de La Villette et les classes culture internationales, pour contribuer à la diffusion de la culture scientifique et technique française, et du patrimoine artistique français ; actions auprès des autorités éducatives pour accroître le nombre d'assistants français en zone alémanique ; à la demande de la conférence des directeurs cantonaux de l'instruction publique elle-même, lancement d'une politique d'échanges scolaires (entre classes, élèves et enseignants), en liaison également avec l'Office franco-allemand pour la jeunesse, et de stages en entreprises dans les deux pays, dans le domaine de l'enseignement professionnel.
