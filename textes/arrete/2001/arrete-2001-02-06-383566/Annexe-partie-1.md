@@ -2726,7 +2726,7 @@ Piprocurarium.
 
 |
 
-Plomb (composés, à l'exception de celui nommément désigné à l'arrêté fixant la liste des substances qui ne peuvent être utilisées dans les produits cosmétiques en dehors des restrictions et conditions fixées par cette liste, au numéro 55).
+Plomb et ses composés
 
 |
 
