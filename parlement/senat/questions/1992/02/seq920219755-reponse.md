@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920219755
+
+- Question : [SEQ920219755](seq920219755.md) — Déductibilité fiscale des travaux immobiliers
+
+## Réponse
+
+*Budget, JO du 1992-05-14, page 1124*
+
+Réponse. - Les charges déductibles pour l'assiette des revenus fonciers sont énumérées à l'article 31 du code général des impôts. La création d'un régime de déduction des dépenses inspiré de celui des bénéfices industriels et commerciaux ne dispenserait pas en tout état de cause de définir à quelle catégorie (dépense immédiatement déductible ou simplement amortissable) se rattachent les frais exposés. En outre, un système optionnel équitable supposerait que les propriétaires fonciers exercent une option durable et qu'ils ne puissent choisir certaines années la déduction des frais réels et d'autres années la déduction forfaitaire. Un tel système obligerait en outre de simples particuliers à tenir une comptabilité pour justifier leurs déductions, ce qui serait compliqué, notamment pour la détermination de l'annuité d'amortissement. Cela dit, dans des conditions normales d'exploitation et sur une longue période, le régime actuel ne pénalise pas les bailleurs d'immeubles. En effet, la déduction s'applique au même taux à tous les immeubles urbains donnés en location, même amortis. Elle s'actualise avec les loyers et n'est pas prise en compte, contrairement à un amortissement, pour le calcul des plus-values lors de la cession du bien. Enfin, la jurisprudence définit clairement quelles sont les dépenses qui sont déductibles ou non des revenus fonciers. L'application des principes dégagés par la jurisprudence au cas par cas, en fonction des situations propres à chaque espèce ne nécessite qu'un minimum de logique et de bon sens. Pour l'ensemble de ces motifs, il ne paraît pas souhaitable de modifier les dispositions actuelles.
