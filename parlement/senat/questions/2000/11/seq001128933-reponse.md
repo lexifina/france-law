@@ -1,0 +1,9 @@
+# Réponse à la question SEQ001128933
+
+- Question : [SEQ001128933](seq001128933.md) — Disparité entre les maîtres de l'enseignement public et de l'enseignement privé
+
+## Réponse
+
+*Éducation, JO du 2001-02-01, page 397*
+
+Réponse. - L'article L. 914-1 du code de l'éducation (ancien art. 15 de la loi Debré du 31 décembre 1959 régissant les rapports entre l'Etat et les établissements d'enseignement privés) a posé un principe de parité entre la situation des maîtres de l'enseignement public et celle des maîtres des établissements privés pour les conditions de service, les conditions de cessation d'activité, les mesures sociales, les possibilités de formation, les mesures de promotion et les mesures d'avancement. Alors que la nature du contrat d'enseignement passé avec l'autorité académique n'a pas été définie par la loi Debré et ses textes d'application, la jurisprudence a néanmoins reconnu un caractère administratif à ce contrat, ces maîtres constituant une catégorie particulière d'agents publics et la convention passée entre un maître contractuel et l'autorité académique étant qualifiée de contrat de droit public. Toutefois, les tribunaux judiciaires se sont reconnus compétents pour connaître des différends liés à la relation de travail entre le maître et le chef d'établissement. La situation des maîtres est à l'évidence complexe. Aussi un groupe de travail, dont la première séance s'est déroulée au cours du mois de novembre 2000, a-t-il pour mission de mener une réflexion sur la situation des maîtres des établissements d'enseignement privés. L'échange de vues avec les principaux syndicats représentatifs des maîtres des établissements d'enseignement privés permettra d'identifier les améliorations susceptibles d'être apportées à la situation des maîtres. En tout état de cause, une telle procédure ne pourra s'inscrire que dans le strict respect du principe de parité posé à l'article L. 914-1 précité du code de l'éducation.
