@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960817159
+
+- Question : [SEQ960817159](seq960817159.md) — Installation de l'Institut national de l'histoire de l'art dans les locaux de l'ancienne Bibliothèque nationale
+
+## Réponse
+
+*Culture, JO du 1996-10-31, page 2844*
+
+Réponse. - En mai 1994, le Premier ministre a confié à M. Michel Laclotte une mission de préfiguration d'un Institut national d'histoire de l'art (INHA), placé sous l'autorité conjointe des ministres chargés de la culture et de l'enseignement supérieur. Sur la base d'un premier rapport remis en avril 1995 et d'une étude complémentaire achevée en janvier 1996, le Gouvernement a confirmé en avril 1996 le principe de la création d'un Institut national d'histoire de l'art. Dans un premier temps, seront regroupées des institutions déjà existantes dont la liste définitive fait l'objet d'étude entre le ministère de la culture et le ministère de l'éducation nationale. L'INHA occupera à Paris (rue de Richelieu et rue Vivienne, dans le 2e arrondissement) les locaux libérés par les services de la Bibliothèque nationale de France (BNF) qui seront transférés sur le nouveau site de Tolbiac. La répartition de ces locaux avec la BNF tiendra compte du fait que deux départements de la BNF doivent rejoindre ceux qui seront maintenus sur place. De fait, le calendrier d'installation de l'INHA dépend donc étroitement du déménagement des imprimés et de l'audiovisuel de la BNF qui est désormais prévu pour 1998. L'année 1997 sera mise à profit pour affiner la répartition des espaces entre la BNF et l'INHA, étudier la mise en oeuvre de moyens et de services communs entre les deux institutions, préciser le phasage des travaux et le montant du coût d'investissement. Enfin, la constitution d'une structure juridique particulière et la dotation de moyens de fonctionnement supplémentaires par rapport à l'existant seront examinées ultérieurement.
