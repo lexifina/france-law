@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981011612
+
+- Question : [SEQ981011612](seq981011612.md) — Nomination des directeurs des caisses de sécurité sociale
+
+## Réponse
+
+*Emploi, JO du 1999-02-04, page 387*
+
+Réponse. - Aux termes de l'article L. 217-5 du code de la sécurité sociale issu de l'article 20 de l'ordonnance nº 96-344 du 24 avril 1996 portant mesures relatives à l'organisation de la sécurité sociale, il est institué après de l'UCANSS un comité des carrières des agents de direction. Ce comité, présidé par un membre de l'IGAS, émet un avis motivé sur les candidatures aux postes de directeur et d'agent comptable des caisses de base dans les conditions prévues à l'article L. 217-3. Dans le respect des dispositions réglementaires et conventionnelles en vigueur, le comité a pour mission de veiller à l'évolution des carrières des directeurs et des autres agents de direction et notamment à la mobilité des directeurs entre les caisses et entre les différents organismes et branches du régime général. Pour chaque nomination, le directeur de l'organisme national concerné propose au conseil d'administration de l'organisme régional ou local une liste de trois noms établie après avis du comité des carrières. Le conseil d'administration choisit sur cette liste, à la majorité de ses membres, le candidat dont il propose la nomination. Le directeur de l'organisme national procède en conséquence à ladite nomination. Ces dispositions permettent une plus grande transparence dans le choix des candidats et une meilleure adéquation du profil du candidat au poste à pourvoir tout en permettant au conseil d'administration de la caisse d'intervenir dans la procédure de nomination du directeur et de l'agent comptable. La nomination des autres agents de direction reste du seul pouvoir du conseil d'administration. Il n'est pas envisagé pour l'instant de modifier cette réglementation.
