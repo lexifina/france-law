@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011136289
+
+- Question : [SEQ011136289](seq011136289.md) — Maintien des services publics départementaux
+
+## Réponse
+
+*Agriculture, JO du 2002-02-14, page 456*
+
+Le ministre de l'agriculture et de la pêche a l'honneur de faire connaître à l'honorable parlementaire que le maintien parmi les services publics des services départementaux du ministère de l'agriculture et de la pêche n'a à aucun moment été remis en cause. Une réforme des services départementaux du ministère de l'agriculture et de la pêche est, certes, en cours. Elle doit conduire à la création de directions départementales des services vétérinaires de plein exercice, par partition des actuelles directions départementales de l'agriculture et de la forêt. Cette réforme, une fois effective, se traduira donc par l'existence dans chaque département de deux services distincts mais qui seront l'un et l'autre partie intégrante des services de ce ministère et placés sous l'autorité des préfets de département. Il va de soi que cette réforme, comme toute autre modification organisationnelle intervenue par le passé ou susceptible d'intervenir, donnera lieu à toutes les consultations auxquelles il appartient au ministre de l'agriculture et de la pêche de procéder, notamment celles prévues par les textes en vigueur. A cet égard, il doit être rappelé que la création des services de l'Etat dans les départements et les régions et la définition de leurs missions relèvent exclusivement du niveau central, mais que l'organisation stricto sensu de ces services est largement déconcentrée puisque, depuis 1999, il appartient aux préfets de l'arrêter, conformément aux orientations définies conjointement par les ministres intéressés et après consultation des chefs de service. Bien entendu, toutes les consultations qui s'avéreraient nécessaires doivent également pouvoir s'exercer dans les régions et les départements, sur l'initiative des autorités territorialement compétentes.
