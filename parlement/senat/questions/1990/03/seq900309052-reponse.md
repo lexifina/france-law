@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900309052
+
+- Question : [SEQ900309052](seq900309052.md) — OCDE et aides à la construction navale
+
+## Réponse
+
+*Industrie, JO du 1990-07-19, page 1597*
+
+Réponse. - A la suite de l'introduction par les constructeurs américains de navires (Shipbuilders Council of America) d'une plainte, fondée sur l'article 301 du Trade Act, à l'encontre de la Corée du Sud, du Japon, de la Norvège et de la République fédérale d'Allemagne, accusant ces pays de leur avoir causé un préjudice en ayant apporté des aides diverses à leurs chantiers de construction navale, l'administration américaine a obtenu la suspension de cette plainte contre la recherche d'une solution négociée dans le cadre de l'O.C.D.E. Des discussions, pour l'instant informelles, ont lieu au sein du groupe de travail n° 6 " Construction navale " du conseil de l'O.C.D.E. en liaison avec la Corée du Sud afin de mettre sur pied un accord international permettant de réduire progressivement les aides publiques de toutes natures apportées au secteur de la construction et de la réparation navales et ainsi de rétablir des conditions normales de concurrence dans ce secteur.Pour ce qui concerne les pays de la Communauté économique européenne, la commission s'exprime au nom des Etats membres et en totale concertation avec eux. La commission a clairement la volonté de défendre les intérêts de l'industrie de la construction et de la réparation navale européenne. Quant aux pratiques des U.S.A., à savoir le Jones Act et le Merchant Act, la commission a toujours affirmé clairement la nécessité de mettre fin à ces éléments de distorsion de la concurrence, point de vue également partagé par les autres participants à savoir, le Japon, la Corée du Sud, la Finlande, la Norvège et la Suède. Le ministère de l'industrie et de l'aménagement du territoire veillera à la préservation des intérêts de la construction navale française.
