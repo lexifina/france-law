@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040512017
+
+- Question : [SEQ040512017](seq040512017.md) — Lutte contre la prolifération des ragondins
+
+## Réponse
+
+*Écologie, JO du 2004-10-14, page 2331*
+
+Le ministre de l'écologie et du développement durable a pris connaissance, avec intérêt, de la question relative à l'utilisation de bateaux à moteur en période de crues pour la destruction des ragondins par tir ou par piégeage. L'utilisation de bateaux ainsi équipés est d'une bonne efficacité lorsque la hauteur de l'eau ne permet plus aux animaux de se réfugier dans leurs terriers ; par ailleurs, elle présente l'avantage d'éviter les opérations d'empoisonnement aveugle et contribue à réduire le coût et l'insécurité des opérations de régulation. Pour ces raisons, l'arrêté du 1er août 1986 modifié relatif à divers procédés de chasse, de destruction des animaux nuisibles et à la reprise du gibier vivant dans un but de repeuplement (dont l'article 6 interdit l'utilisation de bateaux à moteur) sera prochainement modifié. Ces nouvelles dispositions facilitant le contrôle du ragondin seront étendues au rat musqué. Elles prendront place au sein du dispositif actuel, qui prévoit la surveillance de l'évolution de leurs population, des méthodes préventives de lutte visant à gêner leur installation ou leur réinstallation, et l'utilisation de certaines techniques de destruction ; tir, piégeage et déterrage. L'utilisation de toxiques n'y est autorisée qu'à titre exceptionnel, et seulement pendant une période transitoire qui prendra fin le 30 septembre 2006. Ce dispositif vise au contrôle et non à l'éradication du ragondin et du rat musqué. Afin d'éviter toute ambiguïté avec la chasse du gibier d'eau, un encadrement strict sera prévu pour limiter et fixer le nombre et l'identité des pratiquants, les zones autorisées et les jours où les bateaux à moteur pourront être utilisés pour ces opérations.
