@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981212823
+
+- Question : [SEQ981212823](seq981212823.md) — Recherche dans le domaine de la biotechnologie
+
+## Réponse
+
+*Éducation, JO du 1999-02-18, page 529*
+
+Réponse. - L'ensemble de la communauté scientifique française (INRA, CNRS, CIRAD, IRD, universités) impliquée actuellement dans des travaux de biotechnologie végétale (analyse du génome, biologie du développement, relations plante-micro-organismes, etc.) représente un potentiel de 235 chercheurs en équivalent temps plein, pour un budget de 35 MF hors salaires. Cet effort étant insuffisamment structuré pour permettre une valorisation industrielle efficace et rapide, les établissements publics de recherche concernés et des grands groupes semenciers français ont uni leurs moyens au sein du vaste projet " Génoplante ", avec le soutien du ministère de l'éducation nationale, de la recherche et de la technologie. Ce projet, organisé en réseau, comprendra : génoplante-générique, chargé de mener des travaux relatifs aux génomes modèles (riz, arabidopsis) et de nouvelles approches génomiques. Ce dispositif s'appuiera notamment sur les nouveaux laboratoires installés sur la plate-forme d'Evry aux côtés du Génoscope (INRA et RHOBIO) et sur les laboratoires du CIRAD et de l'IRD à Montpellier ; génoplante-espèces, destiné à développer sur des espèces d'intérêt agronomique (maïs, blé, colza, pois, etc.) des travaux de cartographie, de séquençage, d'analyse d'expression des gènes d'intérêt économique (résistance aux maladies, valeur agronomique, qualité technologique). Génoplante comportera en outre un important volet relatif à la propriété industrielle et à la valorisation des résultats. L'enjeu étant national et européen, les moyens prévus représentent au total 3 000 MF d'apports collectifs publics et privés comprenant une dotation supplémentaire de 80 MF par an sur cinq ans en provenance du ministère de l'éducation nationale, de la recherche et de la technologie.
