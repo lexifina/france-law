@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920220073
+
+- Question : [SEQ920220073](seq920220073.md) — Diminution du pouvoir d'achat des retraités
+
+## Réponse
+
+*Affaires sociales, JO du 1992-03-26, page 719*
+
+Réponse. - Le Gouvernement est attaché à ce que les retraites soient préservées et, lorsque la croissance le permet, à améliorer leur pouvoir d'achat. Il est de plus attentif aux difficultés rencontrées par les titulaires des plus faibles pensions. Compte tenu des revalorisations intervenues de 1981 à 1991, le pouvoir d'achat des pensions a été préservé et a même légèrement progressé si l'on prend en compte l'ensemble des pensions perçues par les retraités (retraite de base plus retraite complémentaire). En outre, les plus faibles pensions ont été améliorées à plusieurs reprises, du fait des majorations importantes apportées au minimum vieillesse, de la hausse du taux des pensions de réversion, de 50 à 52 p. 100, et des améliorations apportées aux pensions liquidées avant les lois Boulin. L'article 32 de la loi n° 91-1406 du 31 décembre 1991 portant diverses dispositions d'ordre social a fixé à 1 p. 100 au 1er janvier 1992 et 1,8 p. 100 au 1er juillet 1992 le taux de revalorisation des pensions de vieillesse. Ce taux prend à la fois en compte la hausse prévisionnelle des prix et les contraintes très fortes de financement qui pèsent actuellement sur le régime général d'assurance vieillesse. Le Gouvernement est conscient que les retraités rencontrent aujourd'hui principalement trois problèmes : la persistance de très petites pensions qui sont essentiellement des pensions de réversion, les situations de dépendance et les coûts très importants qui en résultent, et l'incertitude liée au mode actuel de revalorisation des pensions. Ces trois problèmes sont au centre de ses réflexions actuelles.
