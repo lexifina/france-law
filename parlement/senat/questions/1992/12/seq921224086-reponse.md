@@ -1,0 +1,9 @@
+# Réponse à la question SEQ921224086
+
+- Question : [SEQ921224086](seq921224086.md) — Reconnaissance de la situation des prisonniers de guerre détenus par les Japonais
+
+## Réponse
+
+*Anciens combattants, JO du 1993-02-11, page 242*
+
+Réponse. - Les anciens prisonniers des camps japonais en Indochine souhaitent bénéficier de dispositions identiques à celles prévues par la loi n° 89-1013 du 31 décembre 1989 portant création du statut de prisonnier du Viet-Minh. L'intervention de la loi du 31 décembre 1989 a eu pour but d'aligner les droits des anciens prisonniers du Viet-Minh sur ceux déjà ouverts par le code des pensions militaires d'invalidité et des victimes de la guerre en faveur des déportés. Or les personnes détenues par les forces d'occupation japonaises en Indochine peuvent déjà prétendre, en application des lois du 6 août et du 9 septembre 1948, soit au bénéfice du statut de déporté, soit à celui du statut d'interné en fonction du lieu et du motif de leur détention, ainsi que des droits à pension d'invalidité y afférents, si elles remplissent les conditions exigées par le code des pensions militaires d'invalidité et des victimes de la guerre. Le secrétaire d'Etat est cependant sensible aux difficultés qui s'opposent parfois à la reconnaissance du droit au statut de déporté pour les prisonniers de guerre des Japonais, notamment pour ceux dont la durée de détention a été inférieure à 90 jours. C'est pourquoi il a demandé à ses services de soumettre systématiquement ces dossiers à la commission consultative médicale (CCM) et d'attribuer le titre de déporté politique lorsque la CCM aura conclu que la captivité par les forces japonaises est manifestement à l'origine des affections présentées par les intéressés, afin que justice soit enfin rendue à tous ceux qui ont souffert des outrages et des tortures infligés par les militaires japonais.
