@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990516318
+
+- Question : [SEQ990516318](seq990516318.md) — Protection des maires
+
+## Réponse
+
+*Intérieur, JO du 1999-07-22, page 2505*
+
+Réponse. - Aux termes de l'article 11, 3e alinéa, de la loi du 13 juillet 1983 modifiée, portant droits et obligations des fonctionnaires, la collectivité publique est tenue de protéger les fonctionnaires contre les menaces, violences, voies de fait, injures, diffamations ou outrages dont ils pourraient être victimes à l'occasion de leurs fonctions et de réparer, le cas échéant, le préjudice qui en est résulté. Compte tenu de l'affirmation par le juge administratif que cette protection fonctionnelle relève d'un principe général du droit applicable à l'ensemble des agents publics (CE, 5 mai 1971, Sieur Gillet), ce dispositif doit naturellement bénéficier aux élus. Le juge administratif a d'ailleurs admis que le conseil municipal peut légalement mettre à la charge du budget communal les frais exposés pour la défense du maire faisant l'objet de poursuites pénales si les faits commis par ce dernier ne sont pas détachables de l'exercice de ses fonctions (CAA Bordeaux, 25 mai 1998, M. André). Enfin, aux termes de l'article 222-13-4º du code pénal, les violences ayant entraîné une incapacité totale de travail pendant plus de huit jours sont punies de trois ans d'emprisonnement et de 300 000 F d'amende lorsqu'elles sont commises sur une personne dépositaire de l'autorité publique ou chargée d'une mission de service public, dans l'exercice ou à l'occasion de l'exercice de ses fonctions. A la suuite d'une question orale posée sur ce sujet par le sénateur Haenel, un groupe de travail procédera à un état des lieux de la réalité judiciaire, dressera une synthèse des travaux menés jusqu'à présent et pourra formuler des propositions au Gouvernement sur ce thème.
