@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000927986
+
+- Question : [SEQ000927986](seq000927986.md) — Traçabilité des denrées alimentaires servies dans les cantines scolaires
+
+## Réponse
+
+*Agriculture, JO du 2001-04-12, page 1256*
+
+Réponse. - L'étiquetage de la viande bovine fait l'objet d'une réglementation communautaire depuis 1997. Le règlement nº 1760/2000 du Parlement européen et du Conseil du 17 juillet 2000 établissant un système d'identification et d'enregistrement des bovins et concernant l'étiquetage de la viande bovine et des produits à base de viande bovine, qui a modifié le texte de 1997, rend obligatoire, depuis le 1er septembre 2000, l'apposition d'un numéro de traçabilité, d'un identifiant du lieu d'abattage et d'un identifiant du lieu de découpe. Ces dispositions s'appliquent à tous les stades de commercialisation de la viande bovine, avant préparation ou transformation. Le Syndicat national de la restauration collective (SNRC) a mis en application depuis le 1er janvier 2000 une charte de transparence sur l'origine de la viande bovine. Les sociétés de restauration collective adhérentes s'engagent à répercuter l'information dont elles disposent sur simple demande. Ce syndicat a préparé également une charte de transparence pour les approvisionnements en poissons d'élevage, qui entrera en vigueur le 1er juin prochain. Ces chartes, dont le Gouvernement se félicite, sont d'application volontaire. Les sociétés de restauration collective adhérentes au SNRC ont donc, au cours de l'année 2000, interrogé régulièrement leur(s) fournisseur(s) en viande bovine sur sa provenance, selon une procédure validée. Le SNRC a confié à un organisme certificateur indépendant le contrôle du respect de cette procédure par le gestionnaire du restaurant et l'exactitude de la réponse apportée par leur(s) fournisseur(s).
