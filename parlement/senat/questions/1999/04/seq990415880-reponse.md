@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990415880
+
+- Question : [SEQ990415880](seq990415880.md) — Intégration dans les appellations d'origine contrôlée des critères environnementaux des pratiques
+
+## Réponse
+
+*Agriculture, JO du 1999-12-09, page 4047*
+
+Réponse. - L'appellation d'origine contrôlée (AOC) trouve un de ses fondements dans le lien au terroir. De ce fait, les producteurs d'AOC et l'Institut national des appellations d'origine (INAO) sont extrêmement soucieux de la préservation de ce terroir. Une réflexion est actuellement menée par les producteurs d'AOC viticoles sur ce thème. Les premières conclusions ont été présentées au Comité national des vins et eaux-de-vie de l'INAO réuni début novembre 1999, ce comité étant composé de représentants de la production, du négoce, de personnalités qualifiées et de représentants des consommateurs. Le Comité national a conclu à la nécessité pour les appellations du secteur viti-vinicole d'afficher clairement leur rôle de protecteur des terroirs et à ce titre leur objectif de préservation de l'environnement et de respect du consommateur. Il a retenu le principe d'une charte définissant les grands principes que les producteurs de vins d'appellation devraient s'engager à respecter, sachant qu'ensuite, localement, des protocoles seraient élaborés sur la base de cette charte tenant compte des conditions régionales. Il convient également de signaler que les appellations laitières et celles des autres produits agro-alimentaires ont également le souci de la réservation du terroir, certaines dispositions en matière d'amendements des sols, par exemple, étant intégrées dans des décrets de reconnaissance des appellations. Par conséquent, la préoccupation environnementale est progressivement prise en compte par les appellations d'origine, sachant que leur fondement repose en premier lieu sur l'expression du terroir et le respect des usages locaux.
