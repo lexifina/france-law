@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020700466
+
+- Question : [SEQ020700466](seq020700466.md) — Conditions d'attribution du titre de reconnaissance de la Nation
+
+## Réponse
+
+*Anciens combattants, JO du 2002-08-29, page 1901*
+
+Le secrétaire d'État aux anciens combattants tient à rappeler en premier lieu que le titre de reconnaissance de la nation (TRN) a été créé initialement par l'article 77 de la loi n° 67-1114 du 21 décembre 1967 pour les militaires de tous grades et de toutes armes ayant pris part aux opérations d'Afrique du Nord, à une époque où ces opérations n'ouvraient pas droit à la carte du combattant. La loi n° 93-7 du 4 janvier 1993 a étendu ces dispositions aux militaires des forces armées françaises et aux personnes civiles de nationalité française ayant servi, pendant 90 jours au moins, au cours de conflits, opérations ou missions ouvrant droit à la carte du combattant, sauf évacuation pour blessure reçue ou maladie contractée au cours de cette période. Ainsi, la majorité des résistants reconnus officiellement comme tels peuvent d'ores et déjà obtenir, s'ils le souhaitent, le TRN : résistants ayant effectué au moins 90 jours de services homologués au sein des forces ou organisations de la Résistance ; résistants titulaires du titre de déporté, ou d'interné résistant, ou de combattant volontaire de la résistance (CVR), ou de la carte du combattant au titre de la Résistance détenteurs d'une attestation de durée de services dans la Résistance délivrée par les services de l'Office national des anciens combattants et victimes de guerre, si ces services atteignent 3 mois. En revanche, l'abaissement de la durée de service au-dessous de 90 jours n'a pas été envisagé à ce jour. Il s'agit d'une question délicate qui doit être examinée dans le souci de préserver l'égalité entre les différentes générations du feu.
