@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890504752
+
+- Question : [SEQ890504752](seq890504752.md) — Suppression du bénéfice des règlements communautaires aux pensionnés militaires français établis en RFA
+
+## Réponse
+
+*Solidarité, JO du 1989-08-10, page 1269*
+
+Réponse. - La situation des pensionnés militaires français résidant en R.F.A. fait l'objet de toute l'attention du ministre de la solidarité, de la santé et de la protection sociale. La décision unilatérale des organismes allemands de sécurité sociale de suspendre le remboursement des prestations en nature de l'assurance maladie aux pensionnés militaires français a appelé de sa part une réaction immédiate. La position française reposant sur la stricte application de la réglementation européenne a été précisée par courrier au ministre allemand du travail et de la protection sociale. Il lui a été rappelé que les fonctionnaires actifs et retraités relevaient de la coordination communautaire lorsqu'il n'était pas fait application de dispositions spéciales statutaires (ce qui est le cas en l'espèce, puisqu'il s'agit de prestations en nature d'assurance maladie). Plus particulièrement en ce qui concerne les pensionnés militaires en application de l'article 28 du règlement C.E.E. n° 1408/71, les prestations en nature de l'assurance maladie leur sont servies pour le compte de l'Etat compétent (la France) par l'Etat de résidence (la R.F.A.) sur présentation du formulaire E 121. Afin qu'un accord intervienne le plus rapidement possible sur ce dossier, les services compétents du ministre allemand du travail et de la protection sociale ont été conviés à participer à une réunion. Les autorités allemandes ont accepté le principe de cette réunion qui se tiendra au mois d'août à Paris, et décidé de suspendre la procédure de non-remboursement jusqu'à cette date.
