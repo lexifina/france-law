@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860500611
+
+- Question : [SEQ860500611](seq860500611.md) — Sociétés coopératives agricoles: affectation comptable des subventions d'équipement
+
+## Réponse
+
+*Budget, JO du 1986-06-19, page 849*
+
+Réponse. -Lorsque des sociétés coopératives agricoles sont assujetties à l'impôt sur les sociétés dans les conditions de droit commun à raison des exédents des opérations qu'elles réalisent avec des tiers dans le cadre de la dérogation à la règle de l'exclusivisme prévue à l'article 6-III de la loi du 27 juin 1972, les subventions d'équipement qu'elles reçoivent de l'Etat ou des collectivités locales doivent, dès lors qu'elles sont affectées à l'acquisition ou à la création d'immobilisations utilisées soit en totalité soit en partie à la réalisation d'opérations avec les tiers, être rapportées aux bénéfices imposables de ces coopératives suivant les modalités définies à l'article 42 septies du code général des impôts. La fraction des subventions qui correspond aux amortissements effectivement pratiqués à raison d'immobilisations acquises en totalité ou partiellement au moyen de ces subventions et déduits des résultats imposables doit donc, sous réservedes atténuations applicables à l'ensemble des entreprises, être rapportée aux bénéfices imposables des coopératives. De plus, la détermination du bénéfice imposable des opérations traitées avec les tiers ne doit pas en principe s'effectuer par la simple application aux bénéfices globaux d'un rapport de chiffre d'affaires ou de quantités traitées mais doit résulter d'une comptabilité distincte. Dès lors, les coopératives doivent déterminer, sous leur propre responsablité, les prorata de répartition entre secteur exonéré et secteur taxable applicables aux charges communes et notamment aux immobilisations à usage mixte.
