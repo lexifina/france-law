@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870204805
+
+- Question : [SEQ870204805](seq870204805.md) — Simplification des formalités administratives: cas des associations de jeunesse et des sports
+
+## Réponse
+
+*Réforme administrative, JO du 1987-05-14, page 770*
+
+Réponse. -Les modalités de gestion de la part régionale du Fonds national pour le développement du sport ont été récemment modifiées par le décret n° 87-65 du 4 février 1987 qui a transféré aux préfets, commissaires de la République de région et de département les compétences antérieurement exercées par le ministre en matière de subventions. Ces dispositions visent à faciliter l'instruction des dossiers, en permettant aux clubs de faire valoir leur point de vue, à raccourcir les procédures et à accélérer le versement des subventions. Ainsi, cette réforme a permis au préfet, commissaire de la République du département du Pas-de-Calais, de réduire de quatorze à huit pages le formulaire adressé aux clubs. Ce formulaire, établi en accord avec le mouvement sportif, comporte des renseignements demandés à l'appui du versement des subventions (bilans des deux derniers exercices) et des fiches correspondant aux critères retenus en 1987 pour l'attribution de celles-ci ; il va de soi que le club ne remplit que les rubriques le concernant. Les quatre exemplaires demandés sont destinés l'un au mouvement sportif, l'autre à la direction départementale de la jeunesse et des sports, les deux derniers à la trésorerie générale. Les clubs sportifs ont été informés par lettre du 21 janvier 1987 que les dossiers étaient mis à leur disposition et 33 réunions d'information ont été organisées dans le département à leur intention. Ils ont ainsi bénéficié d'un mois pour remplir les formulaires. De plus, les dossiers déposés après le 28 février ont été retenus et aucun club n'a vu sa demande rejetée au motif d'un dépassement de la date limite de dépôt.
