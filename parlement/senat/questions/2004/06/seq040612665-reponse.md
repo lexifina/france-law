@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040612665
+
+- Question : [SEQ040612665](seq040612665.md) — Décret n° 2000-594 du 29 juin 2000
+
+## Réponse
+
+*Agriculture, JO du 2004-08-26, page 1930*
+
+Aux termes des articles L. 741-16 et L. 751-18 du code rural et du décret d'application du 9 mai 1995 modifié, les chefs d'exploitations et d'entreprises agricoles, ainsi que les groupements d'employeurs composés de personnes physiques ou de sociétés civiles agricoles bénéficient, lorsqu'ils exercent des activités visées aux 1° et 4° de l'article L. 722-1 du code rural, de taux réduits de cotisations patronales en assurances sociales et accidents du travail. Le taux d'exonération est de 58 % dans le cas général, 75 % pour la viticulture et 90 % pour les fruits et légumes, l'arboriculture, le tabac, le houblon, les pommes de terre ainsi que pour l'apiculture. Le taux dont bénéficie un employeur pour un salarié au titre d'un mois donné est celui qui correspond à la spécialisation de cet employeur, telle qu'elle résulte de la déclaration de chiffre d'affaires qu'il renseigne annuellement. Selon l'article 3-1 du décret du 9 mai 1995 modifié, il est nécessaire, pour que la spécialisation dans une production donnée soit acquise, que cette production représente 50 % du chiffre d'affaires total de l'exploitant. Toutefois, afin de ne pas pénaliser les exploitants se trouvant dans des régions de productions agricoles diversifiées, ceux de ces exploitants dont 50 % du chiffre d'affaires est constitué par la somme des chiffres d'affaires des productions les rendant éligibles aux taux de 75 ou 90 % peuvent bénéficier du taux d'exonération de 75 %. Cette disposition concerne les contrats de travail conclus à compter du 1er juillet 2000 ainsi que les contrats en cours à cette date. Elle s'applique à tous les employeurs de travailleurs occasionnels et est de nature à répondre aux préoccupations exprimées.
