@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021204802
+
+- Question : [SEQ021204802](seq021204802.md) — Mesures en faveur de l'horticulture
+
+## Réponse
+
+*Agriculture, JO du 2003-12-25, page 3703*
+
+Le Gouvernement est très attaché au dynamisme du secteur de l'horticulture et au développement de ses investissements. Sur le plan fiscal, plusieurs mesures ont été adoptées qui vont dans le sens souhaité par l'honorable parlementaire. Ainsi, s'agissant tout d'abord de l'incitation fiscale à l'assurance, le Parlement a adopté, dans le cadre de la loi de finances pour 2002, une mesure instituant une déduction pour aléas. Pour les exercices ouverts à compter du 1er janvier 2002, les exploitants soumis à un régime réel d'imposition et qui auront souscrit un contrat d'assurance pour leur exploitation peuvent, sur option, déduire de leur bénéfice imposable une somme pouvant atteindre 21 200 euros par an à la condition qu'ils affectent à un compte ouvert auprès d'un établissement de crédit une somme provenant des recettes de l'exploitation de cet exercice au moins égale au montant de la déduction. L'épargne professionnelle ainsi constituée doit être inscrite à l'actif du bilan de l'exploitation. Outre les utilisations prévues dans le cadre de la déduction pour investissement, les sommes épargnées peuvent être utilisées en cas d'intervention d'un aléa climatique, économique, sanitaire ou familial. A cet effet, le décret n° 2002-1560 du 24 décembre 2002, publié au Journal officiel du 29 décembre 2002, vient de définir la liste de ces aléas. En outre, le Gouvernement s'est engagé à améliorer ce dispositif et à étudier la question du cumul de la déduction pour investissement et de la déduction pour aléas. Par ailleurs, le développement de l'assurance est souhaitable en horticulture et le Gouvernement est prêt à examiner les propositions que pourraient faire les compagnies d'assurances dans ce domaine.
