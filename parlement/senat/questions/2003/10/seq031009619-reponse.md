@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031009619
+
+- Question : [SEQ031009619](seq031009619.md) — Fonctionnement de l'AGEFICE
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2004-01-01, page 35*
+
+L'Association de gestion du financement des indépendants et des chefs d'entreprise (AGEFICE) est un fonds d'assurance formation de non salariés dont les bénéficiaires sont les dirigeants non salariés des secteurs du commerce, de l'industrie et des services. Le conseil d'administration de l'AGEFICE regroupe en son sein la Confédération générale des petites et moyennes entreprises, le Mouvement des entreprises de France, l'Assemblée des chambres françaises de commerce et d'industrie et l'Union professionnelle artisanale. Les contributions versées à l'AGEFICE par les chefs d'entreprise, par l'intermédiaire des URSSAF, sont gérées sous la seule responsabilité du conseil d'administration. Ce dernier assure la mutualisation des fonds et arrête les critères financiers, ainsi que les modalités de prise en charge des frais liés à la réalisation des actions de formation de ses ressortissants. En tout état de cause, les services du secrétariat d'Etat aux petites et moyennes entreprises, au commerce, à l'artisanat, aux professions libérales et à la consommation n'ont pas vocation à intervenir dans la politique d'utilisation des fonds de l'AGEFICE vis-à-vis de ses ressortissants. La responsabilité d'équilibrer les ressources et les dépenses relève du domaine de l'AGEFICE. Or les chefs d'entreprise dont l'activité est classée en 926C " autres activités sportives " se trouvent souvent dispensés de cotisations, eu égard à leurs faibles revenus, mais sont fortement demandeurs de formation. Il y a donc, dans le cadre de la mutualisation, des régulations nécessaires et qui dans ce cas, ne consistent pas à écarter systématiquement les demandes de ces entreprises mais au contraire d'accpeter leur première demande.
