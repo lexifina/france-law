@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010734253
+
+- Question : [SEQ010734253](seq010734253.md) — Conditions de départ à la retraite des enseignants
+
+## Réponse
+
+*Éducation, JO du 2001-09-13, page 2972*
+
+L'article L. 921-4 du code de l'éducation, qui reprend les dispositions de l'article 35 de la loi n° 90-587 du 4 juillet 1990, prévoit effectivement que " les personnels enseignants appartenant aux corps des instituteurs et des professeurs des écoles qui remplissent, en cours d'année scolaire, les conditions d'âge pour obtenir la jouissance immédiate de leur pension sont maintenus en activité jusqu'à la fin de l'année scolaire ". Toutefois, la portée de cette règle reste limitée : le maintien en activité ne s'applique pas à ces personnels enseignants " atteints par la limite d'âge ", ni, notamment, aux enseignantes mères de trois enfants. Dans la mesure où, dans les écoles maternelles ou élémentaires, la totalité de l'enseignement demeure dispensée par un maître unique, il est encore opportun de la maintenir systématiquement en activité jusqu'à la fin de l'année scolaire, même s'il remplit les conditions pour entrer immédiatement en jouissance de sa retraite. La même nécessité pédagogique s'impose moins fortement dans les autres branches de l'enseignement, ce qui justifie pleinement que l'application de cette règle soit limitée aux enseignants du premier degré. Au demeurant, tout enseignant qui souhaite poursuivre jusqu'à son terme son enseignement alors qu'il est atteint par la limite d'âge de son corps se voit généralement attribuer une prolongation d'activité au-delà de cette limite. En ce qui concerne les professeurs de l'enseignement supérieur, l'article L. 952-10 du code de l'éducation prévoit même que c'est un droit s'ils en font la demande, et une obligation si les besoins du sevice de l'enseignement le justifient.
