@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000625672
+
+- Question : [SEQ000625672](seq000625672.md) — Protection sociale des étudiants effectuant des stages non obligatoires
+
+## Réponse
+
+*Emploi, JO du 2000-12-14, page 4270*
+
+Réponse. - L'article L. 412-8-2o b du code de la sécurité sociale étend notamment la protection obligatoire contre les accidents du travail prévue pour les salariés, aux étudiants et aux élèves des établissements d'enseignement technique pour les accidents survenus au cours de cet enseignement et aux élèves des établissements d'enseignement secondaire ou d'enseignement spécialisé et aux étudiants pour les accidents survenus au cours d'un enseignement dispensé en atelier ou en laboratoire ou par le fait ou à l'occasion de stages effectués dans le cadre de leur scolarité. Au cours de ces formations, l'élève ou l'étudiant conserve son statut scolaire et demeure sous la responsabilité du chef de son établissement. Les stages en entreprise effectués dans ce cadre font l'objet d'une convention tripartite entre le chef d'établissement, l'entreprise d'accueil et le stagiaire, l'éducation nationale assumant la charge des cotisations afférentes à cette protection. L'élève ou l'étudiant qui effectue un stage non obligatoire et hors contrat de travail peut conformément à l'article R. 743-1 du code de la sécurité sociale bénéficier de l'assurance individuelle. A cet effet, l'intéressé adresse sa demande directement à la caisse primaire d'assurance maladie du lieu de sa résidence habituelle et les cotisations afférentes à cette assurance sont à sa charge. L'assurance volontaire individuelle contre les accidents du travail ouvre droit pour son bénéficiaire aux prestations prévues par la législation en la matière à l'exception des indemnités journalières, puisqu'il ne subit pas de perte de salaire en cas d'arrêt de stage pour cause d'accident.
