@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011237081
+
+- Question : [SEQ011237081](seq011237081.md) — Meilleure information des populations résidant dans des zones à risques sur la double nécessité de s'assurer et de réactualiser leur contrat d'assurance
+
+## Réponse
+
+*Industrie, JO du 2002-04-25, page 1177*
+
+Le rapport de la commission d'enquête sur les inondations de la Somme a fait apparaître que dans ce département une part non négligeable de la population, supérieure à celle de la moyenne nationale, n'était pas assurée ou ne l'était que partiellement. Ce constat a donné lieu à la proposition de prévoir, en liaison avec les assureurs, une meilleure information des populations résidant dans des zones à risques, sur la double nécessité de s'assurer et de réactualiser régulièrement ledit " contrat ". A la suite des sinistres survenus au cours des dernières années, un comité interministériel pour la prévention des risques naturels majeurs a été créé par le décret n° 2001-116 du 5 février 2001. Ce comité comprend les ministres chargés de la défense, de l'éducation nationale, de la recherche, de l'intérieur, des transports, du logement, de l'urbanisme, de l'agriculture, de l'outre-mer, des finances et de l'environnement. Il contribue à définir la politique conduite par le Gouvernement en matière de prévention des risques naturels majeurs. II s'appuie sur les travaux d'un conseil d'orientation qui lui donne des avis et lui fait des propositions. Ce conseil est composé de représentants des ministres membres de droit du comité, du secrétaire général de la défense nationale, de dix personnalités qualifiées et de douze élus. Les mesures à prendre, afin d'inciter les populations résidant dans les zones à risque à souscrire une assurance adaptée à leur situation, pourraient être envisagées dans le cadre de cette instance.
