@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890303957
+
+- Question : [SEQ890303957](seq890303957.md) — Augmentation de la taxe sur les grandes surfaces
+
+## Réponse
+
+*Commerce et artisanat, JO du 1989-06-29, page 998*
+
+Réponse. - Il est indiqué à l'honorable parlementaire que la taxe sur les grandes surfaces est affectée au financement de l'indemnité de départ allouée à certaines catégories de commerçants et artisans âgés. Cette taxe est assise sur la surface des locaux destinés à la vente au détail, dès lors qu'elle dépasse 400 mètres carrés. Elle concerne les établissements ouverts à partir du 1er janvier 1960 et dont le chiffre d'affaires annuel est supérieur ou égal à 500 000 francs. Les taxes varient en fonction du chiffre d'affaires au mètre carré, entre 20 francs pour un chiffre d'affaires inférieur à 10 000 francs et 40 francs pour un chiffre d'affaires supérieur à 20 000 francs. Ces taux n'ont pas été réajustés depuis 1982. Le produit de cette taxe a été, en 1987, de 346 millions de francs et représente pour les hypermarchés et supermarchés qui y sont assujettis un poids moyen par rapport au chiffre d'affaires de l'ordre de 0,6 p. 1000. Compte tenu de l'accroissement des surfaces de vente soumises à cette taxe, le relèvement envisagé de 10 p. 100, qui correspond à une réactualisation partielle, procurerait une ressource supplémentaire de l'ordre de 40 millions de francs, soit 2 francs à 4 francs par mètre carré en deux ans selon les magasins. Cette augmentation servirait en priorité à une réactualisation du taux de l'indemnité de départ et, au surplus, à des opérations de transmission-reprise ou de reconversion dans les zones sensibles, notamment rurales, ainsi qu'à des encouragements aux opérations collectives d'adaptation du commerce de proximité. Il est toutefois rappelé que la mise en oeuvre de telles dispositions est du domaine législatif et devra donc être approuvée par le Parlement.
