@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901012259
+
+- Question : [SEQ901012259](seq901012259.md) — Financement de la Fédération française de football
+
+## Réponse
+
+*Jeunesse et sports, JO du 1991-01-17, page 116*
+
+Réponse. - La crise actuelle qui secoue le football français inquiète les présidents de ligue en raison des répercussions qu'elle risque d'entraîner en matière de financements publics. En effet, les aides dont bénéficient les associations locales, conjuguées au dynamisme des dirigeants bénévoles, permettent seules le développement du football de masse. Ce sport qui rassemble 1 800 000 licenciés leur offre des coûts de pratique modestes qui combattent l'exclusion sociale. Le secrétariat d'Etat à la jeunesse et aux sports est attentif à la conjoncture présente. Tout d'abord il apparaît utile de préciser que les difficultés rencontrées par le football français concernent au maximum une soixantaine de clubs et presque exclusivement le sport professionnel. Ces difficultés ne traduisent nullement la réalité de la pratique du premier sport de notre pays. Le secrétaire d'Etat à la jeunesse et aux sports considère que le soutien financier de l'Etat aux ligues et aux associations sportives locales doit être préservé dans les turbulencs actuelles. Ainsi, un effort financier important a été réalisé en faveur du sport de masse : la progression des dotations régionales ou déconcentrées s'est élevé à 30 p. 100 en 1990 (par rapport aux dotations 1989), et elle sera maintenue en 1991. En outre, une mesure nouvelle inscrite au projet de budget de 1991, d'un montant de 40 M.F., viendra compléter et développer l'aide aux petits clubs. L'ensemble de ces éléments indique très clairement la volonté du secrétariat d'Etat de contribuer au développement du sport de masse et bien évidemment du football.
