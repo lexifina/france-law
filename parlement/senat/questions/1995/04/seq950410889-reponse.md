@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950410889
+
+- Question : [SEQ950410889](seq950410889.md) — Exclusion des entreprises réunionnaises du champ d'application des dispositions économiques de la loi d'orientation et d'aménagement du territoire
+
+## Réponse
+
+*Aménagement du territoire, JO du 1995-09-28, page 1855*
+
+Réponse. - L'article 44 de la loi du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire, portant modification de l'article 44 sexies du code général des impôts, dispose que l'exonération d'impôt sur les sociétés pour les entreprises nouvelles s'applique dans les zones d'aménagement du territoire, les territoires ruraux de développement prioritaires et les zones de redynamisation urbaine. Les mêmes zonages déterminent le champ d'application géographique de l'exonération de taxe professionnelle (art. 46). Or, si l'île de la Réunion ne comporte aucune zone d'aménagement du territoire, c'est-à-dire aucune zone éligible à la prime d'aménagement du territoire définie par le décret du 6 février 1995, ce département est très largement concerné par la zone instituée par le décret du 26 décembre 1994 qui délimite les territoires ruraux de développement prioritaires (TRDP), où s'appliquent, dans les mêmes conditions que dans les zones d'aménagement du territoire, les exonérations fiscales instituées par la loi du 4 février 1995, en particulier celles qui concernent la taxe professionnelle (art. 46) et l'impôt sur les sociétés (art. 44). Par ailleurs, ce régime vient s'ajouter aux mesures prises dans le cadre de la loi du 25 juillet 1994 sur l'emploi et l'insertion dans les DOM. Il convient également de rappeler que le régime de la prime d'aménagement du territoire (PAT) a été notifié à la commission européenne et qu'il n'est pas envisageable de le modifier à court terme.
