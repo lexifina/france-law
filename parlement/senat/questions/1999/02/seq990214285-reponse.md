@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990214285
+
+- Question : [SEQ990214285](seq990214285.md) — Développement des magasins d'usine
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 1999-05-06, page 1524*
+
+Réponse. - Les magasins d'usine revêtent une forme bien particulière, il s'agit de magasins accolés à un site de production ou implantés dans celui-ci, destinés à commercialiser des sur-stocks des produits invendus ou déclassés. On a vu apparaître plus récemment des magasins de marque accolés les uns aux autres, le plus souvent sur des sites indépendants des lieux de production. Seuls les magasins de la première catégorie relèvent de la définition légale. Si ceux relevant de la première catégorie ont, dans la plupart des cas, échappé au champ d'application de la loi nº 73-1193 du 27 décembre 1973 modifiée d'orientation du commerce et de l'artisanat car leur surface était inférieure aux seuils au-delà desquels l'autorisation administrative préalable était requise, il n'en va pas de même de ceux de la seconde catégorie qui sont examinés par les commissions départementales d'équipement commercial et, le cas échéant, par la Commission nationale d'équipement commercial. Ainsi, la Commission nationale d'équipement commercial vient de refuser un projet de création d'un ensemble de pseudo-magasins d'usine de 22 925 mètres carrés de vente à Gallargues-le-Montueux (Gard). Le dispositif législatif et réglementaire actuellement en place permet donc de maîtriser et de contrôler le développement de ce type de commerce dès lors qu'il est appliqué avec rigueur, sous le contrôle souverain des tribunaux. En outre, la loi nº 96-603 du 5 juillet 1996 relative au développement et à la promotion du commerce et de l'artisanat définit avec précision la notion de magasin d'usine dans son article 30 et prévoit des amendes importantes dans son article 31 pour toute infraction à l'utilisation de cette dénomination.
