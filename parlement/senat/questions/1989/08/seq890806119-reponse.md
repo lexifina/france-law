@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890806119
+
+- Question : [SEQ890806119](seq890806119.md) — Bénéficiaires du crédit d'impôt recherche
+
+## Réponse
+
+*Budget, JO du 1990-03-01, page 414*
+
+Réponse. - Le crédit d'impôt recherche a pour objet d'aider la recherche de nouvelles techniques ou de nouveaux produits et non les dépenses exposées pour adapter les produits existants aux changements de la mode et des goûts du public. La mesure évoquée par l'honorable parlementaire, qui aurait compromis la logique et la pérennité du crédit d'impôt recherche, n'a donc pu être retenue lors de la préparation et de la discussion du projet de loi de finances pour 1990. Mais le Gouvernement a décidé de consentir un effort particulier pour soutenir la politique de modernisation menée par l'industrie textile. Ainsi 145 millions de francs supplémentaires ont été dégagés sur le budget du ministère de l'industrie en faveur de ce secteur, dont 70 millions de francs seront affectés à une action de soutien des efforts de création dans les entreprises par un élargissement des procédures déconcentrées gérées par ce ministère aux dépenses de " design " et de collections. Ainsi, sans même évoquer les retombées pour l'industrie des mesures d'allègement générales prises en faveur des entreprises (réduction du taux normal de l'impôt sur les sociétés à 37 p. 100 et plafonnement de la taxe professionnelle à 4 p. 100 de la valeur ajoutée), l'effort financier réalisé par les pouvoirs publics aura une importance équivalente à l'impact budgétaire qu'aurait eu l'élargissement de l'assiette du crédit d'impôt recherché aux frais de collection de l'industrie textile. Par ailleurs, toutes informations utiles seront prochainement apportées pour que les entreprises du secteur textile utilisent pleinement les possibilités que leur offre le crédit d'impôt recherche et qui ne semblent pas être totalement exploitées à l'heure actuelle.
