@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930124432
+
+- Question : [SEQ930124432](seq930124432.md) — Calcul de l'allocation logement
+
+## Réponse
+
+*Affaires sociales, JO du 1993-03-25, page 514*
+
+Réponse. - L'allocation de logement est une prestation destinée à compenser partiellement la dépense de logement que supporte le bénéficiaire, en fonction du montant de celle-ci, des ressources du ménage et de sa composition. L'allocation de logement est accordée au titre de la résidence principale, entre autres, aux personnes locataires, aux personnes propriétaires du logement pendant la période au cours de laquelle elles se libèrent de la dette contractée pour accéder à la propriété et aux personnes qui se libèrent d'une dette contractuée en vue d'effectuer des travaux destinés à adapter totalement ou partiellement leurs locaux d'habitation aux normes exigées. La détermination des ressources prises en compte pour l'attribution de l'allocation de logement résulte de règles prévues notamment aux articles R. 531-10 et R. 831-6 du code de la sécurité sociale. Aux termes de ces articles, les ressourcese prises en considération s'entendent du total des revenus nets catégoriels retenus pour l'établissement de l'impôt sur le revenu d'après le barème. En revanche, les revenus non imposables - notamment allocation aux adultes handicapés, revenu minimum d'insertion, minimum vieillesse - sont exclus de la base ressources de calcul de l'allocation de logement et, à titre général, des prestations familiales sous conditions de ressources. L'instauration par le décret n° 92-1015 du 23 septembre 1992 d'un forfait de ressources de 38 500 F pour les accédants à la propriété permet de prendre en compte un forfait correspondant au revenu global dont disposent les bénéficiaires, afin de rétablir une certaine égalité de traitement avec les allocataires aux ressources modiques mais imposables, et n'a pas pour objectif de supprimer systématiquement la prestation.
