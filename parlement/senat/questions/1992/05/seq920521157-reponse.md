@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920521157
+
+- Question : [SEQ920521157](seq920521157.md) — Bilan du RMI dans la région Rhône-Alpes
+
+## Réponse
+
+*Affaires sociales, JO du 1992-07-02, page 1500*
+
+Réponse. - Le tableau I ci-joint retrace, par département, le nombre de bénéficiaires du RMI payés en décembre 1991 dans chacun des départements de la région Rhône-Alpes. Ils ne représentent pour les huit départements que 6,4 p. 100 de l'ensemble des bénéficiaires payés en métropole alors que la population de la région représente 9,5 p. 100 de la population totale de métropole. La Haute-Savoie est le département de métropole où la densité de bénéficiaires de RMI dans la population est la plus faible. Cependant la croissance, au cours de l'année 1991, a été légèrement supérieure à la moyenne nationale. Les exploitants agricoles forment 8,7 p. 100 du total des bénéficiaires du RMI en Ardèche et les salariés agricoles représentent 4 p. 100 du total des bénéficiaires du RMI dans la Drôme. Pour l'ensemble de la métropole, les bénéficiaires du RMI comprennent 1,7 p. 100 de ressortissants de la CEE et 11,1 p. 100 de ressortissants d'autres pays. Compte tenu de l'importance particulière du nombre d'étrangers en général dans la région Rhône-Alpes, il est vraisemblable que la proportion d'étrangers parmi les bénéficiaires du RMI soit plus élevée pour la région Rhône-Alpes. La réinsertion des bénéficiaires du RMI dans un emploi a été évaluée à partir d'échantillons nationaux, ce qui ne permet pas d'obtenir des statistiques départementales ; par contre, le tableau II ci-joint permet de retracer par départements le nombre de bénéficiaires du RMI ayant bénéficié d'une mesure favorisant l'accès à l'emploi. Le tableau III retrace par département le montant des crédits d'insertion prévus à l'article 41 de la loi sur le RMI. ( NOTA Voir tableau page 1500 ). Sources CNAF et CCMSA. ( NOTA Voir tableau page 1500 ). Source ANPE, CNASEA, SESI.
