@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890404311
+
+- Question : [SEQ890404311](seq890404311.md) — Fonds de compensation de la TVA et notion de travaux réalisés pour le compte de tiers
+
+## Réponse
+
+*Collectivités territoriales, JO du 1989-06-15, page 914*
+
+Réponse. - La répartition des compétences entre les collectivités locales et l'Etat telle qu'elle découle des lois de décentralisation confère actuellement à l'Etat une compétence exclusive en matière d'enseignement supérieur. En outre, la loi n° 85-704 du 12 juillet 1985 relative à la maîtrise d'ouvrage publique et à ses rapports avec la maîtrise d'oeuvre privée, qui dispose en son article 2 que le maître d'ouvrage est la personne morale pour laquelle l'ouvrage est construit, interdit à l'Etat de confier la maîtrise d'ouvrage à des collectivités locales pour des équipements dont le fonctionnement resterait à sa charge, ce qui est le cas des équipements universitaires. S'agissant de l'éligibilité au F.C.T.V.A. de ce type d'opérations, le décret n° 85-1378 du 26 décembre 1985, en son article 2, avait exclu de l'assiette du fonds les travaux effectués pour le compte de tiers. Ces dispositions ont d'ailleurs été confirmées par le Conseil d'Etat dans son arrêt rendu le 9 novembre dernier. La nouvelle réglementation élaborée à la suite de cet arrêt et présentée le 28 février 1989 au comité des finances locales reprend d'ailleurs cette règle essentielle sans laquelle les mécanismes de la compensation n'auraient de cohérence. Dès lors, les dépenses relatives aux opérations concernant l'enseignement supérieur ne peuvent être éligibles au F.C.T.V.A., même si a été conclu un bail à construction rendant la collectivité temporairement propriétaire de l'équipement, ce dernier revenant obligatoirement dans le patrimoine de l'Etat à la fin du bail. Ces montages sont précisément exclus du champ d'application du F.C.T.V.A. par la nouvelle réglementation.
