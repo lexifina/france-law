@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910113287
+
+- Question : [SEQ910113287](seq910113287.md) — Titularisation des maîtres auxiliaires
+
+## Réponse
+
+*Éducation, JO du 1991-05-09, page 985*
+
+Réponse. - Il est exact que les maîtres auxiliaires demeurent très nombreux dans les établissements scolaires du second degré. Il n'est pas envisagé cependant de prévoir la mise en place d'un nouveau plan d'intégration dans les corps de personnels enseignants des lycées et collèges. En revanche, le décret n° 89-572 du 16 août 1989 portant diverses mesures statutaires relatives au recrutement dans certains corps de personnels enseignants et d'éducation de l'enseignement secondaire et le décret n° 89-672 du 18 septembre 1989 modifiant le décret relatif au statut des professeurs de lycée professionnel ont amélioré les conditions d'inscription aux concours internes d'accès aux corps des professeurs certifiés et des professeurs de lycée professionnel de second grade, notamment. Pour l'ensemble des concours concernés (C.A.P.E.S., C.A.P.E.T. et C.A.P.L.P. 2), les exigences d'ancienneté de service ont été réduites à trois années de services publics et un diplôme sanctionnant deux années d'études post-secondaires permet désormais l'inscription aux concours du C.A.P.E.T. et du C.A.P.L.P. 2. Par ailleurs, il doit être rappelé qu'un concours spécial d'accès au 1er grade du corps des professeurs de lycée professionnel, notamment accessible aux enseignants non titulaires en fonction dans un établissement public relevant du ministère de l'éducation nationale, a été ouvert dans les disciplines technologiques au titre des sessions 1990 et 1991. Enfin, le décret n° 89-573 du 16 août 1989 modifiant le décret n° 80-627 du 4 août 1980 relatif au statut particulier des professeurs d'éducation physique et sportive a, quant à lui, institué un concours interne d'accès au corps. Il convient d'ajouter que, pour l'ensemble des concours précités, toute limite d'âge a été supprimée.
