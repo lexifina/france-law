@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941008071
+
+- Question : [SEQ941008071](seq941008071.md) — Absence d'exonération de la taxe sur les salaires versés par les syndicats de copropriétaires
+
+## Réponse
+
+*Budget, JO du 1994-12-08, page 2900*
+
+Réponse. - L'assujettissement des syndicats de copropriétaires d'immeubles à la taxe sur les salaires est la contrepartie de l'exonération de taxe sur la valeur ajoutée dont bénéficient ces organismes. Cela étant, le projet de loi de finances pour 1995 prévoit, pour les rémunérations versées à compter du 1er janvier 1995, de porter le montant de la franchise annuelle de taxe sur les salaires de 1 000 F à 4 500 F. Cette mesure permettrait d'exonérer complètement de la taxe tout employeur rémunérant l'équivalent d'un salarié au SMIC. Parallèlement, l'effet de la décote est élargi puisque les redevables dont le montant annuel de la taxe est compris entre 4 500 F et 9 000 F bénéficieront d'un allégement de cet impôt. Les syndicats de copropriétaires sont donc susceptibles d'être concernés par l'une ou l'autre de ces dispositions. Enfin, de nombreuses mesures fiscales spécifiques ont déjà été prises en faveur de l'investissement immobilier lors de la loi de finances rectificative pour 1993 et de la précédente loi de finances. Cet effort est poursuivi dans le cadre du projet de loi de finances pour 1995. Le Gouvernement propose ainsi, notamment, de porter de 50 000 F à 70 000 F le plafond d'imputation des déficits fonciers sur le revenu global, de relever de 50 p. 100 le plafond des dépenses de grosses réparations et dépenses assimilées de l'habitation principale ouvrant droit à réduction d'impôt et de renforcer l'avantage résultant de la réduction d'impôt pour investissement immobilier locatif accordée au titre de la transformation d'immeubles à usage de bureaux en logements. L'ensemble de ces dispositions répondent aux préoccupations exprimées par les honorables parlementaires.
