@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920320282
+
+- Question : [SEQ920320282](seq920320282.md) — Diffusion d'une circulaire concernant les divers contentieux relatifs à la Sacem
+
+## Réponse
+
+*Éducation, JO du 1992-05-28, page 1216*
+
+Réponse. - Le ministre d'Etat, ministre de l'éducation nationale et de la culture, confirme que les services du ministère de la justice ont effectivement diffusé à sa demande aux parquets des juridictions un rapport technique élaboré par ses propres services en novembre 1989, au sujet des conditions dans lesquelles étaient assurées les rémunérations dues aux auteurs et compositeurs de musique lors de la diffusion de leurs oeuvres dans les discothèques. Ce document ne constituait en aucune manière une circulaire comprenant des prescriptions d'une autorité hiérarchiquement supérieure à une autorité subordonnée. Il avait pour seul objet d'informer les parquets des observations de l'administration de la culture sur la situation de la rémunération par les exploitants de discothèques des auteurs concernés par des décisions rendues par la Cour de justice des Communautés européennes le 13 juillet 1989. Il convient de rappeler que l'article 41 de la loi du 3 juillet 1985 a donné au ministre chargé de la culture un pouvoir d'information sur la gestion des sociétés de perception et de répartition des droits. C'est à ce titre que le rapport précité a été établi. Il convient, en outre, d'ajouter que l'analyse ainsi présentée de la validité des conditions de tarification de la Sacem vient d'être confirmée par la commission des Communautés européennes qui a fait savoir qu'elle ne donnerait pas suite à la plainte formulée par certains exploitants de discothèques contre cette société de perception et de répartition des droits des auteurs, compositeurs et éditeurs de musique.
