@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920521351
+
+- Question : [SEQ920521351](seq920521351.md) — Utilisation des salles du Grand Palais
+
+## Réponse
+
+*Éducation, JO du 1992-09-10, page 2066*
+
+Réponse. - L'accueil des salons d'artistes dans la nef du Grand Palais continue de faire l'objet de soins attentifs du ministère, soucieux de promouvoir la rencontre des créateurs avec leur public. Ainsi en 1992, sont programmés treize salons d'artistes, à but non lucratif, faisant partie de la Fédération des associations d'arts graphiques et plastiques. Aucune restriction n'est prévue pour 1993, qui verra au contraire le retour après trois ans d'absence, du Salon des artistes décorateurs. Il convient par ailleurs de souligner que la programmation de la nef du Grand Palais se fait en concertation avec la fédération précitée et les autres utilisateurs du lieu (FIAC, Salon du livre, etc.). Seule la densité des manifestations conduit à un calendrier très serré dans lequel il ne peut être accordé aux concessionnaires des durées d'exposition aussi importantes qu'ils le souhaiteraient. Il est important de rappeler que l'action du ministère de l'éducation nationale et de la culture en faveur des salons et manifestations d'artistes n'a cessé de se développer depuis plusieurs années. Le soutien accordé au Génie de la Bastille, à l'association du treizième art, au salon Art Jonction International, à la biennale d'art contemporain de Lyon et à bien d'autres opérations prouve, si besoin était, l'intérêt porté par les pouvoirs publics aux manifestations artistiques. Aussi, soucieux de bien cerner les conditions de gestion des salons d'artistes et leur avenir, le ministère de l'éducation nationale et de la culture a confié une étude d'ensemble sur la question, à une personnalité du monde culturel bien connu des artistes, M. Gérald Gassiot-Talabot. Ses conclusions devraient être connues d'ici à la fin de l'année 1992.
