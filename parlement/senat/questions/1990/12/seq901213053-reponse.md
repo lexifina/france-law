@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901213053
+
+- Question : [SEQ901213053](seq901213053.md) — Baisse du nombre d'appelés dans les services de police nationale
+
+## Réponse
+
+*Intérieur, JO du 1991-04-11, page 770*
+
+Réponse. - La loi n° 85-835 du 7 août 1985 relative à la modernisation de la police nationale a offert aux jeunes appelés du contingent la possibilité d'effectuer leur service national dans la police. Les modalités d'accomplissement de cette forme de service ont été précisées par la loi n° 87-512 du 10 juillet 1987 relative au service national dans la police. Le nombre de jeunes gens admis au bénéfice de ces dispositions est passé de 654 en 1986 à 1 715 en 1987, 3 268 en 1988 et 3 698 en 1989. La proportion de ces policiers auxiliaires par rapport à l'effectif total du corps des gradés et gardiens de la paix de la police nationale est ainsi passée de 0.76 p. 100 en 986 à 4,28 p. 100 en 1989. A la forte progression enregistrée au cours de cette période, a correspondu, en 1990, une stagnation des effectifs de policiers auxiliaires, dont le nombre s'est stabilisé à hauteur de 3 646 jeunes, affectés principalement dans les polices urbaines de province et à la préfecture de police de Paris. La cause essentielle de ce phénomène peut, semble-t-il, être recherchée dans la création récente de nouvelles formes de service actif civil (sécurité civile ; SAMU ; handicapés ; en entreprise), également dignes d'intérêt et, par conséquent, concurrentes du service national dans la police. Pour que le nombre des créations d'emplois autorisées par la loi de finances soit effectivement atteint, la direction générale de la police nationale va mettre en oeuvre, cette année, une politique de recrutement plus incitative, et de développement des possibilités offertes par la télématique en matière d'information et de préinscription des candidats au service actif civil dans la police nationale.
