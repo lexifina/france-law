@@ -16,7 +16,7 @@ Ingénieurs des travaux agricoles.
 
 Ministère de l’éducation nationale, de la jeunesse et des sports
 
-Infirmiers et infirmières des services médicaux des administrations centrales de l’Etat, des services extérieurs qui en dépendent et des établissements publics de l’Etat.
+Infirmiers et infirmières des services médicaux des administrations centrales de l’Etat, des services déconcentrés qui en dépendent et des établissements publics de l’Etat.
 
 Assistants et assistantes de service social.
 
@@ -58,7 +58,7 @@ Ministère de la justice
 
 Greffiers en chef et greffiers des cours et tribunaux et conseils de prud’hommes.
 
-Educateurs des services extérieurs de la protection judiciaire de la jeunesse.
+Educateurs des services déconcentrés de la protection judiciaire de la jeunesse.
 
 Ministère de la culture, de la communication, des grands travaux et du Bicentenaire
 

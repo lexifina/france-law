@@ -1,57 +1,51 @@
-# Article Annexe 2
+# Article ANNEXE 2
 
-1 - Le budget de l'Etat :
+1 - Théorie générale de l'Etat.
 
-Les aspects politiques et économiques du budget de l'Etat :
+2 - La Constitution du 4 octobre 1958. Les mécanismes de la vie politique française.
 
-Les principes traditionnels du droit budgétaire et leurs adaptations.
+3 - Le champ d'application du droit administratif.
 
-Le contenu du budget : les ressources publiques : les dépenses publiques, nature et portée des autorisations budgétaires.
+Les institutions du droit administratif.
 
-La préparation du budget.
+La notion de service public.
 
-La loi de finances de l'année et les lois de finances rectificatives.
+4 - L'organisation administrative : décentralisation, déconcentration, cadres territoriaux de l'organisation administrative.
 
-L'exécution du budget :
+5 - L'administration de l'Etat l'administration centrale, les services extérieurs, le préfet.
 
-Les principes généraux de la comptabilité publique.
+Les collectivités locales : le département et la commune, les établissements publics communaux et intercommunaux.
 
-Les agents d'exécution du budget : ordonnateurs et comptables.
+6 - La région.
 
-La période d'exécution du budget.
+7 - Les principes fondamentaux du droit administratif.
 
-La responsabilité des ordonnateurs et des comptables.
+Les prérogatives :
 
-Le contrôle de l'exécution du budget :
+Pouvoir de décision.
 
-Caractères généraux du contrôle.
+Pouvoir d'exécution.
 
-Les contrôles administratifs.
+Les sujétions :
 
-Les contrôles juridictionnels : la Cour des Comptes, la Cour de discipline budgétaire.
+Le principe de légalité.
 
-Le contrôle parlementaire. La loi de règlement du budget.
+Le principe de responsabilité.
 
-2 - Le Trésor Public : organisation actuelle, attributions et rôle. Crédits publics.
+8 - Les moyens d'action de l'administration, les actes administratifs, les contrats, le recours de l'administration au droit privé.
 
-3 - Les finances locales :
+9 - Les différents types de service public : régies, établissements publics, sociétés d'économie mixte.
 
-Ressources et dépenses des collectivités locales.
+10 - Les agents :
 
-Le budget des collectivités locales :
+Principes généraux.
 
-Principes généraux : annualité, universalité et équilibre.
+Les fonctionnaires.
 
-Elaboration, exécution et contrôle du budget des collectivités locales.
+Les agents communaux et départementaux.
 
-Aspect économique et social du budget des collectivités locales.
+11 - Les juridictions administratives. Le Conseil d'Etat, les tribunaux administratifs, la Cour des Comptes, la Cour de discipline budgétaire.
 
-La gestion de trésorerie.
+NOTA :
 
-4 - Le système fiscal français :
-
-Les diverses catégories d'impôts. Impôts directs et indirects.
-
-La parafiscalité.
-
-La fiscalité locale.
+.
