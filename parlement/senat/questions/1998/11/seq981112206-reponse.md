@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981112206
+
+- Question : [SEQ981112206](seq981112206.md) — Dysfonctionnements de la Très Grande Bibliothèque
+
+## Réponse
+
+*Culture, JO du 1998-12-24, page 4112*
+
+Réponse. - La Bibliothèque nationale de France vient en effet de rencontrer des difficultés dans la mise en service des nouvelles salles ouvertes aux chercheurs le 9 octobre 1998. Ces difficultés découlent pour partie du rodage du système d'information de la bibliothèque. En effet, sans entraîner une rupture durable et complète du service, des dysfonctionnements ont néanmoins occasionné des retards dans la transmission de certains ouvrages et gêné le travail des usagers et des bibliothécaires. Par ailleurs, les premiers jours de fonctionnement en grandeur réelle ont fait aussi apparaître la nécessité d'améliorer l'organisation de la communication des documents aux lecteurs et les conditions de travail des personnels dans un bâtiment à la fois immense et complexe. Les dernières semaines ont donc été consacrées à la correction des problèmes informatiques et à l'augmentation des performances du système, grâce au chargement d'une nouvelle version et grâce à des tests effectués à grande échelle par le personnel de la bibliothèque. Par ailleurs, neuf groupes de travail ont été constitués au sein de l'établissement pour réfléchir à une amélioration du fonctionnement de la bibliothèque et des services rendus aux usagers. Sur la base des travaux de ces groupes, M. Albert Poirot, inspecteur général des bibliothèques, me remettra, ainsi qu'au président de la Bibliothèque nationale de France, des propositions au début du mois de février 1999. L'ensemble de ces mesures devrait donc permettre à la bibliothèque d'atteindre progressivement au cours de l'hiver une activité conforme aux objectifs initiaux.
