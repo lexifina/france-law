@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980709586
+
+- Question : [SEQ980709586](seq980709586.md) — Nomenclature des dentistes
+
+## Réponse
+
+*Emploi, JO du 1999-03-04, page 693*
+
+Réponse. - La convention applicable aux chirurgiens-dentistes, signée par les caisses d'assurance maladie, présente des avancées incontestables, particulièrement dans le domaine de la prévention. En effet, cette convention prévoit une politique d'incitation au dépistage et aux soins précoces pour les jeunes de 15 à 18 ans, ainsi que la fixation d'honoraires de référence pour les traitements prothétiques et orthodontiques. Elle s'est accompagnée d'une révision importante de la nomenclature. Deux premières séries de mesures de nomenclature sont entrées en vigueur au 1er juillet 1997 et au 1er janvier 1998, ce qui a entraîné un coût pour la sécurité sociale de 500 millions de francs. En outre, dès l'entrée en vigueur de la nouvelle convention, la lettre clé SC a été revalorisée pour un coût de 140 millions de francs. En revanche, la troisième tranche de revalorisation de la nomenclature a dû être différée. Les dépenses d'honoraires dentaires, en effet, ont connu une hausse importante, de 5,9 % sur les quatre premiers mois de l'année 1998. L'entrée en vigueur au 1er juillet 1998 de la troisième tranche aurait eu un impact supplémentaire sur les dépenses de l'année de 1,4 %. Certes, il est légitime que les dépenses de soins dentaires augmentent compte tenu des engagements pris par les parties conventionnelles. Toutefois, le rythme d'augmentation enregistré au début de l'année 1998 ne pouvait être alourdi par une mesure supplémentaire, au risque de ne pas être conciliable avec les objectifs généraux d'évolution des dépenses d'assurance maladie. Cette mesure n'a en rien pénalisé les assurés sociaux. Par ailleurs, le projet de loi instaurant une couverture maladie universelle permettra d'améliorer les conditions de remboursement des dépenses qui restent à la charge des plus démunis.
