@@ -30,6 +30,8 @@ Alignements de Carnac (Bretagne).
 
 Maison de Renan (Tréguier, Bretagne).
 
+Site mégalithique de la Table des marchands à Locmariaquer (Bretagne).
+
 Château d'Azay-le-Rideau (Centre).
 
 Château de Chambord (Centre).
