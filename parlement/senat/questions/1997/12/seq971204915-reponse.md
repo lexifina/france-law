@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971204915
+
+- Question : [SEQ971204915](seq971204915.md) — Maintien de la prime à l'herbe
+
+## Réponse
+
+*Agriculture, JO du 1998-02-12, page 474*
+
+Réponse. - La crise qui a frappé le secteur de la viande bovine en 1996 a été d'une brutalité et d'une ampleur sans précédent. Elle a finalement révélé et accentué des déséquilibres structurels entre l'offre et la demande de viande bovine, qui appellent une réforme de la politique agricole commune. A cette fin, la Commission européenne a présenté un certain nombre de propositions sous la forme d'un projet appelé Paquet Santer. Pour le secteur de la viande bovine en particulier, elle propose une réduction importante du prix de soutien, l'arrêt des achats publics, le renforcement du stockage privé et l'augmentation des primes compensatoires. La France a rappelé avec force au Conseil des ministres de l'agriculture des 18 et 19 novembre dernier qu'il était indispensable d'adapter cette réforme aux spécificités de l'élevage bovin, en obtenant un meilleur équilibre au profit de l'élevage bovin allaitant extensif. L'élevage allaitant extensif joue, en effet, un rôle irremplaçable dans l'entretien de l'espace et l'occupation du territoire. Le troupeau allaitant contribue également à rassurer le consommateur et à reconquérir sa confiance par la qualité de sa production et l'extensivité de son élevage. Ces fonctions doivent être reconnues et prises en compte dans la réforme, en liant au moins en partie les primes à l'élevage bovin aux hectares de pâturage qui servent à l'alimentation des animaux. A cet égard, l'expérience française acquise avec la mise en oeuvre de la prime à l'herbe doit nourrir la réflexion communautaire concernant cette nécessaire orientation territoriale des aides. La France restera vigilante, dans les négociations à venir, à ce que ces spécificités de l'élevage bovin allaitant soient dûment prises en compte au regard des intérêts légitimes des éleveurs.
