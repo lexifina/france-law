@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030306115
+
+- Question : [SEQ030306115](seq030306115.md) — Diffusion de livres dans les kiosques par des journaux
+
+## Réponse
+
+*Culture, JO du 2003-09-18, page 2836*
+
+Les expériences de vente en kiosques de livres en accompagnement de périodiques en France ont, aujourd'hui et contrairement à d'autres pays comme l'Italie, été suspendues, soit par suite de mauvais résultats commerciaux, soit par décision de justice. Le tribunal de grande instance de Paris a ainsi jugé le 8 juillet 2003 (affaire SLF/Le Point), compte tenu de l'impossibilité pour le consommateur d'obtenir une vente du livre séparée de celle du périodique, qu'il s'agissait de ventes subordonnées dont la pratique est interdite par l'article L. 121-1 du code de la consommation. Il ressort également des analyses conduites par le syndicat de la librairie française que ces pratiques de diffusion ne respectent pas l'intégralité des dispositions législatives prévues par la loi du 10 août 1981 relative au prix du livre (mention du prix sur la couverture, possibilité de la commande à l'unité...). Au-delà de ces raisons juridiques et commerciales, le ministère de la culture et de la communication ne méconnaît pas que cette pratique ne pourrait avoir que des effets dramatiques sur la situation financière des librairies, en les privant d'une part significative de leur chiffre d'affaires et en leur rendant par là même difficile, sinon impossible, de présenter l'ensemble de l'offre éditoriale. Cela ne serait donc pas non plus sans conséquence sur les possibilités de maintenir et de développer une offre éditoriale riche et diversifiée. Le ministère de la culture et de la communication n'en est pas moins soucieux de relancer la vente de la presse et l'activité des kiosques. Il se vérifie toutefois que ce moyen n'est pas le mieux adapté à la situation française.
