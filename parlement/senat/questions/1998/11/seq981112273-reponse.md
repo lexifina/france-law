@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981112273
+
+- Question : [SEQ981112273](seq981112273.md) — Formation aux problèmes du bruit des professionnels pour lesquels la préoccupation du bruit n'est pas fondamentale
+
+## Réponse
+
+*Aménagement du territoire, JO du 1999-04-01, page 1055*
+
+Réponse. - La ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question portant sur l'avis adopté par le Conseil économique et social considérant qu'un effort de formation à l'encontre des professionnels pour lesquels la préoccupation du bruit n'est pas fondamentale doit être engagé pour lutter efficacement contre cette nuisance. Concernant les élus, des actions d'information sont entreprises par les pôles départementaux de compétence bruit. A ce jour, 28 de ces pôles fonctionnent et 26 sont en cours de création. Il conviendrait que ces pôles soient généralisés à tous les départements de France. Le ministère de l'aménagement du territoire et de l'environnement encourage ces créations et accordé un soutien financier pour leur équipement en matériel sonométrique. De plus, un colloque régional " La commune et le bruit " a eu lieu en Rhône-Alpes les 10 et 11 juin 1997. Il est tout à fait souhaitable que cette initiative soit reproduite dans les autres régions. Concernant les agents communaux, les formations prévues par le décret nº 95-409 du 18 avril 1995 et précisées par la circulaire du 27 février 1996 relative à la lutte contre les bruits du voisinage ont été réalisées par différents centres de formation publique territoriale et vont conduire à l'agrément prochain de nombreux agents. Enfin, concernant les métiers de l'urbanisme et du bâtiment, et notamment en accompagnement de la nouvelle réglementation acoustique entrée en vigueur le 1er janvier 1996, le ministre chargé de ces domaines a initié des actions de formation des professionnels du bâtiment.
