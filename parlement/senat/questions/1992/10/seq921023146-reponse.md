@@ -1,0 +1,9 @@
+# Réponse à la question SEQ921023146
+
+- Question : [SEQ921023146](seq921023146.md) — Refus de délivrance d'une carte de résident à l'issue d'un mariage de complaisance
+
+## Réponse
+
+*Intérieur, JO du 1992-12-31, page 2850*
+
+Réponse. - Comme le souligne l'honorable parlementaire, l'avis adopté le 9 octobre 1992 par la section du contentieux du Conseil d'Etat revêt un réel intérêt car c'est la première fois que le Conseil d'Etat avait à se prononcer sur la question de savoir si le préfet peut, indépendamment de toute décision judiciaire, refuser de tenir compte d'un mariage contracté dans le seul but d'obtenir une carte de résident en qualité de conjoint de Français. La Haute Assemblée a admis que l'administration pouvait, sans saisir le juge civil, ne pas tenir compte du mariage de complaisance et donc refuser ou retirer, sous le contrôle du juge de l'excès de pouvoir, le titre de séjour sollicité par l'auteur d'un tel mariage contracté avec un Français. Les préfets ont été informés de cet avis qui confirme les instructions déjà données en ce sens par le ministre de l'intérieur le 2 août 1989 et dont la mise en oeuvre par les préfectures avait été, depuis lors, confortée par une jurisprudence bien établie des tribunaux administratifs. Une circulaire interministérielle (intérieur et sécurité publique d'une part, affaires sociales et intégration d'autre part) va être très prochainement diffusée pour rappeler aux préfets leurs pouvoirs à l'égard tant des mariages simulés ou de complaisance que des mariages d'étrangers en situation irrégulière. Cette circulaire sera utilement complétée, sur la suggestion de l'honorable parlementaire, de demandes de renseignements statistiques sur le nombre de refus de carte de résident (ou de retrait) opposés à des ressortissants étrangers qui auraient contracté mariage avec des Français dans le seul but d'obtenir la délivrance d'un tel titre de séjour.
