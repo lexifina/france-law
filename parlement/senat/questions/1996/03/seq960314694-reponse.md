@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960314694
+
+- Question : [SEQ960314694](seq960314694.md) — Mesures gouvernementales en matière de santé
+
+## Réponse
+
+*Santé, JO du 1996-08-22, page 2176*
+
+Réponse. - Le Gouvernement s'est donné pour ambition politique de préserver notre système de protection sociale. Les ordonnances du 24 avril 1996 sont une traduction de cette volonté notamment pour ce qui concerne l'ordonnance relative à l'hospitalisation publique et privée. L'objectif principal est d'adapter le financement de l'hospitalisation à l'activité médicale constatée dans un cadre régional renforcé. En ce qui concerne plus particulièrement le forfait journalier hospitalier, qui n'avait pas été revalorisé depuis 1993 en dépit d'une forte progression des coûts hospitaliers, il a été porté à 70 francs à compter du 1er janvier 1996. Corrélativement, le taux directeur d'évolution des budgets des établissements publics ou privés participant au service public hospitalier est fixé à 2,1 p. 100 pour l'exercice 1996, soit à un niveau compatible avec les hypothèses de croissance du PIB. Ces deux mesures se conjuguent pour contribuer au redressement de la situation financière de la sécurité sociale. Néanmoins, des mesures d'exonération ont été prévues pour tenir compte de la fragilité de certaines catégories de population. Ainsi, l'exonération de plein droit dont bénéficient certaines catégories (comme les victimes d'accidents du travail ou de maladie professionnelle, les pensionnés militaires d'invalidité, les bénéficiaires de l'assurance maternité, les enfants ou adolescents handicapés), la prise en charge par l'aide sociale de ce forfait (pour les bénéficiaires du RMI et autres minima sociaux) ainsi que l'imputation de ce forfait sur le ticket modérateur, sont autant de dispositions qui permettent de préserver l'accès aux soins et de prévenir la précarisation des populations les plus démunies.
