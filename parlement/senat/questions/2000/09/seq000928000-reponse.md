@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000928000
+
+- Question : [SEQ000928000](seq000928000.md) — Composition du Conseil national de la science
+
+## Réponse
+
+*Recherche, JO du 2001-01-11, page 102*
+
+Réponse. - Le Conseil national de la science (CNS), composé de personnalités scientifiques de niveau international, qui appartiennent à des universités, à des organismes de recherche français et européens et au monde de l'industrie, a pour fonction d'éclairer le Gouvernement sur les grandes orientations scientifiques, le choix des priorités et des grands équilibres de la recherche. Lors de la séance du 30 juin 2000 du CNS, le ministre de la recherche a proposé l'élargissement de ce conseil aux représentants des sciences humaines et sociales (SHS). Certains domaines de la science nécessitent une collaboration étroite avec plusieurs branches des SHS. Les membres du conseil, convaincus de la nécessité de dépasser les découpages disciplinaires, souhaitent instaurer le dialogue entre les sciences dites " dures " et les SHS. L'ouverture du CNS à quatre membres des SHS est envisagée. Ces disciplines peuvent apporter un éclairage particulier sur les rapports entre les sciences et la société. Parallèlement, le Comité national du développement des sciences humaines et sociales, qui s'intitulera désormais " Conseil national des sciences de l'homme et de la société ", s'ouvrira à des membres du CNS et à des personnalités étrangères. Il poursuivra ses travaux de coordination des activités de recherche des établissements d'enseignement supérieur et des organismes de recherche et formulera un avis sur toutes les questions concernant la politique en matière des sciences de l'homme et de la société. La participation nouvelle de personnalités issues des SHS au CNS ne donnerait que plus de légitimité aux recommandations scientifiques sur certains sujets aux frontières de la connaissance.
