@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980810397
+
+- Question : [SEQ980810397](seq980810397.md) — Informations diffusées par la presse concernant les mandataires judiciaires à la liquidation des entreprises
+
+## Réponse
+
+*Justice, JO du 1998-12-31, page 4180*
+
+Réponse. - Le garde des sceaux fait connaître à l'honorable parlementaire que les conclusions de la commission d'enquête parlementaire relative à l'activité et au fonctionnement des tribunaux de commerce, corroborées par celles de la mission d'inspection commune de l'inspection générale des finances et de l'inspection générale des services judiciaires, ont mis notamment en cause le comportement difficilement admissible de certains auxiliaires de justice dont les administrateurs judiciaires et les mandataires judiciaires à la liquidation des entreprises. Certes, les comportements dénoncés par ces rapports ne sauraient faire oublier que la plupart des mandataires de justice s'acquittent de leur tâche avec conscience et rigueur. Toutefois, une réforme de la justice consulaire est nécessaire. Elle concerne à la fois les tribunaux de commerce, les mandataires de justice et le droit des entreprises en difficulté. Ainsi, le statut des administrateurs judiciaires et mandataires judiciaires à la liquidation des entreprises sera rénové en vue d'une plus grande ouverture de ces professions, leur contrôle sera renforcé et leur tarif révisé. Par ailleurs, les lois de 1984 et de 1985 sur la prévention et le traitement des difficultés des entreprises seront réformés : les procédures seront plus transparentes, la distribution des fonds sera accélérée, les petites procédures feront l'objet d'un traitement nouveau, la prévention et le règlement amiable seront mieux définis et encadrés. Comme il a été exposé le 14 octobre 1998 en conseil des ministres, les textes nécessaires pour réaliser ces réformes seront adoptés en 1999.
