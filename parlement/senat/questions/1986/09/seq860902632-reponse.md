@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860902632
+
+- Question : [SEQ860902632](seq860902632.md) — Répartition et montant de l'enveloppe du fonds d'action sociale
+
+## Réponse
+
+*Affaires sociales, JO du 1987-03-12, page 359*
+
+Réponse. -1° Le budget du Fonds d'action sociale pour les travailleurs immigrés et leurs familles (FAS) a été arrêté à 1 097 600 000 F en 1985 et à 1 184 942 815 F en 1986. Ce budget est alimenté essentiellement par les versements des régimes de prestations familiales : Caisse nationale des allocations familiales (CNAF) et caisse centrale d'allocations familiales-mutuelles agricoles, soit au total pour ces deux organismes 981 300 000 F en 1985 et 1 029 400 000 F en 1986 ; 2° les actions du FAS en matière de logement des travailleurs immigrés qui représentent environ 50 p. 100 des crédits affectés ne sont pas déconcentrées. Par contre, la plus grande partie des crédits d'interventions sociales ont été déconcentrés dans les régions qui comprennent une importante population immigrée. La commission régionale pour l'insertion des populations immigrées (CRIPI) de la région Provence-Alpes-Côte d'Azur (PACA) a reçu du FAS les crédits suivants pour les années 1985 et 1986. Nota : voir tableau page 360 Il n'y a pas de répartition préalable de l'enveloppe de crédits par département. Il appartient à la CRIPI de la région PACA de procéder à la répartition des crédits en fonction des dossiers qui lui sont présentés ; 3° le budget du FAS pour l'exercice 1987 n'est pas définitivement arrêté. Il est vraisemblable que les crédits disponibles permettront d'attribuer en 1987 à la CRIPI de la région PACA une enveloppe de crédits au moins égale à celle qui lui a été affectée en 1986 ; 4° les membres de la CRIPI ont été nommés par arrêté du 19 mars 1984 de M. le préfet, commissaire de la république de la région Provence-Alpes-Côte d'Azur.
