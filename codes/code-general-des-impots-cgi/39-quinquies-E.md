@@ -4,4 +4,4 @@ Les entreprises qui construisent ou font construire des immeubles destinés à l
 
 La valeur résiduelle des immeubles est amortissable sur leur durée normale d'utilisation.
 
-Les dispositions du présent article s'appliquent aux constructions achevées avant le 31 décembre 1988 à condition qu'elles s'incorporent à des installations de production existant au 31 décembre 1980.
+Les dispositions du présent article s'appliquent aux constructions achevées avant le 31 décembre 1990 à condition qu'elles s'incorporent à des installations de production existant au 31 décembre 1980.
