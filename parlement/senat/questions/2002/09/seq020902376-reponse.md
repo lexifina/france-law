@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020902376
+
+- Question : [SEQ020902376](seq020902376.md) — Fiscalité applicable aux banques
+
+## Réponse
+
+*Économie, JO du 2003-01-23, page 259*
+
+Au cours des onzièmes rencontres parlementaires sur l'épargne qui ont eu lieu le 23 janvier 2002, le représentant des banques a demandé que la fiscalité des entreprises de ce secteur prenne en compte leur utilité économique et sociale. A l'image des autres secteurs d'activité, les entreprises du secteur bancaire ont bénéficié de la baisse du taux d'impôt sur les sociétés, renforçant ainsi leur compétitivité sur le plan international. Cette politique a été conduite dans le respect des équilibres budgétaires. Elle s'est concrétisée notamment par la baisse sur trois ans de la contribution additionnelle à l'impôt sur les sociétés, qui a été réduite de 10 % à 6 % en 2001 et à 3 % en 2002. Au cours des dernières années, le taux d'imposition des entreprises aura donc été ramené dans le cas général de 41,67 % à 34,33 % en 2002, taux auquel s'ajoute, pour les plus grandes d'entre elles, une contribution sociale égale à 3,3 % de la fraction de l'impôt qui excède 763 000 euros. Le taux nominal d'imposition des bénéfices en France se situe donc actuellement, avec un taux de 35,43 %, à un niveau proche de la médiane des pays membres de l'Union européenne, soit 34 %. Par ailleurs, le Gouvernement a pour objectif de réduire le coût du travail et d'améliorer la compétitivité des entreprises françaises, notamment dans le secteur financier. Le Parlement a ainsi décidé, dans le cadre de la loi de finances pour 2003, de supprimer progressivement la contribution des institutions financières, qui est principalement assise sur les charges de personnel. Le taux actuel de 1 % sera abaissé à 0,80 % pour la contribution due en 2003 et à 0,40 % pour celle due en 2004. Elle sera finalement supprimée à compter de 2005.
