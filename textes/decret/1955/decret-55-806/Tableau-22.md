@@ -1,21 +1,43 @@
 # Article Tableau 22
 
-CARACTERISATION DE LA MALADIE
+DÉSIGNATION DES MALADIES
 
-Silicose : fibrose pulmonaire consécutive à l'inhalation de poussières renfermant de la silice libre lorsqu'il y a des signes radiographiques accompagnés de troubles (dyspnée et fréquemment bronchorrhée et toux) confirmés par des épreuves fonctionnelles de l'appareil respiratoire
+Silicose, schistose, talcose, kaolinose et autres pneumoconioses provoquées par ces poussières ; ces affections sont caractérisées par des signes radiographiques spécifiques, qu'ils s'accompagnent ou non de troubles fonctionnels.
 
-DELAI de prise en charge : 5 ans.
+DÉLAI de prise en charge
 
-Complications cardiaques : hyposystolie ou asystolie par insuffisance ventriculaire droite
+15 ans
 
-DELAI de prise en charge : 5 ans
+(sous réserve des dispositions du décret pris en application de l'article L. 461-7 du code de la sécurité sociale).
 
-Complications tuberculeuses : silicose se manifestant en téléradiographie au minimum par un semis nodulaire à gros grains et compliquée de tuberculose pulmonaire confirmée bactériologiquement DELAI de prise en charge : 5 ans
+LISTE INDICATIVE DES PRINCIPAUX TRAVAUX
 
-Complications pulmonaires non tuberculeuses : pneumothorax spontané
+susceptibles de provoquer ces maladies
 
-DELAI de prise en charge : 5 ans.
+Travaux exposant à l'inhalation de poussières de silice libre, effectués dans une exploitation ou une entreprise relevant du régime agricole de protection sociale.
 
-LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer la maladie
+DÉSIGNATION DES MALADIES
 
-Travaux exposant à l'inhalation de poussières de silice libre effectués dans une exploitation ou une entreprise relevant du régime agricole de protection sociale.
+Complications de ces affections :
+
+a) Complication cardiaque :
+
+Insuffisance ventriculaire droite caractérisée.
+
+b) Complications pleuropulmonaires :
+
+Tuberculose ou autre mycobactériose surajoutée et caractérisée ;
+
+Nécrose cavitaire aseptique ;
+
+Aspergillose intracavitaire confirmée par la sérologie.
+
+c) Complications non spécifiques :
+
+Pneumothorax spontané ;
+
+Suppuration broncho-pulmonaire subaiguë ou chronique ;
+
+Insuffisance respiratoire aiguë nécessitant des soins intensifs en milieu spécialisé.
+
+d) Association d'une pneumoconiose avec une sclérodermie systémique progressive (syndrome d'Erasmus).

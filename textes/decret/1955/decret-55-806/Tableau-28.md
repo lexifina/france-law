@@ -1,25 +1,35 @@
 # Article Tableau 28
 
-DESIGNATION DES MALADIES - A -
+DÉSIGNATION DES MALADIES
 
-Ulcérations cutanées
+Ulcérations cutanées.
 
-DELAI de prise en charge : 7 jours
+DÉLAI de prise en charge
 
-Lésions eczématiformes (cf. tableau 44)
+7 jours
 
-DELAI de prise en charge : Cf. Tableau 44
+DÉSIGNATION DES MALADIES
 
-Asthme ou dyspnée asthmatitorme
+Lésions eczématiformes (cf. tableau 44°).
 
-DELAI de prise en charge : (cf. Tableau 45 A).
+DÉLAI de prise en charge
 
-LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptiles de provoquer ces maladies
+Cf. tableau 44°
+
+LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies
 
 Travaux comportant la préparation, la manipulation ou l'emploi de l'aldéhyde formique, de ses solutions et de ses polymères, notamment :
 
-- travaux de désinfection :
+- travaux de désinfection ;
 
 - préparation des couches dans les champignonnières ;
 
 - traitement des peaux.
+
+DÉSIGNATION DES MALADIES
+
+Rhinite, asthme ou dyspnée asthmatiforme (cf. A du tableau 45°).
+
+DÉLAI de prise en charge
+
+Cf. A du tableau 45°

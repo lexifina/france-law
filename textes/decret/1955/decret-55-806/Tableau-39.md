@@ -1,67 +1,199 @@
 # Article Tableau 39
 
-DESIGNATION DES MALADIES :
+DÉSIGNATION DES MALADIES
 
-Hygromas aigu ou chronique des bourses séreuses ou atteinte inflammatoire des tissus sous-cutanés des zones d'appui du genou.
+A. - Epaule
 
-TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
+Epaule douloureuse simple (tendinopathie de la coiffe des rotateurs).
 
-Travaux comportant habituellement une position agenouillé.
+DÉLAI de prise en charge
 
-DESIGNATION DES MALADIES :
+7 jours
 
-Hygromas aigu ou chronique des bourses séreuses ou atteinte inflammatoire des tissus sous-cutanés des zones d'appui du coude.
+LISTE LIMITATIVE DES TRAVAUX susceptibles de provoquer ces maladies
 
-TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
+Travaux comportant habituellement des mouvements répétés ou forcés de l'épaule.
 
-Travaux comportant habituellement un appui prlongé sur le coude.
+DÉSIGNATION DES MALADIES
 
-DESIGNATION DES MALADIES :
+Epaule enraidie succédant à une épaule douloureuse simple rebelle.
 
-Syndrome du canal carpien (compression du nerf médian).
+DÉLAI de prise en charge
 
-TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
+90 jours
 
-Travaux manuels comportant de façon habituelle, soit :
+LISTE LIMITATIVE DES TRAVAUX susceptibles de provoquer ces maladies
 
-Un appui carpien ;
+Travaux comportant habituellement des mouvements répétés ou forcés de l'épaule.
 
-La manipulation d'outils ou d'objets nécessitant un appui sur le talon de la main ;
+DÉSIGNATION DES MALADIES
 
-L'hyperextension répétée ou prolongée du poignet.
+B. - Coude
 
-DESIGNATION DES MALADIES :
+Epicondylite.
 
-Syndrome de la loge de Guyon (compression du nerf cubital au niveau du poignet).
+DÉLAI de prise en charge
 
-TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
+7 jours
 
-Travaux entraînant de manière habituelle une pression prolongée ou répétée du talon de la main.
+LISTE LIMITATIVE DES TRAVAUX susceptibles de provoquer ces maladies
 
-DESIGNATION DES MALADIES :
+Travaux comportant habituellement des mouvements répétés de préhension ou d'extension de la main sur l'avant-bras ou des mouvements de supination et pronosupination.
+
+DÉSIGNATION DES MALADIES
+
+Epitrochléite.
+
+DÉLAI de prise en charge
+
+7 jours
+
+LISTE LIMITATIVE DES TRAVAUX susceptibles de provoquer ces maladies
+
+Travaux comportant habituellement des mouvements répétés d'adduction ou de flexion et pronation de la main et du poignet ou des mouvements de supination et pronosupination.
+
+DÉSIGNATION DES MALADIES
+
+Hygromas :
+
+- hygroma aigu des bourses séreuses ou atteinte inflammatoire des tissus sous-cutanés des zones d'appui du coude ;
+
+DÉLAI de prise en charge
+
+7 jours
+
+LISTE LIMITATIVE DES TRAVAUX susceptibles de provoquer ces maladies
+
+Travaux comportant habituellement un appui prolongé sur la face postérieure du coude.
+
+DÉSIGNATION DES MALADIES
+
+- hygroma chronique des bourses séreuses.
+
+DÉLAI de prise en charge
+
+90 jours
+
+LISTE LIMITATIVE DES TRAVAUX susceptibles de provoquer ces maladies
+
+Travaux comportant habituellement un appui prolongé sur la face postérieure du coude.
+
+DÉSIGNATION DES MALADIES
 
 Syndrome de la gouttière épitrochléo-olécranienne (compression du nerf cubital).
 
-TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
+DÉLAI de prise en charge
 
-Travaux entraînant de manière habituelle un appui prolongé sur le coude.
+90 jours
 
-DESIGNATION DES MALADIES :
+LISTE LIMITATIVE DES TRAVAUX susceptibles de provoquer ces maladies
 
-Syndrome de compression du nerf sciatique poplité externe au col du péroné.
+Travaux comportant habituellement un appui prolongé sur la face postérieure du coude.
 
-TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
+DÉSIGNATION DES MALADIES
+
+C. - Poignet main et doigt
+
+Tendinite.
+
+Ténosynovite.
+
+DÉLAI de prise en charge
+
+7 jours
+
+LISTE LIMITATIVE DES TRAVAUX susceptibles de provoquer ces maladies
+
+Travaux comportant de façon habituelle des mouvements répétés ou prolongés des tendons fléchisseurs ou extenseurs de la main et des doigts.
+
+DÉSIGNATION DES MALADIES
+
+Syndrome du canal carpien.
+
+Syndrome de la loge de Guyon.
+
+DÉLAI de prise en charge
+
+30 jours
+
+LISTE LIMITATIVE DES TRAVAUX susceptibles de provoquer ces maladies
+
+Travaux comportant de façon habituelle soit des mouvements répétés ou prolongés d'extension du poignet ou de préhension de la main, soit un appui carpien, soit une pression prolongée ou répétée sur le talon de la main.
+
+DÉSIGNATION DES MALADIES
+
+D. - Genou
+
+Syndrome de compression du nerf sciatique poplité externe.
+
+DÉLAI de prise en charge
+
+7 jours
+
+LISTE LIMITATIVE DES TRAVAUX susceptibles de provoquer ces maladies
 
 Travaux comportant de manière habituelle une position accroupie prolongée.
 
-DESIGNATION DES MALADIES :
+DÉSIGNATION DES MALADIES
 
-Epicondylite ...
+Hygromas :
 
-TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
+- Hygroma aigu des bourses séreuses ou atteinte inflammatoire des tissus sous-cutanés des zones d'appui du genou ;
 
-Travaux comportant de manière habituelle, soit :
+DÉLAI de prise en charge
 
-- des mouvements répétés de supination maximale ;
+7 jours
 
-- le port d'objets lourds entraînant l'extension complète de l'avant-bras en supination.
+LISTE LIMITATIVE DES TRAVAUX susceptibles de provoquer ces maladies
+
+Travaux comportant de manière habituelle un appui prolongé sur le genou.
+
+DÉSIGNATION DES MALADIES
+
+- hygroma chronique des bourses séreuses.
+
+DÉLAI de prise en charge
+
+90 jours
+
+LISTE LIMITATIVE DES TRAVAUX susceptibles de provoquer ces maladies
+
+Travaux comportant de manière habituelle un appui prolongé sur le genou.
+
+DÉSIGNATION DES MALADIES
+
+Tendinite sous-quadricipitale ou rotulienne.
+
+DÉLAI de prise en charge
+
+7 jours
+
+LISTE LIMITATIVE DES TRAVAUX susceptibles de provoquer ces maladies
+
+Travaux comportant de manière habituelle des mouvements répétés d'extension ou de flexion prolongées du genou.
+
+DÉSIGNATION DES MALADIES
+
+Tendinite de la patte d'oie.
+
+DÉLAI de prise en charge
+
+7 jours
+
+LISTE LIMITATIVE DES TRAVAUX susceptibles de provoquer ces maladies
+
+Travaux comportant de manière habituelle des mouvements répétés d'extension ou de flexion prolongées du genou.
+
+DÉSIGNATION DES MALADIES
+
+E. - Cheville et pied
+
+Tendinite achiléenne.
+
+DÉLAI de prise en charge
+
+7 jours
+
+LISTE LIMITATIVE DES TRAVAUX susceptibles de provoquer ces maladies
+
+Travaux comportant de manière habituelle des efforts pratiqués en station prolongée sur la pointe des pieds.

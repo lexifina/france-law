@@ -1,53 +1,93 @@
 # Article Tableau 29
 
-DESIGNATION DES MALADIES - A -
+DÉSIGNATION DES MALADIES
 
-Affections ostéo-articulaires :
+A. - Affections ostéo-articulaires confirmées par des examens radiologiques :
 
-- arthrose hyperostosante du coude ;
+- arthrose du coude comportant des signes radiologiques d'ostéophytose ;
+
+DÉLAI de prise en charge
+
+5 ans
+
+DÉSIGNATION DES MALADIES
 
 - ostéonécrose du semi-lunaire (maladie de Kienböck) ;
 
-- ostéonécrose du scaphoïde carpien (maladie de Köhler),
+DÉLAI de prise en charge
 
-le diagnostic de ces affections exige un contrôle radiographique.
+1 an
 
-DELAI de prise en charge : 1 an
+DÉSIGNATION DES MALADIES
 
-Troubles angioneurotiques de la main, tels que crampes de la main, prédominantes à l'index et au médius, pouvant s'accompagner de troubles prolongés de la sensibilité.
+- ostéonécrose du scaphoïde carpien (maladie de Kölher).
 
-TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES
+DÉLAI de prise en charge
+
+1 an
+
+DÉSIGNATION DES MALADIES
+
+Troubles angioneurotiques de la main, prédominant à l'index et au médius, pouvant s'accompagner de crampes de la main et de troubles prolongés de la sensibilité et confirmés par des épreuves fonctionnelles.
+
+DÉLAI de prise en charge
+
+1 an
+
+LISTE LIMITATIVE DES TRAVAUX susceptibles de provoquer ces maladies
 
 Travaux exposant habituellement aux vibrations transmises par :
 
-- les machines outils tenues à la main, notamment : les machines percutantes, telles que les marteaux piqueurs, les marteaux burineurs ; les machines roto-percutantes, telles que les marteaux perforateurs ; les machines rotatives, telles que les meuleuses, les scies à chaîne, les taille-haies, les débroussailleuses portatives, les tondeuses, les motohues, les motoculteurs munis d'un outil rotatif ; les machines alternatives, telles que les ponceuses et les scies sauteuses ;
+Les machines-outils tenues à la main, notamment : les machines percutantes, telles que les marteaux piqueurs, les burineurs, les machines roto-percutantes, telles que les marteaux perforateurs, les machines rotatives, telles que les meuleuses, les scies à chaîne, les taille-haies, les débroussailleuses portatives, les tondeuses, les motohoues, les motoculteurs munis d'un outil rotatif, les machines alternatives, telles que les ponçeuses et les scies sauteuses ;
 
-- les outils associés à certaines des machines précitées, notamment dans les travaux de burinage ;
+Les outils associés à certaines des machines précitées, notamment dans les travaux de burinage ;
 
-- les objets en cours de façonnage, notamment dans les travaux de meulage et de polissage et les travaux sur machine à rétreindre.
+Les objets en cours de façonnage, notamment dans les travaux de meulage et de polissage et les travaux sur machine à rétreindre.
 
-DESIGNATION DES MALADIES - B
+DÉSIGNATION DES MALADIES
 
-Affections ostéo-articulaires :
+B. - Affections ostéo-articulaires confirmées par des examens radiologiques :
 
-- arthrose hyperostosante du coude ;
+- arthrose du coude comportant des signes radiologiques d'ostéophytose ;
+
+DÉLAI de prise en charge
+
+5 ans
 
 - ostéonécrose du semi-lunaire (maladie de Kienböck) ;
 
-- ostéonécrose du scaphoïde carpien (maladie de Köhler)
+DÉLAI de prise en charge
 
-DELAI de prise en charge : 1 an
+1 an
 
-le diagnostic de ces affections exige un contrôle radiographique.
+- ostéonécrose du scaphoïde carpien (maladie de Kölher).
 
-TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES.
+DÉLAI de prise en charge
+
+1 an
+
+LISTE LIMITATIVE DES TRAVAUX susceptibles de provoquer ces maladies
 
 Travaux exposant habituellement aux chocs provoqués par l'utilisation manuelle d'outils percutants :
 
-- travaux de martelage, notamment en forge, tôlerie, chaudronnerie, travail du cuir ;
+- travaux de martelage ;
 
 - travaux de terrassement et de démolition ;
 
 - utilisation de pistolets de scellement ;
 
 - utilisation de sécateurs pneumatiques.
+
+DÉSIGNATION DES MALADIES
+
+C. - Atteinte vasculaire cubito-palmaire en règle unilatérale (syndrome du marteau hypothénar) entraînant un phénomène de Raynaud ou des manifestations ischémiques des doigts confirmée par l'artériographie objectivant un anévrisme ou une thrombose de l'artère cubitale ou de l'arcade palmaire superficielle.
+
+DÉLAI de prise en charge
+
+1 an
+
+(sous réserve d'une durée d'exposition de 5 ans).
+
+LISTE LIMITATIVE DES TRAVAUX susceptibles de provoquer ces maladies
+
+Travaux exposant habituellement à l'utilisation du talon de la main en percussion directe itérative sur un plan fixe ou aux chocs transmis à l'éminence hypothénar par un outil percuté ou percutant.
