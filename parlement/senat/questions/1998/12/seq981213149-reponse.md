@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981213149
+
+- Question : [SEQ981213149](seq981213149.md) — Extension aux collaborateurs de cabinet des avantages acquis par les agents territoriaux
+
+## Réponse
+
+*Intérieur, JO du 1999-03-18, page 892*
+
+Réponse. - Le décret nº 87-1004 du 16 décembre 1987 relatif aux collaborateurs de cabinet des autorités territoriales précise dans son article 7 que la rémunération du collaborateur de cabinet ne peut être supérieure à 90 % de celle afférente à l'indice terminal de rémunération du fonctionnaire territorial titulaire du grade le plus élevé en fonction dans la collectivité ou l'établissement public administratif. Le terme rémunération intègre tous les éléments constitutifs de la rémunération, tels qu'ils découlent de l'article 20 de la loi du 13 juillet 1983 portant droits et obligations des fonctionnaires. Le niveau global de rémunération à prendre en compte pour vérifier le respect des 90 % précités inclut par conséquent, outre le traitement indiciaire (dans la limite de l'indice terminal auquel l'agent peut prétendre), le supplément familial de traitement, l'indemnité de résidence et les primes et indemnités institués sur la base d'un texte législatif ou réglementaire. Parmi ces primes et indemnités figurent non seulement celles qui résultent des dispositions du décret du 6 septembre 1991 pris pour l'application de l'article 88 de la loi du 26 janvier 1984 précitée et qui sont liées au grade de l'agent dont l'indice terminal de rémunération sert de référence, mais également les avantages collectivement acquis découlant de l'article 111, alinéa 3, de cette même loi dans sa rédaction issue de l'article 60 de la loi du 22 juillet 1998 portant diverses dispositions d'ordre économique et financier, dans la mesure où ces avantages ont été mis en place dans la collectivité avant 1984.
