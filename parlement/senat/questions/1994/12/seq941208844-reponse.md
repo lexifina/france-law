@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941208844
+
+- Question : [SEQ941208844](seq941208844.md) — Conditions d'ouverture de certains commerces le dimanche
+
+## Réponse
+
+*Entreprises, JO du 1995-01-19, page 146*
+
+Réponse. - L'article L. 221-16 du code du travail dispose que les commerces de produits alimentaires peuvent être ouverts au public jusqu'au dimanche midi avec un repos compensateur d'une demi-journée par roulement et par semaine. Le décret no 94-396 du 18 mai 1994 relatif au repos hebdomadaire précise que les établissements auxquels s'appliquent les dispositions de l'article L. 221-16 précité sont ceux dont l'activité exclusive ou principale est la vente de denrées alimentaires au détail. La dérogation de droit au principe de la fermeture dominicale qui est inscrite dans l'article L. 221-16 précité peut cependant être écartée par un accord professionnel conclu en application de l'article L. 221-17 du code du travail qui prévoit, pour les établissements relevant strictement de la profession, de donner le repos hebdomadaire du personnel le dimanche dans sa totalité ou tout autre jour de la semaine dans un département ou dans une partie du territoire départemental. A la demande des organisations des employeurs et des salariés de la profession, le préfet peut décider par arrêté que les établissements concernés seront fermés au public pendant la durée du repos conventionnel. Dans son arrêt du 25 octobre 1994, la chambre sociale de la Cour de cassation constate que l'arrêté préfectoral pris en application de l'article L. 221-17 du code du travail pour le département du Puy-de-Dôme ne concerne que les établissements où s'effectuent à titre principal la fabrication, la vente ou la distribution du pain et que, par voie de conséquence, il ne peut s'appliquer à des établissements pour lesquels la fabrication, la vente ou la distribution du pain ne constituent pas une activité effectuée à titre principal.
