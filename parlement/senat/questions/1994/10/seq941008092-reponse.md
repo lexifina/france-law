@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941008092
+
+- Question : [SEQ941008092](seq941008092.md) — Incitation fiscale pour la transformation de bureaux inoccupés en logements
+
+## Réponse
+
+*Budget, JO du 1995-02-09, page 331*
+
+Réponse. - La résorption du stock de bureaux vacants et l'accroissement du marché du logement locatif constituent des priorités pour le Gouvernement. C'est pourquoi l'application de la réduction d'impôt pour investissement locatif aux transformations en logements de locaux précédemment affectés à un autre usage prévue à l'article 199 decies C du code général des impôts, applicable initialement aux locaux vacants depuis le 1er juin 1992, a été étendue par la loi du 21 juillet 1994 relative à l'habitat aux locaux vacants depuis le 1er janvier 1994. Le projet de loi de finances pour 1995 propose d'améliorer encore ce dispositif : la condition de vacance du local ne serait plus exigée et la quasi-totalité des travaux effectués à l'occasion de la transformation seraient désormais éligibles à l'avantage fiscal. Ainsi simplifié et renforcé, le dispositif devrait être davantage incitatif. Dans le même esprit, il sera admis que l'acquisition en vue de leur location de logements résultant de la transformation de locaux affectés antérieurement à un usage autre que l'habitation ouvre droit à la réduction d'impôt prévue aux articles 199 nonies C à 199 decies B du code général des impôts au même titre que l'acquisition d'un logement neuf dès lors que les travaux ont concouru à la création d'un immeuble au sens de la jurisprudence du Conseil d'Etat en matière de TVA immobilière et ont été régulièrement autorisés par un permis de construire. Ces dispositions, qui s'appliqueront aux travaux achevés et aux acquisitions réalisés avant le 31 décembre 1997, sont de nature à répondre aux préoccupations exprimées par l'honorable parlementaire.
