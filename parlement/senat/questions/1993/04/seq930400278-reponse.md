@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930400278
+
+- Question : [SEQ930400278](seq930400278.md) — Difficultés rencontrées par les bénéficiaires de PAP à annuités progressives
+
+## Réponse
+
+*Économie, JO du 1993-09-09, page 1587*
+
+Réponse. - Les établissements de crédit ne peuvent modifier les caractéristiques de prêts réglementés tels que les PAP. C'est pourquoi, afin de tenir compte des difficultés rencontrées par certains emprunteurs pour le remboursement de ces prêts, des mesures de portée générale ont été adoptées en 1988, permettant un allégement important des charges de la dette, le coût de cet allégement étant supporté par le budget de l'Etat. Ainsi, pour les titulaires de prêts PAP accordés entre le 1er janvier 1981 et le 31 janvier 1985, (période pendant laquelle les taux d'intérêt et la progressivité des charges étaient élevés) lors de la révision habituelle de l'échéance, la charge mensuelle de remboursement reste pendant douze mois, limitée à son niveau antérieur. Pour les années suivantes, elle n'augmente que de 2,75 p. 100 au lieu des 3,5 p. 100 et 4 p. 100 qui devraient s'appliquer. Ces modifications s'effectuent sans frais et sans allongement de la durée du prêt. Ces dispositions ont complété les mesures de revalorisation de l'APL et la création de commissions nationales ou locales d'aides aux accédants. Au plan fiscal, il n'est pas envisageable d'aligner les modalités d'octroi de la réduction d'impôt pour intérêts d'emprunt sur les caractéristiques particulières des emprunts (emprunt à taux fixe, variable, progressif, in fine, à remboursement modulable, etc.). Cette réduction d'impôt n'est qu'un des éléments de l'équilibre financier du projet d'investissement des contribuables qui sont à même d'apprécier lors de la conclusion des emprunts les avantages comparés des diverses possibilités qui leur sont offertes.
