@@ -1,0 +1,9 @@
+# Réponse à la question SEQ820405362
+
+- Question : [SEQ820405362](seq820405362.md) — Collectivités locales: application de la procédure de "sursis d'exécution"
+
+## Réponse
+
+*Intérieur, JO du 1982-05-15, page 2074*
+
+(texte non publié dans les données)
