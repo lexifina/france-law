@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960716551
+
+- Question : [SEQ960716551](seq960716551.md) — Contraintes des communes concernant l'accueil des enfants en classes maternelles
+
+## Réponse
+
+*Éducation, JO du 1996-08-29, page 2222*
+
+Réponse. - L'article 23 de la loi no 83-663 du 22 juillet 1983 modifiée fixe les conditions de répartition des dépenses de fonctionnement des écoles maternelles et élémentaires accueillant des enfants de plusieurs communes. Il prévoit en outre expressément le droit au maintien d'un élève dans l'école d'une commune autre que celle de sa résidence jusqu'au terme de sa scolarité, soit maternelle, soit élémentaire, en cours. Sur la base de cette disposition, il a été considéré par la jurisprudence qu'un enfant donr les parents ont déménagé dans une autre commune bénéficie du droit au maintien dans l'école de la commune où il résidait auparavant. La portée de cette jurisprudence semble a priori limitée puisqu'elle suppose que les familles concernées déménagent dans une commune voisine. Il paraît, en effet, peu vraisemblable que celles-ci décident de faire parcourir quotidiennement de façon durable à leurs enfants de longues distances pour aller à l'école alors qu'elles disposent d'une possibilité d'accueil sur place, dans leur nouvelle commune de résidence. Les règles fixées par la loi sont les mêmes pour les écoles ou classes maternelles et pour les écoles élémentaires. En instituant un dispositif identique, le législateur a clairement souhaité ne pas écarter l'école maternelle, bien qu'elle ne revête pas de caractère obligatoire, du régime défini par l'article 23. Il s'est efforcé dans ce texte de maintenir un équilibre entre les intérêts des communes et les droits des parents et des élèves. C'esr ainsi que, il convient de le souligner, lors du passage de l'école maternelle à l'école élémentaire, il n'y a plus de droit au maintien.
