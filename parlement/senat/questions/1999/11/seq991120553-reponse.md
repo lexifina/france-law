@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991120553
+
+- Question : [SEQ991120553](seq991120553.md) — Absence de statut des aides familiales dans le commerce et l'artisanat
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2000-01-20, page 228*
+
+Réponse. - Les prestations de retraite sont évaluées selon la durée et le montant des cotisations versées tout au long de leur période d'activité professionnelle. Dès lors les personnes qui ont travaillé comme aide familiale auprès de leurs parents chef d'entreprise artisanale ou commerciale et qui n'ont pas cotisé à titre personnel à un régime obligatoire de retraite ne bénéficient d'aucun droit particulier. Par ailleurs, il est exact que les dispositions de l'article L. 321-13 du code rural, qui prévoit un salaire différé pour les héritiers ayant participé à la vie de l'exploitation agricole de leurs ascendants, ne sont pas transposables aux personnes ayant exercé une activité dans l'entreprise commerciale ou artisanale de leurs parents. Toutefois, ces années travaillées comme aide familiale et qui n'ont pas donné lieu à cotisation peuvent être considérées comme " période dite d'équivalence " et être comptabilisées pour le calcul de la durée globale de la carrière professionnelle des intéressés, tous régimes confondus. Cette prise en compte des années peut permettre d'obtenir une retraite à taux plein dès l'âge de soixante ans. Une éventuelle réforme prévoyant l'intégration des points dit d'équivalence dans le calcul du revenu de référence nécessite une réflexion, compte tenu des moyens de financement supplémentaires qui seraient nécessaires aux différents régimes de sécurité sociale pour l'appliquer. D'ores et déjà, le Gouvernement s'efforce de garantir aux plus défavorisés un minimum de ressources grâce à l'attribution du fonds de solidarité vieillesse qui s'ajoute aux pensions modestes pour atteindre un plafond minimal social revalorisé périodiquement.
