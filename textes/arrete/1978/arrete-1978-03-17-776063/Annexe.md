@@ -80,6 +80,8 @@ ZONE II
 
 Agglomérations, communautés urbaines et villes nouvelles.
 
+Cessy, Challex, Chevry, Collonges, Crozet, Divonne-les-Bains, Echenevex, Farges, Gex, Grilly, Léaz, Péron, Pougny, Saint-Jean-de-Gonville, Sauverny, Ségny, Versonnex, Vesancy
+
 Genève (communes françaises de l’agglomération de).
 
 (Complément en Haute-Savoie.)
@@ -511,6 +513,8 @@ Chambéry.
 Barberaz, Barby, Bassens, Challes-les-Eaux, Chambéry, Chignin, Cognin, Jacob-Bellecombette, La Motte-Servolex, La Ravoire, Saint-Alban-Leysse, Saint-Baldoph, Saint-Jean-D'arvey, Saint-Jeoire-Prieuré, Sonnaz, Vimines, Montagnole, Voglans.
 
 74 - Haute-Savoie
+
+Allinges, Allonzier-la-Caille, Andilly, Anthy-sur-Léman, Arbusigny, Archamps, Beaumont, Bossey, Cercier, Cernex, Chênex, Chens-sur-Léman, Chevrier, Collonges-sous-Salève, Copponex, Cruseilles, Cuvat, Dingy-en-Vuache, Douvaine, Evian-les-Bains, Excenevex, Feigères, Jonzier-Epagny, Juvigny, Loisin, Lugrin, Machilly, Margencel, Marin, Massongy, Maxilly-sur-Léman, Menthonnex-en-Bornes, Messery, La Muraz, Nangy, Nernier, Neuvecelle, Neydens, Pers-Jussy, Présilly, Publier, Reignier, Saint-Blaise, Saint-Cergues, Le Sappey, Savigny, Scientrier, Sciez, Thonon-les-Bains, Valleiry, Veigy-Foncenex, Vers, Villy-le-Bouveret, Villy-le-Pelloux, Viry, Vovray-en-Bornes, Vulbens, Yvoire
 
 Genève (communes françaises de l’agglomération de).
 
