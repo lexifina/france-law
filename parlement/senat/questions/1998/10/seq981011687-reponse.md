@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981011687
+
+- Question : [SEQ981011687](seq981011687.md) — Contrats de plan Etat-région
+
+## Réponse
+
+*Aménagement du territoire, JO du 1999-03-11, page 768*
+
+Réponse. - La ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question concernant les contrats de plan Etat-région. La circulaire de la ministre de l'aménagement du territoire et de l'environnement, en date du 1er juillet dernier, relative à la préparation des prochains contrats de plan Etat-région dans son annexe III et la circulaire du Premier ministre du 31 juillet dernier relative aux contrats de plan Etat-région, parues au Journal officiel du 12 septembre dernier, ont défini une méthode et un calendrier pour l'élaboration des prochains contrats de plan Etat-région. L'importance de la phase de consultation, les travaux préalables nécessaires, tant pour l'Etat que pour les conseils régionaux et les autres collectivités territoriales, la prise en compte des orientations des schémas de services collectifs, ont conduit le Gouvernement à modifier le calendrier initialement fixé. La consultation sur la stratégie de l'Etat dans la région se déroulera du 1er janvier au 30 avril 1999, celle sur les schémas de services collectifs jusqu'au 30 juin 1999. Les préfets de région ont réuni la conférence régionale pour l'aménagement et le développement du territoire lors de la deuxième quinzaine de décembre 1998, afin de définir les modalités de la consultation entre les différentes parties. La date de la phase de négociation reste inchangée et fixée au second trimestre 1999, afin de permettre une signature des contrats à la fin de l'année 1999. Les préfets de région ont reçu instruction d'informer le président du conseil régional ainsi que les responsables des autres collectivités et organismes concernés de ce nouveau calendrier.
