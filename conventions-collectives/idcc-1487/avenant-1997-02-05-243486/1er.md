@@ -1,0 +1,29 @@
+# Article 1er
+
+La présente convention règle dans l'ensemble du territoire national, y compris les DOM, les rapports entre les employeurs et tous les salariés des magasins de vente au détail de l'horlogerie, bijouterie, joaillerie et orfèvrerie, à l'exclusion des VRP.
+
+Le champ d'application de la convention collective nationale des commerces de détail de l'horlogerie-bijouterie couvre les entreprises ou établissements dont l'activité réelle et principale est désignée aux alinéas suivants :
+
+─ les commerces de détail de l'horlogerie, bijouterie, joaillerie, orfèvrerie ;
+
+─ les commerces de détail et de réparation dans les activités ci-dessus mentionnées ;
+
+─ tout commerce de vente incluant les activités de réparation et de fabrication lorsque celles-ci sont accessoires en horlogerie, bijouterie, joaillerie, orfèvrerie et accessoires.
+
+L'activité principale exercée entraîne, en principe, le classement de ces entreprises dans les rubriques NAF :
+
+─ 52.4V : commerce de détail de l'horlogerie-bijouterie ;
+
+─ 52.4Z : commerce de détail de la bijouterie fantaisie.
+
+Est visée dans la rubrique 52.4Z exclusivement l'activité de vente des articles de bijouterie fantaisie.
+
+Le numéro de code NAF n'est donné qu'à titre indicatif.
+
+La présente convention n'est pas applicable aux entreprises dont le code NAF est 52.4V ou 52.4Z et qui, à la date de l'extension de la convention collective, n'étaient pas adhérentes à l'un des syndicats signataires, mais rattachées exclusivement à la fédération BJOC, et qui appliquaient à cette date la convention BJO dont la BJOC est signataire. Cela aussi longtemps qu'elles continueront à l'appliquer et sauf dénonciation de leur part ou des organisations patronales ou de salariés signataires.
+
+La liste des entreprises est reprise en annexe.
+
+Le présent accord, établi conformément à l'article L. 132.2 du code du travail, est fait en nombre suffisant d'exemplaires pour remise à chacune des organisations signataires et dépôt dans les conditions prévues à l'article L. 132-10 du code du travail.
+
+L'extension sera demandée par la partie la plus diligente.
