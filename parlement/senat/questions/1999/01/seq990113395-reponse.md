@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990113395
+
+- Question : [SEQ990113395](seq990113395.md) — Exécution d'un jugement du conseil des prud'hommes
+
+## Réponse
+
+*Justice, JO du 1999-06-17, page 2075*
+
+Réponse. - La question posée par l'honorable parlementaire portant sur une situation individuelle qui fait l'objet d'une procédure judiciaire en cours, il ne peut y être répondu en ce qui concerne les faits discutés devant la juridiction saisie. Il est possible, en revanche, de rappeler certains des mécanismes applicables lorsque, comme dans le cas d'espèce, un salarié a bénéficié, avant l'ouverture d'une procédure collective à l'égard de l'entreprise qui l'employait, d'un jugement prud'homal lui accordant des indemnités de licenciement et des dommages-intérêts, ce jugement frappé d'appel étant assorti pour partie de l'exécution provisoire. Dans une telle hypothèse, si, après l'ouverture d'une procédure de redressement judiciaire, le représentant des créanciers désigné par le tribunal est tenu d'exécuter les condamnations prononcées par les juridictions prud'homales à l'encontre du débiteur, il ne peut le faire que dans la limite des fonds qu'il détient et dans le respect de l'ordre des paiements établi par la loi à peine d'engager sa responsabilité professionnelle. Quand les fonds disponibles ne lui permettent pas de régler les créances garanties par le privilège des salaires, il en est réclamé l'avance aux institutions gestionnaires du régime d'assurance des créances salariées en application de l'article L. 143-11-7 du code du travail. Ce texte précisant que ces institutions " doivent avancer les sommes correspondant à des créances définitivement établies par décision de justice ", l'exercice d'une voie de recours fait donc obstacle à leur prise en charge nonobstant l'exécution provisoire prononcée par les premiers juges.
