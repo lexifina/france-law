@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920119501
+
+- Question : [SEQ920119501](seq920119501.md) — Frais de procédure : régime fiscal
+
+## Réponse
+
+*Budget, JO du 1992-07-16, page 1613*
+
+Réponse. - Au regard de la taxe sur la valeur ajoutée, les remboursements des frais irrépétibles ne constituent pas, en application de l'article 256 du code général des impôts, la contrepartie d'une prestation de services à titre onéreux réalisée par le bénéficiaire. Ils ne sont donc pas imposables à cette taxe. De plus, si elles sont perçues par une personne redevable de la taxe sur la valeur ajoutée, les sommes correspondantes ne sont pas à prendre en compte pour le calcul du pourcentage de déduction. Pour ce qui concerne la détermination des bénéfices professionnels, les frais engagés par une entreprise dans le cadre d'une instance liée à son activité sont en principe déductibles de ses résultats dans les conditions de droit commun. Leur remboursement à l'entreprise constitue alors un profit exceptionnel qui doit être compris dans les résultats imposables de l'exercice au cours duquel la décision de justice qui ordonne le remboursement est devenue définitive. Demême, il résulte des principes généraux de l'impôt sur le revenu que lorsque les frais de procédure, autres que les dépens, peuvent être considérés comme engagés en vue d'acquérir ou de conserver un revenu imposable, et sont à ce titre, déductibles de ce revenu, le remboursement forfaitaire de ces frais doit être soumis à l'impôt au titre de la même catégorie de revenu selon les règles applicables à cette catégorie. Enfin, au regard des impôts locaux, les sommes destinées à couvrir des frais irrépétibles engagés à l'occasion d'un procès présentant un lien direct avec l'exercice de la profession doivent être comprises dans les recettes imposables à la taxe professionnelle lorsqu'il s'agit de titulaires de bénéfices non commerciaux ainsi que dans la valeur ajoutée retenue pour le plafonnement de cette taxe.
