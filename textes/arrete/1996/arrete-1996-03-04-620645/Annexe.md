@@ -1,159 +1,193 @@
 # Article Annexe
 
-Le présent cahier des charges définit les conditions minima auxquelles doivent obligatoirement répondre les caisses enregistreuses à usage des salles de cinéma pour permettre un contrôle satisfaisant des déclarations de recettes.
+Le présent cahier des charges définit les conditions minimales auxquelles doivent répondre les systèmes informatisés de billetteries présentés, par les fournisseurs ou les utilisateurs, en vue de leur agrément par le Centre national de la cinématographie.
 
-Les fabricants devront s'engager auprès du Centre national de la cinématographie à ne fournir aux salles de cinéma que des matériels conformes au présent cahier des charges et conformes au descriptif des matériels et des logiciels homologués par le Centre national de la cinématographie.
+Ce cahier des charges ne vise pas les caisses automatisées, au même usage, dont les caractéristiques et le fonctionnement doivent être conformes à un cahier des charges spécifique prévue par un arrêté du 14 mars 1986.
 
-S'il apparaît au cours de contrôles ultérieurs que les matériels ne sont pas, du fait du constructeur, conformes au cahier des charges, celui-ci s'engage à retirer immédiatement, à ses frais, les matériels du même type en service.
+Les fournisseurs ou les utilisateurs qui soumettent à l'agrément du Centre national de la cinématographie tout système informatisé de billetterie à usage des cinémas s'engagent à respecter les conditions de fonctionnement décrites dans le présent document.
 
-Les caisses informatisées à usage des salles de cinéma doivent remplir les grandes fonctions suivantes :
+Les fournisseurs seront tenus de n'installer que des systèmes conformes à ceux agréés et de communiquer au Centre national de la cinématographie, dans les conditions prévues par arrêté, la liste des sites équipés. Toute modification significative du système sera signalée dans les mêmes conditions.
 
-- édition des billets d'entrée sur le lieu même de vente, destinés à se substituer aux billets préimprimés édités par le C.N.C. ;
+S'il apparaît au cours d'un contrôle ultérieur que les équipements ne sont pas, du fait de l'installateur, conformes au cahier des charges, celui-ci s'engage à retirer immédiatement, à ses frais, les équipements du même type en service.
 
-- comptabilisation et mémorisation des billets édités et des recettes correspondantes ;
+Les systèmes informatisés à usage des salles de cinéma doivent remplir les grandes fonctions suivantes :
 
-- fourniture des informations nécessaires à l'établissement des déclarations de recettes et en particulier l'affectation des recettes par film et par salle ;
+- édition des billets d'entrée ;
 
-- contrôle sur place des recettes par les agents du C.N.C. et des services fiscaux ;
+- comptabilisation et mémorisation des billets édités, des recettes réalisées et des sommes déclarées au titre des formules d'accès au cinéma donnant droit à des entrées multiples ;
 
-- affichage pour le client, sur un écran, du prix à payer.
+- fourniture des informations nécessaires à l'établissement et au transfert dématérialisé des déclarations de recettes et en particulier l'affectation des recettes réalisées et des sommes déclarées au titre des formules d'accès au cinéma donnant droit à des entrées multiples, par programme et par salle ;
 
-1. Les logiciels
+- contrôle sur place des recettes par les agents du Centre national de la cinématographie et de la direction générale des impôts ;
 
-1.1. Le logiciel implanté par le fabricant et conforme au présent cahier des charges (besoins minima) sera rendu inaccessible au niveau de l'ensemble des dispositifs constituant la caisse.
+- affichage pour le client, sur un écran, du prix payé par le spectateur ou, dans le cas des formules d'accès au cinéma donnant droit à des entrées multiples, le prix payé pour la formule.
 
-1.2. Les extensions éventuelles demandées par rapport aux besoins définis dans le présent cahier des charges donneront lieu à des logiciels indépendants du logiciel minimum et non susceptibles de modifier les données ou les résultats de base.
+1. Sécurités
 
-1.3. Un système de protection devra permettre au fabricant de constater une éventuelle manipulation du support du logiciel et des mémoires.
+1.1. Fiabilité du système
 
-2. Mémoires et compteurs
+Toutes les opérations gérées par le système informatisé de billetterie devront être assorties de contrôles suffisants pour en garantir l'intégralité, l'exactitude et l'authenticité.
 
-2.1. La caisse doit mémoriser les données suivantes par programmation de l'exploitant :
+1.2. Accès au système
 
-- le titre des films (longs métrages et éventuellement compléments de programmation) ainsi que leurs numéros de visa ;
+Des protections devront être mises en place de façon telle que seuls les utilisateurs dûment habilités aient accès au système.
 
-- l'identification des salles (au minimum définies par leur numéro d'autorisation d'exercice C.N.C.) ;
+Divers degrés d'habilitation, en fonction de la qualité de l'utilisateur, devront être définis.
 
-- les prix pratiqués ;
+Les agents de la direction générale des impôts et du Centre national de la cinématographie devront pouvoir, lors d'un contrôle, disposer des fonctions correspondant au niveau d'habilitation maximal.
 
-- les séances.
+1.3. Sauvegarde et gestion des incidents
 
-2.2. La caisse doit comptabiliser automatiquement par salle, film et catégorie de prix, les billets dès leur édition, ainsi que la recette correspondante.
+Des procédures de sauvegarde et de reprise en cas d'incident devront être définies afin de préserver les informations en cas de panne ou de dysfonctionnement d'un élément du système.
 
-2.3. La caisse doit assurer une numérotation continue des billets (à l'exception des "billets tests" dans chacune des séries définies par une catégorie de prix dans une salle.
+2. Billets d'entrée
 
-2.4. La caisse doit comporter un dispositif assurant la conservation des données et des compteurs en cas de rupture d'alimentation électrique.
+2.1. Principe général
 
-3. En ce qui concerne les billets
+Chaque billet devra correspondre à l'entrée d'un spectateur et d'un seul.
 
-3.1. Principe général.
-
-Chaque billet ne devra correspondre qu'à l'entrée d'un seul spectateur.
-
-3.2. Configuration des billets.
+2.2. Configuration
 
 Chaque billet devra comporter deux parties prédécoupées :
 
 - une partie destinée à être conservée par le spectateur ;
 
-- une partie destinée au contrôle qui doit se distinguer clairement de la partie principale par le format ou la couleur.
+- une partie destinée au contrôle, qui doit se distinguer clairement de la partie principale par le format ou la couleur et porter la mention : "coupon non vendable".
 
-3.3. Cas particuliers.
+2.3. Cas particuliers
 
-Les billets gratuits et, le cas échéant, les billets tests devront se présenter différemment des billets payants et être aisément reconnaissables par la couleur ou le format et par une indication de la gratuité ou, pour les billets tests, l'inscription très lisible "Test".
+Les billets gratuits et, le cas échéant, les billets-tests devront se présenter différemment des billets payants et être aisément reconnaissables par la couleur ou le format et par une indication de la gratuité ou, pour les billets-tests, par l'inscription très lisible : "test".
 
-3.4. Mentions obligatoires sur le billet.
+2.4. Mentions obligatoires
 
 Informations devant apparaître sur chacune des deux parties du billet :
 
-- le titre du film de long métrage, éventuellement en abrégé ;
+- titre de l'oeuvre cinématographique principale du programme, éventuellement en abrégé ;
 
-- l'identification de la série de billets ;
+- identification de la série de billets ;
 
-- le numéro du billet dans sa série ;
+- numéro du billet dans sa série ;
 
-- le prix payé par le spectateur ;
+- prix payé par le spectateur ou, dans le cas de formule d'accès au cinéma donnant droit à des entrées multiples, prix payé pour la formule d'accès avec l'identification de celle-ci ;
 
-- l'identification de la séance pour laquelle le billet est vendu (jour, heure ou numéro de séance) ;
+- identification de la séance pour laquelle le billet est vendu (jour et heure ou numéro de séance) ;
 
-- l'identification de la salle et son numéro dans le complexe.
+- identification de la salle et son numéro dans le complexe ;
 
-Au cas où plusieurs caisses assureraient la vente de billets d'une même série pour une même salle, l'identification de la caisse qui a édité et comptabilisé le billet.
+- numéro d'opération (cf. titre 5) ;
 
-4. Billets tests
+- identification du système qui a édité et comptabilisé le billet, dans l'hypothèse où plusieurs systèmes assureraient la vente de billets d'une même série pour une même salle.
 
-4.1. Si la caisse peut éditer des "billets tests" permettant de vérifier sa programmation et son fonctionnement, ces billets non destinés à être délivrés au public devront porter une telle mention très lisiblement.
+Information devant apparaître sur le talon de contrôle :
 
-4.2. Ces billets ne seront mémorisés ni en nombre d'entrées, ni en chiffre d'affaires. Il ne provoqueront pas l'avancement des compteurs de numéro.
+"coupon non vendable".
 
-5. Billets prévendus
+2.5. Numérotation des billets
 
-5.1. La caisse devra permettre l'édition de billets directement valables pour des séances ultérieures.
+Chaque billet émis doit porter un numéro d'opération (cf. titre 5).
 
-5.2. Ils devront comporter toutes les mentions prévues au paragraphe 3.4.
+Chaque billet (à l'exclusion des billets-tests) doit être numéroté de façon consécutive dans une même série. Une série doit correspondre à une catégorie de prix et un type de vente (entrée immédiate, prévente, formule d'accès au cinéma donnant droit à des entrées multiples) dans une salle.
 
-De plus, ils devront comporter la date et l'heure (ou le numéro de la séance) pour lesquels ils ont été délivrés.
+Les compteurs de numérotation des billets doivent avoir une capacité minimale de six chiffres.
 
-5.3. La prévente de billets ne devra permettre de délivrer des billets que dans le cadre de la semaine cinématographique en cours.
+Le programme de numérotation des billets doit être inaccessible par l'utilisateur, la numérotation consécutive de la billetterie ne pourra être ni modifiée, ni interrompue, ni remise à zéro tant qu'elle n'aura pas atteint la capacité maximale, moment où elle se remettra automatiquement à zéro pour le seul compteur considéré.
 
-5.4. La prévente de billets devra s'effectuer avec les contraintes de contrôle des recettes offrant des garanties identiques à celles présentées par la vente de billets pour l'entrée immédiate.
+2.6. Prévente
 
-6. Numérotation des billets
+Le système devra permettre l'édition de billets directement valables pour les séances programmées durant les sept jours suivant le jour de la vente.
 
-6.1. Chaque billet émis doit être numéroté (à l'exclusion des "billets tests" et la caisse imprimera elle-même les numéros.
+Les billets prévendus devront comporter les mêmes mentions que les billets pour entrées immédiates. De plus, ils devront faire apparaître la date et l'heure de la délivrance ainsi que le lieu de celle-ci en cas de pluralité de points de vente.
 
-Cette numérotation est une numérotation de billetterie émise et non une numérotation d'opérations.
+La prévente devra s'effectuer avec les contraintes de contrôle des recettes offrant des garanties identiques à celles présentées par la vente de billets pour l'entrée immédiate.
 
-6.2. La numérotation doit être consécutive pour les billets d'une même série.
+2.7. Billet-test
 
-Une série doit correspondre à une catégorie de prix dans une salle.
+Si le système peut éditer des billets-tests permettant de vérifier sa programmation et son fonctionnement, ces billets non destinés à être délivrés au public devront porter la mention "TEST".
 
-6.3. La capacité minimale des compteurs doit être de six chiffres.
+Ces billets ne seront mémorisés ni en nombre d'entrées ni en chiffre d'affaires ; ils provoqueront l'avancement du seul compteur des opérations (cf. titre 5).
 
-6.4. Le programme de numérotation des billets doit être inaccessible au niveau de l'ensemble des dispositifs constituant la caisse : la numérotation consécutive de la billetterie ne pourra être ni modifiée, ni interrompue, ni remise à zéro tant que la numérotation n'aura pas atteint la capacité maximale, moment où elle se remettra automatiquement à zéro pour la série considérée.
+3. Mémoires et compteurs
 
-6.5. Au cas où plusieurs séries de billets pourraient être utilisées pour une même salle et pour une même catégorie de prix, chaque série devra pouvoir être identifiée.
+Le système doit mémoriser les données suivantes programmées par l'exploitant :
 
-7. Etats de contrôle
+- titre des oeuvres cinématographiques composant le programme (longs métrages et éventuellement compléments) ainsi que leurs numéros de visa ;
 
-7.1. La caisse doit éditer des états quotidiens d'entrées et de recettes par salle et par film.
+- identification des salles (au minimum définies par leur numéro d'autorisation d'exercice CNC) ;
 
-7.2. Aucune remise à zéro des compteurs journaliers ou hebdomadaires ne doit être possible sans l'édition préalable d'un état complet des ventes sur la période considérée.
+- tarifs pratiqués ;
 
-7.3. Les états de contrôle, les états quotidiens et hebdomadaires doivent comporter :
+- séances.
 
-- un horodatage automatique ;
+Le système doit comptabiliser automatiquement par salle, par programme cinématographique et série, les billets dès leur édition ainsi que les recettes correspondantes ou les sommes déclarées au titre des formules d'accès au cinéma donnant droit à des entrées multiples.
 
-- l'indication de la période sur laquelle porte l'état ;
+4. Etats de contrôle
 
-- le nombre d'entrées par catégories de prix, par salle et par film, et la recette T.T.C. correspondante ;
+4.1. Le système doit éditer des états quotidiens et hebdomadaires d'entrées, des recettes réalisées et des sommes déclarées au titre des formules d'accès au cinéma donnant droit à des entrées multiples par salle et par programme cinématographique.
 
-- par film et par salle pour chaque série de billets :
+4.2. Aucune remise à zéro des compteurs journaliers ou hebdomadaires ne doit être possible sans l'édition préalable d'un état complet des billets délivrés sur la période considérée.
+
+4.3. Les états quotidiens et hebdomadaires doivent comporter :
+
+Un numéro séquentiel et un horodatage attribués automatiquement par le système ;
+
+L'indication de la période sur laquelle porte l'état ;
+
+Le nombre d'entrées par catégorie de billets, par salle et par programme ainsi que les recettes réalisées et les sommes déclarées au titre des formules d'accès au cinéma donnant droit à des entrées multiples correspondantes, TTC ;
+
+Par programme et par salle pour chaque série de billets :
 
 - le nombre d'entrées dans la période ;
 
 - le prix unitaire ;
 
-- la recette T.T.C. correspondante ;
+- la recette TTC correspondante ;
 
 - le numéro du premier billet vendu sur la période et le numéro du prochain billet à émettre ;
 
-- le titre de chaque film ainsi que son numéro de visa ;
+Le titre et le numéro de visa de chaque oeuvre principale ;
 
-- l'indication de la salle dans laquelle le film a été diffusé.
+L'identification de la salle.
 
-7.4. A tout moment, il doit être possible d'éditer des états de contrôle indiquant le nombre de billets délivrés pour les séances de la journée, l'état de la billetterie et de la programmation.
+4.4. A tout moment, il doit être possible aux agents de la direction générale des impôts et du Centre national de la cinématographie d'éditer des états de contrôle indiquant le nombre de billets délivrés pour les séances de la journée, l'état de la billetterie et de la programmation cinématographique.
 
-7.5. De même, il doit être possible d'éditer à tout moment un état de programmation comportant l'ensemble des données programmées par l'exploitant.
+4.5. De même, il doit être possible d'éditer à tout moment un état de programmation cinématographique comportant l'ensemble des données introduites par l'exploitant.
 
-Fait à Paris, le 20 octobre 1986.
+5. Enregistrement chronologique
 
-Le directeur général des impôts,
+des opérations
 
-R. Baconnier
+Les recettes consécutives à l'émission de billets devront être mémorisées ainsi que toutes les opérations de billetterie de nature à en justifier l'exactitude (édition des billets, annulation, etc.).
 
-Le directeur général
+Ces opérations seront chronologiquement enregistrées et clairement identifiées (numéro d'opération) de sorte qu'il soit toujours possible de faire le lien entre, d'une part, le billet émis et, d'autre part, l'enregistrement de l'événement générateur qui servira de base au calcul des recettes et à l'édition des états correspondants.
 
-du Centre national de la cinématographie,
+Elles doivent pouvoir être ventilées par salle, programme, séance et catégorie de place.
 
-J. Clément
+6. Conservation des informations
+
+Toutes les informations ayant concouru, directement ou indirectement, à l'établissement des relevés de recettes visé au 4.1 ci-dessus sont conservées dans leur contenu originel et dans l'ordre chronologique de leur émission, selon les conditions et délais fixés par l'article L. 102 B du livre des procédures fiscales.
+
+En cas de changement d'un élément matériel ou logiciel du système informatique, toutes les mesures utiles doivent être prises pour permettre la conservation et la restitution des informations.
+
+7. Dispositions en vue
+
+de l'exercice du contrôle
+
+Pour s'assurer de la validité des recettes déclarées, les agents de la direction générale des impôts et du Centre national de la cinématographie doivent pouvoir, à tout moment, visualiser et/ou éditer les informations nécessaires à la vérification de la cohérence des trois éléments suivants :
+
+- les fichiers informatiques gérés par le système ;
+
+- les éditions ;
+
+- l'utilisation des billets.
+
+Le système devra donc comporter des fonctions d'interrogation en temps réel des fichiers permettant de répondre à ce besoin.
+
+Si les billets comportent des mentions codées, le système doit permettre leur restitution en clair.
+
+Lors d'un contrôle, les agents de la direction générale des impôts et du Centre national de la cinématographie doivent pouvoir accéder à la documentation informatique (guide utilisateur avec tables de codification).
+
+Si le système a été réalisé totalement ou partiellement par un prestataire de services, les agents du Centre national de la cinématographie pourront effectuer chez ce prestataire les tests qu'ils estiment nécessaires en vue de l'agrément.
+
+8. Documents d'analyse et de programmation
+
+Ces documents seront déposés lors de la demande d'agrément.
