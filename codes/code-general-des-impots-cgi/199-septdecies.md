@@ -12,4 +12,6 @@ c) Des prêts personnels pour la fraction qui n'a pas été utilisée, dans un d
 
 La réduction d'impôt prévue au premier alinéa est égale à 25 p. 100 du montant annuel des intérêts payés au prêteur.
 
-II. Les modalités d'application du présent article et notamment les obligations des prêteurs et des contribuables sont fixées par décret.
+((Les dispositions du 5 du I de l'article 197 sont applicables)) (M).
+
+II. Les modalités d'application du présent article et notamment les obligations des prêteurs et des contribuables sont fixées par décret. (M) Modification de la loi 96-1181.

@@ -1,6 +1,6 @@
 # Article 199 sexies
 
-Lorsqu'elles n'entrent pas en compte pour l'évaluation des revenus des différentes catégories, les dépenses suivantes effectuées par un contribuable ouvrent droit à une réduction d'impôt sur le revenu :
+I. Lorsqu'elles n'entrent pas en compte pour l'évaluation des revenus des différentes catégories, les dépenses suivantes effectuées par un contribuable ouvrent droit à une réduction d'impôt sur le revenu :
 
 1° a. Intérêts afférents aux dix premières annuités des prêts contractés pour la construction, l'acquisition ou les grosses réparations des immeubles dont le propriétaire se réserve la jouissance ainsi que les dépenses de ravalement, lesquelles doivent être prises en compte sur un seul exercice. Toutefois, lorsque la conclusion du prêt intervient à partir du 1er janvier 1984, la réduction d'impôt s'applique aux intérêts afférents aux cinq premières annuités de ces prêts.
 
@@ -22,10 +22,10 @@ c. Les réductions d'impôt prévues au a et au b sont étendues aux locaux comp
 
 d. (Abrogé) (1).
 
-((e. Lorsque, pour l'acquisition d'un logement en accession à la propriété, le contribuable bénéficie de l'avance remboursable ne portant pas intérêt prévue par l'article R. 317-1 du code de la construction et de l'habitation, la réduction d'impôt prévue au a ne s'applique pas aux intérêts des emprunts complémentaires souscrits par lui)) (M).
+e. Lorsque, pour l'acquisition d'un logement en accession à la propriété, le contribuable bénéficie de l'avance remboursable ne portant pas intérêt prévue par l'article R. 317-1 du code de la construction et de l'habitation, la réduction d'impôt prévue au a ne s'applique pas aux intérêts des emprunts complémentaires souscrits par lui.
 
 2° a, b, c, d (Périmé à l'exception du troisième alinéa du a transféré sous l'article L172 E du LPF).
 
-(1) Ces dispositions s'appliquent aux contrats conclus et aux dépenses payées à compter du 1er juillet 1993.
+II. Les dispositions du I ne s'appliquent pas aux intérêts afférents aux prêts contractés pour la construction ou l'acquisition de logements neufs à compter du 1er janvier 1997 et aux dépenses de ravalement payées à compter de la même date. Pour les autres logements, ces dispositions ne s'appliquent pas aux intérêts afférents aux prêts contractés à compter du 1er janvier 1998.
 
-(M) Modification de la loi..
+(1) Abrogé pour les contrats conclus et les dépenses payées à compter du 1er juillet 1993.
