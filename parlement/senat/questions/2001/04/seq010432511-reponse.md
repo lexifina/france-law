@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010432511
+
+- Question : [SEQ010432511](seq010432511.md) — Fédération européenne
+
+## Réponse
+
+*Affaires européennes, JO du 2001-07-12, page 2310*
+
+L'honorable parlementaire a bien voulu appeler l'attention du ministre délégué chargé des affaires européennes sur les contributions importantes que plusieurs hautes personnalités politiques allemandes ont apporté, depuis un an, au débat qui s'ouvre sur l'avenir de l'Union européenne. L'honorable parlementaire n'aura pas manqué de relever la contribution importante à ce débat du Président de la République, qui s'est exprimé sur ce sujet, devant le Bundestag, lors de sa visite d'Etat en Allemagne, le 27 juin 2000. Le Premier ministre quant à lui a apporté sa propre contribution au débat le 28 mai dernier. Ce débat doit être avant tout l'occasion d'entendre les attentes de nos concitoyens sur les questions touchant à la construction européenne. Comme le sait l'honorable parlementaire, la déclaration annexée au traité de Nice prévoit l'organisation, d'ici 2004, d'un débat large et démocratique. Celui-ci se déroulera d'abord au plan national, dans chaque Etat membre, puis il se développera au plan européen à partir de 2002. La France, qui a engagé le processus de ratification du traité de Nice, pourrait être parmi les premiers pays à achever cette procédure. Le débat relatif à l'avenir de l'Europe va ainsi pouvoir pleinement s'épanouir. C'est un sujet qui est évoqué régulièrement avec notre partenaire allemand lors de chacune des rencontres qui ont lieu dans le cadre du processus lancé à Blaesheim le 31 janvier dernier. Lors de leur dernière rencontre, à Paris, le 11 mai, les chefs d'Etat et de Gouvernement ont évoqué les grands enjeux européens, avec notamment le débat sur l'avenir de l'Europe et ont constaté que, pour faire progresser l'Europe, le dialogue franco-allemand est un élément essentiel de la construction de l'Europe de demain.
