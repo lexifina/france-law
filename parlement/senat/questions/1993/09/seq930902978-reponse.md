@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930902978
+
+- Question : [SEQ930902978](seq930902978.md) — Eleveurs français d'agneaux
+
+## Réponse
+
+*Agriculture, JO du 1994-02-10, page 300*
+
+Réponse. - Pour aider les éleveurs ovins confrontés aux problèmes que pose la rentabilité insuffisante de leur production, le Gouvernement a utilisé tous les moyens réglementaires existant dans l'organisation commune de marché. Pour l'année 1993, la prime compensatrice ovine sera revalorisée de 20 p. 100 environ, tandis que son complément pour les zones défavorisées a été augmenté dans les mêmes proportions. Celles-ci sont largement supérieures à l'amplitude de la baisse des prix à la production qui a été observée cette année. Le paiement des deux acomptes de la prime a été regroupé et effectué simultanément à celui de la prime monde rural, un gain de trésorerie pour les éleveurs étant ainsi réalisé. Par ailleurs, le gouvernement français a obtenu l'accord de la Commission européenne et celui du Conseil pour la mise en place d'une aide nationale exceptionnelle d'un montant global de 65 millions de francs qui a été versée au cours de l'été dernier dans des délais rapides. Parallèlement à ces mesures, la filière ovine bénéficie d'un soutien non négligeable sous la forme des crédits que l'Office national interprofessionnel des viandes, de l'élevage et de l'aviculture consacre à l'amélioration de la productivité des élevages et de la qualité. Ce soutien a pour support les contrats passés entre l'office et des maîtres d'oeuvre régionaux (coopératives, groupements de producteurs) et définissant des objectifs quantitatifs et qualitatifs : renforcement de l'appui technique et de la formation des éleveurs, renforcement de la filière, actions en faveur de la qualité qui reposent sur la contractualisation au sein de la filière.
