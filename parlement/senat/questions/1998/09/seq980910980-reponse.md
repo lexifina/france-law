@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980910980
+
+- Question : [SEQ980910980](seq980910980.md) — Situation fiscale des bailleurs privés
+
+## Réponse
+
+*Économie, JO du 1998-12-24, page 4120*
+
+Réponse. - La politique du logement que le Gouvernement entend conduire vise à offrir aux ménages un large choix pour se loger dans des conditions adaptées à leurs ressources. Le parc locatif privé, qui joue un rôle majeur dans le marché du logement, participe à la réalisation de cet objectif. En effet, il assure, pour une fraction de la population, le rôle d'un parc social de fait. Pour que ce parc puisse être préservé et s'agrandir, le rôle social du bailleur privé doit être reconnu et une rentabilité correcte doit être assurée à son investissement. Le projet de loi de finances pour 1999 traduit ces objectifs, notamment dans son article 68. C'est ainsi que, pour les logements neufs, une déduction au titre de l'amortissement égale à 8 % du prix d'acquisition du logement pour les cinq premières années et à 2,5 % de ce prix pour les quatre années suivantes est prévue pour les bailleurs qui prendront l'engagement de louer, pendant neuf ans, leur logement à des conditions tenant aux montants des loyers et des ressources des locataires, qui ne devraient pas excéder des plafonds fixés par décret. Pour les logements anciens, la déduction forfaitaire appliquée aux revenus bruts fonciers serait portée de 14 % à 25 % pour les six premières années de location, si le bailleur s'engage à louer son logement pendant cette période dans des conditions analogues. Enfin, le dispositif proposé par le Gouvernement comporte un élément de sécurisation pour les bailleurs qui bénéficieraient de l'une ou l'autre de ces dispositions fiscales. Il s'agit du versement direct au propriétaire des allocations de logements à caractère social et à caractère familial prévues aux articles L. 542-1 et L. 831-1 du code de la sécurité sociale. Ces dispositions répondent aux préoccupations exprimées.
