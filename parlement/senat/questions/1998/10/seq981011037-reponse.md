@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981011037
+
+- Question : [SEQ981011037](seq981011037.md) — Transposition des directives assurances dans le code de la mutualité
+
+## Réponse
+
+*Emploi, JO du 1999-02-04, page 385*
+
+Réponse. - Le Gouvernement est conscient du rôle social particulier joué par la mutualité dans le domaine de la protection sociale. Les mutuelles relevant du code de la mutualité et les institutions de prévoyance régies par le code de la sécurité sociale sont entrées, à leur demande, dans le champ des directives européennes relatives à l'assurance en 1992. La transposition de ces directives dans le droit des institutions de prévoyance a été réalisée par la loi du 8 août 1994. En ce qui concerne les mutuelles, le Gouvernement a constaté à son arrivée que la transposition n'avait pas été faite et qu'il n'existait pas de projet conciliant le respect des règles prudentielles édictées par les directives européennes et la préservation de la spécificité du mouvement mutualiste. Dans le respect des engagements internationaux de la France, et compte tenu de l'action en manquement engagée par la Commission le 8 juillet 1998 à l'encontre de la France, le Gouvernement s'attache à trouver des solutions qui intègrent les principes qui fondent l'action mutualiste dans les domaines de la santé, de la prévoyance et de la retraite, afin d'assurer la pérennité des mutuelles et de protéger efficacement les droits et leurs membres. Dans ce cadre, il a chargé M. Michel Rocard d'une mission visant à dégager les voies d'une solution respectueuse du droit communautaire et des intérêts de la mutualité. Par ailleurs, la volonté du Gouvernement de garantir l'accès des personnes les plus démunies à une nécessaire protection complémentaire dans le cadre du projet de loi relatif à la couverture maladie universelle tiendra compte du rôle important déjà tenu par les mutuelles en la matière.
