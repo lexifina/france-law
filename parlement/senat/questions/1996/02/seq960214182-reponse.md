@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960214182
+
+- Question : [SEQ960214182](seq960214182.md) — Augmentation des émissions de gaz carbonique
+
+## Réponse
+
+*Environnement, JO du 1996-05-09, page 1140*
+
+Réponse. - Mme le ministre de l'environnement a pris connaissance avec intérêt de la question posée par l'honorable parlementaire concernant l'augmentation des émissions de gaz carbonique. Le ministre de l'environnement s'étonne des termes de la revue New Scientist. En effet, il ne saurait, en tout état de cause, être fait mention d'un " accord obscur ". Dans ses conclusions d'octobre 1990 à Luxembourg, le Conseil de l'Union européenne a approuvé un engagement de l'Union européenne de stabiliser, dans son ensemble, ses émissions de CO2, d'ici à l'an 2000, à leur niveau de 1990. De façon implicite, mais tout à fait claire, cela signifie que l'Union européenne, unie et solidaire, permet aux " pays de la cohésion " (Portugal, Grèce, Espagne, Irlande) d'augmenter leurs émissions pour faire face à leurs besoins de développement. Il est intéressant de noter que tous ces pays ont généralement des taux d'émission de CO2 par habitant ou par point de PIB relativement faibles. Pour suivre la mise en oeuvre de cet accord, l'Union européenne a décidé de créer un comité de suivi des émissions de gaz à effet de serre présidé par la Commission européenne (direction générale XI, chargée de l'environnement). Ce comité fait le point, tous les trimestres environ, sur les évolutions résultant des politiques mises en oeuvre par les Etats membres. Si, initialement, l'Espagne prévoyait d'augmenter des émissions de CO2 d'un quart, les différentes réunions en 1995 ont démontré que tous les Etats membres faisaient des efforts importants pour revoir à la baisse leurs engagements. Il semble bien que l'Espagne, en particulier, augmentera ses émissions dans une proportion bien moins importante qu'envisagée initialement.
