@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990516633
+
+- Question : [SEQ990516633](seq990516633.md) — Mise à disposition de policiers pour une exposition à Versailles
+
+## Réponse
+
+*Intérieur, JO du 1999-08-05, page 2684*
+
+Réponse. - L'honorable parlementaire attire l'attention de M. le ministre de l'intérieur sur l'organisation de l'exposition sur les trésors de la Turquie à Versailles, et plus particulièrement sur la présence des forces de l'ordre pour ce qu'il considère " en lieu et place des sociétés de gardiennage ". Les effectifs de police engagés à cette occasion n'ont pas été mis à la disposition des organisateurs, mais sur l'instruction du préfet des Yvelines, compte tenu du contexte international. Douze policiers sont ainsi employés par vacations de huit heures, ce qui représente trente-six fonctionnaires prélevés sur l'ensemble du département, hormis le district de Mantes-la-Jolie. Ils sont employés en service d'ordre à l'extérieur de la salle d'exposition. La guerre dans les Balkans et la perspective du procès du leader kurde Abdullah Ocalan donnaient à cette manifestation une sensibilité justifiant la mise en place d'un service d'ordre. La menace terroriste se révélant potentielle, une telle initiative était nécessaire pour assurer l'entière protection des personnes et des biens sur la base de l'article 23 de la loi d'orientation et de programmation de la sécurité du 21 janvier 1995. La surveillance de l'intérieur de la salle et la gestion des alarmes sont à la charge du personnel du château de Versailles. La circonscription de sécurité publique de Versailles a, elle, en charge l'organisation de la sécurité sur la voie publique aux abords du bâtiment abritant cette exposition. Le dispositif ainsi mis en uvre permet aux services de police d'assurer leurs missions fondamentales de sécurité à l'occasion de cet événement sans obérer leur capacité à répondre à tout incident survenant dans le département.
