@@ -13,3 +13,5 @@ a) Le quart du taux unitaire visé au 1 du I de l'article 1599 sexdecies pour le
 b) Ledit taux unitaire pour tous les autres véhicules.
 
 3. Aucune taxe n'est due lorsque la délivrance du certificat d'immatriculation est consécutive à un changement d'état matrimonial ou à un changement de domicile.
+
+4. Aucune taxe n'est due au titre de la délivrance des certificats d'immatriculation des cyclomoteurs à deux roues et des cyclomoteurs à trois roues non carrossés.
