@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860902788
+
+- Question : [SEQ860902788](seq860902788.md) — Moyens d'action des maires dans la lutte contre le chômage
+
+## Réponse
+
+*Affaires sociales, JO du 1987-04-16, page 572*
+
+Réponse. -L'attention du ministre des affaires sociales et de l'emploi a été fréquemment appelée sur le souhait des maires d'obtenir la liste nominative des demandeurs d'emploi qui renouvellent désormais leur demande d'emploi par correspondance. Il convient de rappeler, d'une part, que la généralisation du renouvellement de la demande d'emploi par correspondance ne supprime pas, dans les localités où l'A.N.P.E., n'est pas implantée, l'inscription en mairie des demandeurs d'emploi ; d'autre part que l'agence locale établit chaque trimestre un tableau répartissant par commune de résidence les demandeurs d'emploi selon quelques critères simples (sexe, classe d'âge, etc.). Cette information, disponible dans les services de l'A.N.P.E. dans les services extérieurs du ministère des affaires sociales et de l'emploi et dans les observatoires économiques de l'I.N.S.E.E., est fournie sur leur demande aux personnes intéressées, notamment aux élus locaux. Il est cependant exact que ces informations établies par commune ne comportent pas de liste nominative. Aussi, conscient des besoins des élus locaux, le Gouvernement a prévu dans l'ordonnance n° 86-1286 du 20 décembre 1986 relative au placement des demandeurs d'emploi, d'insérer dans le code du travail un article L. 311-11 qui va permettre de répondre désormais à leurs légitimes préoccupations. En effet, cet article dispose : " A leur demande, les maires, pour les besoins du placement ou pour la détermination des avantages sociaux auxquels peuvent prétendre les intéressés, ont communication de la liste des demandeurs d'emploi domiciliés dans leur commune. " Les conditions d'application de cet article seront fixées par un décret en Conseil d'Etat.
