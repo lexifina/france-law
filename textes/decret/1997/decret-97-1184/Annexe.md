@@ -78,17 +78,67 @@ Article 7
 
 |
 
-Arrêté du 2 octobre 1992 relatif à la procédure d'importation et d'exportation des matériels de guerre, armes et munitions et des matériels assimilés
+Décret n° 2001-143 du 15 février 2001 concernant la mise en œuvre des dispositions du titre II de la loi n° 98-467 du 17 juin 1998 relative à l'application de la convention du 13 janvier 1993 sur l'interdiction de la mise au point, de la fabrication, du stockage et de l'emploi des armes chimiques et sur leur destruction.
 
 1
 
 |
 
-Décisions relatives aux agréments préalables pour la prospection, la négociation et la vente de matériels de guerre.
+Décisions désignant l'installation fabriquant à des fins médicales, pharmaceutiques, de recherche ou de protection des produits chimiques inscrits au tableau 1 annexé à la convention du 13 janvier 1993 sur l'interdiction de la mise au point, de la fabrication, du stockage et de l'emploi des armes chimiques et sur leur destruction.
 
 |
 
-Article 6
+Article 2
+
+|
+
+2
+
+|
+
+Décisions portant désignation et autorisation d'une installation pouvant fabriquer, en quantité limitée, à des fins de protection, des produits chimiques inscrits au tableau 1 annexé à la convention.
+
+|
+
+Article 2
+
+|
+
+3
+
+|
+
+Décisions relatives aux agréments préalables à l'exportation pour la présentation, la négociation et la vente de produits chimiques inscrits au tableau 1 annexé à la convention.
+
+|
+
+Article 17, II
+
+|
+
+4
+
+|
+
+Décisions d'autorisation d'exportation de produits chimiques inscrits au tableau 1 annexé à la convention dans le cas où le dossier est examiné préalablement par la commission interministérielle pour l'étude des exportations de matériels de guerre.
+
+|
+
+Article 17, II
+
+|
+
+Arrêté du 2 octobre 1992 modifié relatif à la procédure d'importation, d'exportation et de transfert des matériels de guerre, armes et munitions et des matériels assimilés.
+
+1
+
+|
+
+Décisions relatives aux agréments préalables à l'exportation pour la présentation, la négociation et la vente de matériels de guerre.
+
+|
+
+Article 4
 
 |
 
@@ -100,7 +150,7 @@ Décisions d'autorisation d'exportation de matériels de guerre dans le cas où 
 
 |
 
-Article 11
+Article 9
 
 |
 
@@ -108,11 +158,11 @@ Article 11
 
 |
 
-Décisions d'autorisation de transit par route dans le cas où le dossier est examiné préalablement par la commission interministérielle pour l'étude des exportations de matériels de guerre.
+Décisions d'autorisation de transit par la route dans le cas où le dossier est examiné préalablement par la commission interministérielle pour l'étude des exportations de matériels de guerre.
 
 |
 
-Article 26
+Article 24
 
 |
 
@@ -140,9 +190,7 @@ Décisions de nomination des membres et du président du comité de décentralis
 
 |
 
-Article R. 510-3 et
-
-A. 510-3
+Article R. 510-3 et A. 510-3
 
 |
 
