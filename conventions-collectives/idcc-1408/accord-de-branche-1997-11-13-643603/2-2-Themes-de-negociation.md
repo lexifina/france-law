@@ -1,0 +1,11 @@
+# Article 2-2 : Thèmes de négociation
+
+La négociation pourra porter sur les thèmes dont la mise en oeuvre est légalement subordonnée à un accord collectif, à l'intérieur des sujets suivants :
+
+- aménagement et organisation du temps de travail ;
+
+- salaires ;
+
+- accords d'adaptation ou de substitution liés à une restructuration juridique ou à un changement d'activité économique ;
+
+- protection sociale complémentaire.

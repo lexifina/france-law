@@ -1,0 +1,5 @@
+# Article 1-3 : Reconnaissance d'un interlocuteur syndical
+
+Les organisations professionnelles et syndicales de salariés attachées au développement des relations sociales s'engagent à faciliter le droit à la représentation collective des salariés dans les entreprises.
+
+La concrétisation de la reconnaissance d'un interlocuteur syndical est fondamentale et participera à la mise en oeuvre de régulations sociales garantissant la représentation collective des salariés et de leurs droits à la négociation.

@@ -1,0 +1,5 @@
+# Article 2-5 : Entrée en vigueur de l'accord d'entreprise
+
+Dès réception du PV de validation, conformément à l'article L. 132-10 du code du travail, le chef d'entreprise en informe les représentants du personnel et procède au dépôt de l'accord auprès de la direction départementale du travail et de l'emploi ainsi que du secrétariat greffe du conseil de prud'hommes en y joignant copie du PV de validation.
+
+L'accord ne pourra être mis en oeuvre qu'après que ce dépôt ait été effectué.
