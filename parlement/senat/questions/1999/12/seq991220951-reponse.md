@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991220951
+
+- Question : [SEQ991220951](seq991220951.md) — Lutte contre la concentration des médias
+
+## Réponse
+
+*Culture, JO du 2000-03-09, page 863*
+
+Réponse. - La préservation du pluralisme de l'expression des courants de pensée et d'opinions a conduit le législateur à encadrer le principe de liberté de la presse d'un certain nombre de règles qui visent en particulier à limiter les phénomènes de concentration. En effet, ainsi que l'a énoncé le Conseil constitutionnel dans sa décision du 18 septembre 1986, l'objectif à réaliser est que les lecteurs et auditeurs " qui sont au nombre des destinataires essentiels de la liberté d'expression soient à même d'exercer leur libre choix sans que ni les intérêts privés ni les pouvoirs publics ne puissent y substituer leurs propres décisions ni qu'on puisse en faire l'objet d'un marché ". Le dispositif prévu par la loi du 1er août 1986 relative au régime juridique de la presse et la loi du 30 septembre 1986 modifiée relative à la liberté de communication s'articulent autour de quatre grandes règles : la transparence, la limitation de la participation au capital par une même personne, la limitation du cumul des autorisations pour un même service de communication audiovisuelle ou des services de même nature, la limitation de la part de diffusion. Ces règles reçoivent des applications différenciées en fonction de la spécificité des supports (services de communication audiovisuelle et de presse écrite). Le ministère de la culture et de la communication observe, avec une vigilance toute particulière, les mouvements capitalistiques qui s'opèrent dans le secteur des médias. Plus particulièrement, il s'assure qu'aucune des opérations en cours ne contrevient aux dispositions législatives précitées. A ce jour, rien ne permet de penser que la loi ait été transgressée.
