@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960113357
+
+- Question : [SEQ960113357](seq960113357.md) — Situation préoccupante en Ile-de-France de la prime à l'amélioration de l'habitat (PAH)
+
+## Réponse
+
+*Logement, JO du 1996-03-07, page 535*
+
+Réponse. - Le Gouvernement a engagé une vaste réforme de la politique du logement visant à lutter contre l'exclusion par le logement, à relancer l'accession à la propriété et à réorienter l'épargne privée vers le logement en encourageant l'investissement locatif. Pour atteindre ces objectifs généraux, le Gouvernement accorde une place prioritaire à la mobilisation et à la rénovation du parc de logements existants. La prime à l'amélioration de l'habitat (PAH) participe à la rénovation du parc existant. Elle est plus efficace à plusieurs titres. D'un point de vue social, la PAH est un produit dont bénéficient des personnes très modestes. D'un point de vue économique, elle participe de façon significative à l'activité des entreprises locales du bâtiment. En incitant les propriétaires à réaliser des travaux, la PAH permet également la réhabilitation des centres anciens. Les opérations programmées pour l'amélioration de l'habitat (OPAH) sont en cela exemplaires dans leur capacité à revitaliser ces centres. Pour 1996, la loi de finances prévoit 605 MF au titre de la dotation PAH. Dans ce cadre, il convient de souligner l'effort consenti par le Gouvernement puisque ce montant se maintient à un niveau élevé depuis 1993. La dotation PAH de l'Ile-de-France s'élève à 37,89 MF pour 1996, soit une augmentation de plus de 40 p. 100 de son enveloppe de crédits PAH par rapport à 1995. En outre, le Gouvernement vient de décider de compléter la dotation de loi de finances par une dotation complémentaire de 200 MF au titre des mesures en faveur du BTP. Cet effort exceptionnel doit permettre de satisfaire l'essentiel des besoins prioritaires de tous les départements.
