@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901212784
+
+- Question : [SEQ901212784](seq901212784.md) — Revalorisation de la fonction d'enseignant
+
+## Réponse
+
+*Éducation, JO du 1991-02-14, page 309*
+
+Réponse. - Tous les enseignants dans les Z.E.P. (zones d'éducation prioritaire) doivent percevoir, à compter de la rentrée 1990, une indemnité de sujétion spéciale d'un montant de 2 000 F par an et non de 6 200 F comme annoncé. Le dispositif initialement envisagé devait s'appliquer progressivement pour atteindre l'ensemble des enseignants concernés en septembre 1995, soit au terme de six années. En 1990, 14 300 indemnités d'un montant de 6 200 F par an étaient prévues. C'est sur la base de ce dispositif qu'un contingent d'indemnités avait été notifié à chaque académie. Il est apparu que chaque contingent académique ne permettait d'indemniser les enseignants que dans un petit nombre d'établissements classés en Z.E.P. Par ailleurs, la carte des Z.E.P. a été réajustée à la rentrée 1990, et ceci pour les trois années à venir. Dans ces conditions, à la demande des recteurs,, d'autres bases de répartition ont dû être retenues. Il a été jugé opportun d'attribuer cette indemnité à tous les enseignants en Z.E.P., plutôt que d'établir une discrimination entre les enseignants d'une même Z.E.P. Un tel choix ne permettait cependant pas d'allouer, dès cette année, 6 200 F par an à chacun. C'est pourquoi le montant de l'indemnité a été modulé sur les bases suivantes : 2 000 F par an dès cette année ; 4 100 F par an à la rentrée 1991 ; 6 200 F par an à la rentrée 1992. Ainsi, s'il est vrai que le taux de l'indemnité a dû être momentanément réduit, pour tenir compte des crédits budgétaires inscrits à ce titre, dans le respect des engagements pris à l'occasion du relevé de conclusion de mars 1989 avec les organisations syndicales, il faut souligner, que dès la première année, c'est la totalité des enseignants en Z.E.P. qui bénéficie de la mesure, soit 78 000 enseignants.
