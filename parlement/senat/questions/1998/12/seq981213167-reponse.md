@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981213167
+
+- Question : [SEQ981213167](seq981213167.md) — Piscines publiques : amélioration de la désinfection des vestiaires
+
+## Réponse
+
+*Santé, JO du 1999-06-17, page 2078*
+
+Réponse. - Vous m'avez interrogé sur les recommandations du treizième rapport de la commission de la sécurité des consommateurs visant à améliorer la désinfection des vestiaires dans les piscines. La loi nº 78-733 du 12 juillet 1978 a introduit dans le code de la santé publique un chapitre III-1 relatif aux piscines et aux baignades. Les modalités d'application de cette loi sont précisées par le décret nº 81-324 du 7 avril 1981 modifié relatif aux normes d'hygiène et de sécurité applicables aux piscines et aux baignades aménagées et par deux arrêtés du 7 avril 1981, dont l'un fixe les dispositions techniques et l'autre les dispositions administratives. Plusieurs obligations de moyens ont été instaurées pour la protection des baigneurs. En ce qui concerne l'amélioration de la désinfection des vestiaires, la circulaire du 9 mai 1983 insiste particulièrement sur les conditions d'exploitation des établissements, souligne " que les affections le plus fréquemment contractées en piscine sont liées à l'hygiène des sols (plages, locaux sanitaires, cabines de déshabillage, etc.) " et demande enfin aux " autorités de contrôle de juger de la qualité de l'exploitation en surveillant la propreté et l'hygiène des plages, des locaux sanitaires et de déshabillage et le bon entretien des locaux techniques et des installations ". Dans le cadre des travaux de révision de la règlementation menés conjointement par les ministères chargés de la santé et de la jeunesse et des sports, des propositions seront faites pour que la réglementation précise explicitement que " le nettoyage des vestiaires doit être complété par une désinfection des sols " selon des modalités à préciser.
