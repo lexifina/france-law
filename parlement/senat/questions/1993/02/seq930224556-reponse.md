@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930224556
+
+- Question : [SEQ930224556](seq930224556.md) — Difficultés financières des centres d'aide par le travail de Haute-Savoie
+
+## Réponse
+
+*Handicapés, JO du 1993-03-29, page 595*
+
+Réponse. - Le Gouvernement, conscient de l'importance des besoins des personnes handicapées, a mis en oeuvre en 1990 deux plans pluriannuels destinés à améliorer les capacités d'accueil dans les structures de travail protégé et dans les établissements médico-sociaux destinés aux personnes les plus gravement handicapées. 14 400 places nouvelles de travail protégé, dont 10 800 places de centres d'aide par le travail et 3 600 places d'ateliers protégés, auront été créées sur la même période. Un effort sans précédent a donc été consenti par le Gouvernement depuis 1990, pour améliorer l'accueil des personnes handicapées dans des structures de travail protégé, centres d'aide par le travail et ateliers protégés. Il apparaît aujourd'hui nécessaire de prolonger cet engagement et d'accroître encore cet effort pour répondre plus précisément à l'attente des personnes handicapées et de leur famille. L'un des soucis majeurs qui doit guider cette planification est en effet d'assurer une meilleure répartition de l'offre afin de permettre aux personnes handicapées de trouver une structure adaptée à leurs besoins à proximité de leur lieu de résidence ou de celui de leur famille. C'est pourquoi, lors de la réunion du Conseil national consultatif des personnes handicapées qui s'est tenue le 21 décembre 1992, le secrétaire d'Etat aux handicapés, au nom du Gouvernement, a confirmé qu'une suite serait donnée au plan pluriannuel en faveur du travail protégé dès 1994. Pour ce qui concerne le département de la Haute-Savoie, il est envisagé la création de seize places de CAT pour 1993. Avec 801 places au total, la Haute-Savoie possédera un nombre de places qui la mettra au quatrième rang des départements de la région Rhône-Alpes.
