@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980910487
+
+- Question : [SEQ980910487](seq980910487.md) — Prise en compte de la France rurale
+
+## Réponse
+
+*Aménagement du territoire, JO du 1999-01-14, page 110*
+
+Réponse. - Mme la ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question relative au dernier rapport de l'INSEE sur l'évolution démographique. Une autre étude récente établie par l'INSEE et par l'INRA fait apparaître que la dichotomie entre le rural et l'urbain apparaît peu pertinente ; il demeure par contre une différence importante entre des zones dans lesquelles s'installe une véritable dynamique de développement et celles dans lesquelles une telle dynamique a du mal à s'instaurer. C'est pourquoi le Gouvernement envisage qu'au sein de la future génération de contrats de plan entre l'Etat et les régions, une part plus importante des crédits soit consacrée aux investissements immatériels, c'est-à-dire à l'accompagnement des projets de développement, mais aussi à des actions d'animation et de mobilisation des acteurs locaux, en particulier dans les zones où les projets ont plus de difficulté à émerger. Deux projets de loi qui ont été déposés par le Gouvernement avant l'été montrent toute l'attention que celui-ci accorde aux zones rurales. Il s'agit, d'une part, du projet de loi d'orientation pour l'aménagement et le développement durable du territoire qui encourage une meilleure organisation des acteurs locaux et la recomposition territoriale sur la base de projets de développement économique. Et il s'agit, d'autre part, du projet de loi d'orientation agricole qui favorise l'attractivité des territoires ruraux et la valorisation des produits de terroirs. Des mesures relatives aux services publics pourraient de plus faire l'objet de décisions à l'occasion du prochain CIADT.
