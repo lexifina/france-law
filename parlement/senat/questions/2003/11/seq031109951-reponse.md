@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031109951
+
+- Question : [SEQ031109951](seq031109951.md) — Assouplissement des critères médicaux pour le recrutement des sapeurs-pompiers volontaires
+
+## Réponse
+
+*Intérieur, JO du 2004-07-15, page 1578*
+
+L'honorable parlementaire appelle l'attention de M. le ministre de l'intérieur, de la sécurité intérieure et des libertés locales, sur les difficultés croissantes des corps des sapeurs-pompiers volontaires à recruter des jeunes en raison, notamment, d'examens médicaux de plus en plus draconiens. L'arrêté du 6 mai 2000 fixe les conditions d'aptitude médicale des sapeurs-pompiers professionnels et des sapeurs-pompiers volontaires ainsi que les conditions d'exercice de la médecine professionnelle et préventive au sein des services départementaux d'incendie et de secours. Ce texte prévoit les mêmes critères d'aptitude médicale pour les sapeurs-pompiers professionnels et les sapeurs-pompiers volontaires, compte tenu de l'identité de leurs missions. La nécessité d'une meilleure surveillance médicale des sapeurs-pompiers volontaires s'appuie à la fois sur des données statistiques et sur des analyses de situations concrètes. En effet, les activités opérationnelles liées notamment aux interventions de secours contraignent les sapeurs-pompiers à des efforts physiques souvent pénibles et les confrontent à des situations de stress important. Néanmoins, afin d'élargir les possibilités de recrutement, des propositions sont en cours d'élaboration qui permettent de prendre en considération deux types d'aptitudes différentes, correspondant aux missions spécifiques des sapeurs-pompiers volontaires. Ces nouvelles dispositions interviendront dans le prolongement de la parution au Journal officiel de la République française, le 2 décembre 2003, du décret n° 2003-1141 du 28 novembre 2003 modifiant le décret n° 99-1039 du 10 décembre 1999 relatif aux sapeurs-pompiers volontaires.
