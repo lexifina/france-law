@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880700972
+
+- Question : [SEQ880700972](seq880700972.md) — Equarrissage des animaux
+
+## Réponse
+
+*Agriculture, JO du 1989-01-26, page 131*
+
+Réponse. - La loi n° 75-1336 du 31 décembre 1975 qui a modifié les dispositions du code rural relatives à l'équarrissage des animaux a effectivement précisé que l'enlèvement et la destruction des cadavres et déchets d'origine animale constituent un service d'utilité publique. Le texte prévoit la façon dont ce service d'utilité publique, confié à des entreprises privées, doit être organisé. Cette organisation est de la responsabilité des préfets qui délimitent autour de chaque établissement d'équarrissage un périmètre où l'équarrisseur a mission d'assurer l'enlèvement des cadavres. La loi n° 75-1336 ne précise toutefois pas à qui revient la charge de financer cette collecte dans l'hypothèse où l'organisation mise en place ne suffirait pas à elle seule à assurer l'équilibre financier des entreprises. C'est pourquoi différentes formules ont pu être envisagées lorsque les conditions économiques prévalant dans ce secteur d'activité avaient incité certains équarrisseurs à remettre en cause le principe de la gratuité de la collecte des cadavres. Lorsque de tels problèmes se posent, il est prévu par la loi n° 75-1336 qu'une commission comprenant un représentant du conseil général soit consultée sur les solutions à mettre en oeuvre. Enfin, dans l'hypothèse où l'ordre public viendrait à être troublé du fait qu'un équarrisseur n'aurait pas procédé normalement aux enlèvements de cadavres, alors même qu'aurait été suivie la procédure exceptionnelle prévue par l'article 274 du code rural pour tenir compte de conditions économiques pouvant interdire une exploitation normale de l'équarrissage, la puissance publique doit effectivement faire application des sanctions énoncées à l'article 334 de ce même code.
