@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000525378
+
+- Question : [SEQ000525378](seq000525378.md) — Cotisations sociales des frontaliers travaillant en Suisse
+
+## Réponse
+
+*Affaires européennes, JO du 2000-07-06, page 2372*
+
+Réponse. - L'honorable parlementaire a bien voulu appeler l'attention du ministre délégué chargé des affaires européennes sur les cotisations sociales des frontaliers travaillant en Suisse. L'union européenne et la Suisse ont conclu sept conventions qui permettent à la Suisse de se rapprocher de l'union dans les domaines relevant du commerce, de la recherche et du développement technologique, des marchés publics, des transports terrestres aériens, de l'agriculture et enfin de la libre circulation des personnes. La vocation intervenue en Suisse, le 21 mai dernier, a permis à ce pays de franchir un pas important dans son rapprochement avec l'union européenne et le Gouvernement français s'en réjouit. S'agissant de l'accord relatif à la libre circulation des personnes, celui-ci prévoit que les travailleurs frontaliers doivent cotiser à l'assurance maladie dans le pays où ils sont salariés. Cette disposition, que dénonce l'honorable parlementaire, est pleinement conforme aux règles en vigueur au sein de l'Union européenne. Néanmoins, comme le souligne l'honorable parlementaire, une procédure de dérogation à cette obligation est possible et est prévue dans l'accord. La ministre de l'emploi et de la solidarité a prescrit une étude approfondie de l'impact de cette disposition. Le Gouvernement rencontrera prochainement les élus et les associations des frontaliers pour faire avec eux le point sur ce dossier qui sera naturellement conduit en concertation très étroite avec les intéressés. Pour sa part, le Gouvernement veillera attentivement à ce que les intérêts des travailleurs frontaliers exerçant en Suisse soient pleinement pris en compte.
