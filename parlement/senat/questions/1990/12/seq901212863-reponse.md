@@ -1,0 +1,9 @@
+# Réponse à la question SEQ901212863
+
+- Question : [SEQ901212863](seq901212863.md) — Situation en Yougoslavie
+
+## Réponse
+
+*Affaires étrangères, JO du 1991-05-30, page 1095*
+
+Réponse. - Comme le sait l'honorable parlementaire, la France apporte une aide active aux Etats d'Europe orientale et centrale au cours de leur difficile processus de transition démocratique. Elle s'en tient cependant également au principe de non-ingérence dans les affaires intérieures des Etats concernés. Le cas de la Yougoslavie, s'il justifie effectivement la préoccupation du Gouvernement, n'en reste pas moins celui d'une fédération souveraine, dont le Gouvernement est notre interlocuteur au plan international. A l'instar de ses voisins est-européens, la Yougoslavie connaît une réelle démocratisation. Des élections législatives et présidentielles libres et contrôlées par des observateurs étrangers (américains et européens) se sont déroulées dans toutes les Républiques entre avril et décembre 1990. Des élections fédérales sont prévues pour 1991, mais leur tenue dépend avant tout de la capacité des nouveaux dirigeants à s'accorder sur la forme institutionnelle future de la Yougoslavie. La détermination de ces derniers à se réunir de manière hebdomadaire et les contacts bilatéraux nourris qu'ils entretiennent désormais apparaissent comme un élément favorable dans un contexte largement renouvelé par la contestation dont le régime serbe est l'objet. L'aspiration à la démocratie des peuples yougoslaves pourrait en effet faire passer au second plan des différends ethniques qui ont jusqu'à présent occupé le devant de la scène politique. La France ne peut qu'encourager le dialogue entre les peuples yougoslaves et se féliciter, chaque fois que les responsables des différentes républiques en manifestent la volonté, des pas qu'ils accomplissent dans cette direction.
