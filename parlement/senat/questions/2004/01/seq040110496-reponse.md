@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040110496
+
+- Question : [SEQ040110496](seq040110496.md) — Projet de suppression de la carte d'identité professionnelle des VRP
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2004-03-11, page 606*
+
+Le statut et la qualité de voyageur représentant placier (VRP) sont subordonnés à la possession de la carte d'identité professionnelle de VRP instituée par la loi du 8 octobre 1919 modifiée et rendue obligatoire par les articles L. 751-13 et 795-1 du code du travail. La simplification des règles d'exercice de cette profession est inscrite dans la loi n° 2003-591 du 2 juillet 2003 habilitant le Gouvernement à simplifier le droit. Selon la jurisprudence de la Cour de cassation, l'obligation pour les représentants statutaires de détenir la carte, bien que pénalement sanctionnée par l'article L. 795-1 du code du travail, ne conditionne plus l'application du statut de VRP. Sur ces bases, la suppression de la carte d'identité professionnelle est juridiquement fondée. En outre, cette disposition répond à l'un des objectifs de la loi d'habilitation qui vise à supprimer, lorsque cela est possible, les autorisations administratives préalables. De plus, le statut de VRP reconnu par des textes spécifiques n'est pas lié au maintien de la carte de VRP qui ne présente plus d'intérêt d'ordre public. Au demeurant, il n'existe aucun obstacle à un accord volontaire passé par exemple, avec l'institution de retraite des représentants (IRREP) et l'institution de retraite et de prévoyance des voyageurs, représentants et placiers (IRPVRP) afin que ces organismes délivrent une carte spécifique à leurs affiliés comme les organisations professionnelles concernées l'ont d'ailleurs envisagé. Cette carte professionnelle répondra aux mêmes besoins que l'actuel document administratif, y compris en matière d'attestation de non-inscription au casier judiciaire n° 2.
