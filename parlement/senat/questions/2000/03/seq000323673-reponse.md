@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000323673
+
+- Question : [SEQ000323673](seq000323673.md) — Prise en charge officielle par La Poste du transport des médicaments en zone rurale
+
+## Réponse
+
+*Industrie, JO du 2000-05-25, page 1874*
+
+Réponse. - La loi du 18 janvier 1994, complétée par le décret du 25 juillet 1995 relatif à la livraison et à la dispensation à domicile des médicaments, produits ou objets mentionnés à l'article L. 512 du code de la santé publique, précisent les conditions du portage de médicaments à domicile sous la forme de paquet scellé au nom et à l'adresse du patient. Dans ce cadre, compte tenu de la possibilité pour La Poste, inscrite dans son contrat de plan, d'apporter une assistance diversifiée aux citoyens les plus isolés, une convention expérimentale pour le transport et la remise à domicile des médicaments a été élaborée en 1994 entre cet établissement et l'association des pharmacie rurale (APR). Le conseil national de l'ordre des pharmaciens, consulté en juillet 1995 sur cette convention, n'a pas jugé nécessaire de définir une convention spécifique par rapport au service proposé par La Poste qui s'apparente à un convoi de paquet en " colissimo ". Aussi, ce partenariat ne fut pas généralisé et officialisé dans le cadre d'une convention nationale. De son côté, le conseil de la concurrence, sollicité par le ministre délégué aux finances et au commerce extérieur sur les pratiques mises en uvre dans le secteur du portage de médicaments à domicile, a estimé par décision du 18 mars 1997 que la loi du 18 janvier 1994 n'interdit pas le transpor de médicaments à domicile, pourvu que la commande soit livrée dans les conditions conformes à l'article L. 589 en paquet scellé portant le nom et l'adresse du client. C'est pourquoi, dès lors qu'elle est sollicitée, La Poste, dans le respect du cadre législatif et réglementaire en vigueur, assure localement ce service.
