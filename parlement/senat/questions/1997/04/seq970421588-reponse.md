@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970421588
+
+- Question : [SEQ970421588](seq970421588.md) — Conséquences de la réglementation relative aux installations classées pour les exploitations viticoles
+
+## Réponse
+
+*Environnement, JO du 1997-05-29, page 1579*
+
+Réponse. - Le ministre de l'environnement a pris connaissance avec intérêt de la question posée par l'honorable parlementaire concernant les dispositions contenues dans l'arrêté relatif à la réglementation des installations classées pour les exploitations viticoles dont la capacité de production varie entre 500 et 20 000 hectolitres. Le projet d'arrêté fixant les prescriptions générales applicables aux installations viticoles soumises à déclaration au titre de la réglementation relative aux installations classées pour la protection de l'environnement a été soumis au Conseil supérieur des installations classées qui a donné un avis favorable. Pour les installations existantes, la nécessaire maîtrise des pollutions ne doit pas avoir pour effet de créer des difficultés économiques insupportables pour les entreprises et en particulier les vignerons récoltants. C'est pourquoi le ministre de l'environnement a proposé à la profession de restreindre pour l'instant l'application du texte aux seules installations nouvelles. Pour les installations existantes, comme pour les installations modifiées, ce serait au préfet d'apprécier les suites à donner le cas échéant, en fonction de la situation locale dans le département et en concertation avec les représentants locaux de la profession. Le ministre de l'environnement a demandé à ses services d'étudier ce problème avec la plus grande attention afin de trouver une solution satisfaisante permettant à l'activité viticole de s'exercer dans le respect de son environnement. Le ministre de l'environnement ne doute pas qu'avec le concours de tous les acteurs de la filière, cette réflexion aboutira de manière positive.
