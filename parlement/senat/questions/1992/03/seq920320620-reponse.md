@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920320620
+
+- Question : [SEQ920320620](seq920320620.md) — Suites de la guerre du Golfe
+
+## Réponse
+
+*Affaires étrangères, JO du 1992-07-30, page 1717*
+
+Réponse. - L'appel lancé par le Président de la République, le 24 septembre 1990, à la tribune de l'assemblée générale des Nations Unies, pour que soit réalisée " l'expression démocratique des choix du peuple koweïtien ", traduit l'attachement des autorités françaises à ce que les engagements de retour à l'ordre constitutionnel pris lors de la conférence de Djeddah, en octobre 1990, puissent être mis en oeuvre. Dès la libération du Koweït, la question du respect des droits de l'homme a fait l'objet de la vigilance du gouvernement français (droits de la défense, questions afférentes au départ de certaines communautés étrangères). Les démarches réitérées du ministre d'Etat, ministre des affaires étrangères, ont contribué à ce qu'il soit mis fin à des procédures qui, pour être exceptionnelles dans une situation complexe, n'en étaient pas moins inacceptables. L'émirat s'est engagé dans une phase de retour progressif aux institutions dont le pays s'était doté dès 1962. La loi martiale a été levée en juin 1991, les tribunaux d'exception dissous, la censure préalable de la presse abolie. Ces mesures devraient contribuer au bon déroulement des futures élections législatives, prévues pour octobre 1992. La reprise récente des procès pour les accusés de collaboration avec l'occupant irakien semble entourée de meilleures garanties judiciaires s'agissant notamment du respect des droits de la défense. Ils appelleront cependant la vigilance nécessaire tout comme la mise en oeuvre de dispositions plus protectrices relatives au départ des étrangers. Ces mesures sont positives et paraissent attester le rétablissement progressif de l'état de droit au Koweït. Le Gouvernement français continuera à suivre cette évolution, qu'il encourage, avec attention.
