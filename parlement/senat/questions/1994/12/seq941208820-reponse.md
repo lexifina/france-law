@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941208820
+
+- Question : [SEQ941208820](seq941208820.md) — Respect de la réglementation en matière d'urbanisme
+
+## Réponse
+
+*Justice, JO du 1995-01-26, page 206*
+
+Réponse. - Le ministre d'Etat, garde des sceaux, ministre de la justice, a l'honneur de porter à la connaissance de l'honorable parlementaire qu'il partage pleinement son souci de voir résolues les difficultés que rencontrent un certain nombre de maires pour faire respecter dans leurs communes la réglementation en matière d'urbanisme, et notamment celle concernant le permis de construire. D'une manière générale, il y a lieu, toutefois, de souligner l'effort entrepris par les juridictions dans le traitement de ce contentieux. L'évolution du nombre d'infractions en matière d'urbanisme sanctionnées sur le plan national par les tribunaux de grande instance, au cours de la période 1988-1992, fait en effet apparaître une augmentation de 78 p. 100 du nombre des infractions sanctionnées. Il n'est pas possible de distinguer, dans l'ensemble des infractions sanctionnées, celles qui ont fait l'objet d'une enquête préliminaire de celles qui ont fait l'objet d'une information. Toutefois, ce sont les délits qui représentent une très large part des condamnations, ainsi : 1 187 délits sanctionnés en 1988, 1 441 en 1989, 1 581 en 1990, 1 787 en 1991 et 2 117 en 1992. Les infractions sanctionnées en matière de défaut de permis de construire ou de non-déclaration avant travaux de construction représentent un pourcentage de 64 à 69 p. 100 de l'ensemble du contentieux lié au code de l'urbanisme. Ainsi est-il possible d'affirmer que le contentieux de l'urbanisme fait l'objet de la part des juridictions d'une attention constante et d'un souci de répondre, de manière efficace, à ces atteintes à l'ordre public et à l'environnement, même si des difficultés peuvent subsister, notamment pour l'exécution des décisions ordonnant la démolition des constructions illicites.
