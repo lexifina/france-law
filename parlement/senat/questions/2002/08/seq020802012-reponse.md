@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020802012
+
+- Question : [SEQ020802012](seq020802012.md) — Projets et contrats éducatifs locaux en milieu rural
+
+## Réponse
+
+*Jeunesse, JO du 2002-10-10, page 2325*
+
+Concernant les projets mis en oeuvre en milieu rural, les objectifs affichés dans la circulaire interministérielle du 25 octobre 2000 et les critères de répartition des crédits qui en découlent marquent la volonté de l'Etat de donner la priorité aux zones rurales en difficulté, au même titre que les zones urbaines. Les CEL jouent un rôle déterminant pour le milieu rural. Ainsi, les trois quarts des contrats portent sur des communes de moins de 5 000 habitants. Par ailleurs, le CEL favorise l'intercommunalité en milieu rural, puisque 90 % des communes de moins de 2 000 habitants ont signé un contrat avec une ou plusieurs autres communes (9 communes par contrat intercommunal en moyenne). Les CEL sont l'expression d'une politique interministérielle déconcentrée dont les services départementaux et régionaux de l'Etat sont les maîtres d'oeuvre en assurant notamment l'attribution des crédits en fonction des critères déterminés par le comité départemental de pilotage. Pour l'exercice budgétaire 2002, la gestion des CEL reste globalisée sur les chapitres 43-90 et 43-91 article 50 afin de permettre le financement aussi bien d'activités sportives que culturelles. Pour 2003, les crédits correspondant aux activités culturelles et aux activités sportives seront inscrits au budget du ministère de la jeunesse, de l'éducation nationale et de la recherche d'une part et au budget du ministère des sports d'autre part. La direction de la jeunesse et de l'éducation populaire et la direction des sports coordonneront la gestion des crédits qu'elles délèguent aux services déconcentrés. Pour l'année 2003, la direction de la jeunesse et de l'éducation populaire a demandé la reconduction des crédits 2002.
