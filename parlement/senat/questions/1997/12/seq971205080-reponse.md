@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971205080
+
+- Question : [SEQ971205080](seq971205080.md) — Coopération internationale en matière de lutte contre le terrorisme
+
+## Réponse
+
+*Justice, JO du 1998-07-02, page 2152*
+
+Réponse. - Le garde des sceaux, ministre de la justice fait connaître à l'honorable parlementaire que sa question a retenu toute son attention. A cet égard, elle rappelle que la France participe à la lutte antiterroriste dans le cadre de l'Union européenne. Dans une résolution, en date du 18 décembre 1997, le Conseil de l'Union européenne a considéré en effet comme prioritaire la lutte contre le terrorisme et, en particulier, l'intensification de la coopération entre les Etats membres, la mise à jour d'un document sur la menace terroriste et l'actualisation du répertoire sur les centres de compétence en matière de lutte antiterroriste. En outre, elle précise que, dans le souci de rendre plus efficace les procédures d'extradition, le Gouvernement souhaite que les conventions qui ont été adoptées par les Etats membres de l'Union européenne, dans le cadre dit du troisième pilier, soient ratifiées au plus tôt. Il doit en être ainsi notamment de la convention simplifiée d'extradition du 10 mars 1995 et de la convention relative à l'extradition entre les Etats membres de l'Union européenne signée lors du conseil informel de Dublin, le 27 septembre 1996. L'entrée en vigueur de ces instruments nécessite une modification importante de notre législation nationale impliquant une réforme de la loi du 10 mars 1927 relative à l'extradition des étrangers. Un avant-projet de loi, actuellement préparé par les services de la chancellerie, prévoit de réformer la procédure d'extradition dans un souci de simplification et d'efficacité. Ce texte doit être soumis au Parlement au cours de l'année 1998.
