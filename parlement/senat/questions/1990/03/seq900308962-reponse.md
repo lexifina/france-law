@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900308962
+
+- Question : [SEQ900308962](seq900308962.md) — Imprécision du vocable " le standing " sur les prospectus des promoteurs immobiliers
+
+## Réponse
+
+*Mer, JO du 1990-08-09, page 1768*
+
+Réponse. - Le code de la construction et de l'habitation fixe en son article R. 111-2 des surfaces et volumes minima à respecter lors de la construction de logements neufs. Il n'est pas imposé de hauteur sous plafond réglementaire, ceci afin de permettre une plus grande liberté architecturale aux concepteurs. Ce même article fixe à 1,80 mètre la hauteur minimale des locaux pris en compte dans la surface habitable. Une hauteur de 2,50 mètres sous plafond entre néanmoins en compte lors du calcul de la surface corrigée d'un logement. En effet, l'article 2 du décret du 22 novembre 1948, fixant les conditions de détermination de la surface corrigée des locaux d'habitation ou à usage professionnel, fixe à 2,50 mètres la hauteur sous plafond nécessaire pour qu'un local soit classé comme pièce habitable : c'est la raison pour laquelle la plus grande partie des logements, loués à la surface corrigée, respecte cette hauteur. En ce qui concerne le thème " standing ", que l'arrêté du 17 février 1986 relatif à l'enrichissement de la langue française préconise de remplacer par le terme " classe ", ce même arrêté le définit comme suit : " appréciation globale du confort et de l'aspect d'un immeuble de qualité ". Cette définition n'implique pas de contrainte juridique spécifique, l'appréciation globale du confort pouvant être différente suivant les individus. Dans le cas où une personne trouverait que l'appartement qui lui a été présenté comme étant de " standing " ne correspond pas à son attente, il lui appartient d'intenter un recours pour non-respect du contrat ou non-respect du devis, si une hauteur sous plafond précise était mentionnée.
