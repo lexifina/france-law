@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930802407
+
+- Question : [SEQ930802407](seq930802407.md) — Modalités de production de l'impôt sur le revenu
+
+## Réponse
+
+*Budget, JO du 1994-04-07, page 786*
+
+Réponse. - L'ouverture d'un redressement judiciaire à l'encontre d'un commerçant ou artisan, personne physique, entraîne le dessaisissement du débiteur sur l'intégralité de son patrimoine. Il en résulte que tous les créanciers doivent faire valoir leur droit dans la procédure quelle que soit l'origine de la créance. Ainsi sont déclarées au passif de la procédure non seulement toutes les créances nées à raison de l'exploitation du fonds mais également celles résultant d'engagements extraprofessionnels, aucune poursuite ne pouvant plus être engagée pour recouvrer de telles créances (CC 27 novembre 1991). De son côté, l'article 156 du code général des impôts précise que l'impôt sur le revenu est établi d'après le montant total du revenu net annuel dont dispose chaque foyer fiscal. Le même impôt tient compte des charges déductibles du revenu global et des réductions d'impôt limitativement prévues par la loi. Quant à l'article 1685 du même code, il précise que " chacun des époux est tenu solidairement au paiement de l'impôt sur le revenu ". Il résulte de l'ensemble de ces dispositions que lors de l'ouverture d'une procédure de redressement judiciaire à l'encontre d'un commerçant ou artisan, personne physique, le comptable du Trésor, conformément aux dispositions de l'article 50 de la loi du 25 janvier 1985, doit déclarer au passif de la procédure le montant de l'impôt sur les revenus établi au nom du débiteur. Il importe peu que cet impôt soit établi à raison de revenus autres que ceux tirés de l'activité professionnelle du redevable. Tel est le cas notamment pour les revenus provenant de l'activité professionnelle du conjoint.
