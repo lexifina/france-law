@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701320
+
+- Question : [SEQ970701320](seq970701320.md) — Arrêt de certains grands projets dans le domaine de l'aménagement du territoire
+
+## Réponse
+
+*Aménagement du territoire, JO du 1997-09-18, page 2453*
+
+Réponse. - La ministre de l'aménagement du territoire et de l'environnement a pris connaissance, avec intérêt, de la question posée par l'honorable parlementaire concernant l'arrêt de certains grands projets d'aménagement du territoire. Les décisions prises d'abandonner certains grands projets d'infrastructures de transport, en raison notamment de leur coût excessif et de leur inadaptation aux besoins, ne devraient pas avoir d'impact sur le niveau général de l'emploi. En effet, les moyens financiers libérés par ces abandons ont vocation à être utilisés ailleurs, pour réaliser d'autres projets, mieux adaptés. Les très grands projets de génie civil sont en général réalisés avec des méthodes très mécanisées et peu porteuses d'emplois. Le remplacement de certains de ces grands projets, comme le canal Rhin-Rhône, par des aménagements de moindre ampleur et plus nombreux, dans le domaine des transports, devrait, à montant d'investissement équivalent, comporter un plus grand nombre d'emplois. Au-delà des emplois directs ainsi créés de façon temporaire pour des chantiers, le choix des opérations de substitution aux grands projets abandonnés visera, bien évidemment, une amélioration forte de l'efficacité du système global des transports de marchandises. Ainsi, les aménagements encore à faire pour réaliser une plus grande intermodalité des transports de marchandises entre la route, le fer et la voie d'eau, apporteront aux entreprises utilisatrices, que l'on appelle les chargeurs, une plus grande productivité par l'amélioration des transports, tant en coût qu'en efficacité. Ainsi, plus productives, grâce à de meilleurs transports, ces entreprises seront davantage créatrices d'emplois.
