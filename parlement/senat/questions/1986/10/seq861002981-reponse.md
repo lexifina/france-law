@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861002981
+
+- Question : [SEQ861002981](seq861002981.md) — Financement des <<Centres 15>>
+
+## Réponse
+
+*Santé et famille, JO du 1987-02-19, page 259*
+
+Réponse. -La loi n° 86-11 du 6 janvier 1986 relative à l'aide médicale urgente et aux transports sanitaires doit faire l'objet de quatre décrets d'application : le premier fixera la composition du comité départemental de l'aide médicale urgente (C.D.A.M.U.) ; le deuxième précisera les missions et l'organisation des S.A.M.U. et traitera notamment des " centres 15 " ; le troisième traitera des transports sanitaires ; le quatrième déterminera les modalités de prise en charge financière des transports sanitaires. Un examen d'ensemble de ces textes est actuellement mené, afin de mieux définir les missions et l'organisation des S.A.M.U. Il n'est pas prévu qu'un décret précise les modalités de financement des " centres 15 ". Dans ces conditions, ce financement sera assuré dans les conditions fixées par l'article 5 de la loi précitée, qui dispose " les dépenses des centres de réception et de régulation des appels sont financées par des contributions qui peuvent notammentprovenir des régimes obligatoires d'assurance maladie, de l'Etat et des collectivités territoriales ". Le financement des " centres 15 " ne saurait par conséquent être partout assuré uniquement par la sécurité sociale et par les collectivités territoriales, même si cela peut être parfois le cas, en fonction des situations locales. La souplesse des dispositions de la loi permet ainsi d'envisager des solutions diversifiées. Dans ces conditions, les collectivités territoriales et les S.A.M.U. n'ont aucune raison de craindre qu'un schéma unique de financement soit imposé par voie réglementaire, ce qui serait contraire à la volonté du législateur.
