@@ -1,0 +1,27 @@
+# Délibération concernant les traitements automatisés d'informations nominatives relatifs à la facturation de différents services offerts (aux parents) par les collectivités territoriales (gestion des transports scolaires, des restaurants scolaires, des centres aérés et des garderies)
+
+- Nature : Deliberation
+- Type : Référentiel/Règlement type/Norme
+- Numéro : 85-02
+- Date : 1985-01-15
+- Publication : 2019-11-13
+- État : MODIFIE
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017654636
+
+La Commission Nationale de l'Informatique et des Libertés, Vu les articles 6, 17 et 21 (paragraphe 1) de la loi n° 78-17 du 6 Janvier 1978 relative à l'informatique, aux fichiers et aux libertés habilitant la Commission Nationale de l'Informatique et des Libertés à édicter, en vertu de son pouvoir réglementaire, des normes simplifiées concernant certains traitements automatisés d'informations nominatives ;
+
+Considérant que, pour l'application de l'article 17 susvisé, il faut entendre par norme simplifiée l'ensemble des conditions que doivent remplir certaines catégories les plus courantes de traitement pour être regardées comme ne comportant manifestement pas de risques d'atteinte à la vie privée et aux libertés et comme pouvant dès lors faire l'objet d'une déclaration simplifiée ; Considérant que certains des traitements informatisé portant sur l'établissement des facturations et/ou des titres de recettes destinés aux bénéficiaires des services offerts par les collectivités territoriales en matière de transports scolaires, restaurants scolaires, centres aérés, garderies, sont de ceux qui peuvent sous certaines conditions relever de l'article 17 sus mentionné. DECIDE :
+
+Article 1er. Pour pouvoir faire l'objet de la procédure de déclaration simplifiée, les traitements automatisés d'informations nominatives visés ci-dessus doivent : Ne porter que sur des données objectives aisément contrôlables par les intéressés grâce à l'exercice du droit individuel d'accès ; N'appliquer à ces données que des logiciels dont les résultats puissent être facilement contrôlés ; Ne pas donner lieu à des interconnexions autres que celles nécessaires à l'accomplissement des fonctions énoncées à l'article 2 ci-dessous ; Comporter des dispositions propres à assurer la sécurité des traitements et des informations et la garantie des secrets protégés par la loi ; Satisfaire en outre aux conditions énoncées aux articles 2 à 5 ci-dessous.
+
+Article 2. Finalités des traitements Les traitements doivent avoir pour seules fonctions : . D'établir les factures ou titres de recettes ou titres de transport pour les services visés ci-dessus ; . D'établir toutes les pièces comptables nécessaires à la mise en recouvrement et à la production des quittances des sommes dues ; . De gérer les comptes des personnes concernées.
+
+Article 3. Catégories d'informations traitées Dès lors que les dispositions de l'article 27 de la loi n° 78-17 du 6 Janvier 1978 ont été respectées lors de leur recueil, les informations traitées doivent relever seulement des catégories suivantes : a) Identité : nom, nom marital, prénoms, adresse, numéro de téléphone, profession, identifiant (à l'exclusion du numéro d'inscription au répertoire), informations complémentaires permettant d'effectuer le paiement (identification postale ou bancaire) ; b) Données objectives justifiant l'application d'une tarification particulière : revenu imposable des parents lorsque les prestations sont soumises à condition de ressources, date de naissance des enfants, établissement scolaire fréquenté, numéro d'allocataire à la Caisse des Allocations Familiales, situation des autres personnes à charge ; c) Renseignements objectifs relatifs aux procédures de recouvrement amiable ou judiciaire des créances.
+
+Article 4. Durée de conservation Les informations nominatives nécessaires aux traitements automatisés, tels que définis aux articles 1er, 2 et 3, ne peuvent être conservées qu'en tant que de besoin et dans le respect de la réglementation en matière de prescription.
+
+Article 5. Destinataires des informations Outre les bénéficiaires des services, peuvent seuls, dans les limite de leurs attributions respectives, être destinataires des informations : - Les agents des organismes assurant la gestion des services publics chargés des opérations administratives et comptables, en particulier les agents ayant à connaître des données et des résultats de traitements ; - Les supérieurs hiérarchiques de ces personnels ; - Les services du comptable public ou des établissement bancaires financiers ou postaux concernés par les opérations de mise en recouvrement ; - Les services de l'Etat habilités à exercer un contrôle en la matière ; - Les officiers publics ministériels.
+
+Article 6. Enregistrements et traitements complémentaires Les traitements dont les finalités sont celles définies à l'article ci-dessus mais qui ne comportent l'enregistrement d'informations n'appartenant pas aux catégories énumérées à l'article 3 ou aboutissant à la transmission d'informations à des destinataires autres que ceux définis à l'article 5 doivent faire l'objet d'une demande d'avis au sens de l'article 15 de la loi du 6 Janvier 1978.
+
+Le Président, Jacques FAUVET
