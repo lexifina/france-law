@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990113468
+
+- Question : [SEQ990113468](seq990113468.md) — Spécialisation des tribunaux de grande instance pour les contentieux les plus techniques
+
+## Réponse
+
+*Justice, JO du 1999-03-18, page 894*
+
+Réponse. - Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que l'éventuelle spécialisation de certains tribunaux de grande instance dans les contentieux les plus techniques s'inscrit dans le cadre de la réforme de la carte judiciaire. En effet, l'évolution de cette carte constitue un élément essentiel de la réforme d'ensemble de la justice visant à moderniser et à faciliter l'accès des citoyens au droit et leur accueil dans les tribunaux que madame la ministre de la justice a engagée. Cette réforme doit être conduite en tenant compte des réalités locales, des évolutions démographiques et des temps de transport. Les solutions de proximité et la spécialisation des juridictions doivent, en même temps, être privilégiées. C'est dans cet esprit que madame le ministre a nommé un délégué à la réforme de la carte judiciaire qui, avec le concours de professionnels qualifiés aux compétences diversifiées, sera chargé de formuler, à partir des résultats de la consultation et de déplacements dans les ressorts, des propositions permettant de rendre plus simples, plus compréhensibles et plus efficaces les implantations judiciaires. En tout état de cause, les décisions à intervenir seront préalablement soumises à une large concertation associant, outre les magistrats et les professions de justice, les élus et les autorités locales concernés. C'est pourquoi la perspective de la spécialisation de certains tribunaux de grande instance par le traitement des contentieux les plus techniques sera effectivement examinée dans le cadre des travaux de refonte de la carte des juridictions.
