@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971003340
+
+- Question : [SEQ971003340](seq971003340.md) — Baisse de la TVA sur les activités de restauration et de tourisme
+
+## Réponse
+
+*Tourisme, JO du 1998-01-22, page 257*
+
+Réponse. - En matière de restauration, il convient de distinguer ce qui relève de la fourniture de denrées alimentaires, incluant la vente à emporter (et qui fait l'objet du taux de TVA réduit à 5,5 %), de la prestation de services fournis par les restaurants, quand il y a consommation sur place (et qui est assujettie au taux de TVA normal soit 20,6 %). La baisse de la TVA serait, bien entendu, de nature à résoudre cette distorsion. La hausse de la TVA de deux points par le précédent gouvernement a accru les difficultés de la profession. Dans la plupart des cas, les restaurateurs n'ont, en effet, pas répercuté cette hausse sur leurs prix. Elle a dès lors amputé leur marge bénéficiaire. Il en résulte une diminution des revenus des restaurateurs et de leur capacité d'autofinancement. Une baisse de la TVA sur les services à forte densité de main-d'oeuvre aurait assurément des effets bénéfiques sur la consommation intérieure et l'emploi. Un projet autorisant les Etats membres de l'Union européenne à décider de telles baisses est à l'étude à Bruxelles. Mais à ce jour, aucun projet n'a été transmis aux gouvernements. La restauration serait un des premiers secteurs bénéficiaires d'une telle mesure. Dans cette perspective, et notamment si l'obstacle juridique était levé, il resterait à traiter l'obstacle budgétaire. Le manque à gagner s'élèverait, pour la seule restauration, à 22,5 milliards. La voie actuellement tracée au niveau de l'Union européenne ne va pas dans le sens d'un taux intermédiaire. Le Gouvernement est très attentif à la situation de ce secteur d'activité dont chacun mesure la place dans la vie sociale de notre pays et l'importance pour l'emploi.
