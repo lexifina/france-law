@@ -1,45 +1,127 @@
 # Article ANNEXE IV
 
-:------------------------------: |
+GRADES ET ECHELONS
 
-: ECHELONS : DUREES : |
+|
 
-: :----------------: |
+DUREE
 
-: : A : B : |
+|
 
-: :-------:--------: |
+|
 
-: 9e échelon : - : - : |
+Maximale
 
-: 8e échelon : 3 ans : 2 ans : |
+|
 
-: : 3 mois: 3 mois: |
+Minimale
 
-: 7e échelon : 3 ans : 2 ans : |
+|
 
-: 6e échelon : 2 ans : 1 an : |
+9e échelon
 
-: : 3 mois: 9 mois: |
+|
 
-: 5e échelon : 2 ans : 1 an : |
+-
 
-: : 3 mois: 9 mois: |
+|
 
-: 4e échelon : 2 ans : 1 an : |
+-
 
-: : 3 mois: 1 an : |
+|
 
-: 3e échelon : 1 an : 1 an : |
+8e échelon
 
-: : 9 mois: 3 mois: |
+|
 
-: 2e échelon : 1 an : 1 an : |
+3 ans 3 mois
 
-: : 9 mois: 3 mois: |
+|
 
-: 1er échelon : 2 ans : 1 an : |
+2 ans 3 mois
 
-:------------------------------: |
+|
 
-(A) Durée maximale. (B) Durée minimale.
+7e échelon
+
+|
+
+3 ans
+
+|
+
+2 ans
+
+|
+
+6e échelon
+
+|
+
+2 ans 3 mois
+
+|
+
+1 an 9 mois
+
+|
+
+5e échelon
+
+|
+
+2 ans 3 mois
+
+|
+
+1 an 9 mois
+
+|
+
+4e échelon
+
+|
+
+2 ans 3 mois
+
+|
+
+1 an 9 mois
+
+|
+
+3e échelon
+
+|
+
+1 an 9 mois
+
+|
+
+1 an 3 mois
+
+|
+
+2e échelon
+
+|
+
+1 an 9 mois
+
+|
+
+1 an 3 mois
+
+|
+
+1er échelon
+
+|
+
+2 ans
+
+|
+
+1 an
+
+|
