@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508588
+
+- Question : [SEQ980508588](seq980508588.md) — Financement des centres de formation des apprentis
+
+## Réponse
+
+*Emploi, JO du 1999-03-11, page 779*
+
+Réponse. - L'honorable parlementaire attire l'attention de Mme le ministre de l'emploi et de la solidarité sur les conditions de financement des centres de formations d'apprentis. La réforme du financement de l'apprentissage engagée par la loi nº 96376 du 6 mai 1996 a dégagé des ressources supplémentaires pour les centres, en procédant à la suppression des exonérations qui s'imputaient auparavant sur le quota de la taxe d'apprentissage qui leur est destiné, et en portant ce quota de 20 % à 40 % de cette taxe. La loi nº 97-940 du 16 octobre 1997 relative au développement d'activités pour l'emploi des jeunes a complété ce dispositif, en mettant en place un fonds national de péréquation de la taxe d'apprentissage. Les ressources de ce fonds, doté de 631,5 MF en 1997, sont reversées aux régions pour être affectées au financement des centres de formation d'apprentis, conformément à des recommandations arrêtées par le comité de coordination des programmes régionaux d'apprentissage et de formation continue. Il n'en demeure pas moins, comme le souligne l'honorable parlementaire, que des inégalités importantes marquent la répartition de la taxe d'apprentissage entre les centres de formation d'apprentis. Celles-ci trouvent leur origine dans le principe de libre affectation du quota par les entreprises ou par les organismes collecteurs de la taxe. Dans le cadre du projet de réforme de la formation professionnelle, les modalités de financement des formations en alternance sous contrat de travail feront l'objet d'une réflexion et d'une concertation approfondies afin de mieux répondre aux attentes des employeurs ainsi que des jeunes et de leurs familles.
