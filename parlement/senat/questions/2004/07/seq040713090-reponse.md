@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040713090
+
+- Question : [SEQ040713090](seq040713090.md) — Arrêt Hedreul
+
+## Réponse
+
+*Justice, JO du 2004-12-02, page 2763*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire qu'il est admis, sur le fondement du décret n° 55-22 du 4 janvier 1955 portant réforme de la publicité foncière et du décret n° 55-1350 du 14 octobre 1955 pour l'application du décret du 4 janvier 1955, que le conservateur des hypothèques n'est pas juge - sauf exception - de la validité, sur le fond du droit, des actes dont la publicité est requise. L'article 34, paragraphes 1 et 2, du décret du 14 octobre 1955 précise l'étendue du contrôle que le conservateur doit opérer avant de pouvoir terminer l'exécution de la formalité en l'absence d'inexactitude et de discordance. Par décret n° 67-1252 du 22 décembre 1967, il a été ajouté qu'il n'y a pas discordance lorsque le titre de la personne indiquée comme disposant ou dernier titulaire, au sens de l'article 32, paragraphe 1, du décret du 14 octobre 1955, a cessé, postérieurement à sa publication au fichier immobilier, de produire tout ou partie de ses effets en raison d'un acte ou d'une décision judiciaire ultérieurement publié. En prenant appui sur cette dernière disposition, des conservateurs des hypothèques ont accepté de publier les actes qui confèrent à deux personnes des droits concurrents sur un même bien immobilier acquis du même auteur. Dans son arrêt du 12 juin 1996, la troisième chambre civile de la Cour de cassation a décidé que le conservateur des hypothèques doit s'assurer de la concordance entre le document déposé et les documents publiés antérieurement. Cette solution - d'ailleurs confirmée dans un autre arrêt de la même chambre du 18 juillet 2001 - est donc de nature à remettre en cause la pratique précédemment rappelée de conservateurs des hypothèques.
