@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920822439
+
+- Question : [SEQ920822439](seq920822439.md) — Politique de la " petite enfance " en zone rurale
+
+## Réponse
+
+*Famille et personnes âgées, JO du 1992-09-10, page 2069*
+
+Réponse. - L'accueil des enfants dans les établissements collectifs au sein desquels s'inscrivent les crèches familiales est aidé fiancièrement par les prestations de service des CAF versées directement aux gestionnaires qui appliquent des barèmes de prix en fonction des revenus de familles. Ces crèches apportent une qualité d'accueil spécifique, des garanties en matière d'encadrement et de formation des assistantes maternelles ainsi que de surveillance médicale des enfants, éléments importants de choix pour les parents. La prestation de service crèches familiales a été relevée de 35 p. 100 au 1er janvier 1991, en compensation des nouvelles charges incombant aux gestionnaires, relatives au déplafonnement des cotisations sociales des assistantes maternelles. Par ailleurs, la politique contractuelle apporte un financement accru aux communes. Le taux des prestations de service peut atteindre 50 p. 100 du prix plafond, au lieu de 30 p. 100, en ce qui concerne les crèches incluses dans les contrats crèches ; dans le cas des contrats enfance, signés par 1 000 communes au cours des trois dernières années, les communes bénéficient de financements couvrant entre 40 et 60 p. 100 des dépenses nettes nouvelles engagées. Cependant, les pouvoirs publics et les caisses d'allocations familiales resteront attentifs à l'évolution de la situation et ne manqueront pas d'adapter le dispositif des aides versées, si un déséquilibre apparaissait en raison de la création de la prestation complémentaire de l'AFEAMA destinée aux familles qui recourent aux services d'une assistante maternelle agréée qu'elles rémunèrent directement.
