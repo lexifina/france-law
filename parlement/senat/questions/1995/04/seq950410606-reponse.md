@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950410606
+
+- Question : [SEQ950410606](seq950410606.md) — Elevage avicole
+
+## Réponse
+
+*Environnement, JO du 1996-04-04, page 811*
+
+Réponse. - Mme le ministre de l'environnement a pris connaissance avec intérêt de la question posée par l'honorable parlementaire à son précédesseur concernant l'élevage avicole. Dans le cadre de l'élevage en captivité de spécimens appartenant à des espèces bénéficiant de mesures de protection, des travaux ont été engagés en concertation avec les associations d'éleveurs et de protection de la nature concernées. Il s'agit d'établir, en application de l'article L. 212-1 du code rural, une réglementation reconnaissant un statut particulier aux spécimens nés et élevés en captivité. Cette réglementation doit être compatible avec la convention sur le commerce international des espèces de faune et de flore menacées d'extinction, et son règlement communautaire d'application qui interdisent ou réglementent le commerce et le transport de certaines espèces. La directive oiseaux CEE 79-409 concerne les oiseaux présents ou prélevés dans le milieu naturel. Elle n'a pas d'incidence directe sur les oiseaux nés et élevés en captivité. Elle permet toutefois aux Etats membres d'adopter des mesures portant sur ces derniers oiseaux, notamment pour prévenir soit des prélèvements excessifs dans la nature, soit des relâchers volontaires ou accidentels, dans le milieu naturel, d'espèces ou de variétés pouvant porter préjudice à des espèces indigènes. Les opérations de réintroduction dans les milieux naturels d'espèces sauvages, telles que celles conduites en France sur les vautours, ne font que rarement appel aux produits des élevages avicoles. Ces programmes encadrés scientifiquement, font l'objet d'un traitement réglementaire particulier (autorisations à des fins scientifiques données en application de l'article L. 211-2 4o du code rural).
