@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701679
+
+- Question : [SEQ970701679](seq970701679.md) — Interventions des collectivités territoriales en matière d'immobilier d'entreprises
+
+## Réponse
+
+*Aménagement du territoire, JO du 1997-09-11, page 2362*
+
+Réponse. - Madame la ministre de l'aménagement du territoire et de l'environnement a bien pris connaissance de la question posée par l'honorable parlementaire concernant les interventions des collectivités territoriales en matière d'immobilier d'entreprises. Comme tous les dispositifs d'aide aux entreprises, les rabais des collectivités locales à l'immobilier d'entreprise sont soumis au respect des règles communautaires de concurrence relatives aux aides publiques aux entreprises, définies par la commission européenne. Celles-ci imposent, en effet, que les aides les plus favorables aux entreprises soient limitées aux zones en difficulté, qui correspondent à la carte de la prime d'aménagement du territoire (PAT) pour les projets industriels, prévue à l'annexe I du décret du 6 février 1995. Compte tenu des difficultés engendrées par ce zonage, qui est repris par le décret no 82-809 du 22 septembre 1982, les autorités françaises ont notifié un nouveau projet de décret, permettant aux collectivités d'octroyer des rabais aux entreprises en dehors des zones PAT " industrie ", mais dans les zones éligibles à la PAT pour les projets tertiaires, énumérées à l'annexe II du même décret. Ce texte est actuellement en cours de négociation avec la commission européenne, qui souhaite limiter ces aides aux PME et à un plafond de 900 000 francs par entreprise. Ces dispositions permettront une meilleure articulation avec les soutiens communautaires possibles par l'intermédiaire des fonds structurels, notamment dans les zones éligibles aux objectifs 2 ou 5b mais non couvertes par la PAT pour les projets industriels.
