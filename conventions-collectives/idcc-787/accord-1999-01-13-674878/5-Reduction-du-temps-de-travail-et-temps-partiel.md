@@ -1,0 +1,5 @@
+# Article 5 : Réduction du temps de travail et temps partiel
+
+Pour le personnel engagé dans le cadre d'un contrat à temps partiel, la durée du travail est contractuelle. De ce fait, l'accord individuel est nécessaire pour que la réduction de 10 % soit effective. La solution de la réduction est néanmoins privilégiée. En conséquence, le responsable du cabinet propose au salarié un avenant à son contrat matérialisant la réduction conforme aux dispositions du présent accord et indiquant la nouvelle répartition de l'horaire. Le salarié dispose d'un délai d'une semaine pour prendre position, son silence à l'issue de ce délai équivaut à un refus.
+
+L'éventuel refus de réduction de la durée contractuelle de travail se traduit par une augmentation du salaire contractuel annuel égale à 4/39 de son précédent salaire. Si ce refus a pour conséquence que la durée contractuelle dépasse 80 % de 35 heures, soit 28 heures, le contrat est requalifié en contrat à temps plein dans les conditions définies à l'article 8.4.6 de la convention collective.
