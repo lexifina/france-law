@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021205066
+
+- Question : [SEQ021205066](seq021205066.md) — Présence d'anciens élèves dans les conseils d'administration des écoles vétérinaires
+
+## Réponse
+
+*Agriculture, JO du 2003-05-22, page 1670*
+
+La direction générale de l'enseignement et de la recherche prépare actuellement un projet de décret dont l'objet est de mettre la composition des conseils d'administration des établissements d'enseignement supérieur agricole publics en conformité avec les dispositions de l'article L. 812-3 du code rural. Ce texte étant l'occasion de quelques ajustements, il propose également de modifier la représentation des associations d'anciens élèves des écoles vétérinaires qui n'est plus mentionnée explicitement parmi les membres. L'objectif de cette réforme n'est bien évidemment pas de diminuer la représentation de la profession, qui est essentielle à tous égards, et qui demeure d'autre part assurée par la présence du président du conseil régional de l'ordre, d'un représentant du Syndicat national des vétérinaires français et d'un représentant du Syndicat national des vétérinaires d'exercice libéral. Cette proposition ne revêtait en fait qu'un caractère purement technique puisqu'il s'agissait uniquement de faciliter l'obtention du quorum dans l'éventualité où une association membre cesserait provisoirement ses activités. Dans cette première version, le projet de décret prévoyait donc que les associations d'anciens élèves soient représentées parmi les personnalités qualifiées nommées sur proposition du directeur de l'établissement. Présentée pour avis lors des récents conseils d'administration des écoles nationales vétérinaires, cette proposition n'a toutefois pas reçu un accueil favorable de la part d'une majorité d'entre eux et il a donc été décidé de rétablir la mention explicite du président de l'association des anciens élèves dans ce projet de décret.
