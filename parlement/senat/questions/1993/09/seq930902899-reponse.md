@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930902899
+
+- Question : [SEQ930902899](seq930902899.md) — Montant du forfait hospitalier dans les maisons d'accueil spécialisées
+
+## Réponse
+
+*Affaires sociales, JO du 1993-11-04, page 2084*
+
+Réponse. - La nécessité d'équilibrer les comptes de l'assurance maladie a conduit le Gouvernement à accroître le forfait hospitalier, qui doit s'analyser comme une participation à des frais d'hôtellerie qui sont, par exemple en milieu hospitalier, de l'ordre de 210 francs par jour. Les dispositions réglementaires en vigueur prévoient cependant que les bénéficiaires des différentes prestations accueillis dans des établissements doivent conserver à leur disposition, une somme minimale (12 p. 100 de l'AAH dans le cas d'un séjour en MAS). D'autre part, pour les personnes les plus démunies, en particulier celles n'ayant d'autres ressources que les prestations de solidarité, l'aide médicale peut prendre en charge le forfait hospitalier. Les ressources individuelles sont appréciées au cas par cas, dans le cadre des règles fixées par les conseils généraux des départements. Il n'est pas exercé, pour cette prise en charge, de recours auprès des familles, contrairement aux aut res prestations de l'aide médicale. Par ailleurs, la question des ressources des personnes handicapées ne peut être dissociée de celle, plus vaste, de notre système de protection sociale, dont le Gouvernement entend bien assurer la pérennisation. Dans ce but, et dans une situation économique très difficile, des mesures de redressement ont déjà été engagées. Elles font appel à l'effort de chacun. Les actions existantes en direction des personnes handicapées représentent, dans ce contexte, un effort de solidarité nationale important qui sera poursuivi dans le même temps que la situation générale évoluera favorablement.
