@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990516149
+
+- Question : [SEQ990516149](seq990516149.md) — Conséquences de la réforme du plafonnement des effets du quotient familial
+
+## Réponse
+
+*Budget, JO du 1999-07-15, page 2410*
+
+Réponse. - Comme le souligne l'auteur de la question, le plafond de déduction des pensions alimentaires versées à un enfant majeur dans le besoin, fixé à 20 370 francs pour l'imposition des revenus de 1998, est le corollaire du plafonnement à 11 000 francs par demi-part pour cette même année de l'avantage maximum en impôt résultant de l'application du quotient familial accordé au titre des enfants à charge. Cette mesure répond à un souci de neutralité entre le versement d'une pension alimentaire et le rattachement de l'enfant au foyer fiscal de ses parents. Ainsi, la déduction de la pension alimentaire du revenu globlal des personnes imposées au taux marginal le plus élevé de 54 % procure un avantage en impôt de 11 000 francs (20 370 francs 54 %) égal à celui accordé pour un enfant majeur rattaché. Au demeurant, le plafond de 20 370 francs est supérieur au montant moyen des pensions alimentaires déduites par l'ensemble des contribuables, qui est de l'ordre de 19 100 francs. Le nouveau plafond ne s'avère donc pas pénalisant pour la majorité des contribuables, notamment ceux qui ne disposent que de revenus modestes ou moyens. Cela étant, les contribuables qui constateraient que leur choix pour la déduction d'une pension alimentaire n'est plus favorable compte tenu de leur niveau de revenus peuvent opter pour le rattachement à leur foyer fiscal de leur enfant majeur lorsque celui-ci est âgé de moins de vingt et un ans, ou de moins de vingt-cinq ans s'il poursuit des études ou, quel que soit son âge, lorsqu'il effectue son service militaire ou est atteint d'une infirmité.
