@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900409496
+
+- Question : [SEQ900409496](seq900409496.md) — Statut des cadres administratifs et techniques
+
+## Réponse
+
+*Solidarité, JO du 1990-10-04, page 2150*
+
+Réponse. - Le projet de décret portant statuts des personnels administratifs présenté au conseil supérieur de la fonction publique hospitalière le 23 avril 1990 apporte de très sensibles améliorations aux perspectives de carrière des cadres administratifs. Celles-ci vont se trouver accrues par la mise en oeuvre des mesures de mise à niveau de la fonction publique hospitalière, visant à rattraper le retard existant par rapport aux deux autres fonctions publiques, ainsi que par la mise en oeuvre des mesures générales d'amélioration des carrières des fonctionnaires arrêtées dans le cadre des négociations menées sous la présidence du ministre d'Etat, ministre de la fonction publique, avec les organisations syndicales représentatives des fonctionnaires. Les adjoints des cadres qui n'avaient jusqu'à présent accès qu'aux deux premiers niveaux de la catégorie B type auront désormais accès aux trois niveaux de la carrière B type revalorisée. Les chefs de bureau seront reclassés en catégorie A et bénéficieront d'une grille indiciaire très sensiblement revalorisée, le seuil de création des emplois étant par ailleurs abaissé de 200 à 100 lits. Ces mesures manifestent, sans ambiguïté, la volonté de reconnaître à l'encadrement administratif hospitalier, un statut en rapport avec les compétences et les responsabilités qui sont les siennes. Il en va de même en ce qui concerne les personnels techniques pour lesquels, après une large concertation avec les organisations syndicales et professionnelles, il est actuellement étudié dans le cadre de réunions interministérielles, un projet de réforme statutaire prenant en compte l'évolution des technologies, et partant des qualifications dans les établissements hospitaliers.
