@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970321142
+
+- Question : [SEQ970321142](seq970321142.md) — Difficulté de logement des personnels de la gendarmerie nationale dans le Val-d'Oise
+
+## Réponse
+
+*Défense, JO du 1997-04-24, page 1298*
+
+Réponse. - Les articles L. 311-1 et R. 331-4 du code de la construction et de l'habitation définissent les règles d'attribution des subventions et prêts destinés à favoriser la construction de locaux d'habitation. Ils excluent de leur bénéfice les logements occupés en raison de l'exercice d'une fonction. Ainsi, la location par le ministère de la défense, pour les besoins de la gendarmerie, d'immeubles ayant reçu une aide de l'Etat pour leur construction ou leur amélioration, n'est pas autorisée. Dès lors, le financement des programmes de réhabilitation des casernes de gendarmerie du département du Val-d'Oise, propriété de sociétés HLM, peut être envisagé soit par recours à l'empreint, soit sur les fonds propres des organismes concernés. En tout état de cause, ces opérations devront s'inscrire dans le cadre d'une programmation définie par la direction générale de la gendarmerie nationale car la réalisation de tels travaux génère une majoration substantielle du montant des loyers servis par l'Etat. Bien que le regroupement des militaires sur leur lieu d'emploi soit systématiquement recherché, l'insuffisance des capacités d'accueil des casernes de certaines unités du Val-d'Oise nécessite l'hébergement de gendarmes dans des logements du secteur libre. Dans ce contexte, deux opérations d'extension de casernements existantes (brigades d'Ecouen et de Vigny) sont en cours de réalisation. Cependant, le contexte budgétaire actuel ne permet pas de préciser la programmation des projets de construction ou de rénovation des casernes, qui ne peuvent, en l'état actuel, accueillir l'ensemble de leur personnel.
