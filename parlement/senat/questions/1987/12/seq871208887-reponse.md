@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871208887
+
+- Question : [SEQ871208887](seq871208887.md) — Rôle et moyens de la DATAR
+
+## Réponse
+
+*Équipement, JO du 1988-03-03, page 291*
+
+Réponse. -Les pouvoirs publics sont conscients de l'importance que revêt pour la France l'accueil des investissements étrangers et partagent sur ce plan général les préoccupations exprimées par l'honorable parlementaire sur la nécessité d'apporter un soutien aussi vigoureux que possible à cette politique. Il est vrai que les moyens des bureaux à l'étranger de la Délégation à l'aménagement du territoire et à l'action régionale sont inférieurs à ceux dont disposent la plupart des pays concurrents, mais l'efficacité des bureaux de la D.A.T.A.R. n'en est pas moins reconnue par ces mêmes concurrents. Le dispositif actuellement appliqué pour la prime d'aménagement du territoire permet d'agir de façon prioritaire en faveur des investissements étrangers en France et les pouvoirs publics s'efforcent par ailleurs d'apporter en matière de procédure tous les assouplissements compatibles avec la poursuite des objectifs de la politique d'aménagement du territoire dans cedomaine. Il faut ajouter que les résultats de cette politique, quelles que soient les améliorations qu'elle est encore susceptible de recevoir, doivent être appréciés, dans la conjoncture actuelle, non seulement en termes d'emplois créés mais aussi en termes d'emplois maintenus. Globalement, ce sont en moyenne de 12 000 à 13 000 emplois au moins qui sont créés annuellement depuis quatre ans par les sociétés sous contrôle étranger en France. L'Etat, malgré un climat budgétaire de rigueur, a décidé de maintenir au niveau de l'année révolue son effort pour 1988, compte tenu de l'enjeu que ces investissements représentent et de la compétition internationale, en effet, de plus en plus vive qui s'exerce sur le plan de l'accueil.
