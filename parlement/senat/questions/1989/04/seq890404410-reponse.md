@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890404410
+
+- Question : [SEQ890404410](seq890404410.md) — Calcul de l'impôt de solidarité sur les donations
+
+## Réponse
+
+*Budget, JO du 1989-07-27, page 1139*
+
+Réponse. - La situation d'un propriétaire détenant un immeuble à la suite d'un donation prononcée en sa faveur, mais grevée d'une clause de retour conventionnel et d'interdiction d'aliéner ou d'hypothéquer, stipulée au profit du donateur, est comparable à celle de l'usufruitier, en ce sens qu'il a l'usage du bien, sans toutefois pouvoir en disposer en toute liberté. Or, les biens grevés d'un usufruit, qui entrent dans le champ d'application de l'impôt de solidarité sur la fortune doivent être déclarés, par l'usufruitier, pour leur valeur vénale en pleine propriété, sans application d'aucun abattement. Cette règle se justifie pour plusieurs raisons : l'impôt de solidarité sur la fortune a pour but de faire participer les détenteurs de patrimoines importants à l'effort de solidarité nationale à l'égard des plus démunis et de frapper la capacité contributive que confère la détention d'un ensemble de biens meubles ou immeubles ; en outre, la restriction, par la voie contractuelle, des droits attachés à la propriété constituerait pour les redevables un moyen facile d'échapper à l'impôt de solidarité sur la fortune. Dans le cas d'immeubles dont la possession procède d'une donation assortie d'une clause de retour conventionnel, c'est le donataire qui bénéficie des revenus ou des avantages afférents à l'immeuble en cause ; c'est donc à lui qu'incombe le paiement de l'impôt. Pour ces différents motifs, les immeubles auxquels fait référence l'honorable parlementaire doivent être déclarés, par les donataires pour leur valeur vénale en toute propriété, au 1er janvier de chaque année. Cela dit, rien ne s'oppose à ce que le donateur et le donataire conviennent entre eux, à titre privé, de conditions différentes, pour la répartition définitive de la charge de l'impôt.
