@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980810322
+
+- Question : [SEQ980810322](seq980810322.md) — Elections sénatoriales : date choisie pour la désignation des délégués des conseils municipaux
+
+## Réponse
+
+*Intérieur, JO du 1998-10-08, page 3198*
+
+Réponse. - Aux termes de l'article L. 283 du code électoral, " le décret convoquant les électeurs sénatoriaux fixe le jour auquel doivent être désignés les délégués des conseils municipaux et leurs suppléants. Un intervalle de trois semaines au moins doit séparer cette élection de celle des sénateurs ". Le respect de cette prescription était traditionnement assuré, comme le note l'auteur de la question, en réunissant les conseils municipaux le troisième dimanche précédant celui des élections sénatoriales. Toutefois, cette formule a été contestée par de nombreux parlementaires et élus locaux, lesquels ont fait valoir que les assemblées municipales se réunissaient désormais plus fréquemment en semaine que le dimanche. Après consultation et avis favorable de l'association des maires de France, le Gouvernement a donc décidé, en vue des élections sénatoriales du 27 septembre 1998, que les conseils municipaux se réuniraient le vendredi 4 septembre 1998 à l'effet de désigner leurs délégués et suppléants, ce qui respecte les prescriptions légales précitées et se fonde sur la constatation que le vendredi est le jour le plus fréquemment choisi par les conseils municipaux pour tenir séance. Cette mesure, annoncée à l'issue du conseil des ministres du 10 juin 1998, a donc été intégrée dans le décret nº 98-699 du 30 juillet 1998, portant convocation des collèges électoraux pour l'élection des sénateurs, publiée au Journal officiel du 11 août. L'honorable parlementaire notera au demeurant qu'aucune disposition n'impose d'horaire particulier aux assemblées municipales pour se réunir. Elles peuvent donc le faire, soit dans le courant de la journée du 4 septembre, soit dans la soirée, en dehors des heures ouvrables.
