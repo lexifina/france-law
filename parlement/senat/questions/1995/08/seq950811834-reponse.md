@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950811834
+
+- Question : [SEQ950811834](seq950811834.md) — Relance de la politique du logement
+
+## Réponse
+
+*Logement, JO du 1995-11-16, page 2173*
+
+Réponse. - Le Gouvernement a engagé une politique ambitieuse en vue de trouver une solution aux problèmes du logement qui devrait bénéficier fortement au secteur du bâtiment. En premier lieu, la création de 10 000 logements d'insertion, destinée à offrir des solutions aux personnes sans abri avant l'hiver, est accompagnée en règle générale de travaux destinés à rendre habitables les locaux mobilisés. De plus, la réforme de l'aide à l'accession à la propriété devrait également contribuer à soutenir l'activité du bâtiment. La nouvelle aide qui remplace le PAP prend la forme d'une avance sans intérêts de 70 000 francs à 180 000 francs. Le nombre de bénéficiaires potentiels est nettement plus élevé que pour les PAP, suite au relèvement des plafonds de ressources à 4,5 SMIC en moyenne et au décontingentement de l'aide : environ 75 p. 100 des accédants pourront prétendre à l'aide en 1996. 120 000 avances devraient être distribuées alors qu'il n'aurait pu être accordé en 1995 que 35 000 PAP. Le circuit de distribution de l'aide, totalement banalisé, permettra à l'accédant de s'adresser à la banque de son choix et devrait donc faciliter l'accès à l'aide qui n'est soumis à aucun contingentement. Celle-ci peut par ailleurs ouvrir droit à l'APL si le prêt principal est un prêt conventionné (PC) ou un prêt à l'accession sociale (PAS). Le nouveau dispositif sera également plus social grâce à des modalités de remboursement du prêt sans intérêts d'autant plus favorables que les ressources du ménage sont modestes. Un mécanisme de sécurisation des accédants contre le risque de chômage sera également mis en place pour favoriser le développement de l'accession à la propriété.
