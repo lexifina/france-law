@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911118488
+
+- Question : [SEQ911118488](seq911118488.md) — Réglementation concernant les randonnées VTT et aquatiques
+
+## Réponse
+
+*Jeunesse et sports, JO du 1992-04-16, page 959*
+
+Réponse. - Les dispositions de la loi n° 84-610 du 16 juillet 1984 modifiée relative à l'organisation et à la promotion des activités physiques et sportives et ses textes d'application (décret n° 89-685 du 21 septembre 1989 relatif à l'enseignement contre rémunération et à la sécurité des activités physiques et sportives ; arrêté du 4 octobre 1989 relatif à la déclaration d'activité et d'ouverture prévue aux articles 3 et 4 du décret précédent ; décret n° 91-582 du 19 janvier 1991 définissant l'étendue minimale de la garantie et les modalités de contrôle de l'obligation d'assurance prévue par l'article 37 de la loi n° 84-610 du 16 juillet 1984) instituent une obligation de diplôme pour les personnes enseignant contre rémunération les activités physiques et sportives, ainsi que des conditions de sécurité et d'assurance pour les établissements d'activités physiques et sportives exploités contre rémunération. Ainsi tout organisateur d'activités physiques et sportives contre rémunération est-il soumis, selon les cas, à plusieurs ou à l'ensemble de ces dispositions. Il convient de plus de rappeler l'obligation de prudence et de diligence qui lui incombe, en vertu de la jurisprudence. Par ailleurs, un projet de texte relatif aux garanties de technique et de sécurité des établissements organisant la pratique des sports d'eau vive est en cours d'élaboration par les services du ministère de la jeunesse et des sports et du ministère de l'équipement, du logement, des transports et de l'espace. Il devrait compléter le dispositif en vigueur par l'édition de normes de sécurité particulières pour l'organisation d'activités aquatiques telles que le canoë-kayak, la nage en eau vive ou le raft.
