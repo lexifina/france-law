@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030105403
+
+- Question : [SEQ030105403](seq030105403.md) — Dysfonctionnement des agences postales en été
+
+## Réponse
+
+*Industrie, JO du 2003-02-27, page 723*
+
+Dans le cadre de la loi du 2 juillet 1990, La Poste doit accorder une attention toute particulière à sa présence territoriale afin d'assurer un service public de qualité accessible à tous. Des orientations ont été définies dans le contrat de plan de La Poste, pour préciser les conditions d'évolution et d'amélioration du service postal, tant en zone rurale qu'en zone urbaine, notamment dans les quartiers en difficulté. Ces orientations ont fait l'objet d'une large concertation, en particulier avec les représentants des maires et des élus locaux. Concernant les horaires d'ouverture des bureaux durant la période estivale, La Poste les adapte à la fréquentation localement constatée. Elle renforce ainsi sa présence et ses moyens dans les régions où le trafic postal peut être parfois multiplié par trois durant l'été, en favorisant la mise en place de bureaux saisonniers, l'élargissement des horaires d'ouverture et le recrutement de personnels saisonniers. Dans les zones où la population et le trafic postal sont moins denses durant l'été, seuls des ajustements temporaires et marginaux peuvent être décidés. Ces mesures sont prises après concertation avec les élus concernés, notamment dans le cadre des commissions départementales de présence postale territoriale et ne menacent en rien l'avenir des points de contact considérés. La Poste ne souhaite pas se retirer des zones rurales mais doit en permanence s'adapter et rechercher le meilleur équilibre entre sa mission de contribution à l'aménagement du territoire, qui sera confirmée dans le contrat de plan en cours de discussion, et l'équilibre financier de ses activités.
