@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990113742
+
+- Question : [SEQ990113742](seq990113742.md) — Augmentation de l'aide au poste en entreprise d'insertion
+
+## Réponse
+
+*Emploi, JO du 1999-11-11, page 3727*
+
+Réponse. - La loi nº 98-657 du 29 juillet 1998 relative à la lutte contre les exclusions a donné une nouvelle impulsion aux entreprises d'insertion et aux entreprises de travail temporaire d'insertion dont l'activité consiste à faciliter l'insertion professionnelle de personnes sans emploi, rencontrant des difficultés sociales et professionnelles particulières. L'exonération totale des charges sociales patronales de sécurité sociale sur les rémunéraions des salariés en insertion, dans la limite du SMIC, a été instituée par la loi. Elle est soumise à une procédure d'agrément par l'ANPE avant l'embauche de ces salariés, détaillée par le décret nº 99-106 du 18 février 1999. Elle est entrée en vigueur le 1er janvier 1999. Concernant les entreprises d'insertion, le décret nº 99-107 du 18 février 1999 relatif aux entreprises d'insertion et l'arrêté du 23 mars 1999 précisent les modalités de conventionnement des entreprises d'insertion et fixent le montant annuel de l'aide de l'Etat au poste d'insertion occupé à temps plein à 50 000 francs à compter du 1er janvier 1999. Les conditions de mise en uvre des fonds départementaux pour l'insertion (FDI) ont été déterminées par le décret nº 99-275 du 12 avril 1999 et la circulaire nº 99/25 du 2 juin 1999. Les FDI dotés de 45 millions de francs sont destinés à financer le développement et la consolidation des activités mises en uvre par les organismes d'insertion par l'activité économique au profit de personnes en grande difficulté d'insertion sociale et professionnelle. Les crédits ont été délégués dans les départements. Les conventions sont conclues par le préfet de département, après avis du conseil départemental de l'insertion par l'activité économique. La mesure entre donc progressivement en vigueur.
