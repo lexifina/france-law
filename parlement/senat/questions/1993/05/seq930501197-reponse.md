@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930501197
+
+- Question : [SEQ930501197](seq930501197.md) — Réglementation des modes particuliers d'utilisation du sol
+
+## Réponse
+
+*Environnement, JO du 1993-09-16, page 1646*
+
+Réponse. - L'article R. 442-2 du code de l'urbanisme subordonne à l'obtention d'une autorisation préalable les affouillements et exhaussements du sol, à la double condition que leur superficie soit supérieure à 100 mètres carrés et que leur hauteur, s'il s'agit d'un exhaussement, ou leur profondeur dans le cas d'un affouillement, excède 2 mètres. Le ministère de l'environnement confirme à l'honorable parlementaire que les conditions de superficie, de hauteur ou de profondeur posées par l'article R.442-2 du code de l'urbanisme sont bien cumulatives. Autrement dit, il suffit que l'une de ces conditions ne soit pas remplie pour que les travaux projetés soient dispensés de l'autorisation d'installations et travaux divers. Toutefois, il est possible d'édicter dans les POS des règles interdisant les affouillements et les exhaussements ou les soumettant à des conditions spéciales, dès lors que ces interdictions ou prescriptions répondent à un intérêt général et à un motif d'urbanisme, et qu'elles sont proportionnées à l'ampleur du problème posé. Par ailleurs, la loi n° 93-24 du 8 janvier 1993 a introduit de nouvelles dispositions concernant la prise en compte des paysages dans les documents d'urbanisme. Ainsi, les POS peuvent désormais identifier des quartiers, rues, monuments, sites et secteurs à protéger pour des motifs d'ordre esthétique, historique ou écologique mais aussi des éléments de paysage (art. L. 123-1, 7o, du code de l'urbanisme). Dès lors que ces éléments de paysage auront été identifiés, tous travaux ayant pour effet de les détruire seront soumis à une autorisation préalable au titre des installations et travaux divers, dans les conditions prévues par un décret en Conseil d'Etat (art. L. 442-2 du code de l'urbanisme).
