@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040712851
+
+- Question : [SEQ040712851](seq040712851.md) — Réforme du permis plaisance " mer "
+
+## Réponse
+
+*Équipement, JO du 2004-09-16, page 2117*
+
+Le comité interministériel de la mer du 16 février 2004 a proposé qu'il soit procédé à une modernisation des permis de conduire des navires de plaisance, suite à une mission d'évaluation du système actuel qui avait été confiée au conseil général des ponts et chaussées et à l'inspection générale des services des affaires maritimes. Il s'agit, d'une part, de simplifier les démarches administratives pour les usagers (instauration d'un titre unique maritime et fluvial incluant le certificat restreint de radiotéléphoniste, avec une administration responsable unique) et, d'autre part, d'améliorer la formation des futurs plaisanciers en mettant en place, par des dispositions législatives, un agrément des centres d'enseignement. Un nombre minimum d'heures de cours sera institué pour la formation pratique. Il sera également procédé à une modernisation des sujets d'examen. L'ensemble de cette évolution devra s'effectuer en maîtrisant l'évolution des coûts pour l'Etat de la délivrance des permis. Ainsi, la délégation aux centres d'enseignement, dans le cadre de leur agrément et selon des dispositions qui restent à définir, de l'évaluation de la formation pratique des candidats est à l'étude. Bien entendu, si elle est retenue, une telle délégation impliquera un contrôle et un encadrement de ces centres par l'autorité ayant délivré l'agrément. Ce projet, dès qu'il aura été finalisé par le ministre de l'équipement, des transports, de l'aménagement du territoire, du tourisme et de la mer et le secrétaire d'Etat aux transports et à la mer, fera l'objet d'une consultation auprès des différents professionnels du nautisme.
