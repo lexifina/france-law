@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920219968
+
+- Question : [SEQ920219968](seq920219968.md) — Dispositions concernant les entreprises privées ayant mis en oeuvre un système de prévention des chèques impayés
+
+## Réponse
+
+*Économie, JO du 1992-09-10, page 2064*
+
+Réponse. - Les mécanismes de prévention contre les incidents sur chèques s'inscrivent dans des cadres juridiques différents selon qu'il s'agit de recenser des chèques perdus ou volés, d'une part, ou des interdictions bancaires ou judiciaires d'émettre, d'autre part. Dans le premier cas, la Banque de France a effectivement mis en place au début de 1991, en accord avec le Conseil national du commerce et en partenariat avec une société privée, Mantis, un fichier national des chèques déclarés perdus ou volés (FNCV) ; il convient de souligner qu'il s'agit là d'un dispositif contractuel et facultatif, qui n'interdit pas la création parallèle de fichiers privés. En revanche, s'agissant du recensement des interdictions bancaires ou judiciaires d'émettre, le législateur a décidé de confier un monopole à la Banque de France (loi du 30 décembre 1991 relative à la sécurité des chèques et des cartes de paiement). Les divers organismes (sociétés privées, associations, etc.) qui avaient pu mettre en place des fichiers d'incidents de paiement ne seront donc plus autorisés à les utiliser. Mais ils pourront, conformément aux dispositions du décret n° 92-467 du 26 mai 1992, interroger le nouveau fichier de la Banque de France, en qualité de mandataire d'une personne ayant reçu un chèque en paiement d'un bien ou d'un service et sous réseve de ne pas concerver les informations ainsi recueillies. Le Gouvernement est en train de réexaminer avec les principaux intervenants les modalités de fonctionnement du système actuel, qui n'a qu'un caractère contractuel, afin d'assurer la transparence de ses conditions de fonctionnement.
