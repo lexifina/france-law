@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940707153
+
+- Question : [SEQ940707153](seq940707153.md) — Périodicité du versement des cotisations sociales par les collectivités territoriales
+
+## Réponse
+
+*Budget, JO du 1995-05-18, page 1139*
+
+Réponse. - En vertu de l'article L. 243-1 du code de la sécurité sociale, la contribution du salarié est précomptée sur la rémunération ou gain de l'assuré lors de chaque paye. Ce précompte salarial doit être reversé par l'employeur aux organismes de recouvrement. L'employeur ne sert ainsi que d'intermédiaire pour le compte de l'assuré qui est redevable aux unions pour le recouvrement des cotisations de la sécurité sociale et d'allocations familiales (URSSAF) de cotisations salariales. Toute rétention de précompte salarial est passible de sanction pénale (L. 244-6 du code de la sécurité sociale). La législation actuelle impose donc le paiement mensuel des cotisations salariales. La situation de trésorerie des organismes de sécurité sociale constitue par ailleurs une préoccupation permanente du Gouvernement. Plusieurs mesures récentes ont été décidées pour aménager le recouvrement des cotisations sociales. Concernant les employeurs de droit privé, une échéance supplémentaire de cotisations a été instituée par le décret no 94-1025 du 23 novembre 1994 pour réduire les délais de paiement des entreprises de plus de dix et de moins de cinquante salariés. De son côté, l'Etat, en tant qu'employeur, a adopté depuis le mois de mai 1994 un calendrier mensuel de versements de ses cotisations patronales, en retenant le même calendrier de versement que celui qui s'applique aux entreprises de plus de cinquante salariés du secteur privé. Dans ces conditions, il n'est pas envisageable de retarder le paiement des cotisations sociales dues par les collectivités locales.
