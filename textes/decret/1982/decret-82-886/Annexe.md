@@ -26,18 +26,6 @@ Attachés d'éducation des maisons d'éducation de la Légion d'honneur. Corps d
 
 corps du personnel de direction, corps du personnel technique et de formation professionnelle, corps du personnel de surveillance.
 
-MINISTERE :
-
-Education nationale.
-
-LISTE DES CORPS :
-
-Instituteurs.
-
-Professeurs d'éducation physique et sportive.
-
-Professeurs adjoints d'éducation physique et sportive.
-
 NOTA :
 
 NOTA : Décret 84-957 du 25 octobre 1984 art. 1 : les dispositions du décret 82-886 demeurent en vigueur pour l'application de l'article 21 de la loi 84-16 du 11 janvier 1984, sous réserve des modifications apportées par l'article 2 du décret 84-957.
