@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880901718
+
+- Question : [SEQ880901718](seq880901718.md) — Marché unique : réorganisation des transports français par voie d'eau
+
+## Réponse
+
+*Transports routiers et fluviaux, JO du 1988-12-29, page 1494*
+
+Réponse. - L'organisation du transport fluvial de marchandises, telle qu'elle résulte de la loi du 22 mars 1941, paraît effectivement un peu ancienne et n'est plus totalement adaptée à notre économie. Des évolutions en la matière doivent donc être suscitées, et ce d'autant plus rapidement que l'échéance européenne de 1993 les requiert. Le rôle de l'Etat est d'accompagner et de faciliter les transitions nécessaires. Celles-ci ne pourront toutefois se faire sans le concours de professionnels. De premières dispositions ont d'ores et déjà été prises par l'Etat en matière d'infra-structures. La revalorisation substantielle des dotations inscrites dans le projet de loi de finances pour 1989 traduit un revirement de tendance par rapport aux années antérieures. L'effort à accomplir dans ce domaine n'en reste pas moins important et nécessite que des ressources supplémentaires soient consacrées aux voies navigables. C'est pourquoi a été confiée récemment à Mme Yvette Chassagne une mission de réflexion, afin d'examiner ces différents problèmes et de rechercher des solutions. S'agissant de la batellerie proprement dite, outre la mise en oeuvre de réformes issues de directives européennes, et touchant par exemple l'accès à la profession et les normes techniques, le Gouvernement s'attache à faire avancer l'harmonisation des conditions de concurrence. Parallèlement, il entend poursuivre l'effort de redressement des entreprises engagé depuis janvier 1986. A cet effet, est actuellement en cours d'élaboration l'actualisation du plan économique et social mis en oeuvre à cette époque et en application depuis. Tels sont les principes dont procède la politique que le Gouvernement s'attache à mener et entend poursuivre en ce domaine.
