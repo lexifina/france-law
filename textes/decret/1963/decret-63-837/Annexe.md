@@ -2,32 +2,34 @@
 
 Immatriculation principale (1) :
 
-- personne physique : 25 F.
+- personne physique : 5.
 
-- groupement d'intérêt économique : 40 F.
-
-- société, établissement public : 45 F.
+- groupement d'intérêt économique, sociétés commerciales, sociétés définies par l'article 1845 du code civil, établissement public : 10.
 
 Immatriculation secondaire, inscription complémentaire et inscription modificative :
 
-- personne physique : 20 F.
+- personnes physiques : 4.
 
-- personne morale et groupement d'intérêt économique : 30 F.
+- groupement d'intérêt économique, sociétés commerciales, sociétés définies par l'article 1845 du code civil : 7.
 
-Radiation : 20 F.
+Radiation : 4.
 
 Dépôt d'actes ou de pièces pour la publicité des sociétés :
 
-15 F.
+4.
 
-Certificat négatif d'immatriculation, certificat de dépôt, communication d'actes ou de pièces déposés : 3 F.
+Copie de bilan : 3.
 
-Extrait d'immatriculation : 6 F.
+Certificat négatif d'immatriculation, certificat de dépôt, communication d'actes ou de pièces déposées : 1.
 
-Expédition, par page : 1,50 F.
+Extraits d'immatriculation : 1,75.
 
-Copie par page : 0,75 F avec un minimum de 2 F.
+Expédition par page : 1/3.
 
-(1) voir décret n° 77-1439 du 15 décembre 1977, article 2, alinéa 1er publié au journal officiel de la république française le 28 décembre 1977 :
+Copies d'actes ou de pièces déposées par page : 1/6 avec un minimum de 2/5.
 
-Les émoluments alloués aux greffiers des tribunaux de commerce en application du décret susvisé du 12 août 1963 fixant le tarif des greffiers en matière de registre de commerce et de publicité des sociétés modifié sont majorés de 6,5 p. 100.
+Rédaction de la déclaration (2) : 1,75.
+
+(1) Lorsque l'immatriculation principale est effectuée en application de l'article 6 du décret n° 69-389 du 18 avril 1969, les émoluments sont réduits de moitié.
+
+(2) Lorsqu'elle est effectuée par le greffier.
