@@ -12,4 +12,8 @@ d. durant la période visée au c, le bien doit être placé en dépôt auprès 
 
 La réduction d'impôt est subordonnée à l'agrément du ministre de l'économie et des finances qui se prononce après avis de la commission prévue à l'article 7 de la loi n° 92-1477 du 31 décembre 1992 précitée.
 
-Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article (1).
+
+NOTA :
+
+(1) Voir les articles 171 BE à 171 BH de l'annexe II.
