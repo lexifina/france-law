@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970702065
+
+- Question : [SEQ970702065](seq970702065.md) — Revalorisation des carrières dans la police nationale
+
+## Réponse
+
+*Intérieur, JO du 1997-10-02, page 2648*
+
+Réponse. - L'honorable parlementaire appelle l'attention du ministre de l'intérieur sur la propositon faite par une organisation syndicale de créer un douzième échelon en faveur des gardiens de la paix et d'un échelon exceptionnel pour les brigadiers-majors. La création de ces nouveaux échelons semble difficile à mettre en oeuvre. En effet, toute modification portant sur l'échelonnement indiciaire dans le corps de maîtrise et d'application de la police nationale comporte des répercussions sur les grilles indiciaires des corps supérieurs. En particulier, la création d'échelons supplémentaires entraînerait non seulement une restructuration totale de la grille indiciaire des gradés et gardiens de la paix, mais également de celle du corps de commandement d'encadrement de la police nationale. Elle aurait également un coût budgétaire. Il est essentiel, à ce titre, de rappeler que la police nationale a connu des réformes importantes, lesquelles ont entraîné une réduction du nombre des corps existants, la création d'un grade de brigadier-major dans le corps de maîtrise et d'application de la police nationale, et ont abouti à une revalorisation notable des grilles indiciaires. En ce qui concerne le corps de maîtrise et d'application de la police nationale, en particulier, la nouvelle configuration de la structure du corps et de l'échelonnement indiciaire a eu pour effet de réduire la durée du temps passé dans certains échelons, ce qui constitue un avantage important pour les fonctionnaires. Dans ces conditions, il ne paraît pas possible de procéder à nouveau et dans l'immédiat à des modifications de la grille indiciaire du corps de maîtrise et d'application de la police nationale.
