@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871208990
+
+- Question : [SEQ871208990](seq871208990.md) — Protection des sous-traitants
+
+## Réponse
+
+*Commerce et artisanat, JO du 1988-02-04, page 152*
+
+Réponse. -Le Gouvernement, conscient des difficultés en matière de protection des sous-traitants, se préoccupe de l'amélioration de leur situation. Si, comme cela a été répondu en diverses occasions, le Gouvernement n'entend pas, dans l'état actuel des choses, remettre en débat la loi du 31 décembre 1975 pour y introduire notamment des sanctions pénales, il souhaite que les garanties financières prévues par les textes puissent être mises en oeuvre et assurer le paiement des travaux effectués par les sous-traitants. La commission technique de la sous-traitance, section B.T.P., qui ne s'était pas réunie depuis plusieurs mois, a tenu séance récemment à la demande du ministre de l'équipement, du logement, de l'aménagement du territoire et des transports. Un consensus a été trouvé entre les partenaires de la filière construction pour reconnaître la bonne application de la loi en marchés publics et sa relative inefficacité sur les marchés privés de maison individuelle du fait de l'inexistence soit de caution bancaire, soit de délégation de paiement. Ce point a été considéré comme la priorité des travaux qui s'engagent. Par ailleurs, le ministre de l'équipement, du logement, de l'aménagement du territoire et des transports, a manifesté son désir qu'à l'occasion de l'octroi des prêts P.A.P. qui font l'objet d'une aide de l'Etat, un contrôle soit effectué sur la bonne application de la loi de 1975 sur la sous-traitance, par les différentes parties. A cette fin, une expérimentation pourrait s'engager sur un département pilote, ce n'est qu'à l'issue de cette phase qu'une généralisation pourrait être envisagée.
