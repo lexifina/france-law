@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030306137
+
+- Question : [SEQ030306137](seq030306137.md) — Accueil de la petite enfance - Manque d'assistantes maternelles
+
+## Réponse
+
+*Famille, JO du 2003-04-17, page 1343*
+
+Selon les dernières données fournies par la Caisse nationale des allocations familiales, on pouvait enregistrer, en 2001, 420 000 agréments d'assistantes maternelles, permanentes ou non, dont 46 000, environ, pour cette dernière catégorie. Les unes. les non-permanentes, offrent aux familles par le biais de l'aide à la famille pour l'emploi d'une assistante maternelle agréée (AFEAMA) un mode de garde très apprécié. Les autres, permanentes, assurent au quotidien une mission de service public dans le cadre de l'aide sociale à l'enfance, dans des conditions de plus en plus difficiles. Ces deux métiers souffrent, cependant, d'un manque de reconnaissance et bénéficient d'un statut qui ne semble plus adapté aux évolutions de la société et à la réalité des tâches respectives qui Ieur incombent. Dans ce contexte, le ministre délégué à la famille, conscient des difficultés désormais inhérentes à ces deux professions, qui n'ont que trop duré, a entrepris de réformer leurs statuts. La concertation a été menée, entre la mi-décembre et la mi-janvier, avec l'ensemble des parties prenantes de cette réforme, soit plus d'une vingtaine d'organisations syndicales ou professionnelles. L'objectif retenu tend à distinguer ces deux professions qui, tout en conservant les spécificités qui en font leur force, doivent devenir plus attractives puisque, comme le souligne un rapport récent du commissariat général du plan, elles constituent un gisement fort important de créations d'emplois d'ici à 2010. Par ailleurs, il semble souhaitable de mieux professionnaliser ces métiers, de les structurer et d'en organiser l'exercice. Les conclusions de ces réflexions seront présentées au cours de la conférence de la famille le 29 avril prochain.
