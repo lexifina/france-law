@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981011654
+
+- Question : [SEQ981011654](seq981011654.md) — Association de l'enseignement privé au plan multimédia
+
+## Réponse
+
+*Éducation, JO du 2000-09-07, page 3078*
+
+Réponse. - Le plan " Multimédias " lancé par le ministère de l'éducation nationale, de la recherche et de la technologie a pour objectif d'encourager et soutenir le développement de contenus éducatifs destinés à être utilisés en classe et autour de la classe par les enseignants et les équipes éducatives. Il ne doit pas être confondu avec le plan " Nouvelles technologies de l'information et de la communication " qui, lui, concerne l'utilisation de ces techniques nouvelles au sein des établissements. Le ministère de l'éducation nationale souhaite encourager et soutenir le développement de contenus éducatifs destinés à être utilisés en classe et autour de la classe par les enseignants et les équipes éducatives. La circulaire nº 98-171 du 2 septembre 1998 sur le dispositif de soutien au développement des ressources multimédias et audiovisuelles pédagogiques a pour objet de recenser les besoins et les priorités du système éducatif en matière de ressources multimédias et de préciser les modalités de sélection des produits et de soutien des projets réalisés par des producteurs ou des auteurs de ressources multimédias. Ces derniers peuvent être soit des personnes physiques, soit des personnes morales de droit public ou privé. Par conséquent, des établissements d'enseignement privés ou des enseignants de ces établissements peuvent participer au plan " Multimédias " et obtenir dans les conditions fixées par la circulaire précitée un financement public. Enfin, selon la circulaire précitée, les producteurs ou auteurs des projets ou produits susceptibles de bénéficier du plan précité doivent déposer leurs dossiers au ministère, au bureau des ressources multimédias situé 1, rue Descartes, 75231 Paris Cedex 05
