@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860400026
+
+- Question : [SEQ860400026](seq860400026.md) — Intégration scolaire des enfants handicapés
+
+## Réponse
+
+*Éducation, JO du 1986-06-26, page 890*
+
+Réponse. -L'article 23 de la loi n° 83-663 du 22 juillet 1983, modifiée par l'article 37 de la loi n° 86-29 du 9 janvier 1986, a fixé les conditions de participation des communes de résidence, aux charges des écoles élémentaires et maternelles publiques accueillant des enfants de plusieurs communes, comme c'est le cas des écoles communales dans lesquelles sont implantées des classes spécialisées. En effet, lorsqu'un enfant a fait l'objet d'une décision d'affectation dans une classe spécialisée par la commission départementale d'éducation spéciale ou par la commission de circonscription compétente, en application de l'article 6 de la loi n° 75-534 du 30 juin 1975 d'orientation en faveur des handicapés, cette décision s'impose à la commune d'accueil comme à la commune de résidence. La circulaire du 21 février 1986 relative à l'application de l'article 23 de la loi du 22 juillet 1983 indique d'ailleurs expressément que les dépenses de fonctionnement à répartir entre communes incluent les dépenses de fonctionnement liées à l'existence dans l'école d'enseignements spécialisés au sens de la loi du 30 juin 1975 précitée. Cette circulaire explicite, d'autre part, les dispositions transitoires applicables pour 1986-1987 et le régime permanent de répartition des dépenses de fonctionnement des écoles communales qui lui succédera à partir de la rentrée 1987. Il est prévu notamment une prise en charge financière progressive par les communes de résidence, échelonnée sur trois années scolaires. La mise en oeuvre, à partir de la prochaine rentrée scolaire de ce dispositif, devra être suivie attentivement afin que si des difficultés apparaissaient, toutes les conséquences puissent en être tirées.
