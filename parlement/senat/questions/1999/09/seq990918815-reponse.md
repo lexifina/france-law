@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990918815
+
+- Question : [SEQ990918815](seq990918815.md) — Coût du bogue informatique de l'an 2000
+
+## Réponse
+
+*Économie, JO du 1999-11-11, page 3723*
+
+Réponse. - Les estimations du coût du passage à l'an 2000 sont difficiles à réaliser car les dépenses effectivement engagées couvrent à la fois les dépenses d'adaptation des systèmes et les dépenses de renouvellement de matériels ; ces dernières peuvent être obligatoires si les systèmes ne peuvent être corrigés, mais d'autres correspondent à des anticipations sur des programmes de changement de ces matériels. Par ailleurs, les travaux d'adaptation des systèmes électroniques sont parfois réalisés par des équipes internes dont le coût est difficile à évaluer. Pour l'ensemble du monde, les estimations de différentes sociétés d'études varient de 700 à 1 600 milliards de dollars : une telle fourchette montre les difficultés et les limites de toute évaluation. Pour l'Europe, la commission européenne évalue le coût de passage à l'an 2000 à 150 milliards de dollars. S'agissant de la France, les estimations de la mission pour le passage à l'an 2000, telles qu'elles figurent dans le rapport remis au Gouvernement par M. Gérard Thery, sont de l'ordre de 75 à 80 milliards de francs pour les seuls systèmes d'information et se répartissent de la façon suivante : grandes entreprises : 30 milliards de francs ; administrations et collectivités locales : 12 à 13 milliards de francs ; PME-PMI : 22 milliards de francs ; petites entreprises : 12 à 13 milliards de francs. Si l'on ajoute à cees chiffres le coût d'adaptation des systèmes techniques électroniques, on peut penser que le total des dépenses engagées pour le passage à l'an 2000 atteindra effectivement 120 à 130 milliards de francs pour les années 1997 à 1999.
