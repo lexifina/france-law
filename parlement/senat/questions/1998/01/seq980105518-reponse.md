@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980105518
+
+- Question : [SEQ980105518](seq980105518.md) — Recours aux assistantes maternelles pour le maintien de la scolarité en zones rurales
+
+## Réponse
+
+*Emploi, JO du 1998-05-21, page 1643*
+
+Réponse. - L'honorable parlementaire signale l'intérêt du recours aux assistantes maternelles agréées pour répondre aux difficultés auxquelles se heurtent les communes rurales désirant assurer la garde ou la restauration des enfants scolarisés résidant sur le territoire de la commune. Il est très important, en effet, que les communes puissent offrir, chaque fois que possible, des équipements et services de qualité, condition essentielle à la vie et au devenir des familles rurales. Ces services, tout en permettant de lutter contre la désertification des territoires, créent du lien social et des emplois. C'est pourquoi, dans le cadre des contrats enfance développés par les caisses d'allocations familiales pour favoriser l'accueil des enfants de moins de six ans, des efforts financiers spécifiques ont été consentis pour les communes de moins de 5 000 habitants. Par ailleurs, les réflexions signalées par l'honorable parlementaire en vue d'organiser, grâce au recours d'assistantes maternelles agréées, un service d'accueil à leur domicile assurant la garde et la restauration des enfants scolarisés en classes élémentaires paraissent concourir aux mêmes objectifs. La réglementation actuelle relative aux assistantes maternelles agréées permet tout à fait d'organiser ce type d'actions. Les assistantes maternelles employées par les collectivités locales et leurs établissements publics ont le statut d'agents non titulaires de ces collectivités et, à ce titre, se voient appliquer les dispositions du décret no 94-909 du 14 octobre 1994. Il ne paraît donc pas nécessaire de modifier la loi du 22 juillet 1983 relative à la répartition des compétences entre les communes, les départements, les régions et l'Etat.
