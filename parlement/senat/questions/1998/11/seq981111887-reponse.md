@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981111887
+
+- Question : [SEQ981111887](seq981111887.md) — Indemnisation des préjudices subis par les Français ayant résidé en Centrafrique
+
+## Réponse
+
+*Affaires étrangères, JO du 1999-01-21, page 175*
+
+Réponse. - L'honorable parlementaire a bien voulu appeler l'attention du ministre des affaires étrangères sur la situation de nos compatriotes ayant perdu leurs biens professionnels ou privés à la suite des événements qui se sont produits en République centrafricaine en mai 1996. Nos ressortissants concernés ont depuis cette période la possibilité de mentionner les préjudices immobiliers subis, au moyen d'une " déclaration de pertes ". Ces déclarations doivent être transmises au service des Français à l'étranger (bureau des biens et intérêts français à l'étranger) qui les enregistre et évalue le montant et la nature du préjudice subi par l'ensemble de nos ressortissants. A ce jour, le nombre total de déclarations de pertes transmises au service compétent ne dépasse pas une trentaine pour environ 1 500 compatriotes rapatriés. Il semble que nombre de nos ressortissants ont repris leur activité professionnelle en RCA. De ce fait, une estimation fine des pertes subies n'a pas pu être effectuée. En tout état de cause, les services compétents de ce ministère demeurent à la disposition de nos compatriotes concernés pour toute information complémentaire concernant la transmission et l'enregistrement des déclarations de pertes. A ce stade, compte tenu du faible nombre de déclarations enregistrées et de la situation économique précaire qui prévaut en République centrafricaine, une intervention de ce ministère auprès des autorités locales n'apparaît pas envisageable. Cependant, ce dossier continue de faire l'objet d'un suivi attentif afin d'être examiné, avec toute l'attention qu'il requiert, lorsque les conditions seront plus favorables.
