@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021003648
+
+- Question : [SEQ021003648](seq021003648.md) — Conditions de travail des apprentis boulangers
+
+## Réponse
+
+*Affaires sociales, JO du 2003-06-12, page 1886*
+
+L'honorable parlementaire a bien voulu attirer l'attention de M. le ministre des affaires sociales, du travail et de la solidarité sur les conditions de travail des apprentis boulangers et plus particulièrement sur le travail de nuit des jeunes qui participent aux différentes phases de la fabrication du pain. Il est rappelé que l'âge d'entrée en apprentissage est de seize ans en principe, pouvant être ramené à quinze ans au moins lorsque le jeune a terminé sa scolarité de premier cycle du secondaire. Par ailleurs, l'article R. 117 bis-1 du code du travail indique que le travail des apprentis boulangers de l'un et l'autre sexe âgés de plus de seize ans et de moins de dix-huit ans peut être autorisé avant 6 heures et au plus tôt à partir de 4 heures pour leur permettre de participer à un cycle complet de fabrication du pain. Cet article qui autorise le travail de nuit à partir de 4 heures du matin pour les jeunes apprentis boulangers de plus de seize ans est en conformité avec la directive européenne du 22 juin 1994 relative à la protection des jeunes au travail qui prévoit une telle possibilité. Dans le cas donc très particulier des apprentis de quinze ans, aucune dérogation permettant de travailler avant 6 heures n'est prévue, tant par la législation nationale que par la directive européenne. Cette obligation est, en effet, expressément prévue par l'article 9 de la directive européenne du 22 juin 1994 relative à la protection des jeunes au travail qui indique que les Etats-membres prennent les mesures nécessaires pour interdire le travail des enfants entre vingt heures et six heures. Cette interdiction s'avère nécessaire pour assurer la santé et la sécurité au travail des jeunes de moins de seize ans.
