@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021003291
+
+- Question : [SEQ021003291](seq021003291.md) — Développement du transport maritime à courte distance
+
+## Réponse
+
+*Transports, JO du 2003-02-06, page 485*
+
+Le dernier conseil informel des ministres des transports de l'Union européenne relatif au développement du transport maritime à courte distance (TMCD), s'est tenu le 1er juin dernier à Gijon. Le Conseil à confirmé la nécessité d'une coopération à un niveau national et régional concernant le développement de projets spécifiques. Dans ce cadre, la démarche des trois Etats a été étendue au Portugal et à l'Espagne. Par la suite, les administrations maritimes économiques des cinq pays méditerranéens de l'Union européenne se sont réunies le 11 octobre 2002 à Rome pour fixer le cadre de la reprise des travaux dans le cadre élargi. Enfin, lors des rencontres bilatérales du ministre de l'équipement, des transports, du logement, du tourisme et de la mer, avec ses homologues italien le 7 novembre 2002, et espagnol, le 26 novembre 2002, ces axes d'action ont été confirmés. Parmi les questions susceptibles d'être retenues figurent en particulier le développement de partenariats entre des opérateurs multimodaux mer, rail, route, pouvant comprendre aussi des sociétés d'autoroutes, l'établissement de lignes d'intérêt général, dans l'optique de favoriser le franchissement des massifs montagneux en désengorgeant les réseaux routiers correspondant, lignes pouvant taire l'objet d'appel d'offres européen sur des critères de fréquence, de capacité et de prix la facilitation des procédures administratives la révision des orientations communautaires en matière d'aides au transport maritime et de manière générale, la définition de régimes d'aides complémentaires. Ces initiatives ne sont bien sûr pas exclusives du développement de relations bilatérales relatives au développement du cabotage maritime avec nos partenaires proches que sont l'Espagne et l'Italie.
