@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961219739
+
+- Question : [SEQ961219739](seq961219739.md) — Non-respect des droits de l'homme en Turquie
+
+## Réponse
+
+*Affaires étrangères, JO du 1997-02-20, page 518*
+
+Réponse. - L'honorable parlementaire a bien voulu appeler l'attention du Premier ministre sur la situation des droits de l'homme en Turquie, dans la perspective de la prochaine réunion de la commission des droits de l'homme des Nations unies. Traditionnellement attachée au respect de la personne humaine, la France n'a jamais manqué de rappeler aux autorités turques la nécessité d'améliorer la situation des droits de l'homme en approfondissant le processus de démocratisation entamé, notamment, en 1995. Le ministre des affaires étrangères a de nouveau insisté sur ce point auprès de Mme Ciller, vice-premier ministre, ministre des affaires étrangères de la République de Turquie, lors de leur rencontre à Rome, le 29 janvier 1997. A cette occasion, Mme Ciller a donné l'assurance de son engagement personnel à faire aboutir prochainement deux projets de réformes : l'une en matière de réduction de la durée de la garde à vue et l'autre en matière de garantie de la liberté d'expression. La France ne peut qu'encourager une mise en oeuvre rapide et un approfondissement de ces réformes. Bien que la situation des droits de l'homme en Turquie ne figure pas expressément à l'ordre du jour de la prochaine session de la commission des droits de l'homme des Nations unies, le sujet y sera vraisemblablement évoqué par des Etats membres comme par des organisations non gouvernementales. Il fera l'objet d'une concertation étroite avec nos partenaires de l'Union européenne car les décisions dans cette enceinte sont désormais prises à quinze. D'une manière générale, nous appelons la Turquie à coopérer avec les mécanismes de la commission en acceptant, en particulier, les visites de rapporteurs thématiques qui souhaiteraient se rendre sur place.
