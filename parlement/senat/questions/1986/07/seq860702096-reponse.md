@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860702096
+
+- Question : [SEQ860702096](seq860702096.md) — Surveillance des transformateurs au pyralène
+
+## Réponse
+
+*Industrie, JO du 1986-10-09, page 1425*
+
+Réponse. -Le décret n° 86-188 du 6 février 1986 soumet les transformateurs électriques isolés au pyralène à la réglementation des installations classées. Par ailleurs, une directive européenne adoptée le 1er octobre 1985 interdit la mise sur le marché de nouveaux matériels électriques contenant des P.C.B. Le contrôle des matériels contenant du pyralène ne devra donc porter que sur les matériels existants jusqu'à la fin de leur durée de vie. A cet effet, et pour définir les règles techniques auxquelles devront être conformes, dans un délai de deux ans, ces matériels, des instructions ont été adressées le 11 mars 1986 aux commissaires de la République. Ces dispositions portent notamment sur les dispositifs de protection de ces matériels et sur les moyens de confinement des fuites éventuelles. Pour ce qui concerne les matériels de substitution, il convient de noter que le pyralène avait été choisi comme isolant en raison de ses excellentes propriétés de résistance au feu. De nombreux produits sont actuellement étudiés. En France, Electricité de France, en collaboration avec des industriels et des laboratoires spécialisés, testent plusieurs types de matériels en attachant un intérêt tout particulier au comportement au feu des matériaux utilisés. En fonction des résultats des études conduites tant en France qu'à l'étranger, le Gouvernement prendra les mesures appropriées pour que le remplacement des matériels isolés au pyralène puisse être effectué en tenant compte des capacités industrielles existantes et des priorités qui pourraient apparaître pour la santé des personnes et la protection de l'environnement.
