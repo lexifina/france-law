@@ -1,6 +1,6 @@
 # Article Annexe
 
-Département des Alpes-de-Haute-Provence
+Département de l'Ain 1° Lac de Divonne-les-Bains ; 2° Lac de Nantua. Département des Alpes-de-Haute-Provence
 
 1° Lacs de retenue de Castillon, Chaudanne, Sainte-Croix, Quinson, Gréoux-les-Bains, Serre-Ponçon, Espinasse, Saulce, Salignac, l'Escale ;
 
@@ -14,7 +14,9 @@ Département des Alpes-Maritimes
 
 Tous les lacs de montagne situés à une altitude supérieure à 1.800 mètres.
 
-Département de la Creuse.
+Département de l'Ardèche.
+
+Lac d'Issarlès. Département de l'Aude. Barrage du lampy. Département de la Creuse.
 
 Lac de retenue de Vassivière. Département du Doubs.
 
@@ -50,9 +52,9 @@ Département de la Haute-Marne
 
 Lac du Der Chantecoq.
 
-Département de la Meurthe-et-Moselle
+Département de Meurthe-et-Moselle
 
-Lacs de la Madine et de Pierre-Percée.
+Lac de Pierre-Percée.
 
 Département de l'Orne
 
