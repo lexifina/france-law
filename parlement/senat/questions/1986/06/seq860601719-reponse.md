@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860601719
+
+- Question : [SEQ860601719](seq860601719.md) — Recouvrement des pensions alimentaires
+
+## Réponse
+
+*Justice, JO du 1986-08-28, page 1232*
+
+Réponse. -Selon les dispositions de l'article 1er du décret n° 73-216 du 1er mars 1973, le créancier " peut charger tout huissier de justice du lieu de sa résidence de notifier la demande de paiement direct au tiers visé à l'article 1er de la loi n° 73-5 du 2 janvier 1973 ". Le législateur a voulu, en effet, faciliter l'action du créancier et a donné, de façon dérogatoire, compétence à l'huissier le plus proche de son domicile. Toutefois, et sous réserve de l'appréciation des tribunaux, il apparaît que l'article 1er du décret cité n'attribue pas compétence exclusive à l'officier ministériel de la résidence du créancier. Aussi, dans l'hypothèse où ce dernier est dans l'impossibilité de s'adresser à un huissier, il convient alors de se rapporter aux règles de droit commun. Il résulte de l'article 1er de l'ordonnance du 2 novembre 1945 relative au statut des huissiers de justice et de l'article 5 du décret du 29 février 1956 portant règlement d'administration publique pour l'application de ladite ordonnance que, s'agissant des actes de notification, les huissiers de justice compétents sont ceux qui ont leur résidence dans le ressort du tribunal d'instance où réside la personne qui doit recevoir la notification. Il semble donc que le créancier d'aliments a la possibilité de confier ses intérêts à un huissier de justice exerçant soit dans la circonscription d'instance de sa propre résidence, soit, par application du droit commun, dans le ressort d'instance où le destinataire a le siège de son exploitation. Les textes permettant de résoudre la difficulté exposée par l'auteur de la question, une modification de ceux-ci ne s'impose donc pas.
