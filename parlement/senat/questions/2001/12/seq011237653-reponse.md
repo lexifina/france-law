@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011237653
+
+- Question : [SEQ011237653](seq011237653.md) — Création d'une section d'éducation physique et sportive dans une école normale supérieure
+
+## Réponse
+
+*Éducation, JO du 2002-03-21, page 857*
+
+La demande de formation dans le domaine des activités physiques et sportives s'est accrue et s'est traduite par la création à l'université d'une filière de formation et de recherche à part entière, dans le domaine des sciences et techniques des activités physiques et sportives (STAPS). Les STAPS sont un champ à la frontière de nombreuses disciplines où une recherche originale de qualité a vocation à se développer. Ce développement exige le renforcement du vivier des enseignants-chercheurs. Parallèlement, l'ENS de Cachan, qui a su faire le lien entre la recherche fondamentale et la recherche technique dans un grand nombre de domaines, souhaite diversifier ses filières et participer à la formation de futurs enseignants-chercheurs de ce domaine ; c'est pourquoi j'ai décidé de créer une section d'éducation physique et sportive (EPS) au sein de l'école. Cette section sera localisée dans l'antenne de Bretagne de l'école située à Ker Lann près de Rennes. Elle débutera dès la rentrée prochaine 2002-2003 avec dix élèves recrutés parmi les étudiants de DEUG. A terme, une seconde voie sera mise en place pour recruter des étudiants issus de classes préparatoires construites sur le modèle des classes mixtes économie-gestion. Cette filière permettra aussi de renforcer le partenariat ENS-universités. En effet, les cours seront organisés dans le cadre d'un magistère construit en coopération entre l'ENS Cachan et l'université et d'étudiants normaliens à part égale. M. Philippe Graillot, inspecteur général de l'éducation nationale, est chargé d'accompagner la préparation et la mise en oeuvre de ce dispositif.
