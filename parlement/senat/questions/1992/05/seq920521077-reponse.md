@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920521077
+
+- Question : [SEQ920521077](seq920521077.md) — Candidatures des agents en fonctions à l'étranger aux postes de professeur et de maître de conférences des universités
+
+## Réponse
+
+*Éducation, JO du 1992-06-25, page 1435*
+
+Réponse. - Des dispositions appropriées à la situation des résidents à l'étranger candidats à l'inscription sur une liste de qualification aux fonctions de professeur des universités ou de maître de conférences ont été prises. C'est ainsi qu'une note du 16 mars 1992 leur a été adressée par les services réceptionnaires de leur dossier pour leur recommander d'indiquer le nom et l'adresse d'un correspondant sur le territoire métropolitain français susceptible de se charger de la transmission de leurs travaux au rapporteur désigné ; c'est à ce correspondant qu'ont été indiquées les coordonnées du rapporteur. Par ailleurs, les arrêtés du 30 janvier 1992 concernant l'ensemble des candidats à l'inscription sur une liste de qualification aux fonctions de maître de conférences devaient nécessairement être publiés au Journal officiel de la République française ; cependant, tous les textes publiés au Journal officiel ne sont pas nécessairement repris dans le Bulletin officieldu ministère de l'éducation nationale. Compte tenu de la nécessité de pourvoir de nombreux emplois à la prochaine rentrée universitaire afin d'assurer la formation des étudiants en nombre croissant, il n'est pas possible d'envisager de rouvrir les délais de candidature fixés par arrêté du 30 janvier 1992. Les arrêtés d'ouverture des concours et les listes d'emplois offert au recrutement sont publiés au Bulletin officiel n° 19 du 7 mai 1992 pour les maîtres de conférences. Ils sont publiés au Journal officiel pour les emplois de professeurs des universités.
