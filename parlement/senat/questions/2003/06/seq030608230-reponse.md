@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030608230
+
+- Question : [SEQ030608230](seq030608230.md) — Mesures spécifiques en faveur des débitants de tabac meusiens et lorrains
+
+## Réponse
+
+*Budget, JO du 2003-10-02, page 2969*
+
+Le Gouvernement est conscient des préoccupations des débitants installés dans les départements frontaliers, en particulier dans le département des Ardennes, concernant les conséquences des augmentations des prix du tabac. Ces hausses de prix se justifient pleinement dans le cadre de l'action qu'il entend mener pour lutter contre le tabagisme, notamment des jeunes. Les différences de taxation qui existent entre Etats membres de la Communauté européenne peuvent effectivement développer les achats de tabac dans les pays où la fiscalité est moins élevée. Conformément au principe de la libre circulation des personnes et des marchandises, au sein de la Communauté européenne, ces achats sont légaux dès lors qu'ils sont réalisés par un particulier pour sa consommation personnelle. Seul un rapprochement fiscal, qui ne peut être mis en oeuvre que dans le cadre communautaire, remédierait à ce problème. La directive 2002/10/CE du 12 février 2002, qui a modifié la structure et les taux des droits d'accises, constitue une première étape vers ce rapprochement. Par ailleurs, la convention de l'Organisation mondiale de la santé concernant la lutte contre le tabagisme reprend ce principe d'augmentation des prix comme frein à la consommation de tabac. Le Gouvernement prévoit également d'engager des démarches auprès de la Commission européenne et des autorités politiques des Etats membres limitrophes afin de permettre l'harmonisation fiscale des tabacs. Et conformément aux conclusions d'une table ronde consacrée au réseau des débitants, de nouvelles missions de service public pourront leur être confiées afin de conforter leur qualité de préposé de l'administration.
