@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980407539
+
+- Question : [SEQ980407539](seq980407539.md) — Sensibilisation des présidents d'université aux procédures sécuritaires
+
+## Réponse
+
+*Éducation, JO du 1998-09-03, page 2832*
+
+Réponse. - Les présidents d'université doivent veiller à l'application des dispositions relatives à la prévention des risques professionnels et à la sécurité. Cette responsabilité importante du chef de service est d'ailleurs rappelée par le décret nº 82-453 du 28 mai 1982 modifié par le décret nº 95-680 du 9 mai 1995, relatif à l'hygiène et à la sécurité du travail ainsi qu'à la prévention médicale dans la fonction publique. L'application des décrets précités et du décret nº 95-482 du 24 avril 1995 relatif aux comités d'hygiène et de sécurité dans les établissements publics d'enseignement supérieur a conduit les présidents d'université à mettre en place ou à développer des structures de prévention internes à leurs établissements. Le dispositif de prévention ainsi mis en place dans les établissements a pour mission, notamment, de veiller à la formation de tous les acteurs de la sécurité et au respect des procédures sécuritaires dans le cadre d'aménagements ou de modifications des locaux. En ce qui concerne plus particulièrement les actions nationales de sensibilisation aux problèmes de sécurité contre l'incendie dans les universités, des journées d'information ont été organisées conjointement par l'observatoire national de la sécurité des établissements scolaires et d'enseignement supérieur et la direction générale des enseignements supérieurs. Ces journées d'information qui se sont tenues les 29 octobre et 19 novembre 1997 et le 28 janvier 1998 à l'Institut national d'études de la sécurité civile, étaient destinées aux présidents et secrétaires généraux des universités, aux ingénieurs d'hygiène et de sécurité et aux responsables techniques de l'immobilier.
