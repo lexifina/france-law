@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960314316
+
+- Question : [SEQ960314316](seq960314316.md) — Filière animation de la fonction publique territoriale
+
+## Réponse
+
+*Fonction publique, JO du 1996-04-25, page 1020*
+
+Réponse. - Le Conseil supérieur de la fonction publique territoriale s'est prononcé le 10 février 1995 en faveur de la création d'une filière animation au sein de la fonction publique territoriale. La diversité des personnels, dont beaucoup sont vacataires ou oeuvrent dans le secteur associatif, et celle des activités pouvant être regroupées sous l'appellation " animation " posent cependant des questions auxquelles il convient de répondre avant de proposer une construction statutaire cohérente pour être opérationnelle sur le terrain. L'étude préalable des conditions dans lesquelles s'est développée l'animation dans les collectivités territoriales appelle en conséquence une réflexion approfondie indispensable pour définir cet ensemble statutaire tant dans les missions que dans les modalités d'accès aux carrières et celles de leur déroulement. Cette réflexion est en cours de développement. Elle devrait conduire prochainement à des propositions concrètes, le principe d'une reconnaissance statutaire spécifique de ces missions ayant d'ores et déjà été admis par le Gouvernement, à l'occasion des orientations retenues dans le cadre du plan de relance pour la ville. Il convient cependant de rappeler que les cadres d'emplois existants, dont les définitions des missions sont suffisamment souples pour recouvrir une large palette de métiers et spécialités, ont déjà vocation à accueillir la grande majorité des personnels et que l'exercice des fonctions d'animation peut être conjugué avec la détention d'un statut de fonctionnaire territorial des filières sprotive, culturelle ou médico-sociale, par exemple.
