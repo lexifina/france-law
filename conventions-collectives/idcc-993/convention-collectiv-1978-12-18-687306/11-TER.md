@@ -10,13 +10,11 @@ Les frais de transport et d'hébergement seront pris en charge par l'organisatio
 
 - un billet aller-retour deuxième classe du tarif S.N.C.F. en vigueur ;
 
-- 150 F par nuit d'hôtel ;
+- 250 F par nuit d'hôtel ;
 
-- 50 F par repas.
+- 100 F par repas.
 
 Cette base forfaitaire sera révisée au 1er février de chaque année par référence à l'indice de l'I.N.S.E.E. La première révision aura lieu le 1er février 1986.
-
-Durant une période transitoire de deux ans à dater du 1er février 1985, l'indemnisation de ces frais ne pourra excéder une base fixée forfaitairement à 1 000 F pour chaque organisation syndicale.
 
 Les salariés concernés seront dispensés du préavis ci-dessus, en cas d'urgence dûment justifiée.
 
