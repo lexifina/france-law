@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000524837
+
+- Question : [SEQ000524837](seq000524837.md) — Vote par correspondance aux caisses de mutualité agricole
+
+## Réponse
+
+*Agriculture, JO du 2000-07-13, page 2488*
+
+Réponse. - L'article 1018 du code rural dispose que l'électeur empêché de prendre part au scrutin en vue de renouveler les conseils d'administration des caisses de mutualité sociale agricole peut voter par correspondance dans les conditions et limites fixées par décret. Ces conditions sont précisées par l'article 57 du décret nº 84-477 du 18 juin 1984 modifié : elles concernent essentiellement les personnes se trouvant dans les situations énumérées par l'article L. 71 du code électoral qui sont dans l'impossibilité de se rendre à l'urne. Le maire de la commune de résidence de l'électeur ayant l'intention de voter par correspondance doit vérifier que l'intéressé qui lui en fait la demande remplit les conditions réglementaires avant de lui adresser les enveloppes électorales. Il n'en demeure pas moins que ces conditions et limites, qui sont identiques à celles s'appliquant aux élections au suffrage universel, ne sont pas de nature à accroître le taux de participation. Mais la complexité du système électoral de la mutualité sociale agricole ainsi que l'évolution démographiques des ressortissants des régimes de protection sociale agricole ont justifié la mise à l'étude d'une réforme des dispositions législatives en vigueur afin de moderniser ce mode de scrutin avant l'échéance de 2004. A cet effet, le projet de loi de modernisation sociale qui sera prochainement débattu au Parlement comporte notamment une modification de l'article 1018 du code rural en introduisant un mécanisme souhaité par toutes les organisations syndicales et professionnelles : le vote par correspondance sans condition d'empêchement. Si cette disposition est adoptée, l'électeur choisira donc librement soit de voter par correspondance, soit de voter à l'urne.
