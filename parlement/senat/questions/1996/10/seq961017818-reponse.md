@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961017818
+
+- Question : [SEQ961017818](seq961017818.md) — Carburant moins polluant
+
+## Réponse
+
+*Industrie, JO du 1996-12-12, page 3332*
+
+Réponse. - Dans un souci commercial, pour se démarquer de la concurrence et gagner (ou éviter de perdre) des parts de marché, la plupart des distributeurs pétroliers français, comme leurs confrères européens, ont mis sur le marché des carburants additivés, essences ou gazoles, de meilleure qualité et réduisant la pollution. Il existe en France une procédure bien définie concernant l'incorporation d'additifs dans les carburants en vue de s'assurer de leur absence de toxicité, de leur innocuité vis-à-vis du moteur et de leur compatibilité avec les spécifications techniques européennes des produits pétroliers, sur la base d'essais effectués en laboratoire. L'agrément correspondant est délivré par la direction des hydrocarbures après examen du dossier présenté. Par ailleurs, l'Union technique de l'automobile et du cycle (UTAC), organisme indépendant, a défini, en liaison avec les pétroliers et les constructeurs automobiles, un cahier des charges sur lequel elle s'appuie pour délivrer aux distributeurs qui en font la demande, un label pour les carburants satisfaisant à des exigences de qualité supérieures à celles imposées par les spécifications européennes pour certaines propriétés et répondant à des tests de performance des moteurs. Le diesel Evolution, seul gazole labellisé par l'UTAC à ce jour, entre dans ce double cadre, les tests effectués en laboratoire ayant confirmé les performances annoncées par la société Elf Antar France. Au-delà de cet agrément, il n'appartient pas aux pouvoirs publics de favoriser le carburant d'une compagnie pétrolière, dans la mesure où les carburants concurrents respectent les spécifications prévues par la réglementation européenne.
