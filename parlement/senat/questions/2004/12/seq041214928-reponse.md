@@ -1,0 +1,9 @@
+# Réponse à la question SEQ041214928
+
+- Question : [SEQ041214928](seq041214928.md) — Possibilité pour un avocat d'agir comme représentant fiscal d'un client
+
+## Réponse
+
+*Justice, JO du 2005-02-03, page 322*
+
+Le garde des sceaux, ministre de la justice, fait connaître à l'honorable parlementaire que l'article 6-3 du règlement intérieur unifié (RIU) des barreaux de France dispose que l'avocat, indépendamment de ses missions traditionnelles de conseil, de représentation et d'assistance en justice, peut recevoir de ses clients un mandat. Il peut notamment les représenter auprès de l'administration fiscale. Pour autant, l'avocat qui se voit confier un mandat non judiciaire reste soumis aux règles essentielles de sa profession édictées par la loi n° 71-1130 du 31 décembre 1971 et par le décret n° 91-1197 du 27 novembre 1991, notamment celles relatives aux incompatibilités. L'article 111 du décret précité dispose que : " La profession d'avocat est incompatible : a) Avec toutes les activités de caractère commercial, qu'elles soient exercées directement ou par personne interposée (...) ". En matière d'imposition sur les plus-values réalisées par les personnes qui ne sont pas fiscalement domiciliées en France, le représentant fiscal accrédité auprès de l'administration conformément à l'article 244 bis A du code général des impôts est considéré comme garant du paiement de l'impôt (cf. art. 171 quater annexe II du code général des impôts). Cette fonction, souvent exercée par des sociétés de cautionnement et de garantie, paraît assimilable à l'activité d'agent d'affaires. Même exercée à titre accessoire, elle est, par son caractère commercial, incompatible avec la profession d'avocat. Elle serait en outre contraire au principe d'indépendance qui résulte du serment de l'avocat (cf. article 3 de la loi n° 71-1130 du 31 décembre 1971). Un avocat ne peut donc être représentant fiscal au sens de l'article 244 bis A du code général des impôts.
