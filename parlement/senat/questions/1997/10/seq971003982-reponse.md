@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971003982
+
+- Question : [SEQ971003982](seq971003982.md) — Définition du statut des services locaux du câble
+
+## Réponse
+
+*Culture, JO du 1998-03-19, page 896*
+
+Réponse. - C'est dans le cadre de l'article 34 de la loi du 30 septembre 1986 modifiée que de nombreuses communes, avec l'appui des câblo-opérateurs, ont pu développer des services de télévision locale. En effet, cet article dispose que l'autorisation d'exploitation délivrée par le Conseil supérieur de l'audiovisuel au câblo-opérateur peut comporter des obligations relatives notamment à " la distribution d'un nombre minimal de programmes propres " ou à " l'affectation d'un canal à temps complet ou partagé à la commune ou au groupement de communes intéressés, destiné aux informations sur la vie communale et, le cas échéant, intercommunale ". Ces dispositions avaient pour ambition de permettre l'éclosion d'une production locale ainsi que la participation de la télévision à la vie démocratique, sociale, économique et culturelle communale et intercommunale. Ces services locaux du câble sont soumis actuellement au droit commun du régime conventionnel. Le projet de loi sur la liberté de communication, que le Gouvernement déposera devant le Parlement au printemps prochain, prévoit de supprimer pour l'ensemble des services audiovisuels, à l'exception de ceux diffusés par voie hertzienne terrestre, le régime du conventionnement et de le remplacer par un régime déclaratif. C'est ce régime qui s'appliquera aux services locaux du câble, dont les obligations seront désormais définies dans la loi et les règlements. Par ailleurs, les services locaux du câble feront partie intégrante de la réflexion que le Gouvernement a décidé d'engager prochainement sur les enjeux et les conditions économiques et juridiques du développement des télévisions régionales et locales.
