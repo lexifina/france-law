@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881102131
+
+- Question : [SEQ881102131](seq881102131.md) — Développement du nombre d'emplois tertiaires en Ile-de-France
+
+## Réponse
+
+*Aménagement du territoire, JO du 1989-11-23, page 1938*
+
+Réponse. - L'honorable parlementaire a bien voulu attirer l'attention sur les conséquences du développement des emplois de bureaux en région parisienne, comme le mettent en évidence les derniers rapports du comité de décentralisation. Ainsi, alors que le poids de la population de l'Ile-de-France dans la population nationale n'est que de 18 p 100, la part des emplois salariés y représente 24 p. 100 et y atteint 27 p. 100 pour les effectifs du secteur tertiaire. A l'heure actuelle, on compte près de trois emplois dans le secteur tertiaire contre un emploi dans l'industrie alors que le ratio était proche de 1,8 en 1970. Le Premier ministre s'est personnellement saisi de ce " grand chantier " qu'est l'aménagement futur de cette région. La démarche d'ores et déjà engagée est guidée par trois objectifs : améliorer la vie quotidienne des habitants, amener la région parisienne à contribuer davantage à l'aménagement équilibré et solidaire du pays, affirmer la place de Par is comme première capitale européenne. Un programme d'actions immédiates est en cours d'élaboration qui portera notamment sur l'accélération de la construction de logements et le renforcement des infrastructures de transport. Il s'accompagne d'une réflexion d'aménagement en cours, préalable à la mise en révision du schéma directeur d'Ile-de-France ainsi qu'à l'élaboration de diverses mesures institutionnelles ou fiscales visant à renforcer les solidarités. Il faut signaler enfin à l'honorable parlementaire qu'il sera veillé tout particulièrement à la cohérence des options retenues pour l'Ile-de-France avec la politique nationale d'aménagement du territoire.
