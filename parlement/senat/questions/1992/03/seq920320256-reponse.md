@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920320256
+
+- Question : [SEQ920320256](seq920320256.md) — Apprentissage artisanal
+
+## Réponse
+
+*Premier ministre, JO du 1992-07-16, page 1609*
+
+Réponse. - Depuis la loi n° 87-572 du 23 juillet 1987 portant réforme de l'apprentissage, le dispositif de formation connaît des évolutions positives se traduisant en particulier par une multiplication des formations, préparant à des diplômes de l'enseignement technologique et professionnel, supérieures aux niveaux qui, jusqu'à cette date, étaient préparés. L'apprentissage dans le secteur des métiers a connu toutefois ces dernières années, au niveau quantitatif, une légère régression, mais il n'empêche qu'actuellement six apprentis sur dix sont formés par des entreprises du secteur artisanal. L'érosion générale constatée au niveau des effectifs est due principalement à une baisse de la natalité dont les effets se font actuellement ressentir, mais on ne peut sérieusement parler d'une désaffection des jeunes pour ce dispositif, puisque on enregistre pour l'année 1991 une légère augmentation du flux d'entrées dans le dispositif, par rapport à 1990. Le Gouvernement souh aite que l'apprentissage prenne toute sa place au sein de l'appareil éducatif, et c'est pourquoi il a décidé un plan de relance de l'apprentissage destiné à enrayer la baisse des effectifs constatée au niveau V et a accompagné les efforts importants réalisés par les conseils régionaux et les professions. Un projet de loi, examiné par le Parlement, complète les dispositions législatives et réglementaires actuelles. Le Gouvernement a par ailleurs pris un certain nombre d'orientations visant à aider les entreprises à intensifier leurs efforts en faveur de ce dispositif. L'instauration d'un crédit d'emploi devrait contribuer à faire évoluer l'apprentissage et, particulièrement, les petites entreprises devraient trouver là l'occasion d'être davantage encouragées à ce développement.
