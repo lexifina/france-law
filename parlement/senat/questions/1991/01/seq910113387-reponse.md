@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910113387
+
+- Question : [SEQ910113387](seq910113387.md) — Reclassement des agents administratifs du ministère de l'équipement
+
+## Réponse
+
+*Équipement, JO du 1991-07-25, page 1565*
+
+Réponse. - Lors de plusieurs rencontres avec les représentants des personnels, l'administration de l'équipement, du logement, des transports et de l'espace a affirmé son intention de mettre en place un plan consistant à faire disparaître le corps des agents administratifs en les intégrant à celui des adjoints administratifs. Cette mesure prolongera l'intégration des derniers agents de bureau (catégorie D) dans le corps de catégorie C, et le début du repyramidage à l'intérieur de la catégorie C commencé depuis 1984. C'est ainsi que, depuis 1984 et d'ici à la fin de l'année 1991, le corps des agents administratifs va se trouver réduit de plus de 1 800 agents, rendant le pyramidage entre les deux nouveaux corps de plus en plus avantageux pour le corps supérieur. En effet, les adjoints administratifs sont au nombre de 15 971, tandis que les agents administratifs ne sont que 3 944 puisque depuis plusieurs années le ministère de l'équipement, du logement, des transports et de l'espace ne recrute plus à l'extérieur que des sténodactylographes et des commis. De plus, le recrutement prévu en 1991 ne porte lui aussi que sur des adjoints administratifs. Ainsi, les 1 194 recrutements prévus devraient permettre de voir 600 agents administratifs supplémentaires passer adjoints, grâce au jeu des promotions par liste d'aptitude et aux concours internes. Cet effort particulier prévu en 1991 devrait être pris en relais par l'application des conclusions proposées par le groupe de travail sur la filière administrative visant notamment à une intégration du corps des agents dans celui des adjoints, dans un délai qui ne devrait pas dépasser trois ans.
