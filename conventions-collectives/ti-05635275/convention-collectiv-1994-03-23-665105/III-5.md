@@ -44,4 +44,16 @@ III-5.4. Période transitoire
 
 Les primes de technicité acquises avant la mise en vigueur de la présente convention collective nationale, sont intégrées dans le salaire de base des salariés qui en bénéficiaient.
 
-Les salariés ayant suivi des stages de formation agréés par la C.P.N.E.F.P. avant la mise en vigueur de la présente convention collective nationale, bénéficieront de la prime de formation qualification définie ci-dessus.
+Les salariés ayant suivi des stages de formation terminés et validés au 1er juillet 1994, et pris en charge par le F.A.F. - P.L. au titre du plan prioritaire, bénéficieront d'une gratification unique égale à :
+
+1 000 F pour le suivi de deux stages de formation ;
+
+2 000 F pour le suivi de trois stages de formation ;
+
+3 000 F pour le suivi de quatre stages de formation et plus.
+
+Ces primes seront versées avant le 31 décembre 1994.
+
+Il sera tenu compte de cet effort de formation lors du reclassement du salarié dans la grille de classification.
+
+Les salariés ayant suivi au moins un stage comme défini ci-dessus en conserveront le bénéfice pour l'application de la franchise prévue par l'article 3-5-2.
