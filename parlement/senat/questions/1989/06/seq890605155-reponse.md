@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890605155
+
+- Question : [SEQ890605155](seq890605155.md) — Enseignement des langues étrangères dès l'école primaire
+
+## Réponse
+
+*Éducation, JO du 1989-08-10, page 1245*
+
+Réponse. - L'expérimentation contrôlée de l'enseignement d'une langue vivante étrangère à l'école élémentaire a fait notamment l'objet, d'une part, de la circulaire n° 89-065 du 6 mars 1989 qui a fixé les finalités et contenus de cet enseignement et les modalités de sa mise en place et, d'autre part, d'un protocole d'expérimentation engageant les parties associées. Aux termes de la circulaire précitée, la participation financière de l'Etat est destinée à couvrir les dépenses relatives à la rémunération des instituteurs et des professeurs qui assureront l'enseignement d'une langue ainsi que toutes les dépenses relatives à la formation des enseignants retenus. Pour le seul premier trimestre de l'année scolaire 1989-1990 une eveloppe budgétaire de 30 MF pour l'enseignement public et de 3,5 MF pour l'enseignement privé a été prévue. La charge financière incombant aux municipalités qui se seront associées à l'expérience se limitera donc à l'acquisition des matériels pédagogiques indispensables, conformément aux lois de décentralisation et, le cas échéant, à la rémunération des intervenants extérieurs dès lors que le nombre d'instituteurs qualifiés et de professeurs du second degré se révélera insuffisant. Toutefois cette prise en charge éventuelle, conformément au protocole d'expérimentation, devant s'effectuer sur la base du volontariat, il n'y a pas, en l'occurrence, transfert de charges. En revanche, si l'expérimentation devait être généralisée et l'enseignement d'une langue étrangère à l'école élémentaire devenir une discipline obligatoire, il importerait de reconsidérer ce problème afin de prendre une décision de principe.
