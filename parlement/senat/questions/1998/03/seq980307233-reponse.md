@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980307233
+
+- Question : [SEQ980307233](seq980307233.md) — Pourcentage du revenu mondial perçu par les personnes les plus pauvres
+
+## Réponse
+
+*Coopération, JO du 1998-04-30, page 1385*
+
+Réponse. - Le rapport mondial sur le développement humain, publié par le PNUD en 1997, a souligné, à la fois, les progrès sans précédent réalisés en matière de réduction de la pauvreté au cours du XXe siècle et la situation insupportable des 1,3 milliard d'individus dont le revenu est inférieur à un dollar par jour. Pour répondre au défi de la pauvreté, la communauté des donateurs, membres du Comité d'aide au développement (CAD) de l'OCDE, a placé la lutte contre la pauvreté, stratégie de développement, présentée dans le document " Le rôle de la coopération au développement à l'aube du XXIe siècle " et s'est fixé comme objectif de faire reculer, de moitié d'ici à 2015, la proportion des personnes vivant dans une situation d'extrême pauvreté. De même les pays européens ont fait de la lutte contre la pauvreté un des thèmes majeurs de la future convention qui liera l'Europe aux pays ACP. La France a été particulièrement présente et active dans les débats qui ont permis de retenir cette priorité et elle s'attache aujourd'hui à la traduire dans son action quotidienne pour le développement. Les orientations récemment transmises à nos représentations sur le terrain vont dans ce sens, de même que les projets et programmes financés tant sur le fonds d'aide et de coopération que par la Caisse française de développement. Il reste que, si l'action des donateurs en matière de réduction de la pauvreté est indispensable, c'est bien de la volonté et de la détermination des pays en développement eux-mêmes que dépendront en définitive les résultats dans ce domaine et l'assurance de leur permanence. La France s'emploie, pour sa part, à ce que cette problématique constitue une préoccupation prioritaire pour les pays avec lesquels elle coopère.
