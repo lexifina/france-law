@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910816724
+
+- Question : [SEQ910816724](seq910816724.md) — Statut des conseillères conjugales
+
+## Réponse
+
+*Intérieur, JO du 1992-01-16, page 138*
+
+Réponse. - Les emplois territoriaux susceptibles de se rattacher à la filière médico-sociale ont fait l'objet d'un examen attentif à l'occasion de la préparation des orientations sur les statuts particuliers des cadres d'emplois correspondants. C'est ainsi que vingt-cinq organisations professionnelles ont été reçues en début d'année, tandis que les négociations avec les représentants des élus et des personnels sont en cours sur la base de notes d'orientation diffusées le 18 octobre dernier. Ces projets traitent dans le domaine social, et entre autres emplois, la situation des assistantes sociales, des éducateurs et des conseillères en économie sociale et familiale titulaires d'un diplôme d'Etat, mais n'ont pu prendre en compte les emplois, créés par certaines collectivités, de conseillères conjugales et familiales car il n'a pas été recensé de diplôme homologué attestant le niveau de formation de ces personnels. La loi du 26 janvier 1984 sur la fonction publique territoriale prévoit, en effet, que les recrutements externes sont réservés aux candidats justifiant de certains diplômes ou de l'accomplissement de certaines études. Il ne peut être dérogé à cette règle, s'agissant notamment des recrutements de personnels au niveau des catégories A ou B. Cette condition ne paraissant pas remplie à ce jour, la création d'un cadre d'emplois spécifique de conseillères conjugales et familiales n'a pu être retenue. Toutefois, les membres du cadre d'emplois des assistants socio-éducatifs territoriaux prochainement créé au sein de la filière médico-sociale pourront apporter leur concours aux centres de planification ou d'éducation familiale dans les conditions prévues par le décret du 22 septembre 1980 relatif à l'information, à l'éducation et à la planification familiales.
