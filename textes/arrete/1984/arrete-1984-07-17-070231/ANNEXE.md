@@ -20,7 +20,7 @@
 
 : Somme : 161000 : |
 
-: Seine-Maritime : 186000 : |
+: Seine-Maritime : 161000 : |
 
 : Eure : 43000 : |
 

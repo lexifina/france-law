@@ -28,7 +28,7 @@
 
 : Pays-de-la-Loire : 536900 : |
 
-: Nord-Pas-de-Calais : 397689 : |
+: Nord-Pas-de-Calais : 397680 : |
 
 : Picardie : 8054 : |
 
