@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910113290
+
+- Question : [SEQ910113290](seq910113290.md) — Crise de la production porcine en Poitou-Charentes
+
+## Réponse
+
+*Agriculture, JO du 1991-08-08, page 1689*
+
+Réponse. - Dans le cadre des négociations liées à l'unification allemande, la commission a effectivement proposé un certain nombre de mesures transitoires visant à permettre les adaptations nécessaires suite à l'intégration des territoires de l'ex-R.D.A. Dans ce cadre, la France est intervenue auprès de la Communauté économique européenne afin de maintenir la clause obligeant une exploitation à produire au moins 35 p. 100 de l'alimentation des porcs pour pouvoir bénéficier d'aides à l'investissement. Le maintien de cette règle, la contrainte de restructuration à capacité de production constante, la période limitée d'application de ces mesures transitoires devraient être de nature à en limiter la portée. De plus, il convient d'indiquer qu'à la demande de la France il a été décidé par la Communauté économique européenne de favoriser l'exportation de 100 000 tonnes de viandes produites dans l'ex-R.D.A. vers l'U.R.S.S. afin de ne pas surcharger le marché communautaire.Ainsi, les évolutions des prix du porc dans les derniers mois témoignent d'un marché en équilibre même si des divergences se manifestent entre les pays certains mois. Des inquiétudes excessives ne paraissent pas justifiées pour l'instant dans ce secteur. Concernant Stabiporc, le ministère de l'agriculture et de la forêt est très favorable à la reconduite de ce dispositif qui a fait la preuve de son efficacité pour la régulation de la trésorerie des éleveurs lors des crises. Les conditions du renouvellement des conventions sont actuellement en cours de négociation avec l'ensemble des partenaires et le ministère de l'agriculture et de la forêt veillera à ce que ce dispositif puisse être opérationnel dans les meilleurs délais.
