@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861103534
+
+- Question : [SEQ861103534](seq861103534.md) — Marché français des poulains lourds
+
+## Réponse
+
+*Agriculture, JO du 1987-02-05, page 164*
+
+Réponse. -Le commerce international du cheval de boucherie et de la viande de cheval est soumis au respect d'un accord international du G.A.T.T. (General Agreement on Tariffs and Trade) qui prévoit la liberté des échanges entre les Etats signataires dont font partie les principaux pays exportateurs de viande et d'animaux vivants, ce qui exclut toute mesure de limitation des importations. Pour faire face au déficit de notre commerce extérieur en viande chevaline et préserver le patrimoine génétique au monde représenté par nos neuf races lourdes reconnues qui, à de rares exceptions près, n'ont pour seul débouché que la boucherie, depuis 1979, les pouvoirs publics ont mis en place un plan de relance de la production chevaline, venant conforter les actions classiques dispensées par le service des haras. Ce plan sera poursuivi. Pour répondre aux difficultés rencontrées par les producteurs de chevaux lourds, compte tenu de la réglementation du commerce international dela viande chevaline, il apparaît que les solutions sont à rechercher dans le cadre d'accords interprofessionnels conclus au sein de l'Association nationale interprofessionnelle de la viande chevaline (A.N.I.V.C.). Cette recherche est actuellement en cours au sein de cette interprofession. Concernant les exportations de chevaux, facilitées par les encouragements à l'organisation économique des producteurs, pour une production annuelle estimée à 12 000 poulains mâles issus des races lourdes, les statistiques du commerce extérieur au 30 octobre 1986 font apparaître, pour les dix premiers mois de l'année, des exportations de 5 351 poulains, tous dirigés vers l'Italie.
