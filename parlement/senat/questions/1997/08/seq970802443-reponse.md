@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970802443
+
+- Question : [SEQ970802443](seq970802443.md) — Situation des médecins, infirmières et assistantes sociales scolaires en milieu rural
+
+## Réponse
+
+*Éducation, JO du 1997-11-13, page 3151*
+
+Réponse. - Depuis 1995, un effort particulier dans le domaine des frais de déplacement s'est traduit notamment par l'inscription au budget d'une mesure nouvelle de 22 MF et l'ouverture d'une ligne spécifique permettant un suivi de leur gestion, maintenue en 1996 et 1997. Inscrites sur un chapitre à crédits limitatifs, les dépenses de déplacement ne peuvent dépasser les possibilités ouvertes sur le chapitre et la ligne correspondants. Ainsi une annulation de crédits budgétaires intervenue en fin de gestion 1996, et en 1997 (8,5 %), n'a pas permis de couvrir en totalité la dotation initiale des services académiques. Toutefois, compte tenu du caractère prioritaire de la prise en charge des frais de déplacement, l'académie de Besançon tout en maintenant globalement en 1996 les dépenses de déplacement a consacré au seul titre des personnels de santé scolaire une part en augmentation de 13,22 % par rapport à celle de 1995. Par ailleurs, la possibilité offerte par le ministère du budget de déléguer dès le début de l'exercice 1997 une provision de 80 % de crédits sur les dotations académiques devrait limiter les délais de paiement. Si le système d'une enveloppe globalisée qui répond à une gestion modernisée responsabilisant les autorités locales ne peut être remis en cause, la transparence des choix de répartition tant au niveau national qu'au niveau local est développée par la mise en place progressive de critères arrêtés en concertation avec les personnels concernés. La diffusion d'études comparatives conduites par les services centraux est un des éléments de ces évolutions souhaitées.
