@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860400297
+
+- Question : [SEQ860400297](seq860400297.md) — Allocations de chômage des apprentis
+
+## Réponse
+
+*Affaires sociales, JO du 1986-09-04, page 1249*
+
+Réponse. -Il est indiqué à l'honorable parlementaire que les communes ne peuvent pas embaucher d'apprentis. En effet, les dispositions de la loi du 16 juillet 1971, relative à l'apprentissage se réfèrent explicitement au régime du travail applicable au secteur privé : agrément de l'employeur après avis du comité d'entreprise et, selon le cas, de la compagnie consulaire, de la chambre des métiers ou de la chambre d'agriculture, contrat de travail de type particulier régi par les lois, règlements et conventions ou accords collectifs de travail applicables aux relations de travail dans la branche ou l'entreprise considérée, rôle de l'inspection du travail et du conseil de prud'hommes. Si, malgré tout, une commune recrute temporairement une personne à la recherche d'un emploi à l'issue de son contrat d'apprentissage, ladite commune se doit d'indemniser cette personne dans la mesure où elle peut justifier d'au moins quatre-vingt-onze jours ou 507 heures de travailau cours des douze mois qui précèdent la fin du contrat de travail. En effet, il est rappelé que, conformément aux dispositions de l'article L. 351-12 du code du travail, les agents du secteur public perçoivent, en cas de perte d'emploi, les mêmes prestations que les salariés du secteur privé et selon les mêmes modalités, dès lors qu'ils remplissent les conditions fixées par les accords des partenaires sociaux en matière d'assurance chômage. Toutefois, le régime d'indemnisation dans le secteur public repose sur le principe de l'auto-assurance. Les employeurs publics ne cotisent pas aux Assedic, mais supportent en contrepartie la charge de l'indemnisation.
