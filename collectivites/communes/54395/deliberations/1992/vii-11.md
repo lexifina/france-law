@@ -1,0 +1,8 @@
+# Ville de Nancy : délibération VII-11 — Affaire Gaëlle Boileau - Audience du Tribunal Correctionnel le 6 /11/92.
+
+- Collectivité : Ville de Nancy
+- SIREN : 215403957
+- Code INSEE : 54395
+- Date : 1992-10-19
+- Objet : Affaire Gaëlle Boileau - Audience du Tribunal Correctionnel le 6 /11/92.
+- Jeu de données : https://www.data.gouv.fr/datasets/5d96e6f38b4c410e2b3803a1
