@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900308770
+
+- Question : [SEQ900308770](seq900308770.md) — Bonification de fin de carrière des professeurs certifiés
+
+## Réponse
+
+*Éducation, JO du 1990-07-26, page 1650*
+
+Réponse. - La bonification indiciaire de 15 points attribuée pour une durée de cinq ans en faveur des professeurs certifiés, des professeurs d'éducation physique et sportive, des professeurs de lycée professionnel du deuxième grade, des conseillers principaux d'éducation âgés de cinquante ans et plus et ayant atteint le 8e échelon de la classe normale a effectivement été étendue aux personnels retraités. La mise en oeuvre de cette mesure a nécessité un texte de nature législative, qui a été voté par le Parlement à la fin de l'année 1989. La loi dans laquelle se trouvait insérée cette disposition ayant été déférée devant le Conseil constitutionnel, sa publication n'est intervenue qu'en janvier 1990. En application de l'article 52 de la loi n° 90-86 du 23 janvier 1990 portant diverses dispositions relatives à la sécurité sociale et à la santé, les fonctionnaires retraités - et leurs ayants cause - ayant appartenu aux catégories précitées, radiés des cadres avant le 1er septembre 1989, bénéficient d'une révision de leur pension civile sur la base de l'indice de traitement pris en compte pour la liquidation de leur pension augmenté de 15 points d'indice majoré. Cette opération de révision des pensions, qui concerne 25 000 personnes, opérée par le service des pensions du ministère de l'économie, des finances et du buget, devait s'achever pour les pensions personnelles à la fin du mois d'avril 1990. Il convient de prévoir, par ailleurs, le délai nécessaire aux trésoreries générales pour la mise en paiement qui est de l'ordre de deux mois. La révision des pensions des ayants cause, qui exige un traitement manuel pour un certain nombre de dossiers, a débuté au mois de mai 1990.
