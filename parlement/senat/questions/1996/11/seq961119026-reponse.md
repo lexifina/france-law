@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961119026
+
+- Question : [SEQ961119026](seq961119026.md) — Application du principe de subsidiarité
+
+## Réponse
+
+*Affaires européennes, JO du 1997-01-09, page 70*
+
+Réponse. - Comme le souligne l'honorable parlementaire, il importe que le conseil des ministres de l'Union européenne veille particulièrement à l'application du principe de subsidiarité. Tel est, notamment, le sens des principes et lignes directrices arrêtées dans le cadre de la déclaration adoptée par le Conseil européen en 1992, lors de sa réunion d'Edimbourg. S'agissant des modalités selon lesquelles cet examen doit avoir lieu, il apparaît que cet examen ne peut, concrètement, être séparé de l'examen des questions de fond dont le Conseil est saisi. Il convient en effet d'étudier si les mesures envisagées sont justifiées et adaptées. Seul l'examen au fond d'une proposition de la Commission permet d'apprécier sa conformité aux traités et, en particulier, sa conformité au regard de l'article 3 B du traité instituant la Communauté européenne, relatif au principe de subsidiarité. Les difficultés inhérentes à toute appréciation quant au respect ou non du principe de subsidiarité justifient une intervention dans ce domaine des parlements nationaux. Ceux-ci peuvent en effet apporter un éclairage et des avis utiles aux institutions de l'Union. C'est la raison pour laquelle le gouvernement français, dans le cadre de la conférence intergouvernementale, propose que la conférence des organes spécialisés dans les affaires communautaires (COSAC) puisse exprimer, dans les cas où elle l'estimerait nécessaire dans le domaine communautaire, des avis sur toute proposition de la Commission. Les récentes conclusions de la dernière réunion de la COSAC, à Dublin le 16 octobre, vont également dans ce sens.
