@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980105579
+
+- Question : [SEQ980105579](seq980105579.md) — Situation des agents sociaux obtenant le certificat d'aptitude à la fonction d'aide à domicile
+
+## Réponse
+
+*Fonction publique, JO du 1998-09-10, page 2914*
+
+Réponse. - Le décret du 28 août 1992 portant statut particulier du cadre d'emplois des agents sociaux territoriaux prévoit différentes modalités d'accès au grade d'agent social qualifié de 2e classe. La première voie d'accès est l'inscription sur une liste d'aptitude où sont inscrits les candidats admis à un concours sur titres ouvert aux titulaires soit d'un titre ou diplôme homologué au niveau V par la commission d'homologation des titres et diplômes de l'enseignement technologique, soit d'un titre ou diplôme figurant sur la liste établie par l'arrêté du 19 octobre 1995. Le certificat d'aptitude aux fonctions d'aide à domicile (CAFAD) figurant sur cette liste, les candidats titulaires de ce diplôme peuvent donc se présenter au concours sur titres d'accès à ce grade. La deuxième voie d'accès est celle de l'avancement de grade : peuvent en bénéficier, après inscription sur un tableau d'avancement, les agents sociaux justifiant d'au moins dix ans de services effectifs dans ce grade. Enfin, une troisième voie d'accès est possible en application de l'article 21 du décret précité du 28 août 1992, qui prévoit que les agents sociaux justifiant de l'un des diplômes requis pour le concours sur titres d'agent social qualifié de 2e classe ont reclassés dans ce grade. La circulaire du 14 octobre 1992 relative à la filière médico-sociale précise, notamment, cette dernière possibilité d'accès au grade d'agent social qualifié de 2e classe, consécutive à l'obtention en cours de carrière de l'un des titres ou diplômes requis pour pouvoir se présenter au concours sur titres d'accès à ce grade.
