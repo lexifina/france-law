@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890705913
+
+- Question : [SEQ890705913](seq890705913.md) — Droit de l'information des personnels en position de détachement
+
+## Réponse
+
+*Éducation, JO du 1989-10-05, page 1643*
+
+Réponse. - Les personnels enseignants placés en position statutaire de détachement n'ont pas été destinataires à leur domicile des dossiers d'information sur les mesures de revalorisation de la condition enseignante qui ont été diffusés sur la première quinzaine d'avril. Pour la première fois le ministère de l'éducation nationale, de la jeunesse et des sports prenait l'initiative d'adresser un document à titre personnel, et à leur domicile, à l'ensemble des enseignants. L'importance des mesures prises par le Gouvernement en matière de revalorisation des rémunérations des enseignants justifiait pleinement cette initiative. Celle-ci a nécessité une organisation extrêmement complexe étant donné le nombre des personnels concernés et les délais que le ministère avait souhaité voir respectés - les enseignants devaient, en effet, être les premiers informés de ces dispositions. Pour cette diffusion, qui a représenté plus de 700 000 envois, le ministère a utilisé les fichiers d'adresses des paieries générales. Pour les enseignants ne figurant pas sur ces fichiers, ce qui est le cas des personnels en détachement qui relèvent d'autres ministères, il devenait extrêmement difficile de les joindre. Enfin, toute demande adressée à la direction de l'information et de la communication du ministère a été systématiquement honorée. Afin de pallier cette difficulté, un système de commande par Minitel sur le service télématique du ministère Etudel a été ouvert pendant les deux mois qui ont suivi l'envoi des brochures. Par ailleurs, l'ensemble des mesures de revalorisation figuraient sur ce service.
