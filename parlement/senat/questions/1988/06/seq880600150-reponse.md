@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880600150
+
+- Question : [SEQ880600150](seq880600150.md) — Détection des faux appels d'urgence
+
+## Réponse
+
+*Postes, JO du 1988-11-24, page 1337*
+
+Réponse. - Les difficultés juridiques et techniques évoquées dans la précédente réponse existent toujours : une réflexion approfondie, menée conjointement par les services de lutte contre l'incendie et ceux de France Télécom dans le département du Nord l'a pleinement confirmé. Les difficultés juridiques résident dans la question de savoir si l'identité de l'appelant peut être communiquée sans son accord. A supposer que cet obstacle soit levé par l'autorité ayant compétence pour le faire, reste en tout état de cause le délicat problème des abonnés dits " liste rouge ", ayant expressément demandé que leur identité ne soit pas communiquée. Quant aux difficultés techniques, elles tiennent au grand nombre de cas de figure présentés par les combinaisons de types de commutateur appelant et de commutateur appelé. L'introduction du réseau national à intégration de services (R.N.I.S.) contribuera à résoudre le problème, mais seulement à un horizon de plusieurs années. S'il est en effet possible pour les pompiers de s'abonner à ce réseau, celui-ci ne saura pas avant 1992 identifier d'abonnés autres que ceux au même R.N.I.S., ce qui réduit évidemment singulièrement les chances d'identifier les auteurs d'appels malveillants, qui ne seront généralement pas abonnés à ce réseau essentiellement professionnel. Compte tenu de l'intérêt évident, pour les sapeurs-pompiers et pour la collectivité en général, que présenterait une action contre les faux appels de cette nature, l'assurance peut être donnée que toute solution acceptable sera activement recherchée. Il n'échappera cependant pas que même une identification immédiate et totale du poste appelant ne saurait avoir dans tous les cas le caractère dissuasif souhaité.
