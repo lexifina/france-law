@@ -1,0 +1,17 @@
+# Délibération portant avis sur la mise en oeuvre du recensement général de la population dans les Territoires d'Outre-Mer
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 83-12
+- Date : 1983-01-18
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017654233
+
+La Commission Nationale de l'Informatique et des Libertés, Vu la loi n° 78-17 du 6 janvier 1978 relative à l'Informatique, aux Fichiers et aux Libertés, notamment ses articles 15, 20 et 31 ; Vu le décret n° 78-774 du 17 juillet 1978 pris pour l'application des chapitres I à IV et VII de la loi n° 78-17 du 6 janvier 1978 ; Vu la loi n° 51-711 du 7 juin 1951 modifiée sur l'obligation, la coordination et le secret en matière de statistiques ; Vu le décret n° 72-1104 du 8 décembre 1972 fixant les attributions, la composition et le fonctionnement du Conseil National de la Statistique, et portant application de la loi du 7 juin 1951 susvisée ; Vu la loi n° 61-814 du 29 juillet 1961 modifiée par la loi n° 78-1018 du 18 octobre 1978 conférant aux Iles Wallis et Futuna le statut de Territoire d'Outre-Mer ; Vu la loi n° 76-1222 du 28 décembre 1976 relative à l'organisation de la Nouvelle-Calédonie et dépendances ; Vu la loi n° 77-772 du 12 juillet 1977 relative à l'organisation de la Polynésie Française ; Vu la délibération n° 82-18 du 2 mars 1982 de la Commission Nationale de l'Informatique et des Libertés portant avis sur le projet de protocole d'accord-type entre l'INSEE et les communes fixant les modalités d'utilisation par celles-ci des données du Recensement Général de la Population ; Vu le projet de décret en Conseil d'Etat pris sur le rapport du Ministre de l'Economie et des Finances, fixant la date et les conditions dans lesquelles sera exécuté le Recensement Général de la Population dans les Territoires d'Outre-Mer.; Après avoir entendu en son rapport Monsieur MARCHAND et en ses observations Monsieur le Commissaire du Gouvernement :
+
+1/ Sur la compétence des autorités chargées d'organiser les opérations du recensement : CONSIDERANT : - que le Recensement Général de la Population, décidé par le Conseil National de la Statistique en application de la loi du 7 juin 1951, qui a pour finalité l'établissement de statistiques socio-démographiques concernant l'ensemble du territoire national, relève de la compétence de l'Etat ; - qu'en conséquence, il appartient au décret de fixer l'organisation des opérations du recensement dans les Territoires d'Outre-Mer.
+
+2/ Sur la collecte d'informations relatives à l'origine ethnique des personnes recensées : CONSIDERANT : - que la question sur l'origine ethnique, compte tenu des caractéristiques socio-démographiques propres aux Territoire d'Outre-Mer, est utile à la finalité du recensement dans ce territoires ; - que sa mise en mémoire répond ainsi à un motif d'intérêt public, au sens de l'alinéa 3 de l'article 31 de la loi du 6 janvier 1978.
+
+3/ Sur l'exploitation des données par les collectivités locales : PRENANT ACTE DU FAIT : - que les communes qui souhaiteront exploiter pour leur compte les données du recensement s'engageront à les traiter de manière non nominative, selon la procédure du protocole d'accord avec l'INSEE, approuvée par la CNIL ; EMET UN AVIS FAVORABLE à la mise en oeuvre du Recensement Général de la Population dans les Territoires d'Outre-Mer, ainsi qu'un avis conforme à la mise en mémoire des informations relatives à l'origine ethnique.
