@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890103236
+
+- Question : [SEQ890103236](seq890103236.md) — Horaire effectué par les PEGC dans les collèges
+
+## Réponse
+
+*Éducation, JO du 1989-03-02, page 367*
+
+Réponse. - Jusqu'en 1990, date à laquelle entreront en vigueur de nouveaux maxima de service hebdomadaire d'enseignement, fixés, suivant les disciplines à dix-huit, dix-neuf ou vingt heures, l'article 25 du décret n° 86-492 du 14 mars 1986 modifié portant statut des professeurs d'enseignement général de collège, donne compétence au ministre de l'éducation nationale pour fixer chaque année le service de ces personnels, lequel comprend non seulement des heures de cours, mais aussi des activités connexes telles que la participation au travail collectif des enseignants et le suivi individualisé d'élèves. La note de service du 23 août 1988 prise pour l'application de ces dispositions statutaires, pour l'année scolaire 1988-1989, a rappelé que le service hebdomadaire des professeurs d'enseignement général de collège ne pouvait, sans rémunération supplémentaire, excéder vingt et une heures toutes activités confondues et a fixé l'horaire de cours dû par ces personnels entre dix-huit heures et vingt heures trente minutes par semaine, en fonction de la nature de l'enseignement qu'ils assurent et de la participation de l'établissement où ils exercent au processus de rénovation des collèges. Lorsque les nécessités du service conduisent à confier aux professeurs d'enseignement général de collège un horaire d'enseignement excédant l'horaire hebdomadaire de cours exigible en application de la note de service précitée, des heures supplémentaires leur sont versées dès lors que la somme des heures d'enseignement effectivement réalisées par ces personnels et de la part fixe consacrée aux activités complémentaires excède leurs obligations de service statutaires, soit vingt et une heures.
