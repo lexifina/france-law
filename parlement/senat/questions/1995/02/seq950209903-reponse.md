@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950209903
+
+- Question : [SEQ950209903](seq950209903.md) — Commentaires effectués par un journaliste de l'audiovisuel lors de la prise d'otages de l'Airbus à Alger
+
+## Réponse
+
+*Communication, JO du 1995-04-13, page 884*
+
+Réponse. - Comme le souligne l'honorable parlementaire, il est regrettable que des informations hâtives et d'une gravité certaine aient pu être données dans un bulletin d'information télévisé sans que leur véracité ait été vérifiée. Toutefois, l'article 1er de la loi no 86-1067 du 30 septembre 1986 modifiée ayant affirmé le principe de la liberté de communication, le Gouvernement ne saurait intervenir dans ce qui a trait au contenu des programmes. La responsabilité et les règles de déontologie sont, en effet, l'affaire des responsables éditoriaux des chaînes de télévision sous le contrôle du Conseil supérieur de l'audiovisuel, garant de l'exercice de cette liberté et de l'application des principes fixés dans la loi précitée. Le CSA ne manque cependant pas d'aborder, dans son rapport annuel, les problèmes d'éthique et d'honnêteté de l'information qu'il rencontre et de signaler les éventuels manquements aux services audiovisuels concernés. En outre, le nouveau président du CSA a déclaré, dans la lettre qu'il a rédigée au moment de sa nomination, que " ... à une époque où nos concitoyens réclament une plus grande transparence de la part des différents pouvoirs, le CSA peut montrer l'exemple en contribuant à l'émergence d'une déontologie de la communication audiovisuelle, dont les règles pourront être établies avec le concours de tous, journalistes, producteurs, éditeurs, diffuseurs, représentants de la justice et des téléspectateurs ". Le Gouvernement prêtera toute l'attention requise aux suites qui seront données à cette proposition.
