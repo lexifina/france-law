@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981111924
+
+- Question : [SEQ981111924](seq981111924.md) — Scolarisation des enfants handicapés
+
+## Réponse
+
+*Premier ministre, JO du 2000-07-06, page 2370*
+
+Réponse. - L'honorable parlementaire attire l'attention de M. le Premier ministre sur la scolarisation des enfants handicapées. A l'occasion du Conseil national consultatif des personnes handicapés (CNCPH) du 25 janvier 2000, le Premier ministre a annoncé une dotation de 170 millions de francs sur trois ans permettant de fournir aux élèves handicapés scolarisés en milieu ordinaire un matériel pédagogique adapté et des aides techniques indispensables, en particulier pour les déficiences sensorielles et motrices. Cette dotation s'inscrit dans un plan plus général pour l'accès des personnes handicapées au milieu de vie ordinaire annoncé par le Premier ministre sur la période 2001-2003. Dans le cadre de ce plan pluriannuel, les services relevant du ministère de l'emploi et de la solidarité qui accompagnent les enfants handicapés et permettent leur intégration en milieu scolaire, tels que les centres d'action médico-sociale précoce (CAMSP) et les services d'éducation spéciale et de soins à domicile (SESSAD) bénéficieront de 300 millions de francs supplémentaires. Enfin, afin de s'assurer de la cohérence du dispositif global d'intégration et d'éducation dans le cadre départemental, des groupes de coordination Handiscol, associant les élus et les partenaires associatifs ont été créés par une circulaire conjointe du ministère de l'éducation nationale et du ministère de l'emploi et de la solidarité en date du 19 novembre 1999. Ils seront intégrés au sein du futur conseil départemental consultatif des personnes handicapées. L'honorable parlementaire recevra par voie de courrier postal l'allocution du Premier ministre, du 25 janvier dernier, devant le Conseil national consultatif des personnes handicapées.
