@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011035531
+
+- Question : [SEQ011035531](seq011035531.md) — Passage à l'euro pour les entreprises de l'alimentation en détail
+
+## Réponse
+
+*Économie, JO du 2002-01-31, page 302*
+
+Les artisans et les commerçants de proximité jouent un rôle important lors de l'introduction de l'euro fiduciaire, car ils sont en relation quotidienne avec les consommateurs. C'est pourquoi le Gouvernement s'est montré particulièrement attentif à leur accompagnement. S'agissant des commissions perçues sur les paiements de petit montant pendant la période de double circulation, le Gouvernement a toujours été favorable à une solution négociée entre les organismes bancaires ou postaux et les commerçants. Néanmoins, en l'absence de telles négociations, le Gouvernement a accueilli positivement un dispositif de plafonnement des commissions qui évitera ainsi aux commerçants d'avoir à supporter financièrement une éventuelle augmentation du volume des paiements par carte bancaire. C'est le sens des dispositions qui ont été instaurées par l'article 56 de la loi de finances rectificative pour 2001. En ce qui concerne la garantie de paiements des chèques, il n'est pas envisagé de promouvoir, à l'occasion du passage de l'euro, une réévaluation du seuil de garantie institué par la loi du 3 janvier 1975 qui irait à l'encontre de l'évolution des moyens de paiement en favorisant l'utilisation de chèques de faible montant au détriment d'instruments de paiement mieux adaptés. Par ailleurs, un relèvement du seuil pourrait avoir pour effet de réduire la vigilance des émetteurs de chèques et des commerçants, qui seraient alors moins portés à procéder aux vérifications élémentaires, fragilisant ainsi le dispositif de lutte contre l'utilisation de chèques sans provision ou de chèques volés. La réévaluation du seuil de garantie risquerait alors de se retourner contre les consommateurs et les professionnels.
