@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508257
+
+- Question : [SEQ980508257](seq980508257.md) — Partenariat de La Poste avec les collectivités locales
+
+## Réponse
+
+*Économie, JO du 1998-08-27, page 2773*
+
+Réponse. - La Poste, conformément à la loi du 2 juillet 1990 et à son cahier des charges, adapte sa présence sur le territoire afin d'assurer un service public de qualité accessible à tous. Dans le cadre du contrat d'objectifs et de progrès, portant contrat de plan signé le 25 juin dernier, des orientations ont été définies, de façon concertée, visant à préciser les conditions d'évolution et d'amélioration du service postal tant en zone rurale qu'en zone urbaine, en particulier dans les quartiers en difficulté. Toutes les solutions doivent être explorées, notamment celles offertes par le développement de partenariats entre La Poste, les collectivités locales qui le souhaitent et d'autres acteurs publics ou privés, pour permettre à l'exploitant public de développer et d'enrichir les services de proximité offerts au public et d'exercer pleinement ses missions, dans le cadre de l'autonomie de gestion que lui confère la loi. Parce que le Gouvernement souhaite une meilleure association des collectivités territoiriales, le contrat d'objectifs et de progrès propose de constituer dans chaque département une commission réunissant des représentants des élus départementaux et régionaux, des représentants des maires du département et des représentants de La Poste. Afin d'assurer la cohérence avec les travaux de la commission départementale d'organisation et de modernisation des services publics, le préfet désignerait un observateur pour assister aux travaux de cette commission. Par ailleurs, s'agissant des agences postales, les conditions du partenariat avec les collectivités locales seront précisées sur la base d'un cadre juridique rénové.
