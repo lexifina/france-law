@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870304876
+
+- Question : [SEQ870304876](seq870304876.md) — Suppression de postes d'agents dans les établissements d'enseignement secondaire dans le département du Nord
+
+## Réponse
+
+*Éducation, JO du 1987-04-30, page 669*
+
+Réponse. -Dans le cadre de la mise en oeuvre de la politique de redressement des équilibres budgétaires et de réduction des dépenses de l'Etat, le Gouvernement a engagé un effort d'allègement des effectifs des administrations. A ce titre, des suppressions d'emplois de personnel non-enseignant ont dû être envisagées en 1987 dans les services académiques, les établissements scolaires et les services administratifs centraux du ministère de l'éducation nationale. La situation de chaque académie a été étudiée en fonction de ses charges (effectifs d'élèves, nombre de repas servis ...) et des moyens en emplois dont elle dispose. Ainsi, les suppressions d'emplois de personnel ouvrier et de service dans l'académie de Lille ont pu être limitées à 62, soit 1 p. 100 des effectifs exerçant dans les établissements du second degré, alors que le pourcentage moyen s'établit à 1,4 p. 100 au plan national. Cette diminution ne paraît pas de nature à compromettre la qualité du service public de l'éducation nationale dans ses objectifs et ses moyens. L'allègement des effectifs de personnel ouvrier et de service doit d'ailleurs être apprécié dans le contexte de la modernisation des matériels, qui facilite la tâche des agents et accroît leur efficacité. Le recteur de l'académie de Lille étant le mieux à même d'apprécier la situation des lycées et collèges de son ressort, la plus grande latitude lui est laissée pour déterminer la nature et l'implantation des emplois concernés. Il tient compte, dans la répartition des suppressions, des charges spécifiques qui pèsent sur chacun des établissements de son académie et des possibilités de vacances susceptibles de se découvrir d'ici la prochaine rentrée.
