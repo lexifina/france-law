@@ -1,0 +1,11 @@
+# Réponse à la question SEQ890705754
+
+- Question : [SEQ890705754](seq890705754.md) — Mise à la norme européenne des ponts routiers dans le Calaisis
+
+## Réponse
+
+*Équipement, JO du 1989-08-31, page 1410*
+
+Réponse. - Le ministre de l'équipement, du logement, des transports et de la mer, est très conscient de l'importance que peut représenter le gabarit des passages inférieurs des ouvrages autoroutiers de la région de Calais, compte tenu des contraintes en matière de transports agricoles, plus particulièrement des chargements à destination de la coopérative linière de Grande-Synthe. Ces problèmes ont retenu toute son attention puisqu'ils ont déjà été évoqués lors de l'enquête préalable à la déclaration publique des travaux et au classement en route express de cette section de la rocade littorale, au cours de laquelle des remarques de cet ordre ont été faites par les agriculteurs concernés. Il sera tenu le plus grand compte de ces observations, puisque le gabarit de l'ouvrage de franchissement de la route départementale 217, principal itinéraire de livraison de la coopérative, sera porté à cinq mètres. De la même façon, celui des ouvrages de la route départementale 131, d'une part, et du chemin communal reliant Saint-Georges-sur-l'Aa à Bourbourg, d'autre part, sera suffisant pour permettre le passage de ces convois. Par ailleurs, il n'y a pas de règle obligatoire en matière de choix des hauteurs libres dégagées par les ouvrages autoroutiers franchissant les voiries locales. Les caractéristiques techniques arrêtées par le maître d'ouvrage autoroutier sont définies, en concertation avec le gestionnaire de la voirie et après examen de la nature des transits concernés et des éventuelles limitations de gabarit préexistantes en amont ou en aval. Dans l'hypothèse où les contraintes physiques ou économiques du rétablissement d'une route ne permettraient pas d'assurer le respect du gabarit de certains véhicules de transport peu fréquents (tels ceux d'origine agricole au moment de la récolte), le maître d'ouvrage étudierait, en liaison avec les communes et les intéressés, le rétablissement d'itinéraires parallèles respectant cette
+
+contrainte (par exemple, par passage au-dessus de l'autoroute) et satisfaisant aux déplacements souhaités.
