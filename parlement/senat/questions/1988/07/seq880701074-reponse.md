@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880701074
+
+- Question : [SEQ880701074](seq880701074.md) — Inégalités du taux d'encadrement des élèves de l'école primaire
+
+## Réponse
+
+*Éducation, JO du 1988-10-20, page 1171*
+
+Réponse. - La physionomie des départements est très contrastée. Il est inévitable qu'il existe, dans le domaine du réseau scolaire, des différences qui ne créent pas pour autant des inégalités. Les moyens sont d'une façon générale plus importants, relativement, dans les départements à caractère rural, surtout lorsqu'en même temps ceux-ci présentent des caractéristiques spécifiques (zones de montagne, par exemple) : c'est qu'il est indispensable, pour assurer de la meilleure façon possible le service public d'enseignement, d'y maintenir un réseau d'écoles moins resserré qu'en zone urbaine, donc plus coûteux en postes, et parfois même, dans des régions très isolées, des écoles à classe unique à effectif relativement réduit. Ces départements ont aussi des contraintes que ne connaissent pas les départements très urbanisés (isolement des élèves et des maîtres, difficultés de transport, etc.) et qui conduisent à mettre en place des systèmes propres à pallier cesinconvénients. L'affectation d'instituteurs itinérants qui assurent de meilleures liaisons entre écoles isolées est un exemple des efforts réalisés pour adapter le fonctionnement du service à la diversité des situations dans chaque académie. Cela étant, des opérations de rééquilibrage sont néanmoins conduites à chaque rentrée afin de répondre aux besoins des départements en forte expansion démographique, dont certains de la grande couronne parisienne. Dans le cadre de ces opérations, un grand nombre de départements dont la situation l'autorise se voient retirer des emplois, et parmi eux des départements ruraux. Bien entendu, toutes les situations font l'objet d'études attentives, afin que les mesures retenues n'entraînent pas de dégradation d'une part, répondent aux besoins d'autre part.
