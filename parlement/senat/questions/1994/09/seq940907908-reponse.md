@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940907908
+
+- Question : [SEQ940907908](seq940907908.md) — Taux d'application du système dit de " conduite accompagnée "
+
+## Réponse
+
+*Équipement, JO du 1995-02-02, page 274*
+
+Réponse. - En 1993, plus de 100 000 inscriptions ont été enregistrées dans le cadre de l'apprentissage anticipé de la conduite (AAC), soit environ 12 p. 100 des premières demandes de permis de conduire de la catégorie B. Depuis sa généralisation en 1989, cette filière de formation à la conduite a fait l'objet d'actions de promotion au plan national, à travers les médias, et au plan local, par l'intermédiaire des plans départementaux d'actions de sécurité routière. Afin de favoriser un meilleur accès de jeunes aux bénéfices de l'AAC, les pouvoirs publics accentuent le suivi et le renforcement de ces actions au niveau local. En effet, il a été constaté qu'une action ciblée à l'échelle départementale se révèle plus efficace dans la mesure où elle touche de près un public potentiellement intéressé. C'est pourquoi en 1993 un budget de trois millions de francs a été consacré à des actions de promotion de ce type. Par ailleurs, des actions sont également engagées vers les jeunes en difficulté pour favoriser leur accès au permis de conduire et utiliser la formation à la conduite comme vecteur d'insertion sociale. A cet égard, l'apprentissage anticipé de la conduite, avec des accompagnateurs volontaires, constitue un outil pédagogique intéressant dont les perspectives restent à développer. L'apprentissage anticipé de la conduite constitue en outre l'un des thèmes privilégiés par le nouveau dispositif organisé au titre du partenariat entre l'Etat et les secteurs de l'assurance. Enfin le décret du 5 mai 1994 soumettant aux nouvelles limitations de vitesse les conducteurs débutants issus de la conduite accompagnée sera prochainement modifié afin de mieux répondre à l'objectif de promotion de cette nouvelle forme d'apprentissage de la conduite.
