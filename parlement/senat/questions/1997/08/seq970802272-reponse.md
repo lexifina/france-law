@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970802272
+
+- Question : [SEQ970802272](seq970802272.md) — Réforme de la politique agricole commune
+
+## Réponse
+
+*Agriculture, JO du 1997-09-25, page 2534*
+
+Réponse. - La Commission européenne a présenté récemment des propositions fixant les orientations de politique agricole pour la période 2001-2006. La France veut contribuer à la recherche et à la mise en oeuvre des adaptations indispensables de cette politique. Or, la stratégie envisagée par la Commission ne peut être acceptée telle quelle. Il est à craindre qu'une réforme portant sur les seules modalités de soutien du revenu des agriculteurs ne suffise pas à satisfaire les partenaires de l'Union européenne dans les négociations multilatérales et que ceux-ci exigent dans l'avenir d'autres concessions portant sur les tarifs douaniers à l'importation de produits agricoles et les conditions d'accès au marché communautaire. Par ailleurs, ce projet fait apparaître d'importants déséquilibres dans les aides compensatoires prévues pour les différents secteurs de production, au détriment de l'élevage bovin extensif en particulier, alors que la présence de cet élevage est indispensable à la gestion de l'espace, à l'occupation du territoire et à la vitalité des zones rurales en France. Le Gouvernement abordera ces négociations avec le souci de tout mettre en oeuvre pour assurer l'équité et l'équilibre des aides aux différents secteurs et aux différentes régions, et aussi de prendre en compte les préoccupations de la société concernant l'emploi, le développement durable et l'occupation de l'espace. Avant de s'engager dans l'examen technique du projet de la commission, une réflexion et une concertation approfondies seront engagées dès l'automne avec les représentants du monde agricole afin de définir la position française dans les négociations communautaires, dans le respect de ces objectifs
