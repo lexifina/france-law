@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910917380
+
+- Question : [SEQ910917380](seq910917380.md) — Délai d'affectation des enseignants
+
+## Réponse
+
+*Éducation, JO du 1991-12-12, page 2791*
+
+Réponse. - Les affectations et les mutations des enseignants du premier degré, dont la gestion est départementale, sont prononcées à l'intérieur de chaque département à la suite de deux mouvements. En règle générale, dans chaque département, un premier mouvement informatisé se déroule dans le courant des mois d'avril, de mai ou au début du mois de juin afin de pouvoir aviser les intéressés avant leur départ en vacances. C'est le plus important en nombre et il permet de pourvoir la plus grande partie des vacances de postes d'un département. Le deuxième mouvement qui intervient postérieurement concerne en majorité les enseignants débutants. Dans le cadre de ces deux mouvements, afin de départager équitablement les candidats à l'obtention d'un poste, il est établi dans chaque département, à titre indicatif, un barème qui prend divers éléments en considération, dont l'ancienneté de services et la note pédagogique. De ce fait il est difficile à de jeunes enseignants d'obtenir en début de carrière un poste conforme à leurs voeux. S'agissant de la situation particulière du département du Nord, il convient de noter qu'il est très difficile à l'administration de pallier le fait que le département s'étire sur plus de 200 kilomètres, qu'il y a peu de volontaires pour enseigner dans la partie sud du département alors que les besoins de scolarisation y sont importants. Cependant les affectations des trente-huit enseignants évoqués dans la question ont fait l'objet d'un nouvel examen et certains d'entre eux, pères et mères de famille, ont été rapprochés de Lille. En tout état de cause, il est effectivement souhaitable que les enseignants soient informés de leur affectation dans des délais qui leur permettent de régler les divers problèmes d'installation.
