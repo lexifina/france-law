@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910716050
+
+- Question : [SEQ910716050](seq910716050.md) — Difficultés d'interprétation du décret relatif à la prime spéciale d'installation attribuée à certains personnels de la fonction publique territoriale
+
+## Réponse
+
+*Intérieur, JO du 1991-08-22, page 1779*
+
+Réponse. - L'article 1er du décret n° 90-938 du 17 octobre 1990 relatif à la prime spéciale d'installation attribuée à certains personnels de la fonction publique territoriale dispose que c'est à l'occasion de leur accès à un premier emploi dans l'une des collectivités mentionnées à l'article 2 de la loi du 26 janvier 1984 que ces agents peuvent prétendre à cette allocation. Peuvent également bénéficier de la prime spéciale d'installation les agents qui ont antérieurement occupé un précédent emploi dans la fonction publique Etat ou la fonction publique hospitalière et qui ont démissionné de cet emploi, sous réserve qu'ils n'aient pas déjà perçu la prime d'installation, ou, si cela est le cas, qu'il l'ait remboursée. Cette possibilité est également ouverte, dans les conditions fixées à l'article 6 du décret précité, aux fonctionnaires titulaires ou stagiaires de la fonction publique territoriale. L'accès à un nouveau grade dans la fonction publique territoriale, s'il entraîne une affectation dans une commune située dans le champ géographique fixé par le décret n° 90-938 du 17 octobre 1990, n'ouvre pas droit à la prime spéciale d'installation. En effet, les frais exposés dans cette hypothèse par les intéressés, pour leur changement de résidence sont remboursés dans les conditions fixées par le titre II du décret n° 91-573 du 19 juin 1991 (J.O. du 21 juin 1991) fixant les conditions et les modalités de règlement des frais occasionnés par les déplacements des personnels des collectivités territoriales.
