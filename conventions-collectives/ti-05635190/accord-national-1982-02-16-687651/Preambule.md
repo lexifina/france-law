@@ -6,9 +6,7 @@ Pour parvenir à cet objectif, les entreprises du commerce doivent poursuivre et
 
 Elles doivent aussi, dans un contexte de concurrence intérieure très forte et d'expansion limitée, développer des services nouveaux permettant de créer des emplois durables et véritables répondant à un vrai besoin du consommateur.
 
-Elles ne peuvent, sauf dans le cas de difficultés économiques devant conduire à une réduction des effectifs, refuser aux salariés qui le demandent de cesser leur activité dans le cadre de l'accord relatif au développement de l'emploi, en contrepartie de la cessation d'activité de salariés totalisant 160 trimestres et plus de cotisations aux régimes de base d'assurance vieillesse.
-
-Cette obligation est maintenue dans l'hypothèse du renouvellement de l'accord qui est vivement souhaité par les parties signataires du présent accord.
+Elles ne peuvent, sauf dans le cas de difficultés économiques devant conduire à une réduction des effectifs, refuser aux salariés qui le demandent de cesser leur activité dans le cadre de l'accord relatif au développement de l'emploi, en contrepartie de la cessation d'activité de salariés totalisant 160 trimestres et plus de cotisations aux régimes de base d'assurance vieillesse. Cette obligation est maintenue dans l'hypothèse du renouvellement de l'accord qui est vivement souhaité par les parties signataires du présent accord.
 
 La commission paritaire nationale de l'emploi de la profession étudiera au cours de ses réunions périodiques la situation de l'emploi et son évolution prévisible en s'appuyant sur les travaux qui seront menés par l'observatoire de l'emploi, des métiers et des qualifications du commerce.
 
@@ -18,7 +16,7 @@ Conclu en outre en application de l'accord interprofessionnel sur l'emploi du 31
 
 La loi n° 98-461 du 18 juin 1998 d'orientation et d'incitation relative à la réduction du temps de travail implique d'intégrer dans le dispositif les nouvelles données qu'elle envisage.
 
-Elle conduit à mener une réflexion approfondie sur l'aménagement - réduction du temps de travail - au sein des entreprises qui seules peuvent décider de s'engager dans un processus de réduction du temps de travail " offensif " voir, dans un certain nombre de cas, " défensif " devant aboutir au respect des objectifs suivants :
+Les lois n° 98-461 du 18 juin 1998 d'orientation et d'incitation relative à la réduction du temps de travail et du 19 janvier 2000 relative à la réduction négociée du temps de travail impliquent d'intégrer dans le dispositif les nouvelles données qu'elles envisagent. Elles conduisent à mener une réflexion approfondie sur l'aménagement-réduction du temps de travail au sein des entreprises en respectant les objectifs suivants :
 
 - satisfaire toujours davantage les clients en répondant notamment à leur demande de nouveaux services, et donc en créant des emplois à cette fin ;
 
@@ -35,9 +33,3 @@ Toutefois, pour les entreprises ou établissements n'ayant pas conclu d'accord o
 En l'absence d'institutions représentatives du personnel, les entreprises ou établissements peuvent recourir au régime ci-dessous après information individuelle des salariés concernés.
 
 Le présent accord ne remet pas en cause les accords d'entreprise et/ou d'établissement portant sur les mêmes objets.
-
-NOTA. (1) Alinéa étendu sous réserve de l'application de l'article L. 432-3 du code du travail.
-
-NOTA :
-
-NOTA. (1) Alinéa étendu sous réserve de l'application de l'article L. 432-3 du code du travail.
