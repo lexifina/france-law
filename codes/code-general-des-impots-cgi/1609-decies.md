@@ -8,14 +8,10 @@ La taxe régionale additionnelle est répartie suivant les modalités définies 
 
 II. Jusqu'à l'ouverture du premier exercice suivant l'élection des conseils régionaux au suffrage universel direct :
 
-a. Le total des ressources fiscales par habitant que chaque établissement public peut percevoir au titre de cette taxe et de celles prévues aux articles 1635 bis D et 1635 bis E évolue chaque année comme l'indice de valeur de la formation brute de capital fixe des administrations publiques, tel qu'il est estimé dans la projection économique présentée en annexe au projet de loi de finances de l'année (1).
+a. Le total des ressources fiscales par habitant que chaque établissement public peut percevoir au titre de cette taxe et de celles prévues aux articles 1635 bis D et 1635 bis E évolue chaque année comme l'indice de valeur de la formation brute de capital fixe des administrations publiques, tel qu'il est estimé dans la projection économique présentée en annexe au projet de loi de finances de l'année.
 
-b. Le montant maximal des ressources fiscales par habitant résultant de l'application des dispositions du a est fixé chaque année par décret (2).
+b. Le montant maximal des ressources fiscales par habitant résultant de l'application des dispositions du a est fixé chaque année par décret.
 
 c. Lorsque les recouvrements opérés font apparaître que le maximum a été dépassé pour un exercice, le montant de ressources excédant de plus de 5 % ce maximum est reporté et vient en déduction du montant maximum de ressources autorisé pour l'exercice suivant cette constatation.
 
-III. A compter du 1er janvier 1983, nonobstant les dispositions du II, le montant maximal des ressources fiscales que chaque établissement public régional peut percevoir par habitant est fixé à 150 F.
-
-(1) Disposition applicable à compter de 1981.
-
-(2) Montant maximal fixé pour 1982 à 79,32 F par le décret n° 82-44 du 16 janvier 1982. Pour 1981, le montant avait été fixé à 67,68 F par le décret n° 81-102 du 4 février 1981.
+III. A compter du 1er janvier 1983, nonobstant les dispositions du II, le montant maximal des ressources fiscales que chaque établissement public régional peut percevoir par habitant est fixé à 150 F. A compter du 1er janvier 1984, le montant est fixé à 165 F.
