@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000223046
+
+- Question : [SEQ000223046](seq000223046.md) — Visite en France du ministre des affaires étrangères australien
+
+## Réponse
+
+*Affaires étrangères, JO du 2000-05-11, page 1678*
+
+Réponse. - M. Downer, dont c'était la deuxième visite à Paris en sa qualité de ministre des affaires étangères, est venu à l'invitation du ministre des affaires étrangères pour une brève visite de travail à l'occasion d'un déplacement en Europe. Outre le ministre des affaires étrangères, M. Downer a également rencontré M. Charles Josselin, ministre délégué à la francophonie et à la coopération, et M. Jean-Jack Queyranne, secrétaire d'Etat à l'outre-mer. M. Downer a, d'autre part, été reçu en audience par le président de l'Assemblée nationale. A sa demande, il a rencontré M. Jean-Claude Trichet, gouverneur de la Banque de France. M. Downer a procédé avec les membres du gouvernement français à un large échange de vues sur les questions stratégiques d'intérêt commun, notamment en Asie-Pacifique et en Europe. Les deux ministres ont dressé le bilan, excellent, de l'état de nos relations bilatérales, tant dans le domaine politique que sur le terrain économique. Les moyens pour approfondir encore cette relation ont été recherchés. A cet égard plusieurs accords sont en cours de négociation entre la France et l'Australie, dont un accord de défense et un accord vacances-travail, à l'image de ceux récemment conclus avec le Japon et la Nouvelle-Zélande. Il a été décidé de poursuivre et d'approfondir la coopération régionale franco-australienne dans la région du Pacifique Sud, qui s'appuie en particulier sur la Nouvelle-Calédonie et la Polynésie française. Cette visite aura enfin permis de préparer la visite officielle du Premier ministre australien en France, M. John Howard, du 26 au 29 avril prochain.
