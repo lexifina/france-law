@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990214085
+
+- Question : [SEQ990214085](seq990214085.md) — Méthodes d'évaluation des fonctionnaires de police
+
+## Réponse
+
+*Intérieur, JO du 1999-04-08, page 1188*
+
+Réponse. - Les méthodes d'évaluation des fonctionnaires relèvent de plusieurs procédures complémentaires. Le procédé de notation par niveau applicable aux fonctionnaires des services actifs de la police nationale est prévu par le décret nº 88-470 du 29 avril 1988 et repris par le décret nº 95-654 du 9 mai 1995 fixant les dispositions communes applicables aux fonctionnaires actifs des services de la police nationale. Ce système de notation permet de porter des appréciations précises sur la valeur des fonctionnaires. Le classement des fonctionnaires par niveau de 1 à 7 résulte de l'appréciation annuelle portée sur l'activité de l'agent. La notice d'évaluation comporte une liste d'éléments d'appréciation permettant d'estimer les qualités professionnelles, les aptitudes manifestées dans l'exercice des fonctions ainsi que des observations sur la manière de servire du fonctionnaire. Cette dernière prend en compte les connaissances professionnelles, l'efficacité et l'organisation de la méthode dans le travail et le dévouement, avant d'indiquer, le cas échéant, si l'intéressé mérite une promotion. S'agissant des avancements exceptionnels, l'article 36 du décret du 9 mai 1995 prévoit que les fonctionnaires ayant accompli un acte de bravoure dans l'exercice de leurs fonctions peuvent être promus à un échelon ou à un grade immédiatement supérieurs. Enfin, des lettres de félicitations ou des gratifications peuvent être accordées aux policiers qui ont manifesté courage, initiative ou sens du devoir. Le notateur dispose donc d'un éventail de possibilités et paramètres qui doit lui permettre de traduire dans l'évaluation des fonctionnaires les qualités dont ils font preuve dans la diversité de leurs missions.
