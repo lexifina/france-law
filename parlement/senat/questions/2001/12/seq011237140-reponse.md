@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011237140
+
+- Question : [SEQ011237140](seq011237140.md) — Action de la France pour le respect de la troisième convention de Genève sur les prisonniers de guerre
+
+## Réponse
+
+*Affaires étrangères, JO du 2002-01-31, page 290*
+
+Le Gouvernement français est soucieux du respect du droit international humanitaire et de la protection de toutes les victimes de guerre. La troisième convention de Genève de 1949, qui traite spécifiquement des prisonniers de guerre, précise que les personnes qui ont déposé les armes ou ont été mises hors de combat, doivent être traitées avec humanité et que leur dignité doit être respectée. Elle indique également qu'aucune distinction ne doit être faite entre les combattants, qu'ils appartiennent aux forces armées d'une partie au conflit, à des milices ou à des corps de volontaires faisant partie des ces forces. Le Comité international de la Croix-Rouge, en sa qualité de gardien des conventions de Genève, a indiqué publiquement le 11 décembre qu'il prenait très au sérieux toute allégation de massacre ou de mauvais traitement de prisonniers et qu'il était en train de recueillir des informations. Conformément à ses usages, le comité ne diffusera pas les éléments recueillis qui, selon leur nature, pourront être utilisés pour des démarches auprès des autorités concernées. La France, comme d'autres pays, est préoccupée de tout manquement aux obligations internationales en la matière et a appelé au respect du droit international humanitaire par toutes les parties. Elle porte une grande estime au travail effectué par le CICR, conforme au mandat que lui donnent les conventions de Genève de 1949, et soutient son approche. Elle considère par ailleurs que c'est aux nouvelles autorités afghanes qu'appartient, en priorité, la responsabilité de veiller au respect du droit international humanitaire dans ce pays.
