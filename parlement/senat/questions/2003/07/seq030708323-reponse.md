@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030708323
+
+- Question : [SEQ030708323](seq030708323.md) — Budget des centres d'hébergement et de réinsertion sociale (CHRS)
+
+## Réponse
+
+*Affaires sociales, JO du 2003-12-04, page 3501*
+
+l'attention de M. le ministre des affaires sociales, du travail et de la solidarité est appelé sur les difficultés financières que rencontrent les associations responsables de la gestion des centres d'hébergement et de réinsertion sociale (CHRS). La dotation de fonctionnement des centres d'hébergement et de réinsertion sociale (CHRS) votée en loi de finances 2003 s'élève à 428,39 millions d'euros contre 417,56 millions d'euros en 2002, soit une progression de 2,59 % permettant le financement de 33 000 places. L'ensemble des crédits d'Etat relatifs aux CHRS est réparti au niveau régional entre les départements. Pour 2003, l'allocation destinée aux CHRS s'élève à un total de 26,51 millions d'euros pour la région Lorraine, dont 11 millions pour le département de la Moselle. Outre le taux d'actualisation (0,605 %), la région a bénéficié d'une enveloppe de mesures nouvelles de 0,13 million d'euros qui ont permis la création de 11 places de CHRS supplémentaires, dont 8 places pour le département de la Moselle. Par ailleurs, pour répondre aux besoins immédiats des CHRS, des crédits supplémentaires, non reconductibles, ont été obtenus et viennent s'ajouter aux dotations initialement budgétées aux services déconcentrés. Au vu des demandes formulées par les DDASS, relatives aux insuffisances financières des associations, il sera alloué une dotation complémentaire de 400 312 euros au département de la Moselle. Enfin, le projet de Loi de Finances 2004 prévoit 8,92 millions d'euros supplémentaires pour les CHRS dont la répartition permettra de revaloriser les budgets des établissements.
