@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970700688
+
+- Question : [SEQ970700688](seq970700688.md) — Conditions de réalisation des contrôles de sécurité effectués sur les équipements de terrains de sport
+
+## Réponse
+
+*Intérieur, JO du 1997-10-09, page 2732*
+
+Réponse. - Le décret no 94-495 du 4 juin 1996 fixe les exigences de sécurité auxquelles doivent répondre les cages de buts de football, de handball, de hockey sur gazon et en salle et les buts de basket-ball. Ce texte n'a pas réservé la possibilité d'effectuer les essais de conformité de ces équipements à des organismes spécialement habilités dans le cadre d'une procédure d'agrément. Les conditions d'application du présent décret ont été précisées dans une note d'information datée du 23 décembre 1996, élaborée par la direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) d'où il ressort que les vérifications imposées par le décret, notamment à l'égard des propriétaires responsables de la mise à la disposition du public de ces équipements, peuvent être réalisés par eux-mêmes en interne ou pour tout organisme extérieur compétent. En l'absence, dans le texte du décret, de précisions concernant la périodicité de ces vérifications, celle-ci est laissée à l'appréciation des propriétaires des équipements mais doit être précisée dans leur plan d'entretien et de vérification. La note d'information, ci-dessus mentionnée, indique que cette périodicité peut être fonction de l'ancienneté des équipements et de leur lieu d'implantation. Dans le cadre de leur entretien, il est recommandé que les vérifications lourdes puissent être effectuées à intervalles réguliers (tous les deux ans par exemple) et que soient mises en place des vérifications plus simples de type examen visuel des équipements et essai manuel pour tester la solidité des fixations, de manière beaucoup plus fréquente (chaque mois par exemple).
