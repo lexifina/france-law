@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031109816
+
+- Question : [SEQ031109816](seq031109816.md) — Avenir de la cokerie de Carling
+
+## Réponse
+
+*Industrie, JO du 2004-03-11, page 605*
+
+Une conjoncture plus favorable aux cokes sidérurgiques, liée principalement à une diminution importante des importations d'origine chinoise, a amené des repreneurs à formuler des offres de reprise pour la cokerie de Carling. Dans ce cadre, et à la veille de l'arrêt de la production de coke sidérurgique de l'unité de Carling 2 initialement prévue au 15 décembre 2003, la ministre déléguée à l'industrie a été amenée à repousser l'arrêt de la production de cette unité pour permettre aux Houillères du bassin de Lorraine (HBL) d'analyser la valeur des offres proposées, d'engager des négociations pour trouver les meilleures garanties financières et économiques et d'organiser la consultation des partenaires sociaux pour une poursuite de l'activité. Après étude du dossier, la ministre déléguée à l'industrie vient de donner son accord à la proposition des HBL de signer un protocole de cession de l'activité de la cokerie de Carling à la société Rogesa installée à Dillingen (Sarre), filiale commune des sidérurgistes allemands Dillinger Hütte et Saarstahl, qui prévoit de poursuivre l'exploitation pour une durée d'au moins cinq ans. Cette opération est positive pour l'ensemble des parties dans la mesure où elle permettra de maintenir plus de huit cents emplois industriels à la fois sur la plate-forme de Carling, chez les fournisseurs et les sous-traitants de Moselle Est. Enfin, parmi les garanties apportées par le repreneur figure l'engagement de réaliser, à hauteur d'environ 18 millions d'euros, les investissements environnementaux nécessaires à la poursuite de l'activité de la cokerie, en application des textes en vigueur relatifs à l'eau et à l'air.
