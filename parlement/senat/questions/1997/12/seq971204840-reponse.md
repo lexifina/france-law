@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971204840
+
+- Question : [SEQ971204840](seq971204840.md) — Statut de la langue française dans les institutions internationales
+
+## Réponse
+
+*Culture, JO du 1998-02-05, page 389*
+
+Réponse. - Un bilan de la situation du français et des mesures prises en sa faveur est fourni dans le rapport que le Gouvernement remet au Parlement chaque année le 15 septembre sur l'application de la loi du 4 août 1994 relative à l'emploi de la langue française et sur le statut du français dans les organisations internationales. Les ministères chargés de la culture et des affaires étrangères vigilants sur le respect du statut du français langue officielle ou de travail dans les organisations multilatérales gouvernementales, et la France, par l'intermédiaire de nos représentations permanentes, intervient en cas de manquement au régime juridique des langues ou de délai exagéré des traductions. S'agissant de l'organisation du commerce international (OMC), le nombre des membres s'est considérablement accru, non seulement par rapport à celui des membres originels du Gatt de 1947 (23 membres), mais aussi comparé au nombre de membres de l'OMC à sa date d'entrée en vigueur (76 membres au 1er janvier 1995). Les contributions de nombre de ces membres sont initialement rédigées en langue anglaise et doivent faire l'objet d'une traduction en langues espagnole et française. Le secrétariat de l'OMC s'efforce prioritairement d'accélérer les délais de traduction des documents de négociation - afin de permettre un examen aussi rapide que possible par les gouvernements - ainsi que des textes des accords soumis à ratification. La traduction en langues espagnole et française du bulletin d'information Focus n'est pas soumise à un même degré d'urgence : sa parution fait l'objet d'un délai de trois à quatre mois.
