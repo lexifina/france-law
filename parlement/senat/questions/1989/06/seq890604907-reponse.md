@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890604907
+
+- Question : [SEQ890604907](seq890604907.md) — Financement des communes de 3 500 à 20 000 habitants
+
+## Réponse
+
+*Intérieur, JO du 1989-09-21, page 1553*
+
+Réponse. - Un des objectifs principaux de la loi du 3 janvier 1979 instituant la dotation globale de fonctionnement était de mettre en place des mécanismes de péréquation instituant une plus grande solidarité entre les communes et tenant compte des situations spécifiques. La loi du 29 novembre 1985, fruit d'une large concertation avec les partenaires locaux, a affiné cet objectif d'adéquation des ressources aux charges par trois innovations majeures : la création d'une dotation de base destinée à tenir compte des charges liées à l'importance de la population, qui représente 40 p. 100 de la D.G.F. après déduction des concours particuliers et de la garantie d'évolution ; la redéfinition de la dotation de péréquation par la prise en compte de la richesse fiscale des communes, mesurée désormais par le coefficient d'effort fiscal associé au potentiel fiscal et par la création d'une fraction Revenu imposable destinée à tenir compte de l'insuffisance du revenu par habitant (respectivement 30 p. 100 et 7,50 p. 100 de la D.G.F.) ; la création d'une dotation de compensation (22,5 p. 100 de la D.G.E.) assise sur trois critères traduisant des besoins essentiels des communes : le nombre d'élèves relevant de l'enseignement obligatoire et préélémentaire, domiciliés dans la commune (20 p. 100 de cette dotation) ; la longueur de la voirie classée dans le domaine public communal (20 p. 100) ; le nombre de logements sociaux (60 p. 100). Les communes de 3 500 à 20 000 habitants sont globalement les plus favorisées par le jeu de ces critères. Ainsi, pour l'année 1989, ce sont ces communes dont la D.G.F. a le plus progressé (plus de 10 p. 100 et notamment celles de 7 500 à 15 000 (plus de 11 p. 100).
