@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970903076
+
+- Question : [SEQ970903076](seq970903076.md) — Formation des médecins aux tests génétiques
+
+## Réponse
+
+*Santé, JO du 1998-02-26, page 683*
+
+Réponse. - Afin de se prémunir contre les risques évoqués par l'honorable parlementaire, les articles L. 145-15-1 et L. 145-16, qui traitent respectivement de l'examen des caractéristiques génétiques des personnes et de l'identification par empreinte génétique des personnes à des fins médicales, ont prévu qu'un décret en Conseil d'Etat devait venir encadrer la réalisation et, selon le cas, la prescription de ces examens. Le projet de décret correspondant a été préparé dans le cadre d'un groupe de travail réunissant les principaux experts français de la génétique. Ce texte, qui sera prochainement soumis au Conseil d'Etat, prévoit d'encadrer la réalisation de ces examens qui ne pourront être pratiqués que par des praticiens agréés intervenant dans des structures spécifiquement autorisées. En outre, seuls des praticiens spécialisés, intervenant dans le cadre d'une équipe pluridisciplinaire dûment déclarée, pourront prescrire ces examens à des personnes ne présentant aucun symptôme. Ces dispositions visent notamment à favoriser une information complète et de qualité des personnes susceptibles de subir ces tests, sur la maladie recherchée et sur ses caractéristiques de développement et de prise en charge. Il s'agit également, au travers de ce dispositif, de s'assurer des conditions et de la qualité de l'information accompagnant la communication des résultats, résultats dont le patient peut refuser de prendre connaissance, et, principalement, d'éviter toute dérive éthique dans un domaine particulièrement sensible puisque touchant à l'intimité de la personne humaine. La généralisation de ces examens dans le but de dépister la prédisposition à certains cancers n'est pas envisagée.
