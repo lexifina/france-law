@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010935007
+
+- Question : [SEQ010935007](seq010935007.md) — Redevances d'assainissement non collectif
+
+## Réponse
+
+*Intérieur, JO du 2002-03-28, page 927*
+
+La loi n° 92-3 du 3 janvier 1992 sur l'eau a étendu le service public de l'assainissement au contrôle des systèmes d'assainissement non collectif, ainsi qu'à titre facultatif à leur entretien. Dans ce cadre, les collectivités territoriales délimitent sur leur territoire les zones relevant de l'assainissement non collectif, conformément aux dispositions de l'article L. 2224-10 code général des collectivités territoriales (CGCT). Le service public de l'assainissement non collectif est financièrement géré comme un service à caractère industriel et commercial (article L. 2224-11 du CGCT) et doit donc être équilibré en recettes et dépenses. L'usager assure donc à titre principal le financement du service, par le versement de la redevance d'assainissement. Le régime juridique de celle-ci est défini aux articles R. 2333-121 à R. 2333-132 du CGCT, et en particulier à l'article R. 2333-126 s'agissant de la redevance d'assainissement non collectif. Prix d'un service rendu, la tarification du service constitue la contrepartie réelle des prestations fournies à chaque catégorie d'usagers (CE, 6 mai 1996, district de Montreuil-sur-Mer). Dès lors, si la collectivité territoriale doit bien instituer la redevance d'assainissement non collectif à la mise en place du service, l'usager ne peut toutefois être tenu à son versement qu'à la réalisation effective du contrôle ou de l'entretien de son installation. Il convient ici de rappeler que la mise en place des services d'assainissement non collectif n'est pas subordonnée à la réalisation des opérations de délimitation définies à l'article L. 2224-10 du CGCT (CE, avis, 10 avril 1996, relatif aux dépenses d'assainissement non collectif prises en charge par les communes).
