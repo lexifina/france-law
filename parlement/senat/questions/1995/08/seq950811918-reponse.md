@@ -1,0 +1,9 @@
+# Réponse à la question SEQ950811918
+
+- Question : [SEQ950811918](seq950811918.md) — Développement des filières d'enseignement professionnel
+
+## Réponse
+
+*Éducation, JO du 1995-09-21, page 1820*
+
+Réponse. - Plusieurs décisions du nouveau contrat pour l'école visent à développer les formations en alternance et les enseignements professionnels. Elles s'articulent autour de trois grands objectifs : renforcer la voie professionnelle dans une logique de parcours cohérent allant du certificat d'aptitude professionnelle (CAP) au diplôme d'ingénieur. Plusieurs orientations ont été retenues : valoriser les baccalauréats professionnels ; multiplier les passerelles entre les formations ; développer des formations complémentaires courtes et adaptées à l'emploi pour les jeunes qui souhaitent entrer dans la vie active ; renforcer l'adaptation des formations notamment en précisant le rôle de l'entreprise dans la formation ; créer un haut comité de la formation professionnelle initiale pour consolider le dialogue avec le monde professionnel. Préparer l'insertion professionnelle notamment en développant l'information sur les débouchés et les voies de formation et en proposant une formation professionnelle qualifiante à tout jeune avant sa sortie du système éducatif. Mettre en oeuvre une éducation permanente : en développant les actions de formation continue des adultes ; en mettant en place à destination des jeunes comme des adultes des centres permanents leur apportant des réponses individualisées allant de la formation à la validation, des centres de bilan destinés à les aider à mieux définir leur projet professionnel et des centres de validation intervenant aux différentes étapes de leur parcours ; en proposant une école du soir aux adultes qui souhaitent une formation pour leur épanouissement personnel, culturel ou technique.
