@@ -1,6 +1,6 @@
 # Article 244 bis A
 
-I Sous réserve des conventions internationales, les personnes qui ne sont pas fiscalement domiciliées en France au sens de l'article 4 B, ou dont le siège social est situé hors de France, sont soumises à un prélèvement d'un tiers sur les plus-values imposables en application de l'article 150 A et résultant de la cession d'immeubles, de droits immobiliers ou d'actions et parts de sociétés non cotées en bourse dont l'actif est constitué principalement par de tels biens et droits.
+I Sous réserve des conventions internationales, les personnes qui ne sont pas fiscalement domiciliées en France au sens de l'article 4 B, ou dont le siège social est situé hors de France, sont soumises à un prélèvement d'un tiers sur les plus-values et résultant de la cession d'immeubles, de droits immobiliers ou d'actions et parts de sociétés non cotées en bourse dont l'actif est constitué principalement par de tels biens et droits.
 
 L'impôt dû en application du présent article est acquitté lors de l'enregistrement de l'acte ou, à défaut d'enregistrement, dans le mois suivant la cession, sous la responsabilité d'un représentant désigné comme en matière de taxes sur le chiffre d'affaires (1) (2).
 
