@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880901756
+
+- Question : [SEQ880901756](seq880901756.md) — Allègement de la gestion des unions commerciales
+
+## Réponse
+
+*Économie, JO du 1989-01-26, page 141*
+
+Réponse. - L'article 206-I du code général des impôts soumet à l'impôt sur les sociétés les collectivités qui se livrent à une exploitation ou à des opérations de caractère lucratif. D'autre part, l'article 1447 du même code prévoit l'assujettissement à la taxe professionnelle des personnes physiques et morales qui exercent à titre habituel une activité professionnelle non salariée. Une jurisprudence constante considère ces dispositions comme applicables aux collectivités qui ont pour objet de faciliter l'exercice de l'activité professionnelle de leurs membres. Tel est le cas des unions de commerçants constituées sous la forme d'associations, dont la mission essentielle est de déveloper les échanges commerciaux, ce qui permet d'accroître le volume d'activité de leurs membres. Il ne paraît pas possible d'exonérer les unions commerciales de taxe professionnelle ou d'impôt sur les sociétés ni d'alléger leur obligation de justifier le résultat déclaré dont le respect contribue à assurer une répartition équitable des charges publiques. Néanmoins, les plus petites d'entre elles, dont le chiffre d'affaires se maintient sous certaines limites, peuvent bénéficier des obligations déclaratives allégées que comporte le régime simplifié d'imposition. Par ailleurs, pour tenir compte du rôle actif joué par les unions commerciales dans la vie sociale locale, ces organismes sont exonérés par l'article 223 octies du code général des impôts de l'imposition forfaitaire annuelle. De ce fait, les unions commerciales qui ne retirent aucun bénéfice de leur activité ne subissent aucun prélèvement au titre de l'impôt sur les bénéfices.
