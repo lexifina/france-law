@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970600112
+
+- Question : [SEQ970600112](seq970600112.md) — Procédure utilisée par la Société nationale des chemins de fer français pour l'attribution des marchés de travaux des gares nouvelles du TGV Sud-Est
+
+## Réponse
+
+*Équipement, JO du 1997-09-18, page 2473*
+
+Réponse. - La SNCF, établissement public à caractère industriel et commercial non doté d'un comptable public, n'est pas soumise aux règles de passation des marchés définies dans les livres II à V du code des marchés publics. Toutefois, elle se doit d'appliquer les dispositions communautaires relatives aux marchés de travaux, de service et de fournitures, notamment la directive 90-531 CE du 17 septembre 1990, traduite en droit français par la loi no 92-1282 du 11 décembre 1992 et le décret no 93-990 du 3 août 1993, ainsi que la directive 93-38 CE de juin 1993. La procédure de passation des marchés du TGV-Méditerranée est bien celle de la procédure négociée mais avec cependant une mise en concurrence préalable. Cette procédure se déroule selon les étapes suivantes : information à l'intention des entreprises détentrices d'une qualification SNCF ou équivalente (Qualibat, FNTP,...) par l'intermédiaire d'un avis périodique indicatif au Journal officiel des communautés européennes (JOCE), cet avis est paru pour les lots des gares TGV-Méditerranée en mars 1997 ; appel à candidatures proprement dit publié, lui aussi, au JOCE ; envoi du dossier de consultation aux entreprises répondant aux critères requis ; négociation et mise au point de l'offre avec le candidat le mieux disant. Tel est donc le choix de procédure effectué par la direction de la SNCF, en vue de conserver la souplesse nécessaire pour adapter les contrats à la complexité des opérations. Enfin, à la lumière des informations disponibles à l'heure actuelle, le montant effectif des travaux ne semble pas dépasser les prévisions de la SNCF.
