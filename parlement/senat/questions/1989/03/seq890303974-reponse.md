@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890303974
+
+- Question : [SEQ890303974](seq890303974.md) — Etude sur les nouvelles perspectives d'utilisation des terres agricoles
+
+## Réponse
+
+*Aménagement du territoire, JO du 1989-10-26, page 1749*
+
+Réponse. - L'étude à laquelle se réfère l'honorable parlementaire a permis de confirmer que, si l'espace rural français a profondément évolué ces derniéres années, cette évolution résulte d'un processus complexe qui ne peut se résumer à la simple progression d'un usage du sol aux dépens d'un autre ; de multiples usages se partagent en effet le territoire et cette évolution est le fruit de nombreux échanges entre les diverses utilisations du sol qui se produisent dans le même temps, mais dans des lieux différents. L'ensemble des mouvements est donc difficile à saisir ; toutefois, certains usages, caractérisés par leur irréversibilité quasi totale à court terme, comme l'urbanisation, les infrastructures lourdes ou la forêt, sont marqués par un développement continu. Celui-ci s'exerce au détriment de l'espace agricole qui régresse continuellement au moins depuis la Seconde Guerre mondiale, mais également des terres en friches elles-mêmes consommées par la forêt. Cependant, la France reste encore un pays très rural avec 57 p. 100 de la superficie de son territoire occupés par des terres labourables et des prairies, une faible part étant consacrée à la vigne, aux vergers et aux jardins familiaux ; c'est donc largement un pays agricole et également forestier (27 p. 100 du territoire). Dans le mouvement de consommation des espaces agricoles, la superficie agricole utilisée (S.A.U.) n'a pas diminué au bénéfice des friches au cours de ces cinq dernières années mais à celui de l'urbanisation et les friches elles-mêmes ont régressé à l'avantage de l'habitat et de la forêt.
