@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021204572
+
+- Question : [SEQ021204572](seq021204572.md) — Calcul du coût de fourniture et de pose d'égout évoqué à l'article L. 1331-7 du code de la santé publique
+
+## Réponse
+
+*Santé, JO du 2004-06-03, page 1211*
+
+L'article L. 1331-7 du code de la santé publique dispose que : " Les propriétaires des immeubles édifiés postérieurement à la mise en service de l'égout auquel ces immeubles doivent être raccordés peuvent être astreints par la commune, pour tenir compte de l'économie par eux réalisée en évitant une installation d'évacuation ou d'épuration individuelle réglementaire, à verser une participation s'élevant au maximum à 80 % du coût de fourniture et de pose d'une telle installation. Une délibération du conseil municipal détermine les conditions de perception de cette participation ". La circulaire d'application du décret n° 67-945 du 24 octobre 1967 relatif à l'institution, au recouvrement et à l'affectation des redevances dues par les usagers des réseaux d'assainissement et des stations d'épuration ne faisait pas mention de modalités particulières pour fixer les modes de calcul des prix de revient des installations d'évacuation ou d'épuration individuelle réglementaires. La circulaire qui doit préciser les modalités d'application du nouveau décret n° 2000-237 du 13 mars 2000 concernant les redevances d'assainissement codifié aux articles R. 2333-121 à R. 2333-132 du code général des collectivités territoriales, en cours d'élaboration par les ministères chargés de l'intérieur et de l'environnement, devrait remédier à cette lacune. Il s'agira de prendre sur le territoire concerné comme référence le coût d'achat et de pose d'une installation d'assainissement non collectif simple composée d'une fosse toutes eaux et d'un épandage par le sol qui servira de référence pour l'application de l'article L. 1331-7 du code de la santé publique.
