@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890203594
+
+- Question : [SEQ890203594](seq890203594.md) — Discussions relatives à un programme d'assainissement de la cale
+
+## Réponse
+
+*Équipement, JO du 1989-08-24, page 1329*
+
+Réponse. - La question longtemps débattue d'une action coordonnée au plan communautaire pour remédier à la surcapacité structurelle de la flotte fluviale a progressé de façon décisive le 14 mars dernier. C'est à cette date en effet que, moyennant certains amendements et en particulier la possibilité conditionnelle pour les Etats de traiter spécifiquement leurs bateaux d'une capacité inférieure à 450 tonnes, le conseil des ministres européens des transports s'est accordé sur le projet de règlement qui lui était soumis. Le texte a aussitôt après été mis au point selon la procédure requise. Tout comme le règlement d'application de la commission auquel il renvoie, il a été adopté et publié au Journal officiel des Communautés européennes respectivement les 27 et 28 avril. A ainsi pu prendre effet dès le 1er mai dernier la mesure dite " du vieux pour neuf " dissuasive dès lors que des capacités nouvelles voudront désormais être introduites sur le marché. Quant à l'action d'élimination de cale proprement dite, elle débutera le 1er janvier 1990, après que chaque Etat membre concerné aura pris dans l'intervalle les dispositions nationales qui lui incombent. Cette opération a pour objectif d'éliminer dès 1990 par des primes de déchirage incitatives environ 10 p. 100 du parc des bateaux à cargaison sèche et des pousseurs et 15 p. 100 de celui des bateaux-citernes. Les sommes nécessaires seront dans un premier temps préfinancées par les Etats membres concernés, puis progressivement récupérées sans intérêt auprès des transporteurs au moyen de cotisations à percevoir pendant une période de dix ans.
