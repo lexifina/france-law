@@ -1,0 +1,9 @@
+# Réponse à la question SEQ031109930
+
+- Question : [SEQ031109930](seq031109930.md) — Signalisation en français aux jeux Olympiques d'Athènes
+
+## Réponse
+
+*Sports, JO du 2003-12-18, page 3661*
+
+Le ministre des sports est très sensible à la question de l'engagement dans la francophonie et au rayonnement du français comme langue de communication, en particulier dans les organisations internationales. C'est pourquoi un dispositif de soutien au français, langue olympique, a été élaboré dans le respect de l'article 27 de la charte olympique, en réponse aux carences de son utilisation constatées lors des jeux Olympiques de Lillehammer en 1994. Un groupe de travail interministériel, auquel participent le ministère des affaires étrangères et le ministère de la culture et de la communication, a été mis en place depuis les jeux Olympiques d'Atlanta en 1996 et il a continué à se réunir pour la préparation de tous les jeux ultérieurs. Une convention, signée régulièrement entre le comité d'organisation des jeux et le gouvernement français, fixe les conditions de la collaboration entre les deux parties ; elle est assortie d'un programme d'actions. Les éléments principaux en sont la publication d'un lexique bilingue (ou trilingue) des termes sportifs, et la mise à disposition, auprès du comité d'organisation, de stagiaires d'écoles de traduction et d'interprétation venant renforcer les équipes de traduction des comités et celles qui forment au français les membres du comité d'organisation. Les résultats obtenus sont très encourageants et ont été salués très favorablement par les " grands témoins ", personnalités extérieures désignées pour effectuer un bilan critique de l'utilisation du français lors du déroulement des Jeux olympiques. Ce dispositif est, naturellement, mis en place pour les prochains jeux Olympiques d'Athènes en 2004, avec le soutien actif, sur place, de l'ambassade de France et de l'Institut français d'Athènes.
