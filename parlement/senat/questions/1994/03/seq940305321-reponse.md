@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940305321
+
+- Question : [SEQ940305321](seq940305321.md) — Utilisation de fréquences hertziennes dévolues aux forces armées
+
+## Réponse
+
+*Défense, JO du 1994-05-05, page 1091*
+
+Réponse. - Les forces armées, en partage avec l'aviation civile, utilisent la bande de fréquences 960-1215 MHz réservée, dans le monde entier, à l'utilisation et au développement d'aides électroniques à la navigation aéronautique. Cette bande de fréquences à été perturbée en France par des émissions provenant de radios privées qui recevaient des autorisations d'émettre dans les bandes de radiodiffusion sans que leur soient assignées de fréquences pour les liaisons entre studios et émetteurs. Radio Vibration a ainsi utilisé la partie inférieure de la bande 960-1215 MHz réservée aux systèmes de navigation essentiels pour la sécurité et l'exécution des missions des aéronefs militaires. Les besoins civils croissants en systèmes de radiocommunication ont conduit les forces armées à dégager des portions importantes du spectre qu'elles utilisaient. Elles ne disposent dès lors plus de la souplesse qui leur permettait jusqu'à présent de cohabiter avec des utilisateurs non autorisés. C'est pourquoi il n'est pas envisagé d'autoriser des radios privées à utiliser, même à titre dérogatoire, la bande de fréquence 960-1215 MHz. Les radios privées qui continuent de perturber la bande de fréquence 960-1215 MHz pour assurer leurs liaisons, doivent prendre conscience qu'elles peuvent mettre ainsi en péril la vie d'équipages et de passagers d'aéronefs ainsi que des populations au sol. Le ministre d'Etat, ministre de la défense ne peut qu'inviter Radio Vibration à mettre en oeuvre les solutions techniques dégagées par le conseil supérieur de l'audiovisuel permettant aux radios locales l'utilisation des faisceaux hertziens dans la bande 8,5 GHz.
