@@ -1,0 +1,15 @@
+# Délibération portant avis sur la mise en place par le ministère des Affaires sociales et de l'Emploi d'un traitement relatif à la gestion d'un fichier concernant les objecteurs de conscience
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 87-102
+- Date : 1987-10-27
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017654075
+
+La Commission Nationale de l'Informatique et des Libertés, Vu la Convention du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel ; Vu la loi n° 78-17 du 6 janvier 1978 relative à l'Informatique, aux Fichiers et aux Libertés ; Vu le code du service national, et notamment les articles L116-1 à 8 et R227-10 à 20 ; Vu le décret n° 78-774 du 17 juillet 1978 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés ; Vu le projet d'acte réglementaire présenté par le Ministère des Affaires Sociales et de l'Emploi ; Après avoir entendu Monsieur Michel MONEGIER DU SORBIER, Commissaire, en son rapport et Madame Charlotte-Marie PITRAT, Commissaire du Gouvernement, en ses observations ;
+
+Considérant que l'article R227-2 du code du service national charge le Ministère des Affaires Sociales et de l'Emploi d'affecter les jeunes gens admis au bénéfice du statut des objecteurs de conscience, "dans des administrations de l'Etat ou des collectivités locales "ou de les mettre" à la disposition d'organismes à vocation sociale ou humanitaire assurant une mission d'intérêt général" ; Considérant que le traitement qui est soumis à l'examen de la Commission correspond à la mission confiée au Ministère des Affaires Sociales et de l'Emploi ; Considérant que les informations collectées sont adéquates, pertinentes et non excessives par rapport à la finalité pour laquelle elles sont collectées ; Considérant que l'article 31 de la loi du 6 janvier 1978 interdit sauf accord exprès de l'intéressé, de mettre ou de conserver en mémoire informatisée des données nominatives faisant apparaître les origines raciales ou les opinions politiques, philosophiques ou religieuses ou les appartenances syndicales des personnes ; Considérant que l'information "objecteur de conscience" relevant de l'article 31 de cette même loi, il appartient au Ministère des Affaires Sociales et de l'Emploi de demander l'accord exprès des intéressés, pour collecter les informations les concernant ou de proposer à la Commission un décret prévu par l'article 31 alinéa 3 de la loi du 6 janvier 1978. Considérant que les mesures de sécurité prises par le Ministère des Affaires Sociales et de l'Emploi paraissent satisfaisantes ;
+
+Emet un avis favorable au projet d'arrêté relatif à l'informatisation de la gestion du service national des objecteurs de conscience sous les réserves précédemment indiquées concernant les sanctions disciplinaires et l'application de l'article 31 de la loi du 6 janvier 1978. Pour Le Président, Jacques FAUVET. Louise CADOUX, Vice-Président délégué
