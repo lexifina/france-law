@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970702160
+
+- Question : [SEQ970702160](seq970702160.md) — Programme d'équipements de proximité
+
+## Réponse
+
+*Jeunesse, JO du 1997-11-27, page 3317*
+
+Réponse. - Le programme d'équipements sportifs de proximité relève à ce jour de la délégation interministérielle à la ville. Celle-ci gère un fonds interministériel ville (FIV) d'intervention constitué par transfert de moyens des ministères contribuant à la politique de la ville, dont le ministère de la jeunesse et des sports. Pour 1997, la contribution du ministère de la jeunesse et des sports au FIV s'élève à 33 MF. Mais aucune enveloppe financière n'a été, a priori, individualisée au sein de ces crédits FIV, normalement déconcentrés au niveau départemental, afin de poursuivre la concrétisation de la mesure d'équipements sportifs de proximité prévue en 1994 par le pacte de relance de la ville. La contribution du ministère de la jeunesse et des sports au FIV sera reconduite pour 1998. Les décisions d'affectation de ces crédits relèveront de la Délégation interministérielle sur la base des orientations gouvernementales. Mme la ministre de l'emploi et de la solidarité souhaite que soient dessinées de nouvelles perspectives pour la politique de la ville. Pour ce faire, elle a confié une mission d'analyse et de proposition à M. Jean-Pierre Sueur, maire d'Orléans. Après remise du rapport de celui-ci fin janvier 1998, seront examinées en concertation interministérielle à laquelle participera le ministère de la jeunesse et des sports, les formes que pourraient prendre de nouveaux programmes territoriaux. Ce sera l'occasion pour la ministre de la jeunesse et des sports de proposer que soient relancés des programmes d'équipements sportifs de proximité en milieu urbain et en milieu rural, qui peuvent passer par la réhabilitation du parc existant.
