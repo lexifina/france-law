@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990617249
+
+- Question : [SEQ990617249](seq990617249.md) — Octroi de l'honorariat aux anciens élus
+
+## Réponse
+
+*Intérieur, JO du 1999-08-19, page 2824*
+
+Réponse. - L'article L. 2122-35 du code général des collectivités territoriales permet de conférer l'honorariat aux anciens maires, maires délégués et adjoints qui ont exercé des fonctions municipales pendant au moins dix-huit ans dans la même commune. Les intéressés doivent donc avoir cessé d'exercer les fonctions précitées, mais rien ne s'oppose à ce qu'ils continuent d'exercer celles de conseiller municipal ou à ce qu'ils conservent l'honorariat s'ils se trouvent réélus maire, maire délégué ou adjoint. Par ailleurs, pour le décompte des dix-huit ans de fonctions municipales, sont prises en compte non seulement les fonctions de maire, de maire délégué ou d'adjoint, mais encore celles de conseiller municipal dès lors que, à un moment quelconque, les intéressés ont exercé les fonctions de maire, de maire délégué ou d'adjoint. Cette disposition se justifie par le souci de faire bénéficier les magistrats municipaux, qui sont à la fois élus et agents de l'Etat dans la commune, d'un avantage accordé à des fonctionnaires au moment où ils cessent leur activité. Le Gouvernement n'envisage pas de modifier la législation actuelle pour que l'honorariat puisse être conféré aux anciens conseillers régionaux et généraux, puisque ceux-ci ne sont jamais appelés à intervenir au nom de l'Etat. Une telle mesure ferait en effet double emploi avec les dispositions réglementaires, instituées par le décret nº 87-594 du 22 juillet 1987 modifié, relatives à la médaille d'honneur régionale, départementale et communale ; celle-ci, dont peuvent bénéficier, notamment, les titulaires et anciens titulaires de mandats électifs des régions, départements et communes, est attribuée par le préfet du département de résidence sous condition d'une durée de services équivalente à au moins vingt ans.
