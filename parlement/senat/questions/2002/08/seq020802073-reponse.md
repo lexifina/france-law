@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020802073
+
+- Question : [SEQ020802073](seq020802073.md) — Réforme du statut des enseignants en poste à l'étranger
+
+## Réponse
+
+*Coopération, JO du 2002-11-07, page 2631*
+
+Le décret n° 2002-22 du 4 janvier 2002, ainsi que 8 arrêtés pris le même jour et publiés le 6 janvier 2002 au Journal officiel de la République française fixent le cadre de la réforme du statut des personnels des établissements français à l'étranger relevant de l'agence pour l'enseignement français à l'étranger. Celle-ci améliore de façon sensible la situation des personnels résidents en leur accordant désormais, outre leur traitement brut, l'indemnité de suivi et d'orientation des élèves (ISOE) et les indemnités et avantages statutaires prévus par la réglementation en vigueur dans les établissements relevant en France du ministère de l'éducation nationale et dont un arrêté du ministre des affaires étrangères et du ministre chargé du budget a prévu l'application à l'étranger : une indemnité spécifique liée aux conditions de vie locale (ISVL) ; le cas échéant, un avantage familial attribué en lieu et place de ceux accordés aux personnels en service en France et dont le montant est fixé à 40 % de celui des majorations accordées aux personnels expatriés ; les heures supplémentaires des enseignants du second degré, précédemment servies par les établissements et désormais versées par l'agence ; les indemnités de jury et d'examens. L'ensemble de ces émoluments est servi par l'agence devenue seul employeur des personnels résidents. La réforme est mise en place au 1er septembre 2002. 3500 résidents ont signé une lettre d'accord aux conditions du nouveau décret et se voient proposer un contrat conforme à celui-ci. L'ISVL ainsi que l'avantage familial leur seront versés fin septembre. La complexité de la législation américaine a conduit à un report de cette réforme aux Etats-Unis (cf. décret n° 2002-1002 du 17 juillet 2002).
