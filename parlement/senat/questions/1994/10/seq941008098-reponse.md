@@ -1,0 +1,9 @@
+# Réponse à la question SEQ941008098
+
+- Question : [SEQ941008098](seq941008098.md) — Places de stationnement réservées en priorité aux habitants d'immeubles collectifs
+
+## Réponse
+
+*Équipement, JO du 1994-12-15, page 2971*
+
+Réponse. - En matière de réalisation d'aires de stationnement de véhicules, la législation de l'urbanisme ne peut avoir pour effet que de permettre aux autorités locales compétentes de prescrire si nécessaire dans le règlement d'un plan d'occupation des sols, la réalisation des places de stationnement correspondant aux opérations de construction. Il est regrettable de constater que, dans la pratique, les aires de stationnement ne sont pas toujours attribuées prioritairement aux habitants d'immeubles collectifs pour lesquels elles ont été réalisées et qu'elles soient vendues indépendamment des appartements et parfois même avant, à des personnes étrangères à la copropriété. Les véhicules des occupants des bâtiments concernés sont alors contraints de stationner sur la voie publique avec toutes les difficultés que cela peut entraîner. Mais cette situation ne saurait ressortir de la réglementation de l'urbanisme qui n'a pas pour objet de contrôler les opérations privées de vente ou de location des aires de stationnement, que ce soit à l'occasion de la commercialisation de logements neufs ou de logements anciens. Les opérations de vente sont libres et les constructeurs ou les marchands de biens peuvent trouver, dans certains cas, plus efficace et plus avantageux de commercialiser séparément les logements et les aires de stationnement. D'ailleurs, les véhicules qui occupent ces places auraient vraisemblablement occupé la voie publique et, par conséquent, le fait que ces places soient vendues à des personnes extérieures à l'immeuble n'engorge pas nécessairement davantage la voie publique.
