@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890103137
+
+- Question : [SEQ890103137](seq890103137.md) — Réforme du code des assurances
+
+## Réponse
+
+*Économie, JO du 1989-03-16, page 444*
+
+Réponse. - L'adaptation de l'assurance française au marché unique européen passe par une modernisation institutionnelle réglementaire. A cette fin, un projet de loi réformant le code des assurances sera déposé au cours de la session de printemps. Ce projet de loi permettra d'introduire dans le droit interne les récentes directives européennes, en particulier celle qui prévoit la libre prestation de services en assurances de dommages à compter du 1er juillet 1990. Le projet de loi dotera le secteur de l'assurance d'institutions de régulation et de contrôle adaptées à ses besoins, notamment par la création d'une commission de contrôle des assurances, indépendante par son statut et dotée de pouvoirs de sanction élargis. La réglementation du mutualisme d'assurance sera adaptée : après avoir été autorisées à émettre des titres participatifs, les sociétés d'assurance mutuelles pourront constituer des unions afin de se développer et de se restructurer comme elles l'entendent. Le conseil national des assurances deviendra le lieu où se développera un dialogue constructif entre assureurs et usagers sur la prévention et le droit des contrats. En plus de l'abrogation de diverses dispositions devenues obsolètes dans le code des assurances, le projet de loi permettra d'anticiper des évolutions à venir, notamment en levant l'interdiction de souscrire des contrats libellés en devises, dans un premier temps pour l'assurance de dommages, puis pour l'assurance vie lorsque sera examinée la réforme de la fiscalité de l'assurance vie. Accompagné de la poursuite des efforts entrepris pour adapter la fiscalité de l'assurance, ce projet devrait permettre aux entreprises françaises d'assurance d'aborder dans de bonnes conditions l'ouverture des frontières européennes.
