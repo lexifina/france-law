@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010332080
+
+- Question : [SEQ010332080](seq010332080.md) — Inscription sur les listes électorales de candidats à leur insu
+
+## Réponse
+
+*Intérieur, JO du 2001-06-07, page 1925*
+
+L'honorable parlementaire attire l'attention du ministre de l'intérieur sur des faits qui auraient consisté à constituer des listes de candidats aux élections municipales en faisant appel à des personnes n'ayant pas la volonté de se présenter aux élections. Ces faits, lorsqu'ils ont été portés à la connaissance de l'administration, ne pouvaient permettre à celle-ci d'intervenir dans le processus électoral. Non seulement il est apparu difficile en si peu de temps d'établir avec certitude les faits compte tenu des allégations contradictoires, mais au surplus les pièces fournies, par exemple à l'occasion de contentieux, ont permis de constater que les exigences du code électoral en la matière avaient été respectées. Il convient de rappeler que les articles L. 264 et L. 265 prévoient que chaque candidat signe une déclaration collective. De même, chacun établit un mandat signé de lui confiant au responsable de liste le soin de faire ou de faire faire toutes déclarations et démarches utiles à l'enregistrement de la liste. Ces formalités, accompagnées de l'obligation de fournir certains documents officiels, sont de nature, sauf négligence ou inattention des personnes contactées, à éviter de telles pratiques. En l'occurrence, les pièces qui ont pu être consultées ne recélaient aucune ambiguïté quant à leur objet. Il ne fait pourtant guère de doutes que des personnes ont pu voir, par l'utilisation de procédés blâmables, leur confiance abusée ou leur consentement détourné aux termes d'échanges de paroles, mais l'ampleur de ce phénomène demande à être établie, notamment par les jugements des juridictions pénales lorsqu'elles ont été saisies, pour justifier une modification de la législation.
