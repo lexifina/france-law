@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701132
+
+- Question : [SEQ970701132](seq970701132.md) — Développement des structures d'accueil non traditionnelles de l'aide sociale à l'enfance
+
+## Réponse
+
+*Emploi, JO du 1997-10-02, page 2638*
+
+Réponse. - L'honorable parlementaire a appelé l'attention du secrétaire d'Etat à la santé sur le développement des structures d'accueil non traditionnelles dites " lieux de vie ", en marge de la loi no 75-535 du 30 juin 1975. Ces structures, qui ne disposent à ce jour d'aucune réglementation spécifique, se sont regroupées depuis plus de dix ans, notamment au sein du groupement d'étude et de recherche sur les pratiques en lieux de vie (GERPLA), lequel a participé aux travaux menés par le ministère de l'emploi et de la solidarité en vue de définir un cadre juridique précis propre aux lieux de vie. Ce cadre juridique national est attendu dans les meilleures délais pour faciliter le travail des services qui y ont recours. Les structures d'accueil non traditionnelles dites lieux de vie - lieux d'accueil sont devenues partie intégrante du champ social. Elles poursuivent des missions qui correspondent à celles définies à l'article 1er de la loi " sociale " no 75-535 du 30 juin 1975. Leur vocation est en effet de mener à titre permanent et principal des actions à caractère social ou médico-social. Elles accueillent et hébergent des mineurs ou des adultes qui requièrent une protection particulière. C'est pourquoi dans la perspective de la refonte de ce texte, il a paru opportun d'y intégrer ces structures et de prévoir une procédure d'autorisation adaptée à leur spécificité. Cette proposition, qui figure dans les conclusions du groupe de travail interministériel auquel ont participé les représentants des principaux réseaux de lieux de vie dont le GERPLA, sera examinée le moment venu.
