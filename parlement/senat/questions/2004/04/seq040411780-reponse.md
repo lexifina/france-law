@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040411780
+
+- Question : [SEQ040411780](seq040411780.md) — Procédure des appels d'offres pour les artisans
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 2004-05-27, page 1140*
+
+Le Gouvernement, conscient des enjeux que représente la commande publique pour les petites entreprises et les artisans, a adopté dans le cadre du nouveau code des marchés publics pris par décret n° 2004-15 du 7 janvier 2004 des mesures de simplifications visant à faciliter leur accès aux marchés publics. S'agissant de la constitution des dossiers de candidatures des entreprises soumissionnaires à un appel d'offres, l'article 45 prévoit désormais que l'entreprise est tenue de produire, au titre de ses obligations de régularité sociale et fiscale, une simple déclaration sur l'honneur, datée et signée pour justifier qu'elle a satisfait à ses obligations en ces domaines. Les entreprises n'ont plus, désormais, l'obligation de se procurer, préalablement à la remise de leur offre ou de leur candidature, les attestations requises auprès des administrations fiscales et sociales. Seule l'entreprise qui sera retenue devra produire les attestations et certificats délivrés par les administrations et organismes compétents prouvant qu'elle a satisfait à ses obligations. Par ailleurs, l'arrêté du 26 février 2004 pris en application de l'article 45 du code définit limitativement les pièces qui peuvent être demandées par les acheteurs publics, afin d'éviter toute demande superflue de documents dans le cadre des procédures d'appels d'offres. Enfin, l'article 52 du nouveau code permet expressément à l'acheteur public de donner un délai supplémentaire de dix jours aux candidats pour compléter leur dossier de candidature et régulariser ainsi, a posteriori, les manques qui ont pu être constatés par la personne publique lors de l'ouverture des plis dans le cadre de la procédure d'appel d'offres.
