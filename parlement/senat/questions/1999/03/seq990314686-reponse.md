@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990314686
+
+- Question : [SEQ990314686](seq990314686.md) — Création dans plusieurs grandes villes étrangères de centres dédiés aux nouvelles technologies de l'information
+
+## Réponse
+
+*Affaires étrangères, JO du 1999-05-20, page 1665*
+
+Réponse. - La civilisation numérique bouleverse l'économie et les méthodes de création. Dans ce secteur où la France dispose de véritables compétences et de pôles d'excellence dans la compétition mondiale, l'action publique en faveur de la création se doit d'inventer de nouveaux instruments. Dans ce contexte, le député Patrick Bloche a ainsi proposé d'imaginer les " villas Médicis " du XXIe siècle pour accueillir sur concours des créateurs utilisant les nouvelles technologies de l'information et de la communication dans des domaines différents tels que les nouvelles formes d'écriture et l'édition numérique, l'infographie et les images virtuelles, les spectacles vivants ou la musique. A l'heure du développement de la communication et des réseaux, l'enjeu principal de ce projet sera l'articulation entre des implantations physiques et des activités délocalisées permises par les nouveaux moyens de transmission. Pour pousser au bout la métaphore des villas Médicis, on pourrait en ce sens rappeler l'existence des programmes " villas Médicis hors les murs ". Au sein de la direction générale de la coopération internationale et du développement (DGCID) du ministère des affaires étrangères, une mission pour les nouvelles technologies de l'information vient d'être mise en place. Son objectif principal est de renforcer et de soutenir la présence internationale de la France dans ce secteur des industries numériques. Elle a, à ce titre, engagé une concertation avec les autres administrations concernées pour déterminer les conditions de viabilité et de mise en uvre de ce projet.
