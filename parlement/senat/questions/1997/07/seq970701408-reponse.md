@@ -1,0 +1,9 @@
+# Réponse à la question SEQ970701408
+
+- Question : [SEQ970701408](seq970701408.md) — Création de directions des ressources humaines dans chaque rectorat
+
+## Réponse
+
+*Éducation, JO du 1997-09-04, page 2281*
+
+Réponse. - Une direction des ressources humaines a été mise en place dans chacune des académies, qui regroupent en moyenne de 3 à 4 départements. Les premiers résultats en matière de gestion qualitative des personnels sont évidemment différents selon les endroits et selon les priorités définies par chaque recteur. Ces résultats sont notamment sensibles et encourageants dans le domaine de l'accueil des personnels nouvellement nommés, dans celui des formations spécifiques aux fonctions d'encadrement, dans la mise en place de cellules de soutien aux personnels confrontés à des phénomènes de violence, ou se trouvant en situation de difficulté professionnelle. En ce qui concerne plus précisément la direction des ressources humaines du rectorat de l'académie de Lyon, un effort particulier a été fait pour permettre la reconversion professionnelle des enseignants. Ont été notamment aidés les professeurs de lycée professionnel qui doivent changer de discipline compte tenu de l'évolution des savoirs, ainsi que les professeurs qui se réorientent vers des fonctions administratives, et auxquels une formation adaptée est offerte par l'institut régional d'administration (IRA) de Lyon. Des actions tendant à développer la connaissance, la lecture et l'analyse des écrits administratifs ont également été organisées. D'une manière générale, une note de service du 26 mars 1997, publiée au Bulletin officiel du ministère de l'éducation nationale du 10 avril, a dressé le bilan des deux premières années de fonctionnement des directions des ressources humaines et tracé les grands axes de leur action à venir.
