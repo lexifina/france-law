@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860400455
+
+- Question : [SEQ860400455](seq860400455.md) — Déduction fiscale du salaire des conjoints d'artisans et de commerçants
+
+## Réponse
+
+*Budget, JO du 1986-06-19, page 848*
+
+Réponse. -Il est admis que le salaire versé au conjoint de l'exploitant individuel ou de l'associé d'une société de personnes mentionnée aux articles 8 et 8 ter du code général des impôts peut être intégralement déduit du bénéfice imposable de l'entreprise lorsque les époux sont mariés sous un régime exclusif de communauté, s'il correspond à un travail effectif et s'il n'est pas excessif compte tenu de l'importance du service rendu. Mais lorsque les époux sont mariés sous un régime non exclusif de communauté, la rémunération du travail du conjoint présente le caractère d'une affectation de bénéfice et non celui d'une charge d'exploitation déductible. En effet, dans cette situation, les époux sont liés par une étroite communauté d'intérêts ; dès lors, celui d'entre eux qui travaille dans l'entreprise de l'autre doit être regardé comme participant en fait à l'exploitation de cette entreprise et comme ayant vocation à la propriété d'une quote-part des résultats correspondants. Cependant, pour la détermination du bénéfice imposable de l'entreprise, la déduction du salaire du conjoint marié sous un régime non exclusif de communauté est autorisée, dans certaines limites, en application de l'article 154 du code général des impôts. Cette déduction est limitée à 17 000 francs ou à douze fois la rémunération mensuelle minimale prévue à l'article L. 141-11 du code du travail selon que l'exploitant ou la société n'adhère pas ou, au contraire, adhère à un centre de gestion agréé. Elle apparaît comme une exception au regard des principes de détermination du résultat imposable et constitue une mesure libérale en faveur des entreprises familiales.
