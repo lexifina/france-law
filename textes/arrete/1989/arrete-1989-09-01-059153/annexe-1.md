@@ -18,13 +18,37 @@ Préparateur en pharmacie de classe normale
 
 :5e : 416 : |
 
-:4e : 369 : |
+:4e : |
 
-:3e : 339 : |
+au 1er août 1990 : 374 |
 
-:2e : 306 : |
+au 1er août 1991 : 379 |
 
-:1er : 280 : |
+au 1er août 1992 : 386 |
+
+:3e : |
+
+au 1er août 1990 : 343 |
+
+au 1er août 1991 : 348 |
+
+au 1er août 1992 : 356 |
+
+:2e : |
+
+au 1er août 1990 : 311 |
+
+au 1er août 1991 : 317 |
+
+au 1er août 1992 : 326 |
+
+:1er : |
+
+au 1er août 1990 : 289 |
+
+au 1er août 1991 : 294 |
+
+au 1er août 1992 : 303 |
 
 ------------------------- |
 

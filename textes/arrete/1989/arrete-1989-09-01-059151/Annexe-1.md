@@ -14,13 +14,21 @@ Pédicure-podologue de classe normale
 
 :5e : 425 : |
 
-:4e : 375 : |
+au 1er août 1990 : |
 
-:3e : 339 : |
+:4e : 380 : |
 
-:2e : 306 : |
+au 1er août 1990 : |
 
-:1er : 274 : |
+:3e : 343 : |
+
+au 1er août 1990 : |
+
+:2e : 311 : |
+
+au 1er août 1990 : |
+
+:1er : 286 : |
 
 ===========================Pédicure-podologue de classe supérieure
 
