@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960716885
+
+- Question : [SEQ960716885](seq960716885.md) — Calendrier européen : télévision sans frontières
+
+## Réponse
+
+*Affaires européennes, JO du 1996-08-22, page 2132*
+
+Réponse. - L'honorable parlementaire a fait part au ministre délégué aux affaires européennes de ses préoccupations relatives au calendrier d'adoption de la directive révisée " télévision sans frontières ". Comme le rappelle l'honorable parlementaire, le Conseil a adopté le 11 juin dernier une position commune. La version définitive a été établie le 8 juillet par le secrétariat général du Conseil. Conformément à la procédure de l'article 189 B du traité, la position commune a été transmise au Parlement européen qui dispose de trois mois pour se prononcer. L'intérêt majeur de la procédure de codécision réside dans l'établissement d'un comité de conciliation paritaire réunissant les membres du Conseil et des représentants du Parlement. Le comité de conciliation peut être convoqué : par le Conseil si le Parlement indique, à la majorité des membres qui le composent, qu'il a l'intention de rejeter la position commune du Conseil ; ou par le président du Conseil, en accord avec le président du Parlement européen, si le Conseil ne peut accepter des amendements que le Parlement a proposés à la majorité des membres qui le composent. Si, dans un délai de six semaines après sa convocation, le comité de conciliation approuve un projet commun, le Parlement européen et le Conseil doivent confirmer, dans les six semaines qui suivent, ce projet commun à la majorité des suffrages exprimés. La procédure est donc complexe et longue et, compte tenu de la trêve estivale, il apparaît difficile d'aboutir avant la fin de l'année. Il convient de souligner cependant que la procédure de conciliation sera pour la France un moment privilégié pour faire valoir ses préoccupations.
