@@ -1,0 +1,9 @@
+# Réponse à la question SEQ990415467
+
+- Question : [SEQ990415467](seq990415467.md) — Hôpital des métallurgistes (Paris)
+
+## Réponse
+
+*Emploi, JO du 2000-01-06, page 46*
+
+Réponse. - L'honorable parlementaire appelle l'attention de la ministre de l'emploi et de la solidarité sur la situation de l'hôpital des métallurgistes à Paris. Cet établissement situé dans le 11e arrondissement de Paris est exclusivement obstétrical. Il a joué un rôle particulier dans l'histoire obstétricale française puisqu'il est à l'origine de l'accouchement psycho-prophylactique dans notre pays. Cette structure réalise environ 1 700 accouchements par an et son activité progresse. Toutefois, la maternité se trouve dans une situation difficile tant au plan de son équilibre économique que du financement de ses investissements. En effet, la maternité des Bluets a accumulé depuis plusieurs années les déficits. C'est pourquoi, depuis plus d'un an, l'agence régionale de l'hospitalisation et l'établissement recherchent ensemble une solution. L'hypothèse de travail proposée par l'agence régionale et étudiée par l'établissement vise à parvenir à apurer les déficits antérieurs en contrepartie d'un engagement à maîtriser les budgets futurs. En ce qui concerne l'investissement, l'établissement a besoin d'une extension et d'une rénovation majeures que l'agence régionale est prête à soutenir, même si cette rénovation dans les locaux actuels présente des difficultés. Les installations sont en effet réparties sur cinq niveaux. Cet éclatement, en raison de la taille modeste de la structure, n'apparaît pas véritablement fonctionnel. L'agence régionale de l'hospitalisation souhaite donc que l'établissement étudie une alternative à ce projet de rénovation. Il importe en effet de rechercher des solutions pérennes pour cette maternité dont ni l'existence, ni l'utilité ne sont remises en cause.
