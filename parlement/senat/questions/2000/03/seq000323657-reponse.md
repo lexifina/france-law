@@ -1,0 +1,9 @@
+# Réponse à la question SEQ000323657
+
+- Question : [SEQ000323657](seq000323657.md) — Jeunes exclus du monde du travail à la sortie de l'école
+
+## Réponse
+
+*Éducation, JO du 2000-10-05, page 3387*
+
+Réponse. - Le nombre de jeunes qui sortent du système scolaire sans formation qualifiante diminue régulièrement depuis l'instauration de la mission générale d'insertion renforcée par le programme " Nouvelles chances ". Grâce à ces dispositifs l'éducation nationale, en partenariat avec d'autres structures (missions locales par exemple) et d'autres organismes (PJJ, chambres consulaires) permet aux jeunes les plus en difficultés scolaires d'intégrer des voies de formation variées dont l'apprentissage. Afin de mieux prendre en compte les secteurs professionnels en développement, la définition de la carte des formations professionnelles, de la compétence des régions, est élaborée en prenant en considération les analyses des observatoires des branches professionnelles, des observatoires régionaux de l'emploi et de la formation, de l'insertion et des indicateurs fournis par l'éducation nationale. En outre, le développement de l'éducation à l'orientation, tant en lycée qu'en collège, permet à l'élève de découvrir progressivement le monde économique et les métiers. Cette découverte est renforcée par des programmes académiques ou départementaux qui montrent les qualités de l'enseignement professionnel et toutes les possibilités qu'il peut offrir en termes d'insertion et de déroulement de carrière. Les demandes d'orientation vers l'enseignement professionnel en fin de troisième progressent régulièrement (1 3 % entre 1996 et 1999) et concernent environ un élève sur trois au niveau national. Enfin, le développement de la formation tout au long de la vie et la validation des acquis professionnels permettent, à tout moment, pour un jeune ou un adulte de parfaire son adaptation au monde professionnel.
