@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980810150
+
+- Question : [SEQ980810150](seq980810150.md) — Bilan de l'action du Conseil national de la création d'entreprises
+
+## Réponse
+
+*Petites et moyennes entreprises, JO du 1998-10-29, page 3478*
+
+Réponse. - Installé en février 1997, le Conseil national de la création d'entreprise, présidé par le ministre en charge des petites et moyennes entreprise, du commerce et de l'artisanat, est composé de représentants des réseaux d'appui à la création d'entreprise, d'élus, de chefs d'entreprises, de représentants des ministères concernés et de diverses personnalités qualifiées, tous nommés par arrêté ministériel. Le CNCE est chargé d'identifier et de valoriser les voies et moyens de nature à favoriser la création et le développement d'entreprises pérennes en France. Le travail du Conseil national de la création d'entreprise s'effectue au travers de quatre commissions composées par ses membres. Pour la période 1997-1998 les thèmes abordés ont été l'esprit d'entreprise, l'information des créateurs, le financement et l'essaimage. Les premiers travaux du Conseil ont été remis à Mme la secrétaire d'Etat aux petites et moyennes entreprises, au commerce et à l'artisanat le 1er avril 1998. Les différentes propositions contenues dans ce premier rapport font actuellement l'objet d'une étude de faisabilité de la part des différents ministères et services concernés. Pour le second semestre 1998, le CNCE a été chargé par son président de travailler sur les thèmes de l'épargne de proximité en faveur de la création d'entreprise, la couverture territoriale des dispositifs d'appui et d'accompagnement, la procédure légale de l'essaimage et l'esprit d'entreprise chez les jeunes. L'Agence pour la création d'entreprises (APCE) assurant le secrétariat général du CNCE organise et anime ces groupes de travail et réalise les programmes annuels et pluriannuels définis par le conseil des commissions.
