@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030306585
+
+- Question : [SEQ030306585](seq030306585.md) — Contraintes au titre de la sécurité pour l'organisation des épreuves cyclistes
+
+## Réponse
+
+*Intérieur, JO du 2003-08-07, page 2545*
+
+L'honorable parlementaire appelle l'attention du ministre de l'intérieur, de la sécurité intérieure et des libertés locales sur les courses cyclistes organisées sur la voie publique. La sécurité des usagers de la route est l'une des priorités de l'action gouvernementale et inclut, bien évidemment, la sécurité des épreuves cyclistes. Ce domaine fait coexister trois catégories d'épreuves. Les plus importantes bénéficient d'une privatisation totale et temporaire de la voie publique et de la mise à disposition de forces de l'ordre, dont le coût est assuré par l'organisateur de l'épreuve dans la mesure où il s'agit d'un service " exceptionnel " qui dépasse les missions ordinaires assignées aux forces de l'ordre. Les compétitions de moindre importance bénéficient d'une priorité de passage et d'une présence allégée des forces de l'ordre. Sont alors utilisés par les organisateurs des " signaleurs ", généralement bénévoles, chargés d'indiquer aux autres usagers de la voie publique le déroulement d'une épreuve sportive. La circulaire NOR/INT/D93/00158 C du 22 juillet 1993 ne prévoit pas un nombre de signaleurs fixé a priori, mais laisse au préfet l'initiative d'en fixer le nombre, en concertation avec l'organisateur, en fonction des particularités locales. Enfin, les épreuves dépourvues de tout caractère compétitif ne sont pas réellement encadrées, dans la mesure où les cyclistes sont tenus de respecter intégralement le code de la route. Il n'est donc pas possible de limiter à la fois le nombre de signaleurs et les frais de police, puisque une baisse du nombre de signaleurs exigerait une présence plus importante des forces de l'ordre.
