@@ -1,0 +1,9 @@
+# Réponse à la question SEQ860400382
+
+- Question : [SEQ860400382](seq860400382.md) — Formation alternée
+
+## Réponse
+
+*Affaires sociales, JO du 1986-11-27, page 1646*
+
+Réponse. -La différence de chances pour l'emploi entre des jeunes dont la formation initiale peut être très diverse a conduit le Gouvernement dans le cadre du plan d'urgence à diversifier les mesures d'incitation à l'embauche. C'est ainsi que le décret n° 86-837 du 16 juillet 1986 publié au Journal officiel du 17 juillet 1986 prévoit que la durée des stages d'initiation à la vie professionnelle doit être " au minimum de trois mois et au maximum de six mois ". En outre, l'ordonnance n° 86-836 du 16 juillet 1986 relative à l'emploi des jeunes de seize à vingt-cinq ans permet l'entrée en stage, dès seize ans, des jeunes en supprimant les procédures de dérogation précédemment en vigueur. En ce qui concerne la mise en oeuvre du suivi des stagiaires, pour l'année 1986 et dans un souci de simplifications administratives, une seule convention est passée entre l'Etat représenté par le commissaire de la République du département et l'A.N.P.E., qui joue un rôle de coo rdination. A la suite de quelques interprétations restrictives de la circulaire citée, des instructions ont été adressées aux commissaires de la République afin qu'ils recherchent les organismes ayant vocation à assurer ce suivi et qu'ils en arrêtent la liste, celle-ci constituant la base de la convention Etat-A.N.P.E. Ces instructions insistent dans le même temps sur la nécessité de confier, en fonction de leurs capacités, la totalité du suivi de chaque jeune aux organismes figurant dans la liste. Ces précisions devraient permettre de mobiliser positivement tous les partenaires pouvant agir pour une insertion favorable des jeunes dans le marché du travail.
