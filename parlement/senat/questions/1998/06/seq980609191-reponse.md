@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980609191
+
+- Question : [SEQ980609191](seq980609191.md) — Alignement pour les gendarmes de l'indemnité de sujétions spéciales de police
+
+## Réponse
+
+*Défense, JO du 1998-07-23, page 2377*
+
+Réponse. - Les militaires retraités de la gendarmerie bénéficient, en application de l'article 131 de la loi de finances nº 83-1179 du 29 décembre 1983, de la prise en compte de l'indemnité de sujétions spéciales de police (ISSP) dans le calcul de leur pension de retraite. La jouissance de la majoration de pension prévue par cet article est différée jusqu'à cinquante-cinq ans. Toutefois, les personnels radiés des cadres ou mis à la retraite pour invalidité, ainsi que les ayants cause des militaires de la gendarmerie décédés avant leur admission à la retraite, peuvent prétendre immédiatement à cette majoration de pension. La comparaison de la situation des militaires de la gendarmerie avec celle d'autres personnels de la fonction publique ayant bénéficié de l'intégration d'une prime ou indemnité sur une durée plus courte ne doit pas s'exercer uniquement sur ce point. Il faut en effet tenir compte du fait que certaines dispositions du code des pensions civiles et militaires de retraite sont spécifiques aux militaires et souvent plus avantageuses. C'est ainsi qu'hormis le cas de radiation des cadres par limite d'âge, ou par suite d'infirmité, la possibilité est offerte aux officiers après vingt-cinq ans de service, et aux sous-officiers après quinze ans de service, d'obtenir la jouissance immédiate d'une pension. Le code des pensions civiles et militaires de retraite prend donc en compte la spécificité inhérente à la condition de militaire, y compris pour les gendarmes, et leur apporte des avantages particuliers dont il convient de tenir compte lorsqu'on établit des comparaisons entre la gendarmerie et d'autres personnels de la fonction publique.
