@@ -1,0 +1,9 @@
+# Réponse à la question SEQ981011421
+
+- Question : [SEQ981011421](seq981011421.md) — Fusion des contrats d'adaptation et de qualification
+
+## Réponse
+
+*Droits des femmes, JO du 1999-06-24, page 2144*
+
+Réponse. - L'honorable parlementaire s'interroge sur la fusion des contrats de qualification et des contrats d'adaptation. Le Gouvernement n'est pas favorable à cette proposition, en raison notamment : des finalités différentes de ces deux contrats : le contrat de qualification a pour objectif l'acquisition d'une qualification professionnelle reconnue (diplôme, titre homologué, certificat de qualification professionnelle, classification d'une convention collective), alors que le contrat d'adaptation ne vise que l'adaptation à un emploi ou à type d'emploi ; du régime de rémunération : les salaires versés aux jeunes en contrat de qualification peuvent, sous réserve du respect des minimas spécifiques prévus par la réglementation, être inférieurs au SMIC. La rémunération des bénéficiaires des contrats d'adaptation doit en revanche lui être supérieure. Il n'est donc pas envisagé de fusionner ni ces deux contrats ni d'autres dispositifs de formation en alternance. En revanche, le Gouvernement a l'intention, pour favoriser une plus grande professionnalisation des jeunes, de prendre dans le cadre de la future réforme de la formation professionnelle les mesures nécessaires pour donner tout leur sens aux formations professionnelles en alternance : en favorisant la complémentarité de l'alternance sous statut scolaire de l'apprentissage et des contrats d'insertion en alternance (contrat de qualification, d'adaptation et d'orientation) ; en consolidant l'échelon régional comme espace pertinent d'élaboration des politiques de formation professionnelle en alternance, pour viser une plus grande efficacité du dialogue entre l'Etat, la région et les partenaires sociaux.
