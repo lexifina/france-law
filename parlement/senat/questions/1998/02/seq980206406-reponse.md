@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980206406
+
+- Question : [SEQ980206406](seq980206406.md) — Rapports sexuels non protégés des personnes séropositives
+
+## Réponse
+
+*Santé, JO du 1998-06-18, page 1973*
+
+Réponse. - Le secrétaire d'Etat à la santé confirme à l'honorable parlementaire que l'article du Monde du 12 janvier 1998, fait référence à des évaluations effectuées à partir d'enquêtes épidémiologiques et sociologiques, régulièrement menées depuis de nombreuses années. Ces chiffres, sans pouvoir être confirmés, soulignent l'importance toujours actuelle de la prévention, malgré les efforts réalisés depuis plus de dix ans. La progression constante de l'usage du préservatif, en particulier chez les jeunes, est exemplaire de l'évolution des comportements : environ 80 % des jeunes utilisent le préservatif lors des premiers rapports sexuels. Un niveau élevé similaire est retrouvé chez les homosexuels et les usagers de drogue. Cependant, il reste donc des situations où des risques sont pris : pour cette raison, la prévention ne doit pas être relâchée. Les campagnes d'information se poursuivent dans les médias mais surtout, elles s'accompagnent d'actions de prévention, réalisées localement auprès de différents groupes et personnes. Ces actions sont menées par des associations qui, quotidiennement, jouent un rôle d'information et de soutien majeur. Parallèlement, la politique de dépistage est actuellement renforcée, afin d'inciter à un diagnostic et à un traitement les plus précoces possibles. En effet, le développement des multithérapies permet des progrès importants, en particulier si les personnes infectées par le VIH connaissent très tôt leur diagnostic et sont prises en charge médicalement dans de bonnes conditions. C'est sur ces objectifs (prévention et diagnostic précoce) que l'action ministérielle poursuit sa mission de lutte contre le sida.
