@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960716895
+
+- Question : [SEQ960716895](seq960716895.md) — Remboursement de la taxe sur la valeur ajoutée (TVA) aux petites et moyennes entreprises
+
+## Réponse
+
+*Économie, JO du 1996-10-17, page 2708*
+
+Réponse. - La règle du décalage d'un mois de la T.V.A. qui pénalisait les entreprises françaises a été supprimée au 1er juillet 1993. Compte tenu de l'importance du coût budgétaire de cette mesure, il a été nécessaire de mettre en place un dispositif visant à en étaler la charge par la constitution de créances sur le Trésor. Cependant, dans ce contexte, le Gouvernement a entendu plus particulièrement favoriser la trésorerie des petites et moyennes entreprises. Ainsi, les entreprises nouvelles, les entreprises soumises au régime du forfait et au régime simplifié d'imposition, ainsi que les autres entreprises dont le mois moyen de déduction n'excédait pas 10 000 F, n'ont pas eu à constituer de créance et ont donc pu bénéficier en 1993 d'un mois de déduction supplémentaire représentant un montant de 11 milliards de francs. En outre, les créances inférieures à 150 000 F, détenues principalement par les petites et moyennes entreprises, ont fait l'objet d'une restitution intégrale prioritaire. Au 31 mai 1996, les remboursements de créances au profit de l'ensemble des redevables s'élevaient à près de 52 milliards de francs, 88 % des créances étant définitivement soldées, ce qui constitue un effort financier exceptionnel. Moins de 44 000 créances, représentant environ 31 milliards de francs et détenues en majorité par de grandes entreprises, subsistent actuellement. Elles feront l'objet des remboursements prévus par la loi, au rythme d'un amortissement annuel et d'un amortissement supplémentaire anticipé tenant compte des actions menées par les entreprises en matière d'emploi et d'insertion professionnelle des jeunes.
