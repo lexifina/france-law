@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930601702
+
+- Question : [SEQ930601702](seq930601702.md) — Prestation de garde à domicile, dotation de la CNAV
+
+## Réponse
+
+*Affaires sociales, JO du 1993-07-29, page 1254*
+
+Réponse. - Le maintien à domicile des personnes âgées et le développement quantitatif et qualitatif des services qui y concourent constituent un axe prioritaire de la politique que mène le Gouvernement en direction des personnes âgées. La volonté de faire en sorte que l'aide à domicile s'effectue dans de bonnes conditions, tant pour les bénéficiaires de l'aide que pour les personnels chargés de l'apporter s'est traduite par la création de la prestation de garde à domicile. La prestation de garde à domicile est une aide temporaire qui a été créée en 1992 par la Caisse nationale d'assurance vieillesse des travailleurs salariés (CNAVTS) pour permettre aux personnes âgées et à leurs familles de faire face à une situation momentanément difficile. Elle visait à la fois un développement de l'emploi à travers une progression des services aux personnes et une amélioration de l'aide apportée aux personnes âgées, complémentaire de celle assurée jusqu'alors par l'aide ménagère. A cet effet, 180 millions de francs ont été inscrits au budget de la CNAVTS en 1993. La création de cette allocation qui correspondait effectivement à un besoin a entraîné une demande croissante de ce type d'intervention auprès des personnes âgées. Le ministre d'Etat, ministre des affaires sociales, de la santé et de la ville ne méconnaît pas les difficultés actuelles qui en découlent et engendrent dans certaines situations de graves problèmes pour les personnes âgées et leurs familles. C'est pourquoi les services du ministère étudient avec la Caisse d'assurance vieillesse des travailleurs salariés les solutions qui pourraient y être apportées.
