@@ -28,7 +28,7 @@ Lorsqu'il n'est pas fait application du processus pluriannuel de réduction des 
 
 b. Le taux effectivement appliqué dans la commune.
 
-Ces modalités sont applicables dans les mêmes conditions lorsqu'il est fait application dans les établissements publics de coopération intercommunale visés au premier alinéa des dispositions prévues aux I et V de l'article 1638 quater.
+Ces modalités sont applicables dans les mêmes conditions lorsqu'il est fait application dans les établissements publics de coopération intercommunale visés au premier alinéa des dispositions prévues aux I, II bis et V de l'article 1638 quater.
 
 3. La cotisation de chaque établissement est majorée du montant de l cotisation prévue à l'article 1648 D et des taxes spéciales d'équipement prévues aux articles 1599 quinquies, 1607 bis, 1608, 1609 à 1609 F, calculées dans les mêmes conditions.
 
