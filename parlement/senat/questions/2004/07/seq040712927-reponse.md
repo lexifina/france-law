@@ -1,0 +1,9 @@
+# Réponse à la question SEQ040712927
+
+- Question : [SEQ040712927](seq040712927.md) — Assimilation de la carte d'invalidité à une pièce d'identité
+
+## Réponse
+
+*Intérieur, JO du 2004-09-23, page 2171*
+
+Il n'existe aucun texte législatif ou réglementaire énumérant les documents valant pièce justificative d'identité mais la carte nationale d'identité, créée par le décret n° 55-1397 du 22 octobre 1955 modifié, est le seul document officiel permettant de certifier de son identité. Il n'existe donc pas de liste officielle exhaustive des pièces justificatives d'identité. C'est pourquoi chaque autorité administrative reste libre de définir sa propre liste de documents d'identité admis dans le cadre de l'accomplissement des procédures relevant de sa compétence. Pour l'accomplissement de ces procédures, d'autres documents, bien que n'ayant pas la même force probante que la carte nationale d'identité, peuvent avoir une fonction similaire s'ils ont été délivrés par une administration publique et s'ils comportent une photographie d'identité ressemblante ; c'est le cas notamment du permis de conduire, du permis de chasser, des cartes d'identité professionnelles et de la carte du combattant. Il est précisé à l'honorable parlementaire que pour l'accomplissement de formalités privées, l'acceptation d'un document autre que la carte nationale d'identité comme pièce justificative reste également à la libre appréciation de l'autorité privée qui souhaite vérifier l'identité d'une personne, en particulier dans le cadre d'une transaction commerciale. La carte d'invalidité, qui comporte une photographie d'identité, peut être admise comme pièce justificative de son identité mais son acceptation reste, elle aussi, soumise à l'appréciation des organismes publics ou privés qui souhaitent vérifier une identité.
