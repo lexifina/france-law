@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940606866
+
+- Question : [SEQ940606866](seq940606866.md) — Réalisation du programme d'aménagement de l'arrondissement d'Avesnes (Nord)
+
+## Réponse
+
+*Intérieur, JO du 1994-08-11, page 2010*
+
+Réponse. - Comme pour l'ensemble des régions françaises concernées par les fonds structurels, le programme de l'objectif 1 du Nord - Pas-de-Calais a été élaboré en étroite concertation avec l'ensemble des partenaires et tout particulièrement les collectivités territoriales, notamment le conseil régional ainsi que le conseil général, qui apportent des attributions financières importantes. Ce programme a été validé par l'ensemble des partenaires, puis par le Gouvernement qui l'a transmis à la commission. Les réunions de négociation du programme objectif 1 du Nord - Pas-de-Calais se sont déroulées au mois de juin à Lille en présence des représentants des principales collectivités et des chambres consulaires des trois arrondissements de Douai, Avesnes et Valenciennes. L'ensemble des partenaires régionaux a pu se prononcer sur les propositions françaises qui ont d'ailleurs été aménagées pour tenir compte des souhaits de la commission, dans le respect des intérêts de tous. Le principe d'additionnalité qui, selon les règlements, doit se vérifer au niveau national, n'est nullement remis en cause par ces propositions ; l'Etat a d'ailleurs fourni parallèlement au projet de programme un document permettant de vérifier cette additionnalité au niveau des trois arrondissements éligibles. En ce qui concerne les infrastructures de désenclavement, les moyens mobilisés au titre du contrat de plan Etat-région ont triplé par rapport à la génération précédente de contrats, ce qui écarte toute possibilité de désengagement de l'Etat sur cet objectif prioritaire de développement du programme de l'objectif 1.
