@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021103826
+
+- Question : [SEQ021103826](seq021103826.md) — Conséquences culturelles du rachat de Vivendi Universal Publishing par le groupe Lagardère sur le secteur de la distribution et de la revente indépendante de livres
+
+## Réponse
+
+*Culture, JO du 2003-10-02, page 2970*
+
+Amorcé à l'issue de la mise en vente de Vivendi Universal Publishing par le groupe VU, le rapprochement des deux premiers groupes d'édition français, Hachette et VUP, créerait effectivement un des tout premiers groupes mondiaux. Il constitue une opération de fusion dont il revient désormais aux autorités européennes de la concurrence d'apprécier la compatibilité avec le maintien du libre jeu de la concurrence dans les secteurs susceptibles d'être affectés. Dans les semaines qui ont suivi l'annonce du rachat de VUP, le ministre de la culture et de la communication a organisé une table ronde sur l'économie du livre où furent notamment abordées les difficultés structurelles de ce secteur et particulièrement celles des libraires et des éditeurs indépendants face à la possibilité d'un renforcement de la concentration. De cette table ronde est issue la proposition de créer une médiation du livre qui jouerait un rôle de conciliation et pourrait, le cas échéant, saisir les autorités compétentes en matière de concurrence et de litiges commerciaux. Cette proposition répond à l'objectif d'améliorer nettement et durablement la transparence et l'équilibre dans les relations commerciales entre acteurs du livre, ainsi qu'au souci de garantir la bonne application de la loi du 10 août 1981 relative au prix du livre. Le ministre de la culture et de la communication a engagé une concertation avec ses collègues concernés, ainsi qu'avec les représentants des libraires et des éditeurs, afin d'étudier les modalités d'une mise en place rapide de cette médiation.
