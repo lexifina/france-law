@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971104074
+
+- Question : [SEQ971104074](seq971104074.md) — Octroi du prêt à taux zéro
+
+## Réponse
+
+*Logement, JO du 1998-01-29, page 325*
+
+Réponse. - Le Gouvernement a décidé de maintenir le dispositif du prêt à taux zéro en 1998, alors même que son financement n'est pas assuré à partir de 1999 et que les prêts accordés en 1998 induiront encore une dépense de l'ordre de 3,5 milliards de francs en 1999. Compte tenu de cette difficulté majeure, il a fallu dès 1998 procéder à certains ajustements afin d'aider à maîtriser l'impact budgétaire. Parmi tous les choix possibles, il est apparu que le choix de concentrer le bénéfice du prêt à taux zéro sur les familles qui acquièrent leur logement pour la première fois était le plus équitable. Les ménages déjà propriétaires ont en effet plus de facilité pour financer leur accession grâce à l'apport personnel que constitue la revente de leur bien. Le prêt à taux zéro représente entre 120 000 francs et 180 000 francs, ce qui est inférieur à la valeur de revente d'un logement. Les dispositions du décret du 30 octobre 1997 ont atténué l'effet de cette mesure. En effet, la notion de primo-accédants recouvre désormais les ménages qui n'ont pas été propriétaires au cours des deux dernières années, et non plus au cours des cinq dernières années comme cela avait été envisagé initialement. En outre, il est possible de transférer le prêt à taux zéro sur une acquisition ultérieure dès lors qu'il y a mobilité, qu'elle soit professionnelle ou familiale. Enfin, concernant la mobilité professionnelle, il sera possible d'obtenir un second prêt à taux zéro, sous réserve de toujours remplir les conditions d'éligibilité à ce prêt. Ces ajustements manifestent la volonté du Gouvernement de préserver un dispositif fort d'aide à l'accession sociale à la propriété.
