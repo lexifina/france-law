@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920822449
+
+- Question : [SEQ920822449](seq920822449.md) — Bilan de l'activité du centre de stockage de déchets de Soulaines (Aube)
+
+## Réponse
+
+*Environnement, JO du 1992-12-10, page 2736*
+
+Réponse. - Le centre de stockage de l'Aube de déchets de faible et moyenne radioactivité à vie courte a été mis en service par l'Agence nationale pour la gestion des déchets radioactifs (Andra) en janvier 1992 après sept années d'études, de travaux et de concertation avec les collectivités locales. Ce centre prendra progressivement le relais du centre de stockage de la Manche qui sera exploité en parallèle jusqu'en 1994. A la fin juillet 1992, le centre de l'Aube a reçu 3 650 colis de déchets radioactifs conditionnés dans des conteneurs bétonnés, représentant 2 145 mètres cubes (20 p. 100 du total receptionné par l'ensemble des deux centres). Aucune difficulté notable n'est apparue au cours de ces sept premiers mois d'exploitation, notamment pour les opérations représentant des innovations techniques comme la mise en place automatique des colis ou le bétonnage télécommandé avec contrôle automatique de planéité à l'intérieur des ouvrages de stockage de 25 mètres de côté. Par ailleurs, l'Andra achève la construction d'un atelier de conditionnement qui permettra de réduire les volumes de certains déchets grâce à une presse à compacter ou d'effectuer des injections de béton dans des colis métalliques. Le centre emploie actuellement une centaine de personnes, dont 80 p. 100 d'employés recrutés localement. Quelque 3 500 visiteurs dont 250 personnalités et spécialistes étrangers y ont été reçus depuis le début de l'année. La commission locale d'information s'est réunie deux fois en 1992. Les premiers mois de fonctionnement de ce nouveau centre se sont déroulés de façon satisfaisante, non seulement sur le plan technique, mais également en ce qui concerne la transparence de ses activités et son insertion régionale.
