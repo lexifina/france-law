@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940707205
+
+- Question : [SEQ940707205](seq940707205.md) — Délais de règlement des créances des artisans et commerçants sur les collectivités territoriales
+
+## Réponse
+
+*Aménagement du territoire, JO du 1994-09-15, page 2259*
+
+Réponse. - Le code des marchés publics prévoit dans ses articles 175 et 332 que l'administration dispose d'un délai de quarante-cinq jours au maximum pour mandater les demandes de règlement. Ce délai correspond à la période qui sépare l'arrivée de la facture par lettre recommandée avec accusé de réception de la date à laquelle l'ordonnateur a établi le mandat. Seul le délai de mandatement est réglementé et sanctionné. Il doit être porté à la connaissance du fournisseur par l'envoi d'un avis de mandatement. Le Gouvernement a engagé une réflexion sur les différentes mesures qui permettraient de réduire les délais de paiement des administrations et prépare en ce moment une modification du code des marchés publics qui portera en plusieurs étapes de quarante-cinq à vingt et un jours le délai dont dispose l'Etat pour procéder au mandatement de ses dépenses. Il n'est pas envisagé en revanche de réduire réglementairement les délais de paiement dont disposent les collectivités locales pour le moment, l'action entreprise par l'Etat servant de modèle expérimental. Par contre, différents dispositifs destinés à favoriser la réduction des délais de paiement seront développés, en particulier par un recours plus massif au paiement par lettre de change relevé lorsque l'entreprise demande à bénéficier de ce mode de règlement et par la mise en place de délais de règlement conventionnels, accords librement consentis entre les ordonnateurs et les comptables pour ne pas dépasser, chacun en ce qui les concerne, un délai maximum d'intervention. Diverses autres mesures sont à l'étude et devraient lors de leur mise en oeuvre améliorer les conditions de paiement des fournisseurs des collectivités locales.
