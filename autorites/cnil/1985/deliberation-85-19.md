@@ -1,0 +1,17 @@
+# Délibération relative au projet d'arrêté autorisant la participation des services de police à la gestion d'un traitement automatisé de chèques volés ou perdus mis en place par la Chambre de Commerce et d'Industrie de Toulouse
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 85-19
+- Date : 1985-05-28
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017654699
+
+La Commission Nationale de l'Informatique et des Libertés, Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés ; Vu le décret n° 78-774 du 17 juillet 1978 pris pour l'application de la loi susvisée ; Vu la délibération de la CNIL n° 85-09 du 5 mars 1985 portant avis sur la mise en oeuvre par la Chambre de Commerce et d'Industrie de Toulouse, d'un traitement automatisé d'informations nominatives relatif à la gestion d'un fichier des chèques volés ou perdus ; Vu le projet d'arrêté présenté par le Ministre de l'Intérieur ; Après avoir entendu Monsieur Michel ELBEL, Commissaire, en son rapport et Madame Charlotte-Marie PITRAT, Commissaire du Gouvernement, en ses observations ;
+
+Considérant que le projet d'arrêté a pour objet d'autoriser, à titre expérimental pour un an, la participation des services de police à la collecte et à la gestion des données du fichier automatisé des chèques volés et perdus mis en oeuvre par la Chambre de Commerce et d'Industrie de Toulouse ; Considérant que le fichier automatisé précité enregistre non seulement les informations relatives au vol des chéquiers mais également celles concernant la perte de ceux-ci ; qu'il convient en conséquence de libeller les articles premier et second alinéa 1, comme suit : - Article 1er : "est autorisé à titre expérimental pour un an à compter de la date du présent arrêté, la participation dans les conditions définies ci-après des services de police à la collecte et à la gestion des données du fichier automatisé des chéquiers volés et perdus, géré par la Chambre de Commerce et d'Industrie de Toulouse, fichier dont la finalité est de limiter l'utilisation des chèques volés et perdus." - Article 2 alinéa 1 : "Les informations enregistrées sont saisies à partir de la fiche de déclaration de vol ou de perte remplie par le titulaire du chéquier auprès des services de police urbaine de la circonscription de sécurité publique de Toulouse." Considérant que les titulaires de chéquiers volés ou perdus sont informés préalablement de la mise en mémoire des renseignements communiqués lors de leur déclaration de vol ou de perte ; que, cependant, il convient que la fiche de déclaration de vol ou de perte comporte les prescriptions de l'article 27 de la loi du 6 janvier 1978 susvisée ; Considérant que la demande d'avis présentée par la Chambre de Commerce et d'Industrie de Toulouse distinguait, en vue d'assurer la sécurité du traitement, les services de police habilités à créer des enregistrements de ceux habilités à les modifier ou les supprimer ; qu'il convient, en conséquence de préciser la rédaction de l'article 2 alinéa 2 comme suit : "Le personnel des commissariats de quartier et du commissariat central est habilité à créer des enregistrements. Seul, celui relevant du commissariat central est habilité à modifier ou supprimer des enregistrements."
+
+EMET un avis favorable sous réserve que le projet d'arrêté soit modifié compte tenu des observations formulées et soit communiqué à la Commission avant publication.
+
+Le Président, Jacques FAUVET
