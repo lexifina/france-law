@@ -1,0 +1,9 @@
+# Réponse à la question SEQ881102381
+
+- Question : [SEQ881102381](seq881102381.md) — Amélioration de la sécurité des usagers des transports en commun
+
+## Réponse
+
+*Transports, JO du 1989-02-09, page 242*
+
+Réponse. - Le ministre des transports et de la mer veille attentivement à ce que les réseaux des transports, notamment en région parisienne, répondent aux attentes des voyageurs en matière de qualité de service. Or la qualité de service suppose d'abord la sécurité ; il s'agit là d'une exigence fondamentale et légitime qui est une priorité pour les pouvoirs publics et les transporteurs. C'est pourquoi un programme d'action vient d'être récemment adopté par le conseil d'administration de la S.N.C.F. pour consolider l'ensemble des maillons de la chaîne de sécurité sur le réseau ferroviaire. Il comprend notamment, pour la banlieue, l'équipement de la ligne C du R.E.R. en système d'aide à la conduite et à la maintenance (S.A.C.E.M.), système qui permettra une plus grande régularité des circulations. Toutefois, pour remédier aux dysfonctionnements de la ligne C et à la fragilité de son exploitation, la S.N.C.F. a, antérieurement à ce programme d'action, étudié uncertain nombre de mesures, dont plusieurs ont d'ores et déjà été mises en oeuvre. Certaines de ces mesures ont un caractère préventif : elles augmentent la fiabilité du matériel (équipement du matériel en dispositifs antipatinage et antienrayage) ou des installations (renforcement de la caténaire, dédoublement des blocs d'alimentation des feux de signalisation) et permettent d'accroître le débit de la ligne en agissant sur les stationnements, en gare notamment. D'autres sont destinées à minimiser les conséquences de tout incident en donnant au personnel chargé d'intervenir une meilleure formation et des moyens d'action plus performants.
