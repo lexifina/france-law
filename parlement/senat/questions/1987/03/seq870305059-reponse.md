@@ -1,0 +1,9 @@
+# Réponse à la question SEQ870305059
+
+- Question : [SEQ870305059](seq870305059.md) — Narbonne (Aude): renforcement de la sécurité
+
+## Réponse
+
+*Intérieur, JO du 1987-05-07, page 722*
+
+Réponse. -Le Gouvernement se préoccupe en priorité de l'amélioration de la sécurité des personnes et des biens. Dans cette perspective, diverses mesures ont été adoptées pour accroître les pouvoirs judiciaires des policiers et rendre leur action plus efficace. Les premiers résultats de cette politique sont déjà sensibles. En effet, en 1986, la circonscription de police urbaine de Narbonne enregistre une baisse de la criminalité de 6,98 p. 100 alors que parallèlement le nombre de faits élucidés augmente de 7,26 p. 100. Pour conforter cette évolution, toutes les dispositions nécessaires ont été prises en vue de remplacer, dans le cadre du mouvement général des mutations du 1er octobre, la totalité des départs prévus au cours de l'année. Par ailleurs, le commissariat de Narbonne bénéficiera cette année encore des renforts saisonniers qui lui sont traditionnellement accordés. Enfin, la possibilité d'affecter des policiers auxiliaires sera étudiée en 1988. En ce qui concerne plus particulièrement le quartier Saint-Jean-Saint-Pierre, il représente 10,88 p. 100 de la criminalité globale. Sans pour cela constituer le point le plus sensible de la circonscription, la délinquance y reste cependant préoccupante. C'est pourquoi une surveillance renforcée y est exercée jour et nuit par les personnels du corps urbain sur les instructions permanentes du chef de service. Ainsi, le 20 mars dernier, une opération de police a été menée dans ce secteur en liaison avec les forces de gendarmerie. Une soixantaine de fonctionnaires, dont 15 élèves gardiens mis à la disposition des polices urbaines, y ont participé. Ce type d'opération sera renouvelé.
