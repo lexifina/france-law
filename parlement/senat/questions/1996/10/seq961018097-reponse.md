@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961018097
+
+- Question : [SEQ961018097](seq961018097.md) — Difficultés pour les PME à renégocier les taux d'intérêt d'emprunts
+
+## Réponse
+
+*Économie, JO du 1997-01-30, page 287*
+
+Réponse. - Le Gouvernement considère comme essentiel que les petites et moyennes entreprises, dont le dynamisme est nécessaire à l'économie, aient accès au crédit bancaire dans des conditions satisfaisantes, notamment du point de vue des coûts. Le contrat de prêt conclu avec l'établissement de crédit, qui relève du droit privé, forme la loi des parties. Dans les cas où ces contrats prévoient le versement d'une indemnité en cas de remboursement anticipé du prêt, cette obligation contractuelle ne peut être levée que par l'accord des deux parties. Les prêts des banques sont mis en place par celles-ci au moyen de ressources dont le coût et la durée ont servi de base pour le calcul du taux initial. Les établissements de crédit étant eux-mêmes en risque sur le coût de leurs ressources, ils ont toute liberté pour accepter ou refuser les demandes de renégociation des modalités du prêt initial. Les pouvoirs publics, de leur côté, ont, à plusieurs reprises, encouragé les établissements de crédit à prendre en compte les difficultés ou les contraintes spécifiques des PME-PMI. En outre, le Gouvernement à récemment décidé de créer la Banque du développement des petites et moyennes entreprises (BDPME). Celle-ci aura pour mission prioritaire de prendre en charge les besoins de financement des PME qui sont insuffisamment couverts par le marché. La BDPME interviendra en cofinancement avec les banques et apportera, le cas échéant, la garantie de la Société française pour l'assurance de capital risque des PME. De cette manière, elle rendra possible l'accès au crédit pour des entreprises présentant des risques trop importants pour être assumés uniquement par les banques, favorisant ainsi les investissements de ces entreprises.
