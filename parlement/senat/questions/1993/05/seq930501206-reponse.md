@@ -1,0 +1,9 @@
+# Réponse à la question SEQ930501206
+
+- Question : [SEQ930501206](seq930501206.md) — Situation des producteurs d'asperges du Gard
+
+## Réponse
+
+*Agriculture, JO du 1993-09-23, page 1706*
+
+Réponse. - Les producteurs d'asperges gardois ont été confrontés à deux difficultés importantes. D'une part, la propagation de la fusariose a nécessité l'arrachage de surfaces importantes dans le Languedoc. Les pouvoirs publics ont soutenu le programme des stations expérimentales, chargées de mettre au point des moyens de lutte et de prévention contre cette maladie. De plus, à travers l'Onifhlor, ils ont mis en place un dispositif permettant d'aider les groupements de producteurs à replanter les aspergeraies. Ce programme commence à porter ses fruits puisque depuis cette année le potentiel de production est en progression. D'autre part, la concurrence extérieure s'est accrue et notre première place d'exportateur européen a été prise par l'Espagne et la Grèce. La reconquête des marchés et la valorisation du produit nécessitent la généralisation d'une démarche de qualité devant être menée à l'intérieur de l'organisation économique, dont l'efficacité dépend de l'adhésion du plus grand nombre de producteurs. En ce qui concerne les problèmes liés à l'endettement des agriculteurs, le Premier ministre dans son communiqué du 7 mai 1993 a décidé la mise en place de prêts de consolidation et une enveloppe de 250 MF a été ouverte pour le secteur des fruits, des légumes et de l'horticulture. Cependant les mesures financières, qui représentent un effort immédiat important, doivent être accompagnées par une adaptation de l'organisation du marché tant au niveau communautaire que national. C'est pourquoi une réflexion a été engagée avec les représentants professionnels qui doit conduire à des propositions concrètes au cours de l'automne.
