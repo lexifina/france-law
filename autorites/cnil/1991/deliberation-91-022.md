@@ -1,0 +1,21 @@
+# Délibération relative à la demande de conseil présentée par l'INSEE concernant la modification du numéro d'inscription au répertoire.
+
+- Nature : Deliberation
+- Type : Avis
+- Numéro : 91-022
+- Date : 1991-03-19
+- Publication : 2019-11-13
+- État : VIGUEUR
+- Légifrance : https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000017652600
+
+La Commission Nationale de l'Informatique et des Libertés, Vu la Convention du Conseil de l'Europe pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel, Vu la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés ; Vu le décret n° 78-774 du 17 juillet 1978 prix pour l'application de la loi susvisée ; Vu le décret n° 82-103 du 22 janvier 1982 relatif au répertoire national d'identification des personnes physiques ; Vu la demande d'avis n° 7916, Vu la délibération n° 81-68 du 9 juin 1981 portant avis sur la gestion automatisée d'un répertoire des personnes physiques ; Vu la demande de conseil de l'INSEE du 27 décembre 1990 ;
+
+Après avoir entendu Madame Louise CADOUX en son rapport et Madame Charlotte-Marie PITRAT, commissaire du Gouvernement, en ses observations ; Considérant que l'INSEE est chargé de gérer le répertoire national d'identification des personnes physiques ; Considérant que le répertoire mentionne pour chaque personne son nom patronymique, ses prénoms, son lieu de naissance, sa date de naissance, son sexe, son numéro d'acte de naissance, son numéro national d'identité ; Considérant que le répertoire mentionne pour chaque personne son nom patronymique, ses prénoms, son lieu de naissance, sa date de naissance, son sexe, son numéro d'acte de naissance, son numéro national d'identité ; Considérant que le numéro national d'identité attribué à chaque personne comporte treize chiffres : le sexe (1 chiffre), l'année de naissance (2 chiffres), le mois de naissance (2 chiffres), le lieu de naissance (5 chiffres) et le numéro d'ordre sur le registre de l'état civil (3 chiffres) ;
+
+Considérant que le répertoire gère sur support magnétique les personnes nées à partir de 1891 et qu'en raison de ce que dans la structure du NIR, l'année de naissance n'est retenue que sur les deux derniers caractères de l'année, les personnes nées à partir de 1991 pourraient se voir attribuer des numéros déjà affectés à des personnes du même sexe nées cent ans plus tôt dans le même lieu ; Considérant que pour remédier à cette situation, l'INSEE propose : - soit de modifier la première composante du numéro d'inscription au répertoire relative au sexe pour les personnes nées à partir de 1991 en introduisant la valeur 3 pour le sexe masculin et 4 pour le sexe féminin, - soit de modifier la 4ème et la 5ème position de mémoire relative au mois de naissance pour les personnes nées à partir de 1991 en remplaçant les chiffres 01 à 12 par les chiffres 71 à 82.
+
+Considérant que la première solution proposée par l'INSEE consiste à modifier la valeur de la première position de mémoire, à l'heure actuelle exclusivement dédiée à la détermination du sexe, par une valeur combinant à la fois la donnée relative au sexe et celle relative au siècle de naissance ; qu'en raison de cette ambiguïté, cette solution risquerait de susciter des interprétations fâcheuses sur la prise en compte par le NIR de nouvelles catégories de personnes ; Considérant, en outre, qu'en 1941, la première composante du numéro d'identification des personnes avait trait au sexe et à "certaines caractéristiques essentielles du statut" ; que parmi ces composants du statut était prise en compte l'origine raciale ;
+
+Considérant que la réintroduction des valeurs 3 et 4 qui a une connotation fortement symbolique dans l'inconscient collectif n'est pas souhaitable ; Considérant que pour ces deux motifs, il est préférable de recourir à la modification des positions de mémoire relatives au mois de naissance ; Considérant qu'il serait souhaitable que l'INSEE entreprenne des études approfondies sur la structure d'un NIR dont les composantes n'auraient plus comme actuellement, un caractère signifiant, qui permettent des sélections d'individu selon le sexe, l'âge et le lieu de naissance ;
+
+DONNE UN AVIS FAVORABLE à cette modification. Le Président, Jacques FAUVET.
