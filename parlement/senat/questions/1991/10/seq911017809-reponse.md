@@ -1,0 +1,9 @@
+# Réponse à la question SEQ911017809
+
+- Question : [SEQ911017809](seq911017809.md) — Taux de l'impôt sur les sociétés
+
+## Réponse
+
+*Budget, JO du 1992-01-16, page 123*
+
+Réponse. - Le projet de loi de finances pour 1992 contient un certain nombre de mesures destinées à alléger les charges des entreprises et notamment des P.M.E.-P.M.I. Tel est notamment le cas de la réduction du taux des acomptes d'impôt sur les sociétés échus au cours des exercices ouverts à comper du 1er janvier 1992 qui serait ramené de 38 p. 100 à 33,33 p. 100 au lieu de 36 p. 100. Les sociétés concernées sont celles dont le chiffre d'affaires n'excède pas certaines limites, si leur capital est détenu pour plus de 50 p. 100 par des personnes physiques. Cette condition répond au souci de réserver cette mesure aux entreprises qui sont de véritables P.M.E., à l'exclusion de celles qui sont en réalité des " démembrements " juridiques d'entités économiques plus importantes. A cet égard, la prise en compte de la situation évoquée par l'honorable parlementaire impliquerait de faire référence à la notion de détention indirecte par des personnes physiques. La mise en oeuvre de ce critère est d'une complexité incompatible avec la réduction du taux des acomptes. Or, l'efficacité des mesures prévues en faveur des petites entreprises nécessite de cibler leur champ d'application sur celles qui subissent un véritable handicap économique à raison de leur taille et de la faiblesse de leur surface financière. Il est en effet observé que la mesure visant à réduire le taux des acomptes a pour seul effet d'améliorer la trésorerie des P.M.E. puisque la loi de finances pour 1992 propose de réduire pour toutes les entreprises, quelle que soit leur taille, le taux de l'impôt sur les sociétés à 34 p. 100 pour les bénéfices des exercices ouverts à compter du 1er janvier 1992, qu'ils soient réinvestis ou pas.
