@@ -1,0 +1,9 @@
+# Réponse à la question SEQ931003287
+
+- Question : [SEQ931003287](seq931003287.md) — Réglementation en matière de fabrication, de vente, de publicité et de détention de matériel d'écoute
+
+## Réponse
+
+*Intérieur, JO du 1993-12-16, page 2416*
+
+Réponse. - Ainsi que le souligne l'honorable parlementaire, l'article 24 de la loi no 91-646 du 10 juillet 1991 relative au secret des correspondances émises par la voie des télécommunications prévoit qu'un décret en Conseil d'Etat fixe les conditions dans lesquelles est établie la liste des appareils qui, conçus pour la détection à distance des conversations, permettent la réalisation de l'infraction prévue à l'article 368 du code pénal. Ce décret est intervenu le 25 mars 1993. Il porte le no 93-513 et a été publié au Journal officiel, lois et décrets, du 27 mars 1993. Les dispositions de ce décret ont par ailleurs été codifiées par le décret no 93-726 du 29 mars 1993 portant réforme du code pénal. Elles sont en effet reprises aux articles R. 226-1 à R. 226-12 du code pénal dans sa version devant entrer en vigueur le 1er mars 1994. Aux termes de ces dispositions réglementaires, sont notamment soumises à autorisation, la fabrication, la vente et la location, de tout appareil conçu pour la détection à distance des correspondances, dont les caractéristiques permettent d'écouter, d'enregistrer ou de transmettre les paroles prononcées dans un lieu privé par une personne sans le consentement de celle-ci et qui figure sur une liste arrêtée par le ministre chargé des télécommunications, après avis d'une commission consultative placée auprès de lui. Cette commission consultative est en cours de constitution. En ce qui concerne la vidéo-surveillance, l'éventualité d'un projet de loi est actuellement à l'étude et fait l'objet d'une concertation entre les administrations concernées.
