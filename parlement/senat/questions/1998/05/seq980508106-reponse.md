@@ -1,0 +1,9 @@
+# Réponse à la question SEQ980508106
+
+- Question : [SEQ980508106](seq980508106.md) — Dégâts causés par le campagnol
+
+## Réponse
+
+*Agriculture, JO du 1998-09-03, page 2817*
+
+Réponse. - Le campagnol terrestre est un rongeur présent dans certains secteurs des Alpes, du Massif-Central, en Franche-Comté et de manière plus épisodique sur le plateau de Langres et même dans le Nord-Pas-de-Calais. Il concentre ses dégâts sur les prairies de moyenne altitude et parfois sur les vergers. La lutte contre ce ravageur est difficile à conduire dans la mesure où elle doit être collective pour garder une certaine efficacité et mettre en uvre des appâts à base d'un anticoagulant ; le bromadiolone. C'est pourquoi la lutte a été confiée aux groupements de défense des cultures placés sous le contrôle des services de l'Etat. Jusqu'à ces derniers jours un arrêté du ministre chargé de l'agriculture du 12 juillet 1979 réglementait la composition des appâts qui ne pouvaient être composés (ou l'anticoagulant) que de carottes ou de betteraves coupées en cubes. Des expérimentations conduites en Franche-Comté ont montré que des appâts secs à base de grains de blé tamisés pouvaient donner des résultats intéressants. Cependant un emploi mal maîtrisé durant l'hiver 1997-1998 a provoqué dans le département du Doubs des mortalités sur des gibiers et sur des espèces protégées d'oiseaux. Malgré cela, sous réserve d'une surveillance et d'un encadrement accrus des traitements, j'ai pu obtenir l'accord du ministère chargé de l'aménagement du territoire et de l'environnement, des secrétariats d'Etat chargés de la santé et des petites et moyennes entreprises, au commerce et à l'artisanat pour que la technique mise au point en Franche-Comté puisse être formalisée sous forme d'un arrêté qui devrait être publié au Journal officiel de la République française dans les prochains jours.
