@@ -1,0 +1,9 @@
+# Réponse à la question SEQ991120349
+
+- Question : [SEQ991120349](seq991120349.md) — Cadres du secteur social et médico-social
+
+## Réponse
+
+*Emploi, JO du 2000-02-17, page 614*
+
+Réponse. - L'avenant nº 265 à la convention collective de l'enfance inadaptée du 15 mars 1966, signé le 21 avril 1999, vise à refondre complètement le statut des cadres régis par cette convention : en adoptant une nouvelle classification des emplois fondée sur le concept de " critère classant " ; en modernisant leur régime indemnitaire. Le principe de cette évolution n'est pas contestable : les cadres relevant de cette convention collective sont objectivement dans une situation moins favorable que ceux qui relèvent de la convention collective FEHAP de 1951 (certaines dispositions catégorielles permises par le protocole Durafour ne leur ont pas été transposées), à preuve les difficultés de recrutement constatées dans certains établissements relevant du champ de la convention de 1966. L'avenant génère cependant un surcoût immédiat lié au reclassement des cadres dans les nouvelles classifications : l'incidence a été estimée par les employeurs à p 1,03 % de masse salariale en " coût carrière " alors même qu'aucune marge catégorielle de ce type n'est prévue dans les évolutions salariales du secteur. C'est principalement pour cette raison que le ministère de l'emploi et de la solidarité n'a pu agréer cet avenant. En effet, il n'y avait aucune assurance réelle quant aux éventuelles mesures de compensation qui auraient permis que les budgets de ces établissements respectent les enveloppes résultant des choix politiques et budgétaires issu des votes de la loi de finances et de la loi du financement de la sécurité sociale. La discussion n'en est pas pour autant fermée et rien n'interdit qu'elle reprenne avec pour objectif un texte amendé qui soit compatible avec des contraintes budgétaires dont ce secteur ne peut s'affranchir.
