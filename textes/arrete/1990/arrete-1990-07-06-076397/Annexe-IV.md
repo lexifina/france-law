@@ -12,13 +12,15 @@ Groupement auquel appartient l'élevage :
 
 Au verso :
 
-Activités : Sélectionneur, Multiplicateur, Naisseur, Post-sevrage collectif, Engraisseur, Naisseur-engraisseur, Centre d'allotement, Autres ... (à préciser).
+Activités : Sélectionneur, Multiplicateur, Naisseur, Post-sevrage collectif, Engraisseur, Naisseur-engraisseur, Centre d'allotement, Autres ..... (à préciser).
 
 Catégories de porcs : Verrats (1), Truies (1), Porcelets sevrés (2), Porcs charcutiers (3) (4).
 
 Au recto :
 
 Ministère de l'agriculture et de la forêt, direction générale de l'alimentation, Services vétérinaires.
+
+La loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés s'applique aux données nominatives portées dans ce formulaire. Elle garantit un droit d'accès et de rectification pour ces données auprès du service destinataire du formulaire.
 
 (1) Effectif présent lors de la déclaration.
 
@@ -27,3 +29,7 @@ Ministère de l'agriculture et de la forêt, direction générale de l'alimentat
 (3) Production de l'année précédente de porcs charcutiers.
 
 (4) Effectif présent lors de la déclaration.
+
+NOTA :
+
+Arrêté du 24 novembre 2005, art. 14, 15 et 16 : l'arrêté ci-dessus est abrogé à la date d'entrée en vigueur de la partie 4 de l'annexe du présent arrêté.
