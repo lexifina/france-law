@@ -1,0 +1,9 @@
+# Réponse à la question SEQ041114765
+
+- Question : [SEQ041114765](seq041114765.md) — Détention d'Ingrid Betancourt
+
+## Réponse
+
+*Affaires étrangères, JO du 2005-02-17, page 460*
+
+La séquestration prolongée de personnes par les guérillas est l'un des aspects les plus dramatiques du conflit colombien. Le gouvernement français a constamment souligné sa ferme condamnation de la pratique des enlèvements et sa vive préoccupation au sujet de la situation des otages. Il s'est en particulier mobilisé en vue d'obtenir la libération de notre compatriote Ingrid Betancourt, séquestrée depuis près de trois ans par la principale guérilla colombienne, les FARC. Le Président Uribe, dont la France soutient les efforts pour rétablir l'autorité de l'Etat dans son pays, connaît toute l'importance que les autorités françaises attachent à cette affaire. Il sait qu'elles appuient la conclusion d'un accord à caractère humanitaire qui permettrait la libération des personnes séquestrées, dont Mme Ingrid Betancourt, en échange de celle de membres des FARC emprisonnés. Il revient aux parties concernées de trouver les conditions d'un tel accord, avec l'aide de l'Eglise catholique et des Nations Unies. La France exprime sa disponibilité à aider les Colombiens dans cette voie. La France espère une issue favorable qui signifierait la fin d'une épreuve terrible pour les otages et leurs proches. Elle pourrait également être le signe d'une volonté de s'engager enfin sur la voie d'une solution négociée du conflit colombien. Aucune solution durable au conflit ne pourra en particulier être trouvée sans la négociation d'accords permettant la réinsertion des membres des groupes armés illégaux dans la société colombienne. L'accord humanitaire que la France appelle de ses voeux serait un pas dans cette direction.
