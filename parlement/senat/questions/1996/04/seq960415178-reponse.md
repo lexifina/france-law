@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960415178
+
+- Question : [SEQ960415178](seq960415178.md) — Versement des droits à la société des auteurs, compositeurs et éditeurs de musique et société de perception de la rémunération équitable
+
+## Réponse
+
+*Culture, JO du 1996-06-20, page 1521*
+
+Réponse. - Le code de la propriété intellectuelle reconnaît aux auteurs le droit d'exploiter leurs oeuvres lorsqu'elles sont communiquées au public par un quelconque procédé ; ce droit a également été reconnu aux artistes interprètes et aux producteurs de phonogrammes et de vidéogrammes par la loi du 3 juillet 1985. Il ne s'agit donc pas d'une taxe, mais de la juste rémunération relevant du droit privé du travail des créateurs, de leurs interprètes et de leurs auxiliaires que sont les producteurs. La société des auteurs, compositeurs et éditeurs de musique (SACEM) et la société pour la perception de la rémunération équitable pour la diffusion publique de phonogrammes (SPRE), en qualité de sociétés de perception et de répartition des droits des auteurs et des droits voisins relevant du titre II du livre III du code de la propriété intellectuelle, gèrent la perception de ces rémunérations et leur répartition aux auxiliaires de ces droits. Conscientes des difficultés qu'engendre le paiement de cette légitime rémunération aux titulaires de droits d'auteurs et de droits voisins, la SACEM et la SPRE accordent des réductions aux associations qui organisent des manisfestations à caractère social ou philanthropique. La SACEM, qui agit dans ce cas pour le compte de la SPRE, a toujours cherché à simplifier ses règles générales de tarification, ainsi que ses rapports avec les diffuseurs d'oeuvres musicales. Des délégations régionales de la SACEM se tiennent à la disposition des associations pour les informer du régime des droits d'auteur et des droits voisins et des montants précis des rémunérations dues lors de l'utilisation d'oeuvres musicales.
