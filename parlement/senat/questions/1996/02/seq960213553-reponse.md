@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960213553
+
+- Question : [SEQ960213553](seq960213553.md) — Commissions de règlement des litiges de la consommation
+
+## Réponse
+
+*Économie, JO du 1996-05-23, page 1262*
+
+Réponse. - Des commissions de règlement des litiges de la consommation ont été mises en place à titre expérimental, depuis la fin du premier trimestre 1995, dans neuf départements. La procédure de conciliation de type paritaire, confiée à ces commissions, est souple, rapide, facile d'accès et entièrement gratuite. C'est précisément pour tenir compte du fait que cette procédure ne suspend pas les délais de prescription et pour répondre aux attentes légitimes des consommateurs que ces commissions s'efforcent d'instruire les réclamations dont elles sont saisies dans de brefs délais. Les premiers résultats de l'expérience en cours sont encourageants à cet égard, puisqu'ils montrent que les délais de traitement se situent en moyenne à deux mois. En outre, le taux des conciliations est actuellement supérieur à 69 p. 100, ce qui démontre une forte adhésion pour le règlement amiable des petits litiges de consommation. L'extension de cette expérience à l'ensemble des départements ne pourra être envisagée qu'à l'issue de la phase expérimentale à la fin de l'année 1996, comme cela a été prévu lors de travaux du conseil national de la consommation. A ce moment, sera établi un nouveau bilan de l'activité de ces commissions, tant quantitatif que qualitatif, permettant de mieux mesurer leur enracinement dans la vie économique locale ainsi que l'intérêt qu'elles présentent pour les consommateurs et les professionnels. Le conseil national de la consommation sera alors consulté afin de recueillir son avis sur l'opportunité d'étendre, éventuellement avec des aménagements, la mise en place de nouvelles commissions à d'autres départements.
