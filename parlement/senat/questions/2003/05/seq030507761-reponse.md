@@ -1,0 +1,9 @@
+# Réponse à la question SEQ030507761
+
+- Question : [SEQ030507761](seq030507761.md) — Travaux de réalisation de l'autoroute A 85 Angers-Tours-Vierzon
+
+## Réponse
+
+*Équipement, JO du 2004-01-08, page 68*
+
+L'Etat met en oeuvre tous les moyens à sa disposition pour faire avancer la réalisation de l'autoroute A 85 Angers-Tours-Vierzon. En octobre 2002, la Compagnie financière et industrielle des autoroutes (Cofiroute) a été mise en demeure de reprendre cette réalisation sans délai et notamment de fournir un échéancier optimisé des procédures et des travaux sous peine de sanctions financières. Les échéanciers conformes aux demandes de l'Etat ont été fournis par Cofiroute le 14 février 2003. Cette avancée significative ainsi que le règlement du volet fiscal lié à la TVA ont permis de reprendre la négociation avec la société sur l'avenant et le contrat de plan. Cette négociation se poursuit dans l'objectif d'un aboutissement dans les meilleurs délais. Cofiroute doit bien entendu parallèlement poursuivre les procédures et les travaux en respectant les échéanciers qu'elle a remis. La section Villefranche-Saint-Romain-sur-Cher de la liaison Tours-Vierzon sera ainsi mise en service en décembre prochain. Sur la section Tours-Saint-Romain-sur-Cher, Cofiroute procède actuellement aux acquisitions foncières. Les emprises seront libérées pour l'intervention des archéologues fin 2003-début 2004. La société concessionnaire doit engager les travaux entre Esvres et Saint-Romain-sur-Cher puis entre Druye et Esvres, respectivement au printemps 2004 et début 2005. L'évaluation des incidences du contournement autoroutier de Langeais sur le projet de site Natura 2000 du Changeon et de la Roumer a été portée à la connaissance du public durant l'été 2003. La Commission européenne vient d'être informée des résultats de cette évaluation. Cofiroute devrait ainsi pouvoir être très prochainement informée que rien ne s'oppose plus à la réalisation des travaux.
