@@ -1,0 +1,9 @@
+# Réponse à la question SEQ920219723
+
+- Question : [SEQ920219723](seq920219723.md) — Mesures fiscales pour les expatriés achetant une résidence en France
+
+## Réponse
+
+*Budget, JO du 1992-03-31, page 778*
+
+Réponse. - Les contribuables propriétaires de leur habitation principale en France peuvent, en vertu des dispositions de l'article 199 sexies du code général des impôts, bénéficier d'une réduction de leur impôt sur le revenu au titre des intérêts d'emprunts contractés pour la construction, l'acquisition ou les grosses réparations de leur logement, ainsi que pour les dépenses de ravalement de celui-ci. La réduction d'impôt peut également être accordée pour les dépenses de grosses réparations, d'isolation thermique ou de régulation du chauffage. L'article 15 de la loi de finances rectificative pour 1991 permet aux contribuables qui ne sont pas propriétaires ou usufruitiers de leur habitation principale en France ou à l'étranger, ni titulaires d'un droit d'usage ou d'habitation sur ce logement, d'imputer sur l'impôt dû en France au titre des revenus imposables en France des réductions d'impôts afférentes à l'habitation principale pour un immeuble qu'ils prennent l'engagement d'affecter à cet usage avant le 1er janvier de la cinquième année qui suit celle de la conclusion du contrat de prêt ou du paiement des dépenses. Cette disposition applicable aux dépenses payées ou aux emprunts conclus à compter du 1er janvier 1992 va dans le sens des préoccupations de l'honorable parlementaire. Elle permet notamment aux expatriés qui disposent de revenus imposables en France de bénéficier d'un avantage fiscal pour l'acquisition dans notre pays d'une habitation en prévision de leur retour. Peu importe, à cet égard, qu'ils résident ou non dans un pays ayant conclu avec la France une convention fiscale.
