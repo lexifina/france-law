@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960314456
+
+- Question : [SEQ960314456](seq960314456.md) — Allocation de préparation à la retraite (APR) des anciens combattants d'Afrique du Nord
+
+## Réponse
+
+*Anciens combattants, JO du 1996-04-18, page 932*
+
+Réponse. - A plusieurs reprises, le ministre délégué aux anciens combattants et victimes de guerre a indiqué lors de la discussion budgétaire pour 1996 que les estimations d'options pour l'allocation de préparation à la retraite avaient été surévaluées de façon importante lors de la création du dispositif. Deux des blocages qui dissuadaient les intéressés de passer de l'allocation différentielle à l'APR ont été levés. Le ministre a obtenu, en effet, que les revenus d'activités servant de référence soient actualisés pour compenser les effets de l'inflation et il a fait en sorte également que le plancher de l'APR soit égal au plafond de l'allocation différentielle. Reste le problème des conséquences de l'attribution de l'APR sur le montant des retraites complémentaires. Il est important dans la mesure où les régimes de retraite complémentaire - gérés par les partenaires sociaux - ont fait savoir que les anciens combattants ne réunissant pas 150 trimestres d'activité à soixante ans, qui optent pour l'APR verraient leur retraite complémentaire minorée. Il faut savoir que cette minoration peut atteindre 4 à 5 p. 100 par annuité manquante du fait que les préretraités ne sont plus inscrits au chômage. Face à cette situation préoccupante qui échappe à sa compétence directe, le ministre a saisi ses collègues en charge des affaires sociales et du budget. Il a également obtenu de préserver, malgré les contraintes budgétaires, le niveau de crédits inscrits et affectés au Fonds de solidarité (2 000 MF). Ils permettront, dès que seront connus les résultats du chiffrage de la commission tripartite, de trouver les solutions les meilleures pour répondre à l'attente des anciens combattants en la matière.
