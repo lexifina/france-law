@@ -1,0 +1,9 @@
+# Réponse à la question SEQ910113238
+
+- Question : [SEQ910113238](seq910113238.md) — Situation de certains maîtres de conférences
+
+## Réponse
+
+*Éducation, JO du 1991-02-28, page 425*
+
+Réponse. - Le décret n° 89-707 du 28 septembre 1989 modifie les dispositions du décret n° 84-465 du 26 avril 1985 et permet désormais aux enseignants appartenant aux corps du second degré d'être classés à la date de leur entrée en fonctions dans le corps des maîtres de conférences, directement à la première classe lorsque leur indice antérieur le permet. Cette nouvelle disposition n'ayant pas d'effet rétroactif ne peut s'appliquer aux maîtres de conférences recrutés et titularisés avant le 1er octobre 1989. Cependant, pour pallier cette impossibilité, différentes mesures ont été prévues afin de réduire au maximum l'écart entre les situations administratives lors des changements de corps. En premier lieu, le quatrième alinéa de l'article 3 du décret du 25 avril 1985 prévoyait déjà qu'un maître de conférences classé à un échelon doté d'un indice inférieur à celui qu'il détenait précédemment, conserve, à titre personnel, le bénéfice de son indice antérieur jusqu'à ce qu'il atteigne dans son nouveau corps, un indice au moins égal. En second lieu, une nouvelle disposition contenue dans l'article 8-1 du décret du 28 septembre 1989 permet désormais, lors de la promotion à la première classe d'être classé à un échelon comportant un indice de rémunération égal, ou à défaut, immédiatement supérieur au traitement qui avait été maintenu à titre personnel, ce qui permettra de réduire au maximum, le retard en avancement. Cette mesure traduit le souci de l'administration d'atténuer la différence de traitement pouvant résulter de la mise en place de nouvelles règles plus favorables pour les enseignants recrutés ou titularisés postérieurement à la date du décret n° 89-707 du 28 septembre 1989.
