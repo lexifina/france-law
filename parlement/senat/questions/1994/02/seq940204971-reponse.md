@@ -1,0 +1,9 @@
+# Réponse à la question SEQ940204971
+
+- Question : [SEQ940204971](seq940204971.md) — Création d'un mécanisme de surveillance relatif aux cas d'esclavage
+
+## Réponse
+
+*Affaires étrangères, JO du 1994-05-26, page 1274*
+
+Réponse. - Comme le rappelle l'honorable parlementaire, dans la réponse à sa question écrite no 1209 du 20 mai 1993, avait été affirmée la disposition de la France à s'associer à une démarche visant à créer dans le cadre de la Commission des droits de l'homme des Nations Unies un mécanisme de surveillance spécifique relatif aux cas d'esclavage. Un premier cas a été accompli en ce sens à l'occasion de la cinquantième session de la Commission des droits de l'homme, tenue du 31 janvier au 11 mars 1994. La Commission a décidé d'entreprendre l'élaboration d'un protocole additionnel à la convention sur les droits de l'enfant afin de réprimer la vente d'enfants et la prostitution enfantine, deux phénomènes extrêmement préoccupants inclus, selon la terminologie des Nations Unies, parmi les formes contemporaines d'esclavage. La France, qui a soutenu ce projet avec vigueur et a largement contribué à la décision positive de la Commission, participera activement aux travaux de rédaction de ce protocole et interviendra pour qu'il soit rapidement adopté. La France continuera par ailleurs à suivre avec intérêt les travaux du groupe de travail sur les formes contemporaines d'esclavage de la sous-commission de la lutte contre les mesures discriminatoires et de la protection des minorités. Enfin, le ministre délégué à l'action humanitaire et aux droits de l'homme, Mme Michaux-Chevry, a initié des actions concrètes de soutien aux organisations non gouvernementales locales qui s'efforcent, dans certains des pays les plus affectés par le fléau de l'esclavage, de lutter concrètement contre cette forme d'exploitation, en assurant à ses victimes assistance juridique et aide à la réhabilitation.
