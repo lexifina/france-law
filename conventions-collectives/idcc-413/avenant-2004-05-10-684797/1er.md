@@ -1,0 +1,65 @@
+# Article 1er
+
+Les dispositions de l'article 41 de la convention collective et de l'article 7 de l'annexe I à la convention collective sont abrogées et remplacées par les dispositions suivantes :
+
+« Les indemnités compensatrices de fraits allouées pour les déplacements de service sont fixées comme suit, sur présentation de justificatifs et dans les limites de :
+
+(En euros)
+
+|
+
+PARIS ET DÉPARTEMENTS
+
+de la petite couronne
+
+75, 92, 93 et 94
+
+|
+
+AUTRES
+
+départements
+
+|
+
+Repas pris obligatoirement à l'extérieur
+
+(en raison d'un déplacement de service)
+
+|
+
+15,25 |
+
+15,25 |
+
+Indemnité nuitée (hébergement et petit
+
+déjeuner) en fonction du lieu où s'accomplit
+
+la mission, lorsque le salarié est empêché de
+
+regagner sa résidence habituelle
+
+|
+
+53,36 |
+
+38,11 |
+
+Indemnité journée : 2 repas + nuitée
+
+|
+
+83,86 |
+
+68,61 |
+
+Pour l'application de ces dispositions, les horaires suivants sont pris en considération :
+
+- entre 12 heures et 15 heures pour le repas de midi ;
+
+- entre 19 heures et 22 heures pour les repas du soir ;
+
+- entre minuit et 5 heures pour le découcher.
+
+Les frais de transports, autorisés par l'employeur, sont remboursés sur la base de la dépense réellement engagée et justifiée, dans le cadre de la mission. »
