@@ -1,0 +1,9 @@
+# Réponse à la question SEQ900710725
+
+- Question : [SEQ900710725](seq900710725.md) — Marché de la viande bovine
+
+## Réponse
+
+*Agriculture, JO du 1990-09-06, page 1947*
+
+Réponse. - C'est à la demande du ministre de l'agriculture et de la forêt que certaines mesures communautaires concernant les importations de bovins vivants et de viandes bovines en provenance du Royaume-Uni ont encore été renforcées, afin que le cheptel tant français qu'européen, mais aussi l'ensemble des consommateurs soient protégés. Les services vétérinaires sont particulièrement vigilants quant à l'application de ces dispositions. Sur le territoire français, des mesures préventives sont mises en oeuvre. L'encéphalopathie spongiforme bovine a été ajoutée, par décret du 12 juin 1990, à la nomenclature des maladies réputées contagieuses. Par ailleurs, un arrêté interministériel interdisant l'emploi des farines de viandes dans l'alimentation des bovins est en cours de publication. En outre, les contrôles et le suivi des bovins importés du Royaume-Uni sont renforcés aux frontières, à l'étable de destination et à l'abattoir. Enfin un dispositif de surveillance systématique des bovins présentant des troubles neurologiques est mis en place par le ministère de l'agriculture et de la forêt en collaboration étroite avec les vétérinaires traitants, les services vétérinaires départementaux, le centre national d'études vétérinaires et alimentaires et les écoles nationales vétérinaires. Toutes les recherches déjà conduites à ce sujet se sont révélées négatives ; aucun cas d'encéphalopathie spongiforme bovine n'a jamais été diagnostiqué en France pour le présent. Dans le cas où cette maladie apparaîtrait en France, le ministre de l'agriculture et de la forêt et ses services ont pris toutes les dispositions nécessaires pour intervenir sans délai.
