@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890705883
+
+- Question : [SEQ890705883](seq890705883.md) — Répartition des charges de fonctionnement et d'investissement des collèges
+
+## Réponse
+
+*Intérieur, JO du 1989-09-07, page 1460*
+
+Réponse. - La loi n° 83-663 du 22 juillet 1983 modifiée a maintenu, à titre transitoire, la participation des communes aux dépenses des collèges dont la charge incombe aux départements. L'article 15-3 de la loi précitée que ce système ne s'applique que jusqu'au 1er janvier 1990 et que " à l'ouverture de la première session ordinaire de 1989-1990, le Gouvernement présentera au Parlement un rapport sur les conditions de participation des communes aux dépenses des collèges ainsi que sur leurs incidences sur le financement des budgets locaux, en précisant les modalités selon lesquelles la participation des communes aux dépenses de fonctionnement et d'investissement des collèges décroît progressivement afin de parvenir à l'extinction de celle-ci à l'expiration d'un délai maximum de dix ans ". En vue d'établir ce rapport, l'établissement d'un bilan sur les conditions d'application du système de participation des communes a été confié à l'inspection générale de l'administration. De plus, un questionnaire a été envoyé à tous les préfets afin de pouvoir recueillir des éléments chiffrés sur l'application de ce système depuis son entrée en vigueur. Au vu de ces éléments, un rapport envisageant l'extinction progressive des participations des communes aux dépenses des collèges, dans l'esprit de la loi susmentionnée a été établi. Il est actuellement soumis à l'avis des associations nationales d'élus locaux. Compte tenu des observations qu'elles présenteront, le Gouvernement sera conduit à déposer au Parlement, lors de la prochaine session, le projet de loi prévu par l'article 15-3 de la loi du 22 juillet 1983.
