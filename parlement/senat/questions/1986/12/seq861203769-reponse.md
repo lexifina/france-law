@@ -1,0 +1,9 @@
+# Réponse à la question SEQ861203769
+
+- Question : [SEQ861203769](seq861203769.md) — Ouverture des établissements d'enseignement supérieur au monde du travail
+
+## Réponse
+
+*Recherche et enseignement supérieur, JO du 1987-09-17, page 1481*
+
+Réponse. -Le ministre délégué auprès du ministre de l'éducation nationale, chargé de la recherche et de l'enseignement supérieur, tient à rappeler que des mesures ont déjà été prises qui allaient dans le sens souhaité par l'honorable parlementaire. Des formations à finalité professionnelle affirmée existent depuis plusieurs années. Des maîtrises de sciences et techniques ont été créées en 1971 et des diplômes d'études supérieures spécialisées l'ont été en 1974. La loi du 26 janvier 1984 a réaffirmé que la professionnalisation des études devait s'accroître. De nouveaux diplômes ont été mis en place pour répondre à cette impérieuse nécessité : diplômes d'enseignement universitaire scientifique et technologique créés en 1984 et magistères créés en 1985. En 1987, onze nouveaux magistères ont été accrédités et trois nouveaux diplômes d'enseignement universitaire scientifique et technologique ont été habilités. Ces formations nécessitent de nombreux contacts avec le monde du travail, car des stages sont organisés chaque année et les professionnels sont associés à la définition du contenu des projets présentés au ministre. Des commissions sectorielles ont commencé à être mises en place dans les disciplines suivantes : droit et économie-gestion. Les autres commissions seront créées en octobre en lettres-sciences humaines et en sciences exactes. Elles sont amenées à examiner de nouvelles formations et à réfléchir sur celles existantes. Elles sont composées de personnalités extérieures à l'éducation nationale et d'universitaires. La présence de représentants des secteurs professionnels a pour finalité de faciliter la relation entre les formations dispensées à l'université et les débouchés professionnels.
