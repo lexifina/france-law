@@ -1,0 +1,9 @@
+# Réponse à la question SEQ960415065
+
+- Question : [SEQ960415065](seq960415065.md) — Aides à l'embauche accordées aux entreprises par l'Etat
+
+## Réponse
+
+*Emploi, JO du 1996-08-08, page 2068*
+
+Réponse. - Les aides auxquelles le sondage cité fait référence ne sont pas toutes les aides à l'emploi mais seulement les aides à l'embauche de publics spécifiques. Il s'agit essentiellement des contrats de travail aidés pour l'insertion des jeunes peu ou non qualifiés (apprentissage, formations alternées...) et pour la réinsertion des chômeurs de longue durée (contrat initiative emploi). Madame le ministre délégué à l'emploi tient à rappeler que ces dispositifs n'ont pas été conçus principalement pour créer des emplois, même si leur effet en ce domaine n'est pas nul, mais pour favoriser l'accès à l'emploi des personnes concernées et lutter contre l'exclusion et la sélectivité naturelle du marché du travail. C'est donc à l'aune de cet objectif qu'il faut mesurer leur efficacité et non à celui de la création d'emploi. Ainsi, l'efficacité désormais reconnue du contrat initiative emploi (et notamment par le rapport de la commission d'enquête sur les aides à l'emploi de l'Assemblée nationale) doit s'apprécier en particulier à l'évolution du chômage de longue durée qui a diminué de 82 000 personnes entre mai 1995 et mai 1996. Par ailleurs, il va de soi que le volume des embauches réalisées par les entreprises dépend essentiellement de leurs besoins, c'est-à-dire de leurs carnets de commandes et non pas des aides temporaires et ciblées à l'embauche. En revanche, d'autres dispositifs d'aide comme les allégements permanents du coût du travail pour les emplois faiblement qualifiés, les aides au temps partiel et les aides à l'aménagement et à la réduction du temps de travail ont un impact direct sur le volume de l'emploi.
