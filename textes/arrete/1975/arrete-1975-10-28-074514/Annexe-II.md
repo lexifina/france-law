@@ -64,9 +64,9 @@ c) Filtres biologiques noyés :
 
 Ces unités doivent être chargées de matériaux supports dont la taille et la nature sont adaptées à la nitrification et à la pratique du lavage ascendant à l'eau et à l'air.
 
-" Unités assurant la dénitrification :
+Unités assurant la dénitrification :
 
-" Le dispositif de dénitrification doit être dimensionné sur la base d'une constante de dénitrification inférieure à 2 mg de N-NO3/g MVS/h. "
+Le dispositif de dénitrification doit être dimensionné sur la base d'une constante de dénitrification inférieure à 2 mg de N-NO3/g MVS/h.
 
 Le processus de lavage doit être efficace. La répartition de l'effluent et de l'air fourni doit être homogène dans une section horizontale du lit (absence de renardage).
 
@@ -78,7 +78,7 @@ Ces unités doivent comprendre les dispositifs nécessaires pour l'introduction 
 
 Les boues résultant de la précipitation seront traitées et mises en dépôts dans les conditions acceptées par l'agence.
 
-3. Epandage
+3. Epandage, cas général
 
 Au sens de l'épuration, l'épandage doit être considéré comme un moyen de réduire la pollution en utilisant à des fins agricoles la valeur fertilisante des eaux usées.
 
@@ -102,6 +102,134 @@ Existence d'un stockage de sécurité étanche.
 
 Pour qu'un épandage puisse être qualifié de "très bon", il devra exister un suivi agronomique mettant en évidence de très bons résultats.
 
+3.1 Epandage, cas des effluents d'élevage
+
+En ce qui concerne les effluents d'élevage épandus, la pollution évitée est estimée au regard de la situation à la fin de l'année considérée, en fonction, d'une part, de la qualité de la récupération des effluents et, d'autre part, de la qualité de l'épandage, compte tenu des éléments d'appréciation définis ci-après :
+
+" A. Qualité de la récupération des effluents d'élevage
+
+POUR TOUS LES ÉLEVAGES sauf élevages de volailles indiqués
+
+ci-après
+
+Qualité de la récupération : Très bonne
+
+Description des installations de récupération :
+
+Dalles et aires de parcours bétonnées.
+
+Collecte intégrale des eaux pluviales susceptibles d'être souillées (selon diagnostic).
+
+Récupération intégrale des déjections liquides et solides.
+
+Collecte et gestion des jus d'ensilage, des eaux blanches.
+
+Stockage étanche, de capacité cohérente avec l'étude de périmètre d'épandage ou supérieure ou égale à 4 mois.
+
+Qualité de la récupération : Bonne
+
+Description des installations de récupération :
+
+Imperméabilité partielle des dalles et aires de parcours (dalles fissurées, aires partiellement bétonnées...).
+
+Collecte partielle des eaux pluviales susceptibles d'être souillées (selon diagnostic).
+
+Récupération d'au moins 80 % des déjections liquides et solides.
+
+Stockage étanche, de capacité comprise entre 2 et 4 mois.
+
+Qualité de la récupération : Moyenne
+
+Description des installations de récupération :
+
+Sol nu.
+
+Récupération de moins de 80 % des déjections liquides et solides.
+
+Stockage étanche, de capacité inférieure à 2 mois.
+
+ÉLEVAGES DE VOLAILLES sauf palmipèdes
+
+Qualité de la récupération : Trés bonne
+
+Description des installations de récupération :
+
+Récupération intégrale des déjections (liquides et solides).
+
+Aires de parcours enherbées.
+
+Collecte et gestion des eaux de nettoyage et de traitement des bâtiments, absence d'écoulement.
+
+Stockage sur sol nu avec siccité supérieure à 65 % ou stockage étanche supérieur ou égal à 4 mois.
+
+Qualité de la récupération : Bonne
+
+Description des installations de récupération :
+
+Récupération peu efficace ou partielle d'au moins 80 % ou mélange avec d'autres effluents.
+
+Aires de parcours dégradées (50 % de la surface).
+
+Collecte non étanche.
+
+Stockage insuffisant mais sans débordement.
+
+Qualité de la récupération : Moyenne
+
+Description des installations de récupération :
+
+Rejets d'eau de nettoyage.
+
+Capacité de stockage avec des débordements.
+
+Aires de parcours extérieurs sur sols nus.
+
+Le non-respect d'un seul de ces critères conduit à une
+
+appréciation de niveau inférieur.
+
+" B. Qualité de l'épandage
+
+CLASSES : Classe I
+
+CONDITIONS à remplir :
+
+Existence d'un plan d'épandage.
+
+Tenue à jour d'un cahier d'épandage.
+
+Charge/ha inférieure à 3 U.G.B.N. ou, si comprise entre 3 et 5, étude de périmètre d'épandage et existence d'un outil de maîtrise de la fertilisation adapté.
+
+CLASSES : Classe II
+
+CONDITIONS à remplir :
+
+Existence d'un plan d'épandage.
+
+Tenue à jour d'un cahier d'épandage.
+
+Charge/ha comprise entre 3 et 5 U.G.B.N. ou, à défaut, étude de périmètre d'épandage.
+
+CLASSES : Classe III
+
+CONDITIONS à remplir :
+
+Existence d'un plan d'épandage.
+
+Charge/ha supérieure à 5 U.G.B.N.
+
+Le non-respect d'un seul de ces critères conduit à une classe de niveau inférieur.
+
+La charge à l'hectare (charge/ha) est calculée pour l'ensemble des animaux de l'exploitation d'élevage sur la base de la quantité moyenne annuelle d'azote (N) produite, exprimée par référence à celle produite par une unité de gros bétail (U.G.B.N.) conformément aux valeurs suivantes :
+
+un porc charcutier produit (P.C.P.) : 3,5 kg ;
+
+une poule pondeuse (P.P.) : 0,5 kg ;
+
+un mètre carré de volailles de chair (m2 V.C.) : 4,3 kg ;
+
+une unité de gros bétail (U.G.B.) : 73 kg, soit l'équivalence de 21 P.C.P., 146 P.P., 17 m2 de V.C.
+
 4. Installation de détoxication propre à l'activité de traitement de surface.
 
 L'installation de détoxication doit comprendre tous les éléments nécessaires pour neutraliser ou détruire les matières inhibitrices ou pour réduire les métaux ou métalloïdes. Les résidus de détoxation devront être mis en dépôt dans des conditions acceptées par l'agence soit par le producteur des résidus, soit par une société agréée par l'agence.
@@ -112,9 +240,29 @@ Outre les dispositifs d'épuration déjà cités, peuvent faire l'objet d'une pr
 
 II - VALEUR DES COEFFICIENTS DE RENDEMENT
 
-" Pour chaque dispositif et pour chaque élément défini à l'article 1er, l'agence détermine le coefficient de rendement au moyen du tableau ci-après, en fonction de l'efficacité du fonctionnement du dispositif considéré appréciée selon les dispositions fixées à l'article 6.
+Pour chaque dispositif et pour chaque élément défini à l'article 1er, l'agence détermine le coefficient de rendement au moyen des tableaux ci-après, en fonction de l'efficacité du fonctionnement du dispositif considéré appréciée selon les dispositions fixées à l'article 6.
 
-" Lorsque les renseignements fournis en application de l'article 6 le justifient, le coefficient de rendement applicable pourra excéder III - RENSEIGNEMENTS A FOURNIR PAR LE REDEVABLE.
+Lorsque les renseignements fournis en application de l'article 6 le justifient, le coefficient de rendement applicable pourra excéder la valeur maximale prévue au tableau I.
+
+Les exploitations d'élevage peuvent bénéficier du dispositif additionnel mentionné à l'article 15-1 du présent arrêté, par l'application de coefficients de rendement déterminés au moyen du tableau III si elles satisfont aux conditions correspondant à la fois à une très bonne qualité de récupération et à la classe I d'épandage et à l'un des deux niveaux d'exigence définis ci-après :
+
+1. Premier niveau :
+
+Soit une charge à l'hectare inférieure ou égale à 1 U.G.B. et la justification d'une bonne rotation des animaux sur les parcelles ;
+
+Soit existence d'un diagnostic d'exploitation comprenant l'ensemble des pratiques d'épandage y compris s'il y a lieu les opérations de traitement préalables à l'épandage démontrant que les trois conditions suivantes sont satisfaites simultanément :
+
+existence de dispositifs et matériels adéquats pour l'épandage, y compris s'il y a lieu pour les opérations de traitement préalables à l'épandage ;
+
+existence d'un descriptif simplifié des cultures permettant de s'assurer que les capacités de stockage sont suffisantes et adaptées et que l'ensemble des apports organiques et minéraux est correct ;
+
+conformité de l'entretien des herbages avec les bonnes pratiques agricoles.
+
+2. Deuxième niveau :
+
+Respect des conditions correspondant au premier niveau et existence d'un suivi agronomique détaillé, si nécessaire par parcelle, permettant de démontrer la qualité des pratiques d'épandage et le respect des équilibres agronomiques sur les parcelles, ainsi qu'un entretien particulier des herbages, notamment en ce qui concerne les points d'abreuvement et d'alimentation des animaux.
+
+III - RENSEIGNEMENTS A FOURNIR PAR LE REDEVABLE.
 
 Les renseignements à fournir par le redevable pour l'estimation forfaitaire de l'assiette de la prime pour épuration sont les suivants :
 
@@ -190,4 +338,4 @@ Volume utile des bassins de stockage ;
 
 Nature des parois du bassin ;
 
-Relevé hebdomadaire des niveaux dans le bassin. la valeur maximale prévue au tableau. "
+Relevé hebdomadaire des niveaux dans le bassin. la valeur maximale prévue au tableau.
