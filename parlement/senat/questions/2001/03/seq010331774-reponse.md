@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010331774
+
+- Question : [SEQ010331774](seq010331774.md) — Situation des directeurs d'école
+
+## Réponse
+
+*Éducation, JO du 2001-06-07, page 1914*
+
+Les directeurs d'école exercent des fonctions pédagogiques, administratives et sociales qui en font les interlocuteurs privilégiés des autorités locales comme des familles. Ces fonctions au fil du temps sont devenues plus lourdes et plus exigeantes. Tous les directeurs d'école bénéficient d'un complément de rémunération - bonification indiciaire et indemnité de sujétions spéciales - d'un montant mensuel qui varie de 498 francs pour une classe unique à 1 780 francs pour les écoles de dix classes et plus hors ZEP. Le régime des décharges de service d'enseignement et le dispositif de formation des intéressés ont été améliorés ces dernières années. Cependant, ces mesures n'ont pas permis de rendre ces fonctions suffisamment attractives et des postes demeurent vacants, principalement dans les écoles de deux à quatre classes. Aussi un groupe de travail, réunissant des représentants des personnels et des représentants de l'administration, a-t-il engagé une réflexion sur le rôle et le statut du directeur d'école. Ce groupe de pilotage a envisagé plusieurs hypothèses de travail portant sur l'accès à la fonction (formation et recrutement) sur les conditions de son exercice (équipement des écoles, relations avec les inspecteurs d'académie et les municipalités) et sur l'éventualité de sa revalorisation. Afin d'améliorer rapidement le fonctionnement des écoles et de rendre les fonctions de directeur plus attractives, ces propositions font l'objet de négociations avec les organisations syndicales et de discussions avec les collectivités locales qui, pour l'instant, n'ont pas encore abouti à des décisions définitives.
