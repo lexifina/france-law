@@ -1,0 +1,9 @@
+# Réponse à la question SEQ010935229
+
+- Question : [SEQ010935229](seq010935229.md) — Secourisme : édition d'un guide sur les " gestes qui sauvent "
+
+## Réponse
+
+*Intérieur, JO du 2002-01-17, page 157*
+
+L'honorable parlementaire appelle l'attention du ministre de l'intérieur sur la nécessité d'assurer la distribution gratuite d'un guide tel que celui édité par la Croix-Rouge française intitulé " Les gestes qui sauvent " afin de permettre à tous les Français de se former au secourisme. La formation de base aux premiers secours évolue constamment et a fait l'objet d'une actualisation en 2001, sous l'égide de l'Observatoire national du secourisme, prenant en compte les recommandations scientifiques des sociétés savantes françaises, européennes et internationales. Les documents pédagogiques rédigés par la direction de la défense et de la sécurité civiles ont fait l'objet d'une diffusion gratuite auprès des organismes habilités et des associations nationales agréées, ainsi qu'auprès des éditeurs spécialisés. Le coût réduit des formations intègre généralement la distribution gratuite de ces brochures aux stagiaires. Les services du ministère de l'éducation nationale ainsi que ceux du ministère de l'intérieur et notamment la direction de la défense et de la sécurité civiles ont engagé une démarche visant à intégrer la formation de base aux premiers secours dans le cursus scolaire des collégiens. Cette démarche vise à apporter à l'ensemble de la population un véritable savoir-faire pratique et pas uniquement théorique : en matière d'apprentissage des gestes de premiers secours, la pratique de ces gestes est indispensable pour leur efficacité. Il existe de nombreux éditeurs spécialisés dans ce domaine et il n'est pas permis aux services de l'Etat de promouvoir tel ou tel ouvrage auprès du public, quelle que soit sa valeur.
