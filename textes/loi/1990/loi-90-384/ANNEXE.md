@@ -1,8 +1,6 @@
 # Article ANNEXE
 
-Répartition des sièges de membres élus du Conseil supérieur
-
-des Français de l'étranger entre les séries
+Répartition des sièges de membres élus de l'Assemblée des Français de l'étranger entre les séries
 
 SÉRIE A
 

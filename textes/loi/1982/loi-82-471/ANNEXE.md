@@ -2,240 +2,482 @@
 
 Tableau n° 1 annexé à l'article 1er de la loi n° 82-471 du 7 juin 1982
 
-Répartition des sièges de membres élus du Conseil supérieur des Français de l'étranger entre les séries
+Répartition des sièges de membres élus de l'Assemblée des Français de l'étranger entre les séries
 
 SÉRIE A
 
-Circonscriptions électorales :
-
-- d'Amérique 30
-
-- d'Afrique 47
-
-Total 77
+|
 
 SÉRIE B
 
-Circonscriptions électorales :
+|
 
-- d'Europe 52
+Circonscriptions électorales : |
 
-- d'Asie et du Levant 21
+|
 
-Total 73
+Circonscriptions électorales : |
 
-Tableau n° 2 annexé à l'article 3 de la loi n° 82-471 du 7 juin 1982
+|
 
-Délimitation des circonscriptions électorales et du nombre de sièges à pourvoir dans chacune d'elles pour l'élection des membres du Conseil supérieur des Français de l'étranger
+- d'Amérique |
+
+32 |
+
+- d'Europe |
+
+52 |
+
+- d'Afrique |
+
+47 |
+
+- d'Asie et du Levant |
+
+24 |
+
+Total
+
+|
+
+79 |
+
+Total
+
+|
+
+76 |
+
+Tableau n° 2 annexé à l'article de la loi n° 82-471 du 7 juin 1982
+
+Délimitation des circonscriptions électorales et du nombre de sièges à pourvoir dans chacune d'elles pour l'élection des membres de l'Assemblée des Français de l'étranger
 
 CIRCONSCRIPTIONS ÉLECTORALES
 
-NOMBRE de sièges
+|
 
-Amérique
+NOMBRE de sièges |
 
-Canada :
+AMERIQUE
 
-- première circonscription : circonscriptions consulaires de Edmonton, Ottawa, Vancouver et Toronto.
+|
+
+|
+
+Canada |
+
+|
+
+- première circonscription : circonscriptions consulaires
+
+d'Ottawa, Toronto, Vancouver
+
+|
 
 3
 
-- deuxième circonscription : circonscriptions consulaires de Montréal, Québec, Moncton et Halifax.
+|
+
+- deuxième circonscription : circonscriptions consulaires de
+
+Moncton et Halifax, Montréal, Québec
+
+|
 
 5
 
-Etats-Unis :
+|
 
-- première circonscription : circonscriptions consulaires de New York, Chicago, Boston, Atlanta, Washington, Miami, Nouvelle-Orléans et Houston.
+Etats-Unis |
 
-6
+|
 
-- deuxième circonscription : circonscriptions consulaires de San Francisco, Los Angeles et Honolulu.
+- première circonscription : circonscriptions consulaires d'Atlanta,
 
-3
+Boston, Miami, New York, Washington
 
-Brésil, Guyana, République du Surinam.
-
-3
-
-Argentine, Chili, Paraguay, Uruguay.
-
-3
-
-Bolivie, Colombie, Equateur, Pérou, Venezuela.
-
-3
-
-Mexique, Costa Rica, Belize, El Salvador, Guatemala, Honduras, Nicaragua et Panama.
-
-3
-
-Bahamas, Barbade, Jamaïque, Dominique, Grenade, Sainte-Lucie, Saint-Vincent et Grenadine, Porto Rico, Cuba, Haïti, République dominicaine, Trinité et Tobago.
-
-1
-
-Europe
-
-Berlin.
-
-1
-
-R.F.A. :
-
-- première circonscription : circonscriptions consulaires de Bonn, Düsseldorf, Francfort, Hambourg, Trèves, Mayence et Sarrebruck.
-
-6
-
-- deuxième circonscription : circonscriptions consulaires de Baden-Baden, Fribourg, Stuttgart et Munich.
-
-7
-
-Belgique.
-
-6
-
-Luxembourg.
-
-1
-
-Pays-Bas.
-
-1
-
-Liechtenstein, Suisse.
-
-6
-
-Grande-Bretagne, Irlande.
+|
 
 5
 
-Danemark, Finlande, Islande, Norvège, Suède.
+|
 
-2
-
-Portugal.
+- deuxième circonscription : circonscription consulaire de Chicago |
 
 1
 
-Espagne.
+|
+
+- troisième circonscription : circonscriptions consulaires de Houston,
+
+La Nouvelle-Orléans
+
+|
+
+1
+
+|
+
+- quatrième circonscription : circonscriptions consulaires de Los
+
+Angeles, San Francisco
+
+|
+
+4
+
+|
+
+Brésil, Guyana, Suriname |
+
+3
+
+|
+
+Argentine, Chili, Paraguay, Uruguay |
+
+3
+
+|
+
+Bolivie, Colombie, Equateur, Pérou, Venezuela |
+
+3
+
+|
+
+Belize, Costa Rica, Guatemala, Honduras, Mexique, Nicaragua,
+
+Panama, Salvador
+
+|
+
+3
+
+|
+
+Antigua-et-Barbuda, Bahamas, Barbade, Cuba, République dominicaine,
+
+Dominique, Grenade, Haïti, Jamaïque, Saint-Christophe-et-Niévès,
+
+Sainte-Lucie, Saint-Vincent-et-les-Grenadines, Trinité-et-Tobago
+
+|
+
+1
+
+|
+
+EUROPE
+
+|
+
+|
+
+Allemagne |
+
+|
+
+- première circonscription : circonscriptions consulaires de Berlin, Bonn,
+
+Düsseldorf, Francfort, Hambourg
+
+|
+
+4
+
+|
+
+- deuxième circonscription : circonscriptions consulaires de Munich,
+
+Sarrebruck, Stuttgart
+
+|
+
+6
+
+|
+
+Andorre |
+
+1
+
+|
+
+Belgique |
+
+6
+
+|
+
+Luxembourg |
+
+1
+
+|
+
+Pays-Bas |
+
+1
+
+|
+
+Liechtenstein, Suisse |
+
+6
+
+|
+
+Royaume-Uni |
+
+6
+
+|
+
+Irlande |
+
+1
+
+|
+
+Danemark, Estonie, Finlande, Islande, Lettonie, Lituanie, Norvège,
+
+Suède
+
+|
+
+2
+
+|
+
+Portugal |
+
+1
+
+|
+
+Espagne |
 
 5
 
-Italie, San Marin et Malte.
+|
 
-3
-
-Principauté de Monaco.
-
-2
-
-Chypre, Grèce, Turquie.
-
-3
-
-Autriche, Hongrie, Yougoslavie, Tchécoslovaquie, Roumanie, Bulgarie, Albanie, Pologne, R.D.A. et U.R.S.S..
-
-3
-
-Asie et Levant
-
-Israël.
-
-3
-
-Arabie Saoudite, Bahrein, Emirats arabes unis, Koweït, Oman, Qatar, République démocratique populaire du Yémen et République arabe du Yémen.
-
-3
-
-Irak, Jordanie, Liban, Syrie.
-
-3
-
-Circonscription consulaire de Pondichéry.
-
-2
-
-Afghanistan, Bangladesh, Birmanie, îles Maldives, Inde (sauf circonscription consulaire de Pondichéry), Iran, Népal, Pakistan, Sri Lanka.
-
-2
-
-Chine, Corée, Hong-kong, Japon, Mongolie.
-
-3
-
-Cambodge, Indonésie, Laos, Malaisie, Philippines, Singapour, Thaïlande, Viet-Nam.
-
-2
-
-Australie, îles Fidji, îles Salomon, îles Tuvalu, Nauru, Nouvelle-Zélande, Papouasie-Nouvelle-Guinée, Samoa occidentales, Tonga, Vanuatu, Kiribati.
-
-3
-
-Afrique
-
-Algérie.
+Italie, Malte, Saint-Marin, Saint-Siège |
 
 4
 
-Maroc.
+|
+
+Monaco |
+
+1
+
+|
+
+Chypre, Grèce, Turquie |
+
+3
+
+|
+
+Albanie, Autriche, Bosnie-Herzégovine, Bulgarie, Croatie, Hongrie, ancienne
+
+République yougoslave de Macédoine, Pologne, Roumanie,
+
+Serbie-et-Monténégro, Slovénie, République Tchèque
+
+|
+
+3
+
+|
+
+Arménie, Azerbaïdjan, Biélorussie, Géorgie, Kazakhstan, Kirghizstan, Moldavie,
+
+Ouzbékistan, Russie, Tadjikistan, Turkménistan, Ukraine
+
+|
+
+1
+
+|
+
+ASIE ET LEVANT
+
+|
+
+|
+
+Israël |
+
+4
+
+|
+
+Arabie saoudite, Bahreïn, Emirats arabes unis, Koweït, Oman, Qatar, Yémen |
+
+3
+
+|
+
+Irak, Jordanie, Liban, Syrie |
+
+3
+
+|
+
+Circonscription consulaire de Pondichéry |
+
+2
+
+|
+
+Afghanistan, Bangladesh, Inde (sauf circonscription consulaire de Pondichéry),
+
+Iran, Maldives, Népal, Pakistan, Sri Lanka
+
+|
+
+2
+
+|
+
+Chine, Corée du Sud, Japon, Mongolie |
+
+4
+
+|
+
+Birmanie, Brunei, Cambodge, Indonésie, Laos, Malaisie, Palaos, Philippines,
+
+Singapour, Thaïlande, Timor oriental, Viêt Nam
+
+|
+
+3
+
+|
+
+Australie, Fidji, Kiribati, Marshall, Micronésie, Nauru, Nouvelle-Zélande,
+
+Papouasie-Nouvelle-Guinée, Salomon, Samoa, Tonga, Tuvalu, Vanuatu
+
+|
+
+3
+
+|
+
+AFRIQUE
+
+|
+
+|
+
+Algérie |
+
+4
+
+|
+
+Maroc |
 
 5
 
-Tunisie, Libye.
+|
+
+Libye, Tunisie |
 
 3
 
-Afrique du Sud.
+|
+
+Afrique du Sud, Botswana, Lesotho, Malawi, Mozambique, Namibie,
+
+Swaziland, Zambie, Zimbabwe
+
+|
 
 1
 
-Comores, Madagascar, île Maurice, îles Seychelles.
+|
+
+Comores, Madagascar, Maurice, Seychelles |
 
 4
 
-Egypte, Ethiopie, Soudan.
+|
+
+Egypte, Soudan |
 
 2
 
-République de Djibouti et Somalie.
+|
+
+Djibouti, Erythrée, Ethiopie, Somalie |
 
 2
 
-Kenya, Angola, Lesotho, Botswana, Malawi, Mozambique, Ouganda, Swaziland, Tanzanie, Zambie, Zimbabwe.
+|
+
+Burundi, Kenya, Ouganda, Rwanda, Tanzanie |
 
 2
 
-Cameroun, Tchad, République centrafricaine, Guinée équatoriale.
+|
+
+Cameroun, République centrafricaine, Tchad |
 
 4
 
-Sénégal, Guinée-Conakry, Sierra Leone, Cap-Vert, Gambie, Guinée-Bissau.
+|
+
+Cap-Vert, Gambie, Guinée, Guinée-Bissau, Sénégal, Sierra Leone |
 
 4
 
-Mauritanie.
+|
+
+Mauritanie |
 
 1
 
-Burkina, Niger, Mali.
+|
+
+Burkina, Mali, Niger |
 
 3
 
-Côte-d'Ivoire, Liberia.
+|
+
+Côte d'Ivoire, Liberia |
 
 4
 
-Togo, Bénin, Ghana, Nigeria.
+|
+
+Bénin, Ghana, Nigeria, Togo |
 
 2
 
-Gabon, Sao Tome et Principe.
+|
+
+Gabon, Guinée équatoriale, Sao Tomé-et-Principe |
 
 3
 
-Congo, Zaïre, Rwanda et Burundi.
+|
+
+Angola, Congo, République démocratique du Congo |
 
 3
 
-Total 150
+|
+
+Total
+
+|
+
+155
+
+|
