@@ -1,0 +1,9 @@
+# Réponse à la question SEQ971003343
+
+- Question : [SEQ971003343](seq971003343.md) — Calcul de la cotisation sociale des commerçants saisonniers
+
+## Réponse
+
+*Emploi, JO du 1997-12-11, page 3469*
+
+Réponse. - Tout travailleur relevant à titre principal du régime d'assurance maladie des travailleurs non salariés des professions non agricoles est redevable, auprès de ce régime, d'une cotisation minimale correspondant à celle qui serait due pour un revenu professionnel égal à 40 % du plafond annuel de la sécurité sociale. Toutefois, pour tenir compte du cas particulier des pluriactifs exerçant une activité non salariée non agricole à titre principal mais durant une partie de l'année seulement, la loi no 95-95 du 1er février 1995 a posé le principe d'une cotisation minimale au prorata de la durée d'exercice de cette activité durant l'année considérée, en prévoyant un plancher fixé - par décret no 96-347 du 18 avril 1996 - à un montant équivalant à la cotisation due pour un revenu égal à 10 % du plafond annuel de la sécurité sociale. La circulaire no 97-123 du 31 juillet 1997 de la CANAM, prise pour l'application du décret précité, précise que ce dispositif au prorata s'applique dès lors qu'il y a cessation temporaire d'activité dûment constatée. C'est notamment le cas des saisonniers, qui peuvent ainsi bénéficier du prorata de la cotisation minimale sans procéder à leur radiation du registre de commerce et des sociétés - circonstance au demeurant jugée inopérante par la Cour de cassation au regard de l'obligation de s'acquitter de la cotisation minimale -, tout en bénéficiant d'une affiliation permanente auprès du régime d'assurance maladie des travailleurs non salariés des professions non agricoles. La circulaire du 31 juillet 1997 devrait donc répondre à la préoccupation de l'honorable parlementaire.
