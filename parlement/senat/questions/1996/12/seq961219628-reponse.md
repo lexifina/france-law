@@ -1,0 +1,9 @@
+# Réponse à la question SEQ961219628
+
+- Question : [SEQ961219628](seq961219628.md) — Elimination du danger des armes nucléaires
+
+## Réponse
+
+*Affaires étrangères, JO du 1997-01-30, page 278*
+
+Réponse. - L'honorable parlementaire a bien voulu appeler l'attention du Premier ministre sur la nécessité d'agir en faveur de l'élimination du danger des armes nucléaires. Le Gouvernement français rappelle que la France adhère à l'objectif de l'élimination ultime des armes nucléaires dans le cadre du désarmement général et complet. D'ici à la réalisation de cet objectif, pour lequel nous agissons avec détermination, la France entend maintenir en toutes circonstances la crédibilité et l'efficacité de sa force de dissuasion nucléaire. Lors de la conférence d'examen et de prorogation du traité de non-prolifération, en mai 1995 à New York, un programme d'action pour le désarmement nucléaire, inclus dans la décision no 2 sur les " principes et objectifs du désarmement et de la non-prolifération nucléaire ", a été adopté par la quasi-totalité de la communauté internationale. Au regard du programme convenu à New York, le bilan de l'action de la France est largement positif : signature du traité d'interdiction complète des essais nucléaires et fermeture de notre centre d'expérimentations dans le Pacifique ; arrêt de la production de matières fissiles pour la fabrication des armes nucléaires et appel à l'ouverture rapide de la négociation d'une convention internationale dans ce domaine ; adhésion de la France aux protocoles des traités établissant des zones sans armes nucléaires dans le Pacifique Sud et en Afrique ; réductions unilatérales de notre arsenal nucléaire (démantèlement du plateau d'Albion et retrait des missiles Hadès). La France restera très attentive à la réalisation des engagements de la Communauté internationale et très active dans l'ensemble des débats dirigés vers l'objectif de l'élimination des armes nucléaires.
