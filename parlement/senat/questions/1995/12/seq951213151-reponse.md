@@ -1,0 +1,9 @@
+# Réponse à la question SEQ951213151
+
+- Question : [SEQ951213151](seq951213151.md) — Exploitation et développement de la décharge de Choisy-aux-Boeufs (Seine-et-Marne)
+
+## Réponse
+
+*Environnement, JO du 1996-03-28, page 731*
+
+Réponse. - Mme le ministre de l'environnement a bien pris connaissance de la question posée par l'honorable parlementaire concernant les conditions d'exploitation de la décharge de Choisy-aux-Boeufs (Seine-et-Marne). Cette décharge a été autorisée par arrêté préfectoral. La direction régionale de l'industrie, de la recherche et de l'environnement (DRIRE) d'Ile-de-France est chargée de son inspection au titre des installations classées pour la protection de l'environnement. Dans ce cadre, des analyses des rejets du site et des eaux souterraines sont régulièrement effectuées par des laboratoires indépendants et agréés. En 1993, les résultats de ces analyses ont montré l'existence d'une pollution de la nappe phréatique. Une étude hydrogéologique a été réalisée et un arrêté préfectoral prévoit notamment le renforcement du réseau de contrôle des eaux souterraines. Par ailleurs, une recherche a été réalisée dans la masse des déchets enfouis pour déterminer leur origine et mettre éventuellement en évidence la présence de déchets industriels spéciaux. Ces recherches n'ont pas fait apparaître d'anomalies. L'origine de la pollution de la nappe par des éléments organohalogénés, qui a été le point de départ de cette affaire, n'est toujours pas identifiée à ce jour. Ce site sera donc recensé parmi les sites et sols pollués lors de la prochaine réactualisation de cet inventaire. La demande d'autorisation préfectorale d'extension du site, qui a fait l'objet de nombreux amendements à la demande de la DRIRE, est instruite conformément à la réglementation en vigueur. Ce dossier fait l'objet d'une attention toute particulière de la part des services du ministère de l'environnement.
