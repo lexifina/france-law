@@ -1,0 +1,9 @@
+# Réponse à la question SEQ890303720
+
+- Question : [SEQ890303720](seq890303720.md) — Renégociation de la convention Etat-Caisse Nationale de crédit agricole
+
+## Réponse
+
+*Agriculture, JO du 1989-07-27, page 1136*
+
+Réponse. - A compter du 1er janvier 1990, une nouvelle procédure de distribution des prêts bonifiés à l'agriculture sera mise en place selon les principes suivants, définis en concertation avec le ministre d'Etat, ministre de l'économie, des finances et du budget. Il est mis fin au monopole de distribution du Crédit agricole et les autres banques ont la possibilité de distribuer des prêts bonifiés aux agriculteurs ; les agriculteurs ont le libre choix de leur banque. Les taux des prêts bonifiés demeurent uniformes quel que soit le réseau de distribution. Avant le début de chaque année l'enveloppe nationale de prêts bonifiés sera répartie entre les départements, en concertation avec les organisations professionnelles agricoles. Les différentes banques souhaitant avoir accès au système seront mises en concurence. A l'issue de cette discussion, celles qui répondront aux conditions bénéficieront d'une convention avec l'Etat les autorisant à distribuer des prêts bonifiés à l'agriculture sur l'ensemble du territoire sans autre limitation en volume que les enveloppes départementales. Un établissement public associant les organisations professionnelles agricoles sera mis en place et sera chargé de proposer les décisions relatives à la répartition départementale de l'enveloppe des prêts bonifiés, à la mise en concurrence des banques et à la préparation des conventions. Le comité permanent du financement sera saisi de ces questions. Ces dispositions devraient permettre de préserver les principes essentiels que sont le maintien de l'équilibre entre les régions et entre les agriculteurs, et la conservation du caractère de service public de la bonification.
