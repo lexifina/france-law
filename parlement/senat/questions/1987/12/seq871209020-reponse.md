@@ -1,0 +1,9 @@
+# Réponse à la question SEQ871209020
+
+- Question : [SEQ871209020](seq871209020.md) — Lutte contre les incendies de forêt : exonération fiscale des réserves d'eau
+
+## Réponse
+
+*Intérieur, JO du 1988-03-03, page 296*
+
+Réponse. -Ainsi que le reconnaît l'honorable parlementaire, l'efficacité de la nouvelle politique décidée par le Gouvernement pour mieux prévenir et combattre les incendies de forêts a pu être vérifiée dès l'été 1987. Le dispositif mis en place ainsi que les moyens financiers considérables affectés à la lutte contre ce fléau ont permis de diminuer des trois quarts par rapport aux années précédentes la superficie des espaces brûlés. Ces résultats ont été acquis grâce à une action mieux coordonnée entre les services de l'Etat et ceux des départements concernés et grâce au très important effort financier consenti par l'Etat qui a permis l'acquisition de matériels nouveaux. Cet effort financier de l'Etat sera reconduit dans les années à venir dans la mesure où une nouvelle taxe sur les briquets et les allumettes a été affectée à ce type d'action. Dans le cadre de la mise en place de ce nouveau dispositif, il n'apparaît pas souhaitable d'envisager de subordonner l'octroi d'un permis de construire à la réalisation d'une réserve d'eau ni de mettre en place un dispositif fiscal exonérant de la taxe foncière ces réserves d'eau lorsqu'elles sont assorties de moyens de lutte contre l'incendie. Cependant, il apparaît intéressant que les propriétaires disposant de réserves d'eau, et notamment de piscines, puissent les équiper de motopompes afin d'améliorer la protection de leurs habitations. Bien que ce type d'équipement soit d'abord utile aux propriétaires de réserves d'eau et que son coût ne soit pas excessif, des solutions sont actuellement recherchées pour inciter les personnes concernées à réaliser ce type d'investissement.
