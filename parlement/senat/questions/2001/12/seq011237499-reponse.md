@@ -1,0 +1,9 @@
+# Réponse à la question SEQ011237499
+
+- Question : [SEQ011237499](seq011237499.md) — Mise en place d'une nouvelle forme d'organisation de l'enseignement des langues vivantes
+
+## Réponse
+
+*Éducation, JO du 2002-03-21, page 856*
+
+Depuis la rentrée 2001, une expérimentation sur de nouveaux modes d'organisation des langues vivantes en lycée est en cours. Son objectif est de faire évoluer les modalités d'organisation actuelles qui, de fait, introduisent une grande rigidité dans la gestion pédagogique des groupes d'élèves et une hiérarchie entre les langues, sans prise en compte des niveaux de compétence réels atteints par les élèves. L'expérimentation permet une plus grande souplesse d'organisation de l'enseignement, qui peut se traduire notamment par des regroupements d'élèves supprimant la différenciation entre langue vivante 1 et langue vivante 2 et les répartissant en fonction de leurs attitudes et de leurs besoins dans la langue considérée. Cette expérimentation, qui concerne actuellement une vingtaine d'établissements - le département du Rhône n'étant pas pour le moment impliqué - vise à homogénéiser les capacités de communication écrites et orales dans les deux langues dont les élèves ont engagé l'étude avant d'arriver au lycée. Elle s'inscrit dans une politique plus générale, définie par le ministre de l'éducation nationale, dont l'objectif essentiel est de favoriser une bonne maîtrise d'au moins deux langues à l'issue du lycée. Compte tenu du caractère récent de l'expérimentation, il n'est pas possible à l'heure actuelle de dresser un bilan significatif des expériences engagées. Les résultats de l'analyse approfondie de ces dernières seront diffusées avant la prochaine rentrée scolaire dans la perspective d'un élargissement de l'expérimentation à un plus grand nombre d'établissements durant l'année scolaire 2002-2003.
