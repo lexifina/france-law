@@ -1,0 +1,9 @@
+# Réponse à la question SEQ021003324
+
+- Question : [SEQ021003324](seq021003324.md) — Réglementation de la circulation dans le tunnel sous le Mont-Blanc
+
+## Réponse
+
+*Équipement, JO du 2003-03-06, page 782*
+
+A la suite de l'accident survenu le 24 mars 1999, les gouvernements français et italien ont souhaité définir de nouvelles règles de circulation dans le tunnel du Mont-Blanc afin de garantir un très haut niveau de sécurité lors de sa réouverture. Ainsi, à l'occasion du sommet franco-italien du 29 janvier 2001, les ministres français et italien en charge des transports ont demandé à la commission intergouvernementale de contrôle du tunnel sous le Mont-Blanc (CIG) de constituer un groupe de travail chargé de rédiger et de lui proposer un projet de règlement de circulation répondant à l'objectif du Gouvernement. Mis en place dès le 5 février 2001, ce groupe, coprésidé par le préfet de Haute-Savoie, le président de la région du val d'Aoste et composé des chefs des délégations française et italienne du Comité de sécurité du tunnel du Mont-Blanc, ainsi que des représentants d'administrations centrales et locales relevant des ministères des transports et de l'intérieur, a établi un projet de texte validé par la CIG le 3 janvier 2002 et approuvé par les deux gouvernements. Le texte, ainsi mis au point, soumet notamment à autorisation préalable et circulation sous escorte, le transit des véhicules dont la hauteur excède 4,05 mètres. Ces conditions de passage furent imposées pour éviter que ces véhicules en heurtent un autre arrivant en sens opposé. En effet, compte tenu des dimensions du tunnel du Mont-Blanc, un véhicule excédant 4,05 mètres ne peut circuler sans heurter la voûte de l'ouvrage qu'en se déportant et ainsi en empiétant sur la voie opposée. Pour cette raison aucune dérogation à la règle fixée ne peut être admise.
