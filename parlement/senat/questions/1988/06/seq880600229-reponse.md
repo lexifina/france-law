@@ -1,0 +1,9 @@
+# Réponse à la question SEQ880600229
+
+- Question : [SEQ880600229](seq880600229.md) — Apprentissage : développement de la formation alternée dans les entreprises publiques
+
+## Réponse
+
+*Formation professionnelle, JO du 1988-10-27, page 1195*
+
+Réponse. - Conformément aux dispositions des articles L. 117-1 et L. 117-2 du code du travail, le contrat d'apprentissage est un contrat de travail régi par les lois, règlements et conventions ou accords collectifs de travail entre employeurs et salariés dans la branche ou l'entreprise considérée. De multiples dispositions législatives et réglementaires se réfèrent explicitement au régime du travail dans le secteur privé et à ses institutions : conventions collectives, agrément du comité départemental de la formation professionnelle, de la promotion sociale et de l'emploi, avis de la chambre consulaire, de la chambre de métiers, de la chambre d'agriculture ou du comité d'entreprise, enregistrement du contrat par l'administration chargée du contrôle de l'application de la législation du travail et des lois sociales, conseil de prud'hommes, inspection du travail, etc. Il n'est donc pas possible juridiquement d'admettre que les communes soient soumises à une législation qui manifestement a été élaborée pour les entreprises du secteur privé et non pour le secteur public. C'est pourquoi, la circulaire n° 76005 du 7 janvier 1976 exclut de l'agrément, au titre de l'apprentissage, les entreprises relevant des secteurs des collectivités publiques. En outre le code de l'administration communale prévoit les conditions selon lesquelles sont recrutés les agents communaux et aucune disposition du code ne prévoit que l'apprentissage constitue une voie d'accès aux emplois communaux. Cette position a été réaffirmée par le conseil supérieur de la fonction publique territoriale saisi de cette question, lors de son assemblée plénière du 24 octobre 1985.
