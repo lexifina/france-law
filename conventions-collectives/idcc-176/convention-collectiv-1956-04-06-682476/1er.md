@@ -1,7 +1,95 @@
 # Article 1
 
-1. La présente convention collective nationale, conclue en application de la loi du 11 février 1950 (section II du chapitre IV bis du titre II du livre Ier du code du travail), règle, sur le territoire métropolitain, au sein des établissements régis par la loi du 11 septembre 1941 et les textes subséquents les rapports de travail entre, d'une part, les employeurs et, d'autre part, le personnel salarié.
+*La présente convention collective, conclue en application du titre III, du livre Ier du code du travail, règle sur le territoire métropolitain les relations entre les employeurs et les salariés des entreprises ou établissements pharmaceutiques adhérents du syndicat national de l'industrie pharmaceutique et ayant pour activité principale l'une des activités énumérées ci-dessous. Elle s'applique également aux sièges sociaux, services administratifs, financiers et d'études de ces entreprises ou établissements ainsi qu'à leurs annexes ou dépendances (ateliers, entrepôts, bureaux ..).
 
-2. Un avenant n° 1 "Classifications et Salaires" à la présente convention fixe les règles de classification des salariés ainsi que les salaires minima professionnels.
+Activités visées par la présente convention collective
 
-3. Un avenant n° 2 "Dispositions particulières" à la présente convention fixe les règles spécifiques applicables aux salariés en fonction du type d'activité exercée et de leur contenu.
+1. Fabrication et/ou exploitation de spécialités pharmaceutiques et autres médicaments à usage humain, au sens des articles L. 511, L. 596 et L. 601 du code de la santé publique, y compris la transformation du sang et la fabrication de dérivés sanguins.
+
+2. Recherche et développement en médecine et en pharmacie humaines, services et sous-traitance de la recherche et développement et du contrôle correspondant aux activités ci-dessus.
+
+3. Lorsqu'elles sont effectuées par des entreprises ou établissements directement liés au titulaire ou exploitant de l'autorisation de mise sur le marché (A.M.M.) et dont la finalité économique est la fabrication et/ou l'exploitation de médicaments et spécialités pharmaceutiques à usage humain visés au § 1 ci-dessus :
+
+- le façonnage et le conditionnement ;
+
+- la promotion ;
+
+- la distribution par dépositaire, de ces spécialités et médicaments, ainsi que les activités administratives, d'études, de conseil et de services concourant à la réalisation de cette finalité économique.
+
+Les activités énumérées ci-dessus figurent dans la nomenclature d'activités françaises (N.A.F.) annexée au décret n° 92-1129 du 2 octobre 1992 dans les classes suivantes dont l'énumération n'est pas exhaustive :
+
+24.4 A
+
+Fabrication de produits pharmaceutiques de base
+
+Est visée dans cette classe, la transformation du sang et des dérivés sanguins.
+
+24.4 C
+
+Fabrication de médicaments
+
+Pour l'ensemble de la classe, dès lors qu'il s'agit de médicaments à usage de la médecine humaine.
+
+24.4 D
+
+Fabrication d'autres produits pharmaceutiques
+
+Est visée dans cette classe, la fabrication de médicaments n'ayant pas le caractère de spécialités, à usage de la médecine humaine.
+
+51.1 R
+
+Intermédiaires spécialisés du commerce
+
+Sont ici visés les services d'intermédiaires du commerce de gros de médicaments pharmaceutiques à usage de la médecine humaine, exclusivement lorsqu'ils sont exercés dans les conditions définies au § 3 ci-dessus (ex. : distribution par dépositaire...).
+
+51.4 N
+
+Commerce de gros de produits pharmaceutiques
+
+Est visé ici le commerce de gros de médicaments et spécialités pharmaceutiques à usage humain, exclusivement lorsqu'il est exercé dans les conditions définies au § 3 ci-dessus.
+
+73.1 Z
+
+Recherche et développement en sciences physiques et naturelles
+
+Sont visées dans cette classe, les activités telles que définies à la division 73 de la N.A.F., de recherche et développement en science de la vie : médecine, biologie, biochimie, pharmacie et plus généralement de recherche et développement en vue de la fabrication et de l'obtention d'A.M.M. et de l'exploitation de médicaments et spécialités pharmaceutiques à usage humain.
+
+74.1 J
+
+Administration d'entreprise
+
+Sont visées l'ensemble des activités énumérées dans cette classe dès lors qu'elles sont exercées à titre principal pour des unités, firmes ou sociétés liées par le présent champ d'application dont la finalité économique est la recherche, le développement, la fabrication et/ou l'exploitation de médicaments et spécialités à usage humain.
+
+74.3 B
+
+Analyses, essais et inspections techniques
+
+Sont visées les activités énumérées dans cette classe, réalisées dans le cadre de travaux menés en vue de l'obtention de l'A.M.M., de la fabrication ou de l'exploitation de médicaments et spécialités à usage humain.
+
+74.4 B
+
+Agences, conseil en publicité
+
+Est exclusivement visée dans cette classe, l'activité de visite médicale lorsqu'elle est exercée dans les conditions définies au § 3 ci-dessus.
+
+91.1 A
+
+Organisations patronales et consulaires
+
+Sont visées dans cette classe, les organisations patronales dont l'activité principale se rapporte à l'industrie pharmaceutique à l'usage de la médecine humaine.
+
+91.1 C
+
+Organisations professionnelles
+
+Sont visées dans cette classe, les organisations professionnelles dont l'activité principale se rapporte à l'industrie pharmaceutique à l'usage de la médecine humaine.
+
+Sont, en outre, rattachées à la présente convention collective, quel que soit le code N.A.F. qui leur est attribué en fonction de leur activité, les associations et structures créées par le S.N.I.P. dans le cadre de ses activités syndicales et des services qu'il rend à ses adhérents.
+
+La référence à la nomenclature des activités françaises (N.A.F.) est donnée à titre indicatif. Elle n'est déterminante que si elle correspond à l'activité principale effective de l'entreprise ou l'établissement définis au premier alinéa ci-dessus.*
+
+NOTA : (1) Article exclu de l'extension par arrêté du 3 octobre 1997.
+
+NOTA :
+
+NOTA : (1) Article exclu de l'extension par arrêté du 3 octobre 1997.
