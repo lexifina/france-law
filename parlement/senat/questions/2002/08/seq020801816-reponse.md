@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020801816
+
+- Question : [SEQ020801816](seq020801816.md) — Assouplissement de la réglementation relative aux opérations funéraires
+
+## Réponse
+
+*Santé, JO du 2003-01-02, page 78*
+
+L'honorable parlementaire attire l'attention du ministre des affaires sociales, du travail et de la solidarité sur les modalités d'application aux maisons de retraite des dispositions législatives et réglementaires relatives aux chambres mortuaires, notamment en ce qu'elles définissent des conditions de fonctionnement trop lourdes pour ces dernières. Le ministre de la santé, de la famille et des personnes handicapées compétent pour répondre sur le fond rappelle que les dispositions de l'article L. 2223-39 du code général des collectivités territoriales ne font pas obligation aux maisons de retraite de disposer d'une chambre mortuaire. Cependant, l'autorité réglementaire a prévu, dans l'article R. 2223-97 du code précité, la faculté, pour les maisons de retraite, de créer et de gérer une chambre mortuaire. Il va de soi que les maisons de retraite qui choisissent de s'équiper d'une chambre mortuaire doivent respecter la réglementation applicable à ce type de local. Par ailleurs, les maisons de retraite qui le souhaitent peuvent aussi rechercher une solution dans le cadre d'un contrat de coopération avec un établissement disposant d'un tel équipement. A défaut les maisons de retraite dont l'activité ne justifie pas l'existence d'une chambre mortuaire peuvent soit conserver le corps, jusqu'à la mise en bière, dans la chambre, cette dernière étant le domicile du défunt, soit procéder à son transfert vers une chambre funéraire, étant entendu que l'article R. 2223-79 du code précité (ex-article R. 361-40) ne s'applique pas dans cette hypothèse. Dans ces conditions, la gamme des solutions envisageables pour les maisons de retraite ne justifie pas une modification de la réglementation en vigueur.
