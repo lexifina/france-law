@@ -1,0 +1,9 @@
+# Réponse à la question SEQ020701422
+
+- Question : [SEQ020701422](seq020701422.md) — Vente de cocardes tricolores
+
+## Réponse
+
+*Intérieur, JO du 2002-12-05, page 2983*
+
+L'article 50 du décret n° 89-655 du 13 septembre 1989 modifié relatif aux cérémonies publiques, préséances, honneurs civils et militaires, précise que l'utilisation de cocardes et insignes particuliers aux couleurs nationales sur les véhicules automobiles est interdite, sauf en ce qui concerne : le Président de la République, les membres du Gouvernement, les membres du Parlement, le président du Conseil constitutionnel, le vice-président du Conseil d'Etat, le président du conseil économique et social, les préfets dans leur département ou dans les collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon, les sous-préfets dans leur arrondissement, les représentants de l'Etat dans les territoires d'outre-mer. Il s'agit d'une liste limitative et l'usage de cocardes par d'autres autorités n'a donc aucun fondement réglementaire, de même que l'usage, par ces autorités, de cocardes avec inscriptions particulières comme le signale l'honorable parlementaire. L'interdiction de la vente de ces cocardes non conformes, qu'il appartient au seul législateur de décider, apparaît cependant difficile sans nuire au principe de la liberté du commerce et de l'industrie, dès lors qu'un usage à titre privé est possible. Dans ces conditions, la mise en application des dispositions de l'article 433-15 du code pénal prévoyant que toute utilisation, par des personnes ne pouvant y prétendre, d'insigne ou de document présentant des similitudes avec ceux utilisés par l'autorité publique est punie d'amende ou de peine d'emprisonnement, apparaît comme un moyen de lutter contre l'usage irrégulier de ce signe distinctif exclusif de certaines personnalités publiques.
